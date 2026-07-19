@@ -1,23 +1,25 @@
 ---
-title: "EM-algoritmen og GMM-modellen"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: EM-algoritmen og GMM-modellen
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /da/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T15:54:06.324575Z"
-lastmod: "2026-07-18T17:15:09.283232Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T15:54:06.324575Z'
+lastmod: '2026-07-18T17:15:09.283232Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Forventningsmaksimeringsalgoritmen (EM) er en iterativ metode til at finde maksimum sandsynlighedsestimater i statistiske modeller med latente variabler og ofte brugt til at tilpasse Gaussiske Blandin"
+source: agnes_llm
+status: published
+language: da
+description: Forventningsmaksimeringsalgoritmen (EM) er en iterativ metode til at
+  finde maksimum sandsynlighedsestimater i statistiske modeller med latente variabler
+  og ofte brugt til at tilpasse Gaussiske Blandin
 ---
-
 ## Definition
 
 Denne term refererer til det synergistiske forhold mellem Forventningsmaksimeringsalgoritmen (EM) og Gaussiske Blandingsmodeller (GMM). En GMM antager, at alle datapunkter er genereret fra en blanding af flere Gaussiske fordelinger, hvor EM-algoritmen bruges til at estimere parametrene for disse komponenter iterativt.

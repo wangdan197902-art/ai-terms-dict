@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /es/terms/instruction_following/
 date: "2026-07-18T10:54:59.843864Z"
 lastmod: "2026-07-18T11:44:44.819997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La capacidad de un modelo de IA para interpretar y ejecutar con precisión comandos o restricciones humanos específicos."
 ---
-
 ## Definition
 
 El seguimiento de instrucciones se refiere a la capacidad de los modelos de lenguaje grandes y otros sistemas de IA para comprender directrices humanas matizadas y adherirse a restricciones explícitas dentro de una instrucción (prompt). Este cambio de paradigma

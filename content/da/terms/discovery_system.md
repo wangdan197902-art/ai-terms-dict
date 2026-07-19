@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /da/terms/discovery_system/
 date: "2026-07-18T15:53:30.038038Z"
 lastmod: "2026-07-18T17:15:09.282355Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et automatiseret rammeværk eller algoritmisk proces designet til at identificere, udforske og evaluere potentielle løsninger, mønstre eller hypoteser inden for et stort søgefelt."
 ---
-
 ## Definition
 
 Et discovery system er et datadrevent rammeværk, der sigter mod at accelerere videnskabelige eller analytiske gennembrud ved at automatisere udforskningen af enorme datarum. I modsætning til traditionel optimering, der fokuserer på finjustering, søger disse systemer bredt efter nye, ikke-intuitive løsninger.

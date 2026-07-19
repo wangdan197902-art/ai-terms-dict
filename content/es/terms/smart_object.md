@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /es/terms/smart_object/
 date: "2026-07-18T11:08:01.583698Z"
 lastmod: "2026-07-18T11:44:44.854661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una entidad física equipada con sensores, actuadores y conectividad para recopilar datos e interactuar inteligentemente con su entorno."
 ---
-
 ## Definition
 
 Los objetos inteligentes son componentes del Internet de las Cosas (IoT) que poseen identificadores únicos y la capacidad de transferir datos a través de una red sin interacción directa entre humanos o entre humano y computadora, permitiendo la automatización y el monitoreo remoto.

@@ -1,23 +1,24 @@
 ---
-title: "Memorie pe termen lung și scurt"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Memorie pe termen lung și scurt
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /ro/terms/long_short_term_memory/
-date: "2026-07-18T15:36:19.990639Z"
-lastmod: "2026-07-18T17:15:09.615661Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:36:19.990639Z'
+lastmod: '2026-07-18T17:15:09.615661Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O arhitectură specializată de rețea neuronală recurrentă, concepută pentru a învăța dependențe pe termen lung în datele secvențiale."
+source: agnes_llm
+status: published
+language: ro
+description: O arhitectură specializată de rețea neuronală recurrentă, concepută pentru
+  a învăța dependențe pe termen lung în datele secvențiale.
 ---
-
 ## Definition
 
 Rețelele LSTM rezolvă problema dispariției gradientului, comună în RNN-urile standard, folosind o stare a celulei și trei mecanisme de poartă: poarta de intrare, poarta de uitare și poarta de ieșire. Aceste porți reglează fluxul de informații

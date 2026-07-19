@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /fi/terms/brain_technology/
 date: "2026-07-18T15:46:09.194938Z"
 lastmod: "2026-07-18T17:15:09.389586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teknologiat, jotka on suunniteltu liittymään ihmisaivoihin, seuraamaan niitä tai moduloida niitä, mukaan lukien aivo-tietokonetulkinnat ja neurokuvantamisvälineet."
 ---
-
 ## Definition
 
 Aivoteknologia kattaa laitteisto- ja ohjelmistojärjestelmät, jotka vuorovaikuttavat suoraan keskushermoston kanssa. Tärkeimpiä esimerkkejä ovat aivo-tietokoneliittymät (BCI), jotka kääntävät hermosignaaleja...

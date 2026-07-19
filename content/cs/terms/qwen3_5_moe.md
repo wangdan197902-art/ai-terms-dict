@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /cs/terms/qwen3_5_moe/
 date: "2026-07-18T16:14:53.937089Z"
 lastmod: "2026-07-18T17:15:09.195000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Hypotetická nebo budoucí varianta modelu Qwen3 série založená na řídkém směšovači expertů (Mixture of Experts), navržená pro vysokou efektivitu."
 ---
-
 ## Definition
 
 Tento termín označuje specializovanou architekturu v rámci rodiny Qwen, která pravděpodobně využívá design směšovače expertů (Mixture of Experts). U takových modelů je aktivována pouze podmnožina parametrů neuronové sítě (experti), což umožňuje úsporu výpočetních zdrojů při zachování výkonu.

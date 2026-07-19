@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /no/terms/adaptive/
 date: "2026-07-18T15:23:14.121220Z"
 lastmod: "2026-07-18T16:38:06.931993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Evnen til et system til å endre oppførsel eller parametere som respons på skiftende forhold."
 ---
-
 ## Definition
 
 Innen AI beskriver «adaptiv» systemer eller algoritmer som kan justere interne tilstander, parametere eller strategier dynamisk basert på ny data eller tilbakemeldinger fra miljøet. Denne evnen lar modellen tilpasse seg.

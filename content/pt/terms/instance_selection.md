@@ -1,23 +1,24 @@
 ---
-title: "Seleção de Instâncias"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Seleção de Instâncias
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /pt/terms/instance_selection/
-date: "2026-07-18T15:05:42.632365Z"
-lastmod: "2026-07-18T15:51:59.501886Z"
+slug: instance_selection
+date: '2026-07-18T15:05:42.632365Z'
+lastmod: '2026-07-18T15:51:59.501886Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica de pré-processamento que reduz o tamanho de um conjunto de dados selecionando um subconjunto de instâncias representativas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica de pré-processamento que reduz o tamanho de um conjunto de
+  dados selecionando um subconjunto de instâncias representativas.
 ---
-
 ## Definition
 
 A seleção de instâncias visa melhorar a eficiência computacional e o desempenho do modelo removendo pontos de dados redundantes ou ruidosos. Diferente da seleção de características, ela opera sobre as linhas do conjunto de dados. O objetivo

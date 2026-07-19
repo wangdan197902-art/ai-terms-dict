@@ -1,23 +1,24 @@
 ---
-title: "Instanzbasiertes Lernen"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Instanzbasiertes Lernen
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /de/terms/instance_based_learning/
-date: "2026-07-18T11:19:34.928320Z"
-lastmod: "2026-07-18T11:44:44.952348Z"
+slug: instance_based_learning
+date: '2026-07-18T11:19:34.928320Z'
+lastmod: '2026-07-18T11:44:44.952348Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein faules Lernverfahren, bei dem Vorhersagen durch Vergleich neuer Eingaben mit gespeicherten Trainingsinstanzen getroffen werden."
+source: agnes_llm
+status: published
+language: de
+description: Ein faules Lernverfahren, bei dem Vorhersagen durch Vergleich neuer Eingaben
+  mit gespeicherten Trainingsinstanzen getroffen werden.
 ---
-
 ## Definition
 
 Auch als gedächtnisbasiertes Lernen bekannt, erstellt diese Technik während des Trainings kein verallgemeinertes Modell. Stattdessen wird der gesamte Trainingsdatensatz gespeichert. Wenn eine Vorhersage erforderlich ist, sucht es die ähnlichsten

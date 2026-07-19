@@ -1,23 +1,23 @@
 ---
-title: "Sintetic"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Sintetic
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /ro/terms/synthetic/
-date: "2026-07-18T15:30:38.524673Z"
-lastmod: "2026-07-18T17:15:09.605052Z"
+slug: synthetic
+date: '2026-07-18T15:30:38.524673Z'
+lastmod: '2026-07-18T17:15:09.605052Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Sintetic se referă la date sau conținut generate artificial de algoritmi, în loc să fie colectate din surse naturale."
+source: agnes_llm
+status: published
+language: ro
+description: Sintetic se referă la date sau conținut generate artificial de algoritmi,
+  în loc să fie colectate din surse naturale.
 ---
-
 ## Definition
 
 În IA, datele sintetice sunt informații generate artificial care imită datele din lumea reală, dar nu conțin înregistrări personale sau sensibile reale. Sunt cruciale pentru antrenarea modelelor de învățare automată atunci când datele reale sunt limitate sau

@@ -1,23 +1,24 @@
 ---
-title: "I2I"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: I2I
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /pl/terms/i2i/
-date: "2026-07-18T15:59:35.068975Z"
-lastmod: "2026-07-18T17:15:08.884087Z"
+slug: i2i
+date: '2026-07-18T15:59:35.068975Z'
+lastmod: '2026-07-18T17:15:08.884087Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Tłumaczenie obraz na obraz (Image-to-Image) to technika computer vision, która przekształca obraz wejściowy w odpowiadający mu obraz wyjściowy, zachowując jednocześnie treść semantyczną."
+source: agnes_llm
+status: published
+language: pl
+description: Tłumaczenie obraz na obraz (Image-to-Image) to technika computer vision,
+  która przekształca obraz wejściowy w odpowiadający mu obraz wyjściowy, zachowując
+  jednocześnie treść semantyczną.
 ---
-
 ## Definition
 
 Tłumaczenie obraz na obraz (I2I) polega na mapowaniu pikseli z domeny źródłowej do docelowej za pomocą modeli uczenia głębokiego, takich jak sieci GAN lub modele dyfuzyjne. Pozwala ono na przenoszenie stylu, semantyczne segmentację i inne zastosowania generatywne.

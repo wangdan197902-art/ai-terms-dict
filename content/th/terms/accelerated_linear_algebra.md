@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /th/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:39:17.733828Z"
 lastmod: "2026-07-18T16:38:07.570406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การเร่งความเร็วพีชคณิตเชิงเส้นเกี่ยวข้องกับการเพิ่มประสิทธิภาพการดำเนินการเมทริกซ์โดยใช้ฮาร์ดแวร์เร่งความเร็วเช่น GPU และ TPU เพื่อประสิทธิภาพสูง"
 ---
-
 ## Definition
 
 สาขานี้มุ่งเน้นไปที่การเร่งความเร็วการคำนวณพีชคณิตเชิงเส้นพื้นฐาน ซึ่งเป็นหัวใจสำคัญของแมชชีนเลิร์นนิงและการจำลองทางวิทยาศาสตร์ โดยการอาศัยความสามารถในการประมวลผลแบบขนานของ GPU, TPU,...

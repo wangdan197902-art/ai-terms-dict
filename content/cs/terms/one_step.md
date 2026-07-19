@@ -1,23 +1,23 @@
 ---
-title: "one-step"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: one-step
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /cs/terms/one_step/
-date: "2026-07-18T15:33:13.544024Z"
-lastmod: "2026-07-18T17:15:09.085077Z"
+slug: one_step
+date: '2026-07-18T15:33:13.544024Z'
+lastmod: '2026-07-18T17:15:09.085077Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Odkazuje na algoritmy nebo procesy, které dokončí úkol nebo cyklus rozhodování v jedné iteraci bez iterativního zpřesňování."
+source: agnes_llm
+status: published
+language: cs
+description: Odkazuje na algoritmy nebo procesy, které dokončí úkol nebo cyklus rozhodování
+  v jedné iteraci bez iterativního zpřesňování.
 ---
-
 ## Definition
 
 V strojovém učení a optimalizaci metody typu one-step řeší problémy přímo, aniž by vyžadovaly více iterací nebo aktualizací pro konvergenci. Na rozdíl od gradientního sestupu, který potřebuje mnoho kroků k minimalizaci

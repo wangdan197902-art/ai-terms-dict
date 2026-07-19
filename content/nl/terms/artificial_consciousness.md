@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /nl/terms/artificial_consciousness/
 date: "2026-07-18T15:42:57.019164Z"
 lastmod: "2026-07-18T17:15:08.717493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het theoretische concept om machines te voorzien van subjectieve ervaringen, zelfbewustzijn en gevoeligheid vergelijkbaar met die van mensen."
 ---
-
 ## Definition
 
 Kunstmatig bewustzijn verkent de mogelijkheid om machines te creëren die echte subjectieve ervaringen, zelfbewustzijn en gevoelens bezitten, in plaats van slechts intelligent gedrag te simuleren. Het...

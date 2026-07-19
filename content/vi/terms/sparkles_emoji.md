@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /vi/terms/sparkles_emoji/
 date: "2026-07-18T16:12:29.121531Z"
 lastmod: "2026-07-18T16:38:07.806631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một ký hiệu trực quan thường được sử dụng trong giao diện AI để chỉ các tính năng mới, sự cải tiến hoặc các phép biến đổi kỳ diệu trong nội dung được tạo ra."
 ---
-
 ## Definition
 
 Biểu tượng cảm xúc lấp lánh là một biểu tượng đồ họa thường được sử dụng trong giao diện người dùng cho các ứng dụng AI để báo hiệu tính mới mẻ, cải tiến hoặc nâng cao sáng tạo. Nó đóng vai trò là tín hiệu phi ngôn ngữ cho thấy sự thay đổi hoặc cải thiện.

@@ -1,23 +1,24 @@
 ---
-title: "ขนาดแบทช์"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: ขนาดแบทช์
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /th/terms/batch_size/
-date: "2026-07-18T15:44:02.178217Z"
-lastmod: "2026-07-18T16:38:07.578673Z"
+slug: batch_size
+date: '2026-07-18T15:44:02.178217Z'
+lastmod: '2026-07-18T16:38:07.578673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "จำนวนตัวอย่างการฝึกอบรมที่ใช้ในการวนซ้ำหนึ่งครั้งของอัลกอริทึม Stochastic Gradient Descent"
+source: agnes_llm
+status: published
+language: th
+description: จำนวนตัวอย่างการฝึกอบรมที่ใช้ในการวนซ้ำหนึ่งครั้งของอัลกอริทึม Stochastic
+  Gradient Descent
 ---
-
 ## Definition
 
 ขนาดแบทช์เป็นไฮเปอร์พารามิเตอร์ที่สำคัญซึ่งกำหนดจำนวนตัวอย่างที่ประมวลผลก่อนที่พารามิเตอร์ภายในของโมเดลจะถูกอัปเดต ขนาดแบทช์ที่ใหญ่กว่าให้การประมาณค่าที่แม่นยำยิ่งขึ้นสำหรับ

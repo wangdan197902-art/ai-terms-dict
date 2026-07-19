@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /cs/terms/psychology_of_reasoning/
 date: "2026-07-18T16:13:56.964176Z"
 lastmod: "2026-07-18T17:15:09.192694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Interdisciplinární studium toho, jak lidé tvoří úsudky, přijímají rozhodnutí a řeší problémy, což informuje architektury kognitivní AI."
 ---
-
 ## Definition
 
 Toto obor zkoumá mentální procesy ležící v základu lidské dedukce, indukcí a abdukce. Prozkoumává kognitivní zkreslení, heuristiky a logické struktury, které řídí lidské myšlení. V AI tyto poznatky pomáhají navrhovat systémy, které lépe odpovídají lidským způsobům uvažování.

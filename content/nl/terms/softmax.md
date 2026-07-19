@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /nl/terms/softmax/
-date: "2026-07-18T15:39:02.757998Z"
-lastmod: "2026-07-18T17:15:08.709145Z"
+slug: softmax
+date: '2026-07-18T15:39:02.757998Z'
+lastmod: '2026-07-18T17:15:08.709145Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een wiskundige functie die een vector van willekeurige reële scores omzet in een waarschijnlijkheidsverdeling."
+source: agnes_llm
+status: published
+language: nl
+description: Een wiskundige functie die een vector van willekeurige reële scores omzet
+  in een waarschijnlijkheidsverdeling.
 ---
-
 ## Definition
 
 Softmax wordt veelvuldig gebruikt in de uitvoerlaag van neurale netwerken voor meerclassificatietaken. Het neemt een vector van ruwe logit-waarden en normaliseert deze zodat elk element een waarschijnlijkheid vertegenwoordigt.

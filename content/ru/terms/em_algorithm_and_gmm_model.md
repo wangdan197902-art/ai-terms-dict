@@ -1,23 +1,25 @@
 ---
-title: "Алгоритм EM и модель GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: Алгоритм EM и модель GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /ru/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T15:51:13.040392Z"
-lastmod: "2026-07-18T16:38:07.151597Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T15:51:13.040392Z'
+lastmod: '2026-07-18T16:38:07.151597Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Алгоритм ожидания-максимизации (EM) — это итеративный метод нахождения оценок максимального правдоподобия в статистических моделях со скрытыми переменными, широко используемый для подгонки моделей гау"
+source: agnes_llm
+status: published
+language: ru
+description: Алгоритм ожидания-максимизации (EM) — это итеративный метод нахождения
+  оценок максимального правдоподобия в статистических моделях со скрытыми переменными,
+  широко используемый для подгонки моделей гау
 ---
-
 ## Definition
 
 Этот термин относится к синергетической связи между алгоритмом ожидания-максимизации (EM) и моделями гауссовой смеси (GMM). Модель GMM предполагает, что все точки данных сгенерированы из смеси

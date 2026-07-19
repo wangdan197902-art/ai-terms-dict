@@ -1,23 +1,25 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /vi/terms/qlora/
-date: "2026-07-18T15:36:48.459215Z"
-lastmod: "2026-07-18T16:38:07.712335Z"
+slug: qlora
+date: '2026-07-18T15:36:48.459215Z'
+lastmod: '2026-07-18T16:38:07.712335Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Điều chỉnh hạng thấp lượng tử hóa (Quantized Low-Rank Adaptation), một phương pháp tinh chỉnh hiệu quả các mô hình ngôn ngữ lớn bằng cách sử dụng lượng tử hóa 4-bit và các bộ thích ứng hạng thấp."
+source: agnes_llm
+status: published
+language: vi
+description: Điều chỉnh hạng thấp lượng tử hóa (Quantized Low-Rank Adaptation), một
+  phương pháp tinh chỉnh hiệu quả các mô hình ngôn ngữ lớn bằng cách sử dụng lượng
+  tử hóa 4-bit và các bộ thích ứng hạng thấp.
 ---
-
 ## Definition
 
 QLoRA kết hợp Điều chỉnh hạng thấp (LoRA) với lượng tử hóa 4-bit để giảm đáng kể dung lượng bộ nhớ cần thiết cho việc tinh chỉnh các mô hình khổng lồ. Bằng cách lưu trữ trọng số ở định dạng 4-bit và thêm các bộ thích ứng hạng thấp.

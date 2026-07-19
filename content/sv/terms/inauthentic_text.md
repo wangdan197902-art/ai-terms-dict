@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /sv/terms/inauthentic_text/
 date: "2026-07-18T16:03:13.080704Z"
 lastmod: "2026-07-18T17:15:09.014337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Textinnehåll som är artificiellt genererat eller manipulerat för att vilseläsa läsare gällande dess ursprung, författskap eller sakliga grund."
 ---
-
 ## Definition
 
 Oärlig text avser skrivet material producerat av AI-system eller människor med vilseledande avsikt, utan äkta mänsklig erfarenhet eller saklig grundning. Det inkluderar AI-genererat spam, fabricerade nyheter och manipulering av fakta.

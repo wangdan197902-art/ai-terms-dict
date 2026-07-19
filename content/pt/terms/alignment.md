@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /pt/terms/alignment/
 date: "2026-07-18T14:32:09.368166Z"
 lastmod: "2026-07-18T15:51:59.422781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de garantir que os objetivos e comportamentos de um sistema de IA correspondam aos valores e intenções humanos."
 ---
-
 ## Definition
 
 O alinhamento foca em assegurar que os sistemas de IA façam o que os humanos realmente desejam, em vez de apenas o que pedem literalmente. Envolve técnicas como Aprendizado por Reforço com Feedback Humano (RLHF) para ajustar o comportamento do modelo.

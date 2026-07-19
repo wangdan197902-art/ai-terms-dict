@@ -1,23 +1,25 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /fr/terms/facebook/
-date: "2026-07-18T11:16:51.135163Z"
-lastmod: "2026-07-18T11:44:45.249798Z"
+slug: facebook
+date: '2026-07-18T11:16:51.135163Z'
+lastmod: '2026-07-18T11:44:45.249798Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une majeure plateforme de médias sociaux et entreprise technologique qui influence considérablement le développement de l'IA grâce à sa recherche en open source et à ses écosystèmes de données à grand"
+source: agnes_llm
+status: published
+language: fr
+description: Une majeure plateforme de médias sociaux et entreprise technologique
+  qui influence considérablement le développement de l'IA grâce à sa recherche en
+  open source et à ses écosystèmes de données à grand
 ---
-
 ## Definition
 
 Facebook, désormais intégré à Meta Platforms Inc., est une force motrice de premier plan dans la recherche et l'application de l'intelligence artificielle. Il héberge d'immenses quantités de données générées par les utilisateurs, utilisées pour entraîner des modèles d'apprentissage automatique.

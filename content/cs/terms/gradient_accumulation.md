@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /cs/terms/gradient_accumulation/
 date: "2026-07-18T16:00:13.227854Z"
 lastmod: "2026-07-18T17:15:09.135685Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Akumulace gradientů je technika, která simuluje větší velikosti batchů sčítáním gradientů přes více průchodů vpřed a vzad před aktualizací vah."
 ---
-
 ## Definition
 
 Tato optimalizační strategie umožňuje trénovat hluboké učebné modely s efektivními velikostmi batchů, které jsou větší než to, co se vejde do paměti GPU. Akumulací gradientů z několika mini-batchů a následnou aktualizací vah se dosahuje stability tréninku při omezených hardwarových zdrojích.

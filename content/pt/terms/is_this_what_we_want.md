@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /pt/terms/is_this_what_we_want/
 date: "2026-07-18T15:06:43.445067Z"
 lastmod: "2026-07-18T15:51:59.503773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura ética crítica usada para avaliar sistemas de IA contra valores sociais, justiça e possíveis consequências prejudiciais."
 ---
-
 ## Definition
 
 Esta frase representa uma questão pivotal na ética e governança de IA, instigando as partes interessadas a avaliar se as tecnologias de IA implantadas estão alinhadas com os valores humanos e o interesse público. Envolve escrutínio rigoroso sobre viés algorítmico, transparência, responsabilidade e impacto social, servindo como um freio reflexivo antes da adoção em larga escala.

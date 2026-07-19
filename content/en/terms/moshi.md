@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /en/terms/moshi/
 date: "2026-07-18T10:07:54.130380Z"
 lastmod: "2026-07-18T11:44:44.701554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A speech-language model developed by Kyutai that jointly learns text and audio representations for seamless multimodal interaction."
 ---
-
 ## Definition
 
 Moshi is an advanced AI model created by Kyutai that integrates speech and text processing into a unified framework. Unlike traditional systems that convert speech to text before processing, Moshi learns joint representations of both modalities directly. This allows for more natural, real-time conversational abilities with prosody and emotional nuance preserved. It represents a significant step towards building AI agents that can interact with humans through voice as naturally as through text, enhancing applications in customer service and companion technologies.

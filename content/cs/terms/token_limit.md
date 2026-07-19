@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /cs/terms/token_limit/
 date: "2026-07-18T15:39:06.387107Z"
 lastmod: "2026-07-18T17:15:09.094528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Maximální počet tokenů, které může model AI zpracovat v jednom vstupním nebo výstupním pořadí."
 ---
-
 ## Definition
 
 Limit tokenů definuje omezení velikosti kontextového okna pro velké jazykové modely, což omezuje množství textu, které lze analyzovat nebo vygenerovat najednou. Tato architektonická hranice ovlivňuje správu paměti,

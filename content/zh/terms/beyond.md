@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /zh/terms/beyond/
 date: "2026-07-18T10:49:30.666512Z"
 lastmod: "2026-07-18T11:44:45.363308Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个概念性术语，指超出当前技术限制或AI传统边界的进步或应用。"
 ---
-
 ## Definition
 
 在AI术语背景下，“超越”通常描述超越当前能力的新兴范式或未来方向，例如通用人工智能（AGI）或量子增强计算等。

@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /pt/terms/bias/
 date: "2026-07-18T14:32:23.646607Z"
 lastmod: "2026-07-18T15:51:59.423170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Preconceito sistemático em modelos de IA que leva a resultados injustos contra certos grupos ou indivíduos."
 ---
-
 ## Definition
 
 Na ética da IA, viés refere-se à discriminação sistemática e injusta na tomada de decisões algorítmicas, muitas vezes resultante de dados de treinamento desequilibrados ou falhas no design do modelo. Isso pode levar a impactos adversos significativos sobre grupos específicos, perpetuando desigualdades sociais e prejudicando a justiça e a imparcialidade dos sistemas automatizados.

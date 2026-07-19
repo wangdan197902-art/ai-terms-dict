@@ -1,23 +1,24 @@
 ---
-title: "Prädiktive Zustandsrepräsentation"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Prädiktive Zustandsrepräsentation
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /de/terms/predictive_state_representation/
-date: "2026-07-18T11:28:02.085031Z"
-lastmod: "2026-07-18T11:44:44.976090Z"
+slug: predictive_state_representation
+date: '2026-07-18T11:28:02.085031Z'
+lastmod: '2026-07-18T11:44:44.976090Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine latente Zustandsformulierung im Verstärkungslernen, die zukünftige Beobachtungen basierend auf der Aktionshistorie vorhersagt."
+source: agnes_llm
+status: published
+language: de
+description: Eine latente Zustandsformulierung im Verstärkungslernen, die zukünftige
+  Beobachtungen basierend auf der Aktionshistorie vorhersagt.
 ---
-
 ## Definition
 
 Prädiktive Zustandsrepräsentationen (PSRs) erweitern traditionelle partiell beobachtbare Markov-Entscheidungsprozesse, indem sie Zustände als Vektoren von Vorhersagen über zukünftige beobachtbare Ereignisse definieren. Anstatt sich auf verborgene interne Zustände zu verlassen, die nicht direkt beobachtbar sind, basieren PSRs ausschließlich auf beobachtbaren Variablen und Aktionen.

@@ -1,23 +1,24 @@
 ---
-title: "برافتن (PRAFTN)"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: برافتن (PRAFTN)
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /ar/terms/proaftn/
-date: "2026-07-18T16:17:01.435698Z"
-lastmod: "2026-07-18T17:15:08.538783Z"
+slug: proaftn
+date: '2026-07-18T16:17:01.435698Z'
+lastmod: '2026-07-18T17:15:08.538783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الجبر العلائقي الاحتمالي لشبكات السلاسل الزمنية الوظيفية، إطار عمل لنمذجة الأنظمة الديناميكية."
+source: agnes_llm
+status: published
+language: ar
+description: الجبر العلائقي الاحتمالي لشبكات السلاسل الزمنية الوظيفية، إطار عمل لنمذجة
+  الأنظمة الديناميكية.
 ---
-
 ## Definition
 
 برافتن هو إطار حسابي متخصص مصمم للتعامل مع بيانات السلاسل الزمنية الوظيفية ضمن الهياكل العلائقية. يجمع بين الاستدلال الاحتمالي والعمليات الجبرية لنمذجة الأنظمة المعقدة...

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /el/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T16:02:59.639710Z"
-lastmod: "2026-07-18T17:15:09.902003Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T16:02:59.639710Z'
+lastmod: '2026-07-18T17:15:09.902003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια γραμμή εργασίας για το Stable Diffusion XL (SDXL), προσφέροντας βελτιωμένη ανάλυση, λεπτομέρεια και συμμόρφωση με το prompt σε σχέση με προηγούμενες εκδόσεις."
+source: agnes_llm
+status: published
+language: el
+description: Μια γραμμή εργασίας για το Stable Diffusion XL (SDXL), προσφέροντας βελτιωμένη
+  ανάλυση, λεπτομέρεια και συμμόρφωση με το prompt σε σχέση με προηγούμενες εκδόσεις.
 ---
-
 ## Definition
 
 Αυτή η γραμμή εργασίας υλοποιεί την αρχιτεκτονική Stable Diffusion XL, η οποία χρησιμοποιεί ένα βελτιωμένο βασικό μοντέλο και ένα μοντέλο αναπλάσεως (refiner) για την παραγωγή εικόνων υψηλής ανάλυσης (1024x1024) με ανώτερη λεπτομέρεια και σύνθεση. Η...

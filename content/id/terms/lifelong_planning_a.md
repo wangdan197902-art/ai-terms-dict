@@ -1,23 +1,25 @@
 ---
-title: "Perencanaan Jangka Panjang A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Perencanaan Jangka Panjang A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /id/terms/lifelong_planning_a/
-date: "2026-07-18T15:57:56.933571Z"
-lastmod: "2026-07-18T16:38:07.477303Z"
+slug: lifelong_planning_a
+date: '2026-07-18T15:57:56.933571Z'
+lastmod: '2026-07-18T16:38:07.477303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Algoritma pencarian jalur inkremental yang memperbarui jalur terpendek secara efisien dalam graf dinamis tanpa menghitung ulang dari awal setelah perubahan bobot tepi."
+source: agnes_llm
+status: published
+language: id
+description: Algoritma pencarian jalur inkremental yang memperbarui jalur terpendek
+  secara efisien dalam graf dinamis tanpa menghitung ulang dari awal setelah perubahan
+  bobot tepi.
 ---
-
 ## Definition
 
 Perencanaan Jangka Panjang A* (LPA*) adalah ekstensi dari algoritma pencarian A* yang dirancang untuk lingkungan di mana biaya berubah seiring waktu. Alih-alih memulai pencarian ulang, LPA* menjaga antrian prioritas dan memperbarui

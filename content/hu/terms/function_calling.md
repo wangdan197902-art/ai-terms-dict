@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /hu/terms/function_calling/
 date: "2026-07-18T15:38:14.295647Z"
 lastmod: "2026-07-18T17:15:09.741102Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mechanizmus, amely lehetővé teszi a nagy nyelvi modelleknek (LLM) strukturált adatok kimenetelét, amelyek specifikus szoftverfunkciókat aktiválnak."
 ---
-
 ## Definition
 
 A funkcióhívás lehetővé teszi a nagy nyelvi modellek számára, hogy külső eszközökkel és API-kkal kommunikáljanak strukturált kimenetek generálásával, például JSON objektumokkal, amelyek megadják, melyik függvényt kell végrehajtani és milyen argumentumokat kell használni.

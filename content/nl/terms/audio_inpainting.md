@@ -1,23 +1,24 @@
 ---
-title: "Audio inpainting"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Audio inpainting
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /nl/terms/audio_inpainting/
-date: "2026-07-18T15:43:41.781008Z"
-lastmod: "2026-07-18T17:15:08.719502Z"
+slug: audio_inpainting
+date: '2026-07-18T15:43:41.781008Z'
+lastmod: '2026-07-18T17:15:08.719502Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het reconstrueren van ontbrekende of beschadigde segmenten van een audiosignaal op basis van de omliggende context."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het reconstrueren van ontbrekende of beschadigde segmenten
+  van een audiosignaal op basis van de omliggende context.
 ---
-
 ## Definition
 
 Audio inpainting is een techniek die wordt gebruikt om gaten in audio-opnames op te vullen die veroorzaakt zijn door dropouts, ruis of opzettelijke maskering. Met behulp van generatieve modellen voorspelt het systeem de meest waarschijnlijke inhoud voor de mi

@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /no/terms/experiments/
 date: "2026-07-18T15:25:57.623508Z"
 lastmod: "2026-07-18T16:38:06.936479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kontrollerte prosedyrer utført for å teste hypoteser, evaluere modellytelse eller oppdage nye AI-evner."
 ---
-
 ## Definition
 
 Eksperimenter innen AI involverer systematisk testing av variabler for å forstå årsak-virknings-sammenhenger innen maskinlæringsmodeller. Disse prosedyrene lar utviklere sammenligne ulike hyperparametere, arkitekturer eller treningsmetoder for å optimalisere resultatene.

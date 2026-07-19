@@ -1,23 +1,24 @@
 ---
-title: "למידה חיזויית"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: למידה חיזויית
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /he/terms/predictive_learning/
-date: "2026-07-18T16:18:27.730686Z"
-lastmod: "2026-07-18T17:15:09.574411Z"
+slug: predictive_learning
+date: '2026-07-18T16:18:27.730686Z'
+lastmod: '2026-07-18T17:15:09.574411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "גישה חצויה-עצמית שבה מודלים לומדים ייצוגים על ידי ניבוי חסרים בחלקי נתוני הקלט."
+source: agnes_llm
+status: published
+language: he
+description: גישה חצויה-עצמית שבה מודלים לומדים ייצוגים על ידי ניבוי חסרים בחלקי נתוני
+  הקלט.
 ---
-
 ## Definition
 
 למידה חיזויית כוללת אימון של רשתות נוירונים להסקת נקודות נתונים לא נצפות מתוך קלטים נצפים, ללא תוויות אנושיות מפורשות. על ידי פתרון משימות כמו ניבוי האסימון הבא בשפה או מילוי חסרים בתמונות, המודל לומד ייצוגים משמעותיים של הנתונים.

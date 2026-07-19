@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /cs/terms/mobilenet/
 date: "2026-07-18T16:09:30.471112Z"
 lastmod: "2026-07-18T17:15:09.154170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "MobileNet je rodina lehkých hlubokých neuronových sítí navržených pro mobilní a vestavěné aplikace zpracování obrazu."
 ---
-
 ## Definition
 
 MobileNety využívají hloubkově separovatelné konvoluční vrstvy, což výrazně snižuje výpočetní nároky a velikost modelu ve srovnání se standardními konvolucemi. Tato architektura umožňuje efektivní extrakci znaků na

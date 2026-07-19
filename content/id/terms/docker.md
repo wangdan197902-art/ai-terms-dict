@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /id/terms/docker/
 date: "2026-07-18T15:34:15.539757Z"
 lastmod: "2026-07-18T16:38:07.412652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Docker adalah platform untuk mengembangkan, mengirimkan, dan menjalankan aplikasi dalam kontainer ringan yang portabel."
 ---
-
 ## Definition
 
 Docker memungkinkan pengembang untuk membungkus aplikasi beserta semua dependensinya ke dalam satu unit standar untuk pengembangan perangkat lunak. Kontainer-kontainer ini mengisolasi perangkat lunak dari lingkungannya, memastikan konsistensi di berbagai lingkungan.

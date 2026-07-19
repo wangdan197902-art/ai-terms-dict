@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /zh/terms/automated_negotiation/
 date: "2026-07-18T11:08:15.505851Z"
 lastmod: "2026-07-18T11:44:45.448087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "使用人工智能代理自主进行谈判并在各方之间达成协议的过程。"
 ---
-
 ## Definition
 
 自动谈判涉及代表人类利益进行讨价还价的软件代理。这些代理利用博弈论、优化算法和机器学习来提出报价、评估对手策略并达成最优协议，常用于商业交易和资源分配场景。

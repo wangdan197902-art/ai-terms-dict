@@ -1,23 +1,24 @@
 ---
-title: "Audio vers Audio"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Audio vers Audio
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /fr/terms/audio_to_audio/
-date: "2026-07-18T11:05:32.343940Z"
-lastmod: "2026-07-18T11:44:45.199900Z"
+slug: audio_to_audio
+date: '2026-07-18T11:05:32.343940Z'
+lastmod: '2026-07-18T11:44:45.199900Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une tâche d'IA générative où l'audio d'entrée est transformé en audio de sortie tout en préservant ou en altérant des caractéristiques spécifiques."
+source: agnes_llm
+status: published
+language: fr
+description: Une tâche d'IA générative où l'audio d'entrée est transformé en audio
+  de sortie tout en préservant ou en altérant des caractéristiques spécifiques.
 ---
-
 ## Definition
 
 L'audio vers audio désigne les architectures de réseaux neuronaux conçues pour mapper un signal audio sur un autre. Contrairement à la synthèse vocale (text-to-speech), cela implique une transformation directe de forme d'onde ou de spectrogramme. Les applications incl

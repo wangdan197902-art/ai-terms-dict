@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /nl/terms/coupled_pattern_learner/
 date: "2026-07-18T15:48:26.339934Z"
 lastmod: "2026-07-18T17:15:08.729620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een algoritmische aanpak die relaties leert tussen twee verschillende maar gecorrelde verzamelingen patronen of kenmerken gelijktijdig."
 ---
-
 ## Definition
 
 Gekoppelde patroonlezers zijn ontworpen om om te gaan met data waarbij instanties uit twee verschillende ruimtes met elkaar verbonden zijn, zoals afbeeldingen en hun tekstuele beschrijvingen. Door de gezamenlijke verdeling of correlatie te modelleren...

@@ -1,23 +1,23 @@
 ---
-title: "în două etape"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: în două etape
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /ro/terms/two_stage/
-date: "2026-07-18T15:34:15.676980Z"
-lastmod: "2026-07-18T17:15:09.611412Z"
+slug: two_stage
+date: '2026-07-18T15:34:15.676980Z'
+lastmod: '2026-07-18T17:15:09.611412Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O arhitectură de tip pipeline în care procesarea are loc în faze distincte și secvențiale."
+source: agnes_llm
+status: published
+language: ro
+description: O arhitectură de tip pipeline în care procesarea are loc în faze distincte
+  și secvențiale.
 ---
-
 ## Definition
 
 Arhitecturile în două etape împart o sarcină complexă în doi pași separați, implicând de obicei detectarea urmată de clasificare sau rafinare. În vederea computerizată, exemple includ detectoare de obiecte precum Faster R-CNN, unde prima etapă propune regiuni de interes, iar a doua le clasifică.

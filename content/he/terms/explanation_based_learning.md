@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /he/terms/explanation_based_learning/
 date: "2026-07-18T15:56:48.494126Z"
 lastmod: "2026-07-18T17:15:09.539201Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "למידה מבוססת הסבר היא שיטת למידת מכ המשמשת תיאוריית תחום ודוגמת אימון אחת כדי ליצור הסבר, אשר לאחר מכן מוכלל לכלל חדש."
 ---
-
 ## Definition
 
 EBL משלב חשיבה סמלית עם למידת מכונה כדי להאיץ את תהליך הלמידה. במקום להסתמך על מערכי נתונים גדולים, היא לוקחת דוגמה חיובית אחת ומשתמשת בתיאוריית תחום קיימת מראש.

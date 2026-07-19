@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /hu/terms/markov/
 date: "2026-07-18T15:28:03.636026Z"
 lastmod: "2026-07-18T17:15:09.724484Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Markov-folyamatokra utaló kifejezés, ahol a jövőbeli állapot kizárólag a jelenlegi állástól függ, betartva a memóriamentesség Markov-tulajdonságát."
 ---
-
 ## Definition
 
 A mesterséges intelligenciában és a valószínűségszámításban a Markov-folyamatok alapvető modellek, amelyeket véletlenszerű állapotátmenetekkel rendelkező rendszerek leírására használnak. Az alapelv a Markov-tulajdonság, amely kimondja, hogy a jövő csak a jelenlegi állástól függ, nem pedig a múlt történetétől.

@@ -1,23 +1,24 @@
 ---
-title: "Listor över öppen källkod AI-programvara"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: Listor över öppen källkod AI-programvara
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /da/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T16:04:59.775213Z"
-lastmod: "2026-07-18T17:15:09.306068Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T16:04:59.775213Z'
+lastmod: '2026-07-18T17:15:09.306068Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Kurerade samlingar eller kataloger som dokumenterar offentligt tillgängliga AI-verktyg, bibliotek och ramverk."
+source: agnes_llm
+status: published
+language: da
+description: Kurerade samlingar eller kataloger som dokumenterar offentligt tillgängliga
+  AI-verktyg, bibliotek och ramverk.
 ---
-
 ## Definition
 
 Detta syftar på organiserade arkiv, såsom GitHub-ämnen, 'Awesome'-listor eller community-drivna wikis, som samlar öppen källkodsmjukvara relaterad till artificiell intelligens. De fungerar som viktiga resurser.

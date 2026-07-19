@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /hu/terms/source/
 date: "2026-07-18T15:31:21.225861Z"
 lastmod: "2026-07-18T17:15:09.730547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI fejlesztésében és telepítésében használt adatok, kódok vagy modellek eredetére utal."
 ---
-
 ## Definition
 
 Az AI kontextusában a 'forrás' általában a betanító adathalmazok, nyílt forráskódú könyvtárak vagy előre betanított modell súlyok eredetét jelöli. A források nyomon követése kritikus a reprodukálhatóság és a licencmegfelelés szempontjából...

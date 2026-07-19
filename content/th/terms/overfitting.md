@@ -1,23 +1,24 @@
 ---
-title: "การฟิตเกินข้อมูล"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: การฟิตเกินข้อมูล
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /th/terms/overfitting/
-date: "2026-07-18T15:36:44.688186Z"
-lastmod: "2026-07-18T16:38:07.563255Z"
+slug: overfitting
+date: '2026-07-18T15:36:44.688186Z'
+lastmod: '2026-07-18T16:38:07.563255Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ข้อผิดพลาดของโมเดลที่อัลกอริทึมการเรียนรู้ของเครื่องจับสัญญาณรบกวนแทนที่จะเป็นสัญญาณพื้นฐาน ส่งผลเสียต่อความสามารถในการสรุปผล"
+source: agnes_llm
+status: published
+language: th
+description: ข้อผิดพลาดของโมเดลที่อัลกอริทึมการเรียนรู้ของเครื่องจับสัญญาณรบกวนแทนที่จะเป็นสัญญาณพื้นฐาน
+  ส่งผลเสียต่อความสามารถในการสรุปผล
 ---
-
 ## Definition
 
 การฟิตเกินข้อมูล (Overfitting) เกิดขึ้นเมื่อโมเดลเรียนรู้ข้อมูลการฝึกฝนได้ดีเกินไป รวมถึงเรียนรู้สัญญาณรบกวนและความผิดปกติ (outliers) ด้วย ทำให้โมเดลมีประสิทธิภาพสูงมากบนข้อมูลการฝึกฝน แต่มีประสิทธิภาพต่ำบนข้อมูลทดสอบใหม่ที่ยังไม่เคยเห็นมาก่อน

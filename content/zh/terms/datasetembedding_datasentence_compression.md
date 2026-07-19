@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /zh/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T11:12:55.799025Z"
 lastmod: "2026-07-18T11:44:45.477032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "包含原始句子及其压缩版本的数据集，用于训练模型在保留信息方面的能力。"
 ---
-
 ## Definition
 
 句子压缩数据集由成对的句子组成，其中目标句子是源句子的缩短版本，在去除冗余信息的同时保留核心含义。这些数据集常用于训练能够理解信息密度的模型。

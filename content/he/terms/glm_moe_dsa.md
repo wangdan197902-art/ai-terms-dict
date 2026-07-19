@@ -1,23 +1,24 @@
 ---
-title: "GLM MoE DSA"
-term_id: "glm_moe_dsa"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "LLM"]
+title: GLM MoE DSA
+term_id: glm_moe_dsa
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- LLM
 difficulty: 4
 weight: 1
-slug: "glm_moe_dsa"
-aliases:
-  - /he/terms/glm_moe_dsa/
-date: "2026-07-18T16:01:37.512361Z"
-lastmod: "2026-07-18T17:15:09.543926Z"
+slug: glm_moe_dsa
+date: '2026-07-18T16:01:37.512361Z'
+lastmod: '2026-07-18T17:15:09.543926Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "זהו ככל הנראה שילוב של מושגים נפרדים: GLM (מודל שפה כללי), MoE (ערבוב מומחים), ו-DSA (ככל הנראה Attention ספארסי דינמי או דומה לו)."
+source: agnes_llm
+status: published
+language: he
+description: 'זהו ככל הנראה שילוב של מושגים נפרדים: GLM (מודל שפה כללי), MoE (ערבוב
+  מומחים), ו-DSA (ככל הנראה Attention ספארסי דינמי או דומה לו).'
 ---
-
 ## Definition
 
 אין מונח סטנדרטי יחיד בשם 'GLM MoE DSA'. עם זאת, הוא ככל הנראה משלב את GLM (ארכיטקטורת LLM ספציפית), MoE (Mixture of Experts - ערבוב מומחים, טכניקה להרחבת גודל המודל ביעילות על ידי הפעלת רק חלק מהמומחים), ו-DSA (Dynamic Sparse Attention).

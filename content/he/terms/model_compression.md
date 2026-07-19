@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /he/terms/model_compression/
 date: "2026-07-18T16:12:55.323611Z"
 lastmod: "2026-07-18T17:15:09.565359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "דחיסת מודל מתייחסת לטכניקות המפחיתות את גודל הדרישות החישוביות של מודלי למידת מכונה."
 ---
-
 ## Definition
 
 קטגוריה זו כוללת שיטות כמו חיתוך (pruning), כימות (quantization) ודיסטילציית ידע, המכוונות להקטין את טביעת הרגל של המודל תוך שמירה על הביצועים. זה קריטי להטמעת מודלי AI מורכבים

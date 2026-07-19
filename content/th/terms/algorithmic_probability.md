@@ -1,23 +1,23 @@
 ---
-title: "ความน่าจะเป็นเชิงอัลกอริทึม"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: ความน่าจะเป็นเชิงอัลกอริทึม
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /th/terms/algorithmic_probability/
-date: "2026-07-18T15:40:13.060143Z"
-lastmod: "2026-07-18T16:38:07.572431Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:40:13.060143Z'
+lastmod: '2026-07-18T16:38:07.572431Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "มาตรวัดทางทฤษฎีที่ประเมินความน่าจะเป็นที่โปรแกรมสุ่มจะสร้างสตริงผลลัพธ์เฉพาะเจาะจงขึ้น"
+source: agnes_llm
+status: published
+language: th
+description: มาตรวัดทางทฤษฎีที่ประเมินความน่าจะเป็นที่โปรแกรมสุ่มจะสร้างสตริงผลลัพธ์เฉพาะเจาะจงขึ้น
 ---
-
 ## Definition
 
 ความน่าจะเป็นเชิงอัลกอริทึม ซึ่งมีรากฐานมาจากความซับซ้อนของโคโมโกรอฟ (Kolmogorov complexity) และการอนุมานของโซโลมอนอฟ (Solomonoff induction) จะกำหนดค่าความน่าจะเป็นที่สูงกว่าให้กับผลลัพธ์ที่เกิดจากโปรแกรมที่มีขนาดสั้นกว่า แนวคิดนี้ตั้งอยู่บนสมมติฐานว่าคำอธิบายที่เรียบง่ายกว่ามีความน่าจะเป็นที่จะเป็นจริงมากกว่า

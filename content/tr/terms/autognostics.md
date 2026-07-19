@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /tr/terms/autognostics/
 date: "2026-07-18T15:42:38.647699Z"
 lastmod: "2026-07-18T16:38:07.275999Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka sisteminin insan müdahalesi olmadan kendi iç durumunu, performans sorunlarını veya hatalarını kendi kendine teşhis etme yeteneği."
 ---
-
 ## Definition
 
 Otoknöstik, akıllı sistemlerin içine gömülü olan kendi kendini izleme ve onarma mekanizmalarını ifade eder. Bu özellik, yapay zeka ajanlarının anormallikleri tespit etmesine, arızaların kök nedenlerini teşhis etmesine ve potansiyel olarak kendi kendine düzeltme işlemlerini gerçekleştirmesine olanak tanır.

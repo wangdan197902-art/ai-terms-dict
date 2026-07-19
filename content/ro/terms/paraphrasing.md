@@ -1,23 +1,24 @@
 ---
-title: "Parafrazare"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Parafrazare
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /ro/terms/paraphrasing/
-date: "2026-07-18T16:15:09.001334Z"
-lastmod: "2026-07-18T17:15:09.689729Z"
+slug: paraphrasing
+date: '2026-07-18T16:15:09.001334Z'
+lastmod: '2026-07-18T17:15:09.689729Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Sarcina PNL de a rescrie textul pentru a transmite același sens folosind cuvinte sau structuri de propoziții diferite."
+source: agnes_llm
+status: published
+language: ro
+description: Sarcina PNL de a rescrie textul pentru a transmite același sens folosind
+  cuvinte sau structuri de propoziții diferite.
 ---
-
 ## Definition
 
 Parafrazarea în Procesarea Limbajului Natural implică generarea unor expresii alternative pentru un text de intrare dat, păstrându-i sensul semantic original. Este crucială pentru reducerea plagiatului, im

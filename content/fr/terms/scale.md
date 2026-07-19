@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /fr/terms/scale/
 date: "2026-07-18T10:53:50.406072Z"
 lastmod: "2026-07-18T11:44:45.171432Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La mise à l'échelle désigne l'ampleur des données, des paramètres ou des ressources de calcul utilisées dans les modèles d'apprentissage automatique."
 ---
-
 ## Definition
 
 En intelligence artificielle, la mise à l'échelle implique généralement l'augmentation de la taille des ensembles de données, du nombre de paramètres du modèle ou de la puissance de calcul pour améliorer les performances. Ce concept est central dans l'apprentissage profond, où de grands

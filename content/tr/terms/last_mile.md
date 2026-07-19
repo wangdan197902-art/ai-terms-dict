@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /tr/terms/last_mile/
 date: "2026-07-18T16:00:13.733524Z"
 lastmod: "2026-07-18T16:38:07.326195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI çözümlerinin geliştirme ortamlından son kullanıcıların gerçek dünya operasyonel ortamlarına ulaştırılmasının son aşaması."
 ---
-
 ## Definition
 
 'Son mil' sorunu, modellerin üretim ortamına dağıtılması sırasında karşılaşılan zorlukları ifade eder; mevcut altyapıyla entegrasyon, düşük gecikmeli çıkarım sağlama ve uç nokta (edge) verilerini işleme gibi konuları kapsar.

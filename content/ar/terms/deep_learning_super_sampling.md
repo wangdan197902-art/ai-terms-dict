@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /ar/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:53:02.034355Z"
 lastmod: "2026-07-18T17:15:08.494975Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية تستخدم الذكاء الاصطناعي لتوسيع صور منخفضة الدقة إلى دقة أعلى مع تفاصيل محسنة وتقليل التشوهات."
 ---
-
 ## Definition
 
 أخذ العينات الفائقة بالتعلم العميق (DLSS) هو تقنية تستفيد من الشبكات العصبية لإعادة بناء صور عالية الدقة من مدخلات منخفضة الدقة. من خلال تحليل البيانات الزمنية والمعلومات المكانية...

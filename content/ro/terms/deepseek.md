@@ -1,23 +1,25 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /ro/terms/deepseek/
-date: "2026-07-18T15:53:59.502850Z"
-lastmod: "2026-07-18T17:15:09.646805Z"
+slug: deepseek
+date: '2026-07-18T15:53:59.502850Z'
+lastmod: '2026-07-18T17:15:09.646805Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "DeepSeek este o serie de modele lingvistice mari dezvoltate de compania DeepSeek, cunoscute pentru eficiența ridicată, capacitățile puternice de programare și disponibilitatea greutăților deschise."
+source: agnes_llm
+status: published
+language: ro
+description: DeepSeek este o serie de modele lingvistice mari dezvoltate de compania
+  DeepSeek, cunoscute pentru eficiența ridicată, capacitățile puternice de programare
+  și disponibilitatea greutăților deschise.
 ---
-
 ## Definition
 
 DeepSeek se referă la o familie de modele de inteligență artificială create de compania DeepSeek. Aceste modele sunt concepute pentru a gestiona sarcini complexe de procesare a limbajului natural, inclusiv generarea de cod,

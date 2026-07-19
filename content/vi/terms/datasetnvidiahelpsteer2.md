@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /vi/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:48:16.446627Z"
 lastmod: "2026-07-18T16:38:07.745635Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu chất lượng cao về sở thích của con người, được thiết kế đặc biệt để huấn luyện các mô hình phần thưởng trong học tăng cường từ phản hồi của con người (RLHF)."
 ---
-
 ## Definition
 
 Helpsteer2 là một bộ dữ liệu được tuyển chọn kỹ lưỡng do NVIDIA phát hành, chứa các so sánh từng cặp giữa các phản hồi được tạo ra bởi các mô hình ngôn ngữ lớn (LLM). Bộ dữ liệu này tập trung vào các sở thích đa chiều của con người, chẳng hạn như mức độ hữu ích...

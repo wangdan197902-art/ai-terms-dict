@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /vi/terms/embodied_agent/
 date: "2026-07-18T15:51:26.003669Z"
 lastmod: "2026-07-18T16:38:07.753254Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một đại diện hiện thân là hệ thống AI tương tác với môi trường thông qua một cơ thể vật lý hoặc thiết bị vận động-cảm giác."
 ---
-
 ## Definition
 
 Khác với AI phi hiện thân xử lý dữ liệu trừu tượng, các đại diện hiện thân học hỏi và hành động trong bối cảnh vật lý, dựa trên đầu vào cảm giác và đầu ra vận động. Paradigm này là trung tâm của lĩnh vực robot và hệ thống tự hành.

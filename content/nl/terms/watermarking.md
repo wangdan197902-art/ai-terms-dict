@@ -1,23 +1,25 @@
 ---
-title: "Watermerken"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: Watermerken
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /nl/terms/watermarking/
-date: "2026-07-18T16:22:02.699776Z"
-lastmod: "2026-07-18T17:15:08.797434Z"
+slug: watermarking
+date: '2026-07-18T16:22:02.699776Z'
+lastmod: '2026-07-18T17:15:08.797434Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Watermerken in AI houdt in dat onzichtbare of zichtbare identificatiecodes worden ingebed in gegenereerde inhoud om de oorsprong te bewijzen en het te onderscheiden van door mensen gemaakt materiaal."
+source: agnes_llm
+status: published
+language: nl
+description: Watermerken in AI houdt in dat onzichtbare of zichtbare identificatiecodes
+  worden ingebed in gegenereerde inhoud om de oorsprong te bewijzen en het te onderscheiden
+  van door mensen gemaakt materiaal.
 ---
-
 ## Definition
 
 Terwijl generatieve AI steeds meer synthetische media produceert, fungeert watermerken als een cruciaal instrument voor transparantie en verantwoordingsplicht. Het houdt in dat digitale inhoud – zoals afbeeldingen, tekst of audio – subtiel wordt aangepast om een merkbaar patroon te creëren dat AI-generatie aangeeft.

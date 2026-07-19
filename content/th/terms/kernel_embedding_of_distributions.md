@@ -1,23 +1,24 @@
 ---
-title: "การฝังการแจกแจงแบบเคอร์เนล (Kernel embedding of distributions)"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: การฝังการแจกแจงแบบเคอร์เนล (Kernel embedding of distributions)
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /th/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T16:01:09.548808Z"
-lastmod: "2026-07-18T16:38:07.621249Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T16:01:09.548808Z'
+lastmod: '2026-07-18T16:38:07.621249Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่แมปการแจกแจงความน่าจะเป็นเข้าสู่ปริภูมิฮิลเบิร์ตที่มีเคอร์เนลสร้างซ้ำ (RKHS) เพื่อให้สามารถเปรียบเทียบและดำเนินการผ่านปฏิบัติการเวกเตอร์ได้"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่แมปการแจกแจงความน่าจะเป็นเข้าสู่ปริภูมิฮิลเบิร์ตที่มีเคอร์เนลสร้างซ้ำ
+  (RKHS) เพื่อให้สามารถเปรียบเทียบและดำเนินการผ่านปฏิบัติการเวกเตอร์ได้
 ---
-
 ## Definition
 
 การฝังการแจกแจงแบบเคอร์เนลอนุญาตให้วัตถุเชิงความน่าจะเป็นถูกปฏิบัติเป็นจุดในพื้นที่คุณลักษณะมิติสูงที่เรียกว่าปริภูมิฮิลเบิร์ตที่มีเคอร์เนลสร้างซ้ำ (RKHS) โดยการแมปการแจกแจงไปยังจุดเดียวในปริภูมินี้ ทำให้สามารถใช้เครื่องมือทางพีชคณิตเชิงเส้นในการวิเคราะห์ความแตกต่างระหว่างการแจกแจงได้

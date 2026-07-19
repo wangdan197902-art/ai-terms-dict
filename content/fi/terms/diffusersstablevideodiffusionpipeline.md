@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stable Video Diffusion -putki"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion -putki'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /fi/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:54:59.970898Z"
-lastmod: "2026-07-18T17:15:09.405355Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:54:59.970898Z'
+lastmod: '2026-07-18T17:15:09.405355Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Hugging Face Diffusers -kirjaston putkikääre, joka käyttää Stable Video Diffusion -mallia videoiden luomiseen staattisista kuvista."
+source: agnes_llm
+status: published
+language: fi
+description: Hugging Face Diffusers -kirjaston putkikääre, joka käyttää Stable Video
+  Diffusion -mallia videoiden luomiseen staattisista kuvista.
 ---
-
 ## Definition
 
 Tämä termi viittaa tiettyyn toteutukseen Hugging Face Diffusers -kirjastossa, joka on suunniteltu videonluontiin. Se integroi Stable Video Diffusion (SVD) -mallin, joka on latenssivariaatioihin perustuva videomalli, mahdollistaen kuvien muuntamisen liikkuvaksi sisällöksi korkealaatuisesti.

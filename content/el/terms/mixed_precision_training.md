@@ -1,23 +1,24 @@
 ---
-title: "Εκπαίδευση μεικτής ακρίβειας"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Εκπαίδευση μεικτής ακρίβειας
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /el/terms/mixed_precision_training/
-date: "2026-07-18T16:21:30.075484Z"
-lastmod: "2026-07-18T17:15:09.932348Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:21:30.075484Z'
+lastmod: '2026-07-18T17:15:09.932348Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική εκπαίδευσης που χρησιμοποιεί τόσο αριθμούς κινητής υποδιαστολής 16-bit όσο και 32-bit για να επιταχύνει τον υπολογισμό και να μειώσει τη χρήση μνήμης."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική εκπαίδευσης που χρησιμοποιεί τόσο αριθμούς κινητής υποδιαστολής
+  16-bit όσο και 32-bit για να επιταχύνει τον υπολογισμό και να μειώσει τη χρήση μνήμης.
 ---
-
 ## Definition
 
 Η Εκπαίδευση Μεικτής Ακρίβειας (MPT) συνδυάζει τύπους δεδομένων ημι-ακρίβειας (FP16) και πλήρους ακρίβειας (FP32) κατά την εκπαίδευση νευρωνικών δικτύων. Χρησιμοποιώντας FP16 για τις περισσότερες πράξεις, η MPT μειώνει το αποτύπωμα μνήμης και αυξάνει την

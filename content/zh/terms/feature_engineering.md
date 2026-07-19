@@ -1,23 +1,23 @@
 ---
-title: "特征工程"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: 特征工程
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /zh/terms/feature_engineering/
-date: "2026-07-18T11:17:01.610015Z"
-lastmod: "2026-07-18T11:44:45.498415Z"
+slug: feature_engineering
+date: '2026-07-18T11:17:01.610015Z'
+lastmod: '2026-07-18T11:44:45.498415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "利用领域知识创建新特征或修改现有特征，以增强机器学习模型性能的做法。"
+source: agnes_llm
+status: published
+language: zh
+description: 利用领域知识创建新特征或修改现有特征，以增强机器学习模型性能的做法。
 ---
-
 ## Definition
 
 特征工程是利用领域专业知识，将原始数据转换为更能代表底层模式的特征的艺术。该过程包括创建新变量、转换现有数据以及选择最具预测力的特征，从而提升算法效果。

@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /zh/terms/lora/
 date: "2026-07-18T10:52:16.307004Z"
 lastmod: "2026-07-18T11:44:45.374829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "低秩自适应是一种参数高效的微调方法，它将可训练的秩分解矩阵注入现有模型权重中。"
 ---
-
 ## Definition
 
 LoRA冻结预训练模型的权重，并在Transformer架构的每一层中插入可训练的分解矩阵。通过仅优化这些低秩矩阵，LoRA显著减少

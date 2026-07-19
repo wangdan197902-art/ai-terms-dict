@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /fr/terms/binary_classification/
 date: "2026-07-18T11:06:55.666557Z"
 lastmod: "2026-07-18T11:44:45.204135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une tâche d'apprentissage supervisé dont l'objectif est de prédire l'une des deux classes possibles pour chaque instance d'entrée."
 ---
-
 ## Definition
 
 La classification binaire est un problème fondamental d'apprentissage automatique où la variable de sortie est catégorielle avec exactement deux issues possibles, telles que vrai/faux ou spam/pas spam. Des algorithmes comme la régression logistique sont couramment utilisés.

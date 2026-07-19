@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /ar/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:15:06.933078Z"
 lastmod: "2026-07-18T17:15:08.534098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يشير الذكاء الاصطناعي مفتوح المصدر إلى برامج الذكاء الاصطناعي والنماذج والأدوات التي يكون فيها الكود المصدري متاحاً للعامة للفحص والتعديل والتوزيع."
 ---
-
 ## Definition
 
 يغطي هذا المفهوم نظام بيئي لتقنيات الذكاء الاصطناعي التي يتم إصدارها بموجب تراخيص تسمح بالوصول المجاني إلى الكود الأساسي الخاص بها. ويعزز الشفافية والتعاون والابتكار من خلال تمكين المطورين...

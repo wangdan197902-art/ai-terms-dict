@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /sv/terms/sovereign_ai/
 date: "2026-07-18T16:21:04.669701Z"
 lastmod: "2026-07-18T17:15:09.049075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En strategisk ansats där nationer eller aktörer utvecklar och kontrollerar sin egen AI-infrastruktur och modeller för att säkerställa dataprivacy och regulatoriskt oberoende."
 ---
-
 ## Definition
 
 Suverän AI beskriver förmågan hos ett land eller en organisation att bygga, distribuera och hantera artificiella intelligenssystem oberoende, utan beroende av utländska molnleverantörer eller proprietära lösningar.

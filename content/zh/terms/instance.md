@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /zh/terms/instance/
 date: "2026-07-18T11:22:25.518461Z"
 lastmod: "2026-07-18T11:44:45.517949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "用于机器学习任务的单个数据样本或观测值，通常表示为特征向量。"
 ---
-
 ## Definition
 
 在机器学习中，实例指数据集中的一个具体示例。它由一组输入特征（属性）和潜在的目标标签组成。实例是基本单位。

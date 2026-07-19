@@ -1,23 +1,24 @@
 ---
-title: "ראייה ממוחשבת"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: ראייה ממוחשבת
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /he/terms/vision/
-date: "2026-07-18T15:39:19.441742Z"
-lastmod: "2026-07-18T17:15:09.505788Z"
+slug: vision
+date: '2026-07-18T15:39:19.441742Z'
+lastmod: '2026-07-18T17:15:09.505788Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ראייה ממוחשבת היא תחום בבינה מלאכותית המתמקד באפשרות למחשבים לפרש ולהבין מידע חזותי מהעולם."
+source: agnes_llm
+status: published
+language: he
+description: ראייה ממוחשבת היא תחום בבינה מלאכותית המתמקד באפשרות למחשבים לפרש ולהבין
+  מידע חזותי מהעולם.
 ---
-
 ## Definition
 
 ראייה ממוחשבת (CV) היא ענף של בינה מלאכותית המאמן מחשבים להפיק מידע משמעותי מתמונות דיגיטליות, סרטונים וקלטים חזותיים אחרים. התחום כולל פיתוח אלגוריתמים לזיהוי תבניות ופירוט מידע חזותי.

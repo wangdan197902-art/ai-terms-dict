@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /de/terms/monte/
 date: "2026-07-18T10:51:36.980380Z"
 lastmod: "2026-07-18T11:44:44.878606Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Monte bezieht sich auf Monte-Carlo-Methoden, die wiederholte Zufallsstichproben verwenden, um numerische Ergebnisse für Probleme zu erhalten, die prinzipiell deterministisch, aber für analytische Lösu"
 ---
-
 ## Definition
 
 Monte-Carlo-Techniken sind eine Klasse von Algorithmen, die auf wiederholten Zufallsstichproben basieren, um mathematische Größen zu schätzen. Sie sind besonders nützlich bei hochdimensionalen Integrationen,

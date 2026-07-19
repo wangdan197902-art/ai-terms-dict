@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /da/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:39:54.710868Z"
 lastmod: "2026-07-18T17:15:09.255436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Accelereret lineær algebra involverer optimering af matrixoperationer ved hjælp af hardwareacceleratorer som GPU'er og TPU'er for høj ydeevne."
 ---
-
 ## Definition
 
 Dette felt fokuserer på at fremskynde fundamentale lineære algebra-beregninger, som er kernestof i maskinlæring og videnskabelige simuleringer. Ved at udnytte parallelle behandlingskapaciteter hos GPU'er, TPU'er og andre specialiserede chips kan beregningstiden reduceres markant.

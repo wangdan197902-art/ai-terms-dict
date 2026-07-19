@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /tr/terms/smart_object/
 date: "2026-07-18T16:14:11.775044Z"
 lastmod: "2026-07-18T16:38:07.365712Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Veri toplamak ve çevresiyle akıllıca etkileşim kurmak için sensörler, aktüatörler ve bağlantı özelliklerine sahip fiziksel bir varlık."
 ---
-
 ## Definition
 
 Akıllı nesneler, İnsan-insan veya insan-bilgisayar doğrudan etkileşimi olmadan bir ağ üzerinden veri aktarabilme ve benzersiz tanımlayıcılara sahip olma yeteneğine sahip Nesnelerin İnterneti (IoT) bileşenleridir.

@@ -1,23 +1,24 @@
 ---
-title: "ضوضاء التسميات"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: ضوضاء التسميات
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /ar/terms/label_noise/
-date: "2026-07-18T16:04:51.209462Z"
-lastmod: "2026-07-18T17:15:08.520644Z"
+slug: label_noise
+date: '2026-07-18T16:04:51.209462Z'
+lastmod: '2026-07-18T17:15:08.520644Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "أخطاء أو تناقضات في تسميات الهدف لمجموعة بيانات تُستخدم في تدريب التعلم الآلي الخاضع للإشراف."
+source: agnes_llm
+status: published
+language: ar
+description: أخطاء أو تناقضات في تسميات الهدف لمجموعة بيانات تُستخدم في تدريب التعلم
+  الآلي الخاضع للإشراف.
 ---
-
 ## Definition
 
 تشير ضوضاء التسميات إلى عدم التطابق بين التسميات الفعلية لفئات بيانات العينات والتسميات المقدمة في مجموعة البيانات التدريبية. يمكن أن ينتج ذلك عن أخطاء في التسمية البشرية، أو نقاط بيانات غامضة، أو مشاكل في جمع البيانات، مما قد يؤثر سلباً على دقة النموذج إذا لم يتم معالجتها.

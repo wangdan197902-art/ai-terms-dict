@@ -1,23 +1,25 @@
 ---
-title: "Neurovýpočty"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neurovýpočty
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /cs/terms/neurocomputing/
-date: "2026-07-18T16:11:07.359384Z"
-lastmod: "2026-07-18T17:15:09.158139Z"
+slug: neurocomputing
+date: '2026-07-18T16:11:07.359384Z'
+lastmod: '2026-07-18T17:15:09.158139Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Neurovýpočty jsou interdisciplinární obor kombinující neurovědu, informatiku a inženýrství za účelem vývoje výpočetních modelů inspirovaných biologickými neuronovými systémy."
+source: agnes_llm
+status: published
+language: cs
+description: Neurovýpočty jsou interdisciplinární obor kombinující neurovědu, informatiku
+  a inženýrství za účelem vývoje výpočetních modelů inspirovaných biologickými neuronovými
+  systémy.
 ---
-
 ## Definition
 
 Tato doména se zaměřuje na vytváření hardwarových a softwarových architektur, které napodobují strukturu a funkci lidského mozku. Zahrnuje umělé neuronové sítě, neuromorfní čipy a kognitivní výpočty.

@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /it/terms/humanai_interaction/
 date: "2026-07-18T16:03:42.660222Z"
 lastmod: "2026-07-18T17:15:08.634526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Lo studio e la pratica di come gli esseri umani comunicano, controllano e collaborano con i sistemi di intelligenza artificiale."
 ---
-
 ## Definition
 
 L'interazione Uomo-IA (HAI) è un campo interdisciplinare che esamina le dinamiche tra le persone e le tecnologie di IA. Si concentra sulla progettazione di interfacce intuitive, protocolli di comunicazione e modalità di collaborazione efficaci tra esseri umani e macchine.

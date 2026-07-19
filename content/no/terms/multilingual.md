@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /no/terms/multilingual/
 date: "2026-07-18T16:07:57.586282Z"
 lastmod: "2026-07-18T16:38:07.027068Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Multilingual i AI refererer til modeller som er i stand til å behandle, forstå eller generere innhold på flere naturlige språk."
 ---
-
 ## Definition
 
 Flerspråklige modeller er designet for å håndtere varierte språklige inndata uten å kreve separate modeller for hvert språk. Disse systemene bruker typisk delte innføyninger eller kryss-språklig tilpasning f

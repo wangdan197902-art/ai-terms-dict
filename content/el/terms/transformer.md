@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /el/terms/transformer/
-date: "2026-07-18T15:35:05.995523Z"
-lastmod: "2026-07-18T17:15:09.856976Z"
+slug: transformer
+date: '2026-07-18T15:35:05.995523Z'
+lastmod: '2026-07-18T17:15:09.856976Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αρχιτεκτονική βαθιάς μάθησης βασισμένη σε μηχανισμούς αυτο-προσοχής που επεξεργάζεται δεδομένα ακολουθίας παράλληλα αντί για διαδοχικά."
+source: agnes_llm
+status: published
+language: el
+description: Μια αρχιτεκτονική βαθιάς μάθησης βασισμένη σε μηχανισμούς αυτο-προσοχής
+  που επεξεργάζεται δεδομένα ακολουθίας παράλληλα αντί για διαδοχικά.
 ---
-
 ## Definition
 
 Εισήχθη στο άρθρο 'Attention Is All You Need', η αρχιτεκτονική Transformer επαναστάτησε στην επεξεργασία φυσικής γλώσσας και πέραν αυτής. Χρησιμοποιεί πολλαπλή αυτο-προσοχή για να ζυγίζει τη σημασία των

@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /ro/terms/long/
 date: "2026-07-18T15:27:06.837326Z"
 lastmod: "2026-07-18T17:15:09.597587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă în general la secvențe extinse de date, cum ar fi ferestrele de context lung în modelele de procesare a limbajului natural."
 ---
-
 ## Definition
 
 În contextul IA, termenul „lung” descrie adesea capacitatea de a procesa intrări extensive, cum ar fi documente lungi sau fluxuri video prelungite. Pentru modelele mari de limbaj, acest lucru implică gestionarea ferestrelor de context

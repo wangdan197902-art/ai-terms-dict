@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /el/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:48:46.836513Z"
 lastmod: "2026-07-18T17:15:09.877670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ο Alexander Y. Tetelbaum είναι αναγνωρισμένος ερευνητής και συνεισφέρων στον τομέα της τεχνητής νοημοσύνης και της μηχανικής μάθησης."
 ---
-
 ## Definition
 
 Ο Alexander Y. Tetelbaum είναι ένα πρόσωπο που αναγνωρίζεται από την ακαδημαϊκή και τεχνική κοινότητα για τις συνεισφορές του στην έρευνα της ΤΝ, ιδιαίτερα σε τομείς που αφορούν την αλγοριθμική αποδοτικότητα και τα νευρωνικά δίκτυα.

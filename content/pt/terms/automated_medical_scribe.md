@@ -1,23 +1,24 @@
 ---
-title: "Secretário Médico Automatizado"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Secretário Médico Automatizado
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /pt/terms/automated_medical_scribe/
-date: "2026-07-18T14:50:49.636914Z"
-lastmod: "2026-07-18T15:51:59.466276Z"
+slug: automated_medical_scribe
+date: '2026-07-18T14:50:49.636914Z'
+lastmod: '2026-07-18T15:51:59.466276Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um sistema baseado em IA que gera automaticamente documentação clínica a partir das interações entre médico e paciente."
+source: agnes_llm
+status: published
+language: pt
+description: Um sistema baseado em IA que gera automaticamente documentação clínica
+  a partir das interações entre médico e paciente.
 ---
-
 ## Definition
 
 Os secretários médicos automatizados utilizam processamento de linguagem natural e tecnologias de reconhecimento de fala para ouvir conversas entre médicos e pacientes e criar registros eletrônicos de saúde estruturados. Essa tecnologia...

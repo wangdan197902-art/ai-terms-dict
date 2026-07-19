@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /id/terms/latent/
 date: "2026-07-18T15:26:54.087891Z"
 lastmod: "2026-07-18T16:38:07.396185Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mengacu pada variabel atau representasi tersembunyi yang mendasarinya di dalam ruang internal model yang menangkap fitur esensial dari data."
 ---
-
 ## Definition
 
 Dalam pembelajaran mesin, variabel laten adalah faktor yang tidak teramati yang memengaruhi data yang diamati. Dalam jaringan saraf, khususnya autoenkoder dan model difusi, ruang laten mewakili kompresi, abstraksi

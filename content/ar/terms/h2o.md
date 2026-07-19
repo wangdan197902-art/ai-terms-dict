@@ -1,23 +1,24 @@
 ---
-title: "منصة H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: منصة H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /ar/terms/h2o/
-date: "2026-07-18T16:00:33.665802Z"
-lastmod: "2026-07-18T17:15:08.510991Z"
+slug: h2o
+date: '2026-07-18T16:00:33.665802Z'
+lastmod: '2026-07-18T17:15:08.510991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "منصة مفتوحة المصدر وتوزيعية لتعلم الآلة تدعم خوارزميات متنوعة للتحليل التنبؤي والتعلم العميق."
+source: agnes_llm
+status: published
+language: ar
+description: منصة مفتوحة المصدر وتوزيعية لتعلم الآلة تدعم خوارزميات متنوعة للتحليل
+  التنبؤي والتعلم العميق.
 ---
-
 ## Definition
 
 H2O هي منصة مفتوحة المصدر شائعة الاستخدام تعتمد على الحوسبة في الذاكرة (In-Memory) للتعلم الآلي الموزع والقابل للتوسع والتحليل التنبؤي. تم تطويرها أصلاً بواسطة طالبين حاصلين على درجة الدكتوراه من جامعة هارفارد، وتوفر إطار عمل موحداً يسمح ببناء نماذج تعلم آلي وتعلم عميق بسرعة وكفاءة عالية.

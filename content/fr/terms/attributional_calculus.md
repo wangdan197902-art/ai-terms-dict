@@ -1,23 +1,24 @@
 ---
-title: "Calcul attributif"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Calcul attributif
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /fr/terms/attributional_calculus/
-date: "2026-07-18T11:05:32.343928Z"
-lastmod: "2026-07-18T11:44:45.199784Z"
+slug: attributional_calculus
+date: '2026-07-18T11:05:32.343928Z'
+lastmod: '2026-07-18T11:44:45.199784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un système logique formel utilisé pour représenter et raisonner sur l'attribution de connaissances, spécifiquement sur ce que sait ou croit qui."
+source: agnes_llm
+status: published
+language: fr
+description: Un système logique formel utilisé pour représenter et raisonner sur l'attribution
+  de connaissances, spécifiquement sur ce que sait ou croit qui.
 ---
-
 ## Definition
 
 Le calcul attributif est une branche de la logique modale axée sur le raisonnement concernant les états épistémiques. Il fournit un cadre pour modéliser des énoncés tels que « L'agent A sait que P » ou « L'agent B croit en Q ». Ce

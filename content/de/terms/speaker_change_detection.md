@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /de/terms/speaker_change_detection/
 date: "2026-07-18T11:34:10.558012Z"
 lastmod: "2026-07-18T11:44:44.987622Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess zur Identifizierung von Zeitpunkten in einem Audio-Stream, an denen der aktive Sprecher wechselt."
 ---
-
 ## Definition
 
 Die Sprecherwechsel-Erkennung (SCD) ist eine Technik, um exakte Zeitstempel zu bestimmen, an denen ein Sprecher aufhört zu sprechen und ein anderer beginnt. Sie dient als vorbereitender Schritt bei der Diarisierung, um Gespräche zu segmentieren.

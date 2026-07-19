@@ -1,23 +1,24 @@
 ---
-title: "Bewaakt Leren"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Bewaakt Leren
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /nl/terms/supervised_learning/
-date: "2026-07-18T15:39:02.758017Z"
-lastmod: "2026-07-18T17:15:08.709490Z"
+slug: supervised_learning
+date: '2026-07-18T15:39:02.758017Z'
+lastmod: '2026-07-18T17:15:08.709490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een machine learning-paradigma waarbij een model leert om invoer naar uitvoer te mappen op basis van gelabelde trainingsvoorbeelden."
+source: agnes_llm
+status: published
+language: nl
+description: Een machine learning-paradigma waarbij een model leert om invoer naar
+  uitvoer te mappen op basis van gelabelde trainingsvoorbeelden.
 ---
-
 ## Definition
 
 Bij bewaakt leren wordt het algoritme getraind op een gelabelde dataset, wat betekent dat elk invoervoorbeeld gepaard gaat met de juiste uitvoer. Het doel is dat het model de onderliggende relatie leert tussen invoer en uitvoer.

@@ -1,23 +1,25 @@
 ---
-title: "Çapraz Doğrulama"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Çapraz Doğrulama
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /tr/terms/cross_validation/
-date: "2026-07-18T15:46:47.292477Z"
-lastmod: "2026-07-18T16:38:07.288024Z"
+slug: cross_validation
+date: '2026-07-18T15:46:47.292477Z'
+lastmod: '2026-07-18T16:38:07.288024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Veriyi eğitim ve test için alt kümelere ayırarak makine öğrenimi modellerini sınırlı bir veri örneği üzerinde değerlendirmek için kullanılan bir yeniden örnekleme prosedürü."
+source: agnes_llm
+status: published
+language: tr
+description: Veriyi eğitim ve test için alt kümelere ayırarak makine öğrenimi modellerini
+  sınırlı bir veri örneği üzerinde değerlendirmek için kullanılan bir yeniden örnekleme
+  prosedürü.
 ---
-
 ## Definition
 
 Çapraz doğrulama, makine öğrenimi modellerinin performansını tahmin etmek için kullanılan istatistiksel bir yöntemdir. En yaygın formu k-katlı çapraz doğrulamadır; burada veri k eşit parçaya bölünür. Model, her adımda farklı bir alt küme test verisi olarak kullanılırken kalanlar eğitim için kullanılır.

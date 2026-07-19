@@ -1,23 +1,24 @@
 ---
-title: "המילטוניאן"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: המילטוניאן
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /he/terms/hamiltonian/
-date: "2026-07-18T15:26:14.702587Z"
-lastmod: "2026-07-18T17:15:09.479514Z"
+slug: hamiltonian
+date: '2026-07-18T15:26:14.702587Z'
+lastmod: '2026-07-18T17:15:09.479514Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פונקציה המייצגת את האנרגיה הכוללת של מערכת, המשמשת במודלי בינה מלאכותית בהשראת הפיזיקה לדמנמיקה ולשמירה על אנרגיה."
+source: agnes_llm
+status: published
+language: he
+description: פונקציה המייצגת את האנרגיה הכוללת של מערכת, המשמשת במודלי בינה מלאכותית
+  בהשראת הפיזיקה לדמנמיקה ולשמירה על אנרגיה.
 ---
-
 ## Definition
 
 הממילטוניאן, הנובע ממכניקה קלאסית, מייצג את סכום האנרגיה הקינטית והפוטנציאלית במערכת. בבינה מלאכותית, רשתות נוירונים הממילטוניאניות (HNNs) משלבות מושג זה כדי ללמוד דינמיקה...

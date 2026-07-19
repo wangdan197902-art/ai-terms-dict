@@ -1,23 +1,25 @@
 ---
-title: "النزول التدريجي العشوائي الخاص تفاضلياً"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: النزول التدريجي العشوائي الخاص تفاضلياً
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /ar/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:53:48.481251Z"
-lastmod: "2026-07-18T17:15:08.496651Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:53:48.481251Z'
+lastmod: '2026-07-18T17:15:08.496651Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خوارزمية تحسين تعدل النزول التدريجي العشوائي القياسي عن طريق قص التدرجات وإضافة ضوضاء لضمان امتثال النموذج المدرب لقيود الخصوصية التفاضلية."
+source: agnes_llm
+status: published
+language: ar
+description: خوارزمية تحسين تعدل النزول التدريجي العشوائي القياسي عن طريق قص التدرجات
+  وإضافة ضوضاء لضمان امتثال النموذج المدرب لقيود الخصوصية التفاضلية.
 ---
-
 ## Definition
 
 يُعد DP-SGD نسخة معدلة من النزول التدريجي العشوائي مصممة لحماية خصوصية بيانات التدريب. تعمل عن طريق قص مساهمة تدرج كل عينة للحد من الحساسية، ثم إضافة ضوضاء غاوسية.

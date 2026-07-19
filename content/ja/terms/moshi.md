@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /ja/terms/moshi/
 date: "2026-07-18T11:24:29.840471Z"
 lastmod: "2026-07-18T11:44:45.124204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Kyutaiによって開発された音声言語モデルで、テキストと音声表現を共同学習し、シームレスなマルチモーダル相互作用を実現します。"
 ---
-
 ## Definition
 
 Moshiは、Kyutaiによって作成された高度なAIモデルであり、音声とテキストの処理を統合されたフレームワークに統合しています。従来のシステムが処理の前に音声をテキストに変換するのとは異なり、Moshiは学習

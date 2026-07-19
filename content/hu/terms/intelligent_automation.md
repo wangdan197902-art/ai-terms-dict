@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /hu/terms/intelligent_automation/
 date: "2026-07-18T16:06:20.849541Z"
 lastmod: "2026-07-18T17:15:09.797434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A mesterséges intelligencia és a robotikus folyamatautomatizálás kombinációja a komplex, strukturálatlan üzleti folyamatok kezelésére."
 ---
-
 ## Definition
 
 Az intelligens automatizálás integrálja a hagyományos Robotikus Folyamatautomatizálást (RPA) a gépi tanulás és a természetes nyelvfeldolgozás gibi haladó AI technológiákkal. Míg az RPA szabályalapú, strukturált

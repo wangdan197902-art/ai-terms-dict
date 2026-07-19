@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /fi/terms/multi_task_learning/
 date: "2026-07-18T16:11:55.054751Z"
 lastmod: "2026-07-18T17:15:09.436880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monitehtäväoppiminen on koneoppimisen paradigma, jossa mallia koulutetaan samanaikaisesti useisiin liittyviin tehtäviin yleistykyyn parantamiseksi."
 ---
-
 ## Definition
 
 Tämä tekniikka hyödyntää liittyvien tehtävien jakamaa induktiivista harhaa oppimisen tehokkuuden ja suorituskyvyn parantamiseksi. Kouluttamalla yhtä mallia suorittamaan useita tehtäviä kerrallaan, malli oppii s

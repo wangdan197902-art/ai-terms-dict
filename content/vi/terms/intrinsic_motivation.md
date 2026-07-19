@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /vi/terms/intrinsic_motivation/
 date: "2026-07-18T15:58:36.175372Z"
 lastmod: "2026-07-18T16:38:07.771451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khái niệm trong học tăng cường, nơi các tác nhân theo đuổi mục tiêu dựa trên sự tò mò bên trong hoặc thu thập kiến thức thay vì phần thưởng bên ngoài."
 ---
-
 ## Definition
 
 Trong học tăng cường, động lực nội tại thúc đẩy một tác nhân khám phá môi trường của nó bằng cách tìm kiếm điều mới lạ, giảm bớt sự không chắc chắn hoặc làm chủ kỹ năng, độc lập với phần thưởng nhiệm vụ bên ngoài. Phương pháp này

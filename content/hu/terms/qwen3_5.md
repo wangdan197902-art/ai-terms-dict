@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /hu/terms/qwen3_5/
-date: "2026-07-18T16:20:21.971100Z"
-lastmod: "2026-07-18T17:15:09.827515Z"
+slug: qwen3_5
+date: '2026-07-18T16:20:21.971100Z'
+lastmod: '2026-07-18T17:15:09.827515Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Qwen3 5 valószínűleg a Qwen modell harmadik generációjának egy specifikus alverziójára vagy variánsára utal."
+source: agnes_llm
+status: published
+language: hu
+description: A Qwen3 5 valószínűleg a Qwen modell harmadik generációjának egy specifikus
+  alverziójára vagy variánsára utal.
 ---
-
 ## Definition
 
 A Qwen3 5 a szélesebb körű Qwen3 generáción belül egy konkrét ellenőrzési pontra (checkpoint), méretvariánsra vagy specializált kiadásra utalhat. Bár a pontos specifikációk változhatnak, általában a Qwen2-hez képesti evolúciót implikál.

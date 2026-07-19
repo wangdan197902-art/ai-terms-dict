@@ -1,23 +1,23 @@
 ---
-title: "Třífaktorové učení"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: Třífaktorové učení
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /cs/terms/three_factor_learning/
-date: "2026-07-18T16:20:36.116207Z"
-lastmod: "2026-07-18T17:15:09.207522Z"
+slug: three_factor_learning
+date: '2026-07-18T16:20:36.116207Z'
+lastmod: '2026-07-18T17:15:09.207522Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Rámec pro učení s posilováním využívající faktory odměny, hodnoty a politiky k optimalizaci chování agenta."
+source: agnes_llm
+status: published
+language: cs
+description: Rámec pro učení s posilováním využívající faktory odměny, hodnoty a politiky
+  k optimalizaci chování agenta.
 ---
-
 ## Definition
 
 Třífaktorové učení je specifický přístup v rámci učení s posilováním, který rozkládá proces učení na tři odlišné komponenty: signál odměny, hodnotovou funkci a politiku. T...

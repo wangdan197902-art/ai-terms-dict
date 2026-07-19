@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /cs/terms/supermind_ai/
 date: "2026-07-18T16:19:25.746070Z"
 lastmod: "2026-07-18T17:15:09.204532Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Architektura nebo systém AI navržený k integraci více inteligentních agentů nebo modelů do jednotného, vylepšeného kognitivního entita schopného nadřazeného řešení problémů."
 ---
-
 ## Definition
 
 Supermyšlení AI označuje systémy, kde více komponent AI, lidských expertů nebo hybridních týmů člověk-AI bezproblémově spolupracuje a vytváří kolektivní inteligenci, která převyšuje schopnosti jednotlivce

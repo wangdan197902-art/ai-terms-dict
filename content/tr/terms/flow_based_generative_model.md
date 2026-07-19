@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /tr/terms/flow_based_generative_model/
 date: "2026-07-18T15:53:45.749130Z"
 lastmod: "2026-07-18T16:38:07.310003Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Basit dağılımları karmaşık veri dağılımlarına eşlemek için tersine çevrilebilir dönüşümler kullanan bir üretici model sınıfı."
 ---
-
 ## Definition
 
 Akış tabanlı üretici modeller, karmaşık olasılık dağılımlarını, basit bir temel dağılım (örneğin Gauss) üzerine bir dizi tersine çevrilebilir ve türetilebilir dönüşüm uygulayarak oluşturur. Bu sayede kesin olasılık yoğunluğu hesaplanabilir.

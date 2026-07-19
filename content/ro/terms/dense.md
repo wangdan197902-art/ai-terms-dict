@@ -1,23 +1,23 @@
 ---
-title: "Dens"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dens
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /ro/terms/dense/
-date: "2026-07-18T15:54:13.484560Z"
-lastmod: "2026-07-18T17:15:09.647315Z"
+slug: dense
+date: '2026-07-18T15:54:13.484560Z'
+lastmod: '2026-07-18T17:15:09.647315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un strat sau un tensor în care fiecare element este conectat la fiecare element al stratului sau dimensiunii anterioare."
+source: agnes_llm
+status: published
+language: ro
+description: Un strat sau un tensor în care fiecare element este conectat la fiecare
+  element al stratului sau dimensiunii anterioare.
 ---
-
 ## Definition
 
 În rețelele neuronale, termenul 'dens' se referă la straturile complet conectate, în care fiecare neuron primește intrări de la toți neuronii din stratul precedent. Acest lucru contrastează cu conexiunile rare întâlnite în rețelele convoluționale sau...

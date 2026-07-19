@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /fi/terms/phi/
 date: "2026-07-18T16:15:31.892908Z"
 lastmod: "2026-07-18T17:15:09.443851Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Sarja pieniä mutta erittäin tehokkaita suurkielimalleja, jotka on kehitetty Microsoft Researchissa ja joissa korostetaan tiedon tiheyttä ja päättelykykyä."
 ---
-
 ## Definition
 
 Phi, lyhenne sanoista 'Foundation models based on Teaching-Learning Paradigm' (opetus-oppimismallin perusteella rakennetut perusmallit), on Microsoftin kehittämä kompaktien suurkielimallien perhe. Toisin kuin perinteiset valtavilla verkkokorpuksilla koulutetut LLM-mallit, Phi-mallit

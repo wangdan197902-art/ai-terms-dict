@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /nl/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:13:46.608003Z"
 lastmod: "2026-07-18T17:15:08.779965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een Pyannote Audio-pijplijn is een gestructureerde reeks verwerkingsstappen die verschillende modellen combineert voor end-to-end sprekersdiarisatie."
 ---
-
 ## Definition
 
 In de context van Pyannote Audio verwijst een pijplijn naar een configureerbaar workflow dat verschillende modules aan elkaar koppelt om sprekersdiarisatie te realiseren. Een typische pijplijn bevat fasen voor het detecteren

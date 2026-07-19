@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /tr/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:47:47.308663Z"
 lastmod: "2026-07-18T16:38:07.291951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yoğun pasaj araması eğitimi için tasarlanmış, Vikipedi'den türetilmiş büyük ölçekli soru-cevap çiftleri veri seti."
 ---
-
 ## Definition
 
 PAQ (Sahte-Cevap Kalitesi) veri seti, Vikipedi'den otomatik olarak çıkarılan milyonlarca soru-cevap çifti içerir. Sağlayarak yoğun aratıcıları eğitmek için özel olarak tasarlanmıştır.

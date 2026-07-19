@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /pt/terms/bench/
 date: "2026-07-18T14:33:24.616897Z"
 lastmod: "2026-07-18T15:51:59.425662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Abreviação de benchmark, um conjunto de testes padrão ou métrica usada para avaliar o desempenho de modelos de IA."
 ---
-
 ## Definition
 
 Um teste de referência serve como um ponto de referência padronizado para comparar as capacidades de diferentes modelos ou algoritmos de IA. Geralmente envolve um conjunto de dados curado e métricas de avaliação específicas, como

@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /ja/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T11:22:54.776712Z"
 lastmod: "2026-07-18T11:44:45.118874Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "大規模で構造化されていないデータセットから、パターンを自動的に特定し、構造化された情報を導き出すために機械学習アルゴリズムを使用するプロセス。"
 ---
-
 ## Definition
 
 この分野は、機械学習の手法を自然言語処理やデータマイニングと組み合わせ、生データを行動可能な知識に変換します。これには、エンティティの認識や関係性の抽出など、モデルをトレーニングして構造化された情報を引き出すことが含まれます。

@@ -1,23 +1,24 @@
 ---
-title: "التمكين"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: التمكين
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /ar/terms/empowerment/
-date: "2026-07-18T15:56:35.872002Z"
-lastmod: "2026-07-18T17:15:08.501291Z"
+slug: empowerment
+date: '2026-07-18T15:56:35.872002Z'
+lastmod: '2026-07-18T17:15:08.501291Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "هدف في التعلم التعزيزي يقيس قدرة الوكيل على التأثير في الحالات المستقبلية من خلال أفعاله."
+source: agnes_llm
+status: published
+language: ar
+description: هدف في التعلم التعزيزي يقيس قدرة الوكيل على التأثير في الحالات المستقبلية
+  من خلال أفعاله.
 ---
-
 ## Definition
 
 في التعلم التعزيزي والذكاء الاصطناعي، يُعرف التمكين بأنه مقياس للدافع الجوهري الذي يحدد مقدار التحكم الذي يمتلكه الوكيل في بيئته. يُعرف بأنه المعلومات المتبادلة...

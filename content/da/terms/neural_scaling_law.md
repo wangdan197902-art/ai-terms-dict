@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /da/terms/neural_scaling_law/
 date: "2026-07-18T16:09:31.683889Z"
 lastmod: "2026-07-18T17:15:09.315783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Empiriske sammenhænge, der forudsiger forbedringer i modellens ydeevne baseret på øget data, parametre eller beregningskraft."
 ---
-
 ## Definition
 
 Neural scaling laws beskriver den forudsigelige potenslovs-sammenhæng mellem en models ydeevne og dens skala, herunder datasætstørrelse, antal parametre og beregningsbudget. Disse love antyder, at...

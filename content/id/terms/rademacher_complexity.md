@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /id/terms/rademacher_complexity/
 date: "2026-07-18T16:06:48.591887Z"
 lastmod: "2026-07-18T16:38:07.499618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ukuran statistik yang digunakan dalam teori pembelajaran untuk mengukur kekayaan suatu kelas fungsi berdasarkan kemampuannya menyesuaikan diri dengan noise acak."
 ---
-
 ## Definition
 
 Kompleksitas Rademacher mengevaluasi seberapa baik sebuah kelas hipotesis dapat berkorelasi dengan label acak (noise). Hal ini berfungsi sebagai proksi bagi kapasitas atau fleksibilitas model. Kompleksitas yang lebih rendah menunjukkan kemampuan generalisasi yang lebih baik.

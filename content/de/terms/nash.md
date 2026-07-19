@@ -1,23 +1,24 @@
 ---
-title: "Nash-Gleichgewicht"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: Nash-Gleichgewicht
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /de/terms/nash/
-date: "2026-07-18T10:52:05.398481Z"
-lastmod: "2026-07-18T11:44:44.879166Z"
+slug: nash
+date: '2026-07-18T10:52:05.398481Z'
+lastmod: '2026-07-18T11:44:44.879166Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Bezieht sich auf das Nash-Gleichgewicht, einen Zustand in der Spieltheorie, in dem kein Spieler durch eine Änderung seiner Strategie profitieren kann, während die Strategien der anderen konstant bleib"
+source: agnes_llm
+status: published
+language: de
+description: Bezieht sich auf das Nash-Gleichgewicht, einen Zustand in der Spieltheorie,
+  in dem kein Spieler durch eine Änderung seiner Strategie profitieren kann, während
+  die Strategien der anderen konstant bleib
 ---
-
 ## Definition
 
 In der KI, insbesondere in Multi-Agenten-Systemen und Reinforcement Learning, beschreibt das Nash-Gleichgewicht einen stabilen Zustand, in dem die Strategie jedes Agenten optimal ist, gegeben die Strategien aller anderen Agenten. Kein einzelner Agent hat einen Anreiz, abzuweichen.

@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /fr/terms/statistical_learning_theory/
 date: "2026-07-18T11:39:09.758778Z"
 lastmod: "2026-07-18T11:44:45.333751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre mathématique qui fournit les fondements théoriques des algorithmes d'apprentissage automatique en analysant leurs capacités de généralisation."
 ---
-
 ## Definition
 
 La théorie de l'apprentissage statistique (TLS) est une branche des statistiques et de l'informatique qui étudie la manière dont des algorithmes spécifiques peuvent généraliser à partir d'échantillons d'entraînement finis vers des données non vues. Elle se concentre sur le bornage

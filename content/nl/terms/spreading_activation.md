@@ -1,23 +1,24 @@
 ---
-title: "Verspreiding van activatie"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: Verspreiding van activatie
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /nl/terms/spreading_activation/
-date: "2026-07-18T16:18:24.368974Z"
-lastmod: "2026-07-18T17:15:08.789970Z"
+slug: spreading_activation
+date: '2026-07-18T16:18:24.368974Z'
+lastmod: '2026-07-18T17:15:08.789970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een cognitief geïnspireerd mechanisme waarbij activatie van één knoop activatie in verbonden knopen binnen een netwerk triggert."
+source: agnes_llm
+status: published
+language: nl
+description: Een cognitief geïnspireerd mechanisme waarbij activatie van één knoop
+  activatie in verbonden knopen binnen een netwerk triggert.
 ---
-
 ## Definition
 
 Verspreiding van activatie is een concept dat oorspronkelijk uit de cognitieve psychologie komt en is aangepast voor neurale netwerken om te beschrijven hoe signaalvoortplanting plaatsvindt door onderling verbonden eenheden. Wanneer een specifieke knoop wordt geactiveerd, verspreidt deze activatie zich naar burenknopen, waarbij de sterkte van de activatie vaak afneemt met de afstand of de gewichtsterkte van de verbinding. Dit simuleert associatieve geheugenprocessen.

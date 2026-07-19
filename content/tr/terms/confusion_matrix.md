@@ -1,23 +1,24 @@
 ---
-title: "Karışıklık Matrisi"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Karışıklık Matrisi
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /tr/terms/confusion_matrix/
-date: "2026-07-18T15:46:04.805847Z"
-lastmod: "2026-07-18T16:38:07.285699Z"
+slug: confusion_matrix
+date: '2026-07-18T15:46:04.805847Z'
+lastmod: '2026-07-18T16:38:07.285699Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir sınıflandırma modelinin test verileri üzerindeki performansını tanımlamak için kullanılan bir tablo."
+source: agnes_llm
+status: published
+language: tr
+description: Bir sınıflandırma modelinin test verileri üzerindeki performansını tanımlamak
+  için kullanılan bir tablo.
 ---
-
 ## Definition
 
 Karışıklık matrisi, genellikle denetimli öğrenme olan bir algoritmanın performansını görselleştirmeye izin veren özel bir tablo düzenidir. Gerçek pozitif, gerçek negatif, yanlış pozitif ve yanlış negatif sayılarını gösterir.

@@ -1,23 +1,23 @@
 ---
-title: "one-step"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: one-step
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /es/terms/one_step/
-date: "2026-07-18T10:28:53.586404Z"
-lastmod: "2026-07-18T11:44:44.758176Z"
+slug: one_step
+date: '2026-07-18T10:28:53.586404Z'
+lastmod: '2026-07-18T11:44:44.758176Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Se refiere a algoritmos o procesos que completan una tarea o ciclo de toma de decisiones en una sola iteración, sin refinamiento iterativo."
+source: agnes_llm
+status: published
+language: es
+description: Se refiere a algoritmos o procesos que completan una tarea o ciclo de
+  toma de decisiones en una sola iteración, sin refinamiento iterativo.
 ---
-
 ## Definition
 
 En el aprendizaje automático y la optimización, los métodos one-step resuelven problemas directamente sin requerir múltiples iteraciones o actualizaciones para converger. A diferencia del descenso de gradiente, que da muchos pasos para minimizar

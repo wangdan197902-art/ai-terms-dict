@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /zh/terms/embedding/
 date: "2026-07-18T07:44:46.533353Z"
 lastmod: "2026-07-18T11:44:44.591710Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种将单词或图像等离散对象映射到连续向量空间的技术。"
 ---
-
 ## Definition
 
 嵌入是数据的稠密向量表示，其中语义关系在几何空间中得以保留。通过将分类或高维输入转换为固定长度的向量，模型能够捕捉数据背后的深层含义。

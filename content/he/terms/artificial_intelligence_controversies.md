@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /he/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:42:48.314779Z"
 lastmod: "2026-07-18T17:15:09.513336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "דיונים ציבוריים וחילוקי דעות סביב ההשלכות האתיות, החברתיות והטכניות של פיתוח ויישום בינה מלאכותית."
 ---
-
 ## Definition
 
 מחלוקות בינה מלאכותית כוללות את מגוון הסכסוכים האתיים, המשפטיים והחברתיים הנובעים מטכנולוגיות בינה מלאכותית. נושאים מרכזיים כוללים הטיה אלגוריתמית, הפרת פרטיות, החלפת מקומות עבודה על ידי אוטומציה, ואחריות משפטית במקרה של טעויות או נזקים שנגרמו על ידי מערכות AI.

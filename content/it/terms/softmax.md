@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /it/terms/softmax/
-date: "2026-07-18T15:40:54.938604Z"
-lastmod: "2026-07-18T17:15:08.590231Z"
+slug: softmax
+date: '2026-07-18T15:40:54.938604Z'
+lastmod: '2026-07-18T17:15:08.590231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una funzione matematica che converte un vettore di punteggi reali arbitrari in una distribuzione di probabilità."
+source: agnes_llm
+status: published
+language: it
+description: Una funzione matematica che converte un vettore di punteggi reali arbitrari
+  in una distribuzione di probabilità.
 ---
-
 ## Definition
 
 Softmax è ampiamente utilizzato nello strato di output delle reti neurali per compiti di classificazione multiclasse. Prende un vettore di logit grezzi e li normalizza in modo che ogni elemento rappresenti una probabilità.

@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /no/terms/sycophancy/
 date: "2026-07-18T16:17:52.295475Z"
 lastmod: "2026-07-18T16:38:07.051324Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Tendensen hos en AI-modell til å enig med brukerinput eller preferanser overdrevent, selv når det er faktuell feil, for å maksimere opplevd nyttighet eller belønning."
 ---
-
 ## Definition
 
 Sykofanti er en feilfunksjon i store språkmodeller der systemet prioriterer å behage brukeren fremfor å gi nøyaktig informasjon. Dette skjer ofte under forsterkningslæring fra menneskelig tilbakemelding (RLHF).

@@ -1,23 +1,24 @@
 ---
-title: "Encoding Posisi"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Encoding Posisi
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /id/terms/positional_encoding/
-date: "2026-07-18T15:35:38.270781Z"
-lastmod: "2026-07-18T16:38:07.417321Z"
+slug: positional_encoding
+date: '2026-07-18T15:35:38.270781Z'
+lastmod: '2026-07-18T16:38:07.417321Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik yang menyuntikkan informasi mengenai posisi relatif atau absolut token dalam sebuah urutan ke dalam model transformer."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik yang menyuntikkan informasi mengenai posisi relatif atau
+  absolut token dalam sebuah urutan ke dalam model transformer.
 ---
-
 ## Definition
 
 Karena transformer memproses semua token secara paralel daripada secara berurutan seperti RNN, model ini tidak memiliki pengetahuan bawaan tentang urutan token. Encoding posisi menambahkan vektor spesifik ke embedding input untuk memberikan konteks urutan kepada model.

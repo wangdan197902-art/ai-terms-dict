@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /fi/terms/knowledge_cutoff/
 date: "2026-07-18T16:05:03.325067Z"
 lastmod: "2026-07-18T17:15:09.425298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tietopohjan katkos on tietty päivämäärä, jonka jälkeen kielimallia ei ole koulutettu, minkä vuoksi sillä ei ole tietoa tämän päivämäärän jälkeen tapahtuneista tapahtumista."
 ---
-
 ## Definition
 
 Tietopohjan katkopäivämäärä määrittelee kielimallin koulutusdatan ajallisen rajan. Mikä tahansa tieto, tapahtuma tai kehitys, joka on tapahtunut tämän päivämäärän jälkeen, on yleensä mallille

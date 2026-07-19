@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /vi/terms/code_generation/
 date: "2026-07-18T15:22:49.791265Z"
 lastmod: "2026-07-18T16:38:07.678204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình sử dụng trí tuệ nhân tạo để tự động tạo mã nguồn từ các mô tả bằng ngôn ngữ tự nhiên hoặc các đoạn mã hiện có."
 ---
-
 ## Definition
 
 Tạo mã nguồn tận dụng các mô hình ngôn ngữ lớn (LLM) được huấn luyện trên kho lưu trữ khổng lồ các ngôn ngữ lập trình để sản xuất các thành phần phần mềm hoạt động được. Nó diễn giải các yêu cầu dễ đọc bởi con người, chẳng hạn như chú thích mã (comments) hoặc mô tả chức năng, và chuyển đổi chúng thành cú pháp lập trình chính xác.

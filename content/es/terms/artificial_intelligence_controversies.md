@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /es/terms/artificial_intelligence_controversies/
 date: "2026-07-18T10:36:50.423291Z"
 lastmod: "2026-07-18T11:44:44.777416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Debates y desacuerdos públicos en torno a las implicaciones éticas, sociales y técnicas del desarrollo y despliegue de la IA."
 ---
-
 ## Definition
 
 Las controversias de la IA abarcan la amplia gama de disputas éticas, legales y sociales derivadas de las tecnologías de inteligencia artificial. Los problemas clave incluyen el sesgo algorítmico, las violaciones de privacidad y el desplazamiento...

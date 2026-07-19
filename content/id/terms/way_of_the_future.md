@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /id/terms/way_of_the_future/
 date: "2026-07-18T16:13:00.474040Z"
 lastmod: "2026-07-18T16:38:07.518784Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Istilah ini umumnya merujuk pada trajektori kemajuan teknologi yang diharapkan, khususnya mengenai integrasi AI ke dalam kehidupan sehari-hari dan industri."
 ---
-
 ## Definition
 
 Meskipun bukan istilah teknis yang ketat, 'Jalan Masa Depan' menggambarkan pergeseran paradigma menuju sistem otonom, asisten AI yang dipersonalisasi, dan proses pengambilan keputusan otomatis. Istilah ini merangkum visi tentang bagaimana teknologi akan membentuk masa depan masyarakat.

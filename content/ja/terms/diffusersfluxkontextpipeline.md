@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /ja/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T11:12:11.297167Z"
 lastmod: "2026-07-18T11:44:45.091021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Fluxモデル用に特別に設計されたDiffusersライブラリのパイプラインで、時間的または空間的な一貫性を高めた文脈対応型画像生成を可能にする。"
 ---
-
 ## Definition
 
 このパイプラインは、Diffusersフレームワーク内で高品質な画像合成で知られるFluxアーキテクチャを活用します。周囲の環境や文脈を考慮することを可能にするメカニズムをサポートしており、より整合性の高い生成を実現します。

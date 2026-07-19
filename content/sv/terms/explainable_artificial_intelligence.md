@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /sv/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:57:12.664273Z"
 lastmod: "2026-07-18T17:15:09.001940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Förklarbar AI (XAI) syftar på metoder och tekniker inom tillämpningen av artificiell intelligens så att lösningens resultat kan förstås av mänskliga experter."
 ---
-
 ## Definition
 
 När maskininlärningsmodeller blir mer komplexa, särskilt djupa neuronnät, blir deras beslutsfattande processer ofta opålitliga 'svarta lådor'. XAI syftar till att göra dessa beslut tolkbara och transparenta.

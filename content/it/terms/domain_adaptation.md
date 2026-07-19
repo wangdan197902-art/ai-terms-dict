@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /it/terms/domain_adaptation/
 date: "2026-07-18T15:57:20.952887Z"
 lastmod: "2026-07-18T17:15:08.620712Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un metodo di apprendimento automatico che migliora le prestazioni del modello su un dominio di destinazione sfruttando la conoscenza di un dominio di origine."
 ---
-
 ## Definition
 
 L'adattamento del dominio affronta la sfida quando i dati di addestramento e di test provengono da distribuzioni diverse. Allineando le rappresentazioni delle caratteristiche tra un dominio di origine etichettato e uno di destinazione non etichettato o parzialmente etichettato, si riduce il divario tra i domini.

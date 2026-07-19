@@ -1,23 +1,24 @@
 ---
-title: "מסד נתונים חכם"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: מסד נתונים חכם
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /he/terms/intelligent_database/
-date: "2026-07-18T16:07:08.948829Z"
-lastmod: "2026-07-18T17:15:09.552238Z"
+slug: intelligent_database
+date: '2026-07-18T16:07:08.948829Z'
+lastmod: '2026-07-18T17:15:09.552238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מערכת מסד נתונים המשלבת יכולות בינה מלאכותית כדי לאוטמט ניהול נתונים, אופטימיזציה שאילתות ויצירת תובנות."
+source: agnes_llm
+status: published
+language: he
+description: מערכת מסד נתונים המשלבת יכולות בינה מלאכותית כדי לאוטמט ניהול נתונים,
+  אופטימיזציה שאילתות ויצירת תובנות.
 ---
-
 ## Definition
 
 מסד נתונים חכם מנצל למידת מכונה ובינה מלאכותית כדי לשפר פונקציונליות סטנדרטית של מסדי נתונים מעבר לאחסון ושליפה פשוטים. הוא יכול לאופטמט אוטומטית ביצועי שאילתות, לחזות שימוש...

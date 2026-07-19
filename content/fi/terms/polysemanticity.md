@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /fi/terms/polysemanticity/
 date: "2026-07-18T16:15:50.743536Z"
 lastmod: "2026-07-18T17:15:09.444433Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ilmiö, jossa yksittäiset neuronit neuronaalisissa verkoissa reagoivat useisiin eri käsitteisiin."
 ---
-
 ## Definition
 
 Polysemanttisuus on syvien neuronaaliverkkojen, erityisesti transformer-mallien, ominaisuus, jossa yksi neuroni voi aktivoitua useiden eri tai semanttisesti erilaisten piirteiden läsnä ollessa.

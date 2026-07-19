@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /ar/terms/granular_computing/
 date: "2026-07-18T16:00:04.958454Z"
 lastmod: "2026-07-18T17:15:08.509837Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الحوسبة الحبيبية هي نموذج عمل يتعامل مع المعلومات على مستويات مختلفة من التجريد، وينظم البيانات في هياكل ذات معنى تُسمى حبيبات المعلومات."
 ---
-
 ## Definition
 
 يحاكي هذا النهج العمليات المعرفية البشرية من خلال تجميع البيانات في كيان أعلى مستوى أو 'حبيبات' بدلاً من معالجة العناصر الفردية. ويشمل تقنيات مثل المجموعات الخشنة والمنطق الضبابي.

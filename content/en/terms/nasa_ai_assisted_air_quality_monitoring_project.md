@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /en/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T10:08:54.012214Z"
 lastmod: "2026-07-18T11:44:44.703227Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An initiative utilizing artificial intelligence and satellite data to monitor and predict global air quality patterns."
 ---
-
 ## Definition
 
 This project leverages NASA's Earth observation data combined with advanced AI algorithms to track particulate matter and gaseous pollutants globally. By integrating satellite imagery with ground-level sensor data, the system provides high-resolution air quality maps and forecasts. The primary goal is to enhance public health monitoring, support policy-making, and improve understanding of atmospheric dynamics through automated, scalable analysis of environmental data streams.

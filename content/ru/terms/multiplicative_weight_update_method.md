@@ -1,23 +1,24 @@
 ---
-title: "Метод мультипликативного обновления весов"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Метод мультипликативного обновления весов
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /ru/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:07:24.445947Z"
-lastmod: "2026-07-18T16:38:07.183639Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:07:24.445947Z'
+lastmod: '2026-07-18T16:38:07.183639Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Итеративный алгоритм, который обновляет веса мультипликативно на основе обратной связи о производительности для минимизации сожаления."
+source: agnes_llm
+status: published
+language: ru
+description: Итеративный алгоритм, который обновляет веса мультипликативно на основе
+  обратной связи о производительности для минимизации сожаления.
 ---
-
 ## Definition
 
 Метод мультипликативного обновления весов — это фундаментальный алгоритм онлайн-обучения, используемый для принятия решений в условиях неопределенности. Он поддерживает набор весов для различных стратегий или экспертов, адаптируясь к их эффективности.

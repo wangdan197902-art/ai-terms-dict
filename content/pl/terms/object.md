@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /pl/terms/object/
 date: "2026-07-18T15:28:04.415313Z"
 lastmod: "2026-07-18T17:15:08.816934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wyodrębniona encja w programie zawierająca dane i metody do manipulowania tymi danymi, centralna dla programowania obiektowego."
 ---
-
 ## Definition
 
 Obiekt to fundamentalna koncepcja w informatyce, szczególnie w programowaniu obiektowym (OOP). Reprezentuje instancję klasy, enkapsulując zarówno stan (atrybuty lub dane), jak i zachowanie (metody). Pozwala na modelowanie rzeczywistych encji w kodzie źródłowym.

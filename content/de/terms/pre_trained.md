@@ -1,23 +1,25 @@
 ---
-title: "Vorab trainiert (Pre-Trained)"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: Vorab trainiert (Pre-Trained)
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /de/terms/pre_trained/
-date: "2026-07-18T10:56:51.846951Z"
-lastmod: "2026-07-18T11:44:44.891185Z"
+slug: pre_trained
+date: '2026-07-18T10:56:51.846951Z'
+lastmod: '2026-07-18T11:44:44.891185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Vorab trainierte Modelle sind neuronale Netzwerke, die auf großen Datensätzen geschult wurden, um allgemeine Merkmale zu lernen, bevor sie für spezifische Aufgaben angepasst werden."
+source: agnes_llm
+status: published
+language: de
+description: Vorab trainierte Modelle sind neuronale Netzwerke, die auf großen Datensätzen
+  geschult wurden, um allgemeine Merkmale zu lernen, bevor sie für spezifische Aufgaben
+  angepasst werden.
 ---
-
 ## Definition
 
 Ein vorab trainiertes Modell ist ein fundamentales KI-Modell, das einem umfangreichen Training auf massiven, vielfältigen Datensätzen wie Wikipedia oder ImageNet unterzogen wurde. Dieses initiale Training ermöglicht es dem Modell, breite semantische und strukturelle Muster zu erfassen, die dann als Grundlage für nachgelagerte, aufgabenbezogene Anpassungen dienen.

@@ -1,23 +1,23 @@
 ---
-title: "乘法权重更新法"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: 乘法权重更新法
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /zh/terms/multiplicative_weight_update_method/
-date: "2026-07-18T11:27:47.974042Z"
-lastmod: "2026-07-18T11:44:45.535101Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T11:27:47.974042Z'
+lastmod: '2026-07-18T11:44:45.535101Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种迭代算法，根据性能反馈以乘法方式更新权重，以最小化遗憾值。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种迭代算法，根据性能反馈以乘法方式更新权重，以最小化遗憾值。
 ---
-
 ## Definition
 
 乘法权重更新法是一种基础的在线学习算法，用于在不确定环境中做出决策。它为不同的策略或专家维护一组权重，并根据其表现动态调整这些权重，从而优化长期决策效果。

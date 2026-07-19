@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /pt/terms/multi/
 date: "2026-07-18T14:37:21.715285Z"
 lastmod: "2026-07-18T15:51:59.434624Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um prefixo que indica a presença de múltiplas instâncias, cabeças ou modalidades dentro de um sistema ou modelo."
 ---
-
 ## Definition
 
 O prefixo 'multi-' é frequentemente usado em IA para denotar arquiteturas ou processos que envolvem vários componentes paralelos. Exemplos incluem Atenção Multi-Cabeça, que permite aos modelos focar em diferentes aspectos dos dados simultaneamente.

@@ -1,23 +1,25 @@
 ---
-title: "Kostenbewusstes maschinelles Lernen"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Kostenbewusstes maschinelles Lernen
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /de/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T11:09:02.358492Z"
-lastmod: "2026-07-18T11:44:44.921749Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T11:09:02.358492Z'
+lastmod: '2026-07-18T11:44:44.921749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Paradigma des maschinellen Lernens, das Kosten für Fehlklassifikationen in den Trainingsprozess einbezieht, um wirtschaftliche Auswirkungen zu optimieren, anstatt nur auf Genauigkeit zu achten."
+source: agnes_llm
+status: published
+language: de
+description: Ein Paradigma des maschinellen Lernens, das Kosten für Fehlklassifikationen
+  in den Trainingsprozess einbezieht, um wirtschaftliche Auswirkungen zu optimieren,
+  anstatt nur auf Genauigkeit zu achten.
 ---
-
 ## Definition
 
 Kostenbewusstes maschinelles Lernen erweitert das traditionelle überwachte Lernen, indem es unterschiedliche Strafen für verschiedene Arten von Fehlern festlegt. In realen Szenarien haben falsch positive und falsch negative Ergebnisse oft unterschiedliche wirtschaftliche Konsequenzen.

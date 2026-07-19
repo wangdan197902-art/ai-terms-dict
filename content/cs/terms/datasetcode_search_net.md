@@ -1,23 +1,24 @@
 ---
-title: "Datová sada: Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: 'Datová sada: Code Search Net'
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /cs/terms/datasetcode_search_net/
-date: "2026-07-18T15:50:59.461405Z"
-lastmod: "2026-07-18T17:15:09.117184Z"
+slug: datasetcode_search_net
+date: '2026-07-18T15:50:59.461405Z'
+lastmod: '2026-07-18T17:15:09.117184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Benchmarková datová sada navržená k hodnocení systémů vyhledávání v kódu prostřednictvím párování přirodnějazykových dotazů s příslušnými úryvky kódu."
+source: agnes_llm
+status: published
+language: cs
+description: Benchmarková datová sada navržená k hodnocení systémů vyhledávání v kódu
+  prostřednictvím párování přirodnějazykových dotazů s příslušnými úryvky kódu.
 ---
-
 ## Definition
 
 Code Search Net je komplexní datová sada vytvořená k podpoře výzkumu v oblasti retrievu kódu. Obsahuje miliony párů popisů v přirozeném jazyce a odpovídajících úryvků kódu v jazyce Java. Tato data umožňují trénovat modely, které chápou sémantiku kódu.

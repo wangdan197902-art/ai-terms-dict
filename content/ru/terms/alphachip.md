@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /ru/terms/alphachip/
-date: "2026-07-18T15:40:16.589986Z"
-lastmod: "2026-07-18T16:38:07.118686Z"
+slug: alphachip
+date: '2026-07-18T15:40:16.589986Z'
+lastmod: '2026-07-18T16:38:07.118686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Инструмент проектирования чипов на базе ИИ, разработанный Google DeepMind, использующий обучение с подкреплением для оптимизации макетов интегральных схем."
+source: agnes_llm
+status: published
+language: ru
+description: Инструмент проектирования чипов на базе ИИ, разработанный Google DeepMind,
+  использующий обучение с подкреплением для оптимизации макетов интегральных схем.
 ---
-
 ## Definition
 
 AlphaChip — это специализированная система искусственного интеллекта, предназначенная для автоматизации и улучшения размещения компонентов и трассировки соединений на микропроцессорах. Используя глубокое обучение с подкреплением, она значительно сокращает время разработки.

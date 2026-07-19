@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /cs/terms/english/
 date: "2026-07-18T15:24:36.087515Z"
 lastmod: "2026-07-18T17:15:09.067483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Angličtina je přirozený jazyk, který slouží jako dominantní benchmarková sada dat a cílový výstup pro mnoho modelů zpracování přirozeného jazyka (NLP)."
 ---
-
 ## Definition
 
 Ačkoli primárně jde o lidský jazyk, v kontextu AI angličtina představuje nejrozšířenější lingvistickou doménu pro výzkum NLP kvůli hojnosti digitálních textových dat. Většina základních modelů (jako jsou BERT nebo GPT) byla primárně trénována na anglických datech, což vede k lepšímu výkonu v tomto jazyce ve srovnání s jinými.

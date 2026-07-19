@@ -7,8 +7,6 @@ tags: ["theory", "complexity", "mathematics"]
 difficulty: 4
 weight: 1
 slug: "chaos"
-aliases:
-  - /zh/terms/chaos/
 date: "2026-07-18T11:09:42.288215Z"
 lastmod: "2026-07-18T11:44:45.453535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在人工智能中，混沌指的是复杂的非线性动力系统，对初始条件高度敏感，通常看似随机但受确定性规则支配。"
 ---
-
 ## Definition
 
 混沌理论研究起始参数的微小变化如何导致复杂系统中截然不同的结果。在人工智能领域，理解混沌行为对于模型稳定性分析和复杂系统模拟至关重要。

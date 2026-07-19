@@ -1,23 +1,24 @@
 ---
-title: "שמיעת מחשב"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: שמיעת מחשב
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /he/terms/computer_audition/
-date: "2026-07-18T15:49:28.063284Z"
-lastmod: "2026-07-18T17:15:09.522049Z"
+slug: computer_audition
+date: '2026-07-18T15:49:28.063284Z'
+lastmod: '2026-07-18T17:15:09.522049Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שמיעת מחשב היא תחום מחקר המתמקד באפשרות למכונות לתפוס ולהבין אותות שמע באופן דומה לבני אדם."
+source: agnes_llm
+status: published
+language: he
+description: שמיעת מחשב היא תחום מחקר המתמקד באפשרות למכונות לתפוס ולהבין אותות שמע
+  באופן דומה לבני אדם.
 ---
-
 ## Definition
 
 שמיעת מחשב כוללת פיתוח אלגוריתמים המאפשרים למחשבים לחלץ מידע משמעותי מגלי קול. הדבר כולל משימות כמו זיהוי דיבור, סיווג ז'אנרים מוזיקליים, וזיהוי מקורות צליל בסביבה.

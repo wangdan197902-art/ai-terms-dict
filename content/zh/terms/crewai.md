@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /zh/terms/crewai/
 date: "2026-07-18T11:11:39.245550Z"
 lastmod: "2026-07-18T11:44:45.469286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "CrewAI 是一个用于编排角色扮演自主 AI 智能体以协作完成复杂任务的框架。"
 ---
-
 ## Definition
 
 CrewAI 提供了一个结构化的环境，用于构建多智能体系统，其中每个智能体都有特定的角色、目标和工具集。它允许开发者简化工作流的创建...

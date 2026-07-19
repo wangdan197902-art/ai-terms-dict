@@ -1,23 +1,24 @@
 ---
-title: "TensorFlow Hub"
-term_id: "tensorflow_hub"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tensorflow", "libraries", "transfer-learning"]
+title: TensorFlow Hub
+term_id: tensorflow_hub
+category: basic_concepts
+subcategory: ''
+tags:
+- tensorflow
+- libraries
+- Transfer Learning
 difficulty: 3
 weight: 1
-slug: "tensorflow_hub"
-aliases:
-  - /nl/terms/tensorflow_hub/
-date: "2026-07-18T16:19:35.829465Z"
-lastmod: "2026-07-18T17:15:08.792419Z"
+slug: tensorflow_hub
+date: '2026-07-18T16:19:35.829465Z'
+lastmod: '2026-07-18T17:15:08.792419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een repository voor herbruikbare machine learning-modules, die transfer learning met voorgecompileerde modellen mogelijk maakt."
+source: agnes_llm
+status: published
+language: nl
+description: Een repository voor herbruikbare machine learning-modules, die transfer
+  learning met voorgecompileerde modellen mogelijk maakt.
 ---
-
 ## Definition
 
 TensorFlow Hub is een platform voor het publiceren en hergebruiken van machine learning-componenten. Het stelt ontwikkelaars in staat toegang te krijgen tot voorgecompileerde modellen voor verschillende taken, zoals beeldclassificatie en tekstembedding.

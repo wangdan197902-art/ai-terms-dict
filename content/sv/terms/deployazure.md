@@ -1,23 +1,23 @@
 ---
-title: "Distribuera: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Distribuera: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /sv/terms/deployazure/
-date: "2026-07-18T15:53:37.376425Z"
-lastmod: "2026-07-18T17:15:08.995190Z"
+slug: deployazure
+date: '2026-07-18T15:53:37.376425Z'
+lastmod: '2026-07-18T17:15:08.995190Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att värd och köra maskininlärningsmodeller på Microsoft Azures molninfrastruktur."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att värd och köra maskininlärningsmodeller på Microsoft Azures
+  molninfrastruktur.
 ---
-
 ## Definition
 
 Att distribuera till Azure innebär att använda molnnativa verktyg som Azure Machine Learning, Azure Kubernetes Service (AKS) eller Azure Functions för att leverera ML-modeller i stor skala. Det omfattar hantering av beräkningsresurser

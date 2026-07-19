@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /zh/terms/agentic/
 date: "2026-07-18T10:59:15.017996Z"
 lastmod: "2026-07-18T11:44:45.396925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指具备自主规划、推理和执行行动以实现特定目标的人工智能系统。"
 ---
-
 ## Definition
 
 “智能体式”一词描述了具有高自主性的AI智能体。与仅仅预测文本或分类数据的被动模型不同，智能体系统能够将复杂目标分解为子任务，利用工具与环境交互，并独立执行操作以达成目的。

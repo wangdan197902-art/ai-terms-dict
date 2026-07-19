@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /ro/terms/source_attribution/
 date: "2026-07-18T16:21:22.342938Z"
 lastmod: "2026-07-18T17:15:09.703538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de identificare și creditare a creatorilor originali sau a seturilor de date utilizate pentru a genera conținut sau informații specifice."
 ---
-
 ## Definition
 
 Atribuirea sursei se referă la urmărirea sistematică și etichetarea originilor datelor, modelelor sau ieșirilor generate în cadrul sistemelor de inteligență artificială. Aceasta asigură transparența prin legarea rezultatelor finale înapoi la sursele lor originale.

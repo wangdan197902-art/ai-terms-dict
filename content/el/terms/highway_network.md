@@ -1,23 +1,24 @@
 ---
-title: "Δρόμος Νευρωνικού Δικτύου"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Δρόμος Νευρωνικού Δικτύου
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /el/terms/highway_network/
-date: "2026-07-18T16:12:07.880594Z"
-lastmod: "2026-07-18T17:15:09.916969Z"
+slug: highway_network
+date: '2026-07-18T16:12:07.880594Z'
+lastmod: '2026-07-18T17:15:09.916969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αρχιτεκτονική βαθιάς νευρωνικής网 που εισάγει μηχανισμούς πύλης για να διευκολύνει τη ροή βαθμονόμησης μέσω πολύ βαθιών δικτύων."
+source: agnes_llm
+status: published
+language: el
+description: Μια αρχιτεκτονική βαθιάς νευρωνικής网 που εισάγει μηχανισμούς πύλης για
+  να διευκολύνει τη ροή βαθμονόμησης μέσω πολύ βαθιών δικτύων.
 ---
-
 ## Definition
 
 Τα Highway Networks σχεδιάστηκαν για να αντιμετωπίσουν το πρόβλημα της εξαφανιζόμενης βαθμονόμησης στη βαθιά μάθηση ενσωματώνοντας προσαρμοστικές πύλες που ελέγχουν τη ροή πληροφοριών. Παρόμοια με τα κύτταρα LSTM, αυτές οι πύλες επιτρέπουν στο δίκτυο να μαθαίνει δυναμικά πόση πληροφορία από την είσοδο πρέπει να περνά απευθείας στα επόμενα στρώματα (skip connection) και πόση πρέπει να επεξεργάζεται η νευρωνική λειτουργία, επιτρέποντας την εκπαίδευση εξαιρετικά βαθιών μοντέλων.

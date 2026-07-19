@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /ko/terms/visual/
 date: "2026-07-18T15:31:05.711721Z"
 lastmod: "2026-07-18T16:38:06.787644Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "시각이나 이미지와 관련된 것으로, 주로 이미지 및 비디오와 같은 시각적 데이터를 처리하고 해석하는 컴퓨터 비전 작업을 지칭합니다."
 ---
-
 ## Definition
 
 AI에서 '비주얼'이라는 용어는 주로 컴퓨터 비전을 지칭하며, 이는 기계가 디지털 이미지, 비디오 및 기타 시각적 입력에서 의미 있는 정보를 도출하도록 하는 분야입니다. 여기에는 이미지 처리, 객체 감지 등이 포함됩니다.

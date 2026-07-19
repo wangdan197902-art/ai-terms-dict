@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /es/terms/journal_of_machine_learning_research/
 date: "2026-07-18T10:55:26.304629Z"
 lastmod: "2026-07-18T11:44:44.821429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una revista académica líder revisada por pares dedicada a publicar investigaciones de alta calidad sobre todos los aspectos del aprendizaje automático."
 ---
-
 ## Definition
 
 El Journal of Machine Learning Research (JMLR) es una publicación destacada de acceso abierto que sirve como principal vehículo para difundir hallazgos científicos rigurosos en el campo del aprendizaje automático. Cubre aspectos teóricos y prácticos, ofreciendo un foro para la discusión de nuevos métodos y aplicaciones.

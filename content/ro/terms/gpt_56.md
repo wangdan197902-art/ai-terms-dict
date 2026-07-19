@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /ro/terms/gpt_56/
 date: "2026-07-18T15:59:28.000202Z"
 lastmod: "2026-07-18T17:15:09.658360Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O iterație ipotetică sau viitoare a seriei Generative Pre-trained Transformer de la OpenAI, reprezentând un avans dincolo de modelele GPT actuale."
 ---
-
 ## Definition
 
 GPT-5.6 se referă la o versiune speculativă sau viitoare în linia Modelelor Linguistice Mari (LLM) de la OpenAI. Deși detaliile specifice pot varia în funcție de calendarul dezvoltării, astfel de iterații tipic

@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /ru/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:48:03.498496Z"
 lastmod: "2026-07-18T16:38:07.140429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Крупномасштабный набор данных на основе публикаций и цитирований в области компьютерных наук, разработанный для обучения моделей эмбеддингов научных статей."
 ---
-
 ## Definition
 
 Набор данных Specter создан на основе обширной коллекции статей по компьютерным наукам, используя сети цитирования для создания сигналов для обучения с учителем. Он сопоставляет аннотации с цитирующими их статьями для

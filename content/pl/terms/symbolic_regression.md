@@ -1,23 +1,24 @@
 ---
-title: "Regresja symboliczna"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: Regresja symboliczna
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /pl/terms/symbolic_regression/
-date: "2026-07-18T16:19:51.743801Z"
-lastmod: "2026-07-18T17:15:08.922592Z"
+slug: symbolic_regression
+date: '2026-07-18T16:19:51.743801Z'
+lastmod: '2026-07-18T17:15:08.922592Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Regresja symboliczna to technika przeszukująca przestrzeń wyrażeń matematycznych w poszukiwaniu tych, które najlepiej dopasowują się do zbioru danych, z celem odkrycia interpretowalnych formuł."
+source: agnes_llm
+status: published
+language: pl
+description: Regresja symboliczna to technika przeszukująca przestrzeń wyrażeń matematycznych
+  w poszukiwaniu tych, które najlepiej dopasowują się do zbioru danych, z celem odkrycia
+  interpretowalnych formuł.
 ---
-
 ## Definition
 
 Regresja symboliczna to rodzaj analizy regresji, który ma na celu znalezienie wyrażenia matematycznego, zazwyczaj reprezentowanego jako struktura drzewiasta, optymalnie dopasowującego się do obserwowanych danych. W przeciwieństwie do tradycyjnej regresji...

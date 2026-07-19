@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /cs/terms/loss_function/
 date: "2026-07-18T15:36:06.959651Z"
 lastmod: "2026-07-18T17:15:09.090782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Matematická funkce, která kvantifikuje rozdíl mezi předpovězenými hodnotami a skutečnými cílovými hodnotami během tréninku."
 ---
-
 ## Definition
 
 Také známá jako funkce nákladů nebo chyby, poskytuje skalární hodnotu indikující, jak dobře model funguje. Během tréninku algoritmy optimalizace používají tuto hodnotu k výpočtu gradientů pro aktualizaci parametrů modelu směrem k lepšímu výkonu.

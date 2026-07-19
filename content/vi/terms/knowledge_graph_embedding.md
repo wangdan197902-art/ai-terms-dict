@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /vi/terms/knowledge_graph_embedding/
 date: "2026-07-18T15:59:24.068428Z"
 lastmod: "2026-07-18T16:38:07.773056Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật ánh xạ các thực thể và quan hệ trong đồ thị tri thức vào không gian vectơ liên tục trong khi vẫn bảo toàn ngữ nghĩa cấu trúc."
 ---
-
 ## Definition
 
 Các phương pháp nhúng đồ thị tri thức, chẳng hạn như TransE hoặc DistMult, biến đổi các cấu trúc đồ thị rời rạc thành các vectơ đặc trưng dày đặc có chiều thấp. Điều này cho phép các mô hình học máy thực hiện các phép toán toán học trên dữ liệu cấu trúc, từ đó hỗ trợ các tác vụ như dự đoán liên kết và suy luận.

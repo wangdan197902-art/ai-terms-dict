@@ -1,23 +1,23 @@
 ---
-title: "زمني"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: زمني
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /ar/terms/temporal/
-date: "2026-07-18T15:31:21.630841Z"
-lastmod: "2026-07-18T17:15:08.450080Z"
+slug: temporal
+date: '2026-07-18T15:31:21.630841Z'
+lastmod: '2026-07-18T17:15:08.450080Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير المصطلح الزمني إلى تسلسلات الوقت، مع التركيز على كيفية تغير البيانات أو تطور الاعتماديات بينها عبر الزمن."
+source: agnes_llm
+status: published
+language: ar
+description: يشير المصطلح الزمني إلى تسلسلات الوقت، مع التركيز على كيفية تغير البيانات
+  أو تطور الاعتماديات بينها عبر الزمن.
 ---
-
 ## Definition
 
 تشمل المفاهيم الزمنية في الذكاء الاصطناعي تحليل نقاط البيانات المرتبة زمنياً، مثل أسعار الأسهم، وقراءات المستشعرات، أو جمل اللغة الطبيعية. يجب أن تأخذ النماذج التي تتعامل مع البيانات الزمنية في الاعتبار ترتيب التسلسل...

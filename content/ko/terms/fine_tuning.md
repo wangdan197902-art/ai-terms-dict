@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /ko/terms/fine_tuning/
 date: "2026-07-18T15:22:33.610486Z"
 lastmod: "2026-07-18T16:38:06.766966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "더 작은 데이터셋을 사용하여 사전 훈련된 모델을 특정 다운스트림 작업에 맞게 조정하는 과정."
 ---
-
 ## Definition
 
 파인튜닝은 이미 대규모 일반 데이터셋으로 훈련된 모델을 가져와 전문화된 데이터셋으로 추가 훈련하는 것을 포함합니다. 이를 통해 모델은 일반적인 지식을 유지하면서 작업 특화된 능력을 획득할 수 있습니다.

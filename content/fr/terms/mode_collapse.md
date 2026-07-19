@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /fr/terms/mode_collapse/
 date: "2026-07-18T11:30:11.515529Z"
 lastmod: "2026-07-18T11:44:45.295409Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'effondrement de mode est un dysfonctionnement des Réseaux Antagonistes Génératifs (GAN) où le générateur produit une variété limitée de sorties."
 ---
-
 ## Definition
 
 Dans les GAN, l'effondrement de mode se produit lorsque le générateur apprend à exploiter les faiblesses du discriminateur en produisant une gamme étroite d'échantillons plausibles, ignorant ainsi d'autres modes de la distribution de données. Cela

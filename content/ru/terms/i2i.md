@@ -1,23 +1,24 @@
 ---
-title: "I2I (Image-to-Image)"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: I2I (Image-to-Image)
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /ru/terms/i2i/
-date: "2026-07-18T15:58:00.598934Z"
-lastmod: "2026-07-18T16:38:07.167143Z"
+slug: i2i
+date: '2026-07-18T15:58:00.598934Z'
+lastmod: '2026-07-18T16:38:07.167143Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Перевод изображений (Image-to-Image) — это метод компьютерного зрения, который преобразует входное изображение в соответствующее выходное изображение с сохранением семантического содержания."
+source: agnes_llm
+status: published
+language: ru
+description: Перевод изображений (Image-to-Image) — это метод компьютерного зрения,
+  который преобразует входное изображение в соответствующее выходное изображение с
+  сохранением семантического содержания.
 ---
-
 ## Definition
 
 Перевод изображений (I2I) включает в себя отображение пикселей из исходной области в целевую область с использованием моделей глубокого обучения, таких как GAN или диффузионные модели. Это позволяет выполнять перенос стиля, семантическую сегментацию и другие задачи трансформации визуальных данных.

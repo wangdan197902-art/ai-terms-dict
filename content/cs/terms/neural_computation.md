@@ -1,23 +1,24 @@
 ---
-title: "Neuronální výpočet"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Neuronální výpočet
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /cs/terms/neural_computation/
-date: "2026-07-18T16:10:53.837686Z"
-lastmod: "2026-07-18T17:15:09.157472Z"
+slug: neural_computation
+date: '2026-07-18T16:10:53.837686Z'
+lastmod: '2026-07-18T17:15:09.157472Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces zpracování informací uvnitř umělých neuronových sítí inspirovaných biologickými neurony."
+source: agnes_llm
+status: published
+language: cs
+description: Proces zpracování informací uvnitř umělých neuronových sítí inspirovaných
+  biologickými neurony.
 ---
-
 ## Definition
 
 Neuronální výpočet se týká matematických operací prováděných umělými neurony za účelem transformace vstupních signálů na výstupní odezvy. Zahrnuje vážené součty, aktivační funkce a zpětnou propagaci chyby.

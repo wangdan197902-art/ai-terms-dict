@@ -1,23 +1,25 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /nl/terms/comfyui/
-date: "2026-07-18T15:46:49.096439Z"
-lastmod: "2026-07-18T17:15:08.726484Z"
+slug: comfyui
+date: '2026-07-18T15:46:49.096439Z'
+lastmod: '2026-07-18T17:15:08.726484Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een knopgebaseerde grafische gebruikersinterface voor Stable Diffusion die complexe workflowconstructie en fijne controle over beeldgeneratie mogelijk maakt."
+source: agnes_llm
+status: published
+language: nl
+description: Een knopgebaseerde grafische gebruikersinterface voor Stable Diffusion
+  die complexe workflowconstructie en fijne controle over beeldgeneratie mogelijk
+  maakt.
 ---
-
 ## Definition
 
 ComfyUI is een krachtige, modulaire en knopgebaseerde GUI voor Stable Diffusion-modellen. In tegenstelling tot traditionele interfaces die lineaire workflows bieden, stelt ComfyUI gebruikers in staat om aangepaste pipelines te bouwen door knopen te verbinden, wat gedetailleerde controle geeft over elk aspect van het generatieproces.

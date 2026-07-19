@@ -1,23 +1,23 @@
 ---
-title: "终身规划A*算法"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: 终身规划A*算法
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /zh/terms/lifelong_planning_a/
-date: "2026-07-18T11:24:07.939926Z"
-lastmod: "2026-07-18T11:44:45.524763Z"
+slug: lifelong_planning_a
+date: '2026-07-18T11:24:07.939926Z'
+lastmod: '2026-07-18T11:44:45.524763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种增量式路径查找算法，能够在边权重发生变化后，无需从头重新计算即可高效地更新最短路径。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种增量式路径查找算法，能够在边权重发生变化后，无需从头重新计算即可高效地更新最短路径。
 ---
-
 ## Definition
 
 终身规划A*（LPA*）是为成本随时间变化的环境设计的A*搜索算法的扩展。与重新启动搜索不同，LPA*维护一个优先级队列并仅更新受更改影响的节点，从而显著提高了在动态图环境中重新规划路径的效率。

@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /cs/terms/knowledge/
 date: "2026-07-18T15:26:01.015612Z"
 lastmod: "2026-07-18T17:15:09.071260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Znalosti jsou strukturované porozumění, fakta, dovednosti a poznatky odvozené z informací, zkušeností nebo úsudku, které umožňují efektivní rozhodování."
 ---
-
 ## Definition
 
 V AI se znalosti často týkají explicitních informací uložených v databázích, ontologiích nebo vahách neuronových sítí, které umožňují usuzování a inferenci. Nacházejí se nad informacemi v hierarchii DIKW

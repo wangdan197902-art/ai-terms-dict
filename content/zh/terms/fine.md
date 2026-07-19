@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /zh/terms/fine/
 date: "2026-07-18T10:51:19.044896Z"
 lastmod: "2026-07-18T11:44:45.368476Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "微调是指使用额外数据将预训练的AI模型适应特定任务或领域的过程。"
 ---
-
 ## Definition
 
 微调涉及采用在大型数据集上训练过的通用模型，并在较小、更专业的数据集上进行进一步训练，以提高其在特定任务上的性能。该技术利用了迁移学习的优势。

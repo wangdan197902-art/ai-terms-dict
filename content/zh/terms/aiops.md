@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /zh/terms/aiops/
 date: "2026-07-18T11:04:01.480472Z"
 lastmod: "2026-07-18T11:44:45.436917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AIOps 指将人工智能和机器学习应用于自动化 IT 运维流程。"
 ---
-
 ## Definition
 
 IT 运维人工智能（AIOps）结合大数据分析和技术学习算法，以自动化 IT 基础设施和运维管理。它帮助组织管理复杂的 IT 环境，通过智能手段提升运维效率和稳定性。

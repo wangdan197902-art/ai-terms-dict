@@ -1,23 +1,24 @@
 ---
-title: "Анонимизация"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: Анонимизация
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /ru/terms/anonymization/
-date: "2026-07-18T15:40:37.093482Z"
-lastmod: "2026-07-18T16:38:07.119680Z"
+slug: anonymization
+date: '2026-07-18T15:40:37.093482Z'
+lastmod: '2026-07-18T16:38:07.119680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс удаления личной идентифицирующей информации из наборов данных для защиты конфиденциальности отдельных лиц."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс удаления личной идентифицирующей информации из наборов данных
+  для защиты конфиденциальности отдельных лиц.
 ---
-
 ## Definition
 
 Анонимизация включает модификацию данных таким образом, чтобы их больше нельзя было связать с конкретным человеком без использования дополнительной информации. Этот метод критически важен в машинном обучении при работе с чувствительными данными.

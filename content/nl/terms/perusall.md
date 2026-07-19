@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /nl/terms/perusall/
 date: "2026-07-18T16:12:17.688612Z"
 lastmod: "2026-07-18T17:15:08.776560Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een door AI aangedreven sociaal leerplatform dat het automatisch cijfergeven van studentenannotaties en discussies over digitale teksten automatisert."
 ---
-
 ## Definition
 
 Perusall is een educatief technologieplatform dat kunstmatige intelligentie inzet om samenwerkend lezen en annoteren te vergemakkelijken. Het geeft automatisch cijfers voor de deelname van studenten op basis van de k

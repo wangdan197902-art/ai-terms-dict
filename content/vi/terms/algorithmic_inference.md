@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /vi/terms/algorithmic_inference/
 date: "2026-07-18T15:39:57.385732Z"
 lastmod: "2026-07-18T16:38:07.726124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Suy luận thuật toán là quá trình mà một mô hình học máy đã được huấn luyện áp dụng các mẫu đã học vào dữ liệu mới, chưa từng thấy để đưa ra dự đoán hoặc quyết định."
 ---
-
 ## Definition
 
 Còn được gọi là dự đoán hoặc chấm điểm, suy luận xảy ra sau giai đoạn huấn luyện mô hình. Thuật toán nhận đầu vào là các đặc trưng, xử lý chúng qua cấu trúc nội bộ (như trọng số trong mạng nơ-ron) để tạo ra kết quả đầu ra cuối cùng.

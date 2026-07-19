@@ -1,23 +1,24 @@
 ---
-title: "Robotika perkembangan evolusioner"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: Robotika perkembangan evolusioner
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /id/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:49:47.840451Z"
-lastmod: "2026-07-18T16:38:07.455920Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:49:47.840451Z'
+lastmod: '2026-07-18T16:38:07.455920Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Subbidang robotika yang menggabungkan algoritma evolusioner dengan proses perkembangan untuk merancang morfologi dan sistem kendali robot."
+source: agnes_llm
+status: published
+language: id
+description: Subbidang robotika yang menggabungkan algoritma evolusioner dengan proses
+  perkembangan untuk merancang morfologi dan sistem kendali robot.
 ---
-
 ## Definition
 
 Terinspirasi oleh ontogeni biologis, Robotika ED mengeksplorasi bagaimana perilaku kompleks dan struktur fisik muncul seiring waktu melalui interaksi dengan lingkungan, bukan dikodekan secara kaku. Ini menggunakan algoritma evolusioner untuk mengembangkan desain tubuh dan otak robot secara bersamaan.

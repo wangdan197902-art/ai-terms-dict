@@ -1,23 +1,24 @@
 ---
-title: "Сжатые тензоры"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Сжатые тензоры
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /ru/terms/compressed_tensors/
-date: "2026-07-18T15:45:43.042509Z"
-lastmod: "2026-07-18T16:38:07.132567Z"
+slug: compressed_tensors
+date: '2026-07-18T15:45:43.042509Z'
+lastmod: '2026-07-18T16:38:07.132567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Тензоры, у которых снижена точность данных или размер для оптимизации хранения и вычислительной эффективности."
+source: agnes_llm
+status: published
+language: ru
+description: Тензоры, у которых снижена точность данных или размер для оптимизации
+  хранения и вычислительной эффективности.
 ---
-
 ## Definition
 
 Сжатые тензоры — это многомерные массивы, используемые в глубоком обучении, где числовая точность (например, от float32 до int8) или разреженность была уменьшена. Этот метод, известный как квантование или сжатие,

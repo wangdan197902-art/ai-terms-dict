@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /ja/terms/automated/
 date: "2026-07-18T10:48:36.308081Z"
 lastmod: "2026-07-18T11:44:45.002214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間の介入を最小限に抑え、機械やソフトウェアによって実行されるプロセスを指します。"
 ---
-
 ## Definition
 
 AIにおける自動化とは、従来人間の手が必要だったタスクを実行するために、アルゴリズムやシステムを使用することです。これは、事前に定義されたルールを実行したり、学習したりすることで、効率性、一貫性、速度を重視します。

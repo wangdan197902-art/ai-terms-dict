@@ -1,23 +1,24 @@
 ---
-title: "Treinamento de Precisão Mista"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Treinamento de Precisão Mista
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /pt/terms/mixed_precision_training/
-date: "2026-07-18T15:13:14.615716Z"
-lastmod: "2026-07-18T15:51:59.513250Z"
+slug: mixed_precision_training
+date: '2026-07-18T15:13:14.615716Z'
+lastmod: '2026-07-18T15:51:59.513250Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica de treinamento que utiliza números de ponto flutuante de 16 bits e 32 bits para acelerar o cálculo e reduzir o uso de memória."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica de treinamento que utiliza números de ponto flutuante de
+  16 bits e 32 bits para acelerar o cálculo e reduzir o uso de memória.
 ---
-
 ## Definition
 
 O Treinamento de Precisão Mista (MPT) combina tipos de dados de meia precisão (FP16) e precisão total (FP32) durante o treinamento de redes neurais. Ao usar FP16 para a maioria das operações, o MPT reduz a pegada de memória e aumenta a velocidade de treinamento.

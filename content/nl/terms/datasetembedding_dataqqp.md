@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /nl/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:49:32.305049Z"
 lastmod: "2026-07-18T17:15:08.733149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De Quora Question Pairs-dataset, gebruikt om modellen te trainen die semantische gelijkenis tussen vragen kunnen detecteren."
 ---
-
 ## Definition
 
 Quora Question Pairs (QQP) is een binair classificatiedataset met meer dan 400.000 paren van vragen van het Quora-platform. De taak bestaat eruit om te bepalen of twee vragen dezelfde intentie hebben of.

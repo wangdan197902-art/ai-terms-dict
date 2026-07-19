@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /vi/terms/dynamic/
 date: "2026-07-18T15:24:27.512722Z"
 lastmod: "2026-07-18T16:38:07.683290Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Động đề cập đến các hệ thống AI hoặc đồ thị tính toán thích cấu trúc, hành vi hoặc luồng thực thi của chúng theo thời gian thực dựa trên dữ liệu đầu vào hoặc sự thay đổi của môi trường."
 ---
-
 ## Definition
 
 Khác với các hệ thống tĩnh có kiến trúc cố định hoặc đường dẫn thực thi đã xác định trước, các hệ thống AI động có thể sửa đổi các hoạt động của chúng trong thời gian chạy. Trong học sâu, các đồ thị tính toán động cho phép cấu trúc mô hình thay đổi linh hoạt tùy thuộc vào đầu vào.

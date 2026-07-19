@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /zh/terms/text_embeddings_inference/
 date: "2026-07-18T11:36:07.262460Z"
 lastmod: "2026-07-18T11:44:45.562184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种专为高效生成文本密集向量表示而设计的专用推理服务器，用于语义搜索和检索任务。"
 ---
-
 ## Definition
 
 文本嵌入推理指的是部署和优化将自然语言转换为高维向量的模型的过程。这些嵌入能够捕捉语义含义，使系统能够理解文本之间的深层联系，从而支持高效的语义匹配与信息检索。

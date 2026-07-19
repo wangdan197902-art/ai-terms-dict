@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /cs/terms/langevin/
 date: "2026-07-18T15:26:01.015719Z"
 lastmod: "2026-07-18T17:15:09.071391Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Langevin odkazuje na stochastické diferenciální rovnice, konkrétně Langevinovu dynamiku, používanou k vzorkování z pravděpodobnostních distribucí simulací fyzikálního pohybu s třením a šumem."
 ---
-
 ## Definition
 
 Langevinova dynamika zahrnuje náhodný šum a tlumící síly k efektivnímu průzkumu energetických krajin. V AI se primárně používá ve metodách vzorkování, jako je Hamiltonova Monte Carlo nebo Stochastický gradient

@@ -1,23 +1,23 @@
 ---
-title: "フューショットラーニング"
-term_id: "few_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["ml_theory", "training", "efficiency"]
+title: フューショットラーニング
+term_id: few_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- ML Theory
+- training
+- efficiency
 difficulty: 4
 weight: 1
-slug: "few_shot_learning"
-aliases:
-  - /ja/terms/few_shot_learning/
-date: "2026-07-18T10:59:07.505622Z"
-lastmod: "2026-07-18T11:44:45.047948Z"
+slug: few_shot_learning
+date: '2026-07-18T10:59:07.505622Z'
+lastmod: '2026-07-18T11:44:45.047948Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "フューショットラーニングは、モデルが非常に限られたラベル付き訓練データから新しい概念を学習する機械学習のパラダイムです。"
+source: agnes_llm
+status: published
+language: ja
+description: フューショットラーニングは、モデルが非常に限られたラベル付き訓練データから新しい概念を学習する機械学習のパラダイムです。
 ---
-
 ## Definition
 
 フューショットラーニングは、人間のような学習効率を模倣し、わずかな例数からモデルが一般化できるようにすることを目的としています。通常、これはメタラーニング戦略に依存しており、モデルは複数の類似タスクで事前に訓練され、新しいタスクに適応するための基盤知識を獲得します。

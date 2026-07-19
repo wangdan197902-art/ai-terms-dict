@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /ar/terms/business_process_automation/
 date: "2026-07-18T15:47:41.083432Z"
 lastmod: "2026-07-18T17:15:08.482820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "استخدام التكنولوجيا لتنفيذ المهام أو العمليات المتكررة في الأعمال حيث يمكن استبدال الجهد البشري."
 ---
-
 ## Definition
 
 تنطوي أتمتة العمليات التجارية (BPA) على الاستفادة من البرمجيات والذكاء الاصطناعي لتبسيط سير العمل التجاري المعقد. وعلى عكس الأتمتة الروبوتية للعمليات (RPA) البسيطة التي تتعامل...

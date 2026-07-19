@@ -1,23 +1,23 @@
 ---
-title: "毒性検出"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: 毒性検出
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /ja/terms/toxicity_detection/
-date: "2026-07-18T11:35:09.368241Z"
-lastmod: "2026-07-18T11:44:45.152349Z"
+slug: toxicity_detection
+date: '2026-07-18T11:35:09.368241Z'
+lastmod: '2026-07-18T11:44:45.152349Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機械学習モデルを使用して、テキスト内の有害または虐待的な言語を自動で識別し分類するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 機械学習モデルを使用して、テキスト内の有害または虐待的な言語を自動で識別し分類するプロセス。
 ---
-
 ## Definition
 
 毒性検出は、自然言語処理技術を用いてテキスト入力を分析し、有害コンテンツが含まれている確率スコアを割り当てます。これらのシステムは通常、教師あり学習を用いて訓練され、特定のキーワードや文脈パターンに基づいて、不快な発言や攻撃的なメッセージをリアルタイムで検出します。

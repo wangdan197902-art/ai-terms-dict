@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /tr/terms/nso/
 date: "2026-07-18T16:06:49.854031Z"
 lastmod: "2026-07-18T16:38:07.342239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka bağlamlarında NSO genellikle Sinirsel Sembolik Optimizasyon'u veya gözetim teknolojisiyle ilgili NSO Group gibi belirli kurumsal varlıkları ifade eder."
 ---
-
 ## Definition
 
 NSO kısaltması bağlama göre birden fazla anlama gelebilir. Teknik yapay zeka araştırmalarında sinir ağlarını sembolik mantıkla birleştiren Sinirsel Sembolik Optimizasyonu ifade edebilir. Ancak, genellikle gözetim yazılımları üreten NSO Group firmasıyla ilişkilendirilir.

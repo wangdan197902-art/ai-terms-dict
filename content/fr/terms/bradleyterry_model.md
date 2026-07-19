@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /fr/terms/bradleyterry_model/
 date: "2026-07-18T11:07:10.028285Z"
 lastmod: "2026-07-18T11:44:45.204860Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un modèle statistique utilisé pour analyser les données de comparaison par paires, estimant la probabilité qu'un élément soit préféré à un autre."
 ---
-
 ## Definition
 
 Le modèle Bradley-Terry est un modèle probabiliste largement utilisé en psychométrie et en apprentissage automatique pour gérer les comparaisons par paires. Il attribue un score latent à chaque élément, calculant ainsi la probabilité qu'un élément soit préféré à un autre lors d'une confrontation directe.

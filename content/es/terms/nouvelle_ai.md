@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /es/terms/nouvelle_ai/
 date: "2026-07-18T11:02:31.839456Z"
 lastmod: "2026-07-18T11:44:44.837690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un enfoque de IA simbólica que enfatiza estructuras de razonamiento jerárquicas y modulares inspiradas en la arquitectura cognitiva humana."
 ---
-
 ## Definition
 
 La IA Nouvelle se refiere a una clase de sistemas de inteligencia artificial que utilizan representaciones simbólicas combinadas con procesamiento jerárquico. A diferencia de los modelos conexionistas, se centra en el razonamiento estructurado.

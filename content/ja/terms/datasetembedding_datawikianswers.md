@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /ja/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T11:10:29.076965Z"
 lastmod: "2026-07-18T11:44:45.085544Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "WikiAnswersからの質問応答ペアで構成されるデータセットで、意図の理解と意味的同等性を学習するモデルの訓練に使用されます。"
 ---
-
 ## Definition
 
 このデータセットには、現在廃止されたWikiAnswersプラットフォームからスクレイピングされた数百万の質問応答ペアが含まれています。主に密なパッセージ検索や意味的マッチングモデルの学習に使用されます。By le

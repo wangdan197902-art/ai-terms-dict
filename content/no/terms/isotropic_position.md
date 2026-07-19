@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /no/terms/isotropic_position/
 date: "2026-07-18T16:00:53.377691Z"
 lastmod: "2026-07-18T16:38:07.014904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En geometrisk transformasjon av et konveks legeme der treghetsmatrisen er proporsjonal med identitetsmatrisen, noe som forenkler analysen."
 ---
-
 ## Definition
 
 Innenfor konveks geometri og sannsynlighet i høye dimensjoner er en mengde punkter eller et konveks legeme i isotrop posisjon hvis tyngdepunktet er i origo og kovariansmatrisen er en skalar multiplum av

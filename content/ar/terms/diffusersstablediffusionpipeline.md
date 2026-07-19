@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /ar/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:54:02.955193Z"
-lastmod: "2026-07-18T17:15:08.497528Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:54:02.955193Z'
+lastmod: '2026-07-18T17:15:08.497528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الخط الأنابيب القياسي لتشغيل Stable Diffusion v1.5، باستخدام U-Net ومشفرات CLIP لتوليد الصور من النص."
+source: agnes_llm
+status: published
+language: ar
+description: الخط الأنابيب القياسي لتشغيل Stable Diffusion v1.5، باستخدام U-Net ومشفرات
+  CLIP لتوليد الصور من النص.
 ---
-
 ## Definition
 
 هذا هو الخط الأنابيب الأساسي لنموذج Stable Diffusion v1.5، المستخدم على نطاق واسع للتركيب العام للنص إلى صورة. يعتمد على منقي ضوضاء U-Net ومشفر نص CLIP لربط المطالبات النصية

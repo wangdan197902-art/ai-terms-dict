@@ -1,23 +1,24 @@
 ---
-title: "Regelinduktion"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Regelinduktion
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /sv/terms/rule_induction/
-date: "2026-07-18T16:19:25.107281Z"
-lastmod: "2026-07-18T17:15:09.044794Z"
+slug: rule_induction
+date: '2026-07-18T16:19:25.107281Z'
+lastmod: '2026-07-18T17:15:09.044794Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En maskininlärningsteknik som automatiskt genererar en uppsättning logiska regler från märkt träningsdata för att klassificera nya instanser."
+source: agnes_llm
+status: published
+language: sv
+description: En maskininlärningsteknik som automatiskt genererar en uppsättning logiska
+  regler från märkt träningsdata för att klassificera nya instanser.
 ---
-
 ## Definition
 
 Regelinduktion är en symbolisk maskininlärningsmetod som härleder om-då-regler direkt från data. Till skillnad från neurala nätverk, som producerar ogenomskinliga vikter, ger regelinduktion tolkningsbara modeller

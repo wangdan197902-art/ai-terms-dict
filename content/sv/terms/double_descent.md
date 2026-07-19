@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /sv/terms/double_descent/
 date: "2026-07-18T15:54:47.696270Z"
 lastmod: "2026-07-18T17:15:08.998120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett fenomen där testfelet minskar, ökar och sedan minskar igen när modellkomplexiteten växer bortom interpolationsgränsen."
 ---
-
 ## Definition
 
 Dubbel nedgång utmanar den traditionella bias-varians-handeln genom att visa att högt överparametrerade modeller kan uppnå lågt testfel trots att de interpolerar träningsdata. Inledningsvis stiger felet när modellen blir komplexare, men sjunker sedan igen i det överparametrerade läget.

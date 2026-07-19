@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /th/terms/neural_modeling_fields/
 date: "2026-07-18T16:07:25.578522Z"
 lastmod: "2026-07-18T16:38:07.635945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กรอบทฤษฎีที่อธิบายการจัดระเบียบเชิงพื้นที่และหน้าที่ของรูปแบบกิจกรรมทางประสาท"
 ---
-
 ## Definition
 
 สนามการสร้างแบบจำลองประสาทเกี่ยวข้องกับการศึกษาวิธีการที่ประชากรเซลล์ประสาทจัดระเบียบตัวเองในปริภูมิหลายมิติเพื่อแสดงข้อมูล แนวคิดนี้มักสัมพันธ์กับการแมปเชิงทอพอโลยีและทฤษฎีสนาม

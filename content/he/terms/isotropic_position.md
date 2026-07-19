@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /he/terms/isotropic_position/
 date: "2026-07-18T16:07:37.134211Z"
 lastmod: "2026-07-18T17:15:09.552855Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טרנספורמציה גיאומטרית של גוף קמור שבה מטריצת האינרציה שלה פרופורציונלית למטריצה היחידה, מה שמפשט את הניתוח."
 ---
-
 ## Definition
 
 בגיאומטריה קמורה ובתורת ההסתברות רב-ממדית, קבוצת נקודות או גוף קמור נמצאים במיקום איזוטרופי אם מרכז המסה שלהם נמצא בראשית הצירים ומטריצת השונות-משותפת שלהם היא כפולה סקלרית של

@@ -7,8 +7,6 @@ tags: ["Deployment", "Intel", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "openvino"
-aliases:
-  - /ar/terms/openvino/
 date: "2026-07-18T16:15:06.933091Z"
 lastmod: "2026-07-18T17:15:08.534212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "OpenVINO هو مجموعة أدوات مفتوحة المصدر من إنتل لتحسين ونشر نماذج التعلم العميق عبر منصات عتدية متنوعة بكفاءة."
 ---
-
 ## Definition
 
 طورته شركة إنتل، يسمح OpenVINO (الاستدلال البصري المفتوح وتحسين الشبكات العصبية) للمطورين بأخذ نماذج التعلم العميق المدربة ونشرها بكفاءة على عتاد إنتل. ويشمل ذلك...

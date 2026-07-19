@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /sv/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:45:30.305777Z"
 lastmod: "2026-07-18T17:15:08.976219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Tillämpningen av AI-teknologier i valprocesser, inklusive kampanjhantering, väljaranalys och oro för desinformation."
 ---
-
 ## Definition
 
 Begreppet omfattar AI:s dubbla roll i demokratiska processer: att öka effektiviteten genom dataanalys och samtidigt utgöra risker genom manipulation. Å ena sidan hjälper AI kampanjer att rikta in sig på väljare och optimera budskap, å andra sidan kan tekniken användas för att sprida falsk information och påverka valresultat.

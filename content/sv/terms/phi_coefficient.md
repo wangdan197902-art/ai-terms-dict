@@ -1,23 +1,23 @@
 ---
-title: "Fikoefficient"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Fikoefficient
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /sv/terms/phi_coefficient/
-date: "2026-07-18T16:13:43.189679Z"
-lastmod: "2026-07-18T17:15:09.036593Z"
+slug: phi_coefficient
+date: '2026-07-18T16:13:43.189679Z'
+lastmod: '2026-07-18T17:15:09.036593Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett statistiskt mått på sambandet mellan två binära variabler."
+source: agnes_llm
+status: published
+language: sv
+description: Ett statistiskt mått på sambandet mellan två binära variabler.
 ---
-
 ## Definition
 
 Fikoefficienten (φ) är ett mått på sambandet mellan två binära variabler och fungerar som Pearsons korrelationskoefficient för dikotoma variabler. Den varierar från -1 till +1, där 0 indikerar inget samband.

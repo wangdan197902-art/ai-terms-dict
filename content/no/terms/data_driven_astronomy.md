@@ -1,23 +1,24 @@
 ---
-title: "Drevet astronomi basert på data"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Drevet astronomi basert på data
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /no/terms/data_driven_astronomy/
-date: "2026-07-18T15:48:47.363357Z"
-lastmod: "2026-07-18T16:38:06.987186Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:48:47.363357Z'
+lastmod: '2026-07-18T16:38:06.987186Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Bruken av storstilt dataanalyse og maskinlæringsmetoder for å trekke innsikt fra astronomiske observasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Bruken av storstilt dataanalyse og maskinlæringsmetoder for å trekke
+  innsikt fra astronomiske observasjoner.
 ---
-
 ## Definition
 
 Drevet astronomi basert på data utnytter avanserte beregningsmetoder, inkludert maskinlæring og statistisk analyse, for å håndtere de enorme volumene med data generert av moderne teleskoper og undersøkelser. Dette muliggjør oppdagelser som er umulige med tradisjonelle analytiske metoder alene.

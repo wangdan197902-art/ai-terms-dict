@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /cs/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:42:16.137539Z"
 lastmod: "2026-07-18T17:15:09.102719Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využití technologií AI k vylepšení vyučovacích metod, personalizaci učebních zkušeností a automatizaci administrativních úkolů."
 ---
-
 ## Definition
 
 AI ve vzdělávání zahrnuje využívání strojového učení, zpracování přirozeného jazyka a adaptivních systémů ke zlepšení vzdělávacích výsledků. Umožňuje vytvářet personalizované vzdělávací dráhy přizpůsobené jednotlivým studentům.

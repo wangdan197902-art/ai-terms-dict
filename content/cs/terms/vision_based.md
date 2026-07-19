@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /cs/terms/vision_based/
 date: "2026-07-18T15:33:43.744143Z"
 lastmod: "2026-07-18T17:15:09.086495Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Systémy, které primárně spoléhají na vizuální vstupní data k vnímání a interakci se světem."
 ---
-
 ## Definition
 
 Paradigmata založená na vidění využívají kamery a algoritmy zpracování obrazu k extrakci smysluplných informací z vizuálních scénářů. Tyto systémy jsou základem v robotice, autonomním řízení a rozšířené realitě...

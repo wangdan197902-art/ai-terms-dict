@@ -1,23 +1,23 @@
 ---
-title: "カーネル正則化のベイズ的解釈"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: カーネル正則化のベイズ的解釈
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /ja/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T11:06:11.847304Z"
-lastmod: "2026-07-18T11:44:45.072769Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T11:06:11.847304Z'
+lastmod: '2026-07-18T11:44:45.072769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "SVMなどのカーネル手法をベイズ事前分布の仮定の下でガウス過程と結びつける理論的枠組み。"
+source: agnes_llm
+status: published
+language: ja
+description: SVMなどのカーネル手法をベイズ事前分布の仮定の下でガウス過程と結びつける理論的枠組み。
 ---
-
 ## Definition
 
 この概念は、特定のカーネルを持つ正則化リスク関数の最小化が、ベイズ枠組みにおける最尤事後推定（MAP）を求めることと同等であることを示しています。具体的には、正則化項がパラメータの事前分布として解釈できることを意味します。

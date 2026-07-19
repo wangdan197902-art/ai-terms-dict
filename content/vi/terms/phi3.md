@@ -1,23 +1,24 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /vi/terms/phi3/
-date: "2026-07-18T16:07:47.065473Z"
-lastmod: "2026-07-18T16:38:07.793154Z"
+slug: phi3
+date: '2026-07-18T16:07:47.065473Z'
+lastmod: '2026-07-18T16:38:07.793154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một họ các mô hình ngôn ngữ lớn (LLM) trọng số mở do Microsoft Research phát triển."
+source: agnes_llm
+status: published
+language: vi
+description: Một họ các mô hình ngôn ngữ lớn (LLM) trọng số mở do Microsoft Research
+  phát triển.
 ---
-
 ## Definition
 
 Phi-3 là một chuỗi các mô hình ngôn ngữ nhỏ (SLMs) được Microsoft phát hành, được thiết kế để mang lại hiệu suất cao tương đương với các mô hình lớn hơn nhưng yêu cầu tài nguyên tính toán ít hơn đáng kể.

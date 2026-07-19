@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /pl/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:41:21.842685Z"
 lastmod: "2026-07-18T17:15:08.846714Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Konwergencja sztucznej inteligencji i internetu rzeczy, umożliwiająca inteligentnym urządzeniom przetwarzanie danych lokalnie i podejmowanie autonomicznych decyzji."
 ---
-
 ## Definition
 
 Sztuczna inteligencja rzeczy (AIoT) reprezentuje synergistyczną integrację technologii sztucznej inteligencji i internetu rzeczy. Poprzez wbudowanie algorytmów AI bezpośrednio w urządzenia IoT lub na brzegu sieci,

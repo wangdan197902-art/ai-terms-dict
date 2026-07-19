@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /vi/terms/schema_agnostic_databases/
 date: "2026-07-18T16:11:18.636805Z"
 lastmod: "2026-07-18T16:38:07.802903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Cơ sở dữ liệu không phụ thuộc lược đồ là hệ thống lưu trữ cho phép cấu trúc dữ liệu linh hoạt mà không yêu cầu lược đồ được xác định trước, thường được sử dụng trong môi trường NoSQL."
 ---
-
 ## Definition
 
 Các cơ sở dữ liệu này cho phép mô hình hóa dữ liệu động bằng cách không áp đặt cấu trúc bảng hoặc định nghĩa cột cứng nhắc ngay từ đầu. Sự linh hoạt này cho phép nhà phát triển lưu trữ dữ liệu không có cấu trúc hoặc bán cấu trúc, phù hợp với các ứng dụng thay đổi nhanh.

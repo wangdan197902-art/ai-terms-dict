@@ -1,23 +1,23 @@
 ---
-title: "มุมมองภาษาและการกระทำ (Language/Action Perspective)"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: มุมมองภาษาและการกระทำ (Language/Action Perspective)
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /th/terms/languageaction_perspective/
-date: "2026-07-18T16:01:57.262128Z"
-lastmod: "2026-07-18T16:38:07.624344Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:01:57.262128Z'
+lastmod: '2026-07-18T16:38:07.624344Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กรอบทฤษฎีที่มองว่าภาษาคือรูปแบบหนึ่งของการกระทำทางสังคม มิใช่เพียงระบบสำหรับอธิบายความเป็นจริงเท่านั้น"
+source: agnes_llm
+status: published
+language: th
+description: กรอบทฤษฎีที่มองว่าภาษาคือรูปแบบหนึ่งของการกระทำทางสังคม มิใช่เพียงระบบสำหรับอธิบายความเป็นจริงเท่านั้น
 ---
-
 ## Definition
 
 มุมมองนี้มีรากฐานมาจากทฤษฎีการกระทำด้วยวาจา (speech act theory) และวากยสัมพันธ์เชิงความหมาย (pragmatics) โดยเน้นย้ำว่าการออกเสียงหรือการuttersance สามารถทำหน้าที่ต่างๆ เช่น การขอ การให้คำมั่นสัญญา หรือการสั่งการ ในด้านประมวลผลภาษาธรรมชาติ (NLP) มุมมองนี้ช่วยในการทำความเข้าใจเจตนาและบริบทของการสื่อสาร

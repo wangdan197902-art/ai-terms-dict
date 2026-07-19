@@ -1,23 +1,24 @@
 ---
-title: "Анализ средств и целей"
-term_id: "meansends_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["planning", "problem_solving", "history"]
+title: Анализ средств и целей
+term_id: meansends_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- planning
+- Problem Solving
+- history
 difficulty: 3
 weight: 1
-slug: "meansends_analysis"
-aliases:
-  - /ru/terms/meansends_analysis/
-date: "2026-07-18T16:04:16.605171Z"
-lastmod: "2026-07-18T16:38:07.179565Z"
+slug: meansends_analysis
+date: '2026-07-18T16:04:16.605171Z'
+lastmod: '2026-07-18T16:38:07.179565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Эвристический метод решения проблем, уменьшающий разницу между текущим состоянием и целевым путем выявления подцелей."
+source: agnes_llm
+status: published
+language: ru
+description: Эвристический метод решения проблем, уменьшающий разницу между текущим
+  состоянием и целевым путем выявления подцелей.
 ---
-
 ## Definition
 
 Анализ средств и целей — это когнитивная стратегия, используемая в искусственном интеллекте и психологии для решения сложных задач. Она заключается в сравнении текущего состояния проблемы с желаемым целевым состоянием, выявлении различий между ними и выборе действий (средств), которые минимизируют эти различия, часто путем постановки промежуточных подцелей.

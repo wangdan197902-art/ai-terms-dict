@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /ko/terms/text_to_video/
 date: "2026-07-18T16:18:17.757007Z"
 lastmod: "2026-07-18T16:38:06.915037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "텍스트-비디오 생성은 텍스트 설명이나 프롬프트로부터 비디오 클립을 생성하는 AI 기능입니다."
 ---
-
 ## Definition
 
 텍스트에서 비디오로(Text-to-video)는 자연어 입력에 기반하여 동적인 시각적 콘텐츠를 생성하는 생성형 AI 모델을 지칭합니다. 이러한 시스템은 텍스트 프롬프트에서 의미론적 의미를 분석하여 일관된 시퀀스를

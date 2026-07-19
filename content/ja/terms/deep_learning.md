@@ -1,23 +1,23 @@
 ---
-title: "深層学習"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: 深層学習
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /ja/terms/deep_learning/
-date: "2026-07-18T07:42:00.734476Z"
-lastmod: "2026-07-18T11:44:44.586668Z"
+slug: deep_learning
+date: '2026-07-18T07:42:00.734476Z'
+lastmod: '2026-07-18T11:44:44.586668Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "多層の人工ニューラルネットワークを使用して、データ内の複雑なパターンや表現をモデル化する機械学習のサブセット。"
+source: agnes_llm
+status: published
+language: ja
+description: 多層の人工ニューラルネットワークを使用して、データ内の複雑なパターンや表現をモデル化する機械学習のサブセット。
 ---
-
 ## Definition
 
 深層学習アルゴリズムは、人間の脳の分析的かつ学習的なプロセスを模倣しようとします。相互接続されたノードの複数の層を積み重ねることで、これらのモデルは生データから階層的な特徴を学習できます。

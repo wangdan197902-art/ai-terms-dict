@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /zh/terms/policies/
 date: "2026-07-18T10:53:51.038612Z"
 lastmod: "2026-07-18T11:44:45.381055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由组织制定的一套指导方针、规则或协议，用于规范行为、决策和运营标准。"
 ---
-
 ## Definition
 
 在人工智能和技术治理的背景下，政策指的是规范人工智能系统应如何开发、部署和监控的正式框架。这些文档构成了组织内部对AI伦理、安全性和合规性的基本约束。

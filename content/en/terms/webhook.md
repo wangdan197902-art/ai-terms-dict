@@ -1,23 +1,24 @@
 ---
-title: "Webhook"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Webhook
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /en/terms/webhook/
-date: "2026-07-18T10:19:55.510021Z"
-lastmod: "2026-07-18T11:44:44.732883Z"
+slug: webhook
+date: '2026-07-18T10:19:55.510021Z'
+lastmod: '2026-07-18T11:44:44.732883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A user-defined HTTP callback triggered by specific events, allowing systems to push real-time notifications to other applications."
+source: agnes_llm
+status: published
+language: en
+description: A user-defined HTTP callback triggered by specific events, allowing systems
+  to push real-time notifications to other applications.
 ---
-
 ## Definition
 
 A webhook is a mechanism for one service to provide real-time information to another service when an event occurs. Instead of polling for changes, the source system sends an HTTP POST request to a specified URL with payload data describing the event. This approach reduces server load and ensures immediate reaction to events, making it essential for integrating disparate software systems, automating workflows, and synchronizing data across platforms like GitHub, Stripe, or Slack.

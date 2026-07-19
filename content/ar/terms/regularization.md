@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /ar/terms/regularization/
 date: "2026-07-18T16:19:09.235938Z"
 lastmod: "2026-07-18T17:15:08.543803Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة من التقنيات المستخدمة أثناء التدريب لمنع الإفراط في التخصيص (Overfitting) من خلال إضافة عقوبات لدالة الخسارة أو تقييد تعقيد النموذج."
 ---
-
 ## Definition
 
 التنظيم مفهوم حاسم في تعلم الآلة مصمم لتقليل خطأ التعميم دون زيادة كبيرة في خطأ التدريب. يعمل عن طريق تثبيط النماذج من تعلم الأنماط المعقدة جداً أو الضوضاء في بيانات التدريب.

@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /hu/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:11:51.462901Z"
 lastmod: "2026-07-18T17:15:09.810394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy gépi tanuláson alapuló matematikai függvény, amely megjósolja az atomok közötti erőket és energiákat, és drága kvantummechanikai számítások helyettesítőjeként szolgál."
 ---
-
 ## Definition
 
 Ezek a potenciálok molekuladinamikai szimulációkat tesznek lehetővé közel kvantum-pontossággal, de klasszikus számítási sebességgel. A sűrűségfunkcionál-elméletből (DFT) származó nagy hűségű adatokon történő betanítás révén lehetővé teszik a hatékonyabb anyagvizsgálatot.

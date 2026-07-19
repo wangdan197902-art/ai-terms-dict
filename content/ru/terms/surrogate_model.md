@@ -1,23 +1,24 @@
 ---
-title: "Суррогатная модель"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Суррогатная модель
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /ru/terms/surrogate_model/
-date: "2026-07-18T16:17:22.513630Z"
-lastmod: "2026-07-18T16:38:07.206499Z"
+slug: surrogate_model
+date: '2026-07-18T16:17:22.513630Z'
+lastmod: '2026-07-18T16:38:07.206499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Упрощенная математическая модель, используемая для аппроксимации поведения более сложной, вычислительно затратной или недоступной модели-черного ящика."
+source: agnes_llm
+status: published
+language: ru
+description: Упрощенная математическая модель, используемая для аппроксимации поведения
+  более сложной, вычислительно затратной или недоступной модели-черного ящика.
 ---
-
 ## Definition
 
 В машинном обучении и оптимизации суррогатная модель служит прокси-функцией для целевой функции, которую трудно оценивать напрямую. Она обучается на парах входных и выходных данных исходной модели для п

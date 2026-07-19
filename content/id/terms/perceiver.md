@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /id/terms/perceiver/
 date: "2026-07-18T16:03:40.824284Z"
 lastmod: "2026-07-18T16:38:07.493089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem atau modul yang bertanggung jawab untuk menerima dan menginterpretasikan input sensorik dari lingkungan."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan dan ilmu kognitif, persepsi merujuk pada komponen sistem cerdas yang memproses data sensorik mentah menjadi informasi yang bermakna. Berbeda dengan sensor sederhana yang hanya mendeteksi sinyal, persepsi melibatkan interpretasi data tersebut.

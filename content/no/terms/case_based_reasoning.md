@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /no/terms/case_based_reasoning/
 date: "2026-07-18T15:45:45.196450Z"
 lastmod: "2026-07-18T16:38:06.978543Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Tilfellesbasert resonnement (CBR) er en AI-løsningstilnærming som bruker tidligere erfaringer eller lignende tilfeller for å finne løsninger på nye problemer."
 ---
-
 ## Definition
 
 CBR opererer på prinsippet om at lignende problemer har lignende løsninger. Prosessen involverer å hente ut det mest historisk like tilfellet fra en kunnskapsbase, tilpasse dets løsning til den nåværende situasjonen, evaluere resultatet og lagre den nye løsningen for fremtidig bruk.

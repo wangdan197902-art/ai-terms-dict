@@ -1,23 +1,24 @@
 ---
-title: "Computersyn"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Computersyn
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /da/terms/vision/
-date: "2026-07-18T15:38:26.432193Z"
-lastmod: "2026-07-18T17:15:09.251789Z"
+slug: vision
+date: '2026-07-18T15:38:26.432193Z'
+lastmod: '2026-07-18T17:15:09.251789Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Computersyn er det område af AI, der fokuserer på at gøre computere i stand til at fortolke og forstå visuelle oplysninger fra verden."
+source: agnes_llm
+status: published
+language: da
+description: Computersyn er det område af AI, der fokuserer på at gøre computere i
+  stand til at fortolke og forstå visuelle oplysninger fra verden.
 ---
-
 ## Definition
 
 Computersyn (CV) er en gren af kunstig intelligens, der træner computere i at udlede meningsfuld information fra digitale billeder, videoer og andre visuelle input. Det involverer udviklingen af algoritmer

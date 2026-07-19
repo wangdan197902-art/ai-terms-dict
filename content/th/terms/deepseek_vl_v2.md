@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /th/terms/deepseek_vl_v2/
 date: "2026-07-18T15:49:47.156761Z"
 lastmod: "2026-07-18T16:38:07.597833Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "DeepSeek VL V2 เป็นโมเดลภาษาและภาพ (Vision-Language Model) ที่ออกแบบมาเพื่อประมวลผลและเข้าใจทั้งอินพุตภาพและคำถามข้อความด้วยความแม่นยำและประสิทธิภาพสูง"
 ---
-
 ## Definition
 
 DeepSeek VL V2 ขยายขีดความสามารถของโมเดลภาษาทั่วไปเข้าสู่โดเมนหลายรูปแบบ (Multimodal) ทำให้สามารถตีความรูปภาพควบคู่ไปกับข้อความได้ โดยใช้ตัวเข้ารหัสภาพ (Vision Encoder) ที่เชื่อมต่อกับโมเดลภาษาขนาดใหญ่

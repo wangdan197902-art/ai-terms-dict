@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /hu/terms/nso/
 date: "2026-07-18T16:15:16.708935Z"
 lastmod: "2026-07-18T17:15:09.818588Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI kontextusában az NSO gyakran a Neurális Szimbolikus Optimalizálást vagy az NSO Groupot jelöli, egy felügyeleti technológiával foglalkozó szervezeti entitást."
 ---
-
 ## Definition
 
 Az NSO rövidítésnek több jelentése is lehet a kontextustól függően. A műszaki MI-kutatásban utalhat a Neurális Szimbolikus Optimalizálásra, amely a neurális hálózatokat szimbolikus logikával ötvözi. Azonban gyakrabban az NSO Groupra...

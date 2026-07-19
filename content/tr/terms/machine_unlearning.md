@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /tr/terms/machine_unlearning/
 date: "2026-07-18T16:02:26.152764Z"
 lastmod: "2026-07-18T16:38:07.331694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine unutulması, bir modelin ham halinden yeniden eğitilmeden, belirli veri noktalarının veya bunların etkilerinin modelden çıkarılma sürecidir."
 ---
-
 ## Definition
 
 Bu teknik, modellerin genel bilgileri korurken belirli kullanıcı verilerini unutmasına izin vererek GDPR'ın 'unutulma hakkı' gibi gizlilik düzenlemelerine yanıt verir. Amaç, modeli sıfırdan yeniden eğitilmiş gibi performans göstermeye...

@@ -1,23 +1,24 @@
 ---
-title: "Prefiks-tuning"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Prefiks-tuning
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /no/terms/prefix_tuning/
-date: "2026-07-18T16:12:13.463828Z"
-lastmod: "2026-07-18T16:38:07.034743Z"
+slug: prefix_tuning
+date: '2026-07-18T16:12:13.463828Z'
+lastmod: '2026-07-18T16:38:07.034743Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En parameter-effektiv finjusteringsmetode som legger til trenbare kontinuerlige vektorer til inngangen til transformatorlag."
+source: agnes_llm
+status: published
+language: 'no'
+description: En parameter-effektiv finjusteringsmetode som legger til trenbare kontinuerlige
+  vektorer til inngangen til transformatorlag.
 ---
-
 ## Definition
 
 Prefiks-tuning er en parameter-effektiv tilpasningsteknikk for forhåndstrenede transformatorer. I stedet for å oppdatere alle modellvektene, legges det til en sekvens av trenbare kontinuerlige vektorer (prefikset) foran de faste input-embeddings eller tilstandene i hvert transformatorlag. Dette gjør det mulig å tilpasse modellen til nye oppgaver med svært få oppdaterbare parametre.

@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /el/terms/softmax/
-date: "2026-07-18T15:45:07.264131Z"
-lastmod: "2026-07-18T17:15:09.871140Z"
+slug: softmax
+date: '2026-07-18T15:45:07.264131Z'
+lastmod: '2026-07-18T17:15:09.871140Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μαθηματική συνάρτηση που μετατρέπει ένα διάνυσμα πραγματικών τιμών σε κατανομή πιθανότητας."
+source: agnes_llm
+status: published
+language: el
+description: Μια μαθηματική συνάρτηση που μετατρέπει ένα διάνυσμα πραγματικών τιμών
+  σε κατανομή πιθανότητας.
 ---
-
 ## Definition
 
 Η Softmax χρησιμοποιείται ευρέως στο στρώμα εξόδου των νευρωνικών δικτύων για εργασίες ταξινόμησης πολλαπλών κλάσεων. Λαμβάνει ένα διάνυσμα ωμών λογίθ και τα κανονικοποιεί έτσι ώστε κάθε στοιχείο να αντιπροσωπεύει μια πιθανότητα.

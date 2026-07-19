@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /fr/terms/reasoning_model/
 date: "2026-07-18T11:35:52.926537Z"
 lastmod: "2026-07-18T11:44:45.320463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un modèle d'IA spécifiquement optimisé pour effectuer des déductions logiques complexes, la résolution de problèmes étape par étape et le traitement en chaîne de pensée."
 ---
-
 ## Definition
 
 Contrairement aux modèles génératifs standards axés sur la fluidité, les modèles de raisonnement privilégient la précision dans les tâches multi-étapes telles que les mathématiques, la programmation et les énigmes logiques. Ils emploient souvent des techniques comme le Chain-of-Thought (CoT) pour structurer leur processus de décision.

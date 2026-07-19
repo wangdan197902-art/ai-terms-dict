@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /tr/terms/feedback_neural_network/
 date: "2026-07-18T15:53:45.749066Z"
 lastmod: "2026-07-18T16:38:07.309498Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bağlantıların yönlü döngüler oluşturduğu ve bilginin zaman içinde kalıcı olmasını sağlayan bir sinir ağı mimarisi."
 ---
-
 ## Definition
 
 Geri beslemeli sinir ağları, tekrarlayan sinir ağları (RNN) olarak da bilinir ve sinyallerin önceki katmanlara geri yayılmasına olanak tanıyan döngüler içerir. Bu tekrar, ağın bir iç durumu korumasını sağlar.

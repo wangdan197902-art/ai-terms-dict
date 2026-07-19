@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /zh/terms/datasetnatural_questions/
 date: "2026-07-18T11:13:13.957500Z"
 lastmod: "2026-07-18T11:44:45.479475Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个用于开放域问答的大规模数据集，包含来自 Google 搜索的真实用户查询，并配以标注好的维基百科段落作为答案。"
 ---
-
 ## Definition
 
 Natural Questions (NQ) 是由 Google 推出的基准数据集，旨在推动开放域问答研究的发展。它将 Google 的真实匿名搜索查询映射到长篇幅的答案上。

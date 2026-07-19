@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /vi/terms/large_language_models/
 date: "2026-07-18T15:26:37.915756Z"
 lastmod: "2026-07-18T16:38:07.688507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phương pháp luận sử dụng các mạng nơ-ron có quy mô lớn cho các tác vụ hiểu và tạo ngôn ngữ tự nhiên đa năng."
 ---
-
 ## Definition
 
 Thuật ngữ này đề cập đến phương pháp ứng dụng rộng rãi hơn, nơi các mô hình với hàng tỷ tham số được tận dụng cho việc học zero-shot hoặc few-shot qua nhiều nhiệm vụ ngôn ngữ đa dạng. Khác với các mô hình chuyên biệt

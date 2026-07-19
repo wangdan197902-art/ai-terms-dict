@@ -1,23 +1,23 @@
 ---
-title: "生成"
-term_id: "generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "nlp", "multimodal"]
+title: 生成
+term_id: generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- NLP
+- multimodal
 difficulty: 3
 weight: 1
-slug: "generation"
-aliases:
-  - /ja/terms/generation/
-date: "2026-07-18T10:51:26.859501Z"
-lastmod: "2026-07-18T11:44:45.009830Z"
+slug: generation
+date: '2026-07-18T10:51:26.859501Z'
+lastmod: '2026-07-18T11:44:45.009830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "生成モデルが、学習分布に類似した新しいデータインスタンスを作成するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 生成モデルが、学習分布に類似した新しいデータインスタンスを作成するプロセス。
 ---
-
 ## Definition
 
 人工知能において、生成とは、特に生成敵対ネットワーク（GAN）やトランスフォーマーベースの大規模言語モデル（LLM）などのモデルが、テキストや画像などの新規コンテンツを生成する能力を指します。

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Pipeline Stable Video Diffusion"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Pipeline Stable Video Diffusion'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /cs/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:54:48.492468Z"
-lastmod: "2026-07-18T17:15:09.123487Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:54:48.492468Z'
+lastmod: '2026-07-18T17:15:09.123487Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Obal pro pipeline v knihovně Hugging Face Diffusers využívající model Stable Video Diffusion k generování videí ze statických obrázků."
+source: agnes_llm
+status: published
+language: cs
+description: Obal pro pipeline v knihovně Hugging Face Diffusers využívající model
+  Stable Video Diffusion k generování videí ze statických obrázků.
 ---
-
 ## Definition
 
 Tento termín označuje konkrétní implementaci v rámci knihovny Hugging Face Diffusers určenou pro generování videí. Integruje model Stable Video Diffusion (SVD), který je difuzním modelem v latentním prostoru videa.

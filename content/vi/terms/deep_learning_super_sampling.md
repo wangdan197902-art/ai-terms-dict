@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /vi/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:48:42.188906Z"
 lastmod: "2026-07-18T16:38:07.747559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật sử dụng AI để nâng cấp hình ảnh có độ phân giải thấp lên độ phân giải cao hơn với chi tiết được tăng cường và giảm lỗi."
 ---
-
 ## Definition
 
 Siêu lấy mẫu bằng Học sâu (DLSS) là một công nghệ tận dụng mạng nơ-ron để tái tạo hình ảnh độ phân giải cao từ các đầu vào độ phân giải thấp. Bằng cách phân tích dữ liệu theo thời gian và thông tin không gian, DLSS có thể tạo ra hình ảnh sắc nét hơn mà vẫn duy trì hiệu suất khung hình cao.

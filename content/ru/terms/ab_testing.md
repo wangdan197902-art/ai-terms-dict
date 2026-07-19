@@ -1,23 +1,24 @@
 ---
-title: "A/B-тестирование"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/B-тестирование
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /ru/terms/ab_testing/
-date: "2026-07-18T15:37:27.596060Z"
-lastmod: "2026-07-18T16:38:07.112554Z"
+slug: ab_testing
+date: '2026-07-18T15:37:27.596060Z'
+lastmod: '2026-07-18T16:38:07.112554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Статистический метод сравнения двух версий переменной для определения той, которая демонстрирует лучшие результаты."
+source: agnes_llm
+status: published
+language: ru
+description: Статистический метод сравнения двух версий переменной для определения
+  той, которая демонстрирует лучшие результаты.
 ---
-
 ## Definition
 
 A/B-тестирование — это рандомизированное контролируемое экспериментальное исследование, в котором сравниваются две версии (варианты A и B) для оценки того, какой из них дает лучшие результаты по определенному показателю. В инженерии искусственного интеллекта этот метод критически важен для оптимизации моделей и пользовательского опыта.

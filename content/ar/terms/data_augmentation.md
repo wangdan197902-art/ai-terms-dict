@@ -1,23 +1,24 @@
 ---
-title: "زيادة البيانات"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: زيادة البيانات
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /ar/terms/data_augmentation/
-date: "2026-07-18T15:51:00.500540Z"
-lastmod: "2026-07-18T17:15:08.489584Z"
+slug: data_augmentation
+date: '2026-07-18T15:51:00.500540Z'
+lastmod: '2026-07-18T17:15:08.489584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "زيادة البيانات هي تقنية تُستخدم لزيادة تنوع وحجم مجموعات بيانات التدريب من خلال تطبيق تحويلات على نقاط البيانات الموجودة."
+source: agnes_llm
+status: published
+language: ar
+description: زيادة البيانات هي تقنية تُستخدم لزيادة تنوع وحجم مجموعات بيانات التدريب
+  من خلال تطبيق تحويلات على نقاط البيانات الموجودة.
 ---
-
 ## Definition
 
 تقوم هذه الطريقة بتوسيع مجموعة بيانات التدريب اصطناعياً عن طريق إنشاء نسخ معدلة من العينات الموجودة، مثل تدوير الصور، أو إضافة ضوضاء إلى الصوت، أو استبدال المرادفات في النصوص. يساعد ذلك في منع الإفراط في التخصيص (Overfitting).

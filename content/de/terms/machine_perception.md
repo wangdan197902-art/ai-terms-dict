@@ -1,23 +1,25 @@
 ---
-title: "Maschinenwahrnehmung"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Maschinenwahrnehmung
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /de/terms/machine_perception/
-date: "2026-07-18T11:23:02.061648Z"
-lastmod: "2026-07-18T11:44:44.962469Z"
+slug: machine_perception
+date: '2026-07-18T11:23:02.061648Z'
+lastmod: '2026-07-18T11:44:44.962469Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Maschinenwahrnehmung bezeichnet die Fähigkeit künstlicher Intelligenz-Systeme, sensorische Daten aus der Umgebung, wie Bilder, Audio oder Sensorwerte, zu interpretieren und zu verstehen."
+source: agnes_llm
+status: published
+language: de
+description: Maschinenwahrnehmung bezeichnet die Fähigkeit künstlicher Intelligenz-Systeme,
+  sensorische Daten aus der Umgebung, wie Bilder, Audio oder Sensorwerte, zu interpretieren
+  und zu verstehen.
 ---
-
 ## Definition
 
 Sie überbrückt die Lücke zwischen rohen Sensoreingaben und einer bedeutungsvollen semantischen Verständnis, indem sie menschliche Sinne wie Sehen und Hören nachahmt. Zu den Schlüsseltechnologien gehören Computer Vision zur Objekterkennung, Spracherken...

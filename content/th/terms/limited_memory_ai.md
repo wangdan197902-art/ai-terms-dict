@@ -1,23 +1,24 @@
 ---
-title: "ปัญญาประดิษฐ์หน่วยความจำจำกัด"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: ปัญญาประดิษฐ์หน่วยความจำจำกัด
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /th/terms/limited_memory_ai/
-date: "2026-07-18T16:02:29.260473Z"
-lastmod: "2026-07-18T16:38:07.626123Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:02:29.260473Z'
+lastmod: '2026-07-18T16:38:07.626123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบ AI ที่สามารถจัดเก็บข้อมูลและประสบการณ์ในอดีตเพื่อนำไปแจ้งการตัดสินใจในอนาคต ซึ่งเป็นพื้นฐานของแอปพลิเคชันการเรียนรู้ของเครื่องสมัยใหม่มากมาย"
+source: agnes_llm
+status: published
+language: th
+description: ระบบ AI ที่สามารถจัดเก็บข้อมูลและประสบการณ์ในอดีตเพื่อนำไปแจ้งการตัดสินใจในอนาคต
+  ซึ่งเป็นพื้นฐานของแอปพลิเคชันการเรียนรู้ของเครื่องสมัยใหม่มากมาย
 ---
-
 ## Definition
 
 ปัญญาประดิษฐ์หน่วยความจำจำกัดแสดงถึงระดับความสามารถของ AI ขั้นที่สอง ซึ่งระบบสามารถเรียนรู้จากข้อมูลในอดีตและปรับพฤติกรรมตามนั้น ต่างจากเครื่องตอบสนอง ระบบเหล่านี้เก็บรักษาข้อมูล

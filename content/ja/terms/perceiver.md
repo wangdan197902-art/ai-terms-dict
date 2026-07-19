@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /ja/terms/perceiver/
 date: "2026-07-18T11:27:03.543773Z"
 lastmod: "2026-07-18T11:44:45.130955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "環境からの感覚入力を受信し、解釈する責任を持つシステムまたはモジュール。"
 ---
-
 ## Definition
 
 AIおよび認知科学において、知覚系とは、生rawな感覚データを意味のある情報に変換する知的システムのコンポーネントを指します。単に信号を検出する単純なセンサーとは異なり、知覚系は

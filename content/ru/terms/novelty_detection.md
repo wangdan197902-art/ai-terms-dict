@@ -1,23 +1,24 @@
 ---
-title: "Обнаружение новизны"
-term_id: "novelty_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["unsupervised", "security", "quality-control"]
+title: Обнаружение новизны
+term_id: novelty_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- unsupervised
+- security
+- Quality Control
 difficulty: 3
 weight: 1
-slug: "novelty_detection"
-aliases:
-  - /ru/terms/novelty_detection/
-date: "2026-07-18T16:08:27.586463Z"
-lastmod: "2026-07-18T16:38:07.186889Z"
+slug: novelty_detection
+date: '2026-07-18T16:08:27.586463Z'
+lastmod: '2026-07-18T16:38:07.186889Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод обучения без учителя, используемый для выявления новых или неизвестных паттернов, значительно отличающихся от установленных обучающих данных."
+source: agnes_llm
+status: published
+language: ru
+description: Метод обучения без учителя, используемый для выявления новых или неизвестных
+  паттернов, значительно отличающихся от установленных обучающих данных.
 ---
-
 ## Definition
 
 Обнаружение новизны — это задача машинного обучения, направленная на выявление точек данных, которые не соответствуют ожидаемому поведению или известным классам. Обычно она работает в режиме обучения без учителя, изучая распределение нормальных данных и отмечая как выбросы наблюдения, существенно отклоняющиеся от этой нормы.

@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /ja/terms/given/
 date: "2026-07-18T10:51:26.859514Z"
 lastmod: "2026-07-18T11:44:45.009960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "アルゴリズムプロセスへの入力として提供される、既存のデータ、制約、または文脈を示す用語。"
 ---
-
 ## Definition
 
 AIおよびコンピュータサイエンスの文脈において、「given（与えられた）」は、計算が始まる前にモデルや関数に供給される初期状態、データセット、またはパラメータを指します。これは計算の境界条件を設定します。

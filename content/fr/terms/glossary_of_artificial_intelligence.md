@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /fr/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T11:19:02.188190Z"
 lastmod: "2026-07-18T11:44:45.259783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un glossaire de l'intelligence artificielle est une liste curatée de définitions des termes utilisés dans la recherche et le développement de l'IA."
 ---
-
 ## Definition
 
 Un Glossaire de l'Intelligence Artificielle sert de document de référence définissant la terminologie spécialisée, les acronymes et les concepts du domaine. Il aide les chercheurs, les développeurs et les étudiants à comprendre

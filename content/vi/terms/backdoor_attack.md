@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /vi/terms/backdoor_attack/
 date: "2026-07-18T16:18:05.430477Z"
 lastmod: "2026-07-18T16:38:07.818649Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mối đe dọa bảo mật nơi các tác nhân độc hại nhúng các kích hoạt ẩn vào mô hình AI trong quá trình huấn luyện để gây ra lỗi phân loại cụ thể."
 ---
-
 ## Definition
 
 Một cuộc tấn công backdoor liên quan đến việc đầu độc dữ liệu huấn luyện của mô hình học máy với các mẫu cụ thể, được gọi là kích hoạt. Trong khi mô hình hoạt động bình thường trên dữ liệu sạch, nó sẽ kích hoạt hành vi sai lệch khi gặp các kích hoạt này.

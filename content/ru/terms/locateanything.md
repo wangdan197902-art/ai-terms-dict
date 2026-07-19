@@ -1,23 +1,25 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /ru/terms/locateanything/
-date: "2026-07-18T16:02:24.724041Z"
-lastmod: "2026-07-18T16:38:07.176582Z"
+slug: locateanything
+date: '2026-07-18T16:02:24.724041Z'
+lastmod: '2026-07-18T16:38:07.176582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фреймворк с открытым исходным кодом, предназначенный для локализации и сегментации объектов в режиме zero-shot в различных визуальных доменах без специфичного для задачи обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Фреймворк с открытым исходным кодом, предназначенный для локализации
+  и сегментации объектов в режиме zero-shot в различных визуальных доменах без специфичного
+  для задачи обучения.
 ---
-
 ## Definition
 
 LocateAnything — это универсальная система компьютерного зрения, позволяющая обнаруживать и сегментировать объекты на изображениях на основе текстовых запросов или общих априорных знаний. Она использует предварительно обученные фундаментальные модели для обобщения знаний на новые классы объектов без необходимости дообучения на новых данных.

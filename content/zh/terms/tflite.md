@@ -1,23 +1,23 @@
 ---
-title: "TensorFlow Lite"
-term_id: "tflite"
-category: "basic_concepts"
-subcategory: ""
-tags: ["framework", "mobile", "optimization"]
+title: TensorFlow Lite
+term_id: tflite
+category: basic_concepts
+subcategory: ''
+tags:
+- framework
+- mobile
+- Optimization
 difficulty: 3
 weight: 1
-slug: "tflite"
-aliases:
-  - /zh/terms/tflite/
-date: "2026-07-18T11:36:20.483376Z"
-lastmod: "2026-07-18T11:44:45.563083Z"
+slug: tflite
+date: '2026-07-18T11:36:20.483376Z'
+lastmod: '2026-07-18T11:44:45.563083Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "TensorFlow Lite（TFLite）是一套使机器学习模型能够在移动设备、嵌入式设备和边缘设备上运行的工具集。"
+source: agnes_llm
+status: published
+language: zh
+description: TensorFlow Lite（TFLite）是一套使机器学习模型能够在移动设备、嵌入式设备和边缘设备上运行的工具集。
 ---
-
 ## Definition
 
 TensorFlow Lite 是一个开源框架，旨在将机器学习模型部署到智能手机、微控制器和物联网设备等资源受限的设备上。它通过优化模型推理过程来实现这一目标。

@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /id/terms/low_cost/
 date: "2026-07-18T15:31:58.270555Z"
 lastmod: "2026-07-18T16:38:07.408985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menyatakan solusi AI yang meminimalkan pengeluaran komputasi, finansial, atau energi sambil mempertahankan fungsionalitas."
 ---
-
 ## Definition
 
 AI biaya rendah berfokus pada efisiensi, bertujuan untuk mengurangi hambatan masuk dan biaya operasional yang terkait dengan pembelajaran mesin. Ini termasuk teknik seperti kompresi model, kuantisasi, dan...

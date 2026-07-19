@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /nl/terms/cognitive_robotics/
 date: "2026-07-18T15:46:32.993598Z"
 lastmod: "2026-07-18T17:15:08.726208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Cognitieve robotica is een vakgebied gericht op het creëren van robots met mensachtige cognitieve vaardigheden, zoals waarneming, redeneren en leren."
 ---
-
 ## Definition
 
 Cognitieve robotica integreert cognitieve wetenschap met robotica om machines te bouwen die hun omgeving kunnen waarnemen, uit ervaring kunnen leren en autonome beslissingen kunnen nemen. Deze robots gebruiken geavanceerde algoritmen voor besluitvorming.

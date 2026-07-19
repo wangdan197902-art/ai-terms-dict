@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /sv/terms/robots/
 date: "2026-07-18T15:30:34.293193Z"
 lastmod: "2026-07-18T17:15:08.950619Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Pluralform som syftar på flera programmerbara maskiner utformade för att utföra uppgifter autonomt."
 ---
-
 ## Definition
 
 Robotar omfattar en mångfald av maskinklasser som kan klassificeras efter deras rörlighet, struktur eller tillämpningsområde. Denna kategori inkluderar industriella manipulatorarmar, autonoma mobila robotar (AMR), drönare och andra specialiserade system.

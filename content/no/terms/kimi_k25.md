@@ -7,8 +7,6 @@ tags: ["LLM", "Versioning", "Performance"]
 difficulty: 2
 weight: 1
 slug: "kimi_k25"
-aliases:
-  - /no/terms/kimi_k25/
 date: "2026-07-18T16:01:19.026438Z"
 lastmod: "2026-07-18T16:38:07.015729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kimi K25 er en etterfølgende variant av en stor språkmodell fra Moonshot AI, med videre forbedringer i ytelse og effektivitet sammenlignet med tidligere versjoner."
 ---
-
 ## Definition
 
 Kimi K25 er en avansert iterasjon innen Kimi-familien av modeller produsert av Moonshot AI. Den bygger på grunnlaget til tidligere versjoner som Kimi K2, og tilbyr forbedringer i inferenstakt og

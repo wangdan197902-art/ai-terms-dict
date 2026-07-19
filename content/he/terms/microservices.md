@@ -7,8 +7,6 @@ tags: ["architecture", "scalability", "deployment"]
 difficulty: 2
 weight: 1
 slug: "microservices"
-aliases:
-  - /he/terms/microservices/
 date: "2026-07-18T16:12:24.483967Z"
 lastmod: "2026-07-18T17:15:09.564017Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מיקרו-שירותים הם סגנון ארכיטקטורה המבנה יישום כקבוצה של שירותים רופפים, הניתנים להטמעה עצמאית, המאורגנים סביב יכולות עסקיות."
 ---
-
 ## Definition
 
 בהקשר של הנדסת בינה מלאכותית, מיקרו-שירותים מאפשרים לפתח, להרחיב ולתחזק כל רכיב בנפרד בתוך זרימת העבודה של ה-AI, כגון עיבוד מקדים של נתונים, מסקנות מודל ואחסון תוצאות.

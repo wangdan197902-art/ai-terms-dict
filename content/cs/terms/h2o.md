@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /cs/terms/h2o/
-date: "2026-07-18T16:00:47.425446Z"
-lastmod: "2026-07-18T17:15:09.137249Z"
+slug: h2o
+date: '2026-07-18T16:00:47.425446Z'
+lastmod: '2026-07-18T17:15:09.137249Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Open-sourceová distribuovaná platforma pro strojové učení podporující různé algoritmy pro prediktivní analýzu a hluboké učení."
+source: agnes_llm
+status: published
+language: cs
+description: Open-sourceová distribuovaná platforma pro strojové učení podporující
+  různé algoritmy pro prediktivní analýzu a hluboké učení.
 ---
-
 ## Definition
 
 H2O je široce používaná open-sourceová platforma pracující v operační paměti pro distribuované, škálovatelné strojové učení a prediktivní analýzy. Původně vyvinutá dvěma absolventy Harvardovy univerzity, poskytuje jednotný rámec pro automatizaci výběru modelů a jejich nasazení.

@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /no/terms/socially_assistive_robot/
 date: "2026-07-18T16:16:18.378567Z"
 lastmod: "2026-07-18T16:38:07.047599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En robot designet for å samhandle med mennesker for å forbedre deres fysiske eller psykiske velvære uten å utføre fysiske oppgaver."
 ---
-
 ## Definition
 
 Sosialt assistive roboter (SARs) er en delmengde av menneske-robot-samhandling som fokuserer på å gi hjelp gjennom sosiale midler fremfor fysisk manipulering. De bruker ikke-kontaktstrategier som...

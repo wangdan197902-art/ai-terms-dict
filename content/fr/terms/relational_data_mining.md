@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /fr/terms/relational_data_mining/
 date: "2026-07-18T11:36:07.251232Z"
 lastmod: "2026-07-18T11:44:45.322514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus de découverte de motifs et de connaissances à partir de données composées de plusieurs tables ou entités interdépendantes."
 ---
-
 ## Definition
 
 La fouille de données relationnelles se concentre sur l'extraction d'informations utiles à partir de bases de données où les données sont organisées en plusieurs tables liées, plutôt qu'en une seule table plate. Elle exploite les relations entre ces différentes entités.

@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /id/terms/specifically/
 date: "2026-07-18T15:29:49.319309Z"
 lastmod: "2026-07-18T16:38:07.403199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mengacu pada detail yang presisi, berbeda, atau tertentu dalam konteks yang lebih luas."
 ---
-
 ## Definition
 
 Dalam terminologi AI, 'secara khusus' menunjukkan presisi dalam mendefinisikan model, titik data, atau operasi. Hal ini membedakan parameter tepat dari kategori umum, memastikan kejelasan dalam dokumentasi teknis.

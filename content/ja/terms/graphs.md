@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /ja/terms/graphs/
 date: "2026-07-18T10:51:26.859528Z"
 lastmod: "2026-07-18T11:44:45.010341Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "複数のグラフ構造、または機械学習におけるデータの傾向を視覚化したものを指す複数形。"
 ---
-
 ## Definition
 
 単数の「graph」が抽象的なデータ構造を指すのに対し、「graphs」は複数の個別のグラフインスタンス、またはMLモニタリングで使用される視覚的なプロットを指すことが一般的です。可視化においては、折れ線グラフや棒グラフなどが含まれます。

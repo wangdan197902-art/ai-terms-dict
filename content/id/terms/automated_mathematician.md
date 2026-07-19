@@ -1,23 +1,24 @@
 ---
-title: "Matematikawan Otomatis"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Matematikawan Otomatis
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /id/terms/automated_mathematician/
-date: "2026-07-18T15:39:57.712198Z"
-lastmod: "2026-07-18T16:38:07.430537Z"
+slug: automated_mathematician
+date: '2026-07-18T15:39:57.712198Z'
+lastmod: '2026-07-18T16:38:07.430537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sistem AI yang dirancang untuk menemukan teorema, konjektur, atau bukti matematika baru melalui pencarian komputasi dan penalaran."
+source: agnes_llm
+status: published
+language: id
+description: Sistem AI yang dirancang untuk menemukan teorema, konjektur, atau bukti
+  matematika baru melalui pencarian komputasi dan penalaran.
 ---
-
 ## Definition
 
 Matematikawan Otomatis memanfaatkan pembelajaran mesin dan penalaran simbolik untuk menjelajahi ruang matematika di luar intuisi manusia. Sistem-sistem ini dapat menghasilkan hipotesis, memverifikasi bukti, dan menemukan pola.

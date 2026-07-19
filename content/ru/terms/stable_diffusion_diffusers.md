@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /ru/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:16:52.436361Z"
 lastmod: "2026-07-18T16:38:07.205228Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Библиотека Hugging Face, предоставляющая стандартизированные конвейеры для запуска и тонкой настройки моделей Stable Diffusion."
 ---
-
 ## Definition
 
 Библиотека Diffusers — это набор инструментов с открытым исходным кодом от Hugging Face, разработанный для упрощения использования предварительно обученных диффузионных моделей, в частности Stable Diffusion. Она предлагает модульные конвейеры, которые обрабатывают этапы инференса и обучения, абстрагируя сложную математику диффузионных процессов и позволяя разработчикам легко интегрировать эти модели в свои приложения.

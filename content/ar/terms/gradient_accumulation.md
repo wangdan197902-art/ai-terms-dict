@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /ar/terms/gradient_accumulation/
 date: "2026-07-18T16:00:04.958432Z"
 lastmod: "2026-07-18T17:15:08.509548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تراكم التدرجات هو تقنية تحاكي أحجام دفعات (batch sizes) أكبر عن طريق جمع التدرجات عبر عدة عمليات تمرير أمامي وعكسي قبل تحديث الأوزان."
 ---
-
 ## Definition
 
 تسمح هذه الاستراتيجية التحسينية بتدريب نماذج التعلم العميق بأحجام دفعات فعالة أكبر مما تتسع له ذاكرة وحدة معالجة الرسومات (GPU). من خلال تراكم التدرجات من عدة مجموعات صغيرة (mini-batches) وإجراء التحديث بعد ذلك.

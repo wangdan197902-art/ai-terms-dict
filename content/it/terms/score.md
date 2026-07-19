@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /it/terms/score/
 date: "2026-07-18T15:29:11.409874Z"
 lastmod: "2026-07-18T17:15:08.574212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un punteggio è un valore numerico che rappresenta la qualità, la confidenza o l'idoneità della previsione o della soluzione di un modello."
 ---
-
 ## Definition
 
 I punteggi quantificano quanto bene un modello di apprendimento automatico performa rispetto a metriche specifiche come accuratezza, precisione o ricompensa. Nell'apprendimento per rinforzo, i punteggi indicano le ricompense cumulative, mentre nelle clas

@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /de/terms/real_time/
 date: "2026-07-18T10:56:51.846954Z"
 lastmod: "2026-07-18T11:44:44.891318Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Echtzeitverarbeitung bezeichnet Systeme, die Ergebnisse innerhalb strikter, garantierter Zeitgrenzen unmittelbar nach Eingang der Eingabedaten berechnen und ausliefern."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz bezeichnet Echtzeit die Fähigkeit eines Systems, Eingaben mit minimaler Latenz zu verarbeiten und Ausgaben zu generieren, oft innerhalb von Millisekunden. Dies ist entscheidend für Anwendungen, bei denen Verzögerungen zu Systemversagen oder Sicherheitsrisiken führen können, wie etwa bei autonomen Fahrzeugen oder Hochfrequenzhandel.

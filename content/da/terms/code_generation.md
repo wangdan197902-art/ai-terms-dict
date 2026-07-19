@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /da/terms/code_generation/
 date: "2026-07-18T15:22:45.366135Z"
 lastmod: "2026-07-18T17:15:09.217625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at bruge kunstig intelligens til automatisk at oprette kildekode fra beskrivelser på naturligt sprog eller eksisterende kodeudsnit."
 ---
-
 ## Definition
 
 Kodegenerering udnytter store sprogmodeller, der er trænet på enorme repositorys af programmeringssprog, til at producere funktionelle softwareartefakter. Den fortolker menneskeligt læsbare prompts, såsom kommentarer eller beskrivelser, og omdanner dem til kørbare kodesætninger.

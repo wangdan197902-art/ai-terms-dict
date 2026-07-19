@@ -1,23 +1,24 @@
 ---
-title: "Znalostní báze"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Znalostní báze
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /cs/terms/knowledge_base/
-date: "2026-07-18T15:36:06.959627Z"
-lastmod: "2026-07-18T17:15:09.090384Z"
+slug: knowledge_base
+date: '2026-07-18T15:36:06.959627Z'
+lastmod: '2026-07-18T17:15:09.090384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Centralizované úložiště strukturovaných informací používané k podpoře rozhodování a generování s rozšířeným vyhledáváním (RAG) v aplikacích umělé inteligence."
+source: agnes_llm
+status: published
+language: cs
+description: Centralizované úložiště strukturovaných informací používané k podpoře
+  rozhodování a generování s rozšířeným vyhledáváním (RAG) v aplikacích umělé inteligence.
 ---
-
 ## Definition
 
 Znalostní báze slouží jako digitální knihovna obsahující kurátorská data, dokumenty nebo fakta, která mohou systémy AI dotazovat pro poskytování přesných odpovědí citlivých na kontext. V moderních architekturách, jako je Retrieval-Augmented Generation (generování s rozšířeným vyhledáváním), umožňuje efektivní přístup k externím znalostem.

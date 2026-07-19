@@ -1,23 +1,24 @@
 ---
-title: "Rețea Neuronala Recurentă"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Rețea Neuronala Recurentă
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /ro/terms/recurrent_neural_network/
-date: "2026-07-18T15:37:49.357744Z"
-lastmod: "2026-07-18T17:15:09.618240Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:37:49.357744Z'
+lastmod: '2026-07-18T17:15:09.618240Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O RNN este o clasă de rețele neuronale artificiale în care conexiunile dintre noduri formează un graf dirijat de-a lungul unei secvențe temporale."
+source: agnes_llm
+status: published
+language: ro
+description: O RNN este o clasă de rețele neuronale artificiale în care conexiunile
+  dintre noduri formează un graf dirijat de-a lungul unei secvențe temporale.
 ---
-
 ## Definition
 
 RNN-urile sunt concepute pentru a recunoaște tipare în secvențe de date, cum ar fi textul, genomurile, scrisul de mână sau cuvintele rosite. Spre deosebire de rețelele feedforward, acestea au o memorie internă care captează informații despre istoricul intrărilor anterioare, permițând modelarea dependențelor temporale.

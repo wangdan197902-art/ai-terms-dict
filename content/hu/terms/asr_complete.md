@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /hu/terms/asr_complete/
 date: "2026-07-18T15:42:01.445386Z"
 lastmod: "2026-07-18T17:15:09.750507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az ASR-complete kifejezés egy olyan beszédfelismerő rendszerre utal, amely emberi szintű pontosságot ér el standardizált benchmark adatokon."
 ---
-
 ## Definition
 
 Az ASR-complete kifejezés azt jelzi, hogy egy Automatikus Beszédfelismerő (ASR) rendszer elérte azt a teljesítményszintet, amely összehasonlítható az emberi transzkribálóké specifikus, jól meghatározott feladatokon és adathalmazo

@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /hu/terms/dropout/
 date: "2026-07-18T15:37:49.779326Z"
 lastmod: "2026-07-18T17:15:09.740020Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Dropout egy regularizációs technika, amely a tanítás során véletlenszerűen kikapcsol neuroneket a túltanulás megelőzése érdekében."
 ---
-
 ## Definition
 
 Az ideghálózatokban a dropout megakadályozza a túltanulást azzal, hogy minden tanítási lépés során ideiglenesen eltávolít a neuronek egy véletlenszerű részhalmazát. Ez arra kényszeríti a hálózatot, hogy robusztus jellemzőket tanuljon meg, amelyek együttműködve hasznosak.

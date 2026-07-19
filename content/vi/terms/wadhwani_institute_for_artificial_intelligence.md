@@ -1,23 +1,25 @@
 ---
-title: "Viện Wadhwani về Trí tuệ Nhân tạo"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: Viện Wadhwani về Trí tuệ Nhân tạo
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /vi/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T16:16:00.808377Z"
-lastmod: "2026-07-18T16:38:07.816110Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T16:16:00.808377Z'
+lastmod: '2026-07-18T16:38:07.816110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Viện Wadhwani về Trí tuệ Nhân tạo là một tổ chức nghiên cứu tập trung vào việc áp dụng các giải pháp AI để giải quyết những thách thức quan trọng trong lĩnh vực y tế và nông nghiệp tại các nền kinh tế"
+source: agnes_llm
+status: published
+language: vi
+description: Viện Wadhwani về Trí tuệ Nhân tạo là một tổ chức nghiên cứu tập trung
+  vào việc áp dụng các giải pháp AI để giải quyết những thách thức quan trọng trong
+  lĩnh vực y tế và nông nghiệp tại các nền kinh tế
 ---
-
 ## Definition
 
 Được thành lập với khoản quyên góp đáng kể từ Quỹ Wadhwani, viện này tận dụng các công nghệ máy học tiên tiến và thị giác máy tính để giải quyết các vấn đề xã hội quy mô lớn. Các dự án chính của nó tập trung vào chẩn đoán y tế và công nghệ nông nghiệp.

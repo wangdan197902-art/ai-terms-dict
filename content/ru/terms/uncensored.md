@@ -1,23 +1,24 @@
 ---
-title: "Без цензуры"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Без цензуры
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /ru/terms/uncensored/
-date: "2026-07-18T16:19:42.509404Z"
-lastmod: "2026-07-18T16:38:07.211519Z"
+slug: uncensored
+date: '2026-07-18T16:19:42.509404Z'
+lastmod: '2026-07-18T16:38:07.211519Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к моделям ИИ, которые были модифицированы для обхода фильтров безопасности и этических норм."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к моделям ИИ, которые были модифицированы для обхода фильтров
+  безопасности и этических норм.
 ---
-
 ## Definition
 
 В контексте искусственного интеллекта термин «без цензуры» обычно описывает модели, прошедшие дообучение или модификацию для удаления или ослабления встроенных механизмов безопасности. Эти модели предназначены для...

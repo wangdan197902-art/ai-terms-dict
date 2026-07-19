@@ -1,23 +1,24 @@
 ---
-title: "Desen Tanıma"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Desen Tanıma
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /tr/terms/pattern_recognition/
-date: "2026-07-18T16:08:00.543972Z"
-lastmod: "2026-07-18T16:38:07.345853Z"
+slug: pattern_recognition
+date: '2026-07-18T16:08:00.543972Z'
+lastmod: '2026-07-18T16:38:07.345853Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Verilerdeki düzenlilikleri ve yapıları istatistiksel ve makine öğrenmesi yöntemlerini kullanarak otomatik olarak tanımlama süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Verilerdeki düzenlilikleri ve yapıları istatistiksel ve makine öğrenmesi
+  yöntemlerini kullanarak otomatik olarak tanımlama süreci.
 ---
-
 ## Definition
 
 Desen Tanıma, verilerdeki düzenlilikleri tanımlayla ilgilenen yapay zeka ve istatistiğin bir dalıdır. Özellik çıkarımı yoluyla girdi verilerini önceden tanımlanmış kategorilere sınıflandırmayı içerir. Bu süreç, insan algısının bazı yönlerini taklit ederek karmaşık veri setlerinden anlamlı bilgileri çıkarmayı hedefler.

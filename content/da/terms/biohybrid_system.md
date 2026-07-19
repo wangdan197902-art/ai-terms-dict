@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /da/terms/biohybrid_system/
 date: "2026-07-18T15:44:21.124979Z"
 lastmod: "2026-07-18T17:15:09.265942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et integreret system, der kombinerer biologiske komponenter med kunstige enheder for at forbedre funktionaliteten eller skabe nye evner."
 ---
-
 ## Definition
 
 Biohybride systemer forener levende væv, celler eller organismer med syntetiske materialer og elektroniske enheder. Disse systemer sigter mod at udnytte de unikke egenskaber ved biologiske enheder, såsom selvhelende evner og energioptimering, i teknologiske applikationer.

@@ -1,23 +1,24 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /he/terms/efficientnet/
-date: "2026-07-18T15:55:35.513097Z"
-lastmod: "2026-07-18T17:15:09.536311Z"
+slug: efficientnet
+date: '2026-07-18T15:55:35.513097Z'
+lastmod: '2026-07-18T17:15:09.536311Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "EfficientNet הוא משפחה של ארכיטקטורות רשתות נוירונים קונבולוציוניות המרחיבות עומק, רוחב ורזולוציה באופן אחיד כדי להשיג דיוק גבוה יותר עם פחות פרמטרים."
+source: agnes_llm
+status: published
+language: he
+description: EfficientNet הוא משפחה של ארכיטקטורות רשתות נוירונים קונבולוציוניות המרחיבות
+  עומק, רוחב ורזולוציה באופן אחיד כדי להשיג דיוק גבוה יותר עם פחות פרמטרים.
 ---
-
 ## Definition
 
 פותח על ידי גוגל, EfficientNet משתמש בשיטת סקאלה משולבת (Compound Scaling) לאיזון בין עומק הרשת, רוחבה ורזולוציית תמונת הקלט. גישה זו מאפשרת למודל להשיג דיוק מתקדם בעודו שומר על יעילות פרמטרית גבוהה.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /pl/terms/ai_data_center/
 date: "2026-07-18T15:38:02.987256Z"
 lastmod: "2026-07-18T17:15:08.839935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Specjalistyczna instalacja zaprojektowana do hostowania i obsługi wysokiej wydajności infrastruktury obliczeniowej dla obciążeń AI."
 ---
-
 ## Definition
 
 Centrum danych AI to fizyczna instalacja zoptymalizowana pod kątem uruchamiania aplikacji sztucznej inteligencji, szczególnie trenowania i wnioskowania w uczeniu głębokim. Centra te charakteryzują się wysoką gęstością szaf serwerowych z akceleratory GPU/TPU.

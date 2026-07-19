@@ -1,23 +1,24 @@
 ---
-title: "Detekce anomálií"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Detekce anomálií
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /cs/terms/anomaly_detection/
-date: "2026-07-18T15:41:28.714312Z"
-lastmod: "2026-07-18T17:15:09.101102Z"
+slug: anomaly_detection
+date: '2026-07-18T15:41:28.714312Z'
+lastmod: '2026-07-18T17:15:09.101102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces identifikace vzácných položek, událostí nebo pozorování, které se významně liší od většiny dat."
+source: agnes_llm
+status: published
+language: cs
+description: Proces identifikace vzácných položek, událostí nebo pozorování, které
+  se významně liší od většiny dat.
 ---
-
 ## Definition
 
 Detekce anomálií, také známá jako detekce odlehlých hodnot, zahrnuje analýzu dat za účelem nalezení vzorců, které neodpovídají očekávanému chování. Široce se používá v kybernetické bezpečnosti, detekci podvodů a správě systémů.

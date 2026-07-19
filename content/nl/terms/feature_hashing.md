@@ -1,23 +1,24 @@
 ---
-title: "Feature Hashing"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Feature Hashing
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /nl/terms/feature_hashing/
-date: "2026-07-18T15:55:19.994980Z"
-lastmod: "2026-07-18T17:15:08.744481Z"
+slug: feature_hashing
+date: '2026-07-18T15:55:19.994980Z'
+lastmod: '2026-07-18T17:15:08.744481Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek die hoge-dimensionale, spaarzame kenmerken naar een vector van vaste grootte mapt met behulp van een hashfunctie."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek die hoge-dimensionale, spaarzame kenmerken naar een vector
+  van vaste grootte mapt met behulp van een hashfunctie.
 ---
-
 ## Definition
 
 Feature hashing, ook wel de hashing-trick genoemd, stelt machine learning-modellen in staat om grote, spaarzame kenruimtes te verwerken zonder dat er een expliciete mapping tussen kenmerken en indices hoeft te worden bijgehouden. Door het toepassen van een hashfunctie kunnen kenmerken direct worden gemapt op een vaste set van indices, wat de geheugengebruik verlaagt en de schaalbaarheid verbetert.

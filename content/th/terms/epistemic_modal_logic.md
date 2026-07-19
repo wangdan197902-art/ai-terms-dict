@@ -1,23 +1,23 @@
 ---
-title: "ตรรกะมอดัลเชิงญาณวิทยา"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: ตรรกะมอดัลเชิงญาณวิทยา
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /th/terms/epistemic_modal_logic/
-date: "2026-07-18T15:52:12.324233Z"
-lastmod: "2026-07-18T16:38:07.603326Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:52:12.324233Z'
+lastmod: '2026-07-18T16:38:07.603326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาหนึ่งของตรรกะมอดัลที่ใช้ระบบรูปนัยเพื่อแสดงและให้เหตุผลเกี่ยวกับสถานะความรู้และความเชื่อของตัวแทน"
+source: agnes_llm
+status: published
+language: th
+description: สาขาหนึ่งของตรรกะมอดัลที่ใช้ระบบรูปนัยเพื่อแสดงและให้เหตุผลเกี่ยวกับสถานะความรู้และความเชื่อของตัวแทน
 ---
-
 ## Definition
 
 ตรรกะมอดัลเชิงญาณวิทยาขยายความจากตรรกะคลาสสิกโดยเพิ่มตัวดำเนินการที่ระบุสิ่งที่ตัวแทนรู้หรือเชื่อ มีความสำคัญอย่างยิ่งในระบบหลายตัวแทน (multi-agent systems) ที่ต้องมีการให้เหตุผลเกี่ยวกับความรู้ของผู้เข้าร่วมคนอื่น ๆ

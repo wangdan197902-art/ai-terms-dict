@@ -1,23 +1,24 @@
 ---
-title: "الضوابط الأمنية"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: الضوابط الأمنية
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /ar/terms/guardrails/
-date: "2026-07-18T16:00:33.665771Z"
-lastmod: "2026-07-18T17:15:08.510761Z"
+slug: guardrails
+date: '2026-07-18T16:00:33.665771Z'
+lastmod: '2026-07-18T17:15:08.510761Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "آليات أمان مصممة لتقييد مخرجات نماذج الذكاء الاصطناعي لمنع توليد محتوى ضار أو متحيز أو غير مصرح به."
+source: agnes_llm
+status: published
+language: ar
+description: آليات أمان مصممة لتقييد مخرجات نماذج الذكاء الاصطناعي لمنع توليد محتوى
+  ضار أو متحيز أو غير مصرح به.
 ---
-
 ## Definition
 
 تشير الضوابط الأمنية إلى مجموعة من عناصر التحكم البرمجية وطبقات إنفاذ السياسات المدمجة في تطبيقات الذكاء الاصطناعي، ولا سيما النماذج اللغوية الكبيرة، لضمان سلوك آمن ومتوافق مع المعايير. تعمل هذه الضوابط كمرشحات تتحقق من المدخلات والمخرجات للتأكد من خلوها من المحتوى غير اللائق.

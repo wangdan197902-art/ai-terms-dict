@@ -1,23 +1,24 @@
 ---
-title: "Transfer Learning"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Transfer Learning
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /id/terms/transfer_learning/
-date: "2026-07-18T15:30:34.302216Z"
-lastmod: "2026-07-18T16:38:07.405147Z"
+slug: transfer_learning
+date: '2026-07-18T15:30:34.302216Z'
+lastmod: '2026-07-18T16:38:07.405147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik pembelajaran mesin di mana model yang dikembangkan untuk satu tugas digunakan kembali sebagai titik awal untuk model pada tugas kedua."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik pembelajaran mesin di mana model yang dikembangkan untuk
+  satu tugas digunakan kembali sebagai titik awal untuk model pada tugas kedua.
 ---
-
 ## Definition
 
 Transfer learning memanfaatkan model yang telah dilatih sebelumnya untuk meningkatkan kinerja dan mengurangi waktu pelatihan pada tugas baru yang terkait. Alih-alih melatih dari awal, pengembang melakukan penyesuaian halus (fine-tuning) pada bobot yang ada, memungkinkan

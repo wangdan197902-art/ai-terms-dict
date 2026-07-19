@@ -1,23 +1,25 @@
 ---
-title: "Calcolo a livello di carattere"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Calcolo a livello di carattere
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /it/terms/character_computing/
-date: "2026-07-18T15:51:19.856090Z"
-lastmod: "2026-07-18T17:15:08.605583Z"
+slug: character_computing
+date: '2026-07-18T15:51:19.856090Z'
+lastmod: '2026-07-18T17:15:08.605583Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il calcolo a livello di carattere riguarda l'elaborazione, la generazione o l'analisi del testo a livello di singolo carattere, anziché a livello di parola o frase."
+source: agnes_llm
+status: published
+language: it
+description: Il calcolo a livello di carattere riguarda l'elaborazione, la generazione
+  o l'analisi del testo a livello di singolo carattere, anziché a livello di parola
+  o frase.
 ---
-
 ## Definition
 
 Questo concetto si concentra sulla manipolazione del testo in cui l'unità fondamentale di calcolo è un singolo carattere. Viene spesso utilizzato in compiti che richiedono un'analisi testuale fine, come il controllo ortografico

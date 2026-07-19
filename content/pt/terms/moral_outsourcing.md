@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /pt/terms/moral_outsourcing/
 date: "2026-07-18T15:13:41.807873Z"
 lastmod: "2026-07-18T15:51:59.514435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A preocupação ética na qual indivíduos ou organizações delegam responsabilidades de tomada de decisão moral a sistemas de IA automatizados."
 ---
-
 ## Definition
 
 A terceirização moral refere-se ao fenômeno em que os humanos cedem o julgamento ético e a responsabilidade a algoritmos ou sistemas de IA. Isso ocorre quando as pessoas dependem de decisões automatizadas para questões moralmente significativas, transferindo a agência ética para a máquina.

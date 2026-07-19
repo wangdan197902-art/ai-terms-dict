@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /zh/terms/intelligent_agent/
 date: "2026-07-18T11:22:32.126539Z"
 lastmod: "2026-07-18T11:44:45.518450Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种自主的软件实体，能够感知环境、推理行动并执行任务以实现特定目标。"
 ---
-
 ## Definition
 
 智能体是一种能够通过传感器或数据输入感知周围环境，使用推理算法处理这些信息，并通过执行器对环境采取行动的系统

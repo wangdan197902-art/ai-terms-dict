@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /zh/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T11:31:50.443930Z"
 lastmod: "2026-07-18T11:44:45.549758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种协作学习范式，人类和机器通过相互教学和持续学习来提升性能。"
 ---
-
 ## Definition
 
 这种方法超越了简单的人机回环标注。它涉及双向知识转移：人类纠正模型错误，同时模型协助人类识别模式或自动化任务，从而实现持续的协同改进。

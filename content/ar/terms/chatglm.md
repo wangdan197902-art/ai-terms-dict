@@ -1,23 +1,24 @@
 ---
-title: "شات جي إل إم (ChatGLM)"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: شات جي إل إم (ChatGLM)
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /ar/terms/chatglm/
-date: "2026-07-18T15:48:18.108082Z"
-lastmod: "2026-07-18T17:15:08.483905Z"
+slug: chatglm
+date: '2026-07-18T15:48:18.108082Z'
+lastmod: '2026-07-18T17:15:08.483905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "شات جي إل إم هو سلسلة من نماذج اللغات المفتوحة المصدر ثنائية اللغة والكبيرة الحجم، التي طورها تشيبو آي (Zhipu AI)، والمُحسّنة للحوار بالصينية والإنجليزية."
+source: agnes_llm
+status: published
+language: ar
+description: شات جي إل إم هو سلسلة من نماذج اللغات المفتوحة المصدر ثنائية اللغة والكبيرة
+  الحجم، التي طورها تشيبو آي (Zhipu AI)، والمُحسّنة للحوار بالصينية والإنجليزية.
 ---
-
 ## Definition
 
 يمثل شات جي إل إم عائلة من نماذج اللغات القائمة على معمارية المحوّل (Transformers)، المصممة خصيصاً للتعامل مع محادثات ثنائية اللغة عالية الجودة بالصينية والإنجليزية. طورته شركة تشيبو آي، وتستخدم هذه النماذج تقنيات متقدمة لتحسين الكفاءة والدقة.

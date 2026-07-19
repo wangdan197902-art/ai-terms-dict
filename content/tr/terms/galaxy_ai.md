@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /tr/terms/galaxy_ai/
 date: "2026-07-18T15:54:29.584066Z"
 lastmod: "2026-07-18T16:38:07.311679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Samsung'un Galaxy akıllı telefonlarına ve cihazlarına entegre ettiği, cihaz içi ve bulut tabanlı yapay zeka özellikleri paketini tanımlayan markalama çalışmasıdır."
 ---
-
 ## Definition
 
 Galaxy AI, Samsung'un donanım yelpazesindeki kullanıcı deneyimini geliştirmek üzere tasarlanmış özel yapay zeka işlevselliği ekosistemidir. Gerçek zamanlı çeviri, fotoğraf düzenleme ve toplantı notu özetleme gibi özellikler bu ekosistemin parçasıdır.

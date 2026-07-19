@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /fi/terms/server_sent_events/
 date: "2026-07-18T16:20:10.813742Z"
 lastmod: "2026-07-18T17:15:09.458918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Vakioprotokolla, joka mahdollistaa verkkopalvelimille reaaliaikaisten päivitysten työntämisen asiakkaille yksittäisen HTTP-yhteyden yli."
 ---
-
 ## Definition
 
 Palvelimen lähettämät tapahtumat (SSE) mahdollistavat yhteen suuntaan tapahtuvan viestinnän palvelimelta asiakkaalle, jolloin palvelin voi suoratoistaa dataa jatkuvasti ilman, että asiakkaan tarvitsee toistaa kyselyjä. Se käyttää tavallista HTTP:tä, mikä tekee siitä helppokäyttöisen.

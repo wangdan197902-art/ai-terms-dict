@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /hu/terms/safe/
 date: "2026-07-18T15:30:52.438947Z"
 lastmod: "2026-07-18T17:15:09.729316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Azokra az AI rendszerekre utal, amelyek úgy lettek tervezve, hogy ne okozzanak kárt embereknek, tulajdonnak vagy a környezetnek."
 ---
-
 ## Definition
 
 Az AI-biztonság korlátozások és védelem megvalósítását jelenti annak biztosítása érdekében, hogy az automatizált rendszerek kiszámíthatóan viselkedjenek, és ne okozzanak nem kívánt negatív következményeket. Ez technikai intézkedéseket, például vészleállítókat és etikai keretrendszereket foglal magában.

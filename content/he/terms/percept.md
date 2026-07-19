@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /he/terms/percept/
 date: "2026-07-18T16:16:35.780593Z"
 lastmod: "2026-07-18T17:15:09.573015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הייצוג המנטלי או התוצאה הפרשנית של קלט חושי שעובד על ידי קולט."
 ---
-
 ## Definition
 
 תפיסה היא הייצוג הפנימי של גירוי חיצוני לאחר שעובד על ידי מערכת קולטת. בבינה מלאכותית, זה מתאים לפלט נתונים מבני מתהליכי אותות ברמה נמוכה.

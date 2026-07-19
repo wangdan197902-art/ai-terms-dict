@@ -1,23 +1,24 @@
 ---
-title: "Elenco di software di intelligenza artificiale open source"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: Elenco di software di intelligenza artificiale open source
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /it/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T16:08:17.299745Z"
-lastmod: "2026-07-18T17:15:08.644120Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T16:08:17.299745Z'
+lastmod: '2026-07-18T17:15:08.644120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Collezioni curate o directory che catalogano strumenti, librerie e framework di IA pubblicamente disponibili."
+source: agnes_llm
+status: published
+language: it
+description: Collezioni curate o directory che catalogano strumenti, librerie e framework
+  di IA pubblicamente disponibili.
 ---
-
 ## Definition
 
 Questi si riferiscono a repository organizzati, come argomenti GitHub, liste 'Awesome' o wiki mantenuti dalla comunità, che aggregano software open source relativi all'intelligenza artificiale. Servono come risorse essenziali per scoprire e valutare le tecnologie disponibili.

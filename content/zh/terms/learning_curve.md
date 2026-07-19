@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /zh/terms/learning_curve/
 date: "2026-07-18T11:23:53.060665Z"
 lastmod: "2026-07-18T11:44:45.524061Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "学习曲线将模型的性能指标与训练数据量或训练轮数进行绘图，以可视化学习进度。"
 ---
-
 ## Definition
 
 通常，学习曲线在y轴上显示训练得分和验证得分，在x轴上显示训练样本数量或迭代次数。它有助于诊断模型是否存在高偏差（欠拟合）或高方差（过拟合）问题。

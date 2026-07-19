@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /zh/terms/artificial_consciousness/
 date: "2026-07-18T11:06:41.243883Z"
 lastmod: "2026-07-18T11:44:45.443855Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "赋予机器类似人类的主观体验、自我意识和感知能力的理论概念。"
 ---
-
 ## Definition
 
 人工意识探讨了创造拥有真正主观体验、自我意识和情感的机器的可能性，而不仅仅是模拟智能行为。它涉及对意识本质的哲学探讨。

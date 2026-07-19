@@ -1,23 +1,24 @@
 ---
-title: "Biểu diễn trạng thái dự đoán"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Biểu diễn trạng thái dự đoán
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /vi/terms/predictive_state_representation/
-date: "2026-07-18T16:08:01.903059Z"
-lastmod: "2026-07-18T16:38:07.793777Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:08:01.903059Z'
+lastmod: '2026-07-18T16:38:07.793777Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một công thức trạng thái tiềm ẩn trong học tăng cường, dự đoán các quan sát trong tương lai dựa trên lịch sử hành động."
+source: agnes_llm
+status: published
+language: vi
+description: Một công thức trạng thái tiềm ẩn trong học tăng cường, dự đoán các quan
+  sát trong tương lai dựa trên lịch sử hành động.
 ---
-
 ## Definition
 
 Biểu diễn trạng thái dự đoán (PSRs) mở rộng quá trình ra quyết định Markov có quan sát một phần truyền thống bằng cách định nghĩa các trạng thái là các vectơ dự đoán về các sự kiện quan sát được trong tương lai. Thay vì dựa vào trạng thái ẩn không thể quan sát trực tiếp, PSRs sử dụng lịch sử hành động và quan sát để xây dựng một biểu diễn trạng thái đầy đủ và có thể dự đoán được.

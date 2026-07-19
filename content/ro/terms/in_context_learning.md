@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /ro/terms/in_context_learning/
 date: "2026-07-18T15:23:10.069385Z"
 lastmod: "2026-07-18T17:15:09.588509Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O tehnică prin care modelele învață să execute sarcini observând exemplele furnizate în prompt."
 ---
-
 ## Definition
 
 Învățarea în context (ICL) permite modelelor lingvistice mari să se adapteze la sarcini noi fără a actualiza ponderile acestora. Prin furnizarea perechilor intrare-ieșire în contextul promptului, modelul inferă modelul și execută sarcina corespunzătoare.

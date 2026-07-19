@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /da/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:50:53.588735Z"
 lastmod: "2026-07-18T17:15:09.278291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et datasæt udledt fra Yahoo Answers, der indeholder brugergenererede spørgsmål og svar kategoriseret efter specifikke emner til semantisk matchning og klassificering."
 ---
-
 ## Definition
 
 Yahoo Answers Topics-datasættet er et undersæt af det større Yahoo Answers-arkiv, der fokuserer på spørgsmål og svar organiseret i distinkte emnekategorier. Det bruges almindeligvis til tekstklassif...

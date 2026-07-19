@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /da/terms/experiments/
 date: "2026-07-18T15:24:47.791199Z"
 lastmod: "2026-07-18T17:15:09.223721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Kontrollerede procedurer udført til at teste hypoteser, evaluere modellens ydeevne eller opdage nye AI-evner."
 ---
-
 ## Definition
 
 Eksperimenter inden for AI indebærer systematisk test af variabler for at forstå årsag-virknings-sammenhænge i maskinlæringsmodeller. Disse procedurer gør det muligt for udviklere at sammenligne forskellige hyperparametre...

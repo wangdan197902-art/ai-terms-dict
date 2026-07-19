@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /de/terms/semi_supervised_learning/
 date: "2026-07-18T11:33:04.663232Z"
 lastmod: "2026-07-18T11:44:44.984515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein maschineller Lernansatz, der sowohl beschriftete als auch unbeschriftete Daten nutzt, um die Modellgenauigkeit und Generalisierungsfähigkeit zu verbessern."
 ---
-
 ## Definition
 
 Semiüberwachtes Lernen ist ein hybrider Trainingsansatz, der eine kleine Menge beschrifteter Daten zusammen mit einem großen Volumen unbeschrifteter Daten verwendet. Die Grundannahme besteht darin, dass die Struktur der unbeschrifteten Daten genutzt werden kann, um das Lernen aus den wenigen beschrifteten Beispielen zu unterstützen.

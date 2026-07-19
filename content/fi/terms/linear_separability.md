@@ -1,23 +1,24 @@
 ---
-title: "Lineaarinen erottuvuus"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Lineaarinen erottuvuus
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /fi/terms/linear_separability/
-date: "2026-07-18T16:07:05.111271Z"
-lastmod: "2026-07-18T17:15:09.428953Z"
+slug: linear_separability
+date: '2026-07-18T16:07:05.111271Z'
+lastmod: '2026-07-18T17:15:09.428953Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Datamäärän ominaisuus, jossa kaksi luokkaa voidaan jakaa täydellisesti yhdellä suoralla viivalla tai hypertasolla."
+source: agnes_llm
+status: published
+language: fi
+description: Datamäärän ominaisuus, jossa kaksi luokkaa voidaan jakaa täydellisesti
+  yhdellä suoralla viivalla tai hypertasolla.
 ---
-
 ## Definition
 
 Lineaarinen erottuvuus tarkoittaa geometrista ehtoa, jossa eri luokkiin kuuluvat datapisteet voidaan erottaa toisistaan täysin lineaarisella rajalla, kuten viivalla 2D-avaruudessa tai hyper tasolla korkeammitteisessä avaruudessa.

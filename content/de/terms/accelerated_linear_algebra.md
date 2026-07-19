@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /de/terms/accelerated_linear_algebra/
 date: "2026-07-18T11:01:42.774450Z"
 lastmod: "2026-07-18T11:44:44.905603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Beschleunigte Lineare Algebra beinhaltet die Optimierung von Matrixoperationen unter Verwendung von Hardware-Beschleunigern wie GPUs und TPUs für hohe Leistung."
 ---
-
 ## Definition
 
 Dieses Fachgebiet konzentriert sich darauf, grundlegende lineare Algebra-Berechnungen, die Kernbestandteil des maschinellen Lernens und wissenschaftlicher Simulationen sind, zu beschleunigen. Durch die Nutzung der parallelen Verarbeitungsleistungen von GPUs, TPUs und spezialisierten Hardware-Kernen werden Rechenzeiten drastisch reduziert.

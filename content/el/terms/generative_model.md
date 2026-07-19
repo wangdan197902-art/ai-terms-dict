@@ -1,23 +1,25 @@
 ---
-title: "Γενετικό μοντέλο"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: Γενετικό μοντέλο
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /el/terms/generative_model/
-date: "2026-07-18T16:09:19.130379Z"
-lastmod: "2026-07-18T17:15:09.912350Z"
+slug: generative_model
+date: '2026-07-18T16:09:19.130379Z'
+lastmod: '2026-07-18T17:15:09.912350Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας τύπος μοντέλου μηχανικής μάθησης που μαθαίνει την υποκείμενη κατανομή των δεδομένων για να δημιουργήσει νέα, συνθετικά δείγματα παρόμοια με τα δεδομένα εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Ένας τύπος μοντέλου μηχανικής μάθησης που μαθαίνει την υποκείμενη κατανομή
+  των δεδομένων για να δημιουργήσει νέα, συνθετικά δείγματα παρόμοια με τα δεδομένα
+  εκπαίδευσης.
 ---
-
 ## Definition
 
 Τα γενετικά μοντέλα είναι αλγόριθμοι σχεδιασμένοι να κατανοούν τα μοτίβα και τις δομές εντός ενός συγκεκριμένου συνόλου δεδομένων, ώστε να μπορούν να δημιουργήσουν νέες περιπτώσεις δεδομένων που μοιάζουν με τα αρχικά. Σε αντίθεση με τα διακριτικά μοντέλα...

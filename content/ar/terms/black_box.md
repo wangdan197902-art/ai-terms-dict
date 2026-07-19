@@ -1,23 +1,23 @@
 ---
-title: "الصندوق الأسود"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: الصندوق الأسود
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /ar/terms/black_box/
-date: "2026-07-18T15:32:24.869520Z"
-lastmod: "2026-07-18T17:15:08.452914Z"
+slug: black_box
+date: '2026-07-18T15:32:24.869520Z'
+lastmod: '2026-07-18T17:15:08.452914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نظام تكون آلياته الداخلية مخفية، ولا يمكن ملاحظة المدخلات والمخرجات فقط."
+source: agnes_llm
+status: published
+language: ar
+description: نظام تكون آلياته الداخلية مخفية، ولا يمكن ملاحظة المدخلات والمخرجات فقط.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، يشير نموذج الصندوق الأسود إلى الأنظمة المعقدة مثل الشبكات العصبية العميقة، حيث يكون منطق اتخاذ القرار الداخلي غامضاً وصعب التفسير من قبل البشر. وعلى الرغم من أن هذه النماذج غالباً ما تحقق أداءً عالياً...

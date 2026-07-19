@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /nl/terms/ai_ethics/
 date: "2026-07-18T15:35:11.386085Z"
 lastmod: "2026-07-18T17:15:08.701620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De studie van morele vraagstukken en implicaties die voortvloeien uit de ontwikkeling en inzet van systemen voor kunstmatige intelligentie."
 ---
-
 ## Definition
 
 AI-ethiek omvat het kader van principes en normen dat is ontworpen om ervoor te zorgen dat technologieën voor kunstmatige intelligentie verantwoord worden ontwikkeld en gebruikt. Het adresseert kritieke zorgen zoals...

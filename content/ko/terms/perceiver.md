@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /ko/terms/perceiver/
 date: "2026-07-18T16:09:20.445303Z"
 lastmod: "2026-07-18T16:38:06.895340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "환경으로부터의 감각적 입력을 받아들이고 해석하는 시스템 또는 모듈."
 ---
-
 ## Definition
 
 인공지능(AI) 및 인지과학에서 '인지 모듈'은 원시 감각 데이터를 의미 있는 정보로 처리하는 지능형 시스템의 구성 요소를 의미합니다. 단순히 신호를 감지하는 단순 센서와 달리, 인지 모듈은 입력된 데이터를 분석하고 구조화하여 시스템이 이해할 수 있는 형태로 변환합니다.

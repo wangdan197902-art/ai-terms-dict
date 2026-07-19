@@ -1,23 +1,24 @@
 ---
-title: "Multimodal repræsentationslæring"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Multimodal repræsentationslæring
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /da/terms/multimodal_representation_learning/
-date: "2026-07-18T16:09:00.675751Z"
-lastmod: "2026-07-18T17:15:09.314120Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:09:00.675751Z'
+lastmod: '2026-07-18T17:15:09.314120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik, der lærer fælles funktionelle repræsentationer fra flere datamodaler samtidigt."
+source: agnes_llm
+status: published
+language: da
+description: En teknik, der lærer fælles funktionelle repræsentationer fra flere datamodaler
+  samtidigt.
 ---
-
 ## Definition
 
 Multimodal repræsentationslæring indebærer træning af modeller til at behandle og integrere information fra forskellige typer datakilder, såsom tekst, billeder, lyd og video, i et delt latent rum.

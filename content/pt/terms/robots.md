@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /pt/terms/robots/
 date: "2026-07-18T14:38:50.178185Z"
 lastmod: "2026-07-18T15:51:59.437915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A forma plural referindo-se a múltiplas máquinas programáveis projetadas para executar tarefas autonomamente."
 ---
-
 ## Definition
 
 Os robôs abrangem uma classe diversa de máquinas que podem ser classificadas por sua mobilidade, estrutura ou domínio de aplicação. Esta categoria inclui braços industriais, robôs móveis autônomos (AMRs), drones

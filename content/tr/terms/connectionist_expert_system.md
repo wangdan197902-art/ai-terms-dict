@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /tr/terms/connectionist_expert_system/
 date: "2026-07-18T15:46:04.805874Z"
 lastmod: "2026-07-18T16:38:07.285866Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sinir ağı öğrenme yeteneklerini sembolik akıl yürütme yapılarıyla birleştiren zeki bir sistem."
 ---
-
 ## Definition
 
 Bir bağlantıcı uzman sistem, sinir ağlarının (bağlantıcılık) desen tanıma ve öğrenme güçlüklüklerini, geleneksel yapay zekanın açık bilgi temsili ve mantıksal akıl yürütmesiyle entegre eder.

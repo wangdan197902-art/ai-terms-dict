@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /fi/terms/control/
 date: "2026-07-18T15:24:34.045250Z"
 lastmod: "2026-07-18T17:15:09.347847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa järjestelmän käyttäytymistä ja tilaa hallitaan, ohjataan tai säännellään haluttujen tulosten saavuttamiseksi."
 ---
-
 ## Definition
 
 Tekoälyssä ohjaus viittaa mekanismeihin ja algoritmeihin, joilla ohjataan järjestelmän toimintaa nykyisten tilojen ja tavoitteiden perusteella. Se sisältää takaisinkytkentäsilmukoita, joissa lähtöarvoa käytetään virheen korjaamiseen.

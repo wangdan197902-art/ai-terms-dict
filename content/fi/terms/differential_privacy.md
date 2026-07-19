@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /fi/terms/differential_privacy/
 date: "2026-07-18T15:54:22.731739Z"
 lastmod: "2026-07-18T17:15:09.403885Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tiukka matemaattinen viitekehys, joka varmistaa, että yksittäisen henkilön tietojen sisällyttäminen tai jättäminen pois analyysistä ei vaikuta merkittävästi tulokseen."
 ---
-
 ## Definition
 
 Differentiaalinen yksityisyys tarjoaa vahvat yksityisyydensuojatauaukset lisäämällä kalibroituja tilastollisia häiriöitä kyselytuloksiin tai malliparametreihin. Se kvantifioi maksimaalisen vuodon määrän mistä tahansa yksilöstä.

@@ -1,23 +1,25 @@
 ---
-title: "Βιβλιογραφική Αναφορά"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: Βιβλιογραφική Αναφορά
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /el/terms/citation/
-date: "2026-07-18T15:55:08.340350Z"
-lastmod: "2026-07-18T17:15:09.888630Z"
+slug: citation
+date: '2026-07-18T15:55:08.340350Z'
+lastmod: '2026-07-18T17:15:09.888630Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η βιβλιογραφική αναφορά στην ΤΝ αναφέρεται στην πρακτική απόδοσης πνευματικής ιδιοκτησίας στις πηγές ή τα δεδομένα που χρησιμοποιήθηκαν εντός του παραγόμενου κειμένου ή των μοντέλων, για διασφάλιση δι"
+source: agnes_llm
+status: published
+language: el
+description: Η βιβλιογραφική αναφορά στην ΤΝ αναφέρεται στην πρακτική απόδοσης πνευματικής
+  ιδιοκτησίας στις πηγές ή τα δεδομένα που χρησιμοποιήθηκαν εντός του παραγόμενου
+  κειμένου ή των μοντέλων, για διασφάλιση δι
 ---
-
 ## Definition
 
 Καθώς τα μοντέλα γενικής ΤΝ παράγουν περιεχόμενο, έχει προκύψει η ανάγκη για μηχανισμούς αναφοράς ώστε να διατηρηθεί η ακαδημαϊκή ακεραιότητα και η νομική συμμόρφωση. Αυτό περιλαμβάνει την ενσωμάτωση παραπομπών στις αρχικές πηγές μέσα στο παραγόμενο περιεχόμενο, επιτρέποντας την επαλήθευση των ισχυρισμών.

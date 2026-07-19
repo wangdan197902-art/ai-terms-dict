@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /ar/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:52:02.964133Z"
 lastmod: "2026-07-18T17:15:08.491825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات مُنتقاة مشتقة من ويكيبيديا الإنجليزية المبسطة، تُستخدم لتدريب وتقييم نماذج تضمين النصوص."
 ---
-
 ## Definition
 
 تتكون هذه المجموعة من جمل وفقرات مستخرجة من ويكيبيديا الإنجليزية المبسطة، وهي نسخة من ويكيبيديا مكتوبة لغير الناطقين باللغة الإنجليزية باستخدام قواعد ومفردات مبسطة. وتُعد هذه المجموعة أداة

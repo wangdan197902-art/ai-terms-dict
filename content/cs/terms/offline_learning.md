@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /cs/terms/offline_learning/
 date: "2026-07-18T16:11:25.844870Z"
 lastmod: "2026-07-18T17:15:09.159595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Offline učení je tréninkový paradigm, kde jsou modely trénovány na statických datech bez interakce s živým prostředím během fáze učení."
 ---
-
 ## Definition
 
 Také známé jako dávkové učení, offline učení zahrnuje trénink modelů strojového učení na pevném sadě dat shromážděných předtím. Na rozdíl od online učení model neaktualizuje své parametry v re

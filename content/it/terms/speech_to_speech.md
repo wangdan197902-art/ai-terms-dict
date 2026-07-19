@@ -1,23 +1,24 @@
 ---
-title: "Da parlato a parlato"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Da parlato a parlato
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /it/terms/speech_to_speech/
-date: "2026-07-18T16:22:07.633368Z"
-lastmod: "2026-07-18T17:15:08.671163Z"
+slug: speech_to_speech
+date: '2026-07-18T16:22:07.633368Z'
+lastmod: '2026-07-18T17:15:08.671163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un paradigma di traduzione che converte l'input parlato direttamente in sintesi vocale in un'altra lingua."
+source: agnes_llm
+status: published
+language: it
+description: Un paradigma di traduzione che converte l'input parlato direttamente
+  in sintesi vocale in un'altra lingua.
 ---
-
 ## Definition
 
 La traduzione Da parlato a parlato (STS) bypassa le rappresentazioni testuali intermedie per convertire direttamente la lingua parlata A nella lingua parlata B. Questo approccio mira a preservare la prosodia, l'emozione e la naturalezza della voce originale, offrendo un'esperienza di comunicazione più fluida.

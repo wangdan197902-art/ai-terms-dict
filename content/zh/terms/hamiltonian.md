@@ -1,23 +1,23 @@
 ---
-title: "哈密顿量"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: 哈密顿量
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /zh/terms/hamiltonian/
-date: "2026-07-18T10:51:52.868984Z"
-lastmod: "2026-07-18T11:44:45.370630Z"
+slug: hamiltonian
+date: '2026-07-18T10:51:52.868984Z'
+lastmod: '2026-07-18T11:44:45.370630Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "表示系统总能量的函数，用于受物理启发的AI模型中以模拟动力学并保持能量守恒。"
+source: agnes_llm
+status: published
+language: zh
+description: 表示系统总能量的函数，用于受物理启发的AI模型中以模拟动力学并保持能量守恒。
 ---
-
 ## Definition
 
 哈密顿量起源于经典力学，代表系统中动能和势能的总和。在AI中，哈密顿神经网络（HNNs） incorporates 这一概念以学习动态系统...

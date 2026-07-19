@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /sv/terms/semi_supervised_learning/
 date: "2026-07-18T16:20:11.256354Z"
 lastmod: "2026-07-18T17:15:09.046330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En maskininlärningsmetod som utnyttjar både märkta och omärkta data för att förbättra modellens noggrannhet och generaliseringsförmåga."
 ---
-
 ## Definition
 
 Halvövervakad inlärning är en hybrid träningsparadigm som använder en liten mängd märkta data tillsammans med en stor volym omärkta data. Den grundläggande antagandet är att strukturen hos de omärkta datan...

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /ro/terms/isotropic_position/
 date: "2026-07-18T16:06:09.788415Z"
 lastmod: "2026-07-18T17:15:09.670547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O transformare geometrică a unui corp convex în care matricea sa de inerție este proporțională cu matricea identitate, simplificând analiza."
 ---
-
 ## Definition
 
 În geometria convexă și probabilitatea de înaltă dimensiune, un set de puncte sau un corp convex este în poziție izotropă dacă centrul său de masă se află la origine și matricea sa de covarianță este un multiplu scalar al matricei identitate. Aceasta standardizează forma corpului pentru analiză.

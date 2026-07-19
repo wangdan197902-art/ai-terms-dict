@@ -1,23 +1,24 @@
 ---
-title: "奇点研究"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: 奇点研究
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /zh/terms/singularity_studies/
-date: "2026-07-18T11:34:08.558140Z"
-lastmod: "2026-07-18T11:44:45.554074Z"
+slug: singularity_studies
+date: '2026-07-18T11:34:08.558140Z'
+lastmod: '2026-07-18T11:44:45.554074Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一门跨学科领域，考察未来技术奇点对社会、伦理和存在性影响的潜在后果。"
+source: agnes_llm
+status: published
+language: zh
+description: 一门跨学科领域，考察未来技术奇点对社会、伦理和存在性影响的潜在后果。
 ---
-
 ## Definition
 
 奇点研究是一门新兴的学术学科，旨在调查假设的未来时刻（即人工智能超越人类智能）所带来的影响，从而导致不可控的后果。

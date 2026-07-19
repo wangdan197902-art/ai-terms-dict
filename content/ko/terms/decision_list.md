@@ -1,23 +1,22 @@
 ---
-title: "결정 목록(Decision list)"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: 결정 목록(Decision list)
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /ko/terms/decision_list/
-date: "2026-07-18T15:49:41.971452Z"
-lastmod: "2026-07-18T16:38:06.829789Z"
+slug: decision_list
+date: '2026-07-18T15:49:41.971452Z'
+lastmod: '2026-07-18T16:38:06.829789Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "순서가 지정된 규칙 목록으로 구성된 해석 가능한 분류기로, 첫 번째로 일치하는 규칙이 출력을 결정합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 순서가 지정된 규칙 목록으로 구성된 해석 가능한 분류기로, 첫 번째로 일치하는 규칙이 출력을 결정합니다.
 ---
-
 ## Definition
 
 결정 목록은 지식을 조건부 규칙의 시퀀스로 표현하는 머신러닝 모델 유형입니다. 각 규칙은 조건과 예측된 클래스 레이블로 구성됩니다. 새로운 데이터를 분류할 때, 입력과 일치하는 첫 번째 규칙이 해당 데이터의 클래스를 결정합니다.

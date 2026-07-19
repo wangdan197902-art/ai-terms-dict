@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /ko/terms/knowledge_distillation/
 date: "2026-07-18T16:01:07.728865Z"
 lastmod: "2026-07-18T16:38:06.857559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "지식 증류는 작은 학생 모델이 더 큰 교사 모델의 행동을 모방하도록 학습시켜 모델을 압축하는 기술입니다."
 ---
-
 ## Definition
 
 지식 증류는 대규모 복잡한 신경망(교사)을 더 작고 효율적인 네트워크(학생)로 압축하기 위해 사용되는 머신러닝 방법론입니다. 학생 모델은 교사 모델의 출력 분포(소프트 타겟)를 따라가며 학습하여, 원본 모델의 성능을 유지하면서 추론 속도와 효율성을 높입니다.

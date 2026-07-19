@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /de/terms/artificial_intelligence/
 date: "2026-07-18T07:40:37.098539Z"
 lastmod: "2026-07-18T11:44:44.583007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Simulation menschlicher Intelligenzprozesse durch Computersysteme."
 ---
-
 ## Definition
 
 Künstliche Intelligenz (KI) bezeichnet die Fähigkeit digitaler Computer oder computersteuerter Roboter, Aufgaben auszuführen, die üblicherweise mit intelligenten Wesen assoziiert werden. Sie umfasst verschiedene Teilgebiete

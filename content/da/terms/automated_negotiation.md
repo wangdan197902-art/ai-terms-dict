@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /da/terms/automated_negotiation/
 date: "2026-07-18T15:43:07.246782Z"
 lastmod: "2026-07-18T17:15:09.262765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brugen af AI-agenter til autonomt at føre forhandlinger og nå aftaler mellem parter."
 ---
-
 ## Definition
 
 Automatiseret forhandling involverer softwareagenter, der repræsenterer menneskelige interesser i forhandlingsprocesser. Disse agenter bruger spilteori, optimeringsalgoritmer og maskinlæring til at fremsætte tilbud, evaluere modpartens svar og justere deres strategier for at opnå de bedst mulige resultater uden løbende menneskelig indblanding, hvilket muliggør hurtige og datadrevne beslutninger i komplekse økonomiske miljøer.

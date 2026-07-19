@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /da/terms/something_big_is_happening/
 date: "2026-07-18T16:17:58.044312Z"
 lastmod: "2026-07-18T17:15:09.332179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et uformelt udtryk, der ofte bruges i medierne til at beskrive betydningsfulde gennembrud eller hurtige fremskridt inden for AI-feltet."
 ---
-
 ## Definition
 
 Dette begreb er ikke en teknisk definition, men et kulturelt markør, der henviser til perioder med intens innovation, offentlig interesse eller paradigmeskift inden for kunstig intelligens. Det ledsager typisk den r

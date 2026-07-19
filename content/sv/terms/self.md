@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /sv/terms/self/
 date: "2026-07-18T15:31:05.936715Z"
 lastmod: "2026-07-18T17:15:08.951759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inom AI syftar 'själv' på begreppet om en agents identitet eller dess förmåga till självrefererande bearbetning och introspektion."
 ---
-
 ## Definition
 
 Även om nuvarande AI saknar medvetande, beskriver termen 'själv' ofta metakognitiva förmågor där en modell analyserar sina egna utdata, konfidensnivåer eller interna tillstånd. Det förekommer i sammanhang där...

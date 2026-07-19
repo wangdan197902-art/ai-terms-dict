@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /cs/terms/adversarial_machine_learning/
 date: "2026-07-18T15:40:56.095352Z"
 lastmod: "2026-07-18T17:15:09.099536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Adverzální strojové učení je obor, který studuje, jak učinit modely strojového učení odolnými vůči škodlivým vstupům určeným k jejich oklamání."
 ---
-
 ## Definition
 
 Tento obor zahrnuje jak útočné techniky k prolomení modelů, tak obranné strategie k jejich posílení. Zahrnuje trénování modelů na adverzálních příkladech za účelem zlepšení jejich odolnosti, procesu známému jako adverzální trénink.

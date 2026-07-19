@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /nl/terms/serverless/
 date: "2026-07-18T16:16:52.293105Z"
 lastmod: "2026-07-18T17:15:08.786797Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een uitvoeringsmodel voor cloudcomputing waarbij de aanbieder dynamisch de toewijzing van computerbronnen beheert in plaats van de gebruiker."
 ---
-
 ## Definition
 
 Serverloze architectuur stelt ontwikkelaars in staat applicaties te bouwen en uit te voeren zonder serverinfrastructuur te beheren. De cloudaanbieder schaalt resources automatisch op of neer op basis van vraag en rekent gebruikers alleen af voor daadwerkelijk verbruikte resources.

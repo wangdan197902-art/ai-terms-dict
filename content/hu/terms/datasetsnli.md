@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /hu/terms/datasetsnli/
 date: "2026-07-18T15:55:19.102733Z"
 lastmod: "2026-07-18T17:15:09.771301Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Stanford Natural Language Inference Corpus: egy nagy méretű, angol nyelvű mondatpárokat tartalmazó adatkészlet emberi által írt szöveges következtetési címkékkel."
 ---
-
 ## Definition
 
 Az SNLI egy benchmark adatkészlet, amely több mint 500 000 címkézett mondatpárt tartalmaz, amelyek három kategóriába sorolhatók: entalpia (következik), ellentmondás és semleges. A természetes nyelvi feldolgozás területén végzett kutatások előmozdítása érdekében készült.

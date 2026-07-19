@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /fi/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:51:27.129707Z"
 lastmod: "2026-07-18T17:15:09.399101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tietosarja, joka sisältää alkuperäisiä lauseita ja niiden purkautuneita versioita mallien kouluttamiseen tiedon säilymisen osalta."
 ---
-
 ## Definition
 
 Lausepurkutietosarjat koostuvat pareista, joissa kohdelause on lähtölauseen lyhennetty versio, joka säilyttää ytimen merkityksen poistaen redundanssia. Näitä tietosarjoja käytetään...

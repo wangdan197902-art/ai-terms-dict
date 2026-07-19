@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /pl/terms/api/
 date: "2026-07-18T15:22:22.749344Z"
 lastmod: "2026-07-18T17:15:08.804734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Interfejs Programowania Aplikacji umożliwiający różnym systemom oprogramowania komunikację i wymianę danych."
 ---
-
 ## Definition
 
 API definiuje zestaw protokołów i narzędzi do budowania oprogramowania i aplikacji. W kontekście AI, API umożliwia programistom dostęp do potężnych modeli, takich jak duże modele językowe (LLM) czy generatory obrazów, bez konieczności hostowania ich lokalnie.

@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /ko/terms/robots/
 date: "2026-07-18T15:28:25.409749Z"
 lastmod: "2026-07-18T16:38:06.782928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "자율적으로 작업을 실행하도록 설계된 여러 대의 프로그래밍 가능한 기계를 지칭하는 복수형 용어입니다."
 ---
-
 ## Definition
 
 로봇들은 이동성, 구조 또는 적용 분야에 따라 분류될 수 있는 다양한 기계들의 포괄적인 범주를 포함합니다. 이 카테고리에는 산업용 로봇 팔, 자율 주행 이동 로봇(AMR), 드론, 서비스 로봇 등이 포함되며, 최근에는 다중 에이전트 시스템으로서의 협업과 군집 지능이 중요한 연구 주제로 부상하고 있습니다.

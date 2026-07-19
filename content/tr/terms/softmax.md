@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /tr/terms/softmax/
-date: "2026-07-18T15:37:31.383451Z"
-lastmod: "2026-07-18T16:38:07.263683Z"
+slug: softmax
+date: '2026-07-18T15:37:31.383451Z'
+lastmod: '2026-07-18T16:38:07.263683Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Rastgele reel değerli skorları bir olasılık dağılımına dönüştüren matematiksel bir fonksiyon."
+source: agnes_llm
+status: published
+language: tr
+description: Rastgele reel değerli skorları bir olasılık dağılımına dönüştüren matematiksel
+  bir fonksiyon.
 ---
-
 ## Definition
 
 Softmax, çok sınıflı sınıflandırma görevlerinde sinir ağlarının çıktı katmanında yaygın olarak kullanılır. Ham logitleri alır ve her bir elemanın bir olasılığı temsil edecek şekilde normalize eder.

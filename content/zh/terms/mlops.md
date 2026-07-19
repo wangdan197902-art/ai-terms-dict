@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /zh/terms/mlops/
 date: "2026-07-18T11:24:58.833924Z"
 lastmod: "2026-07-18T11:44:45.528103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "MLOps（机器学习运维）是一套结合机器学习、DevOps和数据工程的实践，旨在自动化并简化机器学习模型的生命周期。"
 ---
-
 ## Definition
 
 MLOps 使组织能够可靠且高效地在生产环境中部署和维护机器学习模型。它包括数据和模型的版本控制、自动化测试、持续集成等

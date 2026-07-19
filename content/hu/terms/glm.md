@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /hu/terms/glm/
 date: "2026-07-18T16:01:42.399480Z"
 lastmod: "2026-07-18T17:15:09.788824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A GLM általában a Generalized Linear Models (általánosított lineáris modellek) statisztikai kifejezésre, vagy a Zhipu AI által kifejlesztett General Language Model (általános nyelvi modell) sorozatra "
 ---
-
 ## Definition
 
 A statisztikai modellezésben a GLM a Generalized Linear Models (általánosított lineáris modellek) rövidítése, amelyek kiterjesztik a lineáris regressziót azoknak a válaszváltozóknak a kezelésére, amelyek hibaeloszlása eltér a normális eloszlástól. Az AI kontextusában a Zhipu AI által fejlesztett General Language Model (általános nyelvi modell) sorozatot is jelentheti.

@@ -1,23 +1,24 @@
 ---
-title: "Trucco di riparametrizzazione"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Trucco di riparametrizzazione
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /it/terms/reparameterization_trick/
-date: "2026-07-18T16:19:04.742145Z"
-lastmod: "2026-07-18T17:15:08.665182Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:19:04.742145Z'
+lastmod: '2026-07-18T17:15:08.665182Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica che separa le variabili stocastiche dai parametri apprendibili per consentire l'ottimizzazione basata sui gradienti nell'inferenza variazionale."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica che separa le variabili stocastiche dai parametri apprendibili
+  per consentire l'ottimizzazione basata sui gradienti nell'inferenza variazionale.
 ---
-
 ## Definition
 
 Il trucco di riparametrizzazione è un metodo fondamentale utilizzato negli autoencoder variazionali e in altri modelli probabilistici. Consente ai gradienti di fluire attraverso i nodi stocastici esprimendo una variabile casuale come una funzione deterministica dei suoi parametri apprendibili e di una variabile ausiliaria indipendente dai parametri.

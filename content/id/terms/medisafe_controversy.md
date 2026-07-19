@@ -7,8 +7,6 @@ tags: ["ethics", "history", "healthcare"]
 difficulty: 2
 weight: 1
 slug: "medisafe_controversy"
-aliases:
-  - /id/terms/medisafe_controversy/
 date: "2026-07-18T16:00:03.637388Z"
 lastmod: "2026-07-18T16:38:07.482459Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Debat etika historis mengenai penggunaan pengujian hewan dalam pengembangan platform pemantauan kesehatan MediSafe."
 ---
-
 ## Definition
 
 Kontroversi MediSafe merujuk pada diskusi etika yang signifikan di awal perkembangan teknologi kesehatan digital terkait metode validasi yang digunakan untuk aplikasi MediSafe. Para kritikus mengemukakan kekhawatiran...

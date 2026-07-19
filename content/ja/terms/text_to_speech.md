@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /ja/terms/text_to_speech/
 date: "2026-07-18T11:34:40.758727Z"
 lastmod: "2026-07-18T11:44:45.150660Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "テキスト・トゥ・スピーチ（TTS）は、書かれたテキストを自然な人間の発話に変換する技術です。"
 ---
-
 ## Definition
 
 テキスト・トゥ・スピーチ（TTS）は、デジタルテキストをユーザーに読み上げる支援技術の一種です。これは、人間のイントネーションを模倣した音声を合成するために、高度なニューラルネットワークや音響モデルを利用します。

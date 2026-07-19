@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /no/terms/computational_humor/
 date: "2026-07-18T15:46:57.108807Z"
 lastmod: "2026-07-18T16:38:06.982434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Underfeltet av AI som fokuserer på generering, forståelse og verdsetting av humoristisk innhold gjennom kommersielle metoder."
 ---
-
 ## Definition
 
 Kommersial humor studerer hvordan maskiner kan produsere eller tolke skämt, ordspill og viltre bemerkninger. Det vanligvis stoler på naturlig språkbehandling for å oppdage inkongruenser, semantiske skift eller uventede

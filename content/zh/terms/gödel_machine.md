@@ -1,23 +1,23 @@
 ---
-title: "哥德尔机"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: 哥德尔机
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /zh/terms/gödel_machine/
-date: "2026-07-18T11:20:37.770033Z"
-lastmod: "2026-07-18T11:44:45.512256Z"
+slug: gödel_machine
+date: '2026-07-18T11:20:37.770033Z'
+lastmod: '2026-07-18T11:44:45.512256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种理论上的自我改进人工智能程序，能够在不改变目标的情况下重写自身源代码以提高效率。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种理论上的自我改进人工智能程序，能够在不改变目标的情况下重写自身源代码以提高效率。
 ---
-
 ## Definition
 
 哥德尔机是由于尔根·施密德胡伯提出的假设性通用问题求解器，基于形式逻辑和可计算性理论。它通过持续分析自身的源代码来寻找更高效的算法实现方式，并在证明新代码能带来更高效用时进行自我修改。

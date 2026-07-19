@@ -1,23 +1,25 @@
 ---
-title: "diffúziós alapú"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: diffúziós alapú
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /hu/terms/diffusion_based/
-date: "2026-07-18T15:34:52.650446Z"
-lastmod: "2026-07-18T17:15:09.734244Z"
+slug: diffusion_based
+date: '2026-07-18T15:34:52.650446Z'
+lastmod: '2026-07-18T17:15:09.734244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy generatív modellezési megközelítés, amely adatokat hoz létre egy fokozatos zaj hozzáadásának folyamatának fordított irányításával, megtanult zajcsökkentő lépések révén."
+source: agnes_llm
+status: published
+language: hu
+description: Egy generatív modellezési megközelítés, amely adatokat hoz létre egy
+  fokozatos zaj hozzáadásának folyamatának fordított irányításával, megtanult zajcsökkentő
+  lépések révén.
 ---
-
 ## Definition
 
 A diffúziós alapú modellek a generatív AI egy olyan osztályát képezik, amelyek új adatismétléseket hoznak létre egy véletlenszerű eloszlásból történő zaj eltávolításának iteratív folyamata során. A folyamat egy előrefolyamattal kezdődik, amely lassan Gauss-zajt ad...

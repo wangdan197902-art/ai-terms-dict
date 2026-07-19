@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /id/terms/feedback/
 date: "2026-07-18T15:25:45.354707Z"
 lastmod: "2026-07-18T16:38:07.393168Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Umpan balik melibatkan penggunaan hasil keluaran untuk menyesuaikan dan meningkatkan kinerja model atau sistem AI secara iteratif."
 ---
-
 ## Definition
 
 Mekanisme umpan balik memungkinkan sistem AI belajar dari interaksi mereka dengan pengguna atau lingkungan, menyempurnakan prediksi atau tindakan di masa depan. Ini termasuk sinyal pembelajaran penguatan, manusia dalam loop...

@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /cs/terms/mechanistic_interpretability/
 date: "2026-07-18T16:08:28.723257Z"
 lastmod: "2026-07-18T17:15:09.152664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Přístup k pochopení modelů AI analýzou jejich interních komponent a mechanismů spíše než pouze jejich chování vstup-výstup."
 ---
-
 ## Definition
 
 Mechanická interpretovatelnost se zaměřuje na reverzní inženýrství neuronových sítí, aby se pochopilo, jak počítají konkrétní funkce na úrovni jednotlivých neuronů, vah a obvodů. Místo toho, aby se modely braly jako černé skříňky, tento přístup se snaží mapovat přímé kauzální vztahy mezi aktivacemi neuronů a výsledným chováním modelu.

@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /vi/terms/unified_model/
 date: "2026-07-18T16:15:30.292312Z"
 lastmod: "2026-07-18T16:38:07.814564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kiến trúc AI được thiết kế để xử lý nhiều tác vụ hoặc phương thức khác nhau trong cùng một khung làm việc."
 ---
-
 ## Definition
 
 Mô hình thống nhất đề cập đến một hệ thống trí tuệ nhân tạo có khả năng thực hiện nhiều tác vụ riêng biệt, chẳng hạn như tạo văn bản, nhận diện hình ảnh và tổng hợp mã, mà không yêu cầu các chuyên gia...

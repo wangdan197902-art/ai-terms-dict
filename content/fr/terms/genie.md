@@ -1,23 +1,25 @@
 ---
-title: "Genie"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: Genie
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /fr/terms/genie/
-date: "2026-07-18T11:18:49.454726Z"
-lastmod: "2026-07-18T11:44:45.258093Z"
+slug: genie
+date: '2026-07-18T11:18:49.454726Z'
+lastmod: '2026-07-18T11:44:45.258093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une classe spécifique de modèles de génération vidéo, notamment Genie de Google, qui prédit les futures images de vidéos basées sur des entrées textuelles ou visuelles."
+source: agnes_llm
+status: published
+language: fr
+description: Une classe spécifique de modèles de génération vidéo, notamment Genie
+  de Google, qui prédit les futures images de vidéos basées sur des entrées textuelles
+  ou visuelles.
 ---
-
 ## Definition
 
 Genie désigne une famille de modèles génératifs conçus spécifiquement pour la synthèse vidéo. Développés par des chercheurs, y compris ceux de Google DeepMind, ces modèles visent à générer des séquences cohérentes de...

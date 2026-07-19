@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /nl/terms/graphics_processing_unit/
 date: "2026-07-18T15:58:04.859240Z"
 lastmod: "2026-07-18T17:15:08.750172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gespecialiseerd elektronisch circuit dat oorspronkelijk is ontworpen voor snelle beeldbewerking en -weergave, maar nu breed wordt gebruikt voor parallelle berekeningen in AI."
 ---
-
 ## Definition
 
 Een GPU (Graphics Processing Unit) is een krachtige processor die oorspronkelijk is ontwikkeld voor het afhandelen van taken op het gebied van grafische weergave. In tegenstelling tot CPU's, die weinig cores hebben die geoptimaliseerd zijn voor sequentiële seriële verwerking, bevatten GPU's duizenden cores die tegelijkertijd veel berekeningen kunnen uitvoeren, wat ze ideaal maakt voor de zware rekenlasten van moderne AI-modellen.

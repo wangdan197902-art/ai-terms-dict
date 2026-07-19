@@ -1,23 +1,23 @@
 ---
-title: "Extracción de Modelos"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: Extracción de Modelos
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /es/terms/model_extraction/
-date: "2026-07-18T11:14:17.701180Z"
-lastmod: "2026-07-18T11:44:44.867892Z"
+slug: model_extraction
+date: '2026-07-18T11:14:17.701180Z'
+lastmod: '2026-07-18T11:44:44.867892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un ataque en el que un adversario consulta un modelo para reconstruir sus parámetros o crear una copia sustituta."
+source: agnes_llm
+status: published
+language: es
+description: Un ataque en el que un adversario consulta un modelo para reconstruir
+  sus parámetros o crear una copia sustituta.
 ---
-
 ## Definition
 
 La extracción de modelos implica consultar la API de un modelo de aprendizaje automático objetivo para inferir su estructura interna, pesos o límites de decisión. Los atacantes utilizan estas consultas para construir un modelo sustituto que replique el comportamiento del original.

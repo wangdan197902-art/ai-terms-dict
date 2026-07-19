@@ -1,23 +1,25 @@
 ---
-title: "Mezipaměť"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Mezipaměť
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /cs/terms/caching/
-date: "2026-07-18T15:45:56.271181Z"
-lastmod: "2026-07-18T17:15:09.108552Z"
+slug: caching
+date: '2026-07-18T15:45:56.271181Z'
+lastmod: '2026-07-18T17:15:09.108552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Mezipaměť je technika ukládání často přistupovaných dat do dočasné vrstvy vysokorychlostního úložiště za účelem snížení latence a snížení zátěže primárních zdrojů dat."
+source: agnes_llm
+status: published
+language: cs
+description: Mezipaměť je technika ukládání často přistupovaných dat do dočasné vrstvy
+  vysokorychlostního úložiště za účelem snížení latence a snížení zátěže primárních
+  zdrojů dat.
 ---
-
 ## Definition
 
 V inženýrství AI optimalizuje mezipaměť výkon tím, že uchovává nedávné nebo časté výsledky dotazů, predikce modelů nebo mezivýpočty v rychlé paměti (např. RAM). To snižuje potřebu drahých operací čtení/zápisu do primárního úložiště nebo opakovaných výpočtů, což vede k rychlejší odezvě systému.

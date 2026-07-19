@@ -1,23 +1,23 @@
 ---
-title: "Ottimale"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Ottimale
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /it/terms/optimal/
-date: "2026-07-18T15:27:34.966748Z"
-lastmod: "2026-07-18T17:15:08.571315Z"
+slug: optimal
+date: '2026-07-18T15:27:34.966748Z'
+lastmod: '2026-07-18T17:15:08.571315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Ottimale si riferisce alla migliore soluzione o azione possibile entro un dato insieme di vincoli, massimizzando le ricompense o minimizzando i costi."
+source: agnes_llm
+status: published
+language: it
+description: Ottimale si riferisce alla migliore soluzione o azione possibile entro
+  un dato insieme di vincoli, massimizzando le ricompense o minimizzando i costi.
 ---
-
 ## Definition
 
 Nell'IA e nella teoria dell'ottimizzazione, una soluzione ottimale è quella che raggiunge la più alta metrica di prestazione possibile, come la massima ricompensa nell'apprendimento per rinforzo o l'errore minimo nella regressione. Trovare...

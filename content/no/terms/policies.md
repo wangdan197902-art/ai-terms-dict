@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /no/terms/policies/
 date: "2026-07-18T15:28:48.526569Z"
 lastmod: "2026-07-18T16:38:06.943239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En samling retningslinjer, regler eller protokoller etablert av en organisasjon for å styre atferd, beslutningstaking og operative standarder."
 ---
-
 ## Definition
 
 I konteksten av kunstig intelligens og teknologistyring refererer retningslinjer til formaliserte rammeverk som dikterer hvordan AI-systemer skal utvikles, distribueres og overvåkes. Disse dokumentene definerer rammebetingelsene for etisk og sikker bruk av teknologi.

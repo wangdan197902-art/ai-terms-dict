@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /he/terms/prompt_engineering/
 date: "2026-07-18T15:22:12.340835Z"
 lastmod: "2026-07-18T17:15:09.469606Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "התהליך של עיצוב ואופטימיזציה של טקסטים קלט כדי להנחות מודלים שפה גדולים (LLMs) לתוצאות הרצויות."
 ---
-
 ## Definition
 
 הנדסת הנחיות כוללת ניסוח קלטים ספציפיים, המכונים 'הנחיות' (Prompts), כדי להפיק תגובות מדויקות, רלוונטיות ובעלות איכות גבוהה ממודלי בינה מלאכותית יוצרת. הדבר דורש הבנה כיצד המודלים מפרשים את הקשר.

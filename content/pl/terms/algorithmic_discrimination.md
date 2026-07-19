@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /pl/terms/algorithmic_discrimination/
 date: "2026-07-18T15:39:31.577598Z"
 lastmod: "2026-07-18T17:15:08.843477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dyskryminacja algorytmiczna występuje, gdy zautomatyzowane systemy generują niesprawiedliwe lub stronnicze wyniki, które dyskryminują konkretne grupy ze względu na chronione cechy."
 ---
-
 ## Definition
 
 Zjawisko to powstaje, gdy modele sztucznej inteligencji nieumyślnie lub systematycznie traktują osoby różnie ze względu na rasę, płeć, wiek lub inne wrażliwe atrybuty. Często wynika to ze stronniczych danych treningowych lub projektów algorytmów.

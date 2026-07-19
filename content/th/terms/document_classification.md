@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /th/terms/document_classification/
 date: "2026-07-18T15:51:15.443234Z"
 lastmod: "2026-07-18T16:38:07.600438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กระบวนการจัดหมวดหมู่เอกสารข้อความเข้าในกลุ่มที่กำหนดไว้ล่วงหน้า โดยพิจารณาจากเนื้อหาภายในเอกสารนั้น"
 ---
-
 ## Definition
 
 การจัดประเภทเอกสารเป็นงานพื้นฐานด้านการประมวลผลภาษาธรรมชาติ (NLP) ซึ่งอัลกอริทึมจะทำหน้าที่กำหนดป้ายกำกับ (labels) ให้กับข้อมูลข้อความที่ไม่มีโครงสร้าง (unstructured text data) กระบวนการนี้เกี่ยวข้องกับการสกัดคุณลักษณะ (features) จากเอกสารและแมปค่าเหล่านั้นเข้ากับหมวดหมู่ที่กำหนด

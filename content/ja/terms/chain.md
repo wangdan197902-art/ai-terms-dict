@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /ja/terms/chain/
 date: "2026-07-18T11:07:18.945767Z"
 lastmod: "2026-07-18T11:44:45.075721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "チェーンとは、複雑なタスクを達成するためにデータを順次処理する、接続されたステップまたはモジュールのシーケンスです。"
 ---
-
 ## Definition
 
 AIアプリケーション開発において、チェーンは複数のコンポーネント（LLM呼び出し、パーサー、外部ツールなど）がリンクされた線形または有向グラフ構造を指します。データは1つのコンポーネントから次のコンポーネントへと流れていきます。

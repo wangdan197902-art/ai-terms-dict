@@ -1,23 +1,25 @@
 ---
-title: "Sam3"
-term_id: "sam3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "model_versions", "unclear_reference"]
+title: Sam3
+term_id: sam3
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Model Versions
+- Unclear Reference
 difficulty: 3
 weight: 1
-slug: "sam3"
-aliases:
-  - /de/terms/sam3/
-date: "2026-07-18T11:32:35.915912Z"
-lastmod: "2026-07-18T11:44:44.983235Z"
+slug: sam3
+date: '2026-07-18T11:32:35.915912Z'
+lastmod: '2026-07-18T11:44:44.983235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Sam3 bezieht sich wahrscheinlich auf eine bestimmte Version oder Variante eines Segmentierungsmodells oder KI-Tools, möglicherweise im Zusammenhang mit Iterationen des Segment Anything Model oder eine"
+source: agnes_llm
+status: published
+language: de
+description: Sam3 bezieht sich wahrscheinlich auf eine bestimmte Version oder Variante
+  eines Segmentierungsmodells oder KI-Tools, möglicherweise im Zusammenhang mit Iterationen
+  des Segment Anything Model oder eine
 ---
-
 ## Definition
 
 Sam3 ist kein allgemein anerkannter öffentlicher KI-Begriff wie SAM (Segment Anything Model). Es könnte sich um eine Drittanbieter-Iteration, einen Tippfehler für SAM 2 oder ein spezifisches internes Tool innerhalb der KI-Abteilung eines Unternehmens handeln

@@ -1,23 +1,22 @@
 ---
-title: "Reinforcement Learning (การเรียนรู้แบบเสริมแรง)"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Reinforcement Learning (การเรียนรู้แบบเสริมแรง)
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /th/terms/reinforcement_learning/
-date: "2026-07-18T15:28:45.090679Z"
-lastmod: "2026-07-18T16:38:07.547162Z"
+slug: reinforcement_learning
+date: '2026-07-18T15:28:45.090679Z'
+lastmod: '2026-07-18T16:38:07.547162Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเรียนรู้แบบเสริมแรงเป็นประเภทหนึ่งของแมชชีนเลิร์นนิงที่เอเจนต์เรียนรู้ที่จะตัดสินใจโดยการโต้ตอบกับสภาพแวดล้อมเพื่อเพิ่มรางวัลสูงสุด"
+source: agnes_llm
+status: published
+language: th
+description: การเรียนรู้แบบเสริมแรงเป็นประเภทหนึ่งของแมชชีนเลิร์นนิงที่เอเจนต์เรียนรู้ที่จะตัดสินใจโดยการโต้ตอบกับสภาพแวดล้อมเพื่อเพิ่มรางวัลสูงสุด
 ---
-
 ## Definition
 
 การเรียนรู้แบบเสริมแรง (RL) เป็นสาขาหนึ่งของแมชชีนเลิร์นนิงที่มุ่งเน้นไปที่วิธีการที่เอเจนต์อัจฉริยะควรดำเนินการในสภาพแวดล้อมเพื่อเพิ่มมูลค่าของรางวัลสะสมให้มากที่สุด ต่างจากการเรียนรู้ภายใต้การดูแล (Supervised Learning) ที่ใช้ข้อมูลที่มีป้ายกำกับ RL อาศัยการลองผิดลองถูกเพื่อหาแนวทางที่ดีที่สุด

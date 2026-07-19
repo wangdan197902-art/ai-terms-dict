@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /ro/terms/langevin/
 date: "2026-07-18T15:26:31.608517Z"
 lastmod: "2026-07-18T17:15:09.596679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Langevin se referă la ecuații diferențiale stochastice, în special dinamica Langevin, utilizate pentru eșantionarea distribuțiilor de probabilitate simulând mișcarea fizică cu frecare și zgomot."
 ---
-
 ## Definition
 
 Dinamica Langevin incorporă zgomot aleatoriu și forțe de amortizare pentru a explora eficient peisajele energetice. În AI, este utilizată principal în metode de eșantionare precum Monte Carlo Hamiltonian sau Gradient Stohastic Langevin, facilitând explorarea spațiilor de parametri complecși și evitarea minimelelor locale în optimizare și inferență bayesiană.

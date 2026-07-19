@@ -1,23 +1,24 @@
 ---
-title: "Caching"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caching
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /da/terms/caching/
-date: "2026-07-18T15:44:52.663810Z"
-lastmod: "2026-07-18T17:15:09.267037Z"
+slug: caching
+date: '2026-07-18T15:44:52.663810Z'
+lastmod: '2026-07-18T17:15:09.267037Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Caching er en teknik til lagring af ofte tilgåede data i et midlertidigt, højhastigheds-lag for at reducere latens og mindske belastningen på primære datakilder."
+source: agnes_llm
+status: published
+language: da
+description: Caching er en teknik til lagring af ofte tilgåede data i et midlertidigt,
+  højhastigheds-lag for at reducere latens og mindske belastningen på primære datakilder.
 ---
-
 ## Definition
 
 Inden for AI-ingeniørkunst optimerer caching ydeevnen ved at holde nylige eller hyppige forespørgselsresultater, modelforudsigelser eller mellemregninger i hurtigt hukommelse (f.eks. RAM). Dette reducerer behovet for dyre beregninger eller databaseopslag, hvilket accelererer svar tid.

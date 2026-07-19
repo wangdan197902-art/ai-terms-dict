@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /ro/terms/human_centered_ai/
 date: "2026-07-18T16:03:21.207638Z"
 lastmod: "2026-07-18T17:15:09.666010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare a proiectării și dezvoltării AI care prioritizează valorile, nevoile și bunăstarea umană pe întregul ciclu de viață al sistemului."
 ---
-
 ## Definition
 
 AI-ul centrat pe om este o filozofie de design care plasează oamenii în centrul dezvoltării inteligenței artificiale. Subliniază crearea de sisteme care sunt transparente, corecte și benefice pentru societate, în loc să se concentreze exclusiv pe performanța tehnică.

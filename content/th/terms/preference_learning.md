@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้ความชอบ"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: การเรียนรู้ความชอบ
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /th/terms/preference_learning/
-date: "2026-07-18T16:11:17.860638Z"
-lastmod: "2026-07-18T16:38:07.643272Z"
+slug: preference_learning
+date: '2026-07-18T16:11:17.860638Z'
+lastmod: '2026-07-18T16:38:07.643272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่ฝึกโมเดลให้ปรับผลลัพธ์ให้สอดคล้องกับความชอบของมนุษย์โดยใช้ข้อเสนอแนะเชิงเปรียบเทียบ"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่ฝึกโมเดลให้ปรับผลลัพธ์ให้สอดคล้องกับความชอบของมนุษย์โดยใช้ข้อเสนอแนะเชิงเปรียบเทียบ
 ---
-
 ## Definition
 
 การเรียนรู้ความชอบมุ่งเน้นการสอนโมเดลให้แยกแยะระหว่างผลลัพธ์ที่ดีและไม่ดีโดยอิงจากการตัดสินของมนุษย์ แทนที่จะใช้ป้ายกำกับสัมบูรณ์ กระบวนการนี้มักเกี่ยวข้องกับการรวบรวมคู่ของคำตอบหรือผลลัพธ์ แล้วให้มนุษย์ระบุตัวเลือกที่ชอบมากกว่า เพื่อสร้างฟังก์ชันรางวัลที่สะท้อนความชอบของมนุษย์ได้อย่างแม่นยำ

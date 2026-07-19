@@ -1,23 +1,24 @@
 ---
-title: "Antialiasing prin învățare profundă"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: Antialiasing prin învățare profundă
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /ro/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T15:53:40.460295Z"
-lastmod: "2026-07-18T17:15:09.646476Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T15:53:40.460295Z'
+lastmod: '2026-07-18T17:15:09.646476Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Tehnici care utilizează rețele neuronale pentru a reduce artefactele vizuale, cum ar fi marginile zimțate, în imaginile randate sau caracteristicile reduse la rezoluție."
+source: agnes_llm
+status: published
+language: ro
+description: Tehnici care utilizează rețele neuronale pentru a reduce artefactele
+  vizuale, cum ar fi marginile zimțate, în imaginile randate sau caracteristicile
+  reduse la rezoluție.
 ---
-
 ## Definition
 
 Antialiasing-ul prin învățare profundă se referă la metodele care folosesc rețele neuronale pentru a mitiga artefactele de aliasing, care apar când semnalele de înaltă frecvență sunt eșantionate la rate insuficiente. În grafica pe calculator,

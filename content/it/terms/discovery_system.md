@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /it/terms/discovery_system/
 date: "2026-07-18T15:57:04.558100Z"
 lastmod: "2026-07-18T17:15:08.620310Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un framework automatizzato o un processo algoritmico progettato per identificare, esplorare ed valutare potenziali soluzioni, pattern o ipotesi all'interno di un ampio spazio di ricerca."
 ---
-
 ## Definition
 
 Un sistema di scoperta è un framework computazionale mirato ad accelerare le scoperte scientifiche o analitiche automatizzando l'esplorazione di vasti spazi di dati. A differenza dell'ottimizzazione tradizionale, che seleziona tra opzioni note, questi sistemi esplorano attivamente nuove possibilità.

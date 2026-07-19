@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /de/terms/data_poisoning/
 date: "2026-07-18T11:09:31.371395Z"
 lastmod: "2026-07-18T11:44:44.923629Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Datenvergiftung ist ein Sicherheitsangriff, bei dem böswillige Akteure korrupte oder irreführende Daten in einen Trainingsdatensatz einschleusen, um die Modellleistung zu verschlechtern."
 ---
-
 ## Definition
 
 Diese adversarische Technik zielt darauf ab, die Integrität von Machine-Learning-Modellen zu kompromittieren, indem die Trainingsdaten verändert werden. Durch das Einführen subtiler Fehler oder verzerrter Beispiele können Angreifer dazu führen, dass das Modell 

@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /de/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T11:10:01.096957Z"
 lastmod: "2026-07-18T11:44:44.925748Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Datensatz, der Originalsätze und ihre komprimierten Versionen enthält, um Modelle auf Informationserhaltung zu trainieren."
 ---
-
 ## Definition
 
 Satzkompessionsdatensätze bestehen aus Paaren, bei denen der Zielsatz eine verkürzte Version des Ausgangssatzes ist, die die Kernbedeutung behält, während redundante Informationen entfernt werden. Diese Datensätze werden häufig verwendet.

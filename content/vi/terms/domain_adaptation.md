@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /vi/terms/domain_adaptation/
 date: "2026-07-18T15:50:20.327041Z"
 lastmod: "2026-07-18T16:38:07.751356Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp học máy cải thiện hiệu suất mô hình trên miền đích bằng cách tận dụng kiến thức từ miền nguồn."
 ---
-
 ## Definition
 
 Thích ứng miền giải quyết thách thức khi dữ liệu huấn luyện và kiểm thử đến từ các phân phối khác nhau. Bằng cách căn chỉnh các biểu diễn đặc trưng giữa một miền nguồn có nhãn và miền đích không có nhãn hoặc thưa thớt nhãn.

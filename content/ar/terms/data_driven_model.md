@@ -1,23 +1,24 @@
 ---
-title: "النموذج القائم على البيانات"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: النموذج القائم على البيانات
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /ar/terms/data_driven_model/
-date: "2026-07-18T15:51:32.193327Z"
-lastmod: "2026-07-18T17:15:08.490502Z"
+slug: data_driven_model
+date: '2026-07-18T15:51:32.193327Z'
+lastmod: '2026-07-18T17:15:08.490502Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج حاسوبي يتم تعلم معلماته وهيكله مباشرة من البيانات التجريبية بدلاً من البرمجة الصريحة."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج حاسوبي يتم تعلم معلماته وهيكله مباشرة من البيانات التجريبية بدلاً
+  من البرمجة الصريحة.
 ---
-
 ## Definition
 
 النموذج القائم على البيانات هو نوع من أنظمة الذكاء الاصطناعي حيث تظهر السلوكيات والتنبؤات من الأنماط المحددة داخل البيانات التاريخية، بدلاً من أن تكون محددة بقواعد ثابتة أو برمجة صريحة، مما يسمح للنموذج بالتكيف مع تعقيدات العالم الحقيقي.

@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /hu/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:16:03.814462Z"
 lastmod: "2026-07-18T17:15:09.819277Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A nyílt forráskódú AI olyan mesterséges intelligencia szoftvereket, modelleket és eszközöket jelent, amelyek forráskódja nyilvánosan elérhető ellenőrzésre, módosításra és terjesztésre."
 ---
-
 ## Definition
 
 Ez a fogalom magában foglalja az AI technológiák ökoszisztémáját, amelyeket olyan licenc alatt tettek közzé, amelyek lehetővé teszik az alapvető kód ingyenes hozzáférését. Elősegíti a transzparenciát, az együttműködést és az innovációt, mivel lehetővé teszi a fejlesztők számára, hogy átvizsgálják, testreszabják és továbbfejlesszék a meglévő megoldásokat.

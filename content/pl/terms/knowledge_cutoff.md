@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /pl/terms/knowledge_cutoff/
 date: "2026-07-18T16:02:35.594412Z"
 lastmod: "2026-07-18T17:15:08.888738Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Ograniczenie wiedzy to konkretna data, po której model językowy nie był trenowany i dlatego nie posiada informacji o wydarzeniach mających miejsce później."
 ---
-
 ## Definition
 
 Data ograniczenia wiedzy definiuje czasowy zakres danych treningowych modelu językowego. Jakiekolwiek informacje, wydarzenia lub rozwój zdarzeń mających miejsce po tej dacie są generalnie nieznane modelowi.

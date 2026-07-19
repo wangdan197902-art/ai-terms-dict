@@ -1,23 +1,24 @@
 ---
-title: "كشف الشذوذ"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: كشف الشذوذ
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /ar/terms/anomaly_detection/
-date: "2026-07-18T15:44:08.434202Z"
-lastmod: "2026-07-18T17:15:08.474990Z"
+slug: anomaly_detection
+date: '2026-07-18T15:44:08.434202Z'
+lastmod: '2026-07-18T17:15:08.474990Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تحديد العناصر أو الأحداث أو الملاحظات النادرة التي تنحرف بشكل كبير عن غالبية البيانات."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تحديد العناصر أو الأحداث أو الملاحظات النادرة التي تنحرف بشكل كبير
+  عن غالبية البيانات.
 ---
-
 ## Definition
 
 كشف الشذوذ، المعروف أيضاً بكشف القيم المتطرفة، يتضمن تحليل البيانات للعثور على أنماط لا تتوافق مع السلوك المتوقع. يُستخدم على نطاق واسع في الأمن السيبراني، وكشف الاحتيال، وصيانة الأنظمة.

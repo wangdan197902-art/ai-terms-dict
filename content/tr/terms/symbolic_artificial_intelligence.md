@@ -1,23 +1,24 @@
 ---
-title: "Sembolik Yapay Zeka"
-term_id: "symbolic_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_paradigms", "logic"]
+title: Sembolik Yapay Zeka
+term_id: symbolic_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Paradigms
+- logic
 difficulty: 3
 weight: 1
-slug: "symbolic_artificial_intelligence"
-aliases:
-  - /tr/terms/symbolic_artificial_intelligence/
-date: "2026-07-18T16:16:20.975537Z"
-lastmod: "2026-07-18T16:38:07.370608Z"
+slug: symbolic_artificial_intelligence
+date: '2026-07-18T16:16:20.975537Z'
+lastmod: '2026-07-18T16:38:07.370608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sembolik yapay zeka, karmaşık görevleri arama ve akıl yürütme yoluyla çözmek için problemlerin yüksek düzeyli sembolik temsillerini kullanan bir yapay zeka yaklaşımıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Sembolik yapay zeka, karmaşık görevleri arama ve akıl yürütme yoluyla
+  çözmek için problemlerin yüksek düzeyli sembolik temsillerini kullanan bir yapay
+  zeka yaklaşımıdır.
 ---
-
 ## Definition
 
 Sembolik yapay zeka, sıkça GOFAI (Eski Usul İyi Yapay Zeka) olarak adlandırılır ve akıl yürütme ile problem çözme gerçekleştirmek için semboller ve kuralların manipülasyonuna dayanır. Bağlantısıcı (connectionist) yaklaşımların aksine, bu yöntem şeffaf ve yorumlanabilir karar mekanizmaları sağlar.

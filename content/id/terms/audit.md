@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /id/terms/audit/
 date: "2026-07-18T15:39:57.712176Z"
 lastmod: "2026-07-18T16:38:07.430273Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Evaluasi sistematis terhadap sistem AI untuk memastikan kepatuhan terhadap standar etika, persyaratan regulasi, dan tolok ukur kinerja."
 ---
-
 ## Definition
 
 Audit AI melibatkan tinjauan yang ketat dan terstruktur terhadap model pembelajaran mesin dan pipa penyebarannya. Audit ini menilai keadilan, transparansi, akuntabilitas, dan keamanan untuk mengidentifikasi potensi bias.

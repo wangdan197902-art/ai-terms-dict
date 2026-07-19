@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /de/terms/weak_artificial_intelligence/
 date: "2026-07-18T11:38:05.731050Z"
 lastmod: "2026-07-18T11:44:44.998864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "KI, die für die Ausführung spezifischer Aufgaben in einem begrenzten Kontext entwickelt wurde, ohne allgemeine kognitive Fähigkeiten zu besitzen."
 ---
-
 ## Definition
 
 Schwache künstliche Intelligenz, auch als schmale KI bekannt, bezeichnet Systeme, die darauf ausgelegt sind, bestimmte Probleme zu lösen oder spezifische Aufgaben auszuführen, wie z. B. Gesichtserkennung oder Sprachübersetzung. Im Gegensatz zu s

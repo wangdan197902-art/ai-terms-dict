@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /ja/terms/mechanistic_interpretability/
 date: "2026-07-18T11:23:35.898810Z"
 lastmod: "2026-07-18T11:44:45.121257Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルの入出力動作だけでなく、内部構成要素やメカニズムを解析することでAIモデルの動作原理を理解しようとするアプローチ。"
 ---
-
 ## Definition
 
 メカニスティック・インタープリタビリティは、ニューラルネットワークを逆工学的手法で解析し、個々のニューロン、重み、回路レベルで特定の機能がどのように計算されているかを理解することに焦点を当てています。単に入力と出力の相関を見るのではなく、モデル内部の因果関係やアルゴリズム的な構造を可視化し、透明性を高めることを目指します。

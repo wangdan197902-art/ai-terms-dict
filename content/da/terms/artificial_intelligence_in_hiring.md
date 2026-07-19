@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /da/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:41:51.313302Z"
 lastmod: "2026-07-18T17:15:09.260610Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brug af AI-værktøjer til at optimere rekruteringsprocesser, herunder gennemgang af ansøgninger, kandidatmatchning og analyse af interviews."
 ---
-
 ## Definition
 
 AI i rekruttering udnytter algoritmer til at automatisere og forbedre forskellige stadier i rekruteringslivscyklussen. Værktøjerne analyserer CV'er for nøgleordsrelevans, vurderer kandidatens egnethed gennem prediktiv modellering og kan endda analysere stemme- og ansigtsudtryk under videointerviews for at identificere potentielle lederegenskaber eller kulturfit.

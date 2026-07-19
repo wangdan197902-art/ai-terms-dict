@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /pt/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T14:50:04.823678Z"
 lastmod: "2026-07-18T15:51:59.463696Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma dinâmica competitiva na qual nações ou organizações desenvolvem rapidamente capacidades de IA para obter superioridade estratégica."
 ---
-
 ## Definition
 
 A corrida armamentista de IA refere-se à intensa competição entre países, corporações e instituições de pesquisa para alcançar o domínio nas tecnologias de inteligência artificial. Essa rivalidade impulsiona a inovação rápida

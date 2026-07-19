@@ -7,8 +7,6 @@ tags: ["scaling", "alignment", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v4"
-aliases:
-  - /ar/terms/deepseek_v4/
 date: "2026-07-18T15:53:19.810450Z"
 lastmod: "2026-07-18T17:15:08.495536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ديب سيك V4 هو تكرار مفاهيمي أو لاحق في سلالة ديب سيك، ويمثل مزيداً من التقدم في توسيع نطاق النموذج والتكامل متعدد الوسائط."
 ---
-
 ## Definition
 
 بصفته خلفاً للإصدارات السابقة، يشير ديب سيك V4 إلى استمرار التطور في سلسلة نماذج DeepSeek، مع التركيز على تحسين قابلية التوسع والمتانة. قد تختلف التفاصيل العامة المحددة اعتماداً على

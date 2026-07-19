@@ -1,23 +1,24 @@
 ---
-title: "Διάχυση"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: Διάχυση
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /el/terms/diffusion/
-date: "2026-07-18T15:24:30.310577Z"
-lastmod: "2026-07-18T17:15:09.842232Z"
+slug: diffusion
+date: '2026-07-18T15:24:30.310577Z'
+lastmod: '2026-07-18T17:15:09.842232Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική γεννητικού μοντελοποίησης που δημιουργεί δεδομένα αντιστρέφοντας μια σταδιακή διαδικασία θορύβου για την ανακατασκευή καθαρών δειγμάτων."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική γεννητικού μοντελοποίησης που δημιουργεί δεδομένα αντιστρέφοντας
+  μια σταδιακή διαδικασία θορύβου για την ανακατασκευή καθαρών δειγμάτων.
 ---
-
 ## Definition
 
 Τα μοντέλα διάχυσης είναι μια κατηγορία γεννητικής ΤΝ που μαθαίνουν να αντιστρέφουν μια στοχαστική διαδικασία προσθήκης θορύβου στα δεδομένα. Εκπαιδεύοντας ένα νευρωνικό δίκτυο να προβλέπει και να αφαιρεί αυτόν τον θόρυβο βήμα προς βήμα, μπορούν να γεννήσουν υψηλής ποιότητας δεδομένα.

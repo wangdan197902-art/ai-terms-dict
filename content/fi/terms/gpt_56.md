@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /fi/terms/gpt_56/
 date: "2026-07-18T15:58:52.808682Z"
 lastmod: "2026-07-18T17:15:09.413467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Hypoteettinen tai tuleva versio OpenAI:n Generative Pre-trained Transformer -sarjasta, joka edustaa nykyisiä GPT-malleja kehittyneempää tasoa."
 ---
-
 ## Definition
 
 GPT-5.6 viittaa spekulatiiviseen tai tulevaan versioon OpenAI:n suurten kielimallien (LLM) kehityslinjassa. Vaikka tarkat yksityiskohdat voivat vaihdella kehitysaikataulusta riippuen, tällaiset iteroinnit tyypillisesti edustavat tekoälyn kykyjen laajentumista ja mallien suorituskyvyn parantumista aiempiin versioihin verrattuna.

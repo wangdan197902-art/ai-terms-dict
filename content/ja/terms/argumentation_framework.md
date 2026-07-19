@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /ja/terms/argumentation_framework/
 date: "2026-07-18T11:03:52.514267Z"
 lastmod: "2026-07-18T11:44:45.067703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステム内で競合する主張や決定間の対立をモデル化し解決するための形式的構造。"
 ---
-
 ## Definition
 
 議論フレームワークは、議論、攻撃、防御を表現するための数学的基盤を提供します。AIエンジニアリングにおいて、これらはシステムが重み付けを行い、透明性が高く正当化可能な意思決定を行うのを支援します。

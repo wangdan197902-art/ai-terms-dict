@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /ko/terms/local/
 date: "2026-07-18T15:26:28.689547Z"
 lastmod: "2026-07-18T16:38:06.777730Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "중앙 집중식 클라우드 환경이 아닌 특정 장치에서 데이터를 처리하거나 저장하는 것을 의미합니다."
 ---
-
 ## Definition
 
 인공지능에서 '로컬'은 일반적으로 원격 서버에 의존하지 않고 노트북이나 스마트폰 등 사용자의 하드웨어에서 직접 수행되는 작업을 지칭합니다. 이 접근 방식은 데이터 프라이버시를 강화하고 지연 시간을 줄입니다.

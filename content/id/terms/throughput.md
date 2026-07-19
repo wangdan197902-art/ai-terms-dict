@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /id/terms/throughput/
 date: "2026-07-18T16:11:37.333046Z"
 lastmod: "2026-07-18T16:38:07.515412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Throughput mengukur jumlah data atau permintaan yang dapat diproses secara sukses oleh sistem AI dalam periode waktu tertentu."
 ---
-
 ## Definition
 
 Dalam rekayasa AI, throughput adalah metrik kinerja kritis yang menunjukkan kapasitas sistem. Ini sering diukur dalam token per detik untuk LLM, gambar per detik untuk model visi komputer, atau kueri per detik untuk...

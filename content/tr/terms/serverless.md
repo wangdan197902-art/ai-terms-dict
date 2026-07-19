@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /tr/terms/serverless/
 date: "2026-07-18T16:13:56.999861Z"
 lastmod: "2026-07-18T16:38:07.364880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bulut bilişimde, makine kaynaklarının tahsisini kullanıcının yerine sağlayıcının dinamik olarak yönettiği bir yürütme modeli."
 ---
-
 ## Definition
 
 Sunucusuz mimari, geliştiricilerin sunucu altyapısını yönetmeden uygulamalar oluşturmasını ve çalıştırmasını sağlar. Bulut sağlayıcısı, talebe göre kaynakları otomatik olarak ölçeklendirir ve kullanıcılar yalnızca kullanılan hesaplama süresi için ödeme yapar.

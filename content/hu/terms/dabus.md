@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /hu/terms/dabus/
 date: "2026-07-18T15:52:44.887327Z"
 lastmod: "2026-07-18T17:15:09.767253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A DABUS (Device for the Autonomous Bootstrapping of Unified Sentience) egy Stephen Thaler által létrehozott mesterséges intelligencia rendszer, amely állítólag autonóm módon talált fel technológiákat."
 ---
-
 ## Definition
 
 A DABUS egy speciális mesterséges neurális hálózat, amelyet arra terveztek, hogy közvetlen emberi beavatkozás nélkül új találmányokat generáljon. Jelentős jogi figyelmet kapott, amikor alkotója, Stephen Thaler megpróbálta

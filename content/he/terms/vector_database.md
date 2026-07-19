@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /he/terms/vector_database/
 date: "2026-07-18T15:31:58.343300Z"
 lastmod: "2026-07-18T17:15:09.490583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסד נתונים ייעודי המיועד לאחסון, אינדוקס ושאילתה של וקטורים רב-ממדיים המייצגים מאפייני נתונים."
 ---
-
 ## Definition
 
 מסדי נתונים וקטוריים מייעלים את האחסון והחילוץ של נתונים לא מבניים על ידי המרתם להטמעות מספריות (Embeddings). הם משתמשים באלגוריתמים כמו שכנים קרובים משוערים (ANN) כדי למצוא ביעילות דמיון בין וקטורים.

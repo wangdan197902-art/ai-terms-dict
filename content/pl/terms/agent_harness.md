@@ -1,23 +1,24 @@
 ---
-title: "Szkielet agenta"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Szkielet agenta
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /pl/terms/agent_harness/
-date: "2026-07-18T15:39:16.056284Z"
-lastmod: "2026-07-18T17:15:08.842796Z"
+slug: agent_harness
+date: '2026-07-18T15:39:16.056284Z'
+lastmod: '2026-07-18T17:15:08.842796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Szkielet agenta to warstwa infrastrukturalna lub framework zarządzający cyklem życia, komunikacją i przydzielaniem zasobów wielu agentom AI w ramach systemu."
+source: agnes_llm
+status: published
+language: pl
+description: Szkielet agenta to warstwa infrastrukturalna lub framework zarządzający
+  cyklem życia, komunikacją i przydzielaniem zasobów wielu agentom AI w ramach systemu.
 ---
-
 ## Definition
 
 Działa jako kręgosłup systemów wieloagentowych, dostarczając narzędzi do koordynacji, monitorowania i interakcji między agentami. Szkielet zapewnia efektywną pracę agentów bez wzajemnych zakłóceń.

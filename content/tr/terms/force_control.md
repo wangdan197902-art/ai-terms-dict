@@ -1,23 +1,24 @@
 ---
-title: "Kuvvet Kontrolü"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Kuvvet Kontrolü
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /tr/terms/force_control/
-date: "2026-07-18T15:53:59.581755Z"
-lastmod: "2026-07-18T16:38:07.310228Z"
+slug: force_control
+date: '2026-07-18T15:53:59.581755Z'
+lastmod: '2026-07-18T16:38:07.310228Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kuvvet kontrolü, robotların fiziksel görevler sırasında son etkiliyicisi ile çevresi arasındaki etkileşim kuvvetlerini düzenleyen bir robotik tekniktir."
+source: agnes_llm
+status: published
+language: tr
+description: Kuvvet kontrolü, robotların fiziksel görevler sırasında son etkiliyicisi
+  ile çevresi arasındaki etkileşim kuvvetlerini düzenleyen bir robotik tekniktir.
 ---
-
 ## Definition
 
 Kuvvet kontrolü, robotların sadece konumu değil, temas kuvvetini aktif olarak yöneterek montaj, cilalama veya kırılgan nesneleri kavrama gibi hassas operasyonlar gerçekleştirmesini sağlar. Saf pozisyon kontrolünden farklı olarak...

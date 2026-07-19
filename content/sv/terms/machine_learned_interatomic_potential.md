@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /sv/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:08:31.740041Z"
 lastmod: "2026-07-18T17:15:09.024471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En ML-baserad matematisk funktion som förutsäger krafter och energier mellan atomer, vilket fungerar som en ersättare för dyra kvantmekaniska beräkningar."
 ---
-
 ## Definition
 
 Dessa potentialer möjliggör molekylära dynamiksimuleringar med nästan kvantmekanisk noggrannhet men med klassisk beräkningshastighet. Genom att träna på högkvalitativ data från densitetsfunktionsteori (DFT) möjliggör de...

@@ -1,23 +1,24 @@
 ---
-title: "Testes"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testes
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /pt/terms/testing/
-date: "2026-07-18T14:47:01.752742Z"
-lastmod: "2026-07-18T15:51:59.455713Z"
+slug: testing
+date: '2026-07-18T14:47:01.752742Z'
+lastmod: '2026-07-18T15:51:59.455713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo sistemático de avaliar o desempenho e a confiabilidade de um modelo de IA em dados não vistos para garantir qualidade e segurança."
+source: agnes_llm
+status: published
+language: pt
+description: O processo sistemático de avaliar o desempenho e a confiabilidade de
+  um modelo de IA em dados não vistos para garantir qualidade e segurança.
 ---
-
 ## Definition
 
 Os testes na engenharia de IA envolvem a avaliação rigorosa dos modelos contra conjuntos de dados diversos para identificar vieses, erros e problemas de robustez. Isso inclui testes unitários para componentes de código, testes de integração e testes de sistema para validar o comportamento geral.

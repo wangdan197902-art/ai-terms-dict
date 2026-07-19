@@ -1,23 +1,23 @@
 ---
-title: "Test"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Test
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /ro/terms/test/
-date: "2026-07-18T15:30:38.524686Z"
-lastmod: "2026-07-18T17:15:09.605293Z"
+slug: test
+date: '2026-07-18T15:30:38.524686Z'
+lastmod: '2026-07-18T17:15:09.605293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Test se referă la faza de evaluare în care un model IA antrenat este evaluat pe date necunoscute pentru a măsura performanța."
+source: agnes_llm
+status: published
+language: ro
+description: Test se referă la faza de evaluare în care un model IA antrenat este
+  evaluat pe date necunoscute pentru a măsura performanța.
 ---
-
 ## Definition
 
 Setul de testare este o parte a datelor păstrate în afara procesului de antrenament pentru a evalua capacitatea de generalizare a modelului final. Spre deosebire de seturile de validare utilizate pentru ajustarea hiperparametrilor, setul de testare oferă o

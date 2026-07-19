@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /sv/terms/experiments/
 date: "2026-07-18T15:25:43.386788Z"
 lastmod: "2026-07-18T17:15:08.941549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Kontrollerade procedurer som genomförs för att testa hypoteser, utvärdera modellprestanda eller upptäcka nya AI-förmågor."
 ---
-
 ## Definition
 
 Experiment inom AI innebär systematisk testning av variabler för att förstå orsak-samband inom maskininlärningsmodeller. Dessa procedurer gör det möjligt för utvecklare att jämföra olika hyperparametrar, arkitekturer och träningsstrategier för att identifiera den bästa lösningen.

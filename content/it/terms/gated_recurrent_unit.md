@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /it/terms/gated_recurrent_unit/
 date: "2026-07-18T16:01:05.354938Z"
 lastmod: "2026-07-18T17:15:08.628441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un tipo di architettura di rete neurale ricorrente che utilizza meccanismi di gate per controllare il flusso di informazioni, fungendo da alternativa semplificata all'LSTM."
 ---
-
 ## Definition
 
 Un'Unità Ricorrente con Gate (GRU) è una cella specializzata di rete neurale ricorrente (RNN) progettata per catturare dipendenze a lungo termine nei dati sequenziali. Semplifica l'architettura della Memoria a Breve e Lungo Termine (LSTM) riducendo il numero di parametri e la complessità computazionale, mantenendo comunque un'elevata capacità di modellazione delle sequenze. Utilizza due gate principali: il gate di aggiornamento e il gate di reset.

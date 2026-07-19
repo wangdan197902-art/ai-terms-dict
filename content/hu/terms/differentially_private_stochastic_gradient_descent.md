@@ -1,23 +1,26 @@
 ---
-title: "Differenciálisan privát sztochasztikus gradiens leengedés"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Differenciálisan privát sztochasztikus gradiens leengedés
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /hu/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:56:37.109327Z"
-lastmod: "2026-07-18T17:15:09.776047Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:56:37.109327Z'
+lastmod: '2026-07-18T17:15:09.776047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy optimalizálási algoritmus, amely a szabványos SGD-t a gradiens vágással és zaj hozzáadásával módosítja, hogy a betanított modell megfeleljen a differenciális adatvédelmi korlátoknak."
+source: agnes_llm
+status: published
+language: hu
+description: Egy optimalizálási algoritmus, amely a szabványos SGD-t a gradiens vágással
+  és zaj hozzáadásával módosítja, hogy a betanított modell megfeleljen a differenciális
+  adatvédelmi korlátoknak.
 ---
-
 ## Definition
 
 A DP-SGD a Sztochasztikus Gradiens Leengedés (SGD) egy olyan változata, amelyet a betanítási adatok adatvédelmének védelmére terveztek. A módszer úgy működik, hogy levágja minden minta gradiensének hozzájárulását az érzékenység korlátozása érdekében, majd hozzáad egy Gauss-zajt.

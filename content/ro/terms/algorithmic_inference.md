@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /ro/terms/algorithmic_inference/
 date: "2026-07-18T15:43:25.148364Z"
 lastmod: "2026-07-18T17:15:09.626253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Inferența algoritmică este procesul prin care un model de învățare automată antrenat aplică tiparele învățate asupra unor date noi, necunoscute, pentru a face predicții sau decizii."
 ---
-
 ## Definition
 
 Cunoscută și sub numele de predicție sau scorare, inferența are loc după faza de antrenament a modelului. Algoritmul preia caracteristicile de intrare, le procesează prin structura sa internă (cum ar fi ponderile dintr-o rețea neurală) și generează un rezultat.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /he/terms/compute/
 date: "2026-07-18T15:49:28.063257Z"
 lastmod: "2026-07-18T17:15:09.521935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "חישוב מתייחס לכוח העיבוד והמשאבים המשמשים לביצוע אלגוריתמים וטיפול בנתונים במערכות בינה מלאכותית."
 ---
-
 ## Definition
 
 בבינה מלאכותית, חישוב מייצג את התשתית הבסיסית הנדרשת לאימון מודלים ולהרצת הסקה (Inference). הוא כולל רכיבי חומרה כמו מעבדים כלליים (CPUs), כרטיסי מסך גרפיים (GPUs) ומעבדים ייעודיים לטנזורים (TPUs), כמו גם תשתיות תוכנה וניהול משאבים.

@@ -1,23 +1,23 @@
 ---
-title: "행동 모델 학습"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: 행동 모델 학습
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /ko/terms/action_model_learning/
-date: "2026-07-18T15:39:56.055067Z"
-lastmod: "2026-07-18T16:38:06.805533Z"
+slug: action_model_learning
+date: '2026-07-18T15:39:56.055067Z'
+lastmod: '2026-07-18T16:38:06.805533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "에이전트가 자신의 행동이 환경에 미치는 영향을 관찰함으로써 환경의 역학을 학습하는 강화학습 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 에이전트가 자신의 행동이 환경에 미치는 영향을 관찰함으로써 환경의 역학을 학습하는 강화학습 기법입니다.
 ---
-
 ## Definition
 
 행동 모델 학습은 에이전트가 자신의 행동이 환경을 한 상태에서 다른 상태로 전환시키는 방식을 내부적으로 표현하는 과정을 포함합니다. 수동적인 관찰과 달리, 이 방법은 에이전트의 능동적인 상호작용을 통해 환경 모델을 구축합니다.

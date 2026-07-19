@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /tr/terms/data_poisoning/
 date: "2026-07-18T15:47:01.712027Z"
 lastmod: "2026-07-18T16:38:07.288912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Veri zehirlenmesi, kötü niyetli aktörlerin model performansını düşürmek için eğitim setine bozuk veya yanıltıcı veri enjekte ettiği bir güvenlik saldırısıdır."
 ---
-
 ## Definition
 
 Bu saldırgan teknik, eğitim verisini değiştirerek makine öğrenimi modellerinin bütünlüğünü compromize etmeyi amaçlar. İnce hatalar veya önyargılı örnekler ekleyerek saldırganlar modelin yanlış davranmasını sağlayabilir.

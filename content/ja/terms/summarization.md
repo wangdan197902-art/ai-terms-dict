@@ -1,23 +1,23 @@
 ---
-title: "要約"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: 要約
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /ja/terms/summarization/
-date: "2026-07-18T11:01:15.727400Z"
-lastmod: "2026-07-18T11:44:45.058119Z"
+slug: summarization
+date: '2026-07-18T11:01:15.727400Z'
+lastmod: '2026-07-18T11:44:45.058119Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "元のテキストの重要な情報を保持しつつ、より短く一貫性のある要約文を生成する自然言語処理（NLP）タスク。"
+source: agnes_llm
+status: published
+language: ja
+description: 元のテキストの重要な情報を保持しつつ、より短く一貫性のある要約文を生成する自然言語処理（NLP）タスク。
 ---
-
 ## Definition
 
 テキスト要約は、重要な意味を失うことなく、大量のテキストを短いバージョンに圧縮します。抽出型要約ではソースから重要な文を選択し、生成型要約では新しい文章を生成します。

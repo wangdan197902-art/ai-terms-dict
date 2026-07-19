@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /pt/terms/datasetsnli/
 date: "2026-07-18T14:56:21.545546Z"
 lastmod: "2026-07-18T15:51:59.480529Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Corpus Stanford de Inferência em Linguagem Natural, um grande conjunto de frases em inglês pareadas com rótulos de entalhe textual escritos por humanos."
 ---
-
 ## Definition
 
 O SNLI é um conjunto de dados de referência contendo mais de 500.000 pares de frases rotulados, anotados com três classes: entalhe, contradição e neutro. Foi criado para avançar a pesquisa em inferência em linguagem natural.

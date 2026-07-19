@@ -1,23 +1,24 @@
 ---
-title: "Tværgående validering"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Tværgående validering
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /da/terms/cross_validation/
-date: "2026-07-18T15:48:39.243330Z"
-lastmod: "2026-07-18T17:15:09.272821Z"
+slug: cross_validation
+date: '2026-07-18T15:48:39.243330Z'
+lastmod: '2026-07-18T17:15:09.272821Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En resamplingsprocedure, der bruges til at evaluere maskinlæringsmodeller på et begrænset datasæt ved at opdele data i delmængder til træning og test."
+source: agnes_llm
+status: published
+language: da
+description: En resamplingsprocedure, der bruges til at evaluere maskinlæringsmodeller
+  på et begrænset datasæt ved at opdele data i delmængder til træning og test.
 ---
-
 ## Definition
 
 Tværgående validering er en statistisk metode, der bruges til at estimere evnen hos maskinlæringsmodeller. Den mest almindelige form er k-fold tværgående validering, hvor data opdeles i k lige store dele...

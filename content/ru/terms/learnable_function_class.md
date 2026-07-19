@@ -1,23 +1,25 @@
 ---
-title: "Класс обучаемых функций"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Класс обучаемых функций
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /ru/terms/learnable_function_class/
-date: "2026-07-18T16:01:09.867891Z"
-lastmod: "2026-07-18T16:38:07.174167Z"
+slug: learnable_function_class
+date: '2026-07-18T16:01:09.867891Z'
+lastmod: '2026-07-18T16:38:07.174167Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Класс обучаемых функций — это множество математических функций, определяемых конкретной архитектурой модели и пространством параметров, которые алгоритм обучения может оптимизировать."
+source: agnes_llm
+status: published
+language: ru
+description: Класс обучаемых функций — это множество математических функций, определяемых
+  конкретной архитектурой модели и пространством параметров, которые алгоритм обучения
+  может оптимизировать.
 ---
-
 ## Definition
 
 В теории статистического обучения класс обучаемых функций представляет собой пространство гипотез, доступное алгоритму. Он определяет диапазон паттернов или отображений, которые модель потенциально может выявить.

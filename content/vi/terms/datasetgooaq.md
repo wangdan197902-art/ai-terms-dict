@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /vi/terms/datasetgooaq/
 date: "2026-07-18T15:47:44.323057Z"
 lastmod: "2026-07-18T16:38:07.744873Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu quy mô lớn chứa các truy vấn và phản hồi từ Google Answers, dùng để huấn luyện các mô hình truy xuất thông tin và hỏi đáp."
 ---
-
 ## Definition
 
 GooAQ là một bộ dữ liệu được tổng hợp từ dịch vụ Google Answers, bao gồm một bộ sưu tập khổng lồ các câu hỏi do người dùng gửi cùng với các câu trả lời chi tiết (thường là trả phí). Nó đóng vai trò là một nguồn tài nguyên quý giá để huấn luyện

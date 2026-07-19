@@ -1,23 +1,24 @@
 ---
-title: "Metode pembaruan bobot perkalian"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Metode pembaruan bobot perkalian
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /id/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:01:34.678375Z"
-lastmod: "2026-07-18T16:38:07.486162Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:01:34.678375Z'
+lastmod: '2026-07-18T16:38:07.486162Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Algoritma iteratif yang memperbarui bobot secara perkalian berdasarkan umpan balik kinerja untuk meminimalkan penyesalan."
+source: agnes_llm
+status: published
+language: id
+description: Algoritma iteratif yang memperbarui bobot secara perkalian berdasarkan
+  umpan balik kinerja untuk meminimalkan penyesalan.
 ---
-
 ## Definition
 
 Metode pembaruan bobot perkalian adalah algoritma pembelajaran daring fundamental yang digunakan untuk membuat keputusan dalam lingkungan yang tidak pasti. Metode ini mempertahankan sekumpulan bobot untuk berbagai strategi atau pakar, yang diperbarui secara eksponensial berdasarkan kinerja mereka.

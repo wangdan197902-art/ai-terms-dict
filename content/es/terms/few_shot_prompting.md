@@ -1,23 +1,25 @@
 ---
-title: "Inducción por Ejemplos (Few-Shot Prompting)"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Inducción por Ejemplos (Few-Shot Prompting)
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /es/terms/few_shot_prompting/
-date: "2026-07-18T10:30:29.634927Z"
-lastmod: "2026-07-18T11:44:44.762536Z"
+slug: few_shot_prompting
+date: '2026-07-18T10:30:29.634927Z'
+lastmod: '2026-07-18T11:44:44.762536Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La inducción por ejemplos es una técnica en la que se proporcionan a los LLM un pequeño número de ejemplos de entrada-salida dentro del prompt para guiar su comportamiento."
+source: agnes_llm
+status: published
+language: es
+description: La inducción por ejemplos es una técnica en la que se proporcionan a
+  los LLM un pequeño número de ejemplos de entrada-salida dentro del prompt para guiar
+  su comportamiento.
 ---
-
 ## Definition
 
 Este método aprovecha las capacidades de aprendizaje en contexto de los grandes modelos de lenguaje proporcionando algunos ejemplos ilustrativos directamente en el prompt. A diferencia del ajuste fino (fine-tuning), que requiere actualizar los pesos del modelo, esta técnica guía al modelo mediante el contexto textual inmediato, demostrándole el formato o el razonamiento deseado sin necesidad de reentrenamiento.

@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /en/terms/multilingual/
 date: "2026-07-18T10:08:08.378684Z"
 lastmod: "2026-07-18T11:44:44.702274Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Multilingual in AI refers to models capable of processing, understanding, or generating content in multiple natural languages."
 ---
-
 ## Definition
 
 Multilingual models are designed to handle diverse linguistic inputs without requiring separate models for each language. These systems typically utilize shared embeddings or cross-lingual alignment techniques to map different languages into a unified semantic space. This approach allows knowledge gained from high-resource languages to benefit low-resource ones through transfer learning. It significantly reduces the data requirements for training new languages and enables zero-shot or few-shot translation capabilities, making AI applications more accessible globally.

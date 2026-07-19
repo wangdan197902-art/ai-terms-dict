@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /nl/terms/kaos/
 date: "2026-07-18T16:01:18.448977Z"
 lastmod: "2026-07-18T17:15:08.757920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een intelligente agentframework ontworpen om complexe, gedistribueerde enterprise-omgevingen te beheren via beleidsgebaseerde automatisering."
 ---
-
 ## Definition
 
 KAoS is een intelligent agentframework dat is ontwikkeld om de complexiteit van grootschalige, gedistribueerde enterprisesystemen aan te pakken. Het maakt gebruik van een beleidsgebaseerde aanpak waarbij hoogwaardige beheerdoelen worden getransformeerd

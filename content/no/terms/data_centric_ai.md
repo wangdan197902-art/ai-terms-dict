@@ -1,23 +1,24 @@
 ---
-title: "Datasentrisk AI"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: Datasentrisk AI
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /no/terms/data_centric_ai/
-date: "2026-07-18T15:48:47.363352Z"
-lastmod: "2026-07-18T16:38:06.987010Z"
+slug: data_centric_ai
+date: '2026-07-18T15:48:47.363352Z'
+lastmod: '2026-07-18T16:38:06.987010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En tilnærming til AI-utvikling som prioriterer forbedring av kvaliteten og mengden av treningsdata fremfor endring av modellarkitekturer."
+source: agnes_llm
+status: published
+language: 'no'
+description: En tilnærming til AI-utvikling som prioriterer forbedring av kvaliteten
+  og mengden av treningsdata fremfor endring av modellarkitekturer.
 ---
-
 ## Definition
 
 Datasentrisk AI representerer et paradigmeskifte i utviklingen av kunstig intelligens, med fokus på systematisk å forbedre dataene som brukes til å trene modeller, snarere enn å kun optimalisere algoritmer eller hyperparametere. Dette innebærer en iterativ prosess der datakvalitet står sentralt.

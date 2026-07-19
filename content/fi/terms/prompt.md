@@ -1,23 +1,24 @@
 ---
-title: "Kehote"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Kehote
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /fi/terms/prompt/
-date: "2026-07-18T15:30:07.876418Z"
-lastmod: "2026-07-18T17:15:09.357537Z"
+slug: prompt
+date: '2026-07-18T15:30:07.876418Z'
+lastmod: '2026-07-18T17:15:09.357537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Generatiiviselle tekoälymallille annettu tekstinsyöte tai ohje, joka saa mallin tuottamaan tietyn vastauksen tai käyttäytymisen."
+source: agnes_llm
+status: published
+language: fi
+description: Generatiiviselle tekoälymallille annettu tekstinsyöte tai ohje, joka
+  saa mallin tuottamaan tietyn vastauksen tai käyttäytymisen.
 ---
-
 ## Definition
 
 Kehote toimii ensisijaisena rajapintana vuorovaikutuksessa suurten kielimallien (LLM) ja muiden generatiivisten tekoälyjärjestelmien kanssa. Se määrittelee kontekstin, sävyn ja rajoitukset mallin tulokselle. Tehokas kehotteen muotoilu on keskeistä halutun tuloksen saavuttamiseksi.

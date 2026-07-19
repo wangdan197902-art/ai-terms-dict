@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /he/terms/context_window/
 date: "2026-07-18T15:22:41.853562Z"
 lastmod: "2026-07-18T17:15:09.471059Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "כמות הטקסט או הסימונים (Tokens) המקסימלית שמודל שפה יכול לעבד ולשקול בו זמנית במהלך הסקה או אימון."
 ---
-
 ## Definition
 
 חלון ההקשר מגדיר את הגבול התפעולי של הזיכרון של מודל בינה מלאכותית לאינטראקציה בודדת. הוא קובע כמה מהיסטוריית השיחה הקודמת, טקסט מסמך או נתוני קלט המודל יכול להתמקד בהם.

@@ -1,23 +1,24 @@
 ---
-title: "Produto de Especialistas"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Produto de Especialistas
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /pt/terms/product_of_experts/
-date: "2026-07-18T15:18:06.179132Z"
-lastmod: "2026-07-18T15:51:59.524372Z"
+slug: product_of_experts
+date: '2026-07-18T15:18:06.179132Z'
+lastmod: '2026-07-18T15:51:59.524372Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um framework de modelagem probabilística onde a distribuição conjunta é formada pela multiplicação das saídas de vários modelos especialistas independentes."
+source: agnes_llm
+status: published
+language: pt
+description: Um framework de modelagem probabilística onde a distribuição conjunta
+  é formada pela multiplicação das saídas de vários modelos especialistas independentes.
 ---
-
 ## Definition
 
 O Produto de Especialistas (PoE) é um método para construir distribuições de probabilidade complexas combinando distribuições mais simples. Ao contrário da 'Mistura de Especialistas', que faz uma média das probabilidades, o PoE multiplica as

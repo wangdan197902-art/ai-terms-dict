@@ -1,23 +1,25 @@
 ---
-title: "Arpajaislippuhypoteesi"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: Arpajaislippuhypoteesi
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /fi/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:07:43.163467Z"
-lastmod: "2026-07-18T17:15:09.430561Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:07:43.163467Z'
+lastmod: '2026-07-18T17:15:09.430561Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Teoria, jonka mukaan tiheissä neuroverkoissa on pienempiä aliverkostoja, jotka pystyvät saavuttamaan alkuperäisen verkon tarkkuuden, kun niitä koulutetaan eristyksissä alustuksesta alkaen."
+source: agnes_llm
+status: published
+language: fi
+description: Teoria, jonka mukaan tiheissä neuroverkoissa on pienempiä aliverkostoja,
+  jotka pystyvät saavuttamaan alkuperäisen verkon tarkkuuden, kun niitä koulutetaan
+  eristyksissä alustuksesta alkaen.
 ---
-
 ## Definition
 
 Arpajaislippuhypoteesi ehdottaa, että suuresta satunnaisesti alustetusta neuroverkosta löytyy harva aliverkosto ('voittava lippu'), joka on hyvin alustettu koulutusta varten. Leikkaamalla (pruning) muut painot pois ja kouluttamalla jäljelle jäävä aliverkosto alusta alkaen, voidaan saavuttaa sama suorituskyky kuin alkuperäisessä tiheässä verkossa, mikä mahdollistaa tehokkaamman mallin.

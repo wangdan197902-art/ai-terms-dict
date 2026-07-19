@@ -1,23 +1,24 @@
 ---
-title: "Chunking"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Chunking
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /pt/terms/chunking/
-date: "2026-07-18T14:52:50.298430Z"
-lastmod: "2026-07-18T15:51:59.470862Z"
+slug: chunking
+date: '2026-07-18T14:52:50.298430Z'
+lastmod: '2026-07-18T15:51:59.470862Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Chunking é o processo de dividir grandes documentos ou fluxos de dados em segmentos menores e gerenciáveis para processamento ou indexação."
+source: agnes_llm
+status: published
+language: pt
+description: Chunking é o processo de dividir grandes documentos ou fluxos de dados
+  em segmentos menores e gerenciáveis para processamento ou indexação.
 ---
-
 ## Definition
 
 O Chunking é uma etapa crítica de pré-processamento na Geração Aumentada por Recuperação (RAG) e em outros pipelines de PLN. Envolve dividir o texto em unidades de tamanho fixo ou semânticas (chunks) para caber dentro da contex

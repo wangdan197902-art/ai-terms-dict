@@ -7,8 +7,6 @@ tags: ["Prompting", "LLM Applications", "NLP"]
 difficulty: 2
 weight: 1
 slug: "zero_shot_prompting"
-aliases:
-  - /id/terms/zero_shot_prompting/
 date: "2026-07-18T16:13:46.637860Z"
 lastmod: "2026-07-18T16:38:07.520663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah teknik di mana model bahasa besar melakukan tugas tanpa contoh sebelumnya atau penyetelan halus, hanya mengandalkan instruksi bahasa alami."
 ---
-
 ## Definition
 
 Prompting zero-shot melibatkan permintaan kepada model bahasa yang telah dilatih sebelumnya untuk menyelesaikan tugas secara langsung melalui prompt teks, tanpa memberikan contoh few-shot atau melakukan penyetelan tambahan. Mod...

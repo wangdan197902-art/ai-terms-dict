@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /nl/terms/smart_object/
 date: "2026-07-18T16:17:06.631971Z"
 lastmod: "2026-07-18T17:15:08.787673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een fysiek entiteit uitgerust met sensoren, actuatoren en connectiviteit om gegevens te verzamelen en intelligent te interageren met zijn omgeving."
 ---
-
 ## Definition
 
 Slimme objecten zijn componenten van het Internet of Things (IoT) die unieke identificatoren bezitten en het vermogen hebben om gegevens over een netwerk over te dragen zonder directe mens-tot-mens of mens-tot-computer interactie.

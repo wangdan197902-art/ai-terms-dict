@@ -1,23 +1,24 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /he/terms/pyannote/
-date: "2026-07-18T16:20:55.241867Z"
-lastmod: "2026-07-18T17:15:09.576830Z"
+slug: pyannote
+date: '2026-07-18T16:20:55.241867Z'
+lastmod: '2026-07-18T17:15:09.576830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "Pyannote היא ספריית Python המספקת פתרונות מתקדמים למשימות דיאריזציה של דוברים וניתוח קטעי אודיו."
+source: agnes_llm
+status: published
+language: he
+description: Pyannote היא ספריית Python המספקת פתרונות מתקדמים למשימות דיאריזציה של
+  דוברים וניתוח קטעי אודיו.
 ---
-
 ## Definition
 
 Pyannote היא ספריית Python בקוד פתוח שפותחה על ידי pyannote.audio, המתמחה בדיאריזציה של דוברים, שהיא התהליך לקביעת 'מי דיבר מתי' בזרם אודיו. הספרייה משתמשת ברשתות נוירונים עמוקות (deep learning) כדי לזהות ולבדל בין דוברים שונים.

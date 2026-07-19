@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /da/terms/model_compression/
 date: "2026-07-18T16:08:04.817463Z"
 lastmod: "2026-07-18T17:15:09.312540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Modelkomprimering refererer til teknikker, der reducerer størrelsen og de beregningsmæssige krav til maskinlæringsmodeller."
 ---
-
 ## Definition
 
 Denne kategori inkluderer metoder som pruning, kvantisering og videnstileddannelse (knowledge distillation), der sigter mod at mindske modellens fodaftryk, mens ydeevnen opretholdes. Det er afgørende for at udrulle komplekse AI-modeller

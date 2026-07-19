@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /ro/terms/datasetnatural_questions/
 date: "2026-07-18T15:52:45.457153Z"
 lastmod: "2026-07-18T17:15:09.644677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date la scară largă pentru răspunsul la întrebări în domeniu deschis, prezentând interogări reale ale utilizatorilor din Google Search, însoțite de pasaje din Wikipedia annotate ca răspunsur"
 ---
-
 ## Definition
 
 Natural Questions (NQ) este un set de date benchmark introdus de Google pentru a avansa cercetarea în domeniul răspunsului la întrebări în domeniu deschis. Acesta corelează interogări de căutare reale și anonimizate de la Google cu răspunsuri lungi și detaliate găsite pe Wikipedia, facilitând dezvoltarea sistemelor care pot identifica și extrage informații factuale din corpuri mari de text necomplet structurate.

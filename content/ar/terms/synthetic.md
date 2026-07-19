@@ -1,23 +1,23 @@
 ---
-title: "اصطناعي"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: اصطناعي
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /ar/terms/synthetic/
-date: "2026-07-18T15:31:21.630828Z"
-lastmod: "2026-07-18T17:15:08.449936Z"
+slug: synthetic
+date: '2026-07-18T15:31:21.630828Z'
+lastmod: '2026-07-18T17:15:08.449936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير المصطلح الاصطناعي إلى البيانات أو المحتوى الذي يتم توليده بشكل اصطناعي بواسطة الخوارزميات بدلاً من جمعه من مصادر طبيعية."
+source: agnes_llm
+status: published
+language: ar
+description: يشير المصطلح الاصطناعي إلى البيانات أو المحتوى الذي يتم توليده بشكل اصطناعي
+  بواسطة الخوارزميات بدلاً من جمعه من مصادر طبيعية.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، تشير البيانات الاصطناعية إلى المعلومات المولدة آلياً والتي تحاكي بيانات العالم الحقيقي ولكن دون احتواء على سجلات شخصية أو حساسة فعلية. وهي حاسمة لتدريب نماذج التعلم الآلي عندما تكون البيانات الحقيقية...

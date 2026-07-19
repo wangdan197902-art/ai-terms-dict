@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /it/terms/compute/
 date: "2026-07-18T15:52:32.441504Z"
 lastmod: "2026-07-18T17:15:08.608747Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La potenza di calcolo si riferisce alla capacità di elaborazione e alle risorse utilizzate per eseguire algoritmi e gestire i dati nei sistemi di intelligenza artificiale."
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, la potenza di calcolo rappresenta l'infrastruttura fondamentale necessaria per addestrare i modelli ed eseguire l'inferenza. Comprende componenti hardware come CPU, GPU e TPU, nonché le risorse software associate.

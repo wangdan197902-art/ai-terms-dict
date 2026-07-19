@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /fi/terms/coupled_pattern_learner/
 date: "2026-07-18T15:50:17.166064Z"
 lastmod: "2026-07-18T17:15:09.395391Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Algoritminen lähestymistapa, joka oppii samanaikaisesti yhteyksiä kahden erillisen mutta korreloivan kuvio- tai piirtejoukon välillä."
 ---
-
 ## Definition
 
 Kytketyt kuvion oppijat on suunniteltu käsittelemään dataa, jossa eri avaruuksien esiintymät ovat linkitetty toisiinsa, kuten kuvat ja niiden tekstikuvaukset. Mallintamalla yhteisjakaumaa tai korrelaatiota nämä menetelmät hyödyntävät molempien avaruuksien tietoa.

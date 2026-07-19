@@ -1,23 +1,24 @@
 ---
-title: "Effizient"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Effizient
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /de/terms/efficient/
-date: "2026-07-18T10:49:35.954622Z"
-lastmod: "2026-07-18T11:44:44.872230Z"
+slug: efficient
+date: '2026-07-18T10:49:35.954622Z'
+lastmod: '2026-07-18T11:44:44.872230Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "In der KI bezieht sich Effizienz darauf, optimale Leistung mit minimalem Ressourcenverbrauch wie Zeit, Speicher oder Rechenleistung zu erzielen."
+source: agnes_llm
+status: published
+language: de
+description: In der KI bezieht sich Effizienz darauf, optimale Leistung mit minimalem
+  Ressourcenverbrauch wie Zeit, Speicher oder Rechenleistung zu erzielen.
 ---
-
 ## Definition
 
 Effizienz ist eine kritische Metrik in der künstlichen Intelligenz, die misst, wie gut ein Modell oder Algorithmus verfügbare Ressourcen nutzt. Sie umfasst die Recheneffizienz (Geschwindigkeit von Inferenz und Training) sowie die Optimierung von Hardware- und Energieverbrauch.

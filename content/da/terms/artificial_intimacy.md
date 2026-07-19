@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /da/terms/artificial_intimacy/
 date: "2026-07-18T15:41:59.129087Z"
 lastmod: "2026-07-18T17:15:09.260957Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den emotionelle forbindelse, som brugere opbygger med AI-enheder, der simulerer empati, selskab og personlig interaktion."
 ---
-
 ## Definition
 
 Kunstig intimitet refererer til det psykologiske fænomen, hvor mennesker udvikler ægte emotionelle bånd til kunstige agenter, såsom chatbots, virtuelle assistenter eller sociale robotter. Disse systemer er

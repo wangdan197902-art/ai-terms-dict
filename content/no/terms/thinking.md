@@ -1,23 +1,23 @@
 ---
-title: "Tenkning"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: Tenkning
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /no/terms/thinking/
-date: "2026-07-18T16:19:05.706787Z"
-lastmod: "2026-07-18T16:38:07.053989Z"
+slug: thinking
+date: '2026-07-18T16:19:05.706787Z'
+lastmod: '2026-07-18T16:38:07.053989Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Ingeniørmessig tenkning refererer til de kognitive prosessene med resonnement, problemløsning og beslutningstaking som simuleres av algoritmer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Ingeniørmessig tenkning refererer til de kognitive prosessene med resonnement,
+  problemløsning og beslutningstaking som simuleres av algoritmer.
 ---
-
 ## Definition
 
 Mens mennesker tenker biologisk, involverer AI-tenning beregningsoperasjoner som etterligner kognitive funksjoner. Det omfatter logisk deduksjon, mønstergjenkjenning og inferens. Moderne store språkmodeller...

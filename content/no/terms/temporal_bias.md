@@ -1,23 +1,24 @@
 ---
-title: "Tidsmessig skjevhet"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Tidsmessig skjevhet
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /no/terms/temporal_bias/
-date: "2026-07-18T16:18:22.970328Z"
-lastmod: "2026-07-18T16:38:07.052156Z"
+slug: temporal_bias
+date: '2026-07-18T16:18:22.970328Z'
+lastmod: '2026-07-18T16:38:07.052156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En systematisk feil der modeller prioriterer nyere data fremfor historisk kontekst, noe som fører til skjeve prediksjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: En systematisk feil der modeller prioriterer nyere data fremfor historisk
+  kontekst, noe som fører til skjeve prediksjoner.
 ---
-
 ## Definition
 
 Tidsmessig skjevhet oppstår når maskinlæringsmodeller gir uforholdsmessig stor vekt til nylige observasjoner sammenlignet med eldre data, ofte på grunn av ikke-stasjonære datafordelinger eller spesifikke treningsprotokoller.

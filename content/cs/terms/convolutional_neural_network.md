@@ -1,23 +1,24 @@
 ---
-title: "Konvoluční neuronová síť"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Konvoluční neuronová síť
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /cs/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:46.593247Z"
-lastmod: "2026-07-18T17:15:09.062449Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:46.593247Z'
+lastmod: '2026-07-18T17:15:09.062449Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Specializovaná třída hlubokých neuronových sítí používaná především pro zpracování mřížovitých dat, jako jsou obrázky, pomocí konvolučních filtrů."
+source: agnes_llm
+status: published
+language: cs
+description: Specializovaná třída hlubokých neuronových sítí používaná především pro
+  zpracování mřížovitých dat, jako jsou obrázky, pomocí konvolučních filtrů.
 ---
-
 ## Definition
 
 Konvoluční neuronové sítě (CNN) jsou navrženy tak, aby automaticky a adaptivně učily prostorové hierarchie rysů z vizuálních vstupů. Využívají konvoluční vrstvy, které aplikují filtry na detekci lokálních vzorců a extrakci významných vlastností.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /zh/terms/artificial_intelligence/
 date: "2026-07-18T07:44:10.038487Z"
 lastmod: "2026-07-18T11:44:44.590661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "计算机系统对人类智能过程的模拟。"
 ---
-
 ## Definition
 
 人工智能（AI）是指数字计算机或受计算机控制的机器人执行通常与智能生物相关的任务的能力。它涵盖了各种子领域，包括机器学习、自然语言处理等，旨在让机器具备感知、推理、学习和解决问题的能力。

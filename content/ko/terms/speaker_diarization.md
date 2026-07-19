@@ -1,23 +1,23 @@
 ---
-title: "화자 분리"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: 화자 분리
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /ko/terms/speaker_diarization/
-date: "2026-07-18T16:16:47.301571Z"
-lastmod: "2026-07-18T16:38:06.910352Z"
+slug: speaker_diarization
+date: '2026-07-18T16:16:47.301571Z'
+lastmod: '2026-07-18T16:38:06.910352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "오디오 녹음에서 '누가 언제 말했는지'를 결정하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 오디오 녹음에서 '누가 언제 말했는지'를 결정하는 과정입니다.
 ---
-
 ## Definition
 
 화자 분리(Speaker Diarization)는 화자의 신원에 따라 오디오 스트림을 동질적인 세그먼트로 분할하는 작업입니다. 이는 화자 변경 감지와 화자 클러스터링을 결합하여 각 세그먼트에 화자를 라벨링합니다.

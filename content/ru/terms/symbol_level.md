@@ -1,23 +1,23 @@
 ---
-title: "Символьный уровень"
-term_id: "symbol_level"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_foundations", "knowledge_representation"]
+title: Символьный уровень
+term_id: symbol_level
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Foundations
+- Knowledge Representation
 difficulty: 2
 weight: 1
-slug: "symbol_level"
-aliases:
-  - /ru/terms/symbol_level/
-date: "2026-07-18T16:17:40.526636Z"
-lastmod: "2026-07-18T16:38:07.206887Z"
+slug: symbol_level
+date: '2026-07-18T16:17:40.526636Z'
+lastmod: '2026-07-18T16:38:07.206887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Символьный уровень — это уровень абстракции, на котором дискретные символы представляют концепции, объекты или отношения внутри системы искусственного интеллекта."
+source: agnes_llm
+status: published
+language: ru
+description: Символьный уровень — это уровень абстракции, на котором дискретные символы
+  представляют концепции, объекты или отношения внутри системы искусственного интеллекта.
 ---
-
 ## Definition
 
 В области искусственного интеллекта символьный уровень представляет собой высокоуровневую абстракцию, где знания кодируются с использованием дискретных символов, а не непрерывных числовых значений. Этот подход является центральным для...

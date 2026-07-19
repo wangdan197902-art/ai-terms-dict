@@ -1,23 +1,23 @@
 ---
-title: "zero-shot"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: zero-shot
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /nl/terms/zero_shot/
-date: "2026-07-18T15:34:54.158677Z"
-lastmod: "2026-07-18T17:15:08.701505Z"
+slug: zero_shot
+date: '2026-07-18T15:34:54.158677Z'
+lastmod: '2026-07-18T17:15:08.701505Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het vermogen om taken uit te voeren op niet-ziene klassen zonder eerdere trainingsvoorbeelden."
+source: agnes_llm
+status: published
+language: nl
+description: Het vermogen om taken uit te voeren op niet-ziene klassen zonder eerdere
+  trainingsvoorbeelden.
 ---
-
 ## Definition
 
 Zero-shot leren stelt modellen in staat te generaliseren naar nieuwe categorieën of taken waarvoor geen gelabelde trainingsgegevens zijn verstrekt tijdens de initiële trainingsfase. Dit wordt meestal bereikt door gebruik te maken van semantische...

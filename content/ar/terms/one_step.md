@@ -1,23 +1,23 @@
 ---
-title: "خطوة واحدة (One-step)"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: خطوة واحدة (One-step)
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /ar/terms/one_step/
-date: "2026-07-18T15:34:43.413580Z"
-lastmod: "2026-07-18T17:15:08.456381Z"
+slug: one_step
+date: '2026-07-18T15:34:43.413580Z'
+lastmod: '2026-07-18T17:15:08.456381Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير إلى الخوارزميات أو العمليات التي تكمل مهمة أو دورة اتخاذ القرار في تكرار واحد دون تحسين تكراري."
+source: agnes_llm
+status: published
+language: ar
+description: يشير إلى الخوارزميات أو العمليات التي تكمل مهمة أو دورة اتخاذ القرار
+  في تكرار واحد دون تحسين تكراري.
 ---
-
 ## Definition
 
 في التعلم الآلي والتحسين، تحل طرق الخطوة الواحدة المشكلات مباشرة دون الحاجة إلى تكرارات متعددة أو تحديثات للتقارب. على عكس نزول التدرج الذي يتطلب خطوات عديدة لتقليل

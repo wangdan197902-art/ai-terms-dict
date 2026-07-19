@@ -1,23 +1,23 @@
 ---
-title: "открытое программное обеспечение"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: открытое программное обеспечение
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /ru/terms/open_source/
-date: "2026-07-18T15:32:08.237115Z"
-lastmod: "2026-07-18T16:38:07.097367Z"
+slug: open_source
+date: '2026-07-18T15:32:08.237115Z'
+lastmod: '2026-07-18T16:38:07.097367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Программное обеспечение, исходный код которого свободно доступен для использования, модификации и распространения любым лицом."
+source: agnes_llm
+status: published
+language: ru
+description: Программное обеспечение, исходный код которого свободно доступен для
+  использования, модификации и распространения любым лицом.
 ---
-
 ## Definition
 
 Открытое программное обеспечение (open-source) относится к модели разработки, при которой исходный код проекта программного обеспечения является общедоступным. В области искусственного интеллекта это позволяет исследователям и разработчикам изучать, изменять и пере distributing алгоритмы...

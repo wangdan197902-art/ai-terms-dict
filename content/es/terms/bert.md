@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /es/terms/bert/
 date: "2026-07-18T10:38:33.529526Z"
 lastmod: "2026-07-18T11:44:44.782744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Representaciones de Codificador Bidireccional desde Transformadores es un modelo preentrenado de procesamiento del lenguaje natural."
 ---
-
 ## Definition
 
 BERT es una técnica de aprendizaje automático basada en transformadores para el preentrenamiento en PLN desarrollada por Google. Utiliza el modelado de lenguaje enmascarado y la predicción de la siguiente oración para aprender representaciones bidireccionales.

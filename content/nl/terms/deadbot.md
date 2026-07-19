@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /nl/terms/deadbot/
 date: "2026-07-18T15:50:26.988173Z"
 lastmod: "2026-07-18T17:15:08.735702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een chatbot die is stopgezet, offline is gehaald of niet langer wordt onderhouden, wat vaak resulteert in statische foutmeldingen of standaardreacties op gebruikersinvoer."
 ---
-
 ## Definition
 
 Een deadbot verwijst naar een conversationele agent of chatbotservice die niet langer actief, onderhouden of ondersteund wordt door de ontwikkelaars. Deze bots kunnen generieke foutmeldingen, statische antwoorden of doorverwijzingen naar andere diensten teruggeven wanneer gebruikers proberen interactie.

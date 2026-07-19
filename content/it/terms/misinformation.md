@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /it/terms/misinformation/
 date: "2026-07-18T16:11:23.371059Z"
 lastmod: "2026-07-18T17:15:08.649117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Informazioni false o inaccurate diffuse indipendentemente dall'intento di ingannare."
 ---
-
 ## Definition
 
 La disinformazione involontaria si riferisce a informazioni false o fuorvianti condivise senza l'intenzione deliberata di causare danni o ingannare. Si differenzia dalla disinformazione intenzionale, che è fabbricata deliberatamente. Nel contesto dell'IA,

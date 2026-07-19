@@ -1,23 +1,23 @@
 ---
-title: "Koska / Pikemminkin"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Koska / Pikemminkin
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /fi/terms/rather/
-date: "2026-07-18T15:30:29.681871Z"
-lastmod: "2026-07-18T17:15:09.357866Z"
+slug: rather
+date: '2026-07-18T15:30:29.681871Z'
+lastmod: '2026-07-18T17:15:09.357866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "AI-yhteyksissä 'rather' ei ole tekninen termi, vaan sitä käytetään usein ohjeissa ilmaisemaan mieltymystä tai korjausta."
+source: agnes_llm
+status: published
+language: fi
+description: AI-yhteyksissä 'rather' ei ole tekninen termi, vaan sitä käytetään usein
+  ohjeissa ilmaisemaan mieltymystä tai korjausta.
 ---
-
 ## Definition
 
 Termi 'Rather' on englanninkielinen adverbi, joka ilmaisee mieltymystä tai kontrastia. Tekoälyn ja suurten kielimallien (LLM) erityisessä alalla se ei muodosta erillistä teknistä käsitettä, vaan toimii luonnollisen kielen osana ohjeistuksessa.

@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /nl/terms/extensive/
 date: "2026-07-18T15:25:51.154648Z"
 lastmod: "2026-07-18T17:15:08.684287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Beschrijft AI-datasets, berekeningen of evaluaties die een groot bereik, volume of breedte aan scenario's bestrijken."
 ---
-
 ## Definition
 
 Uitgebreid verwijst naar de schaal en volledigheid van AI-operaties, zoals datasets van grote schaal, brede evaluatiesuites of zware rekenbelastingen. Een uitgebreide dataset zorgt ervoor dat modelgenerali...

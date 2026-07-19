@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /en/terms/stability/
 date: "2026-07-18T10:16:41.447274Z"
 lastmod: "2026-07-18T11:44:44.724363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The property of a machine learning model to produce consistent predictions when trained on slightly different datasets."
 ---
-
 ## Definition
 
 In machine learning, stability refers to the robustness of a model's performance and parameters when subjected to small perturbations in the training data. A stable algorithm will yield similar models and predictions even if the dataset changes slightly, such as through resampling or adding noise. High stability is crucial for reliable deployment, as unstable models may overfit to specific quirks in the training set, leading to poor generalization on unseen data. It is often analyzed alongside bias and variance trade-offs.

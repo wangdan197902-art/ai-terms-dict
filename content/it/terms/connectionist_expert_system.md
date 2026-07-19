@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /it/terms/connectionist_expert_system/
 date: "2026-07-18T15:52:46.934702Z"
 lastmod: "2026-07-18T17:15:08.609450Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un sistema intelligente che combina le capacità di apprendimento delle reti neurali con strutture di ragionamento simbolico."
 ---
-
 ## Definition
 
 Un sistema esperto connessionista integra i punti di forza nel riconoscimento dei pattern e nell'apprendimento delle reti neurali (connessionismo) con la rappresentazione esplicita della conoscenza e il ragionamento logico dell'intelligenza artificiale simbolica tradizionale. Questo approccio ibrido mira a superare i limiti dei singoli paradigmi, offrendo sistemi più robusti e interpretabili.

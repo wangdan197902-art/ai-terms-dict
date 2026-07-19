@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /en/terms/chain_of_thought_prompting/
 date: "2026-07-18T09:40:12.571011Z"
 lastmod: "2026-07-18T11:44:44.621438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Chain-of-Thought Prompting is a technique that encourages LLMs to generate intermediate reasoning steps before producing a final answer."
 ---
-
 ## Definition
 
 Chain-of-Thought (CoT) prompting improves the performance of large language models on complex reasoning tasks by explicitly asking the model to articulate its step-by-step logic. Instead of jumping directly to a conclusion, the model generates intermediate sentences that represent its thought process. This approach mimics human problem-solving strategies, significantly enhancing accuracy in mathematics, logic puzzles, and multi-step deductions. It can be implemented via few-shot examples or simple instructions like 'Let's think step by step.'

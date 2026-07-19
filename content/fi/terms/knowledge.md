@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /fi/terms/knowledge/
 date: "2026-07-18T15:28:10.220240Z"
 lastmod: "2026-07-18T17:15:09.353095Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tietämys on strukturoitu ymmärrys, faktat, taidot ja oivallukset, jotka on johdettu tiedosta, kokemuksesta tai päättelystä, mahdollistaen tehokkaan päätöksenteon."
 ---
-
 ## Definition
 
 Tekoälyssä tietämys viittaa usein eksplisiittiseen tietoon, joka on tallennettu tietokantoihin, ontologioihin tai neuroverkon painoihin, ja joka mahdollistaa päättelyn ja johtopäätösten tekemisen. Se sijaitsee DIKW-hierarkiassa tietoa korkeammalla tasolla

@@ -1,23 +1,24 @@
 ---
-title: "Kostfølsom maskinlæring"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Kostfølsom maskinlæring
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /da/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:48:22.538039Z"
-lastmod: "2026-07-18T17:15:09.272257Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:48:22.538039Z'
+lastmod: '2026-07-18T17:15:09.272257Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et maskinlæringsparadigme, der inddrager omkostningerne ved fejlklassificering i træningsprocessen for at optimere den økonomiske påvirkning frem for blot nøjagtighed."
+source: agnes_llm
+status: published
+language: da
+description: Et maskinlæringsparadigme, der inddrager omkostningerne ved fejlklassificering
+  i træningsprocessen for at optimere den økonomiske påvirkning frem for blot nøjagtighed.
 ---
-
 ## Definition
 
 Kostfølsom maskinlæring udvider traditionel overvåget læring ved at tildele forskellige strafværdier til forskellige typer af fejl. I virkelige scenarier har falske positive og falske negative ofte...

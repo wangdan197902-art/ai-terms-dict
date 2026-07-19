@@ -1,23 +1,24 @@
 ---
-title: "Aprendizaje Supervisado"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Aprendizaje Supervisado
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /es/terms/supervised_learning/
-date: "2026-07-18T10:32:20.236499Z"
-lastmod: "2026-07-18T11:44:44.767576Z"
+slug: supervised_learning
+date: '2026-07-18T10:32:20.236499Z'
+lastmod: '2026-07-18T11:44:44.767576Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un paradigma de aprendizaje automático donde un modelo aprende a mapear entradas a salidas basándose en ejemplos de entrenamiento etiquetados."
+source: agnes_llm
+status: published
+language: es
+description: Un paradigma de aprendizaje automático donde un modelo aprende a mapear
+  entradas a salidas basándose en ejemplos de entrenamiento etiquetados.
 ---
-
 ## Definition
 
 En el aprendizaje supervisado, el algoritmo se entrena con un conjunto de datos etiquetados, lo que significa que cada ejemplo de entrada está emparejado con la salida correcta. El objetivo es que el modelo aprenda la relación subyacente entre las entradas y las salidas.

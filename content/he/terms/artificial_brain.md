@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /he/terms/artificial_brain/
 date: "2026-07-18T15:42:30.696320Z"
 lastmod: "2026-07-18T17:15:09.512768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת חישובית המעוצבת כדי לחקות את המבנה והפונקציה של המוח הביולוגי האנושי, לרוב באמצעות רשתות נוירונים."
 ---
-
 ## Definition
 
 מוח מלאכותי מתייחס לארכיטקטורות חומרה או תוכנה המחקות את המבנים הנוירוניים ושיטות העיבוד של המוח האנושי. הדבר כולל שבבים לחישוב נוירומורפי המדמים את פעילות המוח האנושי.

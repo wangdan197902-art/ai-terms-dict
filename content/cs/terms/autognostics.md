@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /cs/terms/autognostics/
 date: "2026-07-18T15:43:57.189571Z"
 lastmod: "2026-07-18T17:15:09.104443Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Schopnost systému AI samodiagnostikovat svůj vnitřní stav, problémy s výkonem nebo chyby bez lidského zásahu."
 ---
-
 ## Definition
 
 Autognostika se týká mechanismů samoobsluhy a samoopravy zabudovaných do inteligentních systémů. Umožňuje agentům AI detekovat anomálie, diagnostikovat kořenové příčiny selhání a potenciálně provést automatickou opravu nebo úpravu parametrů.

@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /id/terms/ai_infrastructure/
 date: "2026-07-18T15:37:23.930835Z"
 lastmod: "2026-07-18T16:38:07.423218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sumber daya perangkat keras, perangkat lunak, dan jaringan yang diperlukan untuk mengembangkan, melatih, dan mendeploy model kecerdasan buatan secara skala besar."
 ---
-
 ## Definition
 
 Infrastruktur AI mencakup tumpukan teknologi dasar yang diperlukan untuk operasi kecerdasan buatan. Ini termasuk perangkat keras komputasi berkinerja tinggi seperti GPU dan TPU, penyimpanan cloud, serta jaringan bandwidth tinggi yang mendukung pemrosesan data masif dan pelatihan model mendalam.

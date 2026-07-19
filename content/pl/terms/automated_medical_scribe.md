@@ -1,23 +1,24 @@
 ---
-title: "Zautomatyzowany sekretarz medyczny"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Zautomatyzowany sekretarz medyczny
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /pl/terms/automated_medical_scribe/
-date: "2026-07-18T15:42:19.116659Z"
-lastmod: "2026-07-18T17:15:08.848450Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:42:19.116659Z'
+lastmod: '2026-07-18T17:15:08.848450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "System oparty na sztucznej inteligencji, który automatycznie generuje dokumentację kliniczną na podstawie interakcji między lekarzem a pacjentem."
+source: agnes_llm
+status: published
+language: pl
+description: System oparty na sztucznej inteligencji, który automatycznie generuje
+  dokumentację kliniczną na podstawie interakcji między lekarzem a pacjentem.
 ---
-
 ## Definition
 
 Zautomatyzowani sekretarze medyczni wykorzystują technologie przetwarzania języka naturalnego i rozpoznawania mowy do słuchania rozmów między lekarzem a pacjentem oraz tworzenia ustrukturyzowanych elektronicznych kart zdrowia. Ta technologia...

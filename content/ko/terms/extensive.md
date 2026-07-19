@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /ko/terms/extensive/
 date: "2026-07-18T15:24:26.003559Z"
 lastmod: "2026-07-18T16:38:06.773483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "대규모 범위, 볼륨 또는 시나리오의 폭을 다루는 AI 데이터셋, 연산 또는 평가를 설명합니다."
 ---
-
 ## Definition
 
 광범위한(extensive)은 대규모 데이터셋, 포괄적인 평가 스위트(suite) 또는 무거운 컴퓨팅 작업량 등 AI 작업의 규모와 포괄성을 의미합니다. 광범위한 데이터셋은 모델 일반화(genera...)를 보장합니다.

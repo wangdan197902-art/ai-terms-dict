@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /ar/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:00:47.316637Z"
 lastmod: "2026-07-18T17:15:08.511802Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام تصنيف على منصة هاجينغ فيس يقيم ويقارن أداء نماذج التعرف التلقائي على الكلام."
 ---
-
 ## Definition
 
 تُعد لوحة متصدرين التعرف التلقائي على الكلام (HF ASR) منصة لقياس الأداء يقودها المجتمع وتستضيفها شركة هاجينغ فيس، وتتبع أحدث الأداء في مجال التعرف التلقائي على الكلام. وتتيح للباحثين والمطورين الاستفادة

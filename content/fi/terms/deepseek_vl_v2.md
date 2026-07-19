@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /fi/terms/deepseek_vl_v2/
 date: "2026-07-18T15:53:52.535643Z"
 lastmod: "2026-07-18T17:15:09.403192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "DeepSeek VL V2 on Kuvan-ja-kielimalli, joka on suunniteltu käsittelemään ja ymmärtämään sekä visuaalisia syötteitä että tekstipyyntöjä korkealla tarkkuudella ja tehokkuudella."
 ---
-
 ## Definition
 
 DeepSeek VL V2 laajentaa tavallisen kielimallin kyvykkyyksiä monimuotoiseen alueeseen, mahdollistaen kuvien tulkitsemisen tekstin ohella. Hyödyntämällä kuva-encoderaa, joka on yhdistetty suureen kielimalliin, se ymmärtää visuaalista sisältöä kontekstissa.

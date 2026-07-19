@@ -1,23 +1,24 @@
 ---
-title: "Ennakoiva oppiminen"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: Ennakoiva oppiminen
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /fi/terms/predictive_learning/
-date: "2026-07-18T16:16:06.727031Z"
-lastmod: "2026-07-18T17:15:09.444545Z"
+slug: predictive_learning
+date: '2026-07-18T16:16:06.727031Z'
+lastmod: '2026-07-18T17:15:09.444545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Itseohjautuva lähestymistapa, jossa mallit oppivat esityksiä ennustamalla syötedatan puuttuvia osia."
+source: agnes_llm
+status: published
+language: fi
+description: Itseohjautuva lähestymistapa, jossa mallit oppivat esityksiä ennustamalla
+  syötedatan puuttuvia osia.
 ---
-
 ## Definition
 
 Ennakoivassa oppimisessa neuroverkkoja koulutetaan johtamaan havaitsemattomat datapistet havaituista syötteistä ilman eksplisiittisiä ihmisen antamia merkintöjä. Ratkaisemalla tehtäviä, kuten seuraavan tokenin ennustamista kielissä tai osien peittämistä kuvissa, mallit oppivat merkityksellisiä piirteitä datan rakenteesta itse.

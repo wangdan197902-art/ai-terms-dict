@@ -1,23 +1,24 @@
 ---
-title: "Symbolische Künstliche Intelligenz"
-term_id: "symbolic_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_paradigms", "logic"]
+title: Symbolische Künstliche Intelligenz
+term_id: symbolic_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Paradigms
+- logic
 difficulty: 3
 weight: 1
-slug: "symbolic_artificial_intelligence"
-aliases:
-  - /de/terms/symbolic_artificial_intelligence/
-date: "2026-07-18T11:35:22.958099Z"
-lastmod: "2026-07-18T11:44:44.990963Z"
+slug: symbolic_artificial_intelligence
+date: '2026-07-18T11:35:22.958099Z'
+lastmod: '2026-07-18T11:44:44.990963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Symbolische KI ist ein Ansatz zur KI, der hochrangige symbolische Darstellungen von Problemen verwendet, um komplexe Aufgaben durch Suche und Schlussfolgerung zu lösen."
+source: agnes_llm
+status: published
+language: de
+description: Symbolische KI ist ein Ansatz zur KI, der hochrangige symbolische Darstellungen
+  von Problemen verwendet, um komplexe Aufgaben durch Suche und Schlussfolgerung zu
+  lösen.
 ---
-
 ## Definition
 
 Symbolische Künstliche Intelligenz, oft als GOFAI (Good Old-Fashioned AI) bezeichnet, basiert auf der Manipulation von Symbolen und Regeln, um Schlussfolgerungen und Problemlösung durchzuführen. Im Gegensatz zu Verbindungswissenschaftlichen Ansätzen ermöglicht sie...

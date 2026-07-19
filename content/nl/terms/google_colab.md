@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /nl/terms/google_colab/
 date: "2026-07-18T15:57:35.261442Z"
 lastmod: "2026-07-18T17:15:08.749078Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een cloudgebaseerde Jupyter-notebookomgeving waarmee gebruikers Python-code kunnen schrijven en uitvoeren via een browser, met gratis toegang tot GPU's."
 ---
-
 ## Definition
 
 Google Colaboratory, algemeen bekend als Colab, is een gehoste Jupyter-notebookdienst die geen installatie vereist en gratis toegang biedt tot rekenresources, inclusief Graphics Processing Units (GPU's).

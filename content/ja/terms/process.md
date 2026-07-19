@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /ja/terms/process/
 date: "2026-07-18T10:54:05.988970Z"
 lastmod: "2026-07-18T11:44:45.016776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "特定の計算目標や結果を達成するために実行される、構造化された一連のアクションまたは手順。"
 ---
-
 ## Definition
 
 AI開発におけるプロセスとは、生データを処理可能な洞察やモデルへと変換するために必要な体系的なワークフローを指します。これには、データ取り込み、前処理、特徴量

@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /ko/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:08:26.526813Z"
 lastmod: "2026-07-18T16:38:06.892815Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "오픈 소스 AI는 소스 코드가 공개되어 검사, 수정 및 배포가 가능한 인공지능 소프트웨어, 모델 및 도구를 의미합니다."
 ---
-
 ## Definition
 
 이 개념은 기본 코드에 대한 무료 접근을 허용하는 라이선스 하에 출시된 AI 기술 생태계를 포괄합니다. 이는 투명성, 협력 및 혁신을 장려하며 개발자들이 코드를 자유롭게 활용할 수 있도록 합니다.

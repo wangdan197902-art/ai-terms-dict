@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /da/terms/lyra/
-date: "2026-07-18T16:05:53.727193Z"
-lastmod: "2026-07-18T17:15:09.307783Z"
+slug: lyra
+date: '2026-07-18T16:05:53.727193Z'
+lastmod: '2026-07-18T17:15:09.307783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Lyra henviser til forskellige AI-initiativer eller modeller, mest bemærkelsesværdigt en open-source stor sprogmodel (LLM) eller et specifikt AI-drevet søge- og opdagelsesværktøj designet til at forbed"
+source: agnes_llm
+status: published
+language: da
+description: Lyra henviser til forskellige AI-initiativer eller modeller, mest bemærkelsesværdigt
+  en open-source stor sprogmodel (LLM) eller et specifikt AI-drevet søge- og opdagelsesværktøj
+  designet til at forbed
 ---
-
 ## Definition
 
 I konteksten af moderne AI-terminologi betegner Lyra ofte specialiserede AI-systemer fokuseret på at forbedre brugerinteraktion gennem naturlig sprogbehandling. Det kan referere til en open-source LLM udviklet til avancerede opgaver eller et værktøj til semantisk søgning.

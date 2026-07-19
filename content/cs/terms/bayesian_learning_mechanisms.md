@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /cs/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:44:37.081947Z"
 lastmod: "2026-07-18T17:15:09.106530Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Učební paradigmata, která považují parametry modelu za náhodné proměnné s pravděpodobnostními distribucemi, nikoliv za pevné hodnoty."
 ---
-
 ## Definition
 
 Bayesovské mechanismy učení aktualizují přesvědčení o parametrech modelu pomocí Bayesovy věty, kombinují apriorní znalosti s pozorovanými daty za účelem vytvoření posteriorní distribuce. Na rozdíl od frekventistických přístupů

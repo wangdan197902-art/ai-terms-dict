@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /id/terms/similarity_learning/
 date: "2026-07-18T16:08:37.677469Z"
 lastmod: "2026-07-18T16:38:07.506657Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan pembelajaran mesin yang mempelajari metrik jarak untuk menentukan seberapa mirip atau tidak mirip dua objek."
 ---
-
 ## Definition
 
 Pembelajaran kesamaan berfokus pada pelatihan model untuk memetakan input ke dalam ruang vektor di mana item yang serupa berada dekat satu sama lain dan item yang tidak serupa berada jauh. Teknik-teknik seperti Jaringan Siamese atau Kerugian Triplet sering digunakan untuk mencapai representasi ini.

@@ -1,23 +1,24 @@
 ---
-title: "Kontinuální učení"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Kontinuální učení
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /cs/terms/continual_learning/
-date: "2026-07-18T15:49:36.046652Z"
-lastmod: "2026-07-18T17:15:09.113647Z"
+slug: continual_learning
+date: '2026-07-18T15:49:36.046652Z'
+lastmod: '2026-07-18T17:15:09.113647Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Paradigma strojového učení, kde se modely učí postupně z nových dat bez zapomínání předchozích znalostí."
+source: agnes_llm
+status: published
+language: cs
+description: Paradigma strojového učení, kde se modely učí postupně z nových dat bez
+  zapomínání předchozích znalostí.
 ---
-
 ## Definition
 
 Kontinuální učení, známé také jako celoživotní učení, umožňuje neuronovým sítím získávat nové dovednosti nebo informace v čase, aniž by zapomněly na dříve naučené schopnosti. To řeší problém 'katastrofického zapomínání', kdy modely při učení nových úloh zapomenou ty staré.

@@ -1,23 +1,24 @@
 ---
-title: "Matchbox Educable Noughts and Crosses Engine"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Matchbox Educable Noughts and Crosses Engine
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /de/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T11:23:15.844960Z"
-lastmod: "2026-07-18T11:44:44.963302Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T11:23:15.844960Z'
+lastmod: '2026-07-18T11:44:44.963302Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein physikalisches Verstärkungslern-Gerät, das 1961 von Donald Michie gebaut wurde, um Tic-Tac-Toe mit Streichholzschachteln und Perlen zu spielen."
+source: agnes_llm
+status: published
+language: de
+description: Ein physikalisches Verstärkungslern-Gerät, das 1961 von Donald Michie
+  gebaut wurde, um Tic-Tac-Toe mit Streichholzschachteln und Perlen zu spielen.
 ---
-
 ## Definition
 
 Die ME-Noughts-and-Crosses Engine war eine frühe Demonstration des maschinellen Lernens, insbesondere des Verstärkungslernens. Konstruiert aus 304 Streichholzschachteln, von denen jede einen eindeutigen Brettzustand repräsentiert, 

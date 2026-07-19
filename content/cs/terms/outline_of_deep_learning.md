@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /cs/terms/outline_of_deep_learning/
 date: "2026-07-18T16:11:47.502516Z"
 lastmod: "2026-07-18T17:15:09.183250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Strukturovaný přehled metodologií, architektur a strategií optimalizace v oblasti hlubokého učení."
 ---
-
 ## Definition
 
 Přehled hlubokého učení zahrnuje základní struktury, jako jsou vrstvy neuronových sítí, aktivační funkce a metriky ztráty. Podrobně popisuje techniky tréninku, včetně zpětného šíření chyby a gradientního sestupu.

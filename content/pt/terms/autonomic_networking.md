@@ -1,23 +1,24 @@
 ---
-title: "Redes Autônomas"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Redes Autônomas
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /pt/terms/autonomic_networking/
-date: "2026-07-18T14:51:06.684884Z"
-lastmod: "2026-07-18T15:51:59.466746Z"
+slug: autonomic_networking
+date: '2026-07-18T14:51:06.684884Z'
+lastmod: '2026-07-18T15:51:59.466746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Infraestrutura de rede auto gerenciável que usa IA para configurar, otimizar e reparar a si mesma."
+source: agnes_llm
+status: published
+language: pt
+description: Infraestrutura de rede auto gerenciável que usa IA para configurar, otimizar
+  e reparar a si mesma.
 ---
-
 ## Definition
 
 As redes autônomas aplicam os princípios da computação autônoma às redes de telecomunicações, permitindo que os sistemas se gerenciem com mínima intervenção humana. Essas redes usam IA para detectar falhas e

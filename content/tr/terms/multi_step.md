@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /tr/terms/multi_step/
 date: "2026-07-18T15:32:01.730627Z"
 lastmod: "2026-07-18T16:38:07.250963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Son bir çözüme ulaşmak için mantıksal işlemler veya hesaplamalar dizisi gerçekleştirmeyi gerektiren bir problem çözme stratejisi."
 ---
-
 ## Definition
 
 Çok adımlı yöntemler, karmaşık bir sorguyu veya görevi daha küçük, yürütülebilir adımlara ayırmayı içerir. Bu yaklaşım, matematiksel problem çözme veya kod üretimi gibi akıl yürütme görevlerinde kritik öneme sahiptir.

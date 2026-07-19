@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /hu/terms/embedding_model/
 date: "2026-07-18T15:37:49.779335Z"
 lastmod: "2026-07-18T17:15:09.740138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy embedding modell nyers adatokat, például szöveget vagy képeket, sűrű numerikus vektorokká alakít át, amelyek a szemantikai jelentést képviselik."
 ---
-
 ## Definition
 
 Ezek a modellek magas dimenziós adatokat alacsonyabb dimenziós, folytonos vektortérképeznek át, ahol a hasonló elemek közelebb helyezkednek el egymáshoz. Ez az átalakítás rögzíti a szemantikai kapcsolatokat, lehetővé téve a...

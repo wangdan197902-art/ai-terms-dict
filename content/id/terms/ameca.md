@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /id/terms/ameca/
 date: "2026-07-18T15:38:42.752373Z"
 lastmod: "2026-07-18T16:38:07.426993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Robot humanoid canggih yang dikembangkan oleh Engineered Arts, dikenal karena ekspresi wajahnya yang luar biasa dan interaksi mirip manusia."
 ---
-
 ## Definition
 
 Ameca adalah robot humanoid mutakhir yang memiliki lebih dari 40 derajat kebebasan hanya pada bagian wajahnya, memungkinkan ekspresi emosional yang halus dan realistis. Dirancang untuk mempelajari interaksi manusia-robot, i

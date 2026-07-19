@@ -1,23 +1,23 @@
 ---
-title: "Sökning"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Sökning
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /sv/terms/search/
-date: "2026-07-18T15:30:48.229911Z"
-lastmod: "2026-07-18T17:15:08.951550Z"
+slug: search
+date: '2026-07-18T15:30:48.229911Z'
+lastmod: '2026-07-18T17:15:08.951550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Sökalgoritmer utforskar systematiskt lösningsrum för att hitta optimala eller tillfredsställande resultat i AI-uppgifter."
+source: agnes_llm
+status: published
+language: sv
+description: Sökalgoritmer utforskar systematiskt lösningsrum för att hitta optimala
+  eller tillfredsställande resultat i AI-uppgifter.
 ---
-
 ## Definition
 
 Sökning är en grundläggande paradigm inom AI som används för att navigera i komplexa problemlösningsrum, såsom spel eller ruttplanning. Algoritmer som A*, Minimax eller Monte Carlo Tree Search utvärderar potentiella drag

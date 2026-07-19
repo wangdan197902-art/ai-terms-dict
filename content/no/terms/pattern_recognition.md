@@ -1,23 +1,24 @@
 ---
-title: "Mønstergjenkjenning"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Mønstergjenkjenning
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /no/terms/pattern_recognition/
-date: "2026-07-18T16:11:02.820123Z"
-lastmod: "2026-07-18T16:38:07.032588Z"
+slug: pattern_recognition
+date: '2026-07-18T16:11:02.820123Z'
+lastmod: '2026-07-18T16:38:07.032588Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Automatisk identifisering av regulariteter og strukturer i data ved hjelp av statistiske og maskinlæringsmetoder."
+source: agnes_llm
+status: published
+language: 'no'
+description: Automatisk identifisering av regulariteter og strukturer i data ved hjelp
+  av statistiske og maskinlæringsmetoder.
 ---
-
 ## Definition
 
 Mønstergjenkjenning er en gren av kunstig intelligens og statistikk som handler om å identifisere regulariteter i data. Det involverer klassifisering av inndata i forhåndsdefinerte kategorier basert på trekk, og brukes bredt i felt som datavisjon, talegjenkjenning og datamining.

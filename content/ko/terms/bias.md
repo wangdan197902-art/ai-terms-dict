@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /ko/terms/bias/
 date: "2026-07-18T15:22:21.051050Z"
 lastmod: "2026-07-18T16:38:06.765833Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "특정 집단이나 개인에게 불공정한 결과를 초래하는 AI 모델의 체계적인 편견을 의미합니다."
 ---
-
 ## Definition
 
 AI 윤리에서 편향(Bias)은 알고리즘적 의사결정에서 체계적이고 불공정한 차별을 지칭하며, 이는 종종 치우친 학습 데이터나 결함이 있는 모델 설계로 인해 발생합니다. 이러한 편향은 특정 인구 통계학적 그룹에 부정적인 영향을 미칠 수 있습니다.

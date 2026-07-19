@@ -1,23 +1,25 @@
 ---
-title: "Обнаружение активности голоса"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: Обнаружение активности голоса
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /ru/terms/voice_activity_detection/
-date: "2026-07-18T16:20:10.947199Z"
-lastmod: "2026-07-18T16:38:07.212680Z"
+slug: voice_activity_detection
+date: '2026-07-18T16:20:10.947199Z'
+lastmod: '2026-07-18T16:38:07.212680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Обнаружение активности голоса (VAD) — это метод обработки сигналов, используемый для идентификации сегментов аудио, содержащих человеческую речь, в отличие от тишины или шума."
+source: agnes_llm
+status: published
+language: ru
+description: Обнаружение активности голоса (VAD) — это метод обработки сигналов, используемый
+  для идентификации сегментов аудио, содержащих человеческую речь, в отличие от тишины
+  или шума.
 ---
-
 ## Definition
 
 Алгоритмы VAD анализируют аудиопотоки в реальном времени, чтобы различать периоды активной речи и интервалы без речи, такие как фоновый шум или паузы. Это имеет решающее значение для оптимизации пропускной способности.

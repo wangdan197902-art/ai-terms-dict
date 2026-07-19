@@ -1,23 +1,24 @@
 ---
-title: "특이점 연구"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: 특이점 연구
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /ko/terms/singularity_studies/
-date: "2026-07-18T16:15:19.466682Z"
-lastmod: "2026-07-18T16:38:06.907918Z"
+slug: singularity_studies
+date: '2026-07-18T16:15:19.466682Z'
+lastmod: '2026-07-18T16:38:06.907918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "미래의 기술적 특이점이 사회, 윤리, 존재론적 측면에 미칠 잠재적 영향을 조사하는 학제간 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 미래의 기술적 특이점이 사회, 윤리, 존재론적 측면에 미칠 잠재적 영향을 조사하는 학제간 분야입니다.
 ---
-
 ## Definition
 
 특이점 연구는 인공지능이 인간 지능을 초월하여 통제 불가능한 변화가 일어나는 가상의 미래 시점의 함의를 조사하는 신흥 학문 분야입니다.

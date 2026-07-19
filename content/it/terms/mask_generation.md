@@ -1,23 +1,25 @@
 ---
-title: "Generazione di maschere"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: Generazione di maschere
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /it/terms/mask_generation/
-date: "2026-07-18T16:10:18.835212Z"
-lastmod: "2026-07-18T17:15:08.647422Z"
+slug: mask_generation
+date: '2026-07-18T16:10:18.835212Z'
+lastmod: '2026-07-18T17:15:08.647422Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di creazione di maschere binarie o probabilistiche per nascondere selettivamente o enfatizzare parti dei dati di input durante l'elaborazione del modello."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di creazione di maschere binarie o probabilistiche per nascondere
+  selettivamente o enfatizzare parti dei dati di input durante l'elaborazione del
+  modello.
 ---
-
 ## Definition
 
 La generazione di maschere comporta la produzione di maschere spaziali o temporali che determinano quali elementi di un insieme di dati sono visibili o attivi durante operazioni specifiche. Nell'elaborazione delle immagini, viene utilizzata per la segmentazione degli ogg

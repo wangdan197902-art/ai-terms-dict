@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /it/terms/last_mile/
 date: "2026-07-18T16:07:27.100181Z"
 lastmod: "2026-07-18T17:15:08.641945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'ultima fase della consegna delle soluzioni AI dagli ambienti di sviluppo agli utenti finali in contesti operativi reali."
 ---
-
 ## Definition
 
 Il problema dell'"ultimo miglio" si riferisce alle sfide incontrate durante il deployment dei modelli in produzione, inclusa l'integrazione con l'infrastruttura esistente, la garanzia di inferenza a bassa latenza e la gestione dei dati ai bordi della rete (edge).

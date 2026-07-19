@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /th/terms/throughput/
 date: "2026-07-18T16:18:25.777750Z"
 lastmod: "2026-07-18T16:38:07.662594Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Throughput คือมาตรวัดปริมาณข้อมูลหรือคำขอที่ระบบ AI สามารถประมวลผลสำเร็จภายในระยะเวลาที่กำหนด"
 ---
-
 ## Definition
 
 ในทางวิศวกรรม AI Throughput เป็นตัวชี้วัดประสิทธิภาพที่สำคัญซึ่งบ่งบอกถึงขีดความสามารถของระบบ มักวัดเป็นจำนวนโทเค็นต่อวินาทีสำหรับโมเดลภาษาขนาดใหญ่ (LLMs) ภาพต่อวินาทีสำหรับโมเดลคอมพิวเตอร์วิทัศน์ หรือจำนวนคิว...

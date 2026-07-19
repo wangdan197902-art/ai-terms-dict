@@ -1,23 +1,24 @@
 ---
-title: "Многоголовое внимание"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Многоголовое внимание
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /ru/terms/multi_head_attention/
-date: "2026-07-18T15:27:28.597567Z"
-lastmod: "2026-07-18T16:38:07.084872Z"
+slug: multi_head_attention
+date: '2026-07-18T15:27:28.597567Z'
+lastmod: '2026-07-18T16:38:07.084872Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Механизм в моделях-трансформерах, позволяющий модели одновременно обращать внимание на информацию из разных подпространств представлений."
+source: agnes_llm
+status: published
+language: ru
+description: Механизм в моделях-трансформерах, позволяющий модели одновременно обращать
+  внимание на информацию из разных подпространств представлений.
 ---
-
 ## Definition
 
 Многоголовое внимание расширяет стандартный механизм внимания, запуская его несколько раз параллельно с разными обученными линейными проекциями. Это позволяет модели совместно обрабатывать информацию из различных репрезентаций.

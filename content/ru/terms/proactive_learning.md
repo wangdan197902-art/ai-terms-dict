@@ -1,23 +1,24 @@
 ---
-title: "Проактивное обучение"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Проактивное обучение
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /ru/terms/proactive_learning/
-date: "2026-07-18T16:10:49.771518Z"
-lastmod: "2026-07-18T16:38:07.193285Z"
+slug: proactive_learning
+date: '2026-07-18T16:10:49.771518Z'
+lastmod: '2026-07-18T16:38:07.193285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия обучения, при которой агент активно выбирает информативные точки данных для запроса или исследования, а не пассивно их получает."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия обучения, при которой агент активно выбирает информативные
+  точки данных для запроса или исследования, а не пассивно их получает.
 ---
-
 ## Definition
 
 В проактивном обучении система ИИ определяет, какие образцы наиболее эффективно снизят неопределенность или улучшат производительность модели, часто используя стратегии активного обучения или исследования. Это контрастирует с пассивным получением данных.

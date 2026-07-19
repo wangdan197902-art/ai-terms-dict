@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /ar/terms/computational_humor/
 date: "2026-07-18T15:49:17.003829Z"
 lastmod: "2026-07-18T17:15:08.486304Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الفرع الفرعي من الذكاء الاصطناعي يركز على توليف وفهم وتقدير المحتوى الساخر باستخدام الطرق الحسابية."
 ---
-
 ## Definition
 
 تدرس الفكاهة الحسابية كيفية قدرة الآلات على إنتاج أو تفسير النكات، والألغاز اللفظية، والتعليقات الذكية. وتعتمد عادةً على معالجة اللغة الطبيعية للكشف عن عدم التطابق، أو التحولات الدلالية، أو...

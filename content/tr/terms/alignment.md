@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /tr/terms/alignment/
 date: "2026-07-18T15:22:18.226346Z"
 lastmod: "2026-07-18T16:38:07.224321Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka sisteminin amaç ve davranışlarının insan değerleri ve niyetleriyle uyumlu hale getirilme süreci."
 ---
-
 ## Definition
 
 Hizalama, yapay zeka sistemlerinin sadece kelime anlamıyla istenen şeyi değil, insanların gerçekten istediği şeyi yapmasını sağlamaya odaklanır. İnsan Geri Bildirimli Pekiştirmeli Öğrenme (RLHF) gibi teknikleri içerir.

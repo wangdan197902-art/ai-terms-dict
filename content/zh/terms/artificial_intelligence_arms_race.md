@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /zh/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T11:06:52.938000Z"
 lastmod: "2026-07-18T11:44:45.444761Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "各国或组织为获得战略优势而迅速开发人工智能能力的竞争态势。"
 ---
-
 ## Definition
 
 人工智能军备竞赛是指国家、企业和研究机构之间为在人工智能技术领域取得主导地位而展开的激烈竞争。这种 rivalry 推动了快速创新，但也引发了关于安全与速度之间权衡的担忧。

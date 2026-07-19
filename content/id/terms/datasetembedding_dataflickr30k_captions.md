@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /id/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:45:49.937117Z"
 lastmod: "2026-07-18T16:38:07.444583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dataset multimoda yang menghubungkan 31.000 gambar dengan keterangan buatan manusia untuk melatih model embedding lintas modalitas."
 ---
-
 ## Definition
 
 Flickr30K Captions adalah dataset benchmark yang banyak digunakan, terdiri dari 31.783 gambar, masing-masing diberi anotasi dengan lima kalimat bahasa Inggris berbeda yang menggambarkan konten visualnya. Dataset ini berfungsi sebagai sumber daya dasar.

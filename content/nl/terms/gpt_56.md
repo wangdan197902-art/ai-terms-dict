@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /nl/terms/gpt_56/
 date: "2026-07-18T15:56:15.933788Z"
 lastmod: "2026-07-18T17:15:08.746721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een hypothetische of toekomstige iteratie van de Generative Pre-trained Transformer-serie van OpenAI, die een vooruitgang vertegenwoordigt ten opzichte van huidige GPT-modellen."
 ---
-
 ## Definition
 
 GPT-5.6 verwijst naar een speculatieve of aanstaande versie in de lijn van de Large Language Models van OpenAI. Hoewel specifieke details kunnen variëren afhankelijk van het ontwikkelingsmoment, kenmerken dergelijke iteraties zich typisch door verbeterde prestaties en capaciteiten.

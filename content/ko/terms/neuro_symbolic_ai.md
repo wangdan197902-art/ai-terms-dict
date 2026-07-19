@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /ko/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:07:43.981170Z"
 lastmod: "2026-07-18T16:38:06.891020Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "신경망의 학습 능력과 심볼릭 추론의 논리 및 투명성을 결합한 AI 접근 방식."
 ---
-
 ## Definition
 
 뉴로심볼릭 AI는 하위 심볼릭(sub-symbolic) 신경 학습 방법과 심볼릭 논리 기반 추론 시스템을 통합합니다. 이 하이브리드 접근 방식은 순수 딥러닝의 한계(예: 설명 가능성 부족 등)를 극복하는 것을 목표로 합니다.

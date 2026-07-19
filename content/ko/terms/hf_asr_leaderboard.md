@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /ko/terms/hf_asr_leaderboard/
 date: "2026-07-18T15:58:32.648579Z"
 lastmod: "2026-07-18T16:38:06.849545Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "자동 음성 인식(ASR) 모델의 성능을 평가하고 비교하는 허깅 페이스(Hugging Face)상의 랭킹 시스템입니다."
 ---
-
 ## Definition
 
 HF ASR 리더보드는 허깅 페이스가 호스팅하는 커뮤니티 기반 지표 플랫폼으로, 자동 음성 인식 분야의 최첨단 성능을 추적합니다. 연구자와 개발자들이 다양한 ASR 모델의 벤치마킹 결과를 비교하고 최신 기술 동향을 파악할 수 있도록 지원합니다.

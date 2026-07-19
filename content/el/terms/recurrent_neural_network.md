@@ -1,23 +1,24 @@
 ---
-title: "Recurrent Neural Network"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Recurrent Neural Network
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /el/terms/recurrent_neural_network/
-date: "2026-07-18T15:44:09.922187Z"
-lastmod: "2026-07-18T17:15:09.870455Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:44:09.922187Z'
+lastmod: '2026-07-18T17:15:09.870455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα RNN είναι μια κατηγορία τεχνητών νευρωνικών δικτύων όπου οι συνδέσεις μεταξύ κόμβων σχηματίζουν ένα κατευθυνόμενο γράφο κατά μήκος μιας χρονικής ακολουθίας."
+source: agnes_llm
+status: published
+language: el
+description: Ένα RNN είναι μια κατηγορία τεχνητών νευρωνικών δικτύων όπου οι συνδέσεις
+  μεταξύ κόμβων σχηματίζουν ένα κατευθυνόμενο γράφο κατά μήκος μιας χρονικής ακολουθίας.
 ---
-
 ## Definition
 
 Τα RNNs είναι σχεδιασμένα να αναγνωρίζουν μοτίβα σε ακολουθίες δεδομένων, όπως κείμενο, γονιδιώματα, χειρόγραφα ή ομιλία. Σε αντίθεση με τα δίκτυα προώθησης, έχουν εσωτερική μνήμη που καταγράφει πληροφορίες σχετικά με προηγούμενες εισόδους, επιτρέποντας την επεξεργασία δυναμικών χρονικών σειρών.

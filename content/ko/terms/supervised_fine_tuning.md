@@ -1,23 +1,23 @@
 ---
-title: "지도 미세 조정"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: 지도 미세 조정
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /ko/terms/supervised_fine_tuning/
-date: "2026-07-18T15:36:33.155955Z"
-lastmod: "2026-07-18T16:38:06.800681Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:36:33.155955Z'
+lastmod: '2026-07-18T16:38:06.800681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특정 작업이나 도메인에 맞게 적응시키기 위해 사전 훈련된 모델을 특정 데이터셋으로 추가로 훈련하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 특정 작업이나 도메인에 맞게 적응시키기 위해 사전 훈련된 모델을 특정 데이터셋으로 추가로 훈련하는 과정입니다.
 ---
-
 ## Definition
 
 지도 미세 조정(SFT)은 언어 모델과 같은 대규모 사전 훈련된 모델을 가져와 특정 하류 작업을 위해 레이블이 지정된 작고 고품질의 데이터셋으로 훈련을 계속하는 것을 의미합니다.

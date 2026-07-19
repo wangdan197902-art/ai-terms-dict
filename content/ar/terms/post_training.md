@@ -1,23 +1,24 @@
 ---
-title: "ما بعد التدريب"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: ما بعد التدريب
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /ar/terms/post_training/
-date: "2026-07-18T15:34:59.397660Z"
-lastmod: "2026-07-18T17:15:08.456939Z"
+slug: post_training
+date: '2026-07-18T15:34:59.397660Z'
+lastmod: '2026-07-18T17:15:08.456939Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير مصطلح ما بعد التدريب إلى مرحلة تحسين نموذج تم تدريبه مسبقاً على مجموعات بيانات محددة لتكييفه مع مهام معينة أو لتحسين أدائه."
+source: agnes_llm
+status: published
+language: ar
+description: يشير مصطلح ما بعد التدريب إلى مرحلة تحسين نموذج تم تدريبه مسبقاً على
+  مجموعات بيانات محددة لتكييفه مع مهام معينة أو لتحسين أدائه.
 ---
-
 ## Definition
 
 يُعد ما بعد التدريب مرحلة حاسمة في دورة حياة التعلم الآلي تحدث بعد التدريب الأولي للنموذج على بيانات واسعة النطاق وعامة الغرض. خلال هذه المرحلة، يخضع النموذج لعمليات ضبط دقيقة (Fine-tuning) وتكييف لضمان توافقه مع المهام المستهدفة بكفاءة عالية.

@@ -1,23 +1,24 @@
 ---
-title: "מיוסד"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: מיוסד
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /he/terms/grounded/
-date: "2026-07-18T15:26:14.702547Z"
-lastmod: "2026-07-18T17:15:09.479118Z"
+slug: grounded
+date: '2026-07-18T15:26:14.702547Z'
+lastmod: '2026-07-18T17:15:09.479118Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתייחס למערכות בינה מלאכותית המקשרות בין סמלים או שפה מופשטים לבין נתונים חושיים מהעולם האמיתי או פעולות פיזיות."
+source: agnes_llm
+status: published
+language: he
+description: מתייחס למערכות בינה מלאכותית המקשרות בין סמלים או שפה מופשטים לבין נתונים
+  חושיים מהעולם האמיתי או פעולות פיזיות.
 ---
-
 ## Definition
 
 בבינה מלאכותית, המונח 'מיוסד' מתאר את התהליך של חיבור ייצוגים סמליים, כגון מילים או הצעות לוגיות, לרפרנטים האמיתיים שלהם בעולם הפיזי או בחוויה החושית.

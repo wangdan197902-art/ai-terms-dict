@@ -1,23 +1,23 @@
 ---
-title: "過学習"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: 過学習
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /ja/terms/overfitting/
-date: "2026-07-18T10:59:55.934801Z"
-lastmod: "2026-07-18T11:44:45.052367Z"
+slug: overfitting
+date: '2026-07-18T10:59:55.934801Z'
+lastmod: '2026-07-18T11:44:45.052367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機械学習アルゴリズムが背後にある信号ではなくノイズを捉えてしまい、汎化性能を低下させるモデル化のエラー。"
+source: agnes_llm
+status: published
+language: ja
+description: 機械学習アルゴリズムが背後にある信号ではなくノイズを捉えてしまい、汎化性能を低下させるモデル化のエラー。
 ---
-
 ## Definition
 
 過学習は、モデルがトレーニングデータ（そのランダムなノイズや外れ値を含む）を過度に学習してしまった状態を指します。その結果、トレーニングデータ上では優れたパフォーマンスを示しますが、新しく未知のテストデータに対するパフォーマンスは著しく低下します。

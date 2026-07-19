@@ -1,23 +1,24 @@
 ---
-title: "Wetware Bilgisayar"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Wetware Bilgisayar
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /tr/terms/wetware_computer/
-date: "2026-07-18T16:21:27.805163Z"
-lastmod: "2026-07-18T16:38:07.377703Z"
+slug: wetware_computer
+date: '2026-07-18T16:21:27.805163Z'
+lastmod: '2026-07-18T16:38:07.377703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bilgi işlemek için yaşayan nöral doku (beyin hücreleri gibi) kullanan biyolojik bir hesaplama sistemi."
+source: agnes_llm
+status: published
+language: tr
+description: Bilgi işlemek için yaşayan nöral doku (beyin hücreleri gibi) kullanan
+  biyolojik bir hesaplama sistemi.
 ---
-
 ## Definition
 
 Wetware hesaplama, geleneksel silikon tabanlı donanım yerine biyolojik nöronların (çoğunlukla in vitro kültürlerde yetiştirilenler) birincil işleme birimleri olarak hizmet verdiği sistemleri ifade eder. Bu sistemler, biyolojik nöronların yüksek verimliliğini ve öğrenme kapasitesini hesaplama süreçlerine entegre ederek enerji verimliliği ve esnek bilgi işleme yetenekleri sunar.

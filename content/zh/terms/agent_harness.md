@@ -1,23 +1,23 @@
 ---
-title: "智能体框架"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: 智能体框架
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /zh/terms/agent_harness/
-date: "2026-07-18T11:04:26.113936Z"
-lastmod: "2026-07-18T11:44:45.439408Z"
+slug: agent_harness
+date: '2026-07-18T11:04:26.113936Z'
+lastmod: '2026-07-18T11:44:45.439408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "智能体框架（Agent harness）是管理系统中多个AI智能体的生命周期、通信和资源分配的基础设施层或框架。"
+source: agnes_llm
+status: published
+language: zh
+description: 智能体框架（Agent harness）是管理系统中多个AI智能体的生命周期、通信和资源分配的基础设施层或框架。
 ---
-
 ## Definition
 
 它作为多智能体系统的骨干，提供编排、监控和智能体间协调的工具。该框架确保智能体能够高效运行而不相互干扰。

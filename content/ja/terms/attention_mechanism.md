@@ -1,23 +1,23 @@
 ---
-title: "アテンション機構"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: アテンション機構
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /ja/terms/attention_mechanism/
-date: "2026-07-18T07:41:47.407810Z"
-lastmod: "2026-07-18T11:44:44.585796Z"
+slug: attention_mechanism
+date: '2026-07-18T07:41:47.407810Z'
+lastmod: '2026-07-18T11:44:44.585796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューラルネットワークが入力データの特定の部分に焦点を当てることを可能にする技術。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューラルネットワークが入力データの特定の部分に焦点を当てることを可能にする技術。
 ---
-
 ## Definition
 
 アテンション機構は、モデルが入力シーケンス内の異なる要素の重要度を動的に重み付けすることを可能にします。すべての入力データを同様に扱うのではなく、異なるレベルの重要性を割り当てます。

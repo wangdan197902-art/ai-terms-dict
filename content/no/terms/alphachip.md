@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /no/terms/alphachip/
-date: "2026-07-18T15:42:17.188163Z"
-lastmod: "2026-07-18T16:38:06.970023Z"
+slug: alphachip
+date: '2026-07-18T15:42:17.188163Z'
+lastmod: '2026-07-18T16:38:06.970023Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et AI-drevet verktøy for kipsdesign utviklet av Google DeepMind som bruker forsterkningslæring for å optimalisere layouten av integrerte kretser."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et AI-drevet verktøy for kipsdesign utviklet av Google DeepMind som bruker
+  forsterkningslæring for å optimalisere layouten av integrerte kretser.
 ---
-
 ## Definition
 
 AlphaChip er et spesialisert AI-system designet for å automatisere og forbedre plasseringen og koblingen av komponenter på mikrochips. Ved å bruke dyp forsterkningslæring reduseres tiden betydelig.

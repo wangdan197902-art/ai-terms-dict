@@ -1,23 +1,24 @@
 ---
-title: "Dönüştürücü (Transformer)"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Dönüştürücü (Transformer)
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /tr/terms/transformer/
-date: "2026-07-18T15:30:35.879437Z"
-lastmod: "2026-07-18T16:38:07.246381Z"
+slug: transformer
+date: '2026-07-18T15:30:35.879437Z'
+lastmod: '2026-07-18T16:38:07.246381Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sıralı veriyi ardışık olarak değil, paralel olarak işleyen öz-dikkat mekanizmalarına dayalı derin öğrenme mimarisi."
+source: agnes_llm
+status: published
+language: tr
+description: Sıralı veriyi ardışık olarak değil, paralel olarak işleyen öz-dikkat
+  mekanizmalarına dayalı derin öğrenme mimarisi.
 ---
-
 ## Definition
 
 'Attention Is All You Need' makalesinde tanıtılan Dönüştürücü mimarisi, doğal dil işlemeyi ve ötesini devrim niteliğinde değiştirdi. Çok başlı öz-dikkat kullanarak, girdi dizisindeki farklı kelimeler veya öğeler arasındaki ilişkilerin önemini ölçer.

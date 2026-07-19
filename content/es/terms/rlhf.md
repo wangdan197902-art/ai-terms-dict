@@ -1,23 +1,24 @@
 ---
-title: "Aprendizaje por Refuerzo a partir de Retroalimentación Humana"
-term_id: "rlhf"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "fine_tuning"]
+title: Aprendizaje por Refuerzo a partir de Retroalimentación Humana
+term_id: rlhf
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Fine-Tuning
 difficulty: 5
 weight: 1
-slug: "rlhf"
-aliases:
-  - /es/terms/rlhf/
-date: "2026-07-18T10:25:55.491421Z"
-lastmod: "2026-07-18T11:44:44.749603Z"
+slug: rlhf
+date: '2026-07-18T10:25:55.491421Z'
+lastmod: '2026-07-18T11:44:44.749603Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "RLHF es una técnica que alinea los modelos de IA con las preferencias humanas utilizando la retroalimentación humana para entrenar un modelo de recompensa para el aprendizaje por refuerzo."
+source: agnes_llm
+status: published
+language: es
+description: RLHF es una técnica que alinea los modelos de IA con las preferencias
+  humanas utilizando la retroalimentación humana para entrenar un modelo de recompensa
+  para el aprendizaje por refuerzo.
 ---
-
 ## Definition
 
 El Aprendizaje por Refuerzo a partir de Retroalimentación Humana (RLHF) es un método utilizado para ajustar modelos de lenguaje grandes para que sus salidas se alineen mejor con los valores y expectativas humanos. Típicamente implica tres pasos:

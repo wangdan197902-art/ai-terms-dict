@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /cs/terms/scientific/
 date: "2026-07-18T15:28:56.027949Z"
 lastmod: "2026-07-18T17:15:09.077549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vědecký přístup v AI se týká aplikace přísných empirických metod, testování hypotéz a reprodukovatelnosti ve výzkumu."
 ---
-
 ## Definition
 
 Vědecký přístup v umělé inteligenci zdůrazňuje vývoj a validaci založenou na důkazech. Zahrnuje formulování hypotéz o chování modelu, provádění kontrolovaných experimentů a

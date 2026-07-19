@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /ar/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:52:02.964148Z"
 lastmod: "2026-07-18T17:15:08.492042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات تتألف من أزواج سؤال وجواب من موقع ويكي إينسرز، تُستخدم لتدريب النماذج على فهم النية والتكافؤ الدلالي."
 ---
-
 ## Definition
 
 تحتوي هذه المجموعة على ملايين أزواج السؤال والجواب التي تم استخراجها من منصة ويكي إينسرز التي أوقفت نشاطها. تُستخدم بشكل أساسي لتدريب نماذج استرجاع الفقرات الكثيفة والمطابقة الدلالية. ومن خلال الاستفادة

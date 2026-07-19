@@ -1,23 +1,23 @@
 ---
-title: "בחירת אלגוריתם"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: בחירת אלגוריתם
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /he/terms/algorithm_selection/
-date: "2026-07-18T15:41:31.892710Z"
-lastmod: "2026-07-18T17:15:09.511021Z"
+slug: algorithm_selection
+date: '2026-07-18T15:41:31.892710Z'
+lastmod: '2026-07-18T17:15:09.511021Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "בחירת אלגוריתם היא התהליך של בחירת שיטה חישובית המתאימה ביותר לבעיה ספציפית, בהתבסס על מדדי ביצוע ואילוצים."
+source: agnes_llm
+status: published
+language: he
+description: בחירת אלגוריתם היא התהליך של בחירת שיטה חישובית המתאימה ביותר לבעיה ספציפית,
+  בהתבסס על מדדי ביצוע ואילוצים.
 ---
-
 ## Definition
 
 בחירת אלגוריתם כוללת הערכה של גישות חישוביות שונות כדי לקבוע איזו מהן פותרת משימה נתונה ביעילות רבה יותר. תהליך זה לוקח בחשבון גורמים כמו מורכבות זמן, מורכבות מקום ודיוק.

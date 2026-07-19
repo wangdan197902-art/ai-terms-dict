@@ -1,23 +1,24 @@
 ---
-title: "Komprimerade tensorer"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Komprimerade tensorer
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /sv/terms/compressed_tensors/
-date: "2026-07-18T15:49:36.210141Z"
-lastmod: "2026-07-18T17:15:08.985842Z"
+slug: compressed_tensors
+date: '2026-07-18T15:49:36.210141Z'
+lastmod: '2026-07-18T17:15:08.985842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Tensorer vars dataprecision eller storlek har minskats för att optimera lagring och beräkningseffektivitet."
+source: agnes_llm
+status: published
+language: sv
+description: Tensorer vars dataprecision eller storlek har minskats för att optimera
+  lagring och beräkningseffektivitet.
 ---
-
 ## Definition
 
 Komprimerade tensorer är multidimensionella arrayer som används inom djupinlärning där den numeriska precisionen (t.ex. från float32 till int8) eller sparsiteten har reducerats. Denna teknik, känd som kvantisering eller komprimering,

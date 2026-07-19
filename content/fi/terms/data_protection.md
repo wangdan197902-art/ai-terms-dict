@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /fi/terms/data_protection/
 date: "2026-07-18T15:35:41.947675Z"
 lastmod: "2026-07-18T17:15:09.368852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jolla suojataan arkaluonteista tietoa luvattomalta pääsyltä, korruptoitumiselta tai varkaukselta sen koko elinkaaren ajan."
 ---
-
 ## Definition
 
 Tietosuoja kattaa oikeudelliset, tekniset ja organisaatiotasoiset toimenpiteet, jotka on suunniteltu suojaamaan henkilö- ja liikesalaisuuksia tietovuodoilta ja väärinkäytöltä. Tekoälyn kontekstissa tämä sisältää salauksen, pääsynvalvontamekanismien ja anonymisointitekniikoiden käyttöönoton.

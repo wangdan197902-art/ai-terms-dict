@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /he/terms/podcast/
 date: "2026-07-18T16:17:22.515485Z"
 lastmod: "2026-07-18T17:15:09.574171Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קובץ שמע או וידאו דיגיטלי הזמין באינטרנט להורדה או הסטרימינג."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית וטכנולוגיה, פודקאסט מתייחס לתוכני מדיה דיגיטליים פרקיים המופצים באמצעות הזנות RSS, המאפשרים למשתמשים להירשם ולהאזין לדיונים, ראיונות או חומרים חינוכיים.

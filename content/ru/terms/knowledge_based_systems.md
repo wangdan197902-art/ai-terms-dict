@@ -1,23 +1,24 @@
 ---
-title: "Системы, основанные на знаниях"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Системы, основанные на знаниях
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /ru/terms/knowledge_based_systems/
-date: "2026-07-18T16:00:35.346636Z"
-lastmod: "2026-07-18T16:38:07.172819Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:00:35.346636Z'
+lastmod: '2026-07-18T16:38:07.172819Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "ИИ-системы, использующие явные базы знаний и механизмы вывода для решения сложных задач, требующих экспертизы человека."
+source: agnes_llm
+status: published
+language: ru
+description: ИИ-системы, использующие явные базы знаний и механизмы вывода для решения
+  сложных задач, требующих экспертизы человека.
 ---
-
 ## Definition
 
 Системы, основанные на знаниях (КБС), — это раздел искусственного интеллекта, который включает специфические предметные знания в компьютерную систему для выполнения задач, обычно требующих экспертизы человека. Они используют...

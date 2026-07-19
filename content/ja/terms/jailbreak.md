@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /ja/terms/jailbreak/
 date: "2026-07-18T10:59:21.201221Z"
 lastmod: "2026-07-18T11:44:45.048733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIモデルの安全フィルターや倫理制約を回避するために設計されたプロンプトエンジニアリング技法。"
 ---
-
 ## Definition
 
 ジェイルブレイクとは、AIモデルをだまして組み込みの安全ガイドラインを無視させ、ヘイトスピーチや危険な指示など禁止されたコンテンツを生成させるような特定の入力を構築する行為です。

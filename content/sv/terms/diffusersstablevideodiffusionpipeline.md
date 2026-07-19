@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stable Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /sv/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:54:20.067292Z"
-lastmod: "2026-07-18T17:15:08.997057Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:54:20.067292Z'
+lastmod: '2026-07-18T17:15:08.997057Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En Hugging Face Diffusers-pipeline som använder Stable Video Diffusion-modellen för att generera videor från statiska bilder."
+source: agnes_llm
+status: published
+language: sv
+description: En Hugging Face Diffusers-pipeline som använder Stable Video Diffusion-modellen
+  för att generera videor från statiska bilder.
 ---
-
 ## Definition
 
 Denna term avser en specifik implementation i Hugging Face Diffusers-biblioteket som är utformad för videogenrering. Den integrerar Stable Video Diffusion (SVD)-modellen, vilket är en latent videodiffusionsmodell.

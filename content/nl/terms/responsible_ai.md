@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 2
 weight: 1
 slug: "responsible_ai"
-aliases:
-  - /nl/terms/responsible_ai/
 date: "2026-07-18T16:15:38.361558Z"
 lastmod: "2026-07-18T17:15:08.784077Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een kader ervoor zorgt dat AI-systemen ethisch worden ontwikkeld en ingezet, met focus op eerlijkheid, transparantie, verantwoordingsplicht en veiligheid."
 ---
-
 ## Definition
 
 Verantwoord AI-gebruik omvat principes en praktijken gericht op het beperken van de risico's die gepaard gaan met kunstmatige intelligentie. Het houdt in het auditen van modellen op bias, het waarborgen van de uitlegbaarheid van beslissingen, het beschermen van gegevensprivacy en het waarborgen van sociale verantwoordelijkheid.

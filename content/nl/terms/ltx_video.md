@@ -1,23 +1,25 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /nl/terms/ltx_video/
-date: "2026-07-18T16:05:18.915327Z"
-lastmod: "2026-07-18T17:15:08.763860Z"
+slug: ltx_video
+date: '2026-07-18T16:05:18.915327Z'
+lastmod: '2026-07-18T17:15:08.763860Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een latent diffusion-model dat specifiek is geoptimaliseerd voor het genereren van hoogwaardige, tijdelijk consistente video-inhoud vanuit tekst- of afbeeldingsprompt's."
+source: agnes_llm
+status: published
+language: nl
+description: Een latent diffusion-model dat specifiek is geoptimaliseerd voor het
+  genereren van hoogwaardige, tijdelijk consistente video-inhoud vanuit tekst- of
+  afbeeldingsprompt's.
 ---
-
 ## Definition
 
 Ltx Video vertegenwoordigt een vooruitgang in generatieve AI voor video, waarbij latent space-diffusieprocessen worden gebruikt om coherente beweging en visuele details te creëren. Het adresseert veelvoorkomende uitdagingen in videogeneratie, zoals tijdelijke inconsistenties en artefacten, door geavanceerde methoden toe te passen binnen het latent domein.

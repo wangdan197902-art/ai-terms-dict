@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /ro/terms/offline_learning/
 date: "2026-07-18T16:14:23.107750Z"
 lastmod: "2026-07-18T17:15:09.688071Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Învățarea offline este un paradigmă de antrenament în care modelele sunt antrenate pe seturi de date statice, fără a interacționa cu mediul live în timpul fazei de învățare."
 ---
-
 ## Definition
 
 Cunoscută și sub numele de învățare în lot (batch learning), învățarea offline implică antrenarea modelelor de învățare automată pe un set de date fix, colectat anterior. Spre deosebire de învățarea online, modelul nu își actualizează parametrii în timp real.

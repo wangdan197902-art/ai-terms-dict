@@ -1,23 +1,24 @@
 ---
-title: "Βελτιστοποίηση Υπερπαραμέτρων"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Βελτιστοποίηση Υπερπαραμέτρων
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /el/terms/hyperparameter_tuning/
-date: "2026-07-18T16:13:18.047424Z"
-lastmod: "2026-07-18T17:15:09.918376Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T16:13:18.047424Z'
+lastmod: '2026-07-18T17:15:09.918376Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία συστηματικής αναζήτησης της καλύτερης συνδυαστικής ρύθμισης των υπερπαραμέτρων για τη βελτιστοποίηση της απόδοσης του μοντέλου."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία συστηματικής αναζήτησης της καλύτερης συνδυαστικής ρύθμισης
+  των υπερπαραμέτρων για τη βελτιστοποίηση της απόδοσης του μοντέλου.
 ---
-
 ## Definition
 
 Η βελτιστοποίηση υπερπαραμέτρων περιλαμβάνει την αξιολόγηση διαφορετικών συνόλων υπερπαραμέτρων για την εύρεση της διαμόρφωσης που αποδίδει τη μέγιστη ακρίβεια του μοντέλου ή το χαμηλότερο ποσοστό σφάλματος. Κοινές στρατηγικές περιλαμβάνουν την αναζήτηση πλέγματος, την τυχαία αναζήτηση κ.λπ.

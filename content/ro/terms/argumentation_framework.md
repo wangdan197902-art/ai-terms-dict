@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /ro/terms/argumentation_framework/
 date: "2026-07-18T15:44:13.362452Z"
 lastmod: "2026-07-18T17:15:09.627625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O structură formală utilizată pentru a modela și rezolva conflictele dintre afirmații sau decizii concurente în sistemele de IA."
 ---
-
 ## Definition
 
 Cadrul de argumentare oferă o bază matematică pentru reprezentarea argumentelor, atacurilor și apărărilor acestora. În ingineria IA, ele ajută sistemele să ia decizii transparente și justificabile, cântărind diferite perspective și dovezi.

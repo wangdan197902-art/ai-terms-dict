@@ -1,23 +1,24 @@
 ---
-title: "Imagine la Imagine"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Imagine la Imagine
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /ro/terms/image_to_image/
-date: "2026-07-18T16:04:06.348511Z"
-lastmod: "2026-07-18T17:15:09.667631Z"
+slug: image_to_image
+date: '2026-07-18T16:04:06.348511Z'
+lastmod: '2026-07-18T17:15:09.667631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de IA generativă care transformă o imagine de intrare într-un alt stil, format sau conținut, păstrând elementele structurale."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de IA generativă care transformă o imagine de intrare într-un
+  alt stil, format sau conținut, păstrând elementele structurale.
 ---
-
 ## Definition
 
 Imagine la Imagine (I2I) implică utilizarea modelelor de învățare profundă, cum ar fi GAN-urile sau modelele de difuzie, pentru a converti o imagine în alta. Spre deosebire de filtrele simple, I2I poate altera drastic aspectul, cum ar fi transformarea unei fotografii de zi într-una nocturnă.

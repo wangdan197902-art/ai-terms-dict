@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /it/terms/knowledge_level/
 date: "2026-07-18T16:06:55.356339Z"
 lastmod: "2026-07-18T17:15:08.640614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una prospettiva di progettazione astratta focalizzata su ciò che un agente sa piuttosto che su come elabora internamente le informazioni."
 ---
-
 ## Definition
 
 Coniato da Allen Newell, il livello della conoscenza analizza i sistemi intelligenti in base alle loro credenze e obiettivi, indipendentemente dalla loro implementazione fisica. Separa la razionalità delle azioni di un agente dai dettagli implementativi sottostanti.

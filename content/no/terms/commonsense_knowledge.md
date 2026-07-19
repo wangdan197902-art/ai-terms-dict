@@ -1,23 +1,24 @@
 ---
-title: "Folkelig kunnskap"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Folkelig kunnskap
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /no/terms/commonsense_knowledge/
-date: "2026-07-18T15:46:37.876476Z"
-lastmod: "2026-07-18T16:38:06.981591Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:46:37.876476Z'
+lastmod: '2026-07-18T16:38:06.981591Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Bakgrunnsinformasjon og intuitiv forståelse av den fysiske og sosiale verden som mennesker eier, men maskiner ofte mangler."
+source: agnes_llm
+status: published
+language: 'no'
+description: Bakgrunnsinformasjon og intuitiv forståelse av den fysiske og sosiale
+  verden som mennesker eier, men maskiner ofte mangler.
 ---
-
 ## Definition
 
 Folkelig kunnskap refererer til den enorme mengden implisitt informasjon om hverdagsliv, fysikk, sosiale normer og årsak-virkning-sammenhenger som mennesker tilegner seg naturlig. Innen AI er det utfordrende å gi maskiner denne typen intuisjon.

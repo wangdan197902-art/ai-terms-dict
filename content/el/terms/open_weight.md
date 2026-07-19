@@ -1,23 +1,23 @@
 ---
-title: "open-weight"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: open-weight
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /el/terms/open_weight/
-date: "2026-07-18T15:36:55.069913Z"
-lastmod: "2026-07-18T17:15:09.861956Z"
+slug: open_weight
+date: '2026-07-18T15:36:55.069913Z'
+lastmod: '2026-07-18T17:15:09.861956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μοντέλα ΤΝ όπου οι εκπαιδευμένες παραμέτροι (βάρη) δημοσιεύονται, αλλά ο κώδικας εκπαίδευσης και το σύνολο δεδομένων μπορεί να παραμείνουν ιδιωτικά."
+source: agnes_llm
+status: published
+language: el
+description: Μοντέλα ΤΝ όπου οι εκπαιδευμένες παραμέτροι (βάρη) δημοσιεύονται, αλλά
+  ο κώδικας εκπαίδευσης και το σύνολο δεδομένων μπορεί να παραμείνουν ιδιωτικά.
 ---
-
 ## Definition
 
 Τα μοντέλα open-weight διαφέρουν από την πλήρη open-source ΤΝ επειδή μόνο οι τελικές μαθημένες παράμετροι απελευθερώνονται, όχι απαραίτητα υποδομή ή δεδομένα που χρησιμοποιήθηκαν για τη δημιουργία τους. Αυτό επιτρέπει στους χρήστες να εκτελούν inference

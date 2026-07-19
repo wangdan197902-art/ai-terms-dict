@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /pt/terms/together/
 date: "2026-07-18T14:40:01.057812Z"
 lastmod: "2026-07-18T15:51:59.440925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Juntos geralmente descreve sistemas de IA colaborativos ou métodos de ensemble, onde múltiplos modelos ou agentes trabalham em conjunto para alcançar um resultado unificado."
 ---
-
 ## Definition
 
 Embora não seja um termo técnico estrito, 'juntos' em contextos de IA frequentemente implica colaboração, como em sistemas multiagente trabalhando em direção a um objetivo comum ou aprendizado de ensemble, onde múltiplos modelos combinam suas previsões.

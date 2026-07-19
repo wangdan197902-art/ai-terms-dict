@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /fi/terms/feedback_neural_network/
 date: "2026-07-18T15:58:03.620738Z"
 lastmod: "2026-07-18T17:15:09.411731Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Neuroverkkotekniikka, jossa yhteydet muodostavat suunnattuja syklejä, mikä mahdollistaa tiedon säilymisen ajan kuluessa."
 ---
-
 ## Definition
 
 Takaisinkyteiset neuroverkot, joita kutsutaan myös toistuviksi neuroverkoiksi (RNN), sisältävät silmukoita, jotka mahdollistavat signaalien paluun edellisiin kerroksiin. Tämä toisto mahdollistaa verkon ylläpitämään sisäistä tilaa ja käsittelemään sekvenssejä.

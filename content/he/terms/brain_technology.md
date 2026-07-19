@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /he/terms/brain_technology/
 date: "2026-07-18T15:46:58.107749Z"
 lastmod: "2026-07-18T17:15:09.518344Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכנולוגיות המיועדות להתחבר, לפקח או לשנות את פעילות המוח האנושי, כולל ממשקי מוח-מחשב וכלי הדמיה עצבית."
 ---
-
 ## Definition
 
 טכנולוגיה מוחית כוללת מערכות חומרה ותוכנה הפועלות ישירות עם מערכת העצבים המרכזית. דוגמאות בולטות כוללות ממשקי מוח-מחשב (BCI) המתרגמים אותות עצביים לפקודות דיגיטליות, וכלי הדמיה המאפשרים מיפוי פעילות מוחית.

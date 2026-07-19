@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /ro/terms/robotic_process_automation/
 date: "2026-07-18T16:19:40.538865Z"
 lastmod: "2026-07-18T17:15:09.699531Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea botilor software pentru a automatiza sarcinile digitale repetitive și voluminoase, efectuate tradițional de oameni în procesele de afaceri."
 ---
-
 ## Definition
 
 Automatizarea Proceselor Robotice (RPA) utilizează roboți software, adesea îmbunătățiți cu IA, pentru a imita interacțiunile umane cu sistemele digitale. Este folosită pentru a optimiza fluxurile de lucru, cum ar fi introduceria de date sau procesarea facturilor.

@@ -1,23 +1,23 @@
 ---
-title: "เสียงสู่เสียง"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: เสียงสู่เสียง
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /th/terms/audio_to_audio/
-date: "2026-07-18T15:42:54.623177Z"
-lastmod: "2026-07-18T16:38:07.576040Z"
+slug: audio_to_audio
+date: '2026-07-18T15:42:54.623177Z'
+lastmod: '2026-07-18T16:38:07.576040Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "งานสร้างด้วย AI ที่แปลงเสียงอินพุตเป็นเสียงเอาต์พุต โดยคงไว้หรือปรับเปลี่ยนลักษณะเฉพาะบางอย่าง"
+source: agnes_llm
+status: published
+language: th
+description: งานสร้างด้วย AI ที่แปลงเสียงอินพุตเป็นเสียงเอาต์พุต โดยคงไว้หรือปรับเปลี่ยนลักษณะเฉพาะบางอย่าง
 ---
-
 ## Definition
 
 เสียงสู่เสียงหมายถึงสถาปัตยกรรมเครือข่ายประสาทเทียมที่ออกแบบมาเพื่อแมปสัญญาณเสียงหนึ่งไปยังอีกสัญญาณหนึ่ง ต่างจากการแปลงข้อความเป็นเสียง ซึ่งเกี่ยวข้องกับการแปลงเวฟฟอร์มหรือสเปกโตรแกรมโดยตรง

@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /ja/terms/alignment/
 date: "2026-07-18T07:41:35.331008Z"
 lastmod: "2026-07-18T11:44:44.585437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムの目的や行動が人間の価値観や意図と一致するようにするプロセス。"
 ---
-
 ## Definition
 
 アライメントは、AIシステムが文字通り求められたことだけでなく、人間が本当に望んでいることを実行するようにすることを重視します。これには、人間のフィードバックによる強化学習（RLHF）などの手法が含まれます。

@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /fi/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:35:27.713754Z"
 lastmod: "2026-07-18T17:15:09.368323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ketjuajatteluprompting on tekniikka, joka kannustaa suuria kielimalleja tuottamaan välisiä päättelyvaiheita ennen lopullisen vastauksen antamista."
 ---
-
 ## Definition
 
 Ketjuajattelu (CoT) -prompting parantaa suurten kielimallien suorituskykyä monimutkaisissa päättelytehtävissä pyytämällä mallia nimenomaisesti hahmottamaan vaiheittaisen logiikkansa. Sen sijaan, että malli hyppäisi suoraan

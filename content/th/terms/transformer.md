@@ -1,23 +1,24 @@
 ---
-title: "ทรานส์ฟอร์เมอร์"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: ทรานส์ฟอร์เมอร์
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /th/terms/transformer/
-date: "2026-07-18T15:31:26.123670Z"
-lastmod: "2026-07-18T16:38:07.551865Z"
+slug: transformer
+date: '2026-07-18T15:31:26.123670Z'
+lastmod: '2026-07-18T16:38:07.551865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถาปัตยกรรมการเรียนรู้เชิงลึกที่ใช้กลไกการให้ความสำคัญกับตนเอง (self-attention) เพื่อประมวลผลข้อมูลลำดับแบบขนานแทนการทำตามลำดับ"
+source: agnes_llm
+status: published
+language: th
+description: สถาปัตยกรรมการเรียนรู้เชิงลึกที่ใช้กลไกการให้ความสำคัญกับตนเอง (self-attention)
+  เพื่อประมวลผลข้อมูลลำดับแบบขนานแทนการทำตามลำดับ
 ---
-
 ## Definition
 
 สถาปัตยกรรมทรานส์ฟอร์เมอร์ถูกนำเสนอในบทความ 'Attention Is All You Need' และปฏิวัติวงการประมวลผลภาษาธรรมชาติและสาขาอื่นๆ โดยใช้การให้ความสำคัญกับตนเองหลายหัว (multi-head self-attention) เพื่อชั่งน้ำหนักความสำคัญของข้อมูลต่างๆ ในลำดับ

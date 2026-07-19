@@ -1,23 +1,26 @@
 ---
-title: "Descente de gradient stochastique différentiellement privée"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Descente de gradient stochastique différentiellement privée
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /fr/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T11:13:36.729923Z"
-lastmod: "2026-07-18T11:44:45.242665Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T11:13:36.729923Z'
+lastmod: '2026-07-18T11:44:45.242665Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un algorithme d'optimisation qui modifie la SGD standard en tronquant les gradients et en ajoutant du bruit pour garantir que le modèle entraîné respecte les contraintes de confidentialité différentie"
+source: agnes_llm
+status: published
+language: fr
+description: Un algorithme d'optimisation qui modifie la SGD standard en tronquant
+  les gradients et en ajoutant du bruit pour garantir que le modèle entraîné respecte
+  les contraintes de confidentialité différentie
 ---
-
 ## Definition
 
 La DP-SGD est une variante de la Descente de Gradient Stochastique conçue pour protéger la confidentialité des données d'entraînement. Elle fonctionne en tronquant la contribution du gradient de chaque échantillon pour limiter la sensibilité, puis en ajoutant du bruit gaussien.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /ko/terms/large_scale/
 date: "2026-07-18T15:31:53.946092Z"
 lastmod: "2026-07-18T16:38:06.789646Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "방대한 양의 데이터, 매개변수 또는 컴퓨팅 리소스를 사용하여 작동하는 AI 시스템이나 데이터셋을 설명합니다."
 ---
-
 ## Definition
 
 대규모는 AI 시스템 내 구성 요소의 규모를 의미하며, 종종 수십억 개의 매개변수, 테라바이트 단위의 학습 데이터, 또는 분산 컴퓨팅 클러스터를 포함합니다. 이 접근 방식은 GPT와 같은 파운데이션 모델의 기반이 되며, 더 나은 성능과 일반화 능력을 달성하기 위해 필수적입니다.

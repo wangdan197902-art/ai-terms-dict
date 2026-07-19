@@ -1,23 +1,24 @@
 ---
-title: "Strukturel risikominimering"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Strukturel risikominimering
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /da/terms/structural_risk_minimization/
-date: "2026-07-18T16:20:25.062773Z"
-lastmod: "2026-07-18T17:15:09.334567Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:20:25.062773Z'
+lastmod: '2026-07-18T17:15:09.334567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et princip i statistisk læring, der søger at minimere øvre grænse for generaliseringsfejlen ved at balancere modellens tilpasning og kompleksitet."
+source: agnes_llm
+status: published
+language: da
+description: Et princip i statistisk læring, der søger at minimere øvre grænse for
+  generaliseringsfejlen ved at balancere modellens tilpasning og kompleksitet.
 ---
-
 ## Definition
 
 Strukturel risikominimering (SRM) er en metode til at minimere forventet risiko ved at kontrollere modellens kompleksitet for at forhindre overtilpasning. Den udvider empirisk risikominimering ved at tilføje en regulariserings-te

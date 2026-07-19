@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /pt/terms/weak_artificial_intelligence/
 date: "2026-07-18T15:26:53.721892Z"
 lastmod: "2026-07-18T15:51:59.541895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "IA projetada para realizar tarefas específicas dentro de um contexto limitado, sem possuir capacidades cognitivas gerais."
 ---
-
 ## Definition
 
 A inteligência artificial fraca, também conhecida como IA estreita, refere-se a sistemas projetados para resolver problemas particulares ou executar tarefas específicas, como reconhecimento facial ou tradução de idiomas. Diferente da

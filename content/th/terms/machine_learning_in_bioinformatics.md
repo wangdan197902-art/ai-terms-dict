@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /th/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:04:11.088184Z"
 lastmod: "2026-07-18T16:38:07.628970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การประยุกต์ใช้แบบจำลองเชิงคำนวณเพื่อวิเคราะห์ข้อมูลทางชีววิทยา เช่น ลำดับจีโนมและโครงสร้างโปรตีน เพื่อค้นพบข้อมูลเชิงลึกทางชีววิทยา"
 ---
-
 ## Definition
 
 สาขาสหวิทยาการนี้ใช้การเรียนรู้ของเครื่องประมวลผลข้อมูลทางชีววิทยามหาศาล ช่วยให้นักวิจัยสามารถทำนายหน้าที่ของยีน จำแนกโรค และทำความเข้าใจอันตรกิริยาของโมเลกุลได้อย่างมีประสิทธิภาพ

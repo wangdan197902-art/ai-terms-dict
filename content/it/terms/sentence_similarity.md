@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /it/terms/sentence_similarity/
 date: "2026-07-18T16:20:52.648796Z"
 lastmod: "2026-07-18T17:15:08.667840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una metrica o un compito che quantifica quanto due frasi siano semanticamente simili, spesso rappresentato come un punteggio numerico."
 ---
-
 ## Definition
 
 La similarità tra frasi misura il grado di sovrapposizione semantica tra due frasi distinte. Va oltre la corrispondenza lessicale per comprendere significato, contesto e intento. Questo viene tipicamente ottenuto convertendo le frasi in vettori e calcolando la distanza o la somiglianza tra di essi.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /ar/terms/ai_data_center/
 date: "2026-07-18T15:40:47.886549Z"
 lastmod: "2026-07-18T17:15:08.469790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "منشأة متخصصة مصممة لاستضافة وتشغيل بنية تحتية حاسوبية عالية الأداء لأعباء عمل الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 مركز بيانات الذكاء الاصطناعي هو منشأة مادية محسنة لتشغيل تطبيقات الذكاء الاصطناعي، لا سيما تدريب واستنتاج التعلم العميق. تتميز هذه المراكز بأرفف خوادم عالية الكثافة وأنظمة تبريد متطورة.

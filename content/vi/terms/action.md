@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /vi/terms/action/
 date: "2026-07-18T15:23:17.677364Z"
 lastmod: "2026-07-18T16:38:07.679379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thao tác được thực hiện bởi một tác nhân để ảnh hưởng đến môi trường của nó."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo và robot, hành động đề cập đến một bước hoặc quyết định cụ thể được thực hiện bởi một tác nhân thông minh để tương tác với môi trường xung quanh. Các hành động được lựa chọn dựa trên trạng thái hiện tại

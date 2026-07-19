@@ -1,23 +1,24 @@
 ---
-title: "יציב (רובוסטי)"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: יציב (רובוסטי)
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /he/terms/robust/
-date: "2026-07-18T15:29:59.231678Z"
-lastmod: "2026-07-18T17:15:09.486303Z"
+slug: robust
+date: '2026-07-18T15:29:59.231678Z'
+lastmod: '2026-07-18T17:15:09.486303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתאר את היכולת של מודל או מערכת בינה מלאכותית לשמור על ביצועיה למרות רעשים, טעויות או קלטים לא צפויים."
+source: agnes_llm
+status: published
+language: he
+description: מתאר את היכולת של מודל או מערכת בינה מלאכותית לשמור על ביצועיה למרות
+  רעשים, טעויות או קלטים לא צפויים.
 ---
-
 ## Definition
 
 בתחום הבינה המלאכותית, יציבות (Robustness) מתייחסת לעמידות של מודל בפני התקפות עוינות, שינויים בהתפלגות הנתונים או קלטים רועשים. אלגוריתם יציב ימשיך לפעול כראוי גם בתנאים לא אידיאליים.

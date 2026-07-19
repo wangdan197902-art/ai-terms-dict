@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /ro/terms/unlike/
 date: "2026-07-18T15:31:20.558092Z"
 lastmod: "2026-07-18T17:15:09.606633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un operator logic utilizat în SQL și programare pentru a filtra înregistrările care nu se potrivesc cu o condiție specificată."
 ---
-
 ## Definition
 
 În interogarea bazelor de date și în logică, termenul 'Diferit de' se referă de obicei la operatorul NOT LIKE, care efectuează potrivirea șablonului invers. Acesta returnează true pentru rândurile în care valoarea coloanei nu se potrivește cu șablonul specificat.

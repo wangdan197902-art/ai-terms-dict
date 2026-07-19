@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /tr/terms/knowledge_level/
 date: "2026-07-18T15:59:38.698910Z"
 lastmod: "2026-07-18T16:38:07.324683Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir ajanın içsel bilgi işleme biçiminden ziyade ne bildiğine odaklanan soyut bir tasarım perspektifidir."
 ---
-
 ## Definition
 
 Allen Newell tarafından ortaya atılan bilgi seviyesi, akıllı sistemleri fiziksel uygulamalarından bağımsız olarak inançları ve hedefleri açısından analiz eder. Bir ajanın eylemlerinin rasyonelliğini ayırır.

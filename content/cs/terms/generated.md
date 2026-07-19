@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /cs/terms/generated/
 date: "2026-07-18T15:25:18.156136Z"
 lastmod: "2026-07-18T17:15:09.069451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obsah vytvořený modelem AI, nikoliv přímo načtený ze statické datové sady."
 ---
-
 ## Definition
 
 Termín 'vygenerováno' popisuje výstup produkovaný generativními modely AI, jako je text, obrázky, zvuk nebo kód. Na rozdíl od systémů založených na vyhledávání, které stahují existující data, generativní modely syntetizují nové

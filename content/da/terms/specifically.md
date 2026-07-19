@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /da/terms/specifically/
 date: "2026-07-18T15:30:16.837834Z"
 lastmod: "2026-07-18T17:15:09.234205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer til præcise, distinkte eller særlige detaljer inden for en bredere kontekst."
 ---
-
 ## Definition
 
 Inom AI-terminologi angiver 'specifikt' præcision i definitionen af modeller, datapunkter eller operationer. Det adskiller eksakte parametre fra generelle kategorier og sikrer klarhed i teknisk dokumentation.

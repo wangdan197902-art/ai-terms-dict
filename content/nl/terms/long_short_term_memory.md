@@ -1,23 +1,24 @@
 ---
-title: "Long Short-Term Memory (LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Long Short-Term Memory (LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /nl/terms/long_short_term_memory/
-date: "2026-07-18T15:37:34.744898Z"
-lastmod: "2026-07-18T17:15:08.706075Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:37:34.744898Z'
+lastmod: '2026-07-18T17:15:08.706075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een gespecialiseerde architectuur voor recurrente neurale netwerken (RNN), ontworpen om langetermijnafhankelijkheden in sequentiële data te leren."
+source: agnes_llm
+status: published
+language: nl
+description: Een gespecialiseerde architectuur voor recurrente neurale netwerken (RNN),
+  ontworpen om langetermijnafhankelijkheden in sequentiële data te leren.
 ---
-
 ## Definition
 
 LSTM-netwerken lossen het probleem van vervagende gradiënten op, dat veel voorkomt in standaard RNNs, door gebruik te maken van een celtoestand en drie poortmechanismen: input-, vergeet- en outputpoorten. Deze poorten reguleren de stroom van informatie, waardoor het netwerk kan beslissen welke informatie te onthouden en welke te vergeten.

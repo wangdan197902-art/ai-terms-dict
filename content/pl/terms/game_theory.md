@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /pl/terms/game_theory/
 date: "2026-07-18T15:56:06.308143Z"
 lastmod: "2026-07-18T17:15:08.876251Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Matematyczne badanie interakcji strategicznych między racjonalnymi decydentami, gdzie wyniki zależą od działań wszystkich uczestników."
 ---
-
 ## Definition
 
 Teoria gier to dział matematyki stosowanej modelujący interakcje strategiczne między racjonalnymi agentami. Analizuje sytuacje, w których sukces jednego gracza zależy od wyborów innych. Kluczowe...

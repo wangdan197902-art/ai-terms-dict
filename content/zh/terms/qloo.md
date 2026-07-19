@@ -1,23 +1,23 @@
 ---
-title: "Qloo"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: Qloo
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /zh/terms/qloo/
-date: "2026-07-18T11:31:12.103515Z"
-lastmod: "2026-07-18T11:44:45.547634Z"
+slug: qloo
+date: '2026-07-18T11:31:12.103515Z'
+lastmod: '2026-07-18T11:44:45.547634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Qloo 是一个由人工智能驱动的数据平台，提供关于消费者行为和文化趋势的预测性洞察。"
+source: agnes_llm
+status: published
+language: zh
+description: Qloo 是一个由人工智能驱动的数据平台，提供关于消费者行为和文化趋势的预测性洞察。
 ---
-
 ## Definition
 
 Qloo 作为一家数据智能公司运营，专注于通过先进的机器学习算法来理解人类偏好。它聚合并分析来自各种来源的海量数据集。

@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /vi/terms/softmax/
-date: "2026-07-18T15:37:23.306463Z"
-lastmod: "2026-07-18T16:38:07.714292Z"
+slug: softmax
+date: '2026-07-18T15:37:23.306463Z'
+lastmod: '2026-07-18T16:38:07.714292Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một hàm toán học chuyển đổi một vector các điểm số thực trị tùy ý thành một phân phối xác suất."
+source: agnes_llm
+status: published
+language: vi
+description: Một hàm toán học chuyển đổi một vector các điểm số thực trị tùy ý thành
+  một phân phối xác suất.
 ---
-
 ## Definition
 
 Softmax được sử dụng rộng rãi trong lớp đầu ra của mạng nơ-ron cho các tác vụ phân loại đa lớp. Nó nhận một vector các logit thô và chuẩn hóa chúng sao cho mỗi phần tử đại diện cho một xác suất có thể xảy ra.

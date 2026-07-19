@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /hu/terms/edge_computing/
 date: "2026-07-18T15:58:00.282540Z"
 lastmod: "2026-07-18T17:15:09.779460Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A perifériás számítástechnika egy elosztott számítási paradigm, amely a számítási erőforrásokat és az adattárolást közelebb hozza az adatforrásokhoz, ahelyett, hogy kizárólag a központosított felhősze"
 ---
-
 ## Definition
 
 A perifériás számítástechnika a felhőközpontú architektúrák késleltetési és sávszélesség-korlátait kezeli azzal, hogy az adatokat ott dolgozza fel, ahol azok keletkeznek, például IoT-eszközökön, érzékelőkön vagy helyi átjárókon. Az AI kontextusában

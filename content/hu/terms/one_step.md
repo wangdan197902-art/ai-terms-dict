@@ -1,23 +1,23 @@
 ---
-title: "egy lépéses"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: egy lépéses
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /hu/terms/one_step/
-date: "2026-07-18T15:36:17.217411Z"
-lastmod: "2026-07-18T17:15:09.736655Z"
+slug: one_step
+date: '2026-07-18T15:36:17.217411Z'
+lastmod: '2026-07-18T17:15:09.736655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyan algoritmusokra vagy folyamatokra utal, amelyek egyetlen iterációban fejezik be a feladat elvégzését vagy döntéshozatalt, iteratív finomhangolás nélkül."
+source: agnes_llm
+status: published
+language: hu
+description: Olyan algoritmusokra vagy folyamatokra utal, amelyek egyetlen iterációban
+  fejezik be a feladat elvégzését vagy döntéshozatalt, iteratív finomhangolás nélkül.
 ---
-
 ## Definition
 
 A gépi tanulásban és optimalizálásban az egy lépéses módszerek közvetlenül oldják meg a problémákat, több iteráció vagy konvergenciához szükséges frissítés nélkül. A gradiensleszállással ellentétben, amely sok lépést tesz meg a minimalizáláshoz,

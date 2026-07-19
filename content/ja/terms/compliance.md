@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /ja/terms/compliance/
 date: "2026-07-18T11:08:26.051559Z"
 lastmod: "2026-07-18T11:44:45.078630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムが法的規制、倫理基準、業界ガイドラインを遵守すること。"
 ---
-
 ## Definition
 
 人工知能におけるコンプライアンスとは、GDPRやHIPAAなどの適用される法律、および内部の倫理フレームワークと一致するように、AIモデルとその展開を確保するプロセスを指します。

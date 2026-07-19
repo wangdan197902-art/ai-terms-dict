@@ -1,23 +1,24 @@
 ---
-title: "توليد الأقنعة"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: توليد الأقنعة
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /ar/terms/mask_generation/
-date: "2026-07-18T16:12:21.806537Z"
-lastmod: "2026-07-18T17:15:08.526303Z"
+slug: mask_generation
+date: '2026-07-18T16:12:21.806537Z'
+lastmod: '2026-07-18T17:15:08.526303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية إنشاء أقنعة ثنائية أو احتمالية لإخفاء أو إبراز أجزاء محددة من بيانات الإدخال أثناء معالجة النموذج."
+source: agnes_llm
+status: published
+language: ar
+description: عملية إنشاء أقنعة ثنائية أو احتمالية لإخفاء أو إبراز أجزاء محددة من بيانات
+  الإدخال أثناء معالجة النموذج.
 ---
-
 ## Definition
 
 يتضمن توليد الأقنعة إنتاج أقنعة مكانية أو زمنية تحدد العناصر المرئية أو النشطة في مجموعة البيانات أثناء عمليات محددة. في رؤية الحاسوب، يُستخدم للقطعية الكيانية

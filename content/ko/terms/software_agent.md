@@ -1,23 +1,23 @@
 ---
-title: "소프트웨어 에이전트"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: 소프트웨어 에이전트
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /ko/terms/software_agent/
-date: "2026-07-18T16:15:55.600677Z"
-lastmod: "2026-07-18T16:38:06.908910Z"
+slug: software_agent
+date: '2026-07-18T16:15:55.600677Z'
+lastmod: '2026-07-18T16:38:06.908910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "사용자 또는 다른 프로그램을 대신하여 어느 정도의 자율성을 가지고 작업을 수행하는 컴퓨터 프로그램입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 사용자 또는 다른 프로그램을 대신하여 어느 정도의 자율성을 가지고 작업을 수행하는 컴퓨터 프로그램입니다.
 ---
-
 ## Definition
 
 소프트웨어 에이전트는 환경을 지각하고 추론하며 특정 목표를 달성하기 위해 행동할 수 있는 자율적인 존재입니다. 이러한 에이전트는 독립적으로 작동하고 변화에 적응하며 협력할 수 있습니다.

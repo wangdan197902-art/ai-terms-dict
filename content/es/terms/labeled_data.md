@@ -1,23 +1,24 @@
 ---
-title: "Datos etiquetados"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Datos etiquetados
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /es/terms/labeled_data/
-date: "2026-07-18T10:57:10.137018Z"
-lastmod: "2026-07-18T11:44:44.824296Z"
+slug: labeled_data
+date: '2026-07-18T10:57:10.137018Z'
+lastmod: '2026-07-18T11:44:44.824296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Datos en los que se proporciona el valor de salida o objetivo correcto junto con las características de entrada."
+source: agnes_llm
+status: published
+language: es
+description: Datos en los que se proporciona el valor de salida o objetivo correcto
+  junto con las características de entrada.
 ---
-
 ## Definition
 
 Los datos etiquetados consisten en muestras de entrada emparejadas con sus etiquetas de verdad fundamental correspondientes, sirviendo como base para el aprendizaje automático supervisado. Permiten a los algoritmos aprender la relación entre la entrada y la salida esperada.

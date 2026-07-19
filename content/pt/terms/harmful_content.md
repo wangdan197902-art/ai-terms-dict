@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /pt/terms/harmful_content/
 date: "2026-07-18T15:03:02.425272Z"
 lastmod: "2026-07-18T15:51:59.497232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Informações que representam riscos para indivíduos ou sociedade, incluindo discurso de ódio, violência e atos ilegais."
 ---
-
 ## Definition
 
 Conteúdo nocivo refere-se a mídia digital ou texto que pode causar danos físicos, psicológicos ou sociais. Na segurança de IA, detectar e filtrar esse conteúdo é crítico para impedir que os modelos gerem

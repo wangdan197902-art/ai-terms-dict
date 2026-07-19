@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /fr/terms/langevin/
 date: "2026-07-18T10:51:09.607699Z"
 lastmod: "2026-07-18T11:44:45.165328Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Langevin fait référence aux équations différentielles stochastiques, en particulier à la dynamique de Langevin, utilisée pour échantillonner des distributions de probabilités en simulant le mouvement "
 ---
-
 ## Definition
 
 La dynamique de Langevin intègre du bruit aléatoire et des forces d'amortissement pour explorer efficacement les paysages énergétiques. En IA, elle est principalement utilisée dans les méthodes d'échantillonnage comme le Monte Carlo hamiltonien ou le gradient stochastique...

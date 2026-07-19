@@ -1,23 +1,24 @@
 ---
-title: "Przybliżenie funkcji przystosowania"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Przybliżenie funkcji przystosowania
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /pl/terms/fitness_approximation/
-date: "2026-07-18T15:55:18.036468Z"
-lastmod: "2026-07-18T17:15:08.874255Z"
+slug: fitness_approximation
+date: '2026-07-18T15:55:18.036468Z'
+lastmod: '2026-07-18T17:15:08.874255Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika w algorytmach ewolucyjnych szacująca jakość rozwiązań w celu zmniejszenia kosztów obliczeniowych podczas optymalizacji."
+source: agnes_llm
+status: published
+language: pl
+description: Technika w algorytmach ewolucyjnych szacująca jakość rozwiązań w celu
+  zmniejszenia kosztów obliczeniowych podczas optymalizacji.
 ---
-
 ## Definition
 
 Przybliżenie funkcji przystosowania jest stosowane w obliczeniach ewolucyjnych, gdy ocena prawdziwej funkcji przystosowania jest kosztowna obliczeniowo lub czasochłonna. Zamiast obliczać dokładną wartość, używa się modeli zastępczych.

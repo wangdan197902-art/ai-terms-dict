@@ -1,23 +1,24 @@
 ---
-title: "Trường Ngẫu nhiên Điều kiện"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Trường Ngẫu nhiên Điều kiện
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /vi/terms/conditional_random_field/
-date: "2026-07-18T15:45:40.540934Z"
-lastmod: "2026-07-18T16:38:07.739048Z"
+slug: conditional_random_field
+date: '2026-07-18T15:45:40.540934Z'
+lastmod: '2026-07-18T16:38:07.739048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một Trường Ngẫu nhiên Điều kiện là một mô hình xác suất biệt thức được sử dụng cho các nhiệm vụ dự đoán có cấu trúc như gán nhãn chuỗi."
+source: agnes_llm
+status: published
+language: vi
+description: Một Trường Ngẫu nhiên Điều kiện là một mô hình xác suất biệt thức được
+  sử dụng cho các nhiệm vụ dự đoán có cấu trúc như gán nhãn chuỗi.
 ---
-
 ## Definition
 
 Trường Ngẫu nhiên Điều kiện (CRF) là một lớp các mô hình biệt thức thường được sử dụng trong xử lý ngôn ngữ tự nhiên và tin sinh học. Khác với các mô hình sinh, CRF trực tiếp mô hình hóa xác suất có điều kiện của nhãn dựa trên toàn bộ chuỗi đầu vào.

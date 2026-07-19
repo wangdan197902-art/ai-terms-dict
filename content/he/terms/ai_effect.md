@@ -1,23 +1,24 @@
 ---
-title: "אפקט בינה מלאכותית"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: אפקט בינה מלאכותית
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /he/terms/ai_effect/
-date: "2026-07-18T15:40:07.097733Z"
-lastmod: "2026-07-18T17:15:09.507607Z"
+slug: ai_effect
+date: '2026-07-18T15:40:07.097733Z'
+lastmod: '2026-07-18T17:15:09.507607Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התופעה שבה משימות שנחשבו בעבר לאינטליגנטיות נתפסות כשגרתיות ברגע שמכונות מממשות אותן באופן אוטומטי."
+source: agnes_llm
+status: published
+language: he
+description: התופעה שבה משימות שנחשבו בעבר לאינטליגנטיות נתפסות כשגרתיות ברגע שמכונות
+  מממשות אותן באופן אוטומטי.
 ---
-
 ## Definition
 
 אפקט הבינה המלאכותית מתאר את הגבול המשתנה של מה שמוגדר כ'בינה מלאכותית'. ככל שהאלגוריתמים הופכים למורכבים ויכולים לבצע משימות ספציפיות, משימות אלו לרוב מאבדות מהמעמד שלהן כביטוי לאינטליגנציה.

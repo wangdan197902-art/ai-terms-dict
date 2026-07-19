@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /sv/terms/local_llm/
 date: "2026-07-18T16:07:28.128333Z"
 lastmod: "2026-07-18T17:15:09.022160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En lokal LLM syftar på att köra stora språkmodeller på personlig hårdvara snarare än molntjänster, med fokus på dataprivathet och offline-tillgänglighet."
 ---
-
 ## Definition
 
 Att köra en lokal LLM innebär att distribuera öppna språkmodeller direkt på konsumenthårdvara såsom pc:er, Mac-datorer eller lokala servrar. Denna metod eliminerar beroendet av tredjeparts-API-leverantörer och säkerställer fullständig kontroll över data.

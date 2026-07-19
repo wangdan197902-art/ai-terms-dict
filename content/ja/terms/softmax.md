@@ -1,23 +1,23 @@
 ---
-title: "ソフトマックス"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: ソフトマックス
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /ja/terms/softmax/
-date: "2026-07-18T11:01:15.727389Z"
-lastmod: "2026-07-18T11:44:45.057980Z"
+slug: softmax
+date: '2026-07-18T11:01:15.727389Z'
+lastmod: '2026-07-18T11:44:45.057980Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "任意の実数値のスコアベクトルを確率分布に変換する数学関数。"
+source: agnes_llm
+status: published
+language: ja
+description: 任意の実数値のスコアベクトルを確率分布に変換する数学関数。
 ---
-
 ## Definition
 
 ソフトマックスは、多クラス分類タスクにおけるニューラルネットワークの出力層で広く使用されています。これは生のロジット（logits）ベクトルを入力として受け取り、正規化を行うことで、各要素が確率を表すようにします。

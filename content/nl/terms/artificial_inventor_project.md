@@ -1,23 +1,24 @@
 ---
-title: "Artificial Inventor Project"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Artificial Inventor Project
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /nl/terms/artificial_inventor_project/
-date: "2026-07-18T15:42:57.019144Z"
-lastmod: "2026-07-18T17:15:08.717265Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:42:57.019144Z'
+lastmod: '2026-07-18T17:15:08.717265Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een onderzoeksinitiatief gericht op het ontwikkelen van computationele modellen voor mensachtig creatief probleemoplossend vermogen en uitvindingprocessen."
+source: agnes_llm
+status: published
+language: nl
+description: Een onderzoeksinitiatief gericht op het ontwikkelen van computationele
+  modellen voor mensachtig creatief probleemoplossend vermogen en uitvindingprocessen.
 ---
-
 ## Definition
 
 Het Artificial Inventor Project is een interdisciplinair onderzoeksinspanning gericht op het begrijpen en repliceren van de cognitieve mechanismen achter menselijke creativiteit en uitvindingen. Het streeft ernaar AI-systemen te bouwen die...

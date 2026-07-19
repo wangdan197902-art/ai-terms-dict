@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /tr/terms/safe/
 date: "2026-07-18T15:28:52.003605Z"
 lastmod: "2026-07-18T16:38:07.242670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsanlara, mülkiyete veya çevreye zarar vermeden çalışacak şekilde tasarlanmış yapay zeka sistemlerini ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada güvenlik, otomatik sistemlerin öngörülebilir davrandığından ve istenmeyen olumsuz sonuçlara yol açmadığından emin olmak için kısıtlamalar ve güvence mekanizmaları uygulamayı içerir. Bu, teknik önlemleri ve etik çerçeveleri kapsar.

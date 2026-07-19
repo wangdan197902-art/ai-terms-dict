@@ -1,23 +1,23 @@
 ---
-title: "korkealaatuinen"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: korkealaatuinen
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /fi/terms/high_quality/
-date: "2026-07-18T15:33:55.661958Z"
-lastmod: "2026-07-18T17:15:09.364545Z"
+slug: high_quality
+date: '2026-07-18T15:33:55.661958Z'
+lastmod: '2026-07-18T17:15:09.364545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Viittaa datajoukkoihin, malleihin tai tuloksiin, joissa on erinomainen tarkkuus, luotettavuus ja vähäinen kohina."
+source: agnes_llm
+status: published
+language: fi
+description: Viittaa datajoukkoihin, malleihin tai tuloksiin, joissa on erinomainen
+  tarkkuus, luotettavuus ja vähäinen kohina.
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa korkealaatuinen kuvaa yleensä dataa tai mallituloksia, joilla on korkea uskottavuus, vähäinen kohina ja vahvat yleistymiskyvyt. Laadukas koulutusdata varmistaa mallien robustiuden ja luotettavuuden.

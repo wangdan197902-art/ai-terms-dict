@@ -1,23 +1,23 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /ja/terms/proaftn/
-date: "2026-07-18T11:28:29.050514Z"
-lastmod: "2026-07-18T11:44:45.133467Z"
+slug: proaftn
+date: '2026-07-18T11:28:29.050514Z'
+lastmod: '2026-07-18T11:44:45.133467Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機能的時系列ネットワークのための確率関係代数。動的システムをモデル化するフレームワーク。"
+source: agnes_llm
+status: published
+language: ja
+description: 機能的時系列ネットワークのための確率関係代数。動的システムをモデル化するフレームワーク。
 ---
-
 ## Definition
 
 Praftnは、関係構造内の機能的時系列データを処理するために設計された特殊な計算フレームワークです。確率的推論と代数的操作を組み合わせて、複雑な動的システムをモデル化します。

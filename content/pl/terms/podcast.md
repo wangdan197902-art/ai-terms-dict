@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /pl/terms/podcast/
 date: "2026-07-18T16:11:25.746137Z"
 lastmod: "2026-07-18T17:15:08.907306Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Cyfrowy plik audio lub wideo udostępniany w Internecie do pobrania lub streamingu."
 ---
-
 ## Definition
 
 W kontekście AI i technologii, podcast odnosi się do cyklicznej treści multimedialnej dystrybuowanej za pośrednictwem kanałów RSS, pozwalającej użytkownikom na subskrypcję oraz słuchanie dyskusji, wywiadów lub materiałów edukacyjnych.

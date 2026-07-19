@@ -1,23 +1,23 @@
 ---
-title: "流式处理"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: 流式处理
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /zh/terms/streaming/
-date: "2026-07-18T11:35:19.163122Z"
-lastmod: "2026-07-18T11:44:45.559450Z"
+slug: streaming
+date: '2026-07-18T11:35:19.163122Z'
+lastmod: '2026-07-18T11:44:45.559450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种数据处理范式，信息以小块形式连续处理，而非作为大型静态批处理。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种数据处理范式，信息以小块形式连续处理，而非作为大型静态批处理。
 ---
-
 ## Definition
 
 流式处理指在数据生成时实时或近实时地持续摄入和处理数据。与处理固定数据集的批处理不同，流式系统管理无边界的数据流，能够即时响应数据变化。

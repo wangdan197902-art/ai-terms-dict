@@ -1,23 +1,25 @@
 ---
-title: "Machine learning in video games"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Machine learning in video games
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /nl/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:06:07.279803Z"
-lastmod: "2026-07-18T17:15:08.765180Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:06:07.279803Z'
+lastmod: '2026-07-18T17:15:08.765180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De toepassing van machine learning-algoritmen om de spelontwikkeling te verbeteren, adaptieve niet-spelerspersonages (NPC's) te creëren en de gameplay-ervaring te optimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: De toepassing van machine learning-algoritmen om de spelontwikkeling
+  te verbeteren, adaptieve niet-spelerspersonages (NPC's) te creëren en de gameplay-ervaring
+  te optimaliseren.
 ---
-
 ## Definition
 
 Dit vakgebied houdt in het integreren van ML-technieken in videospelpijplijnen om het maken van assets te automatiseren, spelmecanica in balans te brengen en dynamische inhoud te genereren. Het varieert van het gebruik van reinforcement learning voor...

@@ -1,23 +1,23 @@
 ---
-title: "ベイズ最適化"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: ベイズ最適化
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /ja/terms/bayesian_optimization/
-date: "2026-07-18T11:06:11.847313Z"
-lastmod: "2026-07-18T11:44:45.073011Z"
+slug: bayesian_optimization
+date: '2026-07-18T11:06:11.847313Z'
+lastmod: '2026-07-18T11:44:45.073011Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "評価コストが高いブラックボックス関数のグローバル最適化のための逐次設計戦略。"
+source: agnes_llm
+status: published
+language: ja
+description: 評価コストが高いブラックボックス関数のグローバル最適化のための逐次設計戦略。
 ---
-
 ## Definition
 
 ベイズ最適化は、通常ガウス過程である確率的な surrogate モデルを使用して目的関数をモデル化します。探索と活用のバランスを取るための取得関数を用い、少ない評価回数で最適なパラメータを見つけます。

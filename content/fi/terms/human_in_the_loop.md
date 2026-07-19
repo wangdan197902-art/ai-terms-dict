@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /fi/terms/human_in_the_loop/
 date: "2026-07-18T15:36:39.912037Z"
 lastmod: "2026-07-18T17:15:09.371011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestelmäsuunnittelu, jossa ihminen osallistuu aktiivisesti tekoälymallin päätöksenteko- tai palauteprosessiin."
 ---
-
 ## Definition
 
 Ihminen silmukassa (HITL) viittaa tekoälyjärjestelmiin, jotka vaativat ihmisen väliintuloa eri vaiheissa työnkulkua, kuten datamerkinnässä, mallin arvioinnissa tai lopullisen päätöksen hyväksynnässä. Tämä lähestymistapa varmistaa...

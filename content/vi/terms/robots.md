@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /vi/terms/robots/
 date: "2026-07-18T15:28:42.311857Z"
 lastmod: "2026-07-18T16:38:07.694153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Dạng số nhiều, chỉ nhiều máy có thể lập trình được thiết kế để thực hiện nhiệm vụ một cách tự động."
 ---
-
 ## Definition
 
 Robot bao gồm một lớp đa dạng các máy móc, có thể được phân loại dựa trên khả năng di chuyển, cấu trúc hoặc lĩnh vực ứng dụng. Danh mục này bao gồm cánh tay công nghiệp, robot di động tự hành (AMR), máy bay không người lái (drone) và các hệ thống robot khác.

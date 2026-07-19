@@ -1,23 +1,25 @@
 ---
-title: "Webhook"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Webhook
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /tr/terms/webhook/
-date: "2026-07-18T16:21:13.321194Z"
-lastmod: "2026-07-18T16:38:07.377473Z"
+slug: webhook
+date: '2026-07-18T16:21:13.321194Z'
+lastmod: '2026-07-18T16:38:07.377473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli olaylar tarafından tetiklenen, kullanıcı tanımlı bir HTTP geri çağrısı olup sistemlerin diğer uygulamalara gerçek zamanlı bildirimler göndermesine olanak tanır."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli olaylar tarafından tetiklenen, kullanıcı tanımlı bir HTTP geri
+  çağrısı olup sistemlerin diğer uygulamalara gerçek zamanlı bildirimler göndermesine
+  olanak tanır.
 ---
-
 ## Definition
 
 Bir webhook, bir olay gerçekleştiğinde bir hizmetin başka bir hizmete gerçek zamanlı bilgi sağlaması için bir mekanizmadır. Değişiklikleri sürekli sorgulamak (polling) yerine, kaynak sistem belirli bir URL'ye HTTP POST isteği gönderir

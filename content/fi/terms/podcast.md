@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /fi/terms/podcast/
 date: "2026-07-18T16:15:50.743529Z"
 lastmod: "2026-07-18T17:15:09.444320Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Internetissä saatavilla oleva digitaalinen ääni- tai videotiedosto, joka voidaan ladata tai striimata."
 ---
-
 ## Definition
 
 Teknologian ja tekoälyn kontekstissa podcast viittaa jaksottaiseen digitaaliseen media sisältöön, jota jaetaan RSS-syötteiden kautta. Tämä mahdollistaa käyttäjien tilaamisen sekä keskustelujen, haastattelujen tai opetusmateriaalien kuuntelun.

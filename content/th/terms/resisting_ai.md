@@ -1,23 +1,23 @@
 ---
-title: "การต้านทานต่อเอไอ (Resisting AI)"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: การต้านทานต่อเอไอ (Resisting AI)
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /th/terms/resisting_ai/
-date: "2026-07-18T16:13:54.445799Z"
-lastmod: "2026-07-18T16:38:07.650534Z"
+slug: resisting_ai
+date: '2026-07-18T16:13:54.445799Z'
+lastmod: '2026-07-18T16:38:07.650534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์และเทคนิคที่ใช้เพื่อหลบเลี่ยงการตรวจจับ การควบคุม หรือการจัดการโดยระบบปัญญาประดิษฐ์"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์และเทคนิคที่ใช้เพื่อหลบเลี่ยงการตรวจจับ การควบคุม หรือการจัดการโดยระบบปัญญาประดิษฐ์
 ---
-
 ## Definition
 
 การต้านทานต่อเอไอหมายถึงวิธีการที่บุคคลหรือองค์กรใช้เพื่อหลีกเลี่ยงการถูกมีอิทธิพล ติดตาม หรือจำแนกประเภทโดยอัลกอริทึมเอไอ ซึ่งรวมถึงการโจมตีแบบปฏิปักษ์ต่อระบบรับรู้ การปกป้องความเป็นส่วนตัว และการใช้เทคนิคต่างๆ เพื่อลดผลกระทบจากการตัดสินใจของเอไอที่มีต่อผู้ใช้

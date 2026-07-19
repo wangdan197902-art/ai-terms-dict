@@ -1,23 +1,24 @@
 ---
-title: "Organoidiäly"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Organoidiäly
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /fi/terms/organoid_intelligence/
-date: "2026-07-18T16:14:33.714044Z"
-lastmod: "2026-07-18T17:15:09.441146Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:14:33.714044Z'
+lastmod: '2026-07-18T17:15:09.441146Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Hybridilaskentamalli, joka integroi eläviä aivosoluja elektronisiin liitäntöihin tiedonkäsittelyä varten."
+source: agnes_llm
+status: published
+language: fi
+description: Hybridilaskentamalli, joka integroi eläviä aivosoluja elektronisiin liitäntöihin
+  tiedonkäsittelyä varten.
 ---
-
 ## Definition
 
 Organoidiäly (OI) viittaa biohybridijärjestelmien kehittämiseen, joissa ihmisperäisiä aivojen organoideja kasvatetaan mikrosähköelektrodimalleilla. Nämä elävät hermosolukkosolukot suorittavat laskentatehtäviä...

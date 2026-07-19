@@ -1,23 +1,23 @@
 ---
-title: "ハミルトニアン（Hamiltonian）"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: ハミルトニアン（Hamiltonian）
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /ja/terms/hamiltonian/
-date: "2026-07-18T10:51:41.052868Z"
-lastmod: "2026-07-18T11:44:45.011007Z"
+slug: hamiltonian
+date: '2026-07-18T10:51:41.052868Z'
+lastmod: '2026-07-18T11:44:45.011007Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "系の全エネルギーを表す関数であり、物理学に着想を得たAIモデルにおいて、ダイナミクスをシミュレートしたりエネルギー保存則を適用したりするために使用される。"
+source: agnes_llm
+status: published
+language: ja
+description: 系の全エネルギーを表す関数であり、物理学に着想を得たAIモデルにおいて、ダイナミクスをシミュレートしたりエネルギー保存則を適用したりするために使用される。
 ---
-
 ## Definition
 
 古典力学に由来するハミルトニアンは、系の運動エネルギーと位置エネルギーの和を表します。AIでは、ハミルトニアンニューラルネットワーク（HNN）がこの概念を取り入れ、物理法則に従うダイナミクスを学習させ、長時間のシミュレーションでもエネルギー保存則を満たすようにします。

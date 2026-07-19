@@ -1,23 +1,23 @@
 ---
-title: "Rather"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Rather
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /tr/terms/rather/
-date: "2026-07-18T15:28:37.628656Z"
-lastmod: "2026-07-18T16:38:07.241415Z"
+slug: rather
+date: '2026-07-18T15:28:37.628656Z'
+lastmod: '2026-07-18T16:38:07.241415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zeka bağlamlarında 'rather', teknik bir terim değildir ancak tercihleri belirtmek veya düzeltme yapmak amacıyla istemlerde (prompts) sıkça kullanılır."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zeka bağlamlarında 'rather', teknik bir terim değildir ancak tercihleri
+  belirtmek veya düzeltme yapmak amacıyla istemlerde (prompts) sıkça kullanılır.
 ---
-
 ## Definition
 
 'Rather' terimi, tercih veya zıtlık belirten standart bir İngilizce zarftır. Yapay Zeka ve Büyük Dil Modelleri gibi spesifik alanlarda ayrı bir teknik kavram oluşturmaz; genellikle dilbilimsel nüansları veya kullanıcı tercihlerini ifade etmek için kullanılır.

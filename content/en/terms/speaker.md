@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /en/terms/speaker/
 date: "2026-07-18T10:16:18.605871Z"
 lastmod: "2026-07-18T11:44:44.723652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An individual producing vocal sounds or speech within an audio signal."
 ---
-
 ## Definition
 
 In speech processing, a speaker is defined as a distinct human voice source within an audio recording. Identifying and distinguishing speakers is fundamental to analyzing conversations, ensuring security through voice recognition, and improving transcription accuracy. The concept relies on acoustic features unique to each individual's vocal tract and speaking style.

@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /da/terms/content_filtering/
 date: "2026-07-18T15:47:35.552004Z"
 lastmod: "2026-07-18T17:15:09.271407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at blokere eller tillade adgang til digitalt indhold baseret på foruddefinerede kriterier eller klassificeringsmodeller."
 ---
-
 ## Definition
 
 Indholdsfiltrering indebærer brugen af algoritmer og regler til at scanne, klassificere og kontrollere strømmen af information, der præsenteres for brugere. I AI-sammenhænge anvendes dette ofte naturlig sprogbehandling (NLP) og computer vision til at identificere og filtrere uønsket eller skadeligt indhold.

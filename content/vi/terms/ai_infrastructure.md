@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /vi/terms/ai_infrastructure/
 date: "2026-07-18T15:38:31.999774Z"
 lastmod: "2026-07-18T16:38:07.720621Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các tài nguyên phần cứng, phần mềm và mạng lưới cần thiết để phát triển, huấn luyện và triển khai các mô hình trí tuệ nhân tạo ở quy mô lớn."
 ---
-
 ## Definition
 
 Cơ sở hạ tầng AI bao gồm ngăn xếp công nghệ nền tảng cần thiết cho các hoạt động trí tuệ nhân tạo. Điều này bao gồm phần cứng điện toán hiệu suất cao như GPU và TPU, lưu trữ đám mây, cũng như các hệ thống mạng và công cụ quản lý dữ liệu phức tạp hỗ trợ vòng đời của mô hình AI.

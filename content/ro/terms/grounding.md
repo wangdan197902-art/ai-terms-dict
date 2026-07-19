@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /ro/terms/grounding/
 date: "2026-07-18T16:01:44.610295Z"
 lastmod: "2026-07-18T17:15:09.663071Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de conectare a ieșirilor abstracte ale AI la fapte din lumea reală, surse de date sau contexte fizice, pentru a asigura acuratețea și relevanța."
 ---
-
 ## Definition
 
 În AI, ancorarea (grounding) se referă la legarea reprezentărilor simbolice sau a textului generat de entități concrete din lumea reală, date sau experiențe senzoriale. Pentru modelele lingvistice, acest lucru implică adesea Generarea Augmentată prin Recuperare...

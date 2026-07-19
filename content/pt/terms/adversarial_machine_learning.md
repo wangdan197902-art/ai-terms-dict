@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /pt/terms/adversarial_machine_learning/
 date: "2026-07-18T14:48:46.489364Z"
 lastmod: "2026-07-18T15:51:59.460959Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um campo que estuda como tornar os modelos de aprendizado de máquina robustos contra entradas maliciosas projetadas para enganá-los."
 ---
-
 ## Definition
 
 Este campo abrange tanto técnicas ofensivas para quebrar modelos quanto estratégias defensivas para endurecê-los. Envolve treinar modelos com exemplos adversariais para melhorar sua resiliência, um processo conhecido como treinamento adversarial, visando aumentar a segurança e a confiabilidade dos sistemas de IA.

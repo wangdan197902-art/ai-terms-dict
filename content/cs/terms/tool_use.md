@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /cs/terms/tool_use/
 date: "2026-07-18T15:39:06.387117Z"
 lastmod: "2026-07-18T17:15:09.094661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Paradigma, ve kterém agenti AI vybírají a spouštějí externí funkce nebo API k plnění specifických úkolů přesahujících jejich nativní schopnosti."
 ---
-
 ## Definition
 
 Používání nástrojů umožňuje jazykovým modelům interagovat s externími softwarovými prostředky voláním předdefinovaných funkcí, jako jsou kalkulačky, vyhledávače nebo dotazy do databází. Tento přístup rozšiřuje mo

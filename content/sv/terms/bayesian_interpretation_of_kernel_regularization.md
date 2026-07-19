@@ -1,23 +1,24 @@
 ---
-title: "Bayesiansk tolkning av kärnregularisering"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Bayesiansk tolkning av kärnregularisering
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /sv/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:47:25.994090Z"
-lastmod: "2026-07-18T17:15:08.980064Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:47:25.994090Z'
+lastmod: '2026-07-18T17:15:08.980064Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett teoretiskt ramverk som länkar kärnmetoder som SVM till Gaussprocesser under ett bayesianskt priorantagande."
+source: agnes_llm
+status: published
+language: sv
+description: Ett teoretiskt ramverk som länkar kärnmetoder som SVM till Gaussprocesser
+  under ett bayesianskt priorantagande.
 ---
-
 ## Definition
 
 Detta koncept fastslår att minimering av en regulariserad riskfunktional med en specifik kärna är ekvivalent med att hitta maximum a posteriori (MAP)-skattningen i ett bayesianskt ramverk. Specifikt innebär det att

@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /en/terms/transformers/
 date: "2026-07-18T09:37:37.820421Z"
 lastmod: "2026-07-18T11:44:44.612488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "In this context, referring to the Hugging Face Transformers library, a popular open-source toolkit for state-of-the-art NLP and multimodal models."
 ---
-
 ## Definition
 
 The term 'Transformers' often refers to the widely used Python library maintained by Hugging Face. It provides easy-to-use interfaces for downloading, training, and deploying pre-trained models based on the Transformer architecture. The library supports thousands of models across various tasks including text classification, question answering, and image processing, significantly lowering the barrier to entry for implementing advanced AI solutions.

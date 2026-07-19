@@ -1,23 +1,24 @@
 ---
-title: "Cuộc thi lập trình AI Halite"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Cuộc thi lập trình AI Halite
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /vi/terms/halite_ai_programming_competition/
-date: "2026-07-18T15:56:08.906933Z"
-lastmod: "2026-07-18T16:38:07.764306Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T15:56:08.906933Z'
+lastmod: '2026-07-18T16:38:07.764306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một cuộc thi lập trình cạnh tranh nơi người tham gia viết các tác nhân AI để chơi một trò chơi chiến lược bao gồm quản lý tài nguyên và chiến đấu."
+source: agnes_llm
+status: published
+language: vi
+description: Một cuộc thi lập trình cạnh tranh nơi người tham gia viết các tác nhân
+  AI để chơi một trò chơi chiến lược bao gồm quản lý tài nguyên và chiến đấu.
 ---
-
 ## Definition
 
 Halite là một cuộc thi lập trình AI thường niên do Two Sigma tổ chức, nơi các nhà phát triển tạo ra các tác nhân tự động để chơi một trò chơi chiến lược theo lượt trên lưới. Mục tiêu của trò chơi bao gồm thu thập tài nguyên, mở rộng lãnh thổ và chiến đấu với các đối thủ khác.

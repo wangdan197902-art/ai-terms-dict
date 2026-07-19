@@ -1,23 +1,24 @@
 ---
-title: "Överföringsinlärning"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Överföringsinlärning
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /sv/terms/transfer_learning/
-date: "2026-07-18T15:32:00.875167Z"
-lastmod: "2026-07-18T17:15:08.954261Z"
+slug: transfer_learning
+date: '2026-07-18T15:32:00.875167Z'
+lastmod: '2026-07-18T17:15:08.954261Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En maskininlärningsteknik där en modell som utvecklats för en uppgift återanvänds som utgångspunkt för en modell på en andra uppgift."
+source: agnes_llm
+status: published
+language: sv
+description: En maskininlärningsteknik där en modell som utvecklats för en uppgift
+  återanvänds som utgångspunkt för en modell på en andra uppgift.
 ---
-
 ## Definition
 
 Överföringsinlärning utnyttjar förtränade modeller för att förbättra prestanda och minska tränings tiden på nya, relaterade uppgifter. Istället för att träna från grunden finjusterar utvecklare befintliga vikter, vilket möjliggör snabbare konvergens och bättre generalisering med mindre data.

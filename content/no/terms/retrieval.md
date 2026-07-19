@@ -1,23 +1,24 @@
 ---
-title: "Gjenfinning"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Gjenfinning
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /no/terms/retrieval/
-date: "2026-07-18T15:38:34.878760Z"
-lastmod: "2026-07-18T16:38:06.962414Z"
+slug: retrieval
+date: '2026-07-18T15:38:34.878760Z'
+lastmod: '2026-07-18T16:38:06.962414Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å hente relevant data fra en database eller kunnskapsbase for å berike modellinput."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å hente relevant data fra en database eller kunnskapsbase
+  for å berike modellinput.
 ---
-
 ## Definition
 
 Gjenfinning refererer til den tekniske prosessen med å søke etter og trekke ut spesifikk informasjon fra store datasett eller eksterne kunnskapsbasert basert på brukerforespørsler eller kontekst. I moderne AI-systemer er dette ofte en del av RAG-arkitekturer (Retrieval-Augmented Generation) der modellen først henter fakta før den genererer et svar.

@@ -1,23 +1,24 @@
 ---
-title: "Pallopuu"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Pallopuu
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /fi/terms/ball_tree/
-date: "2026-07-18T15:45:00.616197Z"
-lastmod: "2026-07-18T17:15:09.387109Z"
+slug: ball_tree
+date: '2026-07-18T15:45:00.616197Z'
+lastmod: '2026-07-18T17:15:09.387109Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Binäärinen puutietorakenne, jota käytetään pisteiden järjestämiseen avaruudessa optimoidakseen lähimmän naapurin haun korkeadimensioisissa aineistoissa."
+source: agnes_llm
+status: published
+language: fi
+description: Binäärinen puutietorakenne, jota käytetään pisteiden järjestämiseen avaruudessa
+  optimoidakseen lähimmän naapurin haun korkeadimensioisissa aineistoissa.
 ---
-
 ## Definition
 
 Pallopuu jakaa datapistet sisäkkäisiin hypereffereihin (palloihin) hyperaukkojen sijaan. Tämä rakenne mahdollistaa tehokkaan leikkauksen lähimmän naapurin kyselyissä laskemalla etäisyyksiä pallon keskipisteistä.

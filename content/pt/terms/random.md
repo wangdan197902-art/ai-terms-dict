@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /pt/terms/random/
 date: "2026-07-18T14:38:16.775300Z"
 lastmod: "2026-07-18T15:51:59.437022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A propriedade de carecer de um padrão previsível, frequentemente simulada em IA por meio de algoritmos de geração de números pseudoaleatórios."
 ---
-
 ## Definition
 
 A aleatoriedade é fundamental na IA para inicializar pesos de modelos, embaralhar conjuntos de dados e introduzir estocasticidade durante o treinamento para evitar o sobreajuste (overfitting). Como os computadores são determinísticos, os sistemas de IA utilizam geradores de números pseudoaleatórios para simular esse comportamento.

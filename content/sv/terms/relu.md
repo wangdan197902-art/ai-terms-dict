@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /sv/terms/relu/
-date: "2026-07-18T15:40:19.872275Z"
-lastmod: "2026-07-18T17:15:08.966136Z"
+slug: relu
+date: '2026-07-18T15:40:19.872275Z'
+lastmod: '2026-07-18T17:15:08.966136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Rectified Linear Unit är en aktiveringsfunktion som returnerar input direkt om den är positiv, annars noll."
+source: agnes_llm
+status: published
+language: sv
+description: Rectified Linear Unit är en aktiveringsfunktion som returnerar input
+  direkt om den är positiv, annars noll.
 ---
-
 ## Definition
 
 ReLU används flitigt i djupinlärningens neurala nätverk på grund av dess beräkningseffektivitet och förmåga att mildra problemet med försvinnande gradienter. Matematiskt definierad som f(x) = max(0, x), introducerar den icke-linjäritet i nätverket vilket är avgörande för att lära sig komplexa mönster.

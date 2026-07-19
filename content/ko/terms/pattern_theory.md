@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /ko/terms/pattern_theory/
 date: "2026-07-18T16:09:07.146447Z"
 lastmod: "2026-07-18T16:38:06.895116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "데이터 공간 내의 패턴을 분석하여 복잡한 구조를 설명하기 위한 수학적 프레임워크입니다."
 ---
-
 ## Definition
 
 패턴 이론은 복잡한 객체와 현상이 패턴을 통해 어떻게 설명될 수 있는지 이해하기 위한 엄격한 수학적 기초를 제공합니다. 이는 모든 객체가 그...

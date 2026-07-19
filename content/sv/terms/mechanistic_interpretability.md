@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /sv/terms/mechanistic_interpretability/
 date: "2026-07-18T16:09:27.094075Z"
 lastmod: "2026-07-18T17:15:09.025715Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett tillvägagångssätt för att förstå AI-modeller genom att analysera deras interna komponenter och mekanismer snarare än endast deras indata-och utdatabeteende."
 ---
-
 ## Definition
 
 Mekanisk tolkbarhet fokuserar på att reverse-engineera neurala nätverk för att förstå hur de beräknar specifika funktioner på nivån av enskilda nerver, vikter och kretsar. Istället för att behandla modellen som en svart låda, kartlägger man de underliggande algoritmiska processerna som ligger bakom modellens beslut.

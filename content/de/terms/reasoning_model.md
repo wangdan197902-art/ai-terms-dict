@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /de/terms/reasoning_model/
 date: "2026-07-18T11:29:56.787409Z"
 lastmod: "2026-07-18T11:44:44.980914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein KI-Modell, das speziell für komplexe logische Deduktion, schrittweise Problemlösung und Chain-of-Thought-Verarbeitung optimiert ist."
 ---
-
 ## Definition
 
 Im Gegensatz zu Standard-Generierungsmodellen, die auf Sprachflüssigkeit abzielen, priorisieren Reasoning-Modelle die Genauigkeit bei mehrstufigen Aufgaben wie Mathematik, Programmierung und logischen Rätseln. Sie verwenden häufig Techniken wie Chain-of-Thought-Prompting, um komplexe Schlussfolgerungen zu strukturieren.

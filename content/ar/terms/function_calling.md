@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /ar/terms/function_calling/
 date: "2026-07-18T15:37:13.591233Z"
 lastmod: "2026-07-18T17:15:08.461838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "آلية تتيح لنماذج اللغات الكبيرة (LLMs) إخراج بيانات هيكلية تُشغّل دوال برمجية محددة."
 ---
-
 ## Definition
 
 يُمكّن استدعاء الدوال نماذج اللغات الكبيرة من التفاعل مع الأدوات الخارجية وواجهات برمجة التطبيقات (APIs) من خلال توليد مخرجات هيكلية، مثل كائنات JSON، تحدد الدالة التي يجب تنفيذها والحجج المطلوبة.

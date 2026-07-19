@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /nl/terms/embedding/
 date: "2026-07-18T15:22:56.815774Z"
 lastmod: "2026-07-18T17:15:08.679017Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een techniek die discrete objecten, zoals woorden of afbeeldingen, mapt naar continue vectorruimtes."
 ---
-
 ## Definition
 
 Embeddings zijn dichte vectorrepresentaties van gegevens waarbij semantische relaties behouden blijven in de geometrische ruimte. Door categorische of hoogdimensionale invoer om te zetten in vaste lengte vectoren, kunnen modellen

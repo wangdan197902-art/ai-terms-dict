@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /sv/terms/phi/
 date: "2026-07-18T16:13:27.297568Z"
 lastmod: "2026-07-18T17:15:09.036490Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En serie små men mycket effektiva stora språkmodeller utvecklade av Microsoft Research, med fokus på kunsketsdensitet och resonemangsförmåga."
 ---
-
 ## Definition
 
 Phi, kort för 'Foundation models based on Teaching-Learning Paradigm', är en familj av kompakta stora språkmodeller skapade av Microsoft. Till skillnad från traditionella LLMer som tränas på massiva webbkorpus, fokuserar Phi på högkvalitativ syntetisk data för att uppnå starka prestandaresultat med färre parametrar.

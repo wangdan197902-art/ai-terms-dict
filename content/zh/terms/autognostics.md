@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /zh/terms/autognostics/
 date: "2026-07-18T11:07:26.676064Z"
 lastmod: "2026-07-18T11:44:45.447503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "人工智能系统在不依赖人工干预的情况下，自我诊断其内部状态、性能问题或错误的能力。"
 ---
-
 ## Definition
 
 自诊断技术是指嵌入在智能系统中的自我监控和自我修复机制。它允许AI代理检测异常、诊断故障的根本原因，并可能进行自我修复。

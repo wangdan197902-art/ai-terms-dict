@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /sv/terms/numerical/
 date: "2026-07-18T15:29:19.763936Z"
 lastmod: "2026-07-18T17:15:08.947648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Som rör, involverar eller använder siffror eller matematiska beräkningar snarare än symbolisk logik eller text."
 ---
-
 ## Definition
 
 Inom AI och datavetenskap syftar numerisk på datatyper eller metoder som involverar kvantitativa värden, såsom heltal, flyttal och decimaler. Till skillnad från kategorisk eller textuell data hanterar numerisk data mätbara storheter.

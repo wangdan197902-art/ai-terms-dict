@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /he/terms/interpretability/
 date: "2026-07-18T15:36:55.611399Z"
 lastmod: "2026-07-18T17:15:09.500199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "המידה שבה אדם יכול להבין את הגורם להחלטה שנעשתה על ידי מודל בינה מלאכותית."
 ---
-
 ## Definition
 
 פרשנותיות, או הסבריות, כוללת הפיכת פעולות הפנים ותהליכי קבלת ההחלטות של מודלי בינה מלאכותית לשקופות וניתנות להבנה עבור בני אדם. זאת חשובה לניפוי באגים, הבטחת צדק ומניעת הטיות.

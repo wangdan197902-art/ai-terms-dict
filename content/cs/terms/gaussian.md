@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /cs/terms/gaussian/
 date: "2026-07-18T15:25:18.156128Z"
 lastmod: "2026-07-18T17:15:09.069323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vztahující se k normálnímu rozdělení, zvonovité křivce zásadní pro statistiku a modelování šumu v AI."
 ---
-
 ## Definition
 
 Gaussovský odkazuje na normální rozdělení, spojité pravděpodobnostní rozdělení charakterizované svou střední hodnotou a rozptylem. V AI se hojně používá v pravděpodobnostním modelování, bayesovské inferenci a

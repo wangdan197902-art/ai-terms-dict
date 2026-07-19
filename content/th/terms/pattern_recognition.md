@@ -1,23 +1,23 @@
 ---
-title: "การรู้จำรูปแบบ"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: การรู้จำรูปแบบ
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /th/terms/pattern_recognition/
-date: "2026-07-18T16:10:23.106773Z"
-lastmod: "2026-07-18T16:38:07.640729Z"
+slug: pattern_recognition
+date: '2026-07-18T16:10:23.106773Z'
+lastmod: '2026-07-18T16:38:07.640729Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การระบุความสม่ำเสมอและโครงสร้างภายในข้อมูลโดยอัตโนมัติ โดยใช้วิธีการทางสถิติและการเรียนรู้เครื่อง"
+source: agnes_llm
+status: published
+language: th
+description: การระบุความสม่ำเสมอและโครงสร้างภายในข้อมูลโดยอัตโนมัติ โดยใช้วิธีการทางสถิติและการเรียนรู้เครื่อง
 ---
-
 ## Definition
 
 การรู้จำรูปแบบเป็นสาขาหนึ่งของปัญญาประดิษฐ์และสถิติที่เกี่ยวข้องกับการระบุความสม่ำเสมอในข้อมูล กระบวนการนี้เกี่ยวข้องกับการจัดหมวดหมู่ข้อมูลอินพุตลงในหมวดหมู่ที่กำหนดไว้ล่วงหน้า โดยพิจารณาจากคุณลักษณะต่างๆ ของข้อมูลนั้น

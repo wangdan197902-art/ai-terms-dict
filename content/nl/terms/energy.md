@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /nl/terms/energy/
 date: "2026-07-18T15:25:37.852106Z"
 lastmod: "2026-07-18T17:15:08.683394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI verwijst energie vaak naar de rekenkracht die wordt verbruikt tijdens modeltraining en inferentie, of naar een wiskundige potentiaalfunctie in probabilistische modellen."
 ---
-
 ## Definition
 
 Energie heeft twee primaire betekenissen in AI. Ten eerste duidt het op de elektrische stroom die nodig is om hardware te laten draaien, een groeiende zorg voor duurzaamheid naarmate modellen schalen. Ten tweede, in statistische mechanica-geïnspireerde

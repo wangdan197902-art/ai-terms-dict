@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /es/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T10:36:50.423299Z"
 lastmod: "2026-07-18T11:44:44.777716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El uso de herramientas de IA para agilizar los procesos de reclutamiento, incluyendo el cribado de currículums, la coincidencia de candidatos y el análisis de entrevistas."
 ---
-
 ## Definition
 
 La IA en la contratación utiliza algoritmos para automatizar y mejorar varias etapas del ciclo de vida del reclutamiento. Las herramientas analizan los currículums en busca de relevancia de palabras clave, evalúan la adecuación del candidato mediante...

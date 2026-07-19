@@ -1,23 +1,23 @@
 ---
-title: "프롬프트 튜닝(Prompt Tuning)"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: 프롬프트 튜닝(Prompt Tuning)
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /ko/terms/prompt_tuning/
-date: "2026-07-18T16:10:59.879444Z"
-lastmod: "2026-07-18T16:38:06.899629Z"
+slug: prompt_tuning
+date: '2026-07-18T16:10:59.879444Z'
+lastmod: '2026-07-18T16:38:06.899629Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델 가중치 전체를 업데이트하는 대신 연속적인 입력 임베딩을 최적화하는 매개변수 효율적인 파인튜닝 방법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델 가중치 전체를 업데이트하는 대신 연속적인 입력 임베딩을 최적화하는 매개변수 효율적인 파인튜닝 방법입니다.
 ---
-
 ## Definition
 
 프롬프트 튜닝은 사전 훈련된 언어 모델의 입력 레이어에 학습 가능한 소프트 프롬프트(연속 벡터)를 추가하고, 기본 모델 파라미터는 고정된 상태로 유지합니다. 이 접근 방식은

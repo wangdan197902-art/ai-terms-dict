@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /de/terms/multi_stage/
 date: "2026-07-18T10:56:17.755716Z"
 lastmod: "2026-07-18T11:44:44.889943Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Prozessdesign, das eine komplexe Aufgabe in verschiedene, sequenzielle Phasen unterteilt, von denen jede spezifische Ziele und Ausgaben hat."
 ---
-
 ## Definition
 
 Multi-Stufen-Ansätze zerlegen komplexe Arbeitsabläufe in handhabbare Segmente, was eine spezialisierte Verarbeitung in jedem Schritt ermöglicht. Diese Methode verbessert Kontrolle, Debugging und Leistungsoptimierung.

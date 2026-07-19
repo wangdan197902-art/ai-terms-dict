@@ -1,23 +1,24 @@
 ---
-title: "Wissensbasierte Systeme"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Wissensbasierte Systeme
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /de/terms/knowledge_based_systems/
-date: "2026-07-18T11:20:52.425688Z"
-lastmod: "2026-07-18T11:44:44.955689Z"
+slug: knowledge_based_systems
+date: '2026-07-18T11:20:52.425688Z'
+lastmod: '2026-07-18T11:44:44.955689Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "KI-Systeme, die explizite Wissensbasen und Inferenzmaschinen nutzen, um komplexe Probleme zu lösen, die menschliche Expertise erfordern."
+source: agnes_llm
+status: published
+language: de
+description: KI-Systeme, die explizite Wissensbasen und Inferenzmaschinen nutzen,
+  um komplexe Probleme zu lösen, die menschliche Expertise erfordern.
 ---
-
 ## Definition
 
 Wissensbasierte Systeme (KBS) sind ein Zweig der künstlichen Intelligenz, der spezifisches Domänenwissen in ein Computersystem integriert, um Aufgaben auszuführen, für die typischerweise menschliche Expertise erforderlich ist. Sie...

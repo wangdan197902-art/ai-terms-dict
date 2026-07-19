@@ -1,23 +1,24 @@
 ---
-title: "Tenseur"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tenseur
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /fr/terms/tensor/
-date: "2026-07-18T11:40:38.243086Z"
-lastmod: "2026-07-18T11:44:45.343737Z"
+slug: tensor
+date: '2026-07-18T11:40:38.243086Z'
+lastmod: '2026-07-18T11:44:45.343737Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un tableau multidimensionnel qui sert de structure de données fondamentale pour les frameworks d'apprentissage profond."
+source: agnes_llm
+status: published
+language: fr
+description: Un tableau multidimensionnel qui sert de structure de données fondamentale
+  pour les frameworks d'apprentissage profond.
 ---
-
 ## Definition
 
 En informatique et en apprentissage profond, un tenseur est un objet mathématique qui généralise les scalaires, les vecteurs et les matrices à des dimensions supérieures. Il est caractérisé par son rang (nombre de dimensions) et sa forme.

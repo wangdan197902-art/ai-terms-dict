@@ -1,23 +1,24 @@
 ---
-title: "Conditional Random Field"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Conditional Random Field
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /th/terms/conditional_random_field/
-date: "2026-07-18T15:46:18.725096Z"
-lastmod: "2026-07-18T16:38:07.588261Z"
+slug: conditional_random_field
+date: '2026-07-18T15:46:18.725096Z'
+lastmod: '2026-07-18T16:38:07.588261Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Conditional Random Field คือ โมเดลความน่าจะเป็นแบบดิคริมิเนทีฟที่ใช้สำหรับงานการทำนายที่มีโครงสร้าง เช่น การติดป้ายกำกับลำดับ"
+source: agnes_llm
+status: published
+language: th
+description: Conditional Random Field คือ โมเดลความน่าจะเป็นแบบดิคริมิเนทีฟที่ใช้สำหรับงานการทำนายที่มีโครงสร้าง
+  เช่น การติดป้ายกำกับลำดับ
 ---
-
 ## Definition
 
 Conditional Random Fields (CRFs) เป็นคลาสของโมเดลแบบดิคริมิเนทีฟที่นิยมใช้ในด้านการประมวลผลภาษาธรรมชาติและชีวสารสนเทศศาสตร์ ต่างจากโมเดลเจเนอเรทีฟ CRFs จะสร้างแบบจำลองความน่าจะเป็นแบบมีเงื่อนไขโดยตรง...

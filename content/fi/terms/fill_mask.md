@@ -1,23 +1,24 @@
 ---
-title: "Maski täyttö"
-term_id: "fill_mask"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "pretraining", "transformers"]
+title: Maski täyttö
+term_id: fill_mask
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- pretraining
+- transformers
 difficulty: 2
 weight: 1
-slug: "fill_mask"
-aliases:
-  - /fi/terms/fill_mask/
-date: "2026-07-18T15:58:03.620781Z"
-lastmod: "2026-07-18T17:15:09.411836Z"
+slug: fill_mask
+date: '2026-07-18T15:58:03.620781Z'
+lastmod: '2026-07-18T17:15:09.411836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Luonnollisen kielen käsittelyn tehtävä, jossa malli ennustaa puuttuvat tokenit lauseen ympäröivän kontekstin perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Luonnollisen kielen käsittelyn tehtävä, jossa malli ennustaa puuttuvat
+  tokenit lauseen ympäröivän kontekstin perusteella.
 ---
-
 ## Definition
 
 Maski täyttö on perustavanlaatuinen esikoulutustavoite, jota käytetään muuntajiin perustuvissa malleissa kuten BERT. Prosessiin kuuluu satunnisten tokenien peittäminen tekstisekvenssissä ja mallin kouluttaminen ennustamaan alkuperäiset tokenit.

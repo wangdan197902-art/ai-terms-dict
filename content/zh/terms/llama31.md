@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /zh/terms/llama31/
 date: "2026-07-18T11:24:33.332316Z"
 lastmod: "2026-07-18T11:44:45.526264Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Llama 3.1 是 Meta 于 2024 年 8 月推出的更新版本，包含 80 亿、700 亿和 4050 亿参数的模型，拥有扩展至 128k 的上下文窗口和本机工具使用能力。"
 ---
-
 ## Definition
 
 Llama 3.1 于 2024 年 8 月发布，将 Llama 家族扩展至包含一个庞大的 4050 亿参数模型以及较小的 80 亿和 700 亿变体。其突出特点是扩展的上下文窗口，

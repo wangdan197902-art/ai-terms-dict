@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /fr/terms/trade_off/
 date: "2026-07-18T10:58:39.505775Z"
 lastmod: "2026-07-18T11:44:45.181053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un compromis où l'acquisition d'un avantage dans un domaine entraîne une perte dans un autre."
 ---
-
 ## Definition
 
 En IA et en ingénierie, un compromis désigne l'équilibre requis lors de l'optimisation d'objectifs conflictuels, tels que la précision du modèle par rapport au coût computationnel ou la latence par rapport à la précision. Étant donné les ressources limitées...

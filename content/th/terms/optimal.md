@@ -1,23 +1,23 @@
 ---
-title: "เหมาะสมที่สุด (Optimal)"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: เหมาะสมที่สุด (Optimal)
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /th/terms/optimal/
-date: "2026-07-18T15:27:51.573754Z"
-lastmod: "2026-07-18T16:38:07.544584Z"
+slug: optimal
+date: '2026-07-18T15:27:51.573754Z'
+lastmod: '2026-07-18T16:38:07.544584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เหมาะสมที่สุด หมายถึง วิธีแก้ปัญหาหรือการกระทำที่ดีที่สุดที่เป็นไปได้ภายใต้ข้อจำกัดที่กำหนด โดยมุ่งเพิ่มผลตอบแทนให้สูงสุดหรือลดต้นทุนให้น้อยที่สุด"
+source: agnes_llm
+status: published
+language: th
+description: เหมาะสมที่สุด หมายถึง วิธีแก้ปัญหาหรือการกระทำที่ดีที่สุดที่เป็นไปได้ภายใต้ข้อจำกัดที่กำหนด
+  โดยมุ่งเพิ่มผลตอบแทนให้สูงสุดหรือลดต้นทุนให้น้อยที่สุด
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์และทฤษฎีการหาค่าเหมาะที่สุด วิธีแก้ปัญหาที่เหมาะสมที่สุดคือวิธีที่บรรลุค่าเมตริกประสิทธิภาพสูงสุด เช่น การได้รับรางวัลสูงสุดในกระบวนการเรียนรู้แบบเสริมกำลัง หรือข้อผิดพลาดต่ำสุดในการถดถอย (regression)

@@ -1,23 +1,24 @@
 ---
-title: "bazat pe difuzie"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: bazat pe difuzie
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /ro/terms/diffusion_based/
-date: "2026-07-18T15:31:48.263597Z"
-lastmod: "2026-07-18T17:15:09.607830Z"
+slug: diffusion_based
+date: '2026-07-18T15:31:48.263597Z'
+lastmod: '2026-07-18T17:15:09.607830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O abordare de modelare generativă care creează date prin inversarea unui proces gradual de adăugare a zgomotului, prin pași învățați de denoizare."
+source: agnes_llm
+status: published
+language: ro
+description: O abordare de modelare generativă care creează date prin inversarea unui
+  proces gradual de adăugare a zgomotului, prin pași învățați de denoizare.
 ---
-
 ## Definition
 
 Modelele bazate pe difuzie sunt o clasă de IA generativă care creează noi mostre de date eliminând iterativ zgomotul dintr-o distribuție aleatorie. Procesul începe cu o fază directă care adaugă treptat zgomot Gaussian

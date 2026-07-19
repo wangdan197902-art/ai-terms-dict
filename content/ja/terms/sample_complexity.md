@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /ja/terms/sample_complexity/
 date: "2026-07-18T11:31:32.706582Z"
 lastmod: "2026-07-18T11:44:45.140952Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "サンプル複雑度とは、機械学習アルゴリズムが高い確率で特定の性能水準を達成するために必要なトレーニングデータの数を指します。"
 ---
-
 ## Definition
 
 計算学習理論において、サンプル複雑度はモデルを効果的に訓練するために必要なデータ量を定量化するものです。これはモデルの容量と利用可能なデータの間のトレードオフを調整し、過学習を防ぎつつ一般化性能を確保することを目的としています。

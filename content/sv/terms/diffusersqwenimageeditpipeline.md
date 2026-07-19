@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /sv/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:54:05.570325Z"
-lastmod: "2026-07-18T17:15:08.996383Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:54:05.570325Z'
+lastmod: '2026-07-18T17:15:08.996383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En pipeline i Hugging Face Diffusers-biblioteket som utnyttjar Qwen-VL-modeller för instruktionsbaserade bildredigeringsuppgifter."
+source: agnes_llm
+status: published
+language: sv
+description: En pipeline i Hugging Face Diffusers-biblioteket som utnyttjar Qwen-VL-modeller
+  för instruktionsbaserade bildredigeringsuppgifter.
 ---
-
 ## Definition
 
 Denna pipeline integrerar Qwen-Vision-Language-modellens funktionalitet i Diffusers-ramverket för att utföra precisa bildmodifieringar baserat på instruktioner på naturligt språk. Till skillnad från generativa pipeliner...

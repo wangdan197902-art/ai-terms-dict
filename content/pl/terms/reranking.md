@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /pl/terms/reranking/
 date: "2026-07-18T16:15:04.160040Z"
 lastmod: "2026-07-18T17:15:08.914081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces pobierania wyników w dwóch etapach, w którym początkowa, gruba kolejność jest dopracowywana przez bardziej obliczeniowo kosztowny model w celu poprawy trafności wyników."
 ---
-
 ## Definition
 
 Ponowne rangowanie to strategia stosowana w wyszukiwaniu informacji i systemach rekomendacyjnych w celu zwiększenia dokładności. Najpierw szybki, ale mniej precyzyjny model pobiera duży zbiór kandydatów. Następnie wolniejszy, bardziej zaawansowany model przerynkowuje tę listę, aby wybrać najlepsze wyniki.

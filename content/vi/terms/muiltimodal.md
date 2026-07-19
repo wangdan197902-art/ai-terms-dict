@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /vi/terms/muiltimodal/
 date: "2026-07-18T16:04:19.107370Z"
 lastmod: "2026-07-18T16:38:07.784806Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Đa phương thức đề cập đến các hệ thống AI xử lý và tích hợp đồng thời nhiều loại phương thức dữ liệu khác nhau, chẳng hạn như văn bản, hình ảnh và âm thanh."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, tính đa phương thức mô tả khả năng của một mô hình trong việc hiểu, tạo ra hoặc liên kết thông tin across các đầu vào giác quan hoặc định dạng dữ liệu khác nhau. Không giống như các mô hình đơn phương thức

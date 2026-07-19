@@ -7,8 +7,6 @@ tags: ["agents", "robotics", "automation"]
 difficulty: 3
 weight: 1
 slug: "autonomous_agent"
-aliases:
-  - /fi/terms/autonomous_agent/
 date: "2026-07-18T15:45:00.616168Z"
 lastmod: "2026-07-18T17:15:09.386871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Itsenäinen agensi on järjestelmä, joka kykenee havainnoimaan ympäristöään ja toimimaan itsenäisesti saavuttaakseen tiettyjä tavoitteita ilman suoraa ihmisen väliintuloa."
 ---
-
 ## Definition
 
 Tekoälyssä itsenäinen agensi on yksikkö, joka toimii itsenäisesti ympäristössään. Se käyttää antureita tilojen havainnoimiseen ja toimilaitteita toimien suorittamiseen ohjautuen sisäisestä päättelykyvystä.

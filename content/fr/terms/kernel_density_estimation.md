@@ -1,23 +1,24 @@
 ---
-title: "Estimation de densité par noyau"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Estimation de densité par noyau
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /fr/terms/kernel_density_estimation/
-date: "2026-07-18T11:24:19.534634Z"
-lastmod: "2026-07-18T11:44:45.280040Z"
+slug: kernel_density_estimation
+date: '2026-07-18T11:24:19.534634Z'
+lastmod: '2026-07-18T11:44:45.280040Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une méthode non paramétrique utilisée pour estimer la fonction de densité de probabilité d'une variable aléatoire à partir d'un échantillon de données fini."
+source: agnes_llm
+status: published
+language: fr
+description: Une méthode non paramétrique utilisée pour estimer la fonction de densité
+  de probabilité d'une variable aléatoire à partir d'un échantillon de données fini.
 ---
-
 ## Definition
 
 L'estimation de densité par noyau (EDN) est une technique statistique fondamentale qui lisse les points de données discrets pour créer une courbe de distribution de probabilité continue. Elle place une fonction de noyau, généralement gaussienne, sur chaque point de données et somme ces contributions pour produire une estimation lisse de la densité sous-jacente, offrant une alternative plus fluide aux histogrammes.

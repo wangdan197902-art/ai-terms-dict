@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /tr/terms/experimental/
 date: "2026-07-18T15:24:58.820513Z"
 lastmod: "2026-07-18T16:38:07.231491Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Erken geliştirme aşamasında olan ve henüz üretim ortamı için tam olarak doğrulanmamış yapay zeka teknolojilerini, modellerini veya yöntemlerini ifade eder."
 ---
-
 ## Definition
 
 Deneysel, kararlılığa ulaşmadan veya yaygın kabul görmeden önce test edilen, araştırılan veya prototipi hazırlanan yapay zeka bileşenlerini belirtir. Bu sistemler genellikle yeni mimariler veya henüz kanıtlanmamış yaklaşımlar kullanır.

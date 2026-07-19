@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /da/terms/on_policy/
 date: "2026-07-18T15:32:39.006774Z"
 lastmod: "2026-07-18T17:15:09.240042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En tilgang inden for forstærkningslæring, hvor den politik, der evalueres og forbedres, er den samme som den, der bruges til at generere data."
 ---
-
 ## Definition
 
 On-policy-algoritmer kræver, at agenten lærer direkte fra de handlinger, den aktuelle politik tager. Dette betyder, at data, der indsamles under udforskning, straks bruges til at opdatere politikken, hvilket sikrer konsistens.

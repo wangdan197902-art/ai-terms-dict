@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /vi/terms/source/
 date: "2026-07-18T15:29:08.316838Z"
 lastmod: "2026-07-18T16:38:07.695991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ nguồn gốc của dữ liệu, mã nguồn hoặc mô hình được sử dụng trong phát triển và triển khai AI."
 ---
-
 ## Definition
 
 Trong ngữ cảnh AI, 'nguồn' thường chỉ nguồn gốc của các bộ dữ liệu huấn luyện, thư viện mã nguồn mở hoặc trọng số mô hình đã huấn luyện trước. Việc theo dõi nguồn gốc rất quan trọng để đảm bảo khả năng tái lập, tuân thủ giấy phép...

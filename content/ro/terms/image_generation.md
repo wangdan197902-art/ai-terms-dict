@@ -1,23 +1,23 @@
 ---
-title: "Generarea de Imagini"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: Generarea de Imagini
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /ro/terms/image_generation/
-date: "2026-07-18T16:03:49.633695Z"
-lastmod: "2026-07-18T17:15:09.667350Z"
+slug: image_generation
+date: '2026-07-18T16:03:49.633695Z'
+lastmod: '2026-07-18T17:15:09.667350Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Generarea de imagini este procesul de creare a unui conținut vizual nou de la zero sau de modificare a imaginilor existente folosind modele AI generative."
+source: agnes_llm
+status: published
+language: ro
+description: Generarea de imagini este procesul de creare a unui conținut vizual nou
+  de la zero sau de modificare a imaginilor existente folosind modele AI generative.
 ---
-
 ## Definition
 
 Acest paradigm utilizează modele precum Stable Diffusion sau DALL-E pentru a produce imagini de înaltă calitate bazate pe prompturi text sau alte intrări. Implică învățarea distribuțiilor complexe de date pentru a sintetiza imagini realiste.

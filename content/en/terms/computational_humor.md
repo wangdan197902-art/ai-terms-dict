@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /en/terms/computational_humor/
 date: "2026-07-18T09:51:20.758105Z"
 lastmod: "2026-07-18T11:44:44.653958Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The subfield of AI focused on generating, understanding, and appreciating humorous content through computational methods."
 ---
-
 ## Definition
 
 Computational humor studies how machines can produce or interpret jokes, puns, and witty remarks. It typically relies on natural language processing to detect incongruities, semantic shifts, or unexpected associations that trigger laughter. By analyzing linguistic structures and cultural contexts, AI systems attempt to replicate human creativity in comedy. This field intersects with psychology and linguistics, aiming to create engaging human-computer interactions that feel more natural and entertaining.

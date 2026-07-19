@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /ro/terms/lyra/
-date: "2026-07-18T16:09:53.166831Z"
-lastmod: "2026-07-18T17:15:09.677243Z"
+slug: lyra
+date: '2026-07-18T16:09:53.166831Z'
+lastmod: '2026-07-18T17:15:09.677243Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Lyra se referă la diverse inițiative sau modele IA, cel mai notabil fiind un model lingvistic mare open-source sau un instrument specific de căutare și descoperire bazat pe IA, conceput pentru a îmbun"
+source: agnes_llm
+status: published
+language: ro
+description: Lyra se referă la diverse inițiative sau modele IA, cel mai notabil fiind
+  un model lingvistic mare open-source sau un instrument specific de căutare și descoperire
+  bazat pe IA, conceput pentru a îmbun
 ---
-
 ## Definition
 
 În contextul terminologiei moderne IA, Lyra denotă adesea sisteme IA specializate axate pe îmbunătățirea interacțiunii utilizatorului prin procesarea limbajului natural. Poate face referire la un LLM open-source dezvoltat

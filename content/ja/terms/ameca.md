@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /ja/terms/ameca/
 date: "2026-07-18T11:03:40.156559Z"
 lastmod: "2026-07-18T11:44:45.066801Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "卓越した表情表現力と人間のような相互作用で知られる、Engineered Arts社が開発した高度なヒューマノイドロボット。"
 ---
-
 ## Definition
 
 Amecaは、顔だけでも40以上の自由度を持つ最先端のヒューマノイドロボットであり、微妙で現実的な感情表現が可能です。人間とロボットの相互作用を研究するために設計されており、社会ロボティクスや感情計算の分野で活用されています。

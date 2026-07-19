@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /th/terms/source/
 date: "2026-07-18T15:30:34.307400Z"
 lastmod: "2026-07-18T16:38:07.549496Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "หมายถึงจุดกำเนิดของข้อมูล โค้ด หรือโมเดลที่ใช้ในการพัฒนาและนำเอไอไปใช้งาน"
 ---
-
 ## Definition
 
 ในบริบทของเอไอ 'แหล่งที่มา' มักหมายถึงที่มาของชุดข้อมูลสำหรับการฝึกฝน (training datasets) ห้องสมุดโอเพนซอร์ส หรือน้ำหนักของโมเดลที่ผ่านการฝึกมาแล้ว (pre-trained model weights) การติดตามแหล่งที่มาเป็นสิ่งสำคัญสำหรับความสามารถในการทำซ้ำ (reproducibility) และการปฏิบัติตามข้อกำหนดด้านลิขสิทธิ์

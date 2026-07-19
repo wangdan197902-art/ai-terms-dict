@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /nl/terms/automated_decision_making/
 date: "2026-07-18T15:43:56.210841Z"
 lastmod: "2026-07-18T17:15:08.719959Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces waarbij algoritmen onafhankelijk acties of uitkomsten selecteren op basis van gegevensinvoer, zonder directe menselijke toezicht."
 ---
-
 ## Definition
 
 Geautomatiseerde besluitvorming (ADM) vertrouwt op softwaresystemen om keuzes te maken die eerder menselijk oordeel vereisten. Veelvoorkomend in kredietwaardigheidsscores, inhoudsmoderatietechnieken en logistiek, gebruikt ADM vooraf gedefinieerde regels (en modellen) om beslissingen te nemen.

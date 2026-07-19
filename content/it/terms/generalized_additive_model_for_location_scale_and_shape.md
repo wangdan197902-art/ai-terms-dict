@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /it/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T16:01:18.912731Z"
 lastmod: "2026-07-18T17:15:08.628881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "GAMLSS è un quadro statistico flessibile che consente di modellare tutti i parametri di una distribuzione come funzioni di variabili esplicative utilizzando smoothing additivi."
 ---
-
 ## Definition
 
 A differenza dei modelli di regressione tradizionali che si concentrano solo sulla media, GAMLSS modella l'intera distribuzione, inclusa la posizione (media/mediana), la scala (varianza), l'asimmetria e la curtosi. Utilizza modelli generalizzati...

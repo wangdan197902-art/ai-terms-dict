@@ -1,23 +1,24 @@
 ---
-title: "Bild-Text-zu-Text"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Bild-Text-zu-Text
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /de/terms/image_text_to_text/
-date: "2026-07-18T11:19:08.291279Z"
-lastmod: "2026-07-18T11:44:44.950547Z"
+slug: image_text_to_text
+date: '2026-07-18T11:19:08.291279Z'
+lastmod: '2026-07-18T11:44:44.950547Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine multimodale KI-Funktion, die textliche Beschreibungen oder Antworten basierend auf Eingabebildern und optionalen Textaufforderungen generiert."
+source: agnes_llm
+status: published
+language: de
+description: Eine multimodale KI-Funktion, die textliche Beschreibungen oder Antworten
+  basierend auf Eingabebildern und optionalen Textaufforderungen generiert.
 ---
-
 ## Definition
 
 Bild-Text-zu-Text bezeichnet Modelle, die visuelle Eingaben zusammen mit textuellen Abfragen verarbeiten, um kohärente Ausgaben in natürlicher Sprache zu erzeugen. Diese Systeme, oft als Vision-Language-Modelle (VLMs) bezeichnet, kombinieren...

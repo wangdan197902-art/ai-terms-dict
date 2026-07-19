@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /hu/terms/react/
 date: "2026-07-18T15:39:25.490752Z"
 lastmod: "2026-07-18T17:15:09.744157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A ReAct egy promptolási paradigma, amely az érvelést és cselekvést kombinálja a nagy nyelvi modellek teljesítményének javítása érdekében komplex feladatok során."
 ---
-
 ## Definition
 
 A ReAct keretrendszer lehetővé teszi a nagy nyelvi modellek (LLM) számára, hogy egymásba ágyazott módon generáljanak mind érvelési nyomvonalakat, mind feladatspecifikus cselekvéseket. Az emberi gondolkodásmód szimulálásával lehetővé teszi a modellek számára, hogy interakcióba lépjenek a külső környezetekkel.

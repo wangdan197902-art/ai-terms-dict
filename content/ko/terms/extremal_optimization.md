@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /ko/terms/extremal_optimization/
 date: "2026-07-18T15:55:19.731308Z"
 lastmod: "2026-07-18T16:38:06.839255Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "극값 최적화(EO)는 자기조직화 임계 현상에서 영감을 받은 휴리스틱 검색 알고리즘으로, 성능이 가장 낮은 구성 요소를 반복적으로 제거하여 조합 최적화 문제를 해결하도록 설계되었습니다."
 ---
-
 ## Definition
 
 개체군을 유지하는 유전 알고리즘과 달리 EO는 단일 솔루션에서 작동합니다. 전체 적합도에 가장 적게 기여하는 구성 요소를 식별하고 이를 무작위 대안으로 교체합니다.

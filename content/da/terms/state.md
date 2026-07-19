@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /da/terms/state/
 date: "2026-07-18T15:30:16.837867Z"
 lastmod: "2026-07-18T17:15:09.234323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Systemets eller agentens fulde konfiguration på et bestemt tidspunkt."
 ---
-
 ## Definition
 
 En tilstand repræsenterer al den relevante information, der er nødvendig for at bestemme fremtidig adfærd i systemer som Markov Decision Processes (MDP'er). I forstærkningslæring (reinforcement learning) indeholder tilstanden miljøets aktuelle tilstand.

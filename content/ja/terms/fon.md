@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /ja/terms/fon/
 date: "2026-07-18T11:15:11.232305Z"
 lastmod: "2026-07-18T11:44:45.098583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Fonとは、AIシステムの設計と運用を導く基礎的な原則および理論的基盤を指します。"
 ---
-
 ## Definition
 
 AI用語の文脈において、「Fon」は、AIモデルが入力を解釈し出力を生成する方法を定義する中核的な機能的オントロジーまたは基礎的なロジック構造を記述するためにしばしば使用されます。

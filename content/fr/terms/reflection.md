@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /fr/terms/reflection/
 date: "2026-07-18T11:36:07.251219Z"
 lastmod: "2026-07-18T11:44:45.321569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un mécanisme permettant aux modèles d'IA d'analyser leurs propres sorties, processus de raisonnement ou états internes pour améliorer les performances futures."
 ---
-
 ## Definition
 
 En IA, la réflexion est un paradigme où un modèle s'arrête pour évaluer son propre processus de génération ou sa sortie avant de la finaliser. Cela peut impliquer de vérifier la cohérence logique, l'exactitude factuelle ou le respect des contraintes.

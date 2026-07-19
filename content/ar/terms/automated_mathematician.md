@@ -1,23 +1,24 @@
 ---
-title: "الرياضي الآلي"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: الرياضي الآلي
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /ar/terms/automated_mathematician/
-date: "2026-07-18T15:46:20.962207Z"
-lastmod: "2026-07-18T17:15:08.478758Z"
+slug: automated_mathematician
+date: '2026-07-18T15:46:20.962207Z'
+lastmod: '2026-07-18T17:15:08.478758Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نظام ذكاء اصطناعي مصمم لاكتشاف نظريات أو فرضيات أو براهين رياضية جديدة من خلال البحث الحسابي والاستدلال."
+source: agnes_llm
+status: published
+language: ar
+description: نظام ذكاء اصطناعي مصمم لاكتشاف نظريات أو فرضيات أو براهين رياضية جديدة
+  من خلال البحث الحسابي والاستدلال.
 ---
-
 ## Definition
 
 يستفيد الرياضي الآلي من التعلم الآلي والاستدلال الرمزي لاستكشاف الفضاءات الرياضية بما يتجاوز الحدس البشري. يمكن لهذه الأنظمة توليد الفرضيات والتحقق من البراهين وإيجاد الأنماط.

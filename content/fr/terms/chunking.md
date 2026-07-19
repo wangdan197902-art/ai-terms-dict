@@ -1,23 +1,24 @@
 ---
-title: "Découpage (Chunking)"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Découpage (Chunking)
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /fr/terms/chunking/
-date: "2026-07-18T11:07:57.601219Z"
-lastmod: "2026-07-18T11:44:45.207172Z"
+slug: chunking
+date: '2026-07-18T11:07:57.601219Z'
+lastmod: '2026-07-18T11:44:45.207172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le découpage est le processus consistant à diviser de grands documents ou flux de données en segments plus petits et gérables pour le traitement ou l'indexation."
+source: agnes_llm
+status: published
+language: fr
+description: Le découpage est le processus consistant à diviser de grands documents
+  ou flux de données en segments plus petits et gérables pour le traitement ou l'indexation.
 ---
-
 ## Definition
 
 Le découpage est une étape critique de prétraitement dans la Génération Augmentée par Récupération (RAG) et d'autres pipelines de TALN. Il consiste à diviser le texte en unités de taille fixe ou sémantiques (morceaux) pour qu'elles tiennent dans la fenêtre de contexte.

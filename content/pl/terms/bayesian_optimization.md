@@ -1,23 +1,24 @@
 ---
-title: "Optymalizacja bayesowska"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Optymalizacja bayesowska
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /pl/terms/bayesian_optimization/
-date: "2026-07-18T15:43:54.204594Z"
-lastmod: "2026-07-18T17:15:08.850277Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:43:54.204594Z'
+lastmod: '2026-07-18T17:15:08.850277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Sekwencyjna strategia projektowania do globalnej optymalizacji funkcji typu black-box, których ewaluacja jest kosztowna."
+source: agnes_llm
+status: published
+language: pl
+description: Sekwencyjna strategia projektowania do globalnej optymalizacji funkcji
+  typu black-box, których ewaluacja jest kosztowna.
 ---
-
 ## Definition
 
 Optymalizacja bayesowska wykorzystuje probabilistyczny model zastępczy, zazwyczaj Proces Gaussowski, do modelowania funkcji celu. Stosuje ona funkcję pozyskiwania do zrównoważenia eksploracji i eksploatacji,

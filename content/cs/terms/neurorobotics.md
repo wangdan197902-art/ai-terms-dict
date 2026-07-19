@@ -1,23 +1,25 @@
 ---
-title: "Neurorobotika"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: Neurorobotika
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /cs/terms/neurorobotics/
-date: "2026-07-18T16:11:07.359424Z"
-lastmod: "2026-07-18T17:15:09.158266Z"
+slug: neurorobotics
+date: '2026-07-18T16:11:07.359424Z'
+lastmod: '2026-07-18T17:15:09.158266Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Neurorobotika je studiem toho, jak biologické neuronové systémy mohou ovlivnit návrh autonomních robotů a jak mohou roboty sloužit jako modely pro pochopení funkce mozku."
+source: agnes_llm
+status: published
+language: cs
+description: Neurorobotika je studiem toho, jak biologické neuronové systémy mohou
+  ovlivnit návrh autonomních robotů a jak mohou roboty sloužit jako modely pro pochopení
+  funkce mozku.
 ---
-
 ## Definition
 
 Tento obor spojuje neurovědu a robotiku implementací modelů neuronových sítí do řídicích systémů robotů. Umožňuje výzkumníkům testovat hypotézy o motorickém řízení, senzorickém zpracování a kognici.

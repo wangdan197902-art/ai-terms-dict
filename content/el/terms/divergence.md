@@ -1,23 +1,25 @@
 ---
-title: "Απόκλιση"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Απόκλιση
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /el/terms/divergence/
-date: "2026-07-18T15:24:48.483648Z"
-lastmod: "2026-07-18T17:15:09.842581Z"
+slug: divergence
+date: '2026-07-18T15:24:48.483648Z'
+lastmod: '2026-07-18T17:15:09.842581Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η απόκλιση αναφέρεται στην αποτυχία της συνάρτησης απωλειών ενός αλγορίθμου μηχανικής μάθησης να μειωθεί κατά την εκπαίδευση, με αποτέλεσμα ασταθή ή επιδεινούμενη απόδοση."
+source: agnes_llm
+status: published
+language: el
+description: Η απόκλιση αναφέρεται στην αποτυχία της συνάρτησης απωλειών ενός αλγορίθμου
+  μηχανικής μάθησης να μειωθεί κατά την εκπαίδευση, με αποτέλεσμα ασταθή ή επιδεινούμενη
+  απόδοση.
 ---
-
 ## Definition
 
 Στο πλαίσιο της βελτιστοποίησης, η απόκλιση συμβαίνει όταν οι παράμετροι ενός μοντέλου ενημερώνονται με τρόπο που προκαλεί αύξηση των απωλειών αντί για μείωση, οδηγώντας συχνά σε τιμές NaN (Not a Number) ή άπειρες κλίσεις.

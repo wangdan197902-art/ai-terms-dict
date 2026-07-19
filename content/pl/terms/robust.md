@@ -1,23 +1,24 @@
 ---
-title: "Odporny"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Odporny
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /pl/terms/robust/
-date: "2026-07-18T15:29:10.103858Z"
-lastmod: "2026-07-18T17:15:08.819831Z"
+slug: robust
+date: '2026-07-18T15:29:10.103858Z'
+lastmod: '2026-07-18T17:15:08.819831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Określa zdolność modelu lub systemu AI do utrzymania wydajności mimo obecności szumu, błędów lub nieoczekiwanych danych wejściowych."
+source: agnes_llm
+status: published
+language: pl
+description: Określa zdolność modelu lub systemu AI do utrzymania wydajności mimo
+  obecności szumu, błędów lub nieoczekiwanych danych wejściowych.
 ---
-
 ## Definition
 
 W sztucznej inteligencji odporność odnosi się do odporności modelu na ataki adversarialne, zmiany rozkładu danych lub zašumione dane wejściowe. Odporny algorytm nadal działa poprawnie nawet w warunkach niezgodnych z danymi treningowymi.

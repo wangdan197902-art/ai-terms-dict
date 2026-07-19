@@ -1,23 +1,23 @@
 ---
-title: "מטריצת בלבול"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: מטריצת בלבול
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /he/terms/confusion_matrix/
-date: "2026-07-18T15:49:46.501173Z"
-lastmod: "2026-07-18T17:15:09.522529Z"
+slug: confusion_matrix
+date: '2026-07-18T15:49:46.501173Z'
+lastmod: '2026-07-18T17:15:09.522529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טבלה המשמשת לתיאור ביצועיו של מודל סיווג על קבוצת נתוני בדיקה."
+source: agnes_llm
+status: published
+language: he
+description: טבלה המשמשת לתיאור ביצועיו של מודל סיווג על קבוצת נתוני בדיקה.
 ---
-
 ## Definition
 
 מטריצת בלבול היא פריסת טבלה ספציפית המאפשרת ויזואליזציה של הביצועים של אלגוריתם, בדרך כלל למידה מפוקחת. היא מציגה את מספרי ההצלחות האמיתיות (True Positives), הכישלונות האמיתיים (True Negatives), ההצלחות השגויות (False Positives) והכישלונות השגויים (False Negatives).

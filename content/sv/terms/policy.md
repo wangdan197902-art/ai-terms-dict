@@ -1,23 +1,25 @@
 ---
-title: "Policy"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Policy
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /sv/terms/policy/
-date: "2026-07-18T15:29:48.140935Z"
-lastmod: "2026-07-18T17:15:08.948800Z"
+slug: policy
+date: '2026-07-18T15:29:48.140935Z'
+lastmod: '2026-07-18T17:15:08.948800Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En strategi eller handlingsplan utformad för att styra beslut och uppnå rationella utfall, ofta använd i förstärkningsinlärning för att mappa tillstånd till handlingar."
+source: agnes_llm
+status: published
+language: sv
+description: En strategi eller handlingsplan utformad för att styra beslut och uppnå
+  rationella utfall, ofta använd i förstärkningsinlärning för att mappa tillstånd
+  till handlingar.
 ---
-
 ## Definition
 
 Begreppet 'policy' har dubbla betydelser beroende på sammanhang. Inom allmän management är det en ledande princip för beslutsfattande. Inom Förstärkningsinlärning (RL) är en policy en kärnkomponent i en a...

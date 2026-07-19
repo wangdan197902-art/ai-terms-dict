@@ -1,23 +1,23 @@
 ---
-title: "การเชื่อมต่อแบบเหลือเศษ (Residual Connection)"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: การเชื่อมต่อแบบเหลือเศษ (Residual Connection)
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /th/terms/residual_connection/
-date: "2026-07-18T15:37:31.176416Z"
-lastmod: "2026-07-18T16:38:07.564802Z"
+slug: residual_connection
+date: '2026-07-18T15:37:31.176416Z'
+lastmod: '2026-07-18T16:38:07.564802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลไกที่นำอินพุตไปบวกโดยตรงกับเอาต์พุตของเลเยอร์ เพื่อช่วยในการไหลของเกรเดียนต์ในเครือข่ายประสาทเทียมลึก"
+source: agnes_llm
+status: published
+language: th
+description: กลไกที่นำอินพุตไปบวกโดยตรงกับเอาต์พุตของเลเยอร์ เพื่อช่วยในการไหลของเกรเดียนต์ในเครือข่ายประสาทเทียมลึก
 ---
-
 ## Definition
 
 การเชื่อมต่อแบบเหลือเศษ หรือที่เรียกว่า Skip Connections ช่วยให้การไหลของเกรเดียนต์เกิดขึ้นได้อย่างมีประสิทธิภาพภายในเครือข่าย โดยการนำค่าอินพุตไปบวกโดยตรงกับเอาต์พุตของเลเยอร์ถัดไป โครงสร้างนี้ช่วยแก้ปัญหาเกรเดียนต์หายไปได้ดีในโมเดลที่มีความลึกสูง

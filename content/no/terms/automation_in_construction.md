@@ -1,23 +1,24 @@
 ---
-title: "Automatisering i byggebransjen"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Automatisering i byggebransjen
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /no/terms/automation_in_construction/
-date: "2026-07-18T15:44:16.112512Z"
-lastmod: "2026-07-18T16:38:06.974643Z"
+slug: automation_in_construction
+date: '2026-07-18T15:44:16.112512Z'
+lastmod: '2026-07-18T16:38:06.974643Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Bruken av robotikk og AI for å effektivisere byggprosesser og forbedre sikkerheten på byggeplasser."
+source: agnes_llm
+status: published
+language: 'no'
+description: Bruken av robotikk og AI for å effektivisere byggprosesser og forbedre
+  sikkerheten på byggeplasser.
 ---
-
 ## Definition
 
 Automatisering i byggebransjen refererer til integreringen av robotiske systemer, droner og AI-drevne prosjektledelsesverktøy i byggeprosessen. Disse teknologiene hjelper til med oppgaver som strekker seg fra murarbeid og betongstøping til inspeksjon av steder og overvåking av fremdrift, noe som øker effektiviteten og reduserer risikoen for ulykker.

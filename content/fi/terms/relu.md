@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /fi/terms/relu/
-date: "2026-07-18T15:38:04.677374Z"
-lastmod: "2026-07-18T17:15:09.374279Z"
+slug: relu
+date: '2026-07-18T15:38:04.677374Z'
+lastmod: '2026-07-18T17:15:09.374279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Rectified Linear Unit (ReLU) on aktivointifunktio, joka palauttaa syötteen suoraan, jos se on positiivinen, muuten nollan."
+source: agnes_llm
+status: published
+language: fi
+description: Rectified Linear Unit (ReLU) on aktivointifunktio, joka palauttaa syötteen
+  suoraan, jos se on positiivinen, muuten nollan.
 ---
-
 ## Definition
 
 ReLU:ta käytetään laajasti syväoppimisessa olevissa tekoälyverkoissa sen laskennallisen tehokkuuden ja kyvyn ansiosta lieventää kuivan gradientin ongelmaa. Matemaattisesti määriteltynä f(x) = max(0, x), se tuo verkkoihin ei-lineaarisuutta.

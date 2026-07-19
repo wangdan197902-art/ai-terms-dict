@@ -1,23 +1,23 @@
 ---
-title: "혼합 정밀도 학습"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: 혼합 정밀도 학습
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /ko/terms/mixed_precision_training/
-date: "2026-07-18T16:05:51.405453Z"
-lastmod: "2026-07-18T16:38:06.885402Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:05:51.405453Z'
+lastmod: '2026-07-18T16:38:06.885402Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "계산 속도를 높이고 메모리 사용을 줄이기 위해 16비트와 32비트 부동소수점 숫자를 모두 사용하는 학습 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 계산 속도를 높이고 메모리 사용을 줄이기 위해 16비트와 32비트 부동소수점 숫자를 모두 사용하는 학습 기법입니다.
 ---
-
 ## Definition
 
 혼합 정밀도 학습(MPT)은 신경망 학습 과정에서 반정밀도(FP16)와 완전 정밀도(FP32) 데이터 타입을 결합합니다. 대부분의 연산에 FP16을 사용함으로써 MPT는 메모리 사용량을 줄이고 계산 속도를 향상시킵니다.

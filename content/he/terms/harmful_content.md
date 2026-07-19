@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /he/terms/harmful_content/
 date: "2026-07-18T16:03:56.591288Z"
 lastmod: "2026-07-18T17:15:09.546686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מידע המציב סיכונים לאנשים או לחברה, כולל דיבור שטנה, אלימות ומעשים בלתי חוקיים."
 ---
-
 ## Definition
 
 תוכן מזיק מתייחס למדיה דיגיטלית או לטקסט שיכולים לגרום נזק פיזי, פסיכולוגי או חברתי. בבטיחות בינה מלאכותית, זיהוי וסינון תוכן מסוג זה קריטיים כדי למנוע מהמודלים ליצור

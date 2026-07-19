@@ -1,23 +1,24 @@
 ---
-title: "Selecția algoritmilor"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Selecția algoritmilor
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /ro/terms/algorithm_selection/
-date: "2026-07-18T15:43:25.148341Z"
-lastmod: "2026-07-18T17:15:09.625847Z"
+slug: algorithm_selection
+date: '2026-07-18T15:43:25.148341Z'
+lastmod: '2026-07-18T17:15:09.625847Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Selecția algoritmilor este procesul de alegere a celei mai potrivite metode computaționale pentru o problemă specifică, bazată pe metrici de performanță și constrângeri."
+source: agnes_llm
+status: published
+language: ro
+description: Selecția algoritmilor este procesul de alegere a celei mai potrivite
+  metode computaționale pentru o problemă specifică, bazată pe metrici de performanță
+  și constrângeri.
 ---
-
 ## Definition
 
 Selecția algoritmilor implică evaluarea diferitelor abordări computaționale pentru a determina care dintre acestea rezolvă cel mai eficient o sarcină dată. Acest proces ia în considerare factori precum complexitatea temporală, complexitatea spațială și resursele disponibile.

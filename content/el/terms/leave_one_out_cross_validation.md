@@ -1,23 +1,25 @@
 ---
-title: "Διασταυρούμενη Επαλήθευση Ένα-Προς-Ένα (Leave-One-Out Cross-Validation)"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Διασταυρούμενη Επαλήθευση Ένα-Προς-Ένα (Leave-One-Out Cross-Validation)
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /el/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:18:19.714370Z"
-lastmod: "2026-07-18T17:15:09.925955Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:18:19.714370Z'
+lastmod: '2026-07-18T17:15:09.925955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αυστηρή τεχνική δειγματοληψίας επαναχρησιμοποίησης όπου το μοντέλο εκπαιδεύεται σε όλα τα δείγματα εκτός από ένα και δοκιμάζεται σε αυτό το μεμονωμένο δείγμα που κρατήθηκε εκτός, επαναλαμβανόμενο "
+source: agnes_llm
+status: published
+language: el
+description: 'Μια αυστηρή τεχνική δειγματοληψίας επαναχρησιμοποίησης όπου το μοντέλο
+  εκπαιδεύεται σε όλα τα δείγματα εκτός από ένα και δοκιμάζεται σε αυτό το μεμονωμένο
+  δείγμα που κρατήθηκε εκτός, επαναλαμβανόμενο '
 ---
-
 ## Definition
 
 Η διασταυρούμενη επαλήθευση ένα-προς-ένα (LOOCV) είναι μια ειδική περίπτωση της διασταυρούμενης επαλήθεσης k-fold όπου το k ισούται με τον αριθμό των δειγμάτων στο σύνολο δεδομένων. Παρέχει μια σχεδόν αμερόληπτη εκτίμηση της απόδοσης του μοντέλου.

@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /cs/terms/api/
 date: "2026-07-18T15:22:18.954422Z"
 lastmod: "2026-07-18T17:15:09.061242Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Rozhraní aplikačního programování, které umožňuje různým softwarovým systémům komunikovat a vyměňovat si data."
 ---
-
 ## Definition
 
 API definuje sadu protokolů a nástrojů pro tvorbu softwaru a aplikací. V oblasti AI umožňují API vývojářům přístup k výkonným modelům, jako jsou LLM nebo generátory obrázků, aniž by je museli hostovat lokálně.

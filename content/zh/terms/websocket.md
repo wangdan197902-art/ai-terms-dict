@@ -7,8 +7,6 @@ tags: ["Networking", "Protocols", "Real-time"]
 difficulty: 4
 weight: 1
 slug: "websocket"
-aliases:
-  - /zh/terms/websocket/
 date: "2026-07-18T11:38:02.408107Z"
 lastmod: "2026-07-18T11:44:45.568253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种通过单个TCP连接提供全双工通信通道的协议，用于实时数据交换。"
 ---
-
 ## Definition
 
 WebSocket是一种计算机通信协议，能够在客户端和服务器之间建立持久且双向的通信。与HTTP不同，HTTP需要为每个请求-响应周期建立新连接，而WebSocket允许在单个连接上进行持续的数据传输。

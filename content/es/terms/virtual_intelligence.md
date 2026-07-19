@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /es/terms/virtual_intelligence/
 date: "2026-07-18T11:12:55.053417Z"
 lastmod: "2026-07-18T11:44:44.864407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La Inteligencia Virtual es un término amplio que describe sistemas de IA que operan dentro de entornos digitales para simular interacción, toma de decisiones o autonomía similares a las humanas."
 ---
-
 ## Definition
 
 La Inteligencia Virtual abarca cualquier sistema de inteligencia artificial diseñado para funcionar dentro de un espacio virtual o digital, a menudo interactuando con usuarios u otros agentes. Esto incluye asistentes virtuales, personajes no jugables (NPC) y sistemas de simulación autónoma.

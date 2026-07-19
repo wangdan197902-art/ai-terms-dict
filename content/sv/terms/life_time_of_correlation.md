@@ -1,23 +1,24 @@
 ---
-title: "Korrelationens livslängd"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Korrelationens livslängd
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /sv/terms/life_time_of_correlation/
-date: "2026-07-18T16:06:48.737974Z"
-lastmod: "2026-07-18T17:15:09.020797Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:06:48.737974Z'
+lastmod: '2026-07-18T17:15:09.020797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En metrik som uppskattar hur länge ett statistiskt samband mellan variabler förblir stabilt innan det avtar på grund av konceptdrift eller miljöförändringar."
+source: agnes_llm
+status: published
+language: sv
+description: En metrik som uppskattar hur länge ett statistiskt samband mellan variabler
+  förblir stabilt innan det avtar på grund av konceptdrift eller miljöförändringar.
 ---
-
 ## Definition
 
 Inom dynamiska system och tidsserieanalys mäter korrelationens livslängd den varaktighet under vilken två variabler upprätthåller ett signifikant statistiskt beroende. Detta begrepp är avgörande för att förstå hur länge modeller kan lita på historiska mönster innan de måste uppdateras.

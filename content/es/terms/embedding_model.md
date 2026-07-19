@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /es/terms/embedding_model/
 date: "2026-07-18T10:30:15.631961Z"
 lastmod: "2026-07-18T11:44:44.761960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un modelo de embedding convierte datos crudos como texto o imágenes en vectores numéricos densos que representan el significado semántico."
 ---
-
 ## Definition
 
 Estos modelos mapean datos de alta dimensión a un espacio vectorial continuo de menor dimensión donde los elementos similares se encuentran más cerca unos de otros. Esta transformación captura relaciones semánticas, permitiendo comparaciones matemáticas eficientes entre conceptos.

@@ -1,23 +1,24 @@
 ---
-title: "Maradványos kapcsolat"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Maradványos kapcsolat
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /hu/terms/residual_connection/
-date: "2026-07-18T15:39:41.441119Z"
-lastmod: "2026-07-18T17:15:09.744686Z"
+slug: residual_connection
+date: '2026-07-18T15:39:41.441119Z'
+lastmod: '2026-07-18T17:15:09.744686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy mechanizmus, amely közvetlenül hozzáadja a bemenetet egy réteg kimenetéhez, hogy megkönnyítse a gradiens áramlását a mély hálózatokban."
+source: agnes_llm
+status: published
+language: hu
+description: Egy mechanizmus, amely közvetlenül hozzáadja a bemenetet egy réteg kimenetéhez,
+  hogy megkönnyítse a gradiens áramlását a mély hálózatokban.
 ---
-
 ## Definition
 
 A maradványos kapcsolatok, más néven ugrókapcsolatok, lehetővé teszik a gradiens áramlását a hálózaton keresztül a bemenet közvetlen hozzáadásával egy későbbi réteg kimenetéhez. Ez az architektúra megoldja a eltűnő gradiens problémáját.

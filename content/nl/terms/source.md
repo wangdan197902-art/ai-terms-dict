@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /nl/terms/source/
 date: "2026-07-18T15:29:49.508456Z"
 lastmod: "2026-07-18T17:15:08.693770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar de oorsprong van data, code of modellen die worden gebruikt bij de ontwikkeling en implementatie van AI."
 ---
-
 ## Definition
 
 In AI-contexten duidt 'bron' meestal op de herkomst van trainingsdatasets, open-source bibliotheken of voorgecompileerde modelgewichten. Het volgen van bronnen is cruciaal voor reproduceerbaarheid, licentienaleving...

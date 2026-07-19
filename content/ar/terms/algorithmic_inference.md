@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /ar/terms/algorithmic_inference/
 date: "2026-07-18T15:42:57.580700Z"
 lastmod: "2026-07-18T17:15:08.474316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الاستدلال الخوارزمي هي العملية التي يطبق بها نموذج تعلم الآلة المدرب الأنماط المتعلمة على بيانات جديدة وغير مرئية لإجراء تنبؤات أو اتخاذ قرارات."
 ---
-
 ## Definition
 
 يُعرف أيضاً بالتنبؤ أو التقييم، ويحدث الاستدلال بعد مرحلة تدريب النموذج. حيث تأخذ الخوارزمية ميزات الإدخال، وتعالجها عبر بنيتها الداخلية (مثل الأوزان في الشبكة العصبية).

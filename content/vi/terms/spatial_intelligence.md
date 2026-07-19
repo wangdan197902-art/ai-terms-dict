@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /vi/terms/spatial_intelligence/
 date: "2026-07-18T16:12:43.023389Z"
 lastmod: "2026-07-18T16:38:07.806876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng của các hệ thống AI trong việc hiểu, suy luận và điều hướng trong các môi trường ba chiều."
 ---
-
 ## Definition
 
 Trí thông minh không gian đề cập đến khả năng của các mô hình trí tuệ nhân tạo trong việc nhận thức, diễn giải và thao tác các mối quan hệ không gian trong các môi trường vật lý hoặc ảo. Nó bao gồm việc hiểu cấu trúc không gian và tương tác với nó.

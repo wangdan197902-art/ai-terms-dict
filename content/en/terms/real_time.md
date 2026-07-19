@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /en/terms/real_time/
 date: "2026-07-18T09:39:30.969089Z"
 lastmod: "2026-07-18T11:44:44.618854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Real-time processing refers to systems that compute and deliver results within strict, guaranteed time constraints immediately upon input receipt."
 ---
-
 ## Definition
 
 In artificial intelligence, real-time denotes the capability of a system to process inputs and generate outputs with minimal latency, often within milliseconds. This is essential for applications where delays can cause failure or danger, such as autonomous driving, live video analytics, or interactive voice assistants. Achieving real-time performance requires efficient model architectures, hardware acceleration, and optimized inference pipelines to ensure deterministic response times under varying load conditions.

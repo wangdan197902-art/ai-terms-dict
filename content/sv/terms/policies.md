@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /sv/terms/policies/
 date: "2026-07-18T15:29:48.140887Z"
 lastmod: "2026-07-18T17:15:08.948648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En uppsättning riktlinjer, regler eller protokoll som fastställs av en organisation för att styra beteende, beslutsfattande och operativa standarder."
 ---
-
 ## Definition
 
 Inom kontexten av artificiell intelligens och teknisk styrning syftar riktlinjer på de formaliserade ramverk som dikterar hur AI-system ska utvecklas, distribueras och övervakas. Dessa dokument...

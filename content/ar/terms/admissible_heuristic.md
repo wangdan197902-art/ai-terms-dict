@@ -1,23 +1,24 @@
 ---
-title: "الدليل المقبول"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: الدليل المقبول
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /ar/terms/admissible_heuristic/
-date: "2026-07-18T15:42:26.390526Z"
-lastmod: "2026-07-18T17:15:08.472882Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:42:26.390526Z'
+lastmod: '2026-07-18T17:15:08.472882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "دليل إرشادي في خوارزميات البحث لا يبالغ أبداً في تقدير التكلفة الحقيقية للوصول إلى الهدف، مما يضمن الأمثلية."
+source: agnes_llm
+status: published
+language: ar
+description: دليل إرشادي في خوارزميات البحث لا يبالغ أبداً في تقدير التكلفة الحقيقية
+  للوصول إلى الهدف، مما يضمن الأمثلية.
 ---
-
 ## Definition
 
 في مشاكل إيجاد المسار والبحث، يوفر الدليل المقبول حداً أدنى للتكلفة الفعلية للوصول إلى العقدة المستهدفة. ومن خلال ضمان أن التكلفة المقدرة دائماً أقل من أو تساوي

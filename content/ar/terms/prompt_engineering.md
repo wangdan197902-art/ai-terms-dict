@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /ar/terms/prompt_engineering/
 date: "2026-07-18T15:22:23.284317Z"
 lastmod: "2026-07-18T17:15:08.430569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ممارسة تصميم وتحسين نصوص الإدخال لتوجيه نماذج اللغة الكبيرة نحو المخرجات المطلوبة."
 ---
-
 ## Definition
 
 تتضمن هندسة الأوامر صياغة مدخلات محددة، تُعرف بالأوامر، لاستخراج ردود دقيقة وذات صلة وعالية الجودة من نماذج الذكاء الاصطناعي التوليدية. يتطلب الأمر فهم كيفية تفسير النماذج للسياق وتوجيهها بشكل فعال.

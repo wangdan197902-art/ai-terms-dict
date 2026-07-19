@@ -1,23 +1,25 @@
 ---
-title: "Πεδίο (Domain)"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Πεδίο (Domain)
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /el/terms/domain/
-date: "2026-07-18T15:24:48.483659Z"
-lastmod: "2026-07-18T17:15:09.842690Z"
+slug: domain
+date: '2026-07-18T15:24:48.483659Z'
+lastmod: '2026-07-18T17:15:09.842690Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα πεδίο αντιπροσωπεύει ένα συγκεκριμένο πλαίσιο ή κατανομή δεδομένων που χαρακτηρίζεται από τον χώρο χαρακτηριστικών και την υποκείμενη πιθανοτική κατανομή του."
+source: agnes_llm
+status: published
+language: el
+description: Ένα πεδίο αντιπροσωπεύει ένα συγκεκριμένο πλαίσιο ή κατανομή δεδομένων
+  που χαρακτηρίζεται από τον χώρο χαρακτηριστικών και την υποκείμενη πιθανοτική κατανομή
+  του.
 ---
-
 ## Definition
 
 Στη μηχανική μάθηση, ιδιαίτερα στη μετάφραση μάθησης, ένα πεδίο ορίζεται από δύο συνιστώσες: τον χώρο χαρακτηριστικών (το σύνολο όλων των δυνατών εισόδων) και την περιθώρια πιθανοτική κατανομή αυτών των εισόδων.

@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /id/terms/embedding_model/
 date: "2026-07-18T15:34:15.539791Z"
 lastmod: "2026-07-18T16:38:07.412907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model embedding mengubah data mentah seperti teks atau gambar menjadi vektor numerik padat yang mewakili makna semantik."
 ---
-
 ## Definition
 
 Model-model ini memetakan data berdimensi tinggi ke dalam ruang vektor kontinu berdimensi lebih rendah di mana item serupa berada lebih dekat satu sama lain. Transformasi ini menangkap hubungan semantik, memungkinkan mesin memahami konteks dan makna.

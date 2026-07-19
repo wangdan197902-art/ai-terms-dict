@@ -1,23 +1,25 @@
 ---
-title: "Vector"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Vector
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /ro/terms/vector/
-date: "2026-07-18T15:39:52.220611Z"
-lastmod: "2026-07-18T17:15:09.620479Z"
+slug: vector
+date: '2026-07-18T15:39:52.220611Z'
+lastmod: '2026-07-18T17:15:09.620479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un obiect matematic care reprezintă o cantitate cu magnitudine și direcție, utilizat frecvent în AI pentru a codifica punctele de date într-un spațiu cu dimensiuni mari."
+source: agnes_llm
+status: published
+language: ro
+description: Un obiect matematic care reprezintă o cantitate cu magnitudine și direcție,
+  utilizat frecvent în AI pentru a codifica punctele de date într-un spațiu cu dimensiuni
+  mari.
 ---
-
 ## Definition
 
 În inteligența artificială, un vector este o structură de date fundamentală utilizată pentru a reprezenta informațiile numeric. Acesta constă dintr-o listă ordonată de numere (elemente) care mapează caracteristicile unei entități în

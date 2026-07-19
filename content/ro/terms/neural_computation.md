@@ -1,23 +1,24 @@
 ---
-title: "Calcul neuronal"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Calcul neuronal
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /ro/terms/neural_computation/
-date: "2026-07-18T16:13:36.648499Z"
-lastmod: "2026-07-18T17:15:09.685805Z"
+slug: neural_computation
+date: '2026-07-18T16:13:36.648499Z'
+lastmod: '2026-07-18T17:15:09.685805Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de procesare a informațiilor în rețelele neuronale artificiale, inspirate de neuronii biologici."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de procesare a informațiilor în rețelele neuronale artificiale,
+  inspirate de neuronii biologici.
 ---
-
 ## Definition
 
 Calculul neuronal se referă la operațiile matematice efectuate de neuronii artificiali pentru a transforma semnalele de intrare în răspunsuri de ieșire. Acesta implică sume ponderate, funcții de activare și backpropagation (retropropagarea erorii).

@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /zh/terms/web_intelligence/
 date: "2026-07-18T11:38:02.408098Z"
 lastmod: "2026-07-18T11:44:45.568107Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "应用智能技术从万维网中提取、管理和分析信息。"
 ---
-
 ## Definition
 
 网络智能涉及使用数据挖掘、机器学习和语义技术来处理互联网上海量的非结构化数据。其旨在将原始的网络数据转化为有价值的信息和知识。

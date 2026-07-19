@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /ja/terms/polysemanticity/
 date: "2026-07-18T11:28:02.046011Z"
 lastmod: "2026-07-18T11:44:45.132356Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ニューラルネットワーク内の個々のニューロンが複数の異なる概念に応答する現象。"
 ---
-
 ## Definition
 
 多義性は、特にトランスフォーマーなどの深層ニューラルネットワークで観察される特性であり、単一のニューロンが、無関係または意味的に異なる複数の特徴に対して活性化することがあります。

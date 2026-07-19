@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /da/terms/cloud/
 date: "2026-07-18T15:23:53.013125Z"
 lastmod: "2026-07-18T17:15:09.220630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Cloud refererer til eksterne servere, der hostes på internettet og bruges til at lagre, administrere og behandle data og AI-modeller i stedet for lokal hardware."
 ---
-
 ## Definition
 
 Cloud computing giver skalerbar infrastruktur til AI-arbejdsbyrder og gør det muligt for udviklere at få adgang til kraftige GPU'er og lagerplads uden at vedligeholde fysiske datacentre. Det understøtter forskellige servicemodeller som IaaS, PaaS og SaaS.

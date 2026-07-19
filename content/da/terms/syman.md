@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /da/terms/syman/
 date: "2026-07-18T16:20:39.138707Z"
 lastmod: "2026-07-18T17:15:09.335369Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et ikke-standardiseret eller tvetydigt begreb inden for AI-litteraturen; sandsynligvis en stavefejl for 'System' eller et specifikt niche-akronym, der ikke er bredt anerkendt i generel AI-terminologi."
 ---
-
 ## Definition
 
 Der findes ingen bredt accepteret standarddefinition for 'Syman' inden for mainstream kunstig intelligens-terminologi. Det kan referere til et specifikt proprietært værktøj, en stavefejl for 'System' (f.eks. System Prompt) eller lignende.

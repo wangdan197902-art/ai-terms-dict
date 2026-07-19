@@ -1,23 +1,24 @@
 ---
-title: "Otoyol Ağı"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Otoyol Ağı
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /tr/terms/highway_network/
-date: "2026-07-18T15:56:40.749068Z"
-lastmod: "2026-07-18T16:38:07.317346Z"
+slug: highway_network
+date: '2026-07-18T15:56:40.749068Z'
+lastmod: '2026-07-18T16:38:07.317346Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Çok derin ağlarda gradyan akışını kolaylaştırmak için kapılama mekanizmaları içeren derin sinir ağı mimarisidir."
+source: agnes_llm
+status: published
+language: tr
+description: Çok derin ağlarda gradyan akışını kolaylaştırmak için kapılama mekanizmaları
+  içeren derin sinir ağı mimarisidir.
 ---
-
 ## Definition
 
 Otoyol Ağları, bilgi akışını kontrol eden adaptif kapılar ekleyerek derin öğrenmede kaybolan gradyan sorununu çözmek üzere tasarlanmıştır. LSTM hücrelerine benzer şekilde, bu kapılar ağın doğrudan ileriye doğru bilgi aktarmasına olanak tanır, böylece çok derin ağların eğitilmesini mümkün kılar.

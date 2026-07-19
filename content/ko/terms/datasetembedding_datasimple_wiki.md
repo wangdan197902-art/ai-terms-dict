@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /ko/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:48:00.609015Z"
 lastmod: "2026-07-18T16:38:06.826775Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "간단한 영어 위키백과(Simple English Wikipedia)에서 파생된 큐레이션 데이터셋으로, 텍스트 임베딩 모델 훈련 및 평가에 사용됩니다."
 ---
-
 ## Definition
 
 이 데이터셋은 비모국어 화자를 위해 단순화된 문법과 어휘로 작성된 간단한 영어 위키백과에서 추출된 문장과 단락들로 구성됩니다. 복잡한 언어 구조를 피하므로, 임베딩 모델이 기본적이고 명확한 의미적 관계를 어떻게 학습하는지 평가하거나, 경량화된 임베딩 모델을 훈련시키는 데 유용합니다.

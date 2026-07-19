@@ -1,23 +1,24 @@
 ---
-title: "Uczenie się robotów"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Uczenie się robotów
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /pl/terms/robot_learning/
-date: "2026-07-18T16:15:19.257596Z"
-lastmod: "2026-07-18T17:15:08.914555Z"
+slug: robot_learning
+date: '2026-07-18T16:15:19.257596Z'
+lastmod: '2026-07-18T17:15:08.914555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Dziedzina robotyki skupiająca się na umożliwianiu robotom nabywania umiejętności i poprawy wydajności poprzez doświadczenie i interakcję ze środowiskiem."
+source: agnes_llm
+status: published
+language: pl
+description: Dziedzina robotyki skupiająca się na umożliwianiu robotom nabywania umiejętności
+  i poprawy wydajności poprzez doświadczenie i interakcję ze środowiskiem.
 ---
-
 ## Definition
 
 Uczenie się robotów obejmuje trenowanie agentów robotycznych do samodzielnego wykonywania zadań poprzez wykorzystanie technik uczenia maszynowego. W przeciwieństwie do zaprogramowanych zachowań, systemy te dostosowują się do dynamicznych środowisk,

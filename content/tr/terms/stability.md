@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /tr/terms/stability/
 date: "2026-07-18T16:15:33.481497Z"
 lastmod: "2026-07-18T16:38:07.368316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenimi modelinin, hafifçe farklı veri setleriyle eğitildiğinde tutarlı tahminler üretme özelliği."
 ---
-
 ## Definition
 
 Makine öğreniminde kararlılık, bir modelin performansının ve parametrelerinin eğitim verisindeki küçük değişikliklere (pertürbasyonlara) karşı ne kadar dayanıklı olduğunu ifade eder. Kararlı bir algoritma, eğitim verisindeki küçük varyasyonlar karşısında benzer modeller üretecek ve aşırı uyum (overfitting) riskini azaltacaktır. Bu özellik, modelin genelleme yeteneği ve güvenilirliği açısından kritik öneme sahiptir.

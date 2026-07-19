@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /vi/terms/non_human/
 date: "2026-07-18T16:05:38.156288Z"
 lastmod: "2026-07-18T16:38:07.788140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong đạo đức AI và xã hội học, 'phi nhân' đề cập đến các thực thể hoặc hệ thống nhân tạo sở hữu tác nhân, trí thông minh hoặc sự hiện diện xã hội nhưng thiếu ý thức sinh học hoặc bản sắc con người."
 ---
-
 ## Definition
 
 Thuật ngữ này thường được sử dụng trong các cuộc thảo luận về quyền lợi, trách nhiệm và sự hòa nhập xã hội của các tác nhân AI, robot và trợ lý ảo. Nó nhấn mạnh sự khác biệt giữa con người sinh học và các thực thể nhân tạo.

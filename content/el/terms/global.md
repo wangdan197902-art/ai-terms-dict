@@ -1,23 +1,24 @@
 ---
-title: "Καθολικό"
-term_id: "global"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "architecture", "theory"]
+title: Καθολικό
+term_id: global
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- architecture
+- theory
 difficulty: 2
 weight: 1
-slug: "global"
-aliases:
-  - /el/terms/global/
-date: "2026-07-18T15:26:33.971212Z"
-lastmod: "2026-07-18T17:15:09.845565Z"
+slug: global
+date: '2026-07-18T15:26:33.971212Z'
+lastmod: '2026-07-18T17:15:09.845565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Περιγράφει ιδιότητες, βελτιστοποιήσεις ή πεδία εφαρμογής που ισχύουν για ολόκληρο το μοντέλο ή το σύνολο δεδομένων αντί για τοπικά υποσύνολα."
+source: agnes_llm
+status: published
+language: el
+description: Περιγράφει ιδιότητες, βελτιστοποιήσεις ή πεδία εφαρμογής που ισχύουν
+  για ολόκληρο το μοντέλο ή το σύνολο δεδομένων αντί για τοπικά υποσύνολα.
 ---
-
 ## Definition
 
 Ο όρος 'καθολικό' στην ΤΝ αντιτίθεται συνήθως στο 'τοπικό', αναφερόμενο σε πτυχές που περιλαμβάνουν ολόκληρο το σύστημα. Στη βελτιστοποίηση, τα καθολικά ελάχιστα αντιπροσωπεύουν την καλύτερη δυνατή λύση σε όλο το τοπίο

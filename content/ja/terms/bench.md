@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /ja/terms/bench/
 date: "2026-07-18T10:48:36.308120Z"
 lastmod: "2026-07-18T11:44:45.002713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ベンチマークの略称で、AIモデルのパフォーマンスを評価するために使用される標準的なテストセットまたは指標。"
 ---
-
 ## Definition
 
 ベンチマークは、異なるAIモデルやアルゴリズムの能力を比較するための標準的な参照点として機能します。通常、キュレーションされたデータセットと、精度や再現率などの特定の評価指標が含まれます。

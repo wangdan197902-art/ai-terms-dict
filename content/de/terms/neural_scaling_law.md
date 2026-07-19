@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /de/terms/neural_scaling_law/
 date: "2026-07-18T11:25:18.447463Z"
 lastmod: "2026-07-18T11:44:44.969885Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Empirische Zusammenhänge, die Leistungsverbesserungen von Modellen basierend auf steigenden Datenmengen, Parametern oder Rechenressourcen vorhersagen."
 ---
-
 ## Definition
 
 Skalierungsgesetze neuronaler Netze beschreiben die vorhersehbare Potenzgesetz-Beziehung zwischen der Leistung eines Modells und seiner Skalierung, einschließlich Datengröße, Parameteranzahl und Rechenbudget. Diese Gesetze deuten darauf hin, dass...

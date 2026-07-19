@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /de/terms/benchmarking/
 date: "2026-07-18T10:48:42.243806Z"
 lastmod: "2026-07-18T11:44:44.869716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der systematische Prozess des Testens von KI-Modellen gegen Benchmarks, um ihre Leistung zu quantifizieren und Verbesserungsbereiche zu identifizieren."
 ---
-
 ## Definition
 
 Benchmarking ist die aktive Praxis, Experimente durchzuführen, um zu messen, wie gut ein KI-Modell spezifische Aufgaben mit vordefinierten Benchmarks erfüllt. Dieser Prozess umfasst das Ausführen von Modellen durch standardisierte Tests.

@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /he/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:53:10.502972Z"
 lastmod: "2026-07-18T17:15:09.531518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקה המשתמשת בבינה מלאכותית כדי להגדיל תמונות ברזולוציה נמוכה לרזולוציות גבוהות יותר עם פרטים משופרים ופחות ארטיפקטים."
 ---
-
 ## Definition
 
 דגימה עודפת בלמידה עמוקה (DLSS) היא טכנולוגיה המנצלת רשתות נוירונים כדי לשחזר תמונות ברזולוציה גבוהה מקלטעי קלט ברזולוציה נמוכה. על ידי ניתוח נתונים טמפורליים ומידע מרחבי,

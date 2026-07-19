@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /ro/terms/continuous_time/
 date: "2026-07-18T15:31:35.025089Z"
 lastmod: "2026-07-18T17:15:09.607497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare de modelare în care variabilele se schimbă fluid într-un domeniu continuu, nu în pași discreți."
 ---
-
 ## Definition
 
 Modelele în timp continuu descriu dinamica sistemului folosind ecuații diferențiale, permițând o evoluție fluidă a stărilor în timp. În IA, acest lucru este exemplificat de Ecuațiile Diferențiale Ordinare Neuronale (Neural ODEs)...

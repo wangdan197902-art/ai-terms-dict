@@ -1,23 +1,23 @@
 ---
-title: "אסטרוסטטיסטיקה"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: אסטרוסטטיסטיקה
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /he/terms/astrostatistics/
-date: "2026-07-18T15:43:25.596925Z"
-lastmod: "2026-07-18T17:15:09.514396Z"
+slug: astrostatistics
+date: '2026-07-18T15:43:25.596925Z'
+lastmod: '2026-07-18T17:15:09.514396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "יישום של שיטות סטטיסטיות לניתוח נתונים אסטרונומיים ופתרון בעיות באסטרופיזיקה."
+source: agnes_llm
+status: published
+language: he
+description: יישום של שיטות סטטיסטיות לניתוח נתונים אסטרונומיים ופתרון בעיות באסטרופיזיקה.
 ---
-
 ## Definition
 
 אסטרוסטטיסטיקה היא תחום התמחות המחבר בין סטטיסטיקה לאסטרונומיה. היא כוללת פיתוח והחלה של טכניקות סטטיסטיות קפדניות להתמודדות עם האתגרים הייחודיים של נתונים אסטרונומיים, כגון עומסי נתונים עצומים, רעש רקע ומורכבות חישובית גבוהה.

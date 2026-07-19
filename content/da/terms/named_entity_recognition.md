@@ -1,23 +1,24 @@
 ---
-title: "Navngiven enhedsgenkendelse"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Navngiven enhedsgenkendelse
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /da/terms/named_entity_recognition/
-date: "2026-07-18T15:37:01.589250Z"
-lastmod: "2026-07-18T17:15:09.247163Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:37:01.589250Z'
+lastmod: '2026-07-18T17:15:09.247163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En opgave inden for naturlig sprogbehandling, der identificerer og klassificerer nøgleinformation-enheder i prædefinerede kategorier."
+source: agnes_llm
+status: published
+language: da
+description: En opgave inden for naturlig sprogbehandling, der identificerer og klassificerer
+  nøgleinformation-enheder i prædefinerede kategorier.
 ---
-
 ## Definition
 
 Navngiven enhedsgenkendelse (NER) er en delopgave inden for informationsudtrækning, der lokaliserer og klassificerer navngivne enheder i tekst i foruddefinerede kategorier såsom personnavne, organisationer, lokationer, medicinske termer og andre specifikke entiteter.

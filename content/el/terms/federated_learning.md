@@ -1,23 +1,24 @@
 ---
-title: "Ομοσπονδιακή Μάθηση"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Ομοσπονδιακή Μάθηση
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /el/terms/federated_learning/
-date: "2026-07-18T15:40:44.253228Z"
-lastmod: "2026-07-18T17:15:09.866242Z"
+slug: federated_learning
+date: '2026-07-18T15:40:44.253228Z'
+lastmod: '2026-07-18T17:15:09.866242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ομοσπονδιακή μάθηση είναι μια κατανεμημένη προσέγγιση μηχανικής μάθησης που εκπαιδεύει μοντέλα σε αποκεντρωμένες συσκευές διατηρώντας τα δεδομένα τοπικά."
+source: agnes_llm
+status: published
+language: el
+description: Η ομοσπονδιακή μάθηση είναι μια κατανεμημένη προσέγγιση μηχανικής μάθησης
+  που εκπαιδεύει μοντέλα σε αποκεντρωμένες συσκευές διατηρώντας τα δεδομένα τοπικά.
 ---
-
 ## Definition
 
 Η ομοσπονδιακή μάθηση επιτρέπει σε οργανισμούς να εκπαιδεύουν συνεργατικά μοντέλα τεχνητής νοημοσύνης χωρίς να μοιράζονται ευαίσθητα ωμά δεδομένα. Αντί να κεντρικοποιείται η πληροφορία, το μοντέλο στέλνεται σε τοπικές συσκευές όπου μαθαίνει και ενημερώνονται μόνο οι παράμετροι του μοντέλου.

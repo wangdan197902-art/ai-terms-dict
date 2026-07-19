@@ -1,23 +1,25 @@
 ---
-title: "Cyfrowe znaki wodne"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: Cyfrowe znaki wodne
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /pl/terms/watermarking/
-date: "2026-07-18T16:22:25.304251Z"
-lastmod: "2026-07-18T17:15:08.927975Z"
+slug: watermarking
+date: '2026-07-18T16:22:25.304251Z'
+lastmod: '2026-07-18T17:15:08.927975Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "W kontekście AI, cyfrowe znaki wodne polegają na wbudowaniu niewidocznych lub widocznych identyfikatorów w generowanej treści, aby udowodnić jej pochodzenie i odróżnić ją od materiałów stworzonych prz"
+source: agnes_llm
+status: published
+language: pl
+description: W kontekście AI, cyfrowe znaki wodne polegają na wbudowaniu niewidocznych
+  lub widocznych identyfikatorów w generowanej treści, aby udowodnić jej pochodzenie
+  i odróżnić ją od materiałów stworzonych prz
 ---
-
 ## Definition
 
 W miarę jak generatywna AI produkuje coraz więcej treści syntetycznych, cyfrowe znaki wodne stają się kluczowym narzędziem zapewniającym przejrzystość i odpowiedzialność. Polegają one na modyfikacji treści cyfrowych – takich jak obrazy, tekst...

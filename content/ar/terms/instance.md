@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /ar/terms/instance/
 date: "2026-07-18T16:03:21.808696Z"
 lastmod: "2026-07-18T17:15:08.516278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عينة بيانات فردية أو ملاحظة تُستخدم في مهام تعلم الآلة، وغالباً ما تمثل كمتجه من السمات."
 ---
-
 ## Definition
 
 في تعلم الآلة، تشير العينة إلى مثال محدد واحد من مجموعة البيانات. تتكون من مجموعة من سمات الإدخال (السمات) وقد تحتوي على تسمية مستهدفة. تعتبر العينات الوحدة الأساسية.

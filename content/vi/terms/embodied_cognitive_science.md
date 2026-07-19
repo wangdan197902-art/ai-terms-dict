@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /vi/terms/embodied_cognitive_science/
 date: "2026-07-18T15:51:26.003681Z"
 lastmod: "2026-07-18T16:38:07.753397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khoa học nhận thức hiện thân là một khung lý thuyết đề xuất rằng nhận thức của con người được định hình cơ bản bởi sự tương tác của cơ thể với môi trường."
 ---
-
 ## Definition
 
 Lĩnh vực này thách thức các quan điểm truyền thống coi tâm trí như một máy tính xử lý các ký hiệu trừu tượng. Thay vào đó, nó lập luận rằng các quá trình nhận thức bắt nguồn sâu sắc từ đặc điểm vật lý của cơ thể và sự tương tác trực tiếp với thế giới xung quanh.

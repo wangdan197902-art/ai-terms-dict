@@ -1,23 +1,24 @@
 ---
-title: "Paraphrase"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Paraphrase
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /fr/terms/paraphrasing/
-date: "2026-07-18T11:32:38.894153Z"
-lastmod: "2026-07-18T11:44:45.310180Z"
+slug: paraphrasing
+date: '2026-07-18T11:32:38.894153Z'
+lastmod: '2026-07-18T11:44:45.310180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La tâche de TALN consistant à réécrire un texte pour conserver le même sens en utilisant des mots ou des structures de phrases différents."
+source: agnes_llm
+status: published
+language: fr
+description: La tâche de TALN consistant à réécrire un texte pour conserver le même
+  sens en utilisant des mots ou des structures de phrases différents.
 ---
-
 ## Definition
 
 La paraphrase en Traitement Automatique du Langage Naturel (TALN) implique la génération d'expressions alternatives pour un texte d'entrée donné tout en préservant son sens sémantique original. Elle est cruciale pour réduire le plagiat, am

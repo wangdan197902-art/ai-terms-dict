@@ -1,23 +1,25 @@
 ---
-title: "Квантование"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Квантование
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /ru/terms/quantization/
-date: "2026-07-18T15:35:53.227278Z"
-lastmod: "2026-07-18T16:38:07.109104Z"
+slug: quantization
+date: '2026-07-18T15:35:53.227278Z'
+lastmod: '2026-07-18T16:38:07.109104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника оптимизации модели, которая снижает точность чисел, используемых в вычислениях нейронной сети, чтобы уменьшить размер модели и повысить скорость работы."
+source: agnes_llm
+status: published
+language: ru
+description: Техника оптимизации модели, которая снижает точность чисел, используемых
+  в вычислениях нейронной сети, чтобы уменьшить размер модели и повысить скорость
+  работы.
 ---
-
 ## Definition
 
 Квантование преобразует числа высокой точности с плавающей запятой (например, FP32) в форматы более низкой точности (например, INT8 или FP16). Это снижение уменьшает потребление памяти моделью и вычислительные требования, что позволяет быстрее выполнять инференс без существенной потери качества.

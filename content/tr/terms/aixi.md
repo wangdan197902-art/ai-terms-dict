@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /tr/terms/aixi/
 date: "2026-07-18T15:39:35.470591Z"
 lastmod: "2026-07-18T16:38:07.268796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AIXI, optimum bir ajanın çevresiyle etkileşimini modelleyen yapay genel zekânın matematiksel bir teorisidir."
 ---
-
 ## Definition
 
 AIXI, Marcus Hutter tarafından önerilen idealize edilmiş bir zeki ajanı tanımlayan teorik bir çerçevedir. Çevrenin tahmini için Solomonoff tüyümlemesini, karar verme ve öğrenme için ise pekiştirmeli öğrenmeyi birleştirir.

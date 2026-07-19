@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /fi/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:12:25.287581Z"
 lastmod: "2026-07-18T17:15:09.438119Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Hankkeessa hyödynnetään tekoälyä ja satelliittidataa globaalien ilmanlaatumallien seuraamiseen ja ennustamiseen."
 ---
-
 ## Definition
 
 Tämä hanke hyödyntää NASAn maan havainnointidataa yhdistettynä edistyneisiin tekoälyalgoritmeihin seuratakseen hiukkasmaisia ja kaasumaisia saasteita globaalisti. Yhdistämällä satelliittikuvia maanpäällisten

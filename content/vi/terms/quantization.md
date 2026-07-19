@@ -1,23 +1,24 @@
 ---
-title: "Lượng tử hóa"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Lượng tử hóa
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /vi/terms/quantization/
-date: "2026-07-18T15:36:48.459224Z"
-lastmod: "2026-07-18T16:38:07.712444Z"
+slug: quantization
+date: '2026-07-18T15:36:48.459224Z'
+lastmod: '2026-07-18T16:38:07.712444Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật tối ưu hóa mô hình làm giảm độ chính xác của các số được sử dụng trong tính toán mạng nơ-ron để giảm kích thước và cải thiện tốc độ."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật tối ưu hóa mô hình làm giảm độ chính xác của các số được
+  sử dụng trong tính toán mạng nơ-ron để giảm kích thước và cải thiện tốc độ.
 ---
-
 ## Definition
 
 Lượng tử hóa chuyển đổi các số dấu phẩy động độ chính xác cao (như FP32) sang các định dạng độ chính xác thấp hơn (như INT8 hoặc FP16). Sự giảm bớt này làm giảm mức sử dụng bộ nhớ và yêu cầu tính toán của mô hình.

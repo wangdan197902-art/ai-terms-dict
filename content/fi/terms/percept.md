@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /fi/terms/percept/
 date: "2026-07-18T16:15:17.544120Z"
 lastmod: "2026-07-18T17:15:09.443160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mielikuva tai tulkittu tulos aistinvaraisesta syötteestä, jonka havaintojärjestelmä on käsitellyt."
 ---
-
 ## Definition
 
 Havainto on ulkoisen ärsykkeen sisäinen esitys sen jälkeen, kun se on käsitelty havainnoivassa systeemissä. Tekoälyssä tämä vastaa rakenteista datatulostetta matalan tason signaalinkäsittelystä...

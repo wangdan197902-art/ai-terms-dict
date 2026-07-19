@@ -1,23 +1,24 @@
 ---
-title: "Verificação de Agentes"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Verificação de Agentes
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /pt/terms/agent_verification/
-date: "2026-07-18T14:49:00.423707Z"
-lastmod: "2026-07-18T15:51:59.461202Z"
+slug: agent_verification
+date: '2026-07-18T14:49:00.423707Z'
+lastmod: '2026-07-18T15:51:59.461202Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A verificação de agentes é o processo de provar formalmente que um agente autônomo se comportará corretamente e com segurança sob todas as condições especificadas."
+source: agnes_llm
+status: published
+language: pt
+description: A verificação de agentes é o processo de provar formalmente que um agente
+  autônomo se comportará corretamente e com segurança sob todas as condições especificadas.
 ---
-
 ## Definition
 
 Isso envolve o uso de métodos matemáticos para garantir que as ações de um agente estejam em conformidade com restrições predefinidas, como limites de segurança ou diretrizes éticas. É particularmente importante para agentes que operam em ambientes críticos.

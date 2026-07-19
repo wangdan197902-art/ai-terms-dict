@@ -1,23 +1,25 @@
 ---
-title: "Promptowanie few-shot"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Promptowanie few-shot
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /pl/terms/few_shot_prompting/
-date: "2026-07-18T15:35:16.858838Z"
-lastmod: "2026-07-18T17:15:08.832386Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:35:16.858838Z'
+lastmod: '2026-07-18T17:15:08.832386Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Promptowanie few-shot to technika, w której duże modele językowe (LLM) otrzymują w prompcie niewielką liczbę przykładów wejścia i wyjścia, aby kierować ich zachowaniem."
+source: agnes_llm
+status: published
+language: pl
+description: Promptowanie few-shot to technika, w której duże modele językowe (LLM)
+  otrzymują w prompcie niewielką liczbę przykładów wejścia i wyjścia, aby kierować
+  ich zachowaniem.
 ---
-
 ## Definition
 
 Ta metoda wykorzystuje zdolności uczenia się w kontekście (in-context learning) dużych modeli językowych poprzez dostarczenie kilku ilustracyjnych przykładów bezpośrednio w prompcie. W przeciwieństwie do dostrajania (fine-tuning), które wymaga aktualizacji wag modelu...

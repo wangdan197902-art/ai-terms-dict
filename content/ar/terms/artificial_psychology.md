@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /ar/terms/artificial_psychology/
 date: "2026-07-18T15:44:57.141359Z"
 lastmod: "2026-07-18T17:15:08.477537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "حقل يدرس كيفية تصميم أنظمة ذكاء اصطناعي ببنية معرفية تحاكي العمليات النفسية البشرية."
 ---
-
 ## Definition
 
 علم النفس الاصطناعي هو مجال متعدد التخصصات يركز على تصميم وتنفيذ البنى المعرفية في أنظمة الذكاء الاصطناعي. يستمد من العلوم المعرفية وعلم النفس لنمذجة العقل البشري

@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /zh/terms/ai_alignment/
 date: "2026-07-18T11:02:52.509006Z"
 lastmod: "2026-07-18T11:44:45.433828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "致力于确保 AI 系统行为符合人类价值观和意图的研究领域。"
 ---
-
 ## Definition
 
 AI 对齐旨在解决如何让人工智能系统稳健地执行用户真正意图的任务，而非仅仅字面指定的任务。它涉及确保系统行为有益的技术方法。

@@ -1,23 +1,23 @@
 ---
-title: "模式识别的先验知识"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: 模式识别的先验知识
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /zh/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T11:30:30.456885Z"
-lastmod: "2026-07-18T11:44:45.544812Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T11:30:30.456885Z'
+lastmod: '2026-07-18T11:44:45.544812Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "集成到机器学习模型中的现有信息或假设，以提高模式识别的准确性。"
+source: agnes_llm
+status: published
+language: zh
+description: 集成到机器学习模型中的现有信息或假设，以提高模式识别的准确性。
 ---
-
 ## Definition
 
 先验知识指的是在训练开始之前融入算法中的领域特定见解、约束或历史数据。这有助于引导模型趋向合理的解决方案，减少过拟合风险，并提高泛化能力。

@@ -1,23 +1,22 @@
 ---
-title: "แทนที่ / ในทางกลับกัน"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: แทนที่ / ในทางกลับกัน
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /th/terms/instead/
-date: "2026-07-18T15:26:12.107726Z"
-lastmod: "2026-07-18T16:38:07.540832Z"
+slug: instead
+date: '2026-07-18T15:26:12.107726Z'
+lastmod: '2026-07-18T16:38:07.540832Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คำเชื่อมหรือวิเศษณ์ทางภาษาที่บ่งบอกถึงการแทนที่ การเปลี่ยนตำแหน่ง หรือการกระทำทางเลือกอื่นแทนอีกสิ่งหนึ่ง"
+source: agnes_llm
+status: published
+language: th
+description: คำเชื่อมหรือวิเศษณ์ทางภาษาที่บ่งบอกถึงการแทนที่ การเปลี่ยนตำแหน่ง หรือการกระทำทางเลือกอื่นแทนอีกสิ่งหนึ่ง
 ---
-
 ## Definition
 
 แม้ว่าจะไม่ใช่ศัพท์เทคนิคเฉพาะสำหรับอัลกอริทึม AI แต่คำว่า 'instead' มีความสำคัญอย่างยิ่งในการออกแบบพรอมต์ (prompt engineering) และการทำความเข้าใจภาษาธรรมชาติ คำนี้บ่งชี้ความสัมพันธ์ของความขัดแย้งหรือการแทนที่ระหว่างประโยคย่อย ในการฝึกฝนโมเดลภาษาขนาดใหญ่ (LLM tra

@@ -1,23 +1,24 @@
 ---
-title: "Wyszukiwanie semantyczne"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Wyszukiwanie semantyczne
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /pl/terms/semantic_search/
-date: "2026-07-18T15:37:01.383758Z"
-lastmod: "2026-07-18T17:15:08.837061Z"
+slug: semantic_search
+date: '2026-07-18T15:37:01.383758Z'
+lastmod: '2026-07-18T17:15:08.837061Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technologia wyszukiwania rozumiejąca znaczenie terminów zapytania, a nie tylko dopasowująca słowa kluczowe."
+source: agnes_llm
+status: published
+language: pl
+description: Technologia wyszukiwania rozumiejąca znaczenie terminów zapytania, a
+  nie tylko dopasowująca słowa kluczowe.
 ---
-
 ## Definition
 
 Wyszukiwanie semantyczne interpretuje intencję i kontekstualne znaczenie zapytania, wykraczając poza proste dopasowanie słów kluczowych. Używa osadzeń (embeddings) do reprezentacji tekstu jako wektorów w przestrzeni wielowymiarowej, co umożliwia...

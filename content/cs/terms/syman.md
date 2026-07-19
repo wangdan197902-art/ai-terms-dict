@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /cs/terms/syman/
 date: "2026-07-18T16:19:25.746110Z"
 lastmod: "2026-07-18T17:15:09.204859Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Nestandardní nebo nejednoznačný termín v literatuře o AI; pravděpodobně překlep pro 'System' nebo specifický akronym uznávaný pouze v úzké specializaci, nikoli ve všeobecné terminologii AI."
 ---
-
 ## Definition
 
 Ve mainstreamové terminologii umělé inteligence neexistuje široce přijatá definice pro 'Syman'. Může se jednat o specifický proprietární nástroj, překlep pro 'System' (například System Prompt) nebo

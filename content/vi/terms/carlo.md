@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /vi/terms/carlo/
 date: "2026-07-18T15:23:44.715968Z"
 lastmod: "2026-07-18T16:38:07.681263Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Đề cập đến các phương pháp Monte Carlo, một lớp các thuật toán tính toán dựa trên việc lấy mẫu ngẫu nhiên lặp lại để thu được kết quả số."
 ---
-
 ## Definition
 
 Các phương pháp Monte Carlo là các kỹ thuật thiết yếu trong AI và thống kê để xấp xỉ các vấn đề toán học phức tạp khó giải bằng phương pháp phân tích. Bằng cách tạo ra hàng nghìn hoặc hàng triệu mẫu ngẫu nhiên, chúng ước lượng các kết quả với độ chính xác cao.

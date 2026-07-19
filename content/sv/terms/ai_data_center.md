@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /sv/terms/ai_data_center/
 date: "2026-07-18T15:41:58.542212Z"
 lastmod: "2026-07-18T17:15:08.970535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En specialiserad anläggning utformad för att hysa och driva högpresterande beräkningsinfrastruktur för AI-arbetsbelastningar."
 ---
-
 ## Definition
 
 Ett AI-datacenter är en fysisk anläggning optimerad för att köra applikationer för artificiell intelligens, särskilt träning och inferens för djupinlärning. Dessa centra kännetecknas av högdensitetsserverrack, avancerad kylning och hög nätverksbandbredd.

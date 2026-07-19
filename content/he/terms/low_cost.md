@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /he/terms/low_cost/
 date: "2026-07-18T15:33:03.864461Z"
 lastmod: "2026-07-18T17:15:09.493387Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתאר פתרונות בינה מלאכותית הממזערים הוצאות חישוביות, כספיות או אנרגטיות תוך שמירה על פונקציונליות."
 ---
-
 ## Definition
 
 בינה מלאכותית בעלות נמוכה מתמקדת ביעילות, במטרה להפחית את מחסומי הכניסה וההוצאות התפעוליות הקשורות למיכון למידה. זה כולל טכניקות כמו דחיסת מודלים, כימות (Quantization) וניקוי ענפים (Pruning).

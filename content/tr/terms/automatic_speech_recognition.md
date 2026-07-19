@@ -1,23 +1,23 @@
 ---
-title: "Otomatik Konuşma Tanıma"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Otomatik Konuşma Tanıma
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /tr/terms/automatic_speech_recognition/
-date: "2026-07-18T15:42:54.856106Z"
-lastmod: "2026-07-18T16:38:07.276740Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:42:54.856106Z'
+lastmod: '2026-07-18T16:38:07.276740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Derin öğrenme modellerini kullanarak sözlü dili metne dönüştüren teknoloji."
+source: agnes_llm
+status: published
+language: tr
+description: Derin öğrenme modellerini kullanarak sözlü dili metne dönüştüren teknoloji.
 ---
-
 ## Definition
 
 Otomatik Konuşma Tanıma (ASR), konuşmadan metne olarak da bilinir, yapay zeka利用 ederek ses sinyallerini yazılı metne dönüştüren ses işlemenin bir alt alanıdır. Modern ASR sistemleri, yüksek doğruluk oranlarıyla çeşitli dillerde konuşmayı anlar ve transkribe eder.

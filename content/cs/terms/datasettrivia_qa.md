@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /cs/terms/datasettrivia_qa/
 date: "2026-07-18T15:52:24.451977Z"
 lastmod: "2026-07-18T17:15:09.119937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Velká škálovatelná datová sada pro otevřenou doménu odpovědí na otázky, obsahující miliony otázek a odpovědí z různých oblastí kvízových znalostí."
 ---
-
 ## Definition
 
 TriviaQA je datová sada navržená pro odpovědi na otázky v otevřené doméně, která obsahuje více než milion otázek a jejich příslušných odpovědí. Byla vytvořena tak, aby vyvolala výzvu pro stávající modely tím, že od nich vyžaduje integraci znalostí z různých zdrojů.

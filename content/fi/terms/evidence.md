@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /fi/terms/evidence/
 date: "2026-07-18T15:26:16.795352Z"
 lastmod: "2026-07-18T17:15:09.349554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Dataa tai tietoa, jota käytetään hypoteesin tukemiseen tai tekoälymallin suorituskyvyn validointiin."
 ---
-
 ## Definition
 
 Tekoälyssä todiste viittaa empiiriseen dataan, tilastollisiin tuloksiin tai havaittaviin lopputuloksiin, jotka perustelevat väitteitä mallin käyttäytymisestä, tarkkuudesta tai tehokkuudesta. Se toimii perustana väitteille.

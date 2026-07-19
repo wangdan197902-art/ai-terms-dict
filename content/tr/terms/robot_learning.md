@@ -1,23 +1,24 @@
 ---
-title: "Robot Öğrenimi"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Robot Öğrenimi
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /tr/terms/robot_learning/
-date: "2026-07-18T16:12:23.112687Z"
-lastmod: "2026-07-18T16:38:07.360616Z"
+slug: robot_learning
+date: '2026-07-18T16:12:23.112687Z'
+lastmod: '2026-07-18T16:38:07.360616Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Robotların deneyim ve çevreleriyle etkileşim yoluyla beceri kazanmalarını ve performanslarını geliştirmelerini sağlamaya odaklanan robotiğin bir alt dalı."
+source: agnes_llm
+status: published
+language: tr
+description: Robotların deneyim ve çevreleriyle etkileşim yoluyla beceri kazanmalarını
+  ve performanslarını geliştirmelerini sağlamaya odaklanan robotiğin bir alt dalı.
 ---
-
 ## Definition
 
 Robot öğrenimi, makine öğrenimi tekniklerinden yararlanarak robotik ajanların görevleri otonom olarak gerçekleştirmesini içerir. Önceden programlanmış davranışlardan farklı olarak, bu sistemler dinamik ortamlara adapte olur.

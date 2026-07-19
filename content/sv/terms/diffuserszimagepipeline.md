@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /sv/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:54:20.067334Z"
-lastmod: "2026-07-18T17:15:08.997227Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:54:20.067334Z'
+lastmod: '2026-07-18T17:15:08.997227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En specialiserad Hugging Face Diffusers-pipeline som vanligtvis är kopplad till zero-shot-lägen eller specifika arkitektoniska implementationer för bildgenrering, ofta länkad till Z-axelns modeller el"
+source: agnes_llm
+status: published
+language: sv
+description: En specialiserad Hugging Face Diffusers-pipeline som vanligtvis är kopplad
+  till zero-shot-lägen eller specifika arkitektoniska implementationer för bildgenrering,
+  ofta länkad till Z-axelns modeller el
 ---
-
 ## Definition
 
 I sammanhanget av Hugging Face Diffusers-ekosystemet avser denna term generellt en pipeline-konfiguration eller ett skal som är designat för specifika bildgenreringsuppgifter, potentiellt med utnyttjande av zero-shot-metoder.

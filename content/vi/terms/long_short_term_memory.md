@@ -1,23 +1,24 @@
 ---
-title: "Bộ nhớ dài hạn ngắn hạn (LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Bộ nhớ dài hạn ngắn hạn (LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /vi/terms/long_short_term_memory/
-date: "2026-07-18T15:36:07.062833Z"
-lastmod: "2026-07-18T16:38:07.710512Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:36:07.062833Z'
+lastmod: '2026-07-18T16:38:07.710512Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kiến trúc mạng nơ-ron hồi quy chuyên biệt được thiết kế để học các phụ thuộc dài hạn trong dữ liệu tuần tự."
+source: agnes_llm
+status: published
+language: vi
+description: Một kiến trúc mạng nơ-ron hồi quy chuyên biệt được thiết kế để học các
+  phụ thuộc dài hạn trong dữ liệu tuần tự.
 ---
-
 ## Definition
 
 Mạng LSTM giải quyết vấn đề tiêu biến gradient thường gặp ở các mạng nơ-ron hồi quy (RNN) tiêu chuẩn bằng cách sử dụng trạng thái tế bào (cell state) và ba cơ chế cổng: cổng đầu vào, cổng quên và cổng đầu ra. Các cổng này điều tiết dòng chảy thông tin, cho phép mạng ghi nhớ hoặc quên thông tin trong khoảng thời gian dài, rất hữu ích cho việc xử lý chuỗi dữ liệu phức tạp.

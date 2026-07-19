@@ -1,23 +1,24 @@
 ---
-title: "Sürekli Dağıtım"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Sürekli Dağıtım
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /tr/terms/continuous_deployment/
-date: "2026-07-18T15:46:20.122211Z"
-lastmod: "2026-07-18T16:38:07.286654Z"
+slug: continuous_deployment
+date: '2026-07-18T15:46:20.122211Z'
+lastmod: '2026-07-18T16:38:07.286654Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Otomatik testlerden geçen her kod değişikliğinin otomatik olarak canlı ortama (production) yayıldığı bir yazılım mühendisliği uygulaması."
+source: agnes_llm
+status: published
+language: tr
+description: Otomatik testlerden geçen her kod değişikliğinin otomatik olarak canlı
+  ortama (production) yayıldığı bir yazılım mühendisliği uygulaması.
 ---
-
 ## Definition
 
 Sürekli Dağıtım, sürekli teslimatın bir uzantısıdır ve tüm yayınlama sürecini otomatikleştirir. Kod değişiklikleri birim testleri, entegrasyon testleri ve güvenlik kontrolleri gibi tüm kalite kapılarını geçtiği anda, manuel onay gerektirmeden doğrudan canlı ortama otomatik olarak dağıtılır.

@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /de/terms/security/
 date: "2026-07-18T10:53:51.234610Z"
 lastmod: "2026-07-18T11:44:44.883493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Praxis des Schutzes von KI-Systemen vor unbefugtem Zugriff, Missbrauch und bösartigen Angriffen."
 ---
-
 ## Definition
 
 KI-Sicherheit umfasst Maßnahmen zum Schutz von Machine-Learning-Modellen, Datenpipelines und Bereitstellungsinfrastrukturen vor Bedrohungen wie adversariellen Angriffen, Data Poisoning und Model Inversion.

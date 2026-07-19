@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /sv/terms/mobilenet/
 date: "2026-07-18T16:10:11.659190Z"
 lastmod: "2026-07-18T17:15:09.027483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "MobileNet är en familj av lätta djupa neurala nätverk utformade för mobil- och inbäddade visionapplikationer."
 ---
-
 ## Definition
 
 MobileNets använder djupseparerbara convolutioner för att drastiskt minska beräkningskostnaderna och modellstorleken jämfört med standardconvolutioner. Denna arkitektur möjliggör effektiv funktionsextraktion på

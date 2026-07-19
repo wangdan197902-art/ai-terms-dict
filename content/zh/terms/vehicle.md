@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /zh/terms/vehicle/
 date: "2026-07-18T10:55:52.609808Z"
 lastmod: "2026-07-18T11:44:45.388413Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在 AI 语境中，载体通常指部署或向最终用户交付 AI 模型的平台或媒介。"
 ---
-
 ## Definition
 
 虽然传统上指交通工具，但在 AI 术语中，“载体”可以隐喻地描述智能服务的交付机制，例如移动应用、Web 界面或嵌入式系统。

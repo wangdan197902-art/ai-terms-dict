@@ -1,23 +1,23 @@
 ---
-title: "Thinking"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: Thinking
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /pt/terms/thinking/
-date: "2026-07-18T15:24:49.533401Z"
-lastmod: "2026-07-18T15:51:59.538966Z"
+slug: thinking
+date: '2026-07-18T15:24:49.533401Z'
+lastmod: '2026-07-18T15:51:59.538966Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Em IA, pensar refere-se aos processos cognitivos de raciocínio, resolução de problemas e tomada de decisão simulados por algoritmos."
+source: agnes_llm
+status: published
+language: pt
+description: Em IA, pensar refere-se aos processos cognitivos de raciocínio, resolução
+  de problemas e tomada de decisão simulados por algoritmos.
 ---
-
 ## Definition
 
 Enquanto os humanos pensam biologicamente, o 'pensamento' da IA envolve operações computacionais que imitam funções cognitivas. Isso abrange dedução lógica, reconhecimento de padrões e inferência. Os modernos grandes modelos de linguagem

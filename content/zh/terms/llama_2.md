@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Open Source"]
 difficulty: 2
 weight: 1
 slug: "llama_2"
-aliases:
-  - /zh/terms/llama_2/
 date: "2026-07-18T11:24:33.332299Z"
 lastmod: "2026-07-18T11:44:45.525988Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Llama 2 是 Meta 于 2023 年 7 月发布的一系列大型语言模型，与 predecessors 相比，其架构经过优化且上下文窗口更大。"
 ---
-
 ## Definition
 
 Llama 2 由 Meta AI 于 2023 年 7 月发布，代表了开源权重大型语言模型的显著进化。它提供了从 70 亿到 700 亿参数的预训练和微调变体，

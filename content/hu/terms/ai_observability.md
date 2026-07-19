@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /hu/terms/ai_observability/
 date: "2026-07-18T15:41:02.735651Z"
 lastmod: "2026-07-18T17:15:09.749437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a gyakorlat, amely során naplófájlok, metrikák és nyomkövetések segítségével figyeljük és megértjük a gépi tanulási rendszerek belső állapotát."
 ---
-
 ## Definition
 
 Az AI-observableitás kiterjeszti a hagyományos szoftvermonitorozást, hogy kezelje a gépi tanulási rendszerek egyedi kihívásait. Ez magában foglalja a modellteljesítmény, az adateltolódás és az inferencia késleltetésének valós idejű követését a termelési környezetben.

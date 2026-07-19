@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /id/terms/crewai/
 date: "2026-07-18T15:44:18.928652Z"
 lastmod: "2026-07-18T16:38:07.441376Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "CrewAI adalah kerangka kerja untuk mengoordinasikan agen AI otonom yang bermain peran agar dapat berkolaborasi dalam tugas-tugas kompleks."
 ---
-
 ## Definition
 
 CrewAI menyediakan lingkungan terstruktur untuk membangun sistem multi-agen di mana setiap agen memiliki peran, tujuan, dan seperangkat alat tertentu. Ini menyederhanakan pembuatan alur kerja dengan memungkinkan pengembang untuk mendefinisikan interaksi antar agen.

@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /ko/terms/discovery_system/
 date: "2026-07-18T15:53:36.782902Z"
 lastmod: "2026-07-18T16:38:06.833976Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "광범위한 탐색 공간 내에서 잠재적인 해결책, 패턴 또는 가설을 식별하고 탐색하며 평가하도록 설계된 자동화된 프레임워크 또는 알고리즘 프로세스입니다."
 ---
-
 ## Definition
 
 발견 시스템은 방대한 데이터 공간을 자동으로 탐색함으로써 과학적 또는 분석적 돌파구를 가속화하는 컴퓨팅 프레임워크입니다. 기존 최적화가 제한된 범위 내에서 해를 찾는 것과 달리, 발견 시스템은 새로운 가능성과 미지의 패턴을 적극적으로 찾아냅니다.

@@ -1,23 +1,24 @@
 ---
-title: "Neuraalinen laskenta"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Neuraalinen laskenta
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /fi/terms/neural_computation/
-date: "2026-07-18T16:12:40.086190Z"
-lastmod: "2026-07-18T17:15:09.438536Z"
+slug: neural_computation
+date: '2026-07-18T16:12:40.086190Z'
+lastmod: '2026-07-18T17:15:09.438536Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tietojenkäsittelyprosessi tekoälyhermoissa, jotka on inspiroitu biologisista neuroneista."
+source: agnes_llm
+status: published
+language: fi
+description: Tietojenkäsittelyprosessi tekoälyhermoissa, jotka on inspiroitu biologisista
+  neuroneista.
 ---
-
 ## Definition
 
 Neuraalinen laskenta viittaa matemaattisiin operaatioihin, joita tekoälyneuroni suorittaa muuttaakseen syöttösignaalit lähtöreaktioiksi. Se sisältää painotettuja summia, aktivointifunktioita ja takasulkemisen (backpropagation).

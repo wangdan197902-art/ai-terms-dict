@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /hu/terms/vehicle/
 date: "2026-07-18T15:33:52.822575Z"
 lastmod: "2026-07-18T17:15:09.733214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "AI kontextusban a 'vehicle' gyakran arra a platformra vagy médiumra utal, amelyen keresztül az AI-modelleket telepítik vagy juttatják el a végfelhasználókhoz."
 ---
-
 ## Definition
 
 Bár hagyományosan közlekedési eszközt jelent, az AI terminológiában a 'vehicle' metaforikusan leírhatja az intelligens szolgáltatások kiszállítási mechanizmusát, például mobilalkalmazásokat, webes felületeket vagy beágyazott rendszereket.

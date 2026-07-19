@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /ko/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T15:58:32.648513Z"
 lastmod: "2026-07-18T16:38:06.849421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인간성과 기술의 교차점을 탐구하는 책 제목으로, AI 윤리와 미래 업무 논의에서 자주 인용됩니다."
 ---
-
 ## Definition
 
 이 구절은 급속한 기술 발전 속에서 인간이 relevancy(중요성)와 존엄성을 유지하는 방법을 살펴보는 특정 문학 작품을 지칭합니다. AI 담론에서 이는 문화적 참조점으로 작용하며, 기술과 인간의 공존에 대한 철학적 성찰을 제공합니다.

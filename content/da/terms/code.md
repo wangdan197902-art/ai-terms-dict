@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /da/terms/code/
 date: "2026-07-18T15:33:51.592691Z"
 lastmod: "2026-07-18T17:15:09.242867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "I AI-sammenhæng refererer kode til strukturerede instruktioner skrevet i programmeringssprog, der definerer modellens adfærd og logik for databehandling."
 ---
-
 ## Definition
 
 Kode repræsenterer sættet af instruktioner skrevet i programmeringssprog som Python, C++ eller JavaScript, som computere udfører for at udføre specifikke opgaver. In kunstig intelligens er kode fundamental til at bygge, træne og implementere neurale netværk og andre AI-systemer.

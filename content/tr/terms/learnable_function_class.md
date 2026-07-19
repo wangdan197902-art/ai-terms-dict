@@ -1,23 +1,24 @@
 ---
-title: "Öğrenilebilir fonksiyon sınıfı"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Öğrenilebilir fonksiyon sınıfı
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /tr/terms/learnable_function_class/
-date: "2026-07-18T16:00:34.487162Z"
-lastmod: "2026-07-18T16:38:07.326815Z"
+slug: learnable_function_class
+date: '2026-07-18T16:00:34.487162Z'
+lastmod: '2026-07-18T16:38:07.326815Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli bir model mimarisi ve parametre uzayı tarafından tanımlanan ve bir öğrenme algoritmasının optimize edebildiği matematiksel fonksiyonlar kümesidir."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli bir model mimarisi ve parametre uzayı tarafından tanımlanan ve
+  bir öğrenme algoritmasının optimize edebildiği matematiksel fonksiyonlar kümesidir.
 ---
-
 ## Definition
 
 İstatistiksel öğrenme teorisinde, öğrenilebilir bir fonksiyon sınıfı algoritmanın erişebileceği hipotez uzayını temsil eder. Modelin potansiyel olarak yakalayabileceği desenlerin veya eşlemelerin kapsamını tanımlar.

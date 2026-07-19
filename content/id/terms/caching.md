@@ -1,23 +1,25 @@
 ---
-title: "Caching"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caching
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /id/terms/caching/
-date: "2026-07-18T15:41:31.890521Z"
-lastmod: "2026-07-18T16:38:07.435269Z"
+slug: caching
+date: '2026-07-18T15:41:31.890521Z'
+lastmod: '2026-07-18T16:38:07.435269Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Caching adalah teknik menyimpan data yang sering diakses dalam lapisan penyimpanan sementara berkecepatan tinggi untuk mengurangi latensi dan menurunkan beban pada sumber data utama."
+source: agnes_llm
+status: published
+language: id
+description: Caching adalah teknik menyimpan data yang sering diakses dalam lapisan
+  penyimpanan sementara berkecepatan tinggi untuk mengurangi latensi dan menurunkan
+  beban pada sumber data utama.
 ---
-
 ## Definition
 
 Dalam rekayasa AI, caching mengoptimalkan kinerja dengan menyimpan hasil kueri terbaru atau sering, prediksi model, atau komputasi perantara dalam memori cepat (seperti RAM). Hal ini mengurangi kebutuhan untuk melakukan perhitungan ulang atau akses ke penyimpanan lambat, sehingga meningkatkan kecepatan respons sistem secara signifikan.

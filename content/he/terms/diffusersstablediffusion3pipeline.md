@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: צינור Stable Diffusion 3"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: צינור Stable Diffusion 3'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /he/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:54:24.296025Z"
-lastmod: "2026-07-18T17:15:09.533957Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:54:24.296025Z'
+lastmod: '2026-07-18T17:15:09.533957Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "צינור המיישם את הארכיטקטורה של Stable Diffusion 3, הכולל MMDiT והתאמת זרימה (Flow Matching) לשיפור איכות התמונה והכתיב."
+source: agnes_llm
+status: published
+language: he
+description: צינור המיישם את הארכיטקטורה של Stable Diffusion 3, הכולל MMDiT והתאמת
+  זרימה (Flow Matching) לשיפור איכות התמונה והכתיב.
 ---
-
 ## Definition
 
 צינור זה מנצל את מודל Stable Diffusion 3, המציג ארכיטקטורה של מתמיר דיפוזיה רב-מודאלי (MMDiT) ומטרת אימון של התאמת זרימה (Flow Matching). התקדמויות אלו משפרות משמעותית את איכות התמונות ואת יכולת הכתיב.

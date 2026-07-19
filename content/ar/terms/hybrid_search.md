@@ -1,23 +1,24 @@
 ---
-title: "البحث الهجين"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: البحث الهجين
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /ar/terms/hybrid_search/
-date: "2026-07-18T16:01:33.859494Z"
-lastmod: "2026-07-18T17:15:08.513269Z"
+slug: hybrid_search
+date: '2026-07-18T16:01:33.859494Z'
+lastmod: '2026-07-18T17:15:08.513269Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "استراتيجية استرجاع تجمع بين البحث الدلالي باستخدام المتجهات والفهرسة التقليدية القائمة على الكلمات المفتاحية لتحسين الدقة والملاءمة."
+source: agnes_llm
+status: published
+language: ar
+description: استراتيجية استرجاع تجمع بين البحث الدلالي باستخدام المتجهات والفهرسة
+  التقليدية القائمة على الكلمات المفتاحية لتحسين الدقة والملاءمة.
 ---
-
 ## Definition
 
 يجمع البحث الهجين بين طريقتين مختلفتين للاسترجاع: البحث بالمتجهات الكثيفة، الذي يلتقط المعنى الدلالي والسياق، والبحث بالمتجهات المتناثرة (الكلمات المفتاحية)، الذي يطابق المصطلحات بدقة. من خلال الاستفادة من

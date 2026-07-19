@@ -1,23 +1,24 @@
 ---
-title: "Метод перекрёстной энтропии"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Метод перекрёстной энтропии
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /ru/terms/cross_entropy_method/
-date: "2026-07-18T15:47:01.149777Z"
-lastmod: "2026-07-18T16:38:07.135791Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:47:01.149777Z'
+lastmod: '2026-07-18T16:38:07.135791Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Случайный метод оптимизации, использующий Монте-Карло симуляцию для итеративного улучшения оценок вероятности редких событий."
+source: agnes_llm
+status: published
+language: ru
+description: Случайный метод оптимизации, использующий Монте-Карло симуляцию для итеративного
+  улучшения оценок вероятности редких событий.
 ---
-
 ## Definition
 
 Метод перекрёстной энтропии (CEM) — это мощный алгоритм оптимизации общего назначения, используемый как для дискретных, так и для непрерывных задач. Он работает путём поддержания распределения вероятностей над пространством поиска и его последовательного уточнения на основе лучших найденных решений.

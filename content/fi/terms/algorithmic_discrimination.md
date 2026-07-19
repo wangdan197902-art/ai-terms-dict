@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /fi/terms/algorithmic_discrimination/
 date: "2026-07-18T15:41:51.338287Z"
 lastmod: "2026-07-18T17:15:09.381749Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Algoritmiseen syrjintään liittyy tilanne, jossa automaattiset järjestelmät tuottavat epäreiluja tai harhaanjohtavia tuloksia, jotka asettavat tietyt ryhmät heikompaan asemaan suojeltujen ominaisuuksie"
 ---
-
 ## Definition
 
 Tämä ilmiö syntyy, kun tekoälymallit käsittelevät ihmisiä tahattomasti tai systemaattisesti eri tavoin rodun, sukupuolen, iän tai muiden herkkien attribuuttien vuoksi. Se johtuu usein harhoja sisältävistä koulutusdatasta tai puutteellisista mallirajoituksista.

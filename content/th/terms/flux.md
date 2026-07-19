@@ -1,23 +1,24 @@
 ---
-title: "ฟลักซ์ (การไหลเวียน)"
-term_id: "flux"
-category: "basic_concepts"
-subcategory: ""
-tags: ["concepts", "data_flow", "systems"]
+title: ฟลักซ์ (การไหลเวียน)
+term_id: flux
+category: basic_concepts
+subcategory: ''
+tags:
+- concepts
+- Data Flow
+- systems
 difficulty: 2
 weight: 1
-slug: "flux"
-aliases:
-  - /th/terms/flux/
-date: "2026-07-18T15:35:35.979524Z"
-lastmod: "2026-07-18T16:38:07.560990Z"
+slug: flux
+date: '2026-07-18T15:35:35.979524Z'
+lastmod: '2026-07-18T16:38:07.560990Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ฟลักซ์หมายถึงการไหลหรือการเปลี่ยนแปลงอย่างต่อเนื่องของข้อมูล พลังงาน หรือสารสนเทศภายในระบบหรือเครือข่าย"
+source: agnes_llm
+status: published
+language: th
+description: ฟลักซ์หมายถึงการไหลหรือการเปลี่ยนแปลงอย่างต่อเนื่องของข้อมูล พลังงาน
+  หรือสารสนเทศภายในระบบหรือเครือข่าย
 ---
-
 ## Definition
 
 ในบริบทของการคำนวณ ฟลักซ์อธิบายอัตราการถ่ายโอนปริมาณหนึ่งผ่านพื้นที่ที่กำหนดในช่วงเวลาหนึ่ง ในด้านเอไอและวิศวกรรมข้อมูล มักเกี่ยวข้องกับสตรีมมิ่งของข้อมูล ซึ่งข้อมูลเคลื่อนที่อย่างต่อเนื่องและเรียลไทม์จากระบบต้นทางไปยังระบบปลายทางสำหรับการประมวลผลทันที

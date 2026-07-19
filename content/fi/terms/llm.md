@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /fi/terms/llm/
 date: "2026-07-18T15:28:24.017485Z"
 lastmod: "2026-07-18T17:15:09.353325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Syväoppimismalli, joka on koulutettu valtavien tekstikokoelmien avulla ymmärtämään ja tuottamaan ihmisen kieltä muistuttavaa sisältöä."
 ---
-
 ## Definition
 
 Suuret kielimallit (LLM) ovat kehittyneitä tekoälyjärjestelmiä, jotka perustuvat transformer-arkkitehtuureihin ja on koulutettu valtaisilla teksti- ja koodidatajoukoilla. Ne oppivat kielen tilastollisia kuvioita

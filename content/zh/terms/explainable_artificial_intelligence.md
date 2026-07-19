@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /zh/terms/explainable_artificial_intelligence/
 date: "2026-07-18T11:16:49.880484Z"
 lastmod: "2026-07-18T11:44:45.497164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "可解释人工智能（XAI）是指应用人工智能技术的方法和技巧，使得解决方案的结果能够被人类专家理解。"
 ---
-
 ## Definition
 
 随着机器学习模型变得越来越复杂，特别是深度神经网络，其决策过程往往变得不透明的“黑盒”。XAI旨在使这些决策具有可解释性。

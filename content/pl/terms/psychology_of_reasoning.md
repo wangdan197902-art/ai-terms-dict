@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /pl/terms/psychology_of_reasoning/
 date: "2026-07-18T16:13:08.576795Z"
 lastmod: "2026-07-18T17:15:08.909888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Międzydiscyplinarna nauka o tym, jak ludzie formują sądy, podejmują decyzje i rozwiązują problemy, informująca o architekturach poznawczych AI."
 ---
-
 ## Definition
 
 Dziedzina ta bada procesy mentalne leżące u podstaw ludzkiego wnioskowania dedukcyjnego, indukcyjnego i abdukcyjnego. Eksploruje ona błędy poznawcze, heurystyki i struktury logiczne kierujące ludzkim myśleniem. W AI, spojrzenia z tej dziedziny

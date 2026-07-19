@@ -1,23 +1,25 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /tr/terms/pythia/
-date: "2026-07-18T16:10:35.475495Z"
-lastmod: "2026-07-18T16:38:07.355015Z"
+slug: pythia
+date: '2026-07-18T16:10:35.475495Z'
+lastmod: '2026-07-18T16:38:07.355015Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Pythia, 70 milyon ile 12 milyar parametre arasında değişen, EleutherAI tarafından geliştirilmiş sadece kodlayıcı (decoder-only) büyük dil modellerinden oluşan bir pakettir."
+source: agnes_llm
+status: published
+language: tr
+description: Pythia, 70 milyon ile 12 milyar parametre arasında değişen, EleutherAI
+  tarafından geliştirilmiş sadece kodlayıcı (decoder-only) büyük dil modellerinden
+  oluşan bir pakettir.
 ---
-
 ## Definition
 
 Pythia, EleutherAI tarafından oluşturulan, sinir ağlarının yorumlanabilirliği ve davranışları üzerine araştırmaları kolaylaştırmak üzere tasarlanmış açık kaynaklı büyük dil modelleri (LLM) serisidir. Paket, ölçekleme davranışlarını anlamaya yönelik çeşitli boyutlarda modeller içerir.

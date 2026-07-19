@@ -1,23 +1,23 @@
 ---
-title: "마스크 생성"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: 마스크 생성
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /ko/terms/mask_generation/
-date: "2026-07-18T16:04:15.935636Z"
-lastmod: "2026-07-18T16:38:06.883121Z"
+slug: mask_generation
+date: '2026-07-18T16:04:15.935636Z'
+lastmod: '2026-07-18T16:38:06.883121Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델 처리 과정에서 입력 데이터의 일부를 선택적으로 숨기거나 강조하기 위해 이진 또는 확률적 마스크를 생성하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델 처리 과정에서 입력 데이터의 일부를 선택적으로 숨기거나 강조하기 위해 이진 또는 확률적 마스크를 생성하는 과정입니다.
 ---
-
 ## Definition
 
 마스크 생성은 특정 작업 중 데이터 세트의 어떤 요소가 표시되거나 활성화될지를 결정하는 공간적 또는 시간적 마스크를 생성하는 것을 포함합니다. 컴퓨터 비전에서는 객체 분할 및...

@@ -1,23 +1,25 @@
 ---
-title: "Контекстуальный подход"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Контекстуальный подход
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /ru/terms/situated_approach/
-date: "2026-07-18T16:15:04.054143Z"
-lastmod: "2026-07-18T16:38:07.202247Z"
+slug: situated_approach
+date: '2026-07-18T16:15:04.054143Z'
+lastmod: '2026-07-18T16:38:07.202247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма проектирования в ИИ, которая отдает приоритет поведению, зависящему от контекста, и взаимодействию со средой, над абстрактным рассуждением."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма проектирования в ИИ, которая отдает приоритет поведению, зависящему
+  от контекста, и взаимодействию со средой, над абстрактным рассуждением.
 ---
-
 ## Definition
 
 Контекстуальный подход — это методологическая рамка в исследованиях ИИ, которая утверждает, что интеллектуальное поведение не может быть отделено от среды, в которой оно происходит. Он выступает за создание систем, которые адаптируются к изменяющимся условиям окружающей среды.

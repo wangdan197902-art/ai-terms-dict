@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /id/terms/statistical_learning_theory/
 date: "2026-07-18T16:10:01.809245Z"
 lastmod: "2026-07-18T16:38:07.510676Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah kerangka kerja matematika yang memberikan landasan teoretis bagi algoritma pembelajaran mesin dengan menganalisis kemampuan generalisasinya."
 ---
-
 ## Definition
 
 Teori pembelajaran statistik (SLT) adalah cabang statistika dan ilmu komputer yang mempelajari bagaimana algoritma tertentu dapat melakukan generalisasi dari sampel pelatihan terbatas ke data yang belum pernah dilihat sebelumnya. Teori ini berfokus pada pembatasan (bounding)

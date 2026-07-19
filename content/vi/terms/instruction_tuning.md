@@ -1,23 +1,24 @@
 ---
-title: "Điều chỉnh theo Chỉ dẫn"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Điều chỉnh theo Chỉ dẫn
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /vi/terms/instruction_tuning/
-date: "2026-07-18T15:26:22.522690Z"
-lastmod: "2026-07-18T16:38:07.687985Z"
+slug: instruction_tuning
+date: '2026-07-18T15:26:22.522690Z'
+lastmod: '2026-07-18T16:38:07.687985Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Điều chỉnh theo chỉ dẫn là một kỹ thuật tinh chỉnh, trong đó mô hình ngôn ngữ đã được huấn luyện trước được huấn luyện trên một tập dữ liệu gồm các chỉ dẫn và phản hồi tương ứng để cải thiện khả năng "
+source: agnes_llm
+status: published
+language: vi
+description: 'Điều chỉnh theo chỉ dẫn là một kỹ thuật tinh chỉnh, trong đó mô hình
+  ngôn ngữ đã được huấn luyện trước được huấn luyện trên một tập dữ liệu gồm các chỉ
+  dẫn và phản hồi tương ứng để cải thiện khả năng '
 ---
-
 ## Definition
 
 Quy trình này cầu nối khoảng cách giữa việc huấn luyện tổng quát và hiệu suất nhiệm vụ cụ thể. Bằng cách tiếp xúc với các cặp chỉ dẫn-phản hồi đa dạng, mô hình học cách khái quát hóa sang các nhiệm vụ chưa từng thấy mà không cần thêm

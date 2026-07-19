@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /fr/terms/data_minimization/
 date: "2026-07-18T11:43:33.674782Z"
 lastmod: "2026-07-18T11:44:45.360541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le principe consistant à collecter et traiter uniquement les données personnelles strictement nécessaires à un objectif spécifique."
 ---
-
 ## Definition
 
 La minimisation des données est un principe fondamental de confidentialité exigeant que les organisations limitent la collecte de données à ce qui est adéquat, pertinent et limité au nécessaire. En IA, cela signifie concevoir des modèles qui

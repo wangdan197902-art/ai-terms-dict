@@ -1,23 +1,24 @@
 ---
-title: "Zautomatyzowany matematyk"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Zautomatyzowany matematyk
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /pl/terms/automated_mathematician/
-date: "2026-07-18T15:42:04.803533Z"
-lastmod: "2026-07-18T17:15:08.848083Z"
+slug: automated_mathematician
+date: '2026-07-18T15:42:04.803533Z'
+lastmod: '2026-07-18T17:15:08.848083Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "System SI zaprojektowany do odkrywania nowych twierdzeń, hipotez lub dowodów matematycznych poprzez wyszukiwanie obliczeniowe i rozumowanie."
+source: agnes_llm
+status: published
+language: pl
+description: System SI zaprojektowany do odkrywania nowych twierdzeń, hipotez lub
+  dowodów matematycznych poprzez wyszukiwanie obliczeniowe i rozumowanie.
 ---
-
 ## Definition
 
 Zautomatyzowany matematyk wykorzystuje uczenie maszynowe i rozumowanie symboliczne do eksploracji przestrzeni matematycznych wykraczających poza intuicję ludzką. Systemy te mogą generować hipotezy, weryfikować dowody i находить wzorce.

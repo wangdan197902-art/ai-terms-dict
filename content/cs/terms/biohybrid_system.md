@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /cs/terms/biohybrid_system/
 date: "2026-07-18T15:45:26.664517Z"
 lastmod: "2026-07-18T17:15:09.107574Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Integrovaný systém kombinující biologické komponenty s umělými zařízeními za účelem zlepšení funkčnosti nebo vytvoření nových schopností."
 ---
-
 ## Definition
 
 Biohybridní systémy spojují živé tkáně, buňky nebo organismy se syntetickými materiály a elektronickými zařízeními. Cílem těchto systémů je využít jedinečné vlastnosti biologických entit, jako je samooprava, energetická účinnost nebo adaptabilita, a integrovat je do technických aplikací.

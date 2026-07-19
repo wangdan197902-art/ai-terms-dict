@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /hu/terms/governance/
 date: "2026-07-18T16:02:00.188730Z"
 lastmod: "2026-07-18T17:15:09.789707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A szabályzatok, standardok és felügyeleti mechanizmusok keretrendszere, amelyet annak biztosítására hoznak létre, hogy az MI-rendszerek felelősségteljesen és etikusan kerüljenek kifejlesztésre és üzem"
 ---
-
 ## Definition
 
 Az MI-kormányzás (AI Governance) azon szabályok, irányelvek és intézményi szerkezetek összességét jelenti, amelyek szabályozzák a mesterséges intelligencia létrehozását, használatát és auditálását. Magában foglalja a jogi megfelelőséget, az etikai szempontokat és a kockázatkezelést.

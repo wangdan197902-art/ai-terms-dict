@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /el/terms/ai_security_institute/
 date: "2026-07-18T15:46:09.346899Z"
 lastmod: "2026-07-18T17:15:09.873293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένας οργανισμός αφιερωμένος στην έρευνα, ανάπτυξη και προώθηση των βέλτιστων πρακτικών για την ασφάλεια συστημάτων τεχνητής νοημοσύνης."
 ---
-
 ## Definition
 
 Ένα Ινστιτούτο Ασφάλειας ΤΝ είναι μια εξειδικευμένη οντότητα εστιασμένη στην mitigating κινδύνους που σχετίζονται με τις τεχνολογίες τεχνητής νοημοσύνης. Αυτά τα ινστιτούτα conducting έρευνα για επιθέσεις αντιπάλων, ιδιωτικότητα δεδομένων

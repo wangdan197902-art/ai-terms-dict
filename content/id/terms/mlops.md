@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /id/terms/mlops/
 date: "2026-07-18T15:59:07.741007Z"
 lastmod: "2026-07-18T16:38:07.480258Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "MLOps (Machine Learning Operations) adalah seperangkat praktik yang menggabungkan pembelajaran mesin, DevOps, dan rekayasa data untuk mengotomatisasi dan merampingkan siklus hidup model ML."
 ---
-
 ## Definition
 
 MLOps memungkinkan organisasi untuk menerapkan dan memelihara model pembelajaran mesin di lingkungan produksi secara andal dan efisien. Hal ini mencakup kontrol versi untuk data dan model, pengujian otomatis, integrasi berkelanjutan,

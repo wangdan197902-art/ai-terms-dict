@@ -1,23 +1,24 @@
 ---
-title: "Učení založené na instancích"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Učení založené na instancích
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /cs/terms/instance_based_learning/
-date: "2026-07-18T16:02:57.271061Z"
-lastmod: "2026-07-18T17:15:09.142765Z"
+slug: instance_based_learning
+date: '2026-07-18T16:02:57.271061Z'
+lastmod: '2026-07-18T17:15:09.142765Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Líný přístup k učení, kde jsou predikce prováděny porovnáváním nových vstupů s uloženými tréninkovými instancemi."
+source: agnes_llm
+status: published
+language: cs
+description: Líný přístup k učení, kde jsou predikce prováděny porovnáváním nových
+  vstupů s uloženými tréninkovými instancemi.
 ---
-
 ## Definition
 
 Také známé jako učení založené na paměti, tato technika během tréninku nestaví zobecněný model. Místo toho ukládá celou tréninkovou sadu dat. Když je potřeba provést predikci, najde ty nejb

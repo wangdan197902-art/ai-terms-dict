@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /hu/terms/double_descent/
 date: "2026-07-18T15:57:38.683947Z"
 lastmod: "2026-07-18T17:15:09.778204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy jelenség, ahol a tesztelési hiba először csökken, majd növekszik, végül újra csökken, ahogy a modell komplexitása meghaladja az interpolációs küszöböt."
 ---
-
 ## Definition
 
 A kettős lejtés kihívást jelent a hagyományos torzítás-variancia kompromisszummal szemben, megmutatva, hogy a túlméretezett modellek alacsony tesztelési hibát érhetnek el annak ellenére, hogy interpolálják a tanítóadatot. Kezdetben a hiba nő...

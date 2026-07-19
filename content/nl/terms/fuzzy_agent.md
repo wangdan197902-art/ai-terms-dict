@@ -1,23 +1,24 @@
 ---
-title: "Fuzzy agent"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Fuzzy agent
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /nl/terms/fuzzy_agent/
-date: "2026-07-18T15:56:02.317911Z"
-lastmod: "2026-07-18T17:15:08.746296Z"
+slug: fuzzy_agent
+date: '2026-07-18T15:56:02.317911Z'
+lastmod: '2026-07-18T17:15:08.746296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een autonome entiteit die vage logica gebruikt om om te gaan met onzekerheid en onnauwkeurige informatie in besluitvormingsprocessen."
+source: agnes_llm
+status: published
+language: nl
+description: Een autonome entiteit die vage logica gebruikt om om te gaan met onzekerheid
+  en onnauwkeurige informatie in besluitvormingsprocessen.
 ---
-
 ## Definition
 
 Een fuzzy agent opereert binnen omgevingen waar gegevens vaak ambigu of onvolledig zijn, waarbij hij vage logicasystemen inzet in plaats van binaire waar/onwaar-statussen. Door lidmaatschapsfuncties en linguïstische variabelen te gebruiken, kan deze agent flexibele beslissingen nemen onder onzekere omstandigheden.

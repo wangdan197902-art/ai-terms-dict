@@ -1,23 +1,25 @@
 ---
-title: "Sam3"
-term_id: "sam3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "model_versions", "unclear_reference"]
+title: Sam3
+term_id: sam3
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Model Versions
+- Unclear Reference
 difficulty: 3
 weight: 1
-slug: "sam3"
-aliases:
-  - /sv/terms/sam3/
-date: "2026-07-18T16:19:41.479627Z"
-lastmod: "2026-07-18T17:15:09.045324Z"
+slug: sam3
+date: '2026-07-18T16:19:41.479627Z'
+lastmod: '2026-07-18T17:15:09.045324Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Sam3 syftar sannolikt på en specifik version eller variant av en segmenteringsmodell eller AI-verktyg, potentiellt relaterad till iterationer av Segment Anything Model eller ett proprietärt internt ve"
+source: agnes_llm
+status: published
+language: sv
+description: Sam3 syftar sannolikt på en specifik version eller variant av en segmenteringsmodell
+  eller AI-verktyg, potentiellt relaterad till iterationer av Segment Anything Model
+  eller ett proprietärt internt ve
 ---
-
 ## Definition
 
 Sam3 är inte en allmänt erkänd offentlig AI-term som SAM (Segment Anything Model). Det kan syfta på en tredjepartsiteration, ett stavfel för SAM 2, eller ett specifikt internt verktyg inom ett företags AI...

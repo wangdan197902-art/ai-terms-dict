@@ -1,23 +1,25 @@
 ---
-title: "Class Activation Mapping"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Class Activation Mapping
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /nl/terms/class_activation_mapping/
-date: "2026-07-18T15:46:18.694572Z"
-lastmod: "2026-07-18T17:15:08.725289Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:46:18.694572Z'
+lastmod: '2026-07-18T17:15:08.725289Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Class Activation Mapping (CAM) is een visualisatietechniek die de regio's in een invoerbeeld markeert die het meest verantwoordelijk zijn voor een specifieke voorspelde klasse."
+source: agnes_llm
+status: published
+language: nl
+description: Class Activation Mapping (CAM) is een visualisatietechniek die de regio's
+  in een invoerbeeld markeert die het meest verantwoordelijk zijn voor een specifieke
+  voorspelde klasse.
 ---
-
 ## Definition
 
 CAM genereert hittemappen die over invoerbeelden worden gelegd om aan te geven welke pixels het meest hebben bijgedragen aan de beslissing van het model voor een bepaald klaslabel. Het werkt door globale gemiddelde pooling toe te passen op de laatste con

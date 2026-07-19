@@ -1,23 +1,24 @@
 ---
-title: "Sprach-/Handlungsperspektive"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Sprach-/Handlungsperspektive
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /de/terms/languageaction_perspective/
-date: "2026-07-18T11:21:06.047159Z"
-lastmod: "2026-07-18T11:44:44.957092Z"
+slug: languageaction_perspective
+date: '2026-07-18T11:21:06.047159Z'
+lastmod: '2026-07-18T11:44:44.957092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein theoretischer Rahmen, der Sprache primär als Form sozialen Handelns und nicht nur als System zur Beschreibung der Realität betrachtet."
+source: agnes_llm
+status: published
+language: de
+description: Ein theoretischer Rahmen, der Sprache primär als Form sozialen Handelns
+  und nicht nur als System zur Beschreibung der Realität betrachtet.
 ---
-
 ## Definition
 
 Verankert in der Sprechakttheorie und Pragmatik, betont diese Perspektive, wie Äußerungen Funktionen wie Anfordern, Versprechen oder Befehlen erfüllen. Im Natural Language Processing (NLP) informiert sie die Entwicklung von Systemen, die Absichten verstehen.

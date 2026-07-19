@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /sv/terms/cognitive_philology/
 date: "2026-07-18T15:49:08.531801Z"
 lastmod: "2026-07-18T17:15:08.984894Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Kognitiv filologi tillämpar datormetoder och principer från kognitiv vetenskap på studiet av språk, litteratur och textuell historia."
 ---
-
 ## Definition
 
 Kognitiv filologi är ett tvärvetenskapligt fält som kombinerar digitala humaniora, lingvistik och kognitiv vetenskap för att analysera texter och språkutveckling. Den använder dataverktyg för att bearbe

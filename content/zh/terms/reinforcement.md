@@ -1,23 +1,22 @@
 ---
-title: "Reinforcement（强化）"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Reinforcement（强化）
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /zh/terms/reinforcement/
-date: "2026-07-18T10:54:14.658333Z"
-lastmod: "2026-07-18T11:44:45.382821Z"
+slug: reinforcement
+date: '2026-07-18T10:54:14.658333Z'
+lastmod: '2026-07-18T11:44:45.382821Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "强化是指通过奖励或惩罚来修改行为，以优化决策的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 强化是指通过奖励或惩罚来修改行为，以优化决策的过程。
 ---
-
 ## Definition
 
 强化是一种基本的心理和计算机制，智能体的行为由后果塑造。在机器学习中，它涉及为正确的行为提供正向反馈（奖励），从而引导智能体学习最佳策略。

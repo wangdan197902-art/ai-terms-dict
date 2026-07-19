@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /ja/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T11:06:11.847310Z"
 lastmod: "2026-07-18T11:44:45.072895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルのパラメータを固定値ではなく、確率分布を持つ確率変数として扱う学習パラダイム。"
 ---
-
 ## Definition
 
 ベイズ学習メカニズムは、ベイズの定理を使用してモデルパラメータに関する信念を更新し、事前知識と観測されたデータを組み合わせて事後分布を形成します。頻度論的アプローチとは異なり、不確実性を明示的に扱います。

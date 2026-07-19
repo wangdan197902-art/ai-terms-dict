@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /fr/terms/sentence_similarity/
 date: "2026-07-18T11:37:18.955851Z"
 lastmod: "2026-07-18T11:44:45.326389Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une métrique ou une tâche qui quantifie la ressemblance sémantique entre deux phrases, souvent représentée par un score numérique."
 ---
-
 ## Definition
 
 La similarité de phrases mesure le degré de chevauchement sémantique entre deux phrases distinctes. Elle va au-delà de la correspondance lexicale pour comprendre le sens, le contexte et l'intention. Cela est généralement réalisé en calculant la distance entre leurs représentations vectorielles.

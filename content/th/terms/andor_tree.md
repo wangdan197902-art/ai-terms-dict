@@ -1,23 +1,23 @@
 ---
-title: "ต้นไม้แอนด-ออร์"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: ต้นไม้แอนด-ออร์
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /th/terms/andor_tree/
-date: "2026-07-18T15:40:13.060206Z"
-lastmod: "2026-07-18T16:38:07.572807Z"
+slug: andor_tree
+date: '2026-07-18T15:40:13.060206Z'
+lastmod: '2026-07-18T16:38:07.572807Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โครงสร้างกราฟแบบลำดับชั้นที่ใช้ในอัลกอริทึมการค้นหา โดยโหนดแทนสถานะ และเส้นเชื่อมแทนการกระทำที่นำไปสู่เป้าหมายย่อย"
+source: agnes_llm
+status: published
+language: th
+description: โครงสร้างกราฟแบบลำดับชั้นที่ใช้ในอัลกอริทึมการค้นหา โดยโหนดแทนสถานะ และเส้นเชื่อมแทนการกระทำที่นำไปสู่เป้าหมายย่อย
 ---
-
 ## Definition
 
 ต้นไม้แอนด-ออร์เป็นรูปแบบการแสดงข้อมูลที่ใช้ในการแก้ปัญหาและการวางแผน โดยเฉพาะในอัลกอริทึมการค้นหาของปัญญาประดิษฐ์ โหนดประเภท 'ออร์' (Or) แทนทางเลือกระหว่างการกระทำต่างๆ ในขณะที่โหนดประเภท 'แอนด' (And) บ่งชี้ว่าจำเป็นต้องดำเนินการหลายอย่างพร้อมกันเพื่อให้บรรลุเป้าหมาย

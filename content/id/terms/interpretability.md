@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /id/terms/interpretability/
 date: "2026-07-18T15:34:41.556547Z"
 lastmod: "2026-07-18T16:38:07.414818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Tingkat di mana seorang manusia dapat memahami penyebab keputusan yang dibuat oleh model AI."
 ---
-
 ## Definition
 
 Interpretabilitas, atau keterjelasan, melibatkan pembuatan transparansi terhadap mekanisme internal dan proses pengambilan keputusan model AI agar mudah dipahami manusia. Hal ini sangat penting untuk debug, memastikan keadilan, dan membangun kepercayaan.

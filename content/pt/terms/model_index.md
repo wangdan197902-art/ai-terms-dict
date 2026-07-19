@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /pt/terms/model_index/
 date: "2026-07-18T15:13:27.796599Z"
 lastmod: "2026-07-18T15:51:59.513931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um Índice de Modelo é um arquivo de metadados usado pelo Hugging Face Hub para descrever e organizar componentes e configurações do modelo."
 ---
-
 ## Definition
 
 O arquivo de índice, geralmente chamado 'model_index.json', contém informações estruturadas sobre a arquitetura do modelo, incluindo tipo de pipeline, sub-modelos e caminhos de configuração. Isso permite que o Hub coorden

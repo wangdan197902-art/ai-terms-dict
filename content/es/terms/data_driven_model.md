@@ -1,23 +1,24 @@
 ---
-title: "Modelo impulsado por datos"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Modelo impulsado por datos
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /es/terms/data_driven_model/
-date: "2026-07-18T10:41:50.975204Z"
-lastmod: "2026-07-18T11:44:44.792382Z"
+slug: data_driven_model
+date: '2026-07-18T10:41:50.975204Z'
+lastmod: '2026-07-18T11:44:44.792382Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un modelo computacional cuyos parámetros y estructura se aprenden directamente de datos empíricos en lugar de programación explícita."
+source: agnes_llm
+status: published
+language: es
+description: Un modelo computacional cuyos parámetros y estructura se aprenden directamente
+  de datos empíricos en lugar de programación explícita.
 ---
-
 ## Definition
 
 Un modelo impulsado por datos es un tipo de sistema de inteligencia artificial donde el comportamiento y las predicciones emergen de patrones identificados dentro de datos históricos, en lugar de estar definidos por reglas codificadas explícitamente o conocimientos previos teóricos. Estos modelos dependen de la cantidad y calidad de los datos disponibles para aprender.

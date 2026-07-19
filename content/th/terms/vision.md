@@ -1,23 +1,23 @@
 ---
-title: "วิสัยทัศน์คอมพิวเตอร์"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: วิสัยทัศน์คอมพิวเตอร์
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /th/terms/vision/
-date: "2026-07-18T15:38:10.059123Z"
-lastmod: "2026-07-18T16:38:07.566765Z"
+slug: vision
+date: '2026-07-18T15:38:10.059123Z'
+lastmod: '2026-07-18T16:38:07.566765Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิสัยทัศน์คอมพิวเตอร์เป็นสาขาของ AI ที่มุ่งเน้นให้คอมพิวเตอร์สามารถตีความและเข้าใจข้อมูลภาพจากโลกจริง"
+source: agnes_llm
+status: published
+language: th
+description: วิสัยทัศน์คอมพิวเตอร์เป็นสาขาของ AI ที่มุ่งเน้นให้คอมพิวเตอร์สามารถตีความและเข้าใจข้อมูลภาพจากโลกจริง
 ---
-
 ## Definition
 
 วิสัยทัศน์คอมพิวเตอร์ (Computer Vision) เป็นสาขาย่อยของปัญญาประดิษฐ์ที่ฝึกฝนคอมพิวเตอร์ให้ดึงข้อมูลที่มีความหมายจากภาพดิจิทัล วิดีโอ และอินพุตภาพอื่นๆ เกี่ยวข้องกับการพัฒนาอัลกอริทึม

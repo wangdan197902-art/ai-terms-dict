@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /tr/terms/knowledge_graph_embedding/
 date: "2026-07-18T15:59:38.698855Z"
 lastmod: "2026-07-18T16:38:07.324426Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Varlıkları ve ilişkileri, yapısal anlamı koruyarak sürekli vektör uzaylarına eşleyen bir tekniktir."
 ---
-
 ## Definition
 
 TransE veya DistMult gibi bilgi grafiği gömme yöntemleri, ayrık grafik yapılarını düşük boyutlu yoğun vektörlere dönüştürür. Bu sayede makine öğrenmesi modelleri matematiksel operasyonları gerçekleştirebilir.

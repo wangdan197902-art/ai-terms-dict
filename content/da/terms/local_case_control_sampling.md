@@ -1,23 +1,24 @@
 ---
-title: "Lokal case-control-stikprøveudtagning"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lokal case-control-stikprøveudtagning
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /da/terms/local_case_control_sampling/
-date: "2026-07-18T16:05:37.288014Z"
-lastmod: "2026-07-18T17:15:09.306998Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:05:37.288014Z'
+lastmod: '2026-07-18T17:15:09.306998Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En negativ stikprøveudtagningsteknik, der vælger svære negative eksempler fra det umiddelbare nærhed af positive eksempler i indlejringsrummet."
+source: agnes_llm
+status: published
+language: da
+description: En negativ stikprøveudtagningsteknik, der vælger svære negative eksempler
+  fra det umiddelbare nærhed af positive eksempler i indlejringsrummet.
 ---
-
 ## Definition
 
 Lokal case-control-stikprøveudtagning er en strategi, der primært bruges til træning af kontrastive læringsmodeller eller anbefalingssystemer. I stedet for tilfældigt at vælge negative stikprøver identificerer den 'svære negative' eksempler, som er tæt på de positive eksempler i vektorrummet, hvilket hjælper modellen med at lære finere diskriminative træk.

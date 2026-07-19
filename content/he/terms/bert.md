@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /he/terms/bert/
 date: "2026-07-18T15:46:41.894130Z"
 lastmod: "2026-07-18T17:15:09.517365Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל לעיבוד שפה טבעית מאומן מראש, המבוסס על ייצוגים דו-כיווניים של מקודדים מתוך מתמרים."
 ---
-
 ## Definition
 
 BERT (Bidirectional Encoder Representations from Transformers) הוא טכניקת למידת מכונה מבוססת מתמרים לאימון מראש בעיבוד שפה טבעית (NLP), שפותחה על ידי גוגל. המודל משתמש במודלינג של שפה מסווה ובחיזוי המשפט הבא כדי ללמוד ייצוגים דו-כיווניים של טקסט.

@@ -1,23 +1,26 @@
 ---
-title: "Набор данных: Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: 'Набор данных: Ms Marco'
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /ru/terms/datasetms_marco/
-date: "2026-07-18T15:48:24.221559Z"
-lastmod: "2026-07-18T16:38:07.141175Z"
+slug: datasetms_marco
+date: '2026-07-18T15:48:24.221559Z'
+lastmod: '2026-07-18T16:38:07.141175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Набор данных Microsoft по машинному чтению и пониманию текста — крупномасштабная коллекция реальных поисковых запросов и соответствующих фрагментов документов, используемая для обучения систем информа"
+source: agnes_llm
+status: published
+language: ru
+description: Набор данных Microsoft по машинному чтению и пониманию текста — крупномасштабная
+  коллекция реальных поисковых запросов и соответствующих фрагментов документов, используемая
+  для обучения систем информа
 ---
-
 ## Definition
 
 MS MARCO (Microsoft Machine Reading Comprehension) — широко используемый набор данных в области обработки естественного языка, особенно для информационного поиска и ответов на вопросы. Он состоит из анонимизированных поисковых

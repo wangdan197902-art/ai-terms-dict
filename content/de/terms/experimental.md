@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /de/terms/experimental/
 date: "2026-07-18T10:49:49.246757Z"
 lastmod: "2026-07-18T11:44:44.873513Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf KI-Technologien, Modelle oder Methoden, die sich noch in frühen Entwicklungsstadien befinden und noch nicht vollständig für den Produktiveinsatz validiert sind."
 ---
-
 ## Definition
 
 Experimentell bezeichnet KI-Komponenten, die derzeit getestet, erforscht oder prototypisch entwickelt werden, bevor sie Stabilität oder breite Akzeptanz erreichen. Diese Systeme nutzen oft neuartige Architekturen oder unkonventionelle Ansätze, die noch nicht in der Praxis erprobt sind.

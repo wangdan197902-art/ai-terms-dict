@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /ja/terms/multilingual/
 date: "2026-07-18T11:24:43.474167Z"
 lastmod: "2026-07-18T11:44:45.125014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIにおける多言語対応とは、複数の自然言語でコンテンツを処理、理解、または生成できるモデルを指します。"
 ---
-
 ## Definition
 
 多言語モデルは、各言語ごとに別々のモデルを必要とせずに、多様な言語入力を処理するように設計されています。これらのシステムは通常、共有された埋め込み表現や言語横断的なアライメントを利用します。

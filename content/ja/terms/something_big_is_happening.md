@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /ja/terms/something_big_is_happening/
 date: "2026-07-18T11:32:34.991203Z"
 lastmod: "2026-07-18T11:44:45.145405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "メディアで頻繁に使用される口語的な表現で、AI分野における重要な突破や急速な進歩を記述するために使われる。"
 ---
-
 ## Definition
 
 この用語は技術的な定義ではなく、人工知能における激しいイノベーション、公衆の関心、またはパラダイムシフトの時期を指す文化的な指標です。通常、新しい技術の台頭や市場の変動に伴って使用されます。

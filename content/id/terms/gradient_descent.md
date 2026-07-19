@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /id/terms/gradient_descent/
 date: "2026-07-18T15:34:41.556523Z"
 lastmod: "2026-07-18T16:38:07.414218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Algoritma optimisasi iteratif yang digunakan untuk meminimalkan fungsi kerugian dengan menyesuaikan parameter model."
 ---
-
 ## Definition
 
 Desen gradien adalah algoritma optimisasi iteratif orde pertama untuk menemukan minimum lokal dari fungsi yang dapat diturunkan. Dalam pembelajaran mesin, algoritma ini memperbarui bobot model ke arah berlawanan dari gradien fungsi kerugian.

@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /tr/terms/gpt_56/
 date: "2026-07-18T15:54:29.584045Z"
 lastmod: "2026-07-18T16:38:07.311442Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "OpenAI'nin Üretici Ön Eğitilmiş Dönüştürücü serisinin hipotetik veya gelecekteki bir versiyonu olup, mevcut GPT modellerinin ötesinde bir gelişmeyi temsil eder."
 ---
-
 ## Definition
 
 GPT-5.6, OpenAI'nin Büyük Dil Modelleri soy ağacında spekülatif veya yakında gelecek bir sürümü ifade eder. Geliştirme zaman çizelgesine bağlı olarak spesifik detaylar değişebilir, ancak bu tür iterasyonlar tipik olarak büyük dil modellerindeki ilerlemeyi ve yetenek artışı temsil eder.

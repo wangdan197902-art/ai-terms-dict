@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /hu/terms/multi_modality/
 date: "2026-07-18T16:13:59.729465Z"
 lastmod: "2026-07-18T17:15:09.814945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A többmodáliság a gépi tanítási architektúrákon belüli többféle adat használatával foglalkozó szélesebb körű koncepció vagy tanulmányi terület."
 ---
-
 ## Definition
 
 A többmodáliság az a műszaki és elméleti keretrendszer, amely lehetővé teszi az MI-modellek számára, hogy heterogén adatsorokkal dolgozzanak. Magában foglalja azoknak a neurális hálózatoknak a tervezését, amelyek képesek bemeneteket fogadni különféle...

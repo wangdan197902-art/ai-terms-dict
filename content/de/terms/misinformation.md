@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /de/terms/misinformation/
 date: "2026-07-18T11:23:57.004047Z"
 lastmod: "2026-07-18T11:44:44.965170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Falsche oder ungenaue Informationen, die unabhängig von der Absicht zu täuschen verbreitet werden."
 ---
-
 ## Definition
 
 Fehlinformationen beziehen sich auf falsche oder irreführende Informationen, die ohne die bewusste Absicht verbreitet werden, Schaden anzurichten oder zu täuschen. Sie unterscheiden sich von Desinformation, die vorsätzlich erfunden wird. Im Kontext der KI

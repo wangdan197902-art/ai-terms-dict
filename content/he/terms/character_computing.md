@@ -1,23 +1,24 @@
 ---
-title: "חישוב תווים"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: חישוב תווים
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /he/terms/character_computing/
-date: "2026-07-18T15:47:32.569565Z"
-lastmod: "2026-07-18T17:15:09.519191Z"
+slug: character_computing
+date: '2026-07-18T15:47:32.569565Z'
+lastmod: '2026-07-18T17:15:09.519191Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "חישוב תווים כולל עיבוד, יצירה או ניתוח טקסט ברמת התו הבודד, ולא ברמת המילה או המשפט."
+source: agnes_llm
+status: published
+language: he
+description: חישוב תווים כולל עיבוד, יצירה או ניתוח טקסט ברמת התו הבודד, ולא ברמת
+  המילה או המשפט.
 ---
-
 ## Definition
 
 מושג זה מתמקד בעיבוד טקסט שבו יחידת החישוב הבסיסית היא תו בודד. הוא משמש לעיתים קרובות במשימות הדורשות ניתוח טקסט עדין, כגון בדיקת איות.

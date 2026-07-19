@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /no/terms/automated_decision_making/
 date: "2026-07-18T15:43:59.271649Z"
 lastmod: "2026-07-18T16:38:06.974015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen der algoritmer uavhengig velger handlinger eller utfall basert på datainndata uten direkte menneskelig tilsyn."
 ---
-
 ## Definition
 
 Automatisert beslutningstaking (ADM) stoler på programvaresystemer for å treffe valg som tidligere krevde menneskelig dømmekraft. Vanlig i kredittvurdering, innholdsmoderasjon og logistikk, bruker ADM forhåndsdefinerte regler.

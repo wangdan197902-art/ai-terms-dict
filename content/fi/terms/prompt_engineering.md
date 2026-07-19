@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /fi/terms/prompt_engineering/
 date: "2026-07-18T15:22:09.621515Z"
 lastmod: "2026-07-18T17:15:09.343012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käytäntö, jossa suunnitellaan ja optimoidaan syötekstiä ohjaamaan suurta kielimallia haluttuihin tuloksiin."
 ---
-
 ## Definition
 
 Prompt-insinööritaidot sisältävät tiettyjen syötteiden, joita kutsutaan prompteiksi, muotoilua generatiivisten tekoälymallien saamiseksi tuottamaan tarkkoja, relevantteja ja korkealaatuisia vastauksia. Se vaatii ymmärrystä siitä, miten mallit tulkitsevat ohjeistusta ja kontekstia.

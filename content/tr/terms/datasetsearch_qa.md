@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /tr/terms/datasetsearch_qa/
 date: "2026-07-18T15:48:27.399673Z"
 lastmod: "2026-07-18T16:38:07.294266Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gerçek dünya bilgi erişimini vurgulayan, arama motoru günlüklerinden veya web sorgularından türetilen soru-cevap görevlerine odaklanan bir veri seti."
 ---
-
 ## Definition
 
 Search QA (Arama Soru-Cevap) veri setleri genellikle, arama motoru sonuçlarından çıkarılan ilgili cevap parçaları veya belgeleri ile arama sorgularından oluşan çiftlerden oluşur. Bu veri setleri, modellerin kullanıcı niyetlerini anlamasını ve doğru bilgileri bulmasını sağlamak için kritik öneme sahiptir.

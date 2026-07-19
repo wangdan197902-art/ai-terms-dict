@@ -1,23 +1,25 @@
 ---
-title: "Modelo de bolsa de palabras"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Modelo de bolsa de palabras
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /es/terms/bag_of_words_model/
-date: "2026-07-18T10:37:53.983539Z"
-lastmod: "2026-07-18T11:44:44.780986Z"
+slug: bag_of_words_model
+date: '2026-07-18T10:37:53.983539Z'
+lastmod: '2026-07-18T11:44:44.780986Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El modelo de bolsa de palabras es una representación simplificada del texto que describe la ocurrencia de palabras en un documento, ignorando la gramática y el orden de las palabras."
+source: agnes_llm
+status: published
+language: es
+description: El modelo de bolsa de palabras es una representación simplificada del
+  texto que describe la ocurrencia de palabras en un documento, ignorando la gramática
+  y el orden de las palabras.
 ---
-
 ## Definition
 
 Esta técnica de procesamiento de lenguaje natural representa el texto como una multiconjunto de palabras, desestimando la sintaxis y la secuencia. Convierte los documentos en vectores numéricos basados en la frecuencia o presencia de las palabras.

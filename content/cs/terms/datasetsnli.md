@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /cs/terms/datasetsnli/
 date: "2026-07-18T15:52:09.649557Z"
 lastmod: "2026-07-18T17:15:09.119680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Stanford Natural Language Inference Corpus, rozsáhlá sada dat anglických vět spárovaných s lidsky napsanými štítky textuálního odvození."
 ---
-
 ## Definition
 
 SNLI je benchmarková sada dat obsahující více než 500 000 označených dvojic vět anotovaných třemi třídami: odvození (entailment), spor (contradiction) a neutrální vztah. Byla vytvořena k podpoře výzkumu v oblasti přirozeného jazyka, zejména v porozumění sémantickým vztahům mezi větami.

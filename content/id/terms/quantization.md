@@ -1,23 +1,24 @@
 ---
-title: "Kuantisasi"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kuantisasi
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /id/terms/quantization/
-date: "2026-07-18T15:35:38.270814Z"
-lastmod: "2026-07-18T16:38:07.417718Z"
+slug: quantization
+date: '2026-07-18T15:35:38.270814Z'
+lastmod: '2026-07-18T16:38:07.417718Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik optimasi model yang mengurangi presisi angka yang digunakan dalam perhitungan jaringan saraf untuk mengurangi ukuran dan meningkatkan kecepatan."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik optimasi model yang mengurangi presisi angka yang digunakan
+  dalam perhitungan jaringan saraf untuk mengurangi ukuran dan meningkatkan kecepatan.
 ---
-
 ## Definition
 
 Kuantisasi mengonversi angka floating-point presisi tinggi (seperti FP32) menjadi format presisi lebih rendah (seperti INT8 atau FP16). Pengurangan ini menurunkan penggunaan memori model dan kebutuhan komputasi, sehingga mempercepat inferensi tanpa mengorbankan akurasi secara signifikan.

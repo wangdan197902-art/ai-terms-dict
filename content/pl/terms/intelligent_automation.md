@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /pl/terms/intelligent_automation/
 date: "2026-07-18T16:01:24.934573Z"
 lastmod: "2026-07-18T17:15:08.886595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Połączenie sztucznej inteligencji z automatyzacją procesów roboczych (RPA) w celu obsługi złożonych, nieustrukturyzowanych procesów biznesowych."
 ---
-
 ## Definition
 
 Inteligentna automatyzacja integruje tradycyjną Automatyzację Procesów Roboczych (RPA) z zaawansowanymi technologiami AI, takimi jak uczenie maszynowe i przetwarzanie języka naturalnego. Podczas gdy RPA obsługuje procesy oparte na regułach, strukt...

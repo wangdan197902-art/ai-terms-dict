@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /fr/terms/gpt_bigcode/
 date: "2026-07-18T11:19:15.220194Z"
 lastmod: "2026-07-18T11:44:45.261544Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une famille de grands modèles de langage spécifiquement entraînés pour la génération et la compréhension de code, développée par le projet BigCode."
 ---
-
 ## Definition
 
 GPT Bigcode, souvent associé à des modèles comme StarCoder, représente une avancée significative dans l'assistance au codage par IA. Ces modèles sont pré-entraînés sur d'immenses dépôts de code public pour comprendre et générer du code.

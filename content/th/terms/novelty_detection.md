@@ -1,23 +1,23 @@
 ---
-title: "การตรวจจับสิ่งใหม่ (Novelty detection)"
-term_id: "novelty_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["unsupervised", "security", "quality-control"]
+title: การตรวจจับสิ่งใหม่ (Novelty detection)
+term_id: novelty_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- unsupervised
+- security
+- Quality Control
 difficulty: 3
 weight: 1
-slug: "novelty_detection"
-aliases:
-  - /th/terms/novelty_detection/
-date: "2026-07-18T16:08:25.568317Z"
-lastmod: "2026-07-18T16:38:07.637157Z"
+slug: novelty_detection
+date: '2026-07-18T16:08:25.568317Z'
+lastmod: '2026-07-18T16:38:07.637157Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเรียนรู้แบบไม่มีผู้สอน (unsupervised learning) ใช้เพื่อระบุรูปแบบใหม่หรือรูปแบบที่ไม่รู้จักซึ่งแตกต่างอย่างมีนัยสำคัญจากข้อมูลฝึกสอนที่กำหนดไว้"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเรียนรู้แบบไม่มีผู้สอน (unsupervised learning) ใช้เพื่อระบุรูปแบบใหม่หรือรูปแบบที่ไม่รู้จักซึ่งแตกต่างอย่างมีนัยสำคัญจากข้อมูลฝึกสอนที่กำหนดไว้
 ---
-
 ## Definition
 
 การตรวจจับสิ่งใหม่เป็นงานด้านการเรียนรู้ของเครื่องที่มุ่งเน้นการระบุจุดข้อมูลที่ไม่สอดคล้องกับพฤติกรรมที่คาดหวังหรือคลาสที่รู้จัก โดยทั่วไปจะทำงานในลักษณะการเรียนรู้แบบไม่มีผู้สอน (unsupervised) โดยเรียนรู้จากการกระจายตัวของข้อมูลปกติ

@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /nl/terms/server_sent_events/
 date: "2026-07-18T16:16:52.293090Z"
 lastmod: "2026-07-18T17:15:08.786695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een standaardprotocol waarmee webservers realtime-updates naar clients kunnen pushen via één enkele HTTP-verbinding."
 ---
-
 ## Definition
 
 Server-Sent Events (SSE) maken eenrichtingscommunicatie mogelijk van de server naar de client, waarbij de server gegevens continu kan streamen zonder dat de client herhaaldelijk moet pollen. Het maakt gebruik van gewone HTTP, wat het eenvoudig te implementeren maakt.

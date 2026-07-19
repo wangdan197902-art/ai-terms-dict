@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /tr/terms/kaos/
 date: "2026-07-18T15:59:15.614684Z"
 lastmod: "2026-07-18T16:38:07.323367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Politika tabanlı otomasyon aracılığıyla karmaşık, dağıtılmış kurumsal ortamları yönetmek üzere tasarlanmış akıllı ajan çerçevesi."
 ---
-
 ## Definition
 
 KAoS, büyük ölçekli, dağıtılmış kurumsal sistemlerin karmaşıklığını ele almak üzere geliştirilmiş bir akıllı ajan çerçevesidir. Yüksek düzeyde yönetim hedeflerinin, düşük düzeydeki eylemlere ve yapılandırmalara dönüştürüldüğü politika tabanlı bir yaklaşım kullanır.

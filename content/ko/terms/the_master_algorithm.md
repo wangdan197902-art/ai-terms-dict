@@ -1,23 +1,23 @@
 ---
-title: "The Master Algorithm"
-term_id: "the_master_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "literature"]
+title: The Master Algorithm
+term_id: the_master_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- literature
 difficulty: 4
 weight: 1
-slug: "the_master_algorithm"
-aliases:
-  - /ko/terms/the_master_algorithm/
-date: "2026-07-18T16:18:31.748780Z"
-lastmod: "2026-07-18T16:38:06.915588Z"
+slug: the_master_algorithm
+date: '2026-07-18T16:18:31.748780Z'
+lastmod: '2026-07-18T16:38:06.915588Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "마스터 알고리즘은 모든 지식을 데이터로부터 도출할 수 있는 가상의 범용 학습 알고리즘을 지칭합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 마스터 알고리즘은 모든 지식을 데이터로부터 도출할 수 있는 가상의 범용 학습 알고리즘을 지칭합니다.
 ---
-
 ## Definition
 
 페드로 도밍고스가 동명의 저서에서 처음 사용한 이 용어는 '마스터 알고리즘'이 인간의 모든 학습 과정을 재현할 수 있는 머신러닝을 위한 이론적 통합 프레임워크를 설명합니다. 이는 다양한 학습 패러다임...

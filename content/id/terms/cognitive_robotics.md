@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /id/terms/cognitive_robotics/
 date: "2026-07-18T15:42:21.892627Z"
 lastmod: "2026-07-18T16:38:07.437902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Robotika kognitif adalah bidang yang berfokus pada pembuatan robot dengan kemampuan kognitif mirip manusia, seperti persepsi, penalaran, dan pembelajaran."
 ---
-
 ## Definition
 
 Robotika kognitif mengintegrasikan ilmu kognitif dengan robotika untuk membangun mesin yang dapat memahami lingkungan, belajar dari pengalaman, dan membuat keputusan otonom. Robot ini menggunakan algoritma canggih untuk memproses informasi sensorik dan beradaptasi dengan situasi dinamis.

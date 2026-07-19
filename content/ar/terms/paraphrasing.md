@@ -1,23 +1,24 @@
 ---
-title: "إعادة الصياغة"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: إعادة الصياغة
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /ar/terms/paraphrasing/
-date: "2026-07-18T16:15:50.140263Z"
-lastmod: "2026-07-18T17:15:08.535519Z"
+slug: paraphrasing
+date: '2026-07-18T16:15:50.140263Z'
+lastmod: '2026-07-18T17:15:08.535519Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مهمة معالجة اللغات الطبيعية تتضمن إعادة كتابة النص لنقل نفس المعنى باستخدام كلمات أو تراكيب جمل مختلفة."
+source: agnes_llm
+status: published
+language: ar
+description: مهمة معالجة اللغات الطبيعية تتضمن إعادة كتابة النص لنقل نفس المعنى باستخدام
+  كلمات أو تراكيب جمل مختلفة.
 ---
-
 ## Definition
 
 تتضمن إعادة الصياغة في معالجة اللغات الطبيعية توليد تعبيرات بديلة لنص إدخال معين مع الحفاظ على معناه الدلالي الأصلي. وهي حاسمة لتقليل الانتحال الأدبي وتحسين تنوع البيانات المستخدمة في تدريب النماذج.

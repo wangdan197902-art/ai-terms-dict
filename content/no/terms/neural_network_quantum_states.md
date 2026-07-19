@@ -1,23 +1,24 @@
 ---
-title: "Kvantetilstander i nevrale nettverk"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: Kvantetilstander i nevrale nettverk
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /no/terms/neural_network_quantum_states/
-date: "2026-07-18T16:09:07.960289Z"
-lastmod: "2026-07-18T16:38:07.028842Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:09:07.960289Z'
+lastmod: '2026-07-18T16:38:07.028842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En representasjon av kvantemangelegems-bølgefunksjoner ved hjelp av arkitekturer for kunstige nevrale nettverk."
+source: agnes_llm
+status: published
+language: 'no'
+description: En representasjon av kvantemangelegems-bølgefunksjoner ved hjelp av arkitekturer
+  for kunstige nevrale nettverk.
 ---
-
 ## Definition
 
 Kvantetilstander i nevrale nettverk bruker dype læringsmetoder til å approksimere komplekse kvantebølgefunksjoner. Ved å behandle nevrale nettverksvekter som parametere som optimaliserer sannsynlighetsamplitudene til kvantetilstander.

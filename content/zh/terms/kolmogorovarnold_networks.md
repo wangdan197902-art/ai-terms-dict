@@ -1,23 +1,23 @@
 ---
-title: "柯尔莫哥洛夫-阿诺德网络"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: 柯尔莫哥洛夫-阿诺德网络
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /zh/terms/kolmogorovarnold_networks/
-date: "2026-07-18T11:23:29.760154Z"
-lastmod: "2026-07-18T11:44:45.522092Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T11:23:29.760154Z'
+lastmod: '2026-07-18T11:44:45.522092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "基于柯尔莫哥洛夫-阿诺德表示定理的神经网络架构，提供了多层感知器的替代方案。"
+source: agnes_llm
+status: published
+language: zh
+description: 基于柯尔莫哥洛夫-阿诺德表示定理的神经网络架构，提供了多层感知器的替代方案。
 ---
-
 ## Definition
 
 柯尔莫哥洛夫-阿诺德网络（KANs）是一类受柯尔莫哥洛夫-阿诺德表示定理启发的新型神经网络。该定理指出任何多元连续函数都可以表示为有限个一元连续函数的复合。与传统神经网络在连接上使用固定激活函数不同，KANs将可学习的激活函数放置在神经网络的边上，从而提高了可解释性和样本效率。

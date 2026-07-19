@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /it/terms/is_this_what_we_want/
 date: "2026-07-18T16:05:56.105934Z"
 lastmod: "2026-07-18T17:15:08.638913Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un quadro etico critico utilizzato per valutare i sistemi di IA rispetto ai valori sociali, all'equità e alle potenziali conseguenze dannose."
 ---
-
 ## Definition
 
 Questa frase rappresenta una domanda cruciale nell'etica e nella governance dell'IA, invitando gli stakeholder a valutare se le tecnologie IA implementate siano allineate con i valori umani e l'interesse pubblico. Comporta un esame scrupolo

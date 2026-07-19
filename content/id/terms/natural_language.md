@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /id/terms/natural_language/
 date: "2026-07-18T15:32:19.697055Z"
 lastmod: "2026-07-18T16:38:07.409423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Metode komunikasi manusia standar, yang dicirikan oleh tata bahasa, kosakata, dan konteks, berbeda dengan bahasa komputer formal."
 ---
-
 ## Definition
 
 Bahasa alami merujuk pada cara manusia berbicara dan menulis, termasuk semua ambiguitas, idiom, dan nuansa budayanya. Dalam AI, pemrosesan bahasa alami melibatkan pemahaman sintaks, semantik, dan pragmatik.

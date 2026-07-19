@@ -1,23 +1,25 @@
 ---
-title: "Tích hợp liên tục"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Tích hợp liên tục
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /vi/terms/continuous_integration/
-date: "2026-07-18T15:34:18.102833Z"
-lastmod: "2026-07-18T16:38:07.707520Z"
+slug: continuous_integration
+date: '2026-07-18T15:34:18.102833Z'
+lastmod: '2026-07-18T16:38:07.707520Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thực hành phát triển phần mềm trong đó các nhà phát triển thường xuyên hợp nhất các thay đổi mã nguồn vào một kho lưu trữ trung tâm, kích hoạt quá trình xây dựng và kiểm thử tự động."
+source: agnes_llm
+status: published
+language: vi
+description: Một thực hành phát triển phần mềm trong đó các nhà phát triển thường
+  xuyên hợp nhất các thay đổi mã nguồn vào một kho lưu trữ trung tâm, kích hoạt quá
+  trình xây dựng và kiểm thử tự động.
 ---
-
 ## Definition
 
 Tích hợp liên tục (CI) là một thực hành DevOps quan trọng giúp tự động hóa việc tích hợp các thay đổi mã nguồn từ nhiều người đóng góp vào một dự án phần mềm duy nhất. Bằng cách chạy các quy trình xây dựng và kiểm thử tự động, CI giúp phát hiện sớm các lỗi tích hợp và đảm bảo chất lượng mã nguồn ổn định.

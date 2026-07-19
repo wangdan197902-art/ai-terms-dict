@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /ko/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:43:32.985701Z"
 lastmod: "2026-07-18T16:38:06.813009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델 매개변수를 고정된 값이 아닌 확률 분포를 가진 확률 변수로 취급하는 학습 패러다임입니다."
 ---
-
 ## Definition
 
 베이지안 학습 메커니즘은 베이즈 정리를 사용하여 모델 매개변수에 대한 신념을 업데이트하며, 사전 지식과 관측된 데이터를 결합하여 사후 분포를 형성합니다. 빈도주의 접근법과는 달리

@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /tr/terms/neural_modeling_fields/
 date: "2026-07-18T16:06:06.142715Z"
 lastmod: "2026-07-18T16:38:07.340311Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Nöral aktivite desenlerinin uzamsal ve işlevsel organizasyonunu tanımlayan teorik bir çerçeve."
 ---
-
 ## Definition
 
 Sinirsel modelleme alanları, nöral popülasyonların bilgiyi temsil etmek için yüksek boyutlu uzaylarda nasıl örgütlendiğinin incelenmesini içerir. Bu kavram genellikle topolojik eşlemeler ve alan teorisi ile ilişkilidir.

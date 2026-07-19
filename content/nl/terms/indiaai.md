@@ -1,23 +1,23 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /nl/terms/indiaai/
-date: "2026-07-18T15:59:34.395827Z"
-lastmod: "2026-07-18T17:15:08.754156Z"
+slug: indiaai
+date: '2026-07-18T15:59:34.395827Z'
+lastmod: '2026-07-18T17:15:08.754156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "INDIAai is het nationale AI-portaal gelanceerd door de Indiase overheid om AI-onderzoek en -adoptie in het hele land te bevorderen."
+source: agnes_llm
+status: published
+language: nl
+description: INDIAai is het nationale AI-portaal gelanceerd door de Indiase overheid
+  om AI-onderzoek en -adoptie in het hele land te bevorderen.
 ---
-
 ## Definition
 
 Onder het Ministerie van Elektronica en Informatietechnologie ingesteld, dient INDIAai als centraal knooppunt voor AI-bronnen, beleidslijnen en initiatieven. Het heeft tot doel samenwerking te bevorderen tussen academici, bedrijven en overheden.

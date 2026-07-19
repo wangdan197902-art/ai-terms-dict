@@ -1,23 +1,22 @@
 ---
-title: "发展机器人学"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: 发展机器人学
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /zh/terms/developmental_robotics/
-date: "2026-07-18T11:14:15.624785Z"
-lastmod: "2026-07-18T11:44:45.487578Z"
+slug: developmental_robotics
+date: '2026-07-18T11:14:15.624785Z'
+lastmod: '2026-07-18T11:44:45.487578Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个跨学科领域，研究机器人如何通过与环境和照顾者的互动来获取复杂技能。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个跨学科领域，研究机器人如何通过与环境和照顾者的互动来获取复杂技能。
 ---
-
 ## Definition
 
 发展机器人学从人类认知发展中汲取灵感，创造能够随时间自主学习的机器人。这些系统不是预先编程所有行为，而是使用类似模仿学习、内在动机和传感器运动发展的机制来逐步获得技能。

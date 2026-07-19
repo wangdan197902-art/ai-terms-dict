@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /zh/terms/pedagogical_agent/
 date: "2026-07-18T11:29:41.113497Z"
 lastmod: "2026-07-18T11:44:45.541505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "旨在通过提供指导、反馈和引导来促进学习的人工智能实体。"
 ---
-
 ## Definition
 
 教学智能体是一种软件组件，通常表现为虚拟角色，在教育环境中充当教师或导师。这些智能体利用自然语言处理

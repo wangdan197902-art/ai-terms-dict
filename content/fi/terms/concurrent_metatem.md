@@ -1,23 +1,24 @@
 ---
-title: "Concurrent MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Concurrent MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /fi/terms/concurrent_metatem/
-date: "2026-07-18T15:49:02.294582Z"
-lastmod: "2026-07-18T17:15:09.393621Z"
+slug: concurrent_metatem
+date: '2026-07-18T15:49:02.294582Z'
+lastmod: '2026-07-18T17:15:09.393621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Concurrent MetateM on reaktiivinen ohjelmointikieli, joka on suunniteltu reaaliaikaisten autonomisten agenttien määrittelyyn ja toteutukseen."
+source: agnes_llm
+status: published
+language: fi
+description: Concurrent MetateM on reaktiivinen ohjelmointikieli, joka on suunniteltu
+  reaaliaikaisten autonomisten agenttien määrittelyyn ja toteutukseen.
 ---
-
 ## Definition
 
 Concurrent MetateM on korkean tason spesifikaatiokieli, jota käytetään pääasiassa robotiikassa ja autonomisissa järjestelmissä. Se mahdollistaa kehittäjien määritellä agenttien käyttäytymisen aikalogiikan avulla, varmistaen reaaliaikaisen reaktiokyvyn.

@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /cs/terms/intrinsic_motivation/
 date: "2026-07-18T16:03:47.666792Z"
 lastmod: "2026-07-18T17:15:09.143702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Koncept posilovaného učení, kde agenti sledují cíle založené na vnitřní zvědavosti nebo získávání znalostí spíše než na vnějších odměnách."
 ---
-
 ## Definition
 
 V posilovaném učení vnitřní motivace pohání agenta k průzkumu jeho prostředí prostřednictvím hledání novosti, snižování nejistoty nebo zdokonalování dovedností, nezávisle na vnějších odměnách za úkol. Tento mechanismus umožňuje agentům učit se efektivněji v prostředích s řídkými odměnami.

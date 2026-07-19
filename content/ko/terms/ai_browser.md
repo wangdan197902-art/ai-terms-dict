@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /ko/terms/ai_browser/
 date: "2026-07-18T15:38:34.745957Z"
 lastmod: "2026-07-18T16:38:06.803416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "검색, 요약 및 콘텐츠 분석을 지원하기 위해 AI 기능이 통합된 웹 브라우저."
 ---
-
 ## Definition
 
 AI 브라우저는 인공지능 기능을 사용자 인터페이스에 직접 통합한 웹 탐색 애플리케이션입니다. 이러한 기능에는 일반적으로 자연어 검색, 자동 콘텐츠

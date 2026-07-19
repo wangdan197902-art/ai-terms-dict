@@ -1,23 +1,24 @@
 ---
-title: "Namngiven entitetsigenkänning"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Namngiven entitetsigenkänning
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /sv/terms/named_entity_recognition/
-date: "2026-07-18T15:39:17.716917Z"
-lastmod: "2026-07-18T17:15:08.964828Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:39:17.716917Z'
+lastmod: '2026-07-18T17:15:08.964828Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En uppgift inom naturlig språkbehandling som identifierar och klassificerar nyckelinformationentiteter i fördefinierade kategorier."
+source: agnes_llm
+status: published
+language: sv
+description: En uppgift inom naturlig språkbehandling som identifierar och klassificerar
+  nyckelinformationentiteter i fördefinierade kategorier.
 ---
-
 ## Definition
 
 Namngiven entitetsigenkänning (NER) är en deluppgift inom informationsutvinning som lokaler och klassificerar namngivna entiteter i text i fördefinierade kategorier såsom personnamn, organisationer, platser, medic

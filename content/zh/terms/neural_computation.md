@@ -1,23 +1,23 @@
 ---
-title: "神经计算"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: 神经计算
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /zh/terms/neural_computation/
-date: "2026-07-18T11:28:12.945136Z"
-lastmod: "2026-07-18T11:44:45.536252Z"
+slug: neural_computation
+date: '2026-07-18T11:28:12.945136Z'
+lastmod: '2026-07-18T11:44:45.536252Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "受生物神经元启发的神经网络中信息处理的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 受生物神经元启发的神经网络中信息处理的过程。
 ---
-
 ## Definition
 
 神经计算是指人工神经元执行数学运算，将输入信号转化为输出响应的过程。它涉及加权求和、激活函数以及反向传播（backpropagation）。

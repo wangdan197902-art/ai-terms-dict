@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /pl/terms/time/
 date: "2026-07-18T15:30:43.129434Z"
 lastmod: "2026-07-18T17:15:08.822707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W kontekście sztucznej inteligencji czas odnosi się do wymiaru temporalnego używanego do sekwencjonowania zdarzeń, śledzenia zmian stanu oraz pomiaru opóźnień lub czasu trwania operacji modelu."
 ---
-
 ## Definition
 
 Czas jest fundamentalną koncepcją w sztucznej inteligencji, szczególnie w modelowaniu sekwencyjnym i systemach czasu rzeczywistego. Służy jako oś, wzdłuż której uporządkowane są punkty danych, umożliwiając modelom takim jak sieci rekurencyjne (RNN) czy transformery analizowanie zależności czasowych.

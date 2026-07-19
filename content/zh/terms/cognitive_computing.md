@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /zh/terms/cognitive_computing/
 date: "2026-07-18T11:10:26.183939Z"
 lastmod: "2026-07-18T11:44:45.457732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "认知计算是指通过计算机化模型模拟人类思维过程的系统，利用人工智能模仿人脑功能。"
 ---
-
 ## Definition
 
 认知计算是人工智能的一个分支，旨在以自然方式与人类交互，同时模拟人脑过程。这些系统使用机器学习、深度学习...

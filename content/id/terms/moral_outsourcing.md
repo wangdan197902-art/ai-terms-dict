@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /id/terms/moral_outsourcing/
 date: "2026-07-18T16:01:07.529955Z"
 lastmod: "2026-07-18T16:38:07.484716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kekhawatiran etis di mana individu atau organisasi menyerahkan tanggung jawab pengambilan keputusan moral kepada sistem AI otomatis."
 ---
-
 ## Definition
 
 Outsourcing moral mengacu pada fenomena di mana manusia menyerahkan penilaian etis dan tanggung jawab kepada algoritma atau sistem AI. Hal ini terjadi ketika orang mengandalkan keputusan otomatis untuk hal-hal yang signifikan secara moral

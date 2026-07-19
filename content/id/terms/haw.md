@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /id/terms/haw/
-date: "2026-07-18T15:54:25.332358Z"
-lastmod: "2026-07-18T16:38:07.466081Z"
+slug: haw
+date: '2026-07-18T15:54:25.332358Z'
+lastmod: '2026-07-18T16:38:07.466081Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Seruan kasual yang sering digunakan dalam komunikasi digital informal, tanpa makna teknis spesifik dalam konteks AI."
+source: agnes_llm
+status: published
+language: id
+description: Seruan kasual yang sering digunakan dalam komunikasi digital informal,
+  tanpa makna teknis spesifik dalam konteks AI.
 ---
-
 ## Definition
 
 Dalam konteks pemrosesan bahasa umum, 'haw' adalah seruan informal atau suara keraguan. Meskipun tidak mewakili konsep algoritmik inti dalam kecerdasan buatan, model NLP harus mampu mengenali dan menangani variasi bahasa sehari-hari ini agar interaksi lebih alami.

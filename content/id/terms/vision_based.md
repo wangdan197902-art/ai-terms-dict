@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /id/terms/vision_based/
 date: "2026-07-18T15:33:21.974356Z"
 lastmod: "2026-07-18T16:38:07.410917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem yang terutama mengandalkan masukan data visual untuk memahami dan berinteraksi dengan dunia."
 ---
-
 ## Definition
 
 Paradigma berbasis visi memanfaatkan kamera dan algoritma pemrosesan gambar untuk mengekstrak informasi bermakna dari adegan visual. Sistem-sistem ini merupakan fondasi dalam robotika, pengemudi otonom, dan...

@@ -1,23 +1,22 @@
 ---
-title: "記号レベル"
-term_id: "symbol_level"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_foundations", "knowledge_representation"]
+title: 記号レベル
+term_id: symbol_level
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Foundations
+- Knowledge Representation
 difficulty: 2
 weight: 1
-slug: "symbol_level"
-aliases:
-  - /ja/terms/symbol_level/
-date: "2026-07-18T11:34:00.783227Z"
-lastmod: "2026-07-18T11:44:45.148919Z"
+slug: symbol_level
+date: '2026-07-18T11:34:00.783227Z'
+lastmod: '2026-07-18T11:44:45.148919Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "記号レベルとは、AIシステム内で概念、オブジェクト、または関係を表現するために離散記号を使用する抽象化レイヤーを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: 記号レベルとは、AIシステム内で概念、オブジェクト、または関係を表現するために離散記号を使用する抽象化レイヤーを指します。
 ---
-
 ## Definition
 
 人工知能において、記号レベルは、連続的な数値ではなく離散記号を使用して知識をエンコードする高レベルの抽象化を表します。このアプローチは、

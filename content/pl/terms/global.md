@@ -1,23 +1,24 @@
 ---
-title: "Globalny"
-term_id: "global"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "architecture", "theory"]
+title: Globalny
+term_id: global
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- architecture
+- theory
 difficulty: 2
 weight: 1
-slug: "global"
-aliases:
-  - /pl/terms/global/
-date: "2026-07-18T15:26:05.444534Z"
-lastmod: "2026-07-18T17:15:08.812439Z"
+slug: global
+date: '2026-07-18T15:26:05.444534Z'
+lastmod: '2026-07-18T17:15:08.812439Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Opisujący właściwości, optymalizacje lub zakresy, które odnoszą się do całego modelu lub zbioru danych, a nie do jego lokalnych podzbiorów."
+source: agnes_llm
+status: published
+language: pl
+description: Opisujący właściwości, optymalizacje lub zakresy, które odnoszą się do
+  całego modelu lub zbioru danych, a nie do jego lokalnych podzbiorów.
 ---
-
 ## Definition
 
 Termin 'globalny' w sztucznej inteligencji zwykle kontrastuje z 'lokalnym', odnosząc się do aspektów obejmujących cały system. W optymalizacji minimum globalne reprezentuje najlepsze możliwe rozwiązanie w całej przestrzeni loss (funkcji straty).

@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /ja/terms/security/
 date: "2026-07-18T10:54:57.923518Z"
 lastmod: "2026-07-18T11:44:45.019029Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "不正アクセス、悪用、および悪意のある攻撃からAIシステムを保護するための実践。"
 ---
-
 ## Definition
 
 AIセキュリティには、敵対的攻撃、データポイズニング、モデル逆引きなどの脅威から、機械学習モデル、データパイプライン、およびデプロイメントインフラストラクチャを守るための対策が含まれます。

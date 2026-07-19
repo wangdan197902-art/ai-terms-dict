@@ -1,23 +1,25 @@
 ---
-title: "Situado"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: Situado
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /pt/terms/situated/
-date: "2026-07-18T15:21:59.173497Z"
-lastmod: "2026-07-18T15:51:59.532634Z"
+slug: situated
+date: '2026-07-18T15:21:59.173497Z'
+lastmod: '2026-07-18T15:51:59.532634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Descreve sistemas ou agentes de IA que operam dentro e se adaptam a contextos físicos, sociais ou ambientais específicos."
+source: agnes_llm
+status: published
+language: pt
+description: Descreve sistemas ou agentes de IA que operam dentro e se adaptam a contextos
+  físicos, sociais ou ambientais específicos.
 ---
-
 ## Definition
 
 Em inteligência artificial, 'situado' refere-se a agentes embutidos em um ambiente e que interagem com ele em tempo real. Diferentemente de solucionadores de problemas abstratos, os agentes situados devem processar entradas sensoriais e agir dinamicamente.

@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /fi/terms/autognostics/
 date: "2026-07-18T15:44:28.694069Z"
 lastmod: "2026-07-18T17:15:09.385797Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kyky diagnosoida sisäinen tila, suorituskykyongelmat tai virheet ilman ihmisen väliintuloa."
 ---
-
 ## Definition
 
 Autognostiikka viittaa älykkäissä järjestelmissä oleviin itsevalvonta- ja korjausmekanismeihin. Se mahdollistaa tekoälyagenttien havaita poikkeamat, diagnosoida vikojen juurisyyn ja mahdollisesti korjata ne itse.

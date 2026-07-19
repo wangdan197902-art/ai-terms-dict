@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: 'Diffusers: Qwenimagepipeline'
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /sv/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T15:54:05.570383Z"
-lastmod: "2026-07-18T17:15:08.996521Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T15:54:05.570383Z'
+lastmod: '2026-07-18T17:15:08.996521Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En pipeline som använder Qwen-VL-modeller inom Diffusers för att generera bilder direkt från textbeskrivningar eller multimodala indata."
+source: agnes_llm
+status: published
+language: sv
+description: En pipeline som använder Qwen-VL-modeller inom Diffusers för att generera
+  bilder direkt från textbeskrivningar eller multimodala indata.
 ---
-
 ## Definition
 
 Denna pipeline anpassar Qwen-VL-modellernas generativa förmågor för bildsynthes. Den gör det möjligt för användare att generera bilder av hög kvalitet genom att tillhandahålla textprompter eller kombinera text med referensbilder...

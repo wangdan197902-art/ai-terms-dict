@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /ro/terms/model_context_protocol/
 date: "2026-07-18T15:36:33.639145Z"
 lastmod: "2026-07-18T17:15:09.616032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru standardizat conceput pentru a facilita comunicarea securizată și eficientă între modelele AI și sursele externe de date sau instrumente."
 ---
-
 ## Definition
 
 Protocolul Contextului Modelului (MCP) este un standard deschis care permite aplicațiilor AI să se conecteze la diverse surse de date, cum ar fi baze de date, API-uri și sisteme de fișiere, într-un mod uniform. Acesta abstractizează complexitatea integrării datelor.

@@ -1,23 +1,24 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /tr/terms/google_research/
-date: "2026-07-18T15:55:27.410372Z"
-lastmod: "2026-07-18T16:38:07.314006Z"
+slug: google_research
+date: '2026-07-18T15:55:27.410372Z'
+lastmod: '2026-07-18T16:38:07.314006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zeka, makine öğrenimi ve bilgisayar bilimini temel ve uygulamalı çalışmalar aracılığıyla ilerletmeye adanmış Google'ın araştırma bölümü."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zeka, makine öğrenimi ve bilgisayar bilimini temel ve uygulamalı
+  çalışmalar aracılığıyla ilerletmeye adanmış Google'ın araştırma bölümü.
 ---
-
 ## Definition
 
 Google Research, Google LLC'nin akademik ve endüstriyel araştırma kolu olup; yapay zeka, doğal dil işleme ve kuantum bilişim gibi alanlarda teknolojinin sınırlarını zorlamaya odaklanır.

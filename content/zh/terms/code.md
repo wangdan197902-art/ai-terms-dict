@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /zh/terms/code/
 date: "2026-07-18T10:59:27.500322Z"
 lastmod: "2026-07-18T11:44:45.398009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在AI语境中，代码指用编程语言编写的结构化指令，用于定义模型行为和数据处理的逻辑。"
 ---
-
 ## Definition
 
 代码是用Python、C++或JavaScript等编程语言编写的一组指令，计算机执行这些指令以执行特定任务。在人工智能中，代码是构建神经网络、实现算法以及部署模型服务的基础。它将抽象的AI概念转化为可执行的计算步骤。

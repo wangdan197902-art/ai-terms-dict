@@ -1,23 +1,25 @@
 ---
-title: "Jeu de données : Wikipédia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Jeu de données : Wikipédia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /fr/terms/datasetwikipedia/
-date: "2026-07-18T11:12:40.476121Z"
-lastmod: "2026-07-18T11:44:45.238491Z"
+slug: datasetwikipedia
+date: '2026-07-18T11:12:40.476121Z'
+lastmod: '2026-07-18T11:44:45.238491Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La vaste collection de textes de Wikipédia, servant de corpus fondamental pour le pré-entraînement des modèles de langage et les tâches de TAL intensives en connaissances."
+source: agnes_llm
+status: published
+language: fr
+description: La vaste collection de textes de Wikipédia, servant de corpus fondamental
+  pour le pré-entraînement des modèles de langage et les tâches de TAL intensives
+  en connaissances.
 ---
-
 ## Definition
 
 Wikipédia est l'une des collections de connaissances humaines les plus vastes et les plus complètes disponibles au format texte. En IA, elle sert de source principale pour le pré-entraînement des grands modèles de langage, fournissant des données diversifiées et riches.

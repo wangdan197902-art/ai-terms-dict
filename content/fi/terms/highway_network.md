@@ -1,23 +1,24 @@
 ---
-title: "Moottoritieverkko"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Moottoritieverkko
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /fi/terms/highway_network/
-date: "2026-07-18T16:01:49.258167Z"
-lastmod: "2026-07-18T17:15:09.419290Z"
+slug: highway_network
+date: '2026-07-18T16:01:49.258167Z'
+lastmod: '2026-07-18T17:15:09.419290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Syvän neuronaaliverkon arkkitehtuuri, joka ottaa käyttöön porttimekanismeja helpottaakseen gradienttien virtaamista erittäin syvissä verkoissa."
+source: agnes_llm
+status: published
+language: fi
+description: Syvän neuronaaliverkon arkkitehtuuri, joka ottaa käyttöön porttimekanismeja
+  helpottaakseen gradienttien virtaamista erittäin syvissä verkoissa.
 ---
-
 ## Definition
 
 Moottoritieverkot on suunniteltu ratkaisemaan syväoppimisen häviävän gradientin ongelma ottamalla käyttöön adaptiivisia porteja, jotka säätelevät informaation virtausta. Nämä portit sallivat verkon oppia suoraan alkuperäisiä ominaisuuksia tai edellisiä kerroksia, mikä mahdollistaa hyvin syvien verkkojen kouluttamisen ilman vakavia vakausongelmia.

@@ -1,23 +1,23 @@
 ---
-title: "פתוח"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: פתוח
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /he/terms/open/
-date: "2026-07-18T15:28:45.086012Z"
-lastmod: "2026-07-18T17:15:09.483767Z"
+slug: open
+date: '2026-07-18T15:28:45.086012Z'
+lastmod: '2026-07-18T17:15:09.483767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "בבינה מלאכותית, המונח 'פתוח' מתייחס בדרך כלל לדגמים בקוד פתוח או למשימות ללא סיום (open-ended) שאין להן אילוצים מוגדרים מראש או מרחב פתרונות מלא."
+source: agnes_llm
+status: published
+language: he
+description: בבינה מלאכותית, המונח 'פתוח' מתייחס בדרך כלל לדגמים בקוד פתוח או למשימות
+  ללא סיום (open-ended) שאין להן אילוצים מוגדרים מראש או מרחב פתרונות מלא.
 ---
-
 ## Definition
 
 המונח 'פתוח' בהקשר של בינה מלאכותית מתאר לעיתים קרובות שני תחומים נפרדים: תוכנה בקוד פתוח, שבה משקולות הדגם והקוד זמינים לציבור לשינוי, ובעיות ללא סיום (open-ended problems) החסרות אילוצים ברורים או מרחב פתרונות מוגדר.

@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /pl/terms/deadbot/
 date: "2026-07-18T15:50:08.469224Z"
 lastmod: "2026-07-18T17:15:08.864497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Czatbot, który został wycofany z użytku, wyłączony lub nie jest już utrzymywany, co często skutkuje statycznymi odpowiedziami lub komunikatami o błędach na wejście użytkownika."
 ---
-
 ## Definition
 
 Deadbot odnosi się do agenta konwersacyjnego lub usługi czatbota, który nie jest już aktywny, utrzymywany ani wspierany przez swoich deweloperów. Takie boty mogą zwracać generyczne komunikaty o błędach, statyczne odpowiedzi lub przekierowania do innych usług.

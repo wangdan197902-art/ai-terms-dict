@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /fr/terms/environmental_impact_of_ai/
 date: "2026-07-18T11:15:56.731540Z"
 lastmod: "2026-07-18T11:44:45.247216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Les conséquences écologiques du développement, de l'entraînement et du déploiement des modèles d'IA, y compris la consommation d'énergie et les émissions de carbone."
 ---
-
 ## Definition
 
 Ce terme fait référence aux exigences importantes en ressources associées aux technologies de l'IA, en particulier lors de la phase d'entraînement des grands modèles. Il englobe la consommation d'électricité des centres de données et l'empreinte carbone globale liée au calcul intensif.

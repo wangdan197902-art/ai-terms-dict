@@ -1,23 +1,23 @@
 ---
-title: "التوليد المعزز بالاسترجاع"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: التوليد المعزز بالاسترجاع
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /ar/terms/rag/
-date: "2026-07-18T15:30:15.974592Z"
-lastmod: "2026-07-18T17:15:08.447155Z"
+slug: rag
+date: '2026-07-18T15:30:15.974592Z'
+lastmod: '2026-07-18T17:15:08.447155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "RAG هو إطار عمل للذكاء الاصطناعي يعزز النماذج التوليدية من خلال استرجاع معلومات ذات صلة من قواعد المعرفة الخارجية قبل توليد الردود."
+source: agnes_llm
+status: published
+language: ar
+description: RAG هو إطار عمل للذكاء الاصطناعي يعزز النماذج التوليدية من خلال استرجاع
+  معلومات ذات صلة من قواعد المعرفة الخارجية قبل توليد الردود.
 ---
-
 ## Definition
 
 يجمع التوليد المعزز بالاسترجاع (RAG) بين نقاط قوة أنظمة الذكاء الاصطناعي القائمة على الاسترجاع وتلك القائمة على التوليد. بدلاً من الاعتماد فقط على معاملات نموذج لغوي مدرب مسبقاً، يقوم RAG أولاً باسترجاع...

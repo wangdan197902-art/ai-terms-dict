@@ -1,23 +1,24 @@
 ---
-title: "Proveniența Conținutului"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Proveniența Conținutului
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /ro/terms/content_provenance/
-date: "2026-07-18T15:50:44.048134Z"
-lastmod: "2026-07-18T17:15:09.639647Z"
+slug: content_provenance
+date: '2026-07-18T15:50:44.048134Z'
+lastmod: '2026-07-18T17:15:09.639647Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Înregistrarea verificabilă a originii, istoricului și proprietății unei resurse digitale."
+source: agnes_llm
+status: published
+language: ro
+description: Înregistrarea verificabilă a originii, istoricului și proprietății unei
+  resurse digitale.
 ---
-
 ## Definition
 
 Proveniența conținutului se referă la documentarea și verificarea provenienței conținutului digital, a modului în care a fost creat și a persoanelor care l-au modificat în timp. În contextul inteligenței artificiale, este crucială pentru combaterea dezinformării și asigurarea transparenței.

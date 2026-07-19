@@ -1,23 +1,24 @@
 ---
-title: "Calcolo neurale"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Calcolo neurale
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /it/terms/neural_computation/
-date: "2026-07-18T16:12:41.934649Z"
-lastmod: "2026-07-18T17:15:08.653177Z"
+slug: neural_computation
+date: '2026-07-18T16:12:41.934649Z'
+lastmod: '2026-07-18T17:15:08.653177Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di elaborazione delle informazioni all'interno di reti neurali artificiali ispirate ai neuroni biologici."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di elaborazione delle informazioni all'interno di reti neurali
+  artificiali ispirate ai neuroni biologici.
 ---
-
 ## Definition
 
 Il calcolo neurale si riferisce alle operazioni matematiche eseguite dai neuroni artificiali per trasformare i segnali di ingresso nelle risposte di uscita. Coinvolge somme pesate, funzioni di attivazione e backpropagation (retropropagazione dell'errore).

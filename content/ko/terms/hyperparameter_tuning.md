@@ -1,23 +1,23 @@
 ---
-title: "하이퍼파라미터 튜닝"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: 하이퍼파라미터 튜닝
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /ko/terms/hyperparameter_tuning/
-date: "2026-07-18T15:59:15.313514Z"
-lastmod: "2026-07-18T16:38:06.852063Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T15:59:15.313514Z'
+lastmod: '2026-07-18T16:38:06.852063Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델 성능을 최적화하기 위해 하이퍼파라미터의 가장 좋은 조합을 체계적으로 탐색하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델 성능을 최적화하기 위해 하이퍼파라미터의 가장 좋은 조합을 체계적으로 탐색하는 과정입니다.
 ---
-
 ## Definition
 
 하이퍼파라미터 튜닝은 다양한 하이퍼파라미터 세트를 평가하여 가장 높은 모델 정확도 또는 가장 낮은 오차율을 생성하는 구성을 찾는 것을 포함합니다. 일반적인 전략에는 그리드 서치, 랜덤 서치 등이 있습니다.

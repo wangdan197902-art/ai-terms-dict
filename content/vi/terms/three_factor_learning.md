@@ -1,23 +1,23 @@
 ---
-title: "Học ba yếu tố"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: Học ba yếu tố
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /vi/terms/three_factor_learning/
-date: "2026-07-18T16:14:42.225311Z"
-lastmod: "2026-07-18T16:38:07.812083Z"
+slug: three_factor_learning
+date: '2026-07-18T16:14:42.225311Z'
+lastmod: '2026-07-18T16:38:07.812083Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khung học tăng cường sử dụng các yếu tố phần thưởng, giá trị và chính sách để tối ưu hóa hành vi của tác nhân."
+source: agnes_llm
+status: published
+language: vi
+description: Một khung học tăng cường sử dụng các yếu tố phần thưởng, giá trị và chính
+  sách để tối ưu hóa hành vi của tác nhân.
 ---
-
 ## Definition
 
 Học ba yếu tố là một phương pháp cụ thể trong học tăng cường, phân rã quá trình học thành ba thành phần riêng biệt: tín hiệu phần thưởng, hàm giá trị và chính sách. T...

@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /ro/terms/ai_infrastructure/
 date: "2026-07-18T15:41:55.679389Z"
 lastmod: "2026-07-18T17:15:09.622590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Resursele de hardware, software și rețea necesare pentru dezvoltarea, antrenarea și implementarea la scară largă a modelelor de inteligență artificială."
 ---
-
 ## Definition
 
 Infrastructura IA cuprinde stiva tehnologică fundamentală necesară operațiunilor de inteligență artificială. Aceasta include hardware de calcul de înaltă performanță, cum ar fi GPU-uri și TPU-uri, stocare în cloud, sisteme de gestionare a datelor și instrumente de orchestrare a containerelor.

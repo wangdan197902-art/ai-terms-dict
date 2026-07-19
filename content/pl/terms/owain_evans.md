@@ -1,23 +1,25 @@
 ---
-title: "Owain Evans"
-term_id: "owain_evans"
-category: "basic_concepts"
-subcategory: ""
-tags: ["researcher", "interpretability", "ai_safety"]
+title: Owain Evans
+term_id: owain_evans
+category: basic_concepts
+subcategory: ''
+tags:
+- researcher
+- interpretability
+- AI Safety
 difficulty: 2
 weight: 1
-slug: "owain_evans"
-aliases:
-  - /pl/terms/owain_evans/
-date: "2026-07-18T16:10:19.094371Z"
-lastmod: "2026-07-18T17:15:08.904218Z"
+slug: owain_evans
+date: '2026-07-18T16:10:19.094371Z'
+lastmod: '2026-07-18T17:15:08.904218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Owain Evans to wybitny badacz i wykładowca znany z pracy nad interpretowalnością sztucznej inteligencji, mechanistyczną interpretowalnością oraz oceną zdolności rozumowania dużych modeli językowych."
+source: agnes_llm
+status: published
+language: pl
+description: Owain Evans to wybitny badacz i wykładowca znany z pracy nad interpretowalnością
+  sztucznej inteligencji, mechanistyczną interpretowalnością oraz oceną zdolności
+  rozumowania dużych modeli językowych.
 ---
-
 ## Definition
 
 Owain Evans to naukowiec zajmujący się informatyką i nauczyciel akademicki, obecnie związany z Center for AI Safety, a wcześniej z Anthropic. Jest szeroko uznawany za wkład w mechanistyczną interpretowalność modeli AI, co obejmuje analizę wewnętrznych reprezentacji i mechanizmów decyzyjnych dużych modeli językowych w celu zwiększenia ich bezpieczeństwa i przejrzystości.

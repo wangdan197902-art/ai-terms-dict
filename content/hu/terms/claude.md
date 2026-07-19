@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /hu/terms/claude/
 date: "2026-07-18T15:37:16.238040Z"
 lastmod: "2026-07-18T17:15:09.739113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Claude az Anthropic által kifejlesztett nagy nyelvi modellek családa, amelyek segítőkész, ártalmatlan és őszinte mesterséges intelligencia asszisztensek."
 ---
-
 ## Definition
 
 A Claude az AI-biztonsági cég, az Anthropic által létrehozott fejlett nagy nyelvi modellek sorozata. Erős illeszkedési elveiről és alkotmányos AI keretrendszeréről ismert, a Claude célja, hogy hasznos, biztonságos és etikus legyen.

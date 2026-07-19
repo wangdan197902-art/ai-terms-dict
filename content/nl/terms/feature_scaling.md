@@ -1,23 +1,24 @@
 ---
-title: "Feature Scaling"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Feature Scaling
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /nl/terms/feature_scaling/
-date: "2026-07-18T15:55:19.995002Z"
-lastmod: "2026-07-18T17:15:08.744724Z"
+slug: feature_scaling
+date: '2026-07-18T15:55:19.995002Z'
+lastmod: '2026-07-18T17:15:08.744724Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het normaliseren van het bereik van onafhankelijke variabelen of kenmerken van data om uniformiteit in grootte te waarborgen."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het normaliseren van het bereik van onafhankelijke variabelen
+  of kenmerken van data om uniformiteit in grootte te waarborgen.
 ---
-
 ## Definition
 
 Feature scaling standaardiseert het bereik van invoervariabelen om te voorkomen dat kenmerken met grotere waarden het leerproces domineren. Veelvoorkomende methoden zijn normalisatie (min-max-schaling) en standaardisatie (z-score normalisatie), die helpen bij het convergeren van optimalisatiealgoritmen zoals gradient descent.

@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /he/terms/supervised/
 date: "2026-07-18T15:30:49.302306Z"
 lastmod: "2026-07-18T17:15:09.488420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פרדיגמה בלמידת מכונה שבה מודלים מאומנים על זוגות קלט-פלט מסומנים."
 ---
-
 ## Definition
 
 למידה מפוקחת כרוכה בהזנת אלגוריתם עם נתונים הכוללים גם קלטים וגם תשובות נכונות (תוויות). המודל לומד למפות קלטים לפלטים על ידי מזעור שגיאות חיזוי.

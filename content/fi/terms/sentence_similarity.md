@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /fi/terms/sentence_similarity/
 date: "2026-07-18T16:19:56.510169Z"
 lastmod: "2026-07-18T17:15:09.458419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mittari tai tehtävä, joka kvantifioi kahden lauseen semanttista samankaltaisuutta, usein numeerisena pistemääränä."
 ---
-
 ## Definition
 
 Lauseiden samankaltaisuus mittaa kahden eri lauseen semanttista päällekkäisyyttä. Se menee sanaston tasaisen vastaavuuden yli ymmärtääkseen merkityksen, kontekstin ja tarkoituksen. Tämä saavutetaan yleensä vertaamalla lauseiden vektoriesityksiä.

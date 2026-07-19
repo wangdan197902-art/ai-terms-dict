@@ -1,23 +1,24 @@
 ---
-title: "Αιτιακό"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Αιτιακό
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /el/terms/causal/
-date: "2026-07-18T15:24:15.135644Z"
-lastmod: "2026-07-18T17:15:09.841325Z"
+slug: causal
+date: '2026-07-18T15:24:15.135644Z'
+lastmod: '2026-07-18T17:15:09.841325Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η αιτιακή συλλογιστική περιλαμβάνει τον προσδιορισμό των σχέσεων αιτίου και αποτελέσματος μεταξύ μεταβλητών, αντί απλώς την ταυτοποίηση στατιστικών συσχετίσεων."
+source: agnes_llm
+status: published
+language: el
+description: Η αιτιακή συλλογιστική περιλαμβάνει τον προσδιορισμό των σχέσεων αιτίου
+  και αποτελέσματος μεταξύ μεταβλητών, αντί απλώς την ταυτοποίηση στατιστικών συσχετίσεων.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, η αιτιακή μοντελοποίηση στοχεύει στην κατανόηση του τρόπου με τον οποίο οι παρεμβάσεις σε μία μεταβλητή επηρεάζουν μία άλλη. Σε αντίθεση με τα προβλεπτικά μοντέλα που βασίζονται σε παρατηρούμενα μοτίβα, η αιτιακή ΤΝ χρησιμοποιεί δομικές εξισώσεις για να απομονώσει τις αιτιακές επιδράσεις.

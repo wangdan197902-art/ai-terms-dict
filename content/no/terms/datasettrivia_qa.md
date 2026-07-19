@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /no/terms/datasettrivia_qa/
 date: "2026-07-18T15:50:23.818381Z"
 lastmod: "2026-07-18T16:38:06.991150Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et omfattende datasett for åpen domene-spørsmålsbesvarelse som inneholder millioner av spørsmål og svar innenfor ulike trivia-områder."
 ---
-
 ## Definition
 
 TriviaQA er et datasett designet for åpen domene-spørsmålsbesvarelse, med over en million spørsmål og deres tilhørende svar. Det ble laget for å utfordre eksisterende modeller ved å kreve at de integrerer kunnskap fra flere kilder.

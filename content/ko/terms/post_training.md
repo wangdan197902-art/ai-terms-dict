@@ -1,23 +1,23 @@
 ---
-title: "사후 훈련"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: 사후 훈련
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /ko/terms/post_training/
-date: "2026-07-18T15:32:37.788084Z"
-lastmod: "2026-07-18T16:38:06.791229Z"
+slug: post_training
+date: '2026-07-18T15:32:37.788084Z'
+lastmod: '2026-07-18T16:38:06.791229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특정 작업에 적응하거나 성능을 최적화하기 위해 사전 훈련된 모델을 특정 데이터셋으로 정제하는 단계."
+source: agnes_llm
+status: published
+language: ko
+description: 특정 작업에 적응하거나 성능을 최적화하기 위해 사전 훈련된 모델을 특정 데이터셋으로 정제하는 단계.
 ---
-
 ## Definition
 
 사후 훈련은 대규모 일반 데이터로 초기 사전 훈련이 완료된 후 발생하는 머신러닝 라이프사이클의 중요한 단계입니다. 이 단계에서 모델은 특정 태스크에 맞게 미세 조정되거나, 인간 선호도와 정렬되며, 효율성을 위해 양자화되기도 합니다.

@@ -1,23 +1,24 @@
 ---
-title: "อัลฟาชิป"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: อัลฟาชิป
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /th/terms/alphachip/
-date: "2026-07-18T15:40:13.060181Z"
-lastmod: "2026-07-18T16:38:07.572555Z"
+slug: alphachip
+date: '2026-07-18T15:40:13.060181Z'
+lastmod: '2026-07-18T16:38:07.572555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เครื่องมือออกแบบชิปที่ขับเคลื่อนด้วยปัญญาประดิษฐ์ ซึ่งพัฒนาโดย Google DeepMind โดยใช้การเรียนรู้แบบเสริมกำลังเพื่อปรับปรุงการจัดวางวงจรบูรณาการ"
+source: agnes_llm
+status: published
+language: th
+description: เครื่องมือออกแบบชิปที่ขับเคลื่อนด้วยปัญญาประดิษฐ์ ซึ่งพัฒนาโดย Google
+  DeepMind โดยใช้การเรียนรู้แบบเสริมกำลังเพื่อปรับปรุงการจัดวางวงจรบูรณาการ
 ---
-
 ## Definition
 
 อัลฟาชิปเป็นระบบปัญญาประดิษฐ์เฉพาะทางที่ออกแบบมาเพื่อทำให้กระบวนการจัดวางและเดินสายประกอบชิ้นส่วนบนไมโครชิปเป็นไปโดยอัตโนมัติและมีประสิทธิภาพมากขึ้น โดยการใช้การเรียนรู้แบบเสริมกำลังขั้นสูง (deep reinforcement learning) ระบบนี้ช่วยลดเวลาในการออกแบบได้อย่างมีนัยสำคัญ

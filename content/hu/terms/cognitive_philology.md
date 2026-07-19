@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /hu/terms/cognitive_philology/
 date: "2026-07-18T15:50:12.606195Z"
 lastmod: "2026-07-18T17:15:09.762930Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A kognitív filológia számítógépes módszereket és a kognitív tudomány elveit alkalmazza a nyelv, az irodalom és a szövegtörténet tanulmányozására."
 ---
-
 ## Definition
 
 A kognitív filológia egy interdiszciplináris terület, amely összeköti a digitális humán tudományokat, a nyelvészetet és a kognitív tudományt a szövegek és a nyelvi evolúció elemzésére. Számítógépes eszközöket használ a szövegek feldolgozására és elemzésére.

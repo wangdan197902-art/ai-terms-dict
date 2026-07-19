@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /hu/terms/alignment/
 date: "2026-07-18T15:22:26.336591Z"
 lastmod: "2026-07-18T17:15:09.713019Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A folyamat, amely biztosítja, hogy egy AI rendszer céljai és viselkedése összhangban legyenek az emberi értékekkel és szándékokkal."
 ---
-
 ## Definition
 
 Az igazítás arra fókuszál, hogy az AI rendszerek azt tegyék, amit az emberek valójában akarnak, nem pedig csak azt, amit szó szerint kérnek. Magában foglal olyan technikákat, mint az Emberi Visszajelzésen alapuló Erősített Tanulás (RLHF) a modellek viselkedésének formálására.

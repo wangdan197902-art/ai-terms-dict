@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /ja/terms/explainability/
 date: "2026-07-18T10:58:50.316075Z"
 lastmod: "2026-07-18T11:44:45.047476Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "説明可能性とは、人間がAIモデルが下した決定の原因を理解できる度合いを指します。"
 ---
-
 ## Definition
 
 この概念は、SHAPやLIMEなどの手法を用いてモデルが特定の予測に至るプロセスに関する洞察を提供することで、複雑なAIシステムの「ブラックボックス」問題に対処します。これにより、機能の重要度を可視化できます。

@@ -1,23 +1,23 @@
 ---
-title: "隐私"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: 隐私
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /zh/terms/privacy/
-date: "2026-07-18T10:54:02.537111Z"
-lastmod: "2026-07-18T11:44:45.382007Z"
+slug: privacy
+date: '2026-07-18T10:54:02.537111Z'
+lastmod: '2026-07-18T11:44:45.382007Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "个人控制其个人信息在AI系统中如何被收集、使用和共享的权利。"
+source: agnes_llm
+status: published
+language: zh
+description: 个人控制其个人信息在AI系统中如何被收集、使用和共享的权利。
 ---
-
 ## Definition
 
 在人工智能领域，隐私指的是在数据收集、模型训练和推理阶段，保护敏感用户信息免受未经授权的访问或滥用。它涉及……

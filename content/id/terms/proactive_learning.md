@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran Proaktif"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Pembelajaran Proaktif
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /id/terms/proactive_learning/
-date: "2026-07-18T16:04:47.054581Z"
-lastmod: "2026-07-18T16:38:07.495580Z"
+slug: proactive_learning
+date: '2026-07-18T16:04:47.054581Z'
+lastmod: '2026-07-18T16:38:07.495580Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Strategi pembelajaran di mana agen secara aktif memilih titik data informatif untuk ditanyakan atau dieksplorasi, alih-alih menerimanya secara pasif."
+source: agnes_llm
+status: published
+language: id
+description: Strategi pembelajaran di mana agen secara aktif memilih titik data informatif
+  untuk ditanyakan atau dieksplorasi, alih-alih menerimanya secara pasif.
 ---
-
 ## Definition
 
 Dalam pembelajaran proaktif, sistem AI menentukan sampel mana yang paling dapat mengurangi ketidakpastian atau meningkatkan kinerja model, sering kali melalui strategi pembelajaran aktif atau eksplorasi. Ini bertentangan dengan...

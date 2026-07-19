@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /ja/terms/bias/
 date: "2026-07-18T07:41:47.407833Z"
 lastmod: "2026-07-18T11:44:44.586018Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "特定のグループや個人に対して不公平な結果をもたらす、AIモデルにおける系統的な偏見。"
 ---
-
 ## Definition
 
 AI倫理において、バイアスとは、アルゴリズム的な意思決定における系統的かつ不公平な差別を指し、しばしば歪んだ訓練データや欠陥のあるモデル設計に起因します。これは、特定の集団に悪影響を及ぼす可能性があります。

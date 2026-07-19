@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /vi/terms/docker/
 date: "2026-07-18T15:34:34.619218Z"
 lastmod: "2026-07-18T16:38:07.708144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Docker là một nền tảng để phát triển, phân phối và chạy các ứng dụng trong các container nhẹ và di động."
 ---
-
 ## Definition
 
 Docker cho phép các nhà phát triển đóng gói một ứng dụng cùng với tất cả các phụ thuộc của nó vào một đơn vị chuẩn hóa cho phát triển phần mềm. Các container này cô lập phần mềm khỏi môi trường của nó, đảm bảo tính nhất quán.

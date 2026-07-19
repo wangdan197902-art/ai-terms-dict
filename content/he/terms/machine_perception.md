@@ -1,23 +1,24 @@
 ---
-title: "תפיסת מכונה"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: תפיסת מכונה
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /he/terms/machine_perception/
-date: "2026-07-18T16:11:36.448611Z"
-lastmod: "2026-07-18T17:15:09.562005Z"
+slug: machine_perception
+date: '2026-07-18T16:11:36.448611Z'
+lastmod: '2026-07-18T17:15:09.562005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "היכולת של מערכות בינה מלאכותית לפרש ולהבין נתונים חושיים מהסביבה, כגון תמונות, אודיו או קריאות חיישנים."
+source: agnes_llm
+status: published
+language: he
+description: היכולת של מערכות בינה מלאכותית לפרש ולהבין נתונים חושיים מהסביבה, כגון
+  תמונות, אודיו או קריאות חיישנים.
 ---
-
 ## Definition
 
 תפיסת מכונה גשרת על הפער בין קלט חיישנים גולמיים להבנה סמנטית משמעותית, ומחקה חושים אנושיים כמו ראייה ושמוע. הטכנולוגיות המרכזיות כוללות ראייה ממוחשבת לזיהוי עצמים, זיהוי דיבור לעיבוד שפה מדוברת, וטכניקות מיזוג חיישנים לשילוב נתונים ממקורות שונים.

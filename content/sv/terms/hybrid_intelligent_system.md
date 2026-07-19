@@ -1,23 +1,24 @@
 ---
-title: "Hybrid intelligentsystem"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: Hybrid intelligentsystem
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /sv/terms/hybrid_intelligent_system/
-date: "2026-07-18T16:02:49.703605Z"
-lastmod: "2026-07-18T17:15:09.012804Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T16:02:49.703605Z'
+lastmod: '2026-07-18T17:15:09.012804Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En AI-arkitektur som kombinerar flera beräkningsintelligenta tekniker, såsom neuronnät och symbolisk logik, för att lösa komplexa problem."
+source: agnes_llm
+status: published
+language: sv
+description: En AI-arkitektur som kombinerar flera beräkningsintelligenta tekniker,
+  såsom neuronnät och symbolisk logik, för att lösa komplexa problem.
 ---
-
 ## Definition
 
 Ett hybrid intelligentsystem (HIS) förenar olika AI-paradigm, vanligtvis genom att kombinera anslutningsorienterade metoder som neuronnät med symboliska metoder som expertsystem eller fuzzy-logik. Denna integr...

@@ -1,23 +1,24 @@
 ---
-title: "Mowa na mowę"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Mowa na mowę
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /pl/terms/speech_to_speech/
-date: "2026-07-18T16:18:57.343965Z"
-lastmod: "2026-07-18T17:15:08.920248Z"
+slug: speech_to_speech
+date: '2026-07-18T16:18:57.343965Z'
+lastmod: '2026-07-18T17:15:08.920248Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Paradygmat tłumaczenia, który konwertuje wejście mówione bezpośrednio na syntetyzowaną mowę w innym języku."
+source: agnes_llm
+status: published
+language: pl
+description: Paradygmat tłumaczenia, który konwertuje wejście mówione bezpośrednio
+  na syntetyzowaną mowę w innym języku.
 ---
-
 ## Definition
 
 Tłumaczenie mowa na mowę (STS) omija pośrednie reprezentacje tekstowe, konwertując bezpośrednio język mówiony A na język mówiony B. Podejście to ma na celu zachowanie prozodii, emocji i naturaln...

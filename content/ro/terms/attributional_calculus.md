@@ -1,23 +1,24 @@
 ---
-title: "Calcul Atributiv"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Calcul Atributiv
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /ro/terms/attributional_calculus/
-date: "2026-07-18T15:46:09.058494Z"
-lastmod: "2026-07-18T17:15:09.629855Z"
+slug: attributional_calculus
+date: '2026-07-18T15:46:09.058494Z'
+lastmod: '2026-07-18T17:15:09.629855Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un sistem logic formal utilizat pentru a reprezenta și raționa despre atribuirea cunoștințelor, specificând cine știe sau crede ce."
+source: agnes_llm
+status: published
+language: ro
+description: Un sistem logic formal utilizat pentru a reprezenta și raționa despre
+  atribuirea cunoștințelor, specificând cine știe sau crede ce.
 ---
-
 ## Definition
 
 Calculul atributiv este o ramură a logicii modale concentrată pe raționamentul despre stările epistemice. Oferă un cadru pentru modelarea afirmațiilor precum 'Agentul A știe că P' sau 'Agentul B crede în Q', fiind esențial pentru sistemele cu mai mulți agenți care trebuie să țină cont de cunoștințele și credințele reciproce.

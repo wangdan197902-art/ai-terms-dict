@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /vi/terms/claude/
 date: "2026-07-18T15:34:03.793722Z"
 lastmod: "2026-07-18T16:38:07.707222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Claude là một họ các mô hình ngôn ngữ lớn do Anthropic phát triển, được thiết kế để trở thành các trợ lý AI hữu ích, vô hại và trung thực."
 ---
-
 ## Definition
 
 Claude là một loạt các mô hình ngôn ngữ lớn tiên tiến được tạo ra bởi công ty an ninh AI Anthropic. Nổi tiếng với các nguyên tắc căn chỉnh mạnh mẽ và khung Constitutional AI, Claude tập trung vào việc hỗ trợ người dùng một cách an toàn và chính xác.

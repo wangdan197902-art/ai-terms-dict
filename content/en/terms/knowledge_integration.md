@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /en/terms/knowledge_integration/
 date: "2026-07-18T10:03:55.930165Z"
 lastmod: "2026-07-18T11:44:44.689200Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The process of combining heterogeneous knowledge sources into a unified, consistent representation for enhanced reasoning."
 ---
-
 ## Definition
 
 Knowledge integration involves merging data from diverse origins, such as databases, ontologies, and unstructured text, into a coherent schema. It addresses issues of semantic heterogeneity and inconsistency to create a single source of truth. This unified view enables more robust inference and decision-making by leveraging complementary information across different domains and formats.

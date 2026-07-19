@@ -1,23 +1,24 @@
 ---
-title: "Modelo baseado em energia"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: Modelo baseado em energia
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /pt/terms/energy_based_model/
-date: "2026-07-18T14:59:01.176318Z"
-lastmod: "2026-07-18T15:51:59.488550Z"
+slug: energy_based_model
+date: '2026-07-18T14:59:01.176318Z'
+lastmod: '2026-07-18T15:51:59.488550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um modelo probabilístico que atribui valores baixos de energia a configurações plausíveis e valores altos a configurações implausíveis."
+source: agnes_llm
+status: published
+language: pt
+description: Um modelo probabilístico que atribui valores baixos de energia a configurações
+  plausíveis e valores altos a configurações implausíveis.
 ---
-
 ## Definition
 
 Os Modelos Baseados em Energia (MBEs) definem uma distribuição de probabilidade sobre os dados de entrada usando uma função de densidade não normalizada derivada de uma função de energia. A função de energia mapeia pontos de dados para números reais, onde configurações mais prováveis recebem energias menores.

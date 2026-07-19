@@ -1,23 +1,24 @@
 ---
-title: "Prompt (Ερώτημα/Οδηγία)"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Prompt (Ερώτημα/Οδηγία)
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /el/terms/prompt/
-date: "2026-07-18T15:30:44.431329Z"
-lastmod: "2026-07-18T17:15:09.852334Z"
+slug: prompt
+date: '2026-07-18T15:30:44.431329Z'
+lastmod: '2026-07-18T17:15:09.852334Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα κείμενο εισόδου ή οδηγία που παρέχεται σε ένα μοντέλο γενετικής Τεχνητής Νοημοσύνης για να προκαλέσει μια συγκεκριμένη απόκριση ή συμπεριφορά."
+source: agnes_llm
+status: published
+language: el
+description: Ένα κείμενο εισόδου ή οδηγία που παρέχεται σε ένα μοντέλο γενετικής Τεχνητής
+  Νοημοσύνης για να προκαλέσει μια συγκεκριμένη απόκριση ή συμπεριφορά.
 ---
-
 ## Definition
 
 Ένα prompt λειτουργεί ως η βασική διεπαφή για την αλληλεπίδραση με μεγάλα γλωσσικά μοντέλα και άλλα συστήματα γενετικής ΤΝ. Ορίζει το πλαίσιο, τον τόνο και τους περιορισμούς για την έξοδο του μοντέλου. Η αποτελεσματική σύνταξη prompts είναι κρίσιμη για την ποιότητα των αποτελεσμάτων.

@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /pt/terms/foundation/
 date: "2026-07-18T14:35:11.087585Z"
 lastmod: "2026-07-18T15:51:59.429956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um modelo pré-treinado em vastos conjuntos de dados para servir como base para várias tarefas subsequentes."
 ---
-
 ## Definition
 
 Na inteligência artificial, um modelo de fundação refere-se a um modelo de aprendizado de máquina de grande escala treinado em dados amplos em escala, como imagens, texto ou áudio. Esses modelos são projetados para serem adaptáveis a diversas tarefas downstream.

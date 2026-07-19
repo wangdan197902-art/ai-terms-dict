@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /de/terms/neural_network/
 date: "2026-07-18T10:52:17.985049Z"
 lastmod: "2026-07-18T11:44:44.879418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Computersystem, das von biologischen Gehirnen inspiriert ist und aus miteinander verbundenen Knoten oder Neuronen besteht, die in Schichten organisiert sind."
 ---
-
 ## Definition
 
 Ein neuronales Netzwerk ist eine Reihe von Algorithmen, die versuchen, zugrunde liegende Beziehungen in einem Datensatz durch einen Prozess zu erkennen, der die Funktionsweise des menschlichen Gehirns nachahmt. Es besteht aus mehreren Schichten von Neuronen.

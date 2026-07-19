@@ -1,23 +1,24 @@
 ---
-title: "การประมาณความหนาแน่นแบบเคอร์เนล (Kernel density estimation)"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: การประมาณความหนาแน่นแบบเคอร์เนล (Kernel density estimation)
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /th/terms/kernel_density_estimation/
-date: "2026-07-18T16:01:09.548753Z"
-lastmod: "2026-07-18T16:38:07.621114Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:01:09.548753Z'
+lastmod: '2026-07-18T16:38:07.621114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการแบบไม่ใช้พารามิเตอร์ (non-parametric) ใช้เพื่อประมาณฟังก์ชันความหนาแน่นของความน่าจะเป็นของตัวแปรสุ่ม โดยอาศัยตัวอย่างข้อมูลที่จำกัด"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการแบบไม่ใช้พารามิเตอร์ (non-parametric) ใช้เพื่อประมาณฟังก์ชันความหนาแน่นของความน่าจะเป็นของตัวแปรสุ่ม
+  โดยอาศัยตัวอย่างข้อมูลที่จำกัด
 ---
-
 ## Definition
 
 การประมาณความหนาแน่นแบบเคอร์เนล (KDE) เป็นเทคนิคทางสถิติพื้นฐานที่ใช้ทำให้ข้อมูลแบบไม่ต่อเนื่องมีความเรียบเนียนเพื่อสร้างเส้นโค้งการแจกแจงความน่าจะเป็นแบบต่อเนื่อง โดยจะวางฟังก์ชันเคอร์เนล (โดยทั่วไปคือฟังก์ชันเกาส์เซียน) ไว้ที่แต่ละจุดข้อมูล

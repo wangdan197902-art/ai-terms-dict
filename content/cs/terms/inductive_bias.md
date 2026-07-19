@@ -1,23 +1,24 @@
 ---
-title: "Inductive Bias"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Inductive Bias
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /cs/terms/inductive_bias/
-date: "2026-07-18T16:02:40.145874Z"
-lastmod: "2026-07-18T17:15:09.141956Z"
+slug: inductive_bias
+date: '2026-07-18T16:02:40.145874Z'
+lastmod: '2026-07-18T17:15:09.141956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Sada předpokladů, které učící se algoritmus používá k predikci výstupů pro vstupy, které nebyly během tréninku viděny."
+source: agnes_llm
+status: published
+language: cs
+description: Sada předpokladů, které učící se algoritmus používá k predikci výstupů
+  pro vstupy, které nebyly během tréninku viděny.
 ---
-
 ## Definition
 
 Induktivní bias představuje vnitřní preference nebo omezení zabudovaná do modelu strojového učení, která mu umožňují generalizovat z trénovacích dat na nevidená data. Bez takovýchto biasů by model nemohl generalizovat.

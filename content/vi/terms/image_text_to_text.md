@@ -1,23 +1,24 @@
 ---
-title: "Chuyển đổi Văn bản từ Hình ảnh và Văn bản"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Chuyển đổi Văn bản từ Hình ảnh và Văn bản
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /vi/terms/image_text_to_text/
-date: "2026-07-18T15:57:39.836307Z"
-lastmod: "2026-07-18T16:38:07.768401Z"
+slug: image_text_to_text
+date: '2026-07-18T15:57:39.836307Z'
+lastmod: '2026-07-18T16:38:07.768401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khả năng AI đa phương thức tạo ra mô tả văn bản hoặc câu trả lời dựa trên hình ảnh đầu vào và các gợi ý văn bản tùy chọn."
+source: agnes_llm
+status: published
+language: vi
+description: Một khả năng AI đa phương thức tạo ra mô tả văn bản hoặc câu trả lời
+  dựa trên hình ảnh đầu vào và các gợi ý văn bản tùy chọn.
 ---
-
 ## Definition
 
 Chuyển đổi Văn bản từ Hình ảnh và Văn bản đề cập đến các mô hình xử lý đầu vào trực quan cùng với các truy vấn văn bản để tạo ra đầu ra ngôn ngữ tự nhiên mạch lạc. Các hệ thống này, thường được gọi là Mô hình Ngôn ngữ - Thị giác (VLMs), kết hợp...

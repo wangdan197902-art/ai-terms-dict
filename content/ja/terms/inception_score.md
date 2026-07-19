@@ -1,23 +1,23 @@
 ---
-title: "インセプション・スコア"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: インセプション・スコア
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /ja/terms/inception_score/
-date: "2026-07-18T11:19:27.567974Z"
-lastmod: "2026-07-18T11:44:45.108747Z"
+slug: inception_score
+date: '2026-07-18T11:19:27.567974Z'
+lastmod: '2026-07-18T11:44:45.108747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "生成された画像の品質を評価するために用いられる指標で、画像の鮮明さと多様性の両方を測定します。"
+source: agnes_llm
+status: published
+language: ja
+description: 生成された画像の品質を評価するために用いられる指標で、画像の鮮明さと多様性の両方を測定します。
 ---
-
 ## Definition
 
 インセプション・スコア（IS）は、生成敵対ネットワーク（GAN）やその他の生成モデルのパフォーマンスを評価するために導入された統計的尺度です。これは、画像の品質（鮮明さ）と多様性の2つの要素を組み合わせています。

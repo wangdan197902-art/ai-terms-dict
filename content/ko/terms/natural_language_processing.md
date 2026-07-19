@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /ko/terms/natural_language_processing/
 date: "2026-07-18T15:27:21.460630Z"
 lastmod: "2026-07-18T16:38:06.779699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "컴퓨터가 인간의 언어를 이해하고 해석하며 생성할 수 있도록 하는 인공지능의 한 분야."
 ---
-
 ## Definition
 
 자연어 처리(NLP)는 인공 지능의 하위 분야로, 계산 언어학과 통계적, 기계 학습 및 딥러닝 모델을 결합합니다. 이를 통해 기계는 텍스트나 음성 형태의 인간 언어를 처리하고 이해할 수 있게 됩니다.

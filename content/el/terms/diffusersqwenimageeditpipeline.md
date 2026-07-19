@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /el/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T16:02:59.639664Z"
-lastmod: "2026-07-18T17:15:09.901518Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T16:02:59.639664Z'
+lastmod: '2026-07-18T17:15:09.901518Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια γραμμή εργασίας (pipeline) στη βιβλιοθήκη Hugging Face Diffusers που αξιοποιεί τα μοντέλα Qwen-VL για εργασίες επεξεργασίας εικόνας με βάση οδηγίες κειμένου."
+source: agnes_llm
+status: published
+language: el
+description: Μια γραμμή εργασίας (pipeline) στη βιβλιοθήκη Hugging Face Diffusers
+  που αξιοποιεί τα μοντέλα Qwen-VL για εργασίες επεξεργασίας εικόνας με βάση οδηγίες
+  κειμένου.
 ---
-
 ## Definition
 
 Αυτή η γραμμή εργασίας ενσωματώνει τις δυνατότητες του μοντέλου Qwen-Vision-Language στο πλαίσιο Diffusers για την εκτέλεση ακριβών τροποποιήσεων σε εικόνες με βάση οδηγίες φυσικής γλώσσας. Σε αντίθεση με τις γεννητικές γραμμές εργασίας...

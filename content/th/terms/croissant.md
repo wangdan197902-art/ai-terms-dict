@@ -1,23 +1,23 @@
 ---
-title: "ครัวซองต์ (Croissant)"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: ครัวซองต์ (Croissant)
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /th/terms/croissant/
-date: "2026-07-18T15:47:03.838957Z"
-lastmod: "2026-07-18T16:38:07.590535Z"
+slug: croissant
+date: '2026-07-18T15:47:03.838957Z'
+lastmod: '2026-07-18T16:38:07.590535Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ครัวซองต์คือรูปแบบเมตาดาตาแบบโอเพนซอร์สสำหรับอธิบายชุดข้อมูล ช่วยอำนวยความสะดวกในการค้นพบและการทำงานร่วมกันได้ในปัญญาประดิษฐ์"
+source: agnes_llm
+status: published
+language: th
+description: ครัวซองต์คือรูปแบบเมตาดาตาแบบโอเพนซอร์สสำหรับอธิบายชุดข้อมูล ช่วยอำนวยความสะดวกในการค้นพบและการทำงานร่วมกันได้ในปัญญาประดิษฐ์
 ---
-
 ## Definition
 
 พัฒนาขึ้นภายใต้โครงการ MLCommons ครัวซองต์ใช้ JSON-LD เพื่อ提供一个มาตรฐานในการอธิบายชุดข้อมูล รวมถึงโครงสร้าง การอ้างอิงสิทธิ์ และใบอนุญาต มีเป้าหมายเพื่อแก้ปัญหาความเปราะบางและความไม่เข้ากันได้ของเมตาดาตาชุดข้อมูลในปัจจุบัน

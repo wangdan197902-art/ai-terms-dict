@@ -1,23 +1,23 @@
 ---
-title: "프롬프트"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: 프롬프트
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /ko/terms/prompt/
-date: "2026-07-18T15:28:10.934010Z"
-lastmod: "2026-07-18T16:38:06.781663Z"
+slug: prompt
+date: '2026-07-18T15:28:10.934010Z'
+lastmod: '2026-07-18T16:38:06.781663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "생성형 AI 모델에 특정 응답이나 행동을 유도하기 위해 제공되는 입력 텍스트 또는 지시사항입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 생성형 AI 모델에 특정 응답이나 행동을 유도하기 위해 제공되는 입력 텍스트 또는 지시사항입니다.
 ---
-
 ## Definition
 
 프롬프트는 대규모 언어 모델(Large Language Models) 및 기타 생성형 AI 시스템과 상호작용하는 주요 인터페이스 역할을 합니다. 이는 모델의 출력에 대한 맥락, 어조, 그리고 제약 조건을 정의합니다. 효과적인 프롬프트 설계는 모델이 의도한 대로 작동하도록 하는 데 핵심적입니다.

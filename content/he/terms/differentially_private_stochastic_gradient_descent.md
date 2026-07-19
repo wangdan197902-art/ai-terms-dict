@@ -1,23 +1,25 @@
 ---
-title: "ירידה במדרון סטוכסטית פרופרית דיפרנציאלית"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: ירידה במדרון סטוכסטית פרופרית דיפרנציאלית
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /he/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:54:07.600581Z"
-lastmod: "2026-07-18T17:15:09.533231Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:54:07.600581Z'
+lastmod: '2026-07-18T17:15:09.533231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגוריתם אופטימיזציה המתקן את SGD הסטנדרטי על ידי גזירת נגזרות והוספת רעש כדי להבטיח שהמודל המאומן עומד באילוצי הפרטיות הדיפרנציאלית."
+source: agnes_llm
+status: published
+language: he
+description: אלגוריתם אופטימיזציה המתקן את SGD הסטנדרטי על ידי גזירת נגזרות והוספת
+  רעש כדי להבטיח שהמודל המאומן עומד באילוצי הפרטיות הדיפרנציאלית.
 ---
-
 ## Definition
 
 DP-SGD הוא וריאנט של ירידה במדרון סטוכסטית (SGD) המיועד להגן על פרטיות נתוני האימון. הוא פועל על ידי גזירת התרומה של הנגזרת של כל דגימה כדי להגביל את הרגישות, ולאחר מכן הוספת G

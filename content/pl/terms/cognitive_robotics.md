@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /pl/terms/cognitive_robotics/
 date: "2026-07-18T15:45:57.362560Z"
 lastmod: "2026-07-18T17:15:08.854854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Robotyka poznawcza to dziedzina skupiająca się na tworzeniu robotów o zdolnościach poznawczych podobnych do ludzkich, takich jak percepcja, rozumowanie i nauka."
 ---
-
 ## Definition
 
 Robotyka poznawcza integruje nauki o poznaniu z robotyką w celu budowy maszyn, które mogą postrzegać swoje otoczenie, uczyć się z doświadczenia i podejmować autonomiczne decyzje. Te roboty wykorzystują zaawansowane

@@ -7,8 +7,6 @@ tags: ["Game Theory", "Multi-Agent", "Negotiation"]
 difficulty: 4
 weight: 1
 slug: "zeuthen_strategy"
-aliases:
-  - /zh/terms/zeuthen_strategy/
 date: "2026-07-18T11:38:27.568098Z"
 lastmod: "2026-07-18T11:44:45.570104Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "多智能体系统中的一种谈判协议，根据智能体的效用损失来确定其何时应承担冲突风险。"
 ---
-
 ## Definition
 
 泽滕策略是一种基于规则的博弈方法，用于多智能体谈判。它计算智能体为推动其首选结果而愿意承担的最大风险，定义为智能体在坚持立场时可能遭受的效用损失与其在妥协时的效用损失之比，

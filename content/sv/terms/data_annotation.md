@@ -1,23 +1,24 @@
 ---
-title: "Dataannotering"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: Dataannotering
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /sv/terms/data_annotation/
-date: "2026-07-18T15:51:21.136612Z"
-lastmod: "2026-07-18T17:15:08.989721Z"
+slug: data_annotation
+date: '2026-07-18T15:51:21.136612Z'
+lastmod: '2026-07-18T17:15:08.989721Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Dataannotering är processen att märka rådata, såsom bilder eller text, för att göra den lämplig för träning av övervakad maskininlärning."
+source: agnes_llm
+status: published
+language: sv
+description: Dataannotering är processen att märka rådata, såsom bilder eller text,
+  för att göra den lämplig för träning av övervakad maskininlärning.
 ---
-
 ## Definition
 
 Detta kritiska steg innebär att fästa meningsfull metadata till rådatapunkter så att algoritmer kan lära sig relationen mellan indata och utdata. Till exempel, bounding boxes runt objekt i bild

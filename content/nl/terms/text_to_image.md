@@ -1,23 +1,25 @@
 ---
-title: "Text To Image"
-term_id: "text_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image_generation", "diffusion", "multimodal"]
+title: Text To Image
+term_id: text_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Generation
+- diffusion
+- multimodal
 difficulty: 2
 weight: 1
-slug: "text_to_image"
-aliases:
-  - /nl/terms/text_to_image/
-date: "2026-07-18T16:19:50.802472Z"
-lastmod: "2026-07-18T17:15:08.793284Z"
+slug: text_to_image
+date: '2026-07-18T16:19:50.802472Z'
+lastmod: '2026-07-18T17:15:08.793284Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek voor generatieve AI die visuele afbeeldingen maakt vanuit beschrijvende tekstprompts, gebruikmakend van modellen zoals Stable Diffusion of DALL-E."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek voor generatieve AI die visuele afbeeldingen maakt vanuit
+  beschrijvende tekstprompts, gebruikmakend van modellen zoals Stable Diffusion of
+  DALL-E.
 ---
-
 ## Definition
 
 Text To Image verwijst naar de toepassing van generatieve kunstmatige intelligentie om fotorealistische of artistieke afbeeldingen te synthetiseren op basis van natuurlijke taalbeschrijvingen. Deze systemen gebruiken doorgaans diffusiemodellen die iteratief ruis verwijderen om een afbeelding te creëren die nauw aansluit bij de semantische inhoud van de ingevoerde prompt.

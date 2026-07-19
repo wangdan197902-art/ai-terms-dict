@@ -1,23 +1,24 @@
 ---
-title: "Семантический поиск"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Семантический поиск
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /ru/terms/semantic_search/
-date: "2026-07-18T15:36:24.743716Z"
-lastmod: "2026-07-18T16:38:07.110490Z"
+slug: semantic_search
+date: '2026-07-18T15:36:24.743716Z'
+lastmod: '2026-07-18T16:38:07.110490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Технология поиска, понимающая смысл терминов запроса, а не просто сопоставляющая ключевые слова."
+source: agnes_llm
+status: published
+language: ru
+description: Технология поиска, понимающая смысл терминов запроса, а не просто сопоставляющая
+  ключевые слова.
 ---
-
 ## Definition
 
 Семантический поиск интерпретирует намерение и контекстуальный смысл запроса, выходя за рамки простого совпадения ключевых слов. Он использует векторные представления (эмбеддинги) для кодирования текста в высокоразмерном пространстве, что позволяет находить результаты по смыслу, даже если они не содержат точных совпадений слов из запроса.

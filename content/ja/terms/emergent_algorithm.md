@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /ja/terms/emergent_algorithm/
 date: "2026-07-18T11:13:32.525682Z"
 lastmod: "2026-07-18T11:44:45.094454Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "明示的にプログラムされていないにもかかわらず、単純な構成要素の相互作用から自発的に生じるアルゴリズム的な振る舞い。"
 ---
-
 ## Definition
 
 創発アルゴリズムとは、システム内にある多くの単純なエージェントやルール間の局所的な相互作用から、複雑なグローバルな振る舞いやパターンが生じる現象を指します。これは、トップダウン型の従来のプログラミングとは対照的です。

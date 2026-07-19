@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /th/terms/artificial_intelligence/
 date: "2026-07-18T15:22:37.178682Z"
 lastmod: "2026-07-18T16:38:07.530610Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การจำลองกระบวนการทางปัญญาของมนุษย์โดยระบบคอมพิวเตอร์"
 ---
-
 ## Definition
 
 ปัญญาประดิษฐ์ (AI) หมายถึงความสามารถของคอมพิวเตอร์ดิจิทัลหรือหุ่นยนต์ที่ควบคุมด้วยคอมพิวเตอร์ ในการปฏิบัติงานที่มักเกี่ยวข้องกับการกระทำของสิ่งมีชีวิตที่มีสติปัญญา ซึ่งครอบคลุมสาขาต่างๆ มากมาย

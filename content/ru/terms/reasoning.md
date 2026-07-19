@@ -1,23 +1,24 @@
 ---
-title: "Reasoning"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Reasoning
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /ru/terms/reasoning/
-date: "2026-07-18T15:36:07.358396Z"
-lastmod: "2026-07-18T16:38:07.109730Z"
+slug: reasoning
+date: '2026-07-18T15:36:07.358396Z'
+lastmod: '2026-07-18T16:38:07.109730Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Рассуждение — это когнитивный процесс вывода заключений, прогнозирования или решения проблем на основе имеющейся информации."
+source: agnes_llm
+status: published
+language: ru
+description: Рассуждение — это когнитивный процесс вывода заключений, прогнозирования
+  или решения проблем на основе имеющейся информации.
 ---
-
 ## Definition
 
 В ИИ рассуждение включает алгоритмы, имитирующие логический вывод, индукцию или абдукцию для обработки данных и генерации инсайтов. Оно охватывает такие техники, как символическая логика, вероятностный вывод и семантический анализ.

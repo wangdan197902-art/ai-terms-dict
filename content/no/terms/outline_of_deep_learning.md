@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /no/terms/outline_of_deep_learning/
 date: "2026-07-18T16:10:07.310441Z"
 lastmod: "2026-07-18T16:38:07.031188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En strukturert oversikt over metodikker, arkitekturer og optimaliseringsstrategier innen dyp læring."
 ---
-
 ## Definition
 
 Oversikten over dyp læring omfatter grunnleggende strukturer som neurale nettverklag, aktiveringsfunksjoner og tapsmål. Den detaljerer treningsteknikker inkludert backpropagasjon og gradient...

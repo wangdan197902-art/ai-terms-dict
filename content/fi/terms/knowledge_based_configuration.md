@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /fi/terms/knowledge_based_configuration/
 date: "2026-07-18T16:05:18.968649Z"
 lastmod: "2026-07-18T17:15:09.425881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Automaattinen prosessi, joka käyttää domain-kohtaista tietokantaa tuottaakseen kelvollisia tuotekonfiguraatioita käyttäjän asetuksista."
 ---
-
 ## Definition
 
 Tämä lähestymistapa käyttää tietokannan rajoitusten tyydyttämistekniikoita varmistamaan, että koottu tuote täyttää kaikki tekniset ja asiakkaan vaatimukset. Se estää virheelliset yhdistelmät koodaamalla domainin säännöt ja rajoitteet järjestelmään.

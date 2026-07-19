@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /es/terms/sparkles_emoji/
 date: "2026-07-18T11:08:31.143902Z"
 lastmod: "2026-07-18T11:44:44.855759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un símbolo visual utilizado a menudo en interfaces de IA para denotar nuevas funciones, mejoras o transformaciones mágicas en el contenido generado."
 ---
-
 ## Definition
 
 El emoji de destellos es un icono gráfico empleado frecuentemente en interfaces de usuario para aplicaciones de IA, indicando novedad, mejora o realce creativo. Sirve como una señal no verbal que sugiere que el contenido ha sido optimizado o enriquecido.

@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /zh/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T11:25:23.018254Z"
 lastmod: "2026-07-18T11:44:45.529389Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种基于机器学习的数学函数，用于预测原子之间的力和能量，作为昂贵量子力学计算的替代方案。"
 ---
-
 ## Definition
 
 这些势函数使得分子动力学模拟能够在接近量子力学精度的同时保持经典计算的速度。通过对密度泛函理论（DFT）的高保真数据进行训练，它们允...

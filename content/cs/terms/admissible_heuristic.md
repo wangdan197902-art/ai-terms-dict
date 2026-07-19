@@ -1,23 +1,24 @@
 ---
-title: "Přípustná heuristika"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: Přípustná heuristika
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /cs/terms/admissible_heuristic/
-date: "2026-07-18T15:40:46.308272Z"
-lastmod: "2026-07-18T17:15:09.099279Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:40:46.308272Z'
+lastmod: '2026-07-18T17:15:09.099279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Heuristická funkce ve vyhledávacích algoritmech, která nikdy nepřeceňuje skutečné náklady dosažení cíle, což zajišťuje optimálnost."
+source: agnes_llm
+status: published
+language: cs
+description: Heuristická funkce ve vyhledávacích algoritmech, která nikdy nepřeceňuje
+  skutečné náklady dosažení cíle, což zajišťuje optimálnost.
 ---
-
 ## Definition
 
 V problémech hledání cesty poskytuje přípustná heuristika dolní mez skutečných nákladů na dosažení cílového uzlu. Zaručením toho, že odhadnuté náklady jsou vždy menší nebo rovny

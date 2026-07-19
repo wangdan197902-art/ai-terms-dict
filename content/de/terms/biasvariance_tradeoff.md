@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /de/terms/biasvariance_tradeoff/
 date: "2026-07-18T11:05:59.512702Z"
 lastmod: "2026-07-18T11:44:44.915096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein fundamentales Problem im überwachtes Lernen, bei dem die Minimierung des Fehlers ein Gleichgewicht zwischen Modellkomplexität und Verallgemeinerungsfähigkeit erfordert."
 ---
-
 ## Definition
 
 Das Bias-Varianz-Dilemma beschreibt den Zielkonflikt zwischen Unteranpassung (hoher Bias) und Überanpassung (hohe Varianz). Modelle mit hohem Bias treffen starke Annahmen über die Daten und ignorieren möglicherweise relevante Muster, während Modelle mit hoher Varianz zu stark an Trainingsdaten angepasst sind und bei neuen Daten schlecht abschneiden.

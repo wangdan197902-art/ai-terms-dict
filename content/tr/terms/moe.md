@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /tr/terms/moe/
 date: "2026-07-18T16:04:32.780723Z"
 lastmod: "2026-07-18T16:38:07.336613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Birden fazla uzman sinir ağından oluşan ve girdileri işlemek için bir kapı mekanizması ile birleşen mimari bir desen."
 ---
-
 ## Definition
 
 Uzmanlar Karışımı (MoE), verimliliği ve ölçeklenebilirliği artırmak üzere tasarlanmış bir makine öğrenimi mimarisidir. Tüm görevler için tek bir büyük model kullanmak yerine, MoE birden fazla küçük 'uzman'

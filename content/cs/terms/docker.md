@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /cs/terms/docker/
 date: "2026-07-18T15:35:06.072730Z"
 lastmod: "2026-07-18T17:15:09.088705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Docker je platforma pro vývoj, distribuci a spouštění aplikací v lehkých, přenosných kontejnerech."
 ---
-
 ## Definition
 
 Docker umožňuje vývojářům zabalit aplikaci se všemi jejími závislostmi do standardizované jednotky pro softwarový vývoj. Tyto kontejnery izolují software od jeho prostředí, což zajišťuje konzistentní chování napříč různými systémy.

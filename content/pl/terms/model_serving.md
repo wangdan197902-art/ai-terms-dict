@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /pl/terms/model_serving/
 date: "2026-07-18T15:35:58.978586Z"
 lastmod: "2026-07-18T17:15:08.834160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces wdrażania wytrenowanych modeli uczenia maszynowego do środowisk produkcyjnych w celu generowania predykcji lub wyników dla użytkowników końcowych."
 ---
-
 ## Definition
 
 Serwowanie modelu polega na ujęciu statycznego, wytrenowanego modelu w skalowalną infrastrukturę, która obsługuje przychodzące żądania, wykonuje wnioskowanie i zwraca wyniki. Kluczowymi wyzwaniami są zarządzanie...

@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /da/terms/free/
 date: "2026-07-18T15:25:13.157612Z"
 lastmod: "2026-07-18T17:15:09.224611Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Beskriver ressourcer, software eller data, der er tilgængelige uden økonomisk omkostning eller restriktive licenser."
 ---
-
 ## Definition
 
 I AI-sammenhæng refererer 'gratis' typisk til open source-modeller, datasæt eller værktøjer, som brugere kan få adgang til, ændre og distribuere uden at betale gebyrer. Dette står i kontrast til proprietære løsninger, der

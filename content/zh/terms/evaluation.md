@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /zh/terms/evaluation/
 date: "2026-07-18T10:50:55.420532Z"
 lastmod: "2026-07-18T11:44:45.366780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "评估是根据预定义的指标和数据集，对AI模型的性能、准确性和鲁棒性进行评估的过程。"
 ---
-
 ## Definition
 
 评估涉及使用定量指标（如准确率、F1分数、BLEU分数）和定性分析，系统地测量AI模型在特定任务上的表现。它包括验证集测试、交叉验证以及对模型泛化能力、公平性和偏差的审计。有效的评估流程对于确保模型在实际部署中的可靠性、安全性和合规性至关重要。

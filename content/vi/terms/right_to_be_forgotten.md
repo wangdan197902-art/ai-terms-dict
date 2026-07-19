@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /vi/terms/right_to_be_forgotten/
 date: "2026-07-18T16:18:19.584016Z"
 lastmod: "2026-07-18T16:38:07.819291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khái niệm pháp lý cho phép cá nhân yêu cầu xóa dữ liệu cá nhân của họ do các tổ chức nắm giữ."
 ---
-
 ## Definition
 
 Quyền bị lãng quên cho phép người dùng yêu cầu loại bỏ thông tin cá nhân của họ khỏi cơ sở dữ liệu và tập huấn luyện AI. Việc triển khai điều này trong học máy là thách thức vì các mô hình có thể đã học và lưu trữ thông tin từ dữ liệu đó dưới dạng trọng số.

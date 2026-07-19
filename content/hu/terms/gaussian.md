@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /hu/terms/gaussian/
 date: "2026-07-18T15:26:31.091720Z"
 lastmod: "2026-07-18T17:15:09.720978Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A normális eloszlásra utal, egy haranggörbe formájú statisztikai alapfogalom, amely alapvető fontosságú az MI zajmodellezésében."
 ---
-
 ## Definition
 
 A Gauss-eloszlás a normális eloszlást jelöli, egy folytonos valószínűségi eloszlást, amelyet átlaga és varianciája jellemez. Az MI-ben széles körben alkalmazzák a valószínűségi modellezésben, a Bayes-i következtetésben és a

@@ -1,23 +1,24 @@
 ---
-title: "Kvantifikáció"
-term_id: "quantification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_processing", "fundamentals", "preprocessing"]
+title: Kvantifikáció
+term_id: quantification
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Processing
+- fundamentals
+- preprocessing
 difficulty: 2
 weight: 1
-slug: "quantification"
-aliases:
-  - /hu/terms/quantification/
-date: "2026-07-18T16:20:07.568920Z"
-lastmod: "2026-07-18T17:15:09.826559Z"
+slug: quantification
+date: '2026-07-18T16:20:07.568920Z'
+lastmod: '2026-07-18T17:15:09.826559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A kvantifikáció a minőségi attribútumok vagy absztrakt fogalmak numerikus kifejezésének folyamata az elemzés érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: A kvantifikáció a minőségi attribútumok vagy absztrakt fogalmak numerikus
+  kifejezésének folyamata az elemzés érdekében.
 ---
-
 ## Definition
 
 Az AI és az adattudomány kontextusában a kvantifikáció a nem numerikus adatok, például szöveg, képek vagy szubjektív vélemények átalakítását jelenti mérhető numerikus értékekké. Ez a folyamat lehetővé teszi...

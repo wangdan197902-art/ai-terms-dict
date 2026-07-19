@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /he/terms/artificial_intimacy/
 date: "2026-07-18T15:43:02.987394Z"
 lastmod: "2026-07-18T17:15:09.513953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "החיבור הרגשי שיוצרים משתמשים עם ישויות בינה מלאכותית הדומות לאמפתיה, ללווי ולאינטראקציה אישית."
 ---
-
 ## Definition
 
 אינטימיות מלאכותית מתייחסת לתופעה פסיכולוגית שבה בני אדם מפתחים קשרים רגשיים אמיתיים עם סוכנים מלאכותיים, כגון צ'אטבוטים, עוזרים וירטואליים או רובוטים חברתיים. מערכות אלו נועדו

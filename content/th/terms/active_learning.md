@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้เชิงรุก"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: การเรียนรู้เชิงรุก
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /th/terms/active_learning/
-date: "2026-07-18T15:39:32.713912Z"
-lastmod: "2026-07-18T16:38:07.570790Z"
+slug: active_learning
+date: '2026-07-18T15:39:32.713912Z'
+lastmod: '2026-07-18T16:38:07.570790Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์แมชชีนเลิร์นนิงที่อัลกอริทึมเลือกสอบถามผู้ใช้หรือโอราเคิลเพื่อติดป้ายกำกับข้อมูลใหม่ ช่วยเพิ่มประสิทธิภาพกระบวนการฝึกฝน"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์แมชชีนเลิร์นนิงที่อัลกอริทึมเลือกสอบถามผู้ใช้หรือโอราเคิลเพื่อติดป้ายกำกับข้อมูลใหม่
+  ช่วยเพิ่มประสิทธิภาพกระบวนการฝึกฝน
 ---
-
 ## Definition
 
 การเรียนรู้เชิงรุกช่วยลดปริมาณข้อมูลที่จำเป็นต้องมีการติดป้ายกำกับ โดยอนุญาตให้โมเดลเลือกตัวอย่างที่มีข้อมูลมากที่สุดสำหรับการติดป้ายกำกับโดยมนุษย์ แทนที่จะรับตัวอย่างสุ่มแบบพาสซีฟ อัลกอริทึมจะเลือกจุดข้อมูลที่มีความไม่แน่นอนสูงหรือให้ข้อมูลมากที่สุดเพื่อขอคำอธิบาย

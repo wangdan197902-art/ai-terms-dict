@@ -1,23 +1,24 @@
 ---
-title: "Квантовое машинное обучение"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: Квантовое машинное обучение
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /ru/terms/quantum_machine_learning/
-date: "2026-07-18T16:11:56.492379Z"
-lastmod: "2026-07-18T16:38:07.195968Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:11:56.492379Z'
+lastmod: '2026-07-18T16:38:07.195968Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Квантовое машинное обучение сочетает квантовые вычисления с алгоритмами машинного обучения для более быстрого или эффективного решения задач."
+source: agnes_llm
+status: published
+language: ru
+description: Квантовое машинное обучение сочетает квантовые вычисления с алгоритмами
+  машинного обучения для более быстрого или эффективного решения задач.
 ---
-
 ## Definition
 
 Квантовое машинное обучение (QML) — это развивающаяся междисциплинарная область, интегрирующая возможности квантовых вычислений с техниками машинного обучения. Оно стремится использовать квантовые явления, такие как запутанность и интерференция, для ускорения вычислительных процессов.

@@ -1,23 +1,24 @@
 ---
-title: "ประสิทธิภาพ"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: ประสิทธิภาพ
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /th/terms/efficient/
-date: "2026-07-18T15:24:50.569113Z"
-lastmod: "2026-07-18T16:38:07.536420Z"
+slug: efficient
+date: '2026-07-18T15:24:50.569113Z'
+lastmod: '2026-07-18T16:38:07.536420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ในบริบทของ AI ประสิทธิภาพหมายถึงการบรรลุผลงานที่ดีที่สุดโดยใช้ทรัพยากรน้อยที่สุด เช่น เวลา หน่วยความจำ หรือพลังการคำนวณ"
+source: agnes_llm
+status: published
+language: th
+description: ในบริบทของ AI ประสิทธิภาพหมายถึงการบรรลุผลงานที่ดีที่สุดโดยใช้ทรัพยากรน้อยที่สุด
+  เช่น เวลา หน่วยความจำ หรือพลังการคำนวณ
 ---
-
 ## Definition
 
 ประสิทธิภาพเป็นเมตริกสำคัญในปัญญาประดิษฐ์ที่วัดว่าโมเดลหรืออัลกอริทึมใช้ทรัพยากรที่มีอยู่ได้ดีเพียงใด โดยครอบคลุมทั้งประสิทธิภาพในการคำนวณ (ความเร็วในการอนุมานและการฝึกฝน) และการจัดการทรัพยากรอย่างเหมาะสมเพื่อให้ได้ผลลัพธ์สูงสุดภายใต้ข้อจำกัดด้านพลังงานและเวลา

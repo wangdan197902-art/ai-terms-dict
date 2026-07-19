@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /ko/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:53:20.806797Z"
-lastmod: "2026-07-18T16:38:06.833128Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:53:20.806797Z'
+lastmod: '2026-07-18T16:38:06.833128Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "U-Net과 CLIP 인코더를 사용하여 텍스트-이미지 생성을 수행하는 Stable Diffusion v1.5 실행을 위한 표준 파이프라인입니다."
+source: agnes_llm
+status: published
+language: ko
+description: U-Net과 CLIP 인코더를 사용하여 텍스트-이미지 생성을 수행하는 Stable Diffusion v1.5 실행을 위한 표준
+  파이프라인입니다.
 ---
-
 ## Definition
 
 이는 범용 텍스트-이미지 합성에 널리 사용되는 Stable Diffusion v1.5 모델의 기반 파이프라인입니다. U-Net 디노이저와 CLIP 텍스트 인코더를 의존하여 텍스트 프롬프트를 매핑합니다.

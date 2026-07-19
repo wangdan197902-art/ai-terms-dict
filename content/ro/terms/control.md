@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /ro/terms/control/
 date: "2026-07-18T15:24:27.343338Z"
 lastmod: "2026-07-18T17:15:09.591195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de gestionare, dirijare sau reglare a comportamentului și stării unui sistem pentru a obține rezultate dorite."
 ---
-
 ## Definition
 
 În inteligența artificială, controlul se referă la mecanismele și algoritmii utilizați pentru a ghida acțiunile unui sistem în funcție de stările curente și obiective. Acesta implică bucle de reacție (feedback) în care ieșirea este monitorizată și utilizată pentru a ajusta intrarea sau acțiunile viitoare.

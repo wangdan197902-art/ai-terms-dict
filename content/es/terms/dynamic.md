@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /es/terms/dynamic/
 date: "2026-07-18T10:22:03.819129Z"
 lastmod: "2026-07-18T11:44:44.738722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Dinámico se refiere a sistemas de IA o gráficos computacionales que adaptan su estructura, comportamiento o flujo de ejecución en tiempo real en función de los datos de entrada o cambios ambientales."
 ---
-
 ## Definition
 
 A diferencia de los sistemas estáticos con arquitecturas fijas o rutas de ejecución predeterminadas, los sistemas de IA dinámicos pueden modificar sus operaciones durante la ejecución. En el aprendizaje profundo, los gráficos computacionales dinámicos permiten la construcción del grafo sobre la marcha.

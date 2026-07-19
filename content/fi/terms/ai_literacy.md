@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /fi/terms/ai_literacy/
 date: "2026-07-18T15:40:10.421985Z"
 lastmod: "2026-07-18T17:15:09.378499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kyky ymmärtää, arvioida ja vuorovaikuttaa tehokkaasti tekoälytekniikan kanssa sekä sen yhteiskunnallisten vaikutusten kanssa."
 ---
-
 ## Definition
 
 Tekoälyosaaminen viittaa niihin kompetensseihin, jotka tarvitaan navigoimaan maailmassa, jota tekoäly yhä enemmän muokkaa. Se ulottuu teknisten koodaustaitojen lisäksi siihen, kuinka tekoäljärjestelmät toimivat, niiden eettisiin implikaatioihin ja niiden vaikutuksiin yhteiskunnassa.

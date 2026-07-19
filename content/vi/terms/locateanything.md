@@ -1,23 +1,25 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /vi/terms/locateanything/
-date: "2026-07-18T16:01:18.505888Z"
-lastmod: "2026-07-18T16:38:07.777706Z"
+slug: locateanything
+date: '2026-07-18T16:01:18.505888Z'
+lastmod: '2026-07-18T16:38:07.777706Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khung nguồn mở được thiết kế để định vị và phân đoạn đối tượng theo kiểu zero-shot (không cần huấn luyện trước cho nhiệm vụ) trên nhiều lĩnh vực thị giác khác nhau."
+source: agnes_llm
+status: published
+language: vi
+description: Một khung nguồn mở được thiết kế để định vị và phân đoạn đối tượng theo
+  kiểu zero-shot (không cần huấn luyện trước cho nhiệm vụ) trên nhiều lĩnh vực thị
+  giác khác nhau.
 ---
-
 ## Definition
 
 LocateAnything là một khung làm việc thị giác máy tính linh hoạt, cho phép phát hiện và phân đoạn các đối tượng trong hình ảnh dựa trên các lời nhắc bằng ngôn ngữ tự nhiên hoặc các tiền đề chung. Nó tận dụng các mô hình nền đã được huấn luyện trước để hiểu ngữ cảnh và thực hiện các nhiệm vụ mà không cần phải huấn luyện lại từ đầu cho từng tác vụ cụ thể, nhờ đó thích ứng nhanh với các tình huống mới.

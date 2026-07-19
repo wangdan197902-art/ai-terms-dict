@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /da/terms/hallucination/
 date: "2026-07-18T15:22:59.182860Z"
 lastmod: "2026-07-18T17:15:09.218355Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Når en AI-model genererer troværdigt, men faktuel forkert eller meningsløs information."
 ---
-
 ## Definition
 
 Hallucinationer opstår, når generative AI-modeller producerer output, der ser plausibelt ud, men mangler forankring i virkeligheden eller kilddata. Dette er en betydelig udfordring i applikationer, der kræver høj nøjagtighed.

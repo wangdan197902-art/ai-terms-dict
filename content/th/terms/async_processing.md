@@ -1,23 +1,24 @@
 ---
-title: "การประมวลผลแบบอะซิงโครนัส"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: การประมวลผลแบบอะซิงโครนัส
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /th/terms/async_processing/
-date: "2026-07-18T15:42:54.623139Z"
-lastmod: "2026-07-18T16:38:07.575769Z"
+slug: async_processing
+date: '2026-07-18T15:42:54.623139Z'
+lastmod: '2026-07-18T16:38:07.575769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "รูปแบบการเขียนโปรแกรมที่งานถูกดำเนินการอย่างเป็นอิสระจากเธรดการทำงานหลัก ทำให้สามารถดำเนินการแบบไม่บล็อกได้"
+source: agnes_llm
+status: published
+language: th
+description: รูปแบบการเขียนโปรแกรมที่งานถูกดำเนินการอย่างเป็นอิสระจากเธรดการทำงานหลัก
+  ทำให้สามารถดำเนินการแบบไม่บล็อกได้
 ---
-
 ## Definition
 
 การประมวลผลแบบอะซิงโครนัสอนุญาตให้ซอฟต์แวร์ทำงานระยะยาว เช่น การดำเนินการ I/O หรือการคำนวณที่ซับซ้อน โดยไม่ทำให้ส่วนติดต่อผู้ใช้หลักค้างหรือบล็อกกระบวนการอื่น ๆ

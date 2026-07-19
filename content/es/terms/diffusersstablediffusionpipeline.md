@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /es/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T10:44:13.603409Z"
-lastmod: "2026-07-18T11:44:44.799270Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T10:44:13.603409Z'
+lastmod: '2026-07-18T11:44:44.799270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El pipeline estándar para ejecutar Stable Diffusion v1.5, utilizando codificadores U-Net y CLIP para la generación de imágenes a partir de texto."
+source: agnes_llm
+status: published
+language: es
+description: El pipeline estándar para ejecutar Stable Diffusion v1.5, utilizando
+  codificadores U-Net y CLIP para la generación de imágenes a partir de texto.
 ---
-
 ## Definition
 
 Este es el pipeline fundamental para el modelo Stable Diffusion v1.5, ampliamente utilizado para la síntesis general de imágenes a partir de texto. Se basa en un denoiser U-Net y un codificador de texto CLIP para mapear las indicaciones textuales...

@@ -1,23 +1,24 @@
 ---
-title: "Učení preferencí"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Učení preferencí
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /cs/terms/preference_learning/
-date: "2026-07-18T16:13:09.337278Z"
-lastmod: "2026-07-18T17:15:09.190400Z"
+slug: preference_learning
+date: '2026-07-18T16:13:09.337278Z'
+lastmod: '2026-07-18T17:15:09.190400Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika, která trénuje modely, aby výstupy ladily s lidskými preferencemi pomocí srovnávací zpětné vazby."
+source: agnes_llm
+status: published
+language: cs
+description: Technika, která trénuje modely, aby výstupy ladily s lidskými preferencemi
+  pomocí srovnávací zpětné vazby.
 ---
-
 ## Definition
 
 Učení preferencí se zaměřuje na učení modelů rozlišovat mezi dobrými a špatnými výstupy na základě lidských soudů spíše než absolutních štítků. Obvykle zahrnuje sběr párů odpovědí, kde lidé označí preferovanou možnost, což umožňuje modelu naučit se funkci odměny, která odráží lidské hodnoty.

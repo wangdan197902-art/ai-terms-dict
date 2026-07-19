@@ -1,23 +1,24 @@
 ---
-title: "Ajuste Fino Supervisado"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Ajuste Fino Supervisado
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /es/terms/supervised_fine_tuning/
-date: "2026-07-18T10:32:20.236425Z"
-lastmod: "2026-07-18T11:44:44.767359Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T10:32:20.236425Z'
+lastmod: '2026-07-18T11:44:44.767359Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de entrenar adicionalmente un modelo preentrenado en un conjunto de datos específico para adaptarlo a una tarea o dominio particular."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de entrenar adicionalmente un modelo preentrenado en un conjunto
+  de datos específico para adaptarlo a una tarea o dominio particular.
 ---
-
 ## Definition
 
 El Ajuste Fino Supervisado (SFT) implica tomar un modelo grande preentrenado, como un modelo de lenguaje, y continuar su entrenamiento en un conjunto de datos más pequeño y de alta calidad etiquetado para una tarea específica de nivel inferior.

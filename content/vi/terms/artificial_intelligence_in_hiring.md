@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /vi/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:40:51.162849Z"
 lastmod: "2026-07-18T16:38:07.728952Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng các công cụ AI để tinh gọn quy trình tuyển dụng, bao gồm sàng lọc hồ sơ, ghép nối ứng viên và phân tích phỏng vấn."
 ---
-
 ## Definition
 
 AI trong tuyển dụng sử dụng các thuật toán để tự động hóa và nâng cao các giai đoạn khác nhau của vòng đời tuyển dụng. Các công cụ phân tích hồ sơ xin việc để tìm từ khóa phù hợp, đánh giá mức độ tương thích của ứng viên thông qua mô hình dự đoán, và thậm chí phân tích giọng nói hoặc biểu cảm khuôn mặt trong phỏng vấn video để đưa ra đánh giá khách quan hơn.

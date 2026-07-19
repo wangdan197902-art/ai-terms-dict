@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /vi/terms/brain_technology/
 date: "2026-07-18T15:43:26.452572Z"
 lastmod: "2026-07-18T16:38:07.734536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các công nghệ được thiết kế để giao tiếp, giám sát hoặc điều chế hoạt động của não người, bao gồm cả giao diện não-máy và công cụ chụp ảnh thần kinh."
 ---
-
 ## Definition
 
 Công nghệ não bộ bao gồm các hệ thống phần cứng và phần mềm tương tác trực tiếp với hệ thần kinh trung ương. Các ví dụ chính bao gồm Giao diện Não-Máy (BCI) dịch chuyển tín hiệu thần kinh

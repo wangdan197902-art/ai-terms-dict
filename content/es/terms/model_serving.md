@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /es/terms/model_serving/
 date: "2026-07-18T10:31:13.060302Z"
 lastmod: "2026-07-18T11:44:44.764279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El proceso de desplegar modelos de aprendizaje automático entrenados en entornos de producción para realizar predicciones o generar salidas para los usuarios finales."
 ---
-
 ## Definition
 
 El servicio de modelos implica tomar un modelo entrenado estático y envolverlo en una infraestructura escalable que maneje las solicitudes entrantes, realice la inferencia y devuelva los resultados. Los desafíos clave incluyen gestionar la latencia y la escalabilidad.

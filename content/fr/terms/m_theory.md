@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /fr/terms/m_theory/
 date: "2026-07-18T11:26:39.127103Z"
 lastmod: "2026-07-18T11:44:45.288510Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La théorie M est un cadre théorique en physique qui unifie cinq versions différentes de la théorie des cordes, proposant que les particules fondamentales sont des vibrations de membranes unidimensionn"
 ---
-
 ## Definition
 
 Bien qu'il s'agisse principalement d'un concept de physique théorique plutôt que d'informatique, la théorie M est parfois citée dans les simulations computationnelles avancées et la recherche sur l'informatique quantique. Elle suggère que

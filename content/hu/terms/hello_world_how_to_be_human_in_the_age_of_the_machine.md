@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /hu/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T16:03:21.366534Z"
 lastmod: "2026-07-18T17:15:09.792418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy könyvcím, amely az emberiség és a technológia metszéspontját vizsgálja, gyakran idézik az AI-etikával és a jövő munkájával kapcsolatos vitákban."
 ---
-
 ## Definition
 
 Ez a kifejezés egy konkrét irodalmi műre utal, amely azt vizsgálja, hogyan tarthatják meg az emberek relevanciájukat és méltóságukat a gyors technológiai fejlődés közepette. Az AI diskurzusban kulturális hivatkozásként szolgál.

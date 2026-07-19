@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /de/terms/data_preprocessing/
 date: "2026-07-18T11:09:40.573251Z"
 lastmod: "2026-07-18T11:44:44.924088Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Umwandlung roher Daten in ein sauberes, konsistentes Format, das für Machine-Learning-Algorithmen geeignet ist."
 ---
-
 ## Definition
 
 Die Datenvorverarbeitung ist die wesentliche Aufgabe, rohe, unstrukturierte oder verrauschte Daten in ein standardisiertes Format zu transformieren, das von Machine-Learning-Modellen effektiv verarbeitet werden kann. Diese Phase umfasst typischerweise Schritte wie die Bereinigung, Normalisierung und Kodierung der Daten, um sicherzustellen, dass sie für das Training optimiert sind.

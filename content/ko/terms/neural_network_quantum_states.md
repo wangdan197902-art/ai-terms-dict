@@ -1,23 +1,23 @@
 ---
-title: "신경망 양자 상태"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: 신경망 양자 상태
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /ko/terms/neural_network_quantum_states/
-date: "2026-07-18T16:07:43.981107Z"
-lastmod: "2026-07-18T16:38:06.890799Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:07:43.981107Z'
+lastmod: '2026-07-18T16:38:06.890799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "인공 신경망 아키텍처를 사용하여 양자 다체 파동함수를 표현하는 방법."
+source: agnes_llm
+status: published
+language: ko
+description: 인공 신경망 아키텍처를 사용하여 양자 다체 파동함수를 표현하는 방법.
 ---
-
 ## Definition
 
 신경망 양자 상태는 딥러닝 기술을 활용하여 복잡한 양자 파동함수를 근사합니다. 신경망의 가중치를 매개변수로 사용하여 양자 비트(qubit)의 확률 진폭을 최적화합니다.

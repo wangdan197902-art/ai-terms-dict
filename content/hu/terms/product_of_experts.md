@@ -1,23 +1,24 @@
 ---
-title: "Szakértők szorzata"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Szakértők szorzata
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /hu/terms/product_of_experts/
-date: "2026-07-18T16:19:13.064297Z"
-lastmod: "2026-07-18T17:15:09.824673Z"
+slug: product_of_experts
+date: '2026-07-18T16:19:13.064297Z'
+lastmod: '2026-07-18T17:15:09.824673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy valószínűségi modellezési keretrendszer, ahol a közös eloszlást több független szakértői modell kimenetének megszorzásával képezik."
+source: agnes_llm
+status: published
+language: hu
+description: Egy valószínűségi modellezési keretrendszer, ahol a közös eloszlást több
+  független szakértői modell kimenetének megszorzásával képezik.
 ---
-
 ## Definition
 
 A Szakértők szorzata (PoE) egy módszer komplex valószínűségi eloszlások összeállítására egyszerűbbek kombinálásával. A "Szakértők keverékétől" eltérően, amely az valószínűségeket átlagolja, a PoE megszorozza a szakértők által generált valószínűségi sűrűségeket (vagy energiákat), így szigorúbb korlátozásokat érvényesít.

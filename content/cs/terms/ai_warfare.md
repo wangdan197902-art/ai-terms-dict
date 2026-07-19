@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /cs/terms/ai_warfare/
 date: "2026-07-18T15:40:17.944897Z"
 lastmod: "2026-07-18T17:15:09.097640Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využití technologií umělé inteligence v vojenských operacích, dohledu a autonomních zbraňových systémech."
 ---
-
 ## Definition
 
 AI válčení označuje integraci umělé inteligence do vojenských strategií, včetně autonomních dronů, prediktivní logistiky, kybernetické obrany a systémů podporujících rozhodování velitelů.

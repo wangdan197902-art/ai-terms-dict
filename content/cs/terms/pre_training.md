@@ -1,23 +1,24 @@
 ---
-title: "Předvýcvik"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Předvýcvik
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /cs/terms/pre_training/
-date: "2026-07-18T15:27:58.907495Z"
-lastmod: "2026-07-18T17:15:09.075113Z"
+slug: pre_training
+date: '2026-07-18T15:27:58.907495Z'
+lastmod: '2026-07-18T17:15:09.075113Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Počáteční fáze tréninku modelu strojového učení na velké neoznačené sadě dat za účelem naučení obecných reprezentací před doladěním pro konkrétní úkoly."
+source: agnes_llm
+status: published
+language: cs
+description: Počáteční fáze tréninku modelu strojového učení na velké neoznačené sadě
+  dat za účelem naučení obecných reprezentací před doladěním pro konkrétní úkoly.
 ---
-
 ## Definition
 
 Předvýcvik je základní technika v hlubokém učení, kde se model učí široké rysy a vzory z masivního množství dat, často bez označení. Tento proces umožňuje modelu vyvinout...

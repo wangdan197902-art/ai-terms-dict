@@ -1,23 +1,24 @@
 ---
-title: "Qwen Coder"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: Qwen Coder
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /nl/terms/qwen_coder/
-date: "2026-07-18T16:14:25.746466Z"
-lastmod: "2026-07-18T17:15:08.781009Z"
+slug: qwen_coder
+date: '2026-07-18T16:14:25.746466Z'
+lastmod: '2026-07-18T17:15:08.781009Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Qwen Coder is een gespecialiseerde variant van het Qwen-model, geoptimaliseerd voor softwareontwikkeling en programmeertaken."
+source: agnes_llm
+status: published
+language: nl
+description: Qwen Coder is een gespecialiseerde variant van het Qwen-model, geoptimaliseerd
+  voor softwareontwikkeling en programmeertaken.
 ---
-
 ## Definition
 
 Qwen Coder is een speciale versie van het Qwen-grote taalmodel dat specifiek is afgestemd op programmegerelateerde activiteiten. Het blinkt uit in codegeneratie, foutopsporing en het begrijpen van complexe codestructuren.

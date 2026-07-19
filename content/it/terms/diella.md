@@ -1,23 +1,23 @@
 ---
-title: "Diella"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /it/terms/diella/
-date: "2026-07-18T15:56:22.399618Z"
-lastmod: "2026-07-18T17:15:08.618513Z"
+slug: diella
+date: '2026-07-18T15:56:22.399618Z'
+lastmod: '2026-07-18T17:15:08.618513Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'architettura di deep learning specializzata progettata per compiti efficienti di super-risoluzione e restauro delle immagini."
+source: agnes_llm
+status: published
+language: it
+description: Un'architettura di deep learning specializzata progettata per compiti
+  efficienti di super-risoluzione e restauro delle immagini.
 ---
-
 ## Definition
 
 Diella si riferisce a specifici modelli di rete neurale ottimizzati per migliorare la qualità dell'immagine aumentando la risoluzione o rimuovendo il rumore. Queste architetture impiegano tipicamente meccanismi di attenzione avanzati o...

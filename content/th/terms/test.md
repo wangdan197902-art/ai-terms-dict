@@ -1,23 +1,22 @@
 ---
-title: "ทดสอบ"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: ทดสอบ
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /th/terms/test/
-date: "2026-07-18T15:30:58.825920Z"
-lastmod: "2026-07-18T16:38:07.550666Z"
+slug: test
+date: '2026-07-18T15:30:58.825920Z'
+lastmod: '2026-07-18T16:38:07.550666Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ทดสอบ หมายถึง ระยะการประเมินที่นำโมเดลปัญญาประดิษฐ์ที่ฝึกแล้วมาวัดประสิทธิภาพบนข้อมูลที่ไม่เคยเห็นมาก่อน"
+source: agnes_llm
+status: published
+language: th
+description: ทดสอบ หมายถึง ระยะการประเมินที่นำโมเดลปัญญาประดิษฐ์ที่ฝึกแล้วมาวัดประสิทธิภาพบนข้อมูลที่ไม่เคยเห็นมาก่อน
 ---
-
 ## Definition
 
 ชุดทดสอบคือส่วนหนึ่งของข้อมูลที่ถูกกันไว้ระหว่างกระบวนการฝึก เพื่อประเมินความสามารถในการสรุปผลทั่วไปของโมเดลสุดท้าย ต่างจากชุดตรวจสอบที่ใช้สำหรับการปรับแต่งไฮเปอร์พารามิเตอร์ ชุดทดสอบให้ผลการประเมินที่ยุติธรรมที่สุด

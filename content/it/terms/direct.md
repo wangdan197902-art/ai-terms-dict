@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /it/terms/direct/
 date: "2026-07-18T15:24:06.636398Z"
 lastmod: "2026-07-18T17:15:08.563580Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a metodi o percorsi che mappano gli input direttamente sugli output senza trasformazioni complesse intermedie o rappresentazioni latenti."
 ---
-
 ## Definition
 
 Nel contesto dell'IA, 'diretto' descrive spesso architetture o percorsi di inferenza che bypassano i livelli intermedi di astrazione, come l'ottimizzazione diretta della politica nell'apprendimento per rinforzo o il mappaggio diretto nelle reti neurali end-to-end. Questo approccio mira a ridurre la complessità computazionale e la latenza, migliorando l'efficienza nell'esecuzione delle operazioni.

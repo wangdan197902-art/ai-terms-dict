@@ -1,23 +1,25 @@
 ---
-title: "Agent Harness"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Agent Harness
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /id/terms/agent_harness/
-date: "2026-07-18T15:38:16.356002Z"
-lastmod: "2026-07-18T16:38:07.425798Z"
+slug: agent_harness
+date: '2026-07-18T15:38:16.356002Z'
+lastmod: '2026-07-18T16:38:07.425798Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Agent harness adalah lapisan kerangka kerja atau infrastruktur yang mengelola siklus hidup, komunikasi, dan alokasi sumber daya dari banyak agen AI dalam suatu sistem."
+source: agnes_llm
+status: published
+language: id
+description: Agent harness adalah lapisan kerangka kerja atau infrastruktur yang mengelola
+  siklus hidup, komunikasi, dan alokasi sumber daya dari banyak agen AI dalam suatu
+  sistem.
 ---
-
 ## Definition
 
 Agen ini bertindak sebagai tulang punggung untuk sistem multi-agen, menyediakan alat untuk orkestrasi, pemantauan, dan koordinasi antar-agen. Harness memastikan bahwa agen dapat beroperasi secara efisien tanpa...

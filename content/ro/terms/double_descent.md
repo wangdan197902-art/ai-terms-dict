@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /ro/terms/double_descent/
 date: "2026-07-18T15:55:19.117065Z"
 lastmod: "2026-07-18T17:15:09.650445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un fenomen în care eroarea de testare scade, crește și apoi scade din nou pe măsură ce complexitatea modelului depășește pragul de interpolare."
 ---
-
 ## Definition
 
 Dubla scădere contestă compromisul tradițional bias-varianță, demonstrând că modelele foarte supra-parametrizate pot atinge o eroare mică de testare, chiar dacă interpolează datele de antrenament. Inițial, eroarea crește pe măsură ce modelul devine mai complex, dar după un punct critic, aceasta scade din nou pe măsură ce capacitatea modelului de a generaliza se îmbunătățește.

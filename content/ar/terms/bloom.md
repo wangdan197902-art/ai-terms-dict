@@ -1,23 +1,24 @@
 ---
-title: "بلوم"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: بلوم
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /ar/terms/bloom/
-date: "2026-07-18T15:47:41.083411Z"
-lastmod: "2026-07-18T17:15:08.482471Z"
+slug: bloom
+date: '2026-07-18T15:47:41.083411Z'
+lastmod: '2026-07-18T17:15:08.482471Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "في التعلم الآلي، يشير 'بلوم' عادةً إلى تصنيف بلوم المطبق في تعليم الذكاء الاصطناعي أو نماذج التضمين المحددة مثل نموذج تضمين النصوص بلوم."
+source: agnes_llm
+status: published
+language: ar
+description: في التعلم الآلي، يشير 'بلوم' عادةً إلى تصنيف بلوم المطبق في تعليم الذكاء
+  الاصطناعي أو نماذج التضمين المحددة مثل نموذج تضمين النصوص بلوم.
 ---
-
 ## Definition
 
 بينما يشير تاريخياً إلى التصنيف التربوي لبرنجام بلوم، في سياقات الذكاء الاصطناعي الحديثة، غالباً ما يدل على نموذج تضمين النصوص بلوم الذي طورته BigScience. يقوم هذا النموذج بتوليد...

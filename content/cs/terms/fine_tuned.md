@@ -1,23 +1,24 @@
 ---
-title: "doladěný"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: doladěný
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /cs/terms/fine_tuned/
-date: "2026-07-18T15:31:55.460470Z"
-lastmod: "2026-07-18T17:15:09.083056Z"
+slug: fine_tuned
+date: '2026-07-18T15:31:55.460470Z'
+lastmod: '2026-07-18T17:15:09.083056Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces dalšího trénování předtrénovaného modelu na specifickém datovém souboru za účelem přizpůsobení konkrétnímu úkolu."
+source: agnes_llm
+status: published
+language: cs
+description: Proces dalšího trénování předtrénovaného modelu na specifickém datovém
+  souboru za účelem přizpůsobení konkrétnímu úkolu.
 ---
-
 ## Definition
 
 Doladění zahrnuje vzít model, který již byl trénován na velké, obecné datové sadě, a pokračovat v jeho tréninku na menší, úkolově specifické datové sadě. Tato technika využívá obecné schopnosti...

@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /tr/terms/extensive/
 date: "2026-07-18T15:24:58.820531Z"
 lastmod: "2026-07-18T16:38:07.231741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Büyük bir kapsam, hacim veya senaryo çeşitliliğini içeren yapay zeka veri setlerini, hesaplamalarını veya değerlendirmelerini tanımlar."
 ---
-
 ## Definition
 
 Kapsamlı, büyük ölçekli veri setleri, geniş değerlendirme kütüphaneleri veya yoğun hesaplama yükleri gibi yapay zeka operasyonlarının ölçeğini ve bütünlüğünü ifade eder. Kapsamlı bir veri seti, modelin genelleme yeteneğini artırır.

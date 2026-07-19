@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /ja/terms/latency/
 date: "2026-07-18T10:59:28.529701Z"
 lastmod: "2026-07-18T11:44:45.049077Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムにおいて、リクエストの開始から応答の開始までに生じる時間遅延。"
 ---
-
 ## Definition
 
 レイテンシは、通常ミリ秒単位で表されるAIサービスの応答性を測定する指標です。これには推論時間、ネットワーク伝送遅延、および処理オーバーヘッドが含まれます。リアルタイム性が求められるアプリケーションでは、低レイテンシが極めて重要です。

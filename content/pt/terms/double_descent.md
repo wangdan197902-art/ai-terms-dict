@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /pt/terms/double_descent/
 date: "2026-07-18T14:58:24.105262Z"
 lastmod: "2026-07-18T15:51:59.486652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um fenômeno em que o erro de teste diminui, aumenta e depois diminui novamente à medida que a complexidade do modelo cresce além do limiar de interpolação."
 ---
-
 ## Definition
 
 A dupla queda desafia o trade-off tradicional entre viés e variância, mostrando que modelos altamente superparametrizados podem alcançar baixo erro de teste apesar de interpolarem os dados de treinamento. Inicialmente, o erro aumenta

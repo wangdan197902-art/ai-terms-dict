@@ -1,23 +1,23 @@
 ---
-title: "Dense (Mật độ cao/Lớp kết nối đầy đủ)"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dense (Mật độ cao/Lớp kết nối đầy đủ)
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /vi/terms/dense/
-date: "2026-07-18T15:49:14.511969Z"
-lastmod: "2026-07-18T16:38:07.748297Z"
+slug: dense
+date: '2026-07-18T15:49:14.511969Z'
+lastmod: '2026-07-18T16:38:07.748297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lớp hoặc tensor trong đó mọi phần tử đều được kết nối với mọi phần tử của lớp hoặc chiều trước đó."
+source: agnes_llm
+status: published
+language: vi
+description: Một lớp hoặc tensor trong đó mọi phần tử đều được kết nối với mọi phần
+  tử của lớp hoặc chiều trước đó.
 ---
-
 ## Definition
 
 Trong mạng nơ-ron, 'dense' (mật độ cao) đề cập đến các lớp kết nối đầy đủ (fully connected), nơi mỗi nơ-ron nhận đầu vào từ tất cả các nơ-ron ở lớp trước đó. Điều này tương phản với các kết nối thưa thớt thường thấy trong các mạng tích chập (convolutional) hoặc...

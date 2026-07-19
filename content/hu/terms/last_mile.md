@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /hu/terms/last_mile/
 date: "2026-07-18T16:09:44.820264Z"
 lastmod: "2026-07-18T17:15:09.801332Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-megoldások fejlesztői környezetből a valós üzemi környezetben dolgozó végfelhasználókhoz történő szállításának utolsó szakasza."
 ---
-
 ## Definition
 
 Az 'utolsó mérföld' probléma a modellek éles környezetbe telepítésekor fellépő kihívásokat jelöli, beleértve az integrációt a meglévő infrastruktúrával, az alacsony késleltetésű inferencia biztosítását és a szélső (edge) esetek kezelését.

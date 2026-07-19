@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /sv/terms/agents/
 date: "2026-07-18T15:23:13.298090Z"
 lastmod: "2026-07-18T17:15:08.937109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Autonoma enheter som uppfattar sin omgivning och vidtar åtgärder för att uppnå specifika mål."
 ---
-
 ## Definition
 
 AI-agenter är programvaruprogram eller system som är kapabla att uppfatta sin omgivning genom sensorer (input), bearbeta information och utföra åtgärder via aktuatorer (output) för att uppnå definierade mål.

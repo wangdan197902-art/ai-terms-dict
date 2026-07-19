@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /tr/terms/podcast/
 date: "2026-07-18T16:09:12.141086Z"
 lastmod: "2026-07-18T16:38:07.349563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İndirmek veya akış yapmak üzere internette yayınlanan dijital ses veya video dosyası."
 ---
-
 ## Definition
 
 Yapay zeka ve teknoloji bağlamında podcast, RSS beslemeleri aracılığıyla dağıtılan, kullanıcıların abonelik oluşturarak tartışmalar, röportajlar veya eğitim materyallerini dinleyebildiği periyodik dijital medya içeriğini ifade eder.

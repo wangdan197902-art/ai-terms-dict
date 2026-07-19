@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /ru/terms/artificial_intelligence/
 date: "2026-07-18T15:22:29.952666Z"
 lastmod: "2026-07-18T16:38:07.068020Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Моделирование процессов человеческого интеллекта с помощью компьютерных систем."
 ---
-
 ## Definition
 
 Искусственный интеллект (ИИ) — это способность цифровых компьютеров или управляемых компьютерами роботов выполнять задачи, которые обычно ассоциируются с разумными существами. Он охватывает различные подразделы

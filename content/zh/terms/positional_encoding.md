@@ -1,23 +1,23 @@
 ---
-title: "位置编码"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: 位置编码
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /zh/terms/positional_encoding/
-date: "2026-07-18T11:01:29.499728Z"
-lastmod: "2026-07-18T11:44:45.403772Z"
+slug: positional_encoding
+date: '2026-07-18T11:01:29.499728Z'
+lastmod: '2026-07-18T11:44:45.403772Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种将序列中令牌的相对或绝对位置信息注入 Transformer 模型的技术。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种将序列中令牌的相对或绝对位置信息注入 Transformer 模型的技术。
 ---
-
 ## Definition
 
 由于 Transformer 并行处理所有令牌，而不是像循环神经网络（RNN）那样按顺序处理，因此它缺乏对令牌顺序的固有认知。位置编码通过向输入嵌入添加特定的向量来保留这种顺序信息。

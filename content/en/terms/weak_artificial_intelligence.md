@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /en/terms/weak_artificial_intelligence/
 date: "2026-07-18T10:19:55.509957Z"
 lastmod: "2026-07-18T11:44:44.732464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "AI designed to perform specific tasks within a limited context without possessing general cognitive abilities."
 ---
-
 ## Definition
 
 Weak artificial intelligence, also known as narrow AI, refers to systems engineered to solve particular problems or perform specific tasks, such as facial recognition or language translation. Unlike strong AI, it does not possess consciousness, self-awareness, or general reasoning capabilities across diverse domains. These systems operate under a limited set of constraints and are highly optimized for their designated functions, forming the backbone of current practical AI applications in industry and research.

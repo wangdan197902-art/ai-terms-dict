@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /pl/terms/ai_literacy/
 date: "2026-07-18T15:38:17.026834Z"
 lastmod: "2026-07-18T17:15:08.840318Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zdolność do rozumienia, oceny i skutecznego interakcji z technologiami sztucznej inteligencji oraz ich implikacjami społecznymi."
 ---
-
 ## Definition
 
 Pismo AI odnosi się do kompetencji potrzebnych do poruszania się w świecie coraz bardziej kształtowanym przez sztuczną inteligencję. Wykracza ono poza techniczne umiejętności programistyczne, obejmując zrozumienie działania systemów AI, ich ograniczeń, potencjalnych zagrożeń etycznych oraz wpływu na społeczeństwo.

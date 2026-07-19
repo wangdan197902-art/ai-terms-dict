@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /ja/terms/inferential_theory_of_learning/
 date: "2026-07-18T11:19:39.944343Z"
 lastmod: "2026-07-18T11:44:45.109483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "学習をベイズ推論として捉え、観測されたデータに基づいて仮説に関する信念を更新するフレームワーク。"
 ---
-
 ## Definition
 
 この理論は、学習が本質的に確率的推論の過程であると主張します。データを暗記するのではなく、学習者は可能なモデルや仮説の集合に対して確率分布を維持します。

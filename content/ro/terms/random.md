@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /ro/terms/random/
 date: "2026-07-18T15:28:40.680299Z"
 lastmod: "2026-07-18T17:15:09.601586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Proprietatea de a lipsi un model predictibil, adesea simulată în IA prin algoritmi de generare a numerelor pseudo-aleatoare."
 ---
-
 ## Definition
 
 Aleatorietatea este fundamentală în IA pentru inițializarea ponderilor modelelor, amestecarea seturilor de date și introducerea stocasticității în timpul antrenării pentru a preveni suprapotrivirea. Deoarece computerele sunt deterministe, sistemele de IA

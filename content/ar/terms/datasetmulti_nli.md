@@ -1,23 +1,26 @@
 ---
-title: "مجموعة البيانات: MultiNLI"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: 'مجموعة البيانات: MultiNLI'
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /ar/terms/datasetmulti_nli/
-date: "2026-07-18T15:52:18.415375Z"
-lastmod: "2026-07-18T17:15:08.492595Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:52:18.415375Z'
+lastmod: '2026-07-18T17:15:08.492595Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مجموعة استنتاج اللغة الطبيعية متعددة الأنواع، وهي مجموعة بيانات ضخمة تحتوي على ملايين الجمل الإنجليزية المكتوبة بشرياً معannotations بشرية دقيقة للاستدلال النصي."
+source: agnes_llm
+status: published
+language: ar
+description: مجموعة استنتاج اللغة الطبيعية متعددة الأنواع، وهي مجموعة بيانات ضخمة
+  تحتوي على ملايين الجمل الإنجليزية المكتوبة بشرياً معannotations بشرية دقيقة للاستدلال
+  النصي.
 ---
-
 ## Definition
 
 تُعد MultiNLI مجموعة بيانات جماعية متاحة عبر معيار GLUE، ومصممة لتقييم الاستنتاج الطبيعي للغة (NLI) عبر أنواع مختلفة من النصوص المنطوقة والمكتوبة. توفر أزواجاً من الفرضية...

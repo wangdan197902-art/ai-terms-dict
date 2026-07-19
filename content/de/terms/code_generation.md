@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /de/terms/code_generation/
 date: "2026-07-18T07:41:06.457082Z"
 lastmod: "2026-07-18T11:44:44.583786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Nutzung künstlicher Intelligenz, um automatisch Quellcode aus natürlichen Sprachbeschreibungen oder vorhandenen Code-Snippets zu erstellen."
 ---
-
 ## Definition
 
 Die Code-Generierung nutzt große Sprachmodelle, die auf umfangreichen Repositories von Programmiersprachen trainiert wurden, um funktionale Software-Artefakte zu erzeugen. Sie interpretiert menschenlesbare Eingaben, wie Kommentare oder Beschreibungen, und wandelt diese in ausführbaren Code um.

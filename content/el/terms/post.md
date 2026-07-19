@@ -1,23 +1,25 @@
 ---
-title: "Ανάρτηση"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Ανάρτηση
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /el/terms/post/
-date: "2026-07-18T15:30:28.352651Z"
-lastmod: "2026-07-18T17:15:09.851690Z"
+slug: post
+date: '2026-07-18T15:30:28.352651Z'
+lastmod: '2026-07-18T17:15:09.851690Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια δημοσιευμένη μορφή περιεχομένου, συνήθως σε ιστολόγιο, πλατφόρμα κοινωνικής δικτύωσης ή φόρουμ, που αντιπροσωπεύει πληροφορίες ή σχόλια δημιουργημένα από χρήστες."
+source: agnes_llm
+status: published
+language: el
+description: Μια δημοσιευμένη μορφή περιεχομένου, συνήθως σε ιστολόγιο, πλατφόρμα
+  κοινωνικής δικτύωσης ή φόρουμ, που αντιπροσωπεύει πληροφορίες ή σχόλια δημιουργημένα
+  από χρήστες.
 ---
-
 ## Definition
 
 Στο πλαίσιο της ψηφιακής επικοινωνίας και των δεδομένων ΤΝ, μια «ανάρτηση» αναφέρεται σε ένα διακριτό μονάδα περιεχομένου που κοινοποιείται στο διαδίκτυο. Υπηρετεί ως πρωταρχική πηγή για την εκπαίδευση μοντέλων φυσικής γλώσσας, ανάλυσης συναισθήματος...

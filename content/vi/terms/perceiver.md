@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /vi/terms/perceiver/
 date: "2026-07-18T16:07:15.821615Z"
 lastmod: "2026-07-18T16:38:07.792060Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống hoặc mô-đun chịu trách nhiệm tiếp nhận và diễn giải đầu vào giác quan từ môi trường."
 ---
-
 ## Definition
 
 Trong AI và khoa học nhận thức, bộ phận cảm nhận đề cập đến thành phần của hệ thống thông minh xử lý dữ liệu giác quan thô thành thông tin có ý nghĩa. Khác với các cảm biến đơn giản chỉ phát hiện tín hiệu, bộ phận cảm nhận thực hiện quá trình diễn giải cao cấp hơn.

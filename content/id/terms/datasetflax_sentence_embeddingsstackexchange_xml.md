@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /id/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:45:56.161183Z"
 lastmod: "2026-07-18T16:38:07.445489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dataset yang berasal dari dump XML Stack Exchange, digunakan untuk melatih embedding kalimat yang berfokus pada konten tanya jawab teknis dan berbasis komunitas."
 ---
-
 ## Definition
 
 Dataset ini mengekstrak data tingkat kalimat dari file XML Stack Exchange, menyediakan sumber kaya diskusi teknis, cuplikan kode, dan dialog pemecahan masalah. Dataset ini secara khusus dimanfaatkan dalam

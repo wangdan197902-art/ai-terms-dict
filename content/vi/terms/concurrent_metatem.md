@@ -1,23 +1,24 @@
 ---
-title: "Concurrent MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Concurrent MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /vi/terms/concurrent_metatem/
-date: "2026-07-18T15:45:40.540926Z"
-lastmod: "2026-07-18T16:38:07.738930Z"
+slug: concurrent_metatem
+date: '2026-07-18T15:45:40.540926Z'
+lastmod: '2026-07-18T16:38:07.738930Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Concurrent MetateM là một ngôn ngữ lập trình phản ứng được thiết kế để xác định và triển khai các tác tử tự hành thời gian thực."
+source: agnes_llm
+status: published
+language: vi
+description: Concurrent MetateM là một ngôn ngữ lập trình phản ứng được thiết kế để
+  xác định và triển khai các tác tử tự hành thời gian thực.
 ---
-
 ## Definition
 
 Concurrent MetateM là một ngôn ngữ đặc tả cấp cao chủ yếu được sử dụng trong robot và hệ thống tự hành. Nó cho phép các nhà phát triển xác định hành vi của tác tử bằng cách sử dụng logic thời gian, đảm bảo rằng các hành động được thực hiện đúng thứ tự và đáp ứng kịp thời với các sự kiện.

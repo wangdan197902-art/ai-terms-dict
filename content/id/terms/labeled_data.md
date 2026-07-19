@@ -1,23 +1,24 @@
 ---
-title: "Data berlabel"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Data berlabel
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /id/terms/labeled_data/
-date: "2026-07-18T15:57:27.375099Z"
-lastmod: "2026-07-18T16:38:07.475533Z"
+slug: labeled_data
+date: '2026-07-18T15:57:27.375099Z'
+lastmod: '2026-07-18T16:38:07.475533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Data di mana nilai keluaran atau target yang benar disediakan bersama dengan fitur masukan."
+source: agnes_llm
+status: published
+language: id
+description: Data di mana nilai keluaran atau target yang benar disediakan bersama
+  dengan fitur masukan.
 ---
-
 ## Definition
 
 Data berlabel terdiri dari sampel masukan yang dipasangkan dengan label kebenaran dasar (ground truth) yang sesuai, yang menjadi fondasi untuk pembelajaran mesin terawasi (supervised machine learning). Hal ini memungkinkan algoritma mempelajari pemetaan antara masukan dan keluaran.

@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /ro/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:56:30.516633Z"
 lastmod: "2026-07-18T17:15:09.652942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Consecințele ecologice ale dezvoltării, antrenării și implementării modelelor AI, inclusiv consumul de energie și emisiile de carbon."
 ---
-
 ## Definition
 
 Acest termen se referă la cerințele semnificative de resurse asociate cu tehnologiile AI, în special în timpul fazei de antrenare a modelelor mari. Include utilizarea electricității pentru centrele de date, emisiile de gaze cu efect de seră generate de hardware și necesitatea unor practici de calcul sustenabile.

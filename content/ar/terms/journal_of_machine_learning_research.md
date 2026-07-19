@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /ar/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:04:14.065503Z"
 lastmod: "2026-07-18T17:15:08.518013Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجلة أكاديمية رائدة تخضع لمراجعة الأقران، مخصصة لنشر أبحاث عالية الجودة حول جميع جوانب التعلم الآلي."
 ---
-
 ## Definition
 
 تُعد مجلة بحوث التعلم الآلي (JMLR) منشوراً بارزاً مفتوح الوصول، يعمل كمنصة رئيسية لنشر النتائج العلمية الرصينة في مجال التعلم الآلي. تغطي المجلة الجوانب النظرية والتطبيقية...

@@ -1,23 +1,23 @@
 ---
-title: "การจับคู่ความน่าจะเป็น"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: การจับคู่ความน่าจะเป็น
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /th/terms/probability_matching/
-date: "2026-07-18T16:11:47.432758Z"
-lastmod: "2026-07-18T16:38:07.644386Z"
+slug: probability_matching
+date: '2026-07-18T16:11:47.432758Z'
+lastmod: '2026-07-18T16:38:07.644386Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์การตัดสินใจที่ตัวแทนเลือกการกระทำด้วยความถี่ที่สัดส่วนกับความน่าจะเป็นโดยประมาณ"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์การตัดสินใจที่ตัวแทนเลือกการกระทำด้วยความถี่ที่สัดส่วนกับความน่าจะเป็นโดยประมาณ
 ---
-
 ## Definition
 
 การจับคู่ความน่าจะเป็นเป็นรูปแบบพฤติกรรมที่มักพบในการเรียนรู้แบบเสริมกำลังและจิตวิทยา ซึ่งแตกต่างจากกลยุทธ์ 'การเพิ่มประสิทธิภาพสูงสุด' ที่เหมาะสมที่สุด แทนที่จะเลือกการกระทำที่มีความน่าจะเป็นสูงสุดเสมอ ระบบจะเลือกการกระทำต่างๆ ตามสัดส่วนของความน่าจะเป็นที่ประเมินไว้

@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /pl/terms/generated/
 date: "2026-07-18T15:25:48.264301Z"
 lastmod: "2026-07-18T17:15:08.812115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Treść stworzona przez model AI, a nie pobrana bezpośrednio ze statycznego zbioru danych."
 ---
-
 ## Definition
 
 Termin "wygenerowany" opisuje output produkowany przez modele generatywne AI, takie jak tekst, obrazy, dźwięk czy kod. W przeciwieństwie do systemów opartych na wyszukiwaniu, które pobierają istniejące dane, modele generatywne syntetyzują nowe treści.

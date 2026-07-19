@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /fi/terms/glm/
 date: "2026-07-18T15:59:38.947787Z"
 lastmod: "2026-07-18T17:15:09.415431Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "GLM viittaa yleensä tilastotieteessä yleistettyihin lineaarimalleihin tai Zhipu AIn kehittämään General Language -mallisarjaan."
 ---
-
 ## Definition
 
 Tilastollisessa mallinnuksessa GLM tarkoittaa yleistettyjä lineaarimalleja (Generalized Linear Models), jotka laajentavat lineaarista regressiota sallimalla vaste-muuttujilla virhajakaumamalleja, jotka poikkeavat normaalijakaumasta. Tekoälyn kontekstissa se viittaa usein Zhipu AIn kehittämään General Language -mallisarjaan.

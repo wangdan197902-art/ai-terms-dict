@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /en/terms/emergent_algorithm/
 date: "2026-07-18T09:56:53.750827Z"
 lastmod: "2026-07-18T11:44:44.669007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An algorithmic behavior that arises spontaneously from the interaction of simple components without being explicitly programmed."
 ---
-
 ## Definition
 
 Emergent algorithms refer to complex global behaviors or patterns that arise from the local interactions of many simple agents or rules within a system. Unlike traditional top-down programming where every step is explicitly defined, these systems rely on bottom-up dynamics. This concept is central to swarm intelligence, cellular automata, and neural networks, where the collective output is often more sophisticated than the sum of its individual parts, allowing for adaptive and robust problem-solving in dynamic environments.

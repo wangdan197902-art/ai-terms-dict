@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /th/terms/relu/
-date: "2026-07-18T15:37:11.587744Z"
-lastmod: "2026-07-18T16:38:07.564323Z"
+slug: relu
+date: '2026-07-18T15:37:11.587744Z'
+lastmod: '2026-07-18T16:38:07.564323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ReLU (Rectified Linear Unit) คือฟังก์ชันกระตุ้น (activation function) ที่ส่งค่าอินพุตออกมาโดยตรงหากมีค่าเป็นบวก และส่งค่าศูนย์ออกหากมีค่าน้อยกว่าหรือเท่ากับศูนย์"
+source: agnes_llm
+status: published
+language: th
+description: ReLU (Rectified Linear Unit) คือฟังก์ชันกระตุ้น (activation function)
+  ที่ส่งค่าอินพุตออกมาโดยตรงหากมีค่าเป็นบวก และส่งค่าศูนย์ออกหากมีค่าน้อยกว่าหรือเท่ากับศูนย์
 ---
-
 ## Definition
 
 ReLU นิยมใช้ในโครงข่ายประสาทเทียมสำหรับการเรียนรู้เชิงลึกเนื่องจากมีความคุ้มค่าในการคำนวณสูงและช่วยบรรเทาปัญหาเกรเดียนต์หายไปได้ โดยนิยามทางคณิตศาสตร์คือ f(x) = max(0, x) ซึ่งแนะนำความเป็นไม่เชิงเส้น (non-linearity) ให้กับโมเดล

@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /da/terms/algorithmic_inference/
 date: "2026-07-18T15:40:37.831765Z"
 lastmod: "2026-07-18T17:15:09.258058Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Algoritmisk inferens er processen, hvorved en trænet maskinlæringsmodel anvender lærte mønstre på ny, uset data for at træffe forudsigelser eller beslutninger."
 ---
-
 ## Definition
 
 Også kendt som forudsigelse eller scoring, sker inferens efter modellens træningsfase. Algoritmen tager inputfunktioner, behandler dem gennem sin interne struktur (såsom vægte i et neuralt netværk) og producerer et output baseret på de lærende parametre.

@@ -1,23 +1,24 @@
 ---
-title: "مخصص للمهمة"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: مخصص للمهمة
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /ar/terms/task_specific/
-date: "2026-07-18T15:34:59.397720Z"
-lastmod: "2026-07-18T17:15:08.457449Z"
+slug: task_specific
+date: '2026-07-18T15:34:59.397720Z'
+lastmod: '2026-07-18T17:15:08.457449Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "هي أنظمة ذكاء اصطناعي مصممة ومحسنة لأداء وظيفة واحدة محددة بدقة بدلاً من التفكير العام."
+source: agnes_llm
+status: published
+language: ar
+description: هي أنظمة ذكاء اصطناعي مصممة ومحسنة لأداء وظيفة واحدة محددة بدقة بدلاً
+  من التفكير العام.
 ---
-
 ## Definition
 
 يشير المصطلح إلى نماذج أو مكونات ذكاء اصطناعي مخصصة للتميز في مجموعة ضيقة من الأهداف، مثل اكتشاف الأشياء في الصور أو ترجمة اللغات. وعلى عكس النماذج الأساسية عامة الغرض، تتميز هذه النماذج بكفاءة عالية ودقة متناهية في نطاقها المحدد.

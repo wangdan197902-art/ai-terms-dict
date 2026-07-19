@@ -1,23 +1,23 @@
 ---
-title: "Speaker Diarization"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Speaker Diarization
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /en/terms/speaker_diarization/
-date: "2026-07-18T10:16:18.605893Z"
-lastmod: "2026-07-18T11:44:44.723906Z"
+slug: speaker_diarization
+date: '2026-07-18T10:16:18.605893Z'
+lastmod: '2026-07-18T11:44:44.723906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "The process of determining 'who spoke when' in an audio recording."
+source: agnes_llm
+status: published
+language: en
+description: The process of determining 'who spoke when' in an audio recording.
 ---
-
 ## Definition
 
 Speaker Diarization is the task of partitioning an audio stream into homogeneous segments according to the identity of the speaker. It combines speaker change detection with speaker clustering to label segments with unique speaker IDs. This technology is essential for making multi-party conversations understandable in transcripts, often referred to as the 'who said what' problem.

@@ -1,23 +1,23 @@
 ---
-title: "가드레일 (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: 가드레일 (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /ko/terms/guardrails/
-date: "2026-07-18T15:58:08.183793Z"
-lastmod: "2026-07-18T16:38:06.848417Z"
+slug: guardrails
+date: '2026-07-18T15:58:08.183793Z'
+lastmod: '2026-07-18T16:38:06.848417Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "유해하거나 편향된, 승인되지 않은 콘텐츠 생성을 방지하기 위해 AI 모델의 출력을 제한하도록 설계된 안전 메커니즘입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 유해하거나 편향된, 승인되지 않은 콘텐츠 생성을 방지하기 위해 AI 모델의 출력을 제한하도록 설계된 안전 메커니즘입니다.
 ---
-
 ## Definition
 
 가드레일(Guardrails)은 AI 애플리케이션, 특히 대형 언어 모델에 통합된 소프트웨어 제어 및 정책 집행 레이어의 집합을 의미합니다. 이는 모델이 안전하고 규정 준수하는 행동을 유지하도록 보장하며, 입력 및 출력 필터링, 유해 콘텐츠 감지 등을 통해 시스템의 신뢰성을 높이는 역할을 합니다.

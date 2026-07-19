@@ -1,23 +1,24 @@
 ---
-title: "Redes Kolmogorov–Arnold"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Redes Kolmogorov–Arnold
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /pt/terms/kolmogorovarnold_networks/
-date: "2026-07-18T15:07:19.926429Z"
-lastmod: "2026-07-18T15:51:59.505819Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T15:07:19.926429Z'
+lastmod: '2026-07-18T15:51:59.505819Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Arquiteturas de redes neurais baseadas no teorema da representação de Kolmogorov-Arnold, oferecendo uma alternativa aos perceptrons multicamadas."
+source: agnes_llm
+status: published
+language: pt
+description: Arquiteturas de redes neurais baseadas no teorema da representação de
+  Kolmogorov-Arnold, oferecendo uma alternativa aos perceptrons multicamadas.
 ---
-
 ## Definition
 
 As Redes Kolmogorov–Arnold (KANs) são uma classe recente de redes neurais inspirada no teorema da representação de Kolmogorov-Arnold, que afirma que qualquer função contínua multivariada pode ser representada

@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /hu/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:53:33.065926Z"
 lastmod: "2026-07-18T17:15:09.769047Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan adathalmaz, amely alternatív lexikai formákat tartalmaz, és amelyeket modellek tanítására használnak a szemantikus egyenértékűség és a parafrazis-felismerés területén."
 ---
-
 ## Definition
 
 Az Altlex adathalmaz olyan mondatpárokból áll, amelyek ugyanazt az alapvető jelentést hordozzák, de eltérő szókincset vagy szintaktikai szerkezetet használnak. Főként beágyazási modellek tanítására szolgál.

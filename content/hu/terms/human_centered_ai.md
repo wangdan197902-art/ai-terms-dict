@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /hu/terms/human_centered_ai/
 date: "2026-07-18T16:04:06.531108Z"
 lastmod: "2026-07-18T17:15:09.793802Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy MI tervezési és fejlesztési megközelítés, amely a rendszer teljes életciklusa során az emberi értékekre, szükségletekre és jólétre helyezi a hangsúlyt."
 ---
-
 ## Definition
 
 Az emberközpontú MI egy tervezési filozófia, amely az embereket állítja a mesterséges intelligencia fejlesztésének középpontjába. Hangsúlyt fektet az átlátható, tisztességes és a társadalom számára előnyös rendszerek létrehozására, szemben...

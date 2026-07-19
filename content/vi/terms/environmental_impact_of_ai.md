@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /vi/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:51:58.377061Z"
 lastmod: "2026-07-18T16:38:07.754473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Hậu quả sinh thái từ việc phát triển, huấn luyện và triển khai các mô hình AI, bao gồm tiêu thụ năng lượng và khí thải carbon."
 ---
-
 ## Definition
 
 Thuật ngữ này đề cập đến các yêu cầu về tài nguyên đáng kể liên quan đến công nghệ AI, đặc biệt là trong giai đoạn huấn luyện các mô hình lớn. Nó bao gồm mức tiêu thụ điện năng cho các trung tâm dữ liệu, sản xuất chip phần cứng và quản lý chất thải điện tử.

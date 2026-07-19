@@ -1,23 +1,23 @@
 ---
-title: "Menuju"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: Menuju
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /id/terms/towards/
-date: "2026-07-18T15:30:15.952182Z"
-lastmod: "2026-07-18T16:38:07.405032Z"
+slug: towards
+date: '2026-07-18T15:30:15.952182Z'
+lastmod: '2026-07-18T16:38:07.405032Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "'Menuju' merujuk pada kemajuan arah atau tujuan optimasi dalam AI, menunjukkan pergerakan ke arah peningkatan kinerja atau pencapaian tujuan tertentu."
+source: agnes_llm
+status: published
+language: id
+description: '''Menuju'' merujuk pada kemajuan arah atau tujuan optimasi dalam AI,
+  menunjukkan pergerakan ke arah peningkatan kinerja atau pencapaian tujuan tertentu.'
 ---
-
 ## Definition
 
 Dalam pengembangan AI, 'menuju' sering menggambarkan trajektori proses optimasi, seperti penurunan gradien yang menggerakkan bobot menuju nilai kerugian minimum. Istilah ini juga menandakan arah penelitian, di mana upaya difokuskan untuk mencapai standar etika, efisiensi komputasi, atau keselarasan dengan nilai-nilai manusia.

@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /cs/terms/is_this_what_we_want/
 date: "2026-07-18T16:03:47.666805Z"
 lastmod: "2026-07-18T17:15:09.143835Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kritický etický rámec používaný k hodnocení systémů AI proti společenským hodnotám, spravedlnosti a potenciálním škodlivým důsledkům."
 ---
-
 ## Definition
 
 Tato fráze představuje klíčovou otázku v etice a správě AI, která vybízí zúčastněné strany k posouzení toho, zda nasazené technologie AI jsou v souladu s lidskými hodnotami a veřejným zájmem. Zahrnuje pečlivou kontrolu dopadů na společnost, předcházení zkreslení a zajištění odpovědného vývoje.

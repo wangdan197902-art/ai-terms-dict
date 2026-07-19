@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /zh/terms/hallucination/
 date: "2026-07-18T07:44:46.533422Z"
 lastmod: "2026-07-18T11:44:44.591897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "当AI模型生成自信但事实错误或无意义的信息时。"
 ---
-
 ## Definition
 
 当生成式AI模型产生的输出看似合理，但缺乏现实或源数据的支撑时，就会发生幻觉。这是在对准确性要求极高的应用中面临的一个重大挑战。

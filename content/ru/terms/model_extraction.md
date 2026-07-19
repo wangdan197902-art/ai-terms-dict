@@ -1,23 +1,23 @@
 ---
-title: "Извлечение модели (Model Extraction)"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: Извлечение модели (Model Extraction)
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /ru/terms/model_extraction/
-date: "2026-07-18T16:21:07.577408Z"
-lastmod: "2026-07-18T16:38:07.215894Z"
+slug: model_extraction
+date: '2026-07-18T16:21:07.577408Z'
+lastmod: '2026-07-18T16:38:07.215894Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Атака, при которой злоумышленник запрашивает модель для восстановления ее параметров или создания копии."
+source: agnes_llm
+status: published
+language: ru
+description: Атака, при которой злоумышленник запрашивает модель для восстановления
+  ее параметров или создания копии.
 ---
-
 ## Definition
 
 Извлечение модели включает отправку запросов к API целевой модели машинного обучения для вывода ее внутренней структуры, весов или границ принятия решений. Злоумышленники используют эти запросы для построения суррогатной модели, которая ведет себя аналогично оригиналу.

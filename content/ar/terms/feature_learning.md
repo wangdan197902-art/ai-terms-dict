@@ -1,23 +1,24 @@
 ---
-title: "تعلم الميزات"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: تعلم الميزات
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /ar/terms/feature_learning/
-date: "2026-07-18T15:57:51.470880Z"
-lastmod: "2026-07-18T17:15:08.504105Z"
+slug: feature_learning
+date: '2026-07-18T15:57:51.470880Z'
+lastmod: '2026-07-18T17:15:08.504105Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج تكتشف فيه الخوارزميات تلقائياً الميزات المطلوبة للكشف أو التصنيف من البيانات الخام."
+source: agnes_llm
+status: published
+language: ar
+description: نهج تكتشف فيه الخوارزميات تلقائياً الميزات المطلوبة للكشف أو التصنيف
+  من البيانات الخام.
 ---
-
 ## Definition
 
 يرتبط تعلم الميزات غالباً بالتعلم العميق، حيث يمكّن النماذج من تعلم تمثيلات هرمية مباشرة من بيانات الإدخال الخام بدلاً من الاعتماد على الهندسة اليدوية للميزات. من خلال طبقات متعددة، يتعلم النموذج خصائص بسيطة ثم مركبة، مما يحسن من قدرته على التعميم والدقة.

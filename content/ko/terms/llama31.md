@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /ko/terms/llama31/
 date: "2026-07-18T16:03:01.834116Z"
 lastmod: "2026-07-18T16:38:06.864140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "Llama 3.1은 8B, 70B, 405B 파라미터 모델과 확장된 128k 컨텍스트 윈도우, 네이티브 도구 사용 기능을 갖춘 메타의 2024년 8월 업데이트입니다."
 ---
-
 ## Definition
 
 2024년 8월 출시된 Llama 3.1은 방대한 4050억 파라미터 모델을 비롯해 작은 8B 및 70B 변형 모델을 포함하여 Llama 패밀리 규모를 확대했습니다. 두드러진 특징은 확장된 128k 컨텍스트 윈도우와 네이티브 도구 사용 기능입니다.

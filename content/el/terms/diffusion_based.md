@@ -1,23 +1,24 @@
 ---
-title: "βάσει διάχυσης"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: βάσει διάχυσης
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /el/terms/diffusion_based/
-date: "2026-07-18T15:35:54.100676Z"
-lastmod: "2026-07-18T17:15:09.859005Z"
+slug: diffusion_based
+date: '2026-07-18T15:35:54.100676Z'
+lastmod: '2026-07-18T17:15:09.859005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια προσέγγιση γεννήτριας μοντελοποίησης που δημιουργεί δεδομένα αντιστρέφοντας μια σταδιακή διαδικασία προσθήκης θορύβου μέσω μαθημένων βημάτων αφαίρεσης θορύβου."
+source: agnes_llm
+status: published
+language: el
+description: Μια προσέγγιση γεννήτριας μοντελοποίησης που δημιουργεί δεδομένα αντιστρέφοντας
+  μια σταδιακή διαδικασία προσθήκης θορύβου μέσω μαθημένων βημάτων αφαίρεσης θορύβου.
 ---
-
 ## Definition
 
 Τα μοντέλα βάσει διάχυσης είναι μια κατηγορία γεννητριών AI που δημιουργούν νέα δείγματα δεδομένων αφαιρώντας επαναληπτικά τον θόρυβο από μια τυχαία κατανομή. Η διαδικασία ξεκινά με μια φάσα προς τα εμπρός που προσθέτει αργά Gaussian θόρυβο σε δεδομένα μέχρι να γίνει μη αναγνωρίσιμη, και στη συνέχεια εκπαιδεύεται ένα νευρωνικό δίκτυο να προβλέπει και να αφαιρεί αυτόν τον θόρυβο, αποκαθιστώντας έτσι την αρχική δομή των δεδομένων.

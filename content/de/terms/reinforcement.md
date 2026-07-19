@@ -1,23 +1,23 @@
 ---
-title: "Verstärkung"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Verstärkung
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /de/terms/reinforcement/
-date: "2026-07-18T10:53:11.464991Z"
-lastmod: "2026-07-18T11:44:44.881763Z"
+slug: reinforcement
+date: '2026-07-18T10:53:11.464991Z'
+lastmod: '2026-07-18T11:44:44.881763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Verstärkung bezieht sich auf den Prozess der Verhaltensänderung durch Belohnungen oder Bestrafungen zur Optimierung der Entscheidungsfindung."
+source: agnes_llm
+status: published
+language: de
+description: Verstärkung bezieht sich auf den Prozess der Verhaltensänderung durch
+  Belohnungen oder Bestrafungen zur Optimierung der Entscheidungsfindung.
 ---
-
 ## Definition
 
 Verstärkung ist ein fundamentales psychologisches und rechnerisches Mechanismus, bei dem die Aktionen eines Agenten durch Konsequenzen geformt werden. Im maschinellen Lernen beinhaltet dies die Bereitstellung von positivem Feedback (Belohnungen) für

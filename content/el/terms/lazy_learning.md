@@ -1,23 +1,25 @@
 ---
-title: "Εύκολη μάθηση (Lazy learning)"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Εύκολη μάθηση (Lazy learning)
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /el/terms/lazy_learning/
-date: "2026-07-18T16:17:36.312033Z"
-lastmod: "2026-07-18T17:15:09.925265Z"
+slug: lazy_learning
+date: '2026-07-18T16:17:36.312033Z'
+lastmod: '2026-07-18T17:15:09.925265Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια προσέγγιση μάθησης που καθυστερεί τη γενίκευση μέχρι τη στιγμή της ταξινόμησης, αποθηκεύοντας τα εκπαιδευτικά στιγμιότυπα αντί να κατασκευάζει ένα ρητό μοντέλο."
+source: agnes_llm
+status: published
+language: el
+description: Μια προσέγγιση μάθησης που καθυστερεί τη γενίκευση μέχρι τη στιγμή της
+  ταξινόμησης, αποθηκεύοντας τα εκπαιδευτικά στιγμιότυπα αντί να κατασκευάζει ένα
+  ρητό μοντέλο.
 ---
-
 ## Definition
 
 Οι αλγόριθμοι εύκολης μάθησης, όπως οι k-Γειτονικότεροι Γείτονες (k-NN), απομνημονεύουν ολόκληρο το σύνολο εκπαίδευσης και εκτελούν υπολογισμούς μόνο κατά την παραγωγή προβλέψεων. Αυτό αντιτίθεται στην «άσκητη» μάθηση (eager learning), η οποία κατασκευάζει ένα γενικευμένο μοντέλο πριν από την εκτέλεση.

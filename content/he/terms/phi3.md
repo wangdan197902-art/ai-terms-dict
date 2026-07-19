@@ -1,23 +1,23 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /he/terms/phi3/
-date: "2026-07-18T16:17:22.515452Z"
-lastmod: "2026-07-18T17:15:09.573940Z"
+slug: phi3
+date: '2026-07-18T16:17:22.515452Z'
+lastmod: '2026-07-18T17:15:09.573940Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משפחה של מודלי שפה גדולים בעלי משקל פתוח שפותחו על ידי מחקר מיקרוסופט."
+source: agnes_llm
+status: published
+language: he
+description: משפחה של מודלי שפה גדולים בעלי משקל פתוח שפותחו על ידי מחקר מיקרוסופט.
 ---
-
 ## Definition
 
 Phi-3 היא סדרה של מודלי שפה קטנים (SLMs) ששוחררה על ידי מיקרוסופט, המיועדת לספק ביצועים גבוהים הניתנים להשוואה למודלים גדולים יותר, תוך דרישה למשאבי חישוב נמוכים משמעותית.

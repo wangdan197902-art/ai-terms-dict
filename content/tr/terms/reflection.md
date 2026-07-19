@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /tr/terms/reflection/
 date: "2026-07-18T16:11:54.129456Z"
 lastmod: "2026-07-18T16:38:07.359167Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI modellerinin kendi çıktılarını, akıl yürütme süreçlerini veya iç durumlarını analiz ederek gelecekteki performanslarını iyileştirmelerini sağlayan mekanizma."
 ---
-
 ## Definition
 
 Yapay zekada yansıma, bir modelin nihai çıktıyı üretmeden önce kendi üretim sürecini veya çıktısını değerlendirmek için duraksadığı bir paradigmadır. Bu süreç, mantıksal tutarlılığı, faktüel doğruluğu veya güvenlik kriterlerini karşılayıp karşılamadığını kontrol etmeyi içerebilir. Yansıma, modellerin hata yapma olasılığını azaltmasına ve daha tutarlı sonuçlar üretmesine yardımcı olur.

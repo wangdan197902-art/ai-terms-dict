@@ -1,23 +1,23 @@
 ---
-title: "方策（ポリシー）"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: 方策（ポリシー）
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /ja/terms/policy/
-date: "2026-07-18T10:53:53.758818Z"
-lastmod: "2026-07-18T11:44:45.016172Z"
+slug: policy
+date: '2026-07-18T10:53:53.758818Z'
+lastmod: '2026-07-18T11:44:45.016172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "合理的な結果を達成するために意思決定を導くための戦略または行動計画。強化学習では、状態から行動へのマッピングとしてよく使われます。"
+source: agnes_llm
+status: published
+language: ja
+description: 合理的な結果を達成するために意思決定を導くための戦略または行動計画。強化学習では、状態から行動へのマッピングとしてよく使われます。
 ---
-
 ## Definition
 
 「ポリシー」という用語は文脈によって二つの意味を持ちます。一般的な経営では、意思決定のための指針を意味しますが、強化学習（RL）では、エージェントが特定の状態で取るべき行動を決定する関数やルールセットを指し、学習の核心部分を形成します。

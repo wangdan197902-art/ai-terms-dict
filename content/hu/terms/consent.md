@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /hu/terms/consent/
 date: "2026-07-18T15:51:20.361222Z"
 lastmod: "2026-07-18T17:15:09.765011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az egyének explicit, tájékozott beleegyezése, hogy adataikat AI célokra gyűjtsék és feldolgozzák."
 ---
-
 ## Definition
 
 Az AI etikájában a hozzájárulás a felhasználók vagy alanyok által adott önkéntes és tájékozott engedélyt jelenti, mielőtt személyes adataikat gyűjtenék, tárolnák vagy használnák gépi tanulási modellekben. Ez feltételezi a teljes átláthatóságot.

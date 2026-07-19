@@ -1,23 +1,24 @@
 ---
-title: "Residuele verbinding"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Residuele verbinding
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /nl/terms/residual_connection/
-date: "2026-07-18T15:38:49.072714Z"
-lastmod: "2026-07-18T17:15:08.708597Z"
+slug: residual_connection
+date: '2026-07-18T15:38:49.072714Z'
+lastmod: '2026-07-18T17:15:08.708597Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een mechanisme dat de invoer direct bij de uitvoer van een laag optelt om de gradientstroom in diepe netwerken te vergemakkelijken."
+source: agnes_llm
+status: published
+language: nl
+description: Een mechanisme dat de invoer direct bij de uitvoer van een laag optelt
+  om de gradientstroom in diepe netwerken te vergemakkelijken.
 ---
-
 ## Definition
 
 Residuele verbindingen, ook wel skip-verbindingen genoemd, stellen gradients in staat door een netwerk te stromen door de invoer direct bij de uitvoer van een volgende laag op te tellen. Deze architectuur lost het probleem van verdwijnende gradients op.

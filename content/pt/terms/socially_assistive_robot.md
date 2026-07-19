@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /pt/terms/socially_assistive_robot/
 date: "2026-07-18T15:22:37.463955Z"
 lastmod: "2026-07-18T15:51:59.533184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um robô projetado para interagir com humanos para melhorar seu bem-estar físico ou psicológico, sem realizar tarefas físicas diretas."
 ---
-
 ## Definition
 
 Robôs Assistidos Socialmente (SARs) são um subconjunto da interação humano-robô focado em fornecer assistência por meio de meios sociais, em vez de manipulação física. Eles utilizam estratégias de não contato, como comunicação verbal, gestos e expressões faciais, para motivar, instruir ou apoiar usuários.

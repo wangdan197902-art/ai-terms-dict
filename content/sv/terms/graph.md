@@ -1,23 +1,24 @@
 ---
-title: "Grafer"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Grafer
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /sv/terms/graph/
-date: "2026-07-18T15:26:32.843087Z"
-lastmod: "2026-07-18T17:15:08.943266Z"
+slug: graph
+date: '2026-07-18T15:26:32.843087Z'
+lastmod: '2026-07-18T17:15:08.943266Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En matematisk struktur bestående av noder som är sammankopplade av kanter, använd för att representera relationer mellan enheter."
+source: agnes_llm
+status: published
+language: sv
+description: En matematisk struktur bestående av noder som är sammankopplade av kanter,
+  använd för att representera relationer mellan enheter.
 ---
-
 ## Definition
 
 En graf är en grundläggande datastruktur inom AI som består av hörn (noder) och kanter (länkar) som betecknar relationer. Grafneurala nätverk (GNN) utnyttjar denna struktur för att utföra inlärning på icke-euklidiska data.

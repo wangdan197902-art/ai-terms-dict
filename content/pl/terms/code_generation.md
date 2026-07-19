@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /pl/terms/code_generation/
 date: "2026-07-18T15:22:51.170013Z"
 lastmod: "2026-07-18T17:15:08.805548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces wykorzystywania sztucznej inteligencji do automatycznego tworzenia kodu źródłowego na podstawie opisów w języku naturalnym lub istniejących fragmentów kodu."
 ---
-
 ## Definition
 
 Generowanie kodu wykorzystuje duże modele językowe wytrenowane na ogromnych repozytoriach języków programowania w celu wytworzenia funkcjonalnych artefaktów oprogramowania. Interpretuje one czytelne dla człowieka polecenia, takie jak komentarze czy opisy funkcjonalności, przekładając je na działający kod.

@@ -1,23 +1,23 @@
 ---
-title: "học một lần (one-shot)"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: học một lần (one-shot)
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /vi/terms/one_shot/
-date: "2026-07-18T15:31:38.723105Z"
-lastmod: "2026-07-18T16:38:07.703539Z"
+slug: one_shot
+date: '2026-07-18T15:31:38.723105Z'
+lastmod: '2026-07-18T16:38:07.703539Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình học tập trong đó mô hình học cách thực hiện một nhiệm vụ từ duy nhất một ví dụ đã được gắn nhãn."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình học tập trong đó mô hình học cách thực hiện một nhiệm vụ
+  từ duy nhất một ví dụ đã được gắn nhãn.
 ---
-
 ## Definition
 
 Học một lần là một dạng cụ thể của học ít mẫu (few-shot learning), trong đó thuật toán phải khái quát hóa sang các lớp hoặc nhiệm vụ mới sau khi chỉ nhìn thấy một ví dụ dương tính duy nhất trong quá trình huấn luyện. Cách tiếp cận này bắt chước khả năng học nhanh của con người.

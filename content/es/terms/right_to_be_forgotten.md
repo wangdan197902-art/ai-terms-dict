@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /es/terms/right_to_be_forgotten/
 date: "2026-07-18T11:14:17.701185Z"
 lastmod: "2026-07-18T11:44:44.868042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un concepto legal que permite a los individuos solicitar la eliminación de sus datos personales en poder de las organizaciones."
 ---
-
 ## Definition
 
 El derecho al olvido permite a los usuarios exigir la retirada de su información personal de bases de datos y conjuntos de entrenamiento de IA. Implementar esto en el aprendizaje automático es desafiante porque los modelos pueden haber internalizado patrones de esos datos, requiriendo técnicas específicas de borrado.

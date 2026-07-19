@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /ro/terms/prior/
 date: "2026-07-18T15:28:24.102612Z"
 lastmod: "2026-07-18T17:15:09.601081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În statistica bayesiană, o distribuție de probabilitate care exprimă cunoașterea sau credința despre un parametru înainte de a observa dovezi sau date noi."
 ---
-
 ## Definition
 
 Un 'a priori' reprezintă credințele existente sau datele istorice privind o variabilă înainte de incorporarea observațiilor noi. În inferența bayesiană, a priori-ul este combinat cu verosimilitatea datelor observate...

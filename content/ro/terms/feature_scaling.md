@@ -1,23 +1,24 @@
 ---
-title: "Scalarea caracteristicilor"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Scalarea caracteristicilor
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /ro/terms/feature_scaling/
-date: "2026-07-18T15:58:24.013443Z"
-lastmod: "2026-07-18T17:15:09.656060Z"
+slug: feature_scaling
+date: '2026-07-18T15:58:24.013443Z'
+lastmod: '2026-07-18T17:15:09.656060Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de normalizare a intervalului variabilelor independente sau al caracteristicilor datelor pentru a asigura uniformitatea magnitudinii."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de normalizare a intervalului variabilelor independente sau
+  al caracteristicilor datelor pentru a asigura uniformitatea magnitudinii.
 ---
-
 ## Definition
 
 Scalarea caracteristicilor standardizează intervalul variabilelor de intrare pentru a preveni ca caracteristicile cu magnitudini mai mari să domine procesul de învățare. Metodele comune includ normalizarea (scalarea min-max) și standardizarea (transformarea Z-score), asigurând astfel o convergență mai rapidă și stabilă a algoritmilor de optimizare.

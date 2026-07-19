@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /de/terms/artificial_intelligence_of_things/
 date: "2026-07-18T11:03:33.637059Z"
 lastmod: "2026-07-18T11:44:44.910747Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Konvergenz von KI und IoT, die es intelligenten Geräten ermöglicht, Daten lokal zu verarbeiten und autonome Entscheidungen zu treffen."
 ---
-
 ## Definition
 
 Artificial Intelligence of Things (AIoT) stellt die synergetische Integration von Künstlicher Intelligenz und Internet-of-Things-Technologien dar. Durch das Einbetten von KI-Algorithmen direkt in IoT-Geräte oder

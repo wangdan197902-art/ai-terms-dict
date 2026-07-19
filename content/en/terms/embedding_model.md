@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /en/terms/embedding_model/
 date: "2026-07-18T09:40:59.277024Z"
 lastmod: "2026-07-18T11:44:44.624145Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An embedding model converts raw data like text or images into dense numerical vectors representing semantic meaning."
 ---
-
 ## Definition
 
 These models map high-dimensional data into a lower-dimensional continuous vector space where similar items are located closer together. This transformation captures semantic relationships, allowing algorithms to perform tasks like similarity search, clustering, and recommendation based on vector distance. Embeddings are fundamental to modern NLP and computer vision applications, enabling machines to understand context and nuance beyond simple keyword matching.

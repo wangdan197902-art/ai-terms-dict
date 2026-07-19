@@ -1,23 +1,24 @@
 ---
-title: "Karakter tabanlı hesaplama"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Karakter tabanlı hesaplama
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /tr/terms/character_computing/
-date: "2026-07-18T15:44:48.049607Z"
-lastmod: "2026-07-18T16:38:07.281489Z"
+slug: character_computing
+date: '2026-07-18T15:44:48.049607Z'
+lastmod: '2026-07-18T16:38:07.281489Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Karakter tabanlı hesaplama, metni kelime veya cümle düzeyi yerine bireysel karakter düzeyinde işleme, oluşturma veya analiz etmeyi içerir."
+source: agnes_llm
+status: published
+language: tr
+description: Karakter tabanlı hesaplama, metni kelime veya cümle düzeyi yerine bireysel
+  karakter düzeyinde işleme, oluşturma veya analiz etmeyi içerir.
 ---
-
 ## Definition
 
 Bu kavram, hesaplamanın temel biriminin tek bir karakter olduğu metin manipülasyonuna odaklanır. Yazım denetimi gibi ince granüllü metin analizi gerektiren görevlerde sıklıkla kullanılır.

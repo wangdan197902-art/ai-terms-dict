@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /da/terms/intelligent_word_recognition/
 date: "2026-07-18T16:02:18.081966Z"
 lastmod: "2026-07-18T17:15:09.300847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brugen af AI-algoritmer, især deep learning, til nøjagtigt at identificere og fortolke tekst fra billeder eller håndskrevne kilder."
 ---
-
 ## Definition
 
 Intelligent ordgenkendelse refererer til avancerede teknologier til optisk tegngenkendelse (OCR), drevet af neurale netværk. Den går ud over simpel mønstergenkendelse ved at forstå kontekst og håndtere n

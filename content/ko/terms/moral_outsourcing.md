@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /ko/terms/moral_outsourcing/
 date: "2026-07-18T16:06:20.712567Z"
 lastmod: "2026-07-18T16:38:06.886806Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "개인이나 조직이 윤리적 의사결정 책임을 자동화된 AI 시스템에 위임하는 윤리적 우려."
 ---
-
 ## Definition
 
 도덕적 아웃소싱은 인간이 알고리즘이나 AI 시스템에게 윤리적 판단과 책임을 넘기는 현상을 의미합니다. 이는 사람들이 도덕적으로 중요한 결정에 대해 자동화된 결정에 의존할 때 발생합니다.

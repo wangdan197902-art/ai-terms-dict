@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /es/terms/semantic_folding/
 date: "2026-07-18T11:07:34.367342Z"
 lastmod: "2026-07-18T11:44:44.852920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una técnica que mapea representaciones semánticas de alta dimensión a un espacio de menor dimensión preservando las estructuras relacionales."
 ---
-
 ## Definition
 
 El plegado semántico se refiere al proceso de comprimir incrustaciones vectoriales complejas y de alta dimensión en una representación de menor dimensión más manejable, sin perder significativamente el significado semántico.

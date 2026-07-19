@@ -1,23 +1,24 @@
 ---
-title: "Эпоха"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Эпоха
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /ru/terms/epoch/
-date: "2026-07-18T15:51:49.623376Z"
-lastmod: "2026-07-18T16:38:07.154303Z"
+slug: epoch
+date: '2026-07-18T15:51:49.623376Z'
+lastmod: '2026-07-18T16:38:07.154303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Один полный проход обучающей выборки через алгоритм машинного обучения в процессе обучения модели."
+source: agnes_llm
+status: published
+language: ru
+description: Один полный проход обучающей выборки через алгоритм машинного обучения
+  в процессе обучения модели.
 ---
-
 ## Definition
 
 В машинном обучении эпоха представляет собой одну итерацию по всему обучающему набору данных. Во время каждой эпохи модель обрабатывает все обучающие примеры, обновляет свои веса посредством обратного распространения ошибки и корректирует параметры.

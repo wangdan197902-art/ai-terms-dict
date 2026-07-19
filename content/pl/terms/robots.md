@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /pl/terms/robots/
 date: "2026-07-18T15:29:10.103855Z"
 lastmod: "2026-07-18T17:15:08.819718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Liczba mnoga odnosząca się do wielu programowalnych maszyn zaprojektowanych do autonomicznego wykonywania zadań."
 ---
-
 ## Definition
 
 Roboty obejmują zróżnicowaną klasę maszyn, które można klasyfikować ze względu na mobilność, konstrukcję lub domenę zastosowania. Kategoria ta obejmuje ramiona przemysłowe, autonomiczne mobilne roboty (AMR), drony i inne.

@@ -1,23 +1,24 @@
 ---
-title: "הדמיית תכונות"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: הדמיית תכונות
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /he/terms/feature_hashing/
-date: "2026-07-18T15:57:27.420399Z"
-lastmod: "2026-07-18T17:15:09.540155Z"
+slug: feature_hashing
+date: '2026-07-18T15:57:27.420399Z'
+lastmod: '2026-07-18T17:15:09.540155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה הממפה תכונות דלילות רבות-ממד למערך בגודל קבוע באמצעות פונקציית גיבוב."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה הממפה תכונות דלילות רבות-ממד למערך בגודל קבוע באמצעות פונקציית
+  גיבוב.
 ---
-
 ## Definition
 
 הדמיית תכונות, הידועה גם כ'מלכודת הגיבוב' (hashing trick), מאפשרת למודלי למידת מכונה לטפל במרחבי תכונות גדולים ודלילים ללא צורך בשמירה על מיפוי מפורש בין התכונות לאינדקסים שלהן. על ידי שימוש בפונקציית גיבוב, המערכת ממפה כל תכונה לערך יחיד במערך קבוע, מה שמפחית משמעותית את צריכת הזיכרון ומאפשר סקאלביליות גבוהה בעיבוד נתונים ענקיים.

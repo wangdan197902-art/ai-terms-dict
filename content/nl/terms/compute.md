@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /nl/terms/compute/
 date: "2026-07-18T15:47:12.565465Z"
 lastmod: "2026-07-18T17:15:08.727677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Rekenkracht verwijst naar de verwerkingscapaciteit en middelen die worden gebruikt om algoritmen uit te voeren en gegevens te verwerken in AI-systemen."
 ---
-
 ## Definition
 
 In kunstmatige intelligentie vertegenwoordigt rekenkracht de fundamentele infrastructuur die nodig is om modellen te trainen en inferentie uit te voeren. Het omvat hardwarecomponenten zoals CPU's, GPU's en TPU's, evenals de bijbehorende softwarestacks en netwerkinfrastructuur die deze middelen toegankelijk maken voor complexe berekeningen.

@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /ja/terms/closed_loop/
 date: "2026-07-18T10:56:18.939966Z"
 lastmod: "2026-07-18T11:44:45.024145Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "出力フィードバックを継続的に使用して将来の行動を調整する制御システム。"
 ---
-
 ## Definition
 
 AIにおけるクローズドループシステムは、環境からのリアルタイムフィードバックを利用して、動作やパラメータを動的に調整します。これは、事前に定義されたシーケンスを実行するだけのオープンループシステムとは対照的です。

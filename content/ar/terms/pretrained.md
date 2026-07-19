@@ -1,23 +1,24 @@
 ---
-title: "مدرب مسبقاً"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: مدرب مسبقاً
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /ar/terms/pretrained/
-date: "2026-07-18T16:16:48.194473Z"
-lastmod: "2026-07-18T17:15:08.538270Z"
+slug: pretrained
+date: '2026-07-18T16:16:48.194473Z'
+lastmod: '2026-07-18T17:15:08.538270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير إلى نموذج تم تدريبه بالفعل على مجموعة بيانات كبيرة قبل تعديله لمهمة محددة."
+source: agnes_llm
+status: published
+language: ar
+description: يشير إلى نموذج تم تدريبه بالفعل على مجموعة بيانات كبيرة قبل تعديله لمهمة
+  محددة.
 ---
-
 ## Definition
 
 يصف مصطلح 'مدرب مسبقاً' نموذج شبكة عصبية خضع لتدريب أولي على مجموعة بيانات ضخمة وعامة غالباً، مثل ImageNet أو ويكيبيديا. تسمح هذه العملية للنموذج بتعلم ميزات عامة واسعة النطاق، والتي يمكن بعد ذلك نقلها وضبطها بدقة لمهام أكثر تحديداً.

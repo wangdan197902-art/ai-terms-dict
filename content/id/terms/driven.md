@@ -1,23 +1,25 @@
 ---
-title: "Didorong"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Didorong
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /id/terms/driven/
-date: "2026-07-18T15:25:07.994001Z"
-lastmod: "2026-07-18T16:38:07.391435Z"
+slug: driven
+date: '2026-07-18T15:25:07.994001Z'
+lastmod: '2026-07-18T16:38:07.391435Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Didorong menggambarkan sistem atau metodologi AI di mana pengambilan keputusan atau arsitektur model terutama dibimbing oleh jenis masukan tertentu, seperti data atau tujuan."
+source: agnes_llm
+status: published
+language: id
+description: Didorong menggambarkan sistem atau metodologi AI di mana pengambilan
+  keputusan atau arsitektur model terutama dibimbing oleh jenis masukan tertentu,
+  seperti data atau tujuan.
 ---
-
 ## Definition
 
 Istilah 'didorong' umumnya digunakan sebagai sufiks untuk menunjukkan kekuatan atau mekanisme utama di balik pendekatan AI. Misalnya, 'berbasis data' menyiratkan bahwa keputusan dibuat berdasarkan pola statistik dalam data, sedangkan 'berbasis aturan' mengandalkan logika eksplisit yang ditentukan manusia.

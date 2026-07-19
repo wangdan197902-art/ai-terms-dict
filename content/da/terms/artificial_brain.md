@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /da/terms/artificial_brain/
 date: "2026-07-18T15:41:33.192027Z"
 lastmod: "2026-07-18T17:15:09.259737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et computermæssigt system designet til at efterligne den biologiske menneskehjernes struktur og funktion, ofte ved hjælp af neurale netværk."
 ---
-
 ## Definition
 
 En kunstig hjerne refererer til hardware- eller softwarearkitekturer, der emulerer de neurale strukturer og behandlingsmetoder i den menneskelige hjerne. Dette inkluderer neuromorfe beregningschips, der replikerer hjernens opbygning.

@@ -1,23 +1,24 @@
 ---
-title: "Domain"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domain
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /id/terms/domain/
-date: "2026-07-18T15:25:07.993992Z"
-lastmod: "2026-07-18T16:38:07.391328Z"
+slug: domain
+date: '2026-07-18T15:25:07.993992Z'
+lastmod: '2026-07-18T16:38:07.391328Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah domain mewakili konteks atau distribusi data tertentu yang dicirikan oleh ruang fitur dan distribusi probabilitas mendasarnya."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah domain mewakili konteks atau distribusi data tertentu yang dicirikan
+  oleh ruang fitur dan distribusi probabilitas mendasarnya.
 ---
-
 ## Definition
 
 Dalam pembelajaran mesin, khususnya dalam pembelajaran transfer, sebuah domain didefinisikan oleh dua komponen: ruang fitur (himpunan semua kemungkinan masukan) dan distribusi probabilitas marjinal dari masukan-masukan tersebut. Perubahan dalam distribusi ini antara data pelatihan dan pengujian disebut pergeseran domain.

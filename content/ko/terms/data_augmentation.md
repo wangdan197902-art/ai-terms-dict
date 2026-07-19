@@ -1,23 +1,23 @@
 ---
-title: "데이터 증강"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: 데이터 증강
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /ko/terms/data_augmentation/
-date: "2026-07-18T15:47:12.733776Z"
-lastmod: "2026-07-18T16:38:06.824104Z"
+slug: data_augmentation
+date: '2026-07-18T15:47:12.733776Z'
+lastmod: '2026-07-18T16:38:06.824104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "기존 데이터 포인트에 변환을 적용하여 훈련 데이터셋의 다양성과 크기를 증가시키는 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 기존 데이터 포인트에 변환을 적용하여 훈련 데이터셋의 다양성과 크기를 증가시키는 기법입니다.
 ---
-
 ## Definition
 
 이 방법은 기존 샘플의 수정된 버전(예: 이미지 회전, 오디오 노이즈 추가, 텍스트 동의어 교체 등)을 생성하여 훈련 데이터셋을 인위적으로 확장합니다. 이를 통해 모델의 일반화 능력을 향상시키고 과적합(overfitting)을 방지하며, 제한된 데이터로도 강력한 모델을 학습시킬 수 있습니다.

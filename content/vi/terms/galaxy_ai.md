@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /vi/terms/galaxy_ai/
 date: "2026-07-18T15:54:25.719002Z"
 lastmod: "2026-07-18T16:38:07.759846Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thương hiệu của Samsung dành cho bộ tính năng trí tuệ nhân tạo tích hợp cả trên thiết bị và đám mây, được đưa vào các điện thoại thông minh và thiết bị dòng Galaxy."
 ---
-
 ## Definition
 
 Galaxy AI là hệ sinh thái chức năng AI độc quyền của Samsung, được thiết kế để nâng cao trải nghiệm người dùng trên toàn bộ dòng sản phẩm phần cứng của hãng, chủ yếu là điện thoại thông minh. Nó bao gồm các tính năng như dịch thuật thời gian thực, chỉnh sửa ảnh bằng AI và tóm tắt ghi chú cuộc họp.

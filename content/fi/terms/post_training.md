@@ -1,23 +1,25 @@
 ---
-title: "jälkitreeni"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: jälkitreeni
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /fi/terms/post_training/
-date: "2026-07-18T15:34:42.646475Z"
-lastmod: "2026-07-18T17:15:09.366250Z"
+slug: post_training
+date: '2026-07-18T15:34:42.646475Z'
+lastmod: '2026-07-18T17:15:09.366250Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Jälkitreeni viittaa vaiheeseen, jossa esitreeneillä koulutettua mallia hienosäädetään tiettyjen tietojoukkojen avulla soveltaakseen sitä erityisiin tehtäviin tai optimoidakseen sen suorituskykyä."
+source: agnes_llm
+status: published
+language: fi
+description: Jälkitreeni viittaa vaiheeseen, jossa esitreeneillä koulutettua mallia
+  hienosäädetään tiettyjen tietojoukkojen avulla soveltaakseen sitä erityisiin tehtäviin
+  tai optimoidakseen sen suorituskykyä.
 ---
-
 ## Definition
 
 Jälkitreeni on kriittinen vaihe koneoppimisessa, joka tapahtuu mallin alustavan esitreeneen jälkeen suurilla, yleiskäyttöisillä datajoukoilla. Tässä vaiheessa malli käy läpi hienosäätöprosessin, joka mukauttaa sen tarkemmin käyttötarkoitukseen ja parantaa sen kykyä suoriutua spesifeistä tehtävistä.

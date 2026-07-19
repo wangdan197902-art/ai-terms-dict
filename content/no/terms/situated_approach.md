@@ -1,23 +1,25 @@
 ---
-title: "Situeret tilnærming"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Situeret tilnærming
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /no/terms/situated_approach/
-date: "2026-07-18T16:16:03.597527Z"
-lastmod: "2026-07-18T16:38:07.047044Z"
+slug: situated_approach
+date: '2026-07-18T16:16:03.597527Z'
+lastmod: '2026-07-18T16:38:07.047044Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et designparadigma innen AI som prioriterer kontekstavhengig atferd og miljøinteraksjon framfor abstrakt resonnement."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et designparadigma innen AI som prioriterer kontekstavhengig atferd og
+  miljøinteraksjon framfor abstrakt resonnement.
 ---
-
 ## Definition
 
 Den situerte tilnærmingen er en metodisk rammeverk innen AI-forskning som hevder at intelligent atferd ikke kan skilles fra miljøet der den oppstår. Den forsvarer bygging av systemer som er tett integrert med og tilpasser seg sine omgivelser.

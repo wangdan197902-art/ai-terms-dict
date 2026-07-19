@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /ar/terms/knowledge_level/
 date: "2026-07-18T16:04:36.987716Z"
 lastmod: "2026-07-18T17:15:08.519667Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "منظور تصميم مجرد يركز على ما يعرفه الوكيل بدلاً من كيفية معالجة المعلومات داخلياً."
 ---
-
 ## Definition
 
 صاغ ألين نيويل مصطلح مستوى المعرفة لتحليل الأنظمة الذكية بناءً على معتقداتها وأهدافها، بغض النظر عن تنفيذها المادي. يفصل هذا المفهوم بين عقلانية أفعال الوكيل

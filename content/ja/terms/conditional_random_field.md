@@ -1,23 +1,23 @@
 ---
-title: "条件付きランダムフィールド"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: 条件付きランダムフィールド
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /ja/terms/conditional_random_field/
-date: "2026-07-18T11:08:38.545688Z"
-lastmod: "2026-07-18T11:44:45.079853Z"
+slug: conditional_random_field
+date: '2026-07-18T11:08:38.545688Z'
+lastmod: '2026-07-18T11:44:45.079853Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "条件付きランダムフィールド（CRF）は、シーケンスラベリングなどの構造化予測タスクに使用される判別型確率モデルです。"
+source: agnes_llm
+status: published
+language: ja
+description: 条件付きランダムフィールド（CRF）は、シーケンスラベリングなどの構造化予測タスクに使用される判別型確率モデルです。
 ---
-
 ## Definition
 
 条件付きランダムフィールド（CRF）は、自然言語処理やバイオインフォマティクスで一般的に使用される判別モデルのクラスです。生成モデルとは異なり、CRFは条件付き確率を直接モデル化します。

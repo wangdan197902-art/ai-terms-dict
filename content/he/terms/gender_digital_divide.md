@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /he/terms/gender_digital_divide/
 date: "2026-07-18T16:01:03.928344Z"
 lastmod: "2026-07-18T17:15:09.542743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הפערים הדיגיטליים המגדריים מתייחסים לפער בין גברים לנשים בגישה לטכנולוגיות מידע ותקשורת, בשימוש בהן ובתועלות הנגזרות מהן."
 ---
-
 ## Definition
 
 מושג סוציו-טכני זה מדגיש אי-שוויונות שבהן נשים ובנות לרוב יש להן פחות גישה למכשירים דיגיטליים, חיבור לאינטרנט וכישורי אוריינות דיגיטלית בהשוואה לגברים ולבנים. פערים אלו...

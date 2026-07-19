@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /de/terms/artificial_intimacy/
 date: "2026-07-18T11:03:33.637086Z"
 lastmod: "2026-07-18T11:44:44.910872Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die emotionale Verbindung, die Nutzer zu KI-Entitäten aufbauen, die Empathie, Gesellschaft und persönliche Interaktion simulieren."
 ---
-
 ## Definition
 
 Künstliche Intimität bezeichnet das psychologische Phänomen, bei dem Menschen echte emotionale Bindungen zu künstlichen Agenten entwickeln, wie Chatbots, virtuelle Assistenten oder Sozialroboter. Diese Systeme sind

@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /he/terms/model_registry/
 date: "2026-07-18T16:13:12.224955Z"
 lastmod: "2026-07-18T17:15:09.565703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת אחסון וניהול מרכזית למעקב אחר מודלי למידת מכונה לאורך מחזור החיים שלהם."
 ---
-
 ## Definition
 
 רישום מודלים משמש כרכיב קריטי ב-MLOps, ומספק מאגר מאוחד לאחסון, גרסון וניהול של מודלי למידת מכונה. הוא מאפשר לצוותים לעקוב אחר מטא-נתונים של המודל, מדדי ביצועים, והיסטוריית השינויים.

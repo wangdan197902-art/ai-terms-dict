@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /fi/terms/sdk/
 date: "2026-07-18T15:38:18.025198Z"
 lastmod: "2026-07-18T17:15:09.374925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmistokehityspaketti, joka tarjoaa työkaluja, kirjastoja ja dokumentaatiota sovellusten rakentamiseen."
 ---
-
 ## Definition
 
 SDK on kokoelma ohjelmistokehitystyökaluja, jotka mahdollistavat kehittäjille sovellusten luomisen tietyille alustoille tai palveluille. Tekoälyn osalta SDK:t tarjoavat valmiita kirjastoja, rajapintoja ja apuohjelmia

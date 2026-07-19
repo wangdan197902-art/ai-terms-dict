@@ -1,23 +1,23 @@
 ---
-title: "超参数优化"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: 超参数优化
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /zh/terms/hyperparameter_optimization/
-date: "2026-07-18T11:21:34.630898Z"
-lastmod: "2026-07-18T11:44:45.515545Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T11:21:34.630898Z'
+lastmod: '2026-07-18T11:44:45.515545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种自动寻找最佳超参数配置的方法，通常使用概率模型来指导搜索过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种自动寻找最佳超参数配置的方法，通常使用概率模型来指导搜索过程。
 ---
-
 ## Definition
 
 超参数优化（HPO）指的是自动化选择超参数的更广泛领域。虽然“调优”是一个通用术语，但“优化”通常暗示使用复杂的算法（如贝叶斯优化）来高效地探索超参数空间，从而在有限的计算资源下找到最优配置。

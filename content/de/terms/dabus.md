@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /de/terms/dabus/
 date: "2026-07-18T11:09:31.371359Z"
 lastmod: "2026-07-18T11:44:44.923376Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "DABUS steht für Device for the Autonomous Bootstrapping of Unified Sentience (Gerät zur autonomen Initialisierung einheitlichen Bewusstseins), ein KI-System, das von Stephen Thaler entwickelt wurde un"
 ---
-
 ## Definition
 
 DABUS ist ein spezifisches künstliches neuronales Netzwerk, das darauf ausgelegt ist, neue Erfindungen ohne direktes menschliches Eingreifen zu generieren. Es erregte erhebliche rechtliche Aufmerksamkeit, als sein Schöpfer Stephen Thaler versuchte,

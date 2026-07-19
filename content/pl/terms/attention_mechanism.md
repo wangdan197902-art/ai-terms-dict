@@ -1,23 +1,24 @@
 ---
-title: "Mechanizm uwagi"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Mechanizm uwagi
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /pl/terms/attention_mechanism/
-date: "2026-07-18T15:22:37.566260Z"
-lastmod: "2026-07-18T17:15:08.805142Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:37.566260Z'
+lastmod: '2026-07-18T17:15:08.805142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika pozwalająca sieciom neuronowym skupiać się na określonych częściach danych wejściowych podczas generowania wyników."
+source: agnes_llm
+status: published
+language: pl
+description: Technika pozwalająca sieciom neuronowym skupiać się na określonych częściach
+  danych wejściowych podczas generowania wyników.
 ---
-
 ## Definition
 
 Mechanizm uwagi umożliwia modelowi dynamiczne przypisywanie wagi różnym elementom w sekwencji wejściowej. Zamiast traktować wszystkie dane wejściowe równo, przypisuje im różne poziomy znaczenia

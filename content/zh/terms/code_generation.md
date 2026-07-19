@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /zh/terms/code_generation/
 date: "2026-07-18T07:44:21.592227Z"
 lastmod: "2026-07-18T11:44:44.591131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "利用人工智能根据自然语言描述或现有代码片段自动创建源代码的过程。"
 ---
-
 ## Definition
 
 代码生成利用在海量编程语言存储库上训练的大型语言模型，来生成可运行的软件工件。它解析人类可读的提示（如注释或自然语言指令），从而自动生成相应的功能代码。

@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /es/terms/feedback/
 date: "2026-07-18T10:23:13.320492Z"
 lastmod: "2026-07-18T11:44:44.740735Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La retroalimentación implica utilizar los resultados de salida para ajustar y mejorar iterativamente el rendimiento de un modelo o sistema de IA."
 ---
-
 ## Definition
 
 Los mecanismos de retroalimentación permiten que los sistemas de IA aprendan de sus interacciones con usuarios o entornos, refinando predicciones o acciones futuras. Esto incluye señales de aprendizaje por refuerzo y humanos en el bucle.

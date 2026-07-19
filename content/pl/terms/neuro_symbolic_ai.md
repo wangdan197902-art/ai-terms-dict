@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /pl/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:09:01.008725Z"
 lastmod: "2026-07-18T17:15:08.901682Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Podejście do AI łączące zdolności uczenia się sieci neuronowych z logiką i przejrzystością rozumowania symbolowego."
 ---
-
 ## Definition
 
 Neuro-symboliczna sztuczna inteligencja integruje metody uczenia się subsymbolicznego (sieci neuronowe) z systemami opartymi na logice symbolowej. To hybrydowe podejście ma na celu pokonanie ograniczeń czystego głębokiego uczenia, takich jak brak...

@@ -1,23 +1,23 @@
 ---
-title: "클래스 활성화 매핑"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: 클래스 활성화 매핑
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /ko/terms/class_activation_mapping/
-date: "2026-07-18T15:45:14.520213Z"
-lastmod: "2026-07-18T16:38:06.816871Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:45:14.520213Z'
+lastmod: '2026-07-18T16:38:06.816871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "클래스 활성화 매핑(CAM)은 입력 이미지에서 특정 예측 클래스에 가장 크게 기여하는 영역을 강조 표시하는 시각화 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 클래스 활성화 매핑(CAM)은 입력 이미지에서 특정 예측 클래스에 가장 크게 기여하는 영역을 강조 표시하는 시각화 기법입니다.
 ---
-
 ## Definition
 
 CAM은 입력 이미지 위에 오버레이되는 히트맵을 생성하여, 모델이 특정 클래스 레이블을 결정하는 데 가장 많이 기여한 픽셀을 보여줍니다. 이는 최종 컨볼루션 레이어의 특징 맵에 전역 평균 풀링(Global Average Pooling)을 적용하여 작동합니다.

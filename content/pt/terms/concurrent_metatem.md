@@ -1,23 +1,24 @@
 ---
-title: "Concurrent MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Concurrent MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /pt/terms/concurrent_metatem/
-date: "2026-07-18T14:54:05.533290Z"
-lastmod: "2026-07-18T15:51:59.473553Z"
+slug: concurrent_metatem
+date: '2026-07-18T14:54:05.533290Z'
+lastmod: '2026-07-18T15:51:59.473553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O Concurrent MetateM é uma linguagem de programação reativa projetada para especificar e implementar agentes autônomos em tempo real."
+source: agnes_llm
+status: published
+language: pt
+description: O Concurrent MetateM é uma linguagem de programação reativa projetada
+  para especificar e implementar agentes autônomos em tempo real.
 ---
-
 ## Definition
 
 O Concurrent MetateM é uma linguagem de especificação de alto nível usada principalmente em robótica e sistemas autônomos. Ele permite que desenvolvedores definam comportamentos de agentes usando lógica temporal, garantindo que as ações sejam executadas corretamente em resposta a eventos externos dentro de restrições de tempo rigorosas.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /vi/terms/moe/
 date: "2026-07-18T16:04:03.260420Z"
 lastmod: "2026-07-18T16:38:07.784266Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mẫu kiến trúc kết hợp nhiều mạng nơ-ron chuyên biệt (chuyên gia) thông qua cơ chế cổng để xử lý đầu vào."
 ---
-
 ## Definition
 
 Hỗn hợp Chuyên gia (MoE) là một kiến trúc học máy được thiết kế để cải thiện hiệu quả và khả năng mở rộng. Thay vì sử dụng một mô hình lớn duy nhất cho tất cả các nhiệm vụ, MoE sử dụng nhiều mô hình nhỏ hơn gọi là 'chuyên gia', chỉ kích hoạt những chuyên gia phù hợp nhất với từng đầu vào cụ thể.

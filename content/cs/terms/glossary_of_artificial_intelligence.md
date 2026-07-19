@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /cs/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T15:59:50.046125Z"
 lastmod: "2026-07-18T17:15:09.134625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Slovník umělé inteligence je kurátorovaný seznam definic pojmů používaných ve výzkumu a vývoji AI."
 ---
-
 ## Definition
 
 Slovník umělé inteligence slouží jako referenční dokument definující specializovanou terminologii, zkratky a koncepty v tomto oboru. Pomáhá výzkumníkům, vývojářům a studentům v porozumění

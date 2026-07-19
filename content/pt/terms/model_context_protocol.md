@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /pt/terms/model_context_protocol/
 date: "2026-07-18T14:44:48.746017Z"
 lastmod: "2026-07-18T15:51:59.452000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura padronizada projetada para facilitar a comunicação segura e eficiente entre modelos de IA e fontes de dados ou ferramentas externas."
 ---
-
 ## Definition
 
 O Protocolo de Contexto do Modelo (MCP) é um padrão aberto que permite que aplicativos de IA se conectem a várias fontes de dados, como bancos de dados, APIs e sistemas de arquivos, de maneira uniforme. Ele abstrai a complexidade da conexão.

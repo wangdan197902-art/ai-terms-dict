@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /hu/terms/pedagogical_agent/
 date: "2026-07-18T16:17:36.568913Z"
 lastmod: "2026-07-18T17:15:09.821436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mesterséges intelligencia entitás, amelyet arra terveztek, hogy oktatás, visszajelzés és irányítás révén elősegítse a tanulást."
 ---
-
 ## Definition
 
 A pedagógiai ügynök egy szoftverkomponens, gyakran virtuális karakterként megjelenítve, amely tanár vagy tutor szerepét tölti be oktatási környezetekben. Ezek az ügynökök természetes nyelvi feldolgozást és adaptív algoritmusokat használnak a tanulók igényeinek megfelelően.

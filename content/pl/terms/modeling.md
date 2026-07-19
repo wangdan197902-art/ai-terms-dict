@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /pl/terms/modeling/
 date: "2026-07-18T15:27:18.129399Z"
 lastmod: "2026-07-18T17:15:08.815608Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Modelowanie to proces tworzenia abstrakcyjnych reprezentacji systemów rzeczywistych lub rozkładów danych w celu umożliwienia przewidywania, symulacji lub podejmowania decyzji."
 ---
-
 ## Definition
 
 Modelowanie AI obejmuje cały przepływ pracy związany z projektowaniem, trenowaniem i walidacją algorytmów uczących się wzorców z danych. Obejmuje to wybór odpowiednich architektur, definiowanie funkcji strat oraz optymalizację parametrów, aby model mógł uogólniać wiedzę na nowe, niewidziane wcześniej dane.

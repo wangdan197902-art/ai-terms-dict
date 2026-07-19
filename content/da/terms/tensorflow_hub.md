@@ -1,23 +1,24 @@
 ---
-title: "TensorFlow Hub"
-term_id: "tensorflow_hub"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tensorflow", "libraries", "transfer-learning"]
+title: TensorFlow Hub
+term_id: tensorflow_hub
+category: basic_concepts
+subcategory: ''
+tags:
+- tensorflow
+- libraries
+- Transfer Learning
 difficulty: 3
 weight: 1
-slug: "tensorflow_hub"
-aliases:
-  - /da/terms/tensorflow_hub/
-date: "2026-07-18T16:22:10.770735Z"
-lastmod: "2026-07-18T17:15:09.336431Z"
+slug: tensorflow_hub
+date: '2026-07-18T16:22:10.770735Z'
+lastmod: '2026-07-18T17:15:09.336431Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et lagerhus til genanvendelige maskinlæringsmoduler, der muliggør transfer learning med fortrænede modeller."
+source: agnes_llm
+status: published
+language: da
+description: Et lagerhus til genanvendelige maskinlæringsmoduler, der muliggør transfer
+  learning med fortrænede modeller.
 ---
-
 ## Definition
 
 TensorFlow Hub er en platform til offentliggørelse og genanvendelse af maskinlæringskomponenter. Det giver udviklere adgang til fortrænede modeller til forskellige opgaver såsom billedklassificering, tekstindlejring osv.

@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /id/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:39:09.325842Z"
 lastmod: "2026-07-18T16:38:07.428417Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penerapan teknologi AI dalam proses pemilu, termasuk manajemen kampanye, analisis pemilih, dan kekhawatiran atas misinformasi."
 ---
-
 ## Definition
 
 Istilah ini mencakup peran ganda AI dalam proses demokratis: meningkatkan efisiensi melalui analitik data dan menimbulkan risiko melalui manipulasi. Di satu sisi, AI membantu kampanye menargetkan pemilih dan mengoptimalkan pesan, sementara di sisi lain, potensi penyebaran berita palsu menjadi tantangan serius.

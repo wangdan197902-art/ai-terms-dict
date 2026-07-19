@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /pl/terms/energy/
 date: "2026-07-18T15:24:52.509153Z"
 lastmod: "2026-07-18T17:15:08.810276Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W sztucznej inteligencji energia często odnosi się do mocy obliczeniowej zużywanej podczas trenowania i wnioskowania modelu, lub do matematycznej funkcji potencjału w modelach probabilistycznych."
 ---
-
 ## Definition
 
 Energia ma dwa główne znaczenia w SI. Po pierwsze, oznacza moc elektryczną wymaganą do działania sprzętu, co staje się coraz większym problemem dla zrównoważonego rozwoju wraz ze skalowaniem modeli. Po drugie, w mechanice statystycznej inspirowanych

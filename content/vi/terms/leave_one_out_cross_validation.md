@@ -1,23 +1,25 @@
 ---
-title: "Kiểm định chéo bỏ qua một mẫu (Leave-one-out cross-validation)"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Kiểm định chéo bỏ qua một mẫu (Leave-one-out cross-validation)
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /vi/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:00:34.329594Z"
-lastmod: "2026-07-18T16:38:07.775477Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:00:34.329594Z'
+lastmod: '2026-07-18T16:38:07.775477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật lấy mẫu lại nghiêm ngặt, trong đó mô hình được huấn luyện trên tất cả các mẫu trừ một mẫu và được kiểm tra trên mẫu bị loại bỏ duy nhất đó, lặp lại cho mọi điểm dữ liệu."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật lấy mẫu lại nghiêm ngặt, trong đó mô hình được huấn luyện
+  trên tất cả các mẫu trừ một mẫu và được kiểm tra trên mẫu bị loại bỏ duy nhất đó,
+  lặp lại cho mọi điểm dữ liệu.
 ---
-
 ## Definition
 
 Kiểm định chéo bỏ qua một mẫu (LOOCV) là một trường hợp cụ thể của kiểm định chéo k-fold, trong đó k bằng số lượng mẫu trong tập dữ liệu. Nó cung cấp ước lượng gần như không chệch về hiệu suất của mô hình bằng cách huấn luyện trên n-1 mẫu và kiểm tra trên mẫu còn lại, lặp lại quá trình này cho từng điểm dữ liệu trong tập dữ liệu.

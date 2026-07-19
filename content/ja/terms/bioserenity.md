@@ -1,23 +1,23 @@
 ---
-title: "バイオセレンティティ（生命の静穏）"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: バイオセレンティティ（生命の静穏）
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /ja/terms/bioserenity/
-date: "2026-07-18T11:06:52.900784Z"
-lastmod: "2026-07-18T11:44:45.074401Z"
+slug: bioserenity
+date: '2026-07-18T11:06:52.900784Z'
+lastmod: '2026-07-18T11:44:45.074401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "生物的生命と人工知能システムとの調和的な共存を指す理論的な状態。"
+source: agnes_llm
+status: published
+language: ja
+description: 生物的生命と人工知能システムとの調和的な共存を指す理論的な状態。
 ---
-
 ## Definition
 
 バイオセレンティティとは、人間の生物学と人工知能がシームレスかつ対立することなく調和して運用されるという概念的な理想を指します。これは、AIの増強（augmentation）が倫理的に統合され、両者が衝突せずに共存することを強調するものです。

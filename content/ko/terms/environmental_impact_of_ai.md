@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /ko/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:54:35.962894Z"
 lastmod: "2026-07-18T16:38:06.837373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 모델 개발, 훈련 및 배포의 생태학적 결과로, 에너지 소비 및 탄소 배출을 포함합니다."
 ---
-
 ## Definition
 
 이 용어는 특히 대규모 모델의 훈련 단계와 관련하여 AI 기술과 관련된 상당한 자원 요구 사항을 의미합니다. 여기에는 데이터 센터의 전력 사용, 물리적 하드웨어 제조의 탄소 발자국, 그리고 폐기물 관리 등이 포함됩니다.

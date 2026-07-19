@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: Dataset:Multi Nli
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /vi/terms/datasetmulti_nli/
-date: "2026-07-18T15:48:01.447393Z"
-lastmod: "2026-07-18T16:38:07.745259Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:48:01.447393Z'
+lastmod: '2026-07-18T16:38:07.745259Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Corpus Suy luận Ngôn ngữ Tự nhiên Đa thể loại, một bộ dữ liệu lớn chứa hàng triệu câu tiếng Anh do con người viết cùng với các chú thích chính xác của con người về sự entailment (kéo theo) văn bản."
+source: agnes_llm
+status: published
+language: vi
+description: Corpus Suy luận Ngôn ngữ Tự nhiên Đa thể loại, một bộ dữ liệu lớn chứa
+  hàng triệu câu tiếng Anh do con người viết cùng với các chú thích chính xác của
+  con người về sự entailment (kéo theo) văn bản.
 ---
-
 ## Definition
 
 MultiNLI là một bộ dữ liệu được đóng góp bởi cộng đồng, có sẵn thông qua benchmark GLUE, được thiết kế để đánh giá suy luận ngôn ngữ tự nhiên (NLI) trên nhiều thể loại văn nói và văn viết khác nhau. Nó cung cấp các cặp tiền đề (premise) và giả thuyết (hypothesis) để kiểm tra khả năng suy luận logic của mô hình.

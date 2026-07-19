@@ -1,23 +1,24 @@
 ---
-title: "Hierarkisk"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hierarkisk
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /no/terms/hierarchical/
-date: "2026-07-18T15:26:52.252129Z"
-lastmod: "2026-07-18T16:38:06.938830Z"
+slug: hierarchical
+date: '2026-07-18T15:26:52.252129Z'
+lastmod: '2026-07-18T16:38:06.938830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Refererer til AI-arkitekturer eller læringsstrategier organisert i flere nivåer av abstraksjon, der høyere nivåer styrer lavere."
+source: agnes_llm
+status: published
+language: 'no'
+description: Refererer til AI-arkitekturer eller læringsstrategier organisert i flere
+  nivåer av abstraksjon, der høyere nivåer styrer lavere.
 ---
-
 ## Definition
 
 Hierarkiske AI-systemer organiserer informasjon eller kontroll i en tre-lignende struktur med innbygde lag. Innen Forsterkningslæring dekomponeres komplekse oppgaver i undermål håndtert av høyere nivåer, mens lavere nivåer utfører spesifikke handlinger.

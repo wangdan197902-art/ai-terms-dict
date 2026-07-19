@@ -1,23 +1,24 @@
 ---
-title: "Programování podle příkladu"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Programování podle příkladu
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /cs/terms/programming_by_example/
-date: "2026-07-18T16:13:38.662794Z"
-lastmod: "2026-07-18T17:15:09.191936Z"
+slug: programming_by_example
+date: '2026-07-18T16:13:38.662794Z'
+lastmod: '2026-07-18T17:15:09.191936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika AI, při které jsou programy automaticky syntetizovány inferencí pravidel z vstupně-výstupních příkladů poskytnutých uživatelem."
+source: agnes_llm
+status: published
+language: cs
+description: Technika AI, při které jsou programy automaticky syntetizovány inferencí
+  pravidel z vstupně-výstupních příkladů poskytnutých uživatelem.
 ---
-
 ## Definition
 
 Programování podle příkladu (PBE) je paradigmatem syntézy programů, kde vývojáři specifikují požadované chování prostřednictvím konkrétních dvojic vstup-výstup místo psaní explicitního kódu. Systém AI analyzuje tyto příklady a generuje kód, který splňuje zadaná pravidla.

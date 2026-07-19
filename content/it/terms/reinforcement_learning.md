@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento per Rinforzo"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Apprendimento per Rinforzo
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /it/terms/reinforcement_learning/
-date: "2026-07-18T15:28:18.552269Z"
-lastmod: "2026-07-18T17:15:08.573053Z"
+slug: reinforcement_learning
+date: '2026-07-18T15:28:18.552269Z'
+lastmod: '2026-07-18T17:15:08.573053Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'Apprendimento per Rinforzo è un tipo di apprendimento automatico in cui gli agenti imparano a prendere decisioni interagendo con un ambiente per massimizzare le ricompense."
+source: agnes_llm
+status: published
+language: it
+description: L'Apprendimento per Rinforzo è un tipo di apprendimento automatico in
+  cui gli agenti imparano a prendere decisioni interagendo con un ambiente per massimizzare
+  le ricompense.
 ---
-
 ## Definition
 
 L'Apprendimento per Rinforzo (RL) è un ramo dell'apprendimento automatico focalizzato su come gli agenti intelligenti dovrebbero agire in un ambiente per massimizzare la ricompensa cumulativa. A differenza dell'apprendimento supervisionato...

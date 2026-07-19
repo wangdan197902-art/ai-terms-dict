@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /es/terms/case_based_reasoning/
 date: "2026-07-18T10:39:00.104833Z"
 lastmod: "2026-07-18T11:44:44.784415Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El razonamiento basado en casos (RBC) es un enfoque de resolución de problemas de IA que utiliza experiencias pasadas o casos similares para encontrar soluciones a nuevos problemas."
 ---
-
 ## Definition
 
 El RBC se basa en el principio de que problemas similares tienen soluciones similares. El proceso implica recuperar el caso histórico más similar de una base de conocimientos, adaptar su solución para ajustarse al cur

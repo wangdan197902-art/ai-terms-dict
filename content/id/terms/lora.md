@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /id/terms/lora/
 date: "2026-07-18T15:26:54.087914Z"
 lastmod: "2026-07-18T16:38:07.396412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Adaptasi Rank Rendah adalah metode penyetelan halus yang efisien terhadap parameter yang menyuntikkan matriks dekomposisi rank yang dapat dilatih ke dalam bobot model yang ada."
 ---
-
 ## Definition
 
 LoRA membekukan bobot model pra-dilatih dan menyisipkan matriks dekomposisi yang dapat dilatih ke setiap lapisan arsitektur Transformer. Dengan mengoptimalkan hanya matriks rank rendah ini, LoRA secara signifikan mengurangi

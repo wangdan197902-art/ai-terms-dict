@@ -1,23 +1,25 @@
 ---
-title: "Studier av singulariteten"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Studier av singulariteten
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /no/terms/singularity_studies/
-date: "2026-07-18T16:16:03.597437Z"
-lastmod: "2026-07-18T16:38:07.046763Z"
+slug: singularity_studies
+date: '2026-07-18T16:16:03.597437Z'
+lastmod: '2026-07-18T16:38:07.046763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et tverrfaglig felt som undersøker de potensielle samfunnsmessige, etiske og eksistensielle konsekvensene av en fremtidig teknologisk singularitet."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et tverrfaglig felt som undersøker de potensielle samfunnsmessige, etiske
+  og eksistensielle konsekvensene av en fremtidig teknologisk singularitet.
 ---
-
 ## Definition
 
 Studier av singulariteten er en voksende akademisk disiplin som undersøker implikasjonene av et hypotetisk fremtidspunkt der kunstig intelligens overstiger menneskelig intelligens, noe som fører til uforutsigbare og radikale endringer i samfunnet.

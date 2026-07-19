@@ -1,23 +1,24 @@
 ---
-title: "Ukuran Batch"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Ukuran Batch
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /id/terms/batch_size/
-date: "2026-07-18T15:40:37.401678Z"
-lastmod: "2026-07-18T16:38:07.432290Z"
+slug: batch_size
+date: '2026-07-18T15:40:37.401678Z'
+lastmod: '2026-07-18T16:38:07.432290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Jumlah contoh pelatihan yang digunakan dalam satu iterasi algoritma gradien stokastik."
+source: agnes_llm
+status: published
+language: id
+description: Jumlah contoh pelatihan yang digunakan dalam satu iterasi algoritma gradien
+  stokastik.
 ---
-
 ## Definition
 
 Ukuran batch adalah hiperparameter kritis yang menentukan berapa banyak sampel yang diproses sebelum parameter internal model diperbarui. Ukuran batch yang lebih besar memberikan estimasi yang lebih akurat dari

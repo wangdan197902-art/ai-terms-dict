@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /ko/terms/foundation/
 date: "2026-07-18T15:24:38.982738Z"
 lastmod: "2026-07-18T16:38:06.774373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "다양한 하위 작업을 위한 기반이 되기 위해 방대한 데이터셋으로 사전 훈련된 모델을 의미합니다."
 ---
-
 ## Definition
 
 인공지능에서 파운데이션 모델은 이미지, 텍스트 또는 오디오 등 광범위한 데이터를 대규모로 학습한 대형 머신러닝 모델을 지칭합니다. 이러한 모델은 다양한 다운스트림 작업에 유연하게 적용하고 미세 조정(fine-tuning)할 수 있도록 설계되었습니다.

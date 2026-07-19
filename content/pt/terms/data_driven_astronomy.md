@@ -1,23 +1,24 @@
 ---
-title: "Astronomia Orientada por Dados"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Astronomia Orientada por Dados
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /pt/terms/data_driven_astronomy/
-date: "2026-07-18T14:55:26.433269Z"
-lastmod: "2026-07-18T15:51:59.476965Z"
+slug: data_driven_astronomy
+date: '2026-07-18T14:55:26.433269Z'
+lastmod: '2026-07-18T15:51:59.476965Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A aplicação de análise de dados em larga escala e técnicas de aprendizado de máquina para extrair insights a partir de observações astronômicas."
+source: agnes_llm
+status: published
+language: pt
+description: A aplicação de análise de dados em larga escala e técnicas de aprendizado
+  de máquina para extrair insights a partir de observações astronômicas.
 ---
-
 ## Definition
 
 A Astronomia Orientada por Dados aproveita métodos computacionais avançados, incluindo aprendizado de máquina e análise estatística, para lidar com os enormes volumes de dados gerados por telescópios modernos e levantamentos astronômicos.

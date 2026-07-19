@@ -1,23 +1,24 @@
 ---
-title: "Silnik Matchbox Educable Noughts and Crosses"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Silnik Matchbox Educable Noughts and Crosses
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /pl/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:06:08.628380Z"
-lastmod: "2026-07-18T17:15:08.896013Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:06:08.628380Z'
+lastmod: '2026-07-18T17:15:08.896013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Fizyczne urządzenie uczenia ze wzmocnieniem zbudowane przez Donalda Michiego w 1961 roku do gry w kółko i krzyżyk za pomocą pudełek po zapałkach i koralików."
+source: agnes_llm
+status: published
+language: pl
+description: Fizyczne urządzenie uczenia ze wzmocnieniem zbudowane przez Donalda Michiego
+  w 1961 roku do gry w kółko i krzyżyk za pomocą pudełek po zapałkach i koralików.
 ---
-
 ## Definition
 
 Silnik ME-Noughts-and-Crosses był wczesną demonstracją uczenia maszynowego, a konkretnie uczenia ze wzmocnieniem. Zbudowany z 304 pudełek po zapałkach, z których każde reprezentowało unikalny stan planszy, system ten wykorzystywał koraliki wewnątrz pudełek do reprezentowania prawdopodobieństw wyboru ruchów. Po każdym meczu koraliki były przemieszczane w zależności od wyniku, ucząc silnik optymalnej strategii gry.

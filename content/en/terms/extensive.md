@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /en/terms/extensive/
 date: "2026-07-18T09:32:12.798591Z"
 lastmod: "2026-07-18T11:44:44.597425Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Describes AI datasets, computations, or evaluations that cover a large scope, volume, or breadth of scenarios."
 ---
-
 ## Definition
 
 Extensive refers to the scale and comprehensiveness of AI operations, such as large-scale datasets, broad evaluation suites, or heavy computational workloads. An extensive dataset ensures model generalization across diverse inputs, while extensive evaluation covers edge cases thoroughly. This term emphasizes depth and width in AI development, indicating that resources have been allocated to ensure robustness and coverage beyond minimal requirements.

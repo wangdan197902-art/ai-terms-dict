@@ -1,23 +1,25 @@
 ---
-title: "Sam3"
-term_id: "sam3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "model_versions", "unclear_reference"]
+title: Sam3
+term_id: sam3
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Model Versions
+- Unclear Reference
 difficulty: 3
 weight: 1
-slug: "sam3"
-aliases:
-  - /ru/terms/sam3/
-date: "2026-07-18T16:13:37.745503Z"
-lastmod: "2026-07-18T16:38:07.199933Z"
+slug: sam3
+date: '2026-07-18T16:13:37.745503Z'
+lastmod: '2026-07-18T16:38:07.199933Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Sam3, вероятно, относится к конкретной версии или варианту модели сегментации или инструмента ИИ, потенциально связанному с итерациями Segment Anything Model или проприетарным внутренним инструментом."
+source: agnes_llm
+status: published
+language: ru
+description: Sam3, вероятно, относится к конкретной версии или варианту модели сегментации
+  или инструмента ИИ, потенциально связанному с итерациями Segment Anything Model
+  или проприетарным внутренним инструментом.
 ---
-
 ## Definition
 
 Sam3 не является широко признанным стандартным публичным термином ИИ, таким как SAM (Segment Anything Model). Это может быть сторонняя итерация, опечатка вместо SAM 2 или конкретный внутренний инструмент в ИИ-разработке компании...

@@ -1,23 +1,25 @@
 ---
-title: "Detecção de Atividade de Voz"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: Detecção de Atividade de Voz
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /pt/terms/voice_activity_detection/
-date: "2026-07-18T15:26:39.509751Z"
-lastmod: "2026-07-18T15:51:59.541514Z"
+slug: voice_activity_detection
+date: '2026-07-18T15:26:39.509751Z'
+lastmod: '2026-07-18T15:51:59.541514Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A Detecção de Atividade de Voz (VAD) é uma técnica de processamento de sinais usada para identificar segmentos de áudio contendo fala humana versus silêncio ou ruído."
+source: agnes_llm
+status: published
+language: pt
+description: A Detecção de Atividade de Voz (VAD) é uma técnica de processamento de
+  sinais usada para identificar segmentos de áudio contendo fala humana versus silêncio
+  ou ruído.
 ---
-
 ## Definition
 
 Os algoritmos VAD analisam fluxos de áudio em tempo real para distinguir entre períodos de fala ativa e intervalos não falantes, como ruído de fundo ou pausas. Isso é crucial para otimizar a largura de banda em 

@@ -1,23 +1,25 @@
 ---
-title: "Картирование активации классов"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Картирование активации классов
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /ru/terms/class_activation_mapping/
-date: "2026-07-18T15:44:52.441796Z"
-lastmod: "2026-07-18T16:38:07.130219Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:44:52.441796Z'
+lastmod: '2026-07-18T16:38:07.130219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Картирование активации классов (CAM) — это метод визуализации, который выделяет области входного изображения, наиболее ответственные за предсказание конкретного класса."
+source: agnes_llm
+status: published
+language: ru
+description: Картирование активации классов (CAM) — это метод визуализации, который
+  выделяет области входного изображения, наиболее ответственные за предсказание конкретного
+  класса.
 ---
-
 ## Definition
 
 CAM генерирует тепловые карты, накладываемые на входные изображения, чтобы показать, какие пиксели внесли наибольший вклад в решение модели относительно определенного ярлыка класса. Метод работает путем применения глобального среднего пулинга к финальным сверточным слоям сети.

@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /sv/terms/inductive_programming/
 date: "2026-07-18T16:04:06.430494Z"
 lastmod: "2026-07-18T17:15:09.015012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett fält inom programsyntes som automatiskt genererar datorprogram från indata-och-utdata-exempel."
 ---
-
 ## Definition
 
 Induktiv programmering, ofta kallad programsyntes, innebär att skapa mjukvarukod baserat på specifikationer tillhandahållna som indata-och-utdata-par snarare än explicita instruktioner. Systemet härleder logiken från exemplen.

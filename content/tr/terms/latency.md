@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /tr/terms/latency/
 date: "2026-07-18T15:35:51.205811Z"
 lastmod: "2026-07-18T16:38:07.259406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir AI sisteminde bir isteğin başlatılması ile yanıtın başlaması arasındaki zaman gecikmesi."
 ---
-
 ## Definition
 
 Gecikme, genellikle milisaniye cinsinden ifade edilen bir AI hizmetinin tepki süresini ölçer. Çıkarım süresini, ağ iletim gecikmelerini ve işleme aşamalarındaki ek yükleri içerir. Düşük gecikme, özellikle

@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /fr/terms/rate_limiting/
 date: "2026-07-18T11:35:52.926525Z"
 lastmod: "2026-07-18T11:44:45.320270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un mécanisme de contrôle technique qui restreint le nombre de requêtes qu'un client peut adresser à un service dans une fenêtre de temps spécifique."
 ---
-
 ## Definition
 
 La limitation de débit protège les services IA et les API contre les abus, la surcharge et la consommation excessive de ressources. Elle garantit une utilisation équitable parmi les utilisateurs et maintient la stabilité du système en plafonnant le débit. Les stratégies courantes incluent le compteur fixe, le token bucket ou le leaky bucket.

@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /id/terms/inference/
 date: "2026-07-18T15:23:01.511895Z"
 lastmod: "2026-07-18T16:38:07.387999Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Tahap di mana model yang telah dilatih memproses data baru untuk menghasilkan prediksi atau keluaran."
 ---
-
 ## Definition
 
 Inferensi merujuk pada tahap penempatan di mana model final digunakan untuk membuat keputusan atau prediksi pada data yang belum pernah dilihat. Berbeda dengan pelatihan yang memperbarui bobot, inferensi mengonsumsi sumber daya komputasi

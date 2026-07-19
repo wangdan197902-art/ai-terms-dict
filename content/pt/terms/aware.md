@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /pt/terms/aware/
 date: "2026-07-18T14:33:24.616848Z"
 lastmod: "2026-07-18T15:51:59.425408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Indica a capacidade de uma IA de detectar e processar informações contextuais específicas ou estímulos."
 ---
-
 ## Definition
 
 No contexto da IA, 'consciente' refere-se tipicamente à consciência situacional ou contextual, onde um sistema reconhece fatores ambientais relevantes ou o estado do usuário. Isso não implica consciência, mas sim a

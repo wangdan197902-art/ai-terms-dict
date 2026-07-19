@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /sv/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:52:11.329552Z"
 lastmod: "2026-07-18T17:15:08.991715Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En storstadsdatamängd baserad på publikationer och citat inom datavetenskap, designad för att träna inbäddningsmodeller för akademiska papper."
 ---
-
 ## Definition
 
 Specter-datasetet är konstruerat från en omfattande samling datavetenskapliga artiklar, där citatnätverk används för att skapa övervakade inlärningssignaler. Det parar ihop abstrakt med citerande papper för att

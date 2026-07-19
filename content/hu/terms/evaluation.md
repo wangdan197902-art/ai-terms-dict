@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /hu/terms/evaluation/
 date: "2026-07-18T15:25:47.934886Z"
 lastmod: "2026-07-18T17:15:09.719156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az értékelés az AI modell teljesítményének, pontosságának és robusztusságának felmérésének folyamata előre meghatározott metrikák és adathalmazok alapján."
 ---
-
 ## Definition
 
 Az értékelés magában foglalja egy AI modell specifikus feladatokon való teljesítményének rendszerezett mérését kvantitatív metrikák (pl. pontosság, F1-érték, BLEU) és minőségi megítélések segítségével. Tartalmazza a validációt és a tesztelést, hogy biztosítsa a modell megbízhatóságát és általánosíthatóságát.

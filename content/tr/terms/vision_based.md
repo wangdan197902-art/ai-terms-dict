@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /tr/terms/vision_based/
 date: "2026-07-18T15:33:17.801043Z"
 lastmod: "2026-07-18T16:38:07.253678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Dünyayı algılamak ve etkileşim kurmak için öncelikle görsel veri girdilerine güvenen sistemler."
 ---
-
 ## Definition
 
 Görsel tabanlı paradigmalar, görsel sahnelerden anlamlı bilgi çıkarmak için kameraları ve görüntü işleme algoritmalarını kullanır. Bu sistemler robotik, otonom sürüş ve artırılmış gerçeklik gibi alanlarda temel oluşturur.

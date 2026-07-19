@@ -1,23 +1,24 @@
 ---
-title: "حقبة تدريبية"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: حقبة تدريبية
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /ar/terms/epoch/
-date: "2026-07-18T15:56:49.835934Z"
-lastmod: "2026-07-18T17:15:08.501951Z"
+slug: epoch
+date: '2026-07-18T15:56:49.835934Z'
+lastmod: '2026-07-18T17:15:08.501951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مرور كامل واحد لمجموعة بيانات التدريب عبر خوارزمية تعلم الآلة أثناء تدريب النموذج."
+source: agnes_llm
+status: published
+language: ar
+description: مرور كامل واحد لمجموعة بيانات التدريب عبر خوارزمية تعلم الآلة أثناء تدريب
+  النموذج.
 ---
-
 ## Definition
 
 في تعلم الآلة، تمثل الحقبة التدريبية تكراراً واحداً عبر مجموعة بيانات التدريب بأكملها. خلال كل حقبة، يعالج النموذج جميع أمثلة التدريب، ويحدث أوزانه عبر الانتشار العكسي، ويقيّم الأداء.

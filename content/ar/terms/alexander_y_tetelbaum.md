@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /ar/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:42:57.580619Z"
 lastmod: "2026-07-18T17:15:08.473755Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ألكسندر ي. تيتيلباوم هو باحث ومساهم معترف به في مجال الذكاء الاصطناعي وتعلم الآلة."
 ---
-
 ## Definition
 
 يُعد ألكسندر ي. تيتيلباوم شخصية معروفة في الأوساط الأكاديمية والتقنية لإسهاماته في أبحاث الذكاء الاصطناعي، لا سيما في المجالات المتعلقة بالكفاءة الخوارزمية والشبكات العصبية.

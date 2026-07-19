@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /ro/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:34:44.277503Z"
 lastmod: "2026-07-18T17:15:09.612541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Prompting-ul prin lanț de gândire este o tehnică care încurajează modelele lingvistice mari (LLM) să genereze pași intermediari de raționament înainte de a produce un răspuns final."
 ---
-
 ## Definition
 
 Prompting-ul prin lanț de gândire (CoT) îmbunătățește performanța modelelor lingvistice mari la sarcini complexe de raționament, cerând explicit modelului să își articuleze logica pas cu pas. În loc să sară direct

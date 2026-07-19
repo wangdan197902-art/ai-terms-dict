@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /id/terms/dynamic/
 date: "2026-07-18T15:25:07.994007Z"
 lastmod: "2026-07-18T16:38:07.391567Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dinamis merujuk pada sistem AI atau grafik komputasi yang menyesuaikan struktur, perilaku, atau aliran eksekusi secara waktu nyata berdasarkan data masukan atau perubahan lingkungan."
 ---
-
 ## Definition
 
 Berbeda dengan sistem statis dengan arsitektur tetap atau jalur eksekusi yang telah ditentukan sebelumnya, sistem AI dinamis dapat memodifikasi operasi mereka selama waktu berjalan. Dalam pembelajaran mendalam, grafik komputasi dinamis memungkinkan struktur jaringan berubah tergantung pada bentuk input, seperti panjang urutan yang bervariasi.

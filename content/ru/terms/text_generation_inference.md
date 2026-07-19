@@ -1,23 +1,24 @@
 ---
-title: "Инференс генерации текста"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: Инференс генерации текста
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /ru/terms/text_generation_inference/
-date: "2026-07-18T16:18:19.277071Z"
-lastmod: "2026-07-18T16:38:07.208467Z"
+slug: text_generation_inference
+date: '2026-07-18T16:18:19.277071Z'
+lastmod: '2026-07-18T16:38:07.208467Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Высокопроизводительный движок обслуживания, оптимизированный специально для развертывания больших языковых моделей для эффективной генерации текста в масштабе."
+source: agnes_llm
+status: published
+language: ru
+description: Высокопроизводительный движок обслуживания, оптимизированный специально
+  для развертывания больших языковых моделей для эффективной генерации текста в масштабе.
 ---
-
 ## Definition
 
 Инференс генерации текста (TGI) — это выделенная программная платформа, предназначенная для обслуживания больших языковых моделей (LLM) с низкой задержкой и высокой пропускной способностью. Она оптимизирует процесс инференса для генерации текста...

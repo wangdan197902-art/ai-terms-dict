@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /de/terms/human_oversight/
 date: "2026-07-18T11:18:19.621540Z"
 lastmod: "2026-07-18T11:44:44.948746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Praxis, die menschliche Kontrolle und Überprüfung über automatisierte KI-Systeme aufrechtzuerhalten, um Sicherheit, Genauigkeit und ethische Konformität zu gewährleisten."
 ---
-
 ## Definition
 
 Menschliche Aufsicht bezeichnet die Mechanismen und Prozesse, bei denen Menschen KI-gesteuerte Entscheidungen oder Aktionen überwachen, bewerten und eingreifen. Dieses Konzept ist entscheidend, um sicherzustellen, dass automatisierte Systeme...

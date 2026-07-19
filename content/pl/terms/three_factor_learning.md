@@ -1,23 +1,23 @@
 ---
-title: "Uczenie trójczynnikowe"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: Uczenie trójczynnikowe
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /pl/terms/three_factor_learning/
-date: "2026-07-18T16:20:53.678059Z"
-lastmod: "2026-07-18T17:15:08.924796Z"
+slug: three_factor_learning
+date: '2026-07-18T16:20:53.678059Z'
+lastmod: '2026-07-18T17:15:08.924796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Ramowe podejście do uczenia ze wzmocnieniem wykorzystujące czynniki nagrody, wartości i polityki do optymalizacji zachowania agenta."
+source: agnes_llm
+status: published
+language: pl
+description: Ramowe podejście do uczenia ze wzmocnieniem wykorzystujące czynniki nagrody,
+  wartości i polityki do optymalizacji zachowania agenta.
 ---
-
 ## Definition
 
 Uczenie trójczynnikowe to specyficzne podejście w ramach uczenia ze wzmocnieniem, które rozkłada proces nauki na trzy odrębne komponenty: sygnał nagrody, funkcję wartości oraz politykę. T...

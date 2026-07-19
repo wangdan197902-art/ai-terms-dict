@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /ja/terms/embedding_model/
 date: "2026-07-18T10:58:50.316035Z"
 lastmod: "2026-07-18T11:44:45.047050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "エンベッディングモデルは、テキストや画像などの生データを、意味を表す高密度の数値ベクトルに変換します。"
 ---
-
 ## Definition
 
 これらのモデルは、高次元データをより低次元の連続的なベクトル空間にマッピングし、類似したアイテムが近くに位置するようにします。この変換は意味的な関係性を捉え、類似検索やクラスタリングなどを可能にします。

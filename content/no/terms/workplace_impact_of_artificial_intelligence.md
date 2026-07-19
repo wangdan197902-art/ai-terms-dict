@@ -1,23 +1,24 @@
 ---
-title: "AI's påvirkning på arbeidsplassen"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: AI's påvirkning på arbeidsplassen
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /no/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T16:21:24.432903Z"
-lastmod: "2026-07-18T16:38:07.058622Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T16:21:24.432903Z'
+lastmod: '2026-07-18T16:38:07.058622Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Effekten av AI-teknologier på sysselsettingsstrukturer, jobbroller, produktivitet og menneske-maskin-samarbeid i profesjonelle miljøer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Effekten av AI-teknologier på sysselsettingsstrukturer, jobbroller, produktivitet
+  og menneske-maskin-samarbeid i profesjonelle miljøer.
 ---
-
 ## Definition
 
 Dette begrepet omfatter den transformerende innflytelsen AI har på arbeidsmarkedet, inkludert automatisering av rutineoppgaver, opprettelse av nye jobb kategorier og endringer i nødvendige ferdigheter. AI øker pro...

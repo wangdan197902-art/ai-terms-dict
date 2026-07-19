@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /ja/terms/pattern_theory/
 date: "2026-07-18T11:27:03.543751Z"
 lastmod: "2026-07-18T11:44:45.130745Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データ空間内のパターンを分析することで、複雑な構造を記述するための数学的枠組み。"
 ---
-
 ## Definition
 
 パターン理論は、複雑な物体や現象がパターンを通じてどのように記述できるかを理解するための厳密な数学的基盤を提供します。この理論は、あらゆる物体はその

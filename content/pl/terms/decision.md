@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /pl/terms/decision/
 date: "2026-07-18T15:24:14.472411Z"
 lastmod: "2026-07-18T17:15:08.809027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wybór dokonany przez agenta lub algorytm po ocenie dostępnych opcji wobec określonych kryteriów lub celów."
 ---
-
 ## Definition
 
 Proces podejmowania decyzji w AI polega na wyborze optymalnego działania z zestawu możliwości na podstawie danych, modeli i predefiniowanych celów. Może być deterministyczny, opierając się na ścisłych regułach, lub probabilistyczny.

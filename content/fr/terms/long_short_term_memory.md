@@ -1,23 +1,24 @@
 ---
-title: "Mémoire à court et long terme"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Mémoire à court et long terme
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /fr/terms/long_short_term_memory/
-date: "2026-07-18T11:00:10.425263Z"
-lastmod: "2026-07-18T11:44:45.185799Z"
+slug: long_short_term_memory
+date: '2026-07-18T11:00:10.425263Z'
+lastmod: '2026-07-18T11:44:45.185799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une architecture de réseau neuronal récurrent spécialisée conçue pour apprendre les dépendances à long terme dans les données séquentielles."
+source: agnes_llm
+status: published
+language: fr
+description: Une architecture de réseau neuronal récurrent spécialisée conçue pour
+  apprendre les dépendances à long terme dans les données séquentielles.
 ---
-
 ## Definition
 
 Les réseaux LSTM résolvent le problème de disparition du gradient courant dans les RNN standards en utilisant un état de cellule et trois mécanismes de porte : portes d'entrée, d'oubli et de sortie. Ces portes régulent le flux d'information

@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /es/terms/supermind_ai/
 date: "2026-07-18T11:09:24.296448Z"
 lastmod: "2026-07-18T11:44:44.858454Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una arquitectura o sistema de IA diseñado para integrar múltiples agentes inteligentes o modelos en una entidad cognitiva unificada y mejorada, capaz de resolver problemas de manera superior."
 ---
-
 ## Definition
 
 La IA Supermente se refiere a sistemas donde múltiples componentes de IA, expertos humanos o equipos híbridos humano-IA colaboran sin fisuras para formar una inteligencia colectiva que supera la capacidad de cualquier individuo.

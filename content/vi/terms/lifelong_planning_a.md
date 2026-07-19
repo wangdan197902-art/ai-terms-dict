@@ -1,23 +1,25 @@
 ---
-title: "Lifelong Planning A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Lifelong Planning A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /vi/terms/lifelong_planning_a/
-date: "2026-07-18T16:00:34.329649Z"
-lastmod: "2026-07-18T16:38:07.775829Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:00:34.329649Z'
+lastmod: '2026-07-18T16:38:07.775829Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thuật toán tìm đường tăng dần, cập nhật hiệu quả các đường đi ngắn nhất trong đồ thị động mà không cần tính toán lại từ đầu sau khi trọng số cạnh thay đổi."
+source: agnes_llm
+status: published
+language: vi
+description: Một thuật toán tìm đường tăng dần, cập nhật hiệu quả các đường đi ngắn
+  nhất trong đồ thị động mà không cần tính toán lại từ đầu sau khi trọng số cạnh thay
+  đổi.
 ---
-
 ## Definition
 
 Lifelong Planning A* (LPA*) là một phần mở rộng của thuật toán tìm kiếm A* được thiết kế cho các môi trường nơi chi phí thay đổi theo thời gian. Thay vì khởi động lại quá trình tìm kiếm, LPA* duy trì một hàng đợi ưu tiên và cập nhật các giá trị heuristic dựa trên những thay đổi cục bộ, cho phép nó tìm lại đường đi ngắn nhất một cách nhanh chóng và hiệu quả.

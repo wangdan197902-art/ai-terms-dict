@@ -1,23 +1,24 @@
 ---
-title: "Busca Heurística Incremental"
-term_id: "incremental_heuristic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "heuristics"]
+title: Busca Heurística Incremental
+term_id: incremental_heuristic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- heuristics
 difficulty: 4
 weight: 1
-slug: "incremental_heuristic_search"
-aliases:
-  - /pt/terms/incremental_heuristic_search/
-date: "2026-07-18T15:05:08.082750Z"
-lastmod: "2026-07-18T15:51:59.501131Z"
+slug: incremental_heuristic_search
+date: '2026-07-18T15:05:08.082750Z'
+lastmod: '2026-07-18T15:51:59.501131Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estratégia de busca que melhora incrementalmente uma estimativa de solução usando orientação heurística, em vez de explorar todo o espaço de estados."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estratégia de busca que melhora incrementalmente uma estimativa de
+  solução usando orientação heurística, em vez de explorar todo o espaço de estados.
 ---
-
 ## Definition
 
 Busca Heurística Incremental refere-se a algoritmos que refinam uma solução candidata passo a passo, guiados por heurísticas que estimam o custo para alcançar o objetivo. Diferentemente das buscas exaustivas, esses métodos 

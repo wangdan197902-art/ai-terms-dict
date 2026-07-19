@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /nl/terms/large_scale/
 date: "2026-07-18T15:32:01.708398Z"
 lastmod: "2026-07-18T17:15:08.698972Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Beschrijft AI-systemen of datasets die opereren met enorme hoeveelheden data, parameters of rekencapaciteit."
 ---
-
 ## Definition
 
 Grootschalig verwijst naar de omvang van componenten binnen een AI-systeem, vaak met biljoenen parameters, terabytes aan trainingsdata of gedistribueerde rekenclusters. Deze aanpak is fundamenteel...

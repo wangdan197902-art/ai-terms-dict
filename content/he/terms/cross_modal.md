@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /he/terms/cross_modal/
 date: "2026-07-18T15:32:15.242264Z"
 lastmod: "2026-07-18T17:15:09.491624Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקות המשלבות ועובדות מידע מסוגי נתונים חושיים שונים, כמו טקסט ותמונות."
 ---
-
 ## Definition
 
 בינה מלאכותית חצי-מודאלית כוללת עיבוד והתאמה של נתונים ממודליות שונות, כגון שילוב קלטים ויזואליים, שמיעתיים וטקסטואליים. מערכות אלו לומשות ייצוגים משותפים כדי להבין קשרים בין סוגי מידע שונים.

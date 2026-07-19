@@ -1,23 +1,23 @@
 ---
-title: "Feature"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Feature
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /ja/terms/feature/
-date: "2026-07-18T11:14:30.903932Z"
-lastmod: "2026-07-18T11:44:45.097039Z"
+slug: feature
+date: '2026-07-18T11:14:30.903932Z'
+lastmod: '2026-07-18T11:44:45.097039Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "観察されている現象の個別の測定可能な性質または特徴であり、機械学習モデルへの入力データとして機能します。"
+source: agnes_llm
+status: published
+language: ja
+description: 観察されている現象の個別の測定可能な性質または特徴であり、機械学習モデルへの入力データとして機能します。
 ---
-
 ## Definition
 
 機械学習において、特徴量（Feature）はデータセット内のインスタンスを記述する固有の属性または変数です。特徴量は数値、カテゴリカル、またはテキスト型になり得、予測モデルへの基本的な入力として機能します。

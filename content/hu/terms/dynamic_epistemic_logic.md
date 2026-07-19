@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /hu/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:57:38.683960Z"
 lastmod: "2026-07-18T17:15:09.778334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy formális keretrendszer az ügynökök tudásállapotában az információfrissítések vagy események következtében bekövetkező változások megfontolására."
 ---
-
 ## Definition
 
 A dinamikus episztémikus logika (DEL) kiterjeszti a modális logikát annak modellezésére, hogyan alakul át a tudás, amikor az ügynökök új információt kapnak. Eszközöket biztosít többügynökös rendszerek elemzésére, ahol a hiedelmek változnak nyilvános...

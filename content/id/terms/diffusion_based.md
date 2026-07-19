@@ -1,23 +1,25 @@
 ---
-title: "berbasis difusi"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: berbasis difusi
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /id/terms/diffusion_based/
-date: "2026-07-18T15:31:37.449142Z"
-lastmod: "2026-07-18T16:38:07.407594Z"
+slug: diffusion_based
+date: '2026-07-18T15:31:37.449142Z'
+lastmod: '2026-07-18T16:38:07.407594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pendekatan pemodelan generatif yang menciptakan data dengan membalikkan proses penambahan kebisingan bertahap melalui langkah-langkah penghilangan kebisingan yang dipelajari."
+source: agnes_llm
+status: published
+language: id
+description: Pendekatan pemodelan generatif yang menciptakan data dengan membalikkan
+  proses penambahan kebisingan bertahap melalui langkah-langkah penghilangan kebisingan
+  yang dipelajari.
 ---
-
 ## Definition
 
 Model berbasis difusi adalah kelas AI generatif yang membuat sampel data baru dengan secara iteratif menghilangkan kebisingan dari distribusi acak. Proses ini dimulai dengan fase maju yang perlahan menambahkan kebisingan Gauss...

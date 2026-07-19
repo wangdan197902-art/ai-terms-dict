@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /cs/terms/online/
 date: "2026-07-18T15:27:29.491145Z"
 lastmod: "2026-07-18T17:15:09.074174Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na modely strojového učení, které se neustále učí z nových datových proudů v reálném čase bez nutnosti znovuškolení od začátku."
 ---
-
 ## Definition
 
 Online učení je paradigma strojového učení, při kterém je model aktualizován inkrementálně s příchodem nových datových bodů, místo aby byl trénován najednou na statické dávce dat. Tento přístup je kritický pro aplikace, kde se data mění v čase a je třeba, aby model rychle adaptoval na nové vzorce.

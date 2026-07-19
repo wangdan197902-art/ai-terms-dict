@@ -1,23 +1,24 @@
 ---
-title: "Φαινόμενο AI"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: Φαινόμενο AI
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /el/terms/ai_effect/
-date: "2026-07-18T15:46:40.369112Z"
-lastmod: "2026-07-18T17:15:09.874150Z"
+slug: ai_effect
+date: '2026-07-18T15:46:40.369112Z'
+lastmod: '2026-07-18T17:15:09.874150Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το φαινόμενο κατά το οποίο εργασίες που παλαιότερα θεωρούνταν έξυπνες γίνονται αντιληπτές ως απλές μόλις αυτοματοποιηθούν από μηχανές."
+source: agnes_llm
+status: published
+language: el
+description: Το φαινόμενο κατά το οποίο εργασίες που παλαιότερα θεωρούνταν έξυπνες
+  γίνονται αντιληπτές ως απλές μόλις αυτοματοποιηθούν από μηχανές.
 ---
-
 ## Definition
 
 Το φαινόμενο AI περιγράφει τη μεταβαλλόμενη οριακή γραμμή του τι συνιστά «τεχνητή νοημοσύνη». Καθώς οι αλγόριθμοι γίνονται πιο εξελιγμένοι και ικανοί να εκτελούν συγκεκριμένες εργασίες, αυτές οι εργασίες συχνά ανακαθορίζονται ως μη έξυπνες ή ρουτίνες.

@@ -1,23 +1,23 @@
 ---
-title: "การตรวจจับ"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: การตรวจจับ
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /th/terms/detection/
-date: "2026-07-18T15:24:22.356536Z"
-lastmod: "2026-07-18T16:38:07.535207Z"
+slug: detection
+date: '2026-07-18T15:24:22.356536Z'
+lastmod: '2026-07-18T16:38:07.535207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การระบุตัวตนและกำหนดตำแหน่งของวัตถุ เหตุการณ์ หรือความผิดปกติเฉพาะภายในชุดข้อมูลหรือสิ่งแวดล้อม"
+source: agnes_llm
+status: published
+language: th
+description: การระบุตัวตนและกำหนดตำแหน่งของวัตถุ เหตุการณ์ หรือความผิดปกติเฉพาะภายในชุดข้อมูลหรือสิ่งแวดล้อม
 ---
-
 ## Definition
 
 การตรวจจับเป็นงานหลักในด้านการมองเห็นด้วยคอมพิวเตอร์และการประมวลผลสัญญาณ ซึ่งโมเดลปัญญาประดิษฐ์จะระบุการมีอยู่และตำแหน่งของสิ่งที่น่าสนใจ ต่างจากการจัดประเภท (classification) ที่เพียงกำหนดป้ายชื่อ การตรวจจับมักจะระบุขอบเขตหรือตำแหน่งที่แน่นอนของวัตถุเหล่านั้นในภาพหรือข้อมูล

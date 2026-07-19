@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /zh/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T11:06:52.938017Z"
 lastmod: "2026-07-18T11:44:45.445364Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "使用人工智能工具简化招聘流程，包括简历筛选、候选人匹配和面试分析。"
 ---
-
 ## Definition
 
 招聘中的人工智能利用算法自动化和优化招聘生命周期的各个阶段。工具通过分析关键词相关性来解析简历，通过预测模型评估候选人匹配度，并利用聊天机器人进行初步沟通。

@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /id/terms/efficientnet/
-date: "2026-07-18T15:49:08.238579Z"
-lastmod: "2026-07-18T16:38:07.453856Z"
+slug: efficientnet
+date: '2026-07-18T15:49:08.238579Z'
+lastmod: '2026-07-18T16:38:07.453856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "EfficientNet adalah keluarga arsitektur jaringan saraf konvolusional yang menskalakan kedalaman, lebar, dan resolusi secara seragam untuk mencapai akurasi lebih tinggi dengan parameter lebih sedikit."
+source: agnes_llm
+status: published
+language: id
+description: EfficientNet adalah keluarga arsitektur jaringan saraf konvolusional
+  yang menskalakan kedalaman, lebar, dan resolusi secara seragam untuk mencapai akurasi
+  lebih tinggi dengan parameter lebih sedikit.
 ---
-
 ## Definition
 
 Dikembangkan oleh Google, EfficientNet menggunakan metode penskalaan kompaun untuk menyeimbangkan kedalaman jaringan, lebar, dan resolusi gambar input. Pendekatan ini memungkinkan model mencapai akurasi terbaik sambil

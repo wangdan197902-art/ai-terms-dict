@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /ro/terms/mlops/
 date: "2026-07-18T16:09:53.166883Z"
 lastmod: "2026-07-18T17:15:09.677613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "MLOps (Machine Learning Operations) este un set de practici care combină învățarea automată, DevOps și ingineria datelor pentru a automatiza și optimiza ciclul de viață al modelelor ML."
 ---
-
 ## Definition
 
 MLOps permite organizațiilor să implementeze și să mențină modelele de învățare automată în producție într-un mod fiabil și eficient. Include controlul versiunilor pentru date și modele, testarea automată, integrarea con

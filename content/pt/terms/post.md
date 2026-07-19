@@ -1,23 +1,24 @@
 ---
-title: "Publicação"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Publicação
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /pt/terms/post/
-date: "2026-07-18T14:38:03.205618Z"
-lastmod: "2026-07-18T15:51:59.436310Z"
+slug: post
+date: '2026-07-18T14:38:03.205618Z'
+lastmod: '2026-07-18T15:51:59.436310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um conteúdo publicado, tipicamente em um blog, plataforma de mídia social ou fórum, representando informações ou comentários gerados pelo usuário."
+source: agnes_llm
+status: published
+language: pt
+description: Um conteúdo publicado, tipicamente em um blog, plataforma de mídia social
+  ou fórum, representando informações ou comentários gerados pelo usuário.
 ---
-
 ## Definition
 
 No contexto de comunicação digital e dados de IA, uma 'publicação' refere-se a uma unidade discreta de conteúdo compartilhada online. Ela serve como fonte primária para treinar modelos de processamento de linguagem natural (NLP), análise de sentimento e outras aplicações de mineração de texto.

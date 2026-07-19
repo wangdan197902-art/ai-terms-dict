@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /zh/terms/aixi/
 date: "2026-07-18T11:04:01.480490Z"
 lastmod: "2026-07-18T11:44:45.437050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AIXI 是一种关于人工通用智能的数学理论，建模了一个与环境的交互最优智能体。"
 ---
-
 ## Definition
 
 AIXI 是由马库斯·胡特（Marcus Hutter）提出的理论框架，定义了一个理想化的智能体。它将用于预测环境的索洛莫夫归纳法与用于决策的强化学习相结合，旨在从理论上描述最优的智能行为。

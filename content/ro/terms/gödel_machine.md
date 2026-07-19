@@ -1,23 +1,24 @@
 ---
-title: "Mașina Gödel"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Mașina Gödel
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /ro/terms/gödel_machine/
-date: "2026-07-18T16:01:59.981660Z"
-lastmod: "2026-07-18T17:15:09.663341Z"
+slug: gödel_machine
+date: '2026-07-18T16:01:59.981660Z'
+lastmod: '2026-07-18T17:15:09.663341Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un program AI teoretic auto-perfecționant care poate rescrie propriul cod sursă pentru a deveni mai eficient, fără a-i altera obiectivele."
+source: agnes_llm
+status: published
+language: ro
+description: Un program AI teoretic auto-perfecționant care poate rescrie propriul
+  cod sursă pentru a deveni mai eficient, fără a-i altera obiectivele.
 ---
-
 ## Definition
 
 Mașina Gödel este un rezolvător universal ipotetic de probleme propus de Jürgen Schmidhuber, bazat pe logica formală și teoria calculabilității. Aceasta funcționează analizând continuu propriul cod sursă și optimizându-l dacă o îmbunătățire poate fi demonstrată formal ca fiind benefică pentru funcția de utilitate, fără a modifica scopul final al sistemului.

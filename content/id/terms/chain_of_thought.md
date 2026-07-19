@@ -1,23 +1,24 @@
 ---
-title: "Rantai Pemikiran"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Rantai Pemikiran
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /id/terms/chain_of_thought/
-date: "2026-07-18T15:22:34.140682Z"
-lastmod: "2026-07-18T16:38:07.386851Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:34.140682Z'
+lastmod: '2026-07-18T16:38:07.386851Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik perancangan prompt yang mendorong LLM untuk menghasilkan langkah penalaran perantara sebelum menjawab."
+source: agnes_llm
+status: published
+language: id
+description: Teknik perancangan prompt yang mendorong LLM untuk menghasilkan langkah
+  penalaran perantara sebelum menjawab.
 ---
-
 ## Definition
 
 Perancangan prompt Rantai Pemikiran (CoT) adalah strategi di mana model bahasa besar dibimbing untuk menghasilkan penjelasan penalaran langkah demi langkah sebelum mencapai jawaban akhir. Dengan memecah masalah kompleks menjadi bagian-bagian kecil.

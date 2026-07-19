@@ -1,23 +1,23 @@
 ---
-title: "السلامة الحيوية"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: السلامة الحيوية
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /ar/terms/bioserenity/
-date: "2026-07-18T15:47:41.083393Z"
-lastmod: "2026-07-18T17:15:08.482369Z"
+slug: bioserenity
+date: '2026-07-18T15:47:41.083393Z'
+lastmod: '2026-07-18T17:15:08.482369Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "حالة نظرية للتعايش المتناغم بين الحياة البيولوجية وأنظمة الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: حالة نظرية للتعايش المتناغم بين الحياة البيولوجية وأنظمة الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 تشير السلامة الحيوية إلى المثالية المفاهيمية حيث تعمل البيولوجيا البشرية والذكاء الاصطناعي بتناغم سلس وغير متعارض. تؤكد على التكامل الأخلاقي، مما يضمن أن تعزيز الذكاء الاصطناعي...

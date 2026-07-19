@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /vi/terms/vision_language/
 date: "2026-07-18T15:37:50.582799Z"
 lastmod: "2026-07-18T16:38:07.716107Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các mô hình Vision-Language là hệ thống AI xử lý và kết hợp dữ liệu trực quan với thông tin văn bản để hiểu các ngữ cảnh đa phương thức."
 ---
-
 ## Definition
 
 Các mô hình Vision-Language, thường được gọi là Mô hình Ngôn ngữ Lớn Đa phương thức (MLLMs), tích hợp thị giác máy tính và xử lý ngôn ngữ tự nhiên. Chúng cho phép AI hiểu hình ảnh và tạo ra văn bản...

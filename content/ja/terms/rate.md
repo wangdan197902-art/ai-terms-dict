@@ -1,23 +1,23 @@
 ---
-title: "レート"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: レート
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /ja/terms/rate/
-date: "2026-07-18T10:54:05.989100Z"
-lastmod: "2026-07-18T11:44:45.017159Z"
+slug: rate
+date: '2026-07-18T10:54:05.989100Z'
+lastmod: '2026-07-18T11:44:45.017159Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "頻度や速度の測定値。最適化における学習率や、トークン生成速度を指すことが一般的です。"
+source: agnes_llm
+status: published
+language: ja
+description: 頻度や速度の測定値。最適化における学習率や、トークン生成速度を指すことが一般的です。
 ---
-
 ## Definition
 
 AIにおいて「レート」は最も頻繁に学習率を指し、これはモデルの重みが更新されるたびに推定されたエラーに応じてモデルをどの程度変更するかを制御するハイパーパラメータです。レートが

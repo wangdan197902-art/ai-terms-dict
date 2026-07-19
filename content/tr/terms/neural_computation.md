@@ -1,23 +1,24 @@
 ---
-title: "Sinirsel hesaplama"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Sinirsel hesaplama
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /tr/terms/neural_computation/
-date: "2026-07-18T16:06:06.142665Z"
-lastmod: "2026-07-18T16:38:07.340171Z"
+slug: neural_computation
+date: '2026-07-18T16:06:06.142665Z'
+lastmod: '2026-07-18T16:38:07.340171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Biyolojik nöronlardan ilham alan yapay sinir ağları içindeki bilgi işleme süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Biyolojik nöronlardan ilham alan yapay sinir ağları içindeki bilgi işleme
+  süreci.
 ---
-
 ## Definition
 
 Sinirsel hesaplama, girdi sinyallerini çıktı yanıtlarına dönüştürmek için yapay nöronlar tarafından gerçekleştirilen matematiksel işlemleri ifade eder. Ağırlıklı toplamlar, aktivasyon fonksiyonları ve geri yayılım (backpropagation) işlemlerini içerir.

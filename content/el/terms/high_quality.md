@@ -1,23 +1,23 @@
 ---
-title: "υψηλής ποιότητας"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: υψηλής ποιότητας
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /el/terms/high_quality/
-date: "2026-07-18T15:36:24.941764Z"
-lastmod: "2026-07-18T17:15:09.860258Z"
+slug: high_quality
+date: '2026-07-18T15:36:24.941764Z'
+lastmod: '2026-07-18T17:15:09.860258Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Αναφέρεται σε σύνολα δεδομένων, μοντέλα ή εξόδους που παρουσιάζουν ανώτερη ακρίβεια, αξιοπιστία και ελάχιστο θόρυβο."
+source: agnes_llm
+status: published
+language: el
+description: Αναφέρεται σε σύνολα δεδομένων, μοντέλα ή εξόδους που παρουσιάζουν ανώτερη
+  ακρίβεια, αξιοπιστία και ελάχιστο θόρυβο.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, ο όρος υψηλής ποιότητας περιγράφει συνήθως δεδομένα ή εξόδους μοντέλων που διαθέτουν υψηλή πιστότητα, χαμηλό θόρυβο και ισχυρές ικανότητες γενίκευσης. Τα δεδομένα εκπαίδευσης υψηλής ποιότητας διασφαλίζουν την...

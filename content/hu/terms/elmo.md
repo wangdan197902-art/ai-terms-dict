@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /hu/terms/elmo/
 date: "2026-07-18T15:57:38.683975Z"
 lastmod: "2026-07-18T17:15:09.778483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Embeddings from Language Models (Nyelvi modellekből származó beágyazások), egy mély kontextuális szóábrázolási módszer, amely kétirányú LSTM-eket használ."
 ---
-
 ## Definition
 
 Az ELMo kontextusfüggő szóbeágyazásokat generál, feldolgozva a bemeneti szöveget egy nagy korpuszon tanított kétirányú LSTM-en keresztül. A statikus beágyazásokkal (pl. Word2Vec) ellentétben az ELMo képes kezelni a szavak többértelműségét...

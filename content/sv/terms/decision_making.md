@@ -1,23 +1,24 @@
 ---
-title: "beslutsfattande"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: beslutsfattande
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /sv/terms/decision_making/
-date: "2026-07-18T15:33:15.350103Z"
-lastmod: "2026-07-18T17:15:08.956106Z"
+slug: decision_making
+date: '2026-07-18T15:33:15.350103Z'
+lastmod: '2026-07-18T17:15:08.956106Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den kognitiva processen att välja en handlingsväg från flera alternativ baserat på tillgänglig information."
+source: agnes_llm
+status: published
+language: sv
+description: Den kognitiva processen att välja en handlingsväg från flera alternativ
+  baserat på tillgänglig information.
 ---
-
 ## Definition
 
 Inom artificiell intelligens avser beslutsfattande den algoritmiska process där ett system utvärderar potentiella handlingar mot specifika kriterier eller mål för att välja det optimala utfallet. Detta involverar...

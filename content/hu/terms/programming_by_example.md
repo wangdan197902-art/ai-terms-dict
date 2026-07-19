@@ -1,23 +1,24 @@
 ---
-title: "Példák alapján történő programozás"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Példák alapján történő programozás
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /hu/terms/programming_by_example/
-date: "2026-07-18T16:19:13.064351Z"
-lastmod: "2026-07-18T17:15:09.824969Z"
+slug: programming_by_example
+date: '2026-07-18T16:19:13.064351Z'
+lastmod: '2026-07-18T17:15:09.824969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy AI technika, ahol a programok automatikusan szintetizálódnak a felhasználók által megadott bemeneti-kimeneti példák alapján szabályok kikövetkeztetésével."
+source: agnes_llm
+status: published
+language: hu
+description: Egy AI technika, ahol a programok automatikusan szintetizálódnak a felhasználók
+  által megadott bemeneti-kimeneti példák alapján szabályok kikövetkeztetésével.
 ---
-
 ## Definition
 
 A Példák alapján történő programozás (PBE) egy program-szintézis paradigmája, ahol a fejlesztők konkrét bemeneti-kimeneti párokon keresztül határozzák meg a kívánt viselkedést, ahelyett, hogy explicit kódot írnának. Az AI rendszer elemezi ezeket a példákat, és megpróbálja általánosítani a mögöttük lévő logikát vagy szabályt.

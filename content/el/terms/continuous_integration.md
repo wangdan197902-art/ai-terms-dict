@@ -1,23 +1,25 @@
 ---
-title: "Συνεχής Ενσωμάτωση"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Συνεχής Ενσωμάτωση
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /el/terms/continuous_integration/
-date: "2026-07-18T15:39:47.433366Z"
-lastmod: "2026-07-18T17:15:09.864869Z"
+slug: continuous_integration
+date: '2026-07-18T15:39:47.433366Z'
+lastmod: '2026-07-18T17:15:09.864869Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια πρακτική ανάπτυξης λογισμικού κατά την οποία οι προγραμματιστές συγχωνεύουν συχνά αλλαγές κώδικα σε ένα κεντρικό αποθετήριο, ενεργοποιώντας αυτοματοποιημένες δοκιμές και κατασκευές."
+source: agnes_llm
+status: published
+language: el
+description: Μια πρακτική ανάπτυξης λογισμικού κατά την οποία οι προγραμματιστές συγχωνεύουν
+  συχνά αλλαγές κώδικα σε ένα κεντρικό αποθετήριο, ενεργοποιώντας αυτοματοποιημένες
+  δοκιμές και κατασκευές.
 ---
-
 ## Definition
 
 Η Συνεχής Ενσωμάτωση (CI) είναι μια κρίσιμη πρακτική DevOps που αυτοματοποιεί την ενσωμάτωση αλλαγών κώδικα από πολλούς συνεισφέροντες σε ένα μοναδικό έργο λογισμικού. Εκτελώντας αυτοματοποιημένες κατασκευές και δοκιμές, διασφαλίζει ότι ο νέος κώδικας ενσωματώνεται ομαλά και ανιχνεύονται σφάλματα νωρίς.

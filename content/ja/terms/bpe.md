@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /ja/terms/bpe/
 date: "2026-07-18T10:58:22.790585Z"
 lastmod: "2026-07-18T11:44:45.030980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "バイトペアエンコーディングは、最も頻繁に出現する文字のペアを反復的に結合して語彙を構築するサブワードトークン化に用いられるアルゴリズムです。"
 ---
-
 ## Definition
 
 バイトペアエンコーディング（BPE）は、未登録語（Out-of-Vocabulary）への対応など、自然言語処理のために適応されたデータ圧縮技術です。これは個別の文字からなる語彙で始まり、反復的

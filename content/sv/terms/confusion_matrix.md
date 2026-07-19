@@ -1,23 +1,24 @@
 ---
-title: "Förvirringsmatris"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Förvirringsmatris
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /sv/terms/confusion_matrix/
-date: "2026-07-18T15:50:19.210889Z"
-lastmod: "2026-07-18T17:15:08.986913Z"
+slug: confusion_matrix
+date: '2026-07-18T15:50:19.210889Z'
+lastmod: '2026-07-18T17:15:08.986913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En tabell som används för att beskriva prestandan hos en klassificeringsmodell på ett uppsättning testdata."
+source: agnes_llm
+status: published
+language: sv
+description: En tabell som används för att beskriva prestandan hos en klassificeringsmodell
+  på ett uppsättning testdata.
 ---
-
 ## Definition
 
 En förvirringsmatris är en specifik tabelllayout som möjliggör visualisering av en algoritms prestanda, vanligtvis en övervakad inlärningsalgoritm. Den visar antalet sanna positiva, sanna negativa, falska positiva och falska negativa resultat.

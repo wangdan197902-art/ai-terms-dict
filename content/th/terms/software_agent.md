@@ -1,23 +1,23 @@
 ---
-title: "เอเจนต์ซอฟต์แวร์"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: เอเจนต์ซอฟต์แวร์
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /th/terms/software_agent/
-date: "2026-07-18T16:15:26.493419Z"
-lastmod: "2026-07-18T16:38:07.654976Z"
+slug: software_agent
+date: '2026-07-18T16:15:26.493419Z'
+lastmod: '2026-07-18T16:38:07.654976Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โปรแกรมคอมพิวเตอร์ที่ทำหน้าที่แทนผู้ใช้หรือโปรแกรมอื่น ๆ ด้วยระดับความเป็นอิสระบางประการ"
+source: agnes_llm
+status: published
+language: th
+description: โปรแกรมคอมพิวเตอร์ที่ทำหน้าที่แทนผู้ใช้หรือโปรแกรมอื่น ๆ ด้วยระดับความเป็นอิสระบางประการ
 ---
-
 ## Definition
 
 เอเจนต์ซอฟต์แวร์คือหน่วยอิสระที่มีความสามารถในการรับรู้สภาพแวดล้อม ให้เหตุผล และดำเนินการเพื่อบรรลุเป้าหมายที่กำหนด เอเจนต์เหล่านี้สามารถทำงานได้อย่างอิสระ ปรับตัวต่อการเปลี่ยนแปลง และประสานงานกับเอเจนต์อื่น ๆ โดยไม่ต้องมีการแทรกแซงจากมนุษย์อย่างต่อเนื่อง

@@ -1,23 +1,23 @@
 ---
-title: "Směřovat k"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: Směřovat k
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /cs/terms/towards/
-date: "2026-07-18T15:30:36.573136Z"
-lastmod: "2026-07-18T17:15:09.080446Z"
+slug: towards
+date: '2026-07-18T15:30:36.573136Z'
+lastmod: '2026-07-18T17:15:09.080446Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Směřovat k označuje směrový pokrok nebo cíle optimalizace v AI, což indikuje pohyb směrem ke zlepšenému výkonu nebo specifickým cílům."
+source: agnes_llm
+status: published
+language: cs
+description: Směřovat k označuje směrový pokrok nebo cíle optimalizace v AI, což indikuje
+  pohyb směrem ke zlepšenému výkonu nebo specifickým cílům.
 ---
-
 ## Definition
 
 Ve vývoji AI 'směřovat k' často popisuje trajektorii procesů optimalizace, například jak sestup po gradientu posouvá váhy směrem k minimální hodnotě ztráty. Také označuje výzkumné směry, kde

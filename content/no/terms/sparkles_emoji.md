@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /no/terms/sparkles_emoji/
 date: "2026-07-18T16:16:32.822955Z"
 lastmod: "2026-07-18T16:38:07.048468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et visuelt symbol som ofte brukes i AI-grensesnitt for å angi nye funksjoner, forbedringer eller magiske transformasjoner i generert innhold."
 ---
-
 ## Definition
 
 Det glitrende emoji-et er et grafisk ikon som ofte brukes i brukergrensesnitt for AI-applikasjoner for å signalisere noe nytt, en forbedring eller en kreativ oppgradering. Det fungerer som et ikke-verbalt signal som indikerer at noe er forbedret eller nyskapende.

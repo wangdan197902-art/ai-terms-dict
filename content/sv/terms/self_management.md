@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /sv/terms/self_management/
 date: "2026-07-18T16:19:57.122983Z"
 lastmod: "2026-07-18T17:15:09.045980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Självhantering inom AI avser autonoma systemets förmåga att övervaka, optimera och reparera sina egna operationer utan mänsklig inblandning."
 ---
-
 ## Definition
 
 Begreppet omfattar AI-agenter eller systemets kapacitet att hantera rutinunderhåll, resursallokering och felkorrigering oberoende. Det inkluderar funktioner som automatisk skalning (auto-scaling), självläkning (self-healing) och dynamisk optimering av beräkningsresurser för att säkerställa driftsäkerhet.

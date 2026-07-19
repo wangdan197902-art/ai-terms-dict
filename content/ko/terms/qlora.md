@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /ko/terms/qlora/
-date: "2026-07-18T15:35:51.643333Z"
-lastmod: "2026-07-18T16:38:06.798759Z"
+slug: qlora
+date: '2026-07-18T15:35:51.643333Z'
+lastmod: '2026-07-18T16:38:06.798759Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "양자화된 저랭크 어댑테이션(Quantized Low-Rank Adaptation)으로, 4비트 양자화와 저랭크 어댑터를 사용하여 대규모 언어 모델을 효율적으로 파인튜닝하는 방법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 양자화된 저랭크 어댑테이션(Quantized Low-Rank Adaptation)으로, 4비트 양자화와 저랭크 어댑터를 사용하여
+  대규모 언어 모델을 효율적으로 파인튜닝하는 방법입니다.
 ---
-
 ## Definition
 
 QLoRA는 저랭크 어댑테이션(LoRA)과 4비트 양자화를 결합하여 방대한 모델의 파인튜닝에 필요한 메모리 사용량을 획기적으로 줄입니다. 가중치를 4비트 형식으로 저장하고 추가적인...

@@ -1,23 +1,25 @@
 ---
-title: "Attention (Aandacht)"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Attention (Aandacht)
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /nl/terms/attention/
-date: "2026-07-18T15:35:11.390475Z"
-lastmod: "2026-07-18T17:15:08.702074Z"
+slug: attention
+date: '2026-07-18T15:35:11.390475Z'
+lastmod: '2026-07-18T17:15:08.702074Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een mechanisme waarmee neurale netwerken dynamisch het belang van verschillende delen van de invoersekwentie kunnen wegen."
+source: agnes_llm
+status: published
+language: nl
+description: Een mechanisme waarmee neurale netwerken dynamisch het belang van verschillende
+  delen van de invoersekwentie kunnen wegen.
 ---
-
 ## Definition
 
 Attention-mechanismen stellen modellen in staat om zich te focussen op relevante informatie bij het verwerken van invoer, vooral bij sequentiële gegevens zoals tekst. Door aandachtsscores te berekenen, bepaalt het model welke elementen...

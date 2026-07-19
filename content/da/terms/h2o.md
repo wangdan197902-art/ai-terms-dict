@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /da/terms/h2o/
-date: "2026-07-18T15:59:29.422116Z"
-lastmod: "2026-07-18T17:15:09.294871Z"
+slug: h2o
+date: '2026-07-18T15:59:29.422116Z'
+lastmod: '2026-07-18T17:15:09.294871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et open-source, distribueret maskinlæringsplatform, der understøtter forskellige algoritmer til prediktiv analyse og dyb læring."
+source: agnes_llm
+status: published
+language: da
+description: Et open-source, distribueret maskinlæringsplatform, der understøtter
+  forskellige algoritmer til prediktiv analyse og dyb læring.
 ---
-
 ## Definition
 
 H2O er en bredt brugt open-source in-memory-platform til distribueret, skalerbar maskinlæring og prediktiv analyse. Oprindeligt udviklet af to ph.d.-studerende fra Harvard, tilbyder den et samlet framework til hurtig prototyping og produktion af machine learning-modeller.

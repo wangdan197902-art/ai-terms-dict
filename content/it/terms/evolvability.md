@@ -1,23 +1,24 @@
 ---
-title: "Evolvibilità"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Evolvibilità
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /it/terms/evolvability/
-date: "2026-07-18T15:58:57.465517Z"
-lastmod: "2026-07-18T17:15:08.624088Z"
+slug: evolvability
+date: '2026-07-18T15:58:57.465517Z'
+lastmod: '2026-07-18T17:15:08.624088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La capacità di un genotipo o di un sistema di generare variazioni fenotipiche ereditabili che possono essere selezionate per l'adattamento."
+source: agnes_llm
+status: published
+language: it
+description: La capacità di un genotipo o di un sistema di generare variazioni fenotipiche
+  ereditabili che possono essere selezionate per l'adattamento.
 ---
-
 ## Definition
 
 Nei contesti computazionali, l'evolvibilità si riferisce alla facilità con cui un algoritmo o un'architettura di rete neurale può migliorare la propria fitness nel corso di generazioni o passaggi di addestramento. Un'elevata evolvibilità implica che piccoli cambiamenti...

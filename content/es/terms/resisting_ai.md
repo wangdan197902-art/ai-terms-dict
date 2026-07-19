@@ -1,23 +1,24 @@
 ---
-title: "Resistencia a la IA"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: Resistencia a la IA
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /es/terms/resisting_ai/
-date: "2026-07-18T11:06:39.654912Z"
-lastmod: "2026-07-18T11:44:44.850766Z"
+slug: resisting_ai
+date: '2026-07-18T11:06:39.654912Z'
+lastmod: '2026-07-18T11:44:44.850766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Estrategias y técnicas empleadas para evadir la detección, manipulación o control por parte de sistemas de inteligencia artificial."
+source: agnes_llm
+status: published
+language: es
+description: Estrategias y técnicas empleadas para evadir la detección, manipulación
+  o control por parte de sistemas de inteligencia artificial.
 ---
-
 ## Definition
 
 La resistencia a la IA se refiere a los métodos utilizados por individuos o entidades para evitar ser influenciados, rastreados o clasificados por algoritmos de IA. Esto incluye ataques adversarios contra sistemas de percepción, técnicas de preservación de privacidad y estrategias de evasión algorítmica.

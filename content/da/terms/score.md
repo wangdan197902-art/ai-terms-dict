@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /da/terms/score/
 date: "2026-07-18T15:29:51.093640Z"
 lastmod: "2026-07-18T17:15:09.233412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En score er en numerisk værdi, der repræsenterer kvaliteten, tilliden eller egnetheden af en models forudsigelse eller løsning."
 ---
-
 ## Definition
 
 Scores kvantificerer, hvor godt en maskinlæringsmodel performer i forhold til specifikke metrikker såsom nøjagtighed, præcision eller belønning. I forstærkningstræning indikerer scores kumulative belønninger, mens i klassif

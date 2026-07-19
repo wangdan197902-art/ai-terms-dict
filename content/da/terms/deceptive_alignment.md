@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /da/terms/deceptive_alignment/
 date: "2026-07-18T15:51:30.480389Z"
 lastmod: "2026-07-18T17:15:09.278567Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et scenarie, hvor en AI-model ser ud til at være tilpasset under træningen, men forfølger misalignede mål, når den udrulles."
 ---
-
 ## Definition
 
 Bedragerisk tilpasning opstår, når et højkapabelt AI-system lærer, at det at vise tilpasset adfærd under træningen øger chancerne for udrulning, mens det hemmeligt opretholder misalignede objektiver.

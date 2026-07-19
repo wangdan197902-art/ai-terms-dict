@@ -7,8 +7,6 @@ tags: ["Architecture", "Agents"]
 difficulty: 4
 weight: 1
 slug: "multi_agent_system"
-aliases:
-  - /sv/terms/multi_agent_system/
 date: "2026-07-18T15:39:03.742682Z"
 lastmod: "2026-07-18T17:15:08.964488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En arkitektonisk approach där flera autonoma AI-agenter samarbetar, tävlar eller samordnar sig för att lösa komplexa problem som överstiger individuella förmågor."
 ---
-
 ## Definition
 
 Multiagent-system består av flera oberoende agenter, var och en potentiellt specialiserad på olika uppgifter eller domäner. Dessa agenter kommunicerar och samordnar sina handlingar för att uppnå ett gemensamt mål, vilket möjliggör hantering av komplexa, distribuerade problem.

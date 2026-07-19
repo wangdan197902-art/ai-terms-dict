@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /sv/terms/function_calling/
 date: "2026-07-18T15:38:36.001634Z"
 lastmod: "2026-07-18T17:15:08.963014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En mekanism som gör det möjligt för stora språkmodeller att producera strukturerad data som utlöser specifika programvarufunktioner."
 ---
-
 ## Definition
 
 Funktionsanrop möjliggör för stora språkmodeller att interagera med externa verktyg och API:er genom att generera strukturerade utdata, såsom JSON-objekt, som anger vilken funktion som ska köras och vilka argument som ska användas.

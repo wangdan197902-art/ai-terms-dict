@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /ar/terms/embodied_agent/
 date: "2026-07-18T15:56:22.908014Z"
 lastmod: "2026-07-18T17:15:08.500567Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الوكيل المجسد هو نظام ذكاء اصطناعي يتفاعل مع بيئته من خلال جسم مادي أو جهاز حسي حركي."
 ---
-
 ## Definition
 
 على عكس الذكاء الاصطناعي غير المجسد الذي يعالج بيانات مجردة، يتعلم الوكلاء المجسدون ويتصرفون في سياق مادي، معتمدين على المدخلات الحسية والمخرجات الحركية. هذا النموذج مركزي في مجال الروبوتات والأنظمة المستقلة.

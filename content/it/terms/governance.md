@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /it/terms/governance/
 date: "2026-07-18T16:01:59.396138Z"
 lastmod: "2026-07-18T17:15:08.630523Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il quadro di politiche, standard e meccanismi di supervisione stabiliti per garantire che i sistemi di IA siano sviluppati e distribuiti in modo responsabile ed etico."
 ---
-
 ## Definition
 
 La Governance dell'IA si riferisce all'insieme di regole, linee guida e strutture istituzionali che gestiscono come l'intelligenza artificiale viene creata, utilizzata e sottoposta a verifica. Comprende la conformità legale, la considerazione etica e la gestione del rischio.

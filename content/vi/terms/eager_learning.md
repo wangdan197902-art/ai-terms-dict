@@ -1,23 +1,25 @@
 ---
-title: "Học tham lam (Eager learning)"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Học tham lam (Eager learning)
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /vi/terms/eager_learning/
-date: "2026-07-18T15:50:37.108817Z"
-lastmod: "2026-07-18T16:38:07.752136Z"
+slug: eager_learning
+date: '2026-07-18T15:50:37.108817Z'
+lastmod: '2026-07-18T16:38:07.752136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Học tham lam là một phương pháp học máy trong đó hàm tổng quát hóa được học trong giai đoạn huấn luyện, cho phép thời gian dự đoán nhanh sau khi quá trình huấn luyện hoàn tất."
+source: agnes_llm
+status: published
+language: vi
+description: Học tham lam là một phương pháp học máy trong đó hàm tổng quát hóa được
+  học trong giai đoạn huấn luyện, cho phép thời gian dự đoán nhanh sau khi quá trình
+  huấn luyện hoàn tất.
 ---
-
 ## Definition
 
 Trong học tham lam, hệ thống xây dựng một hàm mục tiêu hoặc mô hình tổng quát dựa trên dữ liệu huấn luyện trước khi gặp các trường hợp mới. Điều này trái ngược với học trì hoãn (lazy learning), vốn trì hoãn việc tổng quát hóa cho đến khi cần dự đoán.

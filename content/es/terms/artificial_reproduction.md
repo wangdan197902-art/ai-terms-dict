@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /es/terms/artificial_reproduction/
 date: "2026-07-18T10:36:59.313666Z"
 lastmod: "2026-07-18T11:44:44.778478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El uso de biotecnología e IA para asistir o replicar procesos reproductivos biológicos, común en medicina o agricultura."
 ---
-
 ## Definition
 
 La reproducción artificial abarca técnicas que facilitan o replican la reproducción biológica sin necesidad de cópula directa, utilizando intensivamente tecnología y cada vez más inteligencia artificial para la optimización genética y el monitoreo. En el ámbito médico, incluye métodos como la fecundación in vitro, mientras que en la agricultura se aplica para mejorar la producción ganadera y la conservación de especies.

@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /ru/terms/mauve/
-date: "2026-07-18T16:03:13.209279Z"
-lastmod: "2026-07-18T16:38:07.177380Z"
+slug: mauve
+date: '2026-07-18T16:03:13.209279Z'
+lastmod: '2026-07-18T16:38:07.177380Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) — метрика, используемая в обработке естественного языка для оценки соответствия между распределениями сгенерированного текста и текстов, написанных"
+source: agnes_llm
+status: published
+language: ru
+description: MAUVE (Measuring Alignment Using Virtual Embeddings) — метрика, используемая
+  в обработке естественного языка для оценки соответствия между распределениями сгенерированного
+  текста и текстов, написанных
 ---
-
 ## Definition
 
 MAUVE — это статистическая мера, предназначенная для оценки того, насколько близко вывод генеративной языковой модели имитирует человеческое использование языка. В отличие от простых показателей перплексии, MAUVE использует виртуальные эмбеддинги

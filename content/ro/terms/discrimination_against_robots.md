@@ -1,23 +1,26 @@
 ---
-title: "Discriminarea împotriva roboților"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Discriminarea împotriva roboților
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /ro/terms/discrimination_against_robots/
-date: "2026-07-18T15:55:01.750790Z"
-lastmod: "2026-07-18T17:15:09.650037Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:55:01.750790Z'
+lastmod: '2026-07-18T17:15:09.650037Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Conceptul etic și juridic care se referă la tratamentul părtinitor sau prejudecata îndreptată către agenții artificiali sau sisteme autonome, apărând adesea din proiecții antropomorfe sau lipsă de înc"
+source: agnes_llm
+status: published
+language: ro
+description: Conceptul etic și juridic care se referă la tratamentul părtinitor sau
+  prejudecata îndreptată către agenții artificiali sau sisteme autonome, apărând adesea
+  din proiecții antropomorfe sau lipsă de înc
 ---
-
 ## Definition
 
 Discriminarea împotriva roboților este un concept etic și sociologic emergent care examinează modul în care oamenii ar putea trata nedrept, cu neîncredere sau pot atribui atribute negative agenților artificiali pe baza naturii lor mecanice sau a percepției lor ca fiind 'neumane', influențând interacțiunile sociale și adoptarea tehnologiei.

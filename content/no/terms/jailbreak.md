@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /no/terms/jailbreak/
 date: "2026-07-18T15:37:12.294154Z"
 lastmod: "2026-07-18T16:38:06.959245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En teknikk for prompt-engineering designet for å omgå sikkerhetsfilter og etiske begrensninger i en AI-modell."
 ---
-
 ## Definition
 
 Jailbreaking involverer å lage spesifikke inndata eller prompts som lurer en AI-modell til å ignorere innebygde sikkerhetsretningslinjer og generere forbudt innhold, som hatprat eller farlige instruksjoner.

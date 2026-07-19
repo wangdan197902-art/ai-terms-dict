@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /de/terms/compliance/
 date: "2026-07-18T11:08:08.300326Z"
 lastmod: "2026-07-18T11:44:44.919217Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Einhaltung gesetzlicher Vorschriften, ethischer Standards und branchenspezifischer Richtlinien durch KI-Systeme."
 ---
-
 ## Definition
 
 Im Bereich der künstlichen Intelligenz bezeichnet Compliance den Prozess, sicherzustellen, dass KI-Modelle und deren Einsatz mit geltenden Gesetzen wie der DSGVO oder HIPAA sowie internen ethischen Rahmenwerken übereinstimmen.

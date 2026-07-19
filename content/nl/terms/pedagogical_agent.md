@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /nl/terms/pedagogical_agent/
 date: "2026-07-18T16:11:56.577596Z"
 lastmod: "2026-07-18T17:15:08.775851Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een kunstmatige intelligentie-entiteit die is ontworpen om het leren te vergemakkelijken door instructie, feedback en begeleiding te bieden."
 ---
-
 ## Definition
 
 Een pedagogisch agent is een softwarecomponent, vaak belichaamd als een virtueel personage, dat fungeert als leraar of tutor binnen educatieve omgevingen. Deze agenten maken gebruik van natuurlijke taalverwerking en

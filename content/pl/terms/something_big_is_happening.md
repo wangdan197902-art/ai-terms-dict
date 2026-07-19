@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /pl/terms/something_big_is_happening/
 date: "2026-07-18T16:16:48.660999Z"
 lastmod: "2026-07-18T17:15:08.918756Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Colloquialne sformułowanie często używane w mediach do opisania znaczących przełomów lub szybkich postępów w dziedzinie AI."
 ---
-
 ## Definition
 
 Ten termin nie jest definicją techniczną, lecz markerem kulturowym odnoszącym się do okresów intensywnych innowacji, zainteresowania społeczeństwa lub zmian paradygmatu w sztucznej inteligencji. Zazwyczaj towarzyszy mu

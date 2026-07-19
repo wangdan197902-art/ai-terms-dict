@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /cs/terms/sentencepiece/
 date: "2026-07-18T16:17:04.605129Z"
 lastmod: "2026-07-18T17:15:09.199844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Knihovna pro nesupervizovanou tokenizaci a detokenizaci textu, která považuje surový text za posloupnost pod slov a používá ji pro předzpracování NLP."
 ---
-
 ## Definition
 
 SentencePiece je populární open-source knihovna pro normalizaci a tokenizaci textu, široce používaná v moderních pipelinech NLP. Provádí nesupervizované učení společného slovníku slov a pod slov...

@@ -1,23 +1,24 @@
 ---
-title: "Artificial Inventor Project"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Artificial Inventor Project
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /no/terms/artificial_inventor_project/
-date: "2026-07-18T15:42:52.438775Z"
-lastmod: "2026-07-18T16:38:06.971163Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:42:52.438775Z'
+lastmod: '2026-07-18T16:38:06.971163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et forskningsprosjekt som fokuserer på å utvikle datamodeller av menneskelig-lignende kreative løsningsprosesser og oppfinnelser."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et forskningsprosjekt som fokuserer på å utvikle datamodeller av menneskelig-lignende
+  kreative løsningsprosesser og oppfinnelser.
 ---
-
 ## Definition
 
 Artificial Inventor Project er et tverrfaglig forskningsinitiativ rettet mot å forstå og replikere de kognitive mekanismene bak menneskelig kreativitet og oppfinnsomhet. Målet er å bygge AI-systemer som kan etterligne disse prosessene.

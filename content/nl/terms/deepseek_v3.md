@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /nl/terms/deepseek_v3/
 date: "2026-07-18T15:50:50.077893Z"
 lastmod: "2026-07-18T17:15:08.736603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "DeepSeek V3 is een zeer efficiënt Mixture-of-Experts (MoE)-taalmodel dat state-of-the-art prestaties behaalt met aanzienlijk lagere trainingskosten."
 ---
-
 ## Definition
 
 DeepSeek V3 is een geavanceerde iteratie in de DeepSeek-modelfamilie, gekenmerkt door de activering van slechts een klein deel van de parameters tijdens inferentie via Mixture-of-Experts-routing. Deze arch

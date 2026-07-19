@@ -1,23 +1,24 @@
 ---
-title: "Google Clips"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: Google Clips
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /id/terms/google_clips/
-date: "2026-07-18T15:52:35.201751Z"
-lastmod: "2026-07-18T16:38:07.463369Z"
+slug: google_clips
+date: '2026-07-18T15:52:35.201751Z'
+lastmod: '2026-07-18T16:38:07.463369Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Google Clips adalah kamera bertenaga AI berukuran saku yang dirancang untuk secara otomatis menangkap momen menggunakan pembelajaran mesin."
+source: agnes_llm
+status: published
+language: id
+description: Google Clips adalah kamera bertenaga AI berukuran saku yang dirancang
+  untuk secara otomatis menangkap momen menggunakan pembelajaran mesin.
 ---
-
 ## Definition
 
 Google Clips adalah perangkat elektronik konsumen yang dikembangkan oleh Google yang memanfaatkan pembelajaran mesin di perangkat (on-device) untuk mengidentifikasi adegan dan subjek yang menarik, seperti wajah atau hewan peliharaan, dan secara otomatis mengambil foto atau video.

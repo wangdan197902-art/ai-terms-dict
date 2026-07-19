@@ -1,23 +1,24 @@
 ---
-title: "Dekoder"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Dekoder
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /pl/terms/decoder/
-date: "2026-07-18T15:34:47.637868Z"
-lastmod: "2026-07-18T17:15:08.830845Z"
+slug: decoder
+date: '2026-07-18T15:34:47.637868Z'
+lastmod: '2026-07-18T17:15:08.830845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Składnik sieci neuronowej odpowiedzialny za generowanie sekwencji wyjściowych na podstawie zakodowanych reprezentacji ukrytych."
+source: agnes_llm
+status: published
+language: pl
+description: Składnik sieci neuronowej odpowiedzialny za generowanie sekwencji wyjściowych
+  na podstawie zakodowanych reprezentacji ukrytych.
 ---
-
 ## Definition
 
 W modelach sekwencja-sekwencja dekodator przyjmuje wektor kontekstu wygenerowany przez enkoder i tworzy wynik docelowy krok po kroku. Wykorzystuje mechanizmy uwagi (attention), aby skupić się na odpowiednich częściach wejścia podczas generowania wyjścia.

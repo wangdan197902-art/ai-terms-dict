@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /fr/terms/evaluation/
 date: "2026-07-18T10:49:56.619073Z"
 lastmod: "2026-07-18T11:44:45.161984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'évaluation est le processus d'appréciation des performances, de la précision et de la robustesse d'un modèle IA par rapport à des métriques et des ensembles de données prédéfinis."
 ---
-
 ## Definition
 
 L'évaluation consiste à mesurer systématiquement la performance d'un modèle IA sur des tâches spécifiques à l'aide de métriques quantitatives (par ex., précision, score F1, BLEU) et d'évaluations qualitatives. Elle inclut la validation

@@ -7,8 +7,6 @@ tags: ["architecture", "scalability", "deployment"]
 difficulty: 2
 weight: 1
 slug: "microservices"
-aliases:
-  - /no/terms/microservices/
 date: "2026-07-18T16:06:07.239209Z"
 lastmod: "2026-07-18T16:38:07.024334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Mikrotjenester er en arkitekturstil som strukturerer en applikasjon som en samling løst koblet, uavhengig distribuerbare tjenester organisert rundt forretningskapasiteter."
 ---
-
 ## Definition
 
 I sammenheng med AI-ingeniørfag lar mikrotjenester ulike komponenter i en AI-pipeline, som dataforbehandling, modellinferens og resultatlagring, utvikles, skaleres og vedlikeholdes...

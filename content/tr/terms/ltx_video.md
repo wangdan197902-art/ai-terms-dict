@@ -1,23 +1,24 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /tr/terms/ltx_video/
-date: "2026-07-18T16:01:33.390491Z"
-lastmod: "2026-07-18T16:38:07.329658Z"
+slug: ltx_video
+date: '2026-07-18T16:01:33.390491Z'
+lastmod: '2026-07-18T16:38:07.329658Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Metin veya görüntü komutlarından yüksek sadakatli ve zamansal tutarlılıkta video içeriği oluşturmak için özel olarak optimize edilmiş bir gizli yayılım modeli."
+source: agnes_llm
+status: published
+language: tr
+description: Metin veya görüntü komutlarından yüksek sadakatli ve zamansal tutarlılıkta
+  video içeriği oluşturmak için özel olarak optimize edilmiş bir gizli yayılım modeli.
 ---
-
 ## Definition
 
 Ltx Video, tutarlı hareket ve görsel detaylar oluşturmak için gizli uzay yayılım süreçleri kullanan video için üretici yapay zekada bir ilerlemeyi temsil eder. Video üretiminin yaygın zorluklarını ele alır...

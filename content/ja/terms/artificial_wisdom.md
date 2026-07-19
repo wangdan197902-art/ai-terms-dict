@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /ja/terms/artificial_wisdom/
 date: "2026-07-18T11:04:34.622056Z"
 lastmod: "2026-07-18T11:44:45.069591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "判断力、倫理、文脈理解を含めることで、知能を超えたAIの拡張であり、健全な意思決定を可能にする。"
 ---
-
 ## Definition
 
 人工知恵（AW）は、人工知能に人間のような価値観、倫理的配慮、長期的な戦略的判断力を付加しようとする新興概念です。AIが効率性に焦点を当てるのに対し、AWはより広い文脈と倫理的枠組みに基づいた意思決定を重視します。

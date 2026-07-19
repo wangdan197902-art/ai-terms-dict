@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /de/terms/reliability/
 date: "2026-07-18T11:30:56.748704Z"
 lastmod: "2026-07-18T11:44:44.981580Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Maß dafür, wie konsistent ein KI-System seine vorgesehenen Funktionen korrekt und sicher unter angegebenen Bedingungen ausführt."
 ---
-
 ## Definition
 
 Zuverlässigkeit in der KI bezieht sich auf die Vertrauenswürdigkeit und Konsistenz des Systemverhaltens im Laufe der Zeit und über verschiedene Eingaben hinweg. Ein zuverlässiges KI-System sollte genaue Ergebnisse liefern, mit Randfällen angemessen umgehen und vorhersehbar agieren.

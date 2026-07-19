@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /tr/terms/inferential_theory_of_learning/
 date: "2026-07-18T15:58:30.954695Z"
 lastmod: "2026-07-18T16:38:07.321067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Öğrenmenin, gözlemlenen verilere dayanarak hipotezler hakkındaki inançları güncelleyen bir Bayesçi çıkarım süreci olarak görüldüğü bir çerçeve."
 ---
-
 ## Definition
 
 Bu teori, öğrenmenin temelde olasılıksal bir çıkarım süreci olduğunu öne sürer. Verileri ezberlemek yerine, öğrenen varlık olası modeller veya hipotezler üzerinde bir olasılık dağılımı korur. Gözlemlenen veriler geldiğinde, bu dağılım güncellenerek yeni hipotezlerin doğruluk olasılığı hesaplanır.

@@ -1,23 +1,23 @@
 ---
-title: "확률 일치"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: 확률 일치
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /ko/terms/probability_matching/
-date: "2026-07-18T16:10:45.710772Z"
-lastmod: "2026-07-18T16:38:06.898883Z"
+slug: probability_matching
+date: '2026-07-18T16:10:45.710772Z'
+lastmod: '2026-07-18T16:38:06.898883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "에이전트가 추정된 확률에 비례하는 빈도로 행동을 선택하는 의사결정 전략."
+source: agnes_llm
+status: published
+language: ko
+description: 에이전트가 추정된 확률에 비례하는 빈도로 행동을 선택하는 의사결정 전략.
 ---
-
 ## Definition
 
 확률 일치는 강화학습과 심리학에서 흔히 관찰되는 행동 패턴으로, 최적의 '최대화' 전략과 대비됩니다. 항상 가장 높은 확률의 행동을 선택하는 대신, h(예상 확률에 따라)...

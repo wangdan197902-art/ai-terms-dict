@@ -1,23 +1,23 @@
 ---
-title: "Bereitstellung: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Bereitstellung: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /de/terms/deployazure/
-date: "2026-07-18T11:11:39.366927Z"
-lastmod: "2026-07-18T11:44:44.931343Z"
+slug: deployazure
+date: '2026-07-18T11:11:39.366927Z'
+lastmod: '2026-07-18T11:44:44.931343Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess des Hostings und Ausführens von Machine-Learning-Modellen auf der Cloud-Infrastruktur von Microsoft Azure."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess des Hostings und Ausführens von Machine-Learning-Modellen
+  auf der Cloud-Infrastruktur von Microsoft Azure.
 ---
-
 ## Definition
 
 Die Bereitstellung auf Azure umfasst die Nutzung cloudnativer Tools wie Azure Machine Learning, Azure Kubernetes Service (AKS) oder Azure Functions, um ML-Modelle skalierbar bereitzustellen. Dazu gehört auch das Management von Rechenressourcen und die Überwachung der Modelle.

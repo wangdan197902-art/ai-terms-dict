@@ -1,23 +1,24 @@
 ---
-title: "Inférence de Génération de Texte"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: Inférence de Génération de Texte
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /fr/terms/text_generation_inference/
-date: "2026-07-18T11:40:52.061002Z"
-lastmod: "2026-07-18T11:44:45.344835Z"
+slug: text_generation_inference
+date: '2026-07-18T11:40:52.061002Z'
+lastmod: '2026-07-18T11:44:45.344835Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un moteur de service haute performance optimisé spécifiquement pour déployer de grands modèles de langage afin de générer du texte efficacement à grande échelle."
+source: agnes_llm
+status: published
+language: fr
+description: Un moteur de service haute performance optimisé spécifiquement pour déployer
+  de grands modèles de langage afin de générer du texte efficacement à grande échelle.
 ---
-
 ## Definition
 
 L'inférence de génération de texte (TGI) est un cadre logiciel dédié conçu pour servir de grands modèles de langage (LLM) avec une faible latence et un débit élevé. Il optimise le processus d'inférence pour la génération de texte en utilisant des techniques avancées comme le regroupement continu et le parallélisme tensoriel.

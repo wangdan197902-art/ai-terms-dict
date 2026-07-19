@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /he/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:15:08.978583Z"
 lastmod: "2026-07-18T17:15:09.570669Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "בינה מלאכותית בקוד פתוח מתייחסת לתוכנה, מודלים וכלים של בינה מלאכותית שהקוד המקורי שלהם זמין לציבור לבחינה, שינוי והפצה."
 ---
-
 ## Definition
 
 מושג זה כולל את האקוסיסטם של טכנולוגיות בינה מלאכותית המשוחררות תחת רישיונות המאפשרים גישה חופשית לקוד הבסיסי שלהם. הוא מקדם שקיפות, שיתוף פעולה וחדשנות על ידי אפשרות לפיתוח עצמאי ולבדיקת אלגוריתמים.

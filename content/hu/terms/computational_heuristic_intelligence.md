@@ -1,23 +1,24 @@
 ---
-title: "Számítási heurisztikus intelligencia"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Számítási heurisztikus intelligencia
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /hu/terms/computational_heuristic_intelligence/
-date: "2026-07-18T15:50:43.787125Z"
-lastmod: "2026-07-18T17:15:09.763946Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T15:50:43.787125Z'
+lastmod: '2026-07-18T17:15:09.763946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az AI megközelítések, amelyek gyakorlati, tapasztalati alapú technikákat használnak a problémák hatékony megoldására, amikor a pontos módszerek túl lassúak."
+source: agnes_llm
+status: published
+language: hu
+description: Az AI megközelítések, amelyek gyakorlati, tapasztalati alapú technikákat
+  használnak a problémák hatékony megoldására, amikor a pontos módszerek túl lassúak.
 ---
-
 ## Definition
 
 A számítási heurisztikus intelligencia olyan algoritmusokat foglal magában, amelyek becsült szabályokat, közelítéseket vagy megfontolt sejtéseket alkalmaznak kielégítő megoldások megtalálására észszerű időkereten belül. Ellentétben a kimerítő kereséssel...

@@ -1,23 +1,24 @@
 ---
-title: "คำสาปแห่งมิติ (Curse of dimensionality)"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: คำสาปแห่งมิติ (Curse of dimensionality)
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /th/terms/curse_of_dimensionality/
-date: "2026-07-18T15:47:18.454457Z"
-lastmod: "2026-07-18T16:38:07.591085Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:47:18.454457Z'
+lastmod: '2026-07-18T16:38:07.591085Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ปรากฏการณ์ที่ปริมาตรของพื้นที่เพิ่มขึ้นแบบเอกซ์โพเนนเชียลตามจำนวนมิติ ทำให้ข้อมูลมีความเบาบางลง และเมตริกวัดระยะทางสูญเสียประสิทธิภาพในการแยกแยะ"
+source: agnes_llm
+status: published
+language: th
+description: ปรากฏการณ์ที่ปริมาตรของพื้นที่เพิ่มขึ้นแบบเอกซ์โพเนนเชียลตามจำนวนมิติ
+  ทำให้ข้อมูลมีความเบาบางลง และเมตริกวัดระยะทางสูญเสียประสิทธิภาพในการแยกแยะ
 ---
-
 ## Definition
 
 คำสาปแห่งมิติหมายถึงปรากฏการณ์ต่างๆ ที่เกิดขึ้นเมื่อวิเคราะห์ข้อมูลในพื้นที่ที่มีมิติสูง ซึ่งไม่เกิดขึ้นในการตั้งค่าที่มีมิติต่ำ เมื่อจำนวนคุณลักษณะ (features) เพิ่มขึ้น ปริมาตรของพื้นที่ค้นหาจะขยายตัวแบบเอกซ์โพเนนเชียล ส่งผลให้ข้อมูลกระจายตัวห่างกันมาก (sparsity) ทำให้การวัดระยะทางระหว่างจุดข้อมูลมีความหมายน้อยลง และเพิ่มความต้องการทรัพยากรในการคำนวณและการเก็บข้อมูลอย่างมาก

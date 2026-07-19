@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /sv/terms/intrinsic_motivation/
 date: "2026-07-18T16:05:02.696554Z"
 lastmod: "2026-07-18T17:15:09.016636Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett begrepp inom förstärkningsinlärning där agenter strävar efter mål baserat på intern nyfikenhet eller kunskapsinhämtning snarare än externa belöningar."
 ---
-
 ## Definition
 
 Inom förstärkningsinlärning driver intrinsisk motivation en agent att utforska sin omgivning genom att söka efter nya upplevelser, minska osäkerhet eller bemästra färdigheter, oberoende av externa uppgiftsbelöningar. Denna me

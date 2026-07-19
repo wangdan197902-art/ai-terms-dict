@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /cs/terms/throughput/
 date: "2026-07-18T16:20:36.116221Z"
 lastmod: "2026-07-18T17:15:09.207632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Průchodnost měří množství dat nebo požadavků, které může systém AI úspěšně zpracovat v daném časovém úseku."
 ---
-
 ## Definition
 
 V inženýrství AI je průchodnost kritickým metrikem výkonu indikujícím kapacitu systému. Často se měří v tokenech za sekundu pro velké jazykové modely (LLM), snímcích za sekundu pro modely počítačového vidění nebo dotazech...

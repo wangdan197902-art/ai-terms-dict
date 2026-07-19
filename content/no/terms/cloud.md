@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /no/terms/cloud/
 date: "2026-07-18T15:25:06.403486Z"
 lastmod: "2026-07-18T16:38:06.933600Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Skyen refererer til eksterne servere hostet på internett som brukes til å lagre, administrere og behandle data og AI-modeller i stedet for lokal maskinvare."
 ---
-
 ## Definition
 
 Skykomputasjon gir skalerbar infrastruktur for AI-arbeidsbelastninger, og lar utviklere få tilgang til kraftige GPU-er og lagringskapasitet uten å vedlikeholde fysiske datasentre. Det støtter ulike tjenestemodeller som IaaS, PaaS og SaaS, noe som muliggjør fleksibel ressursbruk.

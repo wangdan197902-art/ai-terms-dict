@@ -1,23 +1,24 @@
 ---
-title: "Astronomie bazată pe date"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Astronomie bazată pe date
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /ro/terms/data_driven_astronomy/
-date: "2026-07-18T15:51:48.416276Z"
-lastmod: "2026-07-18T17:15:09.642370Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:51:48.416276Z'
+lastmod: '2026-07-18T17:15:09.642370Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Aplicarea analizelor de date la scară largă și a tehnicilor de învățare automată pentru a extrage informații din observațiile astronomice."
+source: agnes_llm
+status: published
+language: ro
+description: Aplicarea analizelor de date la scară largă și a tehnicilor de învățare
+  automată pentru a extrage informații din observațiile astronomice.
 ---
-
 ## Definition
 
 Astronomia bazată pe date exploatează metode computaționale avansate, inclusiv învățarea automată și analiza statistică, pentru a gestiona volumele masive de date generate de telescoapele moderne și sondele spațiale. Această disciplină permite astronomilor să identifice obiecte rare, să detecteze evenimente tranzitorii și să modeleze structuri cosmologice complexe care ar fi imposibil de analizat manual.

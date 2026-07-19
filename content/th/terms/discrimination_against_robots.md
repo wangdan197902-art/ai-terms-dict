@@ -1,23 +1,25 @@
 ---
-title: "การเลือกปฏิบัติต่อหุ่นยนต์ (Discrimination against robots)"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: การเลือกปฏิบัติต่อหุ่นยนต์ (Discrimination against robots)
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /th/terms/discrimination_against_robots/
-date: "2026-07-18T15:50:59.204830Z"
-lastmod: "2026-07-18T16:38:07.600320Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:50:59.204830Z'
+lastmod: '2026-07-18T16:38:07.600320Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวคิดทางจริยธรรมและกฎหมายที่หมายถึงการรักษาอย่างเป็นอคติหรือการลำเอียงที่มีต่อตัวแทนเทียมหรือระบบอัตโนมัติ ซึ่งมักเกิดขึ้นจากการฉายภาพความเป็นมนุษย์หรือความไม่ไว้วางใจในฟังก์ชันการทำงาน"
+source: agnes_llm
+status: published
+language: th
+description: แนวคิดทางจริยธรรมและกฎหมายที่หมายถึงการรักษาอย่างเป็นอคติหรือการลำเอียงที่มีต่อตัวแทนเทียมหรือระบบอัตโนมัติ
+  ซึ่งมักเกิดขึ้นจากการฉายภาพความเป็นมนุษย์หรือความไม่ไว้วางใจในฟังก์ชันการทำงาน
 ---
-
 ## Definition
 
 การเลือกปฏิบัติต่อหุ่นยนต์เป็นแนวคิดทางจริยธรรมและสังคมวิทยาที่กำลังเกิดขึ้น ซึ่งตรวจสอบว่ามนุษย์อาจปฏิบัติต่อตัวแทนเทียมอย่างไม่เป็นธรรม ไม่ไว้วางใจ หรือมอบลักษณะเชิงลบให้กับตัวแทนเทียมเหล่านั้นโดยอาศัย

@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /fi/terms/robots/
 date: "2026-07-18T15:30:43.071351Z"
 lastmod: "2026-07-18T17:15:09.358513Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monikko, joka viittaa useisiin ohjelmoitaviin koneisiin, jotka on suunniteltu suorittamaan tehtäviä autonomisesti."
 ---
-
 ## Definition
 
 Robotit käsittävät monipuolisen luokan koneita, jotka voidaan luokitella niiden liikkuvuuden, rakenteen tai sovellusalueen mukaan. Tämä kategoria sisältää teolliset manipulaattorit, autonomiset mobiilirobotit (AMR) ja dronet.

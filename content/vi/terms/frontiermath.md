@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /vi/terms/frontiermath/
-date: "2026-07-18T15:54:10.858484Z"
-lastmod: "2026-07-18T16:38:07.759027Z"
+slug: frontiermath
+date: '2026-07-18T15:54:10.858484Z'
+lastmod: '2026-07-18T16:38:07.759027Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một bộ dữ liệu chuẩn đánh giá được thiết kế để kiểm tra khả năng suy luận toán học nâng cao của các mô hình AI tiên tiến nhất hiện nay."
+source: agnes_llm
+status: published
+language: vi
+description: Một bộ dữ liệu chuẩn đánh giá được thiết kế để kiểm tra khả năng suy
+  luận toán học nâng cao của các mô hình AI tiên tiến nhất hiện nay.
 ---
-
 ## Definition
 
 FrontierMath là một bộ công cụ đánh giá chuyên biệt được tạo ra để thử nghiệm giới hạn của các mô hình ngôn ngữ lớn (LLM) trong việc giải quyết các vấn đề toán học phức tạp. Khác với các bộ chuẩn số học thông thường, nó tập trung vào các bài toán đòi hỏi điểm số cao và tư duy logic sâu sắc.

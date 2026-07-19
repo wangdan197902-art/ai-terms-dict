@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /fi/terms/ai_safety/
 date: "2026-07-18T15:22:09.621543Z"
 lastmod: "2026-07-18T17:15:09.343122Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tutkimusalue, joka keskittyy estämään edistyneiden tekoälyjärjestelmien aiheuttamattomia haitallisia seurauksia."
 ---
-
 ## Definition
 
 Tekoälyn turvallisuus käsittää tutkimusta ja käytäntöjä, joiden tavoitteena on varmistaa, että autonomiset järjestelmät käyttäytyvät tavalla, joka on hyödyllistä ja vahinkoa aiheuttamatonta ihmisille. Se käsittelee riskejä, kuten harhaa, väärää tietoa ja turvallisuusongelmia.

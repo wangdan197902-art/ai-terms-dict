@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /pt/terms/llama31/
 date: "2026-07-18T15:08:48.121466Z"
 lastmod: "2026-07-18T15:51:59.508445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Llama 3.1 é a atualização da Meta de agosto de 2024, apresentando modelos com 8B, 70B e 405B parâmetros, uma janela de contexto estendida de 128k e capacidades nativas de uso de ferramentas."
 ---
-
 ## Definition
 
 Lançada em agosto de 2024, a Llama 3.1 expande a família Llama para incluir um massivo modelo de 405 bilhões de parâmetros, além das variantes menores de 8B e 70B. Um recurso destacado é a janela de contexto estendida de

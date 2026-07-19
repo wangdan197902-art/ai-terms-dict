@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /hu/terms/self_attention/
 date: "2026-07-18T15:31:21.225845Z"
 lastmod: "2026-07-18T17:15:09.730307Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mechanizmus, amely lehetővé teszi egy neurális hálózat számára, hogy súlyozza a bemeneti szekvencia különböző részeinek fontosságát egymáshoz képest."
 ---
-
 ## Definition
 
 Az önfigyelem lehetővé teszi a modellek számára, hogy minden pozíció közötti függőségeket egyszerre rögzítsék, függetlenül a távolságtól. A tokenek közötti figyelmet számítva lehetővé teszi...

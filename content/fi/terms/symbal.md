@@ -1,23 +1,23 @@
 ---
-title: "Symbal"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: Symbal
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /fi/terms/symbal/
-date: "2026-07-18T15:31:40.344103Z"
-lastmod: "2026-07-18T17:15:09.360527Z"
+slug: symbal
+date: '2026-07-18T15:31:40.344103Z'
+lastmod: '2026-07-18T17:15:09.360527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Symbal ei ole tekoälyssä tai tietojenkäsittelytieteessä vakiintunut ja tunnustettu termi."
+source: agnes_llm
+status: published
+language: fi
+description: Symbal ei ole tekoälyssä tai tietojenkäsittelytieteessä vakiintunut ja
+  tunnustettu termi.
 ---
-
 ## Definition
 
 Tekoälyterminologiassa termille 'Symbal' ei ole olemassa vakiintunutta määritelmää. Se voi olla kirjoitusvirhe sanalle 'Symbolic' (symbolinen), joka viittaa symboliseen tekoälyyn, tai se voi olla epästandardi uussana. Tiukan teknisen kontekstin ulkopuolella...

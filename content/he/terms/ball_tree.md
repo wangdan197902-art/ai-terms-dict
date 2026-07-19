@@ -1,23 +1,24 @@
 ---
-title: "עץ כדורי"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: עץ כדורי
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /he/terms/ball_tree/
-date: "2026-07-18T15:45:52.895219Z"
-lastmod: "2026-07-18T17:15:09.515843Z"
+slug: ball_tree
+date: '2026-07-18T15:45:52.895219Z'
+lastmod: '2026-07-18T17:15:09.515843Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מבנה נתונים של עץ בינארי המשמש לארגון נקודות במרחב, ומאפשר אופטימיזציה לחיפושי שכנים קרובים בקבוצות נתונים רב-ממדיות."
+source: agnes_llm
+status: published
+language: he
+description: מבנה נתונים של עץ בינארי המשמש לארגון נקודות במרחב, ומאפשר אופטימיזציה
+  לחיפושי שכנים קרובים בקבוצות נתונים רב-ממדיות.
 ---
-
 ## Definition
 
 עץ כדורי מחלק נקודות נתונים לכדורים היפר-ספריים (hyperspheres) מקוננים, במקום לתיבות היפר-מרובעות. מבנה זה מאפשר גיזום יעיל במהלך שאילתות שכנים קרובים על ידי חישוב מרחקים בין כדורים.

@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /pl/terms/sample_complexity/
 date: "2026-07-18T16:15:48.387797Z"
 lastmod: "2026-07-18T17:15:08.915648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Złożoność próbki odnosi się do liczby przykładów treningowych wymaganych dla algorytmu uczenia maszynowego, aby osiągnąć określony poziom wydajności z wysokim prawdopodobieństwem."
 ---
-
 ## Definition
 
 W teorii uczenia obliczeniowego złożoność próbki kwantyfikuje ilość danych niezbędnych do skutecznego trenowania modelu. Bilansuje ona kompromis między pojemnością modelu a dostępnością danych, zapewniając...

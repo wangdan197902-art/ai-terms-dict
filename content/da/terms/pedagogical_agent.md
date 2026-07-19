@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /da/terms/pedagogical_agent/
 date: "2026-07-18T16:11:20.899305Z"
 lastmod: "2026-07-18T17:15:09.320130Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En kunstig intelligens-entitet designet til at facilitere læring ved at give undervisning, feedback og vejledning."
 ---
-
 ## Definition
 
 En pædagogisk agent er en softwarekomponent, ofte inkarneret som en virtuel karakter, der fungerer som lærer eller tutor i uddannelsesmiljøer. Disse agenter bruger naturlig sprogbehandling og

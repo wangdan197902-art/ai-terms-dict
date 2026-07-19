@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /pl/terms/sentence_similarity/
 date: "2026-07-18T16:16:02.869224Z"
 lastmod: "2026-07-18T17:15:08.916477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Metryka lub zadanie ilościowo określające, jak bardzo semantycznie podobne są dwa zdania, często wyrażone jako liczbowy wynik."
 ---
-
 ## Definition
 
 Podobieństwo zdań mierzy stopień nakładania się znaczenia semantycznego między dwoma różnymi zdaniami. Wykracza poza dopasowanie leksykalne, aby zrozumieć znaczenie, kontekst i intencję. Osiągane jest to zazwyczaj poprzez porównanie wektorowych reprezentacji zdań.

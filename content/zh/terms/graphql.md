@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /zh/terms/graphql/
 date: "2026-07-18T11:19:45.206422Z"
 lastmod: "2026-07-18T11:44:45.511279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "GraphQL 是一种用于 API 的查询语言，以及根据现有数据满足这些查询的运行时，允许客户端请求它们确切需要的内容。"
 ---
-
 ## Definition
 
 由 Facebook 开发，GraphQL 提供了对 API 中数据的完整且易于理解的描述，赋予客户端只请求所需数据的能力。它取代了传统的 REST API 模式，减少了过度获取或获取不足的问题。

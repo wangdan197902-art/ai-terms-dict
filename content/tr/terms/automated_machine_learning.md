@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /tr/terms/automated_machine_learning/
 date: "2026-07-18T15:42:38.647770Z"
 lastmod: "2026-07-18T16:38:07.276382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenimini gerçek dünya problemlerine uygulama sürecinin uçtan uca otomasyonunu sağlayan ve manuel çabayı azaltan bir metodoloji."
 ---
-
 ## Definition
 
 AutoML (Otomatik Makine Öğrenimi), veri ön işleme, özellik mühendisliği, model seçimi ve hiperparametre ayarlama gibi görevleri otomatikleştirerek makine öğrenimi modellerinin geliştirilmesini hızlandırır. Bu yaklaşım, teknik uzmanlığı olmayan kullanıcıların da makine öğrenimi modelleri oluşturabilmesini sağlar.

@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /pt/terms/vision_language/
 date: "2026-07-18T14:47:30.859944Z"
 lastmod: "2026-07-18T15:51:59.456736Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Modelos de Visão e Linguagem são sistemas de IA que processam e correlacionam dados visuais com informações textuais para compreender contextos multimodais."
 ---
-
 ## Definition
 
 Os modelos de Visão e Linguagem, frequentemente referidos como Modelos de Linguagem Grande Multimodais (MLLMs), integram visão computacional e processamento de linguagem natural. Eles permitem que a IA compreenda imagens e gere texto

@@ -1,23 +1,24 @@
 ---
-title: "Avaruudellinen upotus"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Avaruudellinen upotus
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /fi/terms/spatial_embedding/
-date: "2026-07-18T16:21:58.175922Z"
-lastmod: "2026-07-18T17:15:09.462408Z"
+slug: spatial_embedding
+date: '2026-07-18T16:21:58.175922Z'
+lastmod: '2026-07-18T17:15:09.462408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka kartoittaa objektien tai sijaintien väliset avaruudelliset suhteet vektoriesityksiksi koneoppimismalleja varten."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka kartoittaa objektien tai sijaintien väliset avaruudelliset
+  suhteet vektoriesityksiksi koneoppimismalleja varten.
 ---
-
 ## Definition
 
 Avaruudellinen upotus tarkoittaa fyysisten tai abstraktien avaruudellisten suhteiden muuntamista tiheiksi vektoriavaruuksiksi, mikä mahdollistaa algoritmien ymmärtävän läheisyyden, suunnan ja topologian. Tämä tekniikka on olennainen erityisesti robotiikassa ja paikannuksessa.

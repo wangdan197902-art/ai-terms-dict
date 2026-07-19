@@ -1,23 +1,24 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /ko/terms/comfyui/
-date: "2026-07-18T15:45:30.077748Z"
-lastmod: "2026-07-18T16:38:06.818029Z"
+slug: comfyui
+date: '2026-07-18T15:45:30.077748Z'
+lastmod: '2026-07-18T16:38:06.818029Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "복잡한 워크플로우 구축과 이미지 생성에 대한 세밀한 제어를 가능하게 하는 Stable Diffusion용 노드 기반 그래픽 사용자 인터페이스입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 복잡한 워크플로우 구축과 이미지 생성에 대한 세밀한 제어를 가능하게 하는 Stable Diffusion용 노드 기반 그래픽
+  사용자 인터페이스입니다.
 ---
-
 ## Definition
 
 ComfyUI는 Stable Diffusion 모델을 위한 강력하고 모듈식이며 노드 기반의 GUI입니다. 선형적인 워크플로우를 제공하는 기존 인터페이스와 달리 ComfyUI는 사용자가 연결하여 

@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /fr/terms/english/
 date: "2026-07-18T10:49:56.619068Z"
 lastmod: "2026-07-18T11:44:45.161878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'anglais est une langue naturelle qui sert de jeu de données de référence dominant et de sortie cible pour de nombreux modèles de traitement du langage naturel (NLP)."
 ---
-
 ## Definition
 
 Bien qu'il s'agisse principalement d'une langue humaine, dans le contexte de l'IA, l'« anglais » représente le domaine linguistique le plus répandu pour la recherche en NLP en raison de l'abondance de données textuelles numériques. La plupart des modèles fondamentaux (comme les B

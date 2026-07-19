@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /no/terms/security/
 date: "2026-07-18T15:30:06.305259Z"
 lastmod: "2026-07-18T16:38:06.946390Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Praksisen med å beskytte AI-systemer mot uautorisert tilgang, misbruk og ondsinnede angrep."
 ---
-
 ## Definition
 
 AI-sikkerhet omfatter tiltak designet for å verne maskinlæringsmodeller, datapipelines og distribusjonsinfrastruktur mot trusler som fiendtlige angrep, datagiftigelse og modellinvasjon.

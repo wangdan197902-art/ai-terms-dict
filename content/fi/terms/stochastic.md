@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /fi/terms/stochastic/
 date: "2026-07-18T15:31:25.815254Z"
 lastmod: "2026-07-18T17:15:09.360182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuvailee prosesseja tai malleja, jotka sisältävät satunnaisuutta ja todennäköisyyttä determinististen tulosten sijaan."
 ---
-
 ## Definition
 
 Stokastiset elementit tuovat vaihtelua tekoäljärjestelmiin, kuten datakohinaa tai painojen satunnaista alustusta. Toisin kuin deterministiset mallit, stokastiset mallit ottavat huomioon epävarmuuden, mikä tekee niistä...

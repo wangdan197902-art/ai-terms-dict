@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /cs/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:42:16.137511Z"
 lastmod: "2026-07-18T17:15:09.102449Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Soutěžní dynamika, při které národy nebo organizace rychle rozvíjejí schopnosti AI, aby získaly strategickou převahu."
 ---
-
 ## Definition
 
 Zbrojní závod v AI označuje intenzivní soutěž mezi zeměmi, korporacemi a výzkumnými institucemi o dosažení dominance v technologiích umělé inteligence. Tato rivalita pohání rychlý technologický pokrok.

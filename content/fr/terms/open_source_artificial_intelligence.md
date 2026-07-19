@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /fr/terms/open_source_artificial_intelligence/
 date: "2026-07-18T11:31:58.210083Z"
 lastmod: "2026-07-18T11:44:45.306808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'IA open source fait référence aux logiciels, modèles et outils d'intelligence artificielle dont le code source est publiquement disponible pour inspection, modification et distribution."
 ---
-
 ## Definition
 
 Ce concept englobe l'écosystème des technologies de l'IA publiées sous des licences permettant un accès gratuit au code sous-jacent. Il favorise la transparence, la collaboration et l'innovation en permettant aux

@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /hu/terms/compute/
 date: "2026-07-18T15:51:00.132887Z"
 lastmod: "2026-07-18T17:15:09.764278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A számítás azokat a feldolgozási teljesítményt és erőforrásokat jelöli, amelyeket az AI-rendszerekben az algoritmusok végrehajtásához és az adatok kezeléséhez használnak."
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a számítás a modellek betanításához és az inferencia (következtetés) futtatásához szükséges alapvető infrastruktúrát jelenti. Magában foglalja a CPU-kat, GPU-kat és TPU-kat tartalmazó hardverkomponenseket, valamint a szoftveres keretrendszereket és a felhőalapú szolgáltatásokat, amelyek lehetővé teszik a nagy mennyiségű adat gyors feldolgozását.

@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /th/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:42:31.342193Z"
 lastmod: "2026-07-18T16:38:07.574441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การถกเถียงและข้อพิพาทสาธารณะเกี่ยวกับผลกระทบทางจริยธรรม สังคม และเทคนิคของการพัฒนาและใช้งาน AI"
 ---
-
 ## Definition
 
 ข้อโต้แย้งเรื่อง AI ครอบคลุมข้อพิพาททางจริยธรรม กฎหมาย และสังคมที่หลากหลายที่เกิดขึ้นจากเทคโนโลยีปัญญาประดิษฐ์ ปัญหาหลัก ได้แก่ อคติในอัลกอริทึม การละเมิดความเป็นส่วนตัว การแทนที่ตำแหน่งงาน และคำถามเรื่องความรับผิดชอบเมื่อเกิดข้อผิดพลาด

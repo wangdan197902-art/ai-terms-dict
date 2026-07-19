@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /vi/terms/building/
 date: "2026-07-18T15:23:44.715960Z"
 lastmod: "2026-07-18T16:38:07.681134Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Giai đoạn thực tiễn của việc phát triển, huấn luyện và triển khai các mô hình và hệ thống AI từ thiết kế ban đầu đến khi sẵn sàng đưa vào sản xuất."
 ---
-
 ## Definition
 
 Xây dựng đề cập đến quy trình kỹ thuật toàn diện để tạo ra các giải pháp AI, bao gồm thu thập dữ liệu, lựa chọn mô hình, huấn luyện, xác thực và triển khai. Nó bao gồm cơ sở hạ tầng kỹ thuật cần thiết để hỗ trợ vòng đời của mô hình.

@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /pl/terms/nouvelle_ai/
 date: "2026-07-18T16:09:29.185509Z"
 lastmod: "2026-07-18T17:15:08.902339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Symboliczne podejście do sztucznej inteligencji kładące nacisk na hierarchiczne, modułowe struktury wnioskowania inspirowane architekturą poznawczą człowieka."
 ---
-
 ## Definition
 
 Nouvelle AI odnosi się do klasy systemów sztucznej inteligencji wykorzystujących reprezentacje symboliczne w połączeniu z przetwarzaniem hierarchicznym. W przeciwieństwie do modeli łącznościowych (połączeniowych), koncentruje się na ustrukturyzowanym wnioskowaniu i modularności, imitując sposób działania ludzkiego umysłu w rozwiązywaniu złożonych problemów.

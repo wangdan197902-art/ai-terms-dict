@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /ko/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:07:27.450559Z"
 lastmod: "2026-07-18T16:38:06.888907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능과 위성 데이터를 활용하여 전 세계 대기 질 패턴을 모니터링하고 예측하는 이니셔티브입니다."
 ---
-
 ## Definition
 
 이 프로젝트는 NASA의 지구 관측 데이터와 고급 AI 알고리즘을 결합하여 전 세계적으로 미세먼지 및 기체 오염 물질을 추적합니다. 위성 이미지와 지상 관측 데이터를 통합하여...

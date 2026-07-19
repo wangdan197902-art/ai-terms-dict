@@ -1,23 +1,24 @@
 ---
-title: "Característica aleatoria"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Característica aleatoria
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /es/terms/random_feature/
-date: "2026-07-18T11:06:12.130097Z"
-lastmod: "2026-07-18T11:44:44.849161Z"
+slug: random_feature
+date: '2026-07-18T11:06:12.130097Z'
+lastmod: '2026-07-18T11:44:44.849161Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica que mapea datos de entrada a un espacio de mayor dimensión utilizando proyecciones aleatorias para aproximar métodos de núcleo de manera eficiente."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica que mapea datos de entrada a un espacio de mayor dimensión
+  utilizando proyecciones aleatorias para aproximar métodos de núcleo de manera eficiente.
 ---
-
 ## Definition
 
 Los mapas de características aleatorias transforman las entradas en un nuevo espacio donde los modelos lineales pueden aproximar funciones de núcleo no lineales. Este enfoque, a menudo asociado con el método de Nyström o las características de Fourier, permite escalar el cálculo de núcleos.

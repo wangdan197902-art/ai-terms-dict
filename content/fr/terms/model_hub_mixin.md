@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /fr/terms/model_hub_mixin/
 date: "2026-07-18T11:30:11.515550Z"
 lastmod: "2026-07-18T11:44:45.295641Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un Mixin du Hub de modèles est un composant de classe réutilisable qui ajoute des fonctionnalités standardisées aux modèles Hugging Face Transformers."
 ---
-
 ## Definition
 
 Les mixins fournissent des méthodes courantes telles que la sauvegarde, le chargement et le poussée de modèles vers le Hub Hugging Face, sans qu'il soit nécessaire que chaque architecture de modèle implémente ces utilitaires individuellement. Ils assurent une cohérence

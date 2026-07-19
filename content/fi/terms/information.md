@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /fi/terms/information/
 date: "2026-07-18T15:28:10.220179Z"
 lastmod: "2026-07-18T17:15:09.352698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tieto viittaa käsiteltyyn dataan, joka välittää merkitystä, vähentää epävarmuutta tai tarjoaa kontekstin vastaanottajalle."
 ---
-
 ## Definition
 
 Tekoälyn ja tietojenkäsittelytieteen kontekstissa tieto eroaa raakadatasta. Se edustaa dataa, joka on järjestetty, rakennettu tai tulkittu saavuttaakseen merkityksellisyyden ja hyödyn. Tiedon

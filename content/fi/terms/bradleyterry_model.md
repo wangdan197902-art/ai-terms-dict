@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /fi/terms/bradleyterry_model/
 date: "2026-07-18T15:46:09.194930Z"
 lastmod: "2026-07-18T17:15:09.389471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tilastollinen malli, jota käytetään parivertailudatan analysointiin arvioidessa todennäköisyyttä, että yksi esine on toista miellyttävämpi."
 ---
-
 ## Definition
 
 Bradley-Terry-malli on todennäköisyysmalli, jota käytetään laajasti psykometriikassa ja koneoppimisessa parivertailujen käsittelyyn. Se määrittää jokaiselle esineelle piilevan pistemäärän ja laskee todennäköisyyden...

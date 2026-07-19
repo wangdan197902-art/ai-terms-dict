@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /vi/terms/ai_washing/
 date: "2026-07-18T15:38:45.431638Z"
 lastmod: "2026-07-18T16:38:07.722642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thực hành phóng đại hoặc tuyên bố sai lệch rằng sản phẩm hoặc dịch vụ sử dụng trí tuệ nhân tạo nhằm mục đích tiếp thị."
 ---
-
 ## Definition
 
 Tẩy trắng AI là một thuật ngữ tương tự như tẩy xanh (greenwashing), mô tả chiến lược tiếp thị lừa dối khi các công ty tuyên bố sản phẩm của họ tích hợp AI tiên tiến, trong khi thực tế chúng chỉ dựa trên các hệ thống quy tắc đơn giản.

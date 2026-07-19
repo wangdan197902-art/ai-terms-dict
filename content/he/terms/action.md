@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /he/terms/action/
 date: "2026-07-18T15:23:14.890144Z"
 lastmod: "2026-07-18T17:15:09.472127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך שבו סוכן מבצע פעולה כדי להשפיע על הסביבה שלו."
 ---
-
 ## Definition
 
 בבינה מלאכותית וברובוטיקה, פעולה מתייחסת לצעד או החלטה ספציפית שננקטת על ידי סוכן חכם כדי ליצור אינטראקציה עם הסביבה שלו. הפעולות נבחרות בהתבסס על המצב הנוכחי

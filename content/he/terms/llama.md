@@ -1,23 +1,24 @@
 ---
-title: "LLaMA"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: LLaMA
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /he/terms/llama/
-date: "2026-07-18T16:10:10.699425Z"
-lastmod: "2026-07-18T17:15:09.558989Z"
+slug: llama
+date: '2026-07-18T16:10:10.699425Z'
+lastmod: '2026-07-18T17:15:09.558989Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משפחה של מודלי שפה גדולים שפותחו על ידי Meta AI, המוכרת בזכות משקלים פתוחים וביצועים חזקים."
+source: agnes_llm
+status: published
+language: he
+description: משפחה של מודלי שפה גדולים שפותחו על ידי Meta AI, המוכרת בזכות משקלים
+  פתוחים וביצועים חזקים.
 ---
-
 ## Definition
 
 LLaMA (Large Language Model Meta AI) היא סדרה של מודלי שפה בסיסיים ששוחררו על ידי Meta. בניגוד למודלים רבים סגורים, מודלי LLaMA משוחררים לעיתים קרובות עם משקלים פתוחים, מה שמאפשר למפתחים לחקור, להתאים ולהטמיע אותם בצורה עצמאית.

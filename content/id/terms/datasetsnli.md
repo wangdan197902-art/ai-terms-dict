@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /id/terms/datasetsnli/
 date: "2026-07-18T15:46:34.921597Z"
 lastmod: "2026-07-18T16:38:07.447062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Korpus Inferensi Bahasa Alami Stanford, sebuah dataset besar berisi kalimat-kalimat bahasa Inggris yang dipasangkan dengan label inkonsistensi teks yang ditulis oleh manusia."
 ---
-
 ## Definition
 
 SNLI adalah dataset benchmark yang berisi lebih dari 500.000 pasangan kalimat berlabel yang dianotasi dengan tiga kelas: inkonsistensi (entailment), kontradiksi, dan netral. Dataset ini dibuat untuk memajukan penelitian dalam...

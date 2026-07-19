@@ -1,23 +1,23 @@
 ---
-title: "การตีความแบบเบย์เซียนของการปรับให้เรียบด้วยเคอร์เนล"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: การตีความแบบเบย์เซียนของการปรับให้เรียบด้วยเคอร์เนล
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /th/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:44:02.178236Z"
-lastmod: "2026-07-18T16:38:07.578799Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:44:02.178236Z'
+lastmod: '2026-07-18T16:38:07.578799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กรอบทฤษฎีที่เชื่อมโยงวิธีการเคอร์เนล เช่น SVM กับกระบวนการเกาส์เซียนภายใต้สมมติฐานก่อนหน้าแบบเบย์เซียน"
+source: agnes_llm
+status: published
+language: th
+description: กรอบทฤษฎีที่เชื่อมโยงวิธีการเคอร์เนล เช่น SVM กับกระบวนการเกาส์เซียนภายใต้สมมติฐานก่อนหน้าแบบเบย์เซียน
 ---
-
 ## Definition
 
 แนวคิดนี้แสดงให้เห็นว่าการลดฟังก์ชันความเสี่ยงที่มีการปรับให้เรียบด้วยเคอร์เนลเฉพาะนั้นเทียบเท่ากับการหาค่าประมาณแบบสูงสุดภายหลัง (MAP) ในกรอบการทำงานแบบเบย์เซียน โดยเฉพาะอย่างยิ่ง มัน

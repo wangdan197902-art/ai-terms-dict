@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /it/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:56:31.012826Z"
 lastmod: "2026-07-18T17:15:08.618995Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una pipeline specializzata nella libreria Diffusers progettata per i modelli Flux, che consente la generazione di immagini consapevole del contesto con una coerenza temporale o spaziale migliorata."
 ---
-
 ## Definition
 
 Questa pipeline sfrutta l'architettura Flux, nota per la sua sintesi di immagini di alta qualità, all'interno del framework Diffusers. Supporta meccanismi di contesto che permettono al modello di considerare gli elementi circ...

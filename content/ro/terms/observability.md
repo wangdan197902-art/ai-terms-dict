@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /ro/terms/observability/
 date: "2026-07-18T16:14:23.107700Z"
 lastmod: "2026-07-18T17:15:09.687832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Observabilitatea este măsura în care stările interne ale unui sistem pot fi inferate din ieșirile externe, cum ar fi jurnalele (logs), metricile și trace-urile."
 ---
-
 ## Definition
 
 În ingineria de AI, observabilitatea se referă la capacitatea de a înțelege starea internă a sistemelor complexe de învățare automată prin analizarea ieșirilor lor externe. Aceasta depășește monitorizarea tradițională, oferind o vizibilitate profundă asupra comportamentului sistemului.

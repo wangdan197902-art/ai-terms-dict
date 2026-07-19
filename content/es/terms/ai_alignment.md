@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /es/terms/ai_alignment/
 date: "2026-07-18T10:33:12.906863Z"
 lastmod: "2026-07-18T11:44:44.769648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El campo de estudio centrado en garantizar que los sistemas de IA se comporten de acuerdo con los valores e intenciones humanas."
 ---
-
 ## Definition
 
 La alineación de IA aborda el desafío de hacer que los sistemas de inteligencia artificial actúen de manera robusta según lo que sus usuarios intentan, en lugar de lo que especifican literalmente. Implica métodos técnicos para asegurar que el comportamiento del sistema sea beneficioso y seguro.

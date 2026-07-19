@@ -1,23 +1,25 @@
 ---
-title: "Ingénierie des Fonctionnalités"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: Ingénierie des Fonctionnalités
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /fr/terms/feature_engineering/
-date: "2026-07-18T11:16:51.135240Z"
-lastmod: "2026-07-18T11:44:45.250373Z"
+slug: feature_engineering
+date: '2026-07-18T11:16:51.135240Z'
+lastmod: '2026-07-18T11:44:45.250373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La pratique consistant à utiliser la connaissance du domaine pour créer de nouvelles fonctionnalités ou modifier celles existantes afin d'améliorer les performances des modèles d'apprentissage automat"
+source: agnes_llm
+status: published
+language: fr
+description: La pratique consistant à utiliser la connaissance du domaine pour créer
+  de nouvelles fonctionnalités ou modifier celles existantes afin d'améliorer les
+  performances des modèles d'apprentissage automat
 ---
-
 ## Definition
 
 L'ingénierie des fonctionnalités est l'art d'exploiter l'expertise sectorielle pour transformer des données brutes en fonctionnalités qui représentent mieux les motifs sous-jacents aux algorithmes d'apprentissage automatique. Ce processus inclut la création de variables dérivées.

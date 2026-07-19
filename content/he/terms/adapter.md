@@ -1,23 +1,25 @@
 ---
-title: "מתאם"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: מתאם
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /he/terms/adapter/
-date: "2026-07-18T15:35:26.658087Z"
-lastmod: "2026-07-18T17:15:09.496414Z"
+slug: adapter
+date: '2026-07-18T15:35:26.658087Z'
+lastmod: '2026-07-18T17:15:09.496414Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מודול קל משקל המוכנס למודלים מאומנים מראש כדי לאפשר כיוון עדיף יעיל למשימות ספציפיות."
+source: agnes_llm
+status: published
+language: he
+description: מודול קל משקל המוכנס למודלים מאומנים מראש כדי לאפשר כיוון עדיף יעיל למשימות
+  ספציפיות.
 ---
-
 ## Definition
 
 מתאמים הם טכניקת כיוון עדיף חסכונית בפרמטרים המשמשת בעיקר במודלי שפה גדולים ובטרנספורמרים. במקום לעדכן את כל משקלי המודל, שהם יקרים מחשבית, המתאמים מ...

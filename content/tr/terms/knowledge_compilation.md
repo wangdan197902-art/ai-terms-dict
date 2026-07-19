@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /tr/terms/knowledge_compilation/
 date: "2026-07-18T15:59:24.947496Z"
 lastmod: "2026-07-18T16:38:07.324169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi derlemesi, bilgi temsillerinin daha hızlı sorgu cevaplama veya akıl yürütme için daha verimli formlara dönüştürülmesi sürecidir."
 ---
-
 ## Definition
 
 Bilgi derlemesi, bir bilgi tabanını veya mantıksal teoriyi, doyurulabilirlik (satisfiability) gibi daha hızlı işlemleri kolaylaştıran farklı bir temsile dönüştüren yapay zeka tekniklerini ifade eder.

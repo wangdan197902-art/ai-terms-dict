@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /es/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T10:42:17.504548Z"
 lastmod: "2026-07-18T11:44:44.793819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un conjunto de datos curado derivado de la Wikipedia en inglés simplificado, utilizado para entrenar y evaluar modelos de incrustación de texto."
 ---
-
 ## Definition
 
 Este conjunto de datos consiste en oraciones y párrafos extraídos de la Wikipedia en inglés simplificado, una versión de Wikipedia escrita para hablantes no nativos con gramática y vocabulario simplificados. Sirve como un recurso valioso para

@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /vi/terms/csm/
 date: "2026-07-18T15:46:37.085885Z"
 lastmod: "2026-07-18T16:38:07.741286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một từ viết tắt mơ hồ, thường đề cập đến Mô hình Ngôn ngữ Ngữ cảnh (Contextual Speech Models) hoặc Quản lý Bảo mật Đám mây (Cloud Security Management) trong các lĩnh vực kỹ thuật cụ thể, thiếu định ng"
 ---
-
 ## Definition
 
 Trong bối cảnh AI và công nghệ, 'CSM' không phải là một thuật ngữ được chuẩn hóa toàn cầu như 'CNN' hay 'RNN'. Nó phổ biến nhất là viết tắt của Contextual Speech Models trong nghiên cứu xử lý giọng nói, hoặc đôi khi là Cloud Security Manager trong bảo mật hệ thống.

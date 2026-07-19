@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /fr/terms/tokenization/
 date: "2026-07-18T10:55:44.586371Z"
 lastmod: "2026-07-18T11:44:45.174873Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La jetonnisation est le processus de division du texte brut en unités plus petites appelées jets, qui peuvent être traitées par des algorithmes d'apprentissage automatique."
 ---
-
 ## Definition
 
 La jetonnisation est une étape critique de prétraitement en Traitement Automatique du Langage Naturel (TALN) qui convertit le texte non structuré en données structurées adaptées à l'ingestion par les modèles. Elle implique la décomposition des phrases en éléments significatifs tels que des mots ou des fragments de mots.

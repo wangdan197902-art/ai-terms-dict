@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /ro/terms/benchmark/
 date: "2026-07-18T15:23:53.590014Z"
 lastmod: "2026-07-18T17:15:09.589927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un punct de referință sau o metrică standard utilizată pentru a evalua performanța modelelor de inteligență artificială în raport cu standardele stabilite."
 ---
-
 ## Definition
 
 În inteligența artificială, un benchmark este un set standardizat de teste sau un dataset conceput pentru a măsura capacitățile modelelor de învățare automată. Oferă un cadru coerent pentru compararea diferitelor abordări și pentru evaluarea obiectivă a progresului tehnologic.

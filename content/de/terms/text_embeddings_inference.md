@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /de/terms/text_embeddings_inference/
 date: "2026-07-18T11:36:21.558348Z"
 lastmod: "2026-07-18T11:44:44.992252Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein spezialisierter Inferenzserver, der entwickelt wurde, um dichte Vektordarstellungen von Texten effizient für semantische Such- und Abrufaufgaben zu generieren."
 ---
-
 ## Definition
 
 Text-Embedding-Inferenz bezeichnet die Bereitstellung und Optimierung von Modellen, die natürliche Sprache in hochdimensionale Vektoren umwandeln. Diese Embeddings erfassen die semantische Bedeutung und ermöglichen es Systemen, Texte basierend auf ihrer inhaltlichen Ähnlichkeit zu verstehen und abzurufen.

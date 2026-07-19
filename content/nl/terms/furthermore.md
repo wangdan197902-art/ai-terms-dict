@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /nl/terms/furthermore/
 date: "2026-07-18T15:26:17.575541Z"
 lastmod: "2026-07-18T17:15:08.685424Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een overgangswoord dat wordt gebruikt om aanvullende informatie in te leiden of een eerder betoog te versterken in technische teksten."
 ---
-
 ## Definition
 
 Hoewel het geen technisch algoritme is, is 'voorts' een cruciaal linguïstisch hulpmiddel in AI-documentatie en onderzoeksartikelen. Het dient om ideeën met elkaar te verbinden en geeft aan dat de volgende stelling gewicht toevoegt of

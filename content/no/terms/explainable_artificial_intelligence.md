@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /no/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:54:00.451636Z"
 lastmod: "2026-07-18T16:38:06.999304Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Forklarbar KI (XAI) refererer til metoder og teknikker i bruken av kunstig intelligens-teknologi slik at løsningens resultater kan forstås av menneskelige eksperter."
 ---
-
 ## Definition
 
 Ettersom maskinlæringsmodeller blir mer komplekse, spesielt dype nevrale nettverk, blir deres beslutningsprosesser ofte u gjennomsiktige «svarte bokser». XAI har som mål å gjøre disse beslutningene tolkbare og forståelige.

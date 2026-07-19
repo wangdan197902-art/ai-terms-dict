@@ -1,23 +1,24 @@
 ---
-title: "Quy nạp luật"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Quy nạp luật
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /vi/terms/rule_induction/
-date: "2026-07-18T16:10:43.773919Z"
-lastmod: "2026-07-18T16:38:07.802056Z"
+slug: rule_induction
+date: '2026-07-18T16:10:43.773919Z'
+lastmod: '2026-07-18T16:38:07.802056Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật học máy tự động tạo ra một tập hợp các quy tắc logic từ dữ liệu huấn luyện đã gắn nhãn để phân loại các trường hợp mới."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật học máy tự động tạo ra một tập hợp các quy tắc logic từ
+  dữ liệu huấn luyện đã gắn nhãn để phân loại các trường hợp mới.
 ---
-
 ## Definition
 
 Quy nạp luật là một phương pháp học máy biểu tượng, suy ra các quy tắc nếu-thì trực tiếp từ dữ liệu. Khác với mạng nơ-ron tạo ra các trọng số khó hiểu, quy nạp luật cung cấp các mô hình dễ giải thích

@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /es/terms/data_preprocessing/
 date: "2026-07-18T10:41:50.975170Z"
 lastmod: "2026-07-18T11:44:44.792018Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El proceso de convertir datos crudos en un formato limpio y consistente adecuado para algoritmos de aprendizaje automático."
 ---
-
 ## Definition
 
 El preprocesamiento de datos es la tarea esencial de transformar datos crudos, no estructurados o ruidosos en un formato estandarizado que los modelos de aprendizaje automático puedan consumir eficazmente. Esta etapa típicamente incluye la limpieza, normalización, codificación y escalado de características para garantizar la calidad de la entrada.

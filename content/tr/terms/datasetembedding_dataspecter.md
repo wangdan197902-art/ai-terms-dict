@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /tr/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:47:55.679802Z"
 lastmod: "2026-07-18T16:38:07.292528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgisayar Bilimleri yayınları ve atıflarına dayanan, akademik makale gömme modellerini eğitmek üzere tasarlanmış büyük ölçekli bir veri seti."
 ---
-
 ## Definition
 
 Specter veri seti, bilgisayar bilimleri makalelerinden oluşan geniş bir koleksiyondan oluşturulmuş olup, denetimli öğrenme sinyalleri yaratmak için atıf ağlarını kullanır. Özeti ile onu atıf yapan makaleleri eşleştirir:

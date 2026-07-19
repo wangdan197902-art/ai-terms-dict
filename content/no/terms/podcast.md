@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /no/terms/podcast/
 date: "2026-07-18T16:11:44.476142Z"
 lastmod: "2026-07-18T16:38:07.034184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En digital lyd- eller videofil som gjøres tilgjengelig på internett for nedlasting eller strømming."
 ---
-
 ## Definition
 
 I AI- og teknologisammenheng refererer en podkast til episodisk digital medieinnhold distribuert via RSS-strømmer, noe som lar abonnenter lytte til diskusjoner, intervjuer eller utdanningsmateriell.

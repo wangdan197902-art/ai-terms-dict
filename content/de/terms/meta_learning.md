@@ -1,23 +1,25 @@
 ---
-title: "Meta-Lernen"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: Meta-Lernen
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /de/terms/meta_learning/
-date: "2026-07-18T11:23:43.336945Z"
-lastmod: "2026-07-18T11:44:44.964440Z"
+slug: meta_learning
+date: '2026-07-18T11:23:43.336945Z'
+lastmod: '2026-07-18T11:44:44.964440Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Meta-Lernen, auch bekannt als Lernen zu lernen, ist ein maschineller Lernansatz, der es Modellen ermöglicht, sich schnell an neue Aufgaben mit minimalen Daten anzupassen, indem er auf frühere Erfahrun"
+source: agnes_llm
+status: published
+language: de
+description: Meta-Lernen, auch bekannt als Lernen zu lernen, ist ein maschineller
+  Lernansatz, der es Modellen ermöglicht, sich schnell an neue Aufgaben mit minimalen
+  Daten anzupassen, indem er auf frühere Erfahrun
 ---
-
 ## Definition
 
 Meta-Lernen konzentriert sich auf das Design von Algorithmen, die aus vorherigen Aufgaben lernen können, um die Leistung bei neuen, ungesehenen Aufgaben zu verbessern. Anstatt ein Modell für jedes Problem von Grund auf neu zu trainieren, optimiert es die Anpassungsfähigkeit des Modells.

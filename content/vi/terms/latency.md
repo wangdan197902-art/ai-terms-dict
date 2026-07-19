@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /vi/terms/latency/
 date: "2026-07-18T15:36:07.062822Z"
 lastmod: "2026-07-18T16:38:07.710262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khoảng thời gian chờ đợi giữa lúc bắt đầu một yêu cầu và lúc phản hồi bắt đầu được xử lý trong một hệ thống AI."
 ---
-
 ## Definition
 
 Độ trễ đo lường mức độ phản hồi nhanh chóng của dịch vụ AI, thường được biểu thị bằng mili giây. Nó bao gồm thời gian suy luận (inference), độ trễ truyền tải mạng và chi phí xử lý. Độ trễ thấp là yếu tố then chốt đối với các ứng dụng thời gian thực, nơi phản hồi tức thì là bắt buộc để đảm bảo trải nghiệm người dùng mượt mà và hiệu quả hoạt động.

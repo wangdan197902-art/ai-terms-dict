@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /hu/terms/datasetgooaq/
 date: "2026-07-18T15:53:44.046184Z"
 lastmod: "2026-07-18T17:15:09.770149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy nagy léptékű adathalmaz, amely Google Answers lekérdezéseket és válaszokat tartalmaz, és információkeresési valamint kérdés-válasz modellek tanítására szolgál."
 ---
-
 ## Definition
 
 A GooAQ egy a Google Answers szolgáltatásból összeállított adathalmaz, amely hatalmas mennyiségű felhasználó által beküldött kérdést és részletes, fizetős válaszokat tartalmaz. Hasznos erőforrást jelent a

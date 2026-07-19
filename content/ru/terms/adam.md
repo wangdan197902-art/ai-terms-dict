@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /ru/terms/adam/
 date: "2026-07-18T15:23:10.893647Z"
 lastmod: "2026-07-18T16:38:07.069902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Алгоритм оптимизации, вычисляющий адаптивные скорости обучения для каждого параметра."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation) — популярный алгоритм оптимизации первого порядка на основе градиента, используемый при обучении глубоких нейронных сетей. Он объединяет преимущества двух других расширений стохастического

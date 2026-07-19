@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /ja/terms/mobilenet/
 date: "2026-07-18T11:24:16.403867Z"
 lastmod: "2026-07-18T11:44:45.123101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "MobileNetは、モバイルおよび組み込みビジョンアプリケーション向けに設計された軽量なディープニューラルネットワークのファミリーです。"
 ---
-
 ## Definition
 
 MobileNetは、標準的な畳み込み演算と比較して計算コストとモデルサイズを大幅に削減するために、深さ別分離畳み込み（depthwise separable convolutions）を利用します。このアーキテクチャにより、効率的な特徴抽出が

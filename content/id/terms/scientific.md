@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /id/terms/scientific/
 date: "2026-07-18T15:29:22.821250Z"
 lastmod: "2026-07-18T16:38:07.402226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ilmiah dalam AI merujuk pada penerapan metode empiris yang ketat, pengujian hipotesis, dan reproduktibilitas dalam penelitian."
 ---
-
 ## Definition
 
 Pendekatan ilmiah dalam kecerdasan buatan menekankan pengembangan dan validasi berbasis bukti. Hal ini melibatkan perumusan hipotesis tentang perilaku model, melakukan eksperimen terkontrol, dan

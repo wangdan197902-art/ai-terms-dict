@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /no/terms/last_mile/
 date: "2026-07-18T16:02:08.005841Z"
 lastmod: "2026-07-18T16:38:07.017690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den siste fasen i levering av AI-løsninger fra utviklingsmiljøer til sluttbrukere i reelle operative miljøer."
 ---
-
 ## Definition
 
 Problemet med «det siste mil» refererer til utfordringene som oppstår ved distribusjon av modeller til produksjon, inkludert integrasjon med eksisterende infrastruktur, sikring av lav latens ved inferens, og håndtering av kant-

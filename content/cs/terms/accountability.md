@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /cs/terms/accountability/
 date: "2026-07-18T15:40:46.308189Z"
 lastmod: "2026-07-18T17:15:09.098800Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Princip, podle kterého musí vývojáři a provozovatelé systémů umělé inteligence odpovídat za výsledky a dopady těchto systémů."
 ---
-
 ## Definition
 
 Zodpovědnost v oblasti umělé inteligence se týká povinnosti jednotlivců, organizací a vývojářů převzít odpovědnost za návrh, nasazení a důsledky technologií AI.

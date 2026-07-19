@@ -1,23 +1,24 @@
 ---
-title: "Lokalny próbkowanie typu przypadek-kontrola"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lokalny próbkowanie typu przypadek-kontrola
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /pl/terms/local_case_control_sampling/
-date: "2026-07-18T16:05:07.087053Z"
-lastmod: "2026-07-18T17:15:08.893449Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:05:07.087053Z'
+lastmod: '2026-07-18T17:15:08.893449Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika próbkowania ujemnego, która wybiera trudne negatywy z bezpośredniego sąsiedztwa przykładów pozytywnych w przestrzeni osadzania."
+source: agnes_llm
+status: published
+language: pl
+description: Technika próbkowania ujemnego, która wybiera trudne negatywy z bezpośredniego
+  sąsiedztwa przykładów pozytywnych w przestrzeni osadzania.
 ---
-
 ## Definition
 
 Lokalny próbkowanie typu przypadek-kontrola to strategia stosowana głównie podczas trenowania modeli uczenia kontrastywnego lub systemów rekomendacyjnych. Zamiast losowego wybierania próbek ujemnych, identyfikuje ona „trudne negatywy” znajdujące się w pobliżu przykładów pozytywnych w przestrzeni wektorowej, co pomaga modelowi lepiej rozróżniać podobne obiekty.

@@ -1,23 +1,24 @@
 ---
-title: "Bayesisk optimering"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesisk optimering
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /da/terms/bayesian_optimization/
-date: "2026-07-18T15:43:37.459327Z"
-lastmod: "2026-07-18T17:15:09.264492Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:43:37.459327Z'
+lastmod: '2026-07-18T17:15:09.264492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En sekventiel designstrategi til global optimering af black-box-funktioner, der er dyre at evaluere."
+source: agnes_llm
+status: published
+language: da
+description: En sekventiel designstrategi til global optimering af black-box-funktioner,
+  der er dyre at evaluere.
 ---
-
 ## Definition
 
 Bayesisk optimering bruger en probabilistisk surrogate-model, typisk en Gaussisk Proces, til at modellere objektive funktioner. Den anvender en indkøbsfunktion til at balancere udforskning og udnyttelse, s

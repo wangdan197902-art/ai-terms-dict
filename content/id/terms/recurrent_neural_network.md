@@ -1,23 +1,24 @@
 ---
-title: "Recurrent Neural Network"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Recurrent Neural Network
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /id/terms/recurrent_neural_network/
-date: "2026-07-18T15:35:51.008073Z"
-lastmod: "2026-07-18T16:38:07.418554Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:35:51.008073Z'
+lastmod: '2026-07-18T16:38:07.418554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "RNN adalah kelas jaringan saraf tiruan di mana koneksi antar node membentuk grafik berarah sepanjang urutan temporal."
+source: agnes_llm
+status: published
+language: id
+description: RNN adalah kelas jaringan saraf tiruan di mana koneksi antar node membentuk
+  grafik berarah sepanjang urutan temporal.
 ---
-
 ## Definition
 
 RNN dirancang untuk mengenali pola dalam urutan data, seperti teks, genom, tulisan tangan, atau kata-kata yang diucapkan. Berbeda dengan jaringan feedforward, RNN memiliki memori internal yang menangkap informasi tentang ext

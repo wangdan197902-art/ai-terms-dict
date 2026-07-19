@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /id/terms/information/
 date: "2026-07-18T15:26:40.980433Z"
 lastmod: "2026-07-18T16:38:07.395362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Informasi merujuk pada data yang telah diproses yang menyampaikan makna, mengurangi ketidakpastian, atau memberikan konteks kepada penerima."
 ---
-
 ## Definition
 
 Dalam konteks AI dan ilmu komputer, informasi berbeda dari data mentah. Informasi mewakili data yang telah diorganisir, disusun, atau ditafsirkan sehingga memiliki signifikansi dan kegunaan. Informasi r

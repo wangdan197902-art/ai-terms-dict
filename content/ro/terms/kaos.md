@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /ro/terms/kaos/
 date: "2026-07-18T16:06:45.360955Z"
 lastmod: "2026-07-18T17:15:09.670911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru de agenți inteligenți conceput pentru a gestiona medii enterprise complexe și distribuite prin automatizare bazată pe politici."
 ---
-
 ## Definition
 
 KAoS este un cadru de agenți inteligenți dezvoltat pentru a gestiona complexitatea sistemelor enterprise mari și distribuite. Utilizează o abordare bazată pe politici, unde obiectivele de management de nivel înalt sunt trans

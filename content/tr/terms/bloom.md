@@ -1,23 +1,24 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /tr/terms/bloom/
-date: "2026-07-18T15:44:24.417273Z"
-lastmod: "2026-07-18T16:38:07.280226Z"
+slug: bloom
+date: '2026-07-18T15:44:24.417273Z'
+lastmod: '2026-07-18T16:38:07.280226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Makine öğreniminde 'Bloom', genellikle YZ eğitimine uygulanan Bloom Taksonomisi veya Bloom metin gömme modeli gibi belirli modelleri ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Makine öğreniminde 'Bloom', genellikle YZ eğitimine uygulanan Bloom Taksonomisi
+  veya Bloom metin gömme modeli gibi belirli modelleri ifade eder.
 ---
-
 ## Definition
 
 Tarihsel olarak Benjamin Bloom'un eğitim taksonomisini referans alsa da, modern YZ bağlamlarında genellikle BigScience tarafından geliştirilen Bloom metin gömme modelini belirtir. Bu model, yüksek kaliteli semantik temsiller oluşturmak için kullanılır.

@@ -27,17 +27,11 @@ paginate = 20
     ordered = false
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML"]
   term = ["HTML"]
   page = ["HTML"]
-
-[outputFormats.json]
-  mediaType = "application/json"
-  baseName = "index"
-  isPlainText = true
-  notAlternative = true
 
 [taxonomies]
   category = "categories"

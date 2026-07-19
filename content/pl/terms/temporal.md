@@ -1,23 +1,23 @@
 ---
-title: "Czasowy"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Czasowy
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /pl/terms/temporal/
-date: "2026-07-18T15:30:08.725162Z"
-lastmod: "2026-07-18T17:15:08.822344Z"
+slug: temporal
+date: '2026-07-18T15:30:08.725162Z'
+lastmod: '2026-07-18T17:15:08.822344Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Czasowy odnosi się do sekwencji czasowych, koncentrując się na tym, jak dane zmieniają się lub jak ewoluują zależności w czasie."
+source: agnes_llm
+status: published
+language: pl
+description: Czasowy odnosi się do sekwencji czasowych, koncentrując się na tym, jak
+  dane zmieniają się lub jak ewoluują zależności w czasie.
 ---
-
 ## Definition
 
 Koncepcje czasowe w AI obejmują analizę punktów danych uporządkowanych w czasie, takich jak ceny akcji, odczyty z czujników czy zdania języka naturalnego. Modele przetwarzające dane czasowe muszą uwzględniać kolejność sekwencji...

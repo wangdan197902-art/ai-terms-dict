@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /ro/terms/relational_data_mining/
 date: "2026-07-18T16:19:11.033096Z"
 lastmod: "2026-07-18T17:15:09.698397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de descoperire a tiparelor și cunoștințelor din date care constau în mai multe tabele sau entități interconectate."
 ---
-
 ## Definition
 
 Minarea datelor relaționale se concentrează pe extragerea informațiilor utile din bazele de date unde datele sunt organizate în mai multe tabele legate între ele, în loc de un singur tabel plat. Aceasta exploatează relațiile dintre diferitele entități pentru a descoperi structuri complexe.

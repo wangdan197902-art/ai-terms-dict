@@ -1,23 +1,24 @@
 ---
-title: "Bioszerencse"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Bioszerencse
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /hu/terms/bioserenity/
-date: "2026-07-18T15:48:38.327734Z"
-lastmod: "2026-07-18T17:15:09.760422Z"
+slug: bioserenity
+date: '2026-07-18T15:48:38.327734Z'
+lastmod: '2026-07-18T17:15:09.760422Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy elméleti állapot, amelyben a biológiai élet és a mesterséges intelligencia rendszerek harmonikus együttélése valósul meg."
+source: agnes_llm
+status: published
+language: hu
+description: Egy elméleti állapot, amelyben a biológiai élet és a mesterséges intelligencia
+  rendszerek harmonikus együttélése valósul meg.
 ---
-
 ## Definition
 
 A bioszerencse azt a koncepcionális ideált jelöli, ahol az emberi biológia és a mesterséges intelligencia zökkenőmentes, konfliktusmentes harmóniában működik együtt. Kiemeli az etikai integrációt, biztosítva, hogy az AI-kiegészítés (AI augmentation) etikai keretek között történjen.

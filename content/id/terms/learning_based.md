@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /id/terms/learning_based/
 date: "2026-07-18T15:31:58.270532Z"
 lastmod: "2026-07-18T16:38:07.408766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menunjukkan metode di mana algoritma meningkatkan kinerja melalui pengalaman daripada aturan pemrograman eksplisit."
 ---
-
 ## Definition
 
 Pendekatan berbasis pembelajaran mengandalkan algoritma statistik untuk mengidentifikasi pola dan membuat keputusan berdasarkan paparan data, berbeda dengan sistem berbasis aturan. Kategori ini mencakup pembelajaran terawasi, tak terawasi...

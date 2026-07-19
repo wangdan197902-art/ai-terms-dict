@@ -1,23 +1,22 @@
 ---
-title: "Developmental Robotics (วิทยาหุ่นยนต์พัฒนาการ)"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Developmental Robotics (วิทยาหุ่นยนต์พัฒนาการ)
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /th/terms/developmental_robotics/
-date: "2026-07-18T15:50:01.830776Z"
-lastmod: "2026-07-18T16:38:07.598342Z"
+slug: developmental_robotics
+date: '2026-07-18T15:50:01.830776Z'
+lastmod: '2026-07-18T16:38:07.598342Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาวิชาสหสาขาวิชาชีพที่ศึกษาว่าหุ่นยนต์สามารถเรียนรู้ทักษะที่ซับซ้อนผ่านการโต้ตอบกับสิ่งแวดล้อมและผู้ดูแลได้อย่างไร"
+source: agnes_llm
+status: published
+language: th
+description: สาขาวิชาสหสาขาวิชาชีพที่ศึกษาว่าหุ่นยนต์สามารถเรียนรู้ทักษะที่ซับซ้อนผ่านการโต้ตอบกับสิ่งแวดล้อมและผู้ดูแลได้อย่างไร
 ---
-
 ## Definition
 
 วิทยาหุ่นยนต์พัฒนาการได้รับแรงบันดาลใจจากการพัฒนาทางปัญญาของมนุษย์เพื่อสร้างหุ่นยนต์ที่สามารถเรียนรู้ได้อย่างอิสระตามเวลา แทนที่จะเขียนโปรแกรมพฤติกรรมทั้งหมดไว้ล่วงหน้า ระบบเหล่านี้ใช้กลไกต่างๆ เช่น การเรียนรู้ผ่านการเลียนแบบ...

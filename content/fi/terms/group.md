@@ -1,23 +1,24 @@
 ---
-title: "Ryhmä"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: Ryhmä
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /fi/terms/group/
-date: "2026-07-18T15:27:14.259451Z"
-lastmod: "2026-07-18T17:15:09.352153Z"
+slug: group
+date: '2026-07-18T15:27:14.259451Z'
+lastmod: '2026-07-18T17:15:09.352153Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Perustavanlaatuinen matemaattinen rakenne, joka koostuu joukosta, jossa on operaatio yhdistämään kaksi alkiota kolmanneksi alkioksi."
+source: agnes_llm
+status: published
+language: fi
+description: Perustavanlaatuinen matemaattinen rakenne, joka koostuu joukosta, jossa
+  on operaatio yhdistämään kaksi alkiota kolmanneksi alkioksi.
 ---
-
 ## Definition
 
 Matematiikassa ja teoreettisessa tietojenkäsittelytieteessä ryhmä on joukko G, johon liittyy binäärioperaatio, joka toteuttaa neljä aksioomaa: suljettavuus, assosiatiivisuus, identiteetti ja kääntyvyys. Tekoälyssä ryhmäteoriaa käytetään esimerkiksi symmetrioiden mallintamiseen.

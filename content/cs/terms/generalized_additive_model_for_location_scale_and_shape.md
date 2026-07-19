@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /cs/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T15:58:59.646436Z"
 lastmod: "2026-07-18T17:15:09.133337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "GAMLSS je flexibilní statistický rámec, který umožňuje modelovat všechny parametry rozdělení jako funkce vysvětlujících proměnných pomocí aditivních hladicích funkcí."
 ---
-
 ## Definition
 
 Na rozdíl od tradičních regresních modelů, které se zaměřují pouze na průměr, modeluje GAMLSS celé rozdělení, včetně polohy (průměr/medián), škály (rozptyl), šikmosti a špičatosti. Používá zobecněné...

@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /nl/terms/function_calling/
 date: "2026-07-18T15:36:19.615809Z"
 lastmod: "2026-07-18T17:15:08.705132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een mechanisme dat LLM's in staat stelt gestructureerde gegevens uit te voeren die specifieke softwarefuncties triggeren."
 ---
-
 ## Definition
 
 Functieaanroep stelt grote taalmodellen in staat om te interageren met externe hulpmiddelen en API's door gestructureerde uitvoer te genereren, zoals JSON-objecten, die specificeren welke functie moet worden uitgevoerd en met welke argumenten.

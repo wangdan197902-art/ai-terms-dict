@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /hu/terms/feedback/
 date: "2026-07-18T15:26:16.944800Z"
 lastmod: "2026-07-18T17:15:09.720082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A visszajelzés magában foglalja a kimeneti eredmények használatát egy AI modell vagy rendszer teljesítményének iteratív szabályozására és javítására."
 ---
-
 ## Definition
 
 A visszajelző mechanizmusok lehetővé teszik, hogy az AI rendszerek tanuljanak a felhasználókkal vagy a környezettel való interakcióikból, finomítva a jövőbeli előrejelzéseket vagy cselekvéseket. Ez magában foglalja a megerősítéses tanulás jeleit és az ember a ciklusban (human-in-the-loop) módszereket.

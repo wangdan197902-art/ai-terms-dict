@@ -1,23 +1,23 @@
 ---
-title: "代理模型"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: 代理模型
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /zh/terms/surrogate_model/
-date: "2026-07-18T11:35:31.276932Z"
-lastmod: "2026-07-18T11:44:45.560176Z"
+slug: surrogate_model
+date: '2026-07-18T11:35:31.276932Z'
+lastmod: '2026-07-18T11:44:45.560176Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种简化的数学模型，用于近似更复杂、计算成本高或不可访问的黑盒模型的行为。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种简化的数学模型，用于近似更复杂、计算成本高或不可访问的黑盒模型的行为。
 ---
-
 ## Definition
 
 在机器学习和优化中，代理模型作为难以直接评估的目标函数的代理。它通过原始模型的输入-输出对进行训练，以预测目标函数的行为。

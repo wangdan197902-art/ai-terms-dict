@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /cs/terms/agent/
 date: "2026-07-18T15:22:18.954434Z"
 lastmod: "2026-07-18T17:15:09.061362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Systém AI schopný vnímat své prostředí, uvažovat a podnikat akce k dosažení konkrétních cílů autonomně."
 ---
-
 ## Definition
 
 V AI je agent entita, která jedná jménem uživatele nebo systému za účelem splnění úkolů. Na rozdíl od pasivních modelů, které pouze reagují na prompty, mohou agenti plánovat, používat nástroje a iterovat na svých akcích.

@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /tr/terms/knowledge_based_recommender_system/
 date: "2026-07-18T15:59:38.698978Z"
 lastmod: "2026-07-18T16:38:07.324970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Geçmiş veriler yerine açık alan bilgisi ve kullanıcı kısıtlamaları üzerinden akıl yürüterek öneriler üreten bir öneri motorudur."
 ---
-
 ## Definition
 
 Geçmiş kullanıcı davranışlarına güvenen işbirlikçi filtrelemenin aksine, KBRS önerileri türetmek için öğeler ve kullanıcı tercihleri hakkında açık bilgi kullanır. Geçmiş verilerin az olduğu pazarlarda özellikle etkilidir.

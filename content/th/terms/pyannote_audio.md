@@ -1,23 +1,24 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /th/terms/pyannote_audio/
-date: "2026-07-18T16:12:16.184743Z"
-lastmod: "2026-07-18T16:38:07.646050Z"
+slug: pyannote_audio
+date: '2026-07-18T16:12:16.184743Z'
+lastmod: '2026-07-18T16:38:07.646050Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Pyannote Audio คือชุดเครื่องมือแบบโมดูลาร์สำหรับการสร้างสายงานแยกแยะผู้พูด โดยมีโมเดลเครือข่ายประสาทเทียมที่ได้รับการฝึกฝนล่วงหน้าสำหรับการวิเคราะห์เสียง"
+source: agnes_llm
+status: published
+language: th
+description: Pyannote Audio คือชุดเครื่องมือแบบโมดูลาร์สำหรับการสร้างสายงานแยกแยะผู้พูด
+  โดยมีโมเดลเครือข่ายประสาทเทียมที่ได้รับการฝึกฝนล่วงหน้าสำหรับการวิเคราะห์เสียง
 ---
-
 ## Definition
 
 Pyannote Audio เป็นชุดเครื่องมือที่ออกแบบมาเพื่ออำนวยความสะดวกในการพัฒนาและปรับใช้ระบบแยกแยะผู้พูด โดยรวบรวมโมเดลเครือข่ายประสาทเทียมที่ได้รับการฝึกฝนล่วงหน้าไว้แล้วสำหรับงานต่างๆ เช่น การตรวจจับช่วงที่มีเสียงพูด การแยกแยะผู้พูด และการถอดข้อความ

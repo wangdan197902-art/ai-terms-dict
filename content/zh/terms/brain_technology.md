@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /zh/terms/brain_technology/
 date: "2026-07-18T11:09:30.642823Z"
 lastmod: "2026-07-18T11:44:45.453162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "旨在与人脑进行接口、监测或调节的技术，包括脑机接口和神经成像工具。"
 ---
-
 ## Definition
 
 脑技术包括直接与中枢神经系统交互的硬件和软件系统。关键例子包括将神经信号转换为……的脑机接口 (BCI)。

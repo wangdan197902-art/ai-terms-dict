@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /ro/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:17:37.963043Z"
 lastmod: "2026-07-18T17:15:09.695114Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un Flux de lucru Pyannote Audio este o secvență structurată de pași de procesare care combină diverse modele pentru a realiza diarizarea vorbitorilor cap-la-cap."
 ---
-
 ## Definition
 
 În contextul Pyannote Audio, un flux de lucru se referă la un proces configurabil care lansează împreună diferite module pentru a obține diarizarea vorbitorilor. În mod tipic, un flux de lucru include etape pentru detectarea activității vocii (VAD), extragerea încorporărilor și clusterizarea acestora pentru a separa vorbitorii.

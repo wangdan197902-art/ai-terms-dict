@@ -1,23 +1,24 @@
 ---
-title: "Qloo"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: Qloo
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /cs/terms/qloo/
-date: "2026-07-18T16:14:24.546464Z"
-lastmod: "2026-07-18T17:15:09.193671Z"
+slug: qloo
+date: '2026-07-18T16:14:24.546464Z'
+lastmod: '2026-07-18T17:15:09.193671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Qloo je datová platforma poháněná umělou inteligencí, která poskytuje prediktivní vhledy do chování spotřebitelů a kulturních trendů."
+source: agnes_llm
+status: published
+language: cs
+description: Qloo je datová platforma poháněná umělou inteligencí, která poskytuje
+  prediktivní vhledy do chování spotřebitelů a kulturních trendů.
 ---
-
 ## Definition
 
 Společnost Qloo působí jako společnost specializující se na analýzu dat, která se zaměřuje na pochopení lidských preferencí pomocí pokročilých algoritmů strojového učení. Agreguje a analyzuje obrovská množství dat z různých zdrojů.

@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /pt/terms/chat/
 date: "2026-07-18T14:52:50.298396Z"
 lastmod: "2026-07-18T15:51:59.470662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Chat refere-se à comunicação interativa e conversacional entre um usuário e um sistema de IA, geralmente facilitada por meio de linguagem natural."
 ---
-
 ## Definition
 
 No contexto da IA, Chat denota a interface e o mecanismo subjacente para diálogos em tempo real, baseados em turnos. Permite que os usuários façam perguntas, solicitem tarefas ou se envolvam em conversas abertas. Mod

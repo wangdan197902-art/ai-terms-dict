@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /no/terms/datasetsearch_qa/
 date: "2026-07-18T15:50:09.596968Z"
 lastmod: "2026-07-18T16:38:06.990787Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et datasett fokusert på spørsmål-svar-oppgaver hentet fra søkemotorens logger eller nettsøker, med vekt på reell informasjonssøking."
 ---
-
 ## Definition
 
 Datasett for søkebaserte spørsmål-svar-oppgaver består vanligvis av par av søkeforespørsler og relevante svarutdrag eller dokumenter trukket fra søkeresultater. Disse datasettene er avgjørende for å trene modeller til å forstå

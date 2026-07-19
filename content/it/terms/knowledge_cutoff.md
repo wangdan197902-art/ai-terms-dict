@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /it/terms/knowledge_cutoff/
 date: "2026-07-18T16:06:37.975365Z"
 lastmod: "2026-07-18T17:15:08.640213Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il knowledge cutoff è la data specifica dopo la quale un modello linguistico non è stato addestrato e pertanto non dispone di informazioni sugli eventi verificatisi successivamente."
 ---
-
 ## Definition
 
 La data di knowledge cutoff definisce il confine temporale dei dati di addestramento di un modello linguistico. Qualsiasi informazione, evento o sviluppo verificatosi dopo questa data è generalmente sconosciuto al modello

@@ -1,23 +1,24 @@
 ---
-title: "Detecção"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Detecção
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /pt/terms/detection/
-date: "2026-07-18T14:34:18.553326Z"
-lastmod: "2026-07-18T15:51:59.427102Z"
+slug: detection
+date: '2026-07-18T14:34:18.553326Z'
+lastmod: '2026-07-18T15:51:59.427102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A identificação e localização de objetos específicos, eventos ou anomalias dentro de um conjunto de dados ou ambiente."
+source: agnes_llm
+status: published
+language: pt
+description: A identificação e localização de objetos específicos, eventos ou anomalias
+  dentro de um conjunto de dados ou ambiente.
 ---
-
 ## Definition
 
 A detecção é uma tarefa central em visão computacional e processamento de sinais, na qual um modelo de IA identifica a presença e a posição de entidades de interesse. Diferente da classificação, que atribui um rótulo, a detecção também determina onde o objeto está localizado.

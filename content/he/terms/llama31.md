@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /he/terms/llama31/
 date: "2026-07-18T16:10:26.309153Z"
 lastmod: "2026-07-18T17:15:09.559335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "Llama 3.1 היא עדכון של Meta מאוגוסט 2024 הכוללת מודלים בגדלים של 8B, 70B ו-405B פרמטרים, עם חלון הקרח מורחב של 128k ויכולות שימוש בכלים מובנות."
 ---
-
 ## Definition
 
 שוחררה באוגוסט 2024, Llama 3.1 מרחיבה את משפחת Llama כדי לכלול מודל עצום של 405 מיליארד פרמטרים לצד גרסאות קטנות יותר של 8B ו-70B. תכונה בולטת היא חלון ההקשר המורחב.

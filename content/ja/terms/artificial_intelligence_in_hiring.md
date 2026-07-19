@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /ja/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T11:04:27.071309Z"
 lastmod: "2026-07-18T11:44:45.068852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "履歴書スクリーニング、候補者マッチング、面接分析など、採用プロセスを効率化するためにAIツールを使用すること。"
 ---
-
 ## Definition
 
 採用におけるAIは、採用ライフサイクルの様々な段階を自動化・強化するためにアルゴリズムを利用します。これらのツールは、キーワード関連性に基づいて履歴書を分析し、予測モデリングを通じて候補者の適合性を評価し、選考プロセスを支援します。

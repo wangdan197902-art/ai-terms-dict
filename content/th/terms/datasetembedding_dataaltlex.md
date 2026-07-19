@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /th/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:48:18.745538Z"
 lastmod: "2026-07-18T16:38:07.593215Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลที่มีรูปแบบคำศัพท์ทางเลือก ใช้สำหรับฝึกโมเดลให้เข้าใจความหมายเดียวกันและการตรวจจับประโยคความหมายเดียวกัน (Paraphrase)"
 ---
-
 ## Definition
 
 ชุดข้อมูล Altlex ประกอบด้วยคู่ประโยคที่มีความหมายพื้นฐานเดียวกันแต่ใช้คำศัพท์หรือโครงสร้างไวยากรณ์ที่แตกต่างกัน โดยส่วนใหญ่ถูกนำไปใช้ในการฝึกโมเดล Embedding เพื่อเรียนรู้การแสดงความหมายของข้อความ

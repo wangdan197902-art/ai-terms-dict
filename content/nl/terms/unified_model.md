@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /nl/terms/unified_model/
 date: "2026-07-18T16:21:12.648132Z"
 lastmod: "2026-07-18T17:15:08.795954Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een AI-architectuur die is ontworpen om meerdere taken of modaliteiten binnen één framework af te handelen."
 ---
-
 ## Definition
 
 Een unificatiemodel verwijst naar een kunstmatige intelligentiesysteem dat in staat is verschillende onderscheiden taken uit te voeren, zoals tekstgeneratie, beeldherkenning en codesynthese, zonder dat aparte specifieke...

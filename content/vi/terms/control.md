@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /vi/terms/control/
 date: "2026-07-18T15:24:11.724871Z"
 lastmod: "2026-07-18T16:38:07.682057Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quá trình quản lý, chỉ đạo hoặc điều chỉnh hành vi và trạng thái của một hệ thống để đạt được các kết quả mong muốn."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, điều khiển đề cập đến các cơ chế và thuật toán được sử dụng để hướng dẫn hành động của hệ thống dựa trên trạng thái hiện tại và mục tiêu. Nó bao gồm các vòng lặp phản hồi nơi đầu ra được giám sát để điều chỉnh đầu vào hoặc hành động tiếp theo, đảm bảo hệ thống vận hành ổn định và hiệu quả.

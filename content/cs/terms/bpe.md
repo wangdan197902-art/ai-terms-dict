@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /cs/terms/bpe/
 date: "2026-07-18T15:34:23.578069Z"
 lastmod: "2026-07-18T17:15:09.087538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kódování párových bajtů (BPE) je algoritmus používaný pro subwordovou tokenizaci, který iterativně slučuje nejčastější dvojice znaků za účelem vytvoření slovníku."
 ---
-
 ## Definition
 
 Kódování párových bajtů (BPE) je technika komprese dat upravená pro zpracování přirozeného jazyka, která řeší slova mimo slovník. Začíná se slovníkem jednotlivých znaků a iterativně

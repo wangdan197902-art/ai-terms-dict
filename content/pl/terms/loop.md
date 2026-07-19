@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /pl/terms/loop/
 date: "2026-07-18T15:27:03.160245Z"
 lastmod: "2026-07-18T17:15:08.814723Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Konstrukcja programistyczna powtarzająca blok kodu wielokrotnie, aż do spełnienia określonego warunku."
 ---
-
 ## Definition
 
 Podstawowa struktura przepływu sterowania w informatyce i rozwoju AI, pętla pozwala algorytmom iterować przez zbiory danych, wykonywać powtarzalne obliczenia lub uruchamiać epoki treningowe. Najczęstsze typy to

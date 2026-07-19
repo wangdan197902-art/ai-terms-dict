@@ -7,8 +7,6 @@ tags: ["Finance", "Datasets", "Chinese NLP"]
 difficulty: 4
 weight: 1
 slug: "azfintext"
-aliases:
-  - /hu/terms/azfintext/
 date: "2026-07-18T15:42:01.445394Z"
 lastmod: "2026-07-18T17:15:09.750639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AZFinText egy specializált adathalmaz, amelyet kínai kontextusú pénzügyi szövegásatra és hangulatelemzésre terveztek."
 ---
-
 ## Definition
 
 Az AZFinText egy nagy léptékű, annotált korpusz, amelyet kifejezetten kínai pénzügyi szövegelemzésre gyűjtöttek össze. Tartalmaz hírcikkeket, jelentéseket és közösségi média posztokat, amelyek pénzügyi hangulatot és esem

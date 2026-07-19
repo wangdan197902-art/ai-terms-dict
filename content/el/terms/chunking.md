@@ -1,23 +1,24 @@
 ---
-title: "Τμηματοποίηση"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Τμηματοποίηση
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /el/terms/chunking/
-date: "2026-07-18T15:54:50.175192Z"
-lastmod: "2026-07-18T17:15:09.888342Z"
+slug: chunking
+date: '2026-07-18T15:54:50.175192Z'
+lastmod: '2026-07-18T17:15:09.888342Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η τμηματοποίηση είναι η διαδικασία διαίρεσης μεγάλων εγγράφων ή ροών δεδομένων σε μικρότερα, διαχειρίσιμα τμήματα για επεξεργασία ή ευρετηρίαση."
+source: agnes_llm
+status: published
+language: el
+description: Η τμηματοποίηση είναι η διαδικασία διαίρεσης μεγάλων εγγράφων ή ροών
+  δεδομένων σε μικρότερα, διαχειρίσιμα τμήματα για επεξεργασία ή ευρετηρίαση.
 ---
-
 ## Definition
 
 Η τμηματοποίηση είναι ένα κρίσιμο βήμα προεπεξεργασίας στην Ανακτητικά Ενισχυμένη Γένεση (RAG) και άλλους αγωγούς ΕΦΓ. Περιλαμβάνει τη διαίρεση του κειμένου σε μονάδες σταθερού μεγέθους ή σημασιολογικές μονάδες (chunks) ώστε να χωράνε στο πλαίσιο

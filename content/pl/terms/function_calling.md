@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /pl/terms/function_calling/
 date: "2026-07-18T15:35:30.386249Z"
 lastmod: "2026-07-18T17:15:08.832747Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Mechanizm pozwalający dużym modelom językowym (LLM) na generowanie danych strukturalnych, które inicjują wykonanie określonych funkcji programistycznych."
 ---
-
 ## Definition
 
 Wywoływanie funkcji umożliwia dużym modelom językowym interakcję z zewnętrznymi narzędziami i interfejsami API poprzez generowanie danych wyjściowych o strukturze sztywnej, takich jak obiekty JSON, które określają, którą funkcję należy wykonać oraz jakie argumenty przekazać.

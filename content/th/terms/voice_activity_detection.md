@@ -1,23 +1,24 @@
 ---
-title: "การตรวจจับกิจกรรมเสียงพูด"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: การตรวจจับกิจกรรมเสียงพูด
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /th/terms/voice_activity_detection/
-date: "2026-07-18T16:20:01.990769Z"
-lastmod: "2026-07-18T16:38:07.665963Z"
+slug: voice_activity_detection
+date: '2026-07-18T16:20:01.990769Z'
+lastmod: '2026-07-18T16:38:07.665963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การตรวจจับกิจกรรมเสียงพูด (VAD) เป็นเทคนิคการประมวลผลสัญญาณที่ใช้ระบุส่วนของเสียงที่มีเสียงพูดของมนุษย์ เทียบกับช่วงเงียบหรือเสียงรบกวน"
+source: agnes_llm
+status: published
+language: th
+description: การตรวจจับกิจกรรมเสียงพูด (VAD) เป็นเทคนิคการประมวลผลสัญญาณที่ใช้ระบุส่วนของเสียงที่มีเสียงพูดของมนุษย์
+  เทียบกับช่วงเงียบหรือเสียงรบกวน
 ---
-
 ## Definition
 
 อัลกอริทึม VAD วิเคราะห์สตรีมเสียงแบบเรียลไทม์เพื่อแยกแยะระหว่างช่วงเวลาที่มีเสียงพูดใช้งานจริงและช่วงที่ไม่ใช่เสียงพูด เช่น เสียงรบกวนพื้นหลังหรือการหยุดพัก ซึ่งสิ่งนี้มีบทบาทสำคัญในการปรับแต่งการใช้แบนด์วิธ

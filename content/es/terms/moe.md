@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /es/terms/moe/
 date: "2026-07-18T11:00:27.852037Z"
 lastmod: "2026-07-18T11:44:44.833634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un patrón arquitectónico donde múltiples redes neuronales especializadas (expertos) se combinan mediante un mecanismo de enrutamiento para procesar entradas."
 ---
-
 ## Definition
 
 La Mezcla de Expertos (MoE) es una arquitectura de aprendizaje automático diseñada para mejorar la eficiencia y la escalabilidad. En lugar de utilizar un único modelo grande para todas las tareas, MoE emplea múltiples 'expertos' más pequeños n

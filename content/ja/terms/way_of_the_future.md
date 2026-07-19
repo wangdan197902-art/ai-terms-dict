@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /ja/terms/way_of_the_future/
 date: "2026-07-18T11:36:21.548671Z"
 lastmod: "2026-07-18T11:44:45.154807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "この用語は一般的に、特にAIの日常生活や産業への統合に関して、技術的進歩の予期される軌道を指します。"
 ---
-
 ## Definition
 
 厳密な技術用語ではありませんが、「未来のあり方」は、自律型システム、パーソナライズされたAIアシスタント、自動化された意思決定プロセスへのパラダイムシフトを記述します。それは...を包含しています。

@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /ja/terms/ai_observability/
 date: "2026-07-18T11:02:23.128328Z"
 lastmod: "2026-07-18T11:44:45.061633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ログ、メトリクス、トレースを通じて機械学習システムの内部状態を監視し、理解する実践。"
 ---
-
 ## Definition
 
 AI観測可能性とは、従来のソフトウェア監視を拡張し、機械学習システム特有の課題に対応するものです。これには、モデルパフォーマンス、データドリフト、推論レイテンシなどをリアルタイムで追跡することが含まれます。

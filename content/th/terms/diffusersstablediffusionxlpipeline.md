@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /th/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:50:41.166757Z"
-lastmod: "2026-07-18T16:38:07.599678Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:50:41.166757Z'
+lastmod: '2026-07-18T16:38:07.599678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เพย์ปไลน์สำหรับ Stable Diffusion XL (SDXL) ที่ให้ความละเอียด รายละเอียด และการยึดติดกับข้อความคำสั่งที่ดีกว่ารุ่นก่อนหน้า"
+source: agnes_llm
+status: published
+language: th
+description: เพย์ปไลน์สำหรับ Stable Diffusion XL (SDXL) ที่ให้ความละเอียด รายละเอียด
+  และการยึดติดกับข้อความคำสั่งที่ดีกว่ารุ่นก่อนหน้า
 ---
-
 ## Definition
 
 เพย์ปไลน์นี้ดำเนินการตามสถาปัตยกรรม Stable Diffusion XL ซึ่งใช้โมเดลฐานที่ได้รับการปรับปรุงและโมเดลตัวปรับแต่ง (refiner) เพื่อผลิตภาพความละเอียดสูง (1024x1024) ที่มีรายละเอียดและองค์ประกอบภาพเหนือกว่า

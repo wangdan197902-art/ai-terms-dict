@@ -1,23 +1,25 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /pl/terms/pagedattention/
-date: "2026-07-18T16:10:19.094439Z"
-lastmod: "2026-07-18T17:15:08.904783Z"
+slug: pagedattention
+date: '2026-07-18T16:10:19.094439Z'
+lastmod: '2026-07-18T17:15:08.904783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "PagedAttention to algorytm zarządzania pamięcią, który adaptuje koncepcje stronnicowania pamięci wirtualnej do optymalizacji przechowywania i dostępu do buforów Klucz-Wartość (KV) w modelach transform"
+source: agnes_llm
+status: published
+language: pl
+description: PagedAttention to algorytm zarządzania pamięcią, który adaptuje koncepcje
+  stronnicowania pamięci wirtualnej do optymalizacji przechowywania i dostępu do buforów
+  Klucz-Wartość (KV) w modelach transform
 ---
-
 ## Definition
 
 PagedAttention to technika wprowadzona przez projekt vLLM w celu poprawy wydajności wnioskowania dużych modeli językowych. Rozwiązuje problemy fragmentacji i narzutów związanych z zarządzaniem buforem KV, dzieląc go na strony pamięci podobnie jak w systemach operacyjnych, co pozwala na efektywne wykorzystanie pamięci GPU i eliminację marnotrawstwa zasobów podczas generowania tekstu.

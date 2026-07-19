@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /tr/terms/llama_3/
 date: "2026-07-18T16:01:18.825911Z"
 lastmod: "2026-07-18T16:38:07.328662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Llama 3, Meta'nın 2024 yılında yayınladığı gelişmiş büyük dil modelleridir; 8B ve 70B parametre boyutlarında önemli ölçüde gelişmiş akıl yürütme, kodlama ve çok dilli yetenekler sunar."
 ---
-
 ## Definition
 
 Nisan 2024'te tanıtılan Llama 3, performans ve yeteneklerde önemli iyileştirmelerle Llama 2'nin başarısının üzerine inşa edilir. Model ailesi 8 milyar ve 70 milyar parametrelik versiyonları içerir.

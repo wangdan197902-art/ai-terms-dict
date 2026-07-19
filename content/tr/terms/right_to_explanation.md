@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /tr/terms/right_to_explanation/
 date: "2026-07-18T16:12:23.112631Z"
 lastmod: "2026-07-18T16:38:07.360471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bireylerin kendilerini önemli ölçüde etkileyen otomatik kararlar hakkında anlamlı bilgi alma hakkını tanıyan hukuki ve etik bir ilke."
 ---
-
 ## Definition
 
 Açıklama hakkı, özellikle GDPR gibi çerçeveler içinde algoritma hesap verebilirliğinin temel bir bileşenidir. Bir AI sisteminin bir kişinin haklarını etkileyen bir karar verdiğinde, bu hakkın sağlanmasını garanti eder.

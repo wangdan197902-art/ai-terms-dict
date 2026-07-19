@@ -1,23 +1,25 @@
 ---
-title: "Approccio contestualizzato"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Approccio contestualizzato
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /it/terms/situated_approach/
-date: "2026-07-18T16:21:20.643146Z"
-lastmod: "2026-07-18T17:15:08.668883Z"
+slug: situated_approach
+date: '2026-07-18T16:21:20.643146Z'
+lastmod: '2026-07-18T17:15:08.668883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un paradigma di progettazione nell'IA che privilegia il comportamento dipendente dal contesto e l'interazione ambientale rispetto al ragionamento astratto."
+source: agnes_llm
+status: published
+language: it
+description: Un paradigma di progettazione nell'IA che privilegia il comportamento
+  dipendente dal contesto e l'interazione ambientale rispetto al ragionamento astratto.
 ---
-
 ## Definition
 
 L'approccio contestualizzato è un quadro metodologico nella ricerca sull'IA che sostiene che il comportamento intelligente non possa essere separato dall'ambiente in cui si verifica. Promuove la creazione di sistemi che reagiscono direttamente agli stimoli ambientali piuttosto che basarsi su modelli interni complessi e predefiniti.

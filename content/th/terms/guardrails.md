@@ -1,23 +1,24 @@
 ---
-title: "เกราะป้องกันความปลอดภัย (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: เกราะป้องกันความปลอดภัย (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /th/terms/guardrails/
-date: "2026-07-18T15:58:09.511041Z"
-lastmod: "2026-07-18T16:38:07.613148Z"
+slug: guardrails
+date: '2026-07-18T15:58:09.511041Z'
+lastmod: '2026-07-18T16:38:07.613148Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลไกความปลอดภัยที่ออกแบบมาเพื่อจำกัดผลลัพธ์ของแบบจำลอง AI ป้องกันการสร้างเนื้อหาที่เป็นอันตราย มีอคติ หรือผิดนโยบาย"
+source: agnes_llm
+status: published
+language: th
+description: กลไกความปลอดภัยที่ออกแบบมาเพื่อจำกัดผลลัพธ์ของแบบจำลอง AI ป้องกันการสร้างเนื้อหาที่เป็นอันตราย
+  มีอคติ หรือผิดนโยบาย
 ---
-
 ## Definition
 
 เกราะป้องกันความปลอดภัย หมายถึง ชุดของการควบคุมซอฟต์แวร์และชั้นการบังคับใช้นโยบายที่ผสานรวมเข้ากับแอปพลิเคชัน AI โดยเฉพาะอย่างยิ่งโมเดลภาษาขนาดใหญ่ (LLMs) เพื่อให้แน่ใจว่าพฤติกรรมของระบบมีความปลอดภัยและสอดคล้องกับกฎระเบียบ ทำหน้าที่เป็นตัวกรองและตรวจสอบความถูกต้องของข้อมูลก่อนและหลังการประมวลผล

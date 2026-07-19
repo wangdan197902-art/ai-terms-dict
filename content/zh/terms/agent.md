@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /zh/terms/agent/
 date: "2026-07-18T07:43:58.206740Z"
 lastmod: "2026-07-18T11:44:44.590462Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种能够感知环境、进行推理并自主采取行动以实现特定目标的 AI 系统。"
 ---
-
 ## Definition
 
 在 AI 中，智能体是代表用户或系统执行任务的实体。与仅对提示做出响应的被动模型不同，智能体具备规划能力，可以使用工具，并能根据其行动结果进行迭代和调整，从而更复杂地解决多步骤问题。

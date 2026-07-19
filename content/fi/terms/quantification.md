@@ -1,23 +1,24 @@
 ---
-title: "Kvantifiointi"
-term_id: "quantification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_processing", "fundamentals", "preprocessing"]
+title: Kvantifiointi
+term_id: quantification
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Processing
+- fundamentals
+- preprocessing
 difficulty: 2
 weight: 1
-slug: "quantification"
-aliases:
-  - /fi/terms/quantification/
-date: "2026-07-18T16:17:44.849721Z"
-lastmod: "2026-07-18T17:15:09.448632Z"
+slug: quantification
+date: '2026-07-18T16:17:44.849721Z'
+lastmod: '2026-07-18T17:15:09.448632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kvantifiointi on prosessi, jossa laadullisia attribuutteja tai abstrakteja käsitteitä ilmaistaan numeerisissa termeissä analysointia varten."
+source: agnes_llm
+status: published
+language: fi
+description: Kvantifiointi on prosessi, jossa laadullisia attribuutteja tai abstrakteja
+  käsitteitä ilmaistaan numeerisissa termeissä analysointia varten.
 ---
-
 ## Definition
 
 Tekoälyn ja datatieteen kontekstissa kvantifiointi viittaa ei-numeerisen datan, kuten tekstin, kuvien tai subjektiivisten mielipiteiden, muuntamiseen mitattaviksi numeerisiksi arvoiksi. Tämä prosessi on

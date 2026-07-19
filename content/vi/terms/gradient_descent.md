@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /vi/terms/gradient_descent/
 date: "2026-07-18T15:35:52.611614Z"
 lastmod: "2026-07-18T16:38:07.709608Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật toán tối ưu hóa lặp để giảm thiểu hàm mất mát bằng cách điều chỉnh các tham số của mô hình."
 ---
-
 ## Definition
 
 Hạ gradient là một thuật toán tối ưu hóa bậc nhất lặp để tìm cực tiểu địa phương của một hàm khả vi. Trong học máy, nó cập nhật trọng số của mô hình theo hướng ngược lại với gradient của hàm mất mát.

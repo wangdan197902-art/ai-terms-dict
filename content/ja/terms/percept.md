@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /ja/terms/percept/
 date: "2026-07-18T11:27:03.543779Z"
 lastmod: "2026-07-18T11:44:45.131069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "知覚系によって処理された感覚入力の精神的表現、または解釈された結果。"
 ---
-
 ## Definition
 
 知覚とは、外部刺激が知覚システムによって処理された後の内部的な表現です。AIにおいて、これは低レベルの信号処理からの構造化されたデータ出力に対応し

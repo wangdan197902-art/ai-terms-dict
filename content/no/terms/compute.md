@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /no/terms/compute/
 date: "2026-07-18T15:47:10.338621Z"
 lastmod: "2026-07-18T16:38:06.982692Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Regnekraft refererer til prosesseringskraften og ressursene som brukes til å utføre algoritmer og håndtere data i AI-systemer."
 ---
-
 ## Definition
 
 Innen kunstig intelligens representerer regnekraft den grunnleggende infrastrukturen som kreves for å trene modeller og kjøre inferens. Det omfatter maskinvarekomponenter som CPU-er, GPU-er og TPU-er, samt den nødvendige programvaren og energien for å drive disse komponentene effektivt.

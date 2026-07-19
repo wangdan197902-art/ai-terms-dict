@@ -1,23 +1,24 @@
 ---
-title: "Database intelligente"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Database intelligente
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /it/terms/intelligent_database/
-date: "2026-07-18T16:05:07.950871Z"
-lastmod: "2026-07-18T17:15:08.638420Z"
+slug: intelligent_database
+date: '2026-07-18T16:05:07.950871Z'
+lastmod: '2026-07-18T17:15:08.638420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un sistema di database che incorpora capacità di IA per automatizzare la gestione dei dati, l'ottimizzazione delle query e la generazione di approfondimenti."
+source: agnes_llm
+status: published
+language: it
+description: Un sistema di database che incorpora capacità di IA per automatizzare
+  la gestione dei dati, l'ottimizzazione delle query e la generazione di approfondimenti.
 ---
-
 ## Definition
 
 Un database intelligente sfrutta l'apprendimento automatico e l'IA per migliorare le funzionalità standard dei database oltre la semplice memorizzazione e recupero. Può ottimizzare automaticamente le prestazioni delle query, prevedere l'utilizzo

@@ -1,23 +1,25 @@
 ---
-title: "Gắn nhãn hiệu nước (Watermarking)"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: Gắn nhãn hiệu nước (Watermarking)
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /vi/terms/watermarking/
-date: "2026-07-18T16:16:00.808395Z"
-lastmod: "2026-07-18T16:38:07.816265Z"
+slug: watermarking
+date: '2026-07-18T16:16:00.808395Z'
+lastmod: '2026-07-18T16:38:07.816265Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Gắn nhãn hiệu nước trong AI liên quan đến việc nhúng các định danh vô hình hoặc hữu hình vào nội dung được tạo ra để chứng minh nguồn gốc và phân biệt nó với tài liệu do con người tạo ra."
+source: agnes_llm
+status: published
+language: vi
+description: Gắn nhãn hiệu nước trong AI liên quan đến việc nhúng các định danh vô
+  hình hoặc hữu hình vào nội dung được tạo ra để chứng minh nguồn gốc và phân biệt
+  nó với tài liệu do con người tạo ra.
 ---
-
 ## Definition
 
 Khi AI tạo sinh sản xuất ngày càng nhiều phương tiện tổng hợp, việc gắn nhãn hiệu nước trở thành một công cụ quan trọng để đảm bảo tính minh bạch và trách nhiệm giải trình. Nó liên quan đến việc thay đổi nội dung số—như hình ảnh, văn bản hoặc âm thanh—để mã hóa thông tin nguồn gốc mà không làm giảm chất lượng cảm nhận.

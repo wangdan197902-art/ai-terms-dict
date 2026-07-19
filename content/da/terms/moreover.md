@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /da/terms/moreover/
 date: "2026-07-18T15:27:33.940289Z"
 lastmod: "2026-07-18T17:15:09.228839Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et overgangsadverbium, der bruges til at indføre yderligere oplysninger eller styrke et tidligere argument."
 ---
-
 ## Definition
 
 I sammenhæng med AI-dokumentation og teknisk skrivning fungerer 'Derudover' som et diskursmarkør, der signalerer tilføjelsen af støttende beviser eller et yderligere punkt, der styrker den aktuelle diskussion.

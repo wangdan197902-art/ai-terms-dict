@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /id/terms/real_time/
 date: "2026-07-18T15:33:09.759861Z"
 lastmod: "2026-07-18T16:38:07.410340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pemrosesan waktu nyata merujuk pada sistem yang menghitung dan memberikan hasil dalam batasan waktu ketat yang terjamin segera setelah menerima masukan."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, waktu nyata menunjukkan kemampuan sistem untuk memproses masukan dan menghasilkan keluaran dengan latensi minimal, seringkali dalam hitungan milidetik. Ini sangat penting untuk aplikasi di mana keterlambatan dapat menyebabkan konsekuensi serius.

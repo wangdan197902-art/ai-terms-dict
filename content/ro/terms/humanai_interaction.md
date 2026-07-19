@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /ro/terms/humanai_interaction/
 date: "2026-07-18T16:03:21.207641Z"
 lastmod: "2026-07-18T17:15:09.666141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Studiul și practica modului în care oamenii comunică, controlează și colaborează cu sistemele de inteligență artificială."
 ---
-
 ## Definition
 
 Interacțiunea om-AI (HAI) este un domeniu interdisciplinar care examinează dinamica dintre oameni și tehnologiile AI. Se concentrează pe proiectarea interfețelor intuitive, a protocoalelor de comunicare și a cadrelor de colaborare eficientă.

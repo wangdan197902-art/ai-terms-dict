@@ -1,23 +1,24 @@
 ---
-title: "Học biểu diễn đa phương thức"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Học biểu diễn đa phương thức
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /vi/terms/multimodal_representation_learning/
-date: "2026-07-18T16:04:43.313536Z"
-lastmod: "2026-07-18T16:38:07.785518Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:04:43.313536Z'
+lastmod: '2026-07-18T16:38:07.785518Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật học các biểu diễn đặc trưng thống nhất từ nhiều phương thức dữ liệu khác nhau cùng lúc."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật học các biểu diễn đặc trưng thống nhất từ nhiều phương thức
+  dữ liệu khác nhau cùng lúc.
 ---
-
 ## Definition
 
 Học biểu diễn đa phương thức liên quan đến việc huấn luyện các mô hình để xử lý và tích hợp thông tin từ các nguồn dữ liệu khác nhau, chẳng hạn như văn bản, hình ảnh, âm thanh và video, vào một không gian tiềm ẩn chung.

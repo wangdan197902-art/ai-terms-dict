@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /hu/terms/phi/
 date: "2026-07-18T16:17:55.051845Z"
 lastmod: "2026-07-18T17:15:09.822504Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy kis méretű, de rendkívül hatékony nagy nyelvi modellek sorozata, amelyet a Microsoft Research fejlesztett ki, a tudássűrűségre és az érvelésre fókuszálva."
 ---
-
 ## Definition
 
 A Phi, amely a 'Tanulás-Alapú Alapmodellek' rövidítése, a Microsoft által létrehozott kompakt nagy nyelvi modellek családja. A hatalmas webi korpuszokon tanított hagyományos LLM-ektől eltően a Phi modellek 

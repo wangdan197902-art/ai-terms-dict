@@ -1,23 +1,24 @@
 ---
-title: "Mapování aktivace tříd"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Mapování aktivace tříd
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /cs/terms/class_activation_mapping/
-date: "2026-07-18T15:48:09.547448Z"
-lastmod: "2026-07-18T17:15:09.109756Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:48:09.547448Z'
+lastmod: '2026-07-18T17:15:09.109756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Mapování aktivace tříd (CAM) je technika vizualizace, která zvýrazňuje oblasti ve vstupním obraze nejvíce odpovědné za konkrétní předpovězenou třídu."
+source: agnes_llm
+status: published
+language: cs
+description: Mapování aktivace tříd (CAM) je technika vizualizace, která zvýrazňuje
+  oblasti ve vstupním obraze nejvíce odpovědné za konkrétní předpovězenou třídu.
 ---
-
 ## Definition
 
 CAM generuje tepelné mapy překrývající vstupní obrázky, aby ukázal, které pixely přispěly nejvíce k rozhodnutí modelu pro konkrétní štítek třídy. Funguje tím, že aplikuje globální průměrnou poolingu na finální kon

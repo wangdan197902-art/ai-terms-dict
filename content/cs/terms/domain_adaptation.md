@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /cs/terms/domain_adaptation/
 date: "2026-07-18T15:55:02.885281Z"
 lastmod: "2026-07-18T17:15:09.124199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Metoda strojového učení, která zlepšuje výkon modelu na cílové doméně využitím znalostí ze zdrojové domény."
 ---
-
 ## Definition
 
 Adaptace domény řeší problém, kdy trénovací a testovací data pocházejí z různých rozdělení. Srovnáváním reprezentací vlastností mezi označenou zdrojovou doménou a neoznačenou nebo slabě označenou cílovou doménou umožňuje model lépe generalizovat.

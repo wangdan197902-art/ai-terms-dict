@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /fr/terms/harmful_content/
 date: "2026-07-18T11:20:14.914217Z"
 lastmod: "2026-07-18T11:44:45.268102Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Informations présentant des risques pour les individus ou la société, y compris les discours de haine, la violence et les actes illégaux."
 ---
-
 ## Definition
 
 Le contenu nuisible désigne les médias numériques ou le texte susceptibles de causer des dommages physiques, psychologiques ou sociaux. Dans le domaine de la sécurité de l'IA, la détection et le filtrage de tels contenus sont essentiels pour empêcher les modèles de générer

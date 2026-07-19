@@ -1,23 +1,23 @@
 ---
-title: "การถดถอยแบบสไปค์แอนด์สลับ (Spike-and-slab regression)"
-term_id: "spike_and_slab_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "bayesian", "regression"]
+title: การถดถอยแบบสไปค์แอนด์สลับ (Spike-and-slab regression)
+term_id: spike_and_slab_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- bayesian
+- Regression
 difficulty: 4
 weight: 1
-slug: "spike_and_slab_regression"
-aliases:
-  - /th/terms/spike_and_slab_regression/
-date: "2026-07-18T16:16:18.524954Z"
-lastmod: "2026-07-18T16:38:07.657554Z"
+slug: spike_and_slab_regression
+date: '2026-07-18T16:16:18.524954Z'
+lastmod: '2026-07-18T16:38:07.657554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการเลือกตัวแปรแบบเบย์เซียนที่ใช้การกระจายตัวก่อนแบบผสมเพื่อแยกแยะระหว่างสัมประสิทธิ์ที่มีค่าเป็นศูนย์และไม่เป็นศูนย์"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการเลือกตัวแปรแบบเบย์เซียนที่ใช้การกระจายตัวก่อนแบบผสมเพื่อแยกแยะระหว่างสัมประสิทธิ์ที่มีค่าเป็นศูนย์และไม่เป็นศูนย์
 ---
-
 ## Definition
 
 การถดถอยแบบสไปค์แอนด์สลับ เป็นเทคนิคทางสถิติแบบเบย์เซียนที่ใช้สำหรับการเลือกตัวแปรและการสร้างแบบจำลองแบบเบาบาง (sparse modeling) โดยอาศัยการกระจายตัวก่อนแบบผสมที่ประกอบด้วยสองส่วนหลัก ได้แก่ ส่วน 'สไปค์' (spike) ซึ่งมักแทนค่าสัมประสิทธิ์ที่เป็นศูนย์ และส่วน 'สลับ' (slab) ซึ่งแทนค่าสัมประสิทธิ์ที่ไม่เป็นศูนย์ ช่วยในการระบุตัวแปรที่สำคัญจากข้อมูลจำนวนมากได้อย่างมีประสิทธิภาพ

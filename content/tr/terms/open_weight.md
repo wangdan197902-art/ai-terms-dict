@@ -1,23 +1,23 @@
 ---
-title: "açık ağırlıklı"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: açık ağırlıklı
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /tr/terms/open_weight/
-date: "2026-07-18T15:32:17.749181Z"
-lastmod: "2026-07-18T16:38:07.251847Z"
+slug: open_weight
+date: '2026-07-18T15:32:17.749181Z'
+lastmod: '2026-07-18T16:38:07.251847Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Eğitilmiş parametrelerin (ağırlıkların) yayınlandığı ancak eğitim kodu ve veri setinin gizli kalabileceği yapay zeka modelleri."
+source: agnes_llm
+status: published
+language: tr
+description: Eğitilmiş parametrelerin (ağırlıkların) yayınlandığı ancak eğitim kodu
+  ve veri setinin gizli kalabileceği yapay zeka modelleri.
 ---
-
 ## Definition
 
 Açık ağırlıklı modeller, tam anlamıyla açık kaynaklı yapay zekadan farklıdır; çünkü yalnızca nihai öğrenilen parametreler yayımlanır, bunları oluşturmak için kullanılan altyapı veya veri her zaman açıklanmaz. Bu durum, kullanıcıların çıkarım yapmak için

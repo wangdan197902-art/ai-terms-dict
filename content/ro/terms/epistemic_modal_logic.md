@@ -1,23 +1,24 @@
 ---
-title: "Logică modală epistemică"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Logică modală epistemică
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /ro/terms/epistemic_modal_logic/
-date: "2026-07-18T15:56:30.516644Z"
-lastmod: "2026-07-18T17:15:09.653090Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:56:30.516644Z'
+lastmod: '2026-07-18T17:15:09.653090Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O ramură a logicii modale care utilizează sisteme formale pentru a reprezenta și raționa despre stările de cunoaștere și credință ale agenților."
+source: agnes_llm
+status: published
+language: ro
+description: O ramură a logicii modale care utilizează sisteme formale pentru a reprezenta
+  și raționa despre stările de cunoaștere și credință ale agenților.
 ---
-
 ## Definition
 
 Logica modală epistemică extinde logica clasică cu operatori care denotă ceea ce un agent știe sau crede. Este crucială în sistemele multi-agente, unde raționamentul despre cunoștințele altor participanți este esențial pentru coordonare și verificare.

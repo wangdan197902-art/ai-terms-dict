@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /vi/terms/ciml_community_portal/
 date: "2026-07-18T15:43:35.558490Z"
 lastmod: "2026-07-18T16:38:07.734917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một nền tảng trực tuyến tập trung tạo điều kiện hợp tác, chia sẻ tài nguyên và thảo luận giữa các nhà nghiên cứu và chuyên gia trong lĩnh vực Trí tuệ Tính toán và Học máy."
 ---
-
 ## Definition
 
 Cổng cộng đồng CIML đóng vai trò là trung tâm kỹ thuật số cho cộng đồng học thuật và chuyên nghiệp tập trung vào trí tuệ tính toán. Nó cung cấp quyền truy cập vào các bộ dữ liệu, mô hình đã huấn luyện trước, các bài báo nghiên cứu và các công cụ hỗ trợ phát triển.

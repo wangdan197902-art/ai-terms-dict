@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /zh/terms/elmo/
 date: "2026-07-18T11:15:33.977857Z"
 lastmod: "2026-07-18T11:44:45.492202Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "来自语言模型的嵌入，一种使用双向LSTM的深度上下文词表示方法。"
 ---
-
 ## Definition
 
 ELMo通过将输入文本通过在大型语料库上训练的双向LSTM进行处理，生成上下文敏感的词嵌入。与Word2Vec等静态嵌入不同，ELMo通过产生不同的向量表示来捕捉一词多义现象。

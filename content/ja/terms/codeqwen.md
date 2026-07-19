@@ -7,8 +7,6 @@ tags: ["AI Models", "Development Tools"]
 difficulty: 3
 weight: 1
 slug: "codeqwen"
-aliases:
-  - /ja/terms/codeqwen/
 date: "2026-07-18T11:07:57.162642Z"
 lastmod: "2026-07-18T11:44:45.077415Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "CodeQwenは、コード生成、理解、デバッグを含むソフトウェアエンジニアリングタスクに最適化された特殊な大規模言語モデルです。"
 ---
-
 ## Definition
 
 CodeQwenは、アリババクラウドによって開発されたQwenシリーズのバリアントで、プログラミング関連の活動において卓越した性能を発揮するように特別にファインチューニングされています。これは、高度なトランスフォーマーアーキテクチャを活用して、コードの構造と意味を深く理解し、効率的な生成や修正を行います。

@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /es/terms/sdk/
 date: "2026-07-18T10:32:06.954589Z"
 lastmod: "2026-07-18T11:44:44.766585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Kit de Desarrollo de Software que proporciona herramientas, bibliotecas y documentación para construir aplicaciones."
 ---
-
 ## Definition
 
 Un SDK es una colección de herramientas de desarrollo de software que permite a los creadores desarrollar aplicaciones para plataformas o servicios específicos. Para la IA, los SDKs proporcionan bibliotecas precompiladas, APIs y utilidades para...

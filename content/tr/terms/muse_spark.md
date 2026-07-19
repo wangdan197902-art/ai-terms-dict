@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /tr/terms/muse_spark/
 date: "2026-07-18T16:05:49.467233Z"
 lastmod: "2026-07-18T16:38:07.339233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Apache Spark üzerine inşa edilen, büyük kümelerde ölçeklenebilir model eğitimi sağlayan dağıtık bir derin öğrenme çerçevesidir."
 ---
-
 ## Definition
 
 Muse Spark, Apache Spark üzerinde verimli çalışacak şekilde tasarlanmış açık kaynaklı bir derin öğrenme çerçevesidir. Dağıtık kümeler üzerinde karmaşık sinir ağlarını eğitmek için geliştiricilere olanak tanır ve bunu

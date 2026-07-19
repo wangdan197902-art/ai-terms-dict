@@ -1,23 +1,23 @@
 ---
-title: "Extindere"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Extindere
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /ro/terms/scaling/
-date: "2026-07-18T15:29:21.851269Z"
-lastmod: "2026-07-18T17:15:09.603263Z"
+slug: scaling
+date: '2026-07-18T15:29:21.851269Z'
+lastmod: '2026-07-18T17:15:09.603263Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Extinderea este procesul de ajustare a dimensiunii modelului sau a volumului de date pentru a îmbunătăți capacitățile de învățare și performanța."
+source: agnes_llm
+status: published
+language: ro
+description: Extinderea este procesul de ajustare a dimensiunii modelului sau a volumului
+  de date pentru a îmbunătăți capacitățile de învățare și performanța.
 ---
-
 ## Definition
 
 Extinderea este metodologia activă de expansiune a sistemelor AI prin adăugarea mai multor straturi, neuroni sau exemple de antrenament. Include tehnici precum antrenamentul distribuit pe mai multe GPU-uri pentru a gestiona creșterea

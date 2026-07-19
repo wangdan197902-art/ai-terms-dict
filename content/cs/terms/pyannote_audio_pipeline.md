@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /cs/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:14:12.935131Z"
 lastmod: "2026-07-18T17:15:09.193259Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Pipeline Pyannote Audio je strukturovaná posloupnost zpracovatelských kroků, která kombinuje různé modely pro provedení end-to-end diářizace řečníků."
 ---
-
 ## Definition
 
 V kontextu Pyannote Audio se pipeline odkazuje na konfigurovatelný pracovní postup, který řetězí různé moduly za účelem dosažení diářizace řečníků. Typická pipeline zahrnuje fáze pro detekci hlasové aktivity (VAD), extrakci vektorových reprezentací řečníků a následnou klastrizaci těchto vektorů, aby bylo možné přiřadit úseky zvuku konkrétním mluvčím.

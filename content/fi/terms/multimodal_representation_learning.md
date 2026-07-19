@@ -1,23 +1,24 @@
 ---
-title: "Monimuotoinen esitystiedon oppiminen"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Monimuotoinen esitystiedon oppiminen
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /fi/terms/multimodal_representation_learning/
-date: "2026-07-18T16:12:10.150649Z"
-lastmod: "2026-07-18T17:15:09.437160Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:12:10.150649Z'
+lastmod: '2026-07-18T17:15:09.437160Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka oppii yhdistettyjä piirteiden esityksiä useista data-modusoinneista samanaikaisesti."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka oppii yhdistettyjä piirteiden esityksiä useista data-modusoinneista
+  samanaikaisesti.
 ---
-
 ## Definition
 
 Monimuotoinen esitystiedon oppiminen tarkoittaa mallien kouluttamista prosessoimaan ja integroimaan tietoa eri tyyppeisistä datalähteistä, kuten tekstistä, kuvista, äänestä ja videosta, yhteiseen latenssiavaruuteen.

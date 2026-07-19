@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /tr/terms/modeling/
 date: "2026-07-18T15:26:53.342492Z"
 lastmod: "2026-07-18T16:38:07.237711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Modelleme, tahmin, simülasyon veya karar verme yeteneği sağlamak amacıyla gerçek dünya sistemlerinin veya veri dağılımlarının soyut temsillerini oluşturma sürecidir."
 ---
-
 ## Definition
 
 Yapay zeka modellemesi, desenleri veriden öğrenmek üzere algoritmalar tasarlamayı, eğitmeyi ve doğrulamayı kapsayan tüm iş akışını içerir. Uygun mimarilerin seçilmesini, kayıp fonksiyonlarının tanımlanmasını ve hiperparametre optimizasyonunu içerir.

@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /th/terms/cross_modal/
 date: "2026-07-18T15:31:52.827175Z"
 lastmod: "2026-07-18T16:38:07.553587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เทคนิคที่บูรณาการและประมวลผลข้อมูลจากประเภทข้อมูลประสาทสัมผัสที่แตกต่างกัน เช่น ข้อความและรูปภาพ"
 ---
-
 ## Definition
 
 AI แบบข้ามโหมดเกี่ยวข้องกับการประมวลผลและเชื่อมโยงข้อมูลจากโหมดที่แตกต่างกัน เช่น การรวมข้อมูลภาพ เสียง และข้อความเข้าด้วยกัน ระบบเหล่านี้เรียนรู้การแสดงแทนร่วม (shared representations) เพื่อทำความเข้าใจความสัมพันธ์ข้ามแหล่งข้อมูล

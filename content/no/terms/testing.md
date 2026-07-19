@@ -1,23 +1,24 @@
 ---
-title: "Testing"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testing
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /no/terms/testing/
-date: "2026-07-18T15:38:52.976152Z"
-lastmod: "2026-07-18T16:38:06.963434Z"
+slug: testing
+date: '2026-07-18T15:38:52.976152Z'
+lastmod: '2026-07-18T16:38:06.963434Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Den systematiske prosessen med å evaluere en AI-modells ytelse og pålitelighet på ukjent data for å sikre kvalitet og sikkerhet."
+source: agnes_llm
+status: published
+language: 'no'
+description: Den systematiske prosessen med å evaluere en AI-modells ytelse og pålitelighet
+  på ukjent data for å sikre kvalitet og sikkerhet.
 ---
-
 ## Definition
 
 Testing innen AI-ingeniørfag involverer grundig vurdering av modeller mot ulike datasett for å identifisere bias, feil og robusthetsproblemer. Det inkluderer enhetstester for kodekomponenter, integrasjonstester og mer.

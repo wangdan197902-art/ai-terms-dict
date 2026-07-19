@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /hu/terms/online/
 date: "2026-07-18T15:28:49.398296Z"
 lastmod: "2026-07-18T17:15:09.725898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Azokra a gépi tanulási modellekre utal, amelyek valós időben folyamatosan tanulnak új adatsorokból anélkül, hogy nulláról kellene újra tanítani őket."
 ---
-
 ## Definition
 
 Az online tanulás egy gépi tanulási paradigma, ahol a modellt fokozatosan frissítik, ahogy az új adatpontok érkeznek, ahelyett, hogy egyszerre, egy statikus adathalmazon tanítanák. Ez a megközelítés kritikus fontosságú

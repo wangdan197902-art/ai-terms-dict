@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /ar/terms/semi_supervised_learning/
 date: "2026-07-18T16:20:18.128604Z"
 lastmod: "2026-07-18T17:15:08.546808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نهج في تعلم الآلة يستفيد من كل من البيانات المسماة وغير المسماة لتحسين دقة النموذج وقدرته على التعميم."
 ---
-
 ## Definition
 
 التعلم شبه الخاضع للإشراف هو نموذج تدريب هجين يستخدم كمية صغيرة من البيانات المسماة جنباً إلى جنب مع حجم كبير من البيانات غير المسماة. الافتراض الأساسي هو أن هيكل البيانات غير المسماة...

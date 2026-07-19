@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /zh/terms/gpt2/
 date: "2026-07-18T11:19:45.206372Z"
 lastmod: "2026-07-18T11:44:45.510718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "GPT-2 是由 OpenAI 开发的一个基于 Transformer 架构的大规模语言模型，用于文本生成和理解。"
 ---
-
 ## Definition
 
 生成式预训练 Transformer 2（GPT-2）是一个自回归语言模型，它利用 Transformer 架构来生成类人文本。它在海量的互联网文本数据集上进行了训练。

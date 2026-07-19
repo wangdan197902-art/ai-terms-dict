@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /no/terms/right_to_be_forgotten/
 date: "2026-07-18T16:21:49.443181Z"
 lastmod: "2026-07-18T16:38:07.059673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et juridisk begrep som gir individer mulighet til å be om sletting av personopplysninger holdt av organisasjoner."
 ---
-
 ## Definition
 
 Rettigheten til å bli glemt gjør det mulig for brukere å kreve fjerning av deres personlige informasjon fra databaser og AI-treningssett. Implementering av dette i maskinlæring er utfordrende fordi modeller kan ha «lært» seg dataene og ikke kan enkelt slette dem uten omtrening.

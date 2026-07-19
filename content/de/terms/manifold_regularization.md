@@ -1,23 +1,25 @@
 ---
-title: "Mannigfaltigkeitsregularisierung"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Mannigfaltigkeitsregularisierung
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /de/terms/manifold_regularization/
-date: "2026-07-18T11:23:15.844921Z"
-lastmod: "2026-07-18T11:44:44.963005Z"
+slug: manifold_regularization
+date: '2026-07-18T11:23:15.844921Z'
+lastmod: '2026-07-18T11:44:44.963005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine semiüberwachte Lernmethode, die davon ausgeht, dass Daten auf einer niedrigdimensionalen Mannigfaltigkeit liegen, und das Modell basierend auf dieser geometrischen Struktur regularisiert."
+source: agnes_llm
+status: published
+language: de
+description: Eine semiüberwachte Lernmethode, die davon ausgeht, dass Daten auf einer
+  niedrigdimensionalen Mannigfaltigkeit liegen, und das Modell basierend auf dieser
+  geometrischen Struktur regularisiert.
 ---
-
 ## Definition
 
 Die Mannigfaltigkeitsregularisierung erweitert traditionelle Regularisierungsmethoden, indem sie die intrinsische Geometrie der Datenverteilung einbezieht. Sie basiert auf der Annahme, dass hochdimensionale Datenpunkte 

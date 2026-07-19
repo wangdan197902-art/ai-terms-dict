@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /fi/terms/inferential_theory_of_learning/
 date: "2026-07-18T16:03:56.598158Z"
 lastmod: "2026-07-18T17:15:09.422438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viitekehys, jossa oppimista tarkastellaan Bayesin päättelynä, päivittämällä uskomuksia hypoteeseihin havaitun datan perusteella."
 ---
-
 ## Definition
 
 Tämä teoria väittää, että oppiminen on pohjimmiltaan todennäköisyyksien johtopäätöksentekoa. Sen sijaan, että oppija muistaisi datan ulkoa, hän ylläpitää todennäköisyysjakaumaa mahdollisten mallien tai hypoteesien yli.

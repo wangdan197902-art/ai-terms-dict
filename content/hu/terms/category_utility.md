@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /hu/terms/category_utility/
 date: "2026-07-18T15:48:56.397121Z"
 lastmod: "2026-07-18T17:15:09.761460Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A kategória-hasznosság egy matematikai mérőszám, amelyet egy kategorizálási sém hatékonyságának értékelésére használnak, az általuk az attribútumértékek tekintetében nyújtott információnyereség alapjá"
 ---
-
 ## Definition
 
 Ez a metrika kvantitatívan méri, hogy egy kategóriahalmaz mennyire jól teszi lehetővé az attribútumértékek előrejelzését ezen kategóriákon belül. Egyensúlyt teremt a kategóriák mérete és azok tartalmának homogén volta között.

@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /id/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:38:29.806665Z"
 lastmod: "2026-07-18T16:38:07.426159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Alexander Y. Tetelbaum adalah peneliti dan kontributor yang diakui di bidang kecerdasan buatan dan pembelajaran mesin."
 ---
-
 ## Definition
 
 Alexander Y. Tetelbaum adalah individu yang diakui dalam komunitas akademik dan teknis atas kontribusinya terhadap penelitian AI, khususnya dalam area yang melibatkan efisiensi algoritmik dan jaringan saraf.

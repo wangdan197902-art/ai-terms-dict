@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /cs/terms/algorithmic_inference/
 date: "2026-07-18T15:41:10.439657Z"
 lastmod: "2026-07-18T17:15:09.100565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Algoritmická inferenční fáze je proces, kterým trénovaný model strojového učení aplikuje naučené vzorce na nová, dříve neviděná data, aby provedl predikce nebo rozhodnutí."
 ---
-
 ## Definition
 
 Také známá jako predikce nebo skórování, inferenční fáze probíhá po fázi trénování modelu. Algoritmus přijímá vstupní vlastnosti, zpracovává je prostřednictvím své interní struktury (např. váhy v neuronové síti) a generuje výstupní predikce.

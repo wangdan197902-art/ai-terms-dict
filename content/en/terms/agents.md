@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /en/terms/agents/
 date: "2026-07-18T09:30:04.900932Z"
 lastmod: "2026-07-18T11:44:44.592882Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Autonomous entities that perceive their environment and take actions to achieve specific goals."
 ---
-
 ## Definition
 
 AI agents are software programs or systems capable of perceiving their surroundings through sensors (inputs), processing information, and executing actions via actuators (outputs) to achieve defined objectives. They operate autonomously within an environment, often employing reasoning, planning, and learning capabilities to navigate complex tasks, make decisions, and interact with other agents or humans effectively.

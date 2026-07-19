@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /it/terms/meta/
 date: "2026-07-18T16:10:44.061008Z"
 lastmod: "2026-07-18T17:15:08.648276Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Nell'IA, 'meta' si riferisce tipicamente all'apprendimento sull'apprendimento o ai processi di ordine superiore che governano l'adattamento e l'ottimizzazione del modello."
 ---
-
 ## Definition
 
 Il prefisso 'meta' nell'intelligenza artificiale denota un livello più elevato di astrazione, spesso coinvolgendo auto-riferimento o supervisione dei processi fondamentali. Esempi comuni includono 'meta-apprendimento', dove gli algoritmi imparano a imparare da nuovi compiti con pochi dati, ottimizzando così la loro capacità di adattamento generale.

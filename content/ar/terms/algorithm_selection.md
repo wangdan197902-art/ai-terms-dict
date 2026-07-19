@@ -1,23 +1,23 @@
 ---
-title: "اختيار الخوارزمية"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: اختيار الخوارزمية
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /ar/terms/algorithm_selection/
-date: "2026-07-18T15:42:57.580671Z"
-lastmod: "2026-07-18T17:15:08.473889Z"
+slug: algorithm_selection
+date: '2026-07-18T15:42:57.580671Z'
+lastmod: '2026-07-18T17:15:08.473889Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "اختيار الخوارزمية هو عملية اختيار طريقة حسابية مناسبة لمشكلة معينة بناءً على مقاييس الأداء والقيود المفروضة."
+source: agnes_llm
+status: published
+language: ar
+description: اختيار الخوارزمية هو عملية اختيار طريقة حسابية مناسبة لمشكلة معينة بناءً
+  على مقاييس الأداء والقيود المفروضة.
 ---
-
 ## Definition
 
 يتضمن اختيار الخوارزمية تقييم النهج الحسابية المختلفة لتحديد الأنسب لحل مهمة معينة بكفاءة. تأخذ هذه العملية في الاعتبار عوامل مثل تعقيد الوقت والمساحة.

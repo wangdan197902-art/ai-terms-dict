@@ -1,23 +1,24 @@
 ---
-title: "Matriz de Confusão"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Matriz de Confusão
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /pt/terms/confusion_matrix/
-date: "2026-07-18T14:54:05.533321Z"
-lastmod: "2026-07-18T15:51:59.473778Z"
+slug: confusion_matrix
+date: '2026-07-18T14:54:05.533321Z'
+lastmod: '2026-07-18T15:51:59.473778Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma tabela usada para descrever o desempenho de um modelo de classificação em um conjunto de dados de teste."
+source: agnes_llm
+status: published
+language: pt
+description: Uma tabela usada para descrever o desempenho de um modelo de classificação
+  em um conjunto de dados de teste.
 ---
-
 ## Definition
 
 Uma matriz de confusão é um layout de tabela específico que permite visualizar o desempenho de um algoritmo, tipicamente de aprendizado supervisionado. Ela mostra as contagens de verdadeiros positivos, verdadeiros negativos, falsos positivos e falsos negativos, fornecendo uma visão detalhada dos erros cometidos pelo modelo em cada classe.

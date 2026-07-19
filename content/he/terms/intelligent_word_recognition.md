@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /he/terms/intelligent_word_recognition/
 date: "2026-07-18T16:07:37.134163Z"
 lastmod: "2026-07-18T17:15:09.552497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שימוש באלגוריתמים של בינה מלאכותית, ובמיוחד למידה עמוקה, לזיהוי ופרשנות מדויקים של טקסט מתמונות או מקורות כתובים ביד."
 ---
-
 ## Definition
 
 זיהוי מילים אינטליגנטי מתייחס לטכנולוגיות מתקדמות של זיהוי תווים אופטי (OCR) המונעות על ידי רשתות נוירונים. הוא חורג מעבר להתאמת דפוסים פשוטה על ידי הבנת הקשר, טיפול ב-

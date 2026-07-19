@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /tr/terms/multi/
 date: "2026-07-18T15:27:13.481023Z"
 lastmod: "2026-07-18T16:38:07.238164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir sistem veya modelde birden fazla örneğin, başın veya modalliğin varlığını gösteren bir önek."
 ---
-
 ## Definition
 
 'Çoklu-' öneki, yapay zekada genellikle birkaç paralel bileşen içeren mimarileri veya süreçleri belirtmek için sıklıkla kullanılır. Örnekler arasında, modellerin farklı temsillere odaklanmasını sağlayan Çoklu Baş Dikkatini (Multi-Head Attention) içerir.

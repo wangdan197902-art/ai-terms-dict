@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /ar/terms/bayesian_programming/
 date: "2026-07-18T15:47:12.735030Z"
 lastmod: "2026-07-18T17:15:08.481012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "إطار رسمي للاستدلال الاحتمالي يمتد ليشمل الاستدلال البايزي في النماذج المعقدة ذات البنية الهرمية."
 ---
-
 ## Definition
 
 البرمجة البايزية هي إطار رياضي يعمم مبرهنة بايز للتعامل مع التبعيات الاحتمالية المعقدة والمتعددة الطبقات. تتيح للمطورين تعريف نماذج هرمية حيث يمكن نمذجة الاعتمادات الشرطية بين المتغيرات بشكل منهجي، مما يسمح بالاستدلال تحت ظروف عدم اليقين المعقدة.

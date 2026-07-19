@@ -1,23 +1,24 @@
 ---
-title: "Rozmiar partii"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Rozmiar partii
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /pl/terms/batch_size/
-date: "2026-07-18T15:43:54.204564Z"
-lastmod: "2026-07-18T17:15:08.849868Z"
+slug: batch_size
+date: '2026-07-18T15:43:54.204564Z'
+lastmod: '2026-07-18T17:15:08.849868Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Liczba przykładów treningowych wykorzystywanych w jednej iteracji algorytmu stochastycznego spadku gradientu."
+source: agnes_llm
+status: published
+language: pl
+description: Liczba przykładów treningowych wykorzystywanych w jednej iteracji algorytmu
+  stochastycznego spadku gradientu.
 ---
-
 ## Definition
 
 Rozmiar partii jest krytycznym hiperparametrem, który określa, ile próbek jest przetwarzanych przed aktualizacją wewnętrznych parametrów modelu. Większy rozmiar partii dostarcza bardziej dokładnej estymacji

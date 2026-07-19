@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /de/terms/circuit/
 date: "2026-07-18T11:07:28.137906Z"
 lastmod: "2026-07-18T11:44:44.917436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Schaltung bezeichnet die physische Hardware-Infrastruktur, einschließlich Chips und Verbindungsleitungen, die Rechenaufgaben ausführt."
 ---
-
 ## Definition
 
 Im Kontext der KI bezeichnet eine Schaltung typischerweise die zugrunde liegende Hardware-Architektur wie GPUs, TPUs oder neuromorphe Chips, die entwickelt wurden, um Matrixoperationen und parallele Verarbeitung zu beschleunigen. Diese

@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /fi/terms/memory/
 date: "2026-07-18T15:37:10.432260Z"
 lastmod: "2026-07-18T17:15:09.372095Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kyky tallentaa, hakea ja hyödyntää tietoa vuorovaikutusten välillä kontekstin ylläpitämiseksi ja suorituskyvyn parantamiseksi ajan myötä."
 ---
-
 ## Definition
 
 Tekoälyssä muisti viittaa mekanismeihin, jotka mahdollistavat mallien säilyttää tietoa yksittäisen päättelyaskeleen yli. Tämä sisältää lyhytaikaisen työmuistin välittömän kontekstin hallintaan sekä pitkän aikavälin muistin historiallisen tiedon tallentamiseen.

@@ -1,23 +1,24 @@
 ---
-title: "Pelatihan Terdistribusi"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Pelatihan Terdistribusi
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /id/terms/distributed_training/
-date: "2026-07-18T15:34:02.694115Z"
-lastmod: "2026-07-18T16:38:07.412544Z"
+slug: distributed_training
+date: '2026-07-18T15:34:02.694115Z'
+lastmod: '2026-07-18T16:38:07.412544Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Metode melatih model pembelajaran mesin dengan membagi data atau komputasi di across beberapa perangkat atau server."
+source: agnes_llm
+status: published
+language: id
+description: Metode melatih model pembelajaran mesin dengan membagi data atau komputasi
+  di across beberapa perangkat atau server.
 ---
-
 ## Definition
 
 Pelatihan Terdistribusi mempercepat konvergensi model dengan mem paralelkan komputasi di atas beberapa GPU atau node. Tekniknya meliputi paralelisme data, di mana setiap pekerja memproses subset data, dan paralelisme model.

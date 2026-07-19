@@ -1,23 +1,24 @@
 ---
-title: "Hybridihaku"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Hybridihaku
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /fi/terms/hybrid_search/
-date: "2026-07-18T16:02:30.582767Z"
-lastmod: "2026-07-18T17:15:09.420146Z"
+slug: hybrid_search
+date: '2026-07-18T16:02:30.582767Z'
+lastmod: '2026-07-18T17:15:09.420146Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Hakustrategia, joka yhdistää semanttisen vektorihakon perinteiseen avainsanoihin perustuvaan indeksointiin tarkkuuden ja merkityksellisyyden parantamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Hakustrategia, joka yhdistää semanttisen vektorihakon perinteiseen avainsanoihin
+  perustuvaan indeksointiin tarkkuuden ja merkityksellisyyden parantamiseksi.
 ---
-
 ## Definition
 
 Hybridihaku integroi kaksi erilaista hakumenetelmää: tiheän vektorihakon, joka sieppaa semanttisen merkityksen ja kontekstin, sekä harvan vektorin (avainsana) haun, joka vastaa tarkkoja termejä. Hyödyntämällä...

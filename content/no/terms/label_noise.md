@@ -1,23 +1,24 @@
 ---
-title: "Merkestøy"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Merkestøy
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /no/terms/label_noise/
-date: "2026-07-18T16:01:53.745745Z"
-lastmod: "2026-07-18T16:38:07.017275Z"
+slug: label_noise
+date: '2026-07-18T16:01:53.745745Z'
+lastmod: '2026-07-18T16:38:07.017275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Feil eller inkonsekvenser i målmerkene i et datasett brukt til trening av overvåket maskinlæring."
+source: agnes_llm
+status: published
+language: 'no'
+description: Feil eller inkonsekvenser i målmerkene i et datasett brukt til trening
+  av overvåket maskinlæring.
 ---
-
 ## Definition
 
 Merkestøy refererer til avvik mellom sanne klasseremerker for datainstanser og de merkene som er angitt i treningsdatasettet. Dette kan oppstå på grunn av feil fra menneskelige annotatører, tvetydige datapunkter, eller systematiske feil i datainnsamlingsprosessen, noe som kan redusere modellens ytelse hvis ikke håndtert.

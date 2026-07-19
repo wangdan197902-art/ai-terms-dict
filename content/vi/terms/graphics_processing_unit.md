@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /vi/terms/graphics_processing_unit/
 date: "2026-07-18T15:55:54.183962Z"
 lastmod: "2026-07-18T16:38:07.763280Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mạch điện tử chuyên dụng ban đầu được thiết kế để thao tác và hiển thị hình ảnh nhanh chóng, nay được sử dụng rộng rãi cho tính toán song song trong AI."
 ---
-
 ## Definition
 
 GPU là một bộ xử lý hiệu năng cao ban đầu được phát triển để xử lý các tác vụ hiển thị đồ họa. Khác với CPU có ít nhân được tối ưu hóa cho xử lý tuần tự, GPU chứa hàng nghìn nhân nhỏ hơn, cho phép thực hiện nhiều phép tính cùng lúc, điều này rất hữu ích cho các tác vụ học sâu và mô phỏng vật lý phức tạp.

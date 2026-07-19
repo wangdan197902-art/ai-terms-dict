@@ -1,23 +1,24 @@
 ---
-title: "Leave-one-out krydsvalidering"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Leave-one-out krydsvalidering
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /da/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:04:42.129358Z"
-lastmod: "2026-07-18T17:15:09.304790Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:04:42.129358Z'
+lastmod: '2026-07-18T17:15:09.304790Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En streng resamplingsmetode, hvor modellen trænes på alle data bortset fra én prøve og testes på denne enkelt udeladte prøve, gentaget for hvert datapunkt."
+source: agnes_llm
+status: published
+language: da
+description: En streng resamplingsmetode, hvor modellen trænes på alle data bortset
+  fra én prøve og testes på denne enkelt udeladte prøve, gentaget for hvert datapunkt.
 ---
-
 ## Definition
 
 Leave-one-out krydsvalidering (LOOCV) er et specifikt tilfælde af k-fold krydsvalidering, hvor k svarer til antallet af prøver i datasættet. Det giver et næsten ubiasserede estimat af modellens ydeevne.

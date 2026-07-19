@@ -1,23 +1,24 @@
 ---
-title: "การสุ่มตัวอย่างแบบเคส-คอนโทรลเฉพาะที่"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: การสุ่มตัวอย่างแบบเคส-คอนโทรลเฉพาะที่
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /th/terms/local_case_control_sampling/
-date: "2026-07-18T16:03:40.682231Z"
-lastmod: "2026-07-18T16:38:07.627375Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:03:40.682231Z'
+lastmod: '2026-07-18T16:38:07.627375Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการสุ่มตัวอย่างเชิงลบที่เลือกตัวอย่างเชิงลบที่ยาก (hard negatives) จากบริเวณใกล้เคียงกับตัวอย่างบวกในพื้นที่ฝังตัว (embedding space)"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการสุ่มตัวอย่างเชิงลบที่เลือกตัวอย่างเชิงลบที่ยาก (hard negatives)
+  จากบริเวณใกล้เคียงกับตัวอย่างบวกในพื้นที่ฝังตัว (embedding space)
 ---
-
 ## Definition
 
 การสุ่มตัวอย่างแบบเคส-คอนโทรลเฉพาะที่ เป็นกลยุทธ์ที่ใช้เป็นหลักในการฝึกโมเดลการเรียนรู้แบบคอนทราสต์ (contrastive learning) หรือระบบแนะนำสินค้า แทนที่จะสุ่มเลือกตัวอย่างเชิงลบแบบสุ่ม มันจะระบุ 'ตัวอย่างเชิงลบที่ยาก' ซึ่งคือตัวอย่างที่คล้ายกับตัวอย่างบวกมากที่สุดในพื้นที่ฝังตัว เพื่อเพิ่มความแม่นยำของโมเดล

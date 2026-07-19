@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /fr/terms/mxfp4/
-date: "2026-07-18T11:31:08.858405Z"
-lastmod: "2026-07-18T11:44:45.299188Z"
+slug: mxfp4
+date: '2026-07-18T11:31:08.858405Z'
+lastmod: '2026-07-18T11:44:45.299188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "MXFP4 est un format à virgule flottante de précision mixte optimisé pour la multiplication matricielle efficace dans les accélérateurs matériels d'IA."
+source: agnes_llm
+status: published
+language: fr
+description: MXFP4 est un format à virgule flottante de précision mixte optimisé pour
+  la multiplication matricielle efficace dans les accélérateurs matériels d'IA.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) est un format de type de données spécialisé introduit pour optimiser les performances et réduire l'utilisation de la bande passante mémoire dans les charges de travail d'IA. En permettant des opérations de précision mixte

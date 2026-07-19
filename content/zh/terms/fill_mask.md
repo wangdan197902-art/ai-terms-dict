@@ -1,23 +1,23 @@
 ---
-title: "掩码填充"
-term_id: "fill_mask"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "pretraining", "transformers"]
+title: 掩码填充
+term_id: fill_mask
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- pretraining
+- transformers
 difficulty: 2
 weight: 1
-slug: "fill_mask"
-aliases:
-  - /zh/terms/fill_mask/
-date: "2026-07-18T11:17:25.495504Z"
-lastmod: "2026-07-18T11:44:45.500068Z"
+slug: fill_mask
+date: '2026-07-18T11:17:25.495504Z'
+lastmod: '2026-07-18T11:44:45.500068Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种自然语言处理任务，模型根据上下文预测句子中缺失的标记。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种自然语言处理任务，模型根据上下文预测句子中缺失的标记。
 ---
-
 ## Definition
 
 掩码填充是 BERT 等基于 Transformer 模型中使用的一种基本预训练目标。该过程涉及掩盖文本序列中的随机标记，并训练模型预测被掩盖的原始标记，从而学习语言的深层语义表示。

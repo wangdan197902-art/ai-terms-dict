@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /no/terms/time/
 date: "2026-07-18T15:30:52.183942Z"
 lastmod: "2026-07-18T16:38:06.948509Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Inne i AI refererer tid til den tidsmessige dimensjonen som brukes til å sekvensere hendelser, spore tilstandsendringer og måle latens eller varighet i modelloperasjoner."
 ---
-
 ## Definition
 
 Tid er et grunnleggende begrep i kunstig intelligens, spesielt i sekvensmodellering og sanntidssystemer. Den fungerer som aksen langs hvilken datapunkter ordnes, noe som gjør det mulig for modeller som Rekurrente Neuronettverk (RNN) å behandle data over tid.

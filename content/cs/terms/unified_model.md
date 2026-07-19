@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /cs/terms/unified_model/
 date: "2026-07-18T16:21:58.899694Z"
 lastmod: "2026-07-18T17:15:09.209466Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Architektura AI navržená k řešení více úloh nebo modalit v rámci jednoho rámce."
 ---
-
 ## Definition
 
 Unifikovaný model označuje systém umělé inteligence schopný vykonávat různé odlišné úkoly, jako je generování textu, rozpoznávání obrazu nebo syntéza kódu, aniž by bylo nutné používat samostatné speciální...

@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /de/terms/smart_object/
 date: "2026-07-18T11:33:34.460485Z"
 lastmod: "2026-07-18T11:44:44.986086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine physische Entität, die mit Sensoren, Aktoren und Konnektivität ausgestattet ist, um Daten zu sammeln und intelligent mit ihrer Umgebung zu interagieren."
 ---
-
 ## Definition
 
 Smart Objects sind Komponenten des Internet of Things (IoT), die über eindeutige Identifikatoren verfügen und die Fähigkeit besitzen, Daten über ein Netzwerk zu übertragen, ohne direkte Mensch-zu-Mensch- oder Mensch-zu-Computer-Interaktion zu erfordern.

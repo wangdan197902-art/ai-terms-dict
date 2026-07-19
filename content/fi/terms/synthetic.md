@@ -1,23 +1,23 @@
 ---
-title: "Synteettinen"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Synteettinen
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /fi/terms/synthetic/
-date: "2026-07-18T15:31:40.344117Z"
-lastmod: "2026-07-18T17:15:09.360647Z"
+slug: synthetic
+date: '2026-07-18T15:31:40.344117Z'
+lastmod: '2026-07-18T17:15:09.360647Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Synteettinen viittaa algoritmeilla keinotekoisesti luotuun dataan tai sisältöön sen sijaan, että se olisi kerätty luonnollisista lähteistä."
+source: agnes_llm
+status: published
+language: fi
+description: Synteettinen viittaa algoritmeilla keinotekoisesti luotuun dataan tai
+  sisältöön sen sijaan, että se olisi kerätty luonnollisista lähteistä.
 ---
-
 ## Definition
 
 Tekoälyn yhteydessä synteettinen data on keinotekoisesti luotua tietoa, joka jäljittelee todellisen maailman dataa mutta ei sisällä todellisia henkilökohtaisia tai arkaluonteisia tietoja. Se on ratkaisevan tärkeää koneoppimismallien kouluttamisessa, kun todellista dataa ei ole saatavilla tai sen käyttö on rajoitettua...

@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /cs/terms/csm/
 date: "2026-07-18T15:50:05.820108Z"
 lastmod: "2026-07-18T17:15:09.115087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Dvojznačná zkratka, která obvykle označuje Kontextové modely řeči nebo Správu cloudu pro zabezpečení v konkrétních technických doménách, bez univerzální definice v obecném AI."
 ---
-
 ## Definition
 
 V kontextu AI a technologie není 'CSM' univerzálně standardizovaným termínem jako 'CNN' nebo 'RNN'. Nejčastěji znamená Kontextové modely řeči ve výzkumu zpracování řeči, odkazující na modely využívající kontext pro lepší porozumění mluvenému slovu.

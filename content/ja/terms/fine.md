@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /ja/terms/fine/
 date: "2026-07-18T10:51:02.478274Z"
 lastmod: "2026-07-18T11:44:45.008968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ファインチューニングとは、追加データを用いて事前学習済みAIモデルを特定のタスクやドメインに適応させるプロセスを指します。"
 ---
-
 ## Definition
 
 ファインチューニングは、大規模データセットで訓練された汎用モデルを取得し、特定のタスクに対する性能を向上させるために、より小さく専門的なデータセットでさらに訓練を行うことを含みます。この手法は転移学習を活用します。

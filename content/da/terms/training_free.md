@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /da/terms/training_free/
 date: "2026-07-18T15:33:23.344101Z"
 lastmod: "2026-07-18T17:15:09.241374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Metoder, der tilpasser eller forbedrer modeller uden at udføre gradientbaserede parameteropdateringer."
 ---
-
 ## Definition
 
 Træningsfrie tilgange henviser til teknikker, der modificerer modeladfærd eller output uden at opdatere de underliggende vægte via bagudpropagering. Disse metoder udnytter ofte prompt-engineering, funktionsekstraktion eller eksterne hukommelsesmekanismer til at opnå tilpasning uden omkostninger forbundet med gradientberegning.

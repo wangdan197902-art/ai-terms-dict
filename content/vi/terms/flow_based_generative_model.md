@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /vi/terms/flow_based_generative_model/
 date: "2026-07-18T15:53:34.400108Z"
 lastmod: "2026-07-18T16:38:07.758293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một lớp các mô hình sinh sử dụng các phép biến đổi khả nghịch để ánh xạ các phân phối đơn giản sang các phân phối dữ liệu phức tạp."
 ---
-
 ## Definition
 
 Các mô hình sinh dựa trên dòng chảy xây dựng các phân phối xác suất phức tạp bằng cách áp dụng một loạt các phép biến đổi khả nghịch và có đạo hàm lên một phân phối cơ sở đơn giản, chẳng hạn như phân phối Gauss. Vì các phép biến đổi này là khả nghịch, nên mật độ xác suất có thể được tính toán chính xác.

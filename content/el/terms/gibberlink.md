@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /el/terms/gibberlink/
 date: "2026-07-18T16:09:41.371159Z"
 lastmod: "2026-07-18T17:15:09.912866Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Το Gibberlink δεν είναι αναγνωρισμένος τυποποιημένος όρος στη βιβλιογραφία της τεχνητής νοημοσύνης."
 ---
-
 ## Definition
 
 Δεν υπάρχει καθιερωμένη έννοια, τεχνολογία ή μεθοδολογία γνωστή ως «Gibberlink» στον χώρο της τεχνητής νοημοσύνης, της μηχανικής μάθησης ή των υπολογιστικών επιστημών. Μπορεί να πρόκειται για λάθος ορθογραφίας ή φανταστική ορολογία.

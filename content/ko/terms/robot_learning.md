@@ -1,23 +1,23 @@
 ---
-title: "로봇 학습(Robot learning)"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: 로봇 학습(Robot learning)
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /ko/terms/robot_learning/
-date: "2026-07-18T16:13:33.743046Z"
-lastmod: "2026-07-18T16:38:06.904902Z"
+slug: robot_learning
+date: '2026-07-18T16:13:33.743046Z'
+lastmod: '2026-07-18T16:38:06.904902Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "로봇이 경험과 환경 상호작용을 통해 기술을 습득하고 성능을 개선할 수 있도록 하는 로봇공학의 하위 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 로봇이 경험과 환경 상호작용을 통해 기술을 습득하고 성능을 개선할 수 있도록 하는 로봇공학의 하위 분야입니다.
 ---
-
 ## Definition
 
 로봇 학습은 머신러닝 기술을 활용하여 로봇 에이전트가 작업을 자율적으로 수행하도록 훈련하는 것을 포함합니다. 사전 프로그래밍된 동작과 달리 이러한 시스템은 동적인 환경에 적응하여 성능을 향상시킵니다.

@@ -1,23 +1,24 @@
 ---
-title: "Impacto de la inteligencia artificial en el lugar de trabajo"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: Impacto de la inteligencia artificial en el lugar de trabajo
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /es/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T11:13:45.019645Z"
-lastmod: "2026-07-18T11:44:44.866753Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T11:13:45.019645Z'
+lastmod: '2026-07-18T11:44:44.866753Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El efecto de las tecnologías de IA en las estructuras de empleo, roles laborales, productividad y colaboración humano-máquina en entornos profesionales."
+source: agnes_llm
+status: published
+language: es
+description: El efecto de las tecnologías de IA en las estructuras de empleo, roles
+  laborales, productividad y colaboración humano-máquina en entornos profesionales.
 ---
-
 ## Definition
 
 Este concepto abarca la influencia transformadora de la IA en el mercado laboral, incluyendo la automatización de tareas rutinarias, la creación de nuevas categorías de empleo y los cambios en las habilidades requeridas. La IA mejora la productividad pero también plantea desafíos éticos y sociales sobre la desplazabilidad laboral.

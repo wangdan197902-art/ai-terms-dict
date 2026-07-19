@@ -1,23 +1,24 @@
 ---
-title: "Sobreajuste"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Sobreajuste
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /pt/terms/overfitting/
-date: "2026-07-18T14:45:14.667413Z"
-lastmod: "2026-07-18T15:51:59.452884Z"
+slug: overfitting
+date: '2026-07-18T14:45:14.667413Z'
+lastmod: '2026-07-18T15:51:59.452884Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um erro de modelagem em que um algoritmo de aprendizado de máquina captura ruído em vez do sinal subjacente, prejudicando a generalização."
+source: agnes_llm
+status: published
+language: pt
+description: Um erro de modelagem em que um algoritmo de aprendizado de máquina captura
+  ruído em vez do sinal subjacente, prejudicando a generalização.
 ---
-
 ## Definition
 
 O sobreajuste ocorre quando um modelo aprende os dados de treinamento excessivamente bem, incluindo seu ruído aleatório e valores atípicos, resultando em excelente desempenho nos dados de treinamento, mas em desempenho ruim em novos dados de teste não vistos

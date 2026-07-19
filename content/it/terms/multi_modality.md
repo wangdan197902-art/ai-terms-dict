@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /it/terms/multi_modality/
 date: "2026-07-18T16:11:55.500256Z"
 lastmod: "2026-07-18T17:15:08.651239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La Multi Modalità è il concetto più ampio o il campo di studio relativo all'utilizzo di diversi tipi di dati distinti all'interno delle architetture di apprendimento automatico."
 ---
-
 ## Definition
 
 La multi modalità rappresenta il quadro architetturale e teorico che consente ai modelli di intelligenza artificiale di gestire flussi di dati eterogenei. Coinvolge la progettazione di reti neurali in grado di accettare input da varie

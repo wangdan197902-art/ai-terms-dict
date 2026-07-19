@@ -1,23 +1,25 @@
 ---
-title: "auto-supervisé"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: auto-supervisé
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /fr/terms/self_supervised/
-date: "2026-07-18T10:58:26.711318Z"
-lastmod: "2026-07-18T11:44:45.180841Z"
+slug: self_supervised
+date: '2026-07-18T10:58:26.711318Z'
+lastmod: '2026-07-18T11:44:45.180841Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'apprentissage auto-supervisé est une technique où le modèle génère ses propres étiquettes à partir des données d'entrée pour apprendre des représentations sans annotation humaine."
+source: agnes_llm
+status: published
+language: fr
+description: L'apprentissage auto-supervisé est une technique où le modèle génère
+  ses propres étiquettes à partir des données d'entrée pour apprendre des représentations
+  sans annotation humaine.
 ---
-
 ## Definition
 
 L'apprentissage auto-supervisé est un sous-ensemble de l'apprentissage automatique où le signal de supervision est dérivé automatiquement des données elles-mêmes, éliminant ainsi le besoin d'étiquetage manuel. Le modèle résout généralement

@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /ro/terms/golog/
 date: "2026-07-18T15:59:14.165329Z"
 lastmod: "2026-07-18T17:15:09.658248Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un limbaj de programare de nivel înalt bazat pe calculul situațiilor pentru specificarea acțiunilor și raționamentul despre domenii dinamice."
 ---
-
 ## Definition
 
 GOLOG este un limbaj de programare bazat pe logică, utilizat în principal în inteligența artificială pentru planificare și acționare în medii dinamice. Construit pe baza calculului situațiilor lui Reiter, permite dezvoltatorilor să specifice acțiuni și constrângeri într-un mod declarativ, facilitând generarea automată a planurilor de execuție.

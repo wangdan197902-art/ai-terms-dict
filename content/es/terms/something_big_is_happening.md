@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /es/terms/something_big_is_happening/
 date: "2026-07-18T11:08:15.391604Z"
 lastmod: "2026-07-18T11:44:44.855270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una frase coloquial utilizada a menudo en los medios para describir avances significativos o rápidos rápidos en el campo de la IA."
 ---
-
 ## Definition
 
 Este término no es una definición técnica, sino un marcador cultural que se refiere a períodos de intensa innovación, interés público o cambios de paradigma en la inteligencia artificial. Típicamente acompaña el lanzamiento de modelos grandes, hitos en rendimiento o debates éticos intensificados, reflejando la percepción pública y mediática de que la tecnología ha alcanzado un punto de inflexión crítico.

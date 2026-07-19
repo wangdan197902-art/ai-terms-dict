@@ -1,23 +1,25 @@
 ---
-title: "Aktif öğrenme"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Aktif öğrenme
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /tr/terms/active_learning/
-date: "2026-07-18T15:39:45.182569Z"
-lastmod: "2026-07-18T16:38:07.269553Z"
+slug: active_learning
+date: '2026-07-18T15:39:45.182569Z'
+lastmod: '2026-07-18T16:38:07.269553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Algoritmanın yeni veri noktalarını etiketlemek için kullanıcıdan veya bir uzman sistemden (orakul) seçici olarak sorgu yaptığı, eğitim sürecini optimize eden bir makine öğrenmesi stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Algoritmanın yeni veri noktalarını etiketlemek için kullanıcıdan veya
+  bir uzman sistemden (orakul) seçici olarak sorgu yaptığı, eğitim sürecini optimize
+  eden bir makine öğrenmesi stratejisi.
 ---
-
 ## Definition
 
 Aktif öğrenme, modele en bilgilendirici örnekleri insan etiketleme için seçme imkanı tanıyarak gereken etiketli veri miktarını azaltır. Rastgele örnekleri pasif olarak almak yerine, algoritma hangi verilerin modele en çok şey öğreteceğini belirler ve sadece bunları etiketlemeyi ister.

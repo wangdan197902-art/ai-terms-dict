@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /fi/terms/ai_addiction/
 date: "2026-07-18T15:39:31.208301Z"
 lastmod: "2026-07-18T17:15:09.377441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Psykologinen riippuvuus tekoälyjärjestelmiin vuorovaikuttamisesta, mikä johtaa pakonomaiseen käyttöön."
 ---
-
 ## Definition
 
 Tekoälyriippuvuus kuvaa käyttäytymishäiriötä, jossa yksilöt kehittävät pakonomaisen luottamuksen tekoälypohjaiseen vuorovaikutukseen, kuten chatboteihin tai sosiaalisen median algoritmeihin. Tämä riippuvuus johtuu usein dopamiinin

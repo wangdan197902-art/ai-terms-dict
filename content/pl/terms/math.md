@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /pl/terms/math/
 date: "2026-07-18T16:06:08.628390Z"
 lastmod: "2026-07-18T17:15:08.896131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Podstawowa disciplina obejmująca liczby, struktury, przestrzeń i zmiany, niezbędna do formułowania i rozwiązywania problemów sztucznej inteligencji."
 ---
-
 ## Definition
 
 W kontekście sztucznej inteligencji matematyka dostarcza teoretycznego ram dla projektowania i analizy algorytmów. Kluczowe działy obejmują algebrę liniową do reprezentacji danych, rachunek różniczkowy do optymalizacji i propagacji wstecznej, teorię prawdopodobieństwa do modelowania niepewności oraz statystykę do wnioskowania na podstawie danych.

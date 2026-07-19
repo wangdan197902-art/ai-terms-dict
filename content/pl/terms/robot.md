@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /pl/terms/robot/
 date: "2026-07-18T15:29:10.103838Z"
 lastmod: "2026-07-18T17:15:08.819605Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Programowalna maszyna zdolna do automatycznego wykonywania złożonych działań."
 ---
-
 ## Definition
 
 Robot to autonomiczne lub półautonomiczne urządzenie mechaniczne zaprojektowane do wykonywania zadań samodzielnie lub pod zdalnym sterowaniem. Zazwyczaj składa się z czujników służących do percepcji środowiska, aktuatorów oraz systemu sterowania.

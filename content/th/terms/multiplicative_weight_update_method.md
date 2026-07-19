@@ -1,23 +1,24 @@
 ---
-title: "วิธีการอัปเดตน้ำหนักแบบคูณ"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: วิธีการอัปเดตน้ำหนักแบบคูณ
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /th/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:06:39.780451Z"
-lastmod: "2026-07-18T16:38:07.634806Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:06:39.780451Z'
+lastmod: '2026-07-18T16:38:07.634806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อัลกอริทึมแบบวนซ้ำที่อัปเดตน้ำหนักแบบคูณโดยอิงจากผลตอบรับเพื่อลดความเสียใจ (regret)"
+source: agnes_llm
+status: published
+language: th
+description: อัลกอริทึมแบบวนซ้ำที่อัปเดตน้ำหนักแบบคูณโดยอิงจากผลตอบรับเพื่อลดความเสียใจ
+  (regret)
 ---
-
 ## Definition
 
 วิธีการอัปเดตน้ำหนักแบบคูณเป็นอัลกอริทึมการเรียนรู้แบบออนไลน์พื้นฐานที่ใช้ในการตัดสินใจในสภาพแวดล้อมที่มีความไม่แน่นอน โดยจะรักษาค่าน้ำหนักสำหรับกลยุทธ์หรือผู้เชี่ยวชาญที่แตกต่างกันไว้

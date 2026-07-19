@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /en/terms/asr_complete/
 date: "2026-07-18T09:44:40.708066Z"
 lastmod: "2026-07-18T11:44:44.638011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "ASR-complete describes a speech recognition system that achieves human-level accuracy on standardized benchmark datasets."
 ---
-
 ## Definition
 
 The term ASR-complete signifies that an Automatic Speech Recognition system has reached a level of performance comparable to human transcribers on specific, well-defined tasks and datasets. This milestone indicates that the error rate is sufficiently low for many practical applications, though it may not yet cover all edge cases, accents, or noisy environments found in real-world scenarios. It represents a significant achievement in natural language processing and audio signal processing.

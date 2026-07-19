@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /zh/terms/something_big_is_happening/
 date: "2026-07-18T11:34:21.076315Z"
 lastmod: "2026-07-18T11:44:45.555313Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个通俗短语，媒体常用其描述AI领域的重大突破或快速进展。"
 ---
-
 ## Definition
 
 该术语并非技术定义，而是一个文化标记，指代人工智能领域中创新密集、公众兴趣高涨或范式转变的时期。它通常伴随着重大技术发布、突破性研究成果或社会对AI潜力认知的显著变化，反映了公众和媒体对技术进步的敏感反应。

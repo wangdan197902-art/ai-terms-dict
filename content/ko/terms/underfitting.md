@@ -1,23 +1,23 @@
 ---
-title: "과소적합(Underfitting)"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: 과소적합(Underfitting)
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /ko/terms/underfitting/
-date: "2026-07-18T16:19:19.545503Z"
-lastmod: "2026-07-18T16:38:06.917822Z"
+slug: underfitting
+date: '2026-07-18T16:19:19.545503Z'
+lastmod: '2026-07-18T16:38:06.917822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "기계 학습 모델이 학습 데이터의 근본적인 경향을 포착하지 못하는 상태입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 기계 학습 모델이 학습 데이터의 근본적인 경향을 포착하지 못하는 상태입니다.
 ---
-
 ## Definition
 
 과소적합은 통계 모델이나 기계 학습 알고리즘이 입력에서 출력으로의 함수 매핑을 정확하게 근사할 수 없을 때 발생합니다. 이는 일반적으로 모델이 학습 데이터의 복잡성을 충분히 반영하기에는 너무 단순할 때 일어납니다.

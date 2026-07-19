@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /th/terms/multi_armed_bandit/
 date: "2026-07-18T16:06:20.589899Z"
 lastmod: "2026-07-18T16:38:07.634186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ปัญหามัลติอาร์มด์แบนดิตเป็นปัญหาคลาสสิกในทฤษฎีความน่าจะเป็นและการเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ที่จำลองการแลกเปลี่ยนระหว่างการสำรวจและการใช้ประโยชน์"
 ---
-
 ## Definition
 
 ปัญหามัลติอาร์มด์แบนดิตแสดงให้เห็นถึงสถานการณ์ที่ตัวแทน (agent) ต้องตัดสินใจว่าจะยึดติดกับตัวเลือกที่ให้ผลตอบแทนที่รู้จักดี (exploitation) หรือลองตัวเลือกใหม่ๆ เพื่อค้นพบผลตอบแทนที่ดีกว่าที่อาจเกิดขึ้น

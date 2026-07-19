@@ -1,23 +1,24 @@
 ---
-title: "التعرف على الأنماط"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: التعرف على الأنماط
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /ar/terms/pattern_recognition/
-date: "2026-07-18T16:15:50.140286Z"
-lastmod: "2026-07-18T17:15:08.535882Z"
+slug: pattern_recognition
+date: '2026-07-18T16:15:50.140286Z'
+lastmod: '2026-07-18T17:15:08.535882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التحديد الآلي للانتظاميات والهياكل داخل البيانات باستخدام الأساليب الإحصائية وتعلم الآلة."
+source: agnes_llm
+status: published
+language: ar
+description: التحديد الآلي للانتظاميات والهياكل داخل البيانات باستخدام الأساليب الإحصائية
+  وتعلم الآلة.
 ---
-
 ## Definition
 
 التعرف على الأنماط هو فرع من فروع الذكاء الاصطناعي والإحصاء يهتم بتحديد الانتظاميات في البيانات. يتضمن تصنيف بيانات الإدخال إلى فئات محددة مسبقاً بناءً على السمات المستخرجة منها.

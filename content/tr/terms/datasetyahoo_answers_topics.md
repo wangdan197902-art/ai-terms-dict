@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /tr/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:48:43.523243Z"
 lastmod: "2026-07-18T16:38:07.295367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kullanıcı tarafından oluşturulan soru ve cevapları belirli konulara göre kategorize eden, semantik eşleştirme ve sınıflandırma için Yahoo Answers'tan türetilmiş bir veri seti."
 ---
-
 ## Definition
 
 Yahoo Answers Topics veri seti, daha büyük Yahoo Answers arşivinin, soru ve cevapların belirgin konu kategorilerine göre organize edildiği bir alt kümesidir. Metin sınıflandırma ve semantik benzerlik analizi gibi görevlerde yaygın olarak kullanılır.

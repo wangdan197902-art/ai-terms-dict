@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /zh/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T11:12:24.479765Z"
 lastmod: "2026-07-18T11:44:45.473845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "该领域结合统计分析和机器学习，从数据中提取见解并预测未来事件或行为。"
 ---
-
 ## Definition
 
 数据科学涉及从结构和非结构化数据中提取知识的跨学科过程，而预测分析则专注于利用历史数据来预测未来……

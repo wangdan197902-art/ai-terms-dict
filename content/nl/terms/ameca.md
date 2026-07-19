@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /nl/terms/ameca/
 date: "2026-07-18T15:42:12.631672Z"
 lastmod: "2026-07-18T17:15:08.716319Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een zeer geavanceerde humanoïde robot ontwikkeld door Engineered Arts, bekend om zijn uitzonderlijke gezichtsuitdrukkingen en menselijke interacties."
 ---
-
 ## Definition
 
 Ameca is een state-of-the-art humanoïde robot met meer dan 40 vrijheidsgraden in zijn gezicht alleen, wat subtiele en realistische emotionele uitdrukkingen mogelijk maakt. Ontworpen om mens-robotinteractie te bestuderen.

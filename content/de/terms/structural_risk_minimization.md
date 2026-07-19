@@ -1,23 +1,25 @@
 ---
-title: "Strukturelle Risikominimierung"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Strukturelle Risikominimierung
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /de/terms/structural_risk_minimization/
-date: "2026-07-18T11:34:51.892116Z"
-lastmod: "2026-07-18T11:44:44.988898Z"
+slug: structural_risk_minimization
+date: '2026-07-18T11:34:51.892116Z'
+lastmod: '2026-07-18T11:44:44.988898Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Prinzip im statistischen Lernen, das darauf abzielt, die obere Schranke des Verallgemeinerungsfehlers durch ein Gleichgewicht zwischen Modellgüte und Komplexität zu minimieren."
+source: agnes_llm
+status: published
+language: de
+description: Ein Prinzip im statistischen Lernen, das darauf abzielt, die obere Schranke
+  des Verallgemeinerungsfehlers durch ein Gleichgewicht zwischen Modellgüte und Komplexität
+  zu minimieren.
 ---
-
 ## Definition
 
 Die strukturelle Risikominimierung (SRM) ist eine Methode zur Minimierung des erwarteten Risikos durch Kontrolle der Modellkomplexität, um Overfitting zu verhindern. Sie erweitert die empirische Risikominimierung um einen Regularisierungster

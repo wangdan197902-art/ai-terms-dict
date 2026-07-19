@@ -1,23 +1,24 @@
 ---
-title: "Încorporare spațială"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Încorporare spațială
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /ro/terms/spatial_embedding/
-date: "2026-07-18T16:21:22.343083Z"
-lastmod: "2026-07-18T17:15:09.704033Z"
+slug: spatial_embedding
+date: '2026-07-18T16:21:22.343083Z'
+lastmod: '2026-07-18T17:15:09.704033Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică care mapază relațiile spațiale dintre obiecte sau locații în reprezentări vectoriale pentru modelele de învățare automată."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică care mapază relațiile spațiale dintre obiecte sau locații în
+  reprezentări vectoriale pentru modelele de învățare automată.
 ---
-
 ## Definition
 
 Încorporarea spațială implică conversia relațiilor spațiale fizice sau abstracte în spații vectoriale dense, permițând algoritmilor să înțeleagă proximitatea, orientarea și topologia. Această tehnică este esențială pentru aplicațiile care necesită o înțelegere precisă a geometriei și a poziției relative.

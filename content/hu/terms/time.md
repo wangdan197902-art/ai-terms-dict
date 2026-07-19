@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /hu/terms/time/
 date: "2026-07-18T15:33:22.470397Z"
 lastmod: "2026-07-18T17:15:09.731772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-ban az idő azt a temporális dimenziót jelöli, amelyet események sorrendbe állítására, állapotváltozások nyomon követésére és a modellműveletek késleltetésének vagy tartamának mérésére használnak"
 ---
-
 ## Definition
 
 Az idő alapvető fogalom a mesterséges intelligenciában, különösen a szekvenciális modellezésben és a valós idejű rendszerekben. Tengelyként szolgál, amely mentén az adatpontok sorrendbe kerülnek, lehetővé téve például a Reccurent Neural Network (RNN) modellek számára az időbeli függőségek kezelését.

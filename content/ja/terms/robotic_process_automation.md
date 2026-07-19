@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /ja/terms/robotic_process_automation/
 date: "2026-07-18T11:31:06.232921Z"
 lastmod: "2026-07-18T11:44:45.139807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ビジネスプロセスにおいて従来人間が行っていた、高ボリュームで反復的なデジタルタスクをソフトウェアボットによって自動化すること。"
 ---
-
 ## Definition
 
 ロボティック・プロセス・オートメーション（RPA）は、AIで強化されたソフトウェアロボットを使用して、デジタルシステムに対する人間のインタラクションを模倣します。データ入力や請求書処理などのワークフローを効率化するために使用されます。

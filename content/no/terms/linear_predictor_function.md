@@ -1,23 +1,24 @@
 ---
-title: "Lineær prediktorfunksjon"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Lineær prediktorfunksjon
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /no/terms/linear_predictor_function/
-date: "2026-07-18T16:02:59.608232Z"
-lastmod: "2026-07-18T16:38:07.019324Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:02:59.608232Z'
+lastmod: '2026-07-18T16:38:07.019324Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En matematisk funksjon som beregner en lineær kombinasjon av inndatavariabler for å forutse et utfall."
+source: agnes_llm
+status: published
+language: 'no'
+description: En matematisk funksjon som beregner en lineær kombinasjon av inndatavariabler
+  for å forutse et utfall.
 ---
-
 ## Definition
 
 Inn statistisk modellering og maskinlæring representerer en lineær prediktorfunksjon den vektete summen av inndatafunksjoner pluss en bias-ledd. Den fungerer som kjernekomponenten i generaliserte lineære modeller (GLM).

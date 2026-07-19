@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /vi/terms/last_mile/
 date: "2026-07-18T15:59:51.756897Z"
 lastmod: "2026-07-18T16:38:07.774541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Giai đoạn cuối cùng trong việc triển khai các giải pháp AI từ môi trường phát triển đến người dùng cuối trong các tình huống vận hành thực tế."
 ---
-
 ## Definition
 
 Vấn đề "dặm cuối" đề cập đến những thách thức gặp phải khi đưa các mô hình vào sản xuất, bao gồm tích hợp với cơ sở hạ tầng hiện có, đảm bảo độ trễ suy luận thấp và xử lý dữ liệu biên (edge cases).

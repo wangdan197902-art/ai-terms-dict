@@ -1,23 +1,24 @@
 ---
-title: "Modelul credință-dorință-intenție"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Modelul credință-dorință-intenție
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /ro/terms/beliefdesireintention_model/
-date: "2026-07-18T15:47:24.382579Z"
-lastmod: "2026-07-18T17:15:09.633658Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:47:24.382579Z'
+lastmod: '2026-07-18T17:15:09.633658Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un cadru filosofic utilizat în IA pentru a modela agenții raționali pe baza credințelor, dorințelor și intențiilor lor."
+source: agnes_llm
+status: published
+language: ro
+description: Un cadru filosofic utilizat în IA pentru a modela agenții raționali pe
+  baza credințelor, dorințelor și intențiilor lor.
 ---
-
 ## Definition
 
 Modelul Credință-Dorință-Intenție (BDI) este o arhitectură cognitivă pentru proiectarea agenților autonomi care iau decizii raționale. Credințele reprezintă cunoștințele agentului despre lume, dorințele sunt obiectivele sau scopurile dorite, iar intențiile sunt planurile selectate pentru a atinge acele obiective, filtrate prin constrângeri de resurse și coerență logică.

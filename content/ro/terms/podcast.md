@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /ro/terms/podcast/
 date: "2026-07-18T16:16:14.630970Z"
 lastmod: "2026-07-18T17:15:09.691838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un fișier audio sau video digital disponibil pe internet pentru descărcare sau streaming."
 ---
-
 ## Definition
 
 În contextul AI și tehnologiei, un podcast se referă la conținut media digital episodic distribuit prin feed-uri RSS, permițând utilizatorilor să se aboneze și să asculte discuții, interviuri sau materiale educațive despre inteligența artificială.

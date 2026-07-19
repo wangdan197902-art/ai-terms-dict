@@ -1,23 +1,24 @@
 ---
-title: "Uczenie cech"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Uczenie cech
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /pl/terms/feature_learning/
-date: "2026-07-18T15:54:44.595692Z"
-lastmod: "2026-07-18T17:15:08.873312Z"
+slug: feature_learning
+date: '2026-07-18T15:54:44.595692Z'
+lastmod: '2026-07-18T17:15:08.873312Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podejście, w którym algorytmy automatycznie odkrywają cechy wymagane do wykrycia lub klasyfikacji z surowych danych."
+source: agnes_llm
+status: published
+language: pl
+description: Podejście, w którym algorytmy automatycznie odkrywają cechy wymagane
+  do wykrycia lub klasyfikacji z surowych danych.
 ---
-
 ## Definition
 
 Uczenie cech, często kojarzone z uczeniem głębokim, umożliwia modelom naukę hierarchicznych reprezentacji bezpośrednio z surowych danych wejściowych, zamiast polegać na ręcznym projektowaniu cech. Dzięki warstwom sieci neuronowych modele te potrafią wyodrębnić złożone wzorce i abstrakcje, zaczynając od prostych cech niskiego poziomu po bardziej złożone wysokiego poziomu.

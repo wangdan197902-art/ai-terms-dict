@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /id/terms/robustness/
 date: "2026-07-18T16:07:43.949095Z"
 lastmod: "2026-07-18T16:38:07.503933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kemampuan model AI untuk mempertahankan kinerja dan stabilitas saat menghadapi data bising, serangan adversarial, atau pergeseran distribusi."
 ---
-
 ## Definition
 
 Dalam keamanan dan etika AI, ketangguhan mengacu pada ketahanan model terhadap input yang tidak terduga atau manipulasi jahat. Sistem yang tangguh tetap berfungsi dengan benar bahkan ketika data input mengandung n

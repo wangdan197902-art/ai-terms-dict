@@ -1,23 +1,24 @@
 ---
-title: "Σύνοψη"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Σύνοψη
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /el/terms/summarization/
-date: "2026-07-18T15:45:07.264153Z"
-lastmod: "2026-07-18T17:15:09.871262Z"
+slug: summarization
+date: '2026-07-18T15:45:07.264153Z'
+lastmod: '2026-07-18T17:15:09.871262Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια εργασία Επεξεργασίας Φυσικής Γλώσσας (NLP) που παράγει μια συνοπτική και συνεχή περίληψη ενός μεγαλύτερου κειμένου, διατηρώντας τις βασικές πληροφορίες."
+source: agnes_llm
+status: published
+language: el
+description: Μια εργασία Επεξεργασίας Φυσικής Γλώσσας (NLP) που παράγει μια συνοπτική
+  και συνεχή περίληψη ενός μεγαλύτερου κειμένου, διατηρώντας τις βασικές πληροφορίες.
 ---
-
 ## Definition
 
 Η σύνοψη κειμένου μειώνει μεγάλους όγκους κειμένου σε πιο σύντομες εκδόσεις χωρίς απώλεια κρίσιμου νοήματος. Μπορεί να είναι εξαγωγική, επιλέγοντας σημαντικές προτάσεις από την πηγή, ή αφηρημένη, δημιουργώντας νέο κείμενο.

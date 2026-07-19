@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /fi/terms/multi_step/
 date: "2026-07-18T15:34:09.965775Z"
 lastmod: "2026-07-18T17:15:09.365361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ongelmanratkaisustrategia, joka vaatii loogisten operaatioiden tai laskelmien suorittamista peräkkäin lopullisen ratkaisun saavuttamiseksi."
 ---
-
 ## Definition
 
 Monivaiheiset menetelmät sisältävät monimutkaisen kysymyksen tai tehtävän pilkkomisen pienemmiksi, suoritettaviksi vaiheiksi. Tämä lähestymistapa on kriittinen päättelytehtävissä, kuten matemaattisissa ongelmien ratkaisuissa tai koodin generoinnissa.

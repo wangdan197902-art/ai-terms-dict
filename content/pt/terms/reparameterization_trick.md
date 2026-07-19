@@ -1,23 +1,24 @@
 ---
-title: "Truque de Reparametrização"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Truque de Reparametrização
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /pt/terms/reparameterization_trick/
-date: "2026-07-18T15:19:39.994223Z"
-lastmod: "2026-07-18T15:51:59.528836Z"
+slug: reparameterization_trick
+date: '2026-07-18T15:19:39.994223Z'
+lastmod: '2026-07-18T15:51:59.528836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica que separa variáveis estocásticas de parâmetros aprendíveis para permitir a otimização baseada em gradientes na inferência variacional."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica que separa variáveis estocásticas de parâmetros aprendíveis
+  para permitir a otimização baseada em gradientes na inferência variacional.
 ---
-
 ## Definition
 
 O truque de reparametrização é um método fundamental utilizado em autoencoders variacionais e outros modelos probabilísticos. Ele permite que os gradientes fluam através de nós estocásticos expressando uma variável aleatória como uma função determinística de seus parâmetros e de uma variável de ruído independente, facilitando assim o cálculo do gradiente via retropropagação.

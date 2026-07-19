@@ -1,23 +1,24 @@
 ---
-title: "Regelinduksjon"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Regelinduksjon
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /no/terms/rule_induction/
-date: "2026-07-18T16:14:59.588253Z"
-lastmod: "2026-07-18T16:38:07.043883Z"
+slug: rule_induction
+date: '2026-07-18T16:14:59.588253Z'
+lastmod: '2026-07-18T16:38:07.043883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En maskinlæringsmetode som automatisk genererer en mengde logiske regler fra merket treningsdata for å klassifisere nye instanser."
+source: agnes_llm
+status: published
+language: 'no'
+description: En maskinlæringsmetode som automatisk genererer en mengde logiske regler
+  fra merket treningsdata for å klassifisere nye instanser.
 ---
-
 ## Definition
 
 Regelinduksjon er en symbolbasert maskinlæringsmetode som avleder hvis-da-regler direkte fra data. I motsetning til nevrale nettverk, som produserer uigjennomsiktige vekter, gir regelinduksjon tolkbare modeller som

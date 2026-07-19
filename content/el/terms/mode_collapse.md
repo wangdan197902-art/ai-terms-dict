@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /el/terms/mode_collapse/
 date: "2026-07-18T16:21:45.941106Z"
 lastmod: "2026-07-18T17:15:09.932706Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η Mode collapse (κατάρρευση τρόπων) είναι μια κατάσταση αποτυχίας στα Γενερατορικά Ανταγωνιστικά Δίκτυα όπου ο γεννήτριας παράγει περιορισμένες ποικιλίες εξόδων."
 ---
-
 ## Definition
 
 Στα GANs, η mode collapse συμβαίνει όταν ο γεννήτριας μαθαίνει να εκμεταλλεύεται τις αδυναμίες του δικριμιναντέρ παράγοντας ένα στενό φάσμα πιθανών δειγμάτων, αγνοώντας άλλους τρόπους της κατανομής των δεδομένων. Αυτό

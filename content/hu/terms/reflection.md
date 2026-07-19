@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /hu/terms/reflection/
 date: "2026-07-18T16:21:08.586848Z"
 lastmod: "2026-07-18T17:15:09.828925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mechanizmus, amely lehetővé teszi az AI modellek számára, hogy elemezzék saját kimeneteiket, érvelési folyamataikat vagy belső állapotokat a jövőbeli teljesítmény javítása érdekében."
 ---
-
 ## Definition
 
 Az AI-ban a reflexió egy olyan paradigma, ahol egy modell megáll, hogy kiértékelje saját generációs folyamatát vagy kimenetét, mielőtt véglegesen rögzítené azt. Ez magában foglalhatja a logikai következetesség, ténybeli pontosság vagy szabályzatnak való megfelelés ellenőrzését.

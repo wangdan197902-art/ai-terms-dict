@@ -1,23 +1,24 @@
 ---
-title: "Coherente geëxtrapoleerde wil"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Coherente geëxtrapoleerde wil
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /nl/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:46:49.096409Z"
-lastmod: "2026-07-18T17:15:08.726347Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:46:49.096409Z'
+lastmod: '2026-07-18T17:15:08.726347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een voorgesteld doel voor kunstmatige intelligentie waarbij het systeem handelt volgens de verfijnde wensen van de mensheid na idealiserend redeneren."
+source: agnes_llm
+status: published
+language: nl
+description: Een voorgesteld doel voor kunstmatige intelligentie waarbij het systeem
+  handelt volgens de verfijnde wensen van de mensheid na idealiserend redeneren.
 ---
-
 ## Definition
 
 Coherente Geëxtrapoleerde Wil (CEV) is een concept dat door Eliezer Yudkowsky is geïntroduceerd in de context van AI-veiligheid en -alignement. Het stelt dat een geavanceerde AI niet simpelweg huidige menselijke commando's moet opvolgen, maar de collectieve, idealiseerde voorkeuren van de mensheid moet extrapoleren en coherente acties moet ondernemen die hiermee in overeenstemming zijn.

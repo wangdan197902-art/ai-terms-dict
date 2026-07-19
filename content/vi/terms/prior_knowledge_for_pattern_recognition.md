@@ -1,23 +1,24 @@
 ---
-title: "Kiến thức tiên nghiệm cho nhận dạng mẫu"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Kiến thức tiên nghiệm cho nhận dạng mẫu
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /vi/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:08:25.569390Z"
-lastmod: "2026-07-18T16:38:07.794421Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:08:25.569390Z'
+lastmod: '2026-07-18T16:38:07.794421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thông tin hoặc giả định hiện có được tích hợp vào các mô hình học máy để cải thiện độ chính xác trong việc nhận diện mẫu."
+source: agnes_llm
+status: published
+language: vi
+description: Thông tin hoặc giả định hiện có được tích hợp vào các mô hình học máy
+  để cải thiện độ chính xác trong việc nhận diện mẫu.
 ---
-
 ## Definition
 
 Kiến thức tiên nghiệm đề cập đến những hiểu biết, ràng buộc hoặc dữ liệu lịch sử đặc thù cho lĩnh vực được đưa vào thuật toán trước khi bắt đầu quá trình huấn luyện. Điều này giúp định hướng mô hình hướng tới các giải pháp hợp lý, giảm thiểu rủi ro.

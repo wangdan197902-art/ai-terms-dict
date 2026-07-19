@@ -1,23 +1,24 @@
 ---
-title: "Penyesalan Bayesian"
-term_id: "bayesian_regret"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision_theory", "reinforcement_learning", "metrics"]
+title: Penyesalan Bayesian
+term_id: bayesian_regret
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Theory
+- Reinforcement Learning
+- metrics
 difficulty: 4
 weight: 1
-slug: "bayesian_regret"
-aliases:
-  - /id/terms/bayesian_regret/
-date: "2026-07-18T15:40:52.136941Z"
-lastmod: "2026-07-18T16:38:07.433079Z"
+slug: bayesian_regret
+date: '2026-07-18T15:40:52.136941Z'
+lastmod: '2026-07-18T16:38:07.433079Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Metrik dalam teori keputusan yang mengukur kerugian yang diharapkan akibat ketidakpastian mengenai keadaan dunia yang sebenarnya."
+source: agnes_llm
+status: published
+language: id
+description: Metrik dalam teori keputusan yang mengukur kerugian yang diharapkan akibat
+  ketidakpastian mengenai keadaan dunia yang sebenarnya.
 ---
-
 ## Definition
 
 Penyesalan Bayesian mengukur perbedaan antara imbalan optimal yang dapat dicapai dengan informasi sempurna dan imbalan yang diharapkan yang diperoleh oleh agen yang bertindak di bawah ketidakpastian. Hal ini dihitung dengan mengintegrasikan selisih tersebut terhadap distribusi prior dari keadaan dunia.

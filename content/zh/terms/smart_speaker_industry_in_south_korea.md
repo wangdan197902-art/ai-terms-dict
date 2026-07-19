@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /zh/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T11:34:21.076272Z"
 lastmod: "2026-07-18T11:44:45.554704Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "涉及硬件制造商和AI服务提供商，在韩国境内提供语音控制设备的市场生态系统。"
 ---
-
 ## Definition
 
 该术语指代韩国智能音箱特定的区域市场动态，其特征是智能手机普及率高且宽带基础设施先进。它涉及主要参与者之间的竞争与合作，包括本土科技巨头和国际品牌，旨在利用先进的自然语言处理技术满足韩国用户独特的语言和文化需求。

@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /fr/terms/high_fidelity/
 date: "2026-07-18T10:57:05.570928Z"
 lastmod: "2026-07-18T11:44:45.178381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Indique un contenu généré qui ressemble étroitement aux données du monde réel en termes de détails, de qualité et de réalisme."
 ---
-
 ## Definition
 
 La « haute fidélité » décrit les sorties de modèles génératifs qui sont indiscernables ou très similaires aux données authentiques. Dans la génération d'images, cela signifie des textures et un éclairage réalistes ; en audio, cela implique une clarté et une précision sonore proches de l'original. C'est une mesure clé de la qualité perçue des contenus synthétiques.

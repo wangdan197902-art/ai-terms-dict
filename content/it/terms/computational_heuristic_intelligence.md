@@ -1,23 +1,24 @@
 ---
-title: "Intelligenza euristica computazionale"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Intelligenza euristica computazionale
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /it/terms/computational_heuristic_intelligence/
-date: "2026-07-18T15:52:16.955297Z"
-lastmod: "2026-07-18T17:15:08.608371Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T15:52:16.955297Z'
+lastmod: '2026-07-18T17:15:08.608371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Approcci IA che utilizzano tecniche pratiche basate sull'esperienza per risolvere problemi in modo efficiente quando i metodi esatti sono troppo lenti."
+source: agnes_llm
+status: published
+language: it
+description: Approcci IA che utilizzano tecniche pratiche basate sull'esperienza per
+  risolvere problemi in modo efficiente quando i metodi esatti sono troppo lenti.
 ---
-
 ## Definition
 
 L'intelligenza euristica computazionale coinvolge algoritmi che impiegano regole pratiche, approssimazioni o supposte informate per trovare soluzioni soddisfacenti entro tempi ragionevoli. A differenza dei metodi esaustivi, le euristiche sacrificano la certezza della soluzione ottimale per guadagnare velocità.

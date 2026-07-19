@@ -1,23 +1,25 @@
 ---
-title: "Normalizzazione"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalizzazione
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /it/terms/normalization/
-date: "2026-07-18T16:12:55.011801Z"
-lastmod: "2026-07-18T17:15:08.654213Z"
+slug: normalization
+date: '2026-07-18T16:12:55.011801Z'
+lastmod: '2026-07-18T17:15:08.654213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La normalizzazione è una tecnica di pre-elaborazione dei dati che scala le caratteristiche numeriche in un intervallo standard, tipicamente tra 0 e 1, per migliorare la convergenza e le prestazioni de"
+source: agnes_llm
+status: published
+language: it
+description: La normalizzazione è una tecnica di pre-elaborazione dei dati che scala
+  le caratteristiche numeriche in un intervallo standard, tipicamente tra 0 e 1, per
+  migliorare la convergenza e le prestazioni de
 ---
-
 ## Definition
 
 I metodi comuni includono la scalatura Min-Max e la standardizzazione Z-score. Questo processo garantisce che le caratteristiche con magnitudini maggiori non dominino l'algoritmo di apprendimento, in particolare negli ottimizzatori basati su gradiente.

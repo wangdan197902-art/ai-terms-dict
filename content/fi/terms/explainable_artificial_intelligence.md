@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /fi/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:57:19.362784Z"
 lastmod: "2026-07-18T17:15:09.410139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Selitettävä tekoäly (XAI) viittaa menetelmiin ja tekniikoihin tekoälyteknologian soveltamisessa siten, että ratkaisun tulokset ovat ymmärrettävissä ihmisasiantuntijoille."
 ---
-
 ## Definition
 
 Kun koneoppimismallit muuttuvat monimutkaisemmiksi, erityisesti syvät neuroverkot, niiden päätöksentekoprosessit muuttuvat usein läpinäkymättömiksi 'mustiksi laatikoiksi'. XAI:n tavoitteena on tehdä näistä päätöksistä tulkittavissa olevia ja...

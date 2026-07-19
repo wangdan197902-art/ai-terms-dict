@@ -1,23 +1,24 @@
 ---
-title: "Aproximace fitness"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Aproximace fitness
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /cs/terms/fitness_approximation/
-date: "2026-07-18T15:57:59.975188Z"
-lastmod: "2026-07-18T17:15:09.130645Z"
+slug: fitness_approximation
+date: '2026-07-18T15:57:59.975188Z'
+lastmod: '2026-07-18T17:15:09.130645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika v evolučních algoritmech, která odhaduje kvalitu řešení za účelem snížení výpočetních nákladů během optimalizace."
+source: agnes_llm
+status: published
+language: cs
+description: Technika v evolučních algoritmech, která odhaduje kvalitu řešení za účelem
+  snížení výpočetních nákladů během optimalizace.
 ---
-
 ## Definition
 
 Aproximace fitness se používá v evolučním výpočtu, když je vyhodnocení skutečné funkce fitness výpočetně nákladné nebo časově náročné. Místo přesného výpočtu hodnoty se používají náhradní modely k odhadu fitness.

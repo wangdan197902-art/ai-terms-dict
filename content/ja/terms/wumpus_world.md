@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /ja/terms/wumpus_world/
 date: "2026-07-18T11:36:54.545371Z"
 lastmod: "2026-07-18T11:44:45.156693Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "不確実性下での推論と部分観測性を示すために使用される古典的な人工知能環境。"
 ---
-
 ## Definition
 
 ワンプス・ワールドは、ラッセルとノルヴィグのAI教科書で紹介されたグリッドベースの環境です。エージェントは、pit（穴）やワンプス（モンスター）を避けながら、グリッド内を移動してゴールドを見つける必要があります。エージェントは周囲の情報を部分的にしか知ることができません。

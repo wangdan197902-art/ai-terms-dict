@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /zh/terms/machine_learning_in_physics/
 date: "2026-07-18T11:25:10.893722Z"
 lastmod: "2026-07-18T11:44:45.528780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "应用机器学习解决复杂的物理问题、模拟量子系统以及分析来自粒子加速器的实验数据。"
 ---
-
 ## Definition
 
 在物理学中，机器学习有助于模拟量子力学、分析高能碰撞数据以及发现新材料。它帮助物理学家在高维参数空间中导航，并从庞大的实验数据集中提取细微的模式和规律。

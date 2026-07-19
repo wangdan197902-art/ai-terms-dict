@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /nl/terms/gpt_bigcode/
 date: "2026-07-18T15:57:35.261517Z"
 lastmod: "2026-07-18T17:15:08.749417Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een familie van grote taalmodellen die specifiek zijn getraind voor codegeneratie en -begrip, ontwikkeld door het BigCode-project."
 ---
-
 ## Definition
 
 GPT Bigcode, vaak geassocieerd met modellen zoals StarCoder, vertegenwoordigt een aanzienlijke vooruitgang in AI voor codesteun. Deze modellen zijn voorgeleerd op enorme repositories van publieke code om programmeertalen te begrijpen en te genereren.

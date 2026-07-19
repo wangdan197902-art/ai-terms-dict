@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /de/terms/modeling/
 date: "2026-07-18T10:51:36.980375Z"
 lastmod: "2026-07-18T11:44:44.878486Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Modellierung ist der Prozess der Erstellung abstrakter Darstellungen realer Systeme oder Datenverteilungen, um Vorhersagen, Simulationen oder Entscheidungsfindung zu ermöglichen."
 ---
-
 ## Definition
 
 Die KI-Modellierung umfasst den gesamten Workflow des Entwurfs, Trainings und der Validierung von Algorithmen, die Muster aus Daten lernen. Sie beinhaltet die Auswahl geeigneter Architekturen, die Definition von Verlustfunktionen und

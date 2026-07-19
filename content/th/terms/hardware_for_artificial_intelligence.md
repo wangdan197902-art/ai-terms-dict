@@ -1,23 +1,23 @@
 ---
-title: "ฮาร์ดแวร์สำหรับปัญญาประดิษฐ์"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: ฮาร์ดแวร์สำหรับปัญญาประดิษฐ์
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /th/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T15:58:09.511066Z"
-lastmod: "2026-07-18T16:38:07.613766Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T15:58:09.511066Z'
+lastmod: '2026-07-18T16:38:07.613766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ส่วนประกอบทางกายภาพเฉพาะทางที่ออกแบบมาเพื่อเร่งความเร็วการคำนวณที่จำเป็นสำหรับอัลกอริทึมแมชชีนเลิร์นนิงและการฝึกฝนเครือข่ายประสาทเทียม"
+source: agnes_llm
+status: published
+language: th
+description: ส่วนประกอบทางกายภาพเฉพาะทางที่ออกแบบมาเพื่อเร่งความเร็วการคำนวณที่จำเป็นสำหรับอัลกอริทึมแมชชีนเลิร์นนิงและการฝึกฝนเครือข่ายประสาทเทียม
 ---
-
 ## Definition
 
 ฮาร์ดแวร์ AI หมายถึงอุปกรณ์คอมพิวเตอร์เฉพาะทางที่ได้รับการปรับให้เหมาะสมสำหรับการประมวลผลแบบขนานจำนวนมากที่จำเป็นต่อภาระงานของแมชชีนเลิร์นนิง ซึ่งรวมถึงหน่วยประมวลผลกราฟิก (GPU) สำหรับการประมวลผลทั่วไป หน่วยประมวลผลเทนเซอร์ (TPU) สำหรับเมตริกซ์ และชิปเฉพาะทางอื่นๆ ที่ออกแบบมาเพื่อเพิ่มประสิทธิภาพการฝึกฝนและการอนุมานแบบจำลอง

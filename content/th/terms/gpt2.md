@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /th/terms/gpt2/
 date: "2026-07-18T15:57:34.414342Z"
 lastmod: "2026-07-18T16:38:07.611639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "GPT-2 เป็นโมเดลภาษาขนาดใหญ่ที่ใช้สถาปัตยกรรม Transformer ซึ่งพัฒนาโดย OpenAI สำหรับงานสร้างและทำความเข้าใจข้อความ"
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2 (GPT-2) เป็นโมเดลภาษาแบบ Autoregressive ที่ใช้สถาปัตยกรรม Transformer ในการสร้างข้อความที่คล้ายมนุษย์ โดยได้รับการฝึกฝนจากชุดข้อมูลอินเทอร์เน็ตขนาดมหาศาล

@@ -1,23 +1,24 @@
 ---
-title: "Distribuované trénování"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Distribuované trénování
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /cs/terms/distributed_training/
-date: "2026-07-18T15:34:41.065960Z"
-lastmod: "2026-07-18T17:15:09.088590Z"
+slug: distributed_training
+date: '2026-07-18T15:34:41.065960Z'
+lastmod: '2026-07-18T17:15:09.088590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metoda trénování modelů strojového učení rozdělením dat nebo výpočtů napříč více zařízeními nebo servery."
+source: agnes_llm
+status: published
+language: cs
+description: Metoda trénování modelů strojového učení rozdělením dat nebo výpočtů
+  napříč více zařízeními nebo servery.
 ---
-
 ## Definition
 
 Distribuované trénování urychluje konvergenci modelu paralelizací výpočtů přes více GPU nebo uzlů. Mezi techniky patří paralelizace dat, kde každý pracovní uzel zpracovává podmnožinu dat, a paralelizace modelu...

@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /zh/terms/chat/
 date: "2026-07-18T11:09:54.659566Z"
 lastmod: "2026-07-18T11:44:45.455736Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "聊天指用户与AI系统之间通过自然语言进行的交互式对话通信。"
 ---
-
 ## Definition
 
 在AI语境下，聊天指实时、轮流对话的界面和底层机制。它允许用户提问、请求执行任务或进行开放式对话。

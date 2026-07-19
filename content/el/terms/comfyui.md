@@ -1,23 +1,25 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /el/terms/comfyui/
-date: "2026-07-18T15:55:45.997133Z"
-lastmod: "2026-07-18T17:15:09.890013Z"
+slug: comfyui
+date: '2026-07-18T15:55:45.997133Z'
+lastmod: '2026-07-18T17:15:09.890013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια γραφική διεπαφή βασισμένη σε κόμβους για το Stable Diffusion που επιτρέπει την κατασκευή σύνθετων ροών εργασίας και τον λεπτομερή έλεγχο της δημιουργίας εικόνας."
+source: agnes_llm
+status: published
+language: el
+description: Μια γραφική διεπαφή βασισμένη σε κόμβους για το Stable Diffusion που
+  επιτρέπει την κατασκευή σύνθετων ροών εργασίας και τον λεπτομερή έλεγχο της δημιουργίας
+  εικόνας.
 ---
-
 ## Definition
 
 Το ComfyUI είναι μια ισχυρή, μοντέρνα και βασισμένη σε κόμβους γραφική διεπαφή (GUI) για τα μοντέλα Stable Diffusion. Σε αντίθεση με τις παραδοσιακές διεπαφές που προσφέρουν γραμμικές ροές εργασίας, το ComfyUI επιτρέπει στους χρήστες να κατασκευάζουν προσαρμοσμένες αλυσίδες επεξεργασίας συνδέοντας διάφορες μονάδες μεταξύ τους.

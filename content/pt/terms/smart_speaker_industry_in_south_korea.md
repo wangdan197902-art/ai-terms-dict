@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /pt/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T15:22:37.463931Z"
 lastmod: "2026-07-18T15:51:59.533073Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O ecossistema de mercado envolvendo fabricantes de hardware e provedores de serviços de IA que oferecem dispositivos controlados por voz dentro da Coreia do Sul."
 ---
-
 ## Definition
 
 Este termo refere-se às dinâmicas específicas do mercado regional em torno dos alto-falantes inteligentes na Coreia do Sul, caracterizadas pela alta penetração de smartphones e infraestrutura avançada de banda larga. Envolve a competição entre assistentes virtuais locais e globais, adaptados à língua e cultura coreanas.

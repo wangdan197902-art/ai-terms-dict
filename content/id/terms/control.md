@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /id/terms/control/
 date: "2026-07-18T15:24:08.262171Z"
 lastmod: "2026-07-18T16:38:07.390546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses mengelola, mengarahkan, atau mengatur perilaku dan keadaan sistem untuk mencapai hasil yang diinginkan."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, kontrol merujuk pada mekanisme dan algoritma yang digunakan untuk membimbing tindakan sistem berdasarkan keadaan saat ini dan tujuan. Hal ini melibatkan loop umpan balik di mana keluaran dipantau dan disesuaikan secara terus-menerus untuk memastikan stabilitas dan akurasi kinerja sistem terhadap target yang ditetapkan.

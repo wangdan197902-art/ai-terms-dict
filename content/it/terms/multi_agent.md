@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /it/terms/multi_agent/
 date: "2026-07-18T15:33:07.548786Z"
 lastmod: "2026-07-18T17:15:08.580468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un'architettura di sistema in cui più agenti autonomi interagiscono all'interno di un ambiente per raggiungere obiettivi individuali o collettivi."
 ---
-
 ## Definition
 
 I sistemi multi-agente sono costituiti da diverse entità indipendenti e intelligenti che percepiscono il proprio ambiente, prendono decisioni e agiscono su di esso. Questi agenti possono cooperare, competere o negoziare tra loro.

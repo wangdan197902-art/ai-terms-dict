@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /no/terms/neural_network/
 date: "2026-07-18T15:28:15.894285Z"
 lastmod: "2026-07-18T16:38:06.942132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et datasystem inspirert av biologiske hjerner, bestående av sammenkoblede noder eller nevroner organisert i lag."
 ---
-
 ## Definition
 
 Et neuralt nettverk er en serie algoritmer som forsøker å gjenkjenne underliggende sammenhenger i et sett med data gjennom en prosess som etterligner måten det menneskelige hjernen fungerer på. Det består av lag med sammenkoblede noder.

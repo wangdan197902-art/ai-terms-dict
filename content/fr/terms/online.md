@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /fr/terms/online/
 date: "2026-07-18T10:52:14.408757Z"
 lastmod: "2026-07-18T11:44:45.168262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Désigne les modèles d'apprentissage automatique qui apprennent continuellement à partir de flux de nouvelles données en temps réel sans être réentraînés depuis zéro."
 ---
-
 ## Definition
 
 L'apprentissage en ligne est un paradigme d'apprentissage automatique où le modèle est mis à jour incrémentalement au fur et à mesure que de nouveaux points de données arrivent, plutôt que d'être entraîné sur un lot statique de données en une seule fois. Cette approche est cruciale pour les environnements dynamiques nécessitant une adaptation rapide.

@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /cs/terms/llm/
 date: "2026-07-18T15:26:24.643362Z"
 lastmod: "2026-07-18T17:15:09.071527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Hluboký učící se model trénovaný na rozsáhlých textových korpusech k pochopení a generování lidsky působícího jazyka."
 ---
-
 ## Definition
 
 Velké jazykové modely (LLM) jsou pokročilé systémy umělé inteligence založené na architektuře transformátorů, trénované na masivních datech textu a kódu. Naučí se statistické vzorce v jazyce

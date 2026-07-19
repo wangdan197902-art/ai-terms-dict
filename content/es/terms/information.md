@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /es/terms/information/
 date: "2026-07-18T10:24:00.169665Z"
 lastmod: "2026-07-18T11:44:44.743037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La información se refiere a datos procesados que transmiten significado, reducen la incertidumbre o proporcionan contexto al receptor."
 ---
-
 ## Definition
 
 En el contexto de la IA y la informática, la información es distinta de los datos en bruto. Representa datos que han sido organizados, estructurados o interpretados para tener significado y utilidad. La información r

@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /nl/terms/multi/
 date: "2026-07-18T15:28:13.847471Z"
 lastmod: "2026-07-18T17:15:08.689224Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een voorvoegsel dat de aanwezigheid aanduidt van meerdere instanties, koppen of modaliteiten binnen een systeem of model."
 ---
-
 ## Definition
 
 Het voorvoegsel 'multi-' wordt veelvuldig in AI gebruikt om architecturen of processen aan te duiden die meerdere parallelle componenten omvatten. Voorbeelden zijn Multi-Head Attention, waarmee modellen zich kunnen richten op verschillende representatiesubruimten.

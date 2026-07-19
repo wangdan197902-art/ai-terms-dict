@@ -1,23 +1,24 @@
 ---
-title: "feingranular"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: feingranular
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /de/terms/fine_grained/
-date: "2026-07-18T10:55:25.814528Z"
-lastmod: "2026-07-18T11:44:44.888122Z"
+slug: fine_grained
+date: '2026-07-18T10:55:25.814528Z'
+lastmod: '2026-07-18T11:44:44.888122Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Beschreibt Analyse- oder Klassifizierungsaufgaben, die das Unterscheiden zwischen subtilen Unterschieden innerhalb einer breiten Kategorie erfordern."
+source: agnes_llm
+status: published
+language: de
+description: Beschreibt Analyse- oder Klassifizierungsaufgaben, die das Unterscheiden
+  zwischen subtilen Unterschieden innerhalb einer breiten Kategorie erfordern.
 ---
-
 ## Definition
 
 Feingranulare Analyse beinhaltet das Identifizieren und Kategorisieren von Objekten oder Konzepten auf Subklassenebene anstatt nur auf der Hauptklassebene. Zum Beispiel die Unterscheidung zwischen spezifischen Hunderassen oder verschiedenen Arten von Vögeln innerhalb derselben Gattung.

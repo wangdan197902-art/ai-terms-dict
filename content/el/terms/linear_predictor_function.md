@@ -1,23 +1,24 @@
 ---
-title: "Γραμμική συνάρτηση προβλέψης"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Γραμμική συνάρτηση προβλέψης
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /el/terms/linear_predictor_function/
-date: "2026-07-18T16:18:35.726829Z"
-lastmod: "2026-07-18T17:15:09.926541Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:18:35.726829Z'
+lastmod: '2026-07-18T17:15:09.926541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μαθηματική συνάρτηση που υπολογίζει ένα γραμμικό συνδυασμό μεταβλητών εισόδου για να προβλέψει μια έκβαση."
+source: agnes_llm
+status: published
+language: el
+description: Μια μαθηματική συνάρτηση που υπολογίζει ένα γραμμικό συνδυασμό μεταβλητών
+  εισόδου για να προβλέψει μια έκβαση.
 ---
-
 ## Definition
 
 Στη στατιστική μοντελοποίηση και την μηχανική μάθηση, η γραμμική συνάρτηση προβλέψης αντιπροσωπεύει το σταθμισμένο άθροισμα των χαρακτηριστικών εισόδου συν έναν όρο προκατάληψης (bias). Αποτελεί τον βασικό πυρήνα των γενικευμένων γραμμικών μοντέλων (GLM).

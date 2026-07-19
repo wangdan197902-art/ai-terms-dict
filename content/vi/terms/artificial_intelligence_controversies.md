@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /vi/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:40:51.162832Z"
 lastmod: "2026-07-18T16:38:07.728680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các cuộc tranh luận và bất đồng công chúng xung quanh các tác động đạo đức, xã hội và kỹ thuật của việc phát triển và triển khai AI."
 ---
-
 ## Definition
 
 Các tranh cãi về AI bao gồm phạm vi rộng lớn của các cuộc tranh chấp đạo đức, pháp lý và xã hội nảy sinh từ các công nghệ trí tuệ nhân tạo. Các vấn đề chính bao gồm thiên kiến thuật toán, vi phạm quyền riêng tư, mất việc làm do tự động hóa, và những lo ngại về trách nhiệm giải trình khi AI đưa ra quyết định ảnh hưởng đến đời sống con người.

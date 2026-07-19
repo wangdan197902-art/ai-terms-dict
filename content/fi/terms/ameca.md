@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /fi/terms/ameca/
 date: "2026-07-18T15:42:23.689326Z"
 lastmod: "2026-07-18T17:15:09.382366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Engineered Artsin kehittämä erittäin edistynyt humanoidirobotti, joka tunnetaan poikkeuksellisesta kasvojen ilmeikkyydestään ja inhimillisestä vuorovaikutuksesta."
 ---
-
 ## Definition
 
 Ameca on huippuluokan humanoidirobotti, jonka kasvoissa on yli 40 vapausastetta, mikä mahdollistaa hienovaraiset ja realistiset emotionaaliset ilmeet. Se on suunniteltu tutkimaan ihmisen ja robotin välistä vuorovaikutusta.

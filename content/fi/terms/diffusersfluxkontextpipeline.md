@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /fi/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:54:22.731767Z"
 lastmod: "2026-07-18T17:15:09.404234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Erikoistunut putki Diffusers-kirjastossa, joka on suunniteltu Flux-malleille ja mahdollistaa kontekstitietoiset kuvasynnytykset parannetulla ajallisella tai avaruudellisella koherenssilla."
 ---
-
 ## Definition
 
 Tämä putki hyödyntää Flux-arkkitehtuuria, joka tunnetaan korkealaatuisesta kuvasynnytyksestään, Diffusers-kehyksen sisällä. Se tukee kontekstimekanismeja, jotka mahdollistavat mallin ottavan huomioon ympäröivät elementit.

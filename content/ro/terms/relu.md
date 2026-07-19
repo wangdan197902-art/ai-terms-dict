@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /ro/terms/relu/
-date: "2026-07-18T15:37:49.357728Z"
-lastmod: "2026-07-18T17:15:09.617999Z"
+slug: relu
+date: '2026-07-18T15:37:49.357728Z'
+lastmod: '2026-07-18T17:15:09.617999Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Unitatea Linară Rectificată este o funcție de activare care returnează intrarea direct dacă este pozitivă, în caz contrar zero."
+source: agnes_llm
+status: published
+language: ro
+description: Unitatea Linară Rectificată este o funcție de activare care returnează
+  intrarea direct dacă este pozitivă, în caz contrar zero.
 ---
-
 ## Definition
 
 ReLU este utilizată pe scară largă în rețelele neuronale de învățare profundă datorită eficienței sale computaționale și capacității de a atenua problema gradientului care dispare. Definită matematic ca f(x) = max(0, x), introduce non-linearitate în rețea permițând învățarea de reprezentări complexe.

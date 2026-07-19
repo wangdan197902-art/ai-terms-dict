@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /cs/terms/category_utility/
 date: "2026-07-18T15:45:56.271204Z"
 lastmod: "2026-07-18T17:15:09.108801Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Užitečnost kategorie je matematická míra používaná k hodnocení účinnosti schématu kategorizace na základě informačního zisku, který poskytuje o hodnotách atributů."
 ---
-
 ## Definition
 
 Tato metrika kvantifikuje, jak dobře sada kategorií umožňuje předpovídat hodnoty atributů uvnitř těchto kategorií. Vyvažuje velikost kategorií s jejich homogenností, čímž poskytuje objektivní kritérium pro hodnocení kvality shlukování a učení konceptů bez nutnosti externích štítků.

@@ -1,23 +1,23 @@
 ---
-title: "Deployment: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Deployment: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /fi/terms/deployazure/
-date: "2026-07-18T15:54:06.289568Z"
-lastmod: "2026-07-18T17:15:09.403429Z"
+slug: deployazure
+date: '2026-07-18T15:54:06.289568Z'
+lastmod: '2026-07-18T17:15:09.403429Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa koneoppimismalleja isännöidään ja ajetaan Microsoft Azure -pilviinfrastruktuuripalveluiden avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa koneoppimismalleja isännöidään ja ajetaan Microsoft Azure
+  -pilviinfrastruktuuripalveluiden avulla.
 ---
-
 ## Definition
 
 Azureen deployoiminen tarkoittaa pilvilähtöisten työkalujen, kuten Azure Machine Learningin, Azure Kubernetes Service (AKS):n tai Azure Functionsin, käyttämistä koneoppimismallien skaalautuvaan tarjoamiseen. Se kattaa laskentaresurssien hallinnan...

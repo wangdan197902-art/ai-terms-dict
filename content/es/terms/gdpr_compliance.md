@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /es/terms/gdpr_compliance/
 date: "2026-07-18T10:49:59.733127Z"
 lastmod: "2026-07-18T11:44:44.808672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La adherencia al Reglamento General de Protección de Datos, asegurando que los sistemas de IA respeten la privacidad del usuario y sus derechos sobre los datos."
 ---
-
 ## Definition
 
 El cumplimiento del RGPD se refiere a las medidas legales y técnicas que los desarrolladores de IA deben implementar para proteger los datos personales de los individuos en la Unión Europea. Para los sistemas de IA, esto implica principios como la minimización de datos, la transparencia algorítmica y el derecho al olvido.

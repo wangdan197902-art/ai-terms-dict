@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /no/terms/tracing/
 date: "2026-07-18T16:19:33.807808Z"
 lastmod: "2026-07-18T16:38:07.055140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Sporing er en teknikk som registrerer kjøreforløpet og mellomtilstandene til et program eller AI-modellinferens for å underlette feilsøking og ytelsesoptimalisering."
 ---
-
 ## Definition
 
 I sammenheng med AI-ingeniørfag innebærer sporing å fange detaljerte logger over hvordan data flyter gjennom en modell eller applikasjon, inkludert inndata, utdata, latens og ressursbruk i hvert steg. Dette muliggjør...

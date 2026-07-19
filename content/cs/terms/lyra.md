@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /cs/terms/lyra/
-date: "2026-07-18T16:07:02.296801Z"
-lastmod: "2026-07-18T17:15:09.150170Z"
+slug: lyra
+date: '2026-07-18T16:07:02.296801Z'
+lastmod: '2026-07-18T17:15:09.150170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Lyra označuje různé iniciativy nebo modely AI, nejčastěji otevřený velký jazykový model nebo specifický nástroj pro vyhledávání a objevování informací poháněný AI, který zlepšuje retrieval dat."
+source: agnes_llm
+status: published
+language: cs
+description: Lyra označuje různé iniciativy nebo modely AI, nejčastěji otevřený velký
+  jazykový model nebo specifický nástroj pro vyhledávání a objevování informací poháněný
+  AI, který zlepšuje retrieval dat.
 ---
-
 ## Definition
 
 V kontextu moderní terminologie AI často Lyra označuje specializované systémy zaměřené na zlepšení interakce s uživatelem prostřednictvím zpracování přirozeného jazyka. Může jít o otevřený LLM vyvinutý pro vývojáře nebo nástroj pro semantic search.

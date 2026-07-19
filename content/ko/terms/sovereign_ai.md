@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /ko/terms/sovereign_ai/
 date: "2026-07-18T16:15:55.600778Z"
 lastmod: "2026-07-18T16:38:06.909527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "국가나 조직이 데이터 프라이버시와 규제 독립성을 보장하기 위해 자체 AI 인프라와 모델을 개발하고 통제하는 전략적 접근 방식입니다."
 ---
-
 ## Definition
 
 주권 AI는 국가나 조직이 외국 클라우드 제공업체나 독점 기술에 의존하지 않고 인공 지능 시스템을 독립적으로 구축, 배포 및 관리할 수 있는 능력을 설명합니다.

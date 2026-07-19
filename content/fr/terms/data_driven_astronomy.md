@@ -1,23 +1,24 @@
 ---
-title: "Astronomie pilotée par les données"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Astronomie pilotée par les données
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /fr/terms/data_driven_astronomy/
-date: "2026-07-18T11:11:21.358000Z"
-lastmod: "2026-07-18T11:44:45.214086Z"
+slug: data_driven_astronomy
+date: '2026-07-18T11:11:21.358000Z'
+lastmod: '2026-07-18T11:44:45.214086Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'application de l'analyse de données à grande échelle et des techniques d'apprentissage automatique pour extraire des informations des observations astronomiques."
+source: agnes_llm
+status: published
+language: fr
+description: L'application de l'analyse de données à grande échelle et des techniques
+  d'apprentissage automatique pour extraire des informations des observations astronomiques.
 ---
-
 ## Definition
 
 L'astronomie pilotée par les données exploite des méthodes computationnelles avancées, y compris l'apprentissage automatique et l'analyse statistique, pour gérer les volumes massifs de données générés par les télescopes modernes et les relevés astronomiques.

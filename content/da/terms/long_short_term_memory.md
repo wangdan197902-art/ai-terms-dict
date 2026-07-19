@@ -1,23 +1,24 @@
 ---
-title: "Lang Sigtkorttidshukommelse"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Lang Sigtkorttidshukommelse
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /da/terms/long_short_term_memory/
-date: "2026-07-18T15:35:50.714362Z"
-lastmod: "2026-07-18T17:15:09.246074Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:35:50.714362Z'
+lastmod: '2026-07-18T17:15:09.246074Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En specialiseret arkitektur til rekurrente neurale netværk, designet til at lære langsigtede afhængigheder i sekventielle data."
+source: agnes_llm
+status: published
+language: da
+description: En specialiseret arkitektur til rekurrente neurale netværk, designet
+  til at lære langsigtede afhængigheder i sekventielle data.
 ---
-
 ## Definition
 
 LSTM-netværk adresserer problemet med forsvindende gradienter, der er almindeligt i standard RNN'er, ved at bruge en celtillstand og tre gatemekanismer: input-, glemme- og output-gate. Disse gate regulerer strømningen af information, hvilket gør det muligt for netværket at huske relevante detaljer over lange perioder.

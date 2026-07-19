@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /zh/terms/specifically/
 date: "2026-07-18T10:55:02.592456Z"
 lastmod: "2026-07-18T11:44:45.385186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指在更广泛的语境中精确、独特或特定的细节。"
 ---
-
 ## Definition
 
 在人工智能术语中，“具体而言”表示在定义模型、数据点或操作时的精确性。它区分了确切参数与一般类别，确保技术文档的清晰度。

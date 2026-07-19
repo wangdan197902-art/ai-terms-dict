@@ -1,23 +1,24 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /da/terms/pyannote/
-date: "2026-07-18T16:13:25.720807Z"
-lastmod: "2026-07-18T17:15:09.324144Z"
+slug: pyannote
+date: '2026-07-18T16:13:25.720807Z'
+lastmod: '2026-07-18T17:15:09.324144Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Pyannote er en Python-bibliotek, der leverer state-of-the-art-løsninger til opgaver inden for talerdiarisering og lydfortolkning."
+source: agnes_llm
+status: published
+language: da
+description: Pyannote er en Python-bibliotek, der leverer state-of-the-art-løsninger
+  til opgaver inden for talerdiarisering og lydfortolkning.
 ---
-
 ## Definition
 
 Pyannote er et open-source Python-bibliotek udviklet af pyannote.audio, der specialiserer sig i talerdiarisering, hvilket er processen med at afgøre 'hvem talte hvornår' i en lydstrøm. Det udnytter dyb l...

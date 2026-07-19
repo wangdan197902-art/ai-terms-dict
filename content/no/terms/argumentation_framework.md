@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /no/terms/argumentation_framework/
 date: "2026-07-18T15:42:31.734963Z"
 lastmod: "2026-07-18T16:38:06.971038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et formelt strukturer som brukes til å modellere og løse konflikter mellom konkurrerende påstander eller beslutninger i AI-systemer."
 ---
-
 ## Definition
 
 Argumentasjonsrammeverk gir et matematisk grunnlag for å representere argumenter, angrep og forsvar mellom dem. Inne i AI-ingeniørfaget hjelper de systemer med å ta gjennomsiktige og begrunnelige beslutninger ved å veie motstridende informasjonskilder.

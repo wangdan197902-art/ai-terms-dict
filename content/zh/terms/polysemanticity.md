@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /zh/terms/polysemanticity/
 date: "2026-07-18T11:30:05.607548Z"
 lastmod: "2026-07-18T11:44:45.543576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "神经网络中的单个神经元对多个不同概念产生响应的现象。"
 ---
-
 ## Definition
 
 多语义性是深度神经网络（特别是Transformer架构）中的一种特征，即单个神经元可能对几个不相关或语义不同的特征激活做出响应。

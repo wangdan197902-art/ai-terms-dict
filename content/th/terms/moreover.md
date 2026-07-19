@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /th/terms/moreover/
 date: "2026-07-18T15:27:10.108445Z"
 lastmod: "2026-07-18T16:38:07.543052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "คำวิเศษณ์เชื่อมประโยค ใช้เพื่อแนะนำข้อมูลเพิ่มเติมหรือสนับสนุนข้อโต้แย้งก่อนหน้า"
 ---
-
 ## Definition
 
 ในบริบทของเอกสารทางเทคนิคและงานเขียนด้าน AI คำว่า 'Moreover' ทำหน้าที่เป็นเครื่องหมายการพูดที่บ่งชี้ถึงการเพิ่มหลักฐานสนับสนุนหรือจุดเพิ่มเติมที่ช่วยเสริมความแข็งแกร่งให้กับเนื้อหาคurrent

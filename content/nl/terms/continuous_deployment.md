@@ -1,23 +1,25 @@
 ---
-title: "Continue implementatie"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Continue implementatie
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /nl/terms/continuous_deployment/
-date: "2026-07-18T15:48:11.209207Z"
-lastmod: "2026-07-18T17:15:08.729020Z"
+slug: continuous_deployment
+date: '2026-07-18T15:48:11.209207Z'
+lastmod: '2026-07-18T17:15:08.729020Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een praktijk binnen de softwareontwikkeling waarbij elke codewijziging die geslaagde geautomatiseerde tests heeft doorlopen, automatisch naar de productomgeving wordt vrijgegeven."
+source: agnes_llm
+status: published
+language: nl
+description: Een praktijk binnen de softwareontwikkeling waarbij elke codewijziging
+  die geslaagde geautomatiseerde tests heeft doorlopen, automatisch naar de productomgeving
+  wordt vrijgegeven.
 ---
-
 ## Definition
 
 Continue implementatie is een uitbreiding van continue levering die het volledige releaseproces automatiseert. Zodra codewijzigingen alle kwaliteitscontroles hebben doorstaan, waaronder unit-tests, integratietests en beveiligingsaudits, worden ze automatisch en zonder menselijke tussenkomst live gezet.

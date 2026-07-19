@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /id/terms/llm/
 date: "2026-07-18T15:26:54.087844Z"
 lastmod: "2026-07-18T16:38:07.395956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model pembelajaran mendalam yang dilatih pada korpus teks yang sangat besar untuk memahami dan menghasilkan bahasa yang mirip manusia."
 ---
-
 ## Definition
 
 Model Bahasa Besar (LLM) adalah sistem kecerdasan buatan canggih yang berbasis pada arsitektur transformer, yang dilatih pada dataset teks dan kode dalam skala masif. Mereka mempelajari pola statistik dalam bahasa

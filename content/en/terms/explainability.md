@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /en/terms/explainability/
 date: "2026-07-18T09:40:59.277033Z"
 lastmod: "2026-07-18T11:44:44.624367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Explainability refers to the degree to which a human can understand the cause of a decision made by an AI model."
 ---
-
 ## Definition
 
 This concept addresses the 'black box' problem in complex AI systems by providing insights into how models arrive at specific predictions. Techniques like SHAP or LIME help visualize feature importance, making model behavior interpretable to stakeholders. High explainability is crucial for building trust, ensuring regulatory compliance, detecting bias, and debugging errors in critical applications such as healthcare, finance, and criminal justice.

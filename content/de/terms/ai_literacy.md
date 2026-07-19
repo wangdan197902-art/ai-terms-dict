@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /de/terms/ai_literacy/
 date: "2026-07-18T11:01:16.040297Z"
 lastmod: "2026-07-18T11:44:44.904152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Fähigkeit, künstliche Intelligenztechnologien und ihre gesellschaftlichen Auswirkungen zu verstehen, zu bewerten und effektiv mit ihnen zu interagieren."
 ---
-
 ## Definition
 
 KI-Literacy bezieht sich auf die Kompetenzen, die benötigt werden, um sich in einer zunehmend von künstlicher Intelligenz geprägten Welt zurechtzufinden. Sie geht über reine Programmierkenntnisse hinaus und umfasst das Verständnis dafür, wie KI-Systeme funktionieren, welche Grenzen sie haben und wie sie ethisch und sozial verantwortungsvoll eingesetzt werden können.

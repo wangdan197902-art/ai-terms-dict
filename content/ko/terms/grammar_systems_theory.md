@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /ko/terms/grammar_systems_theory/
 date: "2026-07-18T15:57:49.646342Z"
 lastmod: "2026-07-18T16:38:06.847259Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "문법 시스템 이론은 병렬 또는 분산 환경에서 상호 작용하는 문법을 기반으로 하는 계산 모델을 연구하는 형식 언어 이론의 한 분야입니다."
 ---
-
 ## Definition
 
 이론 컴퓨터 과학과 언어학에서 유래한 이 분야는 고전적인 촘스키 계층 구조 개념을 다중 구성 요소 시스템으로 확장합니다. 이는 여러 문법이나 구성 요소가 어떻게 상호작용하며 정보를 처리하는지 조사합니다.

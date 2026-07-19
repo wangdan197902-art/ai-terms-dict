@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /zh/terms/outline_of_machine_learning/
 date: "2026-07-18T11:29:02.401195Z"
 lastmod: "2026-07-18T11:44:45.539369Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "对机器学习范式、算法和评估指标的综合分类。"
 ---
-
 ## Definition
 
 该术语描述了机器学习的结构化分类，分为监督学习、无监督学习、半监督学习和强化学习。它包括核心算法族，如线性回归、决策树和支持向量机，并涵盖模型评估的关键指标。

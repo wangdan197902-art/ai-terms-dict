@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /id/terms/data_protection/
 date: "2026-07-18T15:34:02.694087Z"
 lastmod: "2026-07-18T16:38:07.412239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses melindungi informasi sensitif dari akses tidak sah, korupsi, atau pencurian sepanjang siklus hidupnya."
 ---
-
 ## Definition
 
 Perlindungan Data mencakup langkah hukum, teknis, dan organisasi yang dirancang untuk mengamankan data pribadi dan milik perusahaan dari pelanggaran dan penyalahgunaan. Dalam konteks AI, ini termasuk penerapan enkripsi, kontrol akses, dan teknik privasi lainnya.

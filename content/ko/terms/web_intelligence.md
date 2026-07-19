@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /ko/terms/web_intelligence/
 date: "2026-07-18T16:20:20.729666Z"
 lastmod: "2026-07-18T16:38:06.919679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "월드 와이드 웹에서 정보를 추출, 관리 및 분석하기 위해 지능적인 기법을 적용하는 것입니다."
 ---
-
 ## Definition
 
 웹 인텔리전스는 방대한 양의 인터넷 상 비정형 데이터를 처리하기 위해 데이터 마이닝, 머신러닝, 시맨틱 기술을 사용합니다. 이는 원시 웹 데이터를 변

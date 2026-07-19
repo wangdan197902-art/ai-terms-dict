@@ -1,23 +1,23 @@
 ---
-title: "多模态表示学习"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: 多模态表示学习
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /zh/terms/multimodal_representation_learning/
-date: "2026-07-18T11:27:47.973992Z"
-lastmod: "2026-07-18T11:44:45.534843Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T11:27:47.973992Z'
+lastmod: '2026-07-18T11:44:45.534843Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种同时从多个数据模态中学习统一特征表示的技术。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种同时从多个数据模态中学习统一特征表示的技术。
 ---
-
 ## Definition
 
 多模态表示学习涉及训练模型以处理和整合来自不同类型数据源（如文本、图像、音频和视频）的信息，将其映射到共享的潜在空间中。

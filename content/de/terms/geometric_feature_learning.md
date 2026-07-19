@@ -1,23 +1,25 @@
 ---
-title: "Geometrisches Feature-Learning"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Geometrisches Feature-Learning
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /de/terms/geometric_feature_learning/
-date: "2026-07-18T11:16:06.096105Z"
-lastmod: "2026-07-18T11:44:44.944297Z"
+slug: geometric_feature_learning
+date: '2026-07-18T11:16:06.096105Z'
+lastmod: '2026-07-18T11:44:44.944297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik im Deep Learning, die Merkmale aus Daten mit inhärenten geometrischen Strukturen, wie Graphen oder Mannigfaltigkeiten, unter Verwendung spezialisierter neuronaler Netze extrahiert."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik im Deep Learning, die Merkmale aus Daten mit inhärenten
+  geometrischen Strukturen, wie Graphen oder Mannigfaltigkeiten, unter Verwendung
+  spezialisierter neuronaler Netze extrahiert.
 ---
-
 ## Definition
 
 Geometrisches Feature-Learning konzentriert sich auf die Verarbeitung von Daten, die nicht-euklidische Strukturen besitzen, wie soziale Netzwerke, Molekülgraphen oder 3D-Meshes. Techniken wie Graph Neural Networks (GNNs) und...

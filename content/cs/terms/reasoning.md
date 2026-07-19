@@ -1,23 +1,24 @@
 ---
-title: "Uvažování"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Uvažování
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /cs/terms/reasoning/
-date: "2026-07-18T15:38:15.661204Z"
-lastmod: "2026-07-18T17:15:09.092965Z"
+slug: reasoning
+date: '2026-07-18T15:38:15.661204Z'
+lastmod: '2026-07-18T17:15:09.092965Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Uvažování označuje kognitivní proces vytahování závěrů, předpovídání nebo řešení problémů na základě dostupných informací."
+source: agnes_llm
+status: published
+language: cs
+description: Uvažování označuje kognitivní proces vytahování závěrů, předpovídání
+  nebo řešení problémů na základě dostupných informací.
 ---
-
 ## Definition
 
 V umělé inteligenci zahrnuje uvažování algoritmy, které simulují logickou dedukci, indukcii nebo abdukci k zpracování dat a generování poznatků. Zahrnuje techniky jako symbolickou logiku, pravděpodobnostní inferenci (pozn.: text byl v zadání přerušen, překlad odpovídá kontextu).

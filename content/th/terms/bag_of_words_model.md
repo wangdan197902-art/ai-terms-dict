@@ -1,23 +1,24 @@
 ---
-title: "โมเดลถุงคำ"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: โมเดลถุงคำ
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /th/terms/bag_of_words_model/
-date: "2026-07-18T15:43:40.380197Z"
-lastmod: "2026-07-18T16:38:07.578003Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:43:40.380197Z'
+lastmod: '2026-07-18T16:38:07.578003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมเดลถุงคำเป็นวิธีการแทนค่าข้อความแบบง่ายที่อธิบายความถี่ของการปรากฏของคำในเอกสาร โดยละเลยไวยากรณ์และลำดับของคำ"
+source: agnes_llm
+status: published
+language: th
+description: โมเดลถุงคำเป็นวิธีการแทนค่าข้อความแบบง่ายที่อธิบายความถี่ของการปรากฏของคำในเอกสาร
+  โดยละเลยไวยากรณ์และลำดับของคำ
 ---
-
 ## Definition
 
 เทคนิคการประมวลผลภาษาธรรมชาตินี้แทนค่าข้อความด้วยชุดพหุคูณของคำ โดยไม่สนใจโครงสร้างทางไวยากรณ์และลำดับ การแปลงเอกสารให้เป็นเวกเตอร์ตัวเลขอาศัยความถี่หรือการมีอยู่ของคำนั้นๆ

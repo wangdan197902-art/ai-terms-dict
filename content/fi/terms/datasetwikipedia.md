@@ -1,23 +1,24 @@
 ---
-title: "Aineisto: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Aineisto: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /fi/terms/datasetwikipedia/
-date: "2026-07-18T15:52:25.419285Z"
-lastmod: "2026-07-18T17:15:09.401607Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:52:25.419285Z'
+lastmod: '2026-07-18T17:15:09.401607Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Valtava kokoelma Wikipedia-textiä, joka toimii perustana kielimallien esikoulutukselle ja tietopainotteisille luonnollisen kielen käsittelyn tehtäville."
+source: agnes_llm
+status: published
+language: fi
+description: Valtava kokoelma Wikipedia-textiä, joka toimii perustana kielimallien
+  esikoulutukselle ja tietopainotteisille luonnollisen kielen käsittelyn tehtäville.
 ---
-
 ## Definition
 
 Wikipedia on yksi maailman suurimmista ja kattavimmista ihmiskunnan tiedon kokoelmista tekstimuodossa. Tekoälyn alalla se toimii ensisijaisena lähteenä suurten kielimallien esikoulutukseen tarjoten laajaa 

@@ -1,23 +1,25 @@
 ---
-title: "Аннотирование данных"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: Аннотирование данных
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /ru/terms/data_annotation/
-date: "2026-07-18T15:47:16.543352Z"
-lastmod: "2026-07-18T16:38:07.138054Z"
+slug: data_annotation
+date: '2026-07-18T15:47:16.543352Z'
+lastmod: '2026-07-18T16:38:07.138054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Аннотирование данных — это процесс маркировки сырых данных, таких как изображения или текст, чтобы сделать их пригодными для обучения моделей машинного обучения с учителем."
+source: agnes_llm
+status: published
+language: ru
+description: Аннотирование данных — это процесс маркировки сырых данных, таких как
+  изображения или текст, чтобы сделать их пригодными для обучения моделей машинного
+  обучения с учителем.
 ---
-
 ## Definition
 
 Этот критически важный этап заключается в присоединении осмысленных метаданных к исходным точкам данных, чтобы алгоритмы могли изучить взаимосвязь между входными и выходными данными. Например, рамки вокруг объектов на изображениях

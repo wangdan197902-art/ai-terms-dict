@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /ko/terms/gated_recurrent_unit/
 date: "2026-07-18T15:56:39.948112Z"
 lastmod: "2026-07-18T16:38:06.843996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "정보 흐름을 제어하기 위해 게이트 메커니즘을 사용하는 순환 신경망(RNN) 아키텍처의 일종으로, LSTM의 단순화된 대안입니다."
 ---
-
 ## Definition
 
 게이트드 리커런트 유닛(GRU)은 시계열 데이터의 장기적 의존성을 포착하도록 설계된 특수한 순환 신경망(RNN) 셀입니다. 이는 롱 숏텀 메모리(LSTM) 아키텍처를 단순화하여 계산 효율성을 높이고 학습 속도를 개선합니다.

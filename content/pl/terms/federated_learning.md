@@ -1,23 +1,24 @@
 ---
-title: "Uczenie federacyjne"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Uczenie federacyjne
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /pl/terms/federated_learning/
-date: "2026-07-18T15:35:16.858817Z"
-lastmod: "2026-07-18T17:15:08.832254Z"
+slug: federated_learning
+date: '2026-07-18T15:35:16.858817Z'
+lastmod: '2026-07-18T17:15:08.832254Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Uczenie federacyjne to rozproszona metoda uczenia maszynowego, która trenuje modele na zdecentralizowanych urządzeniach, zachowując dane lokalnie."
+source: agnes_llm
+status: published
+language: pl
+description: Uczenie federacyjne to rozproszona metoda uczenia maszynowego, która
+  trenuje modele na zdecentralizowanych urządzeniach, zachowując dane lokalnie.
 ---
-
 ## Definition
 
 Uczenie federalne umożliwia organizacjom współpracujące trenowanie modeli sztucznej inteligencji bez udostępniania wrażliwych danych pierwotnych. Zamiast centralizować informacje, model jest wysyłany do lokalnych urządzeń, gdzie...

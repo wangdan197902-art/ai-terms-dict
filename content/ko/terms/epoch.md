@@ -1,23 +1,23 @@
 ---
-title: "에포크"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: 에포크
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /ko/terms/epoch/
-date: "2026-07-18T15:54:50.648646Z"
-lastmod: "2026-07-18T16:38:06.837593Z"
+slug: epoch
+date: '2026-07-18T15:54:50.648646Z'
+lastmod: '2026-07-18T16:38:06.837593Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델 학습 중 기계 학습 알고리즘이 훈련 데이터셋을 한 번 완전히 통과하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델 학습 중 기계 학습 알고리즘이 훈련 데이터셋을 한 번 완전히 통과하는 과정입니다.
 ---
-
 ## Definition
 
 기계 학습에서 에포크는 전체 훈련 데이터셋에 대한 단일 반복(iteration)을 의미합니다. 각 에포크 동안 모델은 모든 훈련 예제를 처리하고 역전파를 통해 가중치를 업데이트하며,

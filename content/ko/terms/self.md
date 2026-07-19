@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /ko/terms/self/
 date: "2026-07-18T15:28:50.787481Z"
 lastmod: "2026-07-18T16:38:06.784055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI에서 '자기'는 에이전트의 정체성 또는 자기 참조 처리 및 성찰 능력을 의미합니다."
 ---
-
 ## Definition
 
 현재의 AI는 의식을 가지고 있지 않지만, '자기'라는 용어는 종종 모델이 자신의 출력, 신뢰도 수준 또는 내부 상태를 분석하는 메타인지 능력을 설명하는 데 사용됩니다. 이는 모델이 자신의 동작을 모니터링하고 조정하는 맥락에서 나타납니다.

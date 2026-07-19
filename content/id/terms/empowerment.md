@@ -1,23 +1,24 @@
 ---
-title: "Empowerment (Pemberdayaan Agent)"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Empowerment (Pemberdayaan Agent)
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /id/terms/empowerment/
-date: "2026-07-18T15:49:21.397932Z"
-lastmod: "2026-07-18T16:38:07.454936Z"
+slug: empowerment
+date: '2026-07-18T15:49:21.397932Z'
+lastmod: '2026-07-18T16:38:07.454936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Objektif pembelajaran penguatan yang mengukur kemampuan agen untuk mempengaruhi keadaan masa depan melalui tindakannya."
+source: agnes_llm
+status: published
+language: id
+description: Objektif pembelajaran penguatan yang mengukur kemampuan agen untuk mempengaruhi
+  keadaan masa depan melalui tindakannya.
 ---
-
 ## Definition
 
 Dalam pembelajaran penguatan dan kecerdasan buatan, empowerment adalah metrik motivasi intrinsik yang mengkuantifikasi tingkat kendali yang dimiliki agen atas lingkungannya. Metrik ini didefinisikan sebagai informasi

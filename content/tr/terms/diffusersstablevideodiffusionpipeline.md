@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stable Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /tr/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:50:20.622258Z"
-lastmod: "2026-07-18T16:38:07.300237Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:50:20.622258Z'
+lastmod: '2026-07-18T16:38:07.300237Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Statik görüntülerden video oluşturmak için Stable Video Diffusion modelini kullanan bir Hugging Face Diffusers pipeline sarmalayıcısı."
+source: agnes_llm
+status: published
+language: tr
+description: Statik görüntülerden video oluşturmak için Stable Video Diffusion modelini
+  kullanan bir Hugging Face Diffusers pipeline sarmalayıcısı.
 ---
-
 ## Definition
 
 Bu terim, video üretimi için tasarlanmış olan Hugging Face Diffusers kitaplığındaki spesifik bir uygulamayı ifade eder. Latans uzayda çalışan bir video difüzyon modeli olan Stable Video Diffusion (SVD) modelini entegre eder.

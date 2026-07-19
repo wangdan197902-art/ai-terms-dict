@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /es/terms/lynda_soderholm/
 date: "2026-07-18T10:58:36.798403Z"
 lastmod: "2026-07-18T11:44:44.828182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Lynda Soderholm es una destacada investigadora y ejecutiva conocida por sus contribuciones a la ética de la IA, la innovación responsable y el impacto social de la inteligencia artificial."
 ---
-
 ## Definition
 
 Lynda Soderholm es una figura reconocida en el sector tecnológico, especialmente por su trabajo en la intersección entre el desarrollo de la IA y la gobernanza ética. Como líder en responsabilidad corporativa,

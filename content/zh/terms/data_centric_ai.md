@@ -1,23 +1,23 @@
 ---
-title: "以数据为中心的AI"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: 以数据为中心的AI
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /zh/terms/data_centric_ai/
-date: "2026-07-18T11:12:36.731259Z"
-lastmod: "2026-07-18T11:44:45.474841Z"
+slug: data_centric_ai
+date: '2026-07-18T11:12:36.731259Z'
+lastmod: '2026-07-18T11:44:45.474841Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种AI开发方法，优先考虑提高训练数据的质量和数量，而非修改模型架构。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种AI开发方法，优先考虑提高训练数据的质量和数量，而非修改模型架构。
 ---
-
 ## Definition
 
 以数据为中心的AI代表了人工智能开发的一种范式转变，其重点在于系统地改进用于训练模型的数据，而不是仅仅优化算法或超参数。这种方法认为高质量的数据是提升模型性能的关键。

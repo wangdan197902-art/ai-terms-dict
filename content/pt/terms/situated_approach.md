@@ -1,23 +1,25 @@
 ---
-title: "Abordagem situada"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Abordagem situada
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /pt/terms/situated_approach/
-date: "2026-07-18T15:22:37.463826Z"
-lastmod: "2026-07-18T15:51:59.532743Z"
+slug: situated_approach
+date: '2026-07-18T15:22:37.463826Z'
+lastmod: '2026-07-18T15:51:59.532743Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um paradigma de design em IA que prioriza o comportamento dependente do contexto e a interação com o ambiente em vez do raciocínio abstrato."
+source: agnes_llm
+status: published
+language: pt
+description: Um paradigma de design em IA que prioriza o comportamento dependente
+  do contexto e a interação com o ambiente em vez do raciocínio abstrato.
 ---
-
 ## Definition
 
 A abordagem situada é um quadro metodológico na pesquisa de IA que argumenta que o comportamento inteligente não pode ser separado do ambiente em que ocorre. Ela defende a construção de sistemas que interagem dinamicamente com o mundo real, adaptando-se às mudanças contextuais em tempo real, em vez de depender exclusivamente de modelos internos pré-definidos.

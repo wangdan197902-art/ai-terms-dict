@@ -1,23 +1,24 @@
 ---
-title: "Strømming"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Strømming
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /no/terms/streaming/
-date: "2026-07-18T16:17:32.532731Z"
-lastmod: "2026-07-18T16:38:07.050604Z"
+slug: streaming
+date: '2026-07-18T16:17:32.532731Z'
+lastmod: '2026-07-18T16:38:07.050604Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En dataprosesseringsparadigme der informasjon prosesseres kontinuerlig i små biter når den ankommer, i stedet for i store statiske batcher."
+source: agnes_llm
+status: published
+language: 'no'
+description: En dataprosesseringsparadigme der informasjon prosesseres kontinuerlig
+  i små biter når den ankommer, i stedet for i store statiske batcher.
 ---
-
 ## Definition
 
 Strømming refererer til kontinuerlig opptak og prosessering av data i sanntid eller nesten-sanntid når de genereres. I motsetning til batch-prosessering, som håndterer faste datasett, håndterer strømmesystemer u

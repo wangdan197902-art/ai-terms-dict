@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /it/terms/machine_learning_in_physics/
 date: "2026-07-18T16:09:52.570677Z"
 lastmod: "2026-07-18T17:15:08.646583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'applicazione dell'apprendimento automatico per risolvere problemi fisici complessi, simulare sistemi quantistici e analizzare dati sperimentali provenienti da acceleratori di particelle."
 ---
-
 ## Definition
 
 In fisica, l'apprendimento automatico aiuta a simulare la meccanica quantistica, analizzare dati di collisioni ad alta energia e scoprire nuovi materiali. Aiuta i fisici a navigare negli spazi dei parametri ad alta dimensionalità e a identificare pattern nei dati sperimentali.

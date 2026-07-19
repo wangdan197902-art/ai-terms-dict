@@ -1,23 +1,24 @@
 ---
-title: "Tudásdistilláció"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Tudásdistilláció
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /hu/terms/distillation/
-date: "2026-07-18T15:25:32.547449Z"
-lastmod: "2026-07-18T17:15:09.718043Z"
+slug: distillation
+date: '2026-07-18T15:25:32.547449Z'
+lastmod: '2026-07-18T17:15:09.718043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A tudásdistilláció egy modellkompressziós technika, amelyben egy kisebb diákmodell tanul meg utánozni egy nagyobb tanármodell viselkedését."
+source: agnes_llm
+status: published
+language: hu
+description: A tudásdistilláció egy modellkompressziós technika, amelyben egy kisebb
+  diákmodell tanul meg utánozni egy nagyobb tanármodell viselkedését.
 ---
-
 ## Definition
 
 Ez a folyamat a tudás átvitelét jelenti egy komplex, nagy teljesítményű 'tanár' neurális hálózatról egy egyszerűbb, hatékonyabb 'diák' hálózatra. A diák nem csak a szigorú címkékből (hard labels), hanem a tanár modell kimeneteiből is tanul, ami gazdagabb információt tartalmaz az osztályok közötti kapcsolatokról.

@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /en/terms/data_minimization/
 date: "2026-07-18T10:20:32.579077Z"
 lastmod: "2026-07-18T11:44:44.734839Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The principle of collecting and processing only the personal data that is strictly necessary for a specific purpose."
 ---
-
 ## Definition
 
 Data minimization is a core privacy principle requiring organizations to limit data collection to what is adequate, relevant, and limited to what is necessary. In AI, this means designing models that do not require excessive personal information to function accurately. It reduces privacy risks, limits exposure during breaches, and ensures compliance with regulations like GDPR by preventing the accumulation of unnecessary sensitive data.

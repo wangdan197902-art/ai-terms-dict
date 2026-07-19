@@ -1,23 +1,23 @@
 ---
-title: "Érzékelés"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Érzékelés
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /hu/terms/perception/
-date: "2026-07-18T15:29:04.699749Z"
-lastmod: "2026-07-18T17:15:09.726383Z"
+slug: perception
+date: '2026-07-18T15:29:04.699749Z'
+lastmod: '2026-07-18T17:15:09.726383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az érzékelés az a folyamat, amely során az AI rendszerek értelmezik az érzékszervi bemeneti adatokat (például képeket vagy hangot) a környezetük megértéséhez."
+source: agnes_llm
+status: published
+language: hu
+description: Az érzékelés az a folyamat, amely során az AI rendszerek értelmezik az
+  érzékszervi bemeneti adatokat (például képeket vagy hangot) a környezetük megértéséhez.
 ---
-
 ## Definition
 
 Az AI érzékelés magában foglalja a nyers szenzoradatok értelmezhető információkká alakítását, amelyeket a magasabb szintű érvelési modulok feldolgozhatnak. Ez magában foglalja a számítógépes látást a vizuális jelenetek értelmezéséhez, a beszédfelismerést...

@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /ro/terms/gguf/
-date: "2026-07-18T15:59:14.165318Z"
-lastmod: "2026-07-18T17:15:09.658122Z"
+slug: gguf
+date: '2026-07-18T15:59:14.165318Z'
+lastmod: '2026-07-18T17:15:09.658122Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un format de fișier dezvoltat degger.ai pentru stocarea și încărcarea eficientă a modelelor lingvistice mari cuantizate pe hardware local."
+source: agnes_llm
+status: published
+language: ro
+description: Un format de fișier dezvoltat degger.ai pentru stocarea și încărcarea
+  eficientă a modelelor lingvistice mari cuantizate pe hardware local.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format) este un format de fișier binar conceput specific pentru rularea modelelor lingvistice mari pe hardware de consum. Suportă diverse tehnici de cuantizare, permițând modelelor să ruleze pe computere personale fără a necesita resurse masive de calcul, optimizând astfel utilizarea memoriei și a puterii de procesare.

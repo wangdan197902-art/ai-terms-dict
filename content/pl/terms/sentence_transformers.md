@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /pl/terms/sentence_transformers/
 date: "2026-07-18T16:16:02.869236Z"
 lastmod: "2026-07-18T17:15:08.916616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Architektury sieci neuronowych zaprojektowane specjalnie do generowania stałych wektorowych osadzeń dla dowolnych zdań tekstowych."
 ---
-
 ## Definition
 
 Transformery zdań są rozszerzeniem tradycyjnych modeli Transformer (takich jak BERT), dostrojonymi do wytwarzania znaczących, gęstych reprezentacji wektorowych dla całych zdań. W przeciwieństwie do standardowych modeli operujących na poziomie tokenów, te modele agregują informacje z całego zdania.

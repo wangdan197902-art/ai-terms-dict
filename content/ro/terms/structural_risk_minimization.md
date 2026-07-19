@@ -1,23 +1,25 @@
 ---
-title: "Minimizarea riscului structural"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Minimizarea riscului structural
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /ro/terms/structural_risk_minimization/
-date: "2026-07-18T16:22:05.537244Z"
-lastmod: "2026-07-18T17:15:09.705748Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:22:05.537244Z'
+lastmod: '2026-07-18T17:15:09.705748Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un principiu în învățarea statistică care vizează minimizarea marginii superioare a erorii de generalizare prin echilibrarea potrivirii modelului și a complexității."
+source: agnes_llm
+status: published
+language: ro
+description: Un principiu în învățarea statistică care vizează minimizarea marginii
+  superioare a erorii de generalizare prin echilibrarea potrivirii modelului și a
+  complexității.
 ---
-
 ## Definition
 
 Minimizarea riscului structural (SRM) este o metodă de minimizare a riscului așteptat prin controlul complexității modelului pentru a preveni suprapotrivirea. Aceasta extinde minimizarea riscului empiric prin adăugarea unui termen de regularizare

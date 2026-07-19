@@ -1,23 +1,25 @@
 ---
-title: "EM-Algorithmus und GMM-Modell"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: EM-Algorithmus und GMM-Modell
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /de/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T11:12:50.665118Z"
-lastmod: "2026-07-18T11:44:44.934865Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T11:12:50.665118Z'
+lastmod: '2026-07-18T11:44:44.934865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Expectation-Maximization-Algorithmus ist ein iteratives Verfahren zur Schätzung maximaler Likelihood in statistischen Modellen mit latenten Variablen und wird häufig zur Anpassung von Gaußschen Mi"
+source: agnes_llm
+status: published
+language: de
+description: Der Expectation-Maximization-Algorithmus ist ein iteratives Verfahren
+  zur Schätzung maximaler Likelihood in statistischen Modellen mit latenten Variablen
+  und wird häufig zur Anpassung von Gaußschen Mi
 ---
-
 ## Definition
 
 Dieser Begriff beschreibt die synergetische Beziehung zwischen dem Expectation-Maximization-(EM)-Algorithmus und Gaußschen Mischmodellen (GMM). Ein GMM geht davon aus, dass alle Datenpunkte aus einer Mischung 

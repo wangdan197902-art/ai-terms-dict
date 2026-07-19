@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /he/terms/adversarial_machine_learning/
 date: "2026-07-18T15:41:12.765598Z"
 lastmod: "2026-07-18T17:15:09.510447Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "למידת מכונה אדוורסריאלית היא תחום החוקר כיצד להפוך מודלים של למידת מכונה לחסינים בפני קלטים זדוניים המיועדים להטעות אותם."
 ---
-
 ## Definition
 
 תחום זה כולל הן טכניקות התקפה לשבירת מודלים והן אסטרטגיות הגנה להקשחתם. הוא כולל אימון מודלים על דוגמאות אדוורסריאליות כדי לשפר את העמידות שלהם, תהליך המכונה אימון אדוורסריאלי.

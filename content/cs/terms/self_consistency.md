@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /cs/terms/self_consistency/
 date: "2026-07-18T16:16:45.928802Z"
 lastmod: "2026-07-18T17:15:09.199009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Samokonzistence je strategie dekódování, při které se vzorkuje více cest úsudku a nejčastější odpověď je vybrána jako finální výstup."
 ---
-
 ## Definition
 
 Tato technika, primárně používaná u velkých jazykových modelů (LLM), zlepšuje přesnost generováním několika různorodých odpovědí na zadání pomocí vzorkování. Místo spoléhání se na chamtivé dekódování agreguje

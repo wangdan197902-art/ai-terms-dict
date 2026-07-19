@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /th/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:49:14.091156Z"
 lastmod: "2026-07-18T16:38:07.596286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลที่ได้จาก Yahoo Answers ซึ่งมีคำถามและคำตอบที่ผู้ใช้สร้างไว้ โดยจัดหมวดหมู่ตามหัวข้อเฉพาะสำหรับการจับคู่ความหมายและการจำแนกประเภท"
 ---
-
 ## Definition
 
 ชุดข้อมูล Yahoo Answers Topics เป็นส่วนย่อยของคลังข้อมูล Yahoo Answers ขนาดใหญ่ โดยมุ่งเน้นไปที่คำถามและคำตอบที่ถูกจัดระเบียบไว้ในหมวดหมู่หัวข้อที่แตกต่างกัน ชุดข้อมูลนี้มักถูกใช้ในการจำแนกประเภทข้อความ (text classification) และการวัดความคล้ายคลึงทางความหมาย

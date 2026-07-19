@@ -1,23 +1,23 @@
 ---
-title: "알고리즘 편향"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: 알고리즘 편향
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /ko/terms/algorithmic_bias/
-date: "2026-07-18T15:40:37.087987Z"
-lastmod: "2026-07-18T16:38:06.807006Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:40:37.087987Z'
+lastmod: '2026-07-18T16:38:06.807006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "알고리즘 편향은 컴퓨터 시스템에서 반복적이고 체계적인 오류가 발생하여 한 임의의 집단을 다른 집단보다 우선시하는 등 부당한 결과를 초래하는 것을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 알고리즘 편향은 컴퓨터 시스템에서 반복적이고 체계적인 오류가 발생하여 한 임의의 집단을 다른 집단보다 우선시하는 등 부당한
+  결과를 초래하는 것을 의미합니다.
 ---
-
 ## Definition
 
 알고리즘의 편향은 일반적으로 대표성이 부족한 학습 데이터, 주관적인 설계 선택, 또는 기존 사회적 편견을 증폭시키는 피드백 루프에서 비롯됩니다. 이는 치우친 예측으로 나타납니다.

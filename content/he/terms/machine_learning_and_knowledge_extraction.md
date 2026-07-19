@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /he/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T16:11:19.673049Z"
 lastmod: "2026-07-18T17:15:09.561132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "התהליך של שימוש באלגוריתמי למידת מכונה לזיהוי אוטומטי של דפוסים ונגזרת מידע מובנה ממאגרי נתונים גדולים ולא מובנים."
 ---
-
 ## Definition
 
 תחום זה משלב טכניקות של למידת מכונה עם עיבוד שפה טבעית וכריית נתונים כדי להפוך נתונים גולמיים לידע פעיל. הוא כולל אימון מודלים לזיהוי ישויות, יחסים ומשמעות מתוך טקסטים ומסמכים.

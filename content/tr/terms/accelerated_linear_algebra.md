@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /tr/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:39:35.470606Z"
 lastmod: "2026-07-18T16:38:07.269149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Hızlandırılmış Doğrusal Cebir, yüksek performans için GPU ve TPU gibi donanım hızlandırıcıları kullanarak matris işlemlerini optimize etmeyi içerir."
 ---
-
 ## Definition
 
 Bu alan, makine öğrenimi ve bilimsel simülasyonların temelini oluşturan temel doğrusal cebir hesaplamalarını hızlandırmaya odaklanır. GPU'lar, TPU'lar ve diğer özel işlemcilerin paralel işleme yeteneklerinden yararlanarak hesaplama verimliliğini artırır.

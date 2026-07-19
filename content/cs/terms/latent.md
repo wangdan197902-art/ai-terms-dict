@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /cs/terms/latent/
 date: "2026-07-18T15:26:24.643391Z"
 lastmod: "2026-07-18T17:15:09.071751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na skryté, podkladové proměnné nebo reprezentace uvnitř vnitřního prostoru modelu, které zachycují podstatné rysy dat."
 ---
-
 ## Definition
 
 V strojovém učení jsou skryté proměnné nepozorované faktory, které ovlivňují pozorovaná data. V neuronových sítích, zejména v autoenkodérech a difuzních modelech, reprezentují latentní prostory komprimované, abstraktní

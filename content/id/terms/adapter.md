@@ -1,23 +1,25 @@
 ---
-title: "Adapter"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Adapter
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /id/terms/adapter/
-date: "2026-07-18T15:33:35.113516Z"
-lastmod: "2026-07-18T16:38:07.411318Z"
+slug: adapter
+date: '2026-07-18T15:33:35.113516Z'
+lastmod: '2026-07-18T16:38:07.411318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Modul ringan yang disisipkan ke dalam model pra-latih untuk memungkinkan penyetelan halus yang efisien guna tugas turunan tertentu."
+source: agnes_llm
+status: published
+language: id
+description: Modul ringan yang disisipkan ke dalam model pra-latih untuk memungkinkan
+  penyetelan halus yang efisien guna tugas turunan tertentu.
 ---
-
 ## Definition
 
 Adapter adalah teknik penyetelan halus yang efisien secara parameter, yang terutama digunakan dalam model bahasa besar dan transformer. Alih-alih memperbarui semua bobot model yang memerlukan biaya komputasi tinggi, adapter...

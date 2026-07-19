@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /es/terms/token_limit/
 date: "2026-07-18T10:32:33.444874Z"
 lastmod: "2026-07-18T11:44:44.767787Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El número máximo de tokens que un modelo de IA puede procesar en una sola secuencia de entrada o salida."
 ---
-
 ## Definition
 
 El límite de tokens define la restricción del tamaño de la ventana de contexto para los modelos de lenguaje grandes, limitando cuánta información textual puede analizarse o generarse a la vez. Esta barrera arquitectónica impacta la gestión de memoria,

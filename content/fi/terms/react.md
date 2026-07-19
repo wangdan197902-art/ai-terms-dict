@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /fi/terms/react/
 date: "2026-07-18T15:38:04.677364Z"
 lastmod: "2026-07-18T17:15:09.374159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "ReAct on kehotteiden (prompting) paradigma, joka yhdistää päättelyn ja toiminnan parantaakseen suurten kielimallien suorituskykyä monimutkaisissa tehtävissä."
 ---
-
 ## Definition
 
 ReAct-kehyksen avulla kielimallit (LLM) tuottavat sekä päättelyjälkiä että tehtäväkohtaisia toimintoja vuorottelevassa järjestyksessä. Simuloimalla ihmismäisiä ajatusprosesseja mallit pystyvät vuorovaikutukseen ulkoisten ympäristöjen kanssa.

@@ -1,23 +1,24 @@
 ---
-title: "Penyetelan Halus Supervisi"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Penyetelan Halus Supervisi
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /id/terms/supervised_fine_tuning/
-date: "2026-07-18T15:36:17.841134Z"
-lastmod: "2026-07-18T16:38:07.419800Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:36:17.841134Z'
+lastmod: '2026-07-18T16:38:07.419800Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses melatih ulang model pra-latih pada dataset spesifik untuk menyesuaikannya dengan tugas atau domain tertentu."
+source: agnes_llm
+status: published
+language: id
+description: Proses melatih ulang model pra-latih pada dataset spesifik untuk menyesuaikannya
+  dengan tugas atau domain tertentu.
 ---
-
 ## Definition
 
 Penyetelan Halus Supervisi (SFT) melibatkan pengambilan model pra-latih berskala besar, seperti model bahasa, dan melanjutkan pelatihannya pada dataset kecil berkualitas tinggi yang berlabel untuk tugas turunan tertentu.

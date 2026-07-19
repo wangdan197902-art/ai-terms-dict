@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /zh/terms/multi_task_learning/
 date: "2026-07-18T11:26:49.234920Z"
 lastmod: "2026-07-18T11:44:45.534558Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "多任务学习是一种机器学习范式，其中模型同时训练多个相关任务以提高泛化能力。"
 ---
-
 ## Definition
 
 该技术利用相关任务之间共享的归纳偏置来提高学习效率 and 性能。通过训练单个模型同时执行多项任务，模型能够学习到更具通用性的特征表示，从而提升整体表现。

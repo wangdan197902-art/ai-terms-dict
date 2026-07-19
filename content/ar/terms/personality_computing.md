@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /ar/terms/personality_computing/
 date: "2026-07-18T16:16:17.748883Z"
 lastmod: "2026-07-18T17:15:08.536578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجال دراسي يركز على إنشاء نماذج حاسوبية تحاكي سمات الشخصية البشرية لتعزيز التفاعل بين الإنسان والحاسوب."
 ---
-
 ## Definition
 
 تشمل الحوسبة الشخصية تطوير خوارزميات وأنظمة قادرة على نمذجة أو محاكاة أو التكيف مع أبعاد الشخصية البشرية، مثل سمات "الخمسة العظمى" (Big Five). تهدف هذه الأنظمة إلى إنشاء تجارب تفاعلية أكثر طبيعية وتكيفاً مع الفرد.

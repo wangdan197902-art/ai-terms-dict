@@ -1,23 +1,23 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /zh/terms/mxfp4/
-date: "2026-07-18T11:28:00.225313Z"
-lastmod: "2026-07-18T11:44:45.535681Z"
+slug: mxfp4
+date: '2026-07-18T11:28:00.225313Z'
+lastmod: '2026-07-18T11:44:45.535681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "MXFP4 是一种混合精度浮点格式，专为在 AI 硬件加速器中高效进行矩阵乘法而优化。"
+source: agnes_llm
+status: published
+language: zh
+description: MXFP4 是一种混合精度浮点格式，专为在 AI 硬件加速器中高效进行矩阵乘法而优化。
 ---
-
 ## Definition
 
 MXFP4（混合扩展浮点 4 位）是一种专门的数据类型格式，旨在优化 AI 工作负载的性能并减少内存带宽使用。通过允许混合精度操作，它在保持精度的同时显著降低了计算资源消耗。

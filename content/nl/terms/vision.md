@@ -1,23 +1,24 @@
 ---
-title: "Visie"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Visie
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /nl/terms/vision/
-date: "2026-07-18T15:39:30.283057Z"
-lastmod: "2026-07-18T17:15:08.710535Z"
+slug: vision
+date: '2026-07-18T15:39:30.283057Z'
+lastmod: '2026-07-18T17:15:08.710535Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Computer Visie is het AI-vakgebied gericht op het mogelijk maken van computers om visuele informatie uit de wereld te interpreteren en te begrijpen."
+source: agnes_llm
+status: published
+language: nl
+description: Computer Visie is het AI-vakgebied gericht op het mogelijk maken van
+  computers om visuele informatie uit de wereld te interpreteren en te begrijpen.
 ---
-
 ## Definition
 
 Computer Visie (CV) is een tak van kunstmatige intelligentie die computers traint om zinvolle informatie af te leiden uit digitale afbeeldingen, video's en andere visuele invoer. Het houdt in het ontwikkelen van algoritmen

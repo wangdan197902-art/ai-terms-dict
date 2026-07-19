@@ -1,23 +1,24 @@
 ---
-title: "สตรีมมิ่ง (การประมวลผลแบบต่อเนื่อง)"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: สตรีมมิ่ง (การประมวลผลแบบต่อเนื่อง)
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /th/terms/streaming/
-date: "2026-07-18T16:16:36.070611Z"
-lastmod: "2026-07-18T16:38:07.658894Z"
+slug: streaming
+date: '2026-07-18T16:16:36.070611Z'
+lastmod: '2026-07-18T16:38:07.658894Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนทัศน์ในการประมวลผลข้อมูลโดยดำเนินการข้อมูลอย่างต่อเนื่องเป็นชิ้นเล็กๆ เมื่อข้อมูลมาถึง แทนที่จะประมวลผลเป็นชุดใหญ่แบบคงที่"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนทัศน์ในการประมวลผลข้อมูลโดยดำเนินการข้อมูลอย่างต่อเนื่องเป็นชิ้นเล็กๆ
+  เมื่อข้อมูลมาถึง แทนที่จะประมวลผลเป็นชุดใหญ่แบบคงที่
 ---
-
 ## Definition
 
 สตรีมมิ่งหมายถึงการรับเข้าและประมวลผลข้อมูลอย่างต่อเนื่องแบบเรียลไทม์หรือเกือบเรียลไทม์ในขณะที่ข้อมูลถูกสร้างขึ้นมา ต่างจากการประมวลผลแบบแบทช์ (batch processing) ที่จัดการกับชุดข้อมูลคงที่ ระบบสตรีมมิ่งจะจัดการกับข้อมูลที่ไม่มีที่สิ้นสุด (unbounded) และเปลี่ยนแปลงตลอดเวลา โดยมุ่งเน้นที่ความล่าช้าต่ำและการอัปเดตผลลัพธ์แบบเพิ่มทีละน้อย

@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /es/terms/misinformation/
 date: "2026-07-18T11:00:01.772510Z"
 lastmod: "2026-07-18T11:44:44.832127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Información falsa o inexacta que se difunde independientemente de la intención de engañar."
 ---
-
 ## Definition
 
 La desinformación involuntaria se refiere a información falsa o engañosa compartida sin la intención deliberada de causar daño o engaño. Difiere de la desinformación maliciosa, que es fabricada intencionalmente. En el contexto de la IA,

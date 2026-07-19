@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /sv/terms/agentive_logic/
 date: "2026-07-18T15:44:26.667935Z"
 lastmod: "2026-07-18T17:15:08.973582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Agentiv logik syftar på de formella resonemangsramverk som används för att modellera intentioner, mål och beslutsprocesser hos autonoma agenter."
 ---
-
 ## Definition
 
 Den utvidgar traditionell logik för att ta hänsyn till agens, vilket möjliggör för system att representera tro, önskningar och intentioner (BDI-modeller). Denna logik gör det möjligt för agenter att dynamiskt planera handlingar baserat på förändrade...

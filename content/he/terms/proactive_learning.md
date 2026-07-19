@@ -1,23 +1,24 @@
 ---
-title: "למידה פרו-אקטיבית"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: למידה פרו-אקטיבית
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /he/terms/proactive_learning/
-date: "2026-07-18T16:18:43.604574Z"
-lastmod: "2026-07-18T17:15:09.575242Z"
+slug: proactive_learning
+date: '2026-07-18T16:18:43.604574Z'
+lastmod: '2026-07-18T17:15:09.575242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אסטרטגיית למידה שבה הסוכן בוחר באופן אקטיבי נקודות מידע מועילות לשאילה או לחקר, במקום לקבלן באופן פסיבי."
+source: agnes_llm
+status: published
+language: he
+description: אסטרטגיית למידה שבה הסוכן בוחר באופן אקטיבי נקודות מידע מועילות לשאילה
+  או לחקר, במקום לקבלן באופן פסיבי.
 ---
-
 ## Definition
 
 בלמידה פרו-אקטיבית, מערכת הבינה המלאכותית קובעת אילו דוגמאות יפחיתו את אי-הוודאות או ישפרו את ביצועי המודל ביותר, לעיתים קרובות באמצעות אסטרטגיות של למידה אקטיבית או חקר. זה מנוגד לגישות פסיביות.

@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /he/terms/docker/
 date: "2026-07-18T15:36:22.156371Z"
 lastmod: "2026-07-18T17:15:09.498316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "דוקר היא פלטפורמה לפיתוח, הפצה והרצת יישומים בתוך מיכלים קלים וניידים."
 ---
-
 ## Definition
 
 דוקר מאפשרת למפתחים לארוז יישום יחד עם כל התלויות שלו ליחידה סטנדרטית לפיתוח תוכנה. מיכלים אלה מבודדים את התוכנה מהסביבה שלה, ובכך מבטיחים עקביות בהרצה.

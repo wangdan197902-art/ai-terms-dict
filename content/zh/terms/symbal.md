@@ -1,23 +1,22 @@
 ---
-title: "Symbal"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: Symbal
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /zh/terms/symbal/
-date: "2026-07-18T10:55:14.077892Z"
-lastmod: "2026-07-18T11:44:45.385824Z"
+slug: symbal
+date: '2026-07-18T10:55:14.077892Z'
+lastmod: '2026-07-18T11:44:45.385824Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Symbal 并非人工智能或计算机科学中公认的标准术语。"
+source: agnes_llm
+status: published
+language: zh
+description: Symbal 并非人工智能或计算机科学中公认的标准术语。
 ---
-
 ## Definition
 
 在 AI 术语语境中，不存在关于“Symbal”的既定定义。它可能是“Symbolic”（符号）的拼写错误，指代符号人工智能，或者是一个非标准的新造词。在严谨的技术上下文中……

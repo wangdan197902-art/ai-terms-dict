@@ -1,23 +1,24 @@
 ---
-title: "STIT Mantığı"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: STIT Mantığı
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /tr/terms/stit_logic/
-date: "2026-07-18T16:12:36.050438Z"
-lastmod: "2026-07-18T16:38:07.361782Z"
+slug: stit_logic
+date: '2026-07-18T16:12:36.050438Z'
+lastmod: '2026-07-18T16:38:07.361782Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "STIT mantığı, ajansı, yükümlülüğü ve niyetli eylemi analiz etmek için kullanılan deontik ve zamansal mantıkta resmi bir çerçevedir."
+source: agnes_llm
+status: published
+language: tr
+description: STIT mantığı, ajansı, yükümlülüğü ve niyetli eylemi analiz etmek için
+  kullanılan deontik ve zamansal mantıkta resmi bir çerçevedir.
 ---
-
 ## Definition
 
 STIT, 'Şunu Yaptığını Gör' (See To It That) anlamına gelir. Ajansı ve sorumluluğu modellemek için felsefe ve bilgisayar bilimlerinde öncelikle kullanılan modal mantığın bir dalıdır. Bir ajanın ne...

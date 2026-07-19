@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /el/terms/frontiermath/
-date: "2026-07-18T16:08:23.398360Z"
-lastmod: "2026-07-18T17:15:09.910062Z"
+slug: frontiermath
+date: '2026-07-18T16:08:23.398360Z'
+lastmod: '2026-07-18T17:15:09.910062Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα σύνολο δεδομένων αξιολόγησης σχεδιασμένο για την αξιολόγηση των προηγμένων ικανοτήτων μαθηματικού συλλογισμού των μοντέλων τεχνητής νοημοσύνης τελευταίας γενιάς."
+source: agnes_llm
+status: published
+language: el
+description: Ένα σύνολο δεδομένων αξιολόγησης σχεδιασμένο για την αξιολόγηση των προηγμένων
+  ικανοτήτων μαθηματικού συλλογισμού των μοντέλων τεχνητής νοημοσύνης τελευταίας γενιάς.
 ---
-
 ## Definition
 
 Το FrontierMath είναι μια εξειδικευμένη σουίτα αξιολόγησης που δημιουργήθηκε για να δοκιμάσει τα όρια των μεγάλων γλωσσικών μοντέλων (LLMs) στην επίλυση πολύπλοκων μαθηματικών προβλημάτων. Σε αντίθεση με τα τυπικά σύνολα δεδομένων αριθμητικής, εστιάζει σε υψηλής δυσκολίας μαθηματικά προβλήματα και απαιτεί βαθιά λογική ανάλυση.

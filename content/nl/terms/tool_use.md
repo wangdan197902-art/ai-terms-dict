@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /nl/terms/tool_use/
 date: "2026-07-18T15:39:15.992609Z"
 lastmod: "2026-07-18T17:15:08.709876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een paradigma waarbij AI-agenten externe functies of API's selecteren en uitvoeren om specifieke taken uit te voeren die buiten hun ingebouwde mogelijkheden vallen."
 ---
-
 ## Definition
 
 Gereedschapsgebruik stelt taalmodellen in staat om te interageren met externe softwareomgevingen door gedefinieerde functies aan te roepen, zoals rekenmachines, zoekmachines of databasequeries. Deze aanpak breidt de mo

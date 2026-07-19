@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /ja/terms/docker/
 date: "2026-07-18T10:58:50.315961Z"
 lastmod: "2026-07-18T11:44:45.046503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Dockerは、軽量でポータブルなコンテナ内でアプリケーションを開発、配布、実行するためのプラットフォームです。"
 ---
-
 ## Definition
 
 Dockerにより、開発者はアプリケーションとそのすべての依存関係をソフトウェア開発の標準化されたユニットにパッケージ化できます。これらのコンテナはソフトウェアを環境から分離し、一貫性を確保します。

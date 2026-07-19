@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /ro/terms/explanation_based_learning/
 date: "2026-07-18T15:57:52.812529Z"
 lastmod: "2026-07-18T17:15:09.654572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Învățarea bazată pe explicații este o metodă de învățare automată care utilizează teoria domeniului și un singur exemplu de antrenament pentru a genera o explicație, care este apoi generalizată într-o"
 ---
-
 ## Definition
 
 IBL combină raționamentul simbolic cu învățarea automată pentru a accelera procesul de învățare. În loc să se bazeze pe seturi mari de date, ia un singur exemplu pozitiv și utilizează o teorie preexistentă a domeniului.

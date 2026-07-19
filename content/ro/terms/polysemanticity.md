@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /ro/terms/polysemanticity/
 date: "2026-07-18T16:16:14.631010Z"
 lastmod: "2026-07-18T17:15:09.691984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Fenomenul prin care neuronii individuali din rețelele neuronale răspund la mai multe concepte distincte."
 ---
-
 ## Definition
 
 Polisemanticitatea este o caracteristică observată în rețelele neuronale profunde, în special în arhitecturile Transformer, unde un singur neuron poate activa în răspuns la mai multe caracteristici neînrudite sau semantic distincte.

@@ -1,23 +1,24 @@
 ---
-title: "Supervised Fine-tuning"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Supervised Fine-tuning
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /en/terms/supervised_fine_tuning/
-date: "2026-07-18T09:42:48.759015Z"
-lastmod: "2026-07-18T11:44:44.633700Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T09:42:48.759015Z'
+lastmod: '2026-07-18T11:44:44.633700Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "The process of further training a pre-trained model on a specific dataset to adapt it to a particular task or domain."
+source: agnes_llm
+status: published
+language: en
+description: The process of further training a pre-trained model on a specific dataset
+  to adapt it to a particular task or domain.
 ---
-
 ## Definition
 
 Supervised Fine-tuning (SFT) involves taking a large pre-trained model, such as a language model, and continuing its training on a smaller, high-quality dataset labeled for a specific downstream task. Unlike initial pre-training which learns general patterns, SFT aligns the model's behavior with human preferences or specific instructions, significantly improving performance on niche tasks without requiring training from scratch.

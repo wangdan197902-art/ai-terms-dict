@@ -1,23 +1,23 @@
 ---
-title: "동시 메타템 (Concurrent MetateM)"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: 동시 메타템 (Concurrent MetateM)
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /ko/terms/concurrent_metatem/
-date: "2026-07-18T15:46:14.271475Z"
-lastmod: "2026-07-18T16:38:06.819895Z"
+slug: concurrent_metatem
+date: '2026-07-18T15:46:14.271475Z'
+lastmod: '2026-07-18T16:38:06.819895Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "동시 메타템은 실시간 자율 에이전트의 사양을 지정하고 구현하기 위해 설계된 반응형 프로그래밍 언어입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 동시 메타템은 실시간 자율 에이전트의 사양을 지정하고 구현하기 위해 설계된 반응형 프로그래밍 언어입니다.
 ---
-
 ## Definition
 
 동시 메타템은 주로 로봇 공학 및 자율 시스템에서 사용되는 고급 사양 언어입니다. 이 언어를 사용하면 개발자는 시간 논리를 사용하여 에이전트의 행동을 정의할 수 있으며, 이를 통해 시스템이 외부 이벤트에 대해 적절하고 시의적절한 반응을 보장합니다.

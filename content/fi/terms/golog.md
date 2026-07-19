@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /fi/terms/golog/
 date: "2026-07-18T15:58:37.137268Z"
 lastmod: "2026-07-18T17:15:09.413343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tilakalkyliin perustuva korkean tason ohjelmointikieli toimien määrittelyyn ja dynaamisten alueiden päättelyyn."
 ---
-
 ## Definition
 
 GOLOG on logiikkaan perustuva ohjelmointikieli, jota käytetään ensisijaisesti tekoälyssä suunnitteluun ja toimintaan dynaamisissa ympäristöissä. Se perustuu Reiterin tilakalkyliin ja mahdollistaa kehittäjien määritellä toimia ja ehtoja korkealla abstraktiotasolla, jolloin järjestelmä voi johtaa automaattisesti toteutettavat suunnitelmat.

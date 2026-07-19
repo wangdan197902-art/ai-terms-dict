@@ -1,23 +1,23 @@
 ---
-title: "Hämtningförstärkt generering"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Hämtningförstärkt generering
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /sv/terms/rag/
-date: "2026-07-18T15:30:15.816232Z"
-lastmod: "2026-07-18T17:15:08.950394Z"
+slug: rag
+date: '2026-07-18T15:30:15.816232Z'
+lastmod: '2026-07-18T17:15:08.950394Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "RAG är ett AI-ramverk som förbättrar generativa modeller genom att hämta relevant information från externa kunskapsbanker innan svar genereras."
+source: agnes_llm
+status: published
+language: sv
+description: RAG är ett AI-ramverk som förbättrar generativa modeller genom att hämta
+  relevant information från externa kunskapsbanker innan svar genereras.
 ---
-
 ## Definition
 
 Hämtningförstärkt generering (RAG) kombinerar styrkorna hos hämtningsbaserade och genereringsbaserade AI-system. Istället för att endast förlita sig på parametrarna i en förtränad språkmodell, hämtar RAG först relevant kontextuell information från en extern databas och inkluderar denna i prompten för generering.

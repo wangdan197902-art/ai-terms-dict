@@ -1,23 +1,24 @@
 ---
-title: "Prompt"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Prompt
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /sv/terms/prompt/
-date: "2026-07-18T15:30:01.210882Z"
-lastmod: "2026-07-18T17:15:08.949549Z"
+slug: prompt
+date: '2026-07-18T15:30:01.210882Z'
+lastmod: '2026-07-18T17:15:08.949549Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En inmatad text eller instruktion som ges till en generativ AI-modell för att utlösa ett specifikt svar eller beteende."
+source: agnes_llm
+status: published
+language: sv
+description: En inmatad text eller instruktion som ges till en generativ AI-modell
+  för att utlösa ett specifikt svar eller beteende.
 ---
-
 ## Definition
 
 En prompt fungerar som huvudgränssnittet för interaktion med stora språkmodeller och andra generativa AI-system. Den definierar sammanhanget, tonen och begränsningarna för modellens utdata. En effektiv pro

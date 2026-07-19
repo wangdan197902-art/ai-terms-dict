@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /tr/terms/cognitive_robotics/
 date: "2026-07-18T15:45:11.387870Z"
 lastmod: "2026-07-18T16:38:07.283307Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilişsel robotik, algılama, muhakeme ve öğrenme gibi insan benzeri bilişsel yeteneklere sahip robotlar oluşturmaya odaklanan bir alandır."
 ---
-
 ## Definition
 
 Bilişsel robotik, robotik ile bilişsel bilimi entegre ederek çevresini algılayabilen, deneyimlerden öğrenebilen ve otonom kararlar alabilen makineler inşa etmeyi hedefler. Bu robotlar gelişmiş bilişsel mimariler ve öğrenme algoritmaları kullanır.

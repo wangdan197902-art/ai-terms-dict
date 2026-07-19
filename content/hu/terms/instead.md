@@ -1,23 +1,23 @@
 ---
-title: "Helyette"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Helyette
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /hu/terms/instead/
-date: "2026-07-18T15:27:17.246756Z"
-lastmod: "2026-07-18T17:15:09.722714Z"
+slug: instead
+date: '2026-07-18T15:27:17.246756Z'
+lastmod: '2026-07-18T17:15:09.722714Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A helyettesítő egy nyelvtani kötőszó vagy határozószó, amely helyettesítést, kiváltást vagy egy másik cselekvés alternatív végrehajtását jelzi."
+source: agnes_llm
+status: published
+language: hu
+description: A helyettesítő egy nyelvtani kötőszó vagy határozószó, amely helyettesítést,
+  kiváltást vagy egy másik cselekvés alternatív végrehajtását jelzi.
 ---
-
 ## Definition
 
 Bár nem technikai AI algoritmusos kifejezés, a 'helyette' kulcsfontosságú a prompt mérnökségben és a természetes nyelvű megértésben. Ellentétet vagy helyettesítési kapcsolatot jelez a mondatrészek között. Az LLM képzésénél

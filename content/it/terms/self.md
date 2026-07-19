@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /it/terms/self/
 date: "2026-07-18T15:29:24.301122Z"
 lastmod: "2026-07-18T17:15:08.574520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Nell'IA, 'sé' si riferisce al concetto di identità di un agente o alla sua capacità di elaborazione autoreferenziale e introspezione."
 ---
-
 ## Definition
 
 Sebbene l'IA attuale sia priva di coscienza, il termine 'sé' descrive spesso capacità metacognitive in cui un modello analizza i propri output, i livelli di confidenza o gli stati interni. Appare in contesti quali...

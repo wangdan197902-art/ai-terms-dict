@@ -1,23 +1,25 @@
 ---
-title: "Компьютерное зрение"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Компьютерное зрение
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /ru/terms/vision/
-date: "2026-07-18T15:37:10.894428Z"
-lastmod: "2026-07-18T16:38:07.111988Z"
+slug: vision
+date: '2026-07-18T15:37:10.894428Z'
+lastmod: '2026-07-18T16:38:07.111988Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Компьютерное зрение — это область ИИ, ориентированная на обеспечение возможности компьютеров интерпретировать и понимать визуальную информацию из окружающего мира."
+source: agnes_llm
+status: published
+language: ru
+description: Компьютерное зрение — это область ИИ, ориентированная на обеспечение
+  возможности компьютеров интерпретировать и понимать визуальную информацию из окружающего
+  мира.
 ---
-
 ## Definition
 
 Компьютерное зрение (CV) — это раздел искусственного интеллекта, который обучает компьютеры извлекать значимую информацию из цифровых изображений, видео и других визуальных входных данных. Оно включает разработку алгоритмов

@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /ja/terms/cognitive_robotics/
 date: "2026-07-18T11:07:57.162690Z"
 lastmod: "2026-07-18T11:44:45.077888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "認知ロボティクスは、知覚、推論、学習など、人間に似た認知能力を持つロボットを作成することに焦点を当てた分野です。"
 ---
-
 ## Definition
 
 認知ロボティクスは、認知科学とロボティクスを統合し、環境を知覚し、経験から学習し、自律的に意思決定を行うマシンを構築することを目指します。これらのロボットは、高度なセンサー技術とアルゴリズムを採用し、物理的な世界での適応的な行動や、人間との協調的な作業を実現します。

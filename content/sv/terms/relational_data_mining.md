@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /sv/terms/relational_data_mining/
 date: "2026-07-18T16:18:57.075395Z"
 lastmod: "2026-07-18T17:15:09.043382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att upptäcka mönster och kunskap från data som består av flera sammanlänkade tabeller eller enheter."
 ---
-
 ## Definition
 
 Relationell datagruvdrift fokuserar på att extrahera användbar information från databaser där data är organiserad i flera relaterade tabeller, snarare än en enda platt tabell. Den utnyttjar relationerna mellan dessa enheter.

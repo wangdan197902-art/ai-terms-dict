@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /de/terms/flow/
 date: "2026-07-18T10:50:01.792931Z"
 lastmod: "2026-07-18T11:44:44.874442Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Datenfluss beschreibt die Bewegung und Transformation von Informationen durch verschiedene Stufen einer KI-Verarbeitungspipeline."
 ---
-
 ## Definition
 
 Datenfluss umfasst den Pfad, den Daten von der Aufnahme bis zum Endergebnis innerhalb eines KI-Systems zurücklegen, einschließlich Vorverarbeitung, Merkmalsextraktion, Modell-Inferenz und Nachbearbeitung. Ein effizientes Datenflussmanagement ist...

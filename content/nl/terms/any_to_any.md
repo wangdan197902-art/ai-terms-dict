@@ -1,23 +1,24 @@
 ---
-title: "Any To Any (Alles-naar-alles)"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Any To Any (Alles-naar-alles)
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /nl/terms/any_to_any/
-date: "2026-07-18T15:42:26.360445Z"
-lastmod: "2026-07-18T17:15:08.716799Z"
+slug: any_to_any
+date: '2026-07-18T15:42:26.360445Z'
+lastmod: '2026-07-18T17:15:08.716799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een generatieve AI-functie die modellen in staat stelt invoer van de ene modaliteit direct om te zetten naar uitvoer in een andere willekeurige modaliteit."
+source: agnes_llm
+status: published
+language: nl
+description: Een generatieve AI-functie die modellen in staat stelt invoer van de
+  ene modaliteit direct om te zetten naar uitvoer in een andere willekeurige modaliteit.
 ---
-
 ## Definition
 
 Any-to-any verwijst naar uniforme multimodale architecturen die verschillende in-uitvoercombinaties kunnen verwerken, zoals tekst-naar-afbeelding, afbeelding-naar-tekst of audio-naar-video. In tegenstelling tot gespecialiseerde modellen kunnen deze systemen veelzijdiger schakelen tussen modaliteiten.

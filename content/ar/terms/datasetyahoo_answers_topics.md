@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /ar/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:52:46.239437Z"
 lastmod: "2026-07-18T17:15:08.493831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات مستمدة من Yahoo Answers، تحتوي على أسئلة وأجوبة من إنشاء المستخدمين مصنفة ضمن مواضيع محددة للمطابقة الدلالية والتصنيف."
 ---
-
 ## Definition
 
 تُمثل مجموعة بيانات Yahoo Answers Topics جزءاً من أرشيف Yahoo Answers الأوسع، وتركز على الأسئلة والأجوبة المنظمة ضمن فئات موضوعية مميزة. تُستخدم بشكل شائع لتصنيف النصوص ومطابقة المعنى الدلالي.

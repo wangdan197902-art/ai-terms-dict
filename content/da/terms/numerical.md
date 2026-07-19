@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /da/terms/numerical/
 date: "2026-07-18T15:27:47.471432Z"
 lastmod: "2026-07-18T17:15:09.229818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Relateret til, involverer eller bruger tal eller matematiske beregninger snarere end symbolsk logik eller tekst."
 ---
-
 ## Definition
 
 I konteksten af kunstig intelligens og datavidenskab refererer numerisk til datatyper eller metoder, der involverer kvantitative værdier, såsom heltal, flydende komma-tal og decimaltal. I modsætning til kategoriske eller tekstuelle data.

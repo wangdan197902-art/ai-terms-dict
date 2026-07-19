@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /id/terms/ai_browser/
 date: "2026-07-18T15:37:10.784952Z"
 lastmod: "2026-07-18T16:38:07.422852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Peramban web yang terintegrasi dengan kemampuan AI untuk membantu pencarian, ringkasan, dan analisis konten."
 ---
-
 ## Definition
 
 Peramban AI adalah aplikasi penjelajahan web yang menggabungkan fitur kecerdasan buatan langsung ke dalam antarmuka pengguna. Fitur-fitur ini biasanya mencakup pencarian bahasa alami, ringkasan konten otomatis, dan analisis informasi secara real-time untuk meningkatkan efisiensi browsing.

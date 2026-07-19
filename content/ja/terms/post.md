@@ -1,23 +1,23 @@
 ---
-title: "投稿（ポスト）"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: 投稿（ポスト）
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /ja/terms/post/
-date: "2026-07-18T10:53:53.758827Z"
-lastmod: "2026-07-18T11:44:45.016292Z"
+slug: post
+date: '2026-07-18T10:53:53.758827Z'
+lastmod: '2026-07-18T11:44:45.016292Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ブログ、ソーシャルメディアプラットフォーム、またはフォーラムなどで公開されるコンテンツの断片で、ユーザー生成の情報やコメントを表します。"
+source: agnes_llm
+status: published
+language: ja
+description: ブログ、ソーシャルメディアプラットフォーム、またはフォーラムなどで公開されるコンテンツの断片で、ユーザー生成の情報やコメントを表します。
 ---
-
 ## Definition
 
 デジタルコミュニケーションおよびAIデータの文脈において、「投稿」とはオンライン上で共有される離散的なコンテンツ単位を指します。これは自然言語処理モデルの訓練、感情分析、およびソーシャルフィード内のスパムやフェイクニュースの検出など、主要なデータソースとして機能します。

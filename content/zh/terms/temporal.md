@@ -1,23 +1,22 @@
 ---
-title: "Temporal"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Temporal
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /zh/terms/temporal/
-date: "2026-07-18T10:55:14.077919Z"
-lastmod: "2026-07-18T11:44:45.386081Z"
+slug: temporal
+date: '2026-07-18T10:55:14.077919Z'
+lastmod: '2026-07-18T11:44:45.386081Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Temporal 涉及时间序列，关注数据如何随时间变化或依赖关系如何演变。"
+source: agnes_llm
+status: published
+language: zh
+description: Temporal 涉及时间序列，关注数据如何随时间变化或依赖关系如何演变。
 ---
-
 ## Definition
 
 AI 中的时序概念涉及分析按时间顺序排列的数据点，如股票价格、传感器读数或自然语言句子。处理时序数据的模型必须考虑序列顺序……

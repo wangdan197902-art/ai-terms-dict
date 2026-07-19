@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /id/terms/galaxy_ai/
 date: "2026-07-18T15:51:39.525706Z"
 lastmod: "2026-07-18T16:38:07.460893Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Branding Samsung untuk rangkaian fitur kecerdasan buatan berbasis perangkat dan cloud yang terintegrasi ke dalam smartphone dan perangkat Galaxy-nya."
 ---
-
 ## Definition
 
 Galaxy AI adalah ekosistem fungsionalitas AI milik Samsung yang dirancang untuk meningkatkan pengalaman pengguna di seluruh lini perangkat kerasnya, terutama smartphone. Fitur-fitur ini mencakup terjemahan real-time

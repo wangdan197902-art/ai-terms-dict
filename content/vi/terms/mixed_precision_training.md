@@ -1,23 +1,24 @@
 ---
-title: "Huấn luyện độ chính xác hỗn hợp"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Huấn luyện độ chính xác hỗn hợp
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /vi/terms/mixed_precision_training/
-date: "2026-07-18T16:03:31.643192Z"
-lastmod: "2026-07-18T16:38:07.783099Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:03:31.643192Z'
+lastmod: '2026-07-18T16:38:07.783099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Kỹ thuật huấn luyện sử dụng cả số dấu phẩy động 16-bit và 32-bit để tăng tốc tính toán và giảm mức sử dụng bộ nhớ."
+source: agnes_llm
+status: published
+language: vi
+description: Kỹ thuật huấn luyện sử dụng cả số dấu phẩy động 16-bit và 32-bit để tăng
+  tốc tính toán và giảm mức sử dụng bộ nhớ.
 ---
-
 ## Definition
 
 Huấn luyện độ chính xác hỗn hợp (MPT) kết hợp các kiểu dữ liệu bán chính xác (FP16) và chính xác đầy đủ (FP32) trong quá trình huấn luyện mạng nơ-ron. Bằng cách sử dụng FP16 cho hầu hết các phép toán, MPT giảm footprint bộ nhớ và cải

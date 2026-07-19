@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /es/terms/api/
 date: "2026-07-18T07:39:26.714073Z"
 lastmod: "2026-07-18T11:44:44.579580Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una Interfaz de Programación de Aplicaciones que permite que diferentes sistemas de software se comuniquen e intercambien datos."
 ---
-
 ## Definition
 
 Una API define un conjunto de protocolos y herramientas para construir software y aplicaciones. En IA, las APIs permiten a los desarrolladores acceder a modelos potentes como LLMs o generadores de imágenes sin necesidad de alojarlos localmente, facilitando la integración mediante llamadas remotas.

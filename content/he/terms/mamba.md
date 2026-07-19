@@ -1,23 +1,24 @@
 ---
-title: "מאמבה"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: מאמבה
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /he/terms/mamba/
-date: "2026-07-18T15:27:15.912833Z"
-lastmod: "2026-07-18T17:15:09.481875Z"
+slug: mamba
+date: '2026-07-18T15:27:15.912833Z'
+lastmod: '2026-07-18T17:15:09.481875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מאמבה היא מודל רצף של מרחב מצבים המציע חילוץ בזמן ליניארי תוך שמירה על ביצועים ברמת טרנספורמרים במשימות עם הקשר ארוך."
+source: agnes_llm
+status: published
+language: he
+description: מאמבה היא מודל רצף של מרחב מצבים המציע חילוץ בזמן ליניארי תוך שמירה על
+  ביצועים ברמת טרנספורמרים במשימות עם הקשר ארוך.
 ---
-
 ## Definition
 
 מאמבה מייצגת התקדמות משמעותית במודלי רצף על ידי הצגת מודל מרחב מצבים סלקטיבי המותאם לחומרה. בניגוד לטרנספורמרים מסורתיים שמתכווננים בצורה ריבועית ביחס לאורך הרצף, מאמבה מאפשרת יעילות חישובית גבוהה יותר.

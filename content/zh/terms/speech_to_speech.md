@@ -1,23 +1,23 @@
 ---
-title: "语音到语音"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: 语音到语音
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /zh/terms/speech_to_speech/
-date: "2026-07-18T11:34:45.355920Z"
-lastmod: "2026-07-18T11:44:45.558078Z"
+slug: speech_to_speech
+date: '2026-07-18T11:34:45.355920Z'
+lastmod: '2026-07-18T11:44:45.558078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种直接将口语输入转换为另一种语言合成语音的翻译范式。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种直接将口语输入转换为另一种语言合成语音的翻译范式。
 ---
-
 ## Definition
 
 语音到语音（STS）翻译绕过中间文本表示，直接将语言A的口语转换为语言B的口语。这种方法旨在保留原话的韵律、情感和自然度，提供更流畅、更人性化的跨语言交流体验。

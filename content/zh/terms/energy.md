@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /zh/terms/energy/
 date: "2026-07-18T10:50:55.420519Z"
 lastmod: "2026-07-18T11:44:45.366281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在人工智能中，能量通常指模型训练和推理过程中消耗的算力，或概率模型中的数学势能函数。"
 ---
-
 ## Definition
 
 能量在人工智能中有两个主要含义。首先，它指运行硬件所需的电力，随着模型规模的扩大，这已成为可持续发展的一个日益关注的问题。其次，在受统计力学启发的模型（如玻尔兹曼机）中，能量是一个数学势能函数，用于衡量数据点或状态的可能性；能量越低，该状态越稳定或越可能出现在数据分布中。

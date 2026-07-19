@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /cs/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:45:26.664504Z"
 lastmod: "2026-07-18T17:15:09.107374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Základní problém v učení s učitelem, kde minimalizace chyby vyžaduje vyvážení složitosti modelu proti jeho schopnosti generalizace."
 ---
-
 ## Definition
 
 Kompromis mezi zkreslením (bias) a rozptylem (variance) popisuje napětí mezi podpasováním (vysoké zkreslení) a přespasováním (vysoký rozptyl). Modely s vysokým zkreslením činí silná předpoklady o datech, což může vést k ignorování relevantních vzorů, zatímco modely s vysokým rozptylem jsou příliš citlivé na šum ve trénovacích datech.

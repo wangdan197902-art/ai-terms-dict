@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /zh/terms/intrinsic_motivation/
 date: "2026-07-18T11:22:43.864941Z"
 lastmod: "2026-07-18T11:44:45.519306Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "强化学习中的一个概念，指智能体基于内部好奇心或知识获取而非外部奖励来追求目标。"
 ---
-
 ## Definition
 
 在强化学习中，内在动机驱使智能体通过寻求新颖性、减少不确定性或掌握技能来探索其环境，而不依赖于外在的任务奖励。这种机

@@ -1,23 +1,24 @@
 ---
-title: "Normalizace vrstvy"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Normalizace vrstvy
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /cs/terms/layer_normalization/
-date: "2026-07-18T16:05:22.045142Z"
-lastmod: "2026-07-18T17:15:09.146750Z"
+slug: layer_normalization
+date: '2026-07-18T16:05:22.045142Z'
+lastmod: '2026-07-18T17:15:09.146750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika, která normalizuje aktivace vrstvy neuronové sítě napříč rozměrem znaků pro každý jednotlivý vzorek."
+source: agnes_llm
+status: published
+language: cs
+description: Technika, která normalizuje aktivace vrstvy neuronové sítě napříč rozměrem
+  znaků pro každý jednotlivý vzorek.
 ---
-
 ## Definition
 
 Normalizace vrstvy stabilizuje trénink snížením vnitřního posunu kovariance, což je zejména účinné u rekurentních a transformátorových architektur. Na rozdíl od normalizace batche, která závisí na statistikách batche, tato metoda funguje nezávisle na velikosti batche.

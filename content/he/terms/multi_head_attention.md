@@ -1,23 +1,24 @@
 ---
-title: "תשומת ראשים מרובה"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: תשומת ראשים מרובה
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /he/terms/multi_head_attention/
-date: "2026-07-18T15:27:30.401381Z"
-lastmod: "2026-07-18T17:15:09.482901Z"
+slug: multi_head_attention
+date: '2026-07-18T15:27:30.401381Z'
+lastmod: '2026-07-18T17:15:09.482901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מנגנון במודלי טרנספורמר המאפשר למודל להתמקד במידע ממרחבי ייצוג שונים בו-זמנית."
+source: agnes_llm
+status: published
+language: he
+description: מנגנון במודלי טרנספורמר המאפשר למודל להתמקד במידע ממרחבי ייצוג שונים
+  בו-זמנית.
 ---
-
 ## Definition
 
 תשומת ראשים מרובה מרחיבה את מנגנון התשומה הסטנדרטי על ידי הרצאה שלו מספר פעמים במקביל עם הטלות ליניאריות נלמדות שונות. הדבר מאפשר למודל להתמקד יחדיו במידע ממקורות שונים.

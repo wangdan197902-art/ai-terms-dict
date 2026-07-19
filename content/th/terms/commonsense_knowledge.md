@@ -1,23 +1,23 @@
 ---
-title: "ความรู้สามัญสำนึก"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: ความรู้สามัญสำนึก
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /th/terms/commonsense_knowledge/
-date: "2026-07-18T15:45:49.536295Z"
-lastmod: "2026-07-18T16:38:07.586019Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:45:49.536295Z'
+lastmod: '2026-07-18T16:38:07.586019Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ข้อมูลพื้นฐานและความเข้าใจโดยสัญชาตญาณเกี่ยวกับโลกทางกายภาพและสังคมที่มนุษย์มีแต่เครื่องจักรมักขาดแคลน"
+source: agnes_llm
+status: published
+language: th
+description: ข้อมูลพื้นฐานและความเข้าใจโดยสัญชาตญาณเกี่ยวกับโลกทางกายภาพและสังคมที่มนุษย์มีแต่เครื่องจักรมักขาดแคลน
 ---
-
 ## Definition
 
 ความรู้สามัญสำนึกหมายถึงข้อมูลนัยยะจำนวนมากเกี่ยวกับชีวิตประจำวัน ฟิสิกส์ บรรทัดฐานทางสังคม และความสัมพันธ์เชิงสาเหตุและผลลัพธ์ที่มนุษย์ได้รับมาตามธรรมชาติ ในด้านปัญญาประดิษฐ์ การได้รับความรู้ประเภทนี้ถือเป็นความท้าทายสำคัญ

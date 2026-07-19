@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /vi/terms/in_context_learning/
 date: "2026-07-18T15:23:05.192126Z"
 lastmod: "2026-07-18T16:38:07.679154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật mà mô hình học cách thực hiện nhiệm vụ bằng cách quan sát các ví dụ được cung cấp trong lời nhắc (prompt)."
 ---
-
 ## Definition
 
 Học trong ngữ cảnh (In-context Learning - ICL) cho phép các mô hình ngôn ngữ lớn thích nghi với các nhiệm vụ mới mà không cần cập nhật trọng số. Bằng cách cung cấp các cặp đầu vào-đầu ra trong ngữ cảnh của lời nhắc, mô hình suy luận ra quy luật và thực hiện nhiệm vụ ngay lập tức.

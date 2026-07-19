@@ -1,23 +1,23 @@
 ---
-title: "린터(Linter)"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: 린터(Linter)
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /ko/terms/linter/
-date: "2026-07-18T16:02:46.921808Z"
-lastmod: "2026-07-18T16:38:06.863184Z"
+slug: linter
+date: '2026-07-18T16:02:46.921808Z'
+lastmod: '2026-07-18T16:38:06.863184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "프로그래밍 오류, 버그, 스타일 오류 및 의심스러운 구조를 식별하기 위해 사용되는 정적 코드 분석 도구입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 프로그래밍 오류, 버그, 스타일 오류 및 의심스러운 구조를 식별하기 위해 사용되는 정적 코드 분석 도구입니다.
 ---
-
 ## Definition
 
 린터는 소스 코드를 실행하지 않고 정적 분석을 수행하는 유틸리티입니다. 문법 오류, 잠재적 버그, 코드 냄새(code smell), 그리고 스타일 가이드나 모범 사례와의 편차를 검사합니다.

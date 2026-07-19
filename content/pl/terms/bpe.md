@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /pl/terms/bpe/
 date: "2026-07-18T15:34:01.618924Z"
 lastmod: "2026-07-18T17:15:08.829870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Kodowanie par bajtów (BPE) to algorytm używany do tokenizacji podwyrazowej, który iteracyjnie scala najczęściej występujące pary znaków w celu budowy słownika."
 ---
-
 ## Definition
 
 Kodowanie par bajtów (BPE) to technika kompresji danych dostosowana do przetwarzania języka naturalnego, służąca do obsługi wyrazów spoza słownika. Zaczyna się od słownika pojedynczych znaków i iteracyjnie łączy najczęstsze pary znaków, tworząc coraz dłuższe tokeny.

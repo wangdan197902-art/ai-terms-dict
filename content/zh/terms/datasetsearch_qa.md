@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /zh/terms/datasetsearch_qa/
 date: "2026-07-18T11:13:26.834855Z"
 lastmod: "2026-07-18T11:44:45.482528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个专注于源自搜索引擎日志或网络查询的问答任务的数据集，强调现实世界中的信息检索。"
 ---
-
 ## Definition
 
 搜索问答数据集通常由从搜索结果中提取的搜索查询和相关答案片段或文档对组成。这些数据集对于训练模型理解用户意图至关重要。

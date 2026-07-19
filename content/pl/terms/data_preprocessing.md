@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /pl/terms/data_preprocessing/
 date: "2026-07-18T15:48:40.247299Z"
 lastmod: "2026-07-18T17:15:08.860130Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces konwersji surowych danych do czystego, spójnego formatu odpowiedniego dla algorytmów uczenia maszynowego."
 ---
-
 ## Definition
 
 Przetwarzanie wstępne danych to niezbędne zadanie przekształcania surowych, nieustrukturyzowanych lub zaoszumionych danych do standaryzowanego formatu, który modele uczenia maszynowego mogą skutecznie przetwarzać. Etap ten zazwyczaj obejmuje czyszczenie danych, normalizację, kodowanie zmiennych kategorycznych oraz skalowanie funkcji, co zapewnia stabilność i wydajność modelu.

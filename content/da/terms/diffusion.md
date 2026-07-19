@@ -1,23 +1,24 @@
 ---
-title: "Diffusion"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: Diffusion
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /da/terms/diffusion/
-date: "2026-07-18T15:24:06.507971Z"
-lastmod: "2026-07-18T17:15:09.221727Z"
+slug: diffusion
+date: '2026-07-18T15:24:06.507971Z'
+lastmod: '2026-07-18T17:15:09.221727Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik til generativ modellering, der skaber data ved at vende en gradvis støjproces om for at rekonstruere rene prøver."
+source: agnes_llm
+status: published
+language: da
+description: En teknik til generativ modellering, der skaber data ved at vende en
+  gradvis støjproces om for at rekonstruere rene prøver.
 ---
-
 ## Definition
 
 Diffusionsmodeller er en klasse af generativ AI, der lærer at vende en stokastisk proces om, der tilføjer støj til data. Ved at træne et neuralt netværk til at forudsige og fjerne denne støj trin for trin, kan de generere høj kvalitet data, der ligner træningsdataene.

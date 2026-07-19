@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /id/terms/vehicle/
 date: "2026-07-18T15:30:47.227128Z"
 lastmod: "2026-07-18T16:38:07.406652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam konteks AI, kendaraan sering merujuk pada platform atau media tempat model AI diterapkan atau disampaikan kepada pengguna akhir."
 ---
-
 ## Definition
 
 Meskipun secara tradisional berarti transportasi, dalam terminologi AI, 'kendaraan' dapat secara metaforis menggambarkan mekanisme pengiriman layanan cerdas, seperti aplikasi seluler, antarmuka web, atau sistem tertanam.

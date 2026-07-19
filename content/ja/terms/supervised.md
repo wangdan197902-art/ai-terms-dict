@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /ja/terms/supervised/
 date: "2026-07-18T10:55:09.231570Z"
 lastmod: "2026-07-18T11:44:45.020439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルがラベル付きの入出力ペアを用いて訓練される機械学習のパラダイム。"
 ---
-
 ## Definition
 
 教師あり学習では、入力と正解（ラベル）の両方を含むデータアルゴリズムに供給します。モデルは予測誤差を最小化することで、入力を出力へマッピングすることを学びます。この技術は広く使用されています。

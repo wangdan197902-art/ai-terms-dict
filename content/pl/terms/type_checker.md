@@ -1,23 +1,24 @@
 ---
-title: "Kontroler Typów"
-term_id: "type_checker"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "debugging", "quality_assurance"]
+title: Kontroler Typów
+term_id: type_checker
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- debugging
+- Quality Assurance
 difficulty: 2
 weight: 1
-slug: "type_checker"
-aliases:
-  - /pl/terms/type_checker/
-date: "2026-07-18T16:21:22.060413Z"
-lastmod: "2026-07-18T17:15:08.926342Z"
+slug: type_checker
+date: '2026-07-18T16:21:22.060413Z'
+lastmod: '2026-07-18T17:15:08.926342Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Kontroler typów to narzędzie analizy statycznej, które weryfikuje, czy typy zmiennych i wyrażeń w kodzie zgodne są z regułami systemu typów języka programowania."
+source: agnes_llm
+status: published
+language: pl
+description: Kontroler typów to narzędzie analizy statycznej, które weryfikuje, czy
+  typy zmiennych i wyrażeń w kodzie zgodne są z regułami systemu typów języka programowania.
 ---
-
 ## Definition
 
 W inżynierii oprogramowania, szczególnie w bibliotekach AI napisanych w Pythonie, C++ czy Ruste, kontroler typów zapewnia poprawność kodu poprzez walidację, że operacje są wykonywane na kompatybilnych typach danych. Pomaga to wykrywać błędy przed uruchomieniem programu.

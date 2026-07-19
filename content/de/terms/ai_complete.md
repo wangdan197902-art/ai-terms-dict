@@ -1,23 +1,25 @@
 ---
-title: "KI-vollständig"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: KI-vollständig
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /de/terms/ai_complete/
-date: "2026-07-18T11:01:29.917446Z"
-lastmod: "2026-07-18T11:44:44.905034Z"
+slug: ai_complete
+date: '2026-07-18T11:01:29.917446Z'
+lastmod: '2026-07-18T11:44:44.905034Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Problem von solcher Komplexität, dass seine Lösung menschähnliche allgemeine Intelligenz erfordert und somit der Erreichung einer Allgemeinen Künstlichen Intelligenz (AGI) gleichkommt."
+source: agnes_llm
+status: published
+language: de
+description: Ein Problem von solcher Komplexität, dass seine Lösung menschähnliche
+  allgemeine Intelligenz erfordert und somit der Erreichung einer Allgemeinen Künstlichen
+  Intelligenz (AGI) gleichkommt.
 ---
-
 ## Definition
 
 KI-vollständige Probleme sind Aufgaben, deren Lösung die Existenz einer Allgemeinen Künstlichen Intelligenz (AGI) implizieren würde. Diese Probleme erfordern ein tiefes Verständnis, Schlussfolgerungsvermögen und Anpassungsfähigkeit, ähnlich wie beim Menschen.

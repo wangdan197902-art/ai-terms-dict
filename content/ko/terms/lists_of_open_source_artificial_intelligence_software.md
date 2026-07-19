@@ -1,23 +1,23 @@
 ---
-title: "오픈소스 인공지능 소프트웨어 목록"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: 오픈소스 인공지능 소프트웨어 목록
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /ko/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T16:02:46.921827Z"
-lastmod: "2026-07-18T16:38:06.863333Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T16:02:46.921827Z'
+lastmod: '2026-07-18T16:38:06.863333Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "공개적으로 이용 가능한 AI 도구, 라이브러리 및 프레임워크를 정리한 큐레이션 컬렉션 또는 디렉토리입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 공개적으로 이용 가능한 AI 도구, 라이브러리 및 프레임워크를 정리한 큐레이션 컬렉션 또는 디렉토리입니다.
 ---
-
 ## Definition
 
 이는 GitHub 토픽, 어웨즈 리스트(Awesome lists), 또는 커뮤니티가 관리하는 위키와 같이 인공지능 관련 오픈소스 소프트웨어를 집계한 조직화된 저장소를 의미합니다. 이러한 목록은 필수적인 리소스 탐색을 제공합니다.

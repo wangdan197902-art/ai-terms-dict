@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /ja/terms/ai_ethics/
 date: "2026-07-18T10:58:09.854512Z"
 lastmod: "2026-07-18T11:44:45.029973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能システムの開発と導入に伴って生じる道徳的課題とその影響を研究する分野。"
 ---
-
 ## Definition
 
 AI倫理は、人工知能技術が開発および使用される際に責任ある形で行われることを保証するために設計された原則と基準の枠組み encompass します。これは、アルゴリズムバイアスやプライバシー侵害などの重要な懸念事項に対処します。

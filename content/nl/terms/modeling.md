@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /nl/terms/modeling/
 date: "2026-07-18T15:28:01.257329Z"
 lastmod: "2026-07-18T17:15:08.688762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Modelleren is het proces van het creëren van abstracte representaties van real-world systemen of dataverdelingen om voorspelling, simulatie of besluitvorming mogelijk te maken."
 ---
-
 ## Definition
 
 AI-modelleren omvat het volledige workflow van het ontwerpen, trainen en valideren van algoritmen die patronen uit data leren. Het houdt in het selecteren van geschikte architecturen, het definiëren van verliesfuncties en het optimaliseren van parameters om de algemene prestaties te maximaliseren.

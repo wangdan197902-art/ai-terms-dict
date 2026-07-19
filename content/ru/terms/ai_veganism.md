@@ -1,23 +1,24 @@
 ---
-title: "ИИ-веганизм"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: ИИ-веганизм
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /ru/terms/ai_veganism/
-date: "2026-07-18T15:38:09.078233Z"
-lastmod: "2026-07-18T16:38:07.114550Z"
+slug: ai_veganism
+date: '2026-07-18T15:38:09.078233Z'
+lastmod: '2026-07-18T16:38:07.114550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метафорическое понятие, предполагающее, что системы ИИ должны функционировать без опоры на данные или труд человека."
+source: agnes_llm
+status: published
+language: ru
+description: Метафорическое понятие, предполагающее, что системы ИИ должны функционировать
+  без опоры на данные или труд человека.
 ---
-
 ## Definition
 
 ИИ-веганизм — это спекулятивный и метафорический термин, обозначающий идею создания искусственного интеллекта, который обучается исключительно на синтетических, самостоятельно сгенерированных данных или данных из физического мира, а не использует человеческие данные.

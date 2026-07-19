@@ -1,23 +1,24 @@
 ---
-title: "Resmi Kavram Analizi"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Resmi Kavram Analizi
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /tr/terms/formal_concept_analysis/
-date: "2026-07-18T15:53:59.581825Z"
-lastmod: "2026-07-18T16:38:07.310491Z"
+slug: formal_concept_analysis
+date: '2026-07-18T15:53:59.581825Z'
+lastmod: '2026-07-18T16:38:07.310491Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Resmi Kavram Analizi (RKA), veri kullanarak resmi bağlamlar ve kavram kafesleri aracılığıyla kavramsal hiyerarşiler türeten matematiksel bir yöntemdir."
+source: agnes_llm
+status: published
+language: tr
+description: Resmi Kavram Analizi (RKA), veri kullanarak resmi bağlamlar ve kavram
+  kafesleri aracılığıyla kavramsal hiyerarşiler türeten matematiksel bir yöntemdir.
 ---
-
 ## Definition
 
 RKA, nesneler ile özellikleri arasındaki ilişkileri analiz etmek için katı bir çerçeve sağlar ve bu da kavram kafesi adı verilen hiyerarşik bir yapıyla sonuçlanır. Bilgi...

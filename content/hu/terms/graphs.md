@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /hu/terms/graphs/
 date: "2026-07-18T15:26:46.928269Z"
 lastmod: "2026-07-18T17:15:09.721772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A többes számú alak, amely több gráfstruktúrára vagy a gépi tanulásban az adat trendjeinek vizuális ábrázolására utal."
 ---
-
 ## Definition
 
 Míg az egyes számú „gráf” az absztrakt adatszerkezetre utal, addig a „gráfok” gyakran több különböző gráf példányt vagy a gépi tanulás monitorozásához használt vizuális ábrázolást jelent. A vizualizációban vonalas vagy oszlopdiagrammok is ide tartoznak.

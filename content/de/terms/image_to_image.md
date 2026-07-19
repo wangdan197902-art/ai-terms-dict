@@ -1,23 +1,25 @@
 ---
-title: "Bild-zu-Bild"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Bild-zu-Bild
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /de/terms/image_to_image/
-date: "2026-07-18T11:19:08.291314Z"
-lastmod: "2026-07-18T11:44:44.950677Z"
+slug: image_to_image
+date: '2026-07-18T11:19:08.291314Z'
+lastmod: '2026-07-18T11:44:44.950677Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine generative KI-Technik, die ein Eingabebild in einen anderen Stil, ein anderes Format oder einen anderen Inhalt transformiert, während strukturelle Elemente erhalten bleiben."
+source: agnes_llm
+status: published
+language: de
+description: Eine generative KI-Technik, die ein Eingabebild in einen anderen Stil,
+  ein anderes Format oder einen anderen Inhalt transformiert, während strukturelle
+  Elemente erhalten bleiben.
 ---
-
 ## Definition
 
 Bild-zu-Bild (I2I) beinhaltet die Verwendung von Deep-Learning-Modellen wie GANs oder Diffusionsmodellen, um ein Bild in ein anderes umzuwandeln. Im Gegensatz zu einfachen Filtern kann I2I das Erscheinungsbild drastisch verändern, z. B. indem es...

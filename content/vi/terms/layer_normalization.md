@@ -1,23 +1,24 @@
 ---
-title: "Chuẩn hóa lớp"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Chuẩn hóa lớp
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /vi/terms/layer_normalization/
-date: "2026-07-18T15:59:51.756908Z"
-lastmod: "2026-07-18T16:38:07.774655Z"
+slug: layer_normalization
+date: '2026-07-18T15:59:51.756908Z'
+lastmod: '2026-07-18T16:38:07.774655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật chuẩn hóa các kích hoạt của một lớp mạng nơ-ron trên chiều đặc trưng cho từng mẫu riêng lẻ."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật chuẩn hóa các kích hoạt của một lớp mạng nơ-ron trên chiều
+  đặc trưng cho từng mẫu riêng lẻ.
 ---
-
 ## Definition
 
 Chuẩn hóa lớp ổn định quá trình huấn luyện bằng cách giảm thiểu sự dịch chuyển hiệp phương sai nội bộ, đặc biệt hiệu quả trong kiến trúc hồi quy và transformer. Khác với Chuẩn hóa_batch, phụ thuộc vào thống kê theo batch.

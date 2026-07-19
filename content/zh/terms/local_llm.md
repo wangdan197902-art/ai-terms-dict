@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /zh/terms/local_llm/
 date: "2026-07-18T11:24:33.332323Z"
 lastmod: "2026-07-18T11:44:45.526578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "本地 LLM 指的是在个人硬件上运行大型语言模型而非云服务，优先考虑数据隐私和离线可访问性。"
 ---
-
 ## Definition
 
 运行本地 LLM 涉及直接在消费级硬件（如 PC、Mac 或本地服务器）上部署开放权重模型。这种方法消除了对第三方 API 提供商的依赖，确

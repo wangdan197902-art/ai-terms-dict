@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /tr/terms/bayesian_programming/
 date: "2026-07-18T15:43:47.084540Z"
 lastmod: "2026-07-18T16:38:07.278836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Büyük olasılıkla karmaşık, hiyerarşik modellere olan Bayes çıkarımını genişleten olasılıksal muhakeme için resmi bir çerçeve."
 ---
-
 ## Definition
 
 Bayesçi programlama, karmaşık, çok katmanlı olasılıksal bağımlılıkları ele almak için Bayes teoremini genelleştiren matematiksel bir çerçevedir. Geliştiricilerin hiyerarşik modeller tanımlamasına olanak tanır.

@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /fi/terms/algorithmic_inference/
 date: "2026-07-18T15:41:51.338299Z"
 lastmod: "2026-07-18T17:15:09.382001Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Algoritmisen päättelyn soveltaminen (inference) on prosessi, jossa koulutettu koneoppimismalli soveltaa oppimiaan kuviota uusiin, aiemmin näkemättömiin tietoihin tehdäkseen ennusteita tai päätöksiä."
 ---
-
 ## Definition
 
 Tunnetaan myös nimellä ennustaminen tai pisteytys. Päättelyn soveltaminen tapahtuu mallin koulutusvaiheen jälkeen. Algoritmi ottaa syötteeksi ominaisuudet, prosessoi ne sisäisen rakenteensa (kuten neuronaaliverkon painokerrosten) kautta ja tuottaa lopputuloksen.

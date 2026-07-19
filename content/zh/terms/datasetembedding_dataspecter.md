@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /zh/terms/datasetembedding_dataspecter/
 date: "2026-07-18T11:13:01.751975Z"
 lastmod: "2026-07-18T11:44:45.477288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个基于计算机科学出版物和引用的大规模数据集，专为训练学术论文嵌入模型而设计。"
 ---
-
 ## Definition
 
 Specter 数据集构建于庞大的计算机科学论文集合之上，利用引用网络创建监督学习信号。它将摘要与其引用论文配对以...

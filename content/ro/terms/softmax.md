@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /ro/terms/softmax/
-date: "2026-07-18T15:38:35.785290Z"
-lastmod: "2026-07-18T17:15:09.619032Z"
+slug: softmax
+date: '2026-07-18T15:38:35.785290Z'
+lastmod: '2026-07-18T17:15:09.619032Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O funcție matematică care convertește un vector de scoruri reale arbitrare într-o distribuție de probabilitate."
+source: agnes_llm
+status: published
+language: ro
+description: O funcție matematică care convertește un vector de scoruri reale arbitrare
+  într-o distribuție de probabilitate.
 ---
-
 ## Definition
 
 Softmax este utilizat pe scară largă în stratul de ieșire al rețelelor neuronale pentru sarcini de clasificare multi-clasă. Preia un vector de logaritmi brute (logits) și îi normalizează astfel încât fiecare element să reprezinte o probabilitate.

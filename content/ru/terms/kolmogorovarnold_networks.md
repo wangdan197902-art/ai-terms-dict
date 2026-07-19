@@ -1,23 +1,24 @@
 ---
-title: "Сети Колмогорова — Арнольда"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Сети Колмогорова — Арнольда
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /ru/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:00:35.346660Z"
-lastmod: "2026-07-18T16:38:07.172952Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:00:35.346660Z'
+lastmod: '2026-07-18T16:38:07.172952Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Архитектуры нейронных сетей, основанные на теореме Колмогорова — Арнольда, предлагающие альтернативу многослойным перцептронам."
+source: agnes_llm
+status: published
+language: ru
+description: Архитектуры нейронных сетей, основанные на теореме Колмогорова — Арнольда,
+  предлагающие альтернативу многослойным перцептронам.
 ---
-
 ## Definition
 
 Сети Колмогорова — Арнольда (KAN) — это недавний класс нейронных сетей, вдохновленный теоремой Колмогорова — Арнольда, которая утверждает, что любую непрерывную функцию многих переменных можно представить в виде суперпозиции...

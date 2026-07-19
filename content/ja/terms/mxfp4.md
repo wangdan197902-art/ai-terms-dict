@@ -1,23 +1,23 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /ja/terms/mxfp4/
-date: "2026-07-18T11:25:21.019890Z"
-lastmod: "2026-07-18T11:44:45.125803Z"
+slug: mxfp4
+date: '2026-07-18T11:25:21.019890Z'
+lastmod: '2026-07-18T11:44:45.125803Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "AIハードウェアアクセラレータにおける行列乗算の効率化のために最適化された、混合精度浮動小数点形式。"
+source: agnes_llm
+status: published
+language: ja
+description: AIハードウェアアクセラレータにおける行列乗算の効率化のために最適化された、混合精度浮動小数点形式。
 ---
-
 ## Definition
 
 MXFP4（Mixed eXtended Floating Point 4-bit）は、AIワークロードにおけるパフォーマンスの最適化とメモリ帯域幅の使用削減を目的として導入された特殊なデータ型フォーマットです。混合精度演算を可能にすることで、

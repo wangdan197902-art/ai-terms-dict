@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /ja/terms/psychology_of_reasoning/
 date: "2026-07-18T11:28:57.680446Z"
 lastmod: "2026-07-18T11:44:45.134947Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間が判断を下し、意思決定を行い、問題を解決する方法を研究する学際的分野であり、認知型AIアーキテクチャに示唆を与える。"
 ---
-
 ## Definition
 
 この分野は、人間の演繹、帰納、アブダクションの推論を支える精神的プロセスを調査します。バイアス、ヒューリスティクス、思考を導く論理的構造を探求します。AIにおいて、この洞察は、人間の認知特性を模倣したり、人間の思考パターンとAIの推論プロセスを整合させたりするために活用されます。

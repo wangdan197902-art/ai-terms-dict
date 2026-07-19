@@ -1,23 +1,24 @@
 ---
-title: "Устойчивый"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Устойчивый
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /ru/terms/robust/
-date: "2026-07-18T15:28:54.223055Z"
-lastmod: "2026-07-18T16:38:07.088954Z"
+slug: robust
+date: '2026-07-18T15:28:54.223055Z'
+lastmod: '2026-07-18T16:38:07.088954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Описывает способность модели ИИ или системы сохранять производительность несмотря на наличие шума, ошибок или неожиданных входных данных."
+source: agnes_llm
+status: published
+language: ru
+description: Описывает способность модели ИИ или системы сохранять производительность
+  несмотря на наличие шума, ошибок или неожиданных входных данных.
 ---
-
 ## Definition
 
 В искусственном интеллекте устойчивость (робастность) относится к устойчивости модели к состязательным атакам, сдвигам в распределении данных или зашумленным входам. Устойчивый алгоритм продолжает функционировать корректно даже при наличии помех или аномалий в данных.

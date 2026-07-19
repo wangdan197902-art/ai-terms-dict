@@ -1,23 +1,24 @@
 ---
-title: "toma de decisiones"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: toma de decisiones
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /es/terms/decision_making/
-date: "2026-07-18T10:28:03.045094Z"
-lastmod: "2026-07-18T11:44:44.755763Z"
+slug: decision_making
+date: '2026-07-18T10:28:03.045094Z'
+lastmod: '2026-07-18T11:44:44.755763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso cognitivo de seleccionar un curso de acción entre múltiples alternativas basándose en la información disponible."
+source: agnes_llm
+status: published
+language: es
+description: El proceso cognitivo de seleccionar un curso de acción entre múltiples
+  alternativas basándose en la información disponible.
 ---
-
 ## Definition
 
 En inteligencia artificial, la toma de decisiones se refiere al proceso algorítmico mediante el cual un sistema evalúa acciones potenciales frente a criterios u objetivos específicos para seleccionar el resultado óptimo. Esto involucra la evaluación de estados y la selección de acciones que maximicen la utilidad esperada.

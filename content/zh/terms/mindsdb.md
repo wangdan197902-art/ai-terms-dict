@@ -7,8 +7,6 @@ tags: ["tooling", "sql", "automation"]
 difficulty: 2
 weight: 1
 slug: "mindsdb"
-aliases:
-  - /zh/terms/mindsdb/
 date: "2026-07-18T11:26:00.920901Z"
 lastmod: "2026-07-18T11:44:45.531663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "MindsDB是一个开源平台，使开发人员能够直接使用SQL在其现有数据库中构建、训练和部署机器学习模型。"
 ---
-
 ## Definition
 
 MindsDB充当传统关系数据库与现代机器学习工作流之间的桥梁。它允许用户使用标准SQL查询创建预测模型，从而消除了在不同工具之间移动数据的需求。

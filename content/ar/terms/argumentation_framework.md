@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /ar/terms/argumentation_framework/
 date: "2026-07-18T15:44:21.191997Z"
 lastmod: "2026-07-18T17:15:08.475639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "هيكل رسمي يُستخدم لنمذجة وحل النزاعات بين المطالبات أو القرارات المتنافسة في أنظمة الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 توفر أطر الجدال أساسًا رياضيًا لتمثيل الحجج والهجمات والدفاعات بينها. في هندسة الذكاء الاصطناعي، تساعد هذه الأطر الأنظمة على اتخاذ قرارات شفافة وقابلة للتبرير من خلال وزن...

@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /ro/terms/chain/
 date: "2026-07-18T15:49:04.319903Z"
 lastmod: "2026-07-18T17:15:09.635557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un Lanț este o secvență de pași sau module conectate care procesează datele în mod secvențial pentru a îndeplini un sarcină complexă."
 ---
-
 ## Definition
 
 În dezvoltarea aplicațiilor AI, un Lanț se referă la o structură liniară sau graf orientat în care mai multe componente, cum ar fi apeluri către modele LLM, analizatori sau instrumente externe, sunt legate între ele. Datele curg de la o componentă la alta pentru a realiza fluxul de lucru.

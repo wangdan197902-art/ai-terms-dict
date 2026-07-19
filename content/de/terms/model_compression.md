@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /de/terms/model_compression/
 date: "2026-07-18T11:24:10.056065Z"
 lastmod: "2026-07-18T11:44:44.966214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Modellkomprimierung bezeichnet Techniken, die die Größe und den Rechenaufwand von Machine-Learning-Modellen reduzieren."
 ---
-
 ## Definition
 
 Diese Kategorie umfasst Methoden wie Pruning (Beschneiden), Quantisierung und Knowledge Distillation (Wissensdistillation), die darauf abzielen, den Speicherbedarf des Modells zu verringern, während die Leistung erhalten bleibt. Sie ist entscheidend für die Bereitstellung komplexer KI-Modelle

@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /ja/terms/vision_language/
 date: "2026-07-18T11:01:42.026106Z"
 lastmod: "2026-07-18T11:44:45.059438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ビジョン・ランゲージモデルは、視覚データとテキスト情報を処理して相関させ、マルチモーダルな文脈を理解するAIシステムです。"
 ---
-
 ## Definition
 
 ビジョン・ランゲージモデルは、マルチモーダル大規模言語モデル（MLLMs）とも呼ばれ、コンピュータビジョンと自然言語処理を統合します。これにより、AIは画像を理解し、テキストを生成することが可能になります。

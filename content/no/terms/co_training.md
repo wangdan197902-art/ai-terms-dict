@@ -1,23 +1,25 @@
 ---
-title: "Ko-trening"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Ko-trening
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /no/terms/co_training/
-date: "2026-07-18T15:46:09.508588Z"
-lastmod: "2026-07-18T16:38:06.980433Z"
+slug: co_training
+date: '2026-07-18T15:46:09.508588Z'
+lastmod: '2026-07-18T16:38:06.980433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Ko-trening er en algoritme for halvovervåket læring der to visninger av dataene brukes til å trene separate klassifikatorer som iterativt merker ulagte data for hverandre."
+source: agnes_llm
+status: published
+language: 'no'
+description: Ko-trening er en algoritme for halvovervåket læring der to visninger
+  av dataene brukes til å trene separate klassifikatorer som iterativt merker ulagte
+  data for hverandre.
 ---
-
 ## Definition
 
 Denne metoden utnytter flere distinkte sett med funksjoner (visninger) av de samme datapunktene. Til å begynne med trenes to klassifikatorer på små lagde datasett fra hver visning. De forutser deretter etiketter for ulagte

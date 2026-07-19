@@ -1,23 +1,24 @@
 ---
-title: "Moni-Head Attention"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Moni-Head Attention
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /fi/terms/multi_head_attention/
-date: "2026-07-18T15:29:05.638527Z"
-lastmod: "2026-07-18T17:15:09.355388Z"
+slug: multi_head_attention
+date: '2026-07-18T15:29:05.638527Z'
+lastmod: '2026-07-18T17:15:09.355388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mekanismi muunnosmalleissa, joka mahdollistaa mallin keskittymisen tietoon eri esitystilan aliavaruksista samanaikaisesti."
+source: agnes_llm
+status: published
+language: fi
+description: Mekanismi muunnosmalleissa, joka mahdollistaa mallin keskittymisen tietoon
+  eri esitystilan aliavaruksista samanaikaisesti.
 ---
-
 ## Definition
 
 Moni-Head Attention laajentaa vakiintunutta attention-mekanismia suorittamalla sen useita kertoja rinnakkain eri opittujen lineaaristen projektioiden kanssa. Tämä mahdollistaa mallin keskittymisen yhteisesti eri ominaisuuksiin.

@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /it/terms/cli/
 date: "2026-07-18T15:34:52.481573Z"
 lastmod: "2026-07-18T17:15:08.583605Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'interfaccia a riga di comando (CLI) è un metodo basato sul testo per interagire con i programmi software digitando comandi in un terminale."
 ---
-
 ## Definition
 
 Un'interfaccia a riga di comando (CLI) consente agli utenti di controllare il software inserendo comandi testuali invece di utilizzare elementi grafici. Nello sviluppo dell'intelligenza artificiale, le CLI sono essenziali per eseguire script, gestire

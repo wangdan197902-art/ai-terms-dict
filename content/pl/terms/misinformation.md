@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /pl/terms/misinformation/
 date: "2026-07-18T16:07:27.638447Z"
 lastmod: "2026-07-18T17:15:08.897519Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Fałszywe lub niepoprawne informacje rozpowszechniane niezależnie od intencji wprowadzenia w błąd."
 ---
-
 ## Definition
 
 Nieprawdziwe informacje odnoszą się do fałszywych lub mylących treści udostępnianych bez celowej intencji spowodowania szkody lub oszukania. Różnią się one od dezinformacji, która jest celowo fabrykowana. W kontekście sztucznej inteligencji

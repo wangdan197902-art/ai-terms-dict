@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /nl/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T15:58:35.202648Z"
 lastmod: "2026-07-18T17:15:08.751545Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een boektitel die de snijvlakken van menselijkheid en technologie onderzoekt, vaak geciteerd in discussies over AI-ethiek en de toekomst van werk."
 ---
-
 ## Definition
 
 Deze frase verwijst naar een specifiek literair werk dat onderzoekt hoe mensen relevantie en waardigheid kunnen behouden te midden van snelle technologische vooruitgang. In AI-discours fungeert het als culturele referentie voor de menselijke dimensie in een geautomatiseerde wereld.

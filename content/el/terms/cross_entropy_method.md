@@ -1,23 +1,24 @@
 ---
-title: "Μέθοδος Διασταυρούμενης Εντροπίας"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Μέθοδος Διασταυρούμενης Εντροπίας
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /el/terms/cross_entropy_method/
-date: "2026-07-18T15:57:32.719483Z"
-lastmod: "2026-07-18T17:15:09.893591Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:57:32.719483Z'
+lastmod: '2026-07-18T17:15:09.893591Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τυχαία τεχνική βελτιστοποίησης που χρησιμοποιεί προσομοίωση Monte Carlo για να βελτιώσει επαναληπτικά τις εκτιμήσεις των πιθανοτήτων σπάνιων γεγονότων."
+source: agnes_llm
+status: published
+language: el
+description: Μια τυχαία τεχνική βελτιστοποίησης που χρησιμοποιεί προσομοίωση Monte
+  Carlo για να βελτιώσει επαναληπτικά τις εκτιμήσεις των πιθανοτήτων σπάνιων γεγονότων.
 ---
-
 ## Definition
 
 Η Μέθοδος Διασταυρούμενης Εντροπίας (CEM) είναι ένας ισχυρός αλγόριθμος βελτιστοποίησης γενικής χρήσης, ο οποίος χρησιμοποιείται τόσο για διακριτά όσο και για συνεχή προβλήματα. Λειτουργεί διατηρώντας μια κατανομή πιθανότητας πάνω στο χώρο αναζήτησης.

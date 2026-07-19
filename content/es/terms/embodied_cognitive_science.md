@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /es/terms/embodied_cognitive_science/
 date: "2026-07-18T10:47:56.652969Z"
 lastmod: "2026-07-18T11:44:44.801961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La ciencia cognitiva encarnada es un marco teórico que propone que la cognición humana está fundamentalmente moldeada por las interacciones del cuerpo con el entorno."
 ---
-
 ## Definition
 
 Este campo desafía las visiones tradicionales que tratan la mente como una computadora que procesa símbolos abstractos. En cambio, argumenta que los procesos cognitivos están profundamente arraigados en las características físicas del cuerpo

@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /cs/terms/knowledge_distillation/
 date: "2026-07-18T16:04:20.914947Z"
 lastmod: "2026-07-18T17:15:09.144897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Knowledge Distillation je technika komprese modelu, při které se menší model studenta učí napodobovat chování většího modelu učitele."
 ---
-
 ## Definition
 
 Knowledge Distillation je metoda strojového učení používaná ke kompresi velké, složité neuronové sítě (učitel) do menší, efektivnější sítě (student). Model studenta je trénován tak, aby napodobil výstupy učitele.

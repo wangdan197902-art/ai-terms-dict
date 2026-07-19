@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /zh/terms/extensive/
 date: "2026-07-18T10:51:07.845955Z"
 lastmod: "2026-07-18T11:44:45.367884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "描述涵盖大范围、大容量或大量场景的人工智能数据集、计算或评估。"
 ---
-
 ## Definition
 
 “广泛”指人工智能操作的规模和全面性，例如大规模数据集、广泛的评估套件或沉重的计算负载。广泛的数据集确保模型的泛化能力和鲁棒性。

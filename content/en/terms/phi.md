@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /en/terms/phi/
 date: "2026-07-18T10:10:45.251377Z"
 lastmod: "2026-07-18T11:44:44.709488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A series of small but highly efficient large language models developed by Microsoft Research, focusing on knowledge density and reasoning."
 ---
-
 ## Definition
 
 Phi, short for 'Foundation models based on Teaching-Learning Paradigm', is a family of compact large language models created by Microsoft. Unlike traditional LLMs trained on massive web corpora, Phi models are trained on high-quality synthetic text derived from trusted sources. They demonstrate exceptional reasoning capabilities relative to their size, making them suitable for resource-constrained environments and applications requiring precise logical inference without the overhead of larger models.

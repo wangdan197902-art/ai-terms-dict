@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /zh/terms/ameca/
 date: "2026-07-18T11:04:49.783874Z"
 lastmod: "2026-07-18T11:44:45.441832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由Engineered Arts开发的高度先进的人形机器人，以其出色的面部表情和类人交互能力而闻名。"
 ---
-
 ## Definition
 
 Ameca是一款尖端的人形机器人，仅面部就拥有超过40个自由度，能够实现微妙且逼真的情感表达。它被设计用于研究人机交互。

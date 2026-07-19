@@ -1,23 +1,24 @@
 ---
-title: "Phát hiện Đối tượng (Object Detection)"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: Phát hiện Đối tượng (Object Detection)
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /vi/terms/object_detection/
-date: "2026-07-18T16:05:47.143728Z"
-lastmod: "2026-07-18T16:38:07.788991Z"
+slug: object_detection
+date: '2026-07-18T16:05:47.143728Z'
+lastmod: '2026-07-18T16:38:07.788991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật thị giác máy tính nhằm xác định và định vị các đối tượng trong ảnh hoặc luồng video bằng cách sử dụng các hộp giới hạn (bounding boxes)."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật thị giác máy tính nhằm xác định và định vị các đối tượng
+  trong ảnh hoặc luồng video bằng cách sử dụng các hộp giới hạn (bounding boxes).
 ---
-
 ## Definition
 
 Phát hiện đối tượng mở rộng phân loại ảnh bằng cách không chỉ xác định đối tượng nào có mặt mà còn xác định vị trí của chúng. Nó trả về các tọa độ khung bao quanh các mục được phát hiện cùng với nhãn lớp của

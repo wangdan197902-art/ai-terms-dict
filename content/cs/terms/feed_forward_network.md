@@ -1,23 +1,24 @@
 ---
-title: "Přímá síť"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Přímá síť
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /cs/terms/feed_forward_network/
-date: "2026-07-18T15:57:37.745918Z"
-lastmod: "2026-07-18T17:15:09.130112Z"
+slug: feed_forward_network
+date: '2026-07-18T15:57:37.745918Z'
+lastmod: '2026-07-18T17:15:09.130112Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Třída umělých neuronových sítí, kde spojení mezi uzly netvoří cykly a informace se šíří jedním směrem."
+source: agnes_llm
+status: published
+language: cs
+description: Třída umělých neuronových sítí, kde spojení mezi uzly netvoří cykly a
+  informace se šíří jedním směrem.
 ---
-
 ## Definition
 
 Přímé sítě (FFN), také známé jako vícevrstvé perceptrony (MLP), zpracovávají data postupně prostřednictvím vrstev neuronů od vstupu k výstupu bez zpětnovazebních smyček. Každý neuron přijímá vstupy

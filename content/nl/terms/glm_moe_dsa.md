@@ -1,23 +1,24 @@
 ---
-title: "GLM MoE DSA"
-term_id: "glm_moe_dsa"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "LLM"]
+title: GLM MoE DSA
+term_id: glm_moe_dsa
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- LLM
 difficulty: 4
 weight: 1
-slug: "glm_moe_dsa"
-aliases:
-  - /nl/terms/glm_moe_dsa/
-date: "2026-07-18T15:57:20.764798Z"
-lastmod: "2026-07-18T17:15:08.748740Z"
+slug: glm_moe_dsa
+date: '2026-07-18T15:57:20.764798Z'
+lastmod: '2026-07-18T17:15:08.748740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Dit lijkt een vermenging van verschillende concepten: GLM (General Language Model), MoE (Mixture of Experts) en mogelijk DSA (Dynamic Sparse Attention of vergelijkbaar)."
+source: agnes_llm
+status: published
+language: nl
+description: 'Dit lijkt een vermenging van verschillende concepten: GLM (General Language
+  Model), MoE (Mixture of Experts) en mogelijk DSA (Dynamic Sparse Attention of vergelijkbaar).'
 ---
-
 ## Definition
 
 Er is geen enkele standaardterm 'GLM MoE DSA'. Het combineert echter waarschijnlijk GLM (een specifieke LLM-architectuur), MoE (Mixture of Experts, een techniek om de modelgrootte efficiënt op te schalen door alleen een subset van experts te activeren) en DSA (Dynamic Sparse Attention, een aandachtmechanisme dat dynamisch selecteert welke tokens belangrijk zijn).

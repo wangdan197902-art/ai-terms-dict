@@ -1,23 +1,24 @@
 ---
-title: "Convolutional Neural Network"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Convolutional Neural Network
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /en/terms/convolutional_neural_network/
-date: "2026-07-18T07:38:44.863785Z"
-lastmod: "2026-07-18T11:44:44.578523Z"
+slug: convolutional_neural_network
+date: '2026-07-18T07:38:44.863785Z'
+lastmod: '2026-07-18T11:44:44.578523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A specialized class of deep neural networks primarily used for processing grid-like data, such as images, by applying convolutional filters."
+source: agnes_llm
+status: published
+language: en
+description: A specialized class of deep neural networks primarily used for processing
+  grid-like data, such as images, by applying convolutional filters.
 ---
-
 ## Definition
 
 Convolutional Neural Networks (CNNs) are designed to automatically and adaptively learn spatial hierarchies of features from visual inputs. They utilize convolutional layers that apply filters to detect local patterns like edges, textures, and shapes. Through pooling and fully connected layers, CNNs reduce dimensionality and extract high-level abstractions, making them highly effective for image classification, object detection, and segmentation tasks where spatial relationships are critical.

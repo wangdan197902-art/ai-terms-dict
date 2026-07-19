@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /sv/terms/human_problem_solving/
 date: "2026-07-18T16:01:50.040543Z"
 lastmod: "2026-07-18T17:15:09.012237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den kognitiva process genom vilken individer identifierar, analyserar och löser komplexa problem med hjälp av resonemang, kreativitet och erfarenhet."
 ---
-
 ## Definition
 
 Mänsklig problemlösning omfattar de mångfacetterade kognitiva förmågorna som människor använder för att navigera utmaningar, från enkla uppgifter till abstrakta konceptuella svårigheter. Till skillnad från algoritmiska metoder...

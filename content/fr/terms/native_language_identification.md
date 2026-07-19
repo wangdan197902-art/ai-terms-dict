@@ -1,23 +1,24 @@
 ---
-title: "Identification de la langue maternelle"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identification de la langue maternelle
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /fr/terms/native_language_identification/
-date: "2026-07-18T11:31:08.858431Z"
-lastmod: "2026-07-18T11:44:45.300150Z"
+slug: native_language_identification
+date: '2026-07-18T11:31:08.858431Z'
+lastmod: '2026-07-18T11:44:45.300150Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus de détermination automatique de la langue maternelle d'un locuteur à partir de ses échantillons de parole ou de texte."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus de détermination automatique de la langue maternelle d'un
+  locuteur à partir de ses échantillons de parole ou de texte.
 ---
-
 ## Definition
 
 L'identification de la langue maternelle (NLI) est un sous-domaine du traitement automatique des langues qui se concentre sur la reconnaissance de la première langue apprise par un locuteur. Contrairement à la détection de langue générale, la NLI analyse les

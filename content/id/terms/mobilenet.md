@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /id/terms/mobilenet/
 date: "2026-07-18T16:00:53.811441Z"
 lastmod: "2026-07-18T16:38:07.483905Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "MobileNet adalah keluarga jaringan saraf tiruan ringan yang dirancang untuk aplikasi visi pada perangkat seluler dan tertanam (embedded)."
 ---
-
 ## Definition
 
 MobileNet memanfaatkan konvolusi terpisah kedalaman (depthwise separable convolutions) untuk secara drastis mengurangi biaya komputasi dan ukuran model dibandingkan dengan konvolusi standar. Arsitektur ini memungkinkan ekstraksi fitur yang efisien pada

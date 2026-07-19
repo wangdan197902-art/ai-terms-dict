@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /ja/terms/building/
 date: "2026-07-18T10:48:49.583379Z"
 lastmod: "2026-07-18T11:44:45.003165Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "初期設計から本番環境への準備に至るまで、AIモデルやシステムの開発、トレーニング、デプロイメントの実践的なフェーズ。"
 ---
-
 ## Definition
 
 ビルディングとは、データの収集、モデルの選択、トレーニング、検証、デプロイメントを含む、AIソリューションを作成するためのエンドツーエンドのエンジニアリングプロセスを指します。これには技術インフラの整備も含まれます。

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stable Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /ko/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:53:20.806808Z"
-lastmod: "2026-07-18T16:38:06.833420Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:53:20.806808Z'
+lastmod: '2026-07-18T16:38:06.833420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "정적 이미지에서 비디오를 생성하기 위해 Stable Video Diffusion 모델을 활용하는 Hugging Face Diffusers 파이프라인 래퍼입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 정적 이미지에서 비디오를 생성하기 위해 Stable Video Diffusion 모델을 활용하는 Hugging Face Diffusers
+  파이프라인 래퍼입니다.
 ---
-
 ## Definition
 
 이 용어는 비디오 생성을 위해 설계된 Hugging Face Diffusers 라이브러리의 특정 구현을 지칭합니다. 이는 잠재 비디오 디퓨전 모델인 Stable Video Diffusion(SVD) 모델을 통합합니다.

@@ -1,23 +1,22 @@
 ---
-title: "Three-factor learning"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: Three-factor learning
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /ko/terms/three_factor_learning/
-date: "2026-07-18T16:18:31.748804Z"
-lastmod: "2026-07-18T16:38:06.915893Z"
+slug: three_factor_learning
+date: '2026-07-18T16:18:31.748804Z'
+lastmod: '2026-07-18T16:38:06.915893Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "보상, 가치, 정책 요소를 활용하여 에이전트의 행동을 최적화하는 강화학습 프레임워크입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 보상, 가치, 정책 요소를 활용하여 에이전트의 행동을 최적화하는 강화학습 프레임워크입니다.
 ---
-
 ## Definition
 
 3요인 학습(Three-factor learning)은 강화학습 내에서 학습 과정을 세 가지 명확한 구성 요소로 분해하는 특정 접근 방식입니다. 즉, 보상 신호(Reward Signal), 가치 함수(Value Function), 정책(Policy)으로 구성되며...

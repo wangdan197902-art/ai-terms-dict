@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /pt/terms/score/
 date: "2026-07-18T14:39:15.812967Z"
 lastmod: "2026-07-18T15:51:59.438738Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma pontuação é um valor numérico que representa a qualidade, confiança ou adequação da previsão ou solução de um modelo."
 ---
-
 ## Definition
 
 As pontuações quantificam o desempenho de um modelo de aprendizado de máquina contra métricas específicas, como precisão, exatidão ou recompensa. No aprendizado por reforço, as pontuações indicam recompensas cumulativas, enquanto na clas

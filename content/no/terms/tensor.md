@@ -1,23 +1,24 @@
 ---
-title: "Tensor"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tensor
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /no/terms/tensor/
-date: "2026-07-18T16:18:22.970357Z"
-lastmod: "2026-07-18T16:38:07.052341Z"
+slug: tensor
+date: '2026-07-18T16:18:22.970357Z'
+lastmod: '2026-07-18T16:38:07.052341Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En flerdimensjonal matrise som fungerer som den grunnleggende datastrukturen i rammeverk for dyp læring."
+source: agnes_llm
+status: published
+language: 'no'
+description: En flerdimensjonal matrise som fungerer som den grunnleggende datastrukturen
+  i rammeverk for dyp læring.
 ---
-
 ## Definition
 
 Innen datavitenskap og dyp læring er en tensor et matematisk objekt som generaliserer skalarer, vektorer og matriser til høyere dimensjoner. Den er karakterisert ved sin rang (antall dimensjoner) og form.

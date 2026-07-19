@@ -1,23 +1,24 @@
 ---
-title: "Framåtriktat nätverk"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Framåtriktat nätverk
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /sv/terms/feed_forward_network/
-date: "2026-07-18T15:57:49.106518Z"
-lastmod: "2026-07-18T17:15:09.003671Z"
+slug: feed_forward_network
+date: '2026-07-18T15:57:49.106518Z'
+lastmod: '2026-07-18T17:15:09.003671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En klass av artificiella neuronnät där anslutningarna mellan noder inte bildar cykler, utan sprider information i en riktning."
+source: agnes_llm
+status: published
+language: sv
+description: En klass av artificiella neuronnät där anslutningarna mellan noder inte
+  bildar cykler, utan sprider information i en riktning.
 ---
-
 ## Definition
 
 Framåtriktade nätverk (FFN), även kända som flernivåspereceptroner (MLP), bearbetar data sekventiellt genom lager av neuroner från indata till utdata utan feedback-loopar. Varje neuron tar emot indata, väger dem, adderar en bias och tillämpar en aktiveringsfunktion för att producera ett utdatavärde, vilket gör dem lämpliga för att approximera komplexa icke-linjära funktioner.

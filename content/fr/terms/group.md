@@ -1,23 +1,24 @@
 ---
-title: "Groupe"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: Groupe
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /fr/terms/group/
-date: "2026-07-18T10:51:01.365269Z"
-lastmod: "2026-07-18T11:44:45.164426Z"
+slug: group
+date: '2026-07-18T10:51:01.365269Z'
+lastmod: '2026-07-18T11:44:45.164426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une structure mathématique fondamentale constituée d'un ensemble muni d'une opération qui combine deux éléments quelconques pour en former un troisième."
+source: agnes_llm
+status: published
+language: fr
+description: Une structure mathématique fondamentale constituée d'un ensemble muni
+  d'une opération qui combine deux éléments quelconques pour en former un troisième.
 ---
-
 ## Definition
 
 En mathématiques et en informatique théorique, un groupe est un ensemble G accompagné d'une opération binaire satisfaisant quatre axiomes : la clôture, l'associativité, l'identité et l'inversibilité. En IA, la théorie des groupes...

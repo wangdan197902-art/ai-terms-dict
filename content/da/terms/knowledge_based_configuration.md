@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /da/terms/knowledge_based_configuration/
 date: "2026-07-18T16:03:04.239621Z"
 lastmod: "2026-07-18T17:15:09.302856Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En automatiseret proces, der bruger domænespecifikke vidensbaser til at generere gyldige produktkonfigurationer fra brugerbegrænsninger."
 ---
-
 ## Definition
 
 Denne tilgang anvender teknikker til tilfredsstillelse af begrænsninger inden for en vidensbase for at sikre, at samlede produkter opfylder alle tekniske og kundekrav. Det forhindrer ugyldige kombinationer ved at kodificere regler.

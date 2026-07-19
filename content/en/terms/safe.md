@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /en/terms/safe/
 date: "2026-07-18T09:36:45.467042Z"
 lastmod: "2026-07-18T11:44:44.607794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Refers to AI systems designed to operate without causing harm to humans, property, or the environment."
 ---
-
 ## Definition
 
 Safety in AI involves implementing constraints and safeguards to ensure that automated systems behave predictably and do not cause unintended negative consequences. This includes technical measures like fail-safes, monitoring mechanisms, and ethical guidelines embedded in the decision-making process. Safe AI prioritizes human well-being, requiring rigorous testing and validation before deployment in critical infrastructure or sensitive domains.

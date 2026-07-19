@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /ko/terms/cross_modal/
 date: "2026-07-18T15:31:20.629941Z"
 lastmod: "2026-07-18T16:38:06.788222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "텍스트와 이미지 등 서로 다른 감각 데이터 유형 간에 정보를 통합하고 처리하는 기술."
 ---
-
 ## Definition
 
 크로스 모달 AI는 시각, 청각, 텍스트 입력 등 서로 다른 모드에서 데이터를 처리하고 상관관계를 맺습니다. 이러한 시스템은 관련성을 이해하기 위해 공유 표현을 학습합니다.

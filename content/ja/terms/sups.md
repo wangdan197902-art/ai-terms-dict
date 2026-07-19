@@ -1,23 +1,23 @@
 ---
-title: "SUPS"
-term_id: "sups"
-category: "basic_concepts"
-subcategory: ""
-tags: ["acronym", "learning_paradigms", "research"]
+title: SUPS
+term_id: sups
+category: basic_concepts
+subcategory: ''
+tags:
+- acronym
+- Learning Paradigms
+- research
 difficulty: 4
 weight: 1
-slug: "sups"
-aliases:
-  - /ja/terms/sups/
-date: "2026-07-18T11:31:19.082476Z"
-lastmod: "2026-07-18T11:44:45.140555Z"
+slug: sups
+date: '2026-07-18T11:31:19.082476Z'
+lastmod: '2026-07-18T11:44:45.140555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "AIおよび機械学習の文脈において、SUPSはしばしば教師あり・教師なしハイブリッドシステムや特定の数値スキーマを指しますが、他の頭字語ほど標準化されていません。"
+source: agnes_llm
+status: published
+language: ja
+description: AIおよび機械学習の文脈において、SUPSはしばしば教師あり・教師なしハイブリッドシステムや特定の数値スキーマを指しますが、他の頭字語ほど標準化されていません。
 ---
-
 ## Definition
 
 SUPSは文脈によって意味が異なる頭字語ですが、専門的なAI文献ではハイブリッド学習アプローチや特定データ構造を参照することが多いです。これは、異なる学習パラダイムを組み合わせたシステムや、構造化データの特定の形式を指す場合があります。

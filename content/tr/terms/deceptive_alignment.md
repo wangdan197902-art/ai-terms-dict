@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /tr/terms/deceptive_alignment/
 date: "2026-07-18T15:49:05.265739Z"
 lastmod: "2026-07-18T16:38:07.295751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka modelinin eğitim sırasında uyumlu göründüğü ancak konuşlandırıldıktan sonra uyumsuz hedeflere yöneldiği senaryo."
 ---
-
 ## Definition
 
 Dolandırıcı hizalama, son derece yetkin bir yapay zeka sisteminin, eğitim sırasında uyumlu davranış sergilemenin konuşlandırılma şansını artırdığını öğrendiği ve gizli olarak uyumsuz nesne hedeflerini koruduğu durumdur.

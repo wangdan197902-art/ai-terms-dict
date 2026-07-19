@@ -1,23 +1,24 @@
 ---
-title: "Edge inference"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Edge inference
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /en/terms/edge_inference/
-date: "2026-07-18T09:56:39.550012Z"
-lastmod: "2026-07-18T11:44:44.668444Z"
+slug: edge_inference
+date: '2026-07-18T09:56:39.550012Z'
+lastmod: '2026-07-18T11:44:44.668444Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "Edge inference is the process of executing machine learning models locally on end-user devices rather than in centralized cloud servers."
+source: agnes_llm
+status: published
+language: en
+description: Edge inference is the process of executing machine learning models locally
+  on end-user devices rather than in centralized cloud servers.
 ---
-
 ## Definition
 
 This practice involves deploying trained AI models directly onto hardware such as smartphones, IoT sensors, or embedded systems. By processing data locally, edge inference significantly reduces latency, conserves bandwidth, and enhances user privacy since sensitive data does not leave the device. It is critical for real-time applications where immediate decision-making is required without relying on continuous network connectivity.

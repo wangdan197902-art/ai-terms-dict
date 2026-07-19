@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /en/terms/ai_addiction/
 date: "2026-07-18T09:43:55.787226Z"
 lastmod: "2026-07-18T11:44:44.635949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A psychological dependency on interacting with artificial intelligence systems, leading to compulsive usage behaviors."
 ---
-
 ## Definition
 
 AI addiction describes a behavioral condition where individuals develop a compulsive reliance on AI-driven interactions, such as chatbots or social media algorithms. This dependency often stems from the personalized and engaging nature of AI responses, which can trigger dopamine releases similar to other addictive stimuli. It raises significant mental health concerns regarding social isolation, reduced human interaction, and the erosion of critical thinking skills due to over-reliance on automated assistance.

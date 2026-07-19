@@ -1,23 +1,24 @@
 ---
-title: "Tislaus"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Tislaus
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /fi/terms/distillation/
-date: "2026-07-18T15:24:50.464514Z"
-lastmod: "2026-07-18T17:15:09.348409Z"
+slug: distillation
+date: '2026-07-18T15:24:50.464514Z'
+lastmod: '2026-07-18T17:15:09.348409Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tietotiedon tislaus on mallin purkamistekniikka, jossa pienempi opiskelijamalli oppii jäljittelemään suuremman opettajamallin käyttäytymistä."
+source: agnes_llm
+status: published
+language: fi
+description: Tietotiedon tislaus on mallin purkamistekniikka, jossa pienempi opiskelijamalli
+  oppii jäljittelemään suuremman opettajamallin käyttäytymistä.
 ---
-
 ## Definition
 
 Tämä prosessi sisältää tietojen siirtämisen monimutkaisesta, korkeasuorituskykyisestä 'opettaja'-neuraaliverkosta yksinkertaisempaan ja tehokkaampaan 'opiskelija'-verkkoon. Opiskelija oppii ei vain kovista luokitteluarvoista vaan myös pehmeistä todennäköisyysjakaumista, mikä mahdollistaa tiedon tehokkaamman siirtymisen.

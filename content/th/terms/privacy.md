@@ -1,23 +1,23 @@
 ---
-title: "ความเป็นส่วนตัว"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: ความเป็นส่วนตัว
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /th/terms/privacy/
-date: "2026-07-18T15:28:19.418754Z"
-lastmod: "2026-07-18T16:38:07.545960Z"
+slug: privacy
+date: '2026-07-18T15:28:19.418754Z'
+lastmod: '2026-07-18T16:38:07.545960Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สิทธิของบุคคลในการควบคุมการรวบรวม การใช้ และการแบ่งปันข้อมูลส่วนบุคคลภายในระบบปัญญาประดิษฐ์"
+source: agnes_llm
+status: published
+language: th
+description: สิทธิของบุคคลในการควบคุมการรวบรวม การใช้ และการแบ่งปันข้อมูลส่วนบุคคลภายในระบบปัญญาประดิษฐ์
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ ความเป็นส่วนตัวหมายถึงการปกป้องข้อมูลผู้ใช้ที่ละเอียดอ่อนจากการเข้าถึงหรือการใช้ในทางที่ผิดโดยไม่ได้รับอนุญาต ระหว่างขั้นตอนการรวบรวมข้อมูล การฝึกโมเดล และการอนุมาน (inference) ซึ่งเกี่ยวข้องกับ

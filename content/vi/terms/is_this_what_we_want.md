@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /vi/terms/is_this_what_we_want/
 date: "2026-07-18T15:58:36.175384Z"
 lastmod: "2026-07-18T16:38:07.771560Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung đạo đức phê phán được sử dụng để đánh giá các hệ thống AI dựa trên các giá trị xã hội, sự công bằng và các hậu quả có hại tiềm ẩn."
 ---
-
 ## Definition
 
 Cụm từ này đại diện cho một câu hỏi then chốt trong đạo đức và quản trị AI, thúc giục các bên liên quan đánh giá xem các công nghệ AI được triển khai có phù hợp với các giá trị con người và lợi ích công cộng hay không. Nó bao gồm việc giám sát chặt chẽ

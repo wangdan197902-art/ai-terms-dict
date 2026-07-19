@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /cs/terms/text_to_video/
 date: "2026-07-18T16:20:22.378483Z"
 lastmod: "2026-07-18T17:15:09.206828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Převod textu na video je schopnost AI generovat video klipy z textových popisů nebo zadání."
 ---
-
 ## Definition
 
 Převod textu na video označuje generativní modely AI, které vytvářejí dynamický vizuální obsah na základě vstupů v přirozeném jazyce. Tyto systémy analyzují sémantický význam z textových zadání a syntetizují souvislé sekvence.

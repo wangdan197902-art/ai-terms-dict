@@ -1,23 +1,24 @@
 ---
-title: "แข็งแกร่ง"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: แข็งแกร่ง
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /th/terms/robust/
-date: "2026-07-18T15:28:57.742026Z"
-lastmod: "2026-07-18T16:38:07.547898Z"
+slug: robust
+date: '2026-07-18T15:28:57.742026Z'
+lastmod: '2026-07-18T16:38:07.547898Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อธิบายความสามารถของโมเดลหรือระบบ AI ในการรักษาประสิทธิภาพไว้ได้แม้จะมีสัญญาณรบกวน ข้อผิดพลาด หรือข้อมูลนำเข้าที่ไม่คาดคิด"
+source: agnes_llm
+status: published
+language: th
+description: อธิบายความสามารถของโมเดลหรือระบบ AI ในการรักษาประสิทธิภาพไว้ได้แม้จะมีสัญญาณรบกวน
+  ข้อผิดพลาด หรือข้อมูลนำเข้าที่ไม่คาดคิด
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ ความแข็งแกร่งหมายถึงความทนทานของโมเดลต่อการโจมตีแบบประทุษร้าย การเปลี่ยนแปลงของการกระจายข้อมูล หรือข้อมูลนำเข้าที่มีสัญญาณรบกวน อัลกอริทึมที่แข็งแกร่งยังคงทำงานได้อย่างถูกต้องแม้ในสภาวะที่มีความไม่แน่นอน

@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /da/terms/granular_computing/
 date: "2026-07-18T15:58:48.092432Z"
 lastmod: "2026-07-18T17:15:09.293886Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Granulær beregning er et paradigme, der beskæftiger sig med information på forskellige abstraktionsniveauer og organiserer data i meningsfulde strukturer kaldet informationsgranula."
 ---
-
 ## Definition
 
 Denne tilgang efterligner menneskelige kognitive processer ved at gruppere data op i højere-niveau enheder eller 'granula' frem for at behandle individuelle elementer. Det omfatter teknikker som ru mængder, fuzzy logik og andre metoder til håndtering af usikkerhed.

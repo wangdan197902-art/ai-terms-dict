@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /da/terms/empirical_dynamic_modeling/
 date: "2026-07-18T15:54:36.518043Z"
 lastmod: "2026-07-18T17:15:09.284769Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En ikke-parametrisk statistisk tilgang, der bruges til at rekonstruere dynamikken i komplekse systemer ud fra observations-tidsseriedata."
 ---
-
 ## Definition
 
 Empirisk Dynamisk Modellering (EDM) er en ramme til analyse af ikke-lineære dynamiske systemer ved hjælp af observationsdata uden at antage en bestemt parametrisk form. Den bruger metoden med Takens' indlejring...

@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /es/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T10:53:08.479751Z"
 lastmod: "2026-07-18T11:44:44.814692Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Título de un libro que explora la intersección entre la humanidad y la tecnología, citado frecuentemente en discusiones sobre ética de la IA y el futuro del trabajo."
 ---
-
 ## Definition
 
 Esta frase hace referencia a una obra literaria específica que examina cómo los seres humanos pueden mantener su relevancia y dignidad frente al rápido avance tecnológico. En el discurso sobre la IA, sirve como un referente cultural para discutir el impacto social y ético de la automatización.

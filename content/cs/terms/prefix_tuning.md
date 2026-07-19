@@ -1,23 +1,24 @@
 ---
-title: "Prefix Tuning"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Prefix Tuning
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /cs/terms/prefix_tuning/
-date: "2026-07-18T16:13:09.337296Z"
-lastmod: "2026-07-18T17:15:09.190516Z"
+slug: prefix_tuning
+date: '2026-07-18T16:13:09.337296Z'
+lastmod: '2026-07-18T17:15:09.190516Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metoda efektivního doladění parametrů, která přidatelné spojité vektory na vstup vrstev transformátoru."
+source: agnes_llm
+status: published
+language: cs
+description: Metoda efektivního doladění parametrů, která přidatelné spojité vektory
+  na vstup vrstev transformátoru.
 ---
-
 ## Definition
 
 Prefix Tuning je technika adaptace s nízkou spotřebou parametrů pro předtrénované transformátory. Místo aktualizace všech vah modelu se před vstup do každé vrstvy transformátoru přidává posloupnost trainovatelných spojitých vektorů (prefix). To umožňuje přizpůsobit model novým úkolům bez nutnosti přetrénovat celý model.

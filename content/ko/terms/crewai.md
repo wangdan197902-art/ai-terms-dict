@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /ko/terms/crewai/
 date: "2026-07-18T15:46:58.023092Z"
 lastmod: "2026-07-18T16:38:06.822750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "복잡한 작업을 위해 협력하는 역할 기반 자율 AI 에이전트를 오케스트레이션하기 위한 프레임워크입니다."
 ---
-
 ## Definition
 
 CrewAI는 각 에이전트가 특정 역할, 목표 및 도구 세트를 갖는 멀티 에이전트 시스템을 구축하기 위한 구조화된 환경을 제공합니다. 개발자가 워크플로우를 더 쉽게 생성할 수 있도록 도와줍니다.

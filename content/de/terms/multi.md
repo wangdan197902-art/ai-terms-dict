@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /de/terms/multi/
 date: "2026-07-18T10:52:05.398465Z"
 lastmod: "2026-07-18T11:44:44.878945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Präfix, das das Vorhandensein mehrerer Instanzen, Köpfe oder Modalitäten innerhalb eines Systems oder Modells anzeigt."
 ---
-
 ## Definition
 
 Das Präfix „Multi-“ wird in der KI häufig verwendet, um Architekturen oder Prozesse zu bezeichnen, die mehrere parallele Komponenten umfassen. Beispiele sind Multi-Head Attention, die es Modellen ermöglicht, sich auf verschiedene Aspekte zu konzentrieren.

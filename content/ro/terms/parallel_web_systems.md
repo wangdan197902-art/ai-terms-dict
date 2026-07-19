@@ -1,23 +1,24 @@
 ---
-title: "Sisteme Web Paralele"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: Sisteme Web Paralele
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /ro/terms/parallel_web_systems/
-date: "2026-07-18T16:15:09.001289Z"
-lastmod: "2026-07-18T17:15:09.689619Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:15:09.001289Z'
+lastmod: '2026-07-18T17:15:09.689619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Arhitecturi de calcul distribuit care exploatează procesarea concurentă pe mai multe noduri pentru a gestiona eficient sarcinile la scară web."
+source: agnes_llm
+status: published
+language: ro
+description: Arhitecturi de calcul distribuit care exploatează procesarea concurentă
+  pe mai multe noduri pentru a gestiona eficient sarcinile la scară web.
 ---
-
 ## Definition
 
 Sistemele Web Paralele se referă la proiectări de infrastructură în care sarcinile de calcul sunt împărțite și executate simultan pe mai multe servere sau procesoare conectate printr-o rețea. Această abordare semnifică

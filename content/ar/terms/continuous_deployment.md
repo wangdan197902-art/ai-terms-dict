@@ -1,23 +1,24 @@
 ---
-title: "النشر المستمر"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: النشر المستمر
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /ar/terms/continuous_deployment/
-date: "2026-07-18T15:49:58.061552Z"
-lastmod: "2026-07-18T17:15:08.487965Z"
+slug: continuous_deployment
+date: '2026-07-18T15:49:58.061552Z'
+lastmod: '2026-07-18T17:15:08.487965Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ممارسة هندسية برمجية يتم فيها إصدار كل تغيير في الكود يجتاز الاختبارات الآلية تلقائياً إلى بيئة الإنتاج."
+source: agnes_llm
+status: published
+language: ar
+description: ممارسة هندسية برمجية يتم فيها إصدار كل تغيير في الكود يجتاز الاختبارات
+  الآلية تلقائياً إلى بيئة الإنتاج.
 ---
-
 ## Definition
 
 النشر المستمر هو امتداد للتسليم المستمر حيث يتم أتمتة عملية الإصدار بالكامل. بمجرد اجتياز تغييرات الكود جميع معايير الجودة، بما في ذلك اختبارات الوحدة، واختبارات التكامل، وفحوصات الأمان، يتم نشره تلقائياً على الخوادم المنتجة.

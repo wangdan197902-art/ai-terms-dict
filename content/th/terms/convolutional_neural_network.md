@@ -1,23 +1,24 @@
 ---
-title: "เครือข่ายประสาทเทียมแบบคอนโวลูชัน"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: เครือข่ายประสาทเทียมแบบคอนโวลูชัน
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /th/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:45.375398Z"
-lastmod: "2026-07-18T16:38:07.531492Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:45.375398Z'
+lastmod: '2026-07-18T16:38:07.531492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คลาสพิเศษของเครือข่ายประสาทเทียมเชิงลึกที่ใช้ประมวลผลข้อมูลแบบตาราง เช่น ภาพ โดยการประยุกต์ใช้ตัวกรองคอนโวลูชัน"
+source: agnes_llm
+status: published
+language: th
+description: คลาสพิเศษของเครือข่ายประสาทเทียมเชิงลึกที่ใช้ประมวลผลข้อมูลแบบตาราง เช่น
+  ภาพ โดยการประยุกต์ใช้ตัวกรองคอนโวลูชัน
 ---
-
 ## Definition
 
 เครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNNs) ถูกออกแบบมาเพื่อเรียนรู้ลักษณะเฉพาะเชิงพื้นที่แบบลำดับชั้นจากข้อมูลภาพโดยอัตโนมัติและปรับตัวได้ โดยใช้เลเยอร์คอนโวลูชันที่ประยุกต์ใช้ตัวกรองเพื่อตรวจจับรูปแบบย่อย เช่น ขอบ เส้น หรือพื้นผิว ในภาพ

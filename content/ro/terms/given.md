@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /ro/terms/given/
 date: "2026-07-18T15:25:54.974820Z"
 lastmod: "2026-07-18T17:15:09.595008Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un termen care desemnează date preexistente, constrângeri sau context furnizat ca intrare unui proces algoritmic."
 ---
-
 ## Definition
 
 În contexte de inteligență artificială și informatică, termenul „dat” se referă la starea inițială, setul de date sau parametrii furnizați unui model sau funcție înainte de începerea calculului. Acesta stabilește condițiile la limită pentru...

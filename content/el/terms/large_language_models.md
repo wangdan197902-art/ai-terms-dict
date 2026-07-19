@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /el/terms/large_language_models/
 date: "2026-07-18T15:27:22.619003Z"
 lastmod: "2026-07-18T17:15:09.847365Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Το παράδειγμα χρήσης κλιμακωτών νευρωνικών δικτύων για εργασίες ευρείας φάσματος κατανόησης και δημιουργίας φυσικής γλώσσας."
 ---
-
 ## Definition
 
 Ο όρος αυτός αναφέρεται στο ευρύτερο παράδειγμα εφαρμογής όπου μοντέλα με δισεκατομμύρια παραμέτρους αξιοποιούνται για μάθηση zero-shot ή few-shot σε ποικίλες γλωσσικές εργασίες. Σε αντίθεση με τα εξειδικευμένα μοντέλα

@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /it/terms/artificial_brain/
 date: "2026-07-18T15:47:37.461680Z"
 lastmod: "2026-07-18T17:15:08.598367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un sistema computazionale progettato per imitare la struttura e la funzione del cervello umano biologico, spesso utilizzando reti neurali."
 ---
-
 ## Definition
 
 Un cervello artificiale si riferisce ad architetture hardware o software che emulano le strutture neurali e i metodi di elaborazione del cervello umano. Ciò include chip di calcolo neuromorfico che replicano...

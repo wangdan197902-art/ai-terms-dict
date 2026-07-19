@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /pl/terms/learning_curve/
 date: "2026-07-18T16:03:37.727777Z"
 lastmod: "2026-07-18T17:15:08.891269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Krzywa uczenia przedstawia metrykę wydajności modelu w zależności od ilości danych treningowych lub epok treningowych, wizualizując postęp nauki."
 ---
-
 ## Definition
 
 Zazwyczaj krzywa uczenia wyświetla wyniki treningu i walidacji na osi Y w zależności od liczby próbek treningowych lub iteracji na osi X. Pomaga ona zdiagnozować, czy model cierpi na wysokie biasowanie (niedopasowanie), czy wysoką wariancję (przeuczenie).

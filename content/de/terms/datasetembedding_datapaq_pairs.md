@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /de/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T11:10:01.096947Z"
 lastmod: "2026-07-18T11:44:44.925505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein großskaliger Datensatz von Frage-Antwort-Paaren, der aus Wikipedia abgeleitet wurde und für das Training der dichten Passagenabfrage konzipiert ist."
 ---
-
 ## Definition
 
 Der PAQ-Datensatz (Pseudo-Answer Quality) enthält Millionen automatisch generierter Frage-Antwort-Paare, die aus Wikipedia extrahiert wurden. Er wurde speziell entwickelt, um dichte Abfragemodelle durch Bereitstellung von Trainingsdaten zu schulen.

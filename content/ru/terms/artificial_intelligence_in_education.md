@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /ru/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:41:15.803418Z"
 lastmod: "2026-07-18T16:38:07.121499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Применение технологий ИИ для совершенствования методов преподавания, персонализации учебного процесса и автоматизации административных задач."
 ---
-
 ## Definition
 
 ИИ в образовании включает использование машинного обучения, обработки естественного языка и адаптивных систем для улучшения образовательных результатов. Это позволяет создавать индивидуальные траектории обучения, адаптированные под каждого студента.

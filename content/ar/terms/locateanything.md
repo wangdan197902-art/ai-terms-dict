@@ -1,23 +1,24 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /ar/terms/locateanything/
-date: "2026-07-18T16:11:04.541873Z"
-lastmod: "2026-07-18T17:15:08.523671Z"
+slug: locateanything
+date: '2026-07-18T16:11:04.541873Z'
+lastmod: '2026-07-18T17:15:08.523671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "إطار عمل مفتوح المصدر مصمم لتحديد مواقع الكائنات وتجزئتها في النطاق الصفري عبر مجالات بصرية متنوعة دون الحاجة إلى تدريب مخصص للمهمة."
+source: agnes_llm
+status: published
+language: ar
+description: إطار عمل مفتوح المصدر مصمم لتحديد مواقع الكائنات وتجزئتها في النطاق الصفري
+  عبر مجالات بصرية متنوعة دون الحاجة إلى تدريب مخصص للمهمة.
 ---
-
 ## Definition
 
 يُعد LocateAnything إطار عمل متعدد الاستخدامات لرؤية الحاسوب يتيح اكتشاف الكائنات وتجزئتها في الصور بناءً على مطالبات باللغة الطبيعية أو البديهيات العامة. يستفيد من النماذج الأساسية المدربة مسبقاً لتحقيق هذه القدرة دون حاجة إلى إعادة تدريب لكل مهمة جديدة.

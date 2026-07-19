@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /zh/terms/harmful_content/
 date: "2026-07-18T11:20:51.262122Z"
 lastmod: "2026-07-18T11:44:45.512767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "对个人或社会构成风险的信息，包括仇恨言论、暴力和非法行为。"
 ---
-
 ## Definition
 
 有害内容是指可能造成身体、心理或社会损害的数字媒体或文本。在人工智能安全领域，检测并过滤此类内容至关重要，以防止模型生成...

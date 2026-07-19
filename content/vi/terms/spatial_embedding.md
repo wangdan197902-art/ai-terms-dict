@@ -1,23 +1,24 @@
 ---
-title: "Nhúng không gian"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Nhúng không gian
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /vi/terms/spatial_embedding/
-date: "2026-07-18T16:12:29.121539Z"
-lastmod: "2026-07-18T16:38:07.806759Z"
+slug: spatial_embedding
+date: '2026-07-18T16:12:29.121539Z'
+lastmod: '2026-07-18T16:38:07.806759Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Kỹ thuật ánh xạ các mối quan hệ không gian giữa các đối tượng hoặc vị trí thành các biểu diễn vector cho các mô hình học máy."
+source: agnes_llm
+status: published
+language: vi
+description: Kỹ thuật ánh xạ các mối quan hệ không gian giữa các đối tượng hoặc vị
+  trí thành các biểu diễn vector cho các mô hình học máy.
 ---
-
 ## Definition
 
 Nhúng không gian liên quan đến việc chuyển đổi các mối quan hệ không gian vật lý hoặc trừu tượng thành các không gian vector dày đặc, cho phép các thuật toán hiểu được khoảng cách, hướng và tô-pô. Kỹ thuật này rất quan trọng trong việc nắm bắt cấu trúc không gian.

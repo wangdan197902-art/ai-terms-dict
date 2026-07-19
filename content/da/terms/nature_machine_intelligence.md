@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /da/terms/nature_machine_intelligence/
 date: "2026-07-18T16:09:17.517724Z"
 lastmod: "2026-07-18T17:15:09.315248Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et fagfællebedømt videnskabeligt tidsskrift udgivet af Springer Nature, der fokuserer på tværfaglig forskning inden for kunstig intelligens."
 ---
-
 ## Definition
 
 Nature Machine Intelligence er et højt anset akademisk tidsskrift dedikeret til at publicere original forskning om alle aspekter af kunstig intelligens. Det dækker emner fra grundlæggende algoritmer

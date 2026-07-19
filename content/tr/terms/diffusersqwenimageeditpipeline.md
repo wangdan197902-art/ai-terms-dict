@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /tr/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:50:05.196957Z"
-lastmod: "2026-07-18T16:38:07.299417Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:50:05.196957Z'
+lastmod: '2026-07-18T16:38:07.299417Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Hugging Face Diffusers kütüphanesinde, talimat tabanlı görüntü düzenleme görevleri için Qwen-VL modellerini kullanan bir boru hattı."
+source: agnes_llm
+status: published
+language: tr
+description: Hugging Face Diffusers kütüphanesinde, talimat tabanlı görüntü düzenleme
+  görevleri için Qwen-VL modellerini kullanan bir boru hattı.
 ---
-
 ## Definition
 
 Bu boru hattı, doğal dil talimatlarına dayalı olarak hassas görüntü değişiklikleri gerçekleştirmek için Qwen-Görüş-Dil modelinin yeteneklerini Diffusers çerçevesine entegre eder. Jeneratif boru hatlarının aksine,

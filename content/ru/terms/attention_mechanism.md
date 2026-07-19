@@ -1,23 +1,24 @@
 ---
-title: "Механизм внимания"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Механизм внимания
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /ru/terms/attention_mechanism/
-date: "2026-07-18T15:22:29.952690Z"
-lastmod: "2026-07-18T16:38:07.068133Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:29.952690Z'
+lastmod: '2026-07-18T16:38:07.068133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, позволяющая нейронным сетям фокусироваться на определенных частях входных данных при генерации выходных результатов."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, позволяющая нейронным сетям фокусироваться на определенных частях
+  входных данных при генерации выходных результатов.
 ---
-
 ## Definition
 
 Механизм внимания позволяет модели динамически оценивать важность различных элементов во входной последовательности. Вместо того чтобы рассматривать все входные данные одинаково, он присваивает им разный уровень значимости

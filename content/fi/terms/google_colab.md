@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /fi/terms/google_colab/
 date: "2026-07-18T15:59:49.087865Z"
 lastmod: "2026-07-18T17:15:09.415881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Pilvipohjainen Jupyter-notebook-ympäristö, joka mahdollistaa Python-koodin kirjoittamisen ja suorittamisen selaimen kautta ilmaisella pääsyllä GPU-resursseihin."
 ---
-
 ## Definition
 
 Google Colaboratory, yleisesti tunnettu nimellä Colab, on isännöity Jupyter-notebook-palvelu, joka ei vaadi asennusta ja tarjoaa ilmaisen pääsyn laskentaresursseihin, mukaan lukien grafiikkaprosessorit (GPU).

@@ -1,23 +1,25 @@
 ---
-title: "LLM ως Κριτής"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM ως Κριτής
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /el/terms/llm_as_a_judge/
-date: "2026-07-18T16:17:17.061609Z"
-lastmod: "2026-07-18T17:15:09.924603Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:17:17.061609Z'
+lastmod: '2026-07-18T17:15:09.924603Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μέθοδος αξιολόγησης των εξόδων μεγάλων γλωσσικών μοντέλων (LLMs) χρησιμοποιώντας ένα άλλο LLM για να βαθμολογήσει ή να κατατάξει τις απαντήσεις βάσει συγκεκριμένων κριτηρίων."
+source: agnes_llm
+status: published
+language: el
+description: Μια μέθοδος αξιολόγησης των εξόδων μεγάλων γλωσσικών μοντέλων (LLMs)
+  χρησιμοποιώντας ένα άλλο LLM για να βαθμολογήσει ή να κατατάξει τις απαντήσεις βάσει
+  συγκεκριμένων κριτηρίων.
 ---
-
 ## Definition
 
 Η προσέγγιση «LLM ως Κριτής» είναι ένα παράδειγμα αξιολόγησης όπου ένα Μεγάλο Γλωσσικό Μοντέλο λειτουργεί ως αυτόματος αξιολογητής για την ποιότητα των εξόδων άλλων μοντέλων. Αντί να βασίζεται αποκλειστικά σε ανθρώπινους αναλυτές ή αυστηρούς κανόνες, το μοντέλο χρησιμοποιεί εντολές (prompts) για να κρίνει την ακρίβεια, την συνοχή και την ασφάλεια των απαντήσεων, προσφέροντας μια κλιμακώσιμη και κοστολογικά αποδοτική εναλλακτική λύση.

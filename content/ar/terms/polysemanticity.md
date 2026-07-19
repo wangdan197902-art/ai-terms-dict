@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /ar/terms/polysemanticity/
 date: "2026-07-18T16:16:32.312222Z"
 lastmod: "2026-07-18T17:15:08.537673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ظاهرة تستجيب فيها الخلايا العصبية الفردية في الشبكات العصبية لمفاهيم متعددة ومتميزة."
 ---
-
 ## Definition
 
 تعدد الدلالة هو سمة تُلاحظ في الشبكات العصبية العميقة، خاصة في بنية المحوّل (Transformers)، حيث قد ينشط خلية عصبية واحدة استجابةً لعدة سمات غير مرتبطة أو ذات دلالات مختلفة، مما يعقد تفسير سلوك النموذج.

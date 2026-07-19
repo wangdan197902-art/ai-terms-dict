@@ -1,23 +1,23 @@
 ---
-title: "Seleção de Algoritmos"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Seleção de Algoritmos
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /pt/terms/algorithm_selection/
-date: "2026-07-18T14:49:00.423744Z"
-lastmod: "2026-07-18T15:51:59.461575Z"
+slug: algorithm_selection
+date: '2026-07-18T14:49:00.423744Z'
+lastmod: '2026-07-18T15:51:59.461575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A seleção de algoritmos é o processo de escolher o método computacional mais adequado para um problema específico com base em métricas de desempenho e restrições."
+source: agnes_llm
+status: published
+language: pt
+description: A seleção de algoritmos é o processo de escolher o método computacional
+  mais adequado para um problema específico com base em métricas de desempenho e restrições.
 ---
-
 ## Definition
 
 A seleção de algoritmos envolve avaliar diferentes abordagens computacionais para determinar qual resolve melhor uma determinada tarefa com eficiência. Esse processo considera fatores como complexidade de tempo, complexidade de espaço e requisitos de hardware.

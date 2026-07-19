@@ -1,23 +1,22 @@
 ---
-title: "モーション / 動き"
-term_id: "motion"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "robotics"]
+title: モーション / 動き
+term_id: motion
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 2
 weight: 1
-slug: "motion"
-aliases:
-  - /ja/terms/motion/
-date: "2026-07-18T10:52:47.616242Z"
-lastmod: "2026-07-18T11:44:45.014157Z"
+slug: motion
+date: '2026-07-18T10:52:47.616242Z'
+lastmod: '2026-07-18T11:44:45.014157Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "時間と基準枠に対して、物体の位置が連続的に変化すること。"
+source: agnes_llm
+status: published
+language: ja
+description: 時間と基準枠に対して、物体の位置が連続的に変化すること。
 ---
-
 ## Definition
 
 コンピュータビジョンやロボティクスにおいて、モーションは視覚データや物理システム内の動きの検出と分析を指します。オプティカルフローなどのアルゴリズムは、見かけ上の運動のパターンを推定するために使用されます。

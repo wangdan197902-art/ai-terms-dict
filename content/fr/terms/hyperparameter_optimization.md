@@ -1,23 +1,24 @@
 ---
-title: "Optimisation des hyperparamètres"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Optimisation des hyperparamètres
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /fr/terms/hyperparameter_optimization/
-date: "2026-07-18T11:22:40.897253Z"
-lastmod: "2026-07-18T11:44:45.272546Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T11:22:40.897253Z'
+lastmod: '2026-07-18T11:44:45.272546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une approche automatisée pour trouver la configuration optimale des hyperparamètres, utilisant souvent des modèles probabilistes pour guider la recherche."
+source: agnes_llm
+status: published
+language: fr
+description: Une approche automatisée pour trouver la configuration optimale des hyperparamètres,
+  utilisant souvent des modèles probabilistes pour guider la recherche.
 ---
-
 ## Definition
 
 L'Optimisation des Hyperparamètres (OHP) désigne le domaine plus large de l'automatisation de la sélection des hyperparamètres. Bien que le réglage soit l'acte général, l'OHP implique souvent l'utilisation d'algorithmes sophistiqués tels que

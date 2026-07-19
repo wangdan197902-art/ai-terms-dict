@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /ro/terms/api/
 date: "2026-07-18T15:22:28.007572Z"
 lastmod: "2026-07-18T17:15:09.586732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O Interfață de Programare a Aplicațiilor care permite diferitelor sisteme software să comunice și să schimbe date."
 ---
-
 ## Definition
 
 Un API definește un set de protocoale și instrumente pentru dezvoltarea software-ului și a aplicațiilor. În domeniul IA, API-urile permit dezvoltatorilor să acceseze modele puternice, cum ar fi LLM-uri sau generatoare de imagini, fără a fi nevoie să le găzduiască local, facilitând integrarea rapidă a funcționalităților avansate de IA în diverse platforme.

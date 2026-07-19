@@ -1,23 +1,25 @@
 ---
-title: "Предобучение"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Предобучение
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /ru/terms/pre_training/
-date: "2026-07-18T15:28:17.359543Z"
-lastmod: "2026-07-18T16:38:07.087235Z"
+slug: pre_training
+date: '2026-07-18T15:28:17.359543Z'
+lastmod: '2026-07-18T16:38:07.087235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Начальный этап обучения модели машинного обучения на большом неразмеченном наборе данных для изучения общих представлений перед тонкой настройкой для конкретных задач."
+source: agnes_llm
+status: published
+language: ru
+description: Начальный этап обучения модели машинного обучения на большом неразмеченном
+  наборе данных для изучения общих представлений перед тонкой настройкой для конкретных
+  задач.
 ---
-
 ## Definition
 
 Предобучение — это фундаментальная техника в глубоком обучении, при которой модель изучает широкие функции и закономерности из огромных объемов данных, часто без меток. Этот процесс позволяет модели развить...

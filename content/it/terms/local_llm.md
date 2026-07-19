@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /it/terms/local_llm/
 date: "2026-07-18T16:08:31.676378Z"
 lastmod: "2026-07-18T17:15:08.644894Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un LLM Locale si riferisce all'esecuzione di modelli linguistici di grandi dimensioni su hardware personale anziché su servizi cloud, privilegiando la privacy dei dati e l'accessibilità offline."
 ---
-
 ## Definition
 
 Eseguire un LLM Locale implica il deployment di modelli a peso aperto direttamente su hardware consumer come PC, Mac o server locali. Questo approccio elimina la dipendenza dai fornitori di API di terze parti, garantendo maggiore controllo sui dati.

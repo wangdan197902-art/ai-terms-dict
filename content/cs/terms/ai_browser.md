@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /cs/terms/ai_browser/
 date: "2026-07-18T15:39:48.104104Z"
 lastmod: "2026-07-18T17:15:09.096661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Webový prohlížeč integrovaný s funkcemi AI pro pomoc při vyhledávání, shrnování a analýze obsahu."
 ---
-
 ## Definition
 
 AI browser je aplikace pro prohlížení webu, která přímo do uživatelského rozhraní zahrnuje funkce umělé inteligence. Tyto funkce obvykle zahrnují vyhledávání přirozeným jazykem, automatické...

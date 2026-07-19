@@ -1,23 +1,24 @@
 ---
-title: "Sıkıştırılmış Tensörler"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Sıkıştırılmış Tensörler
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /tr/terms/compressed_tensors/
-date: "2026-07-18T15:45:41.178775Z"
-lastmod: "2026-07-18T16:38:07.284326Z"
+slug: compressed_tensors
+date: '2026-07-18T15:45:41.178775Z'
+lastmod: '2026-07-18T16:38:07.284326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Depolama alanını ve hesaplama verimliliğini optimize etmek için veri hassasiyeti veya boyutu azaltılmış tensörler."
+source: agnes_llm
+status: published
+language: tr
+description: Depolama alanını ve hesaplama verimliliğini optimize etmek için veri
+  hassasiyeti veya boyutu azaltılmış tensörler.
 ---
-
 ## Definition
 
 Sıkıştırılmış tensörler, derin öğrenmede kullanılan çok boyutlu dizilerdir ve sayısal hassasiyet (örneğin float32'den int8'e) veya seyreltilmişlik azaltılmıştır. Bu teknik, nicelleme olarak bilinir ve 

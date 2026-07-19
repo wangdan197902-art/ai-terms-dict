@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /ar/terms/sentence_transformers/
 date: "2026-07-18T16:20:18.128632Z"
 lastmod: "2026-07-18T17:15:08.547090Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "هندسات شبكات عصبية مصممة خصيصًا لتوليد تضمينات متجهة ذات حجم ثابت للجمل النصية المختلفة."
 ---
-
 ## Definition
 
 محولات الجمل هي امتدادات لنماذج المحولات التقليدية (مثل BERT) التي تم ضبطها بدقة لإنتاج تمثيلات متجهة كثيفة وذات معنى للجمل كاملة. على عكس نماذج المستوى الرمزي القياسية...

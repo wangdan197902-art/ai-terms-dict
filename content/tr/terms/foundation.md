@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /tr/terms/foundation/
 date: "2026-07-18T15:25:25.776464Z"
 lastmod: "2026-07-18T16:38:07.232467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çeşitli alt görevler için temel oluşturmak üzere devasa veri setlerinde önceden eğitilmiş bir model."
 ---
-
 ## Definition
 
 Yapay zekada temel model, görüntüler, metin veya ses gibi geniş ölçekli veriler üzerinde eğitilen büyük ölçekli bir makine öğrenimi modelini ifade eder. Bu modeller, çeşitli görevlere uyarlanabilir olmaları amacıyla tasarlanmıştır.

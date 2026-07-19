@@ -1,23 +1,23 @@
 ---
-title: "自己教師あり学習"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: 自己教師あり学習
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /ja/terms/self_supervised_learning/
-date: "2026-07-18T11:00:34.091903Z"
-lastmod: "2026-07-18T11:44:45.057561Z"
+slug: self_supervised_learning
+date: '2026-07-18T11:00:34.091903Z'
+lastmod: '2026-07-18T11:44:45.057561Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルが入力データから自身でラベルを生成し、表現を学習するトレーニング手法。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルが入力データから自身でラベルを生成し、表現を学習するトレーニング手法。
 ---
-
 ## Definition
 
 自己教師あり学習は、アルゴリズムが未ラベルデータ自体から教師信号を作成する技法であり、通常は入力の欠落部分を予測することによって行われます。これは、教師なし学習と...

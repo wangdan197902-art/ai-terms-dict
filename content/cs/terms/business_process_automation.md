@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /cs/terms/business_process_automation/
 date: "2026-07-18T15:45:41.599823Z"
 lastmod: "2026-07-18T17:15:09.108212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využití technologií k provádění opakujících se úkolů nebo procesů v podnikání, kde lze nahradit manuální práci."
 ---
-
 ## Definition
 
 Automatizace obchodních procesů (BPA) zahrnuje využívání softwaru a AI ke zjednodušení složitých pracovních postupů. Na rozdíl od jednoduché automatizace robotických procesů (RPA), která zvládá úkoly založené na pravidlech, BPA často...

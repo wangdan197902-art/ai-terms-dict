@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /tr/terms/information/
 date: "2026-07-18T15:26:06.798074Z"
 lastmod: "2026-07-18T16:38:07.234670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi, anlam taşıyan, belirsizliği azaltan veya alıcıya bağlam sağlayan işlenmiş veriye atıfta bulunur."
 ---
-
 ## Definition
 
 Yapay zeka ve bilgisayar bilimi bağlamında bilgi, ham veriden ayrılır. Anlam ve fayda kazanmak için düzenlenmiş, yapılandırılmış veya yorumlanmış veriyi temsil eder. Bilgi, verinin anlamlı hale geldiği noktadır.

@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /cs/terms/artificial_brain/
 date: "2026-07-18T15:42:00.684804Z"
 lastmod: "2026-07-18T17:15:09.101924Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Výpočetní systém navržený tak, aby napodoboval strukturu a funkci biologického lidského mozku, často pomocí neuronových sítí."
 ---
-
 ## Definition
 
 Umělý mozek označuje hardwarové nebo softwarové architektury, které emulují neuronové struktury a metody zpracování dat lidského mozku. To zahrnuje neuromorfní výpočetní čipy, které replikují způsob, jakým neurony komunikují a zpracovávají informace, což umožňuje efektivnější a rychlejší výpočty inspirované biologickým fungováním.

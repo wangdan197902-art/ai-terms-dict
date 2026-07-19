@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /hu/terms/grammar_systems_theory/
 date: "2026-07-18T16:02:14.455839Z"
 lastmod: "2026-07-18T17:15:09.790469Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A nyelvtani rendszerek elmélete a formális nyelvtan egy ága, amely párhuzamos vagy elosztott környezetben kölcsönható nyelvtanokon alapuló számítási modelleket vizsgál."
 ---
-
 ## Definition
 
 Az elméleti számítástechnikából és a nyelvtudományból eredően ez a terület kiterjeszti a klasszikus Chomsky-féle hierarchia fogalmait többkomponensű rendszerekre. Azt vizsgálja, hogyan működnek együtt több nyelvtan vagy komponens.

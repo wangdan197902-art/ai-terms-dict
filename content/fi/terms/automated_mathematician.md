@@ -1,23 +1,24 @@
 ---
-title: "Automaattinen matemaatikko"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Automaattinen matemaatikko
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /fi/terms/automated_mathematician/
-date: "2026-07-18T15:44:28.694096Z"
-lastmod: "2026-07-18T17:15:09.385917Z"
+slug: automated_mathematician
+date: '2026-07-18T15:44:28.694096Z'
+lastmod: '2026-07-18T17:15:09.385917Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekoälyjärjestelmä, joka on suunniteltu löytämään uusia matemaattisia lauseita, arvelmia tai todistuksia laskennallisen haun ja päättelyn avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Tekoälyjärjestelmä, joka on suunniteltu löytämään uusia matemaattisia
+  lauseita, arvelmia tai todistuksia laskennallisen haun ja päättelyn avulla.
 ---
-
 ## Definition
 
 Automaattinen matemaatikko hyödyntää koneoppimista ja symbolista päättelyä tutkiakseen matemaattisia avaruuksia ihmisen intuition ulkopuolella. Nämä järjestelmät voivat luoda hypoteeseja, vahvistaa todistuksia ja löytää kuvioita.

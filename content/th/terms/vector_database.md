@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /th/terms/vector_database/
 date: "2026-07-18T15:31:38.957776Z"
 lastmod: "2026-07-18T16:38:07.552584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ฐานข้อมูลพิเศษที่ออกแบบมาเพื่อจัดเก็บ ดัชนี และสืบค้นเวกเตอร์มิติสูงที่แสดงถึงคุณลักษณะของข้อมูล"
 ---
-
 ## Definition
 
 ฐานข้อมูลเวกเตอร์เพิ่มประสิทธิภาพการจัดเก็บและการดึงข้อมูลแบบไม่มีโครงสร้างโดยแปลงเป็นเอนเบดดิ้งเชิงตัวเลข ใช้ алгоритมเช่น Approximate Nearest Neighbor (ANN) เพื่อค้นหาความคล้ายคลึงอย่างมีประสิทธิภาพ

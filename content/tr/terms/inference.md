@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /tr/terms/inference/
 date: "2026-07-18T15:23:00.947098Z"
 lastmod: "2026-07-18T16:38:07.226192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Eğitilmiş bir modelin yeni verileri işleyerek tahminler veya çıktılar ürettiği aşama."
 ---
-
 ## Definition
 
 Çıkarım, nihai bir modelin görünmeyen veriler üzerinde kararlar verirken veya tahmin yaparken kullanıldığı dağıtım aşamasını ifade eder. Ağırlıkları güncelleyen eğitimden farklı olarak, çıkarım

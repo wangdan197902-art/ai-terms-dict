@@ -1,23 +1,23 @@
 ---
-title: "Vývojová robotika"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Vývojová robotika
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /cs/terms/developmental_robotics/
-date: "2026-07-18T15:53:20.475318Z"
-lastmod: "2026-07-18T17:15:09.121992Z"
+slug: developmental_robotics
+date: '2026-07-18T15:53:20.475318Z'
+lastmod: '2026-07-18T17:15:09.121992Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Interdisciplinární obor zkoumající, jak mohou roboti získávat složité dovednosti prostřednictvím interakce s prostředím a pečovatelům."
+source: agnes_llm
+status: published
+language: cs
+description: Interdisciplinární obor zkoumající, jak mohou roboti získávat složité
+  dovednosti prostřednictvím interakce s prostředím a pečovatelům.
 ---
-
 ## Definition
 
 Vývojová robotika čerpá inspiraci z lidského kognitivního vývoje k tvorbě robotů, kteří se učí autonomně v čase. Místo předprogramování všech chování tyto systémy využívají mechanismy jako imitaci a vnitřní motivaci.

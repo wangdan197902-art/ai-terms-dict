@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /no/terms/virtual_intelligence/
 date: "2026-07-18T16:20:46.332445Z"
 lastmod: "2026-07-18T16:38:07.056742Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Virtuell intelligens er et bredt begrep som beskriver AI-systemer som opererer i digitale miljøer for å simulere menneskelignende interaksjon, beslutningstaking eller autonomi."
 ---
-
 ## Definition
 
 Virtuell intelligens omfatter alle kunstige intelligenssystemer designet for å fungere innenfor virtuelle eller digitale rom, ofte ved å samhandle med brukere eller andre agenter. Dette inkluderer virtuelle assistenter, NPC-er (ikke-spillerfigurer) og autonome digitale representasjoner.

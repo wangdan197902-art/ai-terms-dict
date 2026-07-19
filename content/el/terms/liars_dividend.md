@@ -1,23 +1,25 @@
 ---
-title: "Μέρισμα του Ψεύτη (Liar's Dividend)"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: Μέρισμα του Ψεύτη (Liar's Dividend)
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /el/terms/liars_dividend/
-date: "2026-07-18T16:18:19.714410Z"
-lastmod: "2026-07-18T17:15:09.926082Z"
+slug: liars_dividend
+date: '2026-07-18T16:18:19.714410Z'
+lastmod: '2026-07-18T17:15:09.926082Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το φαινόμενο όπου η ύπαρξη deepfakes και μέσων που δημιουργούνται από AI επιτρέπει σε κακόβουλες ομάδες να απορρίπτουν γνήσια αποδείξεις της κακοπραξίας τους ως ψεύτικες."
+source: agnes_llm
+status: published
+language: el
+description: Το φαινόμενο όπου η ύπαρξη deepfakes και μέσων που δημιουργούνται από
+  AI επιτρέπει σε κακόβουλες ομάδες να απορρίπτουν γνήσια αποδείξεις της κακοπραξίας
+  τους ως ψεύτικες.
 ---
-
 ## Definition
 
 Το «μέρισμα του ψεύτη» αναφέρεται στον κοινωνικό κίνδυνο που προκαλείται από την προηγμένη γενετική Τεχνητή Νοημοσύνη, ιδιαίτερα τα deepfakes. Καθώς τα συνθετικά μέσα γίνονται δυσδιάκριτα από την πραγματικότητα, κακόβουλα άτομα μπορούν να ισχυριστούν ότι

@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /tr/terms/context/
 date: "2026-07-18T15:23:53.882256Z"
 lastmod: "2026-07-18T16:38:07.229153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bağlam, bir yapay zeka modelinin girdi verilerini doğru bir şekilde yorumlamasına ve alakalı yanıtlar üretmesine yardımcı olan çevresel bilgiyi ifade eder."
 ---
-
 ## Definition
 
 Doğal dil işlemede bağlam, önceki cümlelere göre zamirleri veya deyimleri anlayarak belirsizliği gidermek için kritiktir. Transformer mimarileri gibi modern modeller, dikkat mekanizmaları aracılığıyla uzun menzilli bağımlılıkları yakalar.

@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /zh/terms/offline_learning/
 date: "2026-07-18T11:28:49.264770Z"
 lastmod: "2026-07-18T11:44:45.538330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "离线学习是一种训练范式，模型在静态数据集上进行训练，在学习阶段不与实时环境交互。"
 ---
-
 ## Definition
 
 也称为批量学习，离线学习涉及使用先前收集的固定数据集来训练机器学习模型。与在线学习不同，模型不会根据新数据实时更新其参数，而是定期重新训练。

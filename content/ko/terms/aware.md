@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /ko/terms/aware/
 date: "2026-07-18T15:23:16.804529Z"
 lastmod: "2026-07-18T16:38:06.768737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI가 특정 맥락의 정보나 자극을 감지하고 처리할 수 있는 능력을 나타냅니다."
 ---
-
 ## Definition
 
 AI 문맥에서 '인지'는 일반적으로 상황적 또는 맥락적 인지를 의미하며, 시스템이 관련 환경 요인이나 사용자 상태를 인식하는 것을 말합니다. 이는 의식을 암시하기보다는,

@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /ja/terms/code_generation/
 date: "2026-07-18T07:42:00.734388Z"
 lastmod: "2026-07-18T11:44:44.586272Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能を用いて、自然言語の説明や既存のコードスニペットからソースコードを自動的に作成するプロセス。"
 ---
-
 ## Definition
 
 コード生成は、膨大なプログラミング言語のリポジトリで学習した大規模言語モデルを活用し、機能的なソフトウェア成果物を生成します。これは、コメントなどの人間が読み可能なプロンプトを解釈し、実行可能なコードに変換することを指します。

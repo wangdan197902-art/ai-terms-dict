@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /en/terms/perceiver/
 date: "2026-07-18T10:10:34.430113Z"
 lastmod: "2026-07-18T11:44:44.708686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A system or module responsible for receiving and interpreting sensory input from the environment."
 ---
-
 ## Definition
 
 In AI and cognitive science, a perceiver refers to the component of an intelligent system that processes raw sensory data into meaningful information. Unlike simple sensors that just detect signals, perceivers apply filtering, normalization, and feature detection to transform inputs into representations suitable for higher-level reasoning. This concept is central to building autonomous agents that can navigate and interact with dynamic physical or digital environments effectively.

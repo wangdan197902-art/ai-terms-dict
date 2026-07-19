@@ -1,23 +1,25 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /it/terms/bloom/
-date: "2026-07-18T15:50:50.975401Z"
-lastmod: "2026-07-18T17:15:08.604291Z"
+slug: bloom
+date: '2026-07-18T15:50:50.975401Z'
+lastmod: '2026-07-18T17:15:08.604291Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Nel machine learning, 'Bloom' si riferisce tipicamente alla Tassonomia di Bloom applicata all'educazione sull'IA o a modelli di embedding specifici come il modello di embedding testuale Bloom."
+source: agnes_llm
+status: published
+language: it
+description: Nel machine learning, 'Bloom' si riferisce tipicamente alla Tassonomia
+  di Bloom applicata all'educazione sull'IA o a modelli di embedding specifici come
+  il modello di embedding testuale Bloom.
 ---
-
 ## Definition
 
 Sebbene storicamente si riferisca alla tassonomia educativa di Benjamin Bloom, nei contesti moderni dell'IA indica spesso il modello di embedding testuale Bloom sviluppato da BigScience. Questo modello genera rappresentazioni vettoriali di alta qualità per il testo, facilitando compiti di comprensione semantica.

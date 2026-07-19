@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /pl/terms/direct/
 date: "2026-07-18T15:24:14.472473Z"
 lastmod: "2026-07-18T17:15:08.809348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do metod lub ścieżek, które mapują wejścia bezpośrednio na wyjścia bez pośrednich złożonych transformacji lub reprezentacji ukrytych."
 ---
-
 ## Definition
 
 W kontekście AI termin 'bezpośredni' opisuje często architektury lub ścieżki wnioskowania, które omijają pośrednie warstwy abstrakcji, takie jak bezpośrednia optymalizacja polityki w uczeniu przez wzmacnianie czy bezpośrednie mapowanie w prostszych modelach.

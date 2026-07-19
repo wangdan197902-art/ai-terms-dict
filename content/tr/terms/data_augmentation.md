@@ -1,23 +1,24 @@
 ---
-title: "Veri Artırma"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Veri Artırma
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /tr/terms/data_augmentation/
-date: "2026-07-18T15:47:01.712015Z"
-lastmod: "2026-07-18T16:38:07.288761Z"
+slug: data_augmentation
+date: '2026-07-18T15:47:01.712015Z'
+lastmod: '2026-07-18T16:38:07.288761Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Veri artırma, mevcut veri noktalarına dönüşümler uygulayarak eğitim veri setlerinin çeşitliliğini ve boyutunu artırmak için kullanılan bir tekniktir."
+source: agnes_llm
+status: published
+language: tr
+description: Veri artırma, mevcut veri noktalarına dönüşümler uygulayarak eğitim veri
+  setlerinin çeşitliliğini ve boyutunu artırmak için kullanılan bir tekniktir.
 ---
-
 ## Definition
 
 Bu yöntem, var olan örneklerin değiştirilmiş versiyonlarını oluşturarak (örneğin görüntüleri döndürme, sese gürültü ekleme veya metinde eş anlamlı kelimeleri değiştirme) eğitim veri setini yapay olarak genişletir. Aşırı öğrenmeyi önlemeye yardımcı olur.

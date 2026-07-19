@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /da/terms/moral_outsourcing/
 date: "2026-07-18T16:08:27.747329Z"
 lastmod: "2026-07-18T17:15:09.313190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Det etiske problem, hvor individer eller organisationer overlader ansvar for moralske beslutninger til automatiserede AI-systemer."
 ---
-
 ## Definition
 
 Moralisk udlicitering refererer til fænomenet, hvor mennesker overdrager etisk dømmekraft og ansvar til algoritmer eller AI-systemer. Dette sker, når folk stoler på automatiserede beslutninger i situationer med moralsk betydning, hvilket kan skabe et ansvarsgab.

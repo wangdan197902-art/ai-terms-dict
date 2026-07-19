@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /pl/terms/vector_database/
 date: "2026-07-18T15:31:12.631919Z"
 lastmod: "2026-07-18T17:15:08.824169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Specjalistyczna baza danych zaprojektowana do przechowywania, indeksowania i zapytywania o wysokie wymiary reprezentujące cechy danych."
 ---
-
 ## Definition
 
 Bazy wektorowe optymalizują przechowywanie i pobieranie danych nieustrukturyzowanych poprzez konwersję ich na numeryczne osadzenia (embeddings). Wykorzystują one algorytmy takie jak Przybliżony Najbliższy Sąsiad (ANN), aby efektywnie znajdować podobne dane.

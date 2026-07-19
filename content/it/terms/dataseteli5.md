@@ -1,23 +1,24 @@
 ---
-title: "Dataset: Eli5"
-term_id: "dataseteli5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "qa_systems", "social_media"]
+title: 'Dataset: Eli5'
+term_id: dataseteli5
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Qa Systems
+- Social Media
 difficulty: 2
 weight: 1
-slug: "dataseteli5"
-aliases:
-  - /it/terms/dataseteli5/
-date: "2026-07-18T15:54:20.904412Z"
-lastmod: "2026-07-18T17:15:08.613469Z"
+slug: dataseteli5
+date: '2026-07-18T15:54:20.904412Z'
+lastmod: '2026-07-18T17:15:08.613469Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un dataset su larga scala di domande e risposte formattate come 'Spiegamelo come se avessi cinque anni', focalizzato su spiegazioni dettagliate."
+source: agnes_llm
+status: published
+language: it
+description: Un dataset su larga scala di domande e risposte formattate come 'Spiegamelo
+  come se avessi cinque anni', focalizzato su spiegazioni dettagliate.
 ---
-
 ## Definition
 
 ELI5 (Explain Like I'm Five) è un dataset derivato dalla community Reddit omonima. È composto da domande sottoposte dagli utenti insieme a risposte dettagliate e semplificate fornite dalla comunità, ideali per addestrare modelli a generare spiegazioni accessibili.

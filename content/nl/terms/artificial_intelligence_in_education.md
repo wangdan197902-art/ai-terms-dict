@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /nl/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:43:19.636941Z"
 lastmod: "2026-07-18T17:15:08.718105Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De toepassing van AI-technologieën om lesmethoden te verbeteren, leerervaringen te personaliseren en administratieve taken te automatiseren."
 ---
-
 ## Definition
 
 AI in het onderwijs omvat het gebruik van machine learning, natuurlijke taalverwerking en adaptieve systemen om educatieve resultaten te verbeteren. Het maakt gepersonaliseerde leerpaden mogelijk die zijn afgestemd op de individuele student, evenals geautomatiseerde beoordeling van werk.

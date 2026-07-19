@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /cs/terms/nvidia/
 date: "2026-07-18T16:11:15.916691Z"
 lastmod: "2026-07-18T17:15:09.159133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Popřední technologická společnost specializující se na grafické procesory (GPU) a hardwarové vybavení pro AI, které pohání moderní infrastrukturu hlubokého učení."
 ---
-
 ## Definition
 
 Nvidia je dominantní silou v průmyslu AI, především díky návrhu grafických procesorů (GPU), které urychlují paralelní výpočetní úlohy nezbytné pro hluboké učení. Jejich platforma CUDA umožňuje programátorům využívat sílu GPU pro obecné výpočty.

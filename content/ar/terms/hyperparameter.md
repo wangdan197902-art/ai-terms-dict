@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /ar/terms/hyperparameter/
 date: "2026-07-18T16:01:33.859513Z"
 lastmod: "2026-07-18T17:15:08.513539Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "متغير تكويني تكون قيمته محددة مسبقاً قبل عملية التدريب وتتحكم في سلوك خوارزمية التعلم."
 ---
-
 ## Definition
 
 على عكس معاملات النموذج (الأوزان والتحيزات) التي يتم تعلمها من البيانات أثناء التدريب، فإن المعلمات الفائقة هي إعدادات خارجية يختارها ممارس الذكاء الاصطناعي قبل بدء التدريب. فهي تتحكم في الهيكل

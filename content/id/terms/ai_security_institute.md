@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /id/terms/ai_security_institute/
 date: "2026-07-18T15:36:58.340958Z"
 lastmod: "2026-07-18T16:38:07.422161Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Organisasi yang didedikasikan untuk meneliti, mengembangkan, dan mempromosikan praktik terbaik dalam mengamankan sistem kecerdasan buatan."
 ---
-
 ## Definition
 
 Lembaga Keamanan AI adalah entitas khusus yang berfokus pada mitigasi risiko yang terkait dengan teknologi kecerdasan buatan. Lembaga-lembaga ini melakukan penelitian tentang serangan adversarial, privasi data, dan kerentanan model, serta menetapkan standar keamanan untuk ekosistem AI.

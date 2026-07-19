@@ -1,23 +1,24 @@
 ---
-title: "Innholdets opprinnelse"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Innholdets opprinnelse
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /no/terms/content_provenance/
-date: "2026-07-18T15:47:39.421421Z"
-lastmod: "2026-07-18T16:38:06.983891Z"
+slug: content_provenance
+date: '2026-07-18T15:47:39.421421Z'
+lastmod: '2026-07-18T16:38:06.983891Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Den verifiserbare journalen over et digitalt assets opprinnelse, historie og eierskap."
+source: agnes_llm
+status: published
+language: 'no'
+description: Den verifiserbare journalen over et digitalt assets opprinnelse, historie
+  og eierskap.
 ---
-
 ## Definition
 
 Innholdets opprinnelse refererer til dokumentasjonen og verifiseringen av hvor digitalt innhold kommer fra, hvordan det ble laget, og hvem som har endret det over tid. I AI-sammenheng er det avgjørende for å bekjempe misinformasjon og sikre integriteten til digitale medier.

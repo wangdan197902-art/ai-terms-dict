@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /tr/terms/automated/
 date: "2026-07-18T15:23:25.151789Z"
 lastmod: "2026-07-18T16:38:07.227103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Minimum insan müdahalesiyle makineler veya yazılım tarafından yürütülen süreçleri ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada otomasyon, geleneksel olarak insan çabası gerektiren görevleri yerine getirmek için algoritmaları ve sistemleri kullanmayı içerir. Önceden tanımlanmış kuralları veya öğrenilmiş kalıpları uygulayarak verimlilik, tutarlılık ve hız odaklı çalışır.

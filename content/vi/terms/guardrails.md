@@ -1,23 +1,24 @@
 ---
-title: "Rào chắn an toàn (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Rào chắn an toàn (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /vi/terms/guardrails/
-date: "2026-07-18T15:56:08.906872Z"
-lastmod: "2026-07-18T16:38:07.763883Z"
+slug: guardrails
+date: '2026-07-18T15:56:08.906872Z'
+lastmod: '2026-07-18T16:38:07.763883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Các cơ chế an toàn được thiết kế để hạn chế đầu ra của mô hình AI, ngăn ngừa việc tạo ra nội dung độc hại, thiên vị hoặc trái phép."
+source: agnes_llm
+status: published
+language: vi
+description: Các cơ chế an toàn được thiết kế để hạn chế đầu ra của mô hình AI, ngăn
+  ngừa việc tạo ra nội dung độc hại, thiên vị hoặc trái phép.
 ---
-
 ## Definition
 
 Rào chắn an toàn đề cập đến một tập hợp các lớp kiểm soát phần mềm và thực thi chính sách được tích hợp vào các ứng dụng AI, đặc biệt là các mô hình ngôn ngữ lớn (LLM), nhằm đảm bảo hành vi an toàn và tuân thủ. Chúng hoạt động như các bộ lọc để giám sát và điều chỉnh đầu vào cũng như đầu ra của mô hình.

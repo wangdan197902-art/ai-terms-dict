@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /tr/terms/elmo/
 date: "2026-07-18T15:50:40.325667Z"
 lastmod: "2026-07-18T16:38:07.302356Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Dil Modellerinden Gömülüler, çift yönlü LSTM'ler kullanarak derin bağlamsal kelime temsili sağlayan bir yöntem."
 ---
-
 ## Definition
 
 ELMo, büyük bir veri kümesinde eğitilmiş bir çift yönlü LSTM aracılığıyla girdi metnini işleyerek bağlama duyarlı kelime gömülileri üretir. Word2Vec gibi statik gömülülerin aksine, ELMo farklı anlamlara sahip kelimelerin bağlama göre değişen temsillerini yakalar.

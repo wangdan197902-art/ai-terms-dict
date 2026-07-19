@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /cs/terms/sdk/
 date: "2026-07-18T15:38:35.855348Z"
 lastmod: "2026-07-18T17:15:09.093524Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sada pro vývoj softwaru poskytující nástroje, knihovny a dokumentaci pro tvorbu aplikací."
 ---
-
 ## Definition
 
 SDK (Software Development Kit) je sbírka nástrojů pro vývoj softwaru, která umožňuje vývojářům vytvářet aplikace pro specifické platformy nebo služby. Pro AI poskytují SDK předpřipravené knihovny, API a utility, které zjednodušují integraci modelů strojového učení, zpracování dat a nasazování aplikací do produkčního prostředí.

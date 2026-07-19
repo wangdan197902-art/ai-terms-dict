@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /nl/terms/probabilistic_numerics/
 date: "2026-07-18T16:13:03.823092Z"
 lastmod: "2026-07-18T17:15:08.778429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een vakgebied dat numerieke rekenproblemen behandelt als statistische inferentietaken om onzekerheid in resultaten te kwantificeren."
 ---
-
 ## Definition
 
 Probabilistische numeriek past Bayesiaanse methoden toe op traditionele numerieke problemen zoals integratie, differentiatie en lineaire algebra. In plaats van puntschattingen te geven, produceert het waarschijnlijkheidsdistributies...

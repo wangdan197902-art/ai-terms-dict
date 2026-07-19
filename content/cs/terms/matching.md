@@ -1,23 +1,24 @@
 ---
-title: "Matching"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: Matching
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /cs/terms/matching/
-date: "2026-07-18T15:26:54.097096Z"
-lastmod: "2026-07-18T17:15:09.072937Z"
+slug: matching
+date: '2026-07-18T15:26:54.097096Z'
+lastmod: '2026-07-18T17:15:09.072937Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Matching zahrnuje zarovnání dvou sad datových bodů nebo vlastností za účelem identifikace odpovídajících si prvků, podobností nebo optimálních spárování."
+source: agnes_llm
+status: published
+language: cs
+description: Matching zahrnuje zarovnání dvou sad datových bodů nebo vlastností za
+  účelem identifikace odpovídajících si prvků, podobností nebo optimálních spárování.
 ---
-
 ## Definition
 
 Matching je kritická technika ve strojovém učení používaná k ustanovení vztahů mezi různorodými datovými entitami. V počítačovém vidění feature matching identifikuje odpovídající body napříč obrázky...

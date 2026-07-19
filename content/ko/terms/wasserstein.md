@@ -1,23 +1,23 @@
 ---
-title: "바서스타인(거리 측정)"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: 바서스타인(거리 측정)
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /ko/terms/wasserstein/
-date: "2026-07-18T15:31:05.711729Z"
-lastmod: "2026-07-18T16:38:06.787757Z"
+slug: wasserstein
+date: '2026-07-18T15:31:05.711729Z'
+lastmod: '2026-07-18T16:38:06.787757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "하나의 확률 분포를 다른 하나로 변환하는 데 필요한 최소 비용에 기반하여 확률 분포 간의 거리를 측정하는 지표입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 하나의 확률 분포를 다른 하나로 변환하는 데 필요한 최소 비용에 기반하여 확률 분포 간의 거리를 측정하는 지표입니다.
 ---
-
 ## Definition
 
 바서스타인 거리(또는 지상 이동자 거리)는 한 분포에서 질량을 이동시키는 데 필요한 최소 '작업량'을 계산하여 두 확률 분포 간의 불일치성을 정량화합니다. 이는 특히 생성 모델의 훈련 안정성에 유용합니다.

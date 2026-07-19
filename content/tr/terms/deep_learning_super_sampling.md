@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /tr/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:49:05.265785Z"
 lastmod: "2026-07-18T16:38:07.296612Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Daha düşük çözünürlüklü görüntüleri yapay zeka kullanarak daha yüksek çözünürlüklere, geliştirilmiş detay ve azaltılmış bozulmalarla ölçeklendirme tekniği."
 ---
-
 ## Definition
 
 Derin Öğrenme Süper Örnekleme (DLSS), sinir ağlarından yararlanarak düşük çözünürlüklü girdilerden yüksek çözünürlüklü görüntüler yeniden oluşturabilen bir teknolojidir. Zaman içindeki verileri ve uzamsal bilgileri analiz ederek gerçek zamanlı performans optimizasyonu sağlar.

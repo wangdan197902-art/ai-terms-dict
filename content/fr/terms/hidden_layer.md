@@ -1,23 +1,24 @@
 ---
-title: "Couche cachée"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Couche cachée
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /fr/terms/hidden_layer/
-date: "2026-07-18T11:20:14.914273Z"
-lastmod: "2026-07-18T11:44:45.269426Z"
+slug: hidden_layer
+date: '2026-07-18T11:20:14.914273Z'
+lastmod: '2026-07-18T11:44:45.269426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une couche intermédiaire dans un réseau de neurones, située entre les couches d'entrée et de sortie, qui traite les caractéristiques."
+source: agnes_llm
+status: published
+language: fr
+description: Une couche intermédiaire dans un réseau de neurones, située entre les
+  couches d'entrée et de sortie, qui traite les caractéristiques.
 ---
-
 ## Definition
 
 Une couche cachée est constituée de neurones qui reçoivent des entrées des couches précédentes, appliquent des poids et des biais, et transmettent les données transformées vers l'avant via une fonction d'activation. Ces couches permettent aux réseaux de neur

@@ -1,23 +1,24 @@
 ---
-title: "Autonomní"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Autonomní
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /cs/terms/autonomous/
-date: "2026-07-18T15:23:29.912719Z"
-lastmod: "2026-07-18T17:15:09.064034Z"
+slug: autonomous
+date: '2026-07-18T15:23:29.912719Z'
+lastmod: '2026-07-18T17:15:09.064034Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Popisuje systémy schopné přijímat rozhodnutí a jednat nezávisle v dynamickém prostředí."
+source: agnes_llm
+status: published
+language: cs
+description: Popisuje systémy schopné přijímat rozhodnutí a jednat nezávisle v dynamickém
+  prostředí.
 ---
-
 ## Definition
 
 Autonomie v AI označuje schopnost systému vnímat své okolí, přijímat rozhodnutí a provádět akce bez přímého lidského zásahu. Na rozdíl od jednoduché automatizace se autonomní systémy přizpůsobují změnám v prostředí.

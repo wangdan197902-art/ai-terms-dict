@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /hu/terms/data_preprocessing/
 date: "2026-07-18T15:53:01.000908Z"
 lastmod: "2026-07-18T17:15:09.767985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A nyers adatok tiszta, következetes formátummá alakítása, amely alkalmas a gépi tanítási algoritmusok számára."
 ---
-
 ## Definition
 
 Az előzetes adatfeldolgozás a nyers, strukturálatlan vagy zajos adatok szabványosított formátummá történő átalakításának alapvető feladata, hogy a gépi tanulási modellek hatékonyan felhasználhassák őket. Ez a szakasz általában tartalmazza az adatok tisztítását, normalizálását és kódolását.

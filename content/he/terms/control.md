@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /he/terms/control/
 date: "2026-07-18T15:24:16.278390Z"
 lastmod: "2026-07-18T17:15:09.474842Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך ניהול, הפניה או ויסות ההתנהגות והמצב של מערכת כדי להשיג תוצאות רצויות."
 ---
-
 ## Definition
 
 בבינה מלאכותית, בקרה מתייחסת למנגנונים ולאלגוריתמים המשמשים להנחיית פעולות המערכת בהתבסס על מצבים נוכחיים ומטרות. היא כוללת לולאות משוב שבהן הפלט נצפה ומותאם כדי לשמור על יציבות ודיוק.

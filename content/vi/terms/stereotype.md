@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /vi/terms/stereotype/
 date: "2026-07-18T16:18:19.584024Z"
 lastmod: "2026-07-18T16:38:07.819444Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một niềm tin khái quát hóa và thường đơn giản hóa quá mức về một nhóm người nhất định, được phản ánh trong đầu ra của AI."
 ---
-
 ## Definition
 
 Trong AI, các định kiến nảy sinh khi các mô hình học và khuếch đại những thiên kiến xã hội có trong dữ liệu huấn luyện. Những điều này có thể dẫn đến các kết quả phân biệt đối xử, chẳng hạn như liên kết các nghề nghiệp cụ thể với giới tính nhất định.

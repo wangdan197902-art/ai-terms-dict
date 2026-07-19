@@ -1,23 +1,23 @@
 ---
-title: "למידת חיזוק מבוססת משוב אנושי"
-term_id: "rlhf"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "fine_tuning"]
+title: למידת חיזוק מבוססת משוב אנושי
+term_id: rlhf
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Fine-Tuning
 difficulty: 5
 weight: 1
-slug: "rlhf"
-aliases:
-  - /he/terms/rlhf/
-date: "2026-07-18T15:29:29.796642Z"
-lastmod: "2026-07-18T17:15:09.485762Z"
+slug: rlhf
+date: '2026-07-18T15:29:29.796642Z'
+lastmod: '2026-07-18T17:15:09.485762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "RLHF היא טכניקה המיישרת מודלי בינה מלאכותית עם העדפות אנושיות באמצעות שימוש במשוב אנושי לאימון מודל פרס ללמידת חיזוק."
+source: agnes_llm
+status: published
+language: he
+description: RLHF היא טכניקה המיישרת מודלי בינה מלאכותית עם העדפות אנושיות באמצעות
+  שימוש במשוב אנושי לאימון מודל פרס ללמידת חיזוק.
 ---
-
 ## Definition
 
 למידת חיזוק מבוססת משוב אנושי (RLHF) היא שיטה המשמשת לדיוק עדין (Fine-tuning) של דגמי שפה גדולים כך שפלטם יהיה מותאם יותר לערכים ולציפיות האנושיים. התהליך כולל בדרך כלל שלושה שלבים: אימון מודל פרס על בסיס העדפות אנושיות, ולאחר מכן שימוש בלמידת חיזוק כדי לשפר את הדגם הראשי.

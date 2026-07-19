@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /zh/terms/low_cost/
 date: "2026-07-18T10:56:47.454456Z"
 lastmod: "2026-07-18T11:44:45.392589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指在保持功能的同时最小化计算、财务或能源支出的 AI 解决方案。"
 ---
-
 ## Definition
 
 低成本 AI 专注于效率，旨在降低与机器学习相关的入门壁垒和运营成本。这包括模型压缩、量化等技术...

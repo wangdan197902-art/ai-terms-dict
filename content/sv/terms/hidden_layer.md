@@ -1,23 +1,24 @@
 ---
-title: "Dolt lager"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Dolt lager
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /sv/terms/hidden_layer/
-date: "2026-07-18T16:01:19.634296Z"
-lastmod: "2026-07-18T17:15:09.011072Z"
+slug: hidden_layer
+date: '2026-07-18T16:01:19.634296Z'
+lastmod: '2026-07-18T17:15:09.011072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett intermediärt lager i ett neuralt nätverk mellan indata- och utdatalager som bearbetar funktioner."
+source: agnes_llm
+status: published
+language: sv
+description: Ett intermediärt lager i ett neuralt nätverk mellan indata- och utdatalager
+  som bearbetar funktioner.
 ---
-
 ## Definition
 
 Ett dolt lager består av nerver som tar emot indata från tidigare lager, tillämpar vikter och bias, och vidarebefordrar transformerad data genom en aktiveringsfunktion. Dessa lager möjliggör för neurala nätverk att lära sig komplexa mönster.

@@ -1,23 +1,24 @@
 ---
-title: "הסקת מסקנות בקצה הרשת"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: הסקת מסקנות בקצה הרשת
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /he/terms/edge_inference/
-date: "2026-07-18T15:55:35.513059Z"
-lastmod: "2026-07-18T17:15:09.536168Z"
+slug: edge_inference
+date: '2026-07-18T15:55:35.513059Z'
+lastmod: '2026-07-18T17:15:09.536168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "הסקת מסקנות בקצה הרשת היא תהליך הרצת מודלים למידת מכונה מקומית על התקני משתמש קצה, במקום בשרתי ענן מרכזיים."
+source: agnes_llm
+status: published
+language: he
+description: הסקת מסקנות בקצה הרשת היא תהליך הרצת מודלים למידת מכונה מקומית על התקני
+  משתמש קצה, במקום בשרתי ענן מרכזיים.
 ---
-
 ## Definition
 
 פרקטיקה זו כוללת פריסת מודלי בינה מלאכותית מאומנים ישירות על חומרה כמו סמארטפונים, חיישני IoT או מערכות משובצות. על ידי עיבוד נתונים מקומית, הסקת מסקנות בקצה מפחיתה משמעותית את זמן האחזור (latency) ומגבירה את הפרטיות.

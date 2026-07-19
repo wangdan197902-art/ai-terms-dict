@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /ko/terms/in_context_learning/
 date: "2026-07-18T15:22:46.628524Z"
 lastmod: "2026-07-18T16:38:06.767240Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "프롬프트에 제공된 예시를 관찰하여 작업을 수행하도록 모델을 학습시키는 기법."
 ---
-
 ## Definition
 
 컨텍스트 내 학습(ICL)은 대규모 언어 모델이 가중치를 업데이트하지 않고도 새로운 작업에 적응할 수 있게 합니다. 프롬프트 컨텍스트 내에 입력-출력 쌍을 제공함으로써 모델은 패턴을 추론하고 작업을 수행합니다.

@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /tr/terms/agentive_logic/
 date: "2026-07-18T15:40:06.379489Z"
 lastmod: "2026-07-18T16:38:07.270471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ajan mantığı, otonom ajanların niyetlerini, hedeflerini ve karar verme süreçlerini modellemek için kullanılan resmi akıl yürütme çerçevelerini ifade eder."
 ---
-
 ## Definition
 
 Geleneksel mantığı ajanlık kavramını hesaba katacak şekilde genişleterek sistemlerin inançları, arzuları ve niyetleri (BDI modelleri) temsil etmesine olanak tanır. Bu mantık, ajanların değişen koşullara göre dinamik olarak eylem planlamasını sağlar.

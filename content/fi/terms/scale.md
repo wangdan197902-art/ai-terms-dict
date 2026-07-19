@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /fi/terms/scale/
 date: "2026-07-18T15:30:57.256300Z"
 lastmod: "2026-07-18T17:15:09.358925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mittakaava viittaa datan, parametrien tai laskennallisten resurssien laajuuteen koneoppimismalleissa."
 ---
-
 ## Definition
 
 Tekoälyssä skaalaaminen tarkoittaa yleensä tietojoukkojen, malliparametrien tai laskentatehon kasvattamista suorituskyvyn parantamiseksi. Tämä käsite on keskeinen syväoppimisessa, jossa suurten

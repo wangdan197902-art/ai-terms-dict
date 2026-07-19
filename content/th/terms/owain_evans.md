@@ -1,23 +1,24 @@
 ---
-title: "โอเว่น อีแวนส์"
-term_id: "owain_evans"
-category: "basic_concepts"
-subcategory: ""
-tags: ["researcher", "interpretability", "ai_safety"]
+title: โอเว่น อีแวนส์
+term_id: owain_evans
+category: basic_concepts
+subcategory: ''
+tags:
+- researcher
+- interpretability
+- AI Safety
 difficulty: 2
 weight: 1
-slug: "owain_evans"
-aliases:
-  - /th/terms/owain_evans/
-date: "2026-07-18T16:10:09.915071Z"
-lastmod: "2026-07-18T16:38:07.639299Z"
+slug: owain_evans
+date: '2026-07-18T16:10:09.915071Z'
+lastmod: '2026-07-18T16:38:07.639299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โอเว่น อีแวนส์ เป็นนักวิจัยและอาจารย์ที่มีชื่อเสียง มีผลงานด้านความสามารถในการตีความโมเดล AI (AI interpretability), การตีความเชิงกลไก (mechanistic interpretability) และการประเมินความสามารถในการให้เหตุ"
+source: agnes_llm
+status: published
+language: th
+description: โอเว่น อีแวนส์ เป็นนักวิจัยและอาจารย์ที่มีชื่อเสียง มีผลงานด้านความสามารถในการตีความโมเดล
+  AI (AI interpretability), การตีความเชิงกลไก (mechanistic interpretability) และการประเมินความสามารถในการให้เหตุ
 ---
-
 ## Definition
 
 โอเว่น อีแวนส์ เป็นนักวิทยาศาสตร์คอมพิวเตอร์และนักการศึกษา ปัจจุบันทำงานร่วมกับศูนย์ความปลอดภัยด้าน AI (Center for AI Safety) และเคยร่วมงานกับแอนโทรปิก (Anthropic) เขาเป็นที่รู้จักอย่างกว้างขวางจากผลงานด้านการตีความเชิงกลไก (mechanistic interpretability) ของโมเดลปัญญาประดิษฐ์ ซึ่งมุ่งเน้นการทำความเข้าใจโครงสร้างภายในและกระบวนการคิดของโมเดล

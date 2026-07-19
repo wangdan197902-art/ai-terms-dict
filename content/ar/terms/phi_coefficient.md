@@ -1,23 +1,23 @@
 ---
-title: "معامل فاي"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: معامل فاي
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /ar/terms/phi_coefficient/
-date: "2026-07-18T16:16:32.312116Z"
-lastmod: "2026-07-18T17:15:08.537123Z"
+slug: phi_coefficient
+date: '2026-07-18T16:16:32.312116Z'
+lastmod: '2026-07-18T17:15:08.537123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مقياس إحصائي لمدى الارتباط بين متغيرين ثنائيي القيمة."
+source: agnes_llm
+status: published
+language: ar
+description: مقياس إحصائي لمدى الارتباط بين متغيرين ثنائيي القيمة.
 ---
-
 ## Definition
 
 معامل فاي (φ) هو مقياس للارتباط بين متغيرين ثنائيي القيمة، ويعمل كمعامل ارتباط بيرسون للمتغيرات الثنائية (الثنائية). يتراوح قيمته من -1 إلى +1، حيث يشير الصفر إلى عدم وجود ارتباط، بينما تشير القيم القصوى إلى ارتباط كامل.

@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /cs/terms/universal_psychometrics/
 date: "2026-07-18T16:21:58.899720Z"
 lastmod: "2026-07-18T17:15:09.209715Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Používání standardizovaných měřicích technik k hodnocení psychologických rysů napříč různými populacemi."
 ---
-
 ## Definition
 
 Univerzální psychometrie zahrnuje vývoj a aplikaci hodnotících nástrojů, které mohou spolehlivě měřit psychologické konstrukty, jako je osobnost, kognitivní schopnosti nebo emocionální inteligence, napříč...

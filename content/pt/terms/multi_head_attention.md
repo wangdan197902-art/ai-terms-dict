@@ -1,23 +1,24 @@
 ---
-title: "Atenção Multi-Cabeça"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Atenção Multi-Cabeça
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /pt/terms/multi_head_attention/
-date: "2026-07-18T14:37:21.715301Z"
-lastmod: "2026-07-18T15:51:59.434740Z"
+slug: multi_head_attention
+date: '2026-07-18T14:37:21.715301Z'
+lastmod: '2026-07-18T15:51:59.434740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um mecanismo em modelos transformadores que permite ao modelo prestar atenção a informações de diferentes subespaços de representação simultaneamente."
+source: agnes_llm
+status: published
+language: pt
+description: Um mecanismo em modelos transformadores que permite ao modelo prestar
+  atenção a informações de diferentes subespaços de representação simultaneamente.
 ---
-
 ## Definition
 
 A Atenção Multi-Cabeça estende o mecanismo de atenção padrão executando-o várias vezes em paralelo com diferentes projeções lineares aprendidas. Isso permite que o modelo atenda conjuntamente a diferentes tipos de informação e padrões nos dados.

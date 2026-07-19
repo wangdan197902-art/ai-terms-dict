@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /en/terms/together/
 date: "2026-07-18T09:37:37.819974Z"
 lastmod: "2026-07-18T11:44:44.611256Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Together generally describes collaborative AI systems or ensemble methods where multiple models or agents work in concert to achieve a unified outcome."
 ---
-
 ## Definition
 
 While not a strict technical term, 'together' in AI contexts often implies collaboration, such as multi-agent systems working toward a common goal or ensemble learning where multiple models combine their predictions. It highlights the synergy between different components, whether they are distinct neural networks, human-AI interfaces, or distributed computing nodes. This concept emphasizes integration and cooperative problem-solving rather than isolated operation, leading to more robust and comprehensive solutions.

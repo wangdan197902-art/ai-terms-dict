@@ -7,8 +7,6 @@ tags: ["reasoning", "prompting", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "tree_of_thoughts"
-aliases:
-  - /th/terms/tree_of_thoughts/
 date: "2026-07-18T16:18:54.265808Z"
 lastmod: "2026-07-18T16:38:07.663917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Tree of Thoughts คือกรอบแนวคิดในการให้เหตุผลที่สำรวจเส้นทางความเป็นไปได้หลายเส้นทางพร้อมกัน และประเมินผลเพื่อเลือกขั้นตอนถัดไปที่มีแนวโน้มดีที่สุด"
 ---
-
 ## Definition
 
 Tree of Thoughts (ToT) ขยายแนวคิด Chain-of-Thought prompting โดยอนุญาตให้โมเดลสำรวจเส้นทางเหตุผลที่แตกต่างกันหลายเส้นทางในแต่ละขั้นตอน จนเกิดเป็นโครงสร้างแบบต้นไม้ โมเดลจะทำการประเมินค่าของแต่ละสถานะเพื่อตัดสินใจเลือกเส้นทางที่ดีที่สุดในการแก้ปัญหาที่ซับซ้อน

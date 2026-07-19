@@ -1,23 +1,24 @@
 ---
-title: "Oppimisaste"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Oppimisaste
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /fi/terms/learning_rate/
-date: "2026-07-18T15:36:54.901812Z"
-lastmod: "2026-07-18T17:15:09.371691Z"
+slug: learning_rate
+date: '2026-07-18T15:36:54.901812Z'
+lastmod: '2026-07-18T17:15:09.371691Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Hyperparametri, joka säätelee askelen kokoa mallin optimoinnin aikana minimoidakseen häviöfunktion."
+source: agnes_llm
+status: published
+language: fi
+description: Hyperparametri, joka säätelee askelen kokoa mallin optimoinnin aikana
+  minimoidakseen häviöfunktion.
 ---
-
 ## Definition
 
 Oppimisaste määrittää, kuinka paljon mallin painoja päivitetään laskettua gradienttia vastaavasti jokaisen koulutusiteroinnin aikana. Liian korkea oppimisaste voi aiheuttaa sen, että malli ohittaa optimin, kun taas liian matala hidastaa konvergenssia merkittävästi.

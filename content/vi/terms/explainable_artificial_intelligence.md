@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /vi/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:52:28.134596Z"
 lastmod: "2026-07-18T16:38:07.756056Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trí tuệ nhân tạo có thể giải thích (XAI) đề cập đến các phương pháp và kỹ thuật trong ứng dụng công nghệ trí tuệ nhân tạo sao cho kết quả của giải pháp có thể được hiểu bởi các chuyên gia con người."
 ---
-
 ## Definition
 
 Khi các mô hình học máy trở nên phức tạp hơn, đặc biệt là các mạng nơ-ron sâu, quá trình ra quyết định của chúng thường trở nên mờ nhạt như những 'hộp đen'. XAI nhằm mục đích làm cho các quyết định này có thể diễn giải được và minh bạch.

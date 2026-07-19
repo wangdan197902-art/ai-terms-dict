@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /hu/terms/model_hub_mixin/
 date: "2026-07-18T16:13:21.439695Z"
 lastmod: "2026-07-18T17:15:09.813823Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Model Hub Mixin egy újrahasználható osztálykomponens, amely szabványosított funkciókat ad a Hugging Face Transformers modellekhez."
 ---
-
 ## Definition
 
 A Mixinek közönséges módszereket biztosítanak, mint például a modellek mentése, betöltése és feltöltése a Hugging Face Hubra anélkül, hogy minden modellarchitektúrának egyedileg kellene megvalósítania ezeket az eszközöket. Biztosítják a konzisztenciát

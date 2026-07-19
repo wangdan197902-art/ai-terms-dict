@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /ko/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:48:00.608965Z"
 lastmod: "2026-07-18T16:38:06.826368Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "밀도 있는 문서 검색(Dense Passage Retrieval) 훈련을 위해 위키백과에서 파생된 대규모 질문-답변 쌍 데이터셋입니다."
 ---
-
 ## Definition
 
 PAQ(Pseudo-Answer Quality) 데이터셋은 위키백과에서 추출된 수백만 개의 자동 생성된 질문-답변 쌍으로 구성되어 있습니다. 이는 밀도 있는 검색기(Dense Retriever)를 훈련시키기 위해 특별히 설계되었으며, 고품질의 부정 샘플(Negative Samples)을 제공하여 검색 모델의 성능을 향상시키는 데 사용됩니다.

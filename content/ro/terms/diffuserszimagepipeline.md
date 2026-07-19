@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /ro/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:55:01.750765Z"
-lastmod: "2026-07-18T17:15:09.649611Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:55:01.750765Z'
+lastmod: '2026-07-18T17:15:09.649611Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un pipeline specializat Hugging Face Diffusers, asociat de obicei cu implementări zero-shot sau arhitecturale specifice pentru generarea de imagini, adesea legate de axa Z sau modele comunitare specif"
+source: agnes_llm
+status: published
+language: ro
+description: Un pipeline specializat Hugging Face Diffusers, asociat de obicei cu
+  implementări zero-shot sau arhitecturale specifice pentru generarea de imagini,
+  adesea legate de axa Z sau modele comunitare specif
 ---
-
 ## Definition
 
 În contextul ecosistemului Hugging Face Diffusers, acest termen se referă general la o configurație de pipeline sau un wrapper conceput pentru sarcini specifice de generare a imaginilor, potențial valorificând metode zero-shot pentru a crea imagini fără antrenament prealabil pe date noi.

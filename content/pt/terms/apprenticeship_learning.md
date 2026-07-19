@@ -1,23 +1,24 @@
 ---
-title: "Aprendizado por Aprendizagem"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Aprendizado por Aprendizagem
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /pt/terms/apprenticeship_learning/
-date: "2026-07-18T14:49:49.466371Z"
-lastmod: "2026-07-18T15:51:59.462895Z"
+slug: apprenticeship_learning
+date: '2026-07-18T14:49:49.466371Z'
+lastmod: '2026-07-18T15:51:59.462895Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um método de aprendizado por reforço no qual um agente aprende uma política imitando demonstrações de um especialista."
+source: agnes_llm
+status: published
+language: pt
+description: Um método de aprendizado por reforço no qual um agente aprende uma política
+  imitando demonstrações de um especialista.
 ---
-
 ## Definition
 
 O aprendizado por aprendizagem, também conhecido como aprendizado por reforço inverso a partir de demonstrações, permite que os agentes adquiram habilidades observando o comportamento de especialistas, em vez de depender exclusivamente de funções de recompensa.

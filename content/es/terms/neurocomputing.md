@@ -1,23 +1,25 @@
 ---
-title: "Neuroinformática"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neuroinformática
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /es/terms/neurocomputing/
-date: "2026-07-18T11:02:19.166374Z"
-lastmod: "2026-07-18T11:44:44.837010Z"
+slug: neurocomputing
+date: '2026-07-18T11:02:19.166374Z'
+lastmod: '2026-07-18T11:44:44.837010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La neuroinformática es un campo interdisciplinario que combina la neurociencia, la informática y la ingeniería para desarrollar modelos computacionales inspirados en los sistemas neuronales biológicos"
+source: agnes_llm
+status: published
+language: es
+description: La neuroinformática es un campo interdisciplinario que combina la neurociencia,
+  la informática y la ingeniería para desarrollar modelos computacionales inspirados
+  en los sistemas neuronales biológicos
 ---
-
 ## Definition
 
 Este dominio se centra en crear arquitecturas de hardware y software que imitan la estructura y función del cerebro humano. Abarca las redes neuronales artificiales, los chips neuromórficos y la cognición...

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /cs/terms/governance/
 date: "2026-07-18T16:00:04.094829Z"
 lastmod: "2026-07-18T17:15:09.135178Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Rámec politik, norem a mechanismů dohledu zavedený k zajištění odpovědného a etického vývoje a nasazení systémů AI."
 ---
-
 ## Definition
 
 Governance AI se týká souboru pravidel, guidelineů a institucionálních struktur, které řídí způsob tvorby, používání a auditu umělé inteligence. Zahrnuje práční soulad, etické uvažování a

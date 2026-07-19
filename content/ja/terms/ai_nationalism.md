@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /ja/terms/ai_nationalism/
 date: "2026-07-18T11:02:23.128317Z"
 lastmod: "2026-07-18T11:44:45.061429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "地政学的および経済的利益を駆動力とし、国家間での人工知能開発の支配をめぐる戦略的競争。"
 ---
-
 ## Definition
 
 AIナショナリズムとは、政府が人工知能を国家安全保障および経済的主権の問題として扱う傾向を指します。各国は国内のAI研究への投資を強化し、技術移転やハイエンド半導体の輸出を制限する措置を取ることがあります。

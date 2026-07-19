@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /fi/terms/cross_modal/
 date: "2026-07-18T15:33:10.014465Z"
 lastmod: "2026-07-18T17:15:09.363230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekniikat, jotka integroivat ja käsittelevät tietoa eri aistinvaraisista datatyypeistä, kuten tekstistä ja kuvista."
 ---
-
 ## Definition
 
 Modaaliraja-yli-tekoäly käsittää erilaisten modaaliteettien, kuten visuaalisen, auditiivisen ja tekstimuotoisen datan, käsittelyn ja korreloinnin. Nämä järjestelmät oppivat yhteisiä esityksiä ymmärtääkseen näiden eri tietolähteiden välisiä suhteita...

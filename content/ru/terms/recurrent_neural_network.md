@@ -1,23 +1,24 @@
 ---
-title: "Recurrent Neural Network"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Recurrent Neural Network
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /ru/terms/recurrent_neural_network/
-date: "2026-07-18T15:36:07.358403Z"
-lastmod: "2026-07-18T16:38:07.109860Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:36:07.358403Z'
+lastmod: '2026-07-18T16:38:07.109860Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Рекуррентная нейронная сеть (RNN) — класс искусственных нейронных сетей, где связи между узлами образуют направленный граф вдоль временной последовательности."
+source: agnes_llm
+status: published
+language: ru
+description: Рекуррентная нейронная сеть (RNN) — класс искусственных нейронных сетей,
+  где связи между узлами образуют направленный граф вдоль временной последовательности.
 ---
-
 ## Definition
 
 RNN предназначены для распознавания паттернов в последовательностях данных, таких как текст, геномы, рукописный ввод или речь. В отличие от сетей прямого распространения, они обладают внутренней памятью, которая сохраняет информацию о предыдущих элементах последовательности.

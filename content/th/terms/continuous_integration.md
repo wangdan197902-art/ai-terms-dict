@@ -1,23 +1,24 @@
 ---
-title: "การผสานรวมอย่างต่อเนื่อง (Continuous Integration)"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: การผสานรวมอย่างต่อเนื่อง (Continuous Integration)
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /th/terms/continuous_integration/
-date: "2026-07-18T15:35:09.155577Z"
-lastmod: "2026-07-18T16:38:07.559304Z"
+slug: continuous_integration
+date: '2026-07-18T15:35:09.155577Z'
+lastmod: '2026-07-18T16:38:07.559304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวปฏิบัติในการพัฒนาซอฟต์แวร์ที่นักพัฒนาทำการรวมการเปลี่ยนแปลงโค้ดเข้าสู่ที่เก็บส่วนกลางอย่างสม่ำเสมอ ซึ่งจะทำให้เกิดการสร้างและทดสอบอัตโนมัติ"
+source: agnes_llm
+status: published
+language: th
+description: แนวปฏิบัติในการพัฒนาซอฟต์แวร์ที่นักพัฒนาทำการรวมการเปลี่ยนแปลงโค้ดเข้าสู่ที่เก็บส่วนกลางอย่างสม่ำเสมอ
+  ซึ่งจะทำให้เกิดการสร้างและทดสอบอัตโนมัติ
 ---
-
 ## Definition
 
 การผสานรวมอย่างต่อเนื่อง (CI) เป็นแนวปฏิบัติที่สำคัญใน DevOps ซึ่งทำหน้าที่อัตโนมัติในการรวมการเปลี่ยนแปลงโค้ดจากผู้มีส่วนร่วมหลายคนเข้าไว้ในโครงการซอฟต์แวร์เดียว โดยการรันการสร้างและทดสอบอัตโนมัติเพื่อตรวจสอบความถูกต้องของโค้ดทันทีที่มีการเปลี่ยนแปลง

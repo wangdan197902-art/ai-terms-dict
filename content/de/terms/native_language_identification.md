@@ -1,23 +1,24 @@
 ---
-title: "Identifizierung der Muttersprache"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identifizierung der Muttersprache
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /de/terms/native_language_identification/
-date: "2026-07-18T11:25:05.491101Z"
-lastmod: "2026-07-18T11:44:44.969204Z"
+slug: native_language_identification
+date: '2026-07-18T11:25:05.491101Z'
+lastmod: '2026-07-18T11:44:44.969204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess der automatischen Bestimmung der Muttersprache eines Sprechers anhand seiner Sprach- oder Textproben."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess der automatischen Bestimmung der Muttersprache eines Sprechers
+  anhand seiner Sprach- oder Textproben.
 ---
-
 ## Definition
 
 Die Identifizierung der Muttersprache (Native-Language Identification, NLI) ist ein Teilgebiet der Verarbeitung natürlicher Sprache (NLP), das sich auf die Erkennung der ersten Sprache konzentriert, die ein Sprecher gelernt hat. Im Gegensatz zur allgemeinen Spracherkennung analysiert NLI spezifische linguistische Merkmale, Akzente und syntaktische Muster, die typisch für die Muttersprache sind.

@@ -1,23 +1,24 @@
 ---
-title: "Physical Intelligence Inc."
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: Physical Intelligence Inc.
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /fi/terms/physical_intelligence_inc/
-date: "2026-07-18T16:15:50.743520Z"
-lastmod: "2026-07-18T17:15:09.444192Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T16:15:50.743520Z'
+lastmod: '2026-07-18T17:15:09.444192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Robotiikkayritys, jonka perustivat entiset DeepMind-tutkijat keskittyen yleiskäyttöiseen robottimanipulaatioon."
+source: agnes_llm
+status: published
+language: fi
+description: Robotiikkayritys, jonka perustivat entiset DeepMind-tutkijat keskittyen
+  yleiskäyttöiseen robottimanipulaatioon.
 ---
-
 ## Definition
 
 Physical Intelligence Inc. (PI) on Google DeepMindista eriytynyt yritys, jonka tavoitteena on edistää ruumiillistettua tekoälyä ja robotiikkaa. Yritys keskittyy kehittämään yleiskäyttöisiä robotteja, jotka pystyvät suorittamaan monipuolisia tehtäviä.

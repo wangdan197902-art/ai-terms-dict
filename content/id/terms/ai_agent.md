@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /id/terms/ai_agent/
 date: "2026-07-18T15:37:10.784923Z"
 lastmod: "2026-07-18T16:38:07.422456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem otonom yang dirancang untuk mempersepsikan lingkungannya dan mengambil tindakan untuk mencapai tujuan tertentu."
 ---
-
 ## Definition
 
 Agen AI adalah entitas perangkat lunak yang beroperasi secara otonom dalam lingkungan yang ditentukan untuk mencapai tujuan yang telah ditetapkan. Agen ini memanfaatkan mekanisme persepsi untuk mengumpulkan data, memproses informasi tersebut, dan kemudian mengambil tindakan yang sesuai.

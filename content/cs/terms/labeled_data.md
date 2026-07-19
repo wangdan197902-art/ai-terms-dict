@@ -1,23 +1,24 @@
 ---
-title: "Označená data"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Označená data
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /cs/terms/labeled_data/
-date: "2026-07-18T16:05:22.044987Z"
-lastmod: "2026-07-18T17:15:09.146418Z"
+slug: labeled_data
+date: '2026-07-18T16:05:22.044987Z'
+lastmod: '2026-07-18T17:15:09.146418Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Data, kde jsou správné výstupy nebo cílové hodnoty poskytovány spolu s vstupními znaky."
+source: agnes_llm
+status: published
+language: cs
+description: Data, kde jsou správné výstupy nebo cílové hodnoty poskytovány spolu
+  s vstupními znaky.
 ---
-
 ## Definition
 
 Označená data se skládají ze vstupních vzorků spárovaných s příslušnými štítky základní pravdy (ground truth) a tvoří základ pro učení se s učitelem. Umožňují algoritmům naučit se mapování mezi vstupy a výstupy.

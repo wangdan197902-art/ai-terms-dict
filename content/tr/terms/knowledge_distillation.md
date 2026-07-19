@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /tr/terms/knowledge_distillation/
 date: "2026-07-18T15:59:24.947486Z"
 lastmod: "2026-07-18T16:38:07.324060Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi damıtma, daha küçük bir öğrenci modelinin daha büyük bir öğretmen modelinin davranışını taklit etmesini sağlayan bir model sıkıştırma tekniğidir."
 ---
-
 ## Definition
 
 Bilgi damıtma, büyük ve karmaşık bir sinir ağını (öğretmen) daha küçük ve verimli bir ağya (öğrenci) sıkıştırmak için kullanılan makine öğrenimi yöntemidir. Öğrenci modeli, öğretmenin davranışlarını öğrenmek üzere eğitilir.

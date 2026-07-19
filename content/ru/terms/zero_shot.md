@@ -1,23 +1,23 @@
 ---
-title: "без примеров (zero-shot)"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: без примеров (zero-shot)
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /ru/terms/zero_shot/
-date: "2026-07-18T15:32:32.270525Z"
-lastmod: "2026-07-18T16:38:07.098949Z"
+slug: zero_shot
+date: '2026-07-18T15:32:32.270525Z'
+lastmod: '2026-07-18T16:38:07.098949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Способность выполнять задачи на невидимых классах без предварительных обучающих примеров."
+source: agnes_llm
+status: published
+language: ru
+description: Способность выполнять задачи на невидимых классах без предварительных
+  обучающих примеров.
 ---
-
 ## Definition
 
 Обучение без примеров позволяет моделям обобщать новые категории или задачи, для которых не было предоставленных размеченных обучающих данных на начальном этапе обучения. Это обычно достигается за счет использования семантических...

@@ -7,8 +7,6 @@ tags: ["conference", "ethics", "fraud"]
 difficulty: 2
 weight: 1
 slug: "the_ai_con"
-aliases:
-  - /vi/terms/the_ai_con/
 date: "2026-07-18T16:14:26.420806Z"
 lastmod: "2026-07-18T16:38:07.811714Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "The AI Con là một hội nghị tập trung vào việc phơi bày lừa đảo, gian lận và các vấn đề đạo đức trong ngành trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 The AI Con là sự kiện thường niên dành riêng cho việc điều tra và làm nổi bật các thực hành lừa dối, tuyên bố phóng đại và lỗ hổng bảo mật trong lĩnh vực AI. Không giống như các hội nghị công nghệ điển hình chỉ trình diễn sản phẩm, sự kiện này nhấn mạnh vào tính minh bạch và trách nhiệm.

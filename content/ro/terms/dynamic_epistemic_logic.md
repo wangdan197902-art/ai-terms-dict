@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /ro/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:55:19.117073Z"
 lastmod: "2026-07-18T17:15:09.650578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru formal pentru raționamentul privind schimbările din stările de cunoaștere ale agenților rezultate din actualizări de informații sau evenimente."
 ---
-
 ## Definition
 
 Logica epistemică dinamică (DEL) extinde logica modală pentru a modela modul în care cunoașterea evoluează atunci când agenții primesc informații noi. Oferă instrumente pentru analiza sistemelor multi-agenți în care credințele se modifică în urma comunicării publice sau a observării acțiunilor altor agenți.

@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /vi/terms/moreover/
 date: "2026-07-18T15:27:19.519123Z"
 lastmod: "2026-07-18T16:38:07.690220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một trạng từ chuyển tiếp được sử dụng để đưa ra thông tin bổ sung hoặc củng cố một lập luận trước đó."
 ---
-
 ## Definition
 
 Trong ngữ cảnh tài liệu AI và viết kỹ thuật, 'Hơn nữa' đóng vai trò là một dấu hiệu diễn ngôn báo hiệu việc thêm vào bằng chứng hỗ trợ hoặc một điểm nhấn mạnh hơn cho cuộc thảo luận hiện tại.

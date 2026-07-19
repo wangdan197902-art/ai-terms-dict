@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /ro/terms/speaker/
 date: "2026-07-18T16:21:36.265369Z"
 lastmod: "2026-07-18T17:15:09.704273Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O persoană care produce sunete vocale sau discurs într-un semnal audio."
 ---
-
 ## Definition
 
 În procesarea vorbirii, un interlocutor este definit ca o sursă distinctă de voce umană într-o înregistrare audio. Identificarea și distingerea vorbitorilor sunt fundamentale pentru analiza conversațiilor, asigurarea securității și transcrierea precisă.

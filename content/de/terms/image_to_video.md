@@ -1,23 +1,24 @@
 ---
-title: "Bild-zu-Video"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Bild-zu-Video
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /de/terms/image_to_video/
-date: "2026-07-18T11:19:08.291326Z"
-lastmod: "2026-07-18T11:44:44.950803Z"
+slug: image_to_video
+date: '2026-07-18T11:19:08.291326Z'
+lastmod: '2026-07-18T11:44:44.950803Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein generativer Prozess, bei dem ein statisches Bild animiert wird, um einen kurzen Videoclip zu erstellen, der zeitliche Dynamiken und Bewegung hinzufügt."
+source: agnes_llm
+status: published
+language: de
+description: Ein generativer Prozess, bei dem ein statisches Bild animiert wird, um
+  einen kurzen Videoclip zu erstellen, der zeitliche Dynamiken und Bewegung hinzufügt.
 ---
-
 ## Definition
 
 Die Technologie Bild-zu-Video nimmt einen einzelnen statischen Frame und sagt nachfolgende Frames voraus, um eine kohärente Videosequenz zu generieren. Dies umfasst die Modellierung zeitlicher Konsistenz und physikalischer Dynamiken, um sicherzustellen...

@@ -1,23 +1,24 @@
 ---
-title: "גרף"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: גרף
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /he/terms/graph/
-date: "2026-07-18T15:25:59.459052Z"
-lastmod: "2026-07-18T17:15:09.478868Z"
+slug: graph
+date: '2026-07-18T15:25:59.459052Z'
+lastmod: '2026-07-18T17:15:09.478868Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מבנה מתמטי המורכב מצמתים המחוברים על ידי קשתות, המשמש לייצוג קשרים בין ישויות."
+source: agnes_llm
+status: published
+language: he
+description: מבנה מתמטי המורכב מצמתים המחוברים על ידי קשתות, המשמש לייצוג קשרים בין
+  ישויות.
 ---
-
 ## Definition
 
 גרף הוא מבנה נתונים יסודי בבינה מלאכותית המורכב מקודקודים (צמתים) וקשתות (חיבורים) המציינים קשרים. רשתות עצביות גרפיות (GNNs) משתמשות במבנה זה כדי לבצע למידה על נתונים שאינם אוקלידיים.

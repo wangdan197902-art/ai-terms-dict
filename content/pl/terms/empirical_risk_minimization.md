@@ -1,23 +1,24 @@
 ---
-title: "Minimalizacja ryzyka empirycznego"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Minimalizacja ryzyka empirycznego
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /pl/terms/empirical_risk_minimization/
-date: "2026-07-18T15:53:26.791633Z"
-lastmod: "2026-07-18T17:15:08.870377Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:53:26.791633Z'
+lastmod: '2026-07-18T17:15:08.870377Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podstawowa zasada w uczeniu maszynowym, mająca na celu minimalizację średniej straty na obserwowanych danych treningowych."
+source: agnes_llm
+status: published
+language: pl
+description: Podstawowa zasada w uczeniu maszynowym, mająca na celu minimalizację
+  średniej straty na obserwowanych danych treningowych.
 ---
-
 ## Definition
 
 Minimalizacja Ryzyka Empirycznego (ERM) to standardowa funkcja celu podczas trenowania modeli uczenia nadzorowanego. Polega ona na wybraniu hipotezy z klasy funkcji, która minimalizuje średni błąd...

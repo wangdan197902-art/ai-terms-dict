@@ -1,23 +1,23 @@
 ---
-title: "하이퍼파라미터 최적화"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: 하이퍼파라미터 최적화
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /ko/terms/hyperparameter_optimization/
-date: "2026-07-18T15:59:15.313529Z"
-lastmod: "2026-07-18T16:38:06.852456Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T15:59:15.313529Z'
+lastmod: '2026-07-18T16:38:06.852456Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "확률 모델을 사용하여 탐색을 안내함으로써 최적의 하이퍼파라미터 구성을 찾는 자동화된 접근 방식입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 확률 모델을 사용하여 탐색을 안내함으로써 최적의 하이퍼파라미터 구성을 찾는 자동화된 접근 방식입니다.
 ---
-
 ## Definition
 
 하이퍼파라미터 최적화(HPO)는 하이퍼파라미터 선택을 자동화하는 더 넓은 분야를 지칭합니다. 튜닝이 일반적인 행위를 의미한다면, HPO는 베이지안 최적화와 같은 정교한 알고리즘의 사용을 종종 암시합니다.

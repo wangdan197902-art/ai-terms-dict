@@ -1,23 +1,24 @@
 ---
-title: "Guardrails"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Guardrails
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /pt/terms/guardrails/
-date: "2026-07-18T15:02:48.580301Z"
-lastmod: "2026-07-18T15:51:59.496672Z"
+slug: guardrails
+date: '2026-07-18T15:02:48.580301Z'
+lastmod: '2026-07-18T15:51:59.496672Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Mecanismos de segurança projetados para restringir as saídas de modelos de IA, impedindo a geração de conteúdo prejudicial, tendencioso ou não autorizado."
+source: agnes_llm
+status: published
+language: pt
+description: Mecanismos de segurança projetados para restringir as saídas de modelos
+  de IA, impedindo a geração de conteúdo prejudicial, tendencioso ou não autorizado.
 ---
-
 ## Definition
 
 Guardrails referem-se a um conjunto de controles de software e camadas de aplicação de políticas integradas em aplicações de IA, particularmente em grandes modelos de linguagem, para garantir um comportamento seguro e em conformidade. Eles atuam como filtros que bloqueiam entradas ou saídas inadequadas.

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: 'Diffusers: Qwenimagepipeline'
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /vi/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T15:49:43.470993Z"
-lastmod: "2026-07-18T16:38:07.749867Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T15:49:43.470993Z'
+lastmod: '2026-07-18T16:38:07.749867Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một pipeline sử dụng các mô hình Qwen-VL trong Diffusers để tạo ảnh trực tiếp từ mô tả văn bản hoặc đầu vào đa phương thức."
+source: agnes_llm
+status: published
+language: vi
+description: Một pipeline sử dụng các mô hình Qwen-VL trong Diffusers để tạo ảnh trực
+  tiếp từ mô tả văn bản hoặc đầu vào đa phương thức.
 ---
-
 ## Definition
 
 Pipeline này thích ứng các khả năng sinh dữ liệu của các mô hình Qwen-VL cho việc tổng hợp ảnh. Nó cho phép người dùng tạo ra những bức ảnh chất lượng cao bằng cách cung cấp các lời nhắc văn bản hoặc kết hợp văn bản với ảnh tham chiếu

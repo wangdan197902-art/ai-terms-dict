@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /pt/terms/datasetembedding_dataspecter/
 date: "2026-07-18T14:55:46.963850Z"
 lastmod: "2026-07-18T15:51:59.478773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados em larga escala baseado em publicações e citações de Ciência da Computação, projetado para treinar modelos de incorporação de artigos acadêmicos."
 ---
-
 ## Definition
 
 O conjunto de dados Specter é construído a partir de uma vasta coleção de artigos de Ciência da Computação, utilizando redes de citação para criar sinais de aprendizado supervisionado. Ele emparelha resumos com seus artigos citadores para

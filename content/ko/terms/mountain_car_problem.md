@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /ko/terms/mountain_car_problem/
 date: "2026-07-18T16:06:20.712616Z"
 lastmod: "2026-07-18T16:38:06.887041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: " 에이전트가 가속 제어 장치만 사용하여 가파른 언덕을 올라가야 하는 고전적인 강화 학습 과제입니다."
 ---
-
 ## Definition
 
 마운틴 카 문제는 강화 학습 연구의 표준 벤치마크입니다. 목표는 출력이 부족한 자동차를 제어하여 가파른 언덕 꼭대기에 도달하는 것입니다. 자동차가 한 번에 언덕을 오를 수 없기 때문에, 에이전트는 중력을 이기고 속도를 얻기 위해 왕복 운동을 해야 합니다.

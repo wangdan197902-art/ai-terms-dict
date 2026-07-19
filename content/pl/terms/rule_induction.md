@@ -1,23 +1,25 @@
 ---
-title: "Indukcja reguł"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Indukcja reguł
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /pl/terms/rule_induction/
-date: "2026-07-18T16:15:19.257633Z"
-lastmod: "2026-07-18T17:15:08.914912Z"
+slug: rule_induction
+date: '2026-07-18T16:15:19.257633Z'
+lastmod: '2026-07-18T17:15:08.914912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika uczenia maszynowego polegająca na automatycznym generowaniu zbioru logicznych reguł z oznaczonych danych treningowych w celu klasyfikacji nowych przypadków."
+source: agnes_llm
+status: published
+language: pl
+description: Technika uczenia maszynowego polegająca na automatycznym generowaniu
+  zbioru logicznych reguł z oznaczonych danych treningowych w celu klasyfikacji nowych
+  przypadków.
 ---
-
 ## Definition
 
 Indukcja reguł to metoda symbolicznego uczenia maszynowego, która wyprowadza reguły typu 'jeśli-wtedy' bezpośrednio z danych. W przeciwieństwie do sieci neuronowych, które generują nieprzejrzyste wagi, indukcja reguł daje modele interpretowalne,

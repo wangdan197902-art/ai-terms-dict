@@ -1,23 +1,23 @@
 ---
-title: "Původ obsahu"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Původ obsahu
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /cs/terms/content_provenance/
-date: "2026-07-18T15:49:36.046625Z"
-lastmod: "2026-07-18T17:15:09.113508Z"
+slug: content_provenance
+date: '2026-07-18T15:49:36.046625Z'
+lastmod: '2026-07-18T17:15:09.113508Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Ověřitelný záznam o původu, historii a vlastnictví digitálního aktiv."
+source: agnes_llm
+status: published
+language: cs
+description: Ověřitelný záznam o původu, historii a vlastnictví digitálního aktiv.
 ---
-
 ## Definition
 
 Původ obsahu se týká dokumentace a ověřování toho, odkud digitální obsah pochází, jak byl vytvořen a kdo jej v průběhu času upravoval. V kontextu umělé inteligence je klíčový pro boj proti dezinformacím a falšování médií.

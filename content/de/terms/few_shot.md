@@ -1,23 +1,24 @@
 ---
-title: "Few-Shot"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: Few-Shot
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /de/terms/few_shot/
-date: "2026-07-18T10:55:25.814521Z"
-lastmod: "2026-07-18T11:44:44.888010Z"
+slug: few_shot
+date: '2026-07-18T10:55:25.814521Z'
+lastmod: '2026-07-18T11:44:44.888010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Lernparadigma, bei dem ein Modell eine Aufgabe korrekt ausführt, nachdem es nur mit einer kleinen Anzahl gelabelter Beispiele konfrontiert wurde."
+source: agnes_llm
+status: published
+language: de
+description: Ein Lernparadigma, bei dem ein Modell eine Aufgabe korrekt ausführt,
+  nachdem es nur mit einer kleinen Anzahl gelabelter Beispiele konfrontiert wurde.
 ---
-
 ## Definition
 
 Few-Shot-Learning ermöglicht es Machine-Learning-Modellen, aus sehr begrenzten Daten zu verallgemeinern, typischerweise im Bereich von einem bis zehn Beispielen pro Klasse. Im Gegensatz zum traditionellen überwachtes Lernen, das Tausende von Beispielen erfordert, nutzt Few-Shot-Learning Vorwissen aus vorab trainierten Modellen.

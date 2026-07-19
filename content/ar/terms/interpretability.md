@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /ar/terms/interpretability/
 date: "2026-07-18T15:37:13.591266Z"
 lastmod: "2026-07-18T17:15:08.462298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "درجة قدرة الإنسان على فهم سبب قرار اتخذه نموذج ذكاء اصطناعي."
 ---
-
 ## Definition
 
 تشمل القابلية للتفسير (أو القدرة على الشرح) جعل العمليات الداخلية وآليات اتخاذ القرار الخاصة بنماذج الذكاء الاصطناعي شفافة وقابلة للفهم من قبل البشر. يعد هذا أمراً حاسماً لتصحيح الأخطاء وضمان...

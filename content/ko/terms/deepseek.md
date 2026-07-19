@@ -1,23 +1,24 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /ko/terms/deepseek/
-date: "2026-07-18T15:51:28.982892Z"
-lastmod: "2026-07-18T16:38:06.830556Z"
+slug: deepseek
+date: '2026-07-18T15:51:28.982892Z'
+lastmod: '2026-07-18T16:38:06.830556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "DeepSeek는 높은 효율성, 강력한 코딩 능력, 오픈 가중치 공개로 알려진 DeepSeek社에서 개발한 대형 언어 모델 시리즈입니다."
+source: agnes_llm
+status: published
+language: ko
+description: DeepSeek는 높은 효율성, 강력한 코딩 능력, 오픈 가중치 공개로 알려진 DeepSeek社에서 개발한 대형 언어 모델
+  시리즈입니다.
 ---
-
 ## Definition
 
 DeepSeek는 DeepSeek 회사에서 만든 인공지능 모델 패밀리를 지칭합니다. 이러한 모델들은 코드 생성, 복잡한 자연어 처리 작업 등 다양한 고급 작업을 처리하도록 설계되었으며, 특히 비용 효율성과 성능 면에서 주목받고 있습니다.

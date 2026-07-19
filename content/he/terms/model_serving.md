@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /he/terms/model_serving/
 date: "2026-07-18T15:37:26.610783Z"
 lastmod: "2026-07-18T17:15:09.501490Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך פריסת מודלים של למידת מכונה מאומנים בסביבות הפקה כדי ליצור תחזיות או פלט עבור משתמשים סופיים."
 ---
-
 ## Definition
 
 הפעלת מודלים כוללת לקיחת מודל מאומן סטטי והכנסתו לתשתית קנה מידה המטפלת בבקשות נכנסות, מבצעת הסקה (Inference) ומחזירה תוצאות. האתגרים העיקריים כוללים ניהול עומסים, מינימום זמן היענות ואמינות המערכת.

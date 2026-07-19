@@ -1,23 +1,25 @@
 ---
-title: "Memorare în cache"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Memorare în cache
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /ro/terms/caching/
-date: "2026-07-18T15:48:50.307417Z"
-lastmod: "2026-07-18T17:15:09.635219Z"
+slug: caching
+date: '2026-07-18T15:48:50.307417Z'
+lastmod: '2026-07-18T17:15:09.635219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Memorarea în cache este o tehnică de stocare a datelor accesate frecvent într-un strat de stocare temporar, de mare viteză, pentru a reduce latența și a diminua încărcarea surselor primare de date."
+source: agnes_llm
+status: published
+language: ro
+description: Memorarea în cache este o tehnică de stocare a datelor accesate frecvent
+  într-un strat de stocare temporar, de mare viteză, pentru a reduce latența și a
+  diminua încărcarea surselor primare de date.
 ---
-
 ## Definition
 
 În ingineria IA, memorarea în cache optimizează performanța păstrând rezultatele interogărilor recente sau frecvente, predicțiile modelelor sau calculele intermediare în memoria rapidă (cum ar fi RAM). Acest lucru reduce necesitatea recalculării sau a accesării repetate a bazelor de date lente.

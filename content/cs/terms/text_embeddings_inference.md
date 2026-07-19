@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /cs/terms/text_embeddings_inference/
 date: "2026-07-18T16:20:08.438379Z"
 lastmod: "2026-07-18T17:15:09.206133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Specializovaný inference server navržený pro efektivní generování hustých vektorových reprezentací textu pro úlohy sémantického vyhledávání a získávání informací."
 ---
-
 ## Definition
 
 Inference textových vložení se týká nasazení a optimalizace modelů, které převádějí přirozený jazyk na vysokorozměrné vektory. Tyto vložení zachycují sémantický význam, což umožňuje systémům provádět pokročilé vyhledávání na základě významu a kontextu, nikoliv pouze klíčových slov.

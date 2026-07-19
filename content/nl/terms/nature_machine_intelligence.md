@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /nl/terms/nature_machine_intelligence/
 date: "2026-07-18T16:09:58.771878Z"
 lastmod: "2026-07-18T17:15:08.771688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een peer-reviewed wetenschappelijk tijdschrift uitgegeven door Springer Nature, gericht op interdisciplinair onderzoek naar kunstmatige intelligentie."
 ---
-
 ## Definition
 
 Nature Machine Intelligence is een invloedrijk academisch tijdschrift dat zich wijdt aan het publiceren van oorspronkelijk onderzoek naar alle aspecten van kunstmatige intelligentie. Het behandelt onderwerpen variërend van fundamentele algoritmen

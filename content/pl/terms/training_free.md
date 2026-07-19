@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /pl/terms/training_free/
 date: "2026-07-18T15:33:14.946531Z"
 lastmod: "2026-07-18T17:15:08.828714Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Metody adaptujące lub ulepszające modele bez przeprowadzania aktualizacji parametrów opartych na gradientach."
 ---
-
 ## Definition
 
 Podejścia beztreningsowe odnoszą się do technik modyfikujących zachowanie modelu lub jego wyniki bez aktualizacji podstawowych wag poprzez propagację wsteczną. Metody te często wykorzystują inżynierię podpowiedzi, cechy...

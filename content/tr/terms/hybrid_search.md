@@ -1,23 +1,24 @@
 ---
-title: "Hibrit Arama"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Hibrit Arama
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /tr/terms/hybrid_search/
-date: "2026-07-18T15:57:09.744131Z"
-lastmod: "2026-07-18T16:38:07.318192Z"
+slug: hybrid_search
+date: '2026-07-18T15:57:09.744131Z'
+lastmod: '2026-07-18T16:38:07.318192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Doğruluk ve alakayı artırmak amacıyla semantik vektör aramasını geleneksel anahtar kelime tabanlı indeksleme ile birleştiren bir veri çekme stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Doğruluk ve alakayı artırmak amacıyla semantik vektör aramasını geleneksel
+  anahtar kelime tabanlı indeksleme ile birleştiren bir veri çekme stratejisi.
 ---
-
 ## Definition
 
 Hibrit Arama, iki farklı veri çekme yöntemini entegre eder: anlamı ve bağlamı yakalayan yoğun vektör araması ile tam terimleri eşleştiren seyrek vektör (anahtar kelime) araması. Bu yaklaşım,

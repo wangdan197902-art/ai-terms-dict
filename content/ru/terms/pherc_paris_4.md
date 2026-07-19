@@ -1,23 +1,25 @@
 ---
-title: "PHerc. Paris. 4"
-term_id: "pherc_paris_4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "digital_humanities", "archaeology"]
+title: PHerc. Paris. 4
+term_id: pherc_paris_4
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Digital Humanities
+- archaeology
 difficulty: 5
 weight: 1
-slug: "pherc_paris_4"
-aliases:
-  - /ru/terms/pherc_paris_4/
-date: "2026-07-18T16:09:15.768548Z"
-lastmod: "2026-07-18T16:38:07.189417Z"
+slug: pherc_paris_4
+date: '2026-07-18T16:09:15.768548Z'
+lastmod: '2026-07-18T16:38:07.189417Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "PHerc. Paris. 4 обозначает конкретный фрагмент папируса из Геркуланума, хранящийся в парижской библиотеке, часто упоминаемый в проектах цифровой гуманитаристики и реконструкции древних текстов."
+source: agnes_llm
+status: published
+language: ru
+description: PHerc. Paris. 4 обозначает конкретный фрагмент папируса из Геркуланума,
+  хранящийся в парижской библиотеке, часто упоминаемый в проектах цифровой гуманитаристики
+  и реконструкции древних текстов.
 ---
-
 ## Definition
 
 PHerc. Paris. 4 — это обозначение фрагмента углеродизированного папирусного свитка, обнаруженного в Вилле Папирусов в Геркулануме и в настоящее время хранящегося в Национальной библиотеке Франции. Эти свитки, сожженные при извержении Везувия, содержат философские труды, в частности произведения Филодема, и активно изучаются с помощью современных технологий, таких как мультиспектральная съемка и ИИ.

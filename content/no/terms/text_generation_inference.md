@@ -1,23 +1,24 @@
 ---
-title: "Tekstgenereringinferens"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: Tekstgenereringinferens
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /no/terms/text_generation_inference/
-date: "2026-07-18T16:18:37.729012Z"
-lastmod: "2026-07-18T16:38:07.053066Z"
+slug: text_generation_inference
+date: '2026-07-18T16:18:37.729012Z'
+lastmod: '2026-07-18T16:38:07.053066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En ytelsesoptimalisert tjenestemotor spesifikt tilpasset for distribusjon av store språkmodeller for effektiv tekstgenerering i stor skala."
+source: agnes_llm
+status: published
+language: 'no'
+description: En ytelsesoptimalisert tjenestemotor spesifikt tilpasset for distribusjon
+  av store språkmodeller for effektiv tekstgenerering i stor skala.
 ---
-
 ## Definition
 
 Tekstgenereringinferens (TGI) er et dedikert programvarerammeverk designet for å betjene store språkmodeller (LLM) med lav latens og høy gjennomstrømning. Det optimerer prosessen for tekstgenerering ved å bruke avanserte tekniker som kontinuerlig batching og tensorparallelisme for å sikre rask respons.

@@ -1,23 +1,24 @@
 ---
-title: "Gemma"
-term_id: "gemma"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "google", "open-source"]
+title: Gemma
+term_id: gemma
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- google
+- Open Source
 difficulty: 3
 weight: 1
-slug: "gemma"
-aliases:
-  - /tr/terms/gemma/
-date: "2026-07-18T15:54:45.167840Z"
-lastmod: "2026-07-18T16:38:07.312048Z"
+slug: gemma
+date: '2026-07-18T15:54:45.167840Z'
+lastmod: '2026-07-18T16:38:07.312048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Gemma, Google DeepMind tarafından Gemini araştırması ve teknolojisi temel alınarak geliştirilen, hafif ve son teknoloji açık kaynaklı modeller ailesidir."
+source: agnes_llm
+status: published
+language: tr
+description: Gemma, Google DeepMind tarafından Gemini araştırması ve teknolojisi temel
+  alınarak geliştirilen, hafif ve son teknoloji açık kaynaklı modeller ailesidir.
 ---
-
 ## Definition
 
 Gemma modelleri, araştırmacılar ve geliştiriciler için verimli ve erişilebilir olacak şekilde tasarlanmıştır. 2B ve 7B parametreli sürümler de dahil olmak üzere çeşitli boyutlarda sunulurlar ve bu da farklı donanımlarda dağıtım imkanı sağlar.

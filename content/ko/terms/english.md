@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /ko/terms/english/
 date: "2026-07-18T15:24:13.627706Z"
 lastmod: "2026-07-18T16:38:06.772717Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "영어는 많은 자연어 처리(NLP) 모델의 주요 벤치마크 데이터셋과 목표 출력으로 사용되는 자연어입니다."
 ---
-
 ## Definition
 
 주로 인간의 언어이지만, AI 문맥에서 '영어'는 방대한 디지털 텍스트 데이터의 존재로 인해 NLP 연구에서 가장 지배적인 언어 도메인을 대표합니다. 대부분의 파운데이션 모델(예: BERT, GPT 시리즈 등)은 영어 데이터를 기반으로 사전 학습되며, 이는 다른 언어로의 확장이나 다국어 모델 개발의 기준점이 됩니다.

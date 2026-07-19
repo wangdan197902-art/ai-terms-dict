@@ -1,23 +1,24 @@
 ---
-title: "Eşzamanlı MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Eşzamanlı MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /tr/terms/concurrent_metatem/
-date: "2026-07-18T15:45:54.330968Z"
-lastmod: "2026-07-18T16:38:07.285428Z"
+slug: concurrent_metatem
+date: '2026-07-18T15:45:54.330968Z'
+lastmod: '2026-07-18T16:38:07.285428Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Eşzamanlı MetateM, gerçek zamanlı otonom ajanların belirtilmesi ve uygulanması için tasarlanmış tepkisel bir programlama dilidir."
+source: agnes_llm
+status: published
+language: tr
+description: Eşzamanlı MetateM, gerçek zamanlı otonom ajanların belirtilmesi ve uygulanması
+  için tasarlanmış tepkisel bir programlama dilidir.
 ---
-
 ## Definition
 
 Eşzamanlı MetateM, öncelikle robotik ve otonom sistemlerde kullanılan yüksek seviyeli bir belirtim dilidir. Geliştiricilerin, eylemlerin zamanlamasını ve mantığını zaman mantığı kullanarak tanımlamasına olanak tanır.

@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /id/terms/serverless/
 date: "2026-07-18T16:08:37.677433Z"
 lastmod: "2026-07-18T16:38:07.506343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model eksekusi komputasi awan di mana penyedia mengelola alokasi sumber daya mesin secara dinamis alih-alih pengguna."
 ---
-
 ## Definition
 
 Arsitektur Serverless memungkinkan pengembang membangun dan menjalankan aplikasi tanpa mengelola infrastruktur server. Penyedia awan secara otomatis menyesuaikan skala sumber daya naik atau turun berdasarkan permintaan, dan menagih pengguna hanya untuk sumber daya yang benar-benar digunakan.

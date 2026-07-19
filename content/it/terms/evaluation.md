@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /it/terms/evaluation/
 date: "2026-07-18T15:24:35.408241Z"
 lastmod: "2026-07-18T17:15:08.564879Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La valutazione è il processo di assessment delle prestazioni, accuratezza e robustezza di un modello AI rispetto a metriche e dataset predefiniti."
 ---
-
 ## Definition
 
 La valutazione implica la misurazione sistematica di quanto bene un modello AI esegue compiti specifici utilizzando metriche quantitative (es. accuratezza, punteggio F1, BLEU) e valutazioni qualitative. Include la validazione

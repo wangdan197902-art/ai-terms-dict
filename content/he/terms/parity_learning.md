@@ -1,23 +1,24 @@
 ---
-title: "למידת זוגיות (Parity Learning)"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: למידת זוגיות (Parity Learning)
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /he/terms/parity_learning/
-date: "2026-07-18T16:16:19.817166Z"
-lastmod: "2026-07-18T17:15:09.572310Z"
+slug: parity_learning
+date: '2026-07-18T16:16:19.817166Z'
+lastmod: '2026-07-18T17:15:09.572310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "בעיה תיאורטית בלמידת מכונה המתמקדת בחיזוי סכום XOR של קלטים בינאריים, המשמשת לבדיקת יכולת הביטוי של המודל."
+source: agnes_llm
+status: published
+language: he
+description: בעיה תיאורטית בלמידת מכונה המתמקדת בחיזוי סכום XOR של קלטים בינאריים,
+  המשמשת לבדיקת יכולת הביטוי של המודל.
 ---
-
 ## Definition
 
 למידת זוגיות היא בעיית ביקורת בתיאוריית למידת מכונה, שבה המטרה היא לחזות את הזוגיות (סכום XOR) של קבוצת משתני קלט בינאריים. הבעיה ידועה כקשה מאוד עבור רשתות נוירונים סטנדרטיות (Feedforward) הדורשות יכולת למידה של תלויות לטווח ארוך.

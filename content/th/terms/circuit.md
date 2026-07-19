@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /th/terms/circuit/
 date: "2026-07-18T15:45:22.471846Z"
 lastmod: "2026-07-18T16:38:07.583535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "วงจรหมายถึงโครงสร้างพื้นฐานของฮาร์ดแวร์ทางกายภาพ รวมถึงชิปและสายเชื่อมต่อ ที่ใช้ดำเนินการคำนวณต่างๆ"
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ วงจรมักหมายถึงสถาปัตยกรรมฮาร์ดแวร์พื้นฐาน เช่น GPU, TPU หรือชิปประสาทเทียม (neuromorphic chips) ซึ่งออกแบบมาเพื่อเร่งความเร็วในการดำเนินการเมทริกซ์และการประมวลผลแบบขนาน อุปกรณ์เหล่านี้

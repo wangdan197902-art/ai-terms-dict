@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /de/terms/pattern_theory/
 date: "2026-07-18T11:26:50.347409Z"
 lastmod: "2026-07-18T11:44:44.974135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein mathematischer Rahmen zur Beschreibung komplexer Strukturen durch die Analyse von Mustern in Datenräumen."
 ---
-
 ## Definition
 
 Die Mustertheorie bietet eine rigorose mathematische Grundlage zum Verständnis, wie komplexe Objekte und Phänomene durch Muster beschrieben werden können. Sie geht davon aus, dass jedes Objekt durch seine 

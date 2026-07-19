@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /tr/terms/ai_anthropomorphism/
 date: "2026-07-18T15:38:32.755760Z"
 lastmod: "2026-07-18T16:38:07.267012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsanların yapay zeka sistemlerine insan benzeri özellikler, duygular veya niyetler atfetme eğilimi."
 ---
-
 ## Definition
 
 Yapay zeka antropomorfizmi, kullanıcıların sohbet botları veya robotlar gibi insansı olmayan varlıklara insan özelliklerini yansıtması psikolojik fenomenine atıfta bulunur. Bu durum, yapay zeka sistemleriyle ilgili gerçekçi olmayan beklentilere yol açabilir.

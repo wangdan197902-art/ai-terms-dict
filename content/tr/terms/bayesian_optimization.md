@@ -1,23 +1,24 @@
 ---
-title: "Bayesçi Optimizasyon"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesçi Optimizasyon
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /tr/terms/bayesian_optimization/
-date: "2026-07-18T15:43:27.254178Z"
-lastmod: "2026-07-18T16:38:07.278424Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:43:27.254178Z'
+lastmod: '2026-07-18T16:38:07.278424Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Değerlendirmesi maliyetli olan kara kutu fonksiyonların küresel optimizasyonu için ardışık bir tasarım stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Değerlendirmesi maliyetli olan kara kutu fonksiyonların küresel optimizasyonu
+  için ardışık bir tasarım stratejisi.
 ---
-
 ## Definition
 
 Bayesçi optimizasyon, amaç fonksiyonunu modellemek için genellikle bir Gaus Süreci olan olasılıksal bir yedek model kullanır. Keşif ve sömürü arasındaki dengeyi sağlamak için bir edinim fonksiyonu (acquisition function) kullanır, böylece az sayıda değerlendirme ile optimumu bulmayı hedefler.

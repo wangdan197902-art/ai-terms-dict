@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /pl/terms/online/
 date: "2026-07-18T15:28:04.415318Z"
 lastmod: "2026-07-18T17:15:08.817083Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do modeli uczenia maszynowego, które uczą się ciągle z nowych strumieni danych w czasie rzeczywistym bez konieczności ponownego trenowania od podstaw."
 ---
-
 ## Definition
 
 Uczenie online to paradygmat uczenia maszynowego, w którym model jest aktualizowany inkrementalnie w miarę napływu nowych punktów danych, a nie szkolony na statycznej partii danych naraz. Podejście to jest kluczowe dla aplikacji wymagających szybkiej adaptacji do zmieniających się wzorców danych.

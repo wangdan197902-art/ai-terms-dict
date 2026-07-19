@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Open Source"]
 difficulty: 2
 weight: 1
 slug: "llama_2"
-aliases:
-  - /he/terms/llama_2/
 date: "2026-07-18T16:10:26.309105Z"
 lastmod: "2026-07-18T17:15:09.559100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "Llama 2 היא משפחה של מודלי שפה גדולים (LLMs) שפורסמה על ידי Meta ביולי 2023, המאופיינת בארכיטקטורות מותאמות ובחלונות הקשר גדולים יותר בהשוואה לדור הקודם."
 ---
-
 ## Definition
 
 שוחררה על ידי Meta AI ביולי 2023, Llama 2 מייצגת התפתחות משמעותית במודלי שפה גדולים בעלי משקל פתוח. היא מציעה גרסאות מאומנות מראש ומדויקות עדין (fine-tuned) הנעות בין 7 מיליארד ל-70 מיליארד פרמטרים.

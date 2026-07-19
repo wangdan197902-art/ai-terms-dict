@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /ja/terms/scientific/
 date: "2026-07-18T10:54:45.449943Z"
 lastmod: "2026-07-18T11:44:45.018667Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIにおける科学的とは、研究において厳密な実証的方法、仮説検証、再現性を適用することを指します。"
 ---
-
 ## Definition
 
 人工知能における科学的アプローチは、証拠に基づく開発と検証を強調します。これには、モデルの挙動に関する仮説の設定、制御された実験の実施、および

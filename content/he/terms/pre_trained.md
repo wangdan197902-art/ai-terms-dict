@@ -1,23 +1,24 @@
 ---
-title: "מוכן מראש"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: מוכן מראש
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /he/terms/pre_trained/
-date: "2026-07-18T15:34:42.006590Z"
-lastmod: "2026-07-18T17:15:09.494817Z"
+slug: pre_trained
+date: '2026-07-18T15:34:42.006590Z'
+lastmod: '2026-07-18T17:15:09.494817Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מודלים מוכנים מראש הם רשתות עצביות שאומנו על ערכות נתונים גדולות כדי ללמוד תכונות כלליות לפני ההתאמה שלהן למשימות ספציפיות."
+source: agnes_llm
+status: published
+language: he
+description: מודלים מוכנים מראש הם רשתות עצביות שאומנו על ערכות נתונים גדולות כדי
+  ללמוד תכונות כלליות לפני ההתאמה שלהן למשימות ספציפיות.
 ---
-
 ## Definition
 
 מודל מוכן מראש הוא מודל בסיס בינה מלאכותית שעבר אימון נרחב על ערכות נתונים עצומות ומגוונות, כגון ויקיפדיה או ImageNet. אימון ראשוני זה מאפשר למודל ללמוד ייצוגים כלליים של השפה או התמונות, ובכך לספק נקודת התחלה חזקה שניתן להתאים בעלות נמוכה יותר ליעדים ייעודיים.

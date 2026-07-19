@@ -1,23 +1,24 @@
 ---
-title: "Kavram Kayması"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Kavram Kayması
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /tr/terms/concept_drift/
-date: "2026-07-18T15:45:54.330958Z"
-lastmod: "2026-07-18T16:38:07.285231Z"
+slug: concept_drift
+date: '2026-07-18T15:45:54.330958Z'
+lastmod: '2026-07-18T16:38:07.285231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kavram kayması, hedef değişkenin istatistiksel özelliklerinin zamanla değişmesi ve bu durumun model performansını düşürmesi olayıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Kavram kayması, hedef değişkenin istatistiksel özelliklerinin zamanla
+  değişmesi ve bu durumun model performansını düşürmesi olayıdır.
 ---
-
 ## Definition
 
 Kavram kayması, yeni veriler geldikçe girdi özellikleri ile hedef çıktı arasındaki ilişkinin değiştiği makine öğrenimi fenomenidir. Bu durum, kullanıcı davranışlarının veya çevresel koşulların dinamik olduğu ortamlarda sıkça görülür.

@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /hu/terms/tokenization/
 date: "2026-07-18T15:33:22.470479Z"
 lastmod: "2026-07-18T17:15:09.732147Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A tokenizálás az a folyamat, amely során a nyers szöveget kisebb, tokeneknek nevezett egységekre bontják, amelyeket a gépi tanulási algoritmusok feldolgozhatnak."
 ---
-
 ## Definition
 
 A tokenizálás kritikus előfeldolgozási lépés a Természetes Nyelvfeldolgozásban (NLP), amely a strukturálatlan szöveget strukturált adattá alakítja a modellek számára. Ez magában foglalja a mondatok, szavak vagy akár karakterek felbontását olyan egységekre, amelyeket a modell vektorizálni és értelmezni tud.

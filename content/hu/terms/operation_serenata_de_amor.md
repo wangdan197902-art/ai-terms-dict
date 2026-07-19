@@ -1,23 +1,24 @@
 ---
-title: "Operation Serenata de Amor"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Operation Serenata de Amor
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /hu/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:16:44.626915Z"
-lastmod: "2026-07-18T17:15:09.819531Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:16:44.626915Z'
+lastmod: '2026-07-18T17:15:09.819531Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy állampolgári technológiai kezdeményezés, amely gépi tanulást használ a brazil állami kiadások csalárdosságának észlelésére."
+source: agnes_llm
+status: published
+language: hu
+description: Egy állampolgári technológiai kezdeményezés, amely gépi tanulást használ
+  a brazil állami kiadások csalárdosságának észlelésére.
 ---
-
 ## Definition
 
 Az Operation Serenata de Amor egy úttörő, nyílt forráskódú projekt, amely mesterséges intelligenciát alkalmaz a brazil állami beszerzési adatok elemzésére. A természetes nyelvfeldolgozás és az anomáliák felfedezésének kihasználásával...

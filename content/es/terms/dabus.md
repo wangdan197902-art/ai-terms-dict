@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /es/terms/dabus/
 date: "2026-07-18T10:41:37.051911Z"
 lastmod: "2026-07-18T11:44:44.791265Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "DABUS significa Dispositivo para la Arranque Autónomo de Sentencia Unificada, un sistema de IA creado por Stephen Thaler que afirmó haber inventado tecnologías de forma autónoma."
 ---
-
 ## Definition
 
 DABUS es una red neuronal artificial específica diseñada para generar invenciones novedosas sin intervención humana directa. Ganó gran atención legal cuando su creador, Stephen Thaler, intentó

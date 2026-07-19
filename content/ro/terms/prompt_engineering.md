@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /ro/terms/prompt_engineering/
 date: "2026-07-18T15:22:28.007467Z"
 lastmod: "2026-07-18T17:15:09.586510Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Practica de proiectare și optimizare a textelor de intrare pentru a ghida modelele lingvistice mari către ieșiri dorite."
 ---
-
 ## Definition
 
 Ingineria prompturilor implică elaborarea unor intrări specifice, cunoscute sub numele de prompturi, pentru a obține răspunsuri precise, relevante și de înaltă calitate de la modelele de IA generativă. Aceasta necesită o înțelegere profundă a modului în care modelele interpretează instrucțiunile și contextul pentru a genera rezultate optime.

@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /pt/terms/latency/
 date: "2026-07-18T14:44:35.658823Z"
 lastmod: "2026-07-18T15:51:59.451346Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O atraso de tempo entre o início de uma solicitação e o início da resposta em um sistema de IA."
 ---
-
 ## Definition
 
 A latência mede a capacidade de resposta de um serviço de IA, geralmente expressa em milissegundos. Ela inclui o tempo de inferência, atrasos de transmissão de rede e sobrecarga de processamento. Baixa latência é crítica para aplicações em tempo real, onde atrasos perceptíveis podem degradar a experiência do usuário ou comprometer a segurança.

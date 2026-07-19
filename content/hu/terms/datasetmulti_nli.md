@@ -1,23 +1,26 @@
 ---
-title: "Adatbázis: Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: 'Adatbázis: Multi Nli'
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /hu/terms/datasetmulti_nli/
-date: "2026-07-18T15:55:03.106333Z"
-lastmod: "2026-07-18T17:15:09.770549Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:55:03.106333Z'
+lastmod: '2026-07-18T17:15:09.770549Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Több műfajú természetes nyelvű következtetési korpusz, egy nagy adatbázis, amely millióknyi ember által írt angol mondatot tartalmaz arany standard emberi annotációkkal a szöveges implikáció meghatáro"
+source: agnes_llm
+status: published
+language: hu
+description: Több műfajú természetes nyelvű következtetési korpusz, egy nagy adatbázis,
+  amely millióknyi ember által írt angol mondatot tartalmaz arany standard emberi
+  annotációkkal a szöveges implikáció meghatáro
 ---
-
 ## Definition
 
 A MultiNLI egy tömeges gyűjtésen alapuló korpusz, amely elérhető a GLUE benchmarkon keresztül, és amelyet arra terveztek, hogy kiértékelje a természetes nyelvű következtetést (NLI) beszélt és írott szövegek különböző műfajaiban. Premissza-hipotézis párokat biztosít.

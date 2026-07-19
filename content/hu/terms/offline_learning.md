@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /hu/terms/offline_learning/
 date: "2026-07-18T16:16:03.814448Z"
 lastmod: "2026-07-18T17:15:09.819149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az offline tanulás egy olyan képzési paradigm, ahol a modelleket statikus adathalmazokon tanítják meg, anélkül, hogy a tanulás során interakcióba lépnének a élő környezettel."
 ---
-
 ## Definition
 
 Ismert még kötegelt tanulás (batch learning) néven is. Az offline tanulás során a gépi tanulási modelleket egy előre gyűjtött, fix adathalmazon képezzük ki. Az online tanulással ellentétben a modell paraméterei nem frissülnek valós időben a környezettől származó új adatok alapján, hanem a képzési ciklus lezárultával kerülnek alkalmazásra.

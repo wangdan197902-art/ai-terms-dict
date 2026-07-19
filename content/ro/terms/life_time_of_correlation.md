@@ -1,23 +1,25 @@
 ---
-title: "Durata de viață a corelației"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Durata de viață a corelației
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /ro/terms/life_time_of_correlation/
-date: "2026-07-18T16:08:34.181739Z"
-lastmod: "2026-07-18T17:15:09.674901Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:08:34.181739Z'
+lastmod: '2026-07-18T17:15:09.674901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metrică care estimează cât timp rămâne stabilă o relație statistică între variabile înainte de a se degrada din cauza deriva conceptuale sau a schimbărilor de mediu."
+source: agnes_llm
+status: published
+language: ro
+description: O metrică care estimează cât timp rămâne stabilă o relație statistică
+  între variabile înainte de a se degrada din cauza deriva conceptuale sau a schimbărilor
+  de mediu.
 ---
-
 ## Definition
 
 În sistemele dinamice și analiza seriilor de timp, durata de viață a corelației măsoară durata peste care două variabile mențin o dependență statistică semnificativă. Acest concept este crucial pentru înțelegerea stabilității modelelor predictive în medii care se schimbă rapid.

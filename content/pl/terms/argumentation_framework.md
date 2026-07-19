@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /pl/terms/argumentation_framework/
 date: "2026-07-18T15:39:59.593003Z"
 lastmod: "2026-07-18T17:15:08.845118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Formalna struktura służąca do modelowania i rozwiązywania konfliktów między konkurencyjnymi twierdzeniami lub decyzjami w systemach AI."
 ---
-
 ## Definition
 
 Ramy argumentacyjne dostarczają matematycznej podstawy do reprezentowania argumentów, ataków i obron między nimi. W inżynierii AI pomagają systemom podejmować przejrzyste i uzasadnione decyzje poprzez ważenie różnych perspektyw.

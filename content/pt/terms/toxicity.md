@@ -1,23 +1,24 @@
 ---
-title: "Toxicidade"
-term_id: "toxicity"
-category: "ethics_safety"
-subcategory: ""
-tags: ["safety", "ethics", "nlp"]
+title: Toxicidade
+term_id: toxicity
+category: ethics_safety
+subcategory: ''
+tags:
+- safety
+- ethics
+- NLP
 difficulty: 2
 weight: 1
-slug: "toxicity"
-aliases:
-  - /pt/terms/toxicity/
-date: "2026-07-18T15:25:22.036267Z"
-lastmod: "2026-07-18T15:51:59.539657Z"
+slug: toxicity
+date: '2026-07-18T15:25:22.036267Z'
+lastmod: '2026-07-18T15:51:59.539657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A presença de conteúdo prejudicial, ofensivo ou abusivo em textos gerados por IA, incluindo discurso de ódio, assédio e ameaças."
+source: agnes_llm
+status: published
+language: pt
+description: A presença de conteúdo prejudicial, ofensivo ou abusivo em textos gerados
+  por IA, incluindo discurso de ódio, assédio e ameaças.
 ---
-
 ## Definition
 
 A toxicidade na IA refere-se à geração ou propagação de conteúdo que é desrespeitoso, que provavelmente faria alguém abandonar uma discussão ou que se concentra em uma identidade específica. Abrange um espectro desde mi

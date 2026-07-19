@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /hu/terms/knowledge_based_configuration/
 date: "2026-07-18T16:08:23.965089Z"
 lastmod: "2026-07-18T17:15:09.800161Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy automatizált folyamat, amely szakmai tudásbázist használ érvényes termék-konfigurációk generálásához a felhasználói korlátok alapján."
 ---
-
 ## Definition
 
 Ez a megközelítés kielégítési technikákat alkalmaz egy tudásbázison belül annak biztosítására, hogy az összeszerelt termékek megfeleljenek minden műszaki és ügyféligénynek. Megakadályozza az érvénytelen kombinációkat a szabályok kódolásával.

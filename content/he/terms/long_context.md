@@ -1,23 +1,24 @@
 ---
-title: "הקשר ארוך"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: הקשר ארוך
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /he/terms/long_context/
-date: "2026-07-18T16:10:43.542101Z"
-lastmod: "2026-07-18T17:15:09.559946Z"
+slug: long_context
+date: '2026-07-18T16:10:43.542101Z'
+lastmod: '2026-07-18T17:15:09.559946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "היכולת של מודל שפה לעבד ולשמור מידע מרצפי קלט הכוללים אלפים או מיליוני טוקנים."
+source: agnes_llm
+status: published
+language: he
+description: היכולת של מודל שפה לעבד ולשמור מידע מרצפי קלט הכוללים אלפים או מיליוני
+  טוקנים.
 ---
-
 ## Definition
 
 הקשר ארוך מתייחס ליכולתם של מודלים מבוססי מתמרים (Transformers) להתמודד עם אורכי קלט נרחבים, לעיתים חורגים ממגבלות סטנדרטיות כמו 2K או 4K טוקנים. יכולת זו מאפשרת למודלים לנתח מסמכים שלמים, קוד מקור מורחב או שיחות ארוכות ברציפות, תוך שמירה על הקשר ומשמעות לאורך כל הרצף, מה שמשפר משמעותית את הביצועים במשימות הדורשות הבנה עמוקה וארוכת טווח.

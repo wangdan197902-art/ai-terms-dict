@@ -1,23 +1,23 @@
 ---
-title: "בדיקה"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: בדיקה
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /he/terms/test/
-date: "2026-07-18T15:31:03.998177Z"
-lastmod: "2026-07-18T17:15:09.488935Z"
+slug: test
+date: '2026-07-18T15:31:03.998177Z'
+lastmod: '2026-07-18T17:15:09.488935Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "בדיקה מתייחסת לשלב ההערכה שבו מודל בינה מלאכותית מאומן נבחן על נתונים שלא נראו בעבר כדי למדוד את ביצועיו."
+source: agnes_llm
+status: published
+language: he
+description: בדיקה מתייחסת לשלב ההערכה שבו מודל בינה מלאכותית מאומן נבחן על נתונים
+  שלא נראו בעבר כדי למדוד את ביצועיו.
 ---
-
 ## Definition
 
 קבוצת הבדיקה היא חלק מהנתונים שהושארו בצד במהלך תהליך האימון כדי להעריך את יכולת הכללה של המודל הסופי. בניגוד לקבוצות אימות המשמשות לכוונון היפר-פרמטרים, קבוצת הבדיקה מספקת הערכה אובייקטיבית...

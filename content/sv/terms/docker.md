@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /sv/terms/docker/
 date: "2026-07-18T15:38:00.472188Z"
 lastmod: "2026-07-18T17:15:08.961801Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Docker är en plattform för att utveckla, leverera och köra applikationer i lätta, portabla containrar."
 ---
-
 ## Definition
 
 Docker gör det möjligt för utvecklare att paketera en applikation med alla dess beroenden i en standardiserad enhet för mjukvaruutveckling. Dessa containrar isolerar programvaran från dess miljö, vilket säkerställer konsekvens

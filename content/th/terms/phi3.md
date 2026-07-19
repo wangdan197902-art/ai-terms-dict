@@ -1,23 +1,23 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /th/terms/phi3/
-date: "2026-07-18T16:11:02.648553Z"
-lastmod: "2026-07-18T16:38:07.642309Z"
+slug: phi3
+date: '2026-07-18T16:11:02.648553Z'
+lastmod: '2026-07-18T16:38:07.642309Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ตระกูลโมเดลภาษาขนาดใหญ่แบบเปิดที่พัฒนาโดย Microsoft Research"
+source: agnes_llm
+status: published
+language: th
+description: ตระกูลโมเดลภาษาขนาดใหญ่แบบเปิดที่พัฒนาโดย Microsoft Research
 ---
-
 ## Definition
 
 Phi-3 เป็นซีรีส์ของโมเดลภาษาขนาดเล็ก (SLMs) ที่ปล่อยโดย Microsoft ออกแบบมาเพื่อมอบประสิทธิภาพสูงเทียบเท่ากับโมเดลขนาดใหญ่ ในขณะที่ต้องการทรัพยากรการคำนวณน้อยกว่าอย่างมีนัยสำคัญ

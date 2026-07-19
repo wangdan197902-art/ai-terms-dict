@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /ko/terms/elmo/
 date: "2026-07-18T15:53:50.594643Z"
 lastmod: "2026-07-18T16:38:06.834870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "양방향 LSTM을 사용하여 심층 문맥 기반 단어 표현을 생성하는 임베딩 방법."
 ---
-
 ## Definition
 
 ELMo는 대규모 코퍼스에서 훈련된 양방향 LSTM을 통해 입력 텍스트를 처리하여 문맥 민감한 단어 임베딩을 생성합니다. Word2Vec과 같은 정적 임베딩과 달리, ELMo는 단어가 사용되는 문맥에 따라 다른 표현을 생성함으로써 다의성(polysemy) 문제를 해결합니다.

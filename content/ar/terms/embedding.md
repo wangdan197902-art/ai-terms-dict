@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /ar/terms/embedding/
 date: "2026-07-18T15:22:59.170176Z"
 lastmod: "2026-07-18T17:15:08.432674Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية تقوم بربط الكائنات المنفصلة مثل الكلمات أو الصور في فضاءات متجهية مستمرة."
 ---
-
 ## Definition
 
 التضمينات هي تمثيلات متجهة كثيفة للبيانات حيث تُحفظ العلاقات الدلالية في الفضاء الهندسي. من خلال تحويل المدخلات الفئوية أو عالية الأبعاد إلى متجهات ذات طول ثابت، تتيح النماذج فهم السياق والمعنى بشكل أفضل.

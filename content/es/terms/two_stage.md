@@ -1,23 +1,23 @@
 ---
-title: "dos etapas"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: dos etapas
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /es/terms/two_stage/
-date: "2026-07-18T10:29:19.783027Z"
-lastmod: "2026-07-18T11:44:44.759518Z"
+slug: two_stage
+date: '2026-07-18T10:29:19.783027Z'
+lastmod: '2026-07-18T11:44:44.759518Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una arquitectura de canalización donde el procesamiento ocurre en fases distintas y secuenciales."
+source: agnes_llm
+status: published
+language: es
+description: Una arquitectura de canalización donde el procesamiento ocurre en fases
+  distintas y secuenciales.
 ---
-
 ## Definition
 
 Las arquitecturas de dos etapas dividen una tarea compleja en dos pasos separados, típicamente involucrando detección seguida de clasificación o refinamiento. En visión por computadora, ejemplos incluyen detectores de objetos como...

@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /it/terms/math/
 date: "2026-07-18T16:10:18.835243Z"
 lastmod: "2026-07-18T17:15:08.647666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La disciplina fondamentale che coinvolge numeri, strutture, spazio e cambiamento, essenziale per formulare e risolvere problemi di intelligenza artificiale."
 ---
-
 ## Definition
 
 Nel contesto dell'intelligenza artificiale, la matematica fornisce il quadro teorico per la progettazione e l'analisi degli algoritmi. I rami chiave includono l'algebra lineare per la rappresentazione dei dati, il calcolo per l'o

@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /en/terms/multi_step/
 date: "2026-07-18T09:39:01.031352Z"
 lastmod: "2026-07-18T11:44:44.617598Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A problem-solving strategy that requires performing a sequence of logical operations or calculations to reach a final solution."
 ---
-
 ## Definition
 
 Multi-step methods involve breaking down a complex query or task into smaller, executable steps. This approach is critical in reasoning tasks, such as mathematical problem solving or code generation, where intermediate conclusions are necessary to derive the final answer. It often relies on chain-of-thought prompting or explicit algorithmic sequencing to ensure accuracy and traceability.

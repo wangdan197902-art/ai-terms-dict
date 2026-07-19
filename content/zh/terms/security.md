@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /zh/terms/security/
 date: "2026-07-18T10:54:51.109406Z"
 lastmod: "2026-07-18T11:44:45.384542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "保护人工智能系统免受未经授权的访问、滥用和恶意攻击的实践。"
 ---
-
 ## Definition
 
 AI安全性包括旨在保护机器学习模型、数据管道和部署基础设施免受对抗性攻击、数据投毒和模型逆向工程等威胁的措施。

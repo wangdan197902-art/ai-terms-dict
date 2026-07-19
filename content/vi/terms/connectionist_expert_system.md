@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /vi/terms/connectionist_expert_system/
 date: "2026-07-18T15:45:55.032835Z"
 lastmod: "2026-07-18T16:38:07.739284Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống thông minh kết hợp khả năng học của mạng nơ-ron với các cấu trúc suy luận biểu tượng."
 ---
-
 ## Definition
 
 Hệ chuyên gia liên kết tích hợp điểm mạnh về nhận dạng mẫu và học hỏi của mạng nơ-ron (chủ nghĩa liên kết) với khả năng biểu diễn tri thức rõ ràng và suy luận logic truyền thống của các hệ thống biểu tượng.

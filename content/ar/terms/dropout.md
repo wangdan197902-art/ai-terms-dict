@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /ar/terms/dropout/
 date: "2026-07-18T15:36:46.347153Z"
 lastmod: "2026-07-18T17:15:08.460576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الإسقاط هو تقنية تنظيم عشوائية تتجاهل عشوائياً بعض الخلايا العصبية أثناء التدريب لمنع الإفراط في التخصيص."
 ---
-
 ## Definition
 
 في الشبكات العصبية، يمنع الإسقاط الإفراط في التخصيص عن طريق إزالة مجموعة عشوائية مؤقتة من الخلايا العصبية خلال كل خطوة تدريب. هذا يجبر الشبكة على تعلم ميزات قوية تكون مفيدة في سياقات متنوعة.

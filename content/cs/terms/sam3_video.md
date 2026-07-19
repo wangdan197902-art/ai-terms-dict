@@ -1,23 +1,25 @@
 ---
-title: "Sam3 Video"
-term_id: "sam3_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video_processing", "segmentation", "computer_vision"]
+title: Sam3 Video
+term_id: sam3_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Processing
+- segmentation
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "sam3_video"
-aliases:
-  - /cs/terms/sam3_video/
-date: "2026-07-18T16:16:30.292793Z"
-lastmod: "2026-07-18T17:15:09.198630Z"
+slug: sam3_video
+date: '2026-07-18T16:16:30.292793Z'
+lastmod: '2026-07-18T17:15:09.198630Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Tento termín pravděpodobně označuje schopnosti segmentace videí spojené s generací třetí nebo specifickou variantou Segment Anything Model aplikovanou na video proudy."
+source: agnes_llm
+status: published
+language: cs
+description: Tento termín pravděpodobně označuje schopnosti segmentace videí spojené
+  s generací třetí nebo specifickou variantou Segment Anything Model aplikovanou na
+  video proudy.
 ---
-
 ## Definition
 
 Sam3 Video se týká aplikace pokročilých modelů segmentace, potenciálně hypotetické nebo specifické verze Segment Anything Model od společnosti Meta, na video data. Zahrnuje sledování objektů přes...

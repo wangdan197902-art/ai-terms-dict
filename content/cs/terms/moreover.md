@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /cs/terms/moreover/
 date: "2026-07-18T15:27:14.907993Z"
 lastmod: "2026-07-18T17:15:09.073243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Přídavné příslovce sloužící k zavedení dalších informací nebo posílení předchozího argumentu."
 ---
-
 ## Definition
 
 V kontextu dokumentace AI a technického psaní slouží výraz 'Navíc' jako diskurzivní značka, která signalizuje přidání podpůrných důkazů nebo dalšího bodu, který posiluje aktuální diskusi.

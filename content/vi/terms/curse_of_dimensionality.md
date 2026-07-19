@@ -1,23 +1,24 @@
 ---
-title: "Lời nguyền chiều cao"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Lời nguyền chiều cao
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /vi/terms/curse_of_dimensionality/
-date: "2026-07-18T15:46:37.085893Z"
-lastmod: "2026-07-18T16:38:07.741410Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:46:37.085893Z'
+lastmod: '2026-07-18T16:38:07.741410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Hiện tượng mà thể tích của không gian tăng theo cấp số nhân theo số chiều, khiến dữ liệu trở nên thưa thớt và các chỉ số khoảng cách mất đi hiệu quả."
+source: agnes_llm
+status: published
+language: vi
+description: Hiện tượng mà thể tích của không gian tăng theo cấp số nhân theo số chiều,
+  khiến dữ liệu trở nên thưa thớt và các chỉ số khoảng cách mất đi hiệu quả.
 ---
-
 ## Definition
 
 Lời nguyền chiều cao đề cập đến các hiện tượng phát sinh khi phân tích dữ liệu trong các không gian nhiều chiều mà không xảy ra trong các thiết lập ít chiều hơn. Khi số lượng đặc trưng tăng lên, dữ liệu trở nên cực kỳ thưa thớt, làm cho việc học máy trở nên khó khăn hơn và các phép đo khoảng cách truyền thống trở nên kém ý nghĩa.

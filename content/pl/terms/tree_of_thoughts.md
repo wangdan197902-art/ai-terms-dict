@@ -7,8 +7,6 @@ tags: ["reasoning", "prompting", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "tree_of_thoughts"
-aliases:
-  - /pl/terms/tree_of_thoughts/
 date: "2026-07-18T16:21:22.060394Z"
 lastmod: "2026-07-18T17:15:08.926001Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Drzewo Myśli to ramy rozumowania, które badają wiele możliwych ścieżek logicznych jednocześnie, oceniając je w celu wybrania najbardziej obiecującego kolejnego kroku."
 ---
-
 ## Definition
 
 Drzewo Myśli (ToT) rozszerza tradycyjne podejście Chain-of-Thought, pozwalając modelowi na eksplorację wielu odrębnych ścieżek rozumowania na każdym kroku, tworząc strukturę drzewa. Model ocenia stan każdej gałęzi, aby wybrać najlepszą strategię.

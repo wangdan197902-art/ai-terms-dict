@@ -1,23 +1,24 @@
 ---
-title: "Konvolutionalt Neuralt Netværk"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Konvolutionalt Neuralt Netværk
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /da/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:45.366210Z"
-lastmod: "2026-07-18T17:15:09.217918Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:45.366210Z'
+lastmod: '2026-07-18T17:15:09.217918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En specialiseret klasse af dybe neurale netværk, der primært bruges til at behandle gitterlignende data, såsom billeder, ved at anvende konvolutionale filtre."
+source: agnes_llm
+status: published
+language: da
+description: En specialiseret klasse af dybe neurale netværk, der primært bruges til
+  at behandle gitterlignende data, såsom billeder, ved at anvende konvolutionale filtre.
 ---
-
 ## Definition
 
 Konvolutionale neurale netværk (CNN'er) er designet til automatisk og adaptivt at lære rumlige hierarkier af træk fra visuelle input. De bruger konvolutionale lag, der anvender filtre til at detektere specifikke mønstre som kanter, teksturer og former.

@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /zh/terms/bayesian/
 date: "2026-07-18T10:49:18.636603Z"
 lastmod: "2026-07-18T11:44:45.362819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指基于贝叶斯定理的统计方法，用于根据新证据更新概率。"
 ---
-
 ## Definition
 
 AI中的贝叶斯方法利用概率论，随着更多证据的出现来更新假设的可能性。这种方法允许模型量化不确定性并动态优化预测结果。

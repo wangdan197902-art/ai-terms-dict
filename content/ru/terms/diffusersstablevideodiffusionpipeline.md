@@ -1,23 +1,25 @@
 ---
-title: "Диффузоры: конвейер Stable Video Diffusion"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Диффузоры: конвейер Stable Video Diffusion'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /ru/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:50:42.738583Z"
-lastmod: "2026-07-18T16:38:07.150366Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:50:42.738583Z'
+lastmod: '2026-07-18T16:38:07.150366Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Обертка конвейера Hugging Face Diffusers, использующая модель Stable Video Diffusion для генерации видео из статических изображений."
+source: agnes_llm
+status: published
+language: ru
+description: Обертка конвейера Hugging Face Diffusers, использующая модель Stable
+  Video Diffusion для генерации видео из статических изображений.
 ---
-
 ## Definition
 
 Этот термин относится к конкретной реализации в библиотеке Hugging Face Diffusers, предназначенной для генерации видео. Она интегрирует модель Stable Video Diffusion (SVD), которая является диффузионной моделью в латентном пространстве для видео.

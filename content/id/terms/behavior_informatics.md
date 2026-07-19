@@ -1,23 +1,24 @@
 ---
-title: "Informatika Perilaku"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Informatika Perilaku
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /id/terms/behavior_informatics/
-date: "2026-07-18T15:40:52.136957Z"
-lastmod: "2026-07-18T16:38:07.433357Z"
+slug: behavior_informatics
+date: '2026-07-18T15:40:52.136957Z'
+lastmod: '2026-07-18T16:38:07.433357Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Bidang interdisipliner yang mempelajari perilaku manusia melalui pengumpulan dan analisis data digital."
+source: agnes_llm
+status: published
+language: id
+description: Bidang interdisipliner yang mempelajari perilaku manusia melalui pengumpulan
+  dan analisis data digital.
 ---
-
 ## Definition
 
 Informatika perilaku menggabungkan ilmu komputer, psikologi, dan statistik untuk menganalisis data perilaku skala besar yang dihasilkan oleh interaksi digital. Fokusnya adalah pada ekstraksi pola, prediksi masa depan, dan pemahaman mendalam tentang dinamika perilaku manusia.

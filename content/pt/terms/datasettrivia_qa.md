@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /pt/terms/datasettrivia_qa/
 date: "2026-07-18T14:56:21.545563Z"
 lastmod: "2026-07-18T15:51:59.480852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados em larga escala para resposta a perguntas de domínio aberto, contendo milhões de perguntas e respostas em vários domínios de curiosidades."
 ---
-
 ## Definition
 
 O TriviaQA é um conjunto de dados projetado para resposta a perguntas de domínio aberto, apresentando mais de um milhão de perguntas e suas respectivas respostas. Foi criado para desafiar modelos existentes, exigindo que eles integrem conhecimento de múltiplas fontes.

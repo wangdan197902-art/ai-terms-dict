@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /tr/terms/ai_security_institute/
 date: "2026-07-18T15:38:17.176030Z"
 lastmod: "2026-07-18T16:38:07.266351Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerini güvence altına almak için en iyi uygulamaları araştıran, geliştiren ve teşvik eden kuruluş."
 ---
-
 ## Definition
 
 Bir Yapay Zeka Güvenlik Enstitüsü, yapay zeka teknolojileriyle ilişkili riskleri azaltmaya odaklanan uzmanlaşmış bir varlıktır. Bu enstitüler düşmanca saldırılar, veri gizliliği ve model bütünlüğü üzerine araştırmalar yürüterek sektör standartlarını belirlemeye çalışır.

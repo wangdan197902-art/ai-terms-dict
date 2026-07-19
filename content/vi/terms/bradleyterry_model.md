@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /vi/terms/bradleyterry_model/
 date: "2026-07-18T15:43:26.452557Z"
 lastmod: "2026-07-18T16:38:07.734416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình thống kê được sử dụng để phân tích dữ liệu so sánh từng cặp, ước tính xác suất một mục được ưa chuộng hơn mục khác."
 ---
-
 ## Definition
 
 Mô hình Bradley-Terry là một mô hình xác suất được sử dụng rộng rãi trong tâm lý đo lường và học máy để xử lý các phép so sánh từng cặp. Nó gán một điểm số tiềm ẩn cho mỗi mục, tính toán xác suất

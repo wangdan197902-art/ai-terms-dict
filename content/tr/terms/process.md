@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /tr/terms/process/
 date: "2026-07-18T15:28:12.292662Z"
 lastmod: "2026-07-18T16:38:07.240868Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirli bir hesaplama hedefine veya sonuca ulaşmak için atılan yapılandırılmış eylemler veya adımlar dizisi."
 ---
-
 ## Definition
 
 Yapay zeka geliştirmesi içinde süreç, ham veriyi eyleme geçirilebilir içgörülere veya modellere dönüştürmek için gereken sistematik iş akışını belirtir. Bu, veri alma, ön işleme, özellik 

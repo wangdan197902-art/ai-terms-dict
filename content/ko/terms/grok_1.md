@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /ko/terms/grok_1/
 date: "2026-07-18T15:58:08.183738Z"
 lastmod: "2026-07-18T16:38:06.847974Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "xAI가 출시한 첫 번째 그로크 언어 모델로, 전문가 혼합(Mixture-of-Experts) 아키텍처와 330억 개의 파라미터를 특징으로 합니다."
 ---
-
 ## Definition
 
 그로크-1(Grok-1)은 2023년 11월에 출시된 xAI의 첫 번째 출시물입니다. 약 330억 개의 파라미터를 가진 디코더 전용(decoder-only) 트랜스포머 기반 대형 언어 모델입니다. 특히, 이 모델은 전문가 혼합(Mixture-of-Experts) 아키텍처를 활용하여 효율적인 추론과 생성 능력을 갖추고 있습니다.

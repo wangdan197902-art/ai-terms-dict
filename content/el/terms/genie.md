@@ -1,23 +1,25 @@
 ---
-title: "Genie"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: Genie
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /el/terms/genie/
-date: "2026-07-18T16:09:19.130502Z"
-lastmod: "2026-07-18T17:15:09.912619Z"
+slug: genie
+date: '2026-07-18T16:09:19.130502Z'
+lastmod: '2026-07-18T17:15:09.912619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια συγκεκριμένη κατηγορία μοντέλων δημιουργίας βίντεο, ιδιαίτερα το Genie της Google, το οποίο προβλέπει τα μελλοντικά καρέ βίντεο με βάση κειμενικά ή οπτικά εισόδους."
+source: agnes_llm
+status: published
+language: el
+description: Μια συγκεκριμένη κατηγορία μοντέλων δημιουργίας βίντεο, ιδιαίτερα το
+  Genie της Google, το οποίο προβλέπει τα μελλοντικά καρέ βίντεο με βάση κειμενικά
+  ή οπτικά εισόδους.
 ---
-
 ## Definition
 
 Το Genie αναφέρεται σε μια οικογένεια γενετικών μοντέλων σχεδιασμένων ειδικά για τη σύνθεση βίντεο. Αναπτύχθηκαν από ερευνητές, συμπεριλαμβανομένων εκείνων στο Google DeepMind, και αυτοί οι μοντέλοι στοχεύουν στη δημιουργία συνεκτικών ακολουθιών...

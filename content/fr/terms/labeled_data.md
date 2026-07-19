@@ -1,23 +1,24 @@
 ---
-title: "Données étiquetées"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Données étiquetées
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /fr/terms/labeled_data/
-date: "2026-07-18T11:25:14.947305Z"
-lastmod: "2026-07-18T11:44:45.282791Z"
+slug: labeled_data
+date: '2026-07-18T11:25:14.947305Z'
+lastmod: '2026-07-18T11:44:45.282791Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Données pour lesquelles la sortie correcte ou la valeur cible est fournie avec les caractéristiques d'entrée."
+source: agnes_llm
+status: published
+language: fr
+description: Données pour lesquelles la sortie correcte ou la valeur cible est fournie
+  avec les caractéristiques d'entrée.
 ---
-
 ## Definition
 
 Les données étiquetées consistent en des échantillons d'entrée associés à des étiquettes de vérité terrain correspondantes, servant de fondement à l'apprentissage supervisé. Elles permettent aux algorithmes d'apprendre la mappage entre l'entrée et la sortie.

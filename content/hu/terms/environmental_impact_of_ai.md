@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /hu/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:58:51.579576Z"
 lastmod: "2026-07-18T17:15:09.781333Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI-modellek fejlesztésével, betanításával és üzembe helyezésével járó ökológiai következmények, beleértve az energiafogyasztást és a szén-dioxid-kibocsátást."
 ---
-
 ## Definition
 
 Ez a kifejezés az MI-technológiákkal járó jelentős erőforrás-igényre utal, különösen a nagy modellek betanítási szakaszában. Magában foglalja az adatközpontok áramfogyasztását, a...

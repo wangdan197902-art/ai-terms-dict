@@ -1,23 +1,24 @@
 ---
-title: "Batch-normalisering"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Batch-normalisering
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /da/terms/batch_normalization/
-date: "2026-07-18T15:43:24.023912Z"
-lastmod: "2026-07-18T17:15:09.263873Z"
+slug: batch_normalization
+date: '2026-07-18T15:43:24.023912Z'
+lastmod: '2026-07-18T17:15:09.263873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Batch-normalisering er en teknik, der normaliserer laginput over en mini-batch for at stabilisere og accelerere træningen af neurale netværk."
+source: agnes_llm
+status: published
+language: da
+description: Batch-normalisering er en teknik, der normaliserer laginput over en mini-batch
+  for at stabilisere og accelerere træningen af neurale netværk.
 ---
-
 ## Definition
 
 Denne metode justerer og skalerer aktiveringerne for at have nul middelværdi og varians lig med 1 inden for hver mini-batch under træning. Den reducerer intern kovariansforskydning, hvilket muliggør højere læringshastigheder og hurtigere convergence.

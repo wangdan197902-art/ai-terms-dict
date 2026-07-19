@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /nl/terms/neural_scaling_law/
 date: "2026-07-18T16:10:13.023853Z"
 lastmod: "2026-07-18T17:15:08.772141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Empirische relaties die prestatieverbeteringen van modellen voorspellen op basis van toenames in gegevens, parameters of rekenkracht."
 ---
-
 ## Definition
 
 Neurale schalingswetten beschrijven de voorspelbare machtsrelatie tussen de prestaties van een model en zijn schaal, inclusief de grootte van de dataset, het aantal parameters en de rekenbudgetten. Deze wetten suggereren dat...

@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /id/terms/ai_anthropomorphism/
 date: "2026-07-18T15:37:10.784947Z"
 lastmod: "2026-07-18T16:38:07.422720Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Cenderung manusia untuk memberikan karakteristik, emosi, atau niat seperti manusia kepada sistem AI."
 ---
-
 ## Definition
 
 Antropomorfisme AI merujuk pada fenomena psikologis di mana pengguna memproyeksikan sifat-sifat manusia ke pada entitas non-manusia, seperti chatbot atau robot. Hal ini dapat menyebabkan ekspektasi yang tidak realistis mengenai kemampuan dan kesadaran sistem tersebut.

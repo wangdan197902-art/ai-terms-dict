@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /cs/terms/low_cost/
 date: "2026-07-18T15:32:24.402113Z"
 lastmod: "2026-07-18T17:15:09.084230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Označuje řešení AI, která minimalizují výpočetní, finanční nebo energetické náklady při zachování funkčnosti."
 ---
-
 ## Definition
 
 AI s nízkými náklady se zaměřuje na efektivitu, snaží se snížit bariéry vstupu a provozní výdaje spojené s strojovým učením. To zahrnuje techniky jako kompresi modelů, kvantizaci a...

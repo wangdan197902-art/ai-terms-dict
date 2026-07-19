@@ -1,23 +1,25 @@
 ---
-title: "Alıntı"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: Alıntı
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /tr/terms/citation/
-date: "2026-07-18T15:45:01.348759Z"
-lastmod: "2026-07-18T16:38:07.282210Z"
+slug: citation
+date: '2026-07-18T15:45:01.348759Z'
+lastmod: '2026-07-18T16:38:07.282210Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zekada alıntı, şeffaflığı sağlamak ve fikri mülkiyet uyumluluğunu güvence altına almak amacıyla oluşturulan metin veya modellerde kullanılan kaynak materyal veya verinin atıfta bulunulması uygul"
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zekada alıntı, şeffaflığı sağlamak ve fikri mülkiyet uyumluluğunu
+  güvence altına almak amacıyla oluşturulan metin veya modellerde kullanılan kaynak
+  materyal veya verinin atıfta bulunulması uygul
 ---
-
 ## Definition
 
 Jeneratif yapay zeka modelleri içerik ürettikçe, akademik dürüstlüğü ve yasal uyumluluğu korumak için alıntı mekanizmalarına olan ihtiyaç ortaya çıkmıştır. Bu, orijinal kaynaklara yapılan referansların

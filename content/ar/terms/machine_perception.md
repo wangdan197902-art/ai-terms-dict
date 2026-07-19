@@ -1,23 +1,24 @@
 ---
-title: "الإدراك الآلي"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: الإدراك الآلي
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /ar/terms/machine_perception/
-date: "2026-07-18T16:12:08.455312Z"
-lastmod: "2026-07-18T17:15:08.525618Z"
+slug: machine_perception
+date: '2026-07-18T16:12:08.455312Z'
+lastmod: '2026-07-18T17:15:08.525618Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير الإدراك الآلي إلى قدرة أنظمة الذكاء الاصطناعي على تفسير وفهم البيانات الحسية القادمة من البيئة، مثل الصور أو الصوت أو قراءات المستشعرات."
+source: agnes_llm
+status: published
+language: ar
+description: يشير الإدراك الآلي إلى قدرة أنظمة الذكاء الاصطناعي على تفسير وفهم البيانات
+  الحسية القادمة من البيئة، مثل الصور أو الصوت أو قراءات المستشعرات.
 ---
-
 ## Definition
 
 إنه الجسر الذي يربط بين المدخلات الحسية الخام والفهم الدلالي الهادف، محاكياً الحواس البشرية مثل البصر والسمع. تشمل التقنيات الرئيسية الرؤية الحاسوبية للتعرف على الأشياء، والتعرف على الكلام...

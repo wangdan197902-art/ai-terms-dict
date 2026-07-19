@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /nl/terms/pythia/
-date: "2026-07-18T16:13:46.608031Z"
-lastmod: "2026-07-18T17:15:08.780077Z"
+slug: pythia
+date: '2026-07-18T16:13:46.608031Z'
+lastmod: '2026-07-18T17:15:08.780077Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Pythia is een suite van decoder-only grote taalmodellen (LLM's) ontwikkeld door EleutherAI, variërend van 70 miljoen tot 12 miljard parameters."
+source: agnes_llm
+status: published
+language: nl
+description: Pythia is een suite van decoder-only grote taalmodellen (LLM's) ontwikkeld
+  door EleutherAI, variërend van 70 miljoen tot 12 miljard parameters.
 ---
-
 ## Definition
 
 Pythia is een serie open-source grote taalmodellen (LLM's) gemaakt door EleutherAI, ontworpen om onderzoek naar de interpreteerbaarheid en het gedrag van neurale netwerken te faciliteren. De suite bevat mo

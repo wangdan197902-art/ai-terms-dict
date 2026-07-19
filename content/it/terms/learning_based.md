@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /it/terms/learning_based/
 date: "2026-07-18T15:32:16.923481Z"
 lastmod: "2026-07-18T17:15:08.580139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Indica metodi in cui gli algoritmi migliorano le prestazioni attraverso l'esperienza piuttosto che regole di programmazione esplicite."
 ---
-
 ## Definition
 
 Gli approcci basati sull'apprendimento si affidano ad algoritmi statistici per identificare pattern e prendere decisioni in base all'esposizione ai dati, in contrasto con i sistemi basati su regole. Questa categoria comprende l'apprendi...

@@ -1,23 +1,24 @@
 ---
-title: "Image To Video"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Image To Video
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /th/terms/image_to_video/
-date: "2026-07-18T15:59:50.596893Z"
-lastmod: "2026-07-18T16:38:07.617692Z"
+slug: image_to_video
+date: '2026-07-18T15:59:50.596893Z'
+lastmod: '2026-07-18T16:38:07.617692Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการกำเนิดที่นำภาพนิ่งมาทำให้เคลื่อนไหวเพื่อสร้างคลิปวิดีโอสั้น เพิ่มพลวัตของเวลาและการเคลื่อนที่"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการกำเนิดที่นำภาพนิ่งมาทำให้เคลื่อนไหวเพื่อสร้างคลิปวิดีโอสั้น
+  เพิ่มพลวัตของเวลาและการเคลื่อนที่
 ---
-
 ## Definition
 
 เทคโนโลยี Image To Video นำเฟรมนิ่งเพียงเฟรมเดียวแล้วทำนายเฟรมถัดไปเพื่อสร้างลำดับวิดีโอที่สอดคล้องกัน สิ่งนี้เกี่ยวข้องกับการสร้างแบบจำลองความสอดคล้องของเวลาและพลวัตทางกายภาพเพื่อให้แน่ใจว่าผลลัพธ์ดูสมจริง

@@ -1,23 +1,24 @@
 ---
-title: "Sprog-handlingsperspektiv"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Sprog-handlingsperspektiv
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /da/terms/languageaction_perspective/
-date: "2026-07-18T16:04:07.970154Z"
-lastmod: "2026-07-18T17:15:09.303751Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:04:07.970154Z'
+lastmod: '2026-07-18T17:15:09.303751Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et teoretisk rammeværk, der betragter sprog primært som en form for social handling snarere end blot et system til at beskrive virkeligheden."
+source: agnes_llm
+status: published
+language: da
+description: Et teoretisk rammeværk, der betragter sprog primært som en form for social
+  handling snarere end blot et system til at beskrive virkeligheden.
 ---
-
 ## Definition
 
 Forankret i talehandelteori og pragmatik understreger dette perspektiv, hvordan ytringer udfører funktioner såsom at anmode, love eller beordre. Inden for naturlig sprogbehandling (NLP) informerer det designet af systemer, der forstår intentioner.

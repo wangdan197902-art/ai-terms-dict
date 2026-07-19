@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /vi/terms/business_process_automation/
 date: "2026-07-18T15:43:26.452579Z"
 lastmod: "2026-07-18T16:38:07.734663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng công nghệ để thực hiện các nhiệm vụ hoặc quy trình lặp đi lặp lại trong kinh doanh nơi nỗ lực thủ công có thể được thay thế."
 ---
-
 ## Definition
 
 Tự động hóa Quy trình Kinh doanh (BPA) liên quan đến việc tận dụng phần mềm và AI để tinh gọn các quy trình kinh doanh phức tạp. Không giống như RPA (Tự động hóa quy trình bằng robot) đơn giản xử lý các nhiệm vụ dựa trên quy tắc, BPA thường

@@ -7,8 +7,6 @@ tags: ["audio", "speech", "emotion", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "vibevoice"
-aliases:
-  - /id/terms/vibevoice/
 date: "2026-07-18T16:12:47.315671Z"
 lastmod: "2026-07-18T16:38:07.517692Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Vibevoice merujuk pada gaya sintesis ucapan berbasis AI yang mengutamakan pengiriman vokal yang alami, emosional, dan sadar konteks daripada presisi robotik yang kaku."
 ---
-
 ## Definition
 
 Vibevoice adalah pendekatan konseptual atau bermerek untuk teknologi Text-to-Speech (TTS) yang menekankan pada pengambilan 'suasana' atau nuansa emosional dari ucapan manusia. Tidak seperti TTS tradisional yang mungkin terdengar monoton

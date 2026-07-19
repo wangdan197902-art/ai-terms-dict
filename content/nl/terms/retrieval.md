@@ -1,23 +1,24 @@
 ---
-title: "Ophalen"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Ophalen
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /nl/terms/retrieval/
-date: "2026-07-18T15:38:49.072727Z"
-lastmod: "2026-07-18T17:15:08.708714Z"
+slug: retrieval
+date: '2026-07-18T15:38:49.072727Z'
+lastmod: '2026-07-18T17:15:08.708714Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het ophalen van relevante gegevens uit een database of kennisbank om de modelinvoer aan te vullen."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het ophalen van relevante gegevens uit een database of
+  kennisbank om de modelinvoer aan te vullen.
 ---
-
 ## Definition
 
 Ophalen verwijst naar het technische proces van het zoeken en extraheren van specifieke informatie uit grote datasets of externe kennisbanken op basis van gebruikersvragen of context. In moderne AI-systemen wordt dit vaak gebruikt om...

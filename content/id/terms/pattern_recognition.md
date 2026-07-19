@@ -1,23 +1,24 @@
 ---
-title: "Pengenalan Pola"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Pengenalan Pola
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /id/terms/pattern_recognition/
-date: "2026-07-18T16:03:28.394571Z"
-lastmod: "2026-07-18T16:38:07.492591Z"
+slug: pattern_recognition
+date: '2026-07-18T16:03:28.394571Z'
+lastmod: '2026-07-18T16:38:07.492591Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Identifikasi otomatis terhadap keteraturan dan struktur dalam data menggunakan metode statistik dan pembelajaran mesin."
+source: agnes_llm
+status: published
+language: id
+description: Identifikasi otomatis terhadap keteraturan dan struktur dalam data menggunakan
+  metode statistik dan pembelajaran mesin.
 ---
-
 ## Definition
 
 Pengenalan Pola adalah cabang kecerdasan buatan dan statistika yang berkaitan dengan identifikasi keteraturan dalam data. Proses ini melibatkan klasifikasi data masukan ke dalam kategori yang telah ditentukan berdasarkan fitur-fitur yang diekstraksi, memungkinkan sistem untuk mengenali objek atau kejadian.

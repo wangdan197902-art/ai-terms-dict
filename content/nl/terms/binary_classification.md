@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /nl/terms/binary_classification/
 date: "2026-07-18T15:45:19.453246Z"
 lastmod: "2026-07-18T17:15:08.722881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een taak binnen supervised learning waarbij het doel is om voor elk invoervoorwerp één van twee mogelijke klassen te voorspellen."
 ---
-
 ## Definition
 
 Binair classificeren is een fundamenteel machine learning-probleem waarbij de uitvoervariabele categorisch is met precies twee mogelijke uitkomsten, zoals waar/onwaar of spam/niet spam. Algoritmen zoals logistische regressie worden hier vaak voor gebruikt.

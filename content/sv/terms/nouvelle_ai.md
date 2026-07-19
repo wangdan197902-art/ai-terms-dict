@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /sv/terms/nouvelle_ai/
 date: "2026-07-18T16:12:00.750163Z"
 lastmod: "2026-07-18T17:15:09.032225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En symbolisk AI-metod som betonar hierarkiska och modulära resonemangsstrukturer inspirerade av den mänskliga kognitiva arkitekturen."
 ---
-
 ## Definition
 
 Nouvelle AI syftar på en klass av artificiella intelligenssystem som använder symboliska representationer kombinerat med hierarkisk bearbetning. Till skillnad från förbindelsebaserade modeller (connectionist models) fokuserar den på strukturerad resonemangsförmåga.

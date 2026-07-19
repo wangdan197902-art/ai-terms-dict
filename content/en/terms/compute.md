@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /en/terms/compute/
 date: "2026-07-18T09:51:20.779159Z"
 lastmod: "2026-07-18T11:44:44.654223Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Compute refers to the processing power and resources used to execute algorithms and handle data in AI systems."
 ---
-
 ## Definition
 
 In artificial intelligence, compute represents the fundamental infrastructure required to train models and run inference. It encompasses hardware components like CPUs, GPUs, and TPUs, as well as the associated memory and storage. High-performance computing is critical for deep learning tasks, which involve massive matrix multiplications and optimization steps. The scale of compute directly impacts the speed of training and the complexity of models that can be effectively utilized, forming the backbone of modern AI development and deployment.

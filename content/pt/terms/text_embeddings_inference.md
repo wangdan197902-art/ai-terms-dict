@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /pt/terms/text_embeddings_inference/
 date: "2026-07-18T15:24:27.412382Z"
 lastmod: "2026-07-18T15:51:59.537915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um servidor de inferência especializado projetado para gerar eficientemente representações vetoriais densas de texto para tarefas de busca e recuperação semântica."
 ---
-
 ## Definition
 
 A Inferência de Incorporações de Texto refere-se à implantação e otimização de modelos que convertem linguagem natural em vetores de alta dimensão. Essas incorporações capturam o significado semântico, permitindo que sistemas realizem buscas precisas e comparações de similaridade.

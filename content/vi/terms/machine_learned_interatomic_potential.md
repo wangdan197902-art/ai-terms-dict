@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /vi/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:02:07.367653Z"
 lastmod: "2026-07-18T16:38:07.779980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hàm toán học dựa trên ML dự đoán lực và năng lượng giữa các nguyên tử, đóng vai trò thay thế cho các tính toán cơ học lượng tử tốn kém."
 ---
-
 ## Definition
 
 Các thế năng này cho phép mô phỏng động lực học phân tử với độ chính xác gần bằng cơ học lượng tử nhưng với tốc độ tính toán cổ điển. Bằng cách huấn luyện trên dữ liệu độ trung thực cao từ lý thuyết phiếm hàm mật độ (DFT), chúng cho phép...

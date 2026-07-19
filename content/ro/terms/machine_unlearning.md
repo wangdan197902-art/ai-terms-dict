@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /ro/terms/machine_unlearning/
 date: "2026-07-18T16:10:49.739762Z"
 lastmod: "2026-07-18T17:15:09.678619Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Deînvățarea mașină este procesul de eliminare a anumitor puncte de date sau a influenței acestora dintr-un model antrenat, fără a fi nevoie să îl antrenezi din nou de la zero."
 ---
-
 ## Definition
 
 Această tehnică abordează reglementările privind confidențialitatea, precum dreptul la uitare din GDPR, permițând modelelor să uite date specifice ale utilizatorilor, păstrând totodată cunoștințele generale. Scopul este de a aproxima performanța unui model...

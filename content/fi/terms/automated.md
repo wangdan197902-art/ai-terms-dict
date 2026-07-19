@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /fi/terms/automated/
 date: "2026-07-18T15:23:20.624051Z"
 lastmod: "2026-07-18T17:15:09.346074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa prosesseihin, joita koneet tai ohjelmisto suorittavat vähäisellä ihmisen väliintulolla."
 ---
-
 ## Definition
 
 Tekoälyn automaatio tarkoittaa algoritmien ja järjestelmien käyttöä tehtävien suorittamiseen, jotka perinteisesti vaativat ihmisen työtä. Se keskittyy tehokkuuteen, johdonmukaisuuteen ja nopeuteen suorittamalla ennalta määriteltyjä sääntöjä tai oppimalla.

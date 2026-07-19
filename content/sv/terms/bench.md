@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /sv/terms/bench/
 date: "2026-07-18T15:23:26.882077Z"
 lastmod: "2026-07-18T17:15:08.937816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Förkortning för benchmark, en standardiserad testuppsättning eller mätvärde som används för att utvärdera AI-modellers prestanda."
 ---
-
 ## Definition
 
 En benchmark fungerar som en standardiserad referenspunkt för att jämföra olika AI-modellers eller algoritmers förmågor. Den involverar vanligtvis en kuraterad datamängd och specifika utvärderingsmetriker såsom noggrannhet eller hastighet.

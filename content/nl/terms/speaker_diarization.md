@@ -1,23 +1,23 @@
 ---
-title: "Sprekerdiarisatie"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Sprekerdiarisatie
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /nl/terms/speaker_diarization/
-date: "2026-07-18T16:18:06.216293Z"
-lastmod: "2026-07-18T17:15:08.789568Z"
+slug: speaker_diarization
+date: '2026-07-18T16:18:06.216293Z'
+lastmod: '2026-07-18T17:15:08.789568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het vaststellen van 'wie wanneer sprak' in een audio-opname."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het vaststellen van 'wie wanneer sprak' in een audio-opname.
 ---
-
 ## Definition
 
 Sprekerdiarisatie is de taak om een audiostream op te delen in homogene segmenten op basis van de identiteit van de spreker. Het combineert detectie van spreekwissels met sprekerclustering om labels toe te kennen aan wie wat heeft gezegd.

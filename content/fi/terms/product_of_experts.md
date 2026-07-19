@@ -1,23 +1,24 @@
 ---
-title: "Asiantuntijoiden tulo"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Asiantuntijoiden tulo
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /fi/terms/product_of_experts/
-date: "2026-07-18T16:16:45.750640Z"
-lastmod: "2026-07-18T17:15:09.446133Z"
+slug: product_of_experts
+date: '2026-07-18T16:16:45.750640Z'
+lastmod: '2026-07-18T17:15:09.446133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Todennäköisyysmallinnuksen kehys, jossa yhteisjakauma muodostetaan kertomalla useiden riippumattomien asiantuntijamallien tuloksia."
+source: agnes_llm
+status: published
+language: fi
+description: Todennäköisyysmallinnuksen kehys, jossa yhteisjakauma muodostetaan kertomalla
+  useiden riippumattomien asiantuntijamallien tuloksia.
 ---
-
 ## Definition
 
 Asiantuntijoiden tulo (PoE) on menetelmä monimutkaisten todennäköisyysjakaumien rakentamiseksi yhdistämällä yksinkertaisempia jakaumia. Toisin kuin 'Asiantuntijasekoitus', joka keskiarvoistaa todennäköisyydet, PoE kertoo asiantuntijamallien tuottamat todennäköisyydet keskenään saadakseen yhteisjakauman.

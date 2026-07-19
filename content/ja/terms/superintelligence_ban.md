@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /ja/terms/superintelligence_ban/
 date: "2026-07-18T11:33:46.958474Z"
 lastmod: "2026-07-18T11:44:45.148325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間の認知能力を超える人工一般知能（AGI）の開発を禁止することを提唱する、規制措置または倫理的立場の提案。"
 ---
-
 ## Definition
 
 この概念は、人工スーパーインテリジェンス（ASI）に関する研究への制限、あるいは完全な中止をめぐる議論および潜在的な政策を指します。支持者たちは、ASIが人類存続のリスクをもたらすと主張しています。

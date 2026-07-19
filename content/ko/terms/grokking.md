@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /ko/terms/grokking/
 date: "2026-07-18T15:58:08.183769Z"
 lastmod: "2026-07-18T16:38:06.848106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "신경망이 작은 데이터셋에 장기간 훈련하여 암기 지점을 훨씬 넘은 시점에서도 갑자기 일반화 성능이 급격히 향상되는 현상입니다."
 ---
-
 ## Definition
 
 그로킹(Grokking)은 딥러닝에서 관찰되는 직관에 반하는 행동으로, 모델이 오랫동안 훈련 데이터에 과적합(overfitting)되어 일반화 성능이 낮게 유지되다가, 특정 시점이 지나자 갑자기 테스트 데이터에 대한 일반화 성능이 급격히 향상되는 현상을 의미합니다.

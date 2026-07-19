@@ -1,23 +1,25 @@
 ---
-title: "Генерация текста"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: Генерация текста
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /ru/terms/text_generation/
-date: "2026-07-18T16:18:19.277064Z"
-lastmod: "2026-07-18T16:38:07.208326Z"
+slug: text_generation
+date: '2026-07-18T16:18:19.277064Z'
+lastmod: '2026-07-18T16:38:07.208326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Возможность ИИ, при которой модели создают последовательности текста, похожие на человеческие, токен за токеном, на основе предоставленных подсказок или контекста."
+source: agnes_llm
+status: published
+language: ru
+description: Возможность ИИ, при которой модели создают последовательности текста,
+  похожие на человеческие, токен за токеном, на основе предоставленных подсказок или
+  контекста.
 ---
-
 ## Definition
 
 Генерация текста — это фундаментальная парадигма применения в обработке естественного языка, где модели искусственного интеллекта создают новый текстовый контент. Предсказывая наиболее вероятный следующий токен в последовательности...

@@ -1,23 +1,22 @@
 ---
-title: "วันช็อต (One-shot)"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: วันช็อต (One-shot)
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /th/terms/one_shot/
-date: "2026-07-18T15:33:52.352440Z"
-lastmod: "2026-07-18T16:38:07.556075Z"
+slug: one_shot
+date: '2026-07-18T15:33:52.352440Z'
+lastmod: '2026-07-18T16:38:07.556075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "รูปแบบการเรียนรู้ที่โมเดลเรียนรู้ที่จะทำงานใดๆ จากตัวอย่างที่มีป้ายกำกับเพียงตัวอย่างเดียว"
+source: agnes_llm
+status: published
+language: th
+description: รูปแบบการเรียนรู้ที่โมเดลเรียนรู้ที่จะทำงานใดๆ จากตัวอย่างที่มีป้ายกำกับเพียงตัวอย่างเดียว
 ---
-
 ## Definition
 
 การเรียนรู้แบบวันช็อตเป็นประเภทเฉพาะของการเรียนรู้แบบฟิวช็อต (few-shot learning) ซึ่งอัลกอริทึมต้องสามารถสรุปผลไปยังคลาสหรืองานใหม่ๆ ได้หลังจากเห็นตัวอย่างบวกเพียงตัวอย่างเดียวในช่วงการฝึกฝน วิธีการนี้เลียนแบบความสามารถของมนุษย์

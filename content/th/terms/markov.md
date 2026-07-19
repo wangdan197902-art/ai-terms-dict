@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /th/terms/markov/
 date: "2026-07-18T15:26:57.769586Z"
 lastmod: "2026-07-18T16:38:07.542579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Markov หมายถึงกระบวนการสุ่มซึ่งสถานะในอนาคตขึ้นอยู่กับเฉพาะสถานะปัจจุบัน โดยยึดตามคุณสมบัติ Markov ของการไร้ความจำ (memorylessness)"
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์และทฤษฎีความน่าจะเป็น กระบวนการ Markov เป็นแบบจำลองพื้นฐานที่ใช้บรรยายระบบที่เปลี่ยนผ่านระหว่างสถานะแบบสุ่ม หลักการสำคัญคือคุณสมบัติ Markov ซึ่งระบุว่าสถานะถัดไปขึ้นอยู่กับเฉพาะสถานะปัจจุบันเท่านั้น

@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /it/terms/cognitive_computing/
 date: "2026-07-18T15:51:47.064299Z"
 lastmod: "2026-07-18T17:15:08.607032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il calcolo cognitivo si riferisce a sistemi che simulano i processi di pensiero umani in un modello informatico, utilizzando l'intelligenza artificiale per imitare le funzioni del cervello umano."
 ---
-
 ## Definition
 
 Il calcolo cognitivo è un ramo dell'intelligenza artificiale che mira a interagire con gli esseri umani in modo naturale, simulando al contempo i processi cerebrali umani. Questi sistemi impiegano apprendimento automatico, apprendimento profondo e altre tecniche per elaborare informazioni complesse.

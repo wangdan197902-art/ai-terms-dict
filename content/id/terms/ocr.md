@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /id/terms/ocr/
 date: "2026-07-18T16:02:46.155347Z"
 lastmod: "2026-07-18T16:38:07.489364Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "OCR adalah teknologi yang mengubah berbagai jenis dokumen, seperti dokumen kertas yang dipindai atau gambar, menjadi data yang dapat diedit dan dicari."
 ---
-
 ## Definition
 
 Pengenalan Karakter Optik (OCR) menggunakan algoritma pemrosesan gambar dan pengenalan pola untuk mengidentifikasi teks dalam gambar digital. Ini mengubah karakter cetak atau tulisan tangan menjadi mesin-encode

@@ -1,23 +1,25 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /el/terms/facebook/
-date: "2026-07-18T16:06:59.647636Z"
-lastmod: "2026-07-18T17:15:09.907405Z"
+slug: facebook
+date: '2026-07-18T16:06:59.647636Z'
+lastmod: '2026-07-18T17:15:09.907405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια κύρια πλατφόρμα κοινωνικής δικτύωσης και εταιρεία τεχνολογίας που επηρεάζει σημαντικά την ανάπτυξη της Τεχνητής Νοημοσύνης μέσω της έρευνας ανοιχτού κώδικα και των οικοσυστημάτων δεδομένων μεγάλης"
+source: agnes_llm
+status: published
+language: el
+description: Μια κύρια πλατφόρμα κοινωνικής δικτύωσης και εταιρεία τεχνολογίας που
+  επηρεάζει σημαντικά την ανάπτυξη της Τεχνητής Νοημοσύνης μέσω της έρευνας ανοιχτού
+  κώδικα και των οικοσυστημάτων δεδομένων μεγάλης
 ---
-
 ## Definition
 
 Το Facebook, πλέον μέρος της Meta Platforms Inc., είναι ένας κορυφαίος παράγοντας στην έρευνα και την εφαρμογή της Τεχνητής Νοημοσύνης. Διαχειρίζεται τεράστιες ποσότητες δεδομένων που δημιουργούνται από τους χρήστες, οι οποίες χρησιμοποιούνται για την εκπαίδευση μοντέλων μηχανικής μάθησης.

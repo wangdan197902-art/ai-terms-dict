@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /vi/terms/graphs/
 date: "2026-07-18T15:25:54.737263Z"
 lastmod: "2026-07-18T16:38:07.686829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Dạng số nhiều ám chỉ nhiều cấu trúc đồ thị hoặc các biểu diễn trực quan của xu hướng dữ liệu trong học máy."
 ---
-
 ## Definition
 
 Trong khi 'đồ thị' số ít đề cập đến cấu trúc dữ liệu trừu tượng, 'đồ thị' số nhiều thường chỉ nhiều thể hiện đồ thị riêng biệt hoặc các biểu đồ trực quan được sử dụng trong giám sát ML. Trong trực quan hóa, đồ thị đường hoặc bi

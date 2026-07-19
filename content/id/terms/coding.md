@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /id/terms/coding/
 date: "2026-07-18T15:42:21.892618Z"
 lastmod: "2026-07-18T16:38:07.437256Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pemrograman adalah proses menulis instruksi untuk komputer menggunakan bahasa pemrograman guna menciptakan perangkat lunak, aplikasi, atau skrip."
 ---
-
 ## Definition
 
 Pemrograman, juga dikenal sebagai coding, melibatkan penerjemahan logika dan persyaratan manusia ke dalam format yang dapat dieksekusi oleh komputer. Proses ini menggunakan sintaks dan semantik spesifik yang didefinisikan oleh bahasa pemrograman tertentu.

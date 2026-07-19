@@ -1,23 +1,24 @@
 ---
-title: "Обучение без учителя"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: Обучение без учителя
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /ru/terms/unsupervised_learning/
-date: "2026-07-18T15:37:00.380991Z"
-lastmod: "2026-07-18T16:38:07.111751Z"
+slug: unsupervised_learning
+date: '2026-07-18T15:37:00.380991Z'
+lastmod: '2026-07-18T16:38:07.111751Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника машинного обучения, при которой модели выявляют закономерности в размеченных данных без явного руководства или правильных ответов."
+source: agnes_llm
+status: published
+language: ru
+description: Техника машинного обучения, при которой модели выявляют закономерности
+  в размеченных данных без явного руководства или правильных ответов.
 ---
-
 ## Definition
 
 Обучение без учителя автономно выявляет скрытые структуры, кластеры или распределения в исходных данных. К распространенным методам относятся кластеризация, снижение размерности и генеративное моделирование. Оно используется

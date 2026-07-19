@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /ar/terms/embedding_model/
 date: "2026-07-18T15:36:46.347167Z"
 lastmod: "2026-07-18T17:15:08.460700Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يحول نموذج التضمين البيانات الخام مثل النص أو الصور إلى متجهات عددية كثيفة تمثل المعنى الدلالي."
 ---
-
 ## Definition
 
 تربط هذه النماذج البيانات عالية الأبعاد في فضاء متجهي مستمر منخفض الأبعاد حيث تكون العناصر المتشابهة أقرب إلى بعضها البعض. يلتقط هذا التحول العلاقات الدلالية، مما يسمح بإجراء عمليات بحث دقيقة.

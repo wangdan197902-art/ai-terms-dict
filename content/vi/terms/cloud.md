@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /vi/terms/cloud/
 date: "2026-07-18T15:23:58.453102Z"
 lastmod: "2026-07-18T16:38:07.681522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Đám mây đề cập đến các máy chủ từ xa được lưu trữ trên internet, được sử dụng để lưu trữ, quản lý và xử lý dữ liệu cũng như các mô hình AI thay vì phần cứng cục bộ."
 ---
-
 ## Definition
 
 Điện toán đám mây cung cấp cơ sở hạ tầng có thể mở rộng cho các tác vụ AI, cho phép các nhà phát triển truy cập vào GPU mạnh mẽ và dung lượng lưu trữ mà không cần duy trì các trung tâm dữ liệu vật lý. Nó hỗ trợ nhiều mô hình dịch vụ...

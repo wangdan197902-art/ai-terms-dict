@@ -1,23 +1,24 @@
 ---
-title: "Остаточное соединение"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Остаточное соединение
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /ru/terms/residual_connection/
-date: "2026-07-18T15:36:24.743638Z"
-lastmod: "2026-07-18T16:38:07.109987Z"
+slug: residual_connection
+date: '2026-07-18T15:36:24.743638Z'
+lastmod: '2026-07-18T16:38:07.109987Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Механизм, который напрямую добавляет входные данные к выходу слоя для улучшения потока градиентов в глубоких сетях."
+source: agnes_llm
+status: published
+language: ru
+description: Механизм, который напрямую добавляет входные данные к выходу слоя для
+  улучшения потока градиентов в глубоких сетях.
 ---
-
 ## Definition
 
 Остаточные соединения, также известные как skip-connections (пропускные связи), позволяют градиентам проходить через сеть путем прямого сложения входа с выходом последующего слоя. Эта архитектура решает проблему затухания градиентов, обеспечивая эффективное обучение очень глубоких моделей.

@@ -1,23 +1,24 @@
 ---
-title: "Feature Engineering"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: Feature Engineering
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /da/terms/feature_engineering/
-date: "2026-07-18T15:55:32.924198Z"
-lastmod: "2026-07-18T17:15:09.287967Z"
+slug: feature_engineering
+date: '2026-07-18T15:55:32.924198Z'
+lastmod: '2026-07-18T17:15:09.287967Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Praksis med at bruge domæneviden til at skabe nye features eller modificere eksisterende for at forbedre maskinlæringsmodellernes ydeevne."
+source: agnes_llm
+status: published
+language: da
+description: Praksis med at bruge domæneviden til at skabe nye features eller modificere
+  eksisterende for at forbedre maskinlæringsmodellernes ydeevne.
 ---
-
 ## Definition
 
 Feature engineering er kunsten at udnytte domæneekspertise til at transformere rådata til features, der bedre repræsenterer de underliggende mønstre for maskinlæringsalgoritmer. Denne proces inkluderer oprettelse af nye variabler baseret på faglig indsigt.

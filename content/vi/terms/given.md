@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /vi/terms/given/
 date: "2026-07-18T15:25:54.737225Z"
 lastmod: "2026-07-18T16:38:07.686401Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật ngữ chỉ dữ liệu, ràng buộc hoặc ngữ cảnh đã tồn tại được cung cấp làm đầu vào cho một quy trình thuật toán."
 ---
-
 ## Definition
 
 Trong bối cảnh AI và khoa học máy tính, 'cho trước' đề cập đến trạng thái ban đầu, tập dữ liệu hoặc các tham số được cung cấp cho một mô hình hoặc hàm trước khi quá trình tính toán bắt đầu. Nó thiết lập các điều kiện biên cho

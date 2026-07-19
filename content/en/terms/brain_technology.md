@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /en/terms/brain_technology/
 date: "2026-07-18T09:48:33.356119Z"
 lastmod: "2026-07-18T11:44:44.649362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Technologies designed to interface with, monitor, or modulate the human brain, including BCIs and neuroimaging tools."
 ---
-
 ## Definition
 
 Brain technology encompasses hardware and software systems that interact directly with the central nervous system. Key examples include Brain-Computer Interfaces (BCIs) that translate neural signals into digital commands, and neuroimaging techniques like fMRI or EEG for monitoring brain activity. These technologies aim to restore function in neurological disorders, enhance cognitive capabilities, or enable direct communication between the brain and external devices.

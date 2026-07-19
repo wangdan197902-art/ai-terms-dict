@@ -1,23 +1,24 @@
 ---
-title: "من أي إلى أي"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: من أي إلى أي
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /ar/terms/any_to_any/
-date: "2026-07-18T15:44:21.191971Z"
-lastmod: "2026-07-18T17:15:08.475243Z"
+slug: any_to_any
+date: '2026-07-18T15:44:21.191971Z'
+lastmod: '2026-07-18T17:15:08.475243Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "قدرة للذكاء الاصطناعي التوليدي تسمح للنماذج بتحويل المدخلات من وسيط واحد مباشرة إلى مخرجات في وسيط آخر عشوائي."
+source: agnes_llm
+status: published
+language: ar
+description: قدرة للذكاء الاصطناعي التوليدي تسمح للنماذج بتحويل المدخلات من وسيط واحد
+  مباشرة إلى مخرجات في وسيط آخر عشوائي.
 ---
-
 ## Definition
 
 يشير مفهوم "من أي إلى أي" إلى المعماريات المتعددة الوسائط الموحدة التي يمكنها التعامل مع تركيبات مدخلات ومخرجات متنوعة، مثل النص إلى الصورة، أو الصورة إلى النص، أو الصوت إلى الفيديو. وعلى عكس النماذج المتخصصة، فإن هذه الأنظمة...

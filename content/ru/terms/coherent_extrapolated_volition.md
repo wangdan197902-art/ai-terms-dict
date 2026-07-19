@@ -1,23 +1,25 @@
 ---
-title: "Согласованное экстраполированное волеизъявление"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Согласованное экстраполированное волеизъявление
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /ru/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:45:29.668749Z"
-lastmod: "2026-07-18T16:38:07.131237Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:45:29.668749Z'
+lastmod: '2026-07-18T16:38:07.131237Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Предлагаемая цель для искусственного интеллекта, при которой система действует в соответствии с уточненными желаниями человечества после идеализированного рассуждения."
+source: agnes_llm
+status: published
+language: ru
+description: Предлагаемая цель для искусственного интеллекта, при которой система
+  действует в соответствии с уточненными желаниями человечества после идеализированного
+  рассуждения.
 ---
-
 ## Definition
 
 Согласованное экстраполированное волеизъявление (CEV) — это концепция, введенная Элиезером Юдковским в контексте безопасности и согласования ИИ. Она предполагает, что продвинутый ИИ должен не просто подчиняться текущим командам людей, а стремиться к реализации их истинных, осознанных и рационализированных желаний, которые возникли бы, если бы люди обладали большей информацией, мыслительными способностями и были бы более теми, кем они хотели бы быть.

@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /zh/terms/speaker/
 date: "2026-07-18T11:34:45.355885Z"
 lastmod: "2026-07-18T11:44:45.557654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在音频信号中产生语音或声音的个体。"
 ---
-
 ## Definition
 
 在语音处理中，说话人被定义为录音中distinct的人类声源。识别和区分不同的说话人是分析对话内容、确保信息安全以及提升语音交互体验的基础。

@@ -1,23 +1,24 @@
 ---
-title: "Feature Store"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: Feature Store
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /it/terms/feature_store/
-date: "2026-07-18T15:59:38.684318Z"
-lastmod: "2026-07-18T17:15:08.625925Z"
+slug: feature_store
+date: '2026-07-18T15:59:38.684318Z'
+lastmod: '2026-07-18T17:15:08.625925Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un repository centralizzato progettato per gestire, condividere ed erogare funzionalità in modo coerente tra l'addestramento e l'inferenza nel machine learning."
+source: agnes_llm
+status: published
+language: it
+description: Un repository centralizzato progettato per gestire, condividere ed erogare
+  funzionalità in modo coerente tra l'addestramento e l'inferenza nel machine learning.
 ---
-
 ## Definition
 
 Un Feature Store funge da ponte tra i team di ingegneria dei dati e quelli di machine learning, fornendo una visione unificata delle funzionalità sia per l'addestramento batch che per l'inferenza in tempo reale. Garantisce coerenza prevenendo il skew tra training e serving, offrendo funzionalità di versioning, catalogazione e accesso efficiente ai dati, essenziali per la produzione scalabile di modelli ML.

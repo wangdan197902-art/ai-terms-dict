@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /da/terms/instance/
 date: "2026-07-18T16:01:46.184586Z"
 lastmod: "2026-07-18T17:15:09.299800Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En enkelt dataprøve eller observation, der bruges i maskinlæringsopgaver, typisk repræsenteret som en vektor af funktioner."
 ---
-
 ## Definition
 
 Inom maskinlæring refererer en instans til ét specifikt eksempel fra datasættet. Den består af en række inputfunktioner (attributter) og potentielt en måletikett. Instanser er den grundlæggende enhed.

@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /es/terms/ai_literacy/
 date: "2026-07-18T10:33:27.376901Z"
 lastmod: "2026-07-18T11:44:44.770380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La capacidad de comprender, evaluar e interactuar eficazmente con las tecnologías de inteligencia artificial y sus implicaciones sociales."
 ---
-
 ## Definition
 
 La alfabetización en IA se refiere a las competencias necesarias para navegar en un mundo cada vez más influenciado por la inteligencia artificial. Va más allá de las habilidades técnicas de codificación para incluir la comprensión de cómo funcionan los sistemas de IA, sus limitaciones, sesgos potenciales y su impacto ético y social en la sociedad.

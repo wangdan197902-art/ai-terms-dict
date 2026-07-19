@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /es/terms/isotropic_position/
 date: "2026-07-18T10:55:13.198165Z"
 lastmod: "2026-07-18T11:44:44.821286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una transformación geométrica de un cuerpo convexo donde su matriz de inercia es proporcional a la matriz identidad, simplificando el análisis."
 ---
-
 ## Definition
 
 En geometría convexa y probabilidad de alta dimensión, un conjunto de puntos o un cuerpo convexo está en posición isotrópica si su centro de masa está en el origen y su matriz de covarianza es un múltiplo escalar de la matriz identidad. Esta normalización facilita el estudio de propiedades geométricas y estadísticas en dimensiones elevadas.

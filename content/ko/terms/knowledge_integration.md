@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /ko/terms/knowledge_integration/
 date: "2026-07-18T16:01:07.728892Z"
 lastmod: "2026-07-18T16:38:06.858032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "향상된 추론을 위해 이질적인 지식 소스를 결합하여 통일되고 일관된 표현으로 만드는 과정입니다."
 ---
-
 ## Definition
 
 지식 통합은 데이터베이스, 온톨로지, 비정형 텍스트 등 다양한 출처의 데이터를 하나의 일관된 스키마로 병합하는 작업입니다. 이는 의미적 이질성과 데이터 불일치 문제를 해결하여, 서로 다른 시스템 간 상호 운용성을 확보하고 종합적인 분석을 가능하게 합니다.

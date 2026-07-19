@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /ar/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T15:52:32.454582Z"
 lastmod: "2026-07-18T17:15:08.493325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات ويب ضخمة وعالية الجودة جمعتها معهد الابتكار التقني (TII) للتدريب المسبق لنماذج لغوية كبيرة مثل Falcon."
 ---
-
 ## Definition
 
 تُعد RefinedWeb مجموعة بيانات واسعة النطاق من صفحات الويب المفلترة والمصممة للتدريب المسبق للنماذج الأساسية. تعالج مليارات صفحات الويب لإزالة المحتوى منخفض الجودة، والتكرارات، والمواد الضارة...

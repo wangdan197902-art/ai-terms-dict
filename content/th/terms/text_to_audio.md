@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /th/terms/text_to_audio/
 date: "2026-07-18T16:17:48.765622Z"
 lastmod: "2026-07-18T16:38:07.661458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กระบวนการแปลงข้อความเป็นเสียงพูด ซึ่งครอบคลุมทั้งการสังเคราะห์เสียงพูดและการสร้างเสียงที่ไม่ใช่เสียงพูด"
 ---
-
 ## Definition
 
 ข้อความสู่เสียง (Text To Audio) เป็นศัพท์กว้างที่ครอบคลุมเทคโนโลยีที่แปลงอินพุตข้อความเป็นเอาต์พุตทางหู โดยมักเกี่ยวข้องกับ Text-to-Speech (TTS) สำหรับการสังเคราะห์เสียงมนุษย์ แต่รวมถึงการสร้างเสียงอื่นๆ ด้วย

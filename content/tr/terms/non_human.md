@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /tr/terms/non_human/
 date: "2026-07-18T16:06:30.968928Z"
 lastmod: "2026-07-18T16:38:07.341514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI etiği ve sosyolojisinde 'insan dışı', biyolojik bilinç veya insan kimliğine sahip olmasa da ajans, zeka veya sosyal varlığa sahip yapay varlıkları veya sistemleri ifade eder."
 ---
-
 ## Definition
 
 Bu terim genellikle AI ajanları, robotlar ve sanal asistanların hakları, sorumlulukları ve toplumsal entegrasyonu tartışmalarında kullanılır. Biyolojik insan olmayan varlıklar arasındaki ayrımı vurgular.

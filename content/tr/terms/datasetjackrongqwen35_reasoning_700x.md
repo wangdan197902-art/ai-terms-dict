@@ -1,23 +1,26 @@
 ---
-title: "Veri Seti: Jackrong/Qwen3.5 Reasoning 700X"
-term_id: "datasetjackrongqwen35_reasoning_700x"
-category: "application_paradigms"
-subcategory: ""
-tags: ["reasoning", "fine-tuning", "qwen", "dataset"]
+title: 'Veri Seti: Jackrong/Qwen3.5 Reasoning 700X'
+term_id: datasetjackrongqwen35_reasoning_700x
+category: application_paradigms
+subcategory: ''
+tags:
+- reasoning
+- Fine-Tuning
+- qwen
+- dataset
 difficulty: 4
 weight: 1
-slug: "datasetjackrongqwen35_reasoning_700x"
-aliases:
-  - /tr/terms/datasetjackrongqwen35_reasoning_700x/
-date: "2026-07-18T15:48:11.178924Z"
-lastmod: "2026-07-18T16:38:07.293368Z"
+slug: datasetjackrongqwen35_reasoning_700x
+date: '2026-07-18T15:48:11.178924Z'
+lastmod: '2026-07-18T16:38:07.293368Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Jackrong kullanıcısı tarafından Hugging Face'te barındırılan, Qwen gibi büyük dil modellerini ince ayarlayarak karmaşık akıl yürütme yeteneklerini artırmak üzere hazırlanmış özel bir veri setidir."
+source: agnes_llm
+status: published
+language: tr
+description: Jackrong kullanıcısı tarafından Hugging Face'te barındırılan, Qwen gibi
+  büyük dil modellerini ince ayarlayarak karmaşık akıl yürütme yeteneklerini artırmak
+  üzere hazırlanmış özel bir veri setidir.
 ---
-
 ## Definition
 
 Bu giriş, 'Jackrong/Qwen3.5 Reasoning 700X' tanımlayıcısıyla belirtilen belirli bir veri seti deposunu ifade eder. Genellikle denetimli ince ayar (SFT) veya pekiştirmeli öğrenme bağlamında kullanılır.

@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /ar/terms/bayesian/
 date: "2026-07-18T15:23:39.105203Z"
 lastmod: "2026-07-18T17:15:08.434253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يرتبط بالطرق الإحصائية القائمة على نظرية بايز لتحديث الاحتمالات بناءً على أدلة جديدة."
 ---
-
 ## Definition
 
 تستخدم النهج البايزية في الذكاء الاصطناعي نظرية الاحتمالات لتحديث احتمالية الفرضيات كلما توفرت المزيد من الأدلة. تتيح هذه الطريقة للنماذج قياس عدم اليقين وتحسين التنبؤات ديناميكياً.

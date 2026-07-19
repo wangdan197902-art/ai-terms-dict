@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /de/terms/robotic_process_automation/
 date: "2026-07-18T11:32:24.142645Z"
 lastmod: "2026-07-18T11:44:44.982493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Einsatz von Software-Bots zur Automatisierung hochvolumiger, repetitiver digitaler Aufgaben, die traditionell von Menschen in Geschäftsprozessen ausgeführt werden."
 ---
-
 ## Definition
 
 Robotic Process Automation (RPA) verwendet Software-Roboter, die oft durch KI erweitert sind, um menschliche Interaktionen mit digitalen Systemen nachzuahmen. Sie wird eingesetzt, um Arbeitsabläufe wie Dateneingabe oder Rechnungsverarbeitung zu optimieren.

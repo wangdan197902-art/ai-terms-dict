@@ -1,23 +1,24 @@
 ---
-title: "Επαγωγική Προκατάληψη"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Επαγωγική Προκατάληψη
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /el/terms/inductive_bias/
-date: "2026-07-18T16:14:40.573805Z"
-lastmod: "2026-07-18T17:15:09.920286Z"
+slug: inductive_bias
+date: '2026-07-18T16:14:40.573805Z'
+lastmod: '2026-07-18T17:15:09.920286Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το σύνολο των παραδοχών που χρησιμοποιεί ένας αλγόριθμος μάθησης για να προβλέψει εξόδους για εισόδους που δεν έχουν εμφανιστεί κατά την εκπαίδευση."
+source: agnes_llm
+status: published
+language: el
+description: Το σύνολο των παραδοχών που χρησιμοποιεί ένας αλγόριθμος μάθησης για
+  να προβλέψει εξόδους για εισόδους που δεν έχουν εμφανιστεί κατά την εκπαίδευση.
 ---
-
 ## Definition
 
 Η Επαγωγική Προκατάληψη αντιπροσωπεύει τις εγγενείς προτιμήσεις ή περιορισμούς που ενσωματώνονται σε ένα μοντέλο μηχανικής μάθησης, επιτρέποντάς του να γενικεύσει από τα δεδομένα εκπαίδευσης σε μη ορατά δεδομένα. Χωρίς τέτοιες προκαταλήψεις, ένα μοντέλο δεν μπορεί να κάνει αξιόπιστες προβλέψεις για νέα δεδομένα.

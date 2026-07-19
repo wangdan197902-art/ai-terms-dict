@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /tr/terms/fine_tuning/
 date: "2026-07-18T15:23:00.947068Z"
 lastmod: "2026-07-18T16:38:07.225811Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Önceden eğitilmiş bir modeli daha küçük bir veri seti kullanarak belirli bir sonraki göreve uyarlama süreci."
 ---
-
 ## Definition
 
 İnce ayar, büyük ve genel bir veri setinde zaten eğitilmiş bir modeli alıp, özelleştirilmiş bir veri seti üzerinde daha fazla eğitmeyi içerir. Bu, modelin genel bilgileri korurken görev

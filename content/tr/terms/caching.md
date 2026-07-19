@@ -1,23 +1,25 @@
 ---
-title: "Önbellekleme"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Önbellekleme
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /tr/terms/caching/
-date: "2026-07-18T15:44:38.453365Z"
-lastmod: "2026-07-18T16:38:07.280991Z"
+slug: caching
+date: '2026-07-18T15:44:38.453365Z'
+lastmod: '2026-07-18T16:38:07.280991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Önbellekleme, gecikmeyi azaltmak ve birincil veri kaynaklarındaki yükü hafifletmek amacıyla sık erişilen verilerin geçici, yüksek hızlı bir depolama katmanında saklanması tekniğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Önbellekleme, gecikmeyi azaltmak ve birincil veri kaynaklarındaki yükü
+  hafifletmek amacıyla sık erişilen verilerin geçici, yüksek hızlı bir depolama katmanında
+  saklanması tekniğidir.
 ---
-
 ## Definition
 
 Yapay zeka mühendisliğinde önbellekleme, yakın zamanda veya sıklıkla istenen sorgu sonuçlarını, model tahminlerini veya ara hesaplamaları hızlı bellekte (RAM gibi) tutarak performansı optimize eder. Bu, pahalı tekrarlayan hesaplamaların veya veri tabanı sorgularının önüne geçer.

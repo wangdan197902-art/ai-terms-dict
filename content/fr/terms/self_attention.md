@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /fr/terms/self_attention/
 date: "2026-07-18T10:54:03.659544Z"
 lastmod: "2026-07-18T11:44:45.172557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un mécanisme permettant à un réseau de neurones de pondérer l'importance des différentes parties de la séquence d'entrée par rapport aux autres."
 ---
-
 ## Definition
 
 L'auto-attention permet aux modèles de capturer les dépendances entre toutes les positions d'une séquence simultanément, quelle que soit la distance. En calculant les scores d'attention entre chaque paire de jetons, elle permet une prise en compte globale du contexte.

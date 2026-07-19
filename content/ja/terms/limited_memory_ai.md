@@ -1,23 +1,23 @@
 ---
-title: "限定記憶AI"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: 限定記憶AI
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /ja/terms/limited_memory_ai/
-date: "2026-07-18T11:21:43.563761Z"
-lastmod: "2026-07-18T11:44:45.116013Z"
+slug: limited_memory_ai
+date: '2026-07-18T11:21:43.563761Z'
+lastmod: '2026-07-18T11:44:45.116013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "過去のデータや経験を保存して将来の意思決定に活用できるAIシステムであり、現代の機械学習アプリケーションの基盤を形成する。"
+source: agnes_llm
+status: published
+language: ja
+description: 過去のデータや経験を保存して将来の意思決定に活用できるAIシステムであり、現代の機械学習アプリケーションの基盤を形成する。
 ---
-
 ## Definition
 
 限定記憶AIは、システムが歴史的データから学習し、それに応じて行動を調整できる第2レベルのAI能力を表します。反応型マシンとは異なり、これらのシステムは情報を保持し

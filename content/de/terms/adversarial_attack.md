@@ -1,23 +1,25 @@
 ---
-title: "Adversarialer Angriff"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Adversarialer Angriff
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /de/terms/adversarial_attack/
-date: "2026-07-18T11:02:10.847628Z"
-lastmod: "2026-07-18T11:44:44.906977Z"
+slug: adversarial_attack
+date: '2026-07-18T11:02:10.847628Z'
+lastmod: '2026-07-18T11:44:44.906977Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein adversarialer Angriff ist eine Technik, bei der kleine, oft unmerkliche Störungen zu Eingabedaten hinzugefügt werden, um Machine-Learning-Modelle dazu zu verleiten, falsche Vorhersagen zu treffen."
+source: agnes_llm
+status: published
+language: de
+description: Ein adversarialer Angriff ist eine Technik, bei der kleine, oft unmerkliche
+  Störungen zu Eingabedaten hinzugefügt werden, um Machine-Learning-Modelle dazu zu
+  verleiten, falsche Vorhersagen zu treffen.
 ---
-
 ## Definition
 
 Adversariale Angriffe nutzen die Anfälligkeiten neuronaler Netze aus, indem sie subtile Rauschsignale in Eingaben wie Bilder oder Texte einführen, was zu erheblichen Fehlern im Modellausgang führt. Diese Angriffe unterstreichen die Notwendigkeit robuster Modelle.

@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /da/terms/llm/
 date: "2026-07-18T15:26:53.490685Z"
 lastmod: "2026-07-18T17:15:09.226850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En dyb læringsmodel trænet på enorme tekstkorpusser til at forstå og generere menneskelignende sprog."
 ---
-
 ## Definition
 
 Store sprogmodeller (LLM'er) er avancerede kunstige intelligenssystemer baseret på transformer-arkitekturer, der er trænet på massive datasæt af tekst og kode. De lærer statistiske mønstre i sprog

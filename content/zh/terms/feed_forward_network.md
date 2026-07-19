@@ -1,23 +1,23 @@
 ---
-title: "前馈网络"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: 前馈网络
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /zh/terms/feed_forward_network/
-date: "2026-07-18T11:17:13.896137Z"
-lastmod: "2026-07-18T11:44:45.499747Z"
+slug: feed_forward_network
+date: '2026-07-18T11:17:13.896137Z'
+lastmod: '2026-07-18T11:44:45.499747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一类人工神经网络，节点间的连接不形成循环，信息沿单一方向传播。"
+source: agnes_llm
+status: published
+language: zh
+description: 一类人工神经网络，节点间的连接不形成循环，信息沿单一方向传播。
 ---
-
 ## Definition
 
 前馈网络（FFN），也称为多层感知机（MLP），通过从输入层到输出层的神经元层顺序处理数据，没有反馈回路。每个神经元接收输入信号的加权总和，并通过激活函数进行处理，将结果传递给下一层。这种架构是许多深度学习模型的基础组件。

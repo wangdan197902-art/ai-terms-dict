@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /tr/terms/specifically/
 date: "2026-07-18T15:29:52.343942Z"
 lastmod: "2026-07-18T16:38:07.244283Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Daha geniş bir bağlam içindeki hassas, belirgin veya belirli detaylara atıfta bulunur."
 ---
-
 ## Definition
 
 Yapay zeka terminolojisinde 'özellikle', modelleri, veri noktalarını veya işlemleri tanımlarken kesinliği ifade eder. Genel kategorilerden tam parametreleri ayırarak teknik dokümantasyonda netliği sağlar.

@@ -1,23 +1,25 @@
 ---
-title: "Επιστημική αρνητική λογική"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Επιστημική αρνητική λογική
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /el/terms/epistemic_modal_logic/
-date: "2026-07-18T16:05:42.172355Z"
-lastmod: "2026-07-18T17:15:09.905584Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T16:05:42.172355Z'
+lastmod: '2026-07-18T17:15:09.905584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας κλάδος της αρνητικής λογικής που χρησιμοποιεί τυπικά συστήματα για την αναπαράσταση και τον συλλογισμό σχετικά με καταστάσεις γνώσης και πεποιθήσεων πρακτόρων."
+source: agnes_llm
+status: published
+language: el
+description: Ένας κλάδος της αρνητικής λογικής που χρησιμοποιεί τυπικά συστήματα για
+  την αναπαράσταση και τον συλλογισμό σχετικά με καταστάσεις γνώσης και πεποιθήσεων
+  πρακτόρων.
 ---
-
 ## Definition
 
 Η επιστημική αρνητική λογική επεκτείνει την κλασική λογική με τελεστές που δηλώνουν τι γνωρίζει ή πιστεύει ένας πράκτορας. Είναι κρίσιμη σε συστήματα πολλαπλών πρακτόρων όπου ο συλλογισμός περί της γνώσης άλλων συμμετεχόντων είναι απαραίτητος για τον συντονισμό και την αλληλεπίδραση.

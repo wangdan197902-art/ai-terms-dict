@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /en/terms/online/
 date: "2026-07-18T09:35:02.712187Z"
 lastmod: "2026-07-18T11:44:44.604037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Refers to machine learning models that learn continuously from new data streams in real-time without retraining from scratch."
 ---
-
 ## Definition
 
 Online learning is a machine learning paradigm where the model is updated incrementally as new data points arrive, rather than being trained on a static batch of data all at once. This approach is crucial for applications dealing with streaming data, such as stock market predictions or real-time fraud detection. It allows systems to adapt quickly to changing patterns and distributions over time, ensuring that the model remains relevant and accurate in dynamic environments without requiring significant computational resources for full retraining.

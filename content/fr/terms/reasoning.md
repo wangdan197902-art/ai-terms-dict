@@ -1,23 +1,25 @@
 ---
-title: "Raisonnement"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Raisonnement
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /fr/terms/reasoning/
-date: "2026-07-18T11:01:10.305803Z"
-lastmod: "2026-07-18T11:44:45.188203Z"
+slug: reasoning
+date: '2026-07-18T11:01:10.305803Z'
+lastmod: '2026-07-18T11:44:45.188203Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le raisonnement désigne le processus cognitif consistant à tirer des conclusions, à faire des prédictions ou à résoudre des problèmes sur la base d'informations disponibles."
+source: agnes_llm
+status: published
+language: fr
+description: Le raisonnement désigne le processus cognitif consistant à tirer des
+  conclusions, à faire des prédictions ou à résoudre des problèmes sur la base d'informations
+  disponibles.
 ---
-
 ## Definition
 
 En IA, le raisonnement implique des algorithmes qui simulent la déduction logique, l'induction ou l'abduction pour traiter les données et générer des informations pertinentes. Il englobe des techniques telles que la logique symbolique, l'inférence probabiliste et l'apprentissage par renforcement.

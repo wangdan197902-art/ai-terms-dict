@@ -1,23 +1,24 @@
 ---
-title: "Merkitty data"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Merkitty data
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /fi/terms/labeled_data/
-date: "2026-07-18T16:06:12.544202Z"
-lastmod: "2026-07-18T17:15:09.426831Z"
+slug: labeled_data
+date: '2026-07-18T16:06:12.544202Z'
+lastmod: '2026-07-18T17:15:09.426831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Dataa, jossa oikea lähtöarvo tai kohdearvo on annettu syötteiden ominaisuuksien lisäksi."
+source: agnes_llm
+status: published
+language: fi
+description: Dataa, jossa oikea lähtöarvo tai kohdearvo on annettu syötteiden ominaisuuksien
+  lisäksi.
 ---
-
 ## Definition
 
 Merkitty data koostuu syötenäytteistä, joihin on liitetty vastaavat totuudenmukaiset tunnisteet, ja se muodostaa valvottua koneoppimisen perustan. Se mahdollistaa algoritmien oppia kuvaajan syötteen ja tuloksen välillä.

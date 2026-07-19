@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /vi/terms/vector_database/
 date: "2026-07-18T15:30:09.265226Z"
 lastmod: "2026-07-18T16:38:07.699013Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một loại cơ sở dữ liệu chuyên biệt được thiết kế để lưu trữ, lập chỉ mục và truy vấn các vectơ chiều cao đại diện cho các đặc trưng dữ liệu."
 ---
-
 ## Definition
 
 Cơ sở dữ liệu vectơ tối ưu hóa việc lưu trữ và truy xuất dữ liệu không cấu trúc bằng cách chuyển đổi chúng thành các vectơ nhúng (embeddings). Chúng sử dụng các thuật toán như Hàng xóm gần nhất xấp xỉ (ANN) để tìm kiếm hiệu quả sự tương đồng.

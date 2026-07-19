@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /th/terms/datasetsnli/
 date: "2026-07-18T15:48:56.649088Z"
 lastmod: "2026-07-18T16:38:07.595614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Stanford Natural Language Inference Corpus คือชุดข้อมูลภาษาอังกฤษขนาดใหญ่ที่จับคู่ประโยคกับป้ายกำกับการอนุมานข้อความ (textual entailment labels) ที่เขียนโดยมนุษย์"
 ---
-
 ## Definition
 
 SNLI เป็นชุดข้อมูลมาตรฐาน (benchmark) ที่มีคู่ประโยคกว่า 500,000 คู่ ซึ่งติดป้ายกำกับด้วยสามคลาสหลัก ได้แก่ การอนุมาน (entailment), ขัดแย้ง (contradiction) และเป็นกลาง (neutral) ชุดข้อมูลนี้ถูกสร้างขึ้นเพื่อส่งเสริมการวิจัยในด้านอนุมานภาษาธรรมชาติ

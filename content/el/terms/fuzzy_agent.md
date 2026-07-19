@@ -1,23 +1,24 @@
 ---
-title: "Θολός Πράκτορας"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Θολός Πράκτορας
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /el/terms/fuzzy_agent/
-date: "2026-07-18T16:08:23.398378Z"
-lastmod: "2026-07-18T17:15:09.910204Z"
+slug: fuzzy_agent
+date: '2026-07-18T16:08:23.398378Z'
+lastmod: '2026-07-18T17:15:09.910204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αυτόνομη οντότητα που χρησιμοποιεί θολή λογική για να διαχειριστεί την αβεβαιότητα και τις ανακριβείς πληροφορίες στις διαδικασίες λήψης αποφάσεων."
+source: agnes_llm
+status: published
+language: el
+description: Μια αυτόνομη οντότητα που χρησιμοποιεί θολή λογική για να διαχειριστεί
+  την αβεβαιότητα και τις ανακριβείς πληροφορίες στις διαδικασίες λήψης αποφάσεων.
 ---
-
 ## Definition
 
 Ένας θολός πράκτορας λειτουργεί σε περιβάλλοντα όπου τα δεδομένα είναι συχνά αμφίσημα ή ελλιπή, χρησιμοποιώντας συστήματα θολής λογικής αντί για δυαδικές καταστάσεις αλήθειας/ψεύδους. Χρησιμοποιώντας συναρτήσεις μέλους και γλωσσικές μεταβλητές, μπορεί να λάβει αποφάσεις σε συνθήκες αβεβαιότητας χωρίς αυστηρά καθορισμένα όρια.

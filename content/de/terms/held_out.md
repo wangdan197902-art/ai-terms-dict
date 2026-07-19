@@ -1,23 +1,24 @@
 ---
-title: "Held-Out"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: Held-Out
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /de/terms/held_out/
-date: "2026-07-18T10:55:51.903876Z"
-lastmod: "2026-07-18T11:44:44.888459Z"
+slug: held_out
+date: '2026-07-18T10:55:51.903876Z'
+lastmod: '2026-07-18T11:44:44.888459Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Datenproben, die aus dem Trainingsset zurückgehalten werden, um die Modellleistung zu bewerten und Overfitting während der Entwicklung zu verhindern."
+source: agnes_llm
+status: published
+language: de
+description: Datenproben, die aus dem Trainingsset zurückgehalten werden, um die Modellleistung
+  zu bewerten und Overfitting während der Entwicklung zu verhindern.
 ---
-
 ## Definition
 
 Ein 'Held-Out'-Datensatz besteht aus Beispielen, die absichtlich von der Trainingsphase eines maschinellen Lernmodells ausgeschlossen wurden. Diese Teilmenge wird verwendet, um zu beurteilen, wie gut das Modell auf ungesehene Daten verallgemeinert, und bietet eine unvoreingenommene Schätzung der Leistung während des Entwicklungsprozesses.

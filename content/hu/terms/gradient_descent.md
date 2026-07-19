@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /hu/terms/gradient_descent/
 date: "2026-07-18T15:38:14.295682Z"
 lastmod: "2026-07-18T17:15:09.741218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy iteratív optimalizációs algoritmus, amelyet egy veszteségfüggvény minimalizálására használnak a modellparaméterek módosításával."
 ---
-
 ## Definition
 
 A gradiens lejtés egy elsőrendű iteratív optimalizációs algoritmus egy differenciálható függvény lokális minimumának megtalálására. A gépi tanulásban ez frissíti a modell súlyait a gradiens ellenkező irányába, így csökkentve a hibát.

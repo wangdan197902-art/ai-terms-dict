@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /ja/terms/intelligent_agent/
 date: "2026-07-18T11:19:53.227453Z"
 lastmod: "2026-07-18T11:44:45.110280Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "環境を知覚し、行動について推論し、特定の目標を達成するためにタスクを実行する自律型のソフトウェアエンティティ。"
 ---
-
 ## Definition
 
 インテリジェントエージェントとは、センサーやデータ入力を通じて周囲を知覚し、推論アルゴリズムを使用してこの情報を処理し、アクチュエータを通じて環境に対して行動を起こすことで特定の目標を達成できるシステムです。

@@ -1,23 +1,23 @@
 ---
-title: "混淆矩阵"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: 混淆矩阵
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /zh/terms/confusion_matrix/
-date: "2026-07-18T11:11:15.321096Z"
-lastmod: "2026-07-18T11:44:45.461224Z"
+slug: confusion_matrix
+date: '2026-07-18T11:11:15.321096Z'
+lastmod: '2026-07-18T11:44:45.461224Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "用于描述分类模型在测试数据集上性能的表格。"
+source: agnes_llm
+status: published
+language: zh
+description: 用于描述分类模型在测试数据集上性能的表格。
 ---
-
 ## Definition
 
 混淆矩阵是一种特定的表格布局，用于可视化算法（通常是监督学习算法）的性能。它显示了真阳性、真阴性、假阳性和假阴性的计数。

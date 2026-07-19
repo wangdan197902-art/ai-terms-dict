@@ -7,8 +7,6 @@ tags: ["theory", "creativity"]
 difficulty: 4
 weight: 1
 slug: "ideonomy"
-aliases:
-  - /it/terms/ideonomy/
 date: "2026-07-18T16:04:10.752730Z"
 lastmod: "2026-07-18T17:15:08.635785Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'ideonomia è la scienza della generazione di idee, focalizzata su metodi sistematici per creare e organizzare nuovi concetti e innovazioni."
 ---
-
 ## Definition
 
 Questo campo studia i processi dietro la formazione, la combinazione e l'evoluzione delle idee. Applica tecniche strutturate per migliorare la creatività e le capacità di risoluzione dei problemi. Nel contesto dell'IA, l'ideonomia può essere utilizzata per sviluppare algoritmi che supportano il pensiero creativo e la scoperta di nuove soluzioni.

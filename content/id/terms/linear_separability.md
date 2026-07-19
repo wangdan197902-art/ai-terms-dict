@@ -1,23 +1,24 @@
 ---
-title: "Separabilitas linear"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Separabilitas linear
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /id/terms/linear_separability/
-date: "2026-07-18T15:58:12.199945Z"
-lastmod: "2026-07-18T16:38:07.477734Z"
+slug: linear_separability
+date: '2026-07-18T15:58:12.199945Z'
+lastmod: '2026-07-18T16:38:07.477734Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sifat dataset di mana dua kelas dapat dipisahkan secara sempurna oleh satu garis lurus atau hiperbidang."
+source: agnes_llm
+status: published
+language: id
+description: Sifat dataset di mana dua kelas dapat dipisahkan secara sempurna oleh
+  satu garis lurus atau hiperbidang.
 ---
-
 ## Definition
 
 Separabilitas linear merujuk pada kondisi geometris di mana titik-titik data yang termasuk dalam kelas berbeda dapat dipisahkan sepenuhnya oleh batas linear, seperti garis dalam ruang 2D atau hiperbidang dalam ruang berdimensi lebih tinggi.

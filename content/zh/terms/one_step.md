@@ -1,23 +1,22 @@
 ---
-title: "一步法"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: 一步法
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /zh/terms/one_step/
-date: "2026-07-18T10:57:10.837294Z"
-lastmod: "2026-07-18T11:44:45.393533Z"
+slug: one_step
+date: '2026-07-18T10:57:10.837294Z'
+lastmod: '2026-07-18T11:44:45.393533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "指在单次迭代中完成任务或决策过程，无需进行迭代优化的算法或流程。"
+source: agnes_llm
+status: published
+language: zh
+description: 指在单次迭代中完成任务或决策过程，无需进行迭代优化的算法或流程。
 ---
-
 ## Definition
 
 在机器学习和优化领域，一步法直接解决问题，不需要多次迭代或更新即可收敛。与需要多步才能最小化

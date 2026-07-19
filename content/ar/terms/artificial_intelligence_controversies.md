@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /ar/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:44:49.214798Z"
 lastmod: "2026-07-18T17:15:08.476654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "النقاشات العامة والخلافات المحيطة بالآثار الأخلاقية والاجتماعية والتقنية لتطوير ونشر الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 تشمل جدليات الذكاء الاصطناعي الطيف الواسع من النزاعات الأخلاقية والقانونية والمجتمعية الناشئة عن تقنيات الذكاء الاصطناعي. تشمل القضايا الرئيسية التحيز الخوارزمي، وانتهاكات الخصوصية، واستبدال الوظائف...

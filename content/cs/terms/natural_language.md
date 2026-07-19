@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /cs/terms/natural_language/
 date: "2026-07-18T15:32:56.682756Z"
 lastmod: "2026-07-18T17:15:09.084737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Standardní metoda lidské komunikace charakterizovaná gramatikou, slovní zásobou a kontextem, na rozdíl od formálních počítačových jazyků."
 ---
-
 ## Definition
 
 Přirozený jazyk označuje způsob, jakým lidé mluví a píší, včetně všech jeho nejednoznačností, idiomů a kulturních nuancí. V umělé inteligenci zpracování přirozeného jazyka zahrnuje porozumění syntaktice, sémantice a...

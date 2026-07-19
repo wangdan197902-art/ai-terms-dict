@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /fi/terms/vehicle/
 date: "2026-07-18T15:32:56.079342Z"
 lastmod: "2026-07-18T17:15:09.362444Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "AI-yhteyksissä alusta viittaa usein alustaan tai välineeseen, jonka kautta tekoälymalleja otetaan käyttöön tai toimitetaan loppukäyttäjille."
 ---
-
 ## Definition
 
 Vaikka perinteisesti se tarkoittaa liikennevälinettä, AI-terminologiassa 'alusta' voi metaforisesti kuvata älykkäiden palveluiden toimitusmekanismia, kuten mobiilisovelluksia, web-käyttöliittymiä tai upotettuja järjestelmiä.

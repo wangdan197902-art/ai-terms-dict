@@ -1,23 +1,24 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /cs/terms/pyannote/
-date: "2026-07-18T16:14:12.935069Z"
-lastmod: "2026-07-18T17:15:09.192982Z"
+slug: pyannote
+date: '2026-07-18T16:14:12.935069Z'
+lastmod: '2026-07-18T17:15:09.192982Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Pyannote je knihovna pro Python, která poskytuje špičková řešení pro úkoly diářizace řečníků a segmentace audia."
+source: agnes_llm
+status: published
+language: cs
+description: Pyannote je knihovna pro Python, která poskytuje špičková řešení pro
+  úkoly diářizace řečníků a segmentace audia.
 ---
-
 ## Definition
 
 Pyannote je open-source knihovna pro Python vyvinutá společností pyannote.audio, specializující se na diářizaci řečníků, což je proces určování toho, 'kdo mluvil kdy', v audio toku. Využívá hluboké učení (deep learning) k dosažení vysoké přesnosti při rozlišování jednotlivých mluvčích v nahrávkách.

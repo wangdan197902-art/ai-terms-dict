@@ -1,23 +1,24 @@
 ---
-title: "Rumore nelle etichette"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Rumore nelle etichette
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /it/terms/label_noise/
-date: "2026-07-18T16:07:09.391320Z"
-lastmod: "2026-07-18T17:15:08.641582Z"
+slug: label_noise
+date: '2026-07-18T16:07:09.391320Z'
+lastmod: '2026-07-18T17:15:08.641582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Errori o incongruenze nelle etichette di destinazione di un dataset utilizzato per l'addestramento del machine learning supervisionato."
+source: agnes_llm
+status: published
+language: it
+description: Errori o incongruenze nelle etichette di destinazione di un dataset utilizzato
+  per l'addestramento del machine learning supervisionato.
 ---
-
 ## Definition
 
 Il rumore nelle etichette si riferisce alle discrepanze tra le vere classi dei dati e le etichette fornite nel dataset di addestramento. Questo può derivare da errori di annotazione umana, dati ambigui o processi di raccolta dati difettosi. La presenza di rumore può degradare significativamente le prestazioni del modello, rendendo necessaria l'adozione di tecniche di apprendimento robusto.

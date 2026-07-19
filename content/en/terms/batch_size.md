@@ -1,23 +1,24 @@
 ---
-title: "Batch Size"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Batch Size
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /en/terms/batch_size/
-date: "2026-07-18T09:47:51.703269Z"
-lastmod: "2026-07-18T11:44:44.646921Z"
+slug: batch_size
+date: '2026-07-18T09:47:51.703269Z'
+lastmod: '2026-07-18T11:44:44.646921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "The number of training examples utilized in one iteration of the stochastic gradient descent algorithm."
+source: agnes_llm
+status: published
+language: en
+description: The number of training examples utilized in one iteration of the stochastic
+  gradient descent algorithm.
 ---
-
 ## Definition
 
 Batch size is a critical hyperparameter that determines how many samples are processed before the model's internal parameters are updated. A larger batch size provides a more accurate estimate of the gradient, leading to stable convergence but requiring more memory and potentially generalizing poorly. Conversely, smaller batch sizes introduce noise into the gradient estimation, which can help escape local minima but may result in noisier convergence paths and longer training times due to frequent updates.

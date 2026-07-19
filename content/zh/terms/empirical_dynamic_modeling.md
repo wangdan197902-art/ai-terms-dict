@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /zh/terms/empirical_dynamic_modeling/
 date: "2026-07-18T11:16:12.974995Z"
 lastmod: "2026-07-18T11:44:45.494243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种非参数统计方法，用于从观测时间序列数据中重构复杂系统的动态特性。"
 ---
-
 ## Definition
 
 经验动态建模（EDM）是一种分析非线性动力系统的框架，它利用观测数据而不假设特定的参数形式。该方法依赖于Takens嵌入定理，通过重建状态空间来揭示系统内部的因果结构和动态规律。

@@ -1,23 +1,25 @@
 ---
-title: "post-entrenamiento"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: post-entrenamiento
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /es/terms/post_training/
-date: "2026-07-18T10:29:07.319183Z"
-lastmod: "2026-07-18T11:44:44.758678Z"
+slug: post_training
+date: '2026-07-18T10:29:07.319183Z'
+lastmod: '2026-07-18T11:44:44.758678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El post-entrenamiento se refiere a la fase de refinamiento de un modelo previamente entrenado en conjuntos de datos específicos para adaptarlo a tareas particulares o optimizar su rendimiento."
+source: agnes_llm
+status: published
+language: es
+description: El post-entrenamiento se refiere a la fase de refinamiento de un modelo
+  previamente entrenado en conjuntos de datos específicos para adaptarlo a tareas
+  particulares o optimizar su rendimiento.
 ---
-
 ## Definition
 
 El post-entrenamiento es una etapa crítica en el ciclo de vida del aprendizaje automático que ocurre después del entrenamiento inicial (pre-entrenamiento) de un modelo en datos generales a gran escala. Durante esta fase, el modelo se somete a ajustes finos, alineación con preferencias humanas o cuantización para especializarse y mejorar su eficacia en dominios concretos.

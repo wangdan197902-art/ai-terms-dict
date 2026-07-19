@@ -1,23 +1,24 @@
 ---
-title: "Học máy lượng tử"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: Học máy lượng tử
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /vi/terms/quantum_machine_learning/
-date: "2026-07-18T16:09:20.511114Z"
-lastmod: "2026-07-18T16:38:07.797867Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:09:20.511114Z'
+lastmod: '2026-07-18T16:38:07.797867Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Học máy lượng tử kết hợp điện toán lượng tử với các thuật toán học máy để giải quyết các vấn đề nhanh hơn hoặc hiệu quả hơn."
+source: agnes_llm
+status: published
+language: vi
+description: Học máy lượng tử kết hợp điện toán lượng tử với các thuật toán học máy
+  để giải quyết các vấn đề nhanh hơn hoặc hiệu quả hơn.
 ---
-
 ## Definition
 
 Học máy lượng tử (QML) là một lĩnh vực liên ngành mới nổi, tích hợp khả năng của điện toán lượng tử với các kỹ thuật học máy. Nó nhằm tận dụng các hiện tượng lượng tử như vướng víu và chồng chập để xử lý dữ liệu phức tạp và tăng tốc độ huấn luyện mô hình.

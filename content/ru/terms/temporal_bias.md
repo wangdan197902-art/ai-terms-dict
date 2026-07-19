@@ -1,23 +1,24 @@
 ---
-title: "Временная предвзятость"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Временная предвзятость
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /ru/terms/temporal_bias/
-date: "2026-07-18T16:18:02.515620Z"
-lastmod: "2026-07-18T16:38:07.207479Z"
+slug: temporal_bias
+date: '2026-07-18T16:18:02.515620Z'
+lastmod: '2026-07-18T16:38:07.207479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Систематическая ошибка, при которой модели отдают приоритет недавним данным по сравнению с историческим контекстом, что приводит к искаженным прогнозам."
+source: agnes_llm
+status: published
+language: ru
+description: Систематическая ошибка, при которой модели отдают приоритет недавним
+  данным по сравнению с историческим контекстом, что приводит к искаженным прогнозам.
 ---
-
 ## Definition
 
 Временная предвзятость возникает, когда модели машинного обучения непропорционально сильно взвешивают недавние наблюдения по сравнению со старыми, часто из-за нестационарных распределений данных или специфических протоколов обучения.

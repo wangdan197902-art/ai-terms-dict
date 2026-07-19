@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /cs/terms/code_generation/
 date: "2026-07-18T15:22:46.593129Z"
 lastmod: "2026-07-18T17:15:09.062130Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces využívající umělou inteligenci k automatickému vytváření zdrojového kódu na základě popisů v přirozeném jazyce nebo existujících úryvků kódu."
 ---
-
 ## Definition
 
 Generování kódu využívá velké jazykové modely trénované na rozsáhlých repozitářích programovacích jazyků k výrobě funkčních softwarových artefaktů. Interpretuje lidsky čitelné podněty, jako jsou komentáře nebo popisy funkcí, a převádí je na spustitelný kód.

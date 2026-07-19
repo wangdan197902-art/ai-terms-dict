@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /th/terms/datasetwikihow/
 date: "2026-07-18T15:49:14.091141Z"
 lastmod: "2026-07-18T16:38:07.596014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลขนาดใหญ่ที่ประกอบด้วยบทความวิธีการทำสิ่งต่างๆ จากเว็บไซต์ WikiHow ซึ่งใช้หลักๆ ในงานสรุปความและการสร้างคำแนะนำ"
 ---
-
 ## Definition
 
 ชุดข้อมูล WikiHow ประกอบด้วยบทความวิธีการทำสิ่งต่างๆ ประมาณ 60,000 บทความที่รวบรวมจากเว็บไซต์ WikiHow ชุดข้อมูลนี้ถูกใช้อย่างกว้างขวางในงานวิจัยด้านการประมวลผลภาษาธรรมชาติ (NLP) สำหรับงานต่างๆ เช่น การสรุปความแบบนามธรรม (abstractive text summarization) และการสร้างลำดับขั้นตอนการทำงาน

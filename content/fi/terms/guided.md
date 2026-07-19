@@ -1,23 +1,24 @@
 ---
-title: "Ohjattu"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Ohjattu
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /fi/terms/guided/
-date: "2026-07-18T15:27:14.259555Z"
-lastmod: "2026-07-18T17:15:09.352286Z"
+slug: guided
+date: '2026-07-18T15:27:14.259555Z'
+lastmod: '2026-07-18T17:15:09.352286Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kuvaaa tekoälyprosesseja tai generointimenetelmiä, joita rajoittaa tai ohjaa tiettyjä ulkoisia signaaleja, ehtoja tai välitavoitteita."
+source: agnes_llm
+status: published
+language: fi
+description: Kuvaaa tekoälyprosesseja tai generointimenetelmiä, joita rajoittaa tai
+  ohjaa tiettyjä ulkoisia signaaleja, ehtoja tai välitavoitteita.
 ---
-
 ## Definition
 
 Termiä 'ohjattu' käytetään tekoälyssä yleensä tekniikoissa, joissa mallin käyttäytymistä ohjaa lisätieto ensisijaisen syötteen lisäksi. Yleisiä esimerkkejä ovat ohjattu diffuusio, jossa luokkatieto ohjaa kuvagenerointia.

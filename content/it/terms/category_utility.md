@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /it/terms/category_utility/
 date: "2026-07-18T15:51:04.357581Z"
 lastmod: "2026-07-18T17:15:08.605326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'utilità di categoria è una misura matematica utilizzata per valutare l'efficacia di uno schema di categorizzazione in base al guadagno informativo che fornisce sui valori degli attributi."
 ---
-
 ## Definition
 
 Questa metrica quantifica quanto bene un insieme di categorie permetta di prevedere i valori degli attributi all'interno di tali categorie. Bilancia la dimensione delle categorie contro l'omogeneità dei loro cont

@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /vi/terms/case_based_reasoning/
 date: "2026-07-18T15:43:35.558513Z"
 lastmod: "2026-07-18T16:38:07.735158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Lập luận dựa trên trường hợp (CBR) là một phương pháp giải quyết vấn đề của AI, sử dụng kinh nghiệm quá khứ hoặc các trường hợp tương tự để tìm giải pháp cho các vấn đề mới."
 ---
-
 ## Definition
 
 CBR hoạt động dựa trên nguyên tắc rằng các vấn đề tương tự sẽ có các giải pháp tương tự. Quy trình bao gồm việc truy xuất trường hợp lịch sử tương đồng nhất từ cơ sở kiến thức, điều chỉnh giải pháp của nó để phù hợp với tình huống hiện tại, và lưu trữ giải pháp mới nếu thành công.

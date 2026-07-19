@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /vi/terms/document_classification/
 date: "2026-07-18T15:50:20.327027Z"
 lastmod: "2026-07-18T16:38:07.751199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình phân loại các văn bản thành các nhóm đã xác định trước dựa trên nội dung của chúng."
 ---
-
 ## Definition
 
 Phân loại tài liệu là một nhiệm vụ cơ bản trong xử lý ngôn ngữ tự nhiên, nơi các thuật toán gán nhãn cho dữ liệu văn bản không có cấu trúc. Nó liên quan đến việc trích xuất các đặc trưng từ tài liệu và ánh xạ chúng vào các lớp mục tiêu.

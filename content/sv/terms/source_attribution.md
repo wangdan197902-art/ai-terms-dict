@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /sv/terms/source_attribution/
 date: "2026-07-18T16:21:04.669665Z"
 lastmod: "2026-07-18T17:15:09.048947Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att identifiera och kreditera de ursprungliga skaparna eller datamängder som använts för att generera specifikt innehåll eller insikter."
 ---
-
 ## Definition
 
 Källattribuering avser den systematiska spårningen och märkningen av ursprung för data, modeller eller genererade utdata inom AI-system. Det säkerställer transparens genom att koppla slutresultaten tillbaka till deras ursprung.

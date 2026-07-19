@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /es/terms/carlo/
 date: "2026-07-18T10:21:22.597362Z"
 lastmod: "2026-07-18T11:44:44.736970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Se refiere a los métodos de Monte Carlo, una clase de algoritmos computacionales que dependen del muestreo aleatorio repetido para obtener resultados numéricos."
 ---
-
 ## Definition
 
 Los métodos de Monte Carlo son técnicas esenciales en IA y estadística para aproximar problemas matemáticos complejos difíciles de resolver analíticamente. Al generar miles o millones de muestras aleatorias...

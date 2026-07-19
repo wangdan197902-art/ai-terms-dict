@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: צינור Stable Diffusion XL"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: צינור Stable Diffusion XL'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /he/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:54:24.296045Z"
-lastmod: "2026-07-18T17:15:09.534204Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:54:24.296045Z'
+lastmod: '2026-07-18T17:15:09.534204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "צינור עבור Stable Diffusion XL (SDXL), המציע רזולוציה, פרטים ועמידה טובה יותר להנחיות בהשוואה לגרסאות קודמות."
+source: agnes_llm
+status: published
+language: he
+description: צינור עבור Stable Diffusion XL (SDXL), המציע רזולוציה, פרטים ועמידה טובה
+  יותר להנחיות בהשוואה לגרסאות קודמות.
 ---
-
 ## Definition
 
 צינור זה מיישם את ארכיטקטורת Stable Diffusion XL, המשתמשת במודל בסיס משובח ובמודל מרענן (Refiner) כדי לייצר תמונות ברזולוציה גבוהה (1024x1024) עם פרטים והרכבה עדיפים.

@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /pt/terms/mountain_car_problem/
 date: "2026-07-18T15:13:41.807914Z"
 lastmod: "2026-07-18T15:51:59.514715Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma tarefa clássica de aprendizado por reforço onde um agente deve dirigir um carro até o topo de uma colina íngreme usando apenas controles de aceleração."
 ---
-
 ## Definition
 
 O Problema do Carro na Montanha é um benchmark padrão na pesquisa de aprendizado por reforço. O objetivo é controlar um carro subpotente para alcançar o topo de uma colina íngreme. Como o carro não pode subir a colina diretamente devido à falta de potência, o agente deve aprender a oscilar para trás e para frente para ganhar impulso cinético suficiente para vencer a gravidade.

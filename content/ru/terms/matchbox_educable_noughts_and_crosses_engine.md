@@ -1,23 +1,25 @@
 ---
-title: "Обучаемая система «Крестики-нолики» в спичечных коробках"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Обучаемая система «Крестики-нолики» в спичечных коробках
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /ru/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:04:01.137976Z"
-lastmod: "2026-07-18T16:38:07.179041Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:04:01.137976Z'
+lastmod: '2026-07-18T16:38:07.179041Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Физическое устройство для обучения с подкреплением, созданное Дональдом Мичи в 1961 году для игры в крестики-нолики с использованием спичечных коробков и бусин."
+source: agnes_llm
+status: published
+language: ru
+description: Физическое устройство для обучения с подкреплением, созданное Дональдом
+  Мичи в 1961 году для игры в крестики-нолики с использованием спичечных коробков
+  и бусин.
 ---
-
 ## Definition
 
 Система ME-Noughts-and-Crosses Engine была ранней демонстрацией машинного обучения, в частности обучения с подкреплением. Она состояла из 304 спичечных коробков, каждый из которых представлял уникальное состояние игрового поля. Внутри каждого коробка находились бусины разных цветов, соответствующие возможным ходам, что позволяло системе запоминать успешные стратегии.

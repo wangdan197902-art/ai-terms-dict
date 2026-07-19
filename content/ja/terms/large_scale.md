@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /ja/terms/large_scale/
 date: "2026-07-18T10:56:57.946321Z"
 lastmod: "2026-07-18T11:44:45.026584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "膨大な量のデータ、パラメータ、または計算リソースを扱うAIシステムやデータセットを記述します。"
 ---
-
 ## Definition
 
 大規模とは、AIシステム内のコンポーネントの規模を指し、しばしば数十億のパラメータ、テラバイト単位のトレーニングデータ、または分散コンピューティングクラスターを伴います。このアプローチは、基盤モデルの開発における基礎となります。

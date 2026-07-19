@@ -7,8 +7,6 @@ tags: ["scaling", "alignment", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v4"
-aliases:
-  - /pl/terms/deepseek_v4/
 date: "2026-07-18T15:51:18.145078Z"
 lastmod: "2026-07-18T17:15:08.865570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "DeepSeek V4 to koncepcyjna lub kolejna iteracja w linii modeli DeepSeek, reprezentująca dalszy postęp w skalowaniu modeli i integracji multimodalnej."
 ---
-
 ## Definition
 
 Jako następca poprzednich wersji, DeepSeek V4 implikuje ciągłą ewolucję serii modeli DeepSeek, skupiając się na zwiększonej skalowalności i odporności. Choć szczegółowe informacje publiczne mogą się różnić w zależności

@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /no/terms/information/
 date: "2026-07-18T15:27:13.529926Z"
 lastmod: "2026-07-18T16:38:06.939072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Informasjon refererer til prosessert data som overfører mening, reduserer usikkerhet eller gir kontekst til mottakeren."
 ---
-
 ## Definition
 
 I sammenheng med AI og datavitenskap er informasjon forskjellig fra rådata. Den representerer data som er organisert, strukturert eller tolket for å ha betydning og nytteverdi. Informasjon

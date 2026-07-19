@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /da/terms/intrinsic_motivation/
 date: "2026-07-18T16:02:18.082003Z"
 lastmod: "2026-07-18T17:15:09.300976Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et begreb inden for forstærkningsslæring, hvor agenter stræber efter mål baseret på intern nysgerrighed eller videnopsamling frem for eksterne belønninger."
 ---
-
 ## Definition
 
 Inden for forstærkningsslæring driver intern motivation en agent til at udforske sit miljø ved at søge nyhedsværdi, reducere usikkerhed eller mestre færdigheder, uafhængigt af eksterne opgavebelønninger. Denne me

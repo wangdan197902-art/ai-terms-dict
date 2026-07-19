@@ -1,23 +1,24 @@
 ---
-title: "קצב"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: קצב
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /he/terms/rate/
-date: "2026-07-18T15:29:14.591738Z"
-lastmod: "2026-07-18T17:15:09.485268Z"
+slug: rate
+date: '2026-07-18T15:29:14.591738Z'
+lastmod: '2026-07-18T17:15:09.485268Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מדידה של תדירות או מהירות, המתייחסת בדרך כלל לקצבי למידה באופטימיזציה או למהירויות יצירת טוקנים."
+source: agnes_llm
+status: published
+language: he
+description: מדידה של תדירות או מהירות, המתייחסת בדרך כלל לקצבי למידה באופטימיזציה
+  או למהירויות יצירת טוקנים.
 ---
-
 ## Definition
 
 בבינה מלאכותית, 'קצב' מתייחס לרוב לקצב הלמידה, פרמטר-על השולט בכמה יש לשנות את המודל כתגובה לשגיאה המשוערת בכל פעם שהמשקולות של המודל מתעדכנות. קצב

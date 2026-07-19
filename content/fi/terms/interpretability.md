@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /fi/terms/interpretability/
 date: "2026-07-18T15:36:39.912049Z"
 lastmod: "2026-07-18T17:15:09.371142Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Aste, jolla ihminen voi ymmärtää tekoälymallin tekemän päätöksen syyn."
 ---
-
 ## Definition
 
 Tulkittavuus tai selitettävyys tarkoittaa tekoälymallien sisäisen toiminnan ja päätöksentekoprosessien tekemistä läpinäkyviksi ja ihmiselle ymmärrettäviksi. Tämä on kriittistä virheenkorjauksessa ja...

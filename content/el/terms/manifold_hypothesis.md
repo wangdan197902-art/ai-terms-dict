@@ -1,23 +1,25 @@
 ---
-title: "Υπόθεση Πολλαπλότητας"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Υπόθεση Πολλαπλότητας
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /el/terms/manifold_hypothesis/
-date: "2026-07-18T16:20:16.647287Z"
-lastmod: "2026-07-18T17:15:09.930025Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:20:16.647287Z'
+lastmod: '2026-07-18T17:15:09.930025Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η υπόθεση ότι τα πραγματικά δεδομένα υψηλών διαστάσεων βρίσκονται σε μια πολλαπλότητα χαμηλότερης διάστασης και μη γραμμικής γεωμετρίας μέσα στον υψηλού διαστάσεων χώρο."
+source: agnes_llm
+status: published
+language: el
+description: Η υπόθεση ότι τα πραγματικά δεδομένα υψηλών διαστάσεων βρίσκονται σε
+  μια πολλαπλότητα χαμηλότερης διάστασης και μη γραμμικής γεωμετρίας μέσα στον υψηλού
+  διαστάσεων χώρο.
 ---
-
 ## Definition
 
 Αυτή η υπόθεση εξηγεί γιατί η βαθιά μάθηση λειτουργεί αποτελεσματικά παρά το 'κατάρα της διαστατικότητας'. Υποδηλώνει ότι αν και δεδομένα όπως οι εικόνες υπάρχουν σε εκατομμύρια διαστάσεις, περιορίζονται από λιγότερους εγγενείς βαθμούς ελευθερίας, επιτρέποντας στα μοντέλα να μαθαίνουν αποτελεσματικά από χαμηλότερης διάστασης αναπαραστάσεις.

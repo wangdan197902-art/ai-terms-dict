@@ -1,23 +1,23 @@
 ---
-title: "无审查"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: 无审查
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /zh/terms/uncensored/
-date: "2026-07-18T11:37:26.916581Z"
-lastmod: "2026-07-18T11:44:45.565745Z"
+slug: uncensored
+date: '2026-07-18T11:37:26.916581Z'
+lastmod: '2026-07-18T11:44:45.565745Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "指经过修改以绕过安全过滤器和道德准则的人工智能模型。"
+source: agnes_llm
+status: published
+language: zh
+description: 指经过修改以绕过安全过滤器和道德准则的人工智能模型。
 ---
-
 ## Definition
 
 在人工智能领域，“无审查”通常描述那些经过微调或修改，以移除或削弱内置安全对齐的模型。这些模型旨在去除内容限制。

@@ -1,23 +1,24 @@
 ---
-title: "פקודה (Prompt)"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: פקודה (Prompt)
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /he/terms/prompt/
-date: "2026-07-18T15:29:14.591713Z"
-lastmod: "2026-07-18T17:15:09.485045Z"
+slug: prompt
+date: '2026-07-18T15:29:14.591713Z'
+lastmod: '2026-07-18T17:15:09.485045Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "קלט טקסט או הוראה המסופקים למודל בינה מלאכותית יוצרת כדי לעורר תגובה או התנהגות ספציפיים."
+source: agnes_llm
+status: published
+language: he
+description: קלט טקסט או הוראה המסופקים למודל בינה מלאכותית יוצרת כדי לעורר תגובה
+  או התנהגות ספציפיים.
 ---
-
 ## Definition
 
 פקודה משמשת כממשק הראשוני לתקשורת עם מודלי שפה גדולים ומערכות בינה מלאכותית יוצרות אחרות. היא מגדירה את ההקשר, הטון והאילוצים של פלט המודל. פקודה יעילה

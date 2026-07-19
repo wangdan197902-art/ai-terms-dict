@@ -1,23 +1,22 @@
 ---
-title: "دلالي"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: دلالي
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /ar/terms/semantic/
-date: "2026-07-18T15:30:54.694953Z"
-lastmod: "2026-07-18T17:15:08.448928Z"
+slug: semantic
+date: '2026-07-18T15:30:54.694953Z'
+lastmod: '2026-07-18T17:15:08.448928Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يتعلق بالمعنى في اللغة أو البيانات، مما يميزه عن البنية النحوية أو الشكل."
+source: agnes_llm
+status: published
+language: ar
+description: يتعلق بالمعنى في اللغة أو البيانات، مما يميزه عن البنية النحوية أو الشكل.
 ---
-
 ## Definition
 
 يركز التحليل الدلالي في الذكاء الاصطناعي على فهم المعنى الكامن وراء المدخلات بدلاً من مجرد أنماط السطح. يتضمن ذلك ربط الكلمات أو الرموز بالمفاهيم، وإ.capture العلاقات...

@@ -1,23 +1,25 @@
 ---
-title: "Формальный концептуальный анализ"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Формальный концептуальный анализ
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /ru/terms/formal_concept_analysis/
-date: "2026-07-18T15:53:52.322857Z"
-lastmod: "2026-07-18T16:38:07.158694Z"
+slug: formal_concept_analysis
+date: '2026-07-18T15:53:52.322857Z'
+lastmod: '2026-07-18T16:38:07.158694Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Формальный концептуальный анализ (ФКА) — это математический метод получения концептуальных иерархий из данных с использованием формальных контекстов и решеток понятий."
+source: agnes_llm
+status: published
+language: ru
+description: Формальный концептуальный анализ (ФКА) — это математический метод получения
+  концептуальных иерархий из данных с использованием формальных контекстов и решеток
+  понятий.
 ---
-
 ## Definition
 
 ФКА предоставляет строгую основу для анализа отношений между объектами и их атрибутами, в результате чего формируется иерархическая структура, известная как решетка понятий. Он широко используется в извлечении знаний

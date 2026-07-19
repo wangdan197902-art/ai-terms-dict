@@ -1,23 +1,25 @@
 ---
-title: "Набор данных: BookCorpus"
-term_id: "datasetbookcorpus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "nlp", "text_data"]
+title: 'Набор данных: BookCorpus'
+term_id: datasetbookcorpus
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- NLP
+- Text Data
 difficulty: 2
 weight: 1
-slug: "datasetbookcorpus"
-aliases:
-  - /ru/terms/datasetbookcorpus/
-date: "2026-07-18T15:47:40.257898Z"
-lastmod: "2026-07-18T16:38:07.139302Z"
+slug: datasetbookcorpus
+date: '2026-07-18T15:47:40.257898Z'
+lastmod: '2026-07-18T16:38:07.139302Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Крупномасштабный набор данных, содержащий более 10 000 неопубликованных книг, широко используемый для предварительного обучения моделей обработки естественного языка."
+source: agnes_llm
+status: published
+language: ru
+description: Крупномасштабный набор данных, содержащий более 10 000 неопубликованных
+  книг, широко используемый для предварительного обучения моделей обработки естественного
+  языка.
 ---
-
 ## Definition
 
 BookCorpus — это коллекция текстов из более чем 10 000 неопубликованных книг, собранных из интернета. Она служит фундаментальным ресурсом для обучения и оценки моделей обработки естественного языка (NLP), обеспечивая разнообразный лингвистический контекст.

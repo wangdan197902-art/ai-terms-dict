@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /ro/terms/generated/
 date: "2026-07-18T15:25:47.560421Z"
 lastmod: "2026-07-18T17:15:09.594779Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Conținut creat de un model IA, nu preluat direct dintr-un set de date static."
 ---
-
 ## Definition
 
 Termenul „generat” descrie ieșirile produse de modelele de IA generativă, cum ar fi text, imagini, audio sau cod. Spre deosebire de sistemele bazate pe recuperare care preiau date existente, modelele generative sintetizează date noi

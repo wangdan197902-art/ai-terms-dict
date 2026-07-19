@@ -1,23 +1,22 @@
 ---
-title: "モデル抽出"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: モデル抽出
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /ja/terms/model_extraction/
-date: "2026-07-18T11:37:07.583129Z"
-lastmod: "2026-07-18T11:44:45.157548Z"
+slug: model_extraction
+date: '2026-07-18T11:37:07.583129Z'
+lastmod: '2026-07-18T11:44:45.157548Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "攻撃者がモデルにクエリを送信してパラメータを再構築または複製を作成する攻撃手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 攻撃者がモデルにクエリを送信してパラメータを再構築または複製を作成する攻撃手法。
 ---
-
 ## Definition
 
 モデル抽出では、攻撃者はターゲット機械学習モデルのAPIをクエリして、その内部構造、重み、または意思決定境界を推測します。これらのクエリを使用して、元のモデルの挙動を模倣するサロゲートモデル（代理モデル）を構築します。

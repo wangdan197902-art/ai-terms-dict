@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /es/terms/kaos/
 date: "2026-07-18T10:55:26.304657Z"
 lastmod: "2026-07-18T11:44:44.821685Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco de agentes inteligentes diseñado para gestionar entornos empresariales complejos y distribuidos mediante automatización basada en políticas."
 ---
-
 ## Definition
 
 KAoS es un marco de agentes inteligentes desarrollado para manejar la complejidad de sistemas empresariales distribuidos a gran escala. Utiliza un enfoque basado en políticas donde los objetivos de gestión de alto nivel se traducen en reglas ejecutables que los agentes autónomos aplican para mantener el estado deseado del sistema.

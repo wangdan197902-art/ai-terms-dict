@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /nl/terms/biohybrid_system/
 date: "2026-07-18T15:45:19.453250Z"
 lastmod: "2026-07-18T17:15:08.723010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een geïntegreerd systeem dat biologische componenten combineert met kunstmatige apparaten om de functionaliteit te verbeteren of nieuwe mogelijkheden te creëren."
 ---
-
 ## Definition
 
 Biohybride systemen combineren levende weefsels, cellen of organismen met synthetische materialen en elektronische apparaten. Deze systemen streven ernaar de unieke eigenschappen van biologische entiteiten te benutten, zoals zelfherstel.

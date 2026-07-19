@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /id/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:40:37.401696Z"
 lastmod: "2026-07-18T16:38:07.432570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Paradigma pembelajaran yang memperlakukan parameter model sebagai variabel acak dengan distribusi probabilitas, bukan nilai tetap."
 ---
-
 ## Definition
 
 Mekanisme pembelajaran Bayesian memperbarui keyakinan tentang parameter model menggunakan teorema Bayes, menggabungkan pengetahuan awal dengan data yang diamati untuk membentuk distribusi posterior. Berbeda dengan pendekatan frekuentis yang

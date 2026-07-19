@@ -1,23 +1,24 @@
 ---
-title: "Surrogate model"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Surrogate model
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /en/terms/surrogate_model/
-date: "2026-07-18T10:17:11.294395Z"
-lastmod: "2026-07-18T11:44:44.725628Z"
+slug: surrogate_model
+date: '2026-07-18T10:17:11.294395Z'
+lastmod: '2026-07-18T11:44:44.725628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A simplified mathematical model used to approximate the behavior of a more complex, computationally expensive, or inaccessible black-box model."
+source: agnes_llm
+status: published
+language: en
+description: A simplified mathematical model used to approximate the behavior of a
+  more complex, computationally expensive, or inaccessible black-box model.
 ---
-
 ## Definition
 
 In machine learning and optimization, a surrogate model serves as a proxy for a target function that is difficult to evaluate directly. It is trained on input-output pairs from the original model to predict outcomes quickly and cheaply. Common techniques include Gaussian Processes, Polynomial Chaos Expansion, and neural networks. Surrogate models are essential for hyperparameter tuning, sensitivity analysis, and optimizing systems where each evaluation takes significant time or resources.

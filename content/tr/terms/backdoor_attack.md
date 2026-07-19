@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /tr/terms/backdoor_attack/
 date: "2026-07-18T16:21:43.537840Z"
 lastmod: "2026-07-18T16:38:07.378758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kötü niyetli aktörlerin, belirli yanlış sınıflandırmalara neden olmak için eğitim sırasında yapay zeka modellerine gizli tetikleyiciler yerleştirdiği bir güvenlik tehdididir."
 ---
-
 ## Definition
 
 Bir arka kapı saldırısı, makine öğrenimi modelinin eğitim verisinin, tetikleyici adı verilen belirli kalıtlarla zehirlenmesini içerir. Model temiz verilerde normal şekilde çalışırken, yanlış davranışları tetiklemek için...

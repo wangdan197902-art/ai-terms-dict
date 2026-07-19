@@ -1,23 +1,23 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /ja/terms/hugging_face/
-date: "2026-07-18T11:17:51.145190Z"
-lastmod: "2026-07-18T11:44:45.106043Z"
+slug: hugging_face
+date: '2026-07-18T11:17:51.145190Z'
+lastmod: '2026-07-18T11:44:45.106043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機械学習開発のためのオープンソースツール、モデル、データセットを提供する主要なプラットフォームおよびコミュニティ。"
+source: agnes_llm
+status: published
+language: ja
+description: 機械学習開発のためのオープンソースツール、モデル、データセットを提供する主要なプラットフォームおよびコミュニティ。
 ---
-
 ## Definition
 
 Hugging Faceは、オープンソースのAIエコシステムにおいて中心的な役割を果たしている著名な企業およびオンラインプラットフォームです。事前トレーニング済みモデル、データセット、デモアプリケーションの膨大なリポジトリを提供しています。

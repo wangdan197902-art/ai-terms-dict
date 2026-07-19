@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /de/terms/alphachip/
-date: "2026-07-18T11:02:40.179079Z"
-lastmod: "2026-07-18T11:44:44.908387Z"
+slug: alphachip
+date: '2026-07-18T11:02:40.179079Z'
+lastmod: '2026-07-18T11:44:44.908387Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein KI-gestütztes Werkzeug zum Chipdesign, das von Google DeepMind entwickelt wurde und Verstärkungslernen zur Optimierung von integrierten Schaltungen nutzt."
+source: agnes_llm
+status: published
+language: de
+description: Ein KI-gestütztes Werkzeug zum Chipdesign, das von Google DeepMind entwickelt
+  wurde und Verstärkungslernen zur Optimierung von integrierten Schaltungen nutzt.
 ---
-
 ## Definition
 
 AlphaChip ist ein spezialisiertes KI-System, das darauf ausgelegt ist, die Platzierung und Verdrahtung von Komponenten auf Mikrochips zu automatisieren und zu verbessern. Durch den Einsatz von Deep Reinforcement Learning wird die Zeit für diesen Prozess erheblich verkürzt.

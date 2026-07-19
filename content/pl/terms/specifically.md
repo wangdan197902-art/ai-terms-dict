@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /pl/terms/specifically/
 date: "2026-07-18T15:29:55.028096Z"
 lastmod: "2026-07-18T17:15:08.821406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do precyzyjnych, odrębnych lub szczególnych szczegółów w szerszym kontekście."
 ---
-
 ## Definition
 
 W terminologii sztucznej inteligencji (AI) słowo 'konkretnie' oznacza precyzję w definiowaniu modeli, punktów danych lub operacji. Różnicuje ono dokładne parametry od ogólnych kategorii, zapewniając jasność w dokumentacji technicznej.

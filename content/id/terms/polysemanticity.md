@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /id/terms/polysemanticity/
 date: "2026-07-18T16:04:14.079867Z"
 lastmod: "2026-07-18T16:38:07.494584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fenomena di mana neuron individu dalam jaringan saraf merespons beberapa konsep yang berbeda."
 ---
-
 ## Definition
 
 Polisemantik adalah karakteristik yang diamati dalam jaringan saraf dalam, khususnya pada arsitektur transformer, di mana satu neuron dapat aktif sebagai respons terhadap beberapa fitur yang tidak terkait atau memiliki makna semantik yang berbeda.

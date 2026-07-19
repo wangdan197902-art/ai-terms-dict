@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /no/terms/flow_based_generative_model/
 date: "2026-07-18T15:54:45.366654Z"
 lastmod: "2026-07-18T16:38:07.001609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En klasse av generative modeller som bruker inverterbare transformasjoner for å mappe enkle fordelinger til komplekse datafordelinger."
 ---
-
 ## Definition
 
 Flytbaserte generative modeller konstruerer komplekse sannsynlighetsfordelinger ved å anvende en serie med inverterbare, derivérbare transformasjoner på en enkel basisfordeling, som en Gaussisk. Fordi disse transformasjonene er inverterbare.

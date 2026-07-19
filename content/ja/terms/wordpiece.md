@@ -1,23 +1,23 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /ja/terms/wordpiece/
-date: "2026-07-18T11:36:41.190722Z"
-lastmod: "2026-07-18T11:44:45.155887Z"
+slug: wordpiece
+date: '2026-07-18T11:36:41.190722Z'
+lastmod: '2026-07-18T11:44:45.155887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "未登録語（OOV）を処理するため、最も頻繁な文字ペアを再帰的に結合するサブワードトークン化アルゴリズム。"
+source: agnes_llm
+status: published
+language: ja
+description: 未登録語（OOV）を処理するため、最も頻繁な文字ペアを再帰的に結合するサブワードトークン化アルゴリズム。
 ---
-
 ## Definition
 
 WordPieceは、BERTやALBERTなどの自然言語処理モデルで広く使用されているトークン化手法です。形態的な豊かさを扱い、語彙サイズを削減するために、単語をより小さなサブワード単位に分解します。

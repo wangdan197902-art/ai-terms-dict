@@ -1,23 +1,24 @@
 ---
-title: "Pengetahuan Awal untuk Pengenalan Pola"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Pengetahuan Awal untuk Pengenalan Pola
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /id/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:04:47.054574Z"
-lastmod: "2026-07-18T16:38:07.495463Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:04:47.054574Z'
+lastmod: '2026-07-18T16:38:07.495463Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Informasi atau asumsi yang sudah ada yang diintegrasikan ke dalam model pembelajaran mesin untuk meningkatkan akurasi identifikasi pola."
+source: agnes_llm
+status: published
+language: id
+description: Informasi atau asumsi yang sudah ada yang diintegrasikan ke dalam model
+  pembelajaran mesin untuk meningkatkan akurasi identifikasi pola.
 ---
-
 ## Definition
 
 Pengetahuan awal merujuk pada wawasan, batasan, atau data historis spesifik domain yang dimasukkan ke dalam algoritma sebelum pelatihan dimulai. Hal ini membantu membimbing model menuju solusi yang masuk akal, mengurangi...

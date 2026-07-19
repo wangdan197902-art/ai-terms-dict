@@ -7,8 +7,6 @@ tags: ["NLP", "Multilingual", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "xlm_roberta"
-aliases:
-  - /ja/terms/xlm_roberta/
 date: "2026-07-18T11:36:54.545408Z"
 lastmod: "2026-07-18T11:44:45.156832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "RoBERTaを基盤とした多言語トランスフォーマーモデルで、100以上の言語の大量のテキストで事前学習されています。"
 ---
-
 ## Definition
 
 XLM-RoBERTa（Cross-lingual Language Model RoBERTa）は、Meta AIによって開発された大規模な多言語モデルです。100以上の言語を含む多様なデータセットで事前学習を行うことで、RoBERTaのアーキテクチャを拡張しています。これにより、異なる言語間の知識転送が可能になります。

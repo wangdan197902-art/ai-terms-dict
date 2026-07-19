@@ -1,23 +1,24 @@
 ---
-title: "בקרת כוח"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: בקרת כוח
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /he/terms/force_control/
-date: "2026-07-18T15:58:08.709366Z"
-lastmod: "2026-07-18T17:15:09.541417Z"
+slug: force_control
+date: '2026-07-18T15:58:08.709366Z'
+lastmod: '2026-07-18T17:15:09.541417Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטה רובוטית המווסתת את כוחות האינטראקציה בין סוף הזרוע של הרובוט לסביבתו במהלך משימות פיזיות."
+source: agnes_llm
+status: published
+language: he
+description: שיטה רובוטית המווסתת את כוחות האינטראקציה בין סוף הזרוע של הרובוט לסביבתו
+  במהלך משימות פיזיות.
 ---
-
 ## Definition
 
 בקרת כוח מאפשרת לרובוטים לבצע פעולות עדינות כמו הרכבה, ליטוש או אחיזה בחפצים שבירים על ידי ניהול אקטיבי של כוח המגע במקום רק בקרה על המיקום. בניגוד לבקרת מיקום טהורה, גישה זו מתמקדת בתגובה הכוחית של המערכת.

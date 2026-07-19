@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /pt/terms/human_centered_ai/
 date: "2026-07-18T15:04:22.846422Z"
 lastmod: "2026-07-18T15:51:59.499067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma abordagem para o design e desenvolvimento de IA que prioriza os valores, necessidades e bem-estar humanos ao longo de todo o ciclo de vida do sistema."
 ---
-
 ## Definition
 
 A IA Centrada no Humano é uma filosofia de design que coloca os seres humanos no centro do desenvolvimento da inteligência artificial. Ela enfatiza a criação de sistemas que sejam transparentes, justos e benéficos para a sociedade, ra

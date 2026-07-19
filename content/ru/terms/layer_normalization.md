@@ -1,23 +1,24 @@
 ---
-title: "Нормализация по слоям"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Нормализация по слоям
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /ru/terms/layer_normalization/
-date: "2026-07-18T16:00:49.264810Z"
-lastmod: "2026-07-18T16:38:07.173825Z"
+slug: layer_normalization
+date: '2026-07-18T16:00:49.264810Z'
+lastmod: '2026-07-18T16:38:07.173825Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, нормализующая активации слоя нейронной сети по измерению признаков для каждого отдельного образца."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, нормализующая активации слоя нейронной сети по измерению признаков
+  для каждого отдельного образца.
 ---
-
 ## Definition
 
 Нормализация по слоям стабилизирует обучение, уменьшая внутреннее ковариационное смещение, что особенно эффективно в архитектурах рекуррентных сетей и трансформеров. В отличие от пакетной нормализации, зависящей от статистики батча, она работает независимо от размера пакета.

@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: Stable Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /ja/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T11:12:39.402062Z"
-lastmod: "2026-07-18T11:44:45.091866Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T11:12:39.402062Z'
+lastmod: '2026-07-18T11:44:45.091866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "静的画像から動画を生成するためにStable Video Diffusionモデルを利用する、Hugging Face Diffusersのパイプラインラッパーです。"
+source: agnes_llm
+status: published
+language: ja
+description: 静的画像から動画を生成するためにStable Video Diffusionモデルを利用する、Hugging Face Diffusersのパイプラインラッパーです。
 ---
-
 ## Definition
 
 この用語は、動画生成のために設計されたHugging Face Diffusersライブラリ内の特定の実装を指します。これは、潜在空間での動画拡散（latent video diffusion）を行うStable Video Diffusion（SVD）モデルと統合されています。

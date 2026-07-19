@@ -1,23 +1,23 @@
 ---
-title: "open-weight"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: open-weight
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /da/terms/open_weight/
-date: "2026-07-18T15:32:52.635701Z"
-lastmod: "2026-07-18T17:15:09.240498Z"
+slug: open_weight
+date: '2026-07-18T15:32:52.635701Z'
+lastmod: '2026-07-18T17:15:09.240498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "AI-modeller, hvor de trænede parametre (vægte) offentliggøres, men træningskoden og datasættet kan forblive private."
+source: agnes_llm
+status: published
+language: da
+description: AI-modeller, hvor de trænede parametre (vægte) offentliggøres, men træningskoden
+  og datasættet kan forblive private.
 ---
-
 ## Definition
 
 Open-weight-modeller adskiller sig fra fuldt open-source AI, fordi kun de endelige lærte parametre frigives, ikke nødvendigvis infrastrukturen eller dataene, der blev brugt til at skabe dem. Dette gør det muligt for brugere at køre inf

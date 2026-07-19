@@ -1,23 +1,23 @@
 ---
-title: "การเข้ารหัสตำแหน่ง"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: การเข้ารหัสตำแหน่ง
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /th/terms/positional_encoding/
-date: "2026-07-18T15:36:58.190859Z"
-lastmod: "2026-07-18T16:38:07.563479Z"
+slug: positional_encoding
+date: '2026-07-18T15:36:58.190859Z'
+lastmod: '2026-07-18T16:38:07.563479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่ฉีดข้อมูลเกี่ยวกับตำแหน่งสัมพัทธ์หรือสัมบูรณ์ของโทเค็นในลำดับเข้าไปในโมเดลทรานส์ฟอร์มเมอร์"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่ฉีดข้อมูลเกี่ยวกับตำแหน่งสัมพัทธ์หรือสัมบูรณ์ของโทเค็นในลำดับเข้าไปในโมเดลทรานส์ฟอร์มเมอร์
 ---
-
 ## Definition
 
 เนื่องจากทรานส์ฟอร์มเมอร์ประมวลผลโทเค็นทั้งหมดแบบขนานแทนที่จะเป็นแบบเรียงลำดับเหมือน RNN โมเดลจึงขาดความรู้โดยกำเนิดเกี่ยวกับลำดับของโทเค็น การเข้ารหัสตำแหน่งจะเพิ่มเวกเตอร์เฉพาะลงในเอนเบดดิ้งของอินพุตเพื่อบอกให้โมเดลทราบถึงลำดับและตำแหน่งของข้อมูลเหล่านั้น

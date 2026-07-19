@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /no/terms/vision_language/
 date: "2026-07-18T15:39:20.139806Z"
 lastmod: "2026-07-18T16:38:06.964370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Visjonsspråkmodeller er AI-systemer som behandler og korrelerer visuelle data med tekstinformasjon for å forstå multimodale sammenhenger."
 ---
-
 ## Definition
 
 Visjonsspråkmodeller, ofte omtalt som multimodale store språkmodeller (MLLMs), integrerer datamaskinvisjon og naturlig språkbehandling. De muliggjør at AI forstår bilder og genererer tekst

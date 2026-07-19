@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /nl/terms/hallucination/
 date: "2026-07-18T15:22:56.815822Z"
 lastmod: "2026-07-18T17:15:08.679266Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Wanneer een AI-model zelfverzekerde maar feitelijk onjuiste of nonsensische informatie genereert."
 ---
-
 ## Definition
 
 Hallucinaties treden op wanneer generatieve AI-modellen output produceren die plausibel lijkt, maar geen grond heeft in de werkelijkheid of brondata. Dit is een aanzienlijke uitdaging in toepassingen die hoge nauwkeurigheid vereisen.

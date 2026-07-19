@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /he/terms/qwen3_5/
-date: "2026-07-18T16:21:25.131518Z"
-lastmod: "2026-07-18T17:15:09.578499Z"
+slug: qwen3_5
+date: '2026-07-18T16:21:25.131518Z'
+lastmod: '2026-07-18T17:15:09.578499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "Qwen3 5 ככל הנראה מתייחסת לתת-גרסה או וריאנט ספציפי בתוך הדור השלישי של סדרת המודלים Qwen."
+source: agnes_llm
+status: published
+language: he
+description: Qwen3 5 ככל הנראה מתייחסת לתת-גרסה או וריאנט ספציפי בתוך הדור השלישי
+  של סדרת המודלים Qwen.
 ---
-
 ## Definition
 
 Qwen3 5 נראה כמציין נקודת ביקורת (checkpoint), וריאנט גודל ספציפי או שחרור מיוחד בתוך הדור הרחב יותר של Qwen3. בעוד שהמפרט המדויק עשוי להשתנות, הוא בדרך כלל מרמז על התפתחות מהגרסאות הקודמות.

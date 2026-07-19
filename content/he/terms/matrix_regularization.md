@@ -1,23 +1,24 @@
 ---
-title: "רגולריזציה מטריציונית"
-term_id: "matrix_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "matrices"]
+title: רגולריזציה מטריציונית
+term_id: matrix_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- matrices
 difficulty: 3
 weight: 1
-slug: "matrix_regularization"
-aliases:
-  - /he/terms/matrix_regularization/
-date: "2026-07-18T16:11:52.229319Z"
-lastmod: "2026-07-18T17:15:09.563147Z"
+slug: matrix_regularization
+date: '2026-07-18T16:11:52.229319Z'
+lastmod: '2026-07-18T17:15:09.563147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה המיישמת איברי עונש על פרמטרים בעלי ערך מטריצה כדי למנוע התאמת יתר ולהכפות תכונות מבניות כמו דלילות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה המיישמת איברי עונש על פרמטרים בעלי ערך מטריצה כדי למנוע התאמת
+  יתר ולהכפות תכונות מבניות כמו דלילות.
 ---
-
 ## Definition
 
 רגולריזציה מטריציונית מרחיבה מושגי רגולריזציה סקלריים למטריצות, ולעיתים קרובות משמשת בלמידה רב-משימתית או במערכות המלצה. היא מפעילה אילוצים על הנורמה של מטריצות המשקולות, כגון ה

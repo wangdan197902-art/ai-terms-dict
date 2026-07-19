@@ -1,23 +1,26 @@
 ---
-title: "Đường ống LTX của Diffusers"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: Đường ống LTX của Diffusers
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /vi/terms/diffusersltxpipeline/
-date: "2026-07-18T15:49:28.655010Z"
-lastmod: "2026-07-18T16:38:07.749564Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:49:28.655010Z'
+lastmod: '2026-07-18T16:38:07.749564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một triển khai đường ống trong Differs được tối ưu hóa cho các mô hình LTX (Lightning Text-to-Video hoặc các mô hình tạo sinh tốc độ cao tương tự), tập trung vào suy luận nhanh chóng."
+source: agnes_llm
+status: published
+language: vi
+description: Một triển khai đường ống trong Differs được tối ưu hóa cho các mô hình
+  LTX (Lightning Text-to-Video hoặc các mô hình tạo sinh tốc độ cao tương tự), tập
+  trung vào suy luận nhanh chóng.
 ---
-
 ## Definition
 
 Đường ống LTX được điều chỉnh cho các mô hình ưu tiên tốc độ và hiệu quả trong các tác vụ tạo sinh, thường sử dụng các phương pháp lấy mẫu đã được nén hoặc tăng tốc. Nó tích hợp liền mạch với Diffusers.

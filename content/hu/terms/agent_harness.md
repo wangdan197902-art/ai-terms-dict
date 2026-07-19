@@ -1,23 +1,25 @@
 ---
-title: "Ügynök keretrendszer (Agent harness)"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Ügynök keretrendszer (Agent harness)
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /hu/terms/agent_harness/
-date: "2026-07-18T15:43:10.962261Z"
-lastmod: "2026-07-18T17:15:09.751913Z"
+slug: agent_harness
+date: '2026-07-18T15:43:10.962261Z'
+lastmod: '2026-07-18T17:15:09.751913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az ügynök keretrendszer egy olyan infrastruktúra réteg vagy keretrendszer, amely kezeli több AI ügynök életciklusát, kommunikációját és erőforrás-allokációját egy rendszeren belül."
+source: agnes_llm
+status: published
+language: hu
+description: Az ügynök keretrendszer egy olyan infrastruktúra réteg vagy keretrendszer,
+  amely kezeli több AI ügynök életciklusát, kommunikációját és erőforrás-allokációját
+  egy rendszeren belül.
 ---
-
 ## Definition
 
 Szolgálatko a többügynökös rendszerek gerincének, koordinációs, figyelő és ügynökök közötti együttműködést biztosító eszközökkel. A keretrendszer biztosítja, hogy az ügynökök zavarás nélkül, hatékonyan működhessenek...

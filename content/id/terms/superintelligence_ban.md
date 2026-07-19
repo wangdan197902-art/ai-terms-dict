@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /id/terms/superintelligence_ban/
 date: "2026-07-18T16:10:15.469861Z"
 lastmod: "2026-07-18T16:38:07.511467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Usulan langkah regulasi atau posisi etis yang menganjurkan pelarangan pengembangan kecerdasan buatan umum (AGI) yang melampaui kemampuan kognitif manusia."
 ---
-
 ## Definition
 
 Konsep ini merujuk pada debat dan potensi kebijakan mengenai pembatasan atau penghentian total penelitian terhadap Superkecerdasan Buatan (ASI). Para pendukung berargumen bahwa ASI menimbulkan risiko eksistensial

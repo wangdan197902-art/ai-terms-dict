@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /nl/terms/mixtral/
 date: "2026-07-18T16:07:12.898217Z"
 lastmod: "2026-07-18T17:15:08.768413Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een groot taalmodel met een Sparse Mixture of Experts (MoE)-architectuur van Mistral AI dat slechts een subset van parameters activeert per token."
 ---
-
 ## Definition
 
 Mixtral is een baanbrekend open groot taalmodel dat een Sparse Mixture of Experts (MoE)-architectuur gebruikt. In tegenstelling tot dichte modellen waarbij alle parameters voor elke token worden gebruikt, routeert Mixtral elke token door

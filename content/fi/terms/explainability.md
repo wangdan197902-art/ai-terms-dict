@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /fi/terms/explainability/
 date: "2026-07-18T15:36:04.965379Z"
 lastmod: "2026-07-18T17:15:09.369931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Selitettävyys viittaa siihen, missä määrin ihminen voi ymmärtää tekoälymallin tekemän päätöksen syyn."
 ---
-
 ## Definition
 
 Tämä käsite käsittelee monimutkaisten tekoälyjärjestelmien 'mustan laatikon' ongelmaa tarjoamalla oivalluksia siitä, miten mallit saavuttavat tiettyjä ennusteita. Tekniikat kuten SHAP tai LIME auttavat visualisoimaan ominaisuuksien merkitystä.

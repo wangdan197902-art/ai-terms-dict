@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /ko/terms/high_level/
 date: "2026-07-18T15:31:53.946081Z"
 lastmod: "2026-07-18T16:38:06.789421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "사용자에게 낮은 수준의 구현 세부 사항을 숨기고 추상화된 표현이나 프로그래밍 인터페이스를 지칭합니다."
 ---
-
 ## Definition
 
 AI에서 '고수준'은 복잡한 과정을 단순화하는 추상화를 의미합니다. 파이썬과 같은 고수준 언어나 API는 개발자가 메모리 관리나 하드웨어 세부 사항을 직접 제어하지 않고도 모델을 구축할 수 있게 해줍니다. 이는 개발 생산성을 높이고 접근성을 향상시키는 핵심 개념입니다.

@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /tr/terms/offline_learning/
 date: "2026-07-18T16:07:15.819206Z"
 lastmod: "2026-07-18T16:38:07.343059Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çevrimdışı öğrenme, modellerin öğrenme aşamasında canlı ortamla etkileşime girmeden, statik veri setleri üzerinde eğitildiği bir eğitim paradigmasıdır."
 ---
-
 ## Definition
 
 Toplu öğrenme olarak da bilinen çevrimdışı öğrenme, daha önce toplanmış sabit bir veri seti üzerinde makine öğrenimi modellerinin eğitilmesini içerir. Çevrimiçi öğrenmenin aksine, model parametrelerini gerçek zamanlı olarak güncellemez.

@@ -1,23 +1,23 @@
 ---
-title: "Temporalt"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Temporalt
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /no/terms/temporal/
-date: "2026-07-18T15:30:36.494450Z"
-lastmod: "2026-07-18T16:38:06.948126Z"
+slug: temporal
+date: '2026-07-18T15:30:36.494450Z'
+lastmod: '2026-07-18T16:38:06.948126Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Temporalt relaterer seg til tidsekvenser og fokuserer på hvordan data endrer seg eller avhengigheter utvikler seg over tid."
+source: agnes_llm
+status: published
+language: 'no'
+description: Temporalt relaterer seg til tidsekvenser og fokuserer på hvordan data
+  endrer seg eller avhengigheter utvikler seg over tid.
 ---
-
 ## Definition
 
 Temporale konsepter innen AI involverer analyse av datapunkter sortert etter tid, som aksjekurser, sensormålinger eller setninger i naturlig språk. Modeller som håndterer temporale data må ta hensyn til sekvensordnin

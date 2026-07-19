@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /cs/terms/grounding/
 date: "2026-07-18T16:00:28.580300Z"
 lastmod: "2026-07-18T17:15:09.136809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces propojení abstraktních výstupů AI s fakty ze skutečného světa, datovými zdroji nebo fyzickými kontexty, aby byla zajištěna přesnost a relevance."
 ---
-
 ## Definition
 
 V AI se zakotvení vztahuje k propojení symbolických reprezentací nebo generovaného textu s konkrétními entitami, daty nebo smyslovými zážitky ve skutečném světě. U jazykových modelů to často zahrnuje generování obohacené o retrieval (RAG).

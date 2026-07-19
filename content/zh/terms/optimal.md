@@ -1,23 +1,22 @@
 ---
-title: "最优"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: 最优
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /zh/terms/optimal/
-date: "2026-07-18T10:53:38.815318Z"
-lastmod: "2026-07-18T11:44:45.380491Z"
+slug: optimal
+date: '2026-07-18T10:53:38.815318Z'
+lastmod: '2026-07-18T11:44:45.380491Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "最优是指在给定约束条件下可能的最佳解决方案或行动，旨在最大化奖励或最小化成本。"
+source: agnes_llm
+status: published
+language: zh
+description: 最优是指在给定约束条件下可能的最佳解决方案或行动，旨在最大化奖励或最小化成本。
 ---
-
 ## Definition
 
 在人工智能和优化理论中，最优解是指达到最高可能性能指标的解决方案，例如强化学习中的最大奖励或回归分析中的最小误差。寻找最优解通常涉及在复杂的目标函数空间中进行搜索。

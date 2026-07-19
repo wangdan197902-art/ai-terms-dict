@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /ja/terms/agents/
 date: "2026-07-18T10:48:23.561043Z"
 lastmod: "2026-07-18T11:44:45.001951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "環境を認識し、特定の目標を達成するために行動する自律的な存在。"
 ---
-
 ## Definition
 
 AIエージェントは、センサー（入力）を通じて周囲を認識し、情報を処理し、定義された目標を達成するためにアクチュエータ（出力）を通じて行動を実行できるソフトウェアプログラムまたはシステムです。

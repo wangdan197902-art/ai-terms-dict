@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /hu/terms/argumentation_framework/
 date: "2026-07-18T15:44:13.527374Z"
 lastmod: "2026-07-18T17:15:09.753946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy formális szerkezet, amelyet az AI-rendszerekben versengő állítások vagy döntések közötti konfliktusok modellezésére és rendezésére használnak."
 ---
-
 ## Definition
 
 Az érvrendszerek matematikai alapot biztosítanak az érvényes érvek, azok megtámadása és védelme közötti kapcsolatok ábrázolásához. Az AI mérnökségben segítenek a rendszereknek átlátható, megalapozott döntéseket hozni azáltal, hogy...

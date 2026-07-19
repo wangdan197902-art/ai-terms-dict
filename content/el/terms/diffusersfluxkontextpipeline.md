@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /el/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T16:02:41.897530Z"
 lastmod: "2026-07-18T17:15:09.901275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένα εξειδικευμένο pipeline στη βιβλιοθήκη Diffusers σχεδιασμένο για μοντέλα Flux, επιτρέποντας δημιουργία εικόνας με επίγνωση του πλαισίου και ενισχυμένη χρονική ή χωρική συνοχή."
 ---
-
 ## Definition
 
 Αυτό το pipeline αξιοποιεί την αρχιτεκτονική Flux, γνωστή για την υψηλής ποιότητας σύνθεση εικόνας, μέσα στο πλαίσιο Diffusers. Υποστηρίζει μηχανισμούς πλαισίου που επιτρέπουν στο μοντέλο να λαμβάνει υπόψη περιβάλλοντα στοιχεία.

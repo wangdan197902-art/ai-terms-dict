@@ -1,23 +1,24 @@
 ---
-title: "Bilgi Tabanı"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Bilgi Tabanı
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /tr/terms/knowledge_base/
-date: "2026-07-18T15:35:51.205788Z"
-lastmod: "2026-07-18T16:38:07.259226Z"
+slug: knowledge_base
+date: '2026-07-18T15:35:51.205788Z'
+lastmod: '2026-07-18T16:38:07.259226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "AI uygulamalarında karar vermeyi ve çıkarım destekli üretimi (RAG) desteklemek için kullanılan yapılandırılmış bilgilerin merkezi bir deposu."
+source: agnes_llm
+status: published
+language: tr
+description: AI uygulamalarında karar vermeyi ve çıkarım destekli üretimi (RAG) desteklemek
+  için kullanılan yapılandırılmış bilgilerin merkezi bir deposu.
 ---
-
 ## Definition
 
 Bir bilgi tabanı, AI sistemlerinin doğru ve bağlama duyarlı yanıtlar sunmak için sorgulayabileceği, özenle hazırlanmış veri, belge veya gerçekleri içeren dijital bir kütüphanedir. Çıkarım Destekli Üretim (Retrieval-Augmented Generation) gibi modern mimarilerde,

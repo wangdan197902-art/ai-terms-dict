@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /tr/terms/memory/
 date: "2026-07-18T15:36:23.121073Z"
 lastmod: "2026-07-18T16:38:07.260167Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka sisteminin etkileşimler boyunca bilgiyi depolama, geri çağırma ve kullanma yeteneği; bu sayede bağlam korunur ve zamanla performans artar."
 ---
-
 ## Definition
 
 Yapay zekada bellek, modellerin tek bir çıkarım adımının ötesinde bilgiyi korumasını sağlayan mekanizmaları ifade eder. Bu, kısa vadeli çalışma belleğini (anlık bağlam için) ve uzun vadeli hafızayı (tarihsel veri veya kalıcı öğrenme için) içerir. Modern dil modellerinde bellek genellikle vektör veritabanları, bağlam pencereleri ve hafıza yönetim katmanları aracılığıyla uygulanır.

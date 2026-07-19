@@ -1,23 +1,24 @@
 ---
-title: "Generasi Teks"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: Generasi Teks
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /id/terms/text_generation/
-date: "2026-07-18T16:10:57.452174Z"
-lastmod: "2026-07-18T16:38:07.514135Z"
+slug: text_generation
+date: '2026-07-18T16:10:57.452174Z'
+lastmod: '2026-07-18T16:38:07.514135Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kemampuan AI di mana model menghasilkan urutan teks mirip manusia secara bertahap berdasarkan prompt atau konteks yang diberikan."
+source: agnes_llm
+status: published
+language: id
+description: Kemampuan AI di mana model menghasilkan urutan teks mirip manusia secara
+  bertahap berdasarkan prompt atau konteks yang diberikan.
 ---
-
 ## Definition
 
 Generasi Teks adalah paradigma aplikasi fundamental dalam pemrosesan bahasa alami di mana model kecerdasan buatan membuat konten tekstual baru. Dengan memprediksi token berikutnya yang paling mungkin dalam suatu urutan, model ini mampu menyusun kalimat, paragraf, atau dokumen yang koheren.

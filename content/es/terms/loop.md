@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /es/terms/loop/
 date: "2026-07-18T10:24:25.267778Z"
 lastmod: "2026-07-18T11:44:44.744694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una estructura de programación que repite un bloque de código varias veces hasta que se cumple una condición."
 ---
-
 ## Definition
 
 Una estructura fundamental de flujo de control en ciencias de la computación y desarrollo de IA; un bucle permite a los algoritmos iterar a través de conjuntos de datos, realizar cálculos repetidos o ejecutar épocas de entrenamiento. Los tipos comunes incluyen

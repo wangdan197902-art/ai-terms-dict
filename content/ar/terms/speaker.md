@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /ar/terms/speaker/
 date: "2026-07-18T16:21:44.120612Z"
 lastmod: "2026-07-18T17:15:08.549970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "فرد ينتج أصواتاً صوتية أو كلاماً ضمن إشارة صوتية."
 ---
-
 ## Definition
 
 في معالجة الكلام، يُعرف المتحدث بأنه مصدر صوت بشري مميز داخل تسجيل صوتي. يعد تحديد المتحدثين وتمييزهم أمراً أساسياً لتحليل المحادثات وضمان الأمن.

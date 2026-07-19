@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /nl/terms/feedback/
 date: "2026-07-18T15:26:04.901361Z"
 lastmod: "2026-07-18T17:15:08.684548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Feedback houdt in dat uitvoerresultaten worden gebruikt om de prestaties van een AI-model of -systeem iteratief aan te passen en te verbeteren."
 ---
-
 ## Definition
 
 Feedbackmechanismen stellen AI-systemen in staat om te leren van hun interacties met gebruikers of omgevingen, waardoor toekomstige voorspellingen of acties worden verfijnd. Dit omvat signaalgebruik in reinforcement learning en 'human-in-the-loop'-processen.

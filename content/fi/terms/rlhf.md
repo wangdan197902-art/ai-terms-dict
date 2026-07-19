@@ -1,23 +1,23 @@
 ---
-title: "Ihmispalautteeseen perustuva vahvistusoppiminen"
-term_id: "rlhf"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "fine_tuning"]
+title: Ihmispalautteeseen perustuva vahvistusoppiminen
+term_id: rlhf
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Fine-Tuning
 difficulty: 5
 weight: 1
-slug: "rlhf"
-aliases:
-  - /fi/terms/rlhf/
-date: "2026-07-18T15:30:29.681893Z"
-lastmod: "2026-07-18T17:15:09.358182Z"
+slug: rlhf
+date: '2026-07-18T15:30:29.681893Z'
+lastmod: '2026-07-18T17:15:09.358182Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "RLHF on tekniikka, joka sovittaa tekoälymallit ihmisten mieltymysten mukaisiksi käyttämällä ihmispalautetta vahvistusoppimisen palkkamallin kouluttamiseen."
+source: agnes_llm
+status: published
+language: fi
+description: RLHF on tekniikka, joka sovittaa tekoälymallit ihmisten mieltymysten
+  mukaisiksi käyttämällä ihmispalautetta vahvistusoppimisen palkkamallin kouluttamiseen.
 ---
-
 ## Definition
 
 Ihmispalautteeseen perustuva vahvistusoppiminen (RLHF) on menetelmä, jota käytetään suurten kielimallien hienosäätöön, jotta mallin tuotokset vastaavat paremmin ihmisten arvoja ja odotuksia. Se koostuu tyypillisesti kolmesta vaiheesta: supervoitu hienosäätö, palkkamallin koulutus ja RLHF-vaihe.

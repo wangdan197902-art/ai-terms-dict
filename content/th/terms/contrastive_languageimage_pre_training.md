@@ -1,23 +1,23 @@
 ---
-title: "การฝึกฝนล่วงหน้าแบบคอนทราสต์ระหว่างภาษาและภาพ"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: การฝึกฝนล่วงหน้าแบบคอนทราสต์ระหว่างภาษาและภาพ
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /th/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:46:48.703157Z"
-lastmod: "2026-07-18T16:38:07.589564Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:46:48.703157Z'
+lastmod: '2026-07-18T16:38:07.589564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการฝึกฝนล่วงหน้าหลายรูปแบบ (Multimodal) ที่จัดตำแหน่งการแสดงภาพและข้อความโดยใช้ฟังก์ชันการสูญเสียแบบคอนทราสต์"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการฝึกฝนล่วงหน้าหลายรูปแบบ (Multimodal) ที่จัดตำแหน่งการแสดงภาพและข้อความโดยใช้ฟังก์ชันการสูญเสียแบบคอนทราสต์
 ---
-
 ## Definition
 
 การฝึกฝนล่วงหน้าแบบคอนทราสต์ระหว่างภาษาและภาพ (Contrastive Language–Image Pre-training หรือ CLIP) เป็นสถาปัตยกรรมเครือข่ายประสาทเทียมที่ฝึกฝนด้วยรูปภาพและคำบรรยายที่เกี่ยวข้องกันจากอินเทอร์เน็ต มันใช้วัตถุประสงค์แบบคอนทราสต์เพื่อเพิ่มความคล้ายคลึงกันระหว่างคู่ภาพและข้อความที่ตรงกัน ในขณะที่ลดความคล้ายคลึงกันระหว่างคู่ที่ไม่ตรงกัน ทำให้โมเดลเข้าใจความสัมพันธ์ระหว่างสองโหมดข้อมูลนี้ได้ดียิ่งขึ้น

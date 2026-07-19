@@ -1,23 +1,24 @@
 ---
-title: "Gödel-gép"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Gödel-gép
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /hu/terms/gödel_machine/
-date: "2026-07-18T16:03:06.065638Z"
-lastmod: "2026-07-18T17:15:09.791628Z"
+slug: gödel_machine
+date: '2026-07-18T16:03:06.065638Z'
+lastmod: '2026-07-18T17:15:09.791628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy elméleti, önmagát fejlesztő AI-program, amely képes átírni saját forráskódját a hatékonyság növelése érdekében, célok módosítása nélkül."
+source: agnes_llm
+status: published
+language: hu
+description: Egy elméleti, önmagát fejlesztő AI-program, amely képes átírni saját
+  forráskódját a hatékonyság növelése érdekében, célok módosítása nélkül.
 ---
-
 ## Definition
 
 A Gödel-gép egy hipotetikus univerzális problémamegoldó rendszer, amelyet Jürgen Schmidhuber javasolt, formális logikán és számíthatóságtanon alapulva. A gép folyamatosan elemzi saját forráskódját, és ha matematikailag bizonyítható módon gyorsabb vagy hatékonyabb verziót talál, akkor átírja magát. Ez az önmódosítás azonban csak akkor történik meg, ha garantáltan nem változtatja meg a gép eredeti célját vagy haszonfüggvényét, így elkerülve a célirányultság elvesztését.

@@ -1,23 +1,25 @@
 ---
-title: "Aktiveringsfunktion"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Aktiveringsfunktion
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /da/terms/activation_function/
-date: "2026-07-18T15:33:36.993422Z"
-lastmod: "2026-07-18T17:15:09.241930Z"
+slug: activation_function
+date: '2026-07-18T15:33:36.993422Z'
+lastmod: '2026-07-18T17:15:09.241930Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En matematisk ligning, der bestemmer outputtet fra en neuronal netværksnode baseret på dens inputsignal."
+source: agnes_llm
+status: published
+language: da
+description: En matematisk ligning, der bestemmer outputtet fra en neuronal netværksnode
+  baseret på dens inputsignal.
 ---
-
 ## Definition
 
 En aktiveringsfunktion introducerer ikke-linearitet i et neuralt netværk, hvilket gør det muligt at lære komplekse mønstre og sammenhænge i data. Uden disse funktioner ville et flerlagsnetværk opføre sig...

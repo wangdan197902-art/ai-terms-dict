@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /fr/terms/neural_modeling_fields/
 date: "2026-07-18T11:31:22.010767Z"
 lastmod: "2026-07-18T11:44:45.301159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre théorique décrivant l'organisation spatiale et fonctionnelle des motifs d'activité neuronale."
 ---
-
 ## Definition
 
 Les champs de modélisation neuronale impliquent l'étude de l'auto-organisation des populations neuronales dans des espaces de haute dimension pour représenter l'information. Ce concept est souvent lié aux mappages topologiques et à la théorie des champs.

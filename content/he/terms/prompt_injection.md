@@ -1,23 +1,24 @@
 ---
-title: "הזרקת הנחיה"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: הזרקת הנחיה
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /he/terms/prompt_injection/
-date: "2026-07-18T15:37:58.967368Z"
-lastmod: "2026-07-18T17:15:09.502802Z"
+slug: prompt_injection
+date: '2026-07-18T15:37:58.967368Z'
+lastmod: '2026-07-18T17:15:09.502802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתקפה אדוורסריאלית שבה קלטים זדוניים משנים את התנהגות מודל AI כדי לעקוף מסנני בטיחות או לבצע פקודות לא מתוכננות."
+source: agnes_llm
+status: published
+language: he
+description: מתקפה אדוורסריאלית שבה קלטים זדוניים משנים את התנהגות מודל AI כדי לעקוף
+  מסנני בטיחות או לבצע פקודות לא מתוכננות.
 ---
-
 ## Definition
 
 הזרקת הנחיה מנצלת את הדרך שבה מודלי שפה גדולים מפרשים הוראות משתמש, על ידי הטמעת הנחיות נסתרות או סותרות בתוך טקסט הקלט. פעולה זו עשויה לגרום למודל להתעלם מההנחיות המקוריות שלו.

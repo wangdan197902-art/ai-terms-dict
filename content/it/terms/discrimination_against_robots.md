@@ -1,23 +1,26 @@
 ---
-title: "Discriminazione contro i robot"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Discriminazione contro i robot
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /it/terms/discrimination_against_robots/
-date: "2026-07-18T15:57:04.558104Z"
-lastmod: "2026-07-18T17:15:08.620445Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:57:04.558104Z'
+lastmod: '2026-07-18T17:15:08.620445Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il concetto etico e legale che si riferisce al trattamento distorto o al pregiudizio diretto verso agenti artificiali o sistemi autonomi, spesso derivante da proiezioni antropomorfe o sfiducia funzion"
+source: agnes_llm
+status: published
+language: it
+description: Il concetto etico e legale che si riferisce al trattamento distorto o
+  al pregiudizio diretto verso agenti artificiali o sistemi autonomi, spesso derivante
+  da proiezioni antropomorfe o sfiducia funzion
 ---
-
 ## Definition
 
 La discriminazione contro i robot è un concetto etico e sociologico emergente che esamina come gli esseri umani potrebbero trattare ingiustamente, diffidare o attribuire caratteristiche negative agli agenti artificiali basandosi sulla loro natura non umana o su pregiudizi inconsci.

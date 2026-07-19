@@ -1,23 +1,24 @@
 ---
-title: "סיכום טקסט"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: סיכום טקסט
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /he/terms/summarization/
-date: "2026-07-18T15:38:47.796194Z"
-lastmod: "2026-07-18T17:15:09.504653Z"
+slug: summarization
+date: '2026-07-18T15:38:47.796194Z'
+lastmod: '2026-07-18T17:15:09.504653Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משימה בעיבוד שפה טבעית (NLP) היוצרת סיכום תמציתי ועקבי של טקסט ארוך יותר תוך שמירה על המידע המרכזי."
+source: agnes_llm
+status: published
+language: he
+description: משימה בעיבוד שפה טבעית (NLP) היוצרת סיכום תמציתי ועקבי של טקסט ארוך יותר
+  תוך שמירה על המידע המרכזי.
 ---
-
 ## Definition
 
 סיכום טקסט מצמצם כמויות גדולות של טקסט לגרסאות קצרות יותר ללא אובדן המשמעות הקריטית. הוא יכול להיות חוצץ (extractive), הבוחר משפטים חשובים מהמקור, או אבסטרקטי (abstractive), היוצר תוכן חדש.

@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /ko/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:53:50.594633Z"
 lastmod: "2026-07-18T16:38:06.834742Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "정보 업데이트나 사건으로 인해 행위자들의 지식 상태가 변화하는 것을 추론하기 위한 형식적 프레임워크."
 ---
-
 ## Definition
 
 동적 인식론 논리(DEL)는 모달 논리를 확장하여 행위자들이 새로운 정보를 받을 때 지식이 어떻게 진화하는지를 모델링합니다. 이는 공개 통신이나 비공개 메시지 등 다양한 정보 전달 사건으로 인해 신념이 변경되는 다중 행위자 시스템을 분석하는 도구를 제공합니다.

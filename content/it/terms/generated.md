@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /it/terms/generated/
 date: "2026-07-18T15:25:18.137055Z"
 lastmod: "2026-07-18T17:15:08.566726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Contenuto creato da un modello di IA anziché recuperato direttamente da un dataset statico."
 ---
-
 ## Definition
 
 Il termine 'generato' descrive l'output prodotto dai modelli di IA generativa, come testo, immagini, audio o codice. A differenza dei sistemi basati sul recupero che cercano dati esistenti, i modelli generativi sintetizzano nuovo

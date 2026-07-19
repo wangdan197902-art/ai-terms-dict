@@ -1,23 +1,24 @@
 ---
-title: "basato sulla diffusione"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: basato sulla diffusione
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /it/terms/diffusion_based/
-date: "2026-07-18T15:31:21.670173Z"
-lastmod: "2026-07-18T17:15:08.578901Z"
+slug: diffusion_based
+date: '2026-07-18T15:31:21.670173Z'
+lastmod: '2026-07-18T17:15:08.578901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un approccio alla modellazione generativa che crea dati invertendo un processo graduale di aggiunta di rumore attraverso passaggi di denoising appresi."
+source: agnes_llm
+status: published
+language: it
+description: Un approccio alla modellazione generativa che crea dati invertendo un
+  processo graduale di aggiunta di rumore attraverso passaggi di denoising appresi.
 ---
-
 ## Definition
 
 I modelli basati sulla diffusione sono una classe di IA generativa che crea nuovi campioni di dati rimuovendo iterativamente il rumore da una distribuzione casuale. Il processo inizia con una fase forward che aggiunge lentamente Gaus

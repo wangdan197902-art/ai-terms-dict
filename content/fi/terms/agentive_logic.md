@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /fi/terms/agentive_logic/
 date: "2026-07-18T15:41:36.937146Z"
 lastmod: "2026-07-18T17:15:09.381385Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Agentti-logiikka viittaa muodollisiin päättelykehyksiin, joita käytetään mallintamaan autonomisten agenttien aikomuksia, tavoitteita ja päätöksentekoprosesseja."
 ---
-
 ## Definition
 
 Se laajentaa perinteistä logiikkaa huomioiden agenssin, mahdollistaen järjestelmien esittää uskomuksia, haluja ja aikomuksia (BDI-mallit). Tämä logiikka mahdollistaa agenttien suunnitella toimia dynaamisesti muuttuvien...

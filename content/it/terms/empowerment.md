@@ -1,23 +1,24 @@
 ---
-title: "Potenziamento (Empowerment)"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Potenziamento (Empowerment)
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /it/terms/empowerment/
-date: "2026-07-18T15:58:14.402890Z"
-lastmod: "2026-07-18T17:15:08.623023Z"
+slug: empowerment
+date: '2026-07-18T15:58:14.402890Z'
+lastmod: '2026-07-18T17:15:08.623023Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un obiettivo di reinforcement learning che misura la capacità di un agente di influenzare gli stati futuri attraverso le proprie azioni."
+source: agnes_llm
+status: published
+language: it
+description: Un obiettivo di reinforcement learning che misura la capacità di un agente
+  di influenzare gli stati futuri attraverso le proprie azioni.
 ---
-
 ## Definition
 
 Nel reinforcement learning e nell'intelligenza artificiale, il potenziamento (empowerment) è una metrica di motivazione intrinseca che quantifica la quantità di controllo che un agente ha sul proprio ambiente. È definito come l'informazione

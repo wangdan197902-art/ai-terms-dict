@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /hu/terms/mechanistic_interpretability/
 date: "2026-07-18T16:12:38.059356Z"
 lastmod: "2026-07-18T17:15:09.811623Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy megközelítés az AI-modellek megértésére, amely a belső komponensek és mechanizmusok elemzésére fókuszál, nemcsak a bemenet-kimenet viselkedésen keresztül."
 ---
-
 ## Definition
 
 A mechanisztikus értelmezhetőség a neurális hálózatok visszamenőleges mérnöki elemzésére összpontosít annak megértése érdekében, hogyan számolnak ki specifikus funkciókat az egyes neuronok, súlyok és áramkörök szintjén. Ehelyett azt kezelik...

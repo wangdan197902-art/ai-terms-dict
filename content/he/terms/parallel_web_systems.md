@@ -1,23 +1,24 @@
 ---
-title: "מערכות אינטרנט מקבילות"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: מערכות אינטרנט מקבילות
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /he/terms/parallel_web_systems/
-date: "2026-07-18T16:16:19.817120Z"
-lastmod: "2026-07-18T17:15:09.572074Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:16:19.817120Z'
+lastmod: '2026-07-18T17:15:09.572074Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ארכיטקטורות חישוב מבוזרות המנצלות עיבוד מקביל על פני צמתים מרובים כדי לטפל בעומסי עבודה בקנה מידה אינטרנטי ביעילות."
+source: agnes_llm
+status: published
+language: he
+description: ארכיטקטורות חישוב מבוזרות המנצלות עיבוד מקביל על פני צמתים מרובים כדי
+  לטפל בעומסי עבודה בקנה מידה אינטרנטי ביעילות.
 ---
-
 ## Definition
 
 מערכות אינטרנט מקבילות מתייחסות לעיצובי תשתית שבהם משימות חישוביות מתחלקות ומתבצעות בו זמנית על גבי מספר שרתים או מעבדים המחוברים זה לזה באמצעות רשת. גישה זו מאפשרת סקאלביליות גבוהה ועמידות בתקלות.

@@ -1,23 +1,23 @@
 ---
-title: "通义千问代码版"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: 通义千问代码版
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /zh/terms/qwen_coder/
-date: "2026-07-18T11:31:25.159488Z"
-lastmod: "2026-07-18T11:44:45.548315Z"
+slug: qwen_coder
+date: '2026-07-18T11:31:25.159488Z'
+lastmod: '2026-07-18T11:44:45.548315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "通义千问代码版（Qwen Coder）是专为软件开发和编码任务优化的通义千问模型变体。"
+source: agnes_llm
+status: published
+language: zh
+description: 通义千问代码版（Qwen Coder）是专为软件开发和编码任务优化的通义千问模型变体。
 ---
-
 ## Definition
 
 通义千问代码版是通义千问大语言模型的专用版本，经过专门微调以处理编程相关活动。它在代码生成、调试、理解复杂代码库以及将自然语言转换为可执行代码方面表现出色。

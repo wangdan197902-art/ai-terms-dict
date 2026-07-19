@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /ar/terms/multilingual/
 date: "2026-07-18T16:13:48.393991Z"
 lastmod: "2026-07-18T17:15:08.530672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يشير مصطلح متعدد اللغات في الذكاء الاصطناعي إلى النماذج القادرة على معالجة أو فهم أو توليد محتوى بلغات طبيعية متعددة."
 ---
-
 ## Definition
 
 صُممت النماذج متعددة اللغات للتعامل مع مدخلات لغوية متنوعة دون الحاجة إلى نماذج منفصلة لكل لغة. وعادةً ما تستخدم هذه الأنظمة تضمينات مشتركة أو محاذاة عبر اللغات

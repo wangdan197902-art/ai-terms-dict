@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /fi/terms/artificial_wisdom/
 date: "2026-07-18T15:43:25.622611Z"
 lastmod: "2026-07-18T17:15:09.384998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyn laajennus älykkyyden lisäksi sisältäen harkintakyvyn, etiikan ja kontekstuaalisen ymmärryksen perusteellista päätöksentekoa varten."
 ---
-
 ## Definition
 
 Tekoviisaus (AW) on nouseva käsite, joka pyrkii täydentämään tekoälyä inhimillisillä arvoilla, eettisellä harkinnalla ja pitkän aikavälin strategisella näkyvyydellä. Kun tekoäly keskittyy usein tehokkuuteen ja dataan perustuvaan optimointiin, tekoviisaus korostaa moraalisia arvoja, kestävyyttä ja päätösten yhteiskunnallisia seurauksia varmistaakseen vastuullisen teknologian käytön.

@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /es/terms/agents/
 date: "2026-07-18T10:20:56.214955Z"
 lastmod: "2026-07-18T11:44:44.735702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Entidades autónomas que perciben su entorno y realizan acciones para alcanzar objetivos específicos."
 ---
-
 ## Definition
 
 Los agentes de IA son programas de software o sistemas capaces de percibir su entorno a través de sensores (entradas), procesar información y ejecutar acciones mediante actuadores (salidas) para lograr objetivos definidos

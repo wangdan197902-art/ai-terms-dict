@@ -1,23 +1,25 @@
 ---
-title: "Slopaganda"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopaganda
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /cs/terms/slopaganda/
-date: "2026-07-18T16:17:33.121033Z"
-lastmod: "2026-07-18T17:15:09.200988Z"
+slug: slopaganda
+date: '2026-07-18T16:17:33.121033Z'
+lastmod: '2026-07-18T17:15:09.200988Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Portmanteau slov 'slow' (pomalý) a 'propaganda', označující kampaně dezinformací zaměřené na erozi důvěry prostřednictvím dlouhodobého, jemného ovlivňování."
+source: agnes_llm
+status: published
+language: cs
+description: Portmanteau slov 'slow' (pomalý) a 'propaganda', označující kampaně dezinformací
+  zaměřené na erozi důvěry prostřednictvím dlouhodobého, jemného ovlivňování.
 ---
-
 ## Definition
 
 Slopaganda popisuje strategickou formu dezinformací, která spoléhá na opakování, nejednoznačnost a dlouhodobou expozici spíše než na virální šokové taktiky. Cílem je zmást publikum, zředit pravdu a podkopat...

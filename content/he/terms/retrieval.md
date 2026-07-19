@@ -1,23 +1,24 @@
 ---
-title: "שליפה"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: שליפה
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /he/terms/retrieval/
-date: "2026-07-18T15:38:30.677500Z"
-lastmod: "2026-07-18T17:15:09.504066Z"
+slug: retrieval
+date: '2026-07-18T15:38:30.677500Z'
+lastmod: '2026-07-18T17:15:09.504066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך משיכת נתונים רלוונטיים ממאגר נתונים או בסיס ידע להעשרת קלטים של המודל."
+source: agnes_llm
+status: published
+language: he
+description: תהליך משיכת נתונים רלוונטיים ממאגר נתונים או בסיס ידע להעשרת קלטים של
+  המודל.
 ---
-
 ## Definition
 
 שליפה מתייחסת לתהליך הטכני של חיץ וחילוץ מידע ספציפי ממאגרי נתונים גדולים או בסיסי ידע חיצוניים בהתבסס על שאילתות משתמש או הקשר. במערכות בינה מלאכותית מודרניות, היא משמשת לעיתים קרובות בשילוב עם מודלים שפה גדולים (LLMs) כדי לספק מידע עדכני ומדויק.

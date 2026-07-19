@@ -7,8 +7,6 @@ tags: ["tooling", "sql", "automation"]
 difficulty: 2
 weight: 1
 slug: "mindsdb"
-aliases:
-  - /es/terms/mindsdb/
 date: "2026-07-18T10:59:47.957557Z"
 lastmod: "2026-07-18T11:44:44.832010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "MindsDB es una plataforma de código abierto que permite a los desarrolladores construir, entrenar e implementar modelos de aprendizaje automático directamente dentro de sus bases de datos existentes u"
 ---
-
 ## Definition
 
 MindsDB actúa como un puente entre las bases de datos relacionales tradicionales y los flujos de trabajo modernos de aprendizaje automático. Permite a los usuarios crear modelos predictivos utilizando consultas SQL estándar, eliminando la necesidad de mover datos fuera del entorno de la base de datos.

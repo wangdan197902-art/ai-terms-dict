@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /it/terms/outline_of_machine_learning/
 date: "2026-07-18T16:13:37.411743Z"
 lastmod: "2026-07-18T17:15:08.655836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una classificazione completa dei paradigmi, degli algoritmi e delle metriche di valutazione del machine learning."
 ---
-
 ## Definition
 
 Questo termine descrive la classificazione strutturale del machine learning in apprendimento supervisionato, non supervisionato, semi-supervisionato e per rinforzo. Include famiglie di algoritmi fondamentali come la regressione lineare...

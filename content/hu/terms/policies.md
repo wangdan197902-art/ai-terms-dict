@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /hu/terms/policies/
 date: "2026-07-18T15:30:09.867615Z"
 lastmod: "2026-07-18T17:15:09.726653Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az irányelvek, szabályok vagy protokollok összessége, amelyeket egy szervezet a viselkedés, a döntéshozatal és az üzleti folyamatok szabványainak irányítására állít fel."
 ---
-
 ## Definition
 
 Mesterséges intelligencia és technológiai kormányzás kontextusában a szabályzatok olyan formális keretrendszereket jelentenek, amelyek meghatározzák, hogyan kell az MI rendszereket kifejleszteni, üzembe helyezni és felügyelni. Ezek a dokumentumok...

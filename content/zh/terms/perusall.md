@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /zh/terms/perusall/
 date: "2026-07-18T11:29:53.130845Z"
 lastmod: "2026-07-18T11:44:45.542408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个由AI驱动的社会化学习平台，自动对学生在数字文本上的注释和讨论进行评分。"
 ---
-
 ## Definition
 
 Perusall是一个利用人工智能促进协作式阅读和注释的教育技术平台。它根据学生参与的质量自动对其参与度进行评分，从而简化教师的工作并提高学生的学习投入度。

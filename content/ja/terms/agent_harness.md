@@ -1,23 +1,23 @@
 ---
-title: "エージェントハーネス"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: エージェントハーネス
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /ja/terms/agent_harness/
-date: "2026-07-18T11:03:14.014658Z"
-lastmod: "2026-07-18T11:44:45.064242Z"
+slug: agent_harness
+date: '2026-07-18T11:03:14.014658Z'
+lastmod: '2026-07-18T11:44:45.064242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "エージェントハーネスとは、システム内の複数のAIエージェントのライフサイクル、通信、リソース割り当てを管理するフレームワークまたはインフラストラクチャ層です。"
+source: agnes_llm
+status: published
+language: ja
+description: エージェントハーネスとは、システム内の複数のAIエージェントのライフサイクル、通信、リソース割り当てを管理するフレームワークまたはインフラストラクチャ層です。
 ---
-
 ## Definition
 
 それはマルチエージェントシステムの背骨として機能し、オーケストレーション、モニタリング、エージェント間協調のためのツールを提供します。ハーネスは、エージェントが干渉することなく効率的に操作できることを保証します。

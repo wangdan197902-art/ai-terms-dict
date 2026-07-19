@@ -1,23 +1,24 @@
 ---
-title: "Adathalmaz: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 'Adathalmaz: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /hu/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:53:09.344898Z"
-lastmod: "2026-07-18T17:15:09.768587Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:53:09.344898Z'
+lastmod: '2026-07-18T17:15:09.768587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Stack adathalmaz deduplikált változata, amelyet a BigCode csapat állított össze a majdnem azonos kódrészletek eltávolításával a tisztább tanítási adatok érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: A Stack adathalmaz deduplikált változata, amelyet a BigCode csapat állított
+  össze a majdnem azonos kódrészletek eltávolításával a tisztább tanítási adatok érdekében.
 ---
-
 ## Definition
 
 A Stack Dedup a Stack hatalmas nyílt forráskódú adattárának egy specializált részhalmaza. Szigorú deduplikációs technikákat alkalmaz a redundáns kódrészletek kiküszöbölésére, amelyek torzíthatnák a nagy nyelvi modellek (LLM) tanítását.

@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /ro/terms/cognitive_philology/
 date: "2026-07-18T15:49:33.326721Z"
 lastmod: "2026-07-18T17:15:09.637036Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Filologia cognitivă aplică metode computaționale și principii ale științelor cognitive la studiul limbajului, literaturii și istoriei textuale."
 ---
-
 ## Definition
 
 Filologia cognitivă este un domeniu interdisciplinar care combină umanitățile digitale, lingvistica și științele cognitive pentru a analiza textele și evoluția limbajului. Aceasta utilizează instrumente computaționale pentru a procesa volume mari de date textuale.

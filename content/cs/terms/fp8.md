@@ -1,23 +1,24 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /cs/terms/fp8/
-date: "2026-07-18T15:58:14.475063Z"
-lastmod: "2026-07-18T17:15:09.131492Z"
+slug: fp8
+date: '2026-07-18T15:58:14.475063Z'
+lastmod: '2026-07-18T17:15:09.131492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "FP8 je formát plovoucí řádu s 8 bity navržený pro zrychlení tréninku a inferenčních procesů hlubokého učení při zachování přijatelné úrovně přesnosti."
+source: agnes_llm
+status: published
+language: cs
+description: FP8 je formát plovoucí řádu s 8 bity navržený pro zrychlení tréninku
+  a inferenčních procesů hlubokého učení při zachování přijatelné úrovně přesnosti.
 ---
-
 ## Definition
 
 Float Point 8 (FP8) je číselný datový typ, který nabízí rovnováhu mezi výpočetní účinností a přesností, specificky optimalizovaný pro moderní hardwarové platformy AI. Snižuje nároky na šířku pásma paměti a spotřebu energie, což umožňuje rychlejší zpracování velkých modelů, zejména při tréninku velkých jazykových modelů a inferenci na okrajových zařízeních.

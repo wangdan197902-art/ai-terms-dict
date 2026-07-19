@@ -1,23 +1,24 @@
 ---
-title: "Approximation de la fitness"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Approximation de la fitness
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /fr/terms/fitness_approximation/
-date: "2026-07-18T11:17:20.089538Z"
-lastmod: "2026-07-18T11:44:45.251923Z"
+slug: fitness_approximation
+date: '2026-07-18T11:17:20.089538Z'
+lastmod: '2026-07-18T11:44:45.251923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique dans les algorithmes évolutionnaires qui estime la qualité des solutions pour réduire les coûts informatiques lors de l'optimisation."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique dans les algorithmes évolutionnaires qui estime la qualité
+  des solutions pour réduire les coûts informatiques lors de l'optimisation.
 ---
-
 ## Definition
 
 L'approximation de la fitness est utilisée dans le calcul évolutionnaire lorsque l'évaluation de la fonction de fitness réelle est coûteuse ou longue en termes de calcul. Au lieu de calculer la valeur exacte, des modèles substituts sont employés.

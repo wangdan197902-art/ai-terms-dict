@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /hu/terms/knowledge_integration/
 date: "2026-07-18T16:08:23.965064Z"
 lastmod: "2026-07-18T17:15:09.799904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A heterogén tudásforrások egyesítése egy egységes, konzisztens reprezentációba a fokozott következtetés érdekében."
 ---
-
 ## Definition
 
 A tudásintegráció magában foglalja az adatok egyesítését különböző forrásokból, például adatbázisokból, ontológiákból és nem strukturált szövegekből, egy koherens séma létrehozása érdekében. Kezeli a szemantikai heterogenitás és inkonzisztencia problémáit.

@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /hu/terms/mistral_common/
 date: "2026-07-18T16:13:07.174812Z"
 lastmod: "2026-07-18T17:15:09.812987Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy megosztott könyvtár, amely tokenizálást és segédprogram-funkciókat biztosít a különböző Mistral AI modellváltozatokkal való kompatibilitáshoz."
 ---
-
 ## Definition
 
 A Mistral Common egy Python csomag, amelyet a Mistral AI karbantart, és szabványosított eszközöket kínál a modelljeikkel való interakcióhoz. Elsősorban a tokenizer implementációját biztosítja, amely szükséges a szöveg...

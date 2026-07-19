@@ -1,23 +1,24 @@
 ---
-title: "Model Tas-Kata"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Model Tas-Kata
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /id/terms/bag_of_words_model/
-date: "2026-07-18T15:40:24.312999Z"
-lastmod: "2026-07-18T16:38:07.431657Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:40:24.312999Z'
+lastmod: '2026-07-18T16:38:07.431657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Model tas-kata adalah representasi penyederhanaan teks yang menggambarkan kemunculan kata dalam dokumen, mengabaikan tata bahasa dan urutan kata."
+source: agnes_llm
+status: published
+language: id
+description: Model tas-kata adalah representasi penyederhanaan teks yang menggambarkan
+  kemunculan kata dalam dokumen, mengabaikan tata bahasa dan urutan kata.
 ---
-
 ## Definition
 
 Teknik pemrosesan bahasa alami ini merepresentasikan teks sebagai kumpulan kata multiset, mengabaikan sintaksis dan urutan. Ini mengubah dokumen menjadi vektor numerik berdasarkan frekuensi atau keberadaan kata. W

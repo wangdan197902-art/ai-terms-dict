@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /cs/terms/humanai_interaction/
 date: "2026-07-18T16:01:34.237449Z"
 lastmod: "2026-07-18T17:15:09.139608Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Studium a praxe toho, jak lidé komunikují, ovládají a spolupracují se systémy umělé inteligence."
 ---
-
 ## Definition
 
 Interakce člověk-AI (HAI) je interdisciplinární obor zkoumající dynamiku mezi lidmi a technologiemi AI. Zaměřuje se na navrhování intuitivních rozhraní, komunikačních protokolů a...

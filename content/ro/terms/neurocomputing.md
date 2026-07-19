@@ -1,23 +1,25 @@
 ---
-title: "Neurocomputare"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neurocomputare
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /ro/terms/neurocomputing/
-date: "2026-07-18T16:13:49.755055Z"
-lastmod: "2026-07-18T17:15:09.686534Z"
+slug: neurocomputing
+date: '2026-07-18T16:13:49.755055Z'
+lastmod: '2026-07-18T17:15:09.686534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Neurocomputarea este un domeniu interdisciplinar care combină neuroștiința, informatica și ingineria pentru a dezvolta modele computaționale inspirate de sistemele neuronale biologice."
+source: agnes_llm
+status: published
+language: ro
+description: Neurocomputarea este un domeniu interdisciplinar care combină neuroștiința,
+  informatica și ingineria pentru a dezvolta modele computaționale inspirate de sistemele
+  neuronale biologice.
 ---
-
 ## Definition
 
 Acest domeniu se concentrează pe crearea de arhitecturi hardware și software care imită structura și funcția creierului uman. Include rețelele neuronale artificiale, cipurile neuromorfice și cogniția...

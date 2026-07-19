@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /vi/terms/analysis/
 date: "2026-07-18T15:23:17.677426Z"
 lastmod: "2026-07-18T16:38:07.680028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình kiểm tra dữ liệu hoặc đầu ra của mô hình để trích xuất các thông tin và mẫu hình có ý nghĩa."
 ---
-
 ## Definition
 
 Trong bối cảnh AI, phân tích đề cập đến việc kiểm tra có hệ thống dữ liệu, dự đoán của mô hình hoặc hành vi của hệ thống để hiểu các mẫu hình nền tảng, chẩn đoán vấn đề hoặc rút ra các thông tin có thể hành động được. Quá trình này

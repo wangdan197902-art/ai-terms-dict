@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /it/terms/constitutional_ai/
 date: "2026-07-18T15:52:46.934713Z"
 lastmod: "2026-07-18T17:15:08.609680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un metodo per addestrare modelli di IA a seguire linee guida di sicurezza attraverso l'autovalutazione basata su un insieme predefinito di principi."
 ---
-
 ## Definition
 
 L'IA Costituzionale è un quadro per allineare i grandi modelli linguistici ai valori umani senza fare affidamento esclusivamente sul feedback umano per ogni passaggio. Coinvolge la creazione di una 'costituzione' di principi di alto livello che il modello utilizza per criticare e correggere se stesso, riducendo la necessità di annotazioni umane costose e scalabili per il rinforzo.

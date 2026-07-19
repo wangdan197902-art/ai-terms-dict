@@ -1,23 +1,24 @@
 ---
-title: "Taille du lot"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Taille du lot
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /fr/terms/batch_size/
-date: "2026-07-18T11:06:28.839216Z"
-lastmod: "2026-07-18T11:44:45.202641Z"
+slug: batch_size
+date: '2026-07-18T11:06:28.839216Z'
+lastmod: '2026-07-18T11:44:45.202641Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le nombre d'exemples d'entraînement utilisés lors d'une itération de l'algorithme de descente de gradient stochastique."
+source: agnes_llm
+status: published
+language: fr
+description: Le nombre d'exemples d'entraînement utilisés lors d'une itération de
+  l'algorithme de descente de gradient stochastique.
 ---
-
 ## Definition
 
 La taille du lot est un hyperparamètre critique qui détermine combien d'échantillons sont traités avant la mise à jour des paramètres internes du modèle. Une taille de lot plus grande fournit une estimation plus précise du

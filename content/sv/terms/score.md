@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /sv/terms/score/
 date: "2026-07-18T15:30:48.229902Z"
 lastmod: "2026-07-18T17:15:08.951433Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En poäng är ett numeriskt värde som representerar kvaliteten, confidensen eller lämpligheten hos en modells prediktion eller lösning."
 ---
-
 ## Definition
 
 Poäng kvantifierar hur väl en maskininlärningsmodell presterar mot specifika mått såsom noggrannhet, precision eller belöning. Inom förstärkningsinlärning indikerar poäng ackumulerade belöningar, medan inom klassi

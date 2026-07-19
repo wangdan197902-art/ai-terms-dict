@@ -1,23 +1,24 @@
 ---
-title: "Avaruuspohjainen datakeskus"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: Avaruuspohjainen datakeskus
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /fi/terms/space_based_data_center/
-date: "2026-07-18T16:21:58.175909Z"
-lastmod: "2026-07-18T17:15:09.461891Z"
+slug: space_based_data_center
+date: '2026-07-18T16:21:58.175909Z'
+lastmod: '2026-07-18T17:15:09.461891Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Avaruudessa kiertoradalla sijaitseva laskentalaite, joka hyödyntää avaruuden olosuhteita, kuten aurinkoenergiaa ja tyhjiöjäähdytystä, tehokkaassa datankäsittelyssä."
+source: agnes_llm
+status: published
+language: fi
+description: Avaruudessa kiertoradalla sijaitseva laskentalaite, joka hyödyntää avaruuden
+  olosuhteita, kuten aurinkoenergiaa ja tyhjiöjäähdytystä, tehokkaassa datankäsittelyssä.
 ---
-
 ## Definition
 
 Avaruuspohjaiset datakeskukset ovat ehdotettuja laskentatiloina toimivia kohteita Maan kiertoradalla, jotka on suunniteltu hyödyntämään ainutlaatuisia ympäristöetuja, kuten runsasta auringonvaloa ja avaruuden luonnollista tyhjiötä lämmönhallintaan.

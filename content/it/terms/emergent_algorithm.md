@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /it/terms/emergent_algorithm/
 date: "2026-07-18T15:58:14.402818Z"
 lastmod: "2026-07-18T17:15:08.622609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un comportamento algoritmico che sorge spontaneamente dall'interazione di componenti semplici, senza essere stato programmato esplicitamente."
 ---
-
 ## Definition
 
 Gli algoritmi emergenti si riferiscono a comportamenti o pattern globali complessi che derivano dalle interazioni locali di molti agenti semplici o regole all'interno di un sistema. A differenza della programmazione tradizionale top-down, in cui i

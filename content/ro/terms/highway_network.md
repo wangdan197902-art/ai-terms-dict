@@ -1,23 +1,24 @@
 ---
-title: "Rețea autostradă"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Rețea autostradă
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /ro/terms/highway_network/
-date: "2026-07-18T16:02:33.329603Z"
-lastmod: "2026-07-18T17:15:09.665004Z"
+slug: highway_network
+date: '2026-07-18T16:02:33.329603Z'
+lastmod: '2026-07-18T17:15:09.665004Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O arhitectură de rețea neuronală profundă care introduce mecanisme de poartă pentru a facilita fluxul gradientului prin rețele foarte adânci."
+source: agnes_llm
+status: published
+language: ro
+description: O arhitectură de rețea neuronală profundă care introduce mecanisme de
+  poartă pentru a facilita fluxul gradientului prin rețele foarte adânci.
 ---
-
 ## Definition
 
 Rețelele Autostradă (Highway Networks) sunt concepute pentru a aborda problema gradientului care dispare în învățarea profundă, prin incorporarea de porți adaptative care controlează fluxul informației. Similar celulelor LSTM, aceste porți permit rețelei să învețe cât de mult din intrarea curentă și cât din ieșirea anterioară să treacă mai departe, facilitând antrenarea unor rețele extrem de adânci.

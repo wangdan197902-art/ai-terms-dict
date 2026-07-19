@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /he/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:43:02.987352Z"
 lastmod: "2026-07-18T17:15:09.513832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "המפגש בין בינה מלאכותית לאינטרנט של הדברים (IoT), המאפשר למכשירים חכמים לעבד נתונים באופן מקומי ולקבל החלטות אוטונומיות."
 ---
-
 ## Definition
 
 בינה מלאכותית של הדברים (AIoT) מייצגת שילוב סינרגטי בין טכנולוגיות של בינה מלאכותית לאינטרנט של הדברים. על ידי הטמעת אלגוריתמים של בינה מלאכותית ישירות במכשירי IoT או

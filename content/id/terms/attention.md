@@ -1,23 +1,25 @@
 ---
-title: "Attention (Perhatian)"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Attention (Perhatian)
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /id/terms/attention/
-date: "2026-07-18T15:33:35.113524Z"
-lastmod: "2026-07-18T16:38:07.411523Z"
+slug: attention
+date: '2026-07-18T15:33:35.113524Z'
+lastmod: '2026-07-18T16:38:07.411523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Mekanisme yang memungkinkan jaringan saraf memberi bobot pada pentingnya bagian-bagian berbeda dari urutan input secara dinamis."
+source: agnes_llm
+status: published
+language: id
+description: Mekanisme yang memungkinkan jaringan saraf memberi bobot pada pentingnya
+  bagian-bagian berbeda dari urutan input secara dinamis.
 ---
-
 ## Definition
 
 Mekanisme attention memungkinkan model untuk fokus pada informasi yang relevan saat memproses input, khususnya dalam data sekuensial seperti teks. Dengan menghitung skor perhatian, model menentukan elemen mana...

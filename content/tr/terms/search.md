@@ -1,23 +1,23 @@
 ---
-title: "Arama"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Arama
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /tr/terms/search/
-date: "2026-07-18T15:29:05.597240Z"
-lastmod: "2026-07-18T16:38:07.243510Z"
+slug: search
+date: '2026-07-18T15:29:05.597240Z'
+lastmod: '2026-07-18T16:38:07.243510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Arama algoritmaları, yapay zeka görevlerinde en iyi veya tatmin edici sonuçları bulmak için çözüm uzaylarını sistematik olarak keşfeder."
+source: agnes_llm
+status: published
+language: tr
+description: Arama algoritmaları, yapay zeka görevlerinde en iyi veya tatmin edici
+  sonuçları bulmak için çözüm uzaylarını sistematik olarak keşfeder.
 ---
-
 ## Definition
 
 Arama, oyun oynama veya rota planlama gibi karmaşık problem uzaylarında gezinmek için kullanılan yapay zekanın temel bir paradigmasıdır. A*, Minimax veya Monte Carlo Ağaç Araması gibi algoritmalar potansiyel hamleleri değerlendirir.

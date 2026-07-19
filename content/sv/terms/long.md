@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /sv/terms/long/
 date: "2026-07-18T15:28:31.265782Z"
 lastmod: "2026-07-18T17:15:08.945607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser generellt utsträckta datasekvenser, såsom långa kontextfönster i modeller för naturlig språkbehandling."
 ---
-
 ## Definition
 
 Inom AI-sammanhang beskriver 'lång' ofta förmågan att bearbeta omfattande indata, såsom långa dokument eller långa videoflöden. För stora språkmodeller innebär detta att hantera långa kontext-

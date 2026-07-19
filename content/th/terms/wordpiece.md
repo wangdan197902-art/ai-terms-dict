@@ -1,23 +1,24 @@
 ---
-title: "เวิร์ดพีซ (WordPiece)"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: เวิร์ดพีซ (WordPiece)
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /th/terms/wordpiece/
-date: "2026-07-18T16:20:32.977691Z"
-lastmod: "2026-07-18T16:38:07.667709Z"
+slug: wordpiece
+date: '2026-07-18T16:20:32.977691Z'
+lastmod: '2026-07-18T16:38:07.667709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อัลกอริทึมการแบ่งคำย่อย (subword tokenization) ที่ผสานคู่อักขระที่พบบ่อยที่สุดแบบวนซ้ำ เพื่อจัดการกับคำที่ไม่อยู่ในคลังคำศัพท์"
+source: agnes_llm
+status: published
+language: th
+description: อัลกอริทึมการแบ่งคำย่อย (subword tokenization) ที่ผสานคู่อักขระที่พบบ่อยที่สุดแบบวนซ้ำ
+  เพื่อจัดการกับคำที่ไม่อยู่ในคลังคำศัพท์
 ---
-
 ## Definition
 
 เวิร์ดพีซเป็นวิธีการแบ่งคำที่ใช้กันอย่างแพร่หลายในโมเดลประมวลผลภาษาธรรมชาติเช่น BERT และ ALBERT โดยจะแยกคำออกเป็นหน่วยย่อยๆ เพื่อจัดการกับความซับซ้อนทางสัณฐานวิทยาและลดขนาดคลังคำศัพท์ พร้อมทั้งรักษาความสามารถในการเข้าใจคำใหม่ๆ

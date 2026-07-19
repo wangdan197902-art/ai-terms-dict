@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /pt/terms/hf_asr_leaderboard/
 date: "2026-07-18T15:03:15.846534Z"
 lastmod: "2026-07-18T15:51:59.497585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um sistema de classificação no Hugging Face que avalia e compara o desempenho de modelos de Reconhecimento Automático de Fala (ASR)."
 ---
-
 ## Definition
 
 O Ranking ASR do Hugging Face é uma plataforma de métricas impulsionada pela comunidade, hospedada pelo Hugging Face, que acompanha o desempenho de ponta no Reconhecimento Automático de Fala. Permite que pesquisadores e desenvolvedores comparem modelos e identifiquem os mais eficazes para suas aplicações.

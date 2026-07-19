@@ -1,23 +1,24 @@
 ---
-title: "Heurística admisible"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: Heurística admisible
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /es/terms/admissible_heuristic/
-date: "2026-07-18T10:34:40.557013Z"
-lastmod: "2026-07-18T11:44:44.773479Z"
+slug: admissible_heuristic
+date: '2026-07-18T10:34:40.557013Z'
+lastmod: '2026-07-18T11:44:44.773479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una función heurística en algoritmos de búsqueda que nunca sobreestima el costo real para alcanzar el objetivo, garantizando la optimalidad."
+source: agnes_llm
+status: published
+language: es
+description: Una función heurística en algoritmos de búsqueda que nunca sobreestima
+  el costo real para alcanzar el objetivo, garantizando la optimalidad.
 ---
-
 ## Definition
 
 En problemas de búsqueda y navegación, una heurística admisible proporciona una cota inferior sobre el costo real para alcanzar el nodo objetivo. Al garantizar que el costo estimado sea siempre menor o igual al costo real, asegura que el algoritmo encuentre la ruta óptima.

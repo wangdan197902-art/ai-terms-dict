@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /sv/terms/on_policy/
 date: "2026-07-18T15:36:19.307380Z"
 lastmod: "2026-07-18T17:15:08.958231Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En förstärkningsinlärningsansats där den policy som utvärderas och förbättras är densamma som den som används för att generera data."
 ---
-
 ## Definition
 
 On-policy-algoritmer kräver att agenten lär sig direkt från de handlingar som tas av dess nuvarande policy. Detta innebär att data som samlas in under utforskning används omedelbart för att uppdatera policyn, vilket säkerställer...

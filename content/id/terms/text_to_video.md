@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /id/terms/text_to_video/
 date: "2026-07-18T16:11:10.606944Z"
 lastmod: "2026-07-18T16:38:07.514727Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Text-to-video adalah kemampuan AI yang menghasilkan klip video dari deskripsi atau prompt teks."
 ---
-
 ## Definition
 
 Text-to-video merujuk pada model AI generatif yang menciptakan konten visual dinamis berdasarkan masukan bahasa alami. Sistem-sistem ini menganalisis makna semantik dari prompt teks untuk mensintesis urutan visual yang koheren.

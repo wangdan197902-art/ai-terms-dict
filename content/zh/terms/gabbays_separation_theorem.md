@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /zh/terms/gabbays_separation_theorem/
 date: "2026-07-18T11:18:04.585923Z"
 lastmod: "2026-07-18T11:44:45.503941Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "非经典逻辑中的一个结果，指出某些时序逻辑或模态逻辑可以根据其结构特性分解为不同的组成部分。"
 ---
-
 ## Definition
 
 加贝分离定理是数学逻辑中的一个基本概念，特别是在时序逻辑和模态逻辑的研究中。它提供了在何种条件下逻辑系统可以被分解或分离的条件。

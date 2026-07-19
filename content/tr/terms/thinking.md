@@ -1,23 +1,23 @@
 ---
-title: "Düşünme"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: Düşünme
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /tr/terms/thinking/
-date: "2026-07-18T16:17:54.713785Z"
-lastmod: "2026-07-18T16:38:07.373379Z"
+slug: thinking
+date: '2026-07-18T16:17:54.713785Z'
+lastmod: '2026-07-18T16:38:07.373379Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zekada düşünme, algoritmalar tarafından simüle edilen akıl yürütme, problem çözme ve karar verme gibi bilişsel süreçleri ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zekada düşünme, algoritmalar tarafından simüle edilen akıl yürütme,
+  problem çözme ve karar verme gibi bilişsel süreçleri ifade eder.
 ---
-
 ## Definition
 
 İnsanlar biyolojik olarak düşünürken, yapay zeka 'düşünmesi' bilişsel işlevleri taklit eden hesaplama işlemlerini içerir. Mantıksal çıkarım, desen tanıma ve çıkarım yapmayı kapsar. Modern büyük dil modelleri (LLM'ler), karmaşık görevleri çözmek için bu tür gelişmiş bilişsel simülasyonları kullanır.

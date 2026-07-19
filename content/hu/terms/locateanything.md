@@ -1,23 +1,25 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /hu/terms/locateanything/
-date: "2026-07-18T16:11:05.684405Z"
-lastmod: "2026-07-18T17:15:09.804361Z"
+slug: locateanything
+date: '2026-07-18T16:11:05.684405Z'
+lastmod: '2026-07-18T17:15:09.804361Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy nyílt forráskódú keretrendszer, amelyet nulla mintás objektumlokalizáció és szegmentáció céljára terveztek különböző vizuális tartományokban, feladatspecifikus tanulás nélkül."
+source: agnes_llm
+status: published
+language: hu
+description: Egy nyílt forráskódú keretrendszer, amelyet nulla mintás objektumlokalizáció
+  és szegmentáció céljára terveztek különböző vizuális tartományokban, feladatspecifikus
+  tanulás nélkül.
 ---
-
 ## Definition
 
 A LocateAnything egy sokoldalú számítógépes látási keretrendszer, amely lehetővé teszi az objektumok észlelését és szegmentálását képeken természetes nyelvű utasítások vagy általános előismeretek alapján. Kihasználja az előre betanított f

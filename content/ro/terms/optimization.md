@@ -1,23 +1,24 @@
 ---
-title: "Optimizare"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Optimizare
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /ro/terms/optimization/
-date: "2026-07-18T15:37:21.063191Z"
-lastmod: "2026-07-18T17:15:09.616776Z"
+slug: optimization
+date: '2026-07-18T15:37:21.063191Z'
+lastmod: '2026-07-18T17:15:09.616776Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul matematic de minimizare sau maximizare a unei funcții obiectiv pentru a găsi cei mai buni parametri ai soluției."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul matematic de minimizare sau maximizare a unei funcții obiectiv
+  pentru a găsi cei mai buni parametri ai soluției.
 ---
-
 ## Definition
 
 În învățarea automată, optimizarea se referă la algoritmii utilizați pentru a ajusta parametrii modelului în vederea minimizării unei funcții de pierdere, îmbunătățind astfel performanța modelului. Metodele comune includ Descendentul Gradientului și varianta sa stocastică.

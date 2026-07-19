@@ -1,23 +1,24 @@
 ---
-title: "Dataset:Bookcorpus"
-term_id: "datasetbookcorpus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "nlp", "text_data"]
+title: Dataset:Bookcorpus
+term_id: datasetbookcorpus
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- NLP
+- Text Data
 difficulty: 2
 weight: 1
-slug: "datasetbookcorpus"
-aliases:
-  - /id/terms/datasetbookcorpus/
-date: "2026-07-18T15:45:36.677501Z"
-lastmod: "2026-07-18T16:38:07.443963Z"
+slug: datasetbookcorpus
+date: '2026-07-18T15:45:36.677501Z'
+lastmod: '2026-07-18T16:38:07.443963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dataset skala besar yang berisi lebih dari 10.000 buku yang belum diterbitkan, banyak digunakan untuk pra-pelatihan model pemrosesan bahasa alami."
+source: agnes_llm
+status: published
+language: id
+description: Dataset skala besar yang berisi lebih dari 10.000 buku yang belum diterbitkan,
+  banyak digunakan untuk pra-pelatihan model pemrosesan bahasa alami.
 ---
-
 ## Definition
 
 BookCorpus adalah kumpulan teks dari lebih dari 10.000 buku yang belum diterbitkan, diambil dari internet. Dataset ini berfungsi sebagai sumber daya dasar untuk melatih dan mengevaluasi model pemrosesan bahasa alami (NLP).

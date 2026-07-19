@@ -1,23 +1,24 @@
 ---
-title: "코 트레이닝"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: 코 트레이닝
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /ko/terms/co_training/
-date: "2026-07-18T15:45:14.520231Z"
-lastmod: "2026-07-18T16:38:06.817089Z"
+slug: co_training
+date: '2026-07-18T15:45:14.520231Z'
+lastmod: '2026-07-18T16:38:06.817089Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "코 트레이닝은 데이터의 두 가지 관점을 사용하여 별도의 분류기를 훈련시키고, 이들이 서로에게 미라벨링된 데이터에 대한 레이블을 반복적으로 부여하는 준지도 학습 알고리즘입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 코 트레이닝은 데이터의 두 가지 관점을 사용하여 별도의 분류기를 훈련시키고, 이들이 서로에게 미라벨링된 데이터에 대한 레이블을
+  반복적으로 부여하는 준지도 학습 알고리즘입니다.
 ---
-
 ## Definition
 
 이 방법은 동일한 데이터 포인트의 여러 고유한 특징 집합(관점)을 활용합니다. 초기에는 각 관점에서 작은 라벨링된 데이터셋으로 두 개의 분류기를 훈련시킵니다. 이후 이들은 미라벨링된 데이터에 대한 레이블을 예측하고, 높은 신뢰도를 가진 예측 결과를 서로 공유하며 레이블을 추가합니다.

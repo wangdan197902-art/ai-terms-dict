@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /hu/terms/numerical/
 date: "2026-07-18T15:28:49.398289Z"
 lastmod: "2026-07-18T17:15:09.725670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Számokkal vagy matematikai számításokkal kapcsolatos, azokban résztvevő vagy azokat használó, nem pedig szimbolikus logikát vagy szöveget alkalmazó."
 ---
-
 ## Definition
 
 Az AI és az adattudomány kontextusában a numerikus a kvantitatív értékeket (például egész számokat, lebegőpontos számokat és tizedestörteket) magában foglaló adattípusokra vagy módszerekre utal. A kategorikus vagy szöveges adatokkal ellentétben a numerikus

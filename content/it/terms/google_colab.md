@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /it/terms/google_colab/
 date: "2026-07-18T16:01:59.396124Z"
 lastmod: "2026-07-18T17:15:08.630297Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un ambiente di notebook Jupyter basato su cloud che consente agli utenti di scrivere ed eseguire codice Python tramite un browser, con accesso gratuito alle GPU."
 ---
-
 ## Definition
 
 Google Colaboratory, comunemente noto come Colab, è un servizio di notebook Jupyter ospitato che non richiede alcuna configurazione e fornisce accesso gratuito a risorse di calcolo, incluse le unità di elaborazione grafica (GPU).

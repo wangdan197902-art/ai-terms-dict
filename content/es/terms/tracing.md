@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /es/terms/tracing/
 date: "2026-07-18T11:11:33.175445Z"
 lastmod: "2026-07-18T11:44:44.862818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El trazado es una técnica que registra la ruta de ejecución y los estados intermedios de un programa o de la inferencia de un modelo de IA para facilitar la depuración y la optimización del rendimient"
 ---
-
 ## Definition
 
 En el contexto de la ingeniería de IA, el trazado implica capturar registros detallados sobre cómo fluyen los datos a través de un modelo o aplicación, incluyendo entradas, salidas, latencia y uso de recursos en cada paso. Esto permite...

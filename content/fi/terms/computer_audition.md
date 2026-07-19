@@ -1,23 +1,24 @@
 ---
-title: "Tietokonekuuntelu"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Tietokonekuuntelu
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /fi/terms/computer_audition/
-date: "2026-07-18T15:49:02.294551Z"
-lastmod: "2026-07-18T17:15:09.393389Z"
+slug: computer_audition
+date: '2026-07-18T15:49:02.294551Z'
+lastmod: '2026-07-18T17:15:09.393389Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tietokonekuuntelu on tutkimusala, joka keskittyy koneiden kykyyn havainnoida ja ymmärtää äänisignaaleja ihmisten tavoin."
+source: agnes_llm
+status: published
+language: fi
+description: Tietokonekuuntelu on tutkimusala, joka keskittyy koneiden kykyyn havainnoida
+  ja ymmärtää äänisignaaleja ihmisten tavoin.
 ---
-
 ## Definition
 
 Tietokonekuuntelu sisältää algoritmien kehittämisen, jotka mahdollistavat tietokoneille merkityksellisen tiedon erottamisen ääniaalloista. Tämä sisältää tehtäviä kuten puheentunnistuksen, musiikkigenren luokittelun ja äänen erottamisen taustamelusta.

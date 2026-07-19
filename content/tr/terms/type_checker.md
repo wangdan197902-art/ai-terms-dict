@@ -1,23 +1,25 @@
 ---
-title: "Tip Denetleyicisi"
-term_id: "type_checker"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "debugging", "quality_assurance"]
+title: Tip Denetleyicisi
+term_id: type_checker
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- debugging
+- Quality Assurance
 difficulty: 2
 weight: 1
-slug: "type_checker"
-aliases:
-  - /tr/terms/type_checker/
-date: "2026-07-18T16:18:27.884102Z"
-lastmod: "2026-07-18T16:38:07.375075Z"
+slug: type_checker
+date: '2026-07-18T16:18:27.884102Z'
+lastmod: '2026-07-18T16:38:07.375075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir tip denetleyicisi, koddaki değişkenlerin ve ifadelerin tiplerinin, programlama dilinin tip sistemi kurallarına uyup uymadığını doğrulayan statik analiz aracıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Bir tip denetleyicisi, koddaki değişkenlerin ve ifadelerin tiplerinin,
+  programlama dilinin tip sistemi kurallarına uyup uymadığını doğrulayan statik analiz
+  aracıdır.
 ---
-
 ## Definition
 
 Özellikle Python, C++ veya Rust gibi dillerde yazılmış yapay zeka kütüphaneleri için yazılım mühendisliğinde, bir tip denetleyici işlemlerin uyumlu veri türlerinde gerçekleştirildiğini doğrulayarak kodun doğruluğunu sağlar. Bu, çalışma zamanı hatalarını önlemeye yardımcı olur.

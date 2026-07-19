@@ -1,23 +1,23 @@
 ---
-title: "ปรับแต่งแล้ว (Fine-tuned)"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: ปรับแต่งแล้ว (Fine-tuned)
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /th/terms/fine_tuned/
-date: "2026-07-18T15:32:06.580767Z"
-lastmod: "2026-07-18T16:38:07.554189Z"
+slug: fine_tuned
+date: '2026-07-18T15:32:06.580767Z'
+lastmod: '2026-07-18T16:38:07.554189Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการฝึกฝนเพิ่มเติมโมเดลที่ผ่านการฝึกมาแล้วบนชุดข้อมูลเฉพาะเพื่อปรับให้เข้ากับงานปลายทางที่กำหนด"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการฝึกฝนเพิ่มเติมโมเดลที่ผ่านการฝึกมาแล้วบนชุดข้อมูลเฉพาะเพื่อปรับให้เข้ากับงานปลายทางที่กำหนด
 ---
-
 ## Definition
 
 การปรับแต่ง (Fine-tuning) เกี่ยวข้องกับการนำโมเดลที่ได้รับการฝึกฝนบนชุดข้อมูลขนาดใหญ่และทั่วไปอยู่แล้ว มาดำเนินการฝึกฝนต่อด้วยชุดข้อมูลขนาดเล็กที่เฉพาะเจาะจงกับงาน เทคนิคนี้ใช้ประโยชน์จากฟีเจอร์ทั่วไปที่โมเดลได้เรียนรู้มา เพื่อปรับปรุงประสิทธิภาพสำหรับงานเฉพาะทางโดยใช้ทรัพยากรการคำนวณและข้อมูลน้อยกว่าการฝึกจากศูนย์

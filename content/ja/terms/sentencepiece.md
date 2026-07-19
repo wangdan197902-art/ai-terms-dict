@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /ja/terms/sentencepiece/
 date: "2026-07-18T11:31:46.590774Z"
 lastmod: "2026-07-18T11:44:45.143402Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "生のテキストをサブワードのシーケンスとして扱い、NLPの前処理を行うための教師なしテキストトークナイザーおよびデトークナイザーライブラリ。"
 ---
-
 ## Definition
 
 SentencePieceは、現代のNLPパイプラインで広く使用されている人気のあるオープンソースライブラリです。これは、単語単位とサブワード単位の両方の共用語を学習する教師なし学習を実行し、言語に依存しないトークン化を提供します。

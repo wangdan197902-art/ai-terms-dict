@@ -1,23 +1,24 @@
 ---
-title: "การหยุดก่อนกำหนด (Early Stopping)"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: การหยุดก่อนกำหนด (Early Stopping)
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /th/terms/early_stopping/
-date: "2026-07-18T15:51:29.258761Z"
-lastmod: "2026-07-18T16:38:07.601391Z"
+slug: early_stopping
+date: '2026-07-18T15:51:29.258761Z'
+lastmod: '2026-07-18T16:38:07.601391Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การหยุดก่อนกำหนดเป็นเทคนิคการทำให้เป็นปกติ (regularization) ที่หยุดกระบวนการฝึกเมื่อประสิทธิภาพของโมเดลบนชุดตรวจสอบเริ่มลดลง เพื่อป้องกันไม่ให้เกิด Overfitting"
+source: agnes_llm
+status: published
+language: th
+description: การหยุดก่อนกำหนดเป็นเทคนิคการทำให้เป็นปกติ (regularization) ที่หยุดกระบวนการฝึกเมื่อประสิทธิภาพของโมเดลบนชุดตรวจสอบเริ่มลดลง
+  เพื่อป้องกันไม่ให้เกิด Overfitting
 ---
-
 ## Definition
 
 การหยุดก่อนกำหนดเป็นรูปแบบหนึ่งของการทำให้เป็นปกติที่ใช้เป็นหลักในกระบวนการฝึกแบบวนซ้ำ เช่น Gradient Descent ระหว่างการฝึก ประสิทธิภาพของโมเดลบนข้อมูลฝึกมักจะดีขึ้นอย่างต่อเนื่อง...

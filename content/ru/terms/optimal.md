@@ -1,23 +1,23 @@
 ---
-title: "Оптимальный"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Оптимальный
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /ru/terms/optimal/
-date: "2026-07-18T15:28:03.175934Z"
-lastmod: "2026-07-18T16:38:07.086367Z"
+slug: optimal
+date: '2026-07-18T15:28:03.175934Z'
+lastmod: '2026-07-18T16:38:07.086367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Оптимальный означает лучшее возможное решение или действие в рамках заданных ограничений, максимизируя вознаграждение или минимизируя затраты."
+source: agnes_llm
+status: published
+language: ru
+description: Оптимальный означает лучшее возможное решение или действие в рамках заданных
+  ограничений, максимизируя вознаграждение или минимизируя затраты.
 ---
-
 ## Definition
 
 В ИИ и теории оптимизации оптимальное решение — это такое, которое достигает наивысшего возможного значения метрики производительности, например, максимального вознаграждения в обучении с подкреплением или минимальной ошибки в регрессии.

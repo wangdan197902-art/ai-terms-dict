@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /ko/terms/analysis/
 date: "2026-07-18T15:22:58.925240Z"
 lastmod: "2026-07-18T16:38:06.768321Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "데이터나 모델 출력을 검토하여 의미 있는 통찰과 패턴을 추출하는 과정."
 ---
-
 ## Definition
 
 AI의 맥락에서 분석은 근본적인 패턴을 이해하거나 문제를 진단하며, 실행 가능한 통찰을 도출하기 위해 데이터, 모델 예측 또는 시스템 동작을 체계적으로 검토하는 과정을 의미합니다.

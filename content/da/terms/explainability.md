@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /da/terms/explainability/
 date: "2026-07-18T15:34:56.413756Z"
 lastmod: "2026-07-18T17:15:09.244130Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Explainability refererer til det grad, hvori et menneske kan forstå årsagen til en beslutning truffet af en AI-model."
 ---
-
 ## Definition
 
 Dette koncept adresserer 'sort boks'-problemet i komplekse AI-systemer ved at give indsigt i, hvordan modeller når frem til specifikke forudsigelser. Teknikker som SHAP eller LIME hjælper med at visualisere funktioners vigtighed og bidrag til modellens beslutninger.

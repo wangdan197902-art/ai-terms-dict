@@ -1,23 +1,24 @@
 ---
-title: "Thống kê thiên văn"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Thống kê thiên văn
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /vi/terms/astrostatistics/
-date: "2026-07-18T15:41:21.521366Z"
-lastmod: "2026-07-18T16:38:07.729826Z"
+slug: astrostatistics
+date: '2026-07-18T15:41:21.521366Z'
+lastmod: '2026-07-18T16:38:07.729826Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Việc áp dụng các phương pháp thống kê để phân tích dữ liệu thiên văn và giải quyết các vấn đề trong vật lý thiên văn."
+source: agnes_llm
+status: published
+language: vi
+description: Việc áp dụng các phương pháp thống kê để phân tích dữ liệu thiên văn
+  và giải quyết các vấn đề trong vật lý thiên văn.
 ---
-
 ## Definition
 
 Thống kê thiên văn là một lĩnh vực chuyên biệt cầu nối giữa thống kê và thiên văn học. Nó liên quan đến việc phát triển và áp dụng các kỹ thuật thống kê nghiêm ngặt để xử lý những thách thức độc đáo của dữ liệu thiên văn,

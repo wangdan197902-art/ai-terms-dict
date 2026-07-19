@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /ko/terms/evolving/
 date: "2026-07-18T15:24:13.627717Z"
 lastmod: "2026-07-18T16:38:06.773100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "새로운 데이터나 피드백을 통해 지속적으로 적응하고 개선되는 AI 시스템이나 알고리즘을 설명하는 용어입니다."
 ---
-
 ## Definition
 
 '진화하는'이라는 용어는 초기 학습 후에도 정적이지 않고 지속적인 학습과 적응을 거치는 동적 AI 모델을 특징짓습니다. 이 개념은 평생 학습(Lifelong Learning)과 온라인 학습의 핵심이며, 변화하는 환경이나 데이터 분포에 맞춰 모델이 노화되지 않고 최신 상태를 유지하도록 합니다.

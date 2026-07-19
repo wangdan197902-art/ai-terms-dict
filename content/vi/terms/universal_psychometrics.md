@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /vi/terms/universal_psychometrics/
 date: "2026-07-18T16:15:30.292349Z"
 lastmod: "2026-07-18T16:38:07.814862Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc áp dụng các kỹ thuật đo lường tiêu chuẩn hóa để đánh giá các đặc điểm tâm lý trên nhiều quần thể khác nhau."
 ---
-
 ## Definition
 
 Đo lường tâm lý phổ quát liên quan đến việc phát triển và áp dụng các công cụ đánh giá có thể đo lường đáng tin cậy các cấu trúc tâm lý, chẳng hạn như tính cách, khả năng nhận thức hoặc trí thông minh cảm xúc, trên...

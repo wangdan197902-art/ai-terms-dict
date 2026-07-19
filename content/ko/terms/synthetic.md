@@ -1,23 +1,22 @@
 ---
-title: "합성(Synthetic)"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: 합성(Synthetic)
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /ko/terms/synthetic/
-date: "2026-07-18T15:29:16.430366Z"
-lastmod: "2026-07-18T16:38:06.785325Z"
+slug: synthetic
+date: '2026-07-18T15:29:16.430366Z'
+lastmod: '2026-07-18T16:38:06.785325Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "합성은 자연 출처에서 수집된 것이 아니라 알고리즘에 의해 인공적으로 생성된 데이터나 콘텐츠를 지칭합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 합성은 자연 출처에서 수집된 것이 아니라 알고리즘에 의해 인공적으로 생성된 데이터나 콘텐츠를 지칭합니다.
 ---
-
 ## Definition
 
 AI에서 합성 데이터는 실제 세계의 데이터를 모방하지만 실제 개인 정보나 민감한 기록을 포함하지 않는 인공적으로 생성된 정보입니다. 이는 실제

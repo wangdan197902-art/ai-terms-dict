@@ -1,23 +1,24 @@
 ---
-title: "Qwen Coder"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: Qwen Coder
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /fi/terms/qwen_coder/
-date: "2026-07-18T16:17:59.383555Z"
-lastmod: "2026-07-18T17:15:09.449282Z"
+slug: qwen_coder
+date: '2026-07-18T16:17:59.383555Z'
+lastmod: '2026-07-18T17:15:09.449282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Qwen Coder on erikoistunut Qwen-mallin muunnos, joka on optimoitu ohjelmistokehitykseen ja koodaustehtäviin."
+source: agnes_llm
+status: published
+language: fi
+description: Qwen Coder on erikoistunut Qwen-mallin muunnos, joka on optimoitu ohjelmistokehitykseen
+  ja koodaustehtäviin.
 ---
-
 ## Definition
 
 Qwen Coder on omistettu versio Qwen-suurkielimallista, joka on hienosäädetty nimenomaan ohjelmointiin liittyviin toimintoihin. Se menestyy erityisesti koodin generoinnissa, virheenkorjauksessa ja monimutkaisten koodikantojen ymmärtämisessä.

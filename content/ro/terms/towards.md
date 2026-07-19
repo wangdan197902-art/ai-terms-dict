@@ -1,23 +1,24 @@
 ---
-title: "Către"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: Către
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /ro/terms/towards/
-date: "2026-07-18T15:30:52.751685Z"
-lastmod: "2026-07-18T17:15:09.605934Z"
+slug: towards
+date: '2026-07-18T15:30:52.751685Z'
+lastmod: '2026-07-18T17:15:09.605934Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Termenul 'către' se referă la progresul direcțional sau la obiectivele de optimizare în IA, indicând mișcarea în direcția unei performanțe îmbunătățite sau a unor obiective specifice."
+source: agnes_llm
+status: published
+language: ro
+description: Termenul 'către' se referă la progresul direcțional sau la obiectivele
+  de optimizare în IA, indicând mișcarea în direcția unei performanțe îmbunătățite
+  sau a unor obiective specifice.
 ---
-
 ## Definition
 
 În dezvoltarea IA, 'către' descrie adesea traiectoriile proceselor de optimizare, cum ar fi coborârea gradientului care mută ponderile către o valoare minimă a pierderii. Semnifică, de asemenea, direcțiile de cercetare, unde

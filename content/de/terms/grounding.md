@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /de/terms/grounding/
 date: "2026-07-18T11:17:25.111936Z"
 lastmod: "2026-07-18T11:44:44.946673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess, abstrakte KI-Ausgaben mit Fakten der realen Welt, Datenquellen oder physischen Kontexten zu verbinden, um Genauigkeit und Relevanz sicherzustellen."
 ---
-
 ## Definition
 
 Im Bereich der KI bezeichnet Grounding die Verknüpfung symbolischer Darstellungen oder generierten Textes mit konkreten Entitäten der realen Welt, Daten oder sensorischen Erfahrungen. Für Sprachmodelle beinhaltet dies oft den Einsatz von Retrieval-Augmented Generation (RAG), bei dem externe Wissensdatenbanken abgefragt werden, um die Antwort zu untermauern. Grounding hilft dabei, Halluzinationen zu reduzieren, indem die Ausgaben des Modells an verifizierbare Informationen gebunden werden, anstatt sich ausschließlich auf statistische Muster im Trainingsdatensatz zu verlassen.

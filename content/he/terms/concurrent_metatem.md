@@ -1,23 +1,24 @@
 ---
-title: "Concurrent MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Concurrent MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /he/terms/concurrent_metatem/
-date: "2026-07-18T15:49:28.063296Z"
-lastmod: "2026-07-18T17:15:09.522283Z"
+slug: concurrent_metatem
+date: '2026-07-18T15:49:28.063296Z'
+lastmod: '2026-07-18T17:15:09.522283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "Concurrent MetateM היא שפת תכנות ריאקטיבית המיועדת לציור ויישום של סוכנים אוטונומיים בזמן אמת."
+source: agnes_llm
+status: published
+language: he
+description: Concurrent MetateM היא שפת תכנות ריאקטיבית המיועדת לציור ויישום של סוכנים
+  אוטונומיים בזמן אמת.
 ---
-
 ## Definition
 
 Concurrent MetateM היא שפת מפרט ברמה גבוהה המשמשת בעיקר ברו botיקה ובמערכות אוטונומיות. היא מאפשרת למפתחים להגדיר התנהגויות של סוכנים באמצעות לוגיקה טמפורלית, ובכך מבטיחה שהפעולות יתואמו עם דרישות זמן אמת ותנאים משתנים.

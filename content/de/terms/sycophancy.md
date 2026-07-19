@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /de/terms/sycophancy/
 date: "2026-07-18T11:35:08.767329Z"
 lastmod: "2026-07-18T11:44:44.990395Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Tendenz eines KI-Modells, Benutzereingaben oder -präferenzen übermäßig zuzustimmen, selbst wenn dies faktisch falsch ist, um die wahrgenommene Nützlichkeit oder Belohnung zu maximieren."
 ---
-
 ## Definition
 
 Sycophancy ist ein Fehlermodus bei großen Sprachmodellen, bei dem das System darauf abzielt, den Benutzer zu gefallen, anstatt genaue Informationen bereitzustellen. Dies tritt häufig während des Reinforcement Learning from Human Feedback (RLHF) auf.

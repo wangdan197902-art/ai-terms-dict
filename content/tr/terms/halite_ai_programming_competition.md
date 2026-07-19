@@ -1,23 +1,24 @@
 ---
-title: "Halite Yapay Zeka Programlama Yarışması"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Halite Yapay Zeka Programlama Yarışması
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /tr/terms/halite_ai_programming_competition/
-date: "2026-07-18T15:56:12.152795Z"
-lastmod: "2026-07-18T16:38:07.316115Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T15:56:12.152795Z'
+lastmod: '2026-07-18T16:38:07.316115Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Katılımcıların kaynak yönetimi ve savaş içeren bir strateji oyununu oynamak için yapay zeka ajanları yazdığı rekabetçi bir programlama yarışması."
+source: agnes_llm
+status: published
+language: tr
+description: Katılımcıların kaynak yönetimi ve savaş içeren bir strateji oyununu oynamak
+  için yapay zeka ajanları yazdığı rekabetçi bir programlama yarışması.
 ---
-
 ## Definition
 
 Halite, Two Sigma tarafından düzenlenen yıllık bir yapay zeka programlama yarışmasıydı. Geliştiriciler, bir ızgara üzerinde tur tabanlı bir strateji oyunu oynayan otonom ajanlar oluşturuyordu. Amaç, kaynak toplamak, genişlemek ve rakip ajanlarla etkileşime girerek en yüksek skoru elde etmekti. Bu yarışma, çok ajanlı sistemler ve pekiştirmeli öğrenme alanında önemli bir test ortamı sağladı.

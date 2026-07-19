@@ -1,23 +1,24 @@
 ---
-title: "الذكاء الاصطناعي ذاكرة محدودة"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: الذكاء الاصطناعي ذاكرة محدودة
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /ar/terms/limited_memory_ai/
-date: "2026-07-18T16:05:49.915211Z"
-lastmod: "2026-07-18T17:15:08.522708Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:05:49.915211Z'
+lastmod: '2026-07-18T17:15:08.522708Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "أنظمة ذكاء اصطناعي قادرة على تخزين البيانات والخبرات السابقة لإبلاغ القرارات المستقبلية، وتشكل أساس معظم تطبيقات التعلم الآلي الحديثة."
+source: agnes_llm
+status: published
+language: ar
+description: أنظمة ذكاء اصطناعي قادرة على تخزين البيانات والخبرات السابقة لإبلاغ القرارات
+  المستقبلية، وتشكل أساس معظم تطبيقات التعلم الآلي الحديثة.
 ---
-
 ## Definition
 
 يمثل الذكاء الاصطناعي ذاكرة محدودة المستوى الثاني من قدرات الذكاء الاصطناعي، حيث يمكن للنظم التعلم من البيانات التاريخية وتعديل سلوكها وفقاً لذلك. وعلى عكس الآليات التفاعلية، تحتفظ هذه النظم بالمعلومات

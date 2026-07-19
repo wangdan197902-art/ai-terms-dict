@@ -1,23 +1,23 @@
 ---
-title: "Anlamsal"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: Anlamsal
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /tr/terms/semantic/
-date: "2026-07-18T15:29:19.204816Z"
-lastmod: "2026-07-18T16:38:07.244072Z"
+slug: semantic
+date: '2026-07-18T15:29:19.204816Z'
+lastmod: '2026-07-18T16:38:07.244072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sözdizimsel yapı veya formdan ayırt ederek, dil veya verideki anlamla ilgili olan."
+source: agnes_llm
+status: published
+language: tr
+description: Sözdizimsel yapı veya formdan ayırt ederek, dil veya verideki anlamla
+  ilgili olan.
 ---
-
 ## Definition
 
 Yapay zekada anlamsal analiz, yüzeysel desenlerin ötesine geçerek girdilerin temel anlamını anlamaya odaklanır. Bu, kelimeleri veya sembolleri kavramlara eşleyerek ilişkileri yakalama sürecini içerir.

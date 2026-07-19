@@ -1,23 +1,24 @@
 ---
-title: "Minimisasi Risiko Empiris"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Minimisasi Risiko Empiris
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /id/terms/empirical_risk_minimization/
-date: "2026-07-18T15:49:21.397922Z"
-lastmod: "2026-07-18T16:38:07.454817Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:49:21.397922Z'
+lastmod: '2026-07-18T16:38:07.454817Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Prinsip dasar dalam pembelajaran mesin yang bertujuan meminimalkan kerugian rata-rata pada data pelatihan yang diamati."
+source: agnes_llm
+status: published
+language: id
+description: Prinsip dasar dalam pembelajaran mesin yang bertujuan meminimalkan kerugian
+  rata-rata pada data pelatihan yang diamati.
 ---
-
 ## Definition
 
 Minimisasi Risiko Empiris (ERM) adalah fungsi tujuan standar untuk melatih model pembelajaran terawasi. Ini melibatkan pemilihan hipotesis dari kelas fungsi yang meminimalkan kesalahan rata-r

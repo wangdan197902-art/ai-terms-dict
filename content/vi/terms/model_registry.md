@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /vi/terms/model_registry/
 date: "2026-07-18T16:04:03.260302Z"
 lastmod: "2026-07-18T16:38:07.784106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Hệ thống lưu trữ và quản lý tập trung để theo dõi vòng đời của các mô hình học máy."
 ---
-
 ## Definition
 
 Hồ sơ Mô hình đóng vai trò là thành phần quan trọng trong MLOps, cung cấp một kho lưu trữ thống nhất để lưu trữ, đánh dấu phiên bản và quản lý các mô hình ML. Nó cho phép các nhóm theo dõi siêu dữ liệu của mô hình, các chỉ số hiệu suất và hỗ trợ quy trình vận hành mô hình một cách hiệu quả.

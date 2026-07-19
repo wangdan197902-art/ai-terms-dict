@@ -1,23 +1,25 @@
 ---
-title: "P-Tuning"
-term_id: "p_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "nlp"]
+title: P-Tuning
+term_id: p_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- NLP
 difficulty: 4
 weight: 1
-slug: "p_tuning"
-aliases:
-  - /tr/terms/p_tuning/
-date: "2026-07-18T16:07:45.964223Z"
-lastmod: "2026-07-18T16:38:07.344459Z"
+slug: p_tuning
+date: '2026-07-18T16:07:45.964223Z'
+lastmod: '2026-07-18T16:38:07.344459Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "P-Tuning, tüm önceden eğitilmiş model ağırlıklarını güncellemek yerine, sürekli istem gömme (prompt embedding) değerlerini optimize eden parametre verimli bir ince ayar yöntemidir."
+source: agnes_llm
+status: published
+language: tr
+description: P-Tuning, tüm önceden eğitilmiş model ağırlıklarını güncellemek yerine,
+  sürekli istem gömme (prompt embedding) değerlerini optimize eden parametre verimli
+  bir ince ayar yöntemidir.
 ---
-
 ## Definition
 
 P-Tuning (Prompt Tuning), büyük önceden eğitilmiş dil modellerini minimum hesaplama maliyetiyle belirli alt görevlere uyarlamak için tasarlanmış bir tekniktir. Tüm model parametrelerini ince ayar yapmak yerine, yalnızca eklenen gömme vektörleri optimize edilir.

@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /cs/terms/model_context_protocol/
 date: "2026-07-18T15:36:21.263003Z"
 lastmod: "2026-07-18T17:15:09.090985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Standardizovaný rámec navržený k usnadnění bezpečné a efektivní komunikace mezi modely AI a externími zdroji dat nebo nástroji."
 ---
-
 ## Definition
 
 Protokol kontextu modelu (MCP) je otevřený standard, který umožňuje aplikacím AI připojovat se k různým zdrojům dat, jako jsou databáze, API a souborové systémy, jednotným způsobem. Abstrahuje komplexitu

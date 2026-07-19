@@ -1,23 +1,24 @@
 ---
-title: "Losowa cecha"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Losowa cecha
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /pl/terms/random_feature/
-date: "2026-07-18T16:14:31.572595Z"
-lastmod: "2026-07-18T17:15:08.912784Z"
+slug: random_feature
+date: '2026-07-18T16:14:31.572595Z'
+lastmod: '2026-07-18T17:15:08.912784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika mapująca dane wejściowe do przestrzeni o wyższej wymiarowości za pomocą losowych projekcji, aby efektywnie przybliżyć metody jądra."
+source: agnes_llm
+status: published
+language: pl
+description: Technika mapująca dane wejściowe do przestrzeni o wyższej wymiarowości
+  za pomocą losowych projekcji, aby efektywnie przybliżyć metody jądra.
 ---
-
 ## Definition
 
 Mapy cech losowych przekształcają wejścia do nowej przestrzeni, w której modele liniowe mogą przybliżać nieliniowe funkcje jądra. To podejście, często związane z metodą Nystroma lub cechami Fouriera, pozwala na skalowalne uczenie się.

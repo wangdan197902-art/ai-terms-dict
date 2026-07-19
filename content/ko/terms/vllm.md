@@ -1,23 +1,25 @@
 ---
-title: "Vllm"
-term_id: "vllm"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "serving", "library"]
+title: Vllm
+term_id: vllm
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- serving
+- library
 difficulty: 4
 weight: 1
-slug: "vllm"
-aliases:
-  - /ko/terms/vllm/
-date: "2026-07-18T16:20:07.434045Z"
-lastmod: "2026-07-18T16:38:06.918784Z"
+slug: vllm
+date: '2026-07-18T16:20:07.434045Z'
+lastmod: '2026-07-18T16:38:06.918784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "vLLM은 PagedAttention을 활용하여 GPU 메모리 사용을 최적화하는 대규모 언어 모델(LLM)용 고속 처리 및 메모리 효율적인 추론 엔진입니다."
+source: agnes_llm
+status: published
+language: ko
+description: vLLM은 PagedAttention을 활용하여 GPU 메모리 사용을 최적화하는 대규모 언어 모델(LLM)용 고속 처리 및
+  메모리 효율적인 추론 엔진입니다.
 ---
-
 ## Definition
 
 vLLM(가상 대규모 언어 모델)은 LLM 서빙을 가속화하기 위해 설계된 오픈소스 라이브러리입니다. 이는 운영 체제의 가상 메모리에서 영감을 받은 메모리 관리 기법인 PagedAttention을 도입합니다.

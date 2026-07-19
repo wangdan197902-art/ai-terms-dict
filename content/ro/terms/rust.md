@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /ro/terms/rust/
-date: "2026-07-18T16:19:53.875258Z"
-lastmod: "2026-07-18T17:15:09.699873Z"
+slug: rust
+date: '2026-07-18T16:19:53.875258Z'
+lastmod: '2026-07-18T17:15:09.699873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Rust este un limbaj de programare pentru sisteme axat pe siguranță, viteză și concurență, fără colectare automată a gunoiului (garbage collection)."
+source: agnes_llm
+status: published
+language: ro
+description: Rust este un limbaj de programare pentru sisteme axat pe siguranță, viteză
+  și concurență, fără colectare automată a gunoiului (garbage collection).
 ---
-
 ## Definition
 
 Rust este un limbaj de programare generalist, cu paradigme multiple, conceput pentru performanță și siguranță, în special pentru concurența sigură. Acesta asigură siguranța memoriei fără a utiliza colectarea automată a gunoiului, garantând astfel...

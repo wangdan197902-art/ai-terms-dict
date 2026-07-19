@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /zh/terms/golog/
 date: "2026-07-18T11:17:53.013463Z"
 lastmod: "2026-07-18T11:44:45.503658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种基于情境演算的高级编程语言，用于指定动作并对动态领域进行推理。"
 ---
-
 ## Definition
 
 GOLOG是一种基于逻辑的编程语言，主要用于人工智能领域，用于在动态环境中进行规划和行动。它建立在Reiter的情境演算之上，允许开发人员指定动作序列并推理动态领域的变化。

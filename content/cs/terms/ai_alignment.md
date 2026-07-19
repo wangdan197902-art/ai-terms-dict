@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /cs/terms/ai_alignment/
 date: "2026-07-18T15:39:48.104086Z"
 lastmod: "2026-07-18T17:15:09.096421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obor studia zaměřený na zajištění toho, aby se systémy AI chovaly v souladu s lidskými hodnotami a úmysly."
 ---
-
 ## Definition
 
 AI alignment řeší výzvu zajistit, aby umělá inteligence robustně dělala to, co uživatelé zamýšlejí, nikoliv pouze to, co doslovně specifikovali. Zahrnuje technické metody, které zajišťují, že...

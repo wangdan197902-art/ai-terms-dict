@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /cs/terms/natural_language_processing/
 date: "2026-07-18T15:27:29.491090Z"
 lastmod: "2026-07-18T17:15:09.073758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obor umělé inteligence zaměřený na umožnění počítačům pochopit, interpretovat a generovat lidský jazyk."
 ---
-
 ## Definition
 
 Zpracování přirozeného jazyka (NLP) je podoborem umělé inteligence, který kombinuje výpočetní lingvistiku se statistickými modely, strojným učením a hlubokým učením. Umožňuje strojům porozumět lidské řeči a textu, extrahovat z nich význam a vytvářet na jejich základě smysluplné odpovědi nebo překlady.

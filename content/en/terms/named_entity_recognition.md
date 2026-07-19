@@ -1,23 +1,24 @@
 ---
-title: "Named Entity Recognition"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Named Entity Recognition
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /en/terms/named_entity_recognition/
-date: "2026-07-18T09:41:54.086115Z"
-lastmod: "2026-07-18T11:44:44.628534Z"
+slug: named_entity_recognition
+date: '2026-07-18T09:41:54.086115Z'
+lastmod: '2026-07-18T11:44:44.628534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A natural language processing task that identifies and classifies key information entities into predefined categories."
+source: agnes_llm
+status: published
+language: en
+description: A natural language processing task that identifies and classifies key
+  information entities into predefined categories.
 ---
-
 ## Definition
 
 Named Entity Recognition (NER) is a subtask of information extraction that locates and classifies named entities in text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc. It transforms unstructured text into structured data, enabling downstream applications like knowledge graph construction, search engine optimization, and automated document summarization by understanding the semantic roles of specific words.

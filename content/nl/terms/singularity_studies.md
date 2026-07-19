@@ -1,23 +1,25 @@
 ---
-title: "Singulariteitsstudies"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Singulariteitsstudies
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /nl/terms/singularity_studies/
-date: "2026-07-18T16:17:06.631905Z"
-lastmod: "2026-07-18T17:15:08.787155Z"
+slug: singularity_studies
+date: '2026-07-18T16:17:06.631905Z'
+lastmod: '2026-07-18T17:15:08.787155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een interdisciplinair vakgebied dat de potentiële maatschappelijke, ethische en existentiële impact van een toekomstige technologische singulariteit onderzoekt."
+source: agnes_llm
+status: published
+language: nl
+description: Een interdisciplinair vakgebied dat de potentiële maatschappelijke, ethische
+  en existentiële impact van een toekomstige technologische singulariteit onderzoekt.
 ---
-
 ## Definition
 
 Singulariteitsstudies zijn een opkomende academische discipline die de implicaties onderzoekt van een hypothetisch toekomstig moment waarop kunstmatige intelligentie de menselijke intelligentie overstijgt, wat leidt tot onbeheersbare veranderingen.

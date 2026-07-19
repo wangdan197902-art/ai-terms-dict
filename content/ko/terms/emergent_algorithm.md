@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /ko/terms/emergent_algorithm/
 date: "2026-07-18T15:54:25.966350Z"
 lastmod: "2026-07-18T16:38:06.836556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "Emergent algorithm(창발 알고리즘)은 명시적으로 프로그래밍되지 않았음에도 단순한 구성 요소들의 상호작용에서 자발적으로 나타나는 알고리즘적 행동을 의미합니다."
 ---
-
 ## Definition
 
 창발 알고리즘은 시스템 내 많은 단순한 에이전트나 규칙들의 국소적 상호작용에서 복잡한 전역 행동이나 패턴이 발생하는 현상을 지칭합니다. 모든 것을 상향식으로 프로그래밍하는 전통적인 방식과는 대조적입니다.

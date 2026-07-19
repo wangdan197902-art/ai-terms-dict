@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /hu/terms/interpretability/
 date: "2026-07-18T15:38:14.295704Z"
 lastmod: "2026-07-18T17:15:09.741458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Annak mértéke, amennyiben egy ember megértheti egy AI modell által hozott döntés okát."
 ---
-
 ## Definition
 
 Az értelmezhetőség (magyarázhatóság) az AI modellek belső működésének és döntéshozatali folyamatainak átláthatóvá és emberi megértés számára hozzáférhetővé tételét jelenti. Ez kulcsfontosságú a hibakereséshez, a bizalom építéséhez és az etikai megfelelőség biztosításához.

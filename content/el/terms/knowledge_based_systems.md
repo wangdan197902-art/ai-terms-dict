@@ -1,23 +1,25 @@
 ---
-title: "Συστήματα βασισμένα στη γνώση"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Συστήματα βασισμένα στη γνώση
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /el/terms/knowledge_based_systems/
-date: "2026-07-18T16:17:17.061497Z"
-lastmod: "2026-07-18T17:15:09.924268Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:17:17.061497Z'
+lastmod: '2026-07-18T17:15:09.924268Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Συστήματα τεχνητής νοημοσύνης που χρησιμοποιούν ρητά βάσεις γνώσης και μηχανισμούς συμπερασματολογίας για την επίλυση σύνθετων προβλημάτων που απαιτούν ανθρώπινη εμπειρογνωμοσύνη."
+source: agnes_llm
+status: published
+language: el
+description: Συστήματα τεχνητής νοημοσύνης που χρησιμοποιούν ρητά βάσεις γνώσης και
+  μηχανισμούς συμπερασματολογίας για την επίλυση σύνθετων προβλημάτων που απαιτούν
+  ανθρώπινη εμπειρογνωμοσύνη.
 ---
-
 ## Definition
 
 Τα συστήματα βασισμένα στη γνώση (KBS) είναι ένας κλάδος της τεχνητής νοημοσύνης που ενσωματώνει συγκεκριμένη γνώση του πεδίου εφαρμογής σε ένα υπολογιστικό σύστημα, ώστε να εκτελεί εργασίες που συνήθως απαιτούν ανθρώπινη εμπειρογνωμοσύνη. Βασίζονται στην αναπαράσταση της γνώσης και στη λογική συμπερασματολογίας για την προσομοίωση της σκέψης ενός ειδικού.

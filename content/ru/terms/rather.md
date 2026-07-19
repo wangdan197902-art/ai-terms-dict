@@ -1,23 +1,23 @@
 ---
-title: "Скорее / Вместо этого"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Скорее / Вместо этого
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /ru/terms/rather/
-date: "2026-07-18T15:28:41.190128Z"
-lastmod: "2026-07-18T16:38:07.088072Z"
+slug: rather
+date: '2026-07-18T15:28:41.190128Z'
+lastmod: '2026-07-18T16:38:07.088072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В контексте ИИ термин «rather» не является техническим термином, но часто используется в промптах для указания предпочтений или внесения исправлений."
+source: agnes_llm
+status: published
+language: ru
+description: В контексте ИИ термин «rather» не является техническим термином, но часто
+  используется в промптах для указания предпочтений или внесения исправлений.
 ---
-
 ## Definition
 
 Сам по себе термин «Rather» — это стандартное английское наречие, указывающее на предпочтение или противопоставление. В специфической области искусственного интеллекта и больших языковых моделей он не представляет собой отдельного технического понятия, а служит лингвистическим инструментом для уточнения запросов пользователя.

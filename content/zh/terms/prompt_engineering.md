@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /zh/terms/prompt_engineering/
 date: "2026-07-18T07:43:58.206652Z"
 lastmod: "2026-07-18T11:44:44.590070Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "设计和优化输入文本，以引导大型语言模型生成预期输出的实践。"
 ---
-
 ## Definition
 
 提示工程涉及制作特定的输入（即提示），以从生成式 AI 模型中获取准确、相关且高质量的响应。它要求理解模型如何解释指令、上下文及约束条件，从而通过调整提示词的结构和措辞来最大化模型的表现。

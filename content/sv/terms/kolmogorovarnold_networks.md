@@ -1,23 +1,24 @@
 ---
-title: "Kolmogorov–Arnold-nätverk"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Kolmogorov–Arnold-nätverk
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /sv/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:05:53.852751Z"
-lastmod: "2026-07-18T17:15:09.018940Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:05:53.852751Z'
+lastmod: '2026-07-18T17:15:09.018940Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Neurala nätverksarkitekturer baserade på Kolmogorov–Arnolds representationsats, vilket erbjuder ett alternativ till flerlagsperceptroner."
+source: agnes_llm
+status: published
+language: sv
+description: Neurala nätverksarkitekturer baserade på Kolmogorov–Arnolds representationsats,
+  vilket erbjuder ett alternativ till flerlagsperceptroner.
 ---
-
 ## Definition
 
 Kolmogorov–Arnold-nätverk (KAN) är en ny klass av neurala nätverk inspirerad av Kolmogorov–Arnolds representationsats, som säger att varje flervariabel kontinuerlig funktion kan representeras som en sammansättning av en begränsad mängd enkla funktioner av en variabel. Detta möjliggör mer tolkningsbara och vetenskapligt drivna modeller jämfört med traditionella arkitekturer.

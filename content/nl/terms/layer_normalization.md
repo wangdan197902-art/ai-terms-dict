@@ -1,23 +1,24 @@
 ---
-title: "Layer Normalization"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Layer Normalization
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /nl/terms/layer_normalization/
-date: "2026-07-18T16:02:56.116369Z"
-lastmod: "2026-07-18T17:15:08.760707Z"
+slug: layer_normalization
+date: '2026-07-18T16:02:56.116369Z'
+lastmod: '2026-07-18T17:15:08.760707Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek die de activaties van een neurale netwerklaag normaliseert over de feature-dimensie voor elke individuele steekproef."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek die de activaties van een neurale netwerklaag normaliseert
+  over de feature-dimensie voor elke individuele steekproef.
 ---
-
 ## Definition
 
 Layer Normalization stabiliseert het trainingsproces door interne covariate shift te verminderen, wat bijzonder effectief is in recurrente en transformer-architecturen. In tegenstelling tot Batch Normalization, dat afhankelijk is van batchstatistieken.

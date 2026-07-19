@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /no/terms/gradient_accumulation/
 date: "2026-07-18T15:57:32.676673Z"
 lastmod: "2026-07-18T16:38:07.005998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Gradientakkumulering er en teknikk som simulerer større batch-størrelser ved å summere gradienter over flere fremover-/bakoverpasser før vektene oppdateres."
 ---
-
 ## Definition
 
 Denne optimaliseringsstrategien gjør det mulig å trene dype læringsmodeller med effektive batch-størrelser som er større enn hva som passer i GPU-minnet. Ved å akkumulere gradienter fra flere minibatcher og utføre oppdateringer etterpå.

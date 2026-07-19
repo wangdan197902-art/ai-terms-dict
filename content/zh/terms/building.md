@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /zh/terms/building/
 date: "2026-07-18T10:49:30.666520Z"
 lastmod: "2026-07-18T11:44:45.363438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "从初始设计到生产就绪阶段，开发、训练和部署AI模型及系统的实际阶段。"
 ---
-
 ## Definition
 
 构建指的是创建AI解决方案的端到端工程过程，包括数据收集、模型选择、训练、验证和部署。它涵盖了技术支持的基础设施。

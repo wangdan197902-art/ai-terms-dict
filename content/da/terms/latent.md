@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /da/terms/latent/
 date: "2026-07-18T15:26:53.490702Z"
 lastmod: "2026-07-18T17:15:09.227183Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer til skjulte, underliggende variabler eller repræsentationer i et models interne rum, der fanger essentielle træk ved data."
 ---
-
 ## Definition
 
 Maskinlæring: Latente variable er uobserverede faktorer, der påvirker observerede data. I neurale netværk, især autoencoders og diffusionsmodeller, repræsenterer latente rum komprimerede, abstrakte

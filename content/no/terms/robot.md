@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /no/terms/robot/
 date: "2026-07-18T15:29:28.630095Z"
 lastmod: "2026-07-18T16:38:06.945156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En programmerbar maskin som er i stand til å utføre komplekse handlinger automatisk."
 ---
-
 ## Definition
 
 En robot er en autonom eller semi-autonom mekanisk enhet designet for å utføre oppgaver enten uavhengig eller under fjernkontroll. Den består typisk av sensorer for miljøoppfatning, aktuatorer for bevegelse og en kontrollsystem for prosessering.

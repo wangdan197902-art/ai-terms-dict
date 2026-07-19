@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /ko/terms/throughput/
 date: "2026-07-18T16:18:53.346962Z"
 lastmod: "2026-07-18T16:38:06.916021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "처리량은 AI 시스템이 주어진 시간 내에 성공적으로 처리할 수 있는 데이터 또는 요청의 양을 측정합니다."
 ---
-
 ## Definition
 
 AI 엔지니어링에서 처리량은 시스템 용량을 나타내는 중요한 성능 지표입니다. 이는 대규모 언어 모델(LLM)의 경우 초당 토큰 수, 컴퓨터 비전 모델의 경우 초당 이미지 수, 또는 쿼리 수 등으로 측정됩니다.

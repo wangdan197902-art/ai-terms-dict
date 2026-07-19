@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /ro/terms/safety/
 date: "2026-07-18T15:29:08.313057Z"
 lastmod: "2026-07-18T17:15:09.603000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Studiul și practica asigurării că sistemele AI nu provoacă daune fizice, digitale sau sociale."
 ---
-
 ## Definition
 
 Siguranța IA este un domeniu multidisciplinar concentrat pe prevenirea rezultatelor adverse ale inteligenței artificiale avansate. Aceasta cuprinde provocări tehnice precum alinierea valorilor, interpretabilitatea, robustețea și controlul, asigurând că sistemele complexe rămân sub controlul uman și alintate cu interesele umane.

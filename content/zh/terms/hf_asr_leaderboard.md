@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /zh/terms/hf_asr_leaderboard/
 date: "2026-07-18T11:20:51.262161Z"
 lastmod: "2026-07-18T11:44:45.513163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Hugging Face 上的一个排名系统，用于评估和比较自动语音识别模型的性能。"
 ---
-
 ## Definition
 
 HF ASR 排行榜是由 Hugging Face 托管的一个社区驱动指标平台，追踪自动语音识别领域的最新性能表现。它允许研究人员和开发者...

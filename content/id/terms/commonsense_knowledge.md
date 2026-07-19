@@ -1,23 +1,24 @@
 ---
-title: "Pengetahuan Umum"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Pengetahuan Umum
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /id/terms/commonsense_knowledge/
-date: "2026-07-18T15:42:35.019375Z"
-lastmod: "2026-07-18T16:38:07.438235Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:42:35.019375Z'
+lastmod: '2026-07-18T16:38:07.438235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Informasi latar belakang dan pemahaman intuitif tentang dunia fisik dan sosial yang dimiliki manusia tetapi sering kali hilang pada mesin."
+source: agnes_llm
+status: published
+language: id
+description: Informasi latar belakang dan pemahaman intuitif tentang dunia fisik dan
+  sosial yang dimiliki manusia tetapi sering kali hilang pada mesin.
 ---
-
 ## Definition
 
 Pengetahuan umum merujuk pada jumlah besar informasi implisit tentang kehidupan sehari-hari, fisika, norma sosial, dan hubungan sebab-akibat yang diperoleh manusia secara alami. Dalam AI, memperoleh pengetahuan ini merupakan tantangan besar karena mesin kesulitan memahami konteks halus yang dianggap 'jelas' bagi manusia.

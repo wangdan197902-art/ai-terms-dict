@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /tr/terms/agent/
 date: "2026-07-18T15:22:18.226331Z"
 lastmod: "2026-07-18T16:38:07.224179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çevresini algılayabilen, akıl yürütebilen ve belirli hedeflere ulaşmak için eylemler alabilen otonom bir yapay zeka sistemi."
 ---
-
 ## Definition
 
 Yapay zekada bir ajan, kullanıcı veya sistem adına görevleri tamamlamak için hareket eden bir varlıktır. Sadece prompt'lara yanıt veren pasif modellerin aksine, ajanlar planlama yapabilir, araç kullanabilir ve eylemlerini tekrarlayabilir.

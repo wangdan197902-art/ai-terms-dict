@@ -1,23 +1,23 @@
 ---
-title: "ระบบที่อาศัยความรู้"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: ระบบที่อาศัยความรู้
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /th/terms/knowledge_based_systems/
-date: "2026-07-18T16:01:45.007233Z"
-lastmod: "2026-07-18T16:38:07.623237Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:01:45.007233Z'
+lastmod: '2026-07-18T16:38:07.623237Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบปัญญาประดิษฐ์ที่ใช้ฐานความรู้และเครื่องอนุมานอย่างชัดเจนเพื่อแก้ปัญหาที่ซับซ้อนซึ่งต้องการความเชี่ยวชาญของมนุษย์"
+source: agnes_llm
+status: published
+language: th
+description: ระบบปัญญาประดิษฐ์ที่ใช้ฐานความรู้และเครื่องอนุมานอย่างชัดเจนเพื่อแก้ปัญหาที่ซับซ้อนซึ่งต้องการความเชี่ยวชาญของมนุษย์
 ---
-
 ## Definition
 
 ระบบที่อาศัยความรู้ (KBS) เป็นสาขาหนึ่งของปัญญาประดิษฐ์ที่นำความรู้เฉพาะด้านมาบูรณาการเข้ากับระบบคอมพิวเตอร์เพื่อทำงานที่โดยปกติต้องอาศัยความเชี่ยวชาญของมนุษย์ ระบบเหล่านี้ประกอบด้วยฐานความรู้ที่เก็บข้อมูลและกฎเกณฑ์ รวมถึงเครื่องอนุมานที่ทำหน้าที่ใช้เหตุผลเพื่อหาข้อสรุปหรือแก้ไขปัญหาคำถามจากผู้ใช้

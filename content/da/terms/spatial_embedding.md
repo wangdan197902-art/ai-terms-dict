@@ -1,23 +1,24 @@
 ---
-title: "Rummelig indlejring"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Rummelig indlejring
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /da/terms/spatial_embedding/
-date: "2026-07-18T16:18:39.578637Z"
-lastmod: "2026-07-18T17:15:09.332776Z"
+slug: spatial_embedding
+date: '2026-07-18T16:18:39.578637Z'
+lastmod: '2026-07-18T17:15:09.332776Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik, der kortlægger rumlige relationer mellem objekter eller lokationer til vektorrepræsentationer til maskinlæringsmodeller."
+source: agnes_llm
+status: published
+language: da
+description: En teknik, der kortlægger rumlige relationer mellem objekter eller lokationer
+  til vektorrepræsentationer til maskinlæringsmodeller.
 ---
-
 ## Definition
 
 Rummelig indlejring involverer konvertering af fysiske eller abstrakte rumlige relationer til tætte vektorrum, hvilket giver algoritmerne mulighed for at forstå nærhed, orientering og topologi. Denne teknik er essentiel for...

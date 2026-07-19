@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /ja/terms/data_exploration/
 date: "2026-07-18T11:10:00.332363Z"
 lastmod: "2026-07-18T11:44:45.083234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "正式なモデリングの前に、パターンを発見し、異常を検出し、仮説を検証するためにデータセットを初期分析すること。"
 ---
-
 ## Definition
 
 データ探索（一般的に探索的データ解析：EDAと呼ばれます）は、機械学習ワークフローにおける重要な前段階です。これは、データの主要な特性を要約する作業を含み、頻繁に可視化や統計的手法を使用してデータの構造を理解し、潜在的な問題や興味深いパターンを特定します。

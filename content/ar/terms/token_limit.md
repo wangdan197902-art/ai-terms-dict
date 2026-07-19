@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /ar/terms/token_limit/
 date: "2026-07-18T15:39:04.001939Z"
 lastmod: "2026-07-18T17:15:08.467342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "العدد الأقصى من الرموز التي يمكن لنموذج الذكاء الاصطناعي معالجتها في تسلسل إدخال أو إخراج واحد."
 ---
-
 ## Definition
 
 يحدد حد الرموز قيود حجم نافذة السياق لنماذج اللغات الكبيرة، مما يقيّد كمية النص التي يمكن تحليلها أو توليدها دفعة واحدة. يؤثر هذا الحد المعماري على إدارة الذاكرة،

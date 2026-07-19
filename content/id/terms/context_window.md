@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /id/terms/context_window/
 date: "2026-07-18T15:22:48.058451Z"
 lastmod: "2026-07-18T16:38:07.387232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Jumlah maksimum teks atau token yang dapat diproses dan dipertimbangkan secara bersamaan oleh model bahasa selama inferensi atau pelatihan."
 ---
-
 ## Definition
 
 Jendela konteks menentukan batas operasional memori model AI untuk satu interaksi tunggal. Batas ini menentukan seberapa banyak riwayat percakapan sebelumnya, teks dokumen, atau data input yang dapat diperhatikan oleh model untuk menghasilkan respons yang koheren.

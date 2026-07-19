@@ -1,23 +1,24 @@
 ---
-title: "Kernel sűrűségbecslés"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel sűrűségbecslés
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /hu/terms/kernel_density_estimation/
-date: "2026-07-18T16:06:57.405245Z"
-lastmod: "2026-07-18T17:15:09.798924Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:06:57.405245Z'
+lastmod: '2026-07-18T17:15:09.798924Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy nem parametrikus módszer, amelyet egy véges adalmintán alapuló valószínűségi változó sűrűségfüggvényének becslésére használnak."
+source: agnes_llm
+status: published
+language: hu
+description: Egy nem parametrikus módszer, amelyet egy véges adalmintán alapuló valószínűségi
+  változó sűrűségfüggvényének becslésére használnak.
 ---
-
 ## Definition
 
 A Kernel Sűrűségbecslés (KDE) egy alapvető statisztikai technika, amely diszkrét adatpontokat simítva folyamatos valószínűségi eloszlási görbét hoz létre. Egy kernel függvényt helyez el, általában Gauss-görbét, minden...

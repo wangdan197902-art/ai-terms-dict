@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /tr/terms/golog/
 date: "2026-07-18T15:54:15.040844Z"
 lastmod: "2026-07-18T16:38:07.311320Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Eylemleri belirtmek ve dinamik alanlar üzerinde akıl yürütmek için durum kalkülüsüne dayalı yüksek seviyeli bir programlama dili."
 ---
-
 ## Definition
 
 GOLOG, öncelikle yapay zeka alanında dinamik ortamlarda planlama ve eylem gerçekleştirmek için kullanılan mantık tabanlı bir programlama dilidir. Reiter'in durum kalkülüsü üzerine inşa edilen GOLOG, geliştiricilerin eylemlerin sonuçlarını ve dünya durumundaki değişiklikleri mantıksal kurallar aracılığıyla tanımlamasına olanak tanır.

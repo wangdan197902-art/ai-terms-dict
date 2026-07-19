@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /tr/terms/model_registry/
 date: "2026-07-18T16:04:32.780689Z"
 lastmod: "2026-07-18T16:38:07.336454Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenimi modellerinin yaşam döngüsü boyunca izlenmesi için merkezi bir depolama ve yönetim sistemi."
 ---
-
 ## Definition
 
 Bir Model Kayıt Defteri, MLOps'ta kritik bir bileşen olarak hizmet eder; ML modellerini depolamak, sürümlemek ve yönetmek için birleştirilmiş bir depo sağlar. Takımların model meta verilerini, performans metriklerini ve

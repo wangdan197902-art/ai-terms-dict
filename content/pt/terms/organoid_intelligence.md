@@ -1,23 +1,24 @@
 ---
-title: "Inteligência Organoide"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Inteligência Organoide
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /pt/terms/organoid_intelligence/
-date: "2026-07-18T15:15:19.021655Z"
-lastmod: "2026-07-18T15:51:59.519426Z"
+slug: organoid_intelligence
+date: '2026-07-18T15:15:19.021655Z'
+lastmod: '2026-07-18T15:51:59.519426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um paradigma de computação híbrida que integra células cerebrais vivas com interfaces eletrônicas para processamento de informações."
+source: agnes_llm
+status: published
+language: pt
+description: Um paradigma de computação híbrida que integra células cerebrais vivas
+  com interfaces eletrônicas para processamento de informações.
 ---
-
 ## Definition
 
 A inteligência organoide (OI) refere-se ao desenvolvimento de sistemas bio-híbridos onde organoides cerebrais derivados de humanos são cultivados em matrizes de microeletrodos. Essas redes neurais vivas realizam tarefas computacionais, oferecendo potencial para uma computação cognitiva de baixo consumo de energia e alta eficiência, além de aplicações em modelagem de doenças e neurociência, embora levante questões éticas significativas.

@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /da/terms/embedding/
 date: "2026-07-18T15:22:59.182835Z"
 lastmod: "2026-07-18T17:15:09.218121Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En teknik, der kortlægger diskrete objekter som ord eller billeder til kontinuerte vektorrum."
 ---
-
 ## Definition
 
 Indlejringer er tætte vektorrepræsentationer af data, hvor semantiske relationer bevares i det geometriske rum. Ved at konvertere kategoriske eller højdimensionelle input til faste vektorlængder, gør modellen det muligt at fange meningsfulde sammenhænge.

@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /cs/terms/information_space_analysis/
 date: "2026-07-18T16:02:57.271021Z"
 lastmod: "2026-07-18T17:15:09.142419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Prozkoumání geometrických a topologických vlastností prostoru, ve kterém se nacházejí reprezentace dat."
 ---
-
 ## Definition
 
 Tento koncept zahrnuje analýzu struktury prostoru reprezentací v modelech strojového učení. Zabývá se tím, jak jsou datové body distribuovány, shlukovány nebo odděleny v prostorů vysoké dimenze

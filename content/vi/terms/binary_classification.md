@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /vi/terms/binary_classification/
 date: "2026-07-18T15:43:12.294863Z"
 lastmod: "2026-07-18T16:38:07.733758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một nhiệm vụ học có giám sát, trong đó mục tiêu là dự đoán một trong hai lớp có thể xảy ra cho mỗi实例 đầu vào."
 ---
-
 ## Definition
 
 Phân loại nhị phân là một vấn đề cơ bản trong học máy, trong đó biến đầu ra là biến phân loại với chính xác hai kết quả có thể, chẳng hạn như đúng/sai hoặc thư rác/không phải thư rác. Các thuật toán như hồi quy logistic thường được sử dụng để giải quyết bài toán này.

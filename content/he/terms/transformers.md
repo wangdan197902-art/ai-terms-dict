@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /he/terms/transformers/
 date: "2026-07-18T15:31:37.468716Z"
 lastmod: "2026-07-18T17:15:09.490094Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "בהקשר זה, מתייחס לספריית הקוד הפתוח Transformers של Hugging Face, כלי פופולרי למודלים מתקדמים בעיבוד שפה טבעית ומולטי-מודאליים."
 ---
-
 ## Definition
 
 המונח 'Transformers' מתייחס לעיתים קרובות לספריית הפיתרון הנפוצה המתוחזקת על ידי Hugging Face. הספרייה מספקת ממשקים נוחים להורדה, אימון ופריסה של מודלים מאומנים מראש, ומפשטת את השימוש בארכיטקטורות מודרניות.

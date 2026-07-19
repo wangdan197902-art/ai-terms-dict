@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /zh/terms/out_of_distribution/
 date: "2026-07-18T10:57:10.837319Z"
 lastmod: "2026-07-18T11:44:45.394182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "与模型训练阶段所见的分布显著不同的数据点。"
 ---
-
 ## Definition
 
 分布外（OOD）检测用于识别落在训练数据分布范围之外的输入。模型在处理 OOD 数据时往往表现不佳，或者自信地给出错误答案，从而导致不可靠

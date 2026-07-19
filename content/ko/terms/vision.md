@@ -1,23 +1,23 @@
 ---
-title: "비전 (컴퓨터 비전)"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: 비전 (컴퓨터 비전)
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /ko/terms/vision/
-date: "2026-07-18T15:36:40.539595Z"
-lastmod: "2026-07-18T16:38:06.801898Z"
+slug: vision
+date: '2026-07-18T15:36:40.539595Z'
+lastmod: '2026-07-18T16:38:06.801898Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "컴퓨터 비전은 컴퓨터가 세계로부터 시각 정보를 해석하고 이해할 수 있도록 하는 AI 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 컴퓨터 비전은 컴퓨터가 세계로부터 시각 정보를 해석하고 이해할 수 있도록 하는 AI 분야입니다.
 ---
-
 ## Definition
 
 컴퓨터 비전(CV)은 디지털 이미지, 비디오 및 기타 시각적 입력에서 의미 있는 정보를 추출하도록 컴퓨터를 훈련시키는 인공지능의 한 분야입니다. 여기서는 알고리즘 개발이 포함됩니다.

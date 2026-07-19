@@ -1,23 +1,23 @@
 ---
-title: "การประมวลผลแบบแบทช์"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: การประมวลผลแบบแบทช์
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /th/terms/batch_processing/
-date: "2026-07-18T15:44:02.178104Z"
-lastmod: "2026-07-18T16:38:07.578540Z"
+slug: batch_processing
+date: '2026-07-18T15:44:02.178104Z'
+lastmod: '2026-07-18T16:38:07.578540Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการคำนวณที่รวบรวมข้อมูลในช่วงเวลาหนึ่งแล้วประมวลผลเป็นกลุ่มแทนที่จะทำทีละรายการ"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการคำนวณที่รวบรวมข้อมูลในช่วงเวลาหนึ่งแล้วประมวลผลเป็นกลุ่มแทนที่จะทำทีละรายการ
 ---
-
 ## Definition
 
 การประมวลผลแบบแบทช์เกี่ยวข้องกับการรวมอินพุตของข้อมูลเข้าด้วยกันเป็นกลุ่ม หรือที่เรียกว่า 'แบทช์' ก่อนที่จะดำเนินการคำนวณหรือการทำนายโมเดล วิธีการนี้แตกต่างจากการประมวลผลแบบสตรีมมิ่งแบบเรียลไทม์ โดยอนุญาตให้

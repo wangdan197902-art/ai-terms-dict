@@ -1,23 +1,24 @@
 ---
-title: "Gpt Oss"
-term_id: "gpt_oss"
-category: "basic_concepts"
-subcategory: ""
-tags: ["open_source", "architecture", "deployment"]
+title: Gpt Oss
+term_id: gpt_oss
+category: basic_concepts
+subcategory: ''
+tags:
+- Open Source
+- architecture
+- deployment
 difficulty: 4
 weight: 1
-slug: "gpt_oss"
-aliases:
-  - /vi/terms/gpt_oss/
-date: "2026-07-18T15:55:21.318773Z"
-lastmod: "2026-07-18T16:38:07.762531Z"
+slug: gpt_oss
+date: '2026-07-18T15:55:21.318773Z'
+lastmod: '2026-07-18T16:38:07.762531Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Chỉ các triển khai hoặc biến thể phần mềm mã nguồn mở (OSS) của kiến trúc giống GPT, được công khai để sửa đổi và phân phối."
+source: agnes_llm
+status: published
+language: vi
+description: Chỉ các triển khai hoặc biến thể phần mềm mã nguồn mở (OSS) của kiến
+  trúc giống GPT, được công khai để sửa đổi và phân phối.
 ---
-
 ## Definition
 
 GPT OSS thường chỉ các giải pháp thay thế hoặc dẫn xuất mã nguồn mở của các mô hình Generative Pre-trained Transformer độc quyền. Các dự án này cho phép nhà phát triển truy cập, sửa đổi và triển khai các mô hình ngôn ngữ lớn.

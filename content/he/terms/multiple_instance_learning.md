@@ -1,23 +1,23 @@
 ---
-title: "למידה רב-מופעית"
-term_id: "multiple_instance_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "weak_labeling", "ml_paradigm"]
+title: למידה רב-מופעית
+term_id: multiple_instance_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- Weak Labeling
+- ML Paradigm
 difficulty: 4
 weight: 1
-slug: "multiple_instance_learning"
-aliases:
-  - /he/terms/multiple_instance_learning/
-date: "2026-07-18T15:37:42.850302Z"
-lastmod: "2026-07-18T17:15:09.501916Z"
+slug: multiple_instance_learning
+date: '2026-07-18T15:37:42.850302Z'
+lastmod: '2026-07-18T17:15:09.501916Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרדיגמת למידה חלשה שבה תוויות מוקצות ל\"שקים\" של מופעים ולא למופעים בודדים."
+source: agnes_llm
+status: published
+language: he
+description: פרדיגמת למידה חלשה שבה תוויות מוקצות ל"שקים" של מופעים ולא למופעים בודדים.
 ---
-
 ## Definition
 
 למידה רב-מופעית (MIL) מטפלת בתרחישים שבהם הנתונים מקובצים ל"שקים" בעלי תוית אחת, בעוד שהמופעים הבודדים בתוך אותם שקים נשארים ללא תיוג. שק בדרך כלל מסומן כחיובי אם לפחות אחד מהמופעים בו נושא את התכונה הנחקרת, ושלילי אם אף מופע בו אינו נושא אותה.

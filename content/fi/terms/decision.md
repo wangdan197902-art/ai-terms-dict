@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /fi/terms/decision/
 date: "2026-07-18T15:24:34.045278Z"
 lastmod: "2026-07-18T17:15:09.347956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Agentin tai algoritmin tekemä valinta, joka perustuu saatavilla olevien vaihtoehtojen arviointiin tiettyjen kriteerien tai tavoitteiden valossa."
 ---
-
 ## Definition
 
 Tekoälyn päätöksenteossa valitaan optimaalinen toiminto joukosta mahdollisuuksia datan, mallien ja ennalta määriteltyjen tavoitteiden perusteella. Se voi olla deterministinen, noudattaen tiukkoja sääntöjä, tai probabilistinen.

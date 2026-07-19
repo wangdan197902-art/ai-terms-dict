@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /sv/terms/monte/
 date: "2026-07-18T15:28:57.952437Z"
 lastmod: "2026-07-18T17:15:08.946625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Monte avser Monte Carlo-metoder, som använder upprepad slumpmässig stickprovstagning för att erhålla numeriska resultat för problem som är deterministiska i princip men för komplexa för analytiska lös"
 ---
-
 ## Definition
 
 Monte Carlo-tekniker är en klass av beräkningsalgoritmer som förlitar sig på upprepad slumpmässig stickprovstagning för att uppskatta matematiska storheter. De är särskilt användbara vid integration i höga dimensioner, optimering och simulering av system med osäkerhet.

@@ -1,23 +1,24 @@
 ---
-title: "موجَّه"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: موجَّه
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /ar/terms/guided/
-date: "2026-07-18T15:26:38.823340Z"
-lastmod: "2026-07-18T17:15:08.440478Z"
+slug: guided
+date: '2026-07-18T15:26:38.823340Z'
+lastmod: '2026-07-18T17:15:08.440478Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يصف عمليات الذكاء الاصطناعي أو طرق التوليد التي تخضع لقيود أو توجيه بواسطة إشارات خارجية محددة أو قيود أو أهداف وسيطة."
+source: agnes_llm
+status: published
+language: ar
+description: يصف عمليات الذكاء الاصطناعي أو طرق التوليد التي تخضع لقيود أو توجيه بواسطة
+  إشارات خارجية محددة أو قيود أو أهداف وسيطة.
 ---
-
 ## Definition
 
 يشير مصطلح "موجَّه" في الذكاء الاصطناعي عادةً إلى التقنيات حيث يتم توجيه سلوك النموذج بواسطة معلومات إضافية تتجاوز الإدخال الأساسي. تشمل الأمثلة الشائعة الانتشار الموجّه، حيث...

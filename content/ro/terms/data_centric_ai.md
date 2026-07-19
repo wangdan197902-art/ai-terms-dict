@@ -1,23 +1,24 @@
 ---
-title: "AI centrat pe date"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: AI centrat pe date
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /ro/terms/data_centric_ai/
-date: "2026-07-18T15:51:48.416270Z"
-lastmod: "2026-07-18T17:15:09.642255Z"
+slug: data_centric_ai
+date: '2026-07-18T15:51:48.416270Z'
+lastmod: '2026-07-18T17:15:09.642255Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O abordare a dezvoltării AI care prioritizează îmbunătățirea calității și cantității datelor de antrenament în detrimentul modificării arhitecturii modelelor."
+source: agnes_llm
+status: published
+language: ro
+description: O abordare a dezvoltării AI care prioritizează îmbunătățirea calității
+  și cantității datelor de antrenament în detrimentul modificării arhitecturii modelelor.
 ---
-
 ## Definition
 
 AI-ul centrat pe date reprezintă o schimbare de paradigmă în dezvoltarea inteligenței artificiale, concentrându-se pe îmbunătățirea sistematică a datelor utilizate pentru antrenarea modelelor, în loc să se optimizeze exclusiv algoritmi sau hiperparametrii. Această abordare recunoaște că datele de calitate superioară duc la modele mai robuste și mai precise, reducând dependența de ajustări complexe ale arhitecturii.

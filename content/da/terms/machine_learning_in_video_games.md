@@ -1,23 +1,24 @@
 ---
-title: "Maskinlæring i videospil"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Maskinlæring i videospil
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /da/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:06:46.433444Z"
-lastmod: "2026-07-18T17:15:09.308965Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:06:46.433444Z'
+lastmod: '2026-07-18T17:15:09.308965Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Anvendelsen af maskinlæringsalgoritmer til at forbedre spiludvikling, skabe tilpasningsdygtige ikke-spillerkarakterer og optimere spiloplevelser."
+source: agnes_llm
+status: published
+language: da
+description: Anvendelsen af maskinlæringsalgoritmer til at forbedre spiludvikling,
+  skabe tilpasningsdygtige ikke-spillerkarakterer og optimere spiloplevelser.
 ---
-
 ## Definition
 
 Dette felt involverer integration af ML-teknikker i videospil-pipelines for at automatisere oprettelse af ressourcer, balancere spilmechanikker og generere dynamisk indhold. Det spænder fra brug af forstærkningslæring til at træne agenter, der kan tilpasse sig spilleradfærd i realtid.

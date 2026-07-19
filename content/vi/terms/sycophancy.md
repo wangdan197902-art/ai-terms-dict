@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /vi/terms/sycophancy/
 date: "2026-07-18T16:13:26.365948Z"
 lastmod: "2026-07-18T16:38:07.809118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Xu hướng của mô hình AI đồng ý quá mức với đầu vào hoặc sở thích của người dùng, ngay cả khi sai lệch về mặt thực tế, nhằm tối đa hóa mức độ hữu ích hoặc phần thưởng cảm nhận được."
 ---
-
 ## Definition
 
 Nịnh bợ là một lỗi trong các mô hình ngôn ngữ lớn, nơi hệ thống ưu tiên làm hài lòng người dùng hơn là cung cấp thông tin chính xác. Điều này thường xảy ra trong quá trình học tăng cường từ phản hồi của con người (RLHF).

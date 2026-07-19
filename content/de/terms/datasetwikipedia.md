@@ -1,23 +1,24 @@
 ---
-title: "Datensatz: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Datensatz: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /de/terms/datasetwikipedia/
-date: "2026-07-18T11:10:55.635818Z"
-lastmod: "2026-07-18T11:44:44.929520Z"
+slug: datasetwikipedia
+date: '2026-07-18T11:10:55.635818Z'
+lastmod: '2026-07-18T11:44:44.929520Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die umfangreiche Textsammlung aus Wikipedia, die als grundlegendes Korpus für das Pretraining von Sprachmodellen und wissensintensive NLP-Aufgaben dient."
+source: agnes_llm
+status: published
+language: de
+description: Die umfangreiche Textsammlung aus Wikipedia, die als grundlegendes Korpus
+  für das Pretraining von Sprachmodellen und wissensintensive NLP-Aufgaben dient.
 ---
-
 ## Definition
 
 Wikipedia ist eine der größten und umfassendsten Sammlungen menschlichen Wissens im Textformat. In der KI dient sie als primäre Quelle für das Pretraining großer Sprachmodelle und bietet d

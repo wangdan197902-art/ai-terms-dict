@@ -1,23 +1,23 @@
 ---
-title: "עיבוד אצוות"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: עיבוד אצוות
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /he/terms/batch_processing/
-date: "2026-07-18T15:46:08.202369Z"
-lastmod: "2026-07-18T17:15:09.516204Z"
+slug: batch_processing
+date: '2026-07-18T15:46:08.202369Z'
+lastmod: '2026-07-18T17:15:09.516204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטה חישובית שבה נתונים נאספים לאורך זמן ומעובדים בקבוצות ולא בנפרד."
+source: agnes_llm
+status: published
+language: he
+description: שיטה חישובית שבה נתונים נאספים לאורך זמן ומעובדים בקבוצות ולא בנפרד.
 ---
-
 ## Definition
 
 עיבוד אצוות כולל הצטברות של קלט נתונים לקבוצה, או אצווה, לפני ביצוע חישוב או מסקנת מודל. גישה זו מנוגדת לעיבוד סטרימינג בזמן אמת, שכן היא מאפשרת

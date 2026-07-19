@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /fi/terms/grokking/
 date: "2026-07-18T16:00:28.280992Z"
 lastmod: "2026-07-18T17:15:09.417376Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ilmiö, jossa neuroverkot yleistyvät äkillisesti hyvin pitkän harjoittelun jälkeen pienillä datajoukoilla, paljon sen pisteen jälkeen, jossa malli on jo muistanut datan ulkoa."
 ---
-
 ## Definition
 
 Grokkaaminen viittaa syväoppimisessa havaittuun kontraintuitiiviseen käyttäytymiseen, jossa malli jatkaa yliopettamista (overfitting) harjoitusdatassa pitkään ajan ja näyttää heikkoa yleistykykyä, ennen kuin se äkillisesti saavuttaa erinomaisen suorituskyvyn testidataan soveltautumisessa. Tämä ilmiö havaittiin erityisesti pienillä datajoukoilla, joissa malli oppi ensin muistamaan datan ulkoa ja myöhemmin ymmärtämään sen taustalla olevat säännöt.

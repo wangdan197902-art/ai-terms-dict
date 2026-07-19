@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /fi/terms/psychology_of_reasoning/
 date: "2026-07-18T16:17:02.608295Z"
 lastmod: "2026-07-18T17:15:09.447152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monitieteellinen tutkimus siitä, miten ihmiset muodostavat tuomioita, tekevät päätöksiä ja ratkaisevat ongelmia, mikä informoi kognitiivisia tekoälyarkkitehtuureita."
 ---
-
 ## Definition
 
 Tämä ala tutkii ihmisen deduktiivisen, induktiivisen ja abduktiivisen päättelyn taustalla olevia mieliprosesseja. Se tutkii harhoja, heuristiikoita ja loogisia rakenteita, jotka ohjaavat ihmisen ajattelua. Tekoälyssä näistä oivalluksista hyödynnetään ihmismäisen päättelyn mallintamisessa.

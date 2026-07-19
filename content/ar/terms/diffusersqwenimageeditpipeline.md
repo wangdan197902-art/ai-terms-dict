@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /ar/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:54:02.955138Z"
-lastmod: "2026-07-18T17:15:08.497134Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:54:02.955138Z'
+lastmod: '2026-07-18T17:15:08.497134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خط أنابيب ضمن مكتبة Hugging Face Diffusers يستفيد من نماذج Qwen-VL لمهام تحرير الصور المستندة إلى التعليمات."
+source: agnes_llm
+status: published
+language: ar
+description: خط أنابيب ضمن مكتبة Hugging Face Diffusers يستفيد من نماذج Qwen-VL لمهام
+  تحرير الصور المستندة إلى التعليمات.
 ---
-
 ## Definition
 
 يدمج هذا الخط الأنابيب قدرات نموذج Qwen-Vision-Language في إطار عمل Diffusers لإجراء تعديلات دقيقة على الصور بناءً على تعليمات اللغة الطبيعية. على عكس خطوط الأنابيب التوليدية

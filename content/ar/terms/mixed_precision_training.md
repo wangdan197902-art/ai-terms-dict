@@ -1,23 +1,24 @@
 ---
-title: "التدريب بالدقة المختلطة"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: التدريب بالدقة المختلطة
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /ar/terms/mixed_precision_training/
-date: "2026-07-18T16:13:07.737299Z"
-lastmod: "2026-07-18T17:15:08.528571Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:13:07.737299Z'
+lastmod: '2026-07-18T17:15:08.528571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تدريب تستخدم كل من الأرقام العشرية 16-بت و 32-بت لتسريع الحسابات وتقليل استخدام الذاكرة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تدريب تستخدم كل من الأرقام العشرية 16-بت و 32-بت لتسريع الحسابات
+  وتقليل استخدام الذاكرة.
 ---
-
 ## Definition
 
 يجمع التدريب بالدقة المختلطة (MPT) بين أنواع البيانات نصف الدقة (FP16) والدقة الكاملة (FP32) أثناء تدريب الشبكات العصبية. من خلال استخدام FP16 لمعظم العمليات، يقلل MPT من البصمة.memory ويزيد

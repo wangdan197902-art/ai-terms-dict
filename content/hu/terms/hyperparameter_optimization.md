@@ -1,23 +1,24 @@
 ---
-title: "Hipercsomagparaméter-optimalizálás"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Hipercsomagparaméter-optimalizálás
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /hu/terms/hyperparameter_optimization/
-date: "2026-07-18T16:04:22.077427Z"
-lastmod: "2026-07-18T17:15:09.794618Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T16:04:22.077427Z'
+lastmod: '2026-07-18T17:15:09.794618Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy automatizált megközelítés az optimális hipercsomagparaméter-konfiguráció megtalálására, gyakran valószínűségi modelleket használva a keresés irányításához."
+source: agnes_llm
+status: published
+language: hu
+description: Egy automatizált megközelítés az optimális hipercsomagparaméter-konfiguráció
+  megtalálására, gyakran valószínűségi modelleket használva a keresés irányításához.
 ---
-
 ## Definition
 
 A Hipercsomagparaméter-optimalizálás (HPO) a hipercsomagparaméterek kiválasztásának automatizálásával foglalkozó tágabb területre utal. Míg a beállítás az általános cselekvés, az HPO gyakran implikálja a kifinomult algoritmusok használatát, mint például a...

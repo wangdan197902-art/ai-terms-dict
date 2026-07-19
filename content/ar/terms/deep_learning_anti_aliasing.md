@@ -1,23 +1,23 @@
 ---
-title: "إزالة الهلوسة البصرية بالتعلم العميق"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: إزالة الهلوسة البصرية بالتعلم العميق
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /ar/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T15:53:02.034342Z"
-lastmod: "2026-07-18T17:15:08.494837Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T15:53:02.034342Z'
+lastmod: '2026-07-18T17:15:08.494837Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنيات تستخدم الشبكات العصبية لتقليل التشوهات البصرية مثل الحواف المتعرجة في الصور المرسومة أو الميزات المضغوطة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنيات تستخدم الشبكات العصبية لتقليل التشوهات البصرية مثل الحواف المتعرجة
+  في الصور المرسومة أو الميزات المضغوطة.
 ---
-
 ## Definition
 
 تشير إزالة الهلوسة البصرية بالتعلم العميق إلى الأساليب التي تستخدم الشبكات العصبية للتخفيف من تشوهات الهلوسة (Aliasing)، والتي تحدث عندما يتم أخذ عينات من الإشارات عالية التردد بمعدلات غير كافية. في الرسومات الحاسوبية...

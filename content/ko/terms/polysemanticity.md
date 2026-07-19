@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /ko/terms/polysemanticity/
 date: "2026-07-18T16:10:11.698280Z"
 lastmod: "2026-07-18T16:38:06.897000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "신경망의 개별 뉴런이 여러 개의 서로 다른 개념에 반응하는 현상입니다."
 ---
-
 ## Definition
 
 다의성은 특히 트랜스포머를 포함한 심층 신경망에서 관찰되는 특성으로, 단일 뉴런이 서로 관련이 없거나 의미적으로 구별되는 여러 특징에 대해 활성화될 수 있음을 의미합니다.

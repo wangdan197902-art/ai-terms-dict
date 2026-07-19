@@ -1,23 +1,24 @@
 ---
-title: "Hipercsomagparaméter-beállítás"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Hipercsomagparaméter-beállítás
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /hu/terms/hyperparameter_tuning/
-date: "2026-07-18T16:04:22.077414Z"
-lastmod: "2026-07-18T17:15:09.794499Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T16:04:22.077414Z'
+lastmod: '2026-07-18T17:15:09.794499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Annak folyamata, hogy rendszerezetten keressük a legjobb hipercsomagparaméter-kombinációt a modell teljesítményének optimalizálására."
+source: agnes_llm
+status: published
+language: hu
+description: Annak folyamata, hogy rendszerezetten keressük a legjobb hipercsomagparaméter-kombinációt
+  a modell teljesítményének optimalizálására.
 ---
-
 ## Definition
 
 A hipercsomagparaméter-beállítás magában foglalja különböző hipercsomagparaméter-készletek értékelését annak érdekében, hogy megtaláljuk azt a konfigurációt, amely a legjobb modellpontosságot vagy legalacsonyabb hibaráta eredményezi. A gyakori stratégiák közé tartozik a rácsos keresés, a...

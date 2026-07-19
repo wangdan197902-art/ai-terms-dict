@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /da/terms/multi_step/
 date: "2026-07-18T15:32:39.006751Z"
 lastmod: "2026-07-18T17:15:09.239786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En problemløsningsstrategi, der kræver udførelsen af en sekvens af logiske operationer eller beregninger for at nå en endelig løsning."
 ---
-
 ## Definition
 
 Multi-step-metoder involverer at nedbryde en kompleks forespørgsel eller opgave i mindre, eksekverbare trin. Denne tilgang er afgørende i ræsonneringsopgaver, såsom matematisk problemløsning eller kodegenerering.

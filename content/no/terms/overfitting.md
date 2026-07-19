@@ -1,23 +1,24 @@
 ---
-title: "Overtilpasning"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Overtilpasning
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /no/terms/overfitting/
-date: "2026-07-18T15:37:54.938036Z"
-lastmod: "2026-07-18T16:38:06.960866Z"
+slug: overfitting
+date: '2026-07-18T15:37:54.938036Z'
+lastmod: '2026-07-18T16:38:06.960866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En feil i modelleringen der en maskinlæringsalgoritme fanger opp støy i stedet for den underliggende signalet, noe som skader generaliseringsevnen."
+source: agnes_llm
+status: published
+language: 'no'
+description: En feil i modelleringen der en maskinlæringsalgoritme fanger opp støy
+  i stedet for den underliggende signalet, noe som skader generaliseringsevnen.
 ---
-
 ## Definition
 
 Overtilpasning oppstår når en modell lærer treningsdataene for godt, inkludert tilfeldig støy og uteliggere, noe som resulterer i fremragende ytelse på treningsdataene, men dårlig ytelse på nye, ukjente testdata.

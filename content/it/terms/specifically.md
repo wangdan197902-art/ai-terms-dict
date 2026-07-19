@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /it/terms/specifically/
 date: "2026-07-18T15:29:39.936006Z"
 lastmod: "2026-07-18T17:15:08.574977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a dettagli precisi, distinti o particolari all'interno di un contesto più ampio."
 ---
-
 ## Definition
 
 Nella terminologia dell'IA, 'nello specifico' indica precisione nella definizione di modelli, punti dati o operazioni. Distingue i parametri esatti dalle categorie generali, garantendo chiarezza nella documentazione tecnica.

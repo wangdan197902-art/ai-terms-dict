@@ -1,23 +1,23 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /de/terms/indiaai/
-date: "2026-07-18T11:18:54.051484Z"
-lastmod: "2026-07-18T11:44:44.950183Z"
+slug: indiaai
+date: '2026-07-18T11:18:54.051484Z'
+lastmod: '2026-07-18T11:44:44.950183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "INDIAai ist das nationale KI-Portal der indischen Regierung, das die Forschung und Verbreitung künstlicher Intelligenz im ganzen Land fördern soll."
+source: agnes_llm
+status: published
+language: de
+description: INDIAai ist das nationale KI-Portal der indischen Regierung, das die
+  Forschung und Verbreitung künstlicher Intelligenz im ganzen Land fördern soll.
 ---
-
 ## Definition
 
 Eingerichtet unter dem Ministerium für Elektronik und Informationstechnologie, dient INDIAai als zentrale Drehscheibe für KI-Ressourcen, Richtlinien und Initiativen. Es zielt darauf ab, die Zusammenarbeit zwischen Wissenschaft, Industrie und Regierung zu stärken.

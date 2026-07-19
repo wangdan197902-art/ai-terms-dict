@@ -1,23 +1,24 @@
 ---
-title: "Miền dữ liệu"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Miền dữ liệu
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /vi/terms/domain/
-date: "2026-07-18T15:24:27.512705Z"
-lastmod: "2026-07-18T16:38:07.683010Z"
+slug: domain
+date: '2026-07-18T15:24:27.512705Z'
+lastmod: '2026-07-18T16:38:07.683010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một miền đại diện cho một ngữ cảnh cụ thể hoặc phân phối dữ liệu, được đặc trưng bởi không gian đặc trưng và phân phối xác suất cơ bản của nó."
+source: agnes_llm
+status: published
+language: vi
+description: Một miền đại diện cho một ngữ cảnh cụ thể hoặc phân phối dữ liệu, được
+  đặc trưng bởi không gian đặc trưng và phân phối xác suất cơ bản của nó.
 ---
-
 ## Definition
 
 Trong học máy, đặc biệt là trong học chuyển giao, một miền được xác định bởi hai thành phần: không gian đặc trưng (tập hợp tất cả các đầu vào có thể) và phân phối xác suất biên của những đầu vào đó. Sự khác biệt giữa các miền có thể gây ra hiện tượng dịch chuyển miền (domain shift).

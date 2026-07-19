@@ -1,23 +1,23 @@
 ---
-title: "Through"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: Through
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /pt/terms/through/
-date: "2026-07-18T14:40:01.057806Z"
-lastmod: "2026-07-18T15:51:59.440698Z"
+slug: through
+date: '2026-07-18T14:40:01.057806Z'
+lastmod: '2026-07-18T15:51:59.440698Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Through é uma preposição e não um termo técnico específico em inteligência artificial."
+source: agnes_llm
+status: published
+language: pt
+description: Through é uma preposição e não um termo técnico específico em inteligência
+  artificial.
 ---
-
 ## Definition
 
 'Through' não possui uma definição independente na terminologia de IA. É comumente usado em frases como 'throughput' (taxa de processamento) ou em descrições de camadas de redes neurais, onde os sinais passam através dos nós.

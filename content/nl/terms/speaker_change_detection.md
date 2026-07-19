@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /nl/terms/speaker_change_detection/
 date: "2026-07-18T16:18:06.216279Z"
 lastmod: "2026-07-18T17:15:08.789435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het identificeren van momenten in een audiostream waarop de actieve spreker verandert."
 ---
-
 ## Definition
 
 Detectie van spreekwissels (SCD) is een techniek die wordt gebruikt om exacte tijdstempels aan te wijzen waarop één spreker stopt met praten en een ander begint. Het dient als een voorlopige stap in diariseren, waarbij het helpt bij het segmenteren van gesprekken.

@@ -1,23 +1,25 @@
 ---
-title: "อัลกอริทึมแอคเตอร์-คริติค"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: อัลกอริทึมแอคเตอร์-คริติค
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /th/terms/actor_critic_algorithm/
-date: "2026-07-18T15:39:32.713921Z"
-lastmod: "2026-07-18T16:38:07.570922Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:39:32.713921Z'
+lastmod: '2026-07-18T16:38:07.570922Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กรอบการเรียนรู้แบบเสริมกำลังที่ผสมผสานวิธีการแบบอิงค่า (value-based) และแบบอิงนโยบาย (policy-based) โดยใช้โครงข่ายประสาทเทียมสองส่วน คือ แอคเตอร์ และ คริติค"
+source: agnes_llm
+status: published
+language: th
+description: กรอบการเรียนรู้แบบเสริมกำลังที่ผสมผสานวิธีการแบบอิงค่า (value-based)
+  และแบบอิงนโยบาย (policy-based) โดยใช้โครงข่ายประสาทเทียมสองส่วน คือ แอคเตอร์ และ
+  คริติค
 ---
-
 ## Definition
 
 อัลกอริทึมแอคเตอร์-คริติคใช้สององค์ประกอบหลัก ได้แก่ แอคเตอร์ ซึ่งทำหน้าที่อัปเดตนโยบายเพื่อเลือกการกระทำ และคริติค ซึ่งทำหน้าที่ประเมินคุณภาพของการกระทำเหล่านั้นโดยการประมาณค่าฟังก์ชันมูลค่า (value function)

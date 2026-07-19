@@ -1,23 +1,24 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /he/terms/chatglm/
-date: "2026-07-18T15:47:32.569581Z"
-lastmod: "2026-07-18T17:15:09.519425Z"
+slug: chatglm
+date: '2026-07-18T15:47:32.569581Z'
+lastmod: '2026-07-18T17:15:09.519425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ChatGLM היא סדרה של מודלי שפה פתוחים, דו-לשוניים וגדולים, שפותחו על ידי Zhipu AI, ומותאמים לשיחות סינית ואנגלית."
+source: agnes_llm
+status: published
+language: he
+description: ChatGLM היא סדרה של מודלי שפה פתוחים, דו-לשוניים וגדולים, שפותחו על ידי
+  Zhipu AI, ומותאמים לשיחות סינית ואנגלית.
 ---
-
 ## Definition
 
 ChatGLM מייצגת משפחה של מודלי שפה מבוססי טרנספורמר המיועדים במיוחד לטיפול בשיחות דו-לשוניות איכותיות בסינית ובאנגלית. מודלים אלו, שפותחו על ידי Zhipu AI, משתמשים...

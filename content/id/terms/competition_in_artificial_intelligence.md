@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /id/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:42:35.019395Z"
 lastmod: "2026-07-18T16:38:07.438472Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Persaingan antara negara, korporasi, dan lembaga penelitian untuk mencapai kepemimpinan dalam pengembangan, inovasi, dan penerapan AI."
 ---
-
 ## Definition
 
 Kompetisi dalam kecerdasan buatan menggambarkan perlombaan global yang intens untuk memajukan kemampuan AI, yang didorong oleh keunggulan ekonomi, militer, dan ilmiah. Pemain utama termasuk raksasa teknologi seperti Google, Microsoft, dan perusahaan-perusahaan negara seperti Tiongkok dan Amerika Serikat yang berlomba menguasai teknologi masa depan.

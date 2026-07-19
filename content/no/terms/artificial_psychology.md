@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /no/terms/artificial_psychology/
 date: "2026-07-18T15:43:24.704674Z"
 lastmod: "2026-07-18T16:38:06.972706Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et felt som studerer hvordan man designer AI-systemer med kognitive arkitekturer som etterlikner menneskelige psykologiske prosesser."
 ---
-
 ## Definition
 
 Kunstig psykologi er et tverrfaglig domene som fokuserer på design og implementering av kognitive arkitekturer i AI-systemer. Det trekker fra kognitiv vitenskap og psykologi for å modellere menneskelig m

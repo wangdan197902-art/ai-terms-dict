@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /zh/terms/backdoor_attack/
 date: "2026-07-18T11:38:27.568103Z"
 lastmod: "2026-07-18T11:44:45.570248Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种安全威胁，恶意行为者在训练期间将隐藏触发器嵌入 AI 模型，导致特定错误分类。"
 ---
-
 ## Definition
 
 后门攻击涉及使用特定的模式（称为触发器）对机器学习模型的训练数据进行投毒。虽然模型在干净数据上表现正常，但在检测到触发器时会激活错误的行为，例如将特定图像错误分类为指定标签，

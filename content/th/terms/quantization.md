@@ -1,23 +1,24 @@
 ---
-title: "การควอนไทซ์"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: การควอนไทซ์
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /th/terms/quantization/
-date: "2026-07-18T15:36:58.190898Z"
-lastmod: "2026-07-18T16:38:07.563827Z"
+slug: quantization
+date: '2026-07-18T15:36:58.190898Z'
+lastmod: '2026-07-18T16:38:07.563827Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเพิ่มประสิทธิภาพโมเดลที่ลดความแม่นยำของตัวเลขที่ใช้ในการคำนวณเครือข่ายประสาทเทียม เพื่อลดขนาดและเพิ่มความเร็ว"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเพิ่มประสิทธิภาพโมเดลที่ลดความแม่นยำของตัวเลขที่ใช้ในการคำนวณเครือข่ายประสาทเทียม
+  เพื่อลดขนาดและเพิ่มความเร็ว
 ---
-
 ## Definition
 
 การควอนไทซ์แปลงตัวเลขจุดลอยตัวที่มีความแม่นยำสูง (เช่น FP32) ให้เป็นรูปแบบที่มีความแม่นยำต่ำกว่า (เช่น INT8 หรือ FP16) การลดความแม่นยำนี้ช่วยลดการใช้งานหน่วยความจำและความต้องการในการคำนวณของโมเดล โดยยังคงรักษาประสิทธิภาพการทำงานไว้ได้ในระดับที่ยอมรับได้

@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /zh/terms/percept/
 date: "2026-07-18T11:29:41.113524Z"
 lastmod: "2026-07-18T11:44:45.541765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由感知器处理后的感官输入所产生的心理表征或解释结果。"
 ---
-
 ## Definition
 
 知觉是外部刺激经过感知系统处理后形成的内部表征。在人工智能中，这对应于从低级信号处理中输出的结构化数据

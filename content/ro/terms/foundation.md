@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /ro/terms/foundation/
 date: "2026-07-18T15:25:47.560383Z"
 lastmod: "2026-07-18T17:15:09.594343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model pre-antrenat pe seturi masive de date, care servește ca punct de plecare pentru diverse sarcini downstream."
 ---
-
 ## Definition
 
 În inteligența artificială, un model de bază se referă la un model de învățare automată de scară largă, antrenat pe date extinse, cum ar fi imagini, text sau audio. Aceste modele sunt concepute pentru a fi adaptabile

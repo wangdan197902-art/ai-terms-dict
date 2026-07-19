@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /id/terms/bradleyterry_model/
 date: "2026-07-18T15:41:18.108861Z"
 lastmod: "2026-07-18T16:38:07.434517Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model statistik yang digunakan untuk menganalisis data perbandingan berpasangan, memperkirakan probabilitas bahwa satu item lebih disukai daripada item lainnya."
 ---
-
 ## Definition
 
 Model Bradley-Terry adalah model probabilistik yang banyak digunakan dalam psikometrika dan pembelajaran mesin untuk menangani perbandingan berpasangan. Model ini menetapkan skor laten untuk setiap item, menghitung probabilitas

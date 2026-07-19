@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /da/terms/schema_agnostic_databases/
 date: "2026-07-18T16:16:16.506544Z"
 lastmod: "2026-07-18T17:15:09.329464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Skema-agnostiske databaser er lagersystemer, der tillader fleksible datastrukturer uden at kræve foruddefinerede skemaer, ofte brugt i NoSQL-miljøer."
 ---
-
 ## Definition
 
 Disse databaser muliggør dynamisk datamodellering ved ikke at håndhæve stive tabelstrukturer eller kolonnedefinitioner på forhånd. Denne fleksibilitet gør det muligt for udviklere at lagre ustrukturerede eller semistrukturerede data, hvilket passer godt til agile udviklingsprocesser.

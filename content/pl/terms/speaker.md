@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /pl/terms/speaker/
 date: "2026-07-18T16:18:57.343909Z"
 lastmod: "2026-07-18T17:15:08.919829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Osoba wytwarzająca dźwięki wokalne lub mowę w sygnale audio."
 ---
-
 ## Definition
 
 W przetwarzaniu mowy mówca jest zdefiniowany jako odrębne źródło ludzkiego głosu w nagraniu audio. Identyfikacja i rozróżnianie mówców jest fundamentalna dla analizy rozmów oraz zapewnienia bezpieczeń...

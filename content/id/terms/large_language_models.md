@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /id/terms/large_language_models/
 date: "2026-07-18T15:26:54.087879Z"
 lastmod: "2026-07-18T16:38:07.396062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Paradigma penggunaan jaringan saraf yang diskalakan untuk tugas pemahaman dan generasi bahasa alami spektrum luas."
 ---
-
 ## Definition
 
 Istilah ini merujuk pada paradigma aplikasi yang lebih luas di mana model dengan miliaran parameter dimanfaatkan untuk pembelajaran nol-sampel atau sedikit-sampel di berbagai tugas linguistik. Berbeda dengan model khusus

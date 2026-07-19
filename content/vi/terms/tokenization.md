@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /vi/terms/tokenization/
 date: "2026-07-18T15:29:40.470831Z"
 lastmod: "2026-07-18T16:38:07.698076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chuyển đổi thành Token là quá trình chia nhỏ văn bản thô thành các đơn vị nhỏ hơn gọi là token, có thể được xử lý bởi các thuật toán học máy."
 ---
-
 ## Definition
 
 Chuyển đổi thành Token là một bước tiền xử lý quan trọng trong Xử lý Ngôn ngữ Tự nhiên (NLP), chuyển đổi văn bản không cấu trúc thành dữ liệu có cấu trúc phù hợp để mô hình tiêu thụ. Quá trình này bao gồm việc phân tách câu thành các phần tử nhỏ hơn như từ hoặc cụm từ dựa trên các quy tắc hoặc mô hình từ vựng cụ thể.

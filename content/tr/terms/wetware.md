@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Neuroscience", "Terminology"]
 difficulty: 4
 weight: 1
 slug: "wetware"
-aliases:
-  - /tr/terms/wetware/
 date: "2026-07-18T16:21:13.321201Z"
 lastmod: "2026-07-18T16:38:07.377584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgisayar bağlamlarında genellikle donanım ve yazılıma karşıt olarak kullanılan, biyolojik beyinleri veya canlı dokuyu ifade eden terim."
 ---
-
 ## Definition
 
 Wetware başlangıçta biyolojik beyin dokusunu ifade etse de, kibernetik ve transhümanizm bağlamında insan zihnini veya beynini bir hesaplama sistemi olarak tanımlamak amacıyla evrilmiştir. 'Donanım' (fiziksel bileşenler) ve

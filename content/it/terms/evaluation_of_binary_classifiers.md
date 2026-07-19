@@ -1,23 +1,24 @@
 ---
-title: "Valutazione dei classificatori binari"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Valutazione dei classificatori binari
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /it/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:58:57.465469Z"
-lastmod: "2026-07-18T17:15:08.623842Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:58:57.465469Z'
+lastmod: '2026-07-18T17:15:08.623842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di valutazione delle prestazioni dei modelli di apprendimento automatico che prevedono uno dei due possibili risultati."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di valutazione delle prestazioni dei modelli di apprendimento
+  automatico che prevedono uno dei due possibili risultati.
 ---
-
 ## Definition
 
 Questo campo coinvolge l'analisi di metriche come accuratezza, precisione, richiamo (recall), punteggio F1 e l'Aire Sotto la Curva ROC (AUC-ROC). Aiuta a determinare quanto bene un modello distingue le classi.

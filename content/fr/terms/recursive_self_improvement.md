@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /fr/terms/recursive_self_improvement/
 date: "2026-07-18T11:36:07.251202Z"
 lastmod: "2026-07-18T11:44:45.321023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un processus par lequel un système d'IA améliore itérativement sa propre intelligence ou ses capacités grâce à l'auto-modification."
 ---
-
 ## Definition
 
 L'amélioration de soi récursive désigne la capacité théorique d'un système d'intelligence artificielle à réécrire son propre code source ou son architecture pour devenir plus intelligent, plus efficace ou plus performant.

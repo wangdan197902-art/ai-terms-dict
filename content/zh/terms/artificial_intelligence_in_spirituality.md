@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /zh/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T11:06:52.938020Z"
 lastmod: "2026-07-18T11:44:45.445500Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "新兴的交叉领域，其中人工智能被用于灵性指导、冥想辅助或探索哲学问题。"
 ---
-
 ## Definition
 
 灵性中的人工智能指将人工智能应用于宗教或沉思语境。这包括提供道德建议的聊天机器人、用于冥想的AI生成艺术，或用于分析神学文本的算法。

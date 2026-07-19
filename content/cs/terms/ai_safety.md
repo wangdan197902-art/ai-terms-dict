@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /cs/terms/ai_safety/
 date: "2026-07-18T15:22:18.954401Z"
 lastmod: "2026-07-18T17:15:09.061129Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obor studia zaměřený na prevenci nechtěných škodlivých důsledků pokročilých systémů umělé inteligence."
 ---
-
 ## Definition
 
 Bezpečnost AI zahrnuje výzkum a praxe zaměřené na zajištění toho, aby autonomní systémy jednaly způsobem, který je prospěšný a neškodný pro lidi. Řeší rizika, jako je zkreslení, dezinformace nebo bezpečnostní hrozby.

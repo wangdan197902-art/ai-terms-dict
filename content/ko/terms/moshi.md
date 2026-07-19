@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /ko/terms/moshi/
 date: "2026-07-18T16:06:20.712606Z"
 lastmod: "2026-07-18T16:38:06.886925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "Kyutai가 개발한 음성-언어 모델로, 원활한 다중 모달 상호작용을 위해 텍스트와 오디오 표현을 함께 학습합니다."
 ---
-
 ## Definition
 
 모시는 Kyutai가 만든 고급 AI 모델로, 음성 처리와 텍스트 처리를 통합된 프레임워크로 결합합니다. 전통적인 시스템이 음성을 텍스트로 변환한 후 처리하는 것과 달리, 모시는 음성 및 텍스트 표현을 함께 학습하여 자연스러운 상호작용을 가능하게 합니다.

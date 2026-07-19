@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /hu/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:53:44.046149Z"
 lastmod: "2026-07-18T17:15:09.769795Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy nagy léptékű adathalmaz, amely a számítástudományi publikációkon és idézeteken alapul, és tudományos cikkekre vonatkozó beágyazási modellek tanítására tervezték."
 ---
-
 ## Definition
 
 A Specter adathalmazt a számítástudományi cikkek hatalmas gyűjteményéből állították össze, az idézési hálózatokat felhasználva felügyelt tanítási jelek létrehozására. Az absztraktokat azok idéző cikkeivel párosítja,

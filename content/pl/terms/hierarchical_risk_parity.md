@@ -1,23 +1,24 @@
 ---
-title: "Hierarchiczna Parytet Ryzyka"
-term_id: "hierarchical_risk_parity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "optimization", "clustering"]
+title: Hierarchiczna Parytet Ryzyka
+term_id: hierarchical_risk_parity
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Optimization
+- Clustering
 difficulty: 4
 weight: 1
-slug: "hierarchical_risk_parity"
-aliases:
-  - /pl/terms/hierarchical_risk_parity/
-date: "2026-07-18T15:58:47.934193Z"
-lastmod: "2026-07-18T17:15:08.882009Z"
+slug: hierarchical_risk_parity
+date: '2026-07-18T15:58:47.934193Z'
+lastmod: '2026-07-18T17:15:08.882009Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika optymalizacji portfela wykorzystująca klasteryzację do obsługi korelacji między aktywami i alokacji ryzyka w ramach hierarchicznych klastrów."
+source: agnes_llm
+status: published
+language: pl
+description: Technika optymalizacji portfela wykorzystująca klasteryzację do obsługi
+  korelacji między aktywami i alokacji ryzyka w ramach hierarchicznych klastrów.
 ---
-
 ## Definition
 
 Hierarchiczna Parytet Ryzyka (HRP) to metoda konstruowania portfela, która rozwiązuje ograniczenia tradycyjnej optymalizacji średniej-wariancji poprzez uwzględnienie struktur korelacji. Wykorzystuje hierarchiczną klasteryzację aktywów na podstawie macierzy kowariancji, co pozwala na uniknięcie problemów z niestabilnością wag wynikających z błędów estymacji korelacji. Proces alokacji ryzyka odbywa się rekurencyjnie wzdłuż drzewa hierarchicznego.

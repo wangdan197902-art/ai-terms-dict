@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /ja/terms/text_to_video/
 date: "2026-07-18T11:34:40.758758Z"
 lastmod: "2026-07-18T11:44:45.150774Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "テキスト・トゥ・ビデオは、テキストの説明やプロンプトから動画クリップを生成するAI機能です。"
 ---
-
 ## Definition
 
 テキスト・トゥ・ビデオとは、自然言語の入力に基づいて動的な視覚コンテンツを作成する生成AIモデルを指します。これらのシステムは、テキストプロンプトから意味を理解し、一貫性のあるシーケンスを合成します。

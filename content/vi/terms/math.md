@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /vi/terms/math/
 date: "2026-07-18T16:02:22.002493Z"
 lastmod: "2026-07-18T16:38:07.780696Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Ngành nền tảng liên quan đến số, cấu trúc, không gian và sự thay đổi, thiết yếu cho việc hình thành và giải quyết các vấn đề AI."
 ---
-
 ## Definition
 
 Trong bối cảnh trí tuệ nhân tạo, toán học cung cấp khung lý thuyết cho thiết kế và phân tích thuật toán. Các nhánh chính bao gồm đại số tuyến tính cho biểu diễn dữ liệu, giải tích cho tối

@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /vi/terms/ai_mode/
 date: "2026-07-18T15:38:05.038313Z"
 lastmod: "2026-07-18T16:38:07.716729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trạng thái chức năng trong giao diện phần mềm nơi trí tuệ nhân tạo hỗ trợ hoặc tự động hóa các tác vụ một cách chủ động."
 ---
-
 ## Definition
 
 Chế độ AI đề cập đến một trạng thái vận hành cụ thể trong các nền tảng kỹ thuật số hoặc ứng dụng, nơi các khả năng của AI được kích hoạt để nâng cao tương tác với người dùng. Chế độ này thường cho phép các tính năng như xử lý ngôn ngữ tự nhiên hoặc tạo nội dung thông minh.

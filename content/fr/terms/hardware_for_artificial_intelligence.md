@@ -1,23 +1,25 @@
 ---
-title: "Matériel pour l'intelligence artificielle"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Matériel pour l'intelligence artificielle
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /fr/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T11:20:01.910751Z"
-lastmod: "2026-07-18T11:44:45.267901Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T11:20:01.910751Z'
+lastmod: '2026-07-18T11:44:45.267901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Composants physiques spécialisés conçus pour accélérer les exigences computationnelles des algorithmes d'apprentissage automatique et de l'entraînement des réseaux neuronaux."
+source: agnes_llm
+status: published
+language: fr
+description: Composants physiques spécialisés conçus pour accélérer les exigences
+  computationnelles des algorithmes d'apprentissage automatique et de l'entraînement
+  des réseaux neuronaux.
 ---
-
 ## Definition
 
 Le matériel d'IA fait référence aux dispositifs de calcul spécialisés optimisés pour le traitement parallèle massif requis par les charges de travail d'apprentissage automatique. Cela inclut les unités de traitement graphique (GPU) pour le traitement général, les unités de traitement tensoriel (TPU) pour les opérations de tenseurs spécifiques à TensorFlow, et d'autres accélérateurs matériels.

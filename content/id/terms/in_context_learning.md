@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /id/terms/in_context_learning/
 date: "2026-07-18T15:23:01.511884Z"
 lastmod: "2026-07-18T16:38:07.387896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah teknik di mana model belajar melakukan tugas dengan mengamati contoh yang disediakan dalam prompt."
 ---
-
 ## Definition
 
 Pembelajaran dalam konteks (ICL) memungkinkan model bahasa besar beradaptasi dengan tugas baru tanpa memperbarui bobotnya. Dengan menyediakan pasangan input-output dalam konteks prompt, model menyimpulkan pola dan

@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /en/terms/ai_browser/
 date: "2026-07-18T09:43:55.787734Z"
 lastmod: "2026-07-18T11:44:44.636398Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A web browser integrated with AI capabilities to assist with search, summarization, and content analysis."
 ---
-
 ## Definition
 
 An AI browser is a web browsing application that incorporates artificial intelligence features directly into the user interface. These features typically include natural language search, automatic content summarization, translation, and contextual assistance. By leveraging large language models, these browsers aim to streamline information retrieval and processing, allowing users to interact with web content more efficiently through conversational queries and intelligent recommendations.

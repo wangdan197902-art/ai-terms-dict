@@ -1,23 +1,25 @@
 ---
-title: "Ενεργητική μάθηση"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Ενεργητική μάθηση
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /el/terms/active_learning/
-date: "2026-07-18T15:47:56.667774Z"
-lastmod: "2026-07-18T17:15:09.876556Z"
+slug: active_learning
+date: '2026-07-18T15:47:56.667774Z'
+lastmod: '2026-07-18T17:15:09.876556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στρατηγική μηχανικής μάθησης όπου ο αλγόριθμος επιλεκτικά ζητά από έναν χρήστη ή ένα οράκιο να ετικετοποιήσει νέα σημεία δεδομένων, βελτιστοποιώντας τη διαδικασία εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Μια στρατηγική μηχανικής μάθησης όπου ο αλγόριθμος επιλεκτικά ζητά από
+  έναν χρήστη ή ένα οράκιο να ετικετοποιήσει νέα σημεία δεδομένων, βελτιστοποιώντας
+  τη διαδικασία εκπαίδευσης.
 ---
-
 ## Definition
 
 Η ενεργητική μάθηση μειώνει την ποσότητα των ετικετοποιημένων δεδομένων που απαιτούνται, επιτρέποντας στο μοντέλο να επιλέγει τις πιο πληροφοριακές στιγμιότυπα για ανθρώπινη ετικετοποίηση. Αντί να λαμβάνει παθητικά τυχαία δείγματα, ο αλγόριθμος ενεργοποιείται για να καθορίσει ποια δεδομένα θα ετικετοποιηθούν επόμενα.

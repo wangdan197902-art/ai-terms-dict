@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /de/terms/cli/
 date: "2026-07-18T10:57:35.607292Z"
 lastmod: "2026-07-18T11:44:44.892953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Befehlszeilenschnittstelle (Command Line Interface) ist eine textbasierte Methode zur Interaktion mit Softwareprogrammen durch Eingabe von Befehlen in ein Terminal."
 ---
-
 ## Definition
 
 Eine Befehlszeilenschnittstelle (CLI) ermöglicht es Nutzern, Software durch Eingabe textbasierter Befehle zu steuern, anstatt grafische Elemente zu verwenden. In der KI-Entwicklung sind CLIs unerlässlich für das Ausführen von Skripten, das Verwalten von m

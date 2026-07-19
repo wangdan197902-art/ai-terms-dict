@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /ar/terms/vector_database/
 date: "2026-07-18T15:32:03.809875Z"
 lastmod: "2026-07-18T17:15:08.452224Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "قاعدة بيانات متخصصة مصممة لتخزين وفهرسة واستعلام المتجهات عالية الأبعاد التي تمثل ميزات البيانات."
 ---
-
 ## Definition
 
 تحسن قواعد البيانات المتجهة تخزين واسترجاع البيانات غير المهيكلة عن طريق تحويلها إلى تضمينات رقمية (embeddings). وتستخدم خوارزميات مثل الجار الأقرب التقريبي (ANN) لإيجاد التشابهات بكفاءة.

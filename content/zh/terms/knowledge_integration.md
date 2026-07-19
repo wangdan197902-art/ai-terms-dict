@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /zh/terms/knowledge_integration/
 date: "2026-07-18T11:23:17.078293Z"
 lastmod: "2026-07-18T11:44:45.521340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将异构知识源合并为统一、一致表示的过程，以增强推理能力。"
 ---
-
 ## Definition
 
 知识集成涉及从不同来源（如数据库、本体和未结构化文本）合并数据，形成连贯的模式。它解决了语义异质性和不一致性问题。

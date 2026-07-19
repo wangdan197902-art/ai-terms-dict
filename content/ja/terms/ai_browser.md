@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /ja/terms/ai_browser/
 date: "2026-07-18T11:02:10.055077Z"
 lastmod: "2026-07-18T11:44:45.060803Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "検索、要約、コンテンツ分析を支援するためにAI機能を統合したウェブブラウザ。"
 ---
-
 ## Definition
 
 AIブラウザは、人工知能の機能をユーザーインターフェースに直接組み込んだウェブ閲覧アプリケーションです。これらの機能には通常、自然言語による検索、自動コンテンツ要約、および対話型UIが含まれます。

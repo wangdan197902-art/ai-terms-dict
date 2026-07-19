@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /id/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:39:22.304520Z"
 lastmod: "2026-07-18T16:38:07.429033Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Titik temu yang sedang berkembang di mana AI digunakan untuk bimbingan spiritual, bantuan meditasi, atau mengeksplorasi pertanyaan filosofis."
 ---
-
 ## Definition
 
 AI dalam spiritualitas merujuk pada penerapan kecerdasan buatan dalam konteks religius atau kontemplatif. Ini termasuk chatbot yang menawarkan nasihat moral, seni yang dihasilkan AI untuk meditasi, atau algoritma yang menganalisis teks teologis untuk pemahaman mendalam.

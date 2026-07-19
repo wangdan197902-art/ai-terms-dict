@@ -1,23 +1,23 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /ja/terms/eagle/
-date: "2026-07-18T11:13:05.445169Z"
-lastmod: "2026-07-18T11:44:45.093526Z"
+slug: eagle
+date: '2026-07-18T11:13:05.445169Z'
+lastmod: '2026-07-18T11:44:45.093526Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "EagleはByteDanceによって開発された高性能なオープンソースの大規模言語モデル（LLM）フレームワークで、LLMの効率的な事前学習とファインチューニングを目的としています。"
+source: agnes_llm
+status: published
+language: ja
+description: EagleはByteDanceによって開発された高性能なオープンソースの大規模言語モデル（LLM）フレームワークで、LLMの効率的な事前学習とファインチューニングを目的としています。
 ---
-
 ## Definition
 
 Eagleは、大規模言語モデルのドメイン内にある特定のアーキテクチャおよびエンジニアリングフレームワークを表し、主にトレーニング効率性とスケーラビリティの最適化に関連しています。

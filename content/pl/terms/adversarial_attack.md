@@ -1,23 +1,25 @@
 ---
-title: "Atak adversarialny"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Atak adversarialny
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /pl/terms/adversarial_attack/
-date: "2026-07-18T15:39:16.056253Z"
-lastmod: "2026-07-18T17:15:08.842539Z"
+slug: adversarial_attack
+date: '2026-07-18T15:39:16.056253Z'
+lastmod: '2026-07-18T17:15:08.842539Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Atak adversarialny to technika polegająca na dodawaniu małych, często niewidocznych zakłóceń do danych wejściowych w celu zmylenia modeli uczenia maszynowego i spowodowania błędnych przewidywań."
+source: agnes_llm
+status: published
+language: pl
+description: Atak adversarialny to technika polegająca na dodawaniu małych, często
+  niewidocznych zakłóceń do danych wejściowych w celu zmylenia modeli uczenia maszynowego
+  i spowodowania błędnych przewidywań.
 ---
-
 ## Definition
 
 Ataki adversarialne wykorzystują podatności sieci neuronowych poprzez wprowadzanie subtelnych szumów do danych wejściowych, takich jak obrazy czy tekst, co powoduje istotne błędy w wynikach modelu.

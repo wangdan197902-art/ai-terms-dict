@@ -1,23 +1,24 @@
 ---
-title: "상황 의존적"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: 상황 의존적
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /ko/terms/situated/
-date: "2026-07-18T16:15:19.466690Z"
-lastmod: "2026-07-18T16:38:06.908043Z"
+slug: situated
+date: '2026-07-18T16:15:19.466690Z'
+lastmod: '2026-07-18T16:38:06.908043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "AI 시스템이나 에이전트가 특정 물리적, 사회적 또는 환경적 맥락 내에서 작동하고 적응함을 나타냅니다."
+source: agnes_llm
+status: published
+language: ko
+description: AI 시스템이나 에이전트가 특정 물리적, 사회적 또는 환경적 맥락 내에서 작동하고 적응함을 나타냅니다.
 ---
-
 ## Definition
 
 인공지능에서 '상황 의존적(Situated)'은 환경에 내장되어 실시간으로 상호작용하는 에이전트를 의미합니다. 추상적인 문제 해결자와 달리 상황 의존적 에이전트는 감각 입력을 처리하고 환경의 변화에 즉각 반응해야 합니다.

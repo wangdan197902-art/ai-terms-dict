@@ -1,23 +1,24 @@
 ---
-title: "Génération augmentée par récupération"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Génération augmentée par récupération
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /fr/terms/rag/
-date: "2026-07-18T10:53:23.268679Z"
-lastmod: "2026-07-18T11:44:45.170663Z"
+slug: rag
+date: '2026-07-18T10:53:23.268679Z'
+lastmod: '2026-07-18T11:44:45.170663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La RAG est un cadre d'IA qui améliore les modèles génératifs en récupérant des informations pertinentes auprès de bases de connaissances externes avant de générer des réponses."
+source: agnes_llm
+status: published
+language: fr
+description: La RAG est un cadre d'IA qui améliore les modèles génératifs en récupérant
+  des informations pertinentes auprès de bases de connaissances externes avant de
+  générer des réponses.
 ---
-
 ## Definition
 
 La Génération augmentée par récupération (RAG) combine les forces des systèmes d'IA basés sur la récupération et ceux basés sur la génération. Au lieu de s'appuyer uniquement sur les paramètres d'un modèle de langage pré-entraîné, la RAG récupère d'abord

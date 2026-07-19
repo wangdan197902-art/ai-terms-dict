@@ -1,23 +1,24 @@
 ---
-title: "Herkenning van benoemde entiteiten"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Herkenning van benoemde entiteiten
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /nl/terms/named_entity_recognition/
-date: "2026-07-18T15:38:02.596242Z"
-lastmod: "2026-07-18T17:15:08.707000Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:38:02.596242Z'
+lastmod: '2026-07-18T17:15:08.707000Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een taak voor natuurlijke taalverwerking die belangrijke informatie-entiteiten identificeert en classificeert in vooraf gedefinieerde categorieën."
+source: agnes_llm
+status: published
+language: nl
+description: Een taak voor natuurlijke taalverwerking die belangrijke informatie-entiteiten
+  identificeert en classificeert in vooraf gedefinieerde categorieën.
 ---
-
 ## Definition
 
 Herkenning van benoemde entiteiten (NER) is een subtaak van informatiëxtractie die benoemde entiteiten in tekst lokaliseert en classificeert in vooraf gedefinieerde categorieën zoals persoonsnamen, organisaties, locaties, medicijnen en datums. Het is essentieel voor het structureren van ongestructureerde tekstgegevens.

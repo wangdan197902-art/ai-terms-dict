@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /he/terms/alphachip/
-date: "2026-07-18T15:41:53.761059Z"
-lastmod: "2026-07-18T17:15:09.511604Z"
+slug: alphachip
+date: '2026-07-18T15:41:53.761059Z'
+lastmod: '2026-07-18T17:15:09.511604Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "כלי עיצוב שבבים המונע מבינה מלאכותית, שפותח על ידי Google DeepMind, המשתמש בלמידה חיזוקית כדי לייען פריסת מעגלים משולבים."
+source: agnes_llm
+status: published
+language: he
+description: כלי עיצוב שבבים המונע מבינה מלאכותית, שפותח על ידי Google DeepMind, המשתמש
+  בלמידה חיזוקית כדי לייען פריסת מעגלים משולבים.
 ---
-
 ## Definition
 
 AlphaChip הוא מערכת AI ייעודית המיועדת לאוטומציה ושיפור מיקום והטמעה של רכיבים בשבבים מיקרו-אלקטרוניים. באמצעות למידה חיזוקית עמוקה, היא מפחיתה משמעותית את הזמן הנדרש לתהליך העיצוב.

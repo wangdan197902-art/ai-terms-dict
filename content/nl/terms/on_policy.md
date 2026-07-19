@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /nl/terms/on_policy/
 date: "2026-07-18T15:32:54.132595Z"
 lastmod: "2026-07-18T17:15:08.699883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een aanpak voor versterkend leren waarbij het beleid dat wordt geëvalueerd en verbeterd hetzelfde is als het beleid dat wordt gebruikt om gegevens te genereren."
 ---
-
 ## Definition
 
 On-policy-algoritmen vereisen dat de agent leert direct uit de acties die worden ondernomen door zijn huidige beleid. Dit betekent dat gegevens die tijdens verkenning worden verzameld, onmiddellijk worden gebruikt om het beleid bij te werken, waardoor

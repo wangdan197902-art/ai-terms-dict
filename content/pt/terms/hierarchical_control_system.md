@@ -1,23 +1,24 @@
 ---
-title: "Sistema de Controle Hierárquico"
-term_id: "hierarchical_control_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "robotics", "architecture"]
+title: Sistema de Controle Hierárquico
+term_id: hierarchical_control_system
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- robotics
+- architecture
 difficulty: 3
 weight: 1
-slug: "hierarchical_control_system"
-aliases:
-  - /pt/terms/hierarchical_control_system/
-date: "2026-07-18T15:03:15.846572Z"
-lastmod: "2026-07-18T15:51:59.498093Z"
+slug: hierarchical_control_system
+date: '2026-07-18T15:03:15.846572Z'
+lastmod: '2026-07-18T15:51:59.498093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma arquitetura de controle onde a tomada de decisões é organizada em camadas, com níveis superiores definindo metas para controladores de nível inferior."
+source: agnes_llm
+status: published
+language: pt
+description: Uma arquitetura de controle onde a tomada de decisões é organizada em
+  camadas, com níveis superiores definindo metas para controladores de nível inferior.
 ---
-
 ## Definition
 
 Um sistema de controle hierárquico organiza a lógica de controle em múltiplas camadas, variando tipicamente do planejamento estratégico de alto nível à execução em tempo real de baixo nível. As camadas superiores definem objetivos e restrições, enquanto as camadas inferiores executam ações específicas para atingir esses objetivos.

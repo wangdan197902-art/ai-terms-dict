@@ -1,23 +1,24 @@
 ---
-title: "Регрессия шип-и-слайб (Spike-and-slab)"
-term_id: "spike_and_slab_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "bayesian", "regression"]
+title: Регрессия шип-и-слайб (Spike-and-slab)
+term_id: spike_and_slab_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- bayesian
+- Regression
 difficulty: 4
 weight: 1
-slug: "spike_and_slab_regression"
-aliases:
-  - /ru/terms/spike_and_slab_regression/
-date: "2026-07-18T16:16:52.436289Z"
-lastmod: "2026-07-18T16:38:07.204753Z"
+slug: spike_and_slab_regression
+date: '2026-07-18T16:16:52.436289Z'
+lastmod: '2026-07-18T16:38:07.204753Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Байесовский метод отбора переменных, использующий смешанное априорное распределение для различения нулевых и ненулевых коэффициентов."
+source: agnes_llm
+status: published
+language: ru
+description: Байесовский метод отбора переменных, использующий смешанное априорное
+  распределение для различения нулевых и ненулевых коэффициентов.
 ---
-
 ## Definition
 
 Регрессия шип-и-слайб — это байесовская статистическая техника, используемая для отбора переменных и разреженного моделирования. Она применяет смешанное априорное распределение, состоящее из двух компонентов: «шипа» (обычно представляющего вероятность того, что коэффициент равен нулю) и «слайба» (распределения для ненулевых коэффициентов). Этот подход позволяет эффективно выявлять значимые предикторы в данных с высокой размерностью.

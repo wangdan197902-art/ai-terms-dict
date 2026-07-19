@@ -1,23 +1,23 @@
 ---
-title: "交差検証"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: 交差検証
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /ja/terms/cross_validation/
-date: "2026-07-18T11:09:32.733147Z"
-lastmod: "2026-07-18T11:44:45.082094Z"
+slug: cross_validation
+date: '2026-07-18T11:09:32.733147Z'
+lastmod: '2026-07-18T11:44:45.082094Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "限られたデータサンプル上で機械学習モデルを評価するために、データをトレーニング用とテスト用のサブセットに分割するリサンプリング手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 限られたデータサンプル上で機械学習モデルを評価するために、データをトレーニング用とテスト用のサブセットに分割するリサンプリング手法。
 ---
-
 ## Definition
 
 交差検証は、機械学習モデルの性能を推定するための統計的手法です。最も一般的な形式はk-fold交差検証で、データをk個の等しい部分に分割します。各ステップで、1つの部分をテストセットとして、残りのk-1個の部分をトレーニングセットとして使用し、モデルの性能を測定します。このプロセスをk回繰り返して平均性能を算出します。

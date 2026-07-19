@@ -1,23 +1,24 @@
 ---
-title: "سياسة"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: سياسة
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /ar/terms/policy/
-date: "2026-07-18T15:29:26.089069Z"
-lastmod: "2026-07-18T17:15:08.445498Z"
+slug: policy
+date: '2026-07-18T15:29:26.089069Z'
+lastmod: '2026-07-18T17:15:08.445498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "استراتيجية أو خطة عمل مصممة لتوجيه القرارات وتحقيق نتائج عقلانية، وغالباً ما تُستخدم في التعلم المعزز لربط الحالات بالأفعال."
+source: agnes_llm
+status: published
+language: ar
+description: استراتيجية أو خطة عمل مصممة لتوجيه القرارات وتحقيق نتائج عقلانية، وغالباً
+  ما تُستخدم في التعلم المعزز لربط الحالات بالأفعال.
 ---
-
 ## Definition
 
 للمصطلح 'سياسة' معنيان مزدوجان حسب السياق. في الإدارة العامة، هو مبدأ توجيهي لاتخاذ القرار. في التعلم المعزز (RL)، تمثل السياسة مكوناً أساسياً في...

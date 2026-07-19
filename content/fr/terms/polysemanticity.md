@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /fr/terms/polysemanticity/
 date: "2026-07-18T11:33:47.558633Z"
 lastmod: "2026-07-18T11:44:45.312464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le phénomène selon lequel des neurones individuels dans les réseaux neuronaux répondent à plusieurs concepts distincts."
 ---
-
 ## Definition
 
 La poly-sémantique est une caractéristique observée dans les réseaux neuronaux profonds, en particulier dans les transformateurs, où un seul neurone peut s'activer en réponse à plusieurs fonctionnalités non liées ou sémantiquement distinctes.

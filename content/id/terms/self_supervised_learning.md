@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran Mandiri-Tersupervisi"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Pembelajaran Mandiri-Tersupervisi
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /id/terms/self_supervised_learning/
-date: "2026-07-18T15:36:05.535259Z"
-lastmod: "2026-07-18T16:38:07.419241Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:36:05.535259Z'
+lastmod: '2026-07-18T16:38:07.419241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Metode pelatihan di mana model menghasilkan labelnya sendiri dari data input untuk mempelajari representasi."
+source: agnes_llm
+status: published
+language: id
+description: Metode pelatihan di mana model menghasilkan labelnya sendiri dari data
+  input untuk mempelajari representasi.
 ---
-
 ## Definition
 
 Pembelajaran mandiri-tersupervisi adalah teknik di mana algoritma membuat sinyal pengawasan dari data yang tidak berlabel itu sendiri, biasanya dengan memprediksi bagian input yang hilang. Hal ini menjembatani kesenjangan antara pembelajaran tanpa pengawasan dan tersupervisi.

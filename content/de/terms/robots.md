@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /de/terms/robots/
 date: "2026-07-18T10:53:24.614008Z"
 lastmod: "2026-07-18T11:44:44.882337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Mehrzahlform, die sich auf mehrere programmierbare Maschinen bezieht, die dazu ausgelegt sind, Aufgaben autonom auszuführen."
 ---
-
 ## Definition
 
 Roboter umfassen eine vielfältige Klasse von Maschinen, die nach ihrer Mobilität, Struktur oder ihrem Anwendungsbereich klassifiziert werden können. Diese Kategorie umfasst industrielle Arme, autonome mobile Roboter (AMRs), Drohnen und mehr.

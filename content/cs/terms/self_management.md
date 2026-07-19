@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /cs/terms/self_management/
 date: "2026-07-18T16:16:45.928810Z"
 lastmod: "2026-07-18T17:15:09.199131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sebeřízení v AI označuje schopnost autonomních systémů monitorovat, optimalizovat a opravovat vlastní provoz bez lidského zásahu."
 ---
-
 ## Definition
 
 Tento koncept zahrnuje kapacitu AI agentů nebo systémů samostatně řešit běžnou údržbu, alokaci zdrojů a opravu chyb. Zahrnuje funkce jako automatické škálování, samoopravu

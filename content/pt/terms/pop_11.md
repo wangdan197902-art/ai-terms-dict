@@ -1,23 +1,25 @@
 ---
-title: "POP-11"
-term_id: "pop_11"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "history_of_ai", "education"]
+title: POP-11
+term_id: pop_11
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- History Of AI
+- education
 difficulty: 3
 weight: 1
-slug: "pop_11"
-aliases:
-  - /pt/terms/pop_11/
-date: "2026-07-18T15:15:51.755877Z"
-lastmod: "2026-07-18T15:51:59.520640Z"
+slug: pop_11
+date: '2026-07-18T15:15:51.755877Z'
+lastmod: '2026-07-18T15:51:59.520640Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "POP-11 é uma linguagem de programação de alto nível desenvolvida na Universidade de Edimburgo, utilizada principalmente para pesquisa em inteligência artificial e ensino de ciência cognitiva."
+source: agnes_llm
+status: published
+language: pt
+description: POP-11 é uma linguagem de programação de alto nível desenvolvida na Universidade
+  de Edimburgo, utilizada principalmente para pesquisa em inteligência artificial
+  e ensino de ciência cognitiva.
 ---
-
 ## Definition
 
 POP-11 (Program Oriented Problem Solving) é uma linguagem de programação multiparadigma que combina recursos de programação procedural, orientada a objetos e lógica. Foi criada na década de 1970 e tornou-se um...

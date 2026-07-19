@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /sv/terms/moe/
 date: "2026-07-18T16:10:27.044588Z"
 lastmod: "2026-07-18T17:15:09.028316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En arkitekturmönster där flera specialiserade neuronnätverk (experter) kombineras via en styrningsmekanism för att bearbeta indata."
 ---
-
 ## Definition
 
 Blandning av experter (MoE) är en maskininlärningsarkitektur utformad för att förbättra effektivitet och skalbarhet. Istället för att använda en enda stor modell för alla uppgifter använder MoE flera mindre 'expert'-nätverk.

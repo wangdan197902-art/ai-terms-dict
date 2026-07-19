@@ -1,23 +1,23 @@
 ---
-title: "자가 관리형 네트워킹"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: 자가 관리형 네트워킹
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /ko/terms/autonomic_networking/
-date: "2026-07-18T15:43:03.723991Z"
-lastmod: "2026-07-18T16:38:06.811960Z"
+slug: autonomic_networking
+date: '2026-07-18T15:43:03.723991Z'
+lastmod: '2026-07-18T16:38:06.811960Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "AI를 사용하여 구성, 최적화 및 자가 치유를 수행하는 자기 관리형 네트워크 인프라입니다."
+source: agnes_llm
+status: published
+language: ko
+description: AI를 사용하여 구성, 최적화 및 자가 치유를 수행하는 자기 관리형 네트워크 인프라입니다.
 ---
-
 ## Definition
 
 자가 관리형 네트워킹은 자율 컴퓨팅의 원칙을 통신 네트워크에 적용하여 최소한의 인간 개입으로 시스템을 스스로 관리할 수 있도록 합니다. 이러한 네트워크는 AI를 사용하여 고장을 감지하고...

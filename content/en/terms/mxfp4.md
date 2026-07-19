@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /en/terms/mxfp4/
-date: "2026-07-18T10:08:54.012211Z"
-lastmod: "2026-07-18T11:44:44.703123Z"
+slug: mxfp4
+date: '2026-07-18T10:08:54.012211Z'
+lastmod: '2026-07-18T11:44:44.703123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "MXFP4 is a mixed-precision floating-point format optimized for efficient matrix multiplication in AI hardware accelerators."
+source: agnes_llm
+status: published
+language: en
+description: MXFP4 is a mixed-precision floating-point format optimized for efficient
+  matrix multiplication in AI hardware accelerators.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) is a specialized data type format introduced to optimize performance and reduce memory bandwidth usage in AI workloads. By allowing mixed precision operations, it balances computational efficiency with numerical accuracy, particularly beneficial for inference tasks on modern GPUs and TPUs. This format helps mitigate the precision loss typically associated with lower-bit quantization while significantly accelerating matrix operations essential for deep learning models.

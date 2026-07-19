@@ -7,8 +7,6 @@ tags: ["workflow", "process"]
 difficulty: 1
 weight: 1
 slug: "finally"
-aliases:
-  - /tr/terms/finally/
 date: "2026-07-18T15:25:11.953026Z"
 lastmod: "2026-07-18T16:38:07.232113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka iş akışlarında 'nihayet', tüm işleme aşamaları tamamlandıktan sonra gelen son adımı veya çıktı oluşturma fazını belirtir."
 ---
-
 ## Definition
 
 'Nihayet' kavramı, işlenmiş verinin bir tahmin, sınıflandırma veya oluşturulan metin gibi nihai bir sonuca ulaştığı yapay zeka hattındaki son aşamayı temsil eder. Hesaplamanın sonunu işaret eder.

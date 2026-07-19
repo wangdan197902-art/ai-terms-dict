@@ -1,23 +1,24 @@
 ---
-title: "Læring af handlingsmodeller"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Læring af handlingsmodeller
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /da/terms/action_model_learning/
-date: "2026-07-18T15:40:09.254943Z"
-lastmod: "2026-07-18T17:15:09.255962Z"
+slug: action_model_learning
+date: '2026-07-18T15:40:09.254943Z'
+lastmod: '2026-07-18T17:15:09.255962Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik inden for forstærkningstræning, hvor en agent lærer miljøets dynamik ved at observere effekterne af sine egne handlinger."
+source: agnes_llm
+status: published
+language: da
+description: En teknik inden for forstærkningstræning, hvor en agent lærer miljøets
+  dynamik ved at observere effekterne af sine egne handlinger.
 ---
-
 ## Definition
 
 Læring af handlingsmodeller involverer, at en agent opbygger en intern repræsentation af, hvordan dens handlinger overfører miljøet fra én tilstand til en anden. I modsætning til passiv observation udnytter denne metode agentens egen interaktion med miljøet for at forstå dets fysiske love.

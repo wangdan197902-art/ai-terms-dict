@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /fi/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:59:25.050659Z"
 lastmod: "2026-07-18T17:15:09.414611Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Organisaatioiden luottamus generatiivisiin tekoälyjärjestelmiin kriittisissä toimissa, mikä luo riskejä saatavuuden, tarkkuuden ja turvallisuuden osalta."
 ---
-
 ## Definition
 
 Tämä käsite viittaa yritysten strategiseen ja operatiiviseen riippuvuuteen generatiivisista tekoälymalleista olennaisten tehtävien suorittamisessa, kuten sisällöntuotannossa, asiakaspalvelussa ja datan analysoinnissa. Kun adoptaatio

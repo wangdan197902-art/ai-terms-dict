@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /vi/terms/tool_use/
 date: "2026-07-18T15:37:36.574379Z"
 lastmod: "2026-07-18T16:38:07.715232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình trong đó các tác nhân AI chọn và thực thi các hàm hoặc API bên ngoài để thực hiện các nhiệm vụ cụ thể vượt quá khả năng gốc của chúng."
 ---
-
 ## Definition
 
 Sử dụng Công cụ cho phép các mô hình ngôn ngữ tương tác với môi trường phần mềm bên ngoài bằng cách gọi các hàm đã xác định trước, như máy tính công cụ, công cụ tìm kiếm hoặc truy vấn cơ sở dữ liệu. Cách tiếp cận này mở rộng phạm vi

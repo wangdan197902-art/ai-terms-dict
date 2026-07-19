@@ -1,23 +1,24 @@
 ---
-title: "Klasifikace textu"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: Klasifikace textu
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /cs/terms/text_classification/
-date: "2026-07-18T16:19:53.138243Z"
-lastmod: "2026-07-18T17:15:09.205993Z"
+slug: text_classification
+date: '2026-07-18T16:19:53.138243Z'
+lastmod: '2026-07-18T17:15:09.205993Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces kategorizace textu do uspořádaných skupin na základě jeho obsahu nebo sémantického významu."
+source: agnes_llm
+status: published
+language: cs
+description: Proces kategorizace textu do uspořádaných skupin na základě jeho obsahu
+  nebo sémantického významu.
 ---
-
 ## Definition
 
 Klasifikace textu je úloha supervizovaného učení, kde algoritmy přiřazují předdefinované kategorie neuspořádaným textovým datům. Běžné techniky zahrnují Naivní Bayes, Podporové vektory a Hluboké učení.

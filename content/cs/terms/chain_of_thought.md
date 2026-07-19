@@ -1,23 +1,24 @@
 ---
-title: "Řetěz myšlenek"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Řetěz myšlenek
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /cs/terms/chain_of_thought/
-date: "2026-07-18T15:22:32.703794Z"
-lastmod: "2026-07-18T17:15:09.062017Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:32.703794Z'
+lastmod: '2026-07-18T17:15:09.062017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika zadávání dotazů, která podporuje velké jazykové modely k generování mezikroků úsudku před odpovědí."
+source: agnes_llm
+status: published
+language: cs
+description: Technika zadávání dotazů, která podporuje velké jazykové modely k generování
+  mezikroků úsudku před odpovědí.
 ---
-
 ## Definition
 
 Zadávání dotazů pomocí řetězce myšlenek (Chain-of-Thought, CoT) je strategie, při které jsou velké jazykové modely vedeny k tomu, aby před dosažením konečné odpovědi produkovaly vysvětlení krok za krokem. Rozkládáním složitých problémů

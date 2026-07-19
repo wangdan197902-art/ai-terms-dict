@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /cs/terms/speaker/
 date: "2026-07-18T16:18:36.654218Z"
 lastmod: "2026-07-18T17:15:09.202709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Jedinec produkující vokální zvuky nebo řeč v rámci audio signálu."
 ---
-
 ## Definition
 
 V zpracování řeči je mluvicí osoba definována jako odlišný zdroj lidského hlasu v audio nahrávce. Identifikace a rozlišení jednotlivých mluvčích je zásadní pro analýzu konverzací, zajištění bezpečnosti a personalizaci služeb.

@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /da/terms/elmo/
 date: "2026-07-18T15:53:45.464444Z"
 lastmod: "2026-07-18T17:15:09.283083Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Embeddings fra sprogmodeller, en metode til dyb kontekstuel ordrepræsentation, der bruger bidirektionelle LSTMs."
 ---
-
 ## Definition
 
 ELMo genererer kontekstsensitive ordembeddings ved at behandle inputtekst gennem en bidirektionel LSTM, der er trænet på et stort korpus. I modsætning til statiske embeddings som Word2Vec fanger ELMo polysemi ved at producere forskellige repræsentationer for samme ord afhængigt af konteksten.

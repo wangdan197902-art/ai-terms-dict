@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /hu/terms/real_time/
 date: "2026-07-18T15:36:32.088789Z"
 lastmod: "2026-07-18T17:15:09.737341Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A valós idejű feldolgozás olyan rendszerekre utal, amelyek szigorú, garantált időkorlátokon belül számítanak és szolgáltatnak eredményeket a bemenet fogadásának pillanatában."
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a valós idejű kifejezés azt a képességet jelöli, hogy egy rendszer minimális késleltetéssel, gyakran milliszekundumok alatt dolgozza fel a bemeneteket és generálja a kimeneteket. Ez elengedhetetlen olyan alkalmazásoknál, ahol a késedelem kritikus lehet, például autonóm járműveknél vagy online csalásmegelőzésnél.

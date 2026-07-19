@@ -1,23 +1,23 @@
 ---
-title: "数据增强"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: 数据增强
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /zh/terms/data_augmentation/
-date: "2026-07-18T11:12:24.479703Z"
-lastmod: "2026-07-18T11:44:45.471065Z"
+slug: data_augmentation
+date: '2026-07-18T11:12:24.479703Z'
+lastmod: '2026-07-18T11:44:45.471065Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "数据增强是一种通过变换现有数据点来增加训练数据集多样性和规模的技术。"
+source: agnes_llm
+status: published
+language: zh
+description: 数据增强是一种通过变换现有数据点来增加训练数据集多样性和规模的技术。
 ---
-
 ## Definition
 
 这种方法通过创建现有样本的修改版本来人工扩展训练数据集，例如旋转图像、在音频中添加噪声或在文本中进行同义词替换。它有助于防止……

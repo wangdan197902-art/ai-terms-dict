@@ -1,23 +1,24 @@
 ---
-title: "Optimización de hiperparámetros"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Optimización de hiperparámetros
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /es/terms/hyperparameter_optimization/
-date: "2026-07-18T10:53:49.564010Z"
-lastmod: "2026-07-18T11:44:44.816972Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T10:53:49.564010Z'
+lastmod: '2026-07-18T11:44:44.816972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un enfoque automatizado para encontrar la configuración óptima de hiperparámetros, a menudo utilizando modelos probabilísticos para guiar la búsqueda."
+source: agnes_llm
+status: published
+language: es
+description: Un enfoque automatizado para encontrar la configuración óptima de hiperparámetros,
+  a menudo utilizando modelos probabilísticos para guiar la búsqueda.
 ---
-
 ## Definition
 
 La Optimización de Hiperparámetros (HPO) se refiere al campo más amplio de automatización de la selección de hiperparámetros. Mientras que el ajuste es el acto general, la HPO suele implicar el uso de algoritmos sofisticados co

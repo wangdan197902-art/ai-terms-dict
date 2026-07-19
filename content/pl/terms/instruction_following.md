@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /pl/terms/instruction_following/
 date: "2026-07-18T16:01:24.934552Z"
 lastmod: "2026-07-18T17:15:08.886370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zdolność modelu AI do dokładnego interpretowania i wykonywania konkretnych poleceń lub ograniczeń stawianych przez człowieka."
 ---
-
 ## Definition
 
 Podążanie za instrukcjami odnosi się do zdolności dużych modeli językowych oraz innych systemów AI do rozumienia niuansowych dyrektyw człowieka i przestrzegania jawnych ograniczeń zawartych w poleceniu (prompt). Ta zmiana paradygmatu...

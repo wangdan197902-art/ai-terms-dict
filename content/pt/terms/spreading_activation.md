@@ -1,23 +1,24 @@
 ---
-title: "Ativação Difusa"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: Ativação Difusa
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /pt/terms/spreading_activation/
-date: "2026-07-18T15:23:17.126111Z"
-lastmod: "2026-07-18T15:51:59.534951Z"
+slug: spreading_activation
+date: '2026-07-18T15:23:17.126111Z'
+lastmod: '2026-07-18T15:51:59.534951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um mecanismo inspirado na cognição onde a ativação de um nó desencadeia a ativação em nós conectados dentro de uma rede."
+source: agnes_llm
+status: published
+language: pt
+description: Um mecanismo inspirado na cognição onde a ativação de um nó desencadeia
+  a ativação em nós conectados dentro de uma rede.
 ---
-
 ## Definition
 
 A Ativação Difusa é um conceito originalmente da psicologia cognitiva, adaptado em redes neurais para descrever como a propagação de sinais ocorre através de unidades interconectadas. Quando um nó específico é ativado, essa ativação se espalha pelos nós vizinhos, enfraquecendo-se gradualmente com a distância ou o número de saltos na rede.

@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /vi/terms/reflection/
 date: "2026-07-18T16:10:21.484997Z"
 lastmod: "2026-07-18T16:38:07.800410Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Cơ chế cho phép các mô hình AI phân tích đầu ra, quá trình suy luận hoặc trạng thái nội bộ của chúng để cải thiện hiệu suất trong tương lai."
 ---
-
 ## Definition
 
 Trong AI, phản tư là một mô hình trong đó một mô hình tạm dừng để đánh giá quá trình tạo ra hoặc kết quả của chính nó trước khi hoàn tất. Điều này có thể bao gồm việc kiểm tra tính nhất quán về mặt logic, độ chính xác về mặt thực tế hoặc việc tuân thủ các quy tắc nhất định.

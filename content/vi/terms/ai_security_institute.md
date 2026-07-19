@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /vi/terms/ai_security_institute/
 date: "2026-07-18T15:38:05.038331Z"
 lastmod: "2026-07-18T16:38:07.717072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tổ chức chuyên nghiên cứu, phát triển và thúc đẩy các thực tiễn tốt nhất để bảo mật các hệ thống trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 Viện An ninh AI là một thực thể chuyên biệt tập trung vào việc giảm thiểu các rủi ro liên quan đến công nghệ trí tuệ nhân tạo. Các viện này tiến hành nghiên cứu về các cuộc tấn công đối kháng, quyền riêng tư dữ liệu và thiết lập các tiêu chuẩn an toàn cho việc triển khai AI.

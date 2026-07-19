@@ -1,23 +1,24 @@
 ---
-title: "Bild-till-video"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Bild-till-video
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /sv/terms/image_to_video/
-date: "2026-07-18T16:03:13.080680Z"
-lastmod: "2026-07-18T17:15:09.014106Z"
+slug: image_to_video
+date: '2026-07-18T16:03:13.080680Z'
+lastmod: '2026-07-18T17:15:09.014106Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En generativ process där en statisk bild animeras för att skapa en kort videosekvens, vilket tillför temporala dynamiker och rörelse."
+source: agnes_llm
+status: published
+language: sv
+description: En generativ process där en statisk bild animeras för att skapa en kort
+  videosekvens, vilket tillför temporala dynamiker och rörelse.
 ---
-
 ## Definition
 
 Tekniken Bild-till-video tar en enskild statisk bildram och förutsäger efterföljande ramar för att generera en sammanhängande videosekvens. Detta involverar modellering av temporell konsistens och fysikaliska dynamiker för att säkerställa naturlig rörelse.

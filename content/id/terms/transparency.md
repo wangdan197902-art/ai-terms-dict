@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /id/terms/transparency/
 date: "2026-07-18T15:36:31.695110Z"
 lastmod: "2026-07-18T16:38:07.420766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Tingkat di mana proses pengambilan keputusan, sumber data, dan keterbatasan sistem AI terbuka dan dapat dipahami oleh pengguna."
 ---
-
 ## Definition
 
 Transparansi memastikan bahwa pemangku kepentingan dapat memahami bagaimana model AI menghasilkan outputnya, sehingga menumbuhkan kepercayaan dan akuntabilitas. Hal ini melibatkan pengungkapan asal data pelatihan, arsitektur model, dan

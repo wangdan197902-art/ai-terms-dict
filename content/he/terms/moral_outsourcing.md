@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /he/terms/moral_outsourcing/
 date: "2026-07-18T16:13:12.225042Z"
 lastmod: "2026-07-18T17:15:09.565946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הדאגה האתית שבה אנשים או ארגונים ממלאים אחריות קבלת החלטות מוסריות למערכות AI אוטומטיות."
 ---
-
 ## Definition
 
 התעסקות מוסרית מתייחסת לתופעה שבה בני אדם מוותרים על שיפוט אתי ואחריות על אלגוריתמים או מערכות AI. זה קורה כאשר אנשים מסתמכים על החלטות אוטומטיות בנושאים בעלי משמעות מוסרית, ללא פיקוח אנושי מספק.

@@ -1,23 +1,25 @@
 ---
-title: "Învățare activă"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Învățare activă
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /ro/terms/active_learning/
-date: "2026-07-18T15:42:47.695895Z"
-lastmod: "2026-07-18T17:15:09.624565Z"
+slug: active_learning
+date: '2026-07-18T15:42:47.695895Z'
+lastmod: '2026-07-18T17:15:09.624565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O strategie de învățare automată în care algoritmul interoghează selectiv un utilizator sau un oracle pentru a eticheta noi puncte de date, optimizând procesul de antrenament."
+source: agnes_llm
+status: published
+language: ro
+description: O strategie de învățare automată în care algoritmul interoghează selectiv
+  un utilizator sau un oracle pentru a eticheta noi puncte de date, optimizând procesul
+  de antrenament.
 ---
-
 ## Definition
 
 Învățarea activă reduce cantitatea de date etichetate necesare permițând modelului să aleagă cele mai informativ instanțe pentru etichetarea umană. În loc să primească pasiv mostre aleatoare, algoritmul identifică activ zonele de incertitudine unde etichetarea manuală aduce cel mai mult valoare.

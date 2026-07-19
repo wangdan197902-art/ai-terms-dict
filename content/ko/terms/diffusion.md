@@ -1,23 +1,23 @@
 ---
-title: "디퓨전(Diffusion)"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: 디퓨전(Diffusion)
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /ko/terms/diffusion/
-date: "2026-07-18T15:23:57.551233Z"
-lastmod: "2026-07-18T16:38:06.771377Z"
+slug: diffusion
+date: '2026-07-18T15:23:57.551233Z'
+lastmod: '2026-07-18T16:38:06.771377Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "점진적인 노이즈 추가 과정을 역전시켜 깨끗한 샘플을 재구성함으로써 데이터를 생성하는 생성 모델링 기법."
+source: agnes_llm
+status: published
+language: ko
+description: 점진적인 노이즈 추가 과정을 역전시켜 깨끗한 샘플을 재구성함으로써 데이터를 생성하는 생성 모델링 기법.
 ---
-
 ## Definition
 
 디퓨전 모델은 데이터에 노이즈를 추가하는 확률적 과정을 역학습하는 생성형 AI 클래스입니다. 신경망이 단계별로 노이즈를 예측하고 제거하도록 훈련시킴으로써, 최종적으로 원본과 유사하거나 새로운 고품질 데이터를 생성합니다.

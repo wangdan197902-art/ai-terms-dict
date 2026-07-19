@@ -1,23 +1,24 @@
 ---
-title: "Luettelot avoimen lähdekoodin tekoälyohjelmistoista"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: Luettelot avoimen lähdekoodin tekoälyohjelmistoista
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /fi/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T16:07:05.111335Z"
-lastmod: "2026-07-18T17:15:09.429222Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T16:07:05.111335Z'
+lastmod: '2026-07-18T17:15:09.429222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kokoelmat tai hakemistot, jotka luettelevat julkisesti saatavilla olevia tekoälyn työkaluja, kirjastoja ja kehyskehyksiä."
+source: agnes_llm
+status: published
+language: fi
+description: Kokoelmat tai hakemistot, jotka luettelevat julkisesti saatavilla olevia
+  tekoälyn työkaluja, kirjastoja ja kehyskehyksiä.
 ---
-
 ## Definition
 
 Nämä viittaavat organisoituihin arkistoihin, kuten GitHub-aiheisiin, 'Awesome'-luetteloihin tai yhteisön ylläpitämiin wiki-sivuihin, jotka kokoavat yhteen avoimen lähdekoodin tekoälyyn liittyvän ohjelmiston. Ne toimivat olellisina resurssina.

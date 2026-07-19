@@ -1,23 +1,23 @@
 ---
-title: "מוצא תוכן"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: מוצא תוכן
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /he/terms/content_provenance/
-date: "2026-07-18T15:50:05.967052Z"
-lastmod: "2026-07-18T17:15:09.523104Z"
+slug: content_provenance
+date: '2026-07-18T15:50:05.967052Z'
+lastmod: '2026-07-18T17:15:09.523104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התיעוד הניתן לאימות של מקור, היסטוריה ובעלות על נכס דיגיטלי."
+source: agnes_llm
+status: published
+language: he
+description: התיעוד הניתן לאימות של מקור, היסטוריה ובעלות על נכס דיגיטלי.
 ---
-
 ## Definition
 
 מוצא תוכן מתייחס לתיעוד ואימות של מקור התוכן הדיגיטלי, אופן יצירתו ומי שינה אותו לאורך זמן. בהקשר של בינה מלאכותית, זה קריטי למאבק בתוכן מזויף ולשמירה על אמינות המידע.

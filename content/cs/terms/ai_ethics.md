@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /cs/terms/ai_ethics/
 date: "2026-07-18T15:34:07.491377Z"
 lastmod: "2026-07-18T17:15:09.086780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Studium morálních otázek a dopodůsledků vyplývajících z vývoje a nasazení systémů umělé inteligence."
 ---
-
 ## Definition
 
 Etika umělé inteligence zahrnuje rámec principů a norem určených k zajištění odpovědného vývoje a využívání technologií AI. Řeší kritické obavy, jako jsou...

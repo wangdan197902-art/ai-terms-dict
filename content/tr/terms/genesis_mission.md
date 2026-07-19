@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /tr/terms/genesis_mission/
 date: "2026-07-18T15:54:59.411826Z"
 lastmod: "2026-07-18T16:38:07.312888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gelecekteki jeneratif yapay zeka geliştirmeleri için temel yapay zeka ilkelerini, altyapısını ve etik yönergelerini kurmaya odaklanan bir organizasyon girişimi."
 ---
-
 ## Definition
 
 Genesis Misyonu genellikle, gelişmiş yapay zeka yetenekleri için zemini hazırlamayı amaçlayan bir organizasyondaki stratejik aşama veya projeyi ifade eder. Bu, çekirdek altyapının kurulmasını, geliştiricilerin...

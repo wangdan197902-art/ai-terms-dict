@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /pl/terms/agents/
 date: "2026-07-18T15:23:18.686509Z"
 lastmod: "2026-07-18T17:15:08.806963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Autonomiczne encje, które postrzegają swoje otoczenie i podejmują działania w celu osiągnięcia określonych celów."
 ---
-
 ## Definition
 
 Agenci SI to programy komputerowe lub systemy zdolne do postrzegania swojego otoczenia za pomocą czujników (danych wejściowych), przetwarzania informacji oraz wykonywania działań za pomocą aktuatorów (wyjść) w celu osiągnięcia zdefiniowanych celów

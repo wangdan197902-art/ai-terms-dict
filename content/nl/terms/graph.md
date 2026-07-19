@@ -1,23 +1,24 @@
 ---
-title: "Grafiek"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Grafiek
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /nl/terms/graph/
-date: "2026-07-18T15:26:54.607251Z"
-lastmod: "2026-07-18T17:15:08.686141Z"
+slug: graph
+date: '2026-07-18T15:26:54.607251Z'
+lastmod: '2026-07-18T17:15:08.686141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een wiskundige structuur bestaande uit knopen verbonden door randen, gebruikt om relaties tussen entiteiten weer te geven."
+source: agnes_llm
+status: published
+language: nl
+description: Een wiskundige structuur bestaande uit knopen verbonden door randen,
+  gebruikt om relaties tussen entiteiten weer te geven.
 ---
-
 ## Definition
 
 Een grafiek is een fundamentele gegevensstructuur in AI, bestaande uit hoekpunten (knopen) en randen (verbindingen) die relaties aanduiden. Grafiekneuronale netwerken (GNN's) benutten deze structuur om te leren op niet-Euclidische...

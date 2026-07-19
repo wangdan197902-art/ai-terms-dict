@@ -1,23 +1,24 @@
 ---
-title: "Viziune"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Viziune
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /ro/terms/vision/
-date: "2026-07-18T15:39:52.220635Z"
-lastmod: "2026-07-18T17:15:09.620611Z"
+slug: vision
+date: '2026-07-18T15:39:52.220635Z'
+lastmod: '2026-07-18T17:15:09.620611Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Viziunea pe calculator este domeniul AI axat pe permiterea calculatoarelor să interpreteze și să înțeleagă informațiile vizuale din lume."
+source: agnes_llm
+status: published
+language: ro
+description: Viziunea pe calculator este domeniul AI axat pe permiterea calculatoarelor
+  să interpreteze și să înțeleagă informațiile vizuale din lume.
 ---
-
 ## Definition
 
 Viziunea pe calculator (CV) este o ramură a inteligenței artificiale care antrenează computerele să extragă informații semnificative din imagini digitale, videoclipuri și alte intrări vizuale. Implică dezvoltarea algoritmilor

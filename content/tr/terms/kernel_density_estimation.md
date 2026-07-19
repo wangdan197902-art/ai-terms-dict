@@ -1,23 +1,24 @@
 ---
-title: "Kernel yoğunluk tahmini"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel yoğunluk tahmini
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /tr/terms/kernel_density_estimation/
-date: "2026-07-18T15:59:15.614698Z"
-lastmod: "2026-07-18T16:38:07.323510Z"
+slug: kernel_density_estimation
+date: '2026-07-18T15:59:15.614698Z'
+lastmod: '2026-07-18T16:38:07.323510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sonlu bir veri örneğine dayanarak bir rastgele değişkenin olasılık yoğunluk fonksiyonunu tahmin etmek için kullanılan parametrik olmayan bir yöntem."
+source: agnes_llm
+status: published
+language: tr
+description: Sonlu bir veri örneğine dayanarak bir rastgele değişkenin olasılık yoğunluk
+  fonksiyonunu tahmin etmek için kullanılan parametrik olmayan bir yöntem.
 ---
-
 ## Definition
 
 Kernel Yoğunluk Tahmini (KDE), ayrık veri noktalarını pürüzsüzleştirerek sürekli bir olasılık dağılım eğrisi oluşturmak için temel bir istatistiksel tekniktir. Genellikle Gauss dağılımı olan bir çekirdek fonksiyonu yerleştirir ve her veri noktasının etrafında yoğunluğu hesaplar.

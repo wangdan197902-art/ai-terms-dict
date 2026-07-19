@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /ro/terms/knowledge_based_configuration/
 date: "2026-07-18T16:07:07.484911Z"
 lastmod: "2026-07-18T17:15:09.672250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un proces automatizat care utilizează baze de cunoștințe specifice domeniului pentru a genera configurații valide de produse din constrângerile utilizatorului."
 ---
-
 ## Definition
 
 Această abordare folosește tehnici de satisfacere a constrângerilor într-o bază de cunoștințe pentru a se asigura că produsele asamblate îndeplinesc toate cerințele tehnice și ale clientului. Previne combinațiile invalide prin verificarea automată a compatibilității componentelor.

@@ -1,23 +1,23 @@
 ---
-title: "Theo thời gian"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Theo thời gian
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /vi/terms/temporal/
-date: "2026-07-18T15:29:28.245996Z"
-lastmod: "2026-07-18T16:38:07.697332Z"
+slug: temporal
+date: '2026-07-18T15:29:28.245996Z'
+lastmod: '2026-07-18T16:38:07.697332Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thuộc về thời gian, tập trung vào cách dữ liệu thay đổi hoặc các mối phụ thuộc phát triển theo dòng thời gian."
+source: agnes_llm
+status: published
+language: vi
+description: Thuộc về thời gian, tập trung vào cách dữ liệu thay đổi hoặc các mối
+  phụ thuộc phát triển theo dòng thời gian.
 ---
-
 ## Definition
 
 Các khái niệm liên quan đến thời gian trong AI bao gồm phân tích các điểm dữ liệu được sắp xếp theo thứ tự thời gian, như giá cổ phiếu, tín hiệu cảm biến hoặc câu văn trong ngôn ngữ tự nhiên. Các mô hình xử lý dữ liệu chuỗi thời gian phải tính đến thứ tự tuần tự và các phụ thuộc dài hạn.

@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /it/terms/closed_loop/
 date: "2026-07-18T15:31:08.406576Z"
 lastmod: "2026-07-18T17:15:08.578371Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un sistema di controllo in cui il feedback dell'output viene utilizzato continuamente per regolare le azioni future."
 ---
-
 ## Definition
 
 I sistemi ad anello chiuso nell'AI utilizzano il feedback in tempo reale dall'ambiente per regolare dinamicamente il loro comportamento o i parametri. Questo contrasta con i sistemi ad anello aperto che eseguono sequenze predefinite senza...

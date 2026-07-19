@@ -1,23 +1,24 @@
 ---
-title: "منتجات وتطبيقات أوبن إيه آي"
-term_id: "products_and_applications_of_openai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "generative_ai", "nlp"]
+title: منتجات وتطبيقات أوبن إيه آي
+term_id: products_and_applications_of_openai
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Generative AI
+- NLP
 difficulty: 1
 weight: 1
-slug: "products_and_applications_of_openai"
-aliases:
-  - /ar/terms/products_and_applications_of_openai/
-date: "2026-07-18T16:17:10.975058Z"
-lastmod: "2026-07-18T17:15:08.539376Z"
+slug: products_and_applications_of_openai
+date: '2026-07-18T16:17:10.975058Z'
+lastmod: '2026-07-18T17:15:08.539376Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "إشارة إلى مجموعة أدوات الذكاء الاصطناعي وواجهات البرمجة (APIs) والمخرجات البحثية التي طورتها شركة OpenAI، بما في ذلك نماذج GPT وDALL-E."
+source: agnes_llm
+status: published
+language: ar
+description: إشارة إلى مجموعة أدوات الذكاء الاصطناعي وواجهات البرمجة (APIs) والمخرجات
+  البحثية التي طورتها شركة OpenAI، بما في ذلك نماذج GPT وDALL-E.
 ---
-
 ## Definition
 
 يشمل هذا المصطلح المنتجات التجارية والبحثية التي أنشأتها OpenAI، وهي مختبر رائد في أبحاث الذكاء الاصطناعي. تشمل العروض الرئيسية نموذج المحول المدرب مسبقاً لتوليد النصوص (GPT)، ومولدات الصور مثل DALL-E، بالإضافة إلى واجهات برمجة التطبيقات المتاحة للمطورين.

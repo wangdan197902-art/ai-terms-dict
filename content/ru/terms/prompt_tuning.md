@@ -1,23 +1,24 @@
 ---
-title: "Тонкая настройка промптов"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Тонкая настройка промптов
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /ru/terms/prompt_tuning/
-date: "2026-07-18T16:11:19.909674Z"
-lastmod: "2026-07-18T16:38:07.194401Z"
+slug: prompt_tuning
+date: '2026-07-18T16:11:19.909674Z'
+lastmod: '2026-07-18T16:38:07.194401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод эффективной по параметрам тонкой настройки, который оптимизирует непрерывные входные эмбеддинги, а не обновляет веса всей модели."
+source: agnes_llm
+status: published
+language: ru
+description: Метод эффективной по параметрам тонкой настройки, который оптимизирует
+  непрерывные входные эмбеддинги, а не обновляет веса всей модели.
 ---
-
 ## Definition
 
 Тонкая настройка промптов включает добавление обучаемых мягких промптов (непрерывных векторов) к входному слою предварительно обученной языковой модели, сохраняя параметры основной модели неизменными. Этот подход позволяет адаптировать модель с минимальными вычислительными затратами.

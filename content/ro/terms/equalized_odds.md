@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /ro/terms/equalized_odds/
 date: "2026-07-18T15:56:30.516694Z"
 lastmod: "2026-07-18T17:15:09.653370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O metrică de echitate care cere ca ratele de pozitiv real și negativ fals să fie egale în diferite grupuri demografice."
 ---
-
 ## Definition
 
 Șansele egalizate sunt o constrângere de paritate statistică utilizată în echitatea algoritmică pentru a se asigura că un model funcționează la fel de bine pentru toate grupurile protejate. Specific, cere ca probabilitatea unei predicții corecte pozitive și a unei predicții greșite pozitive să fie independentă de apartenența la grupul protejat.

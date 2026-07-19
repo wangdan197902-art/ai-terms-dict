@@ -7,8 +7,6 @@ tags: ["Networking", "Protocols", "Real-time"]
 difficulty: 4
 weight: 1
 slug: "websocket"
-aliases:
-  - /tr/terms/websocket/
 date: "2026-07-18T16:21:13.321184Z"
 lastmod: "2026-07-18T16:38:07.377361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gerçek zamanlı veri alışverişi için tek bir TCP bağlantısı üzerinden çift yönlü (tam çift) iletişim kanalları sağlayan bir protokol."
 ---
-
 ## Definition
 
 WebSocket, istemci ile sunucu arasında kalıcı, iki yönlü iletişimi sağlayan bir bilgisayar iletişim protokolüdür. Her istek-cevap döngüsü için yeni bir bağlantı gerektiren HTTP'nin aksine, WebSocket bağlantıyı açık tutar

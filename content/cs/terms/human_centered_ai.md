@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /cs/terms/human_centered_ai/
 date: "2026-07-18T16:01:34.237445Z"
 lastmod: "2026-07-18T17:15:09.139470Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Přístup k návrhu a vývoji AI, který klade důraz na lidské hodnoty, potřeby a blaho po celý životní cyklus systému."
 ---
-
 ## Definition
 
 Člověkem orientovaná AI je designová filozofie, která umisťuje člověka do středu vývoje umělé inteligence. Důraz klade na vytváření systémů, které jsou transparentní, spravedlivé a prospěšné pro společnost, na rozdíl...

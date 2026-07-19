@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /cs/terms/instance/
 date: "2026-07-18T16:02:57.271037Z"
 lastmod: "2026-07-18T17:15:09.142542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Jednotlivý vzorek dat nebo pozorování používaný v úlohách strojového učení, obvykle reprezentovaný jako vektor znaků."
 ---
-
 ## Definition
 
 V strojovém učení se instance týká jednoho konkrétního příkladu z datové sady. Skládá se ze sady vstupních znaků (atributů) a případně cílového popisku. Instance jsou základní jednotkou

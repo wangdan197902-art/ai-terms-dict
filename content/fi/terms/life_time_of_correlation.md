@@ -1,23 +1,24 @@
 ---
-title: "Korrelaation elinikä"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Korrelaation elinikä
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /fi/terms/life_time_of_correlation/
-date: "2026-07-18T16:06:48.050063Z"
-lastmod: "2026-07-18T17:15:09.428402Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:06:48.050063Z'
+lastmod: '2026-07-18T17:15:09.428402Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mittari, joka arvioi, kuinka kauan tilastollinen suhde muuttujien välillä pysyy vakiona ennen kuin se heikkenee käsiteajautuman tai ympäristön muutosten vuoksi."
+source: agnes_llm
+status: published
+language: fi
+description: Mittari, joka arvioi, kuinka kauan tilastollinen suhde muuttujien välillä
+  pysyy vakiona ennen kuin se heikkenee käsiteajautuman tai ympäristön muutosten vuoksi.
 ---
-
 ## Definition
 
 Dynaamisissa järjestelmissä ja aikasarja-analyysissä korrelaation elinikä mittaa kestoa, jonka aikana kaksi muuttujaa ylläpitävät merkittävää tilastollista riippuvuutta. Tämä käsite on ratkaiseva...

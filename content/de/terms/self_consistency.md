@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /de/terms/self_consistency/
 date: "2026-07-18T11:32:49.644516Z"
 lastmod: "2026-07-18T11:44:44.983822Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Selbstkonsistenz ist eine Dekodierungsstrategie, bei der mehrere Denkpfade abgetastet und die am häufigsten vorkommende Antwort als endgültige Ausgabe ausgewählt wird."
 ---
-
 ## Definition
 
 Diese Technik wird hauptsächlich bei Large Language Models (LLMs) eingesetzt und verbessert die Genauigkeit, indem sie durch Abtasten mehrere diverse Antworten auf einen Prompt generiert. Anstatt sich auf gierisches Dekodieren (greedy decoding) zu verlassen, aggregiert sie die Ergebnisse, um konsistente und korrektere Ausgaben zu erzielen.

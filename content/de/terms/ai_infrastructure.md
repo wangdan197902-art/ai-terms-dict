@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /de/terms/ai_infrastructure/
 date: "2026-07-18T11:01:16.040285Z"
 lastmod: "2026-07-18T11:44:44.904008Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Hardware-, Software- und Netzwerkressourcen, die erforderlich sind, um künstliche Intelligenzmodelle im großen Maßstab zu entwickeln, zu trainieren und bereitzustellen."
 ---
-
 ## Definition
 
 KI-Infrastruktur umfasst den grundlegenden Technologiestack, der für den Betrieb künstlicher Intelligenz notwendig ist. Dazu gehören Hochleistungs-Hardware wie GPUs und TPUs, Cloud-Speicherlösungen sowie Netzwerkinfrastruktur, die zusammen die Skalierbarkeit und Effizienz von KI-Workflows gewährleisten.

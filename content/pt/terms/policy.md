@@ -1,23 +1,25 @@
 ---
-title: "Política"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Política
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /pt/terms/policy/
-date: "2026-07-18T14:37:49.896280Z"
-lastmod: "2026-07-18T15:51:59.436206Z"
+slug: policy
+date: '2026-07-18T14:37:49.896280Z'
+lastmod: '2026-07-18T15:51:59.436206Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estratégia ou plano de ação projetado para orientar decisões e alcançar resultados racionais, frequentemente usado no aprendizado por reforço para mapear estados a ações."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estratégia ou plano de ação projetado para orientar decisões e alcançar
+  resultados racionais, frequentemente usado no aprendizado por reforço para mapear
+  estados a ações.
 ---
-
 ## Definition
 
 O termo 'política' tem dois significados dependendo do contexto. Na gestão geral, é um princípio norteador para a tomada de decisões. No Aprendizado por Reforço (RL), uma política é um componente central de um a

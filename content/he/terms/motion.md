@@ -1,23 +1,22 @@
 ---
-title: "תנועה"
-term_id: "motion"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "robotics"]
+title: תנועה
+term_id: motion
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 2
 weight: 1
-slug: "motion"
-aliases:
-  - /he/terms/motion/
-date: "2026-07-18T15:27:30.401370Z"
-lastmod: "2026-07-18T17:15:09.482673Z"
+slug: motion
+date: '2026-07-18T15:27:30.401370Z'
+lastmod: '2026-07-18T17:15:09.482673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "השינוי המתמיד במיקום של אובייקט ביחס לזמן ולמערכת ייחוס."
+source: agnes_llm
+status: published
+language: he
+description: השינוי המתמיד במיקום של אובייקט ביחס לזמן ולמערכת ייחוס.
 ---
-
 ## Definition
 
 בתחום הראייה הממוחשבת והרובוטיקה, תנועה מתייחסת לגילוי וניתוח של תנועה בתוך נתונים חזותיים או מערכות פיזיות. אלגוריתמים כמו זרימה אופטית (Optical Flow) מעריכים את דפוס התנועה הנראית.

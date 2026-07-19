@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /es/terms/training_free/
 date: "2026-07-18T10:29:19.783023Z"
 lastmod: "2026-07-18T11:44:44.759411Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Métodos que adaptan o mejoran modelos sin realizar actualizaciones de parámetros basadas en gradientes."
 ---
-
 ## Definition
 
 Los enfoques sin entrenamiento se refieren a técnicas que modifican el comportamiento o la salida del modelo sin actualizar los pesos subyacentes mediante retropropagación. Estos métodos suelen aprovechar el diseño de prompts, características...

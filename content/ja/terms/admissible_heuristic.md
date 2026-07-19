@@ -1,23 +1,23 @@
 ---
-title: "許容可能ヒューリスティック"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: 許容可能ヒューリスティック
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /ja/terms/admissible_heuristic/
-date: "2026-07-18T11:03:01.062670Z"
-lastmod: "2026-07-18T11:44:45.063796Z"
+slug: admissible_heuristic
+date: '2026-07-18T11:03:01.062670Z'
+lastmod: '2026-07-18T11:44:45.063796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "目標への到達コストを過大評価せず、最適性を保証する探索アルゴリズムにおけるヒューリスティック関数。"
+source: agnes_llm
+status: published
+language: ja
+description: 目標への到達コストを過大評価せず、最適性を保証する探索アルゴリズムにおけるヒューリスティック関数。
 ---
-
 ## Definition
 
 経路探索や探索問題において、許容可能ヒューリスティックは目標ノードへの実際のコストに対する下限値を提供します。推定コストが常に真のコスト以下であることを保証することで、最適解への収束を保証します。

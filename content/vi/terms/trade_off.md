@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /vi/terms/trade_off/
 date: "2026-07-18T15:33:35.780199Z"
 lastmod: "2026-07-18T16:38:07.705160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một sự thỏa hiệp trong đó việc đạt được lợi thế ở một lĩnh vực này dẫn đến thiệt hại ở một lĩnh vực khác."
 ---
-
 ## Definition
 
 Trong AI và kỹ thuật, sự đánh đổi đề cập đến sự cân bằng cần thiết khi tối ưu hóa các mục tiêu mâu thuẫn, chẳng hạn như độ chính xác của mô hình so với chi phí tính toán hoặc độ trễ so với độ chính xác. Vì nguồn lực có hạn...

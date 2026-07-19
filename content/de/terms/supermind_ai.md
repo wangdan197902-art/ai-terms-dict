@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /de/terms/supermind_ai/
 date: "2026-07-18T11:35:08.767306Z"
 lastmod: "2026-07-18T11:44:44.989250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine KI-Architektur oder ein System, das darauf ausgelegt ist, mehrere intelligente Agenten oder Modelle zu einer einheitlichen, kognitiv erweiterten Einheit zu integrieren, die überlegene Problemlösu"
 ---
-
 ## Definition
 
 Supermind-KI bezeichnet Systeme, bei denen mehrere KI-Komponenten, menschliche Experten oder hybride Mensch-KI-Teams nahtlos zusammenarbeiten, um eine kollektive Intelligenz zu bilden, die die Fähigkeiten jedes einzelnen Individuums übersteigt.

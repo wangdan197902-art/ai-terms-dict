@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /id/terms/vector_database/
 date: "2026-07-18T15:30:47.227119Z"
 lastmod: "2026-07-18T16:38:07.406549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Basis data khusus yang dirancang untuk menyimpan, mengindeks, dan menguji vektor berdimensi tinggi yang merepresentasikan fitur data."
 ---
-
 ## Definition
 
 Basis data vektor mengoptimalkan penyimpanan dan pengambilan data tidak terstruktur dengan mengubahnya menjadi embedding numerik. Mereka menggunakan algoritma seperti Approximate Nearest Neighbor (ANN) untuk menemukan kemiripan secara efisien.

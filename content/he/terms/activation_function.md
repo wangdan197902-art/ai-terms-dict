@@ -1,23 +1,25 @@
 ---
-title: "פונקציית הפעלה"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: פונקציית הפעלה
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /he/terms/activation_function/
-date: "2026-07-18T15:35:26.658075Z"
-lastmod: "2026-07-18T17:15:09.496257Z"
+slug: activation_function
+date: '2026-07-18T15:35:26.658075Z'
+lastmod: '2026-07-18T17:15:09.496257Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משוואה מתמטית הקובעת את פלטו של צומת ברשת נוירונים בהתבסס על אות הקלט שלו."
+source: agnes_llm
+status: published
+language: he
+description: משוואה מתמטית הקובעת את פלטו של צומת ברשת נוירונים בהתבסס על אות הקלט
+  שלו.
 ---
-
 ## Definition
 
 פונקציית ההפעלה מחדירה אי-ליניאריות לרשת נוירונים, ומאפשרת לה ללמוד דפוסים וקשרים מורכבים בתוך הנתונים. ללא פונקציות אלו, רשת רב-שכבתית הייתה מתנהגת...

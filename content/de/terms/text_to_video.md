@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /de/terms/text_to_video/
 date: "2026-07-18T11:36:29.369620Z"
 lastmod: "2026-07-18T11:44:44.993140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Text-zu-Video ist eine KI-Funktion, die Videoclips aus textlichen Beschreibungen oder Prompts generiert."
 ---
-
 ## Definition
 
 Text-zu-Video bezeichnet generative KI-Modelle, die auf Basis natürlicher Spracheingaben dynamische visuelle Inhalte erstellen. Diese Systeme analysieren die semantische Bedeutung aus Text-Prompts, um kohärente Sequenzen zu synthetisieren.

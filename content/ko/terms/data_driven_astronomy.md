@@ -1,23 +1,23 @@
 ---
-title: "데이터 기반 천문학"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: 데이터 기반 천문학
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /ko/terms/data_driven_astronomy/
-date: "2026-07-18T15:47:39.161827Z"
-lastmod: "2026-07-18T16:38:06.824989Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:47:39.161827Z'
+lastmod: '2026-07-18T16:38:06.824989Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "대규모 데이터 분석 및 머신러닝 기법을 적용하여 천문 관측 자료에서 통찰력을 도출하는 학문 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 대규모 데이터 분석 및 머신러닝 기법을 적용하여 천문 관측 자료에서 통찰력을 도출하는 학문 분야입니다.
 ---
-
 ## Definition
 
 데이터 기반 천문학은 머신러닝과 통계 분석을 포함한 고급 계산 방법을 활용하여 현대 망원경과 조사 프로젝트에서 생성되는 방대한 양의 데이터를 처리합니다.

@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /da/terms/inductive_programming/
 date: "2026-07-18T16:01:22.218538Z"
 lastmod: "2026-07-18T17:15:09.299453Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et felt inden for programsyntese, der automatisk genererer computprogrammer fra input-output-eksempler."
 ---
-
 ## Definition
 
 Induktiv programmering, ofte omtalt som programsyntese, involverer oprettelse af softwarekode baseret på specifikationer leveret som input-output-par frem for eksplicitte instruktioner. Systemet infererer logikken bag koden ud fra eksemplerne.

@@ -1,23 +1,23 @@
 ---
-title: "教師ありファインチューニング"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: 教師ありファインチューニング
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /ja/terms/supervised_fine_tuning/
-date: "2026-07-18T11:01:15.727404Z"
-lastmod: "2026-07-18T11:44:45.058246Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T11:01:15.727404Z'
+lastmod: '2026-07-18T11:44:45.058246Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "特定のタスクやドメインに適応させるために、事前学習済みモデルを特定のデータセットでさらに訓練するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 特定のタスクやドメインに適応させるために、事前学習済みモデルを特定のデータセットでさらに訓練するプロセス。
 ---
-
 ## Definition
 
 教師ありファインチューニング（SFT）とは、言語モデルなどの大規模な事前学習済みモデルを取得し、特定のダウンストリームタスク向けにラベル付けされた高品質な小規模データセットを用いて訓練を継続することを指します。

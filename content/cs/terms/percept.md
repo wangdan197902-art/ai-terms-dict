@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /cs/terms/percept/
 date: "2026-07-18T16:12:26.538652Z"
 lastmod: "2026-07-18T17:15:09.188738Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Mentální reprezentace nebo interpretovaný výsledek senzorického vstupu zpracovaného vnímajícím subjektem."
 ---
-
 ## Definition
 
 Percept je interní reprezentace externího podnětu po jeho zpracování vnímajícím systémem. V AI odpovídá strukturovaným datovým výstupům z nízké úrovně zpracování signálů...

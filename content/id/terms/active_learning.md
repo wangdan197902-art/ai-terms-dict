@@ -1,23 +1,25 @@
 ---
-title: "Pembelajaran aktif"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Pembelajaran aktif
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /id/terms/active_learning/
-date: "2026-07-18T15:38:03.226209Z"
-lastmod: "2026-07-18T16:38:07.425229Z"
+slug: active_learning
+date: '2026-07-18T15:38:03.226209Z'
+lastmod: '2026-07-18T16:38:07.425229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Strategi pembelajaran mesin di mana algoritma secara selektif meminta pengguna atau orakel untuk memberi label pada titik data baru, mengoptimalkan proses pelatihan."
+source: agnes_llm
+status: published
+language: id
+description: Strategi pembelajaran mesin di mana algoritma secara selektif meminta
+  pengguna atau orakel untuk memberi label pada titik data baru, mengoptimalkan proses
+  pelatihan.
 ---
-
 ## Definition
 
 Pembelajaran aktif mengurangi jumlah data berlabel yang diperlukan dengan memungkinkan model memilih instance paling informatif untuk dilabeli oleh manusia. Alih-alih menerima sampel acak secara pasif, algoritma secara proaktif mengajukan pertanyaan.

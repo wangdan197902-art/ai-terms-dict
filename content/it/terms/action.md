@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /it/terms/action/
 date: "2026-07-18T15:23:10.004581Z"
 lastmod: "2026-07-18T17:15:08.560750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un'operazione eseguita da un agente per influenzare il proprio ambiente."
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale e nella robotica, un'azione si riferisce a uno specifico passo o decisione presa da un agente intelligente per interagire con il proprio ambiente. Le azioni vengono selezionate in base allo stato corrente

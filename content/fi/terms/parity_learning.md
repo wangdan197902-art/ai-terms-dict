@@ -1,23 +1,24 @@
 ---
-title: "Pariteetin oppiminen"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Pariteetin oppiminen
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /fi/terms/parity_learning/
-date: "2026-07-18T16:15:03.316782Z"
-lastmod: "2026-07-18T17:15:09.442450Z"
+slug: parity_learning
+date: '2026-07-18T16:15:03.316782Z'
+lastmod: '2026-07-18T17:15:09.442450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Teoreettinen koneoppimisongelma, joka keskittyy binäärisiin syötteisiin perustuvan XOR-summan ennustamiseen, käytetään mallin lausekyvyn testaamiseen."
+source: agnes_llm
+status: published
+language: fi
+description: Teoreettinen koneoppimisongelma, joka keskittyy binäärisiin syötteisiin
+  perustuvan XOR-summan ennustamiseen, käytetään mallin lausekyvyn testaamiseen.
 ---
-
 ## Definition
 
 Pariteetin oppiminen on benchmark-ongelma koneoppimisteoriassa, jossa tavoitteena on ennustaa joukon binäärisiä muuttujia koskevan pariteetin (XOR-summa). Se on kuuluisasti vaikea standardille feedfor...

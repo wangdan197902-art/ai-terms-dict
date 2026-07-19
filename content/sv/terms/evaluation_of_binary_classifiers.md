@@ -1,23 +1,24 @@
 ---
-title: "Utvärdering av binära klassificerare"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Utvärdering av binära klassificerare
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /sv/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:56:43.299816Z"
-lastmod: "2026-07-18T17:15:09.001081Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:56:43.299816Z'
+lastmod: '2026-07-18T17:15:09.001081Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att utvärdera prestandan hos maskininlärningsmodeller som förutsäger ett av två möjliga utfall."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att utvärdera prestandan hos maskininlärningsmodeller som förutsäger
+  ett av två möjliga utfall.
 ---
-
 ## Definition
 
 Detta område involverar analys av metrik som noggrannhet, precision, återkallelse, F1-poäng och Arealen under ROC-kurvan (AUC-ROC). Det hjälper till att avgöra hur väl en modell generaliserar.

@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /es/terms/multi/
 date: "2026-07-18T10:24:50.917306Z"
 lastmod: "2026-07-18T11:44:44.746015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un prefijo que indica la presencia de múltiples instancias, cabezales o modalidades dentro de un sistema o modelo."
 ---
-
 ## Definition
 
 El prefijo 'multi-' se utiliza frecuentemente en IA para denotar arquitecturas o procesos que involucran varios componentes en paralelo. Ejemplos incluyen la Atención Multi-Cabeza, que permite a los modelos enfocarse en diferentes partes de la entrada simultáneamente.

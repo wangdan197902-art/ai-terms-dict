@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /zh/terms/automated/
 date: "2026-07-18T10:49:18.636564Z"
 lastmod: "2026-07-18T11:44:45.362295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指由机器或软件以最少的人工干预执行的流程。"
 ---
-
 ## Definition
 
 AI中的自动化涉及使用算法和系统来执行传统上需要人力完成的任务。它通过执行预定义的规则或学习到的模式，专注于提高效率、一致性和速度。

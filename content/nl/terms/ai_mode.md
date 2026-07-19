@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /nl/terms/ai_mode/
 date: "2026-07-18T15:39:49.327934Z"
 lastmod: "2026-07-18T17:15:08.711246Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een functionele staat in softwareinterfaces waarin kunstmatige intelligentie actief taken helpt uitvoeren of automatiseert."
 ---
-
 ## Definition
 
 AI-modus verwijst naar een specifieke operationele staat binnen digitale platformen of applicaties waarin AI-mogelijkheden zijn geactiveerd om de gebruikersinteractie te verbeteren. Deze modus maakt doorgaans functies mogelijk zoals natuurlij

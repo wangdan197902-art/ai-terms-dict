@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /vi/terms/supervised/
 date: "2026-07-18T15:29:15.110778Z"
 lastmod: "2026-07-18T16:38:07.696955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình học máy nơi các mô hình được huấn luyện trên các cặp đầu vào-đầu ra đã được gán nhãn."
 ---
-
 ## Definition
 
 Học có giám sát liên quan đến việc cung cấp cho thuật toán dữ liệu bao gồm cả đầu vào và câu trả lời đúng (nhãn). Mô hình học cách ánh xạ đầu vào sang đầu ra bằng cách giảm thiểu lỗi dự đoán. Kỹ thuật này...

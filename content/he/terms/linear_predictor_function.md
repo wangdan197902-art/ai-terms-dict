@@ -1,23 +1,23 @@
 ---
-title: "פונקציית תחזית ליניארית"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: פונקציית תחזית ליניארית
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /he/terms/linear_predictor_function/
-date: "2026-07-18T16:10:10.699353Z"
-lastmod: "2026-07-18T17:15:09.558493Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:10:10.699353Z'
+lastmod: '2026-07-18T17:15:09.558493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פונקציה מתמטית המחשבת צירוף ליניארי של משתני קלט כדי לחזות תוצאה."
+source: agnes_llm
+status: published
+language: he
+description: פונקציה מתמטית המחשבת צירוף ליניארי של משתני קלט כדי לחזות תוצאה.
 ---
-
 ## Definition
 
 במודלים סטטיסטיים ולמידת מכונה, פונקציית תחזית ליניארית מייצגת את הסכום המשוקלל של תכונות הקלט בתוספת איבר הטיה (bias). היא מהווה את הרכיב המרכזי במודלים ליניאריים כלליים (GLM).

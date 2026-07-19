@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /hu/terms/agentive_logic/
 date: "2026-07-18T15:43:10.962287Z"
 lastmod: "2026-07-18T17:15:09.752152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az ügynöki logika a formális érvelési keretrendszerekre utal, amelyeket az autonóm ügynökök szándékainak, céljainak és döntéshozatali folyamatainak modellezésére használnak."
 ---
-
 ## Definition
 
 Bővíti a hagyományos logikát az ügynökség figyelembevételével, lehetővé téve a rendszerek számára, hogy reprezentáljanak hiteket, vágyakat és szándékokat (BDI modellek). Ez a logika lehetővé teszi az ügynökök számára, hogy dinamikus cselekvési terveket dolgozzanak ki a változó...

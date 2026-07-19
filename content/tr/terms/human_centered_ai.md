@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /tr/terms/human_centered_ai/
 date: "2026-07-18T15:56:58.383121Z"
 lastmod: "2026-07-18T16:38:07.317964Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka tasarımı ve geliştirmesinde, sistem yaşam döngüsü boyunca insan değerlerini, ihtiyaçlarını ve refahını önceliklendiren bir yaklaşım."
 ---
-
 ## Definition
 
 İnsan odaklı yapay zeka, yapay zeka geliştirmenin çekirdeğine insanı yerleştiren bir tasarım felsefesidir. Şeffaf, adil ve toplum için faydalı sistemler oluşturmaya vurgu yapar, teknolojinin insan haklarına ve sosyal iyiliğe hizmet etmesini sağlar.

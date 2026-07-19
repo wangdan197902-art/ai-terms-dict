@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /fi/terms/bert/
 date: "2026-07-18T15:45:49.206053Z"
 lastmod: "2026-07-18T17:15:09.388652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Bidirectional Encoder Representations from Transformers on esikoulutettu luonnollisen kielen käsittelymalli."
 ---
-
 ## Definition
 
 BERT on Googlen kehittämä luonnollisen kielen käsittelyn (NLP) esikoulutusmenetelmä, joka perustuu muuntajiin (transformers). Se oppii kaksisuuntaisia esityksiä käyttämällä peitettyä kielimallintamista ja seuraavan lauseen ennustamista.

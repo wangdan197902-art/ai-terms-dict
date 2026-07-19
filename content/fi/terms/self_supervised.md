@@ -1,23 +1,24 @@
 ---
-title: "itsenäisesti valvottu"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: itsenäisesti valvottu
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /fi/terms/self_supervised/
-date: "2026-07-18T15:34:42.646519Z"
-lastmod: "2026-07-18T17:15:09.366577Z"
+slug: self_supervised
+date: '2026-07-18T15:34:42.646519Z'
+lastmod: '2026-07-18T17:15:09.366577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Itsenäinen valvottu oppiminen on tekniikka, jossa malli luo omat tunnisteensa syöttödatan perusteella oppiakseen esityksiä ilman ihmisen tekemää annotointia."
+source: agnes_llm
+status: published
+language: fi
+description: Itsenäinen valvottu oppiminen on tekniikka, jossa malli luo omat tunnisteensa
+  syöttödatan perusteella oppiakseen esityksiä ilman ihmisen tekemää annotointia.
 ---
-
 ## Definition
 
 Itsenäinen valvottu oppiminen on osa koneoppimista, jossa valvontasignaali johdetaan automaattisesti itse datasta, mikä poistaa tarpeen manuaaliseen merkitsemiseen. Malli ratkaisee yleensä keinotekoisesti luotuja tehtäviä (pretext tasks), kuten puuttuvien sanojen ennustamista tekstissä, oppien samalla hyödyllisiä datan rakenteita ja esityksiä.

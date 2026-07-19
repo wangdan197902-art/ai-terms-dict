@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /id/terms/rate_limiting/
 date: "2026-07-18T16:06:48.591956Z"
 lastmod: "2026-07-18T16:38:07.499860Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mekanisme kontrol rekayasa yang membatasi jumlah permintaan yang dapat dibuat klien ke layanan dalam jendela waktu tertentu."
 ---
-
 ## Definition
 
 Pembatasan laju melindungi layanan dan API AI dari penyalahgunaan, kelebihan beban, dan konsumsi sumber daya yang berlebihan. Hal ini memastikan penggunaan yang adil di antara pengguna dan menjaga stabilitas sistem dengan membatasi throughput. Strategi umum termasuk token bucket atau leaky bucket.

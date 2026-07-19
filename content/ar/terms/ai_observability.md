@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /ar/terms/ai_observability/
 date: "2026-07-18T15:41:06.495652Z"
 lastmod: "2026-07-18T17:15:08.470582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ممارسة مراقبة وفهم الحالة الداخلية لأنظمة تعلم الآلة من خلال السجلات والمقاييس وتتبع العمليات."
 ---
-
 ## Definition
 
 تمتد رؤية أنظمة الذكاء الاصطناعي لمراقبة البرمجيات التقليدية لمعالجة التحديات الفريدة لأنظمة تعلم الآلة. تتضمن تتبع أداء النموذج، انحراف البيانات، وزمن الاستجابة للاستدلال (Inference Latency) في الوقت الفعلي لضمان موثوقية النظام.

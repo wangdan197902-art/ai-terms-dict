@@ -1,23 +1,23 @@
 ---
-title: "Veloce"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: Veloce
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /it/terms/fast/
-date: "2026-07-18T15:25:06.363544Z"
-lastmod: "2026-07-18T17:15:08.565627Z"
+slug: fast
+date: '2026-07-18T15:25:06.363544Z'
+lastmod: '2026-07-18T17:15:08.565627Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "In ambito AI, 'veloce' si riferisce a sistemi o algoritmi ottimizzati per bassa latenza e alto throughput nell'elaborazione dei compiti."
+source: agnes_llm
+status: published
+language: it
+description: In ambito AI, 'veloce' si riferisce a sistemi o algoritmi ottimizzati
+  per bassa latenza e alto throughput nell'elaborazione dei compiti.
 ---
-
 ## Definition
 
 Il termine 'veloce' descrive l'efficienza computazionale all'interno dei modelli di intelligenza artificiale, enfatizzando tempi di inferenza rapidi e capacità di elaborazione dati veloci. È fondamentale per le applicazioni in tempo reale.

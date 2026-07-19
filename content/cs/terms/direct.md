@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /cs/terms/direct/
 date: "2026-07-18T15:24:10.767058Z"
 lastmod: "2026-07-18T17:15:09.066299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na metody nebo cesty, které mapují vstupy přímo na výstupy bez mezikomplexních transformací nebo latentních reprezentací."
 ---
-
 ## Definition
 
 V kontextu AI 'přímý' často popisuje architektury nebo inferenční cesty, které obcházejí vrstvy mezilehlé abstrakce, jako je přímá optimalizace politiky v posilovacím učení nebo přímé mapování vstupů na výstupy v jednoduchých modelech.

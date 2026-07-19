@@ -1,23 +1,24 @@
 ---
-title: "Σημείο"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: Σημείο
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /el/terms/point/
-date: "2026-07-18T15:30:17.301053Z"
-lastmod: "2026-07-18T17:15:09.851295Z"
+slug: point
+date: '2026-07-18T15:30:17.301053Z'
+lastmod: '2026-07-18T17:15:09.851295Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Στη μαθηματική ΤΕ, ένα σημείο αντιπροσωπεύει μια συγκεκριμένη τοποθεσία σε έναν διανυσματικό χώρο πολλαπλών διαστάσεων, χρησιμοποιούμενο συχνά σε ενσωματώσεις ή συστήματα συντεταγμένων."
+source: agnes_llm
+status: published
+language: el
+description: Στη μαθηματική ΤΕ, ένα σημείο αντιπροσωπεύει μια συγκεκριμένη τοποθεσία
+  σε έναν διανυσματικό χώρο πολλαπλών διαστάσεων, χρησιμοποιούμενο συχνά σε ενσωματώσεις
+  ή συστήματα συντεταγμένων.
 ---
-
 ## Definition
 
 Ένα σημείο στα πλαίσια της ΤΕ συνήθως δηλώνει μια διακριτή συντεταγμένη μέσα σε έναν χώρο χαρακτηριστικών ή διάνυσμα ενσωμάτωσης. Για παράδειγμα, στους αλγορίθμους συστάδων όπως το K-Means, κάθε δείγμα δεδομένων αντιμετωπίζεται ως σημείο σε...

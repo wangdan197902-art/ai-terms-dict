@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /it/terms/pruning/
 date: "2026-07-18T16:17:13.628729Z"
 lastmod: "2026-07-18T17:15:08.661066Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una tecnica di compressione del modello che rimuove parametri ridondanti o meno significativi per ridurre le dimensioni e migliorare la velocità di inferenza."
 ---
-
 ## Definition
 
 La potatura consiste nell'identificare ed eliminare neuroni, connessioni o filtri in una rete neurale che contribuiscono minimamente all'accuratezza dell'output. Rimuovendo questi elementi ridondanti, il modello diventa

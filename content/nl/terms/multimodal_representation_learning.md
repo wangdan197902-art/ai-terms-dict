@@ -1,23 +1,24 @@
 ---
-title: "Multimodale representatielering"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Multimodale representatielering
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /nl/terms/multimodal_representation_learning/
-date: "2026-07-18T16:09:12.106776Z"
-lastmod: "2026-07-18T17:15:08.770565Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:09:12.106776Z'
+lastmod: '2026-07-18T17:15:08.770565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek die uniforme functierepresentaties leert uit meerdere datamodaliteiten tegelijkertijd."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek die uniforme functierepresentaties leert uit meerdere datamodaliteiten
+  tegelijkertijd.
 ---
-
 ## Definition
 
 Multimodale representatielering houdt in dat modellen worden getraind om informatie te verwerken en te integreren uit verschillende soorten gegevensbronnen, zoals tekst, afbeeldingen, audio en video, in een gedeelde latente ruimte.

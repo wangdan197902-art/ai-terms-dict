@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /hu/terms/psychology_of_reasoning/
 date: "2026-07-18T16:19:29.166884Z"
 lastmod: "2026-07-18T17:15:09.825662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az interdiszciplináris tanulmányozása annak, hogyan alkotnak emberek ítéleteket, hoznak döntéseket és oldanak meg problémákat, ami tájékoztatja a kognitív MI architektúrákat."
 ---
-
 ## Definition
 
 Ez a terület megvizsgálja az emberi dedukció, indukcó és abdukció mögötti mentális folyamatokat. Feltárja az elfogultságokat, heurisztikákat és logikai szerkezeteket, amelyek irányítják az emberi gondolkodást. Az MI-ben ezek az inszétek segítenek a hibamentesebb és emberibb döntéshozatali rendszerek kialakításában.

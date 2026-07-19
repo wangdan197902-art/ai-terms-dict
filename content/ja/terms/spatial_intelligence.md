@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /ja/terms/spatial_intelligence/
 date: "2026-07-18T11:33:04.722129Z"
 lastmod: "2026-07-18T11:44:45.146226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムが三次元環境を理解し、推論し、ナビゲートする能力。"
 ---
-
 ## Definition
 
 空間知能とは、人工知能モデルが物理的または仮想環境内の空間関係を知覚し、解釈し、操作する能力を指します。これには、物体の位置関係や奥行き、形状などの空間的な特徴を認識し、それに基づいて意思決定や行動制御を行うプロセスが含まれます。

@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /ja/terms/relational_data_mining/
 date: "2026-07-18T11:30:18.434912Z"
 lastmod: "2026-07-18T11:44:45.138515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "複数の相互に関連するテーブルやエンティティで構成されるデータから、パターンや知識を発見するプロセス。"
 ---
-
 ## Definition
 
 関係データマイニングは、単一の平坦なテーブルではなく、複数の関連するテーブルに整理されたデータベースから有用な情報を抽出することに焦点を当てています。これは、エンティティ間の関係を活用してパターンを特定します。

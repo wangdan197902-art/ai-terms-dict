@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /ro/terms/spatial_intelligence/
 date: "2026-07-18T16:21:36.265338Z"
 lastmod: "2026-07-18T17:15:09.704157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Capacitatea sistemelor de inteligență artificială de a înțelege, raționa și naviga în medii tridimensionale."
 ---
-
 ## Definition
 
 Inteligența spațială se referă la capacitatea modelelor de inteligență artificială de a percepe, interpreta și manipula relațiile spațiale în cadrul mediilor fizice sau virtuale. Aceasta implică înțelegerea structurii geometrice și a poziționării obiectelor în spațiu.

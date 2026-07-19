@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /nl/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:49:40.040442Z"
 lastmod: "2026-07-18T17:15:08.733830Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een dataset afgeleid van Stack Exchange XML-dumps, gebruikt voor het trainen van zinsembeddings gericht op technische en door de gemeenschap gedreven vraag-en-antwoordinhoud."
 ---
-
 ## Definition
 
 Deze dataset extrahert gegevens op zinsniveau uit Stack Exchange XML-bestanden, wat een rijke bron biedt van technische discussies, codesnippets en probleemoplossingsdialogen. Het wordt specifiek gebruikt in

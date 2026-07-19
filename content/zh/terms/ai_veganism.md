@@ -1,23 +1,23 @@
 ---
-title: "AI素食主义"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: AI素食主义
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /zh/terms/ai_veganism/
-date: "2026-07-18T11:03:30.831542Z"
-lastmod: "2026-07-18T11:44:45.436069Z"
+slug: ai_veganism
+date: '2026-07-18T11:03:30.831542Z'
+lastmod: '2026-07-18T11:44:45.436069Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个隐喻性概念，主张人工智能系统应运作而不依赖人类生成的数据或劳动力。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个隐喻性概念，主张人工智能系统应运作而不依赖人类生成的数据或劳动力。
 ---
-
 ## Definition
 
 “AI素食主义”是一个推测性和隐喻性的术语，指代这样一种理念：创造完全从合成数据、自生成数据或物理世界数据中学习的人工智能，而不是重新使用人类产生的数据。

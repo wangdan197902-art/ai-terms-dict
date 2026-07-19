@@ -1,23 +1,24 @@
 ---
-title: "Năng lực hóa"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Năng lực hóa
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /vi/terms/empowerment/
-date: "2026-07-18T15:51:44.570927Z"
-lastmod: "2026-07-18T16:38:07.754009Z"
+slug: empowerment
+date: '2026-07-18T15:51:44.570927Z'
+lastmod: '2026-07-18T16:38:07.754009Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mục tiêu trong học tăng cường đo lường khả năng ảnh hưởng của tác nhân đối với các trạng thái tương lai thông qua các hành động của nó."
+source: agnes_llm
+status: published
+language: vi
+description: Một mục tiêu trong học tăng cường đo lường khả năng ảnh hưởng của tác
+  nhân đối với các trạng thái tương lai thông qua các hành động của nó.
 ---
-
 ## Definition
 
 Trong học tăng cường và trí tuệ nhân tạo, năng lực hóa (empowerment) là một chỉ số động lực nội tại, định lượng mức độ kiểm soát mà một tác nhân có đối với môi trường của nó. Nó được định nghĩa là lượng thông tin tương hỗ (mutual information) giữa các hành động của tác nhân và các trạng thái tương lai của môi trường, phản ánh khả năng tác nhân có thể đạt được bất kỳ trạng thái nào mà nó mong muốn.

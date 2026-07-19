@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /no/terms/tokenization/
 date: "2026-07-18T15:30:52.183987Z"
 lastmod: "2026-07-18T16:38:06.948933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Tokenisering er prosessen med å dele rå tekst inn i mindre enheter kalt tokens, som deretter kan behandles av maskinlæringsalgoritmer."
 ---
-
 ## Definition
 
 Tokenisering er et kritisk steg i forhåndsbehandling innen naturlig språkbehandling (NLP) som konverterer ustrukturert tekst til strukturerte data egnet for modellinndata. Det involverer å bryte ned setninger og tekster i håndterbare enheter.

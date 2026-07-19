@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /ko/terms/source_attribution/
 date: "2026-07-18T16:15:55.600770Z"
 lastmod: "2026-07-18T16:38:06.909322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "특정 콘텐츠나 통찰력을 생성하는 데 사용된 원래 제작자나 데이터셋을 식별하고 그 공로를 인정하는 과정입니다."
 ---
-
 ## Definition
 
 소스 속성 부여는 AI 시스템 내에서 데이터, 모델 또는 생성된 출력물의 출처를 체계적으로 추적하고 라벨링하는 것을 의미합니다. 최종 결과를 해당 기원으로 연결함으로써 투명성을 보장합니다.

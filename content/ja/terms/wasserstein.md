@@ -1,23 +1,23 @@
 ---
-title: "ワッサースタイン距離"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: ワッサースタイン距離
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /ja/terms/wasserstein/
-date: "2026-07-18T10:56:18.939931Z"
-lastmod: "2026-07-18T11:44:45.023906Z"
+slug: wasserstein
+date: '2026-07-18T10:56:18.939931Z'
+lastmod: '2026-07-18T11:44:45.023906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "一方の分布を他方に変形するために必要な最小コストに基づき、確率分布間の距離を測定する指標。"
+source: agnes_llm
+status: published
+language: ja
+description: 一方の分布を他方に変形するために必要な最小コストに基づき、確率分布間の距離を測定する指標。
 ---
-
 ## Definition
 
 ワッサースタイン距離（地球移動距離とも呼ばれる）は、ある分布から別の分布へ質量を移動させるために必要な最小の「仕事量」を計算することで、2つの確率分布間の非類似度を定量化します。

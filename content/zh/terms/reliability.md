@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /zh/terms/reliability/
 date: "2026-07-18T11:32:02.609290Z"
 lastmod: "2026-07-18T11:44:45.550418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指AI系统在指定条件下持续正确且安全地执行预期功能的程度。"
 ---
-
 ## Definition
 
 人工智能中的可靠性指系统行为随时间推移及在不同输入下的可信度和一致性。可靠的AI系统应能产生准确的结果，妥善处理边缘情况，并保持预测性。

@@ -1,23 +1,24 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /ko/terms/pagedattention/
-date: "2026-07-18T16:08:54.598698Z"
-lastmod: "2026-07-18T16:38:06.894339Z"
+slug: pagedattention
+date: '2026-07-18T16:08:54.598698Z'
+lastmod: '2026-07-18T16:38:06.894339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "PagedAttention는 가상 메모리 페이징 개념을 적용하여 트랜스포머 모델의 키-값(KV) 캐시 저장 및 접근을 최적화하는 메모리 관리 알고리즘입니다."
+source: agnes_llm
+status: published
+language: ko
+description: PagedAttention는 가상 메모리 페이징 개념을 적용하여 트랜스포머 모델의 키-값(KV) 캐시 저장 및 접근을 최적화하는
+  메모리 관리 알고리즘입니다.
 ---
-
 ## Definition
 
 PagedAttention는 vLLM 프로젝트에서 도입된 기법으로, 대규모 언어 모델(LLM) 추론의 효율성을 개선합니다. 이는 KV 캐시를 관리할 때 발생하는 단편화 및 오버헤드 문제를 해결하며, 메모리 사용량을 크게...

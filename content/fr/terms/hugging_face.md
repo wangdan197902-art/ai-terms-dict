@@ -1,23 +1,25 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /fr/terms/hugging_face/
-date: "2026-07-18T11:22:27.768493Z"
-lastmod: "2026-07-18T11:44:45.271111Z"
+slug: hugging_face
+date: '2026-07-18T11:22:27.768493Z'
+lastmod: '2026-07-18T11:44:45.271111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une plateforme et une communauté de premier plan fournissant des outils, des modèles et des ensembles de données open source pour le développement du machine learning."
+source: agnes_llm
+status: published
+language: fr
+description: Une plateforme et une communauté de premier plan fournissant des outils,
+  des modèles et des ensembles de données open source pour le développement du machine
+  learning.
 ---
-
 ## Definition
 
 Hugging Face est une entreprise et une plateforme en ligne proéminente qui est devenue centrale dans l'écosystème de l'IA open source. Elle offre un vaste référentiel de modèles pré-entraînés, d'ensembles de données et d'applications de démonstration.

@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /ro/terms/function_calling/
 date: "2026-07-18T15:36:05.965853Z"
 lastmod: "2026-07-18T17:15:09.614632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un mecanism care permite modelelor lingvistice mari (LLM) să genereze date structurate care declanșează funcții software specifice."
 ---
-
 ## Definition
 
 Apelarea de funcții permite modelelor lingvistice mari să interacționeze cu instrumente externe și API-uri generând ieșiri structurate, cum ar fi obiecte JSON, care specifică ce funcție trebuie executată și ce argumente trebuie transmise.

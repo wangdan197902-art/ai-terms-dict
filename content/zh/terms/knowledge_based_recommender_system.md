@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /zh/terms/knowledge_based_recommender_system/
 date: "2026-07-18T11:23:17.078331Z"
 lastmod: "2026-07-18T11:44:45.521761Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种通过推理显式领域知识和用户约束来生成建议，而非依赖历史数据的推荐引擎。"
 ---
-
 ## Definition
 
 与依赖过去用户行为的协同过滤不同，KBRS 使用关于物品和用户偏好的显式知识来推导推荐结果。它在数据稀疏的市场中特别有效。

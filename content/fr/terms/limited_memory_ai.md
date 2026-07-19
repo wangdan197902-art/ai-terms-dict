@@ -1,23 +1,25 @@
 ---
-title: "IA à mémoire limitée"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: IA à mémoire limitée
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /fr/terms/limited_memory_ai/
-date: "2026-07-18T11:25:42.850232Z"
-lastmod: "2026-07-18T11:44:45.284883Z"
+slug: limited_memory_ai
+date: '2026-07-18T11:25:42.850232Z'
+lastmod: '2026-07-18T11:44:45.284883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Systèmes d'IA capables de stocker des données passées et des expériences pour éclairer les décisions futures, formant la base de la plupart des applications modernes d'apprentissage automatique."
+source: agnes_llm
+status: published
+language: fr
+description: Systèmes d'IA capables de stocker des données passées et des expériences
+  pour éclairer les décisions futures, formant la base de la plupart des applications
+  modernes d'apprentissage automatique.
 ---
-
 ## Definition
 
 L'IA à mémoire limitée représente le deuxième niveau de capacité de l'IA, où les systèmes peuvent apprendre à partir de données historiques et ajuster leur comportement en conséquence. Contrairement aux machines réactives, ces systèmes conservent des informations sur les événements passés pour améliorer leurs prédictions et actions.

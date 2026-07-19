@@ -1,23 +1,24 @@
 ---
-title: "التدريب المسبق"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: التدريب المسبق
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /ar/terms/pre_training/
-date: "2026-07-18T15:29:26.089103Z"
-lastmod: "2026-07-18T17:15:08.445766Z"
+slug: pre_training
+date: '2026-07-18T15:29:26.089103Z'
+lastmod: '2026-07-18T17:15:08.445766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "المرحلة الأولية لتدريب نموذج تعلم الآلة على مجموعة بيانات كبيرة وغير موسومة لتعلم تمثيلات عامة قبل الضبط الدقيق لمهام محددة."
+source: agnes_llm
+status: published
+language: ar
+description: المرحلة الأولية لتدريب نموذج تعلم الآلة على مجموعة بيانات كبيرة وغير
+  موسومة لتعلم تمثيلات عامة قبل الضبط الدقيق لمهام محددة.
 ---
-
 ## Definition
 
 التدريب المسبق هو تقنية أساسية في التعلم العميق حيث يتعلم النموذج ميزات وأنماطاً واسعة النطاق من كميات هائلة من البيانات، غالباً بدون تسميات. تتيح هذه العملية للنموذج...

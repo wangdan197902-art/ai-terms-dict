@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /zh/terms/non_human/
 date: "2026-07-18T11:28:24.370564Z"
 lastmod: "2026-07-18T11:44:45.537268Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在人工智能伦理和社会学中，“非人类”指拥有代理权、智能或社会存在感，但缺乏生物意识或人类身份的人工实体或系统。"
 ---
-
 ## Definition
 
 该术语常用于讨论人工智能智能体、机器人和虚拟助手的权利、责任和社会融合问题。它强调了生物人类与人工实体之间的区别。

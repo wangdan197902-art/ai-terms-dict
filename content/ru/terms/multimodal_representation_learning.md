@@ -1,23 +1,24 @@
 ---
-title: "Мультимодальное обучение представлений"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Мультимодальное обучение представлений
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /ru/terms/multimodal_representation_learning/
-date: "2026-07-18T16:07:24.445893Z"
-lastmod: "2026-07-18T16:38:07.183375Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:07:24.445893Z'
+lastmod: '2026-07-18T16:38:07.183375Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, позволяющая обучать единым признаковым представлениям на основе нескольких модальностей данных одновременно."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, позволяющая обучать единым признаковым представлениям на основе
+  нескольких модальностей данных одновременно.
 ---
-
 ## Definition
 
 Мультимодальное обучение представлений включает обучение моделей обработке и интеграции информации из различных источников данных, таких как текст, изображения, аудио и видео, в общем латентном пространстве.

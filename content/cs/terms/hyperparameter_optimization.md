@@ -1,23 +1,24 @@
 ---
-title: "Optimalizace hyperparametrů"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Optimalizace hyperparametrů
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /cs/terms/hyperparameter_optimization/
-date: "2026-07-18T16:01:49.408469Z"
-lastmod: "2026-07-18T17:15:09.140318Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T16:01:49.408469Z'
+lastmod: '2026-07-18T17:15:09.140318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Automatizovaný přístup k nalezení optimální konfigurace hyperparametrů, často využívající pravděpodobnostní modely k vedení vyhledávání."
+source: agnes_llm
+status: published
+language: cs
+description: Automatizovaný přístup k nalezení optimální konfigurace hyperparametrů,
+  často využívající pravděpodobnostní modely k vedení vyhledávání.
 ---
-
 ## Definition
 
 Optimalizace hyperparametrů (HPO) označuje širší obor automatizace výběru hyperparametrů. Zatímco ladění je obecným pojmem, HPO často implikuje použití sofistikovaných algoritmů, jako je bayesovská optimalizace, které efektivněji prozkoumávají prostor hyperparametrů a snižují počet potřebných tréninkových cyklů.

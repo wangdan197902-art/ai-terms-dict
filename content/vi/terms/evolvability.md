@@ -1,23 +1,24 @@
 ---
-title: "Khả năng tiến hóa"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Khả năng tiến hóa
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /vi/terms/evolvability/
-date: "2026-07-18T15:52:13.619315Z"
-lastmod: "2026-07-18T16:38:07.755354Z"
+slug: evolvability
+date: '2026-07-18T15:52:13.619315Z'
+lastmod: '2026-07-18T16:38:07.755354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Năng lực của một kiểu gen hoặc hệ thống để tạo ra biến dị kiểu hình có thể di truyền, từ đó được chọn lọc để thích nghi."
+source: agnes_llm
+status: published
+language: vi
+description: Năng lực của một kiểu gen hoặc hệ thống để tạo ra biến dị kiểu hình có
+  thể di truyền, từ đó được chọn lọc để thích nghi.
 ---
-
 ## Definition
 
 Trong bối cảnh tính toán, khả năng tiến hóa đề cập đến mức độ dễ dàng mà một thuật toán hoặc kiến trúc mạng nơ-ron có thể cải thiện độ thích nghi (fitness) qua các thế hệ hoặc bước huấn luyện. Khả năng tiến hóa cao ngụ ý rằng những thay đổi nhỏ có thể dẫn đến sự cải thiện đáng kể về hiệu suất.

@@ -1,23 +1,24 @@
 ---
-title: "Gambar ke Gambar"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Gambar ke Gambar
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /id/terms/image_to_image/
-date: "2026-07-18T15:55:33.082846Z"
-lastmod: "2026-07-18T16:38:07.469488Z"
+slug: image_to_image
+date: '2026-07-18T15:55:33.082846Z'
+lastmod: '2026-07-18T16:38:07.469488Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik AI generatif yang mentransformasikan gambar input menjadi gaya, format, atau konten yang berbeda sambil mempertahankan elemen struktural."
+source: agnes_llm
+status: published
+language: id
+description: Teknik AI generatif yang mentransformasikan gambar input menjadi gaya,
+  format, atau konten yang berbeda sambil mempertahankan elemen struktural.
 ---
-
 ## Definition
 
 Gambar ke Gambar (I2I) melibatkan penggunaan model pembelajaran mendalam, seperti GAN atau model difusi, untuk mengonversi satu gambar menjadi gambar lain. Berbeda dengan filter sederhana, I2I dapat secara drastis mengubah penampilan, seperti mengubah foto siang hari menjadi malam hari atau mengubah sketsa menjadi lukisan realistis.

@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /en/terms/embedding/
 date: "2026-07-18T07:39:00.243151Z"
 lastmod: "2026-07-18T11:44:44.578763Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A technique that maps discrete objects like words or images into continuous vector spaces."
 ---
-
 ## Definition
 
 Embeddings are dense vector representations of data where semantic relationships are preserved in geometric space. By converting categorical or high-dimensional inputs into fixed-length vectors, models can process them efficiently. Similar items cluster together, enabling algorithms to understand context and similarity without explicit rule-based programming, forming the foundation of modern natural language processing and computer vision systems.

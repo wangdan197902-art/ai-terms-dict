@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /ar/terms/transparency/
 date: "2026-07-18T15:39:04.002012Z"
 lastmod: "2026-07-18T17:15:08.467786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مدى انفتاح ووضوح عمليات صنع القرار، ومصادر البيانات، والقيود الخاصة بنظام الذكاء الاصطناعي أمام المستخدمين."
 ---
-
 ## Definition
 
 تضمن الشفافية قدرة أصحاب المصلحة على فهم كيفية وصول نموذج الذكاء الاصطناعي إلى مخرجاته، مما يعزز الثقة والمساءلة. تتضمن الكشف عن أصول بيانات التدريب، وهياكل النماذج، و

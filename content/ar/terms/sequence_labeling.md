@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /ar/terms/sequence_labeling/
 date: "2026-07-18T16:20:36.633085Z"
 lastmod: "2026-07-18T17:15:08.547295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مهمة في معالجة اللغات الطبيعية يتم فيها تعيين تسمية لكل عنصر في تسلسل من المدخلات."
 ---
-
 ## Definition
 
 تنطوي تسمية التسلسل على التنبؤ بتسمية فئوية لكل رمز (token) في تسلسل إدخال معين، مثل الكلمات في جملة أو الأحرف في سلسلة نصية. تشمل التطبيقات الشائعة تحديد أجزاء الكلام (POS tagging) وتصنيف الكيانات المسماة.

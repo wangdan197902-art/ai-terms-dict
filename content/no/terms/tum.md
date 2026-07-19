@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /no/terms/tum/
 date: "2026-07-18T16:19:33.807975Z"
 lastmod: "2026-07-18T16:38:07.055467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "TUM er ikke et anerkjent akronym innen mainstream AI-terminologi; det kan henvise til spesifikke institusjonelle sammenhenger som Technische Universität München eller være en tastefeil."
 ---
-
 ## Definition
 
 Det finnes ingen bredt akseptert definisjon for «Tum» som et sentralt AI-konsept, teknikk eller mål innen akademisk eller industriell litteratur. Det er sannsynligvis en tastefeil for termer som «Turing Test», «Transformer Model»...

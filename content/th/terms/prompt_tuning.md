@@ -1,23 +1,24 @@
 ---
-title: "การปรับแต่งพรอมต์ (Prompt Tuning)"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: การปรับแต่งพรอมต์ (Prompt Tuning)
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /th/terms/prompt_tuning/
-date: "2026-07-18T16:12:01.775624Z"
-lastmod: "2026-07-18T16:38:07.645332Z"
+slug: prompt_tuning
+date: '2026-07-18T16:12:01.775624Z'
+lastmod: '2026-07-18T16:38:07.645332Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการปรับแต่งโมเดลอย่างมีประสิทธิภาพด้านพารามิเตอร์ โดยทำการปรับค่าการฝังข้อมูลอินพุตต่อเนื่อง แทนการอัปเดตน้ำหนักของโมเดลทั้งหมด"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการปรับแต่งโมเดลอย่างมีประสิทธิภาพด้านพารามิเตอร์ โดยทำการปรับค่าการฝังข้อมูลอินพุตต่อเนื่อง
+  แทนการอัปเดตน้ำหนักของโมเดลทั้งหมด
 ---
-
 ## Definition
 
 การปรับแต่งพรอมต์เกี่ยวข้องกับการเพิ่มพรอมต์แบบนิ่ม (เวกเตอร์ต่อเนื่องที่ฝึกฝนได้) เข้าไปในชั้นอินพุตของโมเดลภาษาที่ผ่านการฝึกฝนมาแล้ว ในขณะที่คงพารามิเตอร์พื้นฐานของโมเดลไว้คงที่ วิธีการนี้ช่วยให้สามารถปรับโมเดลให้เข้ากับงานเฉพาะได้อย่างมีประสิทธิภาพโดยไม่จำเป็นต้องฝึกฝนโมเดลใหม่ทั้งหมด

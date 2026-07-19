@@ -1,23 +1,24 @@
 ---
-title: "Vurdering av binære klassifiserere"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Vurdering av binære klassifiserere
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /no/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:53:44.793646Z"
-lastmod: "2026-07-18T16:38:06.998596Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:53:44.793646Z'
+lastmod: '2026-07-18T16:38:06.998596Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å vurdere ytelsen til maskinlæringsmodeller som forutsier ett av to mulige utfall."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å vurdere ytelsen til maskinlæringsmodeller som forutsier
+  ett av to mulige utfall.
 ---
-
 ## Definition
 
 Dette feltet involverer analyse av metrikker som nøyaktighet, presisjon, gjenvinning (recall), F1-score og arealet under mottakeroperasjonskarakteristikkkurven (AUC-ROC). Det hjelper med å bestemme hvor godt en modell distinkterer mellom klassene.

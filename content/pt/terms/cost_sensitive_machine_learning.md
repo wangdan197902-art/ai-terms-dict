@@ -1,23 +1,25 @@
 ---
-title: "Aprendizado de Máquina Sensível a Custos"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Aprendizado de Máquina Sensível a Custos
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /pt/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T14:54:32.173931Z"
-lastmod: "2026-07-18T15:51:59.475010Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T14:54:32.173931Z'
+lastmod: '2026-07-18T15:51:59.475010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um paradigma de aprendizado de máquina que incorpora custos de classificação incorreta no processo de treinamento para otimizar o impacto econômico, em vez de apenas a precisão."
+source: agnes_llm
+status: published
+language: pt
+description: Um paradigma de aprendizado de máquina que incorpora custos de classificação
+  incorreta no processo de treinamento para otimizar o impacto econômico, em vez de
+  apenas a precisão.
 ---
-
 ## Definition
 
 O aprendizado de máquina sensível a custos estende o aprendizado supervisionado tradicional atribuindo penalidades diferentes a tipos distintos de erros. Em cenários do mundo real, falsos positivos e falsos negativos fre...

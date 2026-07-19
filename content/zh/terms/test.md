@@ -1,23 +1,22 @@
 ---
-title: "Test"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Test
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /zh/terms/test/
-date: "2026-07-18T10:55:14.077925Z"
-lastmod: "2026-07-18T11:44:45.386213Z"
+slug: test
+date: '2026-07-18T10:55:14.077925Z'
+lastmod: '2026-07-18T11:44:45.386213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Test 指评估阶段，在此阶段对未见过的数据进行评估以衡量经过训练的 AI 模型的性能。"
+source: agnes_llm
+status: published
+language: zh
+description: Test 指评估阶段，在此阶段对未见过的数据进行评估以衡量经过训练的 AI 模型的性能。
 ---
-
 ## Definition
 
 测试集是在训练过程中保留出来的一部分数据，用于评估最终模型的泛化能力。与用于超参数调优的验证集不同，测试集提供……

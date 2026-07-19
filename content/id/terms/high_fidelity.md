@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /id/terms/high_fidelity/
 date: "2026-07-18T15:31:45.413641Z"
 lastmod: "2026-07-18T16:38:07.408339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menunjukkan konten yang dihasilkan yang menyerupai data dunia nyata secara mendetail, berkualitas, dan realistis."
 ---
-
 ## Definition
 
 Fidelitas tinggi menggambarkan output dari model generatif yang sulit dibedakan atau sangat mirip dengan data autentik. Dalam generasi gambar, ini berarti tekstur dan pencahayaan yang realistis; dalam audio, ini berarti kualitas suara yang jernih dan alami tanpa distorsi signifikan.

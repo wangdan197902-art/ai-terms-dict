@@ -1,23 +1,23 @@
 ---
-title: "Поиск"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Поиск
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /ru/terms/search/
-date: "2026-07-18T15:29:06.757860Z"
-lastmod: "2026-07-18T16:38:07.089902Z"
+slug: search
+date: '2026-07-18T15:29:06.757860Z'
+lastmod: '2026-07-18T16:38:07.089902Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Алгоритмы поиска систематически исследуют пространство решений для нахождения оптимальных или удовлетворительных результатов в задачах ИИ."
+source: agnes_llm
+status: published
+language: ru
+description: Алгоритмы поиска систематически исследуют пространство решений для нахождения
+  оптимальных или удовлетворительных результатов в задачах ИИ.
 ---
-
 ## Definition
 
 Поиск — это фундаментальная парадигма в ИИ, используемая для навигации в сложных пространствах задач, таких как игры или планирование маршрутов. Алгоритмы, такие как A*, Минимакс или Поиск по дереву Монте-Карло, оценивают возможные ходы

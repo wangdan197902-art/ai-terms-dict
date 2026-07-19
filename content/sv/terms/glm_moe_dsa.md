@@ -1,23 +1,25 @@
 ---
-title: "GLM MoE DSA"
-term_id: "glm_moe_dsa"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "LLM"]
+title: GLM MoE DSA
+term_id: glm_moe_dsa
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- LLM
 difficulty: 4
 weight: 1
-slug: "glm_moe_dsa"
-aliases:
-  - /sv/terms/glm_moe_dsa/
-date: "2026-07-18T15:59:52.372514Z"
-lastmod: "2026-07-18T17:15:09.007628Z"
+slug: glm_moe_dsa
+date: '2026-07-18T15:59:52.372514Z'
+lastmod: '2026-07-18T17:15:09.007628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Detta verkar vara en sammanblandning av distinkta koncept: GLM (General Language Model), MoE (Mixture of Experts) och potentiellt DSA (Dynamic Sparse Attention eller liknande)."
+source: agnes_llm
+status: published
+language: sv
+description: 'Detta verkar vara en sammanblandning av distinkta koncept: GLM (General
+  Language Model), MoE (Mixture of Experts) och potentiellt DSA (Dynamic Sparse Attention
+  eller liknande).'
 ---
-
 ## Definition
 
 Det finns ingen enskild standardterm 'GLM MoE DSA'. Det kombinerar dock sannolikt GLM (en specifik arkitektur för stora språkmodeller), MoE (Mixture of Experts, en teknik för att skala modellstorleken effektivt genom att endast aktivera en

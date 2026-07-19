@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /es/terms/agentive_logic/
 date: "2026-07-18T10:34:54.152967Z"
 lastmod: "2026-07-18T11:44:44.774163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La lógica agentiva se refiere a los marcos de razonamiento formal utilizados para modelar las intenciones, objetivos y procesos de toma de decisiones de agentes autónomos."
 ---
-
 ## Definition
 
 Extiende la lógica tradicional para tener en cuenta la agencia, permitiendo a los sistemas representar creencias, deseos e intenciones (modelos BDI). Esta lógica permite a los agentes planificar acciones dinámicamente basándose en cambios en el entorno.

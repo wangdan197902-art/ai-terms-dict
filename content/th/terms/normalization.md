@@ -1,23 +1,24 @@
 ---
-title: "การปรับให้เป็นมาตรฐาน"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: การปรับให้เป็นมาตรฐาน
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /th/terms/normalization/
-date: "2026-07-18T16:08:08.826290Z"
-lastmod: "2026-07-18T16:38:07.636921Z"
+slug: normalization
+date: '2026-07-18T16:08:08.826290Z'
+lastmod: '2026-07-18T16:38:07.636921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การปรับให้เป็นมาตรฐานเป็นเทคนิคการเตรียมข้อมูลล่วงหน้าซึ่งปรับสเกลคุณลักษณะเชิงตัวเลขให้อยู่ในช่วงมาตรฐาน มักอยู่ระหว่าง 0 ถึง 1 เพื่อปรับปรุงการลู่เข้าและประสิทธิภาพของโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: การปรับให้เป็นมาตรฐานเป็นเทคนิคการเตรียมข้อมูลล่วงหน้าซึ่งปรับสเกลคุณลักษณะเชิงตัวเลขให้อยู่ในช่วงมาตรฐาน
+  มักอยู่ระหว่าง 0 ถึง 1 เพื่อปรับปรุงการลู่เข้าและประสิทธิภาพของโมเดล
 ---
-
 ## Definition
 
 วิธีการทั่วไปรวมถึงการปรับสเกล Min-Max และการทำให้เป็นมาตรฐานแบบ Z-score กระบวนการนี้มั่นใจว่าคุณลักษณะที่มีขนาดใหญ่มากจะไม่ครอบงำอัลกอริทึมการเรียนรู้ โดยเฉพาะในอัลกอริทึมการหาค่าเหมาะที่สุดแบบไล่ระดับ

@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /fi/terms/scientific/
 date: "2026-07-18T15:30:57.256314Z"
 lastmod: "2026-07-18T17:15:09.359115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tieteellinen tekoälyssä viittaa tiukkojen empiiristen menetelmien, hypoteesien testauksen ja toistettavuuden soveltamiseen tutkimuksessa."
 ---
-
 ## Definition
 
 Tekoälyn tieteellinen lähestymistapa korostaa todisteisiin perustuvaa kehitystä ja validointia. Se sisältää hypoteesien muotoilun mallien käyttäytymisestä, kontrolloitujen kokeiden suorittamisen ja

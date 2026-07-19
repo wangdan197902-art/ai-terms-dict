@@ -1,23 +1,23 @@
 ---
-title: "מדד אינקפשיין"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: מדד אינקפשיין
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /he/terms/inception_score/
-date: "2026-07-18T16:06:30.197755Z"
-lastmod: "2026-07-18T17:15:09.550556Z"
+slug: inception_score
+date: '2026-07-18T16:06:30.197755Z'
+lastmod: '2026-07-18T17:15:09.550556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מדד המשמש להערכת איכות תמונות שנוצרו על ידי מדידת הבהירות והגיוון שלהן."
+source: agnes_llm
+status: published
+language: he
+description: מדד המשמש להערכת איכות תמונות שנוצרו על ידי מדידת הבהירות והגיוון שלהן.
 ---
-
 ## Definition
 
 מדד אינקפשיין (IS) הוא מדד סטטיסטי שהוצג כדי להעריך את הביצועים של רשתות גנרטיביות מתחרות (GANs) ודגמים יצירתיים אחרים. הוא משלב שני גורמים: איכות התמונה (בהירות) וגיוון התמונות.

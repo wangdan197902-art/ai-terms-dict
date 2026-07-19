@@ -1,23 +1,24 @@
 ---
-title: "Terarah"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Terarah
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /id/terms/guided/
-date: "2026-07-18T15:26:24.990539Z"
-lastmod: "2026-07-18T16:38:07.395028Z"
+slug: guided
+date: '2026-07-18T15:26:24.990539Z'
+lastmod: '2026-07-18T16:38:07.395028Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Menggambarkan proses atau metode generasi AI yang dibatasi atau diarahkan oleh sinyal eksternal spesifik, batasan, atau tujuan antara."
+source: agnes_llm
+status: published
+language: id
+description: Menggambarkan proses atau metode generasi AI yang dibatasi atau diarahkan
+  oleh sinyal eksternal spesifik, batasan, atau tujuan antara.
 ---
-
 ## Definition
 
 Istilah 'terarah' dalam AI biasanya merujuk pada teknik di mana perilaku model diarahkan oleh informasi tambahan selain masukan utama. Contoh umum termasuk difusi terarah, di mana kelas...

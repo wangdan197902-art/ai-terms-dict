@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /fr/terms/multi_step/
 date: "2026-07-18T10:57:58.875204Z"
 lastmod: "2026-07-18T11:44:45.179586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une stratégie de résolution de problèmes nécessitant la réalisation d'une séquence d'opérations logiques ou de calculs pour parvenir à une solution finale."
 ---
-
 ## Definition
 
 Les méthodes multi-étapes consistent à décomposer une requête ou une tâche complexe en étapes plus petites et exécutables. Cette approche est cruciale pour les tâches de raisonnement, telles que la résolution de problèmes mathématiques ou la génération de code.

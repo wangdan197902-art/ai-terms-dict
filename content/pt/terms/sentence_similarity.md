@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /pt/terms/sentence_similarity/
 date: "2026-07-18T15:20:53.152252Z"
 lastmod: "2026-07-18T15:51:59.531528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma métrica ou tarefa que quantifica o quão semelhantes semanticamente duas frases são, frequentemente representada por uma pontuação numérica."
 ---
-
 ## Definition
 
 A similaridade de frases mede o grau de sobreposição semântica entre duas frases distintas. Vai além da correspondência lexical para compreender o significado, o contexto e a intenção. Isso é tipicamente alcançado por meio da...

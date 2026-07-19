@@ -1,23 +1,24 @@
 ---
-title: "Otomatik tıbbi yazman"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Otomatik tıbbi yazman
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /tr/terms/automated_medical_scribe/
-date: "2026-07-18T15:42:54.856052Z"
-lastmod: "2026-07-18T16:38:07.276495Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:42:54.856052Z'
+lastmod: '2026-07-18T16:38:07.276495Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Doktor-hasta etkileşimlerinden klinik dokümantasyonu otomatik olarak oluşturan yapay zeka destekli bir sistem."
+source: agnes_llm
+status: published
+language: tr
+description: Doktor-hasta etkileşimlerinden klinik dokümantasyonu otomatik olarak
+  oluşturan yapay zeka destekli bir sistem.
 ---
-
 ## Definition
 
 Otomatik tıbbi yazmanlar, doktor-hasta konuşmalarını dinleyerek yapılandırılmış elektronik sağlık kayıtları oluşturmak için doğal dil işleme ve konuşma tanıma teknolojilerini kullanır. Bu teknoloji, hekimlerin idari yükünü azaltarak daha verimli bir hasta bakımı sağlar.

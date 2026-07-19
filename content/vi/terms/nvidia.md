@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /vi/terms/nvidia/
 date: "2026-07-18T16:05:47.143720Z"
 lastmod: "2026-07-18T16:38:07.788876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một công ty công nghệ hàng đầu chuyên về GPU và phần cứng AI, cung cấp nền tảng cho cơ sở hạ tầng học sâu hiện đại."
 ---
-
 ## Definition
 
 Nvidia là một lực lượng thống trị trong ngành AI, chủ yếu được biết đến với việc thiết kế Bộ xử lý Đồ họa (GPU) tăng tốc các tác vụ tính toán song song cần thiết cho học sâu. Nền tảng CUDA của họ

@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /ja/terms/graphql/
 date: "2026-07-18T11:16:46.574378Z"
 lastmod: "2026-07-18T11:44:45.103498Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "GraphQLはAPIのためのクエリ言語であり、既存のデータを使ってそれらのクエリを満たすためのランタイムです。クライアントが必要なデータだけを正確に要求することを可能にします。"
 ---
-
 ## Definition
 
 Facebookによって開発されたGraphQLは、API内のデータの完全かつ理解しやすい記述を提供し、クライアントが必要なものだけを正確に、それ以上でも以下でもなく要求する力を与えます。これは複数のエンドポイントを置き換えます。

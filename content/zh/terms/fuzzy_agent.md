@@ -1,23 +1,23 @@
 ---
-title: "模糊智能体"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: 模糊智能体
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /zh/terms/fuzzy_agent/
-date: "2026-07-18T11:17:53.013444Z"
-lastmod: "2026-07-18T11:44:45.502954Z"
+slug: fuzzy_agent
+date: '2026-07-18T11:17:53.013444Z'
+lastmod: '2026-07-18T11:44:45.502954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种利用模糊逻辑在决策过程中处理不确定性和不精确信息的自主实体。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种利用模糊逻辑在决策过程中处理不确定性和不精确信息的自主实体。
 ---
-
 ## Definition
 
 模糊智能体运行在数据往往具有歧义或不完整的环境中，采用模糊逻辑系统而非二元真假状态。通过使用隶属函数和语言变量，它能够更灵活地应对现实世界中的不确定性。

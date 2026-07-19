@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /id/terms/diffusersltxpipeline/
-date: "2026-07-18T15:47:58.010246Z"
-lastmod: "2026-07-18T16:38:07.450784Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:47:58.010246Z'
+lastmod: '2026-07-18T16:38:07.450784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Implementasi pipa dalam Diffusers yang dioptimalkan untuk model LTX (Lightning Text-to-Video atau model generatif kecepatan tinggi serupa), dengan fokus pada inferensi yang cepat."
+source: agnes_llm
+status: published
+language: id
+description: Implementasi pipa dalam Diffusers yang dioptimalkan untuk model LTX (Lightning
+  Text-to-Video atau model generatif kecepatan tinggi serupa), dengan fokus pada inferensi
+  yang cepat.
 ---
-
 ## Definition
 
 Pipa LTX disesuaikan untuk model yang mengutamakan kecepatan dan efisiensi dalam tugas generatif, sering kali menggunakan metode sampling yang didistilasi atau dipercepat. Pipa ini terintegrasi secara mulus dengan ekosistem Diffusers.

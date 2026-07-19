@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /vi/terms/intelligent_decision_support_system/
 date: "2026-07-18T15:58:36.175301Z"
 lastmod: "2026-07-18T16:38:07.771209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống được tăng cường bởi AI, hỗ trợ con người trong việc ra các quyết định phức tạp bằng cách phân tích dữ liệu và cung cấp các thông tin hành động được."
 ---
-
 ## Definition
 
 Hệ thống Hỗ trợ Ra Quyết định Thông minh (IDSS) tích hợp các kỹ thuật trí tuệ nhân tạo, chẳng hạn như học máy và xử lý ngôn ngữ tự nhiên, với các khung hỗ trợ ra quyết định truyền thống. Nó

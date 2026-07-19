@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /nl/terms/polysemanticity/
 date: "2026-07-18T16:12:34.827165Z"
 lastmod: "2026-07-18T17:15:08.777227Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het fenomeen waarbij individuele neuronen in neurale netwerken reageren op meerdere verschillende concepten."
 ---
-
 ## Definition
 
 Polysemantie is een kenmerk dat wordt waargenomen in diepe neurale netwerken, met name in transformers, waarbij een enkel neuron kan activeren als reactie op verschillende ongebruikelijke of semantisch verschillende...

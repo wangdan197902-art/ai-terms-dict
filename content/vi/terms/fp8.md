@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /vi/terms/fp8/
-date: "2026-07-18T15:53:56.037960Z"
-lastmod: "2026-07-18T16:38:07.758913Z"
+slug: fp8
+date: '2026-07-18T15:53:56.037960Z'
+lastmod: '2026-07-18T16:38:07.758913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "FP8 là định dạng dấu phẩy động 8 bit được thiết kế để tăng tốc quá trình huấn luyện và suy luận học sâu trong khi vẫn duy trì mức độ chính xác chấp nhận được."
+source: agnes_llm
+status: published
+language: vi
+description: FP8 là định dạng dấu phẩy động 8 bit được thiết kế để tăng tốc quá trình
+  huấn luyện và suy luận học sâu trong khi vẫn duy trì mức độ chính xác chấp nhận
+  được.
 ---
-
 ## Definition
 
 Dấu phẩy động 8 (FP8) là một kiểu dữ liệu số học cân bằng giữa hiệu quả tính toán và độ chính xác, được tối ưu hóa cụ thể cho phần cứng AI hiện đại. Nó giảm yêu cầu băng thông bộ nhớ

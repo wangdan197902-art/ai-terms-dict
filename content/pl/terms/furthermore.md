@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /pl/terms/furthermore/
 date: "2026-07-18T15:25:48.264278Z"
 lastmod: "2026-07-18T17:15:08.811897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przysówek łączący używany do wprowadzania dodatkowych informacji lub wzmacniania poprzedniego argumentu w piśmie technicznym."
 ---
-
 ## Definition
 
 Choć nie jest to algorytm techniczny, "ponadto" jest kluczowym narzędziem językowym w dokumentacji AI i pracach badawczych. Służy do łączenia idei, wskazując, że następujące stwierdzenie dodaje wagi lub rozwija poprzedni punkt.

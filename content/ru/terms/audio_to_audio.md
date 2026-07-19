@@ -1,23 +1,24 @@
 ---
-title: "Аудио в аудио"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Аудио в аудио
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /ru/terms/audio_to_audio/
-date: "2026-07-18T15:41:44.703200Z"
-lastmod: "2026-07-18T16:38:07.123639Z"
+slug: audio_to_audio
+date: '2026-07-18T15:41:44.703200Z'
+lastmod: '2026-07-18T16:38:07.123639Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Задача генеративного ИИ, при которой входной аудиосигнал преобразуется в выходной с сохранением или изменением определенных характеристик."
+source: agnes_llm
+status: published
+language: ru
+description: Задача генеративного ИИ, при которой входной аудиосигнал преобразуется
+  в выходной с сохранением или изменением определенных характеристик.
 ---
-
 ## Definition
 
 Технология Audio-to-audio относится к архитектурам нейронных сетей, предназначенным для отображения одного аудиосигнала на другой. В отличие от синтеза речи из текста, здесь происходит прямое преобразование формы волны или спектрограммы. Применение включает

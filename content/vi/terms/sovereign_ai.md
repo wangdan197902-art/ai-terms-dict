@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /vi/terms/sovereign_ai/
 date: "2026-07-18T16:12:29.121503Z"
 lastmod: "2026-07-18T16:38:07.806368Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cách tiếp cận chiến lược nơi các quốc gia hoặc tổ chức phát triển và kiểm soát cơ sở hạ tầng và mô hình AI của riêng mình để đảm bảo quyền riêng tư dữ liệu và độc lập về quy định."
 ---
-
 ## Definition
 
 AI chủ quyền mô tả khả năng của một quốc gia hoặc tổ chức trong việc xây dựng, triển khai và quản lý các hệ thống trí tuệ nhân tạo một cách độc lập, mà không phụ thuộc vào các nhà cung cấp đám mây nước ngoài hoặc các nền tảng độc quyền.

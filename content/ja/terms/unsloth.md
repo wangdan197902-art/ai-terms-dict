@@ -1,23 +1,24 @@
 ---
-title: "Unsloth"
-term_id: "unsloth"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "LLM", "training", "library"]
+title: Unsloth
+term_id: unsloth
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- LLM
+- training
+- library
 difficulty: 3
 weight: 1
-slug: "unsloth"
-aliases:
-  - /ja/terms/unsloth/
-date: "2026-07-18T11:36:08.593459Z"
-lastmod: "2026-07-18T11:44:45.153728Z"
+slug: unsloth
+date: '2026-07-18T11:36:08.593459Z'
+lastmod: '2026-07-18T11:44:45.153728Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Unslothは、最適化されたメモリ管理とカーネル実装により、大規模言語モデル（LLM）のトレーニングと推論を最大2倍高速化するオープンソースライブラリです。"
+source: agnes_llm
+status: published
+language: ja
+description: Unslothは、最適化されたメモリ管理とカーネル実装により、大規模言語モデル（LLM）のトレーニングと推論を最大2倍高速化するオープンソースライブラリです。
 ---
-
 ## Definition
 
 Unslothは、大規模言語モデル（LLM）のファインチューニングとデプロイメントを最適化するために設計された専用ツールです。標準的なPyTorchの...

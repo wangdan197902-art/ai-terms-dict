@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /ko/terms/virtual_intelligence/
 date: "2026-07-18T16:20:07.434028Z"
 lastmod: "2026-07-18T16:38:06.918671Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "가상 지능은 디지털 환경에서 작동하여 인간과 유사한 상호작용, 의사 결정 또는 자율성을 시뮬레이션하는 AI 시스템을 포괄적으로 지칭하는 용어입니다."
 ---
-
 ## Definition
 
 가상 지능은 종종 사용자에게 다른 에이전트와 상호작용하며 가상 또는 디지털 공간 내에서 기능하도록 설계된 모든 인공지능 시스템을 포함합니다. 여기에는 가상 어시스턴트가 포함됩니다.

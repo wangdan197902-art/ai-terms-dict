@@ -1,23 +1,24 @@
 ---
-title: "Conditional Random Field"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Conditional Random Field
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /id/terms/conditional_random_field/
-date: "2026-07-18T15:43:20.880864Z"
-lastmod: "2026-07-18T16:38:07.439672Z"
+slug: conditional_random_field
+date: '2026-07-18T15:43:20.880864Z'
+lastmod: '2026-07-18T16:38:07.439672Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Conditional Random Field adalah model probabilistik diskriminatif yang digunakan untuk tugas prediksi terstruktur seperti pelabelan sekuens."
+source: agnes_llm
+status: published
+language: id
+description: Conditional Random Field adalah model probabilistik diskriminatif yang
+  digunakan untuk tugas prediksi terstruktur seperti pelabelan sekuens.
 ---
-
 ## Definition
 
 Conditional Random Fields (CRF) adalah kelas model diskriminatif yang umum digunakan dalam pemrosesan bahasa alami dan bioinformatika. Berbeda dengan model generatif, CRF secara langsung memodelkan probabilitas bersyarat dari label yang diberikan serangkaian fitur masukan, sehingga lebih efektif dalam menangkap ketergantungan antar label.

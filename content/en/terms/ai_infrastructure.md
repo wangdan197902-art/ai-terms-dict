@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /en/terms/ai_infrastructure/
 date: "2026-07-18T09:44:10.160770Z"
 lastmod: "2026-07-18T11:44:44.636783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The hardware, software, and network resources required to develop, train, and deploy artificial intelligence models at scale."
 ---
-
 ## Definition
 
 AI infrastructure encompasses the foundational technology stack necessary for artificial intelligence operations. This includes high-performance computing hardware like GPUs and TPUs, cloud storage solutions, data pipelines, and orchestration tools such as Kubernetes. It also involves the software frameworks and libraries that facilitate model development and deployment. Robust infrastructure ensures scalability, reliability, and efficiency, enabling organizations to handle massive datasets and complex computational workloads required for modern AI applications.

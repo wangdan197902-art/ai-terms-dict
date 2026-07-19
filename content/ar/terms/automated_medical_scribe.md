@@ -1,23 +1,24 @@
 ---
-title: "المنسخ الطبي الآلي"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: المنسخ الطبي الآلي
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /ar/terms/automated_medical_scribe/
-date: "2026-07-18T15:46:36.812053Z"
-lastmod: "2026-07-18T17:15:08.479122Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:46:36.812053Z'
+lastmod: '2026-07-18T17:15:08.479122Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نظام مدعوم بالذكاء الاصطناعي يقوم تلقائياً بإنشاء التوثيق السريري من التفاعلات بين الطبيب والمريض."
+source: agnes_llm
+status: published
+language: ar
+description: نظام مدعوم بالذكاء الاصطناعي يقوم تلقائياً بإنشاء التوثيق السريري من
+  التفاعلات بين الطبيب والمريض.
 ---
-
 ## Definition
 
 تستخدم المنسخات الطبية الآلية تقنيات معالجة اللغات الطبيعية والتعرف على الكلام للاستماع إلى محادثات الطبيب مع المريض وإنشاء سجلات صحية إلكترونية منظمة. تستفيد هذه التقنية من الذكاء الاصطناعي لتحويل الحوارات غير المهيكلة إلى بيانات قابلة للقراءة والتحليل، مما يقلل العبء الإداري على الأطباء ويحسن دقة السجلات الطبية.

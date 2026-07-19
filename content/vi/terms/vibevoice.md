@@ -7,8 +7,6 @@ tags: ["audio", "speech", "emotion", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "vibevoice"
-aliases:
-  - /vi/terms/vibevoice/
 date: "2026-07-18T16:15:44.786935Z"
 lastmod: "2026-07-18T16:38:07.815155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Vibevoice đề cập đến một phong cách tổng hợp giọng nói bằng AI, ưu tiên sự tự nhiên, biểu cảm và nhận thức ngữ cảnh trong giọng điệu hơn là độ chính xác máy móc cứng nhắc."
 ---
-
 ## Definition
 
 Vibevoice là một phương pháp tiếp cận khái niệm hoặc thương hiệu đối với công nghệ Chuyển đổi Văn bản thành Giọng nói (TTS), nhấn mạnh vào việc nắm bắt 'tâm trạng' hoặc sắc thái cảm xúc của lời nói con người. Không giống như TTS truyền thống có thể nghe đơn điệu...

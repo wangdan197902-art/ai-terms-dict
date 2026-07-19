@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /da/terms/vector_database/
 date: "2026-07-18T15:31:17.709007Z"
 lastmod: "2026-07-18T17:15:09.236666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En specialiseret database designet til at gemme, indeksere og forespørge højdimensionelle vektorer, der repræsenterer datafunktioner."
 ---
-
 ## Definition
 
 Vektordatabaser optimerer lagring og hentning af ustukturerede data ved at konvertere dem til numeriske indlejringer (embeddings). De bruger algoritmer som Approksimativ Nærmeste Nabo (ANN) til effektivt at finde lignende data.

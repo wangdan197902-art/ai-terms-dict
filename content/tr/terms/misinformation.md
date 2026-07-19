@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /tr/terms/misinformation/
 date: "2026-07-18T16:03:59.262699Z"
 lastmod: "2026-07-18T16:38:07.334564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Dolandandırma niyeti olmaksızın yayılan yanlış veya hatalı bilgi."
 ---
-
 ## Definition
 
 Yanlış bilgi, zarar verme veya kandırma amacıyla bilinçli bir niyet olmaksızın paylaşılan yanlış veya yanıltıcı bilgileri ifade eder. Kasıtlı olarak uydurulan 'dezinformasyondan' (disinformation) farklıdır. Yapay zeka bağlamında...

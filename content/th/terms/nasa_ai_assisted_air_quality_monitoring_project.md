@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /th/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:07:10.559271Z"
 lastmod: "2026-07-18T16:38:07.635401Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "โครงการที่ใช้ปัญญาประดิษฐ์และข้อมูลดาวเทียมเพื่อตรวจสอบและทำนายรูปแบบคุณภาพอากาศทั่วโลก"
 ---
-
 ## Definition
 
 โครงการนี้ใช้ข้อมูลการสังเกตโลกของ NASA ผสมผสานกับอัลกอริทึม AI ขั้นสูงเพื่อติดตามฝุ่นละอองและมลพิษทางก๊าซทั่วโลก โดยการผสานรวมภาพจากดาวเทียมเข้ากับข้อมูลระดับพื้นดิน

@@ -1,23 +1,25 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /it/terms/comfyui/
-date: "2026-07-18T15:52:01.505344Z"
-lastmod: "2026-07-18T17:15:08.607577Z"
+slug: comfyui
+date: '2026-07-18T15:52:01.505344Z'
+lastmod: '2026-07-18T17:15:08.607577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'interfaccia grafica basata su nodi per Stable Diffusion che consente la costruzione di flussi di lavoro complessi e un controllo fine sulla generazione di immagini."
+source: agnes_llm
+status: published
+language: it
+description: Un'interfaccia grafica basata su nodi per Stable Diffusion che consente
+  la costruzione di flussi di lavoro complessi e un controllo fine sulla generazione
+  di immagini.
 ---
-
 ## Definition
 
 ComfyUI è una potente interfaccia grafica modulare e basata su nodi per i modelli Stable Diffusion. A differenza delle interfacce tradizionali che offrono flussi di lavoro lineari, ComfyUI permette agli utenti di creare pipeline personalizzate collegando

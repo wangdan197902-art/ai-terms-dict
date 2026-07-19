@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /vi/terms/text_to_audio/
 date: "2026-07-18T16:14:07.193828Z"
 lastmod: "2026-07-18T16:38:07.811112Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quá trình chuyển đổi văn bản viết thành âm thanh nói, bao gồm cả tổng hợp giọng nói và tạo âm thanh không phải giọng nói."
 ---
-
 ## Definition
 
 Văn bản sang Âm thanh là một thuật ngữ rộng bao gồm các công nghệ biến đổi đầu vào văn bản thành đầu ra thính giác. Mặc dù thường liên quan đến Tổng hợp Giọng nói từ Văn bản (TTS) để tạo giọng nói giống con người, nó cũng bao gồm việc tạo ra các hiệu ứng âm thanh, nhạc nền và các dạng sóng âm thanh khác dựa trên mô tả văn bản.

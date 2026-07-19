@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /he/terms/asr_complete/
 date: "2026-07-18T15:40:40.891401Z"
 lastmod: "2026-07-18T17:15:09.509232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ASR-complete מתאר מערכת להכרה בקול המשיגה דיוק ברמת האדם על ערכות בדיקה תקניות."
 ---
-
 ## Definition
 
 המונח ASR-complete מצביע על כך שמערכת להכרה אוטומטית בקול הגיעה לרמת ביצועים הדומה למתעתיקים אנושיים במשימות ובקבוצות נתונים מוגדרות היטב. זהו אבן דרך...

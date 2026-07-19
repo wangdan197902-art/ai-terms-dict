@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /vi/terms/free/
 date: "2026-07-18T15:25:42.122995Z"
 lastmod: "2026-07-18T16:38:07.685640Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mô tả các tài nguyên, phần mềm hoặc dữ liệu có sẵn mà không tốn chi phí tài chính hoặc giấy phép hạn chế."
 ---
-
 ## Definition
 
 Trong bối cảnh AI, 'miễn phí' thường đề cập đến các mô hình, tập dữ liệu hoặc công cụ mã nguồn mở mà người dùng có thể truy cập, sửa đổi và phân phối mà không phải trả phí. Điều này tương phản với các giải pháp độc quyền

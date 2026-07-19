@@ -1,23 +1,24 @@
 ---
-title: "Inteligencia computacional"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Inteligencia computacional
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /es/terms/computational_intelligence/
-date: "2026-07-18T10:40:08.134724Z"
-lastmod: "2026-07-18T11:44:44.787657Z"
+slug: computational_intelligence
+date: '2026-07-18T10:40:08.134724Z'
+lastmod: '2026-07-18T11:44:44.787657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una rama de la IA que trata sobre sistemas adaptativos que imitan procesos biológicos para resolver problemas complejos."
+source: agnes_llm
+status: published
+language: es
+description: Una rama de la IA que trata sobre sistemas adaptativos que imitan procesos
+  biológicos para resolver problemas complejos.
 ---
-
 ## Definition
 
 La inteligencia computacional (IC) abarca un conjunto de paradigmas computacionales inspirados en la naturaleza, incluidas las redes neuronales, la lógica difusa y la computación evolutiva. Estos sistemas están diseñados para manejar la incertidumbre, la imprecisión y la no linealidad, imitando la robustez de los sistemas biológicos.

@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /vi/terms/artificial_intimacy/
 date: "2026-07-18T15:41:03.767391Z"
 lastmod: "2026-07-18T16:38:07.729359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mối liên kết cảm xúc mà người dùng hình thành với các thực thể AI mô phỏng sự đồng cảm, bạn đồng hành và tương tác cá nhân."
 ---
-
 ## Definition
 
 Sự thân mật nhân tạo đề cập đến hiện tượng tâm lý nơi con người phát triển các mối ràng buộc cảm xúc chân thật với các tác nhân nhân tạo, chẳng hạn như bot trò chuyện, trợ lý ảo hoặc robot xã hội. Các hệ thống này...

@@ -1,23 +1,24 @@
 ---
-title: "Taxa"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: Taxa
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /pt/terms/rate/
-date: "2026-07-18T14:38:16.775307Z"
-lastmod: "2026-07-18T15:51:59.437133Z"
+slug: rate
+date: '2026-07-18T14:38:16.775307Z'
+lastmod: '2026-07-18T15:51:59.437133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma medição de frequência ou velocidade, referindo-se comumente a taxas de aprendizado em otimização ou velocidades de geração de tokens."
+source: agnes_llm
+status: published
+language: pt
+description: Uma medição de frequência ou velocidade, referindo-se comumente a taxas
+  de aprendizado em otimização ou velocidades de geração de tokens.
 ---
-
 ## Definition
 
 Em IA, 'taxa' refere-se mais frequentemente à taxa de aprendizado, um hiperparâmetro que controla o quanto o modelo deve ser alterado em resposta ao erro estimado cada vez que os pesos do modelo são atualizados. Uma taxa bem ajustada é crucial para a convergência eficiente do treinamento.

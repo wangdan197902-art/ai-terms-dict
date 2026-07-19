@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /de/terms/artificial_intelligence_controversies/
 date: "2026-07-18T11:03:25.797834Z"
 lastmod: "2026-07-18T11:44:44.910275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Öffentliche Debatten und Uneinigkeit bezüglich der ethischen, sozialen und technischen Auswirkungen von Entwicklung und Einsatz von KI."
 ---
-
 ## Definition
 
 KI-Kontroversen umfassen die breite Palette ethischer, rechtlicher und gesellschaftlicher Streitfragen, die aus Technologien der künstlichen Intelligenz entstehen. Zu den Kernthemen gehören algorithmische Verzerrungen, Datenschutzverletzungen und Arbeitsplatzverluste.

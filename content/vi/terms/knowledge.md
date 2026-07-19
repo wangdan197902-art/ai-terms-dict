@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /vi/terms/knowledge/
 date: "2026-07-18T15:26:22.522702Z"
 lastmod: "2026-07-18T16:38:07.688114Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tri thức là sự hiểu biết có cấu trúc, các sự thật, kỹ năng và thông tin chi tiết thu được từ thông tin, kinh nghiệm hoặc lập luận, giúp đưa ra quyết định hiệu quả."
 ---
-
 ## Definition
 
 Trong AI, tri thức thường đề cập đến thông tin rõ ràng được lưu trữ trong cơ sở dữ liệu, ontology hoặc trọng số mạng nơ-ron cho phép suy luận. Nó nằm ở vị trí cao hơn thông tin trong phân cấp DIKW

@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /he/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:35:46.694071Z"
 lastmod: "2026-07-18T17:15:09.497156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "זוהי טכניקה המעודדת מודלי שפה גדולים (LLMs) לייצר שלבי הסקה ביניים לפני הצגת התשובה הסופית."
 ---
-
 ## Definition
 
 הנחיה בשרשרת מחשבות (CoT) משפרת את הביצועים של מודלי שפה גדולים במשימות הסקה מורכבות על ידי בקשה מפורשת מהמודל לנסח את הלוגיקה צעד אחר צעד. במקום לקפוץ ישירות לתשובה, המודל מפרט את תהליך החשיבה.

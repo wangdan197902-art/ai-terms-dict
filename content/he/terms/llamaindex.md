@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /he/terms/llamaindex/
 date: "2026-07-18T16:10:26.309160Z"
 lastmod: "2026-07-18T17:15:09.559448Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "LlamaIndex היא מסגרת עבודה המיועדת לחבר מקורות נתונים מותאמים אישית למודלי שפה גדולים, ומקלה על יצירת יישומי RAG (יצירה משולבת החזרה)."
 ---
-
 ## Definition
 
 בעבר נודעה בשם GPT Index, LlamaIndex היא מסגרת נתונים חזקה המאפשרת ל-LLMs לעכל ולהגיב לנתונים מבניים ולא מבניים. היא מספקת כלים לאינדוקס, שאילתות וניהול נתונים.

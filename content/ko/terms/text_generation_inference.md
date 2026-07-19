@@ -1,23 +1,23 @@
 ---
-title: "텍스트 생성 추론"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: 텍스트 생성 추론
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /ko/terms/text_generation_inference/
-date: "2026-07-18T16:18:17.756923Z"
-lastmod: "2026-07-18T16:38:06.914468Z"
+slug: text_generation_inference
+date: '2026-07-18T16:18:17.756923Z'
+lastmod: '2026-07-18T16:38:06.914468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "대규모 언어 모델을 효율적으로 대규모로 텍스트를 생성하기 위해 특별히 최적화된 고성능 서빙 엔진입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 대규모 언어 모델을 효율적으로 대규모로 텍스트를 생성하기 위해 특별히 최적화된 고성능 서빙 엔진입니다.
 ---
-
 ## Definition
 
 텍스트 생성 추론(TGI)은 낮은 지연 시간과 높은 처리량을 위해 대규모 언어 모델(LLM)을 서빙하도록 설계된 전용 소프트웨어 프레임워크입니다. 이 프레임워크는 텍스트 생성 추론 프로세스를 최적화하여

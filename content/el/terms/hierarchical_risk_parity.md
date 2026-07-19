@@ -1,23 +1,25 @@
 ---
-title: "Ιεραρχική Ισορροπία Κινδύνου"
-term_id: "hierarchical_risk_parity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "optimization", "clustering"]
+title: Ιεραρχική Ισορροπία Κινδύνου
+term_id: hierarchical_risk_parity
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Optimization
+- Clustering
 difficulty: 4
 weight: 1
-slug: "hierarchical_risk_parity"
-aliases:
-  - /el/terms/hierarchical_risk_parity/
-date: "2026-07-18T16:12:07.880533Z"
-lastmod: "2026-07-18T17:15:09.916563Z"
+slug: hierarchical_risk_parity
+date: '2026-07-18T16:12:07.880533Z'
+lastmod: '2026-07-18T17:15:09.916563Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική βελτιστοποίησης χαρτοφυλακίου που χρησιμοποιεί συστάδες για τη διαχείριση της συσχέτισης των περιουσιακών στοιχείων και κατανέμει τον κίνδυνο σε ιεραρχικές ομάδες."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική βελτιστοποίησης χαρτοφυλακίου που χρησιμοποιεί συστάδες για
+  τη διαχείριση της συσχέτισης των περιουσιακών στοιχείων και κατανέμει τον κίνδυνο
+  σε ιεραρχικές ομάδες.
 ---
-
 ## Definition
 
 Η Ιεραρχική Ισορροπία Κινδύνου (HRP) είναι μια μέθοδος κατασκευής χαρτοφυλακίου που αντιμετωπίζει τους περιορισμούς της παραδοσιακής βελτιστοποίησης μέσου-διακύμανσης ενσωματώνοντας δομές συσχέτισης. Χρησιμοποιεί αλγορίθμους συστάδων για να ομαδοποιήσει τα περιουσιακά στοιχεία με βάση την ομοιότητά τους και στη συνέχεια κατανέμει το κεφάλαιο και τον κίνδυνο σε αυτές τις ομάδες, αποφεύγοντας την ανάγκη αντιστροφής του πίνακα συνδιακύμανσης.

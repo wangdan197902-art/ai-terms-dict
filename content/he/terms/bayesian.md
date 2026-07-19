@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /he/terms/bayesian/
 date: "2026-07-18T15:23:29.140908Z"
 lastmod: "2026-07-18T17:15:09.473195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קשור לשיטות סטטיסטיות המבוססות על משפט בייס לעדכון הסתברויות עם ראיות חדשות."
 ---
-
 ## Definition
 
 גישה בייסיאנית בבינה מלאכותית משתמשת בתורת ההסתברות כדי לעדכן את הסיכויים של השערות כאשר זמינות יותר ראיות. שיטה זו מאפשרת למודלים לכמת אי-ודאות ולשפר תחזיות באופן דינמי...

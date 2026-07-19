@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /fi/terms/local/
 date: "2026-07-18T15:28:38.203804Z"
 lastmod: "2026-07-18T17:15:09.353864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa tietojen käsittelyyn tai tallentamiseen tietyllä laitteella keskitetyn pilviympäristön sijaan."
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa 'paikallinen' tarkoittaa yleensä toimintoja, jotka suoritetaan suoraan käyttäjän laitteistolla, kuten kannettavalla tietokoneella tai älypuhelimella, ilman etäpalvelimiin nojaamista. Tämä lähestymistapa parantaa tietosuoja

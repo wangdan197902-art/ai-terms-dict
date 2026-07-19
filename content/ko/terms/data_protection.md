@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /ko/terms/data_protection/
 date: "2026-07-18T15:33:51.302550Z"
 lastmod: "2026-07-18T16:38:06.793783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "수명 주기 전반에 걸쳐 민감한 정보를 무단 접근, 손상 또는 도난으로부터 보호하는 과정입니다."
 ---
-
 ## Definition
 
 데이터 보호는 개인 및 독점 데이터를 침해와 오용으로부터 안전하게 지키기 위해 설계된 법적, 기술적, 조직적 조치를 포괄합니다. AI 분야에서는 암호화 구현, 접근 제어 강화, 데이터 익명화 등을 포함하여 사용자 프라이버시를 존중하고 규제 준수를 보장하는 것이 핵심입니다.

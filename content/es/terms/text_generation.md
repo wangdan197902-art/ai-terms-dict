@@ -1,23 +1,24 @@
 ---
-title: "Generación de Texto"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: Generación de Texto
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /es/terms/text_generation/
-date: "2026-07-18T11:10:01.146946Z"
-lastmod: "2026-07-18T11:44:44.860449Z"
+slug: text_generation
+date: '2026-07-18T11:10:01.146946Z'
+lastmod: '2026-07-18T11:44:44.860449Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una capacidad de IA donde los modelos producen secuencias de texto similares a las humanas token por token, basándose en prompts o contexto proporcionados."
+source: agnes_llm
+status: published
+language: es
+description: Una capacidad de IA donde los modelos producen secuencias de texto similares
+  a las humanas token por token, basándose en prompts o contexto proporcionados.
 ---
-
 ## Definition
 
 La Generación de Texto es un paradigma de aplicación fundamental en el procesamiento del lenguaje natural, donde los modelos de inteligencia artificial crean nuevo contenido textual. Al predecir el siguiente token más probable en una secuencia, estos sistemas pueden generar desde frases cortas hasta artículos completos manteniendo coherencia y estilo.

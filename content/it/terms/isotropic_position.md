@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /it/terms/isotropic_position/
 date: "2026-07-18T16:05:56.105951Z"
 lastmod: "2026-07-18T17:15:08.639042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una trasformazione geometrica di un corpo convesso in cui la sua matrice d'inerzia è proporzionale alla matrice identità, semplificando l'analisi."
 ---
-
 ## Definition
 
 In geometria convessa e probabilità ad alta dimensione, un insieme di punti o un corpo convesso è in posizione isotropa se il suo centro di massa è nell'origine e la sua matrice di covarianza è un multiplo scalare della

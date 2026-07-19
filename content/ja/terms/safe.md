@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /ja/terms/safe/
 date: "2026-07-18T10:54:32.275443Z"
 lastmod: "2026-07-18T11:44:45.018195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間、財産、または環境に害を与えずに動作するように設計されたAIシステムを指す。"
 ---
-
 ## Definition
 
 AIにおける安全性とは、自動化されたシステムが予測可能に振る舞い、意図しない悪影響を引き起こさないようにするために、制約と安全対策を実装することを伴います。これには、技術的措置（例：緊急停止スイッチ）や行動制限が含まれます。

@@ -1,23 +1,23 @@
 ---
-title: "文本生成推理"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: 文本生成推理
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /zh/terms/text_generation_inference/
-date: "2026-07-18T11:36:07.262483Z"
-lastmod: "2026-07-18T11:44:45.562476Z"
+slug: text_generation_inference
+date: '2026-07-18T11:36:07.262483Z'
+lastmod: '2026-07-18T11:44:45.562476Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个高性能的服务引擎，专门针对大规模高效部署大型语言模型以生成文本进行了优化。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个高性能的服务引擎，专门针对大规模高效部署大型语言模型以生成文本进行了优化。
 ---
-
 ## Definition
 
 文本生成推理（TGI）是一个专用的软件框架，旨在以低延迟和高吞吐量服务大型语言模型（LLM）。它针对文本生成的推理过程进行了深度优化，包括连续批处理和张量并行等技术，从而显著提升生产环境下的响应速度和并发处理能力。

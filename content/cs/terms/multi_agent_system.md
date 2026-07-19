@@ -7,8 +7,6 @@ tags: ["Architecture", "Agents"]
 difficulty: 4
 weight: 1
 slug: "multi_agent_system"
-aliases:
-  - /cs/terms/multi_agent_system/
 date: "2026-07-18T15:36:21.263033Z"
 lastmod: "2026-07-18T17:15:09.091228Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Architektonický přístup, při kterém spolupracuje, soutěží nebo koordinuje se více autonomních agentů AI při řešení komplexních problémů přesahujících možnosti jednotlivců."
 ---
-
 ## Definition
 
 Víceagentové systémy se skládají z několika nezávislých agentů, z nichž každý může specializovat na různé úkoly nebo domény. Tito agenti komunikují a koordinují své akce za účelem dosažení společného cíle,

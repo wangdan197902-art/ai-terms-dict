@@ -1,23 +1,22 @@
 ---
-title: "アルゴリズムバイアス"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: アルゴリズムバイアス
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /ja/terms/algorithmic_bias/
-date: "2026-07-18T11:03:26.813769Z"
-lastmod: "2026-07-18T11:44:45.066247Z"
+slug: algorithmic_bias
+date: '2026-07-18T11:03:26.813769Z'
+lastmod: '2026-07-18T11:44:45.066247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "アルゴリズムバイアスとは、コンピュータシステムにおける系統的かつ反復可能なエラーにより、特定の任意のグループを他よりも優遇するなど、不公平な結果を生み出すことを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: アルゴリズムバイアスとは、コンピュータシステムにおける系統的かつ反復可能なエラーにより、特定の任意のグループを他よりも優遇するなど、不公平な結果を生み出すことを指します。
 ---
-
 ## Definition
 
 アルゴリズムのバイアスは通常、代表性のないトレーニングデータ、主観的な設計上の選択、または既存の社会的偏見を増幅させるフィードバックループに起因します。これは、偏った予測結果として現れます。

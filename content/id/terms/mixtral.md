@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /id/terms/mixtral/
 date: "2026-07-18T16:00:31.384670Z"
 lastmod: "2026-07-18T16:38:07.483788Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model bahasa besar (LLM) Sparse Mixture of Experts (MoE) oleh Mistral AI yang hanya mengaktifkan sebagian parameter per token."
 ---
-
 ## Definition
 
 Mixtral adalah LLM bobot terbuka perintis yang memanfaatkan arsitektur Sparse Mixture of Experts (MoE). Tidak seperti model padat di mana semua parameter digunakan untuk setiap token, Mixtral mengarahkan setiap token melalui

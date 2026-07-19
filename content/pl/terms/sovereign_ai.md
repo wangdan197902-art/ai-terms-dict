@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /pl/terms/sovereign_ai/
 date: "2026-07-18T16:17:19.776606Z"
 lastmod: "2026-07-18T17:15:08.919073Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Strategiczne podejście, w którym państwa lub podmioty rozwijają i kontrolują własną infrastrukturę i modele AI, aby zapewnić prywatność danych i niezależność regulacyjną."
 ---
-
 ## Definition
 
 Suwerenna AI opisuje zdolność kraju lub organizacji do budowania, wdrażania i zarządzania systemami sztucznej inteligencji niezależnie, bez polegania na zagranicznych dostawcach chmury lub zamkniętych rozwiązaniach.

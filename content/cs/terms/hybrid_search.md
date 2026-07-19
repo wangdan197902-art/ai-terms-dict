@@ -1,23 +1,25 @@
 ---
-title: "Hybridní vyhledávání"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Hybridní vyhledávání
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /cs/terms/hybrid_search/
-date: "2026-07-18T16:01:49.408406Z"
-lastmod: "2026-07-18T17:15:09.139761Z"
+slug: hybrid_search
+date: '2026-07-18T16:01:49.408406Z'
+lastmod: '2026-07-18T17:15:09.139761Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Strategie vyhledávání, která kombinuje sémantické vyhledávání pomocí vektorů s tradičním indexováním založeným na klíčových slovech, aby se zlepšila přesnost a relevance výsledků."
+source: agnes_llm
+status: published
+language: cs
+description: Strategie vyhledávání, která kombinuje sémantické vyhledávání pomocí
+  vektorů s tradičním indexováním založeným na klíčových slovech, aby se zlepšila
+  přesnost a relevance výsledků.
 ---
-
 ## Definition
 
 Hybridní vyhledávání integruje dva odlišné metody vyhledávání: husté vektorové vyhledávání, které zachycuje sémantický význam a kontext, a řídké vektorové (klíčová slova) vyhledávání, které odpovídá přesným termínům. Využíváním obou přístupů dosahuje systém vyšší kvality výsledků než při použití pouze jedné z metod.

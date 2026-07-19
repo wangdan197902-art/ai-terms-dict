@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /pt/terms/instance/
 date: "2026-07-18T15:05:42.632328Z"
 lastmod: "2026-07-18T15:51:59.501780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma única amostra de dados ou observação usada em tarefas de aprendizado de máquina, tipicamente representada como um vetor de características."
 ---
-
 ## Definition
 
 No aprendizado de máquina, uma instância refere-se a um exemplo específico do conjunto de dados. Ela consiste em um conjunto de características de entrada (atributos) e potencialmente um rótulo alvo. As instâncias são a unidade fundamental

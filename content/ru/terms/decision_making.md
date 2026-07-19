@@ -1,23 +1,24 @@
 ---
-title: "принятие решений"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: принятие решений
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /ru/terms/decision_making/
-date: "2026-07-18T15:31:09.731557Z"
-lastmod: "2026-07-18T16:38:07.094297Z"
+slug: decision_making
+date: '2026-07-18T15:31:09.731557Z'
+lastmod: '2026-07-18T16:38:07.094297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Когнитивный процесс выбора курса действий из нескольких альтернатив на основе имеющейся информации."
+source: agnes_llm
+status: published
+language: ru
+description: Когнитивный процесс выбора курса действий из нескольких альтернатив на
+  основе имеющейся информации.
 ---
-
 ## Definition
 
 В искусственном интеллекте принятие решений относится к алгоритмическому процессу, при котором система оценивает потенциальные действия по определенным критериям или целям для выбора оптимального результата. Этот про

@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /ro/terms/artificial_intelligence/
 date: "2026-07-18T15:22:41.195058Z"
 lastmod: "2026-07-18T17:15:09.587038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Simularea proceselor de inteligență umană de către sistemele informatice."
 ---
-
 ## Definition
 
 Inteligența Artificială (IA) se referă la capacitatea calculatoarelor digitale sau a roboților controlați de calculator de a executa sarcini asociate în mod obișnuit ființelor inteligente. Aceasta cuprinde diverse subdomenii

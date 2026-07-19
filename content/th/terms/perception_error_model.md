@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /th/terms/perception_error_model/
 date: "2026-07-18T16:10:36.186962Z"
 lastmod: "2026-07-18T16:38:07.641435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กรอบทางสถิติหรืออัลกอริทึมที่ใช้วัดและแก้ไขความไม่แม่นยำในการตีความข้อมูลประสาทสัมผัส"
 ---
-
 ## Definition
 
 แบบจำลองข้อผิดพลาดทางการรับรู้ (Perception error model) อธิบายความคลาดเคลื่อนระหว่างข้อมูลประสาทสัมผัสที่สังเกตได้กับความจริงพื้นฐาน (Ground truth) โดยคำนึงถึงสัญญาณรบกวน การบดบัง หรือข้อจำกัดของเซนเซอร์ โดยการสร้างแบบจำลองข้อผิดพลาดเหล่านี้ ระบบปัญญาประดิษฐ์สามารถปรับปรุงความ

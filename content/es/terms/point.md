@@ -1,23 +1,24 @@
 ---
-title: "Punto"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: Punto
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /es/terms/point/
-date: "2026-07-18T10:25:16.910268Z"
-lastmod: "2026-07-18T11:44:44.747661Z"
+slug: point
+date: '2026-07-18T10:25:16.910268Z'
+lastmod: '2026-07-18T11:44:44.747661Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "En matemáticas de IA, un punto representa una ubicación específica en un espacio vectorial multidimensional, a menudo utilizado en incrustaciones o sistemas de coordenadas."
+source: agnes_llm
+status: published
+language: es
+description: En matemáticas de IA, un punto representa una ubicación específica en
+  un espacio vectorial multidimensional, a menudo utilizado en incrustaciones o sistemas
+  de coordenadas.
 ---
-
 ## Definition
 
 Un punto en contextos de IA suele denotar una coordenada discreta dentro de un espacio de características o un vector de incrustación. Por ejemplo, en algoritmos de agrupamiento como K-Means, cada muestra de datos se trata como un punto en...

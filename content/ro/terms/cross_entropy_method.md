@@ -1,23 +1,24 @@
 ---
-title: "Metoda entropiei încrucișate"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Metoda entropiei încrucișate
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /ro/terms/cross_entropy_method/
-date: "2026-07-18T15:51:18.045707Z"
-lastmod: "2026-07-18T17:15:09.640872Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:51:18.045707Z'
+lastmod: '2026-07-18T17:15:09.640872Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de optimizare aleatoare care utilizează simularea Monte Carlo pentru a îmbunătăți iterativ estimările probabilităților evenimentelor rare."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de optimizare aleatoare care utilizează simularea Monte Carlo
+  pentru a îmbunătăți iterativ estimările probabilităților evenimentelor rare.
 ---
-
 ## Definition
 
 Metoda Entropiei Încrucișate (CEM) este un algoritm de optimizare puternic și cu utilizare generală, destinat problemelor discrete și continue. Funcționează prin menținerea unei distribuții de probabilitate asupra spațiului de căutare, actualizând parametrii acesteia pe baza celor mai bune soluții identificate în fiecare iterație.

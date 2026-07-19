@@ -1,23 +1,23 @@
 ---
-title: "양자화"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: 양자화
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /ko/terms/quantization/
-date: "2026-07-18T15:35:51.643387Z"
-lastmod: "2026-07-18T16:38:06.798883Z"
+slug: quantization
+date: '2026-07-18T15:35:51.643387Z'
+lastmod: '2026-07-18T16:38:06.798883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "신경망 계산에 사용되는 숫자의 정밀도를 낮춰 모델 크기를 줄이고 속도를 향상시키는 모델 최적화 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 신경망 계산에 사용되는 숫자의 정밀도를 낮춰 모델 크기를 줄이고 속도를 향상시키는 모델 최적화 기법입니다.
 ---
-
 ## Definition
 
 양자화는 고정소수점 수(예: FP32)를 더 낮은 정밀도의 형식(예: INT8 또는 FP16)으로 변환합니다. 이러한 정밀도 감소는 모델의 메모리 사용량과 연산 요구 사항을 줄여...

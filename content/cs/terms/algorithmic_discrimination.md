@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /cs/terms/algorithmic_discrimination/
 date: "2026-07-18T15:41:10.439635Z"
 lastmod: "2026-07-18T17:15:09.100342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Algoritmická diskriminace nastává, když automatizované systémy produkují nespravedlivé nebo zkreslené výsledky, které znevýhodňují specifické skupiny na základě chráněných charakteristik."
 ---
-
 ## Definition
 
 Tento jev vzniká, když modely AI neúmyslně nebo systematicky zacházejí s jednotlivci odlišně kvůli rase, pohlaví, věku nebo jiným citlivým atributům. Často pramení ze zkreslených trénovacích dat nebo nefér návrhových rozhodnutí.

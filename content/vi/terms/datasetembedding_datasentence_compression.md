@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /vi/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:47:35.714682Z"
 lastmod: "2026-07-18T16:38:07.744249Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tập dữ liệu chứa các câu gốc và phiên bản nén của chúng để huấn luyện mô hình bảo toàn thông tin."
 ---
-
 ## Definition
 
 Các tập dữ liệu nén câu bao gồm các cặp trong đó câu đích là phiên bản rút gọn của câu nguồn, giữ lại ý nghĩa cốt lõi trong khi loại bỏ thông tin thừa. Các tập dữ liệu này được...

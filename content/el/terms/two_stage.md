@@ -1,23 +1,23 @@
 ---
-title: "διφασικό (two-stage)"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: διφασικό (two-stage)
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /el/terms/two_stage/
-date: "2026-07-18T15:37:32.323290Z"
-lastmod: "2026-07-18T17:15:09.863043Z"
+slug: two_stage
+date: '2026-07-18T15:37:32.323290Z'
+lastmod: '2026-07-18T17:15:09.863043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αρχιτεκτονική γραμμής παραγωγής όπου η επεξεργασία πραγματοποιείται σε διακριτά, διαδοχικά στάδια."
+source: agnes_llm
+status: published
+language: el
+description: Μια αρχιτεκτονική γραμμής παραγωγής όπου η επεξεργασία πραγματοποιείται
+  σε διακριτά, διαδοχικά στάδια.
 ---
-
 ## Definition
 
 Οι αρχιτεκτονικές δύο σταδίων διαιρούν ένα σύνθετο έργο σε δύο ξεχωριστά βήματα, περιλαμβάνοντας συνήθως ανίχνευση ακολουθούμενη από ταξινόμηση ή βελτίωση. Στην ορατή όραση (computer vision), παραδείγματα περιλαμβάνουν ανιχνευτές αντικειμένων όπως...

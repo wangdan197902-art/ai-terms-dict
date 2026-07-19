@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /nl/terms/human_in_the_loop/
 date: "2026-07-18T15:36:19.615842Z"
 lastmod: "2026-07-18T17:15:08.705399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een systeemontwerp waarbij mensen actief deelnemen aan het besluitvormings- of feedbackproces van een AI-model."
 ---
-
 ## Definition
 
 Mens in de Lus (HITL) verwijst naar AI-systemen die menselijke tussenkomst vereisen op verschillende fasen van het werkproces, zoals datalabeling, modelevaluatie of goedkeuring van eindbeslissingen. Deze aanpak zorgt ervoor dat menselijk oordeel behouden blijft.

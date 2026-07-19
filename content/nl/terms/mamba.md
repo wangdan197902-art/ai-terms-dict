@@ -1,23 +1,24 @@
 ---
-title: "Mamba"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: Mamba
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /nl/terms/mamba/
-date: "2026-07-18T15:28:01.257275Z"
-lastmod: "2026-07-18T17:15:08.688445Z"
+slug: mamba
+date: '2026-07-18T15:28:01.257275Z'
+lastmod: '2026-07-18T17:15:08.688445Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Mamba is een staat-ruimte sequentiemodel dat lineaire inferentietijd biedt, terwijl het de prestaties van transformers behoudt bij taken met lange contexten."
+source: agnes_llm
+status: published
+language: nl
+description: Mamba is een staat-ruimte sequentiemodel dat lineaire inferentietijd
+  biedt, terwijl het de prestaties van transformers behoudt bij taken met lange contexten.
 ---
-
 ## Definition
 
 Mamba vertegenwoordigt een aanzienlijke vooruitgang in sequentiemodellering door de introductie van een hardware-bewust selectief staat-ruimtemodel (SSM). In tegenstelling tot traditionele transformers die kwadratisch schalen met de sequentielengte, biedt Mamba efficiëntere berekeningen.

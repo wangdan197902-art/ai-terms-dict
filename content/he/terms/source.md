@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /he/terms/source/
 date: "2026-07-18T15:30:34.569351Z"
 lastmod: "2026-07-18T17:15:09.487836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתייחס למוצא של נתונים, קוד או מודלים המשמשים בפיתוח ובפריסת AI."
 ---
-
 ## Definition
 
 בהקשרי AI, 'מקור' מציין בדרך כלל את מוצא ערכות האימון, ספריות קוד פתוח או משקלות של מודלים מוכנים מראש. מעקב אחר מקורות קריטי לשם שקיפות, התאמה לרישיון ושחזור.

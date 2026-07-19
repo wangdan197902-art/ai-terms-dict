@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /zh/terms/flow_based_generative_model/
 date: "2026-07-18T11:17:25.495551Z"
 lastmod: "2026-07-18T11:44:45.500477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一类利用可逆变换将简单分布映射到复杂数据分布的生成模型。"
 ---
-
 ## Definition
 
 基于流的生成模型通过对简单的基分布（如高斯分布）应用一系列可逆且可微的变换来构建复杂的概率分布。由于变换是可逆的，模型可以精确计算似然值，便于密度估计和采样。

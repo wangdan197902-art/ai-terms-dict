@@ -7,8 +7,6 @@ tags: ["workflow", "process"]
 difficulty: 1
 weight: 1
 slug: "finally"
-aliases:
-  - /nl/terms/finally/
 date: "2026-07-18T15:26:04.901372Z"
 lastmod: "2026-07-18T17:15:08.684670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI-werkstromen duidt 'eindelijk' op de afsluitende stap of de fase van uitvoergeneratie nadat alle verwerkingsstadia zijn voltooid."
 ---
-
 ## Definition
 
 Het concept 'eindelijk' vertegenwoordigt de eindfase in een AI-pipeline waarin verwerkte gegevens leiden tot een definitief resultaat, zoals een voorspelling, classificatie of gegenereerde tekst. Het markeert het einde van de computatiestroom.

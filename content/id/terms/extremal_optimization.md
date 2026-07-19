@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /id/terms/extremal_optimization/
 date: "2026-07-18T15:50:01.843572Z"
 lastmod: "2026-07-18T16:38:07.457139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Optimalisasi ekstremal adalah algoritma pencarian heuristik yang terinspirasi oleh kritisitas diri-terorganisir, dirancang untuk memecahkan masalah optimasi kombinatorial dengan secara iteratif mengha"
 ---
-
 ## Definition
 
 Berbeda dengan algoritma genetika yang mempertahankan populasi, EO bekerja pada satu solusi. Ia mengidentifikasi komponen yang paling sedikit berkontribusi terhadap kebugaran keseluruhan dan menggantinya dengan alternatif acak. Proses ini terus berlanjut hingga konvergensi.

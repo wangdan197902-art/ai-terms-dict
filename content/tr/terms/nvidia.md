@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /tr/terms/nvidia/
 date: "2026-07-18T16:06:49.854039Z"
 lastmod: "2026-07-18T16:38:07.342374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Modern derin öğrenme altyapısını güçlendiren GPU'lara ve yapay zeka donanımlarına uzmanlaşmış önde gelen teknoloji şirketidir."
 ---
-
 ## Definition
 
 Nvidia, yapay zeka endüstrisinde baskın bir güçtür ve öncelikle derin öğrenme için gerekli olan paralel hesaplama görevlerini hızlandıran Grafik İşlem Birimleri (GPU) tasarlamasıyla bilinir. CUDA platformu, geliştiricilerin GPU'ları genel amaçlı hesaplama için kullanmasına olanak tanır.

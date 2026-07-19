@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /ro/terms/encoder/
 date: "2026-07-18T15:35:38.176683Z"
 lastmod: "2026-07-18T17:15:09.613834Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un codificator este un component al unei rețele neuronale care transformă datele de intrare într-o reprezentare comprimată și semnificativă."
 ---
-
 ## Definition
 
 Codificatoarele procesează secvențe brute de intrare sau structuri de date și le convertesc în reprezentări din spațiul latent, adesea numite încorporări sau coduri. Ele sunt centrale în arhitecturi precum Transformers și Autoencoders.

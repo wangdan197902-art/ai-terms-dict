@@ -1,23 +1,23 @@
 ---
-title: "คิวลู (Qloo)"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: คิวลู (Qloo)
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /th/terms/qloo/
-date: "2026-07-18T16:12:26.363402Z"
-lastmod: "2026-07-18T16:38:07.646601Z"
+slug: qloo
+date: '2026-07-18T16:12:26.363402Z'
+lastmod: '2026-07-18T16:38:07.646601Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คิวลูเป็นแพลตฟอร์มข้อมูลที่ใช้ปัญญาประดิษฐ์ ให้ข้อมูลเชิงลึกแบบทำนายเกี่ยวกับพฤติกรรมผู้บริโภคและแนวโน้มทางวัฒนธรรม"
+source: agnes_llm
+status: published
+language: th
+description: คิวลูเป็นแพลตฟอร์มข้อมูลที่ใช้ปัญญาประดิษฐ์ ให้ข้อมูลเชิงลึกแบบทำนายเกี่ยวกับพฤติกรรมผู้บริโภคและแนวโน้มทางวัฒนธรรม
 ---
-
 ## Definition
 
 คิวลูดำเนินงานในฐานะบริษัทด้านความฉลาดทางข้อมูล โดยเชี่ยวชาญในการทำความเข้าใจความชอบของมนุษย์ผ่านอัลกอริทึมการเรียนรู้ของเครื่องขั้นสูง บริษัทรวบรวมและวิเคราะห์ชุดข้อมูลขนาดใหญ่จากแหล่งต่างๆ

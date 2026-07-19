@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /da/terms/beyond/
 date: "2026-07-18T15:23:39.088970Z"
 lastmod: "2026-07-18T17:15:09.220082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et konceptuelt begreb, der refererer til fremskridt eller applikationer, der overstiger nuværende teknologiske grænser eller traditionelle AI-begrænsninger."
 ---
-
 ## Definition
 
 I konteksten af AI-terminologi beskriver 'udover' ofte fremvoksende paradigmer eller fremtidige retninger, der overskrider nuværende evner, såsom Artificial General Intelligence (AGI) eller kvante-forbedrede systemer.

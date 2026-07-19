@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /vi/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:03:11.501816Z"
 lastmod: "2026-07-18T16:38:07.782228Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Điều này đề cập đến việc sử dụng các công nghệ AI trong bối cảnh quốc phòng, bao gồm vũ khí tự hành, giám sát, tối ưu hóa hậu cần và các hệ thống hỗ trợ ra quyết định."
 ---
-
 ## Definition
 
 Các ứng dụng quân sự của AI bao gồm một loạt rộng rãi các công nghệ được thiết kế để nâng cao hiệu quả hoạt động và lợi thế chiến lược. Những ứng dụng này bao gồm drone tự hành cho mục đích trinh sát, dự đoán và các hệ thống hỗ trợ ra quyết định thông minh.

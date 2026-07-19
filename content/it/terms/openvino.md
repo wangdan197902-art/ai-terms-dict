@@ -7,8 +7,6 @@ tags: ["Deployment", "Intel", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "openvino"
-aliases:
-  - /it/terms/openvino/
 date: "2026-07-18T16:13:24.155774Z"
 lastmod: "2026-07-18T17:15:08.655372Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "OpenVINO è un toolkit open source di Intel per ottimizzare e distribuire modelli di deep learning su varie piattaforme hardware in modo efficiente."
 ---
-
 ## Definition
 
 Sviluppato da Intel, OpenVINO (Open Visual Inference and Neural network Optimization) consente agli sviluppatori di prendere modelli di deep learning addestrati e distribuirli in modo efficiente sull'hardware Intel. Include un

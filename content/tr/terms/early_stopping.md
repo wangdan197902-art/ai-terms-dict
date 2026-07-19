@@ -1,23 +1,25 @@
 ---
-title: "Erken Durdurma"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Erken Durdurma
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /tr/terms/early_stopping/
-date: "2026-07-18T15:50:59.946014Z"
-lastmod: "2026-07-18T16:38:07.303043Z"
+slug: early_stopping
+date: '2026-07-18T15:50:59.946014Z'
+lastmod: '2026-07-18T16:38:07.303043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Erken durdurma, modelin doğrulama setindeki performansı bozulmaya başladığında eğitim sürecini durduran, aşırı öğrenmeyi önleyen bir düzenlileştirme (regularization) tekniğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Erken durdurma, modelin doğrulama setindeki performansı bozulmaya başladığında
+  eğitim sürecini durduran, aşırı öğrenmeyi önleyen bir düzenlileştirme (regularization)
+  tekniğidir.
 ---
-
 ## Definition
 
 Erken durdurma, gradyan inişi gibi iteratif eğitim süreçlerinde kullanılan bir düzenlileştirme biçimidir. Eğitim sırasında modelin eğitim verisindeki performansı sürekli iyileşse bile, doğrulama verisindeki hata artmaya başladığında eğitim durdurularak modelin genelleme yeteneği korunur.

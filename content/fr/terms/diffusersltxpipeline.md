@@ -1,23 +1,26 @@
 ---
-title: "Diffusers : LtxPipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers : LtxPipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /fr/terms/diffusersltxpipeline/
-date: "2026-07-18T11:13:36.729938Z"
-lastmod: "2026-07-18T11:44:45.243063Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T11:13:36.729938Z'
+lastmod: '2026-07-18T11:44:45.243063Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une implémentation de pipeline dans Diffusers optimisée pour les modèles LTX (Lightning Text-to-Video ou autres modèles génératifs à haute vitesse), axée sur une inférence rapide."
+source: agnes_llm
+status: published
+language: fr
+description: Une implémentation de pipeline dans Diffusers optimisée pour les modèles
+  LTX (Lightning Text-to-Video ou autres modèles génératifs à haute vitesse), axée
+  sur une inférence rapide.
 ---
-
 ## Definition
 
 Le pipeline LTX est adapté aux modèles qui privilégient la vitesse et l'efficacité dans les tâches génératives, utilisant souvent des méthodes d'échantillonnage distillées ou accélérées. Il s'intègre parfaitement à l'écosystème Diffusers.

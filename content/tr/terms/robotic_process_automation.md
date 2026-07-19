@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /tr/terms/robotic_process_automation/
 date: "2026-07-18T16:12:23.112708Z"
 lastmod: "2026-07-18T16:38:07.360746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İş süreçlerinde geleneksel olarak insanlar tarafından gerçekleştirilen yüksek hacimli, tekrarlayan dijital görevleri otomatikleştirmek için yazılım botlarının kullanımı."
 ---
-
 ## Definition
 
 Robotik Süreç Otomasyonu (RPA), genellikle yapay zeka ile güçlendirilmiş yazılım robotları kullanarak dijital sistemlerle insan etkileşimini taklit eder. Veri girişi, fatura işleme gibi iş akışlarını hızlandırmak için kullanılır.

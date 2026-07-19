@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /zh/terms/overall/
 date: "2026-07-18T10:53:38.815331Z"
 lastmod: "2026-07-18T11:44:45.380603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "总体指 AI 系统在所有测试用例或操作场景下的聚合性能、准确性或影响。"
 ---
-
 ## Definition
 
 在评估 AI 模型时，“总体”指标提供了系统性能的全面视图，而不是仅关注孤立的部分。这包括总体准确率、平均精度均值（mAP）或总体的业务影响评估。

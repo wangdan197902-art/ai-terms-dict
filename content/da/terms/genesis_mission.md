@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /da/terms/genesis_mission/
 date: "2026-07-18T15:57:22.063714Z"
 lastmod: "2026-07-18T17:15:09.292096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En organisatorisk initiativ fokuseret på at etablere grundlæggende AI-principper, infrastruktur og etiske retningslinjer til fremtidig udvikling af generativ AI."
 ---
-
 ## Definition
 
 Genesis-missionen refererer typisk til en strategisk fase eller projekt inden for en organisation, der sigter mod at lægge grunden til avancerede AI-kapaciteter. Dette indebærer opsætning af kerneinfrastruktur, definition af etiske rammer og iværksættelse af pilotprogrammer for at sikre en ansvarlig og effektiv integration af AI-teknologier.

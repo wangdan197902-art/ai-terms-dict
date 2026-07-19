@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /zh/terms/large_language_models/
 date: "2026-07-18T10:52:16.306978Z"
 lastmod: "2026-07-18T11:44:45.373507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "利用扩展的神经网络进行广泛领域的自然语言理解和生成任务的范式。"
 ---
-
 ## Definition
 
 该术语指代更广泛的应用范式，即利用具有数十亿参数的模型在各种语言任务中进行零样本或少样本学习。与专用模型不同，

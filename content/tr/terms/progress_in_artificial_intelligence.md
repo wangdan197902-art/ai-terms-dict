@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /tr/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:10:20.830161Z"
 lastmod: "2026-07-18T16:38:07.352464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Daha gelişmiş algoritmalar ve donanımın araştırılması, geliştirilmesi ve uygulanması yoluyla yapay zeka yeteneklerinin kümülatif ilerlemesi."
 ---
-
 ## Definition
 
 Bu terim, erken dönem sembolik mantıktan modern derin öğrenmeye kadar kilometre taşlarını işaretleyen yapay zeka sistemlerinin tarihsel ve devam eden evrimini kapsar. Hesaplama kapasitesindeki iyileşmeleri yansıtır.

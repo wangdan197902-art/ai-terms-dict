@@ -1,23 +1,24 @@
 ---
-title: "Korrelasjonens levetid"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Korrelasjonens levetid
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /no/terms/life_time_of_correlation/
-date: "2026-07-18T16:02:37.288930Z"
-lastmod: "2026-07-18T16:38:07.018914Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:02:37.288930Z'
+lastmod: '2026-07-18T16:38:07.018914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et mål som estimerer hvor lenge et statistisk forhold mellom variabler forblir stabilt før det henfaller på grunn av konseptdrift eller miljøendringer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et mål som estimerer hvor lenge et statistisk forhold mellom variabler
+  forblir stabilt før det henfaller på grunn av konseptdrift eller miljøendringer.
 ---
-
 ## Definition
 
 I dynamiske systemer og tidsserieanalyse måler korrelasjonens levetid varigheten over hvilken to variabler opprettholder et signifikant statistisk avhengighetsforhold. Dette konseptet er avgjørende for å forstå stabiliteten til prediktive modeller over tid og for å bestemme når modeller må oppdateres eller omkalibreres for å håndtere endringer i underliggende datafordelinger.

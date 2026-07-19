@@ -1,23 +1,23 @@
 ---
-title: "จีนี (Genie)"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: จีนี (Genie)
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /th/terms/genie/
-date: "2026-07-18T15:56:08.126110Z"
-lastmod: "2026-07-18T16:38:07.609956Z"
+slug: genie
+date: '2026-07-18T15:56:08.126110Z'
+lastmod: '2026-07-18T16:38:07.609956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คลาสเฉพาะของโมเดลสร้างวิดีโอ โดยเฉพาะอย่างยิ่ง Genie ของ Google ซึ่งทำนายเฟรมถัดไปของวิดีโอโดยอิงจากข้อความหรือภาพนำเข้า"
+source: agnes_llm
+status: published
+language: th
+description: คลาสเฉพาะของโมเดลสร้างวิดีโอ โดยเฉพาะอย่างยิ่ง Genie ของ Google ซึ่งทำนายเฟรมถัดไปของวิดีโอโดยอิงจากข้อความหรือภาพนำเข้า
 ---
-
 ## Definition
 
 จีนีหมายถึงตระกูลของโมเดลสร้างเนื้อหาที่ออกแบบมาโดยเฉพาะสำหรับการสังเคราะห์วิดีโอ พัฒนาโดยนักวิจัยรวมถึงทีมจาก Google DeepMind โมเดลเหล่านี้มีเป้าหมายเพื่อสร้างลำดับวิดีโอที่สอดคล้องกัน โดยทำนายเฟรมในอนาคตจากอินพุต multimodal ซึ่งช่วยให้สามารถสร้างวิดีโอที่มีความสมจริงและคงความต่อเนื่องของเวลาได้ดี

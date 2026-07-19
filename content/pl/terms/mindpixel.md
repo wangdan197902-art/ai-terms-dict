@@ -7,8 +7,6 @@ tags: ["neurotech", "niche", "research"]
 difficulty: 4
 weight: 1
 slug: "mindpixel"
-aliases:
-  - /pl/terms/mindpixel/
 date: "2026-07-18T16:07:09.685594Z"
 lastmod: "2026-07-18T17:15:08.897302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Mindpixel to termin koncepcyjny lub zastrzeżony, często odnoszący się do drobnych jednostek danych poznawczych lub metryk aktywności neuronalnych używanych w badaniach interfejsów mózg-komputer."
 ---
-
 ## Definition
 
 Choć nie jest to standardowy termin akademicki, 'Mindpixel' zazwyczaj oznacza dyskretną jednostkę informacji pochodzącą ze sygnałów neuronalnych lub stanów poznawczych w specjalistycznych kontekstach neurotechnologii. Może odnosić się do szczegółowych miar aktywności mózgu.

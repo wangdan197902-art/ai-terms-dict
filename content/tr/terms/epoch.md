@@ -1,23 +1,24 @@
 ---
-title: "Epoch (Epoq)"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch (Epoq)
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /tr/terms/epoch/
-date: "2026-07-18T15:52:27.125008Z"
-lastmod: "2026-07-18T16:38:07.305446Z"
+slug: epoch
+date: '2026-07-18T15:52:27.125008Z'
+lastmod: '2026-07-18T16:38:07.305446Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Model eğitimi sırasında eğitim veri kümesinin makine öğrenimi algoritması tarafından tam bir geçiş yapması."
+source: agnes_llm
+status: published
+language: tr
+description: Model eğitimi sırasında eğitim veri kümesinin makine öğrenimi algoritması
+  tarafından tam bir geçiş yapması.
 ---
-
 ## Definition
 
 Makine öğreniminde bir epoch, tüm eğitim veri kümesi üzerinden yapılan tek bir yinelemeyi temsil eder. Her epoch sırasında model, tüm eğitim örneklerini işler, geri yayılım yoluyla ağırlıklarını günceller ve genellikle doğrulama hatasını izler.

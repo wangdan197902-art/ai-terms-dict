@@ -1,23 +1,24 @@
 ---
-title: "Nyílt"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Nyílt
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /hu/terms/open/
-date: "2026-07-18T15:29:04.699700Z"
-lastmod: "2026-07-18T17:15:09.726008Z"
+slug: open
+date: '2026-07-18T15:29:04.699700Z'
+lastmod: '2026-07-18T17:15:09.726008Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az AI-ban a 'nyílt' kifejezés általában nyílt forráskódú modellekre vagy előre nem meghatározott korlátokkal rendelkező, teljes megoldástérrel nem bíró feladatokra utal."
+source: agnes_llm
+status: published
+language: hu
+description: Az AI-ban a 'nyílt' kifejezés általában nyílt forráskódú modellekre vagy
+  előre nem meghatározott korlátokkal rendelkező, teljes megoldástérrel nem bíró feladatokra
+  utal.
 ---
-
 ## Definition
 
 Mesterséges intelligencia kontextusban a 'nyílt' kifejezés gyakran két külön területet ír le: a nyílt forráskódú szoftvert, ahol a modell súlyai és kódja nyilvánosan elérhetőek módosítás céljából, valamint a nyílt végű problémákat, amelyeknek nincs előre meghatározott keretezése.

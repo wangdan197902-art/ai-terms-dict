@@ -1,23 +1,24 @@
 ---
-title: "Induksi aturan"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Induksi aturan
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /id/terms/rule_induction/
-date: "2026-07-18T16:07:43.949124Z"
-lastmod: "2026-07-18T16:38:07.504067Z"
+slug: rule_induction
+date: '2026-07-18T16:07:43.949124Z'
+lastmod: '2026-07-18T16:38:07.504067Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik pembelajaran mesin yang secara otomatis menghasilkan seperangkat aturan logis dari data pelatihan berlabel untuk mengklasifikasikan instance baru."
+source: agnes_llm
+status: published
+language: id
+description: Teknik pembelajaran mesin yang secara otomatis menghasilkan seperangkat
+  aturan logis dari data pelatihan berlabel untuk mengklasifikasikan instance baru.
 ---
-
 ## Definition
 
 Induksi aturan adalah metode pembelajaran mesin simbolik yang menurunkan aturan jika-maka langsung dari data. Berbeda dengan jaringan saraf yang menghasilkan bobot yang tidak transparan, induksi aturan menghasilkan model yang dapat diinterpretasi kon

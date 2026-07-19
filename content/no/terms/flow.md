@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /no/terms/flow/
 date: "2026-07-18T15:26:10.784701Z"
 lastmod: "2026-07-18T16:38:06.937174Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Dataflyt beskriver bevegelsen og transformasjonen av informasjon gjennom ulike stadier i en AI-behandlingspipeline."
 ---
-
 ## Definition
 
 Dataflyt omfatter veien data tar fra opptak til endelig utdata innen et AI-system, inkludert forhåndsbehandling, funksjonsekstraksjon, modellinferens og etterbehandling. Effektiv håndtering av dataflyt er avgjørende for systemytelse.

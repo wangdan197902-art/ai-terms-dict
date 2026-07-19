@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /vi/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:47:44.323047Z"
 lastmod: "2026-07-18T16:38:07.744630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu bao gồm các cặp câu hỏi-trả lời từ WikiAnswers, dùng để huấn luyện các mô hình hiểu ý định và sự tương đương ngữ nghĩa."
 ---
-
 ## Definition
 
 Bộ dữ liệu này chứa hàng triệu cặp câu hỏi-trả lời được thu thập từ nền tảng WikiAnswers (nay đã ngừng hoạt động). Nó chủ yếu được sử dụng để huấn luyện các mô hình truy xuất đoạn văn dày đặc (dense passage retrieval) và khớp ngữ nghĩa. Bằng cách khai thác

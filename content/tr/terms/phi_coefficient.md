@@ -1,23 +1,23 @@
 ---
-title: "Phi Katsayısı"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi Katsayısı
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /tr/terms/phi_coefficient/
-date: "2026-07-18T16:09:12.140919Z"
-lastmod: "2026-07-18T16:38:07.348879Z"
+slug: phi_coefficient
+date: '2026-07-18T16:09:12.140919Z'
+lastmod: '2026-07-18T16:38:07.348879Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "İki ikili değişken arasındaki ilişkiyi ölçen istatistiksel bir ölçü."
+source: agnes_llm
+status: published
+language: tr
+description: İki ikili değişken arasındaki ilişkiyi ölçen istatistiksel bir ölçü.
 ---
-
 ## Definition
 
 Phi katsayısı (φ), iki ikili değişken arasındaki ilişkiyi ölçen bir göstergedir ve ikili değişkenler için Pearson korelasyon katsayısı olarak hizmet eder. -1 ile +1 arasında değişir; 0, hiçbir ilişki olmadığını belirtir.

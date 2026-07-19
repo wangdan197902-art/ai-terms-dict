@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /hu/terms/vision_language/
 date: "2026-07-18T15:40:20.191278Z"
 lastmod: "2026-07-18T17:15:09.747040Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A vizuális-nyelvi modellek olyan AI rendszerek, amelyek vizuális adatokat és szöveges információkat dolgoznak fel, valamint korrelálnak azokat a multimodális kontextusok megértéséhez."
 ---
-
 ## Definition
 
 A vizuális-nyelvi modelleket, gyakran Multimodális Nagy Nyelvi Modelleknek (MLLM) nevezve, integrálják a számítógépes látást és a természetes nyelvfeldolgozást. Lehetővé teszik az AI számára, hogy megértse a képeket, és szöveget generáljon

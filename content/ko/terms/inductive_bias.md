@@ -1,23 +1,23 @@
 ---
-title: "귀납적 편향"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: 귀납적 편향
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /ko/terms/inductive_bias/
-date: "2026-07-18T16:00:03.207676Z"
-lastmod: "2026-07-18T16:38:06.854241Z"
+slug: inductive_bias
+date: '2026-07-18T16:00:03.207676Z'
+lastmod: '2026-07-18T16:38:06.854241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "학습 알고리즘이 학습 중에 보지 못한 입력에 대해 출력을 예측하는 데 사용하는 가정의 집합."
+source: agnes_llm
+status: published
+language: ko
+description: 학습 알고리즘이 학습 중에 보지 못한 입력에 대해 출력을 예측하는 데 사용하는 가정의 집합.
 ---
-
 ## Definition
 
 귀납적 편향은 모델이 학습 데이터에서 보이지 않은 데이터로 일반화할 수 있도록 허용되는 머신러닝 모델 내재의 선호도나 제약을 나타냅니다. 이러한 편향이 없으면 모델은 새로운 상황에 적용할 수 없습니다.

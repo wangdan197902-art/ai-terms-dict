@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /es/terms/linear/
 date: "2026-07-18T10:24:12.554795Z"
 lastmod: "2026-07-18T11:44:44.744176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Describe operaciones o relaciones donde la salida es directamente proporcional a la entrada, formando la base de las transformaciones afines en las capas neuronales."
 ---
-
 ## Definition
 
 Las operaciones lineales implican multiplicación y adición sin activaciones no lineales. En las redes neuronales, las capas lineales (o densas) aplican una transformación de matriz de pesos a los vectores de entrada. Aunque lo

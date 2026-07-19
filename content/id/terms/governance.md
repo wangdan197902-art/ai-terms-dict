@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /id/terms/governance/
 date: "2026-07-18T15:53:26.394200Z"
 lastmod: "2026-07-18T16:38:07.463679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kebijakan, standar, dan mekanisme pengawasan yang didirikan untuk memastikan sistem AI dikembangkan dan diterapkan secara bertanggung jawab dan etis."
 ---
-
 ## Definition
 
 Tata Kelola AI mengacu pada serangkaian aturan, pedoman, dan struktur institusional yang mengelola bagaimana kecerdasan buatan dibuat, digunakan, dan diaudit. Hal ini mencakup kepatuhan hukum, pertimbangan etik...

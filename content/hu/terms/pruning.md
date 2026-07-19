@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /hu/terms/pruning/
 date: "2026-07-18T16:19:29.166871Z"
 lastmod: "2026-07-18T17:15:09.825526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy modellkompressziós technika, amely eltávolítja a redundáns vagy kevésbé jelentős paramétereket a méret csökkentése és a következtetési sebesség javítása érdekében."
 ---
-
 ## Definition
 
 A vágás során azonosítják és kiküszöbölik azokat az idegsejteket, kapcsolatokat vagy szűrőket egy neurális hálózatban, amelyek minimálisan járulnak hozzá a kimeneti pontossághoz. Ezeknek a redundáns elemeknek az eltávolításával a modell kisebb lesz és gyorsabban fut.

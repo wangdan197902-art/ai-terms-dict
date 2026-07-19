@@ -1,23 +1,24 @@
 ---
-title: "Concurrent MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Concurrent MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /ru/terms/concurrent_metatem/
-date: "2026-07-18T15:45:57.802197Z"
-lastmod: "2026-07-18T16:38:07.133460Z"
+slug: concurrent_metatem
+date: '2026-07-18T15:45:57.802197Z'
+lastmod: '2026-07-18T16:38:07.133460Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Concurrent MetateM — это реактивный язык программирования, предназначенный для спецификации и реализации автономных агентов реального времени."
+source: agnes_llm
+status: published
+language: ru
+description: Concurrent MetateM — это реактивный язык программирования, предназначенный
+  для спецификации и реализации автономных агентов реального времени.
 ---
-
 ## Definition
 
 Concurrent MetateM — это язык высокого уровня спецификации, используемый преимущественно в робототехнике и автономных системах. Он позволяет разработчикам определять поведение агентов с помощью темпоральной логики, обеспечивая корректность действий в ответ на внешние события.

@@ -1,23 +1,24 @@
 ---
-title: "Açık"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Açık
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /tr/terms/open/
-date: "2026-07-18T15:27:43.078296Z"
-lastmod: "2026-07-18T16:38:07.239413Z"
+slug: open
+date: '2026-07-18T15:27:43.078296Z'
+lastmod: '2026-07-18T16:38:07.239413Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zekada 'açık', genellikle önceden tanımlanmış kısıtlamaları veya tam çözüm alanları olmayan açık kaynaklı modelleri veya açık uçlu görevleri ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zekada 'açık', genellikle önceden tanımlanmış kısıtlamaları veya
+  tam çözüm alanları olmayan açık kaynaklı modelleri veya açık uçlu görevleri ifade
+  eder.
 ---
-
 ## Definition
 
 Yapay zeka bağlamlarında 'açık' terimi genellikle iki farklı alanı tanımlar: model ağırlıklarının ve kodunun değiştirilebilmesi için herkese açık olduğu açık kaynaklı yazılım ve açık uçlu problemler.

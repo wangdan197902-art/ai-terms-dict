@@ -1,23 +1,24 @@
 ---
-title: "Estimación de densidad kernel"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Estimación de densidad kernel
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /es/terms/kernel_density_estimation/
-date: "2026-07-18T10:55:26.304665Z"
-lastmod: "2026-07-18T11:44:44.821839Z"
+slug: kernel_density_estimation
+date: '2026-07-18T10:55:26.304665Z'
+lastmod: '2026-07-18T11:44:44.821839Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un método no paramétrico utilizado para estimar la función de densidad de probabilidad de una variable aleatoria basada en una muestra de datos finita."
+source: agnes_llm
+status: published
+language: es
+description: Un método no paramétrico utilizado para estimar la función de densidad
+  de probabilidad de una variable aleatoria basada en una muestra de datos finita.
 ---
-
 ## Definition
 
 La Estimación de Densidad Kernel (KDE) es una técnica estadística fundamental que suaviza puntos de datos discretos para crear una curva de distribución de probabilidad continua. Coloca una función kernel, típicamente gaussiana, en cada punto de datos y suma estas contribuciones para obtener la estimación de densidad.

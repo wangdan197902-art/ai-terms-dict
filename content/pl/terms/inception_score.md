@@ -1,23 +1,24 @@
 ---
-title: "Wynik Inceptiona"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Wynik Inceptiona
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /pl/terms/inception_score/
-date: "2026-07-18T16:00:04.172569Z"
-lastmod: "2026-07-18T17:15:08.885185Z"
+slug: inception_score
+date: '2026-07-18T16:00:04.172569Z'
+lastmod: '2026-07-18T17:15:08.885185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Miara służąca do oceny jakości wygenerowanych obrazów poprzez pomiar zarówno ich ostrości, jak i różnorodności."
+source: agnes_llm
+status: published
+language: pl
+description: Miara służąca do oceny jakości wygenerowanych obrazów poprzez pomiar
+  zarówno ich ostrości, jak i różnorodności.
 ---
-
 ## Definition
 
 Wynik Inceptiona (IS) to miara statystyczna wprowadzona do oceny wydajności sieci adversarialnych (GAN) oraz innych modeli generatywnych. Łączy dwa czynniki: jakość obrazu (ostrość) oraz różnorodność wygenerowanych próbek.

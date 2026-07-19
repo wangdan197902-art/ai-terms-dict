@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /ro/terms/artificial_reproduction/
 date: "2026-07-18T15:44:51.947932Z"
 lastmod: "2026-07-18T17:15:09.629302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea biotehnologiei și IA pentru a asista sau replica procesele biologice de reproducere, adesea în medicină sau agricultură."
 ---
-
 ## Definition
 
 Reproducerea artificială cuprinde tehnici care facilitează sau replică reproducerea biologică fără intervenție sexuală directă, utilizând intens tehnologia și tot mai mult IA pentru optimizare. Acest domeniu îmbină ingineria biomedicală cu algoritmi avansați pentru a îmbunătăți succesul procedurilor.

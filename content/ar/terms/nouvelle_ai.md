@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /ar/terms/nouvelle_ai/
 date: "2026-07-18T16:14:53.094404Z"
 lastmod: "2026-07-18T17:15:08.533085Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نهج في الذكاء الاصطناعي الرمزي يؤكد على هياكل الاستدلال الهرمية والمجزأة، المستوحاة من البنية المعرفية البشرية."
 ---
-
 ## Definition
 
 يشير مصطلح الذكاء الاصطناعي الجديد (Nouvelle AI) إلى فئة من أنظمة الذكاء الاصطناعي التي تستخدم التمثيلات الرمزية مقترنةً بالمعالجة الهرمية. وعلى عكس النماذج الارتباطية (Connectionist)، يركز هذا النهج على إعادة التنظيم الهيكلي والمنطقي للمعرفة.

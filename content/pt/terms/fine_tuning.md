@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /pt/terms/fine_tuning/
 date: "2026-07-18T14:32:51.555401Z"
 lastmod: "2026-07-18T15:51:59.424157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de adaptar um modelo pré-treinado a uma tarefa específica de downstream usando um conjunto de dados menor."
 ---
-
 ## Definition
 
 O ajuste fino envolve pegar um modelo já treinado em um grande conjunto de dados geral e treiná-lo ainda mais em um conjunto de dados especializado. Isso permite que o modelo retenha o conhecimento geral enquanto adquire habilidades específicas da tarefa.

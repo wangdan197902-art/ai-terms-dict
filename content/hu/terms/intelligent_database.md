@@ -1,23 +1,24 @@
 ---
-title: "Intelligens adatbázis"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Intelligens adatbázis
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /hu/terms/intelligent_database/
-date: "2026-07-18T16:06:20.849583Z"
-lastmod: "2026-07-18T17:15:09.797671Z"
+slug: intelligent_database
+date: '2026-07-18T16:06:20.849583Z'
+lastmod: '2026-07-18T17:15:09.797671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy adatbázis-rendszer, amely AI képességeket integrál az adatkezelés, lekérdezés-optimalizálás és betekintések generálása automatizálására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy adatbázis-rendszer, amely AI képességeket integrál az adatkezelés,
+  lekérdezés-optimalizálás és betekintések generálása automatizálására.
 ---
-
 ## Definition
 
 Egy intelligens adatbázis kihasználja a gépi tanulást és az AI-t a standard adatbázis-funkciók bővítésére a egyszerű tárolás és lekérdezés túlmutatóan. Automatikusan optimalizálhatja a lekérdezések teljesítményét, előre jelezheti a használatot

@@ -1,23 +1,24 @@
 ---
-title: "Программирование по примерам"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Программирование по примерам
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /ru/terms/programming_by_example/
-date: "2026-07-18T16:11:05.568152Z"
-lastmod: "2026-07-18T16:38:07.194168Z"
+slug: programming_by_example
+date: '2026-07-18T16:11:05.568152Z'
+lastmod: '2026-07-18T16:38:07.194168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника ИИ, при которой программы синтезируются автоматически путем вывода правил из входных и выходных примеров, предоставленных пользователем."
+source: agnes_llm
+status: published
+language: ru
+description: Техника ИИ, при которой программы синтезируются автоматически путем вывода
+  правил из входных и выходных примеров, предоставленных пользователем.
 ---
-
 ## Definition
 
 Программирование по примерам (PBE) — это парадигма синтеза программ, в которой разработчики задают желаемое поведение через конкретные пары «вход-выход», а не пишут явный код. Система ИИ анализирует эти примеры, чтобы индуктивно вывести логику или функцию, которая преобразует входные данные в выходные. Этот подход снижает порог входа для создания автоматизации и позволяет пользователям, не владеющим программированием, решать сложные задачи обработки данных.

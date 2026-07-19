@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{/* 标签页：不使用分页，避免生成冗余的 page/1/index.html
+     大多数标签只有 1-10 个术语，无需分页
+     即使是 100+ 术语的大标签，单页显示也能接受（利于 SEO 内链） */}}
+<section class="term-list">
+    <header class="list-header">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description | default (printf "Terms tagged with %s" .Title) }}</p>
+    </header>
+
+    <div class="term-grid">
+        {{ range .Pages }}
+            {{ partial "term-card.html" . }}
+        {{ end }}
+    </div>
+
+    {{/* 显示标签下的术语总数 */}}
+    <footer class="list-footer">
+        <p><small>{{ .Pages.Len }} terms</small></p>
+    </footer>
+</section>
+{{ end }}

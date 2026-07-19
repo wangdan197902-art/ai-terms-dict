@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /ja/terms/gated_recurrent_unit/
 date: "2026-07-18T11:15:40.207723Z"
 lastmod: "2026-07-18T11:44:45.100133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "情報の流れを制御するためにゲート機構を使用する再帰型ニューラルネットワーク（RNN）の一種で、LSTMの簡略化された代替版として機能する。"
 ---
-
 ## Definition
 
 ゲート付き再帰型ユニット（GRU）は、系列データにおける長期依存関係を捉えるように設計された特殊な再帰型ニューラルネットワーク（RNN）セルです。長短期記憶（LSTM）アーキテクチャを簡素化しており、更新ゲートとリセットゲートの2つのゲートを使用して、過去の情報を保持するか捨てるかを制御します。これにより、計算効率が高く、パラメータ数が少ないという利点があります。

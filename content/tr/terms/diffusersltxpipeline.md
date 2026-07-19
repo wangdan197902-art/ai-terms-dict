@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: LTX Boru Hattı"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Boru Hattı'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /tr/terms/diffusersltxpipeline/
-date: "2026-07-18T15:49:49.459493Z"
-lastmod: "2026-07-18T16:38:07.299296Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:49:49.459493Z'
+lastmod: '2026-07-18T16:38:07.299296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Diffusers'da LTX (Hızlı Metinden Video veya benzeri yüksek hızlı jeneratif) modelleri için optimize edilmiş, hızlı çıkarıma odaklanan bir boru hattı uygulaması."
+source: agnes_llm
+status: published
+language: tr
+description: Diffusers'da LTX (Hızlı Metinden Video veya benzeri yüksek hızlı jeneratif)
+  modelleri için optimize edilmiş, hızlı çıkarıma odaklanan bir boru hattı uygulaması.
 ---
-
 ## Definition
 
 LTX boru hattı, jeneratif görevlerde hız ve verimliliği önceliklendiren modeller için özelleştirilmiştir; genellikle distile edilmiş veya hızlandırılmış örnekleme yöntemleri kullanır. Diffusers ile sorunsuz entegrasyon sağlar.

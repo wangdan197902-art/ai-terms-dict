@@ -1,23 +1,23 @@
 ---
-title: "A/B 测试"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/B 测试
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /zh/terms/ab_testing/
-date: "2026-07-18T11:02:40.820817Z"
-lastmod: "2026-07-18T11:44:45.430905Z"
+slug: ab_testing
+date: '2026-07-18T11:02:40.820817Z'
+lastmod: '2026-07-18T11:44:45.430905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种统计方法，通过比较变量的两个版本来确定哪个表现更好。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种统计方法，通过比较变量的两个版本来确定哪个表现更好。
 ---
-
 ## Definition
 
 A/B 测试是一种随机对照实验，通过比较两个变体（A 和 B）来评估哪一个在特定指标上能产生更好的结果。在人工智能工程中，它对优化至关重要。

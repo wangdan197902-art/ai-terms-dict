@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /ko/terms/automated_machine_learning/
 date: "2026-07-18T15:42:50.870747Z"
 lastmod: "2026-07-18T16:38:06.811363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "실제 문제에 머신러닝을 적용하는 전체 과정을 자동화하여 수동 노력을 줄이는 방법론입니다."
 ---
-
 ## Definition
 
 AutoML(자동 머신러닝)은 데이터 전처리, 특징 공학, 모델 선택 및 하이퍼파라미터 튜닝 등의 작업을 자동화하여 ML 모델 개발을 간소화합니다. 이는...

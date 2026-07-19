@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /sv/terms/embedding/
 date: "2026-07-18T15:23:00.635082Z"
 lastmod: "2026-07-18T17:15:08.936185Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En teknik som avbildar diskreta objekt, såsom ord eller bilder, i kontinuerliga vektorrum."
 ---
-
 ## Definition
 
 Embeddings är täta vektorrepresentationer av data där semantiska relationer bevaras i det geometriska rummet. Genom att omvandla kategoriska eller högdimensionella indata till vektorer med fast längd, möjliggörs effektiv bearbetning av komplexa datastrukturer.

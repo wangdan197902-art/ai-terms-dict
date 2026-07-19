@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้หลายอินสแตนซ์"
-term_id: "multiple_instance_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "weak_labeling", "ml_paradigm"]
+title: การเรียนรู้หลายอินสแตนซ์
+term_id: multiple_instance_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- Weak Labeling
+- ML Paradigm
 difficulty: 4
 weight: 1
-slug: "multiple_instance_learning"
-aliases:
-  - /th/terms/multiple_instance_learning/
-date: "2026-07-18T15:36:44.687787Z"
-lastmod: "2026-07-18T16:38:07.562876Z"
+slug: multiple_instance_learning
+date: '2026-07-18T15:36:44.687787Z'
+lastmod: '2026-07-18T16:38:07.562876Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "รูปแบบการเรียนรู้แบบกึ่งควบคุม (weakly supervised) ที่กำหนดป้ายกำกับให้กับกลุ่มของข้อมูล (bags) แทนที่จะกำหนดให้กับข้อมูลแต่ละชิ้น"
+source: agnes_llm
+status: published
+language: th
+description: รูปแบบการเรียนรู้แบบกึ่งควบคุม (weakly supervised) ที่กำหนดป้ายกำกับให้กับกลุ่มของข้อมูล
+  (bags) แทนที่จะกำหนดให้กับข้อมูลแต่ละชิ้น
 ---
-
 ## Definition
 
 การเรียนรู้หลายอินสแตนซ์ (Multiple Instance Learning - MIL) แก้ไขสถานการณ์ที่ข้อมูลถูกจัดกลุ่มเป็น 'กระเป๋า' (bags) โดยมีป้ายกำกับเพียงหนึ่งเดียว ในขณะที่ข้อมูลย่อยภายในกระเป๋านั้นยังคงไม่มีป้ายกำกับ โดยทั่วไป กระเป๋าจะถูกจัดประเภทว่าเป็นบวก (positive) หากมีข้อมูลอย่างน้อยหนึ่งชิ้นในกระเป๋านั้นสอดคล้องกับป้ายกำกับ

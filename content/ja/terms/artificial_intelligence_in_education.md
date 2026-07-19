@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /ja/terms/artificial_intelligence_in_education/
 date: "2026-07-18T11:04:27.071301Z"
 lastmod: "2026-07-18T11:44:45.068734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "教授法を強化し、学習体験を個別最適化し、管理業務を自動化するためにAI技術を応用すること。"
 ---
-
 ## Definition
 
 教育におけるAIは、機械学習、自然言語処理、適応型システムを用いて教育成果を向上させる取り組みです。これにより、個々の学生のニーズに合わせたパーソナライズされた学習パスを提供することが可能になります。

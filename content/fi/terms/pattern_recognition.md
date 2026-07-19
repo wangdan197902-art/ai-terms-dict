@@ -1,23 +1,24 @@
 ---
-title: "Kuviontunnistus"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Kuviontunnistus
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /fi/terms/pattern_recognition/
-date: "2026-07-18T16:15:03.316810Z"
-lastmod: "2026-07-18T17:15:09.442688Z"
+slug: pattern_recognition
+date: '2026-07-18T16:15:03.316810Z'
+lastmod: '2026-07-18T17:15:09.442688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Säännönmukaisuuksien ja rakenteiden automaattinen tunnistaminen datassa tilastollisten ja koneoppimismenetelmien avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Säännönmukaisuuksien ja rakenteiden automaattinen tunnistaminen datassa
+  tilastollisten ja koneoppimismenetelmien avulla.
 ---
-
 ## Definition
 
 Kuviontunnistus on tekoälyn ja tilastotieteen haara, joka liittyy datassa olevien säännönmukaisuuksien tunnistamiseen. Se sisältää syötedatan luokittelemisen esiemääriteltyihin kategorioihin piirteiden...

@@ -1,23 +1,23 @@
 ---
-title: "תרגום תמונה לתמונה (I2I)"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: תרגום תמונה לתמונה (I2I)
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /he/terms/i2i/
-date: "2026-07-18T16:05:16.649968Z"
-lastmod: "2026-07-18T17:15:09.549365Z"
+slug: i2i
+date: '2026-07-18T16:05:16.649968Z'
+lastmod: '2026-07-18T17:15:09.549365Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תרגום תמונה לתמונה היא טכניקה בראייה ממוחשבת הממירה תמונת קלט לתמונת פלט מתאימה תוך שמירה על התוכן הסמנטי."
+source: agnes_llm
+status: published
+language: he
+description: תרגום תמונה לתמונה היא טכניקה בראייה ממוחשבת הממירה תמונת קלט לתמונת
+  פלט מתאימה תוך שמירה על התוכן הסמנטי.
 ---
-
 ## Definition
 
 תרגום תמונה לתמונה (I2I) כולל מיפוי פיקסלים מתחום מקור לתחום יעד באמצעות מודלי למידה עמוקה, כגון רשתות גנרטיביות אדוורסריאליות (GANs) או מודלי דיפוזיה. הוא מאפשר העברת סגנון, חלוקה סמנטית ועוד.

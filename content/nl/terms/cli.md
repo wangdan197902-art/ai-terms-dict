@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /nl/terms/cli/
 date: "2026-07-18T15:35:24.860471Z"
 lastmod: "2026-07-18T17:15:08.702343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De Command Line Interface (opdrachtpromptinterface) is een tekstgebaseerde methode om met softwareprogramma's te interageren door opdrachten in een terminal in te voeren."
 ---
-
 ## Definition
 
 Een Command Line Interface (CLI) stelt gebruikers in staat software te besturen door tekstuele opdrachten in te voeren in plaats van grafische elementen te gebruiken. Bij AI-ontwikkeling zijn CLI's essentieel voor het uitvoeren van scripts, het beheer van m

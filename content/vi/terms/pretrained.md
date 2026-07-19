@@ -1,23 +1,24 @@
 ---
-title: "Đã tiền huấn luyện"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Đã tiền huấn luyện
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /vi/terms/pretrained/
-date: "2026-07-18T16:08:01.903087Z"
-lastmod: "2026-07-18T16:38:07.794152Z"
+slug: pretrained
+date: '2026-07-18T16:08:01.903087Z'
+lastmod: '2026-07-18T16:38:07.794152Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Chỉ một mô hình đã được huấn luyện trên một tập dữ liệu lớn trước khi được điều chỉnh cho một nhiệm vụ cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Chỉ một mô hình đã được huấn luyện trên một tập dữ liệu lớn trước khi
+  được điều chỉnh cho một nhiệm vụ cụ thể.
 ---
-
 ## Definition
 
 Thuật ngữ 'đã tiền huấn luyện' mô tả một mô hình mạng nơ-ron đã trải qua giai đoạn huấn luyện ban đầu trên một tập dữ liệu khổng lồ, thường mang tính tổng quát như ImageNet hoặc Wikipedia. Quá trình này cho phép mô hình học các đặc trưng cơ bản và cấu trúc dữ liệu phức tạp, sau đó có thể được chuyển giao hoặc tinh chỉnh cho các nhiệm vụ chuyên biệt hơn với ít dữ liệu huấn luyện hơn.

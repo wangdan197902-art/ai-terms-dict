@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /he/terms/cli/
 date: "2026-07-18T15:35:46.694067Z"
 lastmod: "2026-07-18T17:15:09.497003Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ממשק שורת הפקודה הוא שיטה מבוססת טקסט לאינטראקציה עם תוכניות מחשב על ידי הקלדת פקודות בחלון מסוף (טרמינל)."
 ---
-
 ## Definition
 
 ממשק שורת פקודה (CLI) מאפשר למשתמשים לשלוט בתוכנה על ידי הזנת פקודות טקסטואליות במקום שימוש באלמנטים גרפיים. בפיתוח בינה מלאכותית, ממשקים אלו חיוניים להרצת סקריפטים, ניהול מודלים ועוד.

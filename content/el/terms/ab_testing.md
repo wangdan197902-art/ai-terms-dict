@@ -1,23 +1,24 @@
 ---
-title: "Δοκιμή Α/Β"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: Δοκιμή Α/Β
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /el/terms/ab_testing/
-date: "2026-07-18T15:46:09.346861Z"
-lastmod: "2026-07-18T17:15:09.872924Z"
+slug: ab_testing
+date: '2026-07-18T15:46:09.346861Z'
+lastmod: '2026-07-18T17:15:09.872924Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στατιστική μέθοδος σύγκρισης δύο εκδόσεων μιας μεταβλητής για να καθοριστεί ποια αποδίδει καλύτερα."
+source: agnes_llm
+status: published
+language: el
+description: Μια στατιστική μέθοδος σύγκρισης δύο εκδόσεων μιας μεταβλητής για να
+  καθοριστεί ποια αποδίδει καλύτερα.
 ---
-
 ## Definition
 
 Η δοκιμή Α/Β είναι ένα τυχαίος ελεγχόμενος πειραματισμός όπου συγκρίνονται δύο παραλλαγές, Α και Β, για να αξιολογηθεί ποια παράγει καλύτερα αποτελέσματα σε έναν συγκεκριμένο δείκτη. Στην μηχανική τεχνητής νοημοσύνης, είναι κρίσιμη για τη βελτιστοποίηση

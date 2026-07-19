@@ -1,23 +1,25 @@
 ---
-title: "SUPS"
-term_id: "sups"
-category: "basic_concepts"
-subcategory: ""
-tags: ["acronym", "learning_paradigms", "research"]
+title: SUPS
+term_id: sups
+category: basic_concepts
+subcategory: ''
+tags:
+- acronym
+- Learning Paradigms
+- research
 difficulty: 4
 weight: 1
-slug: "sups"
-aliases:
-  - /ro/terms/sups/
-date: "2026-07-18T16:19:53.875316Z"
-lastmod: "2026-07-18T17:15:09.700099Z"
+slug: sups
+date: '2026-07-18T16:19:53.875316Z'
+lastmod: '2026-07-18T17:15:09.700099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "În contextul AI și învățării automate, SUPS se referă adesea la Sisteme Hibride Supravegheate-Nesupravegheate sau la scheme specifice de seturi de date, deși nu este atât de standardizat ca alte acron"
+source: agnes_llm
+status: published
+language: ro
+description: În contextul AI și învățării automate, SUPS se referă adesea la Sisteme
+  Hibride Supravegheate-Nesupravegheate sau la scheme specifice de seturi de date,
+  deși nu este atât de standardizat ca alte acron
 ---
-
 ## Definition
 
 SUPS este un acronim care poate varia în funcție de context, dar apare frecvent în literatura de specialitate AI referindu-se la abordări hibride de învățare sau structuri de date specifice. Poate denota sisteme care combină...

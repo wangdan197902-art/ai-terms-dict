@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /pl/terms/meta/
 date: "2026-07-18T16:06:52.273560Z"
 lastmod: "2026-07-18T17:15:08.896835Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W kontekście AI termin 'meta' odnosi się zazwyczaj do nauki o nauce lub procesów wyższego rzędu, które rządzą adaptacją i optymalizacją modeli."
 ---
-
 ## Definition
 
 Przedrostek 'meta' w sztucznej inteligencji oznacza wyższy poziom abstrakcji, często obejmujący samoodniesienie lub nadzór nad podstawowymi procesami. Przykładami są 'uczenie meta' (meta-learning), gdzie algorytmy uczą się procesu uczenia się, oraz 'meta-optymalizacja', która dotyczy dostosowywania hiperparametrów lub struktur modeli w sposób dynamiczny.

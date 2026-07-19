@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /en/terms/supervised/
 date: "2026-07-18T09:36:52.558080Z"
 lastmod: "2026-07-18T11:44:44.610378Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A machine learning paradigm where models are trained on labeled input-output pairs."
 ---
-
 ## Definition
 
 Supervised learning involves feeding an algorithm with data that includes both inputs and correct answers (labels). The model learns to map inputs to outputs by minimizing prediction errors. This technique is foundational for classification and regression tasks, requiring high-quality labeled datasets for effective training.

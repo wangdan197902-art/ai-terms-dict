@@ -1,23 +1,25 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /fr/terms/h2o/
-date: "2026-07-18T11:20:01.910719Z"
-lastmod: "2026-07-18T11:44:45.267528Z"
+slug: h2o
+date: '2026-07-18T11:20:01.910719Z'
+lastmod: '2026-07-18T11:44:45.267528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une plateforme d'apprentissage automatique open-source et distribuée qui prend en charge divers algorithmes pour l'analyse prédictive et l'apprentissage profond."
+source: agnes_llm
+status: published
+language: fr
+description: Une plateforme d'apprentissage automatique open-source et distribuée
+  qui prend en charge divers algorithmes pour l'analyse prédictive et l'apprentissage
+  profond.
 ---
-
 ## Definition
 
 H2O est une plateforme open-source largement utilisée en mémoire vive pour l'apprentissage automatique distribué et évolutif, ainsi que pour l'analyse prédictive. Initialement développé par deux doctorants de Harvard, il fournit un cadre unifié pour la construction de modèles statistiques et d'apprentissage automatique, avec des fonctionnalités intégrées telles que l'AutoML.

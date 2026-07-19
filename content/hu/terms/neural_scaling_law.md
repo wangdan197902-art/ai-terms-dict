@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /hu/terms/neural_scaling_law/
 date: "2026-07-18T16:14:44.460672Z"
 lastmod: "2026-07-18T17:15:09.817550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Empirikus összefüggések, amelyek megjósolják a modellteljesítmény javulását az adatok, paraméterek vagy számítási erőforrások növelésével."
 ---
-
 ## Definition
 
 A neurális skálázási törvények leírják a modellteljesítmény és a méretezés (adatbázis mérete, paraméterek száma, számítási költségvetés) közötti kiszámítható hatványfüggvény szerinti kapcsolatot. Ezek a törvények azt sugallják, hogy a teljesítmény skálázható.

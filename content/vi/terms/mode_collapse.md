@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /vi/terms/mode_collapse/
 date: "2026-07-18T16:03:47.110336Z"
 lastmod: "2026-07-18T16:38:07.783530Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mode Collapse (sụp đổ chế độ) là một dạng lỗi trong Mạng đối sinh đối kháng (GAN) nơi bộ sinh chỉ tạo ra một số lượng hạn chế các loại đầu ra."
 ---
-
 ## Definition
 
 Trong GAN, mode collapse xảy ra khi bộ sinh học cách khai thác điểm yếu của bộ phân biệt bằng cách tạo ra một dải mẫu hợp lý hẹp, bỏ qua các chế độ khác của phân phối dữ liệu. Điều này

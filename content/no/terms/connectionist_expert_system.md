@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /no/terms/connectionist_expert_system/
 date: "2026-07-18T15:47:24.766111Z"
 lastmod: "2026-07-18T16:38:06.983408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et intelligenssystem som kombinerer evnen til læring fra nevrale nettverk med strukturer for symbolsk resonnement."
 ---
-
 ## Definition
 
 Et konneksjonistisk ekspertsystem integrerer mønstergjenkjennelses- og læringsstyrkene til nevrale nettverk (konneksjonisme) med den eksplisitte kunnskapsrepresentasjonen og logiske resonnementet til tradisjonelle symbolske systemer.

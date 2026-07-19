@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /ru/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:00:19.656044Z"
 lastmod: "2026-07-18T16:38:07.172690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Система рекомендаций, генерирующая предложения путем логического вывода на основе явных знаний о предметной области и ограничений пользователя, а не исторических данных."
 ---
-
 ## Definition
 
 В отличие от коллаборативной фильтрации, опирающейся на прошлое поведение пользователей, KBRS использует явные знания об элементах и предпочтениях пользователей для формирования рекомендаций. Она особенно эффективна на рынках с разреженными данными.

@@ -1,23 +1,23 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /ja/terms/rust/
-date: "2026-07-18T11:31:19.082454Z"
-lastmod: "2026-07-18T11:44:45.140271Z"
+slug: rust
+date: '2026-07-18T11:31:19.082454Z'
+lastmod: '2026-07-18T11:44:45.140271Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Rustは、ガベージコレクションなしで安全性、速度、並行性に重点を置いたシステムプログラミング言語です。"
+source: agnes_llm
+status: published
+language: ja
+description: Rustは、ガベージコレクションなしで安全性、速度、並行性に重点を置いたシステムプログラミング言語です。
 ---
-
 ## Definition
 
 Rustは、パフォーマンスと安全性、特に安全な並行性を目的として設計された、マルチパラダイムかつ汎用のプログラミング言語です。ガベージコレクションを使用せずにメモリ安全性を実現し、スレッド間のデータ競合を防ぎます。

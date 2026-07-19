@@ -1,23 +1,24 @@
 ---
-title: "Edustuksen romahdus"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Edustuksen romahdus
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /fi/terms/representation_collapse/
-date: "2026-07-18T16:19:01.636892Z"
-lastmod: "2026-07-18T17:15:09.455421Z"
+slug: representation_collapse
+date: '2026-07-18T16:19:01.636892Z'
+lastmod: '2026-07-18T17:15:09.455421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Itseohjautuvan oppimisen epäonnistumismuoto, jossa malli tuottaa identtiset edustukset kaikille syötteille menettäen erottelukykyään."
+source: agnes_llm
+status: published
+language: fi
+description: Itseohjautuvan oppimisen epäonnistumismuoto, jossa malli tuottaa identtiset
+  edustukset kaikille syötteille menettäen erottelukykyään.
 ---
-
 ## Definition
 
 Edustuksen romahdus tapahtuu, kun neuroverkko, erityisesti itseohjautuvassa kontrastiivisessa oppimisessa, oppii kuvaamaan kaikki syötteen datapisteet samaksi kiinteäksi tulovektoriksi. Tämä triviaali

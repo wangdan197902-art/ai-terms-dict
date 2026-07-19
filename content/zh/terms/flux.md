@@ -1,23 +1,23 @@
 ---
-title: "通量"
-term_id: "flux"
-category: "basic_concepts"
-subcategory: ""
-tags: ["concepts", "data_flow", "systems"]
+title: 通量
+term_id: flux
+category: basic_concepts
+subcategory: ''
+tags:
+- concepts
+- Data Flow
+- systems
 difficulty: 2
 weight: 1
-slug: "flux"
-aliases:
-  - /zh/terms/flux/
-date: "2026-07-18T11:00:03.938766Z"
-lastmod: "2026-07-18T11:44:45.400689Z"
+slug: flux
+date: '2026-07-18T11:00:03.938766Z'
+lastmod: '2026-07-18T11:44:45.400689Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "通量指系统或网络内数据、能量或信息的持续流动或变化。"
+source: agnes_llm
+status: published
+language: zh
+description: 通量指系统或网络内数据、能量或信息的持续流动或变化。
 ---
-
 ## Definition
 
 在计算语境中，通量描述单位时间内通过给定区域的量转移速率。在人工智能和数据工程中，它通常与数据流有关，其中信息连续不断地移动和处理，强调实时性和高吞吐量，常见于流式数据处理场景。

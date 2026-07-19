@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /tr/terms/english/
 date: "2026-07-18T15:24:43.535184Z"
 lastmod: "2026-07-18T16:38:07.231031Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İngilizce, birçok Doğal Dil İşleme (NLP) modeli için baskın bir referans veri kümesi ve hedef çıktı olarak hizmet veren doğal bir dildir."
 ---
-
 ## Definition
 
 Temelde bir insan dili olmasına rağmen, yapay zeka bağlamında 'İngilizce', dijital metin verilerinin bolluğu nedeniyle NLP araştırmaları için en yaygın dil alanını temsil eder. BERT gibi çoğu temel model (foundation model) İngilizce üzerinde önceden eğitilmiştir. Bu durum, İngilizce dışındaki diller için veri kıtlığı ve önyargı sorunlarını beraberinde getirebilir.

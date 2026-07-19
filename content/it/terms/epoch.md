@@ -1,23 +1,24 @@
 ---
-title: "Epoch"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /it/terms/epoch/
-date: "2026-07-18T15:58:32.403076Z"
-lastmod: "2026-07-18T17:15:08.623621Z"
+slug: epoch
+date: '2026-07-18T15:58:32.403076Z'
+lastmod: '2026-07-18T17:15:08.623621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un passaggio completo del dataset di addestramento attraverso l'algoritmo di apprendimento automatico durante l'addestramento del modello."
+source: agnes_llm
+status: published
+language: it
+description: Un passaggio completo del dataset di addestramento attraverso l'algoritmo
+  di apprendimento automatico durante l'addestramento del modello.
 ---
-
 ## Definition
 
 Nell'apprendimento automatico, un epoch rappresenta una singola iterazione sull'intero dataset di addestramento. Durante ogni epoch, il modello elabora tutti gli esempi di addestramento, aggiorna i suoi pesi tramite backpropagation e calcola la perdita. Il numero di epoch è un iperparametro critico che influenza la convergenza del modello e il rischio di overfitting.

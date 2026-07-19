@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /tr/terms/content_filtering/
 date: "2026-07-18T15:46:04.805901Z"
 lastmod: "2026-07-18T16:38:07.286213Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Önceden tanımlanmış kriterlere veya sınıflandırma modellerine dayanarak dijital içeriğe erişimi engelleme veya izin verme süreci."
 ---
-
 ## Definition
 
 İçerik filtreleme, kullanıcılara sunulan bilgilerin akışını taramak, sınıflandırmak ve kontrol etmek için algoritmalar ve kurallar kullanmayı içerir. Yapay zeka bağlamında bu, genellikle doğal dil işleme ve bilgisayarlı görü tekniklerini kullanır.

@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /ja/terms/natural_language/
 date: "2026-07-18T10:57:15.383160Z"
 lastmod: "2026-07-18T11:44:45.027613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "形式化されたコンピュータ言語とは対照的に、文法、語彙、および文脈を特徴とする標準的な人間のコミュニケーション方法。"
 ---
-
 ## Definition
 
 自然言語とは、曖昧さ、慣用句、文化的ニュアンスを含む、人間が話したり書いたりする方法を指します。AIにおける自然言語処理には、構文、意味論、および文脈の理解が含まれます。

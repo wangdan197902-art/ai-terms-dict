@@ -1,23 +1,24 @@
 ---
-title: "Billede-tekst-til-tekst"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Billede-tekst-til-tekst
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /da/terms/image_text_to_text/
-date: "2026-07-18T16:01:05.617812Z"
-lastmod: "2026-07-18T17:15:09.298235Z"
+slug: image_text_to_text
+date: '2026-07-18T16:01:05.617812Z'
+lastmod: '2026-07-18T17:15:09.298235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En multimodal AI-funktion, der genererer tekstlige beskrivelser eller svar baseret på indtastede billeder og valgfrie tekstprompter."
+source: agnes_llm
+status: published
+language: da
+description: En multimodal AI-funktion, der genererer tekstlige beskrivelser eller
+  svar baseret på indtastede billeder og valgfrie tekstprompter.
 ---
-
 ## Definition
 
 Billede-tekst-til-tekst refererer til modeller, der behandler visuelle input sammen med tekstlige forespørgsler for at producere sammenhængende output i naturligt sprog. Disse systemer, ofte kaldet Vision-Language Models (VLMs), kombinerer...

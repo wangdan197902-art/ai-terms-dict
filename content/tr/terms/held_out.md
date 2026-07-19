@@ -1,23 +1,24 @@
 ---
-title: "ayrılmış (held-out)"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: ayrılmış (held-out)
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /tr/terms/held_out/
-date: "2026-07-18T15:31:33.833532Z"
-lastmod: "2026-07-18T16:38:07.249516Z"
+slug: held_out
+date: '2026-07-18T15:31:33.833532Z'
+lastmod: '2026-07-18T16:38:07.249516Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Model performansını değerlendirmek ve geliştirme sırasında aşırı öğrenmeyi önlemek için eğitim kümesinden ayrılan veri örnekleri."
+source: agnes_llm
+status: published
+language: tr
+description: Model performansını değerlendirmek ve geliştirme sırasında aşırı öğrenmeyi
+  önlemek için eğitim kümesinden ayrılan veri örnekleri.
 ---
-
 ## Definition
 
 'Ayrılmış' (held-out) bir veri kümesi, makine öğrenimi modelinin eğitim aşamasından kasıtlı olarak hariç tutulan örneklerden oluşur. Bu alt küme, modelin görünmeyen verilere ne kadar iyi genelleme yaptığını değerlendirmek için kullanılır ve modelin geliştirme sürecindeki gerçek performansını objektif bir şekilde ölçmeye olanak tanır. Genellikle eğitim ve test verisi arasında bir ara aşama olarak kullanılır, böylece hiperparametre ayarlaması sırasında test verisinin sızması (data leakage) engellenir.

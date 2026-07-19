@@ -1,23 +1,24 @@
 ---
-title: "Streaming (prelucrare în flux continuu)"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Streaming (prelucrare în flux continuu)
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /ro/terms/streaming/
-date: "2026-07-18T16:22:05.537232Z"
-lastmod: "2026-07-18T17:15:09.705633Z"
+slug: streaming
+date: '2026-07-18T16:22:05.537232Z'
+lastmod: '2026-07-18T17:15:09.705633Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de procesare a datelor în care informația este procesată continuu, în bucăți mici, pe măsură ce ajunge, nu în loturi statice mari."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de procesare a datelor în care informația este procesată
+  continuu, în bucăți mici, pe măsură ce ajunge, nu în loturi statice mari.
 ---
-
 ## Definition
 
 Streaming se referă la ingestia și procesarea continuă a datelor în timp real sau aproape în timp real, pe măsură ce sunt generate. Spre deosebire de prelucrarea în loturi (batch), care gestionează seturi de date fixe, sistemele de streaming gestionează

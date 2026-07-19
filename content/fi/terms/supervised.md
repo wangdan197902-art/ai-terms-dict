@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /fi/terms/supervised/
 date: "2026-07-18T15:31:25.815279Z"
 lastmod: "2026-07-18T17:15:09.360394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Oppimismuoto, jossa malleja koulutetaan merkittyjen syöte-lähtö-parien avulla."
 ---
-
 ## Definition
 
 Valvottu oppiminen sisältää algoritmin syöttämisen datalla, joka sisältää sekä syötteet että oikeat vastaukset (merkinnät). Malli oppii kuvaamaan syötteet lähdöiksi minimoimalla ennustusvirheet. Tämä tekn...

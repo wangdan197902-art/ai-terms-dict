@@ -1,23 +1,25 @@
 ---
-title: "SUPS"
-term_id: "sups"
-category: "basic_concepts"
-subcategory: ""
-tags: ["acronym", "learning_paradigms", "research"]
+title: SUPS
+term_id: sups
+category: basic_concepts
+subcategory: ''
+tags:
+- acronym
+- Learning Paradigms
+- research
 difficulty: 4
 weight: 1
-slug: "sups"
-aliases:
-  - /pt/terms/sups/
-date: "2026-07-18T15:20:21.865454Z"
-lastmod: "2026-07-18T15:51:59.530288Z"
+slug: sups
+date: '2026-07-18T15:20:21.865454Z'
+lastmod: '2026-07-18T15:51:59.530288Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "No contexto de IA e aprendizado de máquina, SUPS frequentemente se refere a Sistemas Híbridos de Aprendizado Supervisionado e Não Supervisionado ou esquemas específicos de conjuntos de dados, embora s"
+source: agnes_llm
+status: published
+language: pt
+description: No contexto de IA e aprendizado de máquina, SUPS frequentemente se refere
+  a Sistemas Híbridos de Aprendizado Supervisionado e Não Supervisionado ou esquemas
+  específicos de conjuntos de dados, embora s
 ---
-
 ## Definition
 
 SUPS é um acrônimo que pode variar conforme o contexto, mas aparece frequentemente em literatura especializada de IA referindo-se a abordagens de aprendizado híbrido ou estruturas de dados específicas. Pode denotar sistemas que combinam

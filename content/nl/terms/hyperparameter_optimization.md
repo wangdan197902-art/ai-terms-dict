@@ -1,23 +1,25 @@
 ---
-title: "Hyperparameteroptimalisatie"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Hyperparameteroptimalisatie
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /nl/terms/hyperparameter_optimization/
-date: "2026-07-18T15:59:20.343588Z"
-lastmod: "2026-07-18T17:15:08.753769Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T15:59:20.343588Z'
+lastmod: '2026-07-18T17:15:08.753769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een geautomatiseerde aanpak voor het vinden van de optimale configuratie van hyperparameters, vaak met behulp van probabilistische modellen om de zoektocht te sturen."
+source: agnes_llm
+status: published
+language: nl
+description: Een geautomatiseerde aanpak voor het vinden van de optimale configuratie
+  van hyperparameters, vaak met behulp van probabilistische modellen om de zoektocht
+  te sturen.
 ---
-
 ## Definition
 
 Hyperparameteroptimalisatie (HPO) verwijst naar het bredere vakgebied van het automatiseren van de selectie van hyperparameters. Terwijl afstemming de algemene handeling is, impliceert HPO vaak het gebruik van geavanceerde algoritmen zoals

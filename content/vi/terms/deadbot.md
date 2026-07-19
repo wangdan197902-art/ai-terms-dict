@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /vi/terms/deadbot/
 date: "2026-07-18T15:48:26.943920Z"
 lastmod: "2026-07-18T16:38:07.746888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một chatbot đã bị ngừng hoạt động, đóng cửa hoặc không còn được bảo trì, thường dẫn đến các phản hồi tĩnh hoặc lỗi khi người dùng tương tác."
 ---
-
 ## Definition
 
 Deadbot đề cập đến một đại lý trò chuyện hoặc dịch vụ chatbot không còn hoạt động, được bảo trì hoặc hỗ trợ bởi nhà phát triển. Những bot này có thể trả về các thông báo lỗi chung chung, phản hồi tĩnh hoặc chuyển hướng người dùng sang các dịch vụ thay thế.

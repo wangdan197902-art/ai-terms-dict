@@ -1,23 +1,24 @@
 ---
-title: "Stem"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: Stem
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /nl/terms/voice/
-date: "2026-07-18T16:22:02.699708Z"
-lastmod: "2026-07-18T17:15:08.797026Z"
+slug: voice
+date: '2026-07-18T16:22:02.699708Z'
+lastmod: '2026-07-18T17:15:08.797026Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Stem verwijst naar de door mensen geproduceerde klanken die als primaire invoermodaaliteit dienen voor spraakherkenning- en synthesesystemen."
+source: agnes_llm
+status: published
+language: nl
+description: Stem verwijst naar de door mensen geproduceerde klanken die als primaire
+  invoermodaaliteit dienen voor spraakherkenning- en synthesesystemen.
 ---
-
 ## Definition
 
 In kunstmatige intelligentie omvat stem de akoestische signalen die worden gegenereerd door de menselijke stembanden en die taalkundige informatie dragen. Het verschilt van algemene audio omdat het specifiek betrekking heeft op gesproken taal.

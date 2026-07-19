@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /es/terms/ai_mode/
 date: "2026-07-18T10:33:00.158526Z"
 lastmod: "2026-07-18T11:44:44.769021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un estado funcional en las interfaces de software donde la inteligencia artificial asiste o automatiza activamente las tareas."
 ---
-
 ## Definition
 
 El Modo IA se refiere a un estado operativo específico dentro de plataformas o aplicaciones digitales donde se activan las capacidades de IA para mejorar la interacción del usuario. Este modo generalmente habilita funciones como el procesamiento de lenguaje nat

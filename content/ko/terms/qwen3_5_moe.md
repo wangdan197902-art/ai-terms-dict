@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /ko/terms/qwen3_5_moe/
 date: "2026-07-18T16:12:36.759782Z"
 lastmod: "2026-07-18T16:38:06.901990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "높은 효율성을 위해 설계된 큐웬3 시리즈의 가설적이거나 미래의 희소 혼합 전문가(Sparse Mixture-of-Experts) 변형입니다."
 ---
-
 ## Definition
 
 이 용어는 큐웬 계열 내의 특수 아키텍처를 참조하며, 아마도 혼합 전문가(Mixture of Experts, MoE) 설계를 활용하고 있을 것입니다. 이러한 모델에서는 신경망 매개변수의 일부(전문가)만 활성화됩니다.

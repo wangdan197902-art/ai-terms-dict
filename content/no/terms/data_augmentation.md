@@ -1,23 +1,24 @@
 ---
-title: "Dataaugmentering"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Dataaugmentering
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /no/terms/data_augmentation/
-date: "2026-07-18T15:48:32.590639Z"
-lastmod: "2026-07-18T16:38:06.985987Z"
+slug: data_augmentation
+date: '2026-07-18T15:48:32.590639Z'
+lastmod: '2026-07-18T16:38:06.985987Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Dataaugmentering er en teknikk brukt til å øke mangfoldet og størrelsen på treningsdatasett ved å anvende transformasjoner på eksisterende datapunkter."
+source: agnes_llm
+status: published
+language: 'no'
+description: Dataaugmentering er en teknikk brukt til å øke mangfoldet og størrelsen
+  på treningsdatasett ved å anvende transformasjoner på eksisterende datapunkter.
 ---
-
 ## Definition
 
 Denne metoden utvider treningsdatasettet kunstig ved å lage modifiserte versjoner av eksisterende prøver, for eksempel ved å rotere bilder, legge til støy i lyd eller erstatte synonymer i tekst. Det hjelper med å forebygge

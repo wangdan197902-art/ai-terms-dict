@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /no/terms/relational_data_mining/
 date: "2026-07-18T16:14:28.814630Z"
 lastmod: "2026-07-18T16:38:07.042434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å oppdage mønstre og kunnskap fra data som består av flere sammenkoblede tabeller eller enheter."
 ---
-
 ## Definition
 
 Relasjonsbasert datagruvedrift fokuserer på å utvinne nyttig informasjon fra databaser der data er organisert i flere relaterte tabeller, i stedet for én enkelt flat tabell. Den utnytter relasjonene mellom.

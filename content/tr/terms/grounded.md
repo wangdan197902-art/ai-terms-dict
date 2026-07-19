@@ -1,23 +1,24 @@
 ---
-title: "Yerleşik"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Yerleşik
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /tr/terms/grounded/
-date: "2026-07-18T15:25:52.489751Z"
-lastmod: "2026-07-18T16:38:07.234086Z"
+slug: grounded
+date: '2026-07-18T15:25:52.489751Z'
+lastmod: '2026-07-18T16:38:07.234086Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Soyut semboller veya dili gerçek dünya duyusal verileri veya fiziksel eylemlere bağlayan yapay zeka sistemlerini ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Soyut semboller veya dili gerçek dünya duyusal verileri veya fiziksel
+  eylemlere bağlayan yapay zeka sistemlerini ifade eder.
 ---
-
 ## Definition
 
 Yapay zekada 'yerleşik', kelimeler veya mantıksal önermeler gibi sembolik temsilleri fiziksel dünyadaki gerçek referanslarına veya duyusal deneyimlerine bağlama sürecini tanımlar.

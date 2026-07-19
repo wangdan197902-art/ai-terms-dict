@@ -1,23 +1,24 @@
 ---
-title: "gehouden-uit"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: gehouden-uit
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /nl/terms/held_out/
-date: "2026-07-18T15:31:53.297543Z"
-lastmod: "2026-07-18T17:15:08.698288Z"
+slug: held_out
+date: '2026-07-18T15:31:53.297543Z'
+lastmod: '2026-07-18T17:15:08.698288Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Datapunten die uit de trainingsset zijn gereserveerd om de prestaties van het model te evalueren en overfitting tijdens de ontwikkeling te voorkomen."
+source: agnes_llm
+status: published
+language: nl
+description: Datapunten die uit de trainingsset zijn gereserveerd om de prestaties
+  van het model te evalueren en overfitting tijdens de ontwikkeling te voorkomen.
 ---
-
 ## Definition
 
 Een 'gehouden-uit' dataset bestaat voorbeelden die opzettelijk zijn uitgesloten van de trainingsfase van een machine learning-model. Deze subset wordt gebruikt om te beoordelen hoe goed het model generalizeert naar onbekende gegevens, waardoor een onbevooroordeelde evaluatie mogelijk is van de werkelijke prestaties buiten de trainingsdata.

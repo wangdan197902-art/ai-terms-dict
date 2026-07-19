@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /ro/terms/self_consistency/
 date: "2026-07-18T16:20:07.433211Z"
 lastmod: "2026-07-18T17:15:09.700733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Auto-coerența este o strategie de decodare în care sunt eșantionate mai multe căi de raționament, iar răspunsul cel mai frecvent este selectat ca ieșire finală."
 ---
-
 ## Definition
 
 Utilizată în principal cu Modele Linguistice Mari (LLM), această tehnică îmbunătățește acuratețea generând mai multe răspunsuri diverse la un prompt prin eșantionare. În loc să se bazeze pe decodarea greșită (greedy decoding), aceasta agregă rezultatele multiple pentru a identifica consensul.

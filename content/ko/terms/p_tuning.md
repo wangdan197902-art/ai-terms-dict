@@ -1,23 +1,23 @@
 ---
-title: "P-Tuning"
-term_id: "p_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "nlp"]
+title: P-Tuning
+term_id: p_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- NLP
 difficulty: 4
 weight: 1
-slug: "p_tuning"
-aliases:
-  - /ko/terms/p_tuning/
-date: "2026-07-18T16:08:40.266602Z"
-lastmod: "2026-07-18T16:38:06.893948Z"
+slug: p_tuning
+date: '2026-07-18T16:08:40.266602Z'
+lastmod: '2026-07-18T16:38:06.893948Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "전체 사전 훈련된 모델 가중치를 업데이트하는 대신 연속적인 프롬프트 임베딩을 최적화하는 매개변수 효율적 파인튜닝 방법."
+source: agnes_llm
+status: published
+language: ko
+description: 전체 사전 훈련된 모델 가중치를 업데이트하는 대신 연속적인 프롬프트 임베딩을 최적화하는 매개변수 효율적 파인튜닝 방법.
 ---
-
 ## Definition
 
 P-Tuning(프롬프트 튜닝)은 최소한의 계산 비용으로 대규모 사전 훈련된 언어 모델을 특정 다운스트림 작업에 적응시키기 위해 설계된 기술입니다. 모든 모델 매개변수를 미세 조정하는 대신, 고정된 가중치 위에 가상 토큰(virtual tokens)이나 임베딩을 최적화하여 작업을 수행합니다.

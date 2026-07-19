@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /tr/terms/tum/
 date: "2026-07-18T16:18:27.884097Z"
 lastmod: "2026-07-18T16:38:07.374939Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "TUM, ana akım yapay zeka terminolojisinde standart bir kısaltma olarak tanınmamaktadır; Münih Teknik Üniversitesi gibi belirli kurumsal bağlamlara işaret ediyor olabilir veya bir yazım hatası içerebil"
 ---
-
 ## Definition
 
 Akademik veya endüstriyel literatürde 'Tum' terimi, temel bir yapay zeka kavramı, tekniği veya metriği olarak yaygın kabul görmüş bir tanıma sahip değildir. Muhtemelen 'Turing Testi', 'Transformer Modeli' gibi terimlerin yanlış yazımıdır.

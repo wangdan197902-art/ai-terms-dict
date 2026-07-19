@@ -1,23 +1,23 @@
 ---
-title: "เส้นเวลาความเสี่ยงของปัญญาประดิษฐ์ในภาคการเงินระดับโลก"
-term_id: "timeline_of_artificial_intelligence_risks_in_global_finance"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "risk_management", "history"]
+title: เส้นเวลาความเสี่ยงของปัญญาประดิษฐ์ในภาคการเงินระดับโลก
+term_id: timeline_of_artificial_intelligence_risks_in_global_finance
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Risk Management
+- history
 difficulty: 4
 weight: 1
-slug: "timeline_of_artificial_intelligence_risks_in_global_finance"
-aliases:
-  - /th/terms/timeline_of_artificial_intelligence_risks_in_global_finance/
-date: "2026-07-18T16:18:40.543827Z"
-lastmod: "2026-07-18T16:38:07.663087Z"
+slug: timeline_of_artificial_intelligence_risks_in_global_finance
+date: '2026-07-18T16:18:40.543827Z'
+lastmod: '2026-07-18T16:38:07.663087Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กรอบเวลาเชิงลำดับเหตุการณ์ที่ติดตามการเกิดขึ้น การทวีความรุนแรง และการบรรเทาความเสี่ยงเชิงระบบที่เกี่ยวข้องกับปัญญาประดิษฐ์ภายในตลาดการเงินระหว่างประเทศ"
+source: agnes_llm
+status: published
+language: th
+description: กรอบเวลาเชิงลำดับเหตุการณ์ที่ติดตามการเกิดขึ้น การทวีความรุนแรง และการบรรเทาความเสี่ยงเชิงระบบที่เกี่ยวข้องกับปัญญาประดิษฐ์ภายในตลาดการเงินระหว่างประเทศ
 ---
-
 ## Definition
 
 แนวคิดนี้หมายถึงลำดับเหตุการณ์ทางประวัติศาสตร์และแนวโน้มในอนาคตที่เทคโนโลยีปัญญาประดิษฐ์สร้างความเปราะบางให้กับระบบการเงินทั่วโลก โดยครอบคลุมตั้งแต่ช่วงเริ่มต้นของการใช้อัลกอริทึมในการซื้อขายไปจนถึงผลกระทบเชิงระบบที่อาจเกิดขึ้นจากการพึ่งพาเทคโนโลยีดังกล่าวมากเกินไป

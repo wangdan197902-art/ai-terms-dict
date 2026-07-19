@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /vi/terms/reasoning_model/
 date: "2026-07-18T16:10:06.878774Z"
 lastmod: "2026-07-18T16:38:07.800026Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình AI được tối ưu hóa cụ thể để thực hiện suy luận logic phức tạp, giải quyết vấn đề từng bước và xử lý chuỗi tư duy."
 ---
-
 ## Definition
 
 Khác với các mô hình sinh tiêu chuẩn tập trung vào tính trôi chảy, các mô hình suy luận ưu tiên độ chính xác trong các nhiệm vụ đa bước như toán học, lập trình và câu đố logic. Chúng thường sử dụng các kỹ thuật như Chuỗi tư duy (Chain-of-Thought)...

@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /vi/terms/moshi/
 date: "2026-07-18T16:04:03.260451Z"
 lastmod: "2026-07-18T16:38:07.784549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mô hình ngôn ngữ giọng nói do Kyutai phát triển, học đồng thời biểu diễn văn bản và âm thanh để tương tác đa phương thức liền mạch."
 ---
-
 ## Definition
 
 Moshi là một mô hình AI tiên tiến được tạo ra bởi Kyutai, tích hợp xử lý giọng nói và văn bản vào một khung thống nhất. Không giống như các hệ thống truyền thống chuyển đổi giọng nói sang văn bản trước khi xử lý, Moshi học trực tiếp từ dữ liệu âm thanh thô, giúp bảo toàn ngữ điệu và cảm xúc trong giao tiếp.

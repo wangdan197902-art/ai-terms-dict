@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /ja/terms/multi/
 date: "2026-07-18T10:52:47.616251Z"
 lastmod: "2026-07-18T11:44:45.014304Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "システムやモデル内に複数のインスタンス、ヘッド、またはモダリティが存在することを示す接頭辞。"
 ---
-
 ## Definition
 
 接頭辞「multi-」は、AIにおいて複数の並列コンポーネントを含むアーキテクチャやプロセスを示すために頻繁に使用されます。例えば、Multi-Head Attention（マルチヘッドアテンション）は、モデルが異なる表現サブスペースに同時に注意を向けることを可能にします。

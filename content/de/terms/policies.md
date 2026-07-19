@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /de/terms/policies/
 date: "2026-07-18T10:52:44.639820Z"
 lastmod: "2026-07-18T11:44:44.880419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Satz von Leitlinien, Regeln oder Protokollen, die von einer Organisation festgelegt wurden, um Verhalten, Entscheidungsfindung und operative Standards zu steuern."
 ---
-
 ## Definition
 
 Im Kontext der künstlichen Intelligenz und Technologieführung beziehen sich Richtlinien auf die formalisierten Rahmenwerke, die vorschreiben, wie KI-Systeme entwickelt, bereitgestellt und überwacht werden sollen. Diese Dokumente...

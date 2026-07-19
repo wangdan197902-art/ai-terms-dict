@@ -1,23 +1,24 @@
 ---
-title: "Tamaño del lote"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Tamaño del lote
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /es/terms/batch_size/
-date: "2026-07-18T10:38:06.922683Z"
-lastmod: "2026-07-18T11:44:44.781598Z"
+slug: batch_size
+date: '2026-07-18T10:38:06.922683Z'
+lastmod: '2026-07-18T11:44:44.781598Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El número de ejemplos de entrenamiento utilizados en una iteración del algoritmo de descenso de gradiente estocástico."
+source: agnes_llm
+status: published
+language: es
+description: El número de ejemplos de entrenamiento utilizados en una iteración del
+  algoritmo de descenso de gradiente estocástico.
 ---
-
 ## Definition
 
 El tamaño del lote es un hiperparámetro crítico que determina cuántas muestras se procesan antes de actualizar los parámetros internos del modelo. Un tamaño de lote más grande proporciona una estimación más precisa de la

@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /da/terms/self_attention/
 date: "2026-07-18T15:30:04.276328Z"
 lastmod: "2026-07-18T17:15:09.233875Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En mekanisme, der tillader et neuralt netværk at vægte vigtigheden af forskellige dele af inputsekvensen i forhold til hinanden."
 ---
-
 ## Definition
 
 Selvopmærksomhed gør det muligt for modeller at fange afhængigheder mellem alle positioner i en sekvens samtidigt, uanset afstand. Ved at beregne opmærksomhedsscorer mellem hvert par af tokens tillader det...

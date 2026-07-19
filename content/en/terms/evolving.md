@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /en/terms/evolving/
 date: "2026-07-18T09:32:12.798435Z"
 lastmod: "2026-07-18T11:44:44.597021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Describes AI systems or algorithms that continuously adapt and improve over time through new data or feedback."
 ---
-
 ## Definition
 
 The term 'evolving' characterizes dynamic AI models that undergo continuous learning and adaptation rather than remaining static after initial training. This concept is central to lifelong learning and online machine learning, where models update their parameters in real-time as they encounter new information. Evolution ensures that AI remains relevant and accurate in changing environments, mimicking biological adaptation processes to handle drift and novelty effectively.

@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /es/terms/gated_recurrent_unit/
 date: "2026-07-18T10:50:13.497630Z"
 lastmod: "2026-07-18T11:44:44.809727Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un tipo de arquitectura de red neuronal recurrente que utiliza mecanismos de puertas para controlar el flujo de información, sirviendo como una alternativa simplificada a la LSTM."
 ---
-
 ## Definition
 
 Una Unidad Recurrente con Puertas (GRU, por sus siglas en inglés) es una celda especializada de red neuronal recurrente diseñada para capturar dependencias a largo plazo en datos secuenciales. Simplifica la arquitectura de la Memoria a Corto Plazo Largo (LSTM) al combinar las puertas de olvido y entrada en una única puerta de actualización, lo que reduce la complejidad computacional manteniendo un rendimiento competitivo.

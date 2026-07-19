@@ -1,23 +1,24 @@
 ---
-title: "Spike-and-slab regresyonu"
-term_id: "spike_and_slab_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "bayesian", "regression"]
+title: Spike-and-slab regresyonu
+term_id: spike_and_slab_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- bayesian
+- Regression
 difficulty: 4
 weight: 1
-slug: "spike_and_slab_regression"
-aliases:
-  - /tr/terms/spike_and_slab_regression/
-date: "2026-07-18T16:15:33.481446Z"
-lastmod: "2026-07-18T16:38:07.368000Z"
+slug: spike_and_slab_regression
+date: '2026-07-18T16:15:33.481446Z'
+lastmod: '2026-07-18T16:38:07.368000Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sıfır ve sıfır olmayan katsayıları ayırt etmek için bir karışım önceliği (mixture prior) kullanan, değişken seçimi için bir Bayesçi yöntem."
+source: agnes_llm
+status: published
+language: tr
+description: Sıfır ve sıfır olmayan katsayıları ayırt etmek için bir karışım önceliği
+  (mixture prior) kullanan, değişken seçimi için bir Bayesçi yöntem.
 ---
-
 ## Definition
 
 Spike-and-slab regresyonu, değişken seçimi ve seyrek modelleme (sparse modeling) için kullanılan bir Bayesçi istatistiksel tekniktir. İki bileşenden oluşan bir karışım öncelik dağılımı kullanır: bir 'spike' (genellikle sıfıra çok yakın veya tam sıfır değerler için) ve bir 'slab' (sıfırdan farklı, daha geniş bir dağılıma sahip değerler için). Bu yaklaşım, modelin hangi değişkenlerin önemli olduğunu belirlemesine olanak tanır.

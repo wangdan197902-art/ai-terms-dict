@@ -1,23 +1,23 @@
 ---
-title: "~駆動 / ~中心"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: ~駆動 / ~中心
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /ja/terms/driven/
-date: "2026-07-18T10:50:00.253784Z"
-lastmod: "2026-07-18T11:44:45.005737Z"
+slug: driven
+date: '2026-07-18T10:50:00.253784Z'
+lastmod: '2026-07-18T11:44:45.005737Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "駆動（driven）は、意思決定やモデル構造がデータや目的といった特定の入力タイプ主にガイドされるAIシステムや方法論を記述する用語です。"
+source: agnes_llm
+status: published
+language: ja
+description: 駆動（driven）は、意思決定やモデル構造がデータや目的といった特定の入力タイプ主にガイドされるAIシステムや方法論を記述する用語です。
 ---
-
 ## Definition
 
 「driven」という用語は、AIアプローチの主要な原動力やメカニズムを示す接尾辞として一般的に使用されます。例えば、「データ駆動型（data-driven）」は統計的なパターンに基づいて意思決定が行われることを意味し、「知識駆動型（knowledge-driven）」はルールや事前知識に基づくことを示します。

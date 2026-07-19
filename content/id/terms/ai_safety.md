@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /id/terms/ai_safety/
 date: "2026-07-18T15:22:20.474408Z"
 lastmod: "2026-07-18T16:38:07.386008Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bidang studi yang berfokus pada pencegahan konsekuensi berbahaya yang tidak disengaja dari sistem kecerdasan buatan tingkat lanjut."
 ---
-
 ## Definition
 
 Keamanan AI mencakup penelitian dan praktik yang bertujuan memastikan bahwa sistem otonom berperilaku dengan cara yang bermanfaat dan tidak membahayakan manusia. Bidang ini menangani risiko seperti bias, misinformasi, dan keamanan siber.

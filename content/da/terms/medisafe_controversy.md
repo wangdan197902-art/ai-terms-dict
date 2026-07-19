@@ -7,8 +7,6 @@ tags: ["ethics", "history", "healthcare"]
 difficulty: 2
 weight: 1
 slug: "medisafe_controversy"
-aliases:
-  - /da/terms/medisafe_controversy/
 date: "2026-07-18T16:07:23.146997Z"
 lastmod: "2026-07-18T17:15:09.310661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En historisk etisk debat om brugen af dyreforsøg i udviklingen af sundhedsplatformen MediSafe."
 ---
-
 ## Definition
 
 MediSafe-kontroversen refererer til en betydelig etisk diskussion i de tidlige dage af digital sundhedsteknologi vedrørende de valideringsmetoder, der blev brugt til MediSafe-appen. Kritikere rejste bekymringer...

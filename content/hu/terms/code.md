@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /hu/terms/code/
 date: "2026-07-18T15:37:16.238046Z"
 lastmod: "2026-07-18T17:15:09.739214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI kontextusában a kód a programozási nyelveken írt strukturált utasításokat jelenti, amelyek meghatározzák a modell viselkedését és az adatfeldolgozási logikát."
 ---
-
 ## Definition
 
 A kód a Python, C++ vagy JavaScript programozási nyelveken írt utasítások halmaza, amelyeket a számítógépek hajtanak végre specifikus feladatok elvégzése érdekében. A mesterséges intelligenciában a kód alapvető fontosságú a neurális hálózatok megvalósításához és betanításához.

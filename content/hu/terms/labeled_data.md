@@ -1,23 +1,24 @@
 ---
-title: "Címkézett adatok"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Címkézett adatok
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /hu/terms/labeled_data/
-date: "2026-07-18T16:09:44.820218Z"
-lastmod: "2026-07-18T17:15:09.801064Z"
+slug: labeled_data
+date: '2026-07-18T16:09:44.820218Z'
+lastmod: '2026-07-18T17:15:09.801064Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Adatok, ahol a helyes kimenet vagy célérték meg van adva a bemeneti jellemzők mellett."
+source: agnes_llm
+status: published
+language: hu
+description: Adatok, ahol a helyes kimenet vagy célérték meg van adva a bemeneti jellemzők
+  mellett.
 ---
-
 ## Definition
 
 A címkézett adatok olyan bemeneti mintákból állnak, amelyek párosítva vannak a megfelelő valós értékkel (ground truth) címkékkel, és ezeket a felügyelt gépi tanulás alapjaként használják. Lehetővé teszik az algoritmusok számára, hogy megtanulják a leképezést a bemenet és a kimenet között.

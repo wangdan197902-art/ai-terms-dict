@@ -1,23 +1,24 @@
 ---
-title: "การตรวจสอบความถูกต้องข้ามแบบปล่อยหนึ่งออก"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: การตรวจสอบความถูกต้องข้ามแบบปล่อยหนึ่งออก
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /th/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:02:29.260400Z"
-lastmod: "2026-07-18T16:38:07.625567Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:02:29.260400Z'
+lastmod: '2026-07-18T16:38:07.625567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการสุ่มตัวอย่างใหม่อย่างเข้มงวด โดยฝึกโมเดลด้วยข้อมูลทั้งหมดยกเว้นหนึ่งตัวอย่าง แล้วทดสอบกับตัวอย่างที่ถูกเก็บไว้เพียงตัวเดียว ทำซ้ำสำหรับทุกจุดข้อมูล"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการสุ่มตัวอย่างใหม่อย่างเข้มงวด โดยฝึกโมเดลด้วยข้อมูลทั้งหมดยกเว้นหนึ่งตัวอย่าง
+  แล้วทดสอบกับตัวอย่างที่ถูกเก็บไว้เพียงตัวเดียว ทำซ้ำสำหรับทุกจุดข้อมูล
 ---
-
 ## Definition
 
 การตรวจสอบความถูกต้องข้ามแบบปล่อยหนึ่งออก (LOOCV) เป็นกรณีเฉพาะของการตรวจสอบความถูกต้องข้ามแบบ k-fold โดยที่ k มีค่าเท่ากับจำนวนตัวอย่างในชุดข้อมูล วิธีนี้ให้การประมาณประสิทธิภาพของโมเดลที่เกือบจะเป็นอสมมาตร (unbiased) อย่างมีนัยสำคัญ

@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /ro/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:13:21.747413Z"
 lastmod: "2026-07-18T17:15:09.685390Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O inițiativă care utilizează inteligența artificială și datele satelitare pentru a monitoriza și prezice modelele globale ale calității aerului."
 ---
-
 ## Definition
 
 Acest proiect valorifică datele de observație a Pământului ale NASA combinate cu algoritmi avansați de IA pentru a urmări particulele în suspensie și poluanții gazosi la nivel global. Prin integrarea imaginilor satelitare cu măsurători de la sol

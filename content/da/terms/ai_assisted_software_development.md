@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /da/terms/ai_assisted_software_development/
 date: "2026-07-18T15:39:39.718692Z"
 lastmod: "2026-07-18T17:15:09.254711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brugen af AI-værktøjer til at øge produktiviteten i kodning, fejlsøgning, test og designprocesser."
 ---
-
 ## Definition
 
 AI-assisteret softwareudvikling indebærer udnyttelse af maskinlæringsmodeller til at støtte udviklere i skrivning af kode, identificering af fejl, generering af tester og optimering af ydeevne. Værktøjer som GitHub Copilot er eksempler herpå.

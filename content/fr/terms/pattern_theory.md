@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /fr/terms/pattern_theory/
 date: "2026-07-18T11:32:52.332980Z"
 lastmod: "2026-07-18T11:44:45.310670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre mathématique pour décrire des structures complexes en analysant les motifs au sein d'espaces de données."
 ---
-
 ## Definition
 
 La théorie des motifs fournit un fondement mathématique rigoureux pour comprendre comment des objets et des phénomènes complexes peuvent être décrits à travers des motifs. Elle postule que tout objet peut être caractérisé par ses

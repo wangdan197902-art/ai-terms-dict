@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /id/terms/cognitive_philology/
 date: "2026-07-18T15:42:21.892624Z"
 lastmod: "2026-07-18T16:38:07.437787Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Filologi kognitif menerapkan metode komputasional dan prinsip-prinsip ilmu kognitif pada studi bahasa, sastra, dan sejarah teks."
 ---
-
 ## Definition
 
 Filologi kognitif adalah bidang interdisipliner yang menggabungkan humaniora digital, linguistik, dan ilmu kognitif untuk menganalisis teks dan evolusi bahasa. Bidang ini memanfaatkan alat komputasional untuk memproses data tekstual dalam skala besar guna menemukan pola linguistik dan historis.

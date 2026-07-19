@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /hu/terms/mlops/
 date: "2026-07-18T16:11:21.052451Z"
 lastmod: "2026-07-18T17:15:09.806753Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MLOps (Machine Learning Operations) olyan gyakorlatok összessége, amelyek egyesítik a gépi tanulást, a DevOps-t és az adategészségügyet a ML-modellek életciklusának automatizálása és hatékonyabbá t"
 ---
-
 ## Definition
 
 Az MLOps lehetővé teszi a szervezetek számára, hogy megbízhatóan és hatékonyan telepítsék és karbantartsák a gépi tanulási modelleket termelési környezetben. Átfogja az adatok és modellek verziókezelését, az automatizált tesztelést, a folyamatos integrációt

@@ -1,23 +1,24 @@
 ---
-title: "Instansbaseret læring"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Instansbaseret læring
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /da/terms/instance_based_learning/
-date: "2026-07-18T16:01:46.184595Z"
-lastmod: "2026-07-18T17:15:09.300029Z"
+slug: instance_based_learning
+date: '2026-07-18T16:01:46.184595Z'
+lastmod: '2026-07-18T17:15:09.300029Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En 'lazy learning'-tilgang, hvor forudsigelser foretages ved at sammenligne nye input med lagrede træningsinstanser."
+source: agnes_llm
+status: published
+language: da
+description: En 'lazy learning'-tilgang, hvor forudsigelser foretages ved at sammenligne
+  nye input med lagrede træningsinstanser.
 ---
-
 ## Definition
 
 Også kendt som hukommelsesbaseret læring, opbygger denne teknik ikke en generaliseret model under træningen. I stedet gemmer den hele træningsdatasættet. Når en forudsigelse er nødvendig, finder den de mest lignende lagrede instanser.

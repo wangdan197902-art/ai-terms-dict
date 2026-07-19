@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /it/terms/information/
 date: "2026-07-18T15:25:55.931637Z"
 lastmod: "2026-07-18T17:15:08.567996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'informazione si riferisce ai dati elaborati che trasmettono significato, riducono l'incertezza o forniscono contesto al destinatario."
 ---
-
 ## Definition
 
 Nel contesto dell'intelligenza artificiale e dell'informatica, l'informazione è distinta dai dati grezzi. Rappresenta dati che sono stati organizzati, strutturati o interpretati per acquisire significato e utilità. L'informazione

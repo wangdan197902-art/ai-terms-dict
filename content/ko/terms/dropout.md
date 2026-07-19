@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /ko/terms/dropout/
 date: "2026-07-18T15:34:04.841976Z"
 lastmod: "2026-07-18T16:38:06.794421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "과적합을 방지하기 위해 학습 중에 무작위로 일부 뉴런을 무시하는 정규화 기법입니다."
 ---
-
 ## Definition
 
 신경망에서 드롭아웃은 각 학습 단계마다 무작위로 선택된 뉴런의 하위 집합을 임시로 제거하여 과적합을 방지합니다. 이는 네트워크가 결합된 상황에서 유용한 견고한 특징을 학습하도록 강제합니다.

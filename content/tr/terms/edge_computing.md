@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /tr/terms/edge_computing/
 date: "2026-07-18T15:50:59.946020Z"
 lastmod: "2026-07-18T16:38:07.303221Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kenar bilişim, merkezi bulut sunucularına tamamen güvenmek yerine, hesaplama ve veri depolamayı veri kaynaklarına yaklaştıran dağıtık bir bilişim paradigmasydır."
 ---
-
 ## Definition
 
 Kenar bilişim, IoT cihazları, sensörler veya yerel ağ geçitleri gibi verinin üretildiği yerde veri işleyerek bulut odaklı mimarilerin gecikme ve bant genişliği sınırlamalarını giderir. Yapay zeka bağlamında, düşük gecikmeli gerçek zamanlı karar vermeyi mümkün kılar.

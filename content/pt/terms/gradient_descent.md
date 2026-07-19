@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /pt/terms/gradient_descent/
 date: "2026-07-18T14:44:21.677018Z"
 lastmod: "2026-07-18T15:51:59.450589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um algoritmo de otimização iterativo usado para minimizar uma função de perda ajustando os parâmetros do modelo."
 ---
-
 ## Definition
 
 A descida do gradiente é um algoritmo de otimização iterativo de primeira ordem para encontrar um mínimo local de uma função diferenciável. No aprendizado de máquina, ele atualiza os pesos do modelo na direção oposta ao...

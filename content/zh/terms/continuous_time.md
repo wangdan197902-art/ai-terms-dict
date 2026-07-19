@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /zh/terms/continuous_time/
 date: "2026-07-18T10:56:05.609589Z"
 lastmod: "2026-07-18T11:44:45.389715Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种建模方法，其中变量在连续域上平滑变化，而非离散步骤。"
 ---
-
 ## Definition
 
 连续时间模型使用微分方程描述系统动态，允许状态随时间平滑演化。在人工智能中，这体现在神经常微分方程（Neural ODEs）等应用中...

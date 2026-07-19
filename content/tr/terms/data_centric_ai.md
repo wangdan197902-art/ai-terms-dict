@@ -1,23 +1,24 @@
 ---
-title: "Veri Odaklı Yapay Zeka"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: Veri Odaklı Yapay Zeka
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /tr/terms/data_centric_ai/
-date: "2026-07-18T15:47:16.832499Z"
-lastmod: "2026-07-18T16:38:07.289746Z"
+slug: data_centric_ai
+date: '2026-07-18T15:47:16.832499Z'
+lastmod: '2026-07-18T16:38:07.289746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Model mimarilerini değiştirmek yerine eğitim verisinin kalitesi ve miktarını iyileştirmeye öncelik veren bir yapay zeka geliştirme yaklaşımı."
+source: agnes_llm
+status: published
+language: tr
+description: Model mimarilerini değiştirmek yerine eğitim verisinin kalitesi ve miktarını
+  iyileştirmeye öncelik veren bir yapay zeka geliştirme yaklaşımı.
 ---
-
 ## Definition
 
 Veri odaklı yapay zeka, yapay zeka geliştirmede bir paradigma değişikliğini temsil eder; algoritmaları veya hiperparametreleri optimize etmek yerine, modelleri eğitmek için kullanılan veriyi sistematik olarak iyileştirmeye odaklanır. Bu yaklaşım, daha iyi veri setlerinin daha karmaşık modellerden daha fazla fayda sağladığını savunur.

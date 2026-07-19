@@ -1,23 +1,23 @@
 ---
-title: "Thay vào đó / Thay vì"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Thay vào đó / Thay vì
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /vi/terms/rather/
-date: "2026-07-18T15:28:29.211629Z"
-lastmod: "2026-07-18T16:38:07.693226Z"
+slug: rather
+date: '2026-07-18T15:28:29.211629Z'
+lastmod: '2026-07-18T16:38:07.693226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trong ngữ cảnh AI, 'rather' không phải là thuật ngữ kỹ thuật mà thường xuất hiện trong các câu lệnh (prompt) để chỉ định sở thích hoặc sửa lỗi."
+source: agnes_llm
+status: published
+language: vi
+description: Trong ngữ cảnh AI, 'rather' không phải là thuật ngữ kỹ thuật mà thường
+  xuất hiện trong các câu lệnh (prompt) để chỉ định sở thích hoặc sửa lỗi.
 ---
-
 ## Definition
 
 Thuật ngữ 'Rather' bản thân nó là một trạng từ tiếng Anh tiêu chuẩn chỉ sự ưu tiên hoặc tương phản. Trong lĩnh vực cụ thể của Trí tuệ Nhân tạo và Các Mô hình Ngôn ngữ Lớn (LLM), nó không cấu thành một khái niệm kỹ thuật riêng biệt.

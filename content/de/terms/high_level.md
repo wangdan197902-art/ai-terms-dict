@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /de/terms/high_level/
 date: "2026-07-18T10:55:51.903901Z"
 lastmod: "2026-07-18T11:44:44.889076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf abstrakte Darstellungen oder Programmierschnittstellen, die niedrigere Implementierungsdetails vor dem Benutzer verbergen."
 ---
-
 ## Definition
 
 In der KI bezeichnet 'High-Level' Abstraktionen, die komplexe Prozesse vereinfachen. Hochsprachliche Programmiersprachen (wie Python) oder APIs ermöglichen es Entwicklern, Modelle zu erstellen, ohne sich um Speichermanagement oder Hardwaredetails kümmern zu müssen. Dies erhöht die Produktivität und senkt die Einstiegshürde für die KI-Entwicklung.

@@ -1,23 +1,23 @@
 ---
-title: "Thay vì"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Thay vì
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /vi/terms/instead/
-date: "2026-07-18T15:26:22.522677Z"
-lastmod: "2026-07-18T16:38:07.687843Z"
+slug: instead
+date: '2026-07-18T15:26:22.522677Z'
+lastmod: '2026-07-18T16:38:07.687843Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "\"Thay vì\" là một liên từ hoặc trạng từ chỉ sự thay thế, thay thế hoặc hành động lựa chọn khác được thực hiện thay cho một hành động khác."
+source: agnes_llm
+status: published
+language: vi
+description: '"Thay vì" là một liên từ hoặc trạng từ chỉ sự thay thế, thay thế hoặc
+  hành động lựa chọn khác được thực hiện thay cho một hành động khác.'
 ---
-
 ## Definition
 
 Mặc dù không phải là thuật toán kỹ thuật AI, 'thay vì' rất quan trọng trong kỹ thuật prompt và hiểu ngôn ngữ tự nhiên. Nó báo hiệu mối quan hệ tương phản hoặc thay thế giữa các mệnh đề. Trong huấn luyện LLM

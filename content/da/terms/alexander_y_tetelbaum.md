@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /da/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:40:37.831732Z"
 lastmod: "2026-07-18T17:15:09.257218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Alexander Y. Tetelbaum er en anerkendt forsker og bidragsyder inden for feltet kunstig intelligens og maskinlæring."
 ---
-
 ## Definition
 
 Alexander Y. Tetelbaum er en person, der er anerkendt inden for det akademiske og tekniske miljø for sine bidrag til AI-forskning, især inden for områder vedrørende algoritmes effektivitet og neurale netværk.

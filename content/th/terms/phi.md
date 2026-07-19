@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /th/terms/phi/
 date: "2026-07-18T16:10:49.765996Z"
 lastmod: "2026-07-18T16:38:07.642031Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดโมเดลภาษาขนาดใหญ่ขนาดเล็กแต่มีประสิทธิภาพสูง ซึ่งพัฒนาโดย Microsoft Research โดยเน้นที่ความหนาแน่นของความรู้และความสามารถในการให้เหตุผล"
 ---
-
 ## Definition
 
 ฟาย (Phi) ย่อมาจาก 'Foundation models based on Teaching-Learning Paradigm' เป็นตระกูลของโมเดลภาษาขนาดใหญ่ที่มีขนาดกะทัดรัดซึ่งสร้างโดย Microsoft ต่างจากโมเดลภาษาขนาดใหญ่แบบดั้งเดิมที่ฝึกฝนด้วยข้อมูลมหาศาลจากเว็บ ฟายมุ่งเน้นไปที่ข้อมูลคุณภาพสูงที่สังเคราะห์ขึ้นเพื่อเพิ่มประสิทธิภาพ

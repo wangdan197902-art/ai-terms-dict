@@ -1,23 +1,24 @@
 ---
-title: "Inpainting Audio"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Inpainting Audio
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /id/terms/audio_inpainting/
-date: "2026-07-18T15:39:49.348011Z"
-lastmod: "2026-07-18T16:38:07.430170Z"
+slug: audio_inpainting
+date: '2026-07-18T15:39:49.348011Z'
+lastmod: '2026-07-18T16:38:07.430170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses rekonstruksi segmen audio yang hilang atau rusak berdasarkan konteks di sekitarnya."
+source: agnes_llm
+status: published
+language: id
+description: Proses rekonstruksi segmen audio yang hilang atau rusak berdasarkan konteks
+  di sekitarnya.
 ---
-
 ## Definition
 
 Inpainting audio adalah teknik yang digunakan untuk mengisi celah dalam rekaman audio yang disebabkan oleh gangguan, kebisingan, atau penyamaran yang disengaja. Menggunakan model generatif, sistem memprediksi konten yang paling mungkin untuk bagian yang hilang, sehingga menghasilkan audio yang mulus dan koheren.

@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /cs/terms/ai_washing/
 date: "2026-07-18T15:40:17.944907Z"
 lastmod: "2026-07-18T17:15:09.097759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Praxe přehánění nebo falešného tvrzení, že produkty nebo služby využívají umělou inteligenci za účelem marketingu."
 ---
-
 ## Definition
 
 AI washing je termín analogický k greenwashingu, popisující klamavou marketingovou strategii, kdy firmy tvrdí, že jejich produkty obsahují pokročilou AI, zatímco ve skutečnosti spoléhají na jednoduchá pravidlová řešení.

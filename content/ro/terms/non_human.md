@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /ro/terms/non_human/
 date: "2026-07-18T16:13:49.755112Z"
 lastmod: "2026-07-18T17:15:09.686934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În etica și sociologia IA, „non-uman” se referă la entități sau sisteme artificiale care posedă agenție, inteligență sau prezență socială, dar care nu au conștiință biologică sau identitate umană."
 ---
-
 ## Definition
 
 Acest termen este adesea utilizat în discuțiile privind drepturile, responsabilitățile și integrarea socială a agenților IA, roboților și asistenților virtuali. Subliniază distincția dintre umanul biologic...

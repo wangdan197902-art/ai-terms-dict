@@ -1,23 +1,23 @@
 ---
-title: "Λογική Περιγραφής"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Λογική Περιγραφής
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /el/terms/description_logic/
-date: "2026-07-18T16:02:25.191531Z"
-lastmod: "2026-07-18T17:15:09.900528Z"
+slug: description_logic
+date: '2026-07-18T16:02:25.191531Z'
+lastmod: '2026-07-18T17:15:09.900528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια οικογένεια τυπικών γλωσσών αναπαράστασης γνώσης που χρησιμοποιούνται για την αναπαράσταση και τον συλλογισμό σχετικά με την εννοιολογική δομή πεδίων."
+source: agnes_llm
+status: published
+language: el
+description: Μια οικογένεια τυπικών γλωσσών αναπαράστασης γνώσης που χρησιμοποιούνται
+  για την αναπαράσταση και τον συλλογισμό σχετικά με την εννοιολογική δομή πεδίων.
 ---
-
 ## Definition
 
 Οι Λογικές Περιγραφής (DL) είναι αποφασίσιμα τμήματα της λογικής πρώτης τάξης που αποτελούν τη θεωρητική βάση για τις οντολογία, ιδιαίτερα για τη Γλώσσα Οντολογίας Web (OWL). Επιτρέπουν τον ακριβή ορισμό και τον συλλογισμό εννοιών και σχέσεων.

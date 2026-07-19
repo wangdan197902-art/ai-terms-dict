@@ -1,23 +1,24 @@
 ---
-title: "affiné"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: affiné
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /fr/terms/fine_tuned/
-date: "2026-07-18T10:56:51.491851Z"
-lastmod: "2026-07-18T11:44:45.177833Z"
+slug: fine_tuned
+date: '2026-07-18T10:56:51.491851Z'
+lastmod: '2026-07-18T11:44:45.177833Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus d'entraînement supplémentaire d'un modèle pré-entraîné sur un ensemble de données spécifique pour l'adapter à une tâche descendante particulière."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus d'entraînement supplémentaire d'un modèle pré-entraîné sur
+  un ensemble de données spécifique pour l'adapter à une tâche descendante particulière.
 ---
-
 ## Definition
 
 L'affinage consiste à prendre un modèle déjà entraîné sur un grand ensemble de données général et à poursuivre son entraînement sur un ensemble de données plus petit et spécifique à la tâche. Cette technique exploite les caractéristiques générales

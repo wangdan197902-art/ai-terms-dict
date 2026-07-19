@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /zh/terms/asr_complete/
 date: "2026-07-18T11:04:01.480498Z"
 lastmod: "2026-07-18T11:44:45.437317Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "ASR-complete 描述在标准化基准数据集上达到人类水平准确率的语音识别系统。"
 ---
-
 ## Definition
 
 术语“ASR-complete”表示自动语音识别系统在特定且定义明确的任务和数据集上，其性能已达到与人类转录员相当的水平。这是一个重要的里程碑，标志着系统在特定领域内的识别精度已满足实际应用的高标准要求。

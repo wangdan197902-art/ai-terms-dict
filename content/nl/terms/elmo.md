@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /nl/terms/elmo/
 date: "2026-07-18T15:53:20.774947Z"
 lastmod: "2026-07-18T17:15:08.739930Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Embeddings from Language Models, een methode voor diepe gecontextualiseerde woordrepresentaties met behulp van bidirectionele LSTMs."
 ---
-
 ## Definition
 
 ELMo genereert contextgevoelige woordembeddings door invoertekst te verwerken via een bidirectionele LSTM die is getraind op een grote corpus. In tegenstelling tot statische embeddings zoals Word2Vec, vangt ELMo polysemie op door verschillende betekenissen van woorden in verschillende contexten te modelleren.

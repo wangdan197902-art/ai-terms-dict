@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /zh/terms/real_time/
 date: "2026-07-18T10:57:22.743724Z"
 lastmod: "2026-07-18T11:44:45.394697Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "实时处理指系统在接收到输入后，在严格且保证的时间限制内计算并交付结果。"
 ---
-
 ## Definition
 
 在人工智能领域，实时指的是系统以极低的延迟（通常为毫秒级）处理输入并生成输出的能力。这对于那些需要即时响应、延迟不可接受的应用场景至关重要。

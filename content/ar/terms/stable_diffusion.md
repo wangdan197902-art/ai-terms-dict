@@ -1,23 +1,23 @@
 ---
-title: "الانتشار المستقر"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: الانتشار المستقر
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /ar/terms/stable_diffusion/
-date: "2026-07-18T16:22:07.900433Z"
-lastmod: "2026-07-18T17:15:08.550903Z"
+slug: stable_diffusion
+date: '2026-07-18T16:22:07.900433Z'
+lastmod: '2026-07-18T17:15:08.550903Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج انتشار كامن قادر على توليد صور عالية الجودة من أوصاف نصية بكفاءة."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج انتشار كامن قادر على توليد صور عالية الجودة من أوصاف نصية بكفاءة.
 ---
-
 ## Definition
 
 الانتشار المستقر هو نموذج تعلم عميق يولد صوراً مفصلة مشروطة بإدخالات نصية باستخدام عملية انتشار كامن. على عكس نماذج الانتشار التي تعمل في فضاء البكسل مباشرة، يعمل هذا النموذج في فضاء مضغوط منخفض الأبعاد (تمثيلي) باستخدام مشفر تلقائي متغير (VAE). يقلل هذا من المتطلبات الحسابية ويسرع عملية التوليد بشكل كبير، مما يجعله متاحاً للاستخدام على أجهزة استهلاكية أقل قوة مقارنة بنماذج الفضاء الكامل.

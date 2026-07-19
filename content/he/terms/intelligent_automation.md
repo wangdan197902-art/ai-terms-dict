@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /he/terms/intelligent_automation/
 date: "2026-07-18T16:07:08.948747Z"
 lastmod: "2026-07-18T17:15:09.551987Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שילוב של בינה מלאכותית עם אוטומציה תהליכית רובוטית (RPA) לטיפול בתהליכי עסקים מורכבים ולא מבניים."
 ---
-
 ## Definition
 
 אוטומציה חכמה משלבת אוטומציה תהליכית רובוטית (RPA) מסורתית עם טכנולוגיות בינה מלאכותית מתקדמות כמו למידת מכונה ועיבוד שפה טבעית. בעוד ש-RPA מטפל בתהליכים מבוססי כללים ומבניים...

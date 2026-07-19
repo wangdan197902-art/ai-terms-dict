@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /ro/terms/overall/
 date: "2026-07-18T15:28:00.672381Z"
 lastmod: "2026-07-18T17:15:09.600243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "„În ansamblu” se referă la performanța agregată, acuratețea sau impactul unui sistem IA pe toate cazurile de testare sau scenariile operaționale."
 ---
-
 ## Definition
 
 La evaluarea modelelor IA, metricile „globale” oferă o vedere holistică a performanței sistemului, în loc să se concentreze pe componente izolate. Acest lucru include acuratețea generală, precizia medie medie sau totalul erorilor, oferind o imagine de sinteză a eficacității modelului.

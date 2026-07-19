@@ -1,23 +1,24 @@
 ---
-title: "Imatrix"
-term_id: "imatrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "training", "quantization"]
+title: Imatrix
+term_id: imatrix
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- training
+- quantization
 difficulty: 5
 weight: 1
-slug: "imatrix"
-aliases:
-  - /da/terms/imatrix/
-date: "2026-07-18T16:01:05.617840Z"
-lastmod: "2026-07-18T17:15:09.298710Z"
+slug: imatrix
+date: '2026-07-18T16:01:05.617840Z'
+lastmod: '2026-07-18T17:15:09.298710Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En specifik algoritme brugt i træningen af store sprogmodeller til at beregne vigtighedsmatricer for effektiv parameteroptimering."
+source: agnes_llm
+status: published
+language: da
+description: En specifik algoritme brugt i træningen af store sprogmodeller til at
+  beregne vigtighedsmatricer for effektiv parameteroptimering.
 ---
-
 ## Definition
 
 Imatrix, forkortelse for Importance Matrix (Vigtighedsmatrix), er en teknik primært forbundet med træning og kvantisering af LLM'er baseret på GGML. Den beregner andenordens afledede (approksimation af Hessian-matricen) af...

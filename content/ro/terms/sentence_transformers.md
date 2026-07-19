@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /ro/terms/sentence_transformers/
 date: "2026-07-18T16:20:22.535382Z"
 lastmod: "2026-07-18T17:15:09.701472Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Arhitecturi de rețele neuronale concepute specific pentru a genera încorporări vectoriale de dimensiune fixă pentru propoziții text arbitrar."
 ---
-
 ## Definition
 
 Transformatorii de propoziții sunt extensii ale modelelor tradiționale Transformer (cum ar fi BERT), finetunate pentru a produce reprezentări vectoriale dense și semnificative pentru propoziții întregi. Spre deosebire de modelele standard la nivel de token

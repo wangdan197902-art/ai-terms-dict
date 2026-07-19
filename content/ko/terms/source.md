@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /ko/terms/source/
 date: "2026-07-18T15:29:04.033603Z"
 lastmod: "2026-07-18T16:38:06.784394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 개발 및 배포에 사용되는 데이터, 코드 또는 모델의 출처를 지칭함."
 ---
-
 ## Definition
 
 AI 컨텍스트에서 '소스'는 일반적으로 훈련 데이터셋의 근원, 오픈 소스 라이브러리 또는 사전 학습된 모델 가중치의 출처를 나타냅니다. 재현 가능성 확보와 라이선스 준수를 위해 소스를 추적하고 관리하는 것은 매우 중요합니다.

@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /zh/terms/recursive_self_improvement/
 date: "2026-07-18T11:32:02.609227Z"
 lastmod: "2026-07-18T11:44:45.549894Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种AI系统通过自我修改迭代增强自身智能或能力的过程。"
 ---
-
 ## Definition
 
 递归自我改进是指人工智能系统理论上能够重写自身的源代码或架构，从而变得更聪明、更高效或具备更强能力的特性。

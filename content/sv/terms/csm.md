@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /sv/terms/csm/
 date: "2026-07-18T15:51:06.383445Z"
 lastmod: "2026-07-18T17:15:08.988927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En tvetydig akronym som vanligtvis syftar på Kontextuella Talmodeller eller Moln säkerhetshantering inom specifika tekniska domäner, utan universell standarddefinition inom allmän AI."
 ---
-
 ## Definition
 
 Inom AI och teknik är 'CSM' inte en universellt standardiserad term som t.ex. 'CNN' eller 'RNN'. Det står oftast för Kontextuella Talmodeller inom talbearbetningsforskning, men kan även syfta på Molnsäkerhetsförvaltning inom IT-infrastruktur.

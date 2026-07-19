@@ -7,8 +7,6 @@ tags: ["theory", "creativity"]
 difficulty: 4
 weight: 1
 slug: "ideonomy"
-aliases:
-  - /fi/terms/ideonomy/
 date: "2026-07-18T16:02:46.657192Z"
 lastmod: "2026-07-18T17:15:09.421057Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ideonomia on ideoiden luomisen tiede, joka keskittyy systemaattisiin menetelmiin uusien käsitteiden ja innovaatioiden luomiseen ja järjestämiseen."
 ---
-
 ## Definition
 
 Tällä alalla tutkitaan prosesseja, joiden kautta ideat syntyvät, yhdistyvät ja kehittyvät. Siinä sovelletaan rakenteellisia tekniikoita luovuuden ja ongelm ratkaisukykyjen parantamiseksi. Tekoälyn kontekstissa ideonomia voi liittyä automaattiseen ideointiin.

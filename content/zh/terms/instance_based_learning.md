@@ -1,23 +1,23 @@
 ---
-title: "基于实例的学习"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: 基于实例的学习
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /zh/terms/instance_based_learning/
-date: "2026-07-18T11:22:25.518478Z"
-lastmod: "2026-07-18T11:44:45.518222Z"
+slug: instance_based_learning
+date: '2026-07-18T11:22:25.518478Z'
+lastmod: '2026-07-18T11:44:45.518222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种惰性学习方法，通过将新输入与存储的训练实例进行比较来进行预测。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种惰性学习方法，通过将新输入与存储的训练实例进行比较来进行预测。
 ---
-
 ## Definition
 
 也称为基于记忆的学习，该技术不在训练期间构建泛化模型。相反，它存储整个训练数据集。当需要预测时，它会找到最相似的。

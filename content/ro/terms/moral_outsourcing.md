@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /ro/terms/moral_outsourcing/
 date: "2026-07-18T16:12:29.020272Z"
 lastmod: "2026-07-18T17:15:09.683211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Îngrijorarea etică prin care indivizii sau organizațiile delegă responsabilitățile de luare a deciziilor morale către sistemele AI automate."
 ---
-
 ## Definition
 
 Externalizarea morală se referă la fenomenul în care oamenii cedă judecata și responsabilitatea etică algoritmilor sau sistemelor AI. Acest lucru apare atunci când oamenii se bazează pe decizii automate pentru aspecte moral semnificativ

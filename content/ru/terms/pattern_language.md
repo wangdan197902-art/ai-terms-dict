@@ -1,23 +1,25 @@
 ---
-title: "Язык паттернов"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: Язык паттернов
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /ru/terms/pattern_language/
-date: "2026-07-18T16:09:32.793594Z"
-lastmod: "2026-07-18T16:38:07.190256Z"
+slug: pattern_language
+date: '2026-07-18T16:09:32.793594Z'
+lastmod: '2026-07-18T16:38:07.190256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Структурированная коллекция взаимосвязанных решений для проектирования, направленных на решение повторяющихся проблем в архитектуре программного обеспечения или систем."
+source: agnes_llm
+status: published
+language: ru
+description: Структурированная коллекция взаимосвязанных решений для проектирования,
+  направленных на решение повторяющихся проблем в архитектуре программного обеспечения
+  или систем.
 ---
-
 ## Definition
 
 Язык паттернов — это формализованная структура, состоящая из набора проверенных решений общих проблем, возникающих при проектировании, особенно в программной инженерии и градостроительстве. Каждый паттерн описывает проблему, контекст ее возникновения и общее ядро решения, позволяя архитекторам комбинировать их для создания сложных систем.

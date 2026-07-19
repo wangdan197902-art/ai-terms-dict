@@ -1,23 +1,25 @@
 ---
-title: "Geometriai jellemzőtanulás"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Geometriai jellemzőtanulás
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /hu/terms/geometric_feature_learning/
-date: "2026-07-18T16:01:23.095542Z"
-lastmod: "2026-07-18T17:15:09.788563Z"
+slug: geometric_feature_learning
+date: '2026-07-18T16:01:23.095542Z'
+lastmod: '2026-07-18T17:15:09.788563Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A mélytanulás egy technikája, amely specializált neurális hálózatok segítségével von le jellemzőket olyan, rejtett geometriai szerkezetekkel rendelkező adatokból, mint például gráfok vagy sokaságok."
+source: agnes_llm
+status: published
+language: hu
+description: A mélytanulás egy technikája, amely specializált neurális hálózatok segítségével
+  von le jellemzőket olyan, rejtett geometriai szerkezetekkel rendelkező adatokból,
+  mint például gráfok vagy sokaságok.
 ---
-
 ## Definition
 
 A geometriai jellemzőtanulás a nem-euklideszi szerkezetekkel rendelkező adatok feldolgozására összpontosít, mint például társadalmi hálózatok, molekuláris gráfok vagy 3D-s hálók. Az ilyen technikák közé tartoznak a Gráf Neurális Hálózatok (GNN) és a...

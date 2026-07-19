@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /vi/terms/lyra/
-date: "2026-07-18T16:01:33.530665Z"
-lastmod: "2026-07-18T16:38:07.778303Z"
+slug: lyra
+date: '2026-07-18T16:01:33.530665Z'
+lastmod: '2026-07-18T16:38:07.778303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Lyra đề cập đến nhiều sáng kiến hoặc mô hình AI khác nhau, nổi bật nhất là một mô hình ngôn ngữ lớn mã nguồn mở hoặc một công cụ tìm kiếm và khám phá thông tin được tăng cường bởi AI nhằm cải thiện kh"
+source: agnes_llm
+status: published
+language: vi
+description: Lyra đề cập đến nhiều sáng kiến hoặc mô hình AI khác nhau, nổi bật nhất
+  là một mô hình ngôn ngữ lớn mã nguồn mở hoặc một công cụ tìm kiếm và khám phá thông
+  tin được tăng cường bởi AI nhằm cải thiện kh
 ---
-
 ## Definition
 
 Trong bối cảnh thuật ngữ AI hiện đại, Lyra thường chỉ các hệ thống AI chuyên biệt tập trung vào việc nâng cao tương tác người dùng thông qua xử lý ngôn ngữ tự nhiên. Nó có thể đề cập đến một mô hình ngôn ngữ lớn (LLM) mã nguồn mở được phát triển để cung cấp khả năng hiểu và tạo văn bản hiệu quả, hoặc một công cụ tìm kiếm thông minh giúp người dùng dễ dàng tiếp cận dữ liệu liên quan hơn.

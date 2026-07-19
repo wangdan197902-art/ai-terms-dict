@@ -1,23 +1,24 @@
 ---
-title: "Patroondetectie"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Patroondetectie
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /nl/terms/pattern_recognition/
-date: "2026-07-18T16:11:43.532272Z"
-lastmod: "2026-07-18T17:15:08.775616Z"
+slug: pattern_recognition
+date: '2026-07-18T16:11:43.532272Z'
+lastmod: '2026-07-18T17:15:08.775616Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De automatische identificatie van regelmatigheid en structuren binnen gegevens met behulp van statistische en machine learning-methoden."
+source: agnes_llm
+status: published
+language: nl
+description: De automatische identificatie van regelmatigheid en structuren binnen
+  gegevens met behulp van statistische en machine learning-methoden.
 ---
-
 ## Definition
 
 Patroondetectie is een tak van kunstmatige intelligentie en statistiek die zich bezighoudt met het identificeren van regelmatigheid in gegevens. Het omvat het indelen van invoergegevens in vooraf gedefinieerde categorieën op basis van kenmerken...

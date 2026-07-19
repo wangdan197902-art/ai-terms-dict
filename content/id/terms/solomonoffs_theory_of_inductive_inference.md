@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /id/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T16:09:06.123632Z"
 lastmod: "2026-07-18T16:38:07.507951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja matematika formal untuk memprediksi pengamatan masa depan berdasarkan data masa lalu menggunakan probabilitas algoritmik."
 ---
-
 ## Definition
 
 Dikembangkan oleh Ray Solomonoff, teori ini menyediakan model universal induksi dengan menetapkan probabilitas pada urutan data berdasarkan kompleksitasnya. Teori ini menyatakan bahwa penjelasan yang lebih sederhana (program komputer yang lebih pendek) memiliki probabilitas prior yang lebih tinggi, sehingga menjadi dasar teoretis untuk prediksi optimal dalam konteks ketidakpastian.

@@ -1,23 +1,23 @@
 ---
-title: "Merket data"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Merket data
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /no/terms/labeled_data/
-date: "2026-07-18T16:02:08.005827Z"
-lastmod: "2026-07-18T16:38:07.017381Z"
+slug: labeled_data
+date: '2026-07-18T16:02:08.005827Z'
+lastmod: '2026-07-18T16:38:07.017381Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Data der det korrekte utdata eller målverdien er oppgitt sammen med inngangsfunksjonene."
+source: agnes_llm
+status: published
+language: 'no'
+description: Data der det korrekte utdata eller målverdien er oppgitt sammen med inngangsfunksjonene.
 ---
-
 ## Definition
 
 Merket data består av inngangseksempler parret med tilsvarende sanntidsmerkelapper, og fungerer som grunnlaget for overvåket maskinlæring. Det lar algoritmer lære kartleggingen mellom inngang

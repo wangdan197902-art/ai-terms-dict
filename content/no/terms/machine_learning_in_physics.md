@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /no/terms/machine_learning_in_physics/
 date: "2026-07-18T16:04:34.587362Z"
 lastmod: "2026-07-18T16:38:07.022239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Anvendelsen av maskinlæring for å løse komplekse fysiske problemer, simulere kvantesystemer og analysere eksperimentelle data fra partikkelakseleratorer."
 ---
-
 ## Definition
 
 Innen fysikk hjelper maskinlæring til med å simulere kvantemekanikk, analysere data fra høyenergikollisjoner og oppdage nye materialer. Det hjelper fysikere med å navigere i høydimensjonale parameterrom og finne mønstre i store datamengder.

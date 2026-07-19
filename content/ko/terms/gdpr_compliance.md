@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /ko/terms/gdpr_compliance/
 date: "2026-07-18T15:56:26.472560Z"
 lastmod: "2026-07-18T16:38:06.842620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "일반 데이터 보호 규정(GDPR)을 준수하여 AI 시스템이 사용자 프라이버시와 데이터 권리를 존중하도록 하는 것."
 ---
-
 ## Definition
 
 GDPR 준수는 유럽 연합(EU) 내 개인의 개인 데이터를 보호하기 위해 AI 개발자가 구현해야 하는 법적 및 기술적 조치를 의미합니다. AI 시스템의 경우 이는 데이터 최소화, 목적 제한, 투명성 등의 원칙을 포함하며, 사용자의 동의 관리, 데이터 접근 및 삭제 권리 보장, 그리고 알고리즘 결정에 대한 설명 가능성을 확보하는 것을 포함합니다.

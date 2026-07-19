@@ -1,23 +1,23 @@
 ---
-title: "Synthetic"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Synthetic
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /id/terms/synthetic/
-date: "2026-07-18T15:30:02.497523Z"
-lastmod: "2026-07-18T16:38:07.404079Z"
+slug: synthetic
+date: '2026-07-18T15:30:02.497523Z'
+lastmod: '2026-07-18T16:38:07.404079Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Synthetic mengacu pada data atau konten yang dihasilkan secara artifisial oleh algoritma, bukan dikumpulkan dari sumber alami."
+source: agnes_llm
+status: published
+language: id
+description: Synthetic mengacu pada data atau konten yang dihasilkan secara artifisial
+  oleh algoritma, bukan dikumpulkan dari sumber alami.
 ---
-
 ## Definition
 
 Dalam AI, data sintetis adalah informasi yang dihasilkan secara artifisial yang meniru data dunia nyata tetapi tidak berisi catatan pribadi atau sensitif yang sebenarnya. Data ini sangat penting untuk melatih model pembelajaran mesin ketika data riil...

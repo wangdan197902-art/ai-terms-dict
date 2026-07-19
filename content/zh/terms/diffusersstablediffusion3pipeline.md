@@ -1,23 +1,24 @@
 ---
-title: "Diffusers:Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: Diffusers:Stablediffusion3Pipeline
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /zh/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T11:15:08.259649Z"
-lastmod: "2026-07-18T11:44:45.489730Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T11:15:08.259649Z'
+lastmod: '2026-07-18T11:44:45.489730Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "实现 Stable Diffusion 3 架构的管道，采用 MMDiT 和 Flow Matching（流匹配）技术，以提升图像质量和文本渲染效果。"
+source: agnes_llm
+status: published
+language: zh
+description: 实现 Stable Diffusion 3 架构的管道，采用 MMDiT 和 Flow Matching（流匹配）技术，以提升图像质量和文本渲染效果。
 ---
-
 ## Definition
 
 该管道利用 Stable Diffusion 3 模型，该模型引入了多模态扩散 Transformer（MMDiT）架构和流匹配训练目标。这些进步显著增强了……

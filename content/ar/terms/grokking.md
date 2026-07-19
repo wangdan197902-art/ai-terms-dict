@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /ar/terms/grokking/
 date: "2026-07-18T16:00:18.958863Z"
 lastmod: "2026-07-18T17:15:08.510519Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ظاهرة تظهر فيها الشبكات العصبية قدرة عامة مفاجئة وجيدة بعد تدريب مطوّل على مجموعات بيانات صغيرة، تتجاوز بكثير نقطة الحفظ عن ظهر قلب."
 ---
-
 ## Definition
 
 يشير مصطلح grokking إلى سلوك غير بديهي يُلاحظ في التعلم العميق، حيث يستمر النموذج في الإفراط في التخصيص (overfitting) لبيانات التدريب لفترة طويلة، مما يظهر ضعفاً في القدرة العامة، قبل أن يحقق فجأة...

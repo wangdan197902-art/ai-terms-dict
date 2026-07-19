@@ -1,23 +1,25 @@
 ---
-title: "Falcon"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: Falcon
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /el/terms/falcon/
-date: "2026-07-18T16:06:59.647669Z"
-lastmod: "2026-07-18T17:15:09.907538Z"
+slug: falcon
+date: '2026-07-18T16:06:59.647669Z'
+lastmod: '2026-07-18T17:15:09.907538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια οικογένεια μεγάλων γλωσσικών μοντέλων (LLMs) που αναπτύχθηκε από το Ινστιτούτο Τεχνολογικής Καινοτομίας, γνωστή για τις υψηλές επιδόσεις και την αποδοτικότητά της σε σύγκριση με άλλα LLMs ανοιχτού"
+source: agnes_llm
+status: published
+language: el
+description: Μια οικογένεια μεγάλων γλωσσικών μοντέλων (LLMs) που αναπτύχθηκε από
+  το Ινστιτούτο Τεχνολογικής Καινοτομίας, γνωστή για τις υψηλές επιδόσεις και την
+  αποδοτικότητά της σε σύγκριση με άλλα LLMs ανοιχτού
 ---
-
 ## Definition
 
 Ο όρος Falcon αναφέρεται σε μια σειρά ισχυρών μεγάλων γλωσσικών μοντέλων (LLMs) που δημιουργήθηκαν από το Ινστιτούτο Τεχνολογικής Καινοτομίας (TII). Αυτά τα μοντέλα, όπως τα Falcon-40B και Falcon-180B, σχεδιάστηκαν για να ανταγωνίζονται τα ιδιόκτητα μοντέλα.

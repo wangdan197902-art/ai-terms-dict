@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /de/terms/moreover/
 date: "2026-07-18T10:52:05.398431Z"
 lastmod: "2026-07-18T11:44:44.878718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Übergangsadverb, das verwendet wird, um zusätzliche Informationen einzuführen oder ein vorheriges Argument zu untermauern."
 ---
-
 ## Definition
 
 Im Kontext von KI-Dokumentationen und technischem Schreiben dient „Darüber hinaus“ als Diskursmarker, der das Hinzufügen unterstützender Beweise oder eines weiteren Punktes signalisiert, der den aktuellen Diskurs stärkt.

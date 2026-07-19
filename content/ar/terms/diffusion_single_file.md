@@ -1,23 +1,25 @@
 ---
-title: "ملف الانتشار الفردي"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: ملف الانتشار الفردي
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /ar/terms/diffusion_single_file/
-date: "2026-07-18T15:54:18.285320Z"
-lastmod: "2026-07-18T17:15:08.498102Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:54:18.285320Z'
+lastmod: '2026-07-18T17:15:08.498102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تنسيق توزيع لنماذج الانتشار حيث يتم تجميع جميع أوزان النموذج، والتكوينات، وأحياناً حتى كود الاستدلال، في ملف واحد لسهولة النقل."
+source: agnes_llm
+status: published
+language: ar
+description: تنسيق توزيع لنماذج الانتشار حيث يتم تجميع جميع أوزان النموذج، والتكوينات،
+  وأحياناً حتى كود الاستدلال، في ملف واحد لسهولة النقل.
 ---
-
 ## Definition
 
 يشير مصطلح 'ملف الانتشار الفردي' إلى استراتيجية تعبئة لنماذج التعلم الآلي، ولا سيما نماذج الانتشار، حيث يتم دمج كامل عنصر النموذج (بما في ذلك الأوزان الثنائية، والمعاملات الفائقة، وهيكل النموذج) في ملف واحد. يهدف هذا التنسيق إلى تبسيط النشر ومشاركة النماذج، مما يلغي الحاجة إلى إدارة ملفات متعددة أو تبعيات معقدة لتشغيل النموذج.

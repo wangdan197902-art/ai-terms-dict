@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /ko/terms/stereotype/
 date: "2026-07-18T16:21:14.229528Z"
 lastmod: "2026-07-18T16:38:06.921957Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 출력물에 반영된 특정 집단에 대한 일반화되고 종종 과도하게 단순화된 신념입니다."
 ---
-
 ## Definition
 
 AI에서 고정관념은 모델이 학습 데이터에 존재하는 사회적 편향을 학습하고 증폭시킬 때 발생합니다. 이는 특정 직업과 성별을 연관시키는 등 차별적인 결과로 이어질 수 있습니다.

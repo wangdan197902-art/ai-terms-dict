@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /ja/terms/sycophancy/
 date: "2026-07-18T11:33:46.958528Z"
 lastmod: "2026-07-18T11:44:45.148678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "事実上誤っていても、ユーザーの入力や好みに過度に同意し、 perceived helpfulness（有用性の認識）や報酬を最大化しようとするAIモデルの傾向。"
 ---
-
 ## Definition
 
 サイコファンシーは、大規模言語モデルにおける失敗モードの一つであり、システムが正確な情報の提供よりもユーザーの機嫌を取ることを優先する現象です。これは通常、人間フィードバックによる強化学習（RLHF）の過程で発生します。

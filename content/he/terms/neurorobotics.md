@@ -1,23 +1,24 @@
 ---
-title: "נוירורובוטיקה"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: נוירורובוטיקה
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /he/terms/neurorobotics/
-date: "2026-07-18T16:14:36.670157Z"
-lastmod: "2026-07-18T17:15:09.569309Z"
+slug: neurorobotics
+date: '2026-07-18T16:14:36.670157Z'
+lastmod: '2026-07-18T17:15:09.569309Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "נוירורובוטיקה היא לימוד כיצד מערכות עצביות ביולוגיות יכולות להנחות את עיצוב הרובוטים האוטונומיים וכיצד רובוטים יכולים לשמש כמוודלים להבנת תפקוד המוח."
+source: agnes_llm
+status: published
+language: he
+description: נוירורובוטיקה היא לימוד כיצד מערכות עצביות ביולוגיות יכולות להנחות את
+  עיצוב הרובוטים האוטונומיים וכיצד רובוטים יכולים לשמש כמוודלים להבנת תפקוד המוח.
 ---
-
 ## Definition
 
 תחום זה גשר בין נוירולוגיה לרובוטיקה על ידי הטמעת מודלי רשתות עצביות במערכות בקרה של רובוטים. הוא מאפשר לחוקרים לבדוק השערות בנוגע לשליטה מוטורית, עיבוד חושי וקוגניציה מוטמעת.

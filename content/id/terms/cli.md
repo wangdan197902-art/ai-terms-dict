@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /id/terms/cli/
 date: "2026-07-18T15:33:49.614417Z"
 lastmod: "2026-07-18T16:38:07.411720Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Antarmuka Baris Perintah adalah metode berbasis teks untuk berinteraksi dengan program perangkat lunak dengan mengetikkan perintah ke dalam terminal."
 ---
-
 ## Definition
 
 Antarmuka Baris Perintah (CLI) memungkinkan pengguna mengendalikan perangkat lunak dengan memasukkan perintah tekstual alih-alih menggunakan elemen grafis. Dalam pengembangan AI, CLI sangat penting untuk menjalankan skrip, mengelola m

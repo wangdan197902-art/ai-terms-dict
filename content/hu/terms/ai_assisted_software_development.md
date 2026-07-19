@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /hu/terms/ai_assisted_software_development/
 date: "2026-07-18T15:41:21.509727Z"
 lastmod: "2026-07-18T17:15:09.749962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI-eszközök használata a kódolási, hibakeresési, tesztelési és tervezési folyamatok hatékonyságának növelése érdekében."
 ---
-
 ## Definition
 
 A MI-alapú szoftverfejlesztés a gépi tanulási modellek kihasználását jelenti a fejlesztők támogatására kódírásban, hibák azonosításában, tesztek generálásában és a teljesítmény optimalizálásában. Ilyen eszközök például a GitHub Copilot.

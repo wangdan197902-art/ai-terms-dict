@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /ar/terms/autognostics/
 date: "2026-07-18T15:46:20.962199Z"
 lastmod: "2026-07-18T17:15:08.478609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "قدرة نظام الذكاء الاصطناعي على تشخيص حالته الداخلية أو مشكلات الأداء أو الأخطاء بنفسه دون تدخل بشري."
 ---
-
 ## Definition
 
 يشير التشخيص الذاتي إلى آليات المراقبة والإصلاح الذاتية المدمجة داخل الأنظمة الذكية. ويتيح لوكلاء الذكاء الاصطناعي اكتشاف الشذوذ وتشخيص الأسباب الجذرية للفشل وإمكانية الإصلاح الذاتي.

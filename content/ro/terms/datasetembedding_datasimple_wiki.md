@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /ro/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:52:22.771600Z"
 lastmod: "2026-07-18T17:15:09.643740Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date curat derivat din Simple English Wikipedia, utilizat pentru antrenarea și evaluarea modelelor de încorporare a textului."
 ---
-
 ## Definition
 
 Acest set de date constă în propoziții și paragrafe extrase din Simple English Wikipedia, o versiune a Wikipediei scrisă pentru vorbitorii non-nativi, cu gramatică și vocabular simplificat. Acesta servește ca

@@ -1,23 +1,24 @@
 ---
-title: "Dataset:Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: Dataset:Code Search Net
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /nl/terms/datasetcode_search_net/
-date: "2026-07-18T15:49:17.478030Z"
-lastmod: "2026-07-18T17:15:08.732483Z"
+slug: datasetcode_search_net
+date: '2026-07-18T15:49:17.478030Z'
+lastmod: '2026-07-18T17:15:08.732483Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een benchmarkdataset ontworpen om codesoeksysteem te evalueren door natuurlijke taalqueries te koppelen aan relevante codefragmenten."
+source: agnes_llm
+status: published
+language: nl
+description: Een benchmarkdataset ontworpen om codesoeksysteem te evalueren door natuurlijke
+  taalqueries te koppelen aan relevante codefragmenten.
 ---
-
 ## Definition
 
 Code Search Net is een uitgebreide dataset die is gemaakt om onderzoek naar codeopzoeking te bevorderen. Het bevat miljoenen paren van natuurlijke taalbeschrijvingen en bijbehorende Java-codefragmenten. Deze data...

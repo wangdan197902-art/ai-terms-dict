@@ -1,23 +1,23 @@
 ---
-title: "生成AI"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: 生成AI
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /ja/terms/generative_ai/
-date: "2026-07-18T11:15:54.166486Z"
-lastmod: "2026-07-18T11:44:45.100772Z"
+slug: generative_ai
+date: '2026-07-18T11:15:54.166486Z'
+lastmod: '2026-07-18T11:44:45.100772Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "生成AIは、学習データからパターンを学習に基づき、テキスト、画像、音声、コードなどの新しいコンテンツを作成できる人工知能の一種です。"
+source: agnes_llm
+status: published
+language: ja
+description: 生成AIは、学習データからパターンを学習に基づき、テキスト、画像、音声、コードなどの新しいコンテンツを作成できる人工知能の一種です。
 ---
-
 ## Definition
 
 大規模言語モデルや拡散モデルを含むこれらのシステムは、既存の情報を単に検索するだけでなく、新規の出力を合成します。トレーニングデータの基礎となる構造やスタイルを学習し、人間のような創造的なタスクを実行します。

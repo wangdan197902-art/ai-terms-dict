@@ -1,23 +1,24 @@
 ---
-title: "هاميلتوني"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: هاميلتوني
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /ar/terms/hamiltonian/
-date: "2026-07-18T15:26:38.823350Z"
-lastmod: "2026-07-18T17:15:08.440590Z"
+slug: hamiltonian
+date: '2026-07-18T15:26:38.823350Z'
+lastmod: '2026-07-18T17:15:08.440590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "دالة تمثل الطاقة الكلية لنظام، تُستخدم في نماذج الذكاء الاصطناعي المستوحاة من الفيزياء لمحاكاة الديناميكيات والحفاظ على الطاقة."
+source: agnes_llm
+status: published
+language: ar
+description: دالة تمثل الطاقة الكلية لنظام، تُستخدم في نماذج الذكاء الاصطناعي المستوحاة
+  من الفيزياء لمحاكاة الديناميكيات والحفاظ على الطاقة.
 ---
-
 ## Definition
 
 نشأ مفهوم الهاميلتوني من الميكانيكا الكلاسيكية، ويمثل مجموع الطاقات الحركية والكامنة في نظام ما. في الذكاء الاصطناعي، تدمج الشبكات العصبية الهاميلتونية هذا المفهوم لتعلم الديناميكيات...

@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /tr/terms/stereotype/
 date: "2026-07-18T16:21:57.826884Z"
 lastmod: "2026-07-18T16:38:07.379523Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka çıktılarında yansıyan, belirli bir insan grubu hakkında genelleştirilmiş ve genellikle aşırı basitleştirilmiş inanç."
 ---
-
 ## Definition
 
 Yapay zekada kalıp yargılar, modeller eğitim verisinde mevcut olan toplumsal önyargıları öğrenip büyüttüğünde ortaya çıkar. Bunlar, belirli meslekleri belirli cinsiyetlerle ilişkilendirme gibi ayrımcı sonuçlara yol açabilir...

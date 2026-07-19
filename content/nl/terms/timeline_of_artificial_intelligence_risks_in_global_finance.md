@@ -1,23 +1,25 @@
 ---
-title: "Tijdlijn van risico's op het gebied van kunstmatige intelligentie in de mondiale financiën"
-term_id: "timeline_of_artificial_intelligence_risks_in_global_finance"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "risk_management", "history"]
+title: Tijdlijn van risico's op het gebied van kunstmatige intelligentie in de mondiale
+  financiën
+term_id: timeline_of_artificial_intelligence_risks_in_global_finance
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Risk Management
+- history
 difficulty: 4
 weight: 1
-slug: "timeline_of_artificial_intelligence_risks_in_global_finance"
-aliases:
-  - /nl/terms/timeline_of_artificial_intelligence_risks_in_global_finance/
-date: "2026-07-18T16:20:41.490492Z"
-lastmod: "2026-07-18T17:15:08.794571Z"
+slug: timeline_of_artificial_intelligence_risks_in_global_finance
+date: '2026-07-18T16:20:41.490492Z'
+lastmod: '2026-07-18T17:15:08.794571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een chronologisch kader dat de opkomst, escalatie en mitigatie van systeemrisico's gerelateerd aan AI binnen internationale financiële markten volgt."
+source: agnes_llm
+status: published
+language: nl
+description: Een chronologisch kader dat de opkomst, escalatie en mitigatie van systeemrisico's
+  gerelateerd aan AI binnen internationale financiële markten volgt.
 ---
-
 ## Definition
 
 Dit concept verwijst naar de historische en geprojecteerde opeenvolging van gebeurtenissen waarbij technologieën voor kunstmatige intelligentie kwetsbaarheden introduceren in globale financiële systemen. Het omvat vroege algoritmische fouten, marktreacties en de daaropvolgende regelgevende respons.

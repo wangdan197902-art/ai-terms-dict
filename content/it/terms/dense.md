@@ -1,23 +1,23 @@
 ---
-title: "Dense"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dense
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /it/terms/dense/
-date: "2026-07-18T15:56:22.399525Z"
-lastmod: "2026-07-18T17:15:08.618060Z"
+slug: dense
+date: '2026-07-18T15:56:22.399525Z'
+lastmod: '2026-07-18T17:15:08.618060Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Uno strato o tensore in cui ogni elemento è connesso a ogni elemento dello strato o della dimensione precedente."
+source: agnes_llm
+status: published
+language: it
+description: Uno strato o tensore in cui ogni elemento è connesso a ogni elemento
+  dello strato o della dimensione precedente.
 ---
-
 ## Definition
 
 Nelle reti neurali, 'dense' si riferisce agli strati completamente connessi in cui ogni neurone riceve l'input da tutti i neuroni dello strato precedente. Questo contrasta con le connessioni sparse tipiche delle reti convoluzionali o...

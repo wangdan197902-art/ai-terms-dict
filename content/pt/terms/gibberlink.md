@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /pt/terms/gibberlink/
 date: "2026-07-18T15:01:52.702217Z"
 lastmod: "2026-07-18T15:51:59.494593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Gibberlink não é um termo padrão reconhecido na literatura de inteligência artificial."
 ---
-
 ## Definition
 
 Não há conceito, tecnologia ou metodologia estabelecida conhecida como 'Gibberlink' dentro do campo da inteligência artificial, aprendizado de máquina ou ciência da computação. Pode ser um erro de digitação, uma ficção

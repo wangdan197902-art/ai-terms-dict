@@ -1,23 +1,25 @@
 ---
-title: "Силовое управление"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Силовое управление
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /ru/terms/force_control/
-date: "2026-07-18T15:53:52.322833Z"
-lastmod: "2026-07-18T16:38:07.158392Z"
+slug: force_control
+date: '2026-07-18T15:53:52.322833Z'
+lastmod: '2026-07-18T16:38:07.158392Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Силовое управление — это робототехническая техника, регулирующая силы взаимодействия между рабочим органом робота и окружающей средой при выполнении физических задач."
+source: agnes_llm
+status: published
+language: ru
+description: Силовое управление — это робототехническая техника, регулирующая силы
+  взаимодействия между рабочим органом робота и окружающей средой при выполнении физических
+  задач.
 ---
-
 ## Definition
 
 Силовое управление позволяет роботам выполнять деликатные операции, такие как сборка, полировка или захват хрупких объектов, за счет активного управления контактной силой, а не только позицией. В отличие от чистого позиционного

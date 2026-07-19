@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /zh/terms/artificial_intimacy/
 date: "2026-07-18T11:06:59.857933Z"
 lastmod: "2026-07-18T11:44:45.445763Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "用户与模拟同理心、陪伴和个人互动的AI实体之间形成的情感联系。"
 ---
-
 ## Definition
 
 人工亲密关系是指人类与聊天机器人、虚拟助手或社交机器人等人工代理之间产生真实情感纽带的心理现象。这些系统被...

@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /th/terms/gated_recurrent_unit/
 date: "2026-07-18T15:55:40.495023Z"
 lastmod: "2026-07-18T16:38:07.608700Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "สถาปัตยกรรมเครือข่ายประสาทเทียมรีเคอร์เรนต์ประเภทหนึ่งที่ใช้กลไกเกตเพื่อควบคุมการไหลของข้อมูล ซึ่งเป็นทางเลือกที่เรียบง่ายกว่า LSTM"
 ---
-
 ## Definition
 
 หน่วยรีเคอร์เรนต์แบบเกต (GRU) เป็นเซลล์เครือข่ายประสาทเทียมรีเคอร์เรนต์ (RNN) พิเศษที่ออกแบบมาเพื่อจับการพึ่งพาระยะยาวในข้อมูลลำดับ มันทำให้สถาปัตยกรรม Long Short-Term Memory (LSTM) เรียบง่ายขึ้นโดยลดจำนวนพารามิเตอร์และเพิ่มความรวดเร็วในการฝึกฝน

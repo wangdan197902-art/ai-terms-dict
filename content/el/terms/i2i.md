@@ -1,23 +1,24 @@
 ---
-title: "Μετατροπή Εικόνας σε Εικόνα (I2I)"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: Μετατροπή Εικόνας σε Εικόνα (I2I)
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /el/terms/i2i/
-date: "2026-07-18T16:13:43.279408Z"
-lastmod: "2026-07-18T17:15:09.918663Z"
+slug: i2i
+date: '2026-07-18T16:13:43.279408Z'
+lastmod: '2026-07-18T17:15:09.918663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η μετατροπή εικόνας σε εικόνα είναι μια τεχνική όρασης υπολογιστή που μετατρέπει μια εισερχόμενη εικόνα σε αντίστοιχη εξερχόμενη, διατηρώντας το σημασιολογικό περιεχόμενο."
+source: agnes_llm
+status: published
+language: el
+description: Η μετατροπή εικόνας σε εικόνα είναι μια τεχνική όρασης υπολογιστή που
+  μετατρέπει μια εισερχόμενη εικόνα σε αντίστοιχη εξερχόμενη, διατηρώντας το σημασιολογικό
+  περιεχόμενο.
 ---
-
 ## Definition
 
 Η μετατροπή εικόνας σε εικόνα (I2I) περιλαμβάνει την χαρτογράφηση των pixel από μια πηγαία περιοχή σε μια στόχευση περιοχή, χρησιμοποιώντας μοντέλα βαθιάς μάθησης, όπως τα Γενετικά Ανταγωνιστικά Δίκτυα (GANs) ή τα μοντέλα διάχυσης. Επιτρέπει τη μεταφορά στυλ, τη σημασιολογική...

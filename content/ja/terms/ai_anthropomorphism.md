@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /ja/terms/ai_anthropomorphism/
 date: "2026-07-18T11:02:10.055064Z"
 lastmod: "2026-07-18T11:44:45.060670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間がAIシステムに人間らしい特徴、感情、または意図を帰属させる傾向。"
 ---
-
 ## Definition
 
 AIの擬人化とは、ユーザーがチャットボットやロボットなどの非人間エンティティに対して人間の特性を投影する心理的現象を指します。これにより、AIの能力や振る舞いに対する非現実的な期待が生じることがあります。

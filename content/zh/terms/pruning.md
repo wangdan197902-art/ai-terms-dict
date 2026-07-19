@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /zh/terms/pruning/
 date: "2026-07-18T11:30:52.811079Z"
 lastmod: "2026-07-18T11:44:45.546614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种模型压缩技术，通过移除冗余或重要性较低的参数来减小模型体积并提高推理速度。"
 ---
-
 ## Definition
 
 剪枝涉及识别并消除神经网络中对输出准确率贡献最小的神经元、连接或滤波器。通过移除这些冗余元素，模型变得更加紧凑，从而降低存储需求和计算开销，同时尽量保持原有的模型性能。

@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /it/terms/grammar_systems_theory/
 date: "2026-07-18T16:02:13.986953Z"
 lastmod: "2026-07-18T17:15:08.631093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La teoria dei sistemi grammaticali è un ramo della teoria dei linguaggi formali che studia modelli computazionali basati su grammatiche che interagiscono in ambienti paralleli o distribuiti."
 ---
-
 ## Definition
 
 Originaria dell'informatica teorica e della linguistica, questo campo estende i concetti classici della gerarchia di Chomsky a sistemi multi-componente. Indaga come più grammatiche o componenti i

@@ -1,23 +1,23 @@
 ---
-title: "순방향 신경망"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: 순방향 신경망
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /ko/terms/feed_forward_network/
-date: "2026-07-18T15:55:47.592298Z"
-lastmod: "2026-07-18T16:38:06.840557Z"
+slug: feed_forward_network
+date: '2026-07-18T15:55:47.592298Z'
+lastmod: '2026-07-18T16:38:06.840557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "노드 간 연결이 사이클을 형성하지 않고 정보를 한 방향으로 전달하는 인공 신경망의 한 클래스입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 노드 간 연결이 사이클을 형성하지 않고 정보를 한 방향으로 전달하는 인공 신경망의 한 클래스입니다.
 ---
-
 ## Definition
 
 순방향 신경망(FFN)은 다층 퍼셉트론(MLP)이라고도 하며, 피드백 루프 없이 입력에서 출력까지 뉴런 레이어를 통해 데이터를 순차적으로 처리합니다. 각 뉴런은 입력을 받아 가중합을 계산합니다.

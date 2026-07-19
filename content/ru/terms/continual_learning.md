@@ -1,23 +1,24 @@
 ---
-title: "Непрерывное обучение"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Непрерывное обучение
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /ru/terms/continual_learning/
-date: "2026-07-18T15:46:31.517639Z"
-lastmod: "2026-07-18T16:38:07.134542Z"
+slug: continual_learning
+date: '2026-07-18T15:46:31.517639Z'
+lastmod: '2026-07-18T16:38:07.134542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма машинного обучения, при которой модели учатся последовательно на новых данных, не забывая предыдущие знания."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма машинного обучения, при которой модели учатся последовательно
+  на новых данных, не забывая предыдущие знания.
 ---
-
 ## Definition
 
 Непрерывное обучение, также известное как обучение на протяжении всей жизни, позволяет нейронным сетям приобретать новые навыки или информацию с течением времени, сохраняя ранее изученные возможности. Это решает проблему «катастрофического забывания», когда модель забывает старые задачи при обучении новым.

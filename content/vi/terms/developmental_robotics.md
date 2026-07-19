@@ -1,23 +1,23 @@
 ---
-title: "Robot học phát triển (Developmental Robotics)"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Robot học phát triển (Developmental Robotics)
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /vi/terms/developmental_robotics/
-date: "2026-07-18T15:49:14.511998Z"
-lastmod: "2026-07-18T16:38:07.748704Z"
+slug: developmental_robotics
+date: '2026-07-18T15:49:14.511998Z'
+lastmod: '2026-07-18T16:38:07.748704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lĩnh vực liên ngành nghiên cứu cách robot có thể thu nhận các kỹ năng phức tạp thông qua tương tác với môi trường và người chăm sóc."
+source: agnes_llm
+status: published
+language: vi
+description: Một lĩnh vực liên ngành nghiên cứu cách robot có thể thu nhận các kỹ
+  năng phức tạp thông qua tương tác với môi trường và người chăm sóc.
 ---
-
 ## Definition
 
 Robot học phát triển lấy cảm hứng từ sự phát triển nhận thức của con người để tạo ra các robot có khả năng học hỏi tự chủ theo thời gian. Thay vì lập trình sẵn tất cả các hành vi, các hệ thống này sử dụng các cơ chế như...

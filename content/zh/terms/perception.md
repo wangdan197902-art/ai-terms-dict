@@ -1,23 +1,22 @@
 ---
-title: "感知"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: 感知
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /zh/terms/perception/
-date: "2026-07-18T10:53:38.815345Z"
-lastmod: "2026-07-18T11:44:45.380828Z"
+slug: perception
+date: '2026-07-18T10:53:38.815345Z'
+lastmod: '2026-07-18T11:44:45.380828Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "感知是 AI 系统解释图像或音频等感官输入数据以理解其环境的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 感知是 AI 系统解释图像或音频等感官输入数据以理解其环境的过程。
 ---
-
 ## Definition
 
 AI 感知涉及将原始传感器数据转换为可由更高层推理模块处理的意义信息。这包括用于解释视觉场景的计算机视觉、用于处理声音的语音识别以及用于理解文本的自然语言处理。

@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /ja/terms/ai_warfare/
 date: "2026-07-18T11:02:35.667045Z"
 lastmod: "2026-07-18T11:44:45.062176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能技術を軍事作戦、監視、自律型兵器システムに応用すること。"
 ---
-
 ## Definition
 
 AI戦争とは、自律型ドローン、予測可能な物流、サイバー防衛、指揮官向けの意思決定支援システムなど、軍事戦略への人工知能の統合を指します。

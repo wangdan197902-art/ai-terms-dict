@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /fi/terms/dynamic/
 date: "2026-07-18T15:24:50.464566Z"
 lastmod: "2026-07-18T17:15:09.348879Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Dynaaminen viittaa tekoälyjärjestelmiin tai laskentagraafeihin, jotka mukauttavat rakennettaan, käyttäytymistään tai suorituskulkuaan reaaliajassa syötedatan tai ympäristön muutosten perusteella."
 ---
-
 ## Definition
 
 Toisin kuin staattiset järjestelmät, joilla on kiinteät arkkitehtuurit tai ennalta määrätyt suorituskulut, dynaamiset tekoälyjärjestelmät voivat muuttaa operaatioitaan ajon aikana. Syväoppimisessa dynaamiset laskentagraafit mahdollistavat verkon rakenteen muuttamisen eri syötteille ilman uudelleenkoulutusta.

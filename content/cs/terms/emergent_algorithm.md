@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /cs/terms/emergent_algorithm/
 date: "2026-07-18T15:55:49.752000Z"
 lastmod: "2026-07-18T17:15:09.126017Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Algoritmické chování, které vzniká spontánně z interakce jednoduchých komponent bez explicitního naprogramování."
 ---
-
 ## Definition
 
 Emergentní algoritmy se vztahují ke komplexním globálním chováním nebo vzorcům, které vznikají z lokálních interakcí mnoha jednoduchých agentů nebo pravidel uvnitř systému. Na rozdíl od tradičního programování shora dolů, kde jsou...

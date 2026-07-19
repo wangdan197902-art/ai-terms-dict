@@ -1,23 +1,23 @@
 ---
-title: "Invece"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Invece
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /it/terms/instead/
-date: "2026-07-18T15:25:55.931652Z"
-lastmod: "2026-07-18T17:15:08.568100Z"
+slug: instead
+date: '2026-07-18T15:25:55.931652Z'
+lastmod: '2026-07-18T17:15:08.568100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Invece è una congiunzione o avverbio linguistico che indica sostituzione, rimpiazzo o un'azione alternativa intrapresa al posto di un'altra."
+source: agnes_llm
+status: published
+language: it
+description: Invece è una congiunzione o avverbio linguistico che indica sostituzione,
+  rimpiazzo o un'azione alternativa intrapresa al posto di un'altra.
 ---
-
 ## Definition
 
 Sebbene non sia un termine algoritmico tecnico dell'IA, 'invece' è cruciale nell'ingegneria dei prompt e nella comprensione del linguaggio naturale. Segnala una relazione di contrasto o sostituzione tra proposizioni. Nell'addestramento dei LLM

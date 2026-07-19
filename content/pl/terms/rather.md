@@ -1,23 +1,24 @@
 ---
-title: "Raczej"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Raczej
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /pl/terms/rather/
-date: "2026-07-18T15:28:59.352667Z"
-lastmod: "2026-07-18T17:15:08.819011Z"
+slug: rather
+date: '2026-07-18T15:28:59.352667Z'
+lastmod: '2026-07-18T17:15:08.819011Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "W kontekście sztucznej inteligencji „raczej” nie jest terminem technicznym, ale często pojawia się w poleceniach (promptach) w celu określenia preferencji lub korekty."
+source: agnes_llm
+status: published
+language: pl
+description: W kontekście sztucznej inteligencji „raczej” nie jest terminem technicznym,
+  ale często pojawia się w poleceniach (promptach) w celu określenia preferencji lub
+  korekty.
 ---
-
 ## Definition
 
 Sam termin „Raczej” (Rather) to standardowy przysłówek angielski wskazujący na preferencję lub kontrast. W specyficznym obszarze sztucznej inteligencji i dużych modeli językowych nie stanowi odrębnego

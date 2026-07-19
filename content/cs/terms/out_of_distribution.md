@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /cs/terms/out_of_distribution/
 date: "2026-07-18T15:33:13.544066Z"
 lastmod: "2026-07-18T17:15:09.085400Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Datové body, které se významně liší od rozdělení viděného během fáze tréninku modelu."
 ---
-
 ## Definition
 
 Detekce out-of-distribution (OOD) identifikuje vstupy, které spadají mimo rozsah rozdělení tréninkových dat. Modely často selhávají nebo poskytují nesprávné odpovědi s vysokou jistotou na OOD datech, což vede k neusp

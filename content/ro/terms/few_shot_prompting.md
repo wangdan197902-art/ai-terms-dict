@@ -1,23 +1,25 @@
 ---
-title: "Prompting cu Puține Exemple"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Prompting cu Puține Exemple
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /ro/terms/few_shot_prompting/
-date: "2026-07-18T15:35:52.633773Z"
-lastmod: "2026-07-18T17:15:09.614293Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:35:52.633773Z'
+lastmod: '2026-07-18T17:15:09.614293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Prompting-ul cu puține exemple este o tehnică în care modelele lingvistice mari primesc un număr mic de exemple intrare-ieșire în cadrul promptului pentru a ghida comportamentul lor."
+source: agnes_llm
+status: published
+language: ro
+description: Prompting-ul cu puține exemple este o tehnică în care modelele lingvistice
+  mari primesc un număr mic de exemple intrare-ieșire în cadrul promptului pentru
+  a ghida comportamentul lor.
 ---
-
 ## Definition
 
 Această metodă exploatează capacitatea de învățare în context a modelelor lingvistice mari, furnizând câteva exemple ilustrative direct în prompt. Spre deosebire de ajustarea fină (fine-tuning), care necesită actualizarea ponderilor modelului, această abordare modifică doar contextul de intrare pentru a îmbunătăți performanța.

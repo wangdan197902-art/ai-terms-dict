@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /zh/terms/personoid/
 date: "2026-07-18T11:29:53.130834Z"
 lastmod: "2026-07-18T11:44:45.542272Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种类人机器人或软件代理，旨在模仿人类的物理外观或对话风格以促进自然交互。"
 ---
-
 ## Definition
 
 拟人化实体是指设计成类似人类外观或行为的实体，可以是机器人或虚拟形式。在机器人学中，这涉及物理上的拟人化；而在AI中，它通常指聊天机器人或虚拟助手，强调其交互的自然性和拟真度。

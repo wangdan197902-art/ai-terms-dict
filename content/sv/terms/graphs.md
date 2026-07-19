@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /sv/terms/graphs/
 date: "2026-07-18T15:26:32.843094Z"
 lastmod: "2026-07-18T17:15:08.943390Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Pluralformen som syftar på flera grafstrukturer eller visuella representationer av datatrender inom maskininlärning."
 ---
-
 ## Definition
 
 Medan singularformen 'graf' syftar på den abstrakta datastrukturen, avser 'grafer' ofta antingen flera distinkta grafinstanser eller visuella diagram som används i övervakning av maskininlärning. Inom visualisering kan linjediagram eller stapeldiagram...

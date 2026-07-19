@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /pl/terms/text_embeddings_inference/
 date: "2026-07-18T16:20:21.253006Z"
 lastmod: "2026-07-18T17:15:08.923535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Specjalizowany serwer inferencyjny zaprojektowany do wydajnego generowania gęstych reprezentacji wektorowych tekstu w celu wyszukiwania i pobierania informacji o charakterze semantycznym."
 ---
-
 ## Definition
 
 Inferencja Osadzania Tekstu odnosi się do wdrażania i optymalizacji modeli, które przekształcają język naturalny w wektory o wysokiej wymiarowości. Te osadzenia (embeddings) uchwyć znaczenie semantyczne, umożliwiając systemom efektywne wyszukiwanie treści na podstawie sensu, a nie tylko słów kluczowych.

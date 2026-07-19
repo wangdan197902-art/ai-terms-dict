@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /id/terms/ai_alignment/
 date: "2026-07-18T15:37:10.784940Z"
 lastmod: "2026-07-18T16:38:07.422581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bidang studi yang berfokus pada memastikan sistem AI berperilaku sesuai dengan nilai dan niat manusia."
 ---
-
 ## Definition
 
 Penyelarasan AI menangani tantangan membuat sistem kecerdasan buatan melakukan apa yang dimaksudkan pengguna secara robust, bukan sekadar apa yang secara harfiah mereka spesifikasikan. Hal ini melibatkan metode teknis untuk memastikan bahwa perilaku AI selaras dengan kepentingan dan etika manusia.

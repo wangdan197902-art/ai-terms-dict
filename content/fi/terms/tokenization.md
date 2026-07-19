@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /fi/terms/tokenization/
 date: "2026-07-18T15:31:57.552148Z"
 lastmod: "2026-07-18T17:15:09.361402Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tokenisointi on prosessi, jossa raaka teksti pilkotaan pienemmiksi tokeni-yksiköiksi, joita koneoppimisalgoritmit voivat käsitellä."
 ---
-
 ## Definition
 
 Tokenisointi on kriittinen esikäsittelyvaihe luonnollisen kielentarkastelun (NLP) alueella, joka muuntaa rakenteettoman tekstin mallien syötteeksi soveltuvaksi rakenteelliseksi dataksi. Se sisältää lauseiden pilkkomisen pienempiin merkityksellisiin osiin.

@@ -1,23 +1,24 @@
 ---
-title: "Конфиденциальность"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Конфиденциальность
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /ru/terms/privacy/
-date: "2026-07-18T15:28:25.510628Z"
-lastmod: "2026-07-18T16:38:07.087509Z"
+slug: privacy
+date: '2026-07-18T15:28:25.510628Z'
+lastmod: '2026-07-18T16:38:07.087509Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Право лиц контролировать сбор, использование и распространение их персональных данных в системах искусственного интеллекта."
+source: agnes_llm
+status: published
+language: ru
+description: Право лиц контролировать сбор, использование и распространение их персональных
+  данных в системах искусственного интеллекта.
 ---
-
 ## Definition
 
 В контексте искусственного интеллекта конфиденциальность относится к защите чувствительной информации пользователей от несанкционированного доступа или неправомерного использования на этапах сбора данных, обучения моделей и вывода результатов. Она включает в себя

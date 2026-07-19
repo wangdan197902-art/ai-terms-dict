@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /es/terms/connectionist_expert_system/
 date: "2026-07-18T10:40:46.659183Z"
 lastmod: "2026-07-18T11:44:44.788492Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un sistema inteligente que combina las capacidades de aprendizaje de las redes neuronales con estructuras de razonamiento simbólico."
 ---
-
 ## Definition
 
 Un sistema experto conexionista integra las fortalezas de reconocimiento de patrones y aprendizaje de las redes neuronales (conexionismo) con la representación explícita del conocimiento y el razonamiento lógico tradicional. Este enfoque híbrido busca superar las limitaciones de cada paradigma por separado, permitiendo sistemas más robustos y explicables.

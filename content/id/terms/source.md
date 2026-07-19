@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /id/terms/source/
 date: "2026-07-18T15:29:37.018583Z"
 lastmod: "2026-07-18T16:38:07.403095Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada asal data, kode, atau model yang digunakan dalam pengembangan dan penyebaran AI."
 ---
-
 ## Definition
 
 Dalam konteks AI, 'sumber' biasanya menunjukkan asal-usul dataset pelatihan, pustaka sumber terbuka, atau bobot model yang telah dilatih sebelumnya. Melacak sumber sangat penting untuk reproduktibilitas, kepatuhan lisensi...

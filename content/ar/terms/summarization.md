@@ -1,23 +1,24 @@
 ---
-title: "تلخيص النصوص"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: تلخيص النصوص
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /ar/terms/summarization/
-date: "2026-07-18T15:38:49.559232Z"
-lastmod: "2026-07-18T17:15:08.466830Z"
+slug: summarization
+date: '2026-07-18T15:38:49.559232Z'
+lastmod: '2026-07-18T17:15:08.466830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مهمة في معالجة اللغات الطبيعية تولّد ملخصًا موجزًا ومترابطًا لنص أطول مع الحفاظ على معلوماته الرئيسية."
+source: agnes_llm
+status: published
+language: ar
+description: مهمة في معالجة اللغات الطبيعية تولّد ملخصًا موجزًا ومترابطًا لنص أطول
+  مع الحفاظ على معلوماته الرئيسية.
 ---
-
 ## Definition
 
 يقلل تلخيص النصوص من أحجام النصوص الكبيرة إلى نسخ أقصر دون فقدان المعنى الحرج. يمكن أن يكون استخلاصيًا، باختيار جمل مهمة من المصدر، أو مجردًا، بتوليد نص جديد.

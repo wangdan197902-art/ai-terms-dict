@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /he/terms/connectionist_expert_system/
 date: "2026-07-18T15:49:46.501214Z"
 lastmod: "2026-07-18T17:15:09.522637Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת חכמה המשלבת יכולות למידה של רשתות עצביות עם מבני היגיון סמלי."
 ---
-
 ## Definition
 
 מערכת מומחים קונקשניסטית משלבת את כוחות הזיהוי הדפוסים והלמידה של רשתות עצביות (קונקשניזם) עם ייצוג הידע המפורש וההיגיון הלוגי של מערכות מומחים מסורתיות.

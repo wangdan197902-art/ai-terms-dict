@@ -7,8 +7,6 @@ tags: ["Finance", "Datasets", "Chinese NLP"]
 difficulty: 4
 weight: 1
 slug: "azfintext"
-aliases:
-  - /tr/terms/azfintext/
 date: "2026-07-18T15:39:35.470600Z"
 lastmod: "2026-07-18T16:38:07.269031Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AZFinText, Çin bağlamında finansal metin madenciliği ve duygu analizi için tasarlanmış özel bir veri setidir."
 ---
-
 ## Definition
 
 AZFinText, Çin finansal metin analizi için özel olarak hazırlanmış büyük ölçekli bir etiketli korpustur. Finansal duygulara ve ekonomik göstergelere göre etiketlenmiş haber makaleleri, raporlar ve sosyal medya gönderilerini içerir.

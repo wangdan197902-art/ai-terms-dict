@@ -1,23 +1,24 @@
 ---
-title: "فرضية المتشعبات"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: فرضية المتشعبات
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /ar/terms/manifold_hypothesis/
-date: "2026-07-18T16:12:08.455344Z"
-lastmod: "2026-07-18T17:15:08.526016Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:12:08.455344Z'
+lastmod: '2026-07-18T17:15:08.526016Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الفرضية القائلة بأن البيانات الواقعية عالية الأبعاد تقع على متشعب غير خطي منخفض الأبعاد داخل الفضاء عالي الأبعاد."
+source: agnes_llm
+status: published
+language: ar
+description: الفرضية القائلة بأن البيانات الواقعية عالية الأبعاد تقع على متشعب غير
+  خطي منخفض الأبعاد داخل الفضاء عالي الأبعاد.
 ---
-
 ## Definition
 
 تفسر هذه الفرضية سبب فعالية التعلم العميق رغم لعنة الأبعاد. تقترح أنه على الرغم من وجود بيانات مثل الصور في أبعاد تصل إلى الملايين، إلا أنها مقيدة بعلاقات...

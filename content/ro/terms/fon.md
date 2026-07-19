@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /ro/terms/fon/
 date: "2026-07-18T15:58:56.478514Z"
 lastmod: "2026-07-18T17:15:09.657135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Fon se referă la principiile fundamentale și temeliile teoretice care ghidează proiectarea și funcționarea sistemelor de inteligență artificială."
 ---
-
 ## Definition
 
 În contextul terminologiei IA, termenul 'Fon' este adesea folosit pentru a descrie ontologia funcțională de bază sau structurile logice fundamentale care definesc modul în care un model de IA interpretează intrările și generează ieșirile. Acesta constituie arhitectura logică subiacentă.

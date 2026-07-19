@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /tr/terms/linear/
 date: "2026-07-18T15:26:23.723857Z"
 lastmod: "2026-07-18T16:38:07.236227Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çıktının girdiyle doğru orantılı olduğu işlemleri veya ilişkileri tanımlar ve sinir katmanlarındaki afin dönüşümlerin temelini oluşturur."
 ---
-
 ## Definition
 
 Doğrusal işlemler, doğrusal olmayan aktivasyonlar olmadan çarpma ve toplama içerir. Sinir ağlarında, doğrusal katmanlar (veya yoğun katmanlar) girdi vektörlerine bir ağırlık matrisi dönüşümü uygular. Doğrusal

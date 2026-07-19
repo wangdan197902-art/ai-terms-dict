@@ -1,23 +1,23 @@
 ---
-title: "引用"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: 引用
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /ja/terms/citation/
-date: "2026-07-18T11:07:35.495188Z"
-lastmod: "2026-07-18T11:44:45.076911Z"
+slug: citation
+date: '2026-07-18T11:07:35.495188Z'
+lastmod: '2026-07-18T11:44:45.076911Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "AIにおける引用とは、生成されたテキストやモデル内で使用された資料やデータの出典を明記し、透明性と知的財産権の遵守を確保する慣行を指します。"
+source: agnes_llm
+status: published
+language: ja
+description: AIにおける引用とは、生成されたテキストやモデル内で使用された資料やデータの出典を明記し、透明性と知的財産権の遵守を確保する慣行を指します。
 ---
-
 ## Definition
 
 生成AIモデルがコンテンツを生成するにつれ、学問的誠実性と法的遵守を維持するために引用メカニズムの必要性が生じています。これには、元の資料への参照を埋め込むことが含まれます

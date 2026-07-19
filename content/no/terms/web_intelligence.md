@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /no/terms/web_intelligence/
 date: "2026-07-18T16:21:09.889527Z"
 lastmod: "2026-07-18T16:38:07.057686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av intelligente teknikker for å hente ut, administrere og analysere informasjon fra Verdensveven."
 ---
-
 ## Definition
 
 Webintelligens involverer bruk av datagruvedrift, maskinlæring og semantiske teknologier for å behandle den enorme mengden ustrukturerte data som finnes på internett. Målet er å omdanne rå webdata til nyttig kunnskap og innsikt.

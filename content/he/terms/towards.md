@@ -1,23 +1,23 @@
 ---
-title: "כלפי / כיוון"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: כלפי / כיוון
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /he/terms/towards/
-date: "2026-07-18T15:31:19.930403Z"
-lastmod: "2026-07-18T17:15:09.489713Z"
+slug: towards
+date: '2026-07-18T15:31:19.930403Z'
+lastmod: '2026-07-18T17:15:09.489713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מונח זה מתייחס להתקדמות בכיוון מסוים או למטרות אופטימיזציה בבינה מלאכותית, המציינות תנועה לכיוון ביצועים משופרים או יעדים ספציפיים."
+source: agnes_llm
+status: published
+language: he
+description: מונח זה מתייחס להתקדמות בכיוון מסוים או למטרות אופטימיזציה בבינה מלאכותית,
+  המציינות תנועה לכיוון ביצועים משופרים או יעדים ספציפיים.
 ---
-
 ## Definition
 
 בפיתוח בינה מלאכותית, 'כלפי' מתאר לעיתים קרובות את המסלול של תהליכי אופטימיזציה, כגון ירידה במדרגה (Gradient Descent) המזזה משקלים לכיוון ערך אובדן מינימלי. כמו כן, הוא מסמן כיווני מחקר.

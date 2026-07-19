@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /pt/terms/view/
 date: "2026-07-18T14:40:54.070135Z"
 lastmod: "2026-07-18T15:51:59.442347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma tabela virtual em um banco de dados resultante de uma consulta armazenada, apresentando dados de uma ou mais tabelas sem armazená-los fisicamente."
 ---
-
 ## Definition
 
 No gerenciamento de bancos de dados, uma visão atua como uma consulta SQL salva que se comporta como uma tabela, mas não contém dados próprios. Ela fornece uma perspectiva simplificada ou personalizada dos dados subjacentes, aprimorando a segurança.

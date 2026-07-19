@@ -1,23 +1,24 @@
 ---
-title: "Operasi Serenata de Amor"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Operasi Serenata de Amor
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /id/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:02:56.403901Z"
-lastmod: "2026-07-18T16:38:07.490889Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:02:56.403901Z'
+lastmod: '2026-07-18T16:38:07.490889Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Inisiatif teknologi sipil yang menggunakan pembelajaran mesin untuk mendeteksi penipuan dalam pengeluaran publik Brasil."
+source: agnes_llm
+status: published
+language: id
+description: Inisiatif teknologi sipil yang menggunakan pembelajaran mesin untuk mendeteksi
+  penipuan dalam pengeluaran publik Brasil.
 ---
-
 ## Definition
 
 Operasi Serenata de Amor adalah proyek sumber terbuka perintis yang menerapkan kecerdasan buatan untuk menganalisis data pengadaan publik di Brasil. Dengan memanfaatkan pemrosesan bahasa alami dan deteksi anomali, inisiatif ini bertujuan meningkatkan transparansi dan akuntabilitas dalam penggunaan anggaran negara.

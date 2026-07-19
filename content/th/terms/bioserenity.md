@@ -1,23 +1,23 @@
 ---
-title: "ความสงบทางชีวภาพ (Bioserenity)"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: ความสงบทางชีวภาพ (Bioserenity)
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /th/terms/bioserenity/
-date: "2026-07-18T15:44:38.416425Z"
-lastmod: "2026-07-18T16:38:07.580692Z"
+slug: bioserenity
+date: '2026-07-18T15:44:38.416425Z'
+lastmod: '2026-07-18T16:38:07.580692Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถานะทางทฤษฎีของการอยู่ร่วมกันอย่างกลมกลืนระหว่างสิ่งมีชีวิตทางชีวภาพและระบบปัญญาประดิษฐ์"
+source: agnes_llm
+status: published
+language: th
+description: สถานะทางทฤษฎีของการอยู่ร่วมกันอย่างกลมกลืนระหว่างสิ่งมีชีวิตทางชีวภาพและระบบปัญญาประดิษฐ์
 ---
-
 ## Definition
 
 ความสงบทางชีวภาพหมายถึงอุดมคติเชิงแนวคิดที่ชีววิทยาของมนุษย์และปัญญาประดิษฐ์ดำเนินงานร่วมกันอย่างราบรื่นและไร้ซึ่งความขัดแย้ง โดยเน้นย้ำถึงการบูรณาการอย่างมีจริยธรรม เพื่อให้มั่นใจว่าการเสริมศักยภาพด้วย AI เกิดขึ้นอย่างปลอดภัยและสอดคล้องกับคุณค่าของมนุษย์

@@ -1,23 +1,25 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /ru/terms/qlora/
-date: "2026-07-18T15:35:53.227273Z"
-lastmod: "2026-07-18T16:38:07.109000Z"
+slug: qlora
+date: '2026-07-18T15:35:53.227273Z'
+lastmod: '2026-07-18T16:38:07.109000Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Квантованная адаптация с низким рангом — метод эффективной дообучения больших языковых моделей с использованием 4-битного квантования и адаптеров низкого ранга."
+source: agnes_llm
+status: published
+language: ru
+description: Квантованная адаптация с низким рангом — метод эффективной дообучения
+  больших языковых моделей с использованием 4-битного квантования и адаптеров низкого
+  ранга.
 ---
-
 ## Definition
 
 QLoRA объединяет адаптацию с низким рангом (LoRA) с 4-битным квантованием для значительного снижения объема памяти, необходимого для дообучения массивных моделей. За счет хранения весов в 4-битном формате и добавления обучаемых матриц низкого ранга, QLoRA позволяет проводить тонкую настройку мощных моделей на потребительском оборудовании.

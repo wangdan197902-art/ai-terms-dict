@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /he/terms/intelligent_decision_support_system/
 date: "2026-07-18T16:07:37.134064Z"
 lastmod: "2026-07-18T17:15:09.552370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת המונעת בינה מלאכותית המסייעת לאנשים בקבלת החלטות מורכבות על ידי ניתוח נתונים והצגת תובנות פעילות."
 ---
-
 ## Definition
 
 מערכת תמיכה בהחלטות אינטליגנטית (IDSS) משלבת טכניקות של בינה מלאכותית, כגון למידת מכונה ועיבוד שפה טבעית, עם מסגרות מסורתיות לתמיכה בהחלטות. היא

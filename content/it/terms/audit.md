@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /it/terms/audit/
 date: "2026-07-18T15:48:44.552436Z"
 lastmod: "2026-07-18T17:15:08.600589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una valutazione sistematica dei sistemi di intelligenza artificiale per garantire la conformità agli standard etici, ai requisiti normativi e ai benchmark di prestazioni."
 ---
-
 ## Definition
 
 Un audit dell'IA prevede un esame rigoroso e strutturato dei modelli di apprendimento automatico e delle relative pipeline di distribuzione. Valuta l'equità, la trasparenza, la responsabilità e la sicurezza per identificare potenziali bia

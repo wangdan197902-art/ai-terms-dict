@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /ja/terms/gpt_bigcode/
 date: "2026-07-18T11:16:33.853252Z"
 lastmod: "2026-07-18T11:44:45.102617Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "BigCodeプロジェクトによって開発され、コード生成と理解のために特別に訓練された大規模言語モデルのファミリー。"
 ---
-
 ## Definition
 
 GPT Bigcodeは、StarCoderなどのモデルに関連しており、コーディング支援AIにおける重要な進歩を表しています。これらのモデルは、パブリックなコードリポジトリの大規模なデータセットで事前学習されており、プログラムの構造や意味を理解します。

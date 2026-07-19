@@ -1,23 +1,24 @@
 ---
-title: "Lærlingslæring"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Lærlingslæring
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /no/terms/apprenticeship_learning/
-date: "2026-07-18T15:42:31.734957Z"
-lastmod: "2026-07-18T16:38:06.970904Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:42:31.734957Z'
+lastmod: '2026-07-18T16:38:06.970904Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En metode innenfor forsterkningslæring der en agent lærer en strategi ved å etterligne en ekspert."
+source: agnes_llm
+status: published
+language: 'no'
+description: En metode innenfor forsterkningslæring der en agent lærer en strategi
+  ved å etterligne en ekspert.
 ---
-
 ## Definition
 
 Lærlingslæring, også kjent som invers forsterkningslæring fra demonstrasjoner, muliggjør at agenter tilegner seg ferdigheter ved å observere ekspertatferd i stedet for å stole utelukkende på belønningsfunksjoner.

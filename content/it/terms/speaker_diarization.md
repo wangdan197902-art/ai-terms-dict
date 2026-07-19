@@ -1,23 +1,24 @@
 ---
-title: "Diarizzazione del parlante"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Diarizzazione del parlante
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /it/terms/speaker_diarization/
-date: "2026-07-18T16:22:07.633348Z"
-lastmod: "2026-07-18T17:15:08.671050Z"
+slug: speaker_diarization
+date: '2026-07-18T16:22:07.633348Z'
+lastmod: '2026-07-18T17:15:08.671050Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di determinare 'chi ha parlato quando' in una registrazione audio."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di determinare 'chi ha parlato quando' in una registrazione
+  audio.
 ---
-
 ## Definition
 
 La Diarizzazione del parlante è il compito di partizionare uno stream audio in segmenti omogenei in base all'identità dell'interlocutore. Combina il rilevamento del cambio interlocutore con il clustering degli interlocutori per etichettare automaticamente chi ha pronunciato ogni segmento di discorso.

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /nl/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:52:06.224067Z"
-lastmod: "2026-07-18T17:15:08.738473Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:52:06.224067Z'
+lastmod: '2026-07-18T17:15:08.738473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De standaardpipeline voor het uitvoeren van Stable Diffusion v1.5, waarbij U-Net en CLIP-encoders worden gebruikt voor tekst-naar-afbeeldinggeneratie."
+source: agnes_llm
+status: published
+language: nl
+description: De standaardpipeline voor het uitvoeren van Stable Diffusion v1.5, waarbij
+  U-Net en CLIP-encoders worden gebruikt voor tekst-naar-afbeeldinggeneratie.
 ---
-
 ## Definition
 
 Dit is de fundamentele pipeline voor het Stable Diffusion v1.5-model, veelvuldig gebruikt voor algemene tekst-naar-afbeeldingsynthese. Het maakt gebruik van een U-Net-denoiser en een CLIP-tekstencoder om tekstprompts te mappen...

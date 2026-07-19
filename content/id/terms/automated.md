@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /id/terms/automated/
 date: "2026-07-18T15:23:25.802999Z"
 lastmod: "2026-07-18T16:38:07.388690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mengacu pada proses yang dijalankan oleh mesin atau perangkat lunak dengan intervensi manusia yang minimal."
 ---
-
 ## Definition
 
 Otomatisasi dalam AI melibatkan penggunaan algoritma dan sistem untuk melakukan tugas-tugas yang secara tradisional memerlukan upaya manusia. Fokusnya adalah pada efisiensi, konsistensi, dan kecepatan dengan menjalankan aturan yang telah ditentukan atau pembelajaran.

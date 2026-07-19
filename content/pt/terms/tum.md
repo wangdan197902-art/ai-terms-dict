@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /pt/terms/tum/
 date: "2026-07-18T15:26:11.623601Z"
 lastmod: "2026-07-18T15:51:59.540251Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "TUM não é uma sigla padrão reconhecida na terminologia principal de inteligência artificial; pode referir-se a contextos institucionais específicos, como a Universidade Técnica de Munique, ou ser um e"
 ---
-
 ## Definition
 
 Não há uma definição amplamente aceita para 'Tum' como um conceito, técnica ou métrica central de IA na literatura acadêmica ou industrial. É provável que seja um erro de digitação para termos como 'Teste de Turing' ou 'Modelo Transformer'.

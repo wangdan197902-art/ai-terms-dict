@@ -1,23 +1,25 @@
 ---
-title: "Aprendizaje automático en videojuegos"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Aprendizaje automático en videojuegos
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /es/terms/machine_learning_in_video_games/
-date: "2026-07-18T10:59:04.150450Z"
-lastmod: "2026-07-18T11:44:44.829386Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T10:59:04.150450Z'
+lastmod: '2026-07-18T11:44:44.829386Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La aplicación de algoritmos de aprendizaje automático para mejorar el desarrollo de juegos, crear personajes no jugables adaptativos y optimizar las experiencias de juego."
+source: agnes_llm
+status: published
+language: es
+description: La aplicación de algoritmos de aprendizaje automático para mejorar el
+  desarrollo de juegos, crear personajes no jugables adaptativos y optimizar las experiencias
+  de juego.
 ---
-
 ## Definition
 
 Este campo implica integrar técnicas de aprendizaje automático en los flujos de trabajo de desarrollo de videojuegos para automatizar la creación de activos, equilibrar las mecánicas del juego y generar contenido dinámico. Abarca desde el uso del aprendizaje por refuerzo para

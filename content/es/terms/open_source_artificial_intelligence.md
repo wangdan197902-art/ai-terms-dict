@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /es/terms/open_source_artificial_intelligence/
 date: "2026-07-18T11:02:45.127961Z"
 lastmod: "2026-07-18T11:44:44.838917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La IA de código abierto se refiere al software, modelos y herramientas de inteligencia artificial cuyo código fuente está disponible públicamente para su inspección, modificación y distribución."
 ---
-
 ## Definition
 
 Este concepto abarca el ecosistema de tecnologías de IA publicadas bajo licencias que permiten el acceso gratuito a su código subyacente. Promueve la transparencia, la colaboración y la innovación al permitir que los desarrolladores

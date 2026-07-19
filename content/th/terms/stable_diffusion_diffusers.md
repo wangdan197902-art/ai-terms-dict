@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /th/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:16:18.525653Z"
 lastmod: "2026-07-18T16:38:07.658494Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ไลบรารีจาก Hugging Face ที่ให้บริการพาइपไลน์มาตรฐานสำหรับรันและปรับแต่งแบบจำลอง Stable Diffusion"
 ---
-
 ## Definition
 
 ไลบรารี Diffusers เป็นชุดเครื่องมือโอเพนซอร์สจาก Hugging Face ที่ออกแบบมาเพื่อลดความซับซ้อนในการใช้งานแบบจำลองการแพร่กระจายที่ผ่านการฝึกฝนมาแล้ว โดยเฉพาะ Stable Diffusion ไลบรารีนี้เสนอโครงสร้างพาइपไลน์แบบโมดูลาร์ที่จัดการขั้นตอนต่างๆ ตั้งแต่การโหลดโมเดล การประมวลผลข้อความ ไปจนถึงการสร้างภาพ ทำให้ผู้พัฒนาสามารถปรับแต่งและทดลองกับโมเดลได้ง่ายขึ้น

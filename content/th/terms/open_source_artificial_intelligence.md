@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /th/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:08:42.496742Z"
 lastmod: "2026-07-18T16:38:07.638188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ปัญญาประดิษฐ์โอเพนซอร์ส หมายถึง ซอฟต์แวร์ โมเดล และเครื่องมือปัญญาประดิษฐ์ที่มีซอร์สโค้ดเปิดเผยให้สาธารณชนตรวจสอบ แก้ไข และแจกจ่ายได้"
 ---
-
 ## Definition
 
 แนวคิดนี้ครอบคลุมระบบนิเวศของเทคโนโลยีปัญญาประดิษฐ์ที่เผยแพร่ภายใต้ใบอนุญาตที่เปิดโอกาสให้เข้าถึงโค้ดพื้นฐานได้อย่างอิสระ ส่งเสริมความโปร่งใส การร่วมมือกัน และนวัตกรรม โดยอนุญาตให้นักพัฒนาและชุมชนมีส่วนร่วมในการปรับปรุงและพัฒนาเทคโนโลยีต่อไป

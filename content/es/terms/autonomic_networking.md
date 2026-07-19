@@ -1,23 +1,24 @@
 ---
-title: "Redes autogestionables"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Redes autogestionables
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /es/terms/autonomic_networking/
-date: "2026-07-18T10:37:40.932311Z"
-lastmod: "2026-07-18T11:44:44.780667Z"
+slug: autonomic_networking
+date: '2026-07-18T10:37:40.932311Z'
+lastmod: '2026-07-18T11:44:44.780667Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Infraestructura de red autoadministrada que utiliza IA para configurarse, optimizarse y repararse a sí misma."
+source: agnes_llm
+status: published
+language: es
+description: Infraestructura de red autoadministrada que utiliza IA para configurarse,
+  optimizarse y repararse a sí misma.
 ---
-
 ## Definition
 
 Las redes autogestionables aplican los principios de la computación autogestionable a las redes de telecomunicaciones, permitiendo que los sistemas se gestionen a sí mismos con mínima intervención humana. Estas redes utilizan IA para detectar fallos...

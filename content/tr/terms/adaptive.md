@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /tr/terms/adaptive/
 date: "2026-07-18T15:23:14.455807Z"
 lastmod: "2026-07-18T16:38:07.226677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir sistemin değişen koşullara yanıt olarak davranışını veya parametrelerini değiştirme yeteneği."
 ---
-
 ## Definition
 
 Yapay zekada 'uyarlanabilir', yeni verilere veya çevresel geri bildirimlere dayanarak iç durumlarını, parametrelerini veya stratejilerini dinamik olarak ayarlayabilen sistemleri veya algoritmaları tanımlar. Bu yetenek, modelin...

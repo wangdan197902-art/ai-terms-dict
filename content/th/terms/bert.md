@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /th/terms/bert/
 date: "2026-07-18T15:44:23.951182Z"
 lastmod: "2026-07-18T16:38:07.580017Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Bidirectional Encoder Representations from Transformers คือแบบจำลองการประมวลผลภาษาธรรมชาติที่ผ่านการฝึกฝนล่วงหน้าแล้ว"
 ---
-
 ## Definition
 
 BERT เป็นเทคนิคการเรียนรู้ของเครื่องที่อาศัยสถาปัตยกรรม Transformer สำหรับการฝึกฝนล่วงหน้าในงานประมวลผลภาษาธรรมชาติ (NLP) ซึ่งพัฒนาโดย Google โดยใช้วิธีการสร้างแบบจำลองภาษาแบบบดบัง (Masked Language Modeling) และการทำนายประโยคถัดไป เพื่อเรียนรู้การแสดงแทนข้อมูลในทิศทางทั้งสองด้าน

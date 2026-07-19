@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /he/terms/golog/
 date: "2026-07-18T15:58:39.742707Z"
 lastmod: "2026-07-18T17:15:09.542386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שפת תכנות ברמה גבוהה המבוססת על חישוב מצבים (Situation Calculus) לתיאור פעולות והיגיון בתחומים דינמיים."
 ---
-
 ## Definition
 
 GOLOG היא שפת תכנות לוגית המשמשת בעיקר בבינה מלאכותית לתכנון ופעולה בסביבות דינמיות. בנויה על בסיס חישוב המצבים של רייטר (Reiter's situation calculus), היא מאפשרת למפתחים לתאר פעולות ותוצאותיהן בצורה פורמלית ומדויקת.

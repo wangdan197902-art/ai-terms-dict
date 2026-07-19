@@ -1,23 +1,23 @@
 ---
-title: "Unsupervised Learning"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: Unsupervised Learning
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /zh/terms/unsupervised_learning/
-date: "2026-07-18T11:02:15.411451Z"
-lastmod: "2026-07-18T11:44:45.417949Z"
+slug: unsupervised_learning
+date: '2026-07-18T11:02:15.411451Z'
+lastmod: '2026-07-18T11:44:45.417949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种机器学习技术，模型在无标签数据中学习模式，无需明确的指导或正确答案。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种机器学习技术，模型在无标签数据中学习模式，无需明确的指导或正确答案。
 ---
-
 ## Definition
 
 无监督学习自主识别原始数据中的隐藏结构、聚类或分布。常见方法包括聚类、降维和生成建模。它是

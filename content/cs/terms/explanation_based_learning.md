@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /cs/terms/explanation_based_learning/
 date: "2026-07-18T15:56:45.975077Z"
 lastmod: "2026-07-18T17:15:09.128502Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Výkladem řízené učení (EBL) je metoda strojového učení, která využívá teorii domény a jeden tréninkový příklad k vygenerování vysvětlení, které je následně zobecněno do nového pravidla."
 ---
-
 ## Definition
 
 EBL kombinuje symbolické úsudky se strojným učením za účelem zrychlení procesu učení. Místo spoléhání na velká datová sady bere jeden pozitivní příklad a využívá předem existující teorii domény k odvození obecnějšího pravidla.

@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /vi/terms/llamaindex/
 date: "2026-07-18T16:01:01.080917Z"
 lastmod: "2026-07-18T16:38:07.777334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "LlamaIndex là một khung làm việc được thiết kế để kết nối các nguồn dữ liệu tùy chỉnh với các mô hình ngôn ngữ lớn, tạo điều kiện thuận lợi cho việc tạo ra các ứng dụng Tăng cường Truy xuất (RAG)."
 ---
-
 ## Definition
 
 Ban đầu được biết đến với tên gọi GPT Index, LlamaIndex là một khung dữ liệu mạnh mẽ cho phép các LLM nạp và tương tác với dữ liệu có cấu trúc và không cấu trúc. Nó cung cấp các công cụ để lập chỉ mục, truy vấn và quản lý dữ liệu.

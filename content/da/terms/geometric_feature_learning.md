@@ -1,23 +1,25 @@
 ---
-title: "Geometrisk funktionslæring"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Geometrisk funktionslæring
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /da/terms/geometric_feature_learning/
-date: "2026-07-18T15:57:22.063766Z"
-lastmod: "2026-07-18T17:15:09.292318Z"
+slug: geometric_feature_learning
+date: '2026-07-18T15:57:22.063766Z'
+lastmod: '2026-07-18T17:15:09.292318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik inden for dyb læring, der udtrækker funktioner fra data med iboende geometriske strukturer, såsom grafer eller mangfoldigheder, ved hjælp af specialiserede neurale netværk."
+source: agnes_llm
+status: published
+language: da
+description: En teknik inden for dyb læring, der udtrækker funktioner fra data med
+  iboende geometriske strukturer, såsom grafer eller mangfoldigheder, ved hjælp af
+  specialiserede neurale netværk.
 ---
-
 ## Definition
 
 Geometrisk funktionslæring fokuserer på behandling af data, der besidder ikke-euklidiske strukturer, såsom sociale netværk, molekylære grafer eller 3D-meshes. Teknikker som Graf-neurale netværk (GNN'er) og manifold-læring anvendes til at bevare de underliggende topologiske egenskaber under processen.

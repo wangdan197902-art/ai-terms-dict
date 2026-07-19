@@ -1,23 +1,23 @@
 ---
-title: "다중 작업 최적화"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: 다중 작업 최적화
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /ko/terms/multitask_optimization/
-date: "2026-07-18T16:07:11.441828Z"
-lastmod: "2026-07-18T16:38:06.888352Z"
+slug: multitask_optimization
+date: '2026-07-18T16:07:11.441828Z'
+lastmod: '2026-07-18T16:38:06.888352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델이 여러 관련 작업을 동시에 수행하도록 최적화하는 훈련 전략입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델이 여러 관련 작업을 동시에 수행하도록 최적화하는 훈련 전략입니다.
 ---
-
 ## Definition
 
 다중 작업 최적화(Multitask Optimization)는 단일 모델을 훈련시켜 여러 개의 서로 다르지만 관련성 있는 작업을 동시에 처리하도록 하는 접근 방식입니다. 작업 간 중간 표현을 공유함으로써 모델은 더 일반화된 특징을 학습할 수 있으며, 이는 데이터 효율성을 높이고 과적합을 줄이는 데 도움이 됩니다.

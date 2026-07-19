@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /tr/terms/hf_asr_leaderboard/
 date: "2026-07-18T15:56:25.787535Z"
 lastmod: "2026-07-18T16:38:07.316736Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Otomatik Konuşma Tanıma modellerinin performansını değerlendiren ve karşılaştıran Hugging Face üzerindeki bir sıralama sistemi."
 ---
-
 ## Definition
 
 HF ASR Liderlik Tablosu, Hugging Face tarafından barındırılan, otomatik konuşma tanımada en ileri düzeydeki performansı takip eden topluluk odaklı bir metrik platformudur. Araştırmacılara ve geliştiricilere mevcut modelleri karşılaştırma ve en iyi araçları seçme imkanı tanır.

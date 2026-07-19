@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /pt/terms/loop/
 date: "2026-07-18T14:36:50.948308Z"
 lastmod: "2026-07-18T15:51:59.433548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura de programação que repete um bloco de código várias vezes até que uma condição seja atendida."
 ---
-
 ## Definition
 
 Uma estrutura fundamental de controle de fluxo em ciência da computação e desenvolvimento de IA, um laço permite que algoritmos itere por conjuntos de dados, execute cálculos repetidos ou execute épocas de treinamento. Os tipos comuns incluem laços 'for' e 'while'.

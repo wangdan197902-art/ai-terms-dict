@@ -1,23 +1,24 @@
 ---
-title: "Tóm tắt AI"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Tóm tắt AI
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /vi/terms/ai_overviews/
-date: "2026-07-18T15:38:05.038322Z"
-lastmod: "2026-07-18T16:38:07.716906Z"
+slug: ai_overviews
+date: '2026-07-18T15:38:05.038322Z'
+lastmod: '2026-07-18T16:38:07.716906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Các câu trả lời được tóm tắt do mô hình AI tạo ra, tổng hợp thông tin từ nhiều nguồn để giúp người dùng hiểu nhanh."
+source: agnes_llm
+status: published
+language: vi
+description: Các câu trả lời được tóm tắt do mô hình AI tạo ra, tổng hợp thông tin
+  từ nhiều nguồn để giúp người dùng hiểu nhanh.
 ---
-
 ## Definition
 
 Tóm tắt AI là các bản tóm tắt cô đọng được tạo ra bởi các mô hình ngôn ngữ lớn, tổng hợp và tổng kết dữ liệu từ nhiều nguồn web hoặc cơ sở dữ liệu khác nhau. Khác với kết quả tìm kiếm truyền thống liệt kê các liên kết, các tóm tắt này cung cấp câu trả lời trực tiếp và đầy đủ ngữ cảnh.

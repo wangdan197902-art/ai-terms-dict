@@ -1,23 +1,24 @@
 ---
-title: "רגולריזציה מניפולדית"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: רגולריזציה מניפולדית
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /he/terms/manifold_regularization/
-date: "2026-07-18T16:11:52.229234Z"
-lastmod: "2026-07-18T17:15:09.562590Z"
+slug: manifold_regularization
+date: '2026-07-18T16:11:52.229234Z'
+lastmod: '2026-07-18T17:15:09.562590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה ללמידה למחצה המניחה שהנתונים מונחים על מניפולד דו-ממדי נמוך ומבצעת רגולריזציה של המודל בהתבסס על מבנה גיאומטרי זה."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה ללמידה למחצה המניחה שהנתונים מונחים על מניפולד דו-ממדי נמוך ומבצעת
+  רגולריזציה של המודל בהתבסס על מבנה גיאומטרי זה.
 ---
-
 ## Definition
 
 רגולריזציה מניפולדית מרחיבה שיטות רגולריזציה מסורתיות על ידי שילוב הגיאומטריה האינטרינזית של התפלגות הנתונים. היא פועלת תחת ההנחה שנקודות נתונים רב-ממדיות

@@ -1,23 +1,24 @@
 ---
-title: "Kärntäthetsuppskattning"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kärntäthetsuppskattning
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /sv/terms/kernel_density_estimation/
-date: "2026-07-18T16:05:18.953359Z"
-lastmod: "2026-07-18T17:15:09.017401Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:05:18.953359Z'
+lastmod: '2026-07-18T17:15:09.017401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En icke-parametrisk metod som används för att uppskatta sannolikhetstäthetsfunktionen för en slumpvariabel baserat på ett ändligt datamaterial."
+source: agnes_llm
+status: published
+language: sv
+description: En icke-parametrisk metod som används för att uppskatta sannolikhetstäthetsfunktionen
+  för en slumpvariabel baserat på ett ändligt datamaterial.
 ---
-
 ## Definition
 
 Kärntäthetsuppskattning (KDE) är en grundläggande statistisk teknik som slätar diskreta datapunkter för att skapa en kontinuerlig kurva för sannolikhetsfördelning. Den placerar en kärnfunktion, vanligtvis en Gaussisk kärna, över varje datapunkt...

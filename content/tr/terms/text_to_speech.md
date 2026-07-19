@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /tr/terms/text_to_speech/
 date: "2026-07-18T16:17:35.020570Z"
 lastmod: "2026-07-18T16:38:07.372790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Metinden konuşmaya (TTS), yazılı metni doğal insan sesine dönüştüren bir teknolojidir."
 ---
-
 ## Definition
 
 Metinden konuşmaya (TTS), dijital metinleri kullanıcıya sesli olarak okuyan bir yardımcı teknoloji türüdür. İnsan intonasyonunu taklit eden, doğal bir şekilde sentezlenmiş konuşma üretmek için gelişmiş sinir ağlarını ve akustik modelleri kullanır.

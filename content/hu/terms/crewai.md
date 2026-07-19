@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /hu/terms/crewai/
 date: "2026-07-18T15:52:01.961856Z"
 lastmod: "2026-07-18T17:15:09.766419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A CrewAI egy keretrendszer szerepjátékokon alapuló, autonóm AI ügynökök koordinálására, hogy együttműködjenek összetett feladatok megoldása során."
 ---
-
 ## Definition
 
 A CrewAI strukturált környezetet biztosít többügynökös rendszerek építéséhez, ahol minden ügynöknek van specifikus szerepe, célja és eszközkészlete. Egyszerűsíti a munkafolyamatok létrehozását, lehetővé téve a fejlesztők számára.

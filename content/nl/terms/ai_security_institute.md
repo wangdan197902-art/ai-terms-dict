@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /nl/terms/ai_security_institute/
 date: "2026-07-18T15:39:49.327950Z"
 lastmod: "2026-07-18T17:15:08.711514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een organisatie die zich richt op onderzoek, ontwikkeling en bevordering van best practices voor het beveiligen van AI-systemen."
 ---
-
 ## Definition
 
 Een AI-beveiligingsinstituut is een gespecialiseerde entiteit die zich richt op het beperken van risico's die gepaard gaan met AI-technologieën. Deze instituten voeren onderzoek uit naar adversariële aanvallen, gegevensprivacy en robu

@@ -1,23 +1,24 @@
 ---
-title: "Forhåndstrent"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Forhåndstrent
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /no/terms/pretrained/
-date: "2026-07-18T16:12:13.463836Z"
-lastmod: "2026-07-18T16:38:07.034844Z"
+slug: pretrained
+date: '2026-07-18T16:12:13.463836Z'
+lastmod: '2026-07-18T16:38:07.034844Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Refererer til en modell som allerede er trent på et stort datasett før den tilpasses til en spesifikk oppgave."
+source: agnes_llm
+status: published
+language: 'no'
+description: Refererer til en modell som allerede er trent på et stort datasett før
+  den tilpasses til en spesifikk oppgave.
 ---
-
 ## Definition
 
 Begrepet 'forhåndstrent' beskriver et nevral nettverksmodell som har gjennomgått initial trening på et massivt, ofte generelt datasett som ImageNet eller Wikipedia. Denne prosessen lar modellen lære fulle semantiske og syntaktiske mønstre, som deretter kan overføres til spesifikke oppgaver gjennom finjustering, noe som reduserer behovet for store mengder merket data for den nye oppgaven.

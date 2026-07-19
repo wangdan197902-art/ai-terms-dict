@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /no/terms/weak_artificial_intelligence/
 date: "2026-07-18T16:21:09.889499Z"
 lastmod: "2026-07-18T16:38:07.057577Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "AI designet for å utføre spesifikke oppgaver innenfor en begrenset kontekst uten å besitte generelle kognitive evner."
 ---
-
 ## Definition
 
 Svak kunstig intelligens, også kjent som smal AI, refererer til systemer som er konstruert for å løse bestemte problemer eller utføre spesifikke oppgaver, som ansiktsgjenkjenning eller språkoversettelse. I motsetning til sterk AI, har disse systemene ingen bevissthet eller generell forståelse av verden.

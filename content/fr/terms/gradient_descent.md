@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /fr/terms/gradient_descent/
 date: "2026-07-18T10:59:57.980265Z"
 lastmod: "2026-07-18T11:44:45.185038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un algorithme d'optimisation itératif utilisé pour minimiser une fonction de perte en ajustant les paramètres du modèle."
 ---
-
 ## Definition
 
 La descente de gradient est un algorithme d'optimisation itératif du premier ordre visant à trouver le minimum local d'une fonction différentiable. En apprentissage automatique, elle met à jour les poids du modèle dans la direction opposée au gradient de la fonction de perte.

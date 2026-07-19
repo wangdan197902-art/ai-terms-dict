@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /id/terms/supermind_ai/
 date: "2026-07-18T16:10:15.470038Z"
 lastmod: "2026-07-18T16:38:07.511681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Arsitektur atau sistem AI yang dirancang untuk mengintegrasikan beberapa agen atau model cerdas menjadi satu entitas kognitif terpadu yang ditingkatkan, mampu memecahkan masalah dengan lebih unggul."
 ---
-
 ## Definition
 
 AI Superpikiran merujuk pada sistem di mana beberapa komponen AI, pakar manusia, atau tim hibrida manusia-AI berkolaborasi secara mulus untuk membentuk kecerdasan kolektif yang melebihi kemampuan individu manapun

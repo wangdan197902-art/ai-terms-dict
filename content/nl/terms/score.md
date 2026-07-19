@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /nl/terms/score/
 date: "2026-07-18T15:29:41.422196Z"
 lastmod: "2026-07-18T17:15:08.693111Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een score is een numerieke waarde die de kwaliteit, zekerheid of geschiktheid van de voorspelling of oplossing van een model weergeeft."
 ---
-
 ## Definition
 
 Scores kwantificeren hoe goed een machine learning-model presteert tegen specifieke metrieken zoals nauwkeurigheid, precisie of beloning. In reinforcement learning geven scores cumulatieve beloningen aan, terwijl ze in klas

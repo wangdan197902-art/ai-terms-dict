@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /ro/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:44:32.129757Z"
 lastmod: "2026-07-18T17:15:09.628201Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Aplicarea tehnologiilor AI în procesele electorale, inclusiv gestionarea campaniilor, analiza alegătorilor și preocupările legate de dezinformare."
 ---
-
 ## Definition
 
 Acest termen cuprinde rolul dual al AI în procesele democratice: îmbunătățirea eficienței prin analitică de date și prezentarea riscurilor prin manipulare. Pe de o parte, AI ajută campaniile să vizeze alegătorii și să optimizeze

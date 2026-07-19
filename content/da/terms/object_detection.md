@@ -1,23 +1,24 @@
 ---
-title: "Object Detection"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: Object Detection
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /da/terms/object_detection/
-date: "2026-07-18T16:09:58.749066Z"
-lastmod: "2026-07-18T17:15:09.317246Z"
+slug: object_detection
+date: '2026-07-18T16:09:58.749066Z'
+lastmod: '2026-07-18T17:15:09.317246Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik inden for datavisualisering, der identificerer og lokaliserer objekter i billeder eller videostreams ved hjælp af rektangler (bounding boxes)."
+source: agnes_llm
+status: published
+language: da
+description: En teknik inden for datavisualisering, der identificerer og lokaliserer
+  objekter i billeder eller videostreams ved hjælp af rektangler (bounding boxes).
 ---
-
 ## Definition
 
 Object Detection udvider billedklassificering ved ikke kun at bestemme, hvilke objekter der er til stede, men også hvor de befinder sig. Den udsender koordinater for rektangler omkring detekterede genstande sammen med deres klassetiketter, hvilket gør det muligt at forstå scenens rumlige struktur.

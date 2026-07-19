@@ -1,23 +1,24 @@
 ---
-title: "Projeto Inventor Artificial"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Projeto Inventor Artificial
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /pt/terms/artificial_inventor_project/
-date: "2026-07-18T14:49:49.466388Z"
-lastmod: "2026-07-18T15:51:59.463120Z"
+slug: artificial_inventor_project
+date: '2026-07-18T14:49:49.466388Z'
+lastmod: '2026-07-18T15:51:59.463120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma iniciativa de pesquisa focada no desenvolvimento de modelos computacionais de resolução de problemas criativos e processos de invenção semelhantes aos humanos."
+source: agnes_llm
+status: published
+language: pt
+description: Uma iniciativa de pesquisa focada no desenvolvimento de modelos computacionais
+  de resolução de problemas criativos e processos de invenção semelhantes aos humanos.
 ---
-
 ## Definition
 
 O Projeto Inventor Artificial é um esforço de pesquisa interdisciplinar voltado para compreender e replicar os mecanismos cognitivos subjacentes à criatividade e à invenção humanas. Busca construir sistemas de IA...

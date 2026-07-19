@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /zh/terms/ai_mode/
 date: "2026-07-18T11:02:40.820840Z"
 lastmod: "2026-07-18T11:44:45.432647Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "软件界面中的一种功能状态，在此状态下人工智能积极协助或自动化执行任务。"
 ---
-
 ## Definition
 
 AI 模式指的是数字平台或应用程序中激活了人工智能能力以增强用户交互的特定操作状态。此模式通常启用诸如自然语言处理等功能。

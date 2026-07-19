@@ -1,23 +1,26 @@
 ---
-title: "Hidas propagandaa"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Hidas propagandaa
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /fi/terms/slopaganda/
-date: "2026-07-18T16:20:25.521371Z"
-lastmod: "2026-07-18T17:15:09.459811Z"
+slug: slopaganda
+date: '2026-07-18T16:20:25.521371Z'
+lastmod: '2026-07-18T17:15:09.459811Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Sanaleikki sanoista 'slow' (hidas) ja 'propaganda', viittaa harhaanjohtaviin kampanjoihin, jotka pyrkivät heikentämään luottamusta pitkän aikavälin, hienovaraisen vaikutuksen kautta."
+source: agnes_llm
+status: published
+language: fi
+description: Sanaleikki sanoista 'slow' (hidas) ja 'propaganda', viittaa harhaanjohtaviin
+  kampanjoihin, jotka pyrkivät heikentämään luottamusta pitkän aikavälin, hienovaraisen
+  vaikutuksen kautta.
 ---
-
 ## Definition
 
 Slopaganda kuvaa strategista muotoa harhaanjohtamisesta, joka perustuu toistoon, monimerkityksellisyyteen ja pitkän aikavälin altistumiseen viraalien shokkitaktiikoiden sijaan. Sen tavoitteena on hämmentää yleisöä, laimentaa totuutta ja heikentää...

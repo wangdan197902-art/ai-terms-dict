@@ -1,23 +1,23 @@
 ---
-title: "В направлении / К"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: В направлении / К
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /ru/terms/towards/
-date: "2026-07-18T15:29:58.193233Z"
-lastmod: "2026-07-18T16:38:07.092329Z"
+slug: towards
+date: '2026-07-18T15:29:58.193233Z'
+lastmod: '2026-07-18T16:38:07.092329Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "«В направлении» относится к прогрессу или целям оптимизации в ИИ, указывая на движение в сторону улучшения производительности или достижения конкретных целей."
+source: agnes_llm
+status: published
+language: ru
+description: «В направлении» относится к прогрессу или целям оптимизации в ИИ, указывая
+  на движение в сторону улучшения производительности или достижения конкретных целей.
 ---
-
 ## Definition
 
 В разработке ИИ термин «в направлении» часто описывает траекторию процессов оптимизации, например, градиентный спуск, двигающий веса в сторону минимального значения функции потерь. Он также обозначает направления исследований, где усилия сосредоточены на решении определенных задач.

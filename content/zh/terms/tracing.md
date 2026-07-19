@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /zh/terms/tracing/
 date: "2026-07-18T11:37:15.094870Z"
 lastmod: "2026-07-18T11:44:45.564951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "追踪是一种记录程序或AI模型推理过程中的执行路径和中间状态的技术，旨在辅助调试和性能优化。"
 ---
-
 ## Definition
 
 在AI工程背景下，追踪涉及捕获数据在模型或应用程序中流动的详细信息日志，包括每一步的输入、输出、延迟和资源使用情况。这有助于全面监控系统的运行状况。

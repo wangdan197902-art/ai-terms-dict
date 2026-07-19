@@ -1,23 +1,23 @@
 ---
-title: "Optymalny"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Optymalny
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /pl/terms/optimal/
-date: "2026-07-18T15:28:14.629270Z"
-lastmod: "2026-07-18T17:15:08.817352Z"
+slug: optimal
+date: '2026-07-18T15:28:14.629270Z'
+lastmod: '2026-07-18T17:15:08.817352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Optymalny odnosi się do najlepszego możliwego rozwiązania lub działania w ramach zadanych ograniczeń, maksymalizując nagrody lub minimalizując koszty."
+source: agnes_llm
+status: published
+language: pl
+description: Optymalny odnosi się do najlepszego możliwego rozwiązania lub działania
+  w ramach zadanych ograniczeń, maksymalizując nagrody lub minimalizując koszty.
 ---
-
 ## Definition
 
 W sztucznej inteligencji i teorii optymalizacji rozwiązanie optymalne to takie, które osiąga najwyższą możliwą wartość metryki wydajności, np. maksymalny zysk w uczeniu przez wzmacnianie lub minimalny błąd w regresji. Znalezienie takiego rozwiązania jest kluczowe dla efektywności algorytmów.

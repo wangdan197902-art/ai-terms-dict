@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /zh/terms/in_context_learning/
 date: "2026-07-18T07:44:46.533449Z"
 lastmod: "2026-07-18T11:44:44.592217Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种模型通过观察提示中提供的示例来执行任务的技术。"
 ---
-
 ## Definition
 
 上下文学习（ICL）允许大型语言模型在不更新权重的情况下适应新任务。通过在提示上下文中提供输入-输出对，模型可以推断出模式并执行相应任务。

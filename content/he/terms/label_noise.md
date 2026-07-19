@@ -1,23 +1,24 @@
 ---
-title: "רעש בתוויות"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: רעש בתוויות
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /he/terms/label_noise/
-date: "2026-07-18T16:09:00.436940Z"
-lastmod: "2026-07-18T17:15:09.556369Z"
+slug: label_noise
+date: '2026-07-18T16:09:00.436940Z'
+lastmod: '2026-07-18T17:15:09.556369Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שגיאות או אי-עקביות בתוויות היעד של מערך נתונים המשמש לאימון למידת מכונה מפוקחת."
+source: agnes_llm
+status: published
+language: he
+description: שגיאות או אי-עקביות בתוויות היעד של מערך נתונים המשמש לאימון למידת מכונה
+  מפוקחת.
 ---
-
 ## Definition
 
 רעש בתוויות מתייחס לסתירות בין תוויות המחלקה האמיתיות של דוגמאות נתונים לבין התוויות הסופקות במערך הנתונים לאימון. רעש זה יכול לנבוע משגיאות של מתעדים אנושיים, נתונים עמומים, או טעויות באיסוף נתונים, והוא עלול לפגוע ביכולת המודל ללמוד דפוסים מדויקים אם לא מטופל בזהירות.

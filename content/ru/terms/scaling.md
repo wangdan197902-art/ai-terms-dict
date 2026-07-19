@@ -1,23 +1,23 @@
 ---
-title: "Масштабирование"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Масштабирование
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /ru/terms/scaling/
-date: "2026-07-18T15:29:06.757835Z"
-lastmod: "2026-07-18T16:38:07.089495Z"
+slug: scaling
+date: '2026-07-18T15:29:06.757835Z'
+lastmod: '2026-07-18T16:38:07.089495Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Масштабирование — это процесс изменения размера модели или объема данных для улучшения возможностей обучения и производительности."
+source: agnes_llm
+status: published
+language: ru
+description: Масштабирование — это процесс изменения размера модели или объема данных
+  для улучшения возможностей обучения и производительности.
 ---
-
 ## Definition
 
 Масштабирование — это активная методология расширения систем ИИ путем добавления большего числа слоев, нейронов или обучающих примеров. Оно включает такие техники, как распределенное обучение на нескольких GPU для обработки увеличенных

@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /ko/terms/token_limit/
 date: "2026-07-18T15:36:33.156020Z"
 lastmod: "2026-07-18T16:38:06.801012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 모델이 단일 입력 또는 출력 시퀀스에서 처리할 수 있는 토큰의 최대 개수입니다."
 ---
-
 ## Definition
 
 토큰 제한은 대규모 언어 모델의 컨텍스트 윈도우 크기 제약을 정의하며, 한 번에 분석하거나 생성할 수 있는 텍스트의 양을 제한합니다. 이 아키텍처적 경계는 메모리 관리에 영향을 미칩니다.

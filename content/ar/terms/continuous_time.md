@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /ar/terms/continuous_time/
 date: "2026-07-18T15:32:24.869545Z"
 lastmod: "2026-07-18T17:15:08.453193Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نهج نمذجة تتغير فيه المتغيرات بسلاسة عبر مجال مستمر بدلاً من خطوات منفصلة."
 ---
-
 ## Definition
 
 تصف نماذج الزمن المستمر ديناميكيات النظام باستخدام المعادلات التفاضلية، مما يسمح بتطور سلس للحالات بمرور الوقت. في الذكاء الاصطناعي، يتم تمثيل ذلك من خلال المعادلات التفاضلية العادية العصبية (Neural ODEs)...

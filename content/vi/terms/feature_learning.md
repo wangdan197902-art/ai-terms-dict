@@ -1,23 +1,24 @@
 ---
-title: "Feature learning"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Feature learning
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /vi/terms/feature_learning/
-date: "2026-07-18T15:53:20.659772Z"
-lastmod: "2026-07-18T16:38:07.757315Z"
+slug: feature_learning
+date: '2026-07-18T15:53:20.659772Z'
+lastmod: '2026-07-18T16:38:07.757315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp trong đó các thuật toán tự động khám phá các đặc trưng cần thiết cho việc phát hiện hoặc phân loại từ dữ liệu thô."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp trong đó các thuật toán tự động khám phá các đặc trưng
+  cần thiết cho việc phát hiện hoặc phân loại từ dữ liệu thô.
 ---
-
 ## Definition
 
 Feature learning, thường liên quan đến học sâu, cho phép các mô hình học các biểu diễn phân cấp trực tiếp từ dữ liệu đầu vào thô thay vì dựa vào kỹ thuật thiết kế đặc trưng thủ công. Thông qua các lớp...

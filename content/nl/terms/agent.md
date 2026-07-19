@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /nl/terms/agent/
 date: "2026-07-18T15:22:08.358990Z"
 lastmod: "2026-07-18T17:15:08.677849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een AI-systeem dat in staat is zijn omgeving waar te nemen, te redeneren en handelingen te verrichten om specifieke doelen autonoom te bereiken."
 ---
-
 ## Definition
 
 In AI is een agent een entiteit die handelt namens een gebruiker of systeem om taken voltooien. In tegenstelling tot passieve modellen die alleen reageren op prompts, kunnen agenten plannen, gereedschap gebruiken en itereren op hun acties.

@@ -1,23 +1,24 @@
 ---
-title: "Διαρροή Δεδομένων"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Διαρροή Δεδομένων
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /el/terms/leakage/
-date: "2026-07-18T16:17:57.232784Z"
-lastmod: "2026-07-18T17:15:09.925369Z"
+slug: leakage
+date: '2026-07-18T16:17:57.232784Z'
+lastmod: '2026-07-18T17:15:09.925369Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαρροή δεδομένων συμβαίνει όταν πληροφορίες εκτός του συνόλου εκπαίδευσης επηρεάζουν αθέλητα το μοντέλο, οδηγώντας σε υπερβολικά αισιόδοξες εκτιμήσεις απόδοσης."
+source: agnes_llm
+status: published
+language: el
+description: Η διαρροή δεδομένων συμβαίνει όταν πληροφορίες εκτός του συνόλου εκπαίδευσης
+  επηρεάζουν αθέλητα το μοντέλο, οδηγώντας σε υπερβολικά αισιόδοξες εκτιμήσεις απόδοσης.
 ---
-
 ## Definition
 
 Η διαρροή δεδομένων είναι ένα κρίσιμο σφάλμα στη μηχανική μάθηση όπου το μοντέλο αποκτά πρόσβαση σε πληροφορίες κατά την εκπαίδευση που δεν θα ήταν διαθέσιμες κατά τη στιγμή της πρόβλεψης. Αυτό συχνά συμβαίνει μέσω ακατάλληλης επεξεργασίας των δεδομένων ή λανθασμένης διαίρεσης τους.

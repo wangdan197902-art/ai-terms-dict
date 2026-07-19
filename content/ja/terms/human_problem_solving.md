@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /ja/terms/human_problem_solving/
 date: "2026-07-18T11:17:51.145285Z"
 lastmod: "2026-07-18T11:44:45.106383Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "個人が推論、創造性、経験を用いて複雑な課題を特定し、分析し、解決するための認知プロセス。"
 ---
-
 ## Definition
 
 人間の問題解決には、単純なタスクから抽象的な概念的な困難に至るまで、課題に対処するために人間が使用する多面的な認知能力が含まれます。アルゴリズム的なアプローチとは異なり、文脈に応じた柔軟な思考が特徴です。

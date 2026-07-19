@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /sv/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:52:11.329565Z"
 lastmod: "2026-07-18T17:15:08.991965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En datamängd härledd från Stack Exchange XML-dumpar, använd för att träna meninginbäddningar fokuserade på tekniskt och gemenskapsdrivet Q&A-innehåll."
 ---
-
 ## Definition
 
 Denna datamängd extraherar meningsnivådata från Stack Exchange XML-filer, vilket ger en rik källa av tekniska diskussioner, kodsnuttar och problemlösande dialoger. Den används specifikt i

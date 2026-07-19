@@ -1,23 +1,23 @@
 ---
-title: "데이터셋: 위키백과"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: '데이터셋: 위키백과'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /ko/terms/datasetwikipedia/
-date: "2026-07-18T15:49:41.971393Z"
-lastmod: "2026-07-18T16:38:06.829208Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:49:41.971393Z'
+lastmod: '2026-07-18T16:38:06.829208Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "대규모 언어 모델의 사전 훈련과 지식 집약적 자연어 처리(NLP) 작업의 기반이 되는 위키백과의 방대한 텍스트 수집물."
+source: agnes_llm
+status: published
+language: ko
+description: 대규모 언어 모델의 사전 훈련과 지식 집약적 자연어 처리(NLP) 작업의 기반이 되는 위키백과의 방대한 텍스트 수집물.
 ---
-
 ## Definition
 
 위키백과는 텍스트 형식으로 이용 가능한 인간 지식 중 가장 크고 포괄적인 컬렉션 중 하나입니다. 인공지능(AI) 분야에서 위키백과는 대규모 언어 모델을 사전 훈련시키는 주요 원천으로 사용되며, 광범위한 지식과 문맥을 제공합니다.

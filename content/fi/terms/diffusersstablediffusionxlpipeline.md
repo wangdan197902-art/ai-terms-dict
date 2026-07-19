@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /fi/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:54:39.954649Z"
-lastmod: "2026-07-18T17:15:09.405242Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:54:39.954649Z'
+lastmod: '2026-07-18T17:15:09.405242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Putki Stable Diffusion XL:lle (SDXL), joka tarjoaa parannetun resoluution, yksityiskohdat ja kehotteiden noudattamisen aiempiiin versioihin verrattuna."
+source: agnes_llm
+status: published
+language: fi
+description: Putki Stable Diffusion XL:lle (SDXL), joka tarjoaa parannetun resoluution,
+  yksityiskohdat ja kehotteiden noudattamisen aiempiiin versioihin verrattuna.
 ---
-
 ## Definition
 
 Tämä putki toteuttaa Stable Diffusion XL -arkkitehtuurin, joka käyttää hienosäädettyä perusmallia ja hienontajamallia (refiner) tuottaakseen korkearesoluutioisia (1024x1024) kuvia, joissa on erinomainen yksityiskohtaisuus ja koostumus. Se,

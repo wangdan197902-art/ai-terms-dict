@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /id/terms/document_classification/
 date: "2026-07-18T15:48:41.014837Z"
 lastmod: "2026-07-18T16:38:07.452151Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses mengkategorikan dokumen teks ke dalam kelompok-kelompok yang telah ditentukan sebelumnya berdasarkan isinya."
 ---
-
 ## Definition
 
 Klasifikasi dokumen adalah tugas pemrosesan bahasa alami (NLP) mendasar di mana algoritme menetapkan label pada data teks yang tidak terstruktur. Hal ini melibatkan ekstraksi fitur dari dokumen dan memetakannya ke dalam kategori yang telah ditentukan.

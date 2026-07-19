@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /cs/terms/automated_decision_making/
 date: "2026-07-18T15:43:57.189605Z"
 lastmod: "2026-07-18T17:15:09.104695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces, při kterém algoritmy nezávisle vybírají akce nebo výsledky na základě vstupních dat bez přímého lidského dozoru."
 ---
-
 ## Definition
 
 Automatizované rozhodování (ADM) spoléhá na softwarové systémy, které přijímají rozhodnutí, která dříve vyžadovala lidský úsudek. Časté v hodnocení kreditů, moderování obsahu a logistice, ADM používá předdefinovaná pravidla nebo modely k rychlému zpracování.

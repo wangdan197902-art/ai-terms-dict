@@ -1,23 +1,24 @@
 ---
-title: "Tartalom eredetnyomozása"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Tartalom eredetnyomozása
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /hu/terms/content_provenance/
-date: "2026-07-18T15:51:46.264971Z"
-lastmod: "2026-07-18T17:15:09.765420Z"
+slug: content_provenance
+date: '2026-07-18T15:51:46.264971Z'
+lastmod: '2026-07-18T17:15:09.765420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy digitális eszköz eredetének, történetének és tulajdonjogának ellenőrizhető nyilvántartása."
+source: agnes_llm
+status: published
+language: hu
+description: Egy digitális eszköz eredetének, történetének és tulajdonjogának ellenőrizhető
+  nyilvántartása.
 ---
-
 ## Definition
 
 A tartalom eredetnyomozása a digitális tartalom származásának, létrehozásának módjának és az idő során végzett módosítások dokumentációját és ellenőrzését jelenti. Az AI kontextusában kulcsfontosságú a tartalmak hitelességének biztosításában és a manipulációk (például mélyhamisítványok) feltárásában.

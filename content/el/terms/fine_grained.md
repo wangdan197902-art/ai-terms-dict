@@ -1,23 +1,24 @@
 ---
-title: "λεπτομερής / κοκκομετρικός"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: λεπτομερής / κοκκομετρικός
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /el/terms/fine_grained/
-date: "2026-07-18T15:35:54.100696Z"
-lastmod: "2026-07-18T17:15:09.859297Z"
+slug: fine_grained
+date: '2026-07-18T15:35:54.100696Z'
+lastmod: '2026-07-18T17:15:09.859297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Περιγράφει εργασίες ανάλυσης ή ταξινόμησης που απαιτούν τη διάκριση μεταξύ λεπτών διαφορών μέσα σε μια ευρεία κατηγορία."
+source: agnes_llm
+status: published
+language: el
+description: Περιγράφει εργασίες ανάλυσης ή ταξινόμησης που απαιτούν τη διάκριση μεταξύ
+  λεπτών διαφορών μέσα σε μια ευρεία κατηγορία.
 ---
-
 ## Definition
 
 Η λεπτομερής ανάλυση περιλαμβάνει την ταυτοποίηση και ταξινόμηση αντικειμένων ή εννοιών σε επίπεδο υπο-κατηγορίας αντί απλώς στην κύρια κατηγορία. Για παράδειγμα, η διάκριση μεταξύ συγκεκριμένων φυλών σκύλων ή τύπων πουλιών απαιτεί την αναγνώριση λεπτών οπτικών χαρακτηριστικών που διαφέρουν ελάχιστα μεταξύ των κατηγοριών, κάτι που αποτελεί πρόκληση για τα συστήματα AI.

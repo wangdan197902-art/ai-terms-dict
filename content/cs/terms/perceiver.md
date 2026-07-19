@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /cs/terms/perceiver/
 date: "2026-07-18T16:12:26.538644Z"
 lastmod: "2026-07-18T17:15:09.188627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Systém nebo modul odpovědný za přijímání a interpretaci senzorických vstupů z prostředí."
 ---
-
 ## Definition
 
 V AI a kognitivní vědách perceiver označuje komponentu inteligentního systému, která zpracovává surová senzorická data na smysluplné informace. Na rozdíl od jednoduchých senzorů, které pouze detekují signály, p...

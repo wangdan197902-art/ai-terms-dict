@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /da/terms/knowledge_integration/
 date: "2026-07-18T16:03:04.239605Z"
 lastmod: "2026-07-18T17:15:09.302603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at kombinere heterogene videnskilder til en forenet, konsistent repræsentation for forbedret ræsonnement."
 ---
-
 ## Definition
 
 Videnintegration indebærer at flette data fra forskellige kilder, såsom databaser, ontologier og ustruktureret tekst, ind i et sammenhængende skema. Det adresserer problemer med semantisk heterogenitet og inkonsistens.

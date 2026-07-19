@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /tr/terms/text_embeddings_inference/
 date: "2026-07-18T16:17:05.938236Z"
 lastmod: "2026-07-18T16:38:07.372053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Anlamsal arama ve geri getirme görevleri için metnin yoğun vektör temsillerini verimli bir şekilde oluşturmak üzere tasarlanmış özel bir çıkarım sunucusu."
 ---
-
 ## Definition
 
 Metin Gömme Çıkarımı, doğal dili yüksek boyutlu vektörlere dönüştüren modellerin dağıtımı ve optimize edilmesini ifade eder. Bu gömmeler (embeddings), anlamsal anlamı yakalayarak sistemlerin metinler arasındaki anlam benzerliğini anlayabilmesine olanak tanır.

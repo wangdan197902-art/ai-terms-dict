@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /de/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T11:10:08.173057Z"
 lastmod: "2026-07-18T11:44:44.925864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein kuratierter Datensatz, der aus dem Simple English Wikipedia abgeleitet wurde und zum Training sowie zur Bewertung von Text-Embedding-Modellen dient."
 ---
-
 ## Definition
 
 Dieser Datensatz besteht aus Sätzen und Abschnitten, die aus dem Simple English Wikipedia extrahiert wurden, einer Version von Wikipedia, die für Nicht-Muttersprachler mit vereinfachter Grammatik und einem reduzierten Wortschatz verfasst ist. Er dient als

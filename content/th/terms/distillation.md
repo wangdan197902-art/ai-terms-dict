@@ -1,23 +1,24 @@
 ---
-title: "การกลั่นความรู้ (Knowledge Distillation)"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: การกลั่นความรู้ (Knowledge Distillation)
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /th/terms/distillation/
-date: "2026-07-18T15:24:36.950932Z"
-lastmod: "2026-07-18T16:38:07.535593Z"
+slug: distillation
+date: '2026-07-18T15:24:36.950932Z'
+lastmod: '2026-07-18T16:38:07.535593Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การกลั่นความรู้เป็นเทคนิคการบีบอัดโมเดล โดยที่โมเดลขนาดเล็ก (Student) เรียนรู้ที่จะเลียนแบบพฤติกรรมของโมเดลขนาดใหญ่ (Teacher)"
+source: agnes_llm
+status: published
+language: th
+description: การกลั่นความรู้เป็นเทคนิคการบีบอัดโมเดล โดยที่โมเดลขนาดเล็ก (Student)
+  เรียนรู้ที่จะเลียนแบบพฤติกรรมของโมเดลขนาดใหญ่ (Teacher)
 ---
-
 ## Definition
 
 กระบวนการนี้เกี่ยวข้องกับการถ่ายโอนความรู้จากเครือข่ายประสาทเทียม 'Teacher' ที่ซับซ้อนและประสิทธิภาพสูง ไปยังเครือข่าย 'Student' ที่เรียบง่ายและมีประสิทธิภาพมากขึ้น Student จะเรียนรู้ไม่เพียงแต่จากป้ายกำกับที่ชัดเจน (Hard labels) แต่ยังรวมถึงข้อมูลเชิงลึกจากโมเดล Teacher ด้วย

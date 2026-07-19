@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /pt/terms/biomedical/
 date: "2026-07-18T14:51:55.844948Z"
 lastmod: "2026-07-18T15:51:59.468969Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Relativo à aplicação das ciências naturais à prática médica, frequentemente envolvendo análise computacional de dados de saúde."
 ---
-
 ## Definition
 
 Biomedicina refere-se à interseção entre biologia, medicina e tecnologia, especialmente no desenvolvimento de ferramentas diagnósticas, tratamentos e métodos de análise de dados. Na IA, isso envolve aplicar técnicas de aprendizado de máquina para processar informações clínicas.

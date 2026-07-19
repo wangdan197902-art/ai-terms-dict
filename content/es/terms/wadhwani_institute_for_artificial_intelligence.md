@@ -1,23 +1,25 @@
 ---
-title: "Instituto Wadhwani de Inteligencia Artificial"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: Instituto Wadhwani de Inteligencia Artificial
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /es/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T11:13:09.320043Z"
-lastmod: "2026-07-18T11:44:44.864875Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T11:13:09.320043Z'
+lastmod: '2026-07-18T11:44:44.864875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El Instituto Wadhwani de Inteligencia Artificial es una organización de investigación centrada en aplicar soluciones de IA para abordar desafíos críticos en salud y agricultura en economías en desarro"
+source: agnes_llm
+status: published
+language: es
+description: El Instituto Wadhwani de Inteligencia Artificial es una organización
+  de investigación centrada en aplicar soluciones de IA para abordar desafíos críticos
+  en salud y agricultura en economías en desarro
 ---
-
 ## Definition
 
 Establecido con una donación significativa de la Fundación Wadhwani, este instituto aprovecha tecnologías avanzadas de aprendizaje automático y visión por computadora para resolver problemas sociales a gran escala. Sus proyectos se enfocan en mejorar la calidad de vida.

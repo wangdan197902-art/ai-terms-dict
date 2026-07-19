@@ -1,23 +1,22 @@
 ---
-title: "算法偏见"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: 算法偏见
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /zh/terms/algorithmic_bias/
-date: "2026-07-18T11:04:37.356455Z"
-lastmod: "2026-07-18T11:44:45.441073Z"
+slug: algorithmic_bias
+date: '2026-07-18T11:04:37.356455Z'
+lastmod: '2026-07-18T11:44:45.441073Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "算法偏见是指计算机系统中系统性且可重复的错误，导致不公平的结果，例如偏袒某一任意群体而忽视其他群体。"
+source: agnes_llm
+status: published
+language: zh
+description: 算法偏见是指计算机系统中系统性且可重复的错误，导致不公平的结果，例如偏袒某一任意群体而忽视其他群体。
 ---
-
 ## Definition
 
 算法偏见通常源于非代表性的训练数据、主观的设计选择或放大现有社会偏见的反馈循环。它表现为预测结果的偏差

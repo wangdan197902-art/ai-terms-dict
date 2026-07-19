@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /zh/terms/spatial_intelligence/
 date: "2026-07-18T11:34:45.355855Z"
 lastmod: "2026-07-18T11:44:45.557489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI系统理解、推理和导航三维环境的能力。"
 ---
-
 ## Definition
 
 空间智能是指人工智能模型感知、解释和操作物理或虚拟环境中空间关系的能力。它涉及对空间结构的深入理解，使机器能够像人类一样在复杂环境中进行定位和交互。

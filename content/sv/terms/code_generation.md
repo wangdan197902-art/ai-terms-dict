@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /sv/terms/code_generation/
 date: "2026-07-18T15:22:41.273877Z"
 lastmod: "2026-07-18T17:15:08.935681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att använda artificiell intelligens för att automatiskt skapa källkod från naturliga språkbeskrivningar eller befintliga kodsnuttar."
 ---
-
 ## Definition
 
 Kodgenerering utnyttjar stora språkmodeller som tränats på enorma arkiv av programmeringsspråk för att producera funktionella mjukvaruartefakter. Den tolkar mänskligt läsbara instruktioner, såsom kommentarer eller beskrivningar, och omvandlar dem till körbar kod.

@@ -1,23 +1,24 @@
 ---
-title: "Eylem Seçiminde Kazanan Hepsini Alır"
-term_id: "winner_take_all_in_action_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "decision_making", "rl"]
+title: Eylem Seçiminde Kazanan Hepsini Alır
+term_id: winner_take_all_in_action_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Decision Making
+- RL
 difficulty: 3
 weight: 1
-slug: "winner_take_all_in_action_selection"
-aliases:
-  - /tr/terms/winner_take_all_in_action_selection/
-date: "2026-07-18T16:21:27.805184Z"
-lastmod: "2026-07-18T16:38:07.377923Z"
+slug: winner_take_all_in_action_selection
+date: '2026-07-18T16:21:27.805184Z'
+lastmod: '2026-07-18T16:38:07.377923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "En yüksek aktivasyon düzeyine sahip nöronun veya ajanın, diğerlerini baskılayarak tek bir eylemi seçtiği bir karar verme mekanizması."
+source: agnes_llm
+status: published
+language: tr
+description: En yüksek aktivasyon düzeyine sahip nöronun veya ajanın, diğerlerini
+  baskılayarak tek bir eylemi seçtiği bir karar verme mekanizması.
 ---
-
 ## Definition
 
 Kazanan Hepsini Alır (WTA), sinir ağlarında ve pekiştirmeli öğrenmede, birden fazla rekabetçi eylem veya hipotez arasındaki çatışmaları çözmek için kullanılan rekabetçi bir süreçtir. Bu şemada, en yüksek aktivasyona sahip birim diğer tüm birimlerin aktivitesini baskılar ve yalnızca o birimin temsil ettiği eylem veya hipotez seçilir. Bu yaklaşım, net ve kesin kararlar alınmasını sağlar.

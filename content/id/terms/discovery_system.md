@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /id/terms/discovery_system/
 date: "2026-07-18T15:48:27.542963Z"
 lastmod: "2026-07-18T16:38:07.451922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja atau proses algoritmik otomatis yang dirancang untuk mengidentifikasi, menjelajahi, dan mengevaluasi solusi, pola, atau hipotesis potensial dalam ruang pencarian yang luas."
 ---
-
 ## Definition
 
 Sistem penemuan adalah kerangka komputasi yang bertujuan mempercepat terobosan ilmiah atau analitis dengan mengotomatisasi penjelajahan ruang data yang sangat besar. Berbeda dengan optimisasi tradisional yang mencari minimum lokal, sistem ini berfokus pada eksplorasi aktif untuk menemukan wawasan baru.

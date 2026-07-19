@@ -1,23 +1,24 @@
 ---
-title: "การสร้างหน้ากาก (Mask Generation)"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: การสร้างหน้ากาก (Mask Generation)
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /th/terms/mask_generation/
-date: "2026-07-18T16:04:52.721503Z"
-lastmod: "2026-07-18T16:38:07.630318Z"
+slug: mask_generation
+date: '2026-07-18T16:04:52.721503Z'
+lastmod: '2026-07-18T16:38:07.630318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการสร้างหน้ากากแบบไบนารีหรือความน่าจะเป็นเพื่อซ่อนหรือเน้นส่วนต่างๆ ของข้อมูลนำเข้าระหว่างการประมวลผลของโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการสร้างหน้ากากแบบไบนารีหรือความน่าจะเป็นเพื่อซ่อนหรือเน้นส่วนต่างๆ
+  ของข้อมูลนำเข้าระหว่างการประมวลผลของโมเดล
 ---
-
 ## Definition
 
 การสร้างหน้ากากเกี่ยวข้องกับการผลิตหน้ากากเชิงพื้นที่หรือเวลาซึ่งกำหนดว่าองค์ประกอบใดของชุดข้อมูลจะมองเห็นได้หรือทำงานอยู่ระหว่างปฏิบัติการเฉพาะ ในด้านคอมพิวเตอร์วิทัศน์ มันถูกใช้สำหรับการแบ่งส่วนวัตถุ...

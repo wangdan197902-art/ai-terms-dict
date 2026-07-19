@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /ko/terms/ameca/
 date: "2026-07-18T15:40:52.252568Z"
 lastmod: "2026-07-18T16:38:06.807460Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "엔지니어드 아츠(Engineered Arts)가 개발한 고도로 발전된 휴머노이드 로봇으로, 뛰어난 표정 표현력과 인간과 유사한 상호작용 능력으로 유명합니다."
 ---
-
 ## Definition
 
 아메카는 얼굴에만 40개 이상의 자유도를 갖춘 최첨단 휴머노이드 로봇으로, 미묘하고 현실적인 감정 표현을 가능하게 합니다. 인간-로봇 상호작용을 연구하기 위해 설계되었으며,

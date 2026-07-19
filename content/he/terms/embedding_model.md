@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /he/terms/embedding_model/
 date: "2026-07-18T15:36:22.156401Z"
 lastmod: "2026-07-18T17:15:09.498750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל הטמעה הופך נתונים גולמיים כמו טקסט או תמונות לווקטורים מספריים צפופים המייצגים משמעות סמנטית."
 ---
-
 ## Definition
 
 מודלים אלו ממפים נתונים רב-ממדיים למרחב וקטורי רציף בעל ממדים נמוכים יותר, שבו פריטים דומים נמצאים קרוב זה לזה. המרה זו תופסת קשרים סמנטיים, ומאפשרת השוואה יעילה.

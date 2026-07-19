@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /he/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:14:05.190722Z"
 lastmod: "2026-07-18T17:15:09.568006Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "יוזמה המנצלת בינה מלאכותית ונתוני לוויין לניטור וחיזוי דפוסי איכות אוויר גלובליים."
 ---
-
 ## Definition
 
 פרויקט זה מנצל את נתוני התצפית על כדור הארץ של נאס"א בשילוב עם אלגוריתמי AI מתקדמים כדי לעקוב אחר חלקיקים מרחפים ומזהמים גזיים ברמה הגלובלית. על ידי שילוב תמונות לוויין עם נתוני קרקע

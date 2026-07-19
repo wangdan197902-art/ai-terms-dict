@@ -1,23 +1,24 @@
 ---
-title: "Сдвиг набора данных"
-term_id: "dataset_shift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "statistics", "model_deployment"]
+title: Сдвиг набора данных
+term_id: dataset_shift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- statistics
+- Model Deployment
 difficulty: 3
 weight: 1
-slug: "dataset_shift"
-aliases:
-  - /ru/terms/dataset_shift/
-date: "2026-07-18T15:47:40.257849Z"
-lastmod: "2026-07-18T16:38:07.139067Z"
+slug: dataset_shift
+date: '2026-07-18T15:47:40.257849Z'
+lastmod: '2026-07-18T16:38:07.139067Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Сдвиг набора данных — это явление, при котором статистические свойства входных данных изменяются в период между обучением и развертыванием модели."
+source: agnes_llm
+status: published
+language: ru
+description: Сдвиг набора данных — это явление, при котором статистические свойства
+  входных данных изменяются в период между обучением и развертыванием модели.
 ---
-
 ## Definition
 
 Сдвиг набора данных возникает, когда распределение данных, используемых для обучения модели машинного обучения, отличается от распределения данных, с которыми модель сталкивается во время вывода (инференса). Это несоответствие может привести к значительному снижению производительности модели на новых данных.

@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /it/terms/grok/
 date: "2026-07-18T16:02:28.259982Z"
 lastmod: "2026-07-18T17:15:08.631542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un chatbot IA sviluppato da xAI, integrato nella piattaforma X, noto per l'accesso in tempo reale ai dati dei social media e per la sua personalità spiritosa."
 ---
-
 ## Definition
 
 Grok è un chatbot basato su un modello linguistico di grandi dimensioni creato dalla società di Elon Musk, xAI. È principalmente accessibile agli abbonati della piattaforma X (ex Twitter). Grok si distingue per avere accesso in tempo reale ai dati di X, permettendogli di rispondere a domande su eventi attuali con un tono spesso irriverente e umoristico.

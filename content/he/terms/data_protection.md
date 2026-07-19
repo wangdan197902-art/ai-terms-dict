@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /he/terms/data_protection/
 date: "2026-07-18T15:35:59.256353Z"
 lastmod: "2026-07-18T17:15:09.497747Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך של הגנה על מידע רגיש מגישה לא מורשית, השחתה או גניבה לאורך כל מחזור החיים שלו."
 ---
-
 ## Definition
 
 הגנת נתונים כוללת אמצעים משפטיים, טכניים וארגוניים המיועדים להגן על נתונים אישיים וקנייניים מפני הפרות ושימוש לרעה. ב-AI, זה כולל יישום הצפנה, בקרת

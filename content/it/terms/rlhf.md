@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento per Rinforzo dal Feedback Umano"
-term_id: "rlhf"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "fine_tuning"]
+title: Apprendimento per Rinforzo dal Feedback Umano
+term_id: rlhf
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Fine-Tuning
 difficulty: 5
 weight: 1
-slug: "rlhf"
-aliases:
-  - /it/terms/rlhf/
-date: "2026-07-18T15:28:18.552276Z"
-lastmod: "2026-07-18T17:15:08.573169Z"
+slug: rlhf
+date: '2026-07-18T15:28:18.552276Z'
+lastmod: '2026-07-18T17:15:08.573169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "RLHF è una tecnica che allinea i modelli di IA alle preferenze umane utilizzando il feedback umano per addestrare un modello di ricompensa per l'apprendimento per rinforzo."
+source: agnes_llm
+status: published
+language: it
+description: RLHF è una tecnica che allinea i modelli di IA alle preferenze umane
+  utilizzando il feedback umano per addestrare un modello di ricompensa per l'apprendimento
+  per rinforzo.
 ---
-
 ## Definition
 
 L'Apprendimento per Rinforzo dal Feedback Umano (RLHF) è un metodo utilizzato per affinare i grandi modelli linguistici in modo che i loro output siano meglio allineati con i valori e le aspettative umane. Tipicamente coinvolge tre fasi...

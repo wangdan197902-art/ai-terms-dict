@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /it/terms/gradient_accumulation/
 date: "2026-07-18T16:02:13.986949Z"
 lastmod: "2026-07-18T17:15:08.630973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'accumulo dei gradienti è una tecnica che simula dimensioni del batch più grandi sommando i gradienti su più passaggi forward/backward prima di aggiornare i pesi."
 ---
-
 ## Definition
 
 Questa strategia di ottimizzazione consente di addestrare modelli di deep learning con dimensioni effettive del batch superiori a quelle che possono essere memorizzate nella memoria della GPU. Accumulando i gradienti da diversi mini-batch ed eseguendo

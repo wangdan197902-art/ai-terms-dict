@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /hu/terms/intelligent_agent/
 date: "2026-07-18T16:06:20.849522Z"
 lastmod: "2026-07-18T17:15:09.797314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy autonóm szoftveres entitás, amely érzékeli környezetét, elemzi a cselekvéseket, és feladatokat hajt végre specifikus célok elérése érdekében."
 ---
-
 ## Definition
 
 Egy intelligens ügynök olyan rendszer, amely képes érzékelni a környezetét szenzorokon vagy adatbevitelen keresztül, feldolgozni ezt az információt logikai algoritmusok segítségével, és cselekedni a környezeten végrehajtóikon (actuators) keresztül

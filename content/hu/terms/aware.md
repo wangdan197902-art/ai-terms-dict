@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /hu/terms/aware/
 date: "2026-07-18T15:23:41.245477Z"
 lastmod: "2026-07-18T17:15:09.715723Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Jelzi az AI azon képességét, hogy észleljen és feldolgozzon specifikus kontextuális információkat vagy ingereket."
 ---
-
 ## Definition
 
 Az AI kontextusában a 'tudatos' (aware) kifejezés általában helyzet- vagy kontextustudatra utal, ahol a rendszer felismeri a releváns környezeti tényezőket vagy felhasználói állapotokat. Nem implikálja az öntudatot, hanem inkább a kontextus értelmezésének képességét.

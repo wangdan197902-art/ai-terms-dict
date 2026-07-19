@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /ar/terms/data_exploration/
 date: "2026-07-18T15:51:32.193287Z"
 lastmod: "2026-07-18T17:15:08.490023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التحليل الأولي لمجموعات البيانات لاكتشاف الأنماط، وتحديد الشذوذ، واختبار الفرضيات قبل النمذجة الرسمية."
 ---
-
 ## Definition
 
 استكشاف البيانات، ويُشار إليه غالباً بتحليل البيانات الاستكشافي (EDA)، هو خطوة تمهيدية حاسمة في سير عمل التعلم الآلي. يتضمن تلخيص الخصائص الرئيسية للبيانات، وغالباً ما يستخدم تقنيات التصور الإحصائي لفهم توزيعها وعلاقاتها.

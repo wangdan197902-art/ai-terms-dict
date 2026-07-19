@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /fi/terms/data_poisoning/
 date: "2026-07-18T15:50:44.390565Z"
 lastmod: "2026-07-18T17:15:09.396651Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Datamyrkytys on tietoturva-isku, jossa haitalliset toimijat ruiskuttavat vaurioitunutta tai harhaanjohtavaa dataa koulutusjoukkoon heikentääkseen mallin suorituskykyä."
 ---
-
 ## Definition
 
 Tämä vastustava tekniikka pyrkii vaarantamaan koneoppimismallien eheyden muuttamalla koulutusdataa. Esittämällä hienovaraisia virheitä tai harhoja hyökkääjät voivat aiheuttaa mallin

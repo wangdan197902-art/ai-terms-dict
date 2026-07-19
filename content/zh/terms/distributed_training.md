@@ -1,23 +1,23 @@
 ---
-title: "分布式训练"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: 分布式训练
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /zh/terms/distributed_training/
-date: "2026-07-18T10:59:40.488049Z"
-lastmod: "2026-07-18T11:44:45.398580Z"
+slug: distributed_training
+date: '2026-07-18T10:59:40.488049Z'
+lastmod: '2026-07-18T11:44:45.398580Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "通过将数据或计算任务拆分到多个设备或服务器上，从而训练机器学习模型的方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 通过将数据或计算任务拆分到多个设备或服务器上，从而训练机器学习模型的方法。
 ---
-
 ## Definition
 
 分布式训练通过在多个 GPU 或节点上并行化计算来加速模型收敛。主要技术包括数据并行（每个工作进程处理数据子集）和模型并行（将模型的不同部分分布在不同设备上），以处理大规模数据集和巨型模型。

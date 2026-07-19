@@ -1,23 +1,24 @@
 ---
-title: "Nauka bez dozoru"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: Nauka bez dozoru
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /cs/terms/unsupervised_learning/
-date: "2026-07-18T15:39:06.387130Z"
-lastmod: "2026-07-18T17:15:09.095002Z"
+slug: unsupervised_learning
+date: '2026-07-18T15:39:06.387130Z'
+lastmod: '2026-07-18T17:15:09.095002Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika strojového učení, kde modely učí vzorce z neoznačených dat bez explicitního vedení nebo správných odpovědí."
+source: agnes_llm
+status: published
+language: cs
+description: Technika strojového učení, kde modely učí vzorce z neoznačených dat bez
+  explicitního vedení nebo správných odpovědí.
 ---
-
 ## Definition
 
 Nauka bez dozoru identifikuje skryté struktury, shluky nebo distribuce v surových datech autonomně. Běžné metody zahrnují shlukování, redukci dimenzionality a generativní modelování. Je

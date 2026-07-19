@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /pl/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:39:31.577581Z"
 lastmod: "2026-07-18T17:15:08.843190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Alexander Y. Tetelbaum to uznanym badaczem i współtwórcą w dziedzinie sztucznej inteligencji i uczenia maszynowego."
 ---
-
 ## Definition
 
 Alexander Y. Tetelbaum jest osobą docenianą w środowiskach akademickich i technicznych za wkład w badania nad sztuczną inteligencją, szczególnie w obszarach dotyczących efektywności algorytmicznej i sieci neuronowych.

@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /tr/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:47:01.712041Z"
 lastmod: "2026-07-18T16:38:07.289162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bu alan, verilerden içgörüler elde etmek ve gelecekteki olayları veya davranışları öngörmek için istatistiksel analiz ile makine öğrenimini birleştirir."
 ---
-
 ## Definition
 
 Veri bilimi, yapılandırılmış ve yapılandırılmamış verilerden bilgi çıkarma sürecini içerirken, tahmine dayalı analitik özellikle geçmiş verileri kullanarak gelecekteki sonuçları tahmin etmeye odaklanır.

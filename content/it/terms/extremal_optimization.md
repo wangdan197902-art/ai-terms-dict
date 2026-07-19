@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /it/terms/extremal_optimization/
 date: "2026-07-18T15:59:06.352204Z"
 lastmod: "2026-07-18T17:15:08.624865Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'ottimizzazione estremale è un algoritmo di ricerca euristica ispirato alla criticità auto-organizzata, progettato per risolvere problemi di ottimizzazione combinatoria rimuovendo iterativamente i co"
 ---
-
 ## Definition
 
 A differenza degli algoritmi genetici che mantengono una popolazione, l'EO lavora su una singola soluzione. Identifica il componente che contribuisce meno alla fitness complessiva e lo sostituisce con un'alternativa casuale. Questo

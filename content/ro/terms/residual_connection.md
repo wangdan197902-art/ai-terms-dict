@@ -1,23 +1,24 @@
 ---
-title: "Conexiune Reziduală"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Conexiune Reziduală
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /ro/terms/residual_connection/
-date: "2026-07-18T15:38:03.240136Z"
-lastmod: "2026-07-18T17:15:09.618373Z"
+slug: residual_connection
+date: '2026-07-18T15:38:03.240136Z'
+lastmod: '2026-07-18T17:15:09.618373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un mecanism care adaugă intrarea direct la ieșirea unui strat pentru a facilita fluxul gradientului în rețelele profunde."
+source: agnes_llm
+status: published
+language: ro
+description: Un mecanism care adaugă intrarea direct la ieșirea unui strat pentru
+  a facilita fluxul gradientului în rețelele profunde.
 ---
-
 ## Definition
 
 Conexiunile reziduale, cunoscute și sub denumirea de conexiuni skip (de ocolire), permit gradientilor să curgă printr-o rețea prin adăugarea directă a unei intrări la ieșirea unui strat ulterior. Această arhitectură rezolvă problema dispariției gradientului.

@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /nl/terms/reflection/
 date: "2026-07-18T16:15:24.534036Z"
 lastmod: "2026-07-18T17:15:08.783003Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een mechanisme dat AI-modellen in staat stelt hun eigen uitvoer, redeneerprocessen of interne staten te analyseren om de toekomstige prestaties te verbeteren."
 ---
-
 ## Definition
 
 In AI is reflectie een paradigma waarbij een model pauzeert om zijn eigen generatieproces of uitvoer te evalueren voordat deze wordt definitief gemaakt. Dit kan het controleren op logische consistentie, feitelijke nauwkeurigheid of naleving van regels omvatten.

@@ -1,23 +1,23 @@
 ---
-title: "연관 학습"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: 연관 학습
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /ko/terms/federated_learning/
-date: "2026-07-18T15:34:19.126532Z"
-lastmod: "2026-07-18T16:38:06.795111Z"
+slug: federated_learning
+date: '2026-07-18T15:34:19.126532Z'
+lastmod: '2026-07-18T16:38:06.795111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "연관 학습은 데이터를 로컬에 유지하면서 분산된 장치들 간에 모델을 훈련하는 분산 머신러닝 접근 방식입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 연관 학습은 데이터를 로컬에 유지하면서 분산된 장치들 간에 모델을 훈련하는 분산 머신러닝 접근 방식입니다.
 ---
-
 ## Definition
 
 연관 학습은 민감한 원시 데이터를 공유하지 않고도 조직들이 협력하여 AI 모델을 훈련할 수 있게 합니다. 정보를 중앙 집중식 저장소에 모으는 대신, 모델이 로컬 장치로 전송되어 해당 장치에서 학습한 후 업데이트된 모델 파라미터만 서버로 보내져 집계됩니다.

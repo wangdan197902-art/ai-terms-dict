@@ -1,23 +1,23 @@
 ---
-title: "多元自适应回归样条"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: 多元自适应回归样条
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /zh/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T11:27:47.974062Z"
-lastmod: "2026-07-18T11:44:45.535396Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T11:27:47.974062Z'
+lastmod: '2026-07-18T11:44:45.535396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种非参数回归技术，自动选择基函数以对复杂关系进行建模。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种非参数回归技术，自动选择基函数以对复杂关系进行建模。
 ---
-
 ## Definition
 
 多元自适应回归样条（MARS）是一种灵活的回归方法，通过拟合分段线性基函数来建模复杂的非线性关系。它会自动选择断点（knots）并构建基函数，以捕捉数据中的局部变化模式。

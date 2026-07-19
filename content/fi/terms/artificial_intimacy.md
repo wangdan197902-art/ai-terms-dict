@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /fi/terms/artificial_intimacy/
 date: "2026-07-18T15:43:25.622592Z"
 lastmod: "2026-07-18T17:15:09.384633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käyttäjien muodostama emotionaalinen side tekoälyolioihin, jotka simuloivat empatiaa, seurustelua ja henkilökohtaista vuorovaikutusta."
 ---
-
 ## Definition
 
 Tekoälyintimiteetti viittaa psykologiseen ilmiöön, jossa ihmiset kehittävät aitoja emotionaalisia sidoksia tekoälyagentteihin, kuten keskustelubotteihin, virtuaaliassistentteihin tai sosiaalisiin robotteihin. Nämä järjestelmät on suunniteltu jäljittelemään inhimillistä empatiaa ja sosiaalisia signaaleja, mikä voi johtaa käyttäjän tunneperäiseen riippuvuuteen tai lohdutuksen etsimiseen koneelta.

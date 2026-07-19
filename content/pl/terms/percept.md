@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /pl/terms/percept/
 date: "2026-07-18T16:10:51.679425Z"
 lastmod: "2026-07-18T17:15:08.905983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Mentalna reprezentacja lub zinterpretowany wynik danych sensorycznych przetworzonych przez odbiornik."
 ---
-
 ## Definition
 
 Percepcja to wewnętrzna reprezentacja bodźca zewnętrznego po jego przetworzeniu przez system odbiorczy. W AI odpowiada ona za strukturyzowane dane wyjściowe z niskopoziomowego przetwarzania sygnału...

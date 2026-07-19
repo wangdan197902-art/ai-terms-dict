@@ -1,23 +1,25 @@
 ---
-title: "Formale Begriffsanalyse"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Formale Begriffsanalyse
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /de/terms/formal_concept_analysis/
-date: "2026-07-18T11:14:56.506276Z"
-lastmod: "2026-07-18T11:44:44.941634Z"
+slug: formal_concept_analysis
+date: '2026-07-18T11:14:56.506276Z'
+lastmod: '2026-07-18T11:44:44.941634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die Formale Begriffsanalyse (FBA) ist eine mathematische Methode zur Ableitung konzeptioneller Hierarchien aus Daten unter Verwendung formaler Kontexte und Begriffsgitter."
+source: agnes_llm
+status: published
+language: de
+description: Die Formale Begriffsanalyse (FBA) ist eine mathematische Methode zur
+  Ableitung konzeptioneller Hierarchien aus Daten unter Verwendung formaler Kontexte
+  und Begriffsgitter.
 ---
-
 ## Definition
 
 Die FBA bietet einen rigorosen Rahmen zur Analyse der Beziehungen zwischen Objekten und ihren Attributen, was zu einer hierarchischen Struktur führt, die als Begriffsgitter bekannt ist. Sie wird häufig in der Wissensdis

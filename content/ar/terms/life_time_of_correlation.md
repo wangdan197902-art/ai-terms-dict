@@ -1,23 +1,24 @@
 ---
-title: "عمر الارتباط"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: عمر الارتباط
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /ar/terms/life_time_of_correlation/
-date: "2026-07-18T16:05:49.915176Z"
-lastmod: "2026-07-18T17:15:08.522452Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:05:49.915176Z'
+lastmod: '2026-07-18T17:15:08.522452Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مقياس يقدّر المدة التي تبقى خلالها العلاقة الإحصائية بين المتغيرات مستقرة قبل أن تتدهور بسبب انز المفهوم أو التغييرات البيئية."
+source: agnes_llm
+status: published
+language: ar
+description: مقياس يقدّر المدة التي تبقى خلالها العلاقة الإحصائية بين المتغيرات مستقرة
+  قبل أن تتدهور بسبب انز المفهوم أو التغييرات البيئية.
 ---
-
 ## Definition
 
 في الأنظمة الديناميكية وتحليل السلاسل الزمنية، يقيس عمر الارتباط المدة التي يحافظ خلالها متغيران على اعتماد إحصائي كبير. هذا المفهوم حاسم لفهم استقرار النماذج مع مرور الوقت.

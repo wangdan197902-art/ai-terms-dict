@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /ro/terms/rabbit_r1/
 date: "2026-07-18T16:18:22.302529Z"
 lastmod: "2026-07-18T17:15:09.697300Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un dispozitiv portabil alimentat de AI, dotat cu Large Action Model (LAM), conceput să execute sarcini autonom."
 ---
-
 ## Definition
 
 Rabbit r1 este un dispozitiv hardware dedicat lansat de Rabbit Inc., centrat în jurul Modelului Sărbătorit de Acțiuni (LAM) proprietar. Spre deosebire de smartphone-urile cu uz general, se concentrează pe executarea unor sarcini specifice.

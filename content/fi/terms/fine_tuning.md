@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /fi/terms/fine_tuning/
 date: "2026-07-18T15:22:52.575526Z"
 lastmod: "2026-07-18T17:15:09.344885Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa esikoulutettua mallia mukautetaan tiettyyn jälkikäyttötehtävään käyttämällä pienempää datamäärää."
 ---
-
 ## Definition
 
 Hienosäädössä otetaan malli, joka on jo koulutettu suurella yleisellä datamäärällä, ja koulutetaan sitä edelleen erikoistuneemmalla datalla. Tämä mahdollistaa mallin säilyttävän yleisen tietonsa samalla kun se oppii tehtävään liittyviä erityispiirteitä.

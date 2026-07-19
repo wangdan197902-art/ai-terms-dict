@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /zh/terms/qwen3_5_moe/
 date: "2026-07-18T11:31:37.557491Z"
 lastmod: "2026-07-18T11:44:45.548763Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种假设或未来的稀疏混合专家（MoE）变体，属于 Qwen3 系列，专为高效率设计。"
 ---
-
 ## Definition
 
 该术语指代 Qwen 家族中的一种专用架构，可能利用了混合专家（Mixture of Experts, MoE）设计。在此类模型中，仅激活神经网络参数（即“专家”）的一个子集，从而在保持性能的同时显著降低计算开销和内存需求。

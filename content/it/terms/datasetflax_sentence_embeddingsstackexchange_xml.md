@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /it/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:54:40.317715Z"
 lastmod: "2026-07-18T17:15:08.614697Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un dataset derivato dai dump XML di Stack Exchange, utilizzato per addestrare embedding di frasi focalizzati su contenuti tecnici e domande/risposte guidati dalla comunità."
 ---
-
 ## Definition
 
 Questo dataset estrae dati a livello di frase dai file XML di Stack Exchange, fornendo una ricca fonte di discussioni tecniche, frammenti di codice e dialoghi risolutivi di problemi. Viene specificamente utilizzato in

@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /nl/terms/bench/
 date: "2026-07-18T15:23:45.346445Z"
 lastmod: "2026-07-18T17:15:08.680594Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Kort voor benchmark: een standaard testset of metriek gebruikt om de prestaties van AI-modellen te evalueren."
 ---
-
 ## Definition
 
 Een benchmark dient als gestandaardiseerd referentiepunt voor het vergelijken van de mogelijkheden van verschillende AI-modellen of algoritmen. Het omvat doorgaans een samengestelde dataset en specifieke evaluatiemetrieken zoals nauwkeurigheid of snelheid.

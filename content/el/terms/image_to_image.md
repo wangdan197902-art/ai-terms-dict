@@ -1,23 +1,24 @@
 ---
-title: "Εικόνα σε Εικόνα"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Εικόνα σε Εικόνα
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /el/terms/image_to_image/
-date: "2026-07-18T16:14:24.467855Z"
-lastmod: "2026-07-18T17:15:09.919433Z"
+slug: image_to_image
+date: '2026-07-18T16:14:24.467855Z'
+lastmod: '2026-07-18T17:15:09.919433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική γεννητικής Τεχνητής Νοημοσύνης που μετατρέπει μια εισερχόμενη εικόνα σε διαφορετικό στυλ, μορφή ή περιεχόμενο, διατηρώντας δομικά στοιχεία."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική γεννητικής Τεχνητής Νοημοσύνης που μετατρέπει μια εισερχόμενη
+  εικόνα σε διαφορετικό στυλ, μορφή ή περιεχόμενο, διατηρώντας δομικά στοιχεία.
 ---
-
 ## Definition
 
 Η Μετατροπή Εικόνας σε Εικόνα (I2I) περιλαμβάνει τη χρήση μοντέλων βαθιάς μάθησης, όπως Γεννήτριες Ανταγωνιστικά Δίκτυα (GANs) ή μοντέλα διάχυσης, για να μετατρέψουν μία εικόνα σε άλλη. Σε αντίθεση με τους απλούς φίλτρους, το I2I μπορεί να αλλάξει δραματικά την εμφάνιση, όπως να μετατρέψει μια φωτογραφία σε σχέδιο.

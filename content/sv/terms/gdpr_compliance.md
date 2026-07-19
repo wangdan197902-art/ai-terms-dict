@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /sv/terms/gdpr_compliance/
 date: "2026-07-18T15:58:53.191368Z"
 lastmod: "2026-07-18T17:15:09.005290Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Efterlevnaden av dataskyddsförordningen (GDPR), vilket säkerställer att AI-system respekterar användarnas integritet och datarättigheter."
 ---
-
 ## Definition
 
 GDPR-överensstämmelse avser de lagliga och tekniska åtgärder som AI-utvecklare måste implementera för att skydda personuppgifter för individer inom Europeiska unionen. För AI-system innebär detta principer som dataminimering, transparens och möjligheten för användare att begära radering eller korrigering av sina data.

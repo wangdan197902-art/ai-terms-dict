@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /pl/terms/agentic/
 date: "2026-07-18T15:33:28.500664Z"
 lastmod: "2026-07-18T17:15:08.829592Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnośnie do systemów SI zdolnych do autonomicznego planowania, rozumowania i wykonywania działań w celu osiągnięcia określonych celów."
 ---
-
 ## Definition
 
 Termin 'agencjalny' opisuje agentów SI działających z wysokim stopniem autonomii. W przeciwieństwie do pasywnych modeli, które po prostu przewidują tekst lub klasyfikują dane, systemy agencjalne mogą rozbijać złożone cele...

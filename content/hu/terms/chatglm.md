@@ -1,23 +1,25 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /hu/terms/chatglm/
-date: "2026-07-18T15:49:16.289289Z"
-lastmod: "2026-07-18T17:15:09.761873Z"
+slug: chatglm
+date: '2026-07-18T15:49:16.289289Z'
+lastmod: '2026-07-18T17:15:09.761873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A ChatGLM a Zhipu AI által fejlesztett, kétnyelvű és nagy léptékű nyílt forráskódú nyelvi modellek sorozata, amelyeket a kínai és angol nyelvű párbeszédek optimalizálására terveztek."
+source: agnes_llm
+status: published
+language: hu
+description: A ChatGLM a Zhipu AI által fejlesztett, kétnyelvű és nagy léptékű nyílt
+  forráskódú nyelvi modellek sorozata, amelyeket a kínai és angol nyelvű párbeszédek
+  optimalizálására terveztek.
 ---
-
 ## Definition
 
 A ChatGLM a transzformer-alapú nyelvi modellek családját jelöli, amelyeket kifejezetten a magas minőségű, kétnyelvű (kínai és angol) párbeszédek kezelésére fejlesztettek ki. A Zhipu AI által fejlesztett modellek...

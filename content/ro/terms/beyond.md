@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /ro/terms/beyond/
 date: "2026-07-18T15:23:53.590051Z"
 lastmod: "2026-07-18T17:15:09.590187Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un termen conceptual care se referă la avansamente sau aplicații care depășesc limitele tehnologice actuale sau granițele tradiționale ale inteligenței artificiale."
 ---
-
 ## Definition
 
 În contextul terminologiei IA, „dincolo” (beyond) descrie adesea noi paradigme sau direcții viitoare care transcendent capacitățile curente, cum ar fi Inteligența Artificială Generală (AGI) sau tehnologiile potențiate de calculul cuantic, indicând o evoluție dincolo de stadiul actual.

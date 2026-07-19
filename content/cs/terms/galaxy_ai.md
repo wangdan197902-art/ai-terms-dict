@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /cs/terms/galaxy_ai/
 date: "2026-07-18T15:58:45.458715Z"
 lastmod: "2026-07-18T17:15:09.132612Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Značka společnosti Samsung pro sadu funkcí umělé inteligence běží přímo na zařízení i v cloudu, integrovaných do chytrých telefonů a zařízení řady Galaxy."
 ---
-
 ## Definition
 
 Galaxy AI je proprietární ekosystém funkcí AI společnosti Samsung navržený k vylepšení uživatelského zážitku napříč jeho hardwarovou nabídkou, především chytrými telefony. Zahrnuje funkce jako překlad v reálném čase

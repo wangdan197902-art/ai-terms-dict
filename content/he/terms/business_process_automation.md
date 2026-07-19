@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /he/terms/business_process_automation/
 date: "2026-07-18T15:46:58.107759Z"
 lastmod: "2026-07-18T17:15:09.518458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שימוש בטכנולוגיה לביצוע משימות או תהליכים חוזרים בעסקים, שבהם ניתן להחליף מאמץ ידני."
 ---
-
 ## Definition
 
 אוטומציה של תהליכי עסקים (BPA) כרוכה בניצול תוכנה ו-AI לפישוט זרימות עבודה עסקיות מורכבות. בניגוד ל-RPA פשוט שמתמקד במשימות מבוססות כללים, BPA משלבת לעיתים קרובות בינה מלאכותית כדי להתמודד עם תהליכים דינמיים יותר.

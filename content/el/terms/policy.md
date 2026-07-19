@@ -1,23 +1,25 @@
 ---
-title: "Πολιτική"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Πολιτική
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /el/terms/policy/
-date: "2026-07-18T15:30:28.352639Z"
-lastmod: "2026-07-18T17:15:09.851562Z"
+slug: policy
+date: '2026-07-18T15:30:28.352639Z'
+lastmod: '2026-07-18T17:15:09.851562Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στρατηγική ή σχέδιο δράσης σχεδιασμένο για να καθοδηγήσει τις αποφάσεις και να επιτύχει λογικά αποτελέσματα, συχνά χρησιμοποιείται στη ενισχυτική μάθηση για την απεικόνιση καταστάσεων σε ενέργειες"
+source: agnes_llm
+status: published
+language: el
+description: Μια στρατηγική ή σχέδιο δράσης σχεδιασμένο για να καθοδηγήσει τις αποφάσεις
+  και να επιτύχει λογικά αποτελέσματα, συχνά χρησιμοποιείται στη ενισχυτική μάθηση
+  για την απεικόνιση καταστάσεων σε ενέργειες
 ---
-
 ## Definition
 
 Ο όρος «πολιτική» έχει δύο σημασίες ανάλογα με το πλαίσιο. Στη γενική διοίκηση, είναι μια αρχή καθοδήγησης για τη λήψη αποφάσεων. Στην Ενισχυτική Μάθηση (RL), μια πολιτική είναι ένα βασικό συστατικό ενός αλγορίθμου...

@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /no/terms/fine/
 date: "2026-07-18T15:26:10.784677Z"
 lastmod: "2026-07-18T16:38:06.937057Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Finjustering refererer til prosessen med å tilpasse en forhåndstrenet AI-modell til en spesifikk oppgave eller domene med ytterligere data."
 ---
-
 ## Definition
 
 Finjustering innebærer å ta en generell modell trent på store datasett og trene den videre på et mindre, spesialisert datasett for å forbedre ytelsen på spesifikke oppgaver. Denne teknikken utnytter overføringslæring.

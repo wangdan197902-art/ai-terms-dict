@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /zh/terms/state/
 date: "2026-07-18T10:55:02.592473Z"
 lastmod: "2026-07-18T11:44:45.385317Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "系统在特定时刻的完整配置。"
 ---
-
 ## Definition
 
 状态代表了在马尔可夫决策过程（MDP）等系统中确定未来行为所需的所有相关信息。在强化学习中，状态封装了环境的当前情况。

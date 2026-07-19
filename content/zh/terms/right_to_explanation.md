@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /zh/terms/right_to_explanation/
 date: "2026-07-18T11:32:26.773509Z"
 lastmod: "2026-07-18T11:44:45.551045Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一项法律与伦理原则，赋予个人在受到重大影响的自动化决策中获取有意义信息的权利。"
 ---
-
 ## Definition
 
 解释权是算法问责制的核心组成部分，特别是在《通用数据保护条例》（GDPR）等框架内。它确保当人工智能系统做出影响个人权利的决策时，相关人员能够获得清晰的解释。

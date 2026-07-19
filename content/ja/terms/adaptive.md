@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /ja/terms/adaptive/
 date: "2026-07-18T10:48:23.561036Z"
 lastmod: "2026-07-18T11:44:45.001829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "変化する条件に応じて、システムの動作やパラメータを変更する能力。"
 ---
-
 ## Definition
 
 AIにおいて、「適応的」とは、新しいデータや環境からのフィードバックに基づいて、内部状態、パラメータ、または戦略を動的に調整できるシステムやアルゴリズムを記述します。この能力により、モデルは...

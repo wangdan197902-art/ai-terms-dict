@@ -1,23 +1,24 @@
 ---
-title: "Bewertung binärer Klassifikatoren"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Bewertung binärer Klassifikatoren
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /de/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T11:13:48.471947Z"
-lastmod: "2026-07-18T11:44:44.937846Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T11:13:48.471947Z'
+lastmod: '2026-07-18T11:44:44.937846Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess zur Bewertung der Leistung von Machine-Learning-Modellen, die eines von zwei möglichen Ergebnisse vorhersagen."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess zur Bewertung der Leistung von Machine-Learning-Modellen,
+  die eines von zwei möglichen Ergebnisse vorhersagen.
 ---
-
 ## Definition
 
 Dieses Feld umfasst die Analyse von Metriken wie Genauigkeit (Accuracy), Präzision, Recall, F1-Score und der Fläche unter der ROC-Kurve (AUC-ROC). Es hilft dabei zu bestimmen, wie gut ein Modell die Unterscheidung zwischen den beiden Klassen bewerkstelligt.

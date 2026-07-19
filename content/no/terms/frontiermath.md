@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /no/terms/frontiermath/
-date: "2026-07-18T15:55:14.293311Z"
-lastmod: "2026-07-18T16:38:07.002386Z"
+slug: frontiermath
+date: '2026-07-18T15:55:14.293311Z'
+lastmod: '2026-07-18T16:38:07.002386Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et benchmark-datasett designet for å evaluere avansert matematisk resonnementsevne hos banebrytende AI-modeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et benchmark-datasett designet for å evaluere avansert matematisk resonnementsevne
+  hos banebrytende AI-modeller.
 ---
-
 ## Definition
 
 FrontierMath er et spesialisert evalueringsskap laget for å teste grensene til store språkmodeller i kompleks matematisk problemløsning. I motsetning til standard aritmetiske benchmark-fokusere det på høyere nivåer av matematisk dybde og logisk struktur.

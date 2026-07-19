@@ -1,23 +1,24 @@
 ---
-title: "Stable Diffusion"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: Stable Diffusion
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /ru/terms/stable_diffusion/
-date: "2026-07-18T16:16:52.436354Z"
-lastmod: "2026-07-18T16:38:07.205106Z"
+slug: stable_diffusion
+date: '2026-07-18T16:16:52.436354Z'
+lastmod: '2026-07-18T16:38:07.205106Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Латентная диффузионная модель, способная эффективно генерировать высококачественные изображения по текстовым описаниям."
+source: agnes_llm
+status: published
+language: ru
+description: Латентная диффузионная модель, способная эффективно генерировать высококачественные
+  изображения по текстовым описаниям.
 ---
-
 ## Definition
 
 Stable Diffusion — это модель глубокого обучения, которая генерирует детализированные изображения, условно зависящие от текстовых входных данных, используя процесс латентной диффузии. В отличие от моделей диффузии в пиксельном пространстве, она работает в сжатом латентном пространстве, что значительно снижает вычислительные затраты и позволяет генерировать изображения быстрее и эффективнее на потребительском оборудовании.

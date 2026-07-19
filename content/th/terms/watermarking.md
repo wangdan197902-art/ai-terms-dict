@@ -1,23 +1,24 @@
 ---
-title: "การใส่ลายน้ำดิจิทัล"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: การใส่ลายน้ำดิจิทัล
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /th/terms/watermarking/
-date: "2026-07-18T16:20:01.990812Z"
-lastmod: "2026-07-18T16:38:07.666204Z"
+slug: watermarking
+date: '2026-07-18T16:20:01.990812Z'
+lastmod: '2026-07-18T16:38:07.666204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การใส่ลายน้ำดิจิทัลใน AI เกี่ยวข้องกับการฝังตัวระบุที่มองไม่เห็นหรือมองเห็นลงในเนื้อหาที่สร้างขึ้น เพื่อยืนยันแหล่งกำเนิดและแยกแยะออกจากวัสดุที่มนุษย์สร้าง"
+source: agnes_llm
+status: published
+language: th
+description: การใส่ลายน้ำดิจิทัลใน AI เกี่ยวข้องกับการฝังตัวระบุที่มองไม่เห็นหรือมองเห็นลงในเนื้อหาที่สร้างขึ้น
+  เพื่อยืนยันแหล่งกำเนิดและแยกแยะออกจากวัสดุที่มนุษย์สร้าง
 ---
-
 ## Definition
 
 เมื่อปัญญาประดิษฐ์แบบสร้างเนื้อหา (Generative AI) ผลิตสื่อสังเคราะห์เพิ่มขึ้นเรื่อยๆ การใส่ลายน้ำดิจิทัลจึงเป็นเครื่องมือสำคัญสำหรับความโปร่งใสและความรับผิดชอบ กระบวนการนี้เกี่ยวข้องกับการปรับเปลี่ยนเนื้อหาดิจิทัล เช่น รูปภาพ ข้อความ หรือวิดีโอ...

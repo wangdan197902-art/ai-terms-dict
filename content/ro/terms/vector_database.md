@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /ro/terms/vector_database/
 date: "2026-07-18T15:31:20.558121Z"
 lastmod: "2026-07-18T17:15:09.606746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O bază de date specializată, concepută pentru a stoca, indexa și interoga vectori cu dimensiuni mari care reprezintă caracteristicile datelor."
 ---
-
 ## Definition
 
 Bazele de date vectoriale optimizează stocarea și recuperarea datelor nestructurate convertindu-le în încorporări numerice (embeddings). Acestea utilizează algoritmi precum Cel Mai Apropiat Vecin Aproximativ (ANN) pentru a găsi eficient similarități.

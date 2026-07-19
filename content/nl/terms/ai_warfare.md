@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /nl/terms/ai_warfare/
 date: "2026-07-18T15:40:31.922947Z"
 lastmod: "2026-07-18T17:15:08.713269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De toepassing van kunstmatige intelligentietechnologieën op militaire operaties, surveillance en autonome wapensystemen."
 ---
-
 ## Definition
 
 AI-oorlogsvoering verwijst naar de integratie van kunstmatige intelligentie in militaire strategieën, waaronder autonome drones, voorspellende logistiek, cyberverdediging en beslissingsondersteunende systemen voor commandanten.

@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /pl/terms/information_space_analysis/
 date: "2026-07-18T16:00:17.460365Z"
 lastmod: "2026-07-18T17:15:08.885876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Badanie właściwości geometrycznych i topologicznych przestrzeni, w której znajdują się reprezentacje danych."
 ---
-
 ## Definition
 
 Koncepcja ta obejmuje analizę struktury przestrzeni reprezentacji w modelach uczenia maszynowego. Rozpatruje sposób rozkładu, grupowania lub separacji punktów danych w przestrzeni wielowymiarowej

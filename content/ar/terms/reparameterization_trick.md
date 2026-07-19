@@ -1,23 +1,24 @@
 ---
-title: "خدعة إعادة المعلمات"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: خدعة إعادة المعلمات
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /ar/terms/reparameterization_trick/
-date: "2026-07-18T16:19:23.348947Z"
-lastmod: "2026-07-18T17:15:08.544214Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:19:23.348947Z'
+lastmod: '2026-07-18T17:15:08.544214Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تفصل المتغيرات العشوائية عن المعلمات القابلة للتعلم لتمكين التحسين القائم على التدرج في الاستدلال التبايني."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تفصل المتغيرات العشوائية عن المعلمات القابلة للتعلم لتمكين التحسين
+  القائم على التدرج في الاستدلال التبايني.
 ---
-
 ## Definition
 
 تُعد خدعة إعادة المعلمات أسلوباً أساسياً يُستخدم في المحولات التباينية الذاتية والنماذج الاحتمالية الأخرى. وتسمح هذه الخدعة بمرور التدرجات عبر العقد العشوائية من خلال التعبير عن متغير عشوائي كمجموعة من المعلمات القابلة للتعلم وعامل عشوائي مستقل، مما يتيح حساب التدرجات بدقة وكفاءة.

@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /da/terms/grammar_systems_theory/
 date: "2026-07-18T15:58:48.092415Z"
 lastmod: "2026-07-18T17:15:09.293787Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Teori om grammatiksystemer er en gren af formel sprogteori, der studerer beregningsmodeller baseret på grammatikker, der interagerer parallelt eller i distribuerede miljøer."
 ---
-
 ## Definition
 
 Med rødder i teoretisk datalogi og lingvistik udvider dette felt klassiske begreber fra Chomsky-hierarkiet til multi-komponentsystemer. Det undersøger, hvordan flere grammatikker eller komponenter interagerer for at generere sprogstrukturer.

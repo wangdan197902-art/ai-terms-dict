@@ -1,23 +1,25 @@
 ---
-title: "Estudios de la singularidad"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Estudios de la singularidad
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /es/terms/singularity_studies/
-date: "2026-07-18T11:08:01.583623Z"
-lastmod: "2026-07-18T11:44:44.854156Z"
+slug: singularity_studies
+date: '2026-07-18T11:08:01.583623Z'
+lastmod: '2026-07-18T11:44:44.854156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un campo interdisciplinario que examina los posibles impactos sociales, éticos y existenciales de una futura singularidad tecnológica."
+source: agnes_llm
+status: published
+language: es
+description: Un campo interdisciplinario que examina los posibles impactos sociales,
+  éticos y existenciales de una futura singularidad tecnológica.
 ---
-
 ## Definition
 
 Los estudios de la singularidad son una disciplina académica emergente que investiga las implicaciones de un punto hipotético en el futuro donde la inteligencia artificial supere la inteligencia humana, lo que llevaría a un cambio tecnológico sin precedentes e incontrolable.

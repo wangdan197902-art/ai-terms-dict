@@ -1,23 +1,24 @@
 ---
-title: "Компьютерное зрение"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: Компьютерное зрение
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /ru/terms/computer_vision/
-date: "2026-07-18T15:22:43.890272Z"
-lastmod: "2026-07-18T16:38:07.068692Z"
+slug: computer_vision
+date: '2026-07-18T15:22:43.890272Z'
+lastmod: '2026-07-18T16:38:07.068692Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Раздел искусственного интеллекта, позволяющий компьютерам извлекать осмысленную информацию из цифровых изображений, видео и других визуальных данных."
+source: agnes_llm
+status: published
+language: ru
+description: Раздел искусственного интеллекта, позволяющий компьютерам извлекать осмысленную
+  информацию из цифровых изображений, видео и других визуальных данных.
 ---
-
 ## Definition
 
 Компьютерное зрение сосредоточено на воспроизведении человеческих визуальных возможностей с помощью вычислительных процессов. Оно включает анализ и интерпретацию визуальных данных для идентификации объектов, распознавания паттернов и понимания сцен.

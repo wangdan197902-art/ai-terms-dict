@@ -1,23 +1,24 @@
 ---
-title: "Контрастное предобучение языка и изображений"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Контрастное предобучение языка и изображений
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /ru/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:46:31.517655Z"
-lastmod: "2026-07-18T16:38:07.134797Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:46:31.517655Z'
+lastmod: '2026-07-18T16:38:07.134797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Мультимодальный метод предобучения, который согласовывает представления изображений и текста с помощью функций контрастных потерь."
+source: agnes_llm
+status: published
+language: ru
+description: Мультимодальный метод предобучения, который согласовывает представления
+  изображений и текста с помощью функций контрастных потерь.
 ---
-
 ## Definition
 
 Контрастное предобучение языка и изображений (CLIP) — это архитектура нейронной сети, обученная на изображениях и соответствующих им подписях из интернета. Она использует контрастную цель для максимизации сходства между парами «изображение-текст» и минимизации сходства между несоответствующими парами.

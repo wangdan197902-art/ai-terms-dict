@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /ko/terms/natural_language/
 date: "2026-07-18T15:32:17.763804Z"
 lastmod: "2026-07-18T16:38:06.790438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "형식적인 컴퓨터 언어와 달리 문법, 어휘, 맥락을 특징으로 하는 표준 인간 의사소통 방식입니다."
 ---
-
 ## Definition
 
 자연어는 모호성, 관용구, 문화적 뉘앙스를 모두 포함하는 인간의 말과 글쓰기 방식을 의미합니다. AI에서 자연어 처리란 구문과 의미론을 이해하는 것을 포함합니다.

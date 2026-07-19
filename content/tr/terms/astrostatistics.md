@@ -1,23 +1,24 @@
 ---
-title: "Astroistatistik"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Astroistatistik
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /tr/terms/astrostatistics/
-date: "2026-07-18T15:42:08.585130Z"
-lastmod: "2026-07-18T16:38:07.275251Z"
+slug: astrostatistics
+date: '2026-07-18T15:42:08.585130Z'
+lastmod: '2026-07-18T16:38:07.275251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Astronomik verileri analiz etmek ve astrofizik problemlerini çözmek için istatistiksel yöntemlerin uygulanması."
+source: agnes_llm
+status: published
+language: tr
+description: Astronomik verileri analiz etmek ve astrofizik problemlerini çözmek için
+  istatistiksel yöntemlerin uygulanması.
 ---
-
 ## Definition
 
 Astroistatistik, istatistik ile astronomiyi birleştiren özel bir alandır. Astronomik verilerin benzersiz zorluklarını ele almak için sağlam istatistiksel teknikler geliştirilmesini ve uygulanmasını içerir.

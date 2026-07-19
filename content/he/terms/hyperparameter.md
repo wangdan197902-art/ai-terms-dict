@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /he/terms/hyperparameter/
 date: "2026-07-18T16:04:57.287169Z"
 lastmod: "2026-07-18T17:15:09.548979Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "משתנה תצורה שערכו נקבע לפני תהליך האימון ושולט בהתנהגות אלגוריתם הלמידה."
 ---
-
 ## Definition
 
 בניגוד לפרמטרי המודל (משקלים והטיות) שנלמדים מהנתונים במהלך האימון, פרמטרי-על הם הגדרות חיצוניות הנבחרות על ידי המפתח לפני תחילת האימון. הם שולטים במבנה

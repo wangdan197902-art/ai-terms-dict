@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /ro/terms/score/
 date: "2026-07-18T15:29:21.851292Z"
 lastmod: "2026-07-18T17:15:09.603520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un scor este o valoare numerică care reprezintă calitatea, încrederea sau aptitudinea predicției sau soluției unui model."
 ---
-
 ## Definition
 
 Scorurile cuantifică cât de bine se descurcă un model de învățare automată în raport cu metrici specifice, cum ar fi acuratețea, precizia sau recompensa. În învățarea prin întărire, scorurile indică recompensele cumulative, în timp ce în clas

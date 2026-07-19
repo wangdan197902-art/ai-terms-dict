@@ -1,23 +1,24 @@
 ---
-title: "דאטהסט: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 'דאטהסט: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /he/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:51:34.165914Z"
-lastmod: "2026-07-18T17:15:09.526629Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:51:34.165914Z'
+lastmod: '2026-07-18T17:15:09.526629Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "גרסה מנוקה (ללא כפילויות) של דאטהסט The Stack, שנוצרה על ידי BigCode כדי להסיר קטעי קוד כמעט זהים ולקבל נתוני אימון נקיים יותר."
+source: agnes_llm
+status: published
+language: he
+description: גרסה מנוקה (ללא כפילויות) של דאטהסט The Stack, שנוצרה על ידי BigCode
+  כדי להסיר קטעי קוד כמעט זהים ולקבל נתוני אימון נקיים יותר.
 ---
-
 ## Definition
 
 The Stack Dedup הוא תת-קבוצה מיוחדת של The Stack, מאגר עצום של קוד מקור פתוח. הוא מחיל טכניקות קפדניות להסרת כפילויות כדי למנוע קטעי קוד חוזרים שעלולים להטות את אימון מודלי שפה גדולים (LLMs).

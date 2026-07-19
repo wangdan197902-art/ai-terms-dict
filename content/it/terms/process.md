@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /it/terms/process/
 date: "2026-07-18T15:28:04.546539Z"
 lastmod: "2026-07-18T17:15:08.572399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una serie strutturata di azioni o passaggi eseguiti per raggiungere un obiettivo computazionale o un risultato specifico."
 ---
-
 ## Definition
 
 Sviluppo dell'IA, un processo indica il flusso di lavoro sistematico necessario per trasformare dati grezzi in modelli o informazioni attuabili. Questo include fasi come l'acquisizione dei dati, la pre-elaborazione, le funzionalità

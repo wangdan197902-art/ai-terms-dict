@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /he/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:51:59.704447Z"
 lastmod: "2026-07-18T17:15:09.528330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים הנגזרת מ-Stack Exchange XML, המשמשת לאימון הטמעות משפטים המתמקדות בתוכן טכני ובקשות-תשובות הקהילה."
 ---
-
 ## Definition
 
 מערכת נתונים זו חוצה נתונים ברמת המשפט מקבצי XML של Stack Exchange, ומספקת מקור עשיר לדיונים טכניים, קטעי קוד ושיחות פתרון בעיות. היא משמשת באופן ספציפי ב-

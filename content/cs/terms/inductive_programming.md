@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /cs/terms/inductive_programming/
 date: "2026-07-18T16:02:40.145888Z"
 lastmod: "2026-07-18T17:15:09.142208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obor syntézy programů, který automaticky generuje počítačové programy z příkladů vstup-výstup."
 ---
-
 ## Definition
 
 Inductive Programming, často označovaná jako Program Synthesis, zahrnuje vytváření softwarového kódu na základě specifikací poskytnutých jako páry vstup-výstup, nikoliv explicitních instrukcí. Systém odvozuje pravidla z dat.

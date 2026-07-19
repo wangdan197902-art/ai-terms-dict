@@ -1,23 +1,24 @@
 ---
-title: "Példaválasztás"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Példaválasztás
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /hu/terms/instance_selection/
-date: "2026-07-18T16:06:01.185628Z"
-lastmod: "2026-07-18T17:15:09.796951Z"
+slug: instance_selection
+date: '2026-07-18T16:06:01.185628Z'
+lastmod: '2026-07-18T17:15:09.796951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy előfeldolgozási technika, amely reprezentatív példák részhalmazának kiválasztásával csökkenti az adathalmaz méretét."
+source: agnes_llm
+status: published
+language: hu
+description: Egy előfeldolgozási technika, amely reprezentatív példák részhalmazának
+  kiválasztásával csökkenti az adathalmaz méretét.
 ---
-
 ## Definition
 
 A példaválasztás célja a számítási hatékonyság és a modellteljesítmény javítása redundáns vagy zajos adatpontok eltávolításával. Ellentétben a jellemzőválasztással, ez az adathalmaz sorain dolgozik.

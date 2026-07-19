@@ -1,23 +1,25 @@
 ---
-title: "Normalisointi"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalisointi
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /fi/terms/normalization/
-date: "2026-07-18T16:12:54.846669Z"
-lastmod: "2026-07-18T17:15:09.439610Z"
+slug: normalization
+date: '2026-07-18T16:12:54.846669Z'
+lastmod: '2026-07-18T17:15:09.439610Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Normalisointi on datan esikäsittelytekniikka, joka skaalaa numeerisia piirteitä vakiintuneelle välille, tyypillisesti 0 ja 1, parantaakseen mallin konvergenssia ja suorituskykyä."
+source: agnes_llm
+status: published
+language: fi
+description: Normalisointi on datan esikäsittelytekniikka, joka skaalaa numeerisia
+  piirteitä vakiintuneelle välille, tyypillisesti 0 ja 1, parantaakseen mallin konvergenssia
+  ja suorituskykyä.
 ---
-
 ## Definition
 
 Yleisiä menetelmiä ovat Min-Max-skaalaus ja Z-pisteen standardointi. Tämä prosessi varmistaa, että suurempia arvoja sisältävät piirteet eivät dominoi oppimisalgoritmia, erityisesti gradienttipohjaisessa optimoinnissa.

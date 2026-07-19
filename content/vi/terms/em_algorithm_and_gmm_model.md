@@ -1,23 +1,25 @@
 ---
-title: "Thuật toán EM và mô hình GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: Thuật toán EM và mô hình GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /vi/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T15:50:37.108801Z"
-lastmod: "2026-07-18T16:38:07.751994Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T15:50:37.108801Z'
+lastmod: '2026-07-18T16:38:07.751994Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thuật toán Kỳ vọng-Cực đại (Expectation-Maximization) là một phương pháp lặp để tìm ước lượng hợp lý cực đại trong các mô hình thống kê có biến tiềm ẩn, thường được sử dụng để khớp Mô hình Hỗn hợp Gau"
+source: agnes_llm
+status: published
+language: vi
+description: Thuật toán Kỳ vọng-Cực đại (Expectation-Maximization) là một phương pháp
+  lặp để tìm ước lượng hợp lý cực đại trong các mô hình thống kê có biến tiềm ẩn,
+  thường được sử dụng để khớp Mô hình Hỗn hợp Gau
 ---
-
 ## Definition
 
 Thuật ngữ này đề cập đến mối quan hệ cộng hưởng giữa thuật toán Kỳ vọng-Cực đại (EM) và Mô hình Hỗn hợp Gauss (GMM). Một GMM giả định rằng tất cả các điểm dữ liệu được tạo ra từ sự pha trộn của nhiều phân phối Gauss khác nhau, và thuật toán EM được sử dụng để ước lượng các tham số của các thành phần này một cách hiệu quả thông qua các bước lặp.

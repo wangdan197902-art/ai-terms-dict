@@ -1,23 +1,24 @@
 ---
-title: "Prodotto di esperti"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Prodotto di esperti
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /it/terms/product_of_experts/
-date: "2026-07-18T16:16:58.005478Z"
-lastmod: "2026-07-18T17:15:08.660390Z"
+slug: product_of_experts
+date: '2026-07-18T16:16:58.005478Z'
+lastmod: '2026-07-18T17:15:08.660390Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un quadro di modellazione probabilistica in cui la distribuzione congiunta è formata moltiplicando gli output di più modelli esperti indipendenti."
+source: agnes_llm
+status: published
+language: it
+description: Un quadro di modellazione probabilistica in cui la distribuzione congiunta
+  è formata moltiplicando gli output di più modelli esperti indipendenti.
 ---
-
 ## Definition
 
 Il Prodotto di Esperti (PoE) è un metodo per costruire distribuzioni di probabilità complesse combinandone di più semplici. A differenza della 'Miscela di Esperti', che media le probabilità, il PoE moltiplica i

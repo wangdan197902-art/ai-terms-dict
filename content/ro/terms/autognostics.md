@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /ro/terms/autognostics/
 date: "2026-07-18T15:46:28.474747Z"
 lastmod: "2026-07-18T17:15:09.630408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Capacitatea unui sistem de IA de a-și auto-diagnostica starea internă, problemele de performanță sau erorile fără intervenție umană."
 ---
-
 ## Definition
 
 Autognoztica se referă la mecanismele de auto-monitorizare și auto-reparare integrate în sistemele inteligente. Permite agenților de IA să detecteze anomaliile, să diagnosticheze cauzele rădăcină ale defecțiunilor și, potențial, să le corecteze autonom.

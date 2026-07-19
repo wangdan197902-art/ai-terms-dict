@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /ja/terms/speaker/
 date: "2026-07-18T11:33:04.722153Z"
 lastmod: "2026-07-18T11:44:45.146374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "音声信号内で発声や話し声を生成する個人。"
 ---
-
 ## Definition
 
 音声処理において、話者とは音声録音内の固有の人間の音声源を指して定義されます。話者を識別し区別することは、会話の分析やセキュリティの確保にとって基本的な要素であり、特定の人物の発言を追跡したり、声紋認証を行ったりするために不可欠です。

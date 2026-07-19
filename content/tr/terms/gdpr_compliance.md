@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /tr/terms/gdpr_compliance/
 date: "2026-07-18T15:54:15.040825Z"
 lastmod: "2026-07-18T16:38:07.311071Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Genel Veri Koruma Tüzüğü'ne (GDPR) uyum sağlama; yapay zeka sistemlerinin kullanıcı gizliliğini ve veri haklarını korumasını güvence altına alır."
 ---
-
 ## Definition
 
 GDPR uyumu, yapay zeka geliştiricilerinin Avrupa Birliği'ndeki bireylerin kişisel verilerini korumak için uygulaması gereken yasal ve teknik önlemleri ifade eder. Yapay zeka sistemleri için bu, veri minimizasyonu, şeffaflık ve kullanıcı rızası gibi ilkelerin uygulanmasını gerektirir.

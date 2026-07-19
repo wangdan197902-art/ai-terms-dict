@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /nl/terms/humanai_interaction/
 date: "2026-07-18T15:59:05.859984Z"
 lastmod: "2026-07-18T17:15:08.753085Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De studie en praktijk van hoe mensen communiceren met, controle over hebben en samenwerken met systemen voor kunstmatige intelligentie."
 ---
-
 ## Definition
 
 Mens-AI-interactie (HAI) is een interdisciplinair vakgebied dat de dynamiek tussen mensen en AI-technologieën onderzoekt. Het richt zich op het ontwerpen van intuïtieve interfaces, communicatieprotocollen en samenwerking...

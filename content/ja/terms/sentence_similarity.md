@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /ja/terms/sentence_similarity/
 date: "2026-07-18T11:31:46.590751Z"
 lastmod: "2026-07-18T11:44:45.143079Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "2つの文が意味的にどれだけ似ているかを定量化する指標またはタスクで、通常は数値スコアとして表されます。"
 ---
-
 ## Definition
 
 文の類似度は、2つの異なる文間の意味的重なり合いの度合いを測定します。これは単なる語彙の一致を超え、意味、文脈、意図を理解することを目指します。これは通常、文をベクトル空間に埋め込むことで達成されます。

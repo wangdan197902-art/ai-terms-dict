@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /id/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:45:49.937146Z"
 lastmod: "2026-07-18T16:38:07.444992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dataset berisi kalimat asli dan versi kompresinya untuk melatih model dalam pelestarian informasi."
 ---
-
 ## Definition
 
 Dataset kompresi kalimat terdiri dari pasangan di mana kalimat target adalah versi pendek dari kalimat sumber, mempertahankan makna inti sambil menghapus informasi redundan. Dataset-dataset ini...

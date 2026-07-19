@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /zh/terms/quantum_artificial_life/
 date: "2026-07-18T11:31:12.103576Z"
 lastmod: "2026-07-18T11:44:45.547978Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "量子人工生命是一个利用量子计算原理研究自主系统和进化过程的领域。"
 ---
-
 ## Definition
 
 量子人工生命（QAL）探索了量子力学与人工生命研究的交叉点，旨在使用量子计算机模拟生物进化和自复制系统。它试图揭示量子效应对复杂生命系统演化的潜在影响。

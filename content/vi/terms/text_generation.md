@@ -1,23 +1,24 @@
 ---
-title: "Tạo văn bản"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: Tạo văn bản
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /vi/terms/text_generation/
-date: "2026-07-18T16:14:07.193790Z"
-lastmod: "2026-07-18T16:38:07.810857Z"
+slug: text_generation
+date: '2026-07-18T16:14:07.193790Z'
+lastmod: '2026-07-18T16:38:07.810857Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khả năng AI nơi các mô hình tạo ra các chuỗi văn bản giống con người từng mã thông báo dựa trên các gợi ý hoặc ngữ cảnh được cung cấp."
+source: agnes_llm
+status: published
+language: vi
+description: Một khả năng AI nơi các mô hình tạo ra các chuỗi văn bản giống con người
+  từng mã thông báo dựa trên các gợi ý hoặc ngữ cảnh được cung cấp.
 ---
-
 ## Definition
 
 Tạo văn bản là một mô hình ứng dụng cơ bản trong xử lý ngôn ngữ tự nhiên, nơi các mô hình trí tuệ nhân tạo tạo ra nội dung văn bản mới. Bằng cách dự đoán mã thông báo tiếp theo có khả năng xảy ra nhất trong một chuỗi, các mô hình này có thể sinh ra văn bản mạch lạc và phù hợp với ngữ cảnh.

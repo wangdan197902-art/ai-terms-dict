@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /nl/terms/low_cost/
 date: "2026-07-18T15:32:01.708429Z"
 lastmod: "2026-07-18T17:15:08.699339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Duidt op AI-oplossingen die computationele, financiële of energiekosten minimaliseren terwijl functionaliteit behouden blijft."
 ---
-
 ## Definition
 
 Goedkope AI richt zich op efficiëntie, met als doel de instapdrempels en operationele kosten die gepaard gaan met machine learning te verlagen. Dit omvat technieken zoals modelcompressie, kwantisatie en...

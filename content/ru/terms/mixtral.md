@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /ru/terms/mixtral/
 date: "2026-07-18T16:04:48.388815Z"
 lastmod: "2026-07-18T16:38:07.181128Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Большая языковая модель на основе разреженной смеси экспертов (Sparse MoE) от Mistral AI, активирующая только подмножество параметров для каждого токена."
 ---
-
 ## Definition
 
 Mixtral — это пионерская большая языковая модель с открытыми весами, использующая архитектуру разреженной смеси экспертов (Sparse Mixture of Experts, MoE). В отличие от плотных моделей, где все параметры используются для каждого токена, Mixtral маршрутизирует каждый токен через...

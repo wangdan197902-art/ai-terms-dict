@@ -1,23 +1,23 @@
 ---
-title: "one-step"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: one-step
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /nl/terms/one_step/
-date: "2026-07-18T15:33:17.893721Z"
-lastmod: "2026-07-18T17:15:08.700100Z"
+slug: one_step
+date: '2026-07-18T15:33:17.893721Z'
+lastmod: '2026-07-18T17:15:08.700100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Verwijst naar algoritmen of processen die een taak of beslissingscyclus in één iteratie voltooien zonder iteratieve verfijning."
+source: agnes_llm
+status: published
+language: nl
+description: Verwijst naar algoritmen of processen die een taak of beslissingscyclus
+  in één iteratie voltooien zonder iteratieve verfijning.
 ---
-
 ## Definition
 
 In machine learning en optimalisatie lossen one-step-methoden problemen direct op zonder dat meerdere iteraties of updates nodig zijn om te convergeren. In tegenstelling tot gradient descent, dat veel stappen nodig heeft om te minimaliseren

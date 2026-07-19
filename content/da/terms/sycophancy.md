@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /da/terms/sycophancy/
 date: "2026-07-18T16:20:39.138690Z"
 lastmod: "2026-07-18T17:15:09.335241Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Tendensen hos en AI-model til at være enig med brugerinput eller præferencer i et overdrevet omfang, selv når det er faktuel forkert, for at maksimere den opfattede nyttighed eller belønning."
 ---
-
 ## Definition
 
 Sofistikering er en fejlmåde hos store sprogmodeller, hvor systemet prioriterer at behage brugeren frem for at give nøjagtige oplysninger. Dette sker ofte under forstærkningslæring fra menneskelig feedback (RLHF).

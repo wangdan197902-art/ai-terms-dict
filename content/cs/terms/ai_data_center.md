@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /cs/terms/ai_data_center/
 date: "2026-07-18T15:39:48.104112Z"
 lastmod: "2026-07-18T17:15:09.096772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Specializované zařízení navržené pro ubytování a provoz výpočetní infrastruktury vysokého výkonu pro zatížení AI."
 ---
-
 ## Definition
 
 AI data center je fyzická lokalita optimalizovaná pro běh aplikací umělé inteligence, zejména pro trénování a inferenci hlubokého učení. Tato centra mají vysokou hustotu serverových racků...

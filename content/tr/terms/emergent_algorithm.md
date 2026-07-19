@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /tr/terms/emergent_algorithm/
 date: "2026-07-18T15:51:33.136760Z"
 lastmod: "2026-07-18T16:38:07.304386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Basit bileşenlerin etkileşiminden açıkça programlanmadan ortaya çıkan algoritmik davranış."
 ---
-
 ## Definition
 
 Doğuşçu algoritmalar, bir sistem içindeki birçok basit ajan veya kuralın yerel etkileşimlerinden ortaya çıkan karmaşık küresel davranışları veya kalıpları ifade eder. Açıkça programlanmış üstten aşağıya gelen geleneksel programlamanın aksine, bu davranışlar sistemdeki temel etkileşimlerden doğal olarak doğar.

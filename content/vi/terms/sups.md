@@ -1,23 +1,25 @@
 ---
-title: "SUPS"
-term_id: "sups"
-category: "basic_concepts"
-subcategory: ""
-tags: ["acronym", "learning_paradigms", "research"]
+title: SUPS
+term_id: sups
+category: basic_concepts
+subcategory: ''
+tags:
+- acronym
+- Learning Paradigms
+- research
 difficulty: 4
 weight: 1
-slug: "sups"
-aliases:
-  - /vi/terms/sups/
-date: "2026-07-18T16:11:04.545196Z"
-lastmod: "2026-07-18T16:38:07.802409Z"
+slug: sups
+date: '2026-07-18T16:11:04.545196Z'
+lastmod: '2026-07-18T16:38:07.802409Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trong ngữ cảnh AI và học máy, SUPS thường đề cập đến Hệ thống lai Giám sát/Không giám sát hoặc các lược đồ tập dữ liệu cụ thể, mặc dù nó ít chuẩn hóa hơn so với các từ viết tắt khác."
+source: agnes_llm
+status: published
+language: vi
+description: Trong ngữ cảnh AI và học máy, SUPS thường đề cập đến Hệ thống lai Giám
+  sát/Không giám sát hoặc các lược đồ tập dữ liệu cụ thể, mặc dù nó ít chuẩn hóa hơn
+  so với các từ viết tắt khác.
 ---
-
 ## Definition
 
 SUPS là một từ viết tắt có thể thay đổi tùy theo ngữ cảnh nhưng thường xuất hiện trong tài liệu AI chuyên biệt đề cập đến các phương pháp học lai hoặc cấu trúc dữ liệu cụ thể. Nó có thể chỉ các hệ thống kết hợp nhiều kỹ thuật học tập khác nhau.

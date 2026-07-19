@@ -1,23 +1,24 @@
 ---
-title: "Feature Learning"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Feature Learning
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /it/terms/feature_learning/
-date: "2026-07-18T15:59:38.684291Z"
-lastmod: "2026-07-18T17:15:08.625687Z"
+slug: feature_learning
+date: '2026-07-18T15:59:38.684291Z'
+lastmod: '2026-07-18T17:15:08.625687Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un approccio in cui gli algoritmi scoprono automaticamente le funzionalità necessarie per il rilevamento o la classificazione dai dati grezzi."
+source: agnes_llm
+status: published
+language: it
+description: Un approccio in cui gli algoritmi scoprono automaticamente le funzionalità
+  necessarie per il rilevamento o la classificazione dai dati grezzi.
 ---
-
 ## Definition
 
 Il Feature Learning, spesso associato al deep learning, consente ai modelli di apprendere rappresentazioni gerarchiche direttamente dai dati di input grezzi, anziché fare affidamento sull'ingegneria manuale delle funzionalità. Attraverso strati multipli di elaborazione, il modello estrae progressivamente caratteristiche sempre più astratte e complesse, ottimizzando automaticamente la rappresentazione dei dati per il compito specifico.

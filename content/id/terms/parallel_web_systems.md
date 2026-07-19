@@ -1,23 +1,24 @@
 ---
-title: "Sistem Web Paralel"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: Sistem Web Paralel
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /id/terms/parallel_web_systems/
-date: "2026-07-18T16:03:28.394502Z"
-lastmod: "2026-07-18T16:38:07.492095Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:03:28.394502Z'
+lastmod: '2026-07-18T16:38:07.492095Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Arsitektur komputasi terdistribusi yang memanfaatkan pemrosesan konkuren di berbagai simpul untuk menangani beban kerja skala web secara efisien."
+source: agnes_llm
+status: published
+language: id
+description: Arsitektur komputasi terdistribusi yang memanfaatkan pemrosesan konkuren
+  di berbagai simpul untuk menangani beban kerja skala web secara efisien.
 ---
-
 ## Definition
 
 Sistem Web Paralel merujuk pada desain infrastruktur di mana tugas komputasi dibagi dan dieksekusi secara bersamaan di berbagai server atau prosesor yang terhubung melalui jaringan. Pendekatan ini memungkinkan skalabilitas tinggi dan ketersediaan layanan yang lebih baik dengan mendistribusikan beban kerja.

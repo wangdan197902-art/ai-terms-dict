@@ -1,23 +1,24 @@
 ---
-title: "Normalizare pe loturi"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Normalizare pe loturi
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /ro/terms/batch_normalization/
-date: "2026-07-18T15:46:51.194624Z"
-lastmod: "2026-07-18T17:15:09.632310Z"
+slug: batch_normalization
+date: '2026-07-18T15:46:51.194624Z'
+lastmod: '2026-07-18T17:15:09.632310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Normalizarea pe loturi este o tehnică care normalizează intrările stratului pe un mini-lot pentru a stabiliza și accelera antrenarea rețelelor neuronale."
+source: agnes_llm
+status: published
+language: ro
+description: Normalizarea pe loturi este o tehnică care normalizează intrările stratului
+  pe un mini-lot pentru a stabiliza și accelera antrenarea rețelelor neuronale.
 ---
-
 ## Definition
 
 Această metodă ajustează și scalează activările pentru a avea media zero și varianța unitară în fiecare mini-lot în timpul antrenării. Reduce decalajul covarianței interne, permițând rate mai mari de învățare și antrena...

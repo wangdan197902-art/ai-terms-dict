@@ -7,8 +7,6 @@ tags: ["theory", "education", "research"]
 difficulty: 2
 weight: 1
 slug: "toy_problem"
-aliases:
-  - /nl/terms/toy_problem/
 date: "2026-07-18T16:20:41.490551Z"
 lastmod: "2026-07-18T17:15:08.795053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een vereenvoudigde versie van een complex probleem dat wordt gebruikt om algoritmen of theorieën te testen zonder de ruis en schaal van werkelijkheidsgerichte scenario's."
 ---
-
 ## Definition
 
 In kunstmatige intelligentie en informatica is een toy problem een sterk vereenvoudigd scenario dat is ontworpen om een concept te illustreren of een nieuw algoritme te testen. Voorbeelden zijn het N-Dames-probleem of de Travelling Salesman Problem in kleine formaten.

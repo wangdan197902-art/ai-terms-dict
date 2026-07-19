@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /fi/terms/training_free/
 date: "2026-07-18T15:34:57.275677Z"
 lastmod: "2026-07-18T17:15:09.366871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Menetelmät, jotka mukauttavat tai parantavat malleja suorittamatta gradienttiin perustuvia parametripäivityksiä."
 ---
-
 ## Definition
 
 Koulutuksettomat lähestymistavat tarkoittavat tekniikoita, jotka muuttavat mallin käyttäytymistä tai tuloksia päivittämättä taustalla olevia painoarvoja takaisinpropagaation kautta. Nämä menetelmät hyödyntävät usein kehotteen suunnittelua (prompt engineering) ja ominaisuuksia...

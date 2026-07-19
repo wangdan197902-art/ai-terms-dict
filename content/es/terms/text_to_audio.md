@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /es/terms/text_to_audio/
 date: "2026-07-18T11:10:01.146960Z"
 lastmod: "2026-07-18T11:44:44.860712Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El proceso de convertir texto escrito en audio hablado, abarcando tanto la síntesis de voz como la generación de sonidos no hablados."
 ---
-
 ## Definition
 
 Texto a Audio es un término amplio que cubre tecnologías que transforman la entrada textual en salida auditiva. Aunque a menudo se asocia con la Síntesis de Voz a partir de Texto (TTS) para la creación de voces humanas realistas, también incluye la generación de efectos de sonido, música y paisajes sonoros a partir de descripciones textuales utilizando modelos generativos.

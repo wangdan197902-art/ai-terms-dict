@@ -1,23 +1,22 @@
 ---
-title: "Reinforcement Learning（强化学习）"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Reinforcement Learning（强化学习）
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /zh/terms/reinforcement_learning/
-date: "2026-07-18T10:54:14.658342Z"
-lastmod: "2026-07-18T11:44:45.382951Z"
+slug: reinforcement_learning
+date: '2026-07-18T10:54:14.658342Z'
+lastmod: '2026-07-18T11:44:45.382951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "强化学习是机器学习的一种类型，智能体通过与环境交互并最大化奖励来学习做出决策。"
+source: agnes_llm
+status: published
+language: zh
+description: 强化学习是机器学习的一种类型，智能体通过与环境交互并最大化奖励来学习做出决策。
 ---
-
 ## Definition
 
 强化学习（RL）是机器学习的一个分支，专注于智能体应如何在环境中采取行动以最大化累积奖励的概念。与监督学习不同，强化学习不依赖标记数据，而是通过试错和奖励信号进行学习。

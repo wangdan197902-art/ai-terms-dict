@@ -1,23 +1,24 @@
 ---
-title: "Retrieval"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Retrieval
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /sv/terms/retrieval/
-date: "2026-07-18T15:40:34.115318Z"
-lastmod: "2026-07-18T17:15:08.966634Z"
+slug: retrieval
+date: '2026-07-18T15:40:34.115318Z'
+lastmod: '2026-07-18T17:15:08.966634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att hämta relevant data från en databas eller kunskapsbas för att berika modellens indata."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att hämta relevant data från en databas eller kunskapsbas för
+  att berika modellens indata.
 ---
-
 ## Definition
 
 Retrieval avser den tekniska processen att söka och extrahera specifik information från stora dataset eller externa kunskapsbaser baserat på användarförfrågningar eller kontext. I moderna AI-system är det

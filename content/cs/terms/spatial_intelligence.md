@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /cs/terms/spatial_intelligence/
 date: "2026-07-18T16:18:36.654189Z"
 lastmod: "2026-07-18T17:15:09.202579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Schopnost systémů AI chápat, logicky uvažovat o prostorových vztazích a navigovat se ve trojrozměrných prostředích."
 ---
-
 ## Definition
 
 Prostorová inteligence označuje kapacitu modelů umělé inteligence vnímat, interpretovat a manipulovat se prostorovými vztahy v fyzických nebo virtuálních prostředích. Zahrnuje porozumění geometrickým strukturám a hloubkovému uspořádání scény.

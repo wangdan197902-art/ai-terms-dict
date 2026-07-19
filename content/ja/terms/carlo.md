@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /ja/terms/carlo/
 date: "2026-07-18T10:48:49.583383Z"
 lastmod: "2026-07-18T11:44:45.003266Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モンテカルロ法を指し、数値結果を得るために反復的なランダムサンプリングに依存する一連の計算アルゴリズム。"
 ---
-
 ## Definition
 
 モンテカルロ法は、解析的に解くのが難しい複雑な数学的問題を近似するためのAIおよび統計学における重要な技法です。これにより、数千または数百万のランダムなサンプル生成を通じて数値解を得ます。

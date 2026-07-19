@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /ja/terms/numerical/
 date: "2026-07-18T10:53:00.476410Z"
 lastmod: "2026-07-18T11:44:45.014909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "記号的論理やテキストではなく、数値または数学的計算に関連する、それらを含む、またはそれらを使用するもの。"
 ---
-
 ## Definition
 
 AIおよびデータサイエンスの文脈において、数値とは、整数、浮動小数点数、小数など、定量的な値を含むデータタイプや手法を指します。カテゴリカルやテキストデータとは異なり、数値データは...

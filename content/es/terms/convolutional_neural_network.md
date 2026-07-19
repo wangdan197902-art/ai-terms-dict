@@ -1,23 +1,24 @@
 ---
-title: "Red Neuronal Convolucional"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Red Neuronal Convolucional
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /es/terms/convolutional_neural_network/
-date: "2026-07-18T07:39:52.796193Z"
-lastmod: "2026-07-18T11:44:44.581414Z"
+slug: convolutional_neural_network
+date: '2026-07-18T07:39:52.796193Z'
+lastmod: '2026-07-18T11:44:44.581414Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una clase especializada de redes neuronales profundas utilizada principalmente para procesar datos en cuadrícula, como imágenes, aplicando filtros convolucionales."
+source: agnes_llm
+status: published
+language: es
+description: Una clase especializada de redes neuronales profundas utilizada principalmente
+  para procesar datos en cuadrícula, como imágenes, aplicando filtros convolucionales.
 ---
-
 ## Definition
 
 Las Redes Neuronales Convolucionales (CNN) están diseñadas para aprender automáticamente y de forma adaptativa jerarquías espaciales de características a partir de entradas visuales. Utilizan capas convolucionales que aplican filtros para detectar bordes, texturas y formas complejas en los datos.

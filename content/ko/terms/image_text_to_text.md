@@ -1,23 +1,23 @@
 ---
-title: "Image Text To Text"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Image Text To Text
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /ko/terms/image_text_to_text/
-date: "2026-07-18T15:59:29.993796Z"
-lastmod: "2026-07-18T16:38:06.853255Z"
+slug: image_text_to_text
+date: '2026-07-18T15:59:29.993796Z'
+lastmod: '2026-07-18T16:38:06.853255Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "입력 이미지와 선택적 텍스트 프롬프트를 기반으로 텍스트 설명이나 답변을 생성하는 다중 모달 AI 기능입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 입력 이미지와 선택적 텍스트 프롬프트를 기반으로 텍스트 설명이나 답변을 생성하는 다중 모달 AI 기능입니다.
 ---
-
 ## Definition
 
 Image Text To Text는 시각적 입력과 텍스트 쿼리를 함께 처리하여 일관된 자연어 출력을 생성하는 모델을 지칭합니다. 이러한 시스템은 종종 비전-언어 모델(Vision-Language Models, VLMs)이라고 불리며, 이미지 이해와 언어 생성을 결합합니다.

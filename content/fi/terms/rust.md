@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /fi/terms/rust/
-date: "2026-07-18T16:19:31.345833Z"
-lastmod: "2026-07-18T17:15:09.456963Z"
+slug: rust
+date: '2026-07-18T16:19:31.345833Z'
+lastmod: '2026-07-18T17:15:09.456963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Rust on järjestelmäohjelmointikieli, joka keskittyy turvallisuuteen, nopeuteen ja rinnakkaisuuteen ilman roskienkeräystä."
+source: agnes_llm
+status: published
+language: fi
+description: Rust on järjestelmäohjelmointikieli, joka keskittyy turvallisuuteen,
+  nopeuteen ja rinnakkaisuuteen ilman roskienkeräystä.
 ---
-
 ## Definition
 
 Rust on moniparadigmainen, yleiskäyttöinen ohjelmointikieli, joka on suunniteltu suorituskyvyn ja turvallisuuden, erityisesti turvallisen rinnakkaisuuden, varmistamiseksi. Se saavuttaa muistiturvallisuuden käyttämättä roskienkeräystä, mikä takaa muistin eheyden.

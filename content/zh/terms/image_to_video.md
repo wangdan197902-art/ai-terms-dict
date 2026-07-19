@@ -1,23 +1,23 @@
 ---
-title: "图像到视频"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: 图像到视频
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /zh/terms/image_to_video/
-date: "2026-07-18T11:21:59.659458Z"
-lastmod: "2026-07-18T11:44:45.516634Z"
+slug: image_to_video
+date: '2026-07-18T11:21:59.659458Z'
+lastmod: '2026-07-18T11:44:45.516634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种生成过程，通过动画化静态图像来创建短视频片段，添加时间动态性和运动效果。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种生成过程，通过动画化静态图像来创建短视频片段，添加时间动态性和运动效果。
 ---
-
 ## Definition
 
 图像到视频（Image To Video）技术接收单个静态帧，并预测后续帧以生成连贯的视频序列。这涉及对时间一致性和物理动力学的建模，以确保生成的视频在视觉上自然流畅。该技术允许用户通过一张图片启动视频生成，广泛应用于创意内容和影视制作领域。

@@ -1,23 +1,24 @@
 ---
-title: "Sieci autonomiczne"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Sieci autonomiczne
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /pl/terms/autonomic_networking/
-date: "2026-07-18T15:42:19.116679Z"
-lastmod: "2026-07-18T17:15:08.848971Z"
+slug: autonomic_networking
+date: '2026-07-18T15:42:19.116679Z'
+lastmod: '2026-07-18T17:15:08.848971Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Samozarządzająca się infrastruktura sieciowa, która wykorzystuje sztuczną inteligencję do konfiguracji, optymalizacji i samoleczenia."
+source: agnes_llm
+status: published
+language: pl
+description: Samozarządzająca się infrastruktura sieciowa, która wykorzystuje sztuczną
+  inteligencję do konfiguracji, optymalizacji i samoleczenia.
 ---
-
 ## Definition
 
 Sieci autonomiczne stosują zasady obliczeń autonomicznych do sieci telekomunikacyjnych, umożliwiając systemom samodzielne zarządzanie z minimalną interwencją człowieka. Sieci te wykorzystują sztuczną inteligencję do wykrywania ustere...

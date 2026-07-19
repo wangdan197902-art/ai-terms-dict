@@ -1,23 +1,25 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /nl/terms/exbert/
-date: "2026-07-18T15:54:32.087331Z"
-lastmod: "2026-07-18T17:15:08.743125Z"
+slug: exbert
+date: '2026-07-18T15:54:32.087331Z'
+lastmod: '2026-07-18T17:15:08.743125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een methode voor het verklaren van de voorspellingen van BERT door te identificeren welke aandacht-koppen en lagen het meest bijdragen aan specifieke uitvoer."
+source: agnes_llm
+status: published
+language: nl
+description: Een methode voor het verklaren van de voorspellingen van BERT door te
+  identificeren welke aandacht-koppen en lagen het meest bijdragen aan specifieke
+  uitvoer.
 ---
-
 ## Definition
 
 ExBERT biedt interpreteerbaarheid voor het BERT-transformermodel door het belang van individuele aandacht-koppen over verschillende lagen heen te analyseren. Het maakt gebruik van technieken zoals gradient-gebaseerde attributie of activatie-analyse om de interne werking van het model inzichtelijk te maken.

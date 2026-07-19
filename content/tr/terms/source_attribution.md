@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /tr/terms/source_attribution/
 date: "2026-07-18T16:14:41.310972Z"
 lastmod: "2026-07-18T16:38:07.366503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirli içerik veya içgörülerin oluşturulmasında kullanılan orijinal yaratıcıları veya veri setlerini tanımlama ve bunlara hak verme süreci."
 ---
-
 ## Definition
 
 Kaynak atıfı, yapay zeka sistemlerinde veri, modeller veya oluşturulan çıktılar için kökenlerin sistematik olarak izlenmesini ve etiketlenmesini ifade eder. Nihai sonuçların kaynaklarına geri dönük olarak bağlantılandırılması sayesinde şeffaflığı sağlar.

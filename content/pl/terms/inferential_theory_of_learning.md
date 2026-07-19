@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /pl/terms/inferential_theory_of_learning/
 date: "2026-07-18T16:00:17.460352Z"
 lastmod: "2026-07-18T17:15:08.885768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Rama teoretyczna, w której uczenie jest postrzegane jako wnioskowanie Bayesa, polegające na aktualizacji przekonań dotyczących hipotez na podstawie obserwowanych danych."
 ---
-
 ## Definition
 
 Teoria ta zakłada, że uczenie jest zasadniczo procesem wnioskowania probabilistycznego. Zamiast zapamiętywać dane, uczeń utrzymuje rozkład prawdopodobieństwa nad możliwymi modelami lub hipotezami. A

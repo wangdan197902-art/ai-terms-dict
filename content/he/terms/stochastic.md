@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /he/terms/stochastic/
 date: "2026-07-18T15:30:49.302287Z"
 lastmod: "2026-07-18T17:15:09.488209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתאר תהליכים או מודלים המערבים אקראיות והסתברות במקום תוצאות דטרמיניסטיות."
 ---
-
 ## Definition
 
 אלמנטים סטוכסטיים מביאים משתנות למערכות בינה מלאכותית, כגון רעש בנתונים או התחלה אקראית של משקולות. בניגוד למודלים דטרמיניסטיים, מודלים סטוכסטיים לוקחים בחשבון אי-ודאות.

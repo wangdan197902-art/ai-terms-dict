@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /hu/terms/natural_language_processing/
 date: "2026-07-18T15:28:49.398272Z"
 lastmod: "2026-07-18T17:15:09.725446Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI egy ága, amelynek célja, hogy a számítógépeket képesek legyenek megérteni, értelmezni és generálni az emberi nyelvet."
 ---
-
 ## Definition
 
 A Természetes Nyelvfeldolgozás (NLP) az mesterséges intelligencia egy alterülete, amely a számítógépes nyelvtant statisztikai, gépi tanulási és mélytanulási modellekkel ötvözi. Lehetővé teszi a gépek számára, hogy

@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /en/terms/backdoor_attack/
 date: "2026-07-18T10:20:18.822156Z"
 lastmod: "2026-07-18T11:44:44.734594Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A security threat where malicious actors embed hidden triggers in AI models during training to cause specific misclassifications."
 ---
-
 ## Definition
 
 A backdoor attack involves poisoning the training data of a machine learning model with specific patterns, known as triggers. While the model performs normally on clean data, it activates incorrect behavior whenever the trigger is present. This compromises model integrity and safety, often going undetected until exploitation. It poses significant risks in critical applications like autonomous driving or healthcare, necessitating robust defense mechanisms against data poisoning.

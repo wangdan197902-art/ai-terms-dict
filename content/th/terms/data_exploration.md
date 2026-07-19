@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /th/terms/data_exploration/
 date: "2026-07-18T15:47:50.493084Z"
 lastmod: "2026-07-18T16:38:07.591953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การวิเคราะห์ชุดข้อมูลในระยะเริ่มต้นเพื่อค้นหารูปแบบ ระบุค่าผิดปกติ และทดสอบสมมติฐานก่อนการสร้างแบบจำลองอย่างเป็นทางการ"
 ---
-
 ## Definition
 
 การสำรวจข้อมูล (Data Exploration) ซึ่งมักเรียกว่า การวิเคราะห์ข้อมูลเชิงสำรวจ (Exploratory Data Analysis - EDA) เป็นขั้นตอนเบื้องต้นที่สำคัญมากในกระบวนการเรียนรู้ของเครื่อง (Machine Learning) ขั้นตอนนี้อนุญาตให้สรุปลักษณะสำคัญของข้อมูล โดยมักใช้เทคนิคทางสถิติและการแสดงผลด้วยภาพเพื่อทำความเข้าใจโครงสร้างและคุณสมบัติของข้อมูลก่อนนำไปใช้ต่อ

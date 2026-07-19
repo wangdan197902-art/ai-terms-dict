@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /cs/terms/sequence_labeling/
 date: "2026-07-18T16:17:18.467989Z"
 lastmod: "2026-07-18T17:15:09.199955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Úkol zpracování přirozeného jazyka, při kterém je každému prvku v sekenci vstupních dat přiřazena kategorie."
 ---
-
 ## Definition
 
 Označování sekvencí zahrnuje predikci kategorického štítku pro každý token v dané vstupní sekci, jako jsou slova ve větě nebo znaky v řetězci. Běžné aplikace zahrnují rozpoznávání jmenovaných entit, tagování částí řeči a syntaktické chunkování.

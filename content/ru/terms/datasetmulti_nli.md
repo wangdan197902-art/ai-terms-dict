@@ -1,23 +1,26 @@
 ---
-title: "Набор данных: Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: 'Набор данных: Multi Nli'
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /ru/terms/datasetmulti_nli/
-date: "2026-07-18T15:48:24.221573Z"
-lastmod: "2026-07-18T16:38:07.141307Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:48:24.221573Z'
+lastmod: '2026-07-18T16:38:07.141307Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Корпус многожанрового естественного языкового вывода — крупный набор данных, содержащий миллионы англоязычных предложений, написанных людьми, с золотыми аннотациями для текстового следования."
+source: agnes_llm
+status: published
+language: ru
+description: Корпус многожанрового естественного языкового вывода — крупный набор
+  данных, содержащий миллионы англоязычных предложений, написанных людьми, с золотыми
+  аннотациями для текстового следования.
 ---
-
 ## Definition
 
 MultiNLI — это корпус, собранный с помощью краудсорсинга, доступный через бенчмарк GLUE, предназначенный для оценки естественного языкового вывода (NLI) в различных жанрах устной и письменной речи. Он предоставляет пары предпосылка-гипотеза

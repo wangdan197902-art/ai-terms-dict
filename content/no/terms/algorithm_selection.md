@@ -1,23 +1,23 @@
 ---
-title: "Algoritmevalg"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Algoritmevalg
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /no/terms/algorithm_selection/
-date: "2026-07-18T15:41:57.392654Z"
-lastmod: "2026-07-18T16:38:06.969339Z"
+slug: algorithm_selection
+date: '2026-07-18T15:41:57.392654Z'
+lastmod: '2026-07-18T16:38:06.969339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Algoritmevalg er prosessen med å velge den mest geschikte beregningsmetoden for et spesifikt problem basert på ytelsesmål og begrensninger."
+source: agnes_llm
+status: published
+language: 'no'
+description: Algoritmevalg er prosessen med å velge den mest geschikte beregningsmetoden
+  for et spesifikt problem basert på ytelsesmål og begrensninger.
 ---
-
 ## Definition
 
 Algoritmevalg innebærer å evaluere ulike beregningsmetoder for å fastslå hvilken som løser en gitt oppgave mest effektivt. Denne prosessen tar hensyn til faktorer som tidskompleksitet, plasskompleksitet...

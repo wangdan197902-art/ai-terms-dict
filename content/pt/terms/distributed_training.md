@@ -1,23 +1,24 @@
 ---
-title: "Treinamento Distribuído"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Treinamento Distribuído
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /pt/terms/distributed_training/
-date: "2026-07-18T14:43:55.449194Z"
-lastmod: "2026-07-18T15:51:59.448848Z"
+slug: distributed_training
+date: '2026-07-18T14:43:55.449194Z'
+lastmod: '2026-07-18T15:51:59.448848Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um método de treinamento de modelos de aprendizado de máquina que divide dados ou computações entre vários dispositivos ou servidores."
+source: agnes_llm
+status: published
+language: pt
+description: Um método de treinamento de modelos de aprendizado de máquina que divide
+  dados ou computações entre vários dispositivos ou servidores.
 ---
-
 ## Definition
 
 O Treinamento Distribuído acelera a convergência do modelo paralelizando a computação em várias GPUs ou nós. As técnicas incluem paralelismo de dados, onde cada trabalhador processa um subconjunto dos dados, e paralelismo de modelo.

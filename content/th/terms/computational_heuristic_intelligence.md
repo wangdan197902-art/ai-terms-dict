@@ -1,23 +1,23 @@
 ---
-title: "สติปัญญาฮิวริสติกเชิงคำนวณ"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: สติปัญญาฮิวริสติกเชิงคำนวณ
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /th/terms/computational_heuristic_intelligence/
-date: "2026-07-18T15:46:03.265704Z"
-lastmod: "2026-07-18T16:38:07.586995Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T15:46:03.265704Z'
+lastmod: '2026-07-18T16:38:07.586995Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทาง AI ที่ใช้เทคนิคเชิงปฏิบัติและประสบการณ์เพื่อแก้ปัญหาอย่างมีประสิทธิภาพเมื่อวิธีการที่แน่นอนใช้เวลานานเกินไป"
+source: agnes_llm
+status: published
+language: th
+description: แนวทาง AI ที่ใช้เทคนิคเชิงปฏิบัติและประสบการณ์เพื่อแก้ปัญหาอย่างมีประสิทธิภาพเมื่อวิธีการที่แน่นอนใช้เวลานานเกินไป
 ---
-
 ## Definition
 
 สติปัญญาฮิวริสติกเชิงคำนวณเกี่ยวข้องกับอัลกอริทึมที่ใช้กฎโดยประมาณ การประมาณค่า หรือการคาดเดาอย่างมีเหตุผล เพื่อหาคำตอบที่ยอมรับได้ในระยะเวลาที่เหมาะสม ต่างจากการค้นหาแบบครอบคลุมทุกความเป็นไปได้

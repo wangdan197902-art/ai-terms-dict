@@ -1,23 +1,23 @@
 ---
-title: "アルゴリズム確率"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: アルゴリズム確率
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /ja/terms/algorithmic_probability/
-date: "2026-07-18T11:03:40.156540Z"
-lastmod: "2026-07-18T11:44:45.066511Z"
+slug: algorithmic_probability
+date: '2026-07-18T11:03:40.156540Z'
+lastmod: '2026-07-18T11:44:45.066511Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ランダムなプログラムが特定の出力文字列を生成する可能性を示す理論的な尺度。"
+source: agnes_llm
+status: published
+language: ja
+description: ランダムなプログラムが特定の出力文字列を生成する可能性を示す理論的な尺度。
 ---
-
 ## Definition
 
 アルゴリズム確率は、コルモゴロフ複雑性とソロモノフ帰納法に根ざしており、短いプログラムによって生成された出力には高い確率を割り当てます。これは、より単純な説明の方がより妥当であるという仮定に基づいています。

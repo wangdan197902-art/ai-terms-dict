@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /id/terms/recursive_self_improvement/
 date: "2026-07-18T16:07:03.481240Z"
 lastmod: "2026-07-18T16:38:07.500238Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah proses di mana sistem AI secara iteratif meningkatkan kecerdasan atau kemampuannya sendiri melalui modifikasi mandiri."
 ---
-
 ## Definition
 
 Peningkatan diri rekursif merujuk pada kemampuan teoretis sebuah sistem kecerdasan buatan untuk menulis ulang kode sumber atau arsitekturnya sendiri agar menjadi lebih cerdas, efisien, atau mampu.

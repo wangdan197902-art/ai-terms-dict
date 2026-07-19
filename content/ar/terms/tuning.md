@@ -1,23 +1,24 @@
 ---
-title: "الضبط"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: الضبط
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /ar/terms/tuning/
-date: "2026-07-18T15:31:48.544649Z"
-lastmod: "2026-07-18T17:15:08.451747Z"
+slug: tuning
+date: '2026-07-18T15:31:48.544649Z'
+lastmod: '2026-07-18T17:15:08.451747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية ضبط المعلمات الفائقة أو أوزان النموذج لتحسين الأداء على مجموعة بيانات أو مهمة محددة."
+source: agnes_llm
+status: published
+language: ar
+description: عملية ضبط المعلمات الفائقة أو أوزان النموذج لتحسين الأداء على مجموعة
+  بيانات أو مهمة محددة.
 ---
-
 ## Definition
 
 يتضمن الضبط تحسين نموذج تعلم الآلة لتحقيق دقة أو كفاءة أفضل. يمكن أن يشير إلى ضبط المعلمات الفائقة، حيث يتم تحسين إعدادات مثل معدل التعلم أو حجم الدفعة، أو الضبط

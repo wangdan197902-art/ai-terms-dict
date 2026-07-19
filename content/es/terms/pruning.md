@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /es/terms/pruning/
 date: "2026-07-18T11:04:59.321467Z"
 lastmod: "2026-07-18T11:44:44.846103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una técnica de compresión de modelos que elimina parámetros redundantes o menos significativos para reducir el tamaño y mejorar la velocidad de inferencia."
 ---
-
 ## Definition
 
 La poda consiste en identificar y eliminar neuronas, conexiones o filtros en una red neuronal que contribuyen mínimamente a la precisión de la salida. Al remover estos elementos redundantes, el modelo se vuelve más ligero y eficiente, facilitando su implementación en dispositivos con recursos limitados sin sacrificar significativamente el rendimiento.

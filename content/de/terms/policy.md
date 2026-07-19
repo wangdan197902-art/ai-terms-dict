@@ -1,23 +1,25 @@
 ---
-title: "Policy"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Policy
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /de/terms/policy/
-date: "2026-07-18T10:52:44.640404Z"
-lastmod: "2026-07-18T11:44:44.880542Z"
+slug: policy
+date: '2026-07-18T10:52:44.640404Z'
+lastmod: '2026-07-18T11:44:44.880542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Strategie oder ein Aktionsplan zur Führung von Entscheidungen und Erreichung rationaler Ergebnisse, oft verwendet im Reinforcement Learning, um Zustände Aktionen zuzuordnen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Strategie oder ein Aktionsplan zur Führung von Entscheidungen und
+  Erreichung rationaler Ergebnisse, oft verwendet im Reinforcement Learning, um Zustände
+  Aktionen zuzuordnen.
 ---
-
 ## Definition
 
 Der Begriff 'Policy' hat je nach Kontext zwei Bedeutungen. Im allgemeinen Management ist er ein leitendes Prinzip für die Entscheidungsfindung. Im Reinforcement Learning (RL) ist eine Policy eine Kernkomponente eines ag...

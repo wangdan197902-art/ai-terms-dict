@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /nl/terms/benchmark/
 date: "2026-07-18T15:23:54.268526Z"
 lastmod: "2026-07-18T17:15:08.680698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een standaardreferentiepunt of metriek gebruikt om de prestaties van AI-modellen te evalueren tegen gevestigde basislijnen."
 ---
-
 ## Definition
 
 In kunstmatige intelligentie is een benchmark een gestandaardiseerde testset of dataset die is ontworpen om de capaciteiten van machine learning-modellen te meten. Het biedt een consistent kader voor het vergelijken van verschillende modellen.

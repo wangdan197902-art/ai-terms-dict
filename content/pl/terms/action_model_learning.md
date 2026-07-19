@@ -1,23 +1,24 @@
 ---
-title: "Uczenie modelu działań"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Uczenie modelu działań
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /pl/terms/action_model_learning/
-date: "2026-07-18T15:39:01.340409Z"
-lastmod: "2026-07-18T17:15:08.842046Z"
+slug: action_model_learning
+date: '2026-07-18T15:39:01.340409Z'
+lastmod: '2026-07-18T17:15:08.842046Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika uczenia ze wzmocnieniem, w której agent poznaje dynamikę swojego środowiska poprzez obserwację skutków własnych działań."
+source: agnes_llm
+status: published
+language: pl
+description: Technika uczenia ze wzmocnieniem, w której agent poznaje dynamikę swojego
+  środowiska poprzez obserwację skutków własnych działań.
 ---
-
 ## Definition
 
 Uczenie modelu działań polega na budowaniu przez agenta wewnętrznej reprezentacji sposobu, w jaki jego działania przenoszą środowisko z jednego stanu w drugi. W przeciwieństwie do biernego obserwowania, metoda ta wykorzystuje bezpośrednią interakcję z otoczeniem.

@@ -1,23 +1,24 @@
 ---
-title: "Prediktív állapotreprezentáció"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Prediktív állapotreprezentáció
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /hu/terms/predictive_state_representation/
-date: "2026-07-18T16:18:42.439131Z"
-lastmod: "2026-07-18T17:15:09.823461Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:18:42.439131Z'
+lastmod: '2026-07-18T17:15:09.823461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy latens állapotmegfogalmazás az erősítéstanulásban, amely a cselekvési előzmények alapján jövőbeli megfigyeléseket jósol."
+source: agnes_llm
+status: published
+language: hu
+description: Egy latens állapotmegfogalmazás az erősítéstanulásban, amely a cselekvési
+  előzmények alapján jövőbeli megfigyeléseket jósol.
 ---
-
 ## Definition
 
 A Prediktív Állapotreprezentációk (PSR) kiterjesztik a hagyományos részben megfigyelhető Markov-döntési folyamatokat azzal, hogy az állapotokat jövőbeli megfigyelhető eseményekre vonatkozó előrejelzések vektorként definiálják. Ehelyett arra támaszkodni, hogy az állapot közvetlenül megfigyelhető lenne, a PSR a múltbeli történések és cselekvések alapján modellezi a rendszer dinamikáját.

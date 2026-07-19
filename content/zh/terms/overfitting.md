@@ -1,23 +1,23 @@
 ---
-title: "过拟合"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: 过拟合
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /zh/terms/overfitting/
-date: "2026-07-18T11:01:16.765858Z"
-lastmod: "2026-07-18T11:44:45.403556Z"
+slug: overfitting
+date: '2026-07-18T11:01:16.765858Z'
+lastmod: '2026-07-18T11:44:45.403556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种建模误差，机器学习算法捕捉到了噪声而非潜在信号，从而损害了泛化能力。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种建模误差，机器学习算法捕捉到了噪声而非潜在信号，从而损害了泛化能力。
 ---
-
 ## Definition
 
 当模型对训练数据学习得过于完美，包括其随机噪声和异常值时，就会发生过拟合。这导致模型在训练数据上表现优异，但在新的、未见过的测试数据上表现糟糕。

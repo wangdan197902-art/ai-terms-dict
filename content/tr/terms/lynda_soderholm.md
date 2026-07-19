@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /tr/terms/lynda_soderholm/
 date: "2026-07-18T16:01:47.883295Z"
 lastmod: "2026-07-18T16:38:07.329910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Lynda Soderholm, yapay zeka etiği, sorumlu yenilikçilik ve yapay zekanın toplumsal etkilerine katkılarıyla tanınan önde gelen bir araştırmacı ve yöneticidir."
 ---
-
 ## Definition
 
 Lynda Soderholm, özellikle teknoloji sektöründe, yapay zeka geliştirme ile etik yönetim kesişimindeki çalışmalarıyla tanınan tanınmış bir figürdür. Kurumsal sorumluluk alanında lider olarak,

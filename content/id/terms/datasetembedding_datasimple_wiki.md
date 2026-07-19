@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /id/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:45:56.161134Z"
 lastmod: "2026-07-18T16:38:07.445097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah dataset terkurasi yang berasal dari Simple English Wikipedia, digunakan untuk melatih dan mengevaluasi model embedding teks."
 ---
-
 ## Definition
 
 Dataset ini terdiri dari kalimat-kalimat dan paragraf yang diekstrak dari Simple English Wikipedia, yaitu versi Wikipedia yang ditulis untuk penutur bukan bahasa Inggris dengan tata bahasa dan kosakata yang disederhanakan. Dataset ini berfungsi sebagai

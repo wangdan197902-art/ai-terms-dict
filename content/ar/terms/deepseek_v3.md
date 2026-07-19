@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /ar/terms/deepseek_v3/
 date: "2026-07-18T15:53:19.810445Z"
 lastmod: "2026-07-18T17:15:08.495392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ديب سيك V3 هو نموذج لغة فعال للغاية من نوع خليط الخبراء (MoE)، يحقق أداءً متفوقاً بتكاليف تدريب أقل بشكل ملحوظ."
 ---
-
 ## Definition
 
 ديب سيك V3 هو تطور متقدم ضمن عائلة نماذج DeepSeek، ويتميز بتنشيط كثيف لمجموعة صغيرة فقط من المعلمات أثناء الاستدلال عبر توجيه خليط الخبراء. تتميز هذه البنية بـ

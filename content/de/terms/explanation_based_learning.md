@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /de/terms/explanation_based_learning/
 date: "2026-07-18T11:14:02.601841Z"
 lastmod: "2026-07-18T11:44:44.938711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Erklärungsbasiertes Lernen ist eine Methode des maschinellen Lernens, die Domänentheorien und ein einzelnes Trainingsbeispiel verwendet, um eine Erklärung zu generieren, die dann zu einer neuen Regel "
 ---
-
 ## Definition
 
 EBL kombiniert symbolisches Rechnen mit maschinellem Lernen, um den Lernprozess zu beschleunigen. Statt sich auf große Datensätze zu verlassen, nimmt es ein positives Beispiel und nutzt eine vorliegende Domänentheorie.

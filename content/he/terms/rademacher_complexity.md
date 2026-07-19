@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /he/terms/rademacher_complexity/
 date: "2026-07-18T16:21:56.955789Z"
 lastmod: "2026-07-18T17:15:09.579167Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מדד סטטיסטי המשמש בתורת הלמידה כדי לכמת את עושרו של מחלקת פונקציות על ידי יכולתה להתאים לרעש אקראי."
 ---
-
 ## Definition
 
 מורכבות רדמהאכר מעריכה עד כמה מחלקת השערות יכולה להתייחס באופן מתאים לתוויות אקראיות (רעש). היא משמשת כמדד מקביל לקיבולת או לגמישות של המודל. מורכבות נמוכה יותר מצביעה על יכולת הכללה טובה יותר.

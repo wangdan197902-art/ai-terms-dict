@@ -1,23 +1,24 @@
 ---
-title: "Informatica comportamentale"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Informatica comportamentale
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /it/terms/behavior_informatics/
-date: "2026-07-18T15:50:04.233145Z"
-lastmod: "2026-07-18T17:15:08.603366Z"
+slug: behavior_informatics
+date: '2026-07-18T15:50:04.233145Z'
+lastmod: '2026-07-18T17:15:08.603366Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il campo interdisciplinare che studia il comportamento umano attraverso la raccolta e l'analisi di dati digitali."
+source: agnes_llm
+status: published
+language: it
+description: Il campo interdisciplinare che studia il comportamento umano attraverso
+  la raccolta e l'analisi di dati digitali.
 ---
-
 ## Definition
 
 L'informatica comportamentale combina informatica, psicologia e statistica per analizzare grandi volumi di dati comportamentali generati dalle interazioni digitali. Si concentra sull'estrazione di pattern, sulla previsione di futuri comportamenti e sulla comprensione delle dinamiche umane, utilizzando tecniche di machine learning e analisi dei dati per trasformare tracce digitali in insight significativi.

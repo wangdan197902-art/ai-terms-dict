@@ -1,23 +1,23 @@
 ---
-title: "자동 음성 인식"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: 자동 음성 인식
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /ko/terms/automatic_speech_recognition/
-date: "2026-07-18T15:43:03.723946Z"
-lastmod: "2026-07-18T16:38:06.811713Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:43:03.723946Z'
+lastmod: '2026-07-18T16:38:06.811713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "딥러닝 모델을 사용하여 구어체를 텍스트로 변환하는 기술입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 딥러닝 모델을 사용하여 구어체를 텍스트로 변환하는 기술입니다.
 ---
-
 ## Definition
 
 음성 인식(ASR) 또는 음성-텍스트 변환은 인공지능을 활용하여 오디오 신호를 문자 텍스트로 변환하는 음성 처리의 하위 분야입니다. 현대 ASR 시스템은...

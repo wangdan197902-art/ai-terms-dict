@@ -1,23 +1,25 @@
 ---
-title: "Pra-pelatihan"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Pra-pelatihan
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /id/terms/pre_training/
-date: "2026-07-18T15:28:21.487271Z"
-lastmod: "2026-07-18T16:38:07.399802Z"
+slug: pre_training
+date: '2026-07-18T15:28:21.487271Z'
+lastmod: '2026-07-18T16:38:07.399802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Fase awal pelatihan model pembelajaran mesin pada dataset besar yang tidak berlabel untuk mempelajari representasi umum sebelum penyetelan halus pada tugas spesifik."
+source: agnes_llm
+status: published
+language: id
+description: Fase awal pelatihan model pembelajaran mesin pada dataset besar yang
+  tidak berlabel untuk mempelajari representasi umum sebelum penyetelan halus pada
+  tugas spesifik.
 ---
-
 ## Definition
 
 Pra-pelatihan adalah teknik mendasar dalam pembelajaran mendalam di mana model mempelajari fitur dan pola luas dari sejumlah besar data, seringkali tanpa label. Proses ini memungkinkan model mengembangkan pemahaman umum tentang struktur data (seperti tata bahasa dalam bahasa atau fitur visual dalam gambar), yang kemudian dapat disesuaikan (fine-tuned) untuk tugas tertentu dengan lebih sedikit data dan komputasi.

@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /ro/terms/connectionist_expert_system/
 date: "2026-07-18T15:50:32.237599Z"
 lastmod: "2026-07-18T17:15:09.639172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem inteligent care combină capacitățile de învățare ale rețelelor neuronale cu structurile de raționament simbolic."
 ---
-
 ## Definition
 
 Un sistem expert conexționist integrează puterile de recunoaștere a tiparelor și învățare ale rețelelor neuronale (conexționism) cu reprezentarea explicită a cunoștințelor și raționamentul logic al tradiției simbolice, oferind o abordare hibridă.

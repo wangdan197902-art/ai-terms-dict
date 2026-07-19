@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /vi/terms/cli/
 date: "2026-07-18T15:34:03.793677Z"
 lastmod: "2026-07-18T16:38:07.706940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Giao diện Dòng lệnh (CLI) là phương thức tương tác dựa trên văn bản với các chương trình phần mềm bằng cách gõ lệnh vào thiết bị đầu cuối (terminal)."
 ---
-
 ## Definition
 
 Giao diện Dòng lệnh (CLI) cho phép người dùng kiểm soát phần mềm bằng cách nhập các lệnh văn bản thay vì sử dụng các yếu tố đồ họa. Trong phát triển AI, CLI rất quan trọng để chạy các tập lệnh, quản lý mô hình và tài nguyên.

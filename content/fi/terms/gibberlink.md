@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /fi/terms/gibberlink/
 date: "2026-07-18T15:59:38.947776Z"
 lastmod: "2026-07-18T17:15:09.415310Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Gibberlink ei ole tekoälykirjallisuudessa tunnustettu vakiintunut termi."
 ---
-
 ## Definition
 
 Tekoälyn, koneoppimisen tai tietojenkäsittelytieteen alalla ei ole olemassa vakiintunutta käsitettä, teknologiaa tai menetelmää nimeltä "Gibberlink". Se voi olla kirjoitusvirhe tai fiktiivinen käsite.

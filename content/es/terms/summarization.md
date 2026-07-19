@@ -1,23 +1,24 @@
 ---
-title: "Resumen"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Resumen
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /es/terms/summarization/
-date: "2026-07-18T10:32:20.236413Z"
-lastmod: "2026-07-18T11:44:44.767242Z"
+slug: summarization
+date: '2026-07-18T10:32:20.236413Z'
+lastmod: '2026-07-18T11:44:44.767242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una tarea de PLN que genera un resumen conciso y coherente de un texto más largo, preservando su información clave."
+source: agnes_llm
+status: published
+language: es
+description: Una tarea de PLN que genera un resumen conciso y coherente de un texto
+  más largo, preservando su información clave.
 ---
-
 ## Definition
 
 La generación de resúmenes de texto reduce grandes volúmenes de texto a versiones más cortas sin perder el significado crítico. Puede ser extractiva, seleccionando oraciones importantes del texto original, o abstractiva, generando nuevas frases que capturan la esencia.

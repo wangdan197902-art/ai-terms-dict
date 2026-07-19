@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /he/terms/feedback_neural_network/
 date: "2026-07-18T15:57:45.659355Z"
 lastmod: "2026-07-18T17:15:09.540726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ארכיטקטורת רשת נוירונים שבה החיבורים יוצרים מחזורים מכוונים, המאפשרים למידע להישמר לאורך זמן."
 ---
-
 ## Definition
 
 רשתות נוירונים עם משוב, הידועות גם כרשתות נוירונים רקורסיביות (RNNs), מכילות לולאות המאפשרות לאותות להתפשט חזרה לשכבות קודמות. רקורסיה זו מאפשרת לרשת לשמור על מצב פנימי.

@@ -1,23 +1,24 @@
 ---
-title: "Itsenäinen"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Itsenäinen
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /fi/terms/autonomous/
-date: "2026-07-18T15:23:20.624086Z"
-lastmod: "2026-07-18T17:15:09.346203Z"
+slug: autonomous
+date: '2026-07-18T15:23:20.624086Z'
+lastmod: '2026-07-18T17:15:09.346203Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kuvailee järjestelmiä, jotka pystyvät tekemään päätöksiä ja toimimaan itsenäisesti dynaamisissa ympäristöissä."
+source: agnes_llm
+status: published
+language: fi
+description: Kuvailee järjestelmiä, jotka pystyvät tekemään päätöksiä ja toimimaan
+  itsenäisesti dynaamisissa ympäristöissä.
 ---
-
 ## Definition
 
 Itsenäisyys tekoälyssä viittaa kykyyn havainnoida ympäristöä, tehdä päätöksiä ja suorittaa toimia ilman suoraa ihmisen ohjausta. Toisin kuin yksinkertainen automaatio, itsenäiset järjestelmät sopeutuvat muuttuviin olosuhteisiin.

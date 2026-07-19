@@ -1,23 +1,24 @@
 ---
-title: "כמותנה (Quantification)"
-term_id: "quantification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_processing", "fundamentals", "preprocessing"]
+title: כמותנה (Quantification)
+term_id: quantification
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Processing
+- fundamentals
+- preprocessing
 difficulty: 2
 weight: 1
-slug: "quantification"
-aliases:
-  - /he/terms/quantification/
-date: "2026-07-18T16:21:10.581309Z"
-lastmod: "2026-07-18T17:15:09.577536Z"
+slug: quantification
+date: '2026-07-18T16:21:10.581309Z'
+lastmod: '2026-07-18T17:15:09.577536Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "כמותנה היא התהליך של ניסוח מאפיינים איכותיים או מושגים מופשטים במונחים מספריים לצורך ניתוח."
+source: agnes_llm
+status: published
+language: he
+description: כמותנה היא התהליך של ניסוח מאפיינים איכותיים או מושגים מופשטים במונחים
+  מספריים לצורך ניתוח.
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית ומדעי הנתונים, כמותנה מתייחס להמרה של נתונים לא מספריים, כגון טקסט, תמונות או דעות סובייקטיביות, לערכים מספריים נמדדים. תהליך זה

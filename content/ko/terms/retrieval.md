@@ -1,23 +1,23 @@
 ---
-title: "검색(Retrieval)"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: 검색(Retrieval)
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /ko/terms/retrieval/
-date: "2026-07-18T15:36:05.902196Z"
-lastmod: "2026-07-18T16:38:06.799981Z"
+slug: retrieval
+date: '2026-07-18T15:36:05.902196Z'
+lastmod: '2026-07-18T16:38:06.799981Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델의 입력을 보강하기 위해 데이터베이스나 지식 기반에서 관련 데이터를 가져오는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델의 입력을 보강하기 위해 데이터베이스나 지식 기반에서 관련 데이터를 가져오는 과정입니다.
 ---
-
 ## Definition
 
 검색은 사용자 쿼리나 맥락을 바탕으로 대규모 데이터셋이나 외부 지식 기반에서 특정 정보를 검색하고 추출하는 기술적 과정을 의미합니다. 현대 AI 시스템에서는 특히 RAG(Retrieval-Augmented Generation)와 같은 방식에서 모델의 정확성과 사실 기반 응답 능력을 높이는 데 핵심적으로 활용됩니다.

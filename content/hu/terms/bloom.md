@@ -1,23 +1,24 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /hu/terms/bloom/
-date: "2026-07-18T15:48:38.327757Z"
-lastmod: "2026-07-18T17:15:09.760522Z"
+slug: bloom
+date: '2026-07-18T15:48:38.327757Z'
+lastmod: '2026-07-18T17:15:09.760522Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A gépi tanulásban a 'Bloom' általában a Bloom-taxonómia AI-oktatásban való alkalmazására, vagy például a Bloom szövegbeágyazási modellre utal."
+source: agnes_llm
+status: published
+language: hu
+description: A gépi tanulásban a 'Bloom' általában a Bloom-taxonómia AI-oktatásban
+  való alkalmazására, vagy például a Bloom szövegbeágyazási modellre utal.
 ---
-
 ## Definition
 
 Bár történelmileg Benjamin Bloom oktatási taxonómiájára utal, a modern AI-kontextusban gyakran a BigScience által fejlesztett Bloom szövegbeágyazási modellt jelöli. Ez a modell kiváló minőségű

@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /tr/terms/google_colab/
 date: "2026-07-18T15:55:27.410345Z"
 lastmod: "2026-07-18T16:38:07.313897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bulut tabanlı bir Jupyter notebook ortamı olup, kullanıcılara tarayıcı üzerinden Python kodu yazma ve yürütme imkanı tanır; ücretsiz GPU erişimi sağlar."
 ---
-
 ## Definition
 
 Google Colaboratory (sıklıkla Colab olarak bilinir), kurulum gerektirmeyen ve Grafik İşlem Birimleri (GPU'lar) dahil olmak üzere ücretsiz hesaplama kaynakları sunan barındırılan bir Jupyter notebook hizmetidir.

@@ -1,23 +1,24 @@
 ---
-title: "Computadora wetware"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Computadora wetware
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /es/terms/wetware_computer/
-date: "2026-07-18T11:13:45.019586Z"
-lastmod: "2026-07-18T11:44:44.866216Z"
+slug: wetware_computer
+date: '2026-07-18T11:13:45.019586Z'
+lastmod: '2026-07-18T11:44:44.866216Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un sistema de computación biológica que utiliza tejido neural vivo, como células cerebrales, para procesar información."
+source: agnes_llm
+status: published
+language: es
+description: Un sistema de computación biológica que utiliza tejido neural vivo, como
+  células cerebrales, para procesar información.
 ---
-
 ## Definition
 
 La computación wetware se refiere a sistemas donde las neuronas biológicas, a menudo cultivadas in vitro, sirven como unidades de procesamiento principales en lugar del hardware tradicional basado en silicio. Estos sistemas aprovechan la capacidad de las redes biológicas para el aprendizaje y la adaptación.

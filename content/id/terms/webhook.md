@@ -1,23 +1,24 @@
 ---
-title: "Webhook"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Webhook
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /id/terms/webhook/
-date: "2026-07-18T16:13:15.634090Z"
-lastmod: "2026-07-18T16:38:07.519565Z"
+slug: webhook
+date: '2026-07-18T16:13:15.634090Z'
+lastmod: '2026-07-18T16:38:07.519565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kembali panggilan HTTP yang ditentukan pengguna yang dipicu oleh peristiwa tertentu, memungkinkan sistem mengirimkan notifikasi waktu nyata ke aplikasi lain."
+source: agnes_llm
+status: published
+language: id
+description: Kembali panggilan HTTP yang ditentukan pengguna yang dipicu oleh peristiwa
+  tertentu, memungkinkan sistem mengirimkan notifikasi waktu nyata ke aplikasi lain.
 ---
-
 ## Definition
 
 Webhook adalah mekanisme bagi satu layanan untuk memberikan informasi waktu nyata kepada layanan lain ketika suatu peristiwa terjadi. Alih-alih melakukan polling (pengecekan berkala) untuk perubahan, sistem sumber mengirim permintaan HTTP POST ke URL yang ditentukan oleh penerima.

@@ -1,23 +1,24 @@
 ---
-title: "Verimli"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Verimli
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /tr/terms/efficient/
-date: "2026-07-18T15:24:43.535123Z"
-lastmod: "2026-07-18T16:38:07.230692Z"
+slug: efficient
+date: '2026-07-18T15:24:43.535123Z'
+lastmod: '2026-07-18T16:38:07.230692Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zekada verimlilik; zaman, bellek veya hesaplama gücü gibi minimum kaynak tüketimiyle en iyi performansı elde etme sürecidir."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zekada verimlilik; zaman, bellek veya hesaplama gücü gibi minimum
+  kaynak tüketimiyle en iyi performansı elde etme sürecidir.
 ---
-
 ## Definition
 
 Verimlilik, bir modelin veya algoritmanın mevcut kaynakları ne kadar iyi kullandığını ölçen yapay zekada kritik bir metriktir. Hesaplama verimliliği (çıkarım/antrenman hızı), bellek kullanımı ve enerji tüketimi gibi boyutları kapsar. Yüksek verimlilik, daha hızlı yanıt süreleri ve daha düşük maliyetler anlamına gelir.

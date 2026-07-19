@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /vi/terms/gpt_bigcode/
 date: "2026-07-18T15:55:21.318761Z"
 lastmod: "2026-07-18T16:38:07.762420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một họ các mô hình ngôn ngữ lớn được đào tạo đặc biệt cho việc tạo và hiểu mã, do dự án BigCode phát triển."
 ---
-
 ## Definition
 
 GPT Bigcode, thường liên quan đến các mô hình như StarCoder, đại diện cho một bước tiến đáng kể trong trợ lý AI viết mã. Các mô hình này được huấn luyện trước trên các kho lưu trữ mã công cộng khổng lồ để hiểu cú pháp và ngữ nghĩa.

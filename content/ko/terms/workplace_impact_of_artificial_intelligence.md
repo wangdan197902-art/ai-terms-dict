@@ -1,23 +1,23 @@
 ---
-title: "인공지능의 직장 영향"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: 인공지능의 직장 영향
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /ko/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T16:20:48.436333Z"
-lastmod: "2026-07-18T16:38:06.920756Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T16:20:48.436333Z'
+lastmod: '2026-07-18T16:38:06.920756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "전문 환경에서 고용 구조, 직무 역할, 생산성 및 인간-기계 협업에 대한 AI 기술의 영향을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 전문 환경에서 고용 구조, 직무 역할, 생산성 및 인간-기계 협업에 대한 AI 기술의 영향을 의미합니다.
 ---
-
 ## Definition
 
 이 개념은 노동 시장에서의 AI의 변혁적 영향을 포괄하며, 여기에는 일상적인 작업의 자동화, 새로운 직군 창출, 필요한 기술 세트의 변화 등이 포함됩니다. AI는 생산성을 향상시키고 업무 방식을 재정의합니다.

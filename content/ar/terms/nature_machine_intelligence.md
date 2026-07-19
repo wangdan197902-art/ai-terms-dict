@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /ar/terms/nature_machine_intelligence/
 date: "2026-07-18T16:14:09.701668Z"
 lastmod: "2026-07-18T17:15:08.531946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجلة علمية محكمة تصدرها سبرينغر نيشر تركز على البحث متعدد التخصصات في مجال الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 "طبيعة الذكاء الآلي" هي مجلة أكاديمية عالية التأثير مخصصة لنشر الأبحاث الأصلية حول جميع جوانب الذكاء الاصطناعي. تغطي مواضيع تتراوح من الخوارزميات الأساسية

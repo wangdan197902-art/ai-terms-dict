@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /fi/terms/instance/
 date: "2026-07-18T16:03:56.598213Z"
 lastmod: "2026-07-18T17:15:09.422653Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Yksittäinen dataotte tai havainto, jota käytetään koneoppimistehtävissä, edustettuna yleensä ominaisuuksien vektorina."
 ---
-
 ## Definition
 
 Koneoppimisessa instanssi viittaa yhteen tietyn esimerkkiin joukosta. Se koostuu joukosta syöteominaisuuksia (attribuutteja) ja mahdollisesti kohdesanaa. Instanssit ovat perusyksikkö.

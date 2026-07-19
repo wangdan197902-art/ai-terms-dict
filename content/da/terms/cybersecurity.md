@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /da/terms/cybersecurity/
 date: "2026-07-18T15:48:39.243359Z"
 lastmod: "2026-07-18T17:15:09.273184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Praksis med at beskytte systemer, netværk og programmer mod digitale angreb, uautoriseret adgang og skade gennem forskellige forsvarsteknologier."
 ---
-
 ## Definition
 
 Cybersikkerhed omfatter de teknologier, processer og praksisser, der er designet til at beskytte netværk, computere, programmer og data mod angreb, skade eller uautoriseret adgang. I AI-konteksten er det...

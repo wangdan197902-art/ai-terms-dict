@@ -1,23 +1,24 @@
 ---
-title: "Audio inpainting"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Audio inpainting
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /da/terms/audio_inpainting/
-date: "2026-07-18T15:42:25.054053Z"
-lastmod: "2026-07-18T17:15:09.261946Z"
+slug: audio_inpainting
+date: '2026-07-18T15:42:25.054053Z'
+lastmod: '2026-07-18T17:15:09.261946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at rekonstruere manglende eller korrupte segmenter af et lydsignal baseret på omgivende kontekst."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at rekonstruere manglende eller korrupte segmenter af et
+  lydsignal baseret på omgivende kontekst.
 ---
-
 ## Definition
 
 Audio inpainting er en teknik, der bruges til at udfylde huller i lydoptagelser forårsaget af dropouts, støj eller bevidst maskering. Ved hjælp af generative modeller forudsiger systemet det mest sandsynlige indhold for de mi

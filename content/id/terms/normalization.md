@@ -1,23 +1,25 @@
 ---
-title: "Normalisasi"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalisasi
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /id/terms/normalization/
-date: "2026-07-18T16:02:19.213012Z"
-lastmod: "2026-07-18T16:38:07.488293Z"
+slug: normalization
+date: '2026-07-18T16:02:19.213012Z'
+lastmod: '2026-07-18T16:38:07.488293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Normalisasi adalah teknik pra-pemrosesan data yang menskalakan fitur numerik ke rentang standar, biasanya antara 0 dan 1, untuk meningkatkan konvergensi dan kinerja model."
+source: agnes_llm
+status: published
+language: id
+description: Normalisasi adalah teknik pra-pemrosesan data yang menskalakan fitur
+  numerik ke rentang standar, biasanya antara 0 dan 1, untuk meningkatkan konvergensi
+  dan kinerja model.
 ---
-
 ## Definition
 
 Metode umum termasuk penskalaan Min-Max dan standarisasi Z-score. Proses ini memastikan bahwa fitur dengan magnitudo lebih besar tidak mendominasi algoritma pembelajaran, terutama dalam optimisasi berbasis gradien...

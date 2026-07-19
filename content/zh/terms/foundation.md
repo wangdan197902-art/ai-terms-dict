@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /zh/terms/foundation/
 date: "2026-07-18T10:51:30.214869Z"
 lastmod: "2026-07-18T11:44:45.368838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在海量数据集上预训练的模型，作为各种下游任务的基础。"
 ---
-
 ## Definition
 
 在人工智能领域，基础模型是指在大规模数据（如图像、文本或音频）上进行训练的大型机器学习模型。这些模型旨在具备适应性，

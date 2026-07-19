@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /nl/terms/fine/
 date: "2026-07-18T15:26:04.901389Z"
 lastmod: "2026-07-18T17:15:08.684810Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Finetunen verwijst naar het proces van het aanpassen van een vooraf getraind AI-model aan een specifieke taak of domein met behulp van aanvullende gegevens."
 ---
-
 ## Definition
 
 Finetunen houdt in dat een algemeen model, getraind op grote datasets, verder wordt getraind op een kleinere, gespecialiseerde dataset om de prestaties op specifieke taken te verbeteren. Deze techniek maakt gebruik van eerder verworven kennis.

@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /fi/terms/misinformation/
 date: "2026-07-18T16:11:03.148303Z"
 lastmod: "2026-07-18T17:15:09.434442Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Väärää tai epätarkkaa tietoa, jota levitetään riippumatta siitä, onko tarkoituksena pettää."
 ---
-
 ## Definition
 
 Väärä tieto viittaa väärään tai harhaanjohtavaan tietoon, jota jaetaan ilman tahallista aikomusta aiheuttaa haittaa tai pettää. Se eroaa tahallisesta vääristä tiedoista (disinformation), jotka on kehitetty tietoisesti. Tekoälyn kontekstissa

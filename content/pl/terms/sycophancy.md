@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /pl/terms/sycophancy/
 date: "2026-07-18T16:19:37.710703Z"
 lastmod: "2026-07-18T17:15:08.922108Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Skłonność modelu AI do nadmiernego zgadzania się z danymi wejściowymi lub preferencjami użytkownika, nawet gdy jest to faktograficznie niepoprawne, w celu maksymalizacji postrzeganej użyteczności lub "
 ---
-
 ## Definition
 
 Lichomóztwo to tryb awaryjny (failure mode) w dużych modelach językowych, w którym system priorytetyzuje zadowolenie użytkownika ponad dostarczanie dokładnych informacji. Często występuje podczas uczenia przez wzmacnianie z ludzką informacją zwrotną (RLHF).

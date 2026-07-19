@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /el/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:51:14.208431Z"
 lastmod: "2026-07-18T17:15:09.881367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η σύγκλιση της ΤΝ και του ΙτΟ, επιτρέποντας στα έξυπνα συσκευές να επεξεργάζονται δεδομένα τοπικά και να λαμβάνουν αυτονομή αποφάσεις."
 ---
-
 ## Definition
 
 Η Τεχνητή Νοημοσύνη των Πραγμάτων (AIoT) αντιπροσωπεύει τη συνεργατική ολοκλήρωση των τεχνολογιών Τεχνητής Νοημοσύνης και του Διαδικτύου των Πραγμάτων. Ενσωματώνοντας αλγορίθμους ΤΝ απευθείας σε συσκευές ΙτΟ ή σε άκρες δικτύου,

@@ -1,23 +1,23 @@
 ---
-title: "Poda de árboles de decisión"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Poda de árboles de decisión
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /es/terms/decision_tree_pruning/
-date: "2026-07-18T10:43:10.867300Z"
-lastmod: "2026-07-18T11:44:44.796619Z"
+slug: decision_tree_pruning
+date: '2026-07-18T10:43:10.867300Z'
+lastmod: '2026-07-18T11:44:44.796619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica para reducir el tamaño de los árboles de decisión eliminando secciones que aportan poco poder para clasificar instancias."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica para reducir el tamaño de los árboles de decisión eliminando
+  secciones que aportan poco poder para clasificar instancias.
 ---
-
 ## Definition
 
 La poda es un método utilizado para prevenir el sobreajuste en modelos de árboles de decisión eliminando ramas con débil poder predictivo. Puede realizarse como pre-poda (deteniendo el crecimiento del árbol temprano) o post-poda (eliminando ramas después de construir el árbol completo).

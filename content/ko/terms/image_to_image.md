@@ -1,23 +1,23 @@
 ---
-title: "Image To Image"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Image To Image
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /ko/terms/image_to_image/
-date: "2026-07-18T15:59:29.993812Z"
-lastmod: "2026-07-18T16:38:06.853383Z"
+slug: image_to_image
+date: '2026-07-18T15:59:29.993812Z'
+lastmod: '2026-07-18T16:38:06.853383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "구조적 요소를 보존하면서 입력 이미지를 다른 스타일, 형식 또는 콘텐츠로 변환하는 생성형 AI 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 구조적 요소를 보존하면서 입력 이미지를 다른 스타일, 형식 또는 콘텐츠로 변환하는 생성형 AI 기법입니다.
 ---
-
 ## Definition
 
 이미지 투 이미지(Image To Image, I2I)는 GAN이나 디퓨전 모델과 같은 딥러닝 모델을 사용하여 한 이미지를 다른 이미지로 변환하는 작업을 의미합니다. 단순 필터링과 달리 I2I는 외관을 근본적으로 변경할 수 있으며, 예를 들어 스케치를 완성된 그림으로 바꾸거나 겨울 풍경을 여름 풍경으로 변환할 수 있습니다.

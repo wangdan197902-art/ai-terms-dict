@@ -7,8 +7,6 @@ tags: ["search", "ranking", "applications"]
 difficulty: 4
 weight: 1
 slug: "learning_to_rank"
-aliases:
-  - /nl/terms/learning_to_rank/
 date: "2026-07-18T16:03:14.504330Z"
 lastmod: "2026-07-18T17:15:08.761451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Leren rangschikken is een supervisietechniek in machine learning die wordt gebruikt om items te ordenen op relevantie ten opzichte van een gegeven query, veelgebruikt in zoekmachines."
 ---
-
 ## Definition
 
 In tegenstelling tot standaard classificatie of regressie, richt leren rangschikken zich op het voorspellen van een relatieve volgorde van items. Het gebruikt paarwijze, lijstwijze of puntgewijze benaderingen om rangschikkingsfouten zoals NDCG te minimaliseren.

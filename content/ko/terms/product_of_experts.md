@@ -1,23 +1,23 @@
 ---
-title: "전문가들의 곱(Product of Experts)"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: 전문가들의 곱(Product of Experts)
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /ko/terms/product_of_experts/
-date: "2026-07-18T16:10:59.879393Z"
-lastmod: "2026-07-18T16:38:06.899127Z"
+slug: product_of_experts
+date: '2026-07-18T16:10:59.879393Z'
+lastmod: '2026-07-18T16:38:06.899127Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "여러 독립적인 전문가 모델의 출력을 곱하여 결합 분포를 형성하는 확률적 모델링 프레임워크입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 여러 독립적인 전문가 모델의 출력을 곱하여 결합 분포를 형성하는 확률적 모델링 프레임워크입니다.
 ---
-
 ## Definition
 
 전문가들의 곱(Product of Experts, PoE)은 더 간단한 확률 분포들을 결합하여 복잡한 확률 분포를 구성하는 방법론입니다. '전문가들의 혼합(Mixture of Experts)'이 확률을 평균내는 것과 달리, PoE는 분포들의 출력을 곱합니다.

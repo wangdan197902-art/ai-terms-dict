@@ -1,23 +1,24 @@
 ---
-title: "Post"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Post
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /pl/terms/post/
-date: "2026-07-18T15:28:28.401027Z"
-lastmod: "2026-07-18T17:15:08.818136Z"
+slug: post
+date: '2026-07-18T15:28:28.401027Z'
+lastmod: '2026-07-18T17:15:08.818136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Opublikowana treść, zazwyczaj na blogu, platformie mediów społecznościowych lub forum, reprezentująca informacje lub komentarze generowane przez użytkowników."
+source: agnes_llm
+status: published
+language: pl
+description: Opublikowana treść, zazwyczaj na blogu, platformie mediów społecznościowych
+  lub forum, reprezentująca informacje lub komentarze generowane przez użytkowników.
 ---
-
 ## Definition
 
 W kontekście komunikacji cyfrowej i danych AI 'post' odnosi się do dyskretnej jednostki treści udostępnianej online. Służy jako główne źródło do trenowania modeli przetwarzania języka naturalnego...

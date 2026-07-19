@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /id/terms/embodied_agent/
 date: "2026-07-18T15:49:08.238587Z"
 lastmod: "2026-07-18T16:38:07.454113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Agen berwujud adalah sistem AI yang berinteraksi dengan lingkungannya melalui tubuh fisik atau aparatus sensorimotor."
 ---
-
 ## Definition
 
 Berbeda dengan AI tak berwujud yang memproses data abstrak, agen berwujud belajar dan bertindak dalam konteks fisik, bergantung pada input sensorik dan output motorik. Paradigma ini merupakan pusat dalam robotika dan otonomi

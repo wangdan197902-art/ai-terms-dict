@@ -1,23 +1,25 @@
 ---
-title: "Водяные знаки"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: Водяные знаки
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /ru/terms/watermarking/
-date: "2026-07-18T16:20:10.947229Z"
-lastmod: "2026-07-18T16:38:07.212896Z"
+slug: watermarking
+date: '2026-07-18T16:20:10.947229Z'
+lastmod: '2026-07-18T16:38:07.212896Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Водяные знаки в ИИ включают внедрение невидимых или видимых идентификаторов в сгенерированный контент для подтверждения его происхождения и отличия от материалов, созданных человеком."
+source: agnes_llm
+status: published
+language: ru
+description: Водяные знаки в ИИ включают внедрение невидимых или видимых идентификаторов
+  в сгенерированный контент для подтверждения его происхождения и отличия от материалов,
+  созданных человеком.
 ---
-
 ## Definition
 
 По мере того как генеративный ИИ создает все больше синтетических медиа, водяные знаки становятся важным инструментом прозрачности и подотчетности. Они заключаются в изменении цифрового контента, такого как изображения, текст...

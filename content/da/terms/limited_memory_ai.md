@@ -1,23 +1,25 @@
 ---
-title: "Begrænset hukommelse AI"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: Begrænset hukommelse AI
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /da/terms/limited_memory_ai/
-date: "2026-07-18T16:04:42.129427Z"
-lastmod: "2026-07-18T17:15:09.305389Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:04:42.129427Z'
+lastmod: '2026-07-18T17:15:09.305389Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "AI-systemer, der er i stand til at gemme tidligere data og oplevelser for at informere fremtidige beslutninger, hvilket danner grundlaget for de fleste moderne maskinlæringsapplikationer."
+source: agnes_llm
+status: published
+language: da
+description: AI-systemer, der er i stand til at gemme tidligere data og oplevelser
+  for at informere fremtidige beslutninger, hvilket danner grundlaget for de fleste
+  moderne maskinlæringsapplikationer.
 ---
-
 ## Definition
 
 Begrænset hukommelse AI repræsenterer det andet niveau af AI-evner, hvor systemer kan lære af historiske data og justere deres adfæder derefter. I modsætning til reaktive maskiner bevarer disse systemer information

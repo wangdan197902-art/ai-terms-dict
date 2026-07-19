@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /de/terms/inference/
 date: "2026-07-18T07:41:20.132466Z"
 lastmod: "2026-07-18T11:44:44.584847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Phase, in der ein trainiertes Modell neue Daten verarbeitet, um Vorhersagen oder Ausgaben zu generieren."
 ---
-
 ## Definition
 
 Inferenz bezeichnet die Bereitstellungsphase, in der ein abgeschlossenes Modell verwendet wird, um Entscheidungen oder Vorhersagen für ungesehene Daten zu treffen. Im Gegensatz zum Training, das Gewichte aktualisiert, verbraucht die Inferenz Rechenressourcen...

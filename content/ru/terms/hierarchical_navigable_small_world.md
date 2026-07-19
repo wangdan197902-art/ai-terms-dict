@@ -1,23 +1,24 @@
 ---
-title: "Иерархический навигируемый малый мир"
-term_id: "hierarchical_navigable_small_world"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "data_structures"]
+title: Иерархический навигируемый малый мир
+term_id: hierarchical_navigable_small_world
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Data Structures
 difficulty: 4
 weight: 1
-slug: "hierarchical_navigable_small_world"
-aliases:
-  - /ru/terms/hierarchical_navigable_small_world/
-date: "2026-07-18T15:57:16.920338Z"
-lastmod: "2026-07-18T16:38:07.165542Z"
+slug: hierarchical_navigable_small_world
+date: '2026-07-18T15:57:16.920338Z'
+lastmod: '2026-07-18T16:38:07.165542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Структура данных на основе графов, обеспечивающая эффективный поиск приближенных ближайших соседей в пространствах высокой размерности."
+source: agnes_llm
+status: published
+language: ru
+description: Структура данных на основе графов, обеспечивающая эффективный поиск приближенных
+  ближайших соседей в пространствах высокой размерности.
 ---
-
 ## Definition
 
 Алгоритм Иерархический навигируемый малый мир (HNSW) строит многослойный граф, где каждый уровень содержит подмножество узлов предыдущего уровня. Навигация начинается с верхнего уровня, позволяя быстро перемещаться к области интереса, а затем переходит на нижние уровни для уточнения поиска. Это обеспечивает высокую скорость и точность поиска ближайших соседей в векторных базах данных.

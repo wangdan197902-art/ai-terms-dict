@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /zh/terms/self_consistency/
 date: "2026-07-18T11:32:54.019434Z"
 lastmod: "2026-07-18T11:44:45.552424Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "自洽性是一种解码策略，其中采样多个推理路径，并选择出现频率最高的答案作为最终输出。"
 ---
-
 ## Definition
 
 该技术主要用于大型语言模型（LLM），通过采样生成针对同一提示的多个多样化响应来提高准确性。与依赖贪婪解码不同，它聚合

@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /vi/terms/base_rate/
 date: "2026-07-18T15:42:09.056467Z"
 lastmod: "2026-07-18T16:38:07.732059Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tỷ lệ cơ bản là xác suất tiên nghiệm của một sự kiện xảy ra trong một quần thể, độc lập với bất kỳ bằng chứng hoặc kết quả kiểm tra cụ thể nào."
 ---
-
 ## Definition
 
 Trong thống kê và học máy, tỷ lệ cơ bản đề cập đến tần suất nền tảng của một điều kiện hoặc kết quả trong một tập dữ liệu nhất định. Việc bỏ qua tỷ lệ cơ bản thường dẫn đến sai lầm về tỷ lệ cơ bản, nơi p

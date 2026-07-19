@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /pl/terms/graphics_processing_unit/
 date: "2026-07-18T15:57:59.349265Z"
 lastmod: "2026-07-18T17:15:08.879639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Specjalizowany obwód elektroniczny pierwotnie zaprojektowany do szybkiej manipulacji i renderowania obrazów, obecnie szeroko wykorzystywany w obliczeniach równoległych w sztucznej inteligencji."
 ---
-
 ## Definition
 
 GPU (jednostka przetwarzania graficznego) to procesor wysokiej wydajności, pierwotnie opracowany do obsługi zadań związanych z renderowaniem grafiki. W przeciwieństwie do CPU, które mają niewiele rdzeni zoptymalizowanych pod kątem sekwencyjnego przetwarzania szeregowego, GPU zawierają tysiące rdzeni...

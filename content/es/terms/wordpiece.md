@@ -1,23 +1,24 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /es/terms/wordpiece/
-date: "2026-07-18T11:13:45.019638Z"
-lastmod: "2026-07-18T11:44:44.866605Z"
+slug: wordpiece
+date: '2026-07-18T11:13:45.019638Z'
+lastmod: '2026-07-18T11:44:44.866605Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un algoritmo de tokenización de subpalabras que fusiona recursivamente los pares de caracteres más frecuentes para manejar palabras fuera del vocabulario."
+source: agnes_llm
+status: published
+language: es
+description: Un algoritmo de tokenización de subpalabras que fusiona recursivamente
+  los pares de caracteres más frecuentes para manejar palabras fuera del vocabulario.
 ---
-
 ## Definition
 
 WordPiece es un método de tokenización ampliamente utilizado en modelos de procesamiento del lenguaje natural como BERT y ALBERT. Divide las palabras en unidades de subpalabras más pequeñas para gestionar la riqueza morfológica y reducir el tamaño del vocabulario, mejorando así el manejo de palabras desconocidas.

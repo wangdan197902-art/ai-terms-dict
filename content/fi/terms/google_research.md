@@ -1,23 +1,24 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /fi/terms/google_research/
-date: "2026-07-18T15:59:49.087883Z"
-lastmod: "2026-07-18T17:15:09.416004Z"
+slug: google_research
+date: '2026-07-18T15:59:49.087883Z'
+lastmod: '2026-07-18T17:15:09.416004Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Googlen tutkimusosasto, jonka tavoitteena on edistää tekoälyä, konemallinnusta ja tietojenkäsittelytiedettä perustutkimuksen ja soveltavan tutkimuksen avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Googlen tutkimusosasto, jonka tavoitteena on edistää tekoälyä, konemallinnusta
+  ja tietojenkäsittelytiedettä perustutkimuksen ja soveltavan tutkimuksen avulla.
 ---
-
 ## Definition
 
 Google Research on Google LLC:n akateeminen ja teollinen tutkimusyksikkö, joka keskittyy teknologian rajojen työntämiseen alueilla kuten tekoäly, luonnoll kielenkäsittely ja kvanttilaskenta.

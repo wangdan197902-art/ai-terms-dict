@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /da/terms/information_space_analysis/
 date: "2026-07-18T16:01:46.184581Z"
 lastmod: "2026-07-18T17:15:09.299685Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Undersøgelsen af de geometriske og topologiske egenskaber ved det rum, hvor datrepræsentationer findes."
 ---
-
 ## Definition
 
 Dette koncept indebærer analyse af strukturen i repræsentationsrummet i maskinlæringsmodeller. Det ser på, hvordan datapunkter er fordelt, klumpet eller adskilt i et højdimensionelt rum.

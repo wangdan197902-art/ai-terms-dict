@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /vi/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:47:35.714667Z"
 lastmod: "2026-07-18T16:38:07.743991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tập dữ liệu quy mô lớn gồm các cặp câu hỏi-câu trả lời được trích xuất từ Wikipedia, thiết kế cho việc huấn luyện truy xuất đoạn văn mật độ cao."
 ---
-
 ## Definition
 
 Tập dữ liệu PAQ (Pseudo-Answer Quality - Chất lượng Câu trả lời Giả) chứa hàng triệu cặp câu hỏi-câu trả lời được tạo tự động từ Wikipedia. Nó được thiết kế đặc biệt để huấn luyện các bộ truy xuất mật độ cao bằng cách cung cấp...

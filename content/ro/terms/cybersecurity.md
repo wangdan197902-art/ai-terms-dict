@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /ro/terms/cybersecurity/
 date: "2026-07-18T15:51:18.045761Z"
 lastmod: "2026-07-18T17:15:09.641314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Practica protejării sistemelor, rețelelor și programelor împotriva atacurilor digitale, accesului neautorizat și daunelor prin diverse tehnologii defensive."
 ---
-
 ## Definition
 
 Securitatea cibernetică cuprinde tehnologiile, procesele și practicile concepute pentru a proteja rețelele, computerele, programele și datele împotriva atacurilor, daunelor sau accesului neautorizat. În contextul inteligenței artificiale, aceasta implică și protecția modelelor de IA împotriva manipulărilor adversare.

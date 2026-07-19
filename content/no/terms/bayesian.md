@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /no/terms/bayesian/
 date: "2026-07-18T15:23:27.022705Z"
 lastmod: "2026-07-18T16:38:06.932680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Relaterer til statistiske metoder basert på Bayes' teorem for å oppdatere sannsynligheter med ny bevissthet."
 ---
-
 ## Definition
 
 Bayesiske tilnærminger innen AI bruker sannsynlighetsteori til å oppdatere sannsynligheten for hypoteser når mer bevissthet blir tilgjengelig. Denne metoden lar modeller kvantifisere usikkerhet og forbedre prediksjoner dynamisk...

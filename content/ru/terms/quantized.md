@@ -1,23 +1,24 @@
 ---
-title: "Квантованный"
-term_id: "quantized"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "model_deployment", "efficiency"]
+title: Квантованный
+term_id: quantized
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Model Deployment
+- efficiency
 difficulty: 4
 weight: 1
-slug: "quantized"
-aliases:
-  - /ru/terms/quantized/
-date: "2026-07-18T16:11:56.492342Z"
-lastmod: "2026-07-18T16:38:07.195718Z"
+slug: quantized
+date: '2026-07-18T16:11:56.492342Z'
+lastmod: '2026-07-18T16:38:07.195718Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Квантованный относится к моделям нейронных сетей, где веса и активации представлены числами меньшей точности для уменьшения размера и задержки вычислений."
+source: agnes_llm
+status: published
+language: ru
+description: Квантованный относится к моделям нейронных сетей, где веса и активации
+  представлены числами меньшей точности для уменьшения размера и задержки вычислений.
 ---
-
 ## Definition
 
 Квантование — это техника оптимизации модели, которая снижает численную точность параметров модели машинного обучения, обычно преобразуя числа с плавающей запятой 32-битной разрядности в целые числа 8-битной разрядности. Это позволяет ускорить инференс и снизить потребление памяти.

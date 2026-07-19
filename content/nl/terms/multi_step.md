@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /nl/terms/multi_step/
 date: "2026-07-18T15:32:54.132585Z"
 lastmod: "2026-07-18T17:15:08.699656Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een probleemoplossende strategie die vereist dat een reeks logische bewerkingen of berekeningen wordt uitgevoerd om tot een eindoplossing te komen."
 ---
-
 ## Definition
 
 Multi-step-methoden houden in dat een complexe vraag of taak wordt opgesplitst in kleinere, uitvoerbare stappen. Deze aanpak is cruciaal bij redeneertaken, zoals wiskundige probleemoplossing of codegeneratie.

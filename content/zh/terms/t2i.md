@@ -1,23 +1,22 @@
 ---
-title: "文生图 (T2I)"
-term_id: "t2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "computer_vision"]
+title: 文生图 (T2I)
+term_id: t2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "t2i"
-aliases:
-  - /zh/terms/t2i/
-date: "2026-07-18T11:35:43.087234Z"
-lastmod: "2026-07-18T11:44:45.561093Z"
+slug: t2i
+date: '2026-07-18T11:35:43.087234Z'
+lastmod: '2026-07-18T11:44:45.561093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "T2I是Text-to-Image（文生图）的缩写，这是一种从文本描述生成视觉图像的生成式AI技术。"
+source: agnes_llm
+status: published
+language: zh
+description: T2I是Text-to-Image（文生图）的缩写，这是一种从文本描述生成视觉图像的生成式AI技术。
 ---
-
 ## Definition
 
 文生图（T2I）生成涉及使用深度学习模型（如扩散模型或GANs），根据自然语言提示合成图像。这些模型学习文本与图像之间的相关性。

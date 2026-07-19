@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /sv/terms/large_scale/
 date: "2026-07-18T15:35:07.723213Z"
 lastmod: "2026-07-18T17:15:08.957300Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Beskriver AI-system eller dataset som arbetar med enorma volymer av data, parametrar eller beräkningsresurser."
 ---
-
 ## Definition
 
 Storskalig syftar på omfattningen av komponenter inom ett AI-system, ofta involverande miljarder av parametrar, terabyte av träningsdata eller distribuerade beräkningskluster. Denna ansats är grundläggande för utvecklingen av moderna stora språkmodeller och multimodala system som kräver massiv beräkningskraft för att uppnå hög prestanda.

@@ -1,23 +1,24 @@
 ---
-title: "Self-supervised Learning"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Self-supervised Learning
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /en/terms/self_supervised_learning/
-date: "2026-07-18T09:42:48.752470Z"
-lastmod: "2026-07-18T11:44:44.632926Z"
+slug: self_supervised_learning
+date: '2026-07-18T09:42:48.752470Z'
+lastmod: '2026-07-18T11:44:44.632926Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A training method where the model generates its own labels from input data to learn representations."
+source: agnes_llm
+status: published
+language: en
+description: A training method where the model generates its own labels from input
+  data to learn representations.
 ---
-
 ## Definition
 
 Self-supervised learning is a technique where the algorithm creates supervisory signals from the unlabeled data itself, typically by predicting missing parts of the input. It bridges the gap between unsupervised and supervised learning, allowing models to learn rich feature representations without manual annotation. This approach is foundational for modern large language models and vision transformers, enabling them to understand structure and semantics in vast amounts of raw data.

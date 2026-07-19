@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /pl/terms/analysis/
 date: "2026-07-18T15:23:18.686516Z"
 lastmod: "2026-07-18T17:15:08.807067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces badania danych lub wyników modelu w celu wydobycia wartościowych wniosków i wzorców."
 ---
-
 ## Definition
 
 W kontekście SI analiza odnosi się do systematycznego badania danych, przewidywań modelu lub zachowań systemu w celu zrozumienia leżących u ich podstaw wzorców, diagnozowania problemów lub wyprowadzania praktycznych wniosków. Taka analiza umożliwia

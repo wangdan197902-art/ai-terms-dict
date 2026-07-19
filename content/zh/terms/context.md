@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /zh/terms/context/
 date: "2026-07-18T10:49:42.551599Z"
 lastmod: "2026-07-18T11:44:45.364136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "上下文是指帮助AI模型准确解释输入数据并生成相关响应的周围信息或环境。"
 ---
-
 ## Definition
 
 在自然语言处理中，上下文对于消除歧义至关重要，例如根据前文理解代词或习语。现代架构（如Transformer）利用注意力机制来捕捉长距离依赖关系，从而更好地处理上下文信息。

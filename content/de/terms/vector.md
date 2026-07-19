@@ -1,23 +1,25 @@
 ---
-title: "Vektor"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Vektor
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /de/terms/vector/
-date: "2026-07-18T11:00:31.560919Z"
-lastmod: "2026-07-18T11:44:44.901677Z"
+slug: vector
+date: '2026-07-18T11:00:31.560919Z'
+lastmod: '2026-07-18T11:44:44.901677Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein mathematisches Objekt, das eine Größe mit sowohl Betrag als auch Richtung darstellt und häufig in der KI verwendet wird, um Datenpunkte im hochdimensionalen Raum zu kodieren."
+source: agnes_llm
+status: published
+language: de
+description: Ein mathematisches Objekt, das eine Größe mit sowohl Betrag als auch
+  Richtung darstellt und häufig in der KI verwendet wird, um Datenpunkte im hochdimensionalen
+  Raum zu kodieren.
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz ist ein Vektor eine grundlegende Datenstruktur, die zur numerischen Darstellung von Informationen dient. Er besteht aus einer geordneten Liste von Zahlen (Elementen), die Merkmale eines Objekts abbilden.

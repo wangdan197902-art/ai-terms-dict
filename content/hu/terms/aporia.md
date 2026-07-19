@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /hu/terms/aporia/
 date: "2026-07-18T15:44:13.527352Z"
 lastmod: "2026-07-18T17:15:09.753711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: ""
 ---
-
 ## Definition
 
 A filozófiában és az AI-elméletben az aporia olyan paradox helyzetet ír le, amikor két egyaránt érvényes érvelés ellentmondó eredményre vezet. A gépi tanulásban ez akkor jelentkezhet, amikor egy modell teljesítménye...

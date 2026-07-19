@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /da/terms/golog/
 date: "2026-07-18T15:56:40.320534Z"
 lastmod: "2026-07-18T17:15:09.290598Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et højtprogrammeringssprog baseret på situation-kalkulus til specificering af handlinger og ræsonnement om dynamiske domæner."
 ---
-
 ## Definition
 
 GOLOG er et logikbaseret programmeringssprog, der primært bruges i kunstig intelligens til planlægning og udførelse af handlinger i dynamiske miljøer. Bygget ovenpå Reiters situation-kalkulus, gør det det muligt for udviklere at specificere komplekse sekvenser af handlinger og ræsonnere om deres konsekvenser i tidsmæssigt ændrende tilstande.

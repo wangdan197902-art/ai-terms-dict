@@ -1,23 +1,23 @@
 ---
-title: "Không ví dụ (Zero-shot)"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: Không ví dụ (Zero-shot)
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /vi/terms/zero_shot/
-date: "2026-07-18T15:33:35.780226Z"
-lastmod: "2026-07-18T16:38:07.705987Z"
+slug: zero_shot
+date: '2026-07-18T15:33:35.780226Z'
+lastmod: '2026-07-18T16:38:07.705987Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Khả năng thực hiện các nhiệm vụ trên các lớp chưa từng thấy mà không có ví dụ huấn luyện trước đó."
+source: agnes_llm
+status: published
+language: vi
+description: Khả năng thực hiện các nhiệm vụ trên các lớp chưa từng thấy mà không
+  có ví dụ huấn luyện trước đó.
 ---
-
 ## Definition
 
 Học zero-shot cho phép mô hình tổng quát hóa sang các danh mục hoặc nhiệm vụ mới mà không có dữ liệu huấn luyện được gán nhãn nào được cung cấp trong giai đoạn huấn luyện ban đầu. Điều này thường đạt được bằng cách tận dụng...

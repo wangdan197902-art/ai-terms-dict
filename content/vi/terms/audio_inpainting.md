@@ -1,23 +1,24 @@
 ---
-title: "Nhuộm màu âm thanh"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Nhuộm màu âm thanh
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /vi/terms/audio_inpainting/
-date: "2026-07-18T15:41:21.521425Z"
-lastmod: "2026-07-18T16:38:07.730315Z"
+slug: audio_inpainting
+date: '2026-07-18T15:41:21.521425Z'
+lastmod: '2026-07-18T16:38:07.730315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quá trình tái tạo các đoạn bị thiếu hoặc bị hỏng của tín hiệu âm thanh dựa trên ngữ cảnh xung quanh."
+source: agnes_llm
+status: published
+language: vi
+description: Quá trình tái tạo các đoạn bị thiếu hoặc bị hỏng của tín hiệu âm thanh
+  dựa trên ngữ cảnh xung quanh.
 ---
-
 ## Definition
 
 Nhuộm màu âm thanh là một kỹ thuật được sử dụng để lấp đầy các khoảng trống trong bản ghi âm do mất tín hiệu, nhiễu hoặc che chắn có chủ đích. Sử dụng các mô hình tạo sinh, hệ thống dự đoán nội dung khả dĩ nhất cho phần mi

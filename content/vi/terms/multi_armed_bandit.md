@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /vi/terms/multi_armed_bandit/
 date: "2026-07-18T16:04:19.107424Z"
 lastmod: "2026-07-18T16:38:07.785070Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Bài toán máy kéo đa tay là một vấn đề kinh điển trong lý thuyết xác suất và học tăng cường, mô hình hóa sự đánh đổi giữa khám phá và khai thác."
 ---
-
 ## Definition
 
 Vấn đề máy kéo đa tay minh họa tình thế tiến thoái lưỡng nan mà một tác nhân phải đối mặt khi quyết định liệu có nên tiếp tục với tùy chọn đã biết mang lại phần thưởng hay thử các tùy chọn mới để tìm kiếm phần thưởng tiềm năng tốt hơn

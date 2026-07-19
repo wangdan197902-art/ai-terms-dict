@@ -1,23 +1,23 @@
 ---
-title: "オペラシオン・セレナータ・デ・アモール"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: オペラシオン・セレナータ・デ・アモール
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /ja/terms/operation_serenata_de_amor/
-date: "2026-07-18T11:26:28.472526Z"
-lastmod: "2026-07-18T11:44:45.128597Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T11:26:28.472526Z'
+lastmod: '2026-07-18T11:44:45.128597Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ブラジルの公的支出における不正検出に機械学習を活用する市民向けテクノロジーのイニシアチブ。"
+source: agnes_llm
+status: published
+language: ja
+description: ブラジルの公的支出における不正検出に機械学習を活用する市民向けテクノロジーのイニシアチブ。
 ---
-
 ## Definition
 
 オペラシオン・セレナータ・デ・アモールは、ブラジルの公共調達データを分析するために人工知能を適用する先駆的なオープンソースプロジェクトです。自然言語処理と異常検出技術を利用することで、政府の資金使途における不審なパターンや不正行為を特定し、透明性の向上とガバナンスの強化に貢献しています。

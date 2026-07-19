@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /cs/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:15:08.506604Z"
 lastmod: "2026-07-18T17:15:09.196093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Spolupracující učební paradigma, kde lidé a stroje neustále učí a učí se navzájem, aby zlepšili výkon."
 ---
-
 ## Definition
 
 Tento přístup překračuje jednoduché označování dat lidmi v smyčce (human-in-the-loop). Zahrnuje obousměrný přenos znalostí: lidé opravují chyby modelu, zatímco model pomáhá lidem identifikovat vzory nebo automatizovat...

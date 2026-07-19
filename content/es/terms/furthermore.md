@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /es/terms/furthermore/
 date: "2026-07-18T10:23:22.242805Z"
 lastmod: "2026-07-18T11:44:44.741437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un adverbio de transición utilizado para introducir información adicional o reforzar un argumento previo en la escritura técnica."
 ---
-
 ## Definition
 
 Aunque no es un algoritmo técnico, 'además' es una herramienta lingüística crítica en la documentación e investigación de IA. Sirve para conectar ideas, indicando que la siguiente declaración añade peso o

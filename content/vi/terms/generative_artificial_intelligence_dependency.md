@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /vi/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:54:54.278429Z"
 lastmod: "2026-07-18T16:38:07.760854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự phụ thuộc của các tổ chức vào các hệ thống AI tạo sinh cho các hoạt động quan trọng, tạo ra các rủi ro liên quan đến khả năng sẵn có, độ chính xác và bảo mật."
 ---
-
 ## Definition
 
 Khái niệm này đề cập đến sự phụ thuộc chiến lược và vận hành mà doanh nghiệp đặt vào các mô hình AI tạo sinh để thực hiện các nhiệm vụ thiết yếu như tạo nội dung, dịch vụ khách hàng và phân tích dữ liệu. Khi việc áp dụng ngày càng tăng, tổ chức phải đối mặt với các rủi ro nếu hệ thống gặp sự cố, cung cấp thông tin sai lệch hoặc bị khai thác.

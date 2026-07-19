@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /ru/terms/intelligent_decision_support_system/
 date: "2026-07-18T15:59:28.104998Z"
 lastmod: "2026-07-18T16:38:07.170315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Система на базе ИИ, помогающая людям принимать сложные решения путем анализа данных и предоставления практических рекомендаций."
 ---
-
 ## Definition
 
 Интеллектуальная система поддержки принятия решений (IDSS) интегрирует методы искусственного интеллекта, такие как машинное обучение и обработка естественного языка, с традиционными框架ами поддержки принятия решений. Она

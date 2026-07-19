@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /sv/terms/rust/
-date: "2026-07-18T16:19:41.479552Z"
-lastmod: "2026-07-18T17:15:09.044940Z"
+slug: rust
+date: '2026-07-18T16:19:41.479552Z'
+lastmod: '2026-07-18T17:15:09.044940Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Rust är ett systemspråk fokuserat på säkerhet, hastighet och parallellkörning utan minnesdiskriminering (garbage collection)."
+source: agnes_llm
+status: published
+language: sv
+description: Rust är ett systemspråk fokuserat på säkerhet, hastighet och parallellkörning
+  utan minnesdiskriminering (garbage collection).
 ---
-
 ## Definition
 
 Rust är ett programmeringsspråk med flera paradigmer och allmänt ändamål, utformat för prestanda och säkerhet, särskilt säker parallellkörning. Det uppnår minnessäkerhet utan att använda minnesdiskriminering, vilket garanterar...

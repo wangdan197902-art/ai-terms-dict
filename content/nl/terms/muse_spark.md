@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /nl/terms/muse_spark/
 date: "2026-07-18T16:09:58.771797Z"
 lastmod: "2026-07-18T17:15:08.771225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gedistribueerd deep learning-framework gebouwd op Apache Spark dat schaalbare modeltraining over grote clusters mogelijk maakt."
 ---
-
 ## Definition
 
 Muse Spark is een open-source deep learning-framework dat is ontworpen om efficiënt te draaien bovenop Apache Spark. Het stelt ontwikkelaars in staat complexe neurale netwerken te trainen over gedistribueerde clusters door gebruik te maken van

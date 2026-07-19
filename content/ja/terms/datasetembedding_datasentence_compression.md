@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /ja/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T11:10:22.565584Z"
 lastmod: "2026-07-18T11:44:45.085122Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "元の文とその圧縮版を含むデータセットで、情報の保持に関するモデルを訓練するために使用されます。"
 ---
-
 ## Definition
 
 文圧縮データセットは、ターゲット文がソース文の短縮版であり、冗長な情報を削除しながら核心的な意味を保持するペアで構成されています。これらのデータセットは、情報密度の最適化や要約タスクに利用されます。

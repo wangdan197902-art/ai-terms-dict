@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /de/terms/perception_error_model/
 date: "2026-07-18T11:26:50.347432Z"
 lastmod: "2026-07-18T11:44:44.974652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein statistischer oder algorithmischer Rahmen zur Quantifizierung und Korrektur von Ungenauigkeiten bei der Interpretation sensorischer Daten."
 ---
-
 ## Definition
 
 Ein Modell für Wahrnehmungsfehler beschreibt die Diskrepanzen zwischen beobachteten Sensordaten und dem tatsächlichen Zustand (Ground Truth), wobei Rauschen, Okklusionen oder Sensorbeschränkungen berücksichtigt werden. Durch die Modellierung dieser Fehler können KI-Systeme im

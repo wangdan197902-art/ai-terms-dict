@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /hu/terms/llm/
 date: "2026-07-18T15:27:31.373001Z"
 lastmod: "2026-07-18T17:15:09.723244Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mélytanuló modell, amelyet hatalmas szöveges korpuszokon tanítanak meg az emberi nyelv megértésére és generálására."
 ---
-
 ## Definition
 
 A Nagy Nyelvi Modellek (LLM-k) a transzformátor architektúrákon alapuló, fejlett mesterséges intelligencia rendszerek, amelyek hatalmas szöveg- és kódkészleteken vannak betanítva. Statisztikai mintázatokat tanulnak meg a nyelvből.

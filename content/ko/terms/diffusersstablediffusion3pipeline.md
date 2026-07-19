@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /ko/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:53:20.806745Z"
-lastmod: "2026-07-18T16:38:06.832980Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:53:20.806745Z'
+lastmod: '2026-07-18T16:38:06.832980Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "MMDiT와 Flow Matching을 채택하여 이미지 품질과 텍스트 렌더링 성능을 향상시킨 Stable Diffusion 3 아키텍처를 구현하는 파이프라인입니다."
+source: agnes_llm
+status: published
+language: ko
+description: MMDiT와 Flow Matching을 채택하여 이미지 품질과 텍스트 렌더링 성능을 향상시킨 Stable Diffusion
+  3 아키텍처를 구현하는 파이프라인입니다.
 ---
-
 ## Definition
 
 이 파이프라인은 멀티모달 디퓨전 트랜스포머(MMDiT) 아키텍처와 Flow Matching 학습 목적 함수를 도입한 Stable Diffusion 3 모델을 활용합니다. 이러한 발전은 이미지 품질과 텍스트 렌더링 능력을 크게 향상시킵니다.

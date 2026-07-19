@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /vi/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:40:51.162841Z"
 lastmod: "2026-07-18T16:38:07.728820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc ứng dụng các công nghệ AI để nâng cao phương pháp giảng dạy, cá nhân hóa trải nghiệm học tập và tự động hóa các nhiệm vụ hành chính."
 ---
-
 ## Definition
 
 AI trong giáo dục liên quan đến việc sử dụng học máy, xử lý ngôn ngữ tự nhiên và các hệ thống thích ứng để cải thiện kết quả giáo dục. Nó cho phép các lộ trình học tập được cá nhân hóa phù hợp với nhu cầu và tốc độ của từng học sinh, đồng thời hỗ trợ giáo viên trong việc đánh giá và quản lý lớp học hiệu quả hơn.

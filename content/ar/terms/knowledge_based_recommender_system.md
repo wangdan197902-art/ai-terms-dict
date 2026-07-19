@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /ar/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:04:36.987733Z"
 lastmod: "2026-07-18T17:15:08.519920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "محرك توصيات يولد اقتراحات من خلال الاستدلال على معرفة صريحة في المجال وقيود المستخدم بدلاً من البيانات التاريخية."
 ---
-
 ## Definition
 
 على عكس الترشيح التعاوني الذي يعتمد على سلوك المستخدم السابق، يستخدم نظام التوصية القائم على المعرفة (KBRS) معرفة صريحة حول العناصر وتفضيلات المستخدم لاستنتاج التوصيات. إنه فعال بشكل خاص في الأسواق ذات

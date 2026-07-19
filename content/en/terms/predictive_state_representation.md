@@ -1,23 +1,24 @@
 ---
-title: "Predictive state representation"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Predictive state representation
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /en/terms/predictive_state_representation/
-date: "2026-07-18T10:11:14.173177Z"
-lastmod: "2026-07-18T11:44:44.710319Z"
+slug: predictive_state_representation
+date: '2026-07-18T10:11:14.173177Z'
+lastmod: '2026-07-18T11:44:44.710319Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A latent state formulation in reinforcement learning that predicts future observations based on action history."
+source: agnes_llm
+status: published
+language: en
+description: A latent state formulation in reinforcement learning that predicts future
+  observations based on action history.
 ---
-
 ## Definition
 
 Predictive State Representations (PSRs) extend traditional partially observable Markov decision processes by defining states as vectors of predictions about future observable events. Instead of relying on hidden true states, PSRs use the history of actions and observations to predict what will happen next. This allows agents to operate effectively in environments with partial observability, providing a more flexible and often more compact representation of the environment dynamics for planning and control.

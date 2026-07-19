@@ -1,23 +1,24 @@
 ---
-title: "Metoda násobné aktualizace vah"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Metoda násobné aktualizace vah
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /cs/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:10:15.216525Z"
-lastmod: "2026-07-18T17:15:09.156326Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:10:15.216525Z'
+lastmod: '2026-07-18T17:15:09.156326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Iterativní algoritmus, který aktualizuje váhy násobně na základě zpětné vazby o výkonu za účelem minimalizace regretu."
+source: agnes_llm
+status: published
+language: cs
+description: Iterativní algoritmus, který aktualizuje váhy násobně na základě zpětné
+  vazby o výkonu za účelem minimalizace regretu.
 ---
-
 ## Definition
 
 Metoda násobné aktualizace vah je základní algoritmus online učení používaný k rozhodování v nejistých prostředích. Udržuje sadu vah pro různé strategie nebo experty, které se dynamicky přizpůsobují.

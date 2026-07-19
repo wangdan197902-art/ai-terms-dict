@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /nl/terms/code_generation/
 date: "2026-07-18T15:22:39.733723Z"
 lastmod: "2026-07-18T17:15:08.678510Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces waarbij kunstmatige intelligentie wordt gebruikt om automatisch broncode te maken op basis van natuurlijke taalbeschrijvingen of bestaande codesnippets."
 ---
-
 ## Definition
 
 Codegeneratie maakt gebruik van grote taalmodellen die zijn getraind op enorme repositories van programmeertalen om functionele softwareartefacten te produceren. Het model interpreteert menselijk leesbare prompts, zoals commentaar of beschrijvingen, en converteert deze naar uitvoerbare code.

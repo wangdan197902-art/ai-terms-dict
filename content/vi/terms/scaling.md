@@ -1,23 +1,23 @@
 ---
-title: "Mở rộng quy mô"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Mở rộng quy mô
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /vi/terms/scaling/
-date: "2026-07-18T15:28:55.264507Z"
-lastmod: "2026-07-18T16:38:07.694768Z"
+slug: scaling
+date: '2026-07-18T15:28:55.264507Z'
+lastmod: '2026-07-18T16:38:07.694768Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Mở rộng quy mô là quá trình điều chỉnh kích thước mô hình hoặc khối lượng dữ liệu để nâng cao khả năng học và hiệu suất."
+source: agnes_llm
+status: published
+language: vi
+description: Mở rộng quy mô là quá trình điều chỉnh kích thước mô hình hoặc khối lượng
+  dữ liệu để nâng cao khả năng học và hiệu suất.
 ---
-
 ## Definition
 
 Mở rộng quy mô là phương pháp luận chủ động để mở rộng các hệ thống AI bằng cách thêm nhiều lớp, nơ-ron hoặc ví dụ huấn luyện hơn. Nó bao gồm các kỹ thuật như huấn luyện phân tán trên nhiều GPU để xử lý sự gia tăng

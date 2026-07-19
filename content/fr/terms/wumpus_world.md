@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /fr/terms/wumpus_world/
 date: "2026-07-18T11:43:20.009771Z"
 lastmod: "2026-07-18T11:44:45.359337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un environnement d'intelligence artificielle classique utilisé pour démontrer le raisonnement dans un contexte d'incertitude et d'observabilité partielle."
 ---
-
 ## Definition
 
 Le Monde du Wumpus est un environnement basé sur une grille, introduit dans le manuel d'IA de Russell et Norvig. Un agent doit naviguer dans la grille pour trouver de l'or tout en évitant les gouffres et un monstre Wumpus. L'agent perçoit

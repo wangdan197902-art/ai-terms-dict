@@ -1,23 +1,23 @@
 ---
-title: "ファジィエージェント"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: ファジィエージェント
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /ja/terms/fuzzy_agent/
-date: "2026-07-18T11:15:24.740340Z"
-lastmod: "2026-07-18T11:44:45.099251Z"
+slug: fuzzy_agent
+date: '2026-07-18T11:15:24.740340Z'
+lastmod: '2026-07-18T11:44:45.099251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "意思決定プロセスにおいて不確実性や曖昧な情報を扱うためにファジィ論理を利用する自律型エンティティ。"
+source: agnes_llm
+status: published
+language: ja
+description: 意思決定プロセスにおいて不確実性や曖昧な情報を扱うためにファジィ論理を利用する自律型エンティティ。
 ---
-
 ## Definition
 
 ファジィエージェントは、データが曖昧または不完全である環境で動作し、二値の真偽ではなくファジィ論理システムを採用します。メンバーシップ関数と言語変数を使用することで、人間の直感的な判断に近い柔軟な意思決定を実現します。

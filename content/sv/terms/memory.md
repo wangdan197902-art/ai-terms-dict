@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /sv/terms/memory/
 date: "2026-07-18T15:39:03.742597Z"
 lastmod: "2026-07-18T17:15:08.964143Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "AI-systemets förmåga att lagra, hämta och använda information över interaktioner för att upprätthålla kontext och förbättra prestandan över tid."
 ---
-
 ## Definition
 
 Inom artificiell intelligens syftar minne på mekanismer som gör det möjligt för modeller att behålla information bortom ett enskilt inferenssteg. Detta inkluderar korttidsminne (arbetsminne) för omedelbar kontext inom en enskild interaktion samt långtidsminne för att bevara kunskap över flera sessioner.

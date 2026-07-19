@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /en/terms/algorithmic_inference/
 date: "2026-07-18T09:45:22.752922Z"
 lastmod: "2026-07-18T11:44:44.640590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Algorithmic inference is the process by which a trained machine learning model applies learned patterns to new, unseen data to make predictions or decisions."
 ---
-
 ## Definition
 
 Also known as prediction or scoring, inference occurs after the model training phase. The algorithm takes input features, processes them through its internal structure (such as weights in a neural network), and outputs a result. Efficient inference is crucial for real-time applications like autonomous driving or fraud detection. Optimizations like quantization and pruning are often applied to reduce latency and computational cost during this stage without significantly sacrificing accuracy.

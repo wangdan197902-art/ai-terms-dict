@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /pl/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:44:35.502202Z"
 lastmod: "2026-07-18T17:15:08.851252Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Podstawowy problem w uczeniu nadzorowanym, w którym minimalizacja błędu wymaga zbalansowania złożoności modelu z jego zdolnością do uogólniania."
 ---
-
 ## Definition
 
 Kompromis między obciążeniem a wariancją opisuje napięcie między niedopasowaniem (wysokie obciążenie) a przystosowaniem (wysoka wariancja). Modele o wysokim obciążeniu stawiają silne założenia dotyczące danych, potencjalnie ignorując istotne wzorce, podczas gdy modele o wysokiej wariancji mogą zbyt dokładnie dopasować się do szumu w danych treningowych.

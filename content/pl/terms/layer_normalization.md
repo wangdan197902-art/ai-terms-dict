@@ -1,23 +1,24 @@
 ---
-title: "Normalizacja warstwowa"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Normalizacja warstwowa
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /pl/terms/layer_normalization/
-date: "2026-07-18T16:03:21.970411Z"
-lastmod: "2026-07-18T17:15:08.890610Z"
+slug: layer_normalization
+date: '2026-07-18T16:03:21.970411Z'
+lastmod: '2026-07-18T17:15:08.890610Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika normalizująca aktywacje warstwy sieci neuronowej wzdłuż wymiaru cechy dla każdej pojedynczej próbki."
+source: agnes_llm
+status: published
+language: pl
+description: Technika normalizująca aktywacje warstwy sieci neuronowej wzdłuż wymiaru
+  cechy dla każdej pojedynczej próbki.
 ---
-
 ## Definition
 
 Normalizacja warstwowa stabilizuje szkolenie, redukując wewnętrzny przesunięcie kowariancji, co jest szczególnie skuteczne w architekturach rekurencyjnych (RNN) i transformatorowych. W przeciwieństwie do normalizacji partii (Batch Normalization), która zależy od statystyk partii, normalizacja warstwowa działa niezależnie od wielkości partii.

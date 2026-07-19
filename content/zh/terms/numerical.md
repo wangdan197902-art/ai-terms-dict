@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /zh/terms/numerical/
 date: "2026-07-18T10:53:26.248984Z"
 lastmod: "2026-07-18T11:44:45.379133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "涉及或使用数字或数学计算，而非符号逻辑或文本。"
 ---
-
 ## Definition
 
 在人工智能和数据科学的背景下，数值型指涉及定量值的数据类型或方法，例如整数、浮点数和小数。与分类数据或文本数据不同，数值型

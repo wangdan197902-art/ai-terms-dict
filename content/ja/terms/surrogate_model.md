@@ -1,23 +1,23 @@
 ---
-title: "代理モデル"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: 代理モデル
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /ja/terms/surrogate_model/
-date: "2026-07-18T11:33:46.958516Z"
-lastmod: "2026-07-18T11:44:45.148568Z"
+slug: surrogate_model
+date: '2026-07-18T11:33:46.958516Z'
+lastmod: '2026-07-18T11:44:45.148568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "より複雑で計算コストが高く、またはアクセス困難なブラックボックスモデルの挙動を近似するために使用される、簡略化された数学モデル。"
+source: agnes_llm
+status: published
+language: ja
+description: より複雑で計算コストが高く、またはアクセス困難なブラックボックスモデルの挙動を近似するために使用される、簡略化された数学モデル。
 ---
-
 ## Definition
 
 機械学習および最適化において、代理モデルは直接評価が困難な目的関数のプロキシとして機能します。これは、元のモデルからの入力-出力ペアを用いて訓練され、元のモデルの挙動を効率的に模倣します。

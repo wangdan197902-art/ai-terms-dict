@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /en/terms/bayesian/
 date: "2026-07-18T09:30:18.556362Z"
 lastmod: "2026-07-18T11:44:44.593486Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Relates to statistical methods based on Bayes' Theorem for updating probabilities with new evidence."
 ---
-
 ## Definition
 
 Bayesian approaches in AI use probability theory to update the likelihood of hypotheses as more evidence becomes available. This method allows models to quantify uncertainty and refine predictions dynamically. It is widely used in spam filtering, medical diagnosis, and machine learning algorithms like Naive Bayes classifiers, providing a robust framework for handling incomplete or noisy data compared to frequentist statistics.

@@ -1,23 +1,25 @@
 ---
-title: "Глубокая томографическая реконструкция"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: Глубокая томографическая реконструкция
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /ru/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:49:34.769157Z"
-lastmod: "2026-07-18T16:38:07.147767Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:49:34.769157Z'
+lastmod: '2026-07-18T16:38:07.147767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вычислительный метод получения изображений, использующий глубокие нейронные сети для восстановления высококачественных поперечных срезов из разреженных или зашумленных проекционных данных."
+source: agnes_llm
+status: published
+language: ru
+description: Вычислительный метод получения изображений, использующий глубокие нейронные
+  сети для восстановления высококачественных поперечных срезов из разреженных или
+  зашумленных проекционных данных.
 ---
-
 ## Definition
 
 Глубокая томографическая реконструкция представляет собой значительный прогресс по сравнению с традиционными алгебраическими или аналитическими методами, такими как фильтрованная обратная проекция. Используя сверточные нейронные сети (CNN), этот подход позволяет эффективно восстанавливать детализированные изображения, минимизируя артефакты и шум, характерные для классических методов обработки.

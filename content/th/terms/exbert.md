@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /th/terms/exbert/
-date: "2026-07-18T15:52:35.884215Z"
-lastmod: "2026-07-18T16:38:07.604071Z"
+slug: exbert
+date: '2026-07-18T15:52:35.884215Z'
+lastmod: '2026-07-18T16:38:07.604071Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการอธิบายการทำนายของ BERT โดยระบุส่วนหัวของความสนใจ (Attention heads) และชั้นของโมเดลที่มีส่วนร่วมมากที่สุดต่อผลลัพธ์เฉพาะเจาะจง"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการอธิบายการทำนายของ BERT โดยระบุส่วนหัวของความสนใจ (Attention heads)
+  และชั้นของโมเดลที่มีส่วนร่วมมากที่สุดต่อผลลัพธ์เฉพาะเจาะจง
 ---
-
 ## Definition
 
 ExBERT ให้ความสามารถในการตีความโมเดล Transformer ของ BERT โดยการวิเคราะห์ความสำคัญของส่วนหัวของความสนใจแต่ละส่วนในแต่ละชั้นของโมเดล ใช้เทคนิคต่างๆ เช่น การกำหนดค่าความสำคัญโดยอิงจากเกรเดียนต์ หรือการวิเคราะห์การมีส่วนร่วมของหน่วยความจำเพื่อเปิดเผยเหตุผลเบื้องหลังการทำนาย

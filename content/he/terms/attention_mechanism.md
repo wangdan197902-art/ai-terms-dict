@@ -1,23 +1,24 @@
 ---
-title: "מנגנון תשומת לב"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: מנגנון תשומת לב
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /he/terms/attention_mechanism/
-date: "2026-07-18T15:22:26.486722Z"
-lastmod: "2026-07-18T17:15:09.470305Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:26.486722Z'
+lastmod: '2026-07-18T17:15:09.470305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה המאפשרת לרשתות נוירונים להתמקד בחלקים ספציפיים של נתוני הקלט בעת יצירת פלט."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה המאפשרת לרשתות נוירונים להתמקד בחלקים ספציפיים של נתוני הקלט בעת
+  יצירת פלט.
 ---
-
 ## Definition
 
 מנגנון תשומת לב מאפשר למודל לשקול את חשיבותם של אלמנטים שונים בתוך רצף קלט באופן דינמי. במקום להתייחס לכל נתוני הקלט באותה מידה, הוא מקצה רמות משקל שונות.

@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /es/terms/stochastic/
 date: "2026-07-18T10:26:46.169389Z"
 lastmod: "2026-07-18T11:44:44.752120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Describe procesos o modelos que implican aleatoriedad y probabilidad en lugar de resultados deterministas."
 ---
-
 ## Definition
 
 Los elementos estocásticos introducen variabilidad en los sistemas de IA, como ruido en los datos o inicialización aleatoria de pesos. A diferencia de los modelos deterministas, los modelos estocásticos tienen en cuenta la incertidumbre.

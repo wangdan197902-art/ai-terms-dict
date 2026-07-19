@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /es/terms/low_cost/
 date: "2026-07-18T10:28:27.965441Z"
 lastmod: "2026-07-18T11:44:44.757344Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Denota soluciones de IA que minimizan los gastos computacionales, financieros o energéticos manteniendo la funcionalidad."
 ---
-
 ## Definition
 
 La IA de bajo costo se centra en la eficiencia, buscando reducir las barreras de entrada y los costos operativos asociados con el aprendizaje automático. Esto incluye técnicas como la compresión de modelos, cuantización y poda para ejecutar inferencias eficientes en hardware limitado.

@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /pt/terms/bayesian_programming/
 date: "2026-07-18T14:51:28.881297Z"
 lastmod: "2026-07-18T15:51:59.467942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um quadro formal para raciocínio probabilístico que estende a inferência bayesiana a modelos complexos e hierárquicos."
 ---
-
 ## Definition
 
 A programação bayesiana é um quadro matemático que generaliza o teorema de Bayes para lidar com dependências probabilísticas complexas e multicamadas. Permite que desenvolvedores definam modelos hierárquicos onde variáveis latentes e observações estão interligadas de forma estruturada, facilitando a especificação declarativa de sistemas incertos e a realização de inferência automática sobre estados ocultos dadas evidências parciais.

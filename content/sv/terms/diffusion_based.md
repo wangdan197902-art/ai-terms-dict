@@ -1,23 +1,24 @@
 ---
-title: "diffusionsbaserad"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: diffusionsbaserad
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /sv/terms/diffusion_based/
-date: "2026-07-18T15:33:15.350138Z"
-lastmod: "2026-07-18T17:15:08.956211Z"
+slug: diffusion_based
+date: '2026-07-18T15:33:15.350138Z'
+lastmod: '2026-07-18T17:15:08.956211Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett generativt modelleringsansätt som skapar data genom att vända en gradvis brus-tilläggningsprocess via inlärda denoiseringssteg."
+source: agnes_llm
+status: published
+language: sv
+description: Ett generativt modelleringsansätt som skapar data genom att vända en
+  gradvis brus-tilläggningsprocess via inlärda denoiseringssteg.
 ---
-
 ## Definition
 
 Diffusionsbaserade modeller är en klass av generativ AI som skapar nya datamallar genom att iterativt ta bort brus från en slumpmässig fördelning. Processen börjar med en framåtfas som långsamt lägger till Gaussiskt...

@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /ar/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:17:56.024571Z"
 lastmod: "2026-07-18T17:15:08.540562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "خط أنابيب بايونوت أوديو هو تسلسل منظم لخطوات المعالجة يجمع بين نماذج مختلفة لأداء تشخيص المتحدثين بشكل متكامل."
 ---
-
 ## Definition
 
 في سياق بايونوت أوديو، يشير خط الأنابيب إلى سير عمل قابل للتكوين يربط وحدات مختلفة معاً لتحقيق تشخيص المتحدثين. عادةً، يتضمن خط الأنابيب مراحل للكشف عن...

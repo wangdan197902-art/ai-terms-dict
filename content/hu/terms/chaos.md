@@ -7,8 +7,6 @@ tags: ["theory", "complexity", "mathematics"]
 difficulty: 4
 weight: 1
 slug: "chaos"
-aliases:
-  - /hu/terms/chaos/
 date: "2026-07-18T15:48:56.397070Z"
 lastmod: "2026-07-18T17:15:09.760988Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-ban a kaosz komplex, nemlineáris dinamikus rendszerekre utal, amelyek nagy érzékenységet mutatnak a kezdeti feltételek iránt, gyakran véletlenszerűnek tűnnek, de determinisztikus szabályok irány"
 ---
-
 ## Definition
 
 A káoszelmélet azt vizsgálja, hogyan vezethetnek a kiindulási paraméterek kis változásai drasztikusan eltérő kimenetelekhez komplex rendszerekben. A mesterséges intelligenciában a kaotikus viselkedés megértése kulcsfontosságú a modellek stabilitásának és előrejelző képességének javításához.

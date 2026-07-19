@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /pt/terms/content_filtering/
 date: "2026-07-18T14:54:18.106827Z"
 lastmod: "2026-07-18T15:51:59.474180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de bloquear ou permitir o acesso a conteúdo digital com base em critérios predefinidos ou modelos de classificação."
 ---
-
 ## Definition
 
 A filtragem de conteúdo envolve o uso de algoritmos e regras para analisar, classificar e controlar o fluxo de informações apresentadas aos usuários. No contexto da IA, isso frequentemente emprega processamento de linguagem natural e comp

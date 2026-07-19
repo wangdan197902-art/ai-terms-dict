@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /nl/terms/vector_database/
 date: "2026-07-18T15:31:07.724738Z"
 lastmod: "2026-07-18T17:15:08.696324Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gespecialiseerde database ontworpen voor het opslaan, indexeren en opvragen van hoogdimensionale vectoren die gegevensfuncties vertegenwoordigen."
 ---
-
 ## Definition
 
 Vector databases optimaliseren het opslaan en ophalen van ongestructureerde gegevens door deze om te zetten in numerieke embeddings. Ze gebruiken algoritmen zoals Approximate Nearest Neighbor (ANN) om efficiënt gelijkenissen te vinden.

@@ -1,23 +1,24 @@
 ---
-title: "خوارزمية الممثل والنقد"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: خوارزمية الممثل والنقد
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /ar/terms/actor_critic_algorithm/
-date: "2026-07-18T15:42:26.390521Z"
-lastmod: "2026-07-18T17:15:08.472746Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:42:26.390521Z'
+lastmod: '2026-07-18T17:15:08.472746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "إطار عمل في التعلم التعزيزي يجمع بين الأسس القائمة على القيمة والقائمة على السياسة باستخدام شبكتين عصبيتين: ممثل ونقاد."
+source: agnes_llm
+status: published
+language: ar
+description: 'إطار عمل في التعلم التعزيزي يجمع بين الأسس القائمة على القيمة والقائمة
+  على السياسة باستخدام شبكتين عصبيتين: ممثل ونقاد.'
 ---
-
 ## Definition
 
 تستخدم خوارزمية الممثل والنقد مكونين: الممثل، الذي يحدث السياسة لاختيار الإجراءات، والنقاد، الذي يقيم جودة تلك الإجراءات من خلال تقدير دالة القيمة.

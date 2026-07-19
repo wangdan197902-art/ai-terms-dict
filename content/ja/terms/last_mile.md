@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /ja/terms/last_mile/
 date: "2026-07-18T11:21:17.145442Z"
 lastmod: "2026-07-18T11:44:45.114521Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIソリューションを開発環境から実世界の運用設定にあるエンドユーザーへ配信する最終段階。"
 ---
-
 ## Definition
 
 「ラストマイル」問題は、既存インフラとの統合、低レイテンシ推論の確保、エッジケースの処理など、モデルを生産環境にデプロイする際に直面する課題を指します。

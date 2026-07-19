@@ -1,23 +1,24 @@
 ---
-title: "Temporel"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Temporel
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /fr/terms/temporal/
-date: "2026-07-18T10:55:30.849948Z"
-lastmod: "2026-07-18T11:44:45.174076Z"
+slug: temporal
+date: '2026-07-18T10:55:30.849948Z'
+lastmod: '2026-07-18T11:44:45.174076Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le terme temporel se rapporte aux séquences temporelles, en se concentrant sur la façon dont les données changent ou dont les dépendances évoluent au fil du temps."
+source: agnes_llm
+status: published
+language: fr
+description: Le terme temporel se rapporte aux séquences temporelles, en se concentrant
+  sur la façon dont les données changent ou dont les dépendances évoluent au fil du
+  temps.
 ---
-
 ## Definition
 
 Les concepts temporels en IA impliquent l'analyse de points de données ordonnés dans le temps, tels que les cours boursiers, les lectures de capteurs ou les phrases en langage naturel. Les modèles traitant des données temporelles doivent tenir compte de l'ordre des séquences et des dépendances à long terme,

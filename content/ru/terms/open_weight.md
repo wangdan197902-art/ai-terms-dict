@@ -1,23 +1,23 @@
 ---
-title: "открытые веса модели"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: открытые веса модели
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /ru/terms/open_weight/
-date: "2026-07-18T15:32:08.237127Z"
-lastmod: "2026-07-18T16:38:07.097526Z"
+slug: open_weight
+date: '2026-07-18T15:32:08.237127Z'
+lastmod: '2026-07-18T16:38:07.097526Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Модели ИИ, в которых опубликованы обученные параметры (веса), но код обучения и данные могут оставаться закрытыми."
+source: agnes_llm
+status: published
+language: ru
+description: Модели ИИ, в которых опубликованы обученные параметры (веса), но код
+  обучения и данные могут оставаться закрытыми.
 ---
-
 ## Definition
 
 Модели с открытыми весами отличаются от полностью открытых источников ИИ тем, что публикуются только финальные выученные параметры, а не обязательно инфраструктура или данные, использованные для их создания. Это позволяет пользователям запускать инференс...

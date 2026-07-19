@@ -1,23 +1,24 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /vi/terms/bloom/
-date: "2026-07-18T15:43:26.452546Z"
-lastmod: "2026-07-18T16:38:07.734277Z"
+slug: bloom
+date: '2026-07-18T15:43:26.452546Z'
+lastmod: '2026-07-18T16:38:07.734277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trong học máy, 'Bloom' thường đề cập đến Phân loại Bloom được áp dụng trong giáo dục AI hoặc các mô hình nhúng cụ thể như mô hình nhúng văn bản Bloom."
+source: agnes_llm
+status: published
+language: vi
+description: Trong học máy, 'Bloom' thường đề cập đến Phân loại Bloom được áp dụng
+  trong giáo dục AI hoặc các mô hình nhúng cụ thể như mô hình nhúng văn bản Bloom.
 ---
-
 ## Definition
 
 Mặc dù lịch sử đề cập đến phân loại giáo dục của Benjamin Bloom, trong bối cảnh AI hiện đại, nó thường chỉ mô hình nhúng văn bản Bloom do BigScience phát triển. Mô hình này tạo ra các

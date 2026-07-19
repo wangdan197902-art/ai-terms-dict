@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /cs/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:51:24.876388Z"
 lastmod: "2026-07-18T17:15:09.118359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sada dat obsahující páry otázek a odpovědí z WikiAnswers, používaná pro trénování modelů pro pochopení úmyslu a sémantické ekvivalence."
 ---
-
 ## Definition
 
 Tato sada dat obsahuje miliony párů otázek a odpovědí stažených z již neexistující platformy WikiAnswers. Primárně slouží k trénování modelů hustého retrievu pasáží a sémantického párování. Využíváním

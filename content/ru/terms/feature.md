@@ -1,23 +1,24 @@
 ---
-title: "Признак"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Признак
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /ru/terms/feature/
-date: "2026-07-18T15:53:10.347105Z"
-lastmod: "2026-07-18T16:38:07.156400Z"
+slug: feature
+date: '2026-07-18T15:53:10.347105Z'
+lastmod: '2026-07-18T16:38:07.156400Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Индивидуальное измеряемое свойство или характеристика наблюдаемого явления, служащая входными данными для моделей машинного обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Индивидуальное измеряемое свойство или характеристика наблюдаемого явления,
+  служащая входными данными для моделей машинного обучения.
 ---
-
 ## Definition
 
 В машинном обучении признак — это отдельный атрибут или переменная, описывающая экземпляр в наборе данных. Признаки могут быть числовыми, категориальными или текстовыми и служат фундаментальной основой для ввода данных в модель.

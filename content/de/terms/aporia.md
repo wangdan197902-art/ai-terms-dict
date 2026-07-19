@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /de/terms/aporia/
 date: "2026-07-18T11:02:55.105935Z"
 lastmod: "2026-07-18T11:44:44.909099Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: ""
 ---
-
 ## Definition
 
 In der Philosophie und KI-Theorie beschreibt Aporie eine paradoxe Situation, in der zwei gleichwertige Argumente zu widersprüchlichen Ergebnissen führen. Im maschinellen Lernen kann sich dies zeigen, wenn die Leistung eines Modells unter bestimmten Bedingungen kollidiert, etwa wenn Genauigkeit und Fairness nicht gleichzeitig optimiert werden können.

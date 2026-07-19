@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /it/terms/differential_privacy/
 date: "2026-07-18T15:56:31.012777Z"
 lastmod: "2026-07-18T17:15:08.618645Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un rigoroso quadro matematico che garantisce che l'inclusione o l'esclusione dei dati di un singolo individuo non influisca significativamente sull'esito di un'analisi."
 ---
-
 ## Definition
 
 La privacy differenziale fornisce forti garanzie di privacy aggiungendo rumore statistico calibrato ai risultati delle query o ai parametri del modello. Quantifica la quantità massima di perdita di informazioni riguardante qualsiasi s...

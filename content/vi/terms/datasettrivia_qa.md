@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /vi/terms/datasettrivia_qa/
 date: "2026-07-18T15:48:26.943880Z"
 lastmod: "2026-07-18T16:38:07.746280Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu quy mô lớn cho bài toán trả lời câu hỏi trong lĩnh vực mở, chứa hàng triệu câu hỏi và câu trả lời thuộc nhiều chủ đề khác nhau."
 ---
-
 ## Definition
 
 TriviaQA là một bộ dữ liệu được thiết kế cho bài toán trả lời câu hỏi trong lĩnh vực mở, bao gồm hơn một triệu câu hỏi cùng các câu trả lời tương ứng. Bộ dữ liệu này được tạo ra để thách thức các mô hình hiện có bằng cách yêu cầu chúng tích hợp kiến thức từ nhiều nguồn khác nhau.

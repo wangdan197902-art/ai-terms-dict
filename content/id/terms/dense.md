@@ -1,23 +1,23 @@
 ---
-title: "Dense"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dense
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /id/terms/dense/
-date: "2026-07-18T15:47:44.305297Z"
-lastmod: "2026-07-18T16:38:07.449733Z"
+slug: dense
+date: '2026-07-18T15:47:44.305297Z'
+lastmod: '2026-07-18T16:38:07.449733Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Lapisan atau tensor di mana setiap elemen terhubung ke setiap elemen dari lapisan atau dimensi sebelumnya."
+source: agnes_llm
+status: published
+language: id
+description: Lapisan atau tensor di mana setiap elemen terhubung ke setiap elemen
+  dari lapisan atau dimensi sebelumnya.
 ---
-
 ## Definition
 
 Dalam jaringan saraf, 'dense' mengacu pada lapisan yang sepenuhnya terhubung di mana setiap neuron menerima masukan dari semua neuron di lapisan sebelumnya. Ini berbeda dengan koneksi jarang yang ditemukan dalam konvolusi atau...

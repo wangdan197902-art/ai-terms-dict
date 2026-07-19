@@ -1,23 +1,23 @@
 ---
-title: "Deploy:Azure (การปรับใช้บน Azure)"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: Deploy:Azure (การปรับใช้บน Azure)
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /th/terms/deployazure/
-date: "2026-07-18T15:50:01.830767Z"
-lastmod: "2026-07-18T16:38:07.598084Z"
+slug: deployazure
+date: '2026-07-18T15:50:01.830767Z'
+lastmod: '2026-07-18T16:38:07.598084Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการโฮสต์และรันโมเดลแมชชีนเลิร์นนิงบนโครงสร้างพื้นฐานบริการคลาวด์ของ Microsoft Azure"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการโฮสต์และรันโมเดลแมชชีนเลิร์นนิงบนโครงสร้างพื้นฐานบริการคลาวด์ของ
+  Microsoft Azure
 ---
-
 ## Definition
 
 การปรับใช้บน Azure เกี่ยวข้องกับการใช้เครื่องมือที่เป็นเจ้าของคลาวด์ (cloud-native) เช่น Azure Machine Learning, Azure Kubernetes Service (AKS) หรือ Azure Functions เพื่อให้บริการโมเดล ML ในระดับใหญ่ ครอบคลุมการจัดการทรัพยากรการคำนวณและการปรับขนาด...

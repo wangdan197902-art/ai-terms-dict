@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /ja/terms/llama31/
 date: "2026-07-18T11:22:12.133447Z"
 lastmod: "2026-07-18T11:44:45.117058Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Llama 3.1は、2024年8月にリリースされたMetaのアップデートであり、80億、700億、4050億パラメータのモデルを含み、128kの拡張されたコンテキストウィンドウとネイティブなツール使用機能を備えています。"
 ---
-
 ## Definition
 
 2024年8月にリリースされたLlama 3.1は、Llamaファミリーに4050億パラメータという巨大なモデルに加え、小規模な80億および700億パラメータのバリエーションも拡大しました。目立つ特徴の一つは、128kという拡張されたコンテキストウィンドウです。

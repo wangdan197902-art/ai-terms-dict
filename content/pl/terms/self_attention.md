@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /pl/terms/self_attention/
 date: "2026-07-18T15:29:40.620984Z"
 lastmod: "2026-07-18T17:15:08.821028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Mechanizm pozwalający sieci neuronowej na ważenie znaczenia różnych części sekwencji wejściowej względem siebie nawzajem."
 ---
-
 ## Definition
 
 Mechanizm uwagi własnej umożliwia modelom wychwytywanie zależności między wszystkimi pozycjami w sekwencji jednocześnie, niezależnie od odległości między nimi. Obliczając wyniki uwagi dla każdej pary tokenów, pozwala to na budowanie bogatszego kontekstu reprezentacji.

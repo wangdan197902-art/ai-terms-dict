@@ -1,23 +1,23 @@
 ---
-title: "规划"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: 规划
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /zh/terms/planning/
-date: "2026-07-18T11:01:16.765865Z"
-lastmod: "2026-07-18T11:44:45.403654Z"
+slug: planning
+date: '2026-07-18T11:01:16.765865Z'
+lastmod: '2026-07-18T11:44:45.403654Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在特定环境中生成一系列动作以实现特定目标的认知过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 在特定环境中生成一系列动作以实现特定目标的认知过程。
 ---
-
 ## Definition
 
 AI中的规划涉及确定一系列动作，使系统从初始状态过渡到期望的目标状态。这需要推理动作的影响以及环境的约束条件。

@@ -1,23 +1,24 @@
 ---
-title: "Batchgrootte"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Batchgrootte
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /nl/terms/batch_size/
-date: "2026-07-18T15:44:44.026134Z"
-lastmod: "2026-07-18T17:15:08.721496Z"
+slug: batch_size
+date: '2026-07-18T15:44:44.026134Z'
+lastmod: '2026-07-18T17:15:08.721496Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het aantal trainingsvoorbeelden dat in één iteratie van het stochastische gradientafval-algoritme wordt gebruikt."
+source: agnes_llm
+status: published
+language: nl
+description: Het aantal trainingsvoorbeelden dat in één iteratie van het stochastische
+  gradientafval-algoritme wordt gebruikt.
 ---
-
 ## Definition
 
 De batchgrootte is een kritieke hyperparameter die bepaalt hoeveel steekproeven worden verwerkt voordat de interne parameters van het model worden bijgewerkt. Een grotere batchgrootte geeft een nauwkeurigere schatting van de

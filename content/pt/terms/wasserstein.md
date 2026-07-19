@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /pt/terms/wasserstein/
-date: "2026-07-18T14:40:54.070150Z"
-lastmod: "2026-07-18T15:51:59.442573Z"
+slug: wasserstein
+date: '2026-07-18T14:40:54.070150Z'
+lastmod: '2026-07-18T15:51:59.442573Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma métrica que mede a distância entre distribuições de probabilidade com base no custo mínimo para transformar uma na outra."
+source: agnes_llm
+status: published
+language: pt
+description: Uma métrica que mede a distância entre distribuições de probabilidade
+  com base no custo mínimo para transformar uma na outra.
 ---
-
 ## Definition
 
 A distância de Wasserstein, também conhecida como Distância do Carregador de Terra, quantifica a dissimilaridade entre duas distribuições de probabilidade calculando o 'trabalho' mínimo necessário para mover massa de uma distribuição para outra.

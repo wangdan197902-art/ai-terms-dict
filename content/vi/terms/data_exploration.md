@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /vi/terms/data_exploration/
 date: "2026-07-18T15:47:05.059324Z"
 lastmod: "2026-07-18T16:38:07.742513Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phân tích ban đầu các tập dữ liệu để phát hiện các mẫu, xác định các điểm bất thường và kiểm tra các giả thuyết trước khi xây dựng mô hình chính thức."
 ---
-
 ## Definition
 
 Khám phá dữ liệu, thường được gọi là Phân tích Dữ liệu Khám phá (EDA), là một bước tiền xử lý quan trọng trong quy trình học máy. Nó bao gồm việc tóm tắt các đặc điểm chính của dữ liệu, thường sử dụng các kỹ thuật trực quan hóa và thống kê.

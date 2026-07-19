@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /nl/terms/knowledge_integration/
 date: "2026-07-18T16:02:24.690177Z"
 lastmod: "2026-07-18T17:15:08.759023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het combineren van heterogene kennisbronnen tot een uniforme, consistente representatie voor verbeterd redeneren."
 ---
-
 ## Definition
 
 Kennisintegratie houdt in dat gegevens uit diverse bronnen, zoals databases, ontologieën en ongestructureerde tekst, worden samengevoegd tot een coherent schema. Het lost problemen op met betrekking tot semantische heterogeniteit en inconsistenties.

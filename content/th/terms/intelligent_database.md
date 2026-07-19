@@ -1,23 +1,24 @@
 ---
-title: "ฐานข้อมูลอัจฉริยะ"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: ฐานข้อมูลอัจฉริยะ
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /th/terms/intelligent_database/
-date: "2026-07-18T16:00:38.198047Z"
-lastmod: "2026-07-18T16:38:07.619960Z"
+slug: intelligent_database
+date: '2026-07-18T16:00:38.198047Z'
+lastmod: '2026-07-18T16:38:07.619960Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบฐานข้อมูลที่รวมความสามารถของ AI เข้ามาเพื่อจัดการข้อมูลอัตโนมัติ ปรับปรุงประสิทธิภาพการสอบถาม และสร้างข้อมูลเชิงลึก"
+source: agnes_llm
+status: published
+language: th
+description: ระบบฐานข้อมูลที่รวมความสามารถของ AI เข้ามาเพื่อจัดการข้อมูลอัตโนมัติ
+  ปรับปรุงประสิทธิภาพการสอบถาม และสร้างข้อมูลเชิงลึก
 ---
-
 ## Definition
 
 ฐานข้อมูลอัจฉริยะใช้การเรียนรู้ของเครื่องและ AI เพื่อเสริมฟังก์ชันการทำงานมาตรฐานของฐานข้อมูลให้เกินกว่าการจัดเก็บและการเรียกค้นข้อมูลทั่วไป สามารถปรับปรุงประสิทธิภาพการสอบถามโดยอัตโนมัติ คาดการณ์การใช้งาน

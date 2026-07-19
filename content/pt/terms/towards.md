@@ -1,23 +1,23 @@
 ---
-title: "Em Direção a / Rumo a"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: Em Direção a / Rumo a
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /pt/terms/towards/
-date: "2026-07-18T14:40:25.887551Z"
-lastmod: "2026-07-18T15:51:59.441244Z"
+slug: towards
+date: '2026-07-18T14:40:25.887551Z'
+lastmod: '2026-07-18T15:51:59.441244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Rumo a refere-se ao progresso direcional ou objetivos de otimização em IA, indicando movimento na direção de melhor desempenho ou objetivos específicos."
+source: agnes_llm
+status: published
+language: pt
+description: Rumo a refere-se ao progresso direcional ou objetivos de otimização em
+  IA, indicando movimento na direção de melhor desempenho ou objetivos específicos.
 ---
-
 ## Definition
 
 No desenvolvimento de IA, 'rumo a' frequentemente descreve a trajetória dos processos de otimização, como a descida do gradiente movendo pesos em direção a um valor mínimo de perda. Também signifique direções de pesquisa, onde...

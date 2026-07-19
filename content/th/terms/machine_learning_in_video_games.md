@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้ของเครื่องในเกมวิดีโอ"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: การเรียนรู้ของเครื่องในเกมวิดีโอ
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /th/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:04:30.266269Z"
-lastmod: "2026-07-18T16:38:07.629437Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:04:30.266269Z'
+lastmod: '2026-07-18T16:38:07.629437Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การนำอัลกอริทึมการเรียนรู้ของเครื่องไปใช้เพื่อพัฒนาเกม สร้างตัวละครที่ไม่ใช่ผู้เล่น (NPC) ที่ปรับตัวได้ และปรับปรุงประสบการณ์การเล่นเกม"
+source: agnes_llm
+status: published
+language: th
+description: การนำอัลกอริทึมการเรียนรู้ของเครื่องไปใช้เพื่อพัฒนาเกม สร้างตัวละครที่ไม่ใช่ผู้เล่น
+  (NPC) ที่ปรับตัวได้ และปรับปรุงประสบการณ์การเล่นเกม
 ---
-
 ## Definition
 
 สาขานี้เกี่ยวข้องกับการบูรณาการเทคนิคการเรียนรู้ของเครื่องเข้าไปในกระบวนการพัฒนาเกมวิดีโอ เพื่อสร้างทรัพยากรอัตโนมัติ ปรับสมดุลกลไกของเกม และสร้างเนื้อหาแบบไดนามิก ซึ่งครอบคลุมตั้งแต่การใช้การเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ไปจนถึงเทคนิคอื่นๆ ในการเพิ่มประสิทธิภาพ

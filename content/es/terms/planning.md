@@ -1,23 +1,24 @@
 ---
-title: "Planificación"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Planificación
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /es/terms/planning/
-date: "2026-07-18T10:31:26.375797Z"
-lastmod: "2026-07-18T11:44:44.765104Z"
+slug: planning
+date: '2026-07-18T10:31:26.375797Z'
+lastmod: '2026-07-18T11:44:44.765104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso cognitivo de generar una secuencia de acciones para lograr objetivos específicos dentro de un entorno definido."
+source: agnes_llm
+status: published
+language: es
+description: El proceso cognitivo de generar una secuencia de acciones para lograr
+  objetivos específicos dentro de un entorno definido.
 ---
-
 ## Definition
 
 La planificación en IA implica determinar una secuencia de acciones que llevará desde un estado inicial hasta un estado objetivo deseado. Requiere razonar sobre los efectos de las acciones y las restricciones del entorno.

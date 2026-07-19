@@ -1,23 +1,24 @@
 ---
-title: "انهيار التمثيل"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: انهيار التمثيل
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /ar/terms/representation_collapse/
-date: "2026-07-18T16:19:23.348988Z"
-lastmod: "2026-07-18T17:15:08.544343Z"
+slug: representation_collapse
+date: '2026-07-18T16:19:23.348988Z'
+lastmod: '2026-07-18T17:15:08.544343Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "وضع فشل في التعلم الذاتي الإشرافي حيث ينتج النمو تمثيلات متطابقة لجميع المدخلات، مما يفقده القدرة التمييزية."
+source: agnes_llm
+status: published
+language: ar
+description: وضع فشل في التعلم الذاتي الإشرافي حيث ينتج النمو تمثيلات متطابقة لجميع
+  المدخلات، مما يفقده القدرة التمييزية.
 ---
-
 ## Definition
 
 يحدث انهيار التمثيل عندما يتعلم الشبكة العصبية، خاصة في أطر التعلم التبايني الذاتي الإشرافي، تعيين جميع نقاط بيانات الإدخال إلى نفس المتجه الثابت للإخراج. هذا حل تافه يفشل في تعلم ميزات ذات معنى من البيانات، وغالباً ما يتطلب استخدام تقنيات مثل تطبيع الدفعة أو المشغلات الزمنية لمنع حدوثه.

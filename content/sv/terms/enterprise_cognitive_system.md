@@ -1,23 +1,24 @@
 ---
-title: "Entreprenörsinriktat kognitivt system"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: Entreprenörsinriktat kognitivt system
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /sv/terms/enterprise_cognitive_system/
-date: "2026-07-18T15:56:29.147475Z"
-lastmod: "2026-07-18T17:15:09.000423Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T15:56:29.147475Z'
+lastmod: '2026-07-18T17:15:09.000423Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En integrerad AI-plattform som tillämpar avancerad analys och maskininlärning för att automatisera komplexa affärsprocesser och beslutsfattande."
+source: agnes_llm
+status: published
+language: sv
+description: En integrerad AI-plattform som tillämpar avancerad analys och maskininlärning
+  för att automatisera komplexa affärsprocesser och beslutsfattande.
 ---
-
 ## Definition
 
 Ett entreprenörsinriktat kognitivt system kombinerar artificiell intelligens, naturlig språkbehandling och maskininlärning för att simulera mänskliga tänkandeprocesser inom en företagsmiljö. Dessa system analyserar stora datamängder för att identifiera mönster och ge insikter som stödjer strategiska beslut.

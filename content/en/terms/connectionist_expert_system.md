@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /en/terms/connectionist_expert_system/
 date: "2026-07-18T09:51:40.829717Z"
 lastmod: "2026-07-18T11:44:44.655052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An intelligent system that combines neural network learning capabilities with symbolic reasoning structures."
 ---
-
 ## Definition
 
 A connectionist expert system integrates the pattern recognition and learning strengths of neural networks (connectionism) with the explicit knowledge representation and logical reasoning of traditional rule-based expert systems. This hybrid approach aims to overcome the brittleness of symbolic systems and the lack of interpretability in pure neural networks. By linking sub-symbolic connections to symbolic concepts, these systems can learn from data while maintaining a level of transparency and logical consistency required for expert decision-making tasks.

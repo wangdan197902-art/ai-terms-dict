@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /it/terms/datasetsearch_qa/
 date: "2026-07-18T15:55:18.715698Z"
 lastmod: "2026-07-18T17:15:08.615957Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un dataset focalizzato sui compiti di risposta alle domande derivati dai log dei motori di ricerca o dalle query web, con enfasi sul recupero di informazioni nel mondo reale."
 ---
-
 ## Definition
 
 I dataset Search QA consistono tipicamente in coppie di query di ricerca e snippet di risposta pertinenti o documenti estratti dai risultati dei motori di ricerca. Questi dataset sono cruciali per addestrare i modelli a comprendere l'intento di ricerca.

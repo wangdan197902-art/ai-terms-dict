@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /th/terms/outline_of_deep_learning/
 date: "2026-07-18T16:09:51.969460Z"
 lastmod: "2026-07-18T16:38:07.638922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ภาพรวมที่เป็นโครงสร้างของระเบียบวิธี สถาปัตยกรรม และกลยุทธ์การเพิ่มประสิทธิภาพในการเรียนรู้เชิงลึก"
 ---
-
 ## Definition
 
 ภาพรวมของการเรียนรู้เชิงลึกครอบคลุมโครงสร้างพื้นฐานเช่น ชั้นของเครือข่ายประสาท ฟังก์ชันกระตุ้น และเมตริกซ์ความสูญเสีย รวมถึงรายละเอียดเทคนิคการฝึกฝนเช่น การแพร่ย้อนกลับ

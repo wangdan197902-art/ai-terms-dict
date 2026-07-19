@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /hu/terms/recursive_self_improvement/
 date: "2026-07-18T16:21:08.586811Z"
 lastmod: "2026-07-18T17:15:09.828818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy folyamat, amely során egy mesterséges intelligencia rendszer önmódosításon keresztül iteratívan javítja saját intelligenciáját vagy képességeit."
 ---
-
 ## Definition
 
 A rekurzív önfejlesztés az a teoretikus képesség, amely lehetővé teszi egy mesterséges intelligencia rendszer számára, hogy átírja saját forráskódját vagy architektúráját, hogy okosabbá, hatékonyabbá vagy képesebbé váljon.

@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /no/terms/coupled_pattern_learner/
 date: "2026-07-18T15:47:54.028417Z"
 lastmod: "2026-07-18T16:38:06.984752Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En algoritmisk tilnærming som lærer sammenhenger mellom to distinkte men korrelerte sett med mønstre eller trekk samtidig."
 ---
-
 ## Definition
 
 Koblede mønstergjenkjennere er designet for å håndtere data der instanser fra to forskjellige rom er knyttet sammen, for eksempel bilder og deres tekstlige beskrivelser. Ved å modellere den felles fordelingen eller korrelasjonen mellom disse rommene.

@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /en/terms/domain_adaptation/
 date: "2026-07-18T09:56:08.548956Z"
 lastmod: "2026-07-18T11:44:44.667124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A machine learning method that improves model performance on a target domain by leveraging knowledge from a source domain."
 ---
-
 ## Definition
 
 Domain adaptation addresses the challenge when training and testing data come from different distributions. By aligning feature representations between a labeled source domain and an unlabeled or sparsely labeled target domain, models can generalize better to new environments. This technique is crucial for deploying AI systems in real-world scenarios where data characteristics shift over time or vary across regions, ensuring robustness without requiring extensive new labeled datasets.

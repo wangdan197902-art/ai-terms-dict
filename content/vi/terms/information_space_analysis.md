@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /vi/terms/information_space_analysis/
 date: "2026-07-18T15:58:06.895787Z"
 lastmod: "2026-07-18T16:38:07.770069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc khảo sát các thuộc tính hình học và tô pô của không gian nơi các biểu diễn dữ liệu tồn tại."
 ---
-
 ## Definition
 
 Khái niệm này liên quan đến việc phân tích cấu trúc của không gian biểu diễn trong các mô hình học máy. Nó xem xét cách các điểm dữ liệu được phân bố, cụm lại hoặc tách biệt trong không gian nhiều chiều.

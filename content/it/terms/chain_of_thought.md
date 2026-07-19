@@ -1,23 +1,24 @@
 ---
-title: "Chain-of-Thought (Catena di Pensiero)"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Chain-of-Thought (Catena di Pensiero)
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /it/terms/chain_of_thought/
-date: "2026-07-18T15:22:27.224805Z"
-lastmod: "2026-07-18T17:15:08.559450Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:27.224805Z'
+lastmod: '2026-07-18T17:15:08.559450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica di prompting che incoraggia i LLM a generare passaggi di ragionamento intermedi prima di rispondere."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica di prompting che incoraggia i LLM a generare passaggi di
+  ragionamento intermedi prima di rispondere.
 ---
-
 ## Definition
 
 Il prompting Chain-of-Thought (CoT) è una strategia in cui i grandi modelli linguistici vengono guidati a produrre spiegazioni di ragionamento passo dopo passo prima di arrivare a una risposta finale. Scomponendo problemi complessi

@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /ko/terms/agents/
 date: "2026-07-18T15:22:58.925236Z"
 lastmod: "2026-07-18T16:38:06.768197Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "자신의 환경을 지각하고 특정 목표를 달성하기 위해 행동을 취하는 자율적인 실체."
 ---
-
 ## Definition
 
 AI 에이전트는 센서(입력)를 통해 주변 환경을 지각하고, 정보를 처리하며, 정의된 목표를 달성하기 위해 작동기(출력)를 통해 행동을 실행할 수 있는 소프트웨어 프로그램 또는 시스템을 의미합니다.

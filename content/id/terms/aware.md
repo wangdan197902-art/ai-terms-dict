@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /id/terms/aware/
 date: "2026-07-18T15:23:25.803014Z"
 lastmod: "2026-07-18T16:38:07.388909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menunjukkan kapasitas AI untuk mendeteksi dan memproses informasi kontekstual atau rangsangan tertentu."
 ---
-
 ## Definition
 
 Dalam konteks AI, 'sadar' biasanya merujuk pada kesadaran situasional atau kontekstual, di mana sistem mengenali faktor lingkungan atau keadaan pengguna yang relevan. Ini tidak menyiratkan kesadaran diri, melainkan kemampuan pemrosesan informasi.

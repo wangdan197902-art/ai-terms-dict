@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /cs/terms/training_free/
 date: "2026-07-18T15:33:43.744119Z"
 lastmod: "2026-07-18T17:15:09.086258Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Metody, které upravují nebo vylepšují modely bez provádění gradientových aktualizací parametrů."
 ---
-
 ## Definition
 
 Přístupy bez tréninku označují techniky, které mění chování nebo výstup modelu bez aktualizace základních vah pomocí zpětného šíření chyby. Tyto metody často využívají inženýrství promptů, extrakci vlastností...

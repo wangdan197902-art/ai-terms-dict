@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /hu/terms/biomedical/
 date: "2026-07-18T15:48:25.099384Z"
 lastmod: "2026-07-18T17:15:09.760312Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A természettudományok orvosi gyakorlatba való alkalmazásával foglalkozik, gyakran magában foglalja az egészségügyi adatok számítógépes elemzését."
 ---
-
 ## Definition
 
 A biomedicinai kifejezés a biológia, az orvostudomány és a technológia metszéspontjára utal, különösen diagnosztikai eszközök, kezelések és adatelemzési módszerek fejlesztésében. Az AI-ban ez a gépi tanulás alkalmazását jelenti...

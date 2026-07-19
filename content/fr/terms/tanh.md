@@ -1,23 +1,23 @@
 ---
-title: "Tanh"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Tanh
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /fr/terms/tanh/
-date: "2026-07-18T11:40:25.127743Z"
-lastmod: "2026-07-18T11:44:45.343250Z"
+slug: tanh
+date: '2026-07-18T11:40:25.127743Z'
+lastmod: '2026-07-18T11:44:45.343250Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Tanh, ou tangente hyperbolique, est une fonction d'activation qui mappe les valeurs d'entrée sur une plage comprise entre -1 et 1."
+source: agnes_llm
+status: published
+language: fr
+description: Tanh, ou tangente hyperbolique, est une fonction d'activation qui mappe
+  les valeurs d'entrée sur une plage comprise entre -1 et 1.
 ---
-
 ## Definition
 
 La fonction tangente hyperbolique (Tanh) est une fonction d'activation non linéaire couramment utilisée dans les réseaux de neurones. Elle comprime les valeurs d'entrée dans l'intervalle (-1, 1), fournissant des sorties centrées sur zéro ce qui

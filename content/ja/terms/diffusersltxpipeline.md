@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /ja/terms/diffusersltxpipeline/
-date: "2026-07-18T11:12:11.297177Z"
-lastmod: "2026-07-18T11:44:45.091136Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T11:12:11.297177Z'
+lastmod: '2026-07-18T11:44:45.091136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "LTX（Lightning Text-to-Videoなど、高速生成モデル）用に最適化されたDiffusersの実装で、迅速な推論に焦点を当てる。"
+source: agnes_llm
+status: published
+language: ja
+description: LTX（Lightning Text-to-Videoなど、高速生成モデル）用に最適化されたDiffusersの実装で、迅速な推論に焦点を当てる。
 ---
-
 ## Definition
 
 LTXパイプラインは、生成タスクにおいて速度と効率を優先するモデル向けに調整されています。通常、蒸留または加速されたサンプリング手法を利用します。Diffusersとシームレスに統合され、高速な処理能力を提供します。

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /vi/terms/governance/
 date: "2026-07-18T15:55:21.318736Z"
 lastmod: "2026-07-18T16:38:07.762291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khung chính sách, tiêu chuẩn và cơ chế giám sát được thiết lập để đảm bảo các hệ thống AI được phát triển và triển khai một cách có trách nhiệm và đạo đức."
 ---
-
 ## Definition
 
 Quản trị AI đề cập đến tập hợp các quy tắc, hướng dẫn và cấu trúc thể chế quản lý cách thức tạo ra, sử dụng và kiểm toán trí tuệ nhân tạo. Nó bao gồm tuân thủ pháp lý, cân nhắc đạo đức và quản lý rủi ro.

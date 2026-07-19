@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /nl/terms/lyra/
-date: "2026-07-18T16:05:32.493453Z"
-lastmod: "2026-07-18T17:15:08.764099Z"
+slug: lyra
+date: '2026-07-18T16:05:32.493453Z'
+lastmod: '2026-07-18T17:15:08.764099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Lyra verwijst naar verschillende AI-initiatieven of modellen, met name een open-source groot taalmodel of een specifieke door AI aangedreven zoek- en ontdekkings-tool die is ontworpen om informatieopz"
+source: agnes_llm
+status: published
+language: nl
+description: Lyra verwijst naar verschillende AI-initiatieven of modellen, met name
+  een open-source groot taalmodel of een specifieke door AI aangedreven zoek- en ontdekkings-tool
+  die is ontworpen om informatieopz
 ---
-
 ## Definition
 
 In de context van moderne AI-terminologie verwijst Lyra vaak naar gespecialiseerde AI-systemen die zich richten op het verbeteren van gebruikersinteractie via natuurlijke taalverwerking. Het kan verwijzen naar een open-source LLM die is ontwikk

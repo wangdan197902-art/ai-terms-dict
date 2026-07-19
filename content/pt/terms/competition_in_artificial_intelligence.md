@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /pt/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T14:53:35.780437Z"
 lastmod: "2026-07-18T15:51:59.472522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A rivalidade entre nações, corporações e instituições de pesquisa para alcançar liderança no desenvolvimento, inovação e implantação de IA."
 ---
-
 ## Definition
 
 A competição em inteligência artificial descreve a intensa corrida global para avançar as capacidades de IA, impulsionada por vantagens econômicas, militares e científicas. Os principais jogadores incluem gigantes da tecnologia como Google, Microsoft e Meta, bem como governos nacionais que buscam soberania tecnológica.

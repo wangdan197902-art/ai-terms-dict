@@ -1,23 +1,22 @@
 ---
-title: "ナッシュ / ネシュ"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: ナッシュ / ネシュ
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /ja/terms/nash/
-date: "2026-07-18T10:52:47.616267Z"
-lastmod: "2026-07-18T11:44:45.014527Z"
+slug: nash
+date: '2026-07-18T10:52:47.616267Z'
+lastmod: '2026-07-18T11:44:45.014527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ナッシュ均衡を指し、ゲーム理論において他のプレイヤーが戦略を変えない場合、どのプレイヤーも戦略を変更することで利益を得られない状態。"
+source: agnes_llm
+status: published
+language: ja
+description: ナッシュ均衡を指し、ゲーム理論において他のプレイヤーが戦略を変えない場合、どのプレイヤーも戦略を変更することで利益を得られない状態。
 ---
-
 ## Definition
 
 特にマルチエージェントシステムや強化学習におけるAIでは、ナッシュ均衡とは、他のすべてのエージェントの戦略が与えられたとき、各エージェントの戦略が最適である安定した状態を記述します。単独のエージェントが戦略を変更しても利得が増加しない状態です。

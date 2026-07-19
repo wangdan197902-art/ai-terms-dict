@@ -1,23 +1,24 @@
 ---
-title: "Sınıf Aktivite Haritalaması"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Sınıf Aktivite Haritalaması
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /tr/terms/class_activation_mapping/
-date: "2026-07-18T15:45:01.348773Z"
-lastmod: "2026-07-18T16:38:07.282339Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:45:01.348773Z'
+lastmod: '2026-07-18T16:38:07.282339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sınıf aktivite haritalaması (CAM), belirli bir tahmin edilen sınıf için en sorumlu olan girdi görüntüsündeki bölgeleri vurgulayan bir görselleştirme tekniğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Sınıf aktivite haritalaması (CAM), belirli bir tahmin edilen sınıf için
+  en sorumlu olan girdi görüntüsündeki bölgeleri vurgulayan bir görselleştirme tekniğidir.
 ---
-
 ## Definition
 
 CAM, modelin belirli bir sınıf etiketi için kararında en çok katkıda bulunan pikselleri göstermek için girdi görüntülerinin üzerine ısı haritaları oluşturur. Son katman

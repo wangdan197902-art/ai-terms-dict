@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /ro/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:52:13.995461Z"
 lastmod: "2026-07-18T17:15:09.643508Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Setul de date Quora Question Pairs utilizat pentru antrenarea modelelor de detectare a similarității semantice între întrebări."
 ---
-
 ## Definition
 
 Quora Question Pairs (QQP) este un set de date de clasificare binară care conține peste 400.000 de perechi de întrebări de pe platforma Quora. Sarcina este de a determina dacă două întrebări au același scop sau...

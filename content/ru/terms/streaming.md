@@ -1,23 +1,24 @@
 ---
-title: "Потоковая обработка"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Потоковая обработка
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /ru/terms/streaming/
-date: "2026-07-18T16:17:07.932431Z"
-lastmod: "2026-07-18T16:38:07.205845Z"
+slug: streaming
+date: '2026-07-18T16:17:07.932431Z'
+lastmod: '2026-07-18T16:38:07.205845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма обработки данных, при которой информация непрерывно обрабатывается небольшими порциями по мере поступления, а не большими статичными пакетами."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма обработки данных, при которой информация непрерывно обрабатывается
+  небольшими порциями по мере поступления, а не большими статичными пакетами.
 ---
-
 ## Definition
 
 Потоковая обработка подразумевает непрерывный прием и обработку данных в реальном или близком к реальному времени по мере их генерации. В отличие от пакетной обработки, которая работает с фиксированными наборами данных, системы потоковой обработки управляют бесконечными

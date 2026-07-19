@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /pl/terms/gaussian/
 date: "2026-07-18T15:25:48.264289Z"
 lastmod: "2026-07-18T17:15:08.812004Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dotyczący rozkładu normalnego, krzywej dzwonowej fundamentalnej dla statystyki i modelowania szumu w AI."
 ---
-
 ## Definition
 
 Gaussowski odnosi się do rozkładu normalnego, ciągłego rozkładu prawdopodobieństwa charakteryzującego się średnią i wariancją. W AI jest szeroko stosowany w modelowaniu probabilistycznym, wnioskowaniu Bayesowskim oraz inicjalizacji wag.

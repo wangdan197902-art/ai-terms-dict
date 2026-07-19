@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /fi/terms/multilingual/
 date: "2026-07-18T16:11:55.054764Z"
 lastmod: "2026-07-18T17:15:09.437023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monikielisyys tekoälyssä viittaa malleihin, jotka pystyvät käsittelemään, ymmärtämään tai tuottamaan sisältöä useilla luonnollisilla kielillä."
 ---
-
 ## Definition
 
 Monikielisiä malleja on suunniteltu käsittelemään monipuolisia kielellisiä syötteitä ilman, että jokaiselle kielelle tarvitaan erillistä mallia. Nämä järjestelmät käyttävät tyypillisesti jaettuja upotuksia tai kielien välistä sovittamista t

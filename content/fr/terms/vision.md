@@ -1,23 +1,24 @@
 ---
-title: "Vision"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Vision
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /fr/terms/vision/
-date: "2026-07-18T11:02:04.880264Z"
-lastmod: "2026-07-18T11:44:45.190640Z"
+slug: vision
+date: '2026-07-18T11:02:04.880264Z'
+lastmod: '2026-07-18T11:44:45.190640Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La vision par ordinateur est le domaine de l'IA axé sur la capacité des ordinateurs à interpréter et comprendre les informations visuelles du monde."
+source: agnes_llm
+status: published
+language: fr
+description: La vision par ordinateur est le domaine de l'IA axé sur la capacité des
+  ordinateurs à interpréter et comprendre les informations visuelles du monde.
 ---
-
 ## Definition
 
 La vision par ordinateur (Computer Vision) est une branche de l'intelligence artificielle qui entraîne les ordinateurs à extraire des informations significatives à partir d'images numériques, de vidéos et d'autres entrées visuelles. Elle implique le développement d'algorithmes

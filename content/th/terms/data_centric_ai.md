@@ -1,23 +1,24 @@
 ---
-title: "ปัญญาประดิษฐ์เชิงข้อมูล"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: ปัญญาประดิษฐ์เชิงข้อมูล
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /th/terms/data_centric_ai/
-date: "2026-07-18T15:47:50.493144Z"
-lastmod: "2026-07-18T16:38:07.592216Z"
+slug: data_centric_ai
+date: '2026-07-18T15:47:50.493144Z'
+lastmod: '2026-07-18T16:38:07.592216Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทางในการพัฒนาปัญญาประดิษฐ์ที่ให้ความสำคัญกับการปรับปรุงคุณภาพและปริมาณข้อมูลฝึกฝน มากกว่าการปรับเปลี่ยนสถาปัตยกรรมของโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: แนวทางในการพัฒนาปัญญาประดิษฐ์ที่ให้ความสำคัญกับการปรับปรุงคุณภาพและปริมาณข้อมูลฝึกฝน
+  มากกว่าการปรับเปลี่ยนสถาปัตยกรรมของโมเดล
 ---
-
 ## Definition
 
 ปัญญาประดิษฐ์เชิงข้อมูล (Data-centric AI) แทนการเปลี่ยนกระบวนทัศน์ในการพัฒนาปัญญาประดิษฐ์ โดยมุ่งเน้นไปที่การปรับปรุงข้อมูลที่ใช้ฝึกโมเดลอย่างเป็นระบบ แทนที่จะพึ่งพาเพียงการปรับแต่งอัลกอริทึมหรือไฮเปอร์พารามิเตอร์ของโมเดลเท่านั้น แนวทางนี้เชื่อว่าคุณภาพของข้อมูลเป็นปัจจัยหลักที่กำหนดความสำเร็จของระบบ AI

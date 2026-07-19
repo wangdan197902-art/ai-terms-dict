@@ -1,23 +1,24 @@
 ---
-title: "이글(Eagle)"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: 이글(Eagle)
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /ko/terms/eagle/
-date: "2026-07-18T15:54:09.943521Z"
-lastmod: "2026-07-18T16:38:06.835328Z"
+slug: eagle
+date: '2026-07-18T15:54:09.943521Z'
+lastmod: '2026-07-18T16:38:06.835328Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "이글(Eagle)은 ByteDance에서 개발한 고성능 오픈소스 대규모 언어 모델(LLM) 프레임워크로, LLM의 효율적인 사전 훈련과 파인튜닝을 위해 설계되었습니다."
+source: agnes_llm
+status: published
+language: ko
+description: 이글(Eagle)은 ByteDance에서 개발한 고성능 오픈소스 대규모 언어 모델(LLM) 프레임워크로, LLM의 효율적인
+  사전 훈련과 파인튜닝을 위해 설계되었습니다.
 ---
-
 ## Definition
 
 이글(Eagle)은 대규모 언어 모델(Large Language Models) 영역에서 특정 아키텍처 및 엔지니어링 프레임워크를 나타내며, 주로 훈련 효율성과 확장성 최적화와 관련이 있습니다. 이 프레임워크는 모델 학습 과정에서의 자원 사용 최적화와 대규모 데이터 처리 능력을 강조합니다.

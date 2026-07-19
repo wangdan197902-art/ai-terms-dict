@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /tr/terms/semi_supervised_learning/
 date: "2026-07-18T16:13:42.769971Z"
 lastmod: "2026-07-18T16:38:07.363858Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Model doğruluğunu ve genelleştirme yeteneğini artırmak için hem etiketli hem de etiketsiz verileri kullanan bir makine öğrenimi yaklaşımı."
 ---
-
 ## Definition
 
 Yarı denetimli öğrenme, az miktarda etiketli veriyi büyük hacimli etiketsiz veriyle birlikte kullanan hibrit bir eğitim paradigmasıdır. Temel varsayım, etiketsiz verinin yapısının (manifold'un) öğrenmeye yardımcı olmasıdır.

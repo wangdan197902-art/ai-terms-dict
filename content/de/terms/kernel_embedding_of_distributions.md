@@ -1,23 +1,25 @@
 ---
-title: "Kernel-Einbettung von Verteilungen"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Kernel-Einbettung von Verteilungen
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /de/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T11:20:16.151444Z"
-lastmod: "2026-07-18T11:44:44.954312Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T11:20:16.151444Z'
+lastmod: '2026-07-18T11:44:44.954312Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik, die Wahrscheinlichkeitsverteilungen in einen reproduzierenden Kern-Hilbertraum abbildet, um Vergleiche und Manipulationen durch Vektoroperationen zu ermöglichen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik, die Wahrscheinlichkeitsverteilungen in einen reproduzierenden
+  Kern-Hilbertraum abbildet, um Vergleiche und Manipulationen durch Vektoroperationen
+  zu ermöglichen.
 ---
-
 ## Definition
 
 Die Kernel-Einbettung von Verteilungen ermöglicht es, probabilistische Objekte als Punkte in einem hochdimensionalen Merkmalsraum, dem sogenannten reproduzierenden Kern-Hilbertraum (RKHS), zu behandeln. Durch die Abbildung von Verteilungen auf

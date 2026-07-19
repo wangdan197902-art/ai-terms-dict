@@ -7,8 +7,6 @@ tags: ["workflow", "process"]
 difficulty: 1
 weight: 1
 slug: "finally"
-aliases:
-  - /pl/terms/finally/
 date: "2026-07-18T15:25:34.993184Z"
 lastmod: "2026-07-18T17:15:08.811354Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W przepływach pracy AI termin 'końcowy' oznacza ostatni krok lub fazę generowania wyniku po zakończeniu wszystkich etapów przetwarzania."
 ---
-
 ## Definition
 
 Koncept 'końcowego etapu' reprezentuje terminalną fazę w potoku AI, gdzie przetworzone dane dają ostateczny wynik, taki jak predykcja, klasyfikacja lub wygenerowany tekst. Oznacza to koniec procesu obliczeniowego.

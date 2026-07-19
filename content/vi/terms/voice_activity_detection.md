@@ -1,23 +1,25 @@
 ---
-title: "Phát hiện hoạt động giọng nói"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: Phát hiện hoạt động giọng nói
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /vi/terms/voice_activity_detection/
-date: "2026-07-18T16:16:00.808367Z"
-lastmod: "2026-07-18T16:38:07.815946Z"
+slug: voice_activity_detection
+date: '2026-07-18T16:16:00.808367Z'
+lastmod: '2026-07-18T16:38:07.815946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Phát hiện hoạt động giọng nói (VAD) là một kỹ thuật xử lý tín hiệu dùng để xác định các đoạn âm thanh chứa lời nói của con người so với sự im lặng hoặc nhiễu."
+source: agnes_llm
+status: published
+language: vi
+description: Phát hiện hoạt động giọng nói (VAD) là một kỹ thuật xử lý tín hiệu dùng
+  để xác định các đoạn âm thanh chứa lời nói của con người so với sự im lặng hoặc
+  nhiễu.
 ---
-
 ## Definition
 
 Các thuật toán VAD phân tích luồng âm thanh theo thời gian thực để phân biệt giữa các khoảng thời gian có lời nói đang hoạt động và các khoảng không phải lời nói như tiếng ồn nền hoặc khoảng lặng. Điều này rất quan trọng để tối ưu hóa băng thông trong truyền thông.

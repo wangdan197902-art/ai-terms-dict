@@ -1,23 +1,23 @@
 ---
-title: "퍼스트오더(First-order)"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: 퍼스트오더(First-order)
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /ko/terms/first_order/
-date: "2026-07-18T15:31:36.908045Z"
-lastmod: "2026-07-18T16:38:06.788955Z"
+slug: first_order
+date: '2026-07-18T15:31:36.908045Z'
+lastmod: '2026-07-18T16:38:06.788955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "직접적인 관계나 선형 근사를 포함하는 개념을 지칭하며, 예를 들어 퍼스트오더 논리나 퍼스트오더 미분 등을 포함합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 직접적인 관계나 선형 근사를 포함하는 개념을 지칭하며, 예를 들어 퍼스트오더 논리나 퍼스트오더 미분 등을 포함합니다.
 ---
-
 ## Definition
 
 인공지능과 수학에서 '퍼스트오더'는 일반적으로 고차 상호작용 없이 직접적이고 선형적인 관계를 다루는 시스템이나 연산을 설명합니다. 최적화 관점에서 퍼스트오더 방법은 함수의 기울기(1계 도함수)만을 사용하여 목적 함수를 최소화하는 방향으로 매개변수를 업데이트합니다.

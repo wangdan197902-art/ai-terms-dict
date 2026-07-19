@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /it/terms/moral_outsourcing/
 date: "2026-07-18T16:11:41.515331Z"
 lastmod: "2026-07-18T17:15:08.650711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La preoccupazione etica in cui individui o organizzazioni delegano le responsabilità decisionali morali a sistemi di IA automatizzati."
 ---
-
 ## Definition
 
 La deliberazione morale esterna si riferisce al fenomeno in cui gli umani cedono il giudizio etico e la responsabilità ad algoritmi o sistemi di IA. Ciò avviene quando le persone si affidano a decisioni automatizzate per questioni moralmente significan

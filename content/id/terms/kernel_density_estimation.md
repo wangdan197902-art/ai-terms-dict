@@ -1,23 +1,24 @@
 ---
-title: "Kernel density estimation"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel density estimation
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /id/terms/kernel_density_estimation/
-date: "2026-07-18T15:56:36.565629Z"
-lastmod: "2026-07-18T16:38:07.473054Z"
+slug: kernel_density_estimation
+date: '2026-07-18T15:56:36.565629Z'
+lastmod: '2026-07-18T16:38:07.473054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Metode non-parametrik yang digunakan untuk memperkirakan fungsi kepadatan probabilitas dari variabel acak berdasarkan sampel data terbatas."
+source: agnes_llm
+status: published
+language: id
+description: Metode non-parametrik yang digunakan untuk memperkirakan fungsi kepadatan
+  probabilitas dari variabel acak berdasarkan sampel data terbatas.
 ---
-
 ## Definition
 
 Kernel Density Estimation (KDE) adalah teknik statistik fundamental yang menghaluskan titik-titik data diskrit untuk menciptakan kurva distribusi probabilitas kontinu. Metode ini menempatkan fungsi kernel, biasanya Gaussian

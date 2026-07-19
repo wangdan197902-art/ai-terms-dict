@@ -1,23 +1,24 @@
 ---
-title: "Robotica evolutiva dello sviluppo"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: Robotica evolutiva dello sviluppo
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /it/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:58:57.465505Z"
-lastmod: "2026-07-18T17:15:08.623969Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:58:57.465505Z'
+lastmod: '2026-07-18T17:15:08.623969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un sottocampo della robotica che combina algoritmi evolutivi con processi di sviluppo per progettare morfologie e sistemi di controllo dei robot."
+source: agnes_llm
+status: published
+language: it
+description: Un sottocampo della robotica che combina algoritmi evolutivi con processi
+  di sviluppo per progettare morfologie e sistemi di controllo dei robot.
 ---
-
 ## Definition
 
 Ispirata dall'ontogenesi biologica, la robotica ED esplora come comportamenti complessi e strutture fisiche emergano nel tempo attraverso l'interazione con l'ambiente, piuttosto che essere codificate rigidamente. Utilizza algoritmi evolutivi...

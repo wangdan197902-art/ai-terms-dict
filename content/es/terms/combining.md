@@ -1,23 +1,24 @@
 ---
-title: "Combinación"
-term_id: "combining"
-category: "basic_concepts"
-subcategory: ""
-tags: ["techniques", "optimization", "architecture"]
+title: Combinación
+term_id: combining
+category: basic_concepts
+subcategory: ''
+tags:
+- techniques
+- Optimization
+- architecture
 difficulty: 2
 weight: 1
-slug: "combining"
-aliases:
-  - /es/terms/combining/
-date: "2026-07-18T10:21:35.951753Z"
-lastmod: "2026-07-18T11:44:44.737326Z"
+slug: combining
+date: '2026-07-18T10:21:35.951753Z'
+lastmod: '2026-07-18T11:44:44.737326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La combinación en IA se refiere a la integración de múltiples modelos, fuentes de datos o técnicas para mejorar el rendimiento general y la robustez."
+source: agnes_llm
+status: published
+language: es
+description: La combinación en IA se refiere a la integración de múltiples modelos,
+  fuentes de datos o técnicas para mejorar el rendimiento general y la robustez.
 ---
-
 ## Definition
 
 Este concepto abarca métodos como el aprendizaje por conjuntos, donde se agregan las predicciones de varios modelos para reducir la varianza o el sesgo. También incluye la fusión multimodal, donde se combinan diferentes tipos de datos (como texto e imagen).

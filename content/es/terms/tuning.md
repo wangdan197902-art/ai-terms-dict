@@ -1,23 +1,24 @@
 ---
-title: "Ajuste"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Ajuste
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /es/terms/tuning/
-date: "2026-07-18T10:27:24.144474Z"
-lastmod: "2026-07-18T11:44:44.753979Z"
+slug: tuning
+date: '2026-07-18T10:27:24.144474Z'
+lastmod: '2026-07-18T11:44:44.753979Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de ajustar hiperparámetros o pesos del modelo para optimizar el rendimiento en un conjunto de datos o tarea específicos."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de ajustar hiperparámetros o pesos del modelo para optimizar
+  el rendimiento en un conjunto de datos o tarea específicos.
 ---
-
 ## Definition
 
 El ajuste implica refinar un modelo de aprendizaje automático para lograr mejor precisión o eficiencia. Puede referirse al ajuste de hiperparámetros, donde se optimizan configuraciones como la tasa de aprendizaje o el tamaño del lote, o al afin

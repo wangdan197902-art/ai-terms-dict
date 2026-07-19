@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /ro/terms/mxfp4/
-date: "2026-07-18T16:13:21.747395Z"
-lastmod: "2026-07-18T17:15:09.685241Z"
+slug: mxfp4
+date: '2026-07-18T16:13:21.747395Z'
+lastmod: '2026-07-18T17:15:09.685241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "MXFP4 este un format de punct flotant cu precizie mixtă, optimizat pentru înmulțirea matricială eficientă în acceleratoarele hardware AI."
+source: agnes_llm
+status: published
+language: ro
+description: MXFP4 este un format de punct flotant cu precizie mixtă, optimizat pentru
+  înmulțirea matricială eficientă în acceleratoarele hardware AI.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) este un format de tip de date specializat introdus pentru a optimiza performanța și a reduce utilizarea lățimii de bandă a memoriei în sarcinile de lucru AI. Permițând operații cu precizie mixtă

@@ -1,23 +1,24 @@
 ---
-title: "Domæne"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domæne
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /da/terms/domain/
-date: "2026-07-18T15:24:21.641805Z"
-lastmod: "2026-07-18T17:15:09.222313Z"
+slug: domain
+date: '2026-07-18T15:24:21.641805Z'
+lastmod: '2026-07-18T17:15:09.222313Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et domæne repræsenterer en specifik kontekst eller datadistribution, der er kendetegnet ved sit funktionsrum og den underliggende sandsynlighedsfordeling."
+source: agnes_llm
+status: published
+language: da
+description: Et domæne repræsenterer en specifik kontekst eller datadistribution,
+  der er kendetegnet ved sit funktionsrum og den underliggende sandsynlighedsfordeling.
 ---
-
 ## Definition
 
 Inden for maskinlæring, især inden for overførselslæring, er et domæne defineret ved to komponenter: funktionsrummet (mængden af alle mulige input) og den marginale sandsynlighedsfordeling af disse input.

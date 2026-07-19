@@ -7,8 +7,6 @@ tags: ["agents", "robotics", "automation"]
 difficulty: 3
 weight: 1
 slug: "autonomous_agent"
-aliases:
-  - /pl/terms/autonomous_agent/
 date: "2026-07-18T15:42:35.487243Z"
 lastmod: "2026-07-18T17:15:08.849094Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Agent autonomiczny to system zdolny do postrzegania swojego otoczenia i działania niezależnie w celu osiągnięcia określonych celów, bez bezpośredniej interwencji człowieka."
 ---
-
 ## Definition
 
 W sztucznej inteligencji agent autonomiczny to encja działająca niezależnie w ramach środowiska. Wykorzystuje sensory do postrzegania stanów oraz aktory do wykonywania działań, kierując się wewnętrznymi celami i logiką decyzyjną.

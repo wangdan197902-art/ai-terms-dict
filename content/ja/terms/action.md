@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /ja/terms/action/
 date: "2026-07-18T10:48:23.560979Z"
 lastmod: "2026-07-18T11:44:45.001519Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "エージェントが環境に影響を与えるために実行する操作。"
 ---
-
 ## Definition
 
 人工知能およびロボティクスにおいて、アクションとは、知的エージェントが環境と相互作用するために取る特定のステップまたは意思決定を指します。アクションは現在の状態に基づいて選択されます。

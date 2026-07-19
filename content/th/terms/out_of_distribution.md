@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /th/terms/out_of_distribution/
 date: "2026-07-18T15:33:52.352513Z"
 lastmod: "2026-07-18T16:38:07.556773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "จุดข้อมูลที่มีความแตกต่างอย่างมากจากการกระจายข้อมูลที่โมเดลเคยเห็นในช่วงเวลาการฝึกฝน"
 ---
-
 ## Definition
 
 การตรวจจับเอาต์ออฟดิสนิวชัน (OOD) ระบุอินพุตที่อยู่นอกขอบเขตของการกระจายข้อมูลการฝึกฝน โมเดลมักจะมีประสิทธิภาพต่ำหรือทำนายอย่างมั่นใจผิดๆ เมื่อเผชิญกับข้อมูล OOD ซึ่งนำไปสู่ความไม่ปลอดภัย

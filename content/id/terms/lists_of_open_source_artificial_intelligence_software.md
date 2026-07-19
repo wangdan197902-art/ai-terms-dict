@@ -1,23 +1,24 @@
 ---
-title: "Daftar perangkat lunak kecerdasan buatan sumber terbuka"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: Daftar perangkat lunak kecerdasan buatan sumber terbuka
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /id/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T15:58:12.199954Z"
-lastmod: "2026-07-18T16:38:07.478010Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T15:58:12.199954Z'
+lastmod: '2026-07-18T16:38:07.478010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Koleksi atau direktori terkurasi yang mengatalogkan alat, pustaka, dan kerangka kerja AI yang tersedia secara publik."
+source: agnes_llm
+status: published
+language: id
+description: Koleksi atau direktori terkurasi yang mengatalogkan alat, pustaka, dan
+  kerangka kerja AI yang tersedia secara publik.
 ---
-
 ## Definition
 
 Ini merujuk pada repositori terorganisir, seperti topik GitHub, daftar Awesome (Awesome lists), atau wiki yang dikelola komunitas, yang mengumpulkan perangkat lunak sumber terbuka terkait kecerdasan buatan. Daftar ini berfungsi sebagai sumber daya penting untuk penemuan alat.

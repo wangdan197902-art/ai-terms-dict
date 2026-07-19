@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /id/terms/encoder/
 date: "2026-07-18T15:34:15.539809Z"
 lastmod: "2026-07-18T16:38:07.413053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Encoder adalah komponen jaringan saraf yang mengubah data input menjadi representasi yang terkompresi dan bermakna."
 ---
-
 ## Definition
 
 Encoder memproses urutan atau struktur data mentah dan mengubahnya menjadi representasi ruang laten, sering disebut sebagai embedding atau kode. Encoder merupakan pusat arsitektur seperti Transformer dan Autoencoder.

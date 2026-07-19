@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /pl/terms/docker/
 date: "2026-07-18T15:35:03.225260Z"
 lastmod: "2026-07-18T17:15:08.831279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Docker to platforma do tworzenia, dystrybucji i uruchamiania aplikacji w lekkich, przenośnych kontenerach."
 ---
-
 ## Definition
 
 Docker umożliwia programistom pakowanie aplikacji wraz ze wszystkimi jej zależnościami do znormalizowanej jednostki służącej do rozwoju oprogramowania. Kontenery te izolują oprogramowanie od środowiska, zapewniając spójność działania na różnych maszynach.

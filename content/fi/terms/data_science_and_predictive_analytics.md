@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /fi/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:50:44.390571Z"
 lastmod: "2026-07-18T17:15:09.396789Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tämä ala yhdistää tilastollisen analyysin ja koneoppimisen johtopäätösten tekemiseen datasta ja tulevien tapahtumien tai käyttäytymisten ennustamiseen."
 ---
-
 ## Definition
 
 Data science sisältää monialaisen prosessin tiedon keräämiseksi rakenteellisesta ja rakenteettomasta datasta, kun taas ennakoiva analytiikka keskittyy nimenomaan historiallisen datan käyttöön tulevaisuuden

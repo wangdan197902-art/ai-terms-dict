@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้ของเครื่องเชิงควอนตัม"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: การเรียนรู้ของเครื่องเชิงควอนตัม
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /th/terms/quantum_machine_learning/
-date: "2026-07-18T16:12:26.363501Z"
-lastmod: "2026-07-18T16:38:07.647112Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:12:26.363501Z'
+lastmod: '2026-07-18T16:38:07.647112Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเรียนรู้ของเครื่องเชิงควอนตัมเป็นการผสมผสานระหว่างการคำนวณเชิงควอนตัมกับอัลกอริทึมการเรียนรู้ของเครื่อง เพื่อแก้ปัญหาได้เร็วขึ้นหรือมีประสิทธิภาพมากขึ้น"
+source: agnes_llm
+status: published
+language: th
+description: การเรียนรู้ของเครื่องเชิงควอนตัมเป็นการผสมผสานระหว่างการคำนวณเชิงควอนตัมกับอัลกอริทึมการเรียนรู้ของเครื่อง
+  เพื่อแก้ปัญหาได้เร็วขึ้นหรือมีประสิทธิภาพมากขึ้น
 ---
-
 ## Definition
 
 การเรียนรู้ของเครื่องเชิงควอนตัม (QML) เป็นสหสาขาวิชาที่กำลังเกิดขึ้นซึ่งบูรณาการความสามารถของการคำนวณเชิงควอนตัมเข้ากับเทคนิคการเรียนรู้ของเครื่อง มีเป้าหมายเพื่อใช้ประโยชน์จากปรากฏการณ์ควอนตัมเช่น การ纠缠 (entanglement) และ superposition เพื่อเพิ่มประสิทธิภาพการคำนวณ

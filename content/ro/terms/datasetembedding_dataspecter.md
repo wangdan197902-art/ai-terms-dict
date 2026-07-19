@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /ro/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:52:22.771610Z"
 lastmod: "2026-07-18T17:15:09.643854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date la scară largă bazat pe publicații și citări din domeniul Informaticii, conceput pentru antrenarea modelelor de încorporare a articolelor academice."
 ---
-
 ## Definition
 
 Setul de date Specter este construit dintr-o colecție vastă de articole de Informatică, utilizând rețele de citare pentru a crea semnale de învățare supravegheată. Acesta asociază rezumatele cu articolele care le citează pentru

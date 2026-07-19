@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /pl/terms/statistical_learning_theory/
 date: "2026-07-18T16:19:27.351498Z"
 lastmod: "2026-07-18T17:15:08.921127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Matematyczny framework, który dostarcza teoretycznych podstaw dla algorytmów uczenia maszynowego poprzez analizę ich zdolności do uogólniania."
 ---
-
 ## Definition
 
 Teoria uczenia statystycznego (SLT) to dział statystyki i informatyki badający, w jaki sposób konkretne algorytmy mogą uogólniać wnioski z skończonych próbek treningowych na dane niewidziane wcześniej. Skupia się ona na wyznaczaniu ograniczeń

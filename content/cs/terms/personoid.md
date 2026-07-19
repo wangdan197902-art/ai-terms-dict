@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /cs/terms/personoid/
 date: "2026-07-18T16:12:40.114128Z"
 lastmod: "2026-07-18T17:15:09.189180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Humanoidní robot nebo softwarový agent navržený tak, aby napodoboval lidskou fyzickou podobu nebo konverzační styl za účelem usnadnění přirozené interakce."
 ---
-
 ## Definition
 
 Personoid je entita, buď robotická, nebo virtuální, konstruovaná tak, aby připomínala nebo se chovala jako člověk. V robotice to zahrnuje fyzickou antropomorfizaci, zatímco v AI často odkazuje na chatboty nebo vi

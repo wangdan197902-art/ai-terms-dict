@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /ja/terms/llm/
 date: "2026-07-18T10:52:09.964047Z"
 lastmod: "2026-07-18T11:44:45.011979Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "膨大なテキストコーパスで学習し、人間のような言語を理解・生成する深層学習モデル。"
 ---
-
 ## Definition
 
 大規模言語モデル（LLM）は、トランスフォーマーアーキテクチャに基づく高度な人工知能システムであり、テキストやコードの巨大なデータセットで学習します。これらは言語内の統計的パターンを学習します。

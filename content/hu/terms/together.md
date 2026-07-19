@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /hu/terms/together/
 date: "2026-07-18T15:33:22.470449Z"
 lastmod: "2026-07-18T17:15:09.731902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az együttműködés általában olyan együttműködő AI-rendszerekre vagy tanszemléleti módszerekre utal, ahol több modell vagy ügynök koordináltan dolgozik egy közös eredmény elérése érdekében."
 ---
-
 ## Definition
 
 Bár nem szigorú technikai kifejezés, az AI kontextusban az 'együtt' gyakran az együttműködést implikálja, például többügynökös rendszereket, amelyek egy közös cél felé törekszenek, vagy az ensemble tanulás (több modell kombinálása) esetét, ahol a modellek eredményeit egyesítik a pontosság növelése érdekében.

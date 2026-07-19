@@ -1,23 +1,24 @@
 ---
-title: "Effet IA"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: Effet IA
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /fr/terms/ai_effect/
-date: "2026-07-18T11:02:59.236708Z"
-lastmod: "2026-07-18T11:44:45.192428Z"
+slug: ai_effect
+date: '2026-07-18T11:02:59.236708Z'
+lastmod: '2026-07-18T11:44:45.192428Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le phénomène selon lequel les tâches autrefois considérées comme intelligentes sont perçues comme banales une fois automatisées par des machines."
+source: agnes_llm
+status: published
+language: fr
+description: Le phénomène selon lequel les tâches autrefois considérées comme intelligentes
+  sont perçues comme banales une fois automatisées par des machines.
 ---
-
 ## Definition
 
 L'effet IA décrit le déplacement de la frontière définissant ce qui constitue l'« intelligence artificielle ». À mesure que les algorithmes deviennent plus sophistiqués et capables d'exécuter des tâches spécifiques, ces tâches sont souvent requalifiées en simples automatisations, perdant ainsi leur statut de « pensée » aux yeux du public.

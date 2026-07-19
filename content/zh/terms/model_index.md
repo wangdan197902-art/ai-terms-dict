@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /zh/terms/model_index/
 date: "2026-07-18T11:26:24.857451Z"
 lastmod: "2026-07-18T11:44:45.533237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "模型索引是 Hugging Face Hub 用于描述和组织模型组件及配置的元数据文件。"
 ---
-
 ## Definition
 
 索引文件（通常名为 'model_index.json'）包含有关模型架构的结构化信息，包括管道类型、子模型和配置路径。它使 Hub 能够正确协调多组件模型的加载。

@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /ro/terms/constitutional_ai/
 date: "2026-07-18T15:50:32.237617Z"
 lastmod: "2026-07-18T17:15:09.639414Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O metodă de antrenare a modelelor de IA pentru a respecta ghiduri de siguranță prin auto-critică bazată pe un set predefinit de principii."
 ---
-
 ## Definition
 
 IA Constituțională este un cadru pentru alinierea modelelor mari de limbaj cu valorile umane fără a se baza exclusiv pe feedback-ul uman pentru fiecare pas. Implică crearea unei 'constituții' de principii de nivel înalt pe care modelul le folosește pentru a-și evalua și corecta propriile răspunsuri.

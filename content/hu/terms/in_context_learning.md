@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /hu/terms/in_context_learning/
 date: "2026-07-18T15:23:10.444315Z"
 lastmod: "2026-07-18T17:15:09.714526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy technika, ahol a modellek a promptban megadott példák megfigyelésével tanulnak meg feladatokat elvégezni."
 ---
-
 ## Definition
 
 A kontextuson belüli tanulás (ICL) lehetővé teszi a nagy nyelvi modellek számára, hogy új feladatokhoz igazodjanak súlyaik frissítése nélkül. Bemenet-kimenet párok biztosítása a prompt kontextusán belül lehetővé teszi a modell számára, hogy...

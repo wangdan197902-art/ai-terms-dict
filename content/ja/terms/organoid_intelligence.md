@@ -1,23 +1,23 @@
 ---
-title: "オーガノイドインテリジェンス"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: オーガノイドインテリジェンス
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /ja/terms/organoid_intelligence/
-date: "2026-07-18T11:26:28.472550Z"
-lastmod: "2026-07-18T11:44:45.128758Z"
+slug: organoid_intelligence
+date: '2026-07-18T11:26:28.472550Z'
+lastmod: '2026-07-18T11:44:45.128758Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "情報処理のために生きた脳細胞と電子インターフェースを統合するハイブリッドコンピューティングのパラダイム。"
+source: agnes_llm
+status: published
+language: ja
+description: 情報処理のために生きた脳細胞と電子インターフェースを統合するハイブリッドコンピューティングのパラダイム。
 ---
-
 ## Definition
 
 オーガノイドインテリジェンス（OI）とは、ヒト由来の脳オーガノイド（臓器様組織）をマイクロ電極アレイ上で培養し、生物学的ニューラルネットワークと電子デバイスを結合したバイオハイブリッドシステムを開発する分野です。これらの生きた神経ネットワークは、従来のシリコンベースのコンピュータとは異なる方法で計算を行い、低消費電力での認知機能の実現や適応的な制御が可能になります。

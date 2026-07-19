@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /ro/terms/model_compression/
 date: "2026-07-18T16:12:14.610986Z"
 lastmod: "2026-07-18T17:15:09.682538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Compresia modelului se referă la tehnici care reduc dimensiunea și cerințele computaionale ale modelelor de învățare automată."
 ---
-
 ## Definition
 
 Această categorie include metode precum tăierea (pruning), cuantizarea și distilarea cunoștințelor, menite să micșoreze amprenta modelului păstrând performanța. Este esențială pentru implementarea modelelor AI complexe

@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /ko/terms/process/
 date: "2026-07-18T15:27:55.305879Z"
 lastmod: "2026-07-18T16:38:06.781547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "특정 계산 목표나 결과를 달성하기 위해 수행되는 구조화된 일련의 동작 또는 단계입니다."
 ---
-
 ## Definition
 
 AI 개발 내에서 프로세스는 원시 데이터를 실행 가능한 통찰력이나 모델로 변환하기 위해 필요한 체계적인 워크플로우를 지칭합니다. 여기에는 데이터 흡수, 전처리, 특징 공학, 모델 훈련 및 평가 등의 단계가 포함됩니다.

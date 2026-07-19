@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /it/terms/offline_learning/
 date: "2026-07-18T16:13:24.155752Z"
 lastmod: "2026-07-18T17:15:08.655127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'apprendimento offline è un paradigma di addestramento in cui i modelli vengono addestrati su dataset statici senza interagire con l'ambiente live durante la fase di apprendimento."
 ---
-
 ## Definition
 
 Noto anche come apprendimento in batch, l'apprendimento offline prevede l'addestramento di modelli di apprendimento automatico su un dataset fisso raccolto in precedenza. A differenza dell'apprendimento online, il modello non aggiorna i suoi parametri in

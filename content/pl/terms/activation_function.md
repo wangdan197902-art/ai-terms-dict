@@ -1,23 +1,25 @@
 ---
-title: "Funkcja aktywacji"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Funkcja aktywacji
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /pl/terms/activation_function/
-date: "2026-07-18T15:33:28.500625Z"
-lastmod: "2026-07-18T17:15:08.829306Z"
+slug: activation_function
+date: '2026-07-18T15:33:28.500625Z'
+lastmod: '2026-07-18T17:15:08.829306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Równanie matematyczne określające wyjście węzła sieci neuronowej na podstawie jej sygnału wejściowego."
+source: agnes_llm
+status: published
+language: pl
+description: Równanie matematyczne określające wyjście węzła sieci neuronowej na podstawie
+  jej sygnału wejściowego.
 ---
-
 ## Definition
 
 Funkcja aktywacji wprowadza nieliniowość do sieci neuronowej, umożliwiając jej naukę złożonych wzorców i zależności w danych. Bez tych funkcji wielowarstwowa sieć zachowywałaby się...

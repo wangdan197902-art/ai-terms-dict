@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /hu/terms/document_classification/
 date: "2026-07-18T15:57:38.683857Z"
 lastmod: "2026-07-18T17:15:09.777948Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A szöveges dokumentumok tartalmuk alapján előre meghatározott csoportokba sorolásának folyamata."
 ---
-
 ## Definition
 
 A dokumentumosztályozás egy alapvető természetes nyelvfeldolgozási feladat, ahol az algoritmusok címkéket rendelnek a strukturálatlan szöveges adatokhoz. Ez magában foglalja a jellemzők kinyerését a dokumentumokból és azok leképezését a megfelelő kategóriákra.

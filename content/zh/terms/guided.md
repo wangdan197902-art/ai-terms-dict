@@ -1,23 +1,23 @@
 ---
-title: "引导式"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: 引导式
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /zh/terms/guided/
-date: "2026-07-18T10:51:52.868976Z"
-lastmod: "2026-07-18T11:44:45.370499Z"
+slug: guided
+date: '2026-07-18T10:51:52.868976Z'
+lastmod: '2026-07-18T11:44:45.370499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "描述受特定外部信号、约束或中间目标限制或指导的AI过程或生成方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 描述受特定外部信号、约束或中间目标限制或指导的AI过程或生成方法。
 ---
-
 ## Definition
 
 AI中的“引导式”通常指模型行为受到主要输入之外的额外信息引导的技术。常见例子包括引导扩散（guided diffusion），其中类别信息用于...

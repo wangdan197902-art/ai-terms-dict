@@ -1,23 +1,23 @@
 ---
-title: "åpen kildekode"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: åpen kildekode
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /no/terms/open_source/
-date: "2026-07-18T15:35:27.634718Z"
-lastmod: "2026-07-18T16:38:06.954349Z"
+slug: open_source
+date: '2026-07-18T15:35:27.634718Z'
+lastmod: '2026-07-18T16:38:06.954349Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Programvare der kildekoden gjøres fritt tilgjengelig for bruk, modifisering og distribusjon av alle."
+source: agnes_llm
+status: published
+language: 'no'
+description: Programvare der kildekoden gjøres fritt tilgjengelig for bruk, modifisering
+  og distribusjon av alle.
 ---
-
 ## Definition
 
 Åpen kildekode refererer til en utviklingsmodell der den underliggende koden til et programvareprosjekt er offentlig tilgjengelig. Inne i AI lar dette forskere og utviklere inspisere, modifisere og redistribuere algoritmer

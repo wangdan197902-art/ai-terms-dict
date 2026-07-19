@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /pl/terms/edge_computing/
 date: "2026-07-18T15:52:56.855794Z"
 lastmod: "2026-07-18T17:15:08.869275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Obliczenia brzegowe to rozproszony paradygmat obliczeniowy, który przenosi przetwarzanie i przechowywanie danych bliżej ich źródeł, zamiast polegać wyłącznie na scentralizowanych serwerach chmurowych."
 ---
-
 ## Definition
 
 Obliczenia brzegowe rozwiązują problemy opóźnień i przepustowości charakterystyczne dla architektury opartej na chmurze, przetwarzając dane w miejscu ich generowania, np. w urządzeniach IoT, czujnikach lub lokalnych bramkach. W kontekście sztucznej inteligencji pozwala to na realizację wnioskowania (inference) w czasie rzeczywistym bez konieczności wysyłania danych do centrum danych.

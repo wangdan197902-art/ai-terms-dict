@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /en/terms/intelligent_automation/
 date: "2026-07-18T10:02:57.346561Z"
 lastmod: "2026-07-18T11:44:44.686455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The combination of artificial intelligence with robotic process automation to handle complex, unstructured business processes."
 ---
-
 ## Definition
 
 Intelligent automation integrates traditional Robotic Process Automation (RPA) with advanced AI technologies like machine learning and natural language processing. While RPA handles rule-based, structured tasks, intelligent automation enables systems to interpret unstructured data, make decisions, and adapt to variations. This synergy significantly enhances efficiency by automating end-to-end workflows that previously required human judgment or intervention.

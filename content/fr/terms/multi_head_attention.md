@@ -1,23 +1,25 @@
 ---
-title: "Attention multi-têtes"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Attention multi-têtes
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /fr/terms/multi_head_attention/
-date: "2026-07-18T10:52:00.887805Z"
-lastmod: "2026-07-18T11:44:45.167499Z"
+slug: multi_head_attention
+date: '2026-07-18T10:52:00.887805Z'
+lastmod: '2026-07-18T11:44:45.167499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un mécanisme dans les modèles transformateurs permettant au modèle de prêter attention à des informations provenant de différents sous-espaces de représentation simultanément."
+source: agnes_llm
+status: published
+language: fr
+description: Un mécanisme dans les modèles transformateurs permettant au modèle de
+  prêter attention à des informations provenant de différents sous-espaces de représentation
+  simultanément.
 ---
-
 ## Definition
 
 L'attention multi-têtes étend le mécanisme d'attention standard en l'exécutant plusieurs fois en parallèle avec différentes projections linéaires apprises. Cela permet au modèle de prêter conjointement attention à diverses informations.

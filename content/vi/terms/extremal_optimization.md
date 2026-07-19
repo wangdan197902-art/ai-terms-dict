@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /vi/terms/extremal_optimization/
 date: "2026-07-18T15:52:28.134614Z"
 lastmod: "2026-07-18T16:38:07.756474Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tối ưu hóa cực trị là một thuật toán tìm kiếm heuristic lấy cảm hứng từ tính tới hạn tự tổ chức, được thiết kế để giải quyết các bài toán tối ưu hóa tổ hợp bằng cách lặp đi lặp lại loại bỏ các thành p"
 ---
-
 ## Definition
 
 Khác với các thuật toán di truyền duy trì một quần thể, EO làm việc trên một giải pháp duy nhất. Nó xác định thành phần đóng góp ít nhất vào độ thích nghi tổng thể và thay thế nó bằng một lựa chọn ngẫu nhiên khác.

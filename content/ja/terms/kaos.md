@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /ja/terms/kaos/
 date: "2026-07-18T11:20:29.257225Z"
 lastmod: "2026-07-18T11:44:45.111788Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ポリシーベースの自動化を通じて、複雑で分散型のエンタープライズ環境を管理するために設計されたインテリジェントエージェントフレームワーク。"
 ---
-
 ## Definition
 
 KAoSは、大規模で分散型のエンタープライズシステムの複雑さを処理するために開発されたインテリジェントエージェントフレームワークです。これは、上位レベルの管理目標が下位レベルの実行アクションに変換されるポリシーベースのアプローチを利用します。

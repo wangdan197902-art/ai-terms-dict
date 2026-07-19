@@ -1,23 +1,24 @@
 ---
-title: "Entscheidungsfindung"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: Entscheidungsfindung
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /de/terms/decision_making/
-date: "2026-07-18T10:55:25.814488Z"
-lastmod: "2026-07-18T11:44:44.887750Z"
+slug: decision_making
+date: '2026-07-18T10:55:25.814488Z'
+lastmod: '2026-07-18T11:44:44.887750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der kognitive Prozess der Auswahl einer Handlungsalternative aus mehreren Möglichkeiten basierend auf verfügbaren Informationen."
+source: agnes_llm
+status: published
+language: de
+description: Der kognitive Prozess der Auswahl einer Handlungsalternative aus mehreren
+  Möglichkeiten basierend auf verfügbaren Informationen.
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz bezeichnet Entscheidungsfindung den algorithmischen Prozess, bei dem ein System potenzielle Handlungen anhand spezifischer Kriterien oder Ziele bewertet, um das optimale Ergebnis auszuwählen. Dies umfasst die Bewertung von Zuständen und die Maximierung des Nutzens.

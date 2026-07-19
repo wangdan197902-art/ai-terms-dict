@@ -1,23 +1,24 @@
 ---
-title: "عملية سيراتاتا دي أمور"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: عملية سيراتاتا دي أمور
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /ar/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:15:20.869464Z"
-lastmod: "2026-07-18T17:15:08.534337Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:15:20.869464Z'
+lastmod: '2026-07-18T17:15:08.534337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مبادرة للتكنولوجيا المدنية تستخدم التعلم الآلي للكشف عن الاحتيال في الإنفاق العام في البرازيل."
+source: agnes_llm
+status: published
+language: ar
+description: مبادرة للتكنولوجيا المدنية تستخدم التعلم الآلي للكشف عن الاحتيال في الإنفاق
+  العام في البرازيل.
 ---
-
 ## Definition
 
 تُعد عملية سيراتاتا دي أمور مشروعاً رائداً مفتوح المصدر يطبق الذكاء الاصطناعي لتحليل بيانات المشتريات العامة في البرازيل. ومن خلال استخدام معالجة اللغة الطبيعية واكتشاف الشذوذ، تهدف هذه المبادرة إلى تعزيز الشفافية المالية ومكافحة الفساد في القطاع العام.

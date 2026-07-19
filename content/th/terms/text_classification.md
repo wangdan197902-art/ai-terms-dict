@@ -1,23 +1,23 @@
 ---
-title: "การจำแนกประเภทข้อความ"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: การจำแนกประเภทข้อความ
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /th/terms/text_classification/
-date: "2026-07-18T16:17:33.203157Z"
-lastmod: "2026-07-18T16:38:07.660916Z"
+slug: text_classification
+date: '2026-07-18T16:17:33.203157Z'
+lastmod: '2026-07-18T16:38:07.660916Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการจัดหมวดหมู่ข้อความเข้าในกลุ่มที่จัดระเบียบไว้โดยพิจารณาจากเนื้อหาหรือความหมายเชิงความหมาย"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการจัดหมวดหมู่ข้อความเข้าในกลุ่มที่จัดระเบียบไว้โดยพิจารณาจากเนื้อหาหรือความหมายเชิงความหมาย
 ---
-
 ## Definition
 
 การจำแนกประเภทข้อความเป็นงานการเรียนรู้ภายใต้การดูแล (supervised learning) ที่อัลกอริทึมจะกำหนดหมวดหมู่ที่กำหนดไว้ล่วงหน้าให้กับข้อมูลข้อความที่ไม่มีโครงสร้าง เทคนิคทั่วไปได้แก่ Naive Bayes, Support Vector Machines และ Deep Learning

@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /vi/terms/ai_warfare/
 date: "2026-07-18T15:38:45.431627Z"
 lastmod: "2026-07-18T16:38:07.722331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc ứng dụng các công nghệ trí tuệ nhân tạo vào hoạt động quân sự, giám sát và hệ thống vũ khí tự hành."
 ---
-
 ## Definition
 
 Chiến tranh AI đề cập đến việc tích hợp trí tuệ nhân tạo vào các chiến lược quân sự, bao gồm máy bay không người lái tự hành, hậu cần dự đoán, phòng thủ mạng và các hệ thống hỗ trợ ra quyết định cho chỉ huy.

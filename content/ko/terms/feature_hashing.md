@@ -1,23 +1,23 @@
 ---
-title: "피처 해싱 (Feature Hashing)"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: 피처 해싱 (Feature Hashing)
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /ko/terms/feature_hashing/
-date: "2026-07-18T15:55:33.510356Z"
-lastmod: "2026-07-18T16:38:06.840086Z"
+slug: feature_hashing
+date: '2026-07-18T15:55:33.510356Z'
+lastmod: '2026-07-18T16:38:06.840086Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "고차원의 희소 피처를 해시 함수를 사용하여 고정 크기의 벡터로 매핑하는 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 고차원의 희소 피처를 해시 함수를 사용하여 고정 크기의 벡터로 매핑하는 기법입니다.
 ---
-
 ## Definition
 
 해시 트릭이라고도 불리는 피처 해싱은 머신러닝 모델이 피처와 인덱스 간의 명시적인 매핑 테이블을 유지하지 않고도 대규모 희소 피처 공간을 처리할 수 있게 해줍니다. 해시 함수를 적용함으로써 메모리 효율성을 높이고 차원 축소를 수행합니다.

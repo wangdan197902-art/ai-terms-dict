@@ -1,23 +1,24 @@
 ---
-title: "Robusti"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robusti
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /fi/terms/robust/
-date: "2026-07-18T15:30:43.071360Z"
-lastmod: "2026-07-18T17:15:09.358615Z"
+slug: robust
+date: '2026-07-18T15:30:43.071360Z'
+lastmod: '2026-07-18T17:15:09.358615Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kuvailee tekoälymallin tai -järjestelmän kykyä ylläpitää suorituskykyään melusta, virheistä tai odottamattomista syötteistä huolimatta."
+source: agnes_llm
+status: published
+language: fi
+description: Kuvailee tekoälymallin tai -järjestelmän kykyä ylläpitää suorituskykyään
+  melusta, virheistä tai odottamattomista syötteistä huolimatta.
 ---
-
 ## Definition
 
 Tekoälyssä robustisuus viittaa mallin kyvykkyyteen kestää vihollisia hyökkäyksiä, datan jakauman muutoksia tai meluisia syötteitä. Robusti algoritmi jatkaa toimintansa oikein vaikka syötedata olisi epätäydellistä tai häiriöitä sisältävää.

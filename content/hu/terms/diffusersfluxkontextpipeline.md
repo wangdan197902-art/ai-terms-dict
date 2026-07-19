@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /hu/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:56:37.109346Z"
 lastmod: "2026-07-18T17:15:09.776343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy specializált vezeték a Diffusers könyvtárban, amely a Flux modellek számára készült, és lehetővé teszi a kontextustudatos képgenerálást fokozott időbeli vagy térbeli koherenciával."
 ---
-
 ## Definition
 
 Ez a vezeték kihasználja a Flux architektúrát, amely magas minőségű képszintéziséről ismert, a Diffusers keretrendszeren belül. Támogatja a kontextusmechanizmusokat, amelyek lehetővé teszik a modell számára, hogy figyelembe vegye a környező elemeket.

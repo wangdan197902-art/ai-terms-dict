@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /sv/terms/feedback/
 date: "2026-07-18T15:26:05.457812Z"
 lastmod: "2026-07-18T17:15:08.941934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Återkoppling innebär att använda utdataresultat för att justera och förbättra prestandan hos en AI-modell eller ett system iterativt."
 ---
-
 ## Definition
 
 Återkopplingsmekanismer gör att AI-system kan lära sig från sina interaktioner med användare eller miljöer, vilket förfinar framtida förutsägelser eller handlingar. Detta inkluderar signaler för förstärkningsinlärning och mänsklig inblandning i loopen.

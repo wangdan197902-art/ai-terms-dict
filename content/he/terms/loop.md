@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /he/terms/loop/
 date: "2026-07-18T15:27:01.426855Z"
 lastmod: "2026-07-18T17:15:09.481372Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מבנה תכנותי החוזר על בלוק קוד מספר פעמים עד שתנאי מסוים מתקיים."
 ---
-
 ## Definition
 
 מבנה זרימת בקרה יסודי במדעי המחשב ובפיתוח בינה מלאכותית, לולאה מאפשרת לאלגוריתמים לחזור על דגימות נתונים, לבצע חישובים חוזרים או להריץ אפוסות אימון. סוגים נפוצים כוללים

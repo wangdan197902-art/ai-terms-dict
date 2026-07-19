@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /es/terms/local/
 date: "2026-07-18T10:24:25.267758Z"
 lastmod: "2026-07-18T11:44:44.744443Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Se refiere al procesamiento o almacenamiento de datos en un dispositivo específico en lugar de en un entorno centralizado en la nube."
 ---
-
 ## Definition
 
 En inteligencia artificial, 'local' denota generalmente operaciones realizadas directamente en el hardware del usuario, como una computadora portátil o un teléfono inteligente, sin depender de servidores remotos. Este enfoque mejora la privacidad de los datos

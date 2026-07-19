@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /pl/terms/rademacher_complexity/
 date: "2026-07-18T16:14:31.572562Z"
 lastmod: "2026-07-18T17:15:08.912638Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Miara statystyczna stosowana w teorii uczenia się do ilościowego określenia bogactwa klasy funkcji poprzez jej zdolność do dopasowania losowego szumu."
 ---
-
 ## Definition
 
 Złożoność Rademachera ocenia, jak dobrze klasa hipotez może korelować z losowymi etykietami (szumem). Służy jako miara pojemności lub elastyczności modelu. Niższa złożoność sugeruje lepszą uogólnialność.

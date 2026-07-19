@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /no/terms/adversarial_machine_learning/
 date: "2026-07-18T15:41:08.958452Z"
 lastmod: "2026-07-18T16:38:06.968437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Adversariell maskinlæring er et felt som studerer hvordan man gjør maskinlæringsmodeller robuste mot ondsinnede inndata designet for å lure dem."
 ---
-
 ## Definition
 
 Dette feltet omfatter både offensive teknikker for å bryte modeller og defensive strategier for å styrke dem. Det involverer å trene modeller på adversarielle eksempler for å forbedre deres motstandskraft, en prosess kjent som...

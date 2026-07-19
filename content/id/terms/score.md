@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /id/terms/score/
 date: "2026-07-18T15:29:22.821270Z"
 lastmod: "2026-07-18T16:38:07.402381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Skor adalah nilai numerik yang mewakili kualitas, kepercayaan, atau kecocokan prediksi atau solusi model."
 ---
-
 ## Definition
 
 Skor mengukur seberapa baik model pembelajaran mesin berkinerja terhadap metrik tertentu seperti akurasi, presisi, atau imbalan. Dalam pembelajaran penguatan, skor menunjukkan imbalan kumulatif, sedangkan dalam klasifikasi

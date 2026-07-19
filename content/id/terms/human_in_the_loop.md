@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /id/terms/human_in_the_loop/
 date: "2026-07-18T15:34:41.556536Z"
 lastmod: "2026-07-18T16:38:07.414380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Desain sistem di mana manusia berpartisipasi secara aktif dalam pengambilan keputusan atau proses umpan balik model AI."
 ---
-
 ## Definition
 
 Manusia dalam lingkaran (HITL) merujuk pada sistem AI yang memerlukan intervensi manusia pada berbagai tahap alur kerja, seperti pelabelan data, evaluasi model, atau persetujuan keputusan akhir. Pendekatan ini memastikan akuntabilitas dan mengurangi kesalahan.

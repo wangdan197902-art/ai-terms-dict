@@ -1,23 +1,24 @@
 ---
-title: "Texto para Imagem"
-term_id: "text_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image_generation", "diffusion", "multimodal"]
+title: Texto para Imagem
+term_id: text_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Generation
+- diffusion
+- multimodal
 difficulty: 2
 weight: 1
-slug: "text_to_image"
-aliases:
-  - /pt/terms/text_to_image/
-date: "2026-07-18T15:24:35.790716Z"
-lastmod: "2026-07-18T15:51:59.538337Z"
+slug: text_to_image
+date: '2026-07-18T15:24:35.790716Z'
+lastmod: '2026-07-18T15:51:59.538337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica de IA generativa que cria imagens visuais a partir de descrições textuais usando modelos como Stable Diffusion ou DALL-E."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica de IA generativa que cria imagens visuais a partir de descrições
+  textuais usando modelos como Stable Diffusion ou DALL-E.
 ---
-
 ## Definition
 
 Texto para Imagem refere-se à aplicação de inteligência artificial generativa para sintetizar imagens fotorrealistas ou artísticas com base em descrições em linguagem natural. Esses sistemas geralmente empregam modelos de difusão latent para gerar imagens coerentes a partir de prompts.

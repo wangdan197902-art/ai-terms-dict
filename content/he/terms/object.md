@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /he/terms/object/
 date: "2026-07-18T15:28:29.457517Z"
 lastmod: "2026-07-18T17:15:09.483545Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ישות נפרדת בתוכנה המכילה נתונים ושיטות לעיבודם, מרכזית בתכנות מונחה עצמים."
 ---
-
 ## Definition
 
 אובייקט הוא מושג יסוד במדעי המחשב, ובפרט בתכנות מונחה עצמים (OOP). הוא מייצג מופע של מחלקה, ומקפסל גם מצב (תכונות או נתונים) וגם התנהגות (שיטות).

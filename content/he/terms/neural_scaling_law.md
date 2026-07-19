@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /he/terms/neural_scaling_law/
 date: "2026-07-18T16:14:21.320692Z"
 lastmod: "2026-07-18T17:15:09.568893Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קשרים אמפיריים החוזים שיפורים בביצועי המודל בהתבסס על עלייה בנתונים, פרמטרים או כוח חישוב."
 ---
-
 ## Definition
 
 חוקי סקלה עצביים מתארים את הקשר הצפוי מסוג חוק חזקה בין הביצועים של מודל לבין היקפו, כולל גודל מערך הנתונים, מספר הפרמטרים ותקציב החישוב. חוקים אלו מציעים כי ניתן לחזות את הביצועים על סמך גורמים אלו.

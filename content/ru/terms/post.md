@@ -1,23 +1,24 @@
 ---
-title: "Пост"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Пост
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /ru/terms/post/
-date: "2026-07-18T15:28:17.359537Z"
-lastmod: "2026-07-18T16:38:07.087107Z"
+slug: post
+date: '2026-07-18T15:28:17.359537Z'
+lastmod: '2026-07-18T16:38:07.087107Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Опубликованная часть контента, обычно в блоге, социальной сети или на форуме, представляющая информацию или комментарии, созданные пользователями."
+source: agnes_llm
+status: published
+language: ru
+description: Опубликованная часть контента, обычно в блоге, социальной сети или на
+  форуме, представляющая информацию или комментарии, созданные пользователями.
 ---
-
 ## Definition
 
 В контексте цифровой коммуникации и данных ИИ «пост» относится к дискретной единице контента, размещенной в интернете. Он служит основным источником для обучения моделей обработки естественного языка, анализа тональности...

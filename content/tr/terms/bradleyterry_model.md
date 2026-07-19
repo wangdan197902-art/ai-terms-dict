@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /tr/terms/bradleyterry_model/
 date: "2026-07-18T15:44:24.417285Z"
 lastmod: "2026-07-18T16:38:07.280338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çift karşılaştırma verilerini analiz etmek, bir öğenin diğerine göre tercih edilme olasılığını tahmin etmek için kullanılan istatistiksel bir model."
 ---
-
 ## Definition
 
 Bradley-Terry modeli, psikometrikte ve makine öğreniminde ikili karşılaştırmaları ele almak için yaygın olarak kullanılan olasılıksal bir modeldir. Her bir öğeye gizli bir puan atar ve bir öğenin diğerinden daha yüksek olma olasılığını hesaplar.

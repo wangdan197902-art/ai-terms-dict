@@ -1,23 +1,25 @@
 ---
-title: "Politika"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Politika
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /tr/terms/policy/
-date: "2026-07-18T15:27:58.006152Z"
-lastmod: "2026-07-18T16:38:07.240157Z"
+slug: policy
+date: '2026-07-18T15:27:58.006152Z'
+lastmod: '2026-07-18T16:38:07.240157Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kararları yönlendirmek ve rasyonel sonuçlar elde etmek için tasarlanmış bir strateji veya eylem planı; genellikle pekiştirmeli öğrenimde durumları aksiyonlara eşlemek için kullanılır."
+source: agnes_llm
+status: published
+language: tr
+description: Kararları yönlendirmek ve rasyonel sonuçlar elde etmek için tasarlanmış
+  bir strateji veya eylem planı; genellikle pekiştirmeli öğrenimde durumları aksiyonlara
+  eşlemek için kullanılır.
 ---
-
 ## Definition
 
 'Politika' terimi bağlama göre iki farklı anlama gelir. Genel yönetim bağlamında, karar vermeye rehberlik eden bir ilke olarak görülür. Pekiştirmeli Öğrenme (RL) bağlamında ise bir ajanın belirli bir durumla karşılaştığında hangi eylemi seçeceğini belirleyen temel bileşendir.

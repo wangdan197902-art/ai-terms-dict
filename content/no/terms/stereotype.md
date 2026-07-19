@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /no/terms/stereotype/
 date: "2026-07-18T16:21:49.443186Z"
 lastmod: "2026-07-18T16:38:07.059774Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En generalisert og ofte forenklet tro om en bestemt gruppe mennesker som gjenspeiles i AI-utdata."
 ---
-
 ## Definition
 
 Innen AI oppstår stereotyper når modeller lærer og forsterker samfunnsmessige skjevheter til stede i treningsdata. Dette kan føre til diskriminerende utfall, som å assosiere visse yrker med bestemte kjønn eller etnisiteter.

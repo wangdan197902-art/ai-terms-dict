@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /vi/terms/virtual_intelligence/
 date: "2026-07-18T16:15:44.786962Z"
 lastmod: "2026-07-18T16:38:07.815466Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trí tuệ Ảo là một thuật ngữ rộng mô tả các hệ thống AI hoạt động trong môi trường số để mô phỏng tương tác, ra quyết định hoặc tính tự chủ giống con người."
 ---
-
 ## Definition
 
 Trí tuệ Ảo bao gồm bất kỳ hệ thống trí tuệ nhân tạo nào được thiết kế để hoạt động trong không gian ảo hoặc kỹ thuật số, thường tương tác với người dùng hoặc các tác nhân khác. Điều này bao gồm trợ lý ảo...

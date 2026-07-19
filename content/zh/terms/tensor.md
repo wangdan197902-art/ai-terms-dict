@@ -1,23 +1,23 @@
 ---
-title: "张量"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: 张量
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /zh/terms/tensor/
-date: "2026-07-18T11:35:54.969710Z"
-lastmod: "2026-07-18T11:44:45.561589Z"
+slug: tensor
+date: '2026-07-18T11:35:54.969710Z'
+lastmod: '2026-07-18T11:44:45.561589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种多维数组，是深度学习框架中的基本数据结构。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种多维数组，是深度学习框架中的基本数据结构。
 ---
-
 ## Definition
 
 在计算机科学和深度学习中，张量是一种数学对象，它将标量、向量和矩阵推广到更高维度。它由其秩（维度数量）和形状等特征定义。

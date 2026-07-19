@@ -1,23 +1,24 @@
 ---
-title: "Époque"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Époque
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /fr/terms/epoch/
-date: "2026-07-18T11:15:56.731555Z"
-lastmod: "2026-07-18T11:44:45.247455Z"
+slug: epoch
+date: '2026-07-18T11:15:56.731555Z'
+lastmod: '2026-07-18T11:44:45.247455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un passage complet du jeu de données d'entraînement à travers l'algorithme d'apprentissage automatique pendant l'entraînement du modèle."
+source: agnes_llm
+status: published
+language: fr
+description: Un passage complet du jeu de données d'entraînement à travers l'algorithme
+  d'apprentissage automatique pendant l'entraînement du modèle.
 ---
-
 ## Definition
 
 En apprentissage automatique, une époque représente une seule itération sur l'intégralité du jeu de données d'entraînement. Pendant chaque époque, le modèle traite tous les exemples d'entraînement, met à jour ses poids par rétropropagation et évalue sa performance.

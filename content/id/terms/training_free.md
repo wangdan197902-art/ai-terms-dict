@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /id/terms/training_free/
 date: "2026-07-18T15:33:21.974329Z"
 lastmod: "2026-07-18T16:38:07.410730Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Metode yang menyesuaikan atau meningkatkan model tanpa melakukan pembaruan parameter berbasis gradien."
 ---
-
 ## Definition
 
 Pendekatan tanpa pelatihan merujuk pada teknik yang memodifikasi perilaku atau output model tanpa memperbarui bobot dasar melalui backpropagation. Metode ini sering memanfaatkan rekayasa prompt, fitur...

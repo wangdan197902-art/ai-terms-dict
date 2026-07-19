@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /he/terms/training_free/
 date: "2026-07-18T15:35:05.294846Z"
 lastmod: "2026-07-18T17:15:09.495563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שיטות המסתגלות או משפרות מודלים ללא ביצוע עדכוני פרמטרים מבוססי גרדיאנט."
 ---
-
 ## Definition
 
 גישות ללא אימון מתייחסות לטכניקות המשנות את התנהגות המודל או את הפלט שלו ללא עדכון המשקלים הבסיסיים באמצעות הפצה אחורה. שיטות אלו לרוב מסתמכות על הנדסת הנחיות, תכונות

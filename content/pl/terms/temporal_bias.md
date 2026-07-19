@@ -1,23 +1,24 @@
 ---
-title: "Bias czasowy"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Bias czasowy
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /pl/terms/temporal_bias/
-date: "2026-07-18T16:20:05.759044Z"
-lastmod: "2026-07-18T17:15:08.922941Z"
+slug: temporal_bias
+date: '2026-07-18T16:20:05.759044Z'
+lastmod: '2026-07-18T17:15:08.922941Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Systematyczny błąd, w którym modele priorytetyzują dane najnowsze względem kontekstu historycznego, co prowadzi do zniekształconych prognoz."
+source: agnes_llm
+status: published
+language: pl
+description: Systematyczny błąd, w którym modele priorytetyzują dane najnowsze względem
+  kontekstu historycznego, co prowadzi do zniekształconych prognoz.
 ---
-
 ## Definition
 
 Bias czasowy występuje, gdy modele uczenia maszynowego nadmiernie ważą najnowsze obserwacje w porównaniu do starszych, często ze względu na niestacjonarne rozkłady danych lub specyficzne protokoły szkoleniowe.

@@ -1,23 +1,23 @@
 ---
-title: "การปรับจูน"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: การปรับจูน
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /th/terms/tuning/
-date: "2026-07-18T15:31:26.123684Z"
-lastmod: "2026-07-18T16:38:07.552130Z"
+slug: tuning
+date: '2026-07-18T15:31:26.123684Z'
+lastmod: '2026-07-18T16:38:07.552130Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการปรับค่าไฮเปอร์พารามิเตอร์หรือน้ำหนักของโมเดลเพื่อเพิ่มประสิทธิภาพบนชุดข้อมูลหรืองานเฉพาะ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการปรับค่าไฮเปอร์พารามิเตอร์หรือน้ำหนักของโมเดลเพื่อเพิ่มประสิทธิภาพบนชุดข้อมูลหรืองานเฉพาะ
 ---
-
 ## Definition
 
 การปรับจูนเกี่ยวข้องกับการปรับปรุงโมเดลการเรียนรู้ของเครื่องเพื่อให้ได้ความแม่นยำหรือประสิทธิภาพที่ดีขึ้น อาจหมายถึงการปรับจูนไฮเปอร์พารามิเตอร์ ซึ่งเป็นการตั้งค่าเช่น อัตราการเรียนรู้ หรือขนาดแบทช์ ให้เหมาะสม หรือการปรับแต่งโมเดล

@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /ja/terms/syman/
 date: "2026-07-18T11:33:46.958539Z"
 lastmod: "2026-07-18T11:44:45.148791Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AI文献における非標準的または曖昧な用語；おそらく「System」の誤記、または一般的なAI用語では広く認識されていない特定のニッチな略語である可能性があります。"
 ---
-
 ## Definition
 
 主流の人工知能用語において、「Syman」に対して広く受け入れられている標準的な定義はありません。これは特定の独自ツールを指しているか、「System」（システムプロンプトなど）の誤記である可能性があります。

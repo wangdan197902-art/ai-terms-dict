@@ -1,23 +1,24 @@
 ---
-title: "Semantisk sökning"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Semantisk sökning
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /sv/terms/semantic_search/
-date: "2026-07-18T15:40:34.115370Z"
-lastmod: "2026-07-18T17:15:08.967037Z"
+slug: semantic_search
+date: '2026-07-18T15:40:34.115370Z'
+lastmod: '2026-07-18T17:15:08.967037Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Sökteknik som förstår betydelsen av söktermer snarare än att bara matcha nyckelord."
+source: agnes_llm
+status: published
+language: sv
+description: Sökteknik som förstår betydelsen av söktermer snarare än att bara matcha
+  nyckelord.
 ---
-
 ## Definition
 
 Semantisk sökning tolkar avsikten och den kontextuella betydelsen bakom en förfrågan, bortom enkel nyckelordsmatchning. Den använder inbäddningar för att representera text som vektorer i ett högdimensionellt utrymme, vilket möjliggör

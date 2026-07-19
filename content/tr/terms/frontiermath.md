@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /tr/terms/frontiermath/
-date: "2026-07-18T15:54:15.040801Z"
-lastmod: "2026-07-18T16:38:07.310707Z"
+slug: frontiermath
+date: '2026-07-18T15:54:15.040801Z'
+lastmod: '2026-07-18T16:38:07.310707Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Öncü yapay zeka modellerinin gelişmiş matematiksel akıl yürütme yeteneklerini değerlendirmek için tasarlanmış bir benchmark veri seti."
+source: agnes_llm
+status: published
+language: tr
+description: Öncü yapay zeka modellerinin gelişmiş matematiksel akıl yürütme yeteneklerini
+  değerlendirmek için tasarlanmış bir benchmark veri seti.
 ---
-
 ## Definition
 
 FrontierMath, büyük dil modellerinin karmaşık matematiksel problem çözme konusundaki sınırlarını test etmek amacıyla oluşturulmuş özel bir değerlendirme kütüphanesidir. Standart aritmetik benchmark'larının aksine, yüksek düzeyde zorlu matematiksel problemlere odaklanır ve modellerin soyut düşünme kapasitesini ölçer.

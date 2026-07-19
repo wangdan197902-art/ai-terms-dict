@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /es/terms/relu/
-date: "2026-07-18T10:31:53.811693Z"
-lastmod: "2026-07-18T11:44:44.766031Z"
+slug: relu
+date: '2026-07-18T10:31:53.811693Z'
+lastmod: '2026-07-18T11:44:44.766031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La unidad lineal rectificada es una función de activación que devuelve la entrada directamente si es positiva, o cero en caso contrario."
+source: agnes_llm
+status: published
+language: es
+description: La unidad lineal rectificada es una función de activación que devuelve
+  la entrada directamente si es positiva, o cero en caso contrario.
 ---
-
 ## Definition
 
 ReLU se utiliza ampliamente en redes neuronales de aprendizaje profundo debido a su eficiencia computacional y capacidad para mitigar el problema del gradiente desvanecido. Definida matemáticamente como f(x) = max(0, x), introduce

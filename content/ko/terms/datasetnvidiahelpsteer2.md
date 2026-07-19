@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /ko/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:48:22.776087Z"
 lastmod: "2026-07-18T16:38:06.828141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인간 피드백을 통한 강화 학습(RLHF)에서 보상 모델을 훈련하기 위해 특별히 설계된 고품질의 인간 선호도 데이터셋입니다."
 ---
-
 ## Definition
 
 Helpsteer2는 NVIDIA가 공개한 선별된 데이터셋으로, 대규모 언어 모델(LLM)이 생성한 응답들의 쌍별 비교(pairwise comparisons)를 포함합니다. 이 데이터셋은 유용성, 정확성, 안전성 등 다차원적인 인간의 선호도에 초점을 맞추고 있습니다.

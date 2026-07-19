@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /nl/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:43:19.636956Z"
 lastmod: "2026-07-18T17:15:08.718369Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het opkomende snijvlak waar AI wordt gebruikt voor spirituele begeleiding, meditatieondersteuning of het verkennen van filosofische vragen."
 ---
-
 ## Definition
 
 AI in spiritualiteit verwijst naar de toepassing van kunstmatige intelligentie in religieuze of contemplatieve contexten. Dit omvat chatbots die moreel advies geven, door AI gegenereerde kunst voor meditatie, of algoritmen die theologische teksten analyseren op spirituele inzichten.

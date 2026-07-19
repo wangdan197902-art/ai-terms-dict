@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /nl/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:42:57.019172Z"
 lastmod: "2026-07-18T17:15:08.717735Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De toepassing van AI-technologieën in verkiezingsprocessen, inclusief campagnemanagement, kiezersanalyse en zorgen over desinformatie."
 ---
-
 ## Definition
 
 Deze term omvat de dubbele rol van AI in democratische processen: het verbeteren van efficiëntie door middel van data-analyse en het vormen van risico's via manipulatie. Aan de ene kant helpt AI campagnes om kiezers gerichter te benaderen en...

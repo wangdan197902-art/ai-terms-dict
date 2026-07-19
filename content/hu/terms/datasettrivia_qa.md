@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /hu/terms/datasettrivia_qa/
 date: "2026-07-18T15:55:35.396661Z"
 lastmod: "2026-07-18T17:15:09.771790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Nagy méretű adathalmaz nyílt domain kérdés-válaszolásra, amely milliók kérdéseket és válaszokat tartalmaz különböző triviális témakörökből."
 ---
-
 ## Definition
 
 A TriviaQA egy nyílt domain kérdés-válaszolásra tervezett adathalmaz, több mint egymillió kérdés és hozzájuk tartozó válaszokkal. Létrehozásának célja a meglévő modellek kihívása volt, mivel azoknak képesnek kell lenniük a tudás integrálására és a többlépéses következtetésre a különböző forrásokból származó információk összekapcsolásához.

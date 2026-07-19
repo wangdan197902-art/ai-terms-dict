@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /ar/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:51:53.738814Z"
 lastmod: "2026-07-18T17:15:08.491457Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات واسعة النطاق من أزواج السؤال والجواب مستخرجة من ويكيبيديا، مصممة لتدريب الاسترجاع الكثيف للمقاطع."
 ---
-
 ## Definition
 
 تحتوي مجموعة بيانات PAQ (جودة الإجابة الزائفة) على ملايين أزواج الأسئلة والأجوبة المولدة آلياً والمستخرجة من ويكيبيديا. وهي مصممة خصيصاً لتدريب أدوات الاسترجاع الكثيفة (Dense Retriever) من خلال توفير...

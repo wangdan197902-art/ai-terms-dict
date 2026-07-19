@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /nl/terms/universal_psychometrics/
 date: "2026-07-18T16:21:12.648171Z"
 lastmod: "2026-07-18T17:15:08.796220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De toepassing van gestandaardiseerde meettechnieken om psychologische eigenschappen in diverse populaties te beoordelen."
 ---
-
 ## Definition
 
 Universele psychometrie omvat het ontwikkelen en toepassen van beoordelingstools die psychologische constructen, zoals persoonlijkheid, cognitief vermogen of emotionele intelligentie, betrouwbaar kunnen meten over...

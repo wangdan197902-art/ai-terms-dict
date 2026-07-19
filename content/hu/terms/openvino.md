@@ -7,8 +7,6 @@ tags: ["Deployment", "Intel", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "openvino"
-aliases:
-  - /hu/terms/openvino/
 date: "2026-07-18T16:16:03.814476Z"
 lastmod: "2026-07-18T17:15:09.819406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az OpenVINO egy nyílt forráskódú eszközkészlet az Inteltől, amely a mélytanulási modellek optimalizálására és hatékony telepítésére szolgál különféle hardverplatformokon."
 ---
-
 ## Definition
 
 Az Intel által fejlesztett OpenVINO (Open Visual Inference and Neural network Optimization) lehetővé teszi a fejlesztők számára, hogy a kiképzett mélytanulási modelleket hatékonyan telepítsék Intel hardveren. Az eszközkészlet tartalmaz egy optimalizáló motort, amely csökkenti a modell méretét és gyorsítja az inferenciát, támogatva a CPU-kat, GPU-kat és egyéb AI-specifikus hardverekeket.

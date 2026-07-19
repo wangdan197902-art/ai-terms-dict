@@ -1,23 +1,24 @@
 ---
-title: "Lineáris prediktív függvény"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Lineáris prediktív függvény
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /hu/terms/linear_predictor_function/
-date: "2026-07-18T16:10:35.353417Z"
-lastmod: "2026-07-18T17:15:09.803100Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:10:35.353417Z'
+lastmod: '2026-07-18T17:15:09.803100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy matematikai függvény, amely a bemeneti változók lineáris kombinációját számítva előrejelzi az eredményt."
+source: agnes_llm
+status: published
+language: hu
+description: Egy matematikai függvény, amely a bemeneti változók lineáris kombinációját
+  számítva előrejelzi az eredményt.
 ---
-
 ## Definition
 
 A statisztikai modellezésben és a gépi tanulásban a lineáris prediktív függvény a bemeneti jellemzők súlyozott összegét és egy torlási tagot (bias) reprezentálja. Általánosított lineáris modellek (GLM) alapvető komponense.

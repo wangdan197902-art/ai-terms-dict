@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /fi/terms/gaussian/
 date: "2026-07-18T15:26:45.755737Z"
 lastmod: "2026-07-18T17:15:09.351146Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Normaalijakaumaan liittyvä käsite; kellonkaaren muotoinen jakauma, joka on keskeinen tilastotieteessä ja melumallinnuksessa tekoälyssä."
 ---
-
 ## Definition
 
 Gaussinen viittaa normaalijakaumaan, jatkuv todennäköisyysjakaumaan, jota karakterisoidaan odotusarvolla ja varianssilla. Tekoälyssä sitä käytetään laajasti todennäköisyysmallinnuksessa, Bayesilaisessa päättelyssä ja monissa muissa tilastollisissa menetelmissä.

@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /cs/terms/numerical/
 date: "2026-07-18T15:27:29.491132Z"
 lastmod: "2026-07-18T17:15:09.073968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vztahující se k číslům nebo matematickým výpočtům, nikoliv k symbolické logice nebo textu."
 ---
-
 ## Definition
 
 V kontextu umělé inteligence a datové vědy označuje číselné typy dat nebo metody, které zahrnují kvantitativní hodnoty, jako jsou celá čísla, desetinná čísla a plovoucí řádová čárka. Na rozdíl od kategoriálních nebo textových dat umožňují číselná data provádění matematických operací a statistických analýz.

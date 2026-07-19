@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /pt/terms/coqui/
-date: "2026-07-18T14:54:32.173919Z"
-lastmod: "2026-07-18T15:51:59.474892Z"
+slug: coqui
+date: '2026-07-18T14:54:32.173919Z'
+lastmod: '2026-07-18T15:51:59.474892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A Coqui é uma empresa de tecnologia de voz de código aberto conhecida por desenvolver modelos de síntese de fala (TTS) multilíngues de alta qualidade."
+source: agnes_llm
+status: published
+language: pt
+description: A Coqui é uma empresa de tecnologia de voz de código aberto conhecida
+  por desenvolver modelos de síntese de fala (TTS) multilíngues de alta qualidade.
 ---
-
 ## Definition
 
 A Coqui Technologies foi uma participante proeminente na comunidade de IA de código aberto, mais conhecida por seu mecanismo de TTS (Síntese de Fala). O projeto forneceu modelos pré-treinados capazes de gerar sons naturais...

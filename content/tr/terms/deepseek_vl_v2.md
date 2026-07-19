@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /tr/terms/deepseek_vl_v2/
 date: "2026-07-18T15:49:19.413275Z"
 lastmod: "2026-07-18T16:38:07.297303Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "DeepSeek VL V2, görsel girdileri ve metinsel sorguları yüksek doğruluk ve verimlilikle işlemek ve anlamak üzere tasarlanmış bir Görüş-Dil modelidir."
 ---
-
 ## Definition
 
 DeepSeek VL V2, standart dil modelinin yeteneklerini çok modlu alana genişleterek görselleri metinle birlikte yorumlamasına olanak tanır. Büyük dil modeline bağlı bir görüş kodlayıcısı kullanarak

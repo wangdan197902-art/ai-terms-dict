@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /th/terms/misinformation/
 date: "2026-07-18T16:05:37.905570Z"
 lastmod: "2026-07-18T16:38:07.632031Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ข้อมูลที่เป็นเท็จหรือไม่ถูกต้องซึ่งถูกเผยแพร่โดยไม่คำนึงถึงเจตนาในการหลอกลวง"
 ---
-
 ## Definition
 
 ข้อมูลเท็จ (Misinformation) หมายถึง ข้อมูลที่ผิดหรือทำให้เข้าใจผิด ซึ่งมีการแบ่งปันโดยไม่มีเจตนาตั้งใจที่จะก่อความเสียหายหรือหลอกลวงอย่างจงใจ สิ่งนี้แตกต่างจาก 'Disinformation' ซึ่งเป็นการสร้างข้อมูลเท็จขึ้นโดยเจตนา ในบริบทของปัญญาประดิษฐ์

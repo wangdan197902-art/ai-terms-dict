@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /cs/terms/model_registry/
 date: "2026-07-18T16:09:45.546861Z"
 lastmod: "2026-07-18T17:15:09.154761Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Centralizovaný systém pro ukládání a správu modelů strojového učení, který umožňuje sledovat jejich životní cyklus."
 ---
-
 ## Definition
 
 Registr modelů slouží jako klíčová součást MLOps, která poskytuje jednotné úložiště pro ukládání, verzování a správu modelů ML. Umožňuje týmům sledovat metadata modelu, metriky výkonu a další aspekty jeho vývoje.

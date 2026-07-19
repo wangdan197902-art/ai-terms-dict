@@ -1,23 +1,25 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /vi/terms/coqui/
-date: "2026-07-18T15:46:23.217546Z"
-lastmod: "2026-07-18T16:38:07.740400Z"
+slug: coqui
+date: '2026-07-18T15:46:23.217546Z'
+lastmod: '2026-07-18T16:38:07.740400Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Coqui là một công ty công nghệ giọng nói mã nguồn mở, nổi tiếng với việc phát triển các mô hình chuyển văn bản thành giọng nói (TTS) chất lượng cao và đa ngôn ngữ."
+source: agnes_llm
+status: published
+language: vi
+description: Coqui là một công ty công nghệ giọng nói mã nguồn mở, nổi tiếng với việc
+  phát triển các mô hình chuyển văn bản thành giọng nói (TTS) chất lượng cao và đa
+  ngôn ngữ.
 ---
-
 ## Definition
 
 Coqui Technologies là một đơn vị tiên phong trong cộng đồng AI mã nguồn mở, được biết đến nhiều nhất qua động cơ TTS (Chuyển văn bản thành giọng nói) của mình. Dự án cung cấp các mô hình đã được huấn luyện trước, có khả năng tạo ra giọng nói tự nhiên.

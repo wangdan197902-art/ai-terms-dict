@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /vi/terms/dropout/
 date: "2026-07-18T15:34:34.619249Z"
 lastmod: "2026-07-18T16:38:07.708254Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Dropout là một kỹ thuật chính quy hóa ngẫu nhiên bỏ qua các nơ-ron trong quá trình huấn luyện để ngăn ngừa hiện tượng quá khớp (overfitting)."
 ---
-
 ## Definition
 
 Trong mạng nơ-ron, dropout ngăn ngừa quá khớp bằng cách tạm thời loại bỏ một tập hợp con ngẫu nhiên các nơ-ron trong mỗi bước huấn luyện. Điều này buộc mạng phải học các đặc trưng mạnh mẽ có ích khi kết hợp với các nơ-ron khác.

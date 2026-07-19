@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /pl/terms/jailbreak/
 date: "2026-07-18T15:35:30.386326Z"
 lastmod: "2026-07-18T17:15:08.833198Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technika inżynierii promptów mająca na celu obejście filtrów bezpieczeństwa i ograniczeń etycznych modelu AI."
 ---
-
 ## Definition
 
 Jailbreak polega na tworzeniu specyficznych wejść lub promptów, które oszukują model AI, aby zignorował wbudowane wytyczne bezpieczeństwa i generował zabronioną treść, taką jak mowa nienawiści czy niebezpieczne instrukcje.

@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /he/terms/moreover/
 date: "2026-07-18T15:27:30.401353Z"
 lastmod: "2026-07-18T17:15:09.482563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מילת מעבר המשמשת להצגת מידע נוסף או חיזוק טיעון קודם."
 ---
-
 ## Definition
 
 בהקשר של תיעוד בינה מלאכותית וכתיבה טכנית, 'Moreover' משמש כסמן דיסקורסיבי המציין הוספת ראיות תומכות או נקודה נוספת המחזקת את הדיון הנוכחי.

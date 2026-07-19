@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /ko/terms/humanai_interaction/
 date: "2026-07-18T15:59:02.593235Z"
 lastmod: "2026-07-18T16:38:06.851309Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인간이 인공지능 시스템과 소통하고, 제어하며, 협력하는 방식을 연구하고 실천하는 분야."
 ---
-
 ## Definition
 
 인간-AI 상호작용(HAI)은 사람과 AI 기술 간의 역학을 조사하는 학제간 분야입니다. 이는 직관적인 인터페이스, 통신 프로토콜, 그리고 효과적인 협업 메커니즘을 설계하는 데 중점을 둡니다.

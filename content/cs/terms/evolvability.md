@@ -1,23 +1,24 @@
 ---
-title: "Evolvnost"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Evolvnost
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /cs/terms/evolvability/
-date: "2026-07-18T15:56:21.998235Z"
-lastmod: "2026-07-18T17:15:09.127787Z"
+slug: evolvability
+date: '2026-07-18T15:56:21.998235Z'
+lastmod: '2026-07-18T17:15:09.127787Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Schopnost genotypu nebo systému generovat dědičné fenotypové variace, které mohou být vybrány pro adaptaci."
+source: agnes_llm
+status: published
+language: cs
+description: Schopnost genotypu nebo systému generovat dědičné fenotypové variace,
+  které mohou být vybrány pro adaptaci.
 ---
-
 ## Definition
 
 V výpočetním kontextu evolvnost označuje, jak snadno může algoritmus nebo architektura neuronové sítě zlepšovat svou přizpůsobivost (fitness) v průběhu generací nebo kroků tréninku. Vysoká evolvnost naznačuje, že malé změny vedou k významným zlepšením.

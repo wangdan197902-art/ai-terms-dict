@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /id/terms/fon/
 date: "2026-07-18T15:51:07.754830Z"
 lastmod: "2026-07-18T16:38:07.459045Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fon merujuk pada prinsip-prinsip dasar dan landasan teoretis yang membimbing desain serta pengoperasian sistem kecerdasan buatan."
 ---
-
 ## Definition
 
 Dalam konteks terminologi AI, 'Fon' sering digunakan untuk menggambarkan ontologi fungsional inti atau struktur logika dasar yang mendefinisikan bagaimana sebuah model AI menafsirkan masukan dan menghasilkan keluaran. Hal ini mencakup fondasi logis yang menjadi dasar pengambilan keputusan model.

@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /sv/terms/pattern_theory/
 date: "2026-07-18T16:13:12.537540Z"
 lastmod: "2026-07-18T17:15:09.035478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En matematisk ramverk för att beskriva komplexa strukturer genom att analysera mönster i datarum."
 ---
-
 ## Definition
 
 Mönsterteori ger en strikt matematisk grund för att förstå hur komplexa objekt och fenomen kan beskrivas genom mönster. Den postulerar att alla objekt kan karaktäriseras av sina 

@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /ro/terms/scale/
 date: "2026-07-18T15:29:21.851245Z"
 lastmod: "2026-07-18T17:15:09.603131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Scalarea se referă la magnitudinea datelor, parametrilor sau resurselor de calcul utilizate în modelele de învățare automată."
 ---
-
 ## Definition
 
 În inteligența artificială, scalarea implică de obicei creșterea dimensiunii seturilor de date, a parametrilor modelului sau a puterii de calcul pentru a îmbunătăți performanța. Acest concept este central în învățarea profundă, unde mari

@@ -1,23 +1,23 @@
 ---
-title: "ביטול סילוק דגימה בלמידה עמוקה"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: ביטול סילוק דגימה בלמידה עמוקה
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /he/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T15:53:10.502969Z"
-lastmod: "2026-07-18T17:15:09.531375Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T15:53:10.502969Z'
+lastmod: '2026-07-18T17:15:09.531375Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקות המשתמשות ברשתות נוירונים כדי להפחית ארטיפקטים ויזואליים כמו קצוות משוננים בתמונות ממוספרות או תכונות מנומנות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקות המשתמשות ברשתות נוירונים כדי להפחית ארטיפקטים ויזואליים כמו קצוות
+  משוננים בתמונות ממוספרות או תכונות מנומנות.
 ---
-
 ## Definition
 
 ביטול סילוק דגימה בלמידה עמוקה מתייחס לשיטות המשתמשות ברשתות נוירונים כדי להפחית ארטיפקטים של סילוק דגימה (Aliasing), המתרחשים כאשר אותות בתדר גבוה נדגמים בקצב בלתי מספק. בגרפיקה ממוחשבת,

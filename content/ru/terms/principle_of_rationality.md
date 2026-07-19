@@ -1,23 +1,24 @@
 ---
-title: "Принцип рациональности"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Принцип рациональности
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /ru/terms/principle_of_rationality/
-date: "2026-07-18T16:10:49.771428Z"
-lastmod: "2026-07-18T16:38:07.193017Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:10:49.771428Z'
+lastmod: '2026-07-18T16:38:07.193017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фундаментальное предположение о том, что интеллектуальные агенты действуют так, чтобы максимизировать ожидаемую полезность на основе имеющейся информации."
+source: agnes_llm
+status: published
+language: ru
+description: Фундаментальное предположение о том, что интеллектуальные агенты действуют
+  так, чтобы максимизировать ожидаемую полезность на основе имеющейся информации.
 ---
-
 ## Definition
 
 Этот принцип утверждает, что действия агента должны выбираться таким образом, чтобы максимизировать меру его ожидаемой производительности с учетом воспринимаемых входных данных и предыдущих знаний. Он служит фундаментом для теории принятия решений.

@@ -1,23 +1,23 @@
 ---
-title: "منطق الوصف"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: منطق الوصف
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /ar/terms/description_logic/
-date: "2026-07-18T15:53:34.133876Z"
-lastmod: "2026-07-18T17:15:08.496122Z"
+slug: description_logic
+date: '2026-07-18T15:53:34.133876Z'
+lastmod: '2026-07-18T17:15:08.496122Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عائلة من لغات تمثيل المعرفة الرسمية المستخدمة لتمثيل والاستدلال حول الهيكل المفاهيمي للمجالات."
+source: agnes_llm
+status: published
+language: ar
+description: عائلة من لغات تمثيل المعرفة الرسمية المستخدمة لتمثيل والاستدلال حول الهيكل
+  المفاهيمي للمجالات.
 ---
-
 ## Definition
 
 تمثل منطقيات الوصف (DL) أجزاءً قابلة للحسم من المنطق من الرتبة الأولى، وتشكل الأساس النظري للأنطولوجيات، ولا سيما لغة الأنطولوجيا على الويب (OWL). تتيح هذه المنطقيات التعريف الدقيق...

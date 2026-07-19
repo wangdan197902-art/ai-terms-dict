@@ -1,23 +1,24 @@
 ---
-title: "Θόρυβος ετικετών"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Θόρυβος ετικετών
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /el/terms/label_noise/
-date: "2026-07-18T16:17:17.061623Z"
-lastmod: "2026-07-18T17:15:09.924720Z"
+slug: label_noise
+date: '2026-07-18T16:17:17.061623Z'
+lastmod: '2026-07-18T17:15:09.924720Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Σφάλματα ή ασυνέπειες στις στόχευες ετικέτες ενός συνόλου δεδομένων που χρησιμοποιείται για την εκπαίδευση εποπτευόμενης μάθησης μηχανών."
+source: agnes_llm
+status: published
+language: el
+description: Σφάλματα ή ασυνέπειες στις στόχευες ετικέτες ενός συνόλου δεδομένων που
+  χρησιμοποιείται για την εκπαίδευση εποπτευόμενης μάθησης μηχανών.
 ---
-
 ## Definition
 
 Ο θόρυβος ετικετών αναφέρεται στις αποκλίσεις μεταξύ των πραγματικών κλασικών ετικετών των δεδομένων και των ετικετών που παρέχονται στο σύνολο εκπαίδευσης. Αυτό μπορεί να προκληθεί από λάθη ανθρώπινης ανάλυσης, ασαφή δεδομένα ή λανθασμένες διαδικασίες συλλογής, και μπορεί να μειώσει σημαντικά την απόδοση και τη γενίκευση των μοντέλων μηχανικής μάθησης.

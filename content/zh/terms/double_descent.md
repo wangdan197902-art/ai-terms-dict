@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /zh/terms/double_descent/
 date: "2026-07-18T11:15:33.977837Z"
 lastmod: "2026-07-18T11:44:45.491809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "随着模型复杂度超过插值阈值，测试误差先下降、后上升、再次下降的现象。"
 ---
-
 ## Definition
 
 双重下降挑战了传统的偏差-方差权衡理论，表明高度过参数化的模型即使插值了训练数据，也能实现较低的测试误差。起初，随着模型复杂度的增加，误差会上升，但在越过插值阈值后，误差会再次下降。

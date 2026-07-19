@@ -1,23 +1,24 @@
 ---
-title: "Ogólna sztuczna inteligencja"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Ogólna sztuczna inteligencja
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /pl/terms/artificial_general_intelligence/
-date: "2026-07-18T15:40:16.812204Z"
-lastmod: "2026-07-18T17:15:08.845693Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:40:16.812204Z'
+lastmod: '2026-07-18T17:15:08.845693Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Hipotetyczna sztuczna inteligencja posiadająca zdolność rozumienia, uczenia się i stosowania wiedzy w szerokim zakresie zadań na poziomie ludzkim."
+source: agnes_llm
+status: published
+language: pl
+description: Hipotetyczna sztuczna inteligencja posiadająca zdolność rozumienia, uczenia
+  się i stosowania wiedzy w szerokim zakresie zadań na poziomie ludzkim.
 ---
-
 ## Definition
 
 Ogólna sztuczna inteligencja (AGI) odnosi się do typu sztucznej inteligencji, który może wykonywać dowolne zadania intelektualne, jakie potrafi wykonać człowiek. W przeciwieństwie do wąskiej AI, która doskonale radzi sobie z konkretnymi zadaniami, takimi jak szachy czy rozpoznawanie obrazów...

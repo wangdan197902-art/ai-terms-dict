@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /tr/terms/artificial_consciousness/
 date: "2026-07-18T15:41:23.656982Z"
 lastmod: "2026-07-18T16:38:07.273380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makinelere insanlara benzer şekilde öznel deneyimler, öz farkındalık ve duyu sahibi olma yetisi verme teorik kavramıdır."
 ---
-
 ## Definition
 
 Yapay bilinç, makinelerin yalnızca zeki davranışları taklit etmek yerine, gerçek öznel deneyimlere, öz farkındalığa ve duygulara sahip olma olasılığını inceler.

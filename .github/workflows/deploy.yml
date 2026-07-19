@@ -33,6 +33,10 @@ jobs:
       - name: Build with Hugo
         run: hugo --minify --baseURL "https://terms.ai-term-hub.com/"
 
+      - name: Build Pagefind Search Index
+        run: npx pagefind --site public/
+        continue-on-error: true
+
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:

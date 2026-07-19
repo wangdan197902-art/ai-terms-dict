@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /nl/terms/building/
 date: "2026-07-18T15:23:54.268580Z"
 lastmod: "2026-07-18T17:15:08.681015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De praktische fase van het ontwikkelen, trainen en implementeren van AI-modellen en systemen, van initieel ontwerp tot productierijpheid."
 ---
-
 ## Definition
 
 Building verwijst naar het end-to-end engineeringproces van het creëren van AI-oplossingen, inclusief dataverzameling, modelselectie, training, validatie en implementatie. Het omvat de technische infrastructuur en ontwikkelingscyclus.

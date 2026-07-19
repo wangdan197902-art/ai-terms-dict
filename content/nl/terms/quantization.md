@@ -1,23 +1,25 @@
 ---
-title: "Kwantisatie"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kwantisatie
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /nl/terms/quantization/
-date: "2026-07-18T15:38:16.596985Z"
-lastmod: "2026-07-18T17:15:08.707784Z"
+slug: quantization
+date: '2026-07-18T15:38:16.596985Z'
+lastmod: '2026-07-18T17:15:08.707784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek voor modeloptimalisatie die de precisie van getallen die worden gebruikt in neurale netwerkberekeningen vermindert om de grootte te verkleinen en de snelheid te verbeteren."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek voor modeloptimalisatie die de precisie van getallen die
+  worden gebruikt in neurale netwerkberekeningen vermindert om de grootte te verkleinen
+  en de snelheid te verbeteren.
 ---
-
 ## Definition
 
 Kwantisatie zet hoogprecisie drijvende-kommagetallen (zoals FP32) om naar formaten met lagere precisie (zoals INT8 of FP16). Deze vermindering verlaagt het geheugengebruik en de rekenkundige vereisten van het model.

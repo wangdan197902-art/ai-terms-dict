@@ -1,23 +1,25 @@
 ---
-title: "post-training"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: post-training
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /nl/terms/post_training/
-date: "2026-07-18T15:34:39.081414Z"
-lastmod: "2026-07-18T17:15:08.700551Z"
+slug: post_training
+date: '2026-07-18T15:34:39.081414Z'
+lastmod: '2026-07-18T17:15:08.700551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Post-training verwijst naar de fase van het verfijnen van een vooraf getraind model op specifieke datasets om het aan te passen aan bepaalde taken of om de prestaties te optimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: Post-training verwijst naar de fase van het verfijnen van een vooraf
+  getraind model op specifieke datasets om het aan te passen aan bepaalde taken of
+  om de prestaties te optimaliseren.
 ---
-
 ## Definition
 
 Post-training is een kritieke fase in de machine learning-levenscyclus die plaatsvindt na de initiële pre-training van een model op grote schaal, algemene data. Tijdens deze fase ondergaat het model fine-tuning, alignment en soms compressie (zoals kwantisatie) om beter presteren op specifieke doelen.

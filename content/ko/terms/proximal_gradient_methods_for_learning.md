@@ -1,23 +1,24 @@
 ---
-title: "학습을 위한 프록시 경사법(Proximal Gradient Methods)"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: 학습을 위한 프록시 경사법(Proximal Gradient Methods)
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /ko/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T16:11:35.913335Z"
-lastmod: "2026-07-18T16:38:06.899769Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T16:11:35.913335Z'
+lastmod: '2026-07-18T16:38:06.899769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "매끄러운(smooth) 부분과 매끄럽지 않은(non-smooth) 부분을 모두 포함하는 합성 목적 함수를 최소화하도록 설계된 최적화 알고리즘입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 매끄러운(smooth) 부분과 매끄럽지 않은(non-smooth) 부분을 모두 포함하는 합성 목적 함수를 최소화하도록 설계된
+  최적화 알고리즘입니다.
 ---
-
 ## Definition
 
 프록시 경사법은 손실 함수에 미분 가능한 매끄러운 항과 L1 노름과 같은 미분 불가능한 정규화 항이 포함된 경우에 사용되는 반복적 최적화 기법입니다. 이 알고리즘은 매끄러운 함수의 경사 하강 단계와 비미분 가능 함수에 대한 프록시 연산(proximal operator) 단계를 번갈아 수행하여 최적점을 찾습니다. 특히 희소성(sparsity)을 유도하는 L1 정규화가 포함된 문제에서 널리 사용됩니다.

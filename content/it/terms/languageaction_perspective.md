@@ -1,23 +1,24 @@
 ---
-title: "Prospettiva linguaggio/azione"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Prospettiva linguaggio/azione
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /it/terms/languageaction_perspective/
-date: "2026-07-18T16:07:27.100165Z"
-lastmod: "2026-07-18T17:15:08.641808Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:07:27.100165Z'
+lastmod: '2026-07-18T17:15:08.641808Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un quadro teorico che considera il linguaggio principalmente come una forma di azione sociale piuttosto che solo un sistema per descrivere la realtà."
+source: agnes_llm
+status: published
+language: it
+description: Un quadro teorico che considera il linguaggio principalmente come una
+  forma di azione sociale piuttosto che solo un sistema per descrivere la realtà.
 ---
-
 ## Definition
 
 Radicate nella teoria degli atti linguistici e nella pragmatica, questa prospettiva sottolinea come le enunciazioni svolgano funzioni come richiedere, promettere o comandare. Nell'elaborazione del linguaggio naturale (NLP), essa informa lo sviluppo di sistemi capaci di comprendere l'intento e il contesto comunicativo.

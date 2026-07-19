@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /cs/terms/argumentation_framework/
 date: "2026-07-18T15:41:45.238129Z"
 lastmod: "2026-07-18T17:15:09.101665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Formální struktura používaná k modelování a řešení konfliktů mezi soutěžícími tvrzeními nebo rozhodnutími v systémech AI."
 ---
-
 ## Definition
 
 Argumentační rámce poskytují matematický základ pro reprezentaci argumentů, útoků na ně a jejich obhajob. V inženýrství AI pomáhají systémům přijímat transparentní a zdůvodnitelná rozhodnutí vážením různých perspektiv a důkazů.

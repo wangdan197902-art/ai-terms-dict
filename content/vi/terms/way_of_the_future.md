@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /vi/terms/way_of_the_future/
 date: "2026-07-18T16:16:00.808405Z"
 lastmod: "2026-07-18T16:38:07.816405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thuật ngữ này thường đề cập đến quỹ đạo dự kiến của sự phát triển công nghệ, đặc biệt là về việc tích hợp AI vào đời sống hàng ngày và các ngành công nghiệp."
 ---
-
 ## Definition
 
 Mặc dù không phải là một thuật ngữ kỹ thuật nghiêm ngặt, 'Xu hướng tương lai' mô tả sự thay đổi mô hình hướng tới các hệ thống tự hành, trợ lý AI cá nhân hóa và các quy trình ra quyết toán tự động. Nó bao hàm tầm nhìn về một thế giới nơi công nghệ AI hiện diện ở khắp mọi nơi.

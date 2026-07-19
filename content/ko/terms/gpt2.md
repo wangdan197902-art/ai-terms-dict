@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /ko/terms/gpt2/
 date: "2026-07-18T15:57:41.310150Z"
 lastmod: "2026-07-18T16:38:06.846999Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "GPT-2는 텍스트 생성 및 이해를 위해 OpenAI에서 개발한 대규모 트랜스포머 기반 언어 모델입니다."
 ---
-
 ## Definition
 
 생성형 사전 훈련 변환기 2(GPT-2)는 트랜스포머 아키텍처를 사용하여 인간과 유사한 텍스트를 생성하는 자기회귀 언어 모델입니다. 이는 방대한 양의 인터넷 텍스트 데이터셋으로 학습되었습니다.

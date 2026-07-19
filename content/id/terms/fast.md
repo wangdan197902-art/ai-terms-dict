@@ -1,23 +1,23 @@
 ---
-title: "Cepat"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: Cepat
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /id/terms/fast/
-date: "2026-07-18T15:25:45.354677Z"
-lastmod: "2026-07-18T16:38:07.393062Z"
+slug: fast
+date: '2026-07-18T15:25:45.354677Z'
+lastmod: '2026-07-18T16:38:07.393062Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dalam AI, 'cepat' merujuk pada sistem atau algoritma yang dioptimalkan untuk latensi rendah dan throughput tinggi dalam pemrosesan tugas."
+source: agnes_llm
+status: published
+language: id
+description: Dalam AI, 'cepat' merujuk pada sistem atau algoritma yang dioptimalkan
+  untuk latensi rendah dan throughput tinggi dalam pemrosesan tugas.
 ---
-
 ## Definition
 
 Istilah 'cepat' menggambarkan efisiensi komputasi dalam model kecerdasan buatan, dengan menekankan waktu inferensi yang cepat dan kemampuan pemrosesan data yang cepat. Hal ini sangat kritis untuk aplikasi waktu nyata.

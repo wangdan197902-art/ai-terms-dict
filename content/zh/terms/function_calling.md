@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /zh/terms/function_calling/
 date: "2026-07-18T11:00:15.112666Z"
 lastmod: "2026-07-18T11:44:45.400977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种允许大语言模型输出结构化数据以触发特定软件功能的机制。"
 ---
-
 ## Definition
 
 函数调用使大型语言模型能够通过生成指定执行哪个函数及其参数的结构化输出（如 JSON 对象）来与外部工具和 API 进行交互。

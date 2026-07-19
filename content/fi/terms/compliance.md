@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /fi/terms/compliance/
 date: "2026-07-18T15:48:45.158100Z"
 lastmod: "2026-07-18T17:15:09.392678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyjärjestelmien noudattaminen lainsäädäntöä, eettisiä standardeja ja alan ohjeistuksia."
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa mukautuminen viittaa prosessiin, jossa varmistetaan, että tekoälymallit ja niiden käyttöönotto ovat yhdenmukaisia sovellettavien lakien (kuten GDPR tai HIPAA) sekä sisäisten eettisten viitekehyksien kanssa.

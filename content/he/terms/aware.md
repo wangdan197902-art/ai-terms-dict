@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /he/terms/aware/
 date: "2026-07-18T15:23:29.140895Z"
 lastmod: "2026-07-18T17:15:09.473064Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מציין את יכולתה של בינה מלאכותית לזהות ולעבד מידע הקשרי או גירויים ספציפיים."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית, 'מודע' מתייחס בדרך כלל למודעות מצבית או הקשרית, שבה מערכת מזהה גורמים רלוונטיים בסביבה או במצב המשתמש. זה לא מרמז על הכרה עצמית, אלא על...

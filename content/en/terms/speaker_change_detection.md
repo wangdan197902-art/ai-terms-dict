@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /en/terms/speaker_change_detection/
 date: "2026-07-18T10:16:18.605884Z"
 lastmod: "2026-07-18T11:44:44.723784Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The process of identifying points in an audio stream where the active speaker changes."
 ---
-
 ## Definition
 
 Speaker Change Detection (SCD) is a technique used to pinpoint exact timestamps where one speaker stops talking and another begins. It serves as a preliminary step in diarization, helping to segment continuous audio into homogeneous segments belonging to the same speaker. Algorithms typically analyze spectral changes and voice activity to detect these transitions accurately.

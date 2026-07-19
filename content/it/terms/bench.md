@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /it/terms/bench/
 date: "2026-07-18T15:23:23.460323Z"
 lastmod: "2026-07-18T17:15:08.561844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Abbreviazione di benchmark, un insieme di test standard o una metrica utilizzata per valutare le prestazioni di un modello IA."
 ---
-
 ## Definition
 
 Un benchmark funge da punto di riferimento standardizzato per confrontare le capacità di diversi modelli o algoritmi IA. Coinvolge tipicamente un dataset curato e metriche di valutazione specifiche come accuratezza, precisione e recall.

@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /it/terms/multimodal/
 date: "2026-07-18T15:36:18.676331Z"
 lastmod: "2026-07-18T17:15:08.587845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a modelli di intelligenza artificiale capaci di elaborare e generare contenuti su più tipi di dati, come testo, immagini, audio e video, simultaneamente."
 ---
-
 ## Definition
 
 I sistemi di intelligenza artificiale multimodali integrano informazioni provenienti da diversi input sensoriali per formare una comprensione più completa del mondo. A differenza dei modelli unimodali limitati a un solo tipo di dato, i modelli multimodali possono correlare e combinare segnali eterogenei, permettendo applicazioni più ricche e contestualmente consapevoli, come la descrizione di immagini tramite testo o la generazione di video basati su prompt testuali.

@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /tr/terms/unlike/
 date: "2026-07-18T15:30:49.875049Z"
 lastmod: "2026-07-18T16:38:07.247014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirtilen bir koşula uymayan kayıtları filtrelemek için SQL ve programlamada kullanılan mantıksal bir operatör."
 ---
-
 ## Definition
 
 Veritabanı sorgulama ve mantığında 'Benzer Değil' genellikle kalıp eşleştirmeyi tersine çeviren NOT LIKE operatörünü ifade eder. Sütun değerinin belirtilen kalıba uymadığı satırlar için true döndürür.

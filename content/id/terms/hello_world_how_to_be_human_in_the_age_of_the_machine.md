@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /id/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T15:54:25.332367Z"
 lastmod: "2026-07-18T16:38:07.466203Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah judul buku yang mengeksplorasi persimpangan antara kemanusiaan dan teknologi, sering dikutip dalam diskusi tentang etika AI dan masa depan pekerjaan."
 ---
-
 ## Definition
 
 Frasa ini merujuk pada karya sastra tertentu yang memeriksa bagaimana manusia dapat mempertahankan relevansi dan martabat di tengah kemajuan teknologi yang cepat. Dalam wacana AI, frasa ini berfungsi sebagai referensi budaya yang menyoroti tantangan etis dan sosial dari otomasi.

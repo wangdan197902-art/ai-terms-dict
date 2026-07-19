@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: Stable Diffusion XL パイプライン"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stable Diffusion XL パイプライン'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /ja/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T11:12:25.745720Z"
-lastmod: "2026-07-18T11:44:45.091734Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T11:12:25.745720Z'
+lastmod: '2026-07-18T11:44:45.091734Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Stable Diffusion XL (SDXL) 用のパイプラインであり、以前のバージョンよりも解像度、詳細度、プロンプトへの追従性が向上しています。"
+source: agnes_llm
+status: published
+language: ja
+description: Stable Diffusion XL (SDXL) 用のパイプラインであり、以前のバージョンよりも解像度、詳細度、プロンプトへの追従性が向上しています。
 ---
-
 ## Definition
 
 このパイプラインは、Stable Diffusion XLアーキテクチャを実装しており、洗練されたベースモデルとリファイナモデルを使用して、優れた詳細度と構図を持つ高解像度（1024x1024）の画像を生成します。

@@ -1,23 +1,24 @@
 ---
-title: "Δίκτυα Kolmogorov-Arnold"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Δίκτυα Kolmogorov-Arnold
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /el/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:17:17.061578Z"
-lastmod: "2026-07-18T17:15:09.924376Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:17:17.061578Z'
+lastmod: '2026-07-18T17:15:09.924376Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Αρχιτεκτονικές νευρωνικών δικτύων βασισμένες στο θεώρημα αναπαράστασης Kolmogorov-Arnold, προσφέροντας μια εναλλακτική λύση έναντι των πολυεπίπεδων perceptrons."
+source: agnes_llm
+status: published
+language: el
+description: Αρχιτεκτονικές νευρωνικών δικτύων βασισμένες στο θεώρημα αναπαράστασης
+  Kolmogorov-Arnold, προσφέροντας μια εναλλακτική λύση έναντι των πολυεπίπεδων perceptrons.
 ---
-
 ## Definition
 
 Τα Δίκτυα Kolmogorov-Arnold (KANs) είναι μια πρόσφατη κατηγορία νευρωνικών δικτύων που εμπνεύστηκαν από το θεώρημα αναπαράστασης Kolmogorov-Arnold, το οποίο δηλώνει ότι κάθε συνεχής συνάρτηση πολλών μεταβλητών μπορεί να αναπαρασταθεί ως σύνθεση πεπερασμένου αριθμού συνεχών συναρτήσεων μιας μεταβλητής. Σε αντίθεση με τα παραδοσιακά δίκτυα που χρησιμοποιούν σταθερές συναρτήσεις ενεργοποίησης, τα KANs μαθαίνουν τις συναρτήσεις ενεργοποίησης απευθείας κατά τη διάρκεια της εκπαίδευσης.

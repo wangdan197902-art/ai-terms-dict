@@ -1,23 +1,23 @@
 ---
-title: "Škálování"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Škálování
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /cs/terms/scaling/
-date: "2026-07-18T15:28:56.027939Z"
-lastmod: "2026-07-18T17:15:09.077439Z"
+slug: scaling
+date: '2026-07-18T15:28:56.027939Z'
+lastmod: '2026-07-18T17:15:09.077439Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Škálování je proces úpravy velikosti modelu nebo objemu dat za účelem zlepšení schopností učení a výkonu."
+source: agnes_llm
+status: published
+language: cs
+description: Škálování je proces úpravy velikosti modelu nebo objemu dat za účelem
+  zlepšení schopností učení a výkonu.
 ---
-
 ## Definition
 
 Škálování je aktivní metodologie rozšiřování systémů AI přidáváním dalších vrstev, neuronů nebo tréninkových příkladů. Zahrnuje techniky jako distribuovaný trénink na více GPU pro zvládnutí rostoucí

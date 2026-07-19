@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /he/terms/artificial_psychology/
 date: "2026-07-18T15:43:02.987412Z"
 lastmod: "2026-07-18T17:15:09.514068Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תחום החוקר כיצד לתכנן מערכות בינה מלאכותית עם ארכיטקטורות קוגניטיביות המחקות תהליכים פסיכולוגיים אנושיים."
 ---
-
 ## Definition
 
 פסיכולוגיה מלאכותית היא תחום בין-תחומי המתמקד בתכנון והטמעה של ארכיטקטורות קוגניטיביות במערכות בינה מלאכותית. היא שאבת השראה ממדעי הקוגניציה והפסיכולוגיה כדי לדמות את המחשבה האנושית

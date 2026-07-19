@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /nl/terms/continuous_time/
 date: "2026-07-18T15:31:22.401520Z"
 lastmod: "2026-07-18T17:15:08.697250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een modelleringsbenadering waarbij variabelen zich soepel ontwikkelen binnen een continu domein in plaats van in discrete stappen."
 ---
-
 ## Definition
 
 Modellen met continue tijd beschrijven systeemdynamicen met behulp van differentiaalvergelijkingen, wat een soepele evolutie van toestanden in de tijd mogelijk maakt. In AI wordt dit geïllustreerd door Neuraal Differentieelvergelijkingen (Neural ODEs)...

@@ -1,23 +1,23 @@
 ---
-title: "次元の呪い"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: 次元の呪い
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /ja/terms/curse_of_dimensionality/
-date: "2026-07-18T11:09:32.733157Z"
-lastmod: "2026-07-18T11:44:45.082356Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T11:09:32.733157Z'
+lastmod: '2026-07-18T11:44:45.082356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "特徴量の増加に伴って空間の体積が指数関数的に増大し、データが希薄化して距離計測などの手法が効果を失う現象。"
+source: agnes_llm
+status: published
+language: ja
+description: 特徴量の増加に伴って空間の体積が指数関数的に増大し、データが希薄化して距離計測などの手法が効果を失う現象。
 ---
-
 ## Definition
 
 次元の呪いとは、高次元空間でデータを分析する際に発生し、低次元の状況では見られない様々な現象を指します。特徴量の数が増加すると、データポイントは空間に対して非常に希薄になり、ランダムサンプリングが困難になります。また、ユークリッド距離などの距離尺度の意味合いが薄れ、機械学習アルゴリズムのパフォーマンスが低下する原因となります。

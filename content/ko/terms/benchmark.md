@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /ko/terms/benchmark/
 date: "2026-07-18T15:23:16.804581Z"
 lastmod: "2026-07-18T16:38:06.769377Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 모델의 성능을 확립된 기준선과 비교하여 평가하는 데 사용되는 표준 참조점 또는 지표입니다."
 ---
-
 ## Definition
 
 인공지능에서 벤치마크는 머신러닝 모델의 능력을 측정하도록 설계된 표준화된 테스트 스위트 또는 데이터셋입니다. 이는 서로 다른 모델을 비교하기 위한 일관된 프레임워크를 제공합니다.

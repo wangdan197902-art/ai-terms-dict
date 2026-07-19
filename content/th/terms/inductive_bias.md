@@ -1,23 +1,23 @@
 ---
-title: "อคติแบบอุปนัย"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: อคติแบบอุปนัย
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /th/terms/inductive_bias/
-date: "2026-07-18T16:00:04.120653Z"
-lastmod: "2026-07-18T16:38:07.618384Z"
+slug: inductive_bias
+date: '2026-07-18T16:00:04.120653Z'
+lastmod: '2026-07-18T16:38:07.618384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ชุดสมมติฐานที่อัลกอริทึมการเรียนรู้ใช้เพื่อทำนายผลลัพธ์สำหรับข้อมูลที่ไม่เคยเห็นระหว่างการฝึกฝน"
+source: agnes_llm
+status: published
+language: th
+description: ชุดสมมติฐานที่อัลกอริทึมการเรียนรู้ใช้เพื่อทำนายผลลัพธ์สำหรับข้อมูลที่ไม่เคยเห็นระหว่างการฝึกฝน
 ---
-
 ## Definition
 
 อคติแบบอุปนัย แสดงถึงความชอบหรือข้อจำกัดที่มีอยู่ภายในโมเดลการเรียนรู้ของเครื่อง ซึ่งช่วยให้โมเดลสามารถสรุปผลจากข้อมูลฝึกฝนไปยังข้อมูลที่ไม่เคยเห็นได้ โดยไม่มีอคติดังกล่าว โมเดลจะไม่สามารถเรียนรู้หรือทำนายสิ่งใหม่ๆ ได้อย่างมีประสิทธิภาพ

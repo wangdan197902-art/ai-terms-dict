@@ -1,23 +1,24 @@
 ---
-title: "Heuristic admisibil"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: Heuristic admisibil
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /ro/terms/admissible_heuristic/
-date: "2026-07-18T15:42:47.695905Z"
-lastmod: "2026-07-18T17:15:09.624854Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:42:47.695905Z'
+lastmod: '2026-07-18T17:15:09.624854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O funcție heuristică în algoritmi de căutare care nu supraestimează niciodată costul real pentru a ajunge la țintă, asigurând optimalitatea."
+source: agnes_llm
+status: published
+language: ro
+description: O funcție heuristică în algoritmi de căutare care nu supraestimează niciodată
+  costul real pentru a ajunge la țintă, asigurând optimalitatea.
 ---
-
 ## Definition
 
 În problemele de căutare a drumurilor, un heuristic admisibil oferă o limită inferioară asupra costului real pentru a ajunge la nodul țintă. Prin garantarea că costul estimat este întotdeauna mai mic sau egal cu costul real, algoritmi precum A* pot găsi soluția optimă.

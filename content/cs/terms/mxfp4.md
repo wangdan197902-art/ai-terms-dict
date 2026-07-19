@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /cs/terms/mxfp4/
-date: "2026-07-18T16:10:29.921446Z"
-lastmod: "2026-07-18T17:15:09.156875Z"
+slug: mxfp4
+date: '2026-07-18T16:10:29.921446Z'
+lastmod: '2026-07-18T17:15:09.156875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "MXFP4 je formát plovoucí řádkové čárky smíšené přesnosti optimalizovaný pro efektivní násobení matic v hardwarových akcelerátorech AI."
+source: agnes_llm
+status: published
+language: cs
+description: MXFP4 je formát plovoucí řádkové čárky smíšené přesnosti optimalizovaný
+  pro efektivní násobení matic v hardwarových akcelerátorech AI.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) je specializovaný formát datového typu zavedený pro optimalizaci výkonu a snížení využití paměťové propustnosti u úloh AI. Umožňováním operací se smíšenou přesností...

@@ -1,23 +1,24 @@
 ---
-title: "Tấn công đối nghịch"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Tấn công đối nghịch
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /vi/terms/adversarial_attack/
-date: "2026-07-18T15:39:36.194277Z"
-lastmod: "2026-07-18T16:38:07.724930Z"
+slug: adversarial_attack
+date: '2026-07-18T15:39:36.194277Z'
+lastmod: '2026-07-18T16:38:07.724930Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tấn công đối nghịch là kỹ thuật thêm các nhiễu nhỏ, thường khó nhận biết, vào dữ liệu đầu vào để đánh lừa mô hình học máy đưa ra dự đoán sai."
+source: agnes_llm
+status: published
+language: vi
+description: Tấn công đối nghịch là kỹ thuật thêm các nhiễu nhỏ, thường khó nhận biết,
+  vào dữ liệu đầu vào để đánh lừa mô hình học máy đưa ra dự đoán sai.
 ---
-
 ## Definition
 
 Các cuộc tấn công đối nghịch khai thác điểm yếu của mạng nơ-ron bằng cách đưa nhiễu tinh vi vào dữ liệu đầu vào (như hình ảnh hoặc văn bản), gây ra lỗi đáng kể trong kết quả đầu ra của mô hình. Những cuộc tấn công này làm nổi bật sự nhạy cảm của các mô hình hiện đại trước những thay đổi nhỏ.

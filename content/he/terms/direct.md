@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /he/terms/direct/
 date: "2026-07-18T15:24:16.278475Z"
 lastmod: "2026-07-18T17:15:09.475307Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתייחס לשיטות או מסלולים הממפים קלטים ישירות לפלטים ללא טרנספורמציות ביניים מורכבות או ייצוגים latent."
 ---
-
 ## Definition
 
 בהקשרי בינה מלאכותית, 'ישיר' מתאר לעיתים קרובות ארכיטקטורות או מסלולי הסקה שעוקפות שכבות ניכור ביניים, כמו אופטימיזציה ישירה של מדיניות בלמידה חיזוקית או מיפוי ישיר במערכות בקרה.

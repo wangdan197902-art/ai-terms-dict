@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /ja/terms/dynamic/
 date: "2026-07-18T10:50:00.253793Z"
 lastmod: "2026-07-18T11:44:45.007038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "動的とは、入力データや環境の変化に基づいて、リアルタイムに構造、動作、または実行フローを適応させるAIシステムや計算グラフを指します。"
 ---
-
 ## Definition
 
 固定されたアーキテクチャや事前に決定された実行パスを持つ静的システムとは異なり、動的AIシステムは実行時に操作を変更できます。ディープラーニングでは、動的計算グラフにより、ネットワーク構造が入力に応じて柔軟に変化し、可変長のデータ処理や条件分岐を効率的に行うことが可能になります。

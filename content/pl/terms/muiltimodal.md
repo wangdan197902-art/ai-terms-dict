@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /pl/terms/muiltimodal/
 date: "2026-07-18T16:08:17.191146Z"
 lastmod: "2026-07-18T17:15:08.899464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wielomodalność odnosi się do systemów sztucznej inteligencji, które przetwarzają i integrują jednocześnie różne typy danych, takie jak tekst, obrazy i dźwięk."
 ---
-
 ## Definition
 
 W sztucznej inteligencji wielomodalność opisuje zdolność modelu do rozumienia, generowania lub korelacji informacji pochodzących z różnych źródeł sensorycznych lub formatów danych. W przeciwieństwie do modeli jednorodnych...

@@ -1,23 +1,24 @@
 ---
-title: "Ochranné prvky"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Ochranné prvky
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /cs/terms/guardrails/
-date: "2026-07-18T16:00:47.425431Z"
-lastmod: "2026-07-18T17:15:09.136956Z"
+slug: guardrails
+date: '2026-07-18T16:00:47.425431Z'
+lastmod: '2026-07-18T17:15:09.136956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Bezpečnostní mechanismy navržené k omezení výstupů modelů AI s cílem zabránit generování škodlivého, zkresleného nebo neoprávněného obsahu."
+source: agnes_llm
+status: published
+language: cs
+description: Bezpečnostní mechanismy navržené k omezení výstupů modelů AI s cílem
+  zabránit generování škodlivého, zkresleného nebo neoprávněného obsahu.
 ---
-
 ## Definition
 
 Ochranné prvky označují sadu softwarových kontrolních mechanismů a vrstev vynucování politik integrovaných do aplikací AI, zejména velkých jazykových modelů, aby se zajistilo bezpečné a souladné chování. Fungují jako filtry pro vstupní a výstupní data.

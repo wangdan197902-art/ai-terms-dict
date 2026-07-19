@@ -1,23 +1,24 @@
 ---
-title: "Matriks Kebingungan"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Matriks Kebingungan
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /id/terms/confusion_matrix/
-date: "2026-07-18T15:43:34.312203Z"
-lastmod: "2026-07-18T16:38:07.439814Z"
+slug: confusion_matrix
+date: '2026-07-18T15:43:34.312203Z'
+lastmod: '2026-07-18T16:38:07.439814Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah tabel yang digunakan untuk menggambarkan kinerja model klasifikasi pada seperangkat data uji."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah tabel yang digunakan untuk menggambarkan kinerja model klasifikasi
+  pada seperangkat data uji.
 ---
-
 ## Definition
 
 Matriks kebingungan adalah tata letak tabel spesifik yang memungkinkan visualisasi kinerja suatu algoritma, biasanya pembelajaran terawasi. Tabel ini menunjukkan jumlah true positive (positif benar), true negative (negatif benar), false positive (positif salah), dan false negative (negatif salah).

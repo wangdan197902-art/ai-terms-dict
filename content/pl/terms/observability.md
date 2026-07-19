@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /pl/terms/observability/
 date: "2026-07-18T16:09:49.484472Z"
 lastmod: "2026-07-18T17:15:08.902903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Observowalność to miara, w jakim stopniu wewnętrzne stany systemu można wnioskować na podstawie zewnętrznych wyjść, takich jak dzienniki zdarzeń (logi), metryki i ślady wykonania (traces)."
 ---
-
 ## Definition
 
 W inżynierii AI obserwowalność odnosi się do zdolności do zrozumienia wewnętrznego stanu złożonych systemów uczenia maszynowego poprzez analizę ich zewnętrznych wyjść. Wykracza ona poza tradycyjny monitoring, umożliwiając głębszą diagnostykę i zrozumienie działania modelu w czasie rzeczywistym.

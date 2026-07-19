@@ -1,23 +1,25 @@
 ---
-title: "Neuroobliczenia"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neuroobliczenia
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /pl/terms/neurocomputing/
-date: "2026-07-18T16:09:14.592466Z"
-lastmod: "2026-07-18T17:15:08.901786Z"
+slug: neurocomputing
+date: '2026-07-18T16:09:14.592466Z'
+lastmod: '2026-07-18T17:15:08.901786Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Neuroobliczenia to interdyscyplinarna dziedzina łącząca neurobiologię, informatykę i inżynierię w celu opracowania modeli obliczeniowych inspirowanych biologicznymi systemami nerwowymi."
+source: agnes_llm
+status: published
+language: pl
+description: Neuroobliczenia to interdyscyplinarna dziedzina łącząca neurobiologię,
+  informatykę i inżynierię w celu opracowania modeli obliczeniowych inspirowanych
+  biologicznymi systemami nerwowymi.
 ---
-
 ## Definition
 
 Dziedzina ta koncentruje się na tworzeniu architektur sprzętowych i programowych naśladujących strukturę i funkcję ludzkiego mózgu. Obejmuje sztuczne sieci neuronowe, chipy neuromorficzne oraz obliczenia poznawcze.

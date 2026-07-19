@@ -1,23 +1,25 @@
 ---
-title: "Μηχανική Μάθηση στα Βιντεοπαιχνίδια"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Μηχανική Μάθηση στα Βιντεοπαιχνίδια
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /el/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:20:16.647003Z"
-lastmod: "2026-07-18T17:15:09.929537Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:20:16.647003Z'
+lastmod: '2026-07-18T17:15:09.929537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η εφαρμογή αλγορίθμων μηχανικής μάθησης για τη βελτίωση της ανάπτυξης παιχνιδιών, τη δημιουργία προσαρμοστικών μη παικτών χαρακτήρων (NPCs) και τον βελτιστοποίηση των εμπειριών παιχνιδιού."
+source: agnes_llm
+status: published
+language: el
+description: Η εφαρμογή αλγορίθμων μηχανικής μάθησης για τη βελτίωση της ανάπτυξης
+  παιχνιδιών, τη δημιουργία προσαρμοστικών μη παικτών χαρακτήρων (NPCs) και τον βελτιστοποίηση
+  των εμπειριών παιχνιδιού.
 ---
-
 ## Definition
 
 Αυτό το πεδίο περιλαμβάνει την ενσωμάτωση τεχνικών μηχανικής μάθησης στις διαδικασίες ανάπτυξης βιντεοπαιχνιδιών για την αυτοματοποίηση της δημιουργίας περιεχομένου, τη ρύθμιση της ισορροπίας των μηχανισμών του παιχνιδιού και τη δημιουργία δυναμικού περιεχομένου. Καλύπτει φάσματα από την χρήση μάθησης με ενίσχυση για την προσαρμοστικότητα μέχρι την παραγωγή περιεχομένου.

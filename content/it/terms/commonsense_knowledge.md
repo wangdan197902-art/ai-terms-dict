@@ -1,23 +1,24 @@
 ---
-title: "Conoscenza comune"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Conoscenza comune
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /it/terms/commonsense_knowledge/
-date: "2026-07-18T15:52:01.505369Z"
-lastmod: "2026-07-18T17:15:08.607702Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:52:01.505369Z'
+lastmod: '2026-07-18T17:15:08.607702Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Le informazioni di base e la comprensione intuitiva del mondo fisico e sociale che gli esseri umani possiedono ma che le macchine spesso mancano."
+source: agnes_llm
+status: published
+language: it
+description: Le informazioni di base e la comprensione intuitiva del mondo fisico
+  e sociale che gli esseri umani possiedono ma che le macchine spesso mancano.
 ---
-
 ## Definition
 
 La conoscenza comune si riferisce alla vasta quantità di informazioni implicite sulla vita quotidiana, sulla fisica, sulle norme sociali e sulle relazioni di causa ed effetto che gli esseri umani acquisiscono naturalmente. Nell'IA, l'acquisizione di questa

@@ -1,23 +1,25 @@
 ---
-title: "Регуляризация многообразия"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Регуляризация многообразия
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /ru/terms/manifold_regularization/
-date: "2026-07-18T16:04:01.137913Z"
-lastmod: "2026-07-18T16:38:07.178806Z"
+slug: manifold_regularization
+date: '2026-07-18T16:04:01.137913Z'
+lastmod: '2026-07-18T16:38:07.178806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Полуобучающийся метод обучения, предполагающий, что данные лежат на многообразии низкой размерности, и использующий эту геометрическую структуру для регуляризации модели."
+source: agnes_llm
+status: published
+language: ru
+description: Полуобучающийся метод обучения, предполагающий, что данные лежат на многообразии
+  низкой размерности, и использующий эту геометрическую структуру для регуляризации
+  модели.
 ---
-
 ## Definition
 
 Регуляризация многообразия расширяет традиционные методы регуляризации за счет учета внутренней геометрии распределения данных. Она основывается на предположении, что точки высокоразмерных данных лежат на многообразии низкой размерности, что позволяет использовать графовую структуру для наложения ограничений на гладкость функции потерь.

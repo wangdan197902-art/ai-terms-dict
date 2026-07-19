@@ -1,23 +1,24 @@
 ---
-title: "ווסרשטיין"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: ווסרשטיין
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /he/terms/wasserstein/
-date: "2026-07-18T15:32:15.242222Z"
-lastmod: "2026-07-18T17:15:09.491057Z"
+slug: wasserstein
+date: '2026-07-18T15:32:15.242222Z'
+lastmod: '2026-07-18T17:15:09.491057Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מדד המודד את המרחק בין התפלגויות הסתברות על בסיס העלות המינימלית להמרה של אחת לשנייה."
+source: agnes_llm
+status: published
+language: he
+description: מדד המודד את המרחק בין התפלגויות הסתברות על בסיס העלות המינימלית להמרה
+  של אחת לשנייה.
 ---
-
 ## Definition
 
 מרחק ווסרשטיין, הידוע גם כמרחק מעבד האדמה, מדכא את השוני בין שתי התפלגויות הסתברות על ידי חישוב ה'עבודה' המינימלית הנדרשת להזזת מסה מהתפלגות אחת לאחרת.

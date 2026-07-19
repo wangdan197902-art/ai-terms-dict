@@ -1,23 +1,24 @@
 ---
-title: "Limited Memory AI"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: Limited Memory AI
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /en/terms/limited_memory_ai/
-date: "2026-07-18T10:04:58.089020Z"
-lastmod: "2026-07-18T11:44:44.692457Z"
+slug: limited_memory_ai
+date: '2026-07-18T10:04:58.089020Z'
+lastmod: '2026-07-18T11:44:44.692457Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "AI systems capable of storing past data and experiences to inform future decisions, forming the basis of most modern machine learning applications."
+source: agnes_llm
+status: published
+language: en
+description: AI systems capable of storing past data and experiences to inform future
+  decisions, forming the basis of most modern machine learning applications.
 ---
-
 ## Definition
 
 Limited Memory AI represents the second level of AI capability, where systems can learn from historical data and adjust their behavior accordingly. Unlike reactive machines, these systems retain information about previous interactions or datasets to improve performance over time. This category encompasses supervised learning, reinforcement learning, and neural networks, enabling applications like recommendation engines, image recognition, and autonomous driving systems.

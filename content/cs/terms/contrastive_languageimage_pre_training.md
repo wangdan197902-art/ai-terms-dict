@@ -1,23 +1,24 @@
 ---
-title: "Kontrastní předvýcvik jazyka a obrazu"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Kontrastní předvýcvik jazyka a obrazu
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /cs/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:49:36.046674Z"
-lastmod: "2026-07-18T17:15:09.113941Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:49:36.046674Z'
+lastmod: '2026-07-18T17:15:09.113941Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metoda předvýcviku pro více modalit, která zarovnává reprezentace obrazu a textu pomocí kontrastivních ztrátových funkcí."
+source: agnes_llm
+status: published
+language: cs
+description: Metoda předvýcviku pro více modalit, která zarovnává reprezentace obrazu
+  a textu pomocí kontrastivních ztrátových funkcí.
 ---
-
 ## Definition
 
 Kontrastní předvýcvik jazyka a obrazu (CLIP) je architektura neuronové sítě trénovaná na obrazech a jejich odpovídajících popiscích z internetu. Používá kontrastivní cíl k maximalizaci podobnosti mezi správnými páry obraz-text a minimalizaci podobnosti mezi nesprávnými páry.

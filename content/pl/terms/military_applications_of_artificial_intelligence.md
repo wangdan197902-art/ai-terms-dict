@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /pl/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:07:09.685581Z"
 lastmod: "2026-07-18T17:15:08.897184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do wykorzystania technologii AI w kontekstach obronnych, w tym autonomicznej broni, nadzoru, optymalizacji logistyki i systemów wspomagania decyzji."
 ---
-
 ## Definition
 
 Zastosowania AI w wojskowości obejmują szeroki zakres technologii zaprojektowanych w celu zwiększenia skuteczności operacyjnej i przewagi strategicznej. Obejmują one autonomiczne drony do rozpoznania, predykcyjne zarządzanie zaopatrzeniem oraz systemy analizy wywiadowczej.

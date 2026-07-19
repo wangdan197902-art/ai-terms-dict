@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /sv/terms/ai_mode/
 date: "2026-07-18T15:41:44.755836Z"
 lastmod: "2026-07-18T17:15:08.969461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett funktionellt tillstånd i mjukvarugränssnitt där artificiell intelligens aktivt assisterar eller automatiserar uppgifter."
 ---
-
 ## Definition
 
 AI-läge syftar på ett specifikt drifttillstånd inom digitala plattformar eller applikationer där AI-funktioner aktiveras för att förbättra användarinteraktionen. Detta läge möjliggör vanligtvis funktioner som naturlig språkbehandling och kontextuell assistans.

@@ -1,23 +1,23 @@
 ---
-title: "Σημασιολογικός"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: Σημασιολογικός
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /el/terms/semantic/
-date: "2026-07-18T15:33:16.932329Z"
-lastmod: "2026-07-18T17:15:09.854780Z"
+slug: semantic
+date: '2026-07-18T15:33:16.932329Z'
+lastmod: '2026-07-18T17:15:09.854780Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Σχετικό με το νόημα στη γλώσσα ή τα δεδομένα, διαχωρίζοντάς το από τη συντακτική δομή ή τη μορφή."
+source: agnes_llm
+status: published
+language: el
+description: Σχετικό με το νόημα στη γλώσσα ή τα δεδομένα, διαχωρίζοντάς το από τη
+  συντακτική δομή ή τη μορφή.
 ---
-
 ## Definition
 
 Η σημασιολογική ανάλυση στην ΤΝ εστιάζει στην κατανόηση του υποκείμενου νοήματος των εισόδων αντί μόνο των προφανών μοτίβων τους. Αυτό περιλαμβάνει τον χαρτογράφημα λέξεων ή συμβόλων σε έννοιες, αποτυπώνοντας σχέσεις...

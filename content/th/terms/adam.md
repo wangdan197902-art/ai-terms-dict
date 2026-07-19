@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /th/terms/adam/
 date: "2026-07-18T15:23:14.000938Z"
 lastmod: "2026-07-18T16:38:07.532540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "อัลกอริทึมการหาค่าเหมาะที่สุด (optimization) ที่คำนวณอัตราการเรียนรู้แบบปรับได้สำหรับแต่ละพารามิเตอร์"
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation) เป็นอัลกอริทึมการหาค่าเหมาะที่สุดอันดับหนึ่ง (first-order) ที่ใช้เกรเดียนต์อย่างแพร่หลายในการฝึกเครือข่ายประสาทเทียมเชิงลึก โดยมันผสานข้อดีของการขยายความก้าวหน้าสองรูปแบบอื่นของกระบวนการสุ่ม

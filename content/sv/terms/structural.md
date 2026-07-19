@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /sv/terms/structural/
 date: "2026-07-18T15:31:19.078246Z"
 lastmod: "2026-07-18T17:15:08.952665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Relaterat till den underliggande organisationen, arkitekturen eller arrangemanget av komponenter inom ett system."
 ---
-
 ## Definition
 
 Strukturella aspekter definierar hur data eller neuronnätverkslager är organiserade. I grafneuronnätverk avser struktur nodanslutningar; inom djupinlärning avser det lagertopologin. Förståelse för struktur är avgörande för modellprestanda.

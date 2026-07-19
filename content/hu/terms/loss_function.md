@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /hu/terms/loss_function/
 date: "2026-07-18T15:38:24.763313Z"
 lastmod: "2026-07-18T17:15:09.742169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy matematikai függvény, amely kvantifikálja a prediktált értékek és a tényleges célfelvételek közötti különbséget a tanítás során."
 ---
-
 ## Definition
 
 Más néven költség- vagy hibafüggvényként is ismert, a veszteségfüggvény egy skalárértéket szolgáltat, amely azt jelzi, mennyire jól teljesít a modell. A tanítás során az optimalizáló algoritmusok ezt az értéket használják a gradiens kiszámítására, hogy irányítsák a modell súlyainak frissítését a hiba csökkentése felé.

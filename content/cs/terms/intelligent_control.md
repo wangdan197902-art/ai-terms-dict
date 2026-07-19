@@ -1,23 +1,24 @@
 ---
-title: "Inteligentní řízení"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Inteligentní řízení
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /cs/terms/intelligent_control/
-date: "2026-07-18T16:03:31.371778Z"
-lastmod: "2026-07-18T17:15:09.143223Z"
+slug: intelligent_control
+date: '2026-07-18T16:03:31.371778Z'
+lastmod: '2026-07-18T17:15:09.143223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Řídící systémy využívající techniky AI k řízení složitých, nelineárních nebo nejistých dynamických procesů."
+source: agnes_llm
+status: published
+language: cs
+description: Řídící systémy využívající techniky AI k řízení složitých, nelineárních
+  nebo nejistých dynamických procesů.
 ---
-
 ## Definition
 
 Inteligentní řízení využívá metody umělé inteligence, jako jsou fuzzy logika, neuronové sítě a genetické algoritmy, k regulaci systémů, kde je tradiční matematické modelování nedostatečné nebo

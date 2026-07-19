@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /tr/terms/security/
 date: "2026-07-18T15:29:19.204752Z"
 lastmod: "2026-07-18T16:38:07.243694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerini yetkisiz erişim, kötüye kullanım ve kötü niyetli saldırılara karşı koruma pratiği."
 ---
-
 ## Definition
 
 Yapay zeka güvenliği; adversarial saldırılar, veri zehirlenmesi ve model sızdırma gibi tehditlere karşı makine öğrenimi modellerini, veri boru hatlarını ve dağıtım altyapısını korumayı amaçlayan önlemleri kapsar.

@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /cs/terms/pruning/
 date: "2026-07-18T16:13:56.964160Z"
 lastmod: "2026-07-18T17:15:09.192547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Technika komprese modelu, která odstraňuje redundance nebo méně významné parametry, aby se zmenšila velikost a zlepšila rychlost inferenčního zpracování."
 ---
-
 ## Definition
 
 Řezání zahrnuje identifikaci a odstranění neuronů, propojení nebo filtrů v neuronové síti, které přispívají minimálně k přesnosti výstupu. Odstraněním těchto redundantních prvků se model stává lehčím a efektivnějším pro nasazení na zařízení s omezenými zdroji.

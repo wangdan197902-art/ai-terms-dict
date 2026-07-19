@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /zh/terms/data_exploration/
 date: "2026-07-18T11:12:36.731239Z"
 lastmod: "2026-07-18T11:44:45.474577Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在正式建模之前，对数据集进行初步分析，以发现模式、识别异常并验证假设。"
 ---
-
 ## Definition
 
 数据探索，通常称为探索性数据分析（EDA），是机器学习工作流程中至关重要的初步步骤。它涉及总结数据的主要特征，经常使用可视化技术来揭示数据的内在结构和分布情况。

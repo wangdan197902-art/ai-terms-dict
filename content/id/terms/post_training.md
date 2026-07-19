@@ -1,23 +1,25 @@
 ---
-title: "pasca-pelatihan"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: pasca-pelatihan
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /id/terms/post_training/
-date: "2026-07-18T15:33:09.759830Z"
-lastmod: "2026-07-18T16:38:07.410141Z"
+slug: post_training
+date: '2026-07-18T15:33:09.759830Z'
+lastmod: '2026-07-18T16:38:07.410141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pasca-pelatihan merujuk pada fase penyempurnaan model yang telah dilatih sebelumnya pada dataset tertentu untuk menyesuaikannya dengan tugas khusus atau mengoptimalkan kinerjanya."
+source: agnes_llm
+status: published
+language: id
+description: Pasca-pelatihan merujuk pada fase penyempurnaan model yang telah dilatih
+  sebelumnya pada dataset tertentu untuk menyesuaikannya dengan tugas khusus atau
+  mengoptimalkan kinerjanya.
 ---
-
 ## Definition
 
 Pasca-pelatihan adalah tahap kritis dalam siklus pembelajaran mesin yang terjadi setelah pelatihan awal model pada data umum berskala besar. Selama fase ini, model mengalami penyesuaian lebih lanjut untuk meningkatkan akurasi dan relevansi terhadap tujuan spesifik.

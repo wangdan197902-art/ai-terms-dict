@@ -1,23 +1,25 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /tr/terms/eagle/
-date: "2026-07-18T15:50:59.946007Z"
-lastmod: "2026-07-18T16:38:07.302824Z"
+slug: eagle
+date: '2026-07-18T15:50:59.946007Z'
+lastmod: '2026-07-18T16:38:07.302824Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Eagle, ByteDance tarafından geliştirilen, büyük dil modellerinin (LLM) verimli bir şekilde önceden eğitilmesi ve ince ayar yapılması için tasarlanmış yüksek performanslı açık kaynaklı bir çerçevedir."
+source: agnes_llm
+status: published
+language: tr
+description: Eagle, ByteDance tarafından geliştirilen, büyük dil modellerinin (LLM)
+  verimli bir şekilde önceden eğitilmesi ve ince ayar yapılması için tasarlanmış yüksek
+  performanslı açık kaynaklı bir çerçevedir.
 ---
-
 ## Definition
 
 Eagle, büyük dil modelleri alanında özellikle eğitim verimliliği ve ölçeklenebilirlik için yapılan optimizasyonlarla ilişkilendirilen spesifik bir mimari ve mühendislik çerçevesini temsil eder. Büyük modellerin kaynak verimliliğini artırmayı amaçlar.

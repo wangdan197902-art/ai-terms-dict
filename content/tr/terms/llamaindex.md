@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /tr/terms/llamaindex/
 date: "2026-07-18T16:01:18.825927Z"
 lastmod: "2026-07-18T16:38:07.328915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "LlamaIndex, özel veri kaynaklarını büyük dil modellerine bağlamak için tasarlanmış bir çerçevedir ve Getirme Artırılmış Üretim (RAG) uygulamalarının oluşturulmasını kolaylaştırır."
 ---
-
 ## Definition
 
 Orijinal adı GPT Index olan LlamaIndex, LLM'lerin yapılandırılmış ve yapılandırılmamış verileri emmesini ve bunlarla etkileşim kurmasını sağlayan güçlü bir veri çerçevesidir. İndeksleme, sorgulama ve yönetme için araçlar sağlar.

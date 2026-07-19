@@ -1,23 +1,24 @@
 ---
-title: "Logic STIT"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: Logic STIT
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /vi/terms/stit_logic/
-date: "2026-07-18T16:11:04.545177Z"
-lastmod: "2026-07-18T16:38:07.802299Z"
+slug: stit_logic
+date: '2026-07-18T16:11:04.545177Z'
+lastmod: '2026-07-18T16:38:07.802299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Logic STIT là một khung hình thức trong logic đạo đức học và logic thời gian, được sử dụng để phân tích tính chủ thể, nghĩa vụ và hành động có ý định."
+source: agnes_llm
+status: published
+language: vi
+description: Logic STIT là một khung hình thức trong logic đạo đức học và logic thời
+  gian, được sử dụng để phân tích tính chủ thể, nghĩa vụ và hành động có ý định.
 ---
-
 ## Definition
 
 STIT viết tắt của 'See To It That' (Thấy để làm điều đó). Đây là một nhánh của logic mô-đun, chủ yếu được sử dụng trong triết học và khoa học máy tính để mô hình hóa tính chủ thể và trách nhiệm. Nó cho phép xác định hình thức về những gì một tác nhân có thể thực hiện hoặc chịu trách nhiệm.

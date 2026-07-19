@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /tr/terms/human_problem_solving/
 date: "2026-07-18T15:56:58.383097Z"
 lastmod: "2026-07-18T16:38:07.317837Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bireylerin akıl yürütme, yaratıcılık ve deneyim kullanarak karmaşık sorunları tanımladığı, analiz ettiği ve çözdüğü bilişsel süreç."
 ---
-
 ## Definition
 
 İnsan sorun çözme, basit görevlerden soyut kavramsal zorluklara kadar uzanan meydan okumalarla başa çıkmak için insanların kullandığı çok yönlü bilişsel yetenekleri kapsar. Algoritmik yaklaşımlardan farklı olarak, bağlama duyarlılık ve sezgisel düşünceyi içerir.

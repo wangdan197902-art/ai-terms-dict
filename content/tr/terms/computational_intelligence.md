@@ -1,23 +1,24 @@
 ---
-title: "Hesaplamalı Zeka"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Hesaplamalı Zeka
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /tr/terms/computational_intelligence/
-date: "2026-07-18T15:45:41.178841Z"
-lastmod: "2026-07-18T16:38:07.284787Z"
+slug: computational_intelligence
+date: '2026-07-18T15:45:41.178841Z'
+lastmod: '2026-07-18T16:38:07.284787Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Karmaşık sorunları çözmek için biyolojik süreçleri taklit eden uyarlanabilir sistemlerle ilgilenen yapay zeka dalı."
+source: agnes_llm
+status: published
+language: tr
+description: Karmaşık sorunları çözmek için biyolojik süreçleri taklit eden uyarlanabilir
+  sistemlerle ilgilenen yapay zeka dalı.
 ---
-
 ## Definition
 
 Hesaplamalı zeka (CI), sinir ağları, bulanık mantık ve evrimsel hesaplama dahil olmak üzere doğadan ilham alan hesaplama paradigmalarını kapsayan bir kümedir. Bu sistemler, karmaşık ve belirsiz 

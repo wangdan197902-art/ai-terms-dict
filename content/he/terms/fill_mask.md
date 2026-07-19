@@ -1,23 +1,24 @@
 ---
-title: "מילוי מסכה"
-term_id: "fill_mask"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "pretraining", "transformers"]
+title: מילוי מסכה
+term_id: fill_mask
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- pretraining
+- transformers
 difficulty: 2
 weight: 1
-slug: "fill_mask"
-aliases:
-  - /he/terms/fill_mask/
-date: "2026-07-18T15:57:45.659388Z"
-lastmod: "2026-07-18T17:15:09.540837Z"
+slug: fill_mask
+date: '2026-07-18T15:57:45.659388Z'
+lastmod: '2026-07-18T17:15:09.540837Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משימה בעיבוד שפה טבעית שבה מודל חוזה אסימונים חסרים במשפט בהתבסס על ההקשר הסובב."
+source: agnes_llm
+status: published
+language: he
+description: משימה בעיבוד שפה טבעית שבה מודל חוזה אסימונים חסרים במשפט בהתבסס על ההקשר
+  הסובב.
 ---
-
 ## Definition
 
 מילוי מסכה היא מטרת אימון מקדים בסיסית המשמשת במודלים מבוססי טרנספורמר כמו BERT. התהליך כולל הסתרת אסימונים אקראיים ברצף טקסט והאימון של המודל לחזות את האסימונים המקוריים.

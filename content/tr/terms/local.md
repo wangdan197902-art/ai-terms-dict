@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /tr/terms/local/
 date: "2026-07-18T15:26:38.010043Z"
 lastmod: "2026-07-18T16:38:07.236516Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Verilerin merkezi bir bulut ortamı yerine belirli bir cihazda işlenmesini veya saklanmasını ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka bağlamında 'yerel', genellikle uzaktaki sunuculara güvenmeden doğrudan kullanıcının donanımında (örneğin dizüstü bilgisayar veya akıllı telefon) gerçekleştirilen işlemleri belirtir. Bu yaklaşım veri gizliliğini artırır

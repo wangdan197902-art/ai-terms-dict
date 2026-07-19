@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /hu/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:08:23.965095Z"
 lastmod: "2026-07-18T17:15:09.800288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy ajánlómotor, amely kifejezett szakmai tudás és felhasználói korlátok alapján következtet az ajánlásokhoz, nem pedig történelmi adatokra támaszkodva."
 ---
-
 ## Definition
 
 Ellentétben a kooperatív szűréssel, amely a múltbeli felhasználói viselkedésre épül, a tudásalapú ajánlórendszerek (KBRS) kifejezett tudást használnak a tárgyakról és a felhasználói preferenciákról. Különösen hatékony olyan piacokon, ahol hiányosak a történelmi adatok.

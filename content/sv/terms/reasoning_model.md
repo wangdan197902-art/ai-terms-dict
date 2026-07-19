@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /sv/terms/reasoning_model/
 date: "2026-07-18T16:17:39.449529Z"
 lastmod: "2026-07-18T17:15:09.042733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En AI-modell som är specifikt optimerad för att utföra komplex logisk deduktion, problemlösning steg för steg och kedjeresonemang."
 ---
-
 ## Definition
 
 Till skillnad från standard generativa modeller som fokuserar på flyt, prioriterar resonemangsmodeller noggrannhet i multipelstegsuppgifter såsom matematik, kodning och logiska pussel. De använder ofta tekniker som kedjeresonemang (Chain-of-Thought) för att bryta ner komplexa problem i hanterbara delar innan de ger ett slutgiltigt svar.

@@ -1,23 +1,23 @@
 ---
-title: "One-Shot-Lernen"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: One-Shot-Lernen
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /de/terms/one_shot/
-date: "2026-07-18T10:56:30.886257Z"
-lastmod: "2026-07-18T11:44:44.890446Z"
+slug: one_shot
+date: '2026-07-18T10:56:30.886257Z'
+lastmod: '2026-07-18T11:44:44.890446Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Lernparadigma, bei dem ein Modell eine Aufgabe anhand eines einzigen gelabelten Beispiels lernt."
+source: agnes_llm
+status: published
+language: de
+description: Ein Lernparadigma, bei dem ein Modell eine Aufgabe anhand eines einzigen
+  gelabelten Beispiels lernt.
 ---
-
 ## Definition
 
 One-Shot-Lernen ist eine spezifische Art des Few-Shot-Lernens, bei der der Algorithmus nach dem Sehen nur eines positiven Beispiels während des Trainings auf neue Klassen oder Aufgaben verallgemeinern muss. Dieser Ansatz ahmt die menschliche Fähigkeit zur schnellen Anpassung nach.

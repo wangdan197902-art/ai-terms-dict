@@ -1,23 +1,24 @@
 ---
-title: "Pakettikäsittely"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Pakettikäsittely
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /fi/terms/batch_processing/
-date: "2026-07-18T15:45:17.608872Z"
-lastmod: "2026-07-18T17:15:09.387467Z"
+slug: batch_processing
+date: '2026-07-18T15:45:17.608872Z'
+lastmod: '2026-07-18T17:15:09.387467Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Laskentamenetelmä, jossa data kerätään ajan kuluessa ja käsitellään ryhmissä eikä yksittäin."
+source: agnes_llm
+status: published
+language: fi
+description: Laskentamenetelmä, jossa data kerätään ajan kuluessa ja käsitellään ryhmissä
+  eikä yksittäin.
 ---
-
 ## Definition
 
 Pakettikäsittelyssä data syötteet kootaan ryhmään eli pakettiin ennen laskennan tai mallin päättelyn suorittamista. Tämä lähestymistapa eroaa reaaliaikaisesta stream-käsittelystä mahdollistamalla tehokkaamman resurssien käytön ja suuremman läpimenoasteen.

@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /no/terms/percept/
 date: "2026-07-18T16:11:18.099630Z"
 lastmod: "2026-07-18T16:38:07.033055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den mentale representasjonen eller det tolkede resultatet av sanseinput behandlet av en oppfatter."
 ---
-
 ## Definition
 
 Et persept er den interne representasjonen av en ekstern stimulus etter at den har blitt behandlet av et oppfatningssystem. Innen AI tilsvarer dette de strukturerte datautdataene fra lavnivå signaalbehandling

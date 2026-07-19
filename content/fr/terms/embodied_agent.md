@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /fr/terms/embodied_agent/
 date: "2026-07-18T11:15:27.661503Z"
 lastmod: "2026-07-18T11:44:45.246199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un agent incarné est un système d'IA qui interagit avec son environnement par le biais d'un corps physique ou d'un appareil sensori-moteur."
 ---
-
 ## Definition
 
 Contrairement à l'IA déincarnée qui traite des données abstraites, les agents incarnés apprennent et agissent dans un contexte physique, en s'appuyant sur des entrées sensorielles et des sorties motrices. Ce paradigme est central en robotique et dans les systèmes autonomes.

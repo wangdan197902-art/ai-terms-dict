@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /pt/terms/monte/
 date: "2026-07-18T14:37:08.871135Z"
 lastmod: "2026-07-18T15:51:59.434276Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Monte refere-se aos métodos de Monte Carlo, que usam amostragem aleatória repetida para obter resultados numéricos para problemas que são determinísticos em princípio, mas complexos demais para soluçõ"
 ---
-
 ## Definition
 
 As técnicas de Monte Carlo são uma classe de algoritmos computacionais que dependem de amostragem aleatória repetida para estimar quantidades matemáticas. Elas são particularmente úteis em integração de alta dimensão e simulações probabilísticas.

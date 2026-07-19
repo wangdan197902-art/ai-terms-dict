@@ -1,23 +1,23 @@
 ---
-title: "アンセーアード（安全フィルターや倫理ガイドラインを回避するように改変されたAIモデル）"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: アンセーアード（安全フィルターや倫理ガイドラインを回避するように改変されたAIモデル）
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /ja/terms/uncensored/
-date: "2026-07-18T11:35:35.633994Z"
-lastmod: "2026-07-18T11:44:45.153123Z"
+slug: uncensored
+date: '2026-07-18T11:35:35.633994Z'
+lastmod: '2026-07-18T11:44:45.153123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "安全フィルターや倫理ガイドラインをバイパスするように改変されたAIモデルを指す。"
+source: agnes_llm
+status: published
+language: ja
+description: 安全フィルターや倫理ガイドラインをバイパスするように改変されたAIモデルを指す。
 ---
-
 ## Definition
 
 人工知能の文脈において、「アンセーアード」とは通常、組み込みの安全調整を削除または弱めるためにファインチューニングや改変が施されたモデルを指します。これらのモデルは、設計上、有害または制限されたコンテンツを生成する可能性があります。

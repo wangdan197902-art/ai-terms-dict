@@ -1,23 +1,25 @@
 ---
-title: "Phương pháp tiếp cận có bối cảnh"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Phương pháp tiếp cận có bối cảnh
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /vi/terms/situated_approach/
-date: "2026-07-18T16:12:00.355660Z"
-lastmod: "2026-07-18T16:38:07.805241Z"
+slug: situated_approach
+date: '2026-07-18T16:12:00.355660Z'
+lastmod: '2026-07-18T16:38:07.805241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình thiết kế trong AI ưu tiên hành vi phụ thuộc vào ngữ cảnh và tương tác với môi trường hơn là suy luận trừu tượng."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình thiết kế trong AI ưu tiên hành vi phụ thuộc vào ngữ cảnh
+  và tương tác với môi trường hơn là suy luận trừu tượng.
 ---
-
 ## Definition
 
 Phương pháp tiếp cận có bối cảnh là một khung phương pháp luận trong nghiên cứu AI, lập luận rằng hành vi thông minh không thể tách rời khỏi môi trường nơi nó diễn ra. Phương pháp này khuyến nghị xây dựng các hệ thống...

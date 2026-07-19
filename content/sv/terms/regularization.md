@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /sv/terms/regularization/
 date: "2026-07-18T16:18:57.075384Z"
 lastmod: "2026-07-18T17:15:09.043267Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En uppsättning tekniker som används under träningen för att förhindra överanpassning genom att lägga till straff på förlustfunktionen eller begränsa modellkomplexiteten."
 ---
-
 ## Definition
 
 Regularisering är ett avgörande begrepp inom maskininlärning som syftar till att minska generaliseringsfelet utan att avsevärt öka träningsfelet. Det fungerar genom att avskräcka modeller från att lära sig överdrivet specifika mönster i träningsdatan.

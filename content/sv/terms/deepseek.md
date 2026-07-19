@@ -1,23 +1,25 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /sv/terms/deepseek/
-date: "2026-07-18T15:53:23.771512Z"
-lastmod: "2026-07-18T17:15:08.994675Z"
+slug: deepseek
+date: '2026-07-18T15:53:23.771512Z'
+lastmod: '2026-07-18T17:15:08.994675Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "DeepSeek är en serie stora språkmodeller utvecklade av företaget DeepSeek, kända för sin höga effektivitet, starka kodningsförmåga och tillgänglighet med öppna vikter."
+source: agnes_llm
+status: published
+language: sv
+description: DeepSeek är en serie stora språkmodeller utvecklade av företaget DeepSeek,
+  kända för sin höga effektivitet, starka kodningsförmåga och tillgänglighet med öppna
+  vikter.
 ---
-
 ## Definition
 
 DeepSeek syftar på en familj av artificiella intelligensmodeller skapade av bolaget DeepSeek. Dessa modeller är designade för att hantera komplexa uppgifter inom naturlig språkbehandling, inklusive kodgenerering, matematisk resonemang och flerspråkig dialog, med fokus på prestanda och resurseffektivitet.

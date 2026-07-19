@@ -1,23 +1,24 @@
 ---
-title: "Sammanfattning"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Sammanfattning
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /sv/terms/summarization/
-date: "2026-07-18T15:40:47.756380Z"
-lastmod: "2026-07-18T17:15:08.967299Z"
+slug: summarization
+date: '2026-07-18T15:40:47.756380Z'
+lastmod: '2026-07-18T17:15:08.967299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En NLP-uppgift som genererar en koncis och sammanhängande sammanfattning av en längre text samtidigt som den viktigaste informationen bevaras."
+source: agnes_llm
+status: published
+language: sv
+description: En NLP-uppgift som genererar en koncis och sammanhängande sammanfattning
+  av en längre text samtidigt som den viktigaste informationen bevaras.
 ---
-
 ## Definition
 
 Textsammanfattning reducerar stora mängder text till kortare versioner utan att förlora kritisk mening. Det kan vara extraktivt, där viktiga meningar väljs ut från källtexten, eller abstraktivt, där ny text genereras.

@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /ro/terms/furthermore/
 date: "2026-07-18T15:25:47.560405Z"
 lastmod: "2026-07-18T17:15:09.594563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Adverbiu de legătură folosit pentru a introduce informații suplimentare sau a consolida un argument anterior în scrierea tehnică."
 ---
-
 ## Definition
 
 Deși nu este un algoritm tehnic, „în plus” este un instrument lingvistic critic în documentația IA și în lucrările de cercetare. Servește la conectarea ideilor, indicând că afirmația următoare adaugă greutate sau

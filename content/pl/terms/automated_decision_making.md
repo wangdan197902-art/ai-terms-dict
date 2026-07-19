@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /pl/terms/automated_decision_making/
 date: "2026-07-18T15:42:04.803541Z"
 lastmod: "2026-07-18T17:15:08.848208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces, w którym algorytmy niezależnie wybierają działania lub wyniki na podstawie danych wejściowych bez bezpośredniej kontroli człowieka."
 ---
-
 ## Definition
 
 Zautomatyzowane podejmowanie decyzji (ADM) opiera się na systemach oprogramowania do dokonywania wyborów, które wcześniej wymagały ludzkiej oceny. Powszechne w ocenianiu kredytowym, moderacji treści i logistyce, ADM wykorzystuje predefiniowane reguły.

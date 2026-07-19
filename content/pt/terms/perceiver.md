@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /pt/terms/perceiver/
 date: "2026-07-18T15:16:20.932354Z"
 lastmod: "2026-07-18T15:51:59.521699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um sistema ou módulo responsável por receber e interpretar entradas sensoriais do ambiente."
 ---
-
 ## Definition
 
 Na IA e na ciência cognitiva, um perceptor refere-se ao componente de um sistema inteligente que processa dados sensoriais brutos em informações significativas. Diferente de sensores simples que apenas detectam sinais, os perceptores realizam uma interpretação mais profunda dos estímulos recebidos.

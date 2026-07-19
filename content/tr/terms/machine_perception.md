@@ -1,23 +1,24 @@
 ---
-title: "Makine algısı"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Makine algısı
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /tr/terms/machine_perception/
-date: "2026-07-18T16:02:26.152760Z"
-lastmod: "2026-07-18T16:38:07.331575Z"
+slug: machine_perception
+date: '2026-07-18T16:02:26.152760Z'
+lastmod: '2026-07-18T16:38:07.331575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Makine algısı, yapay zeka sistemlerinin görüntüler, ses veya sensör okumaları gibi ortamdan gelen duyusal verileri yorumlama ve anlama yeteneğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Makine algısı, yapay zeka sistemlerinin görüntüler, ses veya sensör okumaları
+  gibi ortamdan gelen duyusal verileri yorumlama ve anlama yeteneğidir.
 ---
-
 ## Definition
 
 Ham sensör girdileri ile anlamlı semantik anlayış arasındaki boşluğu doldurarak görme ve işitme gibi insan duyularını taklit eder. Temel teknolojiler arasında nesne tanıma için bilgisayarlı görü, konuşma tanıma için doğal dil işleme ve...

@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /pt/terms/chain_of_thought_prompting/
 date: "2026-07-18T14:43:42.123735Z"
 lastmod: "2026-07-18T15:51:59.447924Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O Prompting de Pensamento em Cadeia é uma técnica que incentiva os LLMs a gerar etapas intermediárias de raciocínio antes de produzir uma resposta final."
 ---
-
 ## Definition
 
 O prompting de Pensamento em Cadeia (CoT) melhora o desempenho dos grandes modelos de linguagem em tarefas complexas de raciocínio, solicitando explicitamente ao modelo que articule sua lógica passo a passo. Em vez de pular diretamente para a conclusão, o modelo é guiado a expor seu processo de dedução.

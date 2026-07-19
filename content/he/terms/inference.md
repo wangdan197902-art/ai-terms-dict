@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /he/terms/inference/
 date: "2026-07-18T15:23:00.631916Z"
 lastmod: "2026-07-18T17:15:09.471998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "השלב שבו מודל מאומן מעבד נתונים חדשים כדי ליצור תחזיות או פלט."
 ---
-
 ## Definition
 
 הסקה מתייחסת לשלב הפריסה שבו מודל סופי משמש לקבלת החלטות או תחזיות על נתונים שלא נראו בעבר. בניגוד לאימון, שמעדכן משקלים, הסקה צורכת משאבים חישוביים

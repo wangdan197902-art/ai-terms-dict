@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /hu/terms/artificial_wisdom/
 date: "2026-07-18T15:44:57.135842Z"
 lastmod: "2026-07-18T17:15:09.755894Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI kibővítése az intelligencián túl, beleértve az ítélőképességet, az etikát és a kontextuális megértést a megalapozott döntéshozatal érdekében."
 ---
-
 ## Definition
 
 A mesterséges bölcsesség (AW) egy új fogalom, amely arra törekszik, hogy az emberi értékekkel, etikai szempontokkal és hosszú távú stratégiai ítélőképességgel gazdagítsa a mesterséges intelligenciát. Míg az MI a hatékonyságra

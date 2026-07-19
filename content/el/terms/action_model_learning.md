@@ -1,23 +1,24 @@
 ---
-title: "Μάθηση μοντέλου δράσης"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Μάθηση μοντέλου δράσης
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /el/terms/action_model_learning/
-date: "2026-07-18T15:47:56.667765Z"
-lastmod: "2026-07-18T17:15:09.876396Z"
+slug: action_model_learning
+date: '2026-07-18T15:47:56.667765Z'
+lastmod: '2026-07-18T17:15:09.876396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική ενισχυτικής μάθησης όπου ένας πράκτορας μαθαίνει τη δυναμική του περιβάλλοντος παρατηρώντας τις επιπτώσεις των δικών του ενεργειών."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική ενισχυτικής μάθησης όπου ένας πράκτορας μαθαίνει τη δυναμική
+  του περιβάλλοντος παρατηρώντας τις επιπτώσεις των δικών του ενεργειών.
 ---
-
 ## Definition
 
 Η μάθηση μοντέλου δράσης περιλαμβάνει την κατασκευή από έναν πράκτορα μιας εσωτερικής αναπαράστασης του τρόπου με τον οποίο οι ενέργειές του μεταφέρουν το περιβάλλον από μια κατάσταση σε άλλη. Σε αντίθεση με την παθητική παρατήρηση, αυτή η μέθοδος αξιοποιεί την αλληλεπίδραση για την εκμάθηση των κανόνων μετάβασης.

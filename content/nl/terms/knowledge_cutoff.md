@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /nl/terms/knowledge_cutoff/
 date: "2026-07-18T16:01:25.765385Z"
 lastmod: "2026-07-18T17:15:08.758765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Knowledge cutoff is de specifieke datum waarna een taalmodel niet meer is getraind en daarom geen informatie mist over gebeurtenissen die daarna plaatsvinden."
 ---
-
 ## Definition
 
 De datum van kennisafsnijding definieert de temporale grens van de trainingsgegevens van een taalmodel. Informatie, gebeurtenissen of ontwikkelingen die na deze datum hebben plaatsgevonden, zijn over het algemeen onbekend voor het model

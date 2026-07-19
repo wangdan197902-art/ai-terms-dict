@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /fr/terms/latency/
 date: "2026-07-18T11:00:10.425245Z"
 lastmod: "2026-07-18T11:44:45.185588Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le délai temporel entre le début d'une requête et le début de la réponse dans un système d'intelligence artificielle."
 ---
-
 ## Definition
 
 La latence mesure la réactivité d'un service d'IA, généralement exprimée en millisecondes. Elle inclut le temps d'inférence, les délais de transmission réseau et la surcharge de traitement. Une faible latence est critique pour

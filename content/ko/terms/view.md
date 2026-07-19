@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /ko/terms/view/
 date: "2026-07-18T15:31:05.711712Z"
 lastmod: "2026-07-18T16:38:06.787526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "저장된 쿼리의 결과인 데이터베이스의 가상 테이블로, 물리적으로 저장하지 않고 하나 이상의 테이블에서 데이터를 제시합니다."
 ---
-
 ## Definition
 
 데이터베이스 관리에서 뷰는 테이블처럼 동작하지만 자체 데이터는 포함하지 않는 저장된 SQL 쿼리입니다. 이는 기본 데이터에 대한 단순화되거나 사용자 정의된 관점을 제공하여 보안을 강화합니다.

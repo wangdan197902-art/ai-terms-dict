@@ -1,23 +1,24 @@
 ---
-title: "Fuzzy-agent"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Fuzzy-agent
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /no/terms/fuzzy_agent/
-date: "2026-07-18T15:55:14.293338Z"
-lastmod: "2026-07-18T16:38:07.002505Z"
+slug: fuzzy_agent
+date: '2026-07-18T15:55:14.293338Z'
+lastmod: '2026-07-18T16:38:07.002505Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En autonom enhet som bruker uskarpt logikk (fuzzy logic) for å håndtere usikkerhet og upresis informasjon i beslutningsprosesser."
+source: agnes_llm
+status: published
+language: 'no'
+description: En autonom enhet som bruker uskarpt logikk (fuzzy logic) for å håndtere
+  usikkerhet og upresis informasjon i beslutningsprosesser.
 ---
-
 ## Definition
 
 En fuzzy-agent opererer i miljøer der data ofte er tvetydige eller ufullstendige, ved å bruke uskarpe logikksystemer fremfor binære sann/falsk-tilstander. Ved å bruke medlemsfunksjoner og språklige variabler kan den ta mer nyanserte beslutninger.

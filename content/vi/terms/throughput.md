@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /vi/terms/throughput/
 date: "2026-07-18T16:14:42.225328Z"
 lastmod: "2026-07-18T16:38:07.812216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thông lượng đo lường lượng dữ liệu hoặc yêu cầu mà một hệ thống AI có thể xử lý thành công trong một khoảng thời gian nhất định."
 ---
-
 ## Definition
 
 Trong kỹ thuật AI, thông lượng là một chỉ số hiệu suất quan trọng cho thấy khả năng của hệ thống. Nó thường được đo bằng token trên giây đối với LLM, hình ảnh trên giây đối với các mô hình thị giác máy tính, hoặc truy vấn...

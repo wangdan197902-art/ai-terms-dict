@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /hu/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:44:46.724419Z"
 lastmod: "2026-07-18T17:15:09.754929Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI-technológiák alkalmazása a tanítási módszerek javítására, a tanulási élmények személyre szabására és a közigazgatási feladatok automatizálására."
 ---
-
 ## Definition
 
 Az MI az oktatásban gépi tanulást, természetes nyelvi feldolgozást és adaptív rendszereket használ az oktatási eredmények javítására. Lehetővé teszi a tanulók egyéni igényeihez igazított személyre szabott tanulási utak...

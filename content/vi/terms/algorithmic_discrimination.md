@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /vi/terms/algorithmic_discrimination/
 date: "2026-07-18T15:39:57.385724Z"
 lastmod: "2026-07-18T16:38:07.725900Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phân biệt đối xử thuật toán xảy ra khi các hệ thống tự động tạo ra kết quả bất công hoặc thiên vị, gây bất lợi cho các nhóm cụ thể dựa trên các đặc điểm được bảo vệ."
 ---
-
 ## Definition
 
 Hiện tượng này nảy sinh khi các mô hình AI vô tình hoặc có hệ thống đối xử khác biệt với các cá nhân dựa trên chủng tộc, giới tính, tuổi tác hoặc các thuộc tính nhạy cảm khác. Nó thường bắt nguồn từ dữ liệu huấn luyện bị thiên vị hoặc các thiết kế mô hình chưa cân bằng.

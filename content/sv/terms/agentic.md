@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /sv/terms/agentic/
 date: "2026-07-18T15:37:15.300497Z"
 lastmod: "2026-07-18T17:15:08.960416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser AI-system som är kapabla till autonom planering, resonemang och utförande av åtgärder för att uppnå specifika mål."
 ---
-
 ## Definition
 
 Begreppet 'agentic' beskriver AI-agenter som opererar med en hög grad av autonomi. Till skillnad från passiva modeller som bara förutspår text eller klassificerar data, kan agentic-system bryta ner komplexa mål i...

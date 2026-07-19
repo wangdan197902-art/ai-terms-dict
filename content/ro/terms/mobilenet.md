@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /ro/terms/mobilenet/
 date: "2026-07-18T16:12:14.610921Z"
 lastmod: "2026-07-18T17:15:09.682255Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "MobileNet este o familie de rețele neuronale profunde ușoare, concepute pentru aplicații de viziune pe dispozitive mobile și încorporate."
 ---
-
 ## Definition
 
 MobileNets utilizează convoluții separabile în adâncime pentru a reduce drastic costul computațional și dimensiunea modelului comparativ cu convoluțiile standard. Această arhitectură permite extragerea eficientă a caracteristicilor pe

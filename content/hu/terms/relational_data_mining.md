@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /hu/terms/relational_data_mining/
 date: "2026-07-18T16:21:08.586882Z"
 lastmod: "2026-07-18T17:15:09.829167Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A mintázatok és tudás felfedezésének folyamata olyan adatokból, amelyek több egymással összefüggő táblából vagy entitásból állnak."
 ---
-
 ## Definition
 
 A relációs adatbányászat a hasznos információk kinyerésére összpontosít olyan adatbázisokból, ahol az adatok több kapcsolódó táblában vannak szervezve, nem pedig egyetlen lapos táblában. Kihasználja az entitások közötti kapcsolatok kiemelkedő szerepét.

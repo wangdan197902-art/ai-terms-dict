@@ -1,23 +1,23 @@
 ---
-title: "ラベルノイズ"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: ラベルノイズ
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /ja/terms/label_noise/
-date: "2026-07-18T11:21:04.219456Z"
-lastmod: "2026-07-18T11:44:45.114162Z"
+slug: label_noise
+date: '2026-07-18T11:21:04.219456Z'
+lastmod: '2026-07-18T11:44:45.114162Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "教師あり機械学習のトレーニングに使用されるデータセットの目的ラベルにあるエラーや不整合。"
+source: agnes_llm
+status: published
+language: ja
+description: 教師あり機械学習のトレーニングに使用されるデータセットの目的ラベルにあるエラーや不整合。
 ---
-
 ## Definition
 
 ラベルノイズとは、データインスタンスの真のクラスラベルとトレーニングデータセットで提供されるラベルとの間の不一致を指します。これは、人間の注釈エラー、曖昧なデータポイント、

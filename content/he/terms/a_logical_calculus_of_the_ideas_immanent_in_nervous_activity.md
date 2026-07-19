@@ -1,23 +1,24 @@
 ---
-title: "חישוב לוגי של רעיונות הפנימיים בפעילות עצבית"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: חישוב לוגי של רעיונות הפנימיים בפעילות עצבית
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /he/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:39:19.441787Z"
-lastmod: "2026-07-18T17:15:09.506184Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:39:19.441787Z'
+lastmod: '2026-07-18T17:15:09.506184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מאמר פורץ דרך מ-1943 מאת מקקולוך ופיטס שמפורמל כיצד נוירונים יכולים לבצע פעולות לוגיות, ובכך מניח את היסודות לרשתות נוירונים מלאכותיות."
+source: agnes_llm
+status: published
+language: he
+description: מאמר פורץ דרך מ-1943 מאת מקקולוך ופיטס שמפורמל כיצד נוירונים יכולים לבצע
+  פעולות לוגיות, ובכך מניח את היסודות לרשתות נוירונים מלאכותיות.
 ---
-
 ## Definition
 
 מאמר יסוד זה הציע מודל מתמטי לרשתות נוירונים, והראה כי נוירונים מלאכותיים פשוטים יכולים ליישם שערים לוגיים של בול. בכך הוכיחו כי רשת של יחידות אלו יכולה לבצע חישובים לוגיים מורכבים.

@@ -1,23 +1,23 @@
 ---
-title: "Snarere"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Snarere
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /da/terms/rather/
-date: "2026-07-18T15:29:20.130671Z"
-lastmod: "2026-07-18T17:15:09.231973Z"
+slug: rather
+date: '2026-07-18T15:29:20.130671Z'
+lastmod: '2026-07-18T17:15:09.231973Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "I AI-sammenhænge er 'snarere' ikke et teknisk begreb, men optræder ofte i prompts for at angive præference eller korrektion."
+source: agnes_llm
+status: published
+language: da
+description: I AI-sammenhænge er 'snarere' ikke et teknisk begreb, men optræder ofte
+  i prompts for at angive præference eller korrektion.
 ---
-
 ## Definition
 
 Begrebet 'Snarere' er et almindeligt engelsk adverbium, der angiver præference eller kontrast. På det specifikke område af kunstig intelligens og store sprogmodeller udgør det ikke et distinkt teknisk begreb.

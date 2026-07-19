@@ -1,23 +1,24 @@
 ---
-title: "döntéshozatal"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: döntéshozatal
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /hu/terms/decision_making/
-date: "2026-07-18T15:34:52.650415Z"
-lastmod: "2026-07-18T17:15:09.734129Z"
+slug: decision_making
+date: '2026-07-18T15:34:52.650415Z'
+lastmod: '2026-07-18T17:15:09.734129Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A kognitív folyamat, amely során az elérhető információk alapján több alternatíva közül választunk ki egy cselekvési irányt."
+source: agnes_llm
+status: published
+language: hu
+description: A kognitív folyamat, amely során az elérhető információk alapján több
+  alternatíva közül választunk ki egy cselekvési irányt.
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a döntéshozatal olyan algoritmikus folyamatot jelent, amelyben egy rendszer felméri a lehetséges cselekvéseket specifikus kritériumok vagy célok alapján, hogy kiválassza az optimális eredményt. Ez magában foglalja...

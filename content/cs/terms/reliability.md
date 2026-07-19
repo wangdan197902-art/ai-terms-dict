@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /cs/terms/reliability/
 date: "2026-07-18T16:15:22.585716Z"
 lastmod: "2026-07-18T17:15:09.196698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Míra, za jakou systém AI konzistentně plní své zamýšlené funkce správně a bezpečně za stanovených podmínek."
 ---
-
 ## Definition
 
 Spolehlivost v AI se týká důvěryhodnosti a konzistence chování systému v čase a napříč různými vstupy. Spolehlivý systém AI by měl produkovat přesné výsledky, zvládat hraniční případy a chovat se předvídatelně.

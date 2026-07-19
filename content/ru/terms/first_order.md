@@ -1,23 +1,24 @@
 ---
-title: "первого порядка"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: первого порядка
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /ru/terms/first_order/
-date: "2026-07-18T15:31:24.027387Z"
-lastmod: "2026-07-18T16:38:07.094923Z"
+slug: first_order
+date: '2026-07-18T15:31:24.027387Z'
+lastmod: '2026-07-18T16:38:07.094923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к концепциям, включающим прямые отношения или линейные аппроксимации, таким как логика первого порядка или производные первого порядка."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к концепциям, включающим прямые отношения или линейные аппроксимации,
+  таким как логика первого порядка или производные первого порядка.
 ---
-
 ## Definition
 
 В искусственном интеллекте и математике термин «первого порядка» обычно описывает системы или операции, которые включают прямые, линейные отношения без взаимодействий более высокого порядка. В оптимизации он использует градиенты (первые производные) для обновления параметров модели, игнорируя информацию о кривизне поверхности ошибки.

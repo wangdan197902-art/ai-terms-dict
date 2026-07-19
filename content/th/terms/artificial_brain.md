@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /th/terms/artificial_brain/
 date: "2026-07-18T15:42:16.796938Z"
 lastmod: "2026-07-18T16:38:07.573764Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ระบบการคำนวณที่ออกแบบมาเพื่อเลียนแบบโครงสร้างและการทำงานของสมองมนุษย์ทางชีวภาพ มักใช้โครงข่ายประสาทเทียม"
 ---
-
 ## Definition
 
 สมองเทียมหมายถึงสถาปัตยกรรมฮาร์ดแวร์หรือซอฟต์แวร์ที่จำลองโครงสร้างประสาทและวิธีการประมวลผลของสมองมนุษย์ ซึ่งรวมถึงชิปคอมพิวเตอร์นิวโรมอร์ฟิก (neuromorphic computing chips) ที่จำลองการทำงานของเซลล์ประสาท

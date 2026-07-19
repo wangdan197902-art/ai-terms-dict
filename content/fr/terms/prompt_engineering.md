@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /fr/terms/prompt_engineering/
 date: "2026-07-18T07:42:27.302290Z"
 lastmod: "2026-07-18T11:44:44.587365Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La pratique consistant à concevoir et optimiser les textes d'entrée pour guider les grands modèles de langage vers des sorties souhaitées."
 ---
-
 ## Definition
 
 L'ingénierie des invites implique la création d'entrées spécifiques, appelées invites, afin d'obtenir des réponses précises, pertinentes et de haute qualité à partir de modèles d'IA générative. Elle nécessite une compréhension de la manière dont les modèles interprètent ces instructions.

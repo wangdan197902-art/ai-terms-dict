@@ -1,23 +1,23 @@
 ---
-title: "Paraphrasing"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Paraphrasing
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /ko/terms/paraphrasing/
-date: "2026-07-18T16:08:54.598721Z"
-lastmod: "2026-07-18T16:38:06.894575Z"
+slug: paraphrasing
+date: '2026-07-18T16:08:54.598721Z'
+lastmod: '2026-07-18T16:38:06.894575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "자연어 처리(NLP) 작업의 하나로, 동일한 의미를 다른 단어 또는 문장 구조를 사용하여 재작성하는 것입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 자연어 처리(NLP) 작업의 하나로, 동일한 의미를 다른 단어 또는 문장 구조를 사용하여 재작성하는 것입니다.
 ---
-
 ## Definition
 
 자연어 처리에서의 Paraphrasing(의역/재기술)은 주어진 입력 텍스트의 원래 의미적 의미를 보존하면서 대체 표현을 생성하는 과정을 포함합니다. 이는 표절 감소, 모델의 일반화 능력 향상, 텍스트 다양성...

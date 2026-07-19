@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /zh/terms/domain_adaptation/
 date: "2026-07-18T11:15:33.977801Z"
 lastmod: "2026-07-18T11:44:45.491544Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种通过利用源领域的知识来提高模型在目标领域性能机器学习方法。"
 ---
-
 ## Definition
 
 领域自适应解决了训练数据和测试数据来自不同分布的挑战。通过对齐有标签的源领域和无标签或稀疏标签的目标领域之间的特征表示，该方法能够提升模型的泛化能力。

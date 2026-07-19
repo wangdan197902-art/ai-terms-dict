@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /zh/terms/robot/
 date: "2026-07-18T10:54:27.024587Z"
 lastmod: "2026-07-18T11:44:45.383315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种能够自动执行复杂动作的可编程机器。"
 ---
-
 ## Definition
 
 机器人是一种自主或半自主的机械装置，旨在独立或在远程控制下执行任务。它通常由用于环境感知的传感器、执行器以及控制系统组成。

@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /fi/terms/embedding/
 date: "2026-07-18T15:22:52.575501Z"
 lastmod: "2026-07-18T17:15:09.344758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekniikka, joka kuvaa diskreettejä objekteja, kuten sanoja tai kuvia, jatkuvien vektoritilojen sisälle."
 ---
-
 ## Definition
 
 Upotukset ovat tiheitä vektoriesityksiä datasta, joissa semanttiset suhteet säilyvät geometrisessa tilassa. Muuttamalla kategorisia tai korkeadimensioisia syötteitä kiinteänmittaisiksi vektoreiksi malli pystyy käsittelemään ne tehokkaammin.

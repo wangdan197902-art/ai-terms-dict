@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /sv/terms/high_level/
 date: "2026-07-18T15:33:29.538177Z"
 lastmod: "2026-07-18T17:15:08.957085Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser abstrakta representationer eller programmeringsgränssnitt som döljer lågnivåimplementeringsdetaljer från användaren."
 ---
-
 ## Definition
 
 Inom AI betecknar "hög nivå" abstraktioner som förenklar komplexa processer. Högnivåspråk (som Python) eller API:er låter utvecklare bygga modeller utan att behöva hantera minneshantering eller hårdvaruspecifikationer direkt. Detta ökar produktiviteten men kan ibland offra vissa prestandaoptimeringar jämfört med lågnivåkod.

@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /ru/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:11:34.172979Z"
 lastmod: "2026-07-18T16:38:07.195137Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Конвейер Pyannote Audio — это структурированная последовательность этапов обработки, объединяющая различные модели для выполнения сквозной диаризации говорящих."
 ---
-
 ## Definition
 
 В контексте Pyannote Audio конвейер представляет собой настраиваемый рабочий процесс, который связывает вместе различные модули для достижения цели диаризации говорящих. Обычно конвейер включает этапы для обнаружения речи, извлечения признаков и кластеризации.

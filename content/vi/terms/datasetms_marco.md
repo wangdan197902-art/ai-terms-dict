@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: Dataset:Ms Marco
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /vi/terms/datasetms_marco/
-date: "2026-07-18T15:48:01.447361Z"
-lastmod: "2026-07-18T16:38:07.745145Z"
+slug: datasetms_marco
+date: '2026-07-18T15:48:01.447361Z'
+lastmod: '2026-07-18T16:38:07.745145Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Bộ dữ liệu Đọc hiểu Máy tính của Microsoft, là một tập hợp quy mô lớn các truy vấn tìm kiếm thực tế và các đoạn văn bản liên quan, được sử dụng để huấn luyện các hệ thống truy xuất thông tin."
+source: agnes_llm
+status: published
+language: vi
+description: Bộ dữ liệu Đọc hiểu Máy tính của Microsoft, là một tập hợp quy mô lớn
+  các truy vấn tìm kiếm thực tế và các đoạn văn bản liên quan, được sử dụng để huấn
+  luyện các hệ thống truy xuất thông tin.
 ---
-
 ## Definition
 
 MS MARCO (Microsoft Machine Reading Comprehension) là một bộ dữ liệu được sử dụng rộng rãi trong xử lý ngôn ngữ tự nhiên, đặc biệt là cho truy xuất thông tin và trả lời câu hỏi. Bộ dữ liệu này bao gồm các truy vấn tìm kiếm đã được ẩn danh hóa từ Google và các đoạn văn bản trong tài liệu được đánh dấu là liên quan.

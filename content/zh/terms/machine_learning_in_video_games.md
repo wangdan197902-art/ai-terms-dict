@@ -1,23 +1,23 @@
 ---
-title: "游戏开发中的机器学习"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: 游戏开发中的机器学习
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /zh/terms/machine_learning_in_video_games/
-date: "2026-07-18T11:25:23.018194Z"
-lastmod: "2026-07-18T11:44:45.528905Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T11:25:23.018194Z'
+lastmod: '2026-07-18T11:44:45.528905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "将机器学习算法应用于增强游戏开发、创建自适应非玩家角色（NPC）以及优化游戏体验。"
+source: agnes_llm
+status: published
+language: zh
+description: 将机器学习算法应用于增强游戏开发、创建自适应非玩家角色（NPC）以及优化游戏体验。
 ---
-
 ## Definition
 
 该领域涉及将机器学习技术整合到视频游戏制作流程中，以实现资产创建的自动化、平衡游戏机制以及生成动态内容。其应用范围包括使用强化学习来...

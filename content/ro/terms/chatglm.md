@@ -1,23 +1,24 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /ro/terms/chatglm/
-date: "2026-07-18T15:49:04.319938Z"
-lastmod: "2026-07-18T17:15:09.635894Z"
+slug: chatglm
+date: '2026-07-18T15:49:04.319938Z'
+lastmod: '2026-07-18T17:15:09.635894Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "ChatGLM este o serie de modele de limbaj open-source, bilingve și la scară largă, dezvoltate de Zhipu AI, optimizate pentru dialogul în chineză și engleză."
+source: agnes_llm
+status: published
+language: ro
+description: ChatGLM este o serie de modele de limbaj open-source, bilingve și la
+  scară largă, dezvoltate de Zhipu AI, optimizate pentru dialogul în chineză și engleză.
 ---
-
 ## Definition
 
 ChatGLM reprezintă o familie de modele de limbaj bazate pe arhitectura Transformer, concepute special pentru a gestiona conversații bilingve de înaltă calitate în chineză și engleză. Dezvoltate de Zhipu AI, aceste modele utilizează tehnici avansate de antrenament pentru eficiență și precizie.

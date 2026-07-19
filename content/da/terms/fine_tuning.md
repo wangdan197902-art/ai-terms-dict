@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /da/terms/fine_tuning/
 date: "2026-07-18T15:22:59.182853Z"
 lastmod: "2026-07-18T17:15:09.218233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at tilpasse en fortrænet model til en specifik efterfølgende opgave ved hjælp af et mindre datasæt."
 ---
-
 ## Definition
 
 Finjustering indebærer at tage en model, der allerede er trænet på et stort, generelt datasæt, og yderligere træne den på et specialiseret datasæt. Dette giver modellen mulighed for at bevare almen viden, mens den tilegner sig opgavespecifikke evner.

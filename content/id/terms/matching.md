@@ -1,23 +1,24 @@
 ---
-title: "Pencocokan"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: Pencocokan
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /id/terms/matching/
-date: "2026-07-18T15:27:19.947170Z"
-lastmod: "2026-07-18T16:38:07.397305Z"
+slug: matching
+date: '2026-07-18T15:27:19.947170Z'
+lastmod: '2026-07-18T16:38:07.397305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pencocokan melibatkan penyelarasan dua set titik data atau fitur untuk mengidentifikasi korespondensi, kesamaan, atau pasangan optimal di antaranya."
+source: agnes_llm
+status: published
+language: id
+description: Pencocokan melibatkan penyelarasan dua set titik data atau fitur untuk
+  mengidentifikasi korespondensi, kesamaan, atau pasangan optimal di antaranya.
 ---
-
 ## Definition
 
 Pencocokan adalah teknik kritis dalam pembelajaran mesin yang digunakan untuk menetapkan hubungan antara entitas data yang berbeda. Dalam visi komputer, pencocokan fitur mengidentifikasi titik-titik yang sesuai di seluruh gambar

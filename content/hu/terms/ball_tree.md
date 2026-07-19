@@ -1,23 +1,24 @@
 ---
-title: "Gömbfa"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Gömbfa
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /hu/terms/ball_tree/
-date: "2026-07-18T15:46:55.768766Z"
-lastmod: "2026-07-18T17:15:09.758280Z"
+slug: ball_tree
+date: '2026-07-18T15:46:55.768766Z'
+lastmod: '2026-07-18T17:15:09.758280Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy bináris fa adatszerkezet, amelyet a térbeli pontok szervezésére használnak, optimalizálva a legközelebbi szomszédok keresését nagy dimenziójú adathalmazokban."
+source: agnes_llm
+status: published
+language: hu
+description: Egy bináris fa adatszerkezet, amelyet a térbeli pontok szervezésére használnak,
+  optimalizálva a legközelebbi szomszédok keresését nagy dimenziójú adathalmazokban.
 ---
-
 ## Definition
 
 A gömbfa az adatpontokat egymásba ágyazott hipergömbökre (gömbökre) osztja fel, nem pedig hiper téglalapokra. Ez a szerkezet lehetővé teszi a hatékony levágást a legközelebbi szomszéd lekérdezések során a távolságok kiszámításával.

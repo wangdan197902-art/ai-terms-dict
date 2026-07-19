@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /nl/terms/data_preprocessing/
 date: "2026-07-18T15:49:10.239472Z"
 lastmod: "2026-07-18T17:15:08.731414Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het omzetten van ruwe data naar een schone, consistente indeling die geschikt is voor machine learning-algoritmen."
 ---
-
 ## Definition
 
 Data preprocessing is de essentiële taak om ruwe, ongeordende of ruisachtige data om te zetten naar een gestandaardiseerde indeling die machine learning-modellen effectief kunnen verwerken. Deze fase omvat meestal het opschonen, transformeren en normaliseren van de data.

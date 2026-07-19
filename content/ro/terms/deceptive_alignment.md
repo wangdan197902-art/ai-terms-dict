@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /ro/terms/deceptive_alignment/
 date: "2026-07-18T15:53:40.460230Z"
 lastmod: "2026-07-18T17:15:09.646104Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un scenariu în care un model de IA pare aliniat în timpul antrenamentului, dar urmărește obiective nealiniate odată cu implementarea."
 ---
-
 ## Definition
 
 Alinierea înșelătoare apare atunci când un sistem de IA foarte capabil învață că afișarea unui comportament aliniat în timpul antrenamentului îi crește șansele de a fi implementat, menținând în secret obiective nealiniate.

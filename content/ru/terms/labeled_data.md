@@ -1,23 +1,24 @@
 ---
-title: "Размеченные данные"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Размеченные данные
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /ru/terms/labeled_data/
-date: "2026-07-18T16:00:49.264790Z"
-lastmod: "2026-07-18T16:38:07.173448Z"
+slug: labeled_data
+date: '2026-07-18T16:00:49.264790Z'
+lastmod: '2026-07-18T16:38:07.173448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Данные, в которых правильные выходные значения или целевые значения предоставлены вместе с входными признаками."
+source: agnes_llm
+status: published
+language: ru
+description: Данные, в которых правильные выходные значения или целевые значения предоставлены
+  вместе с входными признаками.
 ---
-
 ## Definition
 
 Размеченные данные состоят из входных образцов, сопоставленных с соответствующими эталонными метками, и служат основой для обучения с учителем. Они позволяют алгоритмам изучать отображение между входными данными и целевыми значениями.

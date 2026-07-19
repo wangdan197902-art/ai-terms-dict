@@ -1,23 +1,24 @@
 ---
-title: "Maskgenerering"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: Maskgenerering
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /sv/terms/mask_generation/
-date: "2026-07-18T16:09:03.663455Z"
-lastmod: "2026-07-18T17:15:09.024884Z"
+slug: mask_generation
+date: '2026-07-18T16:09:03.663455Z'
+lastmod: '2026-07-18T17:15:09.024884Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att skapa binära eller sannolikhetsbaserade maskor för att selektivt dölja eller framhäva delar av inmatningsdata under modellbearbetning."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att skapa binära eller sannolikhetsbaserade maskor för att
+  selektivt dölja eller framhäva delar av inmatningsdata under modellbearbetning.
 ---
-
 ## Definition
 
 Maskgenerering innebär att producera rumsliga eller tidsmässiga maskor som avgör vilka element i ett dataset som är synliga eller aktiva under specifika operationer. Inom dataseende används det för objektssegment

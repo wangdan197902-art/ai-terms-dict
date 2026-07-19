@@ -1,23 +1,24 @@
 ---
-title: "เครือข่ายอัตโนมัต"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: เครือข่ายอัตโนมัต
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /th/terms/autonomic_networking/
-date: "2026-07-18T15:43:26.450093Z"
-lastmod: "2026-07-18T16:38:07.577727Z"
+slug: autonomic_networking
+date: '2026-07-18T15:43:26.450093Z'
+lastmod: '2026-07-18T16:38:07.577727Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โครงสร้างพื้นฐานเครือข่ายที่จัดการตนเอง โดยใช้ AI ในการกำหนดค่า ปรับปรุงประสิทธิภาพ และซ่อมแซมตัวเอง"
+source: agnes_llm
+status: published
+language: th
+description: โครงสร้างพื้นฐานเครือข่ายที่จัดการตนเอง โดยใช้ AI ในการกำหนดค่า ปรับปรุงประสิทธิภาพ
+  และซ่อมแซมตัวเอง
 ---
-
 ## Definition
 
 เครือข่ายอัตโนมัตนำหลักการของการคำนวณแบบอัตโนมัติมาใช้ในการสื่อสารโทรคมนาคม ทำให้ระบบสามารถจัดการตนเองได้ด้วยการแทรกแซงจากมนุษย์น้อยที่สุด เครือข่ายเหล่านี้ใช้ AI ในการตรวจจับข้อผิดพลาด ปรับปรุงประสิทธิภาพ และดำเนินการซ่อมแซมตัวเองเพื่อให้เครือข่ายทำงานได้อย่างต่อเนื่อง

@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /tr/terms/self_attention/
 date: "2026-07-18T15:29:19.204806Z"
 lastmod: "2026-07-18T16:38:07.243949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir sinir ağına, girdi dizisinin farklı parçalarının birbirine göre önem derecesini ağırlıklandırmasına olanak tanıyan mekanizma."
 ---
-
 ## Definition
 
 Öz-dikkat, mesafeden bağımsız olarak bir dizideki tüm konumlar arasındaki bağımlılıkları aynı anda yakalamayı sağlar. Her token çifti arasında dikkat skorları hesaplayarak bağlamsal ağırlıklandırmaya izin verir.

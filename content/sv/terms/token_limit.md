@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /sv/terms/token_limit/
 date: "2026-07-18T15:41:02.237185Z"
 lastmod: "2026-07-18T17:15:08.967870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Det maximala antalet token som en AI-modell kan bearbeta i en enda inmatnings- eller utmatningssekvens."
 ---
-
 ## Definition
 
 Tokengränsen definierar begränsningen av kontextfönstrets storlek för stora språkmodeller, vilket begränsar hur mycket text som kan analyseras eller genereras på en gång. Denna arkitektoniska gräns påverkar minneshanteringen,

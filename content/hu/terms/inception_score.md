@@ -1,23 +1,24 @@
 ---
-title: "Inception Score"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Inception Score
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /hu/terms/inception_score/
-date: "2026-07-18T16:05:19.820764Z"
-lastmod: "2026-07-18T17:15:09.795988Z"
+slug: inception_score
+date: '2026-07-18T16:05:19.820764Z'
+lastmod: '2026-07-18T17:15:09.795988Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy metrika a generált képek minőségének értékelésére, amely mind a tisztaságot, mind a sokféleséget méri."
+source: agnes_llm
+status: published
+language: hu
+description: Egy metrika a generált képek minőségének értékelésére, amely mind a tisztaságot,
+  mind a sokféleséget méri.
 ---
-
 ## Definition
 
 Az Inception Score (IS) egy statisztikai mérőszám, amelyet a Generatív Ellentétes Hálók (GAN) és más generatív modellek teljesítményének felmérésére vezettek be. Két tényezőt kombinál: a képminőséget (tisztságot) és a sokféleséget.

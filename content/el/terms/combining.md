@@ -1,23 +1,24 @@
 ---
-title: "Συνδυασμός"
-term_id: "combining"
-category: "basic_concepts"
-subcategory: ""
-tags: ["techniques", "optimization", "architecture"]
+title: Συνδυασμός
+term_id: combining
+category: basic_concepts
+subcategory: ''
+tags:
+- techniques
+- Optimization
+- architecture
 difficulty: 2
 weight: 1
-slug: "combining"
-aliases:
-  - /el/terms/combining/
-date: "2026-07-18T15:24:15.135714Z"
-lastmod: "2026-07-18T17:15:09.841566Z"
+slug: combining
+date: '2026-07-18T15:24:15.135714Z'
+lastmod: '2026-07-18T17:15:09.841566Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο συνδυασμός στην ΤΝ αναφέρεται στην ολοκλήρωση πολλαπλών μοντέλων, πηγών δεδομένων ή τεχνικών για τη βελτίωση της συνολικής απόδοσης και της ανθεκτικότητας."
+source: agnes_llm
+status: published
+language: el
+description: Ο συνδυασμός στην ΤΝ αναφέρεται στην ολοκλήρωση πολλαπλών μοντέλων, πηγών
+  δεδομένων ή τεχνικών για τη βελτίωση της συνολικής απόδοσης και της ανθεκτικότητας.
 ---
-
 ## Definition
 
 Αυτή η έννοια περιλαμβάνει μεθόδους όπως η μάθηση συλλογής (ensemble learning), όπου οι προβλέψεις από πολλά μοντέλα αθροίζονται για τη μείωση της διακύμανσης ή της μεροληψίας. Περιλαμβάνει επίσης την πολυτροπική συγχώνευση, όπου διαφορετικοί τύποι δεδομένων (π.χ. κείμενο και εικόνα) ενσωματώνονται για πλουσιότερη κατανόηση.

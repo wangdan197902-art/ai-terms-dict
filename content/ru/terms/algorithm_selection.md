@@ -1,23 +1,23 @@
 ---
-title: "Выбор алгоритма"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Выбор алгоритма
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /ru/terms/algorithm_selection/
-date: "2026-07-18T15:39:59.355407Z"
-lastmod: "2026-07-18T16:38:07.117568Z"
+slug: algorithm_selection
+date: '2026-07-18T15:39:59.355407Z'
+lastmod: '2026-07-18T16:38:07.117568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Выбор алгоритма — это процесс выбора наиболее подходящего вычислительного метода для конкретной задачи на основе метрик производительности и ограничений."
+source: agnes_llm
+status: published
+language: ru
+description: Выбор алгоритма — это процесс выбора наиболее подходящего вычислительного
+  метода для конкретной задачи на основе метрик производительности и ограничений.
 ---
-
 ## Definition
 
 Выбор алгоритма включает оценку различных вычислительных подходов для определения того, какой из них лучше всего эффективно решает поставленную задачу. Этот процесс учитывает такие факторы, как временная сложность, пространственная сложность и другие ограничения ресурсов.

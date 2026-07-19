@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /nl/terms/lynda_soderholm/
 date: "2026-07-18T16:05:32.493443Z"
 lastmod: "2026-07-18T17:15:08.763963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Lynda Soderholm is een prominente onderzoeker en uitvoerend leider die bekend staat om haar bijdragen aan ethiek in AI, verantwoord innovatie en de maatschappelijke impact van kunstmatige intelligenti"
 ---
-
 ## Definition
 
 Lynda Soderholm is een erkende figuur in de technologiesector, met name bekend om haar werk op het snijvlak van AI-ontwikkeling en ethisch bestuur. Als leider op het gebied van maatschappelijk verantwoord ondernemen,

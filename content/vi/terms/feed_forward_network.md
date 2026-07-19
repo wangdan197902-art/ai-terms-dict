@@ -1,23 +1,24 @@
 ---
-title: "Feed-Forward Network"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Feed-Forward Network
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /vi/terms/feed_forward_network/
-date: "2026-07-18T15:53:20.659789Z"
-lastmod: "2026-07-18T16:38:07.757679Z"
+slug: feed_forward_network
+date: '2026-07-18T15:53:20.659789Z'
+lastmod: '2026-07-18T16:38:07.757679Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lớp mạng nơ-ron nhân tạo trong đó các kết nối giữa các nút không tạo thành chu trình, lan truyền thông tin theo một hướng."
+source: agnes_llm
+status: published
+language: vi
+description: Một lớp mạng nơ-ron nhân tạo trong đó các kết nối giữa các nút không
+  tạo thành chu trình, lan truyền thông tin theo một hướng.
 ---
-
 ## Definition
 
 Feed-Forward Networks (FFNs), còn được gọi là Multi-Layer Perceptrons (MLP), xử lý dữ liệu tuần tự qua các lớp nơ-ron từ đầu vào đến đầu ra mà không có vòng phản hồi. Mỗi nơ-ron nhận các đầu vào...

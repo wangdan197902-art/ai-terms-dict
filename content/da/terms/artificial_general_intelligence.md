@@ -1,23 +1,24 @@
 ---
-title: "Generel kunstig intelligens"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Generel kunstig intelligens
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /da/terms/artificial_general_intelligence/
-date: "2026-07-18T15:41:33.192044Z"
-lastmod: "2026-07-18T17:15:09.259975Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:41:33.192044Z'
+lastmod: '2026-07-18T17:15:09.259975Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Hypotetisk AI, der besidder evnen til at forstå, lære og anvende viden på tværs af et bredt spektrum af opgaver på et menneskeligt niveau."
+source: agnes_llm
+status: published
+language: da
+description: Hypotetisk AI, der besidder evnen til at forstå, lære og anvende viden
+  på tværs af et bredt spektrum af opgaver på et menneskeligt niveau.
 ---
-
 ## Definition
 
 Generel Kunstig Intelligens (AGI) refererer til en type AI, der kan udføre enhver intellektuel opgave, som et menneske kan gøre. I modsætning til snæver AI, der er dygtig til specifikke opgaver som skak eller billedgenkendelse, kan AGI tilpasse sig generelt.

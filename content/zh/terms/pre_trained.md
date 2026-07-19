@@ -1,23 +1,23 @@
 ---
-title: "预训练"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: 预训练
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /zh/terms/pre_trained/
-date: "2026-07-18T10:57:22.743715Z"
-lastmod: "2026-07-18T11:44:45.394442Z"
+slug: pre_trained
+date: '2026-07-18T10:57:22.743715Z'
+lastmod: '2026-07-18T11:44:45.394442Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "预训练模型是指已在大型数据集上训练过的神经网络，旨在学习通用特征，以便后续针对特定任务进行调整。"
+source: agnes_llm
+status: published
+language: zh
+description: 预训练模型是指已在大型数据集上训练过的神经网络，旨在学习通用特征，以便后续针对特定任务进行调整。
 ---
-
 ## Definition
 
 预训练模型是一种基础人工智能模型，已在海量且多样化的数据集（如维基百科或ImageNet）上进行了广泛训练。这种初始训练使模型能够学习到广泛通用的特征表示。

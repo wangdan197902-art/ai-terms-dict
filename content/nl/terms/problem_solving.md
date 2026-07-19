@@ -1,23 +1,24 @@
 ---
-title: "Probleemoplossing"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Probleemoplossing
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /nl/terms/problem_solving/
-date: "2026-07-18T16:13:18.010409Z"
-lastmod: "2026-07-18T17:15:08.778661Z"
+slug: problem_solving
+date: '2026-07-18T16:13:18.010409Z'
+lastmod: '2026-07-18T17:15:08.778661Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het cognitieve proces van het vinden van oplossingen voor moeilijkheden, waarbij gezocht, geredeneerd en gepland wordt binnen gedefinieerde toestandsruimtes."
+source: agnes_llm
+status: published
+language: nl
+description: Het cognitieve proces van het vinden van oplossingen voor moeilijkheden,
+  waarbij gezocht, geredeneerd en gepland wordt binnen gedefinieerde toestandsruimtes.
 ---
-
 ## Definition
 
 In kunstmatige intelligentie verwijst probleemoplossing naar de systematische aanpak om vanuit een beginstatus via een reeks acties naar een doelstatus te navigeren. Dit omvat doorgaans het definiëren van het probleem, het verkennen van de zoekruimte en het evalueren van mogelijke oplossingen.

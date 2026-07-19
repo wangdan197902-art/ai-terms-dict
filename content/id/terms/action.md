@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /id/terms/action/
 date: "2026-07-18T15:23:13.605908Z"
 lastmod: "2026-07-18T16:38:07.388101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Operasi yang dilakukan oleh agen untuk memengaruhi lingkungannya."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan dan robotika, aksi merujuk pada langkah atau keputusan spesifik yang diambil oleh agen cerdas untuk berinteraksi dengan lingkungannya. Aksi dipilih berdasarkan keadaan saat ini

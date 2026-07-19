@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /ja/terms/ai_safety/
 date: "2026-07-18T07:41:35.330975Z"
 lastmod: "2026-07-18T11:44:44.585108Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "高度な人工知能システムによる意図しない有害な結果を防ぐことに焦点を当てた研究分野。"
 ---
-
 ## Definition
 
 AI安全性は、自律型システムが人間にとって有益かつ無害な方法で振る舞うことを確保するための研究と実践を含みます。これには、バイアス、誤情報、セキュリティリスクなどの問題に対処することが含まれます。

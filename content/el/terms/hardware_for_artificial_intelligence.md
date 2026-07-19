@@ -1,23 +1,24 @@
 ---
-title: "Υλικό για την τεχνητή νοημοσύνη"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Υλικό για την τεχνητή νοημοσύνη
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /el/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T16:11:34.665533Z"
-lastmod: "2026-07-18T17:15:09.915804Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T16:11:34.665533Z'
+lastmod: '2026-07-18T17:15:09.915804Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Εξειδικευμένα φυσικά εξαρτήματα σχεδιασμένα να επιταχύνουν τους υπολογιστικούς απαιτήσεις των αλγορίθμων μηχανικής μάθησης και της εκπαίδευσης νευρωνικών δικτύων."
+source: agnes_llm
+status: published
+language: el
+description: Εξειδικευμένα φυσικά εξαρτήματα σχεδιασμένα να επιταχύνουν τους υπολογιστικούς
+  απαιτήσεις των αλγορίθμων μηχανικής μάθησης και της εκπαίδευσης νευρωνικών δικτύων.
 ---
-
 ## Definition
 
 Το υλικό AI αναφέρεται σε εξειδικευμένες υπολογιστικές συσκευές που βελτιστοποιούνται για την μαζική παράλληλη επεξεργασία που απαιτείται από τα φορτία εργασίας μηχανικής μάθησης. Αυτό περιλαμβάνει Γραφικές Κάρτες (GPUs) για γενική παράλληλη επεξεργασία, Τσιπ Επεξεργασίας Νευρώνων (TPUs) και νευρομορφικούς υπολογιστές.

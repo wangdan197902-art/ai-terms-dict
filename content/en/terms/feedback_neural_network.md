@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /en/terms/feedback_neural_network/
 date: "2026-07-18T09:58:20.231196Z"
 lastmod: "2026-07-18T11:44:44.673300Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A neural network architecture where connections form directed cycles, allowing information to persist over time."
 ---
-
 ## Definition
 
 Feedback neural networks, also known as recurrent neural networks (RNNs), contain loops that allow signals to propagate back into previous layers. This recurrence enables the network to maintain an internal state or memory of previous inputs, making it suitable for processing sequential data. Unlike feedforward networks, these models can exhibit dynamic temporal behavior and are essential for tasks involving time-series analysis or context-dependent patterns.

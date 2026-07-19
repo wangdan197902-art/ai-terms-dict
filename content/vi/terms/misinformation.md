@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /vi/terms/misinformation/
 date: "2026-07-18T16:03:31.643113Z"
 lastmod: "2026-07-18T16:38:07.782679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thông tin sai hoặc không chính xác được lan truyền bất kể ý định lừa dối."
 ---
-
 ## Definition
 
 Thông tin sai lệch đề cập đến thông tin sai hoặc gây hiểu lầm được chia sẻ mà không có ý định cố ý gây hại hoặc lừa dối. Nó khác với thông tin giả mạo (disinformation), vốn được tạo ra một cách có chủ đích. Trong bối cảnh AI

@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /fi/terms/inductive_probability/
 date: "2026-07-18T16:03:42.886752Z"
 lastmod: "2026-07-18T17:15:09.422204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mittaus siitä, kuinka hyvin todisteet tukevat hypoteesia, erillään deduktiivisesta varmuudesta."
 ---
-
 ## Definition
 
 Induktiivinen todennäköisyys kvantifioi sen, kuinka todennäköistä hypoteesin on totta havaitun todisteen perusteella, tunnustaen että johtopäätökset ovat todennäköisiä eikä välttämättä varmoja. Se muodostaa bayesilaisen päättelyn perustan, jossa todennäköisyyksiä päivitetään uusien tietojen saatua.

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /pl/terms/sigmoid/
 date: "2026-07-18T16:16:17.214079Z"
 lastmod: "2026-07-18T17:15:08.917191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Funkcja matematyczna, która przekształca dowolną liczbę rzeczywistą na wartość między zerem a jeden, tworząc krzywą w kształcie litery S."
 ---
-
 ## Definition
 
 Funkcja sigmoidalna, zdefiniowana jako σ(z) = 1 / (1 + e^-z), jest szeroko stosowana w uczeniu maszynowym do modelowania prawdopodobieństw. Spłaszcza wartości wejściowe do zakresu (0, 1), co czyni ją odpowiednią dla klasyfikacji binarnej, choć może prowadzić do problemu zanikającego gradientu w głębokich sieciach.

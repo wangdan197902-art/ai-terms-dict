@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /nl/terms/glm/
 date: "2026-07-18T15:57:20.764765Z"
 lastmod: "2026-07-18T17:15:08.748632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "GLM verwijst meestal naar Generalized Linear Models (Algemene Lineaire Modellen) in de statistiek of de serie General Language Models ontwikkeld door Zhipu AI."
 ---
-
 ## Definition
 
 In de statistische modellering staat GLM voor Generalized Linear Models (Algemene Lineaire Modellen), die lineaire regressie uitbreiden om responsvariabelen toe te staan met foutverdelingsmodellen anders dan normale verdelingen. In de context van AI verwijst het ook naar de General Language Model-serie.

@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /sv/terms/misinformation/
 date: "2026-07-18T16:09:54.861744Z"
 lastmod: "2026-07-18T17:15:09.026820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Falsk eller felaktig information som sprids oavsett avsikten att vilseleda."
 ---
-
 ## Definition
 
 Desinformation avser falsk eller vilseledande information som sprids utan den medvetna avsikten att orsaka skada eller vilseleda. Det skiljer sig från disinformaton (medveten desinformation), som är avsiktligt fabricerad. Inom AI-sammanhang...

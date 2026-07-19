@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /th/terms/continuous_time/
 date: "2026-07-18T15:31:52.827167Z"
 lastmod: "2026-07-18T16:38:07.553467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "แนวทางสร้างแบบจำลองที่ตัวแปรเปลี่ยนแปลงอย่างต่อเนื่องและราบรื่นแทนที่จะเป็นขั้นตอนที่ไม่ต่อเนื่อง"
 ---
-
 ## Definition
 
 โมเดลเวลาต่อเนื่องอธิบายพลวัตของระบบโดยใช้สมการเชิงอนุพันธ์ ทำให้สถานะของระบบเปลี่ยนแปลงไปอย่างราบรื่นตามเวลา ใน AI ตัวอย่างที่ชัดเจนคือ Neural Ordinary Differential Equations (Neural ODEs) ซึ่งใช้สมการเชิงอนุพันธ์เพื่อจำลองโครงสร้างเครือข่าย

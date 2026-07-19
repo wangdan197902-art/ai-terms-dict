@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /zh/terms/analysis/
 date: "2026-07-18T10:49:06.484511Z"
 lastmod: "2026-07-18T11:44:45.362175Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "检查数据或模型输出以提取有意义见解和模式的过程。"
 ---
-
 ## Definition
 
 在人工智能的背景下，分析指的是系统地检查数据、模型预测或系统行为，以了解潜在模式、诊断问题或得出可操作的见解。该……

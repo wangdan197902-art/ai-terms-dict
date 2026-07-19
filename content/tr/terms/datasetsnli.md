@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /tr/terms/datasetsnli/
 date: "2026-07-18T15:48:27.399679Z"
 lastmod: "2026-07-18T16:38:07.294495Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İngilizce cümleleri, insan tarafından yazılmış metinsel çıkarım etiketleriyle eşleştiren büyük ölçekli Stanford Doğal Dil Çıkarımı Korpusu."
 ---
-
 ## Definition
 
 SNLI, üzerinde üç sınıf (çıkarım, çelişki ve nötr) ile etiketlenmiş 500.000'den fazla etiketli cümle çifti içeren bir referans veri setidir. Doğal dil işleme alanında araştırma yapmak amacıyla oluşturulmuştur.

@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /no/terms/unified_model/
 date: "2026-07-18T16:20:31.997856Z"
 lastmod: "2026-07-18T16:38:07.056064Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En AI-arkitektur designet for å håndtere flere oppgaver eller modaleriteter innenfor et enkelt rammeverk."
 ---
-
 ## Definition
 
 En forent modell refererer til et kunstig intelligenssystem som er i stand til å utføre ulike distinkte oppgaver, som tekstgenerering, gjenkjenning av bilder og kodesyntese, uten å kreve separate spesialiserte modeller for hver oppgave.

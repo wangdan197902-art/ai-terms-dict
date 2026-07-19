@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /ro/terms/phi/
 date: "2026-07-18T16:15:56.466343Z"
 lastmod: "2026-07-18T17:15:09.691296Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O serie de modele linguistice mari mici, dar foarte eficiente, dezvoltate de Microsoft Research, axate pe densitatea cunoștințelor și raționament."
 ---
-
 ## Definition
 
 Phi, prescurtare de la 'Foundation models based on Teaching-Learning Paradigm' (Modele fundamentale bazate pe paradigma predare-învățare), este o familie de modele linguistice mari compacte create de Microsoft. Spre deosebire de LLM-urile tradiționate antrenate pe corpusuri masive de pe web, Phi se bazează pe date sintetice de înaltă calitate.

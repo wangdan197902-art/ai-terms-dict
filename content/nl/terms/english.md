@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /nl/terms/english/
 date: "2026-07-18T15:25:37.852113Z"
 lastmod: "2026-07-18T17:15:08.683524Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Engels is een natuurlijke taal die dient als dominante benchmarkdataset en doeluitvoer voor veel Natural Language Processing (NLP)-modellen."
 ---
-
 ## Definition
 
 Hoewel primair een menselijke taal, vertegenwoordigt 'Engels' in AI-contexten het meest voorkomende linguïstische domein voor NLP-onderzoek vanwege de overvloed aan digitale tekstgegevens. De meeste fundamentele modellen (zoals B

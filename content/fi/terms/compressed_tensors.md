@@ -1,23 +1,24 @@
 ---
-title: "Pakatussa tensorit"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Pakatussa tensorit
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /fi/terms/compressed_tensors/
-date: "2026-07-18T15:48:45.158120Z"
-lastmod: "2026-07-18T17:15:09.392797Z"
+slug: compressed_tensors
+date: '2026-07-18T15:48:45.158120Z'
+lastmod: '2026-07-18T17:15:09.392797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tensorit, joiden datan tarkkuutta tai kokoa on pienennetty tallennustilan ja laskennallisen tehokkuuden optimoimiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Tensorit, joiden datan tarkkuutta tai kokoa on pienennetty tallennustilan
+  ja laskennallisen tehokkuuden optimoimiseksi.
 ---
-
 ## Definition
 
 Pakatussa tensorit ovat moniulotteisia taulukoita, joita käytetään syväoppimisessa ja joiden numeerista tarkkuutta (esim. float32:sta int8:aan) tai harvuutta on vähennetty. Tätä tekniikkaa kutsutaan kvantitointi tai tiivistäminen.

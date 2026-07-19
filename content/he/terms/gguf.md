@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /he/terms/gguf/
-date: "2026-07-18T15:58:39.742695Z"
-lastmod: "2026-07-18T17:15:09.542275Z"
+slug: gguf
+date: '2026-07-18T15:58:39.742695Z'
+lastmod: '2026-07-18T17:15:09.542275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פורמט קבצים שפותח על ידיgger.ai לאחסון וטעינה יעילים של מודלי שפה גדולים מקוונטנטים (Quantized) בחומרה מקומית."
+source: agnes_llm
+status: published
+language: he
+description: פורמט קבצים שפותח על ידיgger.ai לאחסון וטעינה יעילים של מודלי שפה גדולים
+  מקוונטנטים (Quantized) בחומרה מקומית.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format) הוא פורמט קובץ בינארי המיועד ספציפית להפעלת מודלי שפה גדולים על חומרה לצרכנים. הוא תומך בטכניקות קוונטיזציה שונות, המאפשרות הפחתת גודל המודל ושיפור הביצועים ללא פגיעה משמעותית בדיוק.

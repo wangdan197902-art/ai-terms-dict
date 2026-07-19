@@ -1,23 +1,24 @@
 ---
-title: "υψηλών διαστάσεων"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: υψηλών διαστάσεων
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /el/terms/high_dimensional/
-date: "2026-07-18T15:36:10.595071Z"
-lastmod: "2026-07-18T17:15:09.859830Z"
+slug: high_dimensional
+date: '2026-07-18T15:36:10.595071Z'
+lastmod: '2026-07-18T17:15:09.859830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Περιγράφει χώρους δεδομένων με μεγάλο αριθμό χαρακτηριστικών ή διαστάσεων, οδηγώντας συχνά σε αραιότητα και υπολογιστικές προκλήσεις."
+source: agnes_llm
+status: published
+language: el
+description: Περιγράφει χώρους δεδομένων με μεγάλο αριθμό χαρακτηριστικών ή διαστάσεων,
+  οδηγώντας συχνά σε αραιότητα και υπολογιστικές προκλήσεις.
 ---
-
 ## Definition
 
 Ο όρος «υψηλών διαστάσεων» αναφέρεται σε σύνολα δεδομένων ή διανυσματικούς χώρους που περιέχουν έναν τεράστιο αριθμό ιδιοτήτων ή χαρακτηριστικών. Στην ΤΝ, αυτό είναι κοινό στα ενσωματώματα κειμένου, τα pixel εικόνων ή τα δεδομένα γονιδιακής έκφρασης. Αν και πλούσια σε πληροφορία, αυτές οι διαστάσεις προκαλούν το «κατάρα της διαστατικότητας», όπου τα δεδομένα γίνονται αραιά και οι αποστάσεις μεταξύ τους χάνουν τη σημασία τους.

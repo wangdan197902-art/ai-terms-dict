@@ -1,23 +1,24 @@
 ---
-title: "Instruction Tuning"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Instruction Tuning
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /nl/terms/instruction_tuning/
-date: "2026-07-18T15:27:21.831942Z"
-lastmod: "2026-07-18T17:15:08.687099Z"
+slug: instruction_tuning
+date: '2026-07-18T15:27:21.831942Z'
+lastmod: '2026-07-18T17:15:08.687099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Instruction tuning is een fine-tuning-techniek waarbij een vooraf getraind taalmodel wordt getraind op een dataset van instructies en hun overeenkomstige responsen om de vaardigheid om taken op te vol"
+source: agnes_llm
+status: published
+language: nl
+description: Instruction tuning is een fine-tuning-techniek waarbij een vooraf getraind
+  taalmodel wordt getraind op een dataset van instructies en hun overeenkomstige responsen
+  om de vaardigheid om taken op te vol
 ---
-
 ## Definition
 
 Dit proces overbrugt de kloof tussen algemene pre-training en specifieke taakprestaties. Door het model bloot te stellen aan diverse instructie-responsparen, leert het te generaliseren naar onbekende taken zonder add

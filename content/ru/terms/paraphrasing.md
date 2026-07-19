@@ -1,23 +1,25 @@
 ---
-title: "Перефразирование"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Перефразирование
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /ru/terms/paraphrasing/
-date: "2026-07-18T16:09:32.793567Z"
-lastmod: "2026-07-18T16:38:07.189999Z"
+slug: paraphrasing
+date: '2026-07-18T16:09:32.793567Z'
+lastmod: '2026-07-18T16:38:07.189999Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Задача обработки естественного языка (NLP), заключающаяся в переписывании текста с сохранением исходного смысла, но использованием других слов или синтаксических структур."
+source: agnes_llm
+status: published
+language: ru
+description: Задача обработки естественного языка (NLP), заключающаяся в переписывании
+  текста с сохранением исходного смысла, но использованием других слов или синтаксических
+  структур.
 ---
-
 ## Definition
 
 Перефразирование в области обработки естественного языка (NLP) включает генерацию альтернативных выражений для заданного входного текста при сохранении его первоначального семантического значения. Это критически важно для снижения уровня плагиата, улучшения читаемости и создания разнообразных обучающих выборок.

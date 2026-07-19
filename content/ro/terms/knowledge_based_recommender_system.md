@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /ro/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:07:07.484923Z"
 lastmod: "2026-07-18T17:15:09.672386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un motor de recomandare care generează sugestii raționând asupra cunoștințelor explicite din domeniu și a constrângerilor utilizatorului, în loc să se bazeze pe date istorice."
 ---
-
 ## Definition
 
  Spre deosebire de filtrarea colaborativă, care se bazează pe comportamentul trecut al utilizatorilor, KBRS utilizează cunoștințe explicite despre articole și preferințele utilizatorului pentru a deriva recomandări. Este deosebit de eficient în piețele unde datele istorice sunt rare sau lipsesc.

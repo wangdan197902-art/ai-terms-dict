@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /he/terms/local_llm/
 date: "2026-07-18T16:10:26.309174Z"
 lastmod: "2026-07-18T17:15:09.559563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מונח המתאר הרצת מודלי שפה גדולים בחומרה אישית במקום בשירותי ענן, תוך דגש על פרטיות הנתונים ונגישות לא מקוונת."
 ---
-
 ## Definition
 
 הרצת Local LLM כרוכה בפריסת מודלים בעלי משקל פתוח ישירות על חומרה צרכנית כמו מחשבים אישיים, מקים או שרתים מקומיים. גישה זו מבטלת את התלות בספקי API צד שלישי ומבטיחה...

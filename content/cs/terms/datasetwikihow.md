@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /cs/terms/datasetwikihow/
 date: "2026-07-18T15:52:24.451987Z"
 lastmod: "2026-07-18T17:15:09.120056Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Velká škálovatelná datová sada sestávající z návodů z webu WikiHow, používaná především pro úkoly shrnování textu a generování instrukcí."
 ---
-
 ## Definition
 
 Datová sada WikiHow se skládá z přibližně 60 000 návodů shromážděných z webové stránky WikiHow. Je široce využívána ve výzkumu zpracování přirozeného jazyka pro úkoly, jako je abstraktní shrnování textu a extrakce kroků.

@@ -1,23 +1,25 @@
 ---
-title: "Faules Lernen"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Faules Lernen
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /de/terms/lazy_learning/
-date: "2026-07-18T11:21:06.047192Z"
-lastmod: "2026-07-18T11:44:44.957433Z"
+slug: lazy_learning
+date: '2026-07-18T11:21:06.047192Z'
+lastmod: '2026-07-18T11:44:44.957433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Lernansatz, der die Generalisierung bis zur Klassifizierungszeit verzögert, indem Trainingsinstanzen gespeichert werden, anstatt ein explizites Modell aufzubauen."
+source: agnes_llm
+status: published
+language: de
+description: Ein Lernansatz, der die Generalisierung bis zur Klassifizierungszeit
+  verzögert, indem Trainingsinstanzen gespeichert werden, anstatt ein explizites Modell
+  aufzubauen.
 ---
-
 ## Definition
 
 Faule Lerner, wie k-Nearest Neighbors (k-NN), merken sich den gesamten Trainingsdatensatz und führen Berechnungen erst bei der Vorhersage durch. Dies steht im Gegensatz zum eifrigen Lernen (Eager Learning), das ein allgemeines Modell vor der Auswertung aufbaut.

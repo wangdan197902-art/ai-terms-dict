@@ -1,23 +1,23 @@
 ---
-title: "잔차 연결"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: 잔차 연결
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /ko/terms/residual_connection/
-date: "2026-07-18T15:36:05.902176Z"
-lastmod: "2026-07-18T16:38:06.799845Z"
+slug: residual_connection
+date: '2026-07-18T15:36:05.902176Z'
+lastmod: '2026-07-18T16:38:06.799845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "깊은 네트워크에서 기울기 흐름을 원활하게 하기 위해 레이어의 출력에 입력을 직접 더하는 메커니즘입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 깊은 네트워크에서 기울기 흐름을 원활하게 하기 위해 레이어의 출력에 입력을 직접 더하는 메커니즘입니다.
 ---
-
 ## Definition
 
 스킵 연결(skip connections)이라고도 불리는 잔차 연결은 입력을 후속 레이어의 출력에 직접 추가하여 네트워크 전체에 걸쳐 기울기가 흐르도록 합니다. 이 아키텍처는 매우 깊은 네트워크에서 발생하는 기울기 소실 문제를 해결하고 학습을 용이하게 합니다.

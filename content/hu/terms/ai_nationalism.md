@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /hu/terms/ai_nationalism/
 date: "2026-07-18T15:41:02.735641Z"
 lastmod: "2026-07-18T17:15:09.749305Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a stratégiai verseny az államok között, hogy domináljanak a mesterséges intelligencia fejlesztésében, amelyet geopolitikai és gazdasági érdekek hajtanak."
 ---
-
 ## Definition
 
 Az AI-nacionalizmus azt a tendenciát írja le, amikor a kormányzatok a mesterséges intelligenciát nemzeti biztonság és gazdasági szuverenitás kérdéseként kezelik. Az országok jelentős összegeket fektetnek hazai AI-kutatásokba, korlátozzák a technológia exportját és ösztönzik a belső innovációt.

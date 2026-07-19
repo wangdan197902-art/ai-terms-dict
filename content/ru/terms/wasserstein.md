@@ -1,23 +1,24 @@
 ---
-title: "Васерштейн"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Васерштейн
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /ru/terms/wasserstein/
-date: "2026-07-18T15:30:51.465428Z"
-lastmod: "2026-07-18T16:38:07.093708Z"
+slug: wasserstein
+date: '2026-07-18T15:30:51.465428Z'
+lastmod: '2026-07-18T16:38:07.093708Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метрика, измеряющая расстояние между вероятностными распределениями на основе минимальной стоимости преобразования одного в другое."
+source: agnes_llm
+status: published
+language: ru
+description: Метрика, измеряющая расстояние между вероятностными распределениями на
+  основе минимальной стоимости преобразования одного в другое.
 ---
-
 ## Definition
 
 Расстояние Васерштейна, также известное как расстояние землекопа (Earth Mover's Distance), количественно оценивает различие между двумя вероятностными распределениями путем вычисления минимального «объема работы», необходимого для перемещения массы из одного распределения в другое.

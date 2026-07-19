@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /hu/terms/muse_spark/
 date: "2026-07-18T16:14:30.321681Z"
 lastmod: "2026-07-18T17:15:09.816412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az Apache Sparkra épülő, elosztott mélytanulási keretrendszer, amely lehetővé teszi a skálázható modellképzést nagy klasztereken."
 ---
-
 ## Definition
 
 A Muse Spark egy nyílt forráskódú mélytanulási keretrendszer, amelyet az Apache Spark felett történő hatékony futtatásra terveztek. Lehetővé teszi a fejlesztők számára, hogy komplex neurális hálókat képezzenek elosztott klasztereken a kihasználás

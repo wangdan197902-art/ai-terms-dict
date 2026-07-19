@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /es/terms/aporia/
 date: "2026-07-18T10:35:34.518349Z"
 lastmod: "2026-07-18T11:44:44.776103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: ""
 ---
-
 ## Definition
 
 En filosofía y teoría de la IA, la aporía describe una situación paradójica donde dos argumentos igualmente válidos conducen a resultados contradictorios. En el aprendizaje automático, esto puede manifestarse cuando el rendimiento de un modelo entra en conflicto ético o lógico.

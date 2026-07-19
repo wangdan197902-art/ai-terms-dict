@@ -1,23 +1,25 @@
 ---
-title: "Parafrasi"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Parafrasi
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /it/terms/paraphrasing/
-date: "2026-07-18T16:15:31.872271Z"
-lastmod: "2026-07-18T17:15:08.656866Z"
+slug: paraphrasing
+date: '2026-07-18T16:15:31.872271Z'
+lastmod: '2026-07-18T17:15:08.656866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il compito dell'elaborazione del linguaggio naturale (NLP) consistente nel riscrivere un testo per trasmettere lo stesso significato utilizzando parole diverse o strutture frasali differenti."
+source: agnes_llm
+status: published
+language: it
+description: Il compito dell'elaborazione del linguaggio naturale (NLP) consistente
+  nel riscrivere un testo per trasmettere lo stesso significato utilizzando parole
+  diverse o strutture frasali differenti.
 ---
-
 ## Definition
 
 La parafrasi nell'Elaborazione del Linguaggio Naturale (NLP) implica la generazione di espressioni alternative per un dato testo di input preservandone il significato semantico originale. È fondamentale per ridurre il plagio, migliorare la leggibilità e aumentare la diversità dei dataset di addestramento.

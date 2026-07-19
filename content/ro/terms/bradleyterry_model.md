@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /ro/terms/bradleyterry_model/
 date: "2026-07-18T15:48:36.204173Z"
 lastmod: "2026-07-18T17:15:09.634600Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model statistic utilizat pentru a analiza datele de comparație pereche, estimând probabilitatea ca un element să fie preferat în fața altuia."
 ---
-
 ## Definition
 
 Modelul Bradley-Terry este un model probabilistic utilizat pe scară largă în psihometrie și învățarea automată pentru a gestiona comparațiile perechi. Atribue fiecărui element un scor latent, calculând probabilitatea ca

@@ -1,23 +1,24 @@
 ---
-title: "Kontrastiv fortræning af sprog-billede"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Kontrastiv fortræning af sprog-billede
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /da/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:47:51.704338Z"
-lastmod: "2026-07-18T17:15:09.271892Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:47:51.704338Z'
+lastmod: '2026-07-18T17:15:09.271892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En multimodal fortræningsmetode, der tilpasser billed- og tekstrepræsentationer ved hjælp af kontrastive tabfunktioner."
+source: agnes_llm
+status: published
+language: da
+description: En multimodal fortræningsmetode, der tilpasser billed- og tekstrepræsentationer
+  ved hjælp af kontrastive tabfunktioner.
 ---
-
 ## Definition
 
 Kontrastiv fortræning af sprog-billede (CLIP) er en neuralt netværksarkitektur trænet på billeder og deres tilhørende billedtekster fra internettet. Den bruger et kontraktivt formål til at maksimere ligheden mellem korrekte billede-tekst-par sammenlignet med tilfældige par.

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /ko/terms/diffusersltxpipeline/
-date: "2026-07-18T15:52:15.762955Z"
-lastmod: "2026-07-18T16:38:06.832405Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:52:15.762955Z'
+lastmod: '2026-07-18T16:38:06.832405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "LTX(Lightning Text-to-Video 또는 유사한 고속 생성) 모델용으로 최적화된 Diffusers 내 파이프라인 구현체로, 빠른 추론 속도에 중점을 둡니다."
+source: agnes_llm
+status: published
+language: ko
+description: LTX(Lightning Text-to-Video 또는 유사한 고속 생성) 모델용으로 최적화된 Diffusers 내 파이프라인
+  구현체로, 빠른 추론 속도에 중점을 둡니다.
 ---
-
 ## Definition
 
 LTX 파이프라인은 생성 작업에서 속도와 효율성을 우선시하는 모델에 맞춰져 있으며, 종종 증류(Distillation)되거나 가속화된 샘플링 방법을 사용합니다. Diffusers 프레임워크와 원활하게 통합되어 실시간 생성을 지원합니다.

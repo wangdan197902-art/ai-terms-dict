@@ -1,23 +1,24 @@
 ---
-title: "Învățare proactivă"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Învățare proactivă
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /ro/terms/proactive_learning/
-date: "2026-07-18T16:16:45.371086Z"
-lastmod: "2026-07-18T17:15:09.693142Z"
+slug: proactive_learning
+date: '2026-07-18T16:16:45.371086Z'
+lastmod: '2026-07-18T17:15:09.693142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O strategie de învățare în care agentul selectează activ punctele de date informative pentru a interoga sau explora, în loc să le primească pasiv."
+source: agnes_llm
+status: published
+language: ro
+description: O strategie de învățare în care agentul selectează activ punctele de
+  date informative pentru a interoga sau explora, în loc să le primească pasiv.
 ---
-
 ## Definition
 
 În învățarea proactivă, sistemul AI determină care mostre ar reduce cel mai mult incertitudinea sau ar îmbunătăți performanța modelului, adesea prin strategii de învățare activă sau explorare. Acest lucru contrastează cu...

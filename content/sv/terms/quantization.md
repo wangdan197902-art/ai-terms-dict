@@ -1,23 +1,24 @@
 ---
-title: "Kvantisering"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kvantisering
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /sv/terms/quantization/
-date: "2026-07-18T15:39:34.052514Z"
-lastmod: "2026-07-18T17:15:08.965675Z"
+slug: quantization
+date: '2026-07-18T15:39:34.052514Z'
+lastmod: '2026-07-18T17:15:08.965675Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknik för modelloptimering som minskar precisionen på tal som används i neuronnätsberäkningar för att minska storleken och öka hastigheten."
+source: agnes_llm
+status: published
+language: sv
+description: En teknik för modelloptimering som minskar precisionen på tal som används
+  i neuronnätsberäkningar för att minska storleken och öka hastigheten.
 ---
-
 ## Definition
 
 Kvantisering omvandlar högprecisions flyttal (som FP32) till format med lägre precision (som INT8 eller FP16). Denna minskning reducerar modellens minnesanvändning och beräkningskrav, vilket möjliggör snabbare inferens.

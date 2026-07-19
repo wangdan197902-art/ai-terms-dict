@@ -1,23 +1,23 @@
 ---
-title: "Implementare: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Implementare: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /ro/terms/deployazure/
-date: "2026-07-18T15:54:13.484607Z"
-lastmod: "2026-07-18T17:15:09.647440Z"
+slug: deployazure
+date: '2026-07-18T15:54:13.484607Z'
+lastmod: '2026-07-18T17:15:09.647440Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de găzduire și execuție a modelelor de învățare automată pe infrastructura de servicii cloud Microsoft Azure."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de găzduire și execuție a modelelor de învățare automată pe
+  infrastructura de servicii cloud Microsoft Azure.
 ---
-
 ## Definition
 
 Implementarea pe Azure implică utilizarea instrumentelor native cloud, cum ar fi Azure Machine Learning, Azure Kubernetes Service (AKS) sau Azure Functions, pentru a servi modelele ML la scară largă. Aceasta cuprinde gestionarea resurselor de calcul...

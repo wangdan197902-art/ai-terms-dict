@@ -1,23 +1,22 @@
 ---
-title: "고품질(High-quality)"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: 고품질(High-quality)
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /ko/terms/high_quality/
-date: "2026-07-18T15:31:53.946087Z"
-lastmod: "2026-07-18T16:38:06.789525Z"
+slug: high_quality
+date: '2026-07-18T15:31:53.946087Z'
+lastmod: '2026-07-18T16:38:06.789525Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "우수한 정확도, 신뢰성, 그리고 최소한의 노이즈를 특징으로 하는 데이터셋, 모델 또는 출력을 지칭합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 우수한 정확도, 신뢰성, 그리고 최소한의 노이즈를 특징으로 하는 데이터셋, 모델 또는 출력을 지칭합니다.
 ---
-
 ## Definition
 
 인공지능에서 고품질은 일반적으로 높은 충실도, 낮은 노이즈, 강력한 일반화 능력을 갖춘 데이터나 모델 출력을 설명합니다. 고품질의 학습 데이터는 모델의 성능을 결정하는 핵심 요소이며, 오류나 편향이 최소화되어 더 정확하고 신뢰할 수 있는 예측을 가능하게 합니다.

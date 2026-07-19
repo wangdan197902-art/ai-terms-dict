@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /id/terms/intelligent_decision_support_system/
 date: "2026-07-18T15:56:23.067467Z"
 lastmod: "2026-07-18T16:38:07.471840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem yang ditingkatkan dengan AI untuk membantu manusia dalam membuat keputusan kompleks dengan menganalisis data dan memberikan wawasan yang dapat ditindaklanjuti."
 ---
-
 ## Definition
 
 Sistem Pendukung Keputusan Cerdas (IDSS) mengintegrasikan teknik kecerdasan buatan, seperti pembelajaran mesin dan pemrosesan bahasa alami, dengan kerangka kerja pendukung keputusan tradisional. Sistem ini memanfaatkan kemampuan komputasi canggih untuk memproses volume data besar secara real-time, mengidentifikasi pola tersembunyi, dan menyajikan rekomendasi strategis yang membantu pengambil keputusan manusia mencapai hasil yang lebih optimal dan akurat.

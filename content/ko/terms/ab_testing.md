@@ -1,23 +1,23 @@
 ---
-title: "A/B 테스트"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/B 테스트
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /ko/terms/ab_testing/
-date: "2026-07-18T15:36:53.458149Z"
-lastmod: "2026-07-18T16:38:06.802450Z"
+slug: ab_testing
+date: '2026-07-18T15:36:53.458149Z'
+lastmod: '2026-07-18T16:38:06.802450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "두 가지 변수 버전을 비교하여 더 나은 성능을 결정하는 통계적 방법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 두 가지 변수 버전을 비교하여 더 나은 성능을 결정하는 통계적 방법입니다.
 ---
-
 ## Definition
 
 A/B 테스트는 두 가지 변형(A와 B)을 무작위 통제 실험으로 비교하여 특정 지표에서 더 나은 결과를 가져오는지를 평가합니다. AI 엔지니어링에서 이는 최적화에

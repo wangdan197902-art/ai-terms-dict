@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /hu/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:53:44.046129Z"
 lastmod: "2026-07-18T17:15:09.769685Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy gondosan válogatott adathalmaz, amely az Egyszerű angol Wikipédiából származik, és szövegbeágyazási modellek tanítására és kiértékelésére szolgál."
 ---
-
 ## Definition
 
 Ez az adathalmaz mondatokból és bekezdésekből áll, amelyeket az Egyszerű angol Wikipédiából (Simple English Wikipedia) vontak ki, egy nem anyanyelvi beszélők számára készült, egyszerűsített nyelvtannal és szókincsű Wikipédia-verzióból. Ez az adathalmaz alapvető szerepet játszik a szövegbeágyazási modellek

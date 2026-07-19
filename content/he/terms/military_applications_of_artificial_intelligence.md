@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /he/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:12:24.483993Z"
 lastmod: "2026-07-18T17:15:09.564135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "זה מתייחס לשימוש בטכנולוגיות AI בהקשרים הגנתיים, כולל נשק אוטונומי, סיור, אופטימיזציה של לוגיסטיקה ומערכות תמיכה בקבלת החלטות."
 ---
-
 ## Definition
 
 יישומים צבאיים של AI כוללים טווח רחב של טכנולוגיות המיועדות לשפר את היעילות המבצעית והיתרון האסטרטגי. אלה כוללות כטב"מים אוטונומיים לסיור, ניתוח חיזוי וניהול לוגיסטיקה.

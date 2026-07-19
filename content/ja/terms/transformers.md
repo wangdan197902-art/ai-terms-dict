@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /ja/terms/transformers/
 date: "2026-07-18T10:55:53.677094Z"
 lastmod: "2026-07-18T11:44:45.021966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "この文脈では、最先端のNLPおよびマルチモーダルモデルのための人気のあるオープンソースツールキットであるHugging Face Transformersライブラリを指します。"
 ---
-
 ## Definition
 
 「Transformers」という用語は、しばしばHugging Faceによってメンテナンスされている広く使用されているPythonライブラリを指します。これは、事前学習済みモデルのダウンロード、トレーニング、デプロイメントのための使いやすいインターフェースを提供し、Transformerアーキテクチャに基づくモデルを容易に利用可能にします。

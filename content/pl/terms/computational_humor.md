@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /pl/terms/computational_humor/
 date: "2026-07-18T15:46:26.117248Z"
 lastmod: "2026-07-18T17:15:08.855956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dziedzina AI skupiająca się na generowaniu, rozumieniu i docenianiu treści humorystycznych za pomocą metod obliczeniowych."
 ---
-
 ## Definition
 
 Humor obliczeniowy bada, jak maszyny mogą tworzyć lub interpretować żarty, gra słów i dowcipne uwagi. Zazwyczaj opiera się na przetwarzaniu języka naturalnego do wykrywania niespójności, zmian semantycznych lub nieoczekiwanych

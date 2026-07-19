@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /es/terms/weak_artificial_intelligence/
 date: "2026-07-18T11:13:30.650092Z"
 lastmod: "2026-07-18T11:44:44.865287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "IA diseñada para realizar tareas específicas dentro de un contexto limitado, sin poseer capacidades cognitivas generales."
 ---
-
 ## Definition
 
 La inteligencia artificial débil, también conocida como IA estrecha, se refiere a sistemas diseñados para resolver problemas particulares o realizar tareas específicas, como el reconocimiento facial o la traducción de idiomas. A diferencia de la IA general...

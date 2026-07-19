@@ -1,23 +1,24 @@
 ---
-title: "eerste-orde"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: eerste-orde
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /nl/terms/first_order/
-date: "2026-07-18T15:31:53.297510Z"
-lastmod: "2026-07-18T17:15:08.698161Z"
+slug: first_order
+date: '2026-07-18T15:31:53.297510Z'
+lastmod: '2026-07-18T17:15:08.698161Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Verwijst naar concepten die directe relaties of lineaire benaderingen omvatten, zoals eerste-orde logica of eerste-orde afgeleiden."
+source: agnes_llm
+status: published
+language: nl
+description: Verwijst naar concepten die directe relaties of lineaire benaderingen
+  omvatten, zoals eerste-orde logica of eerste-orde afgeleiden.
 ---
-
 ## Definition
 
 In kunstmatige intelligentie en wiskunde beschrijft 'eerste-orde' doorgaans systemen of bewerkingen die directe, lineaire relaties omvatten zonder interacties van hogere orde. Bij optimalisatie verwijst het naar methoden die gebruikmaken van de eerste afgeleide (de gradiënt) om het minimum van een functie te vinden, in tegenstelling tot tweede-orde methoden die ook de tweede afgeleide (de Hessian-matrix) gebruiken.

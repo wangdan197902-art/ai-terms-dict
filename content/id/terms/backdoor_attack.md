@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /id/terms/backdoor_attack/
 date: "2026-07-18T16:13:46.637888Z"
 lastmod: "2026-07-18T16:38:07.520912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ancaman keamanan di mana aktor jahat menanam pemicu tersembunyi dalam model AI selama pelatihan untuk menyebabkan kesalahan klasifikasi tertentu."
 ---
-
 ## Definition
 
 Serangan backdoor melibatkan pencemaran data pelatihan model pembelajaran mesin dengan pola spesifik, yang dikenal sebagai pemicu. Meskipun model berfungsi normal pada data bersih, ia mengaktifkan perilaku salah be...

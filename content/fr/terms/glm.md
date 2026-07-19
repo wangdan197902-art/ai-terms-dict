@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /fr/terms/glm/
 date: "2026-07-18T11:19:02.188174Z"
 lastmod: "2026-07-18T11:44:45.258902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "GLM désigne généralement les Modèles Linéaires Généralisés en statistiques ou la série de Modèles de Langage Général développé par Zhipu AI."
 ---
-
 ## Definition
 
 En modélisation statistique, GLM signifie Modèles Linéaires Généralisés (Generalized Linear Models), qui étendent la régression linéaire pour permettre des variables de réponse avec des modèles de distribution d'erreur autres que la distribution normale. Dans le contexte de l'IA,

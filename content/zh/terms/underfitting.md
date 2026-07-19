@@ -1,23 +1,23 @@
 ---
-title: "欠拟合"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: 欠拟合
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /zh/terms/underfitting/
-date: "2026-07-18T11:37:26.916615Z"
-lastmod: "2026-07-18T11:44:45.565878Z"
+slug: underfitting
+date: '2026-07-18T11:37:26.916615Z'
+lastmod: '2026-07-18T11:44:45.565878Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "机器学习模型未能捕捉到训练数据潜在趋势的状态。"
+source: agnes_llm
+status: published
+language: zh
+description: 机器学习模型未能捕捉到训练数据潜在趋势的状态。
 ---
-
 ## Definition
 
 当统计模型或机器学习算法无法准确近似将输入映射到输出的函数时，就会发生欠拟合。这通常是因为模型对于数据而言过于简单所致。

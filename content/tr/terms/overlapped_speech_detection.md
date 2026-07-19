@@ -1,23 +1,24 @@
 ---
-title: "Çakışan Konuşma Tespiti"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Çakışan Konuşma Tespiti
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /tr/terms/overlapped_speech_detection/
-date: "2026-07-18T16:07:31.041066Z"
-lastmod: "2026-07-18T16:38:07.344159Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:07:31.041066Z'
+lastmod: '2026-07-18T16:38:07.344159Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir ses akışında iki veya daha fazla konuşmacının aynı anda konuştuğu zaman dilimlerini belirleme süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Bir ses akışında iki veya daha fazla konuşmacının aynı anda konuştuğu
+  zaman dilimlerini belirleme süreci.
 ---
-
 ## Definition
 
 Çakışan Konuşma Tespiti (OSD), eş zamanlı seslendirmelerin aralıklarını nokta atışı tespit eden konuşma işleme alanında uzmanlaşmış bir görevdir. Kimin ne zaman konuştuğuna odaklanan konuşmacı diyarizasyonundan farklı olarak, OSD aynı anda birden fazla kişinin konuştuğu durumları işaretler.

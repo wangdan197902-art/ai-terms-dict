@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้สามปัจจัย"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: การเรียนรู้สามปัจจัย
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /th/terms/three_factor_learning/
-date: "2026-07-18T16:18:25.777734Z"
-lastmod: "2026-07-18T16:38:07.662470Z"
+slug: three_factor_learning
+date: '2026-07-18T16:18:25.777734Z'
+lastmod: '2026-07-18T16:38:07.662470Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กรอบการทำงานของการเรียนรู้แบบเสริมแรง (Reinforcement Learning) ที่ใช้ปัจจัยด้านรางวัล ค่า และนโยบาย เพื่อปรับปรุงพฤติกรรมของเอเจนต์"
+source: agnes_llm
+status: published
+language: th
+description: กรอบการทำงานของการเรียนรู้แบบเสริมแรง (Reinforcement Learning) ที่ใช้ปัจจัยด้านรางวัล
+  ค่า และนโยบาย เพื่อปรับปรุงพฤติกรรมของเอเจนต์
 ---
-
 ## Definition
 
 การเรียนรู้สามปัจจัยเป็นแนวทางเฉพาะภายในวงการการเรียนรู้แบบเสริมแรง โดยแยกกระบวนการเรียนรู้ออกเป็นสามองค์ประกอบที่ชัดเจน ได้แก่ สัญญาณรางวัล (Reward signal) ฟังก์ชันค่า (Value function) และนโยบาย (Policy)...

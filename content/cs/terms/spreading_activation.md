@@ -1,23 +1,24 @@
 ---
-title: "Rozšiřování aktivace"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: Rozšiřování aktivace
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /cs/terms/spreading_activation/
-date: "2026-07-18T16:18:55.852635Z"
-lastmod: "2026-07-18T17:15:09.203315Z"
+slug: spreading_activation
+date: '2026-07-18T16:18:55.852635Z'
+lastmod: '2026-07-18T17:15:09.203315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Kognitivně inspirovaný mechanismus, při kterém aktivace jednoho uzlu vyvolá aktivaci v propojených uzlech sítě."
+source: agnes_llm
+status: published
+language: cs
+description: Kognitivně inspirovaný mechanismus, při kterém aktivace jednoho uzlu
+  vyvolá aktivaci v propojených uzlech sítě.
 ---
-
 ## Definition
 
 Rozšiřování aktivace je koncept původně z kognitivní psychologie, adaptovaný v neuronových sítích k popisu šíření signálu prostřednictvím propojených jednotek. Když je specifický uzel aktivován, jeho aktivita se postupně přenáší na sousední uzly podle vah jejich spojení, což umožňuje asociační vyhledávání a logické usuzování v síti znalostí.

@@ -1,23 +1,24 @@
 ---
-title: "Vektor"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Vektor
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /hu/terms/vector/
-date: "2026-07-18T15:40:20.191246Z"
-lastmod: "2026-07-18T17:15:09.746771Z"
+slug: vector
+date: '2026-07-18T15:40:20.191246Z'
+lastmod: '2026-07-18T17:15:09.746771Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy matematikai objektum, amely nagyságot és irányt képviselő mennyiséget kódol, gyakran használják az AI-ban adatpontok magas dimenziós térben történő kódolására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy matematikai objektum, amely nagyságot és irányt képviselő mennyiséget
+  kódol, gyakran használják az AI-ban adatpontok magas dimenziós térben történő kódolására.
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a vektor egy alapvető adatszerkezet, amelyet információk numerikus ábrázolására használnak. Egy rendezett számokból (elemekből) álló listából áll, amelyek egy entitás jellemzőit leképezik

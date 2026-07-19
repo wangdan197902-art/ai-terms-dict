@@ -1,23 +1,24 @@
 ---
-title: "Tóm tắt văn bản"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Tóm tắt văn bản
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /vi/terms/summarization/
-date: "2026-07-18T15:37:23.306493Z"
-lastmod: "2026-07-18T16:38:07.714498Z"
+slug: summarization
+date: '2026-07-18T15:37:23.306493Z'
+lastmod: '2026-07-18T16:38:07.714498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một tác vụ Xử lý Ngôn ngữ Tự nhiên (NLP) tạo ra một bản tóm tắt ngắn gọn và mạch lạc từ một đoạn văn bản dài hơn trong khi vẫn bảo toàn thông tin chính."
+source: agnes_llm
+status: published
+language: vi
+description: Một tác vụ Xử lý Ngôn ngữ Tự nhiên (NLP) tạo ra một bản tóm tắt ngắn
+  gọn và mạch lạc từ một đoạn văn bản dài hơn trong khi vẫn bảo toàn thông tin chính.
 ---
-
 ## Definition
 
 Tóm tắt văn bản giúp giảm khối lượng văn bản lớn thành các phiên bản ngắn hơn mà không làm mất đi ý nghĩa quan trọng. Nó có thể là trích xuất (extractive), chọn các câu quan trọng từ nguồn, hoặc trừu tượng hóa (abstractive), tạo ra các câu mới.

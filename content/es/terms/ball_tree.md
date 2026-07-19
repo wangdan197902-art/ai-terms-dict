@@ -1,23 +1,25 @@
 ---
-title: "Árbol de bolas"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Árbol de bolas
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /es/terms/ball_tree/
-date: "2026-07-18T10:37:53.983589Z"
-lastmod: "2026-07-18T11:44:44.781104Z"
+slug: ball_tree
+date: '2026-07-18T10:37:53.983589Z'
+lastmod: '2026-07-18T11:44:44.781104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una estructura de datos de árbol binario utilizada para organizar puntos en el espacio, optimizando las búsquedas de vecinos más cercanos en conjuntos de datos de alta dimensión."
+source: agnes_llm
+status: published
+language: es
+description: Una estructura de datos de árbol binario utilizada para organizar puntos
+  en el espacio, optimizando las búsquedas de vecinos más cercanos en conjuntos de
+  datos de alta dimensión.
 ---
-
 ## Definition
 
 Un árbol de bolas particiona los puntos de datos en hiperesferas (bolas) anidadas en lugar de hiperrectángulos. Esta estructura permite una poda eficiente durante las consultas de vecinos más cercanos calculando distancias entre esferas.

@@ -1,23 +1,24 @@
 ---
-title: "Преобразование изображения в видео"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Преобразование изображения в видео
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /ru/terms/image_to_video/
-date: "2026-07-18T15:58:14.670070Z"
-lastmod: "2026-07-18T16:38:07.167991Z"
+slug: image_to_video
+date: '2026-07-18T15:58:14.670070Z'
+lastmod: '2026-07-18T16:38:07.167991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс генерации, при котором статичное изображение анимируется для создания короткого видеоролика, добавляя временную динамику и движение."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс генерации, при котором статичное изображение анимируется для
+  создания короткого видеоролика, добавляя временную динамику и движение.
 ---
-
 ## Definition
 
 Технология преобразования изображения в видео берет один статичный кадр и предсказывает последующие кадры для создания последовательной видеозаписи. Это включает моделирование временной согласованности и физических динамики для обеспечения...

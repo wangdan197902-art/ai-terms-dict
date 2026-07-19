@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /cs/terms/muiltimodal/
 date: "2026-07-18T16:10:00.180527Z"
 lastmod: "2026-07-18T17:15:09.155384Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vícemodální označuje systémy AI, které zpracovávají a integrují více typů datových modalit, jako je text, obrázky a zvuk, současně."
 ---
-
 ## Definition
 
 V umělé inteligenci vícemodálnost popisuje schopnost modelu chápat, generovat nebo korelovat informace napříč různými smyslovými vstupy nebo formáty dat. Na rozdíl od unimodálních modelů...

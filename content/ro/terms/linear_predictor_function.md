@@ -1,23 +1,24 @@
 ---
-title: "Funcție de predicție liniară"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Funcție de predicție liniară
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /ro/terms/linear_predictor_function/
-date: "2026-07-18T16:09:05.636607Z"
-lastmod: "2026-07-18T17:15:09.675275Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:09:05.636607Z'
+lastmod: '2026-07-18T17:15:09.675275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O funcție matematică care calculează o combinație liniară a variabilelor de intrare pentru a prezice un rezultat."
+source: agnes_llm
+status: published
+language: ro
+description: O funcție matematică care calculează o combinație liniară a variabilelor
+  de intrare pentru a prezice un rezultat.
 ---
-
 ## Definition
 
 În modelarea statistică și învățarea automată, o funcție de predicție liniară reprezintă suma ponderată a caracteristicilor de intrare plus un termen de bias. Aceasta servește ca componentă centrală în modelele liniare generalizate (GLM).

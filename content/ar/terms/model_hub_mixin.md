@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /ar/terms/model_hub_mixin/
 date: "2026-07-18T16:13:21.574629Z"
 lastmod: "2026-07-18T17:15:08.529241Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ميكسين مركز النماذج هو مكون فئة قابل لإعادة الاستخدام يضيف وظائف موحدة إلى نماذج مكتبة Hugging Face Transformers."
 ---
-
 ## Definition
 
 توفر الميكسينات طرقاً شائعة مثل الحفظ، والتحميل، ودفع النماذج إلى منصة Hugging Face Hub دون الحاجة إلى تنفيذ كل بنية نموذجية لهذه الأدوات بشكل فردي. تضمن هذه الميكسينات اتساق

@@ -1,23 +1,24 @@
 ---
-title: "ממשק תכנות יישומים REST"
-term_id: "rest_api"
-category: "engineering_practice"
-subcategory: ""
-tags: ["web-services", "architecture", "http"]
+title: ממשק תכנות יישומים REST
+term_id: rest_api
+category: engineering_practice
+subcategory: ''
+tags:
+- Web Services
+- architecture
+- http
 difficulty: 2
 weight: 1
-slug: "rest_api"
-aliases:
-  - /he/terms/rest_api/
-date: "2026-07-18T15:38:14.644719Z"
-lastmod: "2026-07-18T17:15:09.503371Z"
+slug: rest_api
+date: '2026-07-18T15:38:14.644719Z'
+lastmod: '2026-07-18T17:15:09.503371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ממשק תכנות יישומים המבוסס על ארכיטקטורת REST הוא סגנון עיצוב לאפליקציות מקוונות המתבסס על שיטות HTTP סטנדרטיות."
+source: agnes_llm
+status: published
+language: he
+description: ממשק תכנות יישומים המבוסס על ארכיטקטורת REST הוא סגנון עיצוב לאפליקציות
+  מקוונות המתבסס על שיטות HTTP סטנדרטיות.
 ---
-
 ## Definition
 
 ממשקי REST API מאפשרים תקשורת בין לקוחות לשרתים באמצעות פעולות חסרות מצב (stateless) מעל פרוטוקולי HTTP כגון GET, POST, PUT ו-DELETE. הם מבנים משאבים כתורי URI ומשתמשים בפורמטים סטנדרטיים להעברת נתונים.

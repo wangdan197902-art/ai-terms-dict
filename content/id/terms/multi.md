@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /id/terms/multi/
 date: "2026-07-18T15:27:35.896162Z"
 lastmod: "2026-07-18T16:38:07.397847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Awalan yang menunjukkan keberadaan beberapa instansi, kepala (heads), atau modality dalam suatu sistem atau model."
 ---
-
 ## Definition
 
 Awalan 'multi-' sering digunakan dalam AI untuk menyatakan arsitektur atau proses yang melibatkan beberapa komponen paralel. Contohnya adalah Multi-Head Attention, yang memungkinkan model fokus pada berbagai aspek representasi secara bersamaan.

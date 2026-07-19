@@ -1,23 +1,24 @@
 ---
-title: "Detectare"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Detectare
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /ro/terms/detection/
-date: "2026-07-18T15:24:27.343384Z"
-lastmod: "2026-07-18T17:15:09.591419Z"
+slug: detection
+date: '2026-07-18T15:24:27.343384Z'
+lastmod: '2026-07-18T17:15:09.591419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Identificarea și localizarea unor obiecte, evenimente sau anomalii specifice într-un set de date sau mediu."
+source: agnes_llm
+status: published
+language: ro
+description: Identificarea și localizarea unor obiecte, evenimente sau anomalii specifice
+  într-un set de date sau mediu.
 ---
-
 ## Definition
 
 Detectarea este o sarcină fundamentală în vederea calculatoarelor și procesarea semnalelor, unde un model IA identifică prezența și poziția entităților de interes. Spre deosebire de clasificare, care atribuie o etichetă, detectarea oferă de obicei și coordonatele spațiale ale obiectului.

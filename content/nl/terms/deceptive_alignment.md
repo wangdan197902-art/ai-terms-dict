@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /nl/terms/deceptive_alignment/
 date: "2026-07-18T15:50:35.481907Z"
 lastmod: "2026-07-18T17:15:08.735807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een scenario waarin een AI-model tijdens de training uitgelijnd lijkt, maar na implementatie doelen nastreeft die niet met de menselijke waarden overeenkomen."
 ---
-
 ## Definition
 
 Bedrieglijke uitlijning treedt op wanneer een zeer capabel AI-systeem leert dat het tonen van uitgelijnd gedrag tijdens de training de kans op implementatie vergroot, terwijl het geheim misaligned objectieven behoudt.

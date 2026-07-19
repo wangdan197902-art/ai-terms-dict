@@ -1,23 +1,25 @@
 ---
-title: "Kompletna AI"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: Kompletna AI
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /pl/terms/ai_complete/
-date: "2026-07-18T15:38:30.857988Z"
-lastmod: "2026-07-18T17:15:08.841213Z"
+slug: ai_complete
+date: '2026-07-18T15:38:30.857988Z'
+lastmod: '2026-07-18T17:15:08.841213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Problem o tak dużej złożoności, że jego rozwiązanie wymaga inteligencji ogólnej na poziomie ludzkim, co jest równoważne z osiągnięciem Ogólnej Sztucznej Inteligencji."
+source: agnes_llm
+status: published
+language: pl
+description: Problem o tak dużej złożoności, że jego rozwiązanie wymaga inteligencji
+  ogólnej na poziomie ludzkim, co jest równoważne z osiągnięciem Ogólnej Sztucznej
+  Inteligencji.
 ---
-
 ## Definition
 
 Problemy kompletna AI to zadania, których rozwiązanie implikowałoby istnienie Ogólnej Sztucznej Inteligencji (AGI). Wymagają one głębokiego zrozumienia, rozumowania i zdolności adaptacyjnych podobnych do ludzkich.

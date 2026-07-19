@@ -1,23 +1,24 @@
 ---
-title: "Zehirlilik"
-term_id: "toxicity"
-category: "ethics_safety"
-subcategory: ""
-tags: ["safety", "ethics", "nlp"]
+title: Zehirlilik
+term_id: toxicity
+category: ethics_safety
+subcategory: ''
+tags:
+- safety
+- ethics
+- NLP
 difficulty: 2
 weight: 1
-slug: "toxicity"
-aliases:
-  - /tr/terms/toxicity/
-date: "2026-07-18T16:18:11.900031Z"
-lastmod: "2026-07-18T16:38:07.374206Z"
+slug: toxicity
+date: '2026-07-18T16:18:11.900031Z'
+lastmod: '2026-07-18T16:38:07.374206Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zeka tarafından üretilen metinlerde nefret söylemi, taciz ve tehditler dahil olmak üzere zararlı, saldırgan veya rahatsız edici içeriğin varlığı."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zeka tarafından üretilen metinlerde nefret söylemi, taciz ve tehditler
+  dahil olmak üzere zararlı, saldırgan veya rahatsız edici içeriğin varlığı.
 ---
-
 ## Definition
 
 Yapay zekada zehirlilik, saygısız olan, tartışmadan ayrılma eğilimine neden olabilecek veya belirli bir kimliğe odaklanan içeriklerin üretilmesi veya yayılması anlamına gelir. Hafif hakaretlerden açık tehditlere kadar uzanan bir yelpazeyi kapsar ve etik yapay zeka geliştirme süreçlerinde ele alınması gereken kritik bir faktördür.

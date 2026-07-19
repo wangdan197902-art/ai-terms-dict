@@ -1,23 +1,24 @@
 ---
-title: "few-shot (z małą liczbą przykładów)"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot (z małą liczbą przykładów)
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /pl/terms/few_shot/
-date: "2026-07-18T15:31:40.215936Z"
-lastmod: "2026-07-18T17:15:08.825463Z"
+slug: few_shot
+date: '2026-07-18T15:31:40.215936Z'
+lastmod: '2026-07-18T17:15:08.825463Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Paradygmat uczenia, w którym model poprawnie wykonuje zadanie po zapoznaniu się tylko z niewielką liczbą oznaczonych przykładów."
+source: agnes_llm
+status: published
+language: pl
+description: Paradygmat uczenia, w którym model poprawnie wykonuje zadanie po zapoznaniu
+  się tylko z niewielką liczbą oznaczonych przykładów.
 ---
-
 ## Definition
 
 Uczenie few-shot umożliwia modelom uczenia maszynowego uogólnianie na podstawie bardzo ograniczonych danych, zazwyczaj obejmujących od jednego do dziesięciu przykładów na klasę. W przeciwieństwie do tradycyjnego uczenia nadzorowanego, które wymaga tysięcy...

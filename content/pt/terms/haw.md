@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /pt/terms/haw/
-date: "2026-07-18T15:03:02.425275Z"
-lastmod: "2026-07-18T15:51:59.497335Z"
+slug: haw
+date: '2026-07-18T15:03:02.425275Z'
+lastmod: '2026-07-18T15:51:59.497335Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma interjeição coloquial frequentemente usada em comunicação digital informal, sem significado técnico específico em contextos de IA."
+source: agnes_llm
+status: published
+language: pt
+description: Uma interjeição coloquial frequentemente usada em comunicação digital
+  informal, sem significado técnico específico em contextos de IA.
 ---
-
 ## Definition
 
 No contexto do processamento de linguagem geral, 'haw' é uma exclamação informal ou som de hesitação. Embora não represente um conceito algorítmico central na inteligência artificial, os modelos de PLN devem

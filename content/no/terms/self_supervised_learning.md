@@ -1,23 +1,24 @@
 ---
-title: "Selvtilsynelæring"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Selvtilsynelæring
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /no/terms/self_supervised_learning/
-date: "2026-07-18T15:38:34.878771Z"
-lastmod: "2026-07-18T16:38:06.962649Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:38:34.878771Z'
+lastmod: '2026-07-18T16:38:06.962649Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En treningsmetode der modellen genererer sine egne etiketter fra inputdata for å lære representasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: En treningsmetode der modellen genererer sine egne etiketter fra inputdata
+  for å lære representasjoner.
 ---
-
 ## Definition
 
 Selvtilsynelæring er en teknikk der algoritmen lager tilsynssignaler fra de merkeløse dataene selv, typisk ved å forutsi manglende deler av inputen. Den fyller gapet mellom ulært tilsyn (unsupervised learning) og fullt tilsyn (supervised learning) ved å utnytte strukturen i dataene for å lære meningsfulle representasjoner uten manuelle etiketter.

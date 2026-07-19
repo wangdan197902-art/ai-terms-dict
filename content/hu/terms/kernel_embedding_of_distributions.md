@@ -1,23 +1,25 @@
 ---
-title: "Eloszlások kernelbe ágyazása"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Eloszlások kernelbe ágyazása
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /hu/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T16:06:57.405264Z"
-lastmod: "2026-07-18T17:15:09.799048Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T16:06:57.405264Z'
+lastmod: '2026-07-18T17:15:09.799048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy technika, amely valószínűségi eloszlásokat egy reprodukáló kernel Hilbert-térbe (RKHS) térképez, lehetővé téve az összehasonlítást és manipulációt vektorműveleteken keresztül."
+source: agnes_llm
+status: published
+language: hu
+description: Egy technika, amely valószínűségi eloszlásokat egy reprodukáló kernel
+  Hilbert-térbe (RKHS) térképez, lehetővé téve az összehasonlítást és manipulációt
+  vektorműveleteken keresztül.
 ---
-
 ## Definition
 
 Az Eloszlások Kernelbe Ágyazása lehetővé teszi, hogy a valószínűségi objektumokat pontokként kezeljünk egy magas dimenziójú jellemzőtérben, amelyet reprodukáló kernel Hilbert-térnek (RKHS) nevezünk. Az eloszlásokat...

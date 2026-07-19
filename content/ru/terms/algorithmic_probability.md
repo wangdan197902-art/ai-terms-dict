@@ -1,23 +1,24 @@
 ---
-title: "Алгоритмическая вероятность"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Алгоритмическая вероятность
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /ru/terms/algorithmic_probability/
-date: "2026-07-18T15:40:16.589965Z"
-lastmod: "2026-07-18T16:38:07.118140Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:40:16.589965Z'
+lastmod: '2026-07-18T16:38:07.118140Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теоретическая мера вероятности того, что случайная программа сгенерирует конкретную выходную строку."
+source: agnes_llm
+status: published
+language: ru
+description: Теоретическая мера вероятности того, что случайная программа сгенерирует
+  конкретную выходную строку.
 ---
-
 ## Definition
 
 Алгоритмическая вероятность, основанная на сложности Колмогорова и индукции Соломонова, присваивает более высокую вероятность выходам, сгенерированным более короткими программами. Она постулирует, что более простые объяснения являются более вероятными.

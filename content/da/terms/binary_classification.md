@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /da/terms/binary_classification/
 date: "2026-07-18T15:44:21.124973Z"
 lastmod: "2026-07-18T17:15:09.265809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En opgave inden for overvåget læring, hvor målet er at forudsige én af to mulige klasser for hver inputinstans."
 ---
-
 ## Definition
 
 Binær klassificering er et grundlæggende maskinlæringsproblem, hvor outputvariablen er kategorisk med nøjagtigt to mulige udfald, såsom sand/falsk eller spam/ikke-spam. Algoritmer som logistisk regression og support vector machines bruges ofte til denne type opgaver.

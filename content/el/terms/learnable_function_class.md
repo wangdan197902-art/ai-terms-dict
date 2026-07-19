@@ -1,23 +1,25 @@
 ---
-title: "Κλάση Μανθάνουσων Συναρτήσεων"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Κλάση Μανθάνουσων Συναρτήσεων
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /el/terms/learnable_function_class/
-date: "2026-07-18T16:17:57.232831Z"
-lastmod: "2026-07-18T17:15:09.925479Z"
+slug: learnable_function_class
+date: '2026-07-18T16:17:57.232831Z'
+lastmod: '2026-07-18T17:15:09.925479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια κλάση μανθάνουσων συναρτήσεων είναι ένα σύνολο μαθηματικών συναρτήσεων που ορίζονται από μια συγκεκριμένη αρχιτεκτονική μοντέλου και χώρο παραμέτρων, τα οποία ένας αλγόριθμος μάθησης μπορεί να βελ"
+source: agnes_llm
+status: published
+language: el
+description: Μια κλάση μανθάνουσων συναρτήσεων είναι ένα σύνολο μαθηματικών συναρτήσεων
+  που ορίζονται από μια συγκεκριμένη αρχιτεκτονική μοντέλου και χώρο παραμέτρων, τα
+  οποία ένας αλγόριθμος μάθησης μπορεί να βελ
 ---
-
 ## Definition
 
 Στη στατιστική θεωρία μάθησης, μια κλάση μανθάνουσων συναρτήσεων αντιπροσωπεύει τον χώρο υποθέσεων που διατίθεται σε έναν αλγόριθμο. Ορίζει το εύρος των μοτίβων ή απεικονίσεων που το μοντέλο μπορεί δυνητικά να αποκτήσει.

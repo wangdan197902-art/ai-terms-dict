@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /pl/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:40:53.609991Z"
 lastmod: "2026-07-18T17:15:08.846126Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Publiczne debaty i niezgody dotyczące etycznych, społecznych i technicznych implikacji rozwoju i wdrażania SI."
 ---
-
 ## Definition
 
 Kontrowersje wokół SI obejmują szeroki zakres sporów etycznych, prawnych i społecznych wynikających z technologii sztucznej inteligencji. Kluczowe kwestie obejmują stronniczość algorytmiczną, naruszenia prywatności, wypieranie miejsc pracy...

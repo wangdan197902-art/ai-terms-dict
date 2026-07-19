@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /pl/terms/biomedical/
 date: "2026-07-18T15:44:35.502240Z"
 lastmod: "2026-07-18T17:15:08.851671Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dotyczący zastosowań nauk przyrodniczych w praktyce medycznej, często obejmujących komputerową analizę danych zdrowotnych."
 ---
-
 ## Definition
 
 Termin biomedyczny odnosi się do przecięcia biologii, medycyny i technologii, szczególnie w zakresie rozwoju narzędzi diagnostycznych, metod leczenia oraz analizy danych. W kontekście sztucznej inteligencji oznacza to stosowanie algorytmów AI do interpretacji obrazów medycznych, odkrywania leków czy wspomagania decyzji klinicznych.

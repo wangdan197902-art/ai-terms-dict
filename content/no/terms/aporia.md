@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /no/terms/aporia/
 date: "2026-07-18T15:42:31.734949Z"
 lastmod: "2026-07-18T16:38:06.970778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: ""
 ---
-
 ## Definition
 
 Innfinner filosofi og AI-teori beskriver apori en paradoksal situasjon der to like gyldige argumenter fører til motstridende utfall. Inne i maskinlæring kan dette vise seg når modellens ytelse eller tolkning står i konflikt med seg selv eller etiske prinsipper.

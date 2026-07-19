@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /zh/terms/gibberlink/
 date: "2026-07-18T11:19:07.026893Z"
 lastmod: "2026-07-18T11:44:45.509117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Gibberlink 并非人工智能文献中公认的标准术语。"
 ---
-
 ## Definition
 
 在人工智能、机器学习或计算机科学领域，并不存在名为“Gibberlink”的既定概念、技术或方法论。它可能是一个拼写错误，或者是虚构的概念。

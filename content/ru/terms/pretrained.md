@@ -1,23 +1,24 @@
 ---
-title: "Предварительно обученный"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Предварительно обученный
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /ru/terms/pretrained/
-date: "2026-07-18T16:10:35.660117Z"
-lastmod: "2026-07-18T16:38:07.192908Z"
+slug: pretrained
+date: '2026-07-18T16:10:35.660117Z'
+lastmod: '2026-07-18T16:38:07.192908Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к модели, которая уже была обучена на большом наборе данных перед адаптацией для конкретной задачи."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к модели, которая уже была обучена на большом наборе данных
+  перед адаптацией для конкретной задачи.
 ---
-
 ## Definition
 
 Термин «предварительно обученный» описывает модель нейронной сети, которая прошла начальное обучение на массивном, часто общем наборе данных, таком как ImageNet или Википедия. Этот процесс позволяет модели изучить фундаментальные признаки и закономерности данных, которые затем можно использовать в качестве отправной точки для решения более специфических задач с меньшим объемом данных.

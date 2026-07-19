@@ -1,23 +1,24 @@
 ---
-title: "Dati etichettati"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Dati etichettati
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /it/terms/labeled_data/
-date: "2026-07-18T16:07:27.100059Z"
-lastmod: "2026-07-18T17:15:08.641686Z"
+slug: labeled_data
+date: '2026-07-18T16:07:27.100059Z'
+lastmod: '2026-07-18T17:15:08.641686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Dati in cui il valore di output o target corretto è fornito insieme alle caratteristiche di input."
+source: agnes_llm
+status: published
+language: it
+description: Dati in cui il valore di output o target corretto è fornito insieme alle
+  caratteristiche di input.
 ---
-
 ## Definition
 
 I dati etichettati consistono in campioni di input accoppiati con le relative etichette di verità fondamentale (ground truth), fungendo da base per l'apprendimento supervisionato. Consentono agli algoritmi di apprendere la mappatura tra l'input e l'output desiderato.

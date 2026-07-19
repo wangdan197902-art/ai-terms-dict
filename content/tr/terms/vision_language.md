@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /tr/terms/vision_language/
 date: "2026-07-18T15:38:01.632541Z"
 lastmod: "2026-07-18T16:38:07.265618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Görüş-Dil modelleri, çok modlu bağlamları anlamak için görsel verileri metinsel bilgilerle işleyen ve ilişkilendiren yapay zeka sistemleridir."
 ---
-
 ## Definition
 
 Çok Modlu Büyük Dil Modelleri (MLLM) olarak da adlandırılan Görüş-Dil modelleri, bilgisayarlı görüşü ve doğal dil işlemeyi entegre eder. Yapay zekanın görüntüleri anlamasını ve metin üretmesini sağlar.

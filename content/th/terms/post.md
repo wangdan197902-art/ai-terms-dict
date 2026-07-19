@@ -1,23 +1,24 @@
 ---
-title: "โพสต์"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: โพสต์
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /th/terms/post/
-date: "2026-07-18T15:28:06.175458Z"
-lastmod: "2026-07-18T16:38:07.545423Z"
+slug: post
+date: '2026-07-18T15:28:06.175458Z'
+lastmod: '2026-07-18T16:38:07.545423Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เนื้อหาที่เผยแพร่แล้ว โดยทั่วไปอยู่บนบล็อก แพลตฟอร์มโซเชียลมีเดีย หรือฟอรัม ซึ่งแสดงถึงข้อมูลที่ผู้ใช้สร้างขึ้นหรือความคิดเห็น"
+source: agnes_llm
+status: published
+language: th
+description: เนื้อหาที่เผยแพร่แล้ว โดยทั่วไปอยู่บนบล็อก แพลตฟอร์มโซเชียลมีเดีย หรือฟอรัม
+  ซึ่งแสดงถึงข้อมูลที่ผู้ใช้สร้างขึ้นหรือความคิดเห็น
 ---
-
 ## Definition
 
 ในบริบทของการสื่อสารดิจิทัลและข้อมูล AI 'โพสต์' หมายถึงหน่วยเนื้อหาที่แยกจากกันซึ่งแชร์ออนไลน์ ถือเป็นแหล่งข้อมูลสำคัญสำหรับการฝึกโมเดล Natural Language Processing (NLP) และการวิเคราะห์ความรู้สึก (Sentiment Analysis) เพื่อทำความเข้าใจแนวโน้มและทัศนคติของผู้ใช้

@@ -1,23 +1,24 @@
 ---
-title: "Provenienza del Contenuto"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Provenienza del Contenuto
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /it/terms/content_provenance/
-date: "2026-07-18T15:53:03.969766Z"
-lastmod: "2026-07-18T17:15:08.609908Z"
+slug: content_provenance
+date: '2026-07-18T15:53:03.969766Z'
+lastmod: '2026-07-18T17:15:08.609908Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La registrazione verificabile dell'origine, della storia e della proprietà di un bene digitale."
+source: agnes_llm
+status: published
+language: it
+description: La registrazione verificabile dell'origine, della storia e della proprietà
+  di un bene digitale.
 ---
-
 ## Definition
 
 La provenienza del contenuto si riferisce alla documentazione e alla verifica di dove proviene il contenuto digitale, di come è stato creato e di chi lo ha modificato nel tempo. Nel contesto dell'intelligenza artificiale, è cruciale per combattere la disinformazione e garantire l'autenticità.

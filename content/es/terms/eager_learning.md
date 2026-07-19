@@ -1,23 +1,25 @@
 ---
-title: "Aprendizaje ansioso"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Aprendizaje ansioso
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /es/terms/eager_learning/
-date: "2026-07-18T10:47:56.651872Z"
-lastmod: "2026-07-18T11:44:44.800929Z"
+slug: eager_learning
+date: '2026-07-18T10:47:56.651872Z'
+lastmod: '2026-07-18T11:44:44.800929Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El aprendizaje ansioso es un enfoque de aprendizaje automático donde la función de generalización se aprende durante la fase de entrenamiento, lo que permite tiempos de predicción rápidos una vez comp"
+source: agnes_llm
+status: published
+language: es
+description: El aprendizaje ansioso es un enfoque de aprendizaje automático donde
+  la función de generalización se aprende durante la fase de entrenamiento, lo que
+  permite tiempos de predicción rápidos una vez comp
 ---
-
 ## Definition
 
 En el aprendizaje ansioso, el sistema construye una función o modelo objetivo generalizado basándose en los datos de entrenamiento antes de encontrarse con nuevas instancias. Esto contrasta con el aprendizaje perezoso, que retrasa la generalización

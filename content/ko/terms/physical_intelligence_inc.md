@@ -1,23 +1,23 @@
 ---
-title: "피지컬 인텔리전스(Physical Intelligence Inc.)"
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: 피지컬 인텔리전스(Physical Intelligence Inc.)
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /ko/terms/physical_intelligence_inc/
-date: "2026-07-18T16:10:11.698233Z"
-lastmod: "2026-07-18T16:38:06.896760Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T16:10:11.698233Z'
+lastmod: '2026-07-18T16:38:06.896760Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "일반 목적 로봇 조작에 중점을 둔 전 딥마인드 연구원들이 설립한 로봇공학 기업입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 일반 목적 로봇 조작에 중점을 둔 전 딥마인드 연구원들이 설립한 로봇공학 기업입니다.
 ---
-
 ## Definition
 
 피지컬 인텔리전스(PI)는 구글 딥마인드에서 분사된 기업으로, 신체화된 인공지능(Embodied AI) 및 로봇공학 분야를 발전시키는 것을 목표로 합니다. 이 회사는 다양한 작업을 수행할 수 있는 범용 로봇 개발에 집중하고 있습니다.

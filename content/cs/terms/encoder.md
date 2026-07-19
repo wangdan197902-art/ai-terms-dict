@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /cs/terms/encoder/
 date: "2026-07-18T15:35:06.072821Z"
 lastmod: "2026-07-18T17:15:09.089092Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kodér je součástí neuronové sítě, která transformuje vstupní data do komprimovaného, smysluplného zastoupení."
 ---
-
 ## Definition
 
 Kodéry zpracovávají surové vstupní sekvence nebo datové struktury a převádí je na reprezentace v latentním prostoru, často nazývané vložení (embeddings) nebo kódy. Jsou ústředním prvkem architektur, jako jsou Transformery a Autoenkodéry.

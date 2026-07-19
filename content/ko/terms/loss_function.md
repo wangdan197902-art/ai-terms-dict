@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /ko/terms/loss_function/
 date: "2026-07-18T15:35:05.258512Z"
 lastmod: "2026-07-18T16:38:06.796937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "훈련 중 예측값과 실제 목표값 간의 차이를 정량화하는 수학적 함수입니다."
 ---
-
 ## Definition
 
 비용 함수 또는 오차 함수라고도 불리는 손실 함수는 모델의 성능이 얼마나 좋은지를 나타내는 스칼라 값을 제공합니다. 훈련 중 최적화 알고리즘은 이 값을 사용하여 기울기를 계산하고 모델의 가중치를 업데이트하여 손실을 최소화합니다.

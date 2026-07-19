@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /nl/terms/qwen3_5_moe/
 date: "2026-07-18T16:14:38.753347Z"
 lastmod: "2026-07-18T17:15:08.781507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een hypothetische of toekomstige 'sparse mixture-of-experts'-variant van de Qwen3-serie, ontworpen voor hoge efficiëntie."
 ---
-
 ## Definition
 
 Deze term verwijst naar een gespecialiseerde architectuur binnen de Qwen-familie, die waarschijnlijk gebruikmaakt van een Mixture of Experts (MoE)-ontwerp. Bij dergelijke modellen wordt slechts een subset van de neurale netwerkparameters (experts) geactiveerd.

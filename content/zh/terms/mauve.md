@@ -1,23 +1,23 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /zh/terms/mauve/
-date: "2026-07-18T11:24:58.833916Z"
-lastmod: "2026-07-18T11:44:45.527947Z"
+slug: mauve
+date: '2026-07-18T11:24:58.833916Z'
+lastmod: '2026-07-18T11:44:45.527947Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "MAUVE（基于虚拟嵌入的测量对齐）是一种用于自然语言处理的指标，用于评估生成文本分布与人类写作文本分布之间的对齐程度。"
+source: agnes_llm
+status: published
+language: zh
+description: MAUVE（基于虚拟嵌入的测量对齐）是一种用于自然语言处理的指标，用于评估生成文本分布与人类写作文本分布之间的对齐程度。
 ---
-
 ## Definition
 
 MAUVE 是一种统计度量，旨在评估生成语言模型的输出在多大程度上类似于人类语言使用习惯。与简单的困惑度分数不同，MAUVE 使用虚拟嵌入

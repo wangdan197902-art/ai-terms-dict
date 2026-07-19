@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /fi/terms/math/
 date: "2026-07-18T16:10:12.104281Z"
 lastmod: "2026-07-18T17:15:09.433087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Perustavanlaatuinen tieteenala, joka käsittelee lukuja, rakenteita, avaruutta ja muutoksia, ja joka on välttämätön tekoälyongelmien muotoilussa ja ratkaisemisessa."
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa matematiikka tarjoaa teoreettisen viitekehyksen algoritmien suunnittelulle ja analyysille. Keskeisiä osa-alueita ovat lineaarialgebra datan esittämiseen, differentiaalilaskenta optimointiin ja gradienttimenetelmiin, todennäköisyyslaskenta epävarmuuden mallintamiseen sekä tilastotiede datan tulkintaan. Ilman näitä matemaattisia perustuksia modernit tekoälymallit eivät olisi mahdollisia.

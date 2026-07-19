@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /ar/terms/jailbreak/
 date: "2026-07-18T15:37:13.591271Z"
 lastmod: "2026-07-18T17:15:08.462442Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية هندسة الأوامر مصممة للتجاوز عبر مرشحات الأمان والقيود الأخلاقية لنموذج الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 يتضمن 'كسر السجن' صياغة مدخلات أو أوامر محددة تخدع نموذج الذكاء الاصطناعي لتجاهل إرشادات الأمان المدمجة فيه وتوليد محتوى محظور، مثل خطاب الكراهية أو التعليمات الخطيرة.

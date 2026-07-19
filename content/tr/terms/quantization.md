@@ -1,23 +1,24 @@
 ---
-title: "Nicelleme"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Nicelleme
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /tr/terms/quantization/
-date: "2026-07-18T15:36:47.227538Z"
-lastmod: "2026-07-18T16:38:07.261937Z"
+slug: quantization
+date: '2026-07-18T15:36:47.227538Z'
+lastmod: '2026-07-18T16:38:07.261937Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sinir ağı hesaplamalarında kullanılan sayıların hassasiyetini azaltarak model boyutunu küçültmek ve hızı artırmayı amaçlayan bir model optimizasyon tekniğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Sinir ağı hesaplamalarında kullanılan sayıların hassasiyetini azaltarak
+  model boyutunu küçültmek ve hızı artırmayı amaçlayan bir model optimizasyon tekniğidir.
 ---
-
 ## Definition
 
 Nicelleme, yüksek hassasiyetli kayan nokta sayılarını (örneğin FP32) daha düşük hassasiyetli formatlara (örneğin INT8 veya FP16) dönüştürür. Bu azalma, modelin bellek kullanımını ve hesaplama gereksinimlerini düşürür, böylece modelin dağıtımını ve çıkarımını hızlandırır.

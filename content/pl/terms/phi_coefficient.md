@@ -1,23 +1,23 @@
 ---
-title: "Współczynnik phi"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Współczynnik phi
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /pl/terms/phi_coefficient/
-date: "2026-07-18T16:11:25.745997Z"
-lastmod: "2026-07-18T17:15:08.906891Z"
+slug: phi_coefficient
+date: '2026-07-18T16:11:25.745997Z'
+lastmod: '2026-07-18T17:15:08.906891Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Statystyczna miara zależności między dwiema zmiennymi binarnymi."
+source: agnes_llm
+status: published
+language: pl
+description: Statystyczna miara zależności między dwiema zmiennymi binarnymi.
 ---
-
 ## Definition
 
 Współczynnik phi (φ) to miara zależności dla dwóch zmiennych binarnych, pełniąca funkcję współczynnika korelacji Pearsonsa dla zmiennych dychotomicznych. Przyjmuje wartości od -1 do +1, gdzie 0 oznacza brak zależności.

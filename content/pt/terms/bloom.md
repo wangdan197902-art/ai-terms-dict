@@ -1,23 +1,25 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /pt/terms/bloom/
-date: "2026-07-18T14:51:55.844971Z"
-lastmod: "2026-07-18T15:51:59.469188Z"
+slug: bloom
+date: '2026-07-18T14:51:55.844971Z'
+lastmod: '2026-07-18T15:51:59.469188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Em aprendizado de máquina, 'Bloom' geralmente se refere à Taxonomia de Bloom aplicada à educação em IA ou a modelos de incorporação específicos, como o modelo de incorporação de texto Bloom."
+source: agnes_llm
+status: published
+language: pt
+description: Em aprendizado de máquina, 'Bloom' geralmente se refere à Taxonomia de
+  Bloom aplicada à educação em IA ou a modelos de incorporação específicos, como o
+  modelo de incorporação de texto Bloom.
 ---
-
 ## Definition
 
 Embora historicamente se refira à taxonomia educacional de Benjamin Bloom, nos contextos modernos de IA, frequentemente denota o modelo de incorporação de texto Bloom desenvolvido pelo BigScience. Este modelo gera incorporações de alta qualidade para compreensão semântica.

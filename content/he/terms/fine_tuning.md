@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /he/terms/fine_tuning/
 date: "2026-07-18T15:23:00.631889Z"
 lastmod: "2026-07-18T17:15:09.471581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך של התאמת מודל מאומן מראש למשימה ספציפית באמצעות מערך נתונים קטן יותר."
 ---
-
 ## Definition
 
 כוונון עדין כולל לקיחת מודל שכבר אומן על מערך נתונים גדול וכללי והמשך אימונו על מערך נתונים מיוחד. זה מאפשר למודל לשמור על ידע כללי תוך רכישת יכולת

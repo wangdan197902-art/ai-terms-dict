@@ -1,23 +1,23 @@
 ---
-title: "yhdellä askeleella tapahtuva"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: yhdellä askeleella tapahtuva
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /fi/terms/one_step/
-date: "2026-07-18T15:34:25.822088Z"
-lastmod: "2026-07-18T17:15:09.365802Z"
+slug: one_step
+date: '2026-07-18T15:34:25.822088Z'
+lastmod: '2026-07-18T17:15:09.365802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Viittaa algoritmeihin tai prosesseihin, jotka suorittavat tehtävän tai päätöksenteon syklin yhdessä iteraatiossa ilman iteratiivista hienosäätöä."
+source: agnes_llm
+status: published
+language: fi
+description: Viittaa algoritmeihin tai prosesseihin, jotka suorittavat tehtävän tai
+  päätöksenteon syklin yhdessä iteraatiossa ilman iteratiivista hienosäätöä.
 ---
-
 ## Definition
 
 Koneoppimisessa ja optimoinnissa yhdellä askeleella tapahtuvat menetelmät ratkaisevat ongelmat suoraan vaativatta useita iteraatioita tai päivityksiä konvergenssin saavuttamiseksi. Toisin kuin gradienttinalennus, joka vaatii monia askelia minimoidakseen virheen.

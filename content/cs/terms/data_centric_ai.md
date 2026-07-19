@@ -1,23 +1,24 @@
 ---
-title: "Datově orientovaný AI"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: Datově orientovaný AI
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /cs/terms/data_centric_ai/
-date: "2026-07-18T15:50:45.936179Z"
-lastmod: "2026-07-18T17:15:09.116404Z"
+slug: data_centric_ai
+date: '2026-07-18T15:50:45.936179Z'
+lastmod: '2026-07-18T17:15:09.116404Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Přístup k vývoji AI, který upřednostňuje zlepšování kvality a množství trénovacích dat před upravováním architektur modelů."
+source: agnes_llm
+status: published
+language: cs
+description: Přístup k vývoji AI, který upřednostňuje zlepšování kvality a množství
+  trénovacích dat před upravováním architektur modelů.
 ---
-
 ## Definition
 
 Datově orientovaný AI představuje posun paradigmatu ve vývoji umělé inteligence, který se zaměřuje na systematické zlepšování dat používaných k tréninku modelů, nikoli pouze na optimalizaci algoritmů nebo hyperparametrů. Tento přístup uznává, že kvalita dat má zásadní vliv na výkon a spolehlivost výsledných modelů.

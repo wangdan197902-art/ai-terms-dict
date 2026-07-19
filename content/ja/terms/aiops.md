@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /ja/terms/aiops/
 date: "2026-07-18T11:02:48.783694Z"
 lastmod: "2026-07-18T11:44:45.062687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIOpsとは、人工知能（AI）や機械学習を応用してIT運用プロセスを自動化することを指します。"
 ---
-
 ## Definition
 
 IT運用のための人工知能（AIOps）は、ビッグデータ分析と機械学習アルゴリズムを組み合わせて、ITインフラストラクチャおよび運用管理を自動化します。これにより、組織は複雑なIT環境をより効率的に管理できるようになります。

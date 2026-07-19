@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /tr/terms/psychology_of_reasoning/
 date: "2026-07-18T16:10:20.830230Z"
 lastmod: "2026-07-18T16:38:07.354151Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsanların yargı oluşturmasını, karar vermesini ve sorun çözmesini inceleyen, bilişsel AI mimarilerini bilgilendiren disiplinlerarası bir çalışma alanıdır."
 ---
-
 ## Definition
 
 Bu alan, insan muhakemesinin altında yatan zihinsel süreçleri; tümdengelim, tümevarım ve abdüktif çıkarımı inceler. İnsan düşüncesini yönlendiren önyargıları, sezgisel yolları ve mantıksal yapıları araştırır. Yapay zekada bu içgörüler...

@@ -1,23 +1,24 @@
 ---
-title: "Conceptdrift"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Conceptdrift
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /nl/terms/concept_drift/
-date: "2026-07-18T15:47:12.565508Z"
-lastmod: "2026-07-18T17:15:08.727923Z"
+slug: concept_drift
+date: '2026-07-18T15:47:12.565508Z'
+lastmod: '2026-07-18T17:15:08.727923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Conceptdrift treedt op wanneer de statistische eigenschappen van de doelvariabele in de loop van de tijd veranderen, wat de prestaties van het model verslechtert."
+source: agnes_llm
+status: published
+language: nl
+description: Conceptdrift treedt op wanneer de statistische eigenschappen van de doelvariabele
+  in de loop van de tijd veranderen, wat de prestaties van het model verslechtert.
 ---
-
 ## Definition
 
 Conceptdrift is een fenomeen in machine learning waarbij de relatie tussen invoerfuncties en de doeluitvoer verandert naarmate er nieuwe gegevens binnenkomen. Dit gebeurt vaak in dynamische omgevingen waar patronen in de werkelijkheid verschuiven, waardoor modellen die op historische data zijn getraind minder nauwkeurig worden.

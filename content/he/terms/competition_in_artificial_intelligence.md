@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /he/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:48:25.661033Z"
 lastmod: "2026-07-18T17:15:09.521253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "היריבות בין אומות, חברות ומוסדות מחקר להשגת מנהיגות בפיתוח, חדשנות ויישום של בינה מלאכותית."
 ---
-
 ## Definition
 
 תחרות בבינה מלאכותית מתארת את המרוץ הגלובלי האינטנסיבי להתקדם ביכולות הבינה המלאכותית, המונע על ידי יתרונות כלכליים, צבאיים ומדעיים. השחקנים המרכזיים כוללים ענקיות טכנולוגיה כמו Google, Microsoft ואמזון, לצד ממשלות לאומיות המתחרות על עליונות טכנולוגית.

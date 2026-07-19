@@ -1,23 +1,25 @@
 ---
-title: "Attenzione Multi-Testa"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Attenzione Multi-Testa
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /it/terms/multi_head_attention/
-date: "2026-07-18T15:27:13.996347Z"
-lastmod: "2026-07-18T17:15:08.570416Z"
+slug: multi_head_attention
+date: '2026-07-18T15:27:13.996347Z'
+lastmod: '2026-07-18T17:15:08.570416Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un meccanismo nei modelli transformer che consente al modello di prestare attenzione alle informazioni provenienti da diversi sottospazi di rappresentazione simultaneamente."
+source: agnes_llm
+status: published
+language: it
+description: Un meccanismo nei modelli transformer che consente al modello di prestare
+  attenzione alle informazioni provenienti da diversi sottospazi di rappresentazione
+  simultaneamente.
 ---
-
 ## Definition
 
 L'Attenzione Multi-Testa estende il meccanismo di attenzione standard eseguendolo più volte in parallelo con diverse proiezioni lineari apprese. Ciò consente al modello di prestare contemporaneamente attenzione a informazioni provenienti da diverse posizioni.

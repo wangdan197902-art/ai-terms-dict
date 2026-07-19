@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /zh/terms/knowledge_cutoff/
 date: "2026-07-18T11:23:05.463592Z"
 lastmod: "2026-07-18T11:44:45.521056Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "知识截止期是指语言模型未进行训练的具体日期，因此缺乏该日期之后发生的事件信息。"
 ---
-
 ## Definition
 
 知识截止期定义了语言模型训练数据的时空边界。在此日期之后发生的任何信息、事件或发展，模型通常都不知晓。

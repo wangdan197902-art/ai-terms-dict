@@ -1,23 +1,24 @@
 ---
-title: "Uzun Bağlam"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Uzun Bağlam
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /tr/terms/long_context/
-date: "2026-07-18T16:01:33.390479Z"
-lastmod: "2026-07-18T16:38:07.329410Z"
+slug: long_context
+date: '2026-07-18T16:01:33.390479Z'
+lastmod: '2026-07-18T16:38:07.329410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir dil modelinin binlerce veya milyonlarca token içeren girdi dizilerinden bilgiyi işleme ve koruma yeteneği."
+source: agnes_llm
+status: published
+language: tr
+description: Bir dil modelinin binlerce veya milyonlarca token içeren girdi dizilerinden
+  bilgiyi işleme ve koruma yeteneği.
 ---
-
 ## Definition
 
 Uzun bağlam, dönüştürücü tabanlı modellerin standart sınırları (genellikle 2k veya 4k token) aşan geniş girdi uzunluklarını ele alma kapasitesini ifade eder. Bu yetenek, modellerin tüm...

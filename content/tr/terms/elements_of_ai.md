@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /tr/terms/elements_of_ai/
 date: "2026-07-18T15:51:18.679255Z"
 lastmod: "2026-07-18T16:38:07.303849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay Zekanın Unsurları, yapay zeka kavramlarını ve toplumsal etkilerini kapsamlı, teknik olmayan bir giriş sağlamak amacıyla tasarlanmış ücretsiz bir çevrimiçi kursdur."
 ---
-
 ## Definition
 
 Helsinki Üniversitesi ve Reaktor tarafından oluşturulan bu eğitim girişimi, yapay zekayı genel halk için anlaşılır kılmayı amaçlar. Makine öğrenimi, derin öğrenme, etik gibi temel konuları kapsar.

@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /fr/terms/intelligent_decision_support_system/
 date: "2026-07-18T11:24:04.141041Z"
 lastmod: "2026-07-18T11:44:45.278439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un système amélioré par l'IA qui assiste les humains dans la prise de décisions complexes en analysant les données et en fournissant des informations exploitables."
 ---
-
 ## Definition
 
 Un Système Intelligent d'Aide à la Décision (SIAD) intègre des techniques d'intelligence artificielle, telles que l'apprentissage automatique et le traitement du langage naturel, avec des cadres traditionnels d'aide à la décision. Il permet de combiner la puissance de calcul de l'IA avec l'expertise humaine pour optimiser les choix stratégiques et opérationnels.

@@ -1,23 +1,24 @@
 ---
-title: "Sesgo temporal"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Sesgo temporal
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /es/terms/temporal_bias/
-date: "2026-07-18T11:09:46.201821Z"
-lastmod: "2026-07-18T11:44:44.859517Z"
+slug: temporal_bias
+date: '2026-07-18T11:09:46.201821Z'
+lastmod: '2026-07-18T11:44:44.859517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un error sistemático en el que los modelos priorizan los datos recientes sobre el contexto histórico, lo que conduce a predicciones sesgadas."
+source: agnes_llm
+status: published
+language: es
+description: Un error sistemático en el que los modelos priorizan los datos recientes
+  sobre el contexto histórico, lo que conduce a predicciones sesgadas.
 ---
-
 ## Definition
 
 El sesgo temporal ocurre cuando los modelos de aprendizaje automático ponderan desproporcionadamente las observaciones recientes en comparación con las antiguas, a menudo debido a distribuciones de datos no estacionarias o protocolos de entrenamiento específicos.

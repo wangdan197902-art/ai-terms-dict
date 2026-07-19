@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /ar/terms/learning_curve/
 date: "2026-07-18T16:05:35.692235Z"
 lastmod: "2026-07-18T17:15:08.521892Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يرسم منحنى التعلم مقياس أداء النموذج مقابل كمية بيانات التدريب أوEpochs التدريبية لتصور تقدم التعلم."
 ---
-
 ## Definition
 
 يعرض منحنى التعلم عادةً درجات التدريب والتحقق على المحور الصادي مقابل عدد عينات التدريب أو التكرارات على المحور السيني. يساعد في تشخيص ما إذا كان النموذج يعاني من نقص في التدريب (Underfitting) أو تزايد زائد (Overfitting).

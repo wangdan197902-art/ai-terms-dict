@@ -1,23 +1,25 @@
 ---
-title: "Bộ nhớ đệm"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Bộ nhớ đệm
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /vi/terms/caching/
-date: "2026-07-18T15:43:35.558506Z"
-lastmod: "2026-07-18T16:38:07.735029Z"
+slug: caching
+date: '2026-07-18T15:43:35.558506Z'
+lastmod: '2026-07-18T16:38:07.735029Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Bộ nhớ đệm là kỹ thuật lưu trữ dữ liệu thường xuyên được truy cập vào một lớp lưu trữ tạm thời, tốc độ cao để giảm độ trễ và giảm tải cho các nguồn dữ liệu chính."
+source: agnes_llm
+status: published
+language: vi
+description: Bộ nhớ đệm là kỹ thuật lưu trữ dữ liệu thường xuyên được truy cập vào
+  một lớp lưu trữ tạm thời, tốc độ cao để giảm độ trễ và giảm tải cho các nguồn dữ
+  liệu chính.
 ---
-
 ## Definition
 
 Trong kỹ thuật AI, bộ nhớ đệm tối ưu hóa hiệu suất bằng cách giữ các kết quả truy vấn gần đây hoặc thường xuyên, dự đoán của mô hình hoặc các phép tính trung gian trong bộ nhớ nhanh (như RAM). Điều này làm giảm nhu cầu thực hiện các phép tính tốn kém hoặc truy xuất dữ liệu từ đĩa chậm hơn.

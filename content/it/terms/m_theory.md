@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /it/terms/m_theory/
 date: "2026-07-18T16:09:02.383369Z"
 lastmod: "2026-07-18T17:15:08.645779Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La Teoria-M è un quadro teorico in fisica che unifica cinque diverse versioni della teoria delle stringhe, proponendo che le particelle fondamentali siano vibrazioni di membrane unidimensionali in und"
 ---
-
 ## Definition
 
 Sebbene sia principalmente un concetto della fisica teorica piuttosto che dell'informatica, la Teoria-M viene occasionalmente citata nelle simulazioni computazionali avanzate e nella ricerca sui computer quantistici. Suggerisce che

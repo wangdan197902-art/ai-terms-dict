@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /ar/terms/something_big_is_happening/
 date: "2026-07-18T16:21:01.486772Z"
 lastmod: "2026-07-18T17:15:08.549102Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عبارة عامية تُستخدم غالباً في الإعلام لوصف الاختراقات الكبيرة أو التطورات السريعة في مجال الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 هذا المصطلح ليس تعريفاً تقنياً بل علامة ثقافية تشير إلى فترات الابتكار المكثف، أو الاهتمام العام، أو التحولات النموذجية في الذكاء الاصطناعي. عادة ما يرافق ظهور...

@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /ro/terms/information/
 date: "2026-07-18T15:26:31.608468Z"
 lastmod: "2026-07-18T17:15:09.596136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Informația se referă la date procesate care transmit sens, reduc incertitudinea sau oferă context destinatarului."
 ---
-
 ## Definition
 
 În contextul inteligenței artificiale și al informaticii, informația este distinctă de datele brute. Aceasta reprezintă date care au fost organizate, structurate sau interpretate pentru a avea semnificație și utilitate. Informația reduce entropia sistemului prin adăugarea de valoare semantică.

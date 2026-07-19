@@ -1,23 +1,23 @@
 ---
-title: "Phi-Koeffizient"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi-Koeffizient
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /de/terms/phi_coefficient/
-date: "2026-07-18T11:27:47.612348Z"
-lastmod: "2026-07-18T11:44:44.975345Z"
+slug: phi_coefficient
+date: '2026-07-18T11:27:47.612348Z'
+lastmod: '2026-07-18T11:44:44.975345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein statistisches Maß für den Zusammenhang zwischen zwei binären Variablen."
+source: agnes_llm
+status: published
+language: de
+description: Ein statistisches Maß für den Zusammenhang zwischen zwei binären Variablen.
 ---
-
 ## Definition
 
 Der Phi-Koeffizient (φ) ist ein Maß für den Zusammenhang zwischen zwei binären Variablen und dient als Pearson-Korrelationskoeffizient für dichotome Variablen. Er reicht von -1 bis +1, wobei 0 keinen Zusammenhang anzeigt.

@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /el/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:59:58.856457Z"
 lastmod: "2026-07-18T17:15:09.897006Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένα σύνολο δεδομένων που προέρχεται από αρχεία XML του Stack Exchange, χρησιμοποιούμενο για την εκπαίδευση ενσωματώσεων προτάσεων εστιασμένες σε τεχνικό περιεχόμενο και ερωτήσεις-απαντήσεις κοινότητας"
 ---
-
 ## Definition
 
 Αυτό το σύνολο δεδομένων εξάγει δεδομένα σε επίπεδο πρότασης από αρχεία XML του Stack Exchange, παρέχοντας ένα πλούσιο υλικό τεχνικών συζητήσεων, αποσπασμάτων κώδικα και διαλόγων επίλυσης προβλημάτων. Χρησιμοποιείται συγκεκριμένα στο

@@ -1,23 +1,23 @@
 ---
-title: "커널 밀도 추정"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: 커널 밀도 추정
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /ko/terms/kernel_density_estimation/
-date: "2026-07-18T16:00:54.436693Z"
-lastmod: "2026-07-18T16:38:06.857053Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:00:54.436693Z'
+lastmod: '2026-07-18T16:38:06.857053Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "유한한 데이터 표본을 바탕으로 확률 변수의 확률 밀도 함수를 추정하는 비모수적 방법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 유한한 데이터 표본을 바탕으로 확률 변수의 확률 밀도 함수를 추정하는 비모수적 방법입니다.
 ---
-
 ## Definition
 
 커널 밀도 추정(KDE)은 이산적인 데이터 점을 부드럽게(smoothing) 하여 연속적인 확률 분포 곡선을 생성하는 기본 통계 기법입니다. 일반적으로 가우시안(Gaussian) 커널 함수와 같은 커널 함수를 각 데이터 점에 배치하고 이를 합산하여 전체 데이터의 확률 밀도를 추정합니다. 히스토그램과 달리 계급(bin)의 선택에 민감하지 않으며 데이터의 실제 분포 형태를 더 자연스럽게 보여줍니다.

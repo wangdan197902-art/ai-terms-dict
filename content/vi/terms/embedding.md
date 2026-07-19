@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /vi/terms/embedding/
 date: "2026-07-18T15:23:05.192029Z"
 lastmod: "2026-07-18T16:38:07.678754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật ánh xạ các đối tượng rời rạc như từ ngữ hoặc hình ảnh vào không gian vector liên tục."
 ---
-
 ## Definition
 
 Embedding là biểu diễn vector dày đặc của dữ liệu, trong đó các mối quan hệ ngữ nghĩa được bảo toàn trong không gian hình học. Bằng cách chuyển đổi các đầu vào dạng danh mục hoặc nhiều chiều thành các vector có độ dài cố định, mô hình có thể nắm bắt được ý nghĩa và cấu trúc của dữ liệu một cách hiệu quả hơn.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /es/terms/scale/
 date: "2026-07-18T10:26:20.839651Z"
 lastmod: "2026-07-18T11:44:44.750608Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La escala se refiere a la magnitud de los datos, parámetros o recursos computacionales utilizados en modelos de aprendizaje automático."
 ---
-
 ## Definition
 
 En inteligencia artificial, escalar implica generalmente aumentar el tamaño de los conjuntos de datos, los parámetros del modelo o la potencia de cómputo para mejorar el rendimiento. Este concepto es central en el aprendizaje profundo, donde grandes

@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /de/terms/automated/
 date: "2026-07-18T10:48:29.203164Z"
 lastmod: "2026-07-18T11:44:44.868939Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf Prozesse, die von Maschinen oder Software mit minimalem menschlichem Eingriff ausgeführt werden."
 ---
-
 ## Definition
 
 Automatisierung im KI-Bereich beinhaltet den Einsatz von Algorithmen und Systemen zur Ausführung von Aufgaben, die traditionell menschliche Anstrengung erfordern. Der Fokus liegt auf Effizienz, Konsistenz und Geschwindigkeit durch die Ausführung vordefinierter Regeln oder erlernter Muster.

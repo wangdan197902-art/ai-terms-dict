@@ -1,23 +1,23 @@
 ---
-title: "โมเดลสร้างเนื้อหา"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: โมเดลสร้างเนื้อหา
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /th/terms/generative_model/
-date: "2026-07-18T15:56:08.126075Z"
-lastmod: "2026-07-18T16:38:07.609641Z"
+slug: generative_model
+date: '2026-07-18T15:56:08.126075Z'
+lastmod: '2026-07-18T16:38:07.609641Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ประเภทของโมเดลการเรียนรู้ของเครื่องที่เรียนรู้การกระจายตัวของข้อมูลพื้นฐานเพื่อสร้างตัวอย่างใหม่ที่มีลักษณะคล้ายกับข้อมูลที่ใช้ฝึกฝน"
+source: agnes_llm
+status: published
+language: th
+description: ประเภทของโมเดลการเรียนรู้ของเครื่องที่เรียนรู้การกระจายตัวของข้อมูลพื้นฐานเพื่อสร้างตัวอย่างใหม่ที่มีลักษณะคล้ายกับข้อมูลที่ใช้ฝึกฝน
 ---
-
 ## Definition
 
 โมเดลสร้างเนื้อหาเป็นอัลกอริทึมที่ออกแบบมาเพื่อทำความเข้าใจรูปแบบและโครงสร้างภายในชุดข้อมูลหนึ่งๆ เพื่อให้สามารถสร้างข้อมูลใหม่ที่มีลักษณะคล้ายคลึงกับข้อมูลต้นฉบับได้ ต่างจากโมเดลจำแนกประเภท (Discriminative Models) ที่มุ่งเน้นการทำนายป้ายกำกับหรือหมวดหมู่ โมเดลสร้างเนื้อหาจะมุ่งเน้นไปที่การสร้างข้อมูลสังเคราะห์ที่มีความหลากหลายและสมจริง

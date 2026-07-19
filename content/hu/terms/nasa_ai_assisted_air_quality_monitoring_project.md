@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /hu/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:14:30.321728Z"
 lastmod: "2026-07-18T17:15:09.816679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy kezdeményezés, amely mesterséges intelligenciát és műholdas adatokat használ a globális levegőminőségi minták figyelésére és előrejelzésére."
 ---
-
 ## Definition
 
 Ez a projekt a NASA Föld-megfigyelési adatait haladó AI algoritmusokkal kombinálja a részecskék és gázszennyező anyagok globális nyomon követésére. A műholdas képek és a talajszintű

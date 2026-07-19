@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /tr/terms/graphs/
 date: "2026-07-18T15:25:38.839560Z"
 lastmod: "2026-07-18T16:38:07.233965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çoklu graf yapılarını veya makine öğreniminde veri eğilimlerinin görsel temsillerini ifade eden çoğul hali."
 ---
-
 ## Definition
 
 Tekil 'graf' soyut veri yapısını belirtirken, 'grafikler' genellikle birden fazla ayrı graf örneğini veya makine öğrenimi izleme sırasında kullanılan görsel çizimleri ifade eder. Görselleştirmede çizgi grafikleri veya çubuk grafikleri yaygındır.

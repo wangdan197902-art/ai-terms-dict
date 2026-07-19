@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /sv/terms/podcast/
 date: "2026-07-18T16:13:43.189761Z"
 lastmod: "2026-07-18T17:15:09.036965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En digital ljud- eller videofil som finns tillgänglig på internet för nedladdning eller strömning."
 ---
-
 ## Definition
 
 Inom AI- och tekniksammanhang avser en podcast episodiskt digitalt medieinnehåll som distribueras via RSS-flöden, vilket användare kan prenumerera på för att lyssna på diskussioner, intervjuer eller utbildningsmaterial.

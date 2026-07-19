@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /pl/terms/vision_based/
 date: "2026-07-18T15:33:14.946547Z"
 lastmod: "2026-07-18T17:15:08.828933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Systemy, które w głównej mierze polegają na danych wizualnych do percepcji i interakcji ze światem."
 ---
-
 ## Definition
 
 Paradygmaty oparte na wizji wykorzystują kamery i algorytmy przetwarzania obrazu do wyodrębniania istotnych informacji ze scen wizualnych. Systemy te są fundamentem w robotyce, autonomicznej nauce pojazdów i rozszerzonej...

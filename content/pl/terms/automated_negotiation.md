@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /pl/terms/automated_negotiation/
 date: "2026-07-18T15:42:19.116670Z"
 lastmod: "2026-07-18T17:15:08.848609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wykorzystanie agentów sztucznej inteligencji do autonomicznego prowadzenia negocjacji i osiągania porozumień między stronami."
 ---
-
 ## Definition
 
 Zautomatyzowane negocjacje obejmują oprogramowanie reprezentujące interesy ludzi w procesach targowych. Agenci ci wykorzystują teorię gier, algorytmy optymalizacyjne i uczenie maszynowe do składania ofert, ewalu...

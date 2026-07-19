@@ -1,23 +1,24 @@
 ---
-title: "Învățare Contrastivă"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Învățare Contrastivă
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /ro/terms/contrastive_learning/
-date: "2026-07-18T15:50:44.048226Z"
-lastmod: "2026-07-18T17:15:09.640110Z"
+slug: contrastive_learning
+date: '2026-07-18T15:50:44.048226Z'
+lastmod: '2026-07-18T17:15:09.640110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de învățare auto-supervizată care învață reprezentări apropiind perechile pozitive și îndepărtând perechile negative."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de învățare auto-supervizată care învață reprezentări apropiind
+  perechile pozitive și îndepărtând perechile negative.
 ---
-
 ## Definition
 
 Învățarea contrastivă este o metodă de învățare a reprezentărilor care nu necesită date etichetate. Funcționează creând vederi augmentate ale aceleiași intrări (perechi pozitive) și comparându-le cu alte intrări diferite (perechi negative), forțând modelul să distingă între similarități și diferențe.

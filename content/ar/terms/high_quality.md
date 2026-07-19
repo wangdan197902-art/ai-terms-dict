@@ -1,23 +1,23 @@
 ---
-title: "عالي الجودة"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: عالي الجودة
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /ar/terms/high_quality/
-date: "2026-07-18T15:33:33.943147Z"
-lastmod: "2026-07-18T17:15:08.454812Z"
+slug: high_quality
+date: '2026-07-18T15:33:33.943147Z'
+lastmod: '2026-07-18T17:15:08.454812Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير إلى مجموعات البيانات أو النماذج أو المخرجات التي تتميز بدقة عالية، وموثوقية، وأقل قدر من الضوضاء."
+source: agnes_llm
+status: published
+language: ar
+description: يشير إلى مجموعات البيانات أو النماذج أو المخرجات التي تتميز بدقة عالية،
+  وموثوقية، وأقل قدر من الضوضاء.
 ---
-
 ## Definition
 
 في مجال الذكاء الاصطناعي، يصف مصطلح عالي الجودة عادةً البيانات أو مخرجات النماذج التي تتميز بدرجة عالية من الدقة (الوفاء بالمواصفات)، وانخفاض مستوى الضوضاء، وقدرات قوية على التعميم. تضمن بيانات التدريب عالية الجودة بناء نماذج أكثر متانة ودقة.

@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /ko/terms/sdk/
 date: "2026-07-18T15:36:19.379576Z"
 lastmod: "2026-07-18T16:38:06.800101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "애플리케이션 구축을 위한 도구, 라이브러리 및 문서를 제공하는 소프트웨어 개발 키트입니다."
 ---
-
 ## Definition
 
 SDK는 특정 플랫폼이나 서비스를 위한 애플리케이션을 개발할 수 있도록 하는 소프트웨어 개발 도구 모음입니다. AI 분야에서 SDK는 사전 구축된 라이브러리, API 및 유틸리티를 제공하여...

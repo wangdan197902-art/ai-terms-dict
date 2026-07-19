@@ -1,23 +1,24 @@
 ---
-title: "Automatischer Mathematiker"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Automatischer Mathematiker
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /de/terms/automated_mathematician/
-date: "2026-07-18T11:04:01.294875Z"
-lastmod: "2026-07-18T11:44:44.912181Z"
+slug: automated_mathematician
+date: '2026-07-18T11:04:01.294875Z'
+lastmod: '2026-07-18T11:44:44.912181Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein KI-System, das darauf ausgelegt ist, neue mathematische Theoreme, Vermutungen oder Beweise durch computergestützte Suche und Schlussfolgerung zu entdecken."
+source: agnes_llm
+status: published
+language: de
+description: Ein KI-System, das darauf ausgelegt ist, neue mathematische Theoreme,
+  Vermutungen oder Beweise durch computergestützte Suche und Schlussfolgerung zu entdecken.
 ---
-
 ## Definition
 
 Ein Automatischer Mathematiker nutzt maschinelles Lernen und symbolische Schlussfolgerungen, um mathematische Räume jenseits der menschlichen Intuition zu erkunden. Diese Systeme können Hypothesen generieren, Beweise verifizieren und Muster finden.

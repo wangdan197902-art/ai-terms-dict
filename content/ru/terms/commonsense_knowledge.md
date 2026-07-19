@@ -1,23 +1,24 @@
 ---
-title: "Здравый смысл"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Здравый смысл
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /ru/terms/commonsense_knowledge/
-date: "2026-07-18T15:45:29.668795Z"
-lastmod: "2026-07-18T16:38:07.131920Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:45:29.668795Z'
+lastmod: '2026-07-18T16:38:07.131920Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фоновая информация и интуитивное понимание физического и социального мира, которым обладают люди, но которого часто не хватает машинам."
+source: agnes_llm
+status: published
+language: ru
+description: Фоновая информация и интуитивное понимание физического и социального
+  мира, которым обладают люди, но которого часто не хватает машинам.
 ---
-
 ## Definition
 
 Здравый смысл относится к огромному объему неявной информации о повседневной жизни, физике, социальных нормах и причинно-следственных связях, которую люди приобретают естественно. В области ИИ приобретение такого знания является сложной задачей, так как оно редко формализуется явно, но необходимо для понимания контекста и принятия разумных решений.

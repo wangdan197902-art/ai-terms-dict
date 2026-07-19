@@ -1,23 +1,23 @@
 ---
-title: "テキスト生成"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: テキスト生成
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /ja/terms/text_generation/
-date: "2026-07-18T11:34:27.671411Z"
-lastmod: "2026-07-18T11:44:45.150230Z"
+slug: text_generation
+date: '2026-07-18T11:34:27.671411Z'
+lastmod: '2026-07-18T11:44:45.150230Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "提供されたプロンプトやコンテキストに基づき、モデルがトークンごとに人間のようなテキストシーケンスを生成するAI機能。"
+source: agnes_llm
+status: published
+language: ja
+description: 提供されたプロンプトやコンテキストに基づき、モデルがトークンごとに人間のようなテキストシーケンスを生成するAI機能。
 ---
-
 ## Definition
 
 テキスト生成は、人工知能モデルが新しいテキストコンテンツを作成する自然言語処理における基本的なアプリケーションパラダイムです。シーケンス内の次の最も可能性の高いトークンを予測することにより...

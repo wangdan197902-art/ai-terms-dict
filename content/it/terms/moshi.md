@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /it/terms/moshi/
 date: "2026-07-18T16:11:41.515350Z"
 lastmod: "2026-07-18T17:15:08.650844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un modello linguistico-audio sviluppato da Kyutai che apprende congiuntamente rappresentazioni testuali e audio per un'interazione multimodale senza interruzioni."
 ---
-
 ## Definition
 
 Moshi è un modello di IA avanzato creato da Kyutai che integra l'elaborazione vocale e testuale in un framework unificato. A differenza dei sistemi tradizionali che convertono la voce in testo prima dell'elaborazione, Moshi appren

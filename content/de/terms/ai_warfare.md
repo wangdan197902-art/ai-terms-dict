@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /de/terms/ai_warfare/
 date: "2026-07-18T11:01:29.917420Z"
 lastmod: "2026-07-18T11:44:44.904671Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Einsatz von Technologien der künstlichen Intelligenz in militärischen Operationen, Überwachungssystemen und autonomen Waffensystemen."
 ---
-
 ## Definition
 
 KI-Kriegsführung bezeichnet die Integration von künstlicher Intelligenz in militärische Strategien, einschließlich autonomer Drohnen, prädiktiver Logistik, Cyberverteidigung und Entscheidungsunterstützungssystemen für Befehlshaber.

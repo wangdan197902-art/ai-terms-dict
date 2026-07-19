@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /zh/terms/ai_washing/
 date: "2026-07-18T11:03:30.831572Z"
 lastmod: "2026-07-18T11:44:45.436455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "为了营销目的，夸大或虚假声称产品或服务利用了人工智能的做法。"
 ---
-
 ## Definition
 
 AI漂绿是一个类似于“绿色洗白”的术语，描述了这种欺骗性的营销策略：公司声称其产品集成了先进的人工智能，但实际上仅依赖简单的基于规则的系统。

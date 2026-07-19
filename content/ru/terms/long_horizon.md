@@ -1,23 +1,23 @@
 ---
-title: "с длительным горизонтом"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: с длительным горизонтом
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /ru/terms/long_horizon/
-date: "2026-07-18T15:31:37.702264Z"
-lastmod: "2026-07-18T16:38:07.095887Z"
+slug: long_horizon
+date: '2026-07-18T15:31:37.702264Z'
+lastmod: '2026-07-18T16:38:07.095887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к задачам, требующим принятия решений в течение длительного времени с отложенными наградами или последствиями."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к задачам, требующим принятия решений в течение длительного
+  времени с отложенными наградами или последствиями.
 ---
-
 ## Definition
 
 Задачи с длительным горизонтом включают последовательности действий, где влияние ранних решений проявляется только после многих шагов. Это широко распространено в робототехнике, планировании и задачах многошагового рассуждения. Основная сложность заключается в...

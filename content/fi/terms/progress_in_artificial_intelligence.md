@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /fi/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:17:02.608209Z"
 lastmod: "2026-07-18T17:15:09.446494Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälykyvykkyyksien kumulatiivinen edistyminen tutkimuksen, kehityksen ja yhä monimutkaisempien algoritmien sekä laitteiston käyttöönoton kautta."
 ---
-
 ## Definition
 
 Tämä käsite kattaa tekoäljärjestelmien historiallisen ja jatkuvan evoluution, merkittyinä varhaisesta symbolisesta logiikasta nykyaikaiseen syväoppimiseen. Se heijastaa parannuksia laskennallisessa skaalautuvuudessa, suorituskykyssä benchmark-testeissä ja teknologian omaksumisessa.

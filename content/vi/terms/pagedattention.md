@@ -1,23 +1,25 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /vi/terms/pagedattention/
-date: "2026-07-18T16:06:41.807858Z"
-lastmod: "2026-07-18T16:38:07.790898Z"
+slug: pagedattention
+date: '2026-07-18T16:06:41.807858Z'
+lastmod: '2026-07-18T16:38:07.790898Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "PagedAttention là một thuật toán quản lý bộ nhớ, áp dụng khái niệm phân trang bộ nhớ ảo để tối ưu hóa việc lưu trữ và truy cập bộ nhớ đệm Key-Value (KV) trong các mô hình Transformer."
+source: agnes_llm
+status: published
+language: vi
+description: PagedAttention là một thuật toán quản lý bộ nhớ, áp dụng khái niệm phân
+  trang bộ nhớ ảo để tối ưu hóa việc lưu trữ và truy cập bộ nhớ đệm Key-Value (KV)
+  trong các mô hình Transformer.
 ---
-
 ## Definition
 
 PagedAttention là một kỹ thuật được giới thiệu bởi dự án vLLM nhằm cải thiện hiệu suất suy luận của các Mô hình Ngôn ngữ Lớn (LLM). Nó giải quyết các vấn đề về phân mảnh và chi phí xử lý khi quản lý bộ nhớ đệm KV, vốn...

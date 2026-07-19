@@ -1,23 +1,24 @@
 ---
-title: "Răspuns la Întrebări"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Răspuns la Întrebări
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /ro/terms/question_answering/
-date: "2026-07-18T15:37:35.875065Z"
-lastmod: "2026-07-18T17:15:09.617607Z"
+slug: question_answering
+date: '2026-07-18T15:37:35.875065Z'
+lastmod: '2026-07-18T17:15:09.617607Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O sarcină de Procesare a Limbajului Natural în care un sistem oferă automat răspunsuri precise la întrebări formulate în limbaj natural."
+source: agnes_llm
+status: published
+language: ro
+description: O sarcină de Procesare a Limbajului Natural în care un sistem oferă automat
+  răspunsuri precise la întrebări formulate în limbaj natural.
 ---
-
 ## Definition
 
 Răspunsul la Întrebări (QA) implică recuperarea sau generarea de răspunsuri accurate la interogările utilizatorului dintr-un context sau o bază de cunoștințe dată. Aceasta variază de la QA cu domeniu închis, care se bazează pe documente specifice, la QA cu domeniu deschis.

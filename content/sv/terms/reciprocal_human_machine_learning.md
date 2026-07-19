@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /sv/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:17:39.449551Z"
 lastmod: "2026-07-18T17:15:09.042873Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En samarbetsinriktad inlärningsparadigm där människor och maskiner kontinuerligt lär sig av varandra för att förbättra prestandan."
 ---
-
 ## Definition
 
 Denna metod går bortom enkel inlärning med människan i loopen (human-in-the-loop) för etikettering. Den involverar tvåvägs kunskapsöverföring: människor korrigerar modellens misstag medan modellen hjälper människor att identifiera mönster eller automatisera uppgifter. Detta skapar en iterativ loop som optimerar både mänsklig effektivitet och modellnoggrannhet.

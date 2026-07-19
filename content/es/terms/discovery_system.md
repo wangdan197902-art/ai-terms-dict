@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /es/terms/discovery_system/
 date: "2026-07-18T10:44:27.915864Z"
 lastmod: "2026-07-18T11:44:44.799891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco automatizado o proceso algorítmico diseñado para identificar, explorar y evaluar posibles soluciones, patrones o hipótesis dentro de un gran espacio de búsqueda."
 ---
-
 ## Definition
 
 Un sistema de descubrimiento es un marco computacional destinado a acelerar avances científicos o analíticos automatizando la exploración de grandes espacios de datos. A diferencia de la optimización tradicional que se centra en refinar parámetros conocidos, estos sistemas buscan nuevas direcciones.

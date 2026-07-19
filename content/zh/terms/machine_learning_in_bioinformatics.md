@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /zh/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T11:25:10.893700Z"
 lastmod: "2026-07-18T11:44:45.528535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "应用计算模型分析生物数据（如基因组序列和蛋白质结构），以发现生物学见解。"
 ---
-
 ## Definition
 
 这一跨学科领域利用机器学习处理海量的生物数据，使研究人员能够预测基因功能、对疾病进行分类以及理解分子间的相互作用，从而加速生物医学研究的进程。

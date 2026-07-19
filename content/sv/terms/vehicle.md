@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /sv/terms/vehicle/
 date: "2026-07-18T15:32:22.778277Z"
 lastmod: "2026-07-18T17:15:08.955191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inom AI-sammanhang syftar ett 'fordon' ofta på plattformen eller mediet genom vilket AI-modeller distribueras eller levereras till slutanvändare."
 ---
-
 ## Definition
 
 Även om det traditionellt betyder transport, kan begreppet 'fordon' inom AI-termologi metaforiskt beskriva leveransmekanismen för intelligenta tjänster, såsom mobila appar, webbgränssnitt eller inbäddade system.

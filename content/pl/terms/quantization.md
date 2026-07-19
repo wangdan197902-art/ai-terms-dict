@@ -1,23 +1,25 @@
 ---
-title: "Kwantyzacja"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kwantyzacja
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /pl/terms/quantization/
-date: "2026-07-18T15:36:33.646209Z"
-lastmod: "2026-07-18T17:15:08.835758Z"
+slug: quantization
+date: '2026-07-18T15:36:33.646209Z'
+lastmod: '2026-07-18T17:15:08.835758Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika optymalizacji modelu, która zmniejsza precyzję liczb używanych w obliczeniach sieci neuronowych, aby zmniejszyć rozmiar modelu i zwiększyć prędkość działania."
+source: agnes_llm
+status: published
+language: pl
+description: Technika optymalizacji modelu, która zmniejsza precyzję liczb używanych
+  w obliczeniach sieci neuronowych, aby zmniejszyć rozmiar modelu i zwiększyć prędkość
+  działania.
 ---
-
 ## Definition
 
 Kwantyzacja przekształca liczby zmiennoprzecinkowe wysokiej precyzji (np. FP32) w formaty niższej precyzji (np. INT8 lub FP16). Ta redukcja zmniejsza zużycie pamięci modelu oraz wymagania obliczeniowe, umożliwiając szybsze wnioskowanie (inference) bez istotnej utraty dokładności.

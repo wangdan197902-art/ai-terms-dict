@@ -1,23 +1,25 @@
 ---
-title: "Geometrisk funktionsinlärning"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Geometrisk funktionsinlärning
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /sv/terms/geometric_feature_learning/
-date: "2026-07-18T15:59:38.407724Z"
-lastmod: "2026-07-18T17:15:09.007275Z"
+slug: geometric_feature_learning
+date: '2026-07-18T15:59:38.407724Z'
+lastmod: '2026-07-18T17:15:09.007275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknik inom djupinlärning som extraherar funktioner från data med inneboende geometriska strukturer, såsom grafer eller mångfalder, med hjälp av specialiserade neurala nätverk."
+source: agnes_llm
+status: published
+language: sv
+description: En teknik inom djupinlärning som extraherar funktioner från data med
+  inneboende geometriska strukturer, såsom grafer eller mångfalder, med hjälp av specialiserade
+  neurala nätverk.
 ---
-
 ## Definition
 
 Geometrisk funktionsinlärning fokuserar på bearbetning av data som besitter icke-euklidiska strukturer, såsom sociala nätverk, molekylära grafer eller 3D-mesh. Tekniker som Grafiska Neurala Nätverk (GNN) och...

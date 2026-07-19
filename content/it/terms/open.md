@@ -1,23 +1,24 @@
 ---
-title: "Aperto"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Aperto
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /it/terms/open/
-date: "2026-07-18T15:27:34.966549Z"
-lastmod: "2026-07-18T17:15:08.571211Z"
+slug: open
+date: '2026-07-18T15:27:34.966549Z'
+lastmod: '2026-07-18T17:15:08.571211Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "In ambito IA, 'aperto' si riferisce tipicamente a modelli open-source o a compiti open-ended che mancano di vincoli predefiniti o di spazi di soluzione completi."
+source: agnes_llm
+status: published
+language: it
+description: In ambito IA, 'aperto' si riferisce tipicamente a modelli open-source
+  o a compiti open-ended che mancano di vincoli predefiniti o di spazi di soluzione
+  completi.
 ---
-
 ## Definition
 
 Il termine 'aperto' nei contesti dell'intelligenza artificiale descrive spesso due aree distinte: il software open-source, in cui i pesi del modello e il codice sono disponibili pubblicamente per la modifica, e i problemi open-ended (a fine aperto).

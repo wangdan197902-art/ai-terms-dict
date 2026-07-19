@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /es/terms/graphics_processing_unit/
 date: "2026-07-18T10:52:40.929908Z"
 lastmod: "2026-07-18T11:44:44.813165Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un circuito electrónico especializado diseñado inicialmente para la manipulación y renderizado rápido de imágenes, ahora ampliamente utilizado para el cálculo paralelo en IA."
 ---
-
 ## Definition
 
 Una GPU es un procesador de alto rendimiento desarrollado originalmente para manejar tareas de renderizado gráfico. A diferencia de las CPU, que tienen pocos núcleos optimizados para el procesamiento secuencial en serie, las GPU contienen miles de núcleos diseñados para manejar múltiples operaciones simultáneamente, lo que las hace ideales para cargas de trabajo paralelas masivas como el entrenamiento de modelos de aprendizaje profundo.

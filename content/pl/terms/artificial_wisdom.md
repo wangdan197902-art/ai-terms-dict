@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /pl/terms/artificial_wisdom/
 date: "2026-07-18T15:41:21.842718Z"
 lastmod: "2026-07-18T17:15:08.847193Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Rozszerzenie AI poza inteligencję, obejmujące osąd, etykę i zrozumienie kontekstu w celu podejmowania trafnych decyzji."
 ---
-
 ## Definition
 
 Sztuczna mądrość (AW) to pojęcie powstające, które dąży do wzmocnienia sztucznej inteligencji o ludzkie wartości, rozważania etyczne oraz długoterminowy osąd strategiczny. Podczas gdy AI koncentruje się na efektywności,

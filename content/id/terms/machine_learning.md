@@ -1,23 +1,23 @@
 ---
-title: "Machine Learning"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Machine Learning
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /id/terms/machine_learning/
-date: "2026-07-18T15:27:07.159845Z"
-lastmod: "2026-07-18T16:38:07.396969Z"
+slug: machine_learning
+date: '2026-07-18T15:27:07.159845Z'
+lastmod: '2026-07-18T16:38:07.396969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Subset AI yang berfokus pada pembuatan sistem yang belajar dari data untuk meningkatkan kinerja tanpa pemrograman eksplisit."
+source: agnes_llm
+status: published
+language: id
+description: Subset AI yang berfokus pada pembuatan sistem yang belajar dari data
+  untuk meningkatkan kinerja tanpa pemrograman eksplisit.
 ---
-
 ## Definition
 
 Machine Learning (ML) memungkinkan komputer mempelajari pola dari data historis dan membuat keputusan atau prediksi pada data baru yang belum pernah dilihat sebelumnya. Ini mencakup berbagai teknik termasuk pembelajaran terawasi, pembelajaran

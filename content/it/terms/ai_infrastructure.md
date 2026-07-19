@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /it/terms/ai_infrastructure/
 date: "2026-07-18T15:42:36.246121Z"
 lastmod: "2026-07-18T17:15:08.593616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Le risorse hardware, software e di rete necessarie per sviluppare, addestrare e distribuire modelli di intelligenza artificiale su larga scala."
 ---
-
 ## Definition
 
 L'infrastruttura IA comprende lo stack tecnologico fondamentale necessario per le operazioni di intelligenza artificiale. Questo include hardware di calcolo ad alte prestazioni come GPU e TPU, archiviazione su clou

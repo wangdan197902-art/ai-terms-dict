@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /zh/terms/rademacher_complexity/
 date: "2026-07-18T11:31:50.443861Z"
 lastmod: "2026-07-18T11:44:45.549295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "学习理论中用于量化函数类丰富程度的统计度量，通过其拟合随机噪声的能力来评估。"
 ---
-
 ## Definition
 
 Rademacher 复杂度评估假设类与随机标签（噪声）的相关程度。它作为模型容量或灵活性的代理指标。较低的复杂度通常意味着更好的泛化能力。

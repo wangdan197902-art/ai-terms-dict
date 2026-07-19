@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /el/terms/dabus/
 date: "2026-07-18T15:58:51.268173Z"
 lastmod: "2026-07-18T17:15:09.894152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Το DABUS είναι ακρωνύμιο για το \"Device for the Autonomous Bootstrapping of Unified Sentience\" (Συσκευή Αυτονομικής Εκκίνησης Ενοποιημένης Συνείδησης), ένα σύστημα τεχνητής νοημοσύνης που δημιουργήθ"
 ---
-
 ## Definition
 
 Το DABUS είναι ένα συγκεκριμένο τεχνητό νευρωνικό δίκτυο σχεδιασμένο να παράγει νέες εφευρέσεις χωρίς άμεση ανθρώπινη παρέμβαση. Κέρδισε σημαντική νομική προσοχή όταν ο δημιουργός του, Stephen Thaler, προσπάθησε

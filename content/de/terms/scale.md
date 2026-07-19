@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /de/terms/scale/
 date: "2026-07-18T10:53:38.253831Z"
 lastmod: "2026-07-18T11:44:44.882867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Skalierung bezieht sich auf das Ausmaß an Daten, Parametern oder Rechenressourcen, die in Machine-Learning-Modellen verwendet werden."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz umfasst Skalierung typischerweise die Vergrößerung von Datensätzen, Modellparametern oder Rechenleistung, um die Leistung zu verbessern. Dieses Konzept ist zentral für das Deep Learning, bei dem große

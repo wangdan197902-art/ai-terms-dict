@@ -1,23 +1,24 @@
 ---
-title: "Phân đoạn (Chunking)"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Phân đoạn (Chunking)
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /vi/terms/chunking/
-date: "2026-07-18T15:43:56.698008Z"
-lastmod: "2026-07-18T16:38:07.735997Z"
+slug: chunking
+date: '2026-07-18T15:43:56.698008Z'
+lastmod: '2026-07-18T16:38:07.735997Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Phân đoạn là quá trình chia các tài liệu lớn hoặc luồng dữ liệu thành các đoạn nhỏ hơn, dễ quản lý để xử lý hoặc lập chỉ mục."
+source: agnes_llm
+status: published
+language: vi
+description: Phân đoạn là quá trình chia các tài liệu lớn hoặc luồng dữ liệu thành
+  các đoạn nhỏ hơn, dễ quản lý để xử lý hoặc lập chỉ mục.
 ---
-
 ## Definition
 
 Phân đoạn là một bước tiền xử lý quan trọng trong Sinh lại tăng cường truy xuất (RAG) và các quy trình xử lý ngôn ngữ tự nhiên khác. Nó liên quan đến việc chia văn bản thành các đơn vị có kích thước cố định hoặc ngữ nghĩa (các đoạn) để phù hợp với cửa sổ ngữ cảnh.

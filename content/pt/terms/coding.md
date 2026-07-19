@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /pt/terms/coding/
 date: "2026-07-18T14:53:03.755470Z"
 lastmod: "2026-07-18T15:51:59.471615Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Codificação é o processo de escrever instruções para computadores usando linguagens de programação para criar software, aplicativos ou scripts."
 ---
-
 ## Definition
 
 A codificação, também conhecida como programação, envolve traduzir a lógica humana e os requisitos em um formato que os computadores podem executar. Ela usa sintaxe e semântica específicas definidas por linguagens de programação como Python, Java ou C++.

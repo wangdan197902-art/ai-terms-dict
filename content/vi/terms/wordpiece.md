@@ -1,23 +1,24 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /vi/terms/wordpiece/
-date: "2026-07-18T16:17:41.977210Z"
-lastmod: "2026-07-18T16:38:07.817780Z"
+slug: wordpiece
+date: '2026-07-18T16:17:41.977210Z'
+lastmod: '2026-07-18T16:38:07.817780Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thuật toán phân đoạn từ con (subword tokenization) ghép nối đệ quy các cặp ký tự phổ biến nhất để xử lý các từ nằm ngoài từ vựng."
+source: agnes_llm
+status: published
+language: vi
+description: Thuật toán phân đoạn từ con (subword tokenization) ghép nối đệ quy các
+  cặp ký tự phổ biến nhất để xử lý các từ nằm ngoài từ vựng.
 ---
-
 ## Definition
 
 WordPiece là một phương pháp phân đoạn từ được sử dụng rộng rãi trong các mô hình xử lý ngôn ngữ tự nhiên như BERT và ALBERT. Nó chia nhỏ các từ thành các đơn vị từ con nhỏ hơn để quản lý sự phong phú về hình thái học và giảm kích thước từ vựng.

@@ -1,23 +1,23 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /ko/terms/pyannote/
-date: "2026-07-18T16:11:35.913397Z"
-lastmod: "2026-07-18T16:38:06.900171Z"
+slug: pyannote
+date: '2026-07-18T16:11:35.913397Z'
+lastmod: '2026-07-18T16:38:06.900171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "화자 diarization(화자 구분) 및 오디오 분할 작업을 위한 최첨단 솔루션을 제공하는 파이썬 라이브러리입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 화자 diarization(화자 구분) 및 오디오 분할 작업을 위한 최첨단 솔루션을 제공하는 파이썬 라이브러리입니다.
 ---
-
 ## Definition
 
 Pyannote은 pyannote.audio에서 개발한 오픈소스 파이썬 라이브러리로, 오디오 스트림에서 '누가 언제 말했는지'를 파악하는 화자 diarization 작업에 특화되어 있습니다. 딥러닝 기반의 임베딩과 클러스터링 알고리즘을 활용하여 높은 정확도로 화자를 식별하고 오디오 세그먼트를 분할합니다. 음성 인식(ASR) 파이프라인의 전처리 단계나 오디오 콘텐츠 분석에 널리 사용됩니다.

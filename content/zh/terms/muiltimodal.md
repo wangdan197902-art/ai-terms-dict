@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /zh/terms/muiltimodal/
 date: "2026-07-18T11:26:49.234876Z"
 lastmod: "2026-07-18T11:44:45.534203Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "多模态是指能够同时处理和整合多种数据模态（如文本、图像和音频）的人工智能系统。"
 ---
-
 ## Definition
 
 在人工智能领域，多模态描述了模型理解、生成或关联不同感官输入或数据格式信息的能力。与单模态模型不同，多模态模型能够跨越单一数据类型的限制，实现更丰富的语义理解和生成。

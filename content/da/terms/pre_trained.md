@@ -1,23 +1,24 @@
 ---
-title: "fortrænet"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: fortrænet
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /da/terms/pre_trained/
-date: "2026-07-18T15:33:06.982103Z"
-lastmod: "2026-07-18T17:15:09.240822Z"
+slug: pre_trained
+date: '2026-07-18T15:33:06.982103Z'
+lastmod: '2026-07-18T17:15:09.240822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Fortrænede modeller er neurale netværk, der er trænet på store datasæt for at lære generelle træk, før de tilpasses til specifikke opgaver."
+source: agnes_llm
+status: published
+language: da
+description: Fortrænede modeller er neurale netværk, der er trænet på store datasæt
+  for at lære generelle træk, før de tilpasses til specifikke opgaver.
 ---
-
 ## Definition
 
 En fortrænet model er en grundlæggende AI-model, der har gennemgået omfattende træning på massive, mangfoldige datasæt som f.eks. Wikipedia eller ImageNet. Denne indledende træning tillader modellen at lære brede repræsentationer og funktioner, som kan genbruges.

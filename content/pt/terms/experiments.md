@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /pt/terms/experiments/
 date: "2026-07-18T14:34:58.522507Z"
 lastmod: "2026-07-18T15:51:59.429104Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Procedimentos controlados realizados para testar hipóteses, avaliar o desempenho do modelo ou descobrir novas capacidades de IA."
 ---
-
 ## Definition
 
 Experimentos em IA envolvem testes sistemáticos de variáveis para entender relações de causa e efeito dentro dos modelos de aprendizado de máquina. Esses procedimentos permitem que os desenvolvedores comparem diferentes hiperparâmetros e abordagens.

@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /id/terms/human_centered_ai/
 date: "2026-07-18T15:54:53.304429Z"
 lastmod: "2026-07-18T16:38:07.467662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan desain dan pengembangan AI yang memprioritaskan nilai, kebutuhan, dan kesejahteraan manusia sepanjang siklus hidup sistem."
 ---
-
 ## Definition
 
 AI berpusat pada manusia adalah filosofi desain yang menempatkan manusia sebagai inti dari pengembangan kecerdasan buatan. Pendekatan ini menekankan penciptaan sistem yang transparan, adil, dan bermanfaat bagi masyarakat, daripada sekadar berfokus pada efisiensi teknis.

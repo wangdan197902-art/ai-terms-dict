@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /hu/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:53:44.046178Z"
 lastmod: "2026-07-18T17:15:09.770026Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy Stack Exchange XML dumpokból származó adathalmaz, amely technikai és közösség által vezetett kérdés-válasz tartalmakra fókuszáló mondatbeágyazások tanítására szolgál."
 ---
-
 ## Definition
 
 Ez az adathalmaz szintaxis-szintű adatokat von ki Stack Exchange XML fájlokból, gazdag forrást biztosítva a technikai vitákhoz, kódrészletekhez és problémamegoldó párbeszédekhez. Kifejezetten a

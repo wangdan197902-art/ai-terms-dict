@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /th/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:48:28.266742Z"
 lastmod: "2026-07-18T16:38:07.594062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลขนาดใหญ่ที่อ้างอิงจากบทความและรายการอ้างอิงในสาขาวิทยาศาสตร์คอมพิวเตอร์ ออกแบบมาเพื่อฝึกโมเดล Embedding สำหรับเอกสารวิชาการ"
 ---
-
 ## Definition
 
 ชุดข้อมูล Specter สร้างขึ้นจากคอลเลกชันบทความวิทยาศาสตร์คอมพิวเตอร์จำนวนมหาศาล โดยอาศัยเครือข่ายการอ้างอิง (Citation Networks) เพื่อสร้างสัญญาณการเรียนรู้ภายใต้การดูแล (Supervised Learning Signals) ชุดข้อมูลจับคู่บทคัดย่อของบทความกับบทความอื่นที่อ้างถึงมัน เพื่อช่วยให้โมเดลเรียนรู้โครงสร้างและความสัมพันธ์เชิงความหมายของงานวิจัยทางวิชาการได้อย่างแม่นยำ

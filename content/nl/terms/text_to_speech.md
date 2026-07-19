@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /nl/terms/text_to_speech/
 date: "2026-07-18T16:20:14.324793Z"
 lastmod: "2026-07-18T17:15:08.793397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Tekst-naar-spraak (TTS) is een technologie die geschreven tekst omzet in natuurlijk klinkende menselijke spraak."
 ---
-
 ## Definition
 
 Tekst-naar-spraak (TTS) is een vorm van assistieve technologie die digitale tekst hardop voorleest aan de gebruiker. Het maakt gebruik van geavanceerde neurale netwerken en akoestische modellen om spraak te synthetiseren die menselijke intonatie nabootst.

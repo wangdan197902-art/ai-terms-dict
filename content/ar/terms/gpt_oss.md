@@ -1,23 +1,24 @@
 ---
-title: "جي بي تي أو إس إس"
-term_id: "gpt_oss"
-category: "basic_concepts"
-subcategory: ""
-tags: ["open_source", "architecture", "deployment"]
+title: جي بي تي أو إس إس
+term_id: gpt_oss
+category: basic_concepts
+subcategory: ''
+tags:
+- Open Source
+- architecture
+- deployment
 difficulty: 4
 weight: 1
-slug: "gpt_oss"
-aliases:
-  - /ar/terms/gpt_oss/
-date: "2026-07-18T15:59:51.229910Z"
-lastmod: "2026-07-18T17:15:08.509294Z"
+slug: gpt_oss
+date: '2026-07-18T15:59:51.229910Z'
+lastmod: '2026-07-18T17:15:08.509294Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير إلى تطبيقات أو مشتقات مفتوحة المصدر (OSS) من هندسة نماذج شبيهة بـ GPT المتاحة للتعديل والنشر العام."
+source: agnes_llm
+status: published
+language: ar
+description: يشير إلى تطبيقات أو مشتقات مفتوحة المصدر (OSS) من هندسة نماذج شبيهة بـ
+  GPT المتاحة للتعديل والنشر العام.
 ---
-
 ## Definition
 
 يشير جي بي تي أو إس إس عادةً إلى بدائل أو مشتقات مفتوحة المصدر لنماذج المحولات المولدة المدربة مسبقاً والمملوكة. تسمح هذه المشاريع للمطورين بالوصول إلى الأوزان وتعديلها ونشر نماذج اللغة الكبيرة محلياً أو في بيئات مخصصة.

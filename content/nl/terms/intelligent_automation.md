@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /nl/terms/intelligent_automation/
 date: "2026-07-18T16:00:50.115570Z"
 lastmod: "2026-07-18T17:15:08.756797Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De combinatie van kunstmatige intelligentie met robotic process automation om complexe, ongestructureerde bedrijfsprocessen af te handelen."
 ---
-
 ## Definition
 
 Intelligente automatisering integreert traditionele Robotic Process Automation (RPA) met geavanceerde AI-technologieën zoals machine learning en natuurlijke taalverwerking. Terwijl RPA regelgebaseerde, gestructureerde

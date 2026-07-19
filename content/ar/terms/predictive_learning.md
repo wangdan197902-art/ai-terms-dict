@@ -1,23 +1,24 @@
 ---
-title: "التعلم التنبؤي"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: التعلم التنبؤي
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /ar/terms/predictive_learning/
-date: "2026-07-18T16:16:48.194405Z"
-lastmod: "2026-07-18T17:15:08.537802Z"
+slug: predictive_learning
+date: '2026-07-18T16:16:48.194405Z'
+lastmod: '2026-07-18T17:15:08.537802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج ذاتي الإشراف حيث تتعلم النماذج تمثيلات البيانات من خلال التنبؤ بالأجزاء المفقودة من بيانات الإدخال."
+source: agnes_llm
+status: published
+language: ar
+description: نهج ذاتي الإشراف حيث تتعلم النماذج تمثيلات البيانات من خلال التنبؤ بالأجزاء
+  المفقودة من بيانات الإدخال.
 ---
-
 ## Definition
 
 يتضمن التعلم التنبؤي تدريب الشبكات العصبية على استنتاج نقاط البيانات غير المرصودة من المدخلات المرصودة دون الحاجة إلى تسميات بشرية صريحة. ومن خلال حل مهام مثل التنبؤ بالرمز التالي في اللغة أو نمذجة القناع في الصور، يتعلم النموذج بنية البيانات الأساسية.

@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /fi/terms/personoid/
 date: "2026-07-18T16:15:31.892873Z"
 lastmod: "2026-07-18T17:15:09.443616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Humanoidirobotiikka tai ohjelmistojen agentti, joka on suunniteltu jäljittelemään ihmisen fyysistä ulkonäköä tai keskustelutyyliä luonnollisen vuorovaikutuksen mahdollistamiseksi."
 ---
-
 ## Definition
 
 Personoidi on joko robotti- tai virtuaaliolento, joka on suunniteltu muistuttamaan tai käyttäytymään ihmisen kaltaisesti. Robotiikassa tämä tarkoittaa fyysistä antropomorfismia, kun taas tekoälyssä se viittaa usein keskustelubotteihin tai vi

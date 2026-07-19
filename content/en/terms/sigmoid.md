@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /en/terms/sigmoid/
 date: "2026-07-18T10:15:20.591896Z"
 lastmod: "2026-07-18T11:44:44.721190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A mathematical function that maps any real-valued number into a value between zero and one, forming an S-shaped curve."
 ---
-
 ## Definition
 
 The sigmoid function, defined as σ(z) = 1 / (1 + e^-z), is widely used in machine learning to model probabilities. It squashes input values into the range (0, 1), making it suitable for binary classification output layers. While historically popular in logistic regression and early neural networks, it suffers from the vanishing gradient problem during backpropagation, which can slow down training in deep networks compared to alternatives like ReLU or Leaky ReLU.

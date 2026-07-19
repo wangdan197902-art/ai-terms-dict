@@ -1,23 +1,23 @@
 ---
-title: "조건부 랜덤 필드 (Conditional Random Field)"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: 조건부 랜덤 필드 (Conditional Random Field)
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /ko/terms/conditional_random_field/
-date: "2026-07-18T15:46:14.271484Z"
-lastmod: "2026-07-18T16:38:06.820060Z"
+slug: conditional_random_field
+date: '2026-07-18T15:46:14.271484Z'
+lastmod: '2026-07-18T16:38:06.820060Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "조건부 랜덤 필드(CRF)는 시퀀스 레이블링과 같은 구조적 예측 작업을 위해 사용되는 판별적 확률 모델입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 조건부 랜덤 필드(CRF)는 시퀀스 레이블링과 같은 구조적 예측 작업을 위해 사용되는 판별적 확률 모델입니다.
 ---
-
 ## Definition
 
 조건부 랜덤 필드(CRF)는 자연어 처리 및 생물정보학 분야에서 일반적으로 사용되는 판별 모델 클래스입니다. 생성 모델과 달리 CRF는 직접적으로 조건부 확률을 모델링하므로, 주변 특징 간의 복잡한 상호 작용을 포착하는 데 특히 효과적입니다.

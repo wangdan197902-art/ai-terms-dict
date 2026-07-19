@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /fi/terms/inductive_programming/
 date: "2026-07-18T16:03:42.886755Z"
 lastmod: "2026-07-18T17:15:09.422328Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmointiyhdistelyn ala, jossa tietokoneohjelmat luodaan automaattisesti syöte-lähtö-esimerkkien perusteella."
 ---
-
 ## Definition
 
 Induktiivinen ohjelmointi, jota kutsutaan usein myös ohjelmointiyhdistelyksi (program synthesis), tarkoittaa ohjelmakoodin luomista spesifikaatioiden perusteella, jotka on annettu syöte-lähtö-parien muodossa eksplisiittisten ohjeiden sijaan. Järjestelmä johtaa ohjelman logiikan esimerkeistä induktiivisesti.

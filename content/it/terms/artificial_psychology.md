@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /it/terms/artificial_psychology/
 date: "2026-07-18T15:48:09.213030Z"
 lastmod: "2026-07-18T17:15:08.599701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un campo di studio che esamina come progettare sistemi di IA con architetture cognitive che imitano i processi psicologici umani."
 ---
-
 ## Definition
 
 La psicologia artificiale è un dominio interdisciplinare focalizzato sulla progettazione e sull'implementazione di architetture cognitive nei sistemi di IA. Attinge dalla scienza cognitiva e dalla psicologia per modellare il

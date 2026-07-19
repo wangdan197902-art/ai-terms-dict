@@ -1,23 +1,23 @@
 ---
-title: "одношаговый"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: одношаговый
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /ru/terms/one_step/
-date: "2026-07-18T15:32:08.237097Z"
-lastmod: "2026-07-18T16:38:07.097135Z"
+slug: one_step
+date: '2026-07-18T15:32:08.237097Z'
+lastmod: '2026-07-18T16:38:07.097135Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к алгоритмам или процессам, которые завершают задачу или цикл принятия решений за одну итерацию без итеративной уточняющей обработки."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к алгоритмам или процессам, которые завершают задачу или цикл
+  принятия решений за одну итерацию без итеративной уточняющей обработки.
 ---
-
 ## Definition
 
 В машинном обучении и оптимизации одношаговые методы решают задачи напрямую, не требуя множества итераций или обновлений для сходимости. В отличие от градиентного спуска, который требует многих шагов для минимизации...

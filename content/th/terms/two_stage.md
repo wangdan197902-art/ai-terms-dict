@@ -1,23 +1,22 @@
 ---
-title: "สองขั้นตอน (Two-stage)"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: สองขั้นตอน (Two-stage)
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /th/terms/two_stage/
-date: "2026-07-18T15:34:27.516613Z"
-lastmod: "2026-07-18T16:38:07.557735Z"
+slug: two_stage
+date: '2026-07-18T15:34:27.516613Z'
+lastmod: '2026-07-18T16:38:07.557735Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถาปัตยกรรมสายงานประมวลผลที่ทำงานเป็นขั้นตอนต่อเนื่องที่แยกจากกันชัดเจน"
+source: agnes_llm
+status: published
+language: th
+description: สถาปัตยกรรมสายงานประมวลผลที่ทำงานเป็นขั้นตอนต่อเนื่องที่แยกจากกันชัดเจน
 ---
-
 ## Definition
 
 สถาปัตยกรรมแบบสองขั้นตอนแบ่งงานที่ซับซ้อนออกเป็นสองขั้นตอนแยกจากกัน โดยทั่วไปประกอบด้วยขั้นตอนการตรวจจับfollowedด้วยการจัดประเภทหรือการปรับปรุง ในด้านคอมพิวเตอร์วิทัศน์ ตัวอย่างรวมถึงตัวตรวจจับวัตถุเช่น

@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /tr/terms/ai_agent/
 date: "2026-07-18T15:38:32.755736Z"
 lastmod: "2026-07-18T16:38:07.266614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirli hedeflere ulaşmak için çevresini algılayan ve eylemler gerçekleştiren otonom bir sistem."
 ---
-
 ## Definition
 
 Bir Yapay Zeka ajanı, önceden tanımlanmış hedefleri yerine getirmek amacıyla belirli bir ortamda otonom olarak çalışan yazılım varlığıdır. Veri toplamak için algılama mekanizmaları kullanır ve bu bilgileri işler.

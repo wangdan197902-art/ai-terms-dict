@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /nl/terms/code/
 date: "2026-07-18T15:35:24.860504Z"
 lastmod: "2026-07-18T17:15:08.702744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI-contexten verwijst code naar gestructureerde instructies geschreven in programmeertalen die het gedrag van modellen en de logica voor gegevensverwerking definiëren."
 ---
-
 ## Definition
 
 Code vertegenwoordigt de reeks instructies geschreven in programmeertalen zoals Python, C++ of JavaScript die computers uitvoeren om specifieke taken uit te voeren. In kunstmatige intelligentie is code fundam

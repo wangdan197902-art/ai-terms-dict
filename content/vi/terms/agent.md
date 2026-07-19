@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /vi/terms/agent/
 date: "2026-07-18T15:22:23.225783Z"
 lastmod: "2026-07-18T16:38:07.677448Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống AI có khả năng nhận biết môi trường, lập luận và thực hiện các hành động để đạt được mục tiêu cụ thể một cách tự chủ."
 ---
-
 ## Definition
 
 Trong AI, một agent là một thực thể hành động thay mặt người dùng hoặc hệ thống để hoàn thành nhiệm vụ. Khác với các mô hình thụ động chỉ phản hồi lại prompt, các agent có thể lập kế hoạch, sử dụng công cụ và lặp lại các hành động của mình.

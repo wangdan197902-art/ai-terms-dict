@@ -1,23 +1,24 @@
 ---
-title: "Proaktif Öğrenme"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Proaktif Öğrenme
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /tr/terms/proactive_learning/
-date: "2026-07-18T16:09:48.990871Z"
-lastmod: "2026-07-18T16:38:07.350914Z"
+slug: proactive_learning
+date: '2026-07-18T16:09:48.990871Z'
+lastmod: '2026-07-18T16:38:07.350914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ajanın verileri pasif olarak almak yerine, bilgilendirici veri noktalarını aktif olarak seçip sorguladığı veya keşfettiği bir öğrenme stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Ajanın verileri pasif olarak almak yerine, bilgilendirici veri noktalarını
+  aktif olarak seçip sorguladığı veya keşfettiği bir öğrenme stratejisi.
 ---
-
 ## Definition
 
 Proaktif öğrenmede yapay zeka sistemi, belirsizliği en aza indirmek veya model performansını artırmak için hangi örneklerin en faydalı olacağını belirler; genellikle aktif öğrenme veya keşif stratejileri aracılığıyla bunu yapar. Bu yaklaşım, pasif öğrenmeye karşıt olarak tasarlanmıştır.

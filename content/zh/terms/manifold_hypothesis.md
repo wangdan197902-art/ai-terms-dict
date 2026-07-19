@@ -1,23 +1,23 @@
 ---
-title: "流形假设"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: 流形假设
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /zh/terms/manifold_hypothesis/
-date: "2026-07-18T11:25:23.018266Z"
-lastmod: "2026-07-18T11:44:45.529611Z"
+slug: manifold_hypothesis
+date: '2026-07-18T11:25:23.018266Z'
+lastmod: '2026-07-18T11:44:45.529611Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "假设高维现实世界数据位于高维空间内的低维非线性流形上。"
+source: agnes_llm
+status: published
+language: zh
+description: 假设高维现实世界数据位于高维空间内的低维非线性流形上。
 ---
-
 ## Definition
 
 这一假说解释了尽管存在维度灾难，深度学习为何能高效工作。它表明，尽管图像等数据存在于数百万维的空间中，但它们受到内在结构的约束...

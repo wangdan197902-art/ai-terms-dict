@@ -1,23 +1,23 @@
 ---
-title: "Imatrix"
-term_id: "imatrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "training", "quantization"]
+title: Imatrix
+term_id: imatrix
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- training
+- quantization
 difficulty: 5
 weight: 1
-slug: "imatrix"
-aliases:
-  - /th/terms/imatrix/
-date: "2026-07-18T15:59:50.596904Z"
-lastmod: "2026-07-18T16:38:07.617836Z"
+slug: imatrix
+date: '2026-07-18T15:59:50.596904Z'
+lastmod: '2026-07-18T16:38:07.617836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อัลกอริทึมเฉพาะที่ใช้ในการฝึกฝนโมเดลภาษาขนาดใหญ่ (LLM) เพื่อคำนวณเมทริกซ์ความสำคัญสำหรับการปรับให้เหมาะสมพารามิเตอร์อย่างมีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: อัลกอริทึมเฉพาะที่ใช้ในการฝึกฝนโมเดลภาษาขนาดใหญ่ (LLM) เพื่อคำนวณเมทริกซ์ความสำคัญสำหรับการปรับให้เหมาะสมพารามิเตอร์อย่างมีประสิทธิภาพ
 ---
-
 ## Definition
 
 Imatrix ย่อมาจาก Importance Matrix เป็นเทคนิคที่เกี่ยวข้องเป็นหลักกับการฝึกฝนและการทำ Quantization ของ LLM บนพื้นฐาน GGML เทคนิคนี้คำนวณอนุพันธ์อันดับสอง (การประมาณค่าเมทริกซ์เฮสเซียน) ของฟังก์ชันการสูญเสียเพื่อระบุพารามิเตอร์ที่สำคัญ

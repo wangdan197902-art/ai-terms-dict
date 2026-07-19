@@ -1,23 +1,23 @@
 ---
-title: "Temporal"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Temporal
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /id/terms/temporal/
-date: "2026-07-18T15:30:02.497535Z"
-lastmod: "2026-07-18T16:38:07.404195Z"
+slug: temporal
+date: '2026-07-18T15:30:02.497535Z'
+lastmod: '2026-07-18T16:38:07.404195Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Temporal berkaitan dengan urutan waktu, berfokus pada bagaimana data berubah atau ketergantungan berkembang seiring waktu."
+source: agnes_llm
+status: published
+language: id
+description: Temporal berkaitan dengan urutan waktu, berfokus pada bagaimana data
+  berubah atau ketergantungan berkembang seiring waktu.
 ---
-
 ## Definition
 
 Konsep temporal dalam AI melibatkan analisis titik data yang diurutkan berdasarkan waktu, seperti harga saham, pembacaan sensor, atau kalimat bahasa alami. Model yang menangani data temporal harus memperhitungkan urutan sekuensial...

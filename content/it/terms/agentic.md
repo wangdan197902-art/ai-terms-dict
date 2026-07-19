@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /it/terms/agentic/
 date: "2026-07-18T15:34:31.530003Z"
 lastmod: "2026-07-18T17:15:08.583203Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a sistemi di IA capaci di pianificazione autonoma, ragionamento ed esecuzione di azioni per raggiungere obiettivi specifici."
 ---
-
 ## Definition
 
 Il termine 'agentic' descrive agenti di IA che operano con un alto grado di autonomia. A differenza dei modelli passivi che si limitano a prevedere testo o classificare dati, i sistemi agentic possono scomporre obiettivi complessi in

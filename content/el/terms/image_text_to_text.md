@@ -1,23 +1,24 @@
 ---
-title: "Αντιστοίχιση Κειμένου Εικόνας σε Κείμενο"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Αντιστοίχιση Κειμένου Εικόνας σε Κείμενο
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /el/terms/image_text_to_text/
-date: "2026-07-18T16:14:24.467778Z"
-lastmod: "2026-07-18T17:15:09.919289Z"
+slug: image_text_to_text
+date: '2026-07-18T16:14:24.467778Z'
+lastmod: '2026-07-18T17:15:09.919289Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια πολυτροπική ικανότητα Τεχνητής Νοημοσύνης που παράγει λεκτικές περιγραφές ή απαντήσεις με βάση εικόνες εισόδου και προαιρετικά κείμενα εντολών."
+source: agnes_llm
+status: published
+language: el
+description: Μια πολυτροπική ικανότητα Τεχνητής Νοημοσύνης που παράγει λεκτικές περιγραφές
+  ή απαντήσεις με βάση εικόνες εισόδου και προαιρετικά κείμενα εντολών.
 ---
-
 ## Definition
 
 Η Αντιστοίχιση Κειμένου Εικόνας σε Κείμενο αναφέρεται σε μοντέλα που επεξεργάζονται οπτικές εισόδους μαζί με λεκτικές ερωτήσεις για να παράγουν συνεκτικές εξόδους φυσικής γλώσσας. Αυτά τα συστήματα, συχνά γνωστά ως Μοντέλα Γλώσσας-Οράσεως (VLMs), συνδυάζουν την κατανόηση της εικόνας με την επεξεργασία γλώσσας.

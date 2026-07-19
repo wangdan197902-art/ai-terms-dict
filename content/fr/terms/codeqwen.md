@@ -7,8 +7,6 @@ tags: ["AI Models", "Development Tools"]
 difficulty: 3
 weight: 1
 slug: "codeqwen"
-aliases:
-  - /fr/terms/codeqwen/
 date: "2026-07-18T11:08:24.950810Z"
 lastmod: "2026-07-18T11:44:45.207970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "CodeQwen est un modèle de langage large spécialisé, optimisé pour les tâches d'ingénierie logicielle, y compris la génération de code, sa compréhension et le débogage."
 ---
-
 ## Definition
 
 CodeQwen est une variante de la série Qwen développée par Alibaba Cloud, spécifiquement peaufinée pour exceller dans les activités liées à la programmation. Il s'appuie sur des architectures de transformateurs avancées pour comprendre le code.

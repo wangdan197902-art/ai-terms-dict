@@ -1,23 +1,24 @@
 ---
-title: "Poziciální kódování"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Poziciální kódování
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /cs/terms/positional_encoding/
-date: "2026-07-18T15:37:59.146672Z"
-lastmod: "2026-07-18T17:15:09.092035Z"
+slug: positional_encoding
+date: '2026-07-18T15:37:59.146672Z'
+lastmod: '2026-07-18T17:15:09.092035Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika, která vkládá informace o relativní nebo absolutní poloze tokenů v sekvenci do modelů typu transformer."
+source: agnes_llm
+status: published
+language: cs
+description: Technika, která vkládá informace o relativní nebo absolutní poloze tokenů
+  v sekvenci do modelů typu transformer.
 ---
-
 ## Definition
 
 Protože modely transformer zpracovávají všechny tokeny paralelně, nikoli sekvenčně jako rekurentní neuronové sítě (RNN), postrádají vrozenou znalost pořadí tokenů. Poziciální kódování přidává specifické vektory k vstupním vektorům embeddingů, aby zachovalo informaci o pořadí.

@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /vi/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:09:04.608563Z"
 lastmod: "2026-07-18T16:38:07.796856Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình Pyannote Audio là một chuỗi các bước xử lý có cấu trúc kết hợp nhiều mô hình khác nhau để thực hiện phân tích người nói đầu cuối."
 ---
-
 ## Definition
 
 Trong ngữ cảnh của Pyannote Audio, quy trình đề cập đến một luồng công việc có thể cấu hình, nối liền các mô-đun khác nhau để đạt được mục tiêu phân tích người nói. Thông thường, một quy trình bao gồm các giai đoạn như phát hiện hoạt động giọng nói, trích xuất đặc trưng và phân cụm.

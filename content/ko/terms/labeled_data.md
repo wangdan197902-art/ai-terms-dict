@@ -1,23 +1,23 @@
 ---
-title: "라벨 데이터"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: 라벨 데이터
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /ko/terms/labeled_data/
-date: "2026-07-18T16:01:36.612965Z"
-lastmod: "2026-07-18T16:38:06.859230Z"
+slug: labeled_data
+date: '2026-07-18T16:01:36.612965Z'
+lastmod: '2026-07-18T16:38:06.859230Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "입력 특징과 함께 정답 출력이나 대상 값이 제공된 데이터입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 입력 특징과 함께 정답 출력이나 대상 값이 제공된 데이터입니다.
 ---
-
 ## Definition
 
 라벨 데이터는 입력 샘플에 해당하는 정답(Ground Truth) 라벨과 쌍을 이루어, 지도 기계 학습의 기초를 형성합니다. 이를 통해 알고리즘은 입력과 출력 간의 매핑 관계를 학습할 수 있습니다.

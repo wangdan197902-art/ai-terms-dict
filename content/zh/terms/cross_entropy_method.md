@@ -1,23 +1,23 @@
 ---
-title: "交叉熵法"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: 交叉熵法
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /zh/terms/cross_entropy_method/
-date: "2026-07-18T11:12:12.555372Z"
-lastmod: "2026-07-18T11:44:45.469813Z"
+slug: cross_entropy_method
+date: '2026-07-18T11:12:12.555372Z'
+lastmod: '2026-07-18T11:44:45.469813Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种随机优化技术，利用蒙特卡洛模拟迭代改进对罕见事件概率的估计。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种随机优化技术，利用蒙特卡洛模拟迭代改进对罕见事件概率的估计。
 ---
-
 ## Definition
 
 交叉熵法（CEM）是一种强大的通用优化算法，用于解决离散和连续问题。它通过维护搜索空间上的概率分布来工作，并通过迭代更新该分布以聚焦于高性能样本，从而逐步优化解决方案。

@@ -1,23 +1,24 @@
 ---
-title: "Tensor"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tensor
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /nl/terms/tensor/
-date: "2026-07-18T16:19:35.829397Z"
-lastmod: "2026-07-18T17:15:08.792312Z"
+slug: tensor
+date: '2026-07-18T16:19:35.829397Z'
+lastmod: '2026-07-18T17:15:08.792312Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een multidimensionaal array dat dient als de fundamentele gegevensstructuur voor deep learning-frameworks."
+source: agnes_llm
+status: published
+language: nl
+description: Een multidimensionaal array dat dient als de fundamentele gegevensstructuur
+  voor deep learning-frameworks.
 ---
-
 ## Definition
 
 In de computerwetenschap en deep learning is een tensor een wiskundig object dat scalairs, vectoren en matrices generaliseert naar hogere dimensies. Het wordt gekenmerkt door zijn rang (aantal dimensies) en vorm.

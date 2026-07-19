@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /tr/terms/gated_recurrent_unit/
 date: "2026-07-18T15:54:29.584076Z"
 lastmod: "2026-07-18T16:38:07.311918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi akışını kontrol etmek için kapı mekanizmaları kullanan ve LSTM'ye basitleştirilmiş bir alternatif olarak hizmet veren bir tekrarlayan sinir ağı mimarisidir."
 ---
-
 ## Definition
 
 Kapılı Tekrarlayan Birim (GRU), ardışık verilerdeki uzun vadeli bağımlılıkları yakalamak için tasarlanmış özel bir tekrarlayan sinir ağı (RNN) hücresidir. Uzun Kısa Süreli Hafıza (LSTM) mimarisini basitleştirerek daha az parametre ile benzer performans sağlar.

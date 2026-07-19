@@ -1,23 +1,24 @@
 ---
-title: "Geometrik özellik öğrenimi"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Geometrik özellik öğrenimi
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /tr/terms/geometric_feature_learning/
-date: "2026-07-18T15:54:59.411857Z"
-lastmod: "2026-07-18T16:38:07.313148Z"
+slug: geometric_feature_learning
+date: '2026-07-18T15:54:59.411857Z'
+lastmod: '2026-07-18T16:38:07.313148Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Graflar veya çoklu uzaylar (manifold) gibi içsel geometrik yapılara sahip verilerden, özel sinir ağları kullanarak özellik çıkaran derin öğrenme tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Graflar veya çoklu uzaylar (manifold) gibi içsel geometrik yapılara sahip
+  verilerden, özel sinir ağları kullanarak özellik çıkaran derin öğrenme tekniği.
 ---
-
 ## Definition
 
 Geometrik özellik öğrenimi, sosyal ağlar, moleküler graflar veya 3D yüzeyler gibi Öklid olmayan yapılara sahip verileri işlemeye odaklanır. Grafik Sinir Ağları (GNN'ler) ve diğer teknikler...

@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /tr/terms/stochastic/
 date: "2026-07-18T15:29:52.343999Z"
 lastmod: "2026-07-18T16:38:07.244537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Deterministik sonuçlar yerine rastgelelik ve olasılık içeren süreçleri veya modelleri tanımlar."
 ---
-
 ## Definition
 
 Stokastik unsurlar, verideki gürültü veya ağırlıkların rastgele başlatılması gibi yapay zeka sistemlerine değişkenlik katar. Deterministik modellerin aksine, stokastik modeller belirsizliği hesaba katarak daha gerçekçi simülasyonlar sağlar.

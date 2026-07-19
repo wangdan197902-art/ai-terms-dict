@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /pt/terms/ai_nationalism/
 date: "2026-07-18T14:48:06.630530Z"
 lastmod: "2026-07-18T15:51:59.458724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A competição estratégica entre nações para dominar o desenvolvimento de inteligência artificial, impulsionada por interesses geopolíticos e econômicos."
 ---
-
 ## Definition
 
 O nacionalismo em IA descreve a tendência em que os governos tratam a inteligência artificial como uma questão de segurança nacional e soberania econômica. As nações investem pesadamente em pesquisa doméstica de IA, restringem a transferência de tecnologia e buscam autonomia tecnológica.

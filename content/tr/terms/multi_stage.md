@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /tr/terms/multi_stage/
 date: "2026-07-18T15:32:01.730615Z"
 lastmod: "2026-07-18T16:38:07.250838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Karmaşık bir görevi, her biri belirli hedefler ve çıktılar içeren ayrı ve ardışık fazlara bölen süreç tasarımı."
 ---
-
 ## Definition
 
 Çok aşamalı yaklaşımlar, karmaşık iş akışlarını yönetilebilir parçalara ayırarak her adımda uzmanlaşmış işlem yapılmasına olanak tanır. Bu yöntem kontrolü, hata ayıklamayı ve performans optimizasyonunu artırır.

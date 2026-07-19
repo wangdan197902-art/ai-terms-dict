@@ -1,23 +1,24 @@
 ---
-title: "Hipótesis del subvariedad"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Hipótesis del subvariedad
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /es/terms/manifold_hypothesis/
-date: "2026-07-18T10:59:04.150523Z"
-lastmod: "2026-07-18T11:44:44.829870Z"
+slug: manifold_hypothesis
+date: '2026-07-18T10:59:04.150523Z'
+lastmod: '2026-07-18T11:44:44.829870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La suposición de que los datos del mundo real de alta dimensión se encuentran en una subvariedad no lineal de menor dimensión dentro del espacio de mayor dimensión."
+source: agnes_llm
+status: published
+language: es
+description: La suposición de que los datos del mundo real de alta dimensión se encuentran
+  en una subvariedad no lineal de menor dimensión dentro del espacio de mayor dimensión.
 ---
-
 ## Definition
 
 Esta hipótesis explica por qué el aprendizaje profundo funciona eficazmente a pesar de la maldición de la dimensionalidad. Sugiere que, aunque los datos como las imágenes existen en millones de dimensiones, están restringidos por

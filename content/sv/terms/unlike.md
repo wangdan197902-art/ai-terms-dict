@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /sv/terms/unlike/
 date: "2026-07-18T15:32:22.778190Z"
 lastmod: "2026-07-18T17:15:08.954952Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En logisk operator som används i SQL och programmering för att filtrera poster som inte matchar ett angivet villkor."
 ---
-
 ## Definition
 
 Inom databasfrågor och logik syftar 'Olika' vanligtvis på operatören NOT LIKE, som utför mönstermatchning i omvänd ordning. Den returnerar sant för rader där kolumnvärdet inte passar den specificerade mönstret.

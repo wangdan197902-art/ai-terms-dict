@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /fi/terms/hugging_face/
-date: "2026-07-18T16:02:13.514450Z"
-lastmod: "2026-07-18T17:15:09.419530Z"
+slug: hugging_face
+date: '2026-07-18T16:02:13.514450Z'
+lastmod: '2026-07-18T17:15:09.419530Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Johtava alusta ja yhteisö, joka tarjoaa avoimen lähdekoodin työkaluja, malleja ja datamääriä koneoppimisen kehittämiseen."
+source: agnes_llm
+status: published
+language: fi
+description: Johtava alusta ja yhteisö, joka tarjoaa avoimen lähdekoodin työkaluja,
+  malleja ja datamääriä koneoppimisen kehittämiseen.
 ---
-
 ## Definition
 
 Hugging Face on merkittävä yritys ja verkkopalvelu, josta on tullut keskeinen osa avoimen lähdekoodin tekoälyekosysteemiä. Se tarjoaa valtavan varaston esikoulutettuja malleja, datamääriä ja demonstraatio-sovelluksia.

@@ -1,23 +1,23 @@
 ---
-title: "เมทริกซ์ความสับสน (Confusion Matrix)"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: เมทริกซ์ความสับสน (Confusion Matrix)
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /th/terms/confusion_matrix/
-date: "2026-07-18T15:46:33.414882Z"
-lastmod: "2026-07-18T16:38:07.588372Z"
+slug: confusion_matrix
+date: '2026-07-18T15:46:33.414882Z'
+lastmod: '2026-07-18T16:38:07.588372Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ตารางที่ใช้สำหรับอธิบายประสิทธิภาพของแบบจำลองการจำแนกประเภทบนชุดข้อมูลทดสอบ"
+source: agnes_llm
+status: published
+language: th
+description: ตารางที่ใช้สำหรับอธิบายประสิทธิภาพของแบบจำลองการจำแนกประเภทบนชุดข้อมูลทดสอบ
 ---
-
 ## Definition
 
 เมทริกซ์ความสับสนคือรูปแบบตารางเฉพาะที่ช่วยให้สามารถมองเห็นประสิทธิภาพของอัลกอริทึมได้ โดยมักใช้กับอัลกอริทึมการเรียนรู้ภายใต้การดูแล (supervised learning) ตารางนี้จะแสดงจำนวนของผลบวกจริง (true positives), ผลลบจริง (true negatives), ผลบวกปลอม (false positives), และผลลบปลอม (false negatives) เพื่อประเมินความแม่นยำและความคลาดเคลื่อนของแบบจำลอง

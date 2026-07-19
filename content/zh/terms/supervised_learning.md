@@ -1,23 +1,23 @@
 ---
-title: "监督学习"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: 监督学习
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /zh/terms/supervised_learning/
-date: "2026-07-18T11:02:04.102315Z"
-lastmod: "2026-07-18T11:44:45.406541Z"
+slug: supervised_learning
+date: '2026-07-18T11:02:04.102315Z'
+lastmod: '2026-07-18T11:44:45.406541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种机器学习范式，模型基于带标签的训练示例学习将输入映射到输出。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种机器学习范式，模型基于带标签的训练示例学习将输入映射到输出。
 ---
-
 ## Definition
 
 在监督学习中，算法在带标签的数据集上进行训练，意味着每个输入示例都与正确的输出配对。目标是让模型学习输入与输出之间的潜在关系。

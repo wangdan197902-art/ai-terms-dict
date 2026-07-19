@@ -1,23 +1,24 @@
 ---
-title: "Nepřetržité nasazování"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Nepřetržité nasazování
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /cs/terms/continuous_deployment/
-date: "2026-07-18T15:49:36.046665Z"
-lastmod: "2026-07-18T17:15:09.113801Z"
+slug: continuous_deployment
+date: '2026-07-18T15:49:36.046665Z'
+lastmod: '2026-07-18T17:15:09.113801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Praxe softwarového inženýrství, kde se každá změna kódu, která projde automatizovaným testováním, automaticky vydá do produkce."
+source: agnes_llm
+status: published
+language: cs
+description: Praxe softwarového inženýrství, kde se každá změna kódu, která projde
+  automatizovaným testováním, automaticky vydá do produkce.
 ---
-
 ## Definition
 
 Nepřetržité nasazování je rozšířením nepřetržité dodávky, které automatizuje celý proces vydávání. Jakmile změny kódu projdou všemi kontrolními body kvality, včetně jednotkových testů, integračních testů a bezpečnostních auditů, jsou automaticky nasazeny do produkčního prostředí.

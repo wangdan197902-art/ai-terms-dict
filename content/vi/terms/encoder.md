@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /vi/terms/encoder/
 date: "2026-07-18T15:34:34.619293Z"
 lastmod: "2026-07-18T16:38:07.708514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Bộ mã hóa là một thành phần của mạng nơ-ron biến đổi dữ liệu đầu vào thành một biểu diễn nén và có ý nghĩa."
 ---
-
 ## Definition
 
 Các bộ mã hóa xử lý các chuỗi đầu vào hoặc cấu trúc dữ liệu thô và chuyển đổi chúng thành các biểu diễn trong không gian ẩn (latent space), thường được gọi là nhúng hoặc mã. Chúng đóng vai trò trung tâm trong các kiến trúc như Transformer và Autoencoder.

@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /pl/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:48:25.124067Z"
 lastmod: "2026-07-18T17:15:08.859711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Ta dziedzina łączy analizę statystyczną i uczenie maszynowe w celu wyodrębniania wniosków z danych i prognozowania przyszłych zdarzeń lub zachowań."
 ---
-
 ## Definition
 
 Nauka o danych obejmuje interdyscyplinarny proces wyodrębniania wiedzy ze strukturyzowanych i niestrukturyzowanych danych, podczas gdy analityka predykcyjna skupia się szczególnie na wykorzystywaniu historycznych danych do przewidywania przyszłych

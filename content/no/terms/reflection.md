@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /no/terms/reflection/
 date: "2026-07-18T16:14:28.814596Z"
 lastmod: "2026-07-18T16:38:07.042161Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En mekanisme som lar AI-modeller analysere sine egne utdata, resonnementprosesser eller interne tilstander for å forbedre fremtidig ytelse."
 ---
-
 ## Definition
 
 Innen AI er refleksjon et paradigme der en modell stopper opp for å evaluere sin egen genereringsprosess eller utdata før den finaliseres. Dette kan involvere sjekk for logisk konsistens, faktabasert nøyaktighet eller overholdelse.

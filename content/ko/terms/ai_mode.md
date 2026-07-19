@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /ko/terms/ai_mode/
 date: "2026-07-18T15:36:53.458160Z"
 lastmod: "2026-07-18T16:38:06.802567Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "소프트웨어 인터페이스에서 인공지능이 작업을 적극적으로 보조하거나 자동화하는 기능적 상태입니다."
 ---
-
 ## Definition
 
 AI 모드는 디지털 플랫폼이나 애플리케이션 내에서 사용자 상호작용을 향상시키기 위해 AI 기능이 활성화된 특정 운영 상태를 의미합니다. 이 모드는 일반적으로 자연어

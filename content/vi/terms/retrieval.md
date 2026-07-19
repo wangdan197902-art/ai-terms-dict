@@ -1,23 +1,24 @@
 ---
-title: "Truy xuất (Retrieval)"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Truy xuất (Retrieval)
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /vi/terms/retrieval/
-date: "2026-07-18T15:37:10.128038Z"
-lastmod: "2026-07-18T16:38:07.713559Z"
+slug: retrieval
+date: '2026-07-18T15:37:10.128038Z'
+lastmod: '2026-07-18T16:38:07.713559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình lấy dữ liệu liên quan từ cơ sở dữ liệu hoặc cơ sở kiến thức để tăng cường đầu vào cho mô hình."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình lấy dữ liệu liên quan từ cơ sở dữ liệu hoặc cơ sở kiến thức
+  để tăng cường đầu vào cho mô hình.
 ---
-
 ## Definition
 
 Truy xuất đề cập đến quy trình kỹ thuật tìm kiếm và trích xuất thông tin cụ thể từ các tập dữ liệu lớn hoặc cơ sở kiến thức bên ngoài dựa trên truy vấn hoặc ngữ cảnh của người dùng. Trong các hệ thống AI hiện đại, nó thường được sử dụng để cung cấp thông tin chính xác và cập nhật cho mô hình.

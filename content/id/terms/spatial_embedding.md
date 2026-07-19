@@ -1,23 +1,24 @@
 ---
-title: "Embedding Spasial"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Embedding Spasial
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /id/terms/spatial_embedding/
-date: "2026-07-18T16:09:19.755459Z"
-lastmod: "2026-07-18T16:38:07.509098Z"
+slug: spatial_embedding
+date: '2026-07-18T16:09:19.755459Z'
+lastmod: '2026-07-18T16:38:07.509098Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik yang memetakan hubungan spasial antara objek atau lokasi ke dalam representasi vektor untuk model pembelajaran mesin."
+source: agnes_llm
+status: published
+language: id
+description: Teknik yang memetakan hubungan spasial antara objek atau lokasi ke dalam
+  representasi vektor untuk model pembelajaran mesin.
 ---
-
 ## Definition
 
 Embedding spasial melibatkan konversi hubungan spasial fisik atau abstrak ke dalam ruang vektor padat, memungkinkan algoritma memahami kedekatan, orientasi, dan topologi. Teknik ini penting untuk pemahaman konteks ruang dalam AI.

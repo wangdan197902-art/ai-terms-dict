@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /cs/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:10:53.837757Z"
 lastmod: "2026-07-18T17:15:09.158007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Přístup k AI kombinující schopnosti učení neuronových sítí s logikou a transparentností syntetického usuzování."
 ---
-
 ## Definition
 
 Neuro-syntetická AI integruje sub-syntetické metody učení neuronových sítí se systémy odvození založenými na syntetické logice. Tento hybridní přístup má za cíl překonat omeření čistého hlubokého učení, jako je nedostatek...

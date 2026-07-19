@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /th/terms/multi/
 date: "2026-07-18T15:27:10.108499Z"
 lastmod: "2026-07-18T16:38:07.543261Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "คำอุปสรรคที่บ่งบอกถึงการมีอยู่ของหลายหน่วย หลายหัว หรือหลายรูปแบบภายในระบบหรือโมเดล"
 ---
-
 ## Definition
 
 คำอุปสรรค 'multi-' มักใช้ใน AI เพื่อระบุสถาปัตยกรรมหรือกระบวนการที่เกี่ยวข้องกับองค์ประกอบคู่ขนานหลายส่วน ตัวอย่างเช่น Multi-Head Attention ซึ่งช่วยให้โมเดลสามารถมุ่งเน้นไปที่มิติต่างๆ ได้พร้อมกัน

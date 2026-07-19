@@ -1,23 +1,23 @@
 ---
-title: "インテリジェントデータベース"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: インテリジェントデータベース
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /ja/terms/intelligent_database/
-date: "2026-07-18T11:19:53.227487Z"
-lastmod: "2026-07-18T11:44:45.110716Z"
+slug: intelligent_database
+date: '2026-07-18T11:19:53.227487Z'
+lastmod: '2026-07-18T11:44:45.110716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "データ管理、クエリ最適化、洞察の生成を自動化するためにAI機能を組み込んだデータベースシステム。"
+source: agnes_llm
+status: published
+language: ja
+description: データ管理、クエリ最適化、洞察の生成を自動化するためにAI機能を組み込んだデータベースシステム。
 ---
-
 ## Definition
 
 インテリジェントデータベースは、単なる保存と検索を超えて標準的なデータベース機能を強化するために、機械学習とAIを活用します。これにより、クエリパフォーマンスの自動最適化、使用パターンの予測、異常検知などが可能になります。

@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /no/terms/aware/
 date: "2026-07-18T15:23:27.022700Z"
 lastmod: "2026-07-18T16:38:06.932573Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Indikerer en AIs evne til å oppdage og behandle spesifikk kontekstuell informasjon eller stimuli."
 ---
-
 ## Definition
 
 I AI-sammenhenger refererer 'bevisst' vanligvis til situasjons- eller kontekstuell bevissthet, der et system gjenkjenner relevante miljøfaktorer eller brukerstatuser. Det impliserer ikke bevissthet, men snarere...

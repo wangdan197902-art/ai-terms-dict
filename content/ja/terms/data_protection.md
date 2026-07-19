@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /ja/terms/data_protection/
 date: "2026-07-18T10:58:37.216892Z"
 lastmod: "2026-07-18T11:44:45.040182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "機密情報を、そのライフサイクル全体を通じて不正アクセス、改ざん、または盗難から守るプロセス。"
 ---
-
 ## Definition
 
 データ保護には、個人情報や機密データを侵害や悪用から守るために設計された法的、技術的、組織的な対策が含まれます。AIにおいては、暗号化の実装、アクセス制御、匿名化などの手法を通じてデータのセキュリティを確保することが含まれます。

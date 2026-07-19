@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /ja/terms/artificial_intimacy/
 date: "2026-07-18T11:04:34.622032Z"
 lastmod: "2026-07-18T11:44:45.069229Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "共感、同伴意識、個人的な対話をシミュレートするAIエンティティに対してユーザーが形成する感情的なつながり。"
 ---
-
 ## Definition
 
 人工的親密性とは、チャットボット、バーチャルアシスタント、またはソーシャルロボットなどの人工エージェントに対して、人間が本物の感情的な絆を発達させる心理的現象を指します。これらのシステムは共感を模倣することで、ユーザーとの深い関係性を構築します。

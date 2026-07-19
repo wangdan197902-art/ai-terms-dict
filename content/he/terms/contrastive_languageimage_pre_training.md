@@ -1,23 +1,24 @@
 ---
-title: "הכנה מקדימה מנוגדת לשפה ותמונה (CLIP)"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: הכנה מקדימה מנוגדת לשפה ותמונה (CLIP)
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /he/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:50:05.967084Z"
-lastmod: "2026-07-18T17:15:09.523446Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:50:05.967084Z'
+lastmod: '2026-07-18T17:15:09.523446Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטת הכנה מקדימה רב-מודאלית המיישרת ייצוגים של תמונות וטקסט באמצעות פונקציות הפסד ניגודיות."
+source: agnes_llm
+status: published
+language: he
+description: שיטת הכנה מקדימה רב-מודאלית המיישרת ייצוגים של תמונות וטקסט באמצעות פונקציות
+  הפסד ניגודיות.
 ---
-
 ## Definition
 
 הכנה מקדימה מנוגדת לשפה ותמונה (CLIP) היא ארכיטקטורת רשת נוירונים שאומנה על תמונות וכיתובים המתאימים להן מהאינטרנט. היא משתמשת במטרה ניגודית כדי למקסם את ההתאמה בין זוגות תמונה-טקסט תואמים ולהפחית את ההתאמה בין זוגות לא תואמים.

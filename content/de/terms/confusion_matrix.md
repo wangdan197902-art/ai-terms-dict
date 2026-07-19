@@ -1,23 +1,24 @@
 ---
-title: "Konfusionsmatrix"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Konfusionsmatrix
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /de/terms/confusion_matrix/
-date: "2026-07-18T11:08:35.675302Z"
-lastmod: "2026-07-18T11:44:44.920503Z"
+slug: confusion_matrix
+date: '2026-07-18T11:08:35.675302Z'
+lastmod: '2026-07-18T11:44:44.920503Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Tabelle zur Beschreibung der Leistung eines Klassifikationsmodells auf einem Satz von Testdaten."
+source: agnes_llm
+status: published
+language: de
+description: Eine Tabelle zur Beschreibung der Leistung eines Klassifikationsmodells
+  auf einem Satz von Testdaten.
 ---
-
 ## Definition
 
 Eine Konfusionsmatrix ist eine spezifische Tabellenanordnung, die die Visualisierung der Leistung eines Algorithmus ermöglicht, typischerweise eines überwachtes Lernverfahrens. Sie zeigt die Häufigkeiten von wahren Positiven, wahren Negativen, falschen Positiven und falschen Negativen.

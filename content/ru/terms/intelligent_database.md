@@ -1,23 +1,24 @@
 ---
-title: "Интеллектуальная база данных"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Интеллектуальная база данных
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /ru/terms/intelligent_database/
-date: "2026-07-18T15:59:11.313405Z"
-lastmod: "2026-07-18T16:38:07.170190Z"
+slug: intelligent_database
+date: '2026-07-18T15:59:11.313405Z'
+lastmod: '2026-07-18T16:38:07.170190Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Система баз данных, включающая возможности ИИ для автоматизации управления данными, оптимизации запросов и генерации аналитических выводов."
+source: agnes_llm
+status: published
+language: ru
+description: Система баз данных, включающая возможности ИИ для автоматизации управления
+  данными, оптимизации запросов и генерации аналитических выводов.
 ---
-
 ## Definition
 
 Интеллектуальная база данных использует машинное обучение и ИИ для расширения стандартных функций баз данных за пределы простого хранения и извлечения данных. Она может автоматически оптимизировать производительность запросов, предсказывать использование ресурсов и выявлять аномалии.

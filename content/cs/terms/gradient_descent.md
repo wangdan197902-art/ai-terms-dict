@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /cs/terms/gradient_descent/
 date: "2026-07-18T15:35:52.472175Z"
 lastmod: "2026-07-18T17:15:09.089967Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Iterativní optimalizační algoritmus používaný k minimalizaci funkce ztráty úpravou parametrů modelu."
 ---
-
 ## Definition
 
 Gradientní sestup je iterativní optimalizační algoritmus prvního řádu pro nalezení lokálního minima diferencovatelné funkce. V strojovém učení aktualizuje váhy modelu ve směru opačném ke gradientu funkce ztráty.

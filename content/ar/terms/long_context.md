@@ -1,23 +1,24 @@
 ---
-title: "سياق طويل"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: سياق طويل
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /ar/terms/long_context/
-date: "2026-07-18T16:11:04.541890Z"
-lastmod: "2026-07-18T17:15:08.523816Z"
+slug: long_context
+date: '2026-07-18T16:11:04.541890Z'
+lastmod: '2026-07-18T17:15:08.523816Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "قدرة نموذج اللغة على معالجة والاحتفاظ بالمعلومات من تسلسلات الإدخال التي تحتوي على آلاف أو ملايين الرموز."
+source: agnes_llm
+status: published
+language: ar
+description: قدرة نموذج اللغة على معالجة والاحتفاظ بالمعلومات من تسلسلات الإدخال التي
+  تحتوي على آلاف أو ملايين الرموز.
 ---
-
 ## Definition
 
 يشير السياق الطويل إلى قدرة النماذج القائمة على المحولات (Transformers) على التعامل مع أطوال إدخال واسعة، تتجاوز غالباً الحدود القياسية مثل 2000 أو 4000 رمز. تتيح هذه القدرة للنماذج تحليل نصوص كاملة طويلة أو مستندات ضخمة دون فقدان السياق أو التفاصيل المهمة.

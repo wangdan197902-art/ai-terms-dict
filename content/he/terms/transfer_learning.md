@@ -1,23 +1,24 @@
 ---
-title: "למידה בהעברה"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: למידה בהעברה
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /he/terms/transfer_learning/
-date: "2026-07-18T15:31:37.468699Z"
-lastmod: "2026-07-18T17:15:09.489839Z"
+slug: transfer_learning
+date: '2026-07-18T15:31:37.468699Z'
+lastmod: '2026-07-18T17:15:09.489839Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה בלמידת מכונה שבה מודל שפותח למשימה אחת משמש כנקודת התחלה עבור מודל במשימה שנייה."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה בלמידת מכונה שבה מודל שפותח למשימה אחת משמש כנקודת התחלה עבור
+  מודל במשימה שנייה.
 ---
-
 ## Definition
 
 למידה בהעברה מנצלת מודלים מאומנים מראש כדי לשפר ביצועים ולהפחית את זמן האימון במשימות חדשות וקשורות. במקום לאמן מההתחלה, מפתחים מדקים את המשקלים הקיימים, מה שמאפשר ניצול יעיל יותר של נתונים ומשאבים.

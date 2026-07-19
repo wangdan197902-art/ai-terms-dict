@@ -1,23 +1,24 @@
 ---
-title: "วิทยาการหุ่นยนต์วิวัฒนาการและพัฒนาการ"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: วิทยาการหุ่นยนต์วิวัฒนาการและพัฒนาการ
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /th/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:52:35.884202Z"
-lastmod: "2026-07-18T16:38:07.603810Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:52:35.884202Z'
+lastmod: '2026-07-18T16:38:07.603810Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาหนึ่งของวิทยาการหุ่นยนต์ที่รวมอัลกอริทึมวิวัฒนาการเข้ากับกระบวนการพัฒนาการ เพื่อออกแบบรูปร่างและระบบควบคุมของหุ่นยนต์"
+source: agnes_llm
+status: published
+language: th
+description: สาขาหนึ่งของวิทยาการหุ่นยนต์ที่รวมอัลกอริทึมวิวัฒนาการเข้ากับกระบวนการพัฒนาการ
+  เพื่อออกแบบรูปร่างและระบบควบคุมของหุ่นยนต์
 ---
-
 ## Definition
 
 ได้รับแรงบันดาลใจจากชีววิทยาการพัฒนาของสิ่งมีชีวิต (Ontogeny) ED-Robotics สำรวจว่าพฤติกรรมที่ซับซ้อนและโครงสร้างทางกายภาพเกิดขึ้นได้อย่างไรตามเวลาผ่านการมีปฏิสัมพันธ์กับสิ่งแวดล้อม แทนที่จะถูกเขียนโปรแกรมไว้ตายตัว โดยใช้วิวัฒนาการเชิงคำนวณเพื่อสร้างและปรับปรุงลักษณะเหล่านี้

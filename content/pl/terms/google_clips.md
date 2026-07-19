@@ -1,23 +1,24 @@
 ---
-title: "Google Clips"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: Google Clips
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /pl/terms/google_clips/
-date: "2026-07-18T15:57:11.771368Z"
-lastmod: "2026-07-18T17:15:08.878372Z"
+slug: google_clips
+date: '2026-07-18T15:57:11.771368Z'
+lastmod: '2026-07-18T17:15:08.878372Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Google Clips to kieszonkowy aparat napędzany przez AI, zaprojektowany do automatycznego przechwytywania momentów za pomocą uczenia maszynowego."
+source: agnes_llm
+status: published
+language: pl
+description: Google Clips to kieszonkowy aparat napędzany przez AI, zaprojektowany
+  do automatycznego przechwytywania momentów za pomocą uczenia maszynowego.
 ---
-
 ## Definition
 
 Google Clips to urządzenie elektroniki konsumenckiej opracowane przez Google, które wykorzystywało uczenie maszynowe na urządzeniu (on-device) do identyfikacji interesujących scen i obiektów, takich jak twarze czy zwierzęta domowe, oraz automatycznego robienia zdjęć lub nagrań wideo.

@@ -1,23 +1,24 @@
 ---
-title: "Função preditora linear"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Função preditora linear
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /pt/terms/linear_predictor_function/
-date: "2026-07-18T15:08:20.668453Z"
-lastmod: "2026-07-18T15:51:59.507746Z"
+slug: linear_predictor_function
+date: '2026-07-18T15:08:20.668453Z'
+lastmod: '2026-07-18T15:51:59.507746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma função matemática que calcula uma combinação linear de variáveis de entrada para prever um resultado."
+source: agnes_llm
+status: published
+language: pt
+description: Uma função matemática que calcula uma combinação linear de variáveis
+  de entrada para prever um resultado.
 ---
-
 ## Definition
 
 Em modelagem estatística e aprendizado de máquina, uma função preditora linear representa a soma ponderada das características de entrada mais um termo de viés. Ela serve como componente central em modelos lineares generalizados (GLMs).

@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /pt/terms/argumentation_framework/
 date: "2026-07-18T14:49:49.466380Z"
 lastmod: "2026-07-18T15:51:59.463007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura formal usada para modelar e resolver conflitos entre reivindicações ou decisões concorrentes em sistemas de IA."
 ---
-
 ## Definition
 
 As estruturas de argumentação fornecem uma base matemática para representar argumentos, ataques e defesas entre eles. Na engenharia de IA, elas ajudam os sistemas a tomar decisões transparentes e justificáveis, ponderando...

@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /zh/terms/ciml_community_portal/
 date: "2026-07-18T11:09:42.288230Z"
 lastmod: "2026-07-18T11:44:45.453813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个集中的在线平台，促进计算智能和机器学习领域的研究人员与从业者之间的协作、资源共享和讨论。"
 ---
-
 ## Definition
 
 CIML社区门户作为专注于计算智能的学术和专业社区的数字枢纽。它提供对数据集、预训练模型、研究论文等资源的访问权限，旨在加速知识传播与创新合作。

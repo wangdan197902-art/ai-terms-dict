@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /fr/terms/natural_language/
 date: "2026-07-18T10:57:58.875209Z"
 lastmod: "2026-07-18T11:44:45.179704Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La méthode standard de communication humaine, caractérisée par la grammaire, le vocabulaire et le contexte, par opposition aux langages informatiques formels."
 ---
-
 ## Definition
 
 Le langage naturel désigne la façon dont les humains parlent et écrivent, y compris toutes ses ambiguïtés, expressions idiomatiques et nuances culturelles. En IA, le traitement du langage naturel implique la compréhension de la syntaxe, de la sémantique et du contexte.

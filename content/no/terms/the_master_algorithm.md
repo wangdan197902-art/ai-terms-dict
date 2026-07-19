@@ -1,23 +1,24 @@
 ---
-title: "The Master Algorithm"
-term_id: "the_master_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "literature"]
+title: The Master Algorithm
+term_id: the_master_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- literature
 difficulty: 4
 weight: 1
-slug: "the_master_algorithm"
-aliases:
-  - /no/terms/the_master_algorithm/
-date: "2026-07-18T16:18:51.532284Z"
-lastmod: "2026-07-18T16:38:07.053873Z"
+slug: the_master_algorithm
+date: '2026-07-18T16:18:51.532284Z'
+lastmod: '2026-07-18T16:38:07.053873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "The Master Algorithm refererer til en hypotetisk universell læringsalgoritme som er i stand til å utlede all kunnskap fra data."
+source: agnes_llm
+status: published
+language: 'no'
+description: The Master Algorithm refererer til en hypotetisk universell læringsalgoritme
+  som er i stand til å utlede all kunnskap fra data.
 ---
-
 ## Definition
 
 Myntet av Pedro Domingos i boken med samme navn, beskriver 'Master Algorithm' et teoretisk samlet rammeverk for maskinlæring som kunne reprodusere alle menneskelige læringsprosesser. Det forestiller seg...

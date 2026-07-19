@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /es/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T10:58:50.687166Z"
 lastmod: "2026-07-18T11:44:44.828760Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El proceso de utilizar algoritmos de aprendizaje automático para identificar patrones automáticamente y derivar información estructurada a partir de grandes conjuntos de datos no estructurados."
 ---
-
 ## Definition
 
 Este campo combina técnicas de aprendizaje automático con procesamiento del lenguaje natural y minería de datos para transformar datos en bruto en conocimiento accionable. Implica entrenar modelos para reconocer entidades, relaciones y conceptos clave, permitiendo la automatización de tareas complejas de comprensión de la información.

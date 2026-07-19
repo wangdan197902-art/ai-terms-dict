@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /pl/terms/self_management/
 date: "2026-07-18T16:15:48.387900Z"
 lastmod: "2026-07-18T17:15:08.916010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Samozarządzanie w sztucznej inteligencji odnosi się do zdolności autonomicznych systemów do monitorowania, optymalizowania i naprawy własnych operacji bez interwencji człowieka."
 ---
-
 ## Definition
 
 Koncepcja ta obejmuje zdolność agentów lub systemów AI do samodzielnego obsługi rutynowej konserwacji, alokacji zasobów i korekty błędów. Obejmuje funkcje takie jak automatyczne skalowanie, samoleczenie...

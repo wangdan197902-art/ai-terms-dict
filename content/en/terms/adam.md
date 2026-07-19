@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /en/terms/adam/
 date: "2026-07-18T09:30:04.900910Z"
 lastmod: "2026-07-18T11:44:44.592607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An optimization algorithm that computes adaptive learning rates for each parameter."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation) is a popular first-order gradient-based optimization algorithm used in training deep neural networks. It combines the advantages of two other extensions of stochastic gradient descent: AdaGrad, which works well with sparse gradients, and RMSProp, which works well in online and non-stationary settings. Adam maintains exponential moving averages of both the gradient and the squared gradient to adapt the learning rate for each weight individually.

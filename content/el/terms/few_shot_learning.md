@@ -1,23 +1,25 @@
 ---
-title: "Μάθηση Λιγών Παραδειγμάτων"
-term_id: "few_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["ml_theory", "training", "efficiency"]
+title: Μάθηση Λιγών Παραδειγμάτων
+term_id: few_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- ML Theory
+- training
+- efficiency
 difficulty: 4
 weight: 1
-slug: "few_shot_learning"
-aliases:
-  - /el/terms/few_shot_learning/
-date: "2026-07-18T15:40:44.253254Z"
-lastmod: "2026-07-18T17:15:09.866493Z"
+slug: few_shot_learning
+date: '2026-07-18T15:40:44.253254Z'
+lastmod: '2026-07-18T17:15:09.866493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η μάθηση λίγων παραδειγμάτων είναι ένα παράδειγμα μηχανικής μάθησης όπου τα μοντέλα μαθαίνουν νέες έννοιες από πολύ περιορισμένο αριθμό ετικετοποιημένων δεδομένων εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Η μάθηση λίγων παραδειγμάτων είναι ένα παράδειγμα μηχανικής μάθησης όπου
+  τα μοντέλα μαθαίνουν νέες έννοιες από πολύ περιορισμένο αριθμό ετικετοποιημένων
+  δεδομένων εκπαίδευσης.
 ---
-
 ## Definition
 
 Η μάθηση λίγων παραδειγμάτων στοχεύει να επιτρέψει στα μοντέλα να γενικεύσουν από μόλις μερικά παραδείγματα, μιμούμενη την αποτελεσματικότητα της ανθρώπινης μάθησης. Συνήθως βασίζεται σε στρατηγικές μετα-μάθησης, όπου ένα μοντέλο εκπαιδεύεται σε πολλαπλές εργασίες πριν προσαρμοστεί σε μία νέα.

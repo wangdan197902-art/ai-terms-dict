@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /ro/terms/free/
 date: "2026-07-18T15:25:47.560399Z"
 lastmod: "2026-07-18T17:15:09.594456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la resurse, software sau date disponibile fără cost financiar sau licențe restrictive."
 ---
-
 ## Definition
 
 În contextul IA, termenul „gratuit” se referă de obicei la modele open-source, seturi de date sau instrumente pe care utilizatorii le pot accesa, modifica și distribui fără a plăti taxe. Acest lucru contrastează cu soluțiile proprietare

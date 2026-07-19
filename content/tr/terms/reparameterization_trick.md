@@ -1,23 +1,25 @@
 ---
-title: "Yeniden Parametreleştirme Hilesi"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Yeniden Parametreleştirme Hilesi
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /tr/terms/reparameterization_trick/
-date: "2026-07-18T16:12:09.029948Z"
-lastmod: "2026-07-18T16:38:07.359684Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:12:09.029948Z'
+lastmod: '2026-07-18T16:38:07.359684Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Değişken çıkarımda (variational inference) gradyan tabanlı optimizasyonu mümkün kılmak için stokastik değişkenleri öğrenilebilir parametlerden ayıran bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Değişken çıkarımda (variational inference) gradyan tabanlı optimizasyonu
+  mümkün kılmak için stokastik değişkenleri öğrenilebilir parametlerden ayıran bir
+  teknik.
 ---
-
 ## Definition
 
 Yeniden parametreleştirme hilesi, varyasyonsel otoenkoderler ve diğer olasılıksal modellerde kullanılan temel bir yöntemdir. Rastgele bir değişkeni, öğrenilebilir parametreler ve bağımsız bir gürültü dağılımı cinsinden ifade ederek, gradyanların stokastik düğümlerden akmasını sağlar.

@@ -1,23 +1,23 @@
 ---
-title: "one-shot"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: one-shot
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /es/terms/one_shot/
-date: "2026-07-18T10:28:53.586338Z"
-lastmod: "2026-07-18T11:44:44.758067Z"
+slug: one_shot
+date: '2026-07-18T10:28:53.586338Z'
+lastmod: '2026-07-18T11:44:44.758067Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un paradigma de aprendizaje en el que un modelo aprende a realizar una tarea a partir de un único ejemplo etiquetado."
+source: agnes_llm
+status: published
+language: es
+description: Un paradigma de aprendizaje en el que un modelo aprende a realizar una
+  tarea a partir de un único ejemplo etiquetado.
 ---
-
 ## Definition
 
 El aprendizaje one-shot es un tipo específico de aprendizaje few-shot en el que el algoritmo debe generalizar a nuevas clases o tareas después de haber visto solo un ejemplo positivo durante el entrenamiento. Este enfoque imita la capacidad humana

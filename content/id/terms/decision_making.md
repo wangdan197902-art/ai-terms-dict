@@ -1,23 +1,24 @@
 ---
-title: "pengambilan keputusan"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: pengambilan keputusan
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /id/terms/decision_making/
-date: "2026-07-18T15:31:37.449127Z"
-lastmod: "2026-07-18T16:38:07.407490Z"
+slug: decision_making
+date: '2026-07-18T15:31:37.449127Z'
+lastmod: '2026-07-18T16:38:07.407490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses kognitif untuk memilih satu tindakan dari berbagai alternatif berdasarkan informasi yang tersedia."
+source: agnes_llm
+status: published
+language: id
+description: Proses kognitif untuk memilih satu tindakan dari berbagai alternatif
+  berdasarkan informasi yang tersedia.
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, pengambilan keputusan merujuk pada proses algoritmik di mana sistem mengevaluasi tindakan potensial terhadap kriteria atau tujuan tertentu untuk memilih hasil yang optimal. Hal ini melibatkan...

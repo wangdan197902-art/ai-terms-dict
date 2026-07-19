@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /fr/terms/fine/
 date: "2026-07-18T10:50:22.162505Z"
 lastmod: "2026-07-18T11:44:45.162981Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le peaufinage (fine-tuning) fait référence au processus d'adaptation d'un modèle d'IA pré-entraîné à une tâche ou un domaine spécifique grâce à des données supplémentaires."
 ---
-
 ## Definition
 
 Le peaufinage consiste à prendre un modèle polyvalent entraîné sur de grands ensembles de données et à l'entraîner davantage sur un ensemble de données plus petit et spécialisé afin d'améliorer les performances sur des tâches spécifiques. Cette technique exploite...

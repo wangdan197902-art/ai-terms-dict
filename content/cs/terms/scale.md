@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /cs/terms/scale/
 date: "2026-07-18T15:28:56.027909Z"
 lastmod: "2026-07-18T17:15:09.077329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Měřítko označuje rozsah dat, parametrů nebo výpočetních zdrojů používaných v modelech strojového učení."
 ---
-
 ## Definition
 
 V umělé inteligenci škálování obvykle zahrnuje zvětšování velikosti datových sad, počtu parametrů modelu nebo výpočetního výkonu za účelem zlepšení výkonu. Tento koncept je ústřední pro hluboké učení, kde velké

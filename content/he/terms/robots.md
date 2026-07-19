@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /he/terms/robots/
 date: "2026-07-18T15:29:59.231667Z"
 lastmod: "2026-07-18T17:15:09.486176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הצורה הרבים המתייחסת למספר מכונות מתוכנתות המיועדות לבצע משימות באופן עצמאי."
 ---
-
 ## Definition
 
 רובוטים כוללים קבוצה מגוונת של מכונות המסווגות לפי יכולת תנועה, מבנה או תחום יישום. קטגוריה זו כוללת זרועות תעשייתיות, רובוטים ניידים אוטונומיים (AMRs), וכדורים מעופפים (דrones).

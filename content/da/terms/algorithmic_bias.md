@@ -1,23 +1,24 @@
 ---
-title: "Algoritmisk bias"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Algoritmisk bias
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /da/terms/algorithmic_bias/
-date: "2026-07-18T15:40:37.831760Z"
-lastmod: "2026-07-18T17:15:09.257903Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:40:37.831760Z'
+lastmod: '2026-07-18T17:15:09.257903Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Algoritmisk bias refererer til systematiske og gentagelige fejl i et computersystem, der skaber uretfærdige resultater, såsom begunstigelse af én vilkårlig gruppe frem for andre."
+source: agnes_llm
+status: published
+language: da
+description: Algoritmisk bias refererer til systematiske og gentagelige fejl i et
+  computersystem, der skaber uretfærdige resultater, såsom begunstigelse af én vilkårlig
+  gruppe frem for andre.
 ---
-
 ## Definition
 
 Bias i algoritmer stammer typisk fra ikke-repræsentative træningsdata, subjektive designvalg eller feedback-løkker, der forstærker eksisterende samfundsmæssige fordomme. Det manifesterer sig som skæve forudsigelser eller behandling af bestemte demografier.

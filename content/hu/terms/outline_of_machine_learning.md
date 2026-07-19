@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /hu/terms/outline_of_machine_learning/
 date: "2026-07-18T16:16:44.626997Z"
 lastmod: "2026-07-18T17:15:09.819903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A gépi tanulási paradigmák, algoritmusok és értékelési metrikák átfogó kategorizálása."
 ---
-
 ## Definition
 
 Ez a kifejezés a gépi tanulás strukturális osztályozását írja le felügyelt, felügyelet nélküli, félig felügyelt és megerősítéses tanulásra. Tartalmazza az alapvető algoritmacsaládokat, mint például a lineáris regressziót...

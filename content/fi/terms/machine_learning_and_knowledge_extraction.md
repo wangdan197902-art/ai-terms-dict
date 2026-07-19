@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /fi/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T16:09:40.332652Z"
 lastmod: "2026-07-18T17:15:09.431459Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa koneoppimisalgoritmeja käytetään automaattisesti tunnistamaan kuviota ja johtamaan rakenteellista tietoa suurista, epärakenteellisista aineistoista."
 ---
-
 ## Definition
 
 Tämä ala yhdistää koneoppimistekniikat luonnollen kielen käsittelyyn ja datankaivamiseen muuttaakseen raakadata toiminnalliseksi tiedoksi. Se sisältää mallien kouluttamisen tunnistamaan entiteettejä, suhteita ja piilossa olevia rakenteita laajoista teksti- ja multimediadatajoukoista.

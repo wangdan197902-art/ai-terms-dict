@@ -1,23 +1,23 @@
 ---
-title: "湿件计算机"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: 湿件计算机
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /zh/terms/wetware_computer/
-date: "2026-07-18T11:38:14.659760Z"
-lastmod: "2026-07-18T11:44:45.568690Z"
+slug: wetware_computer
+date: '2026-07-18T11:38:14.659760Z'
+lastmod: '2026-07-18T11:44:45.568690Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种利用活体神经组织（如脑细胞）处理信息的生物计算系统。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种利用活体神经组织（如脑细胞）处理信息的生物计算系统。
 ---
-
 ## Definition
 
 湿件计算是指生物神经元（通常在体外培养）作为主要处理单元，取代传统基于硅的硬件的系统。这些系统利用生物神经元的并行处理能力和低能耗特性进行信息处理。

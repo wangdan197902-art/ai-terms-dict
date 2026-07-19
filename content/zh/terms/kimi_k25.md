@@ -7,8 +7,6 @@ tags: ["LLM", "Versioning", "Performance"]
 difficulty: 2
 weight: 1
 slug: "kimi_k25"
-aliases:
-  - /zh/terms/kimi_k25/
 date: "2026-07-18T11:23:05.463553Z"
 lastmod: "2026-07-18T11:44:45.520646Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Kimi K25 是月之暗面推出的后续大型语言模型变体，相比早期版本在性能和效率方面进行了进一步优化。"
 ---
-
 ## Definition
 
 Kimi K25 是月之暗面 Kimi 模型家族中的一个先进迭代版本。它在 Kimi K2 等先前版本的基础上，提供了推理速度等方面的改进。

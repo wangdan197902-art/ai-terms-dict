@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /ar/terms/connectionist_expert_system/
 date: "2026-07-18T15:49:44.272643Z"
 lastmod: "2026-07-18T17:15:08.487275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام ذكي يجمع بين قدرات التعلم في الشبكات العصبية وهياكل الاستدلال الرمزي."
 ---
-
 ## Definition
 
 يُدمج نظام الخبراء الارتباطي نقاط القوة في التعرف على الأنماط والتعلم في الشبكات العصبية (الارتباطية) مع التمثيل الصريح للمعرفة والاستدلال المنطقي للأنظمة التقليدية القائمة على الرموز.

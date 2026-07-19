@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /id/terms/server_sent_events/
 date: "2026-07-18T16:08:37.677397Z"
 lastmod: "2026-07-18T16:38:07.506190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Protokol standar yang memungkinkan server web mendorong pembaruan waktu nyata ke klien melalui satu koneksi HTTP."
 ---
-
 ## Definition
 
 Server-Sent Events (SSE) memungkinkan komunikasi satu arah dari server ke klien, di mana server dapat mengalirkan data secara terus-menerus tanpa klien perlu melakukan polling berulang kali. Protokol ini menggunakan HTTP standar, menjadikannya lebih sederhana dibandingkan solusi lain untuk aliran data searah.

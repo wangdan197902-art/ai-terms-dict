@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /de/terms/something_big_is_happening/
 date: "2026-07-18T11:33:43.295811Z"
 lastmod: "2026-07-18T11:44:44.986671Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine umgangssprachliche Phrase, die oft in den Medien verwendet wird, um bedeutende Durchbrüche oder rasante Fortschritte im KI-Bereich zu beschreiben."
 ---
-
 ## Definition
 
 Dieser Begriff ist keine technische Definition, sondern ein kultureller Marker, der Perioden intensiver Innovation, öffentlichen Interesses oder Paradigmenwechsel in der künstlichen Intelligenz bezeichnet. Er geht typischerweise mit dem raschen...

@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /nl/terms/automated/
 date: "2026-07-18T15:23:45.346160Z"
 lastmod: "2026-07-18T17:15:08.680117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar processen die door machines of software worden uitgevoerd met minimale menselijke tussenkomst."
 ---
-
 ## Definition
 
 Automatisering in AI omvat het gebruik van algoritmen en systemen om taken uit te voeren die traditioneel menselijke inspanning vereisen. Het richt zich op efficiëntie, consistentie en snelheid door het uitvoeren van vooraf gedefinieerde regels of het leren van patronen.

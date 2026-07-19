@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /ro/terms/docker/
 date: "2026-07-18T15:35:38.176632Z"
 lastmod: "2026-07-18T17:15:09.613470Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Docker este o platformă pentru dezvoltarea, livrarea și rularea aplicațiilor în containere ușoare și portabile."
 ---
-
 ## Definition
 
 Docker permite dezvoltatorilor să împacheteze o aplicație împreună cu toate dependențele sale într-o unitate standardizată pentru dezvoltarea software-ului. Aceste containere izolează software-ul de mediul său, asigurând consistența în diferite medii de execuție.

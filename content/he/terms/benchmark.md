@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /he/terms/benchmark/
 date: "2026-07-18T15:23:44.965300Z"
 lastmod: "2026-07-18T17:15:09.473551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "נקודת ייחוס או מדד סטנדרטי המשמש להערכת הביצועים של מודלי בינה מלאכותית מול בסיסים מקובלים."
 ---
-
 ## Definition
 
 בבינה מלאכותית, מדד ביצועים הוא ערכת מבחנים או מאגר נתונים סטנדרטיים המיועד למדידת יכולותיהם של מודלי למידת מכונה. הוא מספק מסגרת עקבית להשוואת מודלים שונים.

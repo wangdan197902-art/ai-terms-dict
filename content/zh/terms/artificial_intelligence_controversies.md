@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /zh/terms/artificial_intelligence_controversies/
 date: "2026-07-18T11:06:52.938011Z"
 lastmod: "2026-07-18T11:44:45.445069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "围绕人工智能开发和应用带来的伦理、社会和技术影响的公共辩论与分歧。"
 ---
-
 ## Definition
 
 人工智能争议涵盖了由人工智能技术引发的广泛伦理、法律和社会纠纷。关键问题包括算法偏见、隐私侵犯、就业替代以及责任归属等。

@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /no/terms/hyperparameter/
 date: "2026-07-18T15:59:27.795866Z"
 lastmod: "2026-07-18T16:38:07.010409Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En konfigurasjonsvariabel hvis verdi settes før treningsprosessen og styrer læringens algoritmes oppførsel."
 ---
-
 ## Definition
 
 I motsetning til modellparametere (vekter og bias) som læres fra data under treningen, er hyperparametere eksterne innstillinger valgt av utøveren før treningen starter. De kontrollerer struk

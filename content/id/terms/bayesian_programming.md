@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /id/terms/bayesian_programming/
 date: "2026-07-18T15:40:52.136917Z"
 lastmod: "2026-07-18T16:38:07.432945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja formal untuk penalaran probabilistik yang memperluas inferensi Bayesian ke model kompleks dan hierarkis."
 ---
-
 ## Definition
 
 Pemrograman Bayesian adalah kerangka kerja matematika yang menggeneralisasi teorema Bayes untuk menangani ketergantungan probabilistik berlapis ganda yang kompleks. Hal ini memungkinkan pengembang untuk menentukan model hierarkis di mana variabel-variabel saling bergantung secara kondisional dalam struktur bertingkat.

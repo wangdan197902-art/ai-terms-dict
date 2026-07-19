@@ -1,23 +1,25 @@
 ---
-title: "Imatrix"
-term_id: "imatrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "training", "quantization"]
+title: Imatrix
+term_id: imatrix
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- training
+- quantization
 difficulty: 5
 weight: 1
-slug: "imatrix"
-aliases:
-  - /es/terms/imatrix/
-date: "2026-07-18T10:54:19.610647Z"
-lastmod: "2026-07-18T11:44:44.818508Z"
+slug: imatrix
+date: '2026-07-18T10:54:19.610647Z'
+lastmod: '2026-07-18T11:44:44.818508Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un algoritmo específico utilizado en el entrenamiento de grandes modelos de lenguaje para calcular matrices de importancia para una optimización eficiente de parámetros."
+source: agnes_llm
+status: published
+language: es
+description: Un algoritmo específico utilizado en el entrenamiento de grandes modelos
+  de lenguaje para calcular matrices de importancia para una optimización eficiente
+  de parámetros.
 ---
-
 ## Definition
 
 Imatrix, abreviatura de Matriz de Importancia, es una técnica principalmente asociada al entrenamiento y cuantización de LLM basados en GGML. Calcula las derivadas de segundo orden (aproximación de la matriz Hessiana) de...

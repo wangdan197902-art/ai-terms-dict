@@ -1,23 +1,23 @@
 ---
-title: "큐웜 코더(Qwen Coder)"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: 큐웜 코더(Qwen Coder)
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /ko/terms/qwen_coder/
-date: "2026-07-18T16:12:21.775732Z"
-lastmod: "2026-07-18T16:38:06.901495Z"
+slug: qwen_coder
+date: '2026-07-18T16:12:21.775732Z'
+lastmod: '2026-07-18T16:38:06.901495Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "큐웜 코더는 소프트웨어 개발 및 코딩 작업에 최적화된 큐웜 모델의 특수 변형 버전입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 큐웜 코더는 소프트웨어 개발 및 코딩 작업에 최적화된 큐웜 모델의 특수 변형 버전입니다.
 ---
-
 ## Definition
 
 큐웜 코더(Qwen Coder)는 프로그래밍 관련 활동에 특별히 파인튜닝된 큐웜 대규모 언어 모델의 전용 버전입니다. 코드 생성, 디버깅, 복잡한 코드베이스 이해 등에서 뛰어난 성능을 발휘합니다.

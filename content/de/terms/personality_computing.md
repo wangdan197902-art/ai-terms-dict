@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /de/terms/personality_computing/
 date: "2026-07-18T11:27:33.463851Z"
 lastmod: "2026-07-18T11:44:44.974771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Forschungsgebiet, das sich mit der Erstellung computergestützter Modelle befasst, die menschliche Persönlichkeitsmerkmale simulieren, um die Mensch-Computer-Interaktion zu verbessern."
 ---
-
 ## Definition
 
 Die Persönlichkeitsinformatik umfasst die Entwicklung von Algorithmen und Systemen, die in der Lage sind, menschliche Persönlichkeitsdimensionen wie die Big-Five-Merkmale zu modellieren, zu simulieren oder sich daran anzupassen. Diese Systeme zielen darauf ab,

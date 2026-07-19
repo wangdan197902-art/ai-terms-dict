@@ -1,23 +1,23 @@
 ---
-title: "母语识别"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: 母语识别
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /zh/terms/native_language_identification/
-date: "2026-07-18T11:28:00.225337Z"
-lastmod: "2026-07-18T11:44:45.535963Z"
+slug: native_language_identification
+date: '2026-07-18T11:28:00.225337Z'
+lastmod: '2026-07-18T11:44:45.535963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "自动从说话者的语音或文本样本中确定其母语的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 自动从说话者的语音或文本样本中确定其母语的过程。
 ---
-
 ## Definition
 
 母语识别（NLI）是自然语言处理的一个子领域，专注于识别说话者学习的第一语言。与一般的语言检测不同，NLI 分析说话者在发音、语法结构和词汇选择上无意识的母语特征。

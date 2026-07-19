@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /ko/terms/algorithmic_discrimination/
 date: "2026-07-18T15:40:37.087965Z"
 lastmod: "2026-07-18T16:38:06.806897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "알고리즘 차별은 자동화 시스템이 보호되는 특성에 기반하여 특정 집단에 불리하게 작용하는 부당하거나 편향된 결과를 생성하는 현상을 말합니다."
 ---
-
 ## Definition
 
 이 현상은 AI 모델이 인종, 성별, 연령 또는 기타 민감한 속성 때문에 개인을 우연히 또는 체계적으로 다르게 대우할 때 발생합니다. 이는 종종 편향된 학습 데이터나

@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /ro/terms/dropout/
 date: "2026-07-18T15:35:38.176654Z"
 lastmod: "2026-07-18T17:15:09.613599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Dropout este o tehnică de regularizare care ignoră aleatoriu neuroni în timpul antrenamentului pentru a preveni suprapotrivirea."
 ---
-
 ## Definition
 
 În rețelele neuronale, dropout previne suprapotrivirea prin eliminarea temporară a unui subset aleatoriu de neuroni în fiecare pas de antrenament. Acest lucru forțează rețeaua să învețe caracteristici robuste care sunt utile în conjuncție cu alte neuroni.

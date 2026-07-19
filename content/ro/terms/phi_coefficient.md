@@ -1,23 +1,23 @@
 ---
-title: "Coeficientul Phi"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Coeficientul Phi
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /ro/terms/phi_coefficient/
-date: "2026-07-18T16:16:14.630817Z"
-lastmod: "2026-07-18T17:15:09.691433Z"
+slug: phi_coefficient
+date: '2026-07-18T16:16:14.630817Z'
+lastmod: '2026-07-18T17:15:09.691433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O măsură statistică a asocierii dintre două variabile binare."
+source: agnes_llm
+status: published
+language: ro
+description: O măsură statistică a asocierii dintre două variabile binare.
 ---
-
 ## Definition
 
 Coeficientul Phi (φ) este o măsură a asocierii pentru două variabile binare, servind ca coeficient de corelație Pearson pentru variabile dicotomice. Acesta variază între -1 și +1, unde 0 indică lipsa unei asocieri.

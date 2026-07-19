@@ -1,23 +1,24 @@
 ---
-title: "Separabilidad lineal"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Separabilidad lineal
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /es/terms/linear_separability/
-date: "2026-07-18T10:57:52.028857Z"
-lastmod: "2026-07-18T11:44:44.826342Z"
+slug: linear_separability
+date: '2026-07-18T10:57:52.028857Z'
+lastmod: '2026-07-18T11:44:44.826342Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La propiedad de un conjunto de datos donde dos clases pueden dividirse perfectamente mediante una única línea recta o hiperplano."
+source: agnes_llm
+status: published
+language: es
+description: La propiedad de un conjunto de datos donde dos clases pueden dividirse
+  perfectamente mediante una única línea recta o hiperplano.
 ---
-
 ## Definition
 
 La separabilidad lineal se refiere a la condición geométrica en la que los puntos de datos pertenecientes a diferentes clases pueden separarse completamente mediante un límite lineal, como una línea en un espacio 2D o un hiperplano en dimensiones superiores.

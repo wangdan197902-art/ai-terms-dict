@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /zh/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T11:10:38.522924Z"
 lastmod: "2026-07-18T11:44:45.459103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "各国、企业和研究机构之间为在AI发展、创新和部署方面取得领先地位而展开的竞争。"
 ---
-
 ## Definition
 
 人工智能竞争描述了由经济、军事和科学优势驱动的激烈全球竞赛，旨在提升AI能力。主要参与者包括Google、Microsoft等科技巨头以及各国政府。这种竞争推动了技术创新，但也引发了关于安全、伦理和国际治理的广泛关注。

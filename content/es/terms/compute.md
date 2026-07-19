@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /es/terms/compute/
 date: "2026-07-18T10:40:27.193712Z"
 lastmod: "2026-07-18T11:44:44.787782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El cómputo se refiere a la potencia de procesamiento y los recursos utilizados para ejecutar algoritmos y manejar datos en sistemas de IA."
 ---
-
 ## Definition
 
 En inteligencia artificial, el cómputo representa la infraestructura fundamental necesaria para entrenar modelos y ejecutar inferencias. Incluye componentes de hardware como CPUs, GPUs y TPUs, así como la capacidad de escalado y optimización de recursos.

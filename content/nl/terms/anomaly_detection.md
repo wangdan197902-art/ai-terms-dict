@@ -1,23 +1,24 @@
 ---
-title: "Anomaliedetectie"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Anomaliedetectie
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /nl/terms/anomaly_detection/
-date: "2026-07-18T15:42:12.631692Z"
-lastmod: "2026-07-18T17:15:08.716560Z"
+slug: anomaly_detection
+date: '2026-07-18T15:42:12.631692Z'
+lastmod: '2026-07-18T17:15:08.716560Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het identificeren van zeldzame items, gebeurtenissen of waarnemingen die significant afwijken van het merendeel van de gegevens."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het identificeren van zeldzame items, gebeurtenissen of
+  waarnemingen die significant afwijken van het merendeel van de gegevens.
 ---
-
 ## Definition
 
 Anomaliedetectie, ook wel uitbijterdetectie genoemd, houdt in het analyseren van gegevens om patronen te vinden die niet conform zijn aan verwacht gedrag. Het wordt veel gebruikt in cyberbeveiliging, fraudebestrijding en systeemmonitoring.

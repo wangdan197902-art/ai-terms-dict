@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /id/terms/closed_loop/
 date: "2026-07-18T15:31:17.171865Z"
 lastmod: "2026-07-18T16:38:07.407159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem kendali di mana umpan balik output terus-menerus digunakan untuk menyesuaikan tindakan masa depan."
 ---
-
 ## Definition
 
 Sistem loop tertutup dalam AI memanfaatkan umpan balik waktu nyata dari lingkungan untuk secara dinamis menyesuaikan perilaku atau parameternya. Hal ini berbeda dengan sistem loop terbuka yang menjalankan urutan yang telah ditentukan sebelumnya...

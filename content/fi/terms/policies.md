@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /fi/terms/policies/
 date: "2026-07-18T15:29:52.454281Z"
 lastmod: "2026-07-18T17:15:09.356773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Organisaation asettama ohjeiden, sääntöjen tai protokollien joukko, joka ohjaa käyttäytymistä, päätöksentekoa ja toiminnallisia standardeja."
 ---
-
 ## Definition
 
 Tekoälyn ja teknologian hallinnan kontekstissa käytännöt viittaavat virallisiin kehyksiin, jotka määräävät, miten tekoäljärjestelmiä tulee kehittää, ottaa käyttöön ja valvoa. Nämä asiakirjat...

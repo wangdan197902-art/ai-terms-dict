@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /pt/terms/datasetsearch_qa/
 date: "2026-07-18T14:56:21.545522Z"
 lastmod: "2026-07-18T15:51:59.480305Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados focado em tarefas de resposta a perguntas derivadas de logs de mecanismos de busca ou consultas na web, enfatizando a recuperação de informações do mundo real."
 ---
-
 ## Definition
 
 Os conjuntos de dados de Busca QA tipicamente consistem em pares de consultas de busca e trechos de resposta relevantes ou documentos extraídos dos resultados dos mecanismos de busca. Esses conjuntos são cruciais para treinar modelos para compreender e recuperar informações de forma eficaz.

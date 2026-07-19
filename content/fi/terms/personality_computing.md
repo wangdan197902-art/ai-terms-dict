@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /fi/terms/personality_computing/
 date: "2026-07-18T16:15:31.892840Z"
 lastmod: "2026-07-18T17:15:09.443393Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tutkimusala, jossa keskitytään luomaan tietokoneellisia malleja, jotka simuloivat ihmisen persoonallisuuspiirteitä parantaakseen ihmisen ja tietokoneen vuorovaikutusta."
 ---
-
 ## Definition
 
 Persoonallisuustietokoneet tarkoittavat algoritmien ja järjestelmien kehittämistä, jotka pystyvät mallintamaan, simuloimaan tai sopeutumaan ihmisen persoonallisuuden ulottuvuuksiin, kuten Big Five -piirteisiin. Näiden järjestelmien tavoitteena on luoda

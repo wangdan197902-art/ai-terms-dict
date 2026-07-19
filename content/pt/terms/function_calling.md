@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /pt/terms/function_calling/
 date: "2026-07-18T14:44:21.677011Z"
 lastmod: "2026-07-18T15:51:59.450450Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um mecanismo que permite que LLMs gerem dados estruturados que acionam funções específicas de software."
 ---
-
 ## Definition
 
 A chamada de função permite que grandes modelos de linguagem interajam com ferramentas externas e APIs gerando saídas estruturadas, como objetos JSON, que especificam qual função executar e quais argumentos fornecer...

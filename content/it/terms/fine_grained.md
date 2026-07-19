@@ -1,23 +1,24 @@
 ---
-title: "fine-grained"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: fine-grained
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /it/terms/fine_grained/
-date: "2026-07-18T15:31:21.670197Z"
-lastmod: "2026-07-18T17:15:08.579154Z"
+slug: fine_grained
+date: '2026-07-18T15:31:21.670197Z'
+lastmod: '2026-07-18T17:15:08.579154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Descrive attività di analisi o classificazione che richiedono la distinzione tra differenze sottili all'interno di una categoria ampia."
+source: agnes_llm
+status: published
+language: it
+description: Descrive attività di analisi o classificazione che richiedono la distinzione
+  tra differenze sottili all'interno di una categoria ampia.
 ---
-
 ## Definition
 
 L'analisi fine-grained implica l'identificazione e la categorizzazione di oggetti o concetti a livello di sotto-classe piuttosto che solo nella classe principale. Ad esempio, distinguere tra razze specifiche di cani o tipi

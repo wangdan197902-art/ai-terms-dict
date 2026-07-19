@@ -1,23 +1,23 @@
 ---
-title: "AI 효과"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: AI 효과
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /ko/terms/ai_effect/
-date: "2026-07-18T15:38:34.745984Z"
-lastmod: "2026-07-18T16:38:06.803662Z"
+slug: ai_effect
+date: '2026-07-18T15:38:34.745984Z'
+lastmod: '2026-07-18T16:38:06.803662Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "한때 지능적인 것으로 간주되던 작업이 기계에 의해 자동화되면 평범한 것으로 여겨지는 현상."
+source: agnes_llm
+status: published
+language: ko
+description: 한때 지능적인 것으로 간주되던 작업이 기계에 의해 자동화되면 평범한 것으로 여겨지는 현상.
 ---
-
 ## Definition
 
 AI 효과는 '인공지능'의 범위가 어떻게 변화하는지를 설명합니다. 알고리즘이 더 정교해지고 특정 작업을 수행할 수 있게 되면서, 그 작업들은 종종

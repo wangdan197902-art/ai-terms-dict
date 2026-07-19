@@ -1,23 +1,23 @@
 ---
-title: "Through"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: Through
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /id/terms/through/
-date: "2026-07-18T15:30:02.497560Z"
-lastmod: "2026-07-18T16:38:07.404474Z"
+slug: through
+date: '2026-07-18T15:30:02.497560Z'
+lastmod: '2026-07-18T16:38:07.404474Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Through adalah kata depan dan bukan istilah teknis spesifik dalam kecerdasan buatan."
+source: agnes_llm
+status: published
+language: id
+description: Through adalah kata depan dan bukan istilah teknis spesifik dalam kecerdasan
+  buatan.
 ---
-
 ## Definition
 
 'Through' tidak memiliki definisi mandiri dalam terminologi AI. Istilah ini umum digunakan dalam frasa seperti 'throughput' (laju pemrosesan) atau dalam konteks lapisan jaringan saraf di mana sinyal melewati node. Tanpa konteks...

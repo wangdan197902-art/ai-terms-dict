@@ -1,23 +1,23 @@
 ---
-title: "群（Group）"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: 群（Group）
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /ja/terms/group/
-date: "2026-07-18T10:51:41.052860Z"
-lastmod: "2026-07-18T11:44:45.010710Z"
+slug: group
+date: '2026-07-18T10:51:41.052860Z'
+lastmod: '2026-07-18T11:44:45.010710Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "任意の2つの要素を結合して第3の要素を形成する演算が備わった集合からなる、基本的な数学的構造。"
+source: agnes_llm
+status: published
+language: ja
+description: 任意の2つの要素を結合して第3の要素を形成する演算が備わった集合からなる、基本的な数学的構造。
 ---
-
 ## Definition
 
 数学および理論計算機科学において、群とは、閉包性、結合法則、単位元の存在、逆元の存在という4つの公理を満たす二項演算が定義された集合Gのことです。AIにおいては、特に対称性や不変性を扱う幾何学的深層学習や、物理法則に基づくモデル構築において重要な役割を果たします。

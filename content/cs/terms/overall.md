@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /cs/terms/overall/
 date: "2026-07-18T15:27:44.498199Z"
 lastmod: "2026-07-18T17:15:09.074470Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Celkový označuje agregovaný výkon, přesnost nebo dopad systému umělé inteligence napříč všemi testovacími případy nebo provozními scénáři."
 ---
-
 ## Definition
 
 Při hodnocení modelů umělé inteligence poskytují metriky 'celkové' holistický pohled na výkon systému, nikoliv zaměření na izolované komponenty. To zahrnuje celkovou přesnost, průměrnou přesnost nad všemi třídami nebo celkovou

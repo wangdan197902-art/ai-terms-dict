@@ -1,23 +1,24 @@
 ---
-title: "Učení se supervizí"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Učení se supervizí
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /cs/terms/supervised_learning/
-date: "2026-07-18T15:38:50.937277Z"
-lastmod: "2026-07-18T17:15:09.094297Z"
+slug: supervised_learning
+date: '2026-07-18T15:38:50.937277Z'
+lastmod: '2026-07-18T17:15:09.094297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Paradigma strojového učení, kde se model učí mapovat vstupy na výstupy na základě trénovacích příkladů s označením."
+source: agnes_llm
+status: published
+language: cs
+description: Paradigma strojového učení, kde se model učí mapovat vstupy na výstupy
+  na základě trénovacích příkladů s označením.
 ---
-
 ## Definition
 
 Při učení se supervizí je algoritmus trénován na sadě dat s označením, což znamená, že každý vstupní příklad je spárován se správným výstupem. Cílem je, aby model naučil vztah mezi vstupy a výstupy.

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /nl/terms/isotropic_position/
 date: "2026-07-18T16:01:04.246752Z"
 lastmod: "2026-07-18T17:15:08.757579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een geometrische transformatie van een convexe lichaam waarbij de traagheidsmatrix evenredig is met de identiteitsmatrix, wat de analyse vereenvoudigt."
 ---
-
 ## Definition
 
 In de convexe meetkunde en de kansrekening in hoge dimensies bevindt een verzameling punten of een convex lichaam zich in een isotrope positie als het zwaartepunt in de oorsprong ligt en de covariantiematrix een scalaire vermenigvuldiging is van

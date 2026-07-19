@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /es/terms/adversarial_machine_learning/
 date: "2026-07-18T10:34:54.152948Z"
 lastmod: "2026-07-18T11:44:44.773732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El aprendizaje automático adversarial es un campo que estudia cómo hacer que los modelos de aprendizaje automático sean robustos frente a entradas maliciosas diseñadas para engañarlos."
 ---
-
 ## Definition
 
 Este campo abarca tanto técnicas ofensivas para romper modelos como estrategias defensivas para endurecerlos. Implica entrenar modelos con ejemplos adversariales para mejorar su resiliencia, un proceso conocido como entrenamiento adversarial.

@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /sv/terms/alignment/
 date: "2026-07-18T15:22:10.153275Z"
 lastmod: "2026-07-18T17:15:08.935093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att säkerställa att ett AI-systems mål och beteenden stämmer överens med mänskliga värderingar och intentioner."
 ---
-
 ## Definition
 
 Alignment fokuserar på att säkerställa att AI-system gör vad människor faktiskt vill ha, snarare än bara vad de bokstavligen ber om. Det involverar tekniker som Reinforcement Learning from Human Feedback (RLHF) för att justera modellbeteende.

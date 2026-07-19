@@ -1,23 +1,25 @@
 ---
-title: "Durée de vie de la corrélation"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Durée de vie de la corrélation
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /fr/terms/life_time_of_correlation/
-date: "2026-07-18T11:25:42.850224Z"
-lastmod: "2026-07-18T11:44:45.284477Z"
+slug: life_time_of_correlation
+date: '2026-07-18T11:25:42.850224Z'
+lastmod: '2026-07-18T11:44:45.284477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une métrique estimant combien de temps une relation statistique entre des variables reste stable avant de se dégrader en raison de la dérive conceptuelle ou de changements environnementaux."
+source: agnes_llm
+status: published
+language: fr
+description: Une métrique estimant combien de temps une relation statistique entre
+  des variables reste stable avant de se dégrader en raison de la dérive conceptuelle
+  ou de changements environnementaux.
 ---
-
 ## Definition
 
 Dans les systèmes dynamiques et l'analyse des séries temporelles, la durée de vie de la corrélation mesure la durée pendant laquelle deux variables maintiennent une dépendance statistique significative. Ce concept est crucial pour comprendre la stabilité des modèles prédictifs face aux évolutions des données.

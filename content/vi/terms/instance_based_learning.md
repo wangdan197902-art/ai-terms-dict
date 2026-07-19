@@ -1,23 +1,24 @@
 ---
-title: "Học dựa trên mẫu (Instance-based learning)"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Học dựa trên mẫu (Instance-based learning)
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /vi/terms/instance_based_learning/
-date: "2026-07-18T15:58:06.895876Z"
-lastmod: "2026-07-18T16:38:07.770427Z"
+slug: instance_based_learning
+date: '2026-07-18T15:58:06.895876Z'
+lastmod: '2026-07-18T16:38:07.770427Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp học thụ động (lazy learning) trong đó các dự đoán được đưa ra bằng cách so sánh đầu vào mới với các mẫu huấn luyện đã lưu trữ."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp học thụ động (lazy learning) trong đó các dự đoán được
+  đưa ra bằng cách so sánh đầu vào mới với các mẫu huấn luyện đã lưu trữ.
 ---
-
 ## Definition
 
 Còn được gọi là học dựa trên bộ nhớ, kỹ thuật này không xây dựng một mô hình tổng quát hóa trong quá trình huấn luyện. Thay vào đó, nó lưu trữ toàn bộ tập dữ liệu huấn luyện. Khi cần dự đoán, nó sẽ tìm ra những mẫu

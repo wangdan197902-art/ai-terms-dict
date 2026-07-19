@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /fi/terms/business_process_automation/
 date: "2026-07-18T15:46:09.194945Z"
 lastmod: "2026-07-18T17:15:09.389703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teknologian käyttö toistuvien tehtävien tai prosessien suorittamiseen yrityksessä, jossa manuaalista työtä voidaan korvata."
 ---
-
 ## Definition
 
 Liiketoimintaprosessien automatisointi (BPA) tarkoittaa ohjelmiston ja tekoälyn hyödyntämistä monimutkaisten liiketoimintavirtojen tehostamiseksi. Toisin kuin yksinkertainen RPA (robottipohjainen prosessiautomatisointi), joka...

@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /cs/terms/gated_recurrent_unit/
 date: "2026-07-18T15:58:45.458746Z"
 lastmod: "2026-07-18T17:15:09.132836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Typ architektury rekurentní neuronové sítě, který využívá bránící mechanismy k řízení toku informací a slouží jako zjednodušená alternativa k LSTM."
 ---
-
 ## Definition
 
 Gated Recurrent Unit (GRU) je specializovaná buňka rekurentní neuronové sítě (RNN) navržená tak, aby zachytila dlouhodobé závislosti v sekvenčních datech. Zjednodušuje architekturu Long Short-Term Memory (LSTM)

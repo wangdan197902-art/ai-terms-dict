@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /vi/terms/hugging_face/
-date: "2026-07-18T15:56:55.982721Z"
-lastmod: "2026-07-18T16:38:07.765869Z"
+slug: hugging_face
+date: '2026-07-18T15:56:55.982721Z'
+lastmod: '2026-07-18T16:38:07.765869Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Nền tảng và cộng đồng hàng đầu cung cấp các công cụ, mô hình và tập dữ liệu mã nguồn mở cho phát triển học máy."
+source: agnes_llm
+status: published
+language: vi
+description: Nền tảng và cộng đồng hàng đầu cung cấp các công cụ, mô hình và tập dữ
+  liệu mã nguồn mở cho phát triển học máy.
 ---
-
 ## Definition
 
 Hugging Face là một công ty và nền tảng trực tuyến nổi bật, đóng vai trò trung tâm trong hệ sinh thái AI mã nguồn mở. Nó cung cấp kho lưu trữ khổng lồ các mô hình đã huấn luyện trước, tập dữ liệu và các ứng dụng trình diễn (demonstration applications).

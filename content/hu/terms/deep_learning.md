@@ -1,23 +1,24 @@
 ---
-title: "Mélytanulás"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: Mélytanulás
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /hu/terms/deep_learning/
-date: "2026-07-18T15:22:55.818270Z"
-lastmod: "2026-07-18T17:15:09.714053Z"
+slug: deep_learning
+date: '2026-07-18T15:22:55.818270Z'
+lastmod: '2026-07-18T17:15:09.714053Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A gépi tanulás egy részhalmaza, amely többrétegű mesterséges neurális hálózatokat használ a bonyolult mintázatok és ábrázolások modellezésére az adatokban."
+source: agnes_llm
+status: published
+language: hu
+description: A gépi tanulás egy részhalmaza, amely többrétegű mesterséges neurális
+  hálózatokat használ a bonyolult mintázatok és ábrázolások modellezésére az adatokban.
 ---
-
 ## Definition
 
 A mélytanulási algoritmusok megpróbálják utánozni az emberi agy analitikus és tanulási folyamatait. Több egymással összekapcsolt csomópontból álló rétegek elhelyezésével ezek a modellek hierarchikus jellemzőket tanulhatnak nyers adatokból.

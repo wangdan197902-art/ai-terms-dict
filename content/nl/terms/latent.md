@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /nl/terms/latent/
 date: "2026-07-18T15:27:34.409259Z"
 lastmod: "2026-07-18T17:15:08.687619Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar verborgen, onderliggende variabelen of representaties in de interne ruimte van een model die essentiële kenmerken van gegevens vastleggen."
 ---
-
 ## Definition
 
 In machine learning zijn latente variabelen onwaargenomen factoren die waargenomen gegevens beïnvloeden. In neurale netwerken, met name auto-encoders en diffusiemodellen, vertegenwoordigen latente ruimten gecomprimeerde, abstracte...

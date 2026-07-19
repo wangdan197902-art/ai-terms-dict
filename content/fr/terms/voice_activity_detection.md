@@ -1,23 +1,25 @@
 ---
-title: "Détection d'activité vocale"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: Détection d'activité vocale
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /fr/terms/voice_activity_detection/
-date: "2026-07-18T11:42:35.574389Z"
-lastmod: "2026-07-18T11:44:45.356053Z"
+slug: voice_activity_detection
+date: '2026-07-18T11:42:35.574389Z'
+lastmod: '2026-07-18T11:44:45.356053Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La détection d'activité vocale (DAV) est une technique de traitement du signal utilisée pour identifier les segments audio contenant de la parole humaine par rapport au silence ou au bruit."
+source: agnes_llm
+status: published
+language: fr
+description: La détection d'activité vocale (DAV) est une technique de traitement
+  du signal utilisée pour identifier les segments audio contenant de la parole humaine
+  par rapport au silence ou au bruit.
 ---
-
 ## Definition
 
 Les algorithmes DAV analysent les flux audio en temps réel pour distinguer les périodes de parole active des intervalles sans parole, tels que le bruit de fond ou les pauses. Cela est crucial pour optimiser la bande passante dans les communications.

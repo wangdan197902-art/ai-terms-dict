@@ -1,23 +1,24 @@
 ---
-title: "Байесовская сожаление"
-term_id: "bayesian_regret"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision_theory", "reinforcement_learning", "metrics"]
+title: Байесовская сожаление
+term_id: bayesian_regret
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Theory
+- Reinforcement Learning
+- metrics
 difficulty: 4
 weight: 1
-slug: "bayesian_regret"
-aliases:
-  - /ru/terms/bayesian_regret/
-date: "2026-07-18T15:43:26.646172Z"
-lastmod: "2026-07-18T16:38:07.126834Z"
+slug: bayesian_regret
+date: '2026-07-18T15:43:26.646172Z'
+lastmod: '2026-07-18T16:38:07.126834Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метрика в теории принятия решений, измеряющая ожидаемые потери из-за неопределенности относительно истинного состояния мира."
+source: agnes_llm
+status: published
+language: ru
+description: Метрика в теории принятия решений, измеряющая ожидаемые потери из-за
+  неопределенности относительно истинного состояния мира.
 ---
-
 ## Definition
 
 Байесовское сожаление количественно определяет разницу между оптимальной наградой, достижимой при наличии полной информации, и ожидаемой наградой, получаемой агентом, действующим в условиях неопределенности. Оно рассчитывается путем интегр...

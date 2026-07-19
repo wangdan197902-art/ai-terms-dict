@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /pt/terms/ai_warfare/
 date: "2026-07-18T14:48:06.630561Z"
 lastmod: "2026-07-18T15:51:59.459051Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A aplicação de tecnologias de inteligência artificial em operações militares, vigilância e sistemas de armas autônomas."
 ---
-
 ## Definition
 
 A guerra com IA refere-se à integração da inteligência artificial em estratégias militares, incluindo drones autônomos, logística preditiva, defesa cibernética e sistemas de apoio à decisão para comandantes, transformando a natureza do conflito moderno.

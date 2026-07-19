@@ -1,23 +1,24 @@
 ---
-title: "Запрос (Prompt)"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Запрос (Prompt)
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /ru/terms/prompt/
-date: "2026-07-18T15:28:25.510662Z"
-lastmod: "2026-07-18T16:38:07.087749Z"
+slug: prompt
+date: '2026-07-18T15:28:25.510662Z'
+lastmod: '2026-07-18T16:38:07.087749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Текстовый ввод или инструкция, предоставляемая генеративной модели ИИ для получения конкретного ответа или поведения."
+source: agnes_llm
+status: published
+language: ru
+description: Текстовый ввод или инструкция, предоставляемая генеративной модели ИИ
+  для получения конкретного ответа или поведения.
 ---
-
 ## Definition
 
 Запрос служит основным интерфейсом для взаимодействия с большими языковыми моделями и другими системами генеративного ИИ. Он определяет контекст, тон и ограничения для вывода модели. Эффективный промпт

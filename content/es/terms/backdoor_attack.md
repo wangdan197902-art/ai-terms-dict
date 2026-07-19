@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /es/terms/backdoor_attack/
 date: "2026-07-18T11:13:53.754921Z"
 lastmod: "2026-07-18T11:44:44.867496Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una amenaza de seguridad donde actores maliciosos incrustan disparadores ocultos en modelos de IA durante el entrenamiento para causar clasificaciones erróneas específicas."
 ---
-
 ## Definition
 
 Un ataque de puerta trasera implica envenenar los datos de entrenamiento de un modelo de aprendizaje automático con patrones específicos, conocidos como disparadores. Mientras el modelo funciona normalmente con datos limpios, activa comportamientos incorrectos

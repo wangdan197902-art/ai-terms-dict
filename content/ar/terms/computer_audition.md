@@ -1,23 +1,24 @@
 ---
-title: "الاستماع الآلي"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: الاستماع الآلي
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /ar/terms/computer_audition/
-date: "2026-07-18T15:49:30.581810Z"
-lastmod: "2026-07-18T17:15:08.486659Z"
+slug: computer_audition
+date: '2026-07-18T15:49:30.581810Z'
+lastmod: '2026-07-18T17:15:08.486659Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الاستماع الآلي هو مجال الدراسة الموجه لتمكين الآلات من إدراك وفهم الإشارات الصوتية بشكل مشابه للبشر."
+source: agnes_llm
+status: published
+language: ar
+description: الاستماع الآلي هو مجال الدراسة الموجه لتمكين الآلات من إدراك وفهم الإشارات
+  الصوتية بشكل مشابه للبشر.
 ---
-
 ## Definition
 
 يتضمن الاستماع الآلي تطوير خوارزميات تسمح للحواسيب باستخراج معلومات ذات معنى من الموجات الصوتية. ويشمل ذلك مهامًا مثل التعرف على الكلام، وتصنيف أنواع الموسيقى، والكشف عن الأحداث الصوتية.

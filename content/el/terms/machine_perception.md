@@ -1,23 +1,25 @@
 ---
-title: "Μηχανική Αντίληψη"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Μηχανική Αντίληψη
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /el/terms/machine_perception/
-date: "2026-07-18T16:20:16.647240Z"
-lastmod: "2026-07-18T17:15:09.929674Z"
+slug: machine_perception
+date: '2026-07-18T16:20:16.647240Z'
+lastmod: '2026-07-18T17:15:09.929674Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η μηχανική αντίληψη αναφέρεται στην ικανότητα των συστημάτων τεχνητής νοημοσύνης να ερμηνεύουν και να κατανοούν δεδομένα αισθητήρων από το περιβάλλον, όπως εικόνες, ήχο ή αναγνώσεις αισθητήρων."
+source: agnes_llm
+status: published
+language: el
+description: Η μηχανική αντίληψη αναφέρεται στην ικανότητα των συστημάτων τεχνητής
+  νοημοσύνης να ερμηνεύουν και να κατανοούν δεδομένα αισθητήρων από το περιβάλλον,
+  όπως εικόνες, ήχο ή αναγνώσεις αισθητήρων.
 ---
-
 ## Definition
 
 Γεφυρώνει το χάσμα μεταξύ των ακατέργαστων εισόδων αισθητήρων και της σημασιολογικής κατανόησης, μιμούμενο τις ανθρώπινες αισθήσεις όπως όραση και ακοή. Κλειδιά τεχνολογίες περιλαμβάνουν την οπτική υπολογιστή για την αναγνώριση αντικειμένων, την αναγνώριση ομιλίας και άλλες μορφές επεξεργασίας σημάτων.

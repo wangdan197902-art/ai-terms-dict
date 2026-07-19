@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /de/terms/process/
 date: "2026-07-18T10:52:57.913695Z"
 lastmod: "2026-07-18T11:44:44.881170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine strukturierte Abfolge von Aktionen oder Schritten, die unternommen wird, um ein bestimmtes rechnerisches Ziel oder Ergebnis zu erreichen."
 ---
-
 ## Definition
 
 Innerhalb der KI-Entwicklung bezeichnet ein Prozess den systematischen Arbeitsablauf, der erforderlich ist, um Rohdaten in handlungsrelevante Erkenntnisse oder Modelle zu verwandeln. Dies umfasst Phasen wie Datenerfassung, Vorverarbeitung, Merkmalsextraktion und Modellierung.

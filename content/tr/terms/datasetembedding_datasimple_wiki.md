@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /tr/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:47:55.679780Z"
 lastmod: "2026-07-18T16:38:07.292385Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Metin gömme modellerini eğitmek ve değerlendirmek için kullanılan, Basit İngilizce Wikipedia'dan türetilmiş özenle hazırlanmış bir veri seti."
 ---
-
 ## Definition
 
 Bu veri seti, anadili İngilizce olmayanlar için basitleştirilmiş dilbilgisi ve kelime dağarcığına sahip olan Wikipedia'nın bu versiyonu olan Basit İngilizce Wikipedia'dan çıkarılan cümlelerden ve paragraflardan oluşur. Şu amaçla hizmet eder:

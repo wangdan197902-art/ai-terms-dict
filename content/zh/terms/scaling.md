@@ -1,23 +1,22 @@
 ---
-title: "扩展"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: 扩展
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /zh/terms/scaling/
-date: "2026-07-18T10:54:38.443405Z"
-lastmod: "2026-07-18T11:44:45.384062Z"
+slug: scaling
+date: '2026-07-18T10:54:38.443405Z'
+lastmod: '2026-07-18T11:44:45.384062Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "扩展是通过调整模型大小或数据量来增强学习能力和性能的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 扩展是通过调整模型大小或数据量来增强学习能力和性能的过程。
 ---
-
 ## Definition
 
 扩展是扩展AI系统的主动方法论，通过增加更多层、神经元或训练样本来实现。它包括分布式训练等技术，以处理增加的计算需求

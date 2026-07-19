@@ -1,23 +1,25 @@
 ---
-title: "Обучение четности"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Обучение четности
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /ru/terms/parity_learning/
-date: "2026-07-18T16:09:32.793586Z"
-lastmod: "2026-07-18T16:38:07.190134Z"
+slug: parity_learning
+date: '2026-07-18T16:09:32.793586Z'
+lastmod: '2026-07-18T16:38:07.190134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теоретическая задача машинного обучения, направленная на предсказание суммы по модулю 2 (XOR) бинарных входов, используемая для проверки выразительной способности моделей."
+source: agnes_llm
+status: published
+language: ru
+description: Теоретическая задача машинного обучения, направленная на предсказание
+  суммы по модулю 2 (XOR) бинарных входов, используемая для проверки выразительной
+  способности моделей.
 ---
-
 ## Definition
 
 Обучение четности — это контрольная задача в теории машинного обучения, цель которой заключается в предсказании четности (суммы по модулю 2 или операции XOR) набора бинарных входных переменных. Эта задача известна своей сложностью для стандартных прямо распространяющихся нейронных сетей без достаточной глубины или специализированных механизмов.

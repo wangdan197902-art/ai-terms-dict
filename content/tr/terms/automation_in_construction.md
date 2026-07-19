@@ -1,23 +1,24 @@
 ---
-title: "İnşaat alanında otomasyon"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: İnşaat alanında otomasyon
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /tr/terms/automation_in_construction/
-date: "2026-07-18T15:42:54.856117Z"
-lastmod: "2026-07-18T16:38:07.276866Z"
+slug: automation_in_construction
+date: '2026-07-18T15:42:54.856117Z'
+lastmod: '2026-07-18T16:38:07.276866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bina süreçlerini iyileştirmek ve saha güvenliğini artırmak için robotik ve yapay zekanın uygulanması."
+source: agnes_llm
+status: published
+language: tr
+description: Bina süreçlerini iyileştirmek ve saha güvenliğini artırmak için robotik
+  ve yapay zekanın uygulanması.
 ---
-
 ## Definition
 
 İnşaat alanında otomasyon, robotik sistemlerin, droneların ve yapay zeka destekli proje yönetim araçlarının inşaat yaşam döngüsüne entegrasyonunu ifade eder. Bu teknolojiler, tuğla döşeme gibi temel işlerden proje takibine kadar geniş bir yelpazede görevlere yardımcı olur.

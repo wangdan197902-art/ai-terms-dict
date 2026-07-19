@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /ko/terms/intrinsic_motivation/
 date: "2026-07-18T16:00:45.939531Z"
 lastmod: "2026-07-18T16:38:06.856316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "외부 보상보다는 내부적 호기심이나 지식 습득을 바탕으로 에이전트가 목표를 추구하는 강화학습 개념."
 ---
-
 ## Definition
 
 강화학습에서 내재적 동기부여는 외부 작업 보상과 무관하게 에이전트가 환경의 새로운 요소를 탐색하거나 불확실성을 줄이며 기술을 숙달하도록 유도합니다. 이는 에이전트가 스스로 보상을 생성하여 탐험을 촉진하는 메커니즘을 의미합니다.

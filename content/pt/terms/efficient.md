@@ -1,23 +1,24 @@
 ---
-title: "Eficiente"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Eficiente
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /pt/terms/efficient/
-date: "2026-07-18T14:34:31.939209Z"
-lastmod: "2026-07-18T15:51:59.428083Z"
+slug: efficient
+date: '2026-07-18T14:34:31.939209Z'
+lastmod: '2026-07-18T15:51:59.428083Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Em IA, eficiência refere-se à obtenção de desempenho ótimo com consumo mínimo de recursos, como tempo, memória ou poder computacional."
+source: agnes_llm
+status: published
+language: pt
+description: Em IA, eficiência refere-se à obtenção de desempenho ótimo com consumo
+  mínimo de recursos, como tempo, memória ou poder computacional.
 ---
-
 ## Definition
 
 A eficiência é uma métrica crítica na inteligência artificial que mede quão bem um modelo ou algoritmo utiliza os recursos disponíveis. Ela abrange a eficiência computacional (velocidade de inferência/treinamento) e a eficiência de recursos (uso de energia/memória).

@@ -1,23 +1,23 @@
 ---
-title: "データ駆動型天文学"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: データ駆動型天文学
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /ja/terms/data_driven_astronomy/
-date: "2026-07-18T11:10:00.332423Z"
-lastmod: "2026-07-18T11:44:45.083613Z"
+slug: data_driven_astronomy
+date: '2026-07-18T11:10:00.332423Z'
+lastmod: '2026-07-18T11:44:45.083613Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "天文観測から洞察を引き出すために、大規模データ分析および機械学習手法を適用すること。"
+source: agnes_llm
+status: published
+language: ja
+description: 天文観測から洞察を引き出すために、大規模データ分析および機械学習手法を適用すること。
 ---
-
 ## Definition
 
 データ駆動型天文学は、最新の望遠鏡やサーベイによって生成される膨大な量のデータを処理するために、機械学習や統計分析を含む高度な計算手法を活用します。これにより、従来の物理モデルだけでは扱いにくい複雑なパターンや現象を解明することができます。

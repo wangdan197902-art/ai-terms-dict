@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /vi/terms/fine_tuning/
 date: "2026-07-18T15:23:05.192087Z"
 lastmod: "2026-07-18T16:38:07.678888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quá trình điều chỉnh một mô hình đã được huấn luyện trước để phù hợp với một nhiệm vụ cụ thể bằng cách sử dụng một tập dữ liệu nhỏ hơn."
 ---
-
 ## Definition
 
 Fine-tuning liên quan đến việc lấy một mô hình đã được huấn luyện trên một tập dữ liệu lớn, tổng quát và tiếp tục huấn luyện nó trên một tập dữ liệu chuyên biệt. Điều này cho phép mô hình duy trì kiến thức chung trong khi học thêm các đặc thù của nhiệm vụ mới mà không cần huấn luyện lại từ đầu.

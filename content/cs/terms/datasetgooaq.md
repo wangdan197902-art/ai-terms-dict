@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /cs/terms/datasetgooaq/
 date: "2026-07-18T15:51:24.876395Z"
 lastmod: "2026-07-18T17:15:09.118613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Velká sada dat obsahující dotazy a odpovědi ze služby Google Answers, používaná pro trénování modelů pro vyhledávání informací a odpovídání na otázky."
 ---
-
 ## Definition
 
 GooAQ je sada dat sestavená ze služby Google Answers, která obsahuje masivní sbírku uživatelsky zadaných otázek spolu s podrobnými placenými odpověďmi. Slouží jako cenný zdroj pro trénování

@@ -1,23 +1,23 @@
 ---
-title: "one-step"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: one-step
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /ro/terms/one_step/
-date: "2026-07-18T15:33:20.833915Z"
-lastmod: "2026-07-18T17:15:09.610118Z"
+slug: one_step
+date: '2026-07-18T15:33:20.833915Z'
+lastmod: '2026-07-18T17:15:09.610118Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Se referă la algoritmi sau procese care finalizează o sarcină sau un ciclu de luare a deciziilor într-o singură iterație, fără rafinare iterativă."
+source: agnes_llm
+status: published
+language: ro
+description: Se referă la algoritmi sau procese care finalizează o sarcină sau un
+  ciclu de luare a deciziilor într-o singură iterație, fără rafinare iterativă.
 ---
-
 ## Definition
 
 În învățarea automată și optimizare, metodele one-step rezolvă problemele direct, fără a necesita mai multe iterații sau actualizări pentru a converge. Spre deosebire de descendența gradientului, care necesită mulți pași pentru a minimiza

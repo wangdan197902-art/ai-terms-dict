@@ -1,23 +1,23 @@
 ---
-title: "Diarizare vorbitori"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Diarizare vorbitori
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /ro/terms/speaker_diarization/
-date: "2026-07-18T16:21:36.265393Z"
-lastmod: "2026-07-18T17:15:09.704505Z"
+slug: speaker_diarization
+date: '2026-07-18T16:21:36.265393Z'
+lastmod: '2026-07-18T17:15:09.704505Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de determinare a 'cine a vorbit când' într-o înregistrare audio."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de determinare a 'cine a vorbit când' într-o înregistrare audio.
 ---
-
 ## Definition
 
 Diarizarea vorbitorilor este sarcina de a partisiona un flux audio în segmente omogene conform identității vorbitorului. Aceasta combină detectarea schimbării vorbitorului cu clusterizarea vorbitorilor pentru a eticheta cine a spus ce, fără a fi necesară transcrierea textului.

@@ -1,23 +1,24 @@
 ---
-title: "Inteligência heurística computacional"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Inteligência heurística computacional
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /pt/terms/computational_heuristic_intelligence/
-date: "2026-07-18T14:53:51.706435Z"
-lastmod: "2026-07-18T15:51:59.472861Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T14:53:51.706435Z'
+lastmod: '2026-07-18T15:51:59.472861Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Abordagens de IA que utilizam técnicas práticas e baseadas em experiência para resolver problemas de forma eficiente quando os métodos exatos são muito lentos."
+source: agnes_llm
+status: published
+language: pt
+description: Abordagens de IA que utilizam técnicas práticas e baseadas em experiência
+  para resolver problemas de forma eficiente quando os métodos exatos são muito lentos.
 ---
-
 ## Definition
 
 A inteligência heurística computacional envolve algoritmos que empregam regras práticas, aproximações ou palpites fundamentados para encontrar soluções satisfatórias dentro de prazos razoáveis. Diferente da busca exaustiva,

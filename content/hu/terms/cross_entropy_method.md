@@ -1,23 +1,24 @@
 ---
-title: "Keresztentrópia-módszer"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Keresztentrópia-módszer
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /hu/terms/cross_entropy_method/
-date: "2026-07-18T15:52:21.904816Z"
-lastmod: "2026-07-18T17:15:09.766683Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:52:21.904816Z'
+lastmod: '2026-07-18T17:15:09.766683Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy randomizált optimalizálási technika, amely Monte Carlo-szimulációt használ a ritka események valószínűségének becsléseinek iteratív javítására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy randomizált optimalizálási technika, amely Monte Carlo-szimulációt
+  használ a ritka események valószínűségének becsléseinek iteratív javítására.
 ---
-
 ## Definition
 
 A Keresztentrópia-módszer (CEM) egy hatékony, általános célú optimalizálási algoritmus, amelyet diszkrét és folytonos problémákra egyaránt alkalmaznak. A módszer úgy működik, hogy fenntart egy valószínűségi eloszlást a keresési téren, és iteratívan frissíti azt az elit minták alapján.

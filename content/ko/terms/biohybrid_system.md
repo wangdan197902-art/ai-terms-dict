@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /ko/terms/biohybrid_system/
 date: "2026-07-18T15:44:10.854099Z"
 lastmod: "2026-07-18T16:38:06.814463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "기능 향상 또는 새로운 능력 창출을 위해 생물학적 구성 요소와 인공 장치를 결합한 통합 시스템입니다."
 ---
-
 ## Definition
 
 바이오하이브리드 시스템은 살아있는 조직, 세포 또는 생물체를 합성 물질 및 전자 장치와 결합합니다. 이러한 시스템은 자가 치유와 같은 생물학적 고유의 특성을 활용하여 기능을 극대화하는 것을 목표로 합니다.

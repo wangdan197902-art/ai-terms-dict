@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /hu/terms/explanation_based_learning/
 date: "2026-07-18T15:59:22.147869Z"
 lastmod: "2026-07-18T17:15:09.783109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A magyarázaton alapuló tanulás egy gépi tanulási módszer, amely a doménszabályt és egyetlen képzési példát használ magyarázat generálására, amelyet aztán általánosítanak egy új szabállyá."
 ---
-
 ## Definition
 
 Az EBL (Explanation-Based Learning) a szimbolikus érvelést ötvözi a gépi tanulással a tanulás folyamatának felgyorsítása érdekében. Nem nagy adathalmazokra támaszkodik, hanem egyetlen pozitív példát vesz alapul, és egy előre meglévő doménszabályt használ.

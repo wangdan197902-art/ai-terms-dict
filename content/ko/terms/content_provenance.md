@@ -1,23 +1,23 @@
 ---
-title: "콘텐츠 근원(출처 증명)"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: 콘텐츠 근원(출처 증명)
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /ko/terms/content_provenance/
-date: "2026-07-18T15:46:22.188831Z"
-lastmod: "2026-07-18T16:38:06.821695Z"
+slug: content_provenance
+date: '2026-07-18T15:46:22.188831Z'
+lastmod: '2026-07-18T16:38:06.821695Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "디지털 자산의 기원, 역사 및 소유권을 검증 가능한 기록으로 남기는 것."
+source: agnes_llm
+status: published
+language: ko
+description: 디지털 자산의 기원, 역사 및 소유권을 검증 가능한 기록으로 남기는 것.
 ---
-
 ## Definition
 
 콘텐츠 근원은 디지털 콘텐츠가 어디서 왔고, 어떻게 생성되었으며, 시간이 지남에 따라 누가 수정했는지에 대한 문서화와 검증을 의미합니다. AI의 맥락에서 이는 특히 생성형 AI 콘텐츠의 진위 여부를 판별하는 데 중요합니다.

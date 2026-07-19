@@ -1,23 +1,24 @@
 ---
-title: "Проект «Искусственный изобретатель»"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Проект «Искусственный изобретатель»
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /ru/terms/artificial_inventor_project/
-date: "2026-07-18T15:40:51.809621Z"
-lastmod: "2026-07-18T16:38:07.120464Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:40:51.809621Z'
+lastmod: '2026-07-18T16:38:07.120464Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Исследовательская инициатива, направленная на разработку вычислительных моделей творческого решения задач и процессов изобретательства, подобных человеческим."
+source: agnes_llm
+status: published
+language: ru
+description: Исследовательская инициатива, направленная на разработку вычислительных
+  моделей творческого решения задач и процессов изобретательства, подобных человеческим.
 ---
-
 ## Definition
 
 Проект «Искусственный изобретатель» — это междисциплинарное исследовательское усилие, направленное на понимание и воспроизведение когнитивных механизмов, лежащих в основе человеческого творчества и изобретательства. Он стремится создать системы ИИ, способные имитировать процессы генерации новых идей.

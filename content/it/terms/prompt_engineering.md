@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /it/terms/prompt_engineering/
 date: "2026-07-18T15:22:14.280154Z"
 lastmod: "2026-07-18T17:15:08.558505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La pratica di progettare e ottimizzare i testi di input per guidare i modelli linguistici di grandi dimensioni verso output desiderati."
 ---
-
 ## Definition
 
 L'ingegneria dei prompt implica la creazione di input specifici, noti come prompt, per ottenere risposte accurate, pertinenti e di alta qualità dai modelli di IA generativa. Richiede una comprensione di come i modelli interpretano il contesto e le istruzioni.

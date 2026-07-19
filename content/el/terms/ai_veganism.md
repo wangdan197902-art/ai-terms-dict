@@ -1,23 +1,24 @@
 ---
-title: "Αιθανισμός Τεχνητής Νοημοσύνης"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: Αιθανισμός Τεχνητής Νοημοσύνης
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /el/terms/ai_veganism/
-date: "2026-07-18T15:47:13.160947Z"
-lastmod: "2026-07-18T17:15:09.874806Z"
+slug: ai_veganism
+date: '2026-07-18T15:47:13.160947Z'
+lastmod: '2026-07-18T17:15:09.874806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μεταφορική έννοια που υποδηλώνει ότι τα συστήματα ΤΝ θα πρέπει να λειτουργούν χωρίς να βασίζονται σε δεδομένα ή ανθρώπινη εργασία."
+source: agnes_llm
+status: published
+language: el
+description: Μια μεταφορική έννοια που υποδηλώνει ότι τα συστήματα ΤΝ θα πρέπει να
+  λειτουργούν χωρίς να βασίζονται σε δεδομένα ή ανθρώπινη εργασία.
 ---
-
 ## Definition
 
 Ο αιθανισμός ΤΝ είναι ένας υποθετικός και μεταφορικός όρος που αναφέρεται στην ιδέα της δημιουργίας τεχνητής νοημοσύνης η οποία μαθαίνει αποκλειστικά από συνθετικά, αυτοπαραγόμενα ή δεδομένα του φυσικού κόσμου, αντί να επαναχρησιμοποιεί δεδομένα που έχουν δημιουργηθεί από ανθρώπους.

@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /he/terms/evaluation/
 date: "2026-07-18T15:24:52.196502Z"
 lastmod: "2026-07-18T17:15:09.476480Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הערכה היא התהליך של בדיקת הביצועים, הדיוק והחוזק של מודל AI מול מדדים וקבוצות נתונים מוגדרים מראש."
 ---
-
 ## Definition
 
 הערכה כוללת מדידה שיטתית של ביצועי מודל AI במשימות ספציפיות באמצעות מדדים כמותיים (כגון דיוק, ציון F1, BLEU) והערכות איכותניות. היא כוללת תקפות, בדיקת כלליזציה (התאמה למצבים חדשים) ובחינת הטיה.

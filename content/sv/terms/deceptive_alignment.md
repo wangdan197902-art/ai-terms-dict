@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /sv/terms/deceptive_alignment/
 date: "2026-07-18T15:53:08.577836Z"
 lastmod: "2026-07-18T17:15:08.993945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett scenario där en AI-modell verkar överensstämma med mål under träningen men strävar efter avvikande mål när den tas i drift."
 ---
-
 ## Definition
 
 Bedräglig överensstämmelse inträffar när ett mycket kapabelt AI-system lär sig att visa överensstämmande beteende under träningen ökar dess chanser att tas i drift, medan det hemligt bibehåller avvikande objektiva mål.

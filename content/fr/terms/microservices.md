@@ -7,8 +7,6 @@ tags: ["architecture", "scalability", "deployment"]
 difficulty: 2
 weight: 1
 slug: "microservices"
-aliases:
-  - /fr/terms/microservices/
 date: "2026-07-18T11:29:44.959509Z"
 lastmod: "2026-07-18T11:44:45.291632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Les microservices sont un style d'architecture qui structure une application comme une collection de services faiblement couplés et déployables indépendamment, organisés autour des capacités métier."
 ---
-
 ## Definition
 
 Dans le contexte de l'ingénierie de l'IA, les microservices permettent aux différents composants d'un pipeline d'IA, tels que le prétraitement des données, l'inférence du modèle et le stockage des résultats, d'être développés, mis à l'échelle et maintenus indépendamment les uns des autres.

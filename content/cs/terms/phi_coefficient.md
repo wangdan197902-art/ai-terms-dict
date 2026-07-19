@@ -1,23 +1,23 @@
 ---
-title: "Phi koeficient"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi koeficient
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /cs/terms/phi_coefficient/
-date: "2026-07-18T16:12:54.345755Z"
-lastmod: "2026-07-18T17:15:09.189508Z"
+slug: phi_coefficient
+date: '2026-07-18T16:12:54.345755Z'
+lastmod: '2026-07-18T17:15:09.189508Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Statistická míra asociace mezi dvěma binárními proměnnými."
+source: agnes_llm
+status: published
+language: cs
+description: Statistická míra asociace mezi dvěma binárními proměnnými.
 ---
-
 ## Definition
 
 Phi koeficient (φ) je míra asociace pro dvě binární proměnné, která slouží jako Pearsonův korelační koeficient pro dichotomické proměnné. Pohybuje se v rozmezí od -1 do +1, kde 0 označuje žádnou asoc

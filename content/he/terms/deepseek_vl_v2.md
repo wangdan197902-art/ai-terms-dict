@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /he/terms/deepseek_vl_v2/
 date: "2026-07-18T15:53:28.510911Z"
 lastmod: "2026-07-18T17:15:09.532350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "DeepSeek VL V2 הוא מודל שפה-ראייה המיועד לעבד ולהבין קלט ויזואלי ושאלות טקסטואלית בדיוק ויעילות גבוהים."
 ---
-
 ## Definition
 
 DeepSeek VL V2 מרחיב את יכולות המודל השפתי הסטנדרטי לתחום הרב-מודאלי, ומאפשר לו לפרש תמונות לצד טקסט. באמצעות מעבד ויזואלי המחובר ל-

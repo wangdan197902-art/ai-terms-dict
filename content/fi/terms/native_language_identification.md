@@ -1,23 +1,24 @@
 ---
-title: "Emäkielen tunnistus"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Emäkielen tunnistus
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /fi/terms/native_language_identification/
-date: "2026-07-18T16:12:25.287595Z"
-lastmod: "2026-07-18T17:15:09.438264Z"
+slug: native_language_identification
+date: '2026-07-18T16:12:25.287595Z'
+lastmod: '2026-07-18T17:15:09.438264Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa puhujan emäkieli määritetään automaattisesti hänen puhe- tai tekstinäytteistään."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa puhujan emäkieli määritetään automaattisesti hänen puhe-
+  tai tekstinäytteistään.
 ---
-
 ## Definition
 
 Emäkielen tunnistus (NLI) on luonnollen kielen käsittelyn alatekijä, joka keskittyy puhujan oppiman ensikielen tunnistamiseen. Yleisen kielitunnistuksen sijaan NLI analysoi puhujan

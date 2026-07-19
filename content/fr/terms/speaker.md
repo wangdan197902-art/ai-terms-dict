@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /fr/terms/speaker/
 date: "2026-07-18T11:38:46.557392Z"
 lastmod: "2026-07-18T11:44:45.330422Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une personne produisant des sons vocaux ou de la parole au sein d'un signal audio."
 ---
-
 ## Definition
 
 Dans le traitement de la parole, un locuteur est défini comme une source vocale humaine distincte dans un enregistrement audio. Identifier et distinguer les locuteurs est fondamental pour analyser les conversations et assurer la sécurité.

@@ -1,23 +1,24 @@
 ---
-title: "Ytimetiheysestimaatti"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Ytimetiheysestimaatti
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /fi/terms/kernel_density_estimation/
-date: "2026-07-18T16:04:51.037137Z"
-lastmod: "2026-07-18T17:15:09.424515Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:04:51.037137Z'
+lastmod: '2026-07-18T17:15:09.424515Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Parametrinen menetelmä, jota käytetään satunnaismuuttujan todennäköisyystiheysfunktion estimointiin äärellisen datanäytteen perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Parametrinen menetelmä, jota käytetään satunnaismuuttujan todennäköisyystiheysfunktion
+  estimointiin äärellisen datanäytteen perusteella.
 ---
-
 ## Definition
 
 Ytimetiheysestimaatti (KDE) on perustavanlaatuinen tilastollinen tekniikka, joka pehmentää diskreettejä datapisteitä luodakseen jatkuvan todennäköisyysjakaumakäyrän. Se sijoittaa ydinfunktion, tyypillisesti Gaussin funktion, jokaisen havainnon ympärille.

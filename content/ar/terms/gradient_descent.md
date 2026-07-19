@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /ar/terms/gradient_descent/
 date: "2026-07-18T15:37:13.591255Z"
 lastmod: "2026-07-18T17:15:08.461992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "خوارزمية تحسين تكرارية تُستخدم لتقليل دالة الخسارة عن طريق ضبط معاملات النموذج."
 ---
-
 ## Definition
 
 نزول التدرج هو خوارزمية تحسين تكرارية من الرتبة الأولى لإيجاد الحد الأدنى المحلي لدالة قابلة للاشتقاق. في تعلم الآلة، يتم تحديث أوزان النموذج في الاتجاه المعاكس للتدرج.

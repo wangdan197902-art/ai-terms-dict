@@ -7,8 +7,6 @@ tags: ["theory", "creativity"]
 difficulty: 4
 weight: 1
 slug: "ideonomy"
-aliases:
-  - /ko/terms/ideonomy/
 date: "2026-07-18T15:59:29.993750Z"
 lastmod: "2026-07-18T16:38:06.852981Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "Ideonomy(아이데오노미)는 아이디어 생성의 과학으로, 새로운 개념과 혁신을 체계적으로 생성하고 조직화하는 방법에 중점을 둡니다."
 ---
-
 ## Definition
 
 이 분야는 아이디어가 형성되고 결합되며 진화하는 과정을 연구합니다. 창의성과 문제 해결 능력을 향상시키기 위해 구조화된 기법을 적용하며, AI 문맥에서는 알고리즘적 창의성 및 자동화된 혁신 프로세스 개발에 활용됩니다.

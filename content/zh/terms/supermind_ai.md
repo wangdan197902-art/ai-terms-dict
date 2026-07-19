@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /zh/terms/supermind_ai/
 date: "2026-07-18T11:35:31.276919Z"
 lastmod: "2026-07-18T11:44:45.560046Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种旨在将多个智能体或模型整合为一个统一的、增强的认知实体的AI架构或系统，具备更优越的问题解决能力。"
 ---
-
 ## Definition
 
 超级心智AI指的是多个AI组件、人类专家或混合人机团队无缝协作，形成集体智能的系统，其能力超过任何单一个体。

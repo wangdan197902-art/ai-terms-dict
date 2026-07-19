@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /tr/terms/data_protection/
 date: "2026-07-18T15:34:02.789722Z"
 lastmod: "2026-07-18T16:38:07.255982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Hassas bilgilerin yaşam döngüsü boyunca yetkisiz erişim, bozulma veya çalınmalara karşı korunması süreci."
 ---
-
 ## Definition
 
 Veri Koruması, kişisel ve tescilli verileri ihlaller ve kötüye kullanımlara karşı güvence altına almak üzere tasarlanmış yasal, teknik ve organizasyonel önlemleri kapsar. Yapay zeka bağlamında bu, şifreleme, erişim kontrolü gibi yöntemlerin uygulanmasını içerir.

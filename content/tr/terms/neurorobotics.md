@@ -1,23 +1,25 @@
 ---
-title: "NöroRobotik"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: NöroRobotik
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /tr/terms/neurorobotics/
-date: "2026-07-18T16:06:30.968889Z"
-lastmod: "2026-07-18T16:38:07.341252Z"
+slug: neurorobotics
+date: '2026-07-18T16:06:30.968889Z'
+lastmod: '2026-07-18T16:38:07.341252Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "NöroRobotik, biyolojik sinir sistemlerinin otonom robotların tasarımına nasıl rehberlik edebileceğini ve robotların beyin işlevlerini anlamak için modeller olarak nasıl hizmet edebileceğini inceleyen "
+source: agnes_llm
+status: published
+language: tr
+description: 'NöroRobotik, biyolojik sinir sistemlerinin otonom robotların tasarımına
+  nasıl rehberlik edebileceğini ve robotların beyin işlevlerini anlamak için modeller
+  olarak nasıl hizmet edebileceğini inceleyen '
 ---
-
 ## Definition
 
 Bu alan, sinir ağ modellerini robotik kontrol sistemlerine uygulayarak nörobilim ile robotik arasında köprü kurar. Araştırmacıların motor kontrol, duyusal işleme ve bilişsel süreçler hakkındaki hipotezlerini test etmesine olanak tanır.

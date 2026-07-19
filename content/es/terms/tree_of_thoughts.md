@@ -7,8 +7,6 @@ tags: ["reasoning", "prompting", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "tree_of_thoughts"
-aliases:
-  - /es/terms/tree_of_thoughts/
 date: "2026-07-18T11:11:33.175470Z"
 lastmod: "2026-07-18T11:44:44.862933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El Árbol de Pensamientos es un marco de razonamiento que explora múltiples caminos de razonamiento posibles simultáneamente, evaluándolos para seleccionar el siguiente paso más prometedor."
 ---
-
 ## Definition
 
 El Árbol de Pensamientos (ToT) extiende el método tradicional de 'cadena de pensamiento' (chain-of-thought) al permitir que el modelo explore múltiples caminos de razonamiento distintos en cada paso, formando una estructura de árbol. El modelo evalúa las...

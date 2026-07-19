@@ -1,23 +1,24 @@
 ---
-title: "Μάθηση βάσει παραδειγμάτων"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Μάθηση βάσει παραδειγμάτων
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /el/terms/instance_based_learning/
-date: "2026-07-18T16:15:01.217252Z"
-lastmod: "2026-07-18T17:15:09.921172Z"
+slug: instance_based_learning
+date: '2026-07-18T16:15:01.217252Z'
+lastmod: '2026-07-18T17:15:09.921172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια προσέγγιση «τεμπέλικης» μάθησης όπου οι προβλέψεις γίνονται συγκρίνοντας νέες εισόδους με αποθηκευμένα παραδείγματα εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Μια προσέγγιση «τεμπέλικης» μάθησης όπου οι προβλέψεις γίνονται συγκρίνοντας
+  νέες εισόδους με αποθηκευμένα παραδείγματα εκπαίδευσης.
 ---
-
 ## Definition
 
 Γνωστή επίσης ως μάθηση βασισμένη στη μνήμη, αυτή η τεχνική δεν χτίζει ένα γενικευμένο μοντέλο κατά τη διάρκεια της εκπαίδευσης. Αντ' αυτού, αποθηκεύει ολόκληρο το σύνολο δεδομένων εκπαίδευσης στη μνήμη. Όταν απαιτείται μια πρόβλεψη για ένα νέο σημείο δεδομένων, ο αλγόριθμος βρίσκει τα πιο παρόμοια παραδείγματα από το ιστορικό σύνολο (συνήθως χρησιμοποιώντας ένα μέτρο ομοιότητας ή απόστασης) και βασίζει την πρόβλεψή του σε αυτά. Αυτή η μέθοδος είναι ιδιαίτερα χρήσιμη όταν οι σχέσεις στα δεδομένα είναι πολύ πολύπλοκες για να μοντελοποιηθούν με απλές παραμετρικές συναρτήσεις.

@@ -1,23 +1,25 @@
 ---
-title: "Τεχνητή Νοημοσύνη Πεπερασμένης Μνήμης"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: Τεχνητή Νοημοσύνη Πεπερασμένης Μνήμης
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /el/terms/limited_memory_ai/
-date: "2026-07-18T16:18:19.714445Z"
-lastmod: "2026-07-18T17:15:09.926429Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:18:19.714445Z'
+lastmod: '2026-07-18T17:15:09.926429Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Συστήματα ΤΝ ικανά να αποθηκεύουν παρελθοντικά δεδομένα και εμπειρίες για να ενημερώσουν μελλοντικές αποφάσεις, αποτελώντας τη βάση των περισσότερων σύγχρονων εφαρμογών μηχανικής μάθησης."
+source: agnes_llm
+status: published
+language: el
+description: Συστήματα ΤΝ ικανά να αποθηκεύουν παρελθοντικά δεδομένα και εμπειρίες
+  για να ενημερώσουν μελλοντικές αποφάσεις, αποτελώντας τη βάση των περισσότερων σύγχρονων
+  εφαρμογών μηχανικής μάθησης.
 ---
-
 ## Definition
 
 Η Τεχνητή Νοημοσύνη Πεπερασμένης Μνήμης αντιπροσωπεύει το δεύτερο επίπεδο ικανότητας ΤΝ, όπου τα συστήματα μπορούν να μάθουν από ιστορικά δεδομένα και να προσαρμόσουν τη συμπεριφορά τους ανάλογα. Σε αντίθεση με τις αντιδραστικές μηχανές, αυτά τα συστήματα διατηρούν πληροφορίες

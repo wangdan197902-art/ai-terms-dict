@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /vi/terms/wasserstein/
-date: "2026-07-18T15:30:28.587835Z"
-lastmod: "2026-07-18T16:38:07.699610Z"
+slug: wasserstein
+date: '2026-07-18T15:30:28.587835Z'
+lastmod: '2026-07-18T16:38:07.699610Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chỉ số đo lường khoảng cách giữa các phân phối xác suất dựa trên chi phí tối thiểu để biến đổi một phân phối này thành phân phối khác."
+source: agnes_llm
+status: published
+language: vi
+description: Một chỉ số đo lường khoảng cách giữa các phân phối xác suất dựa trên
+  chi phí tối thiểu để biến đổi một phân phối này thành phân phối khác.
 ---
-
 ## Definition
 
 Khoảng cách Wasserstein, còn được gọi là Khoảng cách Dịch chuyển Trái đất (Earth Mover's Distance), định lượng sự khác biệt giữa hai phân phối xác suất bằng cách tính toán lượng 'công' tối thiểu cần thiết để di chuyển khối lượng từ phân phối này sang phân phối kia.

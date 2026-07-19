@@ -1,23 +1,24 @@
 ---
-title: "Rozpoznawanie Wzorów"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Rozpoznawanie Wzorów
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /pl/terms/pattern_recognition/
-date: "2026-07-18T16:10:38.342921Z"
-lastmod: "2026-07-18T17:15:08.905467Z"
+slug: pattern_recognition
+date: '2026-07-18T16:10:38.342921Z'
+lastmod: '2026-07-18T17:15:08.905467Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Automatyczna identyfikacja regularności i struktur w danych za pomocą metod statystycznych i uczenia maszynowego."
+source: agnes_llm
+status: published
+language: pl
+description: Automatyczna identyfikacja regularności i struktur w danych za pomocą
+  metod statystycznych i uczenia maszynowego.
 ---
-
 ## Definition
 
 Rozpoznawanie Wzorów to gałąź sztucznej inteligencji i statystyki zajmująca się identyfikacją regularności w danych. Obejmuje klasyfikację danych wejściowych do predefiniowanych kategorii na podstawie cech...

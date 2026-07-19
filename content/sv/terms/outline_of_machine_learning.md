@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /sv/terms/outline_of_machine_learning/
 date: "2026-07-18T16:12:29.016027Z"
 lastmod: "2026-07-18T17:15:09.033992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En omfattande kategorisering av maskininlärandeparadigm, algoritmer och utvärderingsmått."
 ---
-
 ## Definition
 
 Denna term beskriver den strukturella klassificeringen av maskininlärning i övervakad, oövervakad, halvövervakad och förstärkningsinlärning. Den inkluderar kärnalgoritmfamiljer såsom linjär regression...

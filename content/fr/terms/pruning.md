@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /fr/terms/pruning/
 date: "2026-07-18T11:34:39.582940Z"
 lastmod: "2026-07-18T11:44:45.316518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une technique de compression de modèle qui supprime les paramètres redondants ou moins significatifs pour réduire la taille et améliorer la vitesse d'inférence."
 ---
-
 ## Definition
 
 L'élagage consiste à identifier et à éliminer les neurones, connexions ou filtres dans un réseau neuronal qui contribuent minimalement à la précision de la sortie. En supprimant ces éléments redondants, le modèle devient plus léger et plus rapide à exécuter.

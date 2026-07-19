@@ -1,23 +1,24 @@
 ---
-title: "Funktionslæring"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Funktionslæring
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /da/terms/feature_learning/
-date: "2026-07-18T15:55:46.725241Z"
-lastmod: "2026-07-18T17:15:09.288226Z"
+slug: feature_learning
+date: '2026-07-18T15:55:46.725241Z'
+lastmod: '2026-07-18T17:15:09.288226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En tilgang, hvor algoritmer automatisk opdager de funktioner, der er nødvendige for detektering eller klassificering, fra rådata."
+source: agnes_llm
+status: published
+language: da
+description: En tilgang, hvor algoritmer automatisk opdager de funktioner, der er
+  nødvendige for detektering eller klassificering, fra rådata.
 ---
-
 ## Definition
 
 Funktionslæring, ofte forbundet med dyb læring, gør det muligt for modeller at lære hierarkiske repræsentationer direkte fra rå inputdata i stedet for at stole på manuel funktionskonstruktion. Gennem lag

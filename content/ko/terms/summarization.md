@@ -1,23 +1,23 @@
 ---
-title: "요약(Summarization)"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: 요약(Summarization)
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /ko/terms/summarization/
-date: "2026-07-18T15:36:19.379650Z"
-lastmod: "2026-07-18T16:38:06.800573Z"
+slug: summarization
+date: '2026-07-18T15:36:19.379650Z'
+lastmod: '2026-07-18T16:38:06.800573Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "긴 텍스트의 핵심 정보를 보존하면서 간결하고 일관된 요약을 생성하는 자연어 처리(NLP) 작업입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 긴 텍스트의 핵심 정보를 보존하면서 간결하고 일관된 요약을 생성하는 자연어 처리(NLP) 작업입니다.
 ---
-
 ## Definition
 
 텍스트 요약은 중요한 의미를 잃지 않고 대량의 텍스트를 짧은 버전으로 축소합니다. 추출 방식(Source에서 중요한 문장을 선택) 또는 생성 방식(Abstractive, 새로운 문장 생성)이 있습니다...

@@ -1,23 +1,24 @@
 ---
-title: "Заземленный"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Заземленный
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /ru/terms/grounded/
-date: "2026-07-18T15:26:01.922321Z"
-lastmod: "2026-07-18T16:38:07.078354Z"
+slug: grounded
+date: '2026-07-18T15:26:01.922321Z'
+lastmod: '2026-07-18T16:38:07.078354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к системам ИИ, которые связывают абстрактные символы или язык с реальными сенсорными данными или физическими действиями."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к системам ИИ, которые связывают абстрактные символы или язык
+  с реальными сенсорными данными или физическими действиями.
 ---
-
 ## Definition
 
 В искусственном интеллекте термин «заземленный» описывает процесс связывания символических представлений, таких как слова или логические высказывания, с их фактическими референтами в физическом мире или сенсорном опыте.

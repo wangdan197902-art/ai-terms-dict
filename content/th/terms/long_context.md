@@ -1,23 +1,23 @@
 ---
-title: "บริบทยาว (Long Context)"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: บริบทยาว (Long Context)
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /th/terms/long_context/
-date: "2026-07-18T16:03:40.682254Z"
-lastmod: "2026-07-18T16:38:07.627626Z"
+slug: long_context
+date: '2026-07-18T16:03:40.682254Z'
+lastmod: '2026-07-18T16:38:07.627626Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ความสามารถของโมเดลภาษาในการประมวลผลและเก็บรักษาข้อมูลจากลำดับอินพุตที่มีจำนวนโทเค็นเป็นพันหรือล้านโทเค็น"
+source: agnes_llm
+status: published
+language: th
+description: ความสามารถของโมเดลภาษาในการประมวลผลและเก็บรักษาข้อมูลจากลำดับอินพุตที่มีจำนวนโทเค็นเป็นพันหรือล้านโทเค็น
 ---
-
 ## Definition
 
 บริบทยาว หมายถึง ความสามารถของโมเดลประเภททรานส์ฟอร์มเมอร์ (transformer) ในการจัดการกับความยาวของอินพุตที่มากเกินกว่าขีดจำกัดมาตรฐาน เช่น 2k หรือ 4k โทเค็น ความสามารถนี้ช่วยให้โมเดลสามารถวิเคราะห์เอกสารฉบับเต็ม โค้ดทั้งหมด หรือข้อมูลต่อเนื่องยาวๆ โดยยังคงความเชื่อมโยงของบริบทไว้ได้อย่างมีประสิทธิภาพ

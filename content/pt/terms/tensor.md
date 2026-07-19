@@ -1,23 +1,24 @@
 ---
-title: "Tensor"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tensor
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /pt/terms/tensor/
-date: "2026-07-18T15:24:14.268025Z"
-lastmod: "2026-07-18T15:51:59.537537Z"
+slug: tensor
+date: '2026-07-18T15:24:14.268025Z'
+lastmod: '2026-07-18T15:51:59.537537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma matriz multidimensional que serve como estrutura de dados fundamental para frameworks de aprendizado profundo."
+source: agnes_llm
+status: published
+language: pt
+description: Uma matriz multidimensional que serve como estrutura de dados fundamental
+  para frameworks de aprendizado profundo.
 ---
-
 ## Definition
 
 Em ciência da computação e aprendizado profundo, um tensor é um objeto matemático que generaliza escalares, vetores e matrizes para dimensões superiores. Ele é caracterizado por sua ordem (número de dimensões) e...

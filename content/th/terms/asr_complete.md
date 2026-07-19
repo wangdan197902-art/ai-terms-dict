@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /th/terms/asr_complete/
 date: "2026-07-18T15:39:17.733813Z"
 lastmod: "2026-07-18T16:38:07.570164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ASR-complete อธิบายระบบรู้จำเสียงพูดที่บรรลุความแม่นยำระดับมนุษย์บนชุดข้อมูลมาตรฐาน"
 ---
-
 ## Definition
 
 คำว่า ASR-complete บ่งชี้ว่าระบบรู้จำเสียงพูดอัตโนมัติ (Automatic Speech Recognition) มีระดับประสิทธิภาพเทียบเท่าผู้ถอดเสียงมนุษย์ในงานและชุดข้อมูลที่กำหนดไว้อย่างชัดเจน ซึ่งเป็นก้าวสำคัญ...

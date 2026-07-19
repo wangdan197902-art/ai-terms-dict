@@ -1,23 +1,23 @@
 ---
-title: "ชุดข้อมูล: Eli5"
-term_id: "dataseteli5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "qa_systems", "social_media"]
+title: 'ชุดข้อมูล: Eli5'
+term_id: dataseteli5
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Qa Systems
+- Social Media
 difficulty: 2
 weight: 1
-slug: "dataseteli5"
-aliases:
-  - /th/terms/dataseteli5/
-date: "2026-07-18T15:47:58.368608Z"
-lastmod: "2026-07-18T16:38:07.593072Z"
+slug: dataseteli5
+date: '2026-07-18T15:47:58.368608Z'
+lastmod: '2026-07-18T16:38:07.593072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ชุดข้อมูลขนาดใหญ่ของคำถามและคำตอบในรูปแบบ 'อธิบายเหมือนฉันห้าขวบ' โดยเน้นการอธิบายรายละเอียดอย่างชัดเจน"
+source: agnes_llm
+status: published
+language: th
+description: ชุดข้อมูลขนาดใหญ่ของคำถามและคำตอบในรูปแบบ 'อธิบายเหมือนฉันห้าขวบ' โดยเน้นการอธิบายรายละเอียดอย่างชัดเจน
 ---
-
 ## Definition
 
 ELI5 (Explain Like I'm Five) เป็นชุดข้อมูลที่ได้มาจากชุมชนเรดดิต์ชื่อเดียวกัน ประกอบด้วยคำถามที่ผู้ใช้ส่งเข้ามาพร้อมคำตอบที่ละเอียดและเข้าใจง่ายซึ่งให้โดยชุมชน...

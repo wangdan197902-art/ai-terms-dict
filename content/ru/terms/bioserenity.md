@@ -1,23 +1,24 @@
 ---
-title: "Биосеренити"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Биосеренити
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /ru/terms/bioserenity/
-date: "2026-07-18T15:44:09.983975Z"
-lastmod: "2026-07-18T16:38:07.128000Z"
+slug: bioserenity
+date: '2026-07-18T15:44:09.983975Z'
+lastmod: '2026-07-18T16:38:07.128000Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теоретическое состояние гармоничного сосуществования биологической жизни и систем искусственного интеллекта."
+source: agnes_llm
+status: published
+language: ru
+description: Теоретическое состояние гармоничного сосуществования биологической жизни
+  и систем искусственного интеллекта.
 ---
-
 ## Definition
 
 Биосеренити обозначает концептуальный идеал, при котором человеческая биология и искусственный интеллект функционируют в бесшовной, неконфликтной гармонии. Это понятие подчеркивает этическую интеграцию, обеспечивая, чтобы усиление возможностей человека с помощью ИИ происходило безопасно и этично.

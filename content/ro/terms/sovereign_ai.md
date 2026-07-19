@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /ro/terms/sovereign_ai/
 date: "2026-07-18T16:21:22.343013Z"
 lastmod: "2026-07-18T17:15:09.703662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare strategică prin care națiunile sau entitățile dezvoltă și controlează propria infrastructură și modele de IA pentru a garanta confidențialitatea datelor și independența reglementară."
 ---
-
 ## Definition
 
 IA suverană descrie capacitatea unei țări sau organizații de a construi, implementa și gestiona sisteme de inteligență artificială în mod independent, fără a depinde de furnizori străini de cloud sau de tehnologii proprietare externe.

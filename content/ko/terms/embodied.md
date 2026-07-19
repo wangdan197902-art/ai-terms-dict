@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /ko/terms/embodied/
 date: "2026-07-18T15:24:05.368936Z"
 lastmod: "2026-07-18T16:38:06.772428Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "엠버디드 AI는 지능이 에이전트의 물리적 형태와 환경 간의 상호작용에서 나타난다는 주장을 펼칩니다. 추상적인 데이터를 처리하는 비구체화(disembodied) AI와 달리, 엠버디드 에이전트는 센서를 사용하여..."
 ---
-
 ## Definition
 
 

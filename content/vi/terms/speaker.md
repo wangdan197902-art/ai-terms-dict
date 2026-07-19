@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /vi/terms/speaker/
 date: "2026-07-18T16:12:43.023452Z"
 lastmod: "2026-07-18T16:38:07.806998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cá nhân tạo ra âm thanh giọng nói hoặc lời nói trong một tín hiệu âm thanh."
 ---
-
 ## Definition
 
 Trong xử lý tiếng nói, người nói được định nghĩa là nguồn giọng nói con người riêng biệt trong một bản ghi âm. Việc xác định và phân biệt các người nói là nền tảng cơ bản để phân tích cuộc trò chuyện, đảm bảo bảo mật và cá nhân hóa dịch vụ.

@@ -1,23 +1,24 @@
 ---
-title: "Epoch"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /de/terms/epoch/
-date: "2026-07-18T11:13:31.420946Z"
-lastmod: "2026-07-18T11:44:44.937624Z"
+slug: epoch
+date: '2026-07-18T11:13:31.420946Z'
+lastmod: '2026-07-18T11:44:44.937624Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein vollständiger Durchlauf des Trainingsdatensatzes durch den maschinellen Lernalgorithmus während des Modelltrainings."
+source: agnes_llm
+status: published
+language: de
+description: Ein vollständiger Durchlauf des Trainingsdatensatzes durch den maschinellen
+  Lernalgorithmus während des Modelltrainings.
 ---
-
 ## Definition
 
 Im maschinellen Lernen repräsentiert eine Epoch eine einzelne Iteration über den gesamten Trainingsdatensatz. Während jeder Epoch verarbeitet das Modell alle Trainingsbeispiele, aktualisiert seine Gewichte mittels Backpropagation und passt die Parameter an, um die Vorhersagegenauigkeit zu verbessern.

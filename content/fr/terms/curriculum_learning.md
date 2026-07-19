@@ -1,23 +1,23 @@
 ---
-title: "Apprentissage par curriculum"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Apprentissage par curriculum
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /fr/terms/curriculum_learning/
-date: "2026-07-18T11:43:33.674742Z"
-lastmod: "2026-07-18T11:44:45.360239Z"
+slug: curriculum_learning
+date: '2026-07-18T11:43:33.674742Z'
+lastmod: '2026-07-18T11:44:45.360239Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une stratégie d'entraînement où les modèles apprennent d'abord à partir d'exemples faciles avant de passer aux plus difficiles."
+source: agnes_llm
+status: published
+language: fr
+description: Une stratégie d'entraînement où les modèles apprennent d'abord à partir
+  d'exemples faciles avant de passer aux plus difficiles.
 ---
-
 ## Definition
 
 L'apprentissage par curriculum imite l'éducation humaine en présentant les données d'entraînement dans un ordre structuré, généralement en commençant par des échantillons simples pour augmenter progressivement la complexité. Cette approche aide les réseaux de neurones

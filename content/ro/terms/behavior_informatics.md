@@ -1,23 +1,24 @@
 ---
-title: "Informatică comportamentală"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Informatică comportamentală
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /ro/terms/behavior_informatics/
-date: "2026-07-18T15:47:24.382566Z"
-lastmod: "2026-07-18T17:15:09.633534Z"
+slug: behavior_informatics
+date: '2026-07-18T15:47:24.382566Z'
+lastmod: '2026-07-18T17:15:09.633534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Disciplina interdisciplinară care studiază comportamentul uman prin colectarea și analiza datelor digitale."
+source: agnes_llm
+status: published
+language: ro
+description: Disciplina interdisciplinară care studiază comportamentul uman prin colectarea
+  și analiza datelor digitale.
 ---
-
 ## Definition
 
 Informatica comportamentală combină informatica, psihologia și statistica pentru a analiza datele comportamentale la scară largă generate de interacțiunile digitale. Se concentrează pe extragerea de tipare, predicția viitoarelor comportamente și înțelegerea dinamicii umane prin intermediul urmelor digitale lăsate în mediile online și offline.

@@ -1,23 +1,25 @@
 ---
-title: "Condus de"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Condus de
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /ro/terms/driven/
-date: "2026-07-18T15:24:54.709198Z"
-lastmod: "2026-07-18T17:15:09.592225Z"
+slug: driven
+date: '2026-07-18T15:24:54.709198Z'
+lastmod: '2026-07-18T17:15:09.592225Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Termenul 'condus de' descrie sistemele sau metodologiile AI în care luarea deciziilor sau arhitectura modelului este ghidată în principal de un tip specific de intrare, cum ar fi datele sau obiectivel"
+source: agnes_llm
+status: published
+language: ro
+description: Termenul 'condus de' descrie sistemele sau metodologiile AI în care luarea
+  deciziilor sau arhitectura modelului este ghidată în principal de un tip specific
+  de intrare, cum ar fi datele sau obiectivel
 ---
-
 ## Definition
 
 Termenul 'condus de' este folosit frecvent ca sufix pentru a indica forța sau mecanismul principal din spatele unei abordări AI. De exemplu, 'condus de date' implică faptul că deciziile sunt luate pe baza modelelor statistice din date.

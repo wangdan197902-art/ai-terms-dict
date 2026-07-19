@@ -1,23 +1,24 @@
 ---
-title: "Данно-центричный ИИ"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: Данно-центричный ИИ
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /ru/terms/data_centric_ai/
-date: "2026-07-18T15:47:31.321765Z"
-lastmod: "2026-07-18T16:38:07.138463Z"
+slug: data_centric_ai
+date: '2026-07-18T15:47:31.321765Z'
+lastmod: '2026-07-18T16:38:07.138463Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подход к разработке ИИ, при котором приоритет отдается улучшению качества и количества обучающих данных, а не изменению архитектур моделей."
+source: agnes_llm
+status: published
+language: ru
+description: Подход к разработке ИИ, при котором приоритет отдается улучшению качества
+  и количества обучающих данных, а не изменению архитектур моделей.
 ---
-
 ## Definition
 
 Данно-центричный ИИ представляет собой смену парадигмы в разработке искусственного интеллекта, фокусируясь на систематическом улучшении данных, используемых для обучения моделей, а не только на оптимизации алгоритмов или гиперпараметров. Этот подход предполагает итеративное улучшение качества разметки и курирование наборов данных.

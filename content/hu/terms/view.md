@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /hu/terms/view/
 date: "2026-07-18T15:33:52.822589Z"
 lastmod: "2026-07-18T17:15:09.733325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy virtuális tábla az adatbázisban, amely egy tárolt lekérdezés eredménye, és adatokat jelenít meg egy vagy több táblából fizikai tárolás nélkül."
 ---
-
 ## Definition
 
 Az adatbázis-kezelésben a nézet egy mentett SQL-lekérdezésként viselkedik, amely úgy tűnik, mint egy tábla, de önmagában nem tárol adatokat. Egyszerűsített vagy testreszabott betekintést biztosít az alapadatokba, növelve a biztonságot és a kezelhetőséget.

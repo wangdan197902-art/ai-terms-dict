@@ -1,23 +1,24 @@
 ---
-title: "Amostragem local caso-controle"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Amostragem local caso-controle
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /pt/terms/local_case_control_sampling/
-date: "2026-07-18T15:08:48.121499Z"
-lastmod: "2026-07-18T15:51:59.508746Z"
+slug: local_case_control_sampling
+date: '2026-07-18T15:08:48.121499Z'
+lastmod: '2026-07-18T15:51:59.508746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica de amostragem negativa que seleciona negativos difíceis das imediações de exemplos positivos no espaço de embeddings."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica de amostragem negativa que seleciona negativos difíceis das
+  imediações de exemplos positivos no espaço de embeddings.
 ---
-
 ## Definition
 
 A amostragem local caso-controle é uma estratégia usada principalmente no treinamento de modelos de aprendizado contrastivo ou sistemas de recomendação. Em vez de selecionar amostras negativas aleatoriamente, ela identifica 'negativos difíceis'

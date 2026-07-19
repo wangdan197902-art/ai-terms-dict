@@ -1,23 +1,24 @@
 ---
-title: "Batch-Verarbeitung"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Batch-Verarbeitung
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /de/terms/batch_processing/
-date: "2026-07-18T11:04:46.909855Z"
-lastmod: "2026-07-18T11:44:44.913746Z"
+slug: batch_processing
+date: '2026-07-18T11:04:46.909855Z'
+lastmod: '2026-07-18T11:44:44.913746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Rechenmethode, bei der Daten über einen Zeitraum gesammelt und in Gruppen statt einzeln verarbeitet werden."
+source: agnes_llm
+status: published
+language: de
+description: Eine Rechenmethode, bei der Daten über einen Zeitraum gesammelt und in
+  Gruppen statt einzeln verarbeitet werden.
 ---
-
 ## Definition
 
 Bei der Batch-Verarbeitung werden Dateneingaben zu einer Gruppe, einem sogenannten Batch, zusammengefasst, bevor eine Berechnung oder Modellanfrage ausgeführt wird. Dieser Ansatz steht im Gegensatz zur Echtzeit-Streaming-Verarbeitung, da er die

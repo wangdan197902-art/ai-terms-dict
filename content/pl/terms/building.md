@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /pl/terms/building/
 date: "2026-07-18T15:23:46.263034Z"
 lastmod: "2026-07-18T17:15:08.808093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Faza praktyczna polegająca na rozwijaniu, trenowaniu i wdrażaniu modeli oraz systemów sztucznej inteligencji, od początkowego projektu po gotowość produkcyjną."
 ---
-
 ## Definition
 
 Building odnosi się do procesu inżynieryjnego end-to-end tworzenia rozwiązań AI, który obejmuje zbieranie danych, dobór modelu, trening, walidację i wdrożenie. Obejmuje to infrastrukturę techniczną niezbędną do obsługi tych procesów.

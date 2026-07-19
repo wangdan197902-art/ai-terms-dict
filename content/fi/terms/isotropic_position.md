@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /fi/terms/isotropic_position/
 date: "2026-07-18T16:04:33.267505Z"
 lastmod: "2026-07-18T17:15:09.424044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Konveksin kappaleen geometrinen muunnos, jossa sen inertiamatriisi on verrannollinen identiteettimatriisiin, mikä yksinkertaistaa analyysiä."
 ---
-
 ## Definition
 
 Konveksissa geometriassa ja korkeadimensioisessa todennäköisyyslaskennassa pistejoukko tai konveksi kappale on isotrooppisessa asemassa, jos sen painopiste on origossa ja kovarianssimatriisi on skalaarikerroin kertaa identiteettimatriisi. Tämä asema standardoi kappaleen muodon, mikä helpottaa matemaattista analyysiä ja tilastollisia ominaisuuksien tutkimista.

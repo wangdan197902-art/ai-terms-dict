@@ -1,23 +1,24 @@
 ---
-title: "Özellik Mühendisliği"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: Özellik Mühendisliği
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /tr/terms/feature_engineering/
-date: "2026-07-18T15:53:15.971796Z"
-lastmod: "2026-07-18T16:38:07.308791Z"
+slug: feature_engineering
+date: '2026-07-18T15:53:15.971796Z'
+lastmod: '2026-07-18T16:38:07.308791Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Makine öğrenimi modellerinin performansını artırmak için alan bilgisinden yararlanarak yeni özellikler yaratmak veya mevcut olanları değiştirmek pratiğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Makine öğrenimi modellerinin performansını artırmak için alan bilgisinden
+  yararlanarak yeni özellikler yaratmak veya mevcut olanları değiştirmek pratiğidir.
 ---
-
 ## Definition
 
 Özellik mühendisliği, ham veriyi makine öğrenimi algoritmaları için altta yatan desenleri daha iyi temsil edecek şekilde dönüştürmek amacıyla alan uzmanlığını kullanma sanatıdır. Bu süreç yeni değişkenler oluşturmayı içerir.

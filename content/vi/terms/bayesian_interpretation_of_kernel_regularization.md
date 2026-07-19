@@ -1,23 +1,24 @@
 ---
-title: "Diễn giải Bayes của việc chính quy hóa nhân"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Diễn giải Bayes của việc chính quy hóa nhân
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /vi/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:42:27.521656Z"
-lastmod: "2026-07-18T16:38:07.732533Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:42:27.521656Z'
+lastmod: '2026-07-18T16:38:07.732533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khung lý thuyết liên kết các phương pháp nhân như SVM với Quá trình Gaussian dưới giả định tiên nghiệm Bayes."
+source: agnes_llm
+status: published
+language: vi
+description: Một khung lý thuyết liên kết các phương pháp nhân như SVM với Quá trình
+  Gaussian dưới giả định tiên nghiệm Bayes.
 ---
-
 ## Definition
 
 Khái niệm này thiết lập rằng việc cực tiểu hóa một hàm rủi ro có chính quy hóa với một nhân cụ thể tương đương với việc tìm kiếm ước lượng hậu nghiệm cực đại (MAP) trong khung Bayes. Cụ thể, nó liên kết việc chọn nhân với việc xác định phân phối tiên nghiệm.

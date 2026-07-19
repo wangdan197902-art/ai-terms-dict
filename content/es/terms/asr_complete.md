@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /es/terms/asr_complete/
 date: "2026-07-18T10:34:26.874308Z"
 lastmod: "2026-07-18T11:44:44.771692Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "ASR-complete describe un sistema de reconocimiento de voz que alcanza una precisión a nivel humano en conjuntos de datos de referencia estandarizados."
 ---
-
 ## Definition
 
 El término ASR-complete indica que un sistema de Reconocimiento Automático de Voz ha alcanzado un nivel de rendimiento comparable al de los transcritores humanos en tareas específicas y bien definidas. Esto marca un hito significativo en la capacidad de las máquinas para entender el habla natural sin errores perceptibles.

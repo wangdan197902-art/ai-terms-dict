@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /hu/terms/k_line/
 date: "2026-07-18T16:06:57.405212Z"
 lastmod: "2026-07-18T17:15:09.798695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy típusú pénzügyi diagram, más néven gyertyadiagram, amelyet az ármozgások vizualizálására használnak meghatározott időintervallumokban."
 ---
-
 ## Definition
 
 A K-vonalat, a nyugati piacokon gyakran gyertyadiagramnak nevezik, egy értékpapír, derivatív vagy deviza árdinamikájának grafikus ábrázolására használják. Négy kulcsfontosságú adatpontot jelenít meg: a nyitóárat, a...

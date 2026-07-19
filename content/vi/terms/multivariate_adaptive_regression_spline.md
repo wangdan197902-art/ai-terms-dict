@@ -1,23 +1,24 @@
 ---
-title: "Hồi quy spline thích ứng đa biến"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: Hồi quy spline thích ứng đa biến
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /vi/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:04:43.313588Z"
-lastmod: "2026-07-18T16:38:07.786224Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:04:43.313588Z'
+lastmod: '2026-07-18T16:38:07.786224Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật hồi quy phi tham số tự động chọn các hàm cơ sở để mô hình hóa các mối quan hệ phức tạp."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật hồi quy phi tham số tự động chọn các hàm cơ sở để mô hình
+  hóa các mối quan hệ phức tạp.
 ---
-
 ## Definition
 
 Hồi quy spline thích ứng đa biến (MARS) là một phương pháp hồi quy linh hoạt mô hình hóa các mối quan hệ phi tuyến phức tạp bằng cách khớp các hàm cơ sở tuyến tính từng khúc. Nó tự động chọn các nút (knots) và hình dạng của các hàm này để phù hợp với dữ liệu tốt nhất.

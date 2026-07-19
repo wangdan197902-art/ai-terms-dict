@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /pt/terms/empirical_dynamic_modeling/
 date: "2026-07-18T14:58:52.390308Z"
 lastmod: "2026-07-18T15:51:59.488191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma abordagem estatística não paramétrica usada para reconstruir a dinâmica de sistemas complexos a partir de dados de séries temporais observacionais."
 ---
-
 ## Definition
 
 A Modelagem Dinâmica Empírica (EDM) é um framework para analisar sistemas dinâmicos não lineares usando dados observacionais, sem assumir uma forma paramétrica específica. Ela depende do método de embutimento de Takens para reconstruir o espaço de estados a partir de uma única série temporal.

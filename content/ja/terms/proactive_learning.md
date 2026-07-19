@@ -1,23 +1,23 @@
 ---
-title: "能動的学習（プロアクティブ・ラーニング）"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: 能動的学習（プロアクティブ・ラーニング）
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /ja/terms/proactive_learning/
-date: "2026-07-18T11:28:29.050504Z"
-lastmod: "2026-07-18T11:44:45.133338Z"
+slug: proactive_learning
+date: '2026-07-18T11:28:29.050504Z'
+lastmod: '2026-07-18T11:44:45.133338Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "エージェントが受け身でデータを受け取るのではなく、情報的なデータポイントを積極的に選択して照会または探索する学習戦略。"
+source: agnes_llm
+status: published
+language: ja
+description: エージェントが受け身でデータを受け取るのではなく、情報的なデータポイントを積極的に選択して照会または探索する学習戦略。
 ---
-
 ## Definition
 
 能動的学習では、AIシステムが不確実性を最も減少させたり、モデルの性能を向上させたりするために、どのサンプルが最も効果的かを決定します。これは、パッシブラーニング（受動的学習）とは対照的です。

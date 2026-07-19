@@ -1,23 +1,24 @@
 ---
-title: "Geração"
-term_id: "generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "nlp", "multimodal"]
+title: Geração
+term_id: generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- NLP
+- multimodal
 difficulty: 3
 weight: 1
-slug: "generation"
-aliases:
-  - /pt/terms/generation/
-date: "2026-07-18T14:35:24.459068Z"
-lastmod: "2026-07-18T15:51:59.430570Z"
+slug: generation
+date: '2026-07-18T14:35:24.459068Z'
+lastmod: '2026-07-18T15:51:59.430570Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo pelo qual os modelos generativos criam novas instâncias de dados que se assemelham à distribuição de treinamento."
+source: agnes_llm
+status: published
+language: pt
+description: O processo pelo qual os modelos generativos criam novas instâncias de
+  dados que se assemelham à distribuição de treinamento.
 ---
-
 ## Definition
 
 Em inteligência artificial, geração refere-se à capacidade dos modelos, particularmente Redes Adversárias Generativas (GANs) e LLMs baseados em Transformers, de produzir conteúdo novo, como texto, imagens

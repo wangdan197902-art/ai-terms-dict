@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /nl/terms/game_theory/
 date: "2026-07-18T15:56:15.933843Z"
 lastmod: "2026-07-18T17:15:08.747075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De wiskundige studie van strategische interactie tussen rationele besluitvormers, waarbij uitkomsten afhangen van de acties van alle deelnemers."
 ---
-
 ## Definition
 
 Speltheorie is een tak van toegepaste wiskunde die strategische interacties tussen rationele agenten modelleert. Het analyseert situaties waarin het succes van één speler afhangt van de keuzes van anderen. Belangrijke concepten omvatten evenwichten en strategieën om optimale resultaten te bereiken in competitieve of cooperatieve omgevingen.

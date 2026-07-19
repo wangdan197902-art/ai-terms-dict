@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /ro/terms/agents/
 date: "2026-07-18T15:23:25.965322Z"
 lastmod: "2026-07-18T17:15:09.589106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Entități autonome care percep mediul și iau acțiuni pentru a atinge obiective specifice."
 ---
-
 ## Definition
 
 Agenții de IA sunt programe software sau sisteme capabile să perceapă împrejurimile prin senzori (intrări), să proceseze informațiile și să execute acțiuni prin actuatoare (ieșiri) pentru a atinge obiective definite

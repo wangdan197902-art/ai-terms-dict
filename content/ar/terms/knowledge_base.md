@@ -1,23 +1,24 @@
 ---
-title: "قاعدة المعرفة"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: قاعدة المعرفة
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /ar/terms/knowledge_base/
-date: "2026-07-18T15:37:27.951643Z"
-lastmod: "2026-07-18T17:15:08.462587Z"
+slug: knowledge_base
+date: '2026-07-18T15:37:27.951643Z'
+lastmod: '2026-07-18T17:15:08.462587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مستودع مركزي للمعلومات المهيكلة يُستخدم لدعم اتخاذ القرار والتوليد المعزز بالاسترجاع في تطبيقات الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: مستودع مركزي للمعلومات المهيكلة يُستخدم لدعم اتخاذ القرار والتوليد المعزز
+  بالاسترجاع في تطبيقات الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 تعمل قاعدة المعرفة كمكتبة رقمية تحتوي على بيانات مُنتقاة بعناية، أو وثائق، أو حقائق يمكن لأنظمة الذكاء الاصطناعي استعلامها لتقديم ردود دقيقة وتأخذ السياق في الاعتبار. في المعماريات الحديثة مثل التوليد المعزز بالاسترجاع

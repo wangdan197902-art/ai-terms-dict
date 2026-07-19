@@ -1,23 +1,24 @@
 ---
-title: "Tỷ lệ"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: Tỷ lệ
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /vi/terms/rate/
-date: "2026-07-18T15:28:15.925645Z"
-lastmod: "2026-07-18T16:38:07.693108Z"
+slug: rate
+date: '2026-07-18T15:28:15.925645Z'
+lastmod: '2026-07-18T16:38:07.693108Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Đo lường tần suất hoặc tốc độ, thường đề cập đến tỷ lệ học trong tối ưu hóa hoặc tốc độ tạo mã thông báo."
+source: agnes_llm
+status: published
+language: vi
+description: Đo lường tần suất hoặc tốc độ, thường đề cập đến tỷ lệ học trong tối
+  ưu hóa hoặc tốc độ tạo mã thông báo.
 ---
-
 ## Definition
 
 Trong AI, 'tỷ lệ' thường đề cập nhất đến tỷ lệ học (learning rate), một siêu tham số kiểm soát mức độ thay đổi của mô hình dựa trên lỗi ước tính mỗi khi trọng số mô hình được cập nhật. Tỷ lệ học phù hợp là rất quan trọng để đảm bảo mô hình hội tụ nhanh chóng mà không bị dao động.

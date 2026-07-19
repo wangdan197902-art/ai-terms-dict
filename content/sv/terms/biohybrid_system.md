@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /sv/terms/biohybrid_system/
 date: "2026-07-18T15:47:58.234747Z"
 lastmod: "2026-07-18T17:15:08.981476Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett integrerat system som kombinerar biologiska komponenter med konstgjorda enheter för att förbättra funktionaliteten eller skapa nya förmågor."
 ---
-
 ## Definition
 
 Biohybrida system slår samman levande vävnader, celler eller organismer med syntetiska material och elektroniska enheter. Dessa system syftar till att utnyttja de unika egenskaperna hos biologiska entiteter, såsom självläkning och energiproduktion, för att skapa mer effektiva och adaptiva teknologier.

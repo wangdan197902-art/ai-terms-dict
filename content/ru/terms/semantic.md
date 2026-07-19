@@ -1,23 +1,23 @@
 ---
-title: "Семантический"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: Семантический
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /ru/terms/semantic/
-date: "2026-07-18T15:29:19.618647Z"
-lastmod: "2026-07-18T16:38:07.090380Z"
+slug: semantic
+date: '2026-07-18T15:29:19.618647Z'
+lastmod: '2026-07-18T16:38:07.090380Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относящийся к значению в языке или данных, отличаясь от синтаксической структуры или формы."
+source: agnes_llm
+status: published
+language: ru
+description: Относящийся к значению в языке или данных, отличаясь от синтаксической
+  структуры или формы.
 ---
-
 ## Definition
 
 Семантический анализ в ИИ сосредоточен на понимании скрытого смысла входных данных, а не только их поверхностных паттернов. Это включает сопоставление слов или символов с концепциями и выявление связей...

@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /ar/terms/moe/
 date: "2026-07-18T16:13:34.727991Z"
 lastmod: "2026-07-18T17:15:08.529661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نمط معماري يجمع فيه عدة شبكات عصبية متخصصة (خبراء) عبر آلية توجيه لمعالجة المدخلات."
 ---
-
 ## Definition
 
 يُعد خليط الخبراء (MoE) بنية تعلم آلي مصممة لتحسين الكفاءة والقابلية للتوسع. بدلاً من استخدام نموذج كبير واحد لجميع المهام، يستخدم MoE عدة نماذج أصغر تُعرف بـ

@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /no/terms/ai_washing/
 date: "2026-07-18T15:40:26.494940Z"
 lastmod: "2026-07-18T16:38:06.966786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Praksisen med å overdre eller falskt hevde at produkter eller tjenester bruker kunstig intelligens for markedsføringsformål."
 ---
-
 ## Definition
 
 AI-vasking er et begrep analogt med grønnvasking, som beskriver en villedende markedsføringsstrategi der bedrifter hevder at produktene deres inkluderer avansert AI, når de egentlig stoler på enkle regelbaserte algoritmer.

@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /sv/terms/bpe/
 date: "2026-07-18T15:37:32.516149Z"
 lastmod: "2026-07-18T17:15:08.960649Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Byte Pair Encoding är en algoritm som används för subordstokenisering och som iterativt slår samman de mest frekventa teckenparen för att bygga ett ordförråd."
 ---
-
 ## Definition
 
 Byte Pair Encoding (BPE) är en datakompressionsteknik som har anpassats för bearbetning av naturligt språk för att hantera ord utanför ordförrådet. Den börjar med ett ordförråd bestående av enskilda tecken och slår sedan iterativt samman

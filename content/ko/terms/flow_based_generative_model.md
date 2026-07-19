@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /ko/terms/flow_based_generative_model/
 date: "2026-07-18T15:56:02.182961Z"
 lastmod: "2026-07-18T16:38:06.841173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "단순한 분포를 복잡한 데이터 분포로 매핑하기 위해 가역 변환을 사용하는 생성 모델의 한 종류입니다."
 ---
-
 ## Definition
 
 흐름 기반 생성 모델은 가우시안과 같은 간단한 기본 분포에 일련의 가역적이고 미분 가능한 변환을 적용하여 복잡한 확률 분포를 구성합니다. 이러한 모델은 정확한 우도(exact likelihood) 계산을 가능하게 하며, 데이터 생성 및 밀도 추정에 효과적입니다.

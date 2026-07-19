@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /vi/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:47:35.714658Z"
 lastmod: "2026-07-18T16:38:07.743848Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tập dữ liệu đa phương thức liên kết 31.000 hình ảnh với các chú thích do con người tạo ra để huấn luyện các mô hình nhúng xuyên phương thức."
 ---
-
 ## Definition
 
 Flickr30K Captions là một tập dữ liệu chuẩn mực được sử dụng rộng rãi, bao gồm 31.783 hình ảnh, mỗi hình được chú thích bằng năm câu tiếng Anh riêng biệt mô tả nội dung trực quan. Đây là nguồn tài nguyên nền tảng.

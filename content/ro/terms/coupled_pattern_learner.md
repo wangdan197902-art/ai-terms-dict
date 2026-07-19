@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /ro/terms/coupled_pattern_learner/
 date: "2026-07-18T15:50:59.456342Z"
 lastmod: "2026-07-18T17:15:09.640522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare algoritmică care învață relațiile dintre două seturi distincte, dar corelate, de tipare sau caracteristici simultan."
 ---
-
 ## Definition
 
 Învățătorii cuplați de tipare sunt concepuți pentru a gestiona datele în care instanțele din două spații diferite sunt legate, cum ar fi imaginile și descrierile lor textuale. Prin modelarea distribuției comune sau corelației dintre aceste spații, se pot extrage reprezentări mai robuste.

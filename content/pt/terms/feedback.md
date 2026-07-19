@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /pt/terms/feedback/
 date: "2026-07-18T14:34:58.522535Z"
 lastmod: "2026-07-18T15:51:59.429525Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Feedback envolve usar os resultados de saída para ajustar e melhorar iterativamente o desempenho de um modelo ou sistema de IA."
 ---
-
 ## Definition
 
 Mecanismos de feedback permitem que os sistemas de IA aprendam com suas interações com usuários ou ambientes, refinando previsões ou ações futuras. Isso inclui sinais de aprendizado por reforço, humanos no loop e correção de erros.

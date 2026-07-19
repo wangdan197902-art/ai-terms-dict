@@ -1,23 +1,24 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /tr/terms/comfyui/
-date: "2026-07-18T15:45:27.260658Z"
-lastmod: "2026-07-18T16:38:07.283671Z"
+slug: comfyui
+date: '2026-07-18T15:45:27.260658Z'
+lastmod: '2026-07-18T16:38:07.283671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Karmaşık iş akışı oluşturma ve görüntü üretimi üzerinde ince granüler kontrol sağlayan, Stable Diffusion için düğüm tabanlı bir grafik kullanıcı arayüzü."
+source: agnes_llm
+status: published
+language: tr
+description: Karmaşık iş akışı oluşturma ve görüntü üretimi üzerinde ince granüler
+  kontrol sağlayan, Stable Diffusion için düğüm tabanlı bir grafik kullanıcı arayüzü.
 ---
-
 ## Definition
 
 ComfyUI, Stable Diffusion modelleri için güçlü, modüler ve düğüm tabanlı bir GUI'dir. Doğrusal iş akışları sunan geleneksel arayüzlerin aksine, ComfyUI kullanıcıların birbirine bağlayarak özel boru hatları (pipeline) oluşturmasına olanak tanır. Bu yaklaşım, görüntü üretim süreçlerinde yüksek düzeyde özelleştirme ve esneklik sağlar.

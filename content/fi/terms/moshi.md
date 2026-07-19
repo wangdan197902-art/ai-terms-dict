@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /fi/terms/moshi/
 date: "2026-07-18T16:11:30.339927Z"
 lastmod: "2026-07-18T17:15:09.436180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kyutain kehittämä puhe- ja kielimalli, joka oppii teksti- ja ääni-esityksiä yhteisesti saumattomaan monimuotoiseen vuorovaikutukseen."
 ---
-
 ## Definition
 
 Moshi on Kyutain kehittynyt tekoälymalli, joka integroi puheen ja tekstin käsittelyn yhtenäiseksi kehykseksi. Toisin kuin perinteiset järjestelmät, jotka muuntavat puheen tekstiksi ennen käsittelyä, Moshi oppii yhteisiä esityksiä.

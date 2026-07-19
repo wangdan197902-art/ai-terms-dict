@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /hu/terms/machine_learning_control/
 date: "2026-07-18T16:11:36.331572Z"
 lastmod: "2026-07-18T17:15:09.809249Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy vezérlési elméleti megközelítés, ahol a gépi tanulási algoritmusok adaptívan kezelik a rendszer dinamikáját a valós idejű teljesítményoptimalizálás érdekében."
 ---
-
 ## Definition
 
 A gépi tanuláson alapuló vezérlés integrálja az adaptív algoritmusokat a hagyományos vezérlőrendszerekkel, hogy kezeljék a nemlineáris vagy bizonytalan környezeteket. A statikus vezérlőkkel ellentétben ezek a rendszerek tanulnak az üzemeltetési adatokból, és folyamatosan igazítják a vezérlési stratégiákat a változó körülményekhez.

@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /ko/terms/serverless/
 date: "2026-07-18T16:15:19.466610Z"
 lastmod: "2026-07-18T16:38:06.907551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "사용자가 아닌 제공자가 기계 자원 할당을 동적으로 관리하는 클라우드 컴퓨팅 실행 모델입니다."
 ---
-
 ## Definition
 
 서버리스 아키텍처를 사용하면 개발자는 서버 인프라를 관리하지 않고도 애플리케이션을 구축하고 실행할 수 있습니다. 클라우드 제공업체는 수요에 따라 리소스를 자동으로 확장하거나 축소하며, 실제 사용량에 기반하여 과금합니다.

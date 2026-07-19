@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /ko/terms/backdoor_attack/
 date: "2026-07-18T16:21:03.346707Z"
 lastmod: "2026-07-18T16:38:06.921397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "악의적 행위자가 모델 학습 중 숨겨진 트리거를 삽입하여 특정 조건에서 오분류를 유발하는 보안 위협입니다."
 ---
-
 ## Definition
 
 백도어 공격은 머신러닝 모델의 학습 데이터에 '트리거'라고 불리는 특정 패턴을 포함시켜 데이터를 오염시키는 기법입니다. 정상적인 입력 데이터에 대해서는 모델이 일반적으로 높은 성능을 보이지만, 악의적으로 삽입된 트리거가 포함된 입력이 들어오면 의도한 잘못된 분류나 출력을 수행하도록 모델을 조작합니다.

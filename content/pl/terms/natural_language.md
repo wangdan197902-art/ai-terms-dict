@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /pl/terms/natural_language/
 date: "2026-07-18T15:32:22.910877Z"
 lastmod: "2026-07-18T17:15:08.827268Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Standardowa metoda komunikacji ludzkiej, charakteryzująca się gramatyką, słownictwem i kontekstem, w przeciwieństwie do formalnych języków komputerowych."
 ---
-
 ## Definition
 
 Język naturalny odnosi się do sposobu, w jaki ludzie mówią i piszą, obejmując wszystkie jego niejednoznaczności, idiomaty i kulturowe niuanse. W SI przetwarzanie języka naturalnego obejmuje zrozumienie składni, semantyki i...

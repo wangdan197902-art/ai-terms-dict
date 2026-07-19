@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /ar/terms/spatial_intelligence/
 date: "2026-07-18T16:21:44.120575Z"
 lastmod: "2026-07-18T17:15:08.549840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "قدرة أنظمة الذكاء الاصطناعي على فهم البيئات ثلاثية الأبعاد والاستدلال عليها والتنقل فيها."
 ---
-
 ## Definition
 
 يشير الذكاء المكاني إلى قدرة نماذج الذكاء الاصطناعي على إدراك وتفسير والتلاعب بالعلاقات المكانية داخل البيئات الفعلية أو الافتراضية. يتضمن ذلك فهم العلاقات الهندسية والمكانية.

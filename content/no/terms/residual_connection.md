@@ -1,23 +1,24 @@
 ---
-title: "Restforbindelse"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Restforbindelse
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /no/terms/residual_connection/
-date: "2026-07-18T15:38:34.878744Z"
-lastmod: "2026-07-18T16:38:06.962281Z"
+slug: residual_connection
+date: '2026-07-18T15:38:34.878744Z'
+lastmod: '2026-07-18T16:38:06.962281Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En mekanisme som legger til input direkte på utgangen av et lag for å lette gradientflyt i dype nettverk."
+source: agnes_llm
+status: published
+language: 'no'
+description: En mekanisme som legger til input direkte på utgangen av et lag for å
+  lette gradientflyt i dype nettverk.
 ---
-
 ## Definition
 
 Restforbindelser, også kjent som hoppforbindelser (skip connections), lar gradienter fly gjennom et nettverk ved å legge til en input direkte på utgangen av et påfølgende lag. Denne arkitekturen løser problemet med forsvinnende gradienter (vanishing gradient problem) og muliggjør trening av svært dype neurale nettverk.

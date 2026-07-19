@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /sv/terms/dynamic/
 date: "2026-07-18T15:25:19.412380Z"
 lastmod: "2026-07-18T17:15:08.940378Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Dynamisk avser AI-system eller beräkningsgrafer som anpassar sin struktur, beteende eller exekveringsflöde i realtid baserat på indata eller miljöförändringar."
 ---
-
 ## Definition
 
 Till skillnad från statiska system med fasta arkitekturer eller förbestämda exekveringsvägar kan dynamiska AI-system modifiera sina operationer under körning. Inom djupinlärning möjliggör dynamiska beräkningsgrafer att nätverksstrukturen ändras beroende på indata, vilket är särskilt användbart för variabla sekvenser.

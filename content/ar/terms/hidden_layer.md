@@ -1,23 +1,24 @@
 ---
-title: "الطبقة المخفية"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: الطبقة المخفية
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /ar/terms/hidden_layer/
-date: "2026-07-18T16:00:47.316641Z"
-lastmod: "2026-07-18T17:15:08.511919Z"
+slug: hidden_layer
+date: '2026-07-18T16:00:47.316641Z'
+lastmod: '2026-07-18T17:15:08.511919Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طبقة وسيطة في الشبكة العصبية تقع بين طبقات الإدخال والإخراج وتقوم بمعالجة الميزات."
+source: agnes_llm
+status: published
+language: ar
+description: طبقة وسيطة في الشبكة العصبية تقع بين طبقات الإدخال والإخراج وتقوم بمعالجة
+  الميزات.
 ---
-
 ## Definition
 
 تتكون الطبقة المخفية من عصبونات تتلقى مدخلات من الطبقات السابقة، وتطبق الأوزان والانحيازات، ثم تمرر البيانات المحولة للأمام عبر دالة التنشيط. تتيح هذه الطبقات للشبكات العصبية

@@ -1,23 +1,25 @@
 ---
-title: "IA Centrada em Dados"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: IA Centrada em Dados
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /pt/terms/data_centric_ai/
-date: "2026-07-18T14:55:26.433258Z"
-lastmod: "2026-07-18T15:51:59.476831Z"
+slug: data_centric_ai
+date: '2026-07-18T14:55:26.433258Z'
+lastmod: '2026-07-18T15:51:59.476831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma abordagem para o desenvolvimento de IA que prioriza a melhoria da qualidade e da quantidade dos dados de treinamento em vez de modificar as arquiteturas dos modelos."
+source: agnes_llm
+status: published
+language: pt
+description: Uma abordagem para o desenvolvimento de IA que prioriza a melhoria da
+  qualidade e da quantidade dos dados de treinamento em vez de modificar as arquiteturas
+  dos modelos.
 ---
-
 ## Definition
 
 A IA Centrada em Dados representa uma mudança de paradigma no desenvolvimento de inteligência artificial, focando na melhoria sistemática dos dados usados para treinar modelos, em vez de otimizar exclusivamente os algoritmos ou hiperparâmetros.

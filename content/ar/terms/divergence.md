@@ -1,23 +1,24 @@
 ---
-title: "التباعد"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: التباعد
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /ar/terms/divergence/
-date: "2026-07-18T15:25:14.806441Z"
-lastmod: "2026-07-18T17:15:08.436461Z"
+slug: divergence
+date: '2026-07-18T15:25:14.806441Z'
+lastmod: '2026-07-18T17:15:08.436461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير التباعد إلى فشل دالة الخسارة في خوارزمية التعلم الآلي في الانخفاض أثناء التدريب، مما يؤدي إلى أداء غير مستقر أو متدهور."
+source: agnes_llm
+status: published
+language: ar
+description: يشير التباعد إلى فشل دالة الخسارة في خوارزمية التعلم الآلي في الانخفاض
+  أثناء التدريب، مما يؤدي إلى أداء غير مستقر أو متدهور.
 ---
-
 ## Definition
 
 في سياق التحسين، يحدث التباعد عندما تتحدث معاملات النموذج بطريقة تسبب زيادة الخسارة بدلاً من انخفاضها، وغالباً ما يؤدي ذلك إلى قيم غير رقمية (NaN) أو تدرجات لا نهائية.

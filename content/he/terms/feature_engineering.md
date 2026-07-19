@@ -1,23 +1,24 @@
 ---
-title: "הנדסת תכונות"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: הנדסת תכונות
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /he/terms/feature_engineering/
-date: "2026-07-18T15:57:04.370948Z"
-lastmod: "2026-07-18T17:15:09.540036Z"
+slug: feature_engineering
+date: '2026-07-18T15:57:04.370948Z'
+lastmod: '2026-07-18T17:15:09.540036Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "הפרקטיקה של שימוש בידע בתחום כדי ליצור תכונות חדשות או לשנות קיימות כדי לשפר את הביצועים של מודלי למידת מכונה."
+source: agnes_llm
+status: published
+language: he
+description: הפרקטיקה של שימוש בידע בתחום כדי ליצור תכונות חדשות או לשנות קיימות כדי
+  לשפר את הביצועים של מודלי למידת מכונה.
 ---
-
 ## Definition
 
 הנדסת תכונות היא האמנות של ניצול מומחיות בתחום כדי להמיר נתונים גולמיים לתכונות המייצגות טוב יותר את התבניות הבסיסיות בפני אלגוריתמי למידת מכונה. תהליך זה כולל יצירה, סינון ועיצוב מחדש של נתונים.

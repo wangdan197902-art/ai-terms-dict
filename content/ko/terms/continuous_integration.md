@@ -1,23 +1,23 @@
 ---
-title: "지속적 통합(Continuous Integration)"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: 지속적 통합(Continuous Integration)
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /ko/terms/continuous_integration/
-date: "2026-07-18T15:33:51.302540Z"
-lastmod: "2026-07-18T16:38:06.793664Z"
+slug: continuous_integration
+date: '2026-07-18T15:33:51.302540Z'
+lastmod: '2026-07-18T16:38:06.793664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "개발자들이 코드 변경 사항을 중앙 저장소에 자주 병합하고, 이를 통해 자동화된 빌드와 테스트를 트리거하는 소프트웨어 개발 관행입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 개발자들이 코드 변경 사항을 중앙 저장소에 자주 병합하고, 이를 통해 자동화된 빌드와 테스트를 트리거하는 소프트웨어 개발 관행입니다.
 ---
-
 ## Definition
 
 지속적 통합(CI)은 여러 기여자의 코드 변경 사항을 단일 소프트웨어 프로젝트에 자동으로 통합하는 중요한 DevOps 관행입니다. 자동화된 빌드와 테스트를 실행함으로써 통합 오류를 조기에 발견하고, 소프트웨어 배포의 안정성과 품질을 보장하며, 팀의 협업 효율성을 높입니다.

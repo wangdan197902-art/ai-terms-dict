@@ -1,23 +1,25 @@
 ---
-title: "Uczenie metryczne"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: Uczenie metryczne
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /pl/terms/meta_learning/
-date: "2026-07-18T16:07:09.685538Z"
-lastmod: "2026-07-18T17:15:08.896955Z"
+slug: meta_learning
+date: '2026-07-18T16:07:09.685538Z'
+lastmod: '2026-07-18T17:15:08.896955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Uczenie metryczne, zwane również uczeniem się uczenia, to podejście w uczeniu maszynowym umożliwiające modelom szybkie dostosowanie się do nowych zadań przy użyciu minimalnej ilości danych poprzez wyk"
+source: agnes_llm
+status: published
+language: pl
+description: Uczenie metryczne, zwane również uczeniem się uczenia, to podejście w
+  uczeniu maszynowym umożliwiające modelom szybkie dostosowanie się do nowych zadań
+  przy użyciu minimalnej ilości danych poprzez wyk
 ---
-
 ## Definition
 
 Uczenie metryczne koncentruje się na projektowaniu algorytmów, które mogą uczyć się na podstawie poprzednich zadań, aby poprawić wydajność w nowych, wcześniej niewidzianych zadaniach. Zamiast trenowania modelu od zera dla każdego problemu, optymalizuje on proces adaptacji.

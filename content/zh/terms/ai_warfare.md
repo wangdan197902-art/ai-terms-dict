@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /zh/terms/ai_warfare/
 date: "2026-07-18T11:03:30.831563Z"
 lastmod: "2026-07-18T11:44:45.436340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将人工智能技术应用于军事行动、监视和自主武器系统。"
 ---
-
 ## Definition
 
 AI战争指的是将人工智能整合到军事战略中，包括自主无人机、预测性后勤、网络防御以及为指挥官提供决策支持的系统。

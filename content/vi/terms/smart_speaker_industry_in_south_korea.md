@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /vi/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:12:15.173474Z"
 lastmod: "2026-07-18T16:38:07.805622Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Hệ sinh thái thị trường bao gồm các nhà sản xuất phần cứng và nhà cung cấp dịch vụ AI cung cấp các thiết bị điều khiển bằng giọng nói tại Hàn Quốc."
 ---
-
 ## Definition
 
 Thuật ngữ này đề cập đến các động lực thị trường khu vực cụ thể xung quanh loa thông minh tại Hàn Quốc, đặc trưng bởi tỷ lệ sử dụng điện thoại thông minh cao và cơ sở hạ tầng băng thông rộng tiên tiến. Nó liên quan đến các yếu tố chính như...

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Ροή Εργασίας Stable Video Diffusion"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Ροή Εργασίας Stable Video Diffusion'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /el/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T16:03:56.028080Z"
-lastmod: "2026-07-18T17:15:09.902141Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T16:03:56.028080Z'
+lastmod: '2026-07-18T17:15:09.902141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια ροή εργασίας (pipeline) του Hugging Face Diffusers που χρησιμοποιεί το μοντέλο Stable Video Diffusion για τη δημιουργία βίντεο από στατικές εικόνες."
+source: agnes_llm
+status: published
+language: el
+description: Μια ροή εργασίας (pipeline) του Hugging Face Diffusers που χρησιμοποιεί
+  το μοντέλο Stable Video Diffusion για τη δημιουργία βίντεο από στατικές εικόνες.
 ---
-
 ## Definition
 
 Ο όρος αναφέρεται σε μια συγκεκριμένη υλοποίηση στη βιβλιοθήκη Hugging Face Diffusers, σχεδιασμένη για τη δημιουργία βίντεο. Ενσωματώνει το μοντέλο Stable Video Diffusion (SVD), το οποίο είναι ένα μοντέλο διάχυσης κρυφού χώρου (latent space) για βίντεο.

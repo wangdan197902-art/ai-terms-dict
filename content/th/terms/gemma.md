@@ -1,23 +1,24 @@
 ---
-title: "เจมมา (Gemma)"
-term_id: "gemma"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "google", "open-source"]
+title: เจมมา (Gemma)
+term_id: gemma
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- google
+- Open Source
 difficulty: 3
 weight: 1
-slug: "gemma"
-aliases:
-  - /th/terms/gemma/
-date: "2026-07-18T15:55:54.377747Z"
-lastmod: "2026-07-18T16:38:07.608828Z"
+slug: gemma
+date: '2026-07-18T15:55:54.377747Z'
+lastmod: '2026-07-18T16:38:07.608828Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เจมมาคือตระกูลโมเดลเปิดขนาดกะทัดรัดและทันสมัยที่สุดที่พัฒนาโดย Google DeepMind โดยอ้างอิงจากงานวิจัยและเทคโนโลยีของเจมินี"
+source: agnes_llm
+status: published
+language: th
+description: เจมมาคือตระกูลโมเดลเปิดขนาดกะทัดรัดและทันสมัยที่สุดที่พัฒนาโดย Google
+  DeepMind โดยอ้างอิงจากงานวิจัยและเทคโนโลยีของเจมินี
 ---
-
 ## Definition
 
 โมเดลเจมมาถูกออกแบบมาให้มีประสิทธิภาพและเข้าถึงได้ง่ายสำหรับนักวิจัยและนักพัฒนา โดยมีหลายขนาดให้เลือก เช่น รุ่น 2B และ 7B พารามิเตอร์ ซึ่งช่วยให้สามารถนำไปใช้งานได้บนฮาร์ดแวร์ที่หลากหลาย

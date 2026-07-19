@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /pt/terms/quantum_artificial_life/
 date: "2026-07-18T15:18:46.723155Z"
 lastmod: "2026-07-18T15:51:59.526348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A vida artificial quântica é um campo que estuda sistemas autônomos e processos evolutivos utilizando princípios da computação quântica."
 ---
-
 ## Definition
 
 A vida artificial quântica (QAL) explora a interseção entre a mecânica quântica e a pesquisa em vida artificial, visando simular a evolução biológica e sistemas auto-replicantes usando computadores quânticos.

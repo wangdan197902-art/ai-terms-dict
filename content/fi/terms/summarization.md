@@ -1,23 +1,24 @@
 ---
-title: "Yhteenveto"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Yhteenveto
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /fi/terms/summarization/
-date: "2026-07-18T15:38:32.320007Z"
-lastmod: "2026-07-18T17:15:09.375375Z"
+slug: summarization
+date: '2026-07-18T15:38:32.320007Z'
+lastmod: '2026-07-18T17:15:09.375375Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Luonnollisen kielen käsittelyn tehtävä, jossa tuotetaan tiivis ja johdonmukainen yhteenveto pidemmästä tekstistä säilyttäen sen keskeinen tieto."
+source: agnes_llm
+status: published
+language: fi
+description: Luonnollisen kielen käsittelyn tehtävä, jossa tuotetaan tiivis ja johdonmukainen
+  yhteenveto pidemmästä tekstistä säilyttäen sen keskeinen tieto.
 ---
-
 ## Definition
 
 Tekstin tiivistäminen supistaa suuret tekstimäärät lyhyempiin versioihin menettämättä kriittistä merkitystä. Se voi olla ekstraktiivista, eli valita tärkeimmät lauseet lähdetekstistä, tai abstraktiivista, eli tuottaa uutta tekstiä.

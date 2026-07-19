@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /vi/terms/local_llm/
 date: "2026-07-18T16:01:01.080920Z"
 lastmod: "2026-07-18T16:38:07.777454Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Local LLM đề cập đến việc chạy các mô hình ngôn ngữ lớn trên phần cứng cá nhân thay vì dịch vụ đám mây, ưu tiên quyền riêng tư dữ liệu và khả năng truy cập ngoại tuyến."
 ---
-
 ## Definition
 
 Chạy Local LLM liên quan đến việc triển khai các mô hình trọng số mở trực tiếp trên phần cứng dành cho người dùng cuối như PC, Mac hoặc máy chủ cục bộ. Cách tiếp cận này loại bỏ sự phụ thuộc vào nhà cung cấp API bên thứ ba, đảm bảo...

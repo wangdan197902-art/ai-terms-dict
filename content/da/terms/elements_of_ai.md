@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /da/terms/elements_of_ai/
 date: "2026-07-18T15:54:21.737144Z"
 lastmod: "2026-07-18T17:15:09.284201Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Elements of AI er et gratis onlinekursus designet til at give en bred, ikke-teknisk introduktion til begreber inden for kunstig intelligens og deres samfundsmæssige betydning."
 ---
-
 ## Definition
 
 Oprettet af Universitetet i Helsinki og Reaktor sigter denne uddannelsesinitiativ mod at afmystificere AI for almenheden. Det dækker grundlæggende emner såsom maskinlæring, deep learning, etik.

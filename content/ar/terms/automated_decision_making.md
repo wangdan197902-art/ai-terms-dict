@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /ar/terms/automated_decision_making/
 date: "2026-07-18T15:46:20.962215Z"
 lastmod: "2026-07-18T17:15:08.478878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "العملية التي تختار فيها الخوارزميات إجراءات أو نتائج بشكل مستقل بناءً على مدخلات البيانات دون إشراف بشري مباشر."
 ---
-
 ## Definition
 
 يعتمد اتخاذ القرار الآلي (ADM) على أنظمة برمجية لاتخاذ خيارات كانت تتطلب سابقاً الحكم البشري. وهو شائع في تقييم الائتمان ومراقبة المحتوى والخدمات اللوجستية، حيث يستخدم قواعد محددة مسبقاً.

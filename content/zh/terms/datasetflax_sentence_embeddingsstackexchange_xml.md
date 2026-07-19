@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /zh/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T11:13:01.751995Z"
 lastmod: "2026-07-18T11:44:45.477537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个源自 Stack Exchange XML 转储的数据集，用于训练专注于技术和社区驱动问答内容的句子嵌入模型。"
 ---
-
 ## Definition
 
 该数据集从 Stack Exchange XML 文件中提取句子级别的数据，提供了丰富的技术讨论、代码片段和问题解决对话资源。它专门用于...

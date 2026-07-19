@@ -1,23 +1,24 @@
 ---
-title: "Zásada racionality"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Zásada racionality
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /cs/terms/principle_of_rationality/
-date: "2026-07-18T16:13:23.362621Z"
-lastmod: "2026-07-18T17:15:09.190782Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:13:23.362621Z'
+lastmod: '2026-07-18T17:15:09.190782Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Základní předpoklad, že inteligentní agenti jednají tak, aby maximalizovali svou očekávanou užitnost na základě dostupných informací."
+source: agnes_llm
+status: published
+language: cs
+description: Základní předpoklad, že inteligentní agenti jednají tak, aby maximalizovali
+  svou očekávanou užitnost na základě dostupných informací.
 ---
-
 ## Definition
 
 Tato zásada tvrdí, že akce agenta by měly být voleny tak, aby maximalizovaly jeho očekávaný výkon, s ohledem na jeho vnímané vstupy a předchozí znalosti. Slouží jako základ pro teorii rozhodování.

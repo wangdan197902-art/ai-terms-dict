@@ -1,23 +1,26 @@
 ---
-title: "Adatbázis: Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: 'Adatbázis: Ms Marco'
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /hu/terms/datasetms_marco/
-date: "2026-07-18T15:55:03.106300Z"
-lastmod: "2026-07-18T17:15:09.770424Z"
+slug: datasetms_marco
+date: '2026-07-18T15:55:03.106300Z'
+lastmod: '2026-07-18T17:15:09.770424Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Microsoft Gépi Olvasási Megértési Adatbázisa, egy nagyméretű gyűjtemény valós keresési lekérdezésekből és releváns dokumentumrészletekből, amelyet információkereső rendszerek képzésére használnak."
+source: agnes_llm
+status: published
+language: hu
+description: A Microsoft Gépi Olvasási Megértési Adatbázisa, egy nagyméretű gyűjtemény
+  valós keresési lekérdezésekből és releváns dokumentumrészletekből, amelyet információkereső
+  rendszerek képzésére használnak.
 ---
-
 ## Definition
 
 Az MS MARCO (Microsoft Machine Reading Comprehension) széles körben használt adatbázis a természetes nyelvfeldolgozásban, különösen az információkeresés és a kérdés-válasz rendszerek területén. Anonimizált keresési lekérdezésekből és a hozzájuk tartozó válaszokat tartalmazó szövegrészletekből áll.

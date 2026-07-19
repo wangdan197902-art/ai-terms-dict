@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /ja/terms/multi_modality/
 date: "2026-07-18T11:24:43.474138Z"
 lastmod: "2026-07-18T11:44:45.124570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "マルチモーダル性は、機械学習アーキテクチャ内で複数の異なるデータタイプを使用することに関する、より広範な概念または研究分野です。"
 ---
-
 ## Definition
 
 マルチモーダル性は、AIモデルが異種データストリームを処理できるようにするアーキテクチャ的かつ理論的な枠組みを表します。これは、様々な

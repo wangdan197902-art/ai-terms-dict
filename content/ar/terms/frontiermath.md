@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /ar/terms/frontiermath/
-date: "2026-07-18T15:58:36.293020Z"
-lastmod: "2026-07-18T17:15:08.505949Z"
+slug: frontiermath
+date: '2026-07-18T15:58:36.293020Z'
+lastmod: '2026-07-18T17:15:08.505949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مجموعة بيانات معيارية مصممة لتقييم قدرات الاستدلال الرياضي المتقدمة لدى نماذج الذكاء الاصطناعي الحديثة."
+source: agnes_llm
+status: published
+language: ar
+description: مجموعة بيانات معيارية مصممة لتقييم قدرات الاستدلال الرياضي المتقدمة لدى
+  نماذج الذكاء الاصطناعي الحديثة.
 ---
-
 ## Definition
 
 يُعد FrontierMath مجموعة تقييم متخصصة تم إنشاؤها لاختبار حدود النماذج اللغوية الكبيرة في حل المشكلات الرياضية المعقدة. وعلى عكس معايير الحساب القياسية، يركز هذا المعيار على النماذج ذات الأداء العالي (state-of-the-art) في التعامل مع المسائل الرياضية المتعمقة.

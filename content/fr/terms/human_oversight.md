@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /fr/terms/human_oversight/
 date: "2026-07-18T11:22:27.768534Z"
 lastmod: "2026-07-18T11:44:45.271251Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La pratique consistant à maintenir le contrôle humain et la révision des systèmes d'IA automatisés afin d'assurer la sécurité, la précision et la conformité éthique."
 ---
-
 ## Definition
 
 La supervision humaine fait référence aux mécanismes et processus par lesquels les humains surveillent, évaluent et interviennent dans les décisions ou actions pilotées par l'IA. Ce concept est crucial pour garantir que les systèmes automatisés fonctionnent de manière sûre et responsable.

@@ -1,23 +1,22 @@
 ---
-title: "Through"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: Through
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /fi/terms/through/
-date: "2026-07-18T15:31:40.344130Z"
-lastmod: "2026-07-18T17:15:09.360964Z"
+slug: through
+date: '2026-07-18T15:31:40.344130Z'
+lastmod: '2026-07-18T17:15:09.360964Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Through on prepositio eikä se ole spesifi tekninen termi tekoälyn alalla."
+source: agnes_llm
+status: published
+language: fi
+description: Through on prepositio eikä se ole spesifi tekninen termi tekoälyn alalla.
 ---
-
 ## Definition
 
 Sanalla 'through' ei ole itsenäistä määritelmää tekoälyterminologiassa. Sitä käytetään yleensä ilmauksissa, kuten 'throughput' (käsittelynopeus) tai kuvattaessa signaalien kulkemista solujen läpi neuroverkoissa. Ilman kontekstia sana ei ole tekninen termi...

@@ -1,23 +1,24 @@
 ---
-title: "Graf"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Graf
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /tr/terms/graph/
-date: "2026-07-18T15:25:38.839549Z"
-lastmod: "2026-07-18T16:38:07.233744Z"
+slug: graph
+date: '2026-07-18T15:25:38.839549Z'
+lastmod: '2026-07-18T16:38:07.233744Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Varlıklar arasındaki ilişkileri temsil etmek için kullanılan, kenarlarla birbirine bağlanmış düğümlerden oluşan matematiksel yapı."
+source: agnes_llm
+status: published
+language: tr
+description: Varlıklar arasındaki ilişkileri temsil etmek için kullanılan, kenarlarla
+  birbirine bağlanmış düğümlerden oluşan matematiksel yapı.
 ---
-
 ## Definition
 
 Graf, yapay zekada temel bir veri yapısıdır; ilişkileri gösteren köşeler (düğümler) ve kenarlar (bağlantılar) içerir. Grafik Sinir Ağları (GNN'ler), bu yapıyı Öklid olmayan veri üzerinde öğrenme yapmak için kullanır.

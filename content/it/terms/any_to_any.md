@@ -1,23 +1,24 @@
 ---
-title: "Any To Any"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Any To Any
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /it/terms/any_to_any/
-date: "2026-07-18T15:46:43.039465Z"
-lastmod: "2026-07-18T17:15:08.597806Z"
+slug: any_to_any
+date: '2026-07-18T15:46:43.039465Z'
+lastmod: '2026-07-18T17:15:08.597806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una capacità dell'IA generativa che consente ai modelli di convertire l'input da una modalità direttamente in output in un'altra modalità arbitraria."
+source: agnes_llm
+status: published
+language: it
+description: Una capacità dell'IA generativa che consente ai modelli di convertire
+  l'input da una modalità direttamente in output in un'altra modalità arbitraria.
 ---
-
 ## Definition
 
 Any-to-any si riferisce ad architetture multimodali unificate in grado di gestire varie combinazioni di input-output, come testo-immagine, immagine-testo o audio-video. A differenza dei modelli specializzati, questi sistemi offrono flessibilità nella trasformazione tra domini diversi.

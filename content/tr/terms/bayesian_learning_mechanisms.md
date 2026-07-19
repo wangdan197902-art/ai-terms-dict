@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /tr/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:43:27.254163Z"
 lastmod: "2026-07-18T16:38:07.278318Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Model parametrelerini sabit değerler yerine olasılık dağılımlarına sahip rastgele değişkenler olarak ele alan öğrenme paradigmaları."
 ---
-
 ## Definition
 
 Bayesçi öğrenme mekanizmaları, Bayes teoremini kullanarak model parametreleri hakkındaki inançları günceller; öncül bilgileri gözlemlenen verilerle birleştirerek bir a posteriori dağılım oluşturur. Frekansçı yaklaşımlardan farklı olarak, parametrelerdeki belirsizliği nicelendirir.

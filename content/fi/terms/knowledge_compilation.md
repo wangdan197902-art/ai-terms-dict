@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /fi/terms/knowledge_compilation/
 date: "2026-07-18T16:05:03.325059Z"
 lastmod: "2026-07-18T17:15:09.425165Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tiedon kääntäminen on prosessi, jossa tietojen esitysmuotoja muutetaan tehokkaampiin muotoihin nopeampaa kyselyiden vastaamista tai päättelyä varten."
 ---
-
 ## Definition
 
 Tiedon kääntäminen viittaa tekoälytekniikoihin, jotka muuntavat tietokannan tai loogisen teorian eri esitysmuotoon, joka helpottaa nopeampia operaatioita, kuten tyydytettävyyden

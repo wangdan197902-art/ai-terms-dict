@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /hu/terms/llamaindex/
 date: "2026-07-18T16:10:50.185175Z"
 lastmod: "2026-07-18T17:15:09.804022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A LlamaIndex egy keretrendszer, amelyet arra terveztek, hogy egyéni adatkészleteket kapcsoljon össze nagy nyelvi modellekkel, megkönnyítve a Retrieval-Augmented Generation (RAG) alkalmazások létrehozá"
 ---
-
 ## Definition
 
 Eredetileg GPT Index néven ismert, a LlamaIndex egy hatékony adatkeretrendszer, amely lehetővé teszi az LLM-ek számára strukturált és strukturálatlan adatok befogadását és kezelését. Indexelési, lekérdezési és kezelési eszközöket biztosít.

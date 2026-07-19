@@ -1,23 +1,23 @@
 ---
-title: "早期打ち切り"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: 早期打ち切り
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /ja/terms/early_stopping/
-date: "2026-07-18T11:13:05.445172Z"
-lastmod: "2026-07-18T11:44:45.093634Z"
+slug: early_stopping
+date: '2026-07-18T11:13:05.445172Z'
+lastmod: '2026-07-18T11:44:45.093634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "早期打ち切りは、勾配降下法などの反復的トレーニングプロセスで主に使用される正則化の一種です。トレーニング中、モデルのパフォーマンスは通常、トレーニングデータに対して継続的に向上しますが..."
+source: agnes_llm
+status: published
+language: ja
+description: 早期打ち切りは、勾配降下法などの反復的トレーニングプロセスで主に使用される正則化の一種です。トレーニング中、モデルのパフォーマンスは通常、トレーニングデータに対して継続的に向上しますが...
 ---
-
 ## Definition
 
 

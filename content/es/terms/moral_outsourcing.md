@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /es/terms/moral_outsourcing/
 date: "2026-07-18T11:00:27.852046Z"
 lastmod: "2026-07-18T11:44:44.833756Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La preocupación ética por la cual individuos u organizaciones delegan responsabilidades de toma de decisiones morales en sistemas de IA automatizados."
 ---
-
 ## Definition
 
 La externalización moral se refiere al fenómeno en el que los humanos ceden el juicio ético y la responsabilidad a algoritmos o sistemas de IA. Esto ocurre cuando las personas confían en decisiones automatizadas para asuntos moralmente significan

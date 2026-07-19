@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /he/terms/deepseek_v3/
 date: "2026-07-18T15:53:28.510904Z"
 lastmod: "2026-07-18T17:15:09.532065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "DeepSeek V3 הוא מודל שפה יעיל מאוד מסוג 'ערבוב מומחים' (MoE) המשיג ביצועים ברמה המובילה בעולם עם עלויות אימון מופחתות משמעותית."
 ---
-
 ## Definition
 
 DeepSeek V3 הוא איטרציה מתקדמת במשפחת מודלי DeepSeek, המתאפיינת בהפעלה צפופה רק של תת-קבוצה קטנה של פרמטרים במהלך הסקה באמצעות נתיבי ערבוב מומחים. ארכיטקטורה זו מאפשרת

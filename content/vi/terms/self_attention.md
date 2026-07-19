@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /vi/terms/self_attention/
 date: "2026-07-18T15:29:08.316822Z"
 lastmod: "2026-07-18T16:38:07.695725Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cơ chế cho phép mạng nơ-ron cân nhắc tầm quan trọng của các phần khác nhau trong chuỗi đầu vào so với nhau."
 ---
-
 ## Definition
 
 Cơ chế chú ý nội tại cho phép các mô hình nắm bắt các phụ thuộc giữa tất cả các vị trí trong một chuỗi đồng thời, bất kể khoảng cách. Bằng cách tính toán điểm số chú ý giữa mọi cặp token, nó cho phép...

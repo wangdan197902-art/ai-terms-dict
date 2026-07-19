@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /vi/terms/cross_modal/
 date: "2026-07-18T15:30:28.587911Z"
 lastmod: "2026-07-18T16:38:07.700155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các kỹ thuật tích hợp và xử lý thông tin từ nhiều loại dữ liệu cảm giác khác nhau như văn bản và hình ảnh."
 ---
-
 ## Definition
 
 AI liên phương thức liên quan đến việc xử lý và tương quan dữ liệu từ các phương thức khác nhau, chẳng hạn như kết hợp đầu vào trực quan, thính giác và văn bản. Các hệ thống này học các biểu diễn chung để hiểu mối quan hệ...

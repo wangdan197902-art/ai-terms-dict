@@ -1,23 +1,25 @@
 ---
-title: "Adapter"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Adapter
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /no/terms/adapter/
-date: "2026-07-18T15:36:08.452111Z"
-lastmod: "2026-07-18T16:38:06.956075Z"
+slug: adapter
+date: '2026-07-18T15:36:08.452111Z'
+lastmod: '2026-07-18T16:38:06.956075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En lettvektets modul som settes inn i forhåndstreningte modeller for å muliggjøre effektiv finjustering for spesifikke nedstrømsoppgaver."
+source: agnes_llm
+status: published
+language: 'no'
+description: En lettvektets modul som settes inn i forhåndstreningte modeller for
+  å muliggjøre effektiv finjustering for spesifikke nedstrømsoppgaver.
 ---
-
 ## Definition
 
 Adaptorer er en parameter-effektiv finjusteringsteknikk som primært brukes i store språkmodeller og transformere. I stedet for å oppdatere alle modellvektene, noe som er datamessig kostbart, innfører adaptorer...

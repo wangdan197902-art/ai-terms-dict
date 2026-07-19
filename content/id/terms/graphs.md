@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /id/terms/graphs/
 date: "2026-07-18T15:26:11.788408Z"
 lastmod: "2026-07-18T16:38:07.394689Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bentuk jamak yang merujuk pada beberapa struktur graf atau representasi visual tren data dalam pembelajaran mesin."
 ---
-
 ## Definition
 
 Sementara 'graf' tunggal merujuk pada struktur data abstrak, 'graf' sering kali menandakan baik beberapa instance graf yang berbeda maupun plot visual yang digunakan dalam pemantauan ML. Dalam visualisasi, grafik garis atau ba

@@ -1,23 +1,24 @@
 ---
-title: "Planlægning"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Planlægning
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /da/terms/planning/
-date: "2026-07-18T15:37:01.589271Z"
-lastmod: "2026-07-18T17:15:09.247582Z"
+slug: planning
+date: '2026-07-18T15:37:01.589271Z'
+lastmod: '2026-07-18T17:15:09.247582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Den kognitive proces med at generere en sekvens af handlinger for at opnå specifikke mål i et defineret miljø."
+source: agnes_llm
+status: published
+language: da
+description: Den kognitive proces med at generere en sekvens af handlinger for at
+  opnå specifikke mål i et defineret miljø.
 ---
-
 ## Definition
 
 Planlægning inden for kunstig intelligens indebærer at bestemme en sekvens af handlinger, der fører fra en starttilstand til en ønsket måltilstand. Det kræver ræsonnement om effekten af handlinger og begrænsningerne i miljøet.

@@ -1,23 +1,24 @@
 ---
-title: "רשימות של תוכנת בינה מלאכותית בקוד פתוח"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: רשימות של תוכנת בינה מלאכותית בקוד פתוח
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /he/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T16:10:10.699417Z"
-lastmod: "2026-07-18T17:15:09.558865Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T16:10:10.699417Z'
+lastmod: '2026-07-18T17:15:09.558865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אוספים מסודרים או מאגרים המפרטים כלי AI, ספריות ומסגרות עבודה זמינים לציבור."
+source: agnes_llm
+status: published
+language: he
+description: אוספים מסודרים או מאגרים המפרטים כלי AI, ספריות ומסגרות עבודה זמינים
+  לציבור.
 ---
-
 ## Definition
 
 מונח זה מתייחס למאגרים מאורגנים, כגון נושאים ב-GitHub, רשימות 'Awesome' או ויקים המתוחזקים על ידי הקהילה, המרכזים תוכנת קוד פתוח הקשורה לבינה מלאכותית. הם משמשים כמקור חיוני לגילוי כלים ומשאבים.

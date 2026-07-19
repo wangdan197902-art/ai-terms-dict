@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /da/terms/inferential_theory_of_learning/
 date: "2026-07-18T16:01:46.184567Z"
 lastmod: "2026-07-18T17:15:09.299575Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et rammeværk, hvor læring betragtes som bayesiansk inferens, der opdaterer troen på hypoteser baseret på observerede data."
 ---
-
 ## Definition
 
 Denne teori hævder, at læring i bund og grund er en proces med sandsynlighedsinferens. I stedet for at memorere data, opretholder læreren en sandsynlighedsfordeling over mulige modeller eller hypoteser.

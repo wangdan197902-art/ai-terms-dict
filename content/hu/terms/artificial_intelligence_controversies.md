@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /hu/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:44:46.724407Z"
 lastmod: "2026-07-18T17:15:09.754808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Nyilvános viták és nézeteltérések az MI-fejlesztés és -bevezetés etikai, társadalmi és műszaki következményei körül."
 ---
-
 ## Definition
 
 Az MI-viták magukban foglalják a mesterséges intelligencia technológiákból eredő etikai, jogi és társadalmi viták széles körét. A fő kérdések közé tartozik az algoritmusos torzítás, a magánélet megsértése, a munkahelyek megszűnése...

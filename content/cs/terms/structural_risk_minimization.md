@@ -1,23 +1,24 @@
 ---
-title: "Minimalizace strukturálního rizika"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Minimalizace strukturálního rizika
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /cs/terms/structural_risk_minimization/
-date: "2026-07-18T16:19:10.550234Z"
-lastmod: "2026-07-18T17:15:09.204162Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:19:10.550234Z'
+lastmod: '2026-07-18T17:15:09.204162Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Princip ve statistickém učení, který usiluje o minimalizaci horní meze chyby zobecnění vyvážováním shody modelu a jeho složitosti."
+source: agnes_llm
+status: published
+language: cs
+description: Princip ve statistickém učení, který usiluje o minimalizaci horní meze
+  chyby zobecnění vyvážováním shody modelu a jeho složitosti.
 ---
-
 ## Definition
 
 Minimalizace strukturálního rizika (SRM) je metoda pro minimalizaci očekávaného rizika prostřednictvím kontroly složitosti modelu za účelem prevence přeučení. Rozšiřuje empirickou minimalizaci rizika přidáním regularizační

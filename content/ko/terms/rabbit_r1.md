@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /ko/terms/rabbit_r1/
 date: "2026-07-18T16:12:51.725715Z"
 lastmod: "2026-07-18T16:38:06.902476Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "작업을 자율적으로 실행하도록 설계된 대형 행동 모델(LAM)을 탑재한 휴대용 AI 장치입니다."
 ---
-
 ## Definition
 
 Rabbit r1은 Rabbit Inc.에서 출시한 전용 하드웨어 장치로, 자체 개발한 대형 행동 모델(LAM)을 중심으로 구성됩니다. 범용 스마트폰과 달리, 특정 디지털 작업을 수행하는 데 중점을 둡니다.

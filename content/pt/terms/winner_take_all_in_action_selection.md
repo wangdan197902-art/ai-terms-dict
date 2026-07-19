@@ -1,23 +1,24 @@
 ---
-title: "Ganhador-leve-tudo na seleção de ações"
-term_id: "winner_take_all_in_action_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "decision_making", "rl"]
+title: Ganhador-leve-tudo na seleção de ações
+term_id: winner_take_all_in_action_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Decision Making
+- RL
 difficulty: 3
 weight: 1
-slug: "winner_take_all_in_action_selection"
-aliases:
-  - /pt/terms/winner_take_all_in_action_selection/
-date: "2026-07-18T15:27:25.926984Z"
-lastmod: "2026-07-18T15:51:59.542586Z"
+slug: winner_take_all_in_action_selection
+date: '2026-07-18T15:27:25.926984Z'
+lastmod: '2026-07-18T15:51:59.542586Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um mecanismo de tomada de decisão no qual o neurônio ou agente com o nível mais alto de ativação suprime todos os outros para selecionar uma única ação."
+source: agnes_llm
+status: published
+language: pt
+description: Um mecanismo de tomada de decisão no qual o neurônio ou agente com o
+  nível mais alto de ativação suprime todos os outros para selecionar uma única ação.
 ---
-
 ## Definition
 
 O processo Ganhador-Leve-Tudo (WTA) é um método competitivo utilizado em redes neurais e aprendizado por reforço para resolver conflitos entre múltiplas ações ou hipóteses concorrentes. Nesse esquema, a unidade com a maior ativação vence, inibindo as demais e garantindo a escolha exclusiva de uma ação.

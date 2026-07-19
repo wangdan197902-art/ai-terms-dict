@@ -1,23 +1,23 @@
 ---
-title: "黑盒（black-box）"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: 黑盒（black-box）
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /zh/terms/black_box/
-date: "2026-07-18T10:56:05.609570Z"
-lastmod: "2026-07-18T11:44:45.389306Z"
+slug: black_box
+date: '2026-07-18T10:56:05.609570Z'
+lastmod: '2026-07-18T11:44:45.389306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "内部机制被隐藏，仅能观察输入和输出的系统。"
+source: agnes_llm
+status: published
+language: zh
+description: 内部机制被隐藏，仅能观察输入和输出的系统。
 ---
-
 ## Definition
 
 在人工智能中，黑盒模型指的是像深度神经网络这样的复杂系统，其内部决策逻辑是不透明的，难以被人解释。虽然这些模型通常能取得...

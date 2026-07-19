@@ -1,23 +1,24 @@
 ---
-title: "Recunoaștere automată a vorbirii"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Recunoaștere automată a vorbirii
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /ro/terms/automatic_speech_recognition/
-date: "2026-07-18T15:46:37.466745Z"
-lastmod: "2026-07-18T17:15:09.631271Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:46:37.466745Z'
+lastmod: '2026-07-18T17:15:09.631271Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnologie care convertește limbajul vorbit în text folosind modele de învățare profundă."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnologie care convertește limbajul vorbit în text folosind modele
+  de învățare profundă.
 ---
-
 ## Definition
 
 Recunoașterea automată a vorbirii (ASR), cunoscută și ca conversia vorbirii în text, este un subdomeniu al procesării semnalului vocal care utilizează inteligența artificială pentru a transcrie semnale audio în text scris. Sistemele moderne ASR se bazează pe rețele neuronale profunde pentru o precizie ridicată.

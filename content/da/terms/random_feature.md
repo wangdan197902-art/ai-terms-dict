@@ -1,23 +1,24 @@
 ---
-title: "Tilfældige funktionsegenskaber"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Tilfældige funktionsegenskaber
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /da/terms/random_feature/
-date: "2026-07-18T16:14:33.056105Z"
-lastmod: "2026-07-18T17:15:09.326680Z"
+slug: random_feature
+date: '2026-07-18T16:14:33.056105Z'
+lastmod: '2026-07-18T17:15:09.326680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik, der kortlægger inputdata til et højerdimensionelt rum ved hjælp af tilfældige projektioner for effektivt at approksimere kernelmetoder."
+source: agnes_llm
+status: published
+language: da
+description: En teknik, der kortlægger inputdata til et højerdimensionelt rum ved
+  hjælp af tilfældige projektioner for effektivt at approksimere kernelmetoder.
 ---
-
 ## Definition
 
 Random feature maps transformerer inputs til et nyt rum, hvor lineære modeller kan approksimere ikke-lineære kernel-funktioner. Denne tilgang, ofte forbundet med Nystrom-metoden eller Fourier-funktionsegenskaber, muliggør effektiv beregning.

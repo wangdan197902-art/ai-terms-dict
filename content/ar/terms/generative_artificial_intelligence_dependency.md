@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /ar/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:59:22.336937Z"
 lastmod: "2026-07-18T17:15:08.507655Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "اعتماد المؤسسات على أنظمة الذكاء الاصطناعي التوليدي في العمليات الحرجة، مما يخلق مخاطر تتعلق بالتوافر والدقة والأمن."
 ---
-
 ## Definition
 
 يشير هذا المفهوم إلى الاعتماد الاستراتيجي والتشغيلي الذي تضعه الشركات على نماذج الذكاء الاصطناعي التوليدي لأداء مهام أساسية مثل إنشاء المحتوى وخدمة العملاء وتحليل البيانات. ومع انتشار اعتماد هذه التقنيات...

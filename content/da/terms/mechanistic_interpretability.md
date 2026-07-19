@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /da/terms/mechanistic_interpretability/
 date: "2026-07-18T16:07:23.146982Z"
 lastmod: "2026-07-18T17:15:09.310535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En tilgang til at forstå AI-modeller ved at analysere deres interne komponenter og mekanismer frem for kun deres input-udgang-adfærd."
 ---
-
 ## Definition
 
 Mekanisk fortolkelighed fokuserer på reverse-engineering af neurale netværk for at forstå, hvordan de beregner specifikke funktioner på niveauet med individuelle neuroner, vægte og kredsløb. I stedet for at behandle...

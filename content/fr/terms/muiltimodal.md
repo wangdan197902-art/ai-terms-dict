@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /fr/terms/muiltimodal/
 date: "2026-07-18T11:30:38.809123Z"
 lastmod: "2026-07-18T11:44:45.296771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le terme multimodal désigne les systèmes d'IA qui traitent et intègrent simultanément plusieurs types de modalités de données, telles que le texte, les images et l'audio."
 ---
-
 ## Definition
 
 En intelligence artificielle, la multimodalité décrit la capacité d'un modèle à comprendre, générer ou corréler des informations provenant de différentes entrées sensorielles ou formats de données. Contrairement aux modèles unimodaux

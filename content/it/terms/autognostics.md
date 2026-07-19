@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /it/terms/autognostics/
 date: "2026-07-18T15:48:44.552491Z"
 lastmod: "2026-07-18T17:15:08.600707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La capacità di un sistema di IA di diagnosticare autonomamente il proprio stato interno, problemi di prestazioni o errori senza intervento umano."
 ---
-
 ## Definition
 
 L'autognostica si riferisce ai meccanismi di auto-monitoraggio e auto-riparazione incorporati nei sistemi intelligenti. Permette agli agenti di IA di rilevare anomalie, diagnosticare le cause radice dei guasti e potenzialmente co

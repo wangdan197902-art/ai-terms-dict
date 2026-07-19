@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /es/terms/knowledge_based_configuration/
 date: "2026-07-18T10:55:47.600524Z"
 lastmod: "2026-07-18T11:44:44.823408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un proceso automatizado que utiliza bases de conocimiento específicas del dominio para generar configuraciones de productos válidas a partir de restricciones del usuario."
 ---
-
 ## Definition
 
 Este enfoque emplea técnicas de satisfacción de restricciones dentro de una base de conocimiento para garantizar que los productos ensamblados cumplan con todos los requisitos técnicos y del cliente. Previene combinaciones inválidas mediante reglas lógicas estrictas definidas en el sistema.

@@ -1,23 +1,24 @@
 ---
-title: "Normalizace"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalizace
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /cs/terms/normalization/
-date: "2026-07-18T16:11:07.359449Z"
-lastmod: "2026-07-18T17:15:09.158653Z"
+slug: normalization
+date: '2026-07-18T16:11:07.359449Z'
+lastmod: '2026-07-18T17:15:09.158653Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Normalizace je technika předzpracování dat, která škáluje numerické funkce na standardní rozsah, obvykle mezi 0 a 1, aby se zlepšila konvergence a výkon modelu."
+source: agnes_llm
+status: published
+language: cs
+description: Normalizace je technika předzpracování dat, která škáluje numerické funkce
+  na standardní rozsah, obvykle mezi 0 a 1, aby se zlepšila konvergence a výkon modelu.
 ---
-
 ## Definition
 
 Mezi běžné metody patří škálování Min-Max a standardizace Z-skóre. Tento proces zajišťuje, že funkce s většími magnitudami nebudou dominovat učícímu algoritmu, zejména při optimalizaci založené na gradientu.

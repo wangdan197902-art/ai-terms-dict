@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /vi/terms/experiments/
 date: "2026-07-18T15:25:17.152350Z"
 lastmod: "2026-07-18T16:38:07.684507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các quy trình có kiểm soát được tiến hành để kiểm tra giả thuyết, đánh giá hiệu suất mô hình hoặc khám phá các khả năng AI mới."
 ---
-
 ## Definition
 
 Các thí nghiệm trong AI liên quan đến việc kiểm tra có hệ thống các biến số để hiểu các mối quan hệ nhân quả bên trong các mô hình học máy. Các quy trình này cho phép nhà phát triển so sánh các siêu tham số khác nhau và...

@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /ro/terms/personaplex/
 date: "2026-07-18T16:15:56.466306Z"
 lastmod: "2026-07-18T17:15:09.690904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru conceptual sau o platformă concepută pentru a gestiona rețele complexe de persoane digitale și interacțiunile acestora în medii conduse de IA."
 ---
-
 ## Definition
 
 Personaplex se referă la ecosistemul sau infrastructura care susține crearea, gestionarea și interacțiunea mai multor persoane digitale. Acesta cuprinde considerațiile tehnice și etice legate de identitatea digitală și autonomia agenților virtuali.

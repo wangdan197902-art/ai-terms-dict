@@ -1,23 +1,23 @@
 ---
-title: "TensorFlow Hub"
-term_id: "tensorflow_hub"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tensorflow", "libraries", "transfer-learning"]
+title: TensorFlow Hub
+term_id: tensorflow_hub
+category: basic_concepts
+subcategory: ''
+tags:
+- tensorflow
+- libraries
+- Transfer Learning
 difficulty: 3
 weight: 1
-slug: "tensorflow_hub"
-aliases:
-  - /zh/terms/tensorflow_hub/
-date: "2026-07-18T11:35:54.969714Z"
-lastmod: "2026-07-18T11:44:45.561735Z"
+slug: tensorflow_hub
+date: '2026-07-18T11:35:54.969714Z'
+lastmod: '2026-07-18T11:44:45.561735Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个用于可复用机器学习模块的仓库，支持使用预训练模型进行迁移学习。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个用于可复用机器学习模块的仓库，支持使用预训练模型进行迁移学习。
 ---
-
 ## Definition
 
 TensorFlow Hub 是一个发布和复用机器学习组件的平台。它允许开发者访问针对图像分类、文本嵌入等各种任务预训练的模型。

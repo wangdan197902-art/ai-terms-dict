@@ -1,23 +1,24 @@
 ---
-title: "Automatisering in de bouw"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Automatisering in de bouw
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /nl/terms/automation_in_construction/
-date: "2026-07-18T15:44:10.954755Z"
-lastmod: "2026-07-18T17:15:08.720564Z"
+slug: automation_in_construction
+date: '2026-07-18T15:44:10.954755Z'
+lastmod: '2026-07-18T17:15:08.720564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De toepassing van robotica en AI om bouwprocessen te stroomlijnen en de veiligheid op de werf te verbeteren."
+source: agnes_llm
+status: published
+language: nl
+description: De toepassing van robotica en AI om bouwprocessen te stroomlijnen en
+  de veiligheid op de werf te verbeteren.
 ---
-
 ## Definition
 
 Automatisering in de bouw verwijst naar de integratie van robotsystemen, drones en AI-gedreven projectmanagementtools in de levenscyclus van een gebouw. Deze technologieën helpen bij taken variërend van het leggen van bakstenen tot geavanceerde planning en veiligheidscontroles.

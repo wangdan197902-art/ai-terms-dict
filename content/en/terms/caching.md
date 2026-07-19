@@ -1,23 +1,24 @@
 ---
-title: "Caching"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caching
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /en/terms/caching/
-date: "2026-07-18T09:48:49.841942Z"
-lastmod: "2026-07-18T11:44:44.649866Z"
+slug: caching
+date: '2026-07-18T09:48:49.841942Z'
+lastmod: '2026-07-18T11:44:44.649866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "Caching is a technique of storing frequently accessed data in a temporary, high-speed storage layer to reduce latency and decrease load on primary data sources."
+source: agnes_llm
+status: published
+language: en
+description: Caching is a technique of storing frequently accessed data in a temporary,
+  high-speed storage layer to reduce latency and decrease load on primary data sources.
 ---
-
 ## Definition
 
 In AI engineering, caching optimizes performance by keeping recent or frequent query results, model predictions, or intermediate computations in fast memory (like RAM). This reduces the need for expensive recomputation or repeated database queries. Effective cache management strategies, such as Least Recently Used (LRU) eviction policies, ensure that memory usage remains efficient while maximizing throughput for inference engines and data pipelines.

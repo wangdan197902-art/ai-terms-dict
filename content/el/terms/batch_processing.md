@@ -1,23 +1,24 @@
 ---
-title: "Επεξεργασία Πακέτων (Batch Processing)"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Επεξεργασία Πακέτων (Batch Processing)
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /el/terms/batch_processing/
-date: "2026-07-18T15:53:12.518571Z"
-lastmod: "2026-07-18T17:15:09.884631Z"
+slug: batch_processing
+date: '2026-07-18T15:53:12.518571Z'
+lastmod: '2026-07-18T17:15:09.884631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια υπολογιστική μέθοδος κατά την οποία τα δεδομένα συλλέγονται με την πάροδο του χρόνου και επεξεργάζονται σε ομάδες αντί για ατομικά."
+source: agnes_llm
+status: published
+language: el
+description: Μια υπολογιστική μέθοδος κατά την οποία τα δεδομένα συλλέγονται με την
+  πάροδο του χρόνου και επεξεργάζονται σε ομάδες αντί για ατομικά.
 ---
-
 ## Definition
 
 Η επεξεργασία πακέτων περιλαμβάνει τη συγκέντρωση των εισόδων δεδομένων σε μια ομάδα, ή πακέτο, πριν εκτελεστεί ένας υπολογισμός ή η εξαγωγή συμπερασμάτων από ένα μοντέλο. Αυτή η προσέγγιση αντιτίθεται στην επεξεργασία ροής σε πραγματικό χρόνο, επιτρέποντας βελτιστοποίηση πόρων.

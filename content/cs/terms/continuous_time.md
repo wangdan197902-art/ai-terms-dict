@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /cs/terms/continuous_time/
 date: "2026-07-18T15:31:28.703736Z"
 lastmod: "2026-07-18T17:15:09.082353Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Přístup k modelování, kde se proměnné mění plynule v kontinuální doméně místo diskrétních kroků."
 ---
-
 ## Definition
 
 Modely spojitého času popisují dynamiku systému pomocí diferenciálních rovnic, což umožňuje plynulý vývoj stavů v čase. V AI je tím příkladem Neuronové obyčejné diferenciální rovnice (Neural ODE)...

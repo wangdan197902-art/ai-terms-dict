@@ -1,23 +1,24 @@
 ---
-title: "az örneklili"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: az örneklili
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /tr/terms/few_shot/
-date: "2026-07-18T15:31:18.602807Z"
-lastmod: "2026-07-18T16:38:07.249023Z"
+slug: few_shot
+date: '2026-07-18T15:31:18.602807Z'
+lastmod: '2026-07-18T16:38:07.249023Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir modelin yalnızca küçük sayıda etiketli örneğe maruz kaldıktan sonra bir görevi doğru şekilde yerine getirdiği öğrenme paradigması."
+source: agnes_llm
+status: published
+language: tr
+description: Bir modelin yalnızca küçük sayıda etiketli örneğe maruz kaldıktan sonra
+  bir görevi doğru şekilde yerine getirdiği öğrenme paradigması.
 ---
-
 ## Definition
 
 Az örneklili öğrenme, makine öğrenmesi modellerinin çok sınırlı veriden (genellikle sınıf başına bir ila on örnek) genelleyebilmesini sağlar. Binlerce örneğe ihtiyaç duyan geleneksel gözetimli öğrenmenin aksine, bu yaklaşım az miktarda veriyle hızlı adapte olmayı hedefler.

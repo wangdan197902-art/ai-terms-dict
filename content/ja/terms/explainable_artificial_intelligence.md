@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /ja/terms/explainable_artificial_intelligence/
 date: "2026-07-18T11:14:15.215124Z"
 lastmod: "2026-07-18T11:44:45.096322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "説明可能なAI（XAI）とは、解決策の結果が人間の専門家に理解可能となるように人工知能技術を適用するための方法論や技術を指します。"
 ---
-
 ## Definition
 
 機械学習モデル、特に深層ニューラルネットワークが複雑になるにつれ、その意思決定プロセスはしばしば不透明な「ブラックボックス」となります。XAIは、これらの意思決定を解釈可能かつ透明なものにすることを目的としています。

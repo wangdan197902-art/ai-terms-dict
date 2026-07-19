@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /cs/terms/artificial_intelligence/
 date: "2026-07-18T15:22:32.703637Z"
 lastmod: "2026-07-18T17:15:09.061587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Simulace procesů lidské inteligence počítačovými systémy."
 ---
-
 ## Definition
 
 Umělá inteligence (AI) označuje schopnost digitálních počítačů nebo robotů řízených počítačem vykonávat úlohy, které jsou obvykle spojovány s inteligentními bytostmi. Zahrnuje různé podobory,

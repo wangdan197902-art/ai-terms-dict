@@ -1,23 +1,24 @@
 ---
-title: "الإجابة على الأسئلة"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: الإجابة على الأسئلة
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /ar/terms/question_answering/
-date: "2026-07-18T15:38:09.821455Z"
-lastmod: "2026-07-18T17:15:08.464930Z"
+slug: question_answering
+date: '2026-07-18T15:38:09.821455Z'
+lastmod: '2026-07-18T17:15:08.464930Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مهمة في معالجة اللغات الطبيعية حيث يوفر النظام تلقائياً إجابات دقيقة للأسئلة المطروحة باللغة الطبيعية."
+source: agnes_llm
+status: published
+language: ar
+description: مهمة في معالجة اللغات الطبيعية حيث يوفر النظام تلقائياً إجابات دقيقة
+  للأسئلة المطروحة باللغة الطبيعية.
 ---
-
 ## Definition
 
 تشمل الإجابة على الأسئلة (QA) استرداد أو توليد ردود دقيقة على استفسارات المستخدم من سياق معين أو قاعدة معرفة. تتراوح هذه المهام بين الإجابة على الأسئلة المغلقة المجال، التي تعتمد على وثائق محددة، والإجابة على الأسئلة المفتوحة المجال التي تتطلب استدلالاً أوسع ومعرفة عامة.

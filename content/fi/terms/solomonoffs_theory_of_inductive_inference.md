@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /fi/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T16:21:43.117480Z"
 lastmod: "2026-07-18T17:15:09.461279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Formaali matemaattinen viitekehys tulevien havaintojen ennustamiseen menneen datan perusteella algoritmisen todennäköisyyden avulla."
 ---
-
 ## Definition
 
 Ray Solomonoffn kehittämä teoria tarjoaa universaalin mallin induktiolle jakamalla todennäköisyyksiä sekvensseille niiden monimutkaisuuden perusteella. Se väittää, että yksinkertaisemmat selitykset (lyhyemmät ohjelmat) ovat todennäköisempiä kuin monimutkaisemmat, kun ennustetaan jatkuvaa havaintosekvenssiä. Tämä teoria muodostaa teoreettisen pohjan tekoälyn oppimiselle ja todennäköisyyslaskennalle.

@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /ar/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:47:25.653000Z"
 lastmod: "2026-07-18T17:15:08.481819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مشكلة أساسية في التعلم الخاضع للإشراف تتطلب الموازنة بين تعقيد النموذج وقدرته على التعميم لتقليل الخطأ."
 ---
-
 ## Definition
 
 تصف مقايضة الانحياز والتباين التوتر بين الإفراط في التبسيط (انحياز عالٍ) والإفراط في التخصيص (تباين عالٍ). نماذج الانحياز العالي تفترض افتراضات قوية حول البيانات، مما قد يؤدي إلى تجاهل الأنماط ذات الصلة.

@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /no/terms/function_calling/
 date: "2026-07-18T15:37:12.294113Z"
 lastmod: "2026-07-18T16:38:06.958773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En mekanisme som lar store språkmodeller (LLM) produsere strukturert data som utløser spesifikke programvarefunksjoner."
 ---
-
 ## Definition
 
 Funksjonskalling gjør det mulig for store språkmodeller å samhandle med eksterne verktøy og API-er ved å generere strukturerte utdata, som JSON-objekter, som spesifiserer hvilken funksjon som skal kjøres og hvilke argumenter som skal brukes.

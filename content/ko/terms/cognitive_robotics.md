@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /ko/terms/cognitive_robotics/
 date: "2026-07-18T15:45:30.077737Z"
 lastmod: "2026-07-18T16:38:06.817764Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인지 로봇공학은 지각, 추론, 학습 등 인간과 유사한 인지 능력을 갖춘 로봇을 만드는 데 중점을 둔 분야입니다."
 ---
-
 ## Definition
 
 인지 로봇공학은 인지과학과 로봇공학을 통합하여 환경을 지각하고, 경험을 통해 학습하며, 자율적으로 결정을 내릴 수 있는 기계를 구축합니다. 이러한 로봇은 고급 

@@ -1,23 +1,24 @@
 ---
-title: "Komprimované tenzory"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Komprimované tenzory
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /cs/terms/compressed_tensors/
-date: "2026-07-18T15:48:52.313070Z"
-lastmod: "2026-07-18T17:15:09.111534Z"
+slug: compressed_tensors
+date: '2026-07-18T15:48:52.313070Z'
+lastmod: '2026-07-18T17:15:09.111534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Tenzory, u kterých byla snížena přesnost nebo velikost dat pro optimalizaci úložiště a výpočetní efektivity."
+source: agnes_llm
+status: published
+language: cs
+description: Tenzory, u kterých byla snížena přesnost nebo velikost dat pro optimalizaci
+  úložiště a výpočetní efektivity.
 ---
-
 ## Definition
 
 Komprimované tenzory jsou vícerozměrná pole používaná v hlubokém učení, kde byla snížena číselná přesnost (např. z float32 na int8) nebo hustota dat. Tato technika, známá jako kvantizace nebo...

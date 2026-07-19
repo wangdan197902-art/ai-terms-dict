@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /sv/terms/ai_literacy/
 date: "2026-07-18T15:43:16.361130Z"
 lastmod: "2026-07-18T17:15:08.970858Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Förmågan att förstå, utvärdera och interagera effektivt med teknologier för artificiell intelligens samt deras samhällspåverkan."
 ---
-
 ## Definition
 
 AI-kunskap avser de kompetenser som krävs för att navigera i en värld som alltmer påverkas av artificiell intelligens. Det går bortom rent tekniska kodfärdigheter för att inkludera förståelse för hur AI-system fungerar, deras begränsningar, etiska implikationer och hur man kritiskt bedömer deras resultat och bias.

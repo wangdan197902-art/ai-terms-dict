@@ -1,23 +1,24 @@
 ---
-title: "Trasformatore"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Trasformatore
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /it/terms/transformer/
-date: "2026-07-18T15:30:42.122940Z"
-lastmod: "2026-07-18T17:15:08.576912Z"
+slug: transformer
+date: '2026-07-18T15:30:42.122940Z'
+lastmod: '2026-07-18T17:15:08.576912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'architettura di deep learning basata su meccanismi di auto-attenzione che elabora dati sequenziali in parallelo anziché in sequenza."
+source: agnes_llm
+status: published
+language: it
+description: Un'architettura di deep learning basata su meccanismi di auto-attenzione
+  che elabora dati sequenziali in parallelo anziché in sequenza.
 ---
-
 ## Definition
 
 Introdotta nell'articolo 'Attention Is All You Need', l'architettura Trasformatore ha rivoluzionato l'elaborazione del linguaggio naturale e non solo. Utilizza l'auto-attenzione multi-testa per ponderare l'importanza dei

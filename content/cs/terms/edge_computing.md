@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /cs/terms/edge_computing/
 date: "2026-07-18T15:55:16.893586Z"
 lastmod: "2026-07-18T17:15:09.125245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Edge computing je distribuovaný výpočetní paradigm, který přenáší výpočetní výkon a úložiště dat blíže ke zdrojům dat, místo aby spoléhal pouze na centralizované cloudové servery."
 ---
-
 ## Definition
 
 Edge computing řeší omezení latence a šířky pásma cloudově orientovaných architektur zpracováním dat poblíž místa jejich generování, například u zařízení IoT, senzorů nebo lokálních bran. V kontextu AI

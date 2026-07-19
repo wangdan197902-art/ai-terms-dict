@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /en/terms/ai_literacy/
 date: "2026-07-18T09:44:10.160779Z"
 lastmod: "2026-07-18T11:44:44.636890Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The ability to understand, evaluate, and effectively interact with artificial intelligence technologies and their societal implications."
 ---
-
 ## Definition
 
 AI literacy refers to the competencies needed to navigate a world increasingly influenced by artificial intelligence. It goes beyond technical coding skills to include understanding how AI systems work, recognizing their limitations, biases, and ethical considerations. An AI-literate individual can critically assess AI-generated content, make informed decisions about adopting AI tools, and comprehend the broader social, economic, and political impacts of automation. It is essential for fostering responsible innovation and equitable access to technological benefits.

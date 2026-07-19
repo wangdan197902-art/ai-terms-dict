@@ -1,23 +1,22 @@
 ---
-title: "ディープラーニング・アンチエイリアシング"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: ディープラーニング・アンチエイリアシング
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /ja/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T11:11:23.704619Z"
-lastmod: "2026-07-18T11:44:45.088510Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T11:11:23.704619Z'
+lastmod: '2026-07-18T11:44:45.088510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューラルネットワークを使用して、レンダリング画像やダウンサンプリングされた特徴におけるジャギーなどの視覚アーティファクトを低減する技術。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューラルネットワークを使用して、レンダリング画像やダウンサンプリングされた特徴におけるジャギーなどの視覚アーティファクトを低減する技術。
 ---
-
 ## Definition
 
 ディープラーニング・アンチエイリアシングとは、ニューラルネットワークを活用して、高周波信号が不十分なレートでサンプリングされた際に発生するエイリアシングアーティファクトを軽減する方法を指します。コンピュータグラフィックスや画像処理において、鋸歯状の縁やノイズを滑らかにするために用いられます。

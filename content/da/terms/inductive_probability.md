@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /da/terms/inductive_probability/
 date: "2026-07-18T16:01:22.218535Z"
 lastmod: "2026-07-18T17:15:09.299323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et mål for den grad, hvori evidens understøtter en hypotese, forskellig fra deduktiv sikkerhed."
 ---
-
 ## Definition
 
 Induktiv sandsynlighed kvantificerer, hvor sandsynligt det er, at en hypotese er sand givet observerede evidenser, og anerkender, at konklusioner er sandsynlige snarere end sikre. Det danner grundlaget for bayesiansk inferens, hvor opdaterede sandsynligheder beregnes.

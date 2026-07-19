@@ -1,23 +1,24 @@
 ---
-title: "Szabályindukció"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Szabályindukció
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /hu/terms/rule_induction/
-date: "2026-07-18T16:22:03.852246Z"
-lastmod: "2026-07-18T17:15:09.830543Z"
+slug: rule_induction
+date: '2026-07-18T16:22:03.852246Z'
+lastmod: '2026-07-18T17:15:09.830543Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy gépi tanulási technika, amely címkézett tanítóadatokból automatikusan generál logikai szabályhalmazt új példák osztályozására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy gépi tanulási technika, amely címkézett tanítóadatokból automatikusan
+  generál logikai szabályhalmazt új példák osztályozására.
 ---
-
 ## Definition
 
 A szabályindukció egy szimbolikus gépi tanulási módszer, amely ha-akkor szabályokat vezet le közvetlenül az adatokból. A neurális hálózatokkal ellentétben, amelyek átláthatatlan súlyokat hoznak létre, a szabályindukció értelmezhető modelleket eredményez, kon

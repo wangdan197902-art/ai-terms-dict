@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /de/terms/ai_alignment/
 date: "2026-07-18T11:01:01.900229Z"
 lastmod: "2026-07-18T11:44:44.903237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Forschungsgebiet, das sich damit befasst, sicherzustellen, dass KI-Systeme im Einklang mit menschlichen Werten und Absichten handeln."
 ---
-
 ## Definition
 
 Die KI-Ausrichtung befasst sich mit der Herausforderung, künstliche Intelligenz-Systeme so robust zu gestalten, dass sie das tun, was ihre Benutzer intendieren, anstatt nur das, was sie wörtlich spezifizieren. Dies umfasst technische Methoden, um sicherzustellen, dass...

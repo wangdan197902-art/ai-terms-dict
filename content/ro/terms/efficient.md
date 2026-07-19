@@ -1,23 +1,24 @@
 ---
-title: "Eficient"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Eficient
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /ro/terms/efficient/
-date: "2026-07-18T15:25:08.838620Z"
-lastmod: "2026-07-18T17:15:09.592488Z"
+slug: efficient
+date: '2026-07-18T15:25:08.838620Z'
+lastmod: '2026-07-18T17:15:09.592488Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "În AI, eficiența se referă la obținerea unei performanțe optime cu un consum minim de resurse, cum ar fi timpul, memoria sau puterea de calcul."
+source: agnes_llm
+status: published
+language: ro
+description: În AI, eficiența se referă la obținerea unei performanțe optime cu un
+  consum minim de resurse, cum ar fi timpul, memoria sau puterea de calcul.
 ---
-
 ## Definition
 
 Eficiența este o metrică critică în inteligența artificială care măsoară cât de bine utilizează un model sau un algoritm resursele disponibile. Aceasta cuprinde eficiența computațională (viteza de inferență/antrenare)

@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /da/terms/deepseek_vl_v2/
 date: "2026-07-18T15:52:08.377255Z"
 lastmod: "2026-07-18T17:15:09.279856Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "DeepSeek VL V2 er en Vision-Sprog-model designet til at behandle og forstå både visuelle input og tekstuelle forespørgsler med høj præcision og effektivitet."
 ---
-
 ## Definition
 
 DeepSeek VL V2 udvider standard sprogmodellens kapaciteter ind i det multimodale domæne, hvilket gør det muligt at fortolke billeder sammen med tekst. Ved at bruge en visuel encoder forbundet til en stor sprogmo

@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /zh/terms/lynda_soderholm/
 date: "2026-07-18T11:24:58.833875Z"
 lastmod: "2026-07-18T11:44:45.527502Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "琳达·索德霍姆（Lynda Soderholm）是一位著名的研究人员和高管，以她在人工智能伦理、负责任创新以及人工智能社会影响方面的贡献而闻名。"
 ---
-
 ## Definition
 
 琳达·索德霍姆是科技领域的知名人物，特别以其在人工智能开发与道德治理交叉领域的工作而著称。作为企业责任的领导者，

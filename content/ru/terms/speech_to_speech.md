@@ -1,23 +1,24 @@
 ---
-title: "Преобразование речи в речь"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Преобразование речи в речь
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /ru/terms/speech_to_speech/
-date: "2026-07-18T16:16:25.316383Z"
-lastmod: "2026-07-18T16:38:07.204630Z"
+slug: speech_to_speech
+date: '2026-07-18T16:16:25.316383Z'
+lastmod: '2026-07-18T16:38:07.204630Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма перевода, которая преобразует устный ввод напрямую в синтезированную речь на другом языке."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма перевода, которая преобразует устный ввод напрямую в синтезированную
+  речь на другом языке.
 ---
-
 ## Definition
 
 Перевод Speech-to-Speech (STS) обходит промежуточные текстовые представления, преобразуя язык А напрямую в устный язык B. Этот подход направлен на сохранение просодии, эмоций и естественности звучания оригинальной речи.

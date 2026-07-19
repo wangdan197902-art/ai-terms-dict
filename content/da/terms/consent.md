@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /da/terms/consent/
 date: "2026-07-18T15:47:35.551960Z"
 lastmod: "2026-07-18T17:15:09.271179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den eksplicitte og informerede aftale fra individer om at tillade indsamling og behandling af deres data til AI-formål."
 ---
-
 ## Definition
 
 Inden for AI-etik refererer samtykke til den frivillige og informerede tilladelse, som brugere eller emner giver, før deres personlige data indsamles, opbevares eller anvendes i maskinlæringsmodeller. Det kræver, at individet fuldt ud forstår formålet og konsekvenserne.

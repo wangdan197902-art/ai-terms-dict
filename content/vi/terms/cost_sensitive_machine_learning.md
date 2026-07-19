@@ -1,23 +1,24 @@
 ---
-title: "Học máy nhạy cảm chi phí"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Học máy nhạy cảm chi phí
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /vi/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:46:23.217571Z"
-lastmod: "2026-07-18T16:38:07.740545Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:46:23.217571Z'
+lastmod: '2026-07-18T16:38:07.740545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp học máy tích hợp chi phí phân loại sai vào quá trình huấn luyện để tối ưu hóa tác động kinh tế thay vì chỉ tập trung vào độ chính xác."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp học máy tích hợp chi phí phân loại sai vào quá trình
+  huấn luyện để tối ưu hóa tác động kinh tế thay vì chỉ tập trung vào độ chính xác.
 ---
-
 ## Definition
 
 Học máy nhạy cảm chi phí mở rộng học có giám sát truyền thống bằng cách gán các hình phạt khác nhau cho các loại lỗi khác nhau. Trong các tình huống thực tế, dương tính giả và âm tính giả thường có hậu quả kinh tế hoặc rủi ro khác nhau đáng kể.

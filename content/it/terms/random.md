@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /it/terms/random/
 date: "2026-07-18T15:28:04.546555Z"
 lastmod: "2026-07-18T17:15:08.572593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La proprietà di mancanza di uno schema prevedibile, spesso simulata nell'IA attraverso algoritmi di generazione di numeri pseudo-casuali."
 ---
-
 ## Definition
 
 La casualità è fondamentale nell'IA per inizializzare i pesi dei modelli, mescolare i dataset e introdurre stocasticità durante l'addestramento per prevenire l'overfitting. Poiché i computer sono deterministici, i sistemi di IA

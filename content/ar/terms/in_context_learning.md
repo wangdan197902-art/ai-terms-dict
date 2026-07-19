@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /ar/terms/in_context_learning/
 date: "2026-07-18T15:22:59.170217Z"
 lastmod: "2026-07-18T17:15:08.433035Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية يتعلم فيها النماذج أداء المهام من خلال مراقبة الأمثلة المقدمة في الأمر (Prompt)."
 ---
-
 ## Definition
 
 يتيح التعلم ضمن السياق (ICL) لنماذج اللغات الكبيرة التكيف مع مهام جديدة دون تحديث أوزانها. من خلال توفير أزواج الإدخال والإخراج داخل سياق الأمر، يستنتج النموذج النمط ويؤدي المهمة المطلوبة.

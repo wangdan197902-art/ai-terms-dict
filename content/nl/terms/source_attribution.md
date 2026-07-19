@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /nl/terms/source_attribution/
 date: "2026-07-18T16:17:52.450667Z"
 lastmod: "2026-07-18T17:15:08.788483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het identificeren en crediteren van de oorspronkelijke makers of datasets die zijn gebruikt om specifieke inhoud of inzichten te genereren."
 ---
-
 ## Definition
 
 Bronattribution verwijst naar het systematisch traceren en labelen van oorsprongen voor gegevens, modellen of gegenereerde outputs binnen AI-systemen. Het zorgt voor transparantie door eindresultaten terug te koppelen aan hun oorsprong.

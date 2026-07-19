@@ -1,23 +1,25 @@
 ---
-title: "Fuite de données"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Fuite de données
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /fr/terms/leakage/
-date: "2026-07-18T11:25:28.598755Z"
-lastmod: "2026-07-18T11:44:45.283612Z"
+slug: leakage
+date: '2026-07-18T11:25:28.598755Z'
+lastmod: '2026-07-18T11:44:45.283612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La fuite de données se produit lorsque des informations provenant de l'extérieur du jeu d'entraînement influencent involontairement le modèle, conduisant à des estimations de performance excessivement"
+source: agnes_llm
+status: published
+language: fr
+description: La fuite de données se produit lorsque des informations provenant de
+  l'extérieur du jeu d'entraînement influencent involontairement le modèle, conduisant
+  à des estimations de performance excessivement
 ---
-
 ## Definition
 
 La fuite de données est une erreur critique en apprentissage automatique où le modèle accède à des informations pendant l'entraînement qui ne seraient pas disponibles au moment de la prédiction. Cela se produit souvent par une mauvaise manipulation des données (par exemple, inclure des caractéristiques futures ou des cibles dans les données d'entraînement).

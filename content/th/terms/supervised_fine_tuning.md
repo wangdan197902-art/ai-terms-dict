@@ -1,23 +1,23 @@
 ---
-title: "การปรับแต่งด้วยข้อมูลที่มีผู้สอน"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: การปรับแต่งด้วยข้อมูลที่มีผู้สอน
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /th/terms/supervised_fine_tuning/
-date: "2026-07-18T15:37:44.582187Z"
-lastmod: "2026-07-18T16:38:07.565680Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:37:44.582187Z'
+lastmod: '2026-07-18T16:38:07.565680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการฝึกฝนโมเดลที่ผ่านการฝึกมาแล้วเพิ่มเติมบนชุดข้อมูลเฉพาะ เพื่อปรับให้เหมาะสมกับงานหรือโดเมนใดงานหนึ่งโดยเฉพาะ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการฝึกฝนโมเดลที่ผ่านการฝึกมาแล้วเพิ่มเติมบนชุดข้อมูลเฉพาะ เพื่อปรับให้เหมาะสมกับงานหรือโดเมนใดงานหนึ่งโดยเฉพาะ
 ---
-
 ## Definition
 
 การปรับแต่งด้วยข้อมูลที่มีผู้สอน (Supervised Fine-tuning - SFT) เกี่ยวข้องกับการนำโมเดลขนาดใหญ่ที่ผ่านการฝึกมาแล้ว เช่น โมเดลภาษา มาทำการฝึกต่อด้วยชุดข้อมูลขนาดเล็กที่มีคุณภาพสูงและมีป้ายกำกับสำหรับงานเฉพาะทาง (downstream task)

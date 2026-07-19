@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /id/terms/emergent_algorithm/
 date: "2026-07-18T15:49:21.397886Z"
 lastmod: "2026-07-18T16:38:07.454348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Perilaku algoritmik yang muncul secara spontan dari interaksi komponen-komponen sederhana tanpa diprogram secara eksplisit."
 ---
-
 ## Definition
 
 Algoritma emergen merujuk pada perilaku atau pola global yang kompleks yang timbul dari interaksi lokal banyak agen atau aturan sederhana dalam suatu sistem. Berbeda dengan pemrograman top-down tradisional di mana

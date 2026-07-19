@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /ru/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:47:55.291155Z"
 lastmod: "2026-07-18T16:38:07.140146Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Набор данных, содержащий исходные предложения и их сжатые версии, используемый для обучения моделей сохранению информации."
 ---
-
 ## Definition
 
 Наборы данных по сжатию предложений состоят из пар, где целевое предложение является сокращенной версией исходного, сохраняя основной смысл при удалении избыточной информации. Эти наборы данных используются...

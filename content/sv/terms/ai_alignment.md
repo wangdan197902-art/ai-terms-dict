@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /sv/terms/ai_alignment/
 date: "2026-07-18T15:41:58.542175Z"
 lastmod: "2026-07-18T17:15:08.970136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Det forskningsfält som fokuserar på att säkerställa att AI-system beter sig i enlighet med mänskliga värderingar och intentioner."
 ---
-
 ## Definition
 
 AI-alignering adresserar utmaningen med att göra artificiella intelligenssystem robusta nog att göra vad användarna avser, snarare än vad de bokstavligen specificerar. Det innebär tekniska metoder för att säkerställa att systemets beteende är säkert och önskvärt.

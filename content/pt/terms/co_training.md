@@ -1,23 +1,25 @@
 ---
-title: "Co-treinamento"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Co-treinamento
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /pt/terms/co_training/
-date: "2026-07-18T14:53:03.755369Z"
-lastmod: "2026-07-18T15:51:59.471401Z"
+slug: co_training
+date: '2026-07-18T14:53:03.755369Z'
+lastmod: '2026-07-18T15:51:59.471401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O co-treinamento é um algoritmo de aprendizado semi-supervisionado onde duas visões dos dados são usadas para treinar classificadores separados que rotulam iterativamente dados não rotulados um para o"
+source: agnes_llm
+status: published
+language: pt
+description: O co-treinamento é um algoritmo de aprendizado semi-supervisionado onde
+  duas visões dos dados são usadas para treinar classificadores separados que rotulam
+  iterativamente dados não rotulados um para o
 ---
-
 ## Definition
 
 Este método aproveita múltiplos conjuntos distintos de recursos (visões) dos mesmos pontos de dados. Inicialmente, dois classificadores são treinados em pequenos conjuntos de dados rotulados de cada visão. Eles então preveem rótulos para dados não rotulados, selecionando aqueles com alta confiança para rotular o outro modelo.

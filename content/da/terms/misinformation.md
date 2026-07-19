@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /da/terms/misinformation/
 date: "2026-07-18T16:07:51.217289Z"
 lastmod: "2026-07-18T17:15:09.311603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Falske eller unøjagtige oplysninger, der spredes uanset hensigten om at vildlede."
 ---
-
 ## Definition
 
 Misinformation refererer til falske eller vildledende oplysninger, der deles uden den bevidste hensigt at forårsage skade eller vildlede. Det adskiller sig fra desinformation, som er bevidst fabriceret. I AI-sammenhæng

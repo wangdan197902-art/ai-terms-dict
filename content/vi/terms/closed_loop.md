@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /vi/terms/closed_loop/
 date: "2026-07-18T15:30:28.587886Z"
 lastmod: "2026-07-18T16:38:07.699898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống điều khiển trong đó phản hồi đầu ra được sử dụng liên tục để điều chỉnh các hành động trong tương lai."
 ---
-
 ## Definition
 
 Các hệ thống vòng kín trong AI tận dụng phản hồi theo thời gian thực từ môi trường để điều chỉnh động hành vi hoặc tham số của chúng. Điều này trái ngược với các hệ thống vòng hở thực thi các chuỗi đã được xác định trước...

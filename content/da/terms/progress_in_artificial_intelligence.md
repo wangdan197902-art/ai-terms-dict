@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /da/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:13:10.404276Z"
 lastmod: "2026-07-18T17:15:09.323516Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den akkumulerede udvikling af AI-evner gennem forskning, udvikling og udrulning af stadig mere sofistikerede algoritmer og hardware."
 ---
-
 ## Definition
 
 Dette begreb omfatter den historiske og løbende udvikling af kunstige intelligenssystemer, der markerer milepæle fra tidlig symbolisk logik til moderne dyb læring. Det afspejler forbedringer i beregningskraft og præstation.

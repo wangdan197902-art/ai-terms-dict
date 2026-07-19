@@ -1,23 +1,24 @@
 ---
-title: "Fremoverrettet nettverk"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Fremoverrettet nettverk
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /no/terms/feed_forward_network/
-date: "2026-07-18T15:54:29.422487Z"
-lastmod: "2026-07-18T16:38:07.000952Z"
+slug: feed_forward_network
+date: '2026-07-18T15:54:29.422487Z'
+lastmod: '2026-07-18T16:38:07.000952Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En klasse av kunstige neurale nettverk der forbindelsene mellom nodene ikke danner sykluser, og som former informasjon i én retning."
+source: agnes_llm
+status: published
+language: 'no'
+description: En klasse av kunstige neurale nettverk der forbindelsene mellom nodene
+  ikke danner sykluser, og som former informasjon i én retning.
 ---
-
 ## Definition
 
 Fremoverrettede nettverk (FFN), også kjent som flernivå-perceptroner (MLP), behandler data sekvensielt gjennom lag av nøyroner fra inndata til utdata uten tilbakemeldingssykluser. Hver nøyron mottar inndata, beregner en vekted sum og anvender en aktiveringsfunksjon før den sender signalet videre til neste lag.

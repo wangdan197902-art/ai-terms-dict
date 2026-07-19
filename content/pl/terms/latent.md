@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /pl/terms/latent/
 date: "2026-07-18T15:26:49.337518Z"
 lastmod: "2026-07-18T17:15:08.814086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do ukrytych, podstawowych zmiennych lub reprezentacji w wewnętrznej przestrzeni modelu, które uchwytują istotne cechy danych."
 ---
-
 ## Definition
 
 W uczeniu maszynowym zmienne ukryte to niezaobserwowane czynniki wpływające na dane obserwowane. W sieciach neuronowych, szczególnie w autoenkoderach i modelach dyfuzyjnych, przestrzenie ukryte reprezentują skompresowane, abstrakcyjne

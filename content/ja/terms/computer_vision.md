@@ -1,23 +1,23 @@
 ---
-title: "コンピュータビジョン"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: コンピュータビジョン
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /ja/terms/computer_vision/
-date: "2026-07-18T07:42:00.734428Z"
-lastmod: "2026-07-18T11:44:44.586378Z"
+slug: computer_vision
+date: '2026-07-18T07:42:00.734428Z'
+lastmod: '2026-07-18T11:44:44.586378Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "コンピュータがデジタル画像、動画、その他の視覚入力から意味のある情報を抽出できるようにする人工知能の分野。"
+source: agnes_llm
+status: published
+language: ja
+description: コンピュータがデジタル画像、動画、その他の視覚入力から意味のある情報を抽出できるようにする人工知能の分野。
 ---
-
 ## Definition
 
 コンピュータビジョンは、計算プロセスを通じて人間の視覚能力を再現することに焦点を当てています。これは、物体の特定、パターンの認識、および視覚データの解釈と分析を含む技術です。

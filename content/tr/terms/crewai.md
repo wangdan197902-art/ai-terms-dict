@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /tr/terms/crewai/
 date: "2026-07-18T15:46:32.594576Z"
 lastmod: "2026-07-18T16:38:07.287487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "CrewAI, karmaşık görevlerde işbirliği yapmak üzere rol oynayan otonom yapay zeka ajanlarını koordine etmek için bir çerçevedir."
 ---
-
 ## Definition
 
 CrewAI, her bir ajanın belirli bir rolü, hedefi ve araç setine sahip olduğu çoklu ajan sistemleri oluşturmak için yapılandırılmış bir ortam sağlar. Geliştiricilerin iş akışlarını oluşturmasını kolaylaştırarak...

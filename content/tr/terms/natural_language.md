@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /tr/terms/natural_language/
 date: "2026-07-18T15:32:01.730637Z"
 lastmod: "2026-07-18T16:38:07.251072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Resmi bilgisayar dillerinin aksine, dilbilgisi, kelime dağarcığı ve bağlamla karakterize edilen standart insan iletişim yöntemi."
 ---
-
 ## Definition
 
 Doğal dil, belirsizlikleri, deyimleri ve kültürel nüansları dahil olmak üzere insanların konuşma ve yazma şeklini ifade eder. Yapay zekada doğal dil işleme, sözdizimini, anlam bilgisi ve

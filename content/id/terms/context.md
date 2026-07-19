@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /id/terms/context/
 date: "2026-07-18T15:23:55.525157Z"
 lastmod: "2026-07-18T16:38:07.390337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konteks merujuk pada informasi atau lingkungan sekitar yang membantu model AI menafsirkan data masukan secara akurat dan menghasilkan respons yang relevan."
 ---
-
 ## Definition
 
 Dalam pemrosesan bahasa alami, konteks sangat penting untuk menyelesaikan ambiguitas, seperti memahami kata ganti atau idiom berdasarkan kalimat sebelumnya. Arsitektur modern seperti transformer menggunakan mekanisme perhatian untuk menangkap ketergantungan jangka panjang dalam konteks.

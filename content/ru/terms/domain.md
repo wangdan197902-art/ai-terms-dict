@@ -1,23 +1,25 @@
 ---
-title: "Домен"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Домен
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /ru/terms/domain/
-date: "2026-07-18T15:24:19.486445Z"
-lastmod: "2026-07-18T16:38:07.073423Z"
+slug: domain
+date: '2026-07-18T15:24:19.486445Z'
+lastmod: '2026-07-18T16:38:07.073423Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Домен представляет собой конкретный контекст или распределение данных, характеризующееся своим пространством признаков и лежащей в основе вероятностной распределением."
+source: agnes_llm
+status: published
+language: ru
+description: Домен представляет собой конкретный контекст или распределение данных,
+  характеризующееся своим пространством признаков и лежащей в основе вероятностной
+  распределением.
 ---
-
 ## Definition
 
 В машинном обучении, особенно в переносе обучения, домен определяется двумя компонентами: пространством признаков (множеством всех возможных входных данных) и маргинальным вероятностным распределением этих входных данных.

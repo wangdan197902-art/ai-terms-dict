@@ -1,23 +1,24 @@
 ---
-title: "dostrojony"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: dostrojony
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /pl/terms/fine_tuned/
-date: "2026-07-18T15:31:40.215947Z"
-lastmod: "2026-07-18T17:15:08.825685Z"
+slug: fine_tuned
+date: '2026-07-18T15:31:40.215947Z'
+lastmod: '2026-07-18T17:15:08.825685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces dalszego trenowania modelu wstępnego na konkretnym zbiorze danych w celu dostosowania go do określonego zadania końcowego."
+source: agnes_llm
+status: published
+language: pl
+description: Proces dalszego trenowania modelu wstępnego na konkretnym zbiorze danych
+  w celu dostosowania go do określonego zadania końcowego.
 ---
-
 ## Definition
 
 Dostrojenie polega na wykorzystaniu modelu, który został już wytrenowany na dużym, ogólnym zbiorze danych, i kontynuowaniu jego trenowania na mniejszym, specyficznym dla zadania zbiorze danych. Ta technika wykorzystuje ogólne...

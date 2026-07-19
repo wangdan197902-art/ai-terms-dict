@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /id/terms/transformers/
 date: "2026-07-18T15:30:34.302248Z"
 lastmod: "2026-07-18T16:38:07.406141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam konteks ini, merujuk pada pustaka Hugging Face Transformers, sebuah toolkit sumber terbuka populer untuk model NLP dan multimodal terkini."
 ---
-
 ## Definition
 
 Istilah 'Transformers' sering kali merujuk pada pustaka Python yang banyak digunakan dan dikelola oleh Hugging Face. Pustaka ini menyediakan antarmuka yang mudah digunakan untuk mengunduh, melatih, dan menerapkan model yang telah dilatih sebelumnya berdasarkan

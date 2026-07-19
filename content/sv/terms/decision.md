@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /sv/terms/decision/
 date: "2026-07-18T15:24:07.950790Z"
 lastmod: "2026-07-18T17:15:08.939335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett val som görs av en agens eller algoritm efter att ha utvärderat tillgängliga alternativ mot specifika kriterier eller mål."
 ---
-
 ## Definition
 
 Beslutsfattande inom AI innebär att välja den optimala åtgärden från en mängd möjligheter baserat på data, modeller och fördefinierade mål. Det kan vara deterministiskt, genom att följa strikta regler, eller probabilistiskt, där osäkerhet beaktas.

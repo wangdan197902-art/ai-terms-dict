@@ -1,23 +1,24 @@
 ---
-title: "Dataset: Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: 'Dataset: Code Search Net'
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /ro/terms/datasetcode_search_net/
-date: "2026-07-18T15:52:00.538548Z"
-lastmod: "2026-07-18T17:15:09.642959Z"
+slug: datasetcode_search_net
+date: '2026-07-18T15:52:00.538548Z'
+lastmod: '2026-07-18T17:15:09.642959Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un set de date de referință conceput pentru a evalua sistemele de căutare în cod, asociind interogări în limbaj natural cu fragmente de cod relevante."
+source: agnes_llm
+status: published
+language: ro
+description: Un set de date de referință conceput pentru a evalua sistemele de căutare
+  în cod, asociind interogări în limbaj natural cu fragmente de cod relevante.
 ---
-
 ## Definition
 
 Code Search Net este un set de date cuprinzător creat pentru a avansa cercetarea în domeniul recuperării codului. Conține milioane de perechi de descrieri în limbaj natural și fragmente corespunzătoare de cod Java. Acesta permite evaluarea preciziei sistemelor de căutare semantică.

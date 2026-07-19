@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /tr/terms/glm/
 date: "2026-07-18T15:55:13.929130Z"
 lastmod: "2026-07-18T16:38:07.313396Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "GLM genellikle istatistikte Genelleştirilmiş Doğrusal Modelleri veya Zhipu AI tarafından geliştirilen Genel Dil Modeli serisini ifade eder."
 ---
-
 ## Definition
 
 İstatistiksel modellemede GLM, Genelleştirilmiş Doğrusal Modeller anlamına gelir ve doğrusal regresyonu, normal dağılım dışındaki hata dağılım modellerine sahip yanıt değişkenlerini destekleyecek şekilde genişletir. Yapay zeka bağlamında ise Zhipu AI'nın geliştirdiği Genel Dil Modeli serisini işaret eder.

@@ -1,23 +1,23 @@
 ---
-title: "Αντί"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Αντί
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /el/terms/instead/
-date: "2026-07-18T15:27:07.441543Z"
-lastmod: "2026-07-18T17:15:09.846715Z"
+slug: instead
+date: '2026-07-18T15:27:07.441543Z'
+lastmod: '2026-07-18T17:15:09.846715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το «αντί» είναι μια γλωσσική σύνδεσμος ή επίρρημα που δηλώνει υποκατάσταση, αντικατάσταση ή μια εναλλακτική ενέργεια που λαμβάνεται χώρα μιας άλλης."
+source: agnes_llm
+status: published
+language: el
+description: Το «αντί» είναι μια γλωσσική σύνδεσμος ή επίρρημα που δηλώνει υποκατάσταση,
+  αντικατάσταση ή μια εναλλακτική ενέργεια που λαμβάνεται χώρα μιας άλλης.
 ---
-
 ## Definition
 
 Αν και δεν αποτελεί τεχνικός όρος αλγορίθμου ΤΝ, ο όρος «αντί» είναι κρίσιμος στη μηχανική εντολών (prompt engineering) και στην κατανόηση φυσικής γλώσσας. Υποδηλώνει μια σχέση αντίθεσης ή υποκατάστασης μεταξύ προτάσεων. Στην εκπαίδευση μοντέλων μεγάλης γλώσσας (LLMs), η σωστή ερμηνεία αυτής της λέξης επιτρέπει στο μοντέλο να ακολουθήσει οδηγίες για την παραγωγή εναλλακτικών αποτελεσμάτων ή την αποφυγή συγκεκριμένων περιεχομένων.

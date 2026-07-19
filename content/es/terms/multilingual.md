@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /es/terms/multilingual/
 date: "2026-07-18T11:01:07.645136Z"
 lastmod: "2026-07-18T11:44:44.834649Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Multilingüe en IA se refiere a modelos capaces de procesar, comprender o generar contenido en múltiples idiomas naturales."
 ---
-
 ## Definition
 
 Los modelos multilingües están diseñados para manejar entradas lingüísticas diversas sin requerir modelos separados para cada idioma. Estos sistemas suelen utilizar incrustaciones compartidas o alineación intercultural p

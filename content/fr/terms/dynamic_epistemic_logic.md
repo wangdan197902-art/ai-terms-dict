@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /fr/terms/dynamic_epistemic_logic/
 date: "2026-07-18T11:14:58.935351Z"
 lastmod: "2026-07-18T11:44:45.244958Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre formel pour raisonner sur les changements dans les états de connaissance des agents résultant de mises à jour d'informations ou d'événements."
 ---
-
 ## Definition
 
 La logique épistémique dynamique (LED) étend la logique modale pour modéliser comment la connaissance évolue lorsque les agents reçoivent de nouvelles informations. Elle fournit des outils pour analyser les systèmes multi-agents où les croyances changent suite à des publications ou événements.

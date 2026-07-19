@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /vi/terms/statistical_relational_learning/
 date: "2026-07-18T16:13:12.342662Z"
 lastmod: "2026-07-18T16:38:07.808290Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một lĩnh vực của học máy tích hợp suy luận xác suất với logic bậc nhất để xử lý các cấu trúc quan hệ phức tạp trong dữ liệu."
 ---
-
 ## Definition
 
 Học quan hệ thống kê (SRL) kết hợp lý thuyết xác suất với các cấu trúc dữ liệu quan hệ, cho phép các mô hình nắm bắt các phụ thuộc giữa các thực thể và mối quan hệ của chúng. Khác với các phương pháp thống kê tiêu chuẩn

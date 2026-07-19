@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /de/terms/audit/
 date: "2026-07-18T11:04:01.294859Z"
 lastmod: "2026-07-18T11:44:44.911964Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine systematische Bewertung von KI-Systemen, um die Einhaltung ethischer Standards, regulatorischer Anforderungen und Leistungsmaßstäbe sicherzustellen."
 ---
-
 ## Definition
 
 Ein KI-Audit beinhaltet eine strenge, strukturierte Überprüfung von Machine-Learning-Modellen und deren Bereitstellungs-Pipelines. Dabei werden Fairness, Transparenz, Rechenschaftspflicht und Sicherheit bewertet, um potenzielle Verzerrungen zu identifizieren.

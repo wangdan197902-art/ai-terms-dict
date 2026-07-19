@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /de/terms/ai_mode/
 date: "2026-07-18T11:00:48.362741Z"
 lastmod: "2026-07-18T11:44:44.902551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein funktionaler Zustand in Softwareoberflächen, in dem künstliche Intelligenz Aufgaben aktiv unterstützt oder automatisiert."
 ---
-
 ## Definition
 
 Der KI-Modus bezeichnet einen spezifischen Betriebszustand innerhalb digitaler Plattformen oder Anwendungen, in dem KI-Fähigkeiten aktiviert werden, um die Benutzerinteraktion zu verbessern. Dieser Modus ermöglicht typischerweise Funktionen wie nat...

@@ -1,23 +1,24 @@
 ---
-title: "Produits et applications d'OpenAI"
-term_id: "products_and_applications_of_openai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "generative_ai", "nlp"]
+title: Produits et applications d'OpenAI
+term_id: products_and_applications_of_openai
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Generative AI
+- NLP
 difficulty: 1
 weight: 1
-slug: "products_and_applications_of_openai"
-aliases:
-  - /fr/terms/products_and_applications_of_openai/
-date: "2026-07-18T11:34:24.741816Z"
-lastmod: "2026-07-18T11:44:45.315569Z"
+slug: products_and_applications_of_openai
+date: '2026-07-18T11:34:24.741816Z'
+lastmod: '2026-07-18T11:44:45.315569Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Référence à la suite d'outils d'IA, d'API et de résultats de recherche développés par OpenAI, incluant les modèles GPT et DALL-E."
+source: agnes_llm
+status: published
+language: fr
+description: Référence à la suite d'outils d'IA, d'API et de résultats de recherche
+  développés par OpenAI, incluant les modèles GPT et DALL-E.
 ---
-
 ## Definition
 
 Ce terme englobe les produits commerciaux et de recherche créés par OpenAI, un laboratoire de recherche en intelligence artificielle de premier plan. Les offres clés incluent les Transformateurs Pré-entraînés Génératifs (GPT) pour le traitement du langage naturel, DALL-E pour la génération d'images à partir de descriptions textuelles, ainsi que diverses API et services déployés commercialement.

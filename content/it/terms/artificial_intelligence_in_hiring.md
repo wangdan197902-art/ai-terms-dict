@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /it/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:47:56.419125Z"
 lastmod: "2026-07-18T17:15:08.599234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'uso di strumenti IA per semplificare i processi di assunzione, inclusa la scrematura dei CV, la corrispondenza dei candidati e l'analisi dei colloqui."
 ---
-
 ## Definition
 
 L'IA nel reclutamento utilizza algoritmi per automatizzare e migliorare varie fasi del ciclo di vita del recruiting. Gli strumenti analizzano i CV per la rilevanza delle parole chiave, valutano l'idoneità del candidato attraverso...

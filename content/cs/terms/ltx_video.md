@@ -1,23 +1,24 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /cs/terms/ltx_video/
-date: "2026-07-18T16:06:45.542232Z"
-lastmod: "2026-07-18T17:15:09.149929Z"
+slug: ltx_video
+date: '2026-07-18T16:06:45.542232Z'
+lastmod: '2026-07-18T17:15:09.149929Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Model latentské difuze optimalizovaný pro generování vysoce věrného a časově konzistentního video obsahu z textových nebo obrazových podnětů."
+source: agnes_llm
+status: published
+language: cs
+description: Model latentské difuze optimalizovaný pro generování vysoce věrného a
+  časově konzistentního video obsahu z textových nebo obrazových podnětů.
 ---
-
 ## Definition
 
 Ltx Video představuje pokrok v generativní AI pro video, využívající procesy difuze v latentním prostoru k vytvoření souvislého pohybu a vizuálních detailů. Řeší běžné výzvy generování videí, jako je blikání, narušení konzistence objektů nebo nekonzistentní fyzikální simulace, tím, že učí model rozumět jak statickým vizuálním vlastnostem, tak dynamickým změnám v čase, což vede k plynulejším a realističtějším výsledkům.

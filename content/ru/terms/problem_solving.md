@@ -1,23 +1,24 @@
 ---
-title: "Решение задач"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Решение задач
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /ru/terms/problem_solving/
-date: "2026-07-18T16:11:05.568128Z"
-lastmod: "2026-07-18T16:38:07.193804Z"
+slug: problem_solving
+date: '2026-07-18T16:11:05.568128Z'
+lastmod: '2026-07-18T16:38:07.193804Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Познавательный процесс поиска решений трудностей, включающий поиск, рассуждение и планирование в рамках заданного пространства состояний."
+source: agnes_llm
+status: published
+language: ru
+description: Познавательный процесс поиска решений трудностей, включающий поиск, рассуждение
+  и планирование в рамках заданного пространства состояний.
 ---
-
 ## Definition
 
 В искусственном интеллекте решение задач относится к систематическому подходу к переходу из начального состояния в целевое состояние посредством последовательности действий. Обычно включает определение задачи, выбор подходящего алгоритма поиска (например, поиск в ширину или A*), оценку состояний с помощью эвристик и построение плана действий для достижения цели.

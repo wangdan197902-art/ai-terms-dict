@@ -1,23 +1,24 @@
 ---
-title: "למידת מכונה רגישה לעלויות"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: למידת מכונה רגישה לעלויות
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /he/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:50:30.243405Z"
-lastmod: "2026-07-18T17:15:09.523833Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:50:30.243405Z'
+lastmod: '2026-07-18T17:15:09.523833Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרדיגמה של למידת מכונה המשלבת עלויות של סיווג שגוי בתהליך האימון כדי למקסם השפעה כלכלית במקום רק דיוק."
+source: agnes_llm
+status: published
+language: he
+description: פרדיגמה של למידת מכונה המשלבת עלויות של סיווג שגוי בתהליך האימון כדי
+  למקסם השפעה כלכלית במקום רק דיוק.
 ---
-
 ## Definition
 
 למידת מכונה רגישה לעלויות מרחיבה את הלמידה הפיקוחית המסורתית על ידי הקצאת קנסות שונים לסוגים שונים של טעויות. בתרחישים בעולם האמיתי, תוצאות חיוביות כוזבות ושליליות כוזבות לעיתים קרובות יש השלכות כלכליות שונות.

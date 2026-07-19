@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /pt/terms/stereotype/
 date: "2026-07-18T15:27:52.819389Z"
 lastmod: "2026-07-18T15:51:59.543862Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma crença generalizada e frequentemente simplificada sobre um grupo específico de pessoas, refletida nas saídas de IA."
 ---
-
 ## Definition
 
 Na IA, os estereótipos surgem quando os modelos aprendem e amplificam vieses sociais presentes nos dados de treinamento. Isso pode levar a resultados discriminatórios, como associar certas profissões a gêneros específicos.

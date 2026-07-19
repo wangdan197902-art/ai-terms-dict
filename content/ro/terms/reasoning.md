@@ -1,23 +1,24 @@
 ---
-title: "Raționament"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Raționament
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /ro/terms/reasoning/
-date: "2026-07-18T15:37:49.357737Z"
-lastmod: "2026-07-18T17:15:09.618113Z"
+slug: reasoning
+date: '2026-07-18T15:37:49.357737Z'
+lastmod: '2026-07-18T17:15:09.618113Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Raționamentul se referă la procesul cognitiv de tragere a concluziilor, formularea predicțiilor sau rezolvarea problemelor pe baza informațiilor disponibile."
+source: agnes_llm
+status: published
+language: ro
+description: Raționamentul se referă la procesul cognitiv de tragere a concluziilor,
+  formularea predicțiilor sau rezolvarea problemelor pe baza informațiilor disponibile.
 ---
-
 ## Definition
 
 În inteligența artificială, raționamentul implică algoritmi care simulează deducerea logică, inducția sau abducția pentru a procesa date și a genera informații valoroase. Aceasta cuprinde tehnici precum logica simbolică, inferența probabilistică și raționamentul bazat pe cunoștințe pentru a susține decizii inteligente.

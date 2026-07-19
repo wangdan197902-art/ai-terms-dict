@@ -1,23 +1,24 @@
 ---
-title: "Ολισθήση Εννοιών"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Ολισθήση Εννοιών
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /el/terms/concept_drift/
-date: "2026-07-18T15:56:20.445354Z"
-lastmod: "2026-07-18T17:15:09.891473Z"
+slug: concept_drift
+date: '2026-07-18T15:56:20.445354Z'
+lastmod: '2026-07-18T17:15:09.891473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ολισθήση εννοιών συμβαίνει όταν οι στατιστικές ιδιότητες της μεταβλητούς στόχου αλλάζουν με τον χρόνο, μειώνοντας την απόδοση του μοντέλου."
+source: agnes_llm
+status: published
+language: el
+description: Η ολισθήση εννοιών συμβαίνει όταν οι στατιστικές ιδιότητες της μεταβλητούς
+  στόχου αλλάζουν με τον χρόνο, μειώνοντας την απόδοση του μοντέλου.
 ---
-
 ## Definition
 
 Η ολισθήση εννοιών είναι ένα φαινόμενο στη μηχανική μάθηση όπου η σχέση μεταξύ των χαρακτηριστικών εισόδου και της εξόδου στόχου αλλάζει καθώς εισέρχονται νέα δεδομένα. Αυτό συχνά συμβαίνει σε δυναμικά περιβάλλοντα όπου οι προτιμήσεις των χρηστών ή οι συνθήκες του πραγματικού κόσμου μεταβάλλονται.

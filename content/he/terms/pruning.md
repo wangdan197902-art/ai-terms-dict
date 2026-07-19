@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /he/terms/pruning/
 date: "2026-07-18T16:20:23.435334Z"
 lastmod: "2026-07-18T17:15:09.576602Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקת דחיסת מודל המסירה פרמטרים מיותרים או פחות משמעותיים כדי להקטין את הגודל ולשפר את מהירות ההסקה."
 ---
-
 ## Definition
 
 גיזום כולל זיהוי והסרת נוירונים, חיבורים או מסננים ברשת עצבית התורמים מינימלית לדיוק הפלט. על ידי הסרת יסודות מיותרים אלה, המודל הופך לקל יותר ויעיל יותר.

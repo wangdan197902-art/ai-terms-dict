@@ -1,23 +1,24 @@
 ---
-title: "إفيشينت نت"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: إفيشينت نت
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /ar/terms/efficientnet/
-date: "2026-07-18T15:56:22.907990Z"
-lastmod: "2026-07-18T17:15:08.500301Z"
+slug: efficientnet
+date: '2026-07-18T15:56:22.907990Z'
+lastmod: '2026-07-18T17:15:08.500301Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "إفيشينت نت هي عائلة من معماريات الشبكات العصبية الالتفافية التي تقوم بتعميق العرض والدقة بانتظام لتحقيق دقة أعلى مع معاملات أقل."
+source: agnes_llm
+status: published
+language: ar
+description: إفيشينت نت هي عائلة من معماريات الشبكات العصبية الالتفافية التي تقوم
+  بتعميق العرض والدقة بانتظام لتحقيق دقة أعلى مع معاملات أقل.
 ---
-
 ## Definition
 
 طورتها جوجل، تستخدم إفيشينت نت طريقة القياس المركب لموازنة عمق الشبكة، وعرضها، ودقة صور الإدخال. يسمح هذا النهج للنموذج بتحقيق دقة قياسية بينما يحافظ على كفاءة عالية في استخدام الموارد الحسابية.

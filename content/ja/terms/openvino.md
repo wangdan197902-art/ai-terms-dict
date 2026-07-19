@@ -7,8 +7,6 @@ tags: ["Deployment", "Intel", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "openvino"
-aliases:
-  - /ja/terms/openvino/
 date: "2026-07-18T11:26:14.779402Z"
 lastmod: "2026-07-18T11:44:45.128486Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "OpenVINOは、Intelによるオープンソースツールキットで、さまざまなハードウェアプラットフォーム上でディープラーニングモデルを効率的に最適化および展開するために使用されます。"
 ---
-
 ## Definition
 
 Intelによって開発されたOpenVINO（Open Visual Inference and Neural network Optimization）は、開発者が訓練済みのディープラーニングモデルを取得し、Intelハードウェア上で効率的に展開することを可能にします。これにはモデル最適化ツールや推論エンジンが含まれます。

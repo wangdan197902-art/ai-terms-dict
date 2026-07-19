@@ -1,23 +1,24 @@
 ---
-title: "Bioserenity"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Bioserenity
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /da/terms/bioserenity/
-date: "2026-07-18T15:44:36.646594Z"
-lastmod: "2026-07-18T17:15:09.266184Z"
+slug: bioserenity
+date: '2026-07-18T15:44:36.646594Z'
+lastmod: '2026-07-18T17:15:09.266184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teoretisk tilstand af harmonisk samexistens mellem biologisk liv og kunstig intelligens-systemer."
+source: agnes_llm
+status: published
+language: da
+description: En teoretisk tilstand af harmonisk samexistens mellem biologisk liv og
+  kunstig intelligens-systemer.
 ---
-
 ## Definition
 
 Bioserenity refererer til det konceptuelle ideal, hvor menneskelig biologi og kunstig intelligens opererer i sømløs, ikke-konfliktfyldt harmoni. Det understreger etisk integration og sikrer, at AI-forstærkning...

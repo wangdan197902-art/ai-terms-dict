@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /hu/terms/personality_computing/
 date: "2026-07-18T16:17:55.051743Z"
 lastmod: "2026-07-18T17:15:09.821970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy tanulmányi terület, amely arra összpontosít, hogy számítási modelleket hozzon létre az emberi személyiségjegyek szimulálására az ember-gép interakció javítása érdekében."
 ---
-
 ## Definition
 
 A személyiség-számítás olyan algoritmusok és rendszerek fejlesztését foglalja magában, amelyek képesek modellezni, szimulálni vagy alkalmazkodni az emberi személyiség dimenzióihoz, például a Nagy Ötös (Big Five) jegyekhez. Ezek a rendszerek arra törekszenek, hogy 

@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /ja/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T11:10:29.076935Z"
 lastmod: "2026-07-18T11:44:45.085260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Simple English Wikipedia由来のキュレーション済みデータセットで、テキスト埋め込みモデルの学習および評価に使用されます。"
 ---
-
 ## Definition
 
 このデータセットは、非ネイティブスピーカー向けに文法と語彙を簡素化したSimple English Wikipediaから抽出された文や段落で構成されています。これは、

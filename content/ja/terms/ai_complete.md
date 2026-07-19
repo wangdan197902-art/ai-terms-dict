@@ -1,23 +1,23 @@
 ---
-title: "AI完全"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: AI完全
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /ja/terms/ai_complete/
-date: "2026-07-18T11:02:35.667070Z"
-lastmod: "2026-07-18T11:44:45.062551Z"
+slug: ai_complete
+date: '2026-07-18T11:02:35.667070Z'
+lastmod: '2026-07-18T11:44:45.062551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "それを解決するには人間のような汎用知能が必要であり、人工汎用知能（AGI）の達成と同等となるほど複雑な問題。"
+source: agnes_llm
+status: published
+language: ja
+description: それを解決するには人間のような汎用知能が必要であり、人工汎用知能（AGI）の達成と同等となるほど複雑な問題。
 ---
-
 ## Definition
 
 AI完全な問題とは、もし解決されれば人工汎用知能（AGI）の存在を意味するタスクです。これらの問題には、人間に近い深い理解、推論、適応能力が必要です。

@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /cs/terms/pythia/
-date: "2026-07-18T16:14:12.935148Z"
-lastmod: "2026-07-18T17:15:09.193406Z"
+slug: pythia
+date: '2026-07-18T16:14:12.935148Z'
+lastmod: '2026-07-18T17:15:09.193406Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Pythia je sada velkých jazykových modelů (LLM) pouze s dekodérem vyvinutá organizací EleutherAI, s rozsahem od 70 milionů do 12 miliard parametrů."
+source: agnes_llm
+status: published
+language: cs
+description: Pythia je sada velkých jazykových modelů (LLM) pouze s dekodérem vyvinutá
+  organizací EleutherAI, s rozsahem od 70 milionů do 12 miliard parametrů.
 ---
-
 ## Definition
 
 Pythia je série open-source velkých jazykových modelů (LLM) vytvořená organizací EleutherAI, navržená tak, aby usnadnila výzkum interpretovatelnosti a chování neuronových sítí. Sada zahrnuje modely různých velikostí, které sdílejí stejnou architekturu a tréninková data, což umožňuje vědcům studovat vliv velikosti modelu na jeho výkon a chování.

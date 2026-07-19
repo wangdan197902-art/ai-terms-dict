@@ -1,23 +1,24 @@
 ---
-title: "Rețele Kolmogorov–Arnold"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Rețele Kolmogorov–Arnold
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /ro/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:07:33.728005Z"
-lastmod: "2026-07-18T17:15:09.672633Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:07:33.728005Z'
+lastmod: '2026-07-18T17:15:09.672633Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Arhitecturi de rețele neuronale bazate pe teorema de reprezentare Kolmogorov-Arnold, oferind o alternativă la perceptronii multicategorici."
+source: agnes_llm
+status: published
+language: ro
+description: Arhitecturi de rețele neuronale bazate pe teorema de reprezentare Kolmogorov-Arnold,
+  oferind o alternativă la perceptronii multicategorici.
 ---
-
 ## Definition
 
 Rețelele Kolmogorov–Arnold (KAN) sunt o clasă recentă de rețele neuronale inspirată de teorema de reprezentare Kolmogorov-Arnold, care afirmă că orice funcție continuă multivariată poate fi reprezentată...

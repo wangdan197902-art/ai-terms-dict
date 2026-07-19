@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /pl/terms/code/
 date: "2026-07-18T15:34:01.618998Z"
 lastmod: "2026-07-18T17:15:08.830437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W kontekście AI kod odnosi się do uporządkowanych instrukcji napisanych w językach programowania, które definiują zachowanie modelu i logikę przetwarzania danych."
 ---
-
 ## Definition
 
 Kod reprezentuje zbiór instrukcji napisanych w językach programowania takich jak Python, C++ czy JavaScript, które komputery wykonują w celu wykonania konkretnych zadań. W sztucznej inteligencji kod jest fundamentalny do implementacji algorytmów uczenia maszynowego, architektury modeli oraz przetwarzania danych.

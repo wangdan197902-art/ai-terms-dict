@@ -1,23 +1,25 @@
 ---
-title: "Falcon"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: Falcon
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /da/terms/falcon/
-date: "2026-07-18T15:55:32.924157Z"
-lastmod: "2026-07-18T17:15:09.287557Z"
+slug: falcon
+date: '2026-07-18T15:55:32.924157Z'
+lastmod: '2026-07-18T17:15:09.287557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En familie af store sprogmodeller udviklet af Technology Innovation Institute, kendt for deres høje ydeevne og effektivitet sammenlignet med andre open source LLM'er."
+source: agnes_llm
+status: published
+language: da
+description: En familie af store sprogmodeller udviklet af Technology Innovation Institute,
+  kendt for deres høje ydeevne og effektivitet sammenlignet med andre open source
+  LLM'er.
 ---
-
 ## Definition
 
 Falcon henviser til en serie af kraftfulde store sprogmodeller (LLM'er), der er skabt af Technology Innovation Institute. Disse modeller, såsom Falcon-40B og Falcon-180B, er designet til at konkurrere med proprietære modeller.

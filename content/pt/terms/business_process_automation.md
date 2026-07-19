@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /pt/terms/business_process_automation/
 date: "2026-07-18T14:52:08.967944Z"
 lastmod: "2026-07-18T15:51:59.469805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O uso de tecnologia para executar tarefas ou processos recorrentes em uma empresa onde o esforço manual pode ser substituído."
 ---
-
 ## Definition
 
 A Automação de Processos de Negócios (BPA) envolve o aproveitamento de software e IA para otimizar fluxos de trabalho empresariais complexos. Diferentemente da simples automação robótica de processos (RPA), que lida com tarefas baseadas em regras, a BPA frequentemente integra inteligência artificial para tomar decisões mais complexas.

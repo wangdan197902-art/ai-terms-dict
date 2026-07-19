@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /pt/terms/explainable_artificial_intelligence/
 date: "2026-07-18T14:59:29.148808Z"
 lastmod: "2026-07-18T15:51:59.489914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "IA Explicável (XAI) refere-se a métodos e técnicas na aplicação de tecnologia de inteligência artificial de modo que os resultados da solução possam ser compreendidos por especialistas humanos."
 ---
-
 ## Definition
 
 À medida que os modelos de aprendizado de máquina se tornam mais complexos, particularmente as redes neurais profundas, seus processos de tomada de decisão frequentemente se tornam caixas-pretas opacas. A XAI visa tornar essas decisões interpretáveis e transparentes, permitindo que humanos confiem, auditem e entendam as justificativas por trás das previsões do modelo.

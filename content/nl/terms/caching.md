@@ -1,23 +1,25 @@
 ---
-title: "Caching"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caching
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /nl/terms/caching/
-date: "2026-07-18T15:45:48.155323Z"
-lastmod: "2026-07-18T17:15:08.724072Z"
+slug: caching
+date: '2026-07-18T15:45:48.155323Z'
+lastmod: '2026-07-18T17:15:08.724072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Caching is een techniek waarbij vaak toegankelijke gegevens worden opgeslagen in een tijdelijke, snelle opslaglaag om latentie te verminderen en de belasting van primaire gegevensbronnen te verlagen."
+source: agnes_llm
+status: published
+language: nl
+description: Caching is een techniek waarbij vaak toegankelijke gegevens worden opgeslagen
+  in een tijdelijke, snelle opslaglaag om latentie te verminderen en de belasting
+  van primaire gegevensbronnen te verlagen.
 ---
-
 ## Definition
 
 Bij AI-engineering optimaliseert caching de prestaties door recente of frequente queryresultaten, modelvoorspellingen of tussentijdse berekeningen in snel geheugen (zoals RAM) te houden. Dit vermindert de behoefte aan dure of trage herhaalde berekeningen of database-aanroepen.

@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /de/terms/markov/
 date: "2026-07-18T10:51:36.980361Z"
 lastmod: "2026-07-18T11:44:44.878233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Markov bezieht sich auf stochastische Prozesse, bei denen der zukünftige Zustand nur vom aktuellen Zustand abhängt und somit der Markov-Eigenschaft der Gedächtnislosigkeit folgt."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz und der Wahrscheinlichkeitstheorie sind Markov-Prozesse grundlegende Modelle zur Beschreibung von Systemen, die zufällig zwischen Zuständen wechseln. Das Kernprinzip ist die Markov-Eigenschaft,

@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /tr/terms/artificial_psychology/
 date: "2026-07-18T15:41:54.078109Z"
 lastmod: "2026-07-18T16:38:07.274890Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsan psikolojik süreçlerini taklit eden bilişsel mimarılara sahip yapay zeka sistemlerinin tasarımını inceleyen alan."
 ---
-
 ## Definition
 
 Yapay psikoloji, yapay zeka sistemlerinde bilişsel mimarilerin tasarımı ve uygulanması üzerine odaklanan disiplinlerarası bir alandır. Bilişsel bilim ve psikoloji alanlarından beslenerek insan zihninin çalışma modellerini taklit etmeye çalışır. Bu alan, yapay zekanın sadece veri işlemesini değil, aynı zamanda öğrenme, hafıza, dikkat ve problem çözme gibi insan benzeri bilişsel süreçleri nasıl simüle edebileceğini araştırır.

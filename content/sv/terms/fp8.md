@@ -1,23 +1,24 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /sv/terms/fp8/
-date: "2026-07-18T15:58:37.555063Z"
-lastmod: "2026-07-18T17:15:09.004921Z"
+slug: fp8
+date: '2026-07-18T15:58:37.555063Z'
+lastmod: '2026-07-18T17:15:09.004921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "FP8 är ett 8-bitars flyttalsformat utformat för att accelerera träning och inferens inom djupinlärning samtidigt som acceptabla precisionsnivåer upprätthålls."
+source: agnes_llm
+status: published
+language: sv
+description: FP8 är ett 8-bitars flyttalsformat utformat för att accelerera träning
+  och inferens inom djupinlärning samtidigt som acceptabla precisionsnivåer upprätthålls.
 ---
-
 ## Definition
 
 Flyttal 8 (FP8) är en numerisk datatyp som erbjuder en balans mellan beräkningseffektivitet och noggrannhet, specifikt optimerad för modern AI-hårdvara. Den minskar kraven på minnesbandbredd

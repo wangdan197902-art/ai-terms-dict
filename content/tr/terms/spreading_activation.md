@@ -1,23 +1,24 @@
 ---
-title: "Yayılan aktivasyon"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: Yayılan aktivasyon
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /tr/terms/spreading_activation/
-date: "2026-07-18T16:15:33.481482Z"
-lastmod: "2026-07-18T16:38:07.368151Z"
+slug: spreading_activation
+date: '2026-07-18T16:15:33.481482Z'
+lastmod: '2026-07-18T16:38:07.368151Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir ağdaki bağlı düğümlerde, tek bir düğümün aktivasyonunu tetikleyen bilişimden esinlenen bir mekanizma."
+source: agnes_llm
+status: published
+language: tr
+description: Bir ağdaki bağlı düğümlerde, tek bir düğümün aktivasyonunu tetikleyen
+  bilişimden esinlenen bir mekanizma.
 ---
-
 ## Definition
 
 Yayılan aktivasyon, orijinal olarak bilişsel psikolojiden gelen ve sinir ağlarında, birbirine bağlı birimler arasında sinyal yayılımının nasıl gerçekleştiğini açıklamak için uyarlanan bir kavramdır. Belirli bir düğüm aktive edildiğinde, bu aktivasyon komşu düğümlere doğru yayılır ve bağlantı ağırlıklarına bağlı olarak diğer düğümlerin de eşiği aşarak aktif hale gelmesini sağlar. Bu süreç, bilgi işlemenin ve hatırlamanın şebekesel yapısını simüle eder.

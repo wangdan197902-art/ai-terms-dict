@@ -1,23 +1,24 @@
 ---
-title: "Automaattinen lääketieteellinen sihteeri"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Automaattinen lääketieteellinen sihteeri
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /fi/terms/automated_medical_scribe/
-date: "2026-07-18T15:44:44.262779Z"
-lastmod: "2026-07-18T17:15:09.386270Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:44:44.262779Z'
+lastmod: '2026-07-18T17:15:09.386270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekoälypohjainen järjestelmä, joka luo automaattisesti kliinistä dokumentaatiota lääkärin ja potilaan välisistä vuorovaikutustilanteista."
+source: agnes_llm
+status: published
+language: fi
+description: Tekoälypohjainen järjestelmä, joka luo automaattisesti kliinistä dokumentaatiota
+  lääkärin ja potilaan välisistä vuorovaikutustilanteista.
 ---
-
 ## Definition
 
 Automaattiset lääketieteelliset sihteerit hyödyntävät luonnollisen kielen käsittelyä ja puheentunnistusta kuunnellakseen lääkärin ja potilaan keskusteluja sekä luodakseen rakenteellisia sähköisiä potilastietoja. Tämä teknologia vähentää hallinnollista kuormitusta ja parantaa tietojen tarkkuutta.

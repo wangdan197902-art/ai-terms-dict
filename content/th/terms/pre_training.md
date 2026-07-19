@@ -1,23 +1,24 @@
 ---
-title: "การฝึกขั้นต้น"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: การฝึกขั้นต้น
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /th/terms/pre_training/
-date: "2026-07-18T15:28:06.175464Z"
-lastmod: "2026-07-18T16:38:07.545688Z"
+slug: pre_training
+date: '2026-07-18T15:28:06.175464Z'
+lastmod: '2026-07-18T16:38:07.545688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ขั้นตอนเริ่มต้นของการฝึกโมเดลแมชชีนเลิร์นนิงบนชุดข้อมูลขนาดใหญ่ที่ยังไม่มีป้ายกำกับ เพื่อเรียนรู้การแสดงลักษณะทั่วไป ก่อนทำการปรับแต่งสำหรับงานเฉพาะทาง"
+source: agnes_llm
+status: published
+language: th
+description: ขั้นตอนเริ่มต้นของการฝึกโมเดลแมชชีนเลิร์นนิงบนชุดข้อมูลขนาดใหญ่ที่ยังไม่มีป้ายกำกับ
+  เพื่อเรียนรู้การแสดงลักษณะทั่วไป ก่อนทำการปรับแต่งสำหรับงานเฉพาะทาง
 ---
-
 ## Definition
 
 การฝึกขั้นต้นเป็นเทคนิคพื้นฐานใน Deep Learning ที่โมเดลเรียนรู้คุณลักษณะและรูปแบบกว้างๆ จากข้อมูลปริมาณมหาศาล ซึ่งมักไม่มีป้ายกำกับ กระบวนการนี้ช่วยให้โมเดลพัฒนาความเข้าใจพื้นฐานเกี่ยวกับโครงสร้างภาษาหรือภาพ ทำให้สามารถถ่ายโอนความรู้ไปยังงานเฉพาะทางได้อย่างมีประสิทธิภาพผ่านการ Fine-tuning

@@ -1,23 +1,24 @@
 ---
-title: "Kubernetes"
-term_id: "kubernetes"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "devops", "cloud_computing"]
+title: Kubernetes
+term_id: kubernetes
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- devops
+- Cloud Computing
 difficulty: 3
 weight: 1
-slug: "kubernetes"
-aliases:
-  - /id/terms/kubernetes/
-date: "2026-07-18T15:57:13.775541Z"
-lastmod: "2026-07-18T16:38:07.475106Z"
+slug: kubernetes
+date: '2026-07-18T15:57:13.775541Z'
+lastmod: '2026-07-18T16:38:07.475106Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Platform open-source untuk mengotomatisasi penyebaran, penskalaan, dan pengelolaan aplikasi yang dikontainerisasi."
+source: agnes_llm
+status: published
+language: id
+description: Platform open-source untuk mengotomatisasi penyebaran, penskalaan, dan
+  pengelolaan aplikasi yang dikontainerisasi.
 ---
-
 ## Definition
 
 Kubernetes (sering disingkat sebagai K8s) adalah sistem orkestrasi kontainer yang awalnya dikembangkan oleh Google. Platform ini mengotomatisasi penyebaran, penskalaan, dan pengoperasian aplikasi kontainer di seluruh kluster. Kubernetes memungkinkan manajemen aplikasi mikroservis secara efisien, memastikan ketersediaan tinggi, dan memudahkan proses pengembangan serta penerapan perangkat lunak dalam lingkungan cloud-native.

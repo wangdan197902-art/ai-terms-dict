@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /fr/terms/probabilistic_numerics/
 date: "2026-07-18T11:34:15.565444Z"
 lastmod: "2026-07-18T11:44:45.315019Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un domaine traitant les problèmes de calcul numérique comme des tâches d'inférence statistique pour quantifier l'incertitude des résultats."
 ---
-
 ## Definition
 
 Le numérique probabiliste applique des méthodes bayésiennes aux problèmes numériques traditionnels tels que l'intégration, la différentiation et l'algèbre linéaire. Au lieu de fournir des estimations ponctuelles, il produit des distributions de probabilité reflétant l'incertitude des calculs.

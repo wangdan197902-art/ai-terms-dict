@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /ru/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:42:59.118224Z"
 lastmod: "2026-07-18T16:38:07.126406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Параметры моделей рассматриваются как случайные величины с распределениями вероятностей, а не как фиксированные значения."
 ---
-
 ## Definition
 
 Механизмы байесовского обучения обновляют убеждения относительно параметров модели с помощью теоремы Байеса, сочетая предварительные знания с наблюдаемыми данными для формирования апостериорного распределения. В отличие от частотного подхода

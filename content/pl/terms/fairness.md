@@ -7,8 +7,6 @@ tags: ["ethics", "bias", "safety"]
 difficulty: 3
 weight: 1
 slug: "fairness"
-aliases:
-  - /pl/terms/fairness/
 date: "2026-07-18T15:35:16.858781Z"
 lastmod: "2026-07-18T17:15:08.832108Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Sprawiedliwość odnosi się do zasady, zgodnie z którą systemy sztucznej inteligencji powinny unikać generowania stronniczych lub dyskryminujących wyników wobec określonych grup."
 ---
-
 ## Definition
 
 W sztucznej inteligencji sprawiedliwość jest kluczową miarą etyczną zapewniającą, że algorytmy nie utrwalają ani nie wzmacniają społecznych uprzedzeń opartych na chronionych atrybutach, takich jak rasa, płeć czy wiek. Wymaga ona...

@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /pl/terms/grok_1/
 date: "2026-07-18T15:57:59.349339Z"
 lastmod: "2026-07-18T17:15:08.880020Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Pierwsza wersja modelu językowego Grok wydana przez xAI, wyposażona w architekturę Mixture-of-Experts i liczbę parametrów wynoszącą 33 miliardy."
 ---
-
 ## Definition
 
 Grok-1 to inauguracyjne wydanie od xAI, uruchomione w listopadzie 2023 roku. Jest to duży model językowy oparty na architekturze transformera typu decoder-only, z około 33 miliardami parametrów. Co istotne, wykorzystuje on architekturę Mixture-of-Experts...

@@ -1,23 +1,25 @@
 ---
-title: "Induction de règles"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Induction de règles
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /fr/terms/rule_induction/
-date: "2026-07-18T11:36:36.607237Z"
-lastmod: "2026-07-18T11:44:45.324440Z"
+slug: rule_induction
+date: '2026-07-18T11:36:36.607237Z'
+lastmod: '2026-07-18T11:44:45.324440Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'apprentissage automatique qui génère automatiquement un ensemble de règles logiques à partir de données d'entraînement étiquetées afin de classifier de nouvelles instances."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'apprentissage automatique qui génère automatiquement
+  un ensemble de règles logiques à partir de données d'entraînement étiquetées afin
+  de classifier de nouvelles instances.
 ---
-
 ## Definition
 
 L'induction de règles est une méthode d'apprentissage symbolique qui dérive directement des règles de type si-alors à partir des données. Contrairement aux réseaux de neurones qui produisent des poids opaques, l'induction de règles fournit des modèles interprétables compo

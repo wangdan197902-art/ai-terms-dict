@@ -7,8 +7,6 @@ tags: ["neurotech", "niche", "research"]
 difficulty: 4
 weight: 1
 slug: "mindpixel"
-aliases:
-  - /ja/terms/mindpixel/
 date: "2026-07-18T11:23:49.020835Z"
 lastmod: "2026-07-18T11:44:45.122043Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "マインドピクセルは、ブレインコンピュータインターフェース（BCI）研究で使用される、認知データまたは神経活動指標の微細な単位を指す概念上、または独自開発の用語です。"
 ---
-
 ## Definition
 
 標準的な学術用語ではありませんが、「マインドピクセル」は通常、専門的な神経技術の文脈において、神経信号や認知状態から導き出された情報の離散単位を示します。これは、脳波などの生体信号を極めて細かく解析・表現するための単位として用いられることがあります。

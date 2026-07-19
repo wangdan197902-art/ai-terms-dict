@@ -1,23 +1,23 @@
 ---
-title: "翻訳"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: 翻訳
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /ja/terms/translation/
-date: "2026-07-18T11:01:28.546038Z"
-lastmod: "2026-07-18T11:44:45.058831Z"
+slug: translation
+date: '2026-07-18T11:01:28.546038Z'
+lastmod: '2026-07-18T11:44:45.058831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "意味を保持しながら、ソース自然言語からターゲット自然言語へテキストを変換するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 意味を保持しながら、ソース自然言語からターゲット自然言語へテキストを変換するプロセス。
 ---
-
 ## Definition
 
 AIにおける翻訳は、ニューラル機械翻訳を指し、ディープラーニングモデルが言語間で意味表現をマッピングします。ルールベースシステムとは異なり、現代のアプローチは文脈的なニュアンスを学習します。

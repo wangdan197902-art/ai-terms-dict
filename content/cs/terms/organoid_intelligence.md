@@ -1,23 +1,24 @@
 ---
-title: "Organoidní inteligence"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Organoidní inteligence
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /cs/terms/organoid_intelligence/
-date: "2026-07-18T16:11:47.502499Z"
-lastmod: "2026-07-18T17:15:09.169602Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:11:47.502499Z'
+lastmod: '2026-07-18T17:15:09.169602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Hybridní výpočetní paradigma, které integruje živé mozkové buňky s elektronickými rozhraními pro zpracování informací."
+source: agnes_llm
+status: published
+language: cs
+description: Hybridní výpočetní paradigma, které integruje živé mozkové buňky s elektronickými
+  rozhraními pro zpracování informací.
 ---
-
 ## Definition
 
 Organoidní inteligence (OI) označuje vývoj bio-hybridních systémů, kde jsou mozkové organoidy odvozené od lidí kultivovány na mikroelektrodových polích. Tyto živé neuronální sítě provádějí výpočetní úlohy s vysokou energetickou účinností.

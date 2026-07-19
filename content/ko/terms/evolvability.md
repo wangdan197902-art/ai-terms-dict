@@ -1,23 +1,23 @@
 ---
-title: "진화 가능성"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: 진화 가능성
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /ko/terms/evolvability/
-date: "2026-07-18T15:55:04.752654Z"
-lastmod: "2026-07-18T16:38:06.838258Z"
+slug: evolvability
+date: '2026-07-18T15:55:04.752654Z'
+lastmod: '2026-07-18T16:38:06.838258Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "유전형이나 시스템이 적응을 위해 선택될 수 있는 유전 가능한 표현형 변이를 생성할 수 있는 능력."
+source: agnes_llm
+status: published
+language: ko
+description: 유전형이나 시스템이 적응을 위해 선택될 수 있는 유전 가능한 표현형 변이를 생성할 수 있는 능력.
 ---
-
 ## Definition
 
 계산적 맥락에서 진화 가능성은 알고리즘이나 신경망 아키텍처가 세대나 훈련 단계를 거치면서 적합도를 얼마나 쉽게 향상시킬 수 있는지를 나타냅니다. 높은 진화 가능성은 작은 변화가 의미 있는 성능 개선으로 이어질 수 있음을 시사합니다.

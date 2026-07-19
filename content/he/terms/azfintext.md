@@ -7,8 +7,6 @@ tags: ["Finance", "Datasets", "Chinese NLP"]
 difficulty: 4
 weight: 1
 slug: "azfintext"
-aliases:
-  - /he/terms/azfintext/
 date: "2026-07-18T15:40:40.891408Z"
 lastmod: "2026-07-18T17:15:09.509361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "AZFinText הוא מאגר נתונים ייעודי לכריית טקסט פיננסי וניתוח רגשות בהקשר הסיני."
 ---
-
 ## Definition
 
 AZFinText הוא קורפוס גדול ומסומן המשמש ספציפית לניתוח טקסט פיננסי בשפה הסינית. הוא כולל מאמרי חדשות, דוחות ופוסטים ברשתות חברתיות המתויגים לפי רגשות פיננסיים ועוד...

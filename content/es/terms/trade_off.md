@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /es/terms/trade_off/
 date: "2026-07-18T10:29:19.783010Z"
 lastmod: "2026-07-18T11:44:44.759304Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un compromiso donde obtener una ventaja en un área resulta en una pérdida en otra."
 ---
-
 ## Definition
 
 En IA e ingeniería, un compromiso se refiere al equilibrio necesario al optimizar objetivos conflictivos, como la precisión del modelo frente al costo computacional o la latencia frente a la precisión. Dado que los recursos son limitados...

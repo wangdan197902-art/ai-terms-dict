@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /it/terms/artificial_consciousness/
 date: "2026-07-18T15:47:37.461689Z"
 lastmod: "2026-07-18T17:15:08.598488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il concetto teorico di dotare le macchine di esperienze soggettive, autoconsapevolezza e sensibilità simili a quelle umane."
 ---
-
 ## Definition
 
 La coscienza artificiale esplora la possibilità di creare macchine che possiedano vere esperienze soggettive, autoconsapevolezza e sentimenti, piuttosto che limitarsi a simulare un comportamento intelligente. Esamina...

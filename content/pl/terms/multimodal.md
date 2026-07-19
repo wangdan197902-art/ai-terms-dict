@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /pl/terms/multimodal/
 date: "2026-07-18T15:35:58.978599Z"
 lastmod: "2026-07-18T17:15:08.834404Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do modeli sztucznej inteligencji zdolnych do przetwarzania i generowania treści w wielu typach danych jednocześnie, takich jak tekst, obrazy, dźwięk i wideo."
 ---
-
 ## Definition
 
 Systemy wielomodalne integrują informacje z różnych rodzajów danych wejściowych, tworząc bardziej kompleksowe zrozumienie świata. W przeciwieństwie do modeli jedno-modalnych ograniczonych do jednego typu danych, modele wielomodalne...

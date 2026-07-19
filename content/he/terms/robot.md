@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /he/terms/robot/
 date: "2026-07-18T15:29:59.231636Z"
 lastmod: "2026-07-18T17:15:09.486042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מכונה מתוכנתת המסוגלת לבצע פעולות מורכבות באופן אוטומטי."
 ---
-
 ## Definition
 
 רובוט הוא מכשיר מכני אוטונומי או חצי-אוטונומי המיועד לבצע משימות באופן עצמאי או תחת שליטה מרחוק. הוא מורכב בדרך כלל ממערכות חיישן לתפיסת הסביבה, ומערכות הנעה (actuators) לביצוע הפעולות הפיזיות.

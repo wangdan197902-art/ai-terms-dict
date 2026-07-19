@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /zh/terms/human_oversight/
 date: "2026-07-18T11:21:11.087595Z"
 lastmod: "2026-07-18T11:44:45.514249Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在自动化人工智能系统中保持人类控制和审查的做法，以确保安全性、准确性和道德合规性。"
 ---
-
 ## Definition
 
 人工监督是指人类监控、评估并介入由人工智能驱动的决策或行动中的机制和流程。这一概念对于确保自动化系统安全运行至关重要。

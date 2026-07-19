@@ -1,23 +1,24 @@
 ---
-title: "Κρυφή Στήλη"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Κρυφή Στήλη
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /el/terms/hidden_layer/
-date: "2026-07-18T16:11:51.103949Z"
-lastmod: "2026-07-18T17:15:09.916439Z"
+slug: hidden_layer
+date: '2026-07-18T16:11:51.103949Z'
+lastmod: '2026-07-18T17:15:09.916439Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια ενδιάμεση στήλη σε ένα νευρωνικό δίκτυο μεταξύ των στρωμάτων εισόδου και εξόδου που επεξεργάζεται χαρακτηριστικά."
+source: agnes_llm
+status: published
+language: el
+description: Μια ενδιάμεση στήλη σε ένα νευρωνικό δίκτυο μεταξύ των στρωμάτων εισόδου
+  και εξόδου που επεξεργάζεται χαρακτηριστικά.
 ---
-
 ## Definition
 
 Μια κρυφή στήλη αποτελείται από νευρώνες που λαμβάνουν εισόδους από προηγούμενες στήλες, εφαρμόζουν βάρη και αποκλίσεις, και περνούν μετασχηματισμένα δεδομένα προς τα εμπρός μέσω μιας συνάρτησης ενεργοποίησης. Αυτές οι στήλες επιτρέπουν στα νευρωνικά δίκτυα.

@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /da/terms/supervised/
 date: "2026-07-18T15:30:16.837903Z"
 lastmod: "2026-07-18T17:15:09.234672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et maskinlæringsparadigme, hvor modeller trænes på mærkede input-output-par."
 ---
-
 ## Definition
 
 Superviseret læring indebærer at fodre en algoritme med data, der inkluderer både inputs og korrekte svar (mærker). Modellen lærer at kortlægge inputs til outputs ved at minimere forudsigelsesfejl. Denne teknik er grundlæggende for mange AI-applikationer.

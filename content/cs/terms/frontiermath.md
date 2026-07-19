@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /cs/terms/frontiermath/
-date: "2026-07-18T15:58:30.730016Z"
-lastmod: "2026-07-18T17:15:09.131604Z"
+slug: frontiermath
+date: '2026-07-18T15:58:30.730016Z'
+lastmod: '2026-07-18T17:15:09.131604Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Benchmarková sada dat určená k hodnocení pokročilých matematických schopností uvažování nejmodernějších modelů umělé inteligence."
+source: agnes_llm
+status: published
+language: cs
+description: Benchmarková sada dat určená k hodnocení pokročilých matematických schopností
+  uvažování nejmodernějších modelů umělé inteligence.
 ---
-
 ## Definition
 
 FrontierMath je specializovaná vyhodnocovací sada vytvořená pro testování hranic velkých jazykových modelů v řešení komplexních matematických problémů. Na rozdíl od standardních aritmetických benchmarků se zaměřuje na vysokou obtížnost a hloubku matematického uvažování, což umožňuje přesnější posouzení kognitivních limitů AI.

@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /ja/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T11:32:34.991151Z"
 lastmod: "2026-07-18T11:44:45.144866Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "韓国国内で音声制御デバイスを提供するハードウェアメーカーとAIサービスプロバイダーが関与する市場エコシステム。"
 ---
-
 ## Definition
 
 この用語は、スマートフォンの高い普及率と高度なブロードバンドインフラを特徴とする、韓国におけるスマートスピーカーの特定の地域市場動向を指します。主要なプレイヤーや競争環境を含みます。

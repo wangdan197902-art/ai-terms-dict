@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /pt/terms/semantic_folding/
 date: "2026-07-18T15:20:39.725826Z"
 lastmod: "2026-07-18T15:51:59.531302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma técnica que mapeia representações semânticas de alta dimensão para um espaço de menor dimensão, preservando as estruturas relacionais."
 ---
-
 ## Definition
 
 Odobramento semântico refere-se ao processo de comprimir embeddings vetoriais complexos e de alta dimensão em uma representação de menor dimensão mais gerenciável, sem perda significativa de significado semântico, facilitando o armazenamento e a computação eficiente.

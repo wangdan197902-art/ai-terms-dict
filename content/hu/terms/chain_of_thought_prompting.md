@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /hu/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:37:16.238032Z"
 lastmod: "2026-07-18T17:15:09.739005Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Lánc-gondolkodásos promptolás egy technika, amely ösztönzi a nagy nyelvi modelleket (LLM), hogy a végső válasz előtt generáljanak köztes érvelési lépéseket."
 ---
-
 ## Definition
 
 A Lánc-gondolkodásos (CoT) promptolás javítja a nagy nyelvi modellek teljesítményét a komplex érvelési feladatokon azzal, hogy kifejezetten kéri a modellt, hogy taglalja lépésről lépésre a logikáját. Ehelyett, hogy közvetlenül ugrana a válaszra, a modell először levezeti az eredményt.

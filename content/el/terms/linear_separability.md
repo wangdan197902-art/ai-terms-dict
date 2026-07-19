@@ -1,23 +1,24 @@
 ---
-title: "Γραμμική διαχωριστότητα"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Γραμμική διαχωριστότητα
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /el/terms/linear_separability/
-date: "2026-07-18T16:18:35.726847Z"
-lastmod: "2026-07-18T17:15:09.926657Z"
+slug: linear_separability
+date: '2026-07-18T16:18:35.726847Z'
+lastmod: '2026-07-18T17:15:09.926657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ιδιότητα ενός συνόλου δεδομένων όπου δύο κατηγορίες μπορούν να χωριστούν τέλεια από μια ευθεία γραμμή ή υπερεπίπεδο."
+source: agnes_llm
+status: published
+language: el
+description: Η ιδιότητα ενός συνόλου δεδομένων όπου δύο κατηγορίες μπορούν να χωριστούν
+  τέλεια από μια ευθεία γραμμή ή υπερεπίπεδο.
 ---
-
 ## Definition
 
 Η γραμμική διαχωριστότητα αναφέρεται στη γεωμετρική συνθήκη κατά την οποία τα σημεία δεδομένων που ανήκουν σε διαφορετικές κατηγορίες μπορούν να διαχωριστούν πλήρως από ένα γραμμικό όριο, όπως μια ευθεία στον χώρο 2D ή ένα υπερεπίπεδο σε υψηλότερες διαστάσεις.

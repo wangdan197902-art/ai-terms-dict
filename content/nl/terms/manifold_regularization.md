@@ -1,23 +1,25 @@
 ---
-title: "Vlakkeregularisatie"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Vlakkeregularisatie
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /nl/terms/manifold_regularization/
-date: "2026-07-18T16:06:22.478297Z"
-lastmod: "2026-07-18T17:15:08.765819Z"
+slug: manifold_regularization
+date: '2026-07-18T16:06:22.478297Z'
+lastmod: '2026-07-18T17:15:08.765819Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een semi-gesuperviseerde leertechniek die ervan uitgaat dat gegevens op een laagdimensionale veelvoud liggen en het model reguleert op basis van deze geometrische structuur."
+source: agnes_llm
+status: published
+language: nl
+description: Een semi-gesuperviseerde leertechniek die ervan uitgaat dat gegevens
+  op een laagdimensionale veelvoud liggen en het model reguleert op basis van deze
+  geometrische structuur.
 ---
-
 ## Definition
 
 Vlakkeregularisatie breidt traditionele regularisatiemethoden uit door de intrinsieke geometrie van de gegevensverdeling te integreren. Het werkt onder de aanname dat hoogdimensionale datapunten zich op een laagdimensionale manifold bevinden, wat helpt om de algemene prestaties te verbeteren door gebruik te maken van zowel gelabelde als ongelabelde data.

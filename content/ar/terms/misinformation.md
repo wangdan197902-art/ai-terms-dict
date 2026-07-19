@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /ar/terms/misinformation/
 date: "2026-07-18T16:13:07.737183Z"
 lastmod: "2026-07-18T17:15:08.528131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "معلومات كاذبة أو غير دقيقة يتم نشرها بغض النظر عن نية الخداع."
 ---
-
 ## Definition
 
 تشير المعلومات المضللة إلى المعلومات الكاذبة أو المخادعة التي يتم مشاركتها دون نية متعمدة لإلحاق الضرر أو الخداع. تختلف عن المعلومات المغرضة (Disinformation) التي يتم fabricateها عمداً. في سياق الذكاء الاصطناعي

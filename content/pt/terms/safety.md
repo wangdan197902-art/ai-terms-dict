@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /pt/terms/safety/
 date: "2026-07-18T14:39:02.980006Z"
 lastmod: "2026-07-18T15:51:59.438295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O estudo e a prática de garantir que os sistemas de IA não causem danos físicos, digitais ou sociais."
 ---
-
 ## Definition
 
 A Segurança em IA é um campo multidisciplinar focado na prevenção de resultados adversos provenientes da inteligência artificial avançada. Abrange desafios técnicos como alinhamento, interpretabilidade e robustez, além de aspectos éticos e regulatórios.

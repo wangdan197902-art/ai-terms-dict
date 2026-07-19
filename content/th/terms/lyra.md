@@ -1,23 +1,24 @@
 ---
-title: "ไลรา"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: ไลรา
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /th/terms/lyra/
-date: "2026-07-18T16:03:56.735975Z"
-lastmod: "2026-07-18T16:38:07.628123Z"
+slug: lyra
+date: '2026-07-18T16:03:56.735975Z'
+lastmod: '2026-07-18T16:38:07.628123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ไลราหมายถึงโครงการหรือโมเดล AI หลายแห่ง โดยโดดเด่นที่สุดคือโมเดลภาษาขนาดใหญ่แบบโอเพนซอร์ส หรือเครื่องมือค้นหาและการค้นพบข้อมูลเฉพาะทางที่ขับเคลื่อนด้วย AI เพื่อปรับปรุงการดึงข้อมูล"
+source: agnes_llm
+status: published
+language: th
+description: ไลราหมายถึงโครงการหรือโมเดล AI หลายแห่ง โดยโดดเด่นที่สุดคือโมเดลภาษาขนาดใหญ่แบบโอเพนซอร์ส
+  หรือเครื่องมือค้นหาและการค้นพบข้อมูลเฉพาะทางที่ขับเคลื่อนด้วย AI เพื่อปรับปรุงการดึงข้อมูล
 ---
-
 ## Definition
 
 ในบริบทของศัพท์แสง AI สมัยใหม่ ไลรามักหมายถึงระบบ AI เฉพาะทางที่มุ่งเน้นการปรับปรุงการโต้ตอบของผู้ใช้ผ่านกระบวนการประมวลผลภาษาธรรมชาติ อาจหมายถึงโมเดลภาษาขนาดใหญ่แบบโอเพนซอร์สที่พัฒนาขึ้น

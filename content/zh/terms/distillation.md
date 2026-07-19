@@ -1,23 +1,23 @@
 ---
-title: "知识蒸馏"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: 知识蒸馏
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /zh/terms/distillation/
-date: "2026-07-18T10:50:42.926016Z"
-lastmod: "2026-07-18T11:44:45.365243Z"
+slug: distillation
+date: '2026-07-18T10:50:42.926016Z'
+lastmod: '2026-07-18T11:44:45.365243Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "知识蒸馏是一种模型压缩技术，其中较小的学生模型通过学习模仿较大的教师模型的行为来工作。"
+source: agnes_llm
+status: published
+language: zh
+description: 知识蒸馏是一种模型压缩技术，其中较小的学生模型通过学习模仿较大的教师模型的行为来工作。
 ---
-
 ## Definition
 
 这一过程涉及将知识从复杂的高性能“教师”神经网络转移到更简单、高效的“学生”网络中。学生不仅从硬标签中学习，还从软标签（即教师模型的输出概率分布）中学习，从而捕捉更丰富的信息。

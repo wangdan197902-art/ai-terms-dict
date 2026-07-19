@@ -1,23 +1,24 @@
 ---
-title: "Zufällige Merkmale"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Zufällige Merkmale
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /de/terms/random_feature/
-date: "2026-07-18T11:29:56.787348Z"
-lastmod: "2026-07-18T11:44:44.980697Z"
+slug: random_feature
+date: '2026-07-18T11:29:56.787348Z'
+lastmod: '2026-07-18T11:44:44.980697Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik, die Eingabedaten mittels zufälliger Projektionen in einen hochdimensionalen Raum abbildet, um Kernel-Methoden effizient zu approximieren."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik, die Eingabedaten mittels zufälliger Projektionen in einen
+  hochdimensionalen Raum abbildet, um Kernel-Methoden effizient zu approximieren.
 ---
-
 ## Definition
 
 Zufällige Merkmalsabbildungen transformieren Eingaben in einen neuen Raum, in dem lineare Modelle nichtlineare Kernel-Funktionen approximieren können. Dieser Ansatz, der oft mit der Nystrom-Methode oder Fourier-Merkmalen verbunden ist, ermöglicht effiziente Berechnungen bei großen Datensätzen.

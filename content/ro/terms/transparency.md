@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /ro/terms/transparency/
 date: "2026-07-18T15:38:48.571158Z"
 lastmod: "2026-07-18T17:15:09.620193Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Gradul în care procesele de luare a deciziilor, sursele de date și limitările unui sistem de IA sunt deschise și comprensibile pentru utilizatori."
 ---
-
 ## Definition
 
 Transparența asigură că părțile interesate pot înțelege cum ajunge un model de IA la rezultatele sale, favorizând încrederea și responsabilitatea. Aceasta implică divulgarea originilor datelor de antrenament, a arhitecturii modelelor și

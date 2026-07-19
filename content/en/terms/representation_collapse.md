@@ -1,23 +1,24 @@
 ---
-title: "Representation collapse"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Representation collapse
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /en/terms/representation_collapse/
-date: "2026-07-18T10:14:07.773948Z"
-lastmod: "2026-07-18T11:44:44.717408Z"
+slug: representation_collapse
+date: '2026-07-18T10:14:07.773948Z'
+lastmod: '2026-07-18T11:44:44.717408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A failure mode in self-supervised learning where the model outputs identical representations for all inputs, losing discriminative power."
+source: agnes_llm
+status: published
+language: en
+description: A failure mode in self-supervised learning where the model outputs identical
+  representations for all inputs, losing discriminative power.
 ---
-
 ## Definition
 
 Representation collapse occurs when a neural network, particularly in self-supervised contrastive learning frameworks, learns to map all input data points to the same fixed output vector. This trivial solution minimizes the loss function without learning meaningful features. To prevent this, techniques like normalization, momentum encoders, or specific loss formulations are employed to ensure the model preserves distinct information across different inputs.

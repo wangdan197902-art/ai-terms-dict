@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /ro/terms/maximum_inner_product_search/
 date: "2026-07-18T16:11:19.510340Z"
 lastmod: "2026-07-18T17:15:09.679782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O tehnică specializată de căutare a similarității vectoriale care recuperează elementele cu cel mai mare produs scalar raportat la un vector de interogare."
 ---
-
 ## Definition
 
 Căutarea Produsului Intern Maxim (MIPS) este o problemă fundamentală în recuperarea informațiilor și învățarea automată, în special în sistemele de recomandare. Spre deosebire de căutările standard de similaritate cosinus care măsoară unghiul dintre vectori, MIPS optimizează direct valoarea produsului scalar, ceea ce este crucial atunci când vectorii nu sunt normalizați sau când se dorește o pondere specifică pentru magnitudinea vectorului.

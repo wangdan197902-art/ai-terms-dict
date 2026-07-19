@@ -1,23 +1,24 @@
 ---
-title: "Ajustement par instruction"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Ajustement par instruction
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /fr/terms/instruction_tuning/
-date: "2026-07-18T10:51:09.607683Z"
-lastmod: "2026-07-18T11:44:45.165094Z"
+slug: instruction_tuning
+date: '2026-07-18T10:51:09.607683Z'
+lastmod: '2026-07-18T11:44:45.165094Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'ajustement par instruction est une technique de réglage fin où un modèle de langage pré-entraîné est entraîné sur un ensemble de données d'instructions et leurs réponses correspondantes pour amélior"
+source: agnes_llm
+status: published
+language: fr
+description: L'ajustement par instruction est une technique de réglage fin où un modèle
+  de langage pré-entraîné est entraîné sur un ensemble de données d'instructions et
+  leurs réponses correspondantes pour amélior
 ---
-
 ## Definition
 
 Ce processus comble le fossé entre le pré-entraînement général et la performance spécifique aux tâches. En exposant le modèle à divers paires instruction-réponse, il apprend à généraliser à des tâches invisibles sans...

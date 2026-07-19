@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /nl/terms/specifically/
 date: "2026-07-18T15:30:01.465242Z"
 lastmod: "2026-07-18T17:15:08.693871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar precieze, onderscheidende of specifieke details binnen een bredere context."
 ---
-
 ## Definition
 
 In de AI-terminologie duidt 'specifiek' op precisie bij het definiëren van modellen, datapunten of bewerkingen. Het onderscheidt exacte parameters van algemene categorieën, wat zorgt voor duidelijkheid in technische documentatie.

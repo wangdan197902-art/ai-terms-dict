@@ -1,23 +1,24 @@
 ---
-title: "Планирование"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Планирование
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /ru/terms/planning/
-date: "2026-07-18T15:35:11.623613Z"
-lastmod: "2026-07-18T16:38:07.108678Z"
+slug: planning
+date: '2026-07-18T15:35:11.623613Z'
+lastmod: '2026-07-18T16:38:07.108678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Когнитивный процесс генерации последовательности действий для достижения конкретных целей в заданной среде."
+source: agnes_llm
+status: published
+language: ru
+description: Когнитивный процесс генерации последовательности действий для достижения
+  конкретных целей в заданной среде.
 ---
-
 ## Definition
 
 Планирование в ИИ включает определение последовательности действий, которые приведут от начального состояния к желаемому целевому состоянию. Оно требует рассуждений о последствиях действий и ограничениях окружающей среды.

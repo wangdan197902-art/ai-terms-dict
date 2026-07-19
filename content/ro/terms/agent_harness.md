@@ -1,23 +1,25 @@
 ---
-title: "Infrastructură de gestionare a agenților"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Infrastructură de gestionare a agenților
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /ro/terms/agent_harness/
-date: "2026-07-18T15:43:04.302816Z"
-lastmod: "2026-07-18T17:15:09.625287Z"
+slug: agent_harness
+date: '2026-07-18T15:43:04.302816Z'
+lastmod: '2026-07-18T17:15:09.625287Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O infrastructură de gestionare a agenților (agent harness) este un cadru sau un strat de infrastructură care gestionează ciclul de viață, comunicarea și alocarea resurselor pentru mai mulți agenți AI "
+source: agnes_llm
+status: published
+language: ro
+description: 'O infrastructură de gestionare a agenților (agent harness) este un cadru
+  sau un strat de infrastructură care gestionează ciclul de viață, comunicarea și
+  alocarea resurselor pentru mai mulți agenți AI '
 ---
-
 ## Definition
 
 Aceasta acționează ca coloana vertebrală a sistemelor cu mai mulți agenți, oferind instrumente pentru orchestrare, monitorizare și coordonare inter-agenți. Infrastructura asigură că agenții pot funcționa eficient fără interferențe reciprocare sau conflicte de resurse.

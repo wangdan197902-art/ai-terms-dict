@@ -1,23 +1,24 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /he/terms/locateanything/
-date: "2026-07-18T16:10:43.542092Z"
-lastmod: "2026-07-18T17:15:09.559820Z"
+slug: locateanything
+date: '2026-07-18T16:10:43.542092Z'
+lastmod: '2026-07-18T17:15:09.559820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מסגרת קוד פתוח המיועדת לאיתור וחיתוך עצמים באפס-יורים (zero-shot) על פני תחומים ויזואליים מגוונים ללא אימון ספציפי למשימה."
+source: agnes_llm
+status: published
+language: he
+description: מסגרת קוד פתוח המיועדת לאיתור וחיתוך עצמים באפס-יורים (zero-shot) על
+  פני תחומים ויזואליים מגוונים ללא אימון ספציפי למשימה.
 ---
-
 ## Definition
 
 LocateAnything היא מסגרת ראייה ממוחשבת גמישה המאפשרת זיהוי וחיתוך של עצמים בתמונות בהתבסס על הנחיות בשפה טבעית או ידע מוקדם כללי. המערכת מנצלת מודלים מאומנים מראש (כגון מודלי יסוד) כדי להבין את ההקשר הוויזואלי ולזהות אובייקטים ללא צורך באימון נוסף על נתונים ספציפיים למשימה, מה שהופך אותה ליעילה ליישומים מגוונים.

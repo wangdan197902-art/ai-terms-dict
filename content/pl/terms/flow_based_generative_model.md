@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /pl/terms/flow_based_generative_model/
 date: "2026-07-18T15:55:18.036477Z"
 lastmod: "2026-07-18T17:15:08.874412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Klasa modeli generatywnych wykorzystująca odwracalne przekształcenia do mapowania prostych rozkładów na złożone rozkłady danych."
 ---
-
 ## Definition
 
 Generatywne modele oparte na przepływach konstruują złożone rozkłady prawdopodobieństwa poprzez zastosowanie serii odwracalnych, różniczkowalnych przekształceń do prostego rozkładu bazowego, takiego jak Gaussowski. Dzięki temu możliwe jest dokładne obliczenie prawdopodobieństwa.

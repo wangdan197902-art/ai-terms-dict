@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /fr/terms/prior/
 date: "2026-07-18T10:52:45.296969Z"
 lastmod: "2026-07-18T11:44:45.169479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "En statistiques bayésiennes, une distribution de probabilité exprimant la connaissance ou la croyance concernant un paramètre avant d'observer de nouvelles preuves ou données."
 ---
-
 ## Definition
 
 Un 'a priori' représente les croyances existantes ou les données historiques concernant une variable avant d'incorporer de nouvelles observations. Dans l'inférence bayésienne, l'a priori est combiné avec la vraisemblance des données observ...

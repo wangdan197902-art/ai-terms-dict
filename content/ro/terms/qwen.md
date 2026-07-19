@@ -1,23 +1,24 @@
 ---
-title: "Qwen"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: Qwen
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /ro/terms/qwen/
-date: "2026-07-18T16:18:09.141967Z"
-lastmod: "2026-07-18T17:15:09.696316Z"
+slug: qwen
+date: '2026-07-18T16:18:09.141967Z'
+lastmod: '2026-07-18T17:15:09.696316Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Qwen este o serie de modele lingvistice mari dezvoltată de Tongyi Lab din cadrul grupului Alibaba."
+source: agnes_llm
+status: published
+language: ro
+description: Qwen este o serie de modele lingvistice mari dezvoltată de Tongyi Lab
+  din cadrul grupului Alibaba.
 ---
-
 ## Definition
 
 Qwen reprezintă o familie de modele lingvistice mari avansate create de Tongyi Lab din cadrul grupului Alibaba. Aceasta cuprinde diverse versiuni optimizate pentru sarcini diferite, inclusiv înțelegerea limbajului natural.

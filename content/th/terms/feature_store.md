@@ -1,23 +1,23 @@
 ---
-title: "คลังคุณลักษณะ (Feature Store)"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: คลังคุณลักษณะ (Feature Store)
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /th/terms/feature_store/
-date: "2026-07-18T15:53:39.072097Z"
-lastmod: "2026-07-18T16:38:07.606192Z"
+slug: feature_store
+date: '2026-07-18T15:53:39.072097Z'
+lastmod: '2026-07-18T16:38:07.606192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ที่เก็บรวมศูนย์ที่ออกแบบมาเพื่อจัดการ แบ่งปัน และให้บริการคุณลักษณะอย่างสม่ำเสมอตลอดกระบวนการฝึกและอนุมานของ机器学习"
+source: agnes_llm
+status: published
+language: th
+description: ที่เก็บรวมศูนย์ที่ออกแบบมาเพื่อจัดการ แบ่งปัน และให้บริการคุณลักษณะอย่างสม่ำเสมอตลอดกระบวนการฝึกและอนุมานของ机器学习
 ---
-
 ## Definition
 
 คลังคุณลักษณะทำหน้าที่เป็นสะพานเชื่อมระหว่างทีมวิศวกรรมข้อมูลและทีมการเรียนรู้ของเครื่อง โดยให้การมองภาพคุณลักษณะที่เป็นเอกภาพสำหรับการฝึกแบบแบทช์และการอนุมานแบบเรียลไทม์ มันรับประกันความสอดคล้องของข้อมูลโดยการแยกการจัดการคุณลักษณะออกจากกระบวนการสร้างโมเดล ลดปัญหาความคลาดเคลื่อนระหว่างการฝึกและการใช้งานจริง

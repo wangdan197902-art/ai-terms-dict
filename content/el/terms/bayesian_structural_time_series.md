@@ -1,23 +1,24 @@
 ---
-title: "Μπεϋζιανή δομική χρονοσειρά"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Μπεϋζιανή δομική χρονοσειρά
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /el/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:53:33.393607Z"
-lastmod: "2026-07-18T17:15:09.885466Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:53:33.393607Z'
+lastmod: '2026-07-18T17:15:09.885466Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στατιστική προσέγγιση μοντελοποίησης που χρησιμοποιεί τη Μπεϋζιανή επαγωγή για την αποσύνθεση των χρονοσειρών σε ερμηνεύσιμες συνιστώσες."
+source: agnes_llm
+status: published
+language: el
+description: Μια στατιστική προσέγγιση μοντελοποίησης που χρησιμοποιεί τη Μπεϋζιανή
+  επαγωγή για την αποσύνθεση των χρονοσειρών σε ερμηνεύσιμες συνιστώσες.
 ---
-
 ## Definition
 
 Τα μοντέλα Μπεϋζιανής δομικής χρονοσειράς (BSTS) αναπαριστούν τα δεδομένα μιας χρονοσειράς ως άθροισμα ερμηνεύσιμων συνιστωσών, όπως τάση, εποχικότητα και επιδράσεις παλινδρόμησης, λαμβάνοντας παράλληλα υπόψη την αβεβαιότητα μέσω εκ των υστέρων κατανομών. Αυτό επιτρέπει την πιο αξιόπιστη πρόβλεψη και την ανάλυση αιτιότητας.

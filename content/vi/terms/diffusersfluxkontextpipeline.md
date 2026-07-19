@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /vi/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:49:28.655002Z"
 lastmod: "2026-07-18T16:38:07.749421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một đường ống chuyên biệt trong thư viện Differs được thiết kế cho các mô hình Flux, cho phép tạo hình ảnh có nhận thức ngữ cảnh với độ nhất quán theo thời gian hoặc không gian được cải thiện."
 ---
-
 ## Definition
 
 Đường ống này tận dụng kiến trúc Flux, nổi tiếng với khả năng tổng hợp hình ảnh chất lượng cao, trong khuôn khổ Diffusers. Nó hỗ trợ các cơ chế ngữ cảnh cho phép mô hình xem xét các yếu tố xung quanh.

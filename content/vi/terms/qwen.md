@@ -1,23 +1,24 @@
 ---
-title: "Qwen"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: Qwen
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /vi/terms/qwen/
-date: "2026-07-18T16:09:35.732403Z"
-lastmod: "2026-07-18T16:38:07.797992Z"
+slug: qwen
+date: '2026-07-18T16:09:35.732403Z'
+lastmod: '2026-07-18T16:38:07.797992Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Qwen là một dòng mô hình ngôn ngữ lớn (LLM) được phát triển bởi Phòng thí nghiệm Tongyi thuộc Tập đoàn Alibaba."
+source: agnes_llm
+status: published
+language: vi
+description: Qwen là một dòng mô hình ngôn ngữ lớn (LLM) được phát triển bởi Phòng
+  thí nghiệm Tongyi thuộc Tập đoàn Alibaba.
 ---
-
 ## Definition
 
 Qwen đại diện cho một họ các mô hình ngôn ngữ lớn tiên tiến được tạo ra bởi Phòng thí nghiệm Tongyi của Tập đoàn Alibaba. Nó bao gồm nhiều phiên bản khác nhau, được tối ưu hóa cho các nhiệm vụ cụ thể, bao gồm cả việc hiểu ngôn ngữ tự nhiên.

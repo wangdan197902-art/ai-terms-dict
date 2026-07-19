@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /tr/terms/claude/
 date: "2026-07-18T15:33:48.615865Z"
 lastmod: "2026-07-18T16:38:07.255525Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Claude, Anthropic tarafından geliştirilen, yardımsever, zararsız ve dürüst yapay zeka asistanları olmayı hedefleyen büyük dil modelleri ailesidir."
 ---
-
 ## Definition
 
 Claude, yapay zeka güvenliği şirketi Anthropic tarafından oluşturulan gelişmiş büyük dil modelleri serisidir. Güçlü hizalama ilkeleri ve Anayasal Yapay Zeka çerçevesiyle tanınan Claude, kullanıcılarla etkileşimde bulunurken güvenlik ve etik ilkeleri ön planda tutmayı amaçlar.

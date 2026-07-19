@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /de/terms/regularization/
 date: "2026-07-18T11:30:56.748692Z"
 lastmod: "2026-07-18T11:44:44.981363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Reihe von Techniken, die während des Trainings eingesetzt werden, um Überanpassung zu verhindern, indem Strafterme zur Verlustfunktion hinzugefügt oder die Modellkomplexität eingeschränkt werden."
 ---
-
 ## Definition
 
 Regularisierung ist ein entscheidendes Konzept im maschinellen Lernen, das darauf abzielt, den Generalisierungsfehler zu reduzieren, ohne den Trainingsfehler signifikant zu erhöhen. Sie wirkt, indem sie Modelle davon abhält, sich zu stark an Rauschen oder spezifische Details in den Trainingsdaten anzupassen.

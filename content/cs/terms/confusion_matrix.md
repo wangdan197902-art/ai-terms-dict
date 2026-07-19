@@ -1,23 +1,24 @@
 ---
-title: "Záměnová matice"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Záměnová matice
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /cs/terms/confusion_matrix/
-date: "2026-07-18T15:49:20.444244Z"
-lastmod: "2026-07-18T17:15:09.112754Z"
+slug: confusion_matrix
+date: '2026-07-18T15:49:20.444244Z'
+lastmod: '2026-07-18T17:15:09.112754Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Tabulka používaná k popisu výkonu klasifikačního modelu na sadě testovacích dat."
+source: agnes_llm
+status: published
+language: cs
+description: Tabulka používaná k popisu výkonu klasifikačního modelu na sadě testovacích
+  dat.
 ---
-
 ## Definition
 
 Záměnová matice je specifické rozložení tabulky, které umožňuje vizualizaci výkonu algoritmu, obvykle učení s dozorem. Zobrazuje počty pravých pozitivních, pravých negativních, falešně pozitivních a falešně negativních výsledků.

@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /cs/terms/double_descent/
 date: "2026-07-18T15:55:02.885294Z"
 lastmod: "2026-07-18T17:15:09.124326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Jev, při kterém se chyba na testovacích datech nejprve sníží, poté zvýší a následně opět sníží, jak roste složitost modelu přesahující prahovou hodnotu interpolace."
 ---
-
 ## Definition
 
 Dvojitý pokles zpochybňuje tradiční kompromis mezi zkreslením a rozptylem tím, že ukazuje, že vysoce parametrizované modely mohou dosahovat nízké chyby na testovacích datech, i když interpolují trénovací data. Původně chyba roste s komplexitou, ale po překročení prahu interpolace opět klesá.

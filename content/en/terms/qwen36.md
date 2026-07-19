@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /en/terms/qwen36/
 date: "2026-07-18T10:13:22.502971Z"
 lastmod: "2026-07-18T11:44:44.715424Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A subsequent minor update to the Qwen3 series, likely refining performance metrics and specific domain knowledge."
 ---
-
 ## Definition
 
 Qwen3.6 represents a further refinement in the Qwen3 family of models. Minor version updates often focus on polishing existing capabilities, fixing edge-case errors, and optimizing training data quality. This version would offer incremental improvements in accuracy and speed compared to Qwen3.5, catering to users requiring the latest stable optimizations.

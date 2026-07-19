@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /ro/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:59:28.000240Z"
 lastmod: "2026-07-18T17:15:09.658463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un rezultat în logica neclasică care afirmă că anumite logici temporale sau modale pot fi separate în componente distincte pe baza proprietăților lor structurale."
 ---
-
 ## Definition
 
 Teorema separării lui Gabbay este un concept fundamental în logica matematică, în special în studiul logicii temporale și modale. Aceasta oferă condițiile sub care o logică poate fi descompusă sau

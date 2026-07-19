@@ -7,8 +7,6 @@ tags: ["tooling", "sql", "automation"]
 difficulty: 2
 weight: 1
 slug: "mindsdb"
-aliases:
-  - /ro/terms/mindsdb/
 date: "2026-07-18T16:11:34.384357Z"
 lastmod: "2026-07-18T17:15:09.681231Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "MindsDB este o platformă open-source care permite dezvoltatorilor să construiască, să antreneze și să implementeze modele de învățare automată direct în bazele lor de date existente, folosind SQL."
 ---
-
 ## Definition
 
 MindsDB acționează ca o punte între bazele de date relaționale tradiționale și fluxurile de lucru moderne de învățare automată. Permite utilizatorilor să creeze modele predictive folosind interogări SQL standard, eliminând nevoia de a muta datele în alte sisteme complexe.

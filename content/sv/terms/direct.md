@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /sv/terms/direct/
 date: "2026-07-18T15:24:07.950826Z"
 lastmod: "2026-07-18T17:15:08.939719Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser metoder eller vägar som mappar indata direkt till utdata utan mellanliggande komplexa transformationer eller latenta representationer."
 ---
-
 ## Definition
 
 Inom AI-sammanhang beskriver 'direkt' ofta arkitekturer eller inferensvägar som kringgår mellanliggande abstraktionslager, såsom direkt policyoptimering inom förstärkningsinlärning eller direkt mappning i enklare regressionssystem.

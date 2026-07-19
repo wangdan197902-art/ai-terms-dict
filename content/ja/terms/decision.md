@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /ja/terms/decision/
 date: "2026-07-18T10:49:45.052463Z"
 lastmod: "2026-07-18T11:44:45.004075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "エージェントやアルゴリズムが、特定の基準や目標に対して利用可能な選択肢を評価した後に行う選択。"
 ---
-
 ## Definition
 
 AIにおける意思決定は、データ、モデル、および事前に定義された目的に基づいて、可能性のある選択肢から最適な行動を選択するプロセスです。これは、厳格なルールに従う決定論的なものから、確率的なアプローチまで多岐にわたります。

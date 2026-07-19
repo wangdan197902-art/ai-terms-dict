@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /fr/terms/superintelligence_ban/
 date: "2026-07-18T11:40:12.276983Z"
 lastmod: "2026-07-18T11:44:45.338878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une mesure réglementaire proposée ou une position éthique préconisant l'interdiction du développement d'une intelligence artificielle générale surpassant les capacités cognitives humaines."
 ---
-
 ## Definition
 
 Ce concept fait référence au débat et à la politique potentielle concernant la restriction ou l'arrêt complet de la recherche sur la Superintelligence Artificielle (ASI). Les partisans soutiennent que l'ASI présente des risques existentiels.

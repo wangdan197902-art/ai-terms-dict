@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /id/terms/multimodal/
 date: "2026-07-18T15:35:11.616966Z"
 lastmod: "2026-07-18T16:38:07.416462Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada model AI yang mampu memproses dan menghasilkan konten di berbagai jenis data, seperti teks, gambar, audio, dan video secara bersamaan."
 ---
-
 ## Definition
 
 Sistem AI multimodal mengintegrasikan informasi dari berbagai input sensorik untuk membentuk pemahaman dunia yang lebih komprehensif. Berbeda dengan model unimodal yang terbatas pada satu jenis data, model multimodal...

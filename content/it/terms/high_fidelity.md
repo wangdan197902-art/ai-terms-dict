@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /it/terms/high_fidelity/
 date: "2026-07-18T15:31:35.578637Z"
 lastmod: "2026-07-18T17:15:08.579722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Indica contenuti generati che assomigliano strettamente ai dati del mondo reale per dettaglio, qualità e realismo."
 ---
-
 ## Definition
 
 Alta fedeltà descrive output di modelli generativi che sono indistinguibili o molto simili ai dati autentici. Nella generazione di immagini, significa texture e illuminazione realistiche; nell'audio, implica

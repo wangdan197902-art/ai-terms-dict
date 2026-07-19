@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /hu/terms/ai_anthropomorphism/
 date: "2026-07-18T15:40:46.625410Z"
 lastmod: "2026-07-18T17:15:09.748453Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az emberi hajlam, hogy emberi jellegeket, érzelmeket vagy szándékokat tulajdonítson az AI rendszereknek."
 ---
-
 ## Definition
 
 Az AI antropomorfizmus azt a pszichológiai jelenséget jelöli, amikor a felhasználók emberi tulajdonságokat vetítenek ki nem emberi entitásokra, például chatbotokra vagy robotokra. Ez valóságtól elrugaszkodott elvárásokhoz vezethet a rendszerek képességeit illetően.

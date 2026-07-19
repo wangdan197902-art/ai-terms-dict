@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /vi/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:50:20.327054Z"
 lastmod: "2026-07-18T16:38:07.751683Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung hình thức để lập luận về những thay đổi trong trạng thái kiến thức của các tác nhân kết quả từ việc cập nhật thông tin hoặc sự kiện."
 ---
-
 ## Definition
 
 Logic nhận thức động (DEL) mở rộng logic modal để mô hình hóa cách thức kiến thức tiến hóa khi các tác nhân nhận được thông tin mới. Nó cung cấp các công cụ để phân tích các hệ thống đa tác nhân nơi niềm tin thay đổi do các thông báo công khai.

@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /ro/terms/data_protection/
 date: "2026-07-18T15:35:05.340980Z"
 lastmod: "2026-07-18T17:15:09.613018Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de protejare a informațiilor sensibile împotriva accesului neautorizat, corupției sau furtului pe tot parcursul ciclului lor de viață."
 ---
-
 ## Definition
 
 Protecția Datelor cuprinde măsuri legale, tehnice și organizaționale menite să securizeze datele personale și proprietare împotriva încălcărilor și utilizării abuzive. În AI, aceasta include implementarea criptării, control

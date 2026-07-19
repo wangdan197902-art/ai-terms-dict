@@ -1,23 +1,25 @@
 ---
-title: "Исследования сингулярности"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Исследования сингулярности
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /ru/terms/singularity_studies/
-date: "2026-07-18T16:15:04.054096Z"
-lastmod: "2026-07-18T16:38:07.201991Z"
+slug: singularity_studies
+date: '2026-07-18T16:15:04.054096Z'
+lastmod: '2026-07-18T16:38:07.201991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Междисциплинарная область, изучающая потенциальные социальные, этические и экзистенциальные последствия будущей технологической сингулярности."
+source: agnes_llm
+status: published
+language: ru
+description: Междисциплинарная область, изучающая потенциальные социальные, этические
+  и экзистенциальные последствия будущей технологической сингулярности.
 ---
-
 ## Definition
 
 Исследования сингулярности — это формирующаяся академическая дисциплина, которая исследует последствия гипотетического будущего момента, когда искусственный интеллект превзойдет человеческий интеллект, что приведет к неконтролируемым изменениям.

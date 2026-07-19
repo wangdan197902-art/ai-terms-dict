@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /nl/terms/gaussian/
 date: "2026-07-18T15:26:17.575553Z"
 lastmod: "2026-07-18T17:15:08.685565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Betrekking hebbend op de normale verdeling, een klokvormige curve die fundamenteel is voor statistiek en ruismodellering in AI."
 ---
-
 ## Definition
 
 Gaussisch verwijst naar de normale verdeling, een continue kansverdeling die wordt gekenmerkt door zijn gemiddelde en variantie. In AI wordt dit uitgebreid gebruikt bij probabilistisch modelleren, Bayesiaanse inferentie en

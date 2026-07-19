@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /cs/terms/dabus/
 date: "2026-07-18T15:50:21.142731Z"
 lastmod: "2026-07-18T17:15:09.115484Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "DABUS je zkratka pro Device for the Autonomous Bootstrapping of Unified Sentience (Zařízení pro autonomní startování sjednoceného vědomí), což je systém AI vytvořený Stephenem Thalerem, který tvrdil, "
 ---
-
 ## Definition
 
 DABUS je specifická umělá neuronová síť navržená k generování nových vynálezů bez přímého zásahu člověka. Získala značnou pozornost v právní oblasti, když její tvůrce, Stephen Thaler, se pokusil

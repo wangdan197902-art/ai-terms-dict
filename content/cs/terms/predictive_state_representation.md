@@ -1,23 +1,24 @@
 ---
-title: "Prediktivní reprezentace stavu"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Prediktivní reprezentace stavu
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /cs/terms/predictive_state_representation/
-date: "2026-07-18T16:13:09.337252Z"
-lastmod: "2026-07-18T17:15:09.190272Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:13:09.337252Z'
+lastmod: '2026-07-18T17:15:09.190272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Formulace skrytého stavu ve zposilňovacím učení, která předpovídá budoucí pozorování na základě historie akcí."
+source: agnes_llm
+status: published
+language: cs
+description: Formulace skrytého stavu ve zposilňovacím učení, která předpovídá budoucí
+  pozorování na základě historie akcí.
 ---
-
 ## Definition
 
 Prediktivní reprezentace stavu (PSR) rozšiřují tradiční částečně pozorovatelné Markovovy rozhodovací procesy tím, že definují stavy jako vektory predikcí budoucích pozorovatelných událostí. Místo spoléhání na skryté stavy, které nelze přímo pozorovat, PSR používají historii pozorování a akcí k predikci budoucnosti.

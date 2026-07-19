@@ -1,23 +1,24 @@
 ---
-title: "GLM MoE DSA"
-term_id: "glm_moe_dsa"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "LLM"]
+title: GLM MoE DSA
+term_id: glm_moe_dsa
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- LLM
 difficulty: 4
 weight: 1
-slug: "glm_moe_dsa"
-aliases:
-  - /el/terms/glm_moe_dsa/
-date: "2026-07-18T16:09:41.371207Z"
-lastmod: "2026-07-18T17:15:09.913089Z"
+slug: glm_moe_dsa
+date: '2026-07-18T16:09:41.371207Z'
+lastmod: '2026-07-18T17:15:09.913089Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Φαίνεται να είναι σύγχυση διακριτών εννοιών: GLM (Γενικό Μοντέλο Γλώσσας), MoE (Ανάμιξη Εμπειρογνωμόνων) και πιθανώς DSA (Δυναμική Αραιή Προσοχή ή παρόμοιο)."
+source: agnes_llm
+status: published
+language: el
+description: 'Φαίνεται να είναι σύγχυση διακριτών εννοιών: GLM (Γενικό Μοντέλο Γλώσσας),
+  MoE (Ανάμιξη Εμπειρογνωμόνων) και πιθανώς DSA (Δυναμική Αραιή Προσοχή ή παρόμοιο).'
 ---
-
 ## Definition
 
 Δεν υπάρχει ένας ενιαίος τυποποιημένος όρος «GLM MoE DSA». Ωστόσο, πιθανότατα συνδυάζει το GLM (μία συγκεκριμένη αρχιτεκτονική LLM), το MoE (Ανάμιξη Εμπειρογνωμόνων, μια τεχνική για την αποδοτική κλιμάκωση του μεγέθους του μοντέλου ενεργοποιώντας μόνο ένα υποσύνολο ειδικών νευρώνων/μονάδων) και πιθανώς μηχανισμούς αραιής προσοχής.

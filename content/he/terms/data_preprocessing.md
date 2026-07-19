@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /he/terms/data_preprocessing/
 date: "2026-07-18T15:51:22.060877Z"
 lastmod: "2026-07-18T17:15:09.525961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך המרת נתונים גולמיים לפורמט נקי ועקבי המתאים לאלגוריתמי למידת מכונה."
 ---
-
 ## Definition
 
 עיבוד מקדים של נתונים הוא המשימה החיונית להמרת נתונים גולמיים, לא מובנים או רועשים, לפורמט סטנדרטי שמודלי למידת מכונה יכולים לצרוך ביעילות. שלב זה כולל בדרך כלל ניקוי, תקנון ואינטגרציה של הנתונים.

@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /sv/terms/sentence_similarity/
 date: "2026-07-18T16:20:11.256371Z"
 lastmod: "2026-07-18T17:15:09.046455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En måttstock eller uppgift som kvantifierar hur semantiskt lika två meningar är, ofta representerad som ett numeriskt värde."
 ---
-
 ## Definition
 
 Meningslikhet mäter graden av semantisk överlappning mellan två distinkta meningar. Den går bortom lexikalisk matchning för att förstå mening, kontext och avsikt. Detta uppnås vanligtvis genom att...

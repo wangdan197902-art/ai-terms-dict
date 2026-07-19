@@ -1,23 +1,24 @@
 ---
-title: "Δεδομενοκεντρική Αστρονομία"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Δεδομενοκεντρική Αστρονομία
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /el/terms/data_driven_astronomy/
-date: "2026-07-18T15:59:11.055718Z"
-lastmod: "2026-07-18T17:15:09.895126Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:59:11.055718Z'
+lastmod: '2026-07-18T17:15:09.895126Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η εφαρμογή ανάλυσης δεδομένων μεγάλης κλίμακας και τεχνικών μηχανικής μάθησης για την εξαγωγή συμπερασμάτων από αστρονομικές παρατηρήσεις."
+source: agnes_llm
+status: published
+language: el
+description: Η εφαρμογή ανάλυσης δεδομένων μεγάλης κλίμακας και τεχνικών μηχανικής
+  μάθησης για την εξαγωγή συμπερασμάτων από αστρονομικές παρατηρήσεις.
 ---
-
 ## Definition
 
 Η δεδομενοκεντρική αστρονομία αξιοποιεί προηγμένες υπολογιστικές μεθόδους, συμπεριλαμβανομένης της μηχανικής μάθησης και της στατιστικής ανάλυσης, για τη διαχείριση των τεράστιων όγκων δεδομένων που παράγονται από σύγχρονους τηλεσκοπίους και αποστολές χαρτογράφησης.

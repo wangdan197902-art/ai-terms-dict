@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /zh/terms/diffusersltxpipeline/
-date: "2026-07-18T11:14:55.241325Z"
-lastmod: "2026-07-18T11:44:45.489049Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T11:14:55.241325Z'
+lastmod: '2026-07-18T11:44:45.489049Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Diffusers 中针对 LTX（闪电文本转视频或类似高速生成）模型优化的管道实现，侧重于快速推理。"
+source: agnes_llm
+status: published
+language: zh
+description: Diffusers 中针对 LTX（闪电文本转视频或类似高速生成）模型优化的管道实现，侧重于快速推理。
 ---
-
 ## Definition
 
 LTX 管道专为优先考虑生成任务速度和效率的模型量身定制，通常利用蒸馏或加速采样方法。它与 Diffusers 无缝集成。

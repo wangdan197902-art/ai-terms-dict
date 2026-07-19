@@ -1,23 +1,24 @@
 ---
-title: "워터마킹"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: 워터마킹
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /ko/terms/watermarking/
-date: "2026-07-18T16:20:20.729625Z"
-lastmod: "2026-07-18T16:38:06.919315Z"
+slug: watermarking
+date: '2026-07-18T16:20:20.729625Z'
+lastmod: '2026-07-18T16:38:06.919315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "인공지능에서의 워터마킹은 생성된 콘텐츠에 보이지 않거나 보이는 식별자를 삽입하여 그 출처를 증명하고 인간이 만든 자료와 구분하는 것입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 인공지능에서의 워터마킹은 생성된 콘텐츠에 보이지 않거나 보이는 식별자를 삽입하여 그 출처를 증명하고 인간이 만든 자료와 구분하는
+  것입니다.
 ---
-
 ## Definition
 
 생성형 AI가 점점 더 많은 합성 미디어를 생산함에 따라, 워터마킹은 투명성과 책임성을 위한 중요한 도구가 됩니다. 이는 이미지, 텍스트 등 디지털

@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /no/terms/feedback_neural_network/
 date: "2026-07-18T15:54:45.366583Z"
 lastmod: "2026-07-18T16:38:07.001075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En nevral nettverksarkitektur der tilkoblinger danner rettede sykluser, slik at informasjon kan vedvare over tid."
 ---
-
 ## Definition
 
 Tilbakekoblede nevrale nettverk, også kjent som rekurrente nevrale nettverk (RNNs), inneholder løkker som lar signaler propageres tilbake til tidligere lag. Denne rekurrensen gjør det mulig for nettverket å opprettholde en intern tilstand.

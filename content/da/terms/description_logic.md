@@ -1,23 +1,23 @@
 ---
-title: "Beskrivelseslogik"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Beskrivelseslogik
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /da/terms/description_logic/
-date: "2026-07-18T15:52:22.737638Z"
-lastmod: "2026-07-18T17:15:09.280219Z"
+slug: description_logic
+date: '2026-07-18T15:52:22.737638Z'
+lastmod: '2026-07-18T17:15:09.280219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En familie af formelle sprog til repræsentation af viden, der bruges til at repræsentere og resonnere om den konceptuelle struktur af domæner."
+source: agnes_llm
+status: published
+language: da
+description: En familie af formelle sprog til repræsentation af viden, der bruges
+  til at repræsentere og resonnere om den konceptuelle struktur af domæner.
 ---
-
 ## Definition
 
 Beskrivelseslogikker (DL) er afgørlige fragmenter af førsteordenslogik, der udgør den teoretiske grundlag for ontologier, især Web Ontology Language (OWL). De muliggør præcis definition

@@ -1,23 +1,24 @@
 ---
-title: "Wassersteina"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wassersteina
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /pl/terms/wasserstein/
-date: "2026-07-18T15:31:26.372528Z"
-lastmod: "2026-07-18T17:15:08.824663Z"
+slug: wasserstein
+date: '2026-07-18T15:31:26.372528Z'
+lastmod: '2026-07-18T17:15:08.824663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Miara mierząca odległość między rozkładami prawdopodobieństwa na podstawie minimalnego kosztu przekształcenia jednego w drugi."
+source: agnes_llm
+status: published
+language: pl
+description: Miara mierząca odległość między rozkładami prawdopodobieństwa na podstawie
+  minimalnego kosztu przekształcenia jednego w drugi.
 ---
-
 ## Definition
 
 Odległość Wassersteina, znana również jako Odległość Przenoszenia Ziemi (Earth Mover's Distance), kwantyfikuje różnorodność między dwoma rozkładami prawdopodobieństwa, obliczając minimalną „pracę” wymaganą do przeniesienia masy z jednego rozkładu do drugiego.

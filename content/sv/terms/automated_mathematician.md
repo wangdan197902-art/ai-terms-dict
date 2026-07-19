@@ -1,23 +1,24 @@
 ---
-title: "Automatiserad matematiker"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Automatiserad matematiker
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /sv/terms/automated_mathematician/
-date: "2026-07-18T15:46:40.284954Z"
-lastmod: "2026-07-18T17:15:08.978279Z"
+slug: automated_mathematician
+date: '2026-07-18T15:46:40.284954Z'
+lastmod: '2026-07-18T17:15:08.978279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett AI-system designat för att upptäcka nya matematiska satser, konjekturer eller bevis genom beräkningsmässig sökning och resonemang."
+source: agnes_llm
+status: published
+language: sv
+description: Ett AI-system designat för att upptäcka nya matematiska satser, konjekturer
+  eller bevis genom beräkningsmässig sökning och resonemang.
 ---
-
 ## Definition
 
 En Automatiserad Matematiker använder maskininlärning och symboliskt resonemang för att utforska matematiska rum bortom mänsklig intuition. Dessa system kan generera hypoteser, verifiera bevis och hitta mönster (att använda datorer för att göra matematiska upptäckter).

@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /tr/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T15:45:27.260666Z"
 lastmod: "2026-07-18T16:38:07.283919Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Araç seçimini yönlendirmek amacıyla özelliklere, performansa, kullanım kolaylığına ve topluluk desteğine göre farklı ML çerçevelerinin analitik değerlendirmesi."
 ---
-
 ## Definition
 
 Bu terim, TensorFlow, PyTorch, Scikit-learn ve Keras gibi çeşitli makine öğrenimi kütüphaneleri ve platformlarının sistematik değerlendirilmesini ve kıyaslanmasını ifade eder. Karşılaştırmalar genellikle performans metriklerini, öğrenme eğrilerini, ekosistem olgunluğunu ve geliştirici deneyimini analiz ederek hangi aracın belirli proje ihtiyaçları için en uygun olduğunu belirlemeye yardımcı olur.

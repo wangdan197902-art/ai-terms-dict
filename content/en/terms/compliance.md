@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /en/terms/compliance/
 date: "2026-07-18T09:51:20.758039Z"
 lastmod: "2026-07-18T11:44:44.653528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The adherence of AI systems to legal regulations, ethical standards, and industry guidelines."
 ---
-
 ## Definition
 
 In artificial intelligence, compliance refers to the process of ensuring that AI models and their deployment align with applicable laws, such as GDPR or HIPAA, as well as internal ethical frameworks. It involves implementing mechanisms for transparency, accountability, and fairness to mitigate risks like bias or privacy violations. Organizations must continuously monitor AI behaviors to maintain regulatory standing and public trust, often requiring audits and documentation of model decisions and data handling practices.

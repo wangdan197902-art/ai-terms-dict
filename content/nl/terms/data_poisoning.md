@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /nl/terms/data_poisoning/
 date: "2026-07-18T15:48:56.039961Z"
 lastmod: "2026-07-18T17:15:08.730854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Datap vergiftiging is een beveiligingsaanval waarbij kwaadwillenden corrupte of misleidende gegevens in een trainingsset injecteren om de modelprestaties te verlagen."
 ---
-
 ## Definition
 
 Deze adversariële techniek beoogt de integriteit van machine learning-modellen te ondermijnen door de trainingsgegevens te wijzigen. Door subtiele fouten of bevooroordeelde voorbeelden in te voeren, kunnen aanvallers ervoor zorgen dat het model

@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /tr/terms/ciml_community_portal/
 date: "2026-07-18T15:44:38.453360Z"
 lastmod: "2026-07-18T16:38:07.280872Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Hesaplamalı Zeka ve Makine Öğrenimi alanında araştırmacılar ve uygulayıcılar arasında iş birliğini, kaynak paylaşımını ve tartışmayı kolaylaştıran merkezi bir çevrimiçi platformdur."
 ---
-
 ## Definition
 
 CIML topluluk portalı, hesaplamalı zekaya odaklanan akademik ve profesyonel topluluk için dijital bir merkez görevi görür. Veri kümelerine, önceden eğitilmiş modellere ve araştırma makalelerine erişim sağlar.

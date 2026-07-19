@@ -1,23 +1,24 @@
 ---
-title: "Kenmerk"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Kenmerk
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /nl/terms/feature/
-date: "2026-07-18T15:55:06.674828Z"
-lastmod: "2026-07-18T17:15:08.744166Z"
+slug: feature
+date: '2026-07-18T15:55:06.674828Z'
+lastmod: '2026-07-18T17:15:08.744166Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een individueel meetbaar eigenschap of kenmerk van een waargenomen verschijnsel, dat dient als invoergegevens voor machine learning-modellen."
+source: agnes_llm
+status: published
+language: nl
+description: Een individueel meetbaar eigenschap of kenmerk van een waargenomen verschijnsel,
+  dat dient als invoergegevens voor machine learning-modellen.
 ---
-
 ## Definition
 
 In machine learning is een kenmerk een onderscheidend attribuut of variabele dat een instantie binnen een dataset beschrijft. Kenmerken kunnen numeriek, categorisch of tekstueel zijn en dienen als de fundamentele invoer voor modellen.

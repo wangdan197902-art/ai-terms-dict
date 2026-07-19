@@ -1,23 +1,23 @@
 ---
-title: "数字水印"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: 数字水印
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /zh/terms/watermarking/
-date: "2026-07-18T11:37:50.895591Z"
-lastmod: "2026-07-18T11:44:45.567555Z"
+slug: watermarking
+date: '2026-07-18T11:37:50.895591Z'
+lastmod: '2026-07-18T11:44:45.567555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "人工智能中的数字水印涉及在生成的内容中嵌入不可见或可见的标识符，以证明其来源并将其与人类创作的材料区分开来。"
+source: agnes_llm
+status: published
+language: zh
+description: 人工智能中的数字水印涉及在生成的内容中嵌入不可见或可见的标识符，以证明其来源并将其与人类创作的材料区分开来。
 ---
-
 ## Definition
 
 随着生成式人工智能产生越来越多的合成媒体，数字水印成为透明度和问责制的关键工具。它涉及改变数字内容——如图像、文本...

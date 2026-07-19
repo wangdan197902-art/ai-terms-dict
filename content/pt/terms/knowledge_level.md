@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /pt/terms/knowledge_level/
 date: "2026-07-18T15:07:19.926374Z"
 lastmod: "2026-07-18T15:51:59.505363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma perspectiva de design abstrata que foca no que um agente sabe, em vez de como ele processa informações internamente."
 ---
-
 ## Definition
 
 Cunhado por Allen Newell, o nível de conhecimento analisa sistemas inteligentes com base em suas crenças e objetivos, independentemente de sua implementação física. Ele separa a racionalidade das ações de um agente

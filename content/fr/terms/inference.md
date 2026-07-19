@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /fr/terms/inference/
 date: "2026-07-18T07:43:15.896527Z"
 lastmod: "2026-07-18T11:44:44.589852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La phase où un modèle entraîné traite de nouvelles données pour générer des prédictions ou des sorties."
 ---
-
 ## Definition
 
 L'inférence fait référence à l'étape de déploiement où un modèle finalisé est utilisé pour prendre des décisions ou faire des prédictions sur des données invisibles. Contrairement à l'entraînement, qui met à jour les poids, l'inférence consomme des ressources informatiques...

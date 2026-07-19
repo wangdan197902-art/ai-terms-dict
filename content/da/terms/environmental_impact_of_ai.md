@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /da/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:54:50.328704Z"
 lastmod: "2026-07-18T17:15:09.285596Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "De økologiske konsekvenser af udvikling, træning og udrulning af AI-modeller, herunder energiforbrug og CO2-udledning."
 ---
-
 ## Definition
 
 Dette begreb refererer til de betydelige ressourcekrav, der er forbundet med AI-teknologier, især under træningsfasen af store modeller. Det omfatter elforbrug til datascentre, vandforbrug til køling og den generelle carbon footprint fra hardwareproduktion.

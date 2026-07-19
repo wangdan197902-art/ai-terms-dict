@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /th/terms/csm/
 date: "2026-07-18T15:47:18.454448Z"
 lastmod: "2026-07-18T16:38:07.590943Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "คำย่อที่มีความกำกวม มักหมายถึง Contextual Speech Models หรือ Cloud Security Management ในโดเมนทางเทคนิคเฉพาะ โดยไม่มีนิยามมาตรฐานสากลในบริบท AI ทั่วไป"
 ---
-
 ## Definition
 
 ในบริบทของ AI และเทคโนโลยี คำว่า 'CSM' ไม่ใช่ศัพท์มาตรฐานสากลเช่น 'CNN' หรือ 'RNN' โดยส่วนใหญ่แล้วมักย่อมาจาก Contextual Speech Models ในการวิจัยด้านการประมวลผลเสียง ซึ่งหมายถึงแบบจำลองที่พิจารณาบริบทของเสียงเพื่อเพิ่มความแม่นยำ อย่างไรก็ตาม ในบางบริบทอาจหมายถึง Cloud Security Management ได้เช่นกัน จึงจำเป็นต้องระบุบริบทให้ชัดเจน

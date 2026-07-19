@@ -1,23 +1,25 @@
 ---
-title: "Магазин признаков (Feature Store)"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: Магазин признаков (Feature Store)
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /ru/terms/feature_store/
-date: "2026-07-18T15:53:24.673980Z"
-lastmod: "2026-07-18T16:38:07.157219Z"
+slug: feature_store
+date: '2026-07-18T15:53:24.673980Z'
+lastmod: '2026-07-18T16:38:07.157219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Централизованное хранилище, предназначенное для управления, обмена и предоставления признаков с согласованностью как при обучении моделей, так и при их использовании (инференсе)."
+source: agnes_llm
+status: published
+language: ru
+description: Централизованное хранилище, предназначенное для управления, обмена и
+  предоставления признаков с согласованностью как при обучении моделей, так и при
+  их использовании (инференсе).
 ---
-
 ## Definition
 
 Feature Store действует как мост между командами инженерии данных и машинного обучения, обеспечивая единое представление о признаках как для пакетного обучения, так и для вывода в реальном времени. Он обеспечивает согласованность за счет...

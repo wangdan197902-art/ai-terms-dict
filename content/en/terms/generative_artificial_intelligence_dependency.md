@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /en/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T09:59:34.879436Z"
 lastmod: "2026-07-18T11:44:44.676247Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The reliance of organizations on generative AI systems for critical operations, creating risks related to availability, accuracy, and security."
 ---
-
 ## Definition
 
 This concept refers to the strategic and operational reliance businesses place on generative AI models to perform essential tasks such as content creation, customer service, and data analysis. As adoption grows, dependencies increase, exposing organizations to risks like model hallucinations, data privacy breaches, vendor lock-in, and service outages. Managing this dependency involves implementing robust governance, fallback mechanisms, and continuous monitoring to ensure resilience against AI-specific failures while maintaining operational continuity.

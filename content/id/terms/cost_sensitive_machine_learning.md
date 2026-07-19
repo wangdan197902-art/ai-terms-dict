@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran Mesin Sensitif Biaya"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Pembelajaran Mesin Sensitif Biaya
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /id/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:44:18.928584Z"
-lastmod: "2026-07-18T16:38:07.441128Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:44:18.928584Z'
+lastmod: '2026-07-18T16:38:07.441128Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Paradigma pembelajaran mesin yang mengintegrasikan biaya kesalahan klasifikasi ke dalam proses pelatihan untuk mengoptimalkan dampak ekonomi daripada sekadar akurasi."
+source: agnes_llm
+status: published
+language: id
+description: Paradigma pembelajaran mesin yang mengintegrasikan biaya kesalahan klasifikasi
+  ke dalam proses pelatihan untuk mengoptimalkan dampak ekonomi daripada sekadar akurasi.
 ---
-
 ## Definition
 
 Pembelajaran mesin sensitif biaya memperluas pembelajaran terawasi tradisional dengan memberikan penalti berbeda untuk jenis kesalahan yang berbeda. Dalam skenario dunia nyata, hasil positif palsu dan negatif palsu sering kali memiliki konsekuensi yang sangat berbeda.

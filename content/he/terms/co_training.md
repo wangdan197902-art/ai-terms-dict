@@ -1,23 +1,25 @@
 ---
-title: "אימון משותף"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: אימון משותף
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /he/terms/co_training/
-date: "2026-07-18T15:47:48.100057Z"
-lastmod: "2026-07-18T17:15:09.520126Z"
+slug: co_training
+date: '2026-07-18T15:47:48.100057Z'
+lastmod: '2026-07-18T17:15:09.520126Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אימון משותף הוא אלגוריתם למידה חצי-מפוקח שבו משתמשים בשתי פרספקטיבות (Views) של הנתונים כדי לאמן מסווגים נפרדים המסווגים באופן איטרטיבי נתונים ללא תוויות אחד עבור השני."
+source: agnes_llm
+status: published
+language: he
+description: אימון משותף הוא אלגוריתם למידה חצי-מפוקח שבו משתמשים בשתי פרספקטיבות
+  (Views) של הנתונים כדי לאמן מסווגים נפרדים המסווגים באופן איטרטיבי נתונים ללא תוויות
+  אחד עבור השני.
 ---
-
 ## Definition
 
 שיטה זו מנצלת מספר ערכות מאפיינים נפרדות (פרספקטיבות) של אותם נקודות נתונים. בתחילה, מאומנים שני מסווגים על גבי מערכי נתונים מסומנים קטנים מכל פרספקטיבה. לאחר מכן הם חוזים תוויות עבור נתונים ללא

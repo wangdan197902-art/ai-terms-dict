@@ -1,23 +1,24 @@
 ---
-title: "Datově řízená astronomie"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Datově řízená astronomie
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /cs/terms/data_driven_astronomy/
-date: "2026-07-18T15:50:45.936188Z"
-lastmod: "2026-07-18T17:15:09.116520Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:50:45.936188Z'
+lastmod: '2026-07-18T17:15:09.116520Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Aplikace analýzy dat ve velkém měřítku a technik strojového učení k získávání poznatků z astronomických pozorování."
+source: agnes_llm
+status: published
+language: cs
+description: Aplikace analýzy dat ve velkém měřítku a technik strojového učení k získávání
+  poznatků z astronomických pozorování.
 ---
-
 ## Definition
 
 Datově řízená astronomie využívá pokročilé výpočetní metody, včetně strojového učení a statistické analýzy, k zvládání obrovských objemů dat generovaných moderními dalekohledy a průzkumy oblohy. Tento přístup umožňuje vědcům identifikovat vzorce a objekty, které by byly lidským okem nebo tradičními metodami obtížné nebo nemožné detekovat.

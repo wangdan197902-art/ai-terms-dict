@@ -1,23 +1,24 @@
 ---
-title: "Testen"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testen
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /de/terms/testing/
-date: "2026-07-18T11:00:05.256730Z"
-lastmod: "2026-07-18T11:44:44.900878Z"
+slug: testing
+date: '2026-07-18T11:00:05.256730Z'
+lastmod: '2026-07-18T11:44:44.900878Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der systematische Prozess zur Bewertung der Leistung und Zuverlässigkeit eines KI-Modells auf ungesehenen Daten, um Qualität und Sicherheit sicherzustellen."
+source: agnes_llm
+status: published
+language: de
+description: Der systematische Prozess zur Bewertung der Leistung und Zuverlässigkeit
+  eines KI-Modells auf ungesehenen Daten, um Qualität und Sicherheit sicherzustellen.
 ---
-
 ## Definition
 
 Testen im KI-Engineering umfasst die rigorose Bewertung von Modellen anhand verschiedener Datensätze, um Verzerrungen, Fehler und Robustheitsprobleme zu identifizieren. Dazu gehören Unit-Tests für Codekomponenten, Integrationstests und Tests auf Produktionsreife.

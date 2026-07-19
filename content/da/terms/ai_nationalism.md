@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /da/terms/ai_nationalism/
 date: "2026-07-18T15:39:30.381602Z"
 lastmod: "2026-07-18T17:15:09.254135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den strategiske konkurrence mellem nationer om at dominere udviklingen af kunstig intelligens, drevet af geopolitiske og økonomiske interesser."
 ---
-
 ## Definition
 
 AI-nationalisme beskriver den tendens, hvor regeringer behandler kunstig intelligens som et spørgsmål om national sikkerhed og økonomisk suverænitet. Nationer investerer tungt i indenlandsk AI-forskning, begrænser eksporten af avanceret teknologi og søger at reducere afhængigheden af udenlandske aktører.

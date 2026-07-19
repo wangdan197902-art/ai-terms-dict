@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /tr/terms/haw/
-date: "2026-07-18T15:56:25.787481Z"
-lastmod: "2026-07-18T16:38:07.316464Z"
+slug: haw
+date: '2026-07-18T15:56:25.787481Z'
+lastmod: '2026-07-18T16:38:07.316464Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli bir teknik anlamı olmayan, genellikle gayriresmi dijital iletişimde kullanılan bir sözlü ünlem."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli bir teknik anlamı olmayan, genellikle gayriresmi dijital iletişimde
+  kullanılan bir sözlü ünlem.
 ---
-
 ## Definition
 
 Genel dil işleme bağlamında 'haw', gayriresmi bir ünlem veya tereddüt sesidir. Yapay zekada temel bir algoritmik kavramı temsil etmese de, Doğal Dil İşleme (NLP) modellerinin bu tür günlük konuşma kalıplarını ve niyetleri doğru yorumlayabilmesi için bu ifadeleri tanıması gerekir.

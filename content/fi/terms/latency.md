@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /fi/terms/latency/
 date: "2026-07-18T15:36:54.901799Z"
 lastmod: "2026-07-18T17:15:09.371555Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Aika pyynnön aloittamisesta vasteen alkuun tekoälyjärjestelmässä."
 ---
-
 ## Definition
 
 Viive mittaa tekoälypalvelun reagointikykyä, ja se ilmaistaan yleensä millisekunneina. Se sisältää päättelyajan, verkon välitysviiveet ja käsittelyyn liittyvät lisäkuormat. Matala viive on kriittistä reaaliaikaisille sovelluksille.

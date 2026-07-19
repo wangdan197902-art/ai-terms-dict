@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /de/terms/agents/
 date: "2026-07-18T10:48:16.291210Z"
 lastmod: "2026-07-18T11:44:44.868687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Autonome Entitäten, die ihre Umgebung wahrnehmen und Aktionen durchführen, um bestimmte Ziele zu erreichen."
 ---
-
 ## Definition
 
 KI-Agenten sind Softwareprogramme oder Systeme, die in der Lage sind, ihre Umgebung durch Sensoren (Eingaben) wahrzunehmen, Informationen zu verarbeiten und Aktionen über Aktuatoren (Ausgaben) auszuführen, um definierte Ziele zu erreichen.

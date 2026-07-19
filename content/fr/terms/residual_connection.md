@@ -1,23 +1,24 @@
 ---
-title: "Connexion résiduelle"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Connexion résiduelle
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /fr/terms/residual_connection/
-date: "2026-07-18T11:01:25.132000Z"
-lastmod: "2026-07-18T11:44:45.188460Z"
+slug: residual_connection
+date: '2026-07-18T11:01:25.132000Z'
+lastmod: '2026-07-18T11:44:45.188460Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un mécanisme qui ajoute l'entrée directement à la sortie d'une couche pour faciliter le flux de gradient dans les réseaux profonds."
+source: agnes_llm
+status: published
+language: fr
+description: Un mécanisme qui ajoute l'entrée directement à la sortie d'une couche
+  pour faciliter le flux de gradient dans les réseaux profonds.
 ---
-
 ## Definition
 
 Les connexions résiduelles, également appelées connexions saut (skip connections), permettent aux gradients de circuler à travers un réseau en ajoutant directement une entrée à la sortie d'une couche ultérieure. Cette architecture résout le problème du gradient disparaissant (vanishing gradient problem) en préservant l'information tout au long du réseau.

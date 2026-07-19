@@ -1,23 +1,23 @@
 ---
-title: "Through"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: Through
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /pl/terms/through/
-date: "2026-07-18T15:30:08.725185Z"
-lastmod: "2026-07-18T17:15:08.822592Z"
+slug: through
+date: '2026-07-18T15:30:08.725185Z'
+lastmod: '2026-07-18T17:15:08.822592Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Through to przyimek i nie stanowi specyficznego terminu technicznego w sztucznej inteligencji."
+source: agnes_llm
+status: published
+language: pl
+description: Through to przyimek i nie stanowi specyficznego terminu technicznego
+  w sztucznej inteligencji.
 ---
-
 ## Definition
 
 'Through' nie ma samodzielnej definicji w terminologii AI. Jest często używane w frazach takich jak 'throughput' (przepustowość) lub w kontekście warstw sieci neuronowych, gdzie sygnały przechodzą przez węzły. Bez...

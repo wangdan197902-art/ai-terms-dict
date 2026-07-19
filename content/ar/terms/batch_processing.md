@@ -1,23 +1,24 @@
 ---
-title: "المعالجة الدفعية"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: المعالجة الدفعية
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /ar/terms/batch_processing/
-date: "2026-07-18T15:47:03.311317Z"
-lastmod: "2026-07-18T17:15:08.480347Z"
+slug: batch_processing
+date: '2026-07-18T15:47:03.311317Z'
+lastmod: '2026-07-18T17:15:08.480347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة حسابية يتم فيها جمع البيانات على مدار الوقت ومعالجتها في مجموعات بدلاً من معالجتها بشكل فردي."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة حسابية يتم فيها جمع البيانات على مدار الوقت ومعالجتها في مجموعات
+  بدلاً من معالجتها بشكل فردي.
 ---
-
 ## Definition
 
 تتضمن المعالجة الدفعية تجميع مدخلات البيانات في مجموعة، أو دفعة، قبل تنفيذ عملية حسابية أو استنتاج نموذج. يتناقض هذا النهج مع معالجة التدفق في الوقت الفعلي من خلال السماح بـ

@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /ja/terms/tracing/
 date: "2026-07-18T11:35:22.383367Z"
 lastmod: "2026-07-18T11:44:45.152578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "トレーシングは、デバッグやパフォーマンス最適化を支援するために、プログラムまたはAIモデル推論の実行パスと中間状態を記録する技術です。"
 ---
-
 ## Definition
 
 AIエンジニアリングの文脈において、トレーシングとは、入力、出力、レイテンシ、各ステップでのリソース使用量など、データがモデルやアプリケーション内をどのように流れるかに関する詳細なログを取得することを指します。これにより、システム内部の動作を可視化し、ボトルネックの特定や改善が可能になります。

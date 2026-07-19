@@ -1,23 +1,24 @@
 ---
-title: "İçerik Menşei"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: İçerik Menşei
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /tr/terms/content_provenance/
-date: "2026-07-18T15:46:20.122181Z"
-lastmod: "2026-07-18T16:38:07.286371Z"
+slug: content_provenance
+date: '2026-07-18T15:46:20.122181Z'
+lastmod: '2026-07-18T16:38:07.286371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Dijital bir varlığın kökenini, geçmişini ve sahipliğini doğrulanabilir şekilde kaydeden bilgi."
+source: agnes_llm
+status: published
+language: tr
+description: Dijital bir varlığın kökenini, geçmişini ve sahipliğini doğrulanabilir
+  şekilde kaydeden bilgi.
 ---
-
 ## Definition
 
 İçerik menşei, dijital içeriğin nereden geldiğini, nasıl oluşturulduğunu ve zaman içinde kimler tarafından değiştirildiğini belgeleme ve doğrulama sürecini ifade eder. Yapay zeka bağlamında, bu kavram içeriklerin sahteciliğinin önlenmesi ve güvenilirliğin sağlanması açısından kritik önem taşır.

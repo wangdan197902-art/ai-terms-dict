@@ -1,23 +1,24 @@
 ---
-title: "אחסון מטמון (Caching)"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: אחסון מטמון (Caching)
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /he/terms/caching/
-date: "2026-07-18T15:47:17.252783Z"
-lastmod: "2026-07-18T17:15:09.518788Z"
+slug: caching
+date: '2026-07-18T15:47:17.252783Z'
+lastmod: '2026-07-18T17:15:09.518788Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אחסון מטמון הוא טכניקה של שמירת נתונים הנגישים בתדירות גבוהה בשכבת אחסון זמנית ומהירה כדי להפחית זמן המתנה ולהפחית את העומס על מקורות הנתונים הראשיים."
+source: agnes_llm
+status: published
+language: he
+description: אחסון מטמון הוא טכניקה של שמירת נתונים הנגישים בתדירות גבוהה בשכבת אחסון
+  זמנית ומהירה כדי להפחית זמן המתנה ולהפחית את העומס על מקורות הנתונים הראשיים.
 ---
-
 ## Definition
 
 בהנדסת בינה מלאכותית, אחסון מטמון משפר ביצועים על ידי שמירה של תוצאות שאילתות או תחזיות מודל עדכניות או נפוצות בזיכרון מהיר (כמו RAM). פעולה זו מפחיתה את הצורך בחישובים יקרים או בגישות חוזרות למאגרי נתונים איטיים יותר.

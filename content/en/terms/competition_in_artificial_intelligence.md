@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /en/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T09:50:01.902166Z"
 lastmod: "2026-07-18T11:44:44.653385Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The rivalry between nations, corporations, and research institutions to achieve leadership in AI development, innovation, and deployment."
 ---
-
 ## Definition
 
 Competition in artificial intelligence describes the intense global race to advance AI capabilities, driven by economic, military, and scientific advantages. Major players include tech giants like Google, Microsoft, and OpenAI, as well as national governments investing heavily in AI strategy. This competition accelerates innovation but also raises concerns about safety, ethics, and regulatory gaps. Key areas of contention include large language models, autonomous weapons, and AI chip manufacturing. The dynamic shapes policy decisions, funding priorities, and international cooperation efforts regarding AI governance and standardization.

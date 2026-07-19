@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /he/terms/cognitive_computing/
 date: "2026-07-18T15:48:09.176519Z"
 lastmod: "2026-07-18T17:15:09.520451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "חישוב קוגניטיבי מתייחס למערכות הדומות לתהליכי חשיבה אנושיים במודל מחשבתי, תוך שימוש בבינה מלאכותית לחיקוי תפקודי המוח האנושי."
 ---
-
 ## Definition
 
 חישוב קוגניטיבי הוא ענף של בינה מלאכותית השואף לפעול עם בני אדם באופן טבעי תוך חיקוי תהליכי חשיבה מוחיים. מערכות אלו משתמשות בלמידת מכונה ולמידה עמוקה כדי לעבד מידע לא מובנה ולהסיק מסקנות.

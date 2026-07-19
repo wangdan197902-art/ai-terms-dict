@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /cs/terms/data_protection/
 date: "2026-07-18T15:34:41.065932Z"
 lastmod: "2026-07-18T17:15:09.088253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces zabezpečení citlivých informací před neoprávněným přístupem, poškozením nebo krádeží po celou dobu jejich životního cyklu."
 ---
-
 ## Definition
 
 Ochrana dat zahrnuje právní, technická a organizační opatření určená k zabezpečení osobních a proprietárních dat proti poruchám bezpečnosti a zneužívání. V oblasti AI to zahrnuje implementaci šifrování, řízení přístupu...

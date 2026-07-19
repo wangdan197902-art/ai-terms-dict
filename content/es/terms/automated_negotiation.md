@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /es/terms/automated_negotiation/
 date: "2026-07-18T10:37:40.932267Z"
 lastmod: "2026-07-18T11:44:44.780262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El uso de agentes de IA para realizar negociaciones autónomas y alcanzar acuerdos entre partes."
 ---
-
 ## Definition
 
 La negociación automatizada implica agentes de software que representan los intereses humanos en procesos de negociación. Estos agentes utilizan teoría de juegos, algoritmos de optimización y aprendizaje automático para proponer ofertas, evaluar...

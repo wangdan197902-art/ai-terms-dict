@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /vi/terms/personality_computing/
 date: "2026-07-18T16:07:31.524672Z"
 lastmod: "2026-07-18T16:38:07.792440Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một lĩnh vực nghiên cứu tập trung vào việc tạo ra các mô hình tính toán mô phỏng các đặc điểm nhân cách con người nhằm nâng cao tương tác giữa người và máy."
 ---
-
 ## Definition
 
 Tính toán nhân cách liên quan đến việc phát triển các thuật toán và hệ thống có khả năng mô hình hóa, mô phỏng hoặc thích ứng với các chiều kích nhân cách của con người, chẳng hạn như Năm yếu tố lớn (Big Five). Các hệ thống này hướng tới việc tạo ra những trải nghiệm tương tác tự nhiên và cá nhân hóa hơn.

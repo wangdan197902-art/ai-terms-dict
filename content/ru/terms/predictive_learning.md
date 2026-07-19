@@ -1,23 +1,24 @@
 ---
-title: "Предиктивное обучение"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: Предиктивное обучение
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /ru/terms/predictive_learning/
-date: "2026-07-18T16:10:35.660058Z"
-lastmod: "2026-07-18T16:38:07.192394Z"
+slug: predictive_learning
+date: '2026-07-18T16:10:35.660058Z'
+lastmod: '2026-07-18T16:38:07.192394Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подход с самообучением без учителя, при котором модели учатся представлять данные, предсказывая недостающие части входных данных."
+source: agnes_llm
+status: published
+language: ru
+description: Подход с самообучением без учителя, при котором модели учатся представлять
+  данные, предсказывая недостающие части входных данных.
 ---
-
 ## Definition
 
 Предиктивное обучение включает в себя обучение нейронных сетей выведению ненаблюдаемых точек данных на основе наблюдаемых входов без явных человеческих меток. Решая такие задачи, как предсказание следующего токена в языке или маскирование частей изображения, модель учится извлекать значимые представления из структуры самих данных.

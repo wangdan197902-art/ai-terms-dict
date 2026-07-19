@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /tr/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:07:15.819222Z"
 lastmod: "2026-07-18T16:38:07.343282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Açık kaynak yapay zeka, kaynak kodu incelemek, değiştirmek ve dağıtmak için herkese açık olan yapay zeka yazılımı, modelleri ve araçlarını ifade eder."
 ---
-
 ## Definition
 
 Bu kavram, temel kodlarına ücretsiz erişime izin veren lisanslar altında yayımlanan yapay zeka teknolojileri ekosistemini kapsar. Geliştiricilere şeffaflığı, işbirliğini ve yeniliği teşvik ederek yaygınlaşmasını sağlar.

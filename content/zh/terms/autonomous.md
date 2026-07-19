@@ -1,23 +1,23 @@
 ---
-title: "自主的"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: 自主的
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /zh/terms/autonomous/
-date: "2026-07-18T10:49:18.636587Z"
-lastmod: "2026-07-18T11:44:45.362418Z"
+slug: autonomous
+date: '2026-07-18T10:49:18.636587Z'
+lastmod: '2026-07-18T11:44:45.362418Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "描述能够在动态环境中独立做出决策并采取行动的系统。"
+source: agnes_llm
+status: published
+language: zh
+description: 描述能够在动态环境中独立做出决策并采取行动的系统。
 ---
-
 ## Definition
 
 AI中的自主性是指系统感知环境、做出决策并执行操作而无需直接人工控制的能力。与简单的自动化不同，自主系统能够适应变化并调整其行为。

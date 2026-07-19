@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /da/terms/random/
 date: "2026-07-18T15:29:06.610138Z"
 lastmod: "2026-07-18T17:15:09.231617Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Egenskaben ved at mangle et forudsigeligt mønster, ofte simuleret i AI gennem algoritmer til generering af pseudo-tilfældige tal."
 ---
-
 ## Definition
 
 Tilfældighed er grundlæggende i AI til initialisering af modelvægte, blanding af datasæt og introduktion af stokastiskitet under træningen for at forhindre overfitting. Da computere er deterministiske, bruger AI-systemer 

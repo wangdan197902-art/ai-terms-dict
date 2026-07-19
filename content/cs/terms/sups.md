@@ -1,23 +1,25 @@
 ---
-title: "SUPS"
-term_id: "sups"
-category: "basic_concepts"
-subcategory: ""
-tags: ["acronym", "learning_paradigms", "research"]
+title: SUPS
+term_id: sups
+category: basic_concepts
+subcategory: ''
+tags:
+- acronym
+- Learning Paradigms
+- research
 difficulty: 4
 weight: 1
-slug: "sups"
-aliases:
-  - /cs/terms/sups/
-date: "2026-07-18T16:16:30.292764Z"
-lastmod: "2026-07-18T17:15:09.198353Z"
+slug: sups
+date: '2026-07-18T16:16:30.292764Z'
+lastmod: '2026-07-18T17:15:09.198353Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "V kontextu AI a strojového učení se SUPS často týká hybridních systémů supervised/unsupervised nebo specifických schémat datových sad, ačkoli není tak standardizovaný jako jiné akronymy."
+source: agnes_llm
+status: published
+language: cs
+description: V kontextu AI a strojového učení se SUPS často týká hybridních systémů
+  supervised/unsupervised nebo specifických schémat datových sad, ačkoli není tak
+  standardizovaný jako jiné akronymy.
 ---
-
 ## Definition
 
 SUPS je zkratka, která se může lišit podle kontextu, ale často se vyskytuje ve specializované literatuře o AI odkazující na hybridní přístupy učení nebo specifická datová struktura. Může označovat systémy, které kombinují...

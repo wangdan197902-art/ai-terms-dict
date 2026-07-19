@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /id/terms/data_preprocessing/
 date: "2026-07-18T15:45:29.909176Z"
 lastmod: "2026-07-18T16:38:07.443082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses mengubah data mentah menjadi format yang bersih dan konsisten agar sesuai untuk algoritma pembelajaran mesin."
 ---
-
 ## Definition
 
 Pra-pemrosesan data adalah tugas penting untuk mengubah data mentah, tidak terstruktur, atau berisik menjadi format standar yang dapat dikonsumsi secara efektif oleh model pembelajaran mesin. Tahap ini biasanya mencakup pembersihan data, penanganan nilai yang hilang, normalisasi, pengkodean variabel kategorikal, dan penskalaan fitur untuk memastikan konsistensi dan kualitas input bagi model.

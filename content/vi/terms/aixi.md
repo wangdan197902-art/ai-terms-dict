@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /vi/terms/aixi/
 date: "2026-07-18T15:38:59.636754Z"
 lastmod: "2026-07-18T16:38:07.723536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "AIXI là một lý thuyết toán học về trí thông minh nhân tạo tổng quát, mô hình hóa một tác nhân tối ưu tương tác với môi trường."
 ---
-
 ## Definition
 
 AIXI là một khung lý thuyết do Marcus Hutter đề xuất, định nghĩa một tác nhân thông lý tưởng hóa. Nó kết hợp suy luận Solomonoff để dự đoán môi trường với học tăng cường để đưa ra các quyết định tối ưu nhằm tối đa hóa phần thưởng.

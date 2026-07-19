@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /fi/terms/numerical/
 date: "2026-07-18T15:29:19.481833Z"
 lastmod: "2026-07-18T17:15:09.355858Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Liittyvä, sisältävä tai käyttävä numeroita tai matemaattisia laskelmia symbolisen logiikan tai tekstin sijaan."
 ---
-
 ## Definition
 
 Tekoälyn ja datatieteen kontekstissa numeraalinen viittaa datatyyppeihin tai menetelmiin, jotka sisältävät kvantitatiivisia arvoja, kuten kokonaislukuja, liukulukuja ja desimaaleja. Toisin kuin kategoriset tai tekstidata, numeraalinen data...

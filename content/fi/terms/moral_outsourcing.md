@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /fi/terms/moral_outsourcing/
 date: "2026-07-18T16:11:30.339917Z"
 lastmod: "2026-07-18T17:15:09.436035Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Eettinen huolenaihe, jossa yksilöt tai organisaatiot siirtävät moraalisten päätöksentekovastuiden automaattisille tekoälyjärjestelmille."
 ---
-
 ## Definition
 
 Moraalinen ulkoistus viittaa ilmiöön, jossa ihmiset luovuttavat eettisen harkinnan ja vastuun algoritmeille tai tekoälyjärjestelmille. Tämä tapahtuu, kun ihmiset luottavat automaattisiin päätöksiin moraalisesti merkittävissä tilanteissa.

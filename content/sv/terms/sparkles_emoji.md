@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /sv/terms/sparkles_emoji/
 date: "2026-07-18T16:21:04.669724Z"
 lastmod: "2026-07-18T17:15:09.049333Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En visuell symbol som ofta används i AI-gränssnitt för att beteckna nya funktioner, förbättringar eller magiska transformationer i genererat innehåll."
 ---
-
 ## Definition
 
 Glitter-emojin är en grafisk ikon som ofta används i användargränssnitt för AI-applikationer för att signalera nyhet, förbättring eller kreativ förstärkning. Den fungerar som en icke-verbal ledtråd som indikerar att något har uppdaterats eller förbättrats.

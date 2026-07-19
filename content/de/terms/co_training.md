@@ -1,23 +1,25 @@
 ---
-title: "Ko-Training"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Ko-Training
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /de/terms/co_training/
-date: "2026-07-18T11:07:28.137971Z"
-lastmod: "2026-07-18T11:44:44.917897Z"
+slug: co_training
+date: '2026-07-18T11:07:28.137971Z'
+lastmod: '2026-07-18T11:44:44.917897Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ko-Training ist ein semi-supervisierter Lernalgorithmus, bei dem zwei Ansichten der Daten verwendet werden, um separate Klassifikatoren zu trainieren, die unbeschriftete Daten iterativ gegenseitig bes"
+source: agnes_llm
+status: published
+language: de
+description: Ko-Training ist ein semi-supervisierter Lernalgorithmus, bei dem zwei
+  Ansichten der Daten verwendet werden, um separate Klassifikatoren zu trainieren,
+  die unbeschriftete Daten iterativ gegenseitig bes
 ---
-
 ## Definition
 
 Diese Methode nutzt mehrere unterschiedliche Merkmalsätze (Ansichten) derselben Datenpunkte. Zunächst werden zwei Klassifikatoren auf kleinen beschrifteten Datensätzen aus jeder Ansicht trainiert. Sie sagen dann Labels für unbes

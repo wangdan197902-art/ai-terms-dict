@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /pl/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:14:31.572652Z"
 lastmod: "2026-07-18T17:15:08.913153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Paradygmat współpracy uczącej się, w którym ludzie i maszyny nieustannie uczą się nawzajem od siebie, aby poprawić wydajność."
 ---
-
 ## Definition
 
 To podejście wykracza poza proste etykietowanie z udziałem człowieka (human-in-the-loop). Zakonuje ono dwukierunkową wymianę wiedzy: ludzie korygują błędy modelu, podczas gdy model pomaga ludziom w identyfikowaniu wzorców lub automatyzacji zadań.

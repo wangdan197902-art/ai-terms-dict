@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /vi/terms/golog/
 date: "2026-07-18T15:54:10.858614Z"
 lastmod: "2026-07-18T16:38:07.759503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Ngôn ngữ lập trình cấp cao dựa trên tính toán tình huống (situation calculus) để chỉ định các hành động và suy luận về các miền động."
 ---
-
 ## Definition
 
 GOLOG là một ngôn ngữ lập trình dựa trên logic, chủ yếu được sử dụng trong trí tuệ nhân tạo để lập kế hoạch và hành động trong các môi trường động. Được xây dựng dựa trên tính toán tình huống của Reiter, nó cho phép các nhà phát triển mô tả các hành động và suy luận về hậu quả của chúng trong các hệ thống phức tạp.

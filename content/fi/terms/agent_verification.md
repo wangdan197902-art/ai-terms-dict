@@ -1,23 +1,24 @@
 ---
-title: "Agentin varmentaminen"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Agentin varmentaminen
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /fi/terms/agent_verification/
-date: "2026-07-18T15:41:36.937136Z"
-lastmod: "2026-07-18T17:15:09.381283Z"
+slug: agent_verification
+date: '2026-07-18T15:41:36.937136Z'
+lastmod: '2026-07-18T17:15:09.381283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Agentin varmentaminen on prosessi, jossa muodollisesti todistetaan, että autonominen agentti käyttäytyy oikein ja turvallisesti kaikissa määritellyissä olosuhteissa."
+source: agnes_llm
+status: published
+language: fi
+description: Agentin varmentaminen on prosessi, jossa muodollisesti todistetaan, että
+  autonominen agentti käyttäytyy oikein ja turvallisesti kaikissa määritellyissä olosuhteissa.
 ---
-
 ## Definition
 
 Tämä sisältää matemaattisten menetelmien käytön varmistamaan, että agentin toiminta noudattaa ennalta määriteltyjä rajoituksia, kuten turvarajoja tai eettisiä ohjeita. Se on erityisen tärkeää agenteille, jotka toimivat...

@@ -1,23 +1,25 @@
 ---
-title: "Генеративный ИИ"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: Генеративный ИИ
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /ru/terms/generative_ai/
-date: "2026-07-18T15:55:09.854811Z"
-lastmod: "2026-07-18T16:38:07.160890Z"
+slug: generative_ai
+date: '2026-07-18T15:55:09.854811Z'
+lastmod: '2026-07-18T16:38:07.160890Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Генеративный ИИ — это тип искусственного интеллекта, способного создавать новый контент, такой как текст, изображения, аудио и код, на основе паттернов, изученных из обучающих данных."
+source: agnes_llm
+status: published
+language: ru
+description: Генеративный ИИ — это тип искусственного интеллекта, способного создавать
+  новый контент, такой как текст, изображения, аудио и код, на основе паттернов, изученных
+  из обучающих данных.
 ---
-
 ## Definition
 
 Эти системы, включая большие языковые модели и диффузионные модели, не просто извлекают существующую информацию, но синтезируют новые результаты. Они изучают лежащую в основе структуру и стиль своих обучающих данных для генерации уникального контента.

@@ -1,23 +1,24 @@
 ---
-title: "Hodnocení binárních klasifikátorů"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Hodnocení binárních klasifikátorů
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /cs/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:56:21.998179Z"
-lastmod: "2026-07-18T17:15:09.127483Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:56:21.998179Z'
+lastmod: '2026-07-18T17:15:09.127483Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces hodnocení výkonu modelů strojového učení, které předpovídají jednu ze dvou možných výsledků."
+source: agnes_llm
+status: published
+language: cs
+description: Proces hodnocení výkonu modelů strojového učení, které předpovídají jednu
+  ze dvou možných výsledků.
 ---
-
 ## Definition
 
 Tato oblast zahrnuje analýzu metrik, jako je přesnost (accuracy), přesnost (precision), recall, F1-skóre a plocha pod křivkou ROC (AUC-ROC). Pomáhá určit, jak dobře model rozlišuje mezi dvěma třídami.

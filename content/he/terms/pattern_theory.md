@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /he/terms/pattern_theory/
 date: "2026-07-18T16:16:35.780498Z"
 lastmod: "2026-07-18T17:15:09.572675Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסגרת מתמטית לתיאור מבנים מורכבים באמצעות ניתוח דפוסים בתוך מרחבי נתונים."
 ---
-
 ## Definition
 
 תיאוריית הדפוסים מספקת בסיס מתמטי קפדני להבנת האופן שבו ניתן לתאר אובייקטים ופנומנים מורכבים באמצעות דפוסים. היא טוענת כי כל אובייקט יכול להיות מאופיין על ידי הדפוסים שלו.

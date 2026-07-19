@@ -1,23 +1,24 @@
 ---
-title: "Alt Uydurma (Underfitting)"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: Alt Uydurma (Underfitting)
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /tr/terms/underfitting/
-date: "2026-07-18T16:20:15.852163Z"
-lastmod: "2026-07-18T16:38:07.375327Z"
+slug: underfitting
+date: '2026-07-18T16:20:15.852163Z'
+lastmod: '2026-07-18T16:38:07.375327Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir makine öğrenmesi modelinin eğitim verisinin altta yatan eğilimini yakalamakta başarısız olduğu durum."
+source: agnes_llm
+status: published
+language: tr
+description: Bir makine öğrenmesi modelinin eğitim verisinin altta yatan eğilimini
+  yakalamakta başarısız olduğu durum.
 ---
-
 ## Definition
 
 Alt uydurma, istatistiksel bir modelin veya makine öğrenmesi algoritmasının girdilerden çıktılara olan işlevi doğru bir şekilde yaklaşıklayamadığı durumdur. Bu genellikle modelin veri karmaşıklığını yakalamak için yeterince kompleks olmaması nedeniyle gerçekleşir.

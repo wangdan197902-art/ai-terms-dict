@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /ja/terms/neural_network/
 date: "2026-07-18T10:53:00.476383Z"
 lastmod: "2026-07-18T11:44:45.014779Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "生物学的な脳にインスパイアされた計算システムで、層状に配置された相互接続されたノードまたはニューロンで構成されています。"
 ---
-
 ## Definition
 
 ニューラルネットワークは、人間の脳の動作様式を模倣するプロセスを通じて、データセット内の基礎的な関係性を認識しようとする一連のアルゴリズムです。それは層で構成されています。

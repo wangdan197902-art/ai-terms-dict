@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /tr/terms/case_based_reasoning/
 date: "2026-07-18T15:44:38.453377Z"
 lastmod: "2026-07-18T16:38:07.281112Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Duruma dayalı muhakeme (CBR), yeni problemler için çözümler bulmak geçmiş deneyimleri veya benzer durumları kullanan bir yapay zeka problem çözme yaklaşımıdır."
 ---
-
 ## Definition
 
 CBR, benzer problemlerin benzer çözümlere sahip olduğu ilkesine dayanır. Süreç, bilgi tabanından en benzer tarihi durumu getirmeyi, çözümünü mevcut duruma uyarlamayı ve sonucu korumayı içerir.

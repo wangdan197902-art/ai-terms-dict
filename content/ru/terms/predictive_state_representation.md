@@ -1,23 +1,24 @@
 ---
-title: "Предиктивное представление состояния"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Предиктивное представление состояния
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /ru/terms/predictive_state_representation/
-date: "2026-07-18T16:10:35.660094Z"
-lastmod: "2026-07-18T16:38:07.192523Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:10:35.660094Z'
+lastmod: '2026-07-18T16:38:07.192523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Формулировка скрытого состояния в обучении с подкреплением, которая предсказывает будущие наблюдения на основе истории действий."
+source: agnes_llm
+status: published
+language: ru
+description: Формулировка скрытого состояния в обучении с подкреплением, которая предсказывает
+  будущие наблюдения на основе истории действий.
 ---
-
 ## Definition
 
 Предиктивные представления состояний (PSR) расширяют традиционные частично наблюдаемые марковские процессы принятия решений, определяя состояния как векторы предсказаний относительно будущих наблюдаемых событий. Вместо того чтобы полагаться на скрытые переменные, которые невозможно напрямую измерить, PSR описывают состояние системы через её способность предсказывать будущие наблюдения на основе последовательности прошлых действий и наблюдений.

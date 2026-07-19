@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /pl/terms/embedding/
 date: "2026-07-18T15:23:05.011660Z"
 lastmod: "2026-07-18T17:15:08.806058Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technika mapująca dyskretne obiekty, takie jak słowa czy obrazy, na ciągłe przestrzenie wektorowe."
 ---
-
 ## Definition
 
 Osadzenia to gęste reprezentacje wektorowe danych, w których relacje semantyczne są zachowane w przestrzeni geometrycznej. Poprzez konwersję danych kategorycznych lub o wysokiej wymiarowości na stałe wektory, modele...

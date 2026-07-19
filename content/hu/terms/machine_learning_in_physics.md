@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /hu/terms/machine_learning_in_physics/
 date: "2026-07-18T16:11:36.331617Z"
 lastmod: "2026-07-18T17:15:09.809859Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A gépi tanulás alkalmazása összetett fizikai problémák megoldására, kvantumrendszerek szimulálására és kísérleti adatok elemzésére részecskegyorsítókból."
 ---
-
 ## Definition
 
 A fizikában a gépi tanulás segít a kvantummechanika szimulálásában, a nagy energiájú ütközési adatok elemzésében és új anyagok felfedezésében. Segíti a fizikusokat a magas dimenziójú paraméterterek bejárásában és a kísérleti zaj kiszűrésében a valódi fizikai jelek azonosítása érdekében.

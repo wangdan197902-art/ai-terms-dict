@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /fr/terms/mauve/
-date: "2026-07-18T11:26:39.127111Z"
-lastmod: "2026-07-18T11:44:45.288638Z"
+slug: mauve
+date: '2026-07-18T11:26:39.127111Z'
+lastmod: '2026-07-18T11:44:45.288638Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) est une métrique utilisée en traitement automatique du langage naturel (TALN) pour évaluer l'alignement entre les distributions de texte généré et "
+source: agnes_llm
+status: published
+language: fr
+description: 'MAUVE (Measuring Alignment Using Virtual Embeddings) est une métrique
+  utilisée en traitement automatique du langage naturel (TALN) pour évaluer l''alignement
+  entre les distributions de texte généré et '
 ---
-
 ## Definition
 
 MAUVE est une mesure statistique conçue pour évaluer à quel point la sortie d'un modèle de langage génératif ressemble à l'usage linguistique humain. Contrairement aux simples scores de perplexité, MAUVE utilise des plongements virtuels pour

@@ -1,23 +1,24 @@
 ---
-title: "فاستيرشتاين"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: فاستيرشتاين
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /ar/terms/wasserstein/
-date: "2026-07-18T15:32:24.869480Z"
-lastmod: "2026-07-18T17:15:08.452768Z"
+slug: wasserstein
+date: '2026-07-18T15:32:24.869480Z'
+lastmod: '2026-07-18T17:15:08.452768Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مقياس يقيس المسافة بين التوزيعات الاحتمالية بناءً على الحد الأدنى من تكلفة تحويل أحدهما إلى آخر."
+source: agnes_llm
+status: published
+language: ar
+description: مقياس يقيس المسافة بين التوزيعات الاحتمالية بناءً على الحد الأدنى من
+  تكلفة تحويل أحدهما إلى آخر.
 ---
-
 ## Definition
 
 مسافة فاوستيرشتاين، والمعروفة أيضاً باسم مسافة ناقل التراب (Earth Mover's Distance)، تكمّم الاختلاف بين توزيعين احتماليين عن طريق حساب الحد الأدنى من "الجهد" المطلوب لنقل الكتلة من توزيع إلى آخر.

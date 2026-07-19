@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /no/terms/monte/
 date: "2026-07-18T15:27:54.024470Z"
 lastmod: "2026-07-18T16:38:06.941287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Monte refererer til Monte Carlo-metoder, som bruker gjentatt tilfeldig utvalg for å få numeriske resultater for problemer som er deterministiske i prinsippet, men for komplekse for analytiske løsninge"
 ---
-
 ## Definition
 
 Monte Carlo-teknikker er en klasse av datamaskinalgoritmer som stoler på gjentatt tilfeldig utvalg for å estimere matematiske størrelser. De er spesielt nyttige i integrasjon med høye dimensjoner og probabilistisk inferens der eksakte løsninger er umulige.

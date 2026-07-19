@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /fi/terms/neural_modeling_fields/
 date: "2026-07-18T16:12:40.086227Z"
 lastmod: "2026-07-18T17:15:09.438670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teoreettinen viitekehys, joka kuvaa hermosolujen aktiivisuuskuvioiden avaruudellista ja toiminnallista järjestystä."
 ---
-
 ## Definition
 
 Neuraaliset mallinnuskentät liittyvät siihen, miten hermosolujoukot organisoivat itsensä korkeulotteisissa avaruuksissa tietojen edustamiseksi. Tämä käsite liittyy usein topologisiin karttoihin ja kenttäteoriaan.

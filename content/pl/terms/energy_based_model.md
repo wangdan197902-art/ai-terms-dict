@@ -1,23 +1,24 @@
 ---
-title: "Model oparty na energii"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: Model oparty na energii
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /pl/terms/energy_based_model/
-date: "2026-07-18T15:53:26.791642Z"
-lastmod: "2026-07-18T17:15:08.870594Z"
+slug: energy_based_model
+date: '2026-07-18T15:53:26.791642Z'
+lastmod: '2026-07-18T17:15:08.870594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Model probabilistyczny przypisujący niskie wartości energii prawdopodobnym konfiguracjom, a wysokie – nieprawdopodobnym."
+source: agnes_llm
+status: published
+language: pl
+description: Model probabilistyczny przypisujący niskie wartości energii prawdopodobnym
+  konfiguracjom, a wysokie – nieprawdopodobnym.
 ---
-
 ## Definition
 
 Modele Oparte na Energii (EBM) definiują rozkład prawdopodobieństwa nad danymi wejściowymi za pomocą nieznormalizowanej funkcji gęstości wyprowadzonej z funkcji energii. Funkcja energii mapuje punkty danych na liczby rzeczywiste...

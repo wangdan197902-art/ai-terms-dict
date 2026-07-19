@@ -1,23 +1,24 @@
 ---
-title: "fin ajustat"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: fin ajustat
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /ro/terms/fine_tuned/
-date: "2026-07-18T15:31:48.263623Z"
-lastmod: "2026-07-18T17:15:09.608170Z"
+slug: fine_tuned
+date: '2026-07-18T15:31:48.263623Z'
+lastmod: '2026-07-18T17:15:09.608170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de antrenare suplimentară a unui model pre-antrenat pe un set de date specific pentru a-l adapta la o anumită sarcină downstream."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de antrenare suplimentară a unui model pre-antrenat pe un set
+  de date specific pentru a-l adapta la o anumită sarcină downstream.
 ---
-
 ## Definition
 
 Ajustarea fină implică preluarea unui model care a fost deja antrenat pe un set de date mare și general și continuarea antrenamentului acestuia pe un set de date mai mic, specific sarcinii. Această tehnică exploatează caracteristicile generale

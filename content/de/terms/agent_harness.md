@@ -1,23 +1,25 @@
 ---
-title: "Agent Harness"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Agent Harness
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /de/terms/agent_harness/
-date: "2026-07-18T11:02:10.847678Z"
-lastmod: "2026-07-18T11:44:44.907245Z"
+slug: agent_harness
+date: '2026-07-18T11:02:10.847678Z'
+lastmod: '2026-07-18T11:44:44.907245Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Agent Harness ist eine Framework- oder Infrastrukturschicht, die den Lebenszyklus, die Kommunikation und die Ressourcenallokation mehrerer KI-Agenten innerhalb eines Systems verwaltet."
+source: agnes_llm
+status: published
+language: de
+description: Ein Agent Harness ist eine Framework- oder Infrastrukturschicht, die
+  den Lebenszyklus, die Kommunikation und die Ressourcenallokation mehrerer KI-Agenten
+  innerhalb eines Systems verwaltet.
 ---
-
 ## Definition
 
 Es fungiert als Rückgrat für Multi-Agenten-Systeme und bietet Werkzeuge für Orchestrierung, Überwachung und inter-agentische Koordination. Der Harness stellt sicher, dass Agenten effizient arbeiten können, ohne sich gegenseitig zu stören.

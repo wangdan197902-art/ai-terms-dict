@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /fi/terms/qlora/
-date: "2026-07-18T15:37:49.656093Z"
-lastmod: "2026-07-18T17:15:09.373669Z"
+slug: qlora
+date: '2026-07-18T15:37:49.656093Z'
+lastmod: '2026-07-18T17:15:09.373669Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kvantitettu matalan rangin adaptointi, menetelmä suurten kielimallien tehokkaaseen hienosäätöön käyttäen 4-bittistä kvantitointia ja matalan rangin adaptereita."
+source: agnes_llm
+status: published
+language: fi
+description: Kvantitettu matalan rangin adaptointi, menetelmä suurten kielimallien
+  tehokkaaseen hienosäätöön käyttäen 4-bittistä kvantitointia ja matalan rangin adaptereita.
 ---
-
 ## Definition
 
 QLoRA yhdistää matalan rangin adaptoinnin (LoRA) 4-bittiseen kvantitointiin vähentääkseen merkittävästi valtavia malleja hienosäädettäessä tarvittavaa muistinkäyttöä. Tallentamalla painot 4-bittisessä muodossa ja lisäämällä...

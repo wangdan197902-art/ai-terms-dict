@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /fi/terms/graphql/
 date: "2026-07-18T16:00:05.479275Z"
 lastmod: "2026-07-18T17:15:09.416931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "GraphQL on kyselykieli sovellusliittymille (API) ja ajoaikainen ympäristö näiden kyselyjen täyttämiseksi olemassa olevalla datalla, mikä mahdollistaa asiakkaiden pyytää tarkalleen sitä, mitä he tarvit"
 ---
-
 ## Definition
 
 Facebookin kehittämä GraphQL tarjoaa kattavan ja ymmärrettävän kuvauksen sovellusliittymän tiedoista, antaen asiakkaille vallan pyytää tarkalleen sitä, mitä he tarvitsevat, eikä mitään muuta. Se korvaa useat erilliset päätepisteet yhdellä...

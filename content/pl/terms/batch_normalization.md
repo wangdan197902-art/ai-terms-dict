@@ -1,23 +1,24 @@
 ---
-title: "Normalizacja wsadowa"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Normalizacja wsadowa
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /pl/terms/batch_normalization/
-date: "2026-07-18T15:42:35.487297Z"
-lastmod: "2026-07-18T17:15:08.849589Z"
+slug: batch_normalization
+date: '2026-07-18T15:42:35.487297Z'
+lastmod: '2026-07-18T17:15:08.849589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Normalizacja wsadowa to technika normalizująca wejścia warstw w obrębie mini-partii, mająca na celu stabilizację i przyspieszenie treningu sieci neuronowych."
+source: agnes_llm
+status: published
+language: pl
+description: Normalizacja wsadowa to technika normalizująca wejścia warstw w obrębie
+  mini-partii, mająca na celu stabilizację i przyspieszenie treningu sieci neuronowych.
 ---
-
 ## Definition
 
 Ta metoda dostosowuje i skaluje aktywacje tak, aby miały zerową średnią i jednostkową wariancję w każdej mini-partii podczas treningu. Redukuje ona wewnętrzny przesunięcie kowariancji, umożliwiając stosowanie wyższych szybkości uczenia i szybszą konwergencję.

@@ -1,23 +1,24 @@
 ---
-title: "Adataugmentáció"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Adataugmentáció
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /hu/terms/data_augmentation/
-date: "2026-07-18T15:52:44.887348Z"
-lastmod: "2026-07-18T17:15:09.767363Z"
+slug: data_augmentation
+date: '2026-07-18T15:52:44.887348Z'
+lastmod: '2026-07-18T17:15:09.767363Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az adataugmentáció egy technika, amely meglévő adatpontokon végzett transzformációkkal növeli a tanítóadatok sokféleségét és méretét."
+source: agnes_llm
+status: published
+language: hu
+description: Az adataugmentáció egy technika, amely meglévő adatpontokon végzett transzformációkkal
+  növeli a tanítóadatok sokféleségét és méretét.
 ---
-
 ## Definition
 
 Ez a módszer mesterségesen bővíti a tanítóadatkészletet a meglévő minták módosított változatainak létrehozásával, például képek elforgatásával, zaj hozzáadásával hanganyagokhoz vagy szinonima-cserével szövegekben. Segít megelőzni a túlzott illeszkedést

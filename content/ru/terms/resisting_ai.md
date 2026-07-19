@@ -1,23 +1,24 @@
 ---
-title: "Сопротивление ИИ"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: Сопротивление ИИ
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /ru/terms/resisting_ai/
-date: "2026-07-18T16:13:10.204973Z"
-lastmod: "2026-07-18T16:38:07.198790Z"
+slug: resisting_ai
+date: '2026-07-18T16:13:10.204973Z'
+lastmod: '2026-07-18T16:38:07.198790Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегии и методы, применяемые для уклонения от обнаружения, манипуляции или контроля со стороны систем искусственного интеллекта."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегии и методы, применяемые для уклонения от обнаружения, манипуляции
+  или контроля со стороны систем искусственного интеллекта.
 ---
-
 ## Definition
 
 Сопротивление ИИ относится к методам, используемым отдельными лицами или организациями для избежания влияния, отслеживания или классификации алгоритмами ИИ. Это включает атаки на системы восприятия, сохранение конфиденциальности и другие техники обхода.

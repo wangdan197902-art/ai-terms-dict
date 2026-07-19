@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /no/terms/data_poisoning/
 date: "2026-07-18T15:48:32.590650Z"
 lastmod: "2026-07-18T16:38:06.986119Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Datagiftiging er et sikkerhetsangrep der ondsinnete aktører injiserer korrupt eller villedende data i et treningssett for å forringe modellens ytelse."
 ---
-
 ## Definition
 
 Denne fiendtlige teknikken har som mål å kompromittere integriteten til maskinlæringsmodeller ved å endre treningsdataene. Ved å introdusere subtile feil eller skjevfordelte eksempler, kan angripere få modellen til å

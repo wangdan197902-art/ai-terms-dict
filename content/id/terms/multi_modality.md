@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /id/terms/multi_modality/
 date: "2026-07-18T16:01:21.584701Z"
 lastmod: "2026-07-18T16:38:07.485260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Multi Modality adalah konsep atau bidang studi yang lebih luas mengenai penggunaan berbagai jenis data yang berbeda dalam arsitektur pembelajaran mesin."
 ---
-
 ## Definition
 
 Multi modality mewakili kerangka kerja arsitektural dan teoretis yang memungkinkan model AI menangani aliran data yang heterogen. Hal ini melibatkan perancangan jaringan saraf yang dapat menerima input dari berbagai

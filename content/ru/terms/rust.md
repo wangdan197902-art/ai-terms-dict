@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /ru/terms/rust/
-date: "2026-07-18T16:13:37.745442Z"
-lastmod: "2026-07-18T16:38:07.199602Z"
+slug: rust
+date: '2026-07-18T16:13:37.745442Z'
+lastmod: '2026-07-18T16:38:07.199602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Rust — это язык системного программирования, ориентированный на безопасность, скорость и параллелизм без использования сборки мусора."
+source: agnes_llm
+status: published
+language: ru
+description: Rust — это язык системного программирования, ориентированный на безопасность,
+  скорость и параллелизм без использования сборки мусора.
 ---
-
 ## Definition
 
 Rust — это язык общего назначения с поддержкой нескольких парадигм, разработанный для обеспечения производительности и безопасности, особенно безопасного параллелизма. Он достигает безопасности памяти без использования сборки мусора, гарантируя...

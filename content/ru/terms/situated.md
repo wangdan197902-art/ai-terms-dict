@@ -1,23 +1,25 @@
 ---
-title: "Локализованный / Вписанный в контекст"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: Локализованный / Вписанный в контекст
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /ru/terms/situated/
-date: "2026-07-18T16:15:04.054133Z"
-lastmod: "2026-07-18T16:38:07.202100Z"
+slug: situated
+date: '2026-07-18T16:15:04.054133Z'
+lastmod: '2026-07-18T16:38:07.202100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Описывает системы или агенты ИИ, которые функционируют в рамках и адаптируются к конкретным физическим, социальным или средовым условиям."
+source: agnes_llm
+status: published
+language: ru
+description: Описывает системы или агенты ИИ, которые функционируют в рамках и адаптируются
+  к конкретным физическим, социальным или средовым условиям.
 ---
-
 ## Definition
 
 В искусственном интеллекте термин «локализованный» (или «вписанный») относится к агентам, которые встроены в окружающую среду и взаимодействуют с ней в реальном времени. В отличие от абстрактных решателей задач, локализованные агенты должны обрабатывать сенсорные входные данные непосредственно из среды.

@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /id/terms/neural_modeling_fields/
 date: "2026-07-18T16:02:06.529984Z"
 lastmod: "2026-07-18T16:38:07.487269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka teoretis yang menggambarkan organisasi spasial dan fungsional dari pola aktivitas saraf."
 ---
-
 ## Definition
 
 Medan pemodelan saraf melibatkan studi tentang bagaimana populasi saraf mengatur dirinya sendiri dalam ruang berdimensi tinggi untuk merepresentasikan informasi. Konsep ini sering berkaitan dengan pemetaan topologis dan teori medan.

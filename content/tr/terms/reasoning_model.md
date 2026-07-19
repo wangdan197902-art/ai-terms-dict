@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /tr/terms/reasoning_model/
 date: "2026-07-18T16:11:38.785580Z"
 lastmod: "2026-07-18T16:38:07.358778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Karmaşık mantıksal çıkarım, adım adım problem çözme ve düşünce zinciri işleme gerçekleştirmek üzere özel olarak optimize edilmiş bir AI modeli."
 ---
-
 ## Definition
 
 Akıcılığa odaklanan standart jeneratif modellerin aksine, çıkarım modelleri matematik, kodlama ve mantık bulmacaları gibi çok adımlı görevlerde doğruluğu önceliklendirir. Genellikle Düşünce Zinciri (Chain-of-Thought) gibi teknikler kullanarak modelin sorunu parçalara ayırmasını ve her adımı gerekçelendirmesini sağlarlar.

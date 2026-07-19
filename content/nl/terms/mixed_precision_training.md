@@ -1,23 +1,24 @@
 ---
-title: "Mixed Precision Training"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Mixed Precision Training
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /nl/terms/mixed_precision_training/
-date: "2026-07-18T16:07:12.898198Z"
-lastmod: "2026-07-18T17:15:08.768003Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:07:12.898198Z'
+lastmod: '2026-07-18T17:15:08.768003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een trainingsmethode die zowel 16-bit als 32-bit drijvende-kommagetallen gebruikt om berekeningen te versnellen en het geheugengebruik te verminderen."
+source: agnes_llm
+status: published
+language: nl
+description: Een trainingsmethode die zowel 16-bit als 32-bit drijvende-kommagetallen
+  gebruikt om berekeningen te versnellen en het geheugengebruik te verminderen.
 ---
-
 ## Definition
 
 Mixed Precision Training (MPT) combineert halfprecisie (FP16) en volledige precisie (FP32) gegevenstypen tijdens het trainen van neurale netwerken. Door FP16 te gebruiken voor de meeste bewerkingen, vermindert MPT de geheugenruimte en verbetert het de

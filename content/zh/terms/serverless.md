@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /zh/terms/serverless/
 date: "2026-07-18T11:33:18.814264Z"
 lastmod: "2026-07-18T11:44:45.553662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种云计算执行模型，由提供商动态管理机器资源的分配，而非用户。"
 ---
-
 ## Definition
 
 无服务器架构允许开发人员构建和运行应用程序，而无需管理服务器基础设施。云提供商会根据需求自动扩展或缩减资源，并按实际使用情况收费，从而降低运维复杂性。

@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /de/terms/argumentation_framework/
 date: "2026-07-18T11:02:55.105951Z"
 lastmod: "2026-07-18T11:44:44.909355Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine formale Struktur zur Modellierung und Auflösung von Konflikten zwischen konkurrierenden Ansprüchen oder Entscheidungen in KI-Systemen."
 ---
-
 ## Definition
 
 Argumentationsrahmen bieten eine mathematische Grundlage zur Darstellung von Argumenten sowie deren Angriffen und Verteidigungen. In der KI-Ingenieurwesen helfen sie Systemen, transparente und begründbare Entscheidungen zu treffen, indem sie verschiedene Perspektiven gewichten.

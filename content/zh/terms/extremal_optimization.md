@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /zh/terms/extremal_optimization/
 date: "2026-07-18T11:16:49.880519Z"
 lastmod: "2026-07-18T11:44:45.497778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "极值优化是一种受自组织临界性启发的启发式搜索算法，旨在通过迭代移除表现最差的组件来解决组合优化问题。"
 ---
-
 ## Definition
 
 与维持种群的遗传算法不同，EO作用于单个解。它识别对整体适应度贡献最小的组件，并用随机替代方案替换它。

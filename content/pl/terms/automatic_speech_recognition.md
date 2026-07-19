@@ -1,23 +1,24 @@
 ---
-title: "Automatyczne rozpoznawanie mowy"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Automatyczne rozpoznawanie mowy
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /pl/terms/automatic_speech_recognition/
-date: "2026-07-18T15:42:19.116673Z"
-lastmod: "2026-07-18T17:15:08.848735Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:42:19.116673Z'
+lastmod: '2026-07-18T17:15:08.848735Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technologia zamieniająca mowę na tekst przy użyciu modeli głębokiego uczenia."
+source: agnes_llm
+status: published
+language: pl
+description: Technologia zamieniająca mowę na tekst przy użyciu modeli głębokiego
+  uczenia.
 ---
-
 ## Definition
 
 Automatyczne rozpoznawanie mowy (ASR), znane również jako zamiana mowy na tekst, to poddziedzica przetwarzania mowy, która wykorzystuje sztuczną inteligencję do transkrypcji sygnałów audio na tekst pisany. Współczesne systemy ASR...

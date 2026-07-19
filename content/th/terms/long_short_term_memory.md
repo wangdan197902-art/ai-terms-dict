@@ -1,23 +1,23 @@
 ---
-title: "ความจำระยะยาวและระยะสั้น (Long Short-Term Memory - LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: ความจำระยะยาวและระยะสั้น (Long Short-Term Memory - LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /th/terms/long_short_term_memory/
-date: "2026-07-18T15:36:03.133706Z"
-lastmod: "2026-07-18T16:38:07.562060Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:36:03.133706Z'
+lastmod: '2026-07-18T16:38:07.562060Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถาปัตยกรรมโครงข่ายประสาทเทียมแบบวนซ้ำ (RNN) พิเศษที่ออกแบบมาเพื่อเรียนรู้ความสัมพันธ์ระยะยาวในข้อมูลลำดับ"
+source: agnes_llm
+status: published
+language: th
+description: สถาปัตยกรรมโครงข่ายประสาทเทียมแบบวนซ้ำ (RNN) พิเศษที่ออกแบบมาเพื่อเรียนรู้ความสัมพันธ์ระยะยาวในข้อมูลลำดับ
 ---
-
 ## Definition
 
 เครือข่าย LSTM แก้ไขปัญหาการหายไปของเกรเดียนต์ (vanishing gradient problem) ที่พบทั่วไปใน RNN มาตรฐาน โดยใช้สถานะเซลล์ (cell state) และกลไกประตูสามชนิด ได้แก่ ประตูรับเข้า (input gate), ประตูลืม (forget gate) และประตูส่งออก (output gate) กลไกเหล่านี้ช่วยควบคุมการไหลของข้อมูล ทำให้โมเดลสามารถจดจำข้อมูลจากช่วงเวลาที่ผ่านมาได้อย่างมีประสิทธิภาพ

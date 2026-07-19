@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /ko/terms/model_hub_mixin/
 date: "2026-07-18T16:06:06.322236Z"
 lastmod: "2026-07-18T16:38:06.886291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델 허브 믹스인은 Hugging Face Transformers 모델에 표준화된 기능을 추가하는 재사용 가능한 클래스 구성 요소입니다."
 ---
-
 ## Definition
 
 믹스인은 각 모델 아키텍처가 이러한 유틸리티를 개별적으로 구현할 필요 없이, 모델을 저장하고, 로드하고, Hugging Face 허브로 푸시하는 것과 같은 공통 메서드를 제공합니다. 이는 일관성을 보장합니다.

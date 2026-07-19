@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /fi/terms/human_problem_solving/
 date: "2026-07-18T16:02:13.514570Z"
 lastmod: "2026-07-18T17:15:09.419776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kognitiivinen prosessi, jossa yksilöt tunnistavat, analysoivat ja ratkaisevat monimutkaisia ongelmia päättelykyvyn, luovuuden ja kokemuksen avulla."
 ---
-
 ## Definition
 
 Ihmisen ongelmien ratkaisu kattaa moninaiset kognitiiviset kyvyt, joita ihmiset käyttävät haasteiden kohtaamiseen yksinkertaisista tehtävistä abstrakteihin konseptuaalisiin vaikeuksiin. Toisin kuin algoritmiset lähestymistavat, se hyödyntää...

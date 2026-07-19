@@ -1,23 +1,23 @@
 ---
-title: "Random feature"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Random feature
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /ko/terms/random_feature/
-date: "2026-07-18T16:12:51.725742Z"
-lastmod: "2026-07-18T16:38:06.902716Z"
+slug: random_feature
+date: '2026-07-18T16:12:51.725742Z'
+lastmod: '2026-07-18T16:38:06.902716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "입력 데이터를 무작위 투영을 사용하여 고차원 공간으로 매핑하여 커널 방법을 효율적으로 근사하는 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 입력 데이터를 무작위 투영을 사용하여 고차원 공간으로 매핑하여 커널 방법을 효율적으로 근사하는 기법입니다.
 ---
-
 ## Definition
 
 랜덤 피처 맵은 입력을 새로운 공간으로 변환하여 선형 모델이 비선형 커널 함수를 근사할 수 있게 합니다. 이 접근 방식은 종종 Nystrom 방법이나 푸리에 피처와 관련되어 있으며, 계산 효율성을 높여줍니다.

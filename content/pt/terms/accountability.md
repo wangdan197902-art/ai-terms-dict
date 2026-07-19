@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /pt/terms/accountability/
 date: "2026-07-18T14:48:33.364252Z"
 lastmod: "2026-07-18T15:51:59.460171Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O princípio de que desenvolvedores e operadores de sistemas de IA devem ser responsáveis pelos resultados e impactos desses sistemas."
 ---
-
 ## Definition
 
 A prestação de contas na inteligência artificial refere-se à obrigação de indivíduos, organizações e desenvolvedores assumirem a responsabilidade pelo design, implantação e consequências das tecnologias de IA.

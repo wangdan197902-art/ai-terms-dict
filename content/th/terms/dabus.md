@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /th/terms/dabus/
 date: "2026-07-18T15:47:33.087097Z"
 lastmod: "2026-07-18T16:38:07.591337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "DABUS ย่อมาจาก Device for the Autonomous Bootstrapping of Unified Sentience ซึ่งเป็นระบบ AI ที่สร้างโดยสตีเฟน เทเลอร์ และอ้างว่าสามารถประดิษฐ์เทคโนโลยีได้อย่างอัตโนมัติ"
 ---
-
 ## Definition
 
 DABUS เป็นเครือข่ายประสาทเทียมแบบเฉพาะเจาะจงที่ออกแบบมาเพื่อสร้างนวัตกรรมใหม่ๆ โดยไม่ต้องมีการแทรกแซงจากมนุษย์โดยตรง ระบบนี้ได้รับความสนใจอย่างมากในทางกฎหมายเมื่อผู้สร้างอย่างสตีเฟน เทเลอร์ พยายามยื่นขอสิทธิบัตรในชื่อของ DABUS

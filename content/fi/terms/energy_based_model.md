@@ -1,23 +1,24 @@
 ---
-title: "Energiapohjainen malli"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: Energiapohjainen malli
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /fi/terms/energy_based_model/
-date: "2026-07-18T15:56:26.763664Z"
-lastmod: "2026-07-18T17:15:09.408534Z"
+slug: energy_based_model
+date: '2026-07-18T15:56:26.763664Z'
+lastmod: '2026-07-18T17:15:09.408534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Todennäköisyysmalli, joka antaa alhaiset energiarvot uskottaville konfiguraatioille ja korkeat energiarvot epätodennäköisille."
+source: agnes_llm
+status: published
+language: fi
+description: Todennäköisyysmalli, joka antaa alhaiset energiarvot uskottaville konfiguraatioille
+  ja korkeat energiarvot epätodennäköisille.
 ---
-
 ## Definition
 
 Energiapohjaiset mallit (EBM) määrittelevät todennäköisyysjakauman syöttödataan normalisoimattoman tiheysfunktion avulla, joka johdetaan energiafunktiosta. Energiafunktio kuvaa datapistet reaaliarvoiksi...

@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /en/terms/experiments/
 date: "2026-07-18T09:32:12.798498Z"
 lastmod: "2026-07-18T11:44:44.597308Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Controlled procedures conducted to test hypotheses, evaluate model performance, or discover new AI capabilities."
 ---
-
 ## Definition
 
 Experiments in AI involve systematic testing of variables to understand cause-and-effect relationships within machine learning models. These procedures allow developers to compare different hyperparameters, architectures, or datasets to determine optimal configurations. Rigorous experimentation is essential for scientific progress in AI, ensuring that improvements are measurable, reproducible, and statistically significant before being integrated into larger systems.

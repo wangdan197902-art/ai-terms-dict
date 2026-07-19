@@ -1,23 +1,24 @@
 ---
-title: "Mekanisme Perhatian"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Mekanisme Perhatian
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /id/terms/attention_mechanism/
-date: "2026-07-18T15:22:34.140648Z"
-lastmod: "2026-07-18T16:38:07.386535Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:34.140648Z'
+lastmod: '2026-07-18T16:38:07.386535Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik yang memungkinkan jaringan saraf untuk fokus pada bagian tertentu dari data input saat menghasilkan output."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik yang memungkinkan jaringan saraf untuk fokus pada bagian
+  tertentu dari data input saat menghasilkan output.
 ---
-
 ## Definition
 
 Mekanisme perhatian memungkinkan model untuk secara dinamis menimbang pentingnya elemen-elemen berbeda dalam urutan input. Daripada memperlakukan semua data input secara setara, mekanisme ini menetapkan tingkat signifikansi yang bervariasi.

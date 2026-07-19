@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /da/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:03:04.239630Z"
 lastmod: "2026-07-18T17:15:09.302992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et anbefalingsværktøj, der genererer forslag ved at ræsonnere over eksplicit domænviden og brugerbegrænsninger snarere end historiske data."
 ---
-
 ## Definition
 
 I modsætning til samarbejdende filtrering, der stoler på tidligere brugeradfærd, bruger KBRS (Knowledge-Based Recommender System) eksplicit viden om varer og brugerpræferencer til at udlede anbefalinger. Det er særligt effektivt på markeder med få historiske data.

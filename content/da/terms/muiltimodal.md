@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /da/terms/muiltimodal/
 date: "2026-07-18T16:08:42.021295Z"
 lastmod: "2026-07-18T17:15:09.313541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Multimodal refererer til AI-systemer, der behandler og integrerer flere typer datamodaler, såsom tekst, billeder og lyd, samtidigt."
 ---
-
 ## Definition
 
 Inden for kunstig intelligens beskriver multimodalitet evnen hos en model til at forstå, generere eller korrelere information på tværs af forskellige sanseindgange eller dataformater. I modsætning til unimodale modeller

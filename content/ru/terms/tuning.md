@@ -1,23 +1,24 @@
 ---
-title: "Настройка"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Настройка
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /ru/terms/tuning/
-date: "2026-07-18T15:30:21.397040Z"
-lastmod: "2026-07-18T16:38:07.092846Z"
+slug: tuning
+date: '2026-07-18T15:30:21.397040Z'
+lastmod: '2026-07-18T16:38:07.092846Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс настройки гиперпараметров или весов модели для оптимизации производительности на конкретном наборе данных или задаче."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс настройки гиперпараметров или весов модели для оптимизации производительности
+  на конкретном наборе данных или задаче.
 ---
-
 ## Definition
 
 Настройка включает в себя уточнение параметров модели машинного обучения для достижения лучшей точности или эффективности. Это может относиться к настройке гиперпараметров, где оптимизируются такие параметры, как скорость обучения или размер батча, или к

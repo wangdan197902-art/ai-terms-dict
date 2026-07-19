@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /vi/terms/model_serving/
 date: "2026-07-18T15:36:21.530507Z"
 lastmod: "2026-07-18T16:38:07.710990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình triển khai các mô hình học máy đã được huấn luyện vào môi trường sản xuất để đưa ra dự đoán hoặc tạo đầu ra cho người dùng cuối."
 ---
-
 ## Definition
 
 Phục vụ mô hình liên quan đến việc lấy một mô hình đã huấn luyện tĩnh và gói nó trong một cơ sở hạ tầng có khả năng mở rộng để xử lý các yêu cầu đến, thực hiện suy luận và trả về kết quả. Các thách thức chính bao gồm quản lý độ trễ, tối ưu hóa tài nguyên và đảm bảo tính sẵn sàng cao khi xử lý lưu lượng truy cập biến động.

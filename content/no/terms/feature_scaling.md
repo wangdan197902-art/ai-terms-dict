@@ -1,23 +1,24 @@
 ---
-title: "Funksjonsskalering"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Funksjonsskalering
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /no/terms/feature_scaling/
-date: "2026-07-18T15:54:29.422480Z"
-lastmod: "2026-07-18T16:38:07.000705Z"
+slug: feature_scaling
+date: '2026-07-18T15:54:29.422480Z'
+lastmod: '2026-07-18T16:38:07.000705Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å normalisere rekkevidden til uavhengige variabler eller funksjoner i data for å sikre ensartethet i størrelsesorden."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å normalisere rekkevidden til uavhengige variabler eller
+  funksjoner i data for å sikre ensartethet i størrelsesorden.
 ---
-
 ## Definition
 
 Funksjonsskalering standardiserer rekkevidden til invariabeler for å forhindre at funksjoner med større størrelsesorden dominerer læringsprosessen. Vanlige metoder inkluderer normalisering (min-maks-skalering) og standardisering (z-score-skalering). Dette er spesielt viktig for algoritmer som er følsomme for skalaen på dataene, som gradientnedstigning-baserte metoder.

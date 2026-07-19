@@ -1,23 +1,23 @@
 ---
-title: "יצירת תמונות"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: יצירת תמונות
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /he/terms/image_generation/
-date: "2026-07-18T16:05:16.650042Z"
-lastmod: "2026-07-18T17:15:09.549830Z"
+slug: image_generation
+date: '2026-07-18T16:05:16.650042Z'
+lastmod: '2026-07-18T17:15:09.549830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "יצירת תמונות היא תהליך של יצירת תוכן ויזואלי חדש מאפס או שינוי תמונות קיימות באמצעות מודלי AI גנרטיביים."
+source: agnes_llm
+status: published
+language: he
+description: יצירת תמונות היא תהליך של יצירת תוכן ויזואלי חדש מאפס או שינוי תמונות
+  קיימות באמצעות מודלי AI גנרטיביים.
 ---
-
 ## Definition
 
 פרדיגמה זו משתמשת במודלים כמו Stable Diffusion או DALL-E כדי לייצר תמונות באיכות גבוהה בהתבסס על הנחיות טקסט או קלטים אחרים. היא כוללת למידה של התפלגויות נתונים מורכבות כדי לסנתז תמונות מציאותיות.

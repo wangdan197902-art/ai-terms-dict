@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /sv/terms/probabilistic_numerics/
 date: "2026-07-18T16:14:13.246156Z"
 lastmod: "2026-07-18T17:15:09.038278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett forskningsfält som behandlar problem inom numerisk beräkning som statistiska inferensuppgifter för att kvantifiera osäkerhet i resultaten."
 ---
-
 ## Definition
 
 Probabilistisk numerik tillämpar bayesianska metoder på traditionella numeriska problem som integration, differentiering och linjär algebra. Istället för att ge punktuppskattningar, producerar den sannolikhetsfördelningar som kvantifierar osäkerheten i beräkningarna.

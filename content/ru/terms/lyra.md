@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /ru/terms/lyra/
-date: "2026-07-18T16:03:13.209263Z"
-lastmod: "2026-07-18T16:38:07.177157Z"
+slug: lyra
+date: '2026-07-18T16:03:13.209263Z'
+lastmod: '2026-07-18T16:38:07.177157Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Lyra относится к различным инициативам или моделям ИИ, наиболее известна как открытая большая языковая модель (LLM) или специализированный инструмент поиска и обнаружения информации на базе ИИ, предна"
+source: agnes_llm
+status: published
+language: ru
+description: Lyra относится к различным инициативам или моделям ИИ, наиболее известна
+  как открытая большая языковая модель (LLM) или специализированный инструмент поиска
+  и обнаружения информации на базе ИИ, предна
 ---
-
 ## Definition
 
 В контексте современной терминологии ИИ Lyra часто обозначает специализированные системы ИИ, ориентированные на улучшение взаимодействия с пользователем через обработку естественного языка. Это может относиться к открытой LLM, разработанной

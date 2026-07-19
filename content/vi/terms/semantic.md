@@ -1,23 +1,23 @@
 ---
-title: "Ngữ nghĩa"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: Ngữ nghĩa
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /vi/terms/semantic/
-date: "2026-07-18T15:29:08.316830Z"
-lastmod: "2026-07-18T16:38:07.695856Z"
+slug: semantic
+date: '2026-07-18T15:29:08.316830Z'
+lastmod: '2026-07-18T16:38:07.695856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Liên quan đến ý nghĩa trong ngôn ngữ hoặc dữ liệu, phân biệt với cấu trúc cú pháp hoặc hình thức."
+source: agnes_llm
+status: published
+language: vi
+description: Liên quan đến ý nghĩa trong ngôn ngữ hoặc dữ liệu, phân biệt với cấu
+  trúc cú pháp hoặc hình thức.
 ---
-
 ## Definition
 
 Phân tích ngữ nghĩa trong AI tập trung vào việc hiểu ý nghĩa nền tảng của các đầu vào thay vì chỉ các mẫu bề mặt. Điều này liên quan đến việc ánh xạ các từ hoặc ký hiệu sang các khái niệm, nắm bắt các mối quan hệ...

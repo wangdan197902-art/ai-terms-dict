@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /tr/terms/server_sent_events/
 date: "2026-07-18T16:13:56.999844Z"
 lastmod: "2026-07-18T16:38:07.364763Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Web sunucularının istemcilere tek bir HTTP bağlantısı üzerinden gerçek zamanlı güncellemeler göndermesine olanak tanıyan standart bir protokol."
 ---
-
 ## Definition
 
 Sunucu Tarafından Gönderilen Olaylar (SSE), sunucunun istemciye sürekli veri akışı yapmasına olanak tanıyan, istemcinin tekrar tekrar istek göndermesini gerektirmeyen tek yönlü bir iletişim sağlar. Düz HTTP kullanır, bu da onu kurulumu kolay ve güvenilir kılar.

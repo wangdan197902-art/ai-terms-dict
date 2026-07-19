@@ -1,23 +1,23 @@
 ---
-title: "다중 인스턴스 학습"
-term_id: "multiple_instance_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "weak_labeling", "ml_paradigm"]
+title: 다중 인스턴스 학습
+term_id: multiple_instance_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- Weak Labeling
+- ML Paradigm
 difficulty: 4
 weight: 1
-slug: "multiple_instance_learning"
-aliases:
-  - /ko/terms/multiple_instance_learning/
-date: "2026-07-18T15:35:24.509723Z"
-lastmod: "2026-07-18T16:38:06.797780Z"
+slug: multiple_instance_learning
+date: '2026-07-18T15:35:24.509723Z'
+lastmod: '2026-07-18T16:38:06.797780Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "개별 인스턴스가 아닌 인스턴스의 묶음(Bag)에 레이블이 할당되는 약的监督 학습 패러다임입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 개별 인스턴스가 아닌 인스턴스의 묶음(Bag)에 레이블이 할당되는 약的监督 학습 패러다임입니다.
 ---
-
 ## Definition
 
 다중 인스턴스 학습(Multiple Instance Learning, MIL)은 데이터가 단일 레이블을 가진 '인스턴스 묶음(Bags)'으로 그룹화되고, 그 안의 개별 인스턴스는 레이블이 지정되지 않는 상황을 다룹니다. 일반적으로 묶음에 해당 항목이 하나라도 포함되어 있으면 양수(Positive)로 간주됩니다.(문단이 잘려 있어 완전한 번역은 생략됨)

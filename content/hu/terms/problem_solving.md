@@ -1,23 +1,24 @@
 ---
-title: "Problémamegoldás"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Problémamegoldás
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /hu/terms/problem_solving/
-date: "2026-07-18T16:19:13.064265Z"
-lastmod: "2026-07-18T17:15:09.824552Z"
+slug: problem_solving
+date: '2026-07-18T16:19:13.064265Z'
+lastmod: '2026-07-18T17:15:09.824552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A nehézségekre megoldások keresését magában foglaló kognitív folyamat, amely keresést, érvelést és tervezést foglal magában meghatározott állapotterekben."
+source: agnes_llm
+status: published
+language: hu
+description: A nehézségekre megoldások keresését magában foglaló kognitív folyamat,
+  amely keresést, érvelést és tervezést foglal magában meghatározott állapotterekben.
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a problémamegoldás a rendszeres megközelítést jelenti az inicialis állapotból egy célállapotba való navigálást cselekvések sorozatán keresztül. Általában magában foglalja a probléma definícióját, az állapotok és a lehetséges műveletek leírását, valamint a cél eléréséhez vezető út megtalálását.

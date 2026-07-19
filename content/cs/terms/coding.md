@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /cs/terms/coding/
 date: "2026-07-18T15:48:23.873890Z"
 lastmod: "2026-07-18T17:15:09.110230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Programování je proces zápisu instrukcí pro počítače pomocí programovacích jazyků za účelem vytváření softwaru, aplikací nebo skriptů."
 ---
-
 ## Definition
 
 Programování, také známé jako psaní kódu, zahrnuje převod lidské logiky a požadavků do formátu, který mohou počítače vykonat. Používá specifickou syntaxi a sémantiku definovanou programovacími jazyky, jako jsou Python, Java nebo C++.

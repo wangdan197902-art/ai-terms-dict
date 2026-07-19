@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /zh/terms/generated/
 date: "2026-07-18T10:51:30.214947Z"
 lastmod: "2026-07-18T11:44:45.369367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由AI模型创建的内容，而非直接从静态数据集中检索。"
 ---
-
 ## Definition
 
 “生成的”一词描述了由生成式AI模型产生的输出，如文本、图像、音频或代码。与检索现有数据的基于检索的系统不同，生成式模型合成新的

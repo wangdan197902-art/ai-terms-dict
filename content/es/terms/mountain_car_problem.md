@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /es/terms/mountain_car_problem/
 date: "2026-07-18T11:00:27.852062Z"
 lastmod: "2026-07-18T11:44:44.833993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una tarea clásica de aprendizaje por refuerzo donde un agente debe conducir un coche cuesta arriba utilizando únicamente controles de aceleración."
 ---
-
 ## Definition
 
 El Problema del Coche de Montaña es un punto de referencia estándar en la investigación de aprendizaje por refuerzo. El objetivo es controlar un coche subpotente para alcanzar la cima de una colina empinada. Dado que el coche no puede subir la colina en

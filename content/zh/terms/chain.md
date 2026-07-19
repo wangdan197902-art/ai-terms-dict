@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /zh/terms/chain/
 date: "2026-07-18T11:09:54.659546Z"
 lastmod: "2026-07-18T11:44:45.455461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "链式结构是一系列连接的步骤或模块，按顺序处理数据以完成复杂任务。"
 ---
-
 ## Definition
 
 在AI应用开发中，链式结构指一种线性或有向图结构，其中多个组件（如大语言模型调用、解析器或外部工具）相互链接。数据从一个组件流向下一个组件，依次进行处理。

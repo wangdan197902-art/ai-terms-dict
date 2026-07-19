@@ -1,23 +1,24 @@
 ---
-title: "Распознавание именованных сущностей"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Распознавание именованных сущностей
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /ru/terms/named_entity_recognition/
-date: "2026-07-18T15:35:11.623589Z"
-lastmod: "2026-07-18T16:38:07.108326Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:35:11.623589Z'
+lastmod: '2026-07-18T16:38:07.108326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Задача обработки естественного языка, направленная на выявление и классификацию ключевых информационных сущностей по заранее определенным категориям."
+source: agnes_llm
+status: published
+language: ru
+description: Задача обработки естественного языка, направленная на выявление и классификацию
+  ключевых информационных сущностей по заранее определенным категориям.
 ---
-
 ## Definition
 
 Распознавание именованных сущностей (NER) — это подзадача извлечения информации, которая заключается в поиске и классификации именованных сущностей в тексте по заранее заданным категориям, таким как имена людей, организации, географические локации, медицинские термины и т.д.

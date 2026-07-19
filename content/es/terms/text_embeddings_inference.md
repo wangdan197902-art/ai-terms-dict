@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /es/terms/text_embeddings_inference/
 date: "2026-07-18T11:10:01.146927Z"
 lastmod: "2026-07-18T11:44:44.860301Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un servidor de inferencia especializado diseñado para generar eficientemente representaciones vectoriales densas de texto para tareas de búsqueda y recuperación semántica."
 ---
-
 ## Definition
 
 La Inferencia de Incrustaciones de Texto se refiere al despliegue y la optimización de modelos que convierten el lenguaje natural en vectores de alta dimensión. Estas incrustaciones capturan el significado semántico, permitiendo a los sistemas realizar búsquedas precisas basadas en el contexto y la intención del usuario.

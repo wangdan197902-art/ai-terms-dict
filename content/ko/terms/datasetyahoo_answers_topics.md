@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /ko/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:49:41.971420Z"
 lastmod: "2026-07-18T16:38:06.829358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "야후 앵서스에서 파생된 데이터셋으로, 의미 일치 및 분류를 위해 특정 주제별로 kategorized된 사용자 생성 질문과 답변을 포함합니다."
 ---
-
 ## Definition
 
 야후 앵서스 토픽스(Yahoo Answers Topics) 데이터셋은 더 큰 야후 앵서스 아카이브의 하위 집합으로, 명확한 주제 카테고리로 조직화된 질문과 답변에 초점을 맞춥니다. 이 데이터셋은 일반적으로 텍스트 분류 작업에 사용됩니다.

@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /ro/terms/llm/
 date: "2026-07-18T15:26:45.381496Z"
 lastmod: "2026-07-18T17:15:09.596812Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model de învățare profundă antrenat pe corpusuri vaste de texte pentru a înțelege și genera limbaj similar cu cel uman."
 ---
-
 ## Definition
 
 Modelele Lingvistice Mari (LLM) sunt sisteme avansate de inteligență artificială bazate pe arhitecturi transformer, antrenate pe seturi masive de date textuale și cod. Ele învață modele statistice ale limbajului

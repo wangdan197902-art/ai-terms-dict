@@ -1,23 +1,26 @@
 ---
-title: "التمييز ضد الروبوتات"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: التمييز ضد الروبوتات
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /ar/terms/discrimination_against_robots/
-date: "2026-07-18T15:54:18.285359Z"
-lastmod: "2026-07-18T17:15:08.498466Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:54:18.285359Z'
+lastmod: '2026-07-18T17:15:08.498466Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "المفهوم الأخلاقي والقانوني الذي يشير إلى المعاملة المتحيزة أو التحيز الموجه نحو الوكلاء الاصطناعيين أو الأنظمة المستقلة، وغالباً ما ينشأ عن الإسناد الإنساني أو انعدام الثقة الوظيفي."
+source: agnes_llm
+status: published
+language: ar
+description: المفهوم الأخلاقي والقانوني الذي يشير إلى المعاملة المتحيزة أو التحيز
+  الموجه نحو الوكلاء الاصطناعيين أو الأنظمة المستقلة، وغالباً ما ينشأ عن الإسناد الإنساني
+  أو انعدام الثقة الوظيفي.
 ---
-
 ## Definition
 
 التمييز ضد الروبوتات هو مفهوم أخلاقي واجتماعي ناشئ يفحص كيفية تعامل البشر مع الوكلاء الاصطناعيين أو عدم ثقتهم بهم أو إسناد صفات سلبية لهم بشكل غير عادل بناءً على طبيعتهم الآلية. يتناول هذا المفهوم التحيزات الناتجة عن توقعات البشر السلوكية، وتأثير الشكل الخارجي للروبوت على تعامل المستخدم معه، والأبعاد القانونية والأخلاقية المتعلقة بمعاملة الأنظمة الذكية.

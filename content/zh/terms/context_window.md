@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /zh/terms/context_window/
 date: "2026-07-18T07:44:21.592350Z"
 lastmod: "2026-07-18T11:44:44.591356Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "语言模型在推理或训练期间能够同时处理和考虑的文本或令牌的最大数量。"
 ---
-
 ## Definition
 
 上下文窗口定义了AI模型在单次交互中记忆的运作限制。它决定了模型可以关注多少先前的对话历史、文档文本或输入数据，从而保持对整体语境的连贯理解。

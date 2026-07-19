@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /de/terms/compute/
 date: "2026-07-18T11:08:22.070918Z"
 lastmod: "2026-07-18T11:44:44.919864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Rechenleistung bezeichnet die Verarbeitungsleistung und Ressourcen, die zur Ausführung von Algorithmen und zum Verarbeiten von Daten in KI-Systemen eingesetzt werden."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz repräsentiert Rechenleistung die grundlegende Infrastruktur, die für das Training von Modellen und die Durchführung von Inferenzen erforderlich ist. Dazu gehören Hardwarekomponenten wie CPUs, GPUs und TPUs sowie die zugehörige Software- und Netzwerkarchitektur.

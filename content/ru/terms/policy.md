@@ -1,23 +1,25 @@
 ---
-title: "Политика"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Политика
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /ru/terms/policy/
-date: "2026-07-18T15:28:17.359531Z"
-lastmod: "2026-07-18T16:38:07.086972Z"
+slug: policy
+date: '2026-07-18T15:28:17.359531Z'
+lastmod: '2026-07-18T16:38:07.086972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия или план действий, разработанный для руководства принятием решений и достижения рациональных результатов, часто используется в обучении с подкреплением для отображения состояний на действия."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия или план действий, разработанный для руководства принятием
+  решений и достижения рациональных результатов, часто используется в обучении с подкреплением
+  для отображения состояний на действия.
 ---
-
 ## Definition
 
 Термин «политика» имеет два значения в зависимости от контекста. В общем менеджменте это руководящий принцип для принятия решений. В обучении с подкреплением (RL) политика является ключевым компонентом агента...

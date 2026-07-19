@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /zh/terms/inauthentic_text/
 date: "2026-07-18T11:21:59.659479Z"
 lastmod: "2026-07-18T11:44:45.516862Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "人为生成或操纵的文本内容，旨在欺骗读者关于其来源、作者身份或事实基础的信息。"
 ---
-
 ## Definition
 
 非真实文本（Inauthentic text）指的是由人工智能系统或怀有欺骗意图的人类产生的书面材料，缺乏真实的人类经验或事实依据。它包括AI生成的垃圾邮件、捏造的新闻文章、虚假评论以及旨在误导受众的内容。检测此类文本对于维护信息生态系统的完整性和信任度至关重要。

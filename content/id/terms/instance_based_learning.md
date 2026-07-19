@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran berbasis instans"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Pembelajaran berbasis instans
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /id/terms/instance_based_learning/
-date: "2026-07-18T15:55:53.651894Z"
-lastmod: "2026-07-18T16:38:07.471110Z"
+slug: instance_based_learning
+date: '2026-07-18T15:55:53.651894Z'
+lastmod: '2026-07-18T16:38:07.471110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pendekatan pembelajaran malas di mana prediksi dibuat dengan membandingkan input baru dengan instans pelatihan yang disimpan."
+source: agnes_llm
+status: published
+language: id
+description: Pendekatan pembelajaran malas di mana prediksi dibuat dengan membandingkan
+  input baru dengan instans pelatihan yang disimpan.
 ---
-
 ## Definition
 
 Juga dikenal sebagai pembelajaran berbasis memori, teknik ini tidak membangun model umum selama pelatihan. Sebaliknya, teknik ini menyimpan seluruh dataset pelatihan. Ketika prediksi diperlukan, teknik ini menemukan yang paling s

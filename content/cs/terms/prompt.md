@@ -1,23 +1,24 @@
 ---
-title: "Podnět"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Podnět
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /cs/terms/prompt/
-date: "2026-07-18T15:28:12.379756Z"
-lastmod: "2026-07-18T17:15:09.075637Z"
+slug: prompt
+date: '2026-07-18T15:28:12.379756Z'
+lastmod: '2026-07-18T17:15:09.075637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Vstupní text nebo pokyn poskytnutý generativnímu modelu AI k vyvolání konkrétní odpovědi nebo chování."
+source: agnes_llm
+status: published
+language: cs
+description: Vstupní text nebo pokyn poskytnutý generativnímu modelu AI k vyvolání
+  konkrétní odpovědi nebo chování.
 ---
-
 ## Definition
 
 Podnět slouží jako hlavní rozhraní pro interakci s velkými jazykovými modely a dalšími generativními systémy AI. Definuje kontext, tón a omezení pro výstup modelu. Efektivní podněty

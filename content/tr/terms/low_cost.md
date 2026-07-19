@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /tr/terms/low_cost/
 date: "2026-07-18T15:31:46.948900Z"
 lastmod: "2026-07-18T16:38:07.250553Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Düşük maliyetli yapay zeka, makine öğrenmesiyle ilişkili giriş engellerini ve operasyonel giderleri azaltmayı amaçlayan verimliliğe odaklanır. Bu, model sıkıştırma, nicelleme ve ... gibi teknikleri iç"
 ---
-
 ## Definition
 
 

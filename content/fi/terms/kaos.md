@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /fi/terms/kaos/
 date: "2026-07-18T16:04:51.037128Z"
 lastmod: "2026-07-18T17:15:09.424396Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Älykäs agenttirunko, joka on suunniteltu hallitsemaan monimutkaisia, hajautettuja yritysympäristöjä politiikkaan perustuvan automaation avulla."
 ---
-
 ## Definition
 
 KAoS on älykäs agenttirunko, joka on kehitetty käsittelemään suurten, hajautettujen yritysjärjestelmien monimutkaisuutta. Se hyödyntää politiikkaan perustuvaa lähestymistapaa, jossa korkean tason hallinnolliset tavoitteet käännetään automaattisiksi toimintoiksi.

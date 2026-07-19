@@ -1,23 +1,24 @@
 ---
-title: "Datasæt: Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: 'Datasæt: Code Search Net'
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /da/terms/datasetcode_search_net/
-date: "2026-07-18T15:49:14.813110Z"
-lastmod: "2026-07-18T17:15:09.274796Z"
+slug: datasetcode_search_net
+date: '2026-07-18T15:49:14.813110Z'
+lastmod: '2026-07-18T17:15:09.274796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et benchmark-datasæt designet til at evaluere kodesøgesystemer ved at parre naturlige sprogforespørgsler med relevante kodeudsnit."
+source: agnes_llm
+status: published
+language: da
+description: Et benchmark-datasæt designet til at evaluere kodesøgesystemer ved at
+  parre naturlige sprogforespørgsler med relevante kodeudsnit.
 ---
-
 ## Definition
 
 Code Search Net er et omfattende datasæt skabt til at fremme forskning i kodehentning. Det indeholder millioner af par af naturlige sprogbeskrivelser og tilsvarende Java-kodeudsnit. Dette datasæt understøtter udviklingen af intelligente søgeværktøjer.

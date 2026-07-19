@@ -1,23 +1,24 @@
 ---
-title: "Spraak-naar-spraak"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Spraak-naar-spraak
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /nl/terms/speech_to_speech/
-date: "2026-07-18T16:18:06.216306Z"
-lastmod: "2026-07-18T17:15:08.789701Z"
+slug: speech_to_speech
+date: '2026-07-18T16:18:06.216306Z'
+lastmod: '2026-07-18T17:15:08.789701Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een vertaalparadigma dat gesproken invoer direct omzet in gesynthetiseerde spraak in een andere taal."
+source: agnes_llm
+status: published
+language: nl
+description: Een vertaalparadigma dat gesproken invoer direct omzet in gesynthetiseerde
+  spraak in een andere taal.
 ---
-
 ## Definition
 
 Spraak-naar-spraak (STS)-vertaling omzeilt tussenliggende tekstrepresentaties om gesproken taal A direct om te zetten in gesproken taal B. Deze benadering streeft ernaar prosodie, emotie en natuurlijke intonatie te behouden.

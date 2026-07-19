@@ -1,23 +1,25 @@
 ---
-title: "Gpt Oss"
-term_id: "gpt_oss"
-category: "basic_concepts"
-subcategory: ""
-tags: ["open_source", "architecture", "deployment"]
+title: Gpt Oss
+term_id: gpt_oss
+category: basic_concepts
+subcategory: ''
+tags:
+- Open Source
+- architecture
+- deployment
 difficulty: 4
 weight: 1
-slug: "gpt_oss"
-aliases:
-  - /id/terms/gpt_oss/
-date: "2026-07-18T15:53:26.394211Z"
-lastmod: "2026-07-18T16:38:07.463876Z"
+slug: gpt_oss
+date: '2026-07-18T15:53:26.394211Z'
+lastmod: '2026-07-18T16:38:07.463876Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Merujuk pada implementasi atau varian Perangkat Lunak Sumber Terbuka (OSS) dari arsitektur mirip GPT yang tersedia secara publik untuk dimodifikasi dan didistribusikan."
+source: agnes_llm
+status: published
+language: id
+description: Merujuk pada implementasi atau varian Perangkat Lunak Sumber Terbuka
+  (OSS) dari arsitektur mirip GPT yang tersedia secara publik untuk dimodifikasi dan
+  didistribusikan.
 ---
-
 ## Definition
 
 GPT OSS biasanya menunjukkan alternatif atau turunan sumber terbuka dari model Transformer Pra-Latihan Generatif yang bersifat tertutup. Proyek-proyek ini memungkinkan pengembang untuk mengakses, memodifikasi, dan menerbangkan model bahasa besar...

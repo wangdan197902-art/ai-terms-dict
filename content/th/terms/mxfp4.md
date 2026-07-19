@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /th/terms/mxfp4/
-date: "2026-07-18T16:07:10.559257Z"
-lastmod: "2026-07-18T16:38:07.635266Z"
+slug: mxfp4
+date: '2026-07-18T16:07:10.559257Z'
+lastmod: '2026-07-18T16:38:07.635266Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "MXFP4 คือรูปแบบจุดลอยตัวความแม่นยำผสม (mixed-precision) ที่ปรับให้เหมาะสมสำหรับการคูณเมทริกซ์ที่มีประสิทธิภาพในฮาร์ดแวร์เร่งความเร็ว AI"
+source: agnes_llm
+status: published
+language: th
+description: MXFP4 คือรูปแบบจุดลอยตัวความแม่นยำผสม (mixed-precision) ที่ปรับให้เหมาะสมสำหรับการคูณเมทริกซ์ที่มีประสิทธิภาพในฮาร์ดแวร์เร่งความเร็ว
+  AI
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) คือรูปแบบประเภทข้อมูลที่เฉพาะเจาะจงซึ่งถูกนำเสนอขึ้นเพื่อเพิ่มประสิทธิภาพการทำงานและลดการใช้แบนด์วิธหน่วยความจำในงาน AI โดยอนุญาตให้มีการดำเนินการด้วยความแม่นยำผสม

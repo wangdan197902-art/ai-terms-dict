@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /pl/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T15:56:31.303527Z"
 lastmod: "2026-07-18T17:15:08.876939Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "GAMLSS to elastyczne ramy statystyczne, które pozwalają na modelowanie wszystkich parametrów rozkładu jako funkcji zmiennych objaśniających przy użyciu addytywnych wygładzeń."
 ---
-
 ## Definition
 
 W przeciwieństwie do tradycyjnych modeli regresji skupiających się tylko na średniej, GAMLSS modeluje cały rozkład, w tym lokalizację (średnia/mediana), skalę (wariancja), skośność i kurtozę. Wykorzystuje uogólnione modele liniowe do modelowania parametrów rozkładu.

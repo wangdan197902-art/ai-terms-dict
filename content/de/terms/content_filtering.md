@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /de/terms/content_filtering/
 date: "2026-07-18T11:08:35.675361Z"
 lastmod: "2026-07-18T11:44:44.920955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess des Blockierens oder Erlaubens des Zugriffs auf digitale Inhalte basierend auf vordefinierten Kriterien oder Klassifikationsmodellen."
 ---
-
 ## Definition
 
 Inhaltsfilterung umfasst die Verwendung von Algorithmen und Regeln zum Scannen, Klassifizieren und Steuern des Informationsflusses, der Nutzern präsentiert wird. Im KI-Kontext werden dabei oft natürliche Sprachverarbeitung und Computer Vision eingesetzt, um relevante oder schädliche Inhalte zu identifizieren.

@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /ko/terms/docker/
 date: "2026-07-18T15:34:04.841951Z"
 lastmod: "2026-07-18T16:38:06.794286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "경량이고 이식 가능한 컨테이너 내에서 애플리케이션을 개발, 배포 및 실행하기 위한 플랫폼입니다."
 ---
-
 ## Definition
 
 도커는 개발자가 애플리케이션과 모든 의존성을 소프트웨어 개발을 위한 표준화된 단위인 컨테이너로 패키징할 수 있게 합니다. 이러한 컨테이너는 소프트웨어를 환경으로부터 격리시켜 일관성을 보장합니다.

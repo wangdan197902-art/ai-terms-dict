@@ -1,23 +1,23 @@
 ---
-title: "증분 휴리스틱 검색 (Incremental Heuristic Search)"
-term_id: "incremental_heuristic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "heuristics"]
+title: 증분 휴리스틱 검색 (Incremental Heuristic Search)
+term_id: incremental_heuristic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- heuristics
 difficulty: 4
 weight: 1
-slug: "incremental_heuristic_search"
-aliases:
-  - /ko/terms/incremental_heuristic_search/
-date: "2026-07-18T15:59:51.089885Z"
-lastmod: "2026-07-18T16:38:06.854005Z"
+slug: incremental_heuristic_search
+date: '2026-07-18T15:59:51.089885Z'
+lastmod: '2026-07-18T16:38:06.854005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "전체 상태 공간을 탐색하는 대신 휴리스틱 안내를 사용하여 솔루션 추정치를 점진적으로 개선하는 검색 전략입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 전체 상태 공간을 탐색하는 대신 휴리스틱 안내를 사용하여 솔루션 추정치를 점진적으로 개선하는 검색 전략입니다.
 ---
-
 ## Definition
 
 증분 휴리스틱 검색은 목표 지점까지 도달하는 비용을 추정하는 휴리스틱에 의해 안내받으며 후보 솔루션을 단계별로 정제하는 알고리즘을 의미합니다. 완전 탐색과 달리 이러한 방법론은...

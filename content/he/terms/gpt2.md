@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /he/terms/gpt2/
 date: "2026-07-18T16:02:09.913657Z"
 lastmod: "2026-07-18T17:15:09.544865Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "GPT-2 הוא מודל שפה מבוסס טרנספורמר בקנה מידה גדול, שפותח על ידי OpenAI ליצירת והבנת טקסט."
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2 (GPT-2) הוא מודל שפה אוטורגרסיבי המשתמש בארכיטקטורת הטרנספורמר כדי לייצר טקסט הדומה לשפה אנושית. המודל אומן על אוסף נתונים עצום של טקסטים מאינטרנט.

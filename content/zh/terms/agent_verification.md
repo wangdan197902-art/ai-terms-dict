@@ -1,23 +1,23 @@
 ---
-title: "智能体验证"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: 智能体验证
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /zh/terms/agent_verification/
-date: "2026-07-18T11:04:26.113944Z"
-lastmod: "2026-07-18T11:44:45.439859Z"
+slug: agent_verification
+date: '2026-07-18T11:04:26.113944Z'
+lastmod: '2026-07-18T11:44:45.439859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "智能体验证是通过形式化方法证明自主智能体在所有指定条件下都能正确和安全地运行的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 智能体验证是通过形式化方法证明自主智能体在所有指定条件下都能正确和安全地运行的过程。
 ---
-
 ## Definition
 
 这涉及使用数学方法确保智能体的行为符合预定义的约束，如安全边界或伦理准则。这对于在关键环境中运行的智能体尤为重要。

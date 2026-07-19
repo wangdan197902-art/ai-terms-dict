@@ -1,23 +1,24 @@
 ---
-title: "Epoka"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoka
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /pl/terms/epoch/
-date: "2026-07-18T15:53:42.345012Z"
-lastmod: "2026-07-18T17:15:08.871088Z"
+slug: epoch
+date: '2026-07-18T15:53:42.345012Z'
+lastmod: '2026-07-18T17:15:08.871088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Jedno pełne przejście zbioru danych treningowych przez algorytm uczenia maszynowego podczas trenowania modelu."
+source: agnes_llm
+status: published
+language: pl
+description: Jedno pełne przejście zbioru danych treningowych przez algorytm uczenia
+  maszynowego podczas trenowania modelu.
 ---
-
 ## Definition
 
 W uczeniu maszynowym epoka reprezentuje jedną pełną iterację po całym zbiorze danych treningowych. Podczas każdej epoki model przetwarza wszystkie przykłady treningowe, aktualizuje swoje wagi poprzez propagację wsteczną i dostosowuje parametry.

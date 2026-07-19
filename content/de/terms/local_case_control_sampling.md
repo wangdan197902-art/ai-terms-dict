@@ -1,23 +1,24 @@
 ---
-title: "Lokale Fall-Kontroll-Stichprobe"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lokale Fall-Kontroll-Stichprobe
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /de/terms/local_case_control_sampling/
-date: "2026-07-18T11:22:18.135199Z"
-lastmod: "2026-07-18T11:44:44.960263Z"
+slug: local_case_control_sampling
+date: '2026-07-18T11:22:18.135199Z'
+lastmod: '2026-07-18T11:44:44.960263Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik zur negativen Stichprobenziehung, die schwierige Negative aus der unmittelbaren Umgebung positiver Beispiele im Einbettungsraum auswählt."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik zur negativen Stichprobenziehung, die schwierige Negative
+  aus der unmittelbaren Umgebung positiver Beispiele im Einbettungsraum auswählt.
 ---
-
 ## Definition
 
 Die lokale Fall-Kontroll-Stichprobe ist eine Strategie, die hauptsächlich beim Training von Modellen für kontrastives Lernen oder in Empfehlungssystemen verwendet wird. Anstatt negative Stichproben zufällig auszuwählen, werden hier 'schwierige Negative' identifiziert, also solche, die den positiven Beispielen im Vektorraum sehr ähnlich sind, um das Modell stärker herauszufordern und die Lernleistung zu verbessern.

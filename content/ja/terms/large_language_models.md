@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /ja/terms/large_language_models/
 date: "2026-07-18T10:52:09.964072Z"
 lastmod: "2026-07-18T11:44:45.012090Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "広範な自然言語理解および生成タスクに対してスケーリングされたニューラルネットワークを使用するパラダイム。"
 ---
-
 ## Definition
 
 この用語は、数十億ものパラメータを持つモデルを活用して、多様な言語タスクにおいてゼロショットまたはフューショット学習を行うより広い適用パラダイムを指します。これは専門的なモデルとは異なり、

@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /de/terms/sovereign_ai/
 date: "2026-07-18T11:33:57.106708Z"
 lastmod: "2026-07-18T11:44:44.986899Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein strategischer Ansatz, bei dem Nationen oder Organisationen ihre eigene KI-Infrastruktur und -Modelle entwickeln und kontrollieren, um Datenschutz und regulatorische Unabhängigkeit zu gewährleisten"
 ---
-
 ## Definition
 
 Souveräne KI beschreibt die Fähigkeit eines Landes oder einer Organisation, künstliche Intelligenzsysteme unabhängig aufzubauen, bereitzustellen und zu verwalten, ohne sich auf ausländische Cloud-Anbieter oder proprietäre Technologien verlassen zu müssen.

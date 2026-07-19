@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /fi/terms/gradient_descent/
 date: "2026-07-18T15:36:39.912025Z"
 lastmod: "2026-07-18T17:15:09.370861Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Iteratiivinen optimointialgoritmi, jota käytetään menetyksen funktion minimoimiseen säätämällä mallin parametreja."
 ---
-
 ## Definition
 
 Gradienttipudotus on ensimmäisen kertaluvun iteratiivinen optimointialgoritmi differentioituvan funktion paikallisen minimin löytämiseksi. Koneoppimisessa se päivittää mallin painot gradientin vastaiseen suuntaan.

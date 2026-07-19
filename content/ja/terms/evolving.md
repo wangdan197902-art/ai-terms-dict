@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /ja/terms/evolving/
 date: "2026-07-18T10:50:49.610242Z"
 lastmod: "2026-07-18T11:44:45.008083Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "新しいデータやフィードバックを通じて継続的に適応し、改善するAIシステムやアルゴリズムを指す。"
 ---
-
 ## Definition
 
 「進化型」とは、初期トレーニング後に静止した状態のままではなく、継続的な学習と適応を行う動的なAIモデルを特徴づける用語です。この概念は、生涯学習やオンライン学習の中心にあります。

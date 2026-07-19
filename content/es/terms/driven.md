@@ -1,23 +1,25 @@
 ---
-title: "Impulsado por / Basado en"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Impulsado por / Basado en
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /es/terms/driven/
-date: "2026-07-18T10:22:03.819125Z"
-lastmod: "2026-07-18T11:44:44.738615Z"
+slug: driven
+date: '2026-07-18T10:22:03.819125Z'
+lastmod: '2026-07-18T11:44:44.738615Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Impulsado describe sistemas o metodologías de IA donde la toma de decisiones o la arquitectura del modelo está guiada principalmente por un tipo de entrada específico, como datos u objetivos."
+source: agnes_llm
+status: published
+language: es
+description: Impulsado describe sistemas o metodologías de IA donde la toma de decisiones
+  o la arquitectura del modelo está guiada principalmente por un tipo de entrada específico,
+  como datos u objetivos.
 ---
-
 ## Definition
 
 El término 'impulsado' se utiliza comúnmente como sufijo para indicar la fuerza o mecanismo principal detrás de un enfoque de IA. Por ejemplo, 'basado en datos' implica que las decisiones se toman en función de patrones estadísticos en los datos.

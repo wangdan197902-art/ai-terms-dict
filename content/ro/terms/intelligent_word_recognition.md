@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /ro/terms/intelligent_word_recognition/
 date: "2026-07-18T16:06:09.788374Z"
 lastmod: "2026-07-18T17:15:09.670176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea algoritmilor de IA, în special a învățării profunde, pentru a identifica și interpreta cu precizie textul din imagini sau surse manuscrise."
 ---
-
 ## Definition
 
 Recunoașterea inteligentă a cuvintelor se referă la tehnologii avansate de recunoaștere optică a caracterelor (OCR) alimentate de rețele neuronale. Aceasta depășește simpla potrivire a tiparelor, înțelegând contextul și gestionând variațiile complexe ale fonturilor și ale scrisului de mână.

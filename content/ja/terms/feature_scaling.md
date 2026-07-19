@@ -1,23 +1,23 @@
 ---
-title: "フィーチャースケーリング"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: フィーチャースケーリング
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /ja/terms/feature_scaling/
-date: "2026-07-18T11:14:45.555596Z"
-lastmod: "2026-07-18T11:44:45.097642Z"
+slug: feature_scaling
+date: '2026-07-18T11:14:45.555596Z'
+lastmod: '2026-07-18T11:44:45.097642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "データの独立変数または特徴量の範囲を正規化し、大きさの均一性を確保するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: データの独立変数または特徴量の範囲を正規化し、大きさの均一性を確保するプロセス。
 ---
-
 ## Definition
 
 フィーチャースケーリングは、入力変数の範囲を標準化し、大きな値を持つ特徴量が学習プロセスを支配してしまうのを防ぎます。一般的な手法には、正規化（最小最大スケーリング）や標準化（Zスコア正規化）が含まれます。これにより、勾配降下法などの最適化アルゴリズムの収束速度が向上します。

@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /fr/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T11:27:39.653331Z"
 lastmod: "2026-07-18T11:44:45.288872Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus consistant à utiliser des algorithmes d'apprentissage automatique pour identifier automatiquement des motifs et extraire des informations structurées à partir de grands ensembles de donné"
 ---
-
 ## Definition
 
 Ce domaine combine les techniques d'apprentissage automatique avec le traitement du langage naturel et l'exploration de données pour transformer les données brutes en connaissances exploitables. Il implique l'entraînement de modèles pour reconnaître des entités, des relations et des concepts, permettant ainsi une meilleure compréhension et utilisation de l'information contenue dans les textes et autres formats non structurés.

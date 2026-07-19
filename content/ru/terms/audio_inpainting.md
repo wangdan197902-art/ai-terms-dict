@@ -1,23 +1,24 @@
 ---
-title: "Аудио-инпейнтинг"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Аудио-инпейнтинг
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /ru/terms/audio_inpainting/
-date: "2026-07-18T15:41:44.703209Z"
-lastmod: "2026-07-18T16:38:07.123757Z"
+slug: audio_inpainting
+date: '2026-07-18T15:41:44.703209Z'
+lastmod: '2026-07-18T16:38:07.123757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс восстановления отсутствующих или поврежденных сегментов аудиосигнала на основе окружающего контекста."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс восстановления отсутствующих или поврежденных сегментов аудиосигнала
+  на основе окружающего контекста.
 ---
-
 ## Definition
 
 Аудио-инпейнтинг — это техника, используемая для заполнения пробелов в аудиозаписях, вызванных потерями пакетов, шумом или намеренным маскированием. С использованием генеративных моделей система предсказывает наиболее вероятное содержание для пропущенных

@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /hu/terms/rabbit_r1/
 date: "2026-07-18T16:20:37.149727Z"
 lastmod: "2026-07-18T17:15:09.828107Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy hordozható, AI-alapú eszköz, amely a Nagy Akciós Modellt (Large Action Model, LAM) használja feladatok autonóm végrehajtására."
 ---
-
 ## Definition
 
 A Rabbit r1 egy dedikált hardveres eszköz, amelyet a Rabbit Inc. indított útjára, és amelynek középpontjában a saját fejlesztésű Nagy Akciós Modell (LAM) áll. Általános célú okostelefonokkal ellentétben ez az eszköz specifikus digitális feladatok elvégzésére specializálódott, felhasználói intentiont (célzást) felismerve és végrehajtva.

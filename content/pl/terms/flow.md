@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /pl/terms/flow/
 date: "2026-07-18T15:25:34.993203Z"
 lastmod: "2026-07-18T17:15:08.811563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przepływ danych opisuje ruch i transformację informacji przez różne etapy potoku przetwarzania AI."
 ---
-
 ## Definition
 
 Przepływ danych obejmuje ścieżkę, jaką dane pokonują od momentu pobrania do ostatecznego wyniku w systemie AI, w tym wstępną obróbkę, ekstrakcję cech, wnioskowanie modelu i post-processing. Efektywne zarządzanie przepływem danych jest kluczowe dla wydajności.

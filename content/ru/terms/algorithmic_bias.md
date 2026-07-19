@@ -1,23 +1,24 @@
 ---
-title: "Алгоритмическая предвзятость"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Алгоритмическая предвзятость
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /ru/terms/algorithmic_bias/
-date: "2026-07-18T15:39:59.355420Z"
-lastmod: "2026-07-18T16:38:07.117838Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:39:59.355420Z'
+lastmod: '2026-07-18T16:38:07.117838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Алгоритмическая предвзятость относится к систематическим и повторяющимся ошибкам в компьютерной системе, которые приводят к несправедливым результатам, таким как привилегирование одной произвольной гр"
+source: agnes_llm
+status: published
+language: ru
+description: Алгоритмическая предвзятость относится к систематическим и повторяющимся
+  ошибкам в компьютерной системе, которые приводят к несправедливым результатам, таким
+  как привилегирование одной произвольной гр
 ---
-
 ## Definition
 
 Предвзятость в алгоритмах обычно originates из нерепрезентативных обучающих данных, субъективных проектных решений или петель обратной связи, которые усиливают существующие социальные предрассудки. Она проявляется в виде искаженных прогнозов или решений.

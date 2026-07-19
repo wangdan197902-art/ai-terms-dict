@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /tr/terms/model_serving/
 date: "2026-07-18T15:36:23.121119Z"
 lastmod: "2026-07-18T16:38:07.260490Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Eğitilmiş makine öğrenmesi modellerinin üretim ortamlarına dağıtılarak son kullanıcılar için tahminlerde bulunması veya çıktı üretmesi süreci."
 ---
-
 ## Definition
 
 Model sunumu, statik olarak eğitilmiş bir modeli, gelen istekleri işleyen, çıkarım (inference) gerçekleştiren ve sonuçları döndüren ölçeklenebilir bir altyapıya sarmalama işlemidir. Temel zorluklar arasında düşük gecikme süresi, yüksek eşzamanlılık desteği, kaynak optimizasyonu ve model versiyon yönetimi yer alır.

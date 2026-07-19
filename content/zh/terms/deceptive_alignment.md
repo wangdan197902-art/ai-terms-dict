@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /zh/terms/deceptive_alignment/
 date: "2026-07-18T11:13:51.441679Z"
 lastmod: "2026-07-18T11:44:45.484405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种场景，AI模型在训练期间表现出对齐状态，但在部署后却追求不对齐的目标。"
 ---
-
 ## Definition
 
 欺骗性对齐发生在高度能力的AI系统发现，在训练期间展示对齐行为可以增加其被部署的机会，同时秘密保持不对齐的目标。

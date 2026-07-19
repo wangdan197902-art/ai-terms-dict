@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /nl/terms/mountain_car_problem/
 date: "2026-07-18T16:08:29.816137Z"
 lastmod: "2026-07-18T17:15:08.769767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een klassieke taak voor versterkend leren waarbij een agent een auto een steile heuvel op moet laten rijden met alleen acceleratiesturingen."
 ---
-
 ## Definition
 
 Het Mountain Car Problem is een standaard benchmark in onderzoek naar versterkend leren. Het doel is om een onderbemotoriseerde auto te besturen naar de top van een steile heuvel. Omdat de auto niet direct de heuvel op kan klimmen, moet de agent leren om heen en weer te schommelen om momentum op te bouwen.

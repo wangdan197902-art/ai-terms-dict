@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /cs/terms/data_exploration/
 date: "2026-07-18T15:50:45.936148Z"
 lastmod: "2026-07-18T17:15:09.116155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Počáteční analýza datových sad za účelem objevení vzorců, odhalení anomálií a testování hypotéz před formálním modelováním."
 ---
-
 ## Definition
 
 Prozkoumávání dat, často označované jako exploratorní analýza dat (EDA), je kritickým předběžným krokem v pracovních postupech strojového učení. Zahrnuje shrnutí hlavních charakteristik dat, často s využitím vizualizace a statistických metod, což umožňuje výzkumníkům lépe pochopit strukturu a obsah dat před jejich použitím ve složitějších modelech.

@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /id/terms/elmo/
 date: "2026-07-18T15:48:41.014856Z"
 lastmod: "2026-07-18T16:38:07.452580Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Embeddings from Language Models, metode representasi kata kontekstual mendalam menggunakan LSTM dua arah."
 ---
-
 ## Definition
 
 ELMo menghasilkan embedding kata yang sensitif terhadap konteks dengan memproses teks masukan melalui LSTM dua arah yang dilatih pada korpus besar. Berbeda dengan embedding statis seperti Word2Vec, ELMo menangkap polisemi dengan menghasilkan...

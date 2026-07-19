@@ -1,23 +1,23 @@
 ---
-title: "帖子"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: 帖子
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /zh/terms/post/
-date: "2026-07-18T10:53:51.038722Z"
-lastmod: "2026-07-18T11:44:45.381387Z"
+slug: post
+date: '2026-07-18T10:53:51.038722Z'
+lastmod: '2026-07-18T11:44:45.381387Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "发布的内容片段，通常位于博客、社交媒体平台或论坛上，代表用户生成的信息或评论。"
+source: agnes_llm
+status: published
+language: zh
+description: 发布的内容片段，通常位于博客、社交媒体平台或论坛上，代表用户生成的信息或评论。
 ---
-
 ## Definition
 
 在数字通信和AI数据语境中，“帖子”指在线分享的离散内容单元。它是训练自然语言处理模型、情感分析以及理解用户交互模式的主要数据来源。

@@ -1,23 +1,25 @@
 ---
-title: "λεπτώς ρυθμισμένο"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: λεπτώς ρυθμισμένο
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /el/terms/fine_tuned/
-date: "2026-07-18T15:35:54.100760Z"
-lastmod: "2026-07-18T17:15:09.859439Z"
+slug: fine_tuned
+date: '2026-07-18T15:35:54.100760Z'
+lastmod: '2026-07-18T17:15:09.859439Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία περαιτέρω εκπαίδευσης ενός προ-εκπαιδευμένου μοντέλου σε ένα συγκεκριμένο σύνολο δεδομένων για να προσαρμοστεί σε μια συγκεκριμένη εργασία downstream."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία περαιτέρω εκπαίδευσης ενός προ-εκπαιδευμένου μοντέλου σε
+  ένα συγκεκριμένο σύνολο δεδομένων για να προσαρμοστεί σε μια συγκεκριμένη εργασία
+  downstream.
 ---
-
 ## Definition
 
 Η λεπτή ρύθμιση (fine-tuning) περιλαμβάνει τη λήψη ενός μοντέλου που έχει ήδη εκπαιδευτεί σε ένα μεγάλο, γενικό σύνολο δεδομένων και τη συνέχιση της εκπαίδευσής του σε ένα μικρότερο, ειδικό για την εργασία σύνολο δεδομένων. Αυτή η τεχνική εκμεταλλεύεται τα γενικά χαρακτηριστικά που έχει μάθει το μοντέλο και τα προσαρμόζει στις συγκεκριμένες απαιτήσεις της νέας εργασίας, μειώνοντας σημαντικά τον χρόνο και τον υπολογιστικό κόστος σε σύγκριση με την εκπαίδευση από την αρχή.

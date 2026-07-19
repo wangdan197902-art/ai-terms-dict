@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /zh/terms/feedback/
 date: "2026-07-18T10:51:19.044889Z"
 lastmod: "2026-07-18T11:44:45.368219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "反馈涉及利用输出结果来迭代调整和改进AI模型或系统的性能。"
 ---
-
 ## Definition
 
 反馈机制使AI系统能够从与用户或环境的交互中学习，从而优化未来的预测或行动。这包括强化学习信号、人在回路（human-in-the-loop）等机制。

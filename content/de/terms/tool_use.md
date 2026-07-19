@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /de/terms/tool_use/
 date: "2026-07-18T11:00:18.455300Z"
 lastmod: "2026-07-18T11:44:44.901118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Paradigma, bei dem KI-Agenten externe Funktionen oder APIs auswählen und ausführen, um spezifische Aufgaben jenseits ihrer nativen Fähigkeiten zu erledigen."
 ---
-
 ## Definition
 
 Die Werkzeugnutzung ermöglicht es Sprachmodellen, mit externen Softwareumgebungen zu interagieren, indem sie vordefinierte Funktionen aufrufen, wie z. B. Rechner, Suchmaschinen oder Datenbankabfragen. Dieser Ansatz erweitert die

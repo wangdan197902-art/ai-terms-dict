@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /fi/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:43:25.622574Z"
 lastmod: "2026-07-18T17:15:09.384526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyn ja IoT-teknologian yhdistyminen, joka mahdollistaa älykkäiden laitteiden datan paikallisen käsittelyn ja itsenäiset päätökset."
 ---
-
 ## Definition
 
 Asioiden tekoäly (AIoT) edustaa tekoälyn ja internetin asioiden (IoT) teknologisten ratkaisujen synergistä integraatiota. Upottamalla tekoälyalgoritmeja suoraan IoT-laitteisiin tai reunapalvelimiin, järjestelmät pystyvät käsittelemään dataa reaaliajassa ilman keskitettyä pilvipohjaista viivettä, mikä parantaa yksityisyyttä, luotettavuutta ja vasteaikaa.

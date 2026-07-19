@@ -1,23 +1,25 @@
 ---
-title: "Trí tuệ nhân tạo sinh tạo (Generative AI)"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: Trí tuệ nhân tạo sinh tạo (Generative AI)
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /vi/terms/generative_ai/
-date: "2026-07-18T15:54:40.001663Z"
-lastmod: "2026-07-18T16:38:07.760730Z"
+slug: generative_ai
+date: '2026-07-18T15:54:40.001663Z'
+lastmod: '2026-07-18T16:38:07.760730Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trí tuệ nhân tạo sinh tạo là một loại trí tuệ nhân lời có khả năng tạo ra nội dung mới, chẳng hạn như văn bản, hình ảnh, âm thanh và mã, dựa trên các mẫu học được từ dữ liệu huấn luyện."
+source: agnes_llm
+status: published
+language: vi
+description: Trí tuệ nhân tạo sinh tạo là một loại trí tuệ nhân lời có khả năng tạo
+  ra nội dung mới, chẳng hạn như văn bản, hình ảnh, âm thanh và mã, dựa trên các mẫu
+  học được từ dữ liệu huấn luyện.
 ---
-
 ## Definition
 
 Các hệ thống này, bao gồm các mô hình ngôn ngữ lớn và mô hình khuếch tán, không chỉ đơn thuần là truy xuất thông tin có sẵn mà còn tổng hợp các đầu ra mới lạ. Chúng học cấu trúc và phong cách nền tảng từ dữ liệu huấn luyện của mình...

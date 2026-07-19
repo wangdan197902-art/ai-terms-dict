@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /pl/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:49:13.946604Z"
 lastmod: "2026-07-18T17:15:08.862296Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dużo skalowy zbiór danych oparty na publikacjach i cytowaniach z zakresu informatyki, zaprojektowany do trenowania modeli osadzania artykułów akademickich."
 ---
-
 ## Definition
 
 Zbiór danych Specter został skonstruowany na podstawie ogromnej kolekcji prac z zakresu informatyki, wykorzystując sieci cytowań do tworzenia sygnałów do uczenia nadzorowanego. Paruje streszczenia z pracami je cytującymi, aby

@@ -1,23 +1,24 @@
 ---
-title: "Logique modale épistémique"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Logique modale épistémique
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /fr/terms/epistemic_modal_logic/
-date: "2026-07-18T11:15:56.731548Z"
-lastmod: "2026-07-18T11:44:45.247336Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T11:15:56.731548Z'
+lastmod: '2026-07-18T11:44:45.247336Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une branche de la logique modale qui utilise des systèmes formels pour représenter et raisonner sur les états de connaissance et de croyance des agents."
+source: agnes_llm
+status: published
+language: fr
+description: Une branche de la logique modale qui utilise des systèmes formels pour
+  représenter et raisonner sur les états de connaissance et de croyance des agents.
 ---
-
 ## Definition
 
 La logique modale épistémique étend la logique classique avec des opérateurs qui indiquent ce qu'un agent sait ou croit. Elle est cruciale dans les systèmes multi-agents où il faut raisonner sur la connaissance des autres participants pour coordonner les actions.

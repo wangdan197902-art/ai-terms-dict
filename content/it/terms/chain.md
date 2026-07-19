@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /it/terms/chain/
 date: "2026-07-18T15:51:19.856065Z"
 lastmod: "2026-07-18T17:15:08.605453Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una Chain è una sequenza di passaggi o moduli connessi che elaborano i dati in modo sequenziale per eseguire un compito complesso."
 ---
-
 ## Definition
 
 Nello sviluppo di applicazioni IA, una Chain si riferisce a una struttura lineare o a grafo diretto in cui più componenti, come chiamate a modelli linguistici (LLM), parser o strumenti esterni, sono collegati tra loro. I dati fluiscono da un componente all'altro

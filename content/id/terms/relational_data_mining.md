@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /id/terms/relational_data_mining/
 date: "2026-07-18T16:07:03.481342Z"
 lastmod: "2026-07-18T16:38:07.500620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses menemukan pola dan pengetahuan dari data yang terdiri dari beberapa tabel atau entitas yang saling terkait."
 ---
-
 ## Definition
 
 Penambangan data relasional berfokus pada ekstraksi informasi yang berguna dari basis data di mana data diatur ke dalam beberapa tabel yang saling terkait, bukan satu tabel datar tunggal. Teknik ini memanfaatkan hubungan antar data.

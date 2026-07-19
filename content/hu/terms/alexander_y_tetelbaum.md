@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /hu/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:43:26.247783Z"
 lastmod: "2026-07-18T17:15:09.752275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Alexander Y. Tetelbaum elismert kutató és közreműködő az mesterséges intelligencia és a gépi tanulás területén."
 ---
-
 ## Definition
 
 Alexander Y. Tetelbaum személyként van elismerve az akadémiai és műszaki közösségekben az AI-kutatáshoz való hozzájárulásaiért, különösen az algoritmikus hatékonysággal és neurális hálózatokkal kapcsolatos területeken.

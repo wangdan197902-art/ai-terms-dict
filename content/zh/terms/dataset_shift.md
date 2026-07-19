@@ -1,23 +1,23 @@
 ---
-title: "数据集偏移"
-term_id: "dataset_shift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "statistics", "model_deployment"]
+title: 数据集偏移
+term_id: dataset_shift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- statistics
+- Model Deployment
 difficulty: 3
 weight: 1
-slug: "dataset_shift"
-aliases:
-  - /zh/terms/dataset_shift/
-date: "2026-07-18T11:12:42.577308Z"
-lastmod: "2026-07-18T11:44:45.475452Z"
+slug: dataset_shift
+date: '2026-07-18T11:12:42.577308Z'
+lastmod: '2026-07-18T11:44:45.475452Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "数据集偏移是指训练数据与部署数据的输入统计特性发生变化的现象。"
+source: agnes_llm
+status: published
+language: zh
+description: 数据集偏移是指训练数据与部署数据的输入统计特性发生变化的现象。
 ---
-
 ## Definition
 
 当用于训练机器学习模型的数据分布与推理过程中遇到的数据分布不同时，就会发生数据集偏移。这种差异可能导致模型性能显著下降。

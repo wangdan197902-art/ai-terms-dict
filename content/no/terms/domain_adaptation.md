@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /no/terms/domain_adaptation/
 date: "2026-07-18T15:52:30.415320Z"
 lastmod: "2026-07-18T16:38:06.995628Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En maskinlæringsmetode som forbedrer modellens ytelse på et måldomene ved å utnytte kunnskap fra et killedomene."
 ---
-
 ## Definition
 
 Domeneadaptasjon håndterer utfordringen når trenings- og testdata kommer fra ulike fordelinger. Ved å tilpasse funksjonsrepresentasjoner mellom et merket killedomene og et ulagt eller sparsomt lagd måldomene, kan modeller generalisere bedre.

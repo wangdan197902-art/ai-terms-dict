@@ -1,23 +1,23 @@
 ---
-title: "open-source"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: open-source
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /da/terms/open_source/
-date: "2026-07-18T15:32:52.635691Z"
-lastmod: "2026-07-18T17:15:09.240387Z"
+slug: open_source
+date: '2026-07-18T15:32:52.635691Z'
+lastmod: '2026-07-18T17:15:09.240387Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Software, hvis kildekode stilles frit til rådighed for brug, ændring og distribution af alle."
+source: agnes_llm
+status: published
+language: da
+description: Software, hvis kildekode stilles frit til rådighed for brug, ændring
+  og distribution af alle.
 ---
-
 ## Definition
 
 Open-source refererer til en udviklingsmodel, hvor den underliggende kode i et softwareprojekt er offentligt tilgængelig. Inden for AI gør dette det muligt for forskere og udviklere at inspicere, modificere og videredistribuere alg

@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /ro/terms/rademacher_complexity/
 date: "2026-07-18T16:18:55.885696Z"
 lastmod: "2026-07-18T17:15:09.697424Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O măsură statistică utilizată în teoria învățării pentru a cuantifica bogăția unei clase de funcții prin capacitatea acesteia de a se potrivi zgomotului aleatoriu."
 ---
-
 ## Definition
 
 Complexitatea Rademacher evaluează cât de bine o clasă de ipoteze poate corela cu etichete aleatorii (zgomot). Aceasta servește ca un proxy pentru capacitatea sau flexibilitatea modelului. O complexitate mai mică sugerează o generalizare mai bună.

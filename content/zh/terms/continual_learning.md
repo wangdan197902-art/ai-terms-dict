@@ -1,23 +1,23 @@
 ---
-title: "持续学习"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: 持续学习
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /zh/terms/continual_learning/
-date: "2026-07-18T11:11:27.290212Z"
-lastmod: "2026-07-18T11:44:45.462901Z"
+slug: continual_learning
+date: '2026-07-18T11:11:27.290212Z'
+lastmod: '2026-07-18T11:44:45.462901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种机器学习范式，模型从新数据中顺序学习而不会遗忘先前知识。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种机器学习范式，模型从新数据中顺序学习而不会遗忘先前知识。
 ---
-
 ## Definition
 
 持续学习，也称为终身学习，使神经网络能够随着时间的推移获得新技能或信息，同时保留以前学到的能力。这解决了“灾难性”（遗忘）问题。

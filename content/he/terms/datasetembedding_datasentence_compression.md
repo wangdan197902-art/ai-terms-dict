@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /he/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:51:49.302955Z"
 lastmod: "2026-07-18T17:15:09.527741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים המכילה משפטים מקוריים וגרסאות דחוסות שלהם, כדי לאמן מודלים על שמירה על מידע."
 ---
-
 ## Definition
 
 מערכות נתונים לדחיסת משפטים מורכבות מזוגות שבהם המשפט היעד הוא גרסה מקוצרת של המשפט המקור, תוך שמירה על המשמעות המרכזית והסרת מידע מיותר. מערכות נתונים אלו משמשות...

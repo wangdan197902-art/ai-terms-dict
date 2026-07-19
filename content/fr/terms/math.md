@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /fr/terms/math/
 date: "2026-07-18T11:29:15.741864Z"
 lastmod: "2026-07-18T11:44:45.290636Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La discipline fondamentale impliquant les nombres, les structures, l'espace et le changement, essentielle pour formuler et résoudre les problèmes d'IA."
 ---
-
 ## Definition
 
 Dans le contexte de l'intelligence artificielle, les mathématiques fournissent le cadre théorique pour la conception et l'analyse des algorithmes. Les branches clés incluent l'algèbre linéaire pour la représentation des données, le calcul différentiel pour l'optimisation et l'apprentissage, ainsi que la théorie des probabilités et les statistiques pour la modélisation de l'incertitude.

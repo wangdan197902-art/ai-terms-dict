@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /pt/terms/experiment_tracking/
 date: "2026-07-18T14:59:29.148798Z"
 lastmod: "2026-07-18T15:51:59.489804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O rastreamento de experimentos é o processo sistemático de registrar metadados, métricas e artefatos de experimentos de aprendizado de máquina para garantir reprodutibilidade e facilitar a comparação."
 ---
-
 ## Definition
 
 Esta prática envolve o registro de hiperparâmetros, versões de conjuntos de dados, arquiteturas de modelos e métricas de desempenho durante as execuções de treinamento. Permite que cientistas de dados comparem diferentes configurações experimentais, depurem falhas e colaborem de forma eficiente em projetos compartilhados.

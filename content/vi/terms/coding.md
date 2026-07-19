@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /vi/terms/coding/
 date: "2026-07-18T15:44:29.512260Z"
 lastmod: "2026-07-18T16:38:07.736860Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Lập trình là quá trình viết các hướng dẫn cho máy tính bằng ngôn ngữ lập trình để tạo ra phần mềm, ứng dụng hoặc kịch bản."
 ---
-
 ## Definition
 
 Lập trình, còn được gọi là coding, liên quan đến việc chuyển đổi logic và yêu cầu của con người sang định dạng mà máy tính có thể thực thi. Nó sử dụng cú pháp và ngữ nghĩa cụ thể được xác định bởi các ngôn ngữ lập trình như Python, Java hoặc C++ để giao tiếp với hệ thống máy tính.

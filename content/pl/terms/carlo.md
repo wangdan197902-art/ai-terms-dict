@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /pl/terms/carlo/
 date: "2026-07-18T15:23:46.263043Z"
 lastmod: "2026-07-18T17:15:08.808204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do metod Monte Carlo, klasy algorytmów obliczeniowych opierających się na wielokrotnym losowym próbkowaniu w celu uzyskania wyników numerycznych."
 ---
-
 ## Definition
 
 Metody Monte Carlo są kluczowymi technikami w AI i statystyce do przybliżania złożonych problemów matematycznych trudnych do rozwiązania analitycznie. Poprzez generowanie tysięcy lub milionów losowych próbek, pozwalają na oszacowanie wartości oczekiwanych i rozkładów prawdopodobieństwa.

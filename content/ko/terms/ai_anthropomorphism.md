@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /ko/terms/ai_anthropomorphism/
 date: "2026-07-18T15:38:34.745940Z"
 lastmod: "2026-07-18T16:38:06.803299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인간이 AI 시스템에 인간의 특징, 감정 또는 의도를 귀속시키는 경향."
 ---
-
 ## Definition
 
 AI 인간화는 사용자가 챗봇이나 로봇과 같은 비인간적 존재에게 인간의 특성을 투사하는 심리적 현상을 의미합니다. 이는 AI 시스템에 대해 비현실적인 기대를 갖게 될 수 있으며,

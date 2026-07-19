@@ -1,23 +1,24 @@
 ---
-title: "Datorhörsel"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Datorhörsel
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /sv/terms/computer_audition/
-date: "2026-07-18T15:50:04.821358Z"
-lastmod: "2026-07-18T17:15:08.986437Z"
+slug: computer_audition
+date: '2026-07-18T15:50:04.821358Z'
+lastmod: '2026-07-18T17:15:08.986437Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Datorhörsel är det forskningsfält som fokuserar på att möjliggöra för maskiner att uppfatta och förstå ljudsignaler på samma sätt som människor."
+source: agnes_llm
+status: published
+language: sv
+description: Datorhörsel är det forskningsfält som fokuserar på att möjliggöra för
+  maskiner att uppfatta och förstå ljudsignaler på samma sätt som människor.
 ---
-
 ## Definition
 
 Datorhörsel involverar utvecklingen av algoritmer som gör det möjligt för datorer att extrahera meningsfull information från ljudvågor. Detta inkluderar uppgifter såsom taligenkänning, klassificering av musikgenrer och ljudidentifiering.

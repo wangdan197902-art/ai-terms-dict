@@ -1,23 +1,23 @@
 ---
-title: "表征坍塌"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: 表征坍塌
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /zh/terms/representation_collapse/
-date: "2026-07-18T11:32:14.210909Z"
-lastmod: "2026-07-18T11:44:45.550612Z"
+slug: representation_collapse
+date: '2026-07-18T11:32:14.210909Z'
+lastmod: '2026-07-18T11:44:45.550612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "自监督学习中的一种失效模式，模型对所有输入输出相同的表征，导致判别能力丧失。"
+source: agnes_llm
+status: published
+language: zh
+description: 自监督学习中的一种失效模式，模型对所有输入输出相同的表征，导致判别能力丧失。
 ---
-
 ## Definition
 
 当神经网络（特别是在自监督对比学习框架中）将所有输入数据点映射到同一个固定的输出向量时，就会发生表征坍塌。这种平凡解虽然最小化了损失函数，但未能学习到有用的特征表示。

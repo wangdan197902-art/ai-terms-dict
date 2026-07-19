@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /tr/terms/statistical_relational_learning/
 date: "2026-07-18T16:15:47.809877Z"
 lastmod: "2026-07-18T16:38:07.368893Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Verilerdeki karmaşık ilişkisel yapıları ele almak için olasılıksal çıkarımı birinci dereceden mantıkla entegre eden makine öğrenmesi alanı."
 ---
-
 ## Definition
 
 İstatistiksel ilişkisel öğrenme (SRL), olasılık teorisini ilişkisel veri yapılarıyla birleştirerek modellerin varlıklar arasındaki ve bunların ilişkileri arasındaki bağımlılıkları yakalamasına olanak tanır. Standart istatistiksel yöntemlerden farklı olarak, nesneler arası ilişkileri açıkça modelleyebilir.

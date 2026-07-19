@@ -1,23 +1,24 @@
 ---
-title: "Qwen3.5"
-term_id: "qwen35"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model", "qwen", "nlp"]
+title: Qwen3.5
+term_id: qwen35
+category: basic_concepts
+subcategory: ''
+tags:
+- model
+- qwen
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen35"
-aliases:
-  - /id/terms/qwen35/
-date: "2026-07-18T16:06:35.314535Z"
-lastmod: "2026-07-18T16:38:07.499042Z"
+slug: qwen35
+date: '2026-07-18T16:06:35.314535Z'
+lastmod: '2026-07-18T16:38:07.499042Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Versi iteratif dari seri model bahasa besar Qwen yang berfokus pada peningkatan kemampuan penalaran dan multibahasa."
+source: agnes_llm
+status: published
+language: id
+description: Versi iteratif dari seri model bahasa besar Qwen yang berfokus pada peningkatan
+  kemampuan penalaran dan multibahasa.
 ---
-
 ## Definition
 
 Qwen3.5 menandakan rilis spesifik dalam garis keturunan Qwen yang dikembangkan oleh Alibaba Cloud. Iterasi ini biasanya dibangun di atas versi sebelumnya dengan meningkatkan penalaran logis, keahlian pemrograman, dan pemahaman bahasa alami, menjadikannya lebih unggul dalam tugas-tugas kompleks yang membutuhkan analisis mendalam.

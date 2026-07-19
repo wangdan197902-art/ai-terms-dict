@@ -1,23 +1,24 @@
 ---
-title: "LLM-as-a-Judge"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM-as-a-Judge
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /sv/terms/llm_as_a_judge/
-date: "2026-07-18T16:05:53.852780Z"
-lastmod: "2026-07-18T17:15:09.019165Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:05:53.852780Z'
+lastmod: '2026-07-18T17:15:09.019165Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En metod för att utvärdera output från stora språkmodeller genom att använda en annan LLM för att betygsätta eller rangordna svar mot kriterier."
+source: agnes_llm
+status: published
+language: sv
+description: En metod för att utvärdera output från stora språkmodeller genom att
+  använda en annan LLM för att betygsätta eller rangordna svar mot kriterier.
 ---
-
 ## Definition
 
 LLM-as-a-Judge är ett utvärderingsparadigm där en stor språkmodell fungerar som en automatisk utvärderare av kvaliteten på output från andra modeller. Istället för att enbart förlita sig på mänskliga annotatörer eller fasta regelverk, använder denna metod språkmodellens förmåga att förstå nyanser och kontext för att ge kvalificerade omdömen om svar.

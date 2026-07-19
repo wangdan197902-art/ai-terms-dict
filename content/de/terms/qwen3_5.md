@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /de/terms/qwen3_5/
-date: "2026-07-18T11:29:30.153268Z"
-lastmod: "2026-07-18T11:44:44.979871Z"
+slug: qwen3_5
+date: '2026-07-18T11:29:30.153268Z'
+lastmod: '2026-07-18T11:44:44.979871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Qwen3 5 bezieht sich wahrscheinlich auf eine bestimmte Unter-Version oder Variante innerhalb der dritten Generation der Qwen-Modellserie."
+source: agnes_llm
+status: published
+language: de
+description: Qwen3 5 bezieht sich wahrscheinlich auf eine bestimmte Unter-Version
+  oder Variante innerhalb der dritten Generation der Qwen-Modellserie.
 ---
-
 ## Definition
 
 Qwen3 5 scheint einen bestimmten Checkpoint, eine Größenvariante oder eine spezialisierte Veröffentlichung innerhalb der breiteren Qwen3-Generation zu bezeichnen. Während genaue Spezifikationen variieren können, impliziert dies im Allgemeinen eine Weiterentwicklung von Qwen3.

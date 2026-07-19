@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /fi/terms/multi_modality/
 date: "2026-07-18T16:11:55.054722Z"
 lastmod: "2026-07-18T17:15:09.436612Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monimodaalisuus on laajempi käsite tai tutkimusala, joka liittyy useiden erilaisten datatyyppien käyttöön koneoppimisarkkitehtuureissa."
 ---
-
 ## Definition
 
 Monimodaalisuus edustaa arkkitehtonista ja teoreettista viitekehystä, joka mahdollistaa tekoälymallien käsitellä heterogeenisia datavirtauksia. Se sisältää neuroverkkojen suunnittelun, jotka voivat vastaanottaa syötteitä eri lähteistä,

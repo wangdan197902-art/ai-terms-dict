@@ -1,23 +1,25 @@
 ---
-title: "Nieprzerwana integracja"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Nieprzerwana integracja
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /pl/terms/continuous_integration/
-date: "2026-07-18T15:34:47.637816Z"
-lastmod: "2026-07-18T17:15:08.830567Z"
+slug: continuous_integration
+date: '2026-07-18T15:34:47.637816Z'
+lastmod: '2026-07-18T17:15:08.830567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Praktyka rozwoju oprogramowania, w której programiści często scalają zmiany kodu w centralnym repozytorium, co uruchamia zautomatyzowane kompilacje i testy."
+source: agnes_llm
+status: published
+language: pl
+description: Praktyka rozwoju oprogramowania, w której programiści często scalają
+  zmiany kodu w centralnym repozytorium, co uruchamia zautomatyzowane kompilacje i
+  testy.
 ---
-
 ## Definition
 
 Nieprzerwana integracja (CI) to kluczowa praktyka DevOps, która automatyzuje łączenie zmian kodu od wielu współtwórców w jednym projekcie oprogramowania. Poprzez uruchamianie zautomatyzowanych kompilacji i testów, CI pozwala na szybkie wykrywanie błędów i zapewnia stabilność kodu źródłowego.

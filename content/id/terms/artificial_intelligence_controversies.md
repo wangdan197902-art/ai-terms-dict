@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /id/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:39:22.304494Z"
 lastmod: "2026-07-18T16:38:07.428671Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Debat publik dan ketidaksepakatan seputar implikasi etis, sosial, dan teknis dari pengembangan dan penerapan AI."
 ---
-
 ## Definition
 
 Kontroversi AI mencakup berbagai perselisihan etis, hukum, dan sosial yang muncul dari teknologi kecerdasan buatan. Isu-isu utamanya meliputi bias algoritma, pelanggaran privasi, penggantian pekerjaan, dan kebutuhan akan tata kelola etis yang kuat.

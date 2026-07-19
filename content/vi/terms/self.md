@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /vi/terms/self/
 date: "2026-07-18T15:29:08.316813Z"
 lastmod: "2026-07-18T16:38:07.695572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong AI, 'bản thân' đề cập đến khái niệm về danh tính của một tác nhân hoặc khả năng xử lý tự tham chiếu và nội quan của nó."
 ---
-
 ## Definition
 
 Mặc dù AI hiện tại thiếu ý thức, nhưng thuật ngữ 'bản thân' thường mô tả các khả năng siêu nhận thức (meta-cognitive) nơi một mô hình phân tích chính các đầu ra, mức độ tin cậy hoặc trạng thái nội bộ của nó. Nó xuất hiện trong các ngữ cảnh...

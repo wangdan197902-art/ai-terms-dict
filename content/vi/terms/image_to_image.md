@@ -1,23 +1,24 @@
 ---
-title: "Chuyển đổi Hình ảnh sang Hình ảnh"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Chuyển đổi Hình ảnh sang Hình ảnh
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /vi/terms/image_to_image/
-date: "2026-07-18T15:57:39.836339Z"
-lastmod: "2026-07-18T16:38:07.768670Z"
+slug: image_to_image
+date: '2026-07-18T15:57:39.836339Z'
+lastmod: '2026-07-18T16:38:07.768670Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật AI tạo sinh biến đổi một hình ảnh đầu vào thành một phong cách, định dạng hoặc nội dung khác trong khi vẫn bảo toàn các yếu tố cấu trúc."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật AI tạo sinh biến đổi một hình ảnh đầu vào thành một phong
+  cách, định dạng hoặc nội dung khác trong khi vẫn bảo toàn các yếu tố cấu trúc.
 ---
-
 ## Definition
 
 Chuyển đổi Hình ảnh sang Hình ảnh (I2I) liên quan đến việc sử dụng các mô hình học sâu, chẳng hạn như GANs hoặc mô hình khuếch tán, để chuyển đổi một hình ảnh này sang hình ảnh khác. Khác với các bộ lọc đơn giản, I2I có thể thay đổi đáng kể ngoại hình, chẳng hạn như biến...

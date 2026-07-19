@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /pl/terms/smart_object/
 date: "2026-07-18T16:16:31.948194Z"
 lastmod: "2026-07-18T17:15:08.918007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Fizyczny obiekt wyposażony w czujniki, aktuatora i łączność, służący do zbierania danych i inteligentnej interakcji ze środowiskiem."
 ---
-
 ## Definition
 
 Obiekty inteligentne są komponentami Internetu Rzeczy (IoT), które posiadają unikalne identyfikatory oraz zdolność do przesyłania danych przez sieć bez bezpośredniej interakcji człowiek-człowiek lub człowiek-komputer.

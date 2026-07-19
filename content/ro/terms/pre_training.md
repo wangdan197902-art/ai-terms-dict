@@ -1,23 +1,25 @@
 ---
-title: "Pre-antrenare"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Pre-antrenare
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /ro/terms/pre_training/
-date: "2026-07-18T15:28:24.102605Z"
-lastmod: "2026-07-18T17:15:09.600944Z"
+slug: pre_training
+date: '2026-07-18T15:28:24.102605Z'
+lastmod: '2026-07-18T17:15:09.600944Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Faza inițială de antrenament a unui model de învățare automată pe un set de date mare, netichetat, pentru a învăța reprezentări generale înainte de ajustarea fină pe sarcini specifice."
+source: agnes_llm
+status: published
+language: ro
+description: Faza inițială de antrenament a unui model de învățare automată pe un
+  set de date mare, netichetat, pentru a învăța reprezentări generale înainte de ajustarea
+  fină pe sarcini specifice.
 ---
-
 ## Definition
 
 Pre-antrenarea este o tehnică fundamentală în învățarea profundă, unde un model învață caracteristici și tipare largi din cantități masive de date, adesea fără etichete. Acest proces permite modelului să dezvolte...

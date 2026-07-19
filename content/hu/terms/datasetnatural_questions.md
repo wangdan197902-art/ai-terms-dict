@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /hu/terms/datasetnatural_questions/
 date: "2026-07-18T15:55:03.106347Z"
 lastmod: "2026-07-18T17:15:09.770679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy nagyméretű adatbázis a nyílt tartományú kérdés-válasz rendszerek számára, amely valós felhasználói lekérdezéseket tartalmaz a Google Keresésből, párosítva annotált Wikipédia-részletekkel válaszkén"
 ---
-
 ## Definition
 
 A Natural Questions (NQ) egy benchmark adatbázis, amelyet a Google vezetett be a nyílt tartományú kérdés-válasz kutatás elősegítése érdekében. Valós, anonimizált keresési lekérdezéseket térképez fel hosszú formátumú válaszokra, amelyeket a Wikipédiából találtak.

@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /he/terms/machine_learning_in_physics/
 date: "2026-07-18T16:11:19.673143Z"
 lastmod: "2026-07-18T17:15:09.561723Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "יישום של למידת מכונה לפתרון בעיות פיזיקליות מורכבות, סימולציה של מערכות קוונטיות וניתוח נתונים ניסיוניים ממאיצי חלקיקים."
 ---
-
 ## Definition
 
 בפיזיקה, למידת מכונה מסייעת בסימולציה של מכניקת הקוונטים, ניתוח נתוני התנגשות באנרגיה גבוהה וגילוי חומרים חדשים. היא עוזרת לפיזיקאים לנווט במרחבי פרמטרים רב-ממדיים מורכבים.

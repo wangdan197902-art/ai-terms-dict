@@ -1,23 +1,24 @@
 ---
-title: "Antrenament Precoce Contrastiv Limbaj-Imagine"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Antrenament Precoce Contrastiv Limbaj-Imagine
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /ro/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:50:44.048214Z"
-lastmod: "2026-07-18T17:15:09.640001Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:50:44.048214Z'
+lastmod: '2026-07-18T17:15:09.640001Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metodă de antrenament preliminar multimodal care aliniază reprezentările imaginilor și textului folosind funcții de pierdere contrastivă."
+source: agnes_llm
+status: published
+language: ro
+description: O metodă de antrenament preliminar multimodal care aliniază reprezentările
+  imaginilor și textului folosind funcții de pierdere contrastivă.
 ---
-
 ## Definition
 
 Antrenamentul precoce contrastiv limbaj-imagine (CLIP) este o arhitectură de rețea neuronală antrenată pe imagini și legendile lor corespunzătoare, preluate de pe internet. Utilizează un obiectiv contrastiv pentru a maximiza similitudinea dintre perechile imagine-text corelate și a minimiza cea dintre cele necorelate.

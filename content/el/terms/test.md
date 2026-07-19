@@ -1,23 +1,23 @@
 ---
-title: "Δοκιμή"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Δοκιμή
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /el/terms/test/
-date: "2026-07-18T15:33:51.144650Z"
-lastmod: "2026-07-18T17:15:09.855969Z"
+slug: test
+date: '2026-07-18T15:33:51.144650Z'
+lastmod: '2026-07-18T17:15:09.855969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η δοκιμή αναφέρεται στη φάση αξιολόγησης όπου ένα εκπαιδευμένο μοντέλο ΤΝ αξιολογείται σε μη ορατά δεδομένα για τη μέτρηση της απόδοσης."
+source: agnes_llm
+status: published
+language: el
+description: Η δοκιμή αναφέρεται στη φάση αξιολόγησης όπου ένα εκπαιδευμένο μοντέλο
+  ΤΝ αξιολογείται σε μη ορατά δεδομένα για τη μέτρηση της απόδοσης.
 ---
-
 ## Definition
 
 Το σύνολο δοκιμών είναι ένα μέρος των δεδομένων που κρατείται εκτός κατά τη διαδικασία εκπαίδευσης για την αξιολόγηση της ικανότητας γενίκευσης του τελικού μοντέλου. Σε αντίθεση με τα σύνολα επικύρωσης που χρησιμοποιούνται για τη ρύθμιση υπερπαραμέτρων, το σύνολο δοκιμών παρέχει μια αμερόληπτη εκτίμηση

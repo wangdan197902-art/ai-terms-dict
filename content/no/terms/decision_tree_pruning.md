@@ -1,23 +1,23 @@
 ---
-title: "Beskjæring av beslutningstrær"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Beskjæring av beslutningstrær
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /no/terms/decision_tree_pruning/
-date: "2026-07-18T15:50:38.321039Z"
-lastmod: "2026-07-18T16:38:06.992048Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:50:38.321039Z'
+lastmod: '2026-07-18T16:38:06.992048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk for å redusere størrelsen på beslutningstrær ved å fjerne deler som gir liten nytte ved klassifisering."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk for å redusere størrelsen på beslutningstrær ved å fjerne
+  deler som gir liten nytte ved klassifisering.
 ---
-
 ## Definition
 
 Beskjæring er en metode brukt for å forhindre overtilpasning i beslutningstremodeller ved å fjerne grener som har svak prediktiv kraft. Det kan utføres som forkjøpsbeskjæring (ved å stoppe veksten tidlig) eller etterkjøpsbeskjæring (ved å fjerne unødvendige grener etter at treet er bygget).

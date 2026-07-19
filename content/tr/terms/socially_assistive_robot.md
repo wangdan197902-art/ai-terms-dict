@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /tr/terms/socially_assistive_robot/
 date: "2026-07-18T16:14:27.015262Z"
 lastmod: "2026-07-18T16:38:07.365944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Fiziksel görevler yerine insanlarla etkileşime girerek fiziksel veya psikolojik iyilik halini iyileştirmek için tasarlanmış bir robot."
 ---
-
 ## Definition
 
 Sosyal Destekleyici Robotlar (SAR'lar), fiziksel manipülasyondan ziyade sosyal yollar aracılığıyla yardım sağlamaya odaklanan insan-robot etkileşiminin bir alt kümesidir. Temas gerektirmeyen stratejiler kullanarak duygusal destek ve sosyal etkileşim sağlarlar.

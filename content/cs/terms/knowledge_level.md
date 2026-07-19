@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /cs/terms/knowledge_level/
 date: "2026-07-18T16:04:46.777306Z"
 lastmod: "2026-07-18T17:15:09.145467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Abstraktní návrhový pohled zaměřený na to, co agent ví, nikoliv na to, jak interně zpracovává informace."
 ---
-
 ## Definition
 
 Termín zavedl Allen Newell; úroveň znalostí analyzuje inteligentní systémy na základě jejich přesvědčení a cílů, nezávisle na fyzické implementaci. Odděluje racionalitu jednání agenta od mechanismů jeho fungování, což usnadňuje návrh a analýzu chování.

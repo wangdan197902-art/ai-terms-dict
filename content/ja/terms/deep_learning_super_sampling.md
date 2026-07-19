@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /ja/terms/deep_learning_super_sampling/
 date: "2026-07-18T11:11:23.704625Z"
 lastmod: "2026-07-18T11:44:45.088646Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIを使用して低解像度の画像を高解像度にアップスケールし、詳細を強化してアーティファクトを低減する技術。"
 ---
-
 ## Definition
 
 ディープラーニング・スーパーサンプリング（DLSS）は、ニューラルネットワークを利用して低解像度の入力から高解像度の画像を再構築する技術です。時間的データと空間的情報を分析することで、元の解像度を大幅に超える詳細な画像を生成し、パフォーマンスを最適化します。

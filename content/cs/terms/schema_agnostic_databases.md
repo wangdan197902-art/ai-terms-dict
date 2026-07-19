@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /cs/terms/schema_agnostic_databases/
 date: "2026-07-18T16:16:45.928792Z"
 lastmod: "2026-07-18T17:15:09.198881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Databáze nezávislé na schématu jsou systémy úložiště, které umožňují flexibilní strukturu dat bez nutnosti předem definovaného schématu, často používané v prostředích NoSQL."
 ---
-
 ## Definition
 
 Tyto databáze umožňují dynamické modelování dat tím, že nenutí pevné tabulkové struktury nebo definice sloupců předem. Tato flexibilita umožňuje vývojářům ukládat nestrukturovaná nebo polostrukturovaná data, což

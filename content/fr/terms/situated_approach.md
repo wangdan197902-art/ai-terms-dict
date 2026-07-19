@@ -1,23 +1,25 @@
 ---
-title: "Approche située"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Approche située
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /fr/terms/situated_approach/
-date: "2026-07-18T11:38:06.565411Z"
-lastmod: "2026-07-18T11:44:45.327813Z"
+slug: situated_approach
+date: '2026-07-18T11:38:06.565411Z'
+lastmod: '2026-07-18T11:44:45.327813Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un paradigme de conception en IA qui privilégie le comportement dépendant du contexte et l'interaction environnementale par rapport au raisonnement abstrait."
+source: agnes_llm
+status: published
+language: fr
+description: Un paradigme de conception en IA qui privilégie le comportement dépendant
+  du contexte et l'interaction environnementale par rapport au raisonnement abstrait.
 ---
-
 ## Definition
 
 L'approche située est un cadre méthodologique en recherche en IA qui soutient que le comportement intelligent ne peut être séparé de l'environnement dans lequel il se produit. Elle préconise la construction de systèmes qui interagissent directement avec leur environnement plutôt que de s'appuyer uniquement sur des modèles internes abstraits.

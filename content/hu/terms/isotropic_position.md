@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /hu/terms/isotropic_position/
 date: "2026-07-18T16:06:42.857183Z"
 lastmod: "2026-07-18T17:15:09.798297Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy konvex test geometriai transzformációja, ahol tehetetlenségi nyomaték mátrixa arányos az egységmátrixszal, ami leegyszerűsíti az elemzést."
 ---
-
 ## Definition
 
 A konvex geometriában és a magas dimenziós valószínűségszámításban egy pontkészlet vagy konvex test izotróp pozícióban van, ha tömegközéppontja az origóban helyezkedik el, és kovarianciamátrixa skalárszorosa az egységmátrixnak. Ez a normalizálás lehetővé teszi a geometriai tulajdonságok összehasonlíthatóságát és az analitikai számítások egyszerűsítését.

@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /th/terms/frontiermath/
-date: "2026-07-18T15:55:27.193802Z"
-lastmod: "2026-07-18T16:38:07.607631Z"
+slug: frontiermath
+date: '2026-07-18T15:55:27.193802Z'
+lastmod: '2026-07-18T16:38:07.607631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ชุดข้อมูลมาตรฐาน (benchmark) ที่ออกแบบมาเพื่อประเมินความสามารถในการให้เหตุผลทางคณิตศาสตร์ขั้นสูงของโมเดล AI รุ่นล่าสุด"
+source: agnes_llm
+status: published
+language: th
+description: ชุดข้อมูลมาตรฐาน (benchmark) ที่ออกแบบมาเพื่อประเมินความสามารถในการให้เหตุผลทางคณิตศาสตร์ขั้นสูงของโมเดล
+  AI รุ่นล่าสุด
 ---
-
 ## Definition
 
 FrontierMath เป็นชุดการประเมินเฉพาะทางที่สร้างขึ้นเพื่อทดสอบขีดจำกัดของโมเดลภาษาขนาดใหญ่ (LLMs) ในการแก้ปัญหาทางคณิตศาสตร์ที่ซับซ้อน ต่างจากชุดข้อมูลมาตรฐานทางคณิตศาสตร์ทั่วไป FrontierMath มุ่งเน้นไปที่การแก้ปัญหาที่มีความซับซ้อนสูงและต้องการการให้เหตุผลระดับลึก

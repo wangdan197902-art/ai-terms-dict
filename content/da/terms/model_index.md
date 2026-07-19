@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /da/terms/model_index/
 date: "2026-07-18T16:08:04.817473Z"
 lastmod: "2026-07-18T17:15:09.312805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et Model Index er en metadatafil, der bruges af Hugging Face Hub til at beskrive og organisere modelkomponenter og konfigurationer."
 ---
-
 ## Definition
 
 Indexfilen, typisk navngivet 'model_index.json', indeholder strukturerede oplysninger om en models arkitektur, herunder pipeline-type, undermodeller og konfigurationsstier. Den gør det muligt for Hubben at koordinere

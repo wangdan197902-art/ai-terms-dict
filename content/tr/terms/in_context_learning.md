@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /tr/terms/in_context_learning/
 date: "2026-07-18T15:23:00.947087Z"
 lastmod: "2026-07-18T16:38:07.226074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Modellerin, istem içinde sağlanan örnekleri gözlemleyerek görevleri öğrenmesini sağlayan bir teknik."
 ---
-
 ## Definition
 
 Bağlam içi öğrenme (ICL), büyük dil modellerinin ağırlıklarını güncellemeden yeni görevlere uyum sağlamasına olanak tanır. İstem bağlamı içindeki girdi-çıktı çiftlerini sağlayarak model

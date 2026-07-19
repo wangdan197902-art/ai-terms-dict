@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /id/terms/misinformation/
 date: "2026-07-18T16:00:31.384615Z"
 lastmod: "2026-07-18T16:38:07.483263Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Informasi yang salah atau tidak akurat yang disebarluaskan tanpa memandang niat untuk menipu."
 ---
-
 ## Definition
 
 Misinformasi merujuk pada informasi palsu atau menyesatkan yang dibagikan tanpa niat sadar untuk menyebabkan bahaya atau menipu. Ini berbeda dari disinformasi, yang sengaja dibuat. Dalam konteks AI

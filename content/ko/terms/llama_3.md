@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /ko/terms/llama_3/
 date: "2026-07-18T16:02:46.921844Z"
 lastmod: "2026-07-18T16:38:06.863914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "메타의 2024년 출시작으로, 80억 및 700억 파라미터 규모 전반에 걸쳐 추론, 코딩, 다국어 능력이 크게 향상된 고급 대규모 언어 모델입니다."
 ---
-
 ## Definition
 
 2024년 4월 소개된 라마 3은 라마 2의 성공을 바탕으로 성능과 능력에서 상당한 향상을 이루었습니다. 이 모델 패밀리는 80억 파라미터 및 700억 파라미터 버전을 포함하며, 더 나은 안전성과 효율성을 제공합니다.

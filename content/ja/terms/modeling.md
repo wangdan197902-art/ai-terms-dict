@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /ja/terms/modeling/
 date: "2026-07-18T10:52:35.462369Z"
 lastmod: "2026-07-18T11:44:45.013835Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデリングとは、予測、シミュレーション、または意思決定を可能にするために、現実世界のシステムやデータ分布の抽象的な表現を作成するプロセスです。"
 ---
-
 ## Definition
 
 AIにおけるモデリングは、データからパターンを学習するアルゴリズムの設計、訓練、検証を含む一連のワークフロー encompass します。これには、適切なアーキテクチャの選択、損失関数の定義、パラメータの最適化、そしてモデルの汎化性能の評価が含まれます。

@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /zh/terms/vision_based/
 date: "2026-07-18T10:59:01.893991Z"
 lastmod: "2026-07-18T11:44:45.396091Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "主要依赖视觉数据输入来感知和与世界交互的系统。"
 ---
-
 ## Definition
 
 基于视觉的范式利用摄像头和图像处理算法从视觉场景中提取有意义的信息。这些系统是机器人技术、自动驾驶和增强现实等领域的基础。

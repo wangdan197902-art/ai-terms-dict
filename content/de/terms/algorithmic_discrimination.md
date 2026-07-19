@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /de/terms/algorithmic_discrimination/
 date: "2026-07-18T11:02:25.839385Z"
 lastmod: "2026-07-18T11:44:44.907877Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Algorithmische Diskriminierung tritt auf, wenn automatisierte Systeme unfaire oder voreingenommene Ergebnisse produzieren, die bestimmte Gruppen aufgrund geschützter Merkmale benachteiligen."
 ---
-
 ## Definition
 
 Dieses Phänomen entsteht, wenn KI-Modelle Personen unbeabsichtigt oder systematisch aufgrund von Rasse, Geschlecht, Alter oder anderen sensiblen Attributen unterschiedlich behandeln. Es resultiert oft aus verzerrten Trainingsdaten oder fehlerhaften Modellannahmen.

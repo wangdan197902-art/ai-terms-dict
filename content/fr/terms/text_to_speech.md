@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /fr/terms/text_to_speech/
 date: "2026-07-18T11:41:05.742802Z"
 lastmod: "2026-07-18T11:44:45.345847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La synthèse vocale (TTS) est une technologie qui convertit le texte écrit en parole humaine naturelle."
 ---
-
 ## Definition
 
 La synthèse vocale (TTS) est un type de technologie d'assistance qui lit le texte numérique à haute voix pour l'utilisateur. Elle utilise des réseaux neuronaux avancés et des modèles acoustiques pour synthétiser une parole imitant l'intonation humaine.

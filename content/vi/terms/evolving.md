@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /vi/terms/evolving/
 date: "2026-07-18T15:25:17.152324Z"
 lastmod: "2026-07-18T16:38:07.684240Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mô tả các hệ thống hoặc thuật toán AI liên tục thích nghi và cải thiện theo thời gian thông qua dữ liệu mới hoặc phản hồi."
 ---
-
 ## Definition
 
 Thuật ngữ 'đang phát triển' đặc trưng cho các mô hình AI động, trải qua quá trình học hỏi và thích nghi liên tục thay vì giữ nguyên trạng thái tĩnh sau khi huấn luyện ban đầu. Khái niệm này là trung tâm của việc học suốt đời và...

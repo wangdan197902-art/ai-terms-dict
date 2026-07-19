@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /nl/terms/rademacher_complexity/
 date: "2026-07-18T16:14:52.969289Z"
 lastmod: "2026-07-18T17:15:08.782195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een statistische maat die wordt gebruikt in de leertheorie om de rijkdom van een functieklasse te kwantificeren aan de hand van het vermogen om willekeurige ruis te passen."
 ---
-
 ## Definition
 
 Rademacher-complexiteit evalueert hoe goed een hypothese-klasse kan correleren met willekeurige labels (ruis). Het dient als een proxy voor de capaciteit of flexibiliteit van het model. Een lagere complexiteit suggereert een betere generalisatie.

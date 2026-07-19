@@ -1,23 +1,24 @@
 ---
-title: "Aprendizaje proactivo"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Aprendizaje proactivo
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /es/terms/proactive_learning/
-date: "2026-07-18T11:04:31.411217Z"
-lastmod: "2026-07-18T11:44:44.844752Z"
+slug: proactive_learning
+date: '2026-07-18T11:04:31.411217Z'
+lastmod: '2026-07-18T11:44:44.844752Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una estrategia de aprendizaje donde el agente selecciona activamente puntos de datos informativos para consultar o explorar, en lugar de recibirlos pasivamente."
+source: agnes_llm
+status: published
+language: es
+description: Una estrategia de aprendizaje donde el agente selecciona activamente
+  puntos de datos informativos para consultar o explorar, en lugar de recibirlos pasivamente.
 ---
-
 ## Definition
 
 En el aprendizaje proactivo, el sistema de IA determina qué muestras reducirían más la incertidumbre o mejorarían el rendimiento del modelo, a menudo mediante estrategias de aprendizaje activo o exploración. Esto contrasta con...

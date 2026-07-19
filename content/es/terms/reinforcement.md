@@ -1,23 +1,23 @@
 ---
-title: "Refuerzo"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Refuerzo
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /es/terms/reinforcement/
-date: "2026-07-18T10:25:55.491403Z"
-lastmod: "2026-07-18T11:44:44.749285Z"
+slug: reinforcement
+date: '2026-07-18T10:25:55.491403Z'
+lastmod: '2026-07-18T11:44:44.749285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El refuerzo se refiere al proceso de modificar la conducta mediante recompensas o castigos para optimizar la toma de decisiones."
+source: agnes_llm
+status: published
+language: es
+description: El refuerzo se refiere al proceso de modificar la conducta mediante recompensas
+  o castigos para optimizar la toma de decisiones.
 ---
-
 ## Definition
 
 El refuerzo es un mecanismo psicológico y computacional fundamental donde las acciones de un agente se moldean por sus consecuencias. En el aprendizaje automático, implica proporcionar retroalimentación positiva (recompensas) para

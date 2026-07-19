@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /cs/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:04:09.205743Z"
 lastmod: "2026-07-18T17:15:09.144077Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Popřední recenzovaný akademický časopis zaměřený na publikování kvalitního výzkumu ve všech aspektech strojového učení."
 ---
-
 ## Definition
 
 Journal of Machine Learning Research (JMLR) je významná otevřená publikace, která slouží jako hlavní platforma pro šíření rigorózních vědeckých poznatků v oblasti strojového učení. Zabývá se teoretickými i praktickými aspekty oboru.

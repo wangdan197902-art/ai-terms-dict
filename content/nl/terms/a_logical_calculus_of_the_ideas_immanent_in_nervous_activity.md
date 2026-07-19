@@ -1,23 +1,25 @@
 ---
-title: "A Logical Calculus of the Ideas Immanent in Nervous Activity"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: A Logical Calculus of the Ideas Immanent in Nervous Activity
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /nl/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:39:30.283084Z"
-lastmod: "2026-07-18T17:15:08.710956Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:39:30.283084Z'
+lastmod: '2026-07-18T17:15:08.710956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een baanbrekend artikel uit 1943 van McCulloch en Pitts dat formaliseerde hoe neuronen logische bewerkingen kunnen uitvoeren, wat de basis legde voor kunstmatige neuronale netwerken."
+source: agnes_llm
+status: published
+language: nl
+description: Een baanbrekend artikel uit 1943 van McCulloch en Pitts dat formaliseerde
+  hoe neuronen logische bewerkingen kunnen uitvoeren, wat de basis legde voor kunstmatige
+  neuronale netwerken.
 ---
-
 ## Definition
 
 Dit fundamentele artikel stelde een wiskundig model van neuronale netwerken voor, waarbij werd aangetoond dat eenvoudige kunstmatige neuronen Boolean-logische poorten konden implementeren. Door te laten zien dat een netwerk van deze eenheden kon

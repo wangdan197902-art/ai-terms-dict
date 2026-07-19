@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /it/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:34:52.481581Z"
 lastmod: "2026-07-18T17:15:08.583743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il prompting del pensiero concatenato è una tecnica che incoraggia i modelli linguistici di grandi dimensioni (LLM) a generare passaggi di ragionamento intermedi prima di produrre una risposta finale."
 ---
-
 ## Definition
 
 Il prompting del pensiero concatenato (CoT) migliora le prestazioni dei modelli linguistici di grandi dimensioni su compiti di ragionamento complesso chiedendo esplicitamente al modello di articolare la sua logica passo dopo passo. Invece di saltare direttamente

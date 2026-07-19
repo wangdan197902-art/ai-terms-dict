@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /fi/terms/computational_humor/
 date: "2026-07-18T15:48:45.158131Z"
 lastmod: "2026-07-18T17:15:09.393025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyn ala, joka keskittyy huumorisisällön tuottamiseen, ymmärtämiseen ja arvostamiseen laskennallisten menetelmien avulla."
 ---
-
 ## Definition
 
 Laskennallinen huumori tutkii, miten koneet voivat tuottaa tai tulkita vitskejä, sanaleikkejä ja nokkelia huomioita. Se perustuu yleensä luonnollisen kielen käsittelyyn havaitakseen ristiriitoja, semanttisia muutoksia tai odottamattomia...

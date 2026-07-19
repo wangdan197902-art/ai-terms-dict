@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /ru/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:04:33.424174Z"
 lastmod: "2026-07-18T16:38:07.180265Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Это относится к использованию технологий ИИ в оборонном контексте, включая автономное оружие, наблюдение, оптимизацию логистики и системы поддержки принятия решений."
 ---
-
 ## Definition
 
 Военное применение ИИ охватывает широкий спектр технологий, предназначенных для повышения оперативной эффективности и стратегического преимущества. К ним относятся автономные дроны для разведки, прогнозиру...

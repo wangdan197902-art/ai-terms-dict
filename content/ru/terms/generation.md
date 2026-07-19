@@ -1,23 +1,24 @@
 ---
-title: "Генерация"
-term_id: "generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "nlp", "multimodal"]
+title: Генерация
+term_id: generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- NLP
+- multimodal
 difficulty: 3
 weight: 1
-slug: "generation"
-aliases:
-  - /ru/terms/generation/
-date: "2026-07-18T15:25:47.780920Z"
-lastmod: "2026-07-18T16:38:07.076621Z"
+slug: generation
+date: '2026-07-18T15:25:47.780920Z'
+lastmod: '2026-07-18T16:38:07.076621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс, посредством которого генеративные модели создают новые экземпляры данных, напоминающие распределение обучающей выборки."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс, посредством которого генеративные модели создают новые экземпляры
+  данных, напоминающие распределение обучающей выборки.
 ---
-
 ## Definition
 
 В искусственном интеллекте генерация относится к способности моделей, в частности генеративно-состязательных сетей (GAN) и больших языковых моделей (LLM) на базе трансформеров, создавать новый контент, такой как текст или изображения.

@@ -1,23 +1,24 @@
 ---
-title: "Hiedelem-cél-szándék modell"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Hiedelem-cél-szándék modell
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /hu/terms/beliefdesireintention_model/
-date: "2026-07-18T15:48:10.988022Z"
-lastmod: "2026-07-18T17:15:09.759757Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:48:10.988022Z'
+lastmod: '2026-07-18T17:15:09.759757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Filozófiai keretrendszer az AI-ban, amely hiedelmek, célok és szándékok alapján modellezi a racionális ügynököket."
+source: agnes_llm
+status: published
+language: hu
+description: Filozófiai keretrendszer az AI-ban, amely hiedelmek, célok és szándékok
+  alapján modellezi a racionális ügynököket.
 ---
-
 ## Definition
 
 A Hiedelem-Cél-Szándék (BDI) modell egy kognitív architektúra autonóm ügynökök tervezéséhez, amelyek racionális döntéseket hoznak. A hiedelmek az ügynök világképéről szóló tudását reprezentálják, a célok a kívánt állapotokat, a szándékok pedig a kiválasztott cselekvési terveket.

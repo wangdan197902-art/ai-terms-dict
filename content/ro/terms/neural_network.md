@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /ro/terms/neural_network/
 date: "2026-07-18T15:27:46.790305Z"
 lastmod: "2026-07-18T17:15:09.599529Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem de calcul inspirat de creierul biologic, format din noduri sau neuroni interconectați, organizați în straturi."
 ---
-
 ## Definition
 
 O rețea neuronală este o serie de algoritmi care încearcă să recunoască relațiile subiacente dintr-un set de date printr-un proces care imită modul de funcționare al creierului uman. Este compusă din straturi de neuroni artificiali conectați.

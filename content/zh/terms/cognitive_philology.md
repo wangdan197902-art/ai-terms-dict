@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /zh/terms/cognitive_philology/
 date: "2026-07-18T11:10:26.183944Z"
 lastmod: "2026-07-18T11:44:45.457843Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "认知语文学将计算方法和认知科学原理应用于语言、文学和文本历史的研究。"
 ---
-
 ## Definition
 
 认知语文学是一个跨学科领域，结合数字人文、语言学和认知科学来分析文本和语言演变。它利用计算工具来处理...

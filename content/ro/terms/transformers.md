@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /ro/terms/transformers/
 date: "2026-07-18T15:31:06.936948Z"
 lastmod: "2026-07-18T17:15:09.606290Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În acest context, se referă la biblioteca Hugging Face Transformers, un kit de dezvoltare open-source popular pentru modele de ultimă generație de NLP și multimodale."
 ---
-
 ## Definition
 
 Termenul 'Transformers' se referă adesea la biblioteca Python larg utilizată, întreținută de Hugging Face. Aceasta oferă interfețe ușor de utilizat pentru descărcarea, antrenarea și implementarea modelelor preantrenate bazate

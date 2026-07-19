@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /pl/terms/security/
 date: "2026-07-18T15:29:40.620925Z"
 lastmod: "2026-07-18T17:15:08.820766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Praktyka ochrony systemów sztucznej inteligencji przed nieautoryzowanym dostępem, nadużyciami i atakami złośliwego oprogramowania."
 ---
-
 ## Definition
 
 Bezpieczeństwo AI obejmuje środki mające na celu ochronę modeli uczenia maszynowego, potoków danych oraz infrastruktury wdrożeniowej przed takimi zagrożeniami, jak ataki adversarialne, trucie danych (data poisoning) oraz próby przejęcia kontroli nad modelem.

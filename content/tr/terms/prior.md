@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /tr/terms/prior/
 date: "2026-07-18T15:27:58.006177Z"
 lastmod: "2026-07-18T16:38:07.240627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bayes istatistiğinde, yeni kanıt veya veri gözlemlenmeden önce bir parametre hakkında sahip olunan bilgi veya inancı ifade eden olasılık dağılımı."
 ---
-
 ## Definition
 
 Bir 'ön bilgi dağılımı', yeni gözlemler dahil edilmeden önce bir değişken hakkında mevcut inançları veya tarihsel verileri temsil eder. Bayes çıkarımında, ön bilgi dağılımı gözlemlenen verilerin olasılığı (likelihood) ile birleştirilerek güncellenmiş bir sonuç olan arka bilgi dağılımı (posterior) elde edilir.

@@ -1,23 +1,23 @@
 ---
-title: "비동기 처리"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: 비동기 처리
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /ko/terms/async_processing/
-date: "2026-07-18T15:42:21.724829Z"
-lastmod: "2026-07-18T16:38:06.810399Z"
+slug: async_processing
+date: '2026-07-18T15:42:21.724829Z'
+lastmod: '2026-07-18T16:38:06.810399Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "주 실행 스레드와 독립적으로 작업을 실행하여 블로킹되지 않는 동작을 허용하는 프로그래밍 패러다임."
+source: agnes_llm
+status: published
+language: ko
+description: 주 실행 스레드와 독립적으로 작업을 실행하여 블로킹되지 않는 동작을 허용하는 프로그래밍 패러다임.
 ---
-
 ## Definition
 
 비동기 처리는 소프트웨어가 메인 애플리케이션 인터페이스가 멈추거나 다른 프로세스를 차단하지 않고도 I/O 작업이나 복잡한 계산과 같은 긴 시간 동안 실행되는 작업을 수행할 수 있게 합니다. 이벤트 루프와 콜백, 또는 Promise와 같은 메커니즘을 사용하여 작업 완료 시 알림을 받거나 결과를 처리함으로써 시스템의 응답성과 효율성을 높입니다.

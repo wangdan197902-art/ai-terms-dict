@@ -1,23 +1,23 @@
 ---
-title: "チャンキング"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: チャンキング
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /ja/terms/chunking/
-date: "2026-07-18T11:07:18.945813Z"
-lastmod: "2026-07-18T11:44:45.076481Z"
+slug: chunking
+date: '2026-07-18T11:07:18.945813Z'
+lastmod: '2026-07-18T11:44:45.076481Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "チャンキングとは、処理やインデックス作成のために、大きなドキュメントやデータストリームをより小さく管理可能なセグメントに分割するプロセスです。"
+source: agnes_llm
+status: published
+language: ja
+description: チャンキングとは、処理やインデックス作成のために、大きなドキュメントやデータストリームをより小さく管理可能なセグメントに分割するプロセスです。
 ---
-
 ## Definition
 
 チャンキングは、検索拡張生成（RAG）やその他のNLPパイプラインにおける重要な前処理ステップです。これは、テキストを固定サイズまたは意味的な単位（チャンク）に分割し、コンテキストウィンドウ内に収めることを含みます。

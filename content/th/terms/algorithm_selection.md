@@ -1,23 +1,23 @@
 ---
-title: "การเลือกอัลกอริทึม"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: การเลือกอัลกอริทึม
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /th/terms/algorithm_selection/
-date: "2026-07-18T15:39:59.432636Z"
-lastmod: "2026-07-18T16:38:07.571951Z"
+slug: algorithm_selection
+date: '2026-07-18T15:39:59.432636Z'
+lastmod: '2026-07-18T16:38:07.571951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเลือกอัลกอริทึมคือกระบวนการเลือกวิธีการคำนวณที่เหมาะสมที่สุดสำหรับปัญหาเฉพาะ โดยพิจารณาจากตัวชี้วัดประสิทธิภาพและข้อจำกัดต่าง ๆ"
+source: agnes_llm
+status: published
+language: th
+description: การเลือกอัลกอริทึมคือกระบวนการเลือกวิธีการคำนวณที่เหมาะสมที่สุดสำหรับปัญหาเฉพาะ
+  โดยพิจารณาจากตัวชี้วัดประสิทธิภาพและข้อจำกัดต่าง ๆ
 ---
-
 ## Definition
 
 การเลือกอัลกอริทึมเกี่ยวข้องกับการประเมินแนวทางคำนวณที่แตกต่างกันเพื่อหาวิธีที่แก้ปัญหาที่กำหนดได้อย่างมีประสิทธิภาพที่สุด กระบวนการนี้พิจารณาปัจจัยต่าง ๆ เช่น ความซับซ้อนของเวลา พื้นที่ และความแม่นยำ

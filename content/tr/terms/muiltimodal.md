@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /tr/terms/muiltimodal/
 date: "2026-07-18T16:04:49.902140Z"
 lastmod: "2026-07-18T16:38:07.337350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çok modlu, metin, görüntü ve ses gibi birden fazla veri türünü aynı anda işleyen ve entegre eden yapay zeka sistemlerini ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada çok modullluk, bir modelin farklı duyusal girdiler veya veri formatları arasında bilgiyi anlama, oluşturma veya ilişkilendirme yeteneğini tanımlar. Tek modlu modellerden farklı olarak...

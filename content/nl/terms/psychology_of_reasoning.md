@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /nl/terms/psychology_of_reasoning/
 date: "2026-07-18T16:13:31.976897Z"
 lastmod: "2026-07-18T17:15:08.779621Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De interdisciplinaire studie van hoe mensen oordelen vormen, beslissingen nemen en problemen oplossen, wat inzicht biedt in cognitieve AI-architecturen."
 ---
-
 ## Definition
 
 Dit vakgebied onderzoekt de mentale processen die ten grondslag liggen aan menselijke deductie, inductie en abductieve redenering. Het verkent bias, heuristieken en logische structuren die menselijk denken sturen. In AI bieden inzichten...

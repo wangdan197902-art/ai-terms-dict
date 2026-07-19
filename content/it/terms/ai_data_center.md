@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /it/terms/ai_data_center/
 date: "2026-07-18T15:42:23.363567Z"
 lastmod: "2026-07-18T17:15:08.593362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una struttura specializzata progettata per ospitare e gestire infrastrutture di calcolo ad alte prestazioni per carichi di lavoro IA."
 ---
-
 ## Definition
 
 Un data center per IA è una struttura fisica ottimizzata per eseguire applicazioni di intelligenza artificiale, in particolare l'addestramento e l'inferenza del deep learning. Questi centri presentano rack di server ad alta densità...

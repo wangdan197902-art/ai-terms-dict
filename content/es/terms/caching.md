@@ -1,23 +1,25 @@
 ---
-title: "Caché"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caché
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /es/terms/caching/
-date: "2026-07-18T10:39:00.104823Z"
-lastmod: "2026-07-18T11:44:44.784298Z"
+slug: caching
+date: '2026-07-18T10:39:00.104823Z'
+lastmod: '2026-07-18T11:44:44.784298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El caché es una técnica que consiste en almacenar datos de acceso frecuente en una capa de almacenamiento temporal de alta velocidad para reducir la latencia y disminuir la carga en las fuentes de dat"
+source: agnes_llm
+status: published
+language: es
+description: El caché es una técnica que consiste en almacenar datos de acceso frecuente
+  en una capa de almacenamiento temporal de alta velocidad para reducir la latencia
+  y disminuir la carga en las fuentes de dat
 ---
-
 ## Definition
 
 En la ingeniería de IA, el caché optimiza el rendimiento manteniendo los resultados de consultas recientes o frecuentes, predicciones de modelos o cálculos intermedios en memoria rápida (como RAM). Esto reduce la necesidad de expen

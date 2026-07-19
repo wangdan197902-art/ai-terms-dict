@@ -1,23 +1,24 @@
 ---
-title: "Perencanaan"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Perencanaan
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /id/terms/planning/
-date: "2026-07-18T15:35:24.562472Z"
-lastmod: "2026-07-18T16:38:07.417176Z"
+slug: planning
+date: '2026-07-18T15:35:24.562472Z'
+lastmod: '2026-07-18T16:38:07.417176Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses kognitif untuk menghasilkan urutan tindakan guna mencapai tujuan tertentu dalam lingkungan yang telah ditentukan."
+source: agnes_llm
+status: published
+language: id
+description: Proses kognitif untuk menghasilkan urutan tindakan guna mencapai tujuan
+  tertentu dalam lingkungan yang telah ditentukan.
 ---
-
 ## Definition
 
 Perencanaan dalam AI melibatkan penentuan urutan tindakan yang akan membawa dari keadaan awal ke keadaan tujuan yang diinginkan. Hal ini memerlukan penalaran tentang efek dari tindakan-tindakan tersebut dan kendala-kendala yang ada di lingkungan.

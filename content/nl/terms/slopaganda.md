@@ -1,23 +1,26 @@
 ---
-title: "Slopaganda"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopaganda
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /nl/terms/slopaganda/
-date: "2026-07-18T16:17:06.631963Z"
-lastmod: "2026-07-18T17:15:08.787544Z"
+slug: slopaganda
+date: '2026-07-18T16:17:06.631963Z'
+lastmod: '2026-07-18T17:15:08.787544Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een samentrekking van 'slow' (langzaam) en 'propaganda', verwijzend naar desinformatiecampagnes die gericht zijn op het ondermijnen van vertrouwen door langdurige, subtiele beïnvloeding."
+source: agnes_llm
+status: published
+language: nl
+description: Een samentrekking van 'slow' (langzaam) en 'propaganda', verwijzend naar
+  desinformatiecampagnes die gericht zijn op het ondermijnen van vertrouwen door langdurige,
+  subtiele beïnvloeding.
 ---
-
 ## Definition
 
 Slopaganda beschrijft een strategische vorm van desinformatie die zich baseert op herhaling, ambiguïteit en langetermijnblootstelling in plaats van virale schoktactieken. Het doel is om publieken te verwarren, de waarheid te verzachten en het vertrouwen in instituties te ondermijnen.

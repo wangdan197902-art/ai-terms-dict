@@ -1,23 +1,25 @@
 ---
-title: "Distilare"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Distilare
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /ro/terms/distillation/
-date: "2026-07-18T15:24:54.709143Z"
-lastmod: "2026-07-18T17:15:09.591807Z"
+slug: distillation
+date: '2026-07-18T15:24:54.709143Z'
+lastmod: '2026-07-18T17:15:09.591807Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Distilarea cunoștințelor este o tehnică de comprimare a modelelor în care un model student mai mic învață să imite comportamentul unui model profesor mai mare."
+source: agnes_llm
+status: published
+language: ro
+description: Distilarea cunoștințelor este o tehnică de comprimare a modelelor în
+  care un model student mai mic învață să imite comportamentul unui model profesor
+  mai mare.
 ---
-
 ## Definition
 
 Acest proces implică transferul cunoștințelor de la o rețea neuronală 'profesor' complexă și cu performanțe ridicate către o rețea 'student' mai simplă și mai eficientă. Studentul învață nu doar din etichetele dure (hard labels), ci și din probabilitățile relative ale claselor.

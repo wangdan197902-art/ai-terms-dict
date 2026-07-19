@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /pt/terms/way_of_the_future/
 date: "2026-07-18T15:26:53.721883Z"
 lastmod: "2026-07-18T15:51:59.541794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Este termo geralmente se refere à trajetória antecipada do avanço tecnológico, particularmente no que diz respeito à integração da IA na vida cotidiana e na indústria."
 ---
-
 ## Definition
 
 Embora não seja um termo técnico estrito, 'Caminho do Futuro' descreve a mudança de paradigma em direção a sistemas autônomos, assistentes de IA personalizados e processos automatizados de tomada de decisão. Ele encapsula a

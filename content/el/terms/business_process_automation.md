@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /el/terms/business_process_automation/
 date: "2026-07-18T15:54:13.111279Z"
 lastmod: "2026-07-18T17:15:09.886965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η χρήση τεχνολογίας για την εκτέλεση επαναλαμβανόμενων εργασιών ή διαδικασιών σε μια επιχείρηση, όπου η χειροκίνητη προσπάθεια μπορεί να αντικατασταθεί."
 ---
-
 ## Definition
 
 Η Αυτοματοποίηση Εργασιών Επιχείρησης (BPA) περιλαμβάνει την αξιοποίηση λογισμικού και ΤΝ για τη ροήπωση σύνθετων επιχειρησιακών ροών εργασίας. Σε αντίθεση με την απλή RPA (Robotic Process Automation) που διαχειρίζεται εργασίες βασισμένες σε κανόνες, η BPA συχνά

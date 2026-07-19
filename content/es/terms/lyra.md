@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /es/terms/lyra/
-date: "2026-07-18T10:58:36.798434Z"
-lastmod: "2026-07-18T11:44:44.828303Z"
+slug: lyra
+date: '2026-07-18T10:58:36.798434Z'
+lastmod: '2026-07-18T11:44:44.828303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Lyra se refiere a varias iniciativas o modelos de IA, siendo más notable un modelo de lenguaje grande de código abierto o una herramienta específica de búsqueda y descubrimiento potenciada por IA dise"
+source: agnes_llm
+status: published
+language: es
+description: Lyra se refiere a varias iniciativas o modelos de IA, siendo más notable
+  un modelo de lenguaje grande de código abierto o una herramienta específica de búsqueda
+  y descubrimiento potenciada por IA dise
 ---
-
 ## Definition
 
 En el contexto de la terminología moderna de IA, Lyra a menudo denota sistemas especializados enfocados en mejorar la interacción del usuario mediante el procesamiento del lenguaje natural. Puede referirse a un LLM de código abierto desarrollado

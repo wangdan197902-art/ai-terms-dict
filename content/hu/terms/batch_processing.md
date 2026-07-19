@@ -1,23 +1,24 @@
 ---
-title: "Kötegelt feldolgozás"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Kötegelt feldolgozás
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /hu/terms/batch_processing/
-date: "2026-07-18T15:47:14.891033Z"
-lastmod: "2026-07-18T17:15:09.758636Z"
+slug: batch_processing
+date: '2026-07-18T15:47:14.891033Z'
+lastmod: '2026-07-18T17:15:09.758636Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy számítási módszer, ahol az adatokat idővel gyűjtik össze, és csoportokban, nem pedig egyenként dolgozzák fel."
+source: agnes_llm
+status: published
+language: hu
+description: Egy számítási módszer, ahol az adatokat idővel gyűjtik össze, és csoportokban,
+  nem pedig egyenként dolgozzák fel.
 ---
-
 ## Definition
 
 A kötegelt feldolgozás során az adatbemeneteket egy csoportba, vagyis egy kötegbe aggregálják a számítás vagy a modellinferencia végrehajtása előtt. Ez a megközelítés ellentétben áll a valós idejű adatsugárzási feldolgozással, mivel lehetővé teszi a

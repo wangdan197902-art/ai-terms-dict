@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /hu/terms/data_exploration/
 date: "2026-07-18T15:53:01.000888Z"
 lastmod: "2026-07-18T17:15:09.767862Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az adathalmazok kezdeti elemzése mintázatok felfedezésére, anomáliák észlelésére és hipotézisek tesztelésére a formális modellezés előtt."
 ---
-
 ## Definition
 
 Az adatfeltárás, amelyet gyakran felfedező adatelemzésnek (EDA) is neveznek, a gépi tanítási munkafolyamatok kritikus előkészítő lépése. Ez magában foglalja az adatok fő jellemzőinek összefoglalását, gyakran vizualizációs módszerek alkalmazásával.

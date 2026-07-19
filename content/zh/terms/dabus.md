@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /zh/terms/dabus/
 date: "2026-07-18T11:12:24.479624Z"
 lastmod: "2026-07-18T11:44:45.470833Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "DABUS 是“统一意识自主引导设备”（Device for the Autonomous Bootstrapping of Unified Sentience）的缩写，是由斯蒂芬·塔勒（Stephen Thaler）创建的一个人工智能系统，声称能够自主发明技术。"
 ---
-
 ## Definition
 
 DABUS 是一种专门设计的人工神经网络，旨在无需人类直接干预的情况下生成新颖的发明。当其创造者斯蒂芬·塔勒试图为其申请专利时，该系统引起了巨大的法律关注……

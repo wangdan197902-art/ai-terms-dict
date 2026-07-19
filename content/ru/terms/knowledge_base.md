@@ -1,23 +1,25 @@
 ---
-title: "База знаний"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: База знаний
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /ru/terms/knowledge_base/
-date: "2026-07-18T15:34:36.688693Z"
-lastmod: "2026-07-18T16:38:07.106906Z"
+slug: knowledge_base
+date: '2026-07-18T15:34:36.688693Z'
+lastmod: '2026-07-18T16:38:07.106906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Централизованное хранилище структурированной информации, используемое для поддержки принятия решений и генерации с дополнением на основе поиска (RAG) в приложениях ИИ."
+source: agnes_llm
+status: published
+language: ru
+description: Централизованное хранилище структурированной информации, используемое
+  для поддержки принятия решений и генерации с дополнением на основе поиска (RAG)
+  в приложениях ИИ.
 ---
-
 ## Definition
 
 База знаний служит цифровой библиотекой, содержащей курируемые данные, документы или факты, к которым могут обращаться системы ИИ для предоставления точных ответов с учетом контекста. В современных архитектурах, таких как Retrieval-Augmented Generation (RAG), базы знаний позволяют моделям опираться на актуальные внешние источники информации.

@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /he/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T16:01:03.928352Z"
 lastmod: "2026-07-18T17:15:09.542875Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "GAMLSS הוא מסגרת סטטיסטית גמישה המאפשרת לדגמן את כל פרמטרים של התפלגות כפונקציות של משתנים מסבירים באמצעות החלקות הוספתיות."
 ---
-
 ## Definition
 
 בניגוד למודלי רגרסיה מסורתיים המתמקדים רק בממוצע, GAMLSS דוגמן את כל ההתפלגות, כולל מיקום (ממוצע/חציון), סקאלה (שונות), אסימטריה וגבוהות. הוא משתמש במודלים כלליים...

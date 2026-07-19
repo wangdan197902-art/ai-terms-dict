@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /pl/terms/universal_psychometrics/
 date: "2026-07-18T16:21:36.500886Z"
 lastmod: "2026-07-18T17:15:08.926951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zastosowanie standaryzowanych technik pomiarowych do oceny cech psychicznych w zróżnicowanych populacjach."
 ---
-
 ## Definition
 
 Uniwersalna psychometria obejmuje opracowywanie i stosowanie narzędzi oceny, które mogą niezawodnie mierzyć konstrukty psychologiczne, takie jak osobowość, zdolności poznawcze czy inteligencja emocjonalna, w sposób sprawiedliwy kulturowo. Celem jest zapewnienie, że wyniki testów są porównywalne i wiarygodne niezależnie od pochodzenia kulturowego badanej osoby.

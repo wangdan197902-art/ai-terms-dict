@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /no/terms/google_colab/
 date: "2026-07-18T15:57:19.205446Z"
 lastmod: "2026-07-18T16:38:07.005292Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et skybasert Jupyter-notatbokmiljø som lar brukere skrive og kjøre Python-kode via en nettleser med gratis tilgang til GPU-er."
 ---
-
 ## Definition
 
 Google Colaboratory, ofte kalt Colab, er en vertstjeneste for Jupyter-notatbøker som ikke krever oppsett og gir gratis tilgang til beregningsressurser, inkludert grafikkprosessorer (GPU-er) og mer.

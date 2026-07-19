@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /id/terms/benchmark/
 date: "2026-07-18T15:23:42.150462Z"
 lastmod: "2026-07-18T16:38:07.389273Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Titik acuan atau metrik standar yang digunakan untuk mengevaluasi kinerja model AI terhadap dasar yang telah ditetapkan."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, benchmark adalah serangkaian tes atau dataset terstandarisasi yang dirancang untuk mengukur kemampuan model pembelajaran mesin. Hal ini menyediakan kerangka kerja yang konsisten untuk membandingkan kinerja berbagai model.

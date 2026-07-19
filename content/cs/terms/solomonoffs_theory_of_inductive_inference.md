@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /cs/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T16:17:54.808098Z"
 lastmod: "2026-07-18T17:15:09.201641Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Formální matematický rámec pro předpovídání budoucích pozorování na základě minulých dat pomocí algoritmické pravděpodobnosti."
 ---
-
 ## Definition
 
 Vyvinutá Rayem Solomonoffem, tato teorie poskytuje univerzální model indukcí přiřazováním pravděpodobností sekvencím na základě jejich komplexity. Tvrdí, že jednodušší vysvětlení (kratší programy generující data) mají vyšší prioritu. Je to teoretický základ pro bayesovské předpovídání a algoritmy strojového učení, které se snaží minimalizovat délku popisu dat.

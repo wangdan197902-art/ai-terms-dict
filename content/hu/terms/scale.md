@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /hu/terms/scale/
 date: "2026-07-18T15:31:06.422269Z"
 lastmod: "2026-07-18T17:15:09.729528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A skálázás az adatok, paraméterek vagy számítási erőforrások nagyságrendjét jelöli a gépi tanulási modellekben."
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a skálázás általában az adathalmazok, modellparaméterek vagy számítási teljesítmény növelését jelenti a teljesítmény javítása érdekében. Ez a fogalom központi szerepet játszik a mélytanulásban, ahol a nagy

@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /ko/terms/cognitive_philology/
 date: "2026-07-18T15:45:30.077730Z"
 lastmod: "2026-07-18T16:38:06.817610Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인지 필로로지는 언어, 문학 및 텍스트 역사 연구에 계산 방법론과 인지과학의 원리를 적용하는 학문입니다."
 ---
-
 ## Definition
 
 인지 필로로지는 디지털 인문학, 언어학 및 인지과학을 결합하여 텍스트와 언어 진화를 분석하는 학제간 분야입니다. 이 분야는 계산 도구를 활용하여 프로세스를 수행합니다.

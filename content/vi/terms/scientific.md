@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /vi/terms/scientific/
 date: "2026-07-18T15:28:55.264516Z"
 lastmod: "2026-07-18T16:38:07.694951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khoa học trong AI đề cập đến việc áp dụng các phương pháp thực nghiệm nghiêm ngặt, kiểm định giả thuyết và khả năng tái lập trong nghiên cứu."
 ---
-
 ## Definition
 
 Tiếp cận khoa học trong trí tuệ nhân tạo nhấn mạnh vào phát triển và xác minh dựa trên bằng chứng. Nó bao gồm việc xây dựng các giả thuyết về hành vi của mô hình, tiến hành các thí nghiệm có kiểm soát và

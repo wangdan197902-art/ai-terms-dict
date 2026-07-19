@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /ro/terms/gated_recurrent_unit/
 date: "2026-07-18T15:59:28.000301Z"
 lastmod: "2026-07-18T17:15:09.658860Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un tip de arhitectură de rețea neuronală recurentă care utilizează mecanisme de porți pentru a controla fluxul de informații, servind ca o alternativă simplificată la LSTM."
 ---
-
 ## Definition
 
 O Unitate Recurentă cu Porți (GRU) este o celulă specializată de rețea neuronală recurentă (RNN), concepută pentru a captura dependențe pe termen lung în datele secvențiale. Simplifică arhitectura Memoriei Pe Termen Lung (LSTM)

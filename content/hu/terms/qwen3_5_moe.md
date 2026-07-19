@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /hu/terms/qwen3_5_moe/
 date: "2026-07-18T16:20:37.149633Z"
 lastmod: "2026-07-18T17:15:09.827630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Qwen3 széria hipotetikus vagy jövőbeli, nagy hatékonyságot biztosító ritka kevert-szakértő (sparse MoE) változata."
 ---
-
 ## Definition
 
 Ez a kifejezés a Qwen családba tartozó egy speciális architektúrára utal, amely valószínűleg Kevert Szakértők (Mixture of Experts, MoE) elvét alkalmazza. Ilyen modellek esetén a neurális hálózat paramétereinek csak egy részhalmaza (azaz a szakértők) aktiválódik a feldolgozás során, ami jelentős erőforrás-megtakarítást tesz lehetővé.

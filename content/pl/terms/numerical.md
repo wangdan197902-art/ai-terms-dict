@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /pl/terms/numerical/
 date: "2026-07-18T15:28:04.415308Z"
 lastmod: "2026-07-18T17:15:08.816799Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dotyczący, obejmujący lub używający liczb lub obliczeń matematycznych, zamiast logiki symbolicznej lub tekstu."
 ---
-
 ## Definition
 
 W kontekście sztucznej inteligencji i nauki o danych, liczbowy odnosi się do typów danych lub metod, które obejmują wartości ilościowe, takie jak liczby całkowite, zmiennoprzecinkowe i dziesiętne. W przeciwieństwie do danych kategorycznych czy tekstowych, dane liczbowe pozwalają na wykonywanie operacji arytmetycznych i statystycznych.

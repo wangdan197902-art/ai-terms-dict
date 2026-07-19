@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /vi/terms/rademacher_complexity/
 date: "2026-07-18T16:10:06.878686Z"
 lastmod: "2026-07-18T16:38:07.799468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thước đo thống kê được sử dụng trong lý thuyết học để định lượng sự phong phú của một lớp hàm thông qua khả năng khớp với nhiễu ngẫu nhiên."
 ---
-
 ## Definition
 
 Độ phức tạp Rademacher đánh giá mức độ mà một lớp giả thuyết có thể tương quan với các nhãn ngẫu nhiên (nhiễu). Nó đóng vai trò là đại diện cho năng lực hoặc độ linh hoạt của mô hình. Độ phức tạp thấp hơn gợi ý khả năng tổng quát hóa tốt hơn.

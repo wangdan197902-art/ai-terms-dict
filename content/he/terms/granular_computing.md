@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /he/terms/granular_computing/
 date: "2026-07-18T16:02:09.913684Z"
 lastmod: "2026-07-18T17:15:09.545211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "חישוב גרגירי הוא פרדיגמה העוסקת במידע ברמות שונות של מופשטות, ומארגנת נתונים למבנים משמעותיים הנקראים 'גרעיני מידע' (Information Granules)."
 ---
-
 ## Definition
 
 גישה זו מדמה תהליכים קוגניטיביים אנושיים על ידי קיבוץ נתונים לישויות ברמה גבוהה יותר ('גרעינים') במקום לעבד אלמנטים בודדים. היא כוללת טכניקות כמו קבוצות מחוספסות, לוגיקה מטושטשת ועיבוד אותות.

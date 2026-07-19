@@ -1,23 +1,24 @@
 ---
-title: "Tensores Comprimidos"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Tensores Comprimidos
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /pt/terms/compressed_tensors/
-date: "2026-07-18T14:53:35.780457Z"
-lastmod: "2026-07-18T15:51:59.472746Z"
+slug: compressed_tensors
+date: '2026-07-18T14:53:35.780457Z'
+lastmod: '2026-07-18T15:51:59.472746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Tensores cuja precisão de dados ou tamanho foi reduzido para otimizar o armazenamento e a eficiência computacional."
+source: agnes_llm
+status: published
+language: pt
+description: Tensores cuja precisão de dados ou tamanho foi reduzido para otimizar
+  o armazenamento e a eficiência computacional.
 ---
-
 ## Definition
 
 Tensores comprimidos são matrizes multidimensionais usadas em aprendizado profundo onde a precisão numérica (por exemplo, de float32 para int8) ou a esparsidade foi reduzida. Esta técnica, conhecida como quantização ou poda, permite que modelos maiores sejam executados em hardware com menos recursos, mantendo a precisão aceitável.

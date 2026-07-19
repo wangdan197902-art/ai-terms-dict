@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /no/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:49:32.723145Z"
 lastmod: "2026-07-18T16:38:06.988481Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et datasett som inneholder alternative leksikalske former brukt til å trene modeller på semantisk ekvivalens og gjenkjennelse av parafrazer."
 ---
-
 ## Definition
 
 Altlex-datasettet består av setningspar som deler samme underliggende betydning, men bruker forskjellig ordforråd eller syntaktiske strukturer. Det brukes hovedsakelig til å trene innbæringmodeller (embedding models).

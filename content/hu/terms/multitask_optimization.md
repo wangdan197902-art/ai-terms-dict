@@ -1,23 +1,24 @@
 ---
-title: "Többfeladatos optimalizálás"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Többfeladatos optimalizálás
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /hu/terms/multitask_optimization/
-date: "2026-07-18T16:14:14.404724Z"
-lastmod: "2026-07-18T17:15:09.816125Z"
+slug: multitask_optimization
+date: '2026-07-18T16:14:14.404724Z'
+lastmod: '2026-07-18T17:15:09.816125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy képzési stratégia, ahol egy modellt egyszerre több kapcsolódó feladat ellátására optimalizálnak."
+source: agnes_llm
+status: published
+language: hu
+description: Egy képzési stratégia, ahol egy modellt egyszerre több kapcsolódó feladat
+  ellátására optimalizálnak.
 ---
-
 ## Definition
 
 A többfeladatos optimalizálás egyetlen modell képzését jelenti több, egymással összefüggő, de különálló feladat egyszerre történő kezelésére. A feladatok közötti köztes reprezentációk megosztásával a modell általánosíthatóbb tudást sajátít el.

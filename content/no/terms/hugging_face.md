@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /no/terms/hugging_face/
-date: "2026-07-18T15:59:13.825196Z"
-lastmod: "2026-07-18T16:38:07.009453Z"
+slug: hugging_face
+date: '2026-07-18T15:59:13.825196Z'
+lastmod: '2026-07-18T16:38:07.009453Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En ledende plattform og fellesskap som tilbyr verktøy, modeller og datasett med åpen kildekode for utvikling av maskinlæring."
+source: agnes_llm
+status: published
+language: 'no'
+description: En ledende plattform og fellesskap som tilbyr verktøy, modeller og datasett
+  med åpen kildekode for utvikling av maskinlæring.
 ---
-
 ## Definition
 
 Hugging Face er et fremtredende selskap og en nettbasert plattform som har blitt sentral i økosystemet for åpen kildekode innen kunstig intelligens. Det tilbyr et omfattende bibliotek med forhåndstrenede modeller, datasett og demonstrasjonsapplikasjoner.

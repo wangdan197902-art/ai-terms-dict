@@ -1,23 +1,23 @@
 ---
-title: "Image Text To Text"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Image Text To Text
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /th/terms/image_text_to_text/
-date: "2026-07-18T15:59:50.596847Z"
-lastmod: "2026-07-18T16:38:07.617310Z"
+slug: image_text_to_text
+date: '2026-07-18T15:59:50.596847Z'
+lastmod: '2026-07-18T16:38:07.617310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ความสามารถของปัญญาประดิษฐ์แบบหลายรูปแบบ (Multimodal AI) ที่สร้างคำอธิบายหรือคำตอบทางข้อความจากภาพที่ป้อนเข้าและคำสั่งข้อความเพิ่มเติม"
+source: agnes_llm
+status: published
+language: th
+description: ความสามารถของปัญญาประดิษฐ์แบบหลายรูปแบบ (Multimodal AI) ที่สร้างคำอธิบายหรือคำตอบทางข้อความจากภาพที่ป้อนเข้าและคำสั่งข้อความเพิ่มเติม
 ---
-
 ## Definition
 
 Image Text To Text หมายถึงโมเดลที่ประมวลผลข้อมูลภาพร่วมกับคำถามหรือคำสั่งทางข้อความเพื่อผลิตผลลัพธ์ที่เป็นภาษาธรรมชาติที่สอดคล้องกัน ระบบเหล่านี้มักเรียกว่า Vision-Language Models (VLMs) ซึ่งรวมการทำความเข้าใจภาพและการประมวลผลภาษาเข้าด้วยกัน

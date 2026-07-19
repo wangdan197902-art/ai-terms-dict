@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /hu/terms/supervised/
 date: "2026-07-18T15:31:33.974555Z"
 lastmod: "2026-07-18T17:15:09.731090Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy gépi tanulási paradigm, ahol a modelleket címkézett bemenet-kimenet párokkal tanítják."
 ---
-
 ## Definition
 
 A felügyelt tanulás során az algoritmust olyan adatokkal etetik, amelyek tartalmazzák a bemeneteket és a helyes válaszokat (címkéket). A modell a predikciós hibák minimalizálásával tanulja meg leképezni a bemeneteket a kimenetekre.

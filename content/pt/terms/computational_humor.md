@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /pt/terms/computational_humor/
 date: "2026-07-18T14:53:51.706469Z"
 lastmod: "2026-07-18T15:51:59.472972Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A subárea da IA focada na geração, compreensão e apreciação de conteúdo humorístico por meio de métodos computacionais."
 ---
-
 ## Definition
 
 O humor computacional estuda como as máquinas podem produzir ou interpretar piadas, trocadilhos e observações espirituosas. Geralmente, depende do processamento de linguagem natural para detectar incongruências, mudanças semânticas ou expectativas não

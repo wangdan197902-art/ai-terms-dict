@@ -1,23 +1,24 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /tr/terms/locateanything/
-date: "2026-07-18T16:01:33.390473Z"
-lastmod: "2026-07-18T16:38:07.329285Z"
+slug: locateanything
+date: '2026-07-18T16:01:33.390473Z'
+lastmod: '2026-07-18T16:38:07.329285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Göreve özgü eğitim olmadan çeşitli görsel alanlarda sıfır-atış nesne yerleştirme ve segmentasyonu için tasarlanmış açık kaynaklı bir çerçeve."
+source: agnes_llm
+status: published
+language: tr
+description: Göreve özgü eğitim olmadan çeşitli görsel alanlarda sıfır-atış nesne
+  yerleştirme ve segmentasyonu için tasarlanmış açık kaynaklı bir çerçeve.
 ---
-
 ## Definition
 
 LocateAnything, doğal dil komutlarına veya genel öncellere dayalı olarak görüntülerdeki nesnelerin tespitini ve segmentasyonunu sağlayan çok yönlü bir bilgisayarlı görü çerçevesidir. Önceden eğitilmiş f...

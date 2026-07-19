@@ -1,23 +1,23 @@
 ---
-title: "異常検知"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: 異常検知
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /ja/terms/anomaly_detection/
-date: "2026-07-18T11:03:40.156568Z"
-lastmod: "2026-07-18T11:44:45.067102Z"
+slug: anomaly_detection
+date: '2026-07-18T11:03:40.156568Z'
+lastmod: '2026-07-18T11:44:45.067102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "データの大多数から著しく逸脱している稀な項目、イベント、または観測値を特定するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: データの大多数から著しく逸脱している稀な項目、イベント、または観測値を特定するプロセス。
 ---
-
 ## Definition
 
 異常検知（外れ値検出とも呼ばれます）は、期待される動作に適合しないパターンを見つけるためにデータを分析するものです。サイバーセキュリティ、不正検知、システム監視などで広く使用されています。

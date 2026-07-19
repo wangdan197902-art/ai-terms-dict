@@ -1,23 +1,24 @@
 ---
-title: "ตรรกะแคลคูลัสของความคิดที่มีอยู่ในกิจกรรมทางประสาท"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: ตรรกะแคลคูลัสของความคิดที่มีอยู่ในกิจกรรมทางประสาท
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /th/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:38:10.059138Z"
-lastmod: "2026-07-18T16:38:07.567094Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:38:10.059138Z'
+lastmod: '2026-07-18T16:38:07.567094Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "บทความสำคัญปี 1943 โดย McCulloch และ Pitts ที่ทำให้เป็นทางการว่าเซลล์ประสาทสามารถดำเนินการทางตรรกะได้อย่างไร ซึ่งเป็นรากฐานของเครือข่ายประสาทเทียม"
+source: agnes_llm
+status: published
+language: th
+description: บทความสำคัญปี 1943 โดย McCulloch และ Pitts ที่ทำให้เป็นทางการว่าเซลล์ประสาทสามารถดำเนินการทางตรรกะได้อย่างไร
+  ซึ่งเป็นรากฐานของเครือข่ายประสาทเทียม
 ---
-
 ## Definition
 
 บทความพื้นฐานนี้เสนอแบบจำลองทางคณิตศาสตร์ของเครือข่ายประสาท แสดงให้เห็นว่าเซลล์ประสาทเทียมแบบง่ายสามารถนำไปใช้กับประตูตรรกะบูลีนได้ โดยการแสดงให้เห็นว่าเครือข่ายของหน่วยเหล่านี้สามารถ

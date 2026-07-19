@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /hu/terms/object/
 date: "2026-07-18T15:28:49.398293Z"
 lastmod: "2026-07-18T17:15:09.725781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy különálló entitás egy programon belül, amely adatokat és azokat az adatokat manipuláló metódusokat tartalmaz, és központi szerepet játszik az objektumorientált programozásban."
 ---
-
 ## Definition
 
 Az objektum az informatika alapvető fogalma, különösen az objektumorientált programozásban (OOP). Egy osztály példányát képviseli, amely egyben tartalmazza az állapotot (attribútumokat vagy adatokat) és a viselked

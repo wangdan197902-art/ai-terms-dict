@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /ja/terms/unified_model/
 date: "2026-07-18T11:35:35.634016Z"
 lastmod: "2026-07-18T11:44:45.153347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "単一のフレームワーク内で複数のタスクやモダリティを処理するように設計されたAIアーキテクチャ。"
 ---
-
 ## Definition
 
 ユニファイドモデルとは、テキスト生成、画像認識、コード合成など、個別の専門モデルを必要とせずに、さまざまな異なるタスクを実行できる人工知能システムを指します。これにより、リソース効率と柔軟性が向上します。

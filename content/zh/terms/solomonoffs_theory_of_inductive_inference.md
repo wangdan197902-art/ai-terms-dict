@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /zh/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T11:34:21.076308Z"
 lastmod: "2026-07-18T11:44:45.555132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种基于算法概率，利用过去数据预测未来观察结果的正式数学框架。"
 ---
-
 ## Definition
 
 由雷·所罗门诺夫开发，该理论通过根据序列的复杂性为其分配概率，提供了一种通用的归纳模型。它主张更简单的解释（即较短的程序）具有更高的先验概率，从而为机器学习和人工智能中的模式识别和预测提供了理论基础。

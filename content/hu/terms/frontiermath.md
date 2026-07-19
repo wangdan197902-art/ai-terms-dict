@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /hu/terms/frontiermath/
-date: "2026-07-18T16:00:39.079506Z"
-lastmod: "2026-07-18T17:15:09.785950Z"
+slug: frontiermath
+date: '2026-07-18T16:00:39.079506Z'
+lastmod: '2026-07-18T17:15:09.785950Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy olyan benchmark adathalmaz, amelyet a legmodernebb mesterséges intelligencia modellek haladó matematikai érvelési képességeinek értékelésére terveztek."
+source: agnes_llm
+status: published
+language: hu
+description: Egy olyan benchmark adathalmaz, amelyet a legmodernebb mesterséges intelligencia
+  modellek haladó matematikai érvelési képességeinek értékelésére terveztek.
 ---
-
 ## Definition
 
 A FrontierMath egy specializált értékelési csomag, amelyet arra hoztak létre, hogy tesztelje a nagy nyelvi modellek határait a komplex matematikai problémamegoldás terén. A szabványos számtani benchmarkokkal ellentétben ez a hangsúlyt a magas szintű matematikai logikára és az összetett feladatok megoldására helyezi.

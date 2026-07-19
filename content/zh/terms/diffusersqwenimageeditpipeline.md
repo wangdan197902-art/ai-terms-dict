@@ -1,23 +1,24 @@
 ---
-title: "Diffusers:Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: Diffusers:Qwenimageeditpipeline
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /zh/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T11:15:08.259634Z"
-lastmod: "2026-07-18T11:44:45.489179Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T11:15:08.259634Z'
+lastmod: '2026-07-18T11:44:45.489179Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Hugging Face Diffusers 库中的一个管道，利用 Qwen-VL 模型进行基于指令的图像编辑任务。"
+source: agnes_llm
+status: published
+language: zh
+description: Hugging Face Diffusers 库中的一个管道，利用 Qwen-VL 模型进行基于指令的图像编辑任务。
 ---
-
 ## Definition
 
 该管道将 Qwen-Vision-Language 模型的能力集成到 Diffusers 框架中，以根据自然语言指令执行精确的图像修改。与生成式管道不同……

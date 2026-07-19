@@ -1,23 +1,25 @@
 ---
-title: "Diffusion Single File"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Diffusion Single File
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /id/terms/diffusion_single_file/
-date: "2026-07-18T15:48:27.542959Z"
-lastmod: "2026-07-18T16:38:07.451801Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:48:27.542959Z'
+lastmod: '2026-07-18T16:38:07.451801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Format distribusi untuk model difusi di mana semua bobot model, konfigurasi, dan terkadang kode inferensi digabungkan menjadi satu file untuk kemudahan portabilitas."
+source: agnes_llm
+status: published
+language: id
+description: Format distribusi untuk model difusi di mana semua bobot model, konfigurasi,
+  dan terkadang kode inferensi digabungkan menjadi satu file untuk kemudahan portabilitas.
 ---
-
 ## Definition
 
 Diffusion Single File merujuk pada strategi pengemasan untuk model pembelajaran mesin, khususnya model difusi, di mana seluruh artefak model—termasuk bobot biner, hiperparameter, dan arsitektur model—dikemas ke dalam satu file tunggal untuk memudahkan distribusi dan penggunaan.

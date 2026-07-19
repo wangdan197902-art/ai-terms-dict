@@ -1,23 +1,24 @@
 ---
-title: "Intelligenza generale artificiale"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Intelligenza generale artificiale
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /it/terms/artificial_general_intelligence/
-date: "2026-07-18T15:47:37.461697Z"
-lastmod: "2026-07-18T17:15:08.598626Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:47:37.461697Z'
+lastmod: '2026-07-18T17:15:08.598626Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "IA ipotetica dotata della capacità di comprendere, apprendere e applicare conoscenze in una vasta gamma di compiti a livello umano."
+source: agnes_llm
+status: published
+language: it
+description: IA ipotetica dotata della capacità di comprendere, apprendere e applicare
+  conoscenze in una vasta gamma di compiti a livello umano.
 ---
-
 ## Definition
 
 L'Intelligenza Generale Artificiale (AGI) si riferisce a un tipo di IA in grado di eseguire qualsiasi compito intellettuale che un essere umano può svolgere. A differenza dell'IA stretta, che eccelle in compiti specifici come gli scacchi o il riconoscimento...

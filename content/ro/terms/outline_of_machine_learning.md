@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /ro/terms/outline_of_machine_learning/
 date: "2026-07-18T16:14:36.949993Z"
 lastmod: "2026-07-18T17:15:09.688779Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O clasificare cuprinzătoare a paradigmelor, algoritmilor și metricilor de evaluare din învățarea automată."
 ---
-
 ## Definition
 
 Acest termen descrie clasificarea structurală a învățării automate în învățare supravegheată, nesupravegheată, semi-supravegheată și prin întărire. Include familii centrale de algoritmi, cum ar fi regresia lini

@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /pt/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T14:55:46.963830Z"
 lastmod: "2026-07-18T15:51:59.478503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados contendo frases originais e suas versões comprimidas para treinar modelos na preservação de informações."
 ---
-
 ## Definition
 
 Os conjuntos de dados de compressão de frases consistem em pares onde a frase alvo é uma versão encurtada da frase fonte, retendo o significado central enquanto remove informações redundantes. Esses conjuntos de dados são

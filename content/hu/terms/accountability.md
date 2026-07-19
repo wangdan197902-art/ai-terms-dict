@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /hu/terms/accountability/
 date: "2026-07-18T15:42:16.628218Z"
 lastmod: "2026-07-18T17:15:09.750925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az az elv, miszerint az AI-rendszerek fejlesztőinek és üzemeltetőinek felelősséget kell viselniük a rendszerek kimeneteiért és hatásaiért."
 ---
-
 ## Definition
 
 A mesterséges intelligencia területén az elszámoltathatóság azt az kötelezettséget jelenti, amelynek keretében az egyéneknek, szervezeteknek és fejlesztőknek felelősséget kell vállalniuk az AI-technológiák tervezéséért, bevezetéséért és következményeiért.

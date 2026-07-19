@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /pl/terms/gradient_descent/
 date: "2026-07-18T15:35:30.386287Z"
 lastmod: "2026-07-18T17:15:08.832852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Iteracyjny algorytm optymalizacji służący do minimalizacji funkcji straty poprzez dostosowanie parametrów modelu."
 ---
-
 ## Definition
 
 Opad gradientowy to iteracyjny algorytm optymalizacji pierwszego rzędu służący do znalezienia lokalnego minimum funkcji różniczkowalnej. W uczeniu maszynowym aktualizuje wagi modelu w kierunku przeciwnym do gradientu funkcji straty.

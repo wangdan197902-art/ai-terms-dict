@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /cs/terms/non_human/
 date: "2026-07-18T16:11:07.359442Z"
 lastmod: "2026-07-18T17:15:09.158503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V etice a sociologii AI termín „nelidský“ označuje umělé entity nebo systémy, které disponují agencí, inteligencí nebo sociální přítomností, ale postrádají biologické vědomí nebo lidskou identitu."
 ---
-
 ## Definition
 
 Tento termín se často používá v diskusích o právech, odpovědnosti a sociální integraci agentů AI, robotů a virtuálních asistentů. Zdůrazňuje rozdíl mezi biologickým člověkem a syntetickou entitou.

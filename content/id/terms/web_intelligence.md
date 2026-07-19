@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /id/terms/web_intelligence/
 date: "2026-07-18T16:13:15.634073Z"
 lastmod: "2026-07-18T16:38:07.519065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penerapan teknik cerdas untuk mengekstrak, mengelola, dan menganalisis informasi dari World Wide Web."
 ---
-
 ## Definition
 
 Inteligensi web melibatkan penggunaan penambangan data, pembelajaran mesin, dan teknologi semantik untuk memproses jumlah besar data tidak terstruktur yang tersedia di internet. Tujuannya adalah mengubah data web mentah menjadi wawasan yang dapat ditindaklanjuti untuk pengambilan keputusan.

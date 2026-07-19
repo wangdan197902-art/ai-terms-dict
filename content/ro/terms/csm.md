@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /ro/terms/csm/
 date: "2026-07-18T15:51:18.045744Z"
 lastmod: "2026-07-18T17:15:09.641088Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un acronim ambiguu care se referă de obicei la Modele de Vorbire Contextuale sau la Gestionarea Securității în Cloud în domenii tehnice specifice, fără o definiție universal standardizată în IA genera"
 ---
-
 ## Definition
 
 În contextul inteligenței artificiale și al tehnologiei, 'CSM' nu este un termen universal standardizat precum 'CNN' sau 'RNN'. Cel mai adesea, acesta se referă la Modele de Vorbire Contextuale în cercetarea procesării vorbirii, referindu-se la arhitecturi care înțeleg contextul lingvistic pentru o recunoaștere mai precisă.

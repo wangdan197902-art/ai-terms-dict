@@ -1,23 +1,24 @@
 ---
-title: "التحقق المتقاطع بإزالة عنصر واحد"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: التحقق المتقاطع بإزالة عنصر واحد
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /ar/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:05:49.915133Z"
-lastmod: "2026-07-18T17:15:08.522171Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:05:49.915133Z'
+lastmod: '2026-07-18T17:15:08.522171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية إعادة أخذ عينات دقيقة يتم فيها تدريب النموذج على جميع العينات باستثناء عينة واحدة واختباره على تلك العينة المحتجزة، وتُكرر العملية لكل نقطة بيانات."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية إعادة أخذ عينات دقيقة يتم فيها تدريب النموذج على جميع العينات باستثناء
+  عينة واحدة واختباره على تلك العينة المحتجزة، وتُكرر العملية لكل نقطة بيانات.
 ---
-
 ## Definition
 
 التحقق المتقاطع بإزالة عنصر واحد (LOOCV) هو حالة خاصة من التحقق المتقاطع متعدد الطيات حيث يساوي عدد الطيات (k) عدد العينات في مجموعة البيانات. يوفر تقديراً شبه غير متحيز لأداء النموذج.

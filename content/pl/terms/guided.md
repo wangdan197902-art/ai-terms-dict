@@ -1,23 +1,24 @@
 ---
-title: "Kierowany"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Kierowany
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /pl/terms/guided/
-date: "2026-07-18T15:26:20.255756Z"
-lastmod: "2026-07-18T17:15:08.812959Z"
+slug: guided
+date: '2026-07-18T15:26:20.255756Z'
+lastmod: '2026-07-18T17:15:08.812959Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Opisuje procesy lub metody generowania w SI, które są ograniczane lub kierowane przez konkretne sygnały zewnętrzne, ograniczenia lub cele pośrednie."
+source: agnes_llm
+status: published
+language: pl
+description: Opisuje procesy lub metody generowania w SI, które są ograniczane lub
+  kierowane przez konkretne sygnały zewnętrzne, ograniczenia lub cele pośrednie.
 ---
-
 ## Definition
 
 Termin „kierowany” w sztucznej inteligencji odnosi się zazwyczaj do technik, w których zachowanie modelu jest sterowane dodatkowymi informacjami wykraczającymi poza główne dane wejściowe. Typowymi przykładami są kierowane dyfuzje, gdzie klasa...

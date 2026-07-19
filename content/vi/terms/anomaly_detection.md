@@ -1,23 +1,24 @@
 ---
-title: "Phát hiện bất thường"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Phát hiện bất thường
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /vi/terms/anomaly_detection/
-date: "2026-07-18T15:40:10.663010Z"
-lastmod: "2026-07-18T16:38:07.727048Z"
+slug: anomaly_detection
+date: '2026-07-18T15:40:10.663010Z'
+lastmod: '2026-07-18T16:38:07.727048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quá trình xác định các mục, sự kiện hoặc quan sát hiếm gặp, có sự sai lệch đáng kể so với phần lớn dữ liệu."
+source: agnes_llm
+status: published
+language: vi
+description: Quá trình xác định các mục, sự kiện hoặc quan sát hiếm gặp, có sự sai
+  lệch đáng kể so với phần lớn dữ liệu.
 ---
-
 ## Definition
 
 Phát hiện bất thường, còn được gọi là phát hiện ngoại lai, liên quan đến việc phân tích dữ liệu để tìm các mẫu không phù hợp với hành vi dự kiến. Nó được sử dụng rộng rãi trong an ninh mạng, phát hiện gian lận và giám sát hệ

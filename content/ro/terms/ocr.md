@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /ro/terms/ocr/
 date: "2026-07-18T16:14:23.107734Z"
 lastmod: "2026-07-18T17:15:09.687948Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "OCR este o tehnologie care convertește diferite tipuri de documente, cum ar fi documente scanate sau imagini, în date editabile și căutabile."
 ---
-
 ## Definition
 
 Recunoașterea Optică a Caracterelor (OCR) utilizează algoritmi de procesare a imaginilor și recunoaștere a tiparelor pentru a identifica textul din imagini digitale. Transformă caracterele tipărite sau scrise de mână în date codificate de mașină.

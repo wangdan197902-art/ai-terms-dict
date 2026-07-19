@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /sv/terms/differential_privacy/
 date: "2026-07-18T15:53:51.594445Z"
 lastmod: "2026-07-18T17:15:08.995707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En rigorös matematisk ramverk som säkerställer att inkludering eller exkludering av en enskild individs data inte påverkar utfallet av en analys nämnvärt."
 ---
-
 ## Definition
 
 Differentiell integritet ger starka integritetsgarantier genom att lägga till kalibrerad statistisk brus till frågeresultat eller modellparametrar. Den kvantifierar den maximala mängden informationsläckage om någon enskild individ.

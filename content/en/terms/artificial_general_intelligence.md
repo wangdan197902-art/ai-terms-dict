@@ -1,23 +1,24 @@
 ---
-title: "Artificial general intelligence"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Artificial general intelligence
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /en/terms/artificial_general_intelligence/
-date: "2026-07-18T09:46:04.367716Z"
-lastmod: "2026-07-18T11:44:44.642398Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T09:46:04.367716Z'
+lastmod: '2026-07-18T11:44:44.642398Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "Hypothetical AI possessing the ability to understand, learn, and apply knowledge across a wide variety of tasks at a human level."
+source: agnes_llm
+status: published
+language: en
+description: Hypothetical AI possessing the ability to understand, learn, and apply
+  knowledge across a wide variety of tasks at a human level.
 ---
-
 ## Definition
 
 Artificial General Intelligence (AGI) refers to a type of AI that can perform any intellectual task that a human being can do. Unlike narrow AI, which excels at specific tasks like chess or image recognition, AGI would possess flexible reasoning, adaptability, and the capacity to transfer learning from one domain to another. It remains a theoretical goal for many researchers, involving challenges in common sense reasoning, abstract thinking, and autonomous learning. Achieving AGI would mark a significant milestone in computer science, potentially transforming society fundamentally.

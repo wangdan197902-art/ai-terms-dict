@@ -1,23 +1,24 @@
 ---
-title: "Προέλευση Περιεχομένου"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Προέλευση Περιεχομένου
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /el/terms/content_provenance/
-date: "2026-07-18T15:56:52.895612Z"
-lastmod: "2026-07-18T17:15:09.892402Z"
+slug: content_provenance
+date: '2026-07-18T15:56:52.895612Z'
+lastmod: '2026-07-18T17:15:09.892402Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η επαληθεύσιμη καταγραφή της προέλευσης, της ιστορίας και της ιδιοκτησίας ενός ψηφιακού περιεχομένου."
+source: agnes_llm
+status: published
+language: el
+description: Η επαληθεύσιμη καταγραφή της προέλευσης, της ιστορίας και της ιδιοκτησίας
+  ενός ψηφιακού περιεχομένου.
 ---
-
 ## Definition
 
 Η προέλευση περιεχομένου αναφέρεται στην τεκμηρίωση και την επαλήθευση του πού προήλθε το ψηφιακό περιεχόμενο, πώς δημιουργήθηκε και ποιοι το τροποποίησαν με την πάροδο του χρόνου. Στο πλαίσιο της Τεχνητής Νοημοσύνης, είναι κρίσιμη για τον συνδυασμό...

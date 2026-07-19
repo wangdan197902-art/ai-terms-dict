@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /ru/terms/outline_of_machine_learning/
 date: "2026-07-18T16:08:56.807722Z"
 lastmod: "2026-07-18T16:38:07.188803Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Комплексная классификация парадигм, алгоритмов и метрик оценки в машинном обучении."
 ---
-
 ## Definition
 
 Этот термин описывает структурную классификацию машинного обучения на обучение с учителем, без учителя, полуобучение и обучение с подкреплением. Включает основные семейства алгоритмов, такие как линейная регрессия, деревья решений и методы кластеризации.

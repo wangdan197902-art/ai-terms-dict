@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /vi/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:41:03.767355Z"
 lastmod: "2026-07-18T16:38:07.729235Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự hội tụ giữa AI và IoT, cho phép các thiết bị thông minh xử lý dữ liệu tại chỗ và đưa ra quyết định tự động."
 ---
-
 ## Definition
 
 Trí tuệ nhân tạo của vạn vật (AIoT) đại diện cho sự tích hợp hiệp đồng giữa công nghệ Trí tuệ nhân tạo (AI) và Internet of Things (IoT). Bằng cách nhúng trực tiếp các thuật toán AI vào các thiết bị IoT hoặc...

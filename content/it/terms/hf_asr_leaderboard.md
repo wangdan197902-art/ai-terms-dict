@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /it/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:03:14.837901Z"
 lastmod: "2026-07-18T17:15:08.633037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un sistema di classificazione su Hugging Face che valuta e confronta le prestazioni dei modelli di Riconoscimento Automatico del Parlatore (ASR)."
 ---
-
 ## Definition
 
 La Classifica ASR di HF è una piattaforma di metriche guidata dalla comunità ospitata da Hugging Face, che traccia le prestazioni all'avanguardia nel Riconoscimento Automatico del Parlatore. Permette a ricercatori e sviluppatori di benchmarkare i propri modelli rispetto agli standard attuali.

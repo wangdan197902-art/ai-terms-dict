@@ -1,23 +1,25 @@
 ---
-title: "Diffusers:Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: Diffusers:Stablediffusionxlpipeline
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /de/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T11:12:07.751946Z"
-lastmod: "2026-07-18T11:44:44.933323Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T11:12:07.751946Z'
+lastmod: '2026-07-18T11:44:44.933323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Pipeline für Stable Diffusion XL (SDXL), die im Vergleich zu vorherigen Versionen eine erhöhte Auflösung, Details und Befolgung von Prompts bietet."
+source: agnes_llm
+status: published
+language: de
+description: Eine Pipeline für Stable Diffusion XL (SDXL), die im Vergleich zu vorherigen
+  Versionen eine erhöhte Auflösung, Details und Befolgung von Prompts bietet.
 ---
-
 ## Definition
 
 Diese Pipeline implementiert die Stable Diffusion XL-Architektur, die ein verfeinertes Basismodell und ein Refiner-Modell verwendet, um hochauflösende (1024x1024) Bilder mit überlegenen Details und Komposition zu erzeugen. Sie...

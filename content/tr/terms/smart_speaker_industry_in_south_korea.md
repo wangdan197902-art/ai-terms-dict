@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /tr/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:14:27.015222Z"
 lastmod: "2026-07-18T16:38:07.365829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Güney Kore içinde ses kontrollü cihazlar sunan donanım üreticileri ve AI hizmet sağlayıcılarını içeren pazar ekosistemi."
 ---
-
 ## Definition
 
 Bu terim, yüksek akıllı telefon nüfuzu ve gelişmiş geniş bant altyapısı ile karakterize edilen Güney Kore'deki akıllı hoparlörlere özgü bölgesel pazar dinamiklerini ifade eder. Büyük teknoloji şirketleri ve yerel girişimlerin bu alandaki etkileşimini kapsar.

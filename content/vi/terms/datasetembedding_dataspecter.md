@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /vi/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:47:44.323040Z"
 lastmod: "2026-07-18T16:38:07.744500Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu quy mô lớn dựa trên các ấn phẩm và trích dẫn trong lĩnh vực Khoa học Máy tính, được thiết kế để huấn luyện các mô hình nhúng bài báo học thuật."
 ---
-
 ## Definition
 
 Bộ dữ liệu Specter được xây dựng từ một tập hợp khổng lồ các bài báo Khoa học Máy tính, tận dụng mạng lưới trích dẫn để tạo ra tín hiệu học có giám sát. Nó ghép nối phần tóm tắt (abstract) với các bài báo khác trích dẫn nó nhằm mục đích

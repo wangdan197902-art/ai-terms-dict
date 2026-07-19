@@ -1,23 +1,23 @@
 ---
-title: "LLM-as-a-Judge"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM-as-a-Judge
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /ja/terms/llm_as_a_judge/
-date: "2026-07-18T11:21:04.219441Z"
-lastmod: "2026-07-18T11:44:45.114041Z"
+slug: llm_as_a_judge
+date: '2026-07-18T11:21:04.219441Z'
+lastmod: '2026-07-18T11:44:45.114041Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "別のLLMを使用して、基準に対して回答をスコアリングまたはランク付けすることで、大規模言語モデルの出力を評価する方法。"
+source: agnes_llm
+status: published
+language: ja
+description: 別のLLMを使用して、基準に対して回答をスコアリングまたはランク付けすることで、大規模言語モデルの出力を評価する方法。
 ---
-
 ## Definition
 
 LLM-as-a-Judgeは、大規模言語モデルが他のモデルからの出力品質に対する自動評価者として機能する評価パラダイムです。人間の注釈担当者や厳格なルールだけに依存するのではなく、

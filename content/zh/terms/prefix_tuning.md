@@ -1,23 +1,23 @@
 ---
-title: "前缀微调"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: 前缀微调
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /zh/terms/prefix_tuning/
-date: "2026-07-18T11:30:18.063193Z"
-lastmod: "2026-07-18T11:44:45.544372Z"
+slug: prefix_tuning
+date: '2026-07-18T11:30:18.063193Z'
+lastmod: '2026-07-18T11:44:45.544372Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种参数高效的微调方法，通过在变换器层的输入端添加可训练的连续向量来实现适配。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种参数高效的微调方法，通过在变换器层的输入端添加可训练的连续向量来实现适配。
 ---
-
 ## Definition
 
 前缀微调是一种用于预训练变换器的参数高效适应技术。与更新所有模型权重不同，它在输入序列前prepend（前置）一系列可训练的连续向量（即前缀），从而冻结主干网络并仅优化少量参数以适应新任务。

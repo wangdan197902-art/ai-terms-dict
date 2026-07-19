@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /ro/terms/automated_negotiation/
 date: "2026-07-18T15:46:37.466735Z"
 lastmod: "2026-07-18T17:15:09.631138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea agenților de inteligență artificială pentru a conduce autonom negocieri și a ajunge la acorduri între părți."
 ---
-
 ## Definition
 
 Negocierea automatizată implică agenți software care reprezintă interesele umane în procesele de negociere. Acești agenți utilizează teoria jocurilor, algoritmi de optimizare și învățare automată pentru a propune oferte, a evalua contrapropunerile și a găsi soluții optime.

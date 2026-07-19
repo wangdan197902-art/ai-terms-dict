@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /th/terms/elmo/
 date: "2026-07-18T15:51:15.443307Z"
 lastmod: "2026-07-18T16:38:07.600933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Embeddings from Language Models วิธีการแสดงแทนคำที่มีบริบทเชิงลึก โดยใช้ LSTM แบบสองทิศทาง"
 ---
-
 ## Definition
 
 ELMo สร้างเวกเตอร์แทนคำที่ไวต่อบริบท (context-sensitive word embeddings) โดยประมวลผลข้อความผ่าน LSTM แบบสองทิศทาง (bidirectional LSTM) ที่ได้รับการฝึกฝนจากคลังข้อความขนาดใหญ่ ต่างจากเวกเตอร์คงที่เช่น Word2Vec ELMo สามารถจับความหมายหลายประการของคำ (polysemy) ได้โดยการสร้างเวกเตอร์ที่แตกต่างกันขึ้นอยู่กับบริบทของประโยค

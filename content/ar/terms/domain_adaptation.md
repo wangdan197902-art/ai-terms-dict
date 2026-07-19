@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /ar/terms/domain_adaptation/
 date: "2026-07-18T15:54:34.459168Z"
 lastmod: "2026-07-18T17:15:08.498844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "أسلوب في تعلم الآلة يحسن أداء النموذج على مجال مستهدف من خلال الاستفادة من المعرفة المكتسبة من مجال مصدر."
 ---
-
 ## Definition
 
 يعالج تكيف المجال التحدي الناتج عن اختلاف توزيعات بيانات التدريب والاختبار. من خلال مواءمة تمثيلات الميزات بين مجال مصدر مُعلّم ومجال مستهدف غير مُعلّم أو قليل التعلّم، يمكن تحسين دقة النموذج.

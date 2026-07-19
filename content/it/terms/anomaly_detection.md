@@ -1,23 +1,24 @@
 ---
-title: "Rilevamento delle anomalie"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Rilevamento delle anomalie
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /it/terms/anomaly_detection/
-date: "2026-07-18T15:46:27.633409Z"
-lastmod: "2026-07-18T17:15:08.597564Z"
+slug: anomaly_detection
+date: '2026-07-18T15:46:27.633409Z'
+lastmod: '2026-07-18T17:15:08.597564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di identificazione di elementi, eventi o osservazioni rari che si discostano significativamente dalla maggior parte dei dati."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di identificazione di elementi, eventi o osservazioni rari
+  che si discostano significativamente dalla maggior parte dei dati.
 ---
-
 ## Definition
 
 Il rilevamento delle anomalie, noto anche come rilevamento degli outlier, comporta l'analisi dei dati per trovare modelli che non conformano al comportamento atteso. È ampiamente utilizzato nella sicurezza informatica, nel rilevamento delle frodi e nella manutenzione dei sistemi.

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /vi/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:49:43.471018Z"
-lastmod: "2026-07-18T16:38:07.750309Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:49:43.471018Z'
+lastmod: '2026-07-18T16:38:07.750309Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một pipeline cho Stable Diffusion XL (SDXL), cung cấp độ phân giải, chi tiết và sự tuân thủ lệnh gợi ý vượt trội so với các phiên bản trước."
+source: agnes_llm
+status: published
+language: vi
+description: Một pipeline cho Stable Diffusion XL (SDXL), cung cấp độ phân giải, chi
+  tiết và sự tuân thủ lệnh gợi ý vượt trội so với các phiên bản trước.
 ---
-
 ## Definition
 
 Pipeline này triển khai kiến trúc Stable Diffusion XL, sử dụng một mô hình cơ sở đã tinh chỉnh và một mô hình tinh chỉnh lại (refiner) để tạo ra ảnh độ phân giải cao (1024x1024) với chi tiết và bố cục vượt trội. Nó

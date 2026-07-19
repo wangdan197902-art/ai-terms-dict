@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /id/terms/understanding/
 date: "2026-07-18T15:30:34.302270Z"
 lastmod: "2026-07-18T16:38:07.406343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam AI, kemampuan model untuk memahami makna semantik, konteks, dan niat dalam data masukan, bukan sekadar pencocokan pola."
 ---
-
 ## Definition
 
 Pemahaman AI melampaui korelasi statistik untuk menafsirkan makna mendasar dari data. Untuk model bahasa, ini melibatkan pemahaman sintaksis, semantik, dan pragmatik untuk menghasilkan respons yang koheren dan

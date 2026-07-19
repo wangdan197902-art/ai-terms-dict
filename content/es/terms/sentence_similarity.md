@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /es/terms/sentence_similarity/
 date: "2026-07-18T11:07:34.367396Z"
 lastmod: "2026-07-18T11:44:44.853180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una métrica o tarea que cuantifica qué tan similares son dos oraciones semánticamente, a menudo representada como una puntuación numérica."
 ---
-
 ## Definition
 
 La similitud de oraciones mide el grado de superposición semántica entre dos oraciones distintas. Va más allá de la coincidencia léxica para comprender el significado, el contexto y la intención. Esto se logra típicamente mediante la comparación de sus representaciones vectoriales.

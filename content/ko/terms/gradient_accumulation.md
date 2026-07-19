@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /ko/terms/gradient_accumulation/
 date: "2026-07-18T15:57:41.310185Z"
 lastmod: "2026-07-18T16:38:06.847133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "여러 순전파/역전파 단계에 걸쳐 그래디언트를 합산하여 가중치를 업데이트하기 전에 더 큰 배치 크기를 시뮬레이션하는 기법입니다."
 ---
-
 ## Definition
 
 이 최적화 전략은 GPU 메모리에 맞지 않는 효과적인 배치 크기로 딥러닝 모델을 학습할 수 있게 합니다. 여러 미니 배치에서 그래디언트를 누적하고 수행함으로써 메모리 효율성을 높입니다.

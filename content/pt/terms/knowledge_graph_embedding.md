@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /pt/terms/knowledge_graph_embedding/
 date: "2026-07-18T15:07:05.715610Z"
 lastmod: "2026-07-18T15:51:59.505139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma técnica que mapeia entidades e relações em um grafo de conhecimento para espaços vetoriais contínuos, preservando a semântica estrutural."
 ---
-
 ## Definition
 
 Os métodos de incorporação de grafos de conhecimento, como TransE ou DistMult, transformam estruturas gráficas discretas em vetores densos de baixa dimensão. Isso permite que modelos de aprendizado de máquina realizem operações matemáticas nas representações das entidades e relações, facilitando tarefas como previsão de links e classificação de nós.

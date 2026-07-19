@@ -1,23 +1,24 @@
 ---
-title: "Scribe médical automatisé"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Scribe médical automatisé
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /fr/terms/automated_medical_scribe/
-date: "2026-07-18T11:06:00.365592Z"
-lastmod: "2026-07-18T11:44:45.200814Z"
+slug: automated_medical_scribe
+date: '2026-07-18T11:06:00.365592Z'
+lastmod: '2026-07-18T11:44:45.200814Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un système alimenté par l'IA qui génère automatiquement la documentation clinique à partir des interactions entre le médecin et le patient."
+source: agnes_llm
+status: published
+language: fr
+description: Un système alimenté par l'IA qui génère automatiquement la documentation
+  clinique à partir des interactions entre le médecin et le patient.
 ---
-
 ## Definition
 
 Les scribes médicaux automatisés utilisent le traitement automatique du langage naturel (TALN) et la reconnaissance vocale pour écouter les conversations entre le médecin et le patient et créer des dossiers de santé électroniques structurés. Cette technologie permet d'alléger la charge administrative des praticiens tout en garantissant une traçabilité précise des soins.

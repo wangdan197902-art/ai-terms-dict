@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /ar/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:21:01.486702Z"
 lastmod: "2026-07-18T17:15:08.548621Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "النظام البيئي للسوق الذي يشمل مصنعي الأجهزة ومقدمي خدمات الذكاء الاصطناعي الذين يقدمون أجهزة تعمل بالتحكم الصوتي داخل كوريا الجنوبية."
 ---
-
 ## Definition
 
 يشير هذا المصطلح إلى ديناميكيات السوق الإقليمية المحددة المحيطة بالسماعات الذكية في كوريا الجنوبية، والتي تتميز بنسبة انتشار عالية للهواتف الذكية وبنية تحتية متقدمة للنطاق العريض. يتضمن ذلك الشركات الكبرى...

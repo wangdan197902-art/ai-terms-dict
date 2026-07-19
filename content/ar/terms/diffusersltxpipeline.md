@@ -1,23 +1,25 @@
 ---
-title: "خط أنابيب LTX في Diffusers"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: خط أنابيب LTX في Diffusers
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /ar/terms/diffusersltxpipeline/
-date: "2026-07-18T15:53:48.481288Z"
-lastmod: "2026-07-18T17:15:08.497013Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:53:48.481288Z'
+lastmod: '2026-07-18T17:15:08.497013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تطبيق خط أنابيب في Diffusers محسن لنماذج LTX (مثل النصوص إلى الفيديو بسرعة البرق أو نماذج توليد عالية السرعة مشابهة)، مع التركيز على الاستدلال السريع."
+source: agnes_llm
+status: published
+language: ar
+description: تطبيق خط أنابيب في Diffusers محسن لنماذج LTX (مثل النصوص إلى الفيديو
+  بسرعة البرق أو نماذج توليد عالية السرعة مشابهة)، مع التركيز على الاستدلال السريع.
 ---
-
 ## Definition
 
 تم تصميم خط أنابيب LTX خصيصاً للنماذج التي تعطي الأولوية للسرعة والكفاءة في المهام التوليدية، وغالباً ما تستخدم طرق أخذ عينات مبسطة أو مسرعة. ويتكامل بسلاسة مع Diffusers.

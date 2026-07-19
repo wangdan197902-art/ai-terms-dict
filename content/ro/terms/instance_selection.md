@@ -1,23 +1,24 @@
 ---
-title: "Selecția instanțelor"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Selecția instanțelor
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /ro/terms/instance_selection/
-date: "2026-07-18T16:05:00.205020Z"
-lastmod: "2026-07-18T17:15:09.669175Z"
+slug: instance_selection
+date: '2026-07-18T16:05:00.205020Z'
+lastmod: '2026-07-18T17:15:09.669175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de preprocesare care reduce dimensiunea unui set de date prin selectarea unui subansamblu de instanțe reprezentative."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de preprocesare care reduce dimensiunea unui set de date prin
+  selectarea unui subansamblu de instanțe reprezentative.
 ---
-
 ## Definition
 
 Selecția instanțelor vizează îmbunătățirea eficienței computaționale și a performanței modelului prin eliminarea punctelor de date redundante sau zgomotoase. Spre deosebire de selecția caracteristicilor, aceasta operează pe rândurile setului de date. Obiectivul principal este...

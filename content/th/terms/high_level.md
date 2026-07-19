@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /th/terms/high_level/
 date: "2026-07-18T15:32:19.337376Z"
 lastmod: "2026-07-18T16:38:07.554811Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "หมายถึงการแสดงแทนแบบนามธรรมหรืออินเทอร์เฟซการเขียนโปรแกรมที่ซ่อนรายละเอียดการดำเนินงานระดับต่ำจากผู้ใช้"
 ---
-
 ## Definition
 
 ใน AI คำว่า 'ระดับสูง' หมายถึง abstraction ที่ช่วยให้กระบวนการซับซ้อนง่ายขึ้น ภาษาหรือ API ระดับสูง (เช่น Python หรือ TensorFlow) ช่วยให้นักพัฒนาสร้างโมเดลได้โดยไม่ต้องจัดการกับหน่วยความจำหรือฮาร์ดแวร์โดยตรง ซึ่งเพิ่มประสิทธิภาพการทำงานและความรวดเร็วในการพัฒนา

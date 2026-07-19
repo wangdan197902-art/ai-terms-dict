@@ -1,23 +1,24 @@
 ---
-title: "Языково-действенный подход"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Языково-действенный подход
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /ru/terms/languageaction_perspective/
-date: "2026-07-18T16:00:49.264802Z"
-lastmod: "2026-07-18T16:38:07.173563Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:00:49.264802Z'
+lastmod: '2026-07-18T16:38:07.173563Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теоретическая рамка, рассматривающая язык прежде всего как форму социального действия, а не просто как систему описания реальности."
+source: agnes_llm
+status: published
+language: ru
+description: Теоретическая рамка, рассматривающая язык прежде всего как форму социального
+  действия, а не просто как систему описания реальности.
 ---
-
 ## Definition
 
 Основанный на теории речевых актов и прагматике, этот подход подчеркивает, как высказывания выполняют такие функции, как запрос, обещание или приказ. В обработке естественного языка он информирует разработку систем понимания намерений.

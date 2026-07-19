@@ -1,23 +1,23 @@
 ---
-title: "Loss"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Loss
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /id/terms/loss/
-date: "2026-07-18T15:27:07.159837Z"
-lastmod: "2026-07-18T16:38:07.396848Z"
+slug: loss
+date: '2026-07-18T15:27:07.159837Z'
+lastmod: '2026-07-18T16:38:07.396848Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Nilai numerik yang mengukur kesalahan antara prediksi model dan nilai target sebenarnya."
+source: agnes_llm
+status: published
+language: id
+description: Nilai numerik yang mengukur kesalahan antara prediksi model dan nilai
+  target sebenarnya.
 ---
-
 ## Definition
 
 Fungsi loss, juga dikenal sebagai fungsi biaya, mengukur seberapa baik prediksi model pembelajaran mesin sesuai dengan kebenaran dasar selama pelatihan. Tujuan dari algoritma optimasi adalah meminimalkan nilai

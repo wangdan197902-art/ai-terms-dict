@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /pl/terms/case_based_reasoning/
 date: "2026-07-18T15:45:12.998168Z"
 lastmod: "2026-07-18T17:15:08.852917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Rozumowanie oparte na przypadkach (CBR) to podejście rozwiązywania problemów w AI, które wykorzystuje przeszłe doświadczenia lub podobne przypadki do znalezienia rozwiązań dla nowych problemów."
 ---
-
 ## Definition
 
 CBR opiera się na zasadzie, że podobne problemy mają podobne rozwiązania. Proces obejmuje pobranie najbardziej podobnego historycznego przypadku z bazy wiedzy, dostosowanie jego rozwiązania do obecnej sytuacji oraz ocenę skuteczności nowego rozwiązania.

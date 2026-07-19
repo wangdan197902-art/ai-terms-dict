@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /id/terms/brain_technology/
 date: "2026-07-18T15:41:18.108864Z"
 lastmod: "2026-07-18T16:38:07.434642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Teknologi yang dirancang untuk berinteraksi, memantau, atau memodulasi otak manusia, termasuk Antarmuka Otak-Komputer (BCI) dan alat pencitraan saraf."
 ---
-
 ## Definition
 
 Teknologi otak mencakup sistem perangkat keras dan perangkat lunak yang berinteraksi langsung dengan sistem saraf pusat. Contoh utamanya termasuk Antarmuka Otak-Komputer (BCI) yang menerjemahkan sinyal saraf

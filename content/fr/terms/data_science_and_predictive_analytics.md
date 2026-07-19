@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /fr/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T11:11:07.428031Z"
 lastmod: "2026-07-18T11:44:45.213431Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Ce domaine combine l'analyse statistique et l'apprentissage automatique pour extraire des informations pertinentes des données et prévoir des événements ou comportements futurs."
 ---
-
 ## Definition
 
 La science des données implique un processus interdisciplinaire visant à extraire des connaissances à partir de données structurées et non structurées, tandis que l'analyse prédictive se concentre spécifiquement sur l'utilisation de données historiques pour prédire

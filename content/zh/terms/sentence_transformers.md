@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /zh/terms/sentence_transformers/
 date: "2026-07-18T11:33:07.044654Z"
 lastmod: "2026-07-18T11:44:45.553153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "专门设计用于为任意文本句子生成固定大小向量嵌入的神经网络架构。"
 ---
-
 ## Definition
 
 句子变换器是传统变换器模型（如BERT）的扩展，经过微调以产生整个句子的有意义稠密向量表示。与标准的基于标记的模型不同，它们直接输出句子级别的嵌入。

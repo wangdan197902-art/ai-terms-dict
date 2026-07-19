@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /sv/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:11:33.741087Z"
 lastmod: "2026-07-18T17:15:09.031293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En AI-metod som kombinerar neurala nätverks inlärningsförmåga med symbolisk resonemangs logik och transparens."
 ---
-
 ## Definition
 
 Neuro-symboolsk AI integrerar sub-symboliska neurala inlärningsmetoder med symboliska logikbaserade resonemangssystem. Denna hybrida metod syftar till att övervinna begränsningarna hos ren djupinlärning, såsom brist på...

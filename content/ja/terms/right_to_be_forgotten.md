@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /ja/terms/right_to_be_forgotten/
 date: "2026-07-18T11:37:07.583134Z"
 lastmod: "2026-07-18T11:44:45.157655Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "個人が組織が保有する自身の個人データの削除を請求できる法的概念。"
 ---
-
 ## Definition
 
 忘れられる権利により、ユーザーはデータベースやAIのトレーニングセットから自身の個人情報の除去を要求できます。機械学習においてこれを実装するのは困難です。なぜなら、モデルは学習したデータを完全に忘却することができない場合があるためです。

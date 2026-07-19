@@ -1,23 +1,24 @@
 ---
-title: "Vyhledávání (Retrieval)"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Vyhledávání (Retrieval)
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /cs/terms/retrieval/
-date: "2026-07-18T15:38:35.855338Z"
-lastmod: "2026-07-18T17:15:09.093392Z"
+slug: retrieval
+date: '2026-07-18T15:38:35.855338Z'
+lastmod: '2026-07-18T17:15:09.093392Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces získávání relevantních dat z databáze nebo znalostní báze za účelem obohacení vstupů modelu."
+source: agnes_llm
+status: published
+language: cs
+description: Proces získávání relevantních dat z databáze nebo znalostní báze za účelem
+  obohacení vstupů modelu.
 ---
-
 ## Definition
 
 Vyhledávání označuje technický proces vyhledávání a extrakce konkrétních informací z velkých datových sad nebo externích znalostních bází na základě uživatelských dotazů nebo kontextu. V moderních systémech AI je klíčovou součástí architektur RAG (Retrieval-Augmented Generation), kde umožňuje modelu pracovat se znalostmi mimo jeho trénovací data.

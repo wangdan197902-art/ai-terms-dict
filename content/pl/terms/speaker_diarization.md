@@ -1,23 +1,23 @@
 ---
-title: "Diaryzacja mówcy"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Diaryzacja mówcy
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /pl/terms/speaker_diarization/
-date: "2026-07-18T16:18:57.343952Z"
-lastmod: "2026-07-18T17:15:08.920110Z"
+slug: speaker_diarization
+date: '2026-07-18T16:18:57.343952Z'
+lastmod: '2026-07-18T17:15:08.920110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces określający 'kiedy i kto mówił' w nagraniu audio."
+source: agnes_llm
+status: published
+language: pl
+description: Proces określający 'kiedy i kto mówił' w nagraniu audio.
 ---
-
 ## Definition
 
 Diaryzacja mówcy to zadanie polegające na podziale strumienia audio na jednorodne segmenty zgodnie z tożsamością mówcy. Łączy ona wykrywanie zmiany mówcy z klasteryzacją mówców, aby oznaczyć...

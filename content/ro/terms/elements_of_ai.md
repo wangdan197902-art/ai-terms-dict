@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /ro/terms/elements_of_ai/
 date: "2026-07-18T15:56:01.885998Z"
 lastmod: "2026-07-18T17:15:09.651794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Elementele Inteligenței Artificiale este un curs online gratuit conceput să ofere o introducere amplă, non-tehnică, la conceptele inteligenței artificiale și impactul lor societal."
 ---
-
 ## Definition
 
 Creat de Universitatea din Helsinki și Reaktor, această inițiativă educațională își propune să demistifice AI-ul pentru publicul larg. Acoperă subiecte fundamentale precum învățarea automată, învățarea profundă, etica și implicațiile sociale ale tehnologiei.

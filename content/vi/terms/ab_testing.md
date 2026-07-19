@@ -1,23 +1,24 @@
 ---
-title: "Kiểm thử A/B"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: Kiểm thử A/B
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /vi/terms/ab_testing/
-date: "2026-07-18T15:38:05.038287Z"
-lastmod: "2026-07-18T16:38:07.716589Z"
+slug: ab_testing
+date: '2026-07-18T15:38:05.038287Z'
+lastmod: '2026-07-18T16:38:07.716589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp thống kê để so sánh hai phiên bản của một biến nhằm xác định phiên bản nào hoạt động tốt hơn."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp thống kê để so sánh hai phiên bản của một biến nhằm xác
+  định phiên bản nào hoạt động tốt hơn.
 ---
-
 ## Definition
 
 Kiểm thử A/B là một thí nghiệm có kiểm soát ngẫu nhiên trong đó hai biến thể, A và B, được so sánh để đánh giá biến thể nào mang lại kết quả tốt hơn trên một chỉ số cụ thể. Trong kỹ thuật AI, đây là yếu tố quan trọng để tối ưu hóa hiệu suất mô hình và trải nghiệm người dùng.

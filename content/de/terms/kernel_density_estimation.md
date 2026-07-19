@@ -1,23 +1,24 @@
 ---
-title: "Kernel-Dichteschätzung"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel-Dichteschätzung
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /de/terms/kernel_density_estimation/
-date: "2026-07-18T11:20:16.151377Z"
-lastmod: "2026-07-18T11:44:44.954187Z"
+slug: kernel_density_estimation
+date: '2026-07-18T11:20:16.151377Z'
+lastmod: '2026-07-18T11:44:44.954187Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine nichtparametrische Methode zur Schätzung der Wahrscheinlichkeitsdichtefunktion einer Zufallsvariable auf Basis einer endlichen Datenstichprobe."
+source: agnes_llm
+status: published
+language: de
+description: Eine nichtparametrische Methode zur Schätzung der Wahrscheinlichkeitsdichtefunktion
+  einer Zufallsvariable auf Basis einer endlichen Datenstichprobe.
 ---
-
 ## Definition
 
 Die Kernel-Dichteschätzung (KDE) ist eine grundlegende statistische Technik, die diskrete Datenpunkte glättet, um eine kontinuierliche Kurve der Wahrscheinlichkeitsverteilung zu erstellen. Dabei wird eine Kernelfunktion, typischerweise eine Gauß-

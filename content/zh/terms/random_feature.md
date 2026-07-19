@@ -1,23 +1,23 @@
 ---
-title: "随机特征"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: 随机特征
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /zh/terms/random_feature/
-date: "2026-07-18T11:31:50.443887Z"
-lastmod: "2026-07-18T11:44:45.549412Z"
+slug: random_feature
+date: '2026-07-18T11:31:50.443887Z'
+lastmod: '2026-07-18T11:44:45.549412Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种利用随机投影将输入数据映射到高维空间的技术，以高效近似核方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种利用随机投影将输入数据映射到高维空间的技术，以高效近似核方法。
 ---
-
 ## Definition
 
 随机特征映射将输入转换到新空间，使线性模型能够近似非线性核函数。这种方法通常与 Nyström 方法或傅里叶特征相关联，允许在保持计算效率的同时处理复杂的非线性关系。

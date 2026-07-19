@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้โมเดลการกระทำ"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: การเรียนรู้โมเดลการกระทำ
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /th/terms/action_model_learning/
-date: "2026-07-18T15:39:32.713900Z"
-lastmod: "2026-07-18T16:38:07.570650Z"
+slug: action_model_learning
+date: '2026-07-18T15:39:32.713900Z'
+lastmod: '2026-07-18T16:38:07.570650Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ที่เอเจนต์เรียนรู้พลวัตของสิ่งแวดล้อมโดยการสังเกตผลกระทบจากการกระทำของตนเอง"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ที่เอเจนต์เรียนรู้พลวัตของสิ่งแวดล้อมโดยการสังเกตผลกระทบจากการกระทำของตนเอง
 ---
-
 ## Definition
 
 การเรียนรู้โมเดลการกระทำเกี่ยวข้องกับการที่เอเจนต์สร้างการแสดงภายใน (internal representation) ของวิธีการที่การกระทำของมันเปลี่ยนสิ่งแวดล้อมจากสถานะหนึ่งไปยังอีกสถานะหนึ่ง วิธีการนี้แตกต่างจากการสังเกตแบบพาสซีฟ โดยอาศัยประโยชน์จากข้อมูลเชิงลึกจากการลงมือปฏิบัติจริงเพื่อสร้างแบบจำลอง

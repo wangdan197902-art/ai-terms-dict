@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /ja/terms/intelligent_automation/
 date: "2026-07-18T11:19:53.227465Z"
 lastmod: "2026-07-18T11:44:45.110438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能とロボティックプロセスオートメーション（RPA）を組み合わせ、複雑で構造化されていないビジネスプロセスを処理すること。"
 ---
-
 ## Definition
 
 インテリジェントオートメーションは、従来のロボティックプロセスオートメーション（RPA）に、機械学習や自然言語処理などの高度なAI技術を統合します。RPAがルールベースで構造化されたタスクを扱うのに対し、インテリジェントオートメーションは非構造化データの処理や判断を可能にします。

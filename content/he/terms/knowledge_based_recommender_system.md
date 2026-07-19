@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /he/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:08:42.995659Z"
 lastmod: "2026-07-18T17:15:09.555593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מנוע המלצות היוצר הצעות על ידי הסקה לוגית מתוך ידע מפורש בתחום ואילוצי משתמש, במקום נתונים היסטוריים."
 ---
-
 ## Definition
 
 בניגוד לסינון שיתופי המסתמך על התנהגות עבר של משתמשים, מערכות המלצה מבוססות ידע (KBRS) משתמשות בידע מפורש על פריטים והעדפות משתמשים כדי להפיק המלצות. הן יעילות במיוחד בשווקים עם נתונים דלילים.

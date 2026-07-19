@@ -1,23 +1,25 @@
 ---
-title: "ליירה"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: ליירה
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /he/terms/lyra/
-date: "2026-07-18T16:11:04.007563Z"
-lastmod: "2026-07-18T17:15:09.560575Z"
+slug: lyra
+date: '2026-07-18T16:11:04.007563Z'
+lastmod: '2026-07-18T17:15:09.560575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ליירה מתייחסת למגוון יוזמות או מודלים של בינה מלאכותית, בולטות שבהן מודל שפה גדול בקוד פתוח או כלי חיפוש וגילוי מבוסס בינה מלאכותית המיועד לשפר את איסוף המידע."
+source: agnes_llm
+status: published
+language: he
+description: ליירה מתייחסת למגוון יוזמות או מודלים של בינה מלאכותית, בולטות שבהן מודל
+  שפה גדול בקוד פתוח או כלי חיפוש וגילוי מבוסס בינה מלאכותית המיועד לשפר את איסוף
+  המידע.
 ---
-
 ## Definition
 
 בהקשר של טרמינולוגיית הבינה המלאכותית העכשווית, ליירה מציינת לעיתים קרובות מערכות בינה מלאכותית מיוחדות המתמקדות בשיפור האינטראקציה עם המשתמש באמצעי עיבוד שפה טבעית. היא עשויה להתייחס למודל שפה גדול בקוד פתוח שפותח

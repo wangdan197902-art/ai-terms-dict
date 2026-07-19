@@ -1,23 +1,23 @@
 ---
-title: "แบบจำลองที่ใช้พลังงาน"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: แบบจำลองที่ใช้พลังงาน
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /th/terms/energy_based_model/
-date: "2026-07-18T15:51:59.004509Z"
-lastmod: "2026-07-18T16:38:07.602918Z"
+slug: energy_based_model
+date: '2026-07-18T15:51:59.004509Z'
+lastmod: '2026-07-18T16:38:07.602918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แบบจำลองความน่าจะเป็นที่กำหนดค่าพลังงานต่ำให้กับค่าที่เป็นไปได้ และค่าพลังงานสูงให้กับค่าที่เป็นไปไม่ได้หรือไม่สมเหตุสมผล"
+source: agnes_llm
+status: published
+language: th
+description: แบบจำลองความน่าจะเป็นที่กำหนดค่าพลังงานต่ำให้กับค่าที่เป็นไปได้ และค่าพลังงานสูงให้กับค่าที่เป็นไปไม่ได้หรือไม่สมเหตุสมผล
 ---
-
 ## Definition
 
 แบบจำลองที่ใช้พลังงาน (EBMs) กำหนดการแจกแจงความน่าจะเป็นเหนือข้อมูลอินพุตโดยใช้ฟังก์ชันความหนาแน่นที่ยังไม่ได้ทำนอร์มัลไลซ์ ซึ่งได้จากฟังก์ชันพลังงาน ฟังก์ชันพลังงานจะแมปจุดข้อมูลไปยังจำนวนจริง

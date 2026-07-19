@@ -1,23 +1,24 @@
 ---
-title: "Reconnaissance automatique de la parole"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Reconnaissance automatique de la parole
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /fr/terms/automatic_speech_recognition/
-date: "2026-07-18T11:06:00.365643Z"
-lastmod: "2026-07-18T11:44:45.201090Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T11:06:00.365643Z'
+lastmod: '2026-07-18T11:44:45.201090Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technologie qui convertit la langue parlée en texte à l'aide de modèles d'apprentissage profond."
+source: agnes_llm
+status: published
+language: fr
+description: Une technologie qui convertit la langue parlée en texte à l'aide de modèles
+  d'apprentissage profond.
 ---
-
 ## Definition
 
 La reconnaissance automatique de la parole (RAP), également connue sous le nom de transcription automatique, est un sous-domaine du traitement de la parole qui exploite l'intelligence artificielle pour transcrire les signaux audio en texte écrit. Les systèmes modernes de RAP utilisent des réseaux neuronaux profonds pour atteindre une grande précision, même dans des environnements bruyants ou avec des accents variés.

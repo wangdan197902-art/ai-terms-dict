@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /fi/terms/extensive/
 date: "2026-07-18T15:26:16.795400Z"
 lastmod: "2026-07-18T17:15:09.350044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuvailee tekoälydatamääriä, laskentaa tai arviointeja, jotka kattavat suuren laajuuden, määrän tai kirjo skenaarioita."
 ---
-
 ## Definition
 
 Laaja-alainen viittaa tekoälyoperaatioiden mittakaavaan ja kattavuuteen, kuten suurten datamäärien, laajojen arviointipakettien tai raskaiden laskentakuormien osalta. Laaja-alainen datamäärä varmistaa mallin yleistämiskyvyn.

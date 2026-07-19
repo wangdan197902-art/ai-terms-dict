@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /id/terms/inductive_probability/
 date: "2026-07-18T15:55:46.406957Z"
 lastmod: "2026-07-18T16:38:07.470386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ukuran derajat di mana bukti mendukung suatu hipotesis, berbeda dengan kepastian deduktif."
 ---
-
 ## Definition
 
 Probabilitas induktif mengkuantifikasi seberapa mungkin suatu hipotesis benar mengingat bukti yang diamati, mengakui bahwa kesimpulan bersifat probabilitas bukan kepastian mutlak. Hal ini menjadi dasar inferensi Bayes, di mana keyakinan diperbarui berdasarkan bukti baru.

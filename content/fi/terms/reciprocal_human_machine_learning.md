@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /fi/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:18:30.597950Z"
 lastmod: "2026-07-18T17:15:09.454539Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Yhteistyöllinen oppimisparadigma, jossa ihmiset ja koneet opettavat ja oppivat jatkuvasti toisiltaan suorituskyvyn parantamiseksi."
 ---
-
 ## Definition
 
 Tämä lähestymistapa ylittää yksinkertaisen ihmisen ohjaaman merkitsemisen. Se sisältää kaksisuuntaisen tiedonsiirron: ihmiset korjaavat mallin virheitä, kun taas malli auttaa ihmisiä tunnistamaan kuviota tai automatisoimaan...

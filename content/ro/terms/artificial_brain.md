@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /ro/terms/artificial_brain/
 date: "2026-07-18T15:44:32.129706Z"
 lastmod: "2026-07-18T17:15:09.627864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem computațional conceput pentru a imita structura și funcția creierului uman biologic, folosind adesea rețele neuronale."
 ---
-
 ## Definition
 
 Un creier artificial se referă la arhitecturi hardware sau software care emulează structurile neurale și metodele de procesare ale creierului uman. Aceasta include cipuri de calcul neuromorfic care reproduc

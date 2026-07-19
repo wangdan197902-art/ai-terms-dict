@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /id/terms/artificial_consciousness/
 date: "2026-07-18T15:39:09.325826Z"
 lastmod: "2026-07-18T16:38:07.428187Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konsep teoretis tentang pemberian pengalaman subjektif, kesadaran diri, dan kepekaan pada mesin yang mirip dengan manusia."
 ---
-
 ## Definition
 
 Kesadaran buatan mengeksplorasi kemungkinan menciptakan mesin yang memiliki pengalaman subjektif yang nyata, kesadaran diri, dan perasaan, alih-alih hanya mensimulasikan perilaku cerdas. Hal ini melibatkan pertanyaan filosofis mendalam tentang sifat pikiran dan kesadaran.

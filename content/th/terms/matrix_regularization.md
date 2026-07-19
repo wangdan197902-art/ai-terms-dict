@@ -1,23 +1,23 @@
 ---
-title: "การปรับค่าเมทริกซ์ (Matrix Regularization)"
-term_id: "matrix_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "matrices"]
+title: การปรับค่าเมทริกซ์ (Matrix Regularization)
+term_id: matrix_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- matrices
 difficulty: 3
 weight: 1
-slug: "matrix_regularization"
-aliases:
-  - /th/terms/matrix_regularization/
-date: "2026-07-18T16:04:52.721537Z"
-lastmod: "2026-07-18T16:38:07.630668Z"
+slug: matrix_regularization
+date: '2026-07-18T16:04:52.721537Z'
+lastmod: '2026-07-18T16:38:07.630668Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่ใช้พจน์บทลงโทษกับพารามิเตอร์ที่เป็นเมทริกซ์เพื่อป้องกันการฟิตเกินและบังคับใช้คุณสมบัติโครงสร้างเช่นความเบาบาง"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่ใช้พจน์บทลงโทษกับพารามิเตอร์ที่เป็นเมทริกซ์เพื่อป้องกันการฟิตเกินและบังคับใช้คุณสมบัติโครงสร้างเช่นความเบาบาง
 ---
-
 ## Definition
 
 การปรับค่าเมทริกซ์ขยายแนวคิดการปรับค่าสเกลาร์ไปยังเมทริกซ์ มักใช้ในการเรียนรู้หลายงานหรือระบบแนะนำ โดยมันจะกำหนดข้อจำกัดบนบรรทัดฐานของเมทริกซ์น้ำหนัก เช่น...

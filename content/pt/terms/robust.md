@@ -1,23 +1,24 @@
 ---
-title: "Robusto"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robusto
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /pt/terms/robust/
-date: "2026-07-18T14:39:02.979972Z"
-lastmod: "2026-07-18T15:51:59.438032Z"
+slug: robust
+date: '2026-07-18T14:39:02.979972Z'
+lastmod: '2026-07-18T15:51:59.438032Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Descreve a capacidade de um modelo ou sistema de IA de manter o desempenho apesar de ruídos, erros ou entradas inesperadas."
+source: agnes_llm
+status: published
+language: pt
+description: Descreve a capacidade de um modelo ou sistema de IA de manter o desempenho
+  apesar de ruídos, erros ou entradas inesperadas.
 ---
-
 ## Definition
 
 Em inteligência artificial, a robustez refere-se à resiliência de um modelo contra ataques adversariais, mudanças na distribuição dos dados ou entradas ruidosas. Um algoritmo robusto continua a funcionar corretamente mesmo sob essas condições adversas.

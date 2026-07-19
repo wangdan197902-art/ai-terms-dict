@@ -1,23 +1,24 @@
 ---
-title: "למידת מכונה קוונטית"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: למידת מכונה קוונטית
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /he/terms/quantum_machine_learning/
-date: "2026-07-18T16:21:10.581346Z"
-lastmod: "2026-07-18T17:15:09.577923Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:21:10.581346Z'
+lastmod: '2026-07-18T17:15:09.577923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שילוב של מחשוב קוונטי עם אלגוריתמי למידת מכונה לפתרון בעיות מהר או ביעילות רבה יותר."
+source: agnes_llm
+status: published
+language: he
+description: שילוב של מחשוב קוונטי עם אלגוריתמי למידת מכונה לפתרון בעיות מהר או ביעילות
+  רבה יותר.
 ---
-
 ## Definition
 
 למידת מכונה קוונטית (QML) הוא תחום בין-תחומי צומח המשלב יכולות מחשוב קוונטי עם טכניקות למידת מכונה. המטרה היא לנצל תופעות קוונטיות כמו שזירה

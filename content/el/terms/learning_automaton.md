@@ -1,23 +1,25 @@
 ---
-title: "Μανθάνον Αυτόματο"
-term_id: "learning_automaton"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement-learning", "optimization", "agents"]
+title: Μανθάνον Αυτόματο
+term_id: learning_automaton
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Optimization
+- agents
 difficulty: 3
 weight: 1
-slug: "learning_automaton"
-aliases:
-  - /el/terms/learning_automaton/
-date: "2026-07-18T16:17:57.232847Z"
-lastmod: "2026-07-18T17:15:09.925589Z"
+slug: learning_automaton
+date: '2026-07-18T16:17:57.232847Z'
+lastmod: '2026-07-18T17:15:09.925589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα μανθάνον αυτοματο είναι μια απλή στοχαστική μονάδα λήψης αποφάσεων που ενημερώνει επαναλαμβανικά τις πιθανότητες δράσης της με βάση το περιβαλλοντικό ανάδραση για τη μεγιστοποίηση της ανταμοιβής."
+source: agnes_llm
+status: published
+language: el
+description: Ένα μανθάνον αυτοματο είναι μια απλή στοχαστική μονάδα λήψης αποφάσεων
+  που ενημερώνει επαναλαμβανικά τις πιθανότητες δράσης της με βάση το περιβαλλοντικό
+  ανάδραση για τη μεγιστοποίηση της ανταμοιβής.
 ---
-
 ## Definition
 
 Αυτή η έννοια προέρχεται από την ενισχυτική μάθηση και περιλαμβάνει έναν πράκτορα που αλληλεπιδρά με ένα άγνωστο περιβάλλον. Το αυτοματο επιλέγει δράσεις από ένα πεπερασμένο σύνολο και λαμβάνει ένα σήμα ποινής ή ανταμοιβής.

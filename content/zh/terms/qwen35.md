@@ -1,23 +1,23 @@
 ---
-title: "Qwen3.5"
-term_id: "qwen35"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model", "qwen", "nlp"]
+title: Qwen3.5
+term_id: qwen35
+category: basic_concepts
+subcategory: ''
+tags:
+- model
+- qwen
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen35"
-aliases:
-  - /zh/terms/qwen35/
-date: "2026-07-18T11:31:37.557514Z"
-lastmod: "2026-07-18T11:44:45.548871Z"
+slug: qwen35
+date: '2026-07-18T11:31:37.557514Z'
+lastmod: '2026-07-18T11:44:45.548871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Qwen 大语言模型系列的迭代版本，侧重于增强的推理能力和多语言支持。"
+source: agnes_llm
+status: published
+language: zh
+description: Qwen 大语言模型系列的迭代版本，侧重于增强的推理能力和多语言支持。
 ---
-
 ## Definition
 
 Qwen3.5 代表由阿里云开发的 Qwen 谱系中的特定发布版本。这一迭代通常建立在先前版本的基础上，通过改进逻辑推理能力、编程熟练度和自然语言理解来增强模型性能，旨在提供更准确和更通用的智能助手体验。

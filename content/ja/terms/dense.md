@@ -1,23 +1,22 @@
 ---
-title: "密結合層"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: 密結合層
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /ja/terms/dense/
-date: "2026-07-18T11:11:57.692583Z"
-lastmod: "2026-07-18T11:44:45.090097Z"
+slug: dense
+date: '2026-07-18T11:11:57.692583Z'
+lastmod: '2026-07-18T11:44:45.090097Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "前のレイヤーまたは次元のすべての要素と、現在のすべての要素が接続されているレイヤーまたはテンソル。"
+source: agnes_llm
+status: published
+language: ja
+description: 前のレイヤーまたは次元のすべての要素と、現在のすべての要素が接続されているレイヤーまたはテンソル。
 ---
-
 ## Definition
 
 ニューラルネットワークにおいて、「密結合（Dense）」とは、各ニューロンが前のレイヤーのすべてのニューロンから入力を受ける全結合層を指します。これは、畳み込み層やスパース接続に見られる疎な接続とは対照的です。

@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /fr/terms/function_calling/
 date: "2026-07-18T10:59:57.980238Z"
 lastmod: "2026-07-18T11:44:45.184913Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un mécanisme permettant aux LLM de générer des données structurées qui déclenchent l'exécution de fonctions logicielles spécifiques."
 ---
-
 ## Definition
 
 L'appel de fonction permet aux grands modèles de langage d'interagir avec des outils externes et des API en générant des sorties structurées, telles que des objets JSON, qui spécifient quelle fonction exécuter et quels arguments lui transmettre.

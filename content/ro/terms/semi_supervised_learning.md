@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /ro/terms/semi_supervised_learning/
 date: "2026-07-18T16:20:22.535280Z"
 lastmod: "2026-07-18T17:15:09.701220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare de învățare automată care utilizează atât date etichetate, cât și neetichetate pentru a îmbunătăți acuratețea și generalizarea modelului."
 ---
-
 ## Definition
 
 Învățarea semi-supervizată este un paradigmă de antrenament hibridă care utilizează o cantitate mică de date etichetate alături de un volum mare de date neetichetate. Presupunerea de bază este că structura datelor neetichetate

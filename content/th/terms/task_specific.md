@@ -1,23 +1,24 @@
 ---
-title: "เฉพาะงาน"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: เฉพาะงาน
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /th/terms/task_specific/
-date: "2026-07-18T15:34:10.872995Z"
-lastmod: "2026-07-18T16:38:07.557384Z"
+slug: task_specific
+date: '2026-07-18T15:34:10.872995Z'
+lastmod: '2026-07-18T16:38:07.557384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมเดลเฉพาะงาน คือ ระบบปัญญาประดิษฐ์ที่ออกแบบและปรับให้เหมาะสมที่สุดสำหรับการทำงานเดียวที่มีนิยามชัดเจน แทนที่จะเป็นการให้เหตุผลแบบวัตถุประสงค์ทั่วไป"
+source: agnes_llm
+status: published
+language: th
+description: โมเดลเฉพาะงาน คือ ระบบปัญญาประดิษฐ์ที่ออกแบบและปรับให้เหมาะสมที่สุดสำหรับการทำงานเดียวที่มีนิยามชัดเจน
+  แทนที่จะเป็นการให้เหตุผลแบบวัตถุประสงค์ทั่วไป
 ---
-
 ## Definition
 
 เฉพาะงาน หมายถึง โมเดลหรือองค์ประกอบของปัญญาประดิษฐ์ที่ปรับแต่งมาเพื่อทำผลงานได้ดีที่สุดในกลุ่มเป้าหมายที่แคบเฉพาะเจาะจง เช่น การตรวจจับวัตถุในภาพหรือการแปลภาษา ต่างจากโมเดลพื้นฐานวัตถุประสงค์ทั่วไป (General-purpose Foundation Models) ที่มีความยืดหยุ่นสูงกว่า โมเดลเฉพาะงานมักมีประสิทธิภาพและความแม่นยำสูงกว่าในงานที่มันถูกออกแบบมาโดยเฉพาะ

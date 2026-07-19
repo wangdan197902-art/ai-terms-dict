@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /tr/terms/overall/
 date: "2026-07-18T15:27:43.078329Z"
 lastmod: "2026-07-18T16:38:07.239677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Genel, bir yapay zeka sisteminin tüm test durumları veya operasyonel senaryolar üzerindeki toplam performansını, doğruluğunu veya etkisini ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka modellerini değerlendirirken 'genel' metrikler, izole bileşenlere odaklanmak yerine sistemin performansına bütüncül bir bakış sağlar. Buna genel doğruluk, ortalama ortalama hassasiyet (mAP) veya toplam etki dahildir.

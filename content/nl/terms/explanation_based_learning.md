@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /nl/terms/explanation_based_learning/
 date: "2026-07-18T15:54:49.347750Z"
 lastmod: "2026-07-18T17:15:08.743611Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Uitleggebaseerd leren is een machine learning-methode die domeinkennis en één trainingsvoorbeeld gebruikt om een uitleg te genereren, die vervolgens wordt gegeneraliseerd tot een nieuwe regel."
 ---
-
 ## Definition
 
 EBL combineert symbolisch redeneren met machine learning om het leerproces te versnellen. In plaats van te vertrouwen op grote datasets, neemt het één positief voorbeeld en gebruikt het een bestaande domeinkennis om een algemene regel af te leiden.

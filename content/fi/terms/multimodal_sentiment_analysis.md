@@ -1,23 +1,24 @@
 ---
-title: "Monimuotoinen tunnelman analyysi"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Monimuotoinen tunnelman analyysi
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /fi/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:12:10.150687Z"
-lastmod: "2026-07-18T17:15:09.437303Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:12:10.150687Z'
+lastmod: '2026-07-18T17:15:09.437303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ihmisen tunteiden laskennallinen analysointi yhdistämällä tekstillisiä, visuaalisia ja kuullisia vihjeitä."
+source: agnes_llm
+status: published
+language: fi
+description: Ihmisen tunteiden laskennallinen analysointi yhdistämällä tekstillisiä,
+  visuaalisia ja kuullisia vihjeitä.
 ---
-
 ## Definition
 
 Monimuotoinen tunnelman analyysi laajentaa perinteistä tekstimääräiseen perustuvaa tunnetunnistusta sisällyttämällä lisäsignaaleja, kuten kasvonilmeitä, äänen sävyä ja vartalon kieltä. Tämä kokonaisvaltainen lähestymistapa parantaa...

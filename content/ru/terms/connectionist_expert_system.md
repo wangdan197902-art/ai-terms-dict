@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /ru/terms/connectionist_expert_system/
 date: "2026-07-18T15:46:12.166005Z"
 lastmod: "2026-07-18T16:38:07.133946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Интеллектуальная система, объединяющая возможности обучения нейронных сетей со структурами символического рассуждения."
 ---
-
 ## Definition
 
 Соединительная экспертная система интегрирует сильные стороны распознавания образов и обучения нейронных сетей (коннективизма) с явным представлением знаний и логическим выводом традиционных символических систем.

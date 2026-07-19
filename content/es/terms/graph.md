@@ -1,23 +1,24 @@
 ---
-title: "Grafo"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Grafo
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /es/terms/graph/
-date: "2026-07-18T10:23:34.769140Z"
-lastmod: "2026-07-18T11:44:44.742171Z"
+slug: graph
+date: '2026-07-18T10:23:34.769140Z'
+lastmod: '2026-07-18T11:44:44.742171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una estructura matemática compuesta por nodos conectados por aristas, utilizada para representar relaciones entre entidades."
+source: agnes_llm
+status: published
+language: es
+description: Una estructura matemática compuesta por nodos conectados por aristas,
+  utilizada para representar relaciones entre entidades.
 ---
-
 ## Definition
 
 Un grafo es una estructura de datos fundamental en IA compuesta por vértices (nodos) y aristas (enlaces) que denotan relaciones. Las Redes Neuronales de Grafos (GNN) aprovechan esta estructura para realizar aprendizaje en no-E

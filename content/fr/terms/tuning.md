@@ -1,23 +1,24 @@
 ---
-title: "Réglage"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Réglage
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /fr/terms/tuning/
-date: "2026-07-18T10:55:58.224232Z"
-lastmod: "2026-07-18T11:44:45.175549Z"
+slug: tuning
+date: '2026-07-18T10:55:58.224232Z'
+lastmod: '2026-07-18T11:44:45.175549Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus d'ajustement des hyperparamètres ou des poids du modèle pour optimiser les performances sur un ensemble de données ou une tâche spécifique."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus d'ajustement des hyperparamètres ou des poids du modèle
+  pour optimiser les performances sur un ensemble de données ou une tâche spécifique.
 ---
-
 ## Definition
 
 Le réglage consiste à affiner un modèle d'apprentissage automatique pour obtenir une meilleure précision ou efficacité. Il peut s'agir du réglage des hyperparamètres, où des paramètres tels que le taux d'apprentissage ou la taille du lot sont optimisés, ou du fin

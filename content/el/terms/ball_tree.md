@@ -1,23 +1,25 @@
 ---
-title: "Δέντρο Μπάλας"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Δέντρο Μπάλας
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /el/terms/ball_tree/
-date: "2026-07-18T15:52:55.474304Z"
-lastmod: "2026-07-18T17:15:09.884266Z"
+slug: ball_tree
+date: '2026-07-18T15:52:55.474304Z'
+lastmod: '2026-07-18T17:15:09.884266Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια δυαδική δομή δεδομένων δέντρου που χρησιμοποιείται για την οργάνωση σημείων στον χώρο, βελτιστοποιώντας τις αναζητήσεις γειτόνων σε σύνολα δεδομένων υψηλών διαστάσεων."
+source: agnes_llm
+status: published
+language: el
+description: Μια δυαδική δομή δεδομένων δέντρου που χρησιμοποιείται για την οργάνωση
+  σημείων στον χώρο, βελτιστοποιώντας τις αναζητήσεις γειτόνων σε σύνολα δεδομένων
+  υψηλών διαστάσεων.
 ---
-
 ## Definition
 
 Ένα Δέντρο Μπάλας χωρίζει τα σημεία δεδομένων σε εγγενείς υπερσφαίρες (μπάλες) αντί για υπερτετράπλευρα. Αυτή η δομή επιτρέπει την αποτελεσματική αποκοπή κατά τις ερωτήσεις γειτνίασης, υπολογίζοντας αποστάσεις μεταξύ των κέντρων των σφαιρών.

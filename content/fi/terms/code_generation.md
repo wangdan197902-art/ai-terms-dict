@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /fi/terms/code_generation/
 date: "2026-07-18T15:22:37.933362Z"
 lastmod: "2026-07-18T17:15:09.344153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa tekoälyä käytetään lähdekoodin automaattiseen luomiseen luonnollisen kielen kuvauksista tai olemassa olevista koodinpätkistä."
 ---
-
 ## Definition
 
 Koodin generointi hyödyntää valtavia ohjelmointikieliaineistoja opetettuja suurta kielimallia (large language models) tuottaakseen toimivia ohjelmistokomponentteja. Se tulkitsee ihmisen luettavissa olevia kehotteita, kuten kommentteja tai luonnoksia, ja muuntaa ne suorituskykyiseksi koodiksi.

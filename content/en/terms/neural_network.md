@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /en/terms/neural_network/
 date: "2026-07-18T09:35:02.712150Z"
 lastmod: "2026-07-18T11:44:44.603733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A computing system inspired by biological brains, consisting of interconnected nodes or neurons organized in layers."
 ---
-
 ## Definition
 
 A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. It is composed of layers of interconnected nodes (neurons), including an input layer, one or more hidden layers, and an output layer. Each connection has a weight that adjusts as learning occurs, allowing the network to optimize predictions and classifications by minimizing error during training phases using backpropagation.

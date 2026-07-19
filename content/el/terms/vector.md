@@ -1,23 +1,25 @@
 ---
-title: "Διάνυσμα"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Διάνυσμα
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /el/terms/vector/
-date: "2026-07-18T15:45:44.588993Z"
-lastmod: "2026-07-18T17:15:09.872323Z"
+slug: vector
+date: '2026-07-18T15:45:44.588993Z'
+lastmod: '2026-07-18T17:15:09.872323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μαθηματικό αντικείμενο που αναπαριστά μια ποσότητα με μέτρο και κατεύθυνση, χρησιμοποιείται συχνά στην Τεχνητή Νοημοσύνη για την κωδικοποίηση σημείων δεδομένων σε χώρο υψηλών διαστάσεων."
+source: agnes_llm
+status: published
+language: el
+description: Μαθηματικό αντικείμενο που αναπαριστά μια ποσότητα με μέτρο και κατεύθυνση,
+  χρησιμοποιείται συχνά στην Τεχνητή Νοημοσύνη για την κωδικοποίηση σημείων δεδομένων
+  σε χώρο υψηλών διαστάσεων.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, το διάνυσμα είναι μια θεμελιώδης δομή δεδομένων που χρησιμοποιείται για την αριθμητική αναπαράσταση πληροφοριών. Αποτελείται από μια διατεταγμένη λίστα αριθμών (στοιχεία) που χαρτογραφούν τα χαρακτηριστικά μιας οντότητας σε

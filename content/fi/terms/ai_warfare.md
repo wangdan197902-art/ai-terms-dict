@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /fi/terms/ai_warfare/
 date: "2026-07-18T15:40:26.988380Z"
 lastmod: "2026-07-18T17:15:09.379050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyteknologioiden soveltaminen sotilaallisiin operaatioihin, valvontaan ja autonomisiin asejärjestelmiin."
 ---
-
 ## Definition
 
 Teekoälysota viittaa tekoälyn integrointiin sotilaallisiin strategioihin, mukaan lukien autonomiset droonit, ennakoiva logistiikka, kyberturvallisuus ja komentajille tarkoitetut päätöksentukijärjestelmät.

@@ -1,23 +1,24 @@
 ---
-title: "디퓨전 단일 파일"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: 디퓨전 단일 파일
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /ko/terms/diffusion_single_file/
-date: "2026-07-18T15:53:36.782878Z"
-lastmod: "2026-07-18T16:38:06.833694Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:53:36.782878Z'
+lastmod: '2026-07-18T16:38:06.833694Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모든 모델 가중치, 구성 파일 및 때로는 추론 코드까지 하나의 파일로 묶어 휴대성을 극대화한 디퓨전 모델 배포 형식입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모든 모델 가중치, 구성 파일 및 때로는 추론 코드까지 하나의 파일로 묶어 휴대성을 극대화한 디퓨전 모델 배포 형식입니다.
 ---
-
 ## Definition
 
 디퓨전 단일 파일(Diffusion Single File)은 머신러닝 모델, 특히 디퓨전 모델의 패키징 전략을 의미합니다. 이 방식은 바이너리 가중치, 하이퍼파라미터, 모델 아키텍처 정보 등 전체 모델 아티팩트를 단일 파일에 통합하여 배포와 설치를 간편하게 만듭니다.

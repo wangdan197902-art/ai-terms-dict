@@ -1,23 +1,24 @@
 ---
-title: "Uczenie oparte na eksemplarzach"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Uczenie oparte na eksemplarzach
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /pl/terms/instance_based_learning/
-date: "2026-07-18T16:00:17.460378Z"
-lastmod: "2026-07-18T17:15:08.886244Z"
+slug: instance_based_learning
+date: '2026-07-18T16:00:17.460378Z'
+lastmod: '2026-07-18T17:15:08.886244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podejście leniwego uczenia, w którym predykcje są dokonywane poprzez porównywanie nowych danych wejściowych do przechowywanych eksemplarzy treningowych."
+source: agnes_llm
+status: published
+language: pl
+description: Podejście leniwego uczenia, w którym predykcje są dokonywane poprzez
+  porównywanie nowych danych wejściowych do przechowywanych eksemplarzy treningowych.
 ---
-
 ## Definition
 
 Znane również jako uczenie oparte na pamięci, ta technika nie buduje uogólnionego modelu podczas treningu. Zamiast tego przechowuje cały zbiór danych treningowych. Gdy potrzebna jest predykcja, znajduje najbardziej s

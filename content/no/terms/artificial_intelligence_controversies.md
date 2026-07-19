@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /no/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:43:17.210243Z"
 lastmod: "2026-07-18T16:38:06.971903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Offentlige debatter og uenigheter omkring de etiske, sosiale og tekniske implikasjonene av utvikling og bruk av AI."
 ---
-
 ## Definition
 
 Kontroverser rundt AI omfatter det brede spekteret av etiske, juridiske og samfunnsmessige stridsspørsmål som oppstår fra kunstig intelligens-teknologier. Sentrale temaer inkluderer algoritmeskjevhet, krenkelser av personvern og arbeidsplasser.

@@ -1,23 +1,25 @@
 ---
-title: "برق. باريس. 4"
-term_id: "pherc_paris_4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "digital_humanities", "archaeology"]
+title: برق. باريس. 4
+term_id: pherc_paris_4
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Digital Humanities
+- archaeology
 difficulty: 5
 weight: 1
-slug: "pherc_paris_4"
-aliases:
-  - /ar/terms/pherc_paris_4/
-date: "2026-07-18T16:15:35.971824Z"
-lastmod: "2026-07-18T17:15:08.535110Z"
+slug: pherc_paris_4
+date: '2026-07-18T16:15:35.971824Z'
+lastmod: '2026-07-18T17:15:08.535110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير مصطلح برق. باريس. 4 إلى شظية محددة من بردية هيركولانيوم محفوظة في مكتبة باريس، وغالباً ما تُستشهد بها في مشاريع الإنسانية الرقمية وإعادة بناء النصوص القديمة."
+source: agnes_llm
+status: published
+language: ar
+description: يشير مصطلح برق. باريس. 4 إلى شظية محددة من بردية هيركولانيوم محفوظة في
+  مكتبة باريس، وغالباً ما تُستشهد بها في مشاريع الإنسانية الرقمية وإعادة بناء النصوص
+  القديمة.
 ---
-
 ## Definition
 
 برق. باريس. 4 هو تسمية لشظية من لفة بردية متفحمة اكتُشفت في فيلا البرديات بهيركولانيوم، وهي محفوظة حالياً في المكتبة الوطنية الفرنسية. تُعد هذه البرديات كنزاً أدبياً وفلسفياً، وقد ساعدت التقنيات الحديثة مثل التصوير متعدد الأطياف والذكاء الاصطناعي في فك شفرتها وقراءتها بعد قرون من الاحتراق.

@@ -1,23 +1,24 @@
 ---
-title: "Algoritme-selectie"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Algoritme-selectie
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /nl/terms/algorithm_selection/
-date: "2026-07-18T15:41:57.271673Z"
-lastmod: "2026-07-18T17:15:08.715619Z"
+slug: algorithm_selection
+date: '2026-07-18T15:41:57.271673Z'
+lastmod: '2026-07-18T17:15:08.715619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Algoritme-selectie is het proces van het kiezen van de meest geschikte computationele methode voor een specifiek probleem op basis van prestatie-indicatoren en beperkingen."
+source: agnes_llm
+status: published
+language: nl
+description: Algoritme-selectie is het proces van het kiezen van de meest geschikte
+  computationele methode voor een specifiek probleem op basis van prestatie-indicatoren
+  en beperkingen.
 ---
-
 ## Definition
 
 Algoritme-selectie houdt in dat verschillende computationele benaderingen worden geëvalueerd om te bepalen welke het beste een gegeven taak efficiënt oplost. Dit proces houdt rekening met factoren zoals tijdcomplexiteit, ruimtecomplexiteit en resource-beperkingen.

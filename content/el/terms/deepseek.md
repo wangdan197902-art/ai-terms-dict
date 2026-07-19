@@ -1,23 +1,25 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /el/terms/deepseek/
-date: "2026-07-18T16:01:57.235913Z"
-lastmod: "2026-07-18T17:15:09.899823Z"
+slug: deepseek
+date: '2026-07-18T16:01:57.235913Z'
+lastmod: '2026-07-18T17:15:09.899823Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το DeepSeek είναι μια σειρά μεγάλων γλωσσικών μοντέλων που αναπτύχθηκαν από την εταιρεία DeepSeek, γνωστή για την υψηλή αποδοτικότητά της, τις ισχυρές ικανότητες προγραμματισμού και τη διαθεσιμότητα α"
+source: agnes_llm
+status: published
+language: el
+description: Το DeepSeek είναι μια σειρά μεγάλων γλωσσικών μοντέλων που αναπτύχθηκαν
+  από την εταιρεία DeepSeek, γνωστή για την υψηλή αποδοτικότητά της, τις ισχυρές ικανότητες
+  προγραμματισμού και τη διαθεσιμότητα α
 ---
-
 ## Definition
 
 Το DeepSeek αναφέρεται σε μια οικογένεια μοντέλων τεχνητής νοημοσύνης που δημιουργήθηκαν από την εταιρεία DeepSeek. Αυτά τα μοντέλα είναι σχεδιασμένα για να χειρίζονται πολύπλοκες εργασίες επεξεργασίας φυσικής γλώσσας, συμπεριλαμβανομένης της παραγωγής κώδικα,

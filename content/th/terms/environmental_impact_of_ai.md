@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /th/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:52:12.324223Z"
 lastmod: "2026-07-18T16:38:07.603196Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ผลกระทบทางนิเวศวิทยาจากการพัฒนา ฝึกฝน และใช้งานโมเดล AI รวมถึงการใช้พลังงานและการปล่อยก๊าซคาร์บอน"
 ---
-
 ## Definition
 
 คำนี้หมายถึงความต้องการทรัพยากรที่สำคัญที่เกี่ยวข้องกับเทคโนโลยี AI โดยเฉพาะในช่วงขั้นตอนการฝึกฝนโมเดลขนาดใหญ่ ครอบคลุมถึงการใช้อิเล็กตริกิตี้ในศูนย์ข้อมูลและการปล่อยมลพิษทางคาร์บอนที่เกิดจากกิจกรรมเหล่านี้

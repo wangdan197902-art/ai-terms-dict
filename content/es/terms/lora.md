@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /es/terms/lora/
 date: "2026-07-18T10:24:12.554801Z"
 lastmod: "2026-07-18T11:44:44.744315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La Adaptación de Bajo Rango es un método de ajuste fino eficiente en parámetros que inyecta matrices de descomposición de rango entrenables en los pesos existentes del modelo."
 ---
-
 ## Definition
 
 LoRA congela los pesos del modelo preentrenado e inserta matrices de descomposición entrenables en cada capa de la arquitectura de Transformador. Al optimizar solo estas matrices de bajo rango, LoRA reduce significativamente

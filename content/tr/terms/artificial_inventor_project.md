@@ -1,23 +1,24 @@
 ---
-title: "Yapay Buluş Projesi"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Yapay Buluş Projesi
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /tr/terms/artificial_inventor_project/
-date: "2026-07-18T15:41:23.656933Z"
-lastmod: "2026-07-18T16:38:07.273140Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:41:23.656933Z'
+lastmod: '2026-07-18T16:38:07.273140Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "İnsan benzeri yaratıcı problem çözme ve buluş süreçlerinin bilişsel modellerini geliştirmeye odaklanan bir araştırma girişimidir."
+source: agnes_llm
+status: published
+language: tr
+description: İnsan benzeri yaratıcı problem çözme ve buluş süreçlerinin bilişsel modellerini
+  geliştirmeye odaklanan bir araştırma girişimidir.
 ---
-
 ## Definition
 
 Yapay Buluş Projesi, insan yaratıcılığı ve buluşunun arkasındaki bilişsel mekanizmaları anlamak ve çoğaltmak amacıyla yapılan disiplinler arası bir araştırma çabasıdır. Yapay zeka sistemleri inşa etmeyi amaçlar.

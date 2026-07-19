@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /sv/terms/bradleyterry_model/
 date: "2026-07-18T15:48:12.830447Z"
 lastmod: "2026-07-18T17:15:08.982132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En statistisk modell som används för att analysera data från parvisa jämförelser och uppskatta sannolikheten att ett objekt föredras framför ett annat."
 ---
-
 ## Definition
 
 Bradley-Terry-modellen är en probabilistisk modell som används flitigt inom psykometri och maskininlärning för att hantera parvisa jämförelser. Den tilldelar varje objekt ett dolt värde och beräknar sannolikheten...

@@ -1,23 +1,23 @@
 ---
-title: "튜닝"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: 튜닝
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /ko/terms/tuning/
-date: "2026-07-18T15:30:47.132145Z"
-lastmod: "2026-07-18T16:38:06.786964Z"
+slug: tuning
+date: '2026-07-18T15:30:47.132145Z'
+lastmod: '2026-07-18T16:38:06.786964Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특정 데이터셋이나 작업에서 성능을 최적화하기 위해 하이퍼파라미터나 모델 가중치를 조정하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 특정 데이터셋이나 작업에서 성능을 최적화하기 위해 하이퍼파라미터나 모델 가중치를 조정하는 과정입니다.
 ---
-
 ## Definition
 
 튜닝은 더 나은 정확도나 효율성을 달성하기 위해 머신러닝 모델을 정제하는 과정을 의미합니다. 여기에는 학습률이나 배치 크기 같은 설정을 최적화하는 하이퍼파라미터 튜닝이나, 특정 작업에 맞게 사전 훈련된 모델을 미세 조정하는 파인튜닝이 포함될 수 있습니다.

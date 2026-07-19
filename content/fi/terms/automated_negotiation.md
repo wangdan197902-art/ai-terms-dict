@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /fi/terms/automated_negotiation/
 date: "2026-07-18T15:44:44.262796Z"
 lastmod: "2026-07-18T17:15:09.386400Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyagenteiden käyttö itsenäisiin neuvotteluihin ja osapuolten välisten sopimusten saavuttamiseen."
 ---
-
 ## Definition
 
 Automaattinen neuvottelu tarkoittaa ohjelmistoagenteja, jotka edustavat ihmisten etuja neuvotteluprosesseissa. Nämä agentit käyttävät peliteoriaa, optimointialgoritmeja ja koneoppimista tarjousten tekemiseen ja vastineiden arviointiin maksimoidakseen tulokset.

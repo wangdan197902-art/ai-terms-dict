@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /es/terms/non_human/
 date: "2026-07-18T11:02:19.166420Z"
 lastmod: "2026-07-18T11:44:44.837410Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "En la ética y la sociología de la IA, 'no humano' se refiere a entidades o sistemas artificiales que poseen agencia, inteligencia o presencia social, pero carecen de conciencia biológica o identidad h"
 ---
-
 ## Definition
 
 Este término se utiliza a menudo en discusiones sobre los derechos, responsabilidades e integración social de agentes de IA, robots y asistentes virtuales. Destaca la distinción entre humanos biológicos y...

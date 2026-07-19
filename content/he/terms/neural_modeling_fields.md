@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /he/terms/neural_modeling_fields/
 date: "2026-07-18T16:14:21.320662Z"
 lastmod: "2026-07-18T17:15:09.568595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסגרת תיאורטית המתארת את הארגון המרחבי והתפקודי של דפוסי פעילות עצבית."
 ---
-
 ## Definition
 
 שדות מודלינג עצבי כוללים את לימוד האופן שבו אוכלוסיות עצביות מארגנות את עצמן במרחבים רב-ממדיים כדי לייצג מידע. מושג זה קשור לעיתים קרובות למיפויים טופולוגיים ותורת השדות.

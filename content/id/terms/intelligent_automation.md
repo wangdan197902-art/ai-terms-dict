@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /id/terms/intelligent_automation/
 date: "2026-07-18T15:56:08.020526Z"
 lastmod: "2026-07-18T16:38:07.471451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kombinasi kecerdasan buatan dengan otomatisasi proses robotik untuk menangani proses bisnis yang kompleks dan tidak terstruktur."
 ---
-
 ## Definition
 
 Otomatisasi cerdas mengintegrasikan Otomatisasi Proses Robotik (RPA) tradisional dengan teknologi AI canggih seperti pembelajaran mesin dan pemrosesan bahasa alami. Sementara RPA menangani aturan berbasis struktur,

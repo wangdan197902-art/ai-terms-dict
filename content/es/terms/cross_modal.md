@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /es/terms/cross_modal/
 date: "2026-07-18T10:27:49.565486Z"
 lastmod: "2026-07-18T11:44:44.755634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Técnicas que integran y procesan información a través de diferentes tipos de datos sensoriales, como texto e imágenes."
 ---
-
 ## Definition
 
 La IA multimodal cruzada implica procesar y correlacionar datos de distintas modalidades, como combinar entradas visuales, auditivas y textuales. Estos sistemas aprenden representaciones compartidas para comprender las relaciones entre diferentes tipos de datos...

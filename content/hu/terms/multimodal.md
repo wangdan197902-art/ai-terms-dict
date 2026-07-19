@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /hu/terms/multimodal/
 date: "2026-07-18T15:38:39.360631Z"
 lastmod: "2026-07-18T17:15:09.742741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan AI-modellekre utal, amelyek képesek egyszerre többféle adattípust, például szöveget, képet, hangot és videót feldolgozni és generálni."
 ---
-
 ## Definition
 
 A többmodális AI-rendszerek különböző érzéki bemenetekből származó információt integrálnak átfogóbb világkép kialakítása érdekében. Ellentétben az egymodális modellekkel, amelyek csak egy adattípusra korlátozódnak, a többmodális modellek képesek átlépni a modalitások között.

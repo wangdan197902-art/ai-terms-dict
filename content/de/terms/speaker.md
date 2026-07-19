@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /de/terms/speaker/
 date: "2026-07-18T11:34:10.558000Z"
 lastmod: "2026-07-18T11:44:44.987515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Person, die innerhalb eines Audiosignals vokale Geräusche oder Sprache erzeugt."
 ---
-
 ## Definition
 
 In der Sprachverarbeitung wird ein Sprecher als eine distincte menschliche Sprachquelle in einer Audioaufnahme definiert. Die Identifizierung und Unterscheidung von Sprechern ist grundlegend für die Analyse von Gesprächen und die Gewährleistung der Sicherheit.

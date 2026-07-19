@@ -1,23 +1,22 @@
 ---
-title: "라더 (오히려/전혀)"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: 라더 (오히려/전혀)
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /ko/terms/rather/
-date: "2026-07-18T15:28:10.934029Z"
-lastmod: "2026-07-18T16:38:06.782138Z"
+slug: rather
+date: '2026-07-18T15:28:10.934029Z'
+lastmod: '2026-07-18T16:38:06.782138Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "AI 문맥에서 'rather'는 기술 용어가 아니며, 주로 프롬프트에서 선호도나 수정 사항을 지정할 때 사용됩니다."
+source: agnes_llm
+status: published
+language: ko
+description: AI 문맥에서 'rather'는 기술 용어가 아니며, 주로 프롬프트에서 선호도나 수정 사항을 지정할 때 사용됩니다.
 ---
-
 ## Definition
 
 'Rather'라는 용어 자체는 선호도나 대조를 나타내는 표준 영어 부사입니다. 인공 지능 및 대규모 언어 모델이라는 특정 분야에서는 별도의 기술적 개념을 구성하지 않습니다. 그러나 프롬프트 엔지니어링 맥락에서는 사용자가 원하는 출력의 뉘앙스를 정교하게 조정하거나 오류를 수정하라고 지시할 때 자주 등장하는 자연어 표현입니다.

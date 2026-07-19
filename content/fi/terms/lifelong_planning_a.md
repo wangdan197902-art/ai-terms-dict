@@ -1,23 +1,25 @@
 ---
-title: "Elinikäinen suunnittelu A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Elinikäinen suunnittelu A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /fi/terms/lifelong_planning_a/
-date: "2026-07-18T16:06:48.050077Z"
-lastmod: "2026-07-18T17:15:09.428537Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:06:48.050077Z'
+lastmod: '2026-07-18T17:15:09.428537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Incrementaalinen reitinhakualgoritmi, joka päivittää tehokkaasti lyhimmät polut dynaamisissa graafeissa ilman, että laskenta aloitetaan alusta alkaen reunan painoarvojen muutosten jälkeen."
+source: agnes_llm
+status: published
+language: fi
+description: Incrementaalinen reitinhakualgoritmi, joka päivittää tehokkaasti lyhimmät
+  polut dynaamisissa graafeissa ilman, että laskenta aloitetaan alusta alkaen reunan
+  painoarvojen muutosten jälkeen.
 ---
-
 ## Definition
 
 Elinikäinen suunnittelu A* (LPA*) on laajennus A*-hakualgoritmille, joka on suunniteltu ympäristöihin, joissa kustannukset muuttuvat ajan myötä. Sen sijaan, että haku aloitettaisiin uudelleen, LPA* ylläpitää prioriteettijonoa ja päivittää...

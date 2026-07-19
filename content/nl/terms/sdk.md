@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /nl/terms/sdk/
 date: "2026-07-18T15:38:49.072732Z"
 lastmod: "2026-07-18T17:15:08.708826Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een Software Development Kit die hulpmiddelen, bibliotheken en documentatie biedt voor het bouwen van toepassingen."
 ---
-
 ## Definition
 
 Een SDK is een verzameling softwareontwikkelhulpmiddelen waarmee ontwikkelaars applicaties kunnen maken voor specifieke platformen of diensten. Voor AI bieden SDK's vooraf gebouwde bibliotheken, API's en hulpprogramma's om...

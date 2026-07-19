@@ -1,23 +1,24 @@
 ---
-title: "التدريب الموزع"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: التدريب الموزع
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /ar/terms/distributed_training/
-date: "2026-07-18T15:36:16.385137Z"
-lastmod: "2026-07-18T17:15:08.460175Z"
+slug: distributed_training
+date: '2026-07-18T15:36:16.385137Z'
+lastmod: '2026-07-18T17:15:08.460175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة لتدريب نماذج التعلم الآلي عن طريق تقسيم البيانات أو الحسابات عبر أجهزة أو خوادم متعددة."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة لتدريب نماذج التعلم الآلي عن طريق تقسيم البيانات أو الحسابات عبر
+  أجهزة أو خوادم متعددة.
 ---
-
 ## Definition
 
 يسرع التدريب الموزع تقارب النموذج من خلال موازاة العمليات الحسابية عبر وحدات معالجة الرسومات (GPUs) أو العقد المتعددة. تشمل التقنيات المستخدمة التوازي في البيانات، حيث يعالج كل عامل مجموعة فرعية من البيانات، والتوازي في النموذج، حيث يتم تقسيم بنية النموذج نفسه عبر الأجهزة.

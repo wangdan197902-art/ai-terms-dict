@@ -1,23 +1,25 @@
 ---
-title: "Ön Eğitim"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Ön Eğitim
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /tr/terms/pre_training/
-date: "2026-07-18T15:27:58.006171Z"
-lastmod: "2026-07-18T16:38:07.240487Z"
+slug: pre_training
+date: '2026-07-18T15:27:58.006171Z'
+lastmod: '2026-07-18T16:38:07.240487Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli görevlere ince ayar yapılmadan önce genel temsiller öğrenmek amacıyla büyük, etiketsiz bir veri kümesinde makine öğrenimi modelini eğitmenin başlangıç aşaması."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli görevlere ince ayar yapılmadan önce genel temsiller öğrenmek
+  amacıyla büyük, etiketsiz bir veri kümesinde makine öğrenimi modelini eğitmenin
+  başlangıç aşaması.
 ---
-
 ## Definition
 
 Derin öğrenmede temel bir teknik olan ön eğitim, bir modelin etiketlere ihtiyaç duymadan devasa miktardaki veriden geniş özellikleri ve kalıpları öğrenmesini sağlar. Bu süreç, modelin benzer görevler için transfer öğrenmeye hazır hale gelmesini ve daha az veriyle hızlıca özelleştirilmesini mümkün kılar.

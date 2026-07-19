@@ -1,23 +1,23 @@
 ---
-title: "Kubernetes"
-term_id: "kubernetes"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "devops", "cloud_computing"]
+title: Kubernetes
+term_id: kubernetes
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- devops
+- Cloud Computing
 difficulty: 3
 weight: 1
-slug: "kubernetes"
-aliases:
-  - /ja/terms/kubernetes/
-date: "2026-07-18T11:21:04.219425Z"
-lastmod: "2026-07-18T11:44:45.113905Z"
+slug: kubernetes
+date: '2026-07-18T11:21:04.219425Z'
+lastmod: '2026-07-18T11:44:45.113905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースプラットフォーム。"
+source: agnes_llm
+status: published
+language: ja
+description: コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースプラットフォーム。
 ---
-
 ## Definition
 
 Kubernetes（略してK8s）は、Googleによって開発されたコンテナオーケストレーションシステムです。クラスター全体にわたってアプリケーションコンテナのデプロイ、スケーリング、運用を自動化し

@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /pt/terms/serverless/
 date: "2026-07-18T15:21:59.173394Z"
 lastmod: "2026-07-18T15:51:59.532175Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um modelo de execução em computação em nuvem no qual o provedor gerencia dinamicamente a alocação de recursos de máquina, em vez do usuário."
 ---
-
 ## Definition
 
 A arquitetura Serverless permite que os desenvolvedores criem e executem aplicativos sem gerenciar a infraestrutura de servidores. O provedor de nuvem dimensiona automaticamente os recursos para cima ou para baixo com base na demanda, cobrando apenas pelo uso efetivo.

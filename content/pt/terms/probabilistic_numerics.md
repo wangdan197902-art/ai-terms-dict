@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /pt/terms/probabilistic_numerics/
 date: "2026-07-18T15:17:51.877814Z"
 lastmod: "2026-07-18T15:51:59.524032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma área que trata problemas de computação numérica como tarefas de inferência estatística para quantificar a incerteza nos resultados."
 ---
-
 ## Definition
 
 A numeração probabilística aplica métodos bayesianos a problemas numéricos tradicionais, como integração, diferenciação e álgebra linear. Em vez de fornecer estimativas pontuais, ela produz distribuições de probabilidade que capturam a incerteza epistêmica associada aos cálculos.

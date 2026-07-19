@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /sv/terms/grounding/
 date: "2026-07-18T16:00:46.689703Z"
 lastmod: "2026-07-18T17:15:09.009659Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att koppla abstrakta AI-utfall till fakta, datakällor eller fysiska sammanhang i verkliga världen för att säkerställa noggrannhet och relevans."
 ---
-
 ## Definition
 
 Inom AI syftar grounding på att länka symboliska representationer eller genererad text till konkreta enheter, data eller sensoriska upplevelser i verkligheten. För språkmodeller innebär detta ofta användning av Retrieval-Augmented Generation (RAG).

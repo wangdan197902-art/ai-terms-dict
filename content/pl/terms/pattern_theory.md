@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /pl/terms/pattern_theory/
 date: "2026-07-18T16:10:51.679385Z"
 lastmod: "2026-07-18T17:15:08.905592Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Matematyczny framework służący do opisywania złożonych struktur poprzez analizę wzorców w przestrzeni danych."
 ---
-
 ## Definition
 
 Teoria wzorców dostarcza rygorystycznej podstawy matematycznej do zrozumienia, jak złożone obiekty i zjawiska można opisywać za pomocą wzorców. Zakłada ona, że każdy obiekt można scharakteryzować poprzez jego...

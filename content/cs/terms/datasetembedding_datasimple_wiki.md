@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /cs/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:51:24.876373Z"
 lastmod: "2026-07-18T17:15:09.118109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kurátorovaná sada dat odvozená z Simple English Wikipedie používaná pro trénování a vyhodnocování modelů textových vektorových reprezentací (embeddings)."
 ---
-
 ## Definition
 
 Tato sada dat se skládá ze vět a odstavců extrahovaných z Simple English Wikipedie, což je verze Wikipedie psaná pro nemativé mluvčí s zjednodušenou gramatikou a slovní zásobou. Slouží jako

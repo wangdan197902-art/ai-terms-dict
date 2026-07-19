@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /vi/terms/data_poisoning/
 date: "2026-07-18T15:46:50.869008Z"
 lastmod: "2026-07-18T16:38:07.742136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Data Poisoning (Đầu độc dữ liệu) là một cuộc tấn công bảo mật trong đó các tác nhân độc hại tiêm dữ liệu bị hỏng hoặc gây hiểu lầm vào tập huấn luyện để làm giảm hiệu suất của mô hình."
 ---
-
 ## Definition
 
 Kỹ thuật đối kháng này nhằm mục đích làm suy yếu tính toàn vẹn của các mô hình học máy bằng cách thay đổi dữ liệu huấn luyện. Bằng cách đưa vào các lỗi tinh vi hoặc các ví dụ thiên vị, kẻ tấn công có thể khiến mô hình

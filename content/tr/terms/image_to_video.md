@@ -1,23 +1,24 @@
 ---
-title: "Görselden Videoya"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Görselden Videoya
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /tr/terms/image_to_video/
-date: "2026-07-18T15:57:59.709868Z"
-lastmod: "2026-07-18T16:38:07.320109Z"
+slug: image_to_video
+date: '2026-07-18T15:57:59.709868Z'
+lastmod: '2026-07-18T16:38:07.320109Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Statik bir görseli animasyonlaştırarak zaman dinamikleri ve hareket ekleyen kısa bir video klibi oluşturan üretici bir süreç."
+source: agnes_llm
+status: published
+language: tr
+description: Statik bir görseli animasyonlaştırarak zaman dinamikleri ve hareket ekleyen
+  kısa bir video klibi oluşturan üretici bir süreç.
 ---
-
 ## Definition
 
 Görselden Videoya teknolojisi, tek bir statik kareyi alır ve tutarlı bir video dizisi oluşturmak için sonraki kareleri tahmin eder. Bu, tutarlılık ve fiziksel dinamikleri modellemeyi gerektirir.

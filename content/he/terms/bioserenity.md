@@ -1,23 +1,23 @@
 ---
-title: "ביו-שלווה"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: ביו-שלווה
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /he/terms/bioserenity/
-date: "2026-07-18T15:46:58.107621Z"
-lastmod: "2026-07-18T17:15:09.517984Z"
+slug: bioserenity
+date: '2026-07-18T15:46:58.107621Z'
+lastmod: '2026-07-18T17:15:09.517984Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מצב תיאורטי של קיום משותף הרמוני בין חיים ביולוגיים למערכות בינה מלאכותית."
+source: agnes_llm
+status: published
+language: he
+description: מצב תיאורטי של קיום משותף הרמוני בין חיים ביולוגיים למערכות בינה מלאכותית.
 ---
-
 ## Definition
 
 ביו-שלווה מתייחסת לאידיאל הקונספטואלי שבו הביולוגיה האנושית והבינה המלאכותית פועלות בהרמוניה חלקה וללא התנגשות. הדגש הוא על שילוב אתי, המבטיח שההשלמה האנוכית באמצעות AI תהיה בטוחה ומכבדת.

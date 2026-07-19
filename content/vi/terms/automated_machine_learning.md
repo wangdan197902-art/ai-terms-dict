@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /vi/terms/automated_machine_learning/
 date: "2026-07-18T15:41:36.671253Z"
 lastmod: "2026-07-18T16:38:07.730957Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp luận tự động hóa quy trình từ đầu đến cuối khi áp dụng học máy vào các vấn đề thực tế, giảm bớt nỗ lực thủ công."
 ---
-
 ## Definition
 
 AutoML (Học máy tự động) tinh gọn quá trình phát triển các mô hình ML bằng cách tự động hóa các nhiệm vụ như tiền xử lý dữ liệu, kỹ thuật đặc trưng, lựa chọn mô hình và tinh chỉnh siêu tham số. Nó cho phép...

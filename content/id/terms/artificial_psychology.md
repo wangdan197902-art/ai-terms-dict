@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /id/terms/artificial_psychology/
 date: "2026-07-18T15:39:29.720299Z"
 lastmod: "2026-07-18T16:38:07.429359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bidang studi yang mempelajari cara mendesain sistem AI dengan arsitektur kognitif yang meniru proses psikologis manusia."
 ---
-
 ## Definition
 
 Psikologi buatan adalah domain interdisipliner yang berfokus pada desain dan implementasi arsitektur kognitif dalam sistem AI. Bidang ini mengambil inspirasi dari ilmu kognitif dan psikologi untuk memodelkan pikiran

@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /cs/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T15:48:38.170375Z"
 lastmod: "2026-07-18T17:15:09.111178Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Analýza různých rámců ML na základě funkcí, výkonu, snadnosti použití a podpory komunity za účelem usnadnění výběru nástroje."
 ---
-
 ## Definition
 
 Tento termín označuje systematické hodnocení a benchmarkování různých knihoven a platforem pro strojové učení, jako jsou TensorFlow, PyTorch, Scikit-learn a Keras. Srovnání obvykle analyzují výkon, uživatelskou přívětivost a velikost ekosystému.

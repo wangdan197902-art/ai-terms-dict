@@ -1,23 +1,24 @@
 ---
-title: "כוונון פרמטרי-על"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: כוונון פרמטרי-על
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /he/terms/hyperparameter_tuning/
-date: "2026-07-18T16:04:57.287178Z"
-lastmod: "2026-07-18T17:15:09.549110Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T16:04:57.287178Z'
+lastmod: '2026-07-18T17:15:09.549110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של חיפוש שיטתי אחר השילוב הטוב ביותר של פרמטרי-על כדי לאופטימיזציה של ביצועי המודל."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של חיפוש שיטתי אחר השילוב הטוב ביותר של פרמטרי-על כדי לאופטימיזציה
+  של ביצועי המודל.
 ---
-
 ## Definition
 
 כוונון פרמטרי-על כולל הערכת קבוצות שונות של פרמטרי-על כדי למצוא את התצורה המניבה את הדיוק הטוב ביותר של המודל או את שיעור השגיאה הנמוך ביותר. אסטרטגיות נפוצות כוללות חיפוש ברשת, חיפוש אקראי, ו

@@ -1,23 +1,24 @@
 ---
-title: "sebeřízené učení"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: sebeřízené učení
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /cs/terms/self_supervised/
-date: "2026-07-18T15:33:29.009368Z"
-lastmod: "2026-07-18T17:15:09.085883Z"
+slug: self_supervised
+date: '2026-07-18T15:33:29.009368Z'
+lastmod: '2026-07-18T17:15:09.085883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Sebeřízené učení je technika, při které model generuje vlastní štítky z vstupních dat k učení reprezentací bez lidské annotace."
+source: agnes_llm
+status: published
+language: cs
+description: Sebeřízené učení je technika, při které model generuje vlastní štítky
+  z vstupních dat k učení reprezentací bez lidské annotace.
 ---
-
 ## Definition
 
 Sebeřízené učení je podskupinou strojového učení, kde supervizní signál je odvozen automaticky přímo z dat, čímž se eliminuje potřeba ručního označování. Model typicky řeší pomocné úlohy (např. predikci chybějící části vstupu), což mu umožňuje naučit se užitečné vnitřní reprezentace dat pro pozdější použití.

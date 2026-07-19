@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /pt/terms/neural_network/
 date: "2026-07-18T14:37:21.715323Z"
 lastmod: "2026-07-18T15:51:59.435077Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um sistema de computação inspirado nos cérebros biológicos, consistindo em nós ou neurônios interconectados organizados em camadas."
 ---
-
 ## Definition
 
 Uma rede neural é uma série de algoritmos que busca reconhecer relacionamentos subjacentes em um conjunto de dados através de um processo que imita a forma como o cérebro humano opera. É composta por camadas de neurônios artificiais conectados que processam informações.

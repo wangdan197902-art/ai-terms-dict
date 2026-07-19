@@ -1,23 +1,23 @@
 ---
-title: "隠れ層"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: 隠れ層
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /ja/terms/hidden_layer/
-date: "2026-07-18T11:17:23.687494Z"
-lastmod: "2026-07-18T11:44:45.105297Z"
+slug: hidden_layer
+date: '2026-07-18T11:17:23.687494Z'
+lastmod: '2026-07-18T11:44:45.105297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューラルネットワークにおいて、入力層と出力層の間に位置し、特徴を処理する中間層。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューラルネットワークにおいて、入力層と出力層の間に位置し、特徴を処理する中間層。
 ---
-
 ## Definition
 
 隠れ層は、前の層から入力を受け取り、重みとバイアスを適用して、活性化関数を通じて変換されたデータを次の層へ渡すニューロンで構成されています。これらの層により、ニューラルネットワークは複雑なパターン認識や非線形変換が可能になります。

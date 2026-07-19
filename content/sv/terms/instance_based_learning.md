@@ -1,23 +1,24 @@
 ---
-title: "Instansbaserad inlärning"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Instansbaserad inlärning
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /sv/terms/instance_based_learning/
-date: "2026-07-18T16:04:23.173648Z"
-lastmod: "2026-07-18T17:15:09.015657Z"
+slug: instance_based_learning
+date: '2026-07-18T16:04:23.173648Z'
+lastmod: '2026-07-18T17:15:09.015657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En 'lat' inlärningsmetod där prediktioner görs genom att jämföra nya inmatningar med lagrade träningsinstanser."
+source: agnes_llm
+status: published
+language: sv
+description: En 'lat' inlärningsmetod där prediktioner görs genom att jämföra nya
+  inmatningar med lagrade träningsinstanser.
 ---
-
 ## Definition
 
 Även känd som minnesbaserad inlärning, bygger denna teknik inte upp en generaliserad modell under träningen. Istället lagras hela träningsdatamängden. När en prediktion behövs, hittar den de mest liknande...

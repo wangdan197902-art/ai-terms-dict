@@ -1,23 +1,24 @@
 ---
-title: "עדין-כוונון / Fine-Tuned"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: עדין-כוונון / Fine-Tuned
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /he/terms/fine_tuned/
-date: "2026-07-18T15:32:36.655044Z"
-lastmod: "2026-07-18T17:15:09.492223Z"
+slug: fine_tuned
+date: '2026-07-18T15:32:36.655044Z'
+lastmod: '2026-07-18T17:15:09.492223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של אימון נוסף של מודל מאומן מראש על ערכת נתונים ספציפית כדי להתאים אותו למשימה ספציפית."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של אימון נוסף של מודל מאומן מראש על ערכת נתונים ספציפית כדי להתאים
+  אותו למשימה ספציפית.
 ---
-
 ## Definition
 
 כוונון עדין (Fine-Tuning) כולל לקיחת מודל שכבר אומן על ערכת נתונים גדולה וכללית, והמשך האימון שלו על ערכת נתונים קטנה יותר הספציפית למשימה. טכניקה זו מנצלת את התכונות הכלליות של המודל כדי לשפר ביצועים במשימות יעד ללא צורך באימון מאפס.

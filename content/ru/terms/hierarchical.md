@@ -1,23 +1,24 @@
 ---
-title: "Иерархический"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Иерархический
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /ru/terms/hierarchical/
-date: "2026-07-18T15:26:01.922387Z"
-lastmod: "2026-07-18T16:38:07.079213Z"
+slug: hierarchical
+date: '2026-07-18T15:26:01.922387Z'
+lastmod: '2026-07-18T16:38:07.079213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к архитектурам ИИ или стратегиям обучения, организованным в несколько уровней абстракции, где более высокие уровни управляют более низкими."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к архитектурам ИИ или стратегиям обучения, организованным в
+  несколько уровней абстракции, где более высокие уровни управляют более низкими.
 ---
-
 ## Definition
 
 Иерархические системы ИИ организуют информацию или управление в древовидную структуру вложенных слоев. В обучении с подкреплением иерархическое обучение разбивает сложные задачи на подцели, управляемые более высокими уровнями...

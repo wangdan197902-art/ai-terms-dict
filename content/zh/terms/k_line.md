@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /zh/terms/k_line/
 date: "2026-07-18T11:22:59.294431Z"
 lastmod: "2026-07-18T11:44:45.519973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种金融图表，也称为蜡烛图，用于可视化特定时间间隔内的价格变动。"
 ---
-
 ## Definition
 
 K线（在西方市场常称为蜡烛图）是一种图形化表示证券、衍生品或货币价格动态的方法。它展示了四个关键数据点：开盘价、收盘价、最高价和最低价，帮助投资者分析市场趋势和价格行为。

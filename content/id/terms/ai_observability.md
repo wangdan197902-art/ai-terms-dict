@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /id/terms/ai_observability/
 date: "2026-07-18T15:37:23.930852Z"
 lastmod: "2026-07-18T16:38:07.423597Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Praktik memantau dan memahami keadaan internal sistem pembelajaran mesin melalui log, metrik, dan jejak (traces)."
 ---
-
 ## Definition
 
 Observabilitas AI memperluas pemantauan perangkat lunak tradisional untuk mengatasi tantangan unik dari sistem pembelajaran mesin. Hal ini melibatkan pelacakan kinerja model, pergeseran data (data drift), dan latensi inferensi secara real-time untuk memastikan keandalan dan transparansi sistem AI dalam produksi.

@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /it/terms/multi_armed_bandit/
 date: "2026-07-18T16:11:55.500276Z"
 lastmod: "2026-07-18T17:15:08.651373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un bandito multi-braccio è un problema classico nella teoria della probabilità e nell'apprendimento per rinforzo che modella il compromesso tra esplorazione e sfruttamento."
 ---
-
 ## Definition
 
 Il problema del bandito multi-braccio illustra il dilemma affrontato da un agente che deve decidere se attenersi a un'opzione nota che offre ricompense (sfruttamento) o provare nuove opzioni per scoprire potenzialmente ricompense migliori

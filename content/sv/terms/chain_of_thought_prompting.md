@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /sv/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:37:32.516186Z"
 lastmod: "2026-07-18T17:15:08.960897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Chain-of-Thought Prompting är en teknik som uppmuntrar stora språkmodeller (LLM) att generera mellanliggande resonemangssteg innan de ger ett slutgiltigt svar."
 ---
-
 ## Definition
 
 Chain-of-Thought (CoT)-prompting förbättrar prestandan hos stora språkmodeller på komplexa resonemangsuppgifter genom att uttryckligen be modellen att redogöra för sin stegvisa logik. Istället för att hoppa direkt till

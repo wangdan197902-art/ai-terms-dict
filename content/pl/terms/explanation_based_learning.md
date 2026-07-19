@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /pl/terms/explanation_based_learning/
 date: "2026-07-18T15:54:14.100148Z"
 lastmod: "2026-07-18T17:15:08.872138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Uczenie oparte na wyjaśnieniach to metoda uczenia maszynowego, która wykorzystuje teorię dziedziny oraz pojedynczy przykład treningowy do wygenerowania wyjaśnienia, które następnie jest uogólniane do "
 ---
-
 ## Definition
 
 EBL łączy rozumowanie symboliczne z uczeniem maszynowym, aby przyspieszyć proces nauki. Zamiast polegać na dużych zbiorach danych, podejście to wykorzystuje pojedynczy pozytywny przykład oraz istniejącą teorię dziedziny do wyprowadzenia ogólnych zasad.

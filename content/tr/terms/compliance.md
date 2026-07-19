@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /tr/terms/compliance/
 date: "2026-07-18T15:45:41.178706Z"
 lastmod: "2026-07-18T16:38:07.284183Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerinin yasal düzenlemelere, etik standartlara ve sektör rehberlerine uyumu."
 ---
-
 ## Definition
 
 Yapay zekada uyum, AI modellerinin ve bunların dağıtımının GDPR veya HIPAA gibi geçerli yasalara ve ayrıca iç etik çerçevelere uygunluğunu sağlama sürecini ifade eder.

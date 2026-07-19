@@ -1,23 +1,24 @@
 ---
-title: "الإحصاء الفلكي"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: الإحصاء الفلكي
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /ar/terms/astrostatistics/
-date: "2026-07-18T15:45:12.337540Z"
-lastmod: "2026-07-18T17:15:08.477886Z"
+slug: astrostatistics
+date: '2026-07-18T15:45:12.337540Z'
+lastmod: '2026-07-18T17:15:08.477886Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تطبيق الأساليب الإحصائية لتحليل البيانات الفلكية وحل المشكلات في الفيزياء الفلكية."
+source: agnes_llm
+status: published
+language: ar
+description: تطبيق الأساليب الإحصائية لتحليل البيانات الفلكية وحل المشكلات في الفيزياء
+  الفلكية.
 ---
-
 ## Definition
 
 الإحصاء الفلكي هو مجال متخصص يربط بين الإحصاء وعلم الفلك. يتضمن تطوير وتطبيق تقنيات إحصائية صارمة للتعامل مع التحديات الفريدة للبيانات الفلكية،

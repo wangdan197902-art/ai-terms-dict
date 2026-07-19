@@ -1,23 +1,24 @@
 ---
-title: "Yapay Zeka Etkisi"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: Yapay Zeka Etkisi
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /tr/terms/ai_effect/
-date: "2026-07-18T15:38:55.785584Z"
-lastmod: "2026-07-18T16:38:07.267391Z"
+slug: ai_effect
+date: '2026-07-18T15:38:55.785584Z'
+lastmod: '2026-07-18T16:38:07.267391Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir zamanlar zeki olarak kabul edilen görevlerin, makineler tarafından otomatikleştirildikten sonra sıradan işler olarak görülmesi fenomeni."
+source: agnes_llm
+status: published
+language: tr
+description: Bir zamanlar zeki olarak kabul edilen görevlerin, makineler tarafından
+  otomatikleştirildikten sonra sıradan işler olarak görülmesi fenomeni.
 ---
-
 ## Definition
 
 Yapay Zeka Etkisi, 'yapay zeka' kavramının sınırlarının kaymasını tanımlar. Algoritmalar daha gelişmiş hale geldikçe ve belirli görevleri yerine getirme yeteneği kazandıkça, o görevler genellikle artık yapay zeka olarak değil, sadece otomasyon veya istatistiksel hesaplama olarak algılanır. Bu durum, teknolojinin ilerlemesiyle birlikte akıllılık tanımının sürekli olarak ileriye doğru kaymasına neden olur.

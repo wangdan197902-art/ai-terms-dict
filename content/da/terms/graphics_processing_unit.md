@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /da/terms/graphics_processing_unit/
 date: "2026-07-18T15:59:03.293794Z"
 lastmod: "2026-07-18T17:15:09.294124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En specialiseret elektronisk kreds, oprindeligt designet til hurtig billedmanipulation og -rendering, der nu i vid udstrækning bruges til parallellregning inden for AI."
 ---
-
 ## Definition
 
 En GPU er en højtydende processor, der oprindeligt blev udviklet til at håndtere opgaver inden for grafisk rendering. I modsætning til CPU'er, som har få kerner optimeret til sekventiel seriel behandling, indeholder GPU'er tusindvis af kerner, der er designet til at udføre mange beregninger samtidigt.

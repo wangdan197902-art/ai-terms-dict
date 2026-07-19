@@ -1,23 +1,23 @@
 ---
-title: "이상 탐지(Anomaly detection)"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: 이상 탐지(Anomaly detection)
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /ko/terms/anomaly_detection/
-date: "2026-07-18T15:40:52.252634Z"
-lastmod: "2026-07-18T16:38:06.807694Z"
+slug: anomaly_detection
+date: '2026-07-18T15:40:52.252634Z'
+lastmod: '2026-07-18T16:38:06.807694Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "데이터의 대부분과 현저히 벗어난 드문 항목, 사건 또는 관측치를 식별하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 데이터의 대부분과 현저히 벗어난 드문 항목, 사건 또는 관측치를 식별하는 과정입니다.
 ---
-
 ## Definition
 
 이상 탐지는 아웃라이어 탐지라고도 하며, 예상되는 동작에 적합하지 않은 패턴을 찾기 위해 데이터를 분석합니다. 사이버 보안, 사기 탐지 및 시스템 관리 분야에서 널리 사용되며,

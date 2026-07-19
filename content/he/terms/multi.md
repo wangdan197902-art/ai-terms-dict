@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /he/terms/multi/
 date: "2026-07-18T15:27:30.401376Z"
 lastmod: "2026-07-18T17:15:09.482780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קידומת המציינת נוכחות של מספר מקרים, ראשים או מודליות בתוך מערכת או מודל."
 ---
-
 ## Definition
 
 הקידומת 'multi-' משמשת לעיתים קרובות בבינה מלאכותית כדי לתאר ארכיטקטורות או תהליכים הכוללים מספר רכיבים מקבילים. דוגמאות כוללות 'Multi-Head Attention', המאפשרת למודלים להתמקד בהיבטים שונים.

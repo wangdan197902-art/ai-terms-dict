@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /tr/terms/react/
 date: "2026-07-18T15:37:03.168730Z"
 lastmod: "2026-07-18T16:38:07.262382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "ReAct, büyük dil modellerinin karmaşık görevlerdeki performansını artırmak için akıl yürütme (reasoning) ve eylem (acting) süreçlerini birleştiren bir istem (prompting) paradigmasıdır."
 ---
-
 ## Definition
 
 ReAct çerçevesi, Dil Modellerinin (LLM) hem akıl yürütme izleri hem de görev odaklı eylemleri iç içe geçmiş bir şekilde üretemesini sağlar. İnsan benzeri düşünce süreçlerini simüle ederek modellerin genişletilmiş araçlarla etkileşime girmesine olanak tanır.

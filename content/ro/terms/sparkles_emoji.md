@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /ro/terms/sparkles_emoji/
 date: "2026-07-18T16:21:22.343059Z"
 lastmod: "2026-07-18T17:15:09.703900Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un simbol vizual utilizat adesea în interfețele IA pentru a indica funcții noi, îmbunătățiri sau transformări magice în conținutul generat."
 ---
-
 ## Definition
 
 Emoticonul cu scântei este o pictogramă grafică utilizată frecvent în interfețele utilizator pentru aplicațiile de inteligență artificială pentru a semnala noutatea, îmbunătățirea sau potențarea creativă. Acesta servește ca un indiciu non-verbal care indică faptul că o funcție a fost actualizată sau că rezultatul este special.

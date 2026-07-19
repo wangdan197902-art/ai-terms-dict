@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /cs/terms/artificial_wisdom/
 date: "2026-07-18T15:43:20.880861Z"
 lastmod: "2026-07-18T17:15:09.103565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Rozšíření AI mimo inteligenci o soud, etiku a kontextuální porozumění pro racionální rozhodování."
 ---
-
 ## Definition
 
 Umělá moudrost (AW) je vznikající koncept, který se snaží doplnit umělou inteligenci o lidské hodnoty, etické úvahy a dlouhodobé strategické soudy. Zatímco AI se zaměřuje na efektivitu, AW klade důraz na správnost a etiku.

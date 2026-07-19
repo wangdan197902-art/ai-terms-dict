@@ -1,23 +1,24 @@
 ---
-title: "Dostosowanie do Instrukcji"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Dostosowanie do Instrukcji
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /pl/terms/instruction_tuning/
-date: "2026-07-18T15:26:34.104565Z"
-lastmod: "2026-07-18T17:15:08.813517Z"
+slug: instruction_tuning
+date: '2026-07-18T15:26:34.104565Z'
+lastmod: '2026-07-18T17:15:08.813517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Dostosowanie do instrukcji to technika dostrajania, w której wstępnie wytrenowany model językowy jest trenowany na zbiorze danych zawierającym instrukcje i odpowiadające im odpowiedzi, aby poprawić zd"
+source: agnes_llm
+status: published
+language: pl
+description: Dostosowanie do instrukcji to technika dostrajania, w której wstępnie
+  wytrenowany model językowy jest trenowany na zbiorze danych zawierającym instrukcje
+  i odpowiadające im odpowiedzi, aby poprawić zd
 ---
-
 ## Definition
 
 Proces ten zamyka lukę między ogólnym wstępnym trenowaniem a wydajnością w konkretnych zadaniach. Poprzez ekspozycję modelu na zróżnicowane pary instrukcja-odpowiedź, uczy się on uogólniać na niewidziane wcześniej zadania bez...

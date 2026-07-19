@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /nl/terms/last_mile/
 date: "2026-07-18T16:02:56.116364Z"
 lastmod: "2026-07-18T17:15:08.760578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De laatste fase van het leveren van AI-oplossingen vanuit ontwikkelomgevingen naar eindgebruikers in echte operationele omgevingen."
 ---
-
 ## Definition
 
 Het 'last mile'-probleem verwijst naar de uitdagingen die worden ervaren bij het implementeren van modellen in productie, waaronder integratie met bestaande infrastructuur, het garanderen van low-latency inference en het afhandelen van edge cases.

@@ -1,23 +1,25 @@
 ---
-title: "Érvelés"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Érvelés
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /hu/terms/reasoning/
-date: "2026-07-18T15:39:25.490761Z"
-lastmod: "2026-07-18T17:15:09.744393Z"
+slug: reasoning
+date: '2026-07-18T15:39:25.490761Z'
+lastmod: '2026-07-18T17:15:09.744393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az érvelés arra utal a kognitív folyamatra, amely során következtetéseket vonunk le, előrejelzéseket készítünk vagy problémákat oldunk meg az rendelkezésre álló információk alapján."
+source: agnes_llm
+status: published
+language: hu
+description: Az érvelés arra utal a kognitív folyamatra, amely során következtetéseket
+  vonunk le, előrejelzéseket készítünk vagy problémákat oldunk meg az rendelkezésre
+  álló információk alapján.
 ---
-
 ## Definition
 
 Az AI-ban az érvelés olyan algoritmusokat foglal magában, amelyek szimbolikus logikát, valószínűségi következtetést vagy abdukciót szimulálnak az adatok feldolgozására és betekintések generálására. Ez magában foglalja a deduktív és induktív logikai folyamatokat is.

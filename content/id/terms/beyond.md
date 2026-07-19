@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /id/terms/beyond/
 date: "2026-07-18T15:23:42.150484Z"
 lastmod: "2026-07-18T16:38:07.389634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Istilah konseptual yang merujuk pada kemajuan atau aplikasi yang melampaui batas teknologi saat ini atau batas tradisional AI."
 ---
-
 ## Definition
 
 Dalam konteks terminologi AI, 'beyond' sering menggambarkan paradigma baru atau arah masa depan yang melampaui kemampuan saat ini, seperti Kecerdasan Buatan Umum (AGI) atau komputasi kuantum.

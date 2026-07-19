@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /ja/terms/governance/
 date: "2026-07-18T11:16:33.853250Z"
 lastmod: "2026-07-18T11:44:45.102518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムが責任を持ってかつ倫理的に開発・導入されることを確保するために確立された、ポリシー、基準、監督メカニズムの枠組み。"
 ---
-
 ## Definition
 
 AIガバナンスとは、人工知能の作成、使用、監査の方法を管理する一連のルール、ガイドライン、制度的構造を指します。これには法的コンプライアンス、倫理的配慮、リスク管理などが含まれます。

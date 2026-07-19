@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /de/terms/chat/
 date: "2026-07-18T11:07:15.155036Z"
 lastmod: "2026-07-18T11:44:44.917067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Chat bezeichnet die interaktive, konversationelle Kommunikation zwischen einem Benutzer und einem KI-System, die typischerweise durch natürliche Sprache vermittelt wird."
 ---
-
 ## Definition
 
 Im Kontext von KI bezeichnet Chat die Schnittstelle und den zugrunde liegenden Mechanismus für Echtzeit-Dialoge im Wechselgespräch. Es ermöglicht Benutzern, Fragen zu stellen, Aufgaben anzufordern oder sich in offene Gespräche einzubringen.

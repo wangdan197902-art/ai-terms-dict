@@ -1,23 +1,23 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /zh/terms/alphachip/
-date: "2026-07-18T11:04:49.783864Z"
-lastmod: "2026-07-18T11:44:45.441635Z"
+slug: alphachip
+date: '2026-07-18T11:04:49.783864Z'
+lastmod: '2026-07-18T11:44:45.441635Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由Google DeepMind开发的AI驱动芯片设计工具，利用强化学习优化集成电路布局。"
+source: agnes_llm
+status: published
+language: zh
+description: 由Google DeepMind开发的AI驱动芯片设计工具，利用强化学习优化集成电路布局。
 ---
-
 ## Definition
 
 AlphaChip是一个专门的AI系统，旨在自动化并增强微芯片上组件的放置和布线过程。通过采用深度强化学习，它显著缩短了设计周期。

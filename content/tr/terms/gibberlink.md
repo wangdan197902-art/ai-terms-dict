@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /tr/terms/gibberlink/
 date: "2026-07-18T15:55:13.929100Z"
 lastmod: "2026-07-18T16:38:07.313275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gibberlink, yapay zeka literatüründe tanınan bir standart terim değildir."
 ---
-
 ## Definition
 
 Yapay zeka, makine öğrenmesi veya bilgisayar bilimi alanında 'Gibberlink' olarak bilinen yerleşik bir kavram, teknoloji veya metodoloji bulunmamaktadır. Bu terim bir yazım hatası veya kurgusal bir ifade olabilir.

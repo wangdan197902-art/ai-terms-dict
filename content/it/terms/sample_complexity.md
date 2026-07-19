@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /it/terms/sample_complexity/
 date: "2026-07-18T16:20:39.321647Z"
 lastmod: "2026-07-18T17:15:08.667021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La complessità del campione si riferisce al numero di esempi di addestramento richiesti affinché un algoritmo di machine learning raggiunga un livello specifico di prestazioni con alta probabilità."
 ---
-
 ## Definition
 
 Nella teoria computazionale dell'apprendimento, la complessità del campione quantifica la quantità di dati necessaria per addestrare un modello in modo efficace. Bilancia il compromesso tra capacità del modello e disponibilità dei dati, garantendo una migliore generalizzazione.

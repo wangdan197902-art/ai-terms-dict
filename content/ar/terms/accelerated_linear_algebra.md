@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /ar/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:41:51.530716Z"
 lastmod: "2026-07-18T17:15:08.472139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يتضمن الجبر الخطي المتسارع تحسين عمليات المصفوفات باستخدام مسرعات الأجهزة مثل وحدات معالجة الرسومات (GPUs) ووحدات معالجة Tensor (TPUs) للأداء العالي."
 ---
-
 ## Definition
 
 يركز هذا المجال على تسريع الحسابات الأساسية للجبر الخطي، وهي جوهر تعلم الآلة والمحاكاة العلمية. من خلال الاستفادة من قدرات المعالجة المتوازية لوحدة معالجة الرسومات ووحدة معالجة Tensor، يتم تحقيق تسريع كبير في سرعة وكفاءة العمليات الحسابية المعقدة.

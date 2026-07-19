@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /ja/terms/algorithmic_inference/
 date: "2026-07-18T11:03:26.813776Z"
 lastmod: "2026-07-18T11:44:45.066379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "アルゴリズム推論とは、訓練済み機械学習モデルが、新しい未見のデータに学習したパターンを適用して予測や意思決定を行うプロセスです。"
 ---
-
 ## Definition
 
 予測またはスコアリングとも呼ばれる推論は、モデルのトレーニングフェーズ後に発生します。アルゴリズムは入力特徴量を取り、内部構造（ニューラルネットの重みなど）を通じて処理し、最終的な出力を生成します。

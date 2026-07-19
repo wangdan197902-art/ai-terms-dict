@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /ja/terms/token_limit/
 date: "2026-07-18T11:01:28.544071Z"
 lastmod: "2026-07-18T11:44:45.058606Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIモデルが1回の入出力シーケンスで処理できるトークンの最大数。"
 ---
-
 ## Definition
 
 トークン制限は、大規模言語モデルのコンテキストウィンドウサイズの制約を定義し、一度に分析または生成できるテキストの量を制限します。このアーキテクチャ上の境界は、メモリ管理に影響を与えます。

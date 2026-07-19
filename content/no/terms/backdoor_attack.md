@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /no/terms/backdoor_attack/
 date: "2026-07-18T16:21:33.054780Z"
 lastmod: "2026-07-18T16:38:07.059234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En sikkerhetstrussel der onde aktører legger inn skjulte utløsere i AI-modeller under treningen for å forårsake spesifikke feilklassifiseringer."
 ---
-
 ## Definition
 
 Et bakdørsangrep involverer forgiftning av treningsdataene til en maskinlæringsmodell med spesifikke mønstre, kjent som utløsere. Mens modellen fungerer normalt på ren data, aktiverer den feilaktige atferd når utløseren...

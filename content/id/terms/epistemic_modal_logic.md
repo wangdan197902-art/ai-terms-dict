@@ -1,23 +1,24 @@
 ---
-title: "Logika modal epistemik"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Logika modal epistemik
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /id/terms/epistemic_modal_logic/
-date: "2026-07-18T15:49:34.400545Z"
-lastmod: "2026-07-18T16:38:07.455420Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:49:34.400545Z'
+lastmod: '2026-07-18T16:38:07.455420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Cabang logika modal yang menggunakan sistem formal untuk merepresentasikan dan menalar tentang keadaan pengetahuan dan kepercayaan agen."
+source: agnes_llm
+status: published
+language: id
+description: Cabang logika modal yang menggunakan sistem formal untuk merepresentasikan
+  dan menalar tentang keadaan pengetahuan dan kepercayaan agen.
 ---
-
 ## Definition
 
 Logika modal epistemik memperluas logika klasik dengan operator yang menunjukkan apa yang diketahui atau diyakini oleh suatu agen. Logika ini sangat penting dalam sistem multi-agen, di mana penalaran tentang pengetahuan peserta lain diperlukan untuk koordinasi dan interaksi.

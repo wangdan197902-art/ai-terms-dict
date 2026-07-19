@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /no/terms/artificial_reproduction/
 date: "2026-07-18T15:43:24.704681Z"
 lastmod: "2026-07-18T16:38:06.972822Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av bioteknologi og AI for å assistere eller replikere biologiske reproduksjonsprosesser, ofte innen medisin eller landbruk."
 ---
-
 ## Definition
 
 Kunstig reproduksjon omfatter teknikker som letter eller replikerer biologisk reproduksjon uten direkte seksuell omgang, og bruker tungt teknologi og i økende grad AI for optimering

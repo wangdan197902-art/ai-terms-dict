@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /es/terms/continuous_time/
 date: "2026-07-18T10:27:49.565479Z"
 lastmod: "2026-07-18T11:44:44.755506Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un enfoque de modelado donde las variables cambian suavemente en un dominio continuo en lugar de pasos discretos."
 ---
-
 ## Definition
 
 Los modelos de tiempo continuo describen la dinámica del sistema utilizando ecuaciones diferenciales, permitiendo una evolución suave de los estados a lo largo del tiempo. En IA, esto se ejemplifica mediante Ecuaciones Diferenciales Ordinarias Neurales (Neural ODEs)...

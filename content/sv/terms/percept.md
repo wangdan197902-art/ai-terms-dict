@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /sv/terms/percept/
 date: "2026-07-18T16:13:12.537620Z"
 lastmod: "2026-07-18T17:15:09.035825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den mentala representationen eller det tolkade resultatet av sensorisk indata som bearbetats av en perceptron."
 ---
-
 ## Definition
 
 Ett percept är den interna representationen av en yttre stimulans efter att den har bearbetats av ett uppfattande system. Inom AI motsvarar detta den strukturerade datautmatningen från lågnivåsignalfö

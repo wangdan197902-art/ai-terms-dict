@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /da/terms/multi_stage/
 date: "2026-07-18T15:32:39.006740Z"
 lastmod: "2026-07-18T17:15:09.239673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En procesdesign, der opdeler en kompleks opgave i distinkte, sekventielle faser, hver med specifikke mål og output."
 ---
-
 ## Definition
 
 Multi-stage-tilgange nedbryder indviklede arbejdsgange i håndterbare segmenter, hvilket muliggør specialiseret behandling i hvert trin. Denne metode forbedrer kontrollen, fejlfindingen og optimeringen af ydeevnen.

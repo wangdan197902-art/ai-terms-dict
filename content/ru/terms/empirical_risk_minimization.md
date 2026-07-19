@@ -1,23 +1,24 @@
 ---
-title: "Минимизация эмпирического риска"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Минимизация эмпирического риска
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /ru/terms/empirical_risk_minimization/
-date: "2026-07-18T15:51:41.387259Z"
-lastmod: "2026-07-18T16:38:07.153440Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:51:41.387259Z'
+lastmod: '2026-07-18T16:38:07.153440Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фундаментальный принцип машинного обучения, направленный на минимизацию средних потерь на наблюдаемых обучающих данных."
+source: agnes_llm
+status: published
+language: ru
+description: Фундаментальный принцип машинного обучения, направленный на минимизацию
+  средних потерь на наблюдаемых обучающих данных.
 ---
-
 ## Definition
 
 Минимизация эмпирического риска (ERM) — это стандартная целевая функция для обучения моделей обучения с учителем. Она включает выбор гипотезы из класса функций, которая минимизирует среднюю ошибку

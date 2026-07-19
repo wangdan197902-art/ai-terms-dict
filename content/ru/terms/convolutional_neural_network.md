@@ -1,23 +1,25 @@
 ---
-title: "Сверточная нейронная сеть"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Сверточная нейронная сеть
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /ru/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:43.890323Z"
-lastmod: "2026-07-18T16:38:07.068907Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:43.890323Z'
+lastmod: '2026-07-18T16:38:07.068907Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Специализированный класс глубоких нейронных сетей, используемых преимущественно для обработки структурированных данных, таких как изображения, путем применения сверточных фильтров."
+source: agnes_llm
+status: published
+language: ru
+description: Специализированный класс глубоких нейронных сетей, используемых преимущественно
+  для обработки структурированных данных, таких как изображения, путем применения
+  сверточных фильтров.
 ---
-
 ## Definition
 
 Сверточные нейронные сети (CNN) предназначены для автоматического и адаптивного изучения пространственных иерархий признаков из визуальных входных данных. Они используют сверточные слои, которые применяют фильтры для выявления локальных паттернов, таких как края и текстуры.

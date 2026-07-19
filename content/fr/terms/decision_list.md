@@ -1,23 +1,23 @@
 ---
-title: "Liste de décision"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Liste de décision
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /fr/terms/decision_list/
-date: "2026-07-18T11:12:54.770642Z"
-lastmod: "2026-07-18T11:44:45.240726Z"
+slug: decision_list
+date: '2026-07-18T11:12:54.770642Z'
+lastmod: '2026-07-18T11:44:45.240726Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un classificateur interprétable composé d'une liste ordonnée de règles où la première règle correspondante détermine la sortie."
+source: agnes_llm
+status: published
+language: fr
+description: Un classificateur interprétable composé d'une liste ordonnée de règles
+  où la première règle correspondante détermine la sortie.
 ---
-
 ## Definition
 
 Une liste de décision est un type de modèle d'apprentissage automatique qui représente les connaissances sous forme de séquence de règles conditionnelles. Chaque règle consiste en une condition et une étiquette de classe prédite. Lors de la classification d'une nouvelle instance, la première règle dont la condition est vraie fournit la prédiction finale.

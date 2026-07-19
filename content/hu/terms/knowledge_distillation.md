@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /hu/terms/knowledge_distillation/
 date: "2026-07-18T16:07:05.793579Z"
 lastmod: "2026-07-18T17:15:09.799430Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A tudásdistilláció egy modellsűrítés technika, ahol egy kisebb diákmodell megtanulja utánozni egy nagyobb tanármodell viselkedését."
 ---
-
 ## Definition
 
 A tudásdistilláció egy gépi tanulási módszer, amelyet egy nagy, komplex neurális hálózat (tanár) tömörítésére használnak egy kisebb, hatékonyabb hálózattá (diák). A diákmodellt arra

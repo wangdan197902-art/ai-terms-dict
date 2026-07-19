@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /ja/terms/human_in_the_loop/
 date: "2026-07-18T10:59:21.201212Z"
 lastmod: "2026-07-18T11:44:45.048430Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間がAIモデルの意思決定またはフィードバックプロセスに積極的に参加するシステム設計。"
 ---
-
 ## Definition
 
 ヒューマン・イン・ザ・ループ（HITL）とは、データラベリング、モデル評価、最終的な意思決定承認など、ワークフローの様々な段階で人間の介入が必要なAIシステムを指します。このアプローチは、精度と責任の確保に役立ちます。

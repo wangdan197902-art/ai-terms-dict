@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /cs/terms/evolving/
 date: "2026-07-18T15:24:50.019713Z"
 lastmod: "2026-07-18T17:15:09.067888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Popisuje systémy nebo algoritmy AI, které se neustále přizpůsobují a zlepšují s přibývajícími novými daty nebo zpětnou vazbou."
 ---
-
 ## Definition
 
 Termín 'vyvíjející se' charakterizuje dynamické modely AI, které procházejí nepřetržitým učením a adaptací, místo aby zůstaly statické po počátečním tréninku. Tento koncept je klíčový pro celoživotní učení...

@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /es/terms/double_descent/
 date: "2026-07-18T10:44:44.179818Z"
 lastmod: "2026-07-18T11:44:44.800400Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un fenómeno donde el error de prueba disminuye, aumenta y luego vuelve a disminuir a medida que la complejidad del modelo crece más allá del umbral de interpolación."
 ---
-
 ## Definition
 
 El doble descenso desafía la compensación tradicional entre sesgo y varianza, mostrando que los modelos altamente sobreparametrizados pueden lograr un bajo error de prueba a pesar de interpolar los datos de entrenamiento. Inicialmente, el error aumenta debido al sobreajuste, pero luego disminuye nuevamente cuando el modelo se vuelve lo suficientemente complejo.

@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /vi/terms/knowledge_integration/
 date: "2026-07-18T15:59:24.068450Z"
 lastmod: "2026-07-18T16:38:07.773197Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình kết hợp các nguồn tri thức khác biệt thành một biểu diễn thống nhất, nhất quán để nâng cao khả năng suy luận."
 ---
-
 ## Definition
 
 Tích hợp tri thức bao gồm việc hợp nhất dữ liệu từ nhiều nguồn đa dạng, chẳng hạn như cơ sở dữ liệu, ontology và văn bản không cấu trúc, vào một lược đồ mạch lạc. Nó giải quyết các vấn đề về sự khác biệt ngữ nghĩa và tính không nhất quán giữa các nguồn dữ liệu khác nhau.

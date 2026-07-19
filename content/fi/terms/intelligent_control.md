@@ -1,23 +1,24 @@
 ---
-title: "Älykäs ohjaus"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Älykäs ohjaus
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /fi/terms/intelligent_control/
-date: "2026-07-18T16:04:13.996136Z"
-lastmod: "2026-07-18T17:15:09.423336Z"
+slug: intelligent_control
+date: '2026-07-18T16:04:13.996136Z'
+lastmod: '2026-07-18T17:15:09.423336Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ohjausjärjestelmät, jotka hyödyntävät tekoälytekniikoita monimutkaisten, epälineaaristen tai epävarmojen dynaamisten prosessien hallintaan."
+source: agnes_llm
+status: published
+language: fi
+description: Ohjausjärjestelmät, jotka hyödyntävät tekoälytekniikoita monimutkaisten,
+  epälineaaristen tai epävarmojen dynaamisten prosessien hallintaan.
 ---
-
 ## Definition
 
 Älykäs ohjaus käyttää tekoälymenetelmiä, kuten summan logiikkaa, neuroverkkoja ja geneettisiä algoritmeja, säätelemään järjestelmiä, joissa perinteinen matemaattinen mallinnus on riittämätöntä tai

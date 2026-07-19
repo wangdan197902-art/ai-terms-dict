@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /pt/terms/outline_of_deep_learning/
 date: "2026-07-18T15:15:32.914031Z"
 lastmod: "2026-07-18T15:51:59.519681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma visão geral estruturada das metodologias, arquiteturas e estratégias de otimização do aprendizado profundo."
 ---
-
 ## Definition
 
 O esboço do aprendizado profundo abrange as estruturas fundamentais, como camadas de redes neurais, funções de ativação e métricas de perda. Ele detalha técnicas de treinamento, incluindo retropropagação, gradiente descendente e regularização.

@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /vi/terms/gibberlink/
 date: "2026-07-18T15:55:07.757435Z"
 lastmod: "2026-07-18T16:38:07.761436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Gibberlink không phải là một thuật ngữ tiêu chuẩn được công nhận trong tài liệu về trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 Không có khái niệm, công nghệ hoặc phương pháp luận nào được biết đến với tên gọi 'Gibberlink' trong lĩnh vực trí tuệ nhân tạo, học máy hoặc khoa học máy tính. Đây có thể là một lỗi chính tả hoặc một thuật ngữ hư cấu.

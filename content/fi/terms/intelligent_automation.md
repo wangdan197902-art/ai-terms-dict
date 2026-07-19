@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /fi/terms/intelligent_automation/
 date: "2026-07-18T16:04:13.996129Z"
 lastmod: "2026-07-18T17:15:09.423226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyn yhdistäminen robottiprosessiautomatiikkaan monimutkaisten, rakenteettomien liiketoimintaprosessien hoitamiseksi."
 ---
-
 ## Definition
 
 Älykäs automaatio integroi perinteisen robottiprosessiautomatiikan (RPA) edistyneisiin tekoälytekniikoihin, kuten koneoppimiseen ja luonnollisen kielen käsittelyyn. Kun RPA hoitaa sääntöihin perustuvia, struktu

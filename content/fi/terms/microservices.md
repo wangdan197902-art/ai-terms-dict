@@ -7,8 +7,6 @@ tags: ["architecture", "scalability", "deployment"]
 difficulty: 2
 weight: 1
 slug: "microservices"
-aliases:
-  - /fi/terms/microservices/
 date: "2026-07-18T16:10:48.957240Z"
 lastmod: "2026-07-18T17:15:09.433996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mikropalvelut ovat arkkitehtuurityyli, joka rakentaa sovelluksen löyhästi kytketyistä, itsenäisesti julkaistavista palveluista, jotka on organisoitu liiketoimintakykyjen ympärille."
 ---
-
 ## Definition
 
 Tekoälyinsinöörintyössä mikropalvelut mahdollistavat tekoälyputken eri komponenttien, kuten datan esikäsittelyn, mallin päättelyn ja tulosten tallennuksen, kehittämisen, skaalaamisen ja ylläpidon itsenäisesti toisistaan. Tämä arkkitehtuuri lisää joustavuutta ja luotettavuutta monimutkaisissa järjestelmissä.

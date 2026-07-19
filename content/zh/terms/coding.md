@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /zh/terms/coding/
 date: "2026-07-18T11:10:26.183933Z"
 lastmod: "2026-07-18T11:44:45.457436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "编码是使用编程语言编写计算机指令以创建软件、应用程序或脚本的过程。"
 ---
-
 ## Definition
 
 编码，也称为编程，涉及将人类逻辑和需求转换为计算机可执行的格式。它使用特定编程语言定义的语法和语义...

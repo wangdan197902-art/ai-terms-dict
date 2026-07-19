@@ -1,23 +1,23 @@
 ---
-title: "群"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: 群
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /zh/terms/group/
-date: "2026-07-18T10:51:52.868966Z"
-lastmod: "2026-07-18T11:44:45.370371Z"
+slug: group
+date: '2026-07-18T10:51:52.868966Z'
+lastmod: '2026-07-18T11:44:45.370371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种基本的数学结构，由一个配备有运算的集合组成，该运算将任意两个元素组合成第三个元素。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种基本的数学结构，由一个配备有运算的集合组成，该运算将任意两个元素组合成第三个元素。
 ---
-
 ## Definition
 
 在数学和理论计算机科学中，群是一个集合G连同满足四个公理的二元运算：封闭性、结合律、单位元和逆元。在AI中，群论被用于...

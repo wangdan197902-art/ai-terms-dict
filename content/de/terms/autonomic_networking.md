@@ -1,23 +1,24 @@
 ---
-title: "Autonomes Networking"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Autonomes Networking
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /de/terms/autonomic_networking/
-date: "2026-07-18T11:04:18.810343Z"
-lastmod: "2026-07-18T11:44:44.913049Z"
+slug: autonomic_networking
+date: '2026-07-18T11:04:18.810343Z'
+lastmod: '2026-07-18T11:44:44.913049Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Selbstverwaltende Netzwerkinfrastruktur, die KI zur Konfiguration, Optimierung und Selbstheilung nutzt."
+source: agnes_llm
+status: published
+language: de
+description: Selbstverwaltende Netzwerkinfrastruktur, die KI zur Konfiguration, Optimierung
+  und Selbstheilung nutzt.
 ---
-
 ## Definition
 
 Autonomes Networking wendet Prinzipien des autonomic computing auf Telekommunikationsnetze an und ermöglicht es Systemen, sich mit minimalem menschlichem Eingriff selbst zu verwalten. Diese Netze nutzen KI, um Fehler zu erkennen, zu diagnostizieren und...

@@ -1,23 +1,24 @@
 ---
-title: "Detekce překrývající se řeči"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Detekce překrývající se řeči
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /cs/terms/overlapped_speech_detection/
-date: "2026-07-18T16:11:47.502531Z"
-lastmod: "2026-07-18T17:15:09.184421Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:11:47.502531Z'
+lastmod: '2026-07-18T17:15:09.184421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces identifikace časových úseků, kdy se ve zvukovém proudu mluví dvě nebo více osob současně."
+source: agnes_llm
+status: published
+language: cs
+description: Proces identifikace časových úseků, kdy se ve zvukovém proudu mluví dvě
+  nebo více osob současně.
 ---
-
 ## Definition
 
 Detekce překrývající se řeči (OSD) je specializovanou úlohou v zpracování řeči, která přesně určuje intervaly současných vokalizací. Na rozdíl od diarizace řečníků, která se zaměřuje na to, kdo a kdy mluvil, OSD se specializuje na detekci překryvů.

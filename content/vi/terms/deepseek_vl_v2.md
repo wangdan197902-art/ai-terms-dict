@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /vi/terms/deepseek_vl_v2/
 date: "2026-07-18T15:48:58.163087Z"
 lastmod: "2026-07-18T16:38:07.748166Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "DeepSeek VL V2 là một mô hình Ngôn ngữ-Hình ảnh được thiết kế để xử lý và hiểu cả đầu vào trực quan và truy vấn văn bản với độ chính xác và hiệu suất cao."
 ---
-
 ## Definition
 
 DeepSeek VL V2 mở rộng khả năng của mô hình ngôn ngữ tiêu chuẩn sang lĩnh vực đa phương thức, cho phép nó diễn giải hình ảnh cùng với văn bản. Sử dụng bộ mã hóa thị giác kết nối với một mô hình ngôn ngữ lớn

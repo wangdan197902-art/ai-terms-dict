@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /ar/terms/understanding/
 date: "2026-07-18T15:31:48.544658Z"
 lastmod: "2026-07-18T17:15:08.451884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "في الذكاء الاصطناعي، قدرة النموذج على استيعاب المعنى الدلالي والسياق والنية داخل بيانات الإدخال بدلاً من مجرد مطابقة الأنماط."
 ---
-
 ## Definition
 
 يتجاوز فهم الذكاء الاصطناعي الارتباط الإحصائي لتفسير المعنى الكامن للبيانات. بالنسبة لنماذج اللغة، يتضمن ذلك إدراك القواعد والدلالة والاستعمال لتوليد نصوص متماسكة و

@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /fi/terms/inference/
 date: "2026-07-18T15:22:52.575556Z"
 lastmod: "2026-07-18T17:15:09.345306Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Vaihe, jossa koulutettu malli käsittelee uutta dataa tuottaakseen ennusteita tai tuloksia."
 ---
-
 ## Definition
 
 Inferenssi viittaa käyttöönottovaiheeseen, jossa valmis mallia käytetään tekemään päätelmiä tai ennusteita näkemättömälle datalle. Toisin kuin koulutus, joka päivittää painoarvoja, inferenssi kuluttaa laskentaresursseja tulosten tuottamiseen.

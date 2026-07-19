@@ -1,23 +1,24 @@
 ---
-title: "Random feature"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Random feature
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /en/terms/random_feature/
-date: "2026-07-18T10:13:36.396610Z"
-lastmod: "2026-07-18T11:44:44.715922Z"
+slug: random_feature
+date: '2026-07-18T10:13:36.396610Z'
+lastmod: '2026-07-18T11:44:44.715922Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A technique that maps input data into a higher-dimensional space using random projections to approximate kernel methods efficiently."
+source: agnes_llm
+status: published
+language: en
+description: A technique that maps input data into a higher-dimensional space using
+  random projections to approximate kernel methods efficiently.
 ---
-
 ## Definition
 
 Random feature maps transform inputs into a new space where linear models can approximate non-linear kernel functions. This approach, often associated with the Nystrom method or Fourier features, allows for scalable kernel regression and classification. By avoiding the explicit computation of large kernel matrices, it reduces computational complexity from quadratic to linear in the number of samples, making it suitable for large-scale datasets.

@@ -1,23 +1,24 @@
 ---
-title: "Funksjonslager"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: Funksjonslager
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /no/terms/feature_store/
-date: "2026-07-18T15:54:29.422484Z"
-lastmod: "2026-07-18T16:38:07.000831Z"
+slug: feature_store
+date: '2026-07-18T15:54:29.422484Z'
+lastmod: '2026-07-18T16:38:07.000831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et sentralt lager designet for å administrere, dele og levere funksjoner konsekvent på tvers av maskinlæringstrening og inferens."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et sentralt lager designet for å administrere, dele og levere funksjoner
+  konsekvent på tvers av maskinlæringstrening og inferens.
 ---
-
 ## Definition
 
 Et Funksjonslager fungerer som en bro mellom dataingeniør og maskinlæringslag, og gir et samlet overblikk over funksjoner for både batch-trening og sanntidsinferens. Det sikrer konsistens ved å forhindre diskrepanser mellom trenings- og produksjonsmiljøer, og muliggjør gjenbruk av funksjoner på tvers av ulike modeller og team.

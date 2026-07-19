@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /zh/terms/knowledge_based_configuration/
 date: "2026-07-18T11:23:17.078319Z"
 lastmod: "2026-07-18T11:44:45.521633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种自动化过程，利用领域特定的知识库，根据用户约束生成有效的产品配置。"
 ---
-
 ## Definition
 
 该方法在知识库中采用约束满足技术，以确保组装的产品符合所有技术和客户要求。它通过编码规则来防止无效的组合。

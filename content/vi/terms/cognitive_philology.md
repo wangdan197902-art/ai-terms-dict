@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /vi/terms/cognitive_philology/
 date: "2026-07-18T15:44:29.512294Z"
 lastmod: "2026-07-18T16:38:07.737116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nhận thức văn học áp dụng các phương pháp tính toán và nguyên lý khoa học nhận thức vào việc nghiên cứu ngôn ngữ, văn học và lịch sử văn bản."
 ---
-
 ## Definition
 
 Nhận thức văn học là một lĩnh vực liên ngành kết hợp nhân văn số, ngôn ngữ học và khoa học nhận thức để phân tích văn bản và sự tiến hóa của ngôn ngữ. Nó sử dụng các công cụ tính toán để xử lý lượng lớn dữ liệu văn bản, giúp khám phá các mẫu ngôn ngữ, phong cách viết và bối cảnh lịch sử.

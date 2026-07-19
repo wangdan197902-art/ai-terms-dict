@@ -1,23 +1,24 @@
 ---
-title: "المعالجة غير المتزامنة"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: المعالجة غير المتزامنة
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /ar/terms/async_processing/
-date: "2026-07-18T15:45:12.337555Z"
-lastmod: "2026-07-18T17:15:08.478003Z"
+slug: async_processing
+date: '2026-07-18T15:45:12.337555Z'
+lastmod: '2026-07-18T17:15:08.478003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نمط برمجة حيث تُنفذ المهام بشكل مستقل عن خيط التنفيذ الرئيسي، مما يسمح بإجراءات غير حاصِرة."
+source: agnes_llm
+status: published
+language: ar
+description: نمط برمجة حيث تُنفذ المهام بشكل مستقل عن خيط التنفيذ الرئيسي، مما يسمح
+  بإجراءات غير حاصِرة.
 ---
-
 ## Definition
 
 تسمح المعالجة غير المتزامنة للبرمجيات بتنفيذ مهام طويلة الأمد، مثل عمليات الإدخال/الإخراج أو الحسابات المعقدة، دون تجميد واجهة التطبيق الرئيسية أو حظر العمليات الأخرى. من خلال د

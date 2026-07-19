@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /fi/terms/view/
 date: "2026-07-18T15:32:56.079350Z"
 lastmod: "2026-07-18T17:15:09.362559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Virtuaalitaulu tietokannassa, joka syntyy tallennetusta kyselystä ja esittää dataa yhdestä tai useammasta taulusta ilman fyysistä tallennusta."
 ---
-
 ## Definition
 
 Tietokantahallinnassa näkymä toimii tallennettuna SQL-kyselynä, joka käyttäytyy kuin taulu mutta ei sisällä dataa itsessään. Se tarjoaa yksinkertaistetun tai mukautetun näkymän taustalla olevasta datasta parantaen turvallisuutta.

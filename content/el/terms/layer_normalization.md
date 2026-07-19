@@ -1,23 +1,24 @@
 ---
-title: "Κανονικοποίηση Στρώματος"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Κανονικοποίηση Στρώματος
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /el/terms/layer_normalization/
-date: "2026-07-18T16:17:36.312004Z"
-lastmod: "2026-07-18T17:15:09.925158Z"
+slug: layer_normalization
+date: '2026-07-18T16:17:36.312004Z'
+lastmod: '2026-07-18T17:15:09.925158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική που κανονικοποιεί τις ενεργοποιήσεις μιας νευρωνικής στρώσης κατά μήκος της διάστασης των χαρακτηριστικών για κάθε μεμονωμένο δείγμα."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική που κανονικοποιεί τις ενεργοποιήσεις μιας νευρωνικής στρώσης
+  κατά μήκος της διάστασης των χαρακτηριστικών για κάθε μεμονωμένο δείγμα.
 ---
-
 ## Definition
 
 Η Κανονικοποίηση Στρώματος σταθεροποιεί την εκπαίδευση μειώνοντας τη μετατόπιση εσωτερικού συσχετισμού, ιδιαίτερα αποτελεσματική σε αρχιτεκτονικές επαναλαμβανόμενων (RNN) και μετασχηματιστών (Transformers). Σε αντίθεση με την Κανονικοποίηση Παρτίδας, η οποία εξαρτάται από στατιστικά παρτίδας, αυτή λειτουργεί ανεξάρτητα από το μέγεθος της παρτίδας.

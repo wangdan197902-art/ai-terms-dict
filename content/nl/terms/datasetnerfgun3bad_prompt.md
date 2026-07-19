@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /nl/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:49:57.745268Z"
 lastmod: "2026-07-18T17:15:08.734554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een niche-dataset die waarschijnlijk adversariële, lage-kwaliteit of opzettelijk slecht gevormde prompts bevat, gebruikt om de robuustheid te testen of ruis in inputs van taalmodellen te filteren."
 ---
-
 ## Definition
 
 Deze term verwijst naar een specifieke dataset gehost op Hugging Face onder de gebruiker 'Nerfgun3', getiteld 'Bad Prompt'. Hoewel minder standaard dan grote benchmarks, worden dergelijke datasets vaak gebruikt om modelrobustheid te bestuderen en te testen hoe modellen omgaan met verrassende of schadelijke inputs.

@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /es/terms/embodied/
 date: "2026-07-18T10:22:17.418725Z"
 lastmod: "2026-07-18T11:44:44.738931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La IA encarnada se refiere a sistemas inteligentes que interactúan con el mundo físico a través de sensores y actuadores dentro de un cuerpo."
 ---
-
 ## Definition
 
 La IA encarnada postula que la inteligencia emerge de la interacción entre la forma física de un agente y su entorno. A diferencia de la IA no encarnada que procesa datos abstractos, los agentes encarnados utilizan sensores para percibir el entorno y actuadores para actuar sobre él, aprendiendo mediante la experiencia física directa.

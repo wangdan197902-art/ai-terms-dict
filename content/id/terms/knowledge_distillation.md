@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /id/terms/knowledge_distillation/
 date: "2026-07-18T15:56:43.108053Z"
 lastmod: "2026-07-18T16:38:07.473682Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Distilasi pengetahuan adalah teknik kompresi model di mana model siswa yang lebih kecil belajar meniru perilaku model guru yang lebih besar."
 ---
-
 ## Definition
 
 Distilasi pengetahuan adalah metode pembelajaran mesin yang digunakan untuk mengompresi jaringan saraf besar dan kompleks (guru) menjadi jaringan yang lebih kecil dan efisien (siswa). Model siswa dilatih untuk

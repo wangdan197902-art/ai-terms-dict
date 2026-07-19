@@ -1,23 +1,24 @@
 ---
-title: "แบบจำลองขับเคลื่อนด้วยข้อมูล"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: แบบจำลองขับเคลื่อนด้วยข้อมูล
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /th/terms/data_driven_model/
-date: "2026-07-18T15:47:50.493160Z"
-lastmod: "2026-07-18T16:38:07.592473Z"
+slug: data_driven_model
+date: '2026-07-18T15:47:50.493160Z'
+lastmod: '2026-07-18T16:38:07.592473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แบบจำลองคอมพิวเตอร์ที่พารามิเตอร์และโครงสร้างถูกเรียนรู้โดยตรงจากข้อมูลเชิงประจักษ์ แทนที่จะเป็นการเขียนโปรแกรมกฎอย่างชัดเจน"
+source: agnes_llm
+status: published
+language: th
+description: แบบจำลองคอมพิวเตอร์ที่พารามิเตอร์และโครงสร้างถูกเรียนรู้โดยตรงจากข้อมูลเชิงประจักษ์
+  แทนที่จะเป็นการเขียนโปรแกรมกฎอย่างชัดเจน
 ---
-
 ## Definition
 
 แบบจำลองขับเคลื่อนด้วยข้อมูล (Data-driven Model) เป็นประเภทของระบบปัญญาประดิษฐ์ที่พฤติกรรมและการทำนายเกิดขึ้นจากรูปแบบที่ระบุภายในข้อมูลประวัติ Rather than ถูกกำหนดโดยกฎที่เขียนตายตัว (Hard-coded rules) หรือสมการทางฟิสิกส์ที่ทราบแน่ชัด โมเดลเหล่านี้เรียนรู้ความสัมพันธ์จากข้อมูลจริงเพื่อทำการคาดการณ์หรือตัดสินใจ

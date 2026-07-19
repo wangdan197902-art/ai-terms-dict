@@ -1,23 +1,24 @@
 ---
-title: "Kontinuerlig distribution"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Kontinuerlig distribution
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /sv/terms/continuous_deployment/
-date: "2026-07-18T15:50:33.608094Z"
-lastmod: "2026-07-18T17:15:08.987740Z"
+slug: continuous_deployment
+date: '2026-07-18T15:50:33.608094Z'
+lastmod: '2026-07-18T17:15:08.987740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En mjukvaruutvecklingspraxis där varje kodändring som bestått automatisk testning automatiskt släpps till produktion."
+source: agnes_llm
+status: published
+language: sv
+description: En mjukvaruutvecklingspraxis där varje kodändring som bestått automatisk
+  testning automatiskt släpps till produktion.
 ---
-
 ## Definition
 
 Kontinuerlig distribution är en utvidgning av kontinuerlig leverans som automatiserar hela distributionsprocessen. När kodändringar har passerat alla kvalitetsgränser, inklusive enhetstester, integreringstester och säkerhetskontroller, deployas de direkt.

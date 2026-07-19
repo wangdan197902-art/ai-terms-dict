@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /pl/terms/out_of_distribution/
 date: "2026-07-18T15:32:38.423499Z"
 lastmod: "2026-07-18T17:15:08.827934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Punkty danych, które znacznie różnią się od rozkładu widzanego podczas fazy trenowania modelu."
 ---
-
 ## Definition
 
 Wykrywanie out-of-distribution (OOD) identyfikuje wejścia, które wychodzą poza zakres rozkładu danych treningowych. Modele często radzą sobie słabo lub pewnie błędnie na danych OOD, co prowadzi do nie...

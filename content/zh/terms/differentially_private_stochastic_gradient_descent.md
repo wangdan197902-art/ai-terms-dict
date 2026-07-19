@@ -1,23 +1,24 @@
 ---
-title: "差分随机梯度下降"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: 差分随机梯度下降
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /zh/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T11:14:55.241296Z"
-lastmod: "2026-07-18T11:44:45.488492Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T11:14:55.241296Z'
+lastmod: '2026-07-18T11:44:45.488492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种优化算法，通过对标准随机梯度下降（SGD）进行梯度裁剪和添加噪声的修改，确保训练后的模型满足差分隐私约束。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种优化算法，通过对标准随机梯度下降（SGD）进行梯度裁剪和添加噪声的修改，确保训练后的模型满足差分隐私约束。
 ---
-
 ## Definition
 
 DP-SGD 是随机梯度下降的一种变体，旨在保护训练数据的隐私。它通过裁剪每个样本梯度的贡献来限制敏感度，然后添加高斯噪声来实现隐私保护。

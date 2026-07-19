@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /fr/terms/mountain_car_problem/
 date: "2026-07-18T11:30:25.273578Z"
 lastmod: "2026-07-18T11:44:45.296634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une tâche classique d'apprentissage par renforcement où un agent doit conduire une voiture vers le haut d'une pente raide en utilisant uniquement des contrôles d'accélération."
 ---
-
 ## Definition
 
 Le Problème de la voiture de montagne est un benchmark standard dans la recherche en apprentissage par renforcement. L'objectif est de contrôler une voiture sous-motorisée pour atteindre le sommet d'une pente raide. Comme la voiture ne peut pas gravir la pente en

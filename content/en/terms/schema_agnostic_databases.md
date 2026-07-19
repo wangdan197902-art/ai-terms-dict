@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /en/terms/schema_agnostic_databases/
 date: "2026-07-18T10:14:51.879121Z"
 lastmod: "2026-07-18T11:44:44.719450Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Schema-agnostic databases are storage systems that allow flexible data structures without requiring predefined schemas, often used in NoSQL environments."
 ---
-
 ## Definition
 
 These databases enable dynamic data modeling by not enforcing rigid table structures or column definitions upfront. This flexibility allows developers to store unstructured or semi-structured data, such as JSON documents, making them ideal for rapidly evolving applications. While they offer scalability and ease of development, they may require application-level logic to ensure data consistency and integrity compared to traditional relational databases.

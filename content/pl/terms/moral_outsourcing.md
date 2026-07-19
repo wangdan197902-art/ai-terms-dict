@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /pl/terms/moral_outsourcing/
 date: "2026-07-18T16:08:01.787864Z"
 lastmod: "2026-07-18T17:15:08.899071Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zagadnienie etyczne polegające na delegowaniu odpowiedzialności za podejmowanie decyzji moralnych przez osoby lub organizacje do zautomatyzowanych systemów AI."
 ---
-
 ## Definition
 
 Moralne outsourcingowanie odnosi się do zjawiska, w którym ludzie przekazują osąd etyczny i odpowiedzialność algorytmom lub systemom sztucznej inteligencji. Ma to miejsce, gdy ludzie polegają na zautomatyzowanych decyzjach w sprawach o znaczeniu moralnym, często redukując ludzką agencję i utrudniając wyznaczenie winy w przypadku błędów.

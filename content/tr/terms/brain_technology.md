@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /tr/terms/brain_technology/
 date: "2026-07-18T15:44:24.417295Z"
 lastmod: "2026-07-18T16:38:07.280474Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsan beyniyle etkileşime giren, izleyen veya modüle eden, BCI'ler ve nörogörüntüleme araçlarını içeren teknolojiler."
 ---
-
 ## Definition
 
 Beyin teknolojisi, merkezi sinir sistemiyle doğrudan etkileşime giren donanım ve yazılım sistemlerini kapsar. Başlıca örnekler arasında nöral sinyalleri çevresel sinyallere çeviren Beyin-Bilgisayar Arayüzleri (BCI'ler) ve nöral aktiviteyi izleme araçları bulunur.

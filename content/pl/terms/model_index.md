@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /pl/terms/model_index/
 date: "2026-07-18T16:07:45.628360Z"
 lastmod: "2026-07-18T17:15:08.898668Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model Index to plik metadanych używany przez Hugging Face Hub do opisywania i organizowania komponentów modeli oraz ich konfiguracji."
 ---
-
 ## Definition
 
 Plik indeksu, zwykle nazwany 'model_index.json', zawiera strukturalne informacje o architekturze modelu, w tym typ potoku, podmodele oraz ścieżki do konfiguracji. Umożliwia to Hubowi koordyn

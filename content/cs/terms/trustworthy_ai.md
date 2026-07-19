@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "governance"]
 difficulty: 2
 weight: 1
 slug: "trustworthy_ai"
-aliases:
-  - /cs/terms/trustworthy_ai/
 date: "2026-07-18T16:21:45.233563Z"
 lastmod: "2026-07-18T17:15:09.208889Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Důvěryhodná AI označuje systemy umělé inteligence, které jsou po celý svůj životní cyklus bezpečné, zabezpečené, transparentní, spravedlivé a odpovědné."
 ---
-
 ## Definition
 
 Důvěryhodná AI zahrnuje principy a postupy zajišťující spolehlivý a etický provoz systémů AI. Mezi klíčové atributy patří odolnost vůči útokům, spravedlnost napříč různými populacemi, transparentnost...

@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /tr/terms/document_classification/
 date: "2026-07-18T15:50:40.325615Z"
 lastmod: "2026-07-18T16:38:07.301242Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Metin belgelerinin içeriğine dayanarak önceden tanımlanmış gruplara kategorize edilme süreci."
 ---
-
 ## Definition
 
 Belge sınıflandırma, algoritmaların yapılandırılmamış metin verilerine etiketler atladığı temel bir doğal dil işleme görevidir. Bu süreç, belgelerden özellik çıkarımı yapmayı ve bunları sınıflara eşleştirmeyi içerir.

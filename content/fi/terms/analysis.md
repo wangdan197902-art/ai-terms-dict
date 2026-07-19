@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /fi/terms/analysis/
 date: "2026-07-18T15:23:06.416880Z"
 lastmod: "2026-07-18T17:15:09.345948Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa dataa tai mallin tuloksia tutkitaan merkityksellisten havaintojen ja kuvioiden erottamiseksi."
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa analyysillä tarkoitetaan datan, mallien ennusteiden tai järjestelmien käyttäytymisen systemaattista tutkimista ymmärtääkseen taustalla olevat kuviot, diagnosoida ongelmia tai johtaa toimivia havaintoja. T...

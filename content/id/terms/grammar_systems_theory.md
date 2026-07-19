@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /id/terms/grammar_systems_theory/
 date: "2026-07-18T15:53:43.008814Z"
 lastmod: "2026-07-18T16:38:07.464225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Teori sistem tata bahasa adalah cabang teori bahasa formal yang mempelajari model komputasi berbasis tata bahasa yang berinteraksi dalam lingkungan paralel atau terdistribusi."
 ---
-
 ## Definition
 
 Berasal dari ilmu komputer teoretis dan linguistik, bidang ini memperluas konsep hierarki Chomsky klasik ke sistem multi-komponen. Teori ini menyelidiki bagaimana beberapa tata bahasa atau komponen berinteraksi secara bersamaan untuk menghasilkan output.

@@ -1,23 +1,25 @@
 ---
-title: "Systèmes Web Parallèles"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: Systèmes Web Parallèles
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /fr/terms/parallel_web_systems/
-date: "2026-07-18T11:32:38.894138Z"
-lastmod: "2026-07-18T11:44:45.310048Z"
+slug: parallel_web_systems
+date: '2026-07-18T11:32:38.894138Z'
+lastmod: '2026-07-18T11:44:45.310048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Architectures de calcul distribué qui exploitent le traitement simultané sur plusieurs nœuds pour gérer efficacement les charges de travail à l'échelle du web."
+source: agnes_llm
+status: published
+language: fr
+description: Architectures de calcul distribué qui exploitent le traitement simultané
+  sur plusieurs nœuds pour gérer efficacement les charges de travail à l'échelle du
+  web.
 ---
-
 ## Definition
 
 Les Systèmes Web Parallèles désignent des conceptions d'infrastructure où les tâches informatiques sont divisées et exécutées simultanément sur plusieurs serveurs ou processeurs connectés via un réseau. Cette approche permet

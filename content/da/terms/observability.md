@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /da/terms/observability/
 date: "2026-07-18T16:10:13.286795Z"
 lastmod: "2026-07-18T17:15:09.317380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Observabilitet er et mål for, hvor godt interne systemtilstande kan udledes fra eksterne output som logs, målinger og spor."
 ---
-
 ## Definition
 
 Inden for AI-ingeniørvidenskab refererer observabilitet til evnen til at forstå den interne tilstand af komplekse maskinlæringsystemer ved at analysere deres eksterne output. Det går ud over traditionel overvågning.

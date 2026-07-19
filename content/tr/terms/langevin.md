@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /tr/terms/langevin/
 date: "2026-07-18T15:26:06.798111Z"
 lastmod: "2026-07-18T16:38:07.235260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Langevin, fiziksel hareketi sürtünme ve gürültü ile simüle ederek olasılık dağılımlarından örneklem almak için kullanılan stokastik diferansiyel denklemlere, özellikle Langevin dinamiğine atıfta bulun"
 ---
-
 ## Definition
 
 Langevin dinamiği, enerji manzaralarını verimli bir şekilde keşfetmek için rastgele gürültü ve sönümleme kuvvetlerini içerir. Yapay zekada, bu yöntem öncelikle Hamiltonyen Monte Carlo veya Stokastik Gradyan Desenti gibi örneklem yöntemlerinde kullanılır.

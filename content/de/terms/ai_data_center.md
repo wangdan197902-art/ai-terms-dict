@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /de/terms/ai_data_center/
 date: "2026-07-18T11:01:01.900254Z"
 lastmod: "2026-07-18T11:44:44.903650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine spezialisierte Einrichtung, die für die Unterbringung und den Betrieb von Hochleistungs-Computing-Infrastruktur für KI-Workloads konzipiert ist."
 ---
-
 ## Definition
 
 Ein KI-Rechenzentrum ist eine physische Einrichtung, die für den Betrieb von Anwendungen der künstlichen Intelligenz optimiert ist, insbesondere für das Training und die Inferenz von Deep-Learning-Modellen. Diese Zentren verfügen über Serverracks mit hoher Dichte...

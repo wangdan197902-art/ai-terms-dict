@@ -1,23 +1,23 @@
 ---
-title: "匿名化"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: 匿名化
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /ja/terms/anonymization/
-date: "2026-07-18T11:03:52.514246Z"
-lastmod: "2026-07-18T11:44:45.067225Z"
+slug: anonymization
+date: '2026-07-18T11:03:52.514246Z'
+lastmod: '2026-07-18T11:44:45.067225Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "個人を特定できる情報をデータセットから除去し、個人のプライバシーを保護するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 個人を特定できる情報をデータセットから除去し、個人のプライバシーを保護するプロセス。
 ---
-
 ## Definition
 
 匿名化とは、追加情報なしでは特定の個人と関連付けられなくなるようにデータを修正することを指します。この技術は、機密データを扱う機械学習において極めて重要です。

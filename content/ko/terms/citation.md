@@ -1,23 +1,24 @@
 ---
-title: "인용"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: 인용
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /ko/terms/citation/
-date: "2026-07-18T15:44:53.150130Z"
-lastmod: "2026-07-18T16:38:06.816754Z"
+slug: citation
+date: '2026-07-18T15:44:53.150130Z'
+lastmod: '2026-07-18T16:38:06.816754Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "AI에서의 인용은 투명성과 지적 재산권 준수를 보장하기 위해 생성된 텍스트나 모델 내에서 사용된 원자료나 데이터를 출처에 귀속시키는 관행을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: AI에서의 인용은 투명성과 지적 재산권 준수를 보장하기 위해 생성된 텍스트나 모델 내에서 사용된 원자료나 데이터를 출처에 귀속시키는
+  관행을 의미합니다.
 ---
-
 ## Definition
 
 생성형 AI 모델이 콘텐츠를 생산함에 따라 학술적 무결성과 법적 준수를 유지하기 위해 인용 메커니즘의 필요성이 대두되었습니다. 이는 생성된 콘텐츠 내에 원래 출처에 대한 참조를 포함시키는 것을

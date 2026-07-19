@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /vi/terms/differential_privacy/
 date: "2026-07-18T15:49:28.654952Z"
 lastmod: "2026-07-18T16:38:07.749002Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung toán học chặt chẽ đảm bảo rằng việc bao gồm hoặc loại bỏ dữ liệu của bất kỳ cá nhân nào không ảnh hưởng đáng kể đến kết quả của một phân tích."
 ---
-
 ## Definition
 
 Quy định riêng tư vi phân cung cấp các đảm bảo mạnh mẽ về quyền riêng tư bằng cách thêm nhiễu thống kê đã được hiệu chỉnh vào kết quả truy vấn hoặc tham số mô hình. Nó định lượng lượng rò rỉ thông tin tối đa về bất kỳ cá nhân nào.

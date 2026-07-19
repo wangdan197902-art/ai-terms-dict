@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /hu/terms/fon/
 date: "2026-07-18T16:00:23.261326Z"
 lastmod: "2026-07-18T17:15:09.785327Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Fon azokat az alapelveket és elméleti alapokat jelöli, amelyek irányítják a mesterséges intelligencia rendszerek tervezését és működését."
 ---
-
 ## Definition
 
 Az MI terminológiájának kontextusában a 'Fon' kifejezést gyakran arra használják, hogy leírja a mag funkcionális ontológiáját vagy az alapvető logikai szerkezeteket, amelyek meghatározzák, hogyan értelmezi egy MI modell a bemeneteket, és hogyan generál kimeneteket. Ez a fogalom a rendszer belső felépítésének és működési logikájának szilárd alapjait tükrözi.

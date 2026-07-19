@@ -1,23 +1,23 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /zh/terms/locateanything/
-date: "2026-07-18T11:24:46.268035Z"
-lastmod: "2026-07-18T11:44:45.526895Z"
+slug: locateanything
+date: '2026-07-18T11:24:46.268035Z'
+lastmod: '2026-07-18T11:44:45.526895Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个开源框架，旨在无需针对特定任务进行训练的情况下，跨多种视觉领域实现零样本物体定位和分割。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个开源框架，旨在无需针对特定任务进行训练的情况下，跨多种视觉领域实现零样本物体定位和分割。
 ---
-
 ## Definition
 
 LocateAnything 是一个多功能计算机视觉框架，能够基于自然语言提示或通用先验知识，检测并分割图像中的物体。它利用预训练的基础模型泛化能力，实现零样本环境下的精准定位与分割。

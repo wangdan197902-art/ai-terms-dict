@@ -1,23 +1,24 @@
 ---
-title: "Audition informatique"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Audition informatique
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /fr/terms/computer_audition/
-date: "2026-07-18T11:09:57.482559Z"
-lastmod: "2026-07-18T11:44:45.210102Z"
+slug: computer_audition
+date: '2026-07-18T11:09:57.482559Z'
+lastmod: '2026-07-18T11:44:45.210102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'audition informatique est le domaine d'étude axé sur la capacité des machines à percevoir et comprendre les signaux audio de manière similaire aux humains."
+source: agnes_llm
+status: published
+language: fr
+description: L'audition informatique est le domaine d'étude axé sur la capacité des
+  machines à percevoir et comprendre les signaux audio de manière similaire aux humains.
 ---
-
 ## Definition
 
 L'audition informatique implique le développement d'algorithmes permettant aux ordinateurs d'extraire des informations significatives à partir d'ondes sonores. Cela inclut des tâches telles que la reconnaissance vocale, la classification des genres musicaux et l'identification de sons.

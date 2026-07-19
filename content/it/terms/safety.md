@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /it/terms/safety/
 date: "2026-07-18T15:28:58.280027Z"
 lastmod: "2026-07-18T17:15:08.573770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Lo studio e la pratica volti a garantire che i sistemi di IA non causino danni fisici, digitali o sociali."
 ---
-
 ## Definition
 
 La Sicurezza dell'IA è un campo multidisciplinare focalizzato sulla prevenzione di esiti avversi derivanti dall'intelligenza artificiale avanzata. Comprende sfide tecniche come l'allineamento, l'interpretabilità e la robustezza, oltre a considerazioni etiche e normative.

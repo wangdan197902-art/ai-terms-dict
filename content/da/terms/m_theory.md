@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /da/terms/m_theory/
 date: "2026-07-18T16:05:53.727202Z"
 lastmod: "2026-07-18T17:15:09.307918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "M-teori er en teoretisk ramme inden for fysikken, der forener fem forskellige versioner af strengteorien og foreslår, at fundamentale partikler er vibrationer af eindimensionelle membraner i elleve di"
 ---
-
 ## Definition
 
 Selvom det primært er et begreb inden for teoretisk fysik snarere end datalogi, nævnes M-teori lejlighedsvis i avancerede computerebaserede simuleringer og forskning inden for kvantedata. Det antyder, at universets grundlæggende strukturer kan beskrives gennem højdimensionale geometrier.

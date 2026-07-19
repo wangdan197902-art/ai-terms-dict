@@ -1,23 +1,24 @@
 ---
-title: "למידה ניגודית"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: למידה ניגודית
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /he/terms/contrastive_learning/
-date: "2026-07-18T15:50:05.967088Z"
-lastmod: "2026-07-18T17:15:09.523581Z"
+slug: contrastive_learning
+date: '2026-07-18T15:50:05.967088Z'
+lastmod: '2026-07-18T17:15:09.523581Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת למידה חצויה-עצמית (Self-supervised) הלומדת ייצוגים על ידי קירוב זוגות חיוביים והרחקת זוגות שליליים."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת למידה חצויה-עצמית (Self-supervised) הלומדת ייצוגים על ידי קירוב
+  זוגות חיוביים והרחקת זוגות שליליים.
 ---
-
 ## Definition
 
 למידה ניגודית היא שיטת למידת ייצוגים הדורשת נתונים מתויגים. היא עובדת על ידי יצירת תצוגות מוגברות של אותו קלט (זוגות חיוביים) והשוואתם לתצוגות של קלטים שונים (זוגות שליליים), כך שהמודל לומד להבדיל בין מאפיינים דומים לשונים.

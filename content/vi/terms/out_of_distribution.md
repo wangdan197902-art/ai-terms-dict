@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /vi/terms/out_of_distribution/
 date: "2026-07-18T15:31:38.723176Z"
 lastmod: "2026-07-18T16:38:07.704188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các điểm dữ liệu khác biệt đáng kể so với phân phối dữ liệu mà mô hình đã thấy trong giai đoạn huấn luyện."
 ---
-
 ## Definition
 
 Phát hiện ngoại phân phối (OOD) xác định các đầu vào nằm ngoài phạm vi phân phối dữ liệu huấn luyện. Các mô hình thường hoạt động kém hiệu quả hoặc đưa ra dự đoán tự tin nhưng sai lầm đối với dữ liệu OOD, dẫn đến các rủi ro về độ tin cậy...

@@ -1,23 +1,25 @@
 ---
-title: "POP-11"
-term_id: "pop_11"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "history_of_ai", "education"]
+title: POP-11
+term_id: pop_11
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- History Of AI
+- education
 difficulty: 3
 weight: 1
-slug: "pop_11"
-aliases:
-  - /ru/terms/pop_11/
-date: "2026-07-18T16:09:15.768557Z"
-lastmod: "2026-07-18T16:38:07.189559Z"
+slug: pop_11
+date: '2026-07-18T16:09:15.768557Z'
+lastmod: '2026-07-18T16:38:07.189559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "POP-11 — высокоуровневый язык программирования, разработанный в Эдинбургском университете, преимущественно использовавшийся для исследований в области искусственного интеллекта и образования в сфере к"
+source: agnes_llm
+status: published
+language: ru
+description: POP-11 — высокоуровневый язык программирования, разработанный в Эдинбургском
+  университете, преимущественно использовавшийся для исследований в области искусственного
+  интеллекта и образования в сфере к
 ---
-
 ## Definition
 
 POP-11 (Program Oriented Problem Solving) — это мультипарадигменный язык программирования, сочетающий процедурное, объектно-ориентированное и логическое программирование. Созданный в 1970-х годах, он стал стандартом в Эдинбургской школе ИИ и использовался для создания экспертных систем и обучения основам искусственного интеллекта.

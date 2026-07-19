@@ -1,23 +1,24 @@
 ---
-title: "Linter"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Linter
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /ro/terms/linter/
-date: "2026-07-18T16:09:05.636719Z"
-lastmod: "2026-07-18T17:15:09.675512Z"
+slug: linter
+date: '2026-07-18T16:09:05.636719Z'
+lastmod: '2026-07-18T17:15:09.675512Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un instrument de analiză statică a codului utilizat pentru a semnaliza erori de programare, bug-uri, erori stilistice și construcții suspecte."
+source: agnes_llm
+status: published
+language: ro
+description: Un instrument de analiză statică a codului utilizat pentru a semnaliza
+  erori de programare, bug-uri, erori stilistice și construcții suspecte.
 ---
-
 ## Definition
 
 Un linter este un utilitar care efectuează analiza statică asupra codului sursă fără a-l executa. Verifică erorile de sintaxă, bug-urile potențiale, defectele de cod și abaterile de la ghidurile de stil sau bunele practici.

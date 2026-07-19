@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /it/terms/wasserstein/
-date: "2026-07-18T15:31:08.406556Z"
-lastmod: "2026-07-18T17:15:08.578110Z"
+slug: wasserstein
+date: '2026-07-18T15:31:08.406556Z'
+lastmod: '2026-07-18T17:15:08.578110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una metrica che misura la distanza tra distribuzioni di probabilità basata sul costo minimo per trasformare l'una nell'altra."
+source: agnes_llm
+status: published
+language: it
+description: Una metrica che misura la distanza tra distribuzioni di probabilità basata
+  sul costo minimo per trasformare l'una nell'altra.
 ---
-
 ## Definition
 
 La distanza di Wasserstein, nota anche come Distanza del Trasportatore di Terra, quantifica la dissimilarità tra due distribuzioni di probabilità calcolando il 'lavoro' minimo necessario per spostare la massa da una distribuzione all'altra.

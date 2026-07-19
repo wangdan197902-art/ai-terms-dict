@@ -1,23 +1,23 @@
 ---
-title: "소프트맥스(Softmax)"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: 소프트맥스(Softmax)
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /ko/terms/softmax/
-date: "2026-07-18T15:36:19.379637Z"
-lastmod: "2026-07-18T16:38:06.800461Z"
+slug: softmax
+date: '2026-07-18T15:36:19.379637Z'
+lastmod: '2026-07-18T16:38:06.800461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "임의의 실수 값 점수 벡터를 확률 분포로 변환하는 수학적 함수입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 임의의 실수 값 점수 벡터를 확률 분포로 변환하는 수학적 함수입니다.
 ---
-
 ## Definition
 
 소프트맥스는 다중 클래스 분류 작업에서 신경망의 출력층에 널리 사용됩니다. 이는 원시 로짓(raw logits) 벡터를 입력받아 정규화하며, 각 요소가 특정 클래스에 속할 확률을 나타내도록 합니다...

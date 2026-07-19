@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /pt/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T15:09:15.949983Z"
 lastmod: "2026-07-18T15:51:59.509911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de usar algoritmos de aprendizado de máquina para identificar automaticamente padrões e derivar informações estruturadas de grandes conjuntos de dados não estruturados."
 ---
-
 ## Definition
 
 Este campo combina técnicas de aprendizado de máquina com processamento de linguagem natural e mineração de dados para transformar dados brutos em conhecimento acionável. Envolve o treinamento de modelos para reconhecer entidades, rela

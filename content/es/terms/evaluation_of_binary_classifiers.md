@@ -1,23 +1,24 @@
 ---
-title: "Evaluación de clasificadores binarios"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Evaluación de clasificadores binarios
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /es/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T10:48:37.407757Z"
-lastmod: "2026-07-18T11:44:44.803514Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T10:48:37.407757Z'
+lastmod: '2026-07-18T11:44:44.803514Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de evaluar el rendimiento de los modelos de aprendizaje automático que predicen uno de dos resultados posibles."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de evaluar el rendimiento de los modelos de aprendizaje automático
+  que predicen uno de dos resultados posibles.
 ---
-
 ## Definition
 
 Este campo implica analizar métricas como la precisión global (accuracy), la precisión (precision), el recall, la puntuación F1 y el Área Bajo la Curva Característica Operativa del Receptor (AUC-ROC). Ayuda a determinar qué tan bien un modelo distingue entre clases.

@@ -7,8 +7,6 @@ tags: ["conference", "ethics", "fraud"]
 difficulty: 2
 weight: 1
 slug: "the_ai_con"
-aliases:
-  - /es/terms/the_ai_con/
 date: "2026-07-18T11:10:14.155379Z"
 lastmod: "2026-07-18T11:44:44.861429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "The AI Con es una conferencia centrada en exponer fraudes, estafas y problemas éticos dentro de la industria de la inteligencia artificial."
 ---
-
 ## Definition
 
 The AI Con es un evento anual dedicado a investigar y destacar prácticas engañosas, afirmaciones exageradas y vulnerabilidades de seguridad en el sector de la IA. A diferencia de las conferencias tecnológicas típicas que...

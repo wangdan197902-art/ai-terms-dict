@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /tr/terms/ai_infrastructure/
 date: "2026-07-18T15:38:55.785610Z"
 lastmod: "2026-07-18T16:38:07.267515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka modellerini büyük ölçekte geliştirmek, eğitmek ve dağıtmak için gereken donanım, yazılım ve ağ kaynakları."
 ---
-
 ## Definition
 
 Yapay zeka altyapısı, yapay zeka operasyonları için gerekli olan temel teknoloji yığınını kapsar. Buna GPU'lar ve TPU'lar gibi yüksek performanslı hesaplama donanımları, bulut depolama sistemleri, veri işleme hatları ve model dağıtım araçları dahildir. Sağlam bir altyapı, modellerin verimli bir şekilde eğitilmesini ve üretim ortamında güvenilir bir şekilde çalıştırılmasını sağlar.

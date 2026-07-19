@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /hu/terms/nouvelle_ai/
 date: "2026-07-18T16:15:16.708877Z"
 lastmod: "2026-07-18T17:15:09.818338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A szimbolikus mesterséges intelligencia megközelítés, amely az emberi kognitív architektúrából merítő, hierarchikus és moduláris érvelési szerkezetekre helyezi a hangsúlyt."
 ---
-
 ## Definition
 
 A Nouvelle AI olyan mesterséges intelligencia rendszerek osztályát jelöli, amelyek szimbólumalapú reprezentációkat kombinálnak hierarchikus feldolgozással. A kapcsolati (connectionist) modellektől eltérően ez a megközelítés a strukturált újra...

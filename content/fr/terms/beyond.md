@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /fr/terms/beyond/
 date: "2026-07-18T10:49:02.473105Z"
 lastmod: "2026-07-18T11:44:45.159487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un terme conceptuel désignant les avancées ou applications qui dépassent les limites technologiques actuelles ou les frontières traditionnelles de l'IA."
 ---
-
 ## Definition
 
 Dans le contexte de la terminologie de l'IA, « au-delà » décrit souvent des paradigmes émergents ou des orientations futures qui transcendent les capacités actuelles, telles que l'Intelligence Artificielle Générale (AGI) ou l'IA améliorée par le calcul quantique.

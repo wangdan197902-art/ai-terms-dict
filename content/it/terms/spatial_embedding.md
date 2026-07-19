@@ -1,23 +1,24 @@
 ---
-title: "Embedding spaziale"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Embedding spaziale
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /it/terms/spatial_embedding/
-date: "2026-07-18T16:21:54.130575Z"
-lastmod: "2026-07-18T17:15:08.670529Z"
+slug: spatial_embedding
+date: '2026-07-18T16:21:54.130575Z'
+lastmod: '2026-07-18T17:15:08.670529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica che mappa le relazioni spaziali tra oggetti o posizioni in rappresentazioni vettoriali per i modelli di machine learning."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica che mappa le relazioni spaziali tra oggetti o posizioni in
+  rappresentazioni vettoriali per i modelli di machine learning.
 ---
-
 ## Definition
 
 L'embedding spaziale consiste nel convertire relazioni spaziali fisiche o astratte in spazi vettoriali densi, consentendo agli algoritmi di comprendere vicinanza, orientamento e topologia. Questa tecnica è essenziale per applicazioni che richiedono una comprensione profonda dell'ambiente fisico, permettendo ai modelli di elaborare informazioni geometriche complesse e di prendere decisioni basate sulla posizione relativa degli elementi.

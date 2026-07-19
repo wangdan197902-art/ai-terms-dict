@@ -1,23 +1,24 @@
 ---
-title: "Аппаратное обеспечение для искусственного интеллекта"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Аппаратное обеспечение для искусственного интеллекта
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /ru/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T15:56:47.752958Z"
-lastmod: "2026-07-18T16:38:07.164614Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T15:56:47.752958Z'
+lastmod: '2026-07-18T16:38:07.164614Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Специализированные физические компоненты, предназначенные для ускорения вычислительных процессов в алгоритмах машинного обучения и обучении нейронных сетей."
+source: agnes_llm
+status: published
+language: ru
+description: Специализированные физические компоненты, предназначенные для ускорения
+  вычислительных процессов в алгоритмах машинного обучения и обучении нейронных сетей.
 ---
-
 ## Definition
 
 Аппаратное обеспечение для ИИ относится к специализированным вычислительным устройствам, оптимизированным для массового параллельного обработки данных, необходимой для рабочих нагрузок машинного обучения. Сюда входят графические процессоры (GPU) для общей параллельной обработки, тензорные процессоры (TPU) для специфических операций матриц, а также нейроморфные чипы, имитирующие работу биологического мозга.

@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /zh/terms/text_to_audio/
 date: "2026-07-18T11:36:07.262489Z"
 lastmod: "2026-07-18T11:44:45.562601Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将书面文本转换为口语音频的过程，涵盖语音合成和非语音声音生成。"
 ---
-
 ## Definition
 
 文本转音频是一个广泛的概念，涵盖将文本输入转化为听觉输出的技术。虽然通常与用于模拟人类语音合成的文本转语音（TTS）相关联，但它也包括生成背景音乐、音效等非语音音频内容，广泛应用于多媒体制作和人机交互领域。

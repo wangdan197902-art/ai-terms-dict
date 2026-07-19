@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /it/terms/right_to_explanation/
 date: "2026-07-18T16:19:18.724337Z"
 lastmod: "2026-07-18T17:15:08.665838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un principio legale ed etico che concede agli individui il diritto di ricevere informazioni significative sulle decisioni automatizzate che li influenzano significativamente."
 ---
-
 ## Definition
 
 Il diritto alla spiegazione è un componente fondamentale della responsabilità algoritmica, in particolare all'interno di quadri normativi come il GDPR. Garantisce che quando un sistema di IA prende una decisione che impatta i diritti di una persona...

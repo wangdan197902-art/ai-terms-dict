@@ -1,23 +1,24 @@
 ---
-title: "Väline-tavoite-analyysi"
-term_id: "meansends_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["planning", "problem_solving", "history"]
+title: Väline-tavoite-analyysi
+term_id: meansends_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- planning
+- Problem Solving
+- history
 difficulty: 3
 weight: 1
-slug: "meansends_analysis"
-aliases:
-  - /fi/terms/meansends_analysis/
-date: "2026-07-18T16:10:27.548953Z"
-lastmod: "2026-07-18T17:15:09.433448Z"
+slug: meansends_analysis
+date: '2026-07-18T16:10:27.548953Z'
+lastmod: '2026-07-18T17:15:09.433448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Heuristinen ongelmanratkaisumenetelmä, joka pienentää eroa nykytilan ja tavoitetilan välillä tunnistamalla alitavoitteita."
+source: agnes_llm
+status: published
+language: fi
+description: Heuristinen ongelmanratkaisumenetelmä, joka pienentää eroa nykytilan
+  ja tavoitetilan välillä tunnistamalla alitavoitteita.
 ---
-
 ## Definition
 
 Väline-tavoite-analyysi on tekoälyn ja psykologian käyttämä kognitiivinen strategia monimutkaisten ongelmien ratkaisemiseen. Se sisältää nykytilan vertaamista haluttuun tavoitetilaan, erotusten tunnistamista ja niiden vähentämistä valitsemalla sopivia toimia tai välineitä, jotka tuovat tilan lähemmäs tavoitetta.

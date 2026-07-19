@@ -1,23 +1,23 @@
 ---
-title: "Hệ số Phi"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Hệ số Phi
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /vi/terms/phi_coefficient/
-date: "2026-07-18T16:07:47.065396Z"
-lastmod: "2026-07-18T16:38:07.793042Z"
+slug: phi_coefficient
+date: '2026-07-18T16:07:47.065396Z'
+lastmod: '2026-07-18T16:38:07.793042Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thước đo thống kê về mối liên hệ giữa hai biến nhị phân."
+source: agnes_llm
+status: published
+language: vi
+description: Một thước đo thống kê về mối liên hệ giữa hai biến nhị phân.
 ---
-
 ## Definition
 
 Hệ số Phi (φ) là một thước đo mối liên hệ giữa hai biến nhị phân, đóng vai trò là hệ số tương quan Pearson dành cho các biến định tính nhị phân. Giá trị của nó nằm trong khoảng từ -1 đến +1, trong đó 0 biểu thị không có mối liên hệ.

@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /pt/terms/transformer/
-date: "2026-07-18T14:40:25.887559Z"
-lastmod: "2026-07-18T15:51:59.441482Z"
+slug: transformer
+date: '2026-07-18T14:40:25.887559Z'
+lastmod: '2026-07-18T15:51:59.441482Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma arquitetura de aprendizado profundo baseada em mecanismos de autoatenção que processa dados sequenciais em paralelo, em vez de sequencialmente."
+source: agnes_llm
+status: published
+language: pt
+description: Uma arquitetura de aprendizado profundo baseada em mecanismos de autoatenção
+  que processa dados sequenciais em paralelo, em vez de sequencialmente.
 ---
-
 ## Definition
 
 Introduzido no artigo 'Attention Is All You Need', a arquitetura Transformer revolucionou o processamento de linguagem natural e além. Ela usa autoatenção multi-cabeça para pesar a significância de...

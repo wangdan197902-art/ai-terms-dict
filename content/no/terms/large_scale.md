@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /no/terms/large_scale/
 date: "2026-07-18T15:34:15.408278Z"
 lastmod: "2026-07-18T16:38:06.953112Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Beskriver AI-systemer eller datasett som opererer med enorme mengder data, parametere eller beregningsressurser."
 ---
-
 ## Definition
 
 Storskala refererer til omfanget av komponentene i et AI-system, ofte involverer dette milliarder av parametere, terabyte med treningsdata eller distribuerte beregningskluster. Denne tilnærmingen er grunnleggende for utviklingen av moderne store språkmodeller og grunnleggende modeller, der ytelsen forbedres betydelig med økende datamengde og beregningsevne.

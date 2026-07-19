@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /zh/terms/statistical_relational_learning/
 date: "2026-07-18T11:35:19.163089Z"
 lastmod: "2026-07-18T11:44:45.559282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个机器学习领域，将概率推理与一阶逻辑相结合，以处理数据中复杂的结构关系。"
 ---
-
 ## Definition
 
 统计关系学习（SRL）将概率论与关系数据结构相结合，使模型能够捕捉实体及其关系之间的依赖性。与标准统计方法不同，SRL能够同时处理对象属性和对象间的复杂关联。

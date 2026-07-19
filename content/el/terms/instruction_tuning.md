@@ -1,23 +1,24 @@
 ---
-title: "Ρύθμιση με Εντολές"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Ρύθμιση με Εντολές
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /el/terms/instruction_tuning/
-date: "2026-07-18T15:27:07.441549Z"
-lastmod: "2026-07-18T17:15:09.846848Z"
+slug: instruction_tuning
+date: '2026-07-18T15:27:07.441549Z'
+lastmod: '2026-07-18T17:15:09.846848Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ρύθμιση με εντολές είναι μια τεχνική λεπτομερούς προσαρμογής όπου ένα προκαταρκτικά εκπαιδευμένο μοντέλο γλώσσας εκπαιδεύεται σε ένα σύνολο δεδομένων με εντολές και τις αντίστοιχες απαντήσεις τους, "
+source: agnes_llm
+status: published
+language: el
+description: 'Η ρύθμιση με εντολές είναι μια τεχνική λεπτομερούς προσαρμογής όπου
+  ένα προκαταρκτικά εκπαιδευμένο μοντέλο γλώσσας εκπαιδεύεται σε ένα σύνολο δεδομένων
+  με εντολές και τις αντίστοιχες απαντήσεις τους, '
 ---
-
 ## Definition
 
 Αυτή η διαδικασία γεφυρώνει το χάσμα μεταξύ της γενικής προκαταρκτικής εκπαίδευσης και της συγκεκριμένης απόδοσης σε εργασίες. Εκθέτοντας το μοντέλο σε ποικίλα ζεύγη εντολής-απάντησης, μαθαίνει να γενικεύει σε μη ορατές εργασίες χωρίς περαιτέρω προσαρμογή. Είναι θεμελιώδης για την ανάπτυξη βοηθητικών πλαισίων που αντιδρούν φυσικά στις ανθρώπινες απαιτήσεις.

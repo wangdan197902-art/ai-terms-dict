@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /es/terms/math/
 date: "2026-07-18T10:59:17.452012Z"
 lastmod: "2026-07-18T11:44:44.830389Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La disciplina fundamental que involucra números, estructuras, espacio y cambio, esencial para formular y resolver problemas de IA."
 ---
-
 ## Definition
 
 En el contexto de la inteligencia artificial, las matemáticas proporcionan el marco teórico para el diseño y análisis de algoritmos. Las ramas clave incluyen álgebra lineal para la representación de datos, cálculo para

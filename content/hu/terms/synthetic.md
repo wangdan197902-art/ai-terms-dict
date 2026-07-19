@@ -1,23 +1,23 @@
 ---
-title: "Szintetikus"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Szintetikus
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /hu/terms/synthetic/
-date: "2026-07-18T15:31:48.152463Z"
-lastmod: "2026-07-18T17:15:09.731323Z"
+slug: synthetic
+date: '2026-07-18T15:31:48.152463Z'
+lastmod: '2026-07-18T17:15:09.731323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A szintetikus adatok vagy tartalmak algoritmusok által mesterségesen generáltak, nem pedig természetes forrásokból származnak."
+source: agnes_llm
+status: published
+language: hu
+description: A szintetikus adatok vagy tartalmak algoritmusok által mesterségesen
+  generáltak, nem pedig természetes forrásokból származnak.
 ---
-
 ## Definition
 
 Az AI-ban a szintetikus adatok mesterségesen generált információk, amelyek utánozzák a valós világ adatait, de nem tartalmaznak tényleges személyes vagy érzékeny rekordokat. Kritikus fontosságú a gépi tanulási modellek betanításakor, ha a re

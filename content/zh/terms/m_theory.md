@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /zh/terms/m_theory/
 date: "2026-07-18T11:24:58.833908Z"
 lastmod: "2026-07-18T11:44:45.527793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "M理论是物理学中的一个理论框架，统一了五种不同版本的弦理论，提出基本粒子是十一维空间中一维膜（膜子）的振动。"
 ---
-
 ## Definition
 
 虽然主要是一个理论物理概念而非计算机科学概念，但M理论偶尔被引用到高级计算模拟和量子计算研究中。它表明

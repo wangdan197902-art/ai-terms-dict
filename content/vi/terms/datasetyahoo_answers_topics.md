@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /vi/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:48:26.943914Z"
 lastmod: "2026-07-18T16:38:07.746745Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu được trích xuất từ Yahoo Answers, chứa các câu hỏi và câu trả lời do người dùng tạo, được phân loại vào các chủ đề cụ thể để phục vụ việc khớp nghĩa và phân loại."
 ---
-
 ## Definition
 
 Bộ dữ liệu Yahoo Answers Topics là một tập con của kho lưu trữ Yahoo Answers lớn hơn, tập trung vào các câu hỏi và câu trả lời được tổ chức thành các danh mục chủ đề riêng biệt. Nó thường được sử dụng cho các tác vụ phân loại văn bản và đánh giá độ tương đồng ngữ nghĩa.

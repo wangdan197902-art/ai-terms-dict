@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /da/terms/sequence_labeling/
 date: "2026-07-18T16:17:19.409254Z"
 lastmod: "2026-07-18T17:15:09.330527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En opgave inden for naturlig sprogbehandling, hvor et mærke tildeles hvert element i en sekvens af input."
 ---
-
 ## Definition
 
 Sekvensmærkning involverer at forudsige en kategorisk etiket for hvert token i en givet inputsekvens, såsom ord i en sætning eller tegn i en streng. Almindelige anvendelser inkluderer ordklassebestemmelse (Part-of-Speech tagging), navneordsgenkendelse og syntaktisk chunking.

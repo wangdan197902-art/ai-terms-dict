@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /nl/terms/schema_agnostic_databases/
 date: "2026-07-18T16:16:17.931331Z"
 lastmod: "2026-07-18T17:15:08.785585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Schema-onafhankelijke databases zijn opslagsystemen die flexibele gegevensstructuren toestaan zonder vereiste vooraf gedefinieerde schema's, vaak gebruikt in NoSQL-omgevingen."
 ---
-
 ## Definition
 
 Deze databases maken dynamisch gegevensmodelleren mogelijk door geen starre tabelstructuren of kolomdefinities vooraf af te dwingen. Deze flexibiliteit stelt ontwikkelaars in staat om gestructureerde of semi-gestructureerde gegevens op te slaan, wat

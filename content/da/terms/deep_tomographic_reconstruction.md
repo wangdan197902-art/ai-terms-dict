@@ -1,23 +1,24 @@
 ---
-title: "Dyb Tomografisk Rekonstruktion"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: Dyb Tomografisk Rekonstruktion
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /da/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:52:08.377207Z"
-lastmod: "2026-07-18T17:15:09.279373Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:52:08.377207Z'
+lastmod: '2026-07-18T17:15:09.279373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En beregningsmæssig billedteknik, der bruger dybe neurale netværk til at rekonstruere højopløselige tværsnitsbilleder fra sparsomme eller støjfyldte projektionsdata."
+source: agnes_llm
+status: published
+language: da
+description: En beregningsmæssig billedteknik, der bruger dybe neurale netværk til
+  at rekonstruere højopløselige tværsnitsbilleder fra sparsomme eller støjfyldte projektionsdata.
 ---
-
 ## Definition
 
 Dyb Tomografisk Rekonstruktion repræsenterer et betydeligt fremskridt i forhold til traditionelle algebraiske eller analytiske metoder som filtreret bagprojektion. Ved at udnytte konvolutionale neurale netværk (CNNs)

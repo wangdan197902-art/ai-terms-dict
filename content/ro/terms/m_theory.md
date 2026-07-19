@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /ro/terms/m_theory/
 date: "2026-07-18T16:09:53.166862Z"
 lastmod: "2026-07-18T17:15:09.677360Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Teoria M este un cadru teoretic în fizică care unifică cinci versiuni diferite ale teoriei corzilor, propunând că particulele fundamentale sunt vibrații ale unor membrane unidimensionale în unsprezece"
 ---
-
 ## Definition
 
 Deși este în principal un concept în fizica teoretică și nu în informatică, Teoria M este ocazional menționată în simulări computaționale avansate și cercetări privind calculul cuantic. Aceasta sugerează că

@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /nl/terms/knowledge_level/
 date: "2026-07-18T16:02:24.690184Z"
 lastmod: "2026-07-18T17:15:08.759159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een abstract ontwerpperspectief dat zich richt op wat een agent weet, in plaats van hoe hij informatie intern verwerkt."
 ---
-
 ## Definition
 
 Bedacht door Allen Newell, analyseert het kennisniveau intelligente systemen op basis van hun overtuigingen en doelen, onafhankelijk van hun fysieke implementatie. Het scheidt de rationaliteit van de acties van een agent van de onderliggende mechanismen.

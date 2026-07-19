@@ -1,23 +1,24 @@
 ---
-title: "מדיניות"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: מדיניות
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /he/terms/policy/
-date: "2026-07-18T15:29:00.176118Z"
-lastmod: "2026-07-18T17:15:09.484403Z"
+slug: policy
+date: '2026-07-18T15:29:00.176118Z'
+lastmod: '2026-07-18T17:15:09.484403Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אסטרטגיה או תוכנית פעולה המיועדת להנחות החלטות ולהשיג תוצאות רציונליות, המשמשת לעיתים קרובות בלמידה חיזוקית כדי למפות מצבים לפעולות."
+source: agnes_llm
+status: published
+language: he
+description: אסטרטגיה או תוכנית פעולה המיועדת להנחות החלטות ולהשיג תוצאות רציונליות,
+  המשמשת לעיתים קרובות בלמידה חיזוקית כדי למפות מצבים לפעולות.
 ---
-
 ## Definition
 
 למונח 'מדיניות' יש משמעויות כפולות בהתאם להקשר. בניהול כללי, זוהי עקרון מנחה לקבלת החלטות. בלמידת חיזוק (RL), מדיניות היא רכיב ליבה של סוכן...

@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /id/terms/pruning/
 date: "2026-07-18T16:05:14.242650Z"
 lastmod: "2026-07-18T16:38:07.496944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Teknik kompresi model yang menghapus parameter redundan atau kurang signifikan untuk mengurangi ukuran dan meningkatkan kecepatan inferensi."
 ---
-
 ## Definition
 
 Pemangkasan melibatkan identifikasi dan penghilangan neuron, koneksi, atau filter dalam jaringan saraf yang berkontribusi minimal terhadap akurasi output. Dengan menghilangkan elemen-elemen redundan ini, model menjadi

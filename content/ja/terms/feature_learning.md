@@ -1,23 +1,23 @@
 ---
-title: "フィーチャラーニング"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: フィーチャラーニング
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /ja/terms/feature_learning/
-date: "2026-07-18T11:14:45.555590Z"
-lastmod: "2026-07-18T11:44:45.097525Z"
+slug: feature_learning
+date: '2026-07-18T11:14:45.555590Z'
+lastmod: '2026-07-18T11:44:45.097525Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "アルゴリズムが生データから検出や分類に必要な特徴量を自動的に発見するアプローチ。"
+source: agnes_llm
+status: published
+language: ja
+description: アルゴリズムが生データから検出や分類に必要な特徴量を自動的に発見するアプローチ。
 ---
-
 ## Definition
 
 ディープラーニングと関連の深いフィーチャラーニングは、手動の特徴エンジニアリングに依存するのではなく、生データから階層的な表現を直接学習することを可能にします。層を重ねることで、低レベルの単純なパターンから高レベルの抽象的な概念へと特徴を抽出していきます。

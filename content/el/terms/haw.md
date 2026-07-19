@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /el/terms/haw/
-date: "2026-07-18T16:11:51.103901Z"
-lastmod: "2026-07-18T17:15:09.916052Z"
+slug: haw
+date: '2026-07-18T16:11:51.103901Z'
+lastmod: '2026-07-18T17:15:09.916052Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια λαϊκή διασταυρούσα λέξη που χρησιμοποιείται συχνά στην ανεπίσημη ψηφιακή επικοινωνία, χωρίς συγκεκριμένη τεχνική σημασία στα πλαίσια της AI."
+source: agnes_llm
+status: published
+language: el
+description: Μια λαϊκή διασταυρούσα λέξη που χρησιμοποιείται συχνά στην ανεπίσημη
+  ψηφιακή επικοινωνία, χωρίς συγκεκριμένη τεχνική σημασία στα πλαίσια της AI.
 ---
-
 ## Definition
 
 Στο πλαίσιο της γενικής επεξεργασίας γλώσσας, το 'haw' είναι μια ανεπίσημη κραυγή ή ήχος δισταγμού. Αν και δεν αντιπροσωπεύει έναν βασικό αλγοριθμικό όρο στην τεχνητή νοημοσύνη, τα μοντέλα NLP πρέπει να το αναγνωρίζουν.

@@ -1,23 +1,24 @@
 ---
-title: "Ιδιωτικότητα"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Ιδιωτικότητα
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /el/terms/privacy/
-date: "2026-07-18T15:30:44.431290Z"
-lastmod: "2026-07-18T17:15:09.852101Z"
+slug: privacy
+date: '2026-07-18T15:30:44.431290Z'
+lastmod: '2026-07-18T17:15:09.852101Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το δικαίωμα των ατόμων να ελέγχουν τον τρόπο συλλογής, χρήσης και κοινοποίησης των προσωπικών τους δεδομένων εντός των συστημάτων Τεχνητής Νοημοσύνης."
+source: agnes_llm
+status: published
+language: el
+description: Το δικαίωμα των ατόμων να ελέγχουν τον τρόπο συλλογής, χρήσης και κοινοποίησης
+  των προσωπικών τους δεδομένων εντός των συστημάτων Τεχνητής Νοημοσύνης.
 ---
-
 ## Definition
 
 Στην Τεχνητή Νοημοσύνη, η ιδιωτικότητα αναφέρεται στην προστασία ευαίσθητων πληροφοριών του χρήστη από μη εξουσιοδοτημένη πρόσβαση ή κατάχρηση κατά τις φάσεις συλλογής δεδομένων, εκπαίδευσης μοντέλων και εξαγωγής συμπερασμάτων. Αφορά τη διασφάλιση ότι τα δεδομένα παραμένουν ασφαλή και ότι οι χρήστες έχουν έλεγχο πάνω σε αυτά.

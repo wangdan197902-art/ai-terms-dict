@@ -1,23 +1,25 @@
 ---
-title: "Apprentissage actif"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Apprentissage actif
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /fr/terms/active_learning/
-date: "2026-07-18T11:03:46.527849Z"
-lastmod: "2026-07-18T11:44:45.194676Z"
+slug: active_learning
+date: '2026-07-18T11:03:46.527849Z'
+lastmod: '2026-07-18T11:44:45.194676Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une stratégie d'apprentissage automatique où l'algorithme interroge sélectivement un utilisateur ou un oracle pour étiqueter de nouveaux points de données, optimisant ainsi le processus d'entraînement"
+source: agnes_llm
+status: published
+language: fr
+description: Une stratégie d'apprentissage automatique où l'algorithme interroge sélectivement
+  un utilisateur ou un oracle pour étiqueter de nouveaux points de données, optimisant
+  ainsi le processus d'entraînement
 ---
-
 ## Definition
 
 L'apprentissage actif réduit la quantité de données étiquetées nécessaires en permettant au modèle de choisir les instances les plus informatives pour l'étiquetage humain. Au lieu de recevoir passivement des échantillons aléatoires, l'algorithme sélectionne activement les données qui maximiseront l'amélioration du modèle.

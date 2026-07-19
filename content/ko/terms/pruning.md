@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /ko/terms/pruning/
 date: "2026-07-18T16:11:35.913373Z"
 lastmod: "2026-07-18T16:38:06.899901Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델의 크기를 줄이고 추론 속도를 향상시키기 위해 중복되거나 중요도가 낮은 매개변수를 제거하는 모델 압축 기술입니다."
 ---
-
 ## Definition
 
 가지치기는 신경망에서 출력 정확도에 거의 기여하지 않는 뉴런, 연결 또는 필터를 식별하고 제거하는 과정입니다. 이러한 중복 요소를 제거함으로써 모델의 파라미터 수와 계산량을 대폭 줄일 수 있으며, 이는 모델의 경량화와 추론 속도 향상에 직접적으로 기여합니다. 밀집된(dense) 모델을 희소한(sparse) 구조로 변환하여 효율성을 높이는 것이 핵심 목표입니다.

@@ -1,23 +1,24 @@
 ---
-title: "Mekansal Gömme"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Mekansal Gömme
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /tr/terms/spatial_embedding/
-date: "2026-07-18T16:14:41.311046Z"
-lastmod: "2026-07-18T16:38:07.367131Z"
+slug: spatial_embedding
+date: '2026-07-18T16:14:41.311046Z'
+lastmod: '2026-07-18T16:38:07.367131Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Nesneler veya konumlar arasındaki mekansal ilişkileri makine öğrenmesi modelleri için vektör temsillerine haritalayan bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Nesneler veya konumlar arasındaki mekansal ilişkileri makine öğrenmesi
+  modelleri için vektör temsillerine haritalayan bir teknik.
 ---
-
 ## Definition
 
 Mekansal gömme, fiziksel veya soyut mekansal ilişkileri yoğun vektör alanlarına dönüştürerek algoritmaların yakınlık, yönelim ve topolojiyi anlamasını sağlar. Bu teknik, özellikle robotik ve otonom sistemlerde kritik öneme sahiptir.

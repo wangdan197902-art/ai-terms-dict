@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /sv/terms/psychology_of_reasoning/
 date: "2026-07-18T16:14:46.970011Z"
 lastmod: "2026-07-18T17:15:09.039467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Det tvärvetenskapliga studiet av hur människor bildar omdömen, fattar beslut och löser problem, vilket informerar kognitiva AI-arkitekturer."
 ---
-
 ## Definition
 
 Detta fält undersöker de mentala processerna bakom mänsklig deduktion, induktion och abduktiv resonemang. Det utforskar bias, heuristiker och logiska strukturer som styr tänkandet. Inom AI ger insikterna härunder vägledning för att skapa mer mänskliga och förklarliga system.

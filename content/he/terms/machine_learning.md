@@ -1,23 +1,23 @@
 ---
-title: "למידת מכונה"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: למידת מכונה
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /he/terms/machine_learning/
-date: "2026-07-18T15:27:01.426884Z"
-lastmod: "2026-07-18T17:15:09.481695Z"
+slug: machine_learning
+date: '2026-07-18T15:27:01.426884Z'
+lastmod: '2026-07-18T17:15:09.481695Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תת-תחום של הבינה המלאכותית המתמקד בבניית מערכות הלומדות מנתונים כדי לשפר ביצועים ללא תכנות מפורש."
+source: agnes_llm
+status: published
+language: he
+description: תת-תחום של הבינה המלאכותית המתמקד בבניית מערכות הלומדות מנתונים כדי לשפר
+  ביצועים ללא תכנות מפורש.
 ---
-
 ## Definition
 
 למידת מכונה (ML) מאפשרת למחשבים ללמוד תבניות מנתונים היסטוריים ולקבל החלטות או לתחזות על נתונים חדשים ולא נראים בעבר. היא כוללת מגוון טכניקות הכוללות למידה מפוקחת, למידה

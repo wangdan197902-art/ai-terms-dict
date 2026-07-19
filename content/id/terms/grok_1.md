@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /id/terms/grok_1/
 date: "2026-07-18T15:53:57.794481Z"
 lastmod: "2026-07-18T16:38:07.464915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Versi pertama dari model bahasa Grok yang dirilis oleh xAI, menampilkan arsitektur Mixture-of-Experts dan jumlah parameter sebesar 33 miliar."
 ---
-
 ## Definition
 
 Grok-1 adalah rilis perdana dari xAI, yang diluncurkan pada November 2023. Ini adalah model bahasa besar berbasis transformer yang hanya menggunakan decoder dengan sekitar 33 miliar parameter. Secara khusus, model ini memanfaatkan arsitektur Mixture-of-Experts (MoE) untuk meningkatkan efisiensi komputasi dan kinerja pada berbagai tugas pemrosesan bahasa alami.

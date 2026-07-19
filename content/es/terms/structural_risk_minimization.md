@@ -1,23 +1,24 @@
 ---
-title: "Minimización del riesgo estructural"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Minimización del riesgo estructural
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /es/terms/structural_risk_minimization/
-date: "2026-07-18T11:09:11.692673Z"
-lastmod: "2026-07-18T11:44:44.858088Z"
+slug: structural_risk_minimization
+date: '2026-07-18T11:09:11.692673Z'
+lastmod: '2026-07-18T11:44:44.858088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un principio en el aprendizaje estadístico que busca minimizar la cota superior del error de generalización equilibrando el ajuste del modelo y su complejidad."
+source: agnes_llm
+status: published
+language: es
+description: Un principio en el aprendizaje estadístico que busca minimizar la cota
+  superior del error de generalización equilibrando el ajuste del modelo y su complejidad.
 ---
-
 ## Definition
 
 La minimización del riesgo estructural (MRE) es un método para minimizar el riesgo esperado controlando la complejidad del modelo para prevenir el sobreajuste. Extiende la minimización del riesgo empírico añadiendo un término de regularización

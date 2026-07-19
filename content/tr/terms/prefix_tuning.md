@@ -1,23 +1,24 @@
 ---
-title: "Önek Ayarlama (Prefix Tuning)"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Önek Ayarlama (Prefix Tuning)
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /tr/terms/prefix_tuning/
-date: "2026-07-18T16:09:34.574633Z"
-lastmod: "2026-07-18T16:38:07.350369Z"
+slug: prefix_tuning
+date: '2026-07-18T16:09:34.574633Z'
+lastmod: '2026-07-18T16:38:07.350369Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Dönüştürücü katmanlarının girişine eğitilebilir sürekli vektörler ekleyerek parametre verimliliği sağlayan ince ayar yöntemidir."
+source: agnes_llm
+status: published
+language: tr
+description: Dönüştürücü katmanlarının girişine eğitilebilir sürekli vektörler ekleyerek
+  parametre verimliliği sağlayan ince ayar yöntemidir.
 ---
-
 ## Definition
 
 Önek Ayarlama, önceden eğitilmiş dönüştürücüler için parametre verimli bir uyarlamadır. Tüm model ağırlıklarını güncellemek yerine, girişe eğitilebilir sürekli vektörlerden oluşan bir diziyi (öneki) ekler. Bu sayede modelin çekirdek ağırlıkları dondurulurken, sadece küçük bir önek parametre seti eğitilir; bu da hesaplama maliyetini önemli ölçüde düşürür.

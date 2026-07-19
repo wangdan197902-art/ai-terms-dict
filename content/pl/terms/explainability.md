@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /pl/terms/explainability/
 date: "2026-07-18T15:35:03.225354Z"
 lastmod: "2026-07-18T17:15:08.831960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wyjaśnialność odnosi się do stopnia, w jakim człowiek może zrozumieć przyczynę decyzji podjętej przez model sztucznej inteligencji."
 ---
-
 ## Definition
 
 Koncepcja ta rozwiązuje problem „czarnej skrzynki” w złożonych systemach SI, dostarczając wglądu w to, jak modele dochodzą do konkretnych przewidywań. Techniki takie jak SHAP czy LIME pomagają wizualizować ważność poszczególnych cech dla wyniku modelu.

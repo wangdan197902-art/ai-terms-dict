@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /fi/terms/gpt2/
 date: "2026-07-18T16:00:05.479206Z"
 lastmod: "2026-07-18T17:15:09.416466Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "GPT-2 on OpenAI:n kehittämä suuri, muunnospohjainen kielimalli tekstin tuottamista ja ymmärtämistä varten."
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2 (GPT-2) on autoregressiivinen kielimalli, joka käyttää muunnosarkkitehtuuria luodakseen ihmisen kaltaista tekstiä. Sitä on koulutettu valtavalla internettekstidatajoukolla.

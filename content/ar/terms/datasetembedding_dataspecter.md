@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /ar/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:52:02.964143Z"
 lastmod: "2026-07-18T17:15:08.491937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات واسعة النطاق مبنية على منشورات وعمليات استشهاد في علوم الحاسوب، مصممة لتدريب نماذج تضمين الأوراق الأكاديمية."
 ---
-
 ## Definition
 
 تم بناء مجموعة بيانات سبيكتر من مجموعة ضخمة من أوراق علوم الحاسوب، باستخدام شبكات الاستشهاد لإنشاء إشارات للتعلم الخاضع للإشراف. وهي تقارن الملخصات بالأوراق التي تستشهد بها

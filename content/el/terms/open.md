@@ -1,23 +1,24 @@
 ---
-title: "Ανοιχτό"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Ανοιχτό
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /el/terms/open/
-date: "2026-07-18T15:30:17.300977Z"
-lastmod: "2026-07-18T17:15:09.850747Z"
+slug: open
+date: '2026-07-18T15:30:17.300977Z'
+lastmod: '2026-07-18T17:15:09.850747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Στην ΤΕ, ο όρος «ανοιχτό» αναφέρεται συνήθως σε μοντέλα ανοιχτού κώδικα ή σε ανοιχτές εργασίες που δεν έχουν προκαθορισμένους περιορισμούς ή πλήρεις χώρους λύσεων."
+source: agnes_llm
+status: published
+language: el
+description: Στην ΤΕ, ο όρος «ανοιχτό» αναφέρεται συνήθως σε μοντέλα ανοιχτού κώδικα
+  ή σε ανοιχτές εργασίες που δεν έχουν προκαθορισμένους περιορισμούς ή πλήρεις χώρους
+  λύσεων.
 ---
-
 ## Definition
 
 Ο όρος «ανοιχτό» στα πλαίσια της τεχνητής νοημοσύνης περιγράφει συχνά δύο διακριτούς τομείς: το λογισμικό ανοιχτού κώδικα, όπου τα βάρη του μοντέλου και ο κώδικας είναι δημόσια διαθέσιμοι για τροποποίηση, και τα προβλήματα ανοιχτού πεδίου.

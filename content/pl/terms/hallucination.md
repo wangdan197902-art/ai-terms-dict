@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /pl/terms/hallucination/
 date: "2026-07-18T15:23:05.011722Z"
 lastmod: "2026-07-18T17:15:08.806261Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Gdy model AI generuje pewne siebie, ale merytorycznie błędne lub bezsensowne informacje."
 ---
-
 ## Definition
 
 Halucynacje występują, gdy modele generatywne AI produkują wyjście, które wydaje się wiarygodne, ale nie ma oparcia w rzeczywistości ani w danych źródłowych. Jest to istotne wyzwanie w aplikacjach wymagających wysokiej dokładności...

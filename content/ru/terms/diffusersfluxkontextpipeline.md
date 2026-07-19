@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /ru/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:50:04.943238Z"
 lastmod: "2026-07-18T16:38:07.149340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Специализированный конвейер в библиотеке Diffusers, разработанный для моделей Flux, позволяющий генерировать изображения с учетом контекста и улучшенной временной или пространственной согласованностью"
 ---
-
 ## Definition
 
 Этот конвейер использует архитектуру Flux, известную высоким качеством синтеза изображений, в рамках фреймворка Diffusers. Он поддерживает механизмы контекста, позволяющие модели учитывать окружающие элементы.

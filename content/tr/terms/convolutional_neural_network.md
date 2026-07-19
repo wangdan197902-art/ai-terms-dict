@@ -1,23 +1,25 @@
 ---
-title: "Evrişimli Sinir Ağı"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Evrişimli Sinir Ağı
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /tr/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:47.145459Z"
-lastmod: "2026-07-18T16:38:07.225295Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:47.145459Z'
+lastmod: '2026-07-18T16:38:07.225295Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Görüntüler gibi ızgara benzeri verileri işlemek için evrişimsel filtreler uygulayan, öncelikle görüntü işleme alanında kullanılan özel bir derin sinir ağı sınıfıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Görüntüler gibi ızgara benzeri verileri işlemek için evrişimsel filtreler
+  uygulayan, öncelikle görüntü işleme alanında kullanılan özel bir derin sinir ağı
+  sınıfıdır.
 ---
-
 ## Definition
 
 Evrişimli Sinir Ağları (CNN'ler), görsel girdilerden özelliklerin uzaysal hiyerarşilerini otomatik ve uyarlanabilir şekilde öğrenmek üzere tasarlanmıştır. Belirli desenleri tespit etmek için filtreler uygulayan evrişimsel katmanlardan oluşurlar.

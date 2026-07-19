@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /no/terms/text_embeddings_inference/
 date: "2026-07-18T16:18:37.728919Z"
 lastmod: "2026-07-18T16:38:07.052840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En spesialisert inferenstjeneste som er designet for å effektivt generere tette vektorrepresentasjoner av tekst for semantisk søk og henting."
 ---
-
 ## Definition
 
 Tekstinnleiringsinferens refererer til distribusjon og optimering av modeller som konverterer naturlig språk til høydimensjonale vektorer. Disse innleiringene fanger opp semantisk mening, noe som lar systemer utføre semantisk søk og henting av informasjon med høy presisjon.

@@ -1,23 +1,24 @@
 ---
-title: "Pré-treinado"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Pré-treinado
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /pt/terms/pretrained/
-date: "2026-07-18T15:17:36.878540Z"
-lastmod: "2026-07-18T15:51:59.523483Z"
+slug: pretrained
+date: '2026-07-18T15:17:36.878540Z'
+lastmod: '2026-07-18T15:51:59.523483Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Refere-se a um modelo que já foi treinado em um grande conjunto de dados antes de ser adaptado para uma tarefa específica."
+source: agnes_llm
+status: published
+language: pt
+description: Refere-se a um modelo que já foi treinado em um grande conjunto de dados
+  antes de ser adaptado para uma tarefa específica.
 ---
-
 ## Definition
 
 O termo 'pré-treinado' descreve um modelo de rede neural que passou por um treinamento inicial em um conjunto de dados massivo, muitas vezes genérico, como ImageNet ou Wikipedia. Esse processo permite que o modelo aprenda representações fundamentais e características gerais dos dados.

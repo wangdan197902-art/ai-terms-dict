@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /ja/terms/cross_modal/
 date: "2026-07-18T10:56:18.939982Z"
 lastmod: "2026-07-18T11:44:45.024393Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "テキストや画像など、異なる種類の感覚データ間で情報を統合・処理する技術。"
 ---
-
 ## Definition
 
 クロスモーダルAIは、視覚、聴覚、テキスト入力など、異なるモダリティからのデータを処理し相関させることを指します。これらのシステムは共通の表現を学習することで、異なるデータタイプ間の関係性を理解します。

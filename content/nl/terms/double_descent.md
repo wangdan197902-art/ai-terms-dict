@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /nl/terms/double_descent/
 date: "2026-07-18T15:53:20.774926Z"
 lastmod: "2026-07-18T17:15:08.739679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een fenomeen waarbij de testfout eerst daalt, stijgt en vervolgens weer daalt naarmate de modelcomplexiteit groeit voorbij de interpolatiedrempel."
 ---
-
 ## Definition
 
 Dubbele daling daagt de traditionele bias-variantieafweging uit door te laten zien dat sterk overgedimensioneerde modellen een lage testfout kunnen bereiken, ondanks dat ze de trainingsgegevens interpoleren. Aanvankelijk stijgt de fout naarmate de complexiteit toeneemt, maar daalt deze opnieuw na de interpolatiedrempel.

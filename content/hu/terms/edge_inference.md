@@ -1,23 +1,25 @@
 ---
-title: "Szélelemzés (Edge inference)"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Szélelemzés (Edge inference)
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /hu/terms/edge_inference/
-date: "2026-07-18T15:58:10.698720Z"
-lastmod: "2026-07-18T17:15:09.779642Z"
+slug: edge_inference
+date: '2026-07-18T15:58:10.698720Z'
+lastmod: '2026-07-18T17:15:09.779642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az edge inference (szélelemzés) az a folyamat, amikor a gépi tanulási modelleket a végfelhasználói eszközökön, nem pedig központosított felhőszervereken hajtjuk végre."
+source: agnes_llm
+status: published
+language: hu
+description: Az edge inference (szélelemzés) az a folyamat, amikor a gépi tanulási
+  modelleket a végfelhasználói eszközökön, nem pedig központosított felhőszervereken
+  hajtjuk végre.
 ---
-
 ## Definition
 
 Ez a gyakorlat a betanított AI-modellek közvetlen telepítését jelenti olyan hardverekre, mint a okostelefonok, IoT-szenzorok vagy beágyazott rendszerek. Az adatok helyi feldolgozásával az edge inference jelentősen csökkenti a késleltetést.

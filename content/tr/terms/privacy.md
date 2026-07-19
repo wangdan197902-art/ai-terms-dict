@@ -1,23 +1,24 @@
 ---
-title: "Gizlilik"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Gizlilik
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /tr/terms/privacy/
-date: "2026-07-18T15:28:12.292650Z"
-lastmod: "2026-07-18T16:38:07.240750Z"
+slug: privacy
+date: '2026-07-18T15:28:12.292650Z'
+lastmod: '2026-07-18T16:38:07.240750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bireylerin kişisel verilerinin yapay zeka sistemleri içinde nasıl toplandığına, kullanıldığına ve paylaşıldığına dair kontrol hakkı."
+source: agnes_llm
+status: published
+language: tr
+description: Bireylerin kişisel verilerinin yapay zeka sistemleri içinde nasıl toplandığına,
+  kullanıldığına ve paylaşıldığına dair kontrol hakkı.
 ---
-
 ## Definition
 
 Yapay zekada gizlilik, veri toplama, model eğitimi ve çıkarım aşamaları sırasında hassas kullanıcı bilgilerinin yetkisiz erişim veya kötüye kullanımdan korunmasını ifade eder. Bu kavram, 

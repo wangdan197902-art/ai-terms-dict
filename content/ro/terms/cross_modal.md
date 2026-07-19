@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /ro/terms/cross_modal/
 date: "2026-07-18T15:31:35.025095Z"
 lastmod: "2026-07-18T17:15:09.607604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Tehnici care integrează și procesează informații din diferite tipuri de date senzoriale, cum ar fi textul și imaginile."
 ---
-
 ## Definition
 
 IA intermodală implică procesarea și corelarea datelor din modalități distincte, cum ar fi combinarea intrărilor vizuale, auditive și textuale. Aceste sisteme învață reprezentări partajate pentru a înțelege relațiile dintre diferite tipuri de date...

@@ -1,23 +1,23 @@
 ---
-title: "音声活動検出"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: 音声活動検出
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /ja/terms/voice_activity_detection/
-date: "2026-07-18T11:36:21.548645Z"
-lastmod: "2026-07-18T11:44:45.154455Z"
+slug: voice_activity_detection
+date: '2026-07-18T11:36:21.548645Z'
+lastmod: '2026-07-18T11:44:45.154455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "音声活動検出（VAD）は、オーディオのセグメントに人間の発話が含まれているか、無音またはノイズが含まれているかを識別するために使用される信号処理技術です。"
+source: agnes_llm
+status: published
+language: ja
+description: 音声活動検出（VAD）は、オーディオのセグメントに人間の発話が含まれているか、無音またはノイズが含まれているかを識別するために使用される信号処理技術です。
 ---
-
 ## Definition
 
 VADアルゴリズムは、背景ノイズや一時停止などの非音声区間に対してアクティブな発話期間をリアルタイムで分析して区別します。これは、帯域幅の最適化において重要です。

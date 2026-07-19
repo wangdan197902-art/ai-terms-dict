@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /th/terms/model_index/
 date: "2026-07-18T16:05:52.068221Z"
 lastmod: "2026-07-18T16:38:07.633123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Model Index คือไฟล์เมตาดาต้าที่ใช้โดย Hugging Face Hub เพื่ออธิบายและจัดระเบียบส่วนประกอบและการกำหนดค่าของโมเดล"
 ---
-
 ## Definition
 
 ไฟล์ดัชนี (มักชื่อ 'model_index.json') มีข้อมูลโครงสร้างเกี่ยวกับสถาปัตยกรรมของโมเดล รวมถึงประเภทของพิปไลน์ โมเดลย่อย และเส้นทางของการกำหนดค่า ช่วยให้ Hub สามารถรวบรวม

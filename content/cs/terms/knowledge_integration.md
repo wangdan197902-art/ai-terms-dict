@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /cs/terms/knowledge_integration/
 date: "2026-07-18T16:04:46.777291Z"
 lastmod: "2026-07-18T17:15:09.145363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces spojování heterogenních zdrojů znalostí do jednotné, konzistentní reprezentace pro zlepšení odvozování."
 ---
-
 ## Definition
 
 Integrace znalostí zahrnuje slučování dat z různých zdrojů, jako jsou databáze, ontologie a neštrukturovaný text, do koherentního schématu. Řeší problémy sémantické heterogenity a nekonzistence mezi různými systémy, což umožňuje efektivnější sdílení a využití informací.

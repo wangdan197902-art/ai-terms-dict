@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /ja/terms/phi/
 date: "2026-07-18T11:27:48.943978Z"
 lastmod: "2026-07-18T11:44:45.131768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Microsoft Researchによって開発された、知識密度と推論能力に焦点を当てた、小型ながら非常に効率的な大規模言語モデルシリーズ。"
 ---
-
 ## Definition
 
 Phi（Teaching-Learning Paradigmに基づくファウンデーションモデルの略称）は、Microsoftによって作成されたコンパクトな大規模言語モデルのファミリーです。従来の巨大なウェブコーパスで訓練されるLLMとは異なり、Phiは合成データを用いて訓練されます。

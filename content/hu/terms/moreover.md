@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /hu/terms/moreover/
 date: "2026-07-18T15:28:34.654483Z"
 lastmod: "2026-07-18T17:15:09.724914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy átmeneti határozószó, amely további információk bevezetésére vagy egy korábbi érv megerősítésére szolgál."
 ---
-
 ## Definition
 
 Az AI dokumentáció és a műszaki szövegírás kontextusában a 'továbbá' (angolul: Moreover) egy diskurzív jelölőként funkcionál, amely alátámasztó bizonyítékok vagy egy további pont hozzáadását jelzi, amely megerősíti a jelenlegi érvelést.

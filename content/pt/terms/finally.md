@@ -7,8 +7,6 @@ tags: ["workflow", "process"]
 difficulty: 1
 weight: 1
 slug: "finally"
-aliases:
-  - /pt/terms/finally/
 date: "2026-07-18T14:35:11.087542Z"
 lastmod: "2026-07-18T15:51:59.429635Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Em fluxos de trabalho de IA, 'finalmente' denota a etapa conclusiva ou a fase de geração de saída após o término de todos os estágios de processamento."
 ---
-
 ## Definition
 
 O conceito de 'finalmente' representa a etapa terminal em um pipeline de IA, onde os dados processados geram um resultado final, como uma previsão, classificação ou texto gerado. Ele marca o fim da computação.

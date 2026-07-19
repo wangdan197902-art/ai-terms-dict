@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /zh/terms/embodied_agent/
 date: "2026-07-18T11:15:59.239273Z"
 lastmod: "2026-07-18T11:44:45.493492Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "具身智能体是一种通过与物理身体或感觉运动装置交互来与其环境互动的AI系统。"
 ---
-
 ## Definition
 
 与处理抽象数据的非具身AI不同，具身智能体在物理环境中学习和行动，依赖于感官输入和运动输出。这一范式对于机器人技术和自主系统至关重要。

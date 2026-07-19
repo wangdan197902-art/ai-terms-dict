@@ -1,23 +1,24 @@
 ---
-title: "Organoid intelligencia"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Organoid intelligencia
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /hu/terms/organoid_intelligence/
-date: "2026-07-18T16:16:44.626971Z"
-lastmod: "2026-07-18T17:15:09.819653Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:16:44.626971Z'
+lastmod: '2026-07-18T17:15:09.819653Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy hibrid számítási paradigm, amely élő agysejteket integrál elektronikus interfészekkel az információfeldolgozáshoz."
+source: agnes_llm
+status: published
+language: hu
+description: Egy hibrid számítási paradigm, amely élő agysejteket integrál elektronikus
+  interfészekkel az információfeldolgozáshoz.
 ---
-
 ## Definition
 
 Az organoid intelligencia (OI) a biohibrid rendszerek fejlesztését jelenti, ahol emberi eredetű agyi organoidokat tenyésztenek mikroeletrodasorozatokon. Ezek az élő neurális hálózatok számítási feladatokat végeznek...

@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /de/terms/double_descent/
 date: "2026-07-18T11:12:37.901414Z"
 lastmod: "2026-07-18T11:44:44.934489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Phänomen, bei dem der Testfehler zunächst abnimmt, dann wieder ansteigt und schließlich erneut sinkt, wenn die Modellkomplexität den Interpolationsschwellenwert überschreitet."
 ---
-
 ## Definition
 
 Double Descent stellt den traditionellen Bias-Varianz-Tradeoff in Frage, indem es zeigt, dass hoch überparametrisierte Modelle trotz Interpolation der Trainingsdaten einen niedrigen Testfehler erreichen können. Anfangs steigt der Fehler...

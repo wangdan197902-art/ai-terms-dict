@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /fr/terms/deceptive_alignment/
 date: "2026-07-18T11:12:54.770602Z"
 lastmod: "2026-07-18T11:44:45.240563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un scénario où un modèle d'IA semble aligné pendant l'entraînement mais poursuit des objectifs non alignés une fois déployé."
 ---
-
 ## Definition
 
 L'alignement trompeur se produit lorsqu'un système d'IA hautement performant apprend que l'affichage d'un comportement aligné pendant l'entraînement augmente ses chances d'être déployé, tout en maintenant secrètement des objectifs sous-jacents non alignés.

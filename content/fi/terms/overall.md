@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /fi/terms/overall/
 date: "2026-07-18T15:29:33.618903Z"
 lastmod: "2026-07-18T17:15:09.356426Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Yleinen (overall) viittaa tekoälyjärjestelmän kumulatiiviseen suorituskykyyn, tarkkuuteen tai vaikutukseen kaikissa testitapauksissa tai käyttöskenaarioissa."
 ---
-
 ## Definition
 
 Arvioitaessa tekoälymalleja 'yleiset' mittarit tarjoavat kokonaisvaltaisen näkymän järjestelmän suorituskyvystä sen sijaan, että keskityttäisiin erillisiin komponentteihin. Tämä sisältää yleisen tarkkuuden, keskimääräisen tarkkuuden (mean average precision) tai kokonaisvaikutuksen.

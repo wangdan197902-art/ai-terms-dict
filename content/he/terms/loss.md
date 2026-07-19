@@ -1,23 +1,22 @@
 ---
-title: "פונקציית הפסד"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: פונקציית הפסד
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /he/terms/loss/
-date: "2026-07-18T15:27:01.426872Z"
-lastmod: "2026-07-18T17:15:09.481542Z"
+slug: loss
+date: '2026-07-18T15:27:01.426872Z'
+lastmod: '2026-07-18T17:15:09.481542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ערך מספרי המכמת את השגיאה בין התחזיות של המודל לערכי המטרה האמיתיים."
+source: agnes_llm
+status: published
+language: he
+description: ערך מספרי המכמת את השגיאה בין התחזיות של המודל לערכי המטרה האמיתיים.
 ---
-
 ## Definition
 
 פונקציות הפסד, המוכרות גם כפונקציות עלות, מודדות עד כמה התחזיות של מודל למידת מכונה תואמות למציאות (Ground Truth) במהלך האימון. מטרת אלגוריתם האופטימיזציה היא למזער ערך זה

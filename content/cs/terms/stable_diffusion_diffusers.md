@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /cs/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:18:55.852674Z"
 lastmod: "2026-07-18T17:15:09.203656Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Knihovna Hugging Face poskytující standardizované pipeline pro spuštění a doladění modelů Stable Diffusion."
 ---
-
 ## Definition
 
 Knihovna Diffusers je open-source toolkit od společnosti Hugging Face, navržený pro zjednodušení používání předtrénovaných difuzních modelů, zejména Stable Diffusion. Nabízí modulární pipeline, které zpracovávají jednotlivé kroky generování (např. kódování textu, difuzní proces, dekodování), což usnadňuje experimentování, finetuning a integraci těchto modelů do aplikací.

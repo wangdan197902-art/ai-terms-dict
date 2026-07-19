@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /ar/terms/multi_armed_bandit/
 date: "2026-07-18T16:13:48.393975Z"
 lastmod: "2026-07-18T17:15:08.530448Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "آلة القمار متعددة الأذراع هي مشكلة كلاسيكية في نظرية الاحتمالات والتعلم المعزز تصف المقايضة بين الاستكشاف والاستغلال."
 ---
-
 ## Definition
 
 توضح مشكلة آلة القمار متعددة الأذراع المعضلة التي يواجهها الوكيل عند اتخاذ قرار بين الالتزام بخيار معروف العائد (الاستغلال) أو تجربة خيارات جديدة لاكتشاف عوائد محتملة أفضل

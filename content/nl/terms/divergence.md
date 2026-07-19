@@ -1,23 +1,24 @@
 ---
-title: "Divergentie"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergentie
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /nl/terms/divergence/
-date: "2026-07-18T15:25:23.630962Z"
-lastmod: "2026-07-18T17:15:08.682633Z"
+slug: divergence
+date: '2026-07-18T15:25:23.630962Z'
+lastmod: '2026-07-18T17:15:08.682633Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Divergence refers to the failure of a machine learning algorithm's loss function to decrease during training, resulting in unstable or worsening performance."
+source: agnes_llm
+status: published
+language: nl
+description: Divergence refers to the failure of a machine learning algorithm's loss
+  function to decrease during training, resulting in unstable or worsening performance.
 ---
-
 ## Definition
 
 Divergentie verwijst naar het falen van de verliesfunctie (loss function) van een machine learning-algoritme om af te nemen tijdens het trainen, wat resulteert in instabiele of verslechterende prestaties.

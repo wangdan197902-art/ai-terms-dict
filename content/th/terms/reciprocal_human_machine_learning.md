@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /th/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:13:21.972336Z"
 lastmod: "2026-07-18T16:38:07.649315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กระบวนทัศน์การเรียนรู้แบบร่วมมือที่มนุษย์และเครื่องจักรสอนและเรียนรู้ซึ่งกันและกันอย่างต่อเนื่องเพื่อปรับปรุงประสิทธิภาพ"
 ---
-
 ## Definition
 
 แนวทางนี้ก้าวข้ามการทำป้ายกำกับแบบ Human-in-the-loop ธรรมดา เกี่ยวข้องกับการถ่ายทอดความรู้แบบสองทิศทาง: มนุษย์แก้ไขข้อผิดพลาดของโมเดลในขณะที่โมเดลช่วยมนุษย์ในการระบุรูปแบบหรือทำให้งานอัตโนมัติ

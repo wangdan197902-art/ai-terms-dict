@@ -1,23 +1,23 @@
 ---
-title: "การฟังของคอมพิวเตอร์"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: การฟังของคอมพิวเตอร์
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /th/terms/computer_audition/
-date: "2026-07-18T15:46:18.725069Z"
-lastmod: "2026-07-18T16:38:07.587748Z"
+slug: computer_audition
+date: '2026-07-18T15:46:18.725069Z'
+lastmod: '2026-07-18T16:38:07.587748Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การฟังของคอมพิวเตอร์ คือ สาขาวิชาที่มุ่งเน้นการพัฒนาให้เครื่องจักรสามารถรับรู้และเข้าใจสัญญาณเสียงได้คล้ายกับมนุษย์"
+source: agnes_llm
+status: published
+language: th
+description: การฟังของคอมพิวเตอร์ คือ สาขาวิชาที่มุ่งเน้นการพัฒนาให้เครื่องจักรสามารถรับรู้และเข้าใจสัญญาณเสียงได้คล้ายกับมนุษย์
 ---
-
 ## Definition
 
 การฟังของคอมพิวเตอร์เกี่ยวข้องกับการพัฒนาอัลกอริทึมเพื่อให้คอมพิวเตอร์สามารถสกัดข้อมูลที่มีความหมายจากคลื่นเสียง ซึ่งรวมถึงงานต่างๆ เช่น การรู้จำเสียงพูด และการจัดหมวดหมู่แนวเพลง...

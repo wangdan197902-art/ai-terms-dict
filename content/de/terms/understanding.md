@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /de/terms/understanding/
 date: "2026-07-18T10:54:44.482512Z"
 lastmod: "2026-07-18T11:44:44.886423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Im KI-Kontext die Fähigkeit eines Modells, semantische Bedeutungen, Kontext und Absichten in Eingabedaten zu erfassen, anstatt nur Muster zu erkennen."
 ---
-
 ## Definition
 
 KI-Verständnis geht über statistische Korrelationen hinaus, um die zugrunde liegende Bedeutung von Daten zu interpretieren. Für Sprachmodelle bedeutet dies, Syntax, Semantik und Pragmatik zu verstehen, um kohärente und...

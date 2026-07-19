@@ -1,23 +1,25 @@
 ---
-title: "Învățare automată în jocurile video"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Învățare automată în jocurile video
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /ro/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:10:49.739732Z"
-lastmod: "2026-07-18T17:15:09.678374Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:10:49.739732Z'
+lastmod: '2026-07-18T17:15:09.678374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Aplicarea algoritmilor de învățare automată pentru a îmbunătăți dezvoltarea jocurilor, a crea personaje non-jucătoare (NPC) adaptative și a optimiza experiența de joc."
+source: agnes_llm
+status: published
+language: ro
+description: Aplicarea algoritmilor de învățare automată pentru a îmbunătăți dezvoltarea
+  jocurilor, a crea personaje non-jucătoare (NPC) adaptative și a optimiza experiența
+  de joc.
 ---
-
 ## Definition
 
 Acest domeniu implică integrarea tehnicilor de învățare automată în fluxurile de lucru ale jocurilor video pentru a automatiza crearea activelor, a echilibra mecanica jocului și a genera conținut dinamic. Acesta variază de la utilizarea învățării prin întărire pentru...

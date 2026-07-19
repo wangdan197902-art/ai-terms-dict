@@ -1,23 +1,25 @@
 ---
-title: "Opittava funktioluokka"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Opittava funktioluokka
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /fi/terms/learnable_function_class/
-date: "2026-07-18T16:06:26.970007Z"
-lastmod: "2026-07-18T17:15:09.427593Z"
+slug: learnable_function_class
+date: '2026-07-18T16:06:26.970007Z'
+lastmod: '2026-07-18T17:15:09.427593Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Opittava funktioluokka on joukko matemaattisia funktioita, jotka on määritelty tietyn malliarkkitehtuurin ja parametriavaruuden perusteella ja joita oppimisalgoritmi voi optimoida."
+source: agnes_llm
+status: published
+language: fi
+description: Opittava funktioluokka on joukko matemaattisia funktioita, jotka on määritelty
+  tietyn malliarkkitehtuurin ja parametriavaruuden perusteella ja joita oppimisalgoritmi
+  voi optimoida.
 ---
-
 ## Definition
 
 Tilastollisessa oppimisteoriassa opittava funktioluokka edustaa algoritmin käytettävissä olevaa hypoteesiavaruutta. Se määrittelee ne kuviot tai kuvaukset, jotka malli voi potentiaalisesti oppia.

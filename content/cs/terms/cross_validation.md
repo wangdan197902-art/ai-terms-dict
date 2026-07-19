@@ -1,23 +1,24 @@
 ---
-title: "Křížová validace"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Křížová validace
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /cs/terms/cross_validation/
-date: "2026-07-18T15:50:05.820103Z"
-lastmod: "2026-07-18T17:15:09.114937Z"
+slug: cross_validation
+date: '2026-07-18T15:50:05.820103Z'
+lastmod: '2026-07-18T17:15:09.114937Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Resamplingová procedura používaná k hodnocení výkonu modelů strojového učení na omezeném datovém souboru rozdělením dat do podmnožin pro trénink a testování."
+source: agnes_llm
+status: published
+language: cs
+description: Resamplingová procedura používaná k hodnocení výkonu modelů strojového
+  učení na omezeném datovém souboru rozdělením dat do podmnožin pro trénink a testování.
 ---
-
 ## Definition
 
 Křížová validace je statistická metoda používaná k odhadu kvality modelů strojového učení. Nejčastější formou je k-křížová validace, kde jsou data rozdělena na k stejných částí. Model je trénován na k-1 částech a testován na zbylé části, což se opakuje pro každou část.

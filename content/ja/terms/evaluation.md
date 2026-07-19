@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /ja/terms/evaluation/
 date: "2026-07-18T10:50:36.162858Z"
 lastmod: "2026-07-18T11:44:45.007844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "評価とは、AIモデルのパフォーマンス、精度、堅牢性を、事前に定義された指標とデータセットに対して検証するプロセスです。"
 ---
-
 ## Definition
 
 評価には、定量的な指標（例：精度、F1スコア、BLEUスコア）および定性的なアセスメントを用いて、AIモデルが特定のタスクでいかに良く機能しているかを体系的に測定することが含まれます。これには、検証セットを用いたバリデーションや、過学習の検出が含まれます。

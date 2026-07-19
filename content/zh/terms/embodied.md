@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /zh/terms/embodied/
 date: "2026-07-18T10:50:55.420512Z"
 lastmod: "2026-07-18T11:44:45.366130Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "具身智能是指通过身体中的传感器和执行器与物理世界进行交互的智能系统。"
 ---
-
 ## Definition
 
 具身智能认为，智能源于代理（agent）的物理形态与其环境之间的相互作用。与处理抽象数据的非具身智能不同，具身代理使用传感器感知环境，并通过执行器采取行动。这种交互过程对于学习常识、空间推理和适应动态环境至关重要，是机器人学和认知科学的重要研究方向。

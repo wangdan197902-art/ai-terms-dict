@@ -1,23 +1,24 @@
 ---
-title: "Instruction Tuning"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Instruction Tuning
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /de/terms/instruction_tuning/
-date: "2026-07-18T10:50:53.396158Z"
-lastmod: "2026-07-18T11:44:44.876552Z"
+slug: instruction_tuning
+date: '2026-07-18T10:50:53.396158Z'
+lastmod: '2026-07-18T11:44:44.876552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Instruction Tuning ist eine Feinabstimmungstechnik, bei der ein vortrainiertes Sprachmodell mit einem Datensatz aus Anweisungen und entsprechenden Antworten trainiert wird, um die Fähigkeit zur Aufgab"
+source: agnes_llm
+status: published
+language: de
+description: Instruction Tuning ist eine Feinabstimmungstechnik, bei der ein vortrainiertes
+  Sprachmodell mit einem Datensatz aus Anweisungen und entsprechenden Antworten trainiert
+  wird, um die Fähigkeit zur Aufgab
 ---
-
 ## Definition
 
 Dieser Prozess überbrückt die Lücke zwischen allgemeinem Pre-Training und spezifischer Aufgabenleistung. Durch die Exposition des Modells gegenüber vielfältigen Anweisungs-Antwort-Paaren lernt es, auf ungesehene Aufgaben zu generalisieren, ohne zusätzliche...

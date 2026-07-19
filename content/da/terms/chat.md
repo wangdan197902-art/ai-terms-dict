@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /da/terms/chat/
 date: "2026-07-18T15:45:14.170345Z"
 lastmod: "2026-07-18T17:15:09.267605Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Chat refererer til interaktiv, konversationel kommunikation mellem en bruger og et AI-system, typisk faciliteret gennem naturligt sprog."
 ---
-
 ## Definition
 
 In the context of AI, Chat denotes the interface and underlying mechanism for real-time, turn-based dialogue. It allows users to ask questions, request tasks, or engage in open-ended conversation. Mod

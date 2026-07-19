@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /he/terms/datasetgooaq/
 date: "2026-07-18T15:51:59.704450Z"
 lastmod: "2026-07-18T17:15:09.528456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים בקנה מידה גדול הכוללת שאילתות ותגובות מ-Google Answers, המשמשת לאימון מודלים לשליפת מידוע ומענה לשאלות."
 ---
-
 ## Definition
 
 GooAQ היא מערכת נתונים שנאסמה משירות Google Answers, הכוללת אוסף עצום של שאלות שהוגשו על ידי משתמשים לצד תגובות מפורטות בתשלום. היא מהווה משאב יקר ערך לאימון 

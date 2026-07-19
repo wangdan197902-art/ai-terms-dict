@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /it/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:18:42.497338Z"
 lastmod: "2026-07-18T17:15:08.664334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un paradigma di apprendimento collaborativo in cui umani e macchine si insegnano e imparano continuamente l'un l'altro per migliorare le prestazioni."
 ---
-
 ## Definition
 
 Questo approccio va oltre la semplice annotazione umana nel ciclo (human-in-the-loop). Coinvolge un trasferimento di conoscenza bidirezionale: gli umani correggono gli errori del modello mentre il modello assiste gli umani nell'identificare pattern o automatizzare compiti ripetitivi, creando un ciclo virtuoso.

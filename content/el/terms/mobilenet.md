@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /el/terms/mobilenet/
 date: "2026-07-18T16:21:45.940385Z"
 lastmod: "2026-07-18T17:15:09.932587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Το MobileNet είναι μια οικογένεια ελαφρών βαθιών νευρωνικών δικτύων, σχεδιασμένη για εφαρμογές όρασης σε κινητές και ενσωματωμένες συσκευές."
 ---
-
 ## Definition
 
 Τα MobileNet χρησιμοποιούν χωριστές βάθους διαχωριστικές συστάδες (depthwise separable convolutions) για να μειώσουν δραματικά το υπολογιστικό κόστος και το μέγεθος του μοντέλου σε σύγκριση με τις τυπικές συστάδες. Αυτή η αρχιτεκτονική επιτρέπει την αποδοτική εξαγωγή χαρακτηριστικών σε

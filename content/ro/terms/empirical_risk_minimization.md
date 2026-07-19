@@ -1,23 +1,24 @@
 ---
-title: "Minimizarea riscului empiric"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Minimizarea riscului empiric
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /ro/terms/empirical_risk_minimization/
-date: "2026-07-18T15:56:15.937083Z"
-lastmod: "2026-07-18T17:15:09.652408Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:56:15.937083Z'
+lastmod: '2026-07-18T17:15:09.652408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un principiu fundamental în învățarea automată care vizează minimizarea pierderii medii asupra datelor de antrenament observate."
+source: agnes_llm
+status: published
+language: ro
+description: Un principiu fundamental în învățarea automată care vizează minimizarea
+  pierderii medii asupra datelor de antrenament observate.
 ---
-
 ## Definition
 
 Minimizarea Riscului Empiric (ERM) este funcția obiectiv standard pentru antrenarea modelelor de învățare supravegheată. Implică selectarea unei ipoteze dintr-o clasă de funcții care minimizează eroarea medie...

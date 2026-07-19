@@ -1,23 +1,24 @@
 ---
-title: "Metode gradien proksimal untuk pembelajaran"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: Metode gradien proksimal untuk pembelajaran
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /id/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T16:05:14.242632Z"
-lastmod: "2026-07-18T16:38:07.496822Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T16:05:14.242632Z'
+lastmod: '2026-07-18T16:38:07.496822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Algoritma optimasi yang dirancang untuk meminimalkan fungsi tujuan komposit yang mengandung komponen mulus dan tidak mulus."
+source: agnes_llm
+status: published
+language: id
+description: Algoritma optimasi yang dirancang untuk meminimalkan fungsi tujuan komposit
+  yang mengandung komponen mulus dan tidak mulus.
 ---
-
 ## Definition
 
 Metode gradien proksimal adalah teknik optimasi iteratif yang digunakan ketika fungsi kerugian mencakup istilah mulus yang dapat didiferensialkan dan istilah regulerisasi yang tidak dapat didiferensialkan, seperti norma L1. Algoritma ini

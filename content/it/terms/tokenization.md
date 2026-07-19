@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /it/terms/tokenization/
 date: "2026-07-18T15:30:25.030113Z"
 lastmod: "2026-07-18T17:15:08.576522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La tokenizzazione è il processo di suddivisione del testo grezzo in unità più piccole chiamate token, che possono essere elaborate dagli algoritmi di apprendimento automatico."
 ---
-
 ## Definition
 
 La tokenizzazione è un passaggio critico di pre-elaborazione nell'Elaborazione del Linguaggio Naturale (NLP) che converte il testo non strutturato in dati strutturati adatti all'ingestione da parte dei modelli. Coinvolge la scomposizione di frasi e documenti in componenti più piccoli, gestendo sfide come la gestione di parole sconosciute o la normalizzazione del testo.

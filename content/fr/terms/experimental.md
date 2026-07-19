@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /fr/terms/experimental/
 date: "2026-07-18T10:50:09.517302Z"
 lastmod: "2026-07-18T11:44:45.162298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Se réfère aux technologies, modèles ou méthodes d'IA qui sont à un stade précoce de développement et n'ont pas encore été pleinement validés pour la production."
 ---
-
 ## Definition
 
 Expérimental désigne les composants d'IA qui sont actuellement testés, recherchés ou mis en prototype avant d'atteindre la stabilité ou une adoption généralisée. Ces systèmes utilisent souvent des architectures novatrices ou non éprouvées.

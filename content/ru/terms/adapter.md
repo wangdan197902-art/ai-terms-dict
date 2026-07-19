@@ -1,23 +1,25 @@
 ---
-title: "Адаптер"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Адаптер
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /ru/terms/adapter/
-date: "2026-07-18T15:32:48.048937Z"
-lastmod: "2026-07-18T16:38:07.099358Z"
+slug: adapter
+date: '2026-07-18T15:32:48.048937Z'
+lastmod: '2026-07-18T16:38:07.099358Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Легковесный модуль, встраиваемый в предварительно обученные модели для эффективной дообучения под конкретные задачи."
+source: agnes_llm
+status: published
+language: ru
+description: Легковесный модуль, встраиваемый в предварительно обученные модели для
+  эффективной дообучения под конкретные задачи.
 ---
-
 ## Definition
 
 Адаптеры — это техника эффективного по параметрам дообучения, используемая преимущественно в больших языковых моделях и трансформерах. Вместо обновления всех весов модели, что вычислительно затратно, адаптеры

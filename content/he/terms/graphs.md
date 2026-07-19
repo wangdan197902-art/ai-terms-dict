@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /he/terms/graphs/
 date: "2026-07-18T15:25:59.459057Z"
 lastmod: "2026-07-18T17:15:09.478997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "צורת הרבים המתייחסת למספר מבני גרף או לייצוגים חזותיים של מגמות נתונים בלמידת מכונה."
 ---
-
 ## Definition
 
 בעוד שהגרף הבודד מתייחס למבנה הנתונים המופשט, 'גרפים' מתייחס לעיתים קרובות גם למספר מופעים נפרדים של גרפים וגם לגרפים חזותיים המשמשים בניטור בלמידת מכונה, כמו גרפי קווים או עמודות.

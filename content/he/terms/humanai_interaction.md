@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /he/terms/humanai_interaction/
 date: "2026-07-18T16:04:39.001926Z"
 lastmod: "2026-07-18T17:15:09.548538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הלימוד והפרקטיקה של האופן שבו אנשים מתקשרים, שולטים ומשתפים פעולה עם מערכות בינה מלאכותית."
 ---
-
 ## Definition
 
 אינטראקציה בין אדם ל-AI (HAI) היא תחום בין-תחומי הבוחן את הדינמיקה בין אנשים לטכנולוגיות AI. הוא מתמקד בעיצוב ממשקים אינטואיטיביים, פרוטוקולי תקשורת ושיתוף פעולה...

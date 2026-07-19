@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /pl/terms/document_classification/
 date: "2026-07-18T15:52:38.616424Z"
 lastmod: "2026-07-18T17:15:08.868210Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces kategoryzowania tekstowych dokumentów do zdefiniowanych wcześniej grup na podstawie ich treści."
 ---
-
 ## Definition
 
 Klasyfikacja dokumentów to podstawowe zadanie przetwarzania języka naturalnego, w którym algorytmy przypisują etykiety do danych tekstowych nieustrukturyzowanych. Obejmuje ono ekstrakcję cech z dokumentów i mapowanie ich do zdefiniowanych kategorii klas.

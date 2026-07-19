@@ -1,23 +1,23 @@
 ---
-title: "時間的バイアス"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: 時間的バイアス
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /ja/terms/temporal_bias/
-date: "2026-07-18T11:34:13.391036Z"
-lastmod: "2026-07-18T11:44:45.149479Z"
+slug: temporal_bias
+date: '2026-07-18T11:34:13.391036Z'
+lastmod: '2026-07-18T11:44:45.149479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルが過去の文脈よりも最新のデータを優先し、予測に偏りをもたらす体系的な誤差。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルが過去の文脈よりも最新のデータを優先し、予測に偏りをもたらす体系的な誤差。
 ---
-
 ## Definition
 
 時間的バイアスは、機械学習モデルが古い観測値と比較して最新の観測値に不均衡に重みを置く場合に発生します。これは、非定常的なデータ分布や特定のトレーニングプロトコルに起因することが多いです。

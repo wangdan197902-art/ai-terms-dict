@@ -1,23 +1,24 @@
 ---
-title: "Aprendizado de Múltiplas Instâncias"
-term_id: "multiple_instance_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "weak_labeling", "ml_paradigm"]
+title: Aprendizado de Múltiplas Instâncias
+term_id: multiple_instance_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- Weak Labeling
+- ML Paradigm
 difficulty: 4
 weight: 1
-slug: "multiple_instance_learning"
-aliases:
-  - /pt/terms/multiple_instance_learning/
-date: "2026-07-18T14:45:01.633016Z"
-lastmod: "2026-07-18T15:51:59.452506Z"
+slug: multiple_instance_learning
+date: '2026-07-18T14:45:01.633016Z'
+lastmod: '2026-07-18T15:51:59.452506Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um paradigma de aprendizado fracamente supervisionado no qual rótulos são atribuídos a conjuntos (bolsas) de instâncias, em vez de instâncias individuais."
+source: agnes_llm
+status: published
+language: pt
+description: Um paradigma de aprendizado fracamente supervisionado no qual rótulos
+  são atribuídos a conjuntos (bolsas) de instâncias, em vez de instâncias individuais.
 ---
-
 ## Definition
 
 O Aprendizado de Múltiplas Instâncias (MIL) aborda cenários onde os dados são agrupados em 'bolsas' com um único rótulo, enquanto as instâncias individuais dentro dessas bolsas permanecem sem rótulo. Uma bolsa é tipicamente considerada positiva se contiver pelo menos uma instância positiva.

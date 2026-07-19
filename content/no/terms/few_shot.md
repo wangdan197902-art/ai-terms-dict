@@ -1,23 +1,24 @@
 ---
-title: "few-shot"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /no/terms/few_shot/
-date: "2026-07-18T15:33:14.858864Z"
-lastmod: "2026-07-18T16:38:06.951689Z"
+slug: few_shot
+date: '2026-07-18T15:33:14.858864Z'
+lastmod: '2026-07-18T16:38:06.951689Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et læringsparadigme der en modell utfører en oppgave korrekt etter kun å ha blitt utsatt for et lite antall merkede eksempler."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et læringsparadigme der en modell utfører en oppgave korrekt etter kun
+  å ha blitt utsatt for et lite antall merkede eksempler.
 ---
-
 ## Definition
 
 Few-shot-læring gjør maskinlæringsmodeller i stand til å generalisere fra svært begrenset data, vanligvis i størrelsesordenen ett til ti eksempler per klasse. I motsetning til tradisjonell overvåket læring som krever tusenvis av eksempler, utnytter few-shot metoder ofte forhåndstrening og meta-læring for rask tilpasning.

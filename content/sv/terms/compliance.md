@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /sv/terms/compliance/
 date: "2026-07-18T15:49:36.210117Z"
 lastmod: "2026-07-18T17:15:08.985727Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Att AI-system följer lagstadgade krav, etiska standarder och branschriktlinjer."
 ---
-
 ## Definition
 
 Inom artificiell intelligens avser efterlevnad processen att säkerställa att AI-modeller och deras implementering stämmer överens med tillämpliga lagar, såsom GDPR eller HIPAA, samt interna etiska ramar.

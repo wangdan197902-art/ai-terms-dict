@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /it/terms/out_of_distribution/
 date: "2026-07-18T15:33:48.516443Z"
 lastmod: "2026-07-18T17:15:08.581464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Punti dati che differiscono significativamente dalla distribuzione osservata durante la fase di addestramento del modello."
 ---
-
 ## Definition
 
 Il rilevamento out-of-distribution (OOD) identifica input che cadono al di fuori dell'ambito della distribuzione dei dati di addestramento. I modelli spesso hanno prestazioni scarse o commettono errori con alta confidenza sui dati OOD, portando a

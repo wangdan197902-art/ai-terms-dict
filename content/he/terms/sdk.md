@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /he/terms/sdk/
 date: "2026-07-18T15:38:30.677510Z"
 lastmod: "2026-07-18T17:15:09.504186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ערכת כלים, ספריות ותיעוד לבניית יישומים."
 ---
-
 ## Definition
 
 SDK (Software Development Kit) הוא אוסף של כלים לפיתוח תוכנה המאפשר למפתחים ליצור יישומים עבור פלטפורמות או שירותים ספציפיים. בתחום הבינה המלאכותית, SDKs מספקים ספריות מוכנות מראש, ממשקי API וכלים שימושיים לפשט את הטמעת מודלים ולניהול משימות ML.

@@ -1,23 +1,25 @@
 ---
-title: "Mapeo de Activación de Clase"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Mapeo de Activación de Clase
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /es/terms/class_activation_mapping/
-date: "2026-07-18T10:39:26.446051Z"
-lastmod: "2026-07-18T11:44:44.785553Z"
+slug: class_activation_mapping
+date: '2026-07-18T10:39:26.446051Z'
+lastmod: '2026-07-18T11:44:44.785553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El mapeo de activación de clase (CAM) es una técnica de visualización que resalta las regiones de una imagen de entrada más responsables de una clase predicha específica."
+source: agnes_llm
+status: published
+language: es
+description: El mapeo de activación de clase (CAM) es una técnica de visualización
+  que resalta las regiones de una imagen de entrada más responsables de una clase
+  predicha específica.
 ---
-
 ## Definition
 
 CAM genera mapas de calor superpuestos en las imágenes de entrada para mostrar qué píxeles contribuyeron más a la decisión del modelo para una etiqueta de clase particular. Funciona aplicando un promedio global de agrupamiento (pooling) a la última con

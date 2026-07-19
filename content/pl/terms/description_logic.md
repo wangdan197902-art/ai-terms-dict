@@ -1,23 +1,23 @@
 ---
-title: "Logika opisowa"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Logika opisowa
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /pl/terms/description_logic/
-date: "2026-07-18T15:51:34.743108Z"
-lastmod: "2026-07-18T17:15:08.866014Z"
+slug: description_logic
+date: '2026-07-18T15:51:34.743108Z'
+lastmod: '2026-07-18T17:15:08.866014Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Rodzina formalnych języków reprezentacji wiedzy służących do przedstawiania i rozumowania nad strukturalną koncepcją domen."
+source: agnes_llm
+status: published
+language: pl
+description: Rodzina formalnych języków reprezentacji wiedzy służących do przedstawiania
+  i rozumowania nad strukturalną koncepcją domen.
 ---
-
 ## Definition
 
 Logiki opisowe (DL) to decydowalne fragmenty logiki pierwszego rzędu, które stanowią teoretyczną podstawę dla ontologii, szczególnie Języka Ontologii Sieci Webowej (OWL). Pozwalają one na precyzyjne definiowanie pojęć i relacji między nimi, umożliwiając automatyczne wnioskowanie o strukturze wiedzy.

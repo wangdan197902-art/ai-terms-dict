@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /th/terms/training_free/
 date: "2026-07-18T15:34:27.516606Z"
 lastmod: "2026-07-18T16:38:07.557625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "วิธีการที่ปรับหรือเสริมสมรรถนะโมเดลโดยไม่ต้องทำการอัปเดตพารามิเตอร์ผ่านเกรเดียนต์"
 ---
-
 ## Definition
 
 แนวทางแบบไม่ต้องฝึกหมายถึงเทคนิคที่ปรับเปลี่ยนพฤติกรรมหรือผลลัพธ์ของโมเดลโดยไม่มีการอัปเดตน้ำหนักพื้นฐานผ่านการแพร่ย้อนกลับ (Backpropagation) วิธีการเหล่านี้มักใช้ประโยชน์จากวิศวกรรมคำสั่ง (Prompt engineering) หรือคุณลักษณะอื่นๆ

@@ -1,23 +1,24 @@
 ---
-title: "Batchstorlek"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Batchstorlek
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /sv/terms/batch_size/
-date: "2026-07-18T15:47:25.994083Z"
-lastmod: "2026-07-18T17:15:08.979949Z"
+slug: batch_size
+date: '2026-07-18T15:47:25.994083Z'
+lastmod: '2026-07-18T17:15:08.979949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Antalet träningsprover som används i en iteration av algoritmen för stokastisk gradientnedstigning."
+source: agnes_llm
+status: published
+language: sv
+description: Antalet träningsprover som används i en iteration av algoritmen för stokastisk
+  gradientnedstigning.
 ---
-
 ## Definition
 
 Batchstorleken är en kritisk hyperparameter som avgör hur många prover som bearbetas innan modellens interna parametrar uppdateras. En större batchstorlek ger en mer exakt uppskattning av den 

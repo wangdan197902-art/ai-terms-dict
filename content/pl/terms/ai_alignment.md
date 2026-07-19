@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /pl/terms/ai_alignment/
 date: "2026-07-18T15:38:02.987240Z"
 lastmod: "2026-07-18T17:15:08.839601Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dziedzina badań skupiająca się na zapewnieniu, że systemy AI zachowują się zgodnie z ludzkimi wartościami i intencjami."
 ---
-
 ## Definition
 
 Uzgodnienie AI rozwiązuje wyzwanie polegające na tym, aby sztuczna inteligencja była niezawodnie zgodna z tym, czego użytkownicy naprawdę chcą, a nie tylko z tym, co dosłownie określili. Obejmuje techniczne metody zapewniające, że systemy te są bezpieczne i etyczne.

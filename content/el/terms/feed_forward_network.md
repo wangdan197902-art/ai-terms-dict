@@ -1,23 +1,24 @@
 ---
-title: "Δίκτυο Προώθησης προς Τα Έμπροσθεν (Feed-Forward Network)"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Δίκτυο Προώθησης προς Τα Έμπροσθεν (Feed-Forward Network)
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /el/terms/feed_forward_network/
-date: "2026-07-18T16:07:16.335785Z"
-lastmod: "2026-07-18T17:15:09.908591Z"
+slug: feed_forward_network
+date: '2026-07-18T16:07:16.335785Z'
+lastmod: '2026-07-18T17:15:09.908591Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια κατηγορία τεχνητών νευρωνικών δικτύων όπου οι συνδέσεις μεταξύ των κόμβων δεν σχηματίζουν κύκλους, διαδίδοντας την πληροφορία σε μία μόνο κατεύθυνση."
+source: agnes_llm
+status: published
+language: el
+description: Μια κατηγορία τεχνητών νευρωνικών δικτύων όπου οι συνδέσεις μεταξύ των
+  κόμβων δεν σχηματίζουν κύκλους, διαδίδοντας την πληροφορία σε μία μόνο κατεύθυνση.
 ---
-
 ## Definition
 
 Τα Δίκτυα Προώθησης προς Τα Έμπροσθεν (FFN), γνωστά επίσης ως Πολυεπίπεδοι Αντιληπτόνες (MLP), επεξεργάζονται τα δεδομένα ακολουθιακά μέσω επιπέδων νευρώνων από την είσοδο στην έξοδο, χωρίς βρόχους ανατροφοδότησης. Κάθε νευρώνας λαμβάνει εισόδους

@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /hu/terms/lynda_soderholm/
 date: "2026-07-18T16:11:21.052391Z"
 lastmod: "2026-07-18T17:15:09.805332Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Lynda Soderholm kiemelő kutató és vezető, aki az AI etika, a felelős innováció és az mesterséges intelligencia társadalmi hatásai terén elért hozzájárulásairól ismert."
 ---
-
 ## Definition
 
 Lynda Soderholm elismert alak a technológiai szektorban, különösen az AI fejlesztés és az etikai irányítás metszéspontjában végzett munkájáról ismert. Mint a vállalati felelősségvállalás vezetője,

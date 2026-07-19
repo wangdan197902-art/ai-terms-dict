@@ -1,23 +1,25 @@
 ---
-title: "Διασταυρούμενη Επαλήθευση"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Διασταυρούμενη Επαλήθευση
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /el/terms/cross_validation/
-date: "2026-07-18T15:57:32.719520Z"
-lastmod: "2026-07-18T17:15:09.893709Z"
+slug: cross_validation
+date: '2026-07-18T15:57:32.719520Z'
+lastmod: '2026-07-18T17:15:09.893709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια διαδικασία δειγματοληψίας που χρησιμοποιείται για την αξιολόγηση μοντέλων μηχανικής μάθησης σε περιορισμένο δείγμα δεδομένων, χωρίζοντας τα δεδομένα σε υποσύνολα για εκπαίδευση και δοκιμή."
+source: agnes_llm
+status: published
+language: el
+description: Μια διαδικασία δειγματοληψίας που χρησιμοποιείται για την αξιολόγηση
+  μοντέλων μηχανικής μάθησης σε περιορισμένο δείγμα δεδομένων, χωρίζοντας τα δεδομένα
+  σε υποσύνολα για εκπαίδευση και δοκιμή.
 ---
-
 ## Definition
 
 Η διασταυρούμενη επαλήθευση είναι μια στατιστική μέθοδος που χρησιμοποιείται για την εκτίμηση της απόδοσης των μοντέλων μηχανικής μάθησης. Η πιο συνηθισμένη μορφή είναι η k-fold διασταυρούμενη επαλήθευση, όπου τα δεδομένα χωρίζονται σε k ίσα μέρη.

@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /no/terms/constitutional_ai/
 date: "2026-07-18T15:47:24.766128Z"
 lastmod: "2026-07-18T16:38:06.983650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En metode for å trene AI-modeller til å følge sikkerhetsretningslinjer gjennom selv-kritikk basert på et forhåndsdefinert sett med prinsipper."
 ---
-
 ## Definition
 
 Konstitusjonell AI er en ramme for å tilpasse store språkmodeller (LLMs) til menneskelige verdier uten å stole utelukkende på menneskelig tilbakemelding for hvert steg. Det involverer å opprette en «konstitusjon» med høynivå prinsipper som modellen bruker til å vurdere og korrigere seg selv.

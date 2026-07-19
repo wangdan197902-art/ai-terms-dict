@@ -1,23 +1,25 @@
 ---
-title: "Mistral"
-term_id: "mistral"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "open-source", "LLM"]
+title: Mistral
+term_id: mistral
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Open Source
+- LLM
 difficulty: 3
 weight: 1
-slug: "mistral"
-aliases:
-  - /it/terms/mistral/
-date: "2026-07-18T16:11:23.371094Z"
-lastmod: "2026-07-18T17:15:08.649255Z"
+slug: mistral
+date: '2026-07-18T16:11:23.371094Z'
+lastmod: '2026-07-18T17:15:08.649255Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una serie di modelli linguistici di grandi dimensioni (LLM) open-weight efficienti sviluppati da Mistral AI, noti per le alte prestazioni con costi computazionali ridotti."
+source: agnes_llm
+status: published
+language: it
+description: Una serie di modelli linguistici di grandi dimensioni (LLM) open-weight
+  efficienti sviluppati da Mistral AI, noti per le alte prestazioni con costi computazionali
+  ridotti.
 ---
-
 ## Definition
 
 Mistral si riferisce a una famiglia di potenti LLM open-weight creati dalla startup francese Mistral AI. Modelli come Mistral 7B e Mistral Large utilizzano tecniche avanzate come l'attenzione a finestra scorrevole (Sliding Window Attention)

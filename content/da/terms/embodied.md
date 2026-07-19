@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /da/terms/embodied/
 date: "2026-07-18T15:24:34.081007Z"
 lastmod: "2026-07-18T17:15:09.222841Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Embodied AI refers to intelligent systems that interact with the physical world through sensors and actuators within a body."
 ---
-
 ## Definition
 
 Embodied AI posits that intelligence emerges from the interaction between an agent's physical form and its environment. Unlike disembodied AI that processes abstract data, embodied agents use sensors to perceive their surroundings and actuators to act upon them, grounding intelligence in physical experience.

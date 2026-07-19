@@ -1,23 +1,24 @@
 ---
-title: "Dados Rotulados"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Dados Rotulados
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /pt/terms/labeled_data/
-date: "2026-07-18T15:07:34.362149Z"
-lastmod: "2026-07-18T15:51:59.506271Z"
+slug: labeled_data
+date: '2026-07-18T15:07:34.362149Z'
+lastmod: '2026-07-18T15:51:59.506271Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Dados nos quais o valor de saída ou alvo correto é fornecido junto com as características de entrada."
+source: agnes_llm
+status: published
+language: pt
+description: Dados nos quais o valor de saída ou alvo correto é fornecido junto com
+  as características de entrada.
 ---
-
 ## Definition
 
 Os dados rotulados consistem em amostras de entrada pareadas com seus rótulos de verdade fundamental correspondentes, servindo como base para o aprendizado de máquina supervisionado. Eles permitem que os algoritmos aprendam o mapeamento entre as entradas e as saídas desejadas.

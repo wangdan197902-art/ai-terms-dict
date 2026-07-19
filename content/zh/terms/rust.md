@@ -1,23 +1,23 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /zh/terms/rust/
-date: "2026-07-18T11:32:41.328950Z"
-lastmod: "2026-07-18T11:44:45.551604Z"
+slug: rust
+date: '2026-07-18T11:32:41.328950Z'
+lastmod: '2026-07-18T11:44:45.551604Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Rust 是一门系统编程语言，专注于在不使用垃圾回收机制的情况下实现安全性、速度和并发能力。"
+source: agnes_llm
+status: published
+language: zh
+description: Rust 是一门系统编程语言，专注于在不使用垃圾回收机制的情况下实现安全性、速度和并发能力。
 ---
-
 ## Definition
 
 Rust 是一种多范式通用编程语言，旨在提供高性能和安全性，特别是安全的并发处理。它在不使用垃圾回收器的情况下实现内存安全，确保程序...

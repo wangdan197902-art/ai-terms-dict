@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /id/terms/weak_artificial_intelligence/
 date: "2026-07-18T16:13:15.634035Z"
 lastmod: "2026-07-18T16:38:07.518926Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "AI yang dirancang untuk melakukan tugas spesifik dalam konteks terbatas tanpa memiliki kemampuan kognitif umum."
 ---
-
 ## Definition
 
 Kecerdasan buatan lemah, juga dikenal sebagai AI sempit, merujuk pada sistem yang direkayasa untuk memecahkan masalah tertentu atau melakukan tugas spesifik, seperti pengenalan wajah atau terjemahan bahasa. Berbeda dengan kecerdasan buatan umum, sistem ini tidak memiliki kesadaran atau kemampuan penalaran universal.

@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /ro/terms/recursive_self_improvement/
 date: "2026-07-18T16:19:11.032581Z"
 lastmod: "2026-07-18T17:15:09.698009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un proces prin care un sistem de inteligență artificială își îmbunătățește iterativ propria inteligență sau capacități prin auto-modificare."
 ---
-
 ## Definition
 
 Îmbunătățirea recursivă de sine se referă la capacitatea teoretică a unui sistem de inteligență artificială de a rescrie propriul cod sursă sau arhitectură pentru a deveni mai inteligent, mai eficient sau mai capabil.

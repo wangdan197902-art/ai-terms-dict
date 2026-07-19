@@ -1,23 +1,24 @@
 ---
-title: "Självövervakat lärande"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Självövervakat lärande
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /sv/terms/self_supervised_learning/
-date: "2026-07-18T15:40:34.115358Z"
-lastmod: "2026-07-18T17:15:08.966904Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:40:34.115358Z'
+lastmod: '2026-07-18T17:15:08.966904Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En träningsmetod där modellen genererar egna etiketter från indata för att lära sig representationer."
+source: agnes_llm
+status: published
+language: sv
+description: En träningsmetod där modellen genererar egna etiketter från indata för
+  att lära sig representationer.
 ---
-
 ## Definition
 
 Självövervakat lärande är en teknik där algoritmen skapar övervakningssignaler från den omärkta datan själv, ofta genom att förutsäga saknade delar av inputen. Den överbryggar klyftan mellan u

@@ -1,23 +1,25 @@
 ---
-title: 'Křížová validace metodou "vynechání jednoho"'
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Křížová validace metodou "vynechání jednoho"
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /cs/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:05:50.902178Z"
-lastmod: "2026-07-18T17:15:09.147557Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:05:50.902178Z'
+lastmod: '2026-07-18T17:15:09.147557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Přísnná technika resamplingu, při které je model trénován na všech vzorcích kromě jednoho a testován na tomto jednom vyňatém vzorku; proces se opakuje pro každý datový bod."
+source: agnes_llm
+status: published
+language: cs
+description: Přísnná technika resamplingu, při které je model trénován na všech vzorcích
+  kromě jednoho a testován na tomto jednom vyňatém vzorku; proces se opakuje pro každý
+  datový bod.
 ---
-
 ## Definition
 
 Křížová validace metodou "vynechání jednoho" (LOOCV) je specifickým případem k-fold křížové validace, kde k odpovídá počtu vzorků v sadě dat. Poskytuje téměř nezaujatý odhad výkonu modelu.

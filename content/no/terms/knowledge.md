@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /no/terms/knowledge/
 date: "2026-07-18T15:27:13.530059Z"
 lastmod: "2026-07-18T16:38:06.939440Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kunnskap er den strukturerte forståelsen, fakta, ferdigheter og innsikter som er avledet fra informasjon, erfaring eller resonnement, og som muliggjør effektiv beslutningstaking."
 ---
-
 ## Definition
 
 Innen AI refererer kunnskap ofte til eksplicit informasjon lagret i databaser, ontologier eller neurale nettverksvekter som muliggjør resonnement og inferens. Den befinner seg over informasjon i DIKW-hierarkiet

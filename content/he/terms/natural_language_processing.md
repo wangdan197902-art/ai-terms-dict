@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /he/terms/natural_language_processing/
 date: "2026-07-18T15:28:29.457435Z"
 lastmod: "2026-07-18T17:15:09.483163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תחום בבינה מלאכותית המתמקד באפשרות למחשבים להבין, לפרש ולייצר שפה אנושית."
 ---
-
 ## Definition
 
 עיבוד שפה טבעית (NLP) הוא תת-תחום של בינה מלאכותית המשלב לינגוויסטיקה חישובית עם מודלים סטטיסטיים, למידת מכונה ולמידה עמוקה. הוא מאפשר למכונות להבין ולהפיק טקסט אנושי.

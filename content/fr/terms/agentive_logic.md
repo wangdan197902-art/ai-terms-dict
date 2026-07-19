@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /fr/terms/agentive_logic/
 date: "2026-07-18T11:04:03.296084Z"
 lastmod: "2026-07-18T11:44:45.195566Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La logique agentive fait référence aux cadres de raisonnement formel utilisés pour modéliser les intentions, les objectifs et les processus de prise de décision des agents autonomes."
 ---
-
 ## Definition
 
 Elle étend la logique traditionnelle pour tenir compte de l'agence, permettant aux systèmes de représenter les croyances, les désirs et les intentions (modèles BDI). Cette logique permet aux agents de planifier des actions dynamiquement en fonction des changements de l'environnement.

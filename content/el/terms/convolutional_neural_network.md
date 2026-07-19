@@ -1,23 +1,25 @@
 ---
-title: "Κωνολικό Νευρωνικό Δίκτυο"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Κωνολικό Νευρωνικό Δίκτυο
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /el/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:55.010891Z"
-lastmod: "2026-07-18T17:15:09.838720Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:55.010891Z'
+lastmod: '2026-07-18T17:15:09.838720Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια εξειδικευμένη κατηγορία βαθιών νευρωνικών δικτύων που χρησιμοποιείται κυρίως για την επεξεργασία δεδομένων πλέγματος, όπως εικόνες, εφαρμόζοντας κωνολικά φίλτρα."
+source: agnes_llm
+status: published
+language: el
+description: Μια εξειδικευμένη κατηγορία βαθιών νευρωνικών δικτύων που χρησιμοποιείται
+  κυρίως για την επεξεργασία δεδομένων πλέγματος, όπως εικόνες, εφαρμόζοντας κωνολικά
+  φίλτρα.
 ---
-
 ## Definition
 
 Τα Κωνολικά Νευρωνικά Δίκτυα (CNNs) είναι σχεδιασμένα για να μαθαίνουν αυτόματα και προσαρμοστικά ιεραρχικά χαρακτηριστικά από οπτικές εισόδους. Χρησιμοποιούν κωνολικά στρώματα που εφαρμόζουν φίλτρα για τον εντοπισμό τοπικών μοτίβων, όπως άκρες, υφές και σχήματα, στα δεδομένα εισόδου.

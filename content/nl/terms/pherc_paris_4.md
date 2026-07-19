@@ -1,23 +1,25 @@
 ---
-title: "PHerc. Paris. 4"
-term_id: "pherc_paris_4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "digital_humanities", "archaeology"]
+title: PHerc. Paris. 4
+term_id: pherc_paris_4
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Digital Humanities
+- archaeology
 difficulty: 5
 weight: 1
-slug: "pherc_paris_4"
-aliases:
-  - /nl/terms/pherc_paris_4/
-date: "2026-07-18T16:11:30.299769Z"
-lastmod: "2026-07-18T17:15:08.774872Z"
+slug: pherc_paris_4
+date: '2026-07-18T16:11:30.299769Z'
+lastmod: '2026-07-18T17:15:08.774872Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "PHerc. Paris. 4 verwijst naar een specifiek fragment van een papyrusrol uit Herculaneum dat bewaard wordt in de bibliotheek van Parijs, vaak geciteerd in projecten voor digitale geesteswetenschappen e"
+source: agnes_llm
+status: published
+language: nl
+description: PHerc. Paris. 4 verwijst naar een specifiek fragment van een papyrusrol
+  uit Herculaneum dat bewaard wordt in de bibliotheek van Parijs, vaak geciteerd in
+  projecten voor digitale geesteswetenschappen e
 ---
-
 ## Definition
 
 PHerc. Paris. 4 is een aanduiding voor een fragment van een verkoolde papyrusrol, ontdekt in de Villa van de Papyri in Herculaneum, momenteel ondergebracht in de Bibliothèque nationale de France. Deze rollen

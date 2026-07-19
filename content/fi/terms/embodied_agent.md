@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /fi/terms/embodied_agent/
 date: "2026-07-18T15:56:15.415498Z"
 lastmod: "2026-07-18T17:15:09.407699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kehollistunut agentti on tekoälyjärjestelmä, joka vuorovaikuttaa ympäristönsä kanssa fyysisen kehon tai sensorimoottorisen laitteen kautta."
 ---
-
 ## Definition
 
 Toisin kuin irralliset tekoälyjärjestelmät, jotka käsittelevät abstraktia dataa, kehollistuneet agentit oppivat ja toimivat fyysisessä kontekstissa nojaten aistinvaraisiin syötteisiin ja moottorisiin lähtöviesteihin. Tämä paradigma on keskeinen robotiikassa ja autonomisissa järjestelmissä.

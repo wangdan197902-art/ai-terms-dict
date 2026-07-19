@@ -1,23 +1,24 @@
 ---
-title: "Organoid Intelligence"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Organoid Intelligence
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /nl/terms/organoid_intelligence/
-date: "2026-07-18T16:11:13.429975Z"
-lastmod: "2026-07-18T17:15:08.774212Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:11:13.429975Z'
+lastmod: '2026-07-18T17:15:08.774212Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een hybride computerparadigma dat levende hersencellen integreert met elektronische interfaces voor informatieprocessing."
+source: agnes_llm
+status: published
+language: nl
+description: Een hybride computerparadigma dat levende hersencellen integreert met
+  elektronische interfaces voor informatieprocessing.
 ---
-
 ## Definition
 
 Organoid Intelligence (OI) verwijst naar de ontwikkeling van bio-hybride systemen waarbij menselijke hersenorganoiden worden gekweekt op micro-elektrode-arrays. Deze levende neurale netwerken voeren computationele taken uit...

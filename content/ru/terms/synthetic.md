@@ -1,23 +1,23 @@
 ---
-title: "Синтетический"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Синтетический
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /ru/terms/synthetic/
-date: "2026-07-18T15:29:44.456751Z"
-lastmod: "2026-07-18T16:38:07.091292Z"
+slug: synthetic
+date: '2026-07-18T15:29:44.456751Z'
+lastmod: '2026-07-18T16:38:07.091292Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Синтетический относится к данным или контенту, искусственно сгенерированным алгоритмами, а не собранным из природных источников."
+source: agnes_llm
+status: published
+language: ru
+description: Синтетический относится к данным или контенту, искусственно сгенерированным
+  алгоритмами, а не собранным из природных источников.
 ---
-
 ## Definition
 
 В ИИ синтетические данные — это искусственно сгенерированная информация, имитирующая реальные данные, но не содержащая фактических персональных или конфиденциальных записей. Они критически важны для обучения моделей машинного обучения, когда реальные...

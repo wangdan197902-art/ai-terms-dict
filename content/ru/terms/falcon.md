@@ -1,23 +1,25 @@
 ---
-title: "Falcon"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: Falcon
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /ru/terms/falcon/
-date: "2026-07-18T15:53:10.347097Z"
-lastmod: "2026-07-18T16:38:07.156297Z"
+slug: falcon
+date: '2026-07-18T15:53:10.347097Z'
+lastmod: '2026-07-18T16:38:07.156297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Семейство больших языковых моделей (LLM), разработанных Институтом технологических инноваций (TII), известных высокой производительностью и эффективностью по сравнению с другими моделями с открытым ис"
+source: agnes_llm
+status: published
+language: ru
+description: Семейство больших языковых моделей (LLM), разработанных Институтом технологических
+  инноваций (TII), известных высокой производительностью и эффективностью по сравнению
+  с другими моделями с открытым ис
 ---
-
 ## Definition
 
 Falcon — это серия мощных больших языковых моделей (LLM), созданных Институтом технологических инноваций. Эти модели, такие как Falcon-40B и Falcon-180B, предназначены для конкуренции с проприетарными аналогами.

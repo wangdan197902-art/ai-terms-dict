@@ -1,23 +1,23 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /zh/terms/exbert/
-date: "2026-07-18T11:16:37.593427Z"
-lastmod: "2026-07-18T11:44:45.496700Z"
+slug: exbert
+date: '2026-07-18T11:16:37.593427Z'
+lastmod: '2026-07-18T11:44:45.496700Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种通过识别对特定输出贡献最大的注意力头和层来解释BERT预测的方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种通过识别对特定输出贡献最大的注意力头和层来解释BERT预测的方法。
 ---
-
 ## Definition
 
 ExBERT通过分析不同层中单个注意力头的重要性，为BERT Transformer模型提供可解释性。它使用基于梯度的归因或其他技术来量化每个组件对最终预测的贡献，从而帮助理解模型的决策过程。

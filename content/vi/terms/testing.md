@@ -1,23 +1,24 @@
 ---
-title: "Kiểm thử"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Kiểm thử
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /vi/terms/testing/
-date: "2026-07-18T15:37:23.306539Z"
-lastmod: "2026-07-18T16:38:07.714948Z"
+slug: testing
+date: '2026-07-18T15:37:23.306539Z'
+lastmod: '2026-07-18T16:38:07.714948Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình hệ thống để đánh giá hiệu suất và độ tin cậy của mô hình AI trên dữ liệu chưa từng thấy nhằm đảm bảo chất lượng và an toàn."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình hệ thống để đánh giá hiệu suất và độ tin cậy của mô hình AI
+  trên dữ liệu chưa từng thấy nhằm đảm bảo chất lượng và an toàn.
 ---
-
 ## Definition
 
 Kiểm thử trong kỹ thuật AI liên quan đến việc đánh giá nghiêm ngặt các mô hình trên nhiều bộ dữ liệu đa dạng để xác định các vấn đề về thiên kiến, lỗi và độ bền. Nó bao gồm kiểm thử đơn vị cho các thành phần mã, kiểm thử tích hợp và kiểm thử hệ thống.

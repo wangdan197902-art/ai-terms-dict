@@ -1,23 +1,24 @@
 ---
-title: "Deepfake (Giả mạo sâu)"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: Deepfake (Giả mạo sâu)
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /vi/terms/deepfake/
-date: "2026-07-18T15:34:18.102904Z"
-lastmod: "2026-07-18T16:38:07.707891Z"
+slug: deepfake
+date: '2026-07-18T15:34:18.102904Z'
+lastmod: '2026-07-18T16:38:07.707891Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Phương tiện tổng hợp trong đó chân dung của một người được thay thế bằng người khác bằng cách sử dụng các kỹ thuật trí tuệ nhân tạo và học sâu."
+source: agnes_llm
+status: published
+language: vi
+description: Phương tiện tổng hợp trong đó chân dung của một người được thay thế bằng
+  người khác bằng cách sử dụng các kỹ thuật trí tuệ nhân tạo và học sâu.
 ---
-
 ## Definition
 
 Deepfake là các thao tác âm thanh hoặc video siêu thực tế được tạo ra bằng cách sử dụng mạng đối kháng sinh (GANs) hoặc bộ tự mã hóa. Chúng gây ra những lo ngại đáng kể về đạo đức liên quan đến thông tin sai lệch, quyền riêng tư và sự tin cậy của nội dung truyền thông.

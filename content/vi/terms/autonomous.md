@@ -1,23 +1,24 @@
 ---
-title: "Tự chủ"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Tự chủ
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /vi/terms/autonomous/
-date: "2026-07-18T15:23:31.140924Z"
-lastmod: "2026-07-18T16:38:07.680284Z"
+slug: autonomous
+date: '2026-07-18T15:23:31.140924Z'
+lastmod: '2026-07-18T16:38:07.680284Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Mô tả các hệ thống có khả năng đưa ra quyết định và hành động độc lập trong môi trường động."
+source: agnes_llm
+status: published
+language: vi
+description: Mô tả các hệ thống có khả năng đưa ra quyết định và hành động độc lập
+  trong môi trường động.
 ---
-
 ## Definition
 
 Tính tự chủ trong AI đề cập đến khả năng của một hệ thống để nhận biết môi trường, đưa ra quyết định và thực thi hành động mà không cần sự kiểm soát trực tiếp của con người. Khác với tự động hóa đơn thuần, các hệ thống tự chủ thích nghi với những thay đổi

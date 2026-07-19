@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /sv/terms/cognitive_computing/
 date: "2026-07-18T15:49:08.531792Z"
 lastmod: "2026-07-18T17:15:08.984783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Kognitiv beräkning syftar på system som simulerar mänskliga tänkeprocesser i en datoriserad modell, med hjälp av AI för att efterlikna mänskliga hjärnfunktioner."
 ---
-
 ## Definition
 
 Kognitiv beräkning är en gren av artificiell intelligens som strävar efter att interagera naturligt med människor samtidigt som den simulerar mänskliga hjärnprocesser. Dessa system använder maskininlärning, djupinlärning, 

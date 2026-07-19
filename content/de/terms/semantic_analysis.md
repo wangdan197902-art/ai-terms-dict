@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /de/terms/semantic_analysis/
 date: "2026-07-18T11:32:49.644526Z"
 lastmod: "2026-07-18T11:44:44.984180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die semantische Analyse ist der Prozess der Extrahierung von Bedeutung aus Text durch das Verständnis der Beziehungen zwischen Wörtern und dem Kontext im Bereich der natürlichen Sprachverarbeitung."
 ---
-
 ## Definition
 
 Sie geht über die syntaktische Struktur hinaus, um die eigentliche Absicht und Bedeutung von Spracheingaben zu interpretieren. Dies beinhaltet die Auflösung von Wortbedeutungen basierend auf dem Kontext, die Identifizierung von Entitäten und das Verständnis der zugrunde liegenden Intention hinter den Worten.

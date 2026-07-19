@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /cs/terms/tokenization/
 date: "2026-07-18T15:30:36.573122Z"
 lastmod: "2026-07-18T17:15:09.080315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Tokenizace je proces rozdělování surového textu na menší jednotky nazývané tokeny, které mohou být zpracovány algoritmy strojového učení."
 ---
-
 ## Definition
 
 Tokenizace je kritický krok předzpracování v zpracování přirozeného jazyka (NLP), který převádí nestrukturovaný text na strukturovaná data vhodná pro ingestaci modelem. Zahrnuje rozkládání vět

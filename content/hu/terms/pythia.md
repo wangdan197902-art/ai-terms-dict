@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /hu/terms/pythia/
-date: "2026-07-18T16:19:53.164947Z"
-lastmod: "2026-07-18T17:15:09.826198Z"
+slug: pythia
+date: '2026-07-18T16:19:53.164947Z'
+lastmod: '2026-07-18T17:15:09.826198Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Pythia az EleutherAI által fejlesztett, csak dekódoló nagy nyelvi modellek (LLM) csomagja, amelyek 70 milliótól 12 milliárd paraméterig terjednek."
+source: agnes_llm
+status: published
+language: hu
+description: A Pythia az EleutherAI által fejlesztett, csak dekódoló nagy nyelvi modellek
+  (LLM) csomagja, amelyek 70 milliótól 12 milliárd paraméterig terjednek.
 ---
-
 ## Definition
 
 A Pythia az EleutherAI által létrehozott nyílt forráskódú nagy nyelvi modellek (LLM) sorozata, amelyet a neurális hálózatok értelmezhetőségének és viselkedésének kutatása támogat. A csomag tartalmazza a

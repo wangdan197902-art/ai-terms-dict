@@ -1,23 +1,24 @@
 ---
-title: "Optimointi"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Optimointi
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /fi/terms/optimization/
-date: "2026-07-18T15:37:40.505801Z"
-lastmod: "2026-07-18T17:15:09.373006Z"
+slug: optimization
+date: '2026-07-18T15:37:40.505801Z'
+lastmod: '2026-07-18T17:15:09.373006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Matemaattinen prosessi, jossa minimoidaan tai maksimoidaan tavoitefunktiota löytääksemme parhaat ratkaisun parametrit."
+source: agnes_llm
+status: published
+language: fi
+description: Matemaattinen prosessi, jossa minimoidaan tai maksimoidaan tavoitefunktiota
+  löytääksemme parhaat ratkaisun parametrit.
 ---
-
 ## Definition
 
 Koneoppimisessa optimointi viittaa algoritmeihin, joilla säädetään mallin parametreja minimoidakseen häviöfunktion (loss function) ja parantaakseen näin mallin suorituskykyä. Yleisiä menetelmiä ovat gradienttipudotus ja sen variaatiot.

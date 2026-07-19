@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /cs/terms/llama31/
 date: "2026-07-18T16:06:21.520701Z"
 lastmod: "2026-07-18T17:15:09.149097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Llama 3.1 je aktualizace od společnosti Meta z srpna 2024, která zahrnuje modely s 8B, 70B a 405B parametry, rozšířené kontextové okno o délce 128k a nativní podporu pro používání nástrojů."
 ---
-
 ## Definition
 
 Vydaná v srpnu 2024 rozšiřuje rodinu Llama o obrovský model s 405 miliardami parametrů vedle menších variant 8B a 70B. Výraznou funkcí je rozšířené kontextové okno o délce 128 tisíc tokenů.

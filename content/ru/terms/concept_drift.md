@@ -1,23 +1,24 @@
 ---
-title: "Концептуальный дрейф"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Концептуальный дрейф
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /ru/terms/concept_drift/
-date: "2026-07-18T15:45:57.802187Z"
-lastmod: "2026-07-18T16:38:07.133308Z"
+slug: concept_drift
+date: '2026-07-18T15:45:57.802187Z'
+lastmod: '2026-07-18T16:38:07.133308Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Концептуальный дрейф возникает, когда статистические свойства целевой переменной меняются со временем, что снижает производительность модели."
+source: agnes_llm
+status: published
+language: ru
+description: Концептуальный дрейф возникает, когда статистические свойства целевой
+  переменной меняются со временем, что снижает производительность модели.
 ---
-
 ## Definition
 
 Концептуальный дрейф — это явление в машинном обучении, при котором взаимосвязь между входными признаками и целевым выходом изменяется по мере поступления новых данных. Это часто происходит в динамических средах, где поведение пользователей или условия окружающей среды меняются.

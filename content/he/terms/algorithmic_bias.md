@@ -1,23 +1,23 @@
 ---
-title: "הטיה אלגוריתמית"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: הטיה אלגוריתמית
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /he/terms/algorithmic_bias/
-date: "2026-07-18T15:41:31.892727Z"
-lastmod: "2026-07-18T17:15:09.511227Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:41:31.892727Z'
+lastmod: '2026-07-18T17:15:09.511227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "הטיה אלגוריתמית מתייחסת לשגיאות שיטתיות וחוזרות במערכת מחשב היוצרות תוצאות לא הוגנות, כגון העדפת קבוצה אחת על פני אחרות."
+source: agnes_llm
+status: published
+language: he
+description: הטיה אלגוריתמית מתייחסת לשגיאות שיטתיות וחוזרות במערכת מחשב היוצרות תוצאות
+  לא הוגנות, כגון העדפת קבוצה אחת על פני אחרות.
 ---
-
 ## Definition
 
 הטיה באלגוריתמים נובעת בדרך כלל מנתוני אימון שאינם מייצגים, בחירות עיצוב סובייקטיביות, או לולאות משוב שמגבירות דעות קדומות חברתיות קיימות. היא באה לידי ביטוי בתחזיות מעוותות או החלטות לא הוגנות.

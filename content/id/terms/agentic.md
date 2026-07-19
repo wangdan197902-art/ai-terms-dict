@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /id/terms/agentic/
 date: "2026-07-18T15:33:35.113520Z"
 lastmod: "2026-07-18T16:38:07.411420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada sistem AI yang mampu melakukan perencanaan, penalaran, dan eksekusi tindakan secara otonom untuk mencapai tujuan tertentu."
 ---
-
 ## Definition
 
 Istilah 'agentic' menggambarkan agen AI yang beroperasi dengan tingkat otonomi yang tinggi. Berbeda dengan model pasif yang hanya memprediksi teks atau mengklasifikasikan data, sistem agentic dapat memecah tujuan kompleks menjadi...

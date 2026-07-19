@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /cs/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:51:14.412190Z"
 lastmod: "2026-07-18T17:15:09.117427Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Datová sada obsahující alternativní lexikální tvary používaná k trénování modelů na sémantickou ekvivalenci a detekci parafrází."
 ---
-
 ## Definition
 
 Datová sada Altlex se skládá z dvojic vět, které sdílejí stejný základní význam, ale využívají odlišnou slovní zásobu nebo syntaktické struktury. Primárně slouží k trénování vkládacích modelů.

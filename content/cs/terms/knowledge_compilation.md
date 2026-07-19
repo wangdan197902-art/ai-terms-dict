@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /cs/terms/knowledge_compilation/
 date: "2026-07-18T16:04:20.914968Z"
 lastmod: "2026-07-18T17:15:09.145007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Knowledge Compilation je proces transformace reprezentací znalostí do efektivnějších forem pro rychlejší odpovídání na dotazy nebo logické úsudky."
 ---
-
 ## Definition
 
 Knowledge Compilation označuje techniky v umělé inteligenci, které převádějí znalostní bázi nebo logickou teorii do jiné reprezentace, která usnadňuje rychlejší operace, jako je vyhodnocení uspokojitelnosti (satisfiability).

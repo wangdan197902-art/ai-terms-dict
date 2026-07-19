@@ -1,23 +1,24 @@
 ---
-title: "Image To Video"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Image To Video
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /en/terms/image_to_video/
-date: "2026-07-18T10:02:07.645915Z"
-lastmod: "2026-07-18T11:44:44.684404Z"
+slug: image_to_video
+date: '2026-07-18T10:02:07.645915Z'
+lastmod: '2026-07-18T11:44:44.684404Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A generative process where a static image is animated to create a short video clip, adding temporal dynamics and motion."
+source: agnes_llm
+status: published
+language: en
+description: A generative process where a static image is animated to create a short
+  video clip, adding temporal dynamics and motion.
 ---
-
 ## Definition
 
 Image To Video technology takes a single static frame and predicts subsequent frames to generate a coherent video sequence. This involves modeling temporal consistency and physical dynamics to ensure smooth motion. It allows users to animate still photographs, bringing characters or landscapes to life. The technology leverages advanced diffusion models trained on large video datasets to infer plausible movements, lighting changes, and camera motions from the initial image context.

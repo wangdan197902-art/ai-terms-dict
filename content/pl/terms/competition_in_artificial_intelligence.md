@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /pl/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:46:11.591340Z"
 lastmod: "2026-07-18T17:15:08.855434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Rywalizacja między narodami, korporacjami i instytucjami badawczymi o przywództwo w rozwoju, innowacjach i wdrażaniu sztucznej inteligencji."
 ---
-
 ## Definition
 
 Konkurencja w sztucznej inteligencji opisuje intensywny globalny wyścig o poszerzanie możliwości AI, napędzany korzyściami ekonomicznymi, militarnymi i naukowymi. Do głównych graczy należą giganci technolni, tacy jak Google

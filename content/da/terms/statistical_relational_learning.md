@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /da/terms/statistical_relational_learning/
 date: "2026-07-18T16:20:25.062735Z"
 lastmod: "2026-07-18T17:15:09.334303Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et område inden for maskinlæring, der integrerer sandsynlig ræsonnering med førstes ordens logik til at håndtere komplekse relationelle strukturer i data."
 ---
-
 ## Definition
 
 Statistisk relationel læring (SRL) kombinerer sandsynlighedsteori med relationelle datastrukturer, hvilket gør det muligt for modeller at fange afhængigheder mellem enheder og deres relationer. I modsætning til standard stati

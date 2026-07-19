@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /zh/terms/high_fidelity/
 date: "2026-07-18T10:56:36.042499Z"
 lastmod: "2026-07-18T11:44:45.391252Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指生成的内容在细节、质量和逼真度上与现实世界数据高度相似。"
 ---
-
 ## Definition
 
 高保真描述生成模型的输出与真实数据难以区分或非常相似。在图像生成中，意味着逼真的纹理和光照；在音频中，指清晰自然的语音或音乐。高保真度是衡量生成式AI质量的关键指标，广泛应用于需要极高真实感的场景。

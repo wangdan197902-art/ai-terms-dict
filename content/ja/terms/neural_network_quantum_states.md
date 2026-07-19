@@ -1,23 +1,23 @@
 ---
-title: "ニューラルネットワーク量子状態"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: ニューラルネットワーク量子状態
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /ja/terms/neural_network_quantum_states/
-date: "2026-07-18T11:25:33.313968Z"
-lastmod: "2026-07-18T11:44:45.126514Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T11:25:33.313968Z'
+lastmod: '2026-07-18T11:44:45.126514Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "人工ニューラルネットワークアーキテクチャを用いた量子多体波動関数の表現。"
+source: agnes_llm
+status: published
+language: ja
+description: 人工ニューラルネットワークアーキテクチャを用いた量子多体波動関数の表現。
 ---
-
 ## Definition
 
 ニューラルネットワーク量子状態は、複雑な量子波動関数を近似するためにディープラーニング技術を利用します。ニューラルネットワークの重みを、量子ビットの確率振幅を最適化するパラメータとして扱うことで実現されます。

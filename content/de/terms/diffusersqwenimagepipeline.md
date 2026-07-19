@@ -1,23 +1,25 @@
 ---
-title: "Diffusers:Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: Diffusers:Qwenimagepipeline
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /de/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T11:12:07.751920Z"
-lastmod: "2026-07-18T11:44:44.932905Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T11:12:07.751920Z'
+lastmod: '2026-07-18T11:44:44.932905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Pipeline, die Qwen-VL-Modelle innerhalb von Diffusers zur direkten Generierung von Bildern aus Textbeschreibungen oder multimodalen Eingaben nutzt."
+source: agnes_llm
+status: published
+language: de
+description: Eine Pipeline, die Qwen-VL-Modelle innerhalb von Diffusers zur direkten
+  Generierung von Bildern aus Textbeschreibungen oder multimodalen Eingaben nutzt.
 ---
-
 ## Definition
 
 Diese Pipeline passt die generativen Fähigkeiten von Qwen-VL-Modellen für die Bildsynthese an. Sie ermöglicht es Nutzern, qualitativ hochwertige Bilder zu erzeugen, indem sie Text-Prompts bereitstellen oder Text mit Referenzbildern kombinieren...

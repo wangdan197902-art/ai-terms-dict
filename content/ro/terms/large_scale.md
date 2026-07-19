@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /ro/terms/large_scale/
 date: "2026-07-18T15:32:53.555656Z"
 lastmod: "2026-07-18T17:15:09.608995Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Descrie sisteme de inteligență artificială sau seturi de date care operează cu volume masive de date, parametri sau resurse computaționale."
 ---
-
 ## Definition
 
 Termenul „la scară largă” se referă la magnitudinea componentelor dintr-un sistem de inteligență artificială, implicând adesea miliarde de parametri, teraocteți de date de antrenament sau clusteruri de calcul distribuit. Această abordare este fundamentală pentru dezvoltarea modelelor fundamentale moderne.

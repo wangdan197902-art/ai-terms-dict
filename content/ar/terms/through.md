@@ -1,23 +1,22 @@
 ---
-title: "عبر / خلال"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: عبر / خلال
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /ar/terms/through/
-date: "2026-07-18T15:31:21.630865Z"
-lastmod: "2026-07-18T17:15:08.450369Z"
+slug: through
+date: '2026-07-18T15:31:21.630865Z'
+lastmod: '2026-07-18T17:15:08.450369Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كلمة 'Through' هي حرف جر وليست مصطلحاً تقنياً محدداً في مجال الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: كلمة 'Through' هي حرف جر وليست مصطلحاً تقنياً محدداً في مجال الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 ليس للمصطلح 'Through' تعريف مستقل في مصطلحات الذكاء الاصطناعي. تُستخدم عادةً في عبارات مثل 'الإنتاجية' (Throughput) للإشارة إلى معدل المعالجة، أو عند وصف طبقات الشبكة العصبية حيث تمر الإشارات عبر العقد. بدون سياق...

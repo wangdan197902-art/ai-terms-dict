@@ -1,23 +1,24 @@
 ---
-title: "Prefix-Tuning"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Prefix-Tuning
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /de/terms/prefix_tuning/
-date: "2026-07-18T11:28:02.085041Z"
-lastmod: "2026-07-18T11:44:44.976374Z"
+slug: prefix_tuning
+date: '2026-07-18T11:28:02.085041Z'
+lastmod: '2026-07-18T11:44:44.976374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine parametereffiziente Feinabstimmungsmethode, die trainierbare kontinuierliche Vektoren zum Eingang von Transformer-Schichten hinzufügt."
+source: agnes_llm
+status: published
+language: de
+description: Eine parametereffiziente Feinabstimmungsmethode, die trainierbare kontinuierliche
+  Vektoren zum Eingang von Transformer-Schichten hinzufügt.
 ---
-
 ## Definition
 
 Prefix-Tuning ist eine parametereffiziente Adaptierungstechnik für vortrainierte Transformer-Modelle. Anstatt alle Modellgewichte zu aktualisieren, wird eine Sequenz von trainierbaren kontinuierlichen Vektoren (das Prefix) vor den eigentlichen Eingabe-Token angehängt. Dies ermöglicht es, das Modell an neue Aufgaben anzupassen, ohne die ursprünglichen Gewichte zu verändern.

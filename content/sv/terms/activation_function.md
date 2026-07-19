@@ -1,23 +1,25 @@
 ---
-title: "Aktiveringsfunktion"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Aktiveringsfunktion
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /sv/terms/activation_function/
-date: "2026-07-18T15:37:15.300488Z"
-lastmod: "2026-07-18T17:15:08.960196Z"
+slug: activation_function
+date: '2026-07-18T15:37:15.300488Z'
+lastmod: '2026-07-18T17:15:08.960196Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En matematisk ekvation som bestämmer utgången från en nod i ett neuralt nätverk baserat på dess insignal."
+source: agnes_llm
+status: published
+language: sv
+description: En matematisk ekvation som bestämmer utgången från en nod i ett neuralt
+  nätverk baserat på dess insignal.
 ---
-
 ## Definition
 
 En aktiveringsfunktion introducerar icke-linearitet i ett neuralt nätverk, vilket möjliggör för det att lära sig komplexa mönster och relationer i data. Utan dessa funktioner skulle ett flernivåigt nätverk bete sig...

@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /el/terms/mistral_common/
 date: "2026-07-18T16:21:30.075471Z"
 lastmod: "2026-07-18T17:15:09.932242Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Μια κοινή βιβλιοθήκη που παρέχει συναρτήσεις tokenization και βοηθητικών εργαλείων συμβατές με διάφορες παραλλαγές μοντέλων της Mistral AI."
 ---
-
 ## Definition
 
 Το Mistral Common είναι ένα πακέτο Python που συντηρείται από την Mistral AI και προσφέρει τυποποιημένα εργαλεία για την αλληλεπίδραση με τα μοντέλα τους. Παρέχει κυρίως την υλοποίηση του tokenizera απαραίτητη για τη μετατροπή των

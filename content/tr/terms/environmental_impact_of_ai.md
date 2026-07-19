@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /tr/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:52:27.124984Z"
 lastmod: "2026-07-18T16:38:07.305160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka modellerinin geliştirilmesi, eğitilmesi ve dağıtılmasıyla ilgili ekolojik sonuçlar; enerji tüketimi ve karbon emisyonlarını içerir."
 ---
-
 ## Definition
 
 Bu terim, özellikle büyük modellerin eğitim aşamasında yapay zeka teknolojileriyle ilişkili önemli kaynak gereksinimlerini ifade eder. Veri merkezleri için kullanılan elektrik tüketimini, su kullanımını ve genel karbon ayak izini kapsar.

@@ -1,23 +1,23 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /ja/terms/pyannote_audio/
-date: "2026-07-18T11:29:13.010432Z"
-lastmod: "2026-07-18T11:44:45.135194Z"
+slug: pyannote_audio
+date: '2026-07-18T11:29:13.010432Z'
+lastmod: '2026-07-18T11:44:45.135194Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Pyannote Audioは、事前訓練済みニューラルネットワークモデルを備え、話者 diarization パイプラインの構築のためのモジュラーツールキットです。"
+source: agnes_llm
+status: published
+language: ja
+description: Pyannote Audioは、事前訓練済みニューラルネットワークモデルを備え、話者 diarization パイプラインの構築のためのモジュラーツールキットです。
 ---
-
 ## Definition
 
 Pyannote Audioは、話者 diarization システムの開発と展開を容易にするために設計された包括的なツールキットです。音声分析タスクのために、事前訓練済みのニューラルネットワークモデルのコレクションを提供しており、柔軟なパイプライン構築を可能にします。

@@ -1,23 +1,24 @@
 ---
-title: "Mô hình thay thế"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Mô hình thay thế
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /vi/terms/surrogate_model/
-date: "2026-07-18T16:13:26.365935Z"
-lastmod: "2026-07-18T16:38:07.809005Z"
+slug: surrogate_model
+date: '2026-07-18T16:13:26.365935Z'
+lastmod: '2026-07-18T16:38:07.809005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình toán học đơn giản hóa được sử dụng để xấp xỉ hành vi của một mô hình phức tạp hơn, tốn kém tính toán hoặc không thể truy cập trực tiếp."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình toán học đơn giản hóa được sử dụng để xấp xỉ hành vi của
+  một mô hình phức tạp hơn, tốn kém tính toán hoặc không thể truy cập trực tiếp.
 ---
-
 ## Definition
 
 Trong học máy và tối ưu hóa, mô hình thay thế đóng vai trò là đại diện cho một hàm mục tiêu khó đánh giá trực tiếp. Nó được huấn luyện trên các cặp đầu vào-đầu ra từ mô hình gốc để xấp xỉ hành vi của nó.

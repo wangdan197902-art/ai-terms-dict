@@ -1,23 +1,24 @@
 ---
-title: "Procesamiento por lotes"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Procesamiento por lotes
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /es/terms/batch_processing/
-date: "2026-07-18T10:38:06.922635Z"
-lastmod: "2026-07-18T11:44:44.781487Z"
+slug: batch_processing
+date: '2026-07-18T10:38:06.922635Z'
+lastmod: '2026-07-18T11:44:44.781487Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un método computacional en el que los datos se recopilan durante un periodo de tiempo y se procesan en grupos en lugar de individualmente."
+source: agnes_llm
+status: published
+language: es
+description: Un método computacional en el que los datos se recopilan durante un periodo
+  de tiempo y se procesan en grupos en lugar de individualmente.
 ---
-
 ## Definition
 
 El procesamiento por lotes implica agregar las entradas de datos en un grupo, o lote, antes de ejecutar un cálculo o una inferencia de modelo. Este enfoque contrasta con el procesamiento en streaming en tiempo real al permitir una

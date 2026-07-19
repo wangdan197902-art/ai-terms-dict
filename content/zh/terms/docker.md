@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /zh/terms/docker/
 date: "2026-07-18T10:59:51.920710Z"
 lastmod: "2026-07-18T11:44:45.398963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Docker 是一个用于在轻量级、可移植的容器中开发、分发和运行应用程序的平台。"
 ---
-
 ## Definition
 
 Docker 使开发人员能够将应用程序及其所有依赖项打包成一个标准化的软件开发单元。这些容器将软件与其运行环境隔离开来，确保了一致性。

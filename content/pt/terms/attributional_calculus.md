@@ -1,23 +1,24 @@
 ---
-title: "Cálculo Atribucional"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Cálculo Atribucional
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /pt/terms/attributional_calculus/
-date: "2026-07-18T14:50:36.290524Z"
-lastmod: "2026-07-18T15:51:59.465300Z"
+slug: attributional_calculus
+date: '2026-07-18T14:50:36.290524Z'
+lastmod: '2026-07-18T15:51:59.465300Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um sistema lógico formal usado para representar e raciocinar sobre a atribuição de conhecimento, especificamente sobre quem sabe ou acredita em quê."
+source: agnes_llm
+status: published
+language: pt
+description: Um sistema lógico formal usado para representar e raciocinar sobre a
+  atribuição de conhecimento, especificamente sobre quem sabe ou acredita em quê.
 ---
-
 ## Definition
 
 O cálculo atribucional é um ramo da lógica modal focado no raciocínio sobre estados epistêmicos. Ele fornece uma estrutura para modelar declarações como 'o Agente A sabe que P' ou 'o Agente B acredita em Q'. Este

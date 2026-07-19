@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /fi/terms/moe/
 date: "2026-07-18T16:11:30.339907Z"
 lastmod: "2026-07-18T17:15:09.435870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Arkkitehtuurimalli, jossa useita erikoistuneita neuroverkkoihin perustuvia asiantuntijoita yhdistetään porttomekanismin kautta syötteiden käsittelyä varten."
 ---
-
 ## Definition
 
 Asiantuntijasekoitus (MoE) on koneoppimisarkkitehtuuri, jonka tavoitteena on parantaa tehokkuutta ja skaalautuvuutta. Sen sijaan, että käytettäisiin yhtä suurta mallia kaikkiin tehtäviin, MoE käyttää useita pienempiä 'asiantuntija'-malleja.

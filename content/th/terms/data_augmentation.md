@@ -1,23 +1,24 @@
 ---
-title: "Data Augmentation"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Data Augmentation
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /th/terms/data_augmentation/
-date: "2026-07-18T15:47:33.087132Z"
-lastmod: "2026-07-18T16:38:07.591475Z"
+slug: data_augmentation
+date: '2026-07-18T15:47:33.087132Z'
+lastmod: '2026-07-18T16:38:07.591475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Data Augmentation คือเทคนิคที่ใช้เพิ่มความหลากหลายและขนาดของชุดข้อมูลฝึกสอน โดยการแปลงรูปข้อมูลที่มีอยู่เดิม"
+source: agnes_llm
+status: published
+language: th
+description: Data Augmentation คือเทคนิคที่ใช้เพิ่มความหลากหลายและขนาดของชุดข้อมูลฝึกสอน
+  โดยการแปลงรูปข้อมูลที่มีอยู่เดิม
 ---
-
 ## Definition
 
 วิธีการนี้ขยายชุดข้อมูลฝึกสอนโดยสร้างเวอร์ชันดัดแปลงของตัวอย่างเดิม เช่น การหมุนรูปภาพ การเพิ่มสัญญาณรบกวนลงในเสียง หรือการแทนที่คำด้วยคำที่มีความหมายเดียวกันในข้อความ ช่วยป้องกันปัญหา Overfitting และช่วยให้โมเดลสามารถทำงานได้ดีกับข้อมูลใหม่

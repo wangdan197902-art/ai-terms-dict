@@ -1,23 +1,24 @@
 ---
-title: "Toplu Normalizasyon"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Toplu Normalizasyon
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /tr/terms/batch_normalization/
-date: "2026-07-18T15:43:09.718847Z"
-lastmod: "2026-07-18T16:38:07.277711Z"
+slug: batch_normalization
+date: '2026-07-18T15:43:09.718847Z'
+lastmod: '2026-07-18T16:38:07.277711Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Toplu normalizasyon, sinir ağı eğitimini stabilize etmek ve hızlandırmak için katman girdilerini mini-batch boyunca normalize eden bir tekniktir."
+source: agnes_llm
+status: published
+language: tr
+description: Toplu normalizasyon, sinir ağı eğitimini stabilize etmek ve hızlandırmak
+  için katman girdilerini mini-batch boyunca normalize eden bir tekniktir.
 ---
-
 ## Definition
 
 Bu yöntem, eğitim sırasında her mini-batch içindeki aktivasyonları ortalaması sıfır ve varyansı bir olacak şekilde ayarlar ve ölçeklendirir. İçsel kovaryans kaymasını azaltarak daha yüksek öğrenme oranlarına olanak tanır ve daha hızlı yakınsama sağlar.

@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /sv/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:49:22.442386Z"
 lastmod: "2026-07-18T17:15:08.985604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Rivaliteten mellan nationer, företag och forskningsinstitutioner att uppnå ledarskap inom AI-utveckling, innovation och implementering."
 ---
-
 ## Definition
 
 Konkurrens inom AI beskriver det intensiva globala kapplöpningen att utveckla AI-kapacitet, drivet av ekonomiska, militära och vetenskapliga fördelar. Stora aktörer inkluderar techjättar som Google, Microsoft och OpenAI samt nationella stater.

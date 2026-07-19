@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /fi/terms/ai_nationalism/
 date: "2026-07-18T15:40:10.421994Z"
 lastmod: "2026-07-18T17:15:09.378639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Valtioiden välinen strateginen kilpailu tekoälyn kehityksen johtavasta asemasta, jota ajaa geopoliittinen ja taloudellinen etu."
 ---
-
 ## Definition
 
 Tekoälynationalismi kuvaa trendiä, jossa hallitukset käsittelevät tekoälyä kansallisen turvallisuuden ja taloudellisen itsemääräämisoikeuden kysymyksenä. Maat sijoittavat runsaasti kotimaiseen tekoälytutkimukseen, rajoittavat teknologian vientiä ja pyrkivät varmistamaan oman teknologisen riippumattomuutensa globaalissa kilpailussa.

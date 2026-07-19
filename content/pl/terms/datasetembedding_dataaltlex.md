@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /pl/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:49:03.873325Z"
 lastmod: "2026-07-18T17:15:08.861407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zbiór danych zawierający alternatywne formy leksykalne używane do trenowania modeli w zakresie równoważności semantycznej i wykrywania parafraz."
 ---
-
 ## Definition
 
 Zbiór danych Altlex składa się z par zdań, które dzielą to samo podstawowe znaczenie, ale wykorzystują inny słownictwo lub struktury składniowe. Jest on głównie wykorzystywany w treningu modeli osadzających (embedding models).

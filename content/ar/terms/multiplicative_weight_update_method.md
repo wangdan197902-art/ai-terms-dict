@@ -1,23 +1,24 @@
 ---
-title: "طريقة تحديث الأوزان الضربية"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: طريقة تحديث الأوزان الضربية
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /ar/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:13:55.849434Z"
-lastmod: "2026-07-18T17:15:08.531021Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:13:55.849434Z'
+lastmod: '2026-07-18T17:15:08.531021Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خوارزمية تكرارية تحدث الأوزان بشكل ضربي بناءً على ملاحظات الأداء لتقليل الندم."
+source: agnes_llm
+status: published
+language: ar
+description: خوارزمية تكرارية تحدث الأوزان بشكل ضربي بناءً على ملاحظات الأداء لتقليل
+  الندم.
 ---
-
 ## Definition
 
 تُعد طريقة تحديث الأوزان الضربية خوارزمية أساسية للتعلم عبر الإنترنت تُستخدم لاتخاذ القرارات في البيئات غير المؤكدة. تحافظ على مجموعة من الأوزان للاستراتيجيات أو الخبراء المختلفين،...

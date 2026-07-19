@@ -1,23 +1,24 @@
 ---
-title: "Inkrementell heuristisk søk"
-term_id: "incremental_heuristic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "heuristics"]
+title: Inkrementell heuristisk søk
+term_id: incremental_heuristic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- heuristics
 difficulty: 4
 weight: 1
-slug: "incremental_heuristic_search"
-aliases:
-  - /no/terms/incremental_heuristic_search/
-date: "2026-07-18T16:00:13.452023Z"
-lastmod: "2026-07-18T16:38:07.012332Z"
+slug: incremental_heuristic_search
+date: '2026-07-18T16:00:13.452023Z'
+lastmod: '2026-07-18T16:38:07.012332Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En søkestrategi som inkrementelt forbedrer en løsningsestimering ved hjelp av heuristisk veiledning i stedet for å utforske hele tilstandsrommet."
+source: agnes_llm
+status: published
+language: 'no'
+description: En søkestrategi som inkrementelt forbedrer en løsningsestimering ved
+  hjelp av heuristisk veiledning i stedet for å utforske hele tilstandsrommet.
 ---
-
 ## Definition
 
 Inkrementell heuristisk søk refererer til algoritmer som forbedrer et kandidat-løsning steg for steg, veiledet av heuristikker som estimerer kostnaden for å nå målet. I motsetning til uttømmende søk, fokuserer disse metodene på lokal optimering.

@@ -1,23 +1,24 @@
 ---
-title: "Prompt (Indicación)"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Prompt (Indicación)
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /es/terms/prompt/
-date: "2026-07-18T10:25:42.358320Z"
-lastmod: "2026-07-18T11:44:44.748744Z"
+slug: prompt
+date: '2026-07-18T10:25:42.358320Z'
+lastmod: '2026-07-18T11:44:44.748744Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un texto de entrada o instrucción proporcionado a un modelo de IA generativa para elicitar una respuesta o comportamiento específico."
+source: agnes_llm
+status: published
+language: es
+description: Un texto de entrada o instrucción proporcionado a un modelo de IA generativa
+  para elicitar una respuesta o comportamiento específico.
 ---
-
 ## Definition
 
 Un prompt sirve como la interfaz principal para interactuar con modelos de lenguaje grandes y otros sistemas de IA generativa. Define el contexto, el tono y las restricciones para la salida del modelo. Un prompt efectivo

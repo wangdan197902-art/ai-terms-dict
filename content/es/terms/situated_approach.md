@@ -1,23 +1,25 @@
 ---
-title: "Enfoque situado"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Enfoque situado
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /es/terms/situated_approach/
-date: "2026-07-18T11:08:01.583674Z"
-lastmod: "2026-07-18T11:44:44.854410Z"
+slug: situated_approach
+date: '2026-07-18T11:08:01.583674Z'
+lastmod: '2026-07-18T11:44:44.854410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un paradigma de diseño en IA que prioriza el comportamiento dependiente del contexto y la interacción ambiental sobre el razonamiento abstracto."
+source: agnes_llm
+status: published
+language: es
+description: Un paradigma de diseño en IA que prioriza el comportamiento dependiente
+  del contexto y la interacción ambiental sobre el razonamiento abstracto.
 ---
-
 ## Definition
 
 El enfoque situado es un marco metodológico en la investigación de IA que sostiene que el comportamiento inteligente no puede separarse del entorno en el que ocurre. Defiende la construcción de sistemas que reaccionen directamente a las condiciones ambientales en lugar de depender únicamente de modelos internos complejos.

@@ -1,23 +1,23 @@
 ---
-title: "Phi系数"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi系数
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /zh/terms/phi_coefficient/
-date: "2026-07-18T11:30:05.607465Z"
-lastmod: "2026-07-18T11:44:45.542716Z"
+slug: phi_coefficient
+date: '2026-07-18T11:30:05.607465Z'
+lastmod: '2026-07-18T11:44:45.542716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "衡量两个二元变量之间关联程度的统计指标。"
+source: agnes_llm
+status: published
+language: zh
+description: 衡量两个二元变量之间关联程度的统计指标。
 ---
-
 ## Definition
 
 Phi系数（φ）是用于衡量两个二元变量之间关联程度的指标，可视为二值变量的皮尔逊相关系数。其取值范围为-1到+1，其中0表示无关联。

@@ -1,23 +1,24 @@
 ---
-title: "Visszakeresés"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Visszakeresés
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /hu/terms/retrieval/
-date: "2026-07-18T15:39:41.441149Z"
-lastmod: "2026-07-18T17:15:09.744848Z"
+slug: retrieval
+date: '2026-07-18T15:39:41.441149Z'
+lastmod: '2026-07-18T17:15:09.744848Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A releváns adatok lekérése egy adatbázisból vagy tudásbázisból a modell bemeneteinek gazdagítására."
+source: agnes_llm
+status: published
+language: hu
+description: A releváns adatok lekérése egy adatbázisból vagy tudásbázisból a modell
+  bemeneteinek gazdagítására.
 ---
-
 ## Definition
 
 A visszakeresés a technikai folyamat, amely során specifikus információkat keresünk és vonunk ki nagy adathalmazokból vagy külső tudásbázisokból a felhasználói lekérdezések vagy kontextus alapján. A modern AI rendszerekben ez...

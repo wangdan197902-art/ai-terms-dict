@@ -1,23 +1,24 @@
 ---
-title: "Google Clips"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: Google Clips
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /fi/terms/google_clips/
-date: "2026-07-18T15:59:38.947806Z"
-lastmod: "2026-07-18T17:15:09.415768Z"
+slug: google_clips
+date: '2026-07-18T15:59:38.947806Z'
+lastmod: '2026-07-18T17:15:09.415768Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Google Clips oli taskukokoinen tekoälyllä varustettu kamera, joka otti automaattisesti valokuvia koneoppimisen avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Google Clips oli taskukokoinen tekoälyllä varustettu kamera, joka otti
+  automaattisesti valokuvia koneoppimisen avulla.
 ---
-
 ## Definition
 
 Google Clips oli Googlen kehittämä kulutuselektroniikkalaite, joka hyödynsi laitteen sisäistä koneoppimista tunnistamaan kiinnostavia kohtauksia ja subjekteja, kuten kasvoja tai lemmikkieläimiä, ja ottamaan automaattisesti valokuvia niistä.

@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /vi/terms/meta/
 date: "2026-07-18T16:02:50.908170Z"
 lastmod: "2026-07-18T16:38:07.781726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong AI, 'meta' thường đề cập đến việc học về quá trình học hoặc các quy trình bậc cao chi phối việc thích ứng và tối ưu hóa mô hình."
 ---
-
 ## Definition
 
 Tiền tố 'meta' trong trí tuệ nhân tạo chỉ một mức độ trừu tượng cao hơn, thường liên quan đến việc tự tham chiếu hoặc giám sát các quy trình cốt lõi. Ví dụ điển hình bao gồm 'học siêu cấp' (meta-learning), nơi các thuật toán học cách học nhanh hơn từ ít dữ liệu hơn, hoặc 'tối ưu hóa siêu cấp', nơi các siêu tham số được điều chỉnh tự động để cải thiện hiệu suất huấn luyện.

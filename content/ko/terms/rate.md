@@ -1,23 +1,23 @@
 ---
-title: "레이트 (속도/비율)"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: 레이트 (속도/비율)
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /ko/terms/rate/
-date: "2026-07-18T15:28:10.934025Z"
-lastmod: "2026-07-18T16:38:06.781897Z"
+slug: rate
+date: '2026-07-18T15:28:10.934025Z'
+lastmod: '2026-07-18T16:38:06.781897Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "빈도나 속도의 측정을 의미하며, 일반적으로 최적화 과정의 학습률이나 토큰 생성 속도를 지칭합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 빈도나 속도의 측정을 의미하며, 일반적으로 최적화 과정의 학습률이나 토큰 생성 속도를 지칭합니다.
 ---
-
 ## Definition
 
 AI에서 '레이트'는 가장 흔히 학습률(Learning Rate)을 의미합니다. 이는 모델 가중치가 업데이트될 때마다 추정된 오차에 반응하여 모델을 얼마나 많이 변경할지를 제어하는 하이퍼파라미터입니다. 적절한 학습률은 모델이 손실 함수의 최소점에 효율적으로 수렴하도록 돕습니다.

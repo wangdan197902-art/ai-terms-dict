@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /fi/terms/safe/
 date: "2026-07-18T15:30:43.071368Z"
 lastmod: "2026-07-18T17:15:09.358718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa tekoäljärjestelmiin, jotka on suunniteltu toimimaan aiheuttamatta haittaa ihmisille, omaisuudelle tai ympäristölle."
 ---
-
 ## Definition
 
 Tekoälyn turvallisuus sisältää rajoitteiden ja turvamekanismien käyttöönoton varmistamaan, että automatisoidut järjestelmät käyttäytyvät ennustettavasti eivätkä aiheuta tahattomia haitallisia seurauksia. Tämä sisältää teknisiä toimenpiteitä kuten virhetilanteiden hallintaa.

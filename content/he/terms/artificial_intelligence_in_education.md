@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /he/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:42:48.314783Z"
 lastmod: "2026-07-18T17:15:09.513461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "יישום טכנולוגיות בינה מלאכותית לשיפור מתודולוגיות הוראה, התאמה אישית של חוויות למידה אוטומציה של משימות מנהלתיות."
 ---
-
 ## Definition
 
 בינה מלאכותית בחינוך כוללת שימוש בלמידת מכונה, עיבוד שפה טבעית ומערכות אדפטיביות כדי לשפר תוצאות חינוכיות. היא מאפשרת מסלולי למידה מותאמים אישית המותאמים לצרכים ולקצב הלמידה של כל תלמיד, תוך מתן משוב מיידי ומענה לשאלות, ובכך משחררת מורים ממשימות שגרתיות להתמקד בהנחיה עמוקה יותר.

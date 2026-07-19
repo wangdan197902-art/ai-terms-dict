@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /el/terms/mauve/
-date: "2026-07-18T16:19:31.386743Z"
-lastmod: "2026-07-18T17:15:09.928671Z"
+slug: mauve
+date: '2026-07-18T16:19:31.386743Z'
+lastmod: '2026-07-18T17:15:09.928671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το MAUVE (Μέτρηση Ευθυγράμμισης Χρήση Ψευδωνύμων Ενσωματώσεων) είναι ένας δείκτης που χρησιμοποιείται στην επεξεργασία φυσικής γλώσσας για την αξιολόγηση της ευθυγράμμισης μεταξύ των κατανομών του παρ"
+source: agnes_llm
+status: published
+language: el
+description: Το MAUVE (Μέτρηση Ευθυγράμμισης Χρήση Ψευδωνύμων Ενσωματώσεων) είναι
+  ένας δείκτης που χρησιμοποιείται στην επεξεργασία φυσικής γλώσσας για την αξιολόγηση
+  της ευθυγράμμισης μεταξύ των κατανομών του παρ
 ---
-
 ## Definition
 
 Το MAUVE είναι ένα στατιστικό μέτρο σχεδιασμένο να αξιολογεί πόσο στενά προσομοιάζει η έξοδος ενός γεννητικού γλωσσικού μοντέλου τη χρήση ανθρώπινης γλώσσας. Σε αντίθεση με τους απλούς βαθμούς δυσκολίας (perplexity), το MAUVE χρησιμοποιεί ψευδώνυμες ενσωματώσεις για

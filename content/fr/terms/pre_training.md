@@ -1,23 +1,25 @@
 ---
-title: "Pré-entraînement"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Pré-entraînement
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /fr/terms/pre_training/
-date: "2026-07-18T10:52:45.296957Z"
-lastmod: "2026-07-18T11:44:45.169358Z"
+slug: pre_training
+date: '2026-07-18T10:52:45.296957Z'
+lastmod: '2026-07-18T11:44:45.169358Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La phase initiale d'entraînement d'un modèle d'apprentissage automatique sur un grand jeu de données non étiqueté pour apprendre des représentations générales avant le réglage fin sur des tâches spéci"
+source: agnes_llm
+status: published
+language: fr
+description: La phase initiale d'entraînement d'un modèle d'apprentissage automatique
+  sur un grand jeu de données non étiqueté pour apprendre des représentations générales
+  avant le réglage fin sur des tâches spéci
 ---
-
 ## Definition
 
 Le pré-entraînement est une technique fondamentale en apprentissage profond où un modèle apprend des caractéristiques et des motifs larges à partir de masses de données, souvent sans étiquettes. Ce processus permet au modèle de développer...

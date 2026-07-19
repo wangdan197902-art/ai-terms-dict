@@ -1,23 +1,23 @@
 ---
-title: "ランダム特徴量"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: ランダム特徴量
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /ja/terms/random_feature/
-date: "2026-07-18T11:30:04.385911Z"
-lastmod: "2026-07-18T11:44:45.137633Z"
+slug: random_feature
+date: '2026-07-18T11:30:04.385911Z'
+lastmod: '2026-07-18T11:44:45.137633Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "入力をランダム射影により高次元空間へマッピングし、カーネル法を効率的に近似する手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 入力をランダム射影により高次元空間へマッピングし、カーネル法を効率的に近似する手法。
 ---
-
 ## Definition
 
 ランダム特徴量マップは、線形モデルが非線形カーネル関数を近似できるようにするために、入力を新しい空間に変換します。このアプローチは通常、ニストロム法やフーリエ特徴に関連しており、計算コストを抑えながらカーネルトリックの効果を実現します。

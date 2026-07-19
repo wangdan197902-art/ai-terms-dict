@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /he/terms/constitutional_ai/
 date: "2026-07-18T15:49:46.501307Z"
 lastmod: "2026-07-18T17:15:09.522860Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שיטה לאימון מודלי בינה מלאכותית כדי לעקוב אחר הנחיות בטיחות באמצעות ביקורת עצמית המבוססת על עקרונות מוגדרים מראש."
 ---
-
 ## Definition
 
 בינה מלאכותית חוקתית היא מסגרת לסנכרון מודלי שפה גדולים עם ערכי אנוש ללא הסתמכות בלעדית על משוב אנושי בכל שלב. היא כוללת יצירת 'חוקה' של עקרונות ברמה הגבוהה המנחים את התנהגות המודל.

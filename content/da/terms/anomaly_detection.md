@@ -1,23 +1,24 @@
 ---
-title: "Anomalidetektion"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Anomalidetektion
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /da/terms/anomaly_detection/
-date: "2026-07-18T15:40:52.003174Z"
-lastmod: "2026-07-18T17:15:09.258781Z"
+slug: anomaly_detection
+date: '2026-07-18T15:40:52.003174Z'
+lastmod: '2026-07-18T17:15:09.258781Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at identificere sjældne elementer, begivenheder eller observationer, der afviger markant fra resten af dataene."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at identificere sjældne elementer, begivenheder eller observationer,
+  der afviger markant fra resten af dataene.
 ---
-
 ## Definition
 
 Anomalidetektion, også kendt som outlier-detektion, involverer analyse af data for at finde mønstre, der ikke overholder forventet adfærd. Det bruges bredt inden for cybersikkerhed, svigdetektion og systemovervågning.

@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /fi/terms/out_of_distribution/
 date: "2026-07-18T15:34:25.822112Z"
 lastmod: "2026-07-18T17:15:09.366141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Datapisteet, jotka poikkeavat merkittävästi mallin koulutusvaiheessa nähtyjen jakaumien ulkopuolelta."
 ---
-
 ## Definition
 
 Hajautuman ulkopuolisten (OOD) havaintojen tunnistus löytää syötteitä, jotka ovat koulutusdatan jakauman ulkopuolella. Mallit usein toimivat huonosti tai luottavaisesti väärin OOD-datassa, mikä johtaa epäluotettaviin tuloksiin.

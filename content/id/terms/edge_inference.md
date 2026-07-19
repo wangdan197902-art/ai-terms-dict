@@ -1,23 +1,24 @@
 ---
-title: "Inferensi tepi"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Inferensi tepi
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /id/terms/edge_inference/
-date: "2026-07-18T15:49:08.238563Z"
-lastmod: "2026-07-18T16:38:07.453621Z"
+slug: edge_inference
+date: '2026-07-18T15:49:08.238563Z'
+lastmod: '2026-07-18T16:38:07.453621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Inferensi tepi adalah proses menjalankan model pembelajaran mesin secara lokal pada perangkat pengguna akhir, bukan di server cloud terpusat."
+source: agnes_llm
+status: published
+language: id
+description: Inferensi tepi adalah proses menjalankan model pembelajaran mesin secara
+  lokal pada perangkat pengguna akhir, bukan di server cloud terpusat.
 ---
-
 ## Definition
 
 Praktik ini melibatkan penyebaran model AI yang telah dilatih langsung ke perangkat keras seperti smartphone, sensor IoT, atau sistem tertanam. Dengan memproses data secara lokal, inferensi tepi secara signifikan mengurangi latensi

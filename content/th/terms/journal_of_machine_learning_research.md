@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /th/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:01:09.548707Z"
 lastmod: "2026-07-18T16:38:07.620737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "วารสารวิชาการระดับแนวหน้าที่มีการทบทวนโดยผู้เชี่ยวชาญ (peer-reviewed) ซึ่งอุทิศตนเพื่อตีพิมพ์งานวิจัยคุณภาพสูงในทุกด้านของการเรียนรู้ของเครื่อง"
 ---
-
 ## Definition
 
 วารสารการเรียนรู้ของเครื่อง (JMLR) เป็นสิ่งพิมพ์แบบเปิดที่โดดเด่นและเป็นเวทีหลักในการเผยแพร่ผลการค้นพบทางวิทยาศาสตร์อย่างเข้มงวดในสาขาการเรียนรู้ของเครื่อง โดยครอบคลุมเนื้อหาทั้งด้านทฤษฎีและการประยุกต์ใช้

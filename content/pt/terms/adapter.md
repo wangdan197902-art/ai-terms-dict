@@ -1,23 +1,25 @@
 ---
-title: "Adaptador"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Adaptador
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /pt/terms/adapter/
-date: "2026-07-18T14:43:27.836915Z"
-lastmod: "2026-07-18T15:51:59.447259Z"
+slug: adapter
+date: '2026-07-18T14:43:27.836915Z'
+lastmod: '2026-07-18T15:51:59.447259Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um módulo leve inserido em modelos pré-treinados para permitir o ajuste fino eficiente para tarefas específicas de downstream."
+source: agnes_llm
+status: published
+language: pt
+description: Um módulo leve inserido em modelos pré-treinados para permitir o ajuste
+  fino eficiente para tarefas específicas de downstream.
 ---
-
 ## Definition
 
 Os adaptadores são uma técnica de ajuste fino eficiente em parâmetros, usada principalmente em grandes modelos de linguagem e transformadores. Em vez de atualizar todos os pesos do modelo, o que é computacionalmente caro, os adaptadores...

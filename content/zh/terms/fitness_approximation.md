@@ -1,23 +1,23 @@
 ---
-title: "适应度近似"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: 适应度近似
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /zh/terms/fitness_approximation/
-date: "2026-07-18T11:17:25.495538Z"
-lastmod: "2026-07-18T11:44:45.500330Z"
+slug: fitness_approximation
+date: '2026-07-18T11:17:25.495538Z'
+lastmod: '2026-07-18T11:44:45.500330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "进化算法中的一种技术，通过估计解的质量来降低优化过程中的计算成本。"
+source: agnes_llm
+status: published
+language: zh
+description: 进化算法中的一种技术，通过估计解的质量来降低优化过程中的计算成本。
 ---
-
 ## Definition
 
 当评估真实适应度函数在计算上昂贵或耗时较长时，适应度近似被用于进化计算中。与其计算精确值，不如使用代理模型来估算适应度，从而加速搜索过程并减少资源消耗。

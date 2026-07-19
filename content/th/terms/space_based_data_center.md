@@ -1,23 +1,23 @@
 ---
-title: "ศูนย์ข้อมูลในอวกาศ"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: ศูนย์ข้อมูลในอวกาศ
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /th/terms/space_based_data_center/
-date: "2026-07-18T16:15:40.196085Z"
-lastmod: "2026-07-18T16:38:07.655979Z"
+slug: space_based_data_center
+date: '2026-07-18T16:15:40.196085Z'
+lastmod: '2026-07-18T16:38:07.655979Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สิ่งอำนวยความสะดวกด้านการคำนวณที่ตั้งอยู่ในวงโคจร ซึ่งใช้สภาวะในอวกาศเช่นพลังงานแสงอาทิตย์และการระบายความร้อนแบบสุญญากาศเพื่อการประมวลผลข้อมูลที่มีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: สิ่งอำนวยความสะดวกด้านการคำนวณที่ตั้งอยู่ในวงโคจร ซึ่งใช้สภาวะในอวกาศเช่นพลังงานแสงอาทิตย์และการระบายความร้อนแบบสุญญากาศเพื่อการประมวลผลข้อมูลที่มีประสิทธิภาพ
 ---
-
 ## Definition
 
 ศูนย์ข้อมูลในอวกาศคือสิ่งอำนวยความสะดวกด้านการคำนวณที่เสนอให้ตั้งอยู่ในวงโคจรของโลก ออกแบบมาเพื่อใช้ข้อได้เปรียบด้านสิ่งแวดล้อมเฉพาะตัว เช่น พลังงานแสงอาทิตย์ที่อุดมสมบูรณ์และสุญญากาศตามธรรมชาติของอวกาศสำหรับการระบายความร้อน

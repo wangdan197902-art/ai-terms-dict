@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /es/terms/knowledge_graph_embedding/
 date: "2026-07-18T10:55:47.600488Z"
 lastmod: "2026-07-18T11:44:44.823062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una técnica que mapea entidades y relaciones en un grafo de conocimiento a espacios vectoriales continuos preservando la semántica estructural."
 ---
-
 ## Definition
 
 Los métodos de incrustación de grafos de conocimiento, como TransE o DistMult, transforman estructuras gráficas discretas en vectores densos de baja dimensión. Esto permite que los modelos de aprendizaje automático realicen operaciones matemáticas sobre estas representaciones para inferir relaciones y completar datos faltantes.

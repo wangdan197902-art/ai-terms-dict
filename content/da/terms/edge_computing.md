@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /da/terms/edge_computing/
 date: "2026-07-18T15:54:06.324615Z"
 lastmod: "2026-07-18T17:15:09.283795Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Edge computing er en distribueret beregningsparadigme, der flytter beregning og datalagring tættere på datakilderne frem for at stole udelukkende på centralkoblede cloud-servere."
 ---
-
 ## Definition
 
 Edge Computing adresserer forsinkelses- og båndbreddebegrænsninger ved cloud-centriske arkitekturer ved at behandle data nær det sted, hvor de genereres, såsom IoT-enheder, sensorer eller lokale gateways. Inden for AI muliggør dette lav-latens beslutstagning direkte på enheden.

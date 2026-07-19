@@ -1,23 +1,25 @@
 ---
-title: "Diffusers:Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: Diffusers:Qwenimagepipeline
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /id/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T15:48:12.131965Z"
-lastmod: "2026-07-18T16:38:07.451003Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T15:48:12.131965Z'
+lastmod: '2026-07-18T16:38:07.451003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah pipa yang menggunakan model Qwen-VL dalam Diffusers untuk menghasilkan gambar langsung dari deskripsi teks atau input multimoda."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah pipa yang menggunakan model Qwen-VL dalam Diffusers untuk menghasilkan
+  gambar langsung dari deskripsi teks atau input multimoda.
 ---
-
 ## Definition
 
 Pipa ini mengadaptasi kemampuan generatif model Qwen-VL untuk sintesis gambar. Ini memungkinkan pengguna menghasilkan gambar berkualitas tinggi dengan memberikan prompt teks atau menggabungkan teks dengan gambar referensi...

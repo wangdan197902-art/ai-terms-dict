@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /de/terms/is_this_what_we_want/
 date: "2026-07-18T11:20:02.473818Z"
 lastmod: "2026-07-18T11:44:44.953556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein kritischer ethnischer Rahmen zur Bewertung von KI-Systemen anhand gesellschaftlicher Werte, Fairness und potenziell schädlicher Folgen."
 ---
-
 ## Definition
 
 Dieser Ausdruck stellt eine zentrale Frage in der KI-Ethik und -Governance dar und fordert Stakeholder auf, zu bewerten, ob eingesetzte KI-Technologien mit menschlichen Werten und dem öffentlichen Interesse übereinstimmen. Er beinhaltet die Prüfung

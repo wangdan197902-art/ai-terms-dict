@@ -1,23 +1,24 @@
 ---
-title: "الأنظمة القائمة على المعرفة"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: الأنظمة القائمة على المعرفة
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /ar/terms/knowledge_based_systems/
-date: "2026-07-18T16:04:51.209420Z"
-lastmod: "2026-07-18T17:15:08.520032Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:04:51.209420Z'
+lastmod: '2026-07-18T17:15:08.520032Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "أنظمة ذكاء اصطناعي تستخدم قواعد معرفة صريحة ومحركات استنتاج لحل المشكلات المعقدة التي تتطلب خبرة بشرية."
+source: agnes_llm
+status: published
+language: ar
+description: أنظمة ذكاء اصطناعي تستخدم قواعد معرفة صريحة ومحركات استنتاج لحل المشكلات
+  المعقدة التي تتطلب خبرة بشرية.
 ---
-
 ## Definition
 
 الأنظمة القائمة على المعرفة (KBS) هي فرع من فروع الذكاء الاصطناعي يدمج معرفة مجال معين في نظام حاسوبي لأداء المهام التي تتطلب عادةً خبرة بشرية. تعتمد هذه الأنظمة على تخزين المعرفة واستنتاجها لاتخاذ القرارات.

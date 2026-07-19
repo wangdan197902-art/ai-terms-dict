@@ -1,23 +1,24 @@
 ---
-title: "Příznak"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Příznak
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /cs/terms/feature/
-date: "2026-07-18T15:57:01.410660Z"
-lastmod: "2026-07-18T17:15:09.129200Z"
+slug: feature
+date: '2026-07-18T15:57:01.410660Z'
+lastmod: '2026-07-18T17:15:09.129200Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Jednotlivá měřitelná vlastnost nebo charakteristika sledovaného jevu, která slouží jako vstupní data pro modely strojového učení."
+source: agnes_llm
+status: published
+language: cs
+description: Jednotlivá měřitelná vlastnost nebo charakteristika sledovaného jevu,
+  která slouží jako vstupní data pro modely strojového učení.
 ---
-
 ## Definition
 
 Ve strojovém učení je příznakem odlišná proměnná nebo atribut, který popisuje instanci v sadě dat. Příznaky mohou být číselné, kategorické nebo textové a slouží jako základní vstupní informace pro algoritmy.

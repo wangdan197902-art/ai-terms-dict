@@ -1,23 +1,22 @@
 ---
-title: "การตัดแต่งต้นไม้ตัดสินใจ (Decision Tree Pruning)"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: การตัดแต่งต้นไม้ตัดสินใจ (Decision Tree Pruning)
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /th/terms/decision_tree_pruning/
-date: "2026-07-18T15:49:29.263980Z"
-lastmod: "2026-07-18T16:38:07.596858Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:49:29.263980Z'
+lastmod: '2026-07-18T16:38:07.596858Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคในการลดขนาดของต้นไม้ตัดสินใจโดยการลบส่วนที่ให้พลังน้อยในการจำแนกประเภทตัวอย่าง"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคในการลดขนาดของต้นไม้ตัดสินใจโดยการลบส่วนที่ให้พลังน้อยในการจำแนกประเภทตัวอย่าง
 ---
-
 ## Definition
 
 การตัดแต่งเป็นวิธีการที่ใช้ป้องกันปัญหาการฟิตเกิน (overfitting) ในโมเดลต้นไม้ตัดสินใจ โดยการลบกิ่งก้านที่มีอำนาจการทำนายต่ำ สามารถทำได้สองแบบคือ การตัดแต่งก่อน (pre-pruning) โดยหยุดการเติบโตของต้นไม้อีกก่อนเวลา หรือการตัดแต่งหลัง (post-pruning) โดยตัดกิ่งออกหลังจากสร้างต้นไม้เสร็จสมบูรณ์

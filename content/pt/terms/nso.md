@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /pt/terms/nso/
 date: "2026-07-18T15:14:58.364166Z"
 lastmod: "2026-07-18T15:51:59.518380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Em contextos de IA, NSO geralmente se refere à Otimização Simbólica Neural ou a entidades organizacionais específicas, como o Grupo NSO, envolvido em tecnologia de vigilância."
 ---
-
 ## Definition
 
 A sigla NSO pode ter múltiplos significados dependendo do contexto. Na pesquisa técnica de IA, pode referir-se à Otimização Simbólica Neural, combinando redes neurais com lógica simbólica. No entanto, é amplamente conhecida por...

@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /ro/terms/real_time/
 date: "2026-07-18T15:33:54.428616Z"
 lastmod: "2026-07-18T17:15:09.610826Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesarea în timp real se referă la sistemele care calculează și livrează rezultate în limite de timp stricte și garantate, imediat după primirea datelor de intrare."
 ---
-
 ## Definition
 
 În inteligența artificială, termenul „în timp real” denotă capacitatea unui sistem de a procesa intrări și de a genera ieșiri cu latență minimă, adesea în milisecunde. Aceasta este esențială pentru aplicații unde întârzierea nu este acceptabilă, necesitând inferență rapidă și optimizată pentru a asigura funcționarea corectă și sigură a sistemului.

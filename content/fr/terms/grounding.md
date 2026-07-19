@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /fr/terms/grounding/
 date: "2026-07-18T11:19:47.575533Z"
 lastmod: "2026-07-18T11:44:45.267069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus consistant à connecter les sorties abstraites de l'IA à des faits réels, des sources de données ou des contextes physiques pour garantir exactitude et pertinence."
 ---
-
 ## Definition
 
 Dans le domaine de l'IA, l'ancrage fait référence au lien établi entre des représentations symboliques ou du texte généré et des entités concrètes du monde réel, des données ou des expériences sensorielles. Pour les modèles de langage, cela implique souvent l'utilisation de techniques telles que la Génération Augmentée par Récupération (RAG) pour ancrer les réponses dans des faits vérifiables plutôt que dans des probabilités statistiques pures.

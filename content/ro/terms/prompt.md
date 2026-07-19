@@ -1,23 +1,24 @@
 ---
-title: "Prompt"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Prompt
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /ro/terms/prompt/
-date: "2026-07-18T15:28:40.680294Z"
-lastmod: "2026-07-18T17:15:09.601462Z"
+slug: prompt
+date: '2026-07-18T15:28:40.680294Z'
+lastmod: '2026-07-18T17:15:09.601462Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un text de intrare sau o instrucțiune furnizată unui model de IA generativă pentru a obține un răspuns sau un comportament specific."
+source: agnes_llm
+status: published
+language: ro
+description: Un text de intrare sau o instrucțiune furnizată unui model de IA generativă
+  pentru a obține un răspuns sau un comportament specific.
 ---
-
 ## Definition
 
 Un prompt servește ca interfață principală pentru interacțiunea cu modelele lingvistice mari și alte sisteme de IA generativă. Acesta definește contextul, tonul și constrângerile pentru ieșirea modelului. Un prompt eficient

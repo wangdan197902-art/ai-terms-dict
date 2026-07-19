@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /sv/terms/knowledge_level/
 date: "2026-07-18T16:05:43.932385Z"
 lastmod: "2026-07-18T17:15:09.018455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En abstrakt designperspektiv som fokuserar på vad en agent vet snarare än hur den bearbetar information internt."
 ---
-
 ## Definition
 
 Begreppet myntades av Allen Newell och analyserar intelligenta system baserat på deras övertygelser och mål, oberoende av deras fysiska implementering. Det skiljer på rationaliteten i en agents handlingar och de underliggande mekanismerna.

@@ -1,23 +1,25 @@
 ---
-title: "Zitierweise"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: Zitierweise
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /de/terms/citation/
-date: "2026-07-18T11:07:28.137940Z"
-lastmod: "2026-07-18T11:44:44.917548Z"
+slug: citation
+date: '2026-07-18T11:07:28.137940Z'
+lastmod: '2026-07-18T11:44:44.917548Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Zitieren in der KI bezieht sich auf die Praxis, Quellenmaterial oder Daten, die in generiertem Text oder Modellen verwendet werden, zur Gewährleistung von Transparenz und Einhaltung des geistigen Eige"
+source: agnes_llm
+status: published
+language: de
+description: Zitieren in der KI bezieht sich auf die Praxis, Quellenmaterial oder
+  Daten, die in generiertem Text oder Modellen verwendet werden, zur Gewährleistung
+  von Transparenz und Einhaltung des geistigen Eige
 ---
-
 ## Definition
 
 Da generative KI-Modelle Inhalte erzeugen, ist die Notwendigkeit von Zitiermechanismen entstanden, um akademische Integrität und rechtliche Konformität aufrechtzuerhalten. Dies beinhaltet das Einbetten von Verweisen auf Originalquellen innerhalb

@@ -1,23 +1,24 @@
 ---
-title: "Data-driven model"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Data-driven model
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /nl/terms/data_driven_model/
-date: "2026-07-18T15:49:10.239482Z"
-lastmod: "2026-07-18T17:15:08.731948Z"
+slug: data_driven_model
+date: '2026-07-18T15:49:10.239482Z'
+lastmod: '2026-07-18T17:15:08.731948Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een computeraal model waarvan parameters en structuur direct uit empirische data worden geleerd in plaats van via expliciete programmering."
+source: agnes_llm
+status: published
+language: nl
+description: Een computeraal model waarvan parameters en structuur direct uit empirische
+  data worden geleerd in plaats van via expliciete programmering.
 ---
-
 ## Definition
 
 Een data-driven model is een type kunstmatige intelligentiesysteem waarbij gedrag en voorspellingen voortkomen uit patronen die binnen historische data zijn geïdentificeerd, in plaats van gedefinieerd te worden door ingebouwde regels of expliciete programmering.

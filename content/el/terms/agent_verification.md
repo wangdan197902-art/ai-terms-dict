@@ -1,23 +1,25 @@
 ---
-title: "Επαλήθευση Πράκτορα"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Επαλήθευση Πράκτορα
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /el/terms/agent_verification/
-date: "2026-07-18T15:48:15.226777Z"
-lastmod: "2026-07-18T17:15:09.877396Z"
+slug: agent_verification
+date: '2026-07-18T15:48:15.226777Z'
+lastmod: '2026-07-18T17:15:09.877396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η επαλήθευση πράκτορα είναι η διαδικασία επίδειξης με μαθηματικούς όρους ότι ένας αυτόνομος πράκτορας θα συμπεριφέρεται σωστά και ασφαλώς υπό όλες τις καθορισμένες συνθήκες."
+source: agnes_llm
+status: published
+language: el
+description: Η επαλήθευση πράκτορα είναι η διαδικασία επίδειξης με μαθηματικούς όρους
+  ότι ένας αυτόνομος πράκτορας θα συμπεριφέρεται σωστά και ασφαλώς υπό όλες τις καθορισμένες
+  συνθήκες.
 ---
-
 ## Definition
 
 Αυτό περιλαμβάνει τη χρήση μαθηματικών μεθόδων για να διασφαλιστεί ότι οι ενέργειες ενός πράκτορα συμμορφώνονται με προκαθορισμένους περιορισμούς, όπως όρια ασφαλείας ή ηθικοί κανόνες. Είναι ιδιαίτερα σημαντικό για πράκτορες που λειτουργούν σε κρίσιμες εφαρμογές.

@@ -1,23 +1,23 @@
 ---
-title: "큐웜(Qwen)"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: 큐웜(Qwen)
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /ko/terms/qwen/
-date: "2026-07-18T16:12:21.775724Z"
-lastmod: "2026-07-18T16:38:06.901367Z"
+slug: qwen
+date: '2026-07-18T16:12:21.775724Z'
+lastmod: '2026-07-18T16:38:06.901367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "큐웜(Qwen)은 알리바바 그룹의 통이 연구소(Tongyi Lab)에서 개발한 대규모 언어 모델 시리즈입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 큐웜(Qwen)은 알리바바 그룹의 통이 연구소(Tongyi Lab)에서 개발한 대규모 언어 모델 시리즈입니다.
 ---
-
 ## Definition
 
 큐웜(Qwen)은 알리바바 그룹의 통이 연구소에서 만든 고급 대규모 언어 모델 패밀리를 나타냅니다. 자연어 이해, 코드 생성, 논리적 추론 등 다양한 작업에 최적화된 여러 버전을 포함하고 있습니다.

@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /ko/terms/embodied_cognitive_science/
 date: "2026-07-18T15:54:25.966342Z"
 lastmod: "2026-07-18T16:38:06.836321Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "Embodied cognitive science(구체적 인지과학)는 인간의 인지가 신체와 환경 간의 상호작용에 의해 근본적으로 형성된다는 이론적 틀을 제안합니다."
 ---
-
 ## Definition
 
 이 분야는 마음을 추상적 기호를 처리하는 컴퓨터로 보는 전통적인 관점에 도전합니다. 대신 인지 과정이 신체의 물리적 특성에 깊이 뿌리를 두고 있다고 주장합니다.

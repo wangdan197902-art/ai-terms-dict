@@ -1,23 +1,24 @@
 ---
-title: "Mieltymysoppiminen"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Mieltymysoppiminen
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /fi/terms/preference_learning/
-date: "2026-07-18T16:16:06.727069Z"
-lastmod: "2026-07-18T17:15:09.444818Z"
+slug: preference_learning
+date: '2026-07-18T16:16:06.727069Z'
+lastmod: '2026-07-18T17:15:09.444818Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka kouluttaa malleja vastaamaan ihmisten mieltymyksiin vertailevan palautteen avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka kouluttaa malleja vastaamaan ihmisten mieltymyksiin vertailevan
+  palautteen avulla.
 ---
-
 ## Definition
 
 Mieltymysoppiminen keskittyy mallien opettamiseen erottamaan hyvät ja huonot tulokset ihmisten arvioiden perusteella absoluuttisten merkintöjen sijaan. Se sisältää yleensä vastausparien keräämisen, joissa ihminen valitsee mieluisamman vaihtoehdon, ja palkkafunktion mallintamisen näiden mieltymysten kuvaamiseksi.

@@ -1,23 +1,24 @@
 ---
-title: "Không kiểm duyệt"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Không kiểm duyệt
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /vi/terms/uncensored/
-date: "2026-07-18T16:15:30.292277Z"
-lastmod: "2026-07-18T16:38:07.814274Z"
+slug: uncensored
+date: '2026-07-18T16:15:30.292277Z'
+lastmod: '2026-07-18T16:38:07.814274Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Chỉ các mô hình AI đã được sửa đổi để vượt qua các bộ lọc an toàn và hướng dẫn đạo đức."
+source: agnes_llm
+status: published
+language: vi
+description: Chỉ các mô hình AI đã được sửa đổi để vượt qua các bộ lọc an toàn và
+  hướng dẫn đạo đức.
 ---
-
 ## Definition
 
 Trong bối cảnh trí tuệ nhân tạo, thuật ngữ 'không kiểm duyệt' thường mô tả các mô hình đã trải qua quá trình tinh chỉnh hoặc sửa đổi để loại bỏ hoặc làm suy yếu các sự căn chỉnh an toàn tích hợp sẵn. Những mô hình này được thiết kế để...

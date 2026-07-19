@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /id/terms/offline_learning/
 date: "2026-07-18T16:02:46.155351Z"
 lastmod: "2026-07-18T16:38:07.489841Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pembelajaran offline adalah paradigma pelatihan di mana model dilatih pada dataset statis tanpa berinteraksi dengan lingkungan langsung selama fase pembelajaran."
 ---
-
 ## Definition
 
 Juga dikenal sebagai pembelajaran batch, pembelajaran offline melibatkan pelatihan model pembelajaran mesin pada dataset tetap yang dikumpulkan sebelumnya. Berbeda dengan pembelajaran online, model tidak memperbarui parameternya dalam re

@@ -1,23 +1,24 @@
 ---
-title: "TFLite"
-term_id: "tflite"
-category: "basic_concepts"
-subcategory: ""
-tags: ["framework", "mobile", "optimization"]
+title: TFLite
+term_id: tflite
+category: basic_concepts
+subcategory: ''
+tags:
+- framework
+- mobile
+- Optimization
 difficulty: 3
 weight: 1
-slug: "tflite"
-aliases:
-  - /tr/terms/tflite/
-date: "2026-07-18T16:17:35.020618Z"
-lastmod: "2026-07-18T16:38:07.373031Z"
+slug: tflite
+date: '2026-07-18T16:17:35.020618Z'
+lastmod: '2026-07-18T16:38:07.373031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "TensorFlow Lite (TFLite), makine öğrenimi modellerinin mobil, gömülü ve uç cihazlarda çalışmasını sağlayan bir araç setidir."
+source: agnes_llm
+status: published
+language: tr
+description: TensorFlow Lite (TFLite), makine öğrenimi modellerinin mobil, gömülü
+  ve uç cihazlarda çalışmasını sağlayan bir araç setidir.
 ---
-
 ## Definition
 
 TensorFlow Lite, akıllı telefonlar, mikrodenetleyiciler ve Nesnelerin İnterneti (IoT) cihazları gibi kaynak kısıtlamalı cihazlara makine öğrenimi modelleri dağıtmak üzere tasarlanmış açık kaynaklı bir çerçevedir. Modelleri optimize ederek düşük gecikme süresi ve azaltılmış bellek kullanımı sağlar.

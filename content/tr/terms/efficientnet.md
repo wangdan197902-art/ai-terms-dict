@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /tr/terms/efficientnet/
-date: "2026-07-18T15:51:18.679251Z"
-lastmod: "2026-07-18T16:38:07.303594Z"
+slug: efficientnet
+date: '2026-07-18T15:51:18.679251Z'
+lastmod: '2026-07-18T16:38:07.303594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "EfficientNet, derinlik, genişlik ve çözünürlüğü eşit şekilde ölçeklendirerek daha az parametre ile daha yüksek doğruluk elde eden bir evrişimli sinir ağı mimari ailesidir."
+source: agnes_llm
+status: published
+language: tr
+description: EfficientNet, derinlik, genişlik ve çözünürlüğü eşit şekilde ölçeklendirerek
+  daha az parametre ile daha yüksek doğruluk elde eden bir evrişimli sinir ağı mimari
+  ailesidir.
 ---
-
 ## Definition
 
 Google tarafından geliştirilen EfficientNet, ağ derinliği, genişliği ve giriş görüntüsü çözünürlüğü arasında denge kurmak için bileşik bir ölçeklendirme yöntemi kullanır. Bu yaklaşım, modelin en üst düzey doğruluğu yakalamasına olanak tanır.

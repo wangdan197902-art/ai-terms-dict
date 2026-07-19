@@ -1,23 +1,24 @@
 ---
-title: "Časová osa rizik umělé inteligence v globálních financích"
-term_id: "timeline_of_artificial_intelligence_risks_in_global_finance"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "risk_management", "history"]
+title: Časová osa rizik umělé inteligence v globálních financích
+term_id: timeline_of_artificial_intelligence_risks_in_global_finance
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Risk Management
+- history
 difficulty: 4
 weight: 1
-slug: "timeline_of_artificial_intelligence_risks_in_global_finance"
-aliases:
-  - /cs/terms/timeline_of_artificial_intelligence_risks_in_global_finance/
-date: "2026-07-18T16:21:31.174010Z"
-lastmod: "2026-07-18T17:15:09.207983Z"
+slug: timeline_of_artificial_intelligence_risks_in_global_finance
+date: '2026-07-18T16:21:31.174010Z'
+lastmod: '2026-07-18T17:15:09.207983Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Chronologický rámec sledující vznik, eskalaci a zmírnění systémových rizik spojených s umělou inteligencí na mezinárodních finančních trzích."
+source: agnes_llm
+status: published
+language: cs
+description: Chronologický rámec sledující vznik, eskalaci a zmírnění systémových
+  rizik spojených s umělou inteligencí na mezinárodních finančních trzích.
 ---
-
 ## Definition
 
 Tento koncept se týká historického a projekčního sledu událostí, při kterých technologie umělé inteligence zavádějí zranitelnosti do globálních finančních systémů. Zahrnuje počáteční fáze algoritmických obchodování, kdy se objevují první známky nestability, až po kritické body, kde může dojít k systémovému kolapsu. Klíčovým aspektem je také časový odstup mezi rychlým vývojem technologií a pomalejším vývojem regulačních rámců, což vytváří prostor pro neočekávané dopady na trh.

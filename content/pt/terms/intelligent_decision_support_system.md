@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /pt/terms/intelligent_decision_support_system/
 date: "2026-07-18T15:06:27.431399Z"
 lastmod: "2026-07-18T15:51:59.503201Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um sistema aprimorado por IA que auxilia humanos na tomada de decisões complexas, analisando dados e fornecendo insights acionáveis."
 ---
-
 ## Definition
 
 Um Sistema de Suporte à Decisão Inteligente (IDSS) integra técnicas de inteligência artificial, como aprendizado de máquina e processamento de linguagem natural, com estruturas tradicionais de suporte à decisão. Ele

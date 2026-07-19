@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /he/terms/encoder/
 date: "2026-07-18T15:36:22.156415Z"
 lastmod: "2026-07-18T17:15:09.498915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מקודד הוא רכיב ברשת נוירונים הממיר נתוני קלט לייצוג דחוס ומשמעותי."
 ---
-
 ## Definition
 
 מקודדים מעבדים רצפי קלט גולמיים או מבני נתונים והופכים אותם לייצוגים במרחב סמוי (latent space), המכונים לעיתים הטמעות או קודים. הם מרכזיים בארכיטקטורות כמו טרנספורמרים ואוטואנקודרים.

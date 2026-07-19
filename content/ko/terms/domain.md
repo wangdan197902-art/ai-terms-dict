@@ -1,23 +1,23 @@
 ---
-title: "도메인"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: 도메인
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /ko/terms/domain/
-date: "2026-07-18T15:24:05.368836Z"
-lastmod: "2026-07-18T16:38:06.771922Z"
+slug: domain
+date: '2026-07-18T15:24:05.368836Z'
+lastmod: '2026-07-18T16:38:06.771922Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "도메인은 특징 공간과 확률 분포로 특징지어지는 특정 컨텍스트나 데이터 분포를 나타냅니다."
+source: agnes_llm
+status: published
+language: ko
+description: 도메인은 특징 공간과 확률 분포로 특징지어지는 특정 컨텍스트나 데이터 분포를 나타냅니다.
 ---
-
 ## Definition
 
 머신러닝, 특히 이전 학습(transfer learning)에서 도메인은 두 가지 구성 요소로 정의됩니다: 특징 공간(모든 가능한 입력의 집합)과 해당 입력의 주변 확률 분포(marginal probability distribution).

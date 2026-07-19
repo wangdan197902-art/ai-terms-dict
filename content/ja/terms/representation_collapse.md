@@ -1,23 +1,23 @@
 ---
-title: "表現崩壊"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: 表現崩壊
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /ja/terms/representation_collapse/
-date: "2026-07-18T11:30:33.410980Z"
-lastmod: "2026-07-18T11:44:45.138866Z"
+slug: representation_collapse
+date: '2026-07-18T11:30:33.410980Z'
+lastmod: '2026-07-18T11:44:45.138866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "自己教師あり学習において、モデルが入力に対して同一の表現を出力し、識別力を失う失敗モード。"
+source: agnes_llm
+status: published
+language: ja
+description: 自己教師あり学習において、モデルが入力に対して同一の表現を出力し、識別力を失う失敗モード。
 ---
-
 ## Definition
 
 表現崩壊とは、特に自己教師ありのコントラスト学習フレームワークにおいて、ニューラルネットワークがすべての入力データポイントを同じ固定された出力ベクトルにマッピングするように学習してしまう現象です。これは自明な解（trivial solution）であり、モデルがデータの構造や特徴を学習できていないことを示します。これを回避するために、バッチ正規化やモーメンタムエンコーダーなどの技術が用いられます。

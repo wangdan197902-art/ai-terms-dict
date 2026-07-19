@@ -1,23 +1,24 @@
 ---
-title: "Formele conceptanalyse"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Formele conceptanalyse
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /nl/terms/formal_concept_analysis/
-date: "2026-07-18T15:55:47.869455Z"
-lastmod: "2026-07-18T17:15:08.745973Z"
+slug: formal_concept_analysis
+date: '2026-07-18T15:55:47.869455Z'
+lastmod: '2026-07-18T17:15:08.745973Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Formele conceptanalyse (FCA) is een wiskundige methode voor het afleiden van conceptuele hiërarchieën uit gegevens met behulp van formele contexten en conceptroosters."
+source: agnes_llm
+status: published
+language: nl
+description: Formele conceptanalyse (FCA) is een wiskundige methode voor het afleiden
+  van conceptuele hiërarchieën uit gegevens met behulp van formele contexten en conceptroosters.
 ---
-
 ## Definition
 
 FCA biedt een rigoureus kader voor het analyseren van relaties tussen objecten en hun attributen, wat resulteert in een hiërarchische structuur die bekendstaat als een conceptrooster. Het wordt veel gebruikt in kennisdis

@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /da/terms/robotic_process_automation/
 date: "2026-07-18T16:15:18.628342Z"
 lastmod: "2026-07-18T17:15:09.328459Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brugen af softwarebots til at automatisere digitale opgaver med højt volumen og gentagelser, der traditionelt udføres af mennesker i forretningsprocesser."
 ---
-
 ## Definition
 
 Robotprocesautomatisering (RPA) anvender softwarebots, ofte beriget med AI, til at efterligne menneskelige interaktioner med digitale systemer. Det bruges til at strømline arbejdsgange såsom dataindtastning, fakturabehandling

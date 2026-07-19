@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /da/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:48:52.476125Z"
 lastmod: "2026-07-18T17:15:09.273623Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Dette felt kombinerer statistisk analyse og maskinlæring for at udtrække indsigt fra data og forudsige fremtidige begivenheder eller adfærd."
 ---
-
 ## Definition
 
 Datavidenskab involverer den tværfaglige proces med at udtrække viden fra strukturerede og ustrukturerede data, mens prediktiv analyse specifikt fokuserer på brugen af historiske data til at forudsige f

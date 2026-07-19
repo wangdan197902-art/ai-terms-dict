@@ -1,23 +1,24 @@
 ---
-title: "Causale"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Causale
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /it/terms/causal/
-date: "2026-07-18T15:23:53.407131Z"
-lastmod: "2026-07-18T17:15:08.562550Z"
+slug: causal
+date: '2026-07-18T15:23:53.407131Z'
+lastmod: '2026-07-18T17:15:08.562550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'inferenza causale consiste nel determinare le relazioni di causa-effetto tra variabili, piuttosto che limitarsi a identificare correlazioni statistiche."
+source: agnes_llm
+status: published
+language: it
+description: L'inferenza causale consiste nel determinare le relazioni di causa-effetto
+  tra variabili, piuttosto che limitarsi a identificare correlazioni statistiche.
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, la modellazione causale mira a comprendere come le interventi su una variabile influenzino un'altra. A differenza dei modelli predittivi che si basano su pattern osservati, l'AI causale utilizza strutture causali per simulare effetti di interventi ipotetici.

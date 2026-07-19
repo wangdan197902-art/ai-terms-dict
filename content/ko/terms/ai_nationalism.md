@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /ko/terms/ai_nationalism/
 date: "2026-07-18T15:39:27.677228Z"
 lastmod: "2026-07-18T16:38:06.804052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "지정학적 및 경제적 이익에 기반하여 국가 간 인공지능 개발 우위를 차지하려는 전략적 경쟁."
 ---
-
 ## Definition
 
 AI 국민주의는 정부가 인공지능을 국가 안보와 경제 주권의 문제로 간주하는 추세를 설명합니다. 각국은 자국 내 AI 연구에 막대한 투자를 하고, 핵심 기술과 데이터의 해외 유출을 제한하며 자국 산업 보호를 우선시합니다.

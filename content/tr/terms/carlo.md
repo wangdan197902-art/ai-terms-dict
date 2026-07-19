@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /tr/terms/carlo/
 date: "2026-07-18T15:23:39.842162Z"
 lastmod: "2026-07-18T16:38:07.228517Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sayısal sonuçlar elde etmek için tekrarlanan rastgele örneklemeye dayanan bir hesaplama algoritması sınıfı olan Monte Carlo yöntemlerini ifade eder."
 ---
-
 ## Definition
 
 Monte Carlo yöntemleri, analitik olarak çözülmesi zor karmaşık matematiksel problemleri yaklaştırmak için yapay zeka ve istatistikte temel tekniklerdir. Binlerce veya milyonlarca rastgele örnek oluşturarak çalışır.

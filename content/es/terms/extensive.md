@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /es/terms/extensive/
 date: "2026-07-18T10:23:00.605639Z"
 lastmod: "2026-07-18T11:44:44.740488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Describe conjuntos de datos, cálculos o evaluaciones de IA que cubren un gran alcance, volumen o amplitud de escenarios."
 ---
-
 ## Definition
 
 Extensivo se refiere a la escala y exhaustividad de las operaciones de IA, como conjuntos de datos a gran escala, suites de evaluación amplias o cargas de trabajo computacionales intensivas. Un conjunto de datos extenso garantiza la capacidad de...

@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: Stable Diffusion 3 パイプライン"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stable Diffusion 3 パイプライン'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /ja/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T11:12:25.745704Z"
-lastmod: "2026-07-18T11:44:45.091493Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T11:12:25.745704Z'
+lastmod: '2026-07-18T11:44:45.091493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "MMDiTとフローマッチングを採用し、画像品質とテキストレンダリング性能を向上させたStable Diffusion 3のアーキテクチャを実装したパイプライン。"
+source: agnes_llm
+status: published
+language: ja
+description: MMDiTとフローマッチングを採用し、画像品質とテキストレンダリング性能を向上させたStable Diffusion 3のアーキテクチャを実装したパイプライン。
 ---
-
 ## Definition
 
 このパイプラインは、マルチモーダル拡散トランスフォーマー（MMDiT）アーキテクチャとフローマッチング（Flow Matching）の学習目標を導入したStable Diffusion 3モデルを利用します。これらの進歩により、従来のモデルと比較して大幅な品質向上が実現されています。

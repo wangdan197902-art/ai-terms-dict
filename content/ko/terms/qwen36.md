@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /ko/terms/qwen36/
 date: "2026-07-18T16:12:51.725662Z"
 lastmod: "2026-07-18T16:38:06.902246Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "Qwen3 시리즈의 후속 소규모 업데이트로, 성능 지표와 특정 도메인 지식을 다듬었을 가능성이 높습니다."
 ---
-
 ## Definition
 
 Qwen3.6은 Qwen3 모델 계열에서 더 나은 정교화를 나타냅니다. 소규모 버전 업데이트는 주로 기존 기능의 다듬기, 경계 사례(edge-case) 오류 수정, 훈련 데이터 품질 최적화에 초점을 맞춥니다.

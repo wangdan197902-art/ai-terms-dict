@@ -1,23 +1,22 @@
 ---
-title: "模型提取"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: 模型提取
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /zh/terms/model_extraction/
-date: "2026-07-18T11:38:39.318217Z"
-lastmod: "2026-07-18T11:44:45.570672Z"
+slug: model_extraction
+date: '2026-07-18T11:38:39.318217Z'
+lastmod: '2026-07-18T11:44:45.570672Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种攻击方式， adversaries 通过查询模型来重建其参数或创建代理副本。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种攻击方式， adversaries 通过查询模型来重建其参数或创建代理副本。
 ---
-
 ## Definition
 
 模型提取涉及查询目标机器学习模型的 API，以推断其内部结构、权重或决策边界。攻击者利用这些查询构建一个代理模型，从而窃取知识产权或绕过安全限制。

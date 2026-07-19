@@ -1,23 +1,24 @@
 ---
-title: "Banco de dados inteligente"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Banco de dados inteligente
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /pt/terms/intelligent_database/
-date: "2026-07-18T15:06:27.431395Z"
-lastmod: "2026-07-18T15:51:59.502961Z"
+slug: intelligent_database
+date: '2026-07-18T15:06:27.431395Z'
+lastmod: '2026-07-18T15:51:59.502961Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um sistema de banco de dados que incorpora capacidades de IA para automatizar o gerenciamento de dados, otimização de consultas e geração de insights."
+source: agnes_llm
+status: published
+language: pt
+description: Um sistema de banco de dados que incorpora capacidades de IA para automatizar
+  o gerenciamento de dados, otimização de consultas e geração de insights.
 ---
-
 ## Definition
 
 Um banco de dados inteligente aproveita o aprendizado de máquina e a IA para aprimorar as funcionalidades padrão dos bancos de dados além do simples armazenamento e recuperação. Ele pode otimizar automaticamente o desempenho das consultas, prever usos

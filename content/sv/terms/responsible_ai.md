@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 2
 weight: 1
 slug: "responsible_ai"
-aliases:
-  - /sv/terms/responsible_ai/
 date: "2026-07-18T16:19:10.924141Z"
 lastmod: "2026-07-18T17:15:09.044109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En ramverk som säkerställer att AI-system utvecklas och implementeras etiskt, med fokus på rättvisa, transparens, ansvarsskyldighet och säkerhet."
 ---
-
 ## Definition
 
 Ansvarsfull AI omfattar principer och praxis som syftar till att minska de risker som är förknippade med artificiell intelligens. Det innebär att granska modeller för bias, säkerställa förklarbarhet av beslut, skydda dataintegritet och säkerställa att system agerar säkert och etiskt.

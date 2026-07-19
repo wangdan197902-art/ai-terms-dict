@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /cs/terms/model_serving/
 date: "2026-07-18T15:36:21.263020Z"
 lastmod: "2026-07-18T17:15:09.091098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces nasazování natrénovaných modelů strojového učení do produkčního prostředí za účelem provádění predikcí nebo generování výstupů pro koncové uživatele."
 ---
-
 ## Definition
 
 Provozování modelů zahrnuje převzetí statického natrénovaného modelu a jeho zabalení do škálovatelné infrastruktury, která zpracovává příchozí požadavky, provádí inferenci a vrací výsledky. Klíčovou výzvou je

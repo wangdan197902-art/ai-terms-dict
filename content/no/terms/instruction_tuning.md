@@ -1,23 +1,24 @@
 ---
-title: "Instruksjonstilpasning"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Instruksjonstilpasning
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /no/terms/instruction_tuning/
-date: "2026-07-18T15:27:13.530013Z"
-lastmod: "2026-07-18T16:38:06.939327Z"
+slug: instruction_tuning
+date: '2026-07-18T15:27:13.530013Z'
+lastmod: '2026-07-18T16:38:06.939327Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Instruksjonstilpasning er en finjusteringsteknikk der en forhåndstrent språkmodell trenes på et datasett med instruksjoner og deres tilsvarende svar for å forbedre evnen til å følge oppgaver."
+source: agnes_llm
+status: published
+language: 'no'
+description: Instruksjonstilpasning er en finjusteringsteknikk der en forhåndstrent
+  språkmodell trenes på et datasett med instruksjoner og deres tilsvarende svar for
+  å forbedre evnen til å følge oppgaver.
 ---
-
 ## Definition
 
 Denne prosessen bridge gapen mellom generell forhåndstrening og spesifikk oppgaveprestasjon. Ved å eksponere modellen for varierte instruksjon-svar-par, lærer den å generalisere til u sette oppgaver uten ad

@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /hu/terms/nvidia/
 date: "2026-07-18T16:15:16.708947Z"
 lastmod: "2026-07-18T17:15:09.818691Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy vezető technológiai vállalat, amely GPU-kra és MI hardverekre specializálódott, és amelyekkel a modern mélytanulási infrastruktúra működik."
 ---
-
 ## Definition
 
 Az Nvidia domináns szereplő az MI-iparágban, elsősorban Grafikai Feldolgozó Egységek (GPU-k) tervezéséről ismert, amelyek gyorsítják a párhuzamos számítási feladatokat, amelyek elengedhetetlenek a mélytanuláshoz. CUDA platformjuk...

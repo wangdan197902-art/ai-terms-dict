@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /sv/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:21:46.608060Z"
 lastmod: "2026-07-18T17:15:09.050672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En biblioteksfunktion från Hugging Face som tillhandahåller standardiserade pipelines för att köra och finjustera Stable Diffusion-modeller."
 ---
-
 ## Definition
 
 Diffusers-biblioteket är en öppen källkod-verktygslåda från Hugging Face som är designad för att förenkla användningen av förtränade diffusionsmodeller, särskilt Stable Diffusion. Det erbjuder modulära pipelines som hanterar hela flödet från textinput till bildoutput, inklusive steg som tokenisering, inferens och avkodning. Biblioteket underlättar också finjustering av dessa modeller på egna dataset och gör det enkelt att interagera med olika arkitekturer för generativ AI utan att behöva implementera komplexa underliggande matematiska processer från grunden.

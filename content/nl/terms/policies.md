@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /nl/terms/policies/
 date: "2026-07-18T15:28:54.178474Z"
 lastmod: "2026-07-18T17:15:08.690636Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een verzameling richtlijnen, regels of protocollen die door een organisatie zijn vastgesteld om gedrag, besluitvorming en operationele normen te sturen."
 ---
-
 ## Definition
 
 In de context van kunstmatige intelligentie en technologiegovernance verwijzen beleidsregels naar de geformaliseerde kaders die bepalen hoe AI-systemen moeten worden ontwikkeld, ingezet en bewaakt. Deze documenten vormen de basis voor verantwoorde AI-toepassing.

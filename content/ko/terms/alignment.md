@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /ko/terms/alignment/
 date: "2026-07-18T15:22:07.926625Z"
 lastmod: "2026-07-18T16:38:06.765358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템의 목표와 행동이 인간의 가치와 의도에 부합하도록 보장하는 과정입니다."
 ---
-
 ## Definition
 
 정렬은 AI가 단순히 문자 그대로의 요청을 수행하는 것이 아니라 인간이 실제로 원하는 것을 수행하도록 하는 데 중점을 둡니다. 여기에는 인간 피드백을 통한 강화 학습(RLHF)과 같은 기술이 포함됩니다.

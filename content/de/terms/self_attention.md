@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /de/terms/self_attention/
 date: "2026-07-18T10:53:51.234652Z"
 lastmod: "2026-07-18T11:44:44.883739Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Mechanismus, der es einem neuronalen Netzwerk ermöglicht, die Bedeutung verschiedener Teile der Eingabesequenz im Verhältnis zueinander zu gewichten."
 ---
-
 ## Definition
 
 Selbstaufmerksamkeit ermöglicht es Modellen, Abhängigkeiten zwischen allen Positionen in einer Sequenz gleichzeitig zu erfassen, unabhängig von deren Entfernung. Durch die Berechnung von Aufmerksamkeitswerten zwischen jedem Token-Paar wird dies ermöglicht.

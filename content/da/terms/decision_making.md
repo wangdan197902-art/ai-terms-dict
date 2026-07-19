@@ -1,23 +1,24 @@
 ---
-title: "beslutningstagning"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: beslutningstagning
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /da/terms/decision_making/
-date: "2026-07-18T15:31:54.637481Z"
-lastmod: "2026-07-18T17:15:09.237818Z"
+slug: decision_making
+date: '2026-07-18T15:31:54.637481Z'
+lastmod: '2026-07-18T17:15:09.237818Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Den kognitive proces med at vælge en handlingsretning blandt flere alternativer baseret på tilgængelig information."
+source: agnes_llm
+status: published
+language: da
+description: Den kognitive proces med at vælge en handlingsretning blandt flere alternativer
+  baseret på tilgængelig information.
 ---
-
 ## Definition
 
 Inden for kunstig intelligens refererer beslutningstagning til den algoritmiske proces, hvor et system evaluerer potentielle handlinger op imod specifikke kriterier eller mål for at vælge det optimale resultat. Dette indebærer typisk evaluering af tilstande og valg af handlinger for at maksimere nyttigheden.

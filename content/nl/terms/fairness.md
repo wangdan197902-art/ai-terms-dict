@@ -7,8 +7,6 @@ tags: ["ethics", "bias", "safety"]
 difficulty: 3
 weight: 1
 slug: "fairness"
-aliases:
-  - /nl/terms/fairness/
 date: "2026-07-18T15:36:05.867618Z"
 lastmod: "2026-07-18T17:15:08.704469Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Eerlijkheid verwijst naar het principe dat AI-systemen geen bevooroordeelde of discriminerende uitkomsten mogen produceren tegen specifieke groepen."
 ---
-
 ## Definition
 
 In de kunstmatige intelligentie is eerlijkheid een kritieke ethische maatstaf die ervoor zorgt dat algoritmen maatschappelijke vooroordelen, gebaseerd op beschermde kenmerken zoals ras, geslacht of leeftijd, niet in stand houden of versterken. Het streeft naar een eerlijke verdeling van kansen en resultaten.

@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /id/terms/chat/
 date: "2026-07-18T15:41:49.068430Z"
 lastmod: "2026-07-18T16:38:07.435883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Chat merujuk pada komunikasi interaktif berbasis percakapan antara pengguna dan sistem AI, yang biasanya difasilitasi melalui bahasa alami."
 ---
-
 ## Definition
 
 Dalam konteks AI, Chat menandakan antarmuka dan mekanisme dasar untuk dialog waktu nyata berbasis giliran. Hal ini memungkinkan pengguna untuk mengajukan pertanyaan, meminta tugas, atau terlibat dalam percakapan terbuka. Sistem ini mengelola konteks percakapan untuk memberikan respons yang relevan.

@@ -1,23 +1,23 @@
 ---
-title: "퓨 샷 프롬프팅"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: 퓨 샷 프롬프팅
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /ko/terms/few_shot_prompting/
-date: "2026-07-18T15:34:33.739670Z"
-lastmod: "2026-07-18T16:38:06.795241Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:34:33.739670Z'
+lastmod: '2026-07-18T16:38:06.795241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "퓨 샷 프롬프팅은 대규모 언어 모델(LLM)에게 프롬프트 내에 소수의 입력-출력 예시를 제공하여 모델의 동작을 유도하는 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 퓨 샷 프롬프팅은 대규모 언어 모델(LLM)에게 프롬프트 내에 소수의 입력-출력 예시를 제공하여 모델의 동작을 유도하는 기법입니다.
 ---
-
 ## Definition
 
 이 방법은 프롬프트 내에 직접적인 설명 예시를 몇 개 제공함으로써 대규모 언어 모델의 문맥 내 학습(In-context learning) 능력을 활용합니다. 모델의 가중치를 업데이트해야 하는 파인튜닝(Fine-tuning)과는 달리, 퓨 샷 프롬프팅은 추가적인 훈련 없이도 모델이 특정 작업 형식이나 스타일을 빠르게 습득하도록 돕습니다.

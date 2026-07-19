@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /ko/terms/supervised/
 date: "2026-07-18T15:29:16.430343Z"
 lastmod: "2026-07-18T16:38:06.784993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델이 레이블이 지정된 입력-출력 쌍으로 학습하는 머신러닝 패러다임입니다."
 ---
-
 ## Definition
 
 지도 학습은 알고리즘에 입력과 정답(레이블)이 모두 포함된 데이터를 공급하는 과정을 포함합니다. 모델은 예측 오차를 최소화함으로써 입력을 출력으로 매핑하는 방법을 학습합니다. 이 기술은

@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /th/terms/knowledge_distillation/
 date: "2026-07-18T16:01:16.691304Z"
 lastmod: "2026-07-18T16:38:07.621776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Knowledge Distillation คือเทคนิคการบีบอัดโมเดล โดยที่โมเดลขนาดเล็ก (นักเรียน) เรียนรู้ที่จะเลียนแบบพฤติกรรมของโมเดลขนาดใหญ่ (ครู)"
 ---
-
 ## Definition
 
 Knowledge Distillation เป็นวิธีการเรียนรู้ของเครื่องที่ใช้ในการบีบอัดเครือข่ายประสาทเทียมขนาดใหญ่และซับซ้อน (ครู) ให้กลายเป็นเครือข่ายที่มีขนาดเล็กลงและมีประสิทธิภาพมากขึ้น (นักเรียน) โมเดลนักเรียนจะถูกฝึกฝนเพื่อให้

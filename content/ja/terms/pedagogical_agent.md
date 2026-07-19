@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /ja/terms/pedagogical_agent/
 date: "2026-07-18T11:27:03.543767Z"
 lastmod: "2026-07-18T11:44:45.130850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "指導、フィードバック、ガイダンスを提供することで学習を促進するように設計された人工知能エンティティ。"
 ---
-
 ## Definition
 
 教育的エージェントは、教育環境内で教師またはチューターとして機能するソフトウェアコンポーネントであり、しばしば仮想キャラクターとして具現化されます。これらのエージェントは自然言語処理および

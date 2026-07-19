@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /hu/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T15:55:19.102744Z"
 lastmod: "2026-07-18T17:15:09.771431Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy hatalmas, kiváló minőségű webes adatkészlet, amelyet a Technology Innovation Institute dolgozott ki a Falcon és más nagy nyelvi modellek előzetes betanításához."
 ---
-
 ## Definition
 
 A RefinedWeb egy nagy méretű, szűrt weboldalakból álló adatkészlet, amelyet alapmodellek előzetes betanítására terveztek. Billiárdnyi weboldalt dolgoz fel annak érdekében, hogy eltávolítsa az alacsony minőségű tartalmakat, ismétlődéseket és káros anyagokat.

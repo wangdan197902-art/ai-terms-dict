@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /id/terms/asr_complete/
 date: "2026-07-18T15:37:50.589704Z"
 lastmod: "2026-07-18T16:38:07.424613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "ASR-complete menggambarkan sistem pengenalan suara yang mencapai akurasi setara manusia pada dataset benchmark standar."
 ---
-
 ## Definition
 
 Istilah ASR-complete menandakan bahwa sistem Pengenalan Suara Otomatis telah mencapai tingkat kinerja yang sebanding dengan transkriben manusia pada tugas dan dataset tertentu yang terdefinisi dengan baik. Ini menandai tonggak sejarah di mana kesalahan sistem mendekati batas bawah biologis manusia.

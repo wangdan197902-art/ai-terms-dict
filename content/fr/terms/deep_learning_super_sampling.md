@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /fr/terms/deep_learning_super_sampling/
 date: "2026-07-18T11:12:54.770692Z"
 lastmod: "2026-07-18T11:44:45.241151Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une technique qui utilise l'IA pour mettre à l'échelle des images de plus basse résolution vers des résolutions plus élevées avec des détails améliorés et moins d'artefacts."
 ---
-
 ## Definition
 
 Le Sur-échantillonnage par Apprentissage Profond (DLSS) est une technologie qui exploite les réseaux de neurones pour reconstruire des images haute résolution à partir d'entrées de plus basse résolution. En analysant les données temporelles et l'information spatiale, il permet d'obtenir des performances graphiques accrues sans perte de qualité visuelle significative.

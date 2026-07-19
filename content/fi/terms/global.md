@@ -1,23 +1,24 @@
 ---
-title: "Globaali"
-term_id: "global"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "architecture", "theory"]
+title: Globaali
+term_id: global
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- architecture
+- theory
 difficulty: 2
 weight: 1
-slug: "global"
-aliases:
-  - /fi/terms/global/
-date: "2026-07-18T15:27:00.193082Z"
-lastmod: "2026-07-18T17:15:09.351651Z"
+slug: global
+date: '2026-07-18T15:27:00.193082Z'
+lastmod: '2026-07-18T17:15:09.351651Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kuvaava ominaisuuksia, optimointeja tai skaaloja, jotka koskevat koko mallia tai datamäärää eivätkä paikallisia osajoukkoja."
+source: agnes_llm
+status: published
+language: fi
+description: Kuvaava ominaisuuksia, optimointeja tai skaaloja, jotka koskevat koko
+  mallia tai datamäärää eivätkä paikallisia osajoukkoja.
 ---
-
 ## Definition
 
 Termiä 'globaali' käytetään tekoälyssä yleensä vastakohtana 'paikalliselle', viitaten asioihin, jotka kattavat koko järjestelmän. Optimoinnissa globaalit minimiarvot edustavat parasta mahdollista ratkaisua koko etsintäavaruudessa.

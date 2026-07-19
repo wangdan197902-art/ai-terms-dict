@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /cs/terms/given/
 date: "2026-07-18T15:25:30.654024Z"
 lastmod: "2026-07-18T17:15:09.069713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Termín označující předem existující data, omezení nebo kontext poskytnuté jako vstup do algoritmického procesu."
 ---
-
 ## Definition
 
 V kontextu AI a informatiky se výraz „zadáno“ vztahuje k počátečnímu stavu, sadě dat nebo parametrům dodaným modelu nebo funkci před zahájením výpočtu. Stanovuje okrajové podmínky pro...

@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /zh/terms/way_of_the_future/
 date: "2026-07-18T11:37:50.895596Z"
 lastmod: "2026-07-18T11:44:45.567713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "该术语通常指技术发展的预期轨迹，特别是人工智能融入日常生活和行业的情况。"
 ---
-
 ## Definition
 
 虽然不是一个严格的技术术语，“未来之路”描述了向自主系统、个性化人工智能助手和自动化决策过程的范式转变。它概括了...

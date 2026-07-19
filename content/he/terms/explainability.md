@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /he/terms/explainability/
 date: "2026-07-18T15:36:22.156421Z"
 lastmod: "2026-07-18T17:15:09.499039Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הסבריות מתייחסת למידה שבה אדם יכול להבין את הגורם להחלטה שהתקבלה על ידי מודל בינה מלאכותית."
 ---
-
 ## Definition
 
 מושג זה מטפל בבעיית 'הקופסה השחורה' במערכות AI מורכבות על ידי מתן תובנות כיצד מודלים מגיעים לתחזיות ספציפיות. טכניקות כמו SHAP או LIME עוזרות לנרמל חשיבות תכונות.

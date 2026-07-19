@@ -1,23 +1,23 @@
 ---
-title: "帰納的バイアス"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: 帰納的バイアス
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /ja/terms/inductive_bias/
-date: "2026-07-18T11:19:27.568025Z"
-lastmod: "2026-07-18T11:44:45.109072Z"
+slug: inductive_bias
+date: '2026-07-18T11:19:27.568025Z'
+lastmod: '2026-07-18T11:44:45.109072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "学習アルゴリズムが、トレーニング中に未見の入力に対する出力を予測するために使用する一連の仮定。"
+source: agnes_llm
+status: published
+language: ja
+description: 学習アルゴリズムが、トレーニング中に未見の入力に対する出力を予測するために使用する一連の仮定。
 ---
-
 ## Definition
 
 帰納的バイアスは、モデルがトレーニングデータから未見のデータへ一般化できるようにするために機械学習モデルに組み込まれた、固有の好みや制約を表します。このようなバイアスがなければ、モデルは...

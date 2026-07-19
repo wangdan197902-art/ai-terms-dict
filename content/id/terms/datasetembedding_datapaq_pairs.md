@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /id/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:45:49.937123Z"
 lastmod: "2026-07-18T16:38:07.444722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dataset skala besar berisi pasangan pertanyaan-jawaban yang berasal dari Wikipedia, dirancang untuk pelatihan pengambilan passage padat."
 ---
-
 ## Definition
 
 Dataset PAQ (Pseudo-Answer Quality) berisi jutaan pasangan pertanyaan-jawaban yang dihasilkan secara otomatis diekstrak dari Wikipedia. Dataset ini secara khusus dirancang untuk melatih retriever padat dengan menyediakan...

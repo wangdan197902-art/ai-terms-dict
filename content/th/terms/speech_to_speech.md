@@ -1,23 +1,23 @@
 ---
-title: "เสียงสู่เสียง"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: เสียงสู่เสียง
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /th/terms/speech_to_speech/
-date: "2026-07-18T16:15:53.401070Z"
-lastmod: "2026-07-18T16:38:07.657168Z"
+slug: speech_to_speech
+date: '2026-07-18T16:15:53.401070Z'
+lastmod: '2026-07-18T16:38:07.657168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "รูปแบบการแปลที่แปลงอินพุตเสียงพูดโดยตรงเป็นเสียงสังเคราะห์ในภาษาอื่น"
+source: agnes_llm
+status: published
+language: th
+description: รูปแบบการแปลที่แปลงอินพุตเสียงพูดโดยตรงเป็นเสียงสังเคราะห์ในภาษาอื่น
 ---
-
 ## Definition
 
 การแปลเสียงสู่เสียง (STS) ข้ามขั้นตอนการแสดงแทนข้อความกลาง เพื่อแปลงภาษาพูด A เป็นภาษาพูด B โดยตรง วิธีการนี้มีเป้าหมายเพื่อรักษาจังหวะ อารมณ์ และความธรรมชาติของน้ำเสียงไว้

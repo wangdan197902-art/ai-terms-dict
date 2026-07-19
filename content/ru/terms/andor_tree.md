@@ -1,23 +1,24 @@
 ---
-title: "Дерево И–ИЛИ"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: Дерево И–ИЛИ
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /ru/terms/andor_tree/
-date: "2026-07-18T15:40:16.589997Z"
-lastmod: "2026-07-18T16:38:07.119117Z"
+slug: andor_tree
+date: '2026-07-18T15:40:16.589997Z'
+lastmod: '2026-07-18T16:38:07.119117Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Иерархическая графовая структура, используемая в алгоритмах поиска, где узлы представляют состояния, а ребра — действия, ведущие к подцелям."
+source: agnes_llm
+status: published
+language: ru
+description: Иерархическая графовая структура, используемая в алгоритмах поиска, где
+  узлы представляют состояния, а ребра — действия, ведущие к подцелям.
 ---
-
 ## Definition
 
 Дерево И–ИЛИ — это представление, используемое в решении проблем и планировании, особенно в алгоритмах поиска ИИ. Узлы «ИЛИ» представляют выбор между различными действиями, тогда как узлы «И» указывают на необходимость выполнения всех дочерних условий.

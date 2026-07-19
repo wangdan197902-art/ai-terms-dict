@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /zh/terms/neural_network/
 date: "2026-07-18T10:53:26.248966Z"
 lastmod: "2026-07-18T11:44:45.378845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种受生物大脑启发的计算系统，由组织成层的互连节点或神经元组成。"
 ---
-
 ## Definition
 
 神经网络是一系列算法，通过模拟人类大脑运作的方式，试图识别一组数据中的潜在关系。它由层组成

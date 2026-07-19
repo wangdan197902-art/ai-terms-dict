@@ -1,23 +1,25 @@
 ---
-title: "ειδικό για εργασία"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: ειδικό για εργασία
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /el/terms/task_specific/
-date: "2026-07-18T15:37:12.262133Z"
-lastmod: "2026-07-18T17:15:09.862675Z"
+slug: task_specific
+date: '2026-07-18T15:37:12.262133Z'
+lastmod: '2026-07-18T17:15:09.862675Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Τα μοντέλα ειδικά για εργασία είναι συστήματα τεχνητής νοημοσύνης σχεδιασμένα και βελτιστοποιημένα για να εκτελούν μία μόνο, καλά ορισμένη λειτουργία αντί για γενικού σκοπού λογική."
+source: agnes_llm
+status: published
+language: el
+description: Τα μοντέλα ειδικά για εργασία είναι συστήματα τεχνητής νοημοσύνης σχεδιασμένα
+  και βελτιστοποιημένα για να εκτελούν μία μόνο, καλά ορισμένη λειτουργία αντί για
+  γενικού σκοπού λογική.
 ---
-
 ## Definition
 
 Ο όρος ειδικό για εργασία αναφέρεται σε μοντέλα ή εξαρτήματα τεχνητής νοημοσύνης που έχουν προσαρμοστεί για να ξεχωρίζουν σε ένα στενό σύνολο στόχων, όπως ο εντοπισμός αντικειμένων σε εικόνες ή η μετάφραση γλωσσών. Σε αντίθεση με τα θεμελιώδη μοντέλα γενικής χρήσης,

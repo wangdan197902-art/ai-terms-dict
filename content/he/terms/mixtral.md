@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /he/terms/mixtral/
 date: "2026-07-18T16:12:39.788915Z"
 lastmod: "2026-07-18T17:15:09.564916Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל שפה גדול (LLM) מבוסס מיקס ספקים דליל (Sparse MoE) מאת Mistral AI, המפעיל רק תת-קבוצה של פרמטרים לכל טוקן."
 ---
-
 ## Definition
 
 Mixtral הוא LLM חלוץ בעל משקלים גלויים המשתמש בארכיטקטורה של מיקס ספקים דליל (Sparse MoE). בניגוד למודלים צפופים שבהם כל הפרמטרים משמשים לכל טוקן, Mixtral מפנה כל טוקן דרך

@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /es/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T10:59:47.957550Z"
 lastmod: "2026-07-18T11:44:44.831758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Esto se refiere al uso de tecnologías de IA en contextos de defensa, incluyendo armas autónomas, vigilancia, optimización logística y sistemas de apoyo a la decisión."
 ---
-
 ## Definition
 
 Las aplicaciones militares de la IA abarcan una amplia gama de tecnologías diseñadas para mejorar la efectividad operativa y la ventaja estratégica. Estas incluyen drones autónomos para reconocimiento, predicción de amenazas y gestión logística avanzada.

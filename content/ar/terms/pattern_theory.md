@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /ar/terms/pattern_theory/
 date: "2026-07-18T16:16:03.744018Z"
 lastmod: "2026-07-18T17:15:08.536002Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "إطار رياضي لوصف الهياكل المعقدة من خلال تحليل الأنماط داخل مساحات البيانات."
 ---
-
 ## Definition
 
 توفر نظرية الأنماط أساساً رياضياً صارماً لفهم كيفية وصف الكائنات والظواهر المعقدة من خلال الأنماط. وتفترض أن أي كائن يمكن تميزه من خلال نمطه الخاص.

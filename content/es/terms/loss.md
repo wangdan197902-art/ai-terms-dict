@@ -1,23 +1,23 @@
 ---
-title: "Loss"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Loss
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /es/terms/loss/
-date: "2026-07-18T10:24:25.267781Z"
-lastmod: "2026-07-18T11:44:44.744823Z"
+slug: loss
+date: '2026-07-18T10:24:25.267781Z'
+lastmod: '2026-07-18T11:44:44.744823Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un valor numérico que cuantifica el error entre las predicciones de un modelo y los valores objetivo reales."
+source: agnes_llm
+status: published
+language: es
+description: Un valor numérico que cuantifica el error entre las predicciones de un
+  modelo y los valores objetivo reales.
 ---
-
 ## Definition
 
 Las funciones de pérdida, también conocidas como funciones de costo, miden qué tan bien coinciden las predicciones de un modelo de aprendizaje automático con la verdad fundamental durante el entrenamiento. El objetivo del algoritmo de optimización es minimizar esta

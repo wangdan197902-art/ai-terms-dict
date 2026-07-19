@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /th/terms/knowledge_based_configuration/
 date: "2026-07-18T16:01:29.968297Z"
 lastmod: "2026-07-18T16:38:07.622984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กระบวนการอัตโนมัติที่ใช้ฐานความรู้เฉพาะโดเมน เพื่อสร้างการกำหนดค่าผลิตภัณฑ์ที่ถูกต้องตามข้อจำกัดของผู้ใช้"
 ---
-
 ## Definition
 
 แนวทางนี้ใช้เทคนิคการตอบสนองข้อจำกัดภายในฐานความรู้ เพื่อให้แน่ใจว่าผลิตภัณฑ์ที่ประกอบขึ้นตรงตามข้อกำหนดทางเทคนิคและความต้องการของลูกค้าทั้งหมด โดยป้องกัน组合ที่ผิดกฎหมายผ่านการเข้ารหัสกฎและข้อจำกัด

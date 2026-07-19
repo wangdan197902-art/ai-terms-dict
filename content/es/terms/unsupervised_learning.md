@@ -1,23 +1,24 @@
 ---
-title: "Aprendizaje No Supervisado"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: Aprendizaje No Supervisado
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /es/terms/unsupervised_learning/
-date: "2026-07-18T10:32:33.444950Z"
-lastmod: "2026-07-18T11:44:44.768224Z"
+slug: unsupervised_learning
+date: '2026-07-18T10:32:33.444950Z'
+lastmod: '2026-07-18T11:44:44.768224Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica de aprendizaje automático en la que los modelos aprenden patrones a partir de datos no etiquetados sin guía explícita ni respuestas correctas."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica de aprendizaje automático en la que los modelos aprenden
+  patrones a partir de datos no etiquetados sin guía explícita ni respuestas correctas.
 ---
-
 ## Definition
 
 El aprendizaje no supervisado identifica estructuras ocultas, clústeres o distribuciones dentro de los datos en bruto de forma autónoma. Los métodos comunes incluyen el agrupamiento, la reducción de dimensionalidad y el modelado generativo. Se

@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /hu/terms/non_human/
 date: "2026-07-18T16:15:01.556759Z"
 lastmod: "2026-07-18T17:15:09.818124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI etikájában és szociológiában a 'nem emberi' kifejezés azokra a mesterséges entitásokra vagy rendszerekre utal, amelyek rendelkeznek ügynökséggel, intelligenciával vagy társas jelenléttel, de hiá"
 ---
-
 ## Definition
 
 Ezt a kifejezést gyakran használják az AI ügynökök, robotok és virtuális asszisztensek jogainak, felelősségeinek és társadalmi integrációját érintő vitákban. Kiemeli a különbséget a biológiai ember...

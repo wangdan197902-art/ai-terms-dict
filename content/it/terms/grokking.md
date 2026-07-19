@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /it/terms/grokking/
 date: "2026-07-18T16:02:28.259990Z"
 lastmod: "2026-07-18T17:15:08.631824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un fenomeno per cui le reti neurali generalizzano improvvisamente e bene dopo un addestramento prolungato su piccoli dataset, ben oltre il punto di memorizzazione."
 ---
-
 ## Definition
 
 Il grokking si riferisce a un comportamento controintuitivo osservato nel deep learning, in cui un modello continua a sovradattarsi (overfitting) ai dati di addestramento per un lungo periodo, mostrando una scarsa capacità di generalizzazione, prima di raggiungere improvvisamente una precisione elevata sia sui dati di addestramento che su quelli di test. Questo suggerisce che la rete sta imparando rappresentazioni più generali piuttosto che memorizzare semplicemente i dati.

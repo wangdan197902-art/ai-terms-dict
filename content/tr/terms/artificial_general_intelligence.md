@@ -1,23 +1,24 @@
 ---
-title: "Genel Yapay Zeka"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Genel Yapay Zeka
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /tr/terms/artificial_general_intelligence/
-date: "2026-07-18T15:41:23.656993Z"
-lastmod: "2026-07-18T16:38:07.273504Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:41:23.656993Z'
+lastmod: '2026-07-18T16:38:07.273504Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kapsamlı bir görev yelpazesinde insan seviyesinde anlayabilen, öğrenebilen ve bilgiyi uygulayabilen varsayımsal bir yapay zeka türüdür."
+source: agnes_llm
+status: published
+language: tr
+description: Kapsamlı bir görev yelpazesinde insan seviyesinde anlayabilen, öğrenebilen
+  ve bilgiyi uygulayabilen varsayımsal bir yapay zeka türüdür.
 ---
-
 ## Definition
 
 Genel Yapay Zeka (GYA), bir insanın yapabileceği herhangi bir entelektüel görevi yerine getirebilen bir yapay zeka türünü ifade eder. Satranç veya görüntü tanıma gibi belirli görevlerde uzmanlaşmış dar yapay zekanın aksine, genel yapay zeka çok yönlüdür.

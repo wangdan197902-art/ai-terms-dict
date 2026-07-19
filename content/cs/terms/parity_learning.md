@@ -1,23 +1,24 @@
 ---
-title: "Učení parity"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Učení parity
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /cs/terms/parity_learning/
-date: "2026-07-18T16:12:16.282870Z"
-lastmod: "2026-07-18T17:15:09.188078Z"
+slug: parity_learning
+date: '2026-07-18T16:12:16.282870Z'
+lastmod: '2026-07-18T17:15:09.188078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Teoretický problém strojového učení zaměřený na predikci součtu XOR binárních vstupů, používaný k testování vyjadřovací schopnosti modelu."
+source: agnes_llm
+status: published
+language: cs
+description: Teoretický problém strojového učení zaměřený na predikci součtu XOR binárních
+  vstupů, používaný k testování vyjadřovací schopnosti modelu.
 ---
-
 ## Definition
 
 Učení parity je benchmarkovým problémem v teorii strojového učení, kde cílem je předpovědět paritu (součet XOR) sady binárních vstupních proměnných. Je známý svou obtížností pro standardní feedforwardové sítě bez dostatečné hloubky nebo paměti.

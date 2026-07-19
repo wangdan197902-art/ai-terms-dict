@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /vi/terms/percept/
 date: "2026-07-18T16:07:15.821624Z"
 lastmod: "2026-07-18T16:38:07.792186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Biểu diễn tâm lý hoặc kết quả đã được diễn giải của đầu vào giác quan sau khi được xử lý bởi bộ phận cảm nhận."
 ---
-
 ## Definition
 
 Tri giác là biểu diễn nội bộ của một kích thích bên ngoài sau khi nó đã được xử lý bởi hệ thống cảm nhận. Trong AI, điều này tương ứng với đầu ra dữ liệu có cấu trúc từ quá trình xử lý tín hiệu mức thấp.

@@ -1,23 +1,24 @@
 ---
-title: "Özetleme"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Özetleme
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /tr/terms/summarization/
-date: "2026-07-18T15:37:31.383481Z"
-lastmod: "2026-07-18T16:38:07.264296Z"
+slug: summarization
+date: '2026-07-18T15:37:31.383481Z'
+lastmod: '2026-07-18T16:38:07.264296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ana bilgileri koruyarak daha uzun bir metnin kısa ve tutarlı bir özetini oluşturan bir Doğal Dil İşleme (NLP) görevi."
+source: agnes_llm
+status: published
+language: tr
+description: Ana bilgileri koruyarak daha uzun bir metnin kısa ve tutarlı bir özetini
+  oluşturan bir Doğal Dil İşleme (NLP) görevi.
 ---
-
 ## Definition
 
 Metin özetleme, kritik anlamı kaybetmeden büyük hacimli metinleri daha kısa versiyonlara indirger. Özetleme, kaynak metinden önemli cümleleri seçen çıkarımsal (extractive) veya yeni cümleler üreten soyutlayıcı (abstractive) olabilir.

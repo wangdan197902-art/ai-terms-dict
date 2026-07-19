@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /ja/terms/qwen3_5_moe/
 date: "2026-07-18T11:29:50.787415Z"
 lastmod: "2026-07-18T11:44:45.136828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "高効率性を目的とした、Qwen3シリーズの仮説上または将来のスプース混合专家（MoE）バリアント。"
 ---
-
 ## Definition
 
 この用語は、おそらく混合专家（MoE）設計を活用するQwenファミリー内の特殊なアーキテクチャを指します。そのようなモデルでは、ニューラルネットワークのパラメータ（专家）の一部のみがアクティブになります。

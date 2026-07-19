@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /fr/terms/fine_tuning/
 date: "2026-07-18T07:43:15.896511Z"
 lastmod: "2026-07-18T11:44:44.589230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus d'adaptation d'un modèle pré-entraîné à une tâche spécifique en aval à l'aide d'un ensemble de données plus petit."
 ---
-
 ## Definition
 
 L'affinage consiste à prendre un modèle déjà entraîné sur un grand ensemble de données général et à l'entraîner davantage sur un ensemble de données spécialisé. Cela permet au modèle de conserver ses connaissances générales tout en acquérant des compétences spécifiques à la tâche...

@@ -1,23 +1,24 @@
 ---
-title: "Hàm dự đoán tuyến tính"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Hàm dự đoán tuyến tính
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /vi/terms/linear_predictor_function/
-date: "2026-07-18T16:00:47.489506Z"
-lastmod: "2026-07-18T16:38:07.776367Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:00:47.489506Z'
+lastmod: '2026-07-18T16:38:07.776367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một hàm toán học tính tổ hợp tuyến tính của các biến đầu vào để dự đoán kết quả."
+source: agnes_llm
+status: published
+language: vi
+description: Một hàm toán học tính tổ hợp tuyến tính của các biến đầu vào để dự đoán
+  kết quả.
 ---
-
 ## Definition
 
 Trong mô hình thống kê và học máy, một hàm dự đoán tuyến tính biểu diễn tổng có trọng số của các đặc trưng đầu vào cộng với một thành phần thiên kiến (bias). Nó đóng vai trò là thành phần cốt lõi trong các mô hình tuyến tính tổng quát (GLM).

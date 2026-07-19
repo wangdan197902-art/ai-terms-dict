@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /he/terms/document_classification/
 date: "2026-07-18T15:54:59.427143Z"
 lastmod: "2026-07-18T17:15:09.534903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך של סיוט מסמכי טקסט לקבוצות מוגדרות מראש על בסיס תוכנם."
 ---
-
 ## Definition
 
 מיון מסמכים הוא משימה יסודית בעיבוד שפה טבעית שבה אלגוריתמים מקצים תוויות לנתוני טקסט לא מאורגנים. התהליך כולל חילוץ תכונות מהמסמכים והתאמתן לקטגוריות מוגדרות.

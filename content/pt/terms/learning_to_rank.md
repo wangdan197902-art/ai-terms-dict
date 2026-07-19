@@ -7,8 +7,6 @@ tags: ["search", "ranking", "applications"]
 difficulty: 4
 weight: 1
 slug: "learning_to_rank"
-aliases:
-  - /pt/terms/learning_to_rank/
 date: "2026-07-18T15:08:07.232633Z"
 lastmod: "2026-07-18T15:51:59.507179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O aprendizado para classificação é uma técnica de aprendizado de máquina supervisionada usada para ordenar itens de acordo com sua relevância para uma determinada consulta, comumente usada em mecanism"
 ---
-
 ## Definition
 
 Ao contrário da classificação ou regressão padrão, o aprendizado para classificação foca na previsão de uma ordem relativa de itens. Ele usa abordagens pareadas, em lista ou pontuais para minimizar erros de classificação como NDCG.

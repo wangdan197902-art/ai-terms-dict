@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /ro/terms/gradient_descent/
 date: "2026-07-18T15:36:05.965867Z"
 lastmod: "2026-07-18T17:15:09.614759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un algoritm iterativ de optimizare utilizat pentru minimizarea unei funcții de pierdere prin ajustarea parametrilor modelului."
 ---
-
 ## Definition
 
 Descendența gradientului este un algoritm iterativ de ordinul întâi pentru găsirea unui minim local al unei funcții derivabile. În învățarea automată, acesta actualizează ponderile modelului în direcția opusă gradientului funcției de cost.

@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /fi/terms/model_compression/
 date: "2026-07-18T16:11:18.240340Z"
 lastmod: "2026-07-18T17:15:09.435236Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mallikompressio viittaa tekniikoihin, jotka pienentävät koneoppimismallien kokoa ja laskennallisia vaatimuksia."
 ---
-
 ## Definition
 
 Tähän kategoriaan kuuluvat menetelmät kuten leikkaus (pruning), kvantisointi ja tiedon distillointi, joiden tavoitteena on supistaa mallin kokoa säilyttäen samalla suorituskyky. Mallikompressio on olennaista monimutkaisten tekoälymallien käyttöönotossa resurssirajoitetuissa ympäristöissä.

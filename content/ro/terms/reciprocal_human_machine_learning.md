@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /ro/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:18:55.885779Z"
 lastmod: "2026-07-18T17:15:09.697883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un paradigmă de învățare colaborativă în care oamenii și mașinile se predau și învață continuu unul de la celălalt pentru a îmbunătăți performanța."
 ---
-
 ## Definition
 
 Această abordare depășește simpla etichetare umană în buclă (human-in-the-loop). Implică un transfer de cunoștințe bidirecțional: oamenii corectează erorile modelului, în timp ce modelul îi ajută pe oameni să identifice tipare sau să automatizeze sarcini repetitive, creând un ciclu virtuos de îmbunătățire continuă.

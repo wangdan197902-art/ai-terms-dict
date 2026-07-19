@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /ar/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:44:49.214774Z"
 lastmod: "2026-07-18T17:15:08.476508Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ديناميكية تنافسية حيث تطور الدول أو المنظمات قدرات الذكاء الاصطناعي بسرعة لتحقيق التفوق الاستراتيجي."
 ---
-
 ## Definition
 
 يشير سباق التسلح في مجال الذكاء الاصطناعي إلى المنافسة الشديدة بين الدول والشركات ومؤسسات البحث لتحقيق الهيمنة في تقنيات الذكاء الاصطناعي. يدفع هذا التنافس نحو الابتكار السريع...

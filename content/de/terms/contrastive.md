@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /de/terms/contrastive/
 date: "2026-07-18T10:48:55.892249Z"
 lastmod: "2026-07-18T11:44:44.870787Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Kontrastives Lernen ist eine selbstüberwachte Technik, die Modelle trainiert, um zwischen ähnlichen und unähnlichen Datenpaaren zu unterscheiden."
 ---
-
 ## Definition
 
 Diese Methode drängt das Modell dazu, Embeddings positiver Paare (ähnliche Elemente) näher zusammenzuziehen und negative Paare (unähnliche Elemente) im latenten Raum weiter voneinander zu entfernen. Sie wird häufig in der Computer Vision und im NLP eingesetzt, um robuste Repräsentationen ohne große gelabelte Datensätze zu lernen.

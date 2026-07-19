@@ -1,23 +1,24 @@
 ---
-title: "Akıllı Veritabanı"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Akıllı Veritabanı
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /tr/terms/intelligent_database/
-date: "2026-07-18T15:58:45.947565Z"
-lastmod: "2026-07-18T16:38:07.322337Z"
+slug: intelligent_database
+date: '2026-07-18T15:58:45.947565Z'
+lastmod: '2026-07-18T16:38:07.322337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Veri yönetimini, sorgu optimizasyonunu ve içgörü üretimini otomatikleştirmek için yapay zeka yeteneklerini içeren bir veritabanı sistemi."
+source: agnes_llm
+status: published
+language: tr
+description: Veri yönetimini, sorgu optimizasyonunu ve içgörü üretimini otomatikleştirmek
+  için yapay zeka yeteneklerini içeren bir veritabanı sistemi.
 ---
-
 ## Definition
 
 Akıllı bir veritabanı, basit depolama ve geri alma işlevlerinin ötesinde standart veritabanı işlevselliğini artırmak için makine öğrenmesi ve yapay zekadan yararlanır. Sorgu performansını otomatik olarak optimize edebilir, kullanım

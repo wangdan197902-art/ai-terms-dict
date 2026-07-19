@@ -1,23 +1,24 @@
 ---
-title: "Da Testo e Immagine a Testo"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Da Testo e Immagine a Testo
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /it/terms/image_text_to_text/
-date: "2026-07-18T16:04:25.371073Z"
-lastmod: "2026-07-18T17:15:08.636072Z"
+slug: image_text_to_text
+date: '2026-07-18T16:04:25.371073Z'
+lastmod: '2026-07-18T17:15:08.636072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una capacità multimodale dell'IA che genera descrizioni testuali o risposte basate su immagini di input e prompt testuali opzionali."
+source: agnes_llm
+status: published
+language: it
+description: Una capacità multimodale dell'IA che genera descrizioni testuali o risposte
+  basate su immagini di input e prompt testuali opzionali.
 ---
-
 ## Definition
 
 Il processo Da Testo e Immagine a Testo si riferisce ai modelli che elaborano input visivi insieme a query testuali per produrre output in linguaggio naturale coerenti. Questi sistemi, spesso chiamati Modelli Visivo-Linguistici (VLM), combinano la comprensione visiva con la generazione linguistica per interpretare il contesto dell'immagine e rispondere a domande o fornire didascalie accurate.

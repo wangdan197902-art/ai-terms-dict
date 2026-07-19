@@ -1,23 +1,24 @@
 ---
-title: "Funktionsskalering"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Funktionsskalering
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /da/terms/feature_scaling/
-date: "2026-07-18T15:55:46.725252Z"
-lastmod: "2026-07-18T17:15:09.288361Z"
+slug: feature_scaling
+date: '2026-07-18T15:55:46.725252Z'
+lastmod: '2026-07-18T17:15:09.288361Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at normalisere intervallet for uafhængige variabler eller funktioner i data for at sikre ensartethed i størrelsesorden."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at normalisere intervallet for uafhængige variabler eller
+  funktioner i data for at sikre ensartethed i størrelsesorden.
 ---
-
 ## Definition
 
 Funktionsskalering standardiserer intervallet for inputvariabler for at forhindre, at funktioner med større størrelsesorden dominerer læringsprocessen. Almindelige metoder inkluderer normalisering (min-maks-skaling) og st

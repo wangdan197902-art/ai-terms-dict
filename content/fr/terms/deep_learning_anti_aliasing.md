@@ -1,23 +1,24 @@
 ---
-title: "Anticrénelage par apprentissage profond"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: Anticrénelage par apprentissage profond
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /fr/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T11:12:54.770667Z"
-lastmod: "2026-07-18T11:44:45.241010Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T11:12:54.770667Z'
+lastmod: '2026-07-18T11:44:45.241010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Des techniques utilisant des réseaux de neurones pour réduire les artefacts visuels tels que les bords en escalier dans les images rendues ou les caractéristiques sous-échantillonnées."
+source: agnes_llm
+status: published
+language: fr
+description: Des techniques utilisant des réseaux de neurones pour réduire les artefacts
+  visuels tels que les bords en escalier dans les images rendues ou les caractéristiques
+  sous-échantillonnées.
 ---
-
 ## Definition
 
 L'anticrénelage par apprentissage profond fait référence aux méthodes qui emploient des réseaux de neurones pour atténuer les artefacts de crénelage, qui se produisent lorsque des signaux à haute fréquence sont échantillonnés à des taux insuffisants. En infographie et en vision par ordinateur, cela permet d'améliorer la qualité visuelle des images générées ou traitées.

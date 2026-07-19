@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /hu/terms/is_this_what_we_want/
 date: "2026-07-18T16:06:42.857170Z"
 lastmod: "2026-07-18T17:15:09.798180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy kritikus etikai keretrendszer, amelyet az AI rendszerek társadalmi értékekkel, méltányossággal és potenciális káros következményekkel szembeni felmérésére használnak."
 ---
-
 ## Definition
 
 Ez a kifejezés egy döntő kérdést jelent az AI etikában és irányításban, amely arra ösztönzi a érdekelt feleket, hogy felmérjék, a telepített AI technológiák összhangban vannak-e az emberi értékekkel és a közérdekkal. Ez magában foglalja a technológiák társadalmi hatásának alapos vizsgálatát és az etikai kockázatok kezelését.

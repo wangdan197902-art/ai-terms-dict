@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /nl/terms/scale/
 date: "2026-07-18T15:29:41.422143Z"
 lastmod: "2026-07-18T17:15:08.692807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Schaal verwijst naar de omvang van gegevens, parameters of rekencapaciteit die worden gebruikt in machine learning-modellen."
 ---
-
 ## Definition
 
 In kunstmatige intelligentie houdt schalen doorgaans in dat de grootte van datasets, modelparameters of rekenkracht wordt vergroot om de prestaties te verbeteren. Dit concept is centraal in deep learning, waarbij grote

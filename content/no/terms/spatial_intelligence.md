@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /no/terms/spatial_intelligence/
 date: "2026-07-18T16:16:47.773406Z"
 lastmod: "2026-07-18T16:38:07.048700Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "AI-systemers evne til å forstå, resonnere om og navigere i tre-dimensjonale miljøer."
 ---
-
 ## Definition
 
 Romlig intelligens refererer til evnen til kunstig intelligens-modeller til å oppfatte, tolke og manipulere romlige relasjoner i fysiske eller virtuelle miljøer. Det involverer forståelse av geometriske strukturer og dybderelasjoner.

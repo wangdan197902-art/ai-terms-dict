@@ -1,23 +1,24 @@
 ---
-title: "Prinzip der Rationalität"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Prinzip der Rationalität
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /de/terms/principle_of_rationality/
-date: "2026-07-18T11:28:15.997845Z"
-lastmod: "2026-07-18T11:44:44.976621Z"
+slug: principle_of_rationality
+date: '2026-07-18T11:28:15.997845Z'
+lastmod: '2026-07-18T11:44:44.976621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die grundlegende Annahme, dass intelligente Akteure basierend auf verfügbaren Informationen ihre erwartete Nutzenmaximierung anstreben."
+source: agnes_llm
+status: published
+language: de
+description: Die grundlegende Annahme, dass intelligente Akteure basierend auf verfügbaren
+  Informationen ihre erwartete Nutzenmaximierung anstreben.
 ---
-
 ## Definition
 
 Dieses Prinzip geht davon aus, dass die Handlungen eines Akteurs so gewählt werden sollten, dass sie sein erwartetes Leistungsmaß maximieren, gegeben seine Wahrnehmungseingaben und Vorwissen. Es dient als Fundament für die Entscheidungstheorie.

@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /cs/terms/experiments/
 date: "2026-07-18T15:24:50.019839Z"
 lastmod: "2026-07-18T17:15:09.068143Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kontrolované postupy prováděné za účelem testování hypotéz, hodnocení výkonu modelu nebo objevování nových schopností AI."
 ---
-
 ## Definition
 
 Experimenty v AI zahrnují systematické testování proměnných za účelem pochopení příčinně-následných vztahů uvnitř modelů strojového učení. Tyto postupy umožňují vývojářům porovnávat různé hyperparametry...

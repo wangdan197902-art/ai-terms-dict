@@ -1,23 +1,24 @@
 ---
-title: "Podpřizpůsobení"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: Podpřizpůsobení
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /cs/terms/underfitting/
-date: "2026-07-18T16:21:58.899676Z"
-lastmod: "2026-07-18T17:15:09.209350Z"
+slug: underfitting
+date: '2026-07-18T16:21:58.899676Z'
+lastmod: '2026-07-18T17:15:09.209350Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Stav, kdy se model strojového učení nedaří zachytit základní trendy ve výukových datech."
+source: agnes_llm
+status: published
+language: cs
+description: Stav, kdy se model strojového učení nedaří zachytit základní trendy ve
+  výukových datech.
 ---
-
 ## Definition
 
 K podpřizpůsobení dochází, když statistický model nebo algoritmus strojového učení nedokáže přesně aproximovat funkci mapující vstupy na výstupy. K tomu obvykle dochází, když je model příliš jednoduchý na to, aby...

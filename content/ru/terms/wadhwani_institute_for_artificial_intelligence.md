@@ -1,23 +1,25 @@
 ---
-title: "Институт искусственного интеллекта им. Вадхвани"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: Институт искусственного интеллекта им. Вадхвани
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /ru/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T16:20:10.947216Z"
-lastmod: "2026-07-18T16:38:07.212794Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T16:20:10.947216Z'
+lastmod: '2026-07-18T16:38:07.212794Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Институт искусственного интеллекта им. Вадхвани — это исследовательская организация, сосредоточенная на применении решений ИИ для решения критических проблем в здравоохранении и сельском хозяйстве раз"
+source: agnes_llm
+status: published
+language: ru
+description: Институт искусственного интеллекта им. Вадхвани — это исследовательская
+  организация, сосредоточенная на применении решений ИИ для решения критических проблем
+  в здравоохранении и сельском хозяйстве раз
 ---
-
 ## Definition
 
 Созданный благодаря значительному пожертвованию Фонда Вадхвани, этот институт использует передовые технологии машинного обучения и компьютерного зрения для решения масштабных социальных проблем. Его проекты направлены на...

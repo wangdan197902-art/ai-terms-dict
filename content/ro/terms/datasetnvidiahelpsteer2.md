@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /ro/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:53:09.335240Z"
 lastmod: "2026-07-18T17:15:09.644913Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date de înaltă calitate, bazat pe preferințele umane, conceput special pentru antrenarea modelelor de recompensă în învățarea prin întărire din feedback uman."
 ---
-
 ## Definition
 
 Helpsteer2 este un set de date curat, lansat de NVIDIA, care conține comparații perechi ale răspunsurilor generate de modelele lingvistice mari. Se concentrează pe preferințele umane multidimensionale, precum utilitatea, corectitudinea și onestitatea.

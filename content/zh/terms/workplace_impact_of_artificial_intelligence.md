@@ -1,23 +1,23 @@
 ---
-title: "人工智能对工作场所的影响"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: 人工智能对工作场所的影响
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /zh/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T11:38:14.659808Z"
-lastmod: "2026-07-18T11:44:45.569321Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T11:38:14.659808Z'
+lastmod: '2026-07-18T11:44:45.569321Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "AI 技术对专业环境中的就业结构、职位角色、生产力以及人机协作产生的影响。"
+source: agnes_llm
+status: published
+language: zh
+description: AI 技术对专业环境中的就业结构、职位角色、生产力以及人机协作产生的影响。
 ---
-
 ## Definition
 
 这一概念涵盖了 AI 对劳动力市场的变革性影响，包括常规任务的自动化、新职业类别的创造以及所需技能组合的转变。AI 提高了生产力，同时也引发了关于就业安全和技能再培训的讨论。

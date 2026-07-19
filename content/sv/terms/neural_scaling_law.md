@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /sv/terms/neural_scaling_law/
 date: "2026-07-18T16:11:33.741079Z"
 lastmod: "2026-07-18T17:15:09.031157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Empiriska samband som förutspår förbättringar i modellprestanda baserat på ökningar i data, parametrar eller beräkningsresurser."
 ---
-
 ## Definition
 
 Skalningslagar för neurala nätverk beskriver det förutsägbara potenslagssambandet mellan en modells prestanda och dess skala, inklusive datamängdens storlek, antal parametrar och beräkningsbudget. Dessa lagar antyder att...

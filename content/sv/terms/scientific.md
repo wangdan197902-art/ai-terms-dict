@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /sv/terms/scientific/
 date: "2026-07-18T15:30:48.229892Z"
 lastmod: "2026-07-18T17:15:08.951329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Vetenskaplig inom AI syftar på tillämpningen av strikta empiriska metoder, hypotesprövning och reproducerbarhet i forskning."
 ---
-
 ## Definition
 
 Den vetenskapliga approachen inom artificiell intelligens betonar evidensbaserad utveckling och validering. Den involverar att formulera hypoteser om modellbeteende, genomföra kontrollerade experiment och

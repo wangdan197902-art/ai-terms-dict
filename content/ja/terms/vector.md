@@ -1,23 +1,23 @@
 ---
-title: "ベクトル"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: ベクトル
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /ja/terms/vector/
-date: "2026-07-18T11:01:42.026059Z"
-lastmod: "2026-07-18T11:44:45.059178Z"
+slug: vector
+date: '2026-07-18T11:01:42.026059Z'
+lastmod: '2026-07-18T11:44:45.059178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "大きさ（マグニチュード）と方向の両方を持つ量を表す数学的オブジェクト。AIでは、高次元空間内のデータポイントをエンコードするために頻繁に使用されます。"
+source: agnes_llm
+status: published
+language: ja
+description: 大きさ（マグニチュード）と方向の両方を持つ量を表す数学的オブジェクト。AIでは、高次元空間内のデータポイントをエンコードするために頻繁に使用されます。
 ---
-
 ## Definition
 
 人工知能において、ベクトルは情報を数値的に表現するために使用される基本的なデータ構造です。これは、エンティティの特徴をマッピングする順序付けられた数のリスト（要素）で構成されます。

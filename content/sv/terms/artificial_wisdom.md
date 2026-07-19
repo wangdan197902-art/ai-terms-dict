@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /sv/terms/artificial_wisdom/
 date: "2026-07-18T15:46:12.821951Z"
 lastmod: "2026-07-18T17:15:08.977368Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Utvidgningen av AI bortom intelligens för att inkludera omdöme, etik och kontextuell förståelse för sund beslutsfattande."
 ---
-
 ## Definition
 
 Artificiell visdom (AW) är ett växande koncept som strävar efter att komplettera artificiell intelligens med mänskliga värderingar, etiska överväganden och långsiktigt strategiskt omdöme. Medan AI fokuserar på effektivitet och dataanalys, lägger AW till dimensioner av moral, hållbarhet och samhällspåverkan för att säkerställa att tekniken används på ett ansvarsfullt sätt.

@@ -1,23 +1,23 @@
 ---
-title: "Qwen2"
-term_id: "qwen2"
-category: "basic_concepts"
-subcategory: ""
-tags: ["version-history", "model-generation", "performance"]
+title: Qwen2
+term_id: qwen2
+category: basic_concepts
+subcategory: ''
+tags:
+- Version History
+- Model Generation
+- performance
 difficulty: 3
 weight: 1
-slug: "qwen2"
-aliases:
-  - /ja/terms/qwen2/
-date: "2026-07-18T11:29:38.686677Z"
-lastmod: "2026-07-18T11:44:45.136579Z"
+slug: qwen2
+date: '2026-07-18T11:29:38.686677Z'
+lastmod: '2026-07-18T11:44:45.136579Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Qwen2は、パフォーマンスが向上したQwen大規模言語モデルシリーズの第2世代主要イテレーションです。"
+source: agnes_llm
+status: published
+language: ja
+description: Qwen2は、パフォーマンスが向上したQwen大規模言語モデルシリーズの第2世代主要イテレーションです。
 ---
-
 ## Definition
 
 Qwen2は、アーキテクチャの強化とトレーニングデータの拡大を導入したQwenモデルファミリーの2番目の重要な世代を示します。このバージョンは、多言語サポートにおいて優れた能力を提供します。

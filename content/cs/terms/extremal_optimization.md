@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /cs/terms/extremal_optimization/
 date: "2026-07-18T15:56:45.975101Z"
 lastmod: "2026-07-18T17:15:09.128786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Extrémální optimalizace je heuristický vyhledávací algoritmus inspirovaný samoorganizovanou kritičností, navržený k řešení kombinatorických optimalizačních problémů iterativním odstraňováním nejhůře v"
 ---
-
 ## Definition
 
 Na rozdíl od genetických algoritmů, které udržují populaci, EO pracuje s jediným řešením. Identifikuje komponentu, která přispívá nejméně k celkové fitness, a nahrazuje ji náhodnou alternativou.

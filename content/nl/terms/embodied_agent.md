@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /nl/terms/embodied_agent/
 date: "2026-07-18T15:53:53.249423Z"
 lastmod: "2026-07-18T17:15:08.741151Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een belichaamd agent is een AI-systeem dat interactie heeft met zijn omgeving via een fysiek lichaam of sensorimotorisch apparaat."
 ---
-
 ## Definition
 
 In tegenstelling tot 'disembodied' AI die abstracte gegevens verwerkt, leren en handelen belichaamde agenten binnen een fysieke context. Ze vertrouwen op sensorische input en motorische output. Dit paradigma is centraal in de robotica en autonome systemen.

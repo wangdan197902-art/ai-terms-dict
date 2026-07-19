@@ -1,23 +1,24 @@
 ---
-title: "Tidigare kunskap för mönsterigenkänning"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Tidigare kunskap för mönsterigenkänning
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /sv/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:14:13.246099Z"
-lastmod: "2026-07-18T17:15:09.037932Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:14:13.246099Z'
+lastmod: '2026-07-18T17:15:09.037932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Befintlig information eller antaganden som integreras i maskininlärningsmodeller för att förbättra noggrannheten vid mönstergenkänning."
+source: agnes_llm
+status: published
+language: sv
+description: Befintlig information eller antaganden som integreras i maskininlärningsmodeller
+  för att förbättra noggrannheten vid mönstergenkänning.
 ---
-
 ## Definition
 
 Tidigare kunskap avser domänspecifika insikter, begränsningar eller historisk data som inkluderas i algoritmer innan träningen påbörjas. Detta hjälper till att styra modellen mot trovärdiga lösningar, vilket minskar risken för överanpassning.

@@ -1,23 +1,24 @@
 ---
-title: "Învățarea modelului de acțiune"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Învățarea modelului de acțiune
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /ro/terms/action_model_learning/
-date: "2026-07-18T15:42:47.695889Z"
-lastmod: "2026-07-18T17:15:09.624411Z"
+slug: action_model_learning
+date: '2026-07-18T15:42:47.695889Z'
+lastmod: '2026-07-18T17:15:09.624411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de învățare prin întărire în care un agent învață dinamica mediului observând efectele propriilor acțiuni."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de învățare prin întărire în care un agent învață dinamica
+  mediului observând efectele propriilor acțiuni.
 ---
-
 ## Definition
 
 Învățarea modelului de acțiune implică construirea de către un agent a unei reprezentări interne a modului în care acțiunile sale tranziționează mediul dintr-o stare în alta. Spre deosebire de observația pasivă, această metodă exploatează interacțiunea directă pentru a construi o înțelegere causală a mediului.

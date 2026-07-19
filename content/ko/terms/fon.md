@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /ko/terms/fon/
 date: "2026-07-18T15:56:02.182974Z"
 lastmod: "2026-07-18T16:38:06.841288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "폰(Fon)은 인공지능 시스템의 설계와 운영을 안내하는 기초 원칙과 이론적 토대를 참조합니다."
 ---
-
 ## Definition
 
 AI 용어의 맥락에서 '폰(Fon)'은 종종 AI 모델이 입력을 해석하고 출력을 생성하는 방식을 정의하는 핵심 기능적 존재론(functional ontology) 또는 기초 논리 구조를 설명하는 데 사용됩니다. 이는 시스템의 근본적인 작동 원리를 이해하는 데 중요합니다.

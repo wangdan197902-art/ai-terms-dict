@@ -1,23 +1,24 @@
 ---
-title: "Penglihatan Komputer (Computer Vision)"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Penglihatan Komputer (Computer Vision)
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /id/terms/vision/
-date: "2026-07-18T15:36:45.015811Z"
-lastmod: "2026-07-18T16:38:07.421212Z"
+slug: vision
+date: '2026-07-18T15:36:45.015811Z'
+lastmod: '2026-07-18T16:38:07.421212Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Penglihatan Komputer adalah bidang AI yang berfokus pada kemampuan komputer untuk menafsirkan dan memahami informasi visual dari dunia nyata."
+source: agnes_llm
+status: published
+language: id
+description: Penglihatan Komputer adalah bidang AI yang berfokus pada kemampuan komputer
+  untuk menafsirkan dan memahami informasi visual dari dunia nyata.
 ---
-
 ## Definition
 
 Penglihatan Komputer (CV) adalah cabang kecerdasan buatan yang melatih komputer untuk mengekstrak informasi bermakna dari gambar digital, video, dan input visual lainnya. Bidang ini melibatkan pengembangan algoritma

@@ -1,23 +1,23 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /zh/terms/facebook/
-date: "2026-07-18T11:17:01.609921Z"
-lastmod: "2026-07-18T11:44:45.497913Z"
+slug: facebook
+date: '2026-07-18T11:17:01.609921Z'
+lastmod: '2026-07-18T11:44:45.497913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一家主要的社交媒体平台和科技公司，通过其开源研究和大规模数据生态系统对人工智能发展产生重大影响。"
+source: agnes_llm
+status: published
+language: zh
+description: 一家主要的社交媒体平台和科技公司，通过其开源研究和大规模数据生态系统对人工智能发展产生重大影响。
 ---
-
 ## Definition
 
 Facebook（现隶属于Meta Platforms Inc.）是人工智能研究与应用的领军力量。它拥有海量的用户生成数据，这些数据被用于训练机器学习模型。

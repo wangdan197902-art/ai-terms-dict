@@ -1,23 +1,24 @@
 ---
-title: "Обучение предпочтениям"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Обучение предпочтениям
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /ru/terms/preference_learning/
-date: "2026-07-18T16:10:35.660102Z"
-lastmod: "2026-07-18T16:38:07.192670Z"
+slug: preference_learning
+date: '2026-07-18T16:10:35.660102Z'
+lastmod: '2026-07-18T16:38:07.192670Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, обучающая модели согласовывать выходные данные с человеческими предпочтениями с использованием сравнительной обратной связи."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, обучающая модели согласовывать выходные данные с человеческими
+  предпочтениями с использованием сравнительной обратной связи.
 ---
-
 ## Definition
 
 Обучение предпочтениям сосредоточено на обучении моделей различать хорошие и плохие выходные данные на основе суждений человека, а не абсолютных меток. Обычно оно включает сбор пар ответов, где один ответ считается предпочтительнее другого, что позволяет модели формировать функцию вознаграждения, отражающую человеческие ценности и вкусы.

@@ -1,23 +1,24 @@
 ---
-title: "LLM-as-a-Judge (Языковая модель как судья)"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM-as-a-Judge (Языковая модель как судья)
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /ru/terms/llm_as_a_judge/
-date: "2026-07-18T16:00:35.346678Z"
-lastmod: "2026-07-18T16:38:07.173201Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:00:35.346678Z'
+lastmod: '2026-07-18T16:38:07.173201Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод оценки выходных данных больших языковых моделей (LLM) с использованием другой LLM для выставления оценок или ранжирования ответов по критериям."
+source: agnes_llm
+status: published
+language: ru
+description: Метод оценки выходных данных больших языковых моделей (LLM) с использованием
+  другой LLM для выставления оценок или ранжирования ответов по критериям.
 ---
-
 ## Definition
 
 LLM-as-a-Judge — это парадигма оценки, при которой большая языковая модель выступает в качестве автоматизированного оценщика качества выходных данных других моделей. Вместо того чтобы полагаться исключительно на аннотаторов-людей или...

@@ -1,23 +1,24 @@
 ---
-title: "REST API"
-term_id: "rest_api"
-category: "engineering_practice"
-subcategory: ""
-tags: ["web-services", "architecture", "http"]
+title: REST API
+term_id: rest_api
+category: engineering_practice
+subcategory: ''
+tags:
+- Web Services
+- architecture
+- http
 difficulty: 2
 weight: 1
-slug: "rest_api"
-aliases:
-  - /cs/terms/rest_api/
-date: "2026-07-18T15:38:15.661175Z"
-lastmod: "2026-07-18T17:15:09.092608Z"
+slug: rest_api
+date: '2026-07-18T15:38:15.661175Z'
+lastmod: '2026-07-18T17:15:09.092608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Representational State Transfer (REST) je architektonický styl pro navrhování síťových aplikací, který se opírá o standardní metody HTTP."
+source: agnes_llm
+status: published
+language: cs
+description: Representational State Transfer (REST) je architektonický styl pro navrhování
+  síťových aplikací, který se opírá o standardní metody HTTP.
 ---
-
 ## Definition
 
 REST API umožňují komunikaci mezi klienty a servery pomocí bezstavových operací přes protokoly HTTP, jako jsou GET, POST, PUT a DELETE. Strukturovají zdroje jako URI a využívají standardní formáty dat (pozn.: text byl v zadání přerušen, překlad odpovídá kontextu).

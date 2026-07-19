@@ -1,23 +1,24 @@
 ---
-title: "حل المشكلات"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: حل المشكلات
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /ar/terms/problem_solving/
-date: "2026-07-18T16:17:10.975015Z"
-lastmod: "2026-07-18T17:15:08.539119Z"
+slug: problem_solving
+date: '2026-07-18T16:17:10.975015Z'
+lastmod: '2026-07-18T17:15:08.539119Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "العملية المعرفية لإيجاد حلول للصعوبات، وتشمل البحث والاستدلال والتخطيط ضمن فضاءات حالات محددة."
+source: agnes_llm
+status: published
+language: ar
+description: العملية المعرفية لإيجاد حلول للصعوبات، وتشمل البحث والاستدلال والتخطيط
+  ضمن فضاءات حالات محددة.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، يشير حل المشكلات إلى النهج المنهجي للتنقل من حالة ابتدائية إلى حالة هدف من خلال تسلسل من الإجراءات. يتضمن ذلك عادةً تعريف المشكلة بدقة وتحديد فضاء الحالات والخوارزميات المناسبة للبحث.

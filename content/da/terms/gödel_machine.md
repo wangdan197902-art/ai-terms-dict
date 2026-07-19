@@ -1,23 +1,24 @@
 ---
-title: "Gödel-maskine"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Gödel-maskine
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /da/terms/gödel_machine/
-date: "2026-07-18T15:59:29.422102Z"
-lastmod: "2026-07-18T17:15:09.294769Z"
+slug: gödel_machine
+date: '2026-07-18T15:59:29.422102Z'
+lastmod: '2026-07-18T17:15:09.294769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teoretisk selvkorrigerende AI-program, der kan omskrive sin egen kildekode for at blive mere effektiv uden at ændre sine mål."
+source: agnes_llm
+status: published
+language: da
+description: En teoretisk selvkorrigerende AI-program, der kan omskrive sin egen kildekode
+  for at blive mere effektiv uden at ændre sine mål.
 ---
-
 ## Definition
 
 Gödel-maskinen er en hypotetisk universel problemløser foreslået af Jürgen Schmidhuber, baseret på formel logik og beregnbarhedsteori. Den opererer ved kontinuerligt at analysere sin egen kildekode og omstrukturere den selv for at optimere ydeevnen i henhold til en given nyttefunktion.

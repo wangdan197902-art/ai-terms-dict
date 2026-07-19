@@ -1,23 +1,23 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /ru/terms/indiaai/
-date: "2026-07-18T15:58:00.598983Z"
-lastmod: "2026-07-18T16:38:07.167396Z"
+slug: indiaai
+date: '2026-07-18T15:58:00.598983Z'
+lastmod: '2026-07-18T16:38:07.167396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "INDIAai — национальный портал по искусственному интеллекту, запущенный правительством Индии для продвижения исследований и внедрения ИИ по всей стране."
+source: agnes_llm
+status: published
+language: ru
+description: INDIAai — национальный портал по искусственному интеллекту, запущенный
+  правительством Индии для продвижения исследований и внедрения ИИ по всей стране.
 ---
-
 ## Definition
 
 Созданный при Министерстве электроники и информационных технологий, INDIAai служит центральным узлом для ресурсов, политик и инициатив в области ИИ. Он стремится способствовать сотрудничеству между академическими кругами, промышленностью и государством.

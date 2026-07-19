@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /es/terms/chain_of_thought_prompting/
 date: "2026-07-18T10:29:46.972300Z"
 lastmod: "2026-07-18T11:44:44.760769Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El Prompting de Cadena de Pensamiento es una técnica que anima a los Modelos de Lenguaje Grandes a generar pasos de razonamiento intermedios antes de producir una respuesta final."
 ---
-
 ## Definition
 
 El prompting de Cadena de Pensamiento (CoT) mejora el rendimiento de los grandes modelos de lenguaje en tareas de razonamiento complejo al solicitar explícitamente al modelo que articule su lógica paso a paso. En lugar de saltar directamente a la conclusión, el modelo desglosa el problema, lo que aumenta la precisión y la transparencia del razonamiento.

@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /en/terms/reranking/
 date: "2026-07-18T10:14:07.773956Z"
 lastmod: "2026-07-18T11:44:44.717540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A two-stage retrieval process where an initial coarse ranking is refined by a more computationally expensive model to improve result relevance."
 ---
-
 ## Definition
 
 Reranking is a strategy used in information retrieval and recommendation systems to enhance accuracy. First, a fast but less accurate model retrieves a large candidate set. Then, a slower, more sophisticated model (often using cross-attention or deep interaction) scores these candidates precisely. This balances efficiency and performance, ensuring high-quality results are presented to users without excessive computational cost during the initial search phase.

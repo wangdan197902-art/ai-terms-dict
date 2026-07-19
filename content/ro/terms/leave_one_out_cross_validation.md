@@ -1,23 +1,25 @@
 ---
-title: "Validare încrucișată „leave-one-out”"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Validare încrucișată „leave-one-out”
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /ro/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:08:34.181706Z"
-lastmod: "2026-07-18T17:15:09.674650Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:08:34.181706Z'
+lastmod: '2026-07-18T17:15:09.674650Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică riguroasă de reeșantionare în care modelul este antrenat pe toate eșantioanele cu excepția unuia, fiind testat pe acel singur eșantion exclus, proces repetat pentru fiecare punct de date."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică riguroasă de reeșantionare în care modelul este antrenat pe
+  toate eșantioanele cu excepția unuia, fiind testat pe acel singur eșantion exclus,
+  proces repetat pentru fiecare punct de date.
 ---
-
 ## Definition
 
 Validarea încrucișată „leave-one-out” (LOOCV) este un caz specific al validării încrucișate k-fold, unde k este egal cu numărul de eșantioane din setul de date. Aceasta oferă o estimare aproape neîmproprietată a performanței modelului, deoarece fiecare observație este folosită o dată ca și set de testare.

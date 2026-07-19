@@ -1,23 +1,24 @@
 ---
-title: "Tekstverwerking op tekenbasis"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Tekstverwerking op tekenbasis
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /nl/terms/character_computing/
-date: "2026-07-18T15:46:01.402066Z"
-lastmod: "2026-07-18T17:15:08.724559Z"
+slug: character_computing
+date: '2026-07-18T15:46:01.402066Z'
+lastmod: '2026-07-18T17:15:08.724559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Tekstverwerking op tekenbasis houdt in dat tekst wordt verwerkt, gegenereerd of geanalyseerd op individueel tekeniveau, in plaats van op woord- of zinsniveau."
+source: agnes_llm
+status: published
+language: nl
+description: Tekstverwerking op tekenbasis houdt in dat tekst wordt verwerkt, gegenereerd
+  of geanalyseerd op individueel tekeniveau, in plaats van op woord- of zinsniveau.
 ---
-
 ## Definition
 
 Dit concept richt zich op de manipulatie van tekst waarbij de fundamentele eenheid van berekening een enkel teken is. Het wordt vaak gebruikt bij taken die fijne tekstanalyse vereisen, zoals spellingscontrole.

@@ -1,23 +1,24 @@
 ---
-title: "Глобальный"
-term_id: "global"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "architecture", "theory"]
+title: Глобальный
+term_id: global
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- architecture
+- theory
 difficulty: 2
 weight: 1
-slug: "global"
-aliases:
-  - /ru/terms/global/
-date: "2026-07-18T15:25:47.780970Z"
-lastmod: "2026-07-18T16:38:07.077187Z"
+slug: global
+date: '2026-07-18T15:25:47.780970Z'
+lastmod: '2026-07-18T16:38:07.077187Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Описание свойств, оптимизаций или областей применения, которые относятся ко всей модели или набору данных, а не к локальным подмножествам."
+source: agnes_llm
+status: published
+language: ru
+description: Описание свойств, оптимизаций или областей применения, которые относятся
+  ко всей модели или набору данных, а не к локальным подмножествам.
 ---
-
 ## Definition
 
 Термин «глобальный» в ИИ обычно противопоставляется «локальному», относясь к аспектам, охватывающим всю систему. В оптимизации глобальные минимумы представляют собой наилучшее возможное решение во всем ландшафте...

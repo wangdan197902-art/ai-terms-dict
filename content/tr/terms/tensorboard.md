@@ -7,8 +7,6 @@ tags: ["tensorflow", "tools", "visualization"]
 difficulty: 2
 weight: 1
 slug: "tensorboard"
-aliases:
-  - /tr/terms/tensorboard/
 date: "2026-07-18T16:16:35.045441Z"
 lastmod: "2026-07-18T16:38:07.371745Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenimi deneylerini izlemek ve model performansını hata ayıklamak için kullanılan bir görselleştirme aracı seti."
 ---
-
 ## Definition
 
 TensorBoard, TensorFlow çalıştırma işlemlerini ve grafiklerini incelemek ve anlamak için bir web uygulaması koleksiyonudur. Zaman içinde kayıp ve doğruluk gibi metrikleri görselleştirmek, model grafiğini görüntülemek ve hiperparametre ayarlamalarını desteklemek için araçlar sağlar.

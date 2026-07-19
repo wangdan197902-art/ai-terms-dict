@@ -1,23 +1,24 @@
 ---
-title: "Produkty i aplikacje OpenAI"
-term_id: "products_and_applications_of_openai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "generative_ai", "nlp"]
+title: Produkty i aplikacje OpenAI
+term_id: products_and_applications_of_openai
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Generative AI
+- NLP
 difficulty: 1
 weight: 1
-slug: "products_and_applications_of_openai"
-aliases:
-  - /pl/terms/products_and_applications_of_openai/
-date: "2026-07-18T16:12:59.134824Z"
-lastmod: "2026-07-18T17:15:08.909089Z"
+slug: products_and_applications_of_openai
+date: '2026-07-18T16:12:59.134824Z'
+lastmod: '2026-07-18T17:15:08.909089Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Odniesienie do zestawu narzędzi AI, interfejsów API i osiągnięć badawczych opracowanych przez OpenAI, w tym modeli GPT i DALL-E."
+source: agnes_llm
+status: published
+language: pl
+description: Odniesienie do zestawu narzędzi AI, interfejsów API i osiągnięć badawczych
+  opracowanych przez OpenAI, w tym modeli GPT i DALL-E.
 ---
-
 ## Definition
 
 Termin ten obejmuje produkty komercyjne i badawcze stworzone przez OpenAI, wiodącą laboratoriów badań nad sztuczną inteligencją. Kluczowe oferty obejmują Generative Pre-trained Transformer (GPT) dla przetwarzania języka naturalnego, DALL-E do generowania obrazów oraz ChatGPT jako interfejs konwersacyjny, dostępne poprzez usługi chmurowe i API dla deweloperów.

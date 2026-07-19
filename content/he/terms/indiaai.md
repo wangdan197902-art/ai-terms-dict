@@ -1,23 +1,23 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /he/terms/indiaai/
-date: "2026-07-18T16:05:16.650020Z"
-lastmod: "2026-07-18T17:15:09.549606Z"
+slug: indiaai
+date: '2026-07-18T16:05:16.650020Z'
+lastmod: '2026-07-18T17:15:09.549606Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "INDIAai הוא פורטל הבינה המלאכותית הלאומי שהושק על ידי ממשלת הודו לקידום מחקר ויישום של בינה מלאכותית בכל רחבי המדינה."
+source: agnes_llm
+status: published
+language: he
+description: INDIAai הוא פורטל הבינה המלאכותית הלאומי שהושק על ידי ממשלת הודו לקידום
+  מחקר ויישום של בינה מלאכותית בכל רחבי המדינה.
 ---
-
 ## Definition
 
 INDIAai, שהוקם תחת משרד האלקטרוניקה ומידע טכנולוגיה, משמש כצומת מרכזי למשאבי AI, מדיניות ויוזמות. מטרתו לעודד שיתוף פעולה בין האקדמיה, התעשייה והממשלה.

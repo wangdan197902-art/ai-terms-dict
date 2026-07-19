@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /zh/terms/tokenization/
 date: "2026-07-18T10:55:25.447575Z"
 lastmod: "2026-07-18T11:44:45.386977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "分词是将原始文本拆分为称为词元的较小单元的过程，这些单元可以被机器学习算法处理。"
 ---
-
 ## Definition
 
 分词是自然语言处理（NLP）中的关键预处理步骤，它将非结构化文本转换为适合模型输入的结构化数据。该过程涉及将句子分解为更小的单元，如单词、子词或字符，以便模型能够有效理解语义。

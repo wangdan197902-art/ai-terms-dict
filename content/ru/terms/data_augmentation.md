@@ -1,23 +1,25 @@
 ---
-title: "Аугментация данных"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Аугментация данных
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /ru/terms/data_augmentation/
-date: "2026-07-18T15:47:16.543309Z"
-lastmod: "2026-07-18T16:38:07.137541Z"
+slug: data_augmentation
+date: '2026-07-18T15:47:16.543309Z'
+lastmod: '2026-07-18T16:38:07.137541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Аугментация данных — это техника, используемая для увеличения разнообразия и размера обучающих наборов данных путем применения трансформаций к существующим точкам данных."
+source: agnes_llm
+status: published
+language: ru
+description: Аугментация данных — это техника, используемая для увеличения разнообразия
+  и размера обучающих наборов данных путем применения трансформаций к существующим
+  точкам данных.
 ---
-
 ## Definition
 
 Этот метод искусственно расширяет обучающий набор данных, создавая модифицированные версии существующих образцов, такие как поворот изображений, добавление шума к аудио или замена синонимами в тексте. Это помогает предотвратить

@@ -1,23 +1,24 @@
 ---
-title: "Inteligentní databáze"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Inteligentní databáze
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /cs/terms/intelligent_database/
-date: "2026-07-18T16:03:31.371785Z"
-lastmod: "2026-07-18T17:15:09.143336Z"
+slug: intelligent_database
+date: '2026-07-18T16:03:31.371785Z'
+lastmod: '2026-07-18T17:15:09.143336Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Databázový systém, který integruje schopnosti AI pro automatizaci správy dat, optimalizace dotazů a generování poznatků."
+source: agnes_llm
+status: published
+language: cs
+description: Databázový systém, který integruje schopnosti AI pro automatizaci správy
+  dat, optimalizace dotazů a generování poznatků.
 ---
-
 ## Definition
 
 Inteligentní databáze využívá strojové učení a AI k rozšíření standardních funkcí databází nad rámec jednoduchého ukládání a vyhledávání. Dokáže automaticky optimalizovat výkon dotazů, předpovídat použití

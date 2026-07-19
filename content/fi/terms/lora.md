@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /fi/terms/lora/
 date: "2026-07-18T15:28:24.017544Z"
 lastmod: "2026-07-18T17:15:09.353765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Matalan rangin adaptointi on parametritehokas hienosäätömenetelmä, joka ruiskuttaa koulutettavia matalan rangin hajauttamismatriiseja olemassa oleviin mallipainoihin."
 ---
-
 ## Definition
 
 LoRA jäädyttää esikoulutetut mallipainot ja lisää koulutettavia hajauttamismatriiseja jokaiseen transformer-arkkitehtuurin kerrokseen. Optimoiden vain näitä matalan rangin matriiseja, LoRA vähentää merkittävästi

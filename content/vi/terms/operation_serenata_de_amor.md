@@ -1,23 +1,24 @@
 ---
-title: "Dự án Serenata de Amor"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Dự án Serenata de Amor
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /vi/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:06:19.770153Z"
-lastmod: "2026-07-18T16:38:07.789725Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:06:19.770153Z'
+lastmod: '2026-07-18T16:38:07.789725Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một sáng kiến công nghệ công dân sử dụng học máy để phát hiện gian lận trong chi tiêu công của Brazil."
+source: agnes_llm
+status: published
+language: vi
+description: Một sáng kiến công nghệ công dân sử dụng học máy để phát hiện gian lận
+  trong chi tiêu công của Brazil.
 ---
-
 ## Definition
 
 Dự án Serenata de Amor là một dự án mã nguồn mở tiên phong áp dụng trí tuệ nhân tạo để phân tích dữ liệu mua sắm công tại Brazil. Bằng cách tận dụng xử lý ngôn ngữ tự nhiên và phát hiện dị thường, dự án này giúp minh bạch hóa các giao dịch tài chính công.

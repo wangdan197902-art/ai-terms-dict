@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /ar/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:51:53.738773Z"
 lastmod: "2026-07-18T17:15:08.491216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات تحتوي على أشكال معجمية بديلة تُستخدم لتدريب النماذج على التكافؤ الدلالي واكتشاف إعادة الصياغة."
 ---
-
 ## Definition
 
 تتكون مجموعة بيانات Altlex من أزواج من الجمل التي تشترك في المعنى الأساسي نفسه ولكن تستخدم مفردات أو تراكيب نحوية مختلفة. تُستخدم بشكل أساسي في تدريب نماذج التضمين (Embedding Models).

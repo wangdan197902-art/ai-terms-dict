@@ -1,23 +1,24 @@
 ---
-title: "אינטליגנציה כללית מלאכותית"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: אינטליגנציה כללית מלאכותית
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /he/terms/artificial_general_intelligence/
-date: "2026-07-18T15:42:30.696334Z"
-lastmod: "2026-07-18T17:15:09.512994Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:42:30.696334Z'
+lastmod: '2026-07-18T17:15:09.512994Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "בינה מלאכותית היפותטית בעלת היכולת להבין, ללמוד ולהחיל ידע במגוון רחב של משימות ברמה אנושית."
+source: agnes_llm
+status: published
+language: he
+description: בינה מלאכותית היפותטית בעלת היכולת להבין, ללמוד ולהחיל ידע במגוון רחב
+  של משימות ברמה אנושית.
 ---
-
 ## Definition
 
 אינטליגנציה כללית מלאכותית (AGI) מתייחסת לסוג של בינה מלאכותית שיכולה לבצע כל משימה אינטלקטואלית שאדם יכול לבצע. בניגוד לבינה מלאכותית צרה, המתמחה במשימות ספציפיות, AGI מסוגלת להעביר ידע בין תחומים שונים ולחשוב בצורה כללית.

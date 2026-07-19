@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /nl/terms/ai_addiction/
 date: "2026-07-18T15:39:49.327958Z"
 lastmod: "2026-07-18T17:15:08.711649Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een psychologische afhankelijkheid van interactie met AI-systemen, wat leidt tot dwangmatig gebruiksgedrag."
 ---
-
 ## Definition
 
 AI-verslaving beschrijft een gedragsstoornis waarbij individuen een dwangmatige afhankelijkheid ontwikkelen van AI-gestuurde interacties, zoals chatbots of sociale media-algoritmen. Deze afhankelijkheid ontstaat vaak door de

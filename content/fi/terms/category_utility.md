@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /fi/terms/category_utility/
 date: "2026-07-18T15:46:25.208923Z"
 lastmod: "2026-07-18T17:15:09.390269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Luokkien hyöty on matemaattinen mittari, jota käytetään arvioimaan luokittelujärjestelmän tehokkuutta sen perusteella, kuinka paljon informaatiota se tuottaa attribuuttien arvoista."
 ---
-
 ## Definition
 
 Tämä mittari kvantifioi sen, kuinka hyvin luokkien joukko mahdollistaa attribuuttien arvojen ennustamisen kyseisten luokkien sisällä. Se tasapainottaa luokkien koon niiden sisäisen homogeenisuuden kanssa.

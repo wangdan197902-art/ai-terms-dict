@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /th/terms/model_compression/
 date: "2026-07-18T16:05:52.068193Z"
 lastmod: "2026-07-18T16:38:07.632867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Model Compression หมายถึงเทคนิคต่างๆ ที่ช่วยลดขนาดและความต้องการด้านการคำนวณของโมเดลแมชชีนเลิร์นนิง"
 ---
-
 ## Definition
 
 หมวดหมู่นี้รวมถึงวิธีการเช่น การตัดทอน (pruning) การหาปริมาณ (quantization) และการกลั่นความรู้ (knowledge distillation) ซึ่งมีเป้าหมายเพื่อลดรอยเท้าของโมเดลขณะคงประสิทธิภาพไว้ เป็นสิ่งจำเป็นสำหรับการนำโมเดล AI ที่ซับซ้อนไปใช้งานจริง

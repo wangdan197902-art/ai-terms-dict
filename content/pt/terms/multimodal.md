@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /pt/terms/multimodal/
 date: "2026-07-18T14:45:01.633008Z"
 lastmod: "2026-07-18T15:51:59.452381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Refere-se a modelos de IA capazes de processar e gerar conteúdo em múltiplos tipos de dados, como texto, imagens, áudio e vídeo simultaneamente."
 ---
-
 ## Definition
 
 Os sistemas de IA multimodal integram informações de diferentes entradas sensoriais para formar uma compreensão mais abrangente do mundo. Ao contrário dos modelos unimodais restritos a um único tipo de dado, os modelos multimodais combinam diversas modalidades.

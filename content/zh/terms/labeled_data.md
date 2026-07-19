@@ -1,23 +1,23 @@
 ---
-title: "标注数据"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: 标注数据
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /zh/terms/labeled_data/
-date: "2026-07-18T11:23:41.252057Z"
-lastmod: "2026-07-18T11:44:45.522655Z"
+slug: labeled_data
+date: '2026-07-18T11:23:41.252057Z'
+lastmod: '2026-07-18T11:44:45.522655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在输入特征旁边提供正确输出或目标值的数据。"
+source: agnes_llm
+status: published
+language: zh
+description: 在输入特征旁边提供正确输出或目标值的数据。
 ---
-
 ## Definition
 
 标注数据由输入样本及其对应的真实标签组成，是监督机器学习的基础。它允许算法学习输入与输出之间的映射关系。

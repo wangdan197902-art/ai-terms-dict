@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /pl/terms/scientific/
 date: "2026-07-18T15:29:23.621979Z"
 lastmod: "2026-07-18T17:15:08.820373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Naukowy w kontekście AI odnosi się do stosowania rygorystycznych metod empirycznych, testowania hipotez i powtarzalności w badaniach."
 ---
-
 ## Definition
 
 Podejście naukowe w sztucznej inteligencji kładzie nacisk na rozwój i walidację opartą na dowodach. Obejmuje formułowanie hipotez dotyczących zachowania modelu, przeprowadzanie kontrolowanych eksperymentów oraz

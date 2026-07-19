@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /fr/terms/deadbot/
 date: "2026-07-18T11:12:40.476145Z"
 lastmod: "2026-07-18T11:44:45.239322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un chatbot qui a été interrompu, fermé ou n'est plus maintenu, résultant souvent en des réponses statiques ou des erreurs face aux entrées des utilisateurs."
 ---
-
 ## Definition
 
 Un deadbot désigne un agent conversationnel ou un service de chatbot qui n'est plus actif, maintenu ou pris en charge par ses développeurs. Ces robots peuvent renvoyer des messages d'erreur génériques, des réponses statiques ou des pages d'erreur.

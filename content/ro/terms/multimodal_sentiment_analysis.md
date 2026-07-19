@@ -1,23 +1,24 @@
 ---
-title: "Analiza sentimentelor multimodală"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Analiza sentimentelor multimodală
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /ro/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:13:03.824550Z"
-lastmod: "2026-07-18T17:15:09.684476Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:13:03.824550Z'
+lastmod: '2026-07-18T17:15:09.684476Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Analiza computațională a sentimentului uman prin integrarea indiciilor textuale, vizuale și auditive."
+source: agnes_llm
+status: published
+language: ro
+description: Analiza computațională a sentimentului uman prin integrarea indiciilor
+  textuale, vizuale și auditive.
 ---
-
 ## Definition
 
 Analiza sentimentelor multimodală extinde detectarea tradițională a sentimentelor bazată pe text, incorporând semnale suplimentare, cum ar fi expresiile faciale, tonul vocii și limbajul corporal. Această abordare holistică permite o înțelegere mai nuanțată a stărilor emoționale.

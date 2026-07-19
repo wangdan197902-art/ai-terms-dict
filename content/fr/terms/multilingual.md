@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /fr/terms/multilingual/
 date: "2026-07-18T11:30:38.809189Z"
 lastmod: "2026-07-18T11:44:45.297291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Dans le domaine de l'IA, le terme multilingue désigne les modèles capables de traiter, comprendre ou générer du contenu dans plusieurs langues naturelles."
 ---
-
 ## Definition
 
 Les modèles multilingues sont conçus pour gérer des entrées linguistiques diverses sans nécessiter de modèles séparés pour chaque langue. Ces systèmes utilisent généralement des intégrations partagées ou un alignement interlangues pour

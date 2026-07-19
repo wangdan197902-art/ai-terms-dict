@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /ar/terms/foundation/
 date: "2026-07-18T15:26:10.210096Z"
 lastmod: "2026-07-18T17:15:08.438944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نموذج مُدرَّب مسبقاً على مجموعات بيانات ضخمة ليعمل كأساس لمهام لاحقة متنوعة."
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، يشير مصطلح النموذج الأساسي إلى نموذج تعلم آلي واسع النطاق تم تدريبه على بيانات واسعة النطاق، مثل الصور أو النصوص أو الصوت. تم تصميم هذه النماذج لتكون قابلة للتكيف

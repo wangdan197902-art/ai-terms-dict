@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /pt/terms/mechanistic_interpretability/
 date: "2026-07-18T15:11:34.657321Z"
 lastmod: "2026-07-18T15:51:59.511929Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma abordagem para entender modelos de IA analisando seus componentes e mecanismos internos, em vez de apenas seu comportamento de entrada e saída."
 ---
-
 ## Definition
 
 A interpretabilidade mecanicista foca na engenharia reversa de redes neurais para compreender como elas calculam funções específicas no nível de neurônios individuais, pesos e circuitos. Em vez de tratar

@@ -7,8 +7,6 @@ tags: ["Game Theory", "Multi-Agent", "Negotiation"]
 difficulty: 4
 weight: 1
 slug: "zeuthen_strategy"
-aliases:
-  - /vi/terms/zeuthen_strategy/
 date: "2026-07-18T16:18:05.430461Z"
 lastmod: "2026-07-18T16:38:07.818508Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một giao thức đàm phán trong hệ thống đa tác tử xác định thời điểm một tác tử nên mạo hiểm xung đột dựa trên tổn thất tiện ích của nó."
 ---
-
 ## Definition
 
 Chiến lược Zeuthen là một phương pháp dựa trên quy tắc cho việc mặc cả trong các cuộc đàm phán đa tác tử. Nó tính toán mức độ rủi ro tối đa mà một tác tử sẵn sàng chấp nhận để thúc đẩy kết quả mong muốn, được định nghĩa là tỷ lệ giữa tổn thất tiện ích nếu đàm phán thất bại so với lợi ích từ việc đạt được thỏa thuận.

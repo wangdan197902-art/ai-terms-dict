@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /ar/terms/knowledge_compilation/
 date: "2026-07-18T16:04:23.054385Z"
 lastmod: "2026-07-18T17:15:08.519129Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تجميع المعرفة هو عملية تحويل تمثيلات المعرفة إلى أشكال أكثر كفاءة للإجابة على الاستعلامات أو الاستدلال بسرعة أكبر."
 ---
-
 ## Definition
 
 يشير تجميع المعرفة إلى تقنيات في الذكاء الاصطناعي تقوم بتحويل قاعدة معرفة أو نظرية منطقية إلى تمثيل مختلف يسهّل عمليات أسرع مثل التحقق من الإشباع.

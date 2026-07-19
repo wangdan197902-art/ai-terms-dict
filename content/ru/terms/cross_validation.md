@@ -1,23 +1,25 @@
 ---
-title: "Кросс-валидация"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Кросс-валидация
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /ru/terms/cross_validation/
-date: "2026-07-18T15:47:01.149805Z"
-lastmod: "2026-07-18T16:38:07.135894Z"
+slug: cross_validation
+date: '2026-07-18T15:47:01.149805Z'
+lastmod: '2026-07-18T16:38:07.135894Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процедура повторной выборки, используемая для оценки качества моделей машинного обучения на ограниченном наборе данных путём разбиения данных на обучающие и тестовые подвыборки."
+source: agnes_llm
+status: published
+language: ru
+description: Процедура повторной выборки, используемая для оценки качества моделей
+  машинного обучения на ограниченном наборе данных путём разбиения данных на обучающие
+  и тестовые подвыборки.
 ---
-
 ## Definition
 
 Кросс-валидация — это статистический метод, используемый для оценки эффективности моделей машинного обучения. Наиболее распространённой формой является k-блочная кросс-валидация, при которой данные разбиваются на k равных частей. Модель обучается на k-1 частях, а тестируется на оставшейся, и этот процесс повторяется для каждой части.

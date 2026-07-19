@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /fr/terms/rabbit_r1/
 date: "2026-07-18T11:35:41.439542Z"
 lastmod: "2026-07-18T11:44:45.319852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un appareil portable alimenté par l'IA, doté du Large Action Model (LAM), conçu pour exécuter des tâches de manière autonome."
 ---
-
 ## Definition
 
 Le Rabbit r1 est un dispositif matériel dédié lancé par Rabbit Inc., centré autour de son propre Large Action Model (LAM). Contrairement aux smartphones à usage général, il se concentre sur l'exécution de tâches spécifiques via la reconnaissance d'intention et l'automatisation, agissant comme un assistant numérique capable d'interagir avec diverses applications.

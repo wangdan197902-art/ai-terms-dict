@@ -1,23 +1,24 @@
 ---
-title: "Οπτική Όραση"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Οπτική Όραση
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /el/terms/vision/
-date: "2026-07-18T15:45:44.589033Z"
-lastmod: "2026-07-18T17:15:09.872426Z"
+slug: vision
+date: '2026-07-18T15:45:44.589033Z'
+lastmod: '2026-07-18T17:15:09.872426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η Οπτική Υπολογιστών είναι ο κλάδος της ΤΝ που εστιάζει στην ικανοποίηση των υπολογιστών να ερμηνεύουν και να κατανοούν οπτικές πληροφορίες από τον κόσμο."
+source: agnes_llm
+status: published
+language: el
+description: Η Οπτική Υπολογιστών είναι ο κλάδος της ΤΝ που εστιάζει στην ικανοποίηση
+  των υπολογιστών να ερμηνεύουν και να κατανοούν οπτικές πληροφορίες από τον κόσμο.
 ---
-
 ## Definition
 
 Η Οπτική Υπολογιστών (Computer Vision - CV) είναι ένας κλάδος της τεχνητής νοημοσύνης που εκπαιδεύει τους υπολογιστές να εξαγάγουν νόημα από ψηφιακές εικόνες, βίντεο και άλλες οπτικές εισόδους. Περιλαμβάνει την ανάπτυξη αλγορίθμων

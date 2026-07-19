@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /no/terms/random/
 date: "2026-07-18T15:29:01.492257Z"
 lastmod: "2026-07-18T16:38:06.944330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Egenskapen ved å mangle et forutsigbart mønster, ofte simulert i AI gjennom algoritmer for generering av pseudotilfeldige tall."
 ---
-
 ## Definition
 
 Tilfeldighet er grunnleggende i AI for initialisering av modellvekter, omrøring av datasett og innføring av stokastiskhet under trening for å hindre overtilpasning. Siden datamaskiner er deterministiske, bruker AI-systemer

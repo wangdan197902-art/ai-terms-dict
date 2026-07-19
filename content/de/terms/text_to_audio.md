@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /de/terms/text_to_audio/
 date: "2026-07-18T11:36:21.558380Z"
 lastmod: "2026-07-18T11:44:44.992684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Umwandlung von geschriebenem Text in gesprochene Audiosignale, einschließlich sowohl Sprachsynthese als auch Generierung nicht-sprachlicher Klänge."
 ---
-
 ## Definition
 
 Text-zu-Audio ist ein Oberbegriff für Technologien, die textliche Eingaben in auditive Ausgaben umwandeln. Während er oft mit Text-to-Speech (TTS) für menschenähnliche Stimmensynthese assoziiert wird, umfasst er auch die Generierung von Geräuschen, Musik und anderen akustischen Elementen aus Textbeschreibungen.

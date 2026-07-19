@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /ko/terms/muse_spark/
 date: "2026-07-18T16:07:11.441851Z"
 lastmod: "2026-07-18T16:38:06.888610Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "대규모 클러스터 전반에 걸쳐 확장 가능한 모델 훈련을 가능하게 하는 Apache Spark 기반의 분산 딥러닝 프레임워크입니다."
 ---
-
 ## Definition
 
 Muse Spark는 Apache Spark 위에서 효율적으로 실행되도록 설계된 오픈소스 딥러닝 프레임워크입니다. 분산 클러스터 전체에 걸쳐 복잡한 신경망을 훈련할 수 있도록 하며, Spark의 병렬 처리 능력을 활용하여 대규모 데이터셋에 대한 딥러닝 모델의 확장성과 효율성을 극대화합니다.

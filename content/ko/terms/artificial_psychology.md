@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /ko/terms/artificial_psychology/
 date: "2026-07-18T15:42:21.724758Z"
 lastmod: "2026-07-18T16:38:06.809950Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인간의 심리적 과정을 모방하는 인지 아키텍처를 갖춘 AI 시스템을 설계하는 방법을 연구하는 분야."
 ---
-
 ## Definition
 
 인공 심리학은 인간과 유사한 인지 구조를 갖춘 AI 시스템의 설계 및 구현에 중점을 둔 학제간 영역입니다. 이 분야는 인지 과학과 심리학에서 영감을 받아 인간의 사고 과정, 감정, 학습 메커니즘 등을 모델링하여 더 자연스럽고 인간적인 AI 행동을 구현하는 것을 목표로 합니다.

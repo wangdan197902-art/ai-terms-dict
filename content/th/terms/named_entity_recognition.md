@@ -1,23 +1,23 @@
 ---
-title: "การรู้จำเอนทิตีที่มีชื่อเฉพาะ"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: การรู้จำเอนทิตีที่มีชื่อเฉพาะ
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /th/terms/named_entity_recognition/
-date: "2026-07-18T15:36:44.688149Z"
-lastmod: "2026-07-18T16:38:07.563018Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:36:44.688149Z'
+lastmod: '2026-07-18T16:38:07.563018Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "งานประมวลผลภาษาธรรมชาติที่ทำหน้าที่ระบุและจัดหมวดหมู่ข้อมูลสำคัญลงในหมวดหมู่ที่กำหนดไว้ล่วงหน้า"
+source: agnes_llm
+status: published
+language: th
+description: งานประมวลผลภาษาธรรมชาติที่ทำหน้าที่ระบุและจัดหมวดหมู่ข้อมูลสำคัญลงในหมวดหมู่ที่กำหนดไว้ล่วงหน้า
 ---
-
 ## Definition
 
 การรู้จำเอนทิตีที่มีชื่อเฉพาะ (Named Entity Recognition - NER) เป็นงานย่อยของการสกัดข้อมูล (information extraction) ที่ทำหน้าที่ค้นหาและจัดประเภทเอนทิตีที่มีชื่อเฉพาะในข้อความให้อยู่ในหมวดหมู่ที่กำหนดไว้ เช่น ชื่อคน องค์กร สถานที่ หรือวันที่

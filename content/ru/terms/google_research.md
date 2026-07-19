@@ -1,23 +1,25 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /ru/terms/google_research/
-date: "2026-07-18T15:55:53.733085Z"
-lastmod: "2026-07-18T16:38:07.162351Z"
+slug: google_research
+date: '2026-07-18T15:55:53.733085Z'
+lastmod: '2026-07-18T16:38:07.162351Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Исследовательское подразделение Google, посвященное развитию искусственного интеллекта, машинного обучения и информатики посредством фундаментальных и прикладных исследований."
+source: agnes_llm
+status: published
+language: ru
+description: Исследовательское подразделение Google, посвященное развитию искусственного
+  интеллекта, машинного обучения и информатики посредством фундаментальных и прикладных
+  исследований.
 ---
-
 ## Definition
 
 Google Research — это академическое и промышленное исследовательское подразделение компании Google LLC, сосредоточенное на расширении границ технологий в таких областях, как искусственный интеллект, обработка естественного языка и квантовые вычисления.

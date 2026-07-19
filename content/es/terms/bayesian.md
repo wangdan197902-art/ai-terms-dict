@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /es/terms/bayesian/
 date: "2026-07-18T10:21:08.621821Z"
 lastmod: "2026-07-18T11:44:44.736259Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Relacionado con métodos estadísticos basados en el Teorema de Bayes para actualizar probabilidades con nueva evidencia."
 ---
-
 ## Definition
 
 Los enfoques bayesianos en IA utilizan la teoría de probabilidades para actualizar la probabilidad de hipótesis a medida que se dispone de más evidencia. Este método permite a los modelos cuantificar la incertidumbre y refinar las predicciones dinámicamente.

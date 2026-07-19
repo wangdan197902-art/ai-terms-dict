@@ -1,23 +1,24 @@
 ---
-title: "ציטוט / ייחוס"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: ציטוט / ייחוס
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /he/terms/citation/
-date: "2026-07-18T15:47:48.100007Z"
-lastmod: "2026-07-18T17:15:09.519787Z"
+slug: citation
+date: '2026-07-18T15:47:48.100007Z'
+lastmod: '2026-07-18T17:15:09.519787Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ציטוט בבינה מלאכותית מתייחס למעשה הייחוס של חומר מקור או נתונים ששימשו בטקסט שנוצר או במודלים, כדי להבטיח שקיפות ועמידה בזכויות קניין רוחני."
+source: agnes_llm
+status: published
+language: he
+description: ציטוט בבינה מלאכותית מתייחס למעשה הייחוס של חומר מקור או נתונים ששימשו
+  בטקסט שנוצר או במודלים, כדי להבטיח שקיפות ועמידה בזכויות קניין רוחני.
 ---
-
 ## Definition
 
 ככל שמודלי בינה מלאכותית יוצרים תוכן, צמחה הצורך במנגנוני ציטוט כדי לשמור על שלמות אקדמית ועמידה בחוק. זה כולל הטמעת הפניות למקורות המקוריים בתוך

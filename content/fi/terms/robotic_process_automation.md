@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /fi/terms/robotic_process_automation/
 date: "2026-07-18T16:19:17.128634Z"
 lastmod: "2026-07-18T17:15:09.456209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmistopohjaisten bottien käyttö digitaalisten, suurimittakaavaisten ja toistuvien tehtävien automatisoimiseen, joita aiemmin suorittivat ihmiset liiketoimintaprosesseissa."
 ---
-
 ## Definition
 
 Robottipohjainen prosessiautomatisointi (RPA) käyttää ohjelmistorobotteja, joita usein täydennetään tekoälyllä, jäljittelemään ihmisten vuorovaikutusta digitaalisten järjestelmien kanssa. Sitä käytetään työvuokojen tehostamiseen, kuten tiedonsyöttöön, laskujen käsittelyyn

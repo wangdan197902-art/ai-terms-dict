@@ -1,23 +1,24 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /id/terms/locateanything/
-date: "2026-07-18T15:58:53.437591Z"
-lastmod: "2026-07-18T16:38:07.479080Z"
+slug: locateanything
+date: '2026-07-18T15:58:53.437591Z'
+lastmod: '2026-07-18T16:38:07.479080Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kerangka kerja sumber terbuka yang dirancang untuk lokalisasi dan segmentasi objek tanpa pelatihan khusus (zero-shot) di berbagai domain visual."
+source: agnes_llm
+status: published
+language: id
+description: Kerangka kerja sumber terbuka yang dirancang untuk lokalisasi dan segmentasi
+  objek tanpa pelatihan khusus (zero-shot) di berbagai domain visual.
 ---
-
 ## Definition
 
 LocateAnything adalah kerangka kerja visi komputer yang serbaguna yang memungkinkan deteksi dan segmentasi objek dalam gambar berdasarkan prompt bahasa alami atau prior umum. Sistem ini memanfaatkan model dasar pra-latih untuk mengenali dan memotong objek tanpa memerlukan pelatihan tambahan untuk tugas spesifik.

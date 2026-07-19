@@ -1,23 +1,24 @@
 ---
-title: "few-shot (con pocos ejemplos)"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot (con pocos ejemplos)
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /es/terms/few_shot/
-date: "2026-07-18T10:28:03.045168Z"
-lastmod: "2026-07-18T11:44:44.756018Z"
+slug: few_shot
+date: '2026-07-18T10:28:03.045168Z'
+lastmod: '2026-07-18T11:44:44.756018Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un paradigma de aprendizaje donde un modelo realiza una tarea correctamente después de estar expuesto a solo un pequeño número de ejemplos etiquetados."
+source: agnes_llm
+status: published
+language: es
+description: Un paradigma de aprendizaje donde un modelo realiza una tarea correctamente
+  después de estar expuesto a solo un pequeño número de ejemplos etiquetados.
 ---
-
 ## Definition
 
 El aprendizaje few-shot permite que los modelos de aprendizaje automático generalicen a partir de datos muy limitados, típicamente desde uno hasta diez ejemplos por clase. A diferencia del aprendizaje supervisado tradicional que requiere miles de ejemplos, esta técnica aprovecha el conocimiento previo adquirido durante el preentrenamiento para adaptarse rápidamente a nuevas tareas con poca supervisión.

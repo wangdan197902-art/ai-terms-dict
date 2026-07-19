@@ -1,23 +1,24 @@
 ---
-title: "Skalowanie cech"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Skalowanie cech
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /pl/terms/feature_scaling/
-date: "2026-07-18T15:54:44.595706Z"
-lastmod: "2026-07-18T17:15:08.873448Z"
+slug: feature_scaling
+date: '2026-07-18T15:54:44.595706Z'
+lastmod: '2026-07-18T17:15:08.873448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces normalizacji zakresu zmiennych niezależnych lub cech danych w celu zapewnienia jednolitości wielkości."
+source: agnes_llm
+status: published
+language: pl
+description: Proces normalizacji zakresu zmiennych niezależnych lub cech danych w
+  celu zapewnienia jednolitości wielkości.
 ---
-
 ## Definition
 
 Skalowanie cech standaryzuje zakres zmiennych wejściowych, aby zapobiec dominowaniu cech o większych wartościach w procesie uczenia. Powszechne metody obejmują normalizację (skalowanie min-max) oraz standaryzację (skalowanie Z-score). Jest to kluczowy krok wstępny dla wielu algorytmów, takich jak sieci neuronowe czy maszyny wektorów nośnych, które są wrażliwe na skalę danych.

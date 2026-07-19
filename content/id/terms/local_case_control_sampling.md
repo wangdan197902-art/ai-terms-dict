@@ -1,23 +1,24 @@
 ---
-title: "Sampling Kasus-Kontrol Lokal"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Sampling Kasus-Kontrol Lokal
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /id/terms/local_case_control_sampling/
-date: "2026-07-18T15:58:53.437566Z"
-lastmod: "2026-07-18T16:38:07.478938Z"
+slug: local_case_control_sampling
+date: '2026-07-18T15:58:53.437566Z'
+lastmod: '2026-07-18T16:38:07.478938Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik pengambilan sampel negatif yang memilih negatif keras (hard negatives) dari lingkungan terdekat contoh positif dalam ruang embedding."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik pengambilan sampel negatif yang memilih negatif keras (hard
+  negatives) dari lingkungan terdekat contoh positif dalam ruang embedding.
 ---
-
 ## Definition
 
 Sampling kasus-kontrol lokal adalah strategi yang digunakan terutama dalam melatih model pembelajaran kontras atau sistem rekomendasi. Alih-alih secara acak memilih sampel negatif, strategi ini mengidentifikasi 'negatif keras' yang berada di dekat contoh positif dalam ruang vektor, sehingga meningkatkan kualitas pembelajaran representasi.

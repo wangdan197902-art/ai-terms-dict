@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /he/terms/claude/
 date: "2026-07-18T15:35:46.694075Z"
 lastmod: "2026-07-18T17:15:09.497305Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קלוד היא משפחה של מודלי שפה גדולים שפותחו על ידי חברת Anthropic, המיועדת להיות עוזרי AI מועילים, חפים מפשע וכנים."
 ---
-
 ## Definition
 
 קלוד היא סדרה של מודלי שפה מתקדמים שנוצרה על ידי חברת הבטיחות AI Anthropic. הידועה בעקרונות ההתאמה החזקים ובמסגרת ה-AI החוקתי שלה, קלוד מתמקדת להיות מועילה, כנה וחפה מפגיעה.

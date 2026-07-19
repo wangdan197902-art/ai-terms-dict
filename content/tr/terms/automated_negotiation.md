@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /tr/terms/automated_negotiation/
 date: "2026-07-18T15:42:54.856088Z"
 lastmod: "2026-07-18T16:38:07.276613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka ajanlarının taraflar arasında müzakereleri otonom olarak yürütüp anlaşmalara varmasını sağlayan süreç."
 ---
-
 ## Definition
 
 Otomatik müzakere, insan çıkarlarını temsil eden yazılım ajanlarının pazarlık süreçlerinde yer almasını içerir. Bu ajanlar, teklif sunmak, değerlendirmek ve uzlaşmaya ulaşmak için oyun teorisi, optimizasyon algoritmaları ve makine öğrenimi tekniklerini kullanır.

@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /de/terms/experiment_tracking/
 date: "2026-07-18T11:14:02.601803Z"
 lastmod: "2026-07-18T11:44:44.938470Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Experiment-Tracking ist der systematische Prozess der Erfassung von Metadaten, Metriken und Artefakten aus Machine-Learning-Experimenten, um Reproduzierbarkeit zu gewährleisten und Vergleiche zu erlei"
 ---
-
 ## Definition
 
 Diese Praxis umfasst das Protokollieren von Hyperparametern, Datenversionen, Modellarchitekturen und Leistungsmetriken während der Trainingsläufe. Sie ermöglicht es Data Scientists, verschiedene experimentelle Konfigurationen zu vergleichen.

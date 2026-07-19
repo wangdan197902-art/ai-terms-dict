@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /nl/terms/harmful_content/
 date: "2026-07-18T15:58:35.202602Z"
 lastmod: "2026-07-18T17:15:08.751309Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Informatie die risico's vormt voor individuen of de samenleving, waaronder haatzaaiende taal, geweld en illegale handelingen."
 ---
-
 ## Definition
 
 Schadelijke inhoud verwijst naar digitale media of tekst die fysieke, psychologische of sociale schade kan veroorzaken. Bij AI-veiligheid is het detecteren en filteren van dergelijke inhoud cruciaal om te voorkomen dat modellen schadelijke output genereren.

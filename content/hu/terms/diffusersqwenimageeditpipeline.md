@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /hu/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:56:52.803844Z"
-lastmod: "2026-07-18T17:15:09.776599Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:56:52.803844Z'
+lastmod: '2026-07-18T17:15:09.776599Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy pipeline a Hugging Face Diffusers könyvtáron belül, amely a Qwen-VL modelleket használja utasításalapú képszerkesztési feladatokhoz."
+source: agnes_llm
+status: published
+language: hu
+description: Egy pipeline a Hugging Face Diffusers könyvtáron belül, amely a Qwen-VL
+  modelleket használja utasításalapú képszerkesztési feladatokhoz.
 ---
-
 ## Definition
 
 Ez a pipeline integrálja a Qwen-Vision-Language modell képességeit a Diffusers keretrendszerbe, hogy pontos képmódosításokat hajtson végre természetes nyelvi utasítások alapján. A generatív pipeline-kkal ellentétben ez...

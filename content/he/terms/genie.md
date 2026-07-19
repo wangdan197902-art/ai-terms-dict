@@ -1,23 +1,24 @@
 ---
-title: "ג'יני (Genie)"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: ג'יני (Genie)
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /he/terms/genie/
-date: "2026-07-18T16:01:23.149581Z"
-lastmod: "2026-07-18T17:15:09.543457Z"
+slug: genie
+date: '2026-07-18T16:01:23.149581Z'
+lastmod: '2026-07-18T17:15:09.543457Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מחלקה ספציפית של מודלים ליצירת וידאו, בולט בהם 'ג'יני' של גוגל, החוזה פריימים עתידיים בסרטונים על בסיס קלט טקסטואלי או חזותי."
+source: agnes_llm
+status: published
+language: he
+description: מחלקה ספציפית של מודלים ליצירת וידאו, בולט בהם 'ג'יני' של גוגל, החוזה
+  פריימים עתידיים בסרטונים על בסיס קלט טקסטואלי או חזותי.
 ---
-
 ## Definition
 
 ג'יני מתייחס למשפחה של מודלים יוצרים המיועדים במיוחד לסנתזת וידאו. פותחו על ידי חוקרים, כולל מחברת גוגל דפ מיינד (DeepMind), מודלים אלו שואפים ליצור רצפים עקביים של...

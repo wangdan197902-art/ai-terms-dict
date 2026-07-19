@@ -1,23 +1,24 @@
 ---
-title: "Toelaatbare heuristiek"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: Toelaatbare heuristiek
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /nl/terms/admissible_heuristic/
-date: "2026-07-18T15:41:09.059703Z"
-lastmod: "2026-07-18T17:15:08.714673Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:41:09.059703Z'
+lastmod: '2026-07-18T17:15:08.714673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een heuristische functie in zoekalgoritmen die de werkelijke kosten om het doel te bereiken nooit overschat, wat optimaliteit garandeert."
+source: agnes_llm
+status: published
+language: nl
+description: Een heuristische functie in zoekalgoritmen die de werkelijke kosten om
+  het doel te bereiken nooit overschat, wat optimaliteit garandeert.
 ---
-
 ## Definition
 
 Bij padzoekproblemen biedt een toelaatbare heuristiek een ondergrens voor de werkelijke kosten om de doelnoden te bereiken. Door te garanderen dat de geschatte kosten altijd lager zijn dan of gelijk aan

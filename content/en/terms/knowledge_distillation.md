@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /en/terms/knowledge_distillation/
 date: "2026-07-18T10:03:41.614718Z"
 lastmod: "2026-07-18T11:44:44.688551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Knowledge distillation is a model compression technique where a smaller student model learns to mimic the behavior of a larger teacher model."
 ---
-
 ## Definition
 
 Knowledge distillation is a machine learning method used to compress a large, complex neural network (the teacher) into a smaller, more efficient network (the student). The student model is trained to replicate the output probabilities of the teacher model rather than just the ground truth labels. This process allows the student to capture nuanced patterns and relationships learned by the teacher, resulting in a model that maintains high accuracy while requiring fewer computational resources and memory for deployment.

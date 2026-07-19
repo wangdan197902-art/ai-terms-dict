@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /en/terms/regularization/
 date: "2026-07-18T10:13:50.501119Z"
 lastmod: "2026-07-18T11:44:44.716722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A set of techniques used during training to prevent overfitting by adding penalties to the loss function or constraining model complexity."
 ---
-
 ## Definition
 
 Regularization is a crucial concept in machine learning designed to reduce generalization error without significantly increasing training error. It works by discouraging models from learning overly complex patterns that fit noise in the training data rather than the underlying signal. Common methods include L1 (Lasso) and L2 (Ridge) regularization, dropout in neural networks, and early stopping. These techniques help ensure that the model performs well on unseen data by maintaining a balance between bias and variance.

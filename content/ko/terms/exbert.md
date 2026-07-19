@@ -1,23 +1,23 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /ko/terms/exbert/
-date: "2026-07-18T15:55:04.752691Z"
-lastmod: "2026-07-18T16:38:06.838385Z"
+slug: exbert
+date: '2026-07-18T15:55:04.752691Z'
+lastmod: '2026-07-18T16:38:06.838385Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "BERT의 예측을 설명하기 위해 특정 출력에 가장 기여하는 어텐션 헤드와 레이어를 식별하는 방법론."
+source: agnes_llm
+status: published
+language: ko
+description: BERT의 예측을 설명하기 위해 특정 출력에 가장 기여하는 어텐션 헤드와 레이어를 식별하는 방법론.
 ---
-
 ## Definition
 
 ExBERT는 서로 다른 레이어에 걸쳐 개별 어텐션 헤드의 중요성을 분석하여 BERT 트랜스포머 모델에 대한 해석 가능성을 제공합니다. 이는 그래디언트 기반 귀속 기법 등을 사용하여 모델의 내부 작동 원리를 이해하는 데 도움을 줍니다.

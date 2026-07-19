@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /ro/terms/model_registry/
 date: "2026-07-18T16:12:29.020228Z"
 lastmod: "2026-07-18T17:15:09.682926Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem centralizat de stocare și gestionare pentru urmărirea modelelor de învățare automată pe întregul lor ciclu de viață."
 ---
-
 ## Definition
 
 Un Registry de Modele (Model Registry) reprezintă un component critic în MLOps, oferind un depozit unitar pentru stocarea, versionarea și gestionarea modelelor de învățare automată (ML). Acesta permite echipelor să urmărească metadatele modelelor, metricile de performanță,

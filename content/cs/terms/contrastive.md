@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /cs/terms/contrastive/
 date: "2026-07-18T15:23:57.275592Z"
 lastmod: "2026-07-18T17:15:09.065757Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kontrastní učení je technika samodosuprazeného učení, která trénuje modely rozlišovat mezi podobnými a nepodobnými páry dat."
 ---
-
 ## Definition
 
 Tato metoda podporuje model, aby přitahoval embeddiny pozitivních párů (podobných položek) blíže k sobě a odpuzoval negativní páry (nepodobné položky) v latentním prostoru. Je široce používána v počítačovém vidění a zpracování jazyka.

@@ -1,23 +1,24 @@
 ---
-title: "Croissant"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: Croissant
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /fi/terms/croissant/
-date: "2026-07-18T15:50:17.166074Z"
-lastmod: "2026-07-18T17:15:09.395635Z"
+slug: croissant
+date: '2026-07-18T15:50:17.166074Z'
+lastmod: '2026-07-18T17:15:09.395635Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Croissant on avoin metatietomuoto aineistojen kuvaamiseen, joka edistää löydettävyyttä ja yhteentoimivuutta tekoälyn alalla."
+source: agnes_llm
+status: published
+language: fi
+description: Croissant on avoin metatietomuoto aineistojen kuvaamiseen, joka edistää
+  löydettävyyttä ja yhteentoimivuutta tekoälyn alalla.
 ---
-
 ## Definition
 
 MLCommons-aloitteessa kehitetty Croissant käyttää JSON-LD:tä tarjotakseen standardoidun tavan kuvailla aineistoja, mukaan lukien niiden rakenne, lähteet ja lisenssointi. Sen tavoitteena on ratkaista aineistojen hallinnan hauraus ja vaikeutettu löytäminen.

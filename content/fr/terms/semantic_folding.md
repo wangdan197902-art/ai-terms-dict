@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /fr/terms/semantic_folding/
 date: "2026-07-18T11:37:18.955798Z"
 lastmod: "2026-07-18T11:44:45.326127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une technique qui mappe des représentations sémantiques de haute dimension dans un espace de dimension inférieure tout en préservant les structures relationnelles."
 ---
-
 ## Definition
 
 Le pliage sémantique désigne le processus de compression d'embeddings vectoriels complexes et de haute dimension en une représentation de dimension inférieure plus gérable, sans perte significative de sens sémantique.

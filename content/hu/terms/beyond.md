@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /hu/terms/beyond/
 date: "2026-07-18T15:23:56.030448Z"
 lastmod: "2026-07-18T17:15:09.716322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy fogalmi kifejezés, amely a jelenlegi technológiai határokat vagy az AI hagyományos korlátait meghaladó fejlesztésekre vagy alkalmazásokra utal."
 ---
-
 ## Definition
 
 Az AI terminológiájában a 'beyond' gyakran olyan új paradigmákat vagy jövőbeli irányokat ír le, amelyek túllépnek a jelenlegi képességeken, például a mesterséges általános intelligenciát (AGI) vagy a kvantumtechnológiával javított rendszereket.

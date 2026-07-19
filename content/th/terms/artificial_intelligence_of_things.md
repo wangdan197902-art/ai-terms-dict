@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /th/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:42:39.506975Z"
 lastmod: "2026-07-18T16:38:07.574964Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การผสานรวมระหว่างปัญญาประดิษฐ์ (AI) และอินเทอร์เน็ตแห่งสรรพสิ่ง (IoT) ซึ่งช่วยให้สมาร์ทดีไวซ์สามารถประมวลผลข้อมูลในท้องถิ่นและตัดสินใจได้อย่างอัตโนมัติ"
 ---
-
 ## Definition
 
 ปัญญาประดิษฐ์แห่งสรรพสิ่ง (AIoT) หมายถึงการบูรณาการแบบสมานฉันท์ระหว่างเทคโนโลยีปัญญาประดิษฐ์และอินเทอร์เน็ตแห่งสรรพสิ่ง โดยการฝังอัลกอริทึมของ AI ลงในอุปกรณ์ IoT โดยตรง เพื่อเพิ่มประสิทธิภาพในการประมวลผลและการตัดสินใจ

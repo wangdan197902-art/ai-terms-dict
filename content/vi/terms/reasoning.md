@@ -1,23 +1,24 @@
 ---
-title: "Reasoning"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Reasoning
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /vi/terms/reasoning/
-date: "2026-07-18T15:36:56.894154Z"
-lastmod: "2026-07-18T16:38:07.713123Z"
+slug: reasoning
+date: '2026-07-18T15:36:56.894154Z'
+lastmod: '2026-07-18T16:38:07.713123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Suy luận đề cập đến quá trình nhận thức nhằm rút ra kết luận, dự đoán hoặc giải quyết vấn đề dựa trên thông tin có sẵn."
+source: agnes_llm
+status: published
+language: vi
+description: Suy luận đề cập đến quá trình nhận thức nhằm rút ra kết luận, dự đoán
+  hoặc giải quyết vấn đề dựa trên thông tin có sẵn.
 ---
-
 ## Definition
 
 Trong AI, suy luận liên quan đến các thuật toán mô phỏng suy diễn logic, quy nạp hoặc biện minh để xử lý dữ liệu và tạo ra thông tin chi tiết. Nó bao gồm các kỹ thuật như logic biểu tượng, suy luận xác suất và lập luận dựa trên ngữ cảnh.

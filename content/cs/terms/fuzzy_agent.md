@@ -1,23 +1,24 @@
 ---
-title: "Rozmazaný agent"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Rozmazaný agent
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /cs/terms/fuzzy_agent/
-date: "2026-07-18T15:58:30.730040Z"
-lastmod: "2026-07-18T17:15:09.131762Z"
+slug: fuzzy_agent
+date: '2026-07-18T15:58:30.730040Z'
+lastmod: '2026-07-18T17:15:09.131762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Autonomní entita, která využívá rozmazanou logiku k zvládání nejistoty a nepřesných informací v procesech rozhodování."
+source: agnes_llm
+status: published
+language: cs
+description: Autonomní entita, která využívá rozmazanou logiku k zvládání nejistoty
+  a nepřesných informací v procesech rozhodování.
 ---
-
 ## Definition
 
 Rozmazaný agent operuje v prostředích, kde jsou data často nejednoznačná nebo neúplná, a používá systémy rozmazané logiky místo binárních stavů pravda/nepravda. Pomocí funkcí příslušnosti a lingvistických proměnných dokáže zpracovávat stupňovitou pravdu, což umožňuje pružnější a lidském chování podobné rozhodování v nestabilních podmínkách.

@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /cs/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:40:30.892600Z"
 lastmod: "2026-07-18T17:15:09.098686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Zrychlená lineární algebra zahrnuje optimalizaci maticových operací pomocí hardwarových akcelerátorů, jako jsou GPU a TPU, pro vysoký výkon."
 ---
-
 ## Definition
 
 Toto odvětví se zaměřuje na zrychlení základních výpočtů lineární algebry, které jsou klíčové pro strojové učení a vědecké simulace. Využívá paralelní zpracovací schopnosti grafických procesorů (GPU), specializovaných čipů (TPU) a dalších akcelerátorů.

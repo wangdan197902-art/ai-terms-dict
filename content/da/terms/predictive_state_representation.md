@@ -1,23 +1,24 @@
 ---
-title: "Forudsigende statrepræsentation"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Forudsigende statrepræsentation
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /da/terms/predictive_state_representation/
-date: "2026-07-18T16:12:25.222666Z"
-lastmod: "2026-07-18T17:15:09.321900Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:12:25.222666Z'
+lastmod: '2026-07-18T17:15:09.321900Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En latent tilstandsformulering i forstærkningslæring, der forudsiger fremtidige observationer baseret på handlingshistorik."
+source: agnes_llm
+status: published
+language: da
+description: En latent tilstandsformulering i forstærkningslæring, der forudsiger
+  fremtidige observationer baseret på handlingshistorik.
 ---
-
 ## Definition
 
 Forudsigende statrepræsentationer (PSR) udvider traditionelle delvist observerbare Markov-decisionsprocesser ved at definere tilstande som vektorer af forudsigelser om fremtidige observerbare begivenheder. I stedet for at stole på skjulte tilstande, der ikke direkte kan observeres, bruger PSR historikken til at forudsige fremtidige observationer.

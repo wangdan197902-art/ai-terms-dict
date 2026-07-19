@@ -1,23 +1,24 @@
 ---
-title: "Kuvateksti tekstillä"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Kuvateksti tekstillä
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /fi/terms/image_text_to_text/
-date: "2026-07-18T16:03:05.061921Z"
-lastmod: "2026-07-18T17:15:09.421279Z"
+slug: image_text_to_text
+date: '2026-07-18T16:03:05.061921Z'
+lastmod: '2026-07-18T17:15:09.421279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Monimodaalinen tekoälykyky, joka tuottaa tekstikuvausten tai vastausten syötekuvien ja valinnaisten tekstikehotteiden perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Monimodaalinen tekoälykyky, joka tuottaa tekstikuvausten tai vastausten
+  syötekuvien ja valinnaisten tekstikehotteiden perusteella.
 ---
-
 ## Definition
 
 Kuvateksti tekstillä viittaa malleihin, jotka käsittelevät visuaalisia syötteitä yhdessä tekstikyselyjen kanssa tuottaakseen yhtenäistä luonnollisen kielen tuotosta. Nämä järjestelmät, joita kutsutaan usein näkö-kielimalleiksi (VLMs), yhdistävät visuaalisen ja kielellisen informaation.

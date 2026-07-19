@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /zh/terms/gender_digital_divide/
 date: "2026-07-18T11:18:16.814528Z"
 lastmod: "2026-07-18T11:44:45.506903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "性别数字鸿沟是指男性与女性在获取、使用信息通信技术以及从中获益方面存在的差距。"
 ---
-
 ## Definition
 
 这一社会技术概念突出了女性与女孩在数字设备访问、互联网连接和数字素养技能方面往往少于男性和男孩的差异。这些差...

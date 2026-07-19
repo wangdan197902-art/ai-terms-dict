@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /da/terms/data_exploration/
 date: "2026-07-18T15:49:06.489926Z"
 lastmod: "2026-07-18T17:15:09.273839Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den indledende analyse af datasæt til at opdage mønstre, identificere anomalier og teste hypoteser før formel modellering."
 ---
-
 ## Definition
 
 Dataundersøgelse, ofte omtalt som eksplorativ dataanalyse (EDA), er et kritisk forberedende trin i maskinlæringsarbejdsprocesser. Det indebærer at opsummere de vigtigste karakteristika ved data, ofte ved hjælp af visualiseringsteknikker og statistiske metoder for at få en dybere forståelse af datastrukturen.

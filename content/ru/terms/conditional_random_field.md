@@ -1,23 +1,24 @@
 ---
-title: "Условное случайное поле"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Условное случайное поле
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /ru/terms/conditional_random_field/
-date: "2026-07-18T15:45:57.802205Z"
-lastmod: "2026-07-18T16:38:07.133650Z"
+slug: conditional_random_field
+date: '2026-07-18T15:45:57.802205Z'
+lastmod: '2026-07-18T16:38:07.133650Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Условное случайное поле — это дискриминативная вероятностная модель, используемая для задач структурированного предсказания, таких как маркировка последовательностей."
+source: agnes_llm
+status: published
+language: ru
+description: Условное случайное поле — это дискриминативная вероятностная модель,
+  используемая для задач структурированного предсказания, таких как маркировка последовательностей.
 ---
-
 ## Definition
 
 Условные случайные поля (CRF) — это класс дискриминативных моделей, широко используемых в обработке естественного языка и биоинформатике. В отличие от генеративных моделей, CRF напрямую моделируют условную вероятность меток при заданных наблюдаемых данных.

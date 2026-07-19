@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /no/terms/speaker/
 date: "2026-07-18T16:16:47.773451Z"
 lastmod: "2026-07-18T16:38:07.048944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En person som produserer vokal lyd eller tale innenfor en lydsignal."
 ---
-
 ## Definition
 
 Innen talebehandling er en høytaler definert som en distinkt menneskelig stemmekilde i en lydopptak. Å identifisere og skille mellom talere er grunnleggende for å analysere samtaler og sikre sikkerhet.

@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /he/terms/ai_assisted_software_development/
 date: "2026-07-18T15:40:23.670534Z"
 lastmod: "2026-07-18T17:15:09.508702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שימוש בכלי בינה מלאכותית כדי לשפר את הפרודוקטיביות בכתיבת קוד, איתור באגים, בדיקות ותהליכי עיצוב."
 ---
-
 ## Definition
 
 פיתוח תוכנה מסייע בינה מלאכותית כולל ניצול מודלים של למידת מכונה כדי לתמוך במפתחים בכתיבת קוד, זיהוי באגים, יצירת בדיקות ואופטימיזציה של הביצועים. כלים כמו GitHub Copilot מדגימים גישה זו.

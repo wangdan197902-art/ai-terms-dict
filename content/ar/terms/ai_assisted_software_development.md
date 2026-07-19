@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /ar/terms/ai_assisted_software_development/
 date: "2026-07-18T15:41:21.521404Z"
 lastmod: "2026-07-18T17:15:08.471209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "استخدام أدوات الذكاء الاصطناعي لتعزيز الإنتاجية في عمليات البرمجة، وتصحيح الأخطاء، والاختبار، والتصميم."
 ---
-
 ## Definition
 
 يتضمن تطوير البرمجيات بمساعدة الذكاء الاصطناعي الاستفادة من نماذج التعلم الآلي لدعم المطورين في كتابة الكود، وتحديد الأخطاء، وتوليد الاختبارات، وتحسين الأداء. تشمل الأدوات مثل GitHub Copilot.

@@ -1,23 +1,23 @@
 ---
-title: "การทดสอบเอ/บี (A/B Testing)"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: การทดสอบเอ/บี (A/B Testing)
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /th/terms/ab_testing/
-date: "2026-07-18T15:38:24.783722Z"
-lastmod: "2026-07-18T16:38:07.567232Z"
+slug: ab_testing
+date: '2026-07-18T15:38:24.783722Z'
+lastmod: '2026-07-18T16:38:07.567232Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการทางสถิติที่ใช้เปรียบเทียบตัวแปรสองเวอร์ชันเพื่อหาว่าเวอร์ชันใดมีประสิทธิภาพดีกว่า"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการทางสถิติที่ใช้เปรียบเทียบตัวแปรสองเวอร์ชันเพื่อหาว่าเวอร์ชันใดมีประสิทธิภาพดีกว่า
 ---
-
 ## Definition
 
 การทดสอบเอ/บี (A/B Testing) คือการทดลองแบบควบคุมแบบสุ่ม (randomized controlled experiment) ที่มีการเปรียบเทียบสองรูปแบบ ได้แก่ รูปแบบ A และ รูปแบบ B เพื่อประเมินว่าผลลัพธ์ใดให้ประสิทธิภาพดีกว่าในเมตริกเฉพาะ ในการวิศวกรรมปัญญาประดิษฐ์ (AI Engineering) วิธีการนี้มีความสำคัญอย่างยิ่งต่อการปรับปรุงและเพิ่มประสิทธิภาพ

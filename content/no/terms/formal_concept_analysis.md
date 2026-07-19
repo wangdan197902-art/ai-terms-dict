@@ -1,23 +1,24 @@
 ---
-title: "Formell konseptanalyse"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Formell konseptanalyse
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /no/terms/formal_concept_analysis/
-date: "2026-07-18T15:54:59.764315Z"
-lastmod: "2026-07-18T16:38:07.002108Z"
+slug: formal_concept_analysis
+date: '2026-07-18T15:54:59.764315Z'
+lastmod: '2026-07-18T16:38:07.002108Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Formell konseptanalyse (FCA) er en matematisk metode for å utlede konseptuelle hierarkier fra data ved hjelp av formelle kontekster og konseptgitter."
+source: agnes_llm
+status: published
+language: 'no'
+description: Formell konseptanalyse (FCA) er en matematisk metode for å utlede konseptuelle
+  hierarkier fra data ved hjelp av formelle kontekster og konseptgitter.
 ---
-
 ## Definition
 
 FCA gir et strengt rammeverk for å analysere relasjoner mellom objekter og deres attributter, noe som resulterer i en hierarkisk struktur kjent som et konseptgitter. Det brukes mye innen kunnskapsdis-

@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /nl/terms/stochastic/
 date: "2026-07-18T15:30:01.465289Z"
 lastmod: "2026-07-18T17:15:08.694082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Beschrijft processen of modellen die willekeur en waarschijnlijkheid omvatten in plaats van deterministische uitkomsten."
 ---
-
 ## Definition
 
 Stochastische elementen introduceren variabiliteit in AI-systemen, zoals ruis in gegevens of willekeurige initialisatie van gewichten. In tegenstelling tot deterministische modellen houden stochastische modellen rekening met onzekerheid.

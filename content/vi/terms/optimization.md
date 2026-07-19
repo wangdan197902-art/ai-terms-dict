@@ -1,23 +1,24 @@
 ---
-title: "Tối ưu hóa"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Tối ưu hóa
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /vi/terms/optimization/
-date: "2026-07-18T15:36:34.989880Z"
-lastmod: "2026-07-18T16:38:07.711732Z"
+slug: optimization
+date: '2026-07-18T15:36:34.989880Z'
+lastmod: '2026-07-18T16:38:07.711732Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quá trình toán học nhằm cực tiểu hóa hoặc cực đại hóa một hàm mục tiêu để tìm ra các tham số giải pháp tốt nhất."
+source: agnes_llm
+status: published
+language: vi
+description: Quá trình toán học nhằm cực tiểu hóa hoặc cực đại hóa một hàm mục tiêu
+  để tìm ra các tham số giải pháp tốt nhất.
 ---
-
 ## Definition
 
 Trong học máy, tối ưu hóa đề cập đến các thuật toán được sử dụng để điều chỉnh các tham số của mô hình nhằm giảm thiểu hàm mất mát, qua đó cải thiện hiệu suất của mô hình. Các phương pháp phổ biến bao gồm Gradient Descent và...

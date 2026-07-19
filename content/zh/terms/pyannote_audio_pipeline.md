@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /zh/terms/pyannote_audio_pipeline/
 date: "2026-07-18T11:31:05.398491Z"
 lastmod: "2026-07-18T11:44:45.547300Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Pyannote Audio 流水线是一种结构化的处理步骤序列，通过组合各种模型来执行端到端的说话人日志任务。"
 ---
-
 ## Definition
 
 在 Pyannote Audio 的语境中，流水线指的是一种可配置的工作流，它将不同的模块链接在一起以实现说话人日志。通常，流水线包括用于检

@@ -1,23 +1,23 @@
 ---
-title: "Aikaperusteinen"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Aikaperusteinen
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /fi/terms/temporal/
-date: "2026-07-18T15:31:40.344122Z"
-lastmod: "2026-07-18T17:15:09.360758Z"
+slug: temporal
+date: '2026-07-18T15:31:40.344122Z'
+lastmod: '2026-07-18T17:15:09.360758Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Aikaperusteinen liittyy aikasarjoihin ja keskittyy siihen, miten data muuttuu tai riippuvuudet kehittyvät ajan myötä."
+source: agnes_llm
+status: published
+language: fi
+description: Aikaperusteinen liittyy aikasarjoihin ja keskittyy siihen, miten data
+  muuttuu tai riippuvuudet kehittyvät ajan myötä.
 ---
-
 ## Definition
 
 Tekoälyn aikaperusteiset käsitteet liittyvät ajan suhteen järjestettyjen datapisteiden analysointiin, kuten osakekursseihin, anturilukemiin tai luonnollisen kielen lauseisiin. Aikadataa käsittelevien mallien on otettava huomioon sekvenssin järjestys ja ajallinen riippuvuus...

@@ -1,23 +1,24 @@
 ---
-title: "Jellemzőskálázás"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Jellemzőskálázás
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /hu/terms/feature_scaling/
-date: "2026-07-18T15:59:53.397767Z"
-lastmod: "2026-07-18T17:15:09.784384Z"
+slug: feature_scaling
+date: '2026-07-18T15:59:53.397767Z'
+lastmod: '2026-07-18T17:15:09.784384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A független változók vagy jellemzők tartományának normalizálása annak biztosítása érdekében, hogy egységes nagyságrendben legyenek."
+source: agnes_llm
+status: published
+language: hu
+description: A független változók vagy jellemzők tartományának normalizálása annak
+  biztosítása érdekében, hogy egységes nagyságrendben legyenek.
 ---
-
 ## Definition
 
 A jellemzőskálázás szabványosítja a bemeneti változók tartományát, hogy megakadályozza a nagyobb nagyságrendű jellemzők dominálását a tanítási folyamatban. A leggyakoribb módszerek közé tartozik a normalizálás (min-max skálázás), amely az értékeket egy adott intervallumba, például [0, 1]-re helyezi, valamint a standardizálás (Z-score), amely az adatokat nullára középpontosított, egységnyi szórású eloszlássá alakítja.

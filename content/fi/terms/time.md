@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /fi/terms/time/
 date: "2026-07-18T15:31:57.552101Z"
 lastmod: "2026-07-18T17:15:09.361070Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "AI:ssa aika viittaa ajalliseen ulottuvuuteen, jota käytetään tapahtumien jäsennykseen, tilan muutosten seurantaan sekä mallitoimintojen viiveen tai keston mittaamiseen."
 ---
-
 ## Definition
 
 Aika on peruskäsite tekoälyssä, erityisesti sekvenssimallinnuksessa ja reaaliaikaisissa järjestelmissä. Se toimaa akselina, jonka varalla datapisteet järjestetään, mikä mahdollistaa esimerkiksi rekursiivisten neuroniverkkojen kaltaisten mallien käytön aikasarjojen analysointiin.

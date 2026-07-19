@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /vi/terms/bayesian_programming/
 date: "2026-07-18T15:42:42.211360Z"
 lastmod: "2026-07-18T16:38:07.732885Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung hình thức cho suy luận xác suất, mở rộng suy luận Bayesian sang các mô hình phức tạp và phân cấp."
 ---
-
 ## Definition
 
 Lập trình Bayesian là một khung toán học tổng quát hóa định lý Bayes để xử lý các phụ thuộc xác suất đa lớp và phức tạp. Nó cho phép các nhà phát triển định nghĩa các mô hình phân cấp nơi các biến được liên kết thông qua cấu trúc xác suất có điều kiện, giúp quản lý sự không chắc chắn trong các hệ thống phức tạp.

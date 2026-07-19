@@ -1,23 +1,24 @@
 ---
-title: "تلوين الصوت"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: تلوين الصوت
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /ar/terms/audio_inpainting/
-date: "2026-07-18T15:45:12.337573Z"
-lastmod: "2026-07-18T17:15:08.478358Z"
+slug: audio_inpainting
+date: '2026-07-18T15:45:12.337573Z'
+lastmod: '2026-07-18T17:15:08.478358Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية إعادة بناء المقاطع المفقودة أو التالفة من إشارة صوتية بناءً على السياق المحيط."
+source: agnes_llm
+status: published
+language: ar
+description: عملية إعادة بناء المقاطع المفقودة أو التالفة من إشارة صوتية بناءً على
+  السياق المحيط.
 ---
-
 ## Definition
 
 تلوين الصوت هو تقنية تُستخدم لملء الفجوات في التسجيلات الصوتية الناتجة عن الانقطاعات أو الضوضاء أو القناع المتعمد. باستخدام النماذج التوليدية، يتنبأ النظام بالمحتوى الأكثر احتمالاً للم

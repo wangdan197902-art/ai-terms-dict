@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /pl/terms/random/
 date: "2026-07-18T15:28:43.984353Z"
 lastmod: "2026-07-18T17:15:08.818794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Właściwość braku przewidywalnego wzorca, często symulowana w AI za pomocą algorytmów generowania liczb pseudolosowych."
 ---
-
 ## Definition
 
 Losowość jest fundamentalna w AI do inicjalizacji wag modeli, mieszania zbiorów danych i wprowadzania stochastyczności podczas trenowania, co zapobiega przeuczeniu (overfitting). Ponieważ komputery są deterministyczne, systemy AI używają generatorów liczb pseudolosowych (PRNG), które zaczynają się od wartości początkowej (seed), aby zapewnić odtwarzalność wyników eksperymentów.

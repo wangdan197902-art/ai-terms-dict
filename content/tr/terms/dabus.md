@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /tr/terms/dabus/
 date: "2026-07-18T15:47:01.711976Z"
 lastmod: "2026-07-18T16:38:07.288606Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "DABUS, Birleşik Bilinçli Otonom Başlatma Cihazı anlamına gelir; Stephen Thaler tarafından geliştirilen ve teknolojileri otonom olarak icat ettiğini iddia eden bir yapay zeka sistemidir."
 ---
-
 ## Definition
 
 DABUS, doğrudan insan müdahalesi olmadan yeni icatlar üretmek üzere tasarlanmış özel bir yapay sinir ağıdır. Yaratıcısı Stephen Thaler'ın patent başvurusu sürecinde önemli yasal dikkat çekmiştir.

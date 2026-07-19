@@ -1,23 +1,23 @@
 ---
-title: "Piuttosto"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Piuttosto
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /it/terms/rather/
-date: "2026-07-18T15:28:18.552240Z"
-lastmod: "2026-07-18T17:15:08.572825Z"
+slug: rather
+date: '2026-07-18T15:28:18.552240Z'
+lastmod: '2026-07-18T17:15:08.572825Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Nel contesto dell'IA, 'rather' non è un termine tecnico ma appare spesso nei prompt per specificare preferenze o correzioni."
+source: agnes_llm
+status: published
+language: it
+description: Nel contesto dell'IA, 'rather' non è un termine tecnico ma appare spesso
+  nei prompt per specificare preferenze o correzioni.
 ---
-
 ## Definition
 
 Il termine 'Rather' è un avverbio inglese standard che indica preferenza o contrasto. Nel dominio specifico dell'Intelligenza Artificiale e dei Modelli Linguistici di Grande Dimensione (LLM), non costituisce un concetto tecnico distinto.

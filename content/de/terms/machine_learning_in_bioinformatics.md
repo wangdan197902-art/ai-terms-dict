@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /de/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T11:22:46.715007Z"
 lastmod: "2026-07-18T11:44:44.961932Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Anwendung computergestützter Modelle zur Analyse biologischer Daten, wie genomischer Sequenzen und Proteinstrukturen, um biologische Erkenntnisse zu gewinnen."
 ---
-
 ## Definition
 
 Dieses interdisziplinäre Feld nutzt maschinelles Lernen, um große Mengen biologischer Daten zu verarbeiten. Dies ermöglicht es Forschern, Genfunktionen vorherzusagen, Krankheiten zu klassifizieren und molekulare Interaktionen zu verstehen. Durch die Automatisierung der Datenanalyse können komplexe biologische Muster erkannt werden, die für das menschliche Auge oder traditionelle statistische Methoden schwer zugänglich sind.

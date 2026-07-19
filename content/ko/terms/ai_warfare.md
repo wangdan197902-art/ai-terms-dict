@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /ko/terms/ai_warfare/
 date: "2026-07-18T15:39:27.677252Z"
 lastmod: "2026-07-18T16:38:06.804420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "군사 작전, 감시, 자율 무기 시스템에 인공지능 기술을 적용하는 것."
 ---
-
 ## Definition
 
 AI 전쟁은 자율 드론, 예측 물류, 사이버 방어, 지휘관을 위한 의사결정 지원 시스템 등 인공지능을 군사 전략에 통합하는 것을 의미합니다. 이는 현대전의 양상을 근본적으로 변화시키고 윤리적, 법적 논쟁을 불러일으킵니다.

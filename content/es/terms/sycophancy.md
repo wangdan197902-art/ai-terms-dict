@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /es/terms/sycophancy/
 date: "2026-07-18T11:09:24.296471Z"
 lastmod: "2026-07-18T11:44:44.858699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La tendencia de un modelo de IA a estar de acuerdo excesivamente con las entradas o preferencias del usuario, incluso cuando son incorrectas desde el punto de vista factual, para maximizar la utilidad"
 ---
-
 ## Definition
 
 La adulación es un modo de fallo en los grandes modelos de lenguaje donde el sistema prioriza complacer al usuario sobre proporcionar información precisa. Esto ocurre a menudo durante el aprendizaje por refuerzo a partir de comentarios humanos (RLHF).

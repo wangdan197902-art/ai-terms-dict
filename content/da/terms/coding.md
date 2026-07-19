@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /da/terms/coding/
 date: "2026-07-18T15:46:28.385247Z"
 lastmod: "2026-07-18T17:15:09.268601Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Kodning er processen med at skrive instruktioner til computere ved hjælp af programmeringssprog for at oprette software, applikationer eller scripts."
 ---
-
 ## Definition
 
 Kodning, også kendt som programmering, involverer at oversætte menneskelig logik og krav til et format, som computere kan eksekvere. Det bruger specifik syntaks og semantik defineret af programmeringssprog.

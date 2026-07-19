@@ -1,23 +1,24 @@
 ---
-title: "Přehledy AI"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Přehledy AI
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /cs/terms/ai_overviews/
-date: "2026-07-18T15:39:34.878326Z"
-lastmod: "2026-07-18T17:15:09.095913Z"
+slug: ai_overviews
+date: '2026-07-18T15:39:34.878326Z'
+lastmod: '2026-07-18T17:15:09.095913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Shrnuté odpovědi generované modely AI, které syntetizují informace z více zdrojů pro rychlé pochopení."
+source: agnes_llm
+status: published
+language: cs
+description: Shrnuté odpovědi generované modely AI, které syntetizují informace z
+  více zdrojů pro rychlé pochopení.
 ---
-
 ## Definition
 
 Přehledy AI jsou stručná shrnutí vytvářená velkými jazykovými modely, která agregují a syntetizují data z různých webových zdrojů nebo databází. Na rozdíl od tradičních výsledků vyhledávání, které pouze vypisují odkazy, tyto

@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /ja/terms/schema_agnostic_databases/
 date: "2026-07-18T11:31:32.706612Z"
 lastmod: "2026-07-18T11:44:45.141081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "スキーマ非依存データベースは、事前に定義されたスキーマを必要とせず、柔軟なデータ構造を許可するストレージシステムであり、主にNoSQL環境で使用されます。"
 ---
-
 ## Definition
 
 これらのデータベースは、厳格なテーブル構造やカラム定義を事前に強制しないことで、動的なデータモデリングを可能にします。この柔軟性により、開発者は構造化されていないデータや半構造化データを保存でき、変化しやすいデータ要件に対応できます。

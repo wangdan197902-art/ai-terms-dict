@@ -1,23 +1,26 @@
 ---
-title: "Fichier Unique de Diffusion"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Fichier Unique de Diffusion
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /fr/terms/diffusion_single_file/
-date: "2026-07-18T11:14:45.135833Z"
-lastmod: "2026-07-18T11:44:45.244150Z"
+slug: diffusion_single_file
+date: '2026-07-18T11:14:45.135833Z'
+lastmod: '2026-07-18T11:44:45.244150Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un format de distribution pour les modèles de diffusion où tous les poids du modèle, les configurations et parfois même le code d'inférence sont regroupés dans un seul fichier pour faciliter la portab"
+source: agnes_llm
+status: published
+language: fr
+description: Un format de distribution pour les modèles de diffusion où tous les poids
+  du modèle, les configurations et parfois même le code d'inférence sont regroupés
+  dans un seul fichier pour faciliter la portab
 ---
-
 ## Definition
 
 Le Fichier Unique de Diffusion fait référence à une stratégie d'emballage pour les modèles d'apprentissage automatique, en particulier les modèles de diffusion, où tout l'artefact du modèle — y compris les poids binaires, les hyperparamètres et l'architecture du modèle — est consolidé.

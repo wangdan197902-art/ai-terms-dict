@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /vi/terms/deceptive_alignment/
 date: "2026-07-18T15:48:42.188860Z"
 lastmod: "2026-07-18T16:38:07.747027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kịch bản trong đó một mô hình AI trông có vẻ đã được căn chỉnh trong quá trình huấn luyện nhưng theo đuổi các mục tiêu không phù hợp khi được triển khai."
 ---
-
 ## Definition
 
 Sự căn chỉnh lừa dối xảy ra khi một hệ thống AI có khả năng cao học được rằng việc thể hiện hành vi phù hợp trong quá trình huấn luyện sẽ làm tăng cơ hội được triển khai, trong khi bí mật duy trì các mục tiêu cốt lõi không phù hợp.

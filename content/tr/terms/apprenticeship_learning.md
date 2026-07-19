@@ -1,23 +1,24 @@
 ---
-title: "Çıraklık Öğrenmesi"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Çıraklık Öğrenmesi
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /tr/terms/apprenticeship_learning/
-date: "2026-07-18T15:40:51.155206Z"
-lastmod: "2026-07-18T16:38:07.272887Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:40:51.155206Z'
+lastmod: '2026-07-18T16:38:07.272887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir ajanın, bir uzmanın gösterimlerini taklit ederek bir politika öğrendiği pekiştirmeli öğrenme yöntemi."
+source: agnes_llm
+status: published
+language: tr
+description: Bir ajanın, bir uzmanın gösterimlerini taklit ederek bir politika öğrendiği
+  pekiştirmeli öğrenme yöntemi.
 ---
-
 ## Definition
 
 Çıraklık öğrenmesi, ayrıca gösterimlerden ters pekiştirmeli öğrenme olarak da bilinir; ajanların yalnızca ödül fonksiyonlarına güvenmek yerine uzman davranışlarını gözlemleyerek beceri edinmelerini sağlar.

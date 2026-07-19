@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /tr/terms/extremal_optimization/
 date: "2026-07-18T15:52:56.686928Z"
 lastmod: "2026-07-18T16:38:07.307731Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ekstremal optimizasyon, kendiliğinden organize olmuş kritiklikten ilham alan, kombinatoryal optimizasyon problemlerini çözmek için en düşük performansa sahip bileşenleri yinelemeli olarak kaldırarak t"
 ---
-
 ## Definition
 
 Bir popülasyon koruyan genetik algoritmaların aksine, EO tek bir çözüm üzerinde çalışır. Genel uygunluğa en az katkıda bulunan bileşeni belirler ve onu rastgele bir alternatifle değiştirir.

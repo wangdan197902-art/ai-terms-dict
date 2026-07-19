@@ -1,23 +1,25 @@
 ---
-title: "Cây cầu (Ball tree)"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Cây cầu (Ball tree)
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /vi/terms/ball_tree/
-date: "2026-07-18T15:42:09.056454Z"
-lastmod: "2026-07-18T16:38:07.731920Z"
+slug: ball_tree
+date: '2026-07-18T15:42:09.056454Z'
+lastmod: '2026-07-18T16:38:07.731920Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một cấu trúc dữ liệu dạng cây nhị phân được sử dụng để tổ chức các điểm trong không gian, tối ưu hóa việc tìm kiếm hàng xóm gần nhất trong các tập dữ liệu nhiều chiều."
+source: agnes_llm
+status: published
+language: vi
+description: Một cấu trúc dữ liệu dạng cây nhị phân được sử dụng để tổ chức các điểm
+  trong không gian, tối ưu hóa việc tìm kiếm hàng xóm gần nhất trong các tập dữ liệu
+  nhiều chiều.
 ---
-
 ## Definition
 
 Cây cầu phân vùng các điểm dữ liệu thành các siêu cầu lồng nhau (balls) thay vì các siêu hình hộp chữ nhật. Cấu trúc này cho phép cắt tỉa hiệu quả trong các truy vấn tìm kiếm hàng xóm gần nhất bằng cách tính toán khoảng cách giữa

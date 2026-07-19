@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /id/terms/softmax/
-date: "2026-07-18T15:36:17.841108Z"
-lastmod: "2026-07-18T16:38:07.419529Z"
+slug: softmax
+date: '2026-07-18T15:36:17.841108Z'
+lastmod: '2026-07-18T16:38:07.419529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Fungsi matematika yang mengubah vektor skor bernilai riil menjadi distribusi probabilitas."
+source: agnes_llm
+status: published
+language: id
+description: Fungsi matematika yang mengubah vektor skor bernilai riil menjadi distribusi
+  probabilitas.
 ---
-
 ## Definition
 
 Softmax banyak digunakan pada lapisan output jaringan saraf untuk tugas klasifikasi multi-kelas. Fungsi ini mengambil vektor logit mentah dan menormalisasinya sehingga setiap elemen mewakili probabilitas.

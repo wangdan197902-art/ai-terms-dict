@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /zh/terms/datasets2orc/
 date: "2026-07-18T11:13:26.834847Z"
 lastmod: "2026-07-18T11:44:45.480992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Semantic Scholar开放研究语料库，一个包含结构化元数据和引用网络的大规模学术论文数据集。"
 ---
-
 ## Definition
 
 S2ORC 是从 Semantic Scholar 派生的学术文章综合语料库。它包括数百万篇跨各个科学领域的论文的全文本内容、元数据和引用关系。

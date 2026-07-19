@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /cs/terms/structural/
 date: "2026-07-18T15:29:21.818571Z"
 lastmod: "2026-07-18T17:15:09.078979Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vztahující se k základní organizaci, architektuře nebo uspořádání komponent uvnitř systému."
 ---
-
 ## Definition
 
 Strukturální aspekty definují, jak jsou data nebo vrstvy neuronové sítě organizovány. V grafických neuronových sítích struktura odkazuje na propojení uzlů; v hlubokém učení se jedná o topologii vrstev. Porozumění...

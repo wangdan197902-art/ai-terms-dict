@@ -1,23 +1,24 @@
 ---
-title: "Kubernetes"
-term_id: "kubernetes"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "devops", "cloud_computing"]
+title: Kubernetes
+term_id: kubernetes
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- devops
+- Cloud Computing
 difficulty: 3
 weight: 1
-slug: "kubernetes"
-aliases:
-  - /hu/terms/kubernetes/
-date: "2026-07-18T16:09:33.414834Z"
-lastmod: "2026-07-18T17:15:09.800688Z"
+slug: kubernetes
+date: '2026-07-18T16:09:33.414834Z'
+lastmod: '2026-07-18T17:15:09.800688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy nyílt forráskódú platform konténerizált alkalmazások telepítésének, skálázásának és kezelésének automatizálására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy nyílt forráskódú platform konténerizált alkalmazások telepítésének,
+  skálázásának és kezelésének automatizálására.
 ---
-
 ## Definition
 
 A Kubernetes (gyakran K8s-ként rövidítve) egy konténer-orchestrációs rendszer, amelyet eredetileg a Google fejlesztett ki. Automatizálja az alkalmazáskonténerek telepítését, skálázását és üzemeltetését a fürtökön keresztül. Lehetővé teszi a mikroszolgáltatások hatékony kezelését, a hibatűrés növelését és az erőforrások optimális kihasználását a felhőalapú környezetekben.

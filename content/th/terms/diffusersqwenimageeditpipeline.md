@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /th/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:50:41.166622Z"
-lastmod: "2026-07-18T16:38:07.599188Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:50:41.166622Z'
+lastmod: '2026-07-18T16:38:07.599188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เพย์ปไลน์ภายในไลบรารี Hugging Face Diffusers ที่ใช้โมเดล Qwen-VL สำหรับงานแก้ไขภาพตามคำสั่ง"
+source: agnes_llm
+status: published
+language: th
+description: เพย์ปไลน์ภายในไลบรารี Hugging Face Diffusers ที่ใช้โมเดล Qwen-VL สำหรับงานแก้ไขภาพตามคำสั่ง
 ---
-
 ## Definition
 
 เพย์ปไลน์นี้ผสานความสามารถของโมเดล Qwen-Vision-Language เข้ากับกรอบงาน Diffusers เพื่อทำการปรับเปลี่ยนภาพอย่างแม่นยำตามคำแนะนำที่เป็นภาษาธรรมชาติ ต่างจากเพย์ปไลน์แบบสร้างภาพใหม่ทั้งหมด

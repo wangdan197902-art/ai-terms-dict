@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /pl/terms/on_policy/
 date: "2026-07-18T15:32:22.910885Z"
 lastmod: "2026-07-18T17:15:08.827375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Podejście uczenia przez wzmacnianie, w którym polityka oceniana i ulepszana jest tą samą polityką, która generuje dane."
 ---
-
 ## Definition
 
 Algorytmy on-policy wymagają, aby agent uczył się bezpośrednio z działań podejmowanych przez swoją aktualną politykę. Oznacza to, że dane zebrane podczas eksploracji są natychmiast wykorzystywane do aktualizacji polityki, zapewniając...

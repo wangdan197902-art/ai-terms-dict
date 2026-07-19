@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /cs/terms/discovery_system/
 date: "2026-07-18T15:54:48.492540Z"
 lastmod: "2026-07-18T17:15:09.123820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Automatizovaný rámec nebo algoritmický proces navržený k identifikaci, prozkoumávání a vyhodnocování potenciálních řešení, vzorů nebo hypotéz v rozsáhlém vyhledávacím prostoru."
 ---
-
 ## Definition
 
 Objevovací systém je výpočetní rámec zaměřený na urychlení vědeckých nebo analytických průlomů automatizací prozkoumávání rozsáhlých datových prostorů. Na rozdíl od tradiční optimalizace, která se soustředí na...

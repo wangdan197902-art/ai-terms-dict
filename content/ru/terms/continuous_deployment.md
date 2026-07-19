@@ -1,23 +1,24 @@
 ---
-title: "Непрерывное развертывание"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Непрерывное развертывание
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /ru/terms/continuous_deployment/
-date: "2026-07-18T15:46:31.517648Z"
-lastmod: "2026-07-18T16:38:07.134678Z"
+slug: continuous_deployment
+date: '2026-07-18T15:46:31.517648Z'
+lastmod: '2026-07-18T16:38:07.134678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Практика разработки ПО, при которой каждое изменение кода, прошедшее автоматическое тестирование, автоматически выпускается в продакшн."
+source: agnes_llm
+status: published
+language: ru
+description: Практика разработки ПО, при которой каждое изменение кода, прошедшее
+  автоматическое тестирование, автоматически выпускается в продакшн.
 ---
-
 ## Definition
 
 Непрерывное развертывание является расширением непрерывной доставки и автоматизирует весь процесс выпуска. Как только изменения в коде проходят все контрольные точки качества, включая модульные тесты, интеграционные тесты и проверки безопасности, они автоматически развертываются в производственную среду.

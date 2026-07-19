@@ -1,23 +1,24 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /ro/terms/pyannote/
-date: "2026-07-18T16:17:37.962986Z"
-lastmod: "2026-07-18T17:15:09.694875Z"
+slug: pyannote
+date: '2026-07-18T16:17:37.962986Z'
+lastmod: '2026-07-18T17:15:09.694875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Pyannote este o bibliotecă Python care oferă soluții de ultimă generație pentru sarcinile de diarizare a vorbitorilor și segmentare audio."
+source: agnes_llm
+status: published
+language: ro
+description: Pyannote este o bibliotecă Python care oferă soluții de ultimă generație
+  pentru sarcinile de diarizare a vorbitorilor și segmentare audio.
 ---
-
 ## Definition
 
 Pyannote este o bibliotecă open-source în Python, dezvoltată de pyannote.audio, specializată în diarizarea vorbitorilor, adică procesul de determinare a 'cine a vorbit când' într-un flux audio. Aceasta utilizează rețele neuronale profunde (deep learning) pentru a extrage caracteristici vocale și a le grupa.

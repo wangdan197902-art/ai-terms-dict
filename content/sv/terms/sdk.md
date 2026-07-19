@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /sv/terms/sdk/
 date: "2026-07-18T15:40:34.115344Z"
 lastmod: "2026-07-18T17:15:08.966773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett utvecklingspaket (Software Development Kit) som tillhandahåller verktyg, bibliotek och dokumentation för att bygga applikationer."
 ---
-
 ## Definition
 
 Ett SDK är en samling mjukvaruutvecklingsverktyg som gör det möjligt för utvecklare att skapa applikationer för specifika plattformar eller tjänster. För AI tillhandahåller SDK:er färdigbyggda bibliotek, API:er och verktyg för att

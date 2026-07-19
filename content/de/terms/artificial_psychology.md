@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /de/terms/artificial_psychology/
 date: "2026-07-18T11:03:33.637098Z"
 lastmod: "2026-07-18T11:44:44.910984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Forschungsfeld, das sich damit befasst, wie man KI-Systeme mit kognitiven Architekturen entwirft, die menschliche psychologische Prozesse nachahmen."
 ---
-
 ## Definition
 
 Künstliche Psychologie ist ein interdisziplinäres Gebiet, das sich auf den Entwurf und die Implementierung kognitiver Architekturen in KI-Systemen konzentriert. Es greift auf Kognitionswissenschaft und Psychologie zurück, um menschliches M

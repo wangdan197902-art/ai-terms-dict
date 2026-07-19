@@ -1,23 +1,24 @@
 ---
-title: "Tái tạo Tomographic bằng Mạng Nơ-ron Sâu"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: Tái tạo Tomographic bằng Mạng Nơ-ron Sâu
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /vi/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:48:58.163000Z"
-lastmod: "2026-07-18T16:38:07.747691Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:48:58.163000Z'
+lastmod: '2026-07-18T16:38:07.747691Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật chụp ảnh tính toán sử dụng mạng nơ-ron sâu để tái tạo các hình ảnh cắt ngang chất lượng cao từ dữ liệu chiếu thưa hoặc nhiễu."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật chụp ảnh tính toán sử dụng mạng nơ-ron sâu để tái tạo các
+  hình ảnh cắt ngang chất lượng cao từ dữ liệu chiếu thưa hoặc nhiễu.
 ---
-
 ## Definition
 
 Tái tạo Tomographic bằng Mạng Nơ-ron Sâu đại diện cho một bước tiến đáng kể so với các phương pháp đại số hoặc phân tích truyền thống như phép chiếu ngược có lọc. Bằng cách tận dụng các mạng nơ-ron tích chập (CNNs)

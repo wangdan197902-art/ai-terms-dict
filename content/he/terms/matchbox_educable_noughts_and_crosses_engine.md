@@ -1,23 +1,24 @@
 ---
-title: "מנוע לימודי X-O בקופסאות גפרורים"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: מנוע לימודי X-O בקופסאות גפרורים
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /he/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:11:52.229287Z"
-lastmod: "2026-07-18T17:15:09.562893Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:11:52.229287Z'
+lastmod: '2026-07-18T17:15:09.562893Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מכשיר פיזי ללמידה מחזקת שנבנה על ידי דונלד מיץ' בשנת 1961 כדי לשחק משחק X-O באמצעות קופסאות גפרורים וחרוזים."
+source: agnes_llm
+status: published
+language: he
+description: מכשיר פיזי ללמידה מחזקת שנבנה על ידי דונלד מיץ' בשנת 1961 כדי לשחק משחק
+  X-O באמצעות קופסאות גפרורים וחרוזים.
 ---
-
 ## Definition
 
 מנוע ה-X-O היה הדגמה מוקדמת של למידת מכונה, ובפרט למידה מחזקת. הוא הורכב מ-304 קופסאות גפרורים, כאשר כל אחת מייצגת מצב ייחודי של הלוח, והמערכת

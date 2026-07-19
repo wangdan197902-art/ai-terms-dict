@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /vi/terms/adversarial_machine_learning/
 date: "2026-07-18T15:39:36.194294Z"
 lastmod: "2026-07-18T16:38:07.725077Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Học máy đối nghịch là lĩnh vực nghiên cứu cách giúp các mô hình học máy trở nên bền vững trước các đầu vào độc hại được thiết kế để đánh lừa chúng."
 ---
-
 ## Definition
 
 Lĩnh vực này bao gồm cả các kỹ thuật tấn công để phá vỡ mô hình và các chiến lược phòng thủ để tăng cường độ cứng rắn cho chúng. Nó liên quan đến việc huấn luyện các mô hình trên các ví dụ đối nghịch để cải thiện khả năng phục hồi, một quy trình được gọi là huấn luyện đối nghịch.

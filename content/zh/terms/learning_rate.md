@@ -1,23 +1,23 @@
 ---
-title: "学习率"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: 学习率
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /zh/terms/learning_rate/
-date: "2026-07-18T11:00:35.785291Z"
-lastmod: "2026-07-18T11:44:45.402158Z"
+slug: learning_rate
+date: '2026-07-18T11:00:35.785291Z'
+lastmod: '2026-07-18T11:44:45.402158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "控制模型优化过程中步长的超参数，旨在最小化损失函数。"
+source: agnes_llm
+status: published
+language: zh
+description: 控制模型优化过程中步长的超参数，旨在最小化损失函数。
 ---
-
 ## Definition
 
 学习率决定了在每次训练迭代中，模型权重相对于计算出的梯度更新了多少。如果学习率过高，可能导致模型在优化过程中越过最优解；如果过低，则可能导致训练收敛缓慢。

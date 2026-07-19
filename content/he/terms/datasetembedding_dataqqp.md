@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /he/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:51:49.302949Z"
 lastmod: "2026-07-18T17:15:09.527609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת הנתונים Quora Question Pairs המשמשת לאימון מודלים לזיהוי דמיון סמנטי בין שאלות."
 ---
-
 ## Definition
 
 Quora Question Pairs (QQP) היא מערכת נתונים למיון בינארי הכוללת יותר מ-400,000 זוגות שאלות מפלטפורמת Quora. המשימה היא לקבוע האם לשתי שאלות יש את אותה כוונה או...

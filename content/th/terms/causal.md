@@ -1,23 +1,24 @@
 ---
-title: "เชิงสาเหตุ"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: เชิงสาเหตุ
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /th/terms/causal/
-date: "2026-07-18T15:23:52.695473Z"
-lastmod: "2026-07-18T16:38:07.534363Z"
+slug: causal
+date: '2026-07-18T15:23:52.695473Z'
+lastmod: '2026-07-18T16:38:07.534363Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การอนุมานเชิงสาเหตุเกี่ยวข้องกับการกำหนดความสัมพันธ์เชิงเหตุและผลระหว่างตัวแปร แทนที่จะเพียงแค่ระบุความสัมพันธ์ทางสถิติ"
+source: agnes_llm
+status: published
+language: th
+description: การอนุมานเชิงสาเหตุเกี่ยวข้องกับการกำหนดความสัมพันธ์เชิงเหตุและผลระหว่างตัวแปร
+  แทนที่จะเพียงแค่ระบุความสัมพันธ์ทางสถิติ
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์ การสร้างแบบจำลองเชิงสาเหตุมุ่งทำความเข้าใจว่าการแทรกแซงต่อตัวแปรหนึ่งส่งผลกระทบต่ออีกตัวแปรอย่างไร ต่างจากแบบจำลองการทำนายที่พึ่งพาpatterns ที่สังเกตได้ ปัญญาประดิษฐ์เชิงสาเหตุใช้สมการโครงสร้างเพื่ออธิบายกลไกของระบบ

@@ -1,23 +1,24 @@
 ---
-title: "Robotyka ewolucyjno-rozwojowa"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: Robotyka ewolucyjno-rozwojowa
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /pl/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:53:59.006551Z"
-lastmod: "2026-07-18T17:15:08.871437Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:53:59.006551Z'
+lastmod: '2026-07-18T17:15:08.871437Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Poddziedzina robotyki łącząca algorytmy ewolucyjne z procesami rozwojowymi w celu projektowania morfologii i systemów sterowania robotów."
+source: agnes_llm
+status: published
+language: pl
+description: Poddziedzina robotyki łącząca algorytmy ewolucyjne z procesami rozwojowymi
+  w celu projektowania morfologii i systemów sterowania robotów.
 ---
-
 ## Definition
 
 Zainspirowana biologicznym ontogenezą, robotyka ED-Robotics bada, jak złożone zachowania i struktury fizyczne wyłaniają się z czasem poprzez interakcję ze środowiskiem, a nie są sztywno zakodowane. Wykorzystuje ewolucję i rozwój.

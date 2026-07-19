@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /vi/terms/model_hub_mixin/
 date: "2026-07-18T16:03:47.110344Z"
 lastmod: "2026-07-18T16:38:07.783823Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Model Hub Mixin là một thành phần lớp có thể tái sử dụng, thêm chức năng chuẩn hóa vào các mô hình Hugging Face Transformers."
 ---
-
 ## Definition
 
 Các Mixin cung cấp các phương thức chung như lưu, tải và đẩy mô hình lên Hugging Face Hub mà không yêu cầu mỗi kiến trúc mô hình phải tự triển khai các tiện ích này. Chúng đảm bảo tính nhất quán

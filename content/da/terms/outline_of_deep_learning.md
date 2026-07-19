@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /da/terms/outline_of_deep_learning/
 date: "2026-07-18T16:10:35.948185Z"
 lastmod: "2026-07-18T17:15:09.318313Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En struktureret oversigt over deep learning-metodologier, arkitekturer og optimeringsstrategier."
 ---
-
 ## Definition
 
 Oversigten over deep learning omfatter de fundamentale strukturer såsom neurale netværkslag, aktiveringsfunktioner og tabsmetrics. Den detaljerer træningsteknikker herunder backpropagation, gra

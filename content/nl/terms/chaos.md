@@ -7,8 +7,6 @@ tags: ["theory", "complexity", "mathematics"]
 difficulty: 4
 weight: 1
 slug: "chaos"
-aliases:
-  - /nl/terms/chaos/
 date: "2026-07-18T15:45:48.155282Z"
 lastmod: "2026-07-18T17:15:08.723821Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In de AI verwijst chaos naar complexe, niet-lineaire dynamische systemen die sterk gevoelig zijn voor beginvoorwaarden, er vaak willekeurig uitzien maar worden bestuurd door deterministische regels."
 ---
-
 ## Definition
 
 De chaostheorie onderzoekt hoe kleine variaties in startparameters kunnen leiden tot aanzienlijk verschillende uitkomsten in complexe systemen. In kunstmatige intelligentie is het begrijpen van chaotisch gedrag cruciaal voor het modelleren en voorspellen van systeemgedrag onder onzekere omstandigheden.

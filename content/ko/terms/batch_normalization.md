@@ -1,23 +1,23 @@
 ---
-title: "배치 정규화(Batch Normalization)"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: 배치 정규화(Batch Normalization)
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /ko/terms/batch_normalization/
-date: "2026-07-18T15:43:24.253819Z"
-lastmod: "2026-07-18T16:38:06.812525Z"
+slug: batch_normalization
+date: '2026-07-18T15:43:24.253819Z'
+lastmod: '2026-07-18T16:38:06.812525Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "미니 배치 전체에 걸쳐 레이어 입력값을 정규화하여 신경망 학습을 안정화하고 가속화하는 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 미니 배치 전체에 걸쳐 레이어 입력값을 정규화하여 신경망 학습을 안정화하고 가속화하는 기법입니다.
 ---
-
 ## Definition
 
 이 방법은 훈련 중 각 미니 배치 내에서 활성화 값의 평균을 0, 분산을 1로 조정 및 스케일링합니다. 이를 통해 내부 공변량 변화(Internal covariate shift)를 줄여 더 높은 학습률 사용과 빠른 수렴을 가능하게 합니다.

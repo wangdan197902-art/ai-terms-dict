@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /id/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:39:22.304469Z"
 lastmod: "2026-07-18T16:38:07.428546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dinamika kompetitif di mana negara atau organisasi mengembangkan kemampuan AI secara cepat untuk mendapatkan keunggulan strategis."
 ---
-
 ## Definition
 
 Perlombaan senjata AI mengacu pada persaingan sengit antara negara, korporasi, dan lembaga penelitian untuk mencapai dominasi dalam teknologi kecerdasan buatan. Persaingan ini mendorong inovasi yang cepat, namun juga menimbulkan tantangan terkait keamanan versus kecepatan pengembangan.

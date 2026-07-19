@@ -1,23 +1,23 @@
 ---
-title: "データ駆動型モデル"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: データ駆動型モデル
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /ja/terms/data_driven_model/
-date: "2026-07-18T11:10:00.332433Z"
-lastmod: "2026-07-18T11:44:45.083740Z"
+slug: data_driven_model
+date: '2026-07-18T11:10:00.332433Z'
+lastmod: '2026-07-18T11:44:45.083740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "明示的なプログラミングではなく、実データから直接パラメータと構造を学習する計算モデル。"
+source: agnes_llm
+status: published
+language: ja
+description: 明示的なプログラミングではなく、実データから直接パラメータと構造を学習する計算モデル。
 ---
-
 ## Definition
 
 データ駆動型モデルは、ハードコードされたルールや明示的な物理方程式によって定義されるのではなく、履歴データ内で識別されたパターンから行動や予測が導き出される人工知能システムの一種です。これは機械学習の核心的な概念です。

@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /th/terms/empirical_dynamic_modeling/
 date: "2026-07-18T15:51:59.004496Z"
 lastmod: "2026-07-18T16:38:07.602506Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "แนวทางทางสถิติแบบไม่ใช้พารามิเตอร์ (non-parametric) ที่ใช้เพื่อสร้างโครงสร้างพลวัตของระบบที่ซับซ้อนจากข้อมูลอนุกรมเวลาเชิงสังเกตการณ์"
 ---
-
 ## Definition
 
 การสร้างแบบจำลองพลวัตเชิงประจักษ์ (EDM) เป็นกรอบแนวคิดสำหรับการวิเคราะห์ระบบพลวัตที่ไม่เป็นเส้นตรงโดยใช้ข้อมูลเชิงสังเกตการณ์ โดยไม่ต้องสมมติรูปแบบพารามิเตอร์เฉพาะเจาะจง วิธีการนี้พึ่งพาเทคนิคการฝังตัวของทาเคนส์ (Takens' embedding)

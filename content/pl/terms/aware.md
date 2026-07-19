@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /pl/terms/aware/
 date: "2026-07-18T15:23:31.615459Z"
 lastmod: "2026-07-18T17:15:08.807405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wskazuje na zdolność AI do wykrywania i przetwarzania określonych informacji kontekstowych lub bodźców."
 ---
-
 ## Definition
 
 W kontekście AI termin 'świadomy' odnosi się zwykle do świadomości sytuacyjnej lub kontekstowej, gdzie system rozpoznaje istotne czynniki środowiskowe lub stany użytkownika. Nie implikuje to świadomości, lecz raczej zdolność do reagowania na kontekst.

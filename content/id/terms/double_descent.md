@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /id/terms/double_descent/
 date: "2026-07-18T15:48:41.014850Z"
 lastmod: "2026-07-18T16:38:07.452373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fenomena di mana kesalahan uji menurun, meningkat, lalu menurun lagi seiring kompleksitas model bertambah melampaui ambang batas interpolasi."
 ---
-
 ## Definition
 
 Double Descent menantang trade-off bias-varians tradisional dengan menunjukkan bahwa model yang sangat overparameterisasi dapat mencapai kesalahan uji yang rendah meskipun melakukan interpolasi pada data pelatihan. Awalnya, kesalahan meningkat...

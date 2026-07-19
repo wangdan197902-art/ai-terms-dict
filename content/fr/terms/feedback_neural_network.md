@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /fr/terms/feedback_neural_network/
 date: "2026-07-18T11:17:20.089493Z"
 lastmod: "2026-07-18T11:44:45.251393Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une architecture de réseau de neurones où les connexions forment des cycles dirigés, permettant à l'information de persister dans le temps."
 ---
-
 ## Definition
 
 Les réseaux de neurones à rétroaction, également appelés réseaux de neurones récurrents (RNN), contiennent des boucles qui permettent aux signaux de se propager vers les couches précédentes. Cette récurrence permet au réseau de maintenir un état interne.

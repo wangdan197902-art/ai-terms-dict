@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /ro/terms/multi_task_learning/
 date: "2026-07-18T16:12:50.265056Z"
 lastmod: "2026-07-18T17:15:09.684047Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Învățarea multi-sarcină este un paradigmă de învățare automată în care un model este antrenat pe mai multe sarcini conexe simultan pentru a îmbunătăți generalizarea."
 ---
-
 ## Definition
 
 Această tehnică valorifică bias-ul inductiv partajat între sarcinile conexe pentru a crește eficiența și performanța învățării. Prin antrenarea unui singur model pentru a executa mai multe sarcini simultan, modelul învață o rep

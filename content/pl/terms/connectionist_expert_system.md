@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /pl/terms/connectionist_expert_system/
 date: "2026-07-18T15:46:55.085182Z"
 lastmod: "2026-07-18T17:15:08.856907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Inteligentny system łączący możliwości nauki sieci neuronowych ze strukturami wnioskowania symbolicznego."
 ---
-
 ## Definition
 
 System ekspertowy łącznościowy integruje moc rozpoznawania wzorców i nauki sieci neuronowych (łącznościowość) z jawną reprezentacją wiedzy i logicznym wnioskowaniem tradycyjnych systemów symboli.

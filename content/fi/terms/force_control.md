@@ -1,23 +1,24 @@
 ---
-title: "Voiman hallinta"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Voiman hallinta
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /fi/terms/force_control/
-date: "2026-07-18T15:58:21.096416Z"
-lastmod: "2026-07-18T17:15:09.412403Z"
+slug: force_control
+date: '2026-07-18T15:58:21.096416Z'
+lastmod: '2026-07-18T17:15:09.412403Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Voiman hallinta on robottitekniikan menetelmä, joka säätelee robotin päätelementin ja ympäristön välisiä vuorovaikutusvoimia fyysisten tehtävien aikana."
+source: agnes_llm
+status: published
+language: fi
+description: Voiman hallinta on robottitekniikan menetelmä, joka säätelee robotin
+  päätelementin ja ympäristön välisiä vuorovaikutusvoimia fyysisten tehtävien aikana.
 ---
-
 ## Definition
 
 Voiman hallinta mahdollistaa robottejen suorittaa hienovaraisia operaatioita, kuten kokoonpanoa, kiillotusta tai hauraiden esineiden käsittelyä, aktivoimalla kosketusvoiman hallinnan sijasta pelkän paikan hallinnan. Toisin kuin puhtaassa positi

@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /ja/terms/chain_of_thought_prompting/
 date: "2026-07-18T10:58:22.790641Z"
 lastmod: "2026-07-18T11:44:45.031234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "思考の連鎖プロンプティングは、最終的な回答を生成する前に、中間的な推論ステップを生成することを大規模言語モデルに促す手法です。"
 ---
-
 ## Definition
 
 思考の連鎖（CoT）プロンプティングは、モデルに段階的なロジックを明示的に記述させることで、複雑な推論タスクにおける大規模言語モデルのパフォーマンスを向上させます。飛躍的に

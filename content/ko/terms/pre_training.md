@@ -1,23 +1,24 @@
 ---
-title: "사전 학습"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: 사전 학습
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /ko/terms/pre_training/
-date: "2026-07-18T15:27:55.305857Z"
-lastmod: "2026-07-18T16:38:06.781173Z"
+slug: pre_training
+date: '2026-07-18T15:27:55.305857Z'
+lastmod: '2026-07-18T16:38:06.781173Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특정 작업에 대한 파인튜닝(fine-tuning) 전에 일반적 표현을 학습하기 위해 대규모 비라벨 데이터셋으로 머신러닝 모델을 초기 단계에서 훈련하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 특정 작업에 대한 파인튜닝(fine-tuning) 전에 일반적 표현을 학습하기 위해 대규모 비라벨 데이터셋으로 머신러닝 모델을
+  초기 단계에서 훈련하는 과정입니다.
 ---
-
 ## Definition
 
 사전 학습(pre-training)은 딥러닝의 기초 기술로, 모델이 레이블이 없는 방대한 양의 데이터로부터 광범위한 특징과 패턴을 학습하는 과정을 말합니다. 이 과정을 통해 모델은 특정 작업에 적응할 수 있는 기반 능력을 갖추게 됩니다.

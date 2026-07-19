@@ -1,23 +1,24 @@
 ---
-title: "Asztrostatisztika"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Asztrostatisztika
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /hu/terms/astrostatistics/
-date: "2026-07-18T15:45:32.152643Z"
-lastmod: "2026-07-18T17:15:09.756008Z"
+slug: astrostatistics
+date: '2026-07-18T15:45:32.152643Z'
+lastmod: '2026-07-18T17:15:09.756008Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A statisztikai módszerek alkalmazása az asztrofizikai problémák megoldására és az asztrofizikai adatok elemzésére."
+source: agnes_llm
+status: published
+language: hu
+description: A statisztikai módszerek alkalmazása az asztrofizikai problémák megoldására
+  és az asztrofizikai adatok elemzésére.
 ---
-
 ## Definition
 
 Az asztrostatisztika egy specializált terület, amely a statisztika és az asztrofizika között hídat képez. Magában foglalja a szigorú statisztikai technikák fejlesztését és alkalmazását az asztrofizikai adatok egyedi kihívásainak kezelésére, például a nagy volumenű megfigyelési adatok zajának kiszűrésére, a ritka események modellezésére és a kozmológiai paraméterek pontos becslésére.

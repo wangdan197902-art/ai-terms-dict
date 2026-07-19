@@ -1,23 +1,24 @@
 ---
-title: "Распространение ожиданий"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: Распространение ожиданий
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /ru/terms/expectation_propagation/
-date: "2026-07-18T15:52:10.242120Z"
-lastmod: "2026-07-18T16:38:07.155262Z"
+slug: expectation_propagation
+date: '2026-07-18T15:52:10.242120Z'
+lastmod: '2026-07-18T16:38:07.155262Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Алгоритм приближенного вывода, используемый для оценки апостериорных распределений в сложных вероятностных графических моделях."
+source: agnes_llm
+status: published
+language: ru
+description: Алгоритм приближенного вывода, используемый для оценки апостериорных
+  распределений в сложных вероятностных графических моделях.
 ---
-
 ## Definition
 
 Распространение ожиданий (EP) аппроксимирует невычислимые интегралы путем итеративного уточнения гауссовых аппроксимаций истинного апостериорного распределения. Оно минимизирует расхождение Кульбака-Лейблера между аппроксимацией и истинным распределением.

@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /de/terms/ai_anthropomorphism/
 date: "2026-07-18T11:01:01.900239Z"
 lastmod: "2026-07-18T11:44:44.903373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Tendenz des Menschen, KI-Systemen menschliche Eigenschaften, Emotionen oder Absichten zuzuschreiben."
 ---
-
 ## Definition
 
 KI-Anthropomorphismus bezeichnet das psychologische Phänomen, bei dem Nutzer menschliche Merkmale auf nicht-menschliche Entitäten wie Chatbots oder Roboter projizieren. Dies kann zu unrealistischen Erwartungen bezüglich der Fähigkeiten dieser Systeme führen.

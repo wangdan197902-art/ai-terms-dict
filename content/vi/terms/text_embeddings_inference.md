@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /vi/terms/text_embeddings_inference/
 date: "2026-07-18T16:14:07.193754Z"
 lastmod: "2026-07-18T16:38:07.810591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một máy chủ suy luận chuyên dụng được thiết kế để tạo hiệu quả các biểu diễn vectơ dày đặc của văn bản cho các tác vụ tìm kiếm và truy xuất ngữ nghĩa."
 ---
-
 ## Definition
 
 Inference Nhúng Văn bản đề cập đến việc triển khai và tối ưu hóa các mô hình chuyển đổi ngôn ngữ tự nhiên thành các vectơ nhiều chiều. Các nhúng này nắm bắt ý nghĩa ngữ nghĩa, cho phép các hệ thống thực hiện tìm kiếm ngữ nghĩa và truy xuất thông tin hiệu quả.

@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /tr/terms/circuit/
 date: "2026-07-18T15:45:01.348747Z"
 lastmod: "2026-07-18T16:38:07.282069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir devre, hesaplama görevlerini yerine getiren çipler ve bağlantılar dahil olmak üzere fiziksel donanım altyapısını ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka bağlamında bir devre, genellikle matris işlemlerini ve paralel işlemeyi hızlandırmak için tasarlanmış GPU'lar, TPU'lar veya nöromorfik çipler gibi altta yatan donanım mimarisini belirtir. Bu

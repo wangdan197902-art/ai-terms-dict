@@ -1,23 +1,24 @@
 ---
-title: "Tuning"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Tuning
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /id/terms/tuning/
-date: "2026-07-18T15:30:34.302259Z"
-lastmod: "2026-07-18T16:38:07.406244Z"
+slug: tuning
+date: '2026-07-18T15:30:34.302259Z'
+lastmod: '2026-07-18T16:38:07.406244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses menyesuaikan hiperparameter atau bobot model untuk mengoptimalkan kinerja pada dataset atau tugas tertentu."
+source: agnes_llm
+status: published
+language: id
+description: Proses menyesuaikan hiperparameter atau bobot model untuk mengoptimalkan
+  kinerja pada dataset atau tugas tertentu.
 ---
-
 ## Definition
 
 Tuning melibatkan penyempurnaan model pembelajaran mesin untuk mencapai akurasi atau efisiensi yang lebih baik. Ini dapat merujuk pada penyetelan hiperparameter, di mana pengaturan seperti laju pembelajaran atau ukuran batch dioptimalkan, atau penyesuaian halus (fin

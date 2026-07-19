@@ -1,23 +1,23 @@
 ---
-title: "类型检查器"
-term_id: "type_checker"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "debugging", "quality_assurance"]
+title: 类型检查器
+term_id: type_checker
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- debugging
+- Quality Assurance
 difficulty: 2
 weight: 1
-slug: "type_checker"
-aliases:
-  - /zh/terms/type_checker/
-date: "2026-07-18T11:37:15.094917Z"
-lastmod: "2026-07-18T11:44:45.565473Z"
+slug: type_checker
+date: '2026-07-18T11:37:15.094917Z'
+lastmod: '2026-07-18T11:44:45.565473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "类型检查器是一种静态分析工具，用于验证代码中变量和表达式的类型是否符合编程语言的类型系统规则。"
+source: agnes_llm
+status: published
+language: zh
+description: 类型检查器是一种静态分析工具，用于验证代码中变量和表达式的类型是否符合编程语言的类型系统规则。
 ---
-
 ## Definition
 
 在软件工程领域，特别是对于用Python、C++或Rust编写的AI库，类型检查器通过验证操作是否在兼容的数据类型之间进行来确保代码的正确性。它有助于在运行前发现类型错误。

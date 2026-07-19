@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /es/terms/m_theory/
 date: "2026-07-18T10:58:36.798495Z"
 lastmod: "2026-07-18T11:44:44.828423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La Teoría M es un marco teórico en física que unifica cinco versiones diferentes de la teoría de cuerdas, proponiendo que las partículas fundamentales son vibraciones de membranas unidimensionales en "
 ---
-
 ## Definition
 
 Aunque es principalmente un concepto de la física teórica en lugar de la informática, la Teoría M se menciona ocasionalmente en simulaciones computacionales avanzadas e investigación de computación cuántica. Sugiere que

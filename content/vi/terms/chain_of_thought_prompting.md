@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /vi/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:34:03.793700Z"
 lastmod: "2026-07-18T16:38:07.707082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chain-of-Thought Prompting là một kỹ thuật khuyến khích các Mô hình Ngôn ngữ Lớn (LLM) tạo ra các bước suy luận trung gian trước khi đưa ra câu trả lời cuối cùng."
 ---
-
 ## Definition
 
 Gợi ý Suy luận Chuỗi (CoT) cải thiện hiệu suất của các mô hình ngôn ngữ lớn trên các nhiệm vụ suy luận phức tạp bằng cách yêu cầu rõ ràng mô hình diễn đạt logic từng bước của nó. Thay vì nhảy thẳng đến kết quả, mô hình sẽ giải thích quá trình suy nghĩ.

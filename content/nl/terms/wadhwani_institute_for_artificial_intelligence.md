@@ -1,23 +1,25 @@
 ---
-title: "Wadhwani Institute for Artificial Intelligence"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: Wadhwani Institute for Artificial Intelligence
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /nl/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T16:22:02.699768Z"
-lastmod: "2026-07-18T17:15:08.797294Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T16:22:02.699768Z'
+lastmod: '2026-07-18T17:15:08.797294Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het Wadhwani Institute for Artificial Intelligence is een onderzoeksorganisatie die zich richt op het toepassen van AI-oplossingen om kritieke uitdagingen in de gezondheidszorg en landbouw in ontwikke"
+source: agnes_llm
+status: published
+language: nl
+description: Het Wadhwani Institute for Artificial Intelligence is een onderzoeksorganisatie
+  die zich richt op het toepassen van AI-oplossingen om kritieke uitdagingen in de
+  gezondheidszorg en landbouw in ontwikke
 ---
-
 ## Definition
 
 Opgericht met een aanzienlijke donatie van de Wadhwani Foundation, maakt dit instituut gebruik van geavanceerde machine learning- en computervisie-technologieën om maatschappelijke problemen op grote schaal op te lossen. De prioriteiten liggen bij het verbeteren van de levenskwaliteit in kwetsbare regio's.

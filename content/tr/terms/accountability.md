@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /tr/terms/accountability/
 date: "2026-07-18T15:39:45.182552Z"
 lastmod: "2026-07-18T16:38:07.269278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI sistemlerinin geliştiricilerinin ve operatörlerinin, bu sistemlerin sonuçları ve etkileri konusunda hesap verebilir olması gerektiği ilkesi."
 ---
-
 ## Definition
 
 Yapay zekada sorumluluk, bireylerin, kuruluşların ve geliştiricilerin AI teknolojilerinin tasarımı, dağıtımı ve sonuçları için sorumluluk alma yükümlülüğünü ifade eder.

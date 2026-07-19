@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /es/terms/throughput/
 date: "2026-07-18T11:10:28.539937Z"
 lastmod: "2026-07-18T11:44:44.861891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El rendimiento mide la cantidad de datos o solicitudes que un sistema de IA puede procesar correctamente dentro de un período de tiempo determinado."
 ---
-
 ## Definition
 
 En la ingeniería de IA, el rendimiento es una métrica de rendimiento crítica que indica la capacidad del sistema. A menudo se mide en tokens por segundo para LLMs, imágenes por segundo para modelos de visión por computadora o consultas por...

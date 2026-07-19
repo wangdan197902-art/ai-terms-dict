@@ -1,23 +1,24 @@
 ---
-title: "Sesgo Inductivo"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Sesgo Inductivo
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /es/terms/inductive_bias/
-date: "2026-07-18T10:54:34.038982Z"
-lastmod: "2026-07-18T11:44:44.819030Z"
+slug: inductive_bias
+date: '2026-07-18T10:54:34.038982Z'
+lastmod: '2026-07-18T11:44:44.819030Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El conjunto de suposiciones que utiliza un algoritmo de aprendizaje para predecir resultados en entradas no vistas durante el entrenamiento."
+source: agnes_llm
+status: published
+language: es
+description: El conjunto de suposiciones que utiliza un algoritmo de aprendizaje para
+  predecir resultados en entradas no vistas durante el entrenamiento.
 ---
-
 ## Definition
 
 El sesgo inductivo representa las preferencias o restricciones inherentes integradas en un modelo de aprendizaje automático que le permiten generalizar desde los datos de entrenamiento hasta datos no vistos. Sin tales sesgos, un modelo no podría elegir entre múltiples hipótesis consistentes con los datos observados.

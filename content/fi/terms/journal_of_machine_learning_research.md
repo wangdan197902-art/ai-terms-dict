@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /fi/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:04:51.037052Z"
 lastmod: "2026-07-18T17:15:09.424152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Johtava vertaisarvioitu akateeminen aikakauslehti, joka on omistettu julkaisemaan korkealaatuista tutkimusta koneoppimisen kaikilta osa-alueilta."
 ---
-
 ## Definition
 
 Journal of Machine Learning Research (JMLR) on merkittävä avoimen lähdekoodin julkaisu, joka toimii ensisijaisena alustana koneoppimisen tiukkojen tieteellisten löydösten levittämiseen. Se kattaa teoreettiset ja käytännön näkökohdat.

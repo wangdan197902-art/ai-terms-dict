@@ -1,23 +1,24 @@
 ---
-title: "التشفير الموضعي"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: التشفير الموضعي
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /ar/terms/positional_encoding/
-date: "2026-07-18T15:38:09.821422Z"
-lastmod: "2026-07-18T17:15:08.464472Z"
+slug: positional_encoding
+date: '2026-07-18T15:38:09.821422Z'
+lastmod: '2026-07-18T17:15:08.464472Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تُدخل معلومات حول الموقع النسبي أو المطلق للرموز في تسلسل ما إلى نماذج المحولات (Transformers)."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تُدخل معلومات حول الموقع النسبي أو المطلق للرموز في تسلسل ما إلى
+  نماذج المحولات (Transformers).
 ---
-
 ## Definition
 
 بما أن نماذج المحولات تعالج جميع الرموز بالتوازي بدلاً من التسلسل كما تفعل الشبكات العصبية المتكررة (RNNs)، فإنها تفتقر إلى المعرفة الفطرية بترتيب الرموز. يضيف التشفير الموضعي متجهات محددة إلى تضمينات المدخلات لتحديد موقع كل رمز ضمن التسلسل، مما يسمح للنموذج بفهم ترتيب البيانات.

@@ -1,23 +1,24 @@
 ---
-title: "Identificação de Língua Nativa"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identificação de Língua Nativa
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /pt/terms/native_language_identification/
-date: "2026-07-18T15:14:20.706692Z"
-lastmod: "2026-07-18T15:51:59.516646Z"
+slug: native_language_identification
+date: '2026-07-18T15:14:20.706692Z'
+lastmod: '2026-07-18T15:51:59.516646Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo de determinar automaticamente a língua nativa de um falante a partir de suas amostras de fala ou texto."
+source: agnes_llm
+status: published
+language: pt
+description: O processo de determinar automaticamente a língua nativa de um falante
+  a partir de suas amostras de fala ou texto.
 ---
-
 ## Definition
 
 A identificação de língua nativa (ILN) é um subcampo do processamento de linguagem natural que se concentra no reconhecimento da primeira língua aprendida por um falante. Diferentemente da detecção geral de idiomas, a ILN analisa...

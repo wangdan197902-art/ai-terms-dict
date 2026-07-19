@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /pl/terms/in_context_learning/
 date: "2026-07-18T15:23:05.011731Z"
 lastmod: "2026-07-18T17:15:08.806382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technika, w której modele uczą się wykonywać zadania poprzez obserwację przykładów dostarczonych w podpowiedzi."
 ---
-
 ## Definition
 
 Uczenie w kontekście (ICL) pozwala dużym modelom językowym dostosowywać się do nowych zadań bez aktualizacji ich wag. Poprzez dostarczenie par wejście-wyjście w kontekście podpowiedzi, model wnioskuje wzorzec i...

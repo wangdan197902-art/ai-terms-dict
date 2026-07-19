@@ -1,23 +1,24 @@
 ---
-title: "מערכות מבוססות ידע"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: מערכות מבוססות ידע
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /he/terms/knowledge_based_systems/
-date: "2026-07-18T16:09:00.436778Z"
-lastmod: "2026-07-18T17:15:09.555762Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:09:00.436778Z'
+lastmod: '2026-07-18T17:15:09.555762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מערכות בינה מלאכותית המנצלות מאגרי ידע מפורשים ומנועי מסקנות כדי לפתור בעיות מורכבות הדורשות מומחיות אנושית."
+source: agnes_llm
+status: published
+language: he
+description: מערכות בינה מלאכותית המנצלות מאגרי ידע מפורשים ומנועי מסקנות כדי לפתור
+  בעיות מורכבות הדורשות מומחיות אנושית.
 ---
-
 ## Definition
 
 מערכות מבוססות ידע (KBS) הן ענף של בינה מלאכותית המשלב ידע ספציפי לתחום בתוך מערכת מחשב כדי לבצע משימות הדורשות בדרך כלל מומחיות אנושית. הן משתמשות במאגר ידע לאחסון העובדות והכללים, ובמנוי מסקנות כדי להסיק מסקנות חדשות או לפתור בעיות על בסיס הידע הקיים.

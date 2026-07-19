@@ -1,23 +1,23 @@
 ---
-title: "Pencarian"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Pencarian
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /id/terms/search/
-date: "2026-07-18T15:29:22.821284Z"
-lastmod: "2026-07-18T16:38:07.402485Z"
+slug: search
+date: '2026-07-18T15:29:22.821284Z'
+lastmod: '2026-07-18T16:38:07.402485Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Algoritma pencarian secara sistematis menjelajahi ruang solusi untuk menemukan hasil optimal atau memuaskan dalam tugas AI."
+source: agnes_llm
+status: published
+language: id
+description: Algoritma pencarian secara sistematis menjelajahi ruang solusi untuk
+  menemukan hasil optimal atau memuaskan dalam tugas AI.
 ---
-
 ## Definition
 
 Pencarian adalah paradigma dasar dalam AI yang digunakan untuk menavigasi ruang masalah yang kompleks, seperti permainan atau perencanaan rute. Algoritma seperti A*, Minimax, atau Pencarian Pohon Monte Carlo mengevaluasi langkah-langkah potensial

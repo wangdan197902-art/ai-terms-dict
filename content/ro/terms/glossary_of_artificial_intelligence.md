@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /ro/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T16:00:19.733370Z"
 lastmod: "2026-07-18T17:15:09.660809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un glosar de inteligență artificială este o listă curatorială de definiții ale termenilor utilizați în cercetarea și dezvoltarea IA."
 ---
-
 ## Definition
 
 Un Glosar de Inteligență Artificială servește ca document de referință care definește terminologia specializată, acronimele și conceptele din domeniu. Acesta ajută cercetătorii, dezvoltatorii și studenții să înțeleagă corect noțiunile tehnice și să comunice eficient.

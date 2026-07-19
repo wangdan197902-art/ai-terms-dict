@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /pl/terms/gdpr_compliance/
 date: "2026-07-18T15:55:47.641387Z"
 lastmod: "2026-07-18T17:15:08.875486Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przestrzeganie Ogólnego Rozporządzenia o Ochronie Danych, zapewniające, że systemy AI szanują prywatność użytkowników i ich prawa do danych."
 ---
-
 ## Definition
 
 Zgodność z RODO odnosi się do środków prawnych i technicznych, które muszą wdrożyć deweloperzy AI, aby chronić dane osobowe osób znajdujących się w Unii Europejskiej. Dla systemów AI oznacza to zastosowanie takich zasad, jak minimalizacja danych, jawność przetwarzania oraz zapewnienie praw do bycia zapomnianym.

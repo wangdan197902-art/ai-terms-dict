@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /hu/terms/content_filtering/
 date: "2026-07-18T15:51:20.361237Z"
 lastmod: "2026-07-18T17:15:09.765275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A digitális tartalmak hozzáférésének blokkolása vagy engedélyezése előre meghatározott kritériumok vagy osztályozási modellek alapján."
 ---
-
 ## Definition
 
 A tartalomszűrés algoritmusok és szabályok használatát jelenti az információk szűrésére, osztályozására és vezérlésére. Az AI kontextusban ez gyakran természetes nyelvi feldolgozást és számítógépes látást alkalmaz a tartalom elemzésére.

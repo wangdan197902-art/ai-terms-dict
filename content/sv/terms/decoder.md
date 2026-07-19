@@ -1,23 +1,24 @@
 ---
-title: "Avkodare"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Avkodare
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /sv/terms/decoder/
-date: "2026-07-18T15:37:46.634562Z"
-lastmod: "2026-07-18T17:15:08.961479Z"
+slug: decoder
+date: '2026-07-18T15:37:46.634562Z'
+lastmod: '2026-07-18T17:15:08.961479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En komponent i ett neuralt nätverk som ansvarar för att generera utdata sekvenser från kodat latenta representationer."
+source: agnes_llm
+status: published
+language: sv
+description: En komponent i ett neuralt nätverk som ansvarar för att generera utdata
+  sekvenser från kodat latenta representationer.
 ---
-
 ## Definition
 
 I sekvens-till-sekvens-modeller tar avkodaren emot kontextvektorn som producerats av kodaren och genererar målutdatan steg för steg. Den använder uppmärksamhetsmekanismer (attention mechanisms) för att fokusera på relevanta delar av den inmatade sekvensen.

@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /fi/terms/extremal_optimization/
 date: "2026-07-18T15:57:19.362796Z"
 lastmod: "2026-07-18T17:15:09.410495Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Äärioptimointi on heuristinen hakualgoritmi, joka on inspiroitu itseorganisoituvasta kriittisyydestä, ja on suunniteltu ratkaisemaan kombinatorisia optimointiongelmia poistamalla iteratiivisesti huono"
 ---
-
 ## Definition
 
 Toisin kuin geneettiset algoritmit, jotka ylläpitävät populaatiota, EO toimii yhdessä ratkaisussa. Se tunnistaa komponentin, joka tuottaa vähiten kokonaiskelpoisuutta, ja korvaa sen satunnaisella vaihtoehdolla. T...

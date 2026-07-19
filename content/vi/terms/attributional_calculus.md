@@ -1,23 +1,24 @@
 ---
-title: "Phép tính gán thuộc tính"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Phép tính gán thuộc tính
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /vi/terms/attributional_calculus/
-date: "2026-07-18T15:41:21.521401Z"
-lastmod: "2026-07-18T16:38:07.730076Z"
+slug: attributional_calculus
+date: '2026-07-18T15:41:21.521401Z'
+lastmod: '2026-07-18T16:38:07.730076Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một hệ thống logic hình thức được sử dụng để biểu diễn và suy luận về việc gán tri thức, cụ thể là ai biết hoặc tin tưởng điều gì."
+source: agnes_llm
+status: published
+language: vi
+description: Một hệ thống logic hình thức được sử dụng để biểu diễn và suy luận về
+  việc gán tri thức, cụ thể là ai biết hoặc tin tưởng điều gì.
 ---
-
 ## Definition
 
 Phép tính gán thuộc tính là một nhánh của logic mô-đun tập trung vào suy luận về các trạng thái nhận thức. Nó cung cấp một khung làm việc để mô hình hóa các phát biểu như 'Tác nhân A biết rằng P' hoặc 'Tác nhân B tin tưởng Q'. Điều này

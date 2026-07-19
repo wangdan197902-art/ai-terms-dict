@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /pt/terms/moe/
 date: "2026-07-18T15:13:27.796615Z"
 lastmod: "2026-07-18T15:51:59.514173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um padrão arquitetural onde múltiplas redes neurais especializadas (especialistas) são combinadas por meio de um mecanismo de controle para processar entradas."
 ---
-
 ## Definition
 
 Mistura de Especialistas (MoE) é uma arquitetura de aprendizado de máquina projetada para melhorar a eficiência e a escalabilidade. Em vez de usar um único modelo grande para todas as tarefas, o MoE emprega vários 'especialistas' menores

@@ -1,23 +1,23 @@
 ---
-title: "נתונים מסומנים"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: נתונים מסומנים
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /he/terms/labeled_data/
-date: "2026-07-18T16:09:15.066629Z"
-lastmod: "2026-07-18T17:15:09.556497Z"
+slug: labeled_data
+date: '2026-07-18T16:09:15.066629Z'
+lastmod: '2026-07-18T17:15:09.556497Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "נתונים בהם ערך הפלט או המטרה הנכון מסופקים לצד תכונות הקלט."
+source: agnes_llm
+status: published
+language: he
+description: נתונים בהם ערך הפלט או המטרה הנכון מסופקים לצד תכונות הקלט.
 ---
-
 ## Definition
 
 נתונים מסומנים מורכבים מדגימות קלט המצורפות לתוויות אמת יסוד מתאימות, ומשמשים כבסיס ללמידת מכונה סופרתית. הם מאפשרים לאלגוריתמים ללמוד את ההתאמה בין קלט לפלט.

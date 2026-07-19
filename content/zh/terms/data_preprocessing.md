@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /zh/terms/data_preprocessing/
 date: "2026-07-18T11:12:36.731253Z"
 lastmod: "2026-07-18T11:44:45.474718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将原始数据转换为干净、一致的格式，以便机器学习算法使用的过程。"
 ---
-
 ## Definition
 
 数据预处理是将原始的、非结构化或嘈杂的数据转换为标准化格式的关键任务，使机器学习模型能够有效处理这些数据。此阶段通常包括数据清洗、归一化、编码和特征缩放等操作。

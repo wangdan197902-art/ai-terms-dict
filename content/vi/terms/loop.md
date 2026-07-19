@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /vi/terms/loop/
 date: "2026-07-18T15:26:51.698005Z"
 lastmod: "2026-07-18T16:38:07.689281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cấu trúc lập trình lặp lại một khối mã nhiều lần cho đến khi một điều kiện nhất định được thỏa mãn."
 ---
-
 ## Definition
 
 Là một cấu trúc luồng điều khiển cơ bản trong khoa học máy tính và phát triển AI, vòng lặp cho phép các thuật toán lặp qua các tập dữ liệu, thực hiện các phép tính lặp đi lặp lại hoặc chạy các kỷ nguyên huấn luyện. Các loại phổ biến bao gồm

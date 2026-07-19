@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: Stable Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /zh/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T11:15:21.633124Z"
-lastmod: "2026-07-18T11:44:45.490284Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T11:15:21.633124Z'
+lastmod: '2026-07-18T11:44:45.490284Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个 Hugging Face Diffusers 管道封装，利用 Stable Video Diffusion 模型从静态图像生成视频。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个 Hugging Face Diffusers 管道封装，利用 Stable Video Diffusion 模型从静态图像生成视频。
 ---
-
 ## Definition
 
 该术语指 Hugging Face Diffusers 库中专为视频生成设计的特定实现。它集成了 Stable Video Diffusion (SVD) 模型，这是一种潜在视频扩散模型，能够将静态图像转化为动态视频内容。

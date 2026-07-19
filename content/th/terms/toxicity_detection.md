@@ -1,23 +1,23 @@
 ---
-title: "การตรวจจับความเป็นพิษ (Toxicity Detection)"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: การตรวจจับความเป็นพิษ (Toxicity Detection)
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /th/terms/toxicity_detection/
-date: "2026-07-18T16:18:40.543881Z"
-lastmod: "2026-07-18T16:38:07.663517Z"
+slug: toxicity_detection
+date: '2026-07-18T16:18:40.543881Z'
+lastmod: '2026-07-18T16:38:07.663517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการอัตโนมัติในการระบุและจัดประเภทภาษาที่เป็นอันตรายหรือล่วงละเมิดในข้อความโดยใช้แบบจำลองการเรียนรู้ของเครื่อง"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการอัตโนมัติในการระบุและจัดประเภทภาษาที่เป็นอันตรายหรือล่วงละเมิดในข้อความโดยใช้แบบจำลองการเรียนรู้ของเครื่อง
 ---
-
 ## Definition
 
 การตรวจจับความเป็นพิษใช้เทคนิคการประมวลผลภาษาธรรมชาติ (NLP) เพื่อวิเคราะห์อินพุตข้อความและกำหนดคะแนนความน่าจะเป็นที่บ่งชี้โอกาสที่เนื้อหานั้นจะมีความเป็นอันตราย ระบบเหล่านี้มักใช้การเรียนรู้ภายใต้การดูแล (supervised learning) โดยฝึกฝนจากชุดข้อมูลที่ติดป้ายกำกับแล้ว เพื่อแยกแยะระหว่างเนื้อหาที่เหมาะสมและไม่เหมาะสม

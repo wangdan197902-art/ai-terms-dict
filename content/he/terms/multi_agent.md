@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /he/terms/multi_agent/
 date: "2026-07-18T15:33:21.207767Z"
 lastmod: "2026-07-18T17:15:09.493527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ארכיטקטורת מערכת שבה מספר סוכנים אוטונומיים מתקשרים זה עם זה בסביבה משותפת כדי להשיג מטרות אישיות או קולקטיביות."
 ---
-
 ## Definition
 
 מערכות רב-סוכן מורכבות ממספר ישויות עצמאיות וחכמות התופסות את הסביבה שלהן, מקבלות החלטות ומפעילות פעולות עליה. סוכנים אלו עשויים לשתף פעולה, להתחרות או למשא ומתן זה עם זה.

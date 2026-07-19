@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /id/terms/hyperparameter/
 date: "2026-07-18T15:55:01.607617Z"
 lastmod: "2026-07-18T16:38:07.468138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Variabel konfigurasi nilainya ditetapkan sebelum proses pelatihan dan mengatur perilaku algoritma pembelajaran."
 ---
-
 ## Definition
 
 Berbeda dengan parameter model (bobot dan bias) yang dipelajari dari data selama pelatihan, hipermeter adalah pengaturan eksternal yang dipilih oleh praktisi sebelum pelatihan dimulai. Hipermeter ini mengontrol struktur model, laju pembelajaran, dan aspek lain yang memengaruhi bagaimana model belajar dari data.

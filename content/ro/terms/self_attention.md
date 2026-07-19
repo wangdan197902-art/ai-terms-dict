@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /ro/terms/self_attention/
 date: "2026-07-18T15:29:35.306089Z"
 lastmod: "2026-07-18T17:15:09.604037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un mecanism care permite unei rețele neuronale să evalueze importanța diferitelor părți ale secvenței de intrare în raport cu celelalte."
 ---
-
 ## Definition
 
 Atenția auto permite modelelor să capteze dependențele dintre toate pozițiile dintr-o secvență simultan, indiferent de distanță. Prin calcularea scorurilor de atenție între fiecare pereche de tokenuri, aceasta permite...

@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /ar/terms/outline_of_deep_learning/
 date: "2026-07-18T16:15:20.869527Z"
 lastmod: "2026-07-18T17:15:08.534559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظرة عامة منظمة لمنهجيات التعلم العميق، والبنى المعمارية، واستراتيجيات التحسين."
 ---
-
 ## Definition
 
 يشمل مخطط التعلم العميق الهياكل الأساسية مثل طبقات الشبكات العصبية، ودوال التنشيط، ومقاييس الخسارة. كما يفصل في تقنيات التدريب بما في ذلك الانتشار العكسي وخوارزميات التدرج، مقدماً إطاراً شاملاً لفهم وتطوير نماذج التعلم العميق.

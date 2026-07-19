@@ -1,23 +1,23 @@
 ---
-title: "Højttalerdiarisering"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Højttalerdiarisering
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /da/terms/speaker_diarization/
-date: "2026-07-18T16:18:53.679311Z"
-lastmod: "2026-07-18T17:15:09.333225Z"
+slug: speaker_diarization
+date: '2026-07-18T16:18:53.679311Z'
+lastmod: '2026-07-18T17:15:09.333225Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at bestemme 'hvem talte hvornår' i en lydoptagelse."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at bestemme 'hvem talte hvornår' i en lydoptagelse.
 ---
-
 ## Definition
 
 Højttalerdiarisering er opgaven med at opdele en lydstrøm i homogene segmenter baseret på højttalerens identitet. Det kombinerer detektion af højttalerskift med højttalerklustering for at mærke, hvem der sagde hvad.

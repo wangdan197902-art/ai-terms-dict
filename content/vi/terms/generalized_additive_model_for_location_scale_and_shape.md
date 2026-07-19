@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /vi/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T15:54:40.001651Z"
 lastmod: "2026-07-18T16:38:07.760582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "GAMLSS là một khung thống kê linh hoạt cho phép tất cả các tham số của một phân phối được mô hình hóa dưới dạng hàm của các biến giải thích bằng cách sử dụng các hàm mượt cộng tổng."
 ---
-
 ## Definition
 
 Khác với các mô hình hồi quy truyền thống chỉ tập trung vào giá trị trung bình, GAMLSS mô hình hóa toàn bộ phân phối, bao gồm vị trí (trung bình/trung vị), quy mô (phương sai), độ lệch và độ nhọn. Nó sử dụng các hàm tổng quát...

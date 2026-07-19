@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /fi/terms/context/
 date: "2026-07-18T15:24:20.048420Z"
 lastmod: "2026-07-18T17:15:09.347627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Konteksti viittaa ympäröiviin tietoihin tai ympäristöön, joka auttaa tekoälymallia tulkitsemaan syöttödataa tarkasti ja tuottamaan relevantteja vastauksia."
 ---
-
 ## Definition
 
 Luonnollisen kielen käsittelyssä konteksti on ratkaisevan tärkeää epäselvyyksien ratkaisemisessa, kuten pronomineiden tai idiomien ymmärtämisessä aiempien lauseiden perusteella. Nykyarkkitehtuurit kuten transformerit käyttävät huomiomekanismeja kontekstin hyödyntämiseen.

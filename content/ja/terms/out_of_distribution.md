@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /ja/terms/out_of_distribution/
 date: "2026-07-18T10:57:27.889541Z"
 lastmod: "2026-07-18T11:44:45.028408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルのトレーニングフェーズで確認された分布と大きく異なるデータポイント。"
 ---
-
 ## Definition
 
 分布外（OOD）検出は、トレーニングデータの分布の範囲外にある入力を特定します。モデルはOODデータに対して性能が低下したり、自信を持って誤った予測をしたりすることが多く、信頼性に欠ける結果につながります

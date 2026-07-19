@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /tr/terms/mountain_car_problem/
 date: "2026-07-18T16:04:32.780767Z"
 lastmod: "2026-07-18T16:38:07.337195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir ajanın yalnızca ivme kontrollerini kullanarak dik bir tepeden tırmanması gereken klasik pekiştirmeli öğrenme görevi."
 ---
-
 ## Definition
 
 Dağ Arabası Problemi, pekiştirmeli öğrenme araştırmalarında standart bir referans noktasıdır. Amaç, gücü yetersiz bir arabayı dik bir tepeye çıkarmaktır. Araba tepeyi tek başına tırmanamadığı için

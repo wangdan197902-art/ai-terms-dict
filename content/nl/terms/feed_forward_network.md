@@ -1,23 +1,24 @@
 ---
-title: "Feed-Forward Network"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Feed-Forward Network
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /nl/terms/feed_forward_network/
-date: "2026-07-18T15:55:19.995013Z"
-lastmod: "2026-07-18T17:15:08.744943Z"
+slug: feed_forward_network
+date: '2026-07-18T15:55:19.995013Z'
+lastmod: '2026-07-18T17:15:08.744943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een klasse van kunstmatige neurale netwerken waarbij verbindingen tussen knooppunten geen cycli vormen en informatie in één richting wordt voortgeplant."
+source: agnes_llm
+status: published
+language: nl
+description: Een klasse van kunstmatige neurale netwerken waarbij verbindingen tussen
+  knooppunten geen cycli vormen en informatie in één richting wordt voortgeplant.
 ---
-
 ## Definition
 
 Feed-Forward Networks (FFN's), ook wel Multi-Layer Perceptrons (MLP's) genoemd, verwerken data sequentieel door lagen van neuronen van invoer naar uitvoer zonder feedbacklussen. Elke neuron ontvangt invoeren, past een gewogen som toe en passeert deze door een activatiefunctie naar de volgende laag.

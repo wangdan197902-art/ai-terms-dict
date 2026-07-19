@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /de/terms/knowledge_distillation/
 date: "2026-07-18T11:20:22.762723Z"
 lastmod: "2026-07-18T11:44:44.954695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Wissensdistillation ist eine Modellkomprimierungstechnik, bei der ein kleineres Schülermodell lernt, das Verhalten eines größeren Lehrermodells nachzuahmen."
 ---
-
 ## Definition
 
 Wissensdistillation ist eine Methode des maschinellen Lernens, die verwendet wird, um ein großes, komplexes neuronales Netz (den Lehrer) in ein kleineres, effizienteres Netzwerk (den Schüler) zu komprimieren. Das Schülermodell wird so trainiert, dass es

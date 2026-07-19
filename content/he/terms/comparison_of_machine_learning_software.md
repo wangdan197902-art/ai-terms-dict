@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /he/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T15:48:25.661027Z"
 lastmod: "2026-07-18T17:15:09.521139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הערכה אנליטית של מסגרות ML שונות על בסיס תכונות, ביצועים, קלות שימוש ותמיכה בקהילה כדי להנחות את בחירת הכלים."
 ---
-
 ## Definition
 
 מונח זה מתייחס להערכה שיטתית ובחינת מדדים (Benchmarking) של ספריות ופלטפורמות שונות ללמידת מכונה, כגון TensorFlow, PyTorch, Scikit-learn ו-Keras. השוואות בדרך כלל מנתחות את יתרונותיהם וחסרונותיהם של כל כלי כדי לעזור למפתחים לבחור את הפתרון המתאים ביותר לצרכי הפרויקט הספציפי שלהם.

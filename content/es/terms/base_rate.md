@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /es/terms/base_rate/
 date: "2026-07-18T10:37:53.983617Z"
 lastmod: "2026-07-18T11:44:44.781226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La tasa base es la probabilidad previa de que ocurra un evento en una población, independientemente de cualquier evidencia específica o resultados de pruebas."
 ---
-
 ## Definition
 
 En estadística y aprendizaje automático, la tasa base se refiere a la frecuencia subyacente de una condición o resultado dentro de un conjunto de datos determinado. Ignorar las tasas base a menudo conduce a la falacia de la tasa base, donde las personas sobreestiman la probabilidad de un evento raro basado en nueva evidencia.

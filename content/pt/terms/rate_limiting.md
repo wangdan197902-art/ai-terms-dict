@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /pt/terms/rate_limiting/
 date: "2026-07-18T15:19:26.569713Z"
 lastmod: "2026-07-18T15:51:59.527922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um mecanismo de controle de engenharia que restringe o número de solicitações que um cliente pode fazer a um serviço dentro de uma janela de tempo específica."
 ---
-
 ## Definition
 
 O limite de taxa protege serviços de IA e APIs contra abuso, sobrecarga e consumo excessivo de recursos. Ele garante o uso justo entre os usuários e mantém a estabilidade do sistema ao limitar a capacidade de processamento. Estratégias comuns incluem...

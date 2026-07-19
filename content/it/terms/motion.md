@@ -1,23 +1,23 @@
 ---
-title: "Movimento"
-term_id: "motion"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "robotics"]
+title: Movimento
+term_id: motion
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 2
 weight: 1
-slug: "motion"
-aliases:
-  - /it/terms/motion/
-date: "2026-07-18T15:27:13.996324Z"
-lastmod: "2026-07-18T17:15:08.570200Z"
+slug: motion
+date: '2026-07-18T15:27:13.996324Z'
+lastmod: '2026-07-18T17:15:08.570200Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il cambiamento continuo nella posizione di un oggetto rispetto al tempo e a un sistema di riferimento."
+source: agnes_llm
+status: published
+language: it
+description: Il cambiamento continuo nella posizione di un oggetto rispetto al tempo
+  e a un sistema di riferimento.
 ---
-
 ## Definition
 
 Nella visione artificiale e nella robotica, il movimento si riferisce al rilevamento e all'analisi dello spostamento all'interno di dati visivi o sistemi fisici. Algoritmi come il Flusso Ottico stimano il modello del movimento apparente.

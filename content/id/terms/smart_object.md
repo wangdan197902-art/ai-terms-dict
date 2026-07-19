@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /id/terms/smart_object/
 date: "2026-07-18T16:08:52.692258Z"
 lastmod: "2026-07-18T16:38:07.507353Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Entitas fisik yang dilengkapi dengan sensor, aktuator, dan konektivitas untuk mengumpulkan data dan berinteraksi secara cerdas dengan lingkungannya."
 ---
-
 ## Definition
 
 Objek pintar adalah komponen dari Internet of Things (IoT) yang memiliki pengenal unik dan kemampuan untuk mentransfer data melalui jaringan tanpa interaksi langsung antar-manusia atau manusia-ke-komputer...

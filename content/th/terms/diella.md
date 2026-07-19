@@ -1,23 +1,22 @@
 ---
-title: "Diella (ไดเอลลา)"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella (ไดเอลลา)
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /th/terms/diella/
-date: "2026-07-18T15:50:01.830780Z"
-lastmod: "2026-07-18T16:38:07.598463Z"
+slug: diella
+date: '2026-07-18T15:50:01.830780Z'
+lastmod: '2026-07-18T16:38:07.598463Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถาปัตยกรรมดีปเลิร์นนิงเฉพาะทางที่ออกแบบมาสำหรับงานซูเปอร์รีโซลูชันและการฟื้นฟูภาพอย่างมีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: สถาปัตยกรรมดีปเลิร์นนิงเฉพาะทางที่ออกแบบมาสำหรับงานซูเปอร์รีโซลูชันและการฟื้นฟูภาพอย่างมีประสิทธิภาพ
 ---
-
 ## Definition
 
 Diella หมายถึงโมเดลเครือข่ายประสาทเทียมเฉพาะที่ปรับให้เหมาะสมสำหรับการปรับปรุงคุณภาพภาพโดยการเพิ่มความละเอียดหรือลดสัญญาณรบกวน สถาปัตยกรรมเหล่านี้มักใช้กลไกความสนใจขั้นสูง (attention mechanisms) หรือโครงสร้างอื่นๆ เพื่อรักษารายละเอียด...

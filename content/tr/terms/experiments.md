@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /tr/terms/experiments/
 date: "2026-07-18T15:24:58.820523Z"
 lastmod: "2026-07-18T16:38:07.231617Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Hipotezleri test etmek, model performansını değerlendirmek veya yeni yapay zeka yetenekleri keşfetmek için yürütülen kontrollü prosedürlerdir."
 ---
-
 ## Definition
 
 Yapay zekada deneyler, makine öğrenmesi modellerindeki nedensellik ilişkilerini anlamak için değişkenlerin sistematik olarak test edilmesini içerir. Bu prosedürler geliştiricilere farklı hiperparametreleri karşılaştırma ve model iyileştirme fırsatı tanır.

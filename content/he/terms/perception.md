@@ -1,23 +1,23 @@
 ---
-title: "תפיסה"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: תפיסה
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /he/terms/perception/
-date: "2026-07-18T15:28:45.086040Z"
-lastmod: "2026-07-18T17:15:09.484087Z"
+slug: perception
+date: '2026-07-18T15:28:45.086040Z'
+lastmod: '2026-07-18T17:15:09.484087Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תפיסה היא התהליך שבו מערכות בינה מלאכותית מפרשות נתוני קלט חושיים, כגון תמונות או שמע, כדי להבין את הסביבה שלהן."
+source: agnes_llm
+status: published
+language: he
+description: תפיסה היא התהליך שבו מערכות בינה מלאכותית מפרשות נתוני קלט חושיים, כגון
+  תמונות או שמע, כדי להבין את הסביבה שלהן.
 ---
-
 ## Definition
 
 תפיסה בבינה מלאכותית כוללת המרת נתוני חיישנים גולמיים למידע משמעותי שניתן לעבד על ידי מודולי היגיון ברמה גבוהה יותר. זה כולל ראייה ממוחשבת לפענוח סצנות חזותיות, ועיבוד שפה טבעית.

@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /fi/terms/aixi/
 date: "2026-07-18T15:40:42.810355Z"
 lastmod: "2026-07-18T17:15:09.379734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "AIXI on tekoälyn yleisen älykkyyden matemaattinen teoria, joka mallintaa optimaalista agenttia vuorovaikutuksessa sen ympäristön kanssa."
 ---
-
 ## Definition
 
 AIXI on Marcus Hutterin ehdottama teoreettinen viitekehys, joka määrittelee ideaalisoitun älykkään agentin. Se yhdistää Solomonoffin induktioympäristön ennustamiseen ja vahvistusoppimisen päätöksentekoon.

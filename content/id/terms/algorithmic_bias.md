@@ -1,23 +1,24 @@
 ---
-title: "Bias Algoritmik"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Bias Algoritmik
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /id/terms/algorithmic_bias/
-date: "2026-07-18T15:38:29.806699Z"
-lastmod: "2026-07-18T16:38:07.426520Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:38:29.806699Z'
+lastmod: '2026-07-18T16:38:07.426520Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Bias algoritmik merujuk pada kesalahan sistematis dan berulang dalam sistem komputer yang menciptakan hasil tidak adil, seperti menguntungkan satu kelompok arbitrer dibandingkan lainnya."
+source: agnes_llm
+status: published
+language: id
+description: Bias algoritmik merujuk pada kesalahan sistematis dan berulang dalam
+  sistem komputer yang menciptakan hasil tidak adil, seperti menguntungkan satu kelompok
+  arbitrer dibandingkan lainnya.
 ---
-
 ## Definition
 
 Bias dalam algoritma biasanya berasal dari data pelatihan yang tidak representatif, pilihan desain subjektif, atau umpan balik yang memperkuat prasangka sosial yang sudah ada. Hal ini memanifestasikan diri sebagai prediksi yang menyimpang atau perlakuan yang tidak setara.

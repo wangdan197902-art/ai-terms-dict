@@ -1,23 +1,25 @@
 ---
-title: "Widzenie komputerowe"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Widzenie komputerowe
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /pl/terms/vision/
-date: "2026-07-18T15:37:34.421525Z"
-lastmod: "2026-07-18T17:15:08.838419Z"
+slug: vision
+date: '2026-07-18T15:37:34.421525Z'
+lastmod: '2026-07-18T17:15:08.838419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Widzenie komputerowe to dziedzina sztucznej inteligencji skupiająca się na umożliwieniu komputerom interpretacji i zrozumienia informacji wizualnych ze świata."
+source: agnes_llm
+status: published
+language: pl
+description: Widzenie komputerowe to dziedzina sztucznej inteligencji skupiająca się
+  na umożliwieniu komputerom interpretacji i zrozumienia informacji wizualnych ze
+  świata.
 ---
-
 ## Definition
 
 Widzenie komputerowe (CV) to gałąź sztucznej inteligencji, która uczy komputery wyodrębniania znaczącej informacji z cyfrowych obrazów, wideo i innych wejść wizualnych. Obejmuje rozwój algorytmów zdolnych do analizy treści wizualnych.

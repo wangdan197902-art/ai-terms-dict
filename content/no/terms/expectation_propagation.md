@@ -1,23 +1,24 @@
 ---
-title: "Forventningspropagering"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: Forventningspropagering
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /no/terms/expectation_propagation/
-date: "2026-07-18T15:53:44.793693Z"
-lastmod: "2026-07-18T16:38:06.999049Z"
+slug: expectation_propagation
+date: '2026-07-18T15:53:44.793693Z'
+lastmod: '2026-07-18T16:38:06.999049Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En tilnærmet inferensialgoritme brukt til å estimere posteriorfordelinger i komplekse sannsynslige grafmodeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: En tilnærmet inferensialgoritme brukt til å estimere posteriorfordelinger
+  i komplekse sannsynslige grafmodeller.
 ---
-
 ## Definition
 
 Forventningspropagering (EP) approksimerer ubehandlelige integraler ved iterativt å forbedre Gaussiske approksimasjoner av den sanne posteriorfordelingen. Den minimerer Kullback-Leibler-divergensen mellom den faktiske fordelingen og approksimasjonen.

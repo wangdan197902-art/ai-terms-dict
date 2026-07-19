@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /id/terms/building/
 date: "2026-07-18T15:23:42.150490Z"
 lastmod: "2026-07-18T16:38:07.389776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fase praktis pengembangan, pelatihan, dan penyebaran model serta sistem AI dari desain awal hingga kesiapan produksi."
 ---
-
 ## Definition
 
 Building merujuk pada proses rekayasa end-to-end dalam menciptakan solusi AI, yang mencakup pengumpulan data, pemilihan model, pelatihan, validasi, dan penyebaran. Hal ini mencakup infrastruktur teknis yang diperlukan.

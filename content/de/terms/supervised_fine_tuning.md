@@ -1,23 +1,24 @@
 ---
-title: "Überwachtes Feintuning"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Überwachtes Feintuning
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /de/terms/supervised_fine_tuning/
-date: "2026-07-18T11:00:05.256683Z"
-lastmod: "2026-07-18T11:44:44.900624Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T11:00:05.256683Z'
+lastmod: '2026-07-18T11:44:44.900624Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess des weiteren Trainings eines vortrainierten Modells auf einem spezifischen Datensatz, um es an eine bestimmte Aufgabe oder Domäne anzupassen."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess des weiteren Trainings eines vortrainierten Modells auf einem
+  spezifischen Datensatz, um es an eine bestimmte Aufgabe oder Domäne anzupassen.
 ---
-
 ## Definition
 
 Überwachtes Feintuning (SFT) beinhaltet die Verwendung eines großen vortrainierten Modells, wie z. B. eines Sprachmodells, und dessen weiteres Training auf einem kleineren, hochwertigen Datensatz, der für eine bestimmte Downstream-Aufgabe beschriftet ist.

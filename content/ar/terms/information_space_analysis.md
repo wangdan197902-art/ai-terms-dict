@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /ar/terms/information_space_analysis/
 date: "2026-07-18T16:03:21.808690Z"
 lastmod: "2026-07-18T17:15:08.516106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "فحص الخصائص الهندسية والطوبولوجية للفضاء الذي توجد فيه تمثيلات البيانات."
 ---
-
 ## Definition
 
 يتضمن هذا المفهوم تحليل بنية فضاء التمثيل في نماذج تعلم الآلة. ينظر إلى كيفية توزيع نقاط البيانات وتجمعها أو فصلها داخل الفضاء متعدد الأبعاد.

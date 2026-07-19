@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /ko/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:01:07.728889Z"
 lastmod: "2026-07-18T16:38:06.857912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "지식 그래프의 엔티티와 관계를 구조적 의미를 보존하면서 연속적인 벡터 공간으로 매핑하는 기술입니다."
 ---
-
 ## Definition
 
 TransE나 DistMult와 같은 지식 그래프 임베딩 방법은 이산적인 그래프 구조를 저차원의 밀집 벡터로 변환합니다. 이를 통해 머신러닝 모델이 그래프 데이터를 수학적으로 연산할 수 있게 되며, 링크 예측이나 엔티티 분류 등의 작업을 수행하는 데 활용됩니다.

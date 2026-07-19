@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /de/terms/extremal_optimization/
 date: "2026-07-18T11:14:02.601857Z"
 lastmod: "2026-07-18T11:44:44.938956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Extremaloptimierung ist ein heuristischer Suchalgorithmus, der von selbstorganisierter Kritikalität inspiriert ist und darauf ausgelegt ist, kombinatorische Optimierungsprobleme durch wiederholtes"
 ---
-
 ## Definition
 
 Im Gegensatz zu genetischen Algorithmen, die eine Population pflegen, arbeitet EO mit einer einzigen Lösung. Es identifiziert die Komponente, die am wenigsten zur Gesamtfitness beiträgt, und ersetzt sie durch eine zufällige Alternative.

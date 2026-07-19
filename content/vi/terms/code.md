@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /vi/terms/code/
 date: "2026-07-18T15:34:03.793734Z"
 lastmod: "2026-07-18T16:38:07.707378Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong bối cảnh AI, mã nguồn đề cập đến các hướng dẫn có cấu trúc được viết bằng ngôn ngữ lập trình để xác định hành vi của mô hình và logic xử lý dữ liệu."
 ---
-
 ## Definition
 
 Mã nguồn đại diện cho tập hợp các hướng dẫn được viết bằng các ngôn ngữ lập trình như Python, C++ hoặc JavaScript mà máy tính thực thi để thực hiện các nhiệm vụ cụ thể. Trong trí tuệ nhân tạo, mã nguồn là nền tảng để xây dựng và vận hành các hệ thống AI.

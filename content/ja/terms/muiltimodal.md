@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /ja/terms/muiltimodal/
 date: "2026-07-18T11:24:43.474102Z"
 lastmod: "2026-07-18T11:44:45.124443Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "マルチモーダルとは、テキスト、画像、音声など、複数のデータモダリティを同時に処理・統合するAIシステムを指します。"
 ---
-
 ## Definition
 
 人工知能において、マルチモーダル性は、モデルが異なる感覚入力やデータ形式にわたって情報を理解、生成、または相関させる能力を記述します。単一モダリティのモデルとは異なり、

@@ -1,23 +1,25 @@
 ---
-title: "Willekeurig kenmerk"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Willekeurig kenmerk
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /nl/terms/random_feature/
-date: "2026-07-18T16:14:52.969326Z"
-lastmod: "2026-07-18T17:15:08.782329Z"
+slug: random_feature
+date: '2026-07-18T16:14:52.969326Z'
+lastmod: '2026-07-18T17:15:08.782329Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek die invoergegevens naar een ruimte met hogere dimensies mapt met behulp van willekeurige projecties om kerneffectieve methoden efficiënt te benaderen."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek die invoergegevens naar een ruimte met hogere dimensies
+  mapt met behulp van willekeurige projecties om kerneffectieve methoden efficiënt
+  te benaderen.
 ---
-
 ## Definition
 
 Willekeurige kenmerkafbeeldingen transformeren inputs naar een nieuwe ruimte waar lineaire modellen niet-lineaire kernel-functies kunnen benaderen. Deze aanpak, vaak geassocieerd met de Nystrom-methode of Fourier-kenmerken, maakt lineaire benaderingen mogelijk van niet-lineaire operaties.

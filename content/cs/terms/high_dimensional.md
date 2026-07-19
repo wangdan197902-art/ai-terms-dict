@@ -1,23 +1,24 @@
 ---
-title: "vysokorozměrný"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: vysokorozměrný
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /cs/terms/high_dimensional/
-date: "2026-07-18T15:32:10.912185Z"
-lastmod: "2026-07-18T17:15:09.083424Z"
+slug: high_dimensional
+date: '2026-07-18T15:32:10.912185Z'
+lastmod: '2026-07-18T17:15:09.083424Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Popisuje datové prostory s velkým počtem funkcí nebo rozměrů, což často vede k vzácnosti dat a výpočetním problémům."
+source: agnes_llm
+status: published
+language: cs
+description: Popisuje datové prostory s velkým počtem funkcí nebo rozměrů, což často
+  vede k vzácnosti dat a výpočetním problémům.
 ---
-
 ## Definition
 
 Vysokorozměrný označuje datové sady nebo vektorové prostory obsahující obrovský počet atributů nebo funkcí. V AI je to běžné u textových vložek (embeddings), pixelů obrázků nebo dat o expresích genů. Ačkoli jsou tato data bohatá na informace, vysoká dimenzionalita může způsobit 'prokletí dimenzionality', kdy data jsou velmi řídká a vzdálenosti mezi body ztrácejí významnost.

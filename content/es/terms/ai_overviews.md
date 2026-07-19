@@ -1,23 +1,24 @@
 ---
-title: "Resúmenes de IA"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Resúmenes de IA
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /es/terms/ai_overviews/
-date: "2026-07-18T10:33:00.158533Z"
-lastmod: "2026-07-18T11:44:44.769164Z"
+slug: ai_overviews
+date: '2026-07-18T10:33:00.158533Z'
+lastmod: '2026-07-18T11:44:44.769164Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Respuestas resumidas generadas por modelos de IA que sintetizan información de múltiples fuentes para una comprensión rápida."
+source: agnes_llm
+status: published
+language: es
+description: Respuestas resumidas generadas por modelos de IA que sintetizan información
+  de múltiples fuentes para una comprensión rápida.
 ---
-
 ## Definition
 
 Los Resúmenes de IA son resúmenes condensados producidos por modelos de lenguaje grandes que agregan y sintetizan datos de varias fuentes web o bases de datos. A diferencia de los resultados de búsqueda tradicionales que enumeran enlaces, est

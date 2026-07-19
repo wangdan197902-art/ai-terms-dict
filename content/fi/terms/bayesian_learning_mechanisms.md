@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /fi/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:45:17.608892Z"
 lastmod: "2026-07-18T17:15:09.387817Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Oppimisparadigmat, jotka käsittelevät mallin parametreja satunnaismuuttujina, joilla on todennäköisyysjakaumat, ei kiinteinä arvoina."
 ---
-
 ## Definition
 
 Bayesiläiset oppimismekanismit päivittävät uskomuksia mallin parametreista Bayesin teoreemaa käyttäen yhdistämällä ennakko tietoa havaittuun dataan posteroijaksi jakaumaksi. Toisin kuin frekventistiset lähestymistavat, nämä menetelmät antavat suoran tavan kvantifioida epävarmuutta.

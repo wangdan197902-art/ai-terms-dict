@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /da/terms/interpretability/
 date: "2026-07-18T15:35:20.528004Z"
 lastmod: "2026-07-18T17:15:09.245357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den grad, hvori et menneske kan forstå årsagen til en beslutning truffet af en AI-model."
 ---
-
 ## Definition
 
 Fortolkelighed, eller forklarbarhed, involverer at gøre de interne mekanismer og beslutningsprocesser i AI-modeller gennemsigtige og forståelige for mennesker. Dette er afgørende for fejlfinding, overholdelse af regulering og opbygning af tillid til AI-systemer.

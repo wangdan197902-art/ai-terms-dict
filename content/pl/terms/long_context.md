@@ -1,23 +1,24 @@
 ---
-title: "Długi kontekst"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Długi kontekst
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /pl/terms/long_context/
-date: "2026-07-18T16:05:07.087089Z"
-lastmod: "2026-07-18T17:15:08.893683Z"
+slug: long_context
+date: '2026-07-18T16:05:07.087089Z'
+lastmod: '2026-07-18T17:15:08.893683Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Zdolność modelu językowego do przetwarzania i utrzymywania informacji z sekwencji wejściowych zawierających tysiące lub miliony tokenów."
+source: agnes_llm
+status: published
+language: pl
+description: Zdolność modelu językowego do przetwarzania i utrzymywania informacji
+  z sekwencji wejściowych zawierających tysiące lub miliony tokenów.
 ---
-
 ## Definition
 
 Długi kontekst odnosi się do zdolności modeli opartych na architekturze transformera do obsługi bardzo długich sekwencji wejściowych, często przekraczających standardowe limity takie jak 2k czy 4k tokenów. Ta zdolność pozwala modelom analizować całe dokumenty, długie kody źródłowe lub pełne transkrypcje, zachując spójność i kontekst na całej długości tekstu.

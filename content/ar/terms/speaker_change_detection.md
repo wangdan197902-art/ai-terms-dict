@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /ar/terms/speaker_change_detection/
 date: "2026-07-18T16:21:44.120638Z"
 lastmod: "2026-07-18T17:15:08.550096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية تحديد النقاط في تدفق صوتي حيث يتغير المتحدث النشط."
 ---
-
 ## Definition
 
 كشف تغيير المتحدث (SCD) هو تقنية تُستخدم لتحديد الطوابع الزمنية الدقيقة التي يتوقف فيها متحدث عن الكلام ويبدأ آخر. يعمل كخطوة تمهيدية في تشريح المتحدثين، مما يساعد في تقسيم المحتوى.

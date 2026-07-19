@@ -1,23 +1,24 @@
 ---
-title: "דומיין (תחום)"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: דומיין (תחום)
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /he/terms/domain/
-date: "2026-07-18T15:24:35.980282Z"
-lastmod: "2026-07-18T17:15:09.475657Z"
+slug: domain
+date: '2026-07-18T15:24:35.980282Z'
+lastmod: '2026-07-18T17:15:09.475657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "דומיין מייצג הקשר ספציפי או התפלגות נתונים המאופיינת במרחב התכונות ובהתפלגות ההסתברותית הבסיסית שלו."
+source: agnes_llm
+status: published
+language: he
+description: דומיין מייצג הקשר ספציפי או התפלגות נתונים המאופיינת במרחב התכונות ובהתפלגות
+  ההסתברותית הבסיסית שלו.
 ---
-
 ## Definition
 
 בלמידת מכונה, ובפרט בלמידה בהעברה, דומיין מוגדר על ידי שני רכיבים: מרחב התכונות (קבוצת כל הקלטים האפשריים) וההתפלגות ההסתברותית השולית של קלטים אלו.

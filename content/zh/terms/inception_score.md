@@ -1,23 +1,23 @@
 ---
-title: "Inception Score"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Inception Score
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /zh/terms/inception_score/
-date: "2026-07-18T11:22:14.014022Z"
-lastmod: "2026-07-18T11:44:45.517008Z"
+slug: inception_score
+date: '2026-07-18T11:22:14.014022Z'
+lastmod: '2026-07-18T11:44:45.517008Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种用于评估生成图像质量的指标，通过衡量图像的清晰度和多样性来实现。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种用于评估生成图像质量的指标，通过衡量图像的清晰度和多样性来实现。
 ---
-
 ## Definition
 
 Inception Score（IS）是一种引入用于评估生成对抗网络（GANs）及其他生成模型性能的统计度量。它结合了两个因素：图像质量（清晰度）和多样性。

@@ -1,23 +1,24 @@
 ---
-title: "Destilace"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Destilace
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /cs/terms/distillation/
-date: "2026-07-18T15:24:25.501697Z"
-lastmod: "2026-07-18T17:15:09.066423Z"
+slug: distillation
+date: '2026-07-18T15:24:25.501697Z'
+lastmod: '2026-07-18T17:15:09.066423Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Destilace znalostí je technika komprese modelu, při které se menší model studenta učí napodobovat chování většího modelu učitele."
+source: agnes_llm
+status: published
+language: cs
+description: Destilace znalostí je technika komprese modelu, při které se menší model
+  studenta učí napodobovat chování většího modelu učitele.
 ---
-
 ## Definition
 
 Tento proces zahrnuje přenos znalostí ze složitého, vysoce výkonného neuronového sítě 'učitele' do jednodušší, efektivnější 'studentovy' sítě. Student se učí nejen z pevných štítků (hard labels), ale také z měkkých cílů (soft targets), které obsahují více informací o rozdělení pravděpodobnosti tříd.

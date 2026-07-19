@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /id/terms/coupled_pattern_learner/
 date: "2026-07-18T15:44:18.928604Z"
 lastmod: "2026-07-18T16:38:07.441258Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan algoritmik yang mempelajari hubungan antara dua himpunan pola atau fitur yang berbeda namun berkorelasi secara bersamaan."
 ---
-
 ## Definition
 
 Pembelajar pola berpasangan dirancang untuk menangani data di mana instance dari dua ruang yang berbeda saling terkait, seperti gambar dan deskripsi tekstualnya. Dengan memodelkan distribusi bersama atau korelasi antar ruang tersebut.

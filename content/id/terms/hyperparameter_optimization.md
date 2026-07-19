@@ -1,23 +1,24 @@
 ---
-title: "Optimasi hipermeter"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Optimasi hipermeter
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /id/terms/hyperparameter_optimization/
-date: "2026-07-18T15:55:01.607639Z"
-lastmod: "2026-07-18T16:38:07.468395Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T15:55:01.607639Z'
+lastmod: '2026-07-18T16:38:07.468395Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pendekatan otomatis untuk menemukan konfigurasi hipermeter optimal, sering kali menggunakan model probabilitas untuk memandu pencarian."
+source: agnes_llm
+status: published
+language: id
+description: Pendekatan otomatis untuk menemukan konfigurasi hipermeter optimal, sering
+  kali menggunakan model probabilitas untuk memandu pencarian.
 ---
-
 ## Definition
 
 Optimasi Hipermeter (HPO) merujuk pada bidang luas otomatisasi pemilihan hipermeter. Meskipun penyetelan adalah tindakan umum, HPO sering menyiratkan penggunaan algoritma canggih seperti optimasi Bayesian atau pencarian arsitektur saraf untuk menavigasi ruang pencarian secara efisien dan menemukan konfigurasi terbaik.

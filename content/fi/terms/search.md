@@ -1,23 +1,23 @@
 ---
-title: "Haku"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Haku
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /fi/terms/search/
-date: "2026-07-18T15:30:57.256321Z"
-lastmod: "2026-07-18T17:15:09.359305Z"
+slug: search
+date: '2026-07-18T15:30:57.256321Z'
+lastmod: '2026-07-18T17:15:09.359305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Haku-algoritmit tutkivat systemaattisesti ratkaisutilaa löytääkseen optimaalisia tai tyydyttäviä tuloksia tekoälytehtävissä."
+source: agnes_llm
+status: published
+language: fi
+description: Haku-algoritmit tutkivat systemaattisesti ratkaisutilaa löytääkseen optimaalisia
+  tai tyydyttäviä tuloksia tekoälytehtävissä.
 ---
-
 ## Definition
 
 Haku on tekoälyn perustavanlaatuinen paradigma, jota käytetään navigoimaan monimutkaisissa ongelmatilassa, kuten pelistrategioissa tai reittisuunnittelussa. Algoritmit kuten A*, Minimax tai Monte Carlo Tree Search arvioivat mahdollisia siirtoja

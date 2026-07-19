@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /nl/terms/high_fidelity/
 date: "2026-07-18T15:31:53.297562Z"
 lastmod: "2026-07-18T17:15:08.698582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Geeft aan dat gegenereerde inhoud qua detail, kwaliteit en realisme sterk lijkt op echte wereldgegevens."
 ---
-
 ## Definition
 
 Hoge fideliteit beschrijft uitvoeren van generatieve modellen die niet te onderscheiden zijn van of zeer vergelijkbaar met authentieke gegevens. Bij beeldgeneratie betekent dit realistische texturen en belichting; bij audio impliceert het natuurlijk klinkende stemmen en geluiden zonder hoorbare artefacten.

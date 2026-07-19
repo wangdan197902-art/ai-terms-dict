@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /fi/terms/knowledge_integration/
 date: "2026-07-18T16:05:18.968620Z"
 lastmod: "2026-07-18T17:15:09.425582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa yhdistetään heterogeeniset tietolähteet yhtenäiseksi, johdonmukaiseksi esitykseksi parantamiseksi päättelykykyä."
 ---
-
 ## Definition
 
 Tiedon integrointi tarkoittaa tietojen yhdistämistä monista eri lähteistä, kuten tietokannoista, ontologioista ja epärakenteellisesta tekstistä, yhtenäiseksi koherentiksi kaavioksi. Se käsittelee semanttista heterogeenisuutta ja ristiriitoja varmistamalla, että integroidut tiedot ovat yhteensopivia.

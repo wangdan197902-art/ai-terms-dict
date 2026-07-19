@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /hu/terms/code_generation/
 date: "2026-07-18T15:22:55.818236Z"
 lastmod: "2026-07-18T17:15:09.713632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A mesterséges intelligencia felhasználása forráskód automatikus létrehozására természetes nyelvi leírások vagy meglévő kódrészletek alapján."
 ---
-
 ## Definition
 
 A kódgenerálás nagy nyelvi modelleket használ, amelyeket hatalmas programozási nyelvi adattárakon tanítottak, funkcionális szoftveralkotók előállítására. A rendszer értelmezi az ember által olvasható utasításokat, például megjegyzéseket vagy leírásokat, és ezekből működőképes kódot generál.

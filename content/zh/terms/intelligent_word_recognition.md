@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /zh/terms/intelligent_word_recognition/
 date: "2026-07-18T11:22:43.864930Z"
 lastmod: "2026-07-18T11:44:45.519114Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "利用人工智能算法（特别是深度学习）准确识别和解读来自图像或手写来源的文本。"
 ---
-
 ## Definition
 
 智能文字识别是指由神经网络驱动的高级光学字符识别（OCR）技术。它超越了简单的模式匹配，通过理解上下文并处理n

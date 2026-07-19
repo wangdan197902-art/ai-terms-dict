@@ -1,23 +1,23 @@
 ---
-title: "多模态情感分析"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: 多模态情感分析
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /zh/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T11:27:47.974029Z"
-lastmod: "2026-07-18T11:44:45.534973Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T11:27:47.974029Z'
+lastmod: '2026-07-18T11:44:45.534973Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "通过整合文本、视觉和听觉线索来计算分析人类情感的方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 通过整合文本、视觉和听觉线索来计算分析人类情感的方法。
 ---
-
 ## Definition
 
 多模态情感分析通过纳入面部表情、语音语调肢体语言等额外信号，扩展了传统的基于文本的情感检测。这种整体方法能够更全面地理解用户的情绪状态。

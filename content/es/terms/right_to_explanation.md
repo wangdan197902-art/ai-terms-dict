@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /es/terms/right_to_explanation/
 date: "2026-07-18T11:06:52.883758Z"
 lastmod: "2026-07-18T11:44:44.851038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un principio legal y ético que otorga a las personas el derecho a recibir información significativa sobre las decisiones automatizadas que las afectan significativamente."
 ---
-
 ## Definition
 
 El derecho a la explicación es un componente fundamental de la responsabilidad algorítmica, especialmente dentro de marcos normativos como el RGPD. Garantiza que, cuando un sistema de IA toma una decisión que impacta los derechos de una persona...

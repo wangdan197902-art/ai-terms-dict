@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /zh/terms/superintelligence_ban/
 date: "2026-07-18T11:35:31.276884Z"
 lastmod: "2026-07-18T11:44:45.559923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种拟议的监管措施或伦理立场，主张禁止开发超越人类认知能力的人工智能通用智能。"
 ---
-
 ## Definition
 
 这一概念涉及关于限制或完全停止人工智能超级智能（ASI）研究的辩论及潜在政策。支持者认为，ASI 构成存在性风险。

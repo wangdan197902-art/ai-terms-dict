@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /de/terms/gpt2/
 date: "2026-07-18T11:16:52.475794Z"
 lastmod: "2026-07-18T11:44:44.945597Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "GPT-2 ist ein großes, auf Transformern basierendes Sprachmodell, das von OpenAI für die Textgenerierung und das Textverständnis entwickelt wurde."
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2 (GPT-2) ist ein autoregressives Sprachmodell, das die Transformer-Architektur nutzt, um menschenähnlichen Text zu generieren. Es wurde mit einem massiven Datensatz von Internettexten trainiert.

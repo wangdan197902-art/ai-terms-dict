@@ -1,23 +1,24 @@
 ---
-title: "Planung"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Planung
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /de/terms/planning/
-date: "2026-07-18T10:59:11.210108Z"
-lastmod: "2026-07-18T11:44:44.897704Z"
+slug: planning
+date: '2026-07-18T10:59:11.210108Z'
+lastmod: '2026-07-18T11:44:44.897704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der kognitive Prozess der Generierung einer Abfolge von Aktionen, um spezifische Ziele in einer definierten Umgebung zu erreichen."
+source: agnes_llm
+status: published
+language: de
+description: Der kognitive Prozess der Generierung einer Abfolge von Aktionen, um
+  spezifische Ziele in einer definierten Umgebung zu erreichen.
 ---
-
 ## Definition
 
 Planung im Bereich der Künstlichen Intelligenz umfasst die Bestimmung einer Sequenz von Aktionen, die vom Anfangszustand zum gewünschten Zielzustand führen. Sie erfordert das Schlussfolgern über die Auswirkungen von Aktionen und die Einschränkungen der Umgebung.

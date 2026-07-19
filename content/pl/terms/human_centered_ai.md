@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /pl/terms/human_centered_ai/
 date: "2026-07-18T15:59:03.563156Z"
 lastmod: "2026-07-18T17:15:08.883196Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Podejście do projektowania i rozwoju AI, które priorytetyzuje ludzkie wartości, potrzeby i dobrostan na całym cyklu życia systemu."
 ---
-
 ## Definition
 
 Sztuczna inteligencja skoncentrowana na człowieku to filozofia projektowania, która umieszcza ludzi w centrum rozwoju sztucznej inteligencji. Podkreśla tworzenie systemów przejrzystych, sprawiedliwych i korzystnych dla społeczeństwa, zamiast skupiania się wyłącznie na wydajności technicznej.

@@ -1,23 +1,24 @@
 ---
-title: "Strömning"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Strömning
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /sv/terms/streaming/
-date: "2026-07-18T16:22:00.985821Z"
-lastmod: "2026-07-18T17:15:09.051065Z"
+slug: streaming
+date: '2026-07-18T16:22:00.985821Z'
+lastmod: '2026-07-18T17:15:09.051065Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En databehandlingsparadigm där information bearbetas kontinuerligt i små bitar när den anländer, snarare än i stora statiska batchar."
+source: agnes_llm
+status: published
+language: sv
+description: En databehandlingsparadigm där information bearbetas kontinuerligt i
+  små bitar när den anländer, snarare än i stora statiska batchar.
 ---
-
 ## Definition
 
 Strömning syftar på den kontinuerliga insamlingen och bearbetningen av data i realtid eller nästan realtid när den genereras. Till skillnad från batchbearbetning, som hanterar fixa datamängder, hanterar strömningssystem obegränsade dataflöden och kräver ofta låg latens för att ge snabba svar.

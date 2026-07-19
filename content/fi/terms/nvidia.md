@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /fi/terms/nvidia/
 date: "2026-07-18T16:13:14.694727Z"
 lastmod: "2026-07-18T17:15:09.440126Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Johtava teknologia-alan yritys, joka erikoistuu näytönohjaimiin (GPU) ja tekoälyrautateihin, jotka mahdollistavat nykyaikaisen syvän oppimisen infrastruktuurin."
 ---
-
 ## Definition
 
 Nvidia on vallitseva voima tekoälyteollisuudessa, ja sitä tunnetaan ensisijaisesti grafiikkaprosessorien (GPU) suunnittelusta. Nämä piirit kiihdyttävät rinnakkaislaskentatehtäviä, jotka ovat välttämättömiä syvälle oppimiselle. Yrityksen CUDA-alusta on standardi kehitysympäristössä.

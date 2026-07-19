@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /ro/terms/empirical_dynamic_modeling/
 date: "2026-07-18T15:56:15.937070Z"
 lastmod: "2026-07-18T17:15:09.652288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare statistică neparametrică utilizată pentru a reconstrui dinamica sistemelor complexe din date serie temporală observaționale."
 ---
-
 ## Definition
 
 Modelarea Dinamică Empirică (EDM) este un cadru pentru analiza sistemelor dinamice neliniare folosind date observaționale, fără a presupune o formă parametrică specifică. Se bazează pe metoda de încorporare a lui Takens...

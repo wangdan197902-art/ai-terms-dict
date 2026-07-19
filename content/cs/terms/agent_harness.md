@@ -1,23 +1,24 @@
 ---
-title: "Rámec pro agenty (Agent harness)"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Rámec pro agenty (Agent harness)
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /cs/terms/agent_harness/
-date: "2026-07-18T15:40:56.095358Z"
-lastmod: "2026-07-18T17:15:09.099688Z"
+slug: agent_harness
+date: '2026-07-18T15:40:56.095358Z'
+lastmod: '2026-07-18T17:15:09.099688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Rámec pro agenty je vrstva infrastruktury nebo rámce, který spravuje životní cyklus, komunikaci a přidělování zdrojů pro více agentů AI v rámci systému."
+source: agnes_llm
+status: published
+language: cs
+description: Rámec pro agenty je vrstva infrastruktury nebo rámce, který spravuje
+  životní cyklus, komunikaci a přidělování zdrojů pro více agentů AI v rámci systému.
 ---
-
 ## Definition
 
 Působí jako páteř pro systémy s více agenty, poskytuje nástroje pro orchestraci, monitorování a koordinaci mezi agenty. Rámec zajišťuje, že agenti mohou fungovat efektivně bez vzájemného rušení.

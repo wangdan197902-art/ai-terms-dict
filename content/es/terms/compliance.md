@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /es/terms/compliance/
 date: "2026-07-18T10:40:08.134641Z"
 lastmod: "2026-07-18T11:44:44.787169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La adherencia de los sistemas de IA a las regulaciones legales, estándares éticos y directrices de la industria."
 ---
-
 ## Definition
 
 En inteligencia artificial, el cumplimiento normativo se refiere al proceso de garantizar que los modelos de IA y su despliegue se alineen con las leyes aplicables, como el RGPD o HIPAA, así como con los marcos éticos internos.

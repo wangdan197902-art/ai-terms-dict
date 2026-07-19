@@ -1,23 +1,24 @@
 ---
-title: "Strom koule"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Strom koule
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /cs/terms/ball_tree/
-date: "2026-07-18T15:44:28.468645Z"
-lastmod: "2026-07-18T17:15:09.105806Z"
+slug: ball_tree
+date: '2026-07-18T15:44:28.468645Z'
+lastmod: '2026-07-18T17:15:09.105806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Binární stromová datová struktura používaná k organizaci bodů v prostoru, optimalizující vyhledávání nejbližších sousedů ve vysokorozměrných datech."
+source: agnes_llm
+status: published
+language: cs
+description: Binární stromová datová struktura používaná k organizaci bodů v prostoru,
+  optimalizující vyhledávání nejbližších sousedů ve vysokorozměrných datech.
 ---
-
 ## Definition
 
 Strom koule rozděluje datové body do vnořených nadrozměrných sfér (koulí) místo hyperobdélníků. Tato struktura umožňuje efektivní odřezávání během dotazů na nejbližší sousedy výpočtem vzdáleností mezi středem koule a hranicemi.

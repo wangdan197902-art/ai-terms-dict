@@ -1,23 +1,24 @@
 ---
-title: "Kiến thức thông thường"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Kiến thức thông thường
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /vi/terms/commonsense_knowledge/
-date: "2026-07-18T15:45:08.135186Z"
-lastmod: "2026-07-18T16:38:07.737615Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:45:08.135186Z'
+lastmod: '2026-07-18T16:38:07.737615Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thông tin nền tảng và sự hiểu biết trực quan về thế giới vật lý và xã hội mà con người sở hữu nhưng máy móc thường thiếu."
+source: agnes_llm
+status: published
+language: vi
+description: Thông tin nền tảng và sự hiểu biết trực quan về thế giới vật lý và xã
+  hội mà con người sở hữu nhưng máy móc thường thiếu.
 ---
-
 ## Definition
 
 Kiến thức thông thường đề cập đến lượng lớn thông tin ngầm định về cuộc sống hàng ngày, vật lý, chuẩn mực xã hội và các mối quan hệ nhân quả mà con người thu nhận một cách tự nhiên. Trong AI, việc thu thập kiến thức này là một thách thức lớn vì nó khó được mã hóa thành quy tắc rõ ràng.

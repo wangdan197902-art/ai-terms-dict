@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /hu/terms/mobilenet/
 date: "2026-07-18T16:13:21.439609Z"
 lastmod: "2026-07-18T17:15:09.813400Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A MobileNet egy könnyű mély neurális hálózatok családa, amelyet mobil és beágyazott látási alkalmazásokra terveztek."
 ---
-
 ## Definition
 
 A MobileNetek a mélységi szétválasztható konvolúciókat használják, amelyek drasztikusan csökkentik a számítási költséget és a modell méretét a szabványos konvolúciókhoz képest. Ez a architektúra lehetővé teszi a hatékony jellemkivonást

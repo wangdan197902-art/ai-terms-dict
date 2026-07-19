@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /id/terms/gguf/
-date: "2026-07-18T15:51:26.470458Z"
-lastmod: "2026-07-18T16:38:07.460016Z"
+slug: gguf
+date: '2026-07-18T15:51:26.470458Z'
+lastmod: '2026-07-18T16:38:07.460016Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Format file yang dikembangkan olehgger.ai untuk menyimpan dan memuat model bahasa besar yang telah dikuantisasi secara efisien pada perangkat keras lokal."
+source: agnes_llm
+status: published
+language: id
+description: Format file yang dikembangkan olehgger.ai untuk menyimpan dan memuat
+  model bahasa besar yang telah dikuantisasi secara efisien pada perangkat keras lokal.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format) adalah format file biner yang dirancang khusus untuk menjalankan model bahasa besar pada perangkat keras konsumen. Format ini mendukung berbagai teknik kuantisasi, memungkinkan model yang lebih kecil dan cepat untuk dijalankan pada laptop atau PC tanpa memerlukan GPU kelas server yang mahal.

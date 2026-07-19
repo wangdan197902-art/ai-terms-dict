@@ -1,23 +1,24 @@
 ---
-title: "Anomáliaészlelés"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Anomáliaészlelés
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /hu/terms/anomaly_detection/
-date: "2026-07-18T15:43:45.955028Z"
-lastmod: "2026-07-18T17:15:09.753351Z"
+slug: anomaly_detection
+date: '2026-07-18T15:43:45.955028Z'
+lastmod: '2026-07-18T17:15:09.753351Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A ritka elemek, események vagy megfigyelések azonosítása, amelyek jelentősen eltérnek az adatok többségétől."
+source: agnes_llm
+status: published
+language: hu
+description: A ritka elemek, események vagy megfigyelések azonosítása, amelyek jelentősen
+  eltérnek az adatok többségétől.
 ---
-
 ## Definition
 
 Az anomáliaészlelés, más néven kiugró értékek észlelése, az adatok elemzését foglalja magában a várt viselkedéstől eltérő mintázatok megtalálása érdekében. Széles körben alkalmazzák a kibernetikai biztonságban, csalásmegelőzésben és rendszergondozásban.

@@ -1,23 +1,24 @@
 ---
-title: "โดเมน (Domain)"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: โดเมน (Domain)
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /th/terms/domain/
-date: "2026-07-18T15:24:36.950970Z"
-lastmod: "2026-07-18T16:38:07.535866Z"
+slug: domain
+date: '2026-07-18T15:24:36.950970Z'
+lastmod: '2026-07-18T16:38:07.535866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โดเมนแทนบริบทเฉพาะหรือการกระจายตัวของข้อมูล ซึ่งถูกกำหนดโดยพื้นที่คุณลักษณะ (Feature space) และการกระจายความน่าจะเป็นพื้นฐาน"
+source: agnes_llm
+status: published
+language: th
+description: โดเมนแทนบริบทเฉพาะหรือการกระจายตัวของข้อมูล ซึ่งถูกกำหนดโดยพื้นที่คุณลักษณะ
+  (Feature space) และการกระจายความน่าจะเป็นพื้นฐาน
 ---
-
 ## Definition
 
 ในการเรียนรู้ของเครื่อง โดยเฉพาะอย่างยิ่งในการเรียนรู้แบบถ่ายโอน โดเมนถูกนิยามด้วยสององค์ประกอบ: พื้นที่คุณลักษณะ (ชุดของอินพุตที่เป็นไปได้ทั้งหมด) และการกระจายความน่าจะเป็นส่วนขอบ (Marginal probability distribution) ของอินพุตเหล่านั้น

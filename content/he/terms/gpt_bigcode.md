@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /he/terms/gpt_bigcode/
 date: "2026-07-18T16:01:54.088949Z"
 lastmod: "2026-07-18T17:15:09.544642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "משפחה של מודלי שפה גדולים המאומנים ספציפית ליצירת קוד והבנתו, שפותחה על ידי פרויקט BigCode."
 ---
-
 ## Definition
 
 GPT Bigcode, לעיתים קרובות קשורה למודלים כמו StarCoder, מייצגת התקדמות משמעותית ב-AI לעזרה בתכנות. מודלים אלו מאומנים מראש על מאגרי קוד ציבוריים עצומים כדי להבין פ-

@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /nl/terms/is_this_what_we_want/
 date: "2026-07-18T16:01:04.246750Z"
 lastmod: "2026-07-18T17:15:08.757462Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een kritisch ethisch kader dat wordt gebruikt om AI-systemen te evalueren tegen de achtergrond van maatschappelijke waarden, rechtvaardigheid en potentiële schadelijke gevolgen."
 ---
-
 ## Definition
 
 Deze zin vertegenwoordigt een cruciale vraag binnen AI-ethiek en -governance, die belanghebbenden ertoe aanzet te beoordelen of ingezette AI-technologieën in lijn zijn met menselijke waarden en het openbaar belang. Het houdt in dat er

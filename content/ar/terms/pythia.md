@@ -1,23 +1,24 @@
 ---
-title: "بايثيا"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: بايثيا
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /ar/terms/pythia/
-date: "2026-07-18T16:17:56.024595Z"
-lastmod: "2026-07-18T17:15:08.540725Z"
+slug: pythia
+date: '2026-07-18T16:17:56.024595Z'
+lastmod: '2026-07-18T17:15:08.540725Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بايثيا هي مجموعة من نماذج اللغة الكبيرة (LLMs) ذات البنية المشفرة فقط (Decoder-only)، طورها فريق EleutherAI، وتتراوح من 70 مليون إلى 12 مليار معلمة."
+source: agnes_llm
+status: published
+language: ar
+description: بايثيا هي مجموعة من نماذج اللغة الكبيرة (LLMs) ذات البنية المشفرة فقط
+  (Decoder-only)، طورها فريق EleutherAI، وتتراوح من 70 مليون إلى 12 مليار معلمة.
 ---
-
 ## Definition
 
 بايثيا هي سلسلة من نماذج اللغة الكبيرة مفتوحة المصدر أنشأها فريق EleutherAI، ومصممة لتسهيل البحث في قابلية تفسير الشبكات العصبية وسلوكها. تتضمن المجموعة نماذج...

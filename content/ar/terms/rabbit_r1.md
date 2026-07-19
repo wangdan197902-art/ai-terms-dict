@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /ar/terms/rabbit_r1/
 date: "2026-07-18T16:18:41.290604Z"
 lastmod: "2026-07-18T17:15:08.542740Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "جهاز محمول باليد يعمل بالذكاء الاصطناعي ويضم نموذج الإجراءات الكبيرة (LAM) المصمم لتنفيذ المهام بشكل مستقل."
 ---
-
 ## Definition
 
 يُعد Rabbit r1 جهازاً مخصصاً أطلقته شركة Rabbit Inc., ويرتكز حول نموذج الإجراءات الكبيرة (LAM) الخاص بها. وعلى عكس الهواتف الذكية متعددة الأغراض، يركز الجهاز على تنفيذ مهام محددة تلقائياً بناءً على نوايا المستخدم.

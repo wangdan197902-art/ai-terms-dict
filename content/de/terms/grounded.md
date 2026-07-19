@@ -1,23 +1,24 @@
 ---
-title: "Grounded"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Grounded
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /de/terms/grounded/
-date: "2026-07-18T10:50:40.583351Z"
-lastmod: "2026-07-18T11:44:44.875717Z"
+slug: grounded
+date: '2026-07-18T10:50:40.583351Z'
+lastmod: '2026-07-18T11:44:44.875717Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Bezieht sich auf KI-Systeme, die abstrakte Symbole oder Sprache mit sensorischen Daten der realen Welt oder physischen Aktionen verknüpfen."
+source: agnes_llm
+status: published
+language: de
+description: Bezieht sich auf KI-Systeme, die abstrakte Symbole oder Sprache mit sensorischen
+  Daten der realen Welt oder physischen Aktionen verknüpfen.
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz beschreibt „grounded“ den Prozess des Verknüpfens symbolischer Repräsentationen, wie Wörter oder logische Aussagen, mit ihren tatsächlichen Referenten in der physischen Welt oder sensorischen Erfahrungen.

@@ -1,23 +1,24 @@
 ---
-title: "Astrostatistikk"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Astrostatistikk
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /no/terms/astrostatistics/
-date: "2026-07-18T15:43:39.235901Z"
-lastmod: "2026-07-18T16:38:06.973082Z"
+slug: astrostatistics
+date: '2026-07-18T15:43:39.235901Z'
+lastmod: '2026-07-18T16:38:06.973082Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Bruken av statistiske metoder for å analysere astronomisk data og løse problemer innen astrofysikk."
+source: agnes_llm
+status: published
+language: 'no'
+description: Bruken av statistiske metoder for å analysere astronomisk data og løse
+  problemer innen astrofysikk.
 ---
-
 ## Definition
 
 Astrostatistikk er et spesialisert felt som binder statistikk og astronomi sammen. Det involverer utvikling og anvendelse av strenge statistiske teknikker for å håndtere de unike utfordringene ved astronomisk data,

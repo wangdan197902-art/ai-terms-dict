@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /ja/terms/domain_adaptation/
 date: "2026-07-18T11:12:52.607854Z"
 lastmod: "2026-07-18T11:44:45.092811Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ソースドメインからの知識を活用し、ターゲットドメインでのモデル性能を向上させる機械学習手法。"
 ---
-
 ## Definition
 
 ドメイン適応は、トレーニングデータとテストデータが異なる分布に従っているという課題に対処します。ラベル付きのソースドメインとラベルなし（または限られたラベル）のターゲットドメインの間で特徴表現を整合させることで、モデルの汎化性能を高めます。

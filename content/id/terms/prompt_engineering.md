@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /id/terms/prompt_engineering/
 date: "2026-07-18T15:22:20.474340Z"
 lastmod: "2026-07-18T16:38:07.385895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Praktik merancang dan mengoptimalkan teks masukan untuk membimbing model bahasa besar menuju keluaran yang diinginkan."
 ---
-
 ## Definition
 
 Rekayasa prompt melibatkan pembuatan masukan spesifik, yang dikenal sebagai prompt, untuk memicu respons yang akurat, relevan, dan berkualitas tinggi dari model AI generatif. Hal ini memerlukan pemahaman tentang bagaimana model menginterpretasi konteks dan instruksi.

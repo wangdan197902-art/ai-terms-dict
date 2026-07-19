@@ -1,23 +1,24 @@
 ---
-title: "Long Short-Term Memory (LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Long Short-Term Memory (LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /de/terms/long_short_term_memory/
-date: "2026-07-18T10:58:44.539834Z"
-lastmod: "2026-07-18T11:44:44.896192Z"
+slug: long_short_term_memory
+date: '2026-07-18T10:58:44.539834Z'
+lastmod: '2026-07-18T11:44:44.896192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine spezialisierte Architektur rekurrenter neuronaler Netze, die darauf ausgelegt ist, langfristige Abhängigkeiten in sequenziellen Daten zu lernen."
+source: agnes_llm
+status: published
+language: de
+description: Eine spezialisierte Architektur rekurrenter neuronaler Netze, die darauf
+  ausgelegt ist, langfristige Abhängigkeiten in sequenziellen Daten zu lernen.
 ---
-
 ## Definition
 
 LSTM-Netze lösen das Problem des verschwindenden Gradienten, das bei Standard-RNNs häufig auftritt, indem sie einen Zellzustand und drei Gating-Mechanismen verwenden: Eingangs-, Vergessens- und Ausgangstore. Diese Tore regulieren den Fluss der Informationen und ermöglichen es dem Netz, relevante Informationen über lange Zeiträume hinweg zu speichern.

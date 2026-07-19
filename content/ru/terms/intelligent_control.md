@@ -1,23 +1,24 @@
 ---
-title: "Интеллектуальное управление"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Интеллектуальное управление
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /ru/terms/intelligent_control/
-date: "2026-07-18T15:59:11.313394Z"
-lastmod: "2026-07-18T16:38:07.170061Z"
+slug: intelligent_control
+date: '2026-07-18T15:59:11.313394Z'
+lastmod: '2026-07-18T16:38:07.170061Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Системы управления, использующие методы ИИ для контроля сложных, нелинейных или неопределенных динамических процессов."
+source: agnes_llm
+status: published
+language: ru
+description: Системы управления, использующие методы ИИ для контроля сложных, нелинейных
+  или неопределенных динамических процессов.
 ---
-
 ## Definition
 
 Интеллектуальное управление применяет методы искусственного интеллекта, такие как нечеткая логика, нейронные сети и генетические алгоритмы, для регулирования систем, где традиционное математическое моделирование недостаточно эффективно или применимо.

@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /fr/terms/self_consistency/
 date: "2026-07-18T11:37:04.560575Z"
 lastmod: "2026-07-18T11:44:45.325742Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'auto-cohérence est une stratégie de décodage où plusieurs chemins de raisonnement sont échantillonnés et la réponse la plus fréquente est sélectionnée comme sortie finale."
 ---
-
 ## Definition
 
 Principalement utilisée avec les grands modèles de langage (LLM), cette technique améliore la précision en générant plusieurs réponses diversifiées à une invite via l'échantillonnage. Au lieu de s'en remettre au décodage glouton, elle agrège les résultats pour obtenir une réponse plus robuste.

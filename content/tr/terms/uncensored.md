@@ -1,23 +1,24 @@
 ---
-title: "Sansürsüz"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Sansürsüz
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /tr/terms/uncensored/
-date: "2026-07-18T16:20:15.852074Z"
-lastmod: "2026-07-18T16:38:07.375201Z"
+slug: uncensored
+date: '2026-07-18T16:20:15.852074Z'
+lastmod: '2026-07-18T16:38:07.375201Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Güvenlik filtrelerini ve etik yönergeleri aşmak için değiştirilmiş yapay zeka modellerini ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Güvenlik filtrelerini ve etik yönergeleri aşmak için değiştirilmiş yapay
+  zeka modellerini ifade eder.
 ---
-
 ## Definition
 
 Yapay zeka bağlamında 'sansürsüz', genellikle yerleşik güvenlik hizalamalarını kaldırmak veya zayıflatmak amacıyla ince ayar veya değişikliklere tabi tutulan modelleri tanımlar. Bu modeller, kullanıcıların güvenlik kısıtlamalarını atlamasına olanak tanır.

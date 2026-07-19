@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /ko/terms/energy/
 date: "2026-07-18T15:24:13.627694Z"
 lastmod: "2026-07-18T16:38:06.772579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI에서 에너지는 모델 학습 및 추론 과정에서 소비되는 컴퓨팅 파워를 의미하거나, 확률적 모델에서의 수학적 포텐셜 함수를 지칭합니다."
 ---
-
 ## Definition
 
 AI에서 에너지는 두 가지 주요 의미를 가집니다. 첫째, 모델이 확장됨에 따라 지속 가능성의 중요한 쟁점이 된 하드웨어 구동에 필요한 전기 전력을 나타냅니다. 둘째, 통계역학에서 영감을 받은 에너지 기반 모델(Energy-Based Models) 문맥에서, 이는 시스템의 상태를 정의하는 수학적 함수로 작용하여 낮은 에너지 상태를 더 높은 확률로 매핑합니다.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /no/terms/rate_limiting/
 date: "2026-07-18T16:14:15.188052Z"
 lastmod: "2026-07-18T16:38:07.041648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En ingeniørmessig kontrollmekanisme som begrenser antall forespørsler en klient kan sende til en tjeneste innenfor et bestemt tidsvindu."
 ---
-
 ## Definition
 
 Hastighetsbegrensning beskytter AI-tjenester og API-er mot misbruk, overbelastning og overdreven ressursforbruk. Det sikrer rettferdig bruk blant brukere og opprettholder systemstabilitet ved å begrense gjennomstrømningen. Vanlige strategier inkluderer faste vinduer eller token-bucket-algoritmer.

@@ -1,23 +1,24 @@
 ---
-title: "Ajuste de hiperparámetros"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Ajuste de hiperparámetros
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /es/terms/hyperparameter_tuning/
-date: "2026-07-18T10:53:49.563999Z"
-lastmod: "2026-07-18T11:44:44.816840Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T10:53:49.563999Z'
+lastmod: '2026-07-18T11:44:44.816840Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de buscar sistemáticamente la mejor combinación de hiperparámetros para optimizar el rendimiento del modelo."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de buscar sistemáticamente la mejor combinación de hiperparámetros
+  para optimizar el rendimiento del modelo.
 ---
-
 ## Definition
 
 El ajuste de hiperparámetros implica evaluar diferentes conjuntos de hiperparámetros para encontrar la configuración que produzca la mayor precisión del modelo o la tasa de error más baja. Las estrategias comunes incluyen la búsqueda en cuadrícula, b

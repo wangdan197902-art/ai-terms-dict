@@ -1,23 +1,24 @@
 ---
-title: "Physical Intelligence Inc."
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: Physical Intelligence Inc.
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /it/terms/physical_intelligence_inc/
-date: "2026-07-18T16:16:15.417398Z"
-lastmod: "2026-07-18T17:15:08.658678Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T16:16:15.417398Z'
+lastmod: '2026-07-18T17:15:08.658678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'azienda di robotica fondata da ex ricercatori di DeepMind, focalizzata sulla manipolazione robotica a uso generale."
+source: agnes_llm
+status: published
+language: it
+description: Un'azienda di robotica fondata da ex ricercatori di DeepMind, focalizzata
+  sulla manipolazione robotica a uso generale.
 ---
-
 ## Definition
 
 Physical Intelligence Inc. (PI) è una spin-off di Google DeepMind, creata per avanzare nel campo dell'intelligenza artificiale incarnata e della robotica. L'azienda si concentra sullo sviluppo di robot a uso generale capaci di eseg

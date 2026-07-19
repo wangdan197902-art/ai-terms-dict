@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /zh/terms/mobilenet/
 date: "2026-07-18T11:26:24.857413Z"
 lastmod: "2026-07-18T11:44:45.532439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "MobileNet 是一系列专为移动端和嵌入式视觉应用设计的轻量级深度神经网络。"
 ---
-
 ## Definition
 
 与标准卷积相比，MobileNet 利用深度可分离卷积大幅降低了计算成本和模型体积。这种架构使得在资源受限设备上高效提取特征成为可能。

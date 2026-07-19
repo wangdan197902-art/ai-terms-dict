@@ -1,23 +1,23 @@
 ---
-title: "에너지 기반 모델"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: 에너지 기반 모델
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /ko/terms/energy_based_model/
-date: "2026-07-18T15:54:35.962850Z"
-lastmod: "2026-07-18T16:38:06.837153Z"
+slug: energy_based_model
+date: '2026-07-18T15:54:35.962850Z'
+lastmod: '2026-07-18T16:38:06.837153Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "가능성 있는 구성에는 낮은 에너지 값을, 불가능한 구성에는 높은 에너지 값을 할당하는 확률 모델입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 가능성 있는 구성에는 낮은 에너지 값을, 불가능한 구성에는 높은 에너지 값을 할당하는 확률 모델입니다.
 ---
-
 ## Definition
 
 에너지 기반 모델(EBM)은 에너지 함수에서 유도된 비정규화 밀도 함수를 사용하여 입력 데이터에 대한 확률 분포를 정의합니다. 에너지 함수는 데이터 포인트를 실수 값으로 매핑하며, 가능성이 높은 데이터는 낮은 에너지를, 가능성이 낮은 데이터는 높은 에너지를 갖습니다.

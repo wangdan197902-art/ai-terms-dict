@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /ar/terms/percept/
 date: "2026-07-18T16:16:03.744063Z"
 lastmod: "2026-07-18T17:15:08.536362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التمثيل الذهني أو النتيجة المفسرة للمدخلات الحسية التي يعالجها المُدرك."
 ---
-
 ## Definition
 
 الإدراك هو التمثيل الداخلي لمحفز خارجي بعد معالجته بواسطة نظام إدراكي. في الذكاء الاصطناعي، يتوافق هذا مع مخرجات البيانات المهيكلة من عمليات معالجة الإشارات منخفضة المستوى...

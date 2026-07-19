@@ -1,23 +1,24 @@
 ---
-title: "Her Şeyden Her Şeye"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Her Şeyden Her Şeye
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /tr/terms/any_to_any/
-date: "2026-07-18T15:40:51.155190Z"
-lastmod: "2026-07-18T16:38:07.272635Z"
+slug: any_to_any
+date: '2026-07-18T15:40:51.155190Z'
+lastmod: '2026-07-18T16:38:07.272635Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Modellerin girdiyi bir modaldan doğrudan başka bir keyfi moda dönüştürmesine olanak tanıyan jeneratif AI yeteneği."
+source: agnes_llm
+status: published
+language: tr
+description: Modellerin girdiyi bir modaldan doğrudan başka bir keyfi moda dönüştürmesine
+  olanak tanıyan jeneratif AI yeteneği.
 ---
-
 ## Definition
 
 Her şeyden her şeye, metinden görüntüye, görüntüden metne veya sesden videoya çeşitli giriş-çıkış kombinasyonlarını işleyebilen birleşik çoklu modal mimarileri ifade eder. Uzmanlaşmış modellerin aksine, bu sistemler...

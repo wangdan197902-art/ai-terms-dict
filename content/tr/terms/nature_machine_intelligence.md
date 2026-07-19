@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /tr/terms/nature_machine_intelligence/
 date: "2026-07-18T16:05:49.467306Z"
 lastmod: "2026-07-18T16:38:07.340028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka alanında disiplinler arası araştırmalara odaklanan, Springer Nature tarafından yayınlanan hakemli bir bilimsel dergidir."
 ---
-
 ## Definition
 
 Nature Machine Intelligence, yapay zekanın tüm yönlerine özgün araştırmalar yayınlamaya adanmış yüksek etkili bir akademik dergidir. Temel algoritmalar

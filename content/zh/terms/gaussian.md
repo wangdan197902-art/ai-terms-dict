@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /zh/terms/gaussian/
 date: "2026-07-18T10:51:30.214919Z"
 lastmod: "2026-07-18T11:44:45.369236Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "与正态分布相关，这是一种钟形曲线，是统计学和AI噪声建模的基础。"
 ---
-
 ## Definition
 
 高斯指的是正态分布，这是一种由均值和方差表征的连续概率分布。在AI中，它广泛用于概率建模、贝叶斯推断以及

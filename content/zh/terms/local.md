@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /zh/terms/local/
 date: "2026-07-18T10:52:50.832612Z"
 lastmod: "2026-07-18T11:44:45.374950Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指在特定设备上处理或存储数据，而不是在集中的云环境中。"
 ---
-
 ## Definition
 
 在人工智能领域，“本地”通常指直接在用户的硬件（如笔记本电脑或智能手机）上执行操作，而无需依赖远程服务器。这种方法增强了数据隐私并减少了延迟。

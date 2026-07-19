@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /cs/terms/automated/
 date: "2026-07-18T15:23:29.912699Z"
 lastmod: "2026-07-18T17:15:09.063899Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na procesy prováděné stroji nebo softwarem s minimální lidskou účastí."
 ---
-
 ## Definition
 
 Automatizace v AI zahrnuje používání algoritmů a systémů k výkonu úkolů, které tradičně vyžadují lidské úsilí. Zaměřuje se na efektivitu, konzistenci a rychlost prováděním předdefinovaných pravidel nebo naučených vzorů.

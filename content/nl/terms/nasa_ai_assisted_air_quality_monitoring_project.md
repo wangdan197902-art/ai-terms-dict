@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /nl/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:09:58.771855Z"
 lastmod: "2026-07-18T17:15:08.771447Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een initiatief dat kunstmatige intelligentie en satellietgegevens gebruikt om wereldwijde luchtkwaliteitspatronen te monitoren en voorspellen."
 ---
-
 ## Definition
 
 Dit project maakt gebruik van NASA's aardobservatiedata in combinatie met geavanceerde AI-algoritmen om wereldwijd fijnstof en gasvormige verontreinigingsstoffen te volgen. Door satellietbeelden te integreren met grondniveau-

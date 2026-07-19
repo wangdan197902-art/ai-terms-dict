@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /da/terms/speaker_change_detection/
 date: "2026-07-18T16:18:53.679301Z"
 lastmod: "2026-07-18T17:15:09.333115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at identificere tidspunkter i en lydstrøm, hvor den aktive højttaler skifter."
 ---
-
 ## Definition
 
 Detektion af højttalerskift (SCD) er en teknik, der bruges til at pinpointe præcise tidsstempler, hvor den ene højttaler holder op med at tale, og en anden begynder. Det fungerer som et første skridt i diarisering for at segmentere lyd.

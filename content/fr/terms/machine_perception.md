@@ -1,23 +1,25 @@
 ---
-title: "Perception machine"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Perception machine
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /fr/terms/machine_perception/
-date: "2026-07-18T11:27:54.058444Z"
-lastmod: "2026-07-18T11:44:45.289745Z"
+slug: machine_perception
+date: '2026-07-18T11:27:54.058444Z'
+lastmod: '2026-07-18T11:44:45.289745Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La perception machine désigne la capacité des systèmes d'intelligence artificielle à interpréter et comprendre les données sensorielles provenant de l'environnement, telles que les images, l'audio ou "
+source: agnes_llm
+status: published
+language: fr
+description: 'La perception machine désigne la capacité des systèmes d''intelligence
+  artificielle à interpréter et comprendre les données sensorielles provenant de l''environnement,
+  telles que les images, l''audio ou '
 ---
-
 ## Definition
 
 Elle comble le fossé entre les entrées sensorielles brutes et une compréhension sémantique significative, imitant les sens humains comme la vue et l'ouïe. Les technologies clés incluent la vision par ordinateur pour la reconnaissance d'objets, la

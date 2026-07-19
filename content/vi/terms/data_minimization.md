@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /vi/terms/data_minimization/
 date: "2026-07-18T16:18:19.583993Z"
 lastmod: "2026-07-18T16:38:07.818955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nguyên tắc thu thập và xử lý chỉ những dữ liệu cá nhân cần thiết nghiêm ngặt cho một mục đích cụ thể."
 ---
-
 ## Definition
 
 Giảm thiểu dữ liệu là một nguyên tắc bảo mật cốt lõi yêu cầu các tổ chức hạn chế việc thu thập dữ liệu chỉ ở mức độ phù hợp, liên quan và giới hạn trong những gì cần thiết. Trong AI, điều này có nghĩa là thiết kế các mô hình không lưu trữ hoặc sử dụng thông tin thừa.

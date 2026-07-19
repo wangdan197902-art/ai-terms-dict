@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /id/terms/self/
 date: "2026-07-18T15:29:37.018532Z"
 lastmod: "2026-07-18T16:38:07.402735Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam AI, 'diri' merujuk pada konsep identitas agen atau kapasitasnya untuk pemrosesan diri-referensial dan introspeksi."
 ---
-
 ## Definition
 
 Meskipun AI saat ini tidak memiliki kesadaran, istilah 'diri' sering menggambarkan kemampuan meta-kognitif di mana sebuah model menganalisis output, tingkat kepercayaan, atau keadaan internalnya sendiri. Istilah ini muncul dalam konteks...

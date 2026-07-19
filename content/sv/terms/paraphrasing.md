@@ -1,23 +1,24 @@
 ---
-title: "Parafrasering"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Parafrasering
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /sv/terms/paraphrasing/
-date: "2026-07-18T16:12:58.582397Z"
-lastmod: "2026-07-18T17:15:09.035014Z"
+slug: paraphrasing
+date: '2026-07-18T16:12:58.582397Z'
+lastmod: '2026-07-18T17:15:09.035014Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "NLP-uppgiften att omformulera text så att samma betydelse förmedlas med andra ord eller meningsbyggnader."
+source: agnes_llm
+status: published
+language: sv
+description: NLP-uppgiften att omformulera text så att samma betydelse förmedlas med
+  andra ord eller meningsbyggnader.
 ---
-
 ## Definition
 
 Parafrasering inom naturlig språkbehandling innebär att generera alternativa uttryck för en given inmatad text samtidigt som den ursprungliga semantiska betydelsen bevaras. Det är en kritisk teknik för att minska plagiatrisk, förbättra läsbarheten och skapa variation i träningsdata för språkmodeller utan att ändra kärnmålet i texten.

@@ -1,23 +1,23 @@
 ---
-title: "สัมประสิทธิ์ฟี"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: สัมประสิทธิ์ฟี
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /th/terms/phi_coefficient/
-date: "2026-07-18T16:11:02.648497Z"
-lastmod: "2026-07-18T16:38:07.642175Z"
+slug: phi_coefficient
+date: '2026-07-18T16:11:02.648497Z'
+lastmod: '2026-07-18T16:38:07.642175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "มาตรการทางสถิติที่ใช้วัดความสัมพันธ์ระหว่างตัวแปรไบนารีสองตัว"
+source: agnes_llm
+status: published
+language: th
+description: มาตรการทางสถิติที่ใช้วัดความสัมพันธ์ระหว่างตัวแปรไบนารีสองตัว
 ---
-
 ## Definition
 
 สัมประสิทธิ์ฟี (φ) เป็นมาตรการวัดความสัมพันธ์ระหว่างตัวแปรไบนารีสองตัว โดยทำหน้าที่เป็นสัมประสิทธิ์สหสัมพันธ์ของเพียร์สันสำหรับตัวแปรทวิภาค มีค่าอยู่ในช่วง -1 ถึง +1 โดยที่ 0 บ่งชี้ว่าไม่มีความสัมพันธ์

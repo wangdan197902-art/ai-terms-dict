@@ -1,23 +1,23 @@
 ---
-title: "Rinforzo"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Rinforzo
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /it/terms/reinforcement/
-date: "2026-07-18T15:28:18.552261Z"
-lastmod: "2026-07-18T17:15:08.572934Z"
+slug: reinforcement
+date: '2026-07-18T15:28:18.552261Z'
+lastmod: '2026-07-18T17:15:08.572934Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il rinforzo si riferisce al processo di modifica del comportamento attraverso ricompense o punizioni per ottimizzare il processo decisionale."
+source: agnes_llm
+status: published
+language: it
+description: Il rinforzo si riferisce al processo di modifica del comportamento attraverso
+  ricompense o punizioni per ottimizzare il processo decisionale.
 ---
-
 ## Definition
 
 Il rinforzo è un meccanismo fondamentale psicologico e computazionale in cui le azioni di un agente sono modellate dalle conseguenze. Nell'apprendimento automatico, implica fornire feedback positivo (ricompense) per le azioni corrette.

@@ -1,23 +1,24 @@
 ---
-title: "الاسترجاع"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: الاسترجاع
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /ar/terms/retrieval/
-date: "2026-07-18T15:38:35.992663Z"
-lastmod: "2026-07-18T17:15:08.466103Z"
+slug: retrieval
+date: '2026-07-18T15:38:35.992663Z'
+lastmod: '2026-07-18T17:15:08.466103Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية جلب البيانات ذات الصلة من قاعدة بيانات أو قاعدة معرفة لتعزيز مدخلات النموذج."
+source: agnes_llm
+status: published
+language: ar
+description: عملية جلب البيانات ذات الصلة من قاعدة بيانات أو قاعدة معرفة لتعزيز مدخلات
+  النموذج.
 ---
-
 ## Definition
 
 يشير الاسترجاع إلى العملية التقنية للبحث واستخراج معلومات محددة من مجموعات بيانات كبيرة أو قواعد معرفة خارجية بناءً على استعلامات المستخدم أو السياق.

@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /da/terms/semi_supervised_learning/
 date: "2026-07-18T16:17:05.530642Z"
 lastmod: "2026-07-18T17:15:09.330043Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En maskinlæringsapproach, der udnytter både mærkede og umærkede data til at forbedre modellens nøjagtighed og generaliseringsevne."
 ---
-
 ## Definition
 
 Semi-supervised læring er en hybrid træningsparadigme, der anvender en lille mængde mærkede data sammen med et stort volumen af umærkede data. Den grundlæggende antagelse er, at strukturen i de umærkede data hjælper med at forbedre læringen.

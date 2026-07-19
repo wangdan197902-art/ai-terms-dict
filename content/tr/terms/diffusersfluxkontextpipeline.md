@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /tr/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:49:49.459480Z"
 lastmod: "2026-07-18T16:38:07.299151Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Flux modelleri için tasarlanmış, gelişmiş zamansal veya mekansal tutarlılıkla bağlam farkında resim üretimi sağlayan Diffusers kütüphanesindeki özel bir boru hattı."
 ---
-
 ## Definition
 
 Bu boru hattı, yüksek kaliteli görüntü senteziyle tanınan Flux mimarisini Diffusers çerçevesi içinde kullanır. Modelin çevresel unsurları dikkate almasına olanak tanıyan bağlam mekanizmalarını destekler.

@@ -1,23 +1,24 @@
 ---
-title: "الرؤية الحاسوبية"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: الرؤية الحاسوبية
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /ar/terms/vision/
-date: "2026-07-18T15:39:17.508469Z"
-lastmod: "2026-07-18T17:15:08.468151Z"
+slug: vision
+date: '2026-07-18T15:39:17.508469Z'
+lastmod: '2026-07-18T17:15:08.468151Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الرؤية الحاسوبية هي مجال في الذكاء الاصطناعي يركز على تمكين أجهزة الكمبيوتر من تفسير وفهم المعلومات البصرية من العالم."
+source: agnes_llm
+status: published
+language: ar
+description: الرؤية الحاسوبية هي مجال في الذكاء الاصطناعي يركز على تمكين أجهزة الكمبيوتر
+  من تفسير وفهم المعلومات البصرية من العالم.
 ---
-
 ## Definition
 
 الرؤية الحاسوبية (CV) هي فرع من فروع الذكاء الاصطناعي يقوم بتدريب أجهزة الكمبيوتر على استخلاص معلومات ذات معنى من الصور الرقمية والفيديوهات والمدخلات البصرية الأخرى. يتضمن تطوير الخوارزميات

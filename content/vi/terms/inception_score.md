@@ -1,23 +1,24 @@
 ---
-title: "Điểm Inception"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Điểm Inception
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /vi/terms/inception_score/
-date: "2026-07-18T15:57:53.963934Z"
-lastmod: "2026-07-18T16:38:07.769332Z"
+slug: inception_score
+date: '2026-07-18T15:57:53.963934Z'
+lastmod: '2026-07-18T16:38:07.769332Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chỉ số dùng để đánh giá chất lượng của ảnh được tạo ra bằng cách đo lường độ rõ nét và sự đa dạng của chúng."
+source: agnes_llm
+status: published
+language: vi
+description: Một chỉ số dùng để đánh giá chất lượng của ảnh được tạo ra bằng cách
+  đo lường độ rõ nét và sự đa dạng của chúng.
 ---
-
 ## Definition
 
 Điểm Inception (IS) là một phép đo thống kê được giới thiệu để đánh giá hiệu suất của Mạng đối nghịch sinh (GANs) và các mô hình sinh khác. Nó kết hợp hai yếu tố: chất lượng ảnh (độ rõ nét) và sự đa dạng của dữ liệu đầu ra.

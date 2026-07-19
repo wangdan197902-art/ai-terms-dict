@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /fr/terms/reliability/
 date: "2026-07-18T11:36:07.251237Z"
 lastmod: "2026-07-18T11:44:45.322718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le degré auquel un système d'IA effectue constamment ses fonctions prévues correctement et en toute sécurité dans des conditions spécifiées."
 ---
-
 ## Definition
 
 La fiabilité en IA fait référence à la confiance et à la cohérence du comportement d'un système au fil du temps et à travers différentes entrées. Un système d'IA fiable doit produire des résultats précis, gérer les cas limites et maintenir sa performance dans divers environnements.

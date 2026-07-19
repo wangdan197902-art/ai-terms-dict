@@ -1,23 +1,24 @@
 ---
-title: "חילוץ תכונות"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: חילוץ תכונות
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /he/terms/feature_extraction/
-date: "2026-07-18T15:57:04.370941Z"
-lastmod: "2026-07-18T17:15:09.539910Z"
+slug: feature_extraction
+date: '2026-07-18T15:57:04.370941Z'
+lastmod: '2026-07-18T17:15:09.539910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של גזירת מידע משמעותי מנתונים גולמיים כדי להפחית מימד ולשפר את הביצועים של מודלי למידת מכונה."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של גזירת מידע משמעותי מנתונים גולמיים כדי להפחית מימד ולשפר את
+  הביצועים של מודלי למידת מכונה.
 ---
-
 ## Definition
 
 חילוץ תכונות כולל המרת נתונים גולמיים למערך של תכונות המייצגות טוב יותר את הבעיה הבסיסית בפני המודלים החיזויים, מה שמוביל לדיוק מודל משופר. טכניקה זו מפחיתה רעש ומימדיות.

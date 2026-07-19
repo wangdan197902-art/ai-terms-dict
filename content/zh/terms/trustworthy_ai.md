@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "governance"]
 difficulty: 2
 weight: 1
 slug: "trustworthy_ai"
-aliases:
-  - /zh/terms/trustworthy_ai/
 date: "2026-07-18T11:37:15.094902Z"
 lastmod: "2026-07-18T11:44:45.565229Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "可信AI指的是在其整个生命周期内具备安全性、安全性、透明度、公平性和问责制的人工智能系统。"
 ---
-
 ## Definition
 
 可信AI涵盖了确保人工智能系统可靠且合乎伦理运行的原则与实践。关键属性包括抵御攻击的鲁棒性、针对不同人群的公平性以及决策过程的透明度。

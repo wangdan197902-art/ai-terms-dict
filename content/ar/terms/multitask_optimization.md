@@ -1,23 +1,24 @@
 ---
-title: "تحسين المهام المتعددة"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: تحسين المهام المتعددة
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /ar/terms/multitask_optimization/
-date: "2026-07-18T16:13:55.849449Z"
-lastmod: "2026-07-18T17:15:08.531135Z"
+slug: multitask_optimization
+date: '2026-07-18T16:13:55.849449Z'
+lastmod: '2026-07-18T17:15:08.531135Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "استراتيجية تدريب يتم فيها تحسين نموذج لأداء مهام متعددة ذات صلة في وقت واحد."
+source: agnes_llm
+status: published
+language: ar
+description: استراتيجية تدريب يتم فيها تحسين نموذج لأداء مهام متعددة ذات صلة في وقت
+  واحد.
 ---
-
 ## Definition
 
 يتضمن تحسين المهام المتعددة تدريب نموذج واحد للتعامل مع عدة مهام متميزة ولكنها ذات صلة في آن واحد. من خلال مشاركة التمثيلات الوسيطة عبر المهام، يمكن للنموذج تعلم تمثيلات أكثر عمومية...

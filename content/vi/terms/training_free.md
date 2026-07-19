@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /vi/terms/training_free/
 date: "2026-07-18T15:33:35.780213Z"
 lastmod: "2026-07-18T16:38:07.705487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các phương pháp thích ứng hoặc nâng cao mô hình mà không thực hiện cập nhật tham số dựa trên gradient."
 ---
-
 ## Definition
 
 Các phương pháp không cần huấn luyện đề cập đến các kỹ thuật sửa đổi hành vi hoặc đầu ra của mô hình mà không cập nhật các trọng số nền tảng thông qua lan truyền ngược. Những phương pháp này thường tận dụng kỹ thuật đặt câu lệnh...

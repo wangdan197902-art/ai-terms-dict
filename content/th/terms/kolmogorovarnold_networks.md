@@ -1,23 +1,24 @@
 ---
-title: "เครือข่ายคอลโมโกรอฟ-อาร์โนลด์"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: เครือข่ายคอลโมโกรอฟ-อาร์โนลด์
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /th/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:01:45.007254Z"
-lastmod: "2026-07-18T16:38:07.623510Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:01:45.007254Z'
+lastmod: '2026-07-18T16:38:07.623510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถาปัตยกรรมโครงข่ายประสาทเทียมที่อ้างอิงตามทฤษฎีบทการแสดงแทนของคอลโมโกรอฟ-อาร์โนลด์ ซึ่งเสนอทางเลือกอื่นนอกเหนือจากเพอร์เซปตรอนหลายชั้น"
+source: agnes_llm
+status: published
+language: th
+description: สถาปัตยกรรมโครงข่ายประสาทเทียมที่อ้างอิงตามทฤษฎีบทการแสดงแทนของคอลโมโกรอฟ-อาร์โนลด์
+  ซึ่งเสนอทางเลือกอื่นนอกเหนือจากเพอร์เซปตรอนหลายชั้น
 ---
-
 ## Definition
 
 เครือข่ายคอลโมโกรอฟ-อาร์โนลด์ (KANs) เป็นกลุ่มใหม่ของโครงข่ายประสาทเทียมที่ได้รับแรงบันดาลใจจากทฤษฎีบทการแสดงแทนของคอลโมโกรอฟ-อาร์โนลด์ ซึ่งระบุว่าฟังก์ชันต่อเนื่องใดๆ ที่มีตัวแปรหลายตัวสามารถแสดงเป็นผลรวมของฟังก์ชันต่อเนื่องของตัวแปรเดียวได้ KANs แทนที่ฟังก์ชันกระตุ้น (activation functions) แบบคงที่ในโครงข่ายประสาทเทียมทั่วไปด้วยฟังก์ชันที่เรียนรู้ได้ (learnable activations) บนเส้นเชื่อม (edges) ซึ่งช่วยให้โมเดลมีความสามารถในการประมาณฟังก์ชันทางคณิตศาสตร์ได้แม่นยำยิ่งขึ้นและตีความผลลัพธ์ได้ง่ายกว่า

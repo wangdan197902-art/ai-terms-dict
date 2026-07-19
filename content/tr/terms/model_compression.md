@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /tr/terms/model_compression/
 date: "2026-07-18T16:04:16.286238Z"
 lastmod: "2026-07-18T16:38:07.335710Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Model sıkıştırma, makine öğrenimi modellerinin boyutunu ve hesaplama gereksinimlerini azaltan teknikleri ifade eder."
 ---
-
 ## Definition
 
 Bu kategori, performansı korurken model izini küçültmeyi amaçlayan budama, nicelleme ve bilgi distilasyonu gibi yöntemleri içerir. Karmaşık AI modellerinin dağıtımı için esastır.

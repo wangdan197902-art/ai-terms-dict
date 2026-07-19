@@ -1,23 +1,23 @@
 ---
-title: "Any To Any（任意から任意へ）"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Any To Any（任意から任意へ）
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /ja/terms/any_to_any/
-date: "2026-07-18T11:03:52.514257Z"
-lastmod: "2026-07-18T11:44:45.067337Z"
+slug: any_to_any
+date: '2026-07-18T11:03:52.514257Z'
+lastmod: '2026-07-18T11:44:45.067337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "あるモーダリティの入力を、別の任意のモーダリティの出力へ直接変換できる生成AIの機能。"
+source: agnes_llm
+status: published
+language: ja
+description: あるモーダリティの入力を、別の任意のモーダリティの出力へ直接変換できる生成AIの機能。
 ---
-
 ## Definition
 
 Any-to-anyとは、テキストから画像へ、画像からテキストへ、音声から動画へなど、多様な入出力組み合わせを処理できる統一されたマルチモーダルアーキテクチャを指します。これらのシステムは、特殊化したモデルとは異なり、柔軟な変換を実現します。

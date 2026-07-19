@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /ko/terms/latency/
 date: "2026-07-18T15:34:49.419519Z"
 lastmod: "2026-07-18T16:38:06.796519Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템에서 요청 시작부터 응답 시작까지의 시간 지연."
 ---
-
 ## Definition
 
 지연 시간은 일반적으로 밀리초 단위로 표현되며, AI 서비스의 반응 속도를 측정합니다. 여기에는 추론 시간, 네트워크 전송 지연 및 처리 오버헤드가 포함됩니다. 낮은 지연 시간은 실시간 상호작용이 필요한 애플리케이션에서 사용자 경험에 직접적인 영향을 미치므로 매우 중요합니다.

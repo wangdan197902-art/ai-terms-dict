@@ -1,23 +1,24 @@
 ---
-title: "뉴로로보틱스"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: 뉴로로보틱스
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /ko/terms/neurorobotics/
-date: "2026-07-18T16:07:43.981198Z"
-lastmod: "2026-07-18T16:38:06.891238Z"
+slug: neurorobotics
+date: '2026-07-18T16:07:43.981198Z'
+lastmod: '2026-07-18T16:38:06.891238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "생물학적 신경 시스템이 자율 로봇 설계에 어떻게 기여할 수 있는지, 그리고 로봇이 뇌 기능 이해를 위한 모델로 어떻게 사용될 수 있는지 연구하는 분야."
+source: agnes_llm
+status: published
+language: ko
+description: 생물학적 신경 시스템이 자율 로봇 설계에 어떻게 기여할 수 있는지, 그리고 로봇이 뇌 기능 이해를 위한 모델로 어떻게 사용될
+  수 있는지 연구하는 분야.
 ---
-
 ## Definition
 
 이 분야는 신경망 모델을 로봇 제어 시스템에 구현함으로써 신경과학과 로봇 공학을 연결합니다. 이를 통해 연구자들은 운동 제어, 감각 처리 및 인지 과정에 대한 가설을 검증할 수 있습니다.

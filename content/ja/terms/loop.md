@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /ja/terms/loop/
 date: "2026-07-18T10:52:22.540626Z"
 lastmod: "2026-07-18T11:44:45.012869Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "条件を満たすまで、コードブロックを複数回繰り返すプログラミング構造です。"
 ---
-
 ## Definition
 
 コンピュータサイエンスおよびAI開発における基本的な制御フロー構造であるループは、アルゴリズムがデータセットを反復処理したり、繰り返し計算を実行したり、トレーニングのエポックを実行したりすることを可能にします。一般的なタイプには、forループやwhileループなどがあります。

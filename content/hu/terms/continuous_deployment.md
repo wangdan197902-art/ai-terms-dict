@@ -1,23 +1,24 @@
 ---
-title: "Folyamatos telepítés"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Folyamatos telepítés
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /hu/terms/continuous_deployment/
-date: "2026-07-18T15:51:46.265007Z"
-lastmod: "2026-07-18T17:15:09.765670Z"
+slug: continuous_deployment
+date: '2026-07-18T15:51:46.265007Z'
+lastmod: '2026-07-18T17:15:09.765670Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy szoftverfejlesztési gyakorlat, ahol minden automatikus teszteken átesett kódmódosítást automatikusan kiadnak a éles környezetbe."
+source: agnes_llm
+status: published
+language: hu
+description: Egy szoftverfejlesztési gyakorlat, ahol minden automatikus teszteken
+  átesett kódmódosítást automatikusan kiadnak a éles környezetbe.
 ---
-
 ## Definition
 
 A folyamatos telepítés a folyamatos kiszállítás kiterjesztése, amely automatizálja a teljes kiadási folyamatot. Amint a kódmódosítások sikeresen átmegyeken a minőségi kapukon (beleértve az egységteszteket, integrációs teszteket és biztonsági ellenőrzéseket), azok automatikusan éles környezetbe kerülnek, csökkentve a manuális beavatkozás szükségességét.

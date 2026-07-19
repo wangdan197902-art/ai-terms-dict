@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /pl/terms/text_to_speech/
 date: "2026-07-18T16:20:35.187953Z"
 lastmod: "2026-07-18T17:15:08.924075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Synteza mowy z tekstu (TTS) to technologia przekształcająca zapisany tekst w naturalnie brzmiącą mowę ludzką."
 ---
-
 ## Definition
 
 Synteza mowy z tekstu (TTS) to rodzaj technologii wspomagającej, która odczytuje tekst cyfrowy na głos użytkownikowi. Wykorzystuje zaawansowane sieci neuronowe i modele akustyczne do syntezy mowy naśladującej ludzką intonację.

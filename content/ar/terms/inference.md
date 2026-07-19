@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /ar/terms/inference/
 date: "2026-07-18T15:22:59.170228Z"
 lastmod: "2026-07-18T17:15:08.433144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "المرحلة التي يعالج فيها النموذج المُدرَّب بيانات جديدة لتوليد تنبؤات أو مخرجات."
 ---
-
 ## Definition
 
 يشير الاستدلال إلى مرحلة النشر حيث يُستخدم النموذج النهائي لاتخاذ قرارات أو تقديم تنبؤات على بيانات غير مرئية. على عكس التدريب الذي يحدث الأوزان، يستهلك الاستدلال موارد حاسوبية لتقديم النتائج.

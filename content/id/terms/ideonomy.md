@@ -7,8 +7,6 @@ tags: ["theory", "creativity"]
 difficulty: 4
 weight: 1
 slug: "ideonomy"
-aliases:
-  - /id/terms/ideonomy/
 date: "2026-07-18T15:55:18.621154Z"
 lastmod: "2026-07-18T16:38:07.468896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ideonomi adalah ilmu tentang generasi ide, yang berfokus pada metode sistematis untuk menciptakan dan mengorganisasikan konsep serta inovasi baru."
 ---
-
 ## Definition
 
 Bidang ini mempelajari proses pembentukan, penggabungan, dan evolusi ide. Ia menerapkan teknik terstruktur untuk meningkatkan kemampuan kreativitas dan pemecahan masalah. Dalam konteks AI, ideonomi dapat digunakan untuk menghasilkan ide secara otomatis.

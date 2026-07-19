@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /vi/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:47:44.323023Z"
 lastmod: "2026-07-18T16:38:07.744370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu được tuyển chọn, lấy từ Simple English Wikipedia, dùng để huấn luyện và đánh giá các mô hình nhúng văn bản."
 ---
-
 ## Definition
 
 Bộ dữ liệu này bao gồm các câu và đoạn văn được trích xuất từ Simple English Wikipedia, một phiên bản của Wikipedia được viết bằng tiếng Anh đơn giản hóa dành cho người không phải bản xứ, với ngữ pháp và từ vựng dễ hiểu hơn. Nó đóng vai trò là một nguồn dữ liệu chuẩn để

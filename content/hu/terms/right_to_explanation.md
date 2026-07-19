@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /hu/terms/right_to_explanation/
 date: "2026-07-18T16:22:03.852212Z"
 lastmod: "2026-07-18T17:15:09.830010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy jogi és etikai elv, amely az egyéneknek azt a jogát biztosítja, hogy jelentős hatású automatizált döntések esetén értelmezhető információkat kapjanak."
 ---
-
 ## Definition
 
 A magyarázathoz való jog az algoritmikus elszámoltathatóság központi eleme, különösen az általános adatvédelmi rendelet (GDPR) keretrendszerében. Biztosítja, hogy amikor egy mesterséges intelligencia rendszer olyan döntést hoz, amely érintett személyek jogaira hatással van,

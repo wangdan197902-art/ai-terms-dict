@@ -1,23 +1,24 @@
 ---
-title: "Dataset:Eli5"
-term_id: "dataseteli5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "qa_systems", "social_media"]
+title: Dataset:Eli5
+term_id: dataseteli5
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Qa Systems
+- Social Media
 difficulty: 2
 weight: 1
-slug: "dataseteli5"
-aliases:
-  - /id/terms/dataseteli5/
-date: "2026-07-18T15:45:36.677524Z"
-lastmod: "2026-07-18T16:38:07.444315Z"
+slug: dataseteli5
+date: '2026-07-18T15:45:36.677524Z'
+lastmod: '2026-07-18T16:38:07.444315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dataset skala besar berisi pertanyaan dan jawaban yang diformat sebagai 'Jelaskan Seperti Saya Berumur Lima Tahun', berfokus pada penjelasan yang rinci."
+source: agnes_llm
+status: published
+language: id
+description: Dataset skala besar berisi pertanyaan dan jawaban yang diformat sebagai
+  'Jelaskan Seperti Saya Berumur Lima Tahun', berfokus pada penjelasan yang rinci.
 ---
-
 ## Definition
 
 ELI5 (Explain Like I'm Five) adalah dataset yang berasal dari komunitas Reddit dengan nama yang sama. Dataset ini terdiri dari pertanyaan yang diajukan pengguna beserta jawaban rinci dan disederhanakan yang disediakan oleh komunitas tersebut.

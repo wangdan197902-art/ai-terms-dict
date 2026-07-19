@@ -1,23 +1,25 @@
 ---
-title: "Keinginan Ekstrapolasi Koheren"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Keinginan Ekstrapolasi Koheren
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /id/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:42:35.019333Z"
-lastmod: "2026-07-18T16:38:07.438020Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:42:35.019333Z'
+lastmod: '2026-07-18T16:38:07.438020Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah tujuan yang diusulkan untuk kecerdasan buatan di mana sistem bertindak sesuai dengan keinginan manusia yang telah disempurnakan setelah penalaran yang ideal."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah tujuan yang diusulkan untuk kecerdasan buatan di mana sistem bertindak
+  sesuai dengan keinginan manusia yang telah disempurnakan setelah penalaran yang
+  ideal.
 ---
-
 ## Definition
 
 Keinginan Ekstrapolasi Koheren (CEV) adalah konsep yang diperkenalkan oleh Eliezer Yudkowsky dalam konteks keselamatan dan keselarasan AI. Konsep ini menyatakan bahwa AI canggih seharusnya tidak sekadar mematuhi perintah manusia saat ini, melainkan mengekstrapolasi keinginan manusia yang paling mendasar dan bernilai setelah proses penalaran yang ideal dan koheren.

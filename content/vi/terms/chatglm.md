@@ -1,23 +1,24 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /vi/terms/chatglm/
-date: "2026-07-18T15:43:56.697999Z"
-lastmod: "2026-07-18T16:38:07.735776Z"
+slug: chatglm
+date: '2026-07-18T15:43:56.697999Z'
+lastmod: '2026-07-18T16:38:07.735776Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "ChatGLM là một dòng các mô hình ngôn ngữ nguồn mở quy mô lớn, song ngữ do Zhipu AI phát triển, được tối ưu hóa cho hội thoại tiếng Trung và tiếng Anh."
+source: agnes_llm
+status: published
+language: vi
+description: ChatGLM là một dòng các mô hình ngôn ngữ nguồn mở quy mô lớn, song ngữ
+  do Zhipu AI phát triển, được tối ưu hóa cho hội thoại tiếng Trung và tiếng Anh.
 ---
-
 ## Definition
 
 ChatGLM đại diện cho một họ các mô hình ngôn ngữ dựa trên kiến trúc Transformer, được thiết kế đặc biệt để xử lý các cuộc hội thoại song ngữ chất lượng cao bằng tiếng Trung và tiếng Anh. Được phát triển bởi Zhipu AI, các mô hình này sử dụng...

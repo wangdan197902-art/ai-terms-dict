@@ -1,23 +1,25 @@
 ---
-title: "Walidacja krzyżowa typu leave-one-out"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Walidacja krzyżowa typu leave-one-out
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /pl/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:03:57.818447Z"
-lastmod: "2026-07-18T17:15:08.891544Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:03:57.818447Z'
+lastmod: '2026-07-18T17:15:08.891544Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Rygorystyczna technika próbkowania ponownego, w której model jest trenowany na wszystkich próbach z wyjątkiem jednej i testowany na tej pojedynczej, pominiętej próbce, co powtarzane jest dla każdego p"
+source: agnes_llm
+status: published
+language: pl
+description: Rygorystyczna technika próbkowania ponownego, w której model jest trenowany
+  na wszystkich próbach z wyjątkiem jednej i testowany na tej pojedynczej, pominiętej
+  próbce, co powtarzane jest dla każdego p
 ---
-
 ## Definition
 
 Walidacja krzyżowa typu leave-one-out (LOOCV) jest szczególnym przypadkiem walidacji krzyżowej k-fold, gdzie k jest równe liczbie próbek w zbiorze danych. Zapewnia ona niemal nieobciążoną estymację wydajności modelu, ponieważ każda próbka jest używana dokładnie raz jako zbiór testowy.

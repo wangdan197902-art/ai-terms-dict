@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /zh/terms/semi_supervised_learning/
 date: "2026-07-18T11:33:07.044646Z"
 lastmod: "2026-07-18T11:44:45.552911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种利用标记数据和未标记数据来提高模型准确性和泛化能力的机器学习方法。"
 ---
-
 ## Definition
 
 半监督学习是一种混合训练范式，它利用少量标记数据和大量未标记数据。其核心假设是未标记数据的结构有助于学习决策边界。

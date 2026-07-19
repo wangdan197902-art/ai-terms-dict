@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /cs/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:34:23.578117Z"
 lastmod: "2026-07-18T17:15:09.087804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Prompting myšlenkovým řetězcem je technika, která podporuje velké jazykové modely k generování mezilehlých kroků úsudku před vydáním finální odpovědi."
 ---
-
 ## Definition
 
 Prompting myšlenkovým řetězcem (CoT) zlepšuje výkon velkých jazykových modelů na složitých úlohách úsudku tím, že explicitně žádá model, aby formuloval svou logiku krok za krokem. Místo toho, aby skočil di

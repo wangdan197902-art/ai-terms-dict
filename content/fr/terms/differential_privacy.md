@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /fr/terms/differential_privacy/
 date: "2026-07-18T11:13:36.729900Z"
 lastmod: "2026-07-18T11:44:45.242519Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre mathématique rigoureux qui garantit que l'inclusion ou l'exclusion des données d'un individu donné n'affecte pas significativement le résultat d'une analyse."
 ---
-
 ## Definition
 
 La confidentialité différentielle offre de solides garanties de confidentialité en ajoutant un bruit statistique calibré aux résultats des requêtes ou aux paramètres du modèle. Elle quantifie la quantité maximale de fuite d'informations concernant tout individu.

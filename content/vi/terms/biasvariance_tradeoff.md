@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /vi/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:43:12.294851Z"
 lastmod: "2026-07-18T16:38:07.733631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một vấn đề cơ bản trong học có giám sát, nơi việc giảm thiểu lỗi đòi hỏi phải cân bằng giữa độ phức tạp của mô hình và khả năng tổng quát hóa."
 ---
-
 ## Definition
 
 Sự đánh đổi bias-variance mô tả sự căng thẳng giữa việc học kém (high bias/thiên vị cao) và học quá mức (high variance/phương sai cao). Các mô hình có thiên vị cao đưa ra nhiều giả định về dữ liệu, có thể bỏ qua các mối quan hệ liên quan, trong khi phương sai cao khiến mô hình nhạy cảm quá mức với nhiễu trong dữ liệu huấn luyện.

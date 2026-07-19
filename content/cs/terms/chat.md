@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /cs/terms/chat/
 date: "2026-07-18T15:46:10.834415Z"
 lastmod: "2026-07-18T17:15:09.109187Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Chat označuje interaktivní konverzační komunikaci mezi uživatelem a systémem AI, obvykle prostřednictvím přirozeného jazyka."
 ---
-
 ## Definition
 
 V kontextu AI chat označuje rozhraní a základní mechanismus pro dialog v reálném čase probíhající po tazích. Umožňuje uživatelům kladot otázky, požadovat plnění úkolů nebo vést otevřenou konverzaci.

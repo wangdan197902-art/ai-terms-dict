@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /de/terms/ai_washing/
 date: "2026-07-18T11:01:29.917430Z"
 lastmod: "2026-07-18T11:44:44.904783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Praxis, Produkte oder Dienstleistungen im Marketing übermäßig zu bewerben oder falsch zu behaupten, dass sie künstliche Intelligenz nutzen."
 ---
-
 ## Definition
 
 KI-Washing ist ein Begriff, der analog zu Greenwashing steht und eine irreführende Marketingstrategie beschreibt, bei der Unternehmen behaupten, ihre Produkte enthielten fortschrittliche KI, obwohl sie tatsächlich auf einfachen regelbasierten Systemen beruhen.

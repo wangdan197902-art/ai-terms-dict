@@ -1,23 +1,25 @@
 ---
-title: "Атакa на основе состязательных примеров"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Атакa на основе состязательных примеров
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /ru/terms/adversarial_attack/
-date: "2026-07-18T15:39:44.874341Z"
-lastmod: "2026-07-18T16:38:07.116617Z"
+slug: adversarial_attack
+date: '2026-07-18T15:39:44.874341Z'
+lastmod: '2026-07-18T16:38:07.116617Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Состязательная атака — это техника, при которой к входным данным добавляются небольшие, часто незаметные возмущения, чтобы обмануть модели машинного обучения и заставить их делать неверные прогнозы."
+source: agnes_llm
+status: published
+language: ru
+description: Состязательная атака — это техника, при которой к входным данным добавляются
+  небольшие, часто незаметные возмущения, чтобы обмануть модели машинного обучения
+  и заставить их делать неверные прогнозы.
 ---
-
 ## Definition
 
 Состязательные атаки используют уязвимости нейронных сетей, внося тонкий шум во входные данные, такие как изображения или текст, что приводит к значительным ошибкам в результатах работы модели. Эти атаки подчеркивают...

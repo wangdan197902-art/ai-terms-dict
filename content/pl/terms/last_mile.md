@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /pl/terms/last_mile/
 date: "2026-07-18T16:03:21.970407Z"
 lastmod: "2026-07-18T17:15:08.890489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Końcowy etap dostarczania rozwiązań AI ze środowisk rozwojowych do użytkowników końcowych w rzeczywistych warunkach operacyjnych."
 ---
-
 ## Definition
 
 Problem „ostatniej mili” odnosi się do wyzwań napotykanych podczas wdrażania modeli do produkcji, w tym integracji z istniejącą infrastrukturą, zapewniania niskich opóźnień przy wnioskowaniu oraz obsługi danych brzegowych (edge cases).

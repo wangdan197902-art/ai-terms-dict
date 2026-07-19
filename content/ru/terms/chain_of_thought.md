@@ -1,23 +1,24 @@
 ---
-title: "Цепочка рассуждений"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Цепочка рассуждений
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /ru/terms/chain_of_thought/
-date: "2026-07-18T15:22:29.952717Z"
-lastmod: "2026-07-18T16:38:07.068464Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:29.952717Z'
+lastmod: '2026-07-18T16:38:07.068464Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника промптинга, побуждающая большие языковые модели генерировать промежуточные шаги рассуждения перед ответом."
+source: agnes_llm
+status: published
+language: ru
+description: Техника промптинга, побуждающая большие языковые модели генерировать
+  промежуточные шаги рассуждения перед ответом.
 ---
-
 ## Definition
 
 Промпт «цепочка рассуждений» (Chain-of-Thought, CoT) — это стратегия, при которой большие языковые модели направляются на пошаговое объяснение рассуждений перед тем, как прийти к окончательному ответу. Разбивая сложные задачи

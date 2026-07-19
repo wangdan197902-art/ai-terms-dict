@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /he/terms/contrastive/
 date: "2026-07-18T15:23:59.905808Z"
 lastmod: "2026-07-18T17:15:09.474733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "למידה ניגודית היא טכניקה של למידה עצמית המאמנת מודלים להבדיל בין זוגות נתונים דומים ושונים."
 ---
-
 ## Definition
 
 שיטה זו מעודדת את המודל לקרב הטמעות (Embeddings) של זוגות חיוביים (פריטים דומים) זה לזה, ולדחות זוגות שליליים (פריטים שונים) זה מזה במרחב הזיכרון. היא נפוצה מאוד בייצוג נתונים.

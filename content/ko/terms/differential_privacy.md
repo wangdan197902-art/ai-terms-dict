@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /ko/terms/differential_privacy/
 date: "2026-07-18T15:51:59.144323Z"
 lastmod: "2026-07-18T16:38:06.831809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "특정 개인의 데이터 포함 여부가 분석 결과에 유의미한 영향을 미치지 않도록 보장하는 엄격한 수학적 프레임워크입니다."
 ---
-
 ## Definition
 
 차등 프라이버시는 쿼리 결과나 모델 매개변수에 보정된 통계적 노이즈를 추가하여 강력한 프라이버시 보장을 제공합니다. 이는 특정 개인에 대한 정보 유출의 최대량을 정량화하며...

@@ -1,23 +1,23 @@
 ---
-title: "構造化スパース正則化"
-term_id: "structured_sparsity_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "feature_selection"]
+title: 構造化スパース正則化
+term_id: structured_sparsity_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- Feature Selection
 difficulty: 3
 weight: 1
-slug: "structured_sparsity_regularization"
-aliases:
-  - /ja/terms/structured_sparsity_regularization/
-date: "2026-07-18T11:33:33.767251Z"
-lastmod: "2026-07-18T11:44:45.148207Z"
+slug: structured_sparsity_regularization
+date: '2026-07-18T11:33:33.767251Z'
+lastmod: '2026-07-18T11:44:45.148207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "データ内の特徴量のグループ分けや構造に関する事前知識に基づき、スパースパターンを強制する正則化技術。"
+source: agnes_llm
+status: published
+language: ja
+description: データ内の特徴量のグループ分けや構造に関する事前知識に基づき、スパースパターンを強制する正則化技術。
 ---
-
 ## Definition
 
 構造化スパース正則化は、標準的なL1正則化を拡張し、個々の係数を独立してゼロにするのではなく、特定の構造パターンにおいてゼロになることを促進します。これは、特徴量間の関係性やグループ構造に関する事前知識を組み込むことで、より意味のある特徴選択を可能にします。

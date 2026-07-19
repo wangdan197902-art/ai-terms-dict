@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /zh/terms/galaxy_ai/
 date: "2026-07-18T11:18:04.585937Z"
 lastmod: "2026-07-18T11:44:45.504260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "三星对其集成在其Galaxy智能手机和设备中的端侧及云端人工智能功能套件的品牌命名。"
 ---
-
 ## Definition
 
 Galaxy AI是三星专有的AI功能生态系统，旨在通过增强其硬件产品线（主要是智能手机）的用户体验来发挥作用。它包括实时翻译等功能。

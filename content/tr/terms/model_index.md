@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /tr/terms/model_index/
 date: "2026-07-18T16:04:16.286253Z"
 lastmod: "2026-07-18T16:38:07.335972Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir Model Dizini, Hugging Face Hub tarafından model bileşenlerini ve yapılandırmalarını açıklamak ve düzenlemek için kullanılan bir meta veri dosyasıdır."
 ---
-
 ## Definition
 
 Genellikle 'model_index.json' olarak adlandırılan dizin dosyası, boru hattı türü, alt modeller ve yapılandırma yolları dahil olmak üzere bir modelin mimarisi hakkında yapılandırılmış bilgiler içerir.

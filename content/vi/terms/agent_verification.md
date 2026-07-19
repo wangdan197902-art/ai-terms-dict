@@ -1,23 +1,24 @@
 ---
-title: "Xác minh tác nhân"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Xác minh tác nhân
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /vi/terms/agent_verification/
-date: "2026-07-18T15:39:36.194316Z"
-lastmod: "2026-07-18T16:38:07.725382Z"
+slug: agent_verification
+date: '2026-07-18T15:39:36.194316Z'
+lastmod: '2026-07-18T16:38:07.725382Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Xác minh tác nhân là quá trình chứng minh hình thức rằng một tác nhân tự hành sẽ hoạt động đúng đắn và an toàn trong mọi điều kiện đã xác định."
+source: agnes_llm
+status: published
+language: vi
+description: Xác minh tác nhân là quá trình chứng minh hình thức rằng một tác nhân
+  tự hành sẽ hoạt động đúng đắn và an toàn trong mọi điều kiện đã xác định.
 ---
-
 ## Definition
 
 Điều này liên quan đến việc sử dụng các phương pháp toán học để đảm bảo hành động của tác nhân tuân thủ các ràng buộc đã định trước, chẳng hạn như giới hạn an toàn hoặc hướng dẫn đạo đức. Nó đặc biệt quan trọng đối với các tác nhân vận hành trong môi trường rủi ro cao.

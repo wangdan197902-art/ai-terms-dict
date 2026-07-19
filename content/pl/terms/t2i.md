@@ -1,23 +1,23 @@
 ---
-title: "T2I"
-term_id: "t2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "computer_vision"]
+title: T2I
+term_id: t2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "t2i"
-aliases:
-  - /pl/terms/t2i/
-date: "2026-07-18T16:19:51.743809Z"
-lastmod: "2026-07-18T17:15:08.922703Z"
+slug: t2i
+date: '2026-07-18T16:19:51.743809Z'
+lastmod: '2026-07-18T17:15:08.922703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "T2I oznacza Text-to-Image (tekst do obrazu), technologię generatywnej sztucznej inteligencji tworzącej obrazy wizualne na podstawie opisów tekstowych."
+source: agnes_llm
+status: published
+language: pl
+description: T2I oznacza Text-to-Image (tekst do obrazu), technologię generatywnej
+  sztucznej inteligencji tworzącej obrazy wizualne na podstawie opisów tekstowych.
 ---
-
 ## Definition
 
 Generowanie Text-to-Image (T2I) obejmuje wykorzystanie modeli uczenia głębokiego, takich jak modele dyfuzyjne lub sieci GAN, do syntezowania obrazów na podstawie promptów w języku naturalnym. Modele te uczą się korelacji między...

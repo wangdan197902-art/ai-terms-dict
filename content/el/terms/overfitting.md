@@ -1,23 +1,24 @@
 ---
-title: "Υπερπροσαρμογή"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Υπερπροσαρμογή
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /el/terms/overfitting/
-date: "2026-07-18T15:42:14.806344Z"
-lastmod: "2026-07-18T17:15:09.868913Z"
+slug: overfitting
+date: '2026-07-18T15:42:14.806344Z'
+lastmod: '2026-07-18T17:15:09.868913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα σφάλμα μοντελοποίησης όπου ένας αλγόριθμος μηχανικής μάθησης αποθηκεύει τον θόρυβο αντί για το υπόlying σήμα, βλάπτοντας τη γενίκευση."
+source: agnes_llm
+status: published
+language: el
+description: Ένα σφάλμα μοντελοποίησης όπου ένας αλγόριθμος μηχανικής μάθησης αποθηκεύει
+  τον θόρυβο αντί για το υπόlying σήμα, βλάπτοντας τη γενίκευση.
 ---
-
 ## Definition
 
 Η υπερπροσαρμογή συμβαίνει όταν ένα μοντέλο μαθαίνει τα δεδομένα εκπαίδευσης πολύ καλά, συμπεριλαμβανομένου του τυχαίου θορύβου και των ακραίων τιμών τους, με αποτέλεσμα εξαιρετική απόδοση στα δεδομένα εκπαίδευσης αλλά κακή απόδοση σε νέα, μη οραστά δεδομένα δοκιμής.

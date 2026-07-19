@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /vi/terms/gated_recurrent_unit/
 date: "2026-07-18T15:54:25.719029Z"
 lastmod: "2026-07-18T16:38:07.760081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một loại kiến trúc mạng nơ-ron tái diễn sử dụng cơ chế cổng để kiểm soát luồng thông tin, đóng vai trò là phiên bản đơn giản hóa so với LSTM."
 ---
-
 ## Definition
 
 Đơn vị tái phát có cổng (GRU) là một tế bào mạng nơ-ron tái diễn chuyên biệt được thiết kế để nắm bắt các phụ thuộc dài hạn trong dữ liệu tuần tự. Nó đơn giản hóa kiến trúc Long Short-Term Memory (LSTM) bằng cách giảm số lượng cổng và tham số cần huấn luyện, giúp quá trình học nhanh hơn và ít tốn tài nguyên tính toán hơn.

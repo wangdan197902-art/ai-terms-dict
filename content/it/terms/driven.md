@@ -1,23 +1,25 @@
 ---
-title: "Guidato da"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Guidato da
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /it/terms/driven/
-date: "2026-07-18T15:24:21.292456Z"
-lastmod: "2026-07-18T17:15:08.564072Z"
+slug: driven
+date: '2026-07-18T15:24:21.292456Z'
+lastmod: '2026-07-18T17:15:08.564072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Guidato da descrive sistemi o metodologie AI in cui il processo decisionale o l'architettura del modello è principalmente determinato da un tipo di input specifico, come dati o obiettivi."
+source: agnes_llm
+status: published
+language: it
+description: Guidato da descrive sistemi o metodologie AI in cui il processo decisionale
+  o l'architettura del modello è principalmente determinato da un tipo di input specifico,
+  come dati o obiettivi.
 ---
-
 ## Definition
 
 Il termine 'guidato da' è comunemente usato come suffisso per indicare la forza o il meccanismo primario alla base di un approccio AI. Ad esempio, 'guidato dai dati' implica che le decisioni si basano su pattern statistici rilevati nei dati, mentre 'guidato dalle regole' si basa su logica predefinita.

@@ -1,23 +1,23 @@
 ---
-title: "模式语言"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: 模式语言
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /zh/terms/pattern_language/
-date: "2026-07-18T11:29:29.607040Z"
-lastmod: "2026-07-18T11:44:45.541095Z"
+slug: pattern_language
+date: '2026-07-18T11:29:29.607040Z'
+lastmod: '2026-07-18T11:44:45.541095Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一套结构化的、相互关联的设计解决方案集合，旨在解决软件或系统架构中反复出现的问题。"
+source: agnes_llm
+status: published
+language: zh
+description: 一套结构化的、相互关联的设计解决方案集合，旨在解决软件或系统架构中反复出现的问题。
 ---
-
 ## Definition
 
 模式语言是一个形式化的框架，由一组经过验证的、针对设计中常见问题的解决方案组成，特别是在软件工程领域。每个模式描述了一个在特定上下文中重复出现的问题及其核心解决方案，这些模式之间相互连接，形成一种语言，帮助设计师系统地构建复杂系统。

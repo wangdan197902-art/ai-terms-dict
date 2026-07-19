@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /ja/terms/misinformation/
 date: "2026-07-18T11:24:02.776619Z"
 lastmod: "2026-07-18T11:44:45.122289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "欺く意図に関わらず拡散される、偽造または不正確な情報。"
 ---
-
 ## Definition
 
 誤情報とは、害や欺瞞を意図せずに共有される、偽造または誤解を招く情報を指します。これは意図的に捏造される「偽情報（disinformation）」とは異なります。AIの文脈では、モデルが生成する事実と異なる出力などが該当します。

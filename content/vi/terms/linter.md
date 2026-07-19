@@ -1,23 +1,24 @@
 ---
-title: "Trình kiểm tra mã (Linter)"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Trình kiểm tra mã (Linter)
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /vi/terms/linter/
-date: "2026-07-18T16:00:47.489537Z"
-lastmod: "2026-07-18T16:38:07.776646Z"
+slug: linter
+date: '2026-07-18T16:00:47.489537Z'
+lastmod: '2026-07-18T16:38:07.776646Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Công cụ phân tích mã tĩnh được sử dụng để cảnh báo các lỗi lập trình, lỗi logic, lỗi phong cách và các cấu trúc đáng ngờ."
+source: agnes_llm
+status: published
+language: vi
+description: Công cụ phân tích mã tĩnh được sử dụng để cảnh báo các lỗi lập trình,
+  lỗi logic, lỗi phong cách và các cấu trúc đáng ngờ.
 ---
-
 ## Definition
 
 Linter là một tiện ích thực hiện phân tích tĩnh trên mã nguồn mà không cần thực thi nó. Nó kiểm tra các lỗi cú pháp, lỗi tiềm ẩn, các dấu hiệu mã kém chất lượng (code smells) và sự sai lệch so với hướng dẫn phong cách hoặc các thực hành tốt nhất.

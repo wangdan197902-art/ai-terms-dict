@@ -1,23 +1,24 @@
 ---
-title: "Κατανεμημένη Εκπαίδευση"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Κατανεμημένη Εκπαίδευση
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /el/terms/distributed_training/
-date: "2026-07-18T15:39:47.433424Z"
-lastmod: "2026-07-18T17:15:09.865428Z"
+slug: distributed_training
+date: '2026-07-18T15:39:47.433424Z'
+lastmod: '2026-07-18T17:15:09.865428Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μέθοδος εκπαίδευσης μοντέλων μηχανικής μάθησης χωρίζοντας τα δεδομένα ή τους υπολογισμούς σε πολλαπλές συσκευές ή διακομιστές."
+source: agnes_llm
+status: published
+language: el
+description: Μια μέθοδος εκπαίδευσης μοντέλων μηχανικής μάθησης χωρίζοντας τα δεδομένα
+  ή τους υπολογισμούς σε πολλαπλές συσκευές ή διακομιστές.
 ---
-
 ## Definition
 
 Η Κατανεμημένη Εκπαίδευση επιταχύνει τη σύγκλιση του μοντέλου παράλληλοποιώντας τον υπολογισμό σε πολλαπλές GPU ή κόμβους. Οι τεχνικές περιλαμβάνουν την παραλληλισμό δεδομένων, όπου κάθε εργάτης επεξεργάζεται ένα υποσύνολο δεδομένων, και τον παραλληλισμό μοντέλου, όπου τμήματα του μοντέλου κατανέμονται σε διαφορετικούς κόμβους.

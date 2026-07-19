@@ -1,23 +1,23 @@
 ---
-title: "音声"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: 音声
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /ja/terms/voice/
-date: "2026-07-18T11:36:21.548624Z"
-lastmod: "2026-07-18T11:44:45.154283Z"
+slug: voice
+date: '2026-07-18T11:36:21.548624Z'
+lastmod: '2026-07-18T11:44:45.154283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "音声とは、発話によって生成される人間の音であり、音声認識および合成システムの主要な入力モダリティとして機能します。"
+source: agnes_llm
+status: published
+language: ja
+description: 音声とは、発話によって生成される人間の音であり、音声認識および合成システムの主要な入力モダリティとして機能します。
 ---
-
 ## Definition
 
 人工知能において、音声は言語情報を含む人間の声帯が生成する音響信号を指します。これは、特定の文脈（音声）に関連するという点で、一般的なオーディオとは区別されます。

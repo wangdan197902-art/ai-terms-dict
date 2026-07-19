@@ -1,23 +1,24 @@
 ---
-title: "Guardrails"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Guardrails
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /id/terms/guardrails/
-date: "2026-07-18T15:54:12.223550Z"
-lastmod: "2026-07-18T16:38:07.465253Z"
+slug: guardrails
+date: '2026-07-18T15:54:12.223550Z'
+lastmod: '2026-07-18T16:38:07.465253Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Mekanisme keamanan yang dirancang untuk membatasi keluaran model AI guna mencegah generasi konten yang berbahaya, bias, atau tidak sah."
+source: agnes_llm
+status: published
+language: id
+description: Mekanisme keamanan yang dirancang untuk membatasi keluaran model AI guna
+  mencegah generasi konten yang berbahaya, bias, atau tidak sah.
 ---
-
 ## Definition
 
 Guardrails merujuk pada seperangkat kontrol perangkat lunak dan lapisan penegakan kebijakan yang terintegrasi ke dalam aplikasi AI, khususnya model bahasa besar (LLM), untuk memastikan perilaku yang aman dan patuh terhadap aturan. Mereka berfungsi sebagai filter yang memantau dan memodifikasi input serta output untuk menjaga kepatuhan.

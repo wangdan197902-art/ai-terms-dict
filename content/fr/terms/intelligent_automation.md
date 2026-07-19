@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /fr/terms/intelligent_automation/
 date: "2026-07-18T11:23:49.307705Z"
 lastmod: "2026-07-18T11:44:45.276867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La combinaison de l'intelligence artificielle avec l'automatisation robotique des processus pour gérer des processus commerciaux complexes et non structurés."
 ---
-
 ## Definition
 
 L'automatisation intelligente intègre l'automatisation robotique des processus (RPA) traditionnelle avec des technologies avancées d'IA telles que l'apprentissage automatique et le traitement du langage naturel. Alors que la RPA gère les règles basées sur des structures

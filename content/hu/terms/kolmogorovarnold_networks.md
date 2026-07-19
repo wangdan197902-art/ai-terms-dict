@@ -1,23 +1,24 @@
 ---
-title: "Kolmogorov–Arnold hálózatok"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Kolmogorov–Arnold hálózatok
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /hu/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:09:33.414814Z"
-lastmod: "2026-07-18T17:15:09.800550Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:09:33.414814Z'
+lastmod: '2026-07-18T17:15:09.800550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Kolmogorov–Arnold reprezentációs tételen alapuló neurális hálózati architektúrák, amelyek alternatívát kínálnak a többrétegű perceptronok számára."
+source: agnes_llm
+status: published
+language: hu
+description: A Kolmogorov–Arnold reprezentációs tételen alapuló neurális hálózati
+  architektúrák, amelyek alternatívát kínálnak a többrétegű perceptronok számára.
 ---
-
 ## Definition
 
 A Kolmogorov–Arnold hálózatok (KAN-ok) egy új generációba tartozó neurális hálózatok, amelyeket a Kolmogorov–Arnold reprezentációs tétel inspirált. Ez a tétel kimondja, hogy bármely többváltozós folytonos függvény előállítható véges számú egyváltozós folytonos függvény összegeként és kompozíciójaként. A KAN-ok a neuronok közötti súlyok helyett a kapcsolatokon aktivációs függvényeket tanítanak, ami gyakran jobb interpretálhatóságot és pontosságot eredményez tudományos alkalmazásokban.

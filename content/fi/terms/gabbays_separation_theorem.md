@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /fi/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:58:52.808694Z"
 lastmod: "2026-07-18T17:15:09.413584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tulos ei-klassisessa logiikassa, jonka mukaan tietyt aikalogiikat tai modaalilogiikat voidaan erottaa rakenteellisten ominaisuuksiensa perusteella erillisiin komponentteihin."
 ---
-
 ## Definition
 
 Gabbayn erotteluteoreema on matemaattisen logiikan peruskäsite, erityisesti aikalogiikan ja modaalilogiikan tutkimuksessa. Se tarjoaa ehdot, joilla logiikka voidaan hahmottaa osiin tai erottaa toisistaan, mikä helpottaa monimutkaisten loogisten systeemien analysointia ja päättelyä.

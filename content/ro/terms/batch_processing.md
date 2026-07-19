@@ -1,23 +1,24 @@
 ---
-title: "Procesare în loturi"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Procesare în loturi
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /ro/terms/batch_processing/
-date: "2026-07-18T15:47:06.135792Z"
-lastmod: "2026-07-18T17:15:09.632442Z"
+slug: batch_processing
+date: '2026-07-18T15:47:06.135792Z'
+lastmod: '2026-07-18T17:15:09.632442Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metodă de calcul în care datele sunt colectate în timp și procesate în grupuri, nu individual."
+source: agnes_llm
+status: published
+language: ro
+description: O metodă de calcul în care datele sunt colectate în timp și procesate
+  în grupuri, nu individual.
 ---
-
 ## Definition
 
 Procesarea în loturi implică agregarea intrărilor de date într-un grup, sau lot, înainte de a executa o computație sau o inferență de model. Această abordare contrastează cu procesarea în flux în timp real, permițând optimizarea eficienței prin prelucrarea simultană a mai multor exemple.

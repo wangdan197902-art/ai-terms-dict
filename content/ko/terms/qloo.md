@@ -1,23 +1,23 @@
 ---
-title: "Qloo"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: Qloo
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /ko/terms/qloo/
-date: "2026-07-18T16:11:49.463224Z"
-lastmod: "2026-07-18T16:38:06.900774Z"
+slug: qloo
+date: '2026-07-18T16:11:49.463224Z'
+lastmod: '2026-07-18T16:38:06.900774Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Qloo는 소비자 행동과 문화적 트렌드에 대한 예측 인사이트를 제공하는 AI 기반 데이터 플랫폼입니다."
+source: agnes_llm
+status: published
+language: ko
+description: Qloo는 소비자 행동과 문화적 트렌드에 대한 예측 인사이트를 제공하는 AI 기반 데이터 플랫폼입니다.
 ---
-
 ## Definition
 
 Qloo는 고급 머신러닝 알고리즘을 통해 인간의 선호도를 이해하는 데 특화된 데이터 인텔리전스 기업으로 운영됩니다. 다양한 소스에서 방대한 데이터를 집계하고 분석하여... [원문 불완전]

@@ -1,23 +1,24 @@
 ---
-title: "Genie"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: Genie
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /id/terms/genie/
-date: "2026-07-18T15:52:05.942658Z"
-lastmod: "2026-07-18T16:38:07.462537Z"
+slug: genie
+date: '2026-07-18T15:52:05.942658Z'
+lastmod: '2026-07-18T16:38:07.462537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kelas khusus model generasi video, khususnya Genie dari Google, yang memprediksi frame video masa depan berdasarkan input teks atau visual."
+source: agnes_llm
+status: published
+language: id
+description: Kelas khusus model generasi video, khususnya Genie dari Google, yang
+  memprediksi frame video masa depan berdasarkan input teks atau visual.
 ---
-
 ## Definition
 
 Genie merujuk pada keluarga model generatif yang dirancang khusus untuk sintesis video. Dikembangkan oleh peneliti termasuk dari Google DeepMind, model-model ini bertujuan untuk menghasilkan urutan yang koheren...

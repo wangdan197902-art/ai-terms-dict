@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /da/terms/linear/
 date: "2026-07-18T15:26:53.490706Z"
 lastmod: "2026-07-18T17:15:09.227319Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Beskriver operationer eller relationer, hvor outputtet er direkte proportionalt med inputtet, hvilket danner grundlaget for affine transformationer i neurale lag."
 ---
-
 ## Definition
 
 Lineære operationer involverer multiplikation og addition uden ikke-lineære aktiveringer. I neurale netværk anvender lineære lag (eller tætte lag) en vægtmatrixtransformation på inputvektorer. Selvom lin

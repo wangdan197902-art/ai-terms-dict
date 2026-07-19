@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /ko/terms/contrastive/
 date: "2026-07-18T15:23:44.014855Z"
 lastmod: "2026-07-18T16:38:06.770790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "대조적 학습(self-supervised technique)은 모델이 유사한 데이터 쌍과 다른 데이터 쌍을 구분하도록 훈련시키는 자기지도 학습 기법입니다."
 ---
-
 ## Definition
 
 이 방법은 잠재 공간(latent space)에서 양성 쌍(유사 항목)의 임베딩(embedding)을 서로 가까이 끌어당기고, 음성 쌍(비유사 항목)은 멀리 떨어뜨리도록 모델을 유도합니다. 이는 컴퓨터 비전 및 자연어 처리 분야에서 널리 사용됩니다.

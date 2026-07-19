@@ -1,23 +1,24 @@
 ---
-title: "جيما"
-term_id: "gemma"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "google", "open-source"]
+title: جيما
+term_id: gemma
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- google
+- Open Source
 difficulty: 3
 weight: 1
-slug: "gemma"
-aliases:
-  - /ar/terms/gemma/
-date: "2026-07-18T15:59:05.143136Z"
-lastmod: "2026-07-18T17:15:08.507110Z"
+slug: gemma
+date: '2026-07-18T15:59:05.143136Z'
+lastmod: '2026-07-18T17:15:08.507110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "جيما هي عائلة من النماذج المفتوحة المتطورة وخفيفة الوزن، التي طورها جوجل ديبيمايند، وتستند إلى أبحاث وتكنولوجيا جيميناي."
+source: agnes_llm
+status: published
+language: ar
+description: جيما هي عائلة من النماذج المفتوحة المتطورة وخفيفة الوزن، التي طورها جوجل
+  ديبيمايند، وتستند إلى أبحاث وتكنولوجيا جيميناي.
 ---
-
 ## Definition
 
 تم تصميم نماذج جيما لتكون فعالة وسهلة الوصول للباحثين والمطورين. تأتي بأحجام مختلفة، بما في ذلك إصدارات تحتوي على ملياري وسبعة مليارات معلمة، مما يتيح نشرها على عتاد متنوع.

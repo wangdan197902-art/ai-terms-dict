@@ -1,23 +1,24 @@
 ---
-title: "Denetimli Öğrenme"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Denetimli Öğrenme
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /tr/terms/supervised_learning/
-date: "2026-07-18T15:37:31.383506Z"
-lastmod: "2026-07-18T16:38:07.264575Z"
+slug: supervised_learning
+date: '2026-07-18T15:37:31.383506Z'
+lastmod: '2026-07-18T16:38:07.264575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir modelin etiketli eğitim örneklerine dayanarak girdileri çıktılara eşlemeyi öğrendiği bir makine öğrenimi paradigması."
+source: agnes_llm
+status: published
+language: tr
+description: Bir modelin etiketli eğitim örneklerine dayanarak girdileri çıktılara
+  eşlemeyi öğrendiği bir makine öğrenimi paradigması.
 ---
-
 ## Definition
 
 Denetimli öğrenmede algoritma, etiketli bir veri seti üzerinde eğitilir; yani her girdi örneği doğru çıktı ile eşleştirilir. Amaç, modelin girdiler ile çıktılar arasındaki temel ilişkiyi öğrenmesini sağlamaktır.

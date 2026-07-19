@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /ko/terms/supermind_ai/
 date: "2026-07-18T16:17:21.908132Z"
 lastmod: "2026-07-18T16:38:06.912206Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "여러 지능형 에이전트나 모델을 통합하여 단일화된 향상된 인지實體를 구성하고, 이를 통해 superiores한 문제 해결 능력을 갖추도록 설계된 AI 아키텍처 또는 시스템."
 ---
-
 ## Definition
 
 슈퍼마인드 AI는 여러 AI 구성 요소, 인간 전문가, 또는 하이브리드 인간-AI 팀이 원활하게 협력하여 개별 구성 요소의 능력을 넘어선 집단 지성을 형성하는 시스템을 의미합니다. 이는 모듈식 아키텍처와 시너지를 통해 복잡한 문제를 더 효율적이고 창의적으로 해결하는 것을 목표로 합니다.

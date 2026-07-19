@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /fi/terms/large_scale/
 date: "2026-07-18T15:33:55.661993Z"
 lastmod: "2026-07-18T17:15:09.364652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuva tekoälyjärjestelmiä tai datajoukkoja, jotka toimivat valtavilla datamäärillä, parametreilla tai laskentaresursseilla."
 ---
-
 ## Definition
 
 Laajamittainen viittaa tekoälyjärjestelmän komponenttien mittakaavaan, johon liittyy usein miljardeja parametreja, teratavuja koulutusdataa tai hajautettuja laskentaklusteria. Tämä lähestymistapa on perustavanlaatuinen nykyaikaisille suurille malleille.

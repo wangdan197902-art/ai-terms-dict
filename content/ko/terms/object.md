@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /ko/terms/object/
 date: "2026-07-18T15:27:29.073560Z"
 lastmod: "2026-07-18T16:38:06.780041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "데이터를 조작하기 위한 데이터와 메서드를 포함하는 프로그램 내의 고유한 엔티티로, 객체지향 프로그래밍의 핵심입니다."
 ---
-
 ## Definition
 
 객체는 컴퓨터 과학, 특히 객체지향 프로그래밍(OOP)에서 근본적인 개념입니다. 이는 클래스의 인스턴스를 나타내며 상태(속성 또는 데이터)와 동작...

@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /zh/terms/moe/
 date: "2026-07-18T11:26:37.042799Z"
 lastmod: "2026-07-18T11:44:45.533587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种架构模式，通过门控机制结合多个专用神经网络（专家）来处理输入。"
 ---
-
 ## Definition
 
 混合专家（MoE）是一种旨在提高效率和可扩展性的机器学习架构。MoE 不使用单个大型模型处理所有任务，而是采用多个较小的“专家”网络。

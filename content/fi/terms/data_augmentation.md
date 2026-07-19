@@ -1,23 +1,24 @@
 ---
-title: "Datanaugmentointi"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Datanaugmentointi
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /fi/terms/data_augmentation/
-date: "2026-07-18T15:50:44.390560Z"
-lastmod: "2026-07-18T17:15:09.396523Z"
+slug: data_augmentation
+date: '2026-07-18T15:50:44.390560Z'
+lastmod: '2026-07-18T17:15:09.396523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Datanaugmentointi on tekniikka, jolla lisätään koulutusdatan monimuotoisuutta ja määrää soveltamalla muunnoksia olemassa oleviin datapisteisiin."
+source: agnes_llm
+status: published
+language: fi
+description: Datanaugmentointi on tekniikka, jolla lisätään koulutusdatan monimuotoisuutta
+  ja määrää soveltamalla muunnoksia olemassa oleviin datapisteisiin.
 ---
-
 ## Definition
 
 Tämä menetelmä laajentaa keinotekoisesti koulutusdataa luomalla muunnettuja versioita olemassa olevista näytteistä, kuten kuvien kiertämistä, ääneen lisättävän melun tai synonyymien vaihtamisen tekstissä. Se auttaa ehkäisemään

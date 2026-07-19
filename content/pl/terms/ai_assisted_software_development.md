@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /pl/terms/ai_assisted_software_development/
 date: "2026-07-18T15:38:30.857980Z"
 lastmod: "2026-07-18T17:15:08.841092Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wykorzystanie narzędzi AI do zwiększenia produktywności w procesach kodowania, debugowania, testowania i projektowania."
 ---
-
 ## Definition
 
 Rozwój oprogramowania wspomagany przez AI polega na wykorzystaniu modeli uczenia maszynowego w celu wsparcia programistów przy pisaniu kodu, identyfikowaniu błędów, generowaniu testów oraz optymalizacji wydajności. Przykładem są narzędzia takie jak GitHub Copilot.

@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /de/terms/safe/
 date: "2026-07-18T10:53:24.614026Z"
 lastmod: "2026-07-18T11:44:44.882578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf KI-Systeme, die so konzipiert sind, dass sie keine Schäden für Menschen, Eigentum oder die Umwelt verursachen."
 ---
-
 ## Definition
 
 Sicherheit in der KI beinhaltet die Implementierung von Einschränkungen und Schutzmaßnahmen, um sicherzustellen, dass automatisierte Systeme vorhersehbar agieren und keine unbeabsichtigten negativen Folgen verursachen. Dies umfasst technische Maßnahmen wie...

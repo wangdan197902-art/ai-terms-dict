@@ -1,23 +1,25 @@
 ---
-title: "Audio do Audio"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Audio do Audio
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /pl/terms/audio_to_audio/
-date: "2026-07-18T15:41:49.656502Z"
-lastmod: "2026-07-18T17:15:08.847642Z"
+slug: audio_to_audio
+date: '2026-07-18T15:41:49.656502Z'
+lastmod: '2026-07-18T17:15:08.847642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Zadanie generatywnej sztucznej inteligencji, w którym wejściowy sygnał audio jest przekształcany w wyjściowy sygnał audio przy zachowaniu lub zmianie określonych cech."
+source: agnes_llm
+status: published
+language: pl
+description: Zadanie generatywnej sztucznej inteligencji, w którym wejściowy sygnał
+  audio jest przekształcany w wyjściowy sygnał audio przy zachowaniu lub zmianie określonych
+  cech.
 ---
-
 ## Definition
 
 Audio-to-audio odnosi się do architektur sieci neuronowych zaprojektowanych do mapowania jednego sygnału audio na drugi. W przeciwieństwie do tekstu do mowy, obejmuje to bezpośrednią transformację fali dźwiękowej lub spektrogramu. Zastosowania obejmuj

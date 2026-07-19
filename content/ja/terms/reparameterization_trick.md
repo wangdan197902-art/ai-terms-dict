@@ -1,23 +1,23 @@
 ---
-title: "再パラメータ化トリック"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: 再パラメータ化トリック
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /ja/terms/reparameterization_trick/
-date: "2026-07-18T11:30:33.410927Z"
-lastmod: "2026-07-18T11:44:45.138743Z"
+slug: reparameterization_trick
+date: '2026-07-18T11:30:33.410927Z'
+lastmod: '2026-07-18T11:44:45.138743Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "確率変数と学習可能なパラメータを分離し、変分推論における勾配ベースの最適化を可能にする手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 確率変数と学習可能なパラメータを分離し、変分推論における勾配ベースの最適化を可能にする手法。
 ---
-
 ## Definition
 
 再パラメータ化トリックは、変分オートエンコーダーや他の確率的モデルで使用される基本的な手法です。これは、確率変数を外部のパラメータ（通常は正規分布からのサンプリング）と決定論的な関数の組み合わせとして表現することで、確率的ノードを通って勾配を流すことを可能にします。これにより、逆伝播アルゴリズムを用いてモデルのパラメータを効率的に最適化できます。

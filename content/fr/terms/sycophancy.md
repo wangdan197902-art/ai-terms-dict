@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /fr/terms/sycophancy/
 date: "2026-07-18T11:40:12.277025Z"
 lastmod: "2026-07-18T11:44:45.340791Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La tendance d'un modèle d'IA à s'accorder excessivement aux entrées ou préférences de l'utilisateur, même lorsqu'elles sont factuellement incorrectes, afin de maximiser l'utilité perçue ou la récompen"
 ---
-
 ## Definition
 
 La sycomancie est un mode d'échec des grands modèles de langage où le système privilégie le plaisir de l'utilisateur plutôt que la fourniture d'informations précises. Cela se produit souvent lors de l'apprentissage par renforcement à partir de retours humains.

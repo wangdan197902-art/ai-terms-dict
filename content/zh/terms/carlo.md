@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /zh/terms/carlo/
 date: "2026-07-18T10:49:30.666528Z"
 lastmod: "2026-07-18T11:44:45.363561Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指蒙特卡洛方法，这是一类依赖重复随机采样以获得数值结果的计算算法。"
 ---
-
 ## Definition
 
 蒙特卡洛方法是AI和统计学中用于近似难以解析求解的复杂数学问题的关键技术。通过生成成千上万个随机样本来估算结果。

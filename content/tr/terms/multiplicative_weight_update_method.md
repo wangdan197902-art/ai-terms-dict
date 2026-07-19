@@ -1,23 +1,24 @@
 ---
-title: "Çarpimsel Ağırlık Güncelleme Yöntemi"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Çarpimsel Ağırlık Güncelleme Yöntemi
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /tr/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:05:15.880521Z"
-lastmod: "2026-07-18T16:38:07.338620Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:05:15.880521Z'
+lastmod: '2026-07-18T16:38:07.338620Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Pişmanlığı en aza indirmek için performans geri bildirimine dayanarak ağırlıkları çarpımsal olarak güncelleyen iteratif bir algoritma."
+source: agnes_llm
+status: published
+language: tr
+description: Pişmanlığı en aza indirmek için performans geri bildirimine dayanarak
+  ağırlıkları çarpımsal olarak güncelleyen iteratif bir algoritma.
 ---
-
 ## Definition
 
 Çarpimsel ağırlık güncelleme yöntemi, belirsiz ortamlarda karar vermekte kullanılan temel çevrimiçi öğrenme algoritmalarından biridir. Farklı stratejiler veya uzmanlar için bir dizi ağırlık tutar ve her adımda bu ağırlıkları, o adımın başarısına göre çarpımsal olarak günceller.

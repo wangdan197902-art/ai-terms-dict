@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้ของหุ่นยนต์"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: การเรียนรู้ของหุ่นยนต์
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /th/terms/robot_learning/
-date: "2026-07-18T16:14:07.976980Z"
-lastmod: "2026-07-18T16:38:07.650947Z"
+slug: robot_learning
+date: '2026-07-18T16:14:07.976980Z'
+lastmod: '2026-07-18T16:38:07.650947Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาหนึ่งของวิทยาการหุ่นยนต์ที่มุ่งเน้นการเปิดโอกาสให้หุ่นยนต์สามารถเรียนรู้ทักษะและพัฒนาประสิทธิภาพผ่านการประสบการณ์และการโต้ตอบกับสิ่งแวดล้อม"
+source: agnes_llm
+status: published
+language: th
+description: สาขาหนึ่งของวิทยาการหุ่นยนต์ที่มุ่งเน้นการเปิดโอกาสให้หุ่นยนต์สามารถเรียนรู้ทักษะและพัฒนาประสิทธิภาพผ่านการประสบการณ์และการโต้ตอบกับสิ่งแวดล้อม
 ---
-
 ## Definition
 
 การเรียนรู้ของหุ่นยนต์เกี่ยวข้องกับการฝึกตัวแทนหุ่นยนต์ให้ทำงานได้อย่างอิสระโดยใช้เทคนิคการเรียนรู้ของเครื่อง ต่างจากพฤติกรรมที่ถูกโปรแกรมไว้ล่วงหน้า ระบบเหล่านี้สามารถปรับตัวเข้ากับสภาพแวดล้อมแบบไดนามิกได้โดยการเรียนรู้จากข้อมูลจริงหรือการจำลองสถานการณ์

@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /de/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T11:17:52.637169Z"
 lastmod: "2026-07-18T11:44:44.947642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Buchtitel, der die Schnittstelle zwischen Menschlichkeit und Technologie erforscht und oft in Diskussionen über KI-Ethik und zukünftige Arbeit zitiert wird."
 ---
-
 ## Definition
 
 Dieser Ausdruck bezieht sich auf ein spezifisches literarisches Werk, das untersucht, wie Menschen ihre Relevanz und Würde angesichts des raschen technologischen Fortschritts bewahren können. In der KI-Diskussion dient er als kultureller Referenzpunkt

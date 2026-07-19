@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /cs/terms/lora/
 date: "2026-07-18T15:26:24.643405Z"
 lastmod: "2026-07-18T17:15:09.072002Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Nízkorangová adaptace je metoda jemného doladění efektivního z hlediska parametrů, která vkládá trainovatelné matice rozkladu nízkého řádu do existujících vah modelu."
 ---
-
 ## Definition
 
 LoRA zamrazí předtrénované váhy modelu a vloží trainovatelné matice rozkladu do každé vrstvy architektury transformátoru. Optimalizací pouze těchto matic nízkého řádu LoRA významně snižuje

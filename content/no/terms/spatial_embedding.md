@@ -1,23 +1,24 @@
 ---
-title: "Romlig innbygging"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Romlig innbygging
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /no/terms/spatial_embedding/
-date: "2026-07-18T16:16:32.822997Z"
-lastmod: "2026-07-18T16:38:07.048583Z"
+slug: spatial_embedding
+date: '2026-07-18T16:16:32.822997Z'
+lastmod: '2026-07-18T16:38:07.048583Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som kartlegger romlige relasjoner mellom objekter eller steder til vektorrepresentasjoner for maskinlæringsmodeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som kartlegger romlige relasjoner mellom objekter eller steder
+  til vektorrepresentasjoner for maskinlæringsmodeller.
 ---
-
 ## Definition
 
 Romlig innbygging involverer konvertering av fysiske eller abstrakte romlige relasjoner til tette vektorrom, slik at algoritmer kan forstå nærhet, orientering og topologi. Denne teknikken er essensiell for oppgaver som krever romlig forståelse.

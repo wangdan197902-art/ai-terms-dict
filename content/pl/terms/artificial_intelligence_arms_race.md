@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /pl/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:40:53.609978Z"
 lastmod: "2026-07-18T17:15:08.845977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Konkurencyjna dynamika, w której państwa lub organizacje szybko rozwijają możliwości SI, aby uzyskać przewagę strategiczną."
 ---
-
 ## Definition
 
 Wyścig zbrojeń w dziedzinie SI odnosi się do intensywnej rywalizacji między krajami, korporacjami i instytucjami badawczymi o dominację w technologiach sztucznej inteligencji. Ta rywalizacja napędza szybką innowacyjność...

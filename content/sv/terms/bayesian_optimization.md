@@ -1,23 +1,24 @@
 ---
-title: "Bayesiansk optimering"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesiansk optimering
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /sv/terms/bayesian_optimization/
-date: "2026-07-18T15:47:25.994101Z"
-lastmod: "2026-07-18T17:15:08.980287Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:47:25.994101Z'
+lastmod: '2026-07-18T17:15:08.980287Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En sekventiell designstrategi för global optimering av svartboxfunktioner som är dyra att utvärdera."
+source: agnes_llm
+status: published
+language: sv
+description: En sekventiell designstrategi för global optimering av svartboxfunktioner
+  som är dyra att utvärdera.
 ---
-
 ## Definition
 
 Bayesiansk optimering använder en probabilistisk surrogatemodell, vanligtvis en Gaussprocess, för att modellera målfunktionen. Den använder en inköpsfunktion för att balansera utforskning och utnyttjande, s

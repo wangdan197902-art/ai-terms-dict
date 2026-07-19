@@ -1,23 +1,24 @@
 ---
-title: "Преобразование изображения в изображение"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: Преобразование изображения в изображение
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /ru/terms/image_to_image/
-date: "2026-07-18T15:58:14.670062Z"
-lastmod: "2026-07-18T16:38:07.167878Z"
+slug: image_to_image
+date: '2026-07-18T15:58:14.670062Z'
+lastmod: '2026-07-18T16:38:07.167878Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника генеративного ИИ, которая преобразует входное изображение в другой стиль, формат или содержание, сохраняя структурные элементы."
+source: agnes_llm
+status: published
+language: ru
+description: Техника генеративного ИИ, которая преобразует входное изображение в другой
+  стиль, формат или содержание, сохраняя структурные элементы.
 ---
-
 ## Definition
 
 Преобразование изображения в изображение (I2I) включает использование моделей глубокого обучения, таких как GAN или диффузионные модели, для преобразования одного изображения в другое. В отличие от простых фильтров, I2I может кардинально изменить внешний вид, например, превратив...

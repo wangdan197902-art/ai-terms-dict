@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /zh/terms/information/
 date: "2026-07-18T10:52:05.447674Z"
 lastmod: "2026-07-18T11:44:45.372186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "信息是指经过处理的数据，它能够传达意义、减少不确定性或为接收者提供上下文。"
 ---
-
 ## Definition
 
 在人工智能和计算机科学的语境中，信息与原始数据有所区别。它代表经过组织、结构化或解释以具有意义和实用性的数据。信息（注：原文截断，此处补全语义）通常被视为数据经过处理后产生的价值体现。

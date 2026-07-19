@@ -1,23 +1,23 @@
 ---
-title: "マッチボックス教育可能オセロエンジン"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: マッチボックス教育可能オセロエンジン
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /ja/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T11:23:21.681135Z"
-lastmod: "2026-07-18T11:44:45.120559Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T11:23:21.681135Z'
+lastmod: '2026-07-18T11:44:45.120559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ドナルド・ミッチィが1961年に構築した、マッチ箱とビーズを使用して三目並べをプレイする物理的な強化学習デバイス。"
+source: agnes_llm
+status: published
+language: ja
+description: ドナルド・ミッチィが1961年に構築した、マッチ箱とビーズを使用して三目並べをプレイする物理的な強化学習デバイス。
 ---
-
 ## Definition
 
 ME-Noughts-and-Crosses Engine（マッチボックス教育可能三目並べエンジン）は、強化学習を含む機械学習の初期実証例でした。304個のマッチ箱で構成され、各マッチ箱はユニークな盤面状態を表しています。各箱の中には、その状態で取れる手に対応する色のビーズが入っており、ゲームを通じて勝敗の結果に基づいてビーズを取り除いたり追加したりすることで、学習が行われます。これは、試行錯誤による学習の概念的なデモンストレーションとして歴史的に重要です。

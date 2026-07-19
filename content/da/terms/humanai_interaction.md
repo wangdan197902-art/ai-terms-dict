@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /da/terms/humanai_interaction/
 date: "2026-07-18T16:00:23.185160Z"
 lastmod: "2026-07-18T17:15:09.296963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Studiet og praksis af, hvordan mennesker kommunikerer med, kontrollerer og samarbejder med kunstige intelligenssystemer."
 ---
-
 ## Definition
 
 Menneske-AI-interaktion (HAI) er et tværfagligt felt, der undersøger dynamikken mellem mennesker og AI-teknologier. Det fokuserer på design af intuitive grænseflader, kommunikationsprotokoller og samarbejdsmekanismer for at optimere sammenarbejdet.

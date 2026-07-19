@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /hu/terms/ameca/
 date: "2026-07-18T15:43:45.954886Z"
 lastmod: "2026-07-18T17:15:09.753118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Engineered Arts által fejlesztett, rendkívül fejlett humanoid robot, kivételes arckifejező képességeiről és emberi jellegű interakcióiról ismert."
 ---
-
 ## Definition
 
 Az Ameca a legmodernebb humanoid robot, amelynek arcában több mint 40 szabadsági fok található, lehetővé téve a finom és realisztikus érzelmi kifejezéseket. Az ember-gép interakció tanulmányozására tervezték.

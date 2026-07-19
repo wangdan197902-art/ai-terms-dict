@@ -1,23 +1,25 @@
 ---
-title: "קובץ דיפוזיה בודד (Diffusion Single File)"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: קובץ דיפוזיה בודד (Diffusion Single File)
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /he/terms/diffusion_single_file/
-date: "2026-07-18T15:54:43.854867Z"
-lastmod: "2026-07-18T17:15:09.534584Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:54:43.854867Z'
+lastmod: '2026-07-18T17:15:09.534584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פורמט הפצה עבור מודלי דיפוזיה שבו כל משקלי המודל, התצורות ולעיתים אף קוד ההסקה מאוחסנים בקובץ אחד להעברה נוחה."
+source: agnes_llm
+status: published
+language: he
+description: פורמט הפצה עבור מודלי דיפוזיה שבו כל משקלי המודל, התצורות ולעיתים אף
+  קוד ההסקה מאוחסנים בקובץ אחד להעברה נוחה.
 ---
-
 ## Definition
 
 קובץ דיפוזיה בודד מתייחס לאסטרטגיית אריזה עבור מודלי למידת מכונה, ובפרט מודלי דיפוזיה, שבה כל אובייקט המודל כולל משקלים בינאריים, היפר-פרמטרים ומבנה המודל מאוחסנים בקובץ אחד כדי לפשט את הנגישות וההפצה.

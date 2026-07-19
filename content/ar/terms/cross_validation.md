@@ -1,23 +1,24 @@
 ---
-title: "التحقق المتبادل"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: التحقق المتبادل
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /ar/terms/cross_validation/
-date: "2026-07-18T15:50:36.050413Z"
-lastmod: "2026-07-18T17:15:08.489018Z"
+slug: cross_validation
+date: '2026-07-18T15:50:36.050413Z'
+lastmod: '2026-07-18T17:15:08.489018Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "إجراء إعادة أخذ العينات المستخدم لتقييم نماذج تعلم الآلة على عينة بيانات محدودة من خلال تقسيم البيانات إلى مجموعات للتدريب والاختبار."
+source: agnes_llm
+status: published
+language: ar
+description: إجراء إعادة أخذ العينات المستخدم لتقييم نماذج تعلم الآلة على عينة بيانات
+  محدودة من خلال تقسيم البيانات إلى مجموعات للتدريب والاختبار.
 ---
-
 ## Definition
 
 التحقق المتبادل هو أسلوب إحصائي يُستخدم لتقدير كفاءة نماذج تعلم الآلة. الشكل الأكثر شيوعاً هو التحقق المتبادل ذو الطيات k، حيث يتم تقسيم البيانات إلى k أجزاء متساوية.

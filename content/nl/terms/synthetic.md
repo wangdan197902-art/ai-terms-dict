@@ -1,23 +1,23 @@
 ---
-title: "Synthetisch"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Synthetisch
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /nl/terms/synthetic/
-date: "2026-07-18T15:30:21.436557Z"
-lastmod: "2026-07-18T17:15:08.694513Z"
+slug: synthetic
+date: '2026-07-18T15:30:21.436557Z'
+lastmod: '2026-07-18T17:15:08.694513Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Synthetisch verwijst naar data of inhoud die kunstmatig door algoritmen is gegenereerd in plaats van uit natuurlijke bronnen te zijn verzameld."
+source: agnes_llm
+status: published
+language: nl
+description: Synthetisch verwijst naar data of inhoud die kunstmatig door algoritmen
+  is gegenereerd in plaats van uit natuurlijke bronnen te zijn verzameld.
 ---
-
 ## Definition
 
 In AI verwijst synthetische data naar kunstmatig gegenereerde informatie die de data uit de echte wereld nabootst, maar geen daadwerkelijke persoonlijke of gevoelige gegevens bevat. Het is cruciaal voor het trainen van machine learning-modellen wanneer re

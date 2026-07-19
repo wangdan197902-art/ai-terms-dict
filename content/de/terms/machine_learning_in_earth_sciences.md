@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /de/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T11:22:46.715016Z"
 lastmod: "2026-07-18T11:44:44.962062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Nutzung von Algorithmen des maschinellen Lernens zur Analyse georäumlicher und umweltbezogener Daten zur Vorhersage natürlicher Phänomene und zum Ressourcenmanagement."
 ---
-
 ## Definition
 
 Maschinelles Lernen verbessert die Erdwissenschaften durch die Verarbeitung von Satellitenbildern, seismischen Daten und Klimaaufzeichnungen, um komplexe Umweltsysteme zu modellieren. Diese Techniken helfen dabei, Wetterphänomene vorherzusagen, Umweltveränderungen zu überwachen und natürliche Ressourcen nachhaltiger zu nutzen, indem sie große Datenmengen effizient auswerten und Muster in zeitlichen und räumlichen Entwicklungen erkennen.

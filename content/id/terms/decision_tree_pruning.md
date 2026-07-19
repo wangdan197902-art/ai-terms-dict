@@ -1,23 +1,23 @@
 ---
-title: "Pemangkasan pohon keputusan"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Pemangkasan pohon keputusan
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /id/terms/decision_tree_pruning/
-date: "2026-07-18T15:47:03.501681Z"
-lastmod: "2026-07-18T16:38:07.448606Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:47:03.501681Z'
+lastmod: '2026-07-18T16:38:07.448606Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik untuk mengurangi ukuran pohon keputusan dengan menghapus bagian-bagian yang memberikan sedikit kemampuan untuk mengklasifikasikan instance."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik untuk mengurangi ukuran pohon keputusan dengan menghapus
+  bagian-bagian yang memberikan sedikit kemampuan untuk mengklasifikasikan instance.
 ---
-
 ## Definition
 
 Pemangkasan adalah metode yang digunakan untuk mencegah overfitting pada model pohon keputusan dengan menghapus cabang-cabang yang memiliki daya prediktif lemah. Ini dapat dilakukan melalui pra-pemangkasan (pre-pruning), dengan menghentikan pertumbuhan pohon lebih awal, atau pasca-pemangkasan (post-pruning), dengan memangkas cabang-cabang setelah pohon dibangun sepenuhnya.

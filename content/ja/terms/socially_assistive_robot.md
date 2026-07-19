@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /ja/terms/socially_assistive_robot/
 date: "2026-07-18T11:32:34.991178Z"
 lastmod: "2026-07-18T11:44:45.144997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "物理的な作業を行わず、人間の身体的または精神的なウェルビーイングを向上させるために人間と相互作用するように設計されたロボット。"
 ---
-
 ## Definition
 
 社会的支援ロボット（SAR）は、物理的な操作ではなく社会的な手段を通じて支援を提供することに焦点を当てた人間-ロボットの相互作用のサブセットです。これらは、接触を伴わない戦略（例：対話、感情表現）を利用します。

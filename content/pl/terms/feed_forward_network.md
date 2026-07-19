@@ -1,23 +1,24 @@
 ---
-title: "Sieć feed-forward"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Sieć feed-forward
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /pl/terms/feed_forward_network/
-date: "2026-07-18T15:54:44.595749Z"
-lastmod: "2026-07-18T17:15:08.873724Z"
+slug: feed_forward_network
+date: '2026-07-18T15:54:44.595749Z'
+lastmod: '2026-07-18T17:15:08.873724Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Klasa sztucznej sieci neuronowej, w której połączenia między węzłami nie tworzą cykli, propagując informację w jednym kierunku."
+source: agnes_llm
+status: published
+language: pl
+description: Klasa sztucznej sieci neuronowej, w której połączenia między węzłami
+  nie tworzą cykli, propagując informację w jednym kierunku.
 ---
-
 ## Definition
 
 Sieci feed-forward (FFN), znane również jako wielowarstwowe perceptrony (MLP), przetwarzają dane sekwencyjnie przez warstwy neuronów od wejścia do wyjścia bez pętli sprzężenia zwrotnego. Każdy neuron otrzymuje wejścia, stosuje wagę, sumuje je i przekazuje wynik przez funkcję aktywacji do następnej warstwy, co umożliwia modelowanie nieliniowych zależności.

@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /fi/terms/robustness/
 date: "2026-07-18T16:19:17.128649Z"
 lastmod: "2026-07-18T17:15:09.456513Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kyky ylläpitää suorituskykyä ja vakautta kohinan, vihollishyökkäysten tai jakaumasiirtymien edessä oleville tekoälymalleille."
 ---
-
 ## Definition
 
 Tekoälyn turvallisuudessa ja etiikassa robustius viittaa mallin kykyyn kestää odottamattomia syötteitä tai haitallisia manipulaatioita. Robusti järjestelmä jatkaa toimintaansa oikein myös silloin, kun syötetiedot sisältävät kohinaa

@@ -1,23 +1,24 @@
 ---
-title: "Гистограмма ориентированных смещений"
-term_id: "histogram_of_oriented_displacements"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "video_analysis", "features"]
+title: Гистограмма ориентированных смещений
+term_id: histogram_of_oriented_displacements
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Video Analysis
+- features
 difficulty: 4
 weight: 1
-slug: "histogram_of_oriented_displacements"
-aliases:
-  - /ru/terms/histogram_of_oriented_displacements/
-date: "2026-07-18T15:57:16.920348Z"
-lastmod: "2026-07-18T16:38:07.165784Z"
+slug: histogram_of_oriented_displacements
+date: '2026-07-18T15:57:16.920348Z'
+lastmod: '2026-07-18T16:38:07.165784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Описатель признака в компьютерном зрении, который захватывает паттерны движения путем анализа гистограмм смещений в видеопоследовательностях."
+source: agnes_llm
+status: published
+language: ru
+description: Описатель признака в компьютерном зрении, который захватывает паттерны
+  движения путем анализа гистограмм смещений в видеопоследовательностях.
 ---
-
 ## Definition
 
 Гистограмма ориентированных смещений (HOD) — это метод извлечения признаков для анализа видео, расширяющий концепцию HOG (гистограммы ориентированных градиентов) на временную размерность. Он вычисляет гистограммы векторов оптического потока внутри пространственных ячеек, позволяя эффективно описывать динамику движения объектов на кадрах видео.

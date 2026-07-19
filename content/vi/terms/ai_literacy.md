@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /vi/terms/ai_literacy/
 date: "2026-07-18T15:38:31.999783Z"
 lastmod: "2026-07-18T16:38:07.720827Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng hiểu, đánh giá và tương tác hiệu quả với các công nghệ trí tuệ nhân tạo cũng như các hệ quả xã hội của chúng."
 ---
-
 ## Definition
 
 Chữ nghĩa AI đề cập đến các năng lực cần thiết để điều hướng một thế giới ngày càng chịu ảnh hưởng bởi trí tuệ nhân tạo. Nó vượt xa kỹ năng lập trình kỹ thuật để bao gồm việc hiểu cách các hệ thống AI hoạt động, nhận thức được các hạn chế của chúng và biết cách sử dụng chúng một cách có đạo đức và hiệu quả.

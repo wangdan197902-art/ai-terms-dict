@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /ro/terms/code/
 date: "2026-07-18T15:34:44.277519Z"
 lastmod: "2026-07-18T17:15:09.612782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În contextul AI, codul se referă la instrucțiunile structurate scrise în limbaje de programare care definesc comportamentul modelului și logica de procesare a datelor."
 ---
-
 ## Definition
 
 Codul reprezintă setul de instrucțiuni scrise în limbaje de programare precum Python, C++ sau JavaScript pe care calculatoarele le execută pentru a îndeplini sarcini specifice. În inteligența artificială, codul este fundamental

@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /it/terms/computational_humor/
 date: "2026-07-18T15:52:16.955300Z"
 lastmod: "2026-07-18T17:15:08.608515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il sottocampo dell'IA focalizzato sulla generazione, comprensione e apprezzamento di contenuti umoristici attraverso metodi computazionali."
 ---
-
 ## Definition
 
 L'umorismo computazionale studia come le macchine possono produrre o interpretare battute, giochi di parole e osservazioni spiritose. Si basa tipicamente sull'elaborazione del linguaggio naturale per rilevare incongruenze, spostamenti semantici o aspettative non soddisfatte che costituiscono la base della comicità.

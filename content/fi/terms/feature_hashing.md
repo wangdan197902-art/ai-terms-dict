@@ -1,23 +1,24 @@
 ---
-title: "Ominaisuushashaus"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Ominaisuushashaus
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /fi/terms/feature_hashing/
-date: "2026-07-18T15:57:49.188629Z"
-lastmod: "2026-07-18T17:15:09.411171Z"
+slug: feature_hashing
+date: '2026-07-18T15:57:49.188629Z'
+lastmod: '2026-07-18T17:15:09.411171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka kartoittaa korkeadimensioiset harvat ominaisuudet kiinteäkokoiseen vektoriin hash-funktion avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka kartoittaa korkeadimensioiset harvat ominaisuudet kiinteäkokoiseen
+  vektoriin hash-funktion avulla.
 ---
-
 ## Definition
 
 Ominaisuushashaus, tunnettu myös nimellä hash-trick, mahdollistaa koneoppimismallien käsitellä suuria, harvoja ominaisuusavaruuksia ilman, että ominaisuuksien ja indeksojen välillä ylläpidetään eksplisiittistä kartoitusta. Soveltamalla

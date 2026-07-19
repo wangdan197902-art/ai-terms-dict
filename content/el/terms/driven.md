@@ -1,23 +1,25 @@
 ---
-title: "Κατευθυνόμενο / Οδηγούμενο"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Κατευθυνόμενο / Οδηγούμενο
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /el/terms/driven/
-date: "2026-07-18T15:24:48.483668Z"
-lastmod: "2026-07-18T17:15:09.842813Z"
+slug: driven
+date: '2026-07-18T15:24:48.483668Z'
+lastmod: '2026-07-18T17:15:09.842813Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο όρος «κατευθυνόμενο» περιγράφει συστήματα ή μεθοδολογίες AI στις οποίες η λήψη αποφάσεων ή η αρχιτεκτονική μοντέλου καθοδηγείται κυρίως από έναν συγκεκριμένο τύπο εισόδου, όπως δεδομένα ή στόχοι."
+source: agnes_llm
+status: published
+language: el
+description: Ο όρος «κατευθυνόμενο» περιγράφει συστήματα ή μεθοδολογίες AI στις οποίες
+  η λήψη αποφάσεων ή η αρχιτεκτονική μοντέλου καθοδηγείται κυρίως από έναν συγκεκριμένο
+  τύπο εισόδου, όπως δεδομένα ή στόχοι.
 ---
-
 ## Definition
 
 Ο όρος «κατευθυνόμενο» χρησιμοποιείται συχνά ως επίθημα για να υποδείξει τη βασική δύναμη ή μηχανισμό πίσω από μια προσέγγιση AI. Για παράδειγμα, το «κατευθυνόμενο από δεδομένα» (data-driven) υποδηλώνει ότι οι αποφάσεις λαμβάνονται βάσει στατιστικών μοτίβων.

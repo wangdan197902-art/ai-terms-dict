@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /ko/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:47:46.193561Z"
 lastmod: "2026-07-18T16:38:06.825901Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "시맨틱 동치성 및 의역 감지를 위해 모델을 훈련하는 데 사용되는 대체 어휘 형태를 포함하는 데이터셋입니다."
 ---
-
 ## Definition
 
 Altlex 데이터셋은 동일한 근본적인 의미를 공유하지만 서로 다른 어휘나 구문 구조를 사용하는 문장 쌍으로 구성됩니다. 주로 임베딩 모델 훈련에 활용됩니다.

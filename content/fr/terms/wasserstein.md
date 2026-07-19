@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /fr/terms/wasserstein/
-date: "2026-07-18T10:56:38.530151Z"
-lastmod: "2026-07-18T11:44:45.176582Z"
+slug: wasserstein
+date: '2026-07-18T10:56:38.530151Z'
+lastmod: '2026-07-18T11:44:45.176582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une métrique mesurant la distance entre des distributions de probabilité basée sur le coût minimum pour transformer l'une en l'autre."
+source: agnes_llm
+status: published
+language: fr
+description: Une métrique mesurant la distance entre des distributions de probabilité
+  basée sur le coût minimum pour transformer l'une en l'autre.
 ---
-
 ## Definition
 
 La distance de Wasserstein, également connue sous le nom de Distance du Transfert Optimal (ou Earth Mover's Distance), quantifie la dissimilarité entre deux distributions de probabilité en calculant le « travail » minimum requis pour déplacer la masse d'une distribution à l'autre.

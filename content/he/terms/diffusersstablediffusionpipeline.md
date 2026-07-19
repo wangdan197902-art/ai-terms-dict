@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: צינור Stable Diffusion"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: צינור Stable Diffusion'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /he/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:54:24.296031Z"
-lastmod: "2026-07-18T17:15:09.534090Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:54:24.296031Z'
+lastmod: '2026-07-18T17:15:09.534090Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "הצינור הסטנדרטי להפעלת Stable Diffusion v1.5, המשתמש ב-U-Net ובמקודדי CLIP ליצירת תמונות מטקסט."
+source: agnes_llm
+status: published
+language: he
+description: הצינור הסטנדרטי להפעלת Stable Diffusion v1.5, המשתמש ב-U-Net ובמקודדי
+  CLIP ליצירת תמונות מטקסט.
 ---
-
 ## Definition
 
 זהו הצינור הבסיסי למודל Stable Diffusion v1.5, המשמש באופן נרחב לסינתזת תמונות כללית מטקסט. הוא מסתמך על מקדם רעש U-Net ומקודד טקסט CLIP כדי למפות הנחיות טקסטואליות לתמונות.

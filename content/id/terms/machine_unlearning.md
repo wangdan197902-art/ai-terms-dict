@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /id/terms/machine_unlearning/
 date: "2026-07-18T15:59:34.770340Z"
 lastmod: "2026-07-18T16:38:07.481175Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penghapusan pembelajaran mesin adalah proses menghapus titik data spesifik atau pengaruhnya dari model yang telah dilatih tanpa melatih ulang model tersebut dari awal."
 ---
-
 ## Definition
 
 Teknik ini mengatasi regulasi privasi seperti 'hak untuk dilupakan' dalam GDPR dengan memungkinkan model melupakan data pengguna tertentu sambil mempertahankan pengetahuan umum. Tujuannya adalah untuk mendekati performa model yang...

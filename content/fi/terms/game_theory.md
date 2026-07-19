@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /fi/terms/game_theory/
 date: "2026-07-18T15:58:52.808703Z"
 lastmod: "2026-07-18T17:15:09.413814Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Rationaalisten päätöksentekijöiden välisen strategisen vuorovaikutuksen matemaattinen tutkimus, jossa lopputulokset riippuvat kaikkien osallistujien toimista."
 ---
-
 ## Definition
 
 Peliteoria on sovelletun matematiikan haara, joka mallintaa rationaalisten agenttien välistä strategista vuorovaikutusta. Se analysoi tilanteita, joissa yhden pelaajan menestys riippuu muiden tekemistä valinnoista. Keskeisiä käsitteitä ovat Nash-tasapaino ja voittomatriisit.

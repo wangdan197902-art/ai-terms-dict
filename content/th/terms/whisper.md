@@ -1,23 +1,23 @@
 ---
-title: "วิสเปอร์ (Whisper)"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: วิสเปอร์ (Whisper)
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /th/terms/whisper/
-date: "2026-07-18T16:20:32.977650Z"
-lastmod: "2026-07-18T16:38:07.667466Z"
+slug: whisper
+date: '2026-07-18T16:20:32.977650Z'
+lastmod: '2026-07-18T16:38:07.667466Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบรู้จำเสียงพูดอัตโนมัติ (ASR) ที่พัฒนาโดย OpenAI และฝึกฝนด้วยชุดข้อมูลเสียงที่หลากหลายขนาดใหญ่"
+source: agnes_llm
+status: published
+language: th
+description: ระบบรู้จำเสียงพูดอัตโนมัติ (ASR) ที่พัฒนาโดย OpenAI และฝึกฝนด้วยชุดข้อมูลเสียงที่หลากหลายขนาดใหญ่
 ---
-
 ## Definition
 
 วิสเปอร์เป็นโมเดลรู้จำเสียงพูดอเนกประสงค์ที่ออกแบบมาเพื่อรองรับภาษา สำเนียง และdialects หลากหลายชนิด มันถูกฝึกฝนด้วยข้อมูลเสียงหลายหมื่นชั่วโมงจากหลายภาษาและงานต่างๆ ทำให้มีความแม่นยำสูงแม้ในสภาพแวดล้อมที่มีเสียงรบกวน

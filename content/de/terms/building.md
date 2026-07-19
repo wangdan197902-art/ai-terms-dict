@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /de/terms/building/
 date: "2026-07-18T10:48:42.243831Z"
 lastmod: "2026-07-18T11:44:44.869982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die praktische Phase der Entwicklung, des Trainings und der Bereitstellung von KI-Modellen und -Systemen vom ersten Entwurf bis zur Produktionsreife."
 ---
-
 ## Definition
 
 Entwicklung bezieht sich auf den End-to-End-Ingenieurprozess der Erstellung von KI-Lösungen, der Datenerfassung, Modellauswahl, Training, Validierung und Bereitstellung umfasst. Er deckt die technische Infrastruktur ab.

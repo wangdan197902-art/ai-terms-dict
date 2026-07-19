@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /de/terms/bench/
 date: "2026-07-18T10:48:29.203227Z"
 lastmod: "2026-07-18T11:44:44.869451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Abkürzung für Benchmark, eine standardisierte Testmenge oder Metrik zur Bewertung der Leistung von KI-Modellen."
 ---
-
 ## Definition
 
 Ein Benchmark dient als standardisierter Referenzpunkt zum Vergleich der Fähigkeiten verschiedener KI-Modelle oder Algorithmen. Er umfasst typischerweise einen kuratierten Datensatz und spezifische Bewertungsmetriken wie Genauigkeit oder Latenzzeit.

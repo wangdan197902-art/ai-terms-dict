@@ -1,23 +1,23 @@
 ---
-title: "Αντι-aliassing με Βαθιά Μάθηση"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: Αντι-aliassing με Βαθιά Μάθηση
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /el/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T16:01:37.127546Z"
-lastmod: "2026-07-18T17:15:09.899468Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T16:01:37.127546Z'
+lastmod: '2026-07-18T17:15:09.899468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Τεχνικές που χρησιμοποιούν νευρωνικά δίκτυα για τη μείωση οπτικών αρτιφανιών, όπως οι οδοντωτές άκρες, σε αποδιδόμενες εικόνες ή μειωμένα χαρακτηριστικά."
+source: agnes_llm
+status: published
+language: el
+description: Τεχνικές που χρησιμοποιούν νευρωνικά δίκτυα για τη μείωση οπτικών αρτιφανιών,
+  όπως οι οδοντωτές άκρες, σε αποδιδόμενες εικόνες ή μειωμένα χαρακτηριστικά.
 ---
-
 ## Definition
 
 Το Αντι-aliassing με Βαθιά Μάθηση αναφέρεται σε μεθόδους που χρησιμοποιούν νευρωνικά δίκτυα για την mitigating αρτιφανιών aliassing, οι οποίες εμφανίζονται όταν υψηλής συχνότητας σήματα δειγματοληπτούνται σε ανεπαρκείς ρυθμούς. Στην υπολογιστική γραφική, αυτό βοηθά στην εξομάλυνση των ακμών και στη βελτίωση της ποιότητας της εικόνας.

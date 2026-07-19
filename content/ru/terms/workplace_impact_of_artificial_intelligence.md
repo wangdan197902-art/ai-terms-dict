@@ -1,23 +1,24 @@
 ---
-title: "Влияние искусственного интеллекта на рабочее место"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: Влияние искусственного интеллекта на рабочее место
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /ru/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T16:20:38.705951Z"
-lastmod: "2026-07-18T16:38:07.214474Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T16:20:38.705951Z'
+lastmod: '2026-07-18T16:38:07.214474Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Влияние технологий ИИ на структуру занятости, должностные роли, производительность и взаимодействие человека и машины в профессиональной среде."
+source: agnes_llm
+status: published
+language: ru
+description: Влияние технологий ИИ на структуру занятости, должностные роли, производительность
+  и взаимодействие человека и машины в профессиональной среде.
 ---
-
 ## Definition
 
 Это понятие охватывает трансформирующее влияние ИИ на рынок труда, включая автоматизацию рутинных задач, создание новых категорий рабочих мест и изменение требуемых навыков. ИИ повышает...

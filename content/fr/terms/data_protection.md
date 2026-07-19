@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /fr/terms/data_protection/
 date: "2026-07-18T10:59:18.607945Z"
 lastmod: "2026-07-18T11:44:45.183275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus de sauvegarde des informations sensibles contre tout accès non autorisé, toute corruption ou tout vol tout au long de leur cycle de vie."
 ---
-
 ## Definition
 
 La Protection des Données englobe les mesures légales, techniques et organisationnelles conçues pour sécuriser les données personnelles et propriétaires contre les violations et les abus. Dans le domaine de l'IA, cela inclut la mise en œuvre du chiffrement, du contrôle d'accès

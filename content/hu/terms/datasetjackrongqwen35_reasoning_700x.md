@@ -1,23 +1,26 @@
 ---
-title: "Adatbázis: Jackrong/Qwen3.5 Reasoning 700X"
-term_id: "datasetjackrongqwen35_reasoning_700x"
-category: "application_paradigms"
-subcategory: ""
-tags: ["reasoning", "fine-tuning", "qwen", "dataset"]
+title: 'Adatbázis: Jackrong/Qwen3.5 Reasoning 700X'
+term_id: datasetjackrongqwen35_reasoning_700x
+category: application_paradigms
+subcategory: ''
+tags:
+- reasoning
+- Fine-Tuning
+- qwen
+- dataset
 difficulty: 4
 weight: 1
-slug: "datasetjackrongqwen35_reasoning_700x"
-aliases:
-  - /hu/terms/datasetjackrongqwen35_reasoning_700x/
-date: "2026-07-18T15:55:03.106215Z"
-lastmod: "2026-07-18T17:15:09.770284Z"
+slug: datasetjackrongqwen35_reasoning_700x
+date: '2026-07-18T15:55:03.106215Z'
+lastmod: '2026-07-18T17:15:09.770284Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy specializált adatbázis, amelyet a Jackrong felhasználó tett közzé a Hugging Face platformon, és amelyet nagy nyelvi modellek (például a Qwen) finomhangolására terveztek a komplex logikai képessége"
+source: agnes_llm
+status: published
+language: hu
+description: Egy specializált adatbázis, amelyet a Jackrong felhasználó tett közzé
+  a Hugging Face platformon, és amelyet nagy nyelvi modellek (például a Qwen) finomhangolására
+  terveztek a komplex logikai képessége
 ---
-
 ## Definition
 
 Ez a bejegyzés egy specifikus adattárolóra utal, amelynek azonosítója 'Jackrong/Qwen3.5 Reasoning 700X'. Általában felügyelt finomhangolás (SFT) vagy megerősítéses tanulás kontextusában használják, hogy javítsa a modellek érvelési és következtetési képességeit.

@@ -1,23 +1,24 @@
 ---
-title: "Комбинирование"
-term_id: "combining"
-category: "basic_concepts"
-subcategory: ""
-tags: ["techniques", "optimization", "architecture"]
+title: Комбинирование
+term_id: combining
+category: basic_concepts
+subcategory: ''
+tags:
+- techniques
+- Optimization
+- architecture
 difficulty: 2
 weight: 1
-slug: "combining"
-aliases:
-  - /ru/terms/combining/
-date: "2026-07-18T15:23:52.001028Z"
-lastmod: "2026-07-18T16:38:07.072177Z"
+slug: combining
+date: '2026-07-18T15:23:52.001028Z'
+lastmod: '2026-07-18T16:38:07.072177Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Комбинирование в ИИ относится к интеграции нескольких моделей, источников данных или методов для улучшения общей производительности и надежности."
+source: agnes_llm
+status: published
+language: ru
+description: Комбинирование в ИИ относится к интеграции нескольких моделей, источников
+  данных или методов для улучшения общей производительности и надежности.
 ---
-
 ## Definition
 
 Это понятие охватывает такие методы, как ансамблевое обучение, где прогнозы нескольких моделей агрегируются для снижения дисперсии или смещения. Оно также включает мультимодальное слияние, где объединяются различные типы данных.

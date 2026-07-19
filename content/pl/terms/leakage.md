@@ -1,23 +1,25 @@
 ---
-title: "Wyciek danych"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Wyciek danych
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /pl/terms/leakage/
-date: "2026-07-18T16:03:37.727754Z"
-lastmod: "2026-07-18T17:15:08.890868Z"
+slug: leakage
+date: '2026-07-18T16:03:37.727754Z'
+lastmod: '2026-07-18T17:15:08.890868Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Wyciek danych występuje, gdy informacje spoza zbioru treningowego nieumyślnie wpływają na model, prowadząc do zaniżonych (zbyt optymistycznych) szacunków jego wydajności."
+source: agnes_llm
+status: published
+language: pl
+description: Wyciek danych występuje, gdy informacje spoza zbioru treningowego nieumyślnie
+  wpływają na model, prowadząc do zaniżonych (zbyt optymistycznych) szacunków jego
+  wydajności.
 ---
-
 ## Definition
 
 Wyciek danych to krytyczny błąd w uczeniu maszynowym, w którym model uzyskuje dostęp do informacji podczas treningu, których nie byłoby możliwe uzyskać w momencie przewidywania. Często dzieje się tak przez niewłaściwe przetwarzanie danych (np. nieodpowiednie dzielenie na zbiory treningowy i testowy lub włączenie zmiennych zależnych od celu predykcji).

@@ -1,23 +1,26 @@
 ---
-title: "Διαφορικά Ιδιωτικός Στοχαστικός Καθοδικός Κλίσης"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Διαφορικά Ιδιωτικός Στοχαστικός Καθοδικός Κλίσης
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /el/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T16:02:41.897514Z"
-lastmod: "2026-07-18T17:15:09.901028Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T16:02:41.897514Z'
+lastmod: '2026-07-18T17:15:09.901028Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας αλγόριθμος βελτιστοποίησης που τροποποιεί τον τυπικό SGD κόβοντας τις κλίσεις και προσθέτοντας θόρυβο για να εξασφαλίσει ότι το εκπαιδευμένο μοντέλο ικανοποιεί τους περιορισμούς διαφορικής ιδιωτι"
+source: agnes_llm
+status: published
+language: el
+description: Ένας αλγόριθμος βελτιστοποίησης που τροποποιεί τον τυπικό SGD κόβοντας
+  τις κλίσεις και προσθέτοντας θόρυβο για να εξασφαλίσει ότι το εκπαιδευμένο μοντέλο
+  ικανοποιεί τους περιορισμούς διαφορικής ιδιωτι
 ---
-
 ## Definition
 
 Το DP-SGD είναι μια παραλλαγή του Στοχαστικού Καθοδικού Κλίσης σχεδιασμένη για την προστασία της ιδιωτικότητας των δεδομένων εκπαίδευσης. Λειτουργεί κόβοντας τη συνεισφορά της κλίσης κάθε δείγματος για τον περιορισμό της ευαισθησίας και στη συνέχεια προσθέτοντας Gaussian θόρυβο.

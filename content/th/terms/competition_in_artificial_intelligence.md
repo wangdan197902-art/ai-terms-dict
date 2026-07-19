@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /th/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:45:49.536317Z"
 lastmod: "2026-07-18T16:38:07.586373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การแข่งขันระหว่างประเทศ บริษัท และสถาบันวิจัยเพื่อความเป็นผู้นำในการพัฒนา นวัตกรรม และการใช้งานปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 การแข่งขันในปัญญาประดิษฐ์อธิบายถึงการแข่งขันระดับโลกอย่างเข้มข้นเพื่อพัฒนาศักยภาพของ AI ซึ่งขับเคลื่อนโดยข้อได้เปรียบทางเศรษฐกิจ การทหาร และวิทยาศาสตร์ ผู้เล่นหลัก ได้แก่ บริษัทเทคโนโลยีขนาดใหญ่เช่น Google

@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /ro/terms/google_colab/
 date: "2026-07-18T16:00:34.401190Z"
 lastmod: "2026-07-18T17:15:09.661121Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un mediu de notebook Jupyter bazat pe cloud care permite utilizatorilor să scrie și să execute cod Python prin intermediul unui browser, oferind acces gratuit la GPU-uri."
 ---
-
 ## Definition
 
 Google Colaboratory, cunoscut comun sub numele de Colab, este un serviciu găzduit de notebook Jupyter care nu necesită configurare și oferă acces gratuit la resurse de calcul, inclusiv procesoare grafice (GPU-uri) și alte hardware-uri accelerate.

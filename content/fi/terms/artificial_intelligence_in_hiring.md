@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /fi/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:43:12.490777Z"
 lastmod: "2026-07-18T17:15:09.384298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälytyökalujen käyttö palkkausprosessien tehostamiseen, mukaan lukien ansioluetteloiden seulonta, ehdokkaiden sovittaminen ja haastatteluanalyysi."
 ---
-
 ## Definition
 
 Tekoäly rekrytoinnissa hyödyntää algoritmeja rekrytointisyklin eri vaiheiden automatisoimiseksi ja tehostamiseksi. Työkalut analysoivat ansioluetteloita avainsanojen perusteella, arvioivat ehdokkaiden sopivuutta ennustavien mallien avulla ja voivat jopa analysoida haastattelujen kieltä ja elekieltä.

@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /hu/terms/visual/
 date: "2026-07-18T15:33:52.822601Z"
 lastmod: "2026-07-18T17:15:09.733445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A látással vagy képi elemekkel kapcsolatos, gyakran a számítógépes látás (computer vision) feladataira utal, amelyek képeket és videókat feldolgoznak és értelmeznek."
 ---
-
 ## Definition
 
 Az AI-ban a 'vizuális' kifejezés elsősorban a Számítógépes Látásra (Computer Vision) utal, arra a területre, amelynek célja, hogy gépeket tegyen képessé értelmes információk kinyerésére digitális képekből, videókból és egyéb vizuális bemenetekből. Ez magában foglalja a képfeldolgozást és az objektumfelismerést.

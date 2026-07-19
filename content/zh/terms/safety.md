@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /zh/terms/safety/
 date: "2026-07-18T10:54:27.024659Z"
 lastmod: "2026-07-18T11:44:45.383776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "研究和实践确保AI系统不造成物理、数字或社会危害的领域。"
 ---
-
 ## Definition
 
 AI安全性是一个多学科领域，专注于防止先进人工智能带来的不良后果。它涵盖了对齐、可解释性和鲁棒性等技术挑战，以及治理框架的开发。

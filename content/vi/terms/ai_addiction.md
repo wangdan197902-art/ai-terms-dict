@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /vi/terms/ai_addiction/
 date: "2026-07-18T15:38:05.038338Z"
 lastmod: "2026-07-18T16:38:07.717217Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự phụ thuộc tâm lý vào việc tương tác với các hệ thống trí tuệ nhân tạo, dẫn đến các hành vi sử dụng cưỡng bức."
 ---
-
 ## Definition
 
 Nghiện AI mô tả một tình trạng hành vi trong đó cá nhân phát triển sự phụ thuộc cưỡng bức vào các tương tác do AI điều khiển, chẳng hạn như bot trò chuyện hoặc thuật toán mạng xã hội. Sự phụ thuộc này thường bắt nguồn từ cơ chế phản hồi dopamine mạnh mẽ mà các hệ thống AI cung cấp.

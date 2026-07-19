@@ -1,23 +1,26 @@
 ---
-title: "Jeu de données : Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: 'Jeu de données : Ms Marco'
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /fr/terms/datasetms_marco/
-date: "2026-07-18T11:12:10.491506Z"
-lastmod: "2026-07-18T11:44:45.236181Z"
+slug: datasetms_marco
+date: '2026-07-18T11:12:10.491506Z'
+lastmod: '2026-07-18T11:44:45.236181Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Jeu de données Microsoft Machine Reading Comprehension, une vaste collection de requêtes de recherche réelles et de passages de documents pertinents utilisée pour entraîner des systèmes de récupératio"
+source: agnes_llm
+status: published
+language: fr
+description: Jeu de données Microsoft Machine Reading Comprehension, une vaste collection
+  de requêtes de recherche réelles et de passages de documents pertinents utilisée
+  pour entraîner des systèmes de récupératio
 ---
-
 ## Definition
 
 MS MARCO (Microsoft Machine Reading Comprehension) est un jeu de données largement utilisé en traitement automatique du langage naturel, en particulier pour la récupération d'information et la réponse aux questions. Il se compose de requêtes de recherche anonymisées...

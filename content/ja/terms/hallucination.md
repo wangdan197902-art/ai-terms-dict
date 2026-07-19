@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /ja/terms/hallucination/
 date: "2026-07-18T07:42:13.833792Z"
 lastmod: "2026-07-18T11:44:44.587028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIモデルが、自信満々に事実誤認または意味不明な情報を生成すること。"
 ---
-
 ## Definition
 
 ハルシネーションは、生成AIモデルが現実やソースデータに基づいていないが、一見もっともらしく見える出力を生み出す現象です。高い精度が求められるアプリケーションにおいて、これは重大な課題となります。

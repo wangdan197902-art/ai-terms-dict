@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /ja/terms/unlike/
 date: "2026-07-18T10:56:06.895457Z"
 lastmod: "2026-07-18T11:44:45.022382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "指定された条件に一致しないレコードをフィルタリングするために、SQLやプログラミングで使用される論理演算子。"
 ---
-
 ## Definition
 
 データベースクエリや論理処理において、「UNLIKE」は通常「NOT LIKE」演算子を指し、パターンマッチングの逆を行います。これは、カラムの値が指定されたパターンに一致しない行に対して真（true）を返します。

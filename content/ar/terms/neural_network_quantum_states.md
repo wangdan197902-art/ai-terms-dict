@@ -1,23 +1,24 @@
 ---
-title: "الحالات الكمية للشبكات العصبية"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: الحالات الكمية للشبكات العصبية
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /ar/terms/neural_network_quantum_states/
-date: "2026-07-18T16:14:24.834752Z"
-lastmod: "2026-07-18T17:15:08.532272Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:14:24.834752Z'
+lastmod: '2026-07-18T17:15:08.532272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تمثيل لدوال الموجة للجسيمات المتعددة في ميكانيكا الكم باستخدام بنية الشبكات العصبية الاصطناعية."
+source: agnes_llm
+status: published
+language: ar
+description: تمثيل لدوال الموجة للجسيمات المتعددة في ميكانيكا الكم باستخدام بنية الشبكات
+  العصبية الاصطناعية.
 ---
-
 ## Definition
 
 تستخدم الحالات الكمية للشبكات العصبية تقنيات التعلم العميق لتقريب دوال الموجة الكمية المعقدة. ومن خلال معاملة أوزان الشبكة العصبية كمعلمات لتحسين سعات الاحتمالية للكيوبتات.

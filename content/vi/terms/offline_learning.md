@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /vi/terms/offline_learning/
 date: "2026-07-18T16:06:04.808973Z"
 lastmod: "2026-07-18T16:38:07.789347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Học ngoại tuyến là một phương pháp huấn luyện trong đó các mô hình được đào tạo trên các tập dữ liệu tĩnh mà không tương tác với môi trường trực tiếp trong giai đoạn học."
 ---
-
 ## Definition
 
 Còn được gọi là học theo lô (batch learning), học ngoại tuyến liên quan đến việc huấn luyện các mô hình học máy trên một tập dữ liệu cố định đã được thu thập trước đó. Khác với học trực tuyến, mô hình không cập nhật các tham số của nó ngay lập tức.

@@ -1,23 +1,25 @@
 ---
-title: "Incitation à exemples limités"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Incitation à exemples limités
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /fr/terms/few_shot_prompting/
-date: "2026-07-18T10:59:45.007370Z"
-lastmod: "2026-07-18T11:44:45.184584Z"
+slug: few_shot_prompting
+date: '2026-07-18T10:59:45.007370Z'
+lastmod: '2026-07-18T11:44:45.184584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'incitation à exemples limités est une technique où les grands modèles de langage (LLM) reçoivent un petit nombre d'exemples entrée-sortie dans l'incitation pour guider leur comportement."
+source: agnes_llm
+status: published
+language: fr
+description: L'incitation à exemples limités est une technique où les grands modèles
+  de langage (LLM) reçoivent un petit nombre d'exemples entrée-sortie dans l'incitation
+  pour guider leur comportement.
 ---
-
 ## Definition
 
 Cette méthode exploite les capacités d'apprentissage contextuel des grands modèles de langage en fournissant quelques exemples illustratifs directement dans l'incitation. Contrairement au réglage fin (fine-tuning), qui nécessite de mettre à jour les poids du modèle, cette approche repose uniquement sur le contexte fourni lors de l'inférence.

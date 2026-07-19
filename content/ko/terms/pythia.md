@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /ko/terms/pythia/
-date: "2026-07-18T16:11:49.463197Z"
-lastmod: "2026-07-18T16:38:06.900541Z"
+slug: pythia
+date: '2026-07-18T16:11:49.463197Z'
+lastmod: '2026-07-18T16:38:06.900541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Pythia는 EleutherAI가 개발한 디코더 전용 대규모 언어 모델(Large Language Models) 스위트(suite)로, 7천만 개에서 120억 개의 파라미터 범위를 가집니다."
+source: agnes_llm
+status: published
+language: ko
+description: Pythia는 EleutherAI가 개발한 디코더 전용 대규모 언어 모델(Large Language Models) 스위트(suite)로,
+  7천만 개에서 120억 개의 파라미터 범위를 가집니다.
 ---
-
 ## Definition
 
 Pythia는 EleutherAI가 만든 오픈소스 대규모 언어 모델(LLM) 시리즈로, 신경망의 해석 가능성과 동작을 연구하는 것을 목표로 합니다. 이 스위트에는 다양한 크기의 모델들이 포함되어 있으며... [원문 불완전]

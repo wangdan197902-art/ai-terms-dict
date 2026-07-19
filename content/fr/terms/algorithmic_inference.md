@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /fr/terms/algorithmic_inference/
 date: "2026-07-18T11:04:13.047665Z"
 lastmod: "2026-07-18T11:44:45.196177Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'inférence algorithmique est le processus par lequel un modèle d'apprentissage automatique entraîné applique des motifs appris à de nouvelles données invisibles pour faire des prédictions ou prendre "
 ---
-
 ## Definition
 
 Aussi connue sous le nom de prédiction ou de notation, l'inférence a lieu après la phase d'entraînement du modèle. L'algorithme prend les caractéristiques d'entrée, les traite via sa structure interne (telles que les poids dans un réseau de neurones) et génère une sortie.

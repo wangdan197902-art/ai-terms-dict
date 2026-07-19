@@ -1,23 +1,23 @@
 ---
-title: "知识库"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: 知识库
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /zh/terms/knowledge_base/
-date: "2026-07-18T11:00:35.785252Z"
-lastmod: "2026-07-18T11:44:45.401750Z"
+slug: knowledge_base
+date: '2026-07-18T11:00:35.785252Z'
+lastmod: '2026-07-18T11:44:45.401750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "用于支持决策制定和检索增强生成（RAG）的AI应用程序中的结构化信息集中存储库。"
+source: agnes_llm
+status: published
+language: zh
+description: 用于支持决策制定和检索增强生成（RAG）的AI应用程序中的结构化信息集中存储库。
 ---
-
 ## Definition
 
 知识库充当数字图书馆，包含经过策划的数据、文档或事实，AI系统可以查询这些信息以提供准确且具备上下文感知的响应。在现代架构（如检索增强生成）中，知识库发挥着核心作用。

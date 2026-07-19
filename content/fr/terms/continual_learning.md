@@ -1,23 +1,24 @@
 ---
-title: "Apprentissage continu"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Apprentissage continu
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /fr/terms/continual_learning/
-date: "2026-07-18T11:10:26.915992Z"
-lastmod: "2026-07-18T11:44:45.211383Z"
+slug: continual_learning
+date: '2026-07-18T11:10:26.915992Z'
+lastmod: '2026-07-18T11:44:45.211383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un paradigme d'apprentissage automatique où les modèles apprennent séquentiellement à partir de nouvelles données sans oublier les connaissances précédentes."
+source: agnes_llm
+status: published
+language: fr
+description: Un paradigme d'apprentissage automatique où les modèles apprennent séquentiellement
+  à partir de nouvelles données sans oublier les connaissances précédentes.
 ---
-
 ## Definition
 
 L'apprentissage continu, également connu sous le nom d'apprentissage tout au long de la vie, permet aux réseaux neuronaux d'acquérir de nouvelles compétences ou informations au fil du temps tout en conservant leurs capacités précédemment apprises. Cela permet de résoudre le problème de l'oubli catastrophique.

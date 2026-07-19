@@ -1,23 +1,23 @@
 ---
-title: "Artificial Inventor Project"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Artificial Inventor Project
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /ja/terms/artificial_inventor_project/
-date: "2026-07-18T11:04:06.213319Z"
-lastmod: "2026-07-18T11:44:45.067829Z"
+slug: artificial_inventor_project
+date: '2026-07-18T11:04:06.213319Z'
+lastmod: '2026-07-18T11:44:45.067829Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "人間の創造的な問題解決や発明プロセスを模倣する計算モデルの開発に焦点を当てた研究イニシアチブ。"
+source: agnes_llm
+status: published
+language: ja
+description: 人間の創造的な問題解決や発明プロセスを模倣する計算モデルの開発に焦点を当てた研究イニシアチブ。
 ---
-
 ## Definition
 
 Artificial Inventor Projectは、人間の創造性や発明の背後にある認知メカニズムを理解し、再現することを目指した学際的な研究取り組みです。これは、AIシステムを構築することを目的としており、

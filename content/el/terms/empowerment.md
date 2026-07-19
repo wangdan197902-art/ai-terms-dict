@@ -1,23 +1,24 @@
 ---
-title: "Εξουσιοδότηση"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Εξουσιοδότηση
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /el/terms/empowerment/
-date: "2026-07-18T16:05:21.211581Z"
-lastmod: "2026-07-18T17:15:09.904997Z"
+slug: empowerment
+date: '2026-07-18T16:05:21.211581Z'
+lastmod: '2026-07-18T17:15:09.904997Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας στόχος ενισχυτικής μάθησης που μετρά την ικανότητα ενός πράκτορα να επηρεάζει τις μελλοντικές καταστάσεις μέσω των ενεργειών του."
+source: agnes_llm
+status: published
+language: el
+description: Ένας στόχος ενισχυτικής μάθησης που μετρά την ικανότητα ενός πράκτορα
+  να επηρεάζει τις μελλοντικές καταστάσεις μέσω των ενεργειών του.
 ---
-
 ## Definition
 
 Στην ενισχυτική μάθηση και την τεχνητή νοημοσύνη, η εξουσιοδότηση είναι ένα μέτρο εγγενούς κινήτρου που ποσοτικοποιεί την ποσότητα ελέγχου που έχει ένας πράκτορας πάνω στο περιβάλλον του. Ορίζεται ως η αμοιβαία

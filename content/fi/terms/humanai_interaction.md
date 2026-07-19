@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /fi/terms/humanai_interaction/
 date: "2026-07-18T16:02:13.514599Z"
 lastmod: "2026-07-18T17:15:09.420023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tiede ja käytäntö siitä, miten ihmiset kommunikoivat, ohjaavat ja tekevät yhteistyötä tekoälyjärjestelmien kanssa."
 ---
-
 ## Definition
 
 Ihmisen ja tekoälyn vuorovaikutus (HAI) on poikkialueellinen tutkimuskenttä, joka tutkii ihmisten ja tekoälyteknologioiden dynamiikkaa. Se keskittyy intuitiivisten rajapintojen, viestintäprotokollien ja yhteistyömekanismien suunnitteluun.

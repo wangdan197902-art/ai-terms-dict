@@ -1,23 +1,24 @@
 ---
-title: "holdt tilbake"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: holdt tilbake
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /no/terms/held_out/
-date: "2026-07-18T15:33:28.799066Z"
-lastmod: "2026-07-18T16:38:06.952268Z"
+slug: held_out
+date: '2026-07-18T15:33:28.799066Z'
+lastmod: '2026-07-18T16:38:06.952268Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Datapunkter reservert fra treningssettet for å evaluere modellens ytelse og hindre overtilpasning under utviklingen."
+source: agnes_llm
+status: published
+language: 'no'
+description: Datapunkter reservert fra treningssettet for å evaluere modellens ytelse
+  og hindre overtilpasning under utviklingen.
 ---
-
 ## Definition
 
 Et «holdt tilbake» datasett består av eksempler som bevisst er ekskludert fra treningsfasen til en maskinlæringsmodell. Dette undersettet brukes til å vurdere hvor godt modellen generaliserer til ukjent data, og gir en upartisk estimat av ytelsen mens modellen fortsatt utvikles.

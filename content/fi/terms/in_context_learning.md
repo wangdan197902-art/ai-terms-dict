@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /fi/terms/in_context_learning/
 date: "2026-07-18T15:22:52.575547Z"
 lastmod: "2026-07-18T17:15:09.345160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekniikka, jossa mallit oppivat suorittamaan tehtäviä havainnoimalla promptissa annettuja esimerkkejä."
 ---
-
 ## Definition
 
 Kontekstipohjainen oppiminen (ICL) mahdollistaa suurten kielimallien mukautumisen uusiin tehtäviin ilman painoarvojen päivitystä. Antamalla syöttö-tulos-parit promptin kontekstiin malli päättelisi kuviota ja pystyy suorittamaan tehtävän välittömästi.

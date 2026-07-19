@@ -1,23 +1,23 @@
 ---
-title: "เพรฟิกซ์ทูนนิ่ง (Prefix Tuning)"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: เพรฟิกซ์ทูนนิ่ง (Prefix Tuning)
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /th/terms/prefix_tuning/
-date: "2026-07-18T16:11:17.860646Z"
-lastmod: "2026-07-18T16:38:07.643421Z"
+slug: prefix_tuning
+date: '2026-07-18T16:11:17.860646Z'
+lastmod: '2026-07-18T16:38:07.643421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการปรับแต่งโมเดลอย่างมีประสิทธิภาพด้านพารามิเตอร์ โดยเพิ่มเวกเตอร์ต่อเนื่องที่ฝึกฝนได้เข้าไปที่อินพุตของเลเยอร์ทรานส์ฟอร์มเมอร์"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการปรับแต่งโมเดลอย่างมีประสิทธิภาพด้านพารามิเตอร์ โดยเพิ่มเวกเตอร์ต่อเนื่องที่ฝึกฝนได้เข้าไปที่อินพุตของเลเยอร์ทรานส์ฟอร์มเมอร์
 ---
-
 ## Definition
 
 เพรฟิกซ์ทูนนิ่งเป็นเทคนิคการปรับตัวที่มีประสิทธิภาพด้านพารามิเตอร์สำหรับโมเดลทรานส์ฟอร์มเมอร์ที่ผ่านการฝึกมาแล้ว แทนที่จะอัปเดตน้ำหนักทั้งหมดของโมเดล วิธีนี้จะเพิ่มลำดับของเวกเตอร์ต่อเนื่องที่ฝึกฝนได้ (เรียกว่า เพรฟิกซ์) ไปข้างหน้าของอินพุตในแต่ละเลเยอร์ของทรานส์ฟอร์มเมอร์ ทำให้สามารถปรับแต่งโมเดลขนาดใหญ่ด้วยพารามิเตอร์จำนวนน้อยมาก โดยคงโครงสร้างหลักของโมเดลไว้คงที่

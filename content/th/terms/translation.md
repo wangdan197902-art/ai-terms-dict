@@ -1,23 +1,24 @@
 ---
-title: "การแปล"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: การแปล
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /th/terms/translation/
-date: "2026-07-18T15:37:57.327704Z"
-lastmod: "2026-07-18T16:38:07.566264Z"
+slug: translation
+date: '2026-07-18T15:37:57.327704Z'
+lastmod: '2026-07-18T16:38:07.566264Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการแปลงข้อความเป็นภาษาธรรมชาติต้นทางให้เป็นภาษาธรรมชาติปลายทาง โดยคงความหมายเดิมไว้"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการแปลงข้อความเป็นภาษาธรรมชาติต้นทางให้เป็นภาษาธรรมชาติปลายทาง
+  โดยคงความหมายเดิมไว้
 ---
-
 ## Definition
 
 การแปลในบริบท AI หมายถึงการแปลเครื่องด้วยโครงข่ายประสาทเทียม (Neural Machine Translation) ซึ่งโมเดลการเรียนรู้เชิงลึกจะแมปการแสดงแทนความหมายระหว่างภาษาต่างๆ ต่างจากระบบที่ใช้กฎเกณฑ์ วิธีการสมัยใหม่เรียนรู้ความแตกต่างเชิงบริบท

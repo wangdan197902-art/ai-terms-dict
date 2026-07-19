@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /de/terms/latency/
 date: "2026-07-18T10:58:44.539812Z"
 lastmod: "2026-07-18T11:44:44.895942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Zeitverzögerung zwischen der Initiierung einer Anfrage und dem Beginn der Antwort in einem KI-System."
 ---
-
 ## Definition
 
 Latenz misst die Reaktionsfähigkeit eines KI-Dienstes, typischerweise ausgedrückt in Millisekunden. Sie umfasst die Inferenzzeit, Netzwerkübertragungsverzögerungen und Verarbeitungsaufwand. Eine niedrige Latenz ist kritisch für Echtzeitanwendungen.

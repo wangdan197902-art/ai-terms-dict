@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /ko/terms/loop/
 date: "2026-07-18T15:26:53.281246Z"
 lastmod: "2026-07-18T16:38:06.778045Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "특정 조건이 충족될 때까지 코드 블록을 여러 번 반복 실행하는 프로그래밍 구조입니다."
 ---
-
 ## Definition
 
 컴퓨터 과학 및 AI 개발의 기본 제어 흐름 구조인 루프는 알고리즘이 데이터셋을 순회하거나 반복 계산을 수행하며, 훈련 에포크(epoch)를 실행할 수 있게 합니다. 일반적인 유형으로는 for 루프와 while 루프가 있습니다.

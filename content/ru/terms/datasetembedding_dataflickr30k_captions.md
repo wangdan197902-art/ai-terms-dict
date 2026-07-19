@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /ru/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:47:55.291129Z"
 lastmod: "2026-07-18T16:38:07.139765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Мультимодальный набор данных, связывающий 31 000 изображений с описаниями, созданными людьми, для обучения кросс-модальных моделей встраивания."
 ---
-
 ## Definition
 
 Набор данных Flickr30K Captions — это широко используемый эталонный набор, состоящий из 31 783 изображений, каждое из которых аннотировано пятью различными английскими предложениями, описывающими визуальное содержание. Он служит фундаментальным ресурсом.

@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /sv/terms/softmax/
-date: "2026-07-18T15:40:47.756338Z"
-lastmod: "2026-07-18T17:15:08.967177Z"
+slug: softmax
+date: '2026-07-18T15:40:47.756338Z'
+lastmod: '2026-07-18T17:15:08.967177Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En matematisk funktion som omvandlar en vektor av godtyckliga reella värden till en sannolikhetsfördelning."
+source: agnes_llm
+status: published
+language: sv
+description: En matematisk funktion som omvandlar en vektor av godtyckliga reella
+  värden till en sannolikhetsfördelning.
 ---
-
 ## Definition
 
 Softmax används flitigt i utgångslaget för neurala nätverk vid uppgifter med flera klasser. Den tar en vektor av råa logiter och normaliserar dem så att varje element representerar en sannolikhet.

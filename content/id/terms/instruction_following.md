@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /id/terms/instruction_following/
 date: "2026-07-18T15:56:08.020487Z"
 lastmod: "2026-07-18T16:38:07.471232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kemampuan model AI untuk menafsirkan dan mengeksekusi perintah atau batasan spesifik dari manusia secara akurat."
 ---
-
 ## Definition
 
 Pengikutan instruksi merujuk pada kemampuan model bahasa besar dan sistem AI lainnya untuk memahami arahan manusia yang bernuansa serta mematuhi batasan eksplisit dalam sebuah prompt. Pergeseran paradigma ini

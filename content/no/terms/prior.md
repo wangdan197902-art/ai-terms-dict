@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /no/terms/prior/
 date: "2026-07-18T15:28:48.526593Z"
 lastmod: "2026-07-18T16:38:06.943823Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Inne i bayesiansk statistikk, en sannsynlighetsfordeling som uttrykker kunnskap eller tro om en parameter før nye bevis eller data observeres."
 ---
-
 ## Definition
 
 En 'prior' representerer eksisterende troer eller historiske data om en variabel før nye observasjoner inkorporeres. I bayesiansk inferens kombineres prioren med sannsynligheten for de observerte dataene (likelihood) for å oppdatere troen til en posterior-fordeling.

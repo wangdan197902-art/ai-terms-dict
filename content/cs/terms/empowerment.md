@@ -1,23 +1,24 @@
 ---
-title: "Empowerment (posílení kontroly)"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Empowerment (posílení kontroly)
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /cs/terms/empowerment/
-date: "2026-07-18T15:55:49.752108Z"
-lastmod: "2026-07-18T17:15:09.126453Z"
+slug: empowerment
+date: '2026-07-18T15:55:49.752108Z'
+lastmod: '2026-07-18T17:15:09.126453Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Cíl v posilovacím učení, který měří schopnost agenta ovlivňovat budoucí stavy prostřednictvím svých akcí."
+source: agnes_llm
+status: published
+language: cs
+description: Cíl v posilovacím učení, který měří schopnost agenta ovlivňovat budoucí
+  stavy prostřednictvím svých akcí.
 ---
-
 ## Definition
 
 V posilovacím učení a umělé inteligenci je empowerment metriku vnitřní motivace, která kvantifikuje míru kontroly, kterou má agent nad svým prostředím. Je definována jako vzájemná informace...

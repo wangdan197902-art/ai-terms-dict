@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /no/terms/given/
 date: "2026-07-18T15:26:38.007984Z"
 lastmod: "2026-07-18T16:38:06.937925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et begrep som betegner eksisterende data, begrensninger eller kontekst som er gitt som input til en algoritme."
 ---
-
 ## Definition
 
 I sammenhenger innen AI og datavitenskap refererer «gitt» til starttilstand, datasett eller parametere som leveres til en modell eller funksjon før beregningen starter. Det fastsetter randbetingelsene for...

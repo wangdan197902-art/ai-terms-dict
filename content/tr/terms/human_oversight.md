@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /tr/terms/human_oversight/
 date: "2026-07-18T15:56:58.383084Z"
 lastmod: "2026-07-18T16:38:07.317723Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Güvenliği, doğruluğu ve etik uyumluluğu sağlamak amacıyla otomatik yapay zeka sistemleri üzerinde insan kontrolü ve incelemesini sürdürme uygulaması."
 ---
-
 ## Definition
 
 İnsan denetimi, insanların yapay zeka destekli kararları veya eylemleri izlediği, değerlendirdiği ve müdahale ettiği mekanizmaları ve süreçleri ifade eder. Bu kavram, otomatik sistemlerin güvenli ve etik standartlara uygun çalışmasını sağlamak için kritik öneme sahiptir.

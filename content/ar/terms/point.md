@@ -1,23 +1,23 @@
 ---
-title: "نقطة"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: نقطة
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /ar/terms/point/
-date: "2026-07-18T15:29:12.224086Z"
-lastmod: "2026-07-18T17:15:08.445188Z"
+slug: point
+date: '2026-07-18T15:29:12.224086Z'
+lastmod: '2026-07-18T17:15:08.445188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "في رياضيات الذكاء الاصطناعي، تمثل النقطة موقعاً محدداً في فضاء متجهي متعدد الأبعاد، وغالباً ما تُستخدم في التضمينات أو أنظمة الإحداثيات."
+source: agnes_llm
+status: published
+language: ar
+description: في رياضيات الذكاء الاصطناعي، تمثل النقطة موقعاً محدداً في فضاء متجهي
+  متعدد الأبعاد، وغالباً ما تُستخدم في التضمينات أو أنظمة الإحداثيات.
 ---
-
 ## Definition
 
 تشير النقطة في سياقات الذكاء الاصطناعي عادةً إلى إحداثي منفصل داخل فضاء الميزات أو المتجه التضميني. على سبيل المثال، في خوارزميات التجميع مثل K-Means، يُعامل كل عينة بيانات كنقطة في...

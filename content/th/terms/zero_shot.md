@@ -1,23 +1,22 @@
 ---
-title: "ซีโรช็อต (Zero-shot)"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: ซีโรช็อต (Zero-shot)
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /th/terms/zero_shot/
-date: "2026-07-18T15:34:27.516624Z"
-lastmod: "2026-07-18T16:38:07.557946Z"
+slug: zero_shot
+date: '2026-07-18T15:34:27.516624Z'
+lastmod: '2026-07-18T16:38:07.557946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ความสามารถในการทำงานกับคลาสที่ยังไม่เคยเห็นมาก่อนโดยไม่มีตัวอย่างการฝึกฝนล่วงหน้า"
+source: agnes_llm
+status: published
+language: th
+description: ความสามารถในการทำงานกับคลาสที่ยังไม่เคยเห็นมาก่อนโดยไม่มีตัวอย่างการฝึกฝนล่วงหน้า
 ---
-
 ## Definition
 
 การเรียนรู้แบบซีโรช็อตช่วยให้โมเดลสามารถสรุปผลไปยังหมวดหมู่หรืองานใหม่ๆ ซึ่งไม่มีข้อมูลฝึกฝนที่มีป้ายกำกับในช่วงการฝึกเริ่มต้น โดยปกติทำได้โดยการอาศัย

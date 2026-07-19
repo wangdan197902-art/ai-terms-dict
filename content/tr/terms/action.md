@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /tr/terms/action/
 date: "2026-07-18T15:23:14.455790Z"
 lastmod: "2026-07-18T16:38:07.226305Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir ajanın çevresini etkilemek için gerçekleştirdiği işlem."
 ---
-
 ## Definition
 
 Yapay zeka ve robotikte eylem, akıllı bir ajanın çevresiyle etkileşim kurmak için attığı belirli bir adım veya aldığı karardır. Eylemler, mevcut duruma göre seçilir.

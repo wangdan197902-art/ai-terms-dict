@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /fi/terms/specifically/
 date: "2026-07-18T15:31:25.815204Z"
 lastmod: "2026-07-18T17:15:09.359958Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa tarkoihin, erottuviin tai erityisiin yksityiskohtiin laajemmassa kontekstissa."
 ---
-
 ## Definition
 
 Tekoälyterminologiassa 'tarkemmin sanottuna' viittaa tarkkuuteen mallien, datapisteen tai operaatioiden määrittelyssä. Se erottaa täsmälliset parametrit yleisistä kategorioista varmistaen selkeyden teknisessä dokumentaatiossa.

@@ -1,23 +1,24 @@
 ---
-title: "Wykrywanie nakładających się głosów"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Wykrywanie nakładających się głosów
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /pl/terms/overlapped_speech_detection/
-date: "2026-07-18T16:10:03.587509Z"
-lastmod: "2026-07-18T17:15:08.904079Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:10:03.587509Z'
+lastmod: '2026-07-18T17:15:08.904079Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces identyfikacji segmentów czasowych, w których dwaj lub więcej mówców mówi jednocześnie w strumieniu audio."
+source: agnes_llm
+status: published
+language: pl
+description: Proces identyfikacji segmentów czasowych, w których dwaj lub więcej mówców
+  mówi jednocześnie w strumieniu audio.
 ---
-
 ## Definition
 
 Wykrywanie nakładających się głosów (OSD) to specjalistyczne zadanie w przetwarzaniu mowy, które wyznacza interwały współistniejących artykulacji. W przeciwieństwie do diarizacji mówcy, która koncentruje się na pytaniu 'kto kiedy mówił', OSD specyf...

@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /sv/terms/automated_machine_learning/
 date: "2026-07-18T15:46:40.284970Z"
 lastmod: "2026-07-18T17:15:08.978567Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En metodik som automatiserar hela processen för att tillämpa maskininlärning på verkliga problem, vilket minskar manuellt arbete."
 ---
-
 ## Definition
 
 AutoML (Automated Machine Learning) effektiviserar utvecklingen av ML-modeller genom att automatisera uppgifter såsom dataförbehandling, funktionsteknik, modellval och hyperparameterjustering. Det möjliggör bredare tillgång till maskininlärning (att automatisera flödet från data till modell).

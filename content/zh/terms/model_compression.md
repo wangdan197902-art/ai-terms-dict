@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /zh/terms/model_compression/
 date: "2026-07-18T11:26:24.857438Z"
 lastmod: "2026-07-18T11:44:45.532806Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "模型压缩是指减少机器学习模型体积和计算需求的技术。"
 ---
-
 ## Definition
 
 该类别包括剪枝、量化和知识蒸馏等方法，旨在缩小模型规模的同时保持性能。这对于部署复杂的人工智能模型至关重要，尤其是在资源受限的环境中。

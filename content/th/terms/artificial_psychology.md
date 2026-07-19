@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /th/terms/artificial_psychology/
 date: "2026-07-18T15:42:39.507014Z"
 lastmod: "2026-07-18T16:38:07.575219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "สาขาวิชาที่ศึกษาการออกแบบระบบปัญญาประดิษฐ์ที่มีสถาปัตยกรรมทางปัญญาซึ่งเลียนแบบกระบวนการทางจิตวิทยาของมนุษย์"
 ---
-
 ## Definition
 
 จิตวิทยาประดิษฐ์ เป็นสหสาขาวิชาที่มุ่งเน้นการออกแบบและนำไปใช้ซึ่งสถาปัตยกรรมทางปัญญาในระบบปัญญาประดิษฐ์ โดย汲取ความรู้จากวิทยาศาสตร์ทางปัญญาและจิตวิทยา เพื่อสร้างแบบจำลองกระบวนการคิดและความรู้สึกของมนุษย์

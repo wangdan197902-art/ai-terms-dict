@@ -1,23 +1,24 @@
 ---
-title: "Inception Score"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Inception Score
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /no/terms/inception_score/
-date: "2026-07-18T16:00:13.451996Z"
-lastmod: "2026-07-18T16:38:07.012194Z"
+slug: inception_score
+date: '2026-07-18T16:00:13.451996Z'
+lastmod: '2026-07-18T16:38:07.012194Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En målverdi som brukes til å evaluere kvaliteten på genererte bilder ved å måle både deres klarhet og mangfold."
+source: agnes_llm
+status: published
+language: 'no'
+description: En målverdi som brukes til å evaluere kvaliteten på genererte bilder
+  ved å måle både deres klarhet og mangfold.
 ---
-
 ## Definition
 
 Inception Score (IS) er en statistisk målverdi introdusert for å vurdere ytelsen til Generative Adversarial Networks (GANs) og andre generative modeller. Den kombinerer to faktorer: bildets kvalitet (klarhet) og mangfoldet i de genererte bildene.

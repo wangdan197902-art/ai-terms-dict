@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Neuroscience", "Terminology"]
 difficulty: 4
 weight: 1
 slug: "wetware"
-aliases:
-  - /es/terms/wetware/
 date: "2026-07-18T11:13:30.650144Z"
 lastmod: "2026-07-18T11:44:44.866080Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Término que se refiere a cerebros biológicos o tejido vivo, a menudo utilizado en contraste con hardware y software en contextos informáticos."
 ---
-
 ## Definition
 
 El término wetware se refería originalmente al tejido cerebral biológico, pero ha evolucionado en la cibernética y el transhumanismo para describir la mente o el cerebro humano como un sistema computacional. Se contrapone al 'hardware' (físico)...

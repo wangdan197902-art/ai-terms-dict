@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /ko/terms/reranking/
 date: "2026-07-18T16:13:33.742976Z"
 lastmod: "2026-07-18T16:38:06.904425Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "초기 coarse ranking을 더 계산 비용이 큰 모델로 정제하여 결과의 관련성을 향상시키는 두 단계 검색 프로세스입니다."
 ---
-
 ## Definition
 
 재랭킹은 정보 검색 및 추천 시스템에서 정확도를 높이기 위해 사용되는 전략입니다. 먼저 빠르지만 정확도가 낮은 모델이 대규모 후보 집합을 검색합니다. 그런 다음 더 느리지만 정교한 모델이 이 후보들을 재순위 매겨 최종 결과를 최적화합니다.

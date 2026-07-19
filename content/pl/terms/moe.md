@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /pl/terms/moe/
 date: "2026-07-18T16:08:01.787854Z"
 lastmod: "2026-07-18T17:15:08.898935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wzorzec architektoniczny, w którym wiele wyspecjalizowanych sieci neuronowych (ekspertów) jest łączone za pomocą mechanizmu bramkującego w celu przetwarzania danych wejściowych."
 ---
-
 ## Definition
 
 Mieszanka Ekspertów (MoE) to architektura uczenia maszynowego zaprojektowana w celu poprawy efektywności i skalowalności. Zamiast używać jednego dużego modelu do wszystkich zadań, MoE wykorzystuje wiele mniejszych 'ekspertów', aktywując tylko te, które są niezbędne dla danego wejścia, co zmniejsza koszty obliczeniowe.

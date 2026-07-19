@@ -1,23 +1,24 @@
 ---
-title: "Çok Görevli Optimizasyon"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Çok Görevli Optimizasyon
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /tr/terms/multitask_optimization/
-date: "2026-07-18T16:05:15.880539Z"
-lastmod: "2026-07-18T16:38:07.338921Z"
+slug: multitask_optimization
+date: '2026-07-18T16:05:15.880539Z'
+lastmod: '2026-07-18T16:38:07.338921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir modelin aynı anda birden fazla ilişkili görevi yerine getirecek şekilde optimize edildiği bir eğitim stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Bir modelin aynı anda birden fazla ilişkili görevi yerine getirecek şekilde
+  optimize edildiği bir eğitim stratejisi.
 ---
-
 ## Definition
 
 Çok görevli optimizasyon, tek bir modelin aynı anda birkaç farklı ancak ilişkili görevi ele almasını sağlayan süreçtir. Görevler arasında ara temsilleri paylaşarak model, daha genelleştirilebilir öğrenme yapabilir ve veri verimliliğini artırır.

@@ -1,23 +1,24 @@
 ---
-title: "göreve özgü"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: göreve özgü
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /tr/terms/task_specific/
-date: "2026-07-18T15:33:03.771523Z"
-lastmod: "2026-07-18T16:38:07.253066Z"
+slug: task_specific
+date: '2026-07-18T15:33:03.771523Z'
+lastmod: '2026-07-18T16:38:07.253066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Göreve özgü modeller, genel amaçlı akıl yürütme yerine tek, iyi tanımlanmış bir işlevi gerçekleştirmek üzere tasarlanmış ve optimize edilmiş yapay zeka sistemleridir."
+source: agnes_llm
+status: published
+language: tr
+description: Göreve özgü modeller, genel amaçlı akıl yürütme yerine tek, iyi tanımlanmış
+  bir işlevi gerçekleştirmek üzere tasarlanmış ve optimize edilmiş yapay zeka sistemleridir.
 ---
-
 ## Definition
 
 Göreve özgü, nesne algılama veya dil çevirme gibi dar bir hedef setinde üstün performans göstermek üzere özelleştirilmiş yapay zeka modellerini veya bileşenlerini ifade eder. Genel amaçlı temel modellerden farklı olarak, bu modeller belirli alanlarda daha yüksek doğruluk ve verimlilik sunar.

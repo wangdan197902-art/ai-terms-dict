@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /pl/terms/schema_agnostic_databases/
 date: "2026-07-18T16:15:48.387835Z"
 lastmod: "2026-07-18T17:15:08.915773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Bazy danych agnostyczne wobec schematu to systemy przechowywania umożliwiające elastyczne struktury danych bez wymogu wstępnie zdefiniowanych schematów, często stosowane w środowiskach NoSQL."
 ---
-
 ## Definition
 
 Bazy te umożliwiają dynamiczne modelowanie danych, nie narzucając sztywnych struktur tabel ani definicji kolumn na etapie wstępnym. Ta elastyczność pozwala programistom na przechowywanie danych nieustrukturyzowanych lub półustrukturyzowanych, co...

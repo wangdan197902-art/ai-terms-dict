@@ -1,23 +1,24 @@
 ---
-title: "שיטת האנטרופיה הצולבת"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: שיטת האנטרופיה הצולבת
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /he/terms/cross_entropy_method/
-date: "2026-07-18T15:50:45.947723Z"
-lastmod: "2026-07-18T17:15:09.524354Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:50:45.947723Z'
+lastmod: '2026-07-18T17:15:09.524354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת אופטימיזציה אקראית המשתמשת בסימולציית מונטה קרלו כדי לשפר באופן איטרטיבי את הערכות ההסתברות לאירועים נדירים."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת אופטימיזציה אקראית המשתמשת בסימולציית מונטה קרלו כדי לשפר באופן
+  איטרטיבי את הערכות ההסתברות לאירועים נדירים.
 ---
-
 ## Definition
 
 שיטת האנטרופיה הצולבת (CEM) היא אלגוריתם אופטימיזציה רב-תכליתי וחזק המשמש לבעיות דיסקרטיות ורציפות כאחד. היא פועלת על ידי שמירה על התפלגות הסתברותית במרחב החיפוש ומעדכנת אותה באופן איטרטיבי כדי להתמקד באזורי הפתרון הטובים ביותר.

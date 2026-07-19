@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /no/terms/robotic_process_automation/
 date: "2026-07-18T16:14:59.588219Z"
 lastmod: "2026-07-18T16:38:07.043619Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av programvareboter for å automatisere digitale oppgaver med høyt volum og repetitiv karakter, tradisjonelt utført av mennesker i forretningsprosesser."
 ---
-
 ## Definition
 
 Robotic Process Automation (RPA) bruker programvareboter, ofte forbedret med AI, for å etterligne menneskelige interaksjoner med digitale systemer. Det brukes til å effektivisere arbeidsflyter som datainnmatning, fakturahåndtering

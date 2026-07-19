@@ -1,23 +1,23 @@
 ---
-title: "เวกเตอร์"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: เวกเตอร์
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /th/terms/vector/
-date: "2026-07-18T15:38:10.059108Z"
-lastmod: "2026-07-18T16:38:07.566649Z"
+slug: vector
+date: '2026-07-18T15:38:10.059108Z'
+lastmod: '2026-07-18T16:38:07.566649Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วัตถุทางคณิตศาสตร์ที่แสดงปริมาณทั้งขนาดและทิศทาง มักใช้ใน AI เพื่อเข้ารหัสจุดข้อมูลในปริภูมิหลายมิติ"
+source: agnes_llm
+status: published
+language: th
+description: วัตถุทางคณิตศาสตร์ที่แสดงปริมาณทั้งขนาดและทิศทาง มักใช้ใน AI เพื่อเข้ารหัสจุดข้อมูลในปริภูมิหลายมิติ
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์ เวกเตอร์เป็นโครงสร้างข้อมูลพื้นฐานที่ใช้แทนข้อมูลในรูปแบบตัวเลข ประกอบด้วยรายการตัวเลขที่มีลำดับ (องค์ประกอบ) ซึ่งแมปคุณลักษณะของสิ่งหนึ่งๆ เข้ากับ

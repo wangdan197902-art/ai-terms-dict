@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /cs/terms/tum/
 date: "2026-07-18T16:21:45.233586Z"
 lastmod: "2026-07-18T17:15:09.208990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "TUM není standardně uznávanou zkratkou v hlavní terminologii umělé inteligence; může se vztahovat ke specifickým institucionálním kontextům, jako je Technická univerzita Mnichov, nebo jít o překlep."
 ---
-
 ## Definition
 
 Neexistuje široce přijatá definice pojmu 'Tum' jako základního konceptu, techniky nebo metriky AI v akademické ani průmyslové literatuře. Je pravděpodobné, že jde o překlep pro termíny jako 'Turingův test' nebo 'Transformerský model'...

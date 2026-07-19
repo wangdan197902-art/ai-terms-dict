@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /id/terms/local_llm/
 date: "2026-07-18T15:58:24.878460Z"
 lastmod: "2026-07-18T16:38:07.478812Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "LLM Lokal merujuk pada menjalankan model bahasa besar pada perangkat keras pribadi daripada layanan cloud, dengan mengutamakan privasi data dan aksesibilitas offline."
 ---
-
 ## Definition
 
 Menjalankan LLM Lokal melibatkan penyebaran model berbobot terbuka secara langsung pada perangkat keras konsumen seperti PC, Mac, atau server lokal. Pendekatan ini menghilangkan ketergantungan pada penyedia API pihak ketiga, memastikan privasi data.

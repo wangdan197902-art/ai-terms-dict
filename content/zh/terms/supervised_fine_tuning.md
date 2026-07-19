@@ -1,23 +1,23 @@
 ---
-title: "监督微调"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: 监督微调
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /zh/terms/supervised_fine_tuning/
-date: "2026-07-18T11:02:04.102309Z"
-lastmod: "2026-07-18T11:44:45.406443Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T11:02:04.102309Z'
+lastmod: '2026-07-18T11:44:45.406443Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在特定数据集上进一步训练预训练模型，使其适应特定任务或领域的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 在特定数据集上进一步训练预训练模型，使其适应特定任务或领域的过程。
 ---
-
 ## Definition
 
 监督微调（SFT）涉及采用大型预训练模型（如语言模型），并在较小的高质量、针对特定下游任务标注的数据集上继续训练该模型。

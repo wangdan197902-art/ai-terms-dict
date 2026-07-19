@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /pt/terms/reliability/
 date: "2026-07-18T15:19:39.994214Z"
 lastmod: "2026-07-18T15:51:59.528716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O grau em que um sistema de IA executa consistentemente suas funções pretendidas corretamente e com segurança sob condições especificadas."
 ---
-
 ## Definition
 
 A confiabilidade na IA refere-se à confiança e consistência do comportamento de um sistema ao longo do tempo e através de diferentes entradas. Um sistema de IA confiável deve produzir resultados precisos, lidar adequadamente com casos extremos e manter seu desempenho estável mesmo diante de variações nos dados de entrada ou no ambiente operacional.

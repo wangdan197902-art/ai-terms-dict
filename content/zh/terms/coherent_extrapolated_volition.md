@@ -1,23 +1,23 @@
 ---
-title: "连贯外推意志"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: 连贯外推意志
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /zh/terms/coherent_extrapolated_volition/
-date: "2026-07-18T11:10:38.522867Z"
-lastmod: "2026-07-18T11:44:45.458419Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T11:10:38.522867Z'
+lastmod: '2026-07-18T11:44:45.458419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种人工智能目标设定，主张系统应根据经过理想化推理后的人类精炼愿望行事。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种人工智能目标设定，主张系统应根据经过理想化推理后的人类精炼愿望行事。
 ---
-
 ## Definition
 
 连贯外推意志（CEV）是由埃利泽·尤德科夫斯基在人工智能安全与对齐背景下提出的概念。它建议先进的人工智能不应仅仅服从当前人类的命令，而应通过理想化的推理过程，外推并实现人类深层的、一致的价值观和愿望。

@@ -1,23 +1,24 @@
 ---
-title: "Separabilità lineare"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Separabilità lineare
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /it/terms/linear_separability/
-date: "2026-07-18T16:08:17.299730Z"
-lastmod: "2026-07-18T17:15:08.643846Z"
+slug: linear_separability
+date: '2026-07-18T16:08:17.299730Z'
+lastmod: '2026-07-18T17:15:08.643846Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La proprietà di un dataset in cui due classi possono essere perfettamente divise da una singola linea retta o iperpiano."
+source: agnes_llm
+status: published
+language: it
+description: La proprietà di un dataset in cui due classi possono essere perfettamente
+  divise da una singola linea retta o iperpiano.
 ---
-
 ## Definition
 
 La separabilità lineare si riferisce alla condizione geometrica in cui i punti dati appartenenti a classi diverse possono essere completamente separati da un confine lineare, come una linea nello spazio 2D o un iperpiano in spazi di dimensione superiore.

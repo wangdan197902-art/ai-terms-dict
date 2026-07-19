@@ -1,23 +1,24 @@
 ---
-title: "Đặc trưng"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Đặc trưng
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /vi/terms/feature/
-date: "2026-07-18T15:52:41.674434Z"
-lastmod: "2026-07-18T16:38:07.756845Z"
+slug: feature
+date: '2026-07-18T15:52:41.674434Z'
+lastmod: '2026-07-18T16:38:07.756845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thuộc tính hoặc đặc điểm có thể đo lường riêng lẻ của hiện tượng đang được quan sát, đóng vai trò là dữ liệu đầu vào cho các mô hình học máy."
+source: agnes_llm
+status: published
+language: vi
+description: Một thuộc tính hoặc đặc điểm có thể đo lường riêng lẻ của hiện tượng
+  đang được quan sát, đóng vai trò là dữ liệu đầu vào cho các mô hình học máy.
 ---
-
 ## Definition
 
 Trong học máy, một đặc trưng là một thuộc tính hoặc biến riêng biệt mô tả một thực thể trong tập dữ liệu. Các đặc trưng có thể là số, phân loại hoặc văn bản, và chúng đóng vai trò là đầu vào cơ bản cho các mô hình dự đoán.

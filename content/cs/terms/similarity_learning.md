@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /cs/terms/similarity_learning/
 date: "2026-07-18T16:17:18.468461Z"
 lastmod: "2026-07-18T17:15:09.200402Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Přístup strojového učení, který se učí metriku vzdálenosti k určení míry podobnosti nebo nepodobnosti dvou objektů."
 ---
-
 ## Definition
 
 Učení podobnosti se zaměřuje na trénování modelů, aby mapovaly vstupy do vektorového prostoru, kde jsou podobné položky blízko u sebe a nepodobné daleko od sebe. Mezi techniky patří sesterské sítě (Siamese networks) nebo ztrátové funkce trojic (triplet loss).

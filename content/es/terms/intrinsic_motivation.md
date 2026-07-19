@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /es/terms/intrinsic_motivation/
 date: "2026-07-18T10:55:13.198150Z"
 lastmod: "2026-07-18T11:44:44.820961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un concepto del aprendizaje por refuerzo donde los agentes persiguen objetivos basándose en la curiosidad interna o la adquisición de conocimientos en lugar de recompensas externas."
 ---
-
 ## Definition
 
 En el aprendizaje por refuerzo, la motivación intrínseca impulsa a un agente a explorar su entorno buscando novedad, reduciendo la incertidumbre o dominando habilidades, independientemente de las recompensas extrínsecas de la tarea. Esto fomenta una exploración más eficiente y robusta en espacios de estado complejos.

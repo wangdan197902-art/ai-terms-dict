@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /ro/terms/hyperparameter/
 date: "2026-07-18T16:03:35.846478Z"
 lastmod: "2026-07-18T17:15:09.666508Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O variabilă de configurare a cărei valoare este stabilită înainte de procesul de antrenament și guvernează comportamentul algoritmului de învățare."
 ---
-
 ## Definition
 
 Spre deosebire de parametrii modelului (greutățile și biasurile) care sunt învățați din date în timpul antrenamentului, hiperparametrii sunt setări externe alese de practician înainte de începerea antrenamentului. Ei controlează structura...

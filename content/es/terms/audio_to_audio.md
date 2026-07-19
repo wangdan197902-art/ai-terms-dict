@@ -1,23 +1,24 @@
 ---
-title: "De audio a audio"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: De audio a audio
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /es/terms/audio_to_audio/
-date: "2026-07-18T10:37:12.472052Z"
-lastmod: "2026-07-18T11:44:44.779143Z"
+slug: audio_to_audio
+date: '2026-07-18T10:37:12.472052Z'
+lastmod: '2026-07-18T11:44:44.779143Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una tarea de IA generativa donde el audio de entrada se transforma en audio de salida preservando o alterando características específicas."
+source: agnes_llm
+status: published
+language: es
+description: Una tarea de IA generativa donde el audio de entrada se transforma en
+  audio de salida preservando o alterando características específicas.
 ---
-
 ## Definition
 
 El proceso de audio a audio se refiere a arquitecturas de redes neuronales diseñadas para mapear una señal de audio a otra. A diferencia de la síntesis de voz a partir de texto, esto implica una transformación directa de la forma de onda o del espectrograma. Las aplicaciones incluyen

@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /id/terms/wasserstein/
-date: "2026-07-18T15:31:17.171829Z"
-lastmod: "2026-07-18T16:38:07.406955Z"
+slug: wasserstein
+date: '2026-07-18T15:31:17.171829Z'
+lastmod: '2026-07-18T16:38:07.406955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah metrik yang mengukur jarak antara distribusi probabilitas berdasarkan biaya minimum untuk mengubah satu distribusi menjadi distribusi lainnya."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah metrik yang mengukur jarak antara distribusi probabilitas berdasarkan
+  biaya minimum untuk mengubah satu distribusi menjadi distribusi lainnya.
 ---
-
 ## Definition
 
 Jarak Wasserstein, juga dikenal sebagai Jarak Penggerak Bumi (Earth Mover's Distance), mengkuantifikasi ketidakmiripan antara dua distribusi probabilitas dengan menghitung 'pekerjaan' minimum yang diperlukan untuk memindahkan massa dari satu distribusi ke distribusi lainnya.

@@ -1,23 +1,24 @@
 ---
-title: "Potrivirea probabilităților"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Potrivirea probabilităților
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /ro/terms/probability_matching/
-date: "2026-07-18T16:17:02.656069Z"
-lastmod: "2026-07-18T17:15:09.693539Z"
+slug: probability_matching
+date: '2026-07-18T16:17:02.656069Z'
+lastmod: '2026-07-18T17:15:09.693539Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O strategie de luare a deciziilor în care un agent selectează acțiuni cu frecvențe proporționale cu probabilitățile lor estimate."
+source: agnes_llm
+status: published
+language: ro
+description: O strategie de luare a deciziilor în care un agent selectează acțiuni
+  cu frecvențe proporționale cu probabilitățile lor estimate.
 ---
-
 ## Definition
 
 Potrivirea probabilităților este un model comportamental observat frecvent în învățarea prin reforțare și psihologie, contrastând cu strategiile optime de 'maximizare'. În loc să aleagă întotdeauna acțiunea cu cea mai mare probabilitate, agentul distribuie selecțiile conform distribuției de probabilitate estimată.

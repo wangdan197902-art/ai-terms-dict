@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /no/terms/datasetnatural_questions/
 date: "2026-07-18T15:49:55.927334Z"
 lastmod: "2026-07-18T16:38:06.990260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et stort datasett for spørsmålsbesvarelse i åpent domene, med virkelige brukerforespørsler fra Google Search parret med annoterte Wikipedia-utdrag som svar."
 ---
-
 ## Definition
 
 Natural Questions (NQ) er et benkmrkdatasett introdusert av Google for å fremme forskning innen spørsmålsbesvarelse i åpent domene. Det kartlegger virkelige, anonymiserte søkeforespørsler fra Google til langformat-svar funnet i Wikipedia.

@@ -1,23 +1,24 @@
 ---
-title: "Chaîne de Pensée"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Chaîne de Pensée
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /fr/terms/chain_of_thought/
-date: "2026-07-18T07:42:40.398281Z"
-lastmod: "2026-07-18T11:44:44.588476Z"
+slug: chain_of_thought
+date: '2026-07-18T07:42:40.398281Z'
+lastmod: '2026-07-18T11:44:44.588476Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'incitation qui encourage les grands modèles de langage à générer des étapes de raisonnement intermédiaires avant de répondre."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'incitation qui encourage les grands modèles de langage
+  à générer des étapes de raisonnement intermédiaires avant de répondre.
 ---
-
 ## Definition
 
 L'incitation par chaîne de pensée (CoT) est une stratégie où les grands modèles de langage sont guidés pour produire des explications de raisonnement étape par étape avant d'aboutir à une réponse finale. En décomposant des problèmes complexes

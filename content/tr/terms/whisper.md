@@ -1,23 +1,24 @@
 ---
-title: "Whisper"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: Whisper
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /tr/terms/whisper/
-date: "2026-07-18T16:21:27.805176Z"
-lastmod: "2026-07-18T16:38:07.377808Z"
+slug: whisper
+date: '2026-07-18T16:21:27.805176Z'
+lastmod: '2026-07-18T16:38:07.377808Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Çeşitli ses verileri üzerinde eğitilmiş, OpenAI tarafından geliştirilen otomatik konuşma tanıma (ASR) sistemi."
+source: agnes_llm
+status: published
+language: tr
+description: Çeşitli ses verileri üzerinde eğitilmiş, OpenAI tarafından geliştirilen
+  otomatik konuşma tanıma (ASR) sistemi.
 ---
-
 ## Definition
 
 Whisper, çeşitli dilleri, lehçeleri ve aksanları işleyebilmek üzere tasarlanmış genel amaçlı bir konuşma tanıma modelidir. Çok dilli ve çok görevli gözetimli verilerden oluşan yüz binlerce saatlik veri seti üzerinde eğitilmiştir. Gürültülü ortamlarda bile yüksek doğruluk sağlar ve metne çevirme, dil algılama ve altyazı oluşturma gibi görevlerde etkili sonuçlar verir.

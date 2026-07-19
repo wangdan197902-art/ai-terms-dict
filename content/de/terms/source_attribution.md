@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /de/terms/source_attribution/
 date: "2026-07-18T11:33:57.106685Z"
 lastmod: "2026-07-18T11:44:44.986792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Identifizierung und Nennung der ursprünglichen Ersteller oder Datensätze, die zur Generierung spezifischer Inhalte oder Erkenntnisse verwendet wurden."
 ---
-
 ## Definition
 
 Die Quellenzuordnung bezeichnet das systematische Verfolgen und Kennzeichnen der Ursprünge von Daten, Modellen oder generierten Ausgaben innerhalb von KI-Systemen. Sie gewährleistet Transparenz, indem sie Endergebnisse mit ihren ursprünglichen Quellen verknüpft.

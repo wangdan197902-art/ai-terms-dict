@@ -1,23 +1,24 @@
 ---
-title: "Korelasyon Ömrü"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Korelasyon Ömrü
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /tr/terms/life_time_of_correlation/
-date: "2026-07-18T16:00:49.800281Z"
-lastmod: "2026-07-18T16:38:07.327541Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:00:49.800281Z'
+lastmod: '2026-07-18T16:38:07.327541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "İstatistiksel bir ilişkinin, kavram kayması veya çevresel değişiklikler nedeniyle azalmadan önce ne kadar süreyle stabil kaldığını tahmin eden bir metrik."
+source: agnes_llm
+status: published
+language: tr
+description: İstatistiksel bir ilişkinin, kavram kayması veya çevresel değişiklikler
+  nedeniyle azalmadan önce ne kadar süreyle stabil kaldığını tahmin eden bir metrik.
 ---
-
 ## Definition
 
 Dinamik sistemlerde ve zaman serisi analizinde, korelasyon ömrü iki değişkenin anlamlı bir istatistiksel bağımlılığı koruduğu süreyi ölçer. Bu kavram, dinamik ortamlarda modellerin güvenilirliğini anlamak için kritiktir.

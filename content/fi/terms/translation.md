@@ -1,23 +1,24 @@
 ---
-title: "Käännös"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Käännös
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /fi/terms/translation/
-date: "2026-07-18T15:38:41.602842Z"
-lastmod: "2026-07-18T17:15:09.376039Z"
+slug: translation
+date: '2026-07-18T15:38:41.602842Z'
+lastmod: '2026-07-18T17:15:09.376039Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa teksti muutetaan lähteen luonnollisesta kielestä kohdekielelle säilyttäen merkitys."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa teksti muutetaan lähteen luonnollisesta kielestä kohdekielelle
+  säilyttäen merkitys.
 ---
-
 ## Definition
 
 Tekoälyn käännös viittaa neuronaaliseen konekäännökseen, jossa syvät oppimismallit kartoittavat semanttisia esityksiä kielten välillä. Toisin kuin sääntöpohjaiset järjestelmät, nykyaikaiset lähestymistavat oppivat kontekstuaalisia vivahteita

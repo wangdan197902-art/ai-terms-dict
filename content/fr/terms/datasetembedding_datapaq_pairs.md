@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /fr/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T11:11:47.240659Z"
 lastmod: "2026-07-18T11:44:45.224961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données à grande échelle de paires question-réponse extraites de Wikipédia, conçu pour l'entraînement de la récupération de passages denses."
 ---
-
 ## Definition
 
 Le jeu de données PAQ (Pseudo-Answer Quality) contient des millions de paires question-réponse générées automatiquement à partir de Wikipédia. Il est spécifiquement conçu pour entraîner les récupérateurs denses en fournissant...

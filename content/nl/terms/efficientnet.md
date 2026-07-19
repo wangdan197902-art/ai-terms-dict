@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /nl/terms/efficientnet/
-date: "2026-07-18T15:53:53.249379Z"
-lastmod: "2026-07-18T17:15:08.740887Z"
+slug: efficientnet
+date: '2026-07-18T15:53:53.249379Z'
+lastmod: '2026-07-18T17:15:08.740887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "EfficientNet is een familie van convolutionele neurale netwerkarchitecturen die diepte, breedte en resolutie uniform schalen om een hogere nauwkeurigheid te bereiken met minder parameters."
+source: agnes_llm
+status: published
+language: nl
+description: EfficientNet is een familie van convolutionele neurale netwerkarchitecturen
+  die diepte, breedte en resolutie uniform schalen om een hogere nauwkeurigheid te
+  bereiken met minder parameters.
 ---
-
 ## Definition
 
 Ontwikkeld door Google, gebruikt EfficientNet een methode voor 'compound scaling' om de netwerkdiepte, -breedte en de resolutie van de invoerbeeld te balanceren. Deze aanpak stelt het model in staat state-of-the-art nauwkeurigheid te bereiken terwijl het efficiënter is in gebruik van rekencapaciteit.

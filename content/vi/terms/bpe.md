@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /vi/terms/bpe/
 date: "2026-07-18T15:34:03.793631Z"
 lastmod: "2026-07-18T16:38:07.706799Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mã hóa Cặp Byte (BPE) là một thuật toán dùng cho việc phân đoạn từ con (subword tokenization), hoạt động bằng cách lặp lại việc hợp nhất các cặp ký tự xuất hiện thường xuyên nhất để xây dựng từ vựng."
 ---
-
 ## Definition
 
 Mã hóa Cặp Byte (BPE) là một kỹ thuật nén dữ liệu được điều chỉnh cho xử lý ngôn ngữ tự nhiên nhằm xử lý các từ nằm ngoài từ vựng (out-of-vocabulary). Nó bắt đầu với một từ vựng gồm các ký tự đơn lẻ và lặp lại quá trình hợp nhất các cặp ký tự phổ biến nhất.

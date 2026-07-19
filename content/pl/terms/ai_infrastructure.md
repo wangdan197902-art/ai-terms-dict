@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /pl/terms/ai_infrastructure/
 date: "2026-07-18T15:38:17.026830Z"
 lastmod: "2026-07-18T17:15:08.840190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zasoby sprzętowe, oprogramowanie i sieciowe niezbędne do rozwijania, trenowania i wdrażania modeli sztucznej inteligencji na dużą skalę."
 ---
-
 ## Definition
 
 Infrastruktura AI obejmuje podstawowy stos technologiczny konieczny do działania sztucznej inteligencji. Wskazuje ona na wysokowydajny sprzęt obliczeniowy, taki jak GPU i TPU, chmurowe magazyny danych oraz sieci o wysokiej przepustowości, które umożliwiają efektywne przetwarzanie ogromnych zbiorów danych i trenowanie złożonych modeli.

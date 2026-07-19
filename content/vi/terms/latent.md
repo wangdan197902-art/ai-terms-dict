@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /vi/terms/latent/
 date: "2026-07-18T15:26:37.915765Z"
 lastmod: "2026-07-18T16:38:07.688642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các biến hoặc biểu diễn ẩn, nằm sâu bên trong không gian nội tại của mô hình, nắm bắt các đặc điểm cốt lõi của dữ liệu."
 ---
-
 ## Definition
 
 Trong học máy, các biến ẩn là những yếu tố chưa quan sát được ảnh hưởng đến dữ liệu quan sát được. Trong các mạng nơ-ron, đặc biệt là autoencoder và mô hình khuếch tán, không gian ẩn đại diện cho dữ liệu đã được nén và trừu tượng hóa

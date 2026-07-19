@@ -1,23 +1,25 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /el/terms/ltx_video/
-date: "2026-07-18T16:19:13.878853Z"
-lastmod: "2026-07-18T17:15:09.928224Z"
+slug: ltx_video
+date: '2026-07-18T16:19:13.878853Z'
+lastmod: '2026-07-18T17:15:09.928224Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα μοντέλο διάχυσης κρυφής κατάστασης (latent diffusion) βελτιστοποιημένο ειδικά για τη δημιουργία βίντεο υψηλής πιστότητας και χρονικής συνέπειας από προτροπές κειμένου ή εικόνας."
+source: agnes_llm
+status: published
+language: el
+description: Ένα μοντέλο διάχυσης κρυφής κατάστασης (latent diffusion) βελτιστοποιημένο
+  ειδικά για τη δημιουργία βίντεο υψηλής πιστότητας και χρονικής συνέπειας από προτροπές
+  κειμένου ή εικόνας.
 ---
-
 ## Definition
 
 Το Ltx Video αντιπροσωπεύει μια εξέλιξη στη γεννητική ΤΝ για βίντεο, χρησιμοποιώντας διαδικασίες διάχυσης στον κρυφό χώρο για τη δημιουργία συνεκτικής κίνησης και οπτικών λεπτομερειών. Αντιμετωπίζει τις κοινές προκλήσεις στη δημιουργία βίντεο, όπως η αστάθεια των πλαισίων και η έλλειψη φυσικής ρευστότητας, παρέχοντας υψηλής ποιότητας οπτικό περιεχόμενο.

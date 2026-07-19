@@ -1,23 +1,24 @@
 ---
-title: "Qloo"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: Qloo
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /no/terms/qloo/
-date: "2026-07-18T16:13:33.648420Z"
-lastmod: "2026-07-18T16:38:07.037927Z"
+slug: qloo
+date: '2026-07-18T16:13:33.648420Z'
+lastmod: '2026-07-18T16:38:07.037927Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Qloo er en AI-drevet dataplattform som gir prediktive innsikter i forbrukeratferd og kulturelle trender."
+source: agnes_llm
+status: published
+language: 'no'
+description: Qloo er en AI-drevet dataplattform som gir prediktive innsikter i forbrukeratferd
+  og kulturelle trender.
 ---
-
 ## Definition
 
 Qloo opererer som et datainformasjonsselskap som spesialiserer seg på å forstå menneskelige preferanser gjennom avanserte maskinlæringsalgoritmer. Den samler inn og analyserer store datasett fra ulike kilder.

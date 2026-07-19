@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /ja/terms/document_classification/
 date: "2026-07-18T11:12:52.607835Z"
 lastmod: "2026-07-18T11:44:45.092687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "コンテンツに基づいて、テキスト文書を事前に定義されたグループに分類するプロセス。"
 ---
-
 ## Definition
 
 文書分類は、アルゴリズムが非構造化テキストデータにラベルを割り当てる基本的な自然言語処理タスクです。これには、文書から特徴量を抽出し、それらを特定のクラスにマッピングすることが含まれます。

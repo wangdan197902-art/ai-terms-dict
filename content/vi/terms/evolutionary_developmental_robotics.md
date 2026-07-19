@@ -1,23 +1,24 @@
 ---
-title: "Robotics phát triển tiến hóa"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: Robotics phát triển tiến hóa
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /vi/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:52:13.619311Z"
-lastmod: "2026-07-18T16:38:07.755201Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:52:13.619311Z'
+lastmod: '2026-07-18T16:38:07.755201Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nhánh phụ của robotics kết hợp các thuật toán tiến hóa với các quá trình phát triển để thiết kế hình thái và hệ thống điều khiển cho robot."
+source: agnes_llm
+status: published
+language: vi
+description: Một nhánh phụ của robotics kết hợp các thuật toán tiến hóa với các quá
+  trình phát triển để thiết kế hình thái và hệ thống điều khiển cho robot.
 ---
-
 ## Definition
 
 Lấy cảm hứng từ quá trình phát sinh cá thể trong sinh học, Robotics phát triển tiến hóa (ED-Robotics) khám phá cách các hành vi phức tạp và cấu trúc vật lý xuất hiện theo thời gian thông qua tương tác với môi trường, thay vì được lập trình cứng. Nó sử dụng các phương pháp tiến hóa để tối ưu hóa cả phần cứng và phần mềm của robot.

@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /vi/terms/nouvelle_ai/
 date: "2026-07-18T16:05:47.143653Z"
 lastmod: "2026-07-18T16:38:07.788534Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp tiếp cận AI biểu tượng (symbolic AI) nhấn mạnh các cấu trúc suy luận phân cấp và mô-đun, lấy cảm hứng từ kiến trúc nhận thức của con người."
 ---
-
 ## Definition
 
 Nouvelle AI đề cập đến một lớp hệ thống trí tuệ nhân tạo sử dụng các đại diện biểu tượng kết hợp với xử lý phân cấp. Khác với các mô hình liên kết (connectionist), nó tập trung vào việc tái cấu trúc có tổ chức

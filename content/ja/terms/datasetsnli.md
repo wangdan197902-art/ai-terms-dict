@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /ja/terms/datasetsnli/
 date: "2026-07-18T11:10:57.024912Z"
 lastmod: "2026-07-18T11:44:45.087096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Stanford Natural Language Inference Corpus（SNLI）は、英語の文ペアと、人間が記述したテキストの含意ラベルを備えた大規模データセットです。"
 ---
-
 ## Definition
 
 SNLIは、50万件以上のラベル付き文ペアを含むベンチマークデータセットで、「含意（entailment）」「矛盾（contradiction）」「中立（neutral）」の3つのクラスで注釈が付けられています。これは自然言語推論の研究を推進するために作成されました。

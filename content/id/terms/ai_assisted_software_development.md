@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /id/terms/ai_assisted_software_development/
 date: "2026-07-18T15:37:36.733642Z"
 lastmod: "2026-07-18T16:38:07.424120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penggunaan alat AI untuk meningkatkan produktivitas dalam proses pengkodean, penelusuran bug, pengujian, dan desain."
 ---
-
 ## Definition
 
 Pengembangan perangkat lunak yang dibantu AI melibatkan pemanfaatan model pembelajaran mesin untuk mendukung pengembang dalam menulis kode, mengidentifikasi bug, menghasilkan pengujian, dan mengoptimalkan kinerja. Alat-alat seperti GitHub Copilot menjadi contoh utamanya.

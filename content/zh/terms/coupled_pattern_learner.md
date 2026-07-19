@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /zh/terms/coupled_pattern_learner/
 date: "2026-07-18T11:11:39.245538Z"
 lastmod: "2026-07-18T11:44:45.468736Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种算法方法，同时学习两个不同但相关的模式或特征集之间的关系。"
 ---
-
 ## Definition
 
 耦合模式学习者旨在处理来自两个不同空间且相互关联的数据实例，例如图像及其文本描述。通过建模联合分布或相关性...

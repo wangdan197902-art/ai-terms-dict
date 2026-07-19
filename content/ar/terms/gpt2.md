@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /ar/terms/gpt2/
 date: "2026-07-18T16:00:04.958421Z"
 lastmod: "2026-07-18T17:15:08.509423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "GPT-2 هو نموذج لغوي ضخم يعتمد على معمارية المحوّل (Transformer)، طورته شركة OpenAI لتوليد النصوص وفهمها."
 ---
-
 ## Definition
 
 النموذج التوليدي المسبق ذو البنية المحوّلة الإصدار الثاني (GPT-2) هو نموذج لغوي ذاتي الانحدار (autoregressive) يستخدم بنية المحوّل لتوليد نص يشبه لغة البشر. تم تدريبه على مجموعة بيانات ضخمة من نصوص الإنترنت.

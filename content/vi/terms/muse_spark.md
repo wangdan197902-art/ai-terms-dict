@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /vi/terms/muse_spark/
 date: "2026-07-18T16:05:00.743896Z"
 lastmod: "2026-07-18T16:38:07.786387Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung học sâu phân tán được xây dựng trên Apache Spark, cho phép huấn luyện mô hình có thể mở rộng trên các cụm máy tính lớn."
 ---
-
 ## Definition
 
 Muse Spark là một khung học sâu mã nguồn mở, được thiết kế để chạy hiệu quả trên nền tảng Apache Spark. Nó cho phép các nhà phát triển huấn luyện các mạng nơ-ron phức tạp trên các cụm phân tán bằng cách tận dụng...

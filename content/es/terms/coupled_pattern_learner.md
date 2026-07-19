@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /es/terms/coupled_pattern_learner/
 date: "2026-07-18T10:41:13.284582Z"
 lastmod: "2026-07-18T11:44:44.790250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un enfoque algorítmico que aprende relaciones entre dos conjuntos distintos pero correlacionados de patrones o características simultáneamente."
 ---
-
 ## Definition
 
 Los aprendices de patrones acoplados están diseñados para manejar datos donde las instancias de dos espacios diferentes están vinculadas, como imágenes y sus descripciones textuales. Al modelar la distribución conjunta o la correlación...

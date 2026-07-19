@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /de/terms/knowledge_level/
 date: "2026-07-18T11:20:39.621464Z"
 lastmod: "2026-07-18T11:44:44.955330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine abstrakte Entwurfs Perspektive, die sich darauf konzentriert, was ein Agent weiß, anstatt wie er Informationen intern verarbeitet."
 ---
-
 ## Definition
 
 Der Begriff wurde von Allen Newell geprägt. Die Wissensebene analysiert intelligente Systeme basierend auf ihren Überzeugungen und Zielen, unabhängig von ihrer physischen Implementierung. Sie trennt die Rationalität der Handlungen eines Agents von seiner konkreten Realisierung.

@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /fi/terms/grok/
 date: "2026-07-18T16:00:28.280975Z"
 lastmod: "2026-07-18T17:15:09.417162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "xAI:n kehittämä tekoälykeskusteluohjelma, joka on integroitu X-alustalle ja joka tunnetaan reaaliaikaisesta pääsystä sosiaalisen median dataan ja vitsikkäästä persoonallisuudestaan."
 ---
-
 ## Definition
 
 Grok on suuri kielimalliin perustuva keskusteluohjelma, jonka on luonut Elon Muskin yritys xAI. Se on ensisijaisesti saatavilla X-alustan (entinen Twitter) tilaajille. Grok erottuu joukosta sillä, että sillä on reaaliaikainen pääsy X-alustan dataan, mikä mahdollistaa ajantasaisen tiedon hankkimisen ja vastaa kysymyksiin nykytilanteesta. Malli on tunnettu myös sen leikkisästä ja joskus provosoivasta persoonallisuudesta.

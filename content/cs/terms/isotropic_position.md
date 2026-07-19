@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /cs/terms/isotropic_position/
 date: "2026-07-18T16:03:47.666808Z"
 lastmod: "2026-07-18T17:15:09.143948Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Geometrická transformace konvexního tělesa, kde je jeho setrvačníková matice úměrná identitě, což zjednodušuje analýzu."
 ---
-
 ## Definition
 
 V konvexní geometrii a pravděpodobnosti ve vysokých dimenzích je sada bodů nebo konvexní těleso v izotropní poloze, pokud je její těžiště v počátku a kovarianční matice je skalárnásobkem jednotkové matice. Tato normalizace usnadňuje teoretickou analýzu vlastností těles v mnohadimenzionálních prostorech.

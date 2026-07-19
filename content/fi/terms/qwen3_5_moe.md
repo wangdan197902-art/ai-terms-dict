@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /fi/terms/qwen3_5_moe/
 date: "2026-07-18T16:18:10.212116Z"
 lastmod: "2026-07-18T17:15:09.450781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Hypoteettinen tai tuleva harva asiantuntijayhdistelmäversio (sparse mixture-of-experts) Qwen3-sarjasta, joka on suunniteltu korkean tehokkuuden saavuttamiseksi."
 ---
-
 ## Definition
 
 Tämä termi viittaa erikoistuneeseen arkkitehtuuriin Qwen-perheessä, joka todennäköisesti hyödyntää asiantuntijayhdistelmää (Mixture of Experts, MoE). Tällaisissa malleissa vain osa neuroverkon parametreista (asiantuntijat) aktivoituu.

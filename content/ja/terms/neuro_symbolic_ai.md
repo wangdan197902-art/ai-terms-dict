@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /ja/terms/neuro_symbolic_ai/
 date: "2026-07-18T11:25:33.313990Z"
 lastmod: "2026-07-18T11:44:45.126755Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ニューラルネットワークの学習能力と、記号推論の論理性及び透明性を組み合わせるAIアプローチ。"
 ---
-
 ## Definition
 
 神経記号型AIは、サブシンボリックなニューラル学習手法と、記号的論理に基づく推論システムを統合します。このハイブリッドアプローチは、純粋なディープラーニングが抱える限界（例えば説明可能性の欠如など）を克服することを目指しています。

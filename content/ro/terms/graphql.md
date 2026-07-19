@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /ro/terms/graphql/
 date: "2026-07-18T16:00:47.210458Z"
 lastmod: "2026-07-18T17:15:09.662368Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "GraphQL este un limbaj de interogare pentru API-uri și un runtime pentru îndeplinirea acestora cu date existente, permițând clienților să solicite exact ceea ce au nevoie."
 ---
-
 ## Definition
 
 Dezvoltat de Facebook, GraphQL oferă o descriere completă și comprehensibilă a datelor din API-ul dvs., oferind clienților puterea de a cere exact ceea ce au nevoie și nimic mai mult. Înlocuiește multiplele...

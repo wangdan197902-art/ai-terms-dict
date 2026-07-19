@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /ja/terms/computational_humor/
 date: "2026-07-18T11:08:26.051587Z"
 lastmod: "2026-07-18T11:44:45.079066Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "計算的手法を通じてユーモラスなコンテンツの生成、理解、鑑賞に焦点を当てたAIのサブフィールド。"
 ---
-
 ## Definition
 
 計算ユーモアは、機械がジョーク、駄洒落、皮肉を理解したり生成したりする方法を研究します。通常、不整合、意味の変化、または予期せぬ（結末を検出するために自然言語処理に依存します）。

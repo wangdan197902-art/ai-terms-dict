@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /he/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:52:18.527000Z"
 lastmod: "2026-07-18T17:15:09.529122Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים נישה המכילה ככל הנראה פרומפטים אדוורסריאליים, באיכות נמוכה או מעוותים במכוון, המשמשים לבדיקת חוסן המודל או סינון קלט רועש."
 ---
-
 ## Definition
 
 מונח זה מתייחס למערכת נתונים ספציפית המאוחסנת ב-Hugging Face תחת המשתמש 'Nerfgun3', בשם 'Bad Prompt'. בעוד שמערכת זו פחות סטנדרטית ממדדים ראשיים, מערכות נתונים מסוג זה משמשות לעיתים קרובות ללימוד חוסן המודל בפני קלטים בעייתיים.

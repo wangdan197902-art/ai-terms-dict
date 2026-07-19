@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /sv/terms/ai_anthropomorphism/
 date: "2026-07-18T15:41:58.542189Z"
 lastmod: "2026-07-18T17:15:08.970266Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den tendens människor har att tillskriva AI-system mänskliga egenskaper, känslor eller intentioner."
 ---
-
 ## Definition
 
 AI-anthropomorfism syftar på det psykologiska fenomenet där användare projicerar mänskliga drag på icke-mänskliga entiteter, såsom chattbottar eller robotar. Detta kan leda till orimliga förväntningar gällande systemets förmågor och medvetande.

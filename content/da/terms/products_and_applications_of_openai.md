@@ -1,23 +1,24 @@
 ---
-title: "OpenAIs produkter og applikationer"
-term_id: "products_and_applications_of_openai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "generative_ai", "nlp"]
+title: OpenAIs produkter og applikationer
+term_id: products_and_applications_of_openai
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Generative AI
+- NLP
 difficulty: 1
 weight: 1
-slug: "products_and_applications_of_openai"
-aliases:
-  - /da/terms/products_and_applications_of_openai/
-date: "2026-07-18T16:12:54.224695Z"
-lastmod: "2026-07-18T17:15:09.323277Z"
+slug: products_and_applications_of_openai
+date: '2026-07-18T16:12:54.224695Z'
+lastmod: '2026-07-18T17:15:09.323277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En henvisning til pakken af AI-værktøjer, API'er og forskningsresultater udviklet af OpenAI, herunder GPT-modeller og DALL-E."
+source: agnes_llm
+status: published
+language: da
+description: En henvisning til pakken af AI-værktøjer, API'er og forskningsresultater
+  udviklet af OpenAI, herunder GPT-modeller og DALL-E.
 ---
-
 ## Definition
 
 Dette begreb omfatter de kommercielle og forskningsprodukter, der er skabt af OpenAI, et førende laboratorium for kunstig intelligens-forskning. Nøgletilbud inkluderer den Generative Forudtrænede Transformer (GPT)...

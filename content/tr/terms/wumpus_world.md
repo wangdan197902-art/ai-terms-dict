@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /tr/terms/wumpus_world/
 date: "2026-07-18T16:21:43.537782Z"
 lastmod: "2026-07-18T16:38:07.378287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirsizlik ve kısmi gözlemlenebilirlik altında muhakeme yapmayı göstermek için kullanılan klasik bir yapay zeka ortamıdır."
 ---
-
 ## Definition
 
 Wumpus Dünyası, Russell ve Norvig'in yapay zeka ders kitabında tanıtılan ızgara tabanlı bir ortamdır. Bir ajan, çukurlardan ve bir Wumpus canavarından kaçınarak altını bulmak için ızgara üzerinde hareket etmelidir. Ajan algılar...

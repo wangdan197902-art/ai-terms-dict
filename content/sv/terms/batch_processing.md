@@ -1,23 +1,24 @@
 ---
-title: "Batchbearbetning"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Batchbearbetning
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /sv/terms/batch_processing/
-date: "2026-07-18T15:47:25.994065Z"
-lastmod: "2026-07-18T17:15:08.979838Z"
+slug: batch_processing
+date: '2026-07-18T15:47:25.994065Z'
+lastmod: '2026-07-18T17:15:08.979838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En beräkningsmetod där data samlas in över tid och bearbetas i grupper snarare än individuellt."
+source: agnes_llm
+status: published
+language: sv
+description: En beräkningsmetod där data samlas in över tid och bearbetas i grupper
+  snarare än individuellt.
 ---
-
 ## Definition
 
 Batchbearbetning innebär att aggregera datainput till en grupp, eller batch, innan en beräkning eller modellinferens utförs. Denna metod står i kontrast till realtidsströmbearbetning genom att möjliggöra

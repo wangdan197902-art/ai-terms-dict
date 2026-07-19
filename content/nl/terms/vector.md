@@ -1,23 +1,25 @@
 ---
-title: "Vector"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Vector
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /nl/terms/vector/
-date: "2026-07-18T15:39:30.283034Z"
-lastmod: "2026-07-18T17:15:08.710411Z"
+slug: vector
+date: '2026-07-18T15:39:30.283034Z'
+lastmod: '2026-07-18T17:15:08.710411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een wiskundig object dat een hoeveelheid vertegenwoordigt met zowel grootte als richting, vaak gebruikt in AI om datapunten in een hoge-dimensionale ruimte te coderen."
+source: agnes_llm
+status: published
+language: nl
+description: Een wiskundig object dat een hoeveelheid vertegenwoordigt met zowel grootte
+  als richting, vaak gebruikt in AI om datapunten in een hoge-dimensionale ruimte
+  te coderen.
 ---
-
 ## Definition
 
 In kunstmatige intelligentie is een vector een fundamentele gegevensstructuur die wordt gebruikt om informatie numeriek weer te geven. Het bestaat uit een geordende lijst van getallen (elementen) die kenmerken van een entiteit mappen naar

@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /zh/terms/instruction_following/
 date: "2026-07-18T11:22:32.126504Z"
 lastmod: "2026-07-18T11:44:45.518343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI模型准确解释并执行特定人类命令或约束的能力。"
 ---
-
 ## Definition
 
 指令遵循是指大型语言模型及其他AI系统理解细微的人类指令并在提示词中遵守明确约束的能力。这一范式转变

@@ -7,8 +7,6 @@ tags: ["neurotech", "niche", "research"]
 difficulty: 4
 weight: 1
 slug: "mindpixel"
-aliases:
-  - /hu/terms/mindpixel/
 date: "2026-07-18T16:12:53.135529Z"
 lastmod: "2026-07-18T17:15:09.812440Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Mindpixel egy koncepcionális vagy szellemi tulajdonba tartozó kifejezés, amely gyakran a kognitív adatok vagy neurális aktivitás mérőszámainak apró egységeire utal az agy-számítógép interfészkutatás"
 ---
-
 ## Definition
 
 Bár nem szabványos akadémiai kifejezés, a 'Mindpixel' általában egy diszkrét információs egységet jelöl, amelyet neurális jelekből vagy kognitív állapotokból származtatnak speciális neurotechnológiai kontextusokban. Ez az egység az agyi aktivitás finomabb szintű reprezentációját szolgálja.

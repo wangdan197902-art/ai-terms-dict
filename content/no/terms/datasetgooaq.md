@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /no/terms/datasetgooaq/
 date: "2026-07-18T15:49:41.657345Z"
 lastmod: "2026-07-18T16:38:06.989807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et storskala datasett som inneholder Google Answers-spørringer og svar, brukt til å trene modeller for informasjonsgjenfinning og spørsmålsbesvarelse."
 ---
-
 ## Definition
 
 GooAQ er et datasett samlet inn fra Google Answers-tjenesten, med et massivt utvalg av brukersubmitterte spørsmål sammen med detaljerte, betalte svar. Det fungerer som en verdifull ressurs for å trene

@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /id/terms/probabilistic_numerics/
 date: "2026-07-18T16:04:47.054591Z"
 lastmod: "2026-07-18T16:38:07.495854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bidang yang memperlakukan masalah komputasi numerik sebagai tugas inferensi statistik untuk mengukur ketidakpastian dalam hasil."
 ---
-
 ## Definition
 
 Numerik probabilistik menerapkan metode Bayes pada masalah numerik tradisional seperti integrasi, diferensiasi, dan aljabar linear. Alih-alih memberikan estimasi titik, metode ini menghasilkan distribusi probabilitas...

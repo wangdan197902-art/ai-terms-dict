@@ -1,23 +1,24 @@
 ---
-title: "注意力机制"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: 注意力机制
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /zh/terms/attention/
-date: "2026-07-18T10:59:15.018004Z"
-lastmod: "2026-07-18T11:44:45.397076Z"
+slug: attention
+date: '2026-07-18T10:59:15.018004Z'
+lastmod: '2026-07-18T11:44:45.397076Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种允许神经网络动态权衡输入序列不同部分重要性的机制。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种允许神经网络动态权衡输入序列不同部分重要性的机制。
 ---
-
 ## Definition
 
 注意力机制使模型在处理输入（特别是文本等序列数据）时能够关注相关信息。通过计算注意力分数，模型确定哪些元素对当前任务最相关，从而捕捉长距离依赖关系并增强上下文理解。

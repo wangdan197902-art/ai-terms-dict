@@ -1,23 +1,25 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /fr/terms/pythia/
-date: "2026-07-18T11:34:56.389014Z"
-lastmod: "2026-07-18T11:44:45.317504Z"
+slug: pythia
+date: '2026-07-18T11:34:56.389014Z'
+lastmod: '2026-07-18T11:44:45.317504Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Pythia est une suite de grands modèles de langage (LLM) à architecture de type décodeur uniquement, développée par EleutherAI, allant de 70 millions à 12 milliards de paramètres."
+source: agnes_llm
+status: published
+language: fr
+description: Pythia est une suite de grands modèles de langage (LLM) à architecture
+  de type décodeur uniquement, développée par EleutherAI, allant de 70 millions à
+  12 milliards de paramètres.
 ---
-
 ## Definition
 
 Pythia est une série de grands modèles de langage (LLM) open-source créés par EleutherAI, conçus pour faciliter la recherche sur l'interprétabilité et le comportement des réseaux de neurones. La suite comprend des modèles...

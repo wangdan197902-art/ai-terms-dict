@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /da/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:13:25.720864Z"
 lastmod: "2026-07-18T17:15:09.324385Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En Pyannote Audio Pipeline er en struktureret sekvens af behandlings trin, der kombinerer forskellige modeller til at udføre end-to-end talerdiarisering."
 ---
-
 ## Definition
 
 I konteksten af Pyannote Audio refererer en pipeline til en konfigurerbar arbejdsgang, der kæder forskellige moduler sammen for at opnå talerdiarisering. Typisk inkluderer en pipeline faser til detekt...

@@ -1,23 +1,24 @@
 ---
-title: "Příspěvek"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Příspěvek
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /cs/terms/post/
-date: "2026-07-18T15:27:58.907485Z"
-lastmod: "2026-07-18T17:15:09.074986Z"
+slug: post
+date: '2026-07-18T15:27:58.907485Z'
+lastmod: '2026-07-18T17:15:09.074986Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Veřejně dostupný obsah, obvykle na blogu, sociální síti nebo fóru, představující informace nebo komentáře generované uživateli."
+source: agnes_llm
+status: published
+language: cs
+description: Veřejně dostupný obsah, obvykle na blogu, sociální síti nebo fóru, představující
+  informace nebo komentáře generované uživateli.
 ---
-
 ## Definition
 
 V kontextu digitální komunikace a dat AI se 'příspěvek' týká diskrétní jednotky obsahu sdílené online. Slouží jako primární zdroj pro trénink modelů zpracování přirozeného jazyka, analýzu sentimentu...

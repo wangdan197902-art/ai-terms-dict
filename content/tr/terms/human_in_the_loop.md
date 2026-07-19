@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /tr/terms/human_in_the_loop/
 date: "2026-07-18T15:35:30.081695Z"
 lastmod: "2026-07-18T16:38:07.258663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsanların bir yapay zeka modelinin karar verme veya geri bildirim sürecine aktif olarak katıldığı bir sistem tasarımı."
 ---
-
 ## Definition
 
 İnsan döngüsü içinde (HITL), veri etiketleme, model değerlendirmesi veya nihai karar onayı gibi iş akışının çeşitli aşamalarında insan müdahalesi gerektiren yapay zeka sistemlerini ifade eder. Bu yaklaşım, doğruluğu ve hesap verebilirliği artırır.

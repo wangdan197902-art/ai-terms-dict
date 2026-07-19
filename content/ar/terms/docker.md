@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /ar/terms/docker/
 date: "2026-07-18T15:36:46.347121Z"
 lastmod: "2026-07-18T17:15:08.460326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "دوكر هو منصة لتطوير وتشغيل وتوزيع التطبيقات داخل حاويات خفيفة الوزن وقابلة للنقل."
 ---
-
 ## Definition
 
 يتيح دوكر للمطورين حزم التطبيق مع جميع تبعياته في وحدة قياسية لتطوير البرمجيات. تعزل هذه الحاويات البرنامج عن بيئته، مما يضمن اتساق الأداء عبر مختلف البيئات.

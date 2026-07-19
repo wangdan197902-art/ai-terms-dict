@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /de/terms/psychology_of_reasoning/
 date: "2026-07-18T11:28:44.806009Z"
 lastmod: "2026-07-18T11:44:44.978218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die interdisziplinäre Untersuchung, wie Menschen Urteile bilden, Entscheidungen treffen und Probleme lösen, was architektonische Ansätze für kognitive KI beeinflusst."
 ---
-
 ## Definition
 
 Dieses Feld untersucht die mentalen Prozesse, die menschlicher Deduktion, Induktion und Abduktion zugrunde liegen. Es erforscht kognitive Verzerrungen, Heuristiken und logische Strukturen, die das menschliche Denken leiten. In der KI fließen diese Erkenntnisse in die Gestaltung intelligenter Systeme ein.

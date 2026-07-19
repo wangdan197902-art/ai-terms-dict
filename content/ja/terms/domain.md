@@ -1,23 +1,23 @@
 ---
-title: "ドメイン"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: ドメイン
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /ja/terms/domain/
-date: "2026-07-18T10:50:00.253780Z"
-lastmod: "2026-07-18T11:44:45.005193Z"
+slug: domain
+date: '2026-07-18T10:50:00.253780Z'
+lastmod: '2026-07-18T11:44:45.005193Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ドメインとは、特徴空間と基礎となる確率分布によって特徴づけられる、特定のデータコンテキストまたは分布を表します。"
+source: agnes_llm
+status: published
+language: ja
+description: ドメインとは、特徴空間と基礎となる確率分布によって特徴づけられる、特定のデータコンテキストまたは分布を表します。
 ---
-
 ## Definition
 
 機械学習、特に転移学習において、ドメインは2つの成分によって定義されます：特徴空間（あり得るすべての入力の集合）と、それらの入力の周辺確率分布です。異なるドメイン間でモデルを適用する際、分布の違い（ドメインシフト）に対応することが重要になります。

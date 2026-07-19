@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /de/terms/source/
 date: "2026-07-18T10:53:51.234673Z"
 lastmod: "2026-07-18T11:44:44.884004Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf den Ursprung von Daten, Code oder Modellen, die in der KI-Entwicklung und -Bereitstellung verwendet werden."
 ---
-
 ## Definition
 
 Im Kontext von KI bezeichnet 'Quelle' typischerweise die Herkunft von Trainingsdatensätzen, Open-Source-Bibliotheken oder vortrainierten Modellgewichten. Die Nachverfolgung von Quellen ist für Reproduzierbarkeit und Lizenzkonformität entscheidend.

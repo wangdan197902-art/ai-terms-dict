@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /he/terms/structural/
 date: "2026-07-18T15:30:49.302295Z"
 lastmod: "2026-07-18T17:15:09.488313Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הקשור לארגון הבסיסי, הארכיטקטורה או הסידור של רכיבים בתוך מערכת."
 ---
-
 ## Definition
 
 היבטים מבניים מגדירים כיצד נתונים או שכבות ברשת עצבית מאורגנים. ברשתות עצביות גרפיות, המבנה מתייחס לחיבורי הצמתים; בלמידה עמוקה, הוא מתייחס לטופולוגיה של השכבות.

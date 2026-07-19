@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /en/terms/process/
 date: "2026-07-18T09:36:45.466493Z"
 lastmod: "2026-07-18T11:44:44.605668Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A structured series of actions or steps taken to achieve a specific computational goal or outcome."
 ---
-
 ## Definition
 
 Within AI development, a process denotes the systematic workflow required to transform raw data into actionable insights or models. This includes stages such as data ingestion, preprocessing, feature engineering, model training, evaluation, and deployment. Understanding these processes is crucial for ensuring reproducibility, scalability, and efficiency in machine learning pipelines.

@@ -1,23 +1,25 @@
 ---
-title: "Δένδρο And-Or"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: Δένδρο And-Or
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /el/terms/andor_tree/
-date: "2026-07-18T15:50:08.204030Z"
-lastmod: "2026-07-18T17:15:09.878770Z"
+slug: andor_tree
+date: '2026-07-18T15:50:08.204030Z'
+lastmod: '2026-07-18T17:15:09.878770Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια ιεραρχική δομή γραφήματος που χρησιμοποιείται σε αλγόριθμους αναζήτησης όπου οι κόμβοι αντιπροσωπεύουν καταστάσεις και οι ακμές αντιπροσωπεύουν ενέργειες που οδηγούν σε υποστόχους."
+source: agnes_llm
+status: published
+language: el
+description: Μια ιεραρχική δομή γραφήματος που χρησιμοποιείται σε αλγόριθμους αναζήτησης
+  όπου οι κόμβοι αντιπροσωπεύουν καταστάσεις και οι ακμές αντιπροσωπεύουν ενέργειες
+  που οδηγούν σε υποστόχους.
 ---
-
 ## Definition
 
 Ένα Δένδρο And-Or είναι μια αναπαράσταση που χρησιμοποιείται στην επίλυση προβλημάτων και τον προγραμματισμό, ιδιαίτερα σε αλγόριθμους αναζήτησης ΤΝ. Οι κόμβοι 'Or' αντιπροσωπεύουν επιλογές μεταξύ διαφορετικών ενεργειών, ενώ οι κόμβοι 'And' υποδεικνύουν ότι μια

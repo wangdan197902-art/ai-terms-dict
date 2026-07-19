@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /cs/terms/phi/
 date: "2026-07-18T16:12:40.114157Z"
 lastmod: "2026-07-18T17:15:09.189392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Řada malých, ale vysoce efektivních velkých jazykových modelů vyvinutých Microsoft Research, zaměřených na hustotu znalostí a logické uvažování."
 ---
-
 ## Definition
 
 Phi, zkratka pro 'Základní modely založené na učebním paradigmatu', je rodinou kompaktních velkých jazykových modelů vytvořených společností Microsoft. Na rozdíl od tradičních LLM trénovaných na masivních webových korpusech, modely Phi

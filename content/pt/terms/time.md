@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /pt/terms/time/
 date: "2026-07-18T14:40:01.057809Z"
 lastmod: "2026-07-18T15:51:59.440816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Em IA, tempo refere-se à dimensão temporal usada para sequenciar eventos, rastrear mudanças de estado e medir latência ou duração nas operações do modelo."
 ---
-
 ## Definition
 
 O tempo é um conceito fundamental na inteligência artificial, particularmente na modelagem sequencial e em sistemas em tempo real. Serve como o eixo ao longo do qual os pontos de dados são ordenados, permitindo que modelos como Redes Neurais Recorrentes capturem dependências temporais.

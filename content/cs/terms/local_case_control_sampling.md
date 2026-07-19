@@ -1,23 +1,24 @@
 ---
-title: "Lokální vzorkování případů a kontrol"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lokální vzorkování případů a kontrol
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /cs/terms/local_case_control_sampling/
-date: "2026-07-18T16:06:45.542156Z"
-lastmod: "2026-07-18T17:15:09.149441Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:06:45.542156Z'
+lastmod: '2026-07-18T17:15:09.149441Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika záporného vzorkování, která vybírá obtížné negativní příklady z bezprostředního okolí pozitivních příkladů v prostoru vložení."
+source: agnes_llm
+status: published
+language: cs
+description: Technika záporného vzorkování, která vybírá obtížné negativní příklady
+  z bezprostředního okolí pozitivních příkladů v prostoru vložení.
 ---
-
 ## Definition
 
 Lokální vzorkování případů a kontrol je strategie používaná především při trénování modelů kontrastního učení nebo doporučovacích systémů. Místo náhodného výběru záporných vzorků identifikuje 'obtížná negativa' (hard negatives), což jsou negativní příklady, které jsou prostorově blízko pozitivním příkladům a jsou pro model obtížně rozlišitelné. Tento přístup pomáhá modelu lépe naučit se jemné rozdíly mezi podobnými entitami.

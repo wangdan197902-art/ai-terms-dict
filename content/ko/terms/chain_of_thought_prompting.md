@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /ko/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:33:51.302484Z"
 lastmod: "2026-07-18T16:38:06.793302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "생각의 사슬 프롬프팅은 대규모 언어 모델(LLM)이 최종 답변을 생성하기 전에 중간 추론 단계를 생성하도록 유도하는 기법입니다."
 ---
-
 ## Definition
 
 생각의 사슬(Chain-of-Thought, CoT) 프롬프팅은 모델에게 단계별 논리를 명시적으로 서술하도록 요청함으로써 복잡한 추론 작업에서 대규모 언어 모델의 성능을 향상시킵니다. 이는 답으로 바로 뛰어들기보다(Instead of jumping directly to the answer), 문제 해결 과정을 단계별로 설명하도록 함으로써 모델의 추론 능력을 강화합니다.

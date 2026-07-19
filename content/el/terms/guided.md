@@ -1,23 +1,24 @@
 ---
-title: "Οδηγούμενο"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Οδηγούμενο
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /el/terms/guided/
-date: "2026-07-18T15:26:51.075369Z"
-lastmod: "2026-07-18T17:15:09.846194Z"
+slug: guided
+date: '2026-07-18T15:26:51.075369Z'
+lastmod: '2026-07-18T17:15:09.846194Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Περιγράφει διαδικασίες ή μεθόδους παραγωγής ΤΝ που περιορίζονται ή κατευθύνονται από συγκεκριμένα εξωτερικά σήματα, περιορισμούς ή ενδιάμεσους στόχους."
+source: agnes_llm
+status: published
+language: el
+description: Περιγράφει διαδικασίες ή μεθόδους παραγωγής ΤΝ που περιορίζονται ή κατευθύνονται
+  από συγκεκριμένα εξωτερικά σήματα, περιορισμούς ή ενδιάμεσους στόχους.
 ---
-
 ## Definition
 
 Ο όρος «οδηγούμενο» στην ΤΝ αναφέρεται συνήθως σε τεχνικές όπου η συμπεριφορά του μοντέλου καθοδηγείται από επιπλέον πληροφορίες πέρα από την πρωτεύουσα είσοδο. Κοινά παραδείγματα περιλαμβάνουν την οδηγούμενη διάχυση, όπου μια κλάση ή εικόνα καθοδηγεί τη δημιουργία.

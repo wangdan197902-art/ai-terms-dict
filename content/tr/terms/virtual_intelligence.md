@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /tr/terms/virtual_intelligence/
 date: "2026-07-18T16:20:31.655067Z"
 lastmod: "2026-07-18T16:38:07.376205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sanal Zeka, insan benzeri etkileşimi, karar vermeyi veya özerkliği simüle etmek için dijital ortamlarda çalışan yapay zeka sistemlerini tanımlayan geniş bir terimdir."
 ---
-
 ## Definition
 
 Sanal Zeka, genellikle kullanıcılarla veya diğer ajanlarla etkileşime giren, sanal veya dijital bir alanda çalışmak üzere tasarlanmış herhangi bir yapay zeka sistemini kapsar. Buna sanal asistanlar, oyun NPC'leri ve dijital ikizler dahildir.

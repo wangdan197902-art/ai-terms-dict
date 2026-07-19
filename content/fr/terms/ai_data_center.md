@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /fr/terms/ai_data_center/
 date: "2026-07-18T11:02:43.375080Z"
 lastmod: "2026-07-18T11:44:45.192268Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une installation spécialisée conçue pour héberger et exploiter des infrastructures de calcul haute performance destinées aux charges de travail de l'IA."
 ---
-
 ## Definition
 
 Un centre de données IA est une installation physique optimisée pour exécuter des applications d'intelligence artificielle, en particulier l'entraînement et l'inférence du deep learning. Ces centres disposent de baies de serveurs à haute densité, d'une gestion thermique avancée et de bandes passantes réseau élevées.

@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /ja/terms/artificial_intelligence_of_things/
 date: "2026-07-18T11:04:34.622010Z"
 lastmod: "2026-07-18T11:44:45.069098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIとIoTの融合により、スマートデバイスがデータをローカルで処理し、自律的に意思決定を行うこと。"
 ---
-
 ## Definition
 
 モノの人工知能（AIoT）は、人工知能（AI）とインターネット・オブ・スーシング（IoT）技術の相乗的な統合を指します。AIアルゴリズムをIoTデバイスに直接埋め込むことで、データのローカル処理と自律的な判断を可能にします。

@@ -1,23 +1,24 @@
 ---
-title: "นักคณิตศาสตร์อัตโนมัติ (Automated Mathematician)"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: นักคณิตศาสตร์อัตโนมัติ (Automated Mathematician)
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /th/terms/automated_mathematician/
-date: "2026-07-18T15:43:09.760686Z"
-lastmod: "2026-07-18T16:38:07.576589Z"
+slug: automated_mathematician
+date: '2026-07-18T15:43:09.760686Z'
+lastmod: '2026-07-18T16:38:07.576589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบ AI ที่ออกแบบมาเพื่อค้นพบทฤษฎีบท สมมติฐาน หรือการพิสูจน์ทางคณิตศาสตร์ใหม่ๆ ผ่านการค้นหาและการให้เหตุผลด้วยคอมพิวเตอร์"
+source: agnes_llm
+status: published
+language: th
+description: ระบบ AI ที่ออกแบบมาเพื่อค้นพบทฤษฎีบท สมมติฐาน หรือการพิสูจน์ทางคณิตศาสตร์ใหม่ๆ
+  ผ่านการค้นหาและการให้เหตุผลด้วยคอมพิวเตอร์
 ---
-
 ## Definition
 
 นักคณิตศาสตร์อัตโนมัติใช้การเรียนรู้ของเครื่องและการให้เหตุผลเชิงสัญลักษณ์เพื่อสำรวจพื้นที่ทางคณิตศาสตร์ที่เกินกว่าสัญชาตญาณของมนุษย์ ระบบเหล่านี้สามารถสร้างสมมติฐาน ตรวจสอบการพิสูจน์ และค้นหารูปแบบได้

@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /no/terms/memory/
 date: "2026-07-18T15:37:40.711179Z"
 lastmod: "2026-07-18T16:38:06.959943Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Evnen til et AI-system til å lagre, hente ut og bruke informasjon på tvers av interaksjoner for å opprettholde kontekst og forbedre ytelsen over tid."
 ---
-
 ## Definition
 
 Innen kunstig intelligens refererer minne til mekanismer som lar modeller beholde informasjon utover et enkelt inferenstrinn. Dette inkluderer korttidsarbeidsminne for umiddelbar kontekst innenfor en samtale eller oppgave, samt langtidsminne for å lagre kunnskap over lengre perioder.

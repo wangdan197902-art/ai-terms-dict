@@ -1,23 +1,25 @@
 ---
-title: "Ko-træning"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Ko-træning
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /da/terms/co_training/
-date: "2026-07-18T15:45:27.845980Z"
-lastmod: "2026-07-18T17:15:09.268386Z"
+slug: co_training
+date: '2026-07-18T15:45:27.845980Z'
+lastmod: '2026-07-18T17:15:09.268386Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Ko-træning er en semi-overvåget læringsalgoritme, hvor to perspektiver på dataene bruges til at træne separate klassifikatorer, der iterativt mærker ulabelerede data for hinanden."
+source: agnes_llm
+status: published
+language: da
+description: Ko-træning er en semi-overvåget læringsalgoritme, hvor to perspektiver
+  på dataene bruges til at træne separate klassifikatorer, der iterativt mærker ulabelerede
+  data for hinanden.
 ---
-
 ## Definition
 
 Denne metode udnytter flere distinkte sæt af funktioner (perspektiver) fra de samme datapunkter. Indledningsvis trænes to klassifikatorer på små mærkede datasæt fra hvert perspektiv. De forudsiger derefter etiketter for ulabel

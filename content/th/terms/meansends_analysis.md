@@ -1,23 +1,23 @@
 ---
-title: "การวิเคราะห์วิธีและเป้าหมาย"
-term_id: "meansends_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["planning", "problem_solving", "history"]
+title: การวิเคราะห์วิธีและเป้าหมาย
+term_id: meansends_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- planning
+- Problem Solving
+- history
 difficulty: 3
 weight: 1
-slug: "meansends_analysis"
-aliases:
-  - /th/terms/meansends_analysis/
-date: "2026-07-18T16:05:06.651473Z"
-lastmod: "2026-07-18T16:38:07.630964Z"
+slug: meansends_analysis
+date: '2026-07-18T16:05:06.651473Z'
+lastmod: '2026-07-18T16:38:07.630964Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการแก้ปัญหาแบบฮิวริสติกที่ลดความแตกต่างระหว่างสถานะปัจจุบันกับสถานะเป้าหมายโดยการระบุเป้าหมายย่อย"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการแก้ปัญหาแบบฮิวริสติกที่ลดความแตกต่างระหว่างสถานะปัจจุบันกับสถานะเป้าหมายโดยการระบุเป้าหมายย่อย
 ---
-
 ## Definition
 
 การวิเคราะห์วิธีและเป้าหมายเป็นกลยุทธ์ทางปัญญาที่ใช้ในปัญญาประดิษฐ์และจิตวิทยาเพื่อแก้ปัญหาที่ซับซ้อน กระบวนการนี้เกี่ยวข้องกับการเปรียบเทียบสถานะปัจจุบันของปัญหากับสถานะเป้าหมายที่ต้องการ จากนั้นจึงระบุความแตกต่างและเลือกการดำเนินการที่จะลดความแตกต่างนั้นลงให้ได้มากที่สุด โดยอาจต้องแตกปัญหาใหญ่ออกเป็นเป้าหมายย่อยๆ เพื่อจัดการได้ง่ายขึ้น

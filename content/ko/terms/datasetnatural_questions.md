@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /ko/terms/datasetnatural_questions/
 date: "2026-07-18T15:48:22.776065Z"
 lastmod: "2026-07-18T16:38:06.827870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "오픈 도메인 질문 응답을 위한 대규모 데이터셋으로, 실제 구글 검색 쿼리와 이에 대응하는 주석 처리된 위키백과 문서 조각으로 구성됩니다."
 ---
-
 ## Definition
 
 Natural Questions(NQ)는 구글이 오픈 도메인 질문 응답 연구의 발전을 위해 도입한 벤치마크 데이터셋입니다. 익명화된 실제 구글 검색 쿼리를 길고 상세한 답변(주로 위키백과 페이지의 특정 섹션)과 매핑하여 구성됩니다.

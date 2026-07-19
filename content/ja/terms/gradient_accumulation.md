@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /ja/terms/gradient_accumulation/
 date: "2026-07-18T11:16:46.574351Z"
 lastmod: "2026-07-18T11:44:45.102969Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "勾配累積は、重みを更新する前に複数の順伝播・逆伝播パスにわたって勾配を合計することで、より大きなバッチサイズをシミュレートする手法です。"
 ---
-
 ## Definition
 
 この最適化戦略により、深層学習モデルはGPUメモリに収まらないような有効なバッチサイズを使用して訓練できます。複数のミニバッチからの勾配を累積し、その後で重み更新を行います。

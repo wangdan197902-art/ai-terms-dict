@@ -1,23 +1,24 @@
 ---
-title: "Reziduální připojení"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Reziduální připojení
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /cs/terms/residual_connection/
-date: "2026-07-18T15:38:35.855322Z"
-lastmod: "2026-07-18T17:15:09.093247Z"
+slug: residual_connection
+date: '2026-07-18T15:38:35.855322Z'
+lastmod: '2026-07-18T17:15:09.093247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Mechanismus, který přímo přičítá vstup k výstupu vrstvy, aby usnadnil tok gradientů v hlubokých sítích."
+source: agnes_llm
+status: published
+language: cs
+description: Mechanismus, který přímo přičítá vstup k výstupu vrstvy, aby usnadnil
+  tok gradientů v hlubokých sítích.
 ---
-
 ## Definition
 
 Reziduální připojení, známá také jako přeskoková připojení (skip connections), umožňují tok gradientů sítí tím, že přímo přičítají vstup k výstupu následné vrstvy. Tato architektura řeší problém mizejících gradientů tím, že zajišťuje přímou cestu pro backpropagaci, což umožňuje efektivní trénink velmi hlubokých neuronových sítí.

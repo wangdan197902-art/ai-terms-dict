@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /fr/terms/graphs/
 date: "2026-07-18T10:50:47.164849Z"
 lastmod: "2026-07-18T11:44:45.164211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La forme plurielle faisant référence à plusieurs structures de graphes ou à des représentations visuelles de tendances de données en apprentissage automatique."
 ---
-
 ## Definition
 
 Alors que le singulier « graphe » désigne la structure de données abstraite, « graphiques » désigne souvent soit plusieurs instances de graphes distinctes, soit des tracés visuels utilisés dans le suivi de l'apprentissage automatique. En visualisation, il peut s'agir de courbes linéaires ou d'histogrammes.

@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /fr/terms/training_free/
 date: "2026-07-18T10:58:39.505816Z"
 lastmod: "2026-07-18T11:44:45.181203Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Méthodes qui adaptent ou améliorent les modèles sans effectuer de mises à jour de paramètres basées sur le gradient."
 ---
-
 ## Definition
 
 Les approches sans entraînement désignent des techniques qui modifient le comportement ou la sortie du modèle sans mettre à jour les poids sous-jacents via la rétropropagation. Ces méthodes exploitent souvent l'ingénierie des invites, les caractéristiques...

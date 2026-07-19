@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /it/terms/security/
 date: "2026-07-18T15:29:24.301091Z"
 lastmod: "2026-07-18T17:15:08.574417Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La pratica di proteggere i sistemi di intelligenza artificiale da accessi non autorizzati, usi impropri e attacchi malevoli."
 ---
-
 ## Definition
 
 La sicurezza dell'IA comprende le misure progettate per salvaguardare i modelli di apprendimento automatico, le pipeline dei dati e l'infrastruttura di distribuzione contro minacce come attacchi avversari, avvelenamento dei dati e inversione dei modelli.

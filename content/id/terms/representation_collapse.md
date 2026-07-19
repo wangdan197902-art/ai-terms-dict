@@ -1,23 +1,24 @@
 ---
-title: "Keruntuhan Representasi"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Keruntuhan Representasi
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /id/terms/representation_collapse/
-date: "2026-07-18T16:07:27.548808Z"
-lastmod: "2026-07-18T16:38:07.500972Z"
+slug: representation_collapse
+date: '2026-07-18T16:07:27.548808Z'
+lastmod: '2026-07-18T16:38:07.500972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Modus kegagalan dalam pembelajaran mandiri di mana model menghasilkan representasi identik untuk semua masukan, sehingga kehilangan daya diskriminatifnya."
+source: agnes_llm
+status: published
+language: id
+description: Modus kegagalan dalam pembelajaran mandiri di mana model menghasilkan
+  representasi identik untuk semua masukan, sehingga kehilangan daya diskriminatifnya.
 ---
-
 ## Definition
 
 Keruntuhan representasi terjadi ketika jaringan saraf, khususnya dalam kerangka kerja pembelajaran kontrasitif mandiri, belajar memetakan semua titik data masukan ke vektor keluaran tetap yang sama. Ini merupakan solusi sepele yang harus dihindari agar model dapat mempelajari fitur yang bermakna.

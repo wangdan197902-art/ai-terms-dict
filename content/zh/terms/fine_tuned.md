@@ -1,23 +1,23 @@
 ---
-title: "微调后的"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: 微调后的
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /zh/terms/fine_tuned/
-date: "2026-07-18T10:56:23.618207Z"
-lastmod: "2026-07-18T11:44:45.390704Z"
+slug: fine_tuned
+date: '2026-07-18T10:56:23.618207Z'
+lastmod: '2026-07-18T11:44:45.390704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在特定数据集上进一步训练预训练模型，使其适应特定下游任务的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 在特定数据集上进一步训练预训练模型，使其适应特定下游任务的过程。
 ---
-
 ## Definition
 
 微调涉及使用较小且针对特定任务的数据集，继续训练已在大型通用数据集上训练好的模型。该技术利用了预训练模型中习得的通用特征表示，使其能够以较低的计算成本和较少的数据量，高效地适配到具体的应用场景中。

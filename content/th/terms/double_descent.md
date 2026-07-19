@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /th/terms/double_descent/
 date: "2026-07-18T15:51:15.443283Z"
 lastmod: "2026-07-18T16:38:07.600708Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ปรากฏการณ์ที่ความผิดพลาดในการทดสอบลดลง เพิ่มขึ้น และลดลงอีกครั้ง เมื่อความซับซ้อนของโมเดลเพิ่มขึ้นเกินกว่าจุดแทรกสอด (interpolation threshold)"
 ---
-
 ## Definition
 
 ปรากฏการณ์ Double Descent ท้าทายแนวคิดดั้งเดิมเรื่องความสมดุลระหว่างอคติและความแปรปรวน (bias-variance tradeoff) โดยแสดงให้เห็นว่าโมเดลที่มีพารามิเตอร์มากเกินจำเป็น (overparameterized) สามารถให้ความผิดพลาดในการทดสอบต่ำได้ แม้ว่าจะสามารถจำข้อมูลการฝึกได้หมด (interpolating) ในช่วงแรก ความผิดพลาดจะเพิ่มขึ้นเมื่อความซับซ้อนของโมเดลสูงขึ้น แต่หลังจากผ่านจุดหนึ่ง ความผิดพลาดจะลดลงอีกครั้ง

@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /id/terms/sdk/
 date: "2026-07-18T15:36:05.535251Z"
 lastmod: "2026-07-18T16:38:07.419101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kit Pengembangan Perangkat Lunak yang menyediakan alat, pustaka, dan dokumentasi untuk membangun aplikasi."
 ---
-
 ## Definition
 
 SDK adalah kumpulan alat pengembangan perangkat lunak yang memungkinkan pengembang membuat aplikasi untuk platform atau layanan tertentu. Untuk AI, SDK menyediakan pustaka, API, dan utilitas yang telah dibangun sebelumnya untuk mempercepat integrasi.

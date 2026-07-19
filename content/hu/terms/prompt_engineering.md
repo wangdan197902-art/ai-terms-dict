@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /hu/terms/prompt_engineering/
 date: "2026-07-18T15:22:26.336457Z"
 lastmod: "2026-07-18T17:15:09.712600Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A nagy nyelvi modelleket kívánt kimenetek felé terelő bemeneti szövegek tervezésének és optimalizálásának gyakorlata."
 ---
-
 ## Definition
 
 A prompt mérnökség magában foglalja a specifikus bemenetek, az úgynevezett promptok (utasítások) megalkotását a generatív AI modellektől pontos, releváns és magas minőségű válaszok kiváltása érdekében. Megértést igényel, hogyan értelmezik a modellek a kontextust.

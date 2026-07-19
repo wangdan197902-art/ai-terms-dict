@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /fi/terms/governance/
 date: "2026-07-18T15:59:49.087889Z"
 lastmod: "2026-07-18T17:15:09.416123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Poliittisten standardien, sääntöjen ja valvontamekanismien viitekehys, joka varmistaa tekoälyjärjestelmien vastuullisen ja eettisen kehittämisen ja käyttöönoton."
 ---
-
 ## Definition
 
 Tekoälyn hallintajärjestelmä (AI Governance) tarkoittaa sääntöjen, ohjeiden ja institutionaalisten rakenteiden kokonaisuutta, jotka hallinnoivat tekoälyn luomista, käyttöä ja auditointia. Se kattaa lainsäädännöllisen noudattamisen ja eettiset näkökohdat.

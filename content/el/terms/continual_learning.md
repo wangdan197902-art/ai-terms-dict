@@ -1,23 +1,24 @@
 ---
-title: "Συνεχής Μάθηση"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Συνεχής Μάθηση
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /el/terms/continual_learning/
-date: "2026-07-18T15:56:52.895651Z"
-lastmod: "2026-07-18T17:15:09.892521Z"
+slug: continual_learning
+date: '2026-07-18T15:56:52.895651Z'
+lastmod: '2026-07-18T17:15:09.892521Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα παράδειγμα μηχανικής μάθησης όπου τα μοντέλα μαθαίνουν διαδοχικά από νέα δεδομένα χωρίς να ξεχνούν τις προηγούμενες γνώσεις."
+source: agnes_llm
+status: published
+language: el
+description: Ένα παράδειγμα μηχανικής μάθησης όπου τα μοντέλα μαθαίνουν διαδοχικά
+  από νέα δεδομένα χωρίς να ξεχνούν τις προηγούμενες γνώσεις.
 ---
-
 ## Definition
 
 Η συνεχής μάθηση, γνωστή επίσης ως μάθηση όλης της ζωής, επιτρέπει στα νευρωνικά δίκτυα να αποκτούν νέες δεξιότητες ή πληροφορίες με την πάροδο του χρόνου, διατηρώντας παράλληλα τις προηγουμένως αποκτημένες ικανότητες. Αυτό αντιμετωπίζει το φαινόμενο της 'καταστροφικής...

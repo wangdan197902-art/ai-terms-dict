@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /it/terms/reranking/
 date: "2026-07-18T16:19:04.742210Z"
 lastmod: "2026-07-18T17:15:08.665437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un processo di recupero in due fasi in cui un ordinamento iniziale grezzo viene raffinato da un modello più costoso dal punto di vista computazionale per migliorare la rilevanza dei risultati."
 ---
-
 ## Definition
 
 Il riordinamento è una strategia utilizzata nel recupero delle informazioni e nei sistemi di raccomandazione per aumentare l'accuratezza. Innanzitutto, un modello veloce ma meno accurato recupera un ampio insieme di candidati. Successivamente, un modello più lento e sofisticato riordina questi candidati per selezionare i risultati più pertinenti.

@@ -1,23 +1,25 @@
 ---
-title: "Dikkat Mekanizması"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Dikkat Mekanizması
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /tr/terms/attention/
-date: "2026-07-18T15:33:32.758359Z"
-lastmod: "2026-07-18T16:38:07.254680Z"
+slug: attention
+date: '2026-07-18T15:33:32.758359Z'
+lastmod: '2026-07-18T16:38:07.254680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sinir ağlarının, girdi dizisinin farklı kısımlarının önemini dinamik olarak ağırlıklandırmasına olanak tanıyan bir mekanizma."
+source: agnes_llm
+status: published
+language: tr
+description: Sinir ağlarının, girdi dizisinin farklı kısımlarının önemini dinamik
+  olarak ağırlıklandırmasına olanak tanıyan bir mekanizma.
 ---
-
 ## Definition
 
 Dikkat mekanizmaları, modellerin özellikle metin gibi sıralı verilerde girdileri işlerken ilgili bilgilere odaklanmasını sağlar. Dikkat puanlarını hesaplayarak model, hangi öğelere daha fazla dikkat etmesi gerektiğini belirler ve bağlamsal bağımlılıkları yakalar.

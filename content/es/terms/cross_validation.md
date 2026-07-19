@@ -1,23 +1,25 @@
 ---
-title: "Validación cruzada"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Validación cruzada
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /es/terms/cross_validation/
-date: "2026-07-18T10:41:27.031905Z"
-lastmod: "2026-07-18T11:44:44.790751Z"
+slug: cross_validation
+date: '2026-07-18T10:41:27.031905Z'
+lastmod: '2026-07-18T11:44:44.790751Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un procedimiento de remuestreo utilizado para evaluar modelos de aprendizaje automático en una muestra de datos limitada, dividiendo los datos en subconjuntos para entrenamiento y prueba."
+source: agnes_llm
+status: published
+language: es
+description: Un procedimiento de remuestreo utilizado para evaluar modelos de aprendizaje
+  automático en una muestra de datos limitada, dividiendo los datos en subconjuntos
+  para entrenamiento y prueba.
 ---
-
 ## Definition
 
 La validación cruzada es un método estadístico utilizado para estimar la capacidad de generalización de los modelos de aprendizaje automático. La forma más común es la validación cruzada k-fold, donde los datos se dividen en k partes iguales. El modelo se entrena en k-1 partes y se valida en la parte restante, repitiendo el proceso k veces.

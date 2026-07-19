@@ -1,23 +1,24 @@
 ---
-title: "Maszyna Gödla"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Maszyna Gödla
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /pl/terms/gödel_machine/
-date: "2026-07-18T15:58:14.424578Z"
-lastmod: "2026-07-18T17:15:08.880602Z"
+slug: gödel_machine
+date: '2026-07-18T15:58:14.424578Z'
+lastmod: '2026-07-18T17:15:08.880602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Teoretyczny program AI samousprawniający się, który może przepisywać własny kod źródłowy, aby stać się bardziej wydajnym bez zmiany swoich celów."
+source: agnes_llm
+status: published
+language: pl
+description: Teoretyczny program AI samousprawniający się, który może przepisywać
+  własny kod źródłowy, aby stać się bardziej wydajnym bez zmiany swoich celów.
 ---
-
 ## Definition
 
 Maszyna Gödla to hipotetyczny uniwersalny rozwiązywacz problemów zaproponowany przez Jürgen Schmidhubera, oparty na logice formalnej i teorii obliczalności. Działa poprzez ciągłą analizę własnego kodu źródłowego w poszukiwaniu optymalizacji, które poprawią jego efektywność.

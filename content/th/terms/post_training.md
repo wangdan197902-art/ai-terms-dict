@@ -1,23 +1,24 @@
 ---
-title: "หลังการฝึกฝน"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: หลังการฝึกฝน
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /th/terms/post_training/
-date: "2026-07-18T15:34:10.872913Z"
-lastmod: "2026-07-18T16:38:07.556896Z"
+slug: post_training
+date: '2026-07-18T15:34:10.872913Z'
+lastmod: '2026-07-18T16:38:07.556896Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หลังการฝึกฝน หมายถึง ขั้นตอนในการปรับปรุงโมเดลที่ผ่านการฝึกฝนเบื้องต้นแล้วด้วยชุดข้อมูลเฉพาะ เพื่อปรับให้เข้ากับงาน particular หรือเพิ่มประสิทธิภาพการทำงาน"
+source: agnes_llm
+status: published
+language: th
+description: หลังการฝึกฝน หมายถึง ขั้นตอนในการปรับปรุงโมเดลที่ผ่านการฝึกฝนเบื้องต้นแล้วด้วยชุดข้อมูลเฉพาะ
+  เพื่อปรับให้เข้ากับงาน particular หรือเพิ่มประสิทธิภาพการทำงาน
 ---
-
 ## Definition
 
 หลังการฝึกฝนเป็นขั้นตอนสำคัญในวงจรชีวิตของแมชชีนเลิร์นนิง ซึ่งเกิดขึ้นหลังจากขั้นตอนการฝึกฝนเบื้องต้น (pre-training) ของโมเดลบนข้อมูลทั่วไปขนาดใหญ่ ในระหว่างขั้นตอนนี้ โมเดลจะได้รับการปรับแต่ง (fine-tuning) ด้วยข้อมูลเฉพาะทาง เพื่อให้สามารถเรียนรู้รูปแบบหรือพฤติกรรมที่ซับซ้อนและเฉพาะเจาะจงมากขึ้น ซึ่งแตกต่างจากการเรียนรู้แบบทั่วไปในขั้นต้น

@@ -1,23 +1,24 @@
 ---
-title: "Sikkerhedsrestriktioner"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Sikkerhedsrestriktioner
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /da/terms/guardrails/
-date: "2026-07-18T15:59:29.422063Z"
-lastmod: "2026-07-18T17:15:09.294659Z"
+slug: guardrails
+date: '2026-07-18T15:59:29.422063Z'
+lastmod: '2026-07-18T17:15:09.294659Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Sikkerhedsmekanismer designet til at begrænse AI-modellers output for at forhindre generering af skadeligt, bias-præget eller uautoriseret indhold."
+source: agnes_llm
+status: published
+language: da
+description: Sikkerhedsmekanismer designet til at begrænse AI-modellers output for
+  at forhindre generering af skadeligt, bias-præget eller uautoriseret indhold.
 ---
-
 ## Definition
 
 Sikkerhedsrestriktioner refererer til et sæt softwarekontroller og politikopfyldningslag, der er integreret i AI-applikationer, især store sprogmodeller, for at sikre sikker og overholdelsesdygtig adfærd. De fungerer som filtre, der overvåger og regulerer både input og output.

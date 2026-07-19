@@ -1,23 +1,23 @@
 ---
-title: "畳み込みニューラルネットワーク"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: 畳み込みニューラルネットワーク
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /ja/terms/convolutional_neural_network/
-date: "2026-07-18T07:42:00.734460Z"
-lastmod: "2026-07-18T11:44:44.586571Z"
+slug: convolutional_neural_network
+date: '2026-07-18T07:42:00.734460Z'
+lastmod: '2026-07-18T11:44:44.586571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "画像のようなグリッド状データを処理するために主に使用され、畳み込みフィルタを適用する深層ニューラルネットワークの特殊なクラス。"
+source: agnes_llm
+status: published
+language: ja
+description: 画像のようなグリッド状データを処理するために主に使用され、畳み込みフィルタを適用する深層ニューラルネットワークの特殊なクラス。
 ---
-
 ## Definition
 
 畳み込みニューラルネットワーク（CNN）は、視覚入力から空間的な特徴の階層を自動的に適応的に学習するように設計されています。これらは、特徴を検出するためにフィルタを適用する畳み込み層を利用します。

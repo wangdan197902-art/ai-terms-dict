@@ -1,23 +1,23 @@
 ---
-title: "Telepítés: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Telepítés: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /hu/terms/deployazure/
-date: "2026-07-18T15:56:19.897329Z"
-lastmod: "2026-07-18T17:15:09.775119Z"
+slug: deployazure
+date: '2026-07-18T15:56:19.897329Z'
+lastmod: '2026-07-18T17:15:09.775119Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A gépi tanulási modellek Microsoft Azure felhőinfrastruktúrán történő hosztolása és futtatása."
+source: agnes_llm
+status: published
+language: hu
+description: A gépi tanulási modellek Microsoft Azure felhőinfrastruktúrán történő
+  hosztolása és futtatása.
 ---
-
 ## Definition
 
 Az Azure-ra való telepítés magában foglalja a felhőnatív eszközök, például az Azure Machine Learning, az Azure Kubernetes Service (AKS) vagy az Azure Functions használata a gépi tanulási modellek skálázható kiszolgálására. Ez magában foglalja a számítási erőforrások kezelését, a modellfigyelést és a folyamatos integrációt/kiszállítást (CI/CD).

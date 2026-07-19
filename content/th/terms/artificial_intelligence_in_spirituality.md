@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /th/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:42:31.342205Z"
 lastmod: "2026-07-18T16:38:07.574825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "จุดตัดใหม่ที่เกิดขึ้นเมื่อมีการนำ AI ไปใช้ในการแนะนำแนวทางจิตวิญญาณ ช่วยในการทำสมาธิ หรือสำรวจคำถามเชิงปรัชญา"
 ---
-
 ## Definition
 
 AI ในมิติจิตวิญญาณหมายถึงการนำปัญญาประดิษฐ์ไปใช้ในบริบททางศาสนาหรือการใคร่ครวญ ซึ่งรวมถึงแชทบอทที่ให้คำแนะนำด้านศีลธรรม ศิลปะที่สร้างโดย AI สำหรับใช้ประกอบสมาธิ หรืออัลกอริทึมที่วิเคราะห์ข้อความทางเทววิทยาเพื่อค้นหาความหมายลึกซึ้ง

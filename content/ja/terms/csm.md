@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /ja/terms/csm/
 date: "2026-07-18T11:09:32.733152Z"
 lastmod: "2026-07-18T11:44:45.082222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "文脈依存型音声モデルやクラウドセキュリティ管理などを指す曖昧な略語であり、一般的なAIにおいて普遍的な定義は存在しません。"
 ---
-
 ## Definition
 
 AIおよびテクノロジーの文脈において、「CSM」は「CNN」や「RNN」のように普遍的に標準化された用語ではありません。音声処理の研究分野では、主に文脈依存型音声モデル（Contextual Speech Models）を指すことが多く、これは音声認識や合成において周囲の文脈情報を活用するモデルを指します。ただし、業界によってはクラウドセキュリティ管理などの意味を持つこともあります。

@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /ro/terms/moe/
 date: "2026-07-18T16:12:29.020261Z"
 lastmod: "2026-07-18T17:15:09.683070Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un tipar arhitectural în care mai multe rețele neuronale specializate (experți) sunt combinate printr-un mecanism de selecție (gating) pentru a procesa intrările."
 ---
-
 ## Definition
 
 Amestecul de Experți (Mixture of Experts - MoE) este o arhitectură de învățare automată concepută pentru a îmbunătăți eficiența și scalabilitatea. În loc să utilizeze un singur model mare pentru toate sarcinile, MoE folosește mai mulți experți mai mici, n

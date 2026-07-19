@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /id/terms/data_poisoning/
 date: "2026-07-18T15:44:45.409481Z"
 lastmod: "2026-07-18T16:38:07.442521Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Poisoning data adalah serangan keamanan di mana aktor jahat menyuntikkan data yang rusak atau menyesatkan ke dalam set pelatihan untuk menurunkan kinerja model."
 ---
-
 ## Definition
 
 Teknik adversarial ini bertujuan untuk merusak integritas model pembelajaran mesin dengan mengubah data pelatihan. Dengan memperkenalkan kesalahan halus atau contoh yang bias, penyerang dapat menyebabkan model

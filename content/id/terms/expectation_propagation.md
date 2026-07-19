@@ -1,23 +1,24 @@
 ---
-title: "Propagasi harapan"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: Propagasi harapan
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /id/terms/expectation_propagation/
-date: "2026-07-18T15:49:47.840482Z"
-lastmod: "2026-07-18T16:38:07.456459Z"
+slug: expectation_propagation
+date: '2026-07-18T15:49:47.840482Z'
+lastmod: '2026-07-18T16:38:07.456459Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Algoritma inferensi perkiraan yang digunakan untuk memperkirakan distribusi posterior dalam model grafis probabilitas yang kompleks."
+source: agnes_llm
+status: published
+language: id
+description: Algoritma inferensi perkiraan yang digunakan untuk memperkirakan distribusi
+  posterior dalam model grafis probabilitas yang kompleks.
 ---
-
 ## Definition
 
 Propagasi Harapan (EP) mengaproksimasi integral yang tidak dapat dihitung dengan secara iteratif menyempurnakan aproksimasi Gaussian terhadap distribusi posterior yang sebenarnya. Metode ini meminimalkan divergensi Kullback-Leibler antara distribusi aproksimasi dan distribusi target, sering kali lebih akurat daripada inferensi variasional standar.

@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /id/terms/together/
 date: "2026-07-18T15:30:15.952156Z"
 lastmod: "2026-07-18T16:38:07.404721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Istilah 'bersama-sama' umumnya menggambarkan sistem AI kolaboratif atau metode ensambel, di mana beberapa model atau agen bekerja secara terkoordinasi untuk mencapai hasil yang terpadu."
 ---
-
 ## Definition
 
 Meskipun bukan istilah teknis yang ketat, 'bersama-sama' dalam konteks AI sering menyiratkan kolaborasi, seperti sistem multi-agen yang bekerja menuju tujuan bersama atau pembelajaran ensambel di mana beberapa model menggabungkan prediksi mereka untuk meningkatkan akurasi dan robustness.

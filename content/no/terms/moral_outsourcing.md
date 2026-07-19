@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /no/terms/moral_outsourcing/
 date: "2026-07-18T16:07:42.339330Z"
 lastmod: "2026-07-18T16:38:07.026220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Det etiske problemet der individer eller organisasjoner overlater ansvar for moralske avgjørelser til automatiserte AI-systemer."
 ---
-
 ## Definition
 
 Moralisk utkontrahering refererer til fenomenet der mennesker avstår etisk dømmekraft og ansvar til algoritmer eller AI-systemer. Dette skjer når folk stoler på automatiserte beslutninger for moralskt signifikante

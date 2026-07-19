@@ -1,23 +1,23 @@
 ---
-title: "การวางแผน"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: การวางแผน
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /th/terms/planning/
-date: "2026-07-18T15:36:44.688197Z"
-lastmod: "2026-07-18T16:38:07.563368Z"
+slug: planning
+date: '2026-07-18T15:36:44.688197Z'
+lastmod: '2026-07-18T16:38:07.563368Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการทางปัญญาในการสร้างลำดับการกระทำเพื่อให้บรรลุเป้าหมายเฉพาะภายในสภาพแวดล้อมที่กำหนด"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการทางปัญญาในการสร้างลำดับการกระทำเพื่อให้บรรลุเป้าหมายเฉพาะภายในสภาพแวดล้อมที่กำหนด
 ---
-
 ## Definition
 
 การวางแผนในปัญญาประดิษฐ์ (AI) เกี่ยวข้องกับการกำหนดลำดับการกระทำที่จะนำไปจากสถานะเริ่มต้นไปสู่สถานะเป้าหมายที่ต้องการ โดยจำเป็นต้องใช้เหตุผลเกี่ยวกับผลกระทบของการกระทำและข้อจำกัดของสภาพแวดล้อม

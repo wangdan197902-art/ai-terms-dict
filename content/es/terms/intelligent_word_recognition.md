@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /es/terms/intelligent_word_recognition/
 date: "2026-07-18T10:55:13.198141Z"
 lastmod: "2026-07-18T11:44:44.820771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El uso de algoritmos de IA, particularmente el aprendizaje profundo, para identificar e interpretar texto con precisión a partir de imágenes o fuentes manuscritas."
 ---
-
 ## Definition
 
 El Reconocimiento Inteligente de Palabras se refiere a tecnologías avanzadas de reconocimiento óptico de caracteres (OCR) impulsadas por redes neuronales. Va más allá de la simple coincidencia de patrones al comprender el contexto y manejar la variabilidad en la escritura, mejorando la exactitud en entornos no estructurados.

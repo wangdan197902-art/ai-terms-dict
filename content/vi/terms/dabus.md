@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /vi/terms/dabus/
 date: "2026-07-18T15:46:50.868975Z"
 lastmod: "2026-07-18T16:38:07.741857Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "DABUS là viết tắt của Device for the Autonomous Bootstrapping of Unified Sentience (Thiết bị Khởi tạo Tự động cho Trí tuệ Thống nhất), một hệ thống AI do Stephen Thaler tạo ra, tuyên bố có khả năng tự"
 ---
-
 ## Definition
 
 DABUS là một mạng nơ-ron nhân tạo cụ thể được thiết kế để tạo ra các phát minh mới mà không cần sự can thiệp trực tiếp của con người. Nó đã thu hút sự chú ý đáng kể về mặt pháp lý khi người sáng tạo ra nó, Stephen Thaler, cố gắng

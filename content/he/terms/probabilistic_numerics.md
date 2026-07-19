@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /he/terms/probabilistic_numerics/
 date: "2026-07-18T16:18:43.604728Z"
 lastmod: "2026-07-18T17:15:09.575468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תחום הרואה בבעיות חישוב נומריות משימות הסקה סטטיסטית כדי לכמת אי-ודאות בתוצאות."
 ---
-
 ## Definition
 
 נומריות הסתברותית מיישמת שיטות בייסיאניות על בעיות נומריות מסורתיות כמו אינטגרציה, גזירה ואלגברה לינארית. במקום לספק הערכות נקודתיות, היא מפיקת התפלגויות הסתברות.

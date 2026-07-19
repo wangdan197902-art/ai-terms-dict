@@ -1,23 +1,24 @@
 ---
-title: "Planlama"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Planlama
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /tr/terms/planning/
-date: "2026-07-18T15:36:33.799547Z"
-lastmod: "2026-07-18T16:38:07.261418Z"
+slug: planning
+date: '2026-07-18T15:36:33.799547Z'
+lastmod: '2026-07-18T16:38:07.261418Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli hedeflere ulaşmak için tanımlanmış bir ortamda bir dizi eylem üretme bilişsel süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli hedeflere ulaşmak için tanımlanmış bir ortamda bir dizi eylem
+  üretme bilişsel süreci.
 ---
-
 ## Definition
 
 Yapay zekada planlama, başlangıç durumundan istenen bir hedef duruma ulaşacak bir eylem dizisi belirlemeyi içerir. Bu süreç, eylemlerin etkilerini ve ortamın kısıtlamalarını düşünmeyi gerektirir.

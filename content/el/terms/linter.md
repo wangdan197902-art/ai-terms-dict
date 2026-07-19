@@ -1,23 +1,24 @@
 ---
-title: "Linter (Εργαλείο στατικής ανάλυσης κώδικα)"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Linter (Εργαλείο στατικής ανάλυσης κώδικα)
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /el/terms/linter/
-date: "2026-07-18T16:18:35.726857Z"
-lastmod: "2026-07-18T17:15:09.926770Z"
+slug: linter
+date: '2026-07-18T16:18:35.726857Z'
+lastmod: '2026-07-18T17:15:09.926770Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα εργαλείο στατικής ανάλυσης κώδικα που χρησιμοποιείται για τον εντοπισμό σφαλμάτων προγραμματισμού, σφαλμάτων, στιλιστικών λαθών και αμφίβολων δομών."
+source: agnes_llm
+status: published
+language: el
+description: Ένα εργαλείο στατικής ανάλυσης κώδικα που χρησιμοποιείται για τον εντοπισμό
+  σφαλμάτων προγραμματισμού, σφαλμάτων, στιλιστικών λαθών και αμφίβολων δομών.
 ---
-
 ## Definition
 
 Ένα linter είναι ένα βοηθητικό πρόγραμμα που εκτελεί στατική ανάλυση στον πηγαίο κώδικα χωρίς να τον εκτελεί. Ελέγχει για συντακτικά λάθη, πιθανά σφάλματα, 'code smells' (μυρωδιές κώδικα) και αποκλίσεις από τους οδηγούς στυλ ή τις βέλτιστες πρακτικές.

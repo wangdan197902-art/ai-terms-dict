@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /ro/terms/mechanistic_interpretability/
 date: "2026-07-18T16:11:19.510380Z"
 lastmod: "2026-07-18T17:15:09.680023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare de înțelegere a modelelor AI prin analizarea componentelor și mecanismelor interne, nu doar a comportamentului lor de intrare-ieșire."
 ---
-
 ## Definition
 
 Interpretabilitatea mecanică se concentrează pe „ingineria inversă” a rețelelor neuronale pentru a înțelege cum calculează funcții specifice la nivelul neuronilor individuali, greutăților și circuitelor. În loc să trateze modelul ca pe o cutie neagră, această abordare caută să mapeze structura arhitecturală direct la logica computațională și la reprezentările interne ale datelor.

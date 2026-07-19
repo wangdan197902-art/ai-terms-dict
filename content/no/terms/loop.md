@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /no/terms/loop/
 date: "2026-07-18T15:27:40.492815Z"
 lastmod: "2026-07-18T16:38:06.940466Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En programmeringskonstruksjon som gjentar en blokk med kode flere ganger inntil en betingelse er oppfylt."
 ---
-
 ## Definition
 
 En grunnleggende kontrollflytstruktur innen informatikk og AI-utvikling. En løppe lar algoritmer iterere gjennom datasett, utføre gjentatte beregninger eller kjøre treningsøkter (epochs). Vanlige typer inkluderer for-løkker og while-løkker.

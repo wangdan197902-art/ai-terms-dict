@@ -1,23 +1,25 @@
 ---
-title: "Actor-Critic-Algorithmus"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Actor-Critic-Algorithmus
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /de/terms/actor_critic_algorithm/
-date: "2026-07-18T11:01:56.679087Z"
-lastmod: "2026-07-18T11:44:44.906489Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T11:01:56.679087Z'
+lastmod: '2026-07-18T11:44:44.906489Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Framework des verstärkenden Lernens, das wertbasierte und politikbasierte Methoden kombiniert, indem zwei neuronale Netze verwendet werden: einen Actor und einen Critic."
+source: agnes_llm
+status: published
+language: de
+description: 'Ein Framework des verstärkenden Lernens, das wertbasierte und politikbasierte
+  Methoden kombiniert, indem zwei neuronale Netze verwendet werden: einen Actor und
+  einen Critic.'
 ---
-
 ## Definition
 
 Der Actor-Critic-Algorithmus verwendet zwei Komponenten: den Actor, der die Politik aktualisiert, um Aktionen auszuwählen, und den Critic, der die Qualität dieser Aktionen bewertet, indem er die Wertfunktion schätzt.

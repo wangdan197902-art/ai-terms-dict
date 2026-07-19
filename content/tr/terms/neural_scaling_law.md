@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /tr/terms/neural_scaling_law/
 date: "2026-07-18T16:06:06.142744Z"
 lastmod: "2026-07-18T16:38:07.340586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Veri, parametre veya hesaplama gücündeki artışlara dayalı olarak model performans iyileşmelerini tahmin eden ampirik ilişkiler."
 ---
-
 ## Definition
 
 Sinirsel ölçekleme yasaları, bir modelin performansı ile ölçeği (veri seti boyutu, parametre sayısı ve hesaplama bütçesi) arasındaki öngörülebilir güç yasası ilişkisini tanımlar. Bu yasalar, kaynakların optimal dağılımını sağlar.

@@ -7,8 +7,6 @@ tags: ["theory", "complexity", "mathematics"]
 difficulty: 4
 weight: 1
 slug: "chaos"
-aliases:
-  - /da/terms/chaos/
 date: "2026-07-18T15:44:52.663769Z"
 lastmod: "2026-07-18T17:15:09.266811Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Inden for AI refererer kaos til komplekse, ikke-lineære dynamiske systemer, der er meget følsomme over for startbetingelser og ofte ser tilfældige ud, men styres af deterministiske regler."
 ---
-
 ## Definition
 
 Kaos-teori undersøger, hvordan små variationer i startparametre kan føre til vidt forskellige resultater i komplekse systemer. Inden for kunstig intelligens er det afgørende at forstå kaotisk adfærd for at modellere og håndtere kompleksitet i systemer, hvor små ændringer har store konsekvenser.

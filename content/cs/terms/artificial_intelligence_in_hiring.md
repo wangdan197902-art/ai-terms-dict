@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /cs/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:42:16.137546Z"
 lastmod: "2026-07-18T17:15:09.102852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Používání nástrojů AI ke zefektivnění náborových procesů, včetně skenování životopisů, párování kandidátů a analýzy pohovorů."
 ---
-
 ## Definition
 
 AI při náboru využívá algoritmy k automatizaci a vylepšení různých fází životního cyklu náboru. Nástroje analyzují životopisy podle relevance klíčových slov, posuzují vhodnost kandidátů pomocí prediktivního modelování a dále optimalizují proces.

@@ -1,23 +1,24 @@
 ---
-title: "Оценка плотности ядром"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Оценка плотности ядром
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /ru/terms/kernel_density_estimation/
-date: "2026-07-18T15:59:56.919077Z"
-lastmod: "2026-07-18T16:38:07.171312Z"
+slug: kernel_density_estimation
+date: '2026-07-18T15:59:56.919077Z'
+lastmod: '2026-07-18T16:38:07.171312Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Непараметрический метод оценки функции плотности вероятности случайной величины на основе конечной выборки данных."
+source: agnes_llm
+status: published
+language: ru
+description: Непараметрический метод оценки функции плотности вероятности случайной
+  величины на основе конечной выборки данных.
 ---
-
 ## Definition
 
 Оценка плотности ядром (KDE) — это фундаментальный статистический метод, который сглаживает дискретные точки данных для создания непрерывной кривой распределения вероятностей. В каждой точке выборки размещается ядерная функция, обычно гауссов...

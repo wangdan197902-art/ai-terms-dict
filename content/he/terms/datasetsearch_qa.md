@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /he/terms/datasetsearch_qa/
 date: "2026-07-18T15:52:35.777721Z"
 lastmod: "2026-07-18T17:15:09.529562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים המתמקדת במשימות שאלה-תשובה הנגזרות מיומיני מנועי חיפוש או שאילתות אינטרנט, תוך דגש על אחזור מידע בעולם האמיתי."
 ---
-
 ## Definition
 
 מערכות נתוני Search QA מורכבות בדרך כלל מזוגות של שאילתות חיפוש וקטעי תשובה רלוונטיים או מסמכים הנחצבים מתוצאות מנועי חיפוש. מערכות נתונים אלו קריטיות לאימון מודלים להבנת

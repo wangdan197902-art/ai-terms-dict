@@ -1,23 +1,24 @@
 ---
-title: "التعلم الآلي في ألعاب الفيديو"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: التعلم الآلي في ألعاب الفيديو
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /ar/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:12:08.455282Z"
-lastmod: "2026-07-18T17:15:08.525484Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:12:08.455282Z'
+lastmod: '2026-07-18T17:15:08.525484Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تطبيق خوارزميات التعلم الآلي لتعزيز تطوير الألعاب، وإنشاء شخصيات غير لاعبة متكيفة، وتحسين تجارب اللعب."
+source: agnes_llm
+status: published
+language: ar
+description: تطبيق خوارزميات التعلم الآلي لتعزيز تطوير الألعاب، وإنشاء شخصيات غير
+  لاعبة متكيفة، وتحسين تجارب اللعب.
 ---
-
 ## Definition
 
 يتضمن هذا المجال دمج تقنيات التعلم الآلي في خطوط إنتاج ألعاب الفيديو لأتمتة إنشاء الأصول، وموازنة ميكانيكا اللعبة، وتوليد محتوى ديناميكي. يمتد هذا المجال من استخدام التعلم التعزيزي...

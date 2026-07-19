@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /de/terms/m_theory/
 date: "2026-07-18T11:22:32.670910Z"
 lastmod: "2026-07-18T11:44:44.961279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die M-Theorie ist ein theoretischer Rahmen in der Physik, der fünf verschiedene Versionen der Stringtheorie vereint und vorschlägt, dass fundamentale Teilchen Schwingungen eindimensionaler Membranen i"
 ---
-
 ## Definition
 
 Obwohl sie primär ein Konzept der theoretischen Physik und nicht der Informatik ist, wird die M-Theorie gelegentlich in fortgeschrittenen Computersimulationen und Quantencomputing-Forschung erwähnt. Sie legt nahe, dass...

@@ -1,23 +1,24 @@
 ---
-title: "الأتمتة في قطاع البناء"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: الأتمتة في قطاع البناء
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /ar/terms/automation_in_construction/
-date: "2026-07-18T15:46:36.812106Z"
-lastmod: "2026-07-18T17:15:08.479507Z"
+slug: automation_in_construction
+date: '2026-07-18T15:46:36.812106Z'
+lastmod: '2026-07-18T17:15:08.479507Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تطبيق الروبوتات والذكاء الاصطناعي لتبسيط عمليات البناء وتحسين السلامة في الموقع."
+source: agnes_llm
+status: published
+language: ar
+description: تطبيق الروبوتات والذكاء الاصطناعي لتبسيط عمليات البناء وتحسين السلامة
+  في الموقع.
 ---
-
 ## Definition
 
 تشير الأتمتة في البناء إلى دمج الأنظمة الروبوتية والطائرات بدون طيار وأدوات إدارة المشاريع المدعومة بالذكاء الاصطناعي في دورة حياة المبنى. تساعد هذه التقنيات في مهام تتراوح بين وضع الطوب ذاتياً ومراقبة الجودة عبر الصور الجوية، وصولاً إلى تحسين الجداول الزمنية، مما يزيد الكفاءة ويقلل المخاطر البشرية.

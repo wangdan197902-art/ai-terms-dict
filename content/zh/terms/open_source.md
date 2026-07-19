@@ -1,23 +1,22 @@
 ---
-title: "开源"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: 开源
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /zh/terms/open_source/
-date: "2026-07-18T10:57:10.837304Z"
-lastmod: "2026-07-18T11:44:45.393813Z"
+slug: open_source
+date: '2026-07-18T10:57:10.837304Z'
+lastmod: '2026-07-18T11:44:45.393813Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "源代码向公众免费开放，允许任何人使用、修改和分发的软件。"
+source: agnes_llm
+status: published
+language: zh
+description: 源代码向公众免费开放，允许任何人使用、修改和分发的软件。
 ---
-
 ## Definition
 
 开源指的是一种开发模式，软件项目的底层代码公开可用。在人工智能领域，这使得研究人员和开发人员能够检查、修改和重新分发算

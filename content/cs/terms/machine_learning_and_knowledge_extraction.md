@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /cs/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T16:07:29.654759Z"
 lastmod: "2026-07-18T17:15:09.150610Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces využívající algoritmy strojového učení k automatické identifikaci vzorů a odvozování strukturovaných informací z velkých, nestrukturovaných datových sad."
 ---
-
 ## Definition
 
 Toto obor kombinuje techniky strojového učení s zpracováním přirozeného jazyka a těžbou dat za účelem převodu surových dat na akcionovatelné znalosti. Zahrnuje trénování modelů pro rozpoznávání entit, vztahů a konceptů, což umožňuje automatizovat analýzu textu a získávat cenné poznatky z neuspořádaných zdrojů.

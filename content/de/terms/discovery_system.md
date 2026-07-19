@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /de/terms/discovery_system/
 date: "2026-07-18T11:12:24.146235Z"
 lastmod: "2026-07-18T11:44:44.933947Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein automatisiertes Framework oder algorithmischer Prozess, der darauf ausgelegt ist, potenzielle Lösungen, Muster oder Hypothesen in einem großen Suchraum zu identifizieren, zu erkunden und zu bewert"
 ---
-
 ## Definition
 
 Ein Discovery System ist ein computergestütztes Framework, das darauf abzielt, wissenschaftliche oder analytische Durchbrüche zu beschleunigen, indem es die Erkundung riesiger Datenräume automatisiert. Im Gegensatz zur traditionellen Optimierung, die oft nur nach lokalen Optima sucht, zielen Discovery Systems darauf ab, globale Muster zu finden, neue Hypothesen zu generieren und unbekannte Zusammenhänge in hochdimensionalen Räumen aufzudecken.

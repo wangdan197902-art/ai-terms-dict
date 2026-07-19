@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /ro/terms/cli/
 date: "2026-07-18T15:34:44.277494Z"
 lastmod: "2026-07-18T17:15:09.612429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Interfața liniei de comandă (CLI) este o metodă bazată pe text pentru interacțiunea cu programele software, tastând comenzi într-un terminal."
 ---
-
 ## Definition
 
 O interfață linie de comandă (CLI) permite utilizatorilor să controleze software-ul introducând comenzi textuale, în loc să folosească elemente grafice. În dezvoltarea AI, CLI-urile sunt esențiale pentru rularea scripturilor, gestionarea resurselor

@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /sv/terms/neural_modeling_fields/
 date: "2026-07-18T16:11:33.741042Z"
 lastmod: "2026-07-18T17:15:09.030857Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett teoretiskt ramverk som beskriver den rumsliga och funktionella organisationen av neurala aktivitetsmönster."
 ---
-
 ## Definition
 
 Neurala modelleringsfält innebär studiet av hur neurala populationer organiserar sig i högdimensionella utrymmen för att representera information. Detta begrepp relaterar ofta till topologiska avbildningar och fältteori.

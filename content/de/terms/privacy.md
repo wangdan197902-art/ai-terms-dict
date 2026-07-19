@@ -1,23 +1,24 @@
 ---
-title: "Datenschutz"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Datenschutz
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /de/terms/privacy/
-date: "2026-07-18T10:52:57.913667Z"
-lastmod: "2026-07-18T11:44:44.881066Z"
+slug: privacy
+date: '2026-07-18T10:52:57.913667Z'
+lastmod: '2026-07-18T11:44:44.881066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Das Recht von Personen, zu kontrollieren, wie ihre persönlichen Daten innerhalb von KI-Systemen erfasst, verwendet und weitergegeben werden."
+source: agnes_llm
+status: published
+language: de
+description: Das Recht von Personen, zu kontrollieren, wie ihre persönlichen Daten
+  innerhalb von KI-Systemen erfasst, verwendet und weitergegeben werden.
 ---
-
 ## Definition
 
 Im Kontext der künstlichen Intelligenz bezeichnet Datenschutz den Schutz sensibler Benutzerinformationen vor unbefugtem Zugriff oder Missbrauch während der Phasen der Datenerfassung, des Modelltrainings und der Inferenz. Er umfasst Maßnahmen zur Sicherstellung der Vertraulichkeit und Integrität personenbezogener Daten.

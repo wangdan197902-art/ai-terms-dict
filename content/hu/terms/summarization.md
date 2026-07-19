@@ -1,23 +1,24 @@
 ---
-title: "Összefoglalás"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Összefoglalás
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /hu/terms/summarization/
-date: "2026-07-18T15:39:55.777444Z"
-lastmod: "2026-07-18T17:15:09.745527Z"
+slug: summarization
+date: '2026-07-18T15:39:55.777444Z'
+lastmod: '2026-07-18T17:15:09.745527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy NLP-feladat, amely tömör és koherens összefoglalót generál egy hosszabb szövegből, megőrizve annak kulcsfontosságú információit."
+source: agnes_llm
+status: published
+language: hu
+description: Egy NLP-feladat, amely tömör és koherens összefoglalót generál egy hosszabb
+  szövegből, megőrizve annak kulcsfontosságú információit.
 ---
-
 ## Definition
 
 A szövegösszefoglalás nagy mennyiségű szöveget rövidít le kritikus jelentésvesztés nélkül. Kivonatos (extractive) lehet, amikor fontos mondatokat választ ki a forrásból, vagy absztrakt (abstractive), amikor új szöveget generál.

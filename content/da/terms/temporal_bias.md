@@ -1,23 +1,24 @@
 ---
-title: "Temporalt bias"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Temporalt bias
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /da/terms/temporal_bias/
-date: "2026-07-18T16:22:10.770705Z"
-lastmod: "2026-07-18T17:15:09.336169Z"
+slug: temporal_bias
+date: '2026-07-18T16:22:10.770705Z'
+lastmod: '2026-07-18T17:15:09.336169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En systematisk fejl, hvor modeller prioriterer nyere data frem for historisk kontekst, hvilket fører til skæve forudsigelser."
+source: agnes_llm
+status: published
+language: da
+description: En systematisk fejl, hvor modeller prioriterer nyere data frem for historisk
+  kontekst, hvilket fører til skæve forudsigelser.
 ---
-
 ## Definition
 
 Temporalt bias opstår, når maskinlæringsmodeller tillægger nyere observationer en uforholdsmæssig stor vægt i forhold til ældre, ofte på grund af ikke-stationære datafordelinger eller specifikke træningsprotokoller.

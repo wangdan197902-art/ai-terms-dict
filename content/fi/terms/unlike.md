@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /fi/terms/unlike/
 date: "2026-07-18T15:32:56.079302Z"
 lastmod: "2026-07-18T17:15:09.362222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Logiikkaoperaattori, jota käytetään SQL:ssä ja ohjelmoinnissa suodattamaan ne tietueet, jotka eivät täytä määritettyä ehtoa."
 ---
-
 ## Definition
 
 Tietokantahakuissa ja logiikassa 'Ei kuten' viittaa yleensä operaattoriin NOT LIKE, joka suorittaa vastakkaisen kuvion etsinnän. Se palauttaa totuuden arvon niille riveille, joiden sarakkeen arvo ei vastaa annettua kuvioita.

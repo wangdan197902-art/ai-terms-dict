@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /it/terms/furthermore/
 date: "2026-07-18T15:25:18.137040Z"
 lastmod: "2026-07-18T17:15:08.566473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un avverbio transizionale utilizzato per introdurre informazioni aggiuntive o rafforzare un argomento precedente nella scrittura tecnica."
 ---
-
 ## Definition
 
 Sebbene non sia un algoritmo tecnico, 'inoltre' è uno strumento linguistico critico nella documentazione e nei documenti di ricerca sull'IA. Serve a collegare le idee, indicando che la dichiarazione successiva aggiunge peso o

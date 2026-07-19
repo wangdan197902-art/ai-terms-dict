@@ -1,23 +1,25 @@
 ---
-title: "Normalización por lotes"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Normalización por lotes
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /es/terms/batch_normalization/
-date: "2026-07-18T10:37:53.983629Z"
-lastmod: "2026-07-18T11:44:44.781368Z"
+slug: batch_normalization
+date: '2026-07-18T10:37:53.983629Z'
+lastmod: '2026-07-18T11:44:44.781368Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La normalización por lotes es una técnica que normaliza las entradas de una capa a lo largo de un mini-lote para estabilizar y acelerar el entrenamiento de redes neuronales."
+source: agnes_llm
+status: published
+language: es
+description: La normalización por lotes es una técnica que normaliza las entradas
+  de una capa a lo largo de un mini-lote para estabilizar y acelerar el entrenamiento
+  de redes neuronales.
 ---
-
 ## Definition
 
 Este método ajusta y escala las activaciones para tener media cero y varianza unidad dentro de cada mini-lote durante el entrenamiento. Reduce el desplazamiento de covarianza interna, permitiendo tasas de aprendizaje más altas y un entrenamiento más rápido.

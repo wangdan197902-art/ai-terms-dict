@@ -1,23 +1,23 @@
 ---
-title: "경험적 위험 최소화"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: 경험적 위험 최소화
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /ko/terms/empirical_risk_minimization/
-date: "2026-07-18T15:54:35.962530Z"
-lastmod: "2026-07-18T16:38:06.836908Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:54:35.962530Z'
+lastmod: '2026-07-18T16:38:06.836908Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "관측된 학습 데이터에 대한 평균 손실을 최소화하려는 머신러닝의 기본 원리입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 관측된 학습 데이터에 대한 평균 손실을 최소화하려는 머신러닝의 기본 원리입니다.
 ---
-
 ## Definition
 
 경험적 위험 최소화(ERM)는 지도 학습 모델을 훈련하기 위한 표준 목적 함수입니다. 이는 주어진 함수 클래스에서 평균 경험적 손실(학습 오차)을 최소화하는 가설을 선택하는 과정을 포함합니다.

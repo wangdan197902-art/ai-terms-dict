@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /ru/terms/datasetsnli/
 date: "2026-07-18T15:48:39.675110Z"
 lastmod: "2026-07-18T16:38:07.146160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Стэнфордский корпус естественного вывода (Natural Language Inference), крупный набор данных английских предложений, парах с человеческими метками текстового следования."
 ---
-
 ## Definition
 
 SNLI — это эталонный набор данных, содержащий более 500 000 помеченных пар предложений, аннотированных тремя классами: следование (entailment), противоречие (contradiction) и нейтральность (neutral). Он был создан для продвижения исследований в области естественного языка.

@@ -1,23 +1,24 @@
 ---
-title: "Principiul raționalității"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Principiul raționalității
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /ro/terms/principle_of_rationality/
-date: "2026-07-18T16:16:45.370964Z"
-lastmod: "2026-07-18T17:15:09.692832Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:16:45.370964Z'
+lastmod: '2026-07-18T17:15:09.692832Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Ipoteza fundamentală conform căreia agenții inteligenți acționează pentru a-și maximiza utilitatea așteptată pe baza informațiilor disponibile."
+source: agnes_llm
+status: published
+language: ro
+description: Ipoteza fundamentală conform căreia agenții inteligenți acționează pentru
+  a-și maximiza utilitatea așteptată pe baza informațiilor disponibile.
 ---
-
 ## Definition
 
 Acest principiu susține că acțiunile unui agent ar trebui alese pentru a-și maximiza măsura de performanță așteptată, având în vedere intrările sale perceptive și cunoștințele anterioare. Servește ca fundament pentru teoria deciziei.

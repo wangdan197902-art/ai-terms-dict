@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /zh/terms/regularization/
 date: "2026-07-18T11:32:02.609270Z"
 lastmod: "2026-07-18T11:44:45.550128Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一组在训练过程中使用的技术，通过对损失函数添加惩罚项或限制模型复杂度来防止过拟合。"
 ---
-
 ## Definition
 
 正则化是机器学习中一个关键概念，旨在不显著增加训练误差的情况下减少泛化误差。它通过阻止模型学习过于复杂的模式来发挥作用。

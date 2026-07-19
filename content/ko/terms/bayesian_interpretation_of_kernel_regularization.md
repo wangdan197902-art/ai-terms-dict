@@ -1,23 +1,23 @@
 ---
-title: "커널 정규화의 베이지안 해석"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: 커널 정규화의 베이지안 해석
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /ko/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:43:32.985690Z"
-lastmod: "2026-07-18T16:38:06.812886Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:43:32.985690Z'
+lastmod: '2026-07-18T16:38:06.812886Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "SVM과 같은 커널 방법과 베이지안 사전 가정 하에서 가우시안 프로세스를 연결하는 이론적 프레임워크입니다."
+source: agnes_llm
+status: published
+language: ko
+description: SVM과 같은 커널 방법과 베이지안 사전 가정 하에서 가우시안 프로세스를 연결하는 이론적 프레임워크입니다.
 ---
-
 ## Definition
 
 이 개념은 특정 커널을 사용하여 정규화된 위험 함수를 최소화하는 것이 베이지안 프레임워크에서 사후 최확(MAP) 추정을 찾는 것과 동일함을 보여줍니다. 구체적으로,

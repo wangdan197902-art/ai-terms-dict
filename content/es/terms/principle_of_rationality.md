@@ -1,23 +1,24 @@
 ---
-title: "Principio de racionalidad"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Principio de racionalidad
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /es/terms/principle_of_rationality/
-date: "2026-07-18T11:04:31.411200Z"
-lastmod: "2026-07-18T11:44:44.844464Z"
+slug: principle_of_rationality
+date: '2026-07-18T11:04:31.411200Z'
+lastmod: '2026-07-18T11:44:44.844464Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La suposición fundamental de que los agentes inteligentes actúan para maximizar su utilidad esperada basada en la información disponible."
+source: agnes_llm
+status: published
+language: es
+description: La suposición fundamental de que los agentes inteligentes actúan para
+  maximizar su utilidad esperada basada en la información disponible.
 ---
-
 ## Definition
 
 Este principio postula que las acciones de un agente deben elegirse para maximizar su medida de rendimiento esperado, dados sus entradas perceptuales y conocimientos previos. Sirve como base para la teoría de la decisión.

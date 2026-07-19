@@ -1,23 +1,25 @@
 ---
-title: "Clipare"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Clipare
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /ro/terms/clip/
-date: "2026-07-18T15:49:19.178957Z"
-lastmod: "2026-07-18T17:15:09.636486Z"
+slug: clip
+date: '2026-07-18T15:49:19.178957Z'
+lastmod: '2026-07-18T17:15:09.636486Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Cliparea este o tehnică utilizată pentru a limita magnitudinea valorilor, cum ar fi gradientele sau probabilitățile de ieșire, pentru a preveni instabilitatea numerică în timpul antrenamentului."
+source: agnes_llm
+status: published
+language: ro
+description: Cliparea este o tehnică utilizată pentru a limita magnitudinea valorilor,
+  cum ar fi gradientele sau probabilitățile de ieșire, pentru a preveni instabilitatea
+  numerică în timpul antrenamentului.
 ---
-
 ## Definition
 
 În ingineria învățării profunde, cliparea este aplicată comun gradientelor pentru a atenua problema gradientelor explozive, asigurând o propagare înapoi stabilă. De asemenea, poate face referire la limitarea logiturilor de ieșire înainte

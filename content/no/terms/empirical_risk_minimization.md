@@ -1,23 +1,24 @@
 ---
-title: "Empirisk risikominimering"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Empirisk risikominimering
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /no/terms/empirical_risk_minimization/
-date: "2026-07-18T15:53:18.003227Z"
-lastmod: "2026-07-18T16:38:06.997617Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:53:18.003227Z'
+lastmod: '2026-07-18T16:38:06.997617Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et grunnleggende prinsipp innen maskinlæring som søker å minimere gjennomsnittlig tap over observerte treningsdata."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et grunnleggende prinsipp innen maskinlæring som søker å minimere gjennomsnittlig
+  tap over observerte treningsdata.
 ---
-
 ## Definition
 
 Empirisk risikominimering (ERM) er den standard objektive funksjonen for trening av overvåkede læringsmodeller. Det involverer valg av en hypotese fra en klasse av funksjoner som minimerer gjennomsnittlig empirisk...

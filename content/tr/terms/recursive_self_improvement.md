@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /tr/terms/recursive_self_improvement/
 date: "2026-07-18T16:11:54.129429Z"
 lastmod: "2026-07-18T16:38:07.359028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka sisteminin kendi kaynak kodunu veya mimarisini yeniden yazarak zekasını, verimliliğini veya yeteneklerini yinelemeli olarak artırması sürecidir."
 ---
-
 ## Definition
 
 Özyinelemeli kendi kendine geliştirme, bir yapay zeka sisteminin daha akıllı, verimli veya yetkin hale gelmek amacıyla kendi kaynak kodunu veya mimarisini yeniden yazabilmesi teorisini ifade eder. Bu kavram, genellikle yapay zekanın kendi kendini optimize eden döngüler aracılığıyla hızla geliştiği ve potansiyel olarak bir 'tekillik' noktasına ulaştığı senaryolarla ilişkilendirilir.

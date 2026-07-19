@@ -1,23 +1,23 @@
 ---
-title: "추론"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: 추론
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /ko/terms/reasoning/
-date: "2026-07-18T15:36:05.902146Z"
-lastmod: "2026-07-18T16:38:06.799567Z"
+slug: reasoning
+date: '2026-07-18T15:36:05.902146Z'
+lastmod: '2026-07-18T16:38:06.799567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "추론은 이용 가능한 정보를 바탕으로 결론을 도출하거나, 예측을 수행하며, 문제를 해결하는 인지적 과정을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 추론은 이용 가능한 정보를 바탕으로 결론을 도출하거나, 예측을 수행하며, 문제를 해결하는 인지적 과정을 의미합니다.
 ---
-
 ## Definition
 
 AI에서 추론은 데이터를 처리하고 통찰력을 생성하기 위해 논리적 연역, 귀납 또는 아브덕션(abduction)을 시뮬레이션하는 알고리즘을 포함합니다. 여기에는 기호 논리(symbolic logic), 확률적 추론(probabilistic inference) 등 다양한 기법이 포괄됩니다.

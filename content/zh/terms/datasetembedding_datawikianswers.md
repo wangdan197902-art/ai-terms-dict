@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /zh/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T11:13:01.751986Z"
 lastmod: "2026-07-18T11:44:45.477407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个包含来自 WikiAnswers 的问题-答案对的数据集，用于训练理解意图和语义等价性的模型。"
 ---
-
 ## Definition
 
 该数据集包含从已停用的 WikiAnswers 平台抓取的海量问答对。它主要用于训练稠密段落检索和语义匹配模型。通过利...

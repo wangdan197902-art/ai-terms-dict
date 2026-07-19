@@ -1,23 +1,24 @@
 ---
-title: "Tekoälyn laitteisto"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Tekoälyn laitteisto
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /fi/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T16:00:54.127632Z"
-lastmod: "2026-07-18T17:15:09.418048Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T16:00:54.127632Z'
+lastmod: '2026-07-18T17:15:09.418048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Erikoistuneet fyysiset komponentit, jotka on suunniteltu kiihdyttämään koneoppimisalgoritmien ja neuroverkkojen koulutuksen laskennallisia vaatimuksia."
+source: agnes_llm
+status: published
+language: fi
+description: Erikoistuneet fyysiset komponentit, jotka on suunniteltu kiihdyttämään
+  koneoppimisalgoritmien ja neuroverkkojen koulutuksen laskennallisia vaatimuksia.
 ---
-
 ## Definition
 
 Tekoälyn laitteisto viittaa erikoistuneisiin tietokonetekniikoihin, jotka on optimoitu koneoppimisrasitusten vaativaan rinnakkaiskäsittelyyn. Tämä sisältää grafiikkasuorittimia (GPU) yleiskäyttöiseen rinnakkaiskäsittelyyn ja erityisiä tekoälysuorittimia (TPU) tensorilaskuihin.

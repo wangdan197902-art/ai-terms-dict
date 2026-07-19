@@ -1,23 +1,24 @@
 ---
-title: "Długokurkotrwała pamięć krótkotrwała (LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Długokurkotrwała pamięć krótkotrwała (LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /pl/terms/long_short_term_memory/
-date: "2026-07-18T15:35:44.902650Z"
-lastmod: "2026-07-18T17:15:08.833686Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:35:44.902650Z'
+lastmod: '2026-07-18T17:15:08.833686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Specjalizowana architektura rekurencyjnej sieci neuronowej zaprojektowana do nauki długoterminowych zależności w danych sekwencyjnych."
+source: agnes_llm
+status: published
+language: pl
+description: Specjalizowana architektura rekurencyjnej sieci neuronowej zaprojektowana
+  do nauki długoterminowych zależności w danych sekwencyjnych.
 ---
-
 ## Definition
 
 Sieci LSTM rozwiązują problem zanikającego gradientu występujący w standardowych sieciach RNN, używając stanu komórki i trzech mechanizmów bramkujących: wejściowej, wyjściowej i zapominania. Bramki te regulują przepływ informacji...

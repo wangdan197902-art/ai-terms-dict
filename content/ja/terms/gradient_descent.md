@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /ja/terms/gradient_descent/
 date: "2026-07-18T10:59:21.201207Z"
 lastmod: "2026-07-18T11:44:45.048314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルパラメータを調整して損失関数を最小化する反復最適化アルゴリズム。"
 ---
-
 ## Definition
 
 勾配降下法は、微分可能な関数の局所的最小値を見つけるための一階の反復最適化アルゴリズムです。機械学習では、モデルの重みを勾配の逆方向に更新して損失を最小化します。

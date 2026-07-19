@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /sv/terms/gpt2/
 date: "2026-07-18T16:00:23.190497Z"
 lastmod: "2026-07-18T17:15:09.008582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "GPT-2 är en stor språkmodell baserad på transformerarkitektur, utvecklad av OpenAI för textgenerering och förståelse."
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2 (GPT-2) är en autoregressiv språkmodell som använder transformerarkitekturen för att generera mänskliknande text. Den tränades på ett enormt datamängd med internet-text.

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /ko/terms/accountability/
 date: "2026-07-18T15:39:56.055050Z"
 lastmod: "2026-07-18T16:38:06.805416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템의 개발자 및 운영자가 해당 시스템의 결과와 영향에 대해 답변해야 할 의무가 있다는 원칙입니다."
 ---
-
 ## Definition
 
 인공지능에서의 책임성은 개인, 조직, 개발자가 AI 기술의 설계, 배포, 그리고 그로 인한 결과에 대해 책임을 지고 답변해야 할 의무를 의미합니다. 이는 윤리적 AI 구현의 핵심 요소입니다.

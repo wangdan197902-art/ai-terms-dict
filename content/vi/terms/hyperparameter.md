@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /vi/terms/hyperparameter/
 date: "2026-07-18T15:57:10.824185Z"
 lastmod: "2026-07-18T16:38:07.767156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một biến cấu hình có giá trị được thiết lập trước khi quá trình huấn luyện và chi phối hành vi của thuật toán học."
 ---
-
 ## Definition
 
 Khác với các tham số mô hình (như trọng số và độ lệch) được học từ dữ liệu trong quá trình huấn luyện, siêu tham số là các cài đặt bên ngoài do nhà nghiên cứu chọn trước khi bắt đầu huấn luyện. Chúng kiểm soát cấu trúc mô hình, tốc độ học và các quy tắc chính quy hóa, đóng vai trò then chốt trong việc xác định hiệu suất cuối cùng của mô hình.

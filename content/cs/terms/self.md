@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /cs/terms/self/
 date: "2026-07-18T15:29:09.463056Z"
 lastmod: "2026-07-18T17:15:09.078082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V AI se pojem 'sebe' vztahuje k identitě agenta nebo jeho schopnosti sebeodkazného zpracování a introspekce."
 ---
-
 ## Definition
 
 I když současné AI postrádají vědomí, termín 'sebe' často popisuje metakognitivní schopnosti, kde model analyzuje vlastní výstupy, míru jistoty nebo vnitřní stavy. Vyskytuje se v kontextech...

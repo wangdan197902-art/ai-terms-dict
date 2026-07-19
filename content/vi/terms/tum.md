@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /vi/terms/tum/
 date: "2026-07-18T16:15:09.359840Z"
 lastmod: "2026-07-18T16:38:07.813959Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "TUM không phải là viết tắt tiêu chuẩn được công nhận trong thuật ngữ trí tuệ nhân tạo chính thống; nó có thể đề cập đến các ngữ cảnh tổ chức cụ thể như Đại học Kỹ thuật Munich hoặc là một lỗi chính tả"
 ---
-
 ## Definition
 
 Không có định nghĩa được chấp nhận rộng rãi cho 'Tum' như một khái niệm, kỹ thuật hoặc chỉ số cốt lõi của AI trong văn học học thuật hoặc công nghiệp. Nó rất có thể là lỗi chính tả của các thuật ngữ như 'Turing Test' (Bài kiểm tra Turing), 'Transformer Model' (Mô hình Transformer) hoặc tương tự.

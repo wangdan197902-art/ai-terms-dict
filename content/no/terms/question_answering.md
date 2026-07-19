@@ -1,23 +1,24 @@
 ---
-title: "Spørsmålssvar"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Spørsmålssvar
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /no/terms/question_answering/
-date: "2026-07-18T15:38:08.069336Z"
-lastmod: "2026-07-18T16:38:06.961598Z"
+slug: question_answering
+date: '2026-07-18T15:38:08.069336Z'
+lastmod: '2026-07-18T16:38:06.961598Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En NLP-oppgave der et system automatisk gir presise svar på spørsmål stilt på naturlig språk."
+source: agnes_llm
+status: published
+language: 'no'
+description: En NLP-oppgave der et system automatisk gir presise svar på spørsmål
+  stilt på naturlig språk.
 ---
-
 ## Definition
 
 Spørsmålssvar (QA) involverer å hente eller generere nøyaktige svar på brukerforespørsler fra en gitt kontekst eller kunnskapsbase. Det spenner fra lukkede domener (basert på spesifikke dokumenter) til åpne domener.

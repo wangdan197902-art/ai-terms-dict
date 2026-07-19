@@ -1,23 +1,24 @@
 ---
-title: "Puntuación de Inception"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Puntuación de Inception
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /es/terms/inception_score/
-date: "2026-07-18T10:54:34.038936Z"
-lastmod: "2026-07-18T11:44:44.818763Z"
+slug: inception_score
+date: '2026-07-18T10:54:34.038936Z'
+lastmod: '2026-07-18T11:44:44.818763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una métrica utilizada para evaluar la calidad de las imágenes generadas midiendo tanto su claridad como su diversidad."
+source: agnes_llm
+status: published
+language: es
+description: Una métrica utilizada para evaluar la calidad de las imágenes generadas
+  midiendo tanto su claridad como su diversidad.
 ---
-
 ## Definition
 
 La Puntuación de Inception (IS) es una medida estadística introducida para evaluar el rendimiento de las Redes Generativas Antagónicas (GAN) y otros modelos generativos. Combina dos factores: la calidad de la imagen (claridad) y la diversidad de las muestras generadas.

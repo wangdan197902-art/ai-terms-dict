@@ -1,23 +1,24 @@
 ---
-title: "Laiska oppiminen"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Laiska oppiminen
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /fi/terms/lazy_learning/
-date: "2026-07-18T16:06:12.544306Z"
-lastmod: "2026-07-18T17:15:09.427351Z"
+slug: lazy_learning
+date: '2026-07-18T16:06:12.544306Z'
+lastmod: '2026-07-18T17:15:09.427351Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Oppimisote, joka viivästyttää yleistämisen luokitteluhetkeen saakka tallentamalla harjoitusinstanssit sen sijaan, että rakennettaisiin eksplisiittistä mallia."
+source: agnes_llm
+status: published
+language: fi
+description: Oppimisote, joka viivästyttää yleistämisen luokitteluhetkeen saakka tallentamalla
+  harjoitusinstanssit sen sijaan, että rakennettaisiin eksplisiittistä mallia.
 ---
-
 ## Definition
 
 Laiskat oppijat, kuten k-lähimmän naapurin menetelmä (k-NN), muistavat koko harjoitusdatan ja suorittavat laskentaa vain ennusteita tehdessä. Tämä eroaa innokkaasta oppimisesta, joka rakentaa yleisen mallin etukäteen.

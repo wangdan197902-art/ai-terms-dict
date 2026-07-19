@@ -1,23 +1,24 @@
 ---
-title: "Phát hiện giọng nói chồng lấn"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Phát hiện giọng nói chồng lấn
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /vi/terms/overlapped_speech_detection/
-date: "2026-07-18T16:06:19.770253Z"
-lastmod: "2026-07-18T16:38:07.790267Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:06:19.770253Z'
+lastmod: '2026-07-18T16:38:07.790267Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình xác định các đoạn thời gian nơi hai hoặc nhiều người nói chuyện đồng thời trong luồng âm thanh."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình xác định các đoạn thời gian nơi hai hoặc nhiều người nói chuyện
+  đồng thời trong luồng âm thanh.
 ---
-
 ## Definition
 
 Phát hiện giọng nói chồng lấn (OSD) là một nhiệm vụ chuyên biệt trong xử lý giọng nói nhằm xác định các khoảng thời gian có tiếng nói đồng thời. Khác với phân biệt giọng nói tập trung vào 'ai nói khi nào', OSD tập trung vào việc xác định các khoảng thời gian có nhiều giọng nói cùng lúc.

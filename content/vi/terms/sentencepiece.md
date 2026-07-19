@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /vi/terms/sentencepiece/
 date: "2026-07-18T16:11:32.183967Z"
 lastmod: "2026-07-18T16:38:07.803962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thư viện token hóa và detoken hóa văn bản không giám sát, xử lý văn bản thô như một chuỗi các phân vị từ (subwords) cho tiền xử lý NLP."
 ---
-
 ## Definition
 
 SentencePiece là một thư viện mã nguồn mở phổ biến cho việc chuẩn hóa và token hóa văn bản, được sử dụng rộng rãi trong các quy trình NLP hiện đại. Nó thực hiện học không giám sát trên một bảng từ vựng kết hợp giữa word-piece và subword...

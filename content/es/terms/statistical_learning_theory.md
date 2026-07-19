@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /es/terms/statistical_learning_theory/
 date: "2026-07-18T11:09:11.692637Z"
 lastmod: "2026-07-18T11:44:44.857716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco matemático que proporciona los fundamentos teóricos de los algoritmos de aprendizaje automático mediante el análisis de sus capacidades de generalización."
 ---
-
 ## Definition
 
 La teoría del aprendizaje estadístico (TLA) es una rama de las estadísticas y la ciencia de la computación que estudia cómo ciertos algoritmos pueden generalizar a partir de muestras de entrenamiento finitas hacia datos no vistos. Se centra en acotar

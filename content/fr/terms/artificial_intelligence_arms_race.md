@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /fr/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T11:05:11.457515Z"
 lastmod: "2026-07-18T11:44:45.198282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une dynamique compétitive où les nations ou organisations développent rapidement des capacités d'IA pour obtenir une supériorité stratégique."
 ---
-
 ## Definition
 
 La course aux armements en IA fait référence à la concurrence intense entre pays, entreprises et institutions de recherche pour atteindre la domination dans les technologies de l'intelligence artificielle. Cette rivalité stimule une innovation rapide, souvent au détriment des considérations de sécurité.

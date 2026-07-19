@@ -1,23 +1,24 @@
 ---
-title: "Počítačové poslechové zpracování"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Počítačové poslechové zpracování
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /cs/terms/computer_audition/
-date: "2026-07-18T15:49:06.561311Z"
-lastmod: "2026-07-18T17:15:09.112223Z"
+slug: computer_audition
+date: '2026-07-18T15:49:06.561311Z'
+lastmod: '2026-07-18T17:15:09.112223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Počítačové poslechové zpracování je obor studia zaměřený na umožnění strojům vnímat a chápat zvukové signály podobně jako lidé."
+source: agnes_llm
+status: published
+language: cs
+description: Počítačové poslechové zpracování je obor studia zaměřený na umožnění
+  strojům vnímat a chápat zvukové signály podobně jako lidé.
 ---
-
 ## Definition
 
 Počítačové poslechové zpracování zahrnuje vývoj algoritmů, které umožňují počítačům extrahovat smysluplné informace ze zvukových vln. To zahrnuje úlohy, jako je rozpoznávání řeči, klasifikace hudebních žánrů nebo identifikace zvukových událostí.

@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /fi/terms/csm/
 date: "2026-07-18T15:50:34.346110Z"
 lastmod: "2026-07-18T17:15:09.396005Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monitulkintainen akronyymi, joka viittaa yleensä Kontekstuaalisiin puhemalleihin tai Pilviturvallisuuden hallintaan teknillisissä domeeneissa, ilman yleistä standardimääritelmää tekoälyssä."
 ---
-
 ## Definition
 
 Tekoälyn ja teknologian kontekstissa 'CSM' ei ole universaali standarditermi kuten 'CNN' tai 'RNN'. Se viittaa yleisimmin Kontekstuaalisiin puhemalleihin (Contextual Speech Models) puheenkäsittelytutkimuksessa, mutta voi tarkoittaa myös Pilviturvallisuuden hallintaa (Cloud Security Management) IT-alalla. Määritelmä riippuu täysin kontekstista.

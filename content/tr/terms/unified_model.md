@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /tr/terms/unified_model/
 date: "2026-07-18T16:20:15.852178Z"
 lastmod: "2026-07-18T16:38:07.375458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Tek bir çerçeve içinde birden fazla görevi veya modalliyeyi işlemek üzere tasarlanmış bir yapay zeka mimarisi."
 ---
-
 ## Definition
 
 Birleşik model, ayrı özel modeller gerektirmeden metin üretimi, görüntü tanıma ve kod sentezi gibi çeşitli farklı görevleri gerçekleştirebilen bir yapay zeka sistemini ifade eder. Bu yaklaşım, kaynak verimliliğini artırır ve çoklu görev ortamlarında entegrasyonu kolaylaştırır.

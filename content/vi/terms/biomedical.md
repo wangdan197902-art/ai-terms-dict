@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /vi/terms/biomedical/
 date: "2026-07-18T15:43:12.294896Z"
 lastmod: "2026-07-18T16:38:07.734003Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Liên quan đến việc áp dụng các khoa học tự nhiên vào thực hành y tế, thường bao gồm phân tích tính toán dữ liệu sức khỏe."
 ---
-
 ## Definition
 
 Y sinh đề cập đến giao điểm giữa sinh học, y học và công nghệ, đặc biệt trong việc phát triển các công cụ chẩn đoán, phương pháp điều trị và các phương pháp phân tích dữ liệu. Trong lĩnh vực AI, điều này liên quan đến việc áp dụng máy học để cải thiện kết quả chăm sóc sức khỏe và hiểu biết sinh học.

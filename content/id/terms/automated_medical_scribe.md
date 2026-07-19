@@ -1,23 +1,24 @@
 ---
-title: "Scribe medis otomatis"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Scribe medis otomatis
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /id/terms/automated_medical_scribe/
-date: "2026-07-18T15:40:11.946270Z"
-lastmod: "2026-07-18T16:38:07.430921Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:40:11.946270Z'
+lastmod: '2026-07-18T16:38:07.430921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sistem berbasis AI yang secara otomatis menghasilkan dokumentasi klinis dari interaksi antara dokter dan pasien."
+source: agnes_llm
+status: published
+language: id
+description: Sistem berbasis AI yang secara otomatis menghasilkan dokumentasi klinis
+  dari interaksi antara dokter dan pasien.
 ---
-
 ## Definition
 
 Scribe medis otomatis memanfaatkan pemrosesan bahasa alami dan teknologi pengenalan suara untuk mendengarkan percakapan antara dokter dan pasien serta membuat catatan kesehatan elektronik yang terstruktur. Teknologi ini membantu mengurangi beban administratif pada tenaga medis.

@@ -7,8 +7,6 @@ tags: ["speculative", "naming", "uncertain"]
 difficulty: 4
 weight: 1
 slug: "gemma4"
-aliases:
-  - /vi/terms/gemma4/
 date: "2026-07-18T15:54:40.001609Z"
 lastmod: "2026-07-18T16:38:07.760315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Gemma4 đề cập đến một phiên bản giả định hoặc tương lai của họ mô hình Gemma của Google, có thể ngụ ý phiên bản chính thứ tư hoặc một biến thể cụ thể trong dòng sản phẩm này."
 ---
-
 ## Definition
 
 Tính đến kiến thức hiện tại, không có mô hình nào được phát hành chính thức mang tên 'Gemma4' riêng biệt với dòng Gemma 2 hiện có. Thuật ngữ này có thể ám chỉ một bản phát hành trong tương lai mang tính suy đoán hoặc một phiên bản nội bộ cụ thể.

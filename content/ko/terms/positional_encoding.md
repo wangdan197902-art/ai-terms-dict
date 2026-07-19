@@ -1,23 +1,23 @@
 ---
-title: "위치 인코딩"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: 위치 인코딩
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /ko/terms/positional_encoding/
-date: "2026-07-18T15:35:37.491242Z"
-lastmod: "2026-07-18T16:38:06.798490Z"
+slug: positional_encoding
+date: '2026-07-18T15:35:37.491242Z'
+lastmod: '2026-07-18T16:38:06.798490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "트랜스포머 모델에 시퀀스 내 토큰의 상대적 또는 절대적 위치에 대한 정보를 주입하는 기법."
+source: agnes_llm
+status: published
+language: ko
+description: 트랜스포머 모델에 시퀀스 내 토큰의 상대적 또는 절대적 위치에 대한 정보를 주입하는 기법.
 ---
-
 ## Definition
 
 트랜스포머는 RNN과 달리 시퀀스가 아닌 병렬로 모든 토큰을 처리하므로 토큰 순서에 대한 고유한 지식이 부족합니다. 위치 인코딩은 입력 임베딩에 특정 벡터를 추가하여 토큰의 순서 정보를 보존합니다.

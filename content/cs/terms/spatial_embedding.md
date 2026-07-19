@@ -1,23 +1,24 @@
 ---
-title: "Prostorové vnoření"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Prostorové vnoření
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /cs/terms/spatial_embedding/
-date: "2026-07-18T16:18:17.203641Z"
-lastmod: "2026-07-18T17:15:09.202453Z"
+slug: spatial_embedding
+date: '2026-07-18T16:18:17.203641Z'
+lastmod: '2026-07-18T17:15:09.202453Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika, která mapuje prostorové vztahy mezi objekty nebo lokalitami do vektorových reprezentací pro modely strojového učení."
+source: agnes_llm
+status: published
+language: cs
+description: Technika, která mapuje prostorové vztahy mezi objekty nebo lokalitami
+  do vektorových reprezentací pro modely strojového učení.
 ---
-
 ## Definition
 
 Prostorové vnoření zahrnuje převod fyzických nebo abstraktních prostorových vztahů do hustých vektorových prostorů, což umožňuje algoritmům pochopit blízkost, orientaci a topologii. Tato technika je zásadní pro úlohy vyžadující porozumění geometrické struktuře dat.

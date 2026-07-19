@@ -7,8 +7,6 @@ tags: ["tensorflow", "tools", "visualization"]
 difficulty: 2
 weight: 1
 slug: "tensorboard"
-aliases:
-  - /id/terms/tensorboard/
 date: "2026-07-18T16:10:44.135726Z"
 lastmod: "2026-07-18T16:38:07.513532Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Toolkit visualisasi untuk memantau eksperimen pembelajaran mesin dan men-debug kinerja model."
 ---
-
 ## Definition
 
 TensorBoard adalah serangkaian aplikasi web untuk memeriksa dan memahami jalannya TensorFlow dan grafnya. Alat ini menyediakan alat untuk memvisualisasikan metrik seperti kerugian dan akurasi seiring waktu, serta melihat struktur graf model.

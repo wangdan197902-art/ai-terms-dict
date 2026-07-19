@@ -1,23 +1,25 @@
 ---
-title: "Wstępne szkolenie"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Wstępne szkolenie
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /pl/terms/pre_training/
-date: "2026-07-18T15:28:28.401037Z"
-lastmod: "2026-07-18T17:15:08.818233Z"
+slug: pre_training
+date: '2026-07-18T15:28:28.401037Z'
+lastmod: '2026-07-18T17:15:08.818233Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Początkowa faza trenowania modelu uczenia maszynowego na dużym, nieetykietowanym zbiorze danych w celu nauki ogólnych reprezentacji przed dopracowaniem (fine-tuning) dla konkretnych zadań."
+source: agnes_llm
+status: published
+language: pl
+description: Początkowa faza trenowania modelu uczenia maszynowego na dużym, nieetykietowanym
+  zbiorze danych w celu nauki ogólnych reprezentacji przed dopracowaniem (fine-tuning)
+  dla konkretnych zadań.
 ---
-
 ## Definition
 
 Wstępne szkolenie to podstawowa technika w uczeniu głębokim, w której model uczy się szerokich funkcji i wzorców z ogromnych ilości danych, często bez etykiet. Proces ten umożliwia modelowi...

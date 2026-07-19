@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /cs/terms/relu/
-date: "2026-07-18T15:38:15.661197Z"
-lastmod: "2026-07-18T17:15:09.092849Z"
+slug: relu
+date: '2026-07-18T15:38:15.661197Z'
+lastmod: '2026-07-18T17:15:09.092849Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Rectified Linear Unit je aktivační funkce, která vrací vstup přímo, pokud je kladný, jinak vrací nulu."
+source: agnes_llm
+status: published
+language: cs
+description: Rectified Linear Unit je aktivační funkce, která vrací vstup přímo, pokud
+  je kladný, jinak vrací nulu.
 ---
-
 ## Definition
 
 ReLU je široce používána v hlubokých neuronových sítích díky své výpočetní efektivitě a schopnosti zmírňovat problém mizejícího gradientu. Matematicky definována jako f(x) = max(0, x), zavádí nelinearitu (pozn.: text byl v zadání přerušen, překlad odpovídá kontextu).

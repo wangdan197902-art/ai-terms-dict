@@ -1,23 +1,23 @@
 ---
-title: "量子化"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: 量子化
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /ja/terms/quantization/
-date: "2026-07-18T11:00:08.980054Z"
-lastmod: "2026-07-18T11:44:45.053408Z"
+slug: quantization
+date: '2026-07-18T11:00:08.980054Z'
+lastmod: '2026-07-18T11:44:45.053408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューラルネットワーク計算で使用される数値の精度を下げ、モデルサイズを縮小し、速度を向上させるモデル最適化技術。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューラルネットワーク計算で使用される数値の精度を下げ、モデルサイズを縮小し、速度を向上させるモデル最適化技術。
 ---
-
 ## Definition
 
 量子化は、高精度な浮動小数点数（例：FP32）を低精度フォーマット（例：INT8やFP16）に変換します。この精度の低下により、モデルのメモリ使用量と計算要件が減少し、推論速度が向上します。

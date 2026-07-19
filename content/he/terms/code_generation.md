@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /he/terms/code_generation/
 date: "2026-07-18T15:22:41.853488Z"
 lastmod: "2026-07-18T17:15:09.470805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך השימוש בבינה מלאכותית ליצירה אוטומטית של קוד מקור מתיאורים בשפה טבעית או מקטעי קוד קיימים."
 ---
-
 ## Definition
 
 יצירת קוד מנצלת מודלים שפתיים גדולים (LLMs) שאומנו על מאגרי נתונים עצומים של שפות תכנות כדי לייצר ארטיפקטים תוכנה פונקציונליים. היא מפרשת הנחיות הקריאות לאדם, כגון הערות קוד, וממירה אותן לקוד ביצועי.

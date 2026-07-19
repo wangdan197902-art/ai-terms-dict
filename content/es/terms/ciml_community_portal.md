@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /es/terms/ciml_community_portal/
 date: "2026-07-18T10:39:00.104811Z"
 lastmod: "2026-07-18T11:44:44.784189Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una plataforma en línea centralizada que facilita la colaboración, el intercambio de recursos y la discusión entre investigadores y profesionales en Inteligencia Computacional y Aprendizaje Automático"
 ---
-
 ## Definition
 
 El portal comunitario CIML sirve como un centro digital para la comunidad académica y profesional centrada en la inteligencia computacional. Proporciona acceso a conjuntos de datos, modelos preentrenados, artículos de investigación

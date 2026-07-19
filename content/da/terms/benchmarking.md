@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /da/terms/benchmarking/
 date: "2026-07-18T15:23:39.088944Z"
 lastmod: "2026-07-18T17:15:09.219956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den systematiske proces med at teste AI-modeller mod benchmarks for at kvantificere deres ydeevne og identificere områder til forbedring."
 ---
-
 ## Definition
 
 Benchmarking er den aktive praksis med at udføre eksperimenter for at måle, hvor godt en AI-model performer på specifikke opgaver ved hjælp af foruddefinerede benchmarks. Denne proces involverer at køre modeller gennem standardiserede tests.

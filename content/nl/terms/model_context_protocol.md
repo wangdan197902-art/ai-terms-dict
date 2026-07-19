@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /nl/terms/model_context_protocol/
 date: "2026-07-18T15:37:48.171196Z"
 lastmod: "2026-07-18T17:15:08.706412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gestandaardiseerd kader dat is ontworpen om veilige en efficiënte communicatie tussen AI-modellen en externe gegevensbronnen of hulpprogramma's te faciliteren."
 ---
-
 ## Definition
 
 Het Model Context Protocol (MCP) is een open standaard die AI-toepassingen in staat stelt verbinding te maken met verschillende gegevensbronnen, zoals databases, API's en bestandssystemen, op een uniforme manier. Het abstrahert de co

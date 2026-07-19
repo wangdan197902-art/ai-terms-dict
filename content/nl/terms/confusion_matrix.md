@@ -1,23 +1,24 @@
 ---
-title: "Verwarringsmatrix"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Verwarringsmatrix
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /nl/terms/confusion_matrix/
-date: "2026-07-18T15:47:25.931649Z"
-lastmod: "2026-07-18T17:15:08.728273Z"
+slug: confusion_matrix
+date: '2026-07-18T15:47:25.931649Z'
+lastmod: '2026-07-18T17:15:08.728273Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een tabel die wordt gebruikt om de prestaties van een classificatiemodel op een set testgegevens te beschrijven."
+source: agnes_llm
+status: published
+language: nl
+description: Een tabel die wordt gebruikt om de prestaties van een classificatiemodel
+  op een set testgegevens te beschrijven.
 ---
-
 ## Definition
 
 Een verwarringsmatrix is een specifieke tabelindeling die visualisatie mogelijk maakt van de prestaties van een algoritme, meestal een onderwezen leermodel. Het toont de aantallen waar positief, waar negatief, vals positief en vals negatief.

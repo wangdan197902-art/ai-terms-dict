@@ -1,23 +1,24 @@
 ---
-title: "Prompt-tuning"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt-tuning
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /no/terms/prompt_tuning/
-date: "2026-07-18T16:13:05.722359Z"
-lastmod: "2026-07-18T16:38:07.036549Z"
+slug: prompt_tuning
+date: '2026-07-18T16:13:05.722359Z'
+lastmod: '2026-07-18T16:38:07.036549Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En parameter-effektiv finjusteringsmetode som optimaliserer kontinuerlige input-embeddings i stedet for å oppdatere hele modellvektene."
+source: agnes_llm
+status: published
+language: 'no'
+description: En parameter-effektiv finjusteringsmetode som optimaliserer kontinuerlige
+  input-embeddings i stedet for å oppdatere hele modellvektene.
 ---
-
 ## Definition
 
 Prompt-tuning innebærer å legge til trenbare 'soft prompts' (kontinuerlige vektorer) til inngangslaget av en forhåndstrenet språkmodell, mens de underliggende modellparameterene holdes låst. Denne tilnærmingen lar modellen tilpasses spesifikke oppgaver uten å endre den grunnleggende arkitekturen.

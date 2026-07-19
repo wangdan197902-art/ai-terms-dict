@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /es/terms/last_mile/
 date: "2026-07-18T10:57:10.137050Z"
 lastmod: "2026-07-18T11:44:44.824558Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La etapa final de entrega de soluciones de IA desde entornos de desarrollo hasta usuarios finales en entornos operativos reales."
 ---
-
 ## Definition
 
 El problema de la 'última milla' se refiere a los desafíos encontrados al desplegar modelos en producción, incluyendo la integración con infraestructura existente, garantizar inferencias de baja latencia y manejar datos de borde o casos extremos.

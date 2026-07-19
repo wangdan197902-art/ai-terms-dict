@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /vi/terms/human_oversight/
 date: "2026-07-18T15:56:55.982742Z"
 lastmod: "2026-07-18T16:38:07.765990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thực hành duy trì sự kiểm soát và xem xét của con người đối với các hệ thống AI tự động nhằm đảm bảo an toàn, độ chính xác và tuân thủ đạo đức."
 ---
-
 ## Definition
 
 Giám sát của con người đề cập đến các cơ chế và quy trình mà ở đó con người giám sát, đánh giá và can thiệp vào các quyết định hoặc hành động do AI đưa ra. Khái niệm này rất quan trọng để đảm bảo rằng các hệ thống tự động hoạt động an toàn và có trách nhiệm.

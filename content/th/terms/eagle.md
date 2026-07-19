@@ -1,23 +1,24 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /th/terms/eagle/
-date: "2026-07-18T15:51:29.258753Z"
-lastmod: "2026-07-18T16:38:07.601277Z"
+slug: eagle
+date: '2026-07-18T15:51:29.258753Z'
+lastmod: '2026-07-18T16:38:07.601277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Eagle คือกรอบงานภาษาขนาดใหญ่ (LLM framework) แบบโอเพนซอร์สประสิทธิภาพสูงที่พัฒนาโดย ByteDance ออกแบบมาเพื่อประสิทธิภาพในการฝึกเบื้องต้นและการปรับแต่งโมเดลภาษาขนาดใหญ่อย่างมีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: Eagle คือกรอบงานภาษาขนาดใหญ่ (LLM framework) แบบโอเพนซอร์สประสิทธิภาพสูงที่พัฒนาโดย
+  ByteDance ออกแบบมาเพื่อประสิทธิภาพในการฝึกเบื้องต้นและการปรับแต่งโมเดลภาษาขนาดใหญ่อย่างมีประสิทธิภาพ
 ---
-
 ## Definition
 
 Eagle แทนกรอบงานด้านสถาปัตยกรรมและวิศวกรรมเฉพาะในโดเมนของโมเดลภาษาขนาดใหญ่ (LLMs) ซึ่งเกี่ยวข้องกับการเพิ่มประสิทธิภาพด้านประสิทธิภาพการฝึกและความสามารถในการขยายขนาดเป็นหลัก โดยมุ่งเน้น...

@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /zh/terms/contrastive/
 date: "2026-07-18T10:49:42.551605Z"
 lastmod: "2026-07-18T11:44:45.364249Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "对比学习是一种自监督技术，训练模型区分相似和不相似的数据对。"
 ---
-
 ## Definition
 
 这种方法鼓励模型在潜在空间中拉近正样本对（相似项）的嵌入表示，同时推远负样本对（不相似项）。它在计算机视觉和自然语言处理领域被广泛用于学习高质量的特征表示。

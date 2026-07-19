@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /ko/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:01:23.301364Z"
 lastmod: "2026-07-18T16:38:06.858395Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "과거 데이터 대신 명시적인 도메인 지식과 사용자 제약을 추론하여 추천을 생성하는 엔진."
 ---
-
 ## Definition
 
 과거 사용자 행동에 의존하는 협업 필터링과 달리, KBRS는 항목과 사용자 선호도에 대한 명시적인 지식을 사용하여 추천을 도출합니다. 이는 데이터가 희소하거나 과거 기록이 없는 시장에서 특히 효과적입니다.

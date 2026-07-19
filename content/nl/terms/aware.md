@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /nl/terms/aware/
 date: "2026-07-18T15:23:45.346395Z"
 lastmod: "2026-07-18T17:15:08.680369Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Geeft de capaciteit van een AI aan om specifieke contextuele informatie of prikkels te detecteren en verwerken."
 ---
-
 ## Definition
 
 In AI-contexten verwijst 'bewust' meestal naar situationele of contextuele bewustwording, waarbij een systeem relevante omgevingsfactoren of gebruikersstaten herkent. Dit impliceert geen bewustzijn, maar eerder de mogelijkheid om context te begrijpen en hierop in te spelen.

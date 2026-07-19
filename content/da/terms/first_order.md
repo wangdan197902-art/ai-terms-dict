@@ -1,23 +1,24 @@
 ---
-title: "første ordens"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: første ordens
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /da/terms/first_order/
-date: "2026-07-18T15:32:09.119247Z"
-lastmod: "2026-07-18T17:15:09.238415Z"
+slug: first_order
+date: '2026-07-18T15:32:09.119247Z'
+lastmod: '2026-07-18T17:15:09.238415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Refererer til begreber, der involverer direkte relationer eller lineære approksimationer, såsom logik af første orden eller afledede af første orden."
+source: agnes_llm
+status: published
+language: da
+description: Refererer til begreber, der involverer direkte relationer eller lineære
+  approksimationer, såsom logik af første orden eller afledede af første orden.
 ---
-
 ## Definition
 
 Inden for kunstig intelligens og matematik beskriver 'første ordens' typisk systemer eller operationer, der involverer direkte, lineære relationer uden interaktioner af højere orden. I optimering refererer det til metoder, der bruger gradienter (afledede) til at finde minimum eller maksimum af en funktion, uden at tage højde for krøgningsinformation (anden ordens afledede).

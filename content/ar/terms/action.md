@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /ar/terms/action/
 date: "2026-07-18T15:23:12.449990Z"
 lastmod: "2026-07-18T17:15:08.433250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية يقوم بها الوكيل للتأثير في بيئته."
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي والروبوتات، يشير الإجراء إلى خطوة أو قرار محدد يتخذه وكيل ذكي للتفاعل مع بيئته. يتم اختيار الإجراءات بناءً على الحالة الحالية.

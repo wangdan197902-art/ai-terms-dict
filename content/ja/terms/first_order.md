@@ -1,23 +1,23 @@
 ---
-title: "一階の"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: 一階の
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /ja/terms/first_order/
-date: "2026-07-18T10:56:45.367828Z"
-lastmod: "2026-07-18T11:44:45.025527Z"
+slug: first_order
+date: '2026-07-18T10:56:45.367828Z'
+lastmod: '2026-07-18T11:44:45.025527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "一階論理や一階微分など、直接的な関係や線形近似を含む概念を指します。"
+source: agnes_llm
+status: published
+language: ja
+description: 一階論理や一階微分など、直接的な関係や線形近似を含む概念を指します。
 ---
-
 ## Definition
 
 人工知能および数学において、「一階の」は通常、高次相互作用を伴わない直接的な線形関係を持つシステムや操作を記述します。最適化においては、勾配降下法などの手法に関連し、目的関数の一次微分情報を用いてパラメータを更新します。これにより、計算コストを抑えつつ効率的な収束を実現します。

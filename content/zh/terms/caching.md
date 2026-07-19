@@ -1,23 +1,23 @@
 ---
-title: "缓存"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: 缓存
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /zh/terms/caching/
-date: "2026-07-18T11:09:42.288234Z"
-lastmod: "2026-07-18T11:44:45.453941Z"
+slug: caching
+date: '2026-07-18T11:09:42.288234Z'
+lastmod: '2026-07-18T11:44:45.453941Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "缓存是一种将频繁访问的数据存储在临时高速存储层中的技术，旨在降低延迟并减少主数据源的负载。"
+source: agnes_llm
+status: published
+language: zh
+description: 缓存是一种将频繁访问的数据存储在临时高速存储层中的技术，旨在降低延迟并减少主数据源的负载。
 ---
-
 ## Definition
 
 在AI工程中，缓存通过将最近或频繁的查询结果、模型预测或中间计算保留在快速内存（如RAM）中来优化性能。这减少了昂贵的主数据存储访问需求，从而显著提升系统响应速度。

@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /pl/terms/learning_based/
 date: "2026-07-18T15:32:13.992812Z"
 lastmod: "2026-07-18T17:15:08.826595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wskazuje na metody, w których algorytmy poprawiają swoją wydajność dzięki doświadczeniu, a nie poprzez jawne reguły programistyczne."
 ---
-
 ## Definition
 
 Podejścia oparte na uczeniu polegają na statystycznych algorytmach identyfikujących wzorce i podejmujących decyzje na podstawie ekspozycji na dane, w przeciwieństwie do systemów opartych na regułach. Kategoria ta obejmuje nadzorowane, bez...

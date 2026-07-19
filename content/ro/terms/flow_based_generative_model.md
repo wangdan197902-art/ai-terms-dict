@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /ro/terms/flow_based_generative_model/
 date: "2026-07-18T15:58:41.708937Z"
 lastmod: "2026-07-18T17:15:09.657020Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O clasă de modele generative care utilizează transformări inversabile pentru a distribui simple distribuții către distribuții complexe de date."
 ---
-
 ## Definition
 
 Modelele generative bazate pe fluxuri construiesc distribuții de probabilitate complexe aplicând o serie de transformări inversabile și diferențiabile unei distribuții simple de bază, cum ar fi o distribuție gaussiană. Deoarece trans

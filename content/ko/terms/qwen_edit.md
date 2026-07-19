@@ -1,23 +1,23 @@
 ---
-title: "큐웬 에디트(Qwen Edit)"
-term_id: "qwen_edit"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "editing", "productivity"]
+title: 큐웬 에디트(Qwen Edit)
+term_id: qwen_edit
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- editing
+- productivity
 difficulty: 2
 weight: 1
-slug: "qwen_edit"
-aliases:
-  - /ko/terms/qwen_edit/
-date: "2026-07-18T16:12:36.759697Z"
-lastmod: "2026-07-18T16:38:06.901632Z"
+slug: qwen_edit
+date: '2026-07-18T16:12:36.759697Z'
+lastmod: '2026-07-18T16:38:06.901632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "큐웬 에디트는 텍스트 및 콘텐츠 편집에 중점을 둔 큐웬 생태계 내의 기능이나 모델을 지칭합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 큐웬 에디트는 텍스트 및 콘텐츠 편집에 중점을 둔 큐웬 생태계 내의 기능이나 모델을 지칭합니다.
 ---
-
 ## Definition
 
 큐웬 에디트는 큐웬 시리즈 내에서 텍스트 콘텐츠를 편집, 다듬기, 재구성하기 위해 최적화된 특정 기능이나 모델 버전을 의미합니다. 이러한 기능을 사용하면 사용자는 문장을 다시 작성하거나

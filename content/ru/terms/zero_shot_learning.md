@@ -1,23 +1,25 @@
 ---
-title: "Обучение без примеров (Zero-shot Learning)"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Обучение без примеров (Zero-shot Learning)
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /ru/terms/zero_shot_learning/
-date: "2026-07-18T15:37:10.894440Z"
-lastmod: "2026-07-18T16:38:07.112292Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:37:10.894440Z'
+lastmod: '2026-07-18T16:38:07.112292Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Обучение без примеров — это техника, при которой модель выполняет задачи для классов, которые она никогда не видела во время обучения, используя семантические ассоциации."
+source: agnes_llm
+status: published
+language: ru
+description: Обучение без примеров — это техника, при которой модель выполняет задачи
+  для классов, которые она никогда не видела во время обучения, используя семантические
+  ассоциации.
 ---
-
 ## Definition
 
 Обучение без примеров позволяет модели машинного обучения классифицировать экземпляры классов, отсутствующих в обучающей выборке. Вместо того чтобы опираться на размеченные примеры для каждого возможного класса, модель

@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /pl/terms/artificial_intelligence/
 date: "2026-07-18T15:22:37.566199Z"
 lastmod: "2026-07-18T17:15:08.805042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Symulacja procesów ludzkiej inteligencji przez systemy komputerowe."
 ---
-
 ## Definition
 
 Inteligencja sztuczna (AI) odnosi się do zdolności cyfrowych komputerów lub robotów sterowanych przez komputery do wykonywania zadań powszechnie kojarzonych z inteligentnymi istotami. Obejmuje ona różne poddziedziny

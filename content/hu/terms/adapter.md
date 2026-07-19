@@ -1,23 +1,25 @@
 ---
-title: "Adapter"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Adapter
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /hu/terms/adapter/
-date: "2026-07-18T15:37:01.184063Z"
-lastmod: "2026-07-18T17:15:09.738426Z"
+slug: adapter
+date: '2026-07-18T15:37:01.184063Z'
+lastmod: '2026-07-18T17:15:09.738426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy könnyűsúlyú modul, amelyet előre betanított modellekbe illesztenek a specifikus feladatokra történő hatékony finomhangoláshoz."
+source: agnes_llm
+status: published
+language: hu
+description: Egy könnyűsúlyú modul, amelyet előre betanított modellekbe illesztenek
+  a specifikus feladatokra történő hatékony finomhangoláshoz.
 ---
-
 ## Definition
 
 Az adapterek paraméter-hatékony finomhangolási technikák, amelyeket elsősorban nagy nyelvi modelleknél és transzformátoroknál használnak. Ahelyett, hogy frissítenék az összes modell súlyt, ami számítási szempontból költséges, az adapterek...

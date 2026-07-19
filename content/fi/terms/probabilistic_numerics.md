@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /fi/terms/probabilistic_numerics/
 date: "2026-07-18T16:16:28.301370Z"
 lastmod: "2026-07-18T17:15:09.445753Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ala, joka käsittelee numeerisia laskentaongelmia tilastollisina päättelytehtävinä kvantifioidakseen epävarmuuden tuloksissa."
 ---
-
 ## Definition
 
 Todennäköisyyslaskennallinen numeerinen analyssi soveltaa Bayesin menetelmiä perinteisiin numeerisiin ongelmiin, kuten integrointiin, differentiaaliyhtälöihin ja lineaarialgebraan. Sen sijaan, että se antaisi pistearvioita, se tuottaa todennäköisyysjakaumia.

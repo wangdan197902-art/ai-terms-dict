@@ -1,23 +1,24 @@
 ---
-title: "Streaming"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Streaming
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /da/terms/streaming/
-date: "2026-07-18T16:20:25.062759Z"
-lastmod: "2026-07-18T17:15:09.334438Z"
+slug: streaming
+date: '2026-07-18T16:20:25.062759Z'
+lastmod: '2026-07-18T17:15:09.334438Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En dataprocesseringsparadigme, hvor information behandles kontinuerligt i små bidder, når den ankommer, i stedet for i store statiske batcher."
+source: agnes_llm
+status: published
+language: da
+description: En dataprocesseringsparadigme, hvor information behandles kontinuerligt
+  i små bidder, når den ankommer, i stedet for i store statiske batcher.
 ---
-
 ## Definition
 
 Streaming refererer til den kontinuerlige indsamling og bearbejdning af data i realtid eller næsten-realtid, som de genereres. I modsætning til batch-processing, der håndterer faste datasæt, håndterer streaming-systemer u

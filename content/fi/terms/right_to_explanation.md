@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /fi/terms/right_to_explanation/
 date: "2026-07-18T16:19:17.128506Z"
 lastmod: "2026-07-18T17:15:09.455897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Oikeudellinen ja eettinen periaate, joka myöntää yksilölle oikeuden saada merkityksellistä tietoa automaattisista päätöksistä, jotka vaikuttavat häneen merkittävästi."
 ---
-
 ## Definition
 
 Oikeus selitykseen on keskeinen osa algoritmista vastuullisuutta, erityisesti sellaisissa kehyksissä kuin EU:n yleinen tietosuoja-asetus (GDPR). Se varmistaa, että kun tekoälyjärjestelmä tekee päätöksen, joka vaikuttaa henkilön oikeuksiin

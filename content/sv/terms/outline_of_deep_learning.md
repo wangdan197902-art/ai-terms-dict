@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /sv/terms/outline_of_deep_learning/
 date: "2026-07-18T16:12:29.016018Z"
 lastmod: "2026-07-18T17:15:09.033843Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En strukturerad översikt över metodologier, arkitekturer och optimeringsstrategier för djupinlärning."
 ---
-
 ## Definition
 
 Översikten över djupinlärning omfattar de grundläggande strukturerna såsom neuronnätverkslager, aktiveringsfunktioner och förlustmått. Den detaljerar träningsmetoder inklusive backpropagering och gradient...

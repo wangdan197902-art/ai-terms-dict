@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /zh/terms/mountain_car_problem/
 date: "2026-07-18T11:26:37.042824Z"
 lastmod: "2026-07-18T11:44:45.534066Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个经典强化学习任务，智能体必须仅使用加速控制将车开上陡峭的山坡。"
 ---
-
 ## Definition
 
 登山车问题是强化学习研究中的标准基准。目标是将一辆动力不足的车控制到陡坡顶部。由于车辆无法直接爬上山坡，智能体需要利用惯性来回摆动以积累动能。

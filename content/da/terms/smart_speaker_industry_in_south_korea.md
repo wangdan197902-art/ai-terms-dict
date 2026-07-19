@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /da/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:17:58.044231Z"
 lastmod: "2026-07-18T17:15:09.331641Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Det markedsekosystem, der involverer hardwareproducenter og AI-tjenesteudbydere, der tilbyder stemmestyrede enheder inden for Sydkorea."
 ---
-
 ## Definition
 
 Dette begreb refererer til de specifikke regionale markedsdynamikker omkring smarte højttalere i Sydkorea, kendetegnet ved høj smartphone-penetrering og avanceret bredbåndsinfrastruktur. Det involverer maj

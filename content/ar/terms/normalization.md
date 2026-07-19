@@ -1,23 +1,24 @@
 ---
-title: "التطبيع"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: التطبيع
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /ar/terms/normalization/
-date: "2026-07-18T16:14:38.134770Z"
-lastmod: "2026-07-18T17:15:08.532975Z"
+slug: normalization
+date: '2026-07-18T16:14:38.134770Z'
+lastmod: '2026-07-18T17:15:08.532975Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التطبيع هو تقنية لمعالجة البيانات المسبقة تقوم بتقييس السمات الرقمية إلى نطاق قياسي، عادةً بين 0 و1، لتحسين تقارب النموذج وأدائه."
+source: agnes_llm
+status: published
+language: ar
+description: التطبيع هو تقنية لمعالجة البيانات المسبقة تقوم بتقييس السمات الرقمية
+  إلى نطاق قياسي، عادةً بين 0 و1، لتحسين تقارب النموذج وأدائه.
 ---
-
 ## Definition
 
 تشمل الطرق الشائعة مقياس الحد الأدنى والأقصى (Min-Max scaling) وتوحيد الدرجة الصفرية (Z-score standardization). يضمن هذه العملية ألا تطغى السمات ذات القيم الكبيرة على خوارزمية التعلم، خاصة في التحسين القائم على التدرج.

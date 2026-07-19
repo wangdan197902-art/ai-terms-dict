@@ -1,23 +1,24 @@
 ---
-title: "Pruebas"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Pruebas
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /es/terms/testing/
-date: "2026-07-18T10:32:20.236550Z"
-lastmod: "2026-07-18T11:44:44.767680Z"
+slug: testing
+date: '2026-07-18T10:32:20.236550Z'
+lastmod: '2026-07-18T11:44:44.767680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso sistemático de evaluar el rendimiento y la fiabilidad de un modelo de IA en datos no vistos para garantizar la calidad y la seguridad."
+source: agnes_llm
+status: published
+language: es
+description: El proceso sistemático de evaluar el rendimiento y la fiabilidad de un
+  modelo de IA en datos no vistos para garantizar la calidad y la seguridad.
 ---
-
 ## Definition
 
 Las pruebas en ingeniería de IA implican evaluar rigurosamente los modelos contra conjuntos de datos diversos para identificar sesgos, errores y problemas de robustez. Incluye pruebas unitarias para componentes de código, pruebas de integración y pruebas de sistema.

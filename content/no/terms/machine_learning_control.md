@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /no/terms/machine_learning_control/
 date: "2026-07-18T16:04:34.587330Z"
 lastmod: "2026-07-18T16:38:07.021840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En styringsteoretisk tilnærming der maskinlæringsalgoritmer adaptivt styrer systemdynamikk for å optimalisere ytelsen i sanntid."
 ---
-
 ## Definition
 
 Maskinlæringsstyring integrerer adaptive algoritmer med tradisjonelle styresystemer for å håndtere ikke-lineære eller usikre miljøer. I motsetning til statiske kontrollere, lærer disse systemene fra driftsdata og tilpasser seg endringer i systemets oppførsel over tid.

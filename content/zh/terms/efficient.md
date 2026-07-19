@@ -1,23 +1,23 @@
 ---
-title: "高效"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: 高效
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /zh/terms/efficient/
-date: "2026-07-18T10:50:55.420497Z"
-lastmod: "2026-07-18T11:44:45.366025Z"
+slug: efficient
+date: '2026-07-18T10:50:55.420497Z'
+lastmod: '2026-07-18T11:44:45.366025Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在人工智能领域，效率是指以最少的时间、内存或计算资源消耗来实现最佳性能。"
+source: agnes_llm
+status: published
+language: zh
+description: 在人工智能领域，效率是指以最少的时间、内存或计算资源消耗来实现最佳性能。
 ---
-
 ## Definition
 
 效率是人工智能中的一项关键指标，用于衡量模型或算法利用可用资源的程度。它包括计算效率（推理和训练的速度）以及资源利用率。高效的AI系统能够在保持高精度的同时，显著降低硬件需求和能耗，这对于大规模部署和实时应用至关重要。

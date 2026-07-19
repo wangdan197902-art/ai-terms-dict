@@ -1,23 +1,24 @@
 ---
-title: "Odpovídání na otázky"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Odpovídání na otázky
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /cs/terms/question_answering/
-date: "2026-07-18T15:37:59.146721Z"
-lastmod: "2026-07-18T17:15:09.092498Z"
+slug: question_answering
+date: '2026-07-18T15:37:59.146721Z'
+lastmod: '2026-07-18T17:15:09.092498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Úloha zpracování přirozeného jazyka, při které systém automaticky poskytuje přesné odpovědi na otázky položené v přirozeném jazyce."
+source: agnes_llm
+status: published
+language: cs
+description: Úloha zpracování přirozeného jazyka, při které systém automaticky poskytuje
+  přesné odpovědi na otázky položené v přirozeném jazyce.
 ---
-
 ## Definition
 
 Odpovídání na otázky (QA) zahrnuje získávání nebo generování přesných odpovědí na dotazy uživatele z daného kontextu nebo znalostní báze. Rozsah sahá od uzavřených domén, které spoléhají na konkrétní dokumenty, až po otevřené domény.

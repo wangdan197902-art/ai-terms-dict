@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /hu/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:53:44.046171Z"
 lastmod: "2026-07-18T17:15:09.769909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy adathalmaz WikiAnswers-forrásból származó kérdés-válasz párokból, amelyet modellek tanítására használnak a szándék és a szemantikai ekvivalencia megértéséhez."
 ---
-
 ## Definition
 
 Ez az adathalmaz milliók számú kérdés-válasz párt tartalmaz, amelyeket a már megszűnt WikiAnswers platformról gyűjtöttek. Főként sűrű bekezdés-visszaadási (dense passage retrieval) és szemantikai illesztési modellek tanítására szolgál. A

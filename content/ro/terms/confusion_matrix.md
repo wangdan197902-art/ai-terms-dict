@@ -1,23 +1,24 @@
 ---
-title: "Matricea de confuzie"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Matricea de confuzie
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /ro/terms/confusion_matrix/
-date: "2026-07-18T15:50:32.237576Z"
-lastmod: "2026-07-18T17:15:09.639044Z"
+slug: confusion_matrix
+date: '2026-07-18T15:50:32.237576Z'
+lastmod: '2026-07-18T17:15:09.639044Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un tabel utilizat pentru a descrie performanța unui model de clasificare pe un set de date de testare."
+source: agnes_llm
+status: published
+language: ro
+description: Un tabel utilizat pentru a descrie performanța unui model de clasificare
+  pe un set de date de testare.
 ---
-
 ## Definition
 
 O matrice de confuzie este o structură tabulară specifică care permite vizualizarea performanței unui algoritm, de obicei unul de învățare supravegheată. Aceasta afișează numărul de pozitive adevărate, negative adevărate, false pozitive și false negative.

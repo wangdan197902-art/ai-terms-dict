@@ -1,23 +1,23 @@
 ---
-title: "彩票假设"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: 彩票假设
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /zh/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T11:24:46.268053Z"
-lastmod: "2026-07-18T11:44:45.527174Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T11:24:46.268053Z'
+lastmod: '2026-07-18T11:44:45.527174Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "该理论认为密集神经网络中包含较小的子网络，若从初始状态单独训练，其准确率可与原始网络相匹配。"
+source: agnes_llm
+status: published
+language: zh
+description: 该理论认为密集神经网络中包含较小的子网络，若从初始状态单独训练，其准确率可与原始网络相匹配。
 ---
-
 ## Definition
 
 彩票假设指出，在一个大型随机初始化的神经网络中，存在一个稀疏的子网络（即“中奖彩票”），其初始化状态非常适合训练。通过剪枝掉不重要的权重，仅保留并训练这个子网络，可以在不损失性能的前提下大幅减少模型规模。

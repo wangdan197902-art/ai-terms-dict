@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /id/terms/bias/
 date: "2026-07-18T15:22:34.140673Z"
 lastmod: "2026-07-18T16:38:07.386738Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Prejudisi sistematis dalam model AI yang mengarah pada hasil tidak adil terhadap kelompok atau individu tertentu."
 ---
-
 ## Definition
 
 Dalam etika AI, bias merujuk pada diskriminasi sistematis dan tidak adil dalam pengambilan keputusan algoritmik, yang sering kali berasal dari data pelatihan yang miring atau desain model yang cacat. Hal ini dapat menyebabkan dampak buruk terhadap kelompok tertentu.

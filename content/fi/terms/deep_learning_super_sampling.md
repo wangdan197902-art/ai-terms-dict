@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /fi/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:53:36.667332Z"
 lastmod: "2026-07-18T17:15:09.402561Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekniikka, joka käyttää tekoälyä skaalata matalaresoluutioisia kuvia korkeammalle resoluutiolle parannetulla yksityiskohdalla ja vähennetyillä artefakteilla."
 ---
-
 ## Definition
 
 Syvän oppimisen supernäytteitys (DLSS) on teknologia, joka hyödyntää neuronaalisia verkkoja rekonstruoimaan korkearesoluutioisia kuvia matalaresoluutioisista syötteistä. Analysoimalla ajallista dataa ja avaruudellista informaatiota...

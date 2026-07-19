@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /tr/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:47:55.679820Z"
 lastmod: "2026-07-18T16:38:07.293052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Stack Exchange XML dökümlerinden türetilen, teknik ve topluluk odaklı soru-cevap içeriğine odaklanan cümle gömmelerini eğitmek için kullanılan bir veri seti."
 ---
-
 ## Definition
 
 Bu veri seti, Stack Exchange XML dosyalarından cümle düzeyinde verileri çıkararak teknik tartışmalar, kod parçacıkları ve sorun çözme diyaloglarından zengin bir kaynak sağlar. Özellikle şu amaçla kullanılır:

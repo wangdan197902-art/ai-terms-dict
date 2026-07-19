@@ -1,23 +1,24 @@
 ---
-title: "Modèle substitut"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Modèle substitut
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /fr/terms/surrogate_model/
-date: "2026-07-18T11:40:12.277017Z"
-lastmod: "2026-07-18T11:44:45.340251Z"
+slug: surrogate_model
+date: '2026-07-18T11:40:12.277017Z'
+lastmod: '2026-07-18T11:44:45.340251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un modèle mathématique simplifié utilisé pour approximer le comportement d'un modèle plus complexe, coûteux en calcul ou inaccessible (boîte noire)."
+source: agnes_llm
+status: published
+language: fr
+description: Un modèle mathématique simplifié utilisé pour approximer le comportement
+  d'un modèle plus complexe, coûteux en calcul ou inaccessible (boîte noire).
 ---
-
 ## Definition
 
 En apprentissage automatique et en optimisation, un modèle substitut sert de proxy pour une fonction cible difficile à évaluer directement. Il est entraîné sur des paires entrée-sortie issues du modèle original pour approximer sa sortie.

@@ -1,23 +1,23 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /zh/terms/deepseek/
-date: "2026-07-18T11:14:03.841973Z"
-lastmod: "2026-07-18T11:44:45.485574Z"
+slug: deepseek
+date: '2026-07-18T11:14:03.841973Z'
+lastmod: '2026-07-18T11:44:45.485574Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "DeepSeek是由深度求索公司开发的一系列大语言模型，以其高效率、强大的代码能力和开放权重而著称。"
+source: agnes_llm
+status: published
+language: zh
+description: DeepSeek是由深度求索公司开发的一系列大语言模型，以其高效率、强大的代码能力和开放权重而著称。
 ---
-
 ## Definition
 
 DeepSeek指的是由深度求索公司创建的人工智能模型家族。这些模型旨在处理复杂的自然语言处理任务，包括代码生成、逻辑推理和多轮对话，并在开源社区中提供了高权重的模型版本供开发者使用。

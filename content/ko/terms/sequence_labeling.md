@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /ko/terms/sequence_labeling/
 date: "2026-07-18T16:15:05.442376Z"
 lastmod: "2026-07-18T16:38:06.907298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "입력 시퀀스의 각 요소에 레이블을 할당하는 자연어 처리 작업입니다."
 ---
-
 ## Definition
 
 시퀀스 라벨링은 주어진 입력 시퀀스(예: 문장의 단어 또는 문자열의 문자)의 모든 토큰에 범주형 레이블을 예측하는 과정입니다. 일반적인 응용 분야에는 품사 태깅, 명사구 인식, 구문 청깅 등이 포함됩니다.

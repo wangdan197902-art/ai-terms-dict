@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /he/terms/embedding/
 date: "2026-07-18T15:23:00.631862Z"
 lastmod: "2026-07-18T17:15:09.471453Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקה הממפה אובייקטים בדידים, כמו מילים או תמונות, למרחבים וקטוריים רציפים."
 ---
-
 ## Definition
 
 הטמעות הן ייצוגים וקטוריים צפופים של נתונים שבהם קשרים סמנטיים נשמרים במרחב גיאומטרי. על ידי המרת קלטים קטגוריאליים או בעלי ממדים גבוהים לווקטורים באורך קבוע, המודל

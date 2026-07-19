@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /ro/terms/intelligent_decision_support_system/
 date: "2026-07-18T16:06:09.788348Z"
 lastmod: "2026-07-18T17:15:09.670043Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem îmbunătățit cu inteligență artificială care asistă oamenii în luarea deciziilor complexe prin analiza datelor și furnizarea de informații acționabile."
 ---
-
 ## Definition
 
 Un Sistem Inteligent de Suport pentru Decizii (IDSS) integrează tehnici de inteligență artificială, cum ar fi învățarea automată și procesarea limbajului natural, cu cadrele tradiționale de suport pentru decizii. Acesta permite o analiză mai profundă și predicții mai precise, facilitând decizii informate în medii complexe.

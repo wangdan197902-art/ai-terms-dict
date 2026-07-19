@@ -1,23 +1,26 @@
 ---
-title: "Conjunto de Dados: Jackrong/Qwen3.5 Reasoning 700X"
-term_id: "datasetjackrongqwen35_reasoning_700x"
-category: "application_paradigms"
-subcategory: ""
-tags: ["reasoning", "fine-tuning", "qwen", "dataset"]
+title: 'Conjunto de Dados: Jackrong/Qwen3.5 Reasoning 700X'
+term_id: datasetjackrongqwen35_reasoning_700x
+category: application_paradigms
+subcategory: ''
+tags:
+- reasoning
+- Fine-Tuning
+- qwen
+- dataset
 difficulty: 4
 weight: 1
-slug: "datasetjackrongqwen35_reasoning_700x"
-aliases:
-  - /pt/terms/datasetjackrongqwen35_reasoning_700x/
-date: "2026-07-18T14:55:54.591235Z"
-lastmod: "2026-07-18T15:51:59.479297Z"
+slug: datasetjackrongqwen35_reasoning_700x
+date: '2026-07-18T14:55:54.591235Z'
+lastmod: '2026-07-18T15:51:59.479297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um conjunto de dados especializado hospedado no Hugging Face pelo usuário Jackrong, curado para o ajuste fino de grandes modelos de linguagem como o Qwen, visando aprimorar capacidades de raciocínio c"
+source: agnes_llm
+status: published
+language: pt
+description: Um conjunto de dados especializado hospedado no Hugging Face pelo usuário
+  Jackrong, curado para o ajuste fino de grandes modelos de linguagem como o Qwen,
+  visando aprimorar capacidades de raciocínio c
 ---
-
 ## Definition
 
 Esta entrada refere-se a um repositório específico de conjunto de dados identificado pelo identificador 'Jackrong/Qwen3.5 Reasoning 700X'. É tipicamente usado no contexto de ajuste fino supervisionado (SFT) ou reforço

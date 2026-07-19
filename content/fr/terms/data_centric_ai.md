@@ -1,23 +1,25 @@
 ---
-title: "IA centrée sur les données"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: IA centrée sur les données
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /fr/terms/data_centric_ai/
-date: "2026-07-18T11:11:21.357996Z"
-lastmod: "2026-07-18T11:44:45.213963Z"
+slug: data_centric_ai
+date: '2026-07-18T11:11:21.357996Z'
+lastmod: '2026-07-18T11:44:45.213963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une approche du développement de l'IA qui privilégie l'amélioration de la qualité et de la quantité des données d'entraînement par rapport à la modification des architectures de modèle."
+source: agnes_llm
+status: published
+language: fr
+description: Une approche du développement de l'IA qui privilégie l'amélioration de
+  la qualité et de la quantité des données d'entraînement par rapport à la modification
+  des architectures de modèle.
 ---
-
 ## Definition
 
 L'IA centrée sur les données représente un changement de paradigme dans le développement de l'intelligence artificielle, en se concentrant sur l'amélioration systématique des données utilisées pour entraîner les modèles plutôt que sur l'optimisation exclusive des algorithmes ou des hyperparamètres.

@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /fi/terms/evaluation/
 date: "2026-07-18T15:25:20.517343Z"
 lastmod: "2026-07-18T17:15:09.349448Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Arviointi on prosessi, jossa arvioidaan tekoälymallin suorituskykyä, tarkkuutta ja robustisuutta ennalta määriteltyjen metrikoiden ja datajoukkojen perusteella."
 ---
-
 ## Definition
 
 Arviointi sisältää systemaattisen mittauksen siitä, kuinka hyvin tekoälymalli suoriutuu tietyistä tehtävistä käyttäen kvantitatiivisia metrikejä (kuten tarkkuus, F1-piste, BLEU) ja kvalitatiivisia arvioita. Se sisältää validoinnin, testauksen ja benchmarkkaamisen varmistaakseen, että malli yleistää hyvin uuteen dataan ja täyttää turvallisuus- ja laatuvaatimukset ennen tuotantoon siirtämistä.

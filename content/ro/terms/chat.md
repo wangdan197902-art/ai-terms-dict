@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /ro/terms/chat/
 date: "2026-07-18T15:49:04.319931Z"
 lastmod: "2026-07-18T17:15:09.635790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Chat se referă la comunicarea interactivă, conversațională dintre un utilizator și un sistem AI, facilitată de obicei prin limbaj natural."
 ---
-
 ## Definition
 
 În contextul AI, Chat denotă interfața și mecanismul subiacent pentru dialogul în timp real, pe rânduri. Permite utilizatorilor să pună întrebări, să solicite sarcini sau să se implice într-o conversație deschisă, gestionând contextul și coerența discuției.

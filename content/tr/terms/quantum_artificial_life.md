@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /tr/terms/quantum_artificial_life/
 date: "2026-07-18T16:10:49.305169Z"
 lastmod: "2026-07-18T16:38:07.356149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kuantum yapay yaşam, otonom sistemleri ve evrimsel süreçleri kuantum hesaplama ilkelerini kullanarak inceleyen bir alandır."
 ---
-
 ## Definition
 
 Kuantum yapay yaşam (QAL), kuantum mekaniği ile yapay yaşam araştırmalarının kesişimini keşfederek, biyolojik evrimi ve kendini kopyalayan sistemleri kuantum bilgisayarlar kullanarak simüle etmeyi amaçlar.

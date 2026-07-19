@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /sv/terms/view/
 date: "2026-07-18T15:32:22.778289Z"
 lastmod: "2026-07-18T17:15:08.955308Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En virtuell tabell i en databas som resulterar från en sparad fråga, som presenterar data från en eller flera tabeller utan att fysiskt lagra dem."
 ---
-
 ## Definition
 
 Inom databashantering fungerar en vy som en sparad SQL-fråga som beter sig som en tabell men inte innehåller någon data själv. Den ger en förenklad eller anpassad vy över underliggande data, vilket ökar säkerheten.

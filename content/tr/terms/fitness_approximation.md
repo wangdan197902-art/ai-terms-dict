@@ -1,23 +1,24 @@
 ---
-title: "Uygunluk Yaklaşımı"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Uygunluk Yaklaşımı
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /tr/terms/fitness_approximation/
-date: "2026-07-18T15:53:45.749123Z"
-lastmod: "2026-07-18T16:38:07.309877Z"
+slug: fitness_approximation
+date: '2026-07-18T15:53:45.749123Z'
+lastmod: '2026-07-18T16:38:07.309877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Optimizasyon sırasında hesaplama maliyetlerini azaltmak için çözüm kalitesini tahmin eden evrimsel algoritmalar tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Optimizasyon sırasında hesaplama maliyetlerini azaltmak için çözüm kalitesini
+  tahmin eden evrimsel algoritmalar tekniği.
 ---
-
 ## Definition
 
 Gerçek uygunluk fonksiyonunun değerlendirilmesi hesaplama açısından pahalı veya zaman alıcı olduğunda evrimsel hesaplamada uygunluk yaklaşımı kullanılır. Tam değeri hesaplamak yerine, sürgün modelleri veya diğer yaklaşımlar kullanılır.

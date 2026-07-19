@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /ro/terms/high_fidelity/
 date: "2026-07-18T15:32:40.193611Z"
 lastmod: "2026-07-18T17:15:09.608649Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Indică conținutul generat care seamănă strâns cu datele din lumea reală în detaliu, calitate și realism."
 ---
-
 ## Definition
 
 „Cu fidelitate ridicată” descrie ieșirile modelelor generative care sunt indistingibile sau foarte similare cu datele autentice. În generarea de imagini, înseamnă texturi și iluminare realiste; în audio, înseamnă claritate și nuanțe apropiate de realitate. Acest termen evaluează capacitatea modelului de a reproduce structurile complexe și detaliile fine ale datelor originale.

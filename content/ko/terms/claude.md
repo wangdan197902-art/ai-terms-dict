@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /ko/terms/claude/
 date: "2026-07-18T15:33:51.302517Z"
 lastmod: "2026-07-18T16:38:06.793423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "클로드는 Anthropic에서 개발한 대규모 언어 모델 패밀리로, 유용하고 해롭지 않으며 정직한 AI 어시스턴트를 지향합니다."
 ---
-
 ## Definition
 
 클로드는 AI 안전 기업인 Anthropic이 만든 고급 대규모 언어 모델 시리즈입니다. 강력한 정렬 원칙과 헌법적 AI(Constitutional AI) 프레임워크로 알려진 클로드는 도움이 되고, 해롭지 않으며, 정직한(AI assistants that are helpful, harmless, and honest) 것을 핵심 목표로 삼고 있습니다.

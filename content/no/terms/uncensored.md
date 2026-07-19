@@ -1,23 +1,24 @@
 ---
-title: "Uten sensur"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Uten sensur
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /no/terms/uncensored/
-date: "2026-07-18T16:20:31.997764Z"
-lastmod: "2026-07-18T16:38:07.055821Z"
+slug: uncensored
+date: '2026-07-18T16:20:31.997764Z'
+lastmod: '2026-07-18T16:38:07.055821Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Refererer til AI-modeller som er modifisert for å omgå sikkerhetsfilter og etiske retningslinjer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Refererer til AI-modeller som er modifisert for å omgå sikkerhetsfilter
+  og etiske retningslinjer.
 ---
-
 ## Definition
 
 I sammenheng med kunstig intelligens beskriver «uten sensur» vanligvis modeller som har blitt finjustert eller modifisert for å fjerne eller svekke innebygde sikkerhetsjusteringer. Disse modellene er designet for å generere innhold uten de vanlige begrensningene.

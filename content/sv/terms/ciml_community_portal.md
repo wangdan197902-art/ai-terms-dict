@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /sv/terms/ciml_community_portal/
 date: "2026-07-18T15:48:26.795617Z"
 lastmod: "2026-07-18T17:15:08.982697Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En centraliserad onlineplattform som underlättar samarbete, resursdelning och diskussion bland forskare och praktiker inom beräkningsintelligens och maskininlärning."
 ---
-
 ## Definition
 
 CIML-communityportalen fungerar som en digital knutpunkt för det akademiska och professionella samhället fokuserat på beräkningsintelligens. Den ger tillgång till dataset, förtränade modeller, forskningsartiklar och andra värdefulla resurser.

@@ -1,23 +1,24 @@
 ---
-title: "Metoda aktualizacji wag mnożnikowych"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Metoda aktualizacji wag mnożnikowych
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /pl/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:08:30.811532Z"
-lastmod: "2026-07-18T17:15:08.900283Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:08:30.811532Z'
+lastmod: '2026-07-18T17:15:08.900283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Algorytm iteracyjny aktualizujący wagi mnożnikowo na podstawie informacji zwrotnej o wydajności, aby zminimalizować żal."
+source: agnes_llm
+status: published
+language: pl
+description: Algorytm iteracyjny aktualizujący wagi mnożnikowo na podstawie informacji
+  zwrotnej o wydajności, aby zminimalizować żal.
 ---
-
 ## Definition
 
 Metoda aktualizacji wag mnożnikowych to podstawowy algorytm uczenia online stosowany do podejmowania decyzji w warunkach niepewności. Utrzymuje on zestaw wag dla różnych strategii lub ekspertów, dostosowując je w zależności od ich dotychczasowej skuteczności.

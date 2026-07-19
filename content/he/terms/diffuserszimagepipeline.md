@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: צינור Zimage"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: צינור Zimage'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /he/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:54:43.854859Z"
-lastmod: "2026-07-18T17:15:09.534457Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:54:43.854859Z'
+lastmod: '2026-07-18T17:15:09.534457Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "צינור Diffusers ייעודי של Hugging Face המשמש בדרך כלל ליצירת תמונות באמצעות למידה ללא הדרכה (zero-shot) או יישומים ארכיטקטוניים ספציפיים."
+source: agnes_llm
+status: published
+language: he
+description: צינור Diffusers ייעודי של Hugging Face המשמש בדרך כלל ליצירת תמונות באמצעות
+  למידה ללא הדרכה (zero-shot) או יישומים ארכיטקטוניים ספציפיים.
 ---
-
 ## Definition
 
 בהקשר של אקוסיסטם ה-Diffusers של Hugging Face, מונח זה מתייחס בדרך כלל לתצורת צינור או עטיפה המיועדת למשימות יצירת תמונות ספציפיות, המנצלת לעיתים קרובות יכולות של למידה ללא הדרכה (zero-shot) או מודלים קהילתיים ייעודיים.

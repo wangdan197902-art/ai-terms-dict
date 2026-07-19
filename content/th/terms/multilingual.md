@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /th/terms/multilingual/
 date: "2026-07-18T16:06:20.589914Z"
 lastmod: "2026-07-18T16:38:07.634445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "มัลติลิงกวลใน AI หมายถึงโมเดลที่มีความสามารถในการประมวลผล เข้าใจ หรือสร้างเนื้อหาในภาษาธรรมชาติหลายภาษา"
 ---
-
 ## Definition
 
 โมเดลมัลติลิงกวลถูกออกแบบมาเพื่อจัดการกับอินพุตทางภาษาที่หลากหลายโดยไม่ต้องใช้โมเดลแยกต่างหากสำหรับแต่ละภาษา ระบบเหล่านี้มักใช้การฝังร่วม (shared embeddings) หรือการจัดแนวข้ามภาษา

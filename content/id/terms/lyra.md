@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /id/terms/lyra/
-date: "2026-07-18T15:59:07.740943Z"
-lastmod: "2026-07-18T16:38:07.479904Z"
+slug: lyra
+date: '2026-07-18T15:59:07.740943Z'
+lastmod: '2026-07-18T16:38:07.479904Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Lyra merujuk pada berbagai inisiatif atau model AI, terutama model bahasa besar sumber terbuka atau alat pencarian dan penemuan berbasis AI tertentu yang dirancang untuk meningkatkan pengambilan infor"
+source: agnes_llm
+status: published
+language: id
+description: Lyra merujuk pada berbagai inisiatif atau model AI, terutama model bahasa
+  besar sumber terbuka atau alat pencarian dan penemuan berbasis AI tertentu yang
+  dirancang untuk meningkatkan pengambilan infor
 ---
-
 ## Definition
 
 Dalam konteks terminologi AI modern, Lyra sering kali menandakan sistem AI khusus yang berfokus pada peningkatan interaksi pengguna melalui pemrosesan bahasa alami. Hal ini dapat merujuk pada LLM sumber terbuka yang dikembangkan

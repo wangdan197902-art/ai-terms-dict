@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /th/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:34:56.358222Z"
 lastmod: "2026-07-18T16:38:07.558955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การให้คำแนะนำแบบโซ่ความคิดเป็นเทคนิคที่กระตุ้นให้โมเดลภาษาขนาดใหญ่ (LLMs) สร้างขั้นตอนการให้เหตุผลขั้นกลางก่อนที่จะผลิตคำตอบสุดท้าย"
 ---
-
 ## Definition
 
 การให้คำแนะนำแบบโซ่ความคิด (Chain-of-Thought หรือ CoT) ช่วยปรับปรุงประสิทธิภาพของโมเดลภาษาขนาดใหญ่ในงานให้เหตุผลที่ซับซ้อน โดยการขอให้โมเดลแสดงตรรกะทีละขั้นตอนอย่างชัดเจน แทนที่จะกระโดดไปสู่คำตอบทันที ซึ่งช่วยให้โมเดลสามารถติดตามลำดับความคิดได้อย่างมีเหตุผลมากขึ้น

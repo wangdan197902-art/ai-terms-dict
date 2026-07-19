@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /ar/terms/explainability/
 date: "2026-07-18T15:36:46.347201Z"
 lastmod: "2026-07-18T17:15:08.460961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تشير القدرة على التفسير إلى الدرجة التي يمكن للبشر بها فهم سبب قرار اتخذته نموذج الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 يعالج هذا المفهوم مشكلة 'الصندوق الأسود' في أنظمة الذكاء الاصطناعي المعقدة من خلال توفير رؤى حول كيفية وصول النماذج إلى تنبؤات محددة. تساعد تقنيات مثل SHAP أو LIME في تصور أهمية الميزات.

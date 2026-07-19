@@ -7,8 +7,6 @@ tags: ["search", "ranking", "applications"]
 difficulty: 4
 weight: 1
 slug: "learning_to_rank"
-aliases:
-  - /th/terms/learning_to_rank/
 date: "2026-07-18T16:02:15.893040Z"
 lastmod: "2026-07-18T16:38:07.625446Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การเรียนรู้เพื่อจัดอันดับคือเทคนิคการเรียนรู้ของเครื่องแบบมีผู้สอน ใช้เพื่อเรียงลำดับรายการตามความเกี่ยวข้องกับคำถามที่กำหนด มักใช้ในเครื่องมือค้นหา"
 ---
-
 ## Definition
 
 ต่างจากการจำแนกประเภทหรือการถดถอยมาตรฐาน การเรียนรู้เพื่อจัดอันดับมุ่งเน้นไปที่การทำนายลำดับความสำคัญสัมพัทธ์ของรายการ โดยใช้วิธีการแบบคู่ (pairwise), แบบลิสต์ (listwise), หรือแบบจุด (pointwise) เพื่อลดข้อผิดพลาดในการจัดอันดับ เช่น NDCG (Normalized Discounted Cumulative Gain)

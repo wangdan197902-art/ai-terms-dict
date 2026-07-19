@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /tr/terms/rust/
-date: "2026-07-18T16:12:36.050388Z"
-lastmod: "2026-07-18T16:38:07.361659Z"
+slug: rust
+date: '2026-07-18T16:12:36.050388Z'
+lastmod: '2026-07-18T16:38:07.361659Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Rust, çöp toplama (garbage collection) olmadan güvenlik, hız ve eşzamanlılığa odaklanan bir sistem programlama dilidir."
+source: agnes_llm
+status: published
+language: tr
+description: Rust, çöp toplama (garbage collection) olmadan güvenlik, hız ve eşzamanlılığa
+  odaklanan bir sistem programlama dilidir.
 ---
-
 ## Definition
 
 Rust, performans ve güvenlik, özellikle güvenli eşzamanlılık için tasarlanmış çok paradigmalı, genel amaçlı bir programlama dilidir. Çöp toplama kullanmadan bellek güvenliğini sağlar ve böylece...

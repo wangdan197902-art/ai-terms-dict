@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /da/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:09:31.683904Z"
 lastmod: "2026-07-18T17:15:09.315906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En AI-tilgang, der kombinerer neurale netværks læringskapacitet med symbolsk ræsonnementets logik og gennemsigtighed."
 ---
-
 ## Definition
 
 Neuro-symbolic AI integrerer sub-symboliske neurale læringsmetoder med symbolske logikbaserede ræsonnementssystemer. Denne hybride tilgang sigter mod at overvinde begrænsningerne ved ren dyb læring, såsom manglende...

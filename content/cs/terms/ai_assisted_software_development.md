@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /cs/terms/ai_assisted_software_development/
 date: "2026-07-18T15:40:17.944918Z"
 lastmod: "2026-07-18T17:15:09.097880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využívání nástrojů AI ke zvýšení produktivity v procesech kódování, ladění, testování a návrhu."
 ---
-
 ## Definition
 
 Vývoj softwaru asistovaný AI zahrnuje využití modelů strojového učení na podporu vývojářů při psaní kódu, identifikaci chyb, generování testů a optimalizaci výkonu. Mezi příklady patří nástroje jako GitHub Copilot.

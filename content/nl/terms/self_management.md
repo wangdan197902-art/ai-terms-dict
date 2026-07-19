@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /nl/terms/self_management/
 date: "2026-07-18T16:16:17.931372Z"
 lastmod: "2026-07-18T17:15:08.785804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Zelfmanagement in AI verwijst naar het vermogen van autonome systemen om hun eigen operaties te monitoren, te optimaliseren en te herstellen zonder menselijke tussenkomst."
 ---
-
 ## Definition
 
 Dit concept omvat het vermogen van AI-agenten of systemen om routineonderhoud, hulpbronnenallocatie en foutcorrectie onafhankelijk af te handelen. Het omvat functies zoals autoschalen, zelfherstel

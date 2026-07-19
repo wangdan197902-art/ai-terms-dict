@@ -7,8 +7,6 @@ tags: ["audio", "speech", "emotion", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "vibevoice"
-aliases:
-  - /no/terms/vibevoice/
 date: "2026-07-18T16:20:46.332420Z"
 lastmod: "2026-07-18T16:38:07.056511Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Vibevoice refererer til en stil for AI-generert tale-syntese som prioriterer naturlig, emosjonell og kontekstbevisst stemmelevering fremfor stiv robotpresisjon."
 ---
-
 ## Definition
 
 Vibevoice er en konseptuell eller merkevarebasert tilnærming til tekst-til-tale (TTS)-teknologi som legger vekt på å fange 'stemningen' eller de emosjonelle nyansene i menneskelig tale. I motsetning til tradisjonell TTS som kan høres monotont ut, fokuserer denne metoden på prosodi og følelsesmessig resonans.

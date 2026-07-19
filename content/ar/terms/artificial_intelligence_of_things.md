@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /ar/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:44:57.141334Z"
 lastmod: "2026-07-18T17:15:08.477270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقاطع الذكاء الاصطناعي وإنترنت الأشياء، مما يتيح للأجهزة الذكية معالجة البيانات محليًا واتخاذ قرارات مستقلة."
 ---
-
 ## Definition
 
 يمثل ذكاء الأشياء الاصطناعي (AIoT) التكامل التآزري لتقنيات الذكاء الاصطناعي وإنترنت الأشياء. من خلال دمج خوارزميات الذكاء الاصطناعي مباشرة في أجهزة إنترنت الأشياء أو

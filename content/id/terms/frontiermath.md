@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /id/terms/frontiermath/
-date: "2026-07-18T15:51:26.470415Z"
-lastmod: "2026-07-18T16:38:07.459612Z"
+slug: frontiermath
+date: '2026-07-18T15:51:26.470415Z'
+lastmod: '2026-07-18T16:38:07.459612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dataset benchmark yang dirancang untuk mengevaluasi kemampuan penalaran matematika tingkat lanjut dari model AI mutakhir."
+source: agnes_llm
+status: published
+language: id
+description: Dataset benchmark yang dirancang untuk mengevaluasi kemampuan penalaran
+  matematika tingkat lanjut dari model AI mutakhir.
 ---
-
 ## Definition
 
 FrontierMath adalah suite evaluasi khusus yang dibuat untuk menguji batas kemampuan model bahasa besar (LLM) dalam pemecahan masalah matematika yang kompleks. Berbeda dengan benchmark aritmatika standar, FrontierMath berfokus pada soal-soal matematika tingkat tinggi yang memerlukan penalaran mendalam dan langkah-langkah penyelesaian yang terstruktur.

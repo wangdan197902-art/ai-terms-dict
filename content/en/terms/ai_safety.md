@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /en/terms/ai_safety/
 date: "2026-07-18T07:38:16.921834Z"
 lastmod: "2026-07-18T11:44:44.576282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A field of study focused on preventing unintended harmful consequences from advanced artificial intelligence systems."
 ---
-
 ## Definition
 
 AI safety encompasses research and practices aimed at ensuring that autonomous systems behave in ways that are beneficial and non-harmful to humans. It addresses risks such as bias, misinformation, security vulnerabilities, and loss of control over powerful models. Key areas include robustness testing, value alignment, and fail-safe mechanisms. The goal is to build reliable systems that can operate safely in complex, real-world environments without causing physical, digital, or social damage, particularly as AI capabilities increase.

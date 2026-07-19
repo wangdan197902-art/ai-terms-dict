@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /id/terms/spatial_intelligence/
 date: "2026-07-18T16:09:33.086600Z"
 lastmod: "2026-07-18T16:38:07.509230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kemampuan sistem AI untuk memahami, menalar, dan bernavigasi di lingkungan tiga dimensi."
 ---
-
 ## Definition
 
 Kecerdasan spasial mengacu pada kapasitas model kecerdasan buatan untuk persepsi, interpretasi, dan manipulasi hubungan spasial dalam lingkungan fisik maupun virtual. Hal ini melibatkan pemahaman tentang struktur ruang dan posisi objek relatif satu sama lain.

@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /tr/terms/ai_nationalism/
 date: "2026-07-18T15:38:55.785626Z"
 lastmod: "2026-07-18T16:38:07.267745Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Jeopolitik ve ekonomik çıkarlar tarafından yönlendirilen, ulusların yapay zeka geliştirme alanında hakimiyet kurmak için yürüttükleri stratejik rekabet."
 ---
-
 ## Definition
 
 Yapay zeka milliyetçiliği, hükümetlerin yapay zekayı ulusal güvenlik ve ekonomik egemenlik meselesi olarak ele aldığı eğilimi tanımlar. Uluslar, yerli yapay zeka araştırmalarına yoğun yatırımlar yapar, kritik teknolojilerin ihracatını kısıtlar ve küresel liderlik için rekabet eder. Bu durum, teknoloji tedarik zincirlerinin bölünmesine ve jeopolitik gerilimlere yol açabilir.

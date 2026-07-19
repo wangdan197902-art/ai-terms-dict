@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /no/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:56:51.360669Z"
 lastmod: "2026-07-18T16:38:07.004155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Organisasjoners avhengighet av generative AI-systemer for kritiske operasjoner, noe som skaper risiko knyttet til tilgjengelighet, nøyaktighet og sikkerhet."
 ---
-
 ## Definition
 
 Dette begrepet refererer til den strategiske og operative avhengigheten bedrifter har til generative AI-modeller for å utføre essensielle oppgaver som innholdsskaping, kundeservice og dataanalyse. Ettersom adopteringen øker, blir risikoen ved driftsavbrudd eller feilaktige utdata mer fremtredende.

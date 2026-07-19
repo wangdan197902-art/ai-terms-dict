@@ -1,23 +1,23 @@
 ---
-title: "매칭(Matching)"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: 매칭(Matching)
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /ko/terms/matching/
-date: "2026-07-18T15:27:06.537038Z"
-lastmod: "2026-07-18T16:38:06.778703Z"
+slug: matching
+date: '2026-07-18T15:27:06.537038Z'
+lastmod: '2026-07-18T16:38:06.778703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "매칭은 두 데이터 집합이나 특징을 정렬하여 대응 관계, 유사성 또는 최적의 쌍을 식별하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 매칭은 두 데이터 집합이나 특징을 정렬하여 대응 관계, 유사성 또는 최적의 쌍을 식별하는 과정입니다.
 ---
-
 ## Definition
 
 매칭은 서로 다른 데이터 엔티티 간의 관계를 확립하기 위해 머신러닝에서 사용되는 중요한 기술입니다. 컴퓨터 비전에서는 특징 매칭을 통해 이미지 간 대응 지점을 식별합니다.

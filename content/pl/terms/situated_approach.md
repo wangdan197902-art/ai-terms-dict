@@ -1,23 +1,25 @@
 ---
-title: "Podejście zlokalizowane"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Podejście zlokalizowane
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /pl/terms/situated_approach/
-date: "2026-07-18T16:16:31.948160Z"
-lastmod: "2026-07-18T17:15:08.917703Z"
+slug: situated_approach
+date: '2026-07-18T16:16:31.948160Z'
+lastmod: '2026-07-18T17:15:08.917703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Paradygmat projektowania w SI, który priorytetyzuje zachowanie zależne od kontekstu i interakcję ze środowiskiem nad abstrakcyjnym rozumowaniem."
+source: agnes_llm
+status: published
+language: pl
+description: Paradygmat projektowania w SI, który priorytetyzuje zachowanie zależne
+  od kontekstu i interakcję ze środowiskiem nad abstrakcyjnym rozumowaniem.
 ---
-
 ## Definition
 
 Podejście zlokalizowane to ramy metodologiczne w badaniach nad SI, które twierdzą, że inteligentne zachowanie nie może być oddzielone od środowiska, w którym występuje. Zaleca budowanie systemów, które są ściśle powiązane z otoczeniem.

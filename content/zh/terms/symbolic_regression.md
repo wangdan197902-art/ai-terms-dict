@@ -1,23 +1,22 @@
 ---
-title: "符号回归"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: 符号回归
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /zh/terms/symbolic_regression/
-date: "2026-07-18T11:35:43.087229Z"
-lastmod: "2026-07-18T11:44:45.560949Z"
+slug: symbolic_regression
+date: '2026-07-18T11:35:43.087229Z'
+lastmod: '2026-07-18T11:44:45.560949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "符号回归是一种搜索最佳拟合数据集的数学表达式的技術，旨在发现可解释的公式。"
+source: agnes_llm
+status: published
+language: zh
+description: 符号回归是一种搜索最佳拟合数据集的数学表达式的技術，旨在发现可解释的公式。
 ---
-
 ## Definition
 
 符号回归是一种回归分析类型，旨在找到通常表示为树结构的数学表达式，以最优地拟合观测数据。与传统回归不同，它不预设函数形式。

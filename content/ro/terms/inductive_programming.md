@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /ro/terms/inductive_programming/
 date: "2026-07-18T16:04:50.175551Z"
 lastmod: "2026-07-18T17:15:09.668690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un domeniu al sintezei programelor care generează automat programe de calculator din exemple de intrare-ieșire."
 ---
-
 ## Definition
 
 Programarea Inductivă, adesea numită Sinteză de Programe, implică crearea codului software bazat pe specificații furnizate sub formă de perechi intrare-ieșire, în loc de instrucțiuni explicite. Sistemul inferează logica necesară pentru a transforma intrările în ieșiri dorite.

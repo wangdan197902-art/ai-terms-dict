@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /vi/terms/edge_computing/
 date: "2026-07-18T15:50:37.108834Z"
 lastmod: "2026-07-18T16:38:07.752643Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Điện toán biên là một mô hình điện toán phân tán đưa quá trình xử lý và lưu trữ dữ liệu lại gần với nguồn dữ liệu hơn thay vì chỉ dựa vào các máy chủ đám mây tập trung."
 ---
-
 ## Definition
 
 Điện toán biên giải quyết các hạn chế về độ trễ và băng thông của các kiến trúc tập trung vào đám mây bằng cách xử lý dữ liệu gần nơi nó được tạo ra, chẳng hạn như các thiết bị IoT, cảm biến hoặc cổng cục bộ. Trong bối cảnh AI, điều này cho phép thực thi mô hình trực tiếp trên thiết bị cuối.

@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /tr/terms/nouvelle_ai/
 date: "2026-07-18T16:06:49.854000Z"
 lastmod: "2026-07-18T16:38:07.341916Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsan bilişsel mimarisinden ilham alan hiyerarşik ve modüler akıl yürütme yapılarını vurgulayan sembolik bir yapay zeka yaklaşımıdır."
 ---
-
 ## Definition
 
 Nouvelle AI, sembolik temsilleri hiyerarşik işleme ile birleştiren bir yapay zeka sistemi sınıfını ifade eder. Bağlantıcı (connectionist) modellerin aksine, yapılandırılmış akıl yürütmeye odaklanır.

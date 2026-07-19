@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /id/terms/multi_step/
 date: "2026-07-18T15:32:19.697042Z"
 lastmod: "2026-07-18T16:38:07.409314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Strategi pemecahan masalah yang memerlukan pelaksanaan serangkaian operasi logis atau perhitungan untuk mencapai solusi akhir."
 ---
-
 ## Definition
 
 Metode multi-langkah melibatkan penguraian kueri atau tugas yang kompleks menjadi langkah-langkah kecil yang dapat dieksekusi. Pendekatan ini sangat kritis dalam tugas penalaran, seperti pemecahan masalah matematika atau generasi kode.

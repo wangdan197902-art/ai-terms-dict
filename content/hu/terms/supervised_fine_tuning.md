@@ -1,23 +1,24 @@
 ---
-title: "Felügyelt finomhangolás"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Felügyelt finomhangolás
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /hu/terms/supervised_fine_tuning/
-date: "2026-07-18T15:39:55.777448Z"
-lastmod: "2026-07-18T17:15:09.745673Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:39:55.777448Z'
+lastmod: '2026-07-18T17:15:09.745673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy előre tanított modell további tanítása egy specifikus adathalmazon, hogy alkalmazkodjon egy adott feladathoz vagy területhez."
+source: agnes_llm
+status: published
+language: hu
+description: Egy előre tanított modell további tanítása egy specifikus adathalmazon,
+  hogy alkalmazkodjon egy adott feladathoz vagy területhez.
 ---
-
 ## Definition
 
 A Felügyelt Finomhangolás (SFT) során egy nagy, előre tanított modellt (például egy nyelvi modellt) továbbtanítanak egy kisebb, magas minőségű, specifikus feladatra címkézett adathalmazon.

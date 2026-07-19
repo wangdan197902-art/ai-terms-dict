@@ -1,23 +1,23 @@
 ---
-title: "プロンプト"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: プロンプト
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /ja/terms/prompt/
-date: "2026-07-18T10:54:05.989062Z"
-lastmod: "2026-07-18T11:44:45.016909Z"
+slug: prompt
+date: '2026-07-18T10:54:05.989062Z'
+lastmod: '2026-07-18T11:44:45.016909Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "生成AIモデルに特定の応答や行動を引き出すために提供される入力テキストまたは指示。"
+source: agnes_llm
+status: published
+language: ja
+description: 生成AIモデルに特定の応答や行動を引き出すために提供される入力テキストまたは指示。
 ---
-
 ## Definition
 
 プロンプトは、大規模言語モデル（LLM）やその他の生成AIシステムと対話するための主要なインターフェースとして機能します。それはモデルの出力に対するコンテキスト、トーン、制約を定義します。効果的なプロ

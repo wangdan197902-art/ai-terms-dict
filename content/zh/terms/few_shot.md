@@ -1,23 +1,23 @@
 ---
-title: "少样本"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: 少样本
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /zh/terms/few_shot/
-date: "2026-07-18T10:56:23.618188Z"
-lastmod: "2026-07-18T11:44:45.390368Z"
+slug: few_shot
+date: '2026-07-18T10:56:23.618188Z'
+lastmod: '2026-07-18T11:44:45.390368Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种学习范式，模型在仅接触少量标注示例后便能正确执行任务。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种学习范式，模型在仅接触少量标注示例后便能正确执行任务。
 ---
-
 ## Definition
 
 少样本学习使机器学习模型能够从极其有限的数据中进行泛化，通常每个类别仅需一到十个示例。与需要数千个示例的传统监督学习不同，少样本学习利用预训练模型中提取的通用特征，使其能够在新任务上快速适应并表现良好。

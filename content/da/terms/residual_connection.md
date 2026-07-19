@@ -1,23 +1,24 @@
 ---
-title: "Residual Connection"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Residual Connection
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /da/terms/residual_connection/
-date: "2026-07-18T15:37:46.297615Z"
-lastmod: "2026-07-18T17:15:09.249450Z"
+slug: residual_connection
+date: '2026-07-18T15:37:46.297615Z'
+lastmod: '2026-07-18T17:15:09.249450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En mekanisme, der tilføjer input direkte til et lags output for at facilitere gradientflow i dybe netværk."
+source: agnes_llm
+status: published
+language: da
+description: En mekanisme, der tilføjer input direkte til et lags output for at facilitere
+  gradientflow i dybe netværk.
 ---
-
 ## Definition
 
 Residual connections, også kendt som skip connections, tillader gradienter at flyde gennem et netværk ved direkte at tilføje et input til outputtet af et efterfølgende lag. Denne arkitektur løser problemet med forsvindende gradienter (vanishing gradient problem).

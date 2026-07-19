@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /id/terms/information_space_analysis/
 date: "2026-07-18T15:55:53.651849Z"
 lastmod: "2026-07-18T16:38:07.470750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pemeriksaan sifat geometris dan topologis dari ruang tempat representasi data berada."
 ---
-
 ## Definition
 
 Konsep ini melibatkan analisis struktur ruang representasi dalam model pembelajaran mesin. Ini melihat bagaimana titik-titik data didistribusikan, dikelompokkan, atau dipisahkan dalam ruang berdimensi tinggi

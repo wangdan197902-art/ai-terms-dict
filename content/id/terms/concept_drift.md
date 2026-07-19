@@ -1,23 +1,24 @@
 ---
-title: "Pergeseran Konsep"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Pergeseran Konsep
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /id/terms/concept_drift/
-date: "2026-07-18T15:43:20.880817Z"
-lastmod: "2026-07-18T16:38:07.439407Z"
+slug: concept_drift
+date: '2026-07-18T15:43:20.880817Z'
+lastmod: '2026-07-18T16:38:07.439407Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pergeseran konsep terjadi ketika sifat statistik variabel target berubah seiring waktu, sehingga menurunkan kinerja model."
+source: agnes_llm
+status: published
+language: id
+description: Pergeseran konsep terjadi ketika sifat statistik variabel target berubah
+  seiring waktu, sehingga menurunkan kinerja model.
 ---
-
 ## Definition
 
 Pergeseran konsep adalah fenomena dalam pembelajaran mesin di mana hubungan antara fitur masukan dan keluaran target berubah seiring datangnya data baru. Hal ini sering terjadi dalam lingkungan dinamis di mana pola data berubah, misalnya karena perubahan perilaku pengguna atau kondisi pasar.

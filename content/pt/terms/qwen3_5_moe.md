@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /pt/terms/qwen3_5_moe/
 date: "2026-07-18T15:19:00.371156Z"
 lastmod: "2026-07-18T15:51:59.527121Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma variante hipotética ou futura de mistura esparsa de especialistas (MoE) da série Qwen3, projetada para alta eficiência."
 ---
-
 ## Definition
 
 Este termo refere-se a uma arquitetura especializada dentro da família Qwen, provavelmente aproveitando um design de Mistura de Especialistas (MoE). Em tais modelos, apenas um subconjunto dos parâmetros da rede neural (especialistas) é ativado para cada entrada, reduzindo o custo computacional e aumentando a velocidade de inferência sem comprometer a qualidade.

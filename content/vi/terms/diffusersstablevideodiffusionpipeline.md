@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Đường ống Stable Video Diffusion"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Đường ống Stable Video Diffusion'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /vi/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:49:58.203384Z"
-lastmod: "2026-07-18T16:38:07.750456Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:49:58.203384Z'
+lastmod: '2026-07-18T16:38:07.750456Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lớp bao đường ống của thư viện Hugging Face Diffusers, tận dụng mô hình Stable Video Diffusion để tạo video từ ảnh tĩnh."
+source: agnes_llm
+status: published
+language: vi
+description: Một lớp bao đường ống của thư viện Hugging Face Diffusers, tận dụng mô
+  hình Stable Video Diffusion để tạo video từ ảnh tĩnh.
 ---
-
 ## Definition
 
 Thuật ngữ này đề cập đến một triển khai cụ thể trong thư viện Hugging Face Diffusers được thiết kế cho việc tạo video. Nó tích hợp mô hình Stable Video Diffusion (SVD), đây là một mô hình khuếch tán video tiềm ẩn (latent video diffusion model) chuyên dụng.

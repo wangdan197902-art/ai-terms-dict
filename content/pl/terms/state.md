@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /pl/terms/state/
 date: "2026-07-18T15:29:55.028135Z"
 lastmod: "2026-07-18T17:15:08.821536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Pełna konfiguracja systemu lub agenta w konkretnym momencie czasu."
 ---
-
 ## Definition
 
 Stan reprezentuje wszystkie istotne informacje potrzebne do określenia przyszłego zachowania w systemach takich jak Procesy Decyzyjne Markowa (MDP). W uczeniu przez wzmacnianie stan zawiera otoczenie i jego aktualną sytuację.

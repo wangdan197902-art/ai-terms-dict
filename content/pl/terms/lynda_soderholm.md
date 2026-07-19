@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /pl/terms/lynda_soderholm/
 date: "2026-07-18T16:05:23.150708Z"
 lastmod: "2026-07-18T17:15:08.894019Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Lynda Soderholm to wybitna badaczka i menedżerka znana z wkładu w etykę sztucznej inteligencji, odpowiedzialną innowację oraz społeczne skutki funkcjonowania SI."
 ---
-
 ## Definition
 
 Lynda Soderholm jest uznaną postacią w sektorze technologicznym, szczególnie docenianą za pracę na styku rozwoju sztucznej inteligencji i etycznego zarządzania. Jako liderka w zakresie odpowiedzialności korporacyjnej,

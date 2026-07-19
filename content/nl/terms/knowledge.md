@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /nl/terms/knowledge/
 date: "2026-07-18T15:27:21.831953Z"
 lastmod: "2026-07-18T17:15:08.687210Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Kennis is het gestructureerde begrip, de feiten, vaardigheden en inzichten die zijn afgeleid van informatie, ervaring of redenering, wat effectieve besluitvorming mogelijk maakt."
 ---
-
 ## Definition
 
 In AI verwijst kennis vaak naar expliciete informatie die is opgeslagen in databases, ontologieën of neurale netwerkgewichten, waardoor redeneren en inferentie mogelijk is. Het staat boven informatie in de DIKW-hiërarchie

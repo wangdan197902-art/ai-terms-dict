@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /pl/terms/ai_mode/
 date: "2026-07-18T15:37:48.840948Z"
 lastmod: "2026-07-18T17:15:08.838987Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Funkcjonalny stan w interfejsach oprogramowania, w którym sztuczna inteligencja aktywnie wspomaga lub automatyzuje zadania."
 ---
-
 ## Definition
 
 Tryb AI odnosi się do konkretnego stanu operacyjnego w platformach cyfrowych lub aplikacjach, w którym aktywowane są możliwości sztucznej inteligencji w celu poprawy interakcji z użytkownikiem. Tryb ten zazwyczaj umożliwia funkcje takie jak przetwarzanie języka naturalnego czy inteligentne sugestie.

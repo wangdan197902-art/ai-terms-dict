@@ -1,23 +1,24 @@
 ---
-title: "Inception Skoru"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Inception Skoru
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /tr/terms/inception_score/
-date: "2026-07-18T15:58:14.091203Z"
-lastmod: "2026-07-18T16:38:07.320493Z"
+slug: inception_score
+date: '2026-07-18T15:58:14.091203Z'
+lastmod: '2026-07-18T16:38:07.320493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Oluşturulan görüntülerin netliğini ve çeşitliliğini ölçerek kalitesini değerlendirmek için kullanılan bir metrik."
+source: agnes_llm
+status: published
+language: tr
+description: Oluşturulan görüntülerin netliğini ve çeşitliliğini ölçerek kalitesini
+  değerlendirmek için kullanılan bir metrik.
 ---
-
 ## Definition
 
 Inception Skoru (IS), Üretici Çekişmeli Ağların (GAN'lar) ve diğer üretici modellerin performansını değerlendirmek amacıyla tanıtılan istatistiksel bir ölçümdür. İki faktörü birleştirir: görüntü kalitesi (netlik) ve çeşitli

@@ -1,23 +1,23 @@
 ---
-title: "Πυκνό"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Πυκνό
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /el/terms/dense/
-date: "2026-07-18T16:02:25.191479Z"
-lastmod: "2026-07-18T17:15:09.900300Z"
+slug: dense
+date: '2026-07-18T16:02:25.191479Z'
+lastmod: '2026-07-18T17:15:09.900300Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα στρώμα ή τανυστής όπου κάθε στοιχείο συνδέεται με κάθε στοιχείο του προηγούμενου στρώματος ή διάστασης."
+source: agnes_llm
+status: published
+language: el
+description: Ένα στρώμα ή τανυστής όπου κάθε στοιχείο συνδέεται με κάθε στοιχείο του
+  προηγούμενου στρώματος ή διάστασης.
 ---
-
 ## Definition
 
 Στα νευρωνικά δίκτυα, ο όρος «πυκνό» αναφέρεται σε πλήρως συνδεδεμένα στρώματα όπου κάθε νευρώνας λαμβάνει είσοδο από όλους τους νευρώνες του προηγούμενου στρώματος. Αυτό αντιτίθεται στις αραιές συνδέσεις που βρίσκονται στα κυψελωτά ή άλλα ειδικά αρχιτεκτονικά σχήματα.

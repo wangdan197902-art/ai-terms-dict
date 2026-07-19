@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /fi/terms/accountability/
 date: "2026-07-18T15:40:57.382427Z"
 lastmod: "2026-07-18T17:15:09.380286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Periaate, jonka mukaan tekoälyjärjestelmien kehittäjien ja operaattoreiden on oltava vastuussa järjestelmien tuloksista ja vaikutuksista."
 ---
-
 ## Definition
 
 Tekoälyn vastuullisuus viittaa yksilöiden, organisaatioiden ja kehittäjien velvollisuuteen ottaa vastuu tekoälyteknologioiden suunnittelusta, käyttöönotosta ja seurauksista.

@@ -1,23 +1,25 @@
 ---
-title: "Αποδοτικός Λογισμός"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Αποδοτικός Λογισμός
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /el/terms/attributional_calculus/
-date: "2026-07-18T15:51:39.666950Z"
-lastmod: "2026-07-18T17:15:09.882404Z"
+slug: attributional_calculus
+date: '2026-07-18T15:51:39.666950Z'
+lastmod: '2026-07-18T17:15:09.882404Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα τυπικό λογικό σύστημα που χρησιμοποιείται για την αναπαράσταση και τον συλλογισμό σχετικά με την απόδοση γνώσης, συγκεκριμένα για το ποιος ξέρει ή πιστεύει τι."
+source: agnes_llm
+status: published
+language: el
+description: Ένα τυπικό λογικό σύστημα που χρησιμοποιείται για την αναπαράσταση και
+  τον συλλογισμό σχετικά με την απόδοση γνώσης, συγκεκριμένα για το ποιος ξέρει ή
+  πιστεύει τι.
 ---
-
 ## Definition
 
 Ο αποδοτικός λογισμός είναι ένα κλάδος της μοναδικής λογικής που εστιάζει στον συλλογισμό σχετικά με γνωστικές καταστάσεις. Παρέχει ένα πλαίσιο για τη μοντελοποίηση δηλώσεων όπως «Ο Πράκτορας Α γνωρίζει ότι το Ρ» ή «Ο Πράκτορας Β πιστεύει το Σ». Αυτό

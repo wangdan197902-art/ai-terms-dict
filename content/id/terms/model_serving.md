@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /id/terms/model_serving/
 date: "2026-07-18T15:35:11.616947Z"
 lastmod: "2026-07-18T16:38:07.416166Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses penyebaran model pembelajaran mesin yang telah dilatih ke lingkungan produksi untuk membuat prediksi atau menghasilkan output bagi pengguna akhir."
 ---
-
 ## Definition
 
 Penyajian model melibatkan pengambilan model statis yang telah dilatih dan membungkusnya dalam infrastruktur yang dapat diskalakan untuk menangani permintaan masuk, melakukan inferensi, dan mengembalikan hasil. Tantangan utamanya termasuk...

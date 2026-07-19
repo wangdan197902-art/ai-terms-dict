@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /tr/terms/deadbot/
 date: "2026-07-18T15:48:43.523247Z"
 lastmod: "2026-07-18T16:38:07.295626Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kullanıcı girdilerine genellikle statik veya hata mesajları döndüren, kapatılmış, sonlandırılmış veya bakımı yapılmayan bir sohbet botu."
 ---
-
 ## Definition
 
 Deadbot, geliştiricileri tarafından artık aktif olmayan, bakımının yapılmayan veya desteklenmeyen bir konuşma ajanı veya sohbet botu hizmetini ifade eder. Bu botlar, kullanıcı girdilerine yanıt olarak genel hata mesajları, statik yanıtlar veya bağlantı kesildi bildirimleri verebilir.

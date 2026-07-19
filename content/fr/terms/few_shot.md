@@ -1,23 +1,24 @@
 ---
-title: "peu d'exemples"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: peu d'exemples
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /fr/terms/few_shot/
-date: "2026-07-18T10:56:51.491843Z"
-lastmod: "2026-07-18T11:44:45.177558Z"
+slug: few_shot
+date: '2026-07-18T10:56:51.491843Z'
+lastmod: '2026-07-18T11:44:45.177558Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un paradigme d'apprentissage où un modèle effectue correctement une tâche après n'avoir été exposé qu'à un petit nombre d'exemples étiquetés."
+source: agnes_llm
+status: published
+language: fr
+description: Un paradigme d'apprentissage où un modèle effectue correctement une tâche
+  après n'avoir été exposé qu'à un petit nombre d'exemples étiquetés.
 ---
-
 ## Definition
 
 L'apprentissage avec peu d'exemples permet aux modèles d'apprentissage automatique de généraliser à partir de données très limitées, généralement comprises entre un et dix exemples par classe. Contrairement à l'apprentissage supervisé traditionnel qui nécessite des milliers

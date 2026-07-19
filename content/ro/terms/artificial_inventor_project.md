@@ -1,23 +1,24 @@
 ---
-title: "Proiectul Inventatorului Artificial"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Proiectul Inventatorului Artificial
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /ro/terms/artificial_inventor_project/
-date: "2026-07-18T15:44:32.129684Z"
-lastmod: "2026-07-18T17:15:09.627750Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:44:32.129684Z'
+lastmod: '2026-07-18T17:15:09.627750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O inițiativă de cercetare axată pe dezvoltarea modelelor computaționale ale proceselor umane de rezolvare creativă a problemelor și inventie."
+source: agnes_llm
+status: published
+language: ro
+description: O inițiativă de cercetare axată pe dezvoltarea modelelor computaționale
+  ale proceselor umane de rezolvare creativă a problemelor și inventie.
 ---
-
 ## Definition
 
 Proiectul Inventatorului Artificial este un efort de cercetare interdisciplinar menit să înțeleagă și să replice mecanismele cognitive din spatele creativității și invenției umane. Acesta își propune să construiască sisteme AI

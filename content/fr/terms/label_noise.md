@@ -1,23 +1,24 @@
 ---
-title: "Bruit d'étiquetage"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Bruit d'étiquetage
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /fr/terms/label_noise/
-date: "2026-07-18T11:24:56.811365Z"
-lastmod: "2026-07-18T11:44:45.282683Z"
+slug: label_noise
+date: '2026-07-18T11:24:56.811365Z'
+lastmod: '2026-07-18T11:44:45.282683Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Erreurs ou incohérences dans les étiquettes cibles d'un ensemble de données utilisé pour l'entraînement de l'apprentissage automatique supervisé."
+source: agnes_llm
+status: published
+language: fr
+description: Erreurs ou incohérences dans les étiquettes cibles d'un ensemble de données
+  utilisé pour l'entraînement de l'apprentissage automatique supervisé.
 ---
-
 ## Definition
 
 Le bruit d'étiquetage désigne les écarts entre les vraies classes des instances de données et les étiquettes fournies dans l'ensemble de données d'entraînement. Cela peut provenir d'erreurs d'annotation humaine, de points de données ambigus,

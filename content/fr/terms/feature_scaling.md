@@ -1,23 +1,24 @@
 ---
-title: "Mise à l'échelle des fonctionnalités"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Mise à l'échelle des fonctionnalités
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /fr/terms/feature_scaling/
-date: "2026-07-18T11:17:05.500077Z"
-lastmod: "2026-07-18T11:44:45.250859Z"
+slug: feature_scaling
+date: '2026-07-18T11:17:05.500077Z'
+lastmod: '2026-07-18T11:44:45.250859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus de normalisation de la plage des variables indépendantes ou des fonctionnalités des données pour assurer une uniformité d'amplitude."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus de normalisation de la plage des variables indépendantes
+  ou des fonctionnalités des données pour assurer une uniformité d'amplitude.
 ---
-
 ## Definition
 
 La mise à l'échelle des fonctionnalités standardise la plage des variables d'entrée afin d'éviter que les fonctionnalités ayant des amplitudes plus grandes ne dominent le processus d'apprentissage. Les méthodes courantes incluent la normalisation (mise à l'échelle min-max) et la standardisation (réduction-centrage), qui améliorent la convergence des algorithmes d'optimisation.

@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /id/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:33:49.614429Z"
 lastmod: "2026-07-18T16:38:07.411833Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Prompting Berpikir Bertahap adalah teknik yang mendorong Model Bahasa Besar (LLM) untuk menghasilkan langkah-langkah penalaran perantara sebelum menghasilkan jawaban akhir."
 ---
-
 ## Definition
 
 Prompting Berpikir Bertahap (CoT) meningkatkan kinerja model bahasa besar pada tugas penalaran kompleks dengan secara eksplisit meminta model untuk mengartikulasikan logika langkah demi langkahnya. Alih-alih melompat langsung ke

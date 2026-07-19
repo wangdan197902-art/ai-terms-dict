@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /fi/terms/trade_off/
 date: "2026-07-18T15:34:57.275639Z"
 lastmod: "2026-07-18T17:15:09.366771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kompromissi, jossa hyödyn saavuttaminen yhdellä alueella johtaa menetykseen toisella."
 ---
-
 ## Definition
 
 Tekoälyssä ja insinööritieteessä kompromissi viittaa ristiriitaisten tavoitteiden optimoinnissa vaadittavaan tasapainoon, kuten mallin tarkkuuden ja laskennallisen kustannuksen tai latenssin ja tarkkuuden välillä. Koska resurssit ovat rajallisia...

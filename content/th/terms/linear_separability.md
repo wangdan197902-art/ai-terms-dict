@@ -1,23 +1,23 @@
 ---
-title: "ความสามารถในการแยกเชิงเส้น"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: ความสามารถในการแยกเชิงเส้น
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /th/terms/linear_separability/
-date: "2026-07-18T16:02:51.617255Z"
-lastmod: "2026-07-18T16:38:07.626378Z"
+slug: linear_separability
+date: '2026-07-18T16:02:51.617255Z'
+lastmod: '2026-07-18T16:38:07.626378Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คุณสมบัติของชุดข้อมูลที่สามารถแบ่งคลาสสองคลาสออกจากกันอย่างสมบูรณ์ด้วยเส้นตรงหรือไฮเปอร์เพลนเพียงเส้นเดียว"
+source: agnes_llm
+status: published
+language: th
+description: คุณสมบัติของชุดข้อมูลที่สามารถแบ่งคลาสสองคลาสออกจากกันอย่างสมบูรณ์ด้วยเส้นตรงหรือไฮเปอร์เพลนเพียงเส้นเดียว
 ---
-
 ## Definition
 
 ความสามารถในการแยกเชิงเส้นหมายถึงเงื่อนไขทางเรขาคณิตที่ซึ่งจุดข้อมูลที่เป็นของคลาสต่างกันสามารถถูกแยกออกจากกันได้อย่างสมบูรณ์โดยขอบเขตเชิงเส้น เช่น เส้นในปริภูมิ 2 มิติ หรือไฮเปอร์เพลน

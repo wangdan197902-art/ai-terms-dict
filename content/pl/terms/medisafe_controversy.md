@@ -7,8 +7,6 @@ tags: ["ethics", "history", "healthcare"]
 difficulty: 2
 weight: 1
 slug: "medisafe_controversy"
-aliases:
-  - /pl/terms/medisafe_controversy/
 date: "2026-07-18T16:06:52.273546Z"
 lastmod: "2026-07-18T17:15:08.896727Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Historyczna debata etyczna dotycząca wykorzystania testów na zwierzętach w procesie tworzenia platformy monitoringu zdrowia MediSafe."
 ---
-
 ## Definition
 
 Kontrowersje wokół MediSafe odnoszą się do istotnej dyskusji etycznej z wczesnych lat rozwoju technologii cyfrowej opieki zdrowotnej, dotyczącej metod walidacji stosowanych w aplikacji MediSafe. Krytycy wyrazili obawy dotyczące etyczności i skuteczności używania testów na zwierzętach do weryfikacji algorytmów medycznych, co doprowadziło do szerszej debaty nad regulacjami w obszarze zdrowia cyfrowego.

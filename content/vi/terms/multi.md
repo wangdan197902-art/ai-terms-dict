@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /vi/terms/multi/
 date: "2026-07-18T15:27:19.519160Z"
 lastmod: "2026-07-18T16:38:07.690442Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tiền tố chỉ sự hiện diện của nhiều phiên bản, đầu (heads) hoặc phương thức (modalities) trong một hệ thống hoặc mô hình."
 ---
-
 ## Definition
 
 Tiền tố 'đa-' thường được sử dụng trong AI để chỉ các kiến trúc hoặc quy trình liên quan đến nhiều thành phần song song. Ví dụ bao gồm Chú ý Đa đầu (Multi-Head Attention), cho phép các mô hình tập trung vào các...

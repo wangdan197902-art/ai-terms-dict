@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /cs/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:54:00.040501Z"
-lastmod: "2026-07-18T17:15:09.123102Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:54:00.040501Z'
+lastmod: '2026-07-18T17:15:09.123102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Pipeline implementující architekturu Stable Diffusion 3, která využívá MMDiT a Flow Matching pro zlepšení kvality obrázků a vykreslování textu."
+source: agnes_llm
+status: published
+language: cs
+description: Pipeline implementující architekturu Stable Diffusion 3, která využívá
+  MMDiT a Flow Matching pro zlepšení kvality obrázků a vykreslování textu.
 ---
-
 ## Definition
 
 Tato pipeline využívá model Stable Diffusion 3, který zavádí architekturu Multimodal Diffusion Transformer (MMDiT) a cíl tréninku Flow Matching. Tyto pokroky významně zvyšují...

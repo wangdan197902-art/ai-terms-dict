@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /ro/terms/artificial_intimacy/
 date: "2026-07-18T15:44:51.947874Z"
 lastmod: "2026-07-18T17:15:09.629099Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Conexiunea emoțională pe care utilizatorii o formează cu entitățile IA care simulează empatia, compania și interacțiunea personală."
 ---
-
 ## Definition
 
 Intimitatea artificială se referă la fenomenul psihologic prin care oamenii dezvoltă legături emoționale autentice cu agenți artificiali, cum ar fi chatbot-uri, asistenți virtuali sau roboți sociali. Aceste sisteme sunt concepute pentru a imita comportamentul uman și a răspunde la nevoile sociale și emoționale ale utilizatorilor.

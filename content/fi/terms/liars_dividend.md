@@ -1,23 +1,25 @@
 ---
-title: "Valheellisen hyöty"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: Valheellisen hyöty
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /fi/terms/liars_dividend/
-date: "2026-07-18T16:06:48.050043Z"
-lastmod: "2026-07-18T17:15:09.428264Z"
+slug: liars_dividend
+date: '2026-07-18T16:06:48.050043Z'
+lastmod: '2026-07-18T17:15:09.428264Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ilmiö, jossa syväväärennösten ja tekoälyn luomien medioiden olemassaolo mahdollistaa pahantahtoisten toimijoiden hylkäämään aitona pidettävät todisteet heidän väärinkäytöksestään väärennöksinä."
+source: agnes_llm
+status: published
+language: fi
+description: Ilmiö, jossa syväväärennösten ja tekoälyn luomien medioiden olemassaolo
+  mahdollistaa pahantahtoisten toimijoiden hylkäämään aitona pidettävät todisteet
+  heidän väärinkäytöksestään väärennöksinä.
 ---
-
 ## Definition
 
 Valheellinen hyöty viittaa yhteiskunnalliseen riskiin, jonka aiheuttavat edistyneet generatiiviset tekoälyjärjestelmät, erityisesti syäväreennökset. Kun synteettinen media muuttuu erottamattomaksi todellisuudesta, haitalliset yksilöt voivat väittää...

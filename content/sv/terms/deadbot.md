@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /sv/terms/deadbot/
 date: "2026-07-18T15:52:54.162812Z"
 lastmod: "2026-07-18T17:15:08.993821Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En chattbot som har lagts ner, stängts av eller inte längre underhålls, vilket ofta leder till statiska felmeddelanden eller inget svar vid användarinmatning."
 ---
-
 ## Definition
 
 En deadbot syftar på en konversationell agent eller chattbottjänst som inte längre är aktiv, underhålls eller stöds av sina utvecklare. Dessa botar kan returnera generiska felmeddelanden, statiska svar eller kopierade svar istället för dynamiska interaktioner.

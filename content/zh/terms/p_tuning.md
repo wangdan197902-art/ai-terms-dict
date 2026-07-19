@@ -1,23 +1,23 @@
 ---
-title: "P-Tuning"
-term_id: "p_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "nlp"]
+title: P-Tuning
+term_id: p_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- NLP
 difficulty: 4
 weight: 1
-slug: "p_tuning"
-aliases:
-  - /zh/terms/p_tuning/
-date: "2026-07-18T11:29:14.184533Z"
-lastmod: "2026-07-18T11:44:45.539913Z"
+slug: p_tuning
+date: '2026-07-18T11:29:14.184533Z'
+lastmod: '2026-07-18T11:44:45.539913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "P-Tuning 是一种参数高效微调方法，它通过优化连续的提示嵌入（prompt embeddings）来适应任务，而不是更新整个预训练模型的权重。"
+source: agnes_llm
+status: published
+language: zh
+description: P-Tuning 是一种参数高效微调方法，它通过优化连续的提示嵌入（prompt embeddings）来适应任务，而不是更新整个预训练模型的权重。
 ---
-
 ## Definition
 
 P-Tuning（提示微调）是一种旨在以最低计算成本将大型预训练语言模型适配到特定下游任务的技术。与微调所有模型参数不同，P-Tuning 仅优化少量可学习的提示向量，同时保持预训练模型的权重冻结，从而显著降低资源消耗并防止灾难性遗忘。

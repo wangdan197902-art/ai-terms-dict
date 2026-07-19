@@ -1,23 +1,25 @@
 ---
-title: "Pusat Data Berbasis Luar Angkasa"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: Pusat Data Berbasis Luar Angkasa
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /id/terms/space_based_data_center/
-date: "2026-07-18T16:09:19.755433Z"
-lastmod: "2026-07-18T16:38:07.508517Z"
+slug: space_based_data_center
+date: '2026-07-18T16:09:19.755433Z'
+lastmod: '2026-07-18T16:38:07.508517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Fasilitas komputasi yang terletak di orbit yang memanfaatkan kondisi luar angkasa seperti energi surya dan pendinginan vakum untuk pemrosesan data yang efisien."
+source: agnes_llm
+status: published
+language: id
+description: Fasilitas komputasi yang terletak di orbit yang memanfaatkan kondisi
+  luar angkasa seperti energi surya dan pendinginan vakum untuk pemrosesan data yang
+  efisien.
 ---
-
 ## Definition
 
 Pusat data berbasis luar angkasa adalah fasilitas komputasi yang diusulkan berada di orbit Bumi, dirancang untuk memanfaatkan keunggulan lingkungan unik seperti daya surya yang melimpah dan vakum alami luar angkasa untuk pendinginan.

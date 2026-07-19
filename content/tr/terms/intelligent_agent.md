@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /tr/terms/intelligent_agent/
 date: "2026-07-18T15:58:45.947525Z"
 lastmod: "2026-07-18T16:38:07.321906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çevresini algılayan, eylemler hakkında muhakeme yürüten ve belirli hedeflere ulaşmak için görevleri yerine getiren otonom bir yazılım varlığı."
 ---
-
 ## Definition
 
 Akıllı bir ajan, çevresini sensörler veya veri girdileri aracılığıyla algılayabilen, bu bilgileri muhakeme algoritmaları kullanarak işleyebilen ve eylemleri bir aktuatörler aracılığıyla çevreye uygulayabilen bir sistemdir

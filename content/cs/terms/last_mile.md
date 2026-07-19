@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /cs/terms/last_mile/
 date: "2026-07-18T16:05:22.045092Z"
 lastmod: "2026-07-18T17:15:09.146646Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Finální fáze dodávky řešení AI z vývojových prostředí do rukou koncových uživatelů v reálných provozních podmínkách."
 ---
-
 ## Definition
 
 Problém „poslední míle“ označuje výzvy spojené s nasazováním modelů do produkce, včetně integrace s existující infrastrukturou, zajištění nízké latence při inferenci a zvládání okrajových případů (edge cases).

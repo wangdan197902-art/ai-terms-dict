@@ -1,23 +1,25 @@
 ---
-title: "Ivrig inlärning"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Ivrig inlärning
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /sv/terms/eager_learning/
-date: "2026-07-18T15:55:04.600291Z"
-lastmod: "2026-07-18T17:15:08.998736Z"
+slug: eager_learning
+date: '2026-07-18T15:55:04.600291Z'
+lastmod: '2026-07-18T17:15:08.998736Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ivrig inlärning är en maskininlärningsapproach där generaliseringsfunktionen lärs in under träningsfasen, vilket möjliggör snabba prediktionstider efter att träningen är avslutad."
+source: agnes_llm
+status: published
+language: sv
+description: Ivrig inlärning är en maskininlärningsapproach där generaliseringsfunktionen
+  lärs in under träningsfasen, vilket möjliggör snabba prediktionstider efter att
+  träningen är avslutad.
 ---
-
 ## Definition
 
 Vid ivrig inlärning konstruerar systemet en generell målfunktion eller modell baserat på träningsdata innan nya instanser möts. Detta står i kontrast till lat inlärning, som fördröjer generalisering

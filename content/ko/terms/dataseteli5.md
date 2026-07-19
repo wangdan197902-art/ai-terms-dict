@@ -1,23 +1,24 @@
 ---
-title: "데이터셋: Eli5"
-term_id: "dataseteli5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "qa_systems", "social_media"]
+title: '데이터셋: Eli5'
+term_id: dataseteli5
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Qa Systems
+- Social Media
 difficulty: 2
 weight: 1
-slug: "dataseteli5"
-aliases:
-  - /ko/terms/dataseteli5/
-date: "2026-07-18T15:47:46.193555Z"
-lastmod: "2026-07-18T16:38:06.825784Z"
+slug: dataseteli5
+date: '2026-07-18T15:47:46.193555Z'
+lastmod: '2026-07-18T16:38:06.825784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "'5살 아이에게 설명하듯(Eliminate Like I'm Five)' 형식으로 작성된 질문과 답변을 담은 대규모 데이터셋으로, 상세한 설명에 중점을 둡니다."
+source: agnes_llm
+status: published
+language: ko
+description: '''5살 아이에게 설명하듯(Eliminate Like I''m Five)'' 형식으로 작성된 질문과 답변을 담은 대규모 데이터셋으로,
+  상세한 설명에 중점을 둡니다.'
 ---
-
 ## Definition
 
 ELI5는 동일한 이름을 가진 레딧(Reddit) 커뮤니티에서 파생된 데이터셋입니다. 사용자가 제출한 질문과 커뮤니티 구성원들이 제공한 상세하고 단순화된 답변으로 구성되어 있습니다.

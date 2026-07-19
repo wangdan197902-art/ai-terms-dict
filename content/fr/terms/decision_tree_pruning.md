@@ -1,23 +1,23 @@
 ---
-title: "Élagage d'arbre de décision"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Élagage d'arbre de décision
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /fr/terms/decision_tree_pruning/
-date: "2026-07-18T11:12:54.770655Z"
-lastmod: "2026-07-18T11:44:45.240866Z"
+slug: decision_tree_pruning
+date: '2026-07-18T11:12:54.770655Z'
+lastmod: '2026-07-18T11:44:45.240866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique pour réduire la taille des arbres de décision en supprimant les sections qui offrent peu de puissance pour classifier les instances."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique pour réduire la taille des arbres de décision en supprimant
+  les sections qui offrent peu de puissance pour classifier les instances.
 ---
-
 ## Definition
 
 L'élagage est une méthode utilisée pour prévenir le surapprentissage dans les modèles d'arbres de décision en supprimant les branches ayant une faible puissance prédictive. Il peut être effectué par élagage préalable (en arrêtant la croissance de l'arbre tôt) ou par élagage ultérieur (en supprimant les branches après la construction complète).

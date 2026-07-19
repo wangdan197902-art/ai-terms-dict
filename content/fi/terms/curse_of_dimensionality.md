@@ -1,23 +1,24 @@
 ---
-title: "Ulottuvuuden kirous"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Ulottuvuuden kirous
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /fi/terms/curse_of_dimensionality/
-date: "2026-07-18T15:50:34.346114Z"
-lastmod: "2026-07-18T17:15:09.396129Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:50:34.346114Z'
+lastmod: '2026-07-18T17:15:09.396129Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ilmiö, jossa avaruuden tilavuus kasvaa eksponentiaalisesti ulottuvuuksien myötä, mikä aiheuttaa datan harvenemisen ja etäisyyksien mittausten tehottomuuden."
+source: agnes_llm
+status: published
+language: fi
+description: Ilmiö, jossa avaruuden tilavuus kasvaa eksponentiaalisesti ulottuvuuksien
+  myötä, mikä aiheuttaa datan harvenemisen ja etäisyyksien mittausten tehottomuuden.
 ---
-
 ## Definition
 
 Ulottuvuuden kirous viittaa erilaisiin ilmiöihin, jotka syntyvät korkeaulotteisessa avaruudessa analysoitaessa dataa ja jotka eivät esiinny matalaulotteisissa ympäristöissä. Kun ominaisuuksien määrä kasvaa, data muuttuu harvaksi tilassa, mikä vaikeuttaa mallien oppimista ja tekee etäisyyspohjaisista algoritmeista vähemmän luotettavia.

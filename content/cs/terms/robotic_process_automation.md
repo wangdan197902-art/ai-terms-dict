@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /cs/terms/robotic_process_automation/
 date: "2026-07-18T16:16:21.189634Z"
 lastmod: "2026-07-18T17:15:09.197751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využití softwarových botů k automatizaci vysokozátěžových, opakujících se digitálních úkolů, které byly tradičně vykonávány lidmi v obchodních procesech."
 ---
-
 ## Definition
 
 Automatizace robotických procesů (RPA) využívá softwarové roboty, často rozšířené o AI, k imitaci lidských interakcí s digitálními systémy. Používá se ke zjednodušení pracovních postupů, jako je zadávání dat, zpracování faktur

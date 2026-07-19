@@ -1,23 +1,23 @@
 ---
-title: "지도 학습"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: 지도 학습
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /ko/terms/supervised_learning/
-date: "2026-07-18T15:36:33.155994Z"
-lastmod: "2026-07-18T16:38:06.800783Z"
+slug: supervised_learning
+date: '2026-07-18T15:36:33.155994Z'
+lastmod: '2026-07-18T16:38:06.800783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델이 레이블이 지정된 훈련 예제를 기반으로 입력을 출력으로 매핑하도록 학습하는 머신러닝 패러다임입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델이 레이블이 지정된 훈련 예제를 기반으로 입력을 출력으로 매핑하도록 학습하는 머신러닝 패러다임입니다.
 ---
-
 ## Definition
 
 지도 학습에서는 알고리즘이 레이블이 지정된 데이터셋으로 훈련되며, 각 입력 예제는 올바른 출력과 짝을 이룹니다. 목표는 모델이 입력과 출력 사이의 근본적인 관계를 학습하도록 하는 것입니다.

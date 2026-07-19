@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /id/terms/data_minimization/
 date: "2026-07-18T16:14:07.303210Z"
 lastmod: "2026-07-18T16:38:07.521148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Prinsip mengumpulkan dan memproses hanya data pribadi yang benar-benar diperlukan untuk tujuan tertentu."
 ---
-
 ## Definition
 
 Minimisasi data adalah prinsip privasi inti yang mewajibkan organisasi membatasi pengumpulan data hanya pada apa yang memadai, relevan, dan terbatas pada yang diperlukan. Dalam AI, ini berarti merancang model yang tidak menyimpan atau memproses informasi sensitif yang tidak esensial untuk tugas prediksi, sehingga mengurangi risiko kebocoran data dan pelanggaran privasi.

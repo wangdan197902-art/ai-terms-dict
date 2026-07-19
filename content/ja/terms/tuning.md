@@ -1,23 +1,23 @@
 ---
-title: "チューニング"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: チューニング
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /ja/terms/tuning/
-date: "2026-07-18T10:55:53.677099Z"
-lastmod: "2026-07-18T11:44:45.022133Z"
+slug: tuning
+date: '2026-07-18T10:55:53.677099Z'
+lastmod: '2026-07-18T11:44:45.022133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "特定のデータセットやタスクに対するパフォーマンスを最適化するために、ハイパーパラメータやモデルの重みを調整するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 特定のデータセットやタスクに対するパフォーマンスを最適化するために、ハイパーパラメータやモデルの重みを調整するプロセス。
 ---
-
 ## Definition
 
 チューニングは、より高い精度や効率を実現するために機械学習モデルを洗練させることを指します。これには、学習率やバッチサイズなどの設定を最適化するハイパーパラメータチューニングが含まれます。また、ファインチューニングのように、事前学習済みのモデルの重みを特定のタスクに合わせて調整することも含まれます。

@@ -1,23 +1,23 @@
 ---
-title: "ファイングレインド（細粒度）"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: ファイングレインド（細粒度）
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /ja/terms/fine_grained/
-date: "2026-07-18T10:56:32.271705Z"
-lastmod: "2026-07-18T11:44:45.024958Z"
+slug: fine_grained
+date: '2026-07-18T10:56:32.271705Z'
+lastmod: '2026-07-18T11:44:45.024958Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "広範なカテゴリ内で微妙な違いを区別することを必要とする分析または分類タスクを記述する用語。"
+source: agnes_llm
+status: published
+language: ja
+description: 広範なカテゴリ内で微妙な違いを区別することを必要とする分析または分類タスクを記述する用語。
 ---
-
 ## Definition
 
 ファイングレインド分析とは、主要なクラスだけでなく、サブクラスレベルでオブジェクトや概念を識別および分類することを含みます。例えば、犬の品種全体を「犬」として分類するのではなく、特定の品種（例：ゴールデンレトリバー vs シバインヌ）を区別したり、鳥の種類を属レベルではなく種レベルで識別したりすることが該当します。

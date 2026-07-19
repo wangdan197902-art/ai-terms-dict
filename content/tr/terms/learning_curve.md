@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /tr/terms/learning_curve/
 date: "2026-07-18T16:00:34.487184Z"
 lastmod: "2026-07-18T16:38:07.327047Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir öğrenme eğrisi, modelin performans metriğini eğitim verisi miktarına veya eğitim dönemlerine karşı görselleştirerek öğrenme ilerlemesini gösterir."
 ---
-
 ## Definition
 
 Tipik olarak, bir öğrenme eğrisi y ekseninde eğitim ve doğrulama skorlarını, x ekseninde ise eğitim örneklerinin sayısı veya yineleme sayısını gösterir. Modelin yüksek yanlılık (underfitting) mı yoksa yüksek varyans (overfitting) mi yaşadığını teşhis etmeye yardımcı olur.

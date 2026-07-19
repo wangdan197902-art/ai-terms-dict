@@ -1,23 +1,24 @@
 ---
-title: "من الدرجة الأولى"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: من الدرجة الأولى
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /ar/terms/first_order/
-date: "2026-07-18T15:33:20.057710Z"
-lastmod: "2026-07-18T17:15:08.454117Z"
+slug: first_order
+date: '2026-07-18T15:33:20.057710Z'
+lastmod: '2026-07-18T17:15:08.454117Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير إلى المفاهيم التي تتضمن علاقات مباشرة أو تقريباً خطياً، مثل المنطق من الدرجة الأولى أو المشتقات من الدرجة الأولى."
+source: agnes_llm
+status: published
+language: ar
+description: يشير إلى المفاهيم التي تتضمن علاقات مباشرة أو تقريباً خطياً، مثل المنطق
+  من الدرجة الأولى أو المشتقات من الدرجة الأولى.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي والرياضيات، يصف مصطلح 'من الدرجة الأولى' عادةً الأنظمة أو العمليات التي تتضمن علاقات مباشرة وخطية دون تفاعلات من رتب أعلى. في التحسين، يعتمد على المعلومات من الرتبة الأولى (مثل التدرجات) لتحديد اتجاه الخطوة الأمثل.

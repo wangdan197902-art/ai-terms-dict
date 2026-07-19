@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /no/terms/closed_loop/
 date: "2026-07-18T15:33:00.983472Z"
 lastmod: "2026-07-18T16:38:06.950963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et styresystem der utgangstilbakekobling kontinuerlig brukes til å justere fremtidige handlinger."
 ---
-
 ## Definition
 
 Lukket-sløyfe-systemer innen AI bruker sanntidsinformasjon fra miljøet til dynamisk å justere atferd eller parametere. Dette står i kontrast til åpne sløyfesystemer som utfører forhåndsdefinerte sekvenser uten

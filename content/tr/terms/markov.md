@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /tr/terms/markov/
 date: "2026-07-18T15:26:53.342485Z"
 lastmod: "2026-07-18T16:38:07.237479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Markov, gelecekteki durumun yalnızca mevcut duruma bağlı olduğu ve hafızasızlık özelliğini (Markov özelliği) takip eden stokastik süreçleri ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka ve olasılık teorisinde Markov süreçleri, durumlar arasında rastgele geçiş yapan sistemleri tanımlamak için kullanılan temel modellerdir. Temel ilke, sistemin geçmiş durumlarını değil, yalnızca mevcut durumu dikkate alan Markov özelliğidir.

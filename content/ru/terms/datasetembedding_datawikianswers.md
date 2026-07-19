@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /ru/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:48:03.498509Z"
 lastmod: "2026-07-18T16:38:07.140571Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Набор данных, содержащий пары вопросов и ответов с платформы WikiAnswers, используемый для обучения моделей пониманию намерений и семантического эквивалента."
 ---
-
 ## Definition
 
 Этот набор данных содержит миллионы пар вопросов и ответов, собранных с ныне несуществующей платформы WikiAnswers. Он в основном используется для обучения моделей плотного поиска отрывков (dense passage retrieval) и семантического сопоставления. Используя

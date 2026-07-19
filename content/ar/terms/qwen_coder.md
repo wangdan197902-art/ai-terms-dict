@@ -1,23 +1,23 @@
 ---
-title: "كوين كودر (Qwen Coder)"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: كوين كودر (Qwen Coder)
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /ar/terms/qwen_coder/
-date: "2026-07-18T16:18:22.125724Z"
-lastmod: "2026-07-18T17:15:08.541706Z"
+slug: qwen_coder
+date: '2026-07-18T16:18:22.125724Z'
+lastmod: '2026-07-18T17:15:08.541706Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كوين كودر هو متغير متخصص من نموذج كوين مُحسّن لمهام تطوير البرمجيات والبرمجة."
+source: agnes_llm
+status: published
+language: ar
+description: كوين كودر هو متغير متخصص من نموذج كوين مُحسّن لمهام تطوير البرمجيات والبرمجة.
 ---
-
 ## Definition
 
 كوين كودر هو إصدار مخصص من نموذج كوين للغة الكبيرة، تم ضبطه بدقة خصيصاً لأنشطة البرمجة. يتفوق في توليد الأكواد، وتصحيح الأخطاء، وفهم قواعد الكود المعقدة.

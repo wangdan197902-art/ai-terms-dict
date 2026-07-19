@@ -7,8 +7,6 @@ tags: ["theory", "education", "research"]
 difficulty: 2
 weight: 1
 slug: "toy_problem"
-aliases:
-  - /id/terms/toy_problem/
 date: "2026-07-18T16:11:50.659004Z"
 lastmod: "2026-07-18T16:38:07.516237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Versi disederhanakan dari masalah kompleks yang digunakan untuk menguji algoritma atau teori tanpa kebisingan dan skala skenario dunia nyata."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan dan ilmu komputer, masalah mainan adalah skenario yang sangat disederhanakan yang dirancang untuk menggambarkan konsep atau menguji algoritma baru. Contoh termasuk masalah N-Ratu atau Travesi Penjual Keliling. Masalah ini memungkinkan peneliti untuk memvalidasi logika dasar sebelum menerapkannya pada data dunia nyata yang berantakan dan berskala besar.

@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /ko/terms/reasoning_model/
 date: "2026-07-18T16:13:06.224406Z"
 lastmod: "2026-07-18T16:38:06.903097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "複雑な論理的推論、段階的な問題解決、思考連鎖処理を実行するために特別に最適化されたAIモデル。"
 ---
-
 ## Definition
 
 流暢さを重視する標準的な生成モデルとは異なり、推論モデルは数学、コーディング、論理パズルなどの多段階タスクにおける正確性を優先します。これらはしばしば思考連鎖（Chain-of-Thought）などの手法を採用し...

@@ -1,23 +1,25 @@
 ---
-title: "Análisis Formal de Conceptos"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Análisis Formal de Conceptos
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /es/terms/formal_concept_analysis/
-date: "2026-07-18T10:49:45.559677Z"
-lastmod: "2026-07-18T11:44:44.808047Z"
+slug: formal_concept_analysis
+date: '2026-07-18T10:49:45.559677Z'
+lastmod: '2026-07-18T11:44:44.808047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El Análisis Formal de Conceptos (AFC) es un método matemático para derivar jerarquías conceptuales a partir de datos utilizando contextos formales y retículas de conceptos."
+source: agnes_llm
+status: published
+language: es
+description: El Análisis Formal de Conceptos (AFC) es un método matemático para derivar
+  jerarquías conceptuales a partir de datos utilizando contextos formales y retículas
+  de conceptos.
 ---
-
 ## Definition
 
 El AFC proporciona un marco riguroso para analizar las relaciones entre objetos y sus atributos, dando lugar a una estructura jerárquica conocida como retícula de conceptos. Es ampliamente utilizado en la organización del conocimiento y la minería de datos para descubrir patrones estructurales.

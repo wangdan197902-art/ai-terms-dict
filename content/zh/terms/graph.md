@@ -1,23 +1,23 @@
 ---
-title: "图"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: 图
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /zh/terms/graph/
-date: "2026-07-18T10:51:41.469514Z"
-lastmod: "2026-07-18T11:44:45.369856Z"
+slug: graph
+date: '2026-07-18T10:51:41.469514Z'
+lastmod: '2026-07-18T11:44:45.369856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由通过边连接的节点组成的数学结构，用于表示实体之间的关系。"
+source: agnes_llm
+status: published
+language: zh
+description: 由通过边连接的节点组成的数学结构，用于表示实体之间的关系。
 ---
-
 ## Definition
 
 图是人工智能中的一种基本数据结构，由顶点（节点）和边（链接）组成，用于表示关系。图神经网络（GNN）利用这种结构在非欧几里得数据上进行学习。

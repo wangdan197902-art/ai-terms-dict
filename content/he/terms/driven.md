@@ -1,23 +1,24 @@
 ---
-title: "מונחה (Driven)"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: מונחה (Driven)
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /he/terms/driven/
-date: "2026-07-18T15:24:35.980294Z"
-lastmod: "2026-07-18T17:15:09.475767Z"
+slug: driven
+date: '2026-07-18T15:24:35.980294Z'
+lastmod: '2026-07-18T17:15:09.475767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מונחה מתאר מערכות או מתודולוגיות של בינה מלאכותית שבה קבלת החלטות או ארכיטקטורת המודל מונחות בעיקר על ידי סוג קלט ספציפי, כמו נתונים או מטרות."
+source: agnes_llm
+status: published
+language: he
+description: מונחה מתאר מערכות או מתודולוגיות של בינה מלאכותית שבה קבלת החלטות או
+  ארכיטקטורת המודל מונחות בעיקר על ידי סוג קלט ספציפי, כמו נתונים או מטרות.
 ---
-
 ## Definition
 
 המונח 'מונחה' משמש לעיתים קרובות כסיומת כדי לציין את הכוח או המנגנון הראשי מאחורי גישת בינה מלאכותית. לדוגמה, 'מונחה נתונים' משמעו שההחלטות מתבססות על דפוסים סטטיסטיים בנתונים.

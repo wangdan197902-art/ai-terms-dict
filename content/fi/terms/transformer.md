@@ -1,23 +1,24 @@
 ---
-title: "Muunnin"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Muunnin
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /fi/terms/transformer/
-date: "2026-07-18T15:32:15.090653Z"
-lastmod: "2026-07-18T17:15:09.361772Z"
+slug: transformer
+date: '2026-07-18T15:32:15.090653Z'
+lastmod: '2026-07-18T17:15:09.361772Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Syväoppimisarkkitehtuuri, joka perustuu itsehuomion mekanismeihin ja käsittelee sekvenssidataa rinnakkain peräkkäisen sijaan."
+source: agnes_llm
+status: published
+language: fi
+description: Syväoppimisarkkitehtuuri, joka perustuu itsehuomion mekanismeihin ja
+  käsittelee sekvenssidataa rinnakkain peräkkäisen sijaan.
 ---
-
 ## Definition
 
 Muunninarkkitehtuuri, joka esiteltiin artikkelissa "Attention Is All You Need", muutti kokonaan luonnollisen kielen käsittelyn ja sen ulkopuoliset alueet. Se käyttää monipäistä itsehuomiota punotakseen yhteen syvällisiä yhteyksiä datassa.

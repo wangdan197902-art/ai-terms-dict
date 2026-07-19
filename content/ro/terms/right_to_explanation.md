@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /ro/terms/right_to_explanation/
 date: "2026-07-18T16:19:40.538742Z"
 lastmod: "2026-07-18T17:15:09.699285Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un principiu juridic și etic care acordă indivizilor dreptul de a primi informații semnificative despre deciziile automatizate care îi afectează în mod semnificativ."
 ---
-
 ## Definition
 
 Dreptul la explicație este o componentă centrală a responsabilității algoritmice, în special în cadrul unor cadre precum GDPR. Acesta asigură că, atunci când un sistem IA ia o decizie care afectează drepturile unei persoane, aceasta poate obține o explicație clară.

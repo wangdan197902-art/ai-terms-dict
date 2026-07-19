@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /it/terms/latent/
 date: "2026-07-18T15:26:09.314117Z"
 lastmod: "2026-07-18T17:15:08.568729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a variabili o rappresentazioni nascoste e sottostanti nello spazio interno di un modello che catturano le caratteristiche essenziali dei dati."
 ---
-
 ## Definition
 
 Nel machine learning, le variabili latenti sono fattori non osservati che influenzano i dati osservati. Nelle reti neurali, in particolare negli autoencoder e nei modelli di diffusione, gli spazi latenti rappresentano una compressione astratta

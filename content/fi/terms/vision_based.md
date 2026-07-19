@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /fi/terms/vision_based/
 date: "2026-07-18T15:34:57.275701Z"
 lastmod: "2026-07-18T17:15:09.367060Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestelmät, jotka perustuvat ensisijaisesti visuaalisiin datasyötteisiin maailman hahmottamiseksi ja vuorovaikutukseen."
 ---
-
 ## Definition
 
 Näköpohjaiset paradigmat käyttävät kameroita ja kuvankäsittelyalgoritmeja merkityksellisen tiedon erottamiseksi visuaalisista kohtauksista. Nämä järjestelmät ovat perustavanlaatuisia robotiikassa, autonomisessa ajossa ja tehostetussa todellisuudessa...

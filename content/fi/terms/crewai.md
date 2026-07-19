@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /fi/terms/crewai/
 date: "2026-07-18T15:50:17.166069Z"
 lastmod: "2026-07-18T17:15:09.395518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "CrewAI on kehys, jota käytetään roolipelaavien itsenäisten tekoälyagenttien orkestrointiin monimutkaisten tehtävien suorittamiseksi yhteistyössä."
 ---
-
 ## Definition
 
 CrewAI tarjoaa rakenteellisen ympäristön moniagenttijärjestelmien rakentamiseen, jossa jokaisella agentilla on tietty rooli, tavoite ja työkalujoukko. Se yksinkertaistaa työnkulkujen luomista mahdollistamalla kehittäjille agenttien välistä koordinointia ja tehtävien delegointia.

@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /ko/terms/sample_complexity/
 date: "2026-07-18T16:14:34.987266Z"
 lastmod: "2026-07-18T16:38:06.905998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "샘플 복잡성은 머신러닝 알고리즘이 높은 확률로 특정 수준의 성능을 달성하는 데 필요한 훈련 예제의 수를 의미합니다."
 ---
-
 ## Definition
 
 계산 학습 이론에서 샘플 복잡성은 모델을 효과적으로 훈련하는 데 필요한 데이터 양을 정량화합니다. 이는 모델 용량과 데이터 가용성 사이의 균형을 맞추어 일반화 오차를 최소화하는 데 기여합니다.

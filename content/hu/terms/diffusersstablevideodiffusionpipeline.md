@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stable Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /hu/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:57:22.016488Z"
-lastmod: "2026-07-18T17:15:09.777196Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:57:22.016488Z'
+lastmod: '2026-07-18T17:15:09.777196Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy Hugging Face Diffusers csomagolófelület, amely a Stable Video Diffusion modellt használja statikus képekből videók generálására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy Hugging Face Diffusers csomagolófelület, amely a Stable Video Diffusion
+  modellt használja statikus képekből videók generálására.
 ---
-
 ## Definition
 
 Ez a kifejezés a Hugging Face Diffusers könyvtárában található, videógyártásra tervezett specifikus implementációra utal. Integrálja a Stable Video Diffusion (SVD) modellt, amely egy latens térben működő videódifúziós modell.

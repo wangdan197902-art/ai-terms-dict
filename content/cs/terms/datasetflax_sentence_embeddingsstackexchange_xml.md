@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /cs/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:51:24.876392Z"
 lastmod: "2026-07-18T17:15:09.118489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sada dat odvozená z XML dumpů Stack Exchange, používaná pro trénování větných vektorových reprezentací zaměřených na technický a komunitou řízený obsah typu otázek a odpovědí."
 ---
-
 ## Definition
 
 Tato sada dat extrahuje data na úrovni vět z XML souborů Stack Exchange, poskytujících bohatý zdroj technických diskusí, úryvků kódu a dialogů řešících problémy. Je specificky využívána v

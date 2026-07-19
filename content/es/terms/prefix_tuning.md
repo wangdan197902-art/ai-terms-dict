@@ -1,23 +1,24 @@
 ---
-title: "Ajuste por prefijo"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Ajuste por prefijo
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /es/terms/prefix_tuning/
-date: "2026-07-18T11:04:18.184633Z"
-lastmod: "2026-07-18T11:44:44.844178Z"
+slug: prefix_tuning
+date: '2026-07-18T11:04:18.184633Z'
+lastmod: '2026-07-18T11:44:44.844178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un método de ajuste fino eficiente en parámetros que añade vectores continuos entrenables a la entrada de las capas del transformador."
+source: agnes_llm
+status: published
+language: es
+description: Un método de ajuste fino eficiente en parámetros que añade vectores continuos
+  entrenables a la entrada de las capas del transformador.
 ---
-
 ## Definition
 
 El ajuste por prefijo es una técnica de adaptación eficiente en parámetros para transformadores preentrenados. En lugar de actualizar todos los pesos del modelo, se antepone una secuencia de vectores continuos entrenables (el prefijo) a las entradas de las capas del transformador. Esto permite adaptar el comportamiento del modelo a nuevas tareas con una fracción mínima de parámetros adicionales, manteniendo congelada la arquitectura base.

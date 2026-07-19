@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /he/terms/perusall/
 date: "2026-07-18T16:17:07.193127Z"
 lastmod: "2026-07-18T17:15:09.573574Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פלטפורמת למידה חברתית המונעת על ידי בינה מלאכותית, המאפשרת תיקון אוטומטי של הערות ותגובות של תלמידים על טקסטים דיגיטליים."
 ---
-
 ## Definition
 
 Perusall היא פלטפורמת טכנולוגיה חינוכית המנצלת בינה מלאכותית כדי לאפשר קריאה משותפת והערות. היא מתקנת באופן אוטומטי את השתתפות התלמידים בהתבסס על

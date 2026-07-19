@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /en/terms/ai_security_institute/
 date: "2026-07-18T09:43:55.787220Z"
 lastmod: "2026-07-18T11:44:44.635828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An organization dedicated to researching, developing, and promoting best practices for securing artificial intelligence systems."
 ---
-
 ## Definition
 
 An AI Security Institute is a specialized entity focused on mitigating risks associated with artificial intelligence technologies. These institutes conduct research on adversarial attacks, data privacy, and algorithmic bias, while establishing standards and frameworks for secure AI deployment. Their work ensures that AI systems are robust, reliable, and safe from malicious exploitation, fostering trust in emerging technologies across industries.

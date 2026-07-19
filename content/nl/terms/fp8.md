@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /nl/terms/fp8/
-date: "2026-07-18T15:55:47.869467Z"
-lastmod: "2026-07-18T17:15:08.746078Z"
+slug: fp8
+date: '2026-07-18T15:55:47.869467Z'
+lastmod: '2026-07-18T17:15:08.746078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "FP8 is een 8-bit drijvende-kommavormaat dat is ontworpen om de training en inferentie van diepe leermodellen te versnellen, terwijl het aanvaardbare precisieniveaus behoudt."
+source: agnes_llm
+status: published
+language: nl
+description: FP8 is een 8-bit drijvende-kommavormaat dat is ontworpen om de training
+  en inferentie van diepe leermodellen te versnellen, terwijl het aanvaardbare precisieniveaus
+  behoudt.
 ---
-
 ## Definition
 
 Floating-point 8 (FP8) is een numeriek gegevenstype dat een balans biedt tussen rekenkundige efficiëntie en nauwkeurigheid, specifiek geoptimaliseerd voor moderne AI-hardware. Het vermindert de vereiste geheugenbandbreedte

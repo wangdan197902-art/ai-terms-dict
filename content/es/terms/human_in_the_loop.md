@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /es/terms/human_in_the_loop/
 date: "2026-07-18T10:30:42.621053Z"
 lastmod: "2026-07-18T11:44:44.763180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un diseño de sistema donde los humanos participan activamente en el proceso de toma de decisiones o retroalimentación de un modelo de IA."
 ---
-
 ## Definition
 
 El enfoque 'humano en el bucle' (HITL) se refiere a sistemas de IA que requieren intervención humana en varias etapas del flujo de trabajo, como el etiquetado de datos, la evaluación del modelo o la aprobación final de decisiones. Este enfoque asegura mayor precisión y responsabilidad.

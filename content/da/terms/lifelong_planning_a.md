@@ -1,23 +1,24 @@
 ---
-title: "Lifelong Planning A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Lifelong Planning A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /da/terms/lifelong_planning_a/
-date: "2026-07-18T16:04:42.129421Z"
-lastmod: "2026-07-18T17:15:09.305247Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:04:42.129421Z'
+lastmod: '2026-07-18T17:15:09.305247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En inkrementel sti-finding-algoritme, der effektivt opdaterer korteste veje i dynamiske grafer uden at genberegne fra bunden efter ændringer i kantvægte."
+source: agnes_llm
+status: published
+language: da
+description: En inkrementel sti-finding-algoritme, der effektivt opdaterer korteste
+  veje i dynamiske grafer uden at genberegne fra bunden efter ændringer i kantvægte.
 ---
-
 ## Definition
 
 Lifelong Planning A* (LPA*) er en udvidelse af A*-søgealgoritmen designet til miljøer, hvor omkostninger ændrer sig over tid. I stedet for at genstarte søgningen, opretholder LPA* en prioritetskø og opdaterer

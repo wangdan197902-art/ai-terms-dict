@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /pl/terms/high_level/
 date: "2026-07-18T15:32:00.013867Z"
 lastmod: "2026-07-18T17:15:08.826255Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do abstrakcyjnych reprezentacji lub interfejsów programistycznych, które ukrywają przed użytkownikiem szczegóły implementacji niskiego poziomu."
 ---
-
 ## Definition
 
 W kontekście sztucznej inteligencji termin "wysokiego poziomu" oznacza abstrakcje upraszczające złożone procesy. Języki wysokiego poziomu (takie jak Python) lub interfejsy API pozwalają deweloperom budować modele bez konieczności zarządzania pamięcią czy specyfikami sprzętowymi. Znacząco zwiększa to produktywność, umożliwiając skupienie się na logice algorytmu i architekturze modelu, zamiast na szczegółach niskopoziomowych.

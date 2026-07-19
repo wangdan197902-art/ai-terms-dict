@@ -1,23 +1,24 @@
 ---
-title: "Bioserenidad"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Bioserenidad
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /es/terms/bioserenity/
-date: "2026-07-18T10:38:47.630163Z"
-lastmod: "2026-07-18T11:44:44.783442Z"
+slug: bioserenity
+date: '2026-07-18T10:38:47.630163Z'
+lastmod: '2026-07-18T11:44:44.783442Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un estado teórico de coexistencia armoniosa entre la vida biológica y los sistemas de inteligencia artificial."
+source: agnes_llm
+status: published
+language: es
+description: Un estado teórico de coexistencia armoniosa entre la vida biológica y
+  los sistemas de inteligencia artificial.
 ---
-
 ## Definition
 
 La bioserenidad se refiere al ideal conceptual donde la biología humana y la inteligencia artificial operan en una armonía fluida y sin conflictos. Hace hincapié en la integración ética, asegurando que la ampliación de las capacidades humanas mediante IA sea segura y beneficiosa.

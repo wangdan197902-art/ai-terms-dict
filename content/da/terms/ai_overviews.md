@@ -1,23 +1,24 @@
 ---
-title: "AI-overblik"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: AI-overblik
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /da/terms/ai_overviews/
-date: "2026-07-18T15:38:42.863638Z"
-lastmod: "2026-07-18T17:15:09.252577Z"
+slug: ai_overviews
+date: '2026-07-18T15:38:42.863638Z'
+lastmod: '2026-07-18T17:15:09.252577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Resumerede svar genereret af AI-modeller, der syntetiserer information fra flere kilder for hurtig forståelse."
+source: agnes_llm
+status: published
+language: da
+description: Resumerede svar genereret af AI-modeller, der syntetiserer information
+  fra flere kilder for hurtig forståelse.
 ---
-
 ## Definition
 
 AI-overblik er kondenserede resuméer produceret af store sprogmodeller, der samler og syntetiserer data fra forskellige websider eller databaser. Unlike traditional search results that list links, thes

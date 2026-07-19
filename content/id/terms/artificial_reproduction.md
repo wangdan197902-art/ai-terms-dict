@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /id/terms/artificial_reproduction/
 date: "2026-07-18T15:39:29.720310Z"
 lastmod: "2026-07-18T16:38:07.429465Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penggunaan bioteknologi dan AI untuk membantu atau mereplikasi proses reproduksi biologis, sering kali dalam kedokteran atau pertanian."
 ---
-
 ## Definition
 
 Reproduksi buatan mencakup teknik yang memfasilitasi atau mereplikasi reproduksi biologis tanpa hubungan seksual langsung, sangat memanfaatkan teknologi dan semakin menggunakan AI untuk optimisasi

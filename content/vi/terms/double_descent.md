@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /vi/terms/double_descent/
 date: "2026-07-18T15:50:20.327047Z"
 lastmod: "2026-07-18T16:38:07.751494Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Hiện tượng mà sai số kiểm tra giảm, tăng rồi lại giảm tiếp khi độ phức tạp của mô hình vượt qua ngưỡng nội suy."
 ---
-
 ## Definition
 
 Hạ bậc kép thách thức sự đánh đổi truyền thống giữa thiên vị và phương sai bằng cách chỉ ra rằng các mô hình quá tham số hóa cao có thể đạt được sai số kiểm tra thấp mặc dù chúng nội suy dữ liệu huấn luyện. Ban đầu, sai số tăng lên khi độ phức tạp mô hình tăng.

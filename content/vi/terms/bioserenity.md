@@ -1,23 +1,24 @@
 ---
-title: "Sự bình yên sinh học"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Sự bình yên sinh học
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /vi/terms/bioserenity/
-date: "2026-07-18T15:43:26.452516Z"
-lastmod: "2026-07-18T16:38:07.734146Z"
+slug: bioserenity
+date: '2026-07-18T15:43:26.452516Z'
+lastmod: '2026-07-18T16:38:07.734146Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một trạng thái lý thuyết về sự cùng tồn tại hài hòa giữa sự sống sinh học và các hệ thống trí tuệ nhân tạo."
+source: agnes_llm
+status: published
+language: vi
+description: Một trạng thái lý thuyết về sự cùng tồn tại hài hòa giữa sự sống sinh
+  học và các hệ thống trí tuệ nhân tạo.
 ---
-
 ## Definition
 
 Sự bình yên sinh học đề cập đến lý tưởng khái niệm nơi sinh học con người và trí tuệ nhân tạo vận hành trong sự hài hòa liền mạch, không xung đột. Nó nhấn mạnh việc tích hợp đạo đức, đảm bảo rằng việc tăng cường khả năng của AI

@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /it/terms/perception_error_model/
 date: "2026-07-18T16:15:44.770045Z"
 lastmod: "2026-07-18T17:15:08.657769Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un quadro statistico o algoritmico utilizzato per quantificare e correggere le imprecisioni nell'interpretazione dei dati sensoriali."
 ---
-
 ## Definition
 
 Un modello di errore percettivo descrive le discrepanze tra i dati sensoriali osservati e la verità fondamentale, tenendo conto di rumore, occlusione o limitazioni dei sensori. Modellando questi errori, i sistemi IA possono...

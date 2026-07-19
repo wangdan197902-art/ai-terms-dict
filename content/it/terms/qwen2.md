@@ -1,23 +1,24 @@
 ---
-title: "Qwen2"
-term_id: "qwen2"
-category: "basic_concepts"
-subcategory: ""
-tags: ["version-history", "model-generation", "performance"]
+title: Qwen2
+term_id: qwen2
+category: basic_concepts
+subcategory: ''
+tags:
+- Version History
+- Model Generation
+- performance
 difficulty: 3
 weight: 1
-slug: "qwen2"
-aliases:
-  - /it/terms/qwen2/
-date: "2026-07-18T16:18:12.642043Z"
-lastmod: "2026-07-18T17:15:08.662848Z"
+slug: qwen2
+date: '2026-07-18T16:18:12.642043Z'
+lastmod: '2026-07-18T17:15:08.662848Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Qwen2 è la seconda iterazione principale della serie di modelli linguistici di grandi dimensioni Qwen con prestazioni migliorate."
+source: agnes_llm
+status: published
+language: it
+description: Qwen2 è la seconda iterazione principale della serie di modelli linguistici
+  di grandi dimensioni Qwen con prestazioni migliorate.
 ---
-
 ## Definition
 
 Qwen2 segna la seconda generazione significativa della famiglia di modelli Qwen, introducendo miglioramenti architetturali e un set di dati di addestramento ampliato. Questa versione offre capacità superiori nel multilinguismo.

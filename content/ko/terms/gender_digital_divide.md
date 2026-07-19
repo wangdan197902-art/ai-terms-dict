@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /ko/terms/gender_digital_divide/
 date: "2026-07-18T15:57:00.943405Z"
 lastmod: "2026-07-18T16:38:06.844487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "성별 디지털 격차는 남성과 여성 간 정보통신기술(ICT) 접근성, 이용 및 혜택 차이를 의미합니다."
 ---
-
 ## Definition
 
 이 사회기술적 개념은 여성과 소녀들이 남성 및 남아에 비해 디지털 기기, 인터넷 연결 및 디지털 리터러시 기술 접근성이 낮다는 불평등을 강조합니다. 이러한 격차는 사회적, 경제적 요인에 기인하며, 포용적인 디지털 환경 조성을 위한 정책적 개입이 필요한 영역입니다.

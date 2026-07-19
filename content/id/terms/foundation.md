@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /id/terms/foundation/
 date: "2026-07-18T15:25:57.388040Z"
 lastmod: "2026-07-18T16:38:07.393687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model yang telah dilatih sebelumnya pada dataset berskala besar untuk menjadi dasar bagi berbagai tugas turunan."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, model dasar merujuk pada model pembelajaran mesin skala besar yang dilatih pada data luas dalam jumlah besar, seperti gambar, teks, atau audio. Model-model ini dirancang agar dapat beradaptasi

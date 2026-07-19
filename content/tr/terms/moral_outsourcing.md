@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /tr/terms/moral_outsourcing/
 date: "2026-07-18T16:04:32.780739Z"
 lastmod: "2026-07-18T16:38:07.336766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bireylerin veya kuruluşların ahlaki karar verme sorumluluklarını otomatik yapay zeka sistemlerine devretmesiyle ilgili etik endişe."
 ---
-
 ## Definition
 
 Ahlaki dış kaynak kullanımı, insanların etik yargı ve sorumluluğu algoritmalar veya yapay zeka sistemlerine bırakması olgusunu ifade eder. Bu durum, insanlar ahlaki açıdan önem

@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /ko/terms/intelligent_automation/
 date: "2026-07-18T16:00:31.962284Z"
 lastmod: "2026-07-18T16:38:06.855737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "복잡하고 비정형적인 비즈니스 프로세스를 처리하기 위해 인공지능과 로봇 프로세스 자동화(RPA)를 결합한 기술입니다."
 ---
-
 ## Definition
 
 지능형 자동화는 전통적인 로봇 프로세스 자동화(RPA)에 머신러닝 및 자연어 처리와 같은 고급 AI 기술을 통합합니다. RPA가 규칙 기반의 구조화된 작업을 처리하는 반면, 지능형 자동화는 비정형 데이터와 복잡한 의사결정이 필요한 워크플로우를 자동으로 처리하여 효율성을 극대화합니다.

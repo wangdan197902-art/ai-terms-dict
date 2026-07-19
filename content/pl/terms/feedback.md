@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /pl/terms/feedback/
 date: "2026-07-18T15:25:34.993175Z"
 lastmod: "2026-07-18T17:15:08.811243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Sprzężenie zwrotne polega na wykorzystywaniu wyników wyjściowych do iteracyjnego dostosowywania i poprawy wydajności modelu lub systemu AI."
 ---
-
 ## Definition
 
 Mechanizmy sprzężenia zwrotnego pozwalają systemom AI uczyć się z interakcji z użytkownikami lub środowiskiem, udoskonalając przyszłe przewidywania lub działania. Obejmuje to sygnały z uczenia przez wzmacnianie oraz elementy ludzkie w pętli.

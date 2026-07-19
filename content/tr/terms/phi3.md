@@ -1,23 +1,24 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /tr/terms/phi3/
-date: "2026-07-18T16:09:12.141044Z"
-lastmod: "2026-07-18T16:38:07.349158Z"
+slug: phi3
+date: '2026-07-18T16:09:12.141044Z'
+lastmod: '2026-07-18T16:38:07.349158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Microsoft Araştırmaları tarafından geliştirilen açık ağırlıklı büyük dil modelleri ailesi."
+source: agnes_llm
+status: published
+language: tr
+description: Microsoft Araştırmaları tarafından geliştirilen açık ağırlıklı büyük
+  dil modelleri ailesi.
 ---
-
 ## Definition
 
 Phi-3, Microsoft tarafından piyasaya sürülen küçük dil modelleri (SLM) serisidir; daha büyük modellerle karşılaştırılabilir yüksek performans sunarken önemli ölçüde daha az hesaplama kaynağı gerektirmeyi amaçlar.

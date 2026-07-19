@@ -1,23 +1,25 @@
 ---
-title: "Dataset: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Dataset: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /ro/terms/datasetwikipedia/
-date: "2026-07-18T15:53:25.331185Z"
-lastmod: "2026-07-18T17:15:09.645753Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:53:25.331185Z'
+lastmod: '2026-07-18T17:15:09.645753Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Colecția vastă de texte de pe Wikipedia, servind ca corpus fundamental pentru pre-antrenarea modelelor lingvistice și sarcinile de PNN intensive din punct de vedere al cunoștințelor."
+source: agnes_llm
+status: published
+language: ro
+description: Colecția vastă de texte de pe Wikipedia, servind ca corpus fundamental
+  pentru pre-antrenarea modelelor lingvistice și sarcinile de PNN intensive din punct
+  de vedere al cunoștințelor.
 ---
-
 ## Definition
 
 Wikipedia este una dintre cele mai mari și cuprinzătoare colecții de cunoștințe umane disponibile în format text. În domeniul IA, servește ca sursă primară pentru pre-antrenarea modelelor lingvistice mari, oferind date diverse și bogate în informații factuale.

@@ -1,23 +1,24 @@
 ---
-title: "Байесовская интерпретация ядерной регуляризации"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Байесовская интерпретация ядерной регуляризации
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /ru/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:42:59.118216Z"
-lastmod: "2026-07-18T16:38:07.126260Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:42:59.118216Z'
+lastmod: '2026-07-18T16:38:07.126260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теоретическая рамка, связывающая методы ядер, такие как SVM, с гауссовскими процессами при предположении байесовского априорного распределения."
+source: agnes_llm
+status: published
+language: ru
+description: Теоретическая рамка, связывающая методы ядер, такие как SVM, с гауссовскими
+  процессами при предположении байесовского априорного распределения.
 ---
-
 ## Definition
 
 Эта концепция устанавливает, что минимизация функционала регулярзованного риска с определенным ядром эквивалентна нахождению оценки максимальной апостериорной вероятности (MAP) в байесовском подходе. В частности, это

@@ -1,23 +1,24 @@
 ---
-title: "Ottimizzazione"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Ottimizzazione
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /it/terms/optimization/
-date: "2026-07-18T15:36:35.615317Z"
-lastmod: "2026-07-18T17:15:08.588188Z"
+slug: optimization
+date: '2026-07-18T15:36:35.615317Z'
+lastmod: '2026-07-18T17:15:08.588188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo matematico di minimizzazione o massimizzazione di una funzione obiettivo per trovare i parametri della soluzione migliore."
+source: agnes_llm
+status: published
+language: it
+description: Il processo matematico di minimizzazione o massimizzazione di una funzione
+  obiettivo per trovare i parametri della soluzione migliore.
 ---
-
 ## Definition
 
 Nell'apprendimento automatico, l'ottimizzazione si riferisce agli algoritmi utilizzati per regolare i parametri del modello al fine di minimizzare una funzione di perdita, migliorando così le prestazioni del modello. I metodi comuni includono la discesa del gradiente e le sue varianti.

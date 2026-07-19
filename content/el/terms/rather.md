@@ -1,23 +1,24 @@
 ---
-title: "Αντίθετα / Προτιμώ"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Αντίθετα / Προτιμώ
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /el/terms/rather/
-date: "2026-07-18T15:31:33.280816Z"
-lastmod: "2026-07-18T17:15:09.852679Z"
+slug: rather
+date: '2026-07-18T15:31:33.280816Z'
+lastmod: '2026-07-18T17:15:09.852679Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Στα πλαίσια της Τεχνητής Νοημοσύνης, ο όρος 'rather' δεν είναι τεχνικός όρος, αλλά εμφανίζεται συχνά στις εντολές (prompts) για να καθορίσει προτίμηση ή διόρθωση."
+source: agnes_llm
+status: published
+language: el
+description: Στα πλαίσια της Τεχνητής Νοημοσύνης, ο όρος 'rather' δεν είναι τεχνικός
+  όρος, αλλά εμφανίζεται συχνά στις εντολές (prompts) για να καθορίσει προτίμηση ή
+  διόρθωση.
 ---
-
 ## Definition
 
 Ο όρος 'Rather' είναι ένας τυπικός αγγλικός επιρρήματος που δηλώνει προτίμηση ή αντίθεση. Στην ειδική περιοχή της Τεχνητής Νοημοσύνης και των Μεγάλων Γλωσσικών Μοντέλων, δεν αποτελεί διακριτό τεχνικό όρο.

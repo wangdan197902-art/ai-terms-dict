@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /tr/terms/category_utility/
 date: "2026-07-18T15:44:38.453387Z"
 lastmod: "2026-07-18T16:38:07.281238Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kategori faydası, bir sınıflandırma şemasının, sağladığı bilgi kazancı temelinde ne kadar etkili olduğunu değerlendirmek için kullanılan matematiksel bir ölçüdür."
 ---
-
 ## Definition
 
 Bu metrik, bir kategori kümesinin o kategorilerdeki özellik değerlerini ne kadar iyi tahmin ettiğini nicelendirir. Kategorilerin büyüklükleri ile içeriklerindeki homojenlik arasındaki dengeyi kurar.

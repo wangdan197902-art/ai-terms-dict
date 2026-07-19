@@ -1,23 +1,24 @@
 ---
-title: "تقريب اللياقة"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: تقريب اللياقة
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /ar/terms/fitness_approximation/
-date: "2026-07-18T15:58:05.213243Z"
-lastmod: "2026-07-18T17:15:08.505006Z"
+slug: fitness_approximation
+date: '2026-07-18T15:58:05.213243Z'
+lastmod: '2026-07-18T17:15:08.505006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية في الخوارزميات التطورية تقدر جودة الحل لتقليل التكاليف الحسابية أثناء التحسين."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية في الخوارزميات التطورية تقدر جودة الحل لتقليل التكاليف الحسابية
+  أثناء التحسين.
 ---
-
 ## Definition
 
 يُستخدم تقريب اللياقة في الحساب التطوري عندما يكون تقييم دالة اللياقة الحقيقية مكلفاً حسابياً أو يستغرق وقتاً طويلاً. بدلاً من حساب القيمة الدقيقة، تُستخدم نماذج بديلة...

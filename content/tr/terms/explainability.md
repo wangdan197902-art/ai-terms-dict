@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /tr/terms/explainability/
 date: "2026-07-18T15:34:19.689963Z"
 lastmod: "2026-07-18T16:38:07.257291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Açıklanabilirlik, bir insanın bir AI modelinin yaptığı bir kararın nedenini ne kadar anlayabildiğini ifade eder."
 ---
-
 ## Definition
 
 Bu kavram, SHAP veya LIME gibi teknikler sayesinde özellik önem derecelerini görselleştirerek karmaşık AI sistemlerindeki 'siyah kutu' sorununu ele alır ve modellerin belirli tahminlere nasıl vardığını anlamaya yardımcı olur.

@@ -1,23 +1,24 @@
 ---
-title: "Zavari mátrix"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Zavari mátrix
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /hu/terms/confusion_matrix/
-date: "2026-07-18T15:51:20.361187Z"
-lastmod: "2026-07-18T17:15:09.764799Z"
+slug: confusion_matrix
+date: '2026-07-18T15:51:20.361187Z'
+lastmod: '2026-07-18T17:15:09.764799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy táblázat, amely egy osztályozási modell teljesítményét írja le egy tesztadatkészleten."
+source: agnes_llm
+status: published
+language: hu
+description: Egy táblázat, amely egy osztályozási modell teljesítményét írja le egy
+  tesztadatkészleten.
 ---
-
 ## Definition
 
 A zavari mátrix egy specifikus táblázatos elrendezés, amely lehetővé teszi egy algoritmus (általában felügyelt tanulású) teljesítményének vizualizálását. Megmutatja a valódi pozitív, valódi negatív, hamis pozitív és hamis negatív eredmények számát.

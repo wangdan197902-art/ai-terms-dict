@@ -1,23 +1,23 @@
 ---
-title: "머신 퍼셉션 (기계 지각)"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: 머신 퍼셉션 (기계 지각)
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /ko/terms/machine_perception/
-date: "2026-07-18T16:04:00.989028Z"
-lastmod: "2026-07-18T16:38:06.882547Z"
+slug: machine_perception
+date: '2026-07-18T16:04:00.989028Z'
+lastmod: '2026-07-18T16:38:06.882547Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "머신 퍼셉션은 인공지능 시스템이 이미지, 오디오 또는 센서 판독값과 같은 환경의 감각 데이터를 해석하고 이해하는 능력을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 머신 퍼셉션은 인공지능 시스템이 이미지, 오디오 또는 센서 판독값과 같은 환경의 감각 데이터를 해석하고 이해하는 능력을 의미합니다.
 ---
-
 ## Definition
 
 이는 원시 센서 입력과 의미 있는 의미론적 이해 사이의 격차를 메우며, 시각과 청각과 같은 인간의 감각을 모방합니다. 주요 기술에는 객체 인식을 위한 컴퓨터 비전, speech (원문 미완성 'spee'는 speech로 추정) 인식 등이 포함됩니다.

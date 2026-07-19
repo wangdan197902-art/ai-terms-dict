@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /nl/terms/socially_assistive_robot/
 date: "2026-07-18T16:17:35.232950Z"
 lastmod: "2026-07-18T17:15:08.787949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een robot die is ontworpen om met mensen te interageren om hun fysieke of psychische welzijn te verbeteren, zonder fysieke taken uit te voeren."
 ---
-
 ## Definition
 
 Sociaal-assisterende robots (SAR's) zijn een subgroep van mens-robotinteractie die zich richt op het bieden van hulp via sociale middelen in plaats van fysieke manipulatie. Ze maken gebruik van niet-contactstrategieën zoals communicatie, spel en emotionele ondersteuning.

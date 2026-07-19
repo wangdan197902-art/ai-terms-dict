@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /pt/terms/statistical_relational_learning/
 date: "2026-07-18T15:23:30.264393Z"
 lastmod: "2026-07-18T15:51:59.535546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma área do aprendizado de máquina que integra raciocínio probabilístico com lógica de primeira ordem para lidar com estruturas relacionais complexas nos dados."
 ---
-
 ## Definition
 
 O aprendizado relacional estatístico (LRS) combina teoria da probabilidade com estruturas de dados relacionais, permitindo que os modelos capturem dependências entre entidades e seus relacionamentos. Diferentemente da estatística padrão

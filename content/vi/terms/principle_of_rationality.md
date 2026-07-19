@@ -1,23 +1,24 @@
 ---
-title: "Nguyên lý tính hợp lý"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Nguyên lý tính hợp lý
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /vi/terms/principle_of_rationality/
-date: "2026-07-18T16:08:25.569375Z"
-lastmod: "2026-07-18T16:38:07.794282Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:08:25.569375Z'
+lastmod: '2026-07-18T16:38:07.794282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Giả định nền tảng rằng các tác nhân thông minh hành động để tối đa hóa tiện ích kỳ vọng dựa trên thông tin có sẵn."
+source: agnes_llm
+status: published
+language: vi
+description: Giả định nền tảng rằng các tác nhân thông minh hành động để tối đa hóa
+  tiện ích kỳ vọng dựa trên thông tin có sẵn.
 ---
-
 ## Definition
 
 Nguyên lý này cho rằng các hành động của một tác nhân nên được chọn để tối đa hóa thước đo hiệu suất kỳ vọng của nó, dựa trên các đầu vào cảm nhận và kiến thức tiên nghiệm. Nó đóng vai trò là nền tảng cho lý thuyết ra quyết định.

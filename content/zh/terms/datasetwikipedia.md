@@ -1,23 +1,23 @@
 ---
-title: "数据集：Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 数据集：Wikipedia
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /zh/terms/datasetwikipedia/
-date: "2026-07-18T11:13:38.832334Z"
-lastmod: "2026-07-18T11:44:45.483757Z"
+slug: datasetwikipedia
+date: '2026-07-18T11:13:38.832334Z'
+lastmod: '2026-07-18T11:44:45.483757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "来自维基百科的海量文本集合，作为预训练语言模型和知识密集型自然语言处理任务的基础语料库。"
+source: agnes_llm
+status: published
+language: zh
+description: 来自维基百科的海量文本集合，作为预训练语言模型和知识密集型自然语言处理任务的基础语料库。
 ---
-
 ## Definition
 
 维基百科是可用文本格式的人类知识最大且最全面的集合之一。在人工智能领域，它是预训练大型语言模型的主要来源，提供了丰富的语言模式和事实知识。

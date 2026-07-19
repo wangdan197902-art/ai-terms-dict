@@ -1,23 +1,24 @@
 ---
-title: "Text Generation Inference"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: Text Generation Inference
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /nl/terms/text_generation_inference/
-date: "2026-07-18T16:19:50.802444Z"
-lastmod: "2026-07-18T17:15:08.793038Z"
+slug: text_generation_inference
+date: '2026-07-18T16:19:50.802444Z'
+lastmod: '2026-07-18T17:15:08.793038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een inferentieengine met hoge prestaties, specifiek geoptimaliseerd voor het implementeren van grote taalmodellen om tekst efficiënt op schaal te genereren."
+source: agnes_llm
+status: published
+language: nl
+description: Een inferentieengine met hoge prestaties, specifiek geoptimaliseerd voor
+  het implementeren van grote taalmodellen om tekst efficiënt op schaal te genereren.
 ---
-
 ## Definition
 
 Text Generation Inference (TGI) is een speciaal softwarekader dat is ontworpen om grote taalmodellen (LLM's) te bedienen met lage latentie en hoge doorvoer. Het optimaliseert het inferentieproces voor tekstgeneratie door gebruik te maken van geavanceerde technieken zoals continu bachen en tensorparallelisme, wat zorgt voor snelle respons tijden in productieomgevingen.

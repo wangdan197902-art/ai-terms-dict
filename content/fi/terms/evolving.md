@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /fi/terms/evolving/
 date: "2026-07-18T15:26:16.795374Z"
 lastmod: "2026-07-18T17:15:09.349669Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuvailee tekoäljärjestelmiä tai algoritmeja, jotka sopeutuvat ja parantuvat jatkuvasti ajan myötä uusien tietojen tai palautteen avulla."
 ---
-
 ## Definition
 
 Termiä 'kehittyvä' käytetään kuvaamaan dynaamisia tekoälymalleja, jotka kokevat jatkuvaa oppimista ja sopeutumista sen sijaan, että ne pysyisivät staattisina alkuperäisen koulutuksen jälkeen. Tämä käsite on keskeinen elinikäisessä oppimisessa.

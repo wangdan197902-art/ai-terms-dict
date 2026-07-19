@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /pl/terms/graphql/
 date: "2026-07-18T15:57:40.881243Z"
 lastmod: "2026-07-18T17:15:08.879518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "GraphQL to język zapytań dla interfejsów API oraz środowisko wykonawcze służące do realizowania tych zapytań za pomocą istniejących danych, pozwalające klientom żądać dokładnie tego, czego potrzebują."
 ---
-
 ## Definition
 
 Opracowany przez Facebooka, GraphQL dostarcza kompletny i zrozumiały opis danych w Twoim API, dając klientom moc proszenia o dokładnie to, czego potrzebują, i nic więcej. Zastępuje on wiele endpointów REST jednym punktem końcowym.

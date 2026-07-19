@@ -1,23 +1,23 @@
 ---
-title: "Physical Intelligence Inc."
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: Physical Intelligence Inc.
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /ja/terms/physical_intelligence_inc/
-date: "2026-07-18T11:28:02.046004Z"
-lastmod: "2026-07-18T11:44:45.132098Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T11:28:02.046004Z'
+lastmod: '2026-07-18T11:44:45.132098Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "元DeepMind研究者によって設立され、汎用ロボット操作に焦点を当てたロボティクス企業。"
+source: agnes_llm
+status: published
+language: ja
+description: 元DeepMind研究者によって設立され、汎用ロボット操作に焦点を当てたロボティクス企業。
 ---
-
 ## Definition
 
 Physical Intelligence Inc.（PI）はGoogle DeepMindのスピンオフ企業であり、具現化AIとロボティクスの分野を進展させるために設立されました。同社は、複雑な環境での一般的な作業を遂行できる汎用ロボットの開発に注力しています。

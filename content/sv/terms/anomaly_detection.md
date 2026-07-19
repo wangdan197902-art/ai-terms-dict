@@ -1,23 +1,24 @@
 ---
-title: "Avvikelsedetektering"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Avvikelsedetektering
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /sv/terms/anomaly_detection/
-date: "2026-07-18T15:44:54.932837Z"
-lastmod: "2026-07-18T17:15:08.974919Z"
+slug: anomaly_detection
+date: '2026-07-18T15:44:54.932837Z'
+lastmod: '2026-07-18T17:15:08.974919Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att identifiera sällsynta objekt, händelser eller observationer som avviker betydligt från majoriteten av datan."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att identifiera sällsynta objekt, händelser eller observationer
+  som avviker betydligt från majoriteten av datan.
 ---
-
 ## Definition
 
 Avvikelsedetektering, även känt som outlier-detektering, innebär att analysera data för att hitta mönster som inte stämmer med förväntat beteende. Det används flitigt inom cybersäkerhet, bedrägeridetektering och systemövervakning...

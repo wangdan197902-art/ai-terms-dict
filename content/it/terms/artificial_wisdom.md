@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /it/terms/artificial_wisdom/
 date: "2026-07-18T15:48:09.213046Z"
 lastmod: "2026-07-18T17:15:08.599923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'estensione dell'IA oltre l'intelligenza, includendo giudizio, etica e comprensione contestuale per un processo decisionale solido."
 ---
-
 ## Definition
 
 La saggezza artificiale (AW) è un concetto emergente che mira ad arricchire l'intelligenza artificiale con valori simili a quelli umani, considerazioni etiche e giudizio strategico a lungo termine. Mentre l'IA si concentra sull'effici

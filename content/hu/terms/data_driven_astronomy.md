@@ -1,23 +1,24 @@
 ---
-title: "Adatalapú csillagászat"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Adatalapú csillagászat
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /hu/terms/data_driven_astronomy/
-date: "2026-07-18T15:53:01.000921Z"
-lastmod: "2026-07-18T17:15:09.768212Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:53:01.000921Z'
+lastmod: '2026-07-18T17:15:09.768212Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Nagy léptékű adatelemzési és gépi tanulási technikák alkalmazása a csillagászati megfigyelésekből származó betekintések kinyerésére."
+source: agnes_llm
+status: published
+language: hu
+description: Nagy léptékű adatelemzési és gépi tanulási technikák alkalmazása a csillagászati
+  megfigyelésekből származó betekintések kinyerésére.
 ---
-
 ## Definition
 
 Az adatalapú csillagászat fejlett számítási módszereket, beleértve a gépi tanulást és a statisztikai elemzést, használ a modern távcsövek és felmérések által generált hatalmas adatmennyiségek kezelésére.

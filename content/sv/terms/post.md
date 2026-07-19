@@ -1,23 +1,24 @@
 ---
-title: "Inlägg"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Inlägg
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /sv/terms/post/
-date: "2026-07-18T15:29:48.140956Z"
-lastmod: "2026-07-18T17:15:08.948943Z"
+slug: post
+date: '2026-07-18T15:29:48.140956Z'
+lastmod: '2026-07-18T17:15:08.948943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En publicerad innehållsenhet, vanligtvis på en blogg, sociala medier eller ett forum, som representerar användargenererad information eller kommentarer."
+source: agnes_llm
+status: published
+language: sv
+description: En publicerad innehållsenhet, vanligtvis på en blogg, sociala medier
+  eller ett forum, som representerar användargenererad information eller kommentarer.
 ---
-
 ## Definition
 
 Inom digital kommunikation och AI-datakontexter avser ett 'inlägg' en diskret enhet av innehåll som delas online. Det fungerar som en primär källa för att träna modeller för naturlig språkbehandling, stämningsanalys...

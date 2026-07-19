@@ -1,23 +1,25 @@
 ---
-title: "μετα-εκπαίδευση"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: μετα-εκπαίδευση
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /el/terms/post_training/
-date: "2026-07-18T15:37:12.262068Z"
-lastmod: "2026-07-18T17:15:09.862171Z"
+slug: post_training
+date: '2026-07-18T15:37:12.262068Z'
+lastmod: '2026-07-18T17:15:09.862171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η μετα-εκπαίδευση αναφέρεται στη φάση βελτίωσης ενός προκαταρκτικά εκπαιδευμένου μοντέλου σε συγκεκριμένα σύνολα δεδομένων, προκειμένου να προσαρμοστεί σε ειδικές εργασίες ή να βελτιστοποιηθεί η απόδο"
+source: agnes_llm
+status: published
+language: el
+description: Η μετα-εκπαίδευση αναφέρεται στη φάση βελτίωσης ενός προκαταρκτικά εκπαιδευμένου
+  μοντέλου σε συγκεκριμένα σύνολα δεδομένων, προκειμένου να προσαρμοστεί σε ειδικές
+  εργασίες ή να βελτιστοποιηθεί η απόδο
 ---
-
 ## Definition
 
 Η μετα-εκπαίδευση είναι ένα κρίσιμο στάδιο στον κύκλο ζωής της μηχανικής μάθησης που ακολουθεί την αρχική προκαταρκτική εκπαίδευση ενός μοντέλου σε τεράστιου μεγέθους, γενικής χρήσης δεδομένα. Κατά τη διάρκεια αυτής της φάσης, το μοντέλο υφίσταται περαιτέρω προσαρμογή

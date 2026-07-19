@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /pl/terms/base_rate/
 date: "2026-07-18T15:42:35.487290Z"
 lastmod: "2026-07-18T17:15:08.849461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Częstość podstawowa to prawdopodobieństwo a priori wystąpienia zdarzenia w populacji, niezależnie od jakichkolwiek konkretnych dowodów lub wyników testów."
 ---
-
 ## Definition
 
 W statystyce i uczeniu maszynowym częstość podstawowa odnosi się do podstawowej częstotliwości danego stanu lub wyniku w określonym zbiorze danych. Ignorowanie częstości podstawowych prowadzi często do błędu częstości podstawowej, gdzie prawdopodobieństwo warunkowe jest mylnie oszacowywane.

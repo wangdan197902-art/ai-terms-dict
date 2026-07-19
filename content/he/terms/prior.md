@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /he/terms/prior/
 date: "2026-07-18T15:29:00.176142Z"
 lastmod: "2026-07-18T17:15:09.484716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "בסטטיסטיקה בייסיאנית, התפלגות הסתברותית המביעה ידע או אמונה לגבי פרמטר לפני צפייה בראיה או נתונים חדשים."
 ---
-
 ## Definition
 
 'אפריורי' מייצג אמונות קיימות או נתונים היסטוריים בנוגע למשתנה לפני שילוב תצפיות חדשות. בסטטיסטיקה בייסיאנית, האפריורי משולב עם נראות הנתונים שנצפו...

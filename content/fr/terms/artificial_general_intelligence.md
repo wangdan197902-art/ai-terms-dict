@@ -1,23 +1,24 @@
 ---
-title: "Intelligence artificielle générale"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Intelligence artificielle générale
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /fr/terms/artificial_general_intelligence/
-date: "2026-07-18T11:04:56.743322Z"
-lastmod: "2026-07-18T11:44:45.198021Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T11:04:56.743322Z'
+lastmod: '2026-07-18T11:44:45.198021Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "IA hypothétique possédant la capacité de comprendre, d'apprendre et d'appliquer des connaissances dans une grande variété de tâches au niveau humain."
+source: agnes_llm
+status: published
+language: fr
+description: IA hypothétique possédant la capacité de comprendre, d'apprendre et d'appliquer
+  des connaissances dans une grande variété de tâches au niveau humain.
 ---
-
 ## Definition
 
 L'Intelligence Artificielle Générale (IAg) désigne un type d'IA capable d'exécuter toute tâche intellectuelle qu'un être humain peut accomplir. Contrairement à l'IA étroite, spécialisée dans des tâches spécifiques comme les échecs ou la reconnaissance d'images, l'IAg est polyvalente.

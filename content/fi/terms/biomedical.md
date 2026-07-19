@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /fi/terms/biomedical/
 date: "2026-07-18T15:45:49.206164Z"
 lastmod: "2026-07-18T17:15:09.389120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Luonnon tiedealan sovelluksista lääketieteelliseen käytäntöön, usein terveysdatan tietokoneanalyysiin liittyvä."
 ---
-
 ## Definition
 
 Biomedicinal viittaa biologian, lääketieteen ja teknologian risteyskohtaan, erityisesti diagnostisten välineiden, hoitojen ja data-analyysimenetelmien kehittämisessä. Tekoälyssä tämä tarkoittaa koneoppimisen soveltamista lääketieteellisiin ongelmiin.

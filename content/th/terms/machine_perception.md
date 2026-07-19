@@ -1,23 +1,24 @@
 ---
-title: "การรับรู้ของเครื่องจักร"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: การรับรู้ของเครื่องจักร
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /th/terms/machine_perception/
-date: "2026-07-18T16:04:30.266303Z"
-lastmod: "2026-07-18T16:38:07.629687Z"
+slug: machine_perception
+date: '2026-07-18T16:04:30.266303Z'
+lastmod: '2026-07-18T16:38:07.629687Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การรับรู้ของเครื่องจักรหมายถึงความสามารถของระบบปัญญาประดิษฐ์ในการตีความและเข้าใจข้อมูลจากประสาทสัมผัสจากสิ่งแวดล้อม เช่น ภาพ เสียง หรือค่าจากการอ่านเซนเซอร์"
+source: agnes_llm
+status: published
+language: th
+description: การรับรู้ของเครื่องจักรหมายถึงความสามารถของระบบปัญญาประดิษฐ์ในการตีความและเข้าใจข้อมูลจากประสาทสัมผัสจากสิ่งแวดล้อม
+  เช่น ภาพ เสียง หรือค่าจากการอ่านเซนเซอร์
 ---
-
 ## Definition
 
 เทคโนโลยีนี้ทำหน้าที่เชื่อมช่องว่างระหว่างข้อมูลดิบจากเซนเซอร์กับความเข้าใจเชิงความหมาย โดยเลียนแบบประสาทสัมผัสของมนุษย์เช่น การมองเห็นและการได้ยิน เทคโนโลยีหลักประกอบด้วยวิสัยทัศน์คอมพิวเตอร์สำหรับการจดจำวัตถุ และการรู้จำเสียงพูด

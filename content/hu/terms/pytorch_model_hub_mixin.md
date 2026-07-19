@@ -7,8 +7,6 @@ tags: ["pytorch", "integration", "tools"]
 difficulty: 4
 weight: 1
 slug: "pytorch_model_hub_mixin"
-aliases:
-  - /hu/terms/pytorch_model_hub_mixin/
 date: "2026-07-18T16:19:53.164965Z"
 lastmod: "2026-07-18T17:15:09.826316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A PyTorch Model Hub Mixin egy segédosztály, amely lehetővé teszi a PyTorch modellek zökkenőmentes integrálását a Hugging Face Hubbal a könnyű mentés és betöltés érdekében."
 ---
-
 ## Definition
 
 A PyTorch Model Hub Mixin a Hugging Face Transformers könyvtár által biztosított komponens, amely kiterjeszti a szabványos PyTorch nn.Module osztályokat. Olyan módszereket ad hozzá, mint a save_pretrained és a from_pretrained,

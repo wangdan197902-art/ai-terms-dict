@@ -1,23 +1,25 @@
 ---
-title: "LLM ca Judecător"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM ca Judecător
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /ro/terms/llm_as_a_judge/
-date: "2026-07-18T16:07:33.728055Z"
-lastmod: "2026-07-18T17:15:09.672873Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:07:33.728055Z'
+lastmod: '2026-07-18T17:15:09.672873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metodă de evaluare a ieșirilor modelelor lingvistice mari (LLM) prin utilizarea unui alt LLM pentru a puncta sau clasifica răspunsurile conform unor criterii."
+source: agnes_llm
+status: published
+language: ro
+description: O metodă de evaluare a ieșirilor modelelor lingvistice mari (LLM) prin
+  utilizarea unui alt LLM pentru a puncta sau clasifica răspunsurile conform unor
+  criterii.
 ---
-
 ## Definition
 
 Abordarea „LLM ca Judecător” este un paradigmă de evaluare în care un model lingvistic mare acționează ca un evaluator automat al calității ieșirilor generate de alte modele. În loc să se bazeze exclusiv pe annotatori umani sau...

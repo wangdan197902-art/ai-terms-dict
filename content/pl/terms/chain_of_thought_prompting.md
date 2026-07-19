@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /pl/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:34:01.618976Z"
 lastmod: "2026-07-18T17:15:08.830152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Promptowanie Myślenia Krok po Kroku to technika zachęcająca duże modele językowe do generowania pośrednich kroków rozumowania przed wydaniem ostatecznej odpowiedzi."
 ---
-
 ## Definition
 
 Promptowanie Myślenia Krok po Kroku (Chain-of-Thought, CoT) poprawia wydajność dużych modeli językowych w złożonych zadaniach rozumowania, wyraźnie prosząc model o uzasadnienie jego logiki krok po kroku. Zamiast przeskakiwać bezpośrednio do wyniku, model wyjaśnia swój proces myślowy.

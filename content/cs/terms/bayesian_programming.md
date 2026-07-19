@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /cs/terms/bayesian_programming/
 date: "2026-07-18T15:44:54.971830Z"
 lastmod: "2026-07-18T17:15:09.106742Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Formální rámec pro pravděpodobní úsudky, který rozšiřuje Bayesovu inferenci na složité hierarchické modely."
 ---
-
 ## Definition
 
 Bayesovské programování je matematický rámec, který zobecňuje Bayesovu větu tak, aby zvládla složité, vícevrstvé pravděpodobnostní závislosti. Umožňuje vývojářům definovat hierarchické modely, kde se proměnné vzájemně ovlivňují na různých úrovních abstrakce, což umožňuje robustní zpracování nejistoty a komplexních struktur dat.

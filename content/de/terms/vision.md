@@ -1,23 +1,25 @@
 ---
-title: "Computer Vision"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Computer Vision
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /de/terms/vision/
-date: "2026-07-18T11:00:31.560945Z"
-lastmod: "2026-07-18T11:44:44.901825Z"
+slug: vision
+date: '2026-07-18T11:00:31.560945Z'
+lastmod: '2026-07-18T11:44:44.901825Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Computer Vision ist das Teilgebiet der KI, das sich darauf konzentriert, Computern die Interpretation und das Verständnis visueller Informationen aus der Welt zu ermöglichen."
+source: agnes_llm
+status: published
+language: de
+description: Computer Vision ist das Teilgebiet der KI, das sich darauf konzentriert,
+  Computern die Interpretation und das Verständnis visueller Informationen aus der
+  Welt zu ermöglichen.
 ---
-
 ## Definition
 
 Computer Vision (CV) ist ein Zweig der künstlichen Intelligenz, der Computer trainiert, sinnvolle Informationen aus digitalen Bildern, Videos und anderen visuellen Eingaben abzuleiten. Dabei werden Algorithmen entwickelt, um visuelle Muster zu erkennen.

@@ -1,23 +1,25 @@
 ---
-title: "Wykrywanie aktywności głosu"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: Wykrywanie aktywności głosu
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /pl/terms/voice_activity_detection/
-date: "2026-07-18T16:22:25.304154Z"
-lastmod: "2026-07-18T17:15:08.927741Z"
+slug: voice_activity_detection
+date: '2026-07-18T16:22:25.304154Z'
+lastmod: '2026-07-18T17:15:08.927741Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Wykrywanie aktywności głosu (VAD) to technika przetwarzania sygnałów służąca do identyfikacji segmentów audio zawierających ludzką mowę w przeciwieństwie do ciszy lub szumu."
+source: agnes_llm
+status: published
+language: pl
+description: Wykrywanie aktywności głosu (VAD) to technika przetwarzania sygnałów
+  służąca do identyfikacji segmentów audio zawierających ludzką mowę w przeciwieństwie
+  do ciszy lub szumu.
 ---
-
 ## Definition
 
 Algorytmy VAD analizują strumienie audio w czasie rzeczywistym, aby rozróżnić okresy aktywnej mowy od interwałów bezmównych, takich jak szum tła lub pauzy. Jest to kluczowe dla optymalizacji przepustowości w komunikacji głosowej.

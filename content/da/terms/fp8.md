@@ -1,23 +1,24 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /da/terms/fp8/
-date: "2026-07-18T15:56:21.939397Z"
-lastmod: "2026-07-18T17:15:09.289988Z"
+slug: fp8
+date: '2026-07-18T15:56:21.939397Z'
+lastmod: '2026-07-18T17:15:09.289988Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "FP8 er en 8-bit flydende-komma-format designet til at accelerere træning og inferens af dyb læring, mens det opretholder acceptabel præcision."
+source: agnes_llm
+status: published
+language: da
+description: FP8 er en 8-bit flydende-komma-format designet til at accelerere træning
+  og inferens af dyb læring, mens det opretholder acceptabel præcision.
 ---
-
 ## Definition
 
 Flydende-komma 8 (FP8) er en numerisk datatype, der tilbyder en balance mellem beregningsmæssig effektivitet og nøjagtighed, specifikt optimeret til moderne AI-hardware. Det reducerer behovet for hukommelsesbåndbredde

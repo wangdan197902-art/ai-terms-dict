@@ -1,23 +1,24 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /no/terms/wordpiece/
-date: "2026-07-18T16:21:24.432900Z"
-lastmod: "2026-07-18T16:38:07.058507Z"
+slug: wordpiece
+date: '2026-07-18T16:21:24.432900Z'
+lastmod: '2026-07-18T16:38:07.058507Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En subord-tokeniseringsalgoritme som rekurivt slår sammen de mest frekvente tegnparene for å håndtere ord utenfor ordboken."
+source: agnes_llm
+status: published
+language: 'no'
+description: En subord-tokeniseringsalgoritme som rekurivt slår sammen de mest frekvente
+  tegnparene for å håndtere ord utenfor ordboken.
 ---
-
 ## Definition
 
 WordPiece er en tokeniseringsmetode som brukes mye i modeller for naturlig språkbehandling som BERT og ALBERT. Den bryter ned ord i mindre subord-enheter for å håndtere morfologisk rikdom og redusere...

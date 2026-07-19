@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /vi/terms/compute/
 date: "2026-07-18T15:45:40.540854Z"
 lastmod: "2026-07-18T16:38:07.738558Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tính toán đề cập đến sức mạnh xử lý và tài nguyên được sử dụng để thực thi các thuật toán và xử lý dữ liệu trong các hệ thống AI."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, tính toán đại diện cho cơ sở hạ tầng cơ bản cần thiết để huấn luyện mô hình và chạy suy luận. Nó bao gồm các thành phần phần cứng như CPU, GPU và TPU, cũng như các dịch vụ điện toán đám mây hỗ trợ chúng.

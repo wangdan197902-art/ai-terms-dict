@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /he/terms/cybersecurity/
 date: "2026-07-18T15:50:45.947765Z"
 lastmod: "2026-07-18T17:15:09.525000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "המעשה של הגנה על מערכות, רשתות ותוכנות מפני מתקפות דיגיטליות, גישה בלתי מורשית ונזק באמצעות טכנולוגיות הגנה שונות."
 ---
-
 ## Definition
 
 אבטחת סייבר כוללת את הטכנולוגיות, התהליכים והפרקטיקות המיועדים להגן על רשתות, מחשבים, תוכניות ונתונים מפני מתקפה, נזק או גישה בלתי מורשית. בהקשר של בינה מלאכותית, זה כולל גם הגנה על מודלים עצמם מפני התקפות התנגודתיות (adversarial attacks).

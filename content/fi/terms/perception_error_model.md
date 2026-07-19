@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /fi/terms/perception_error_model/
 date: "2026-07-18T16:15:17.544128Z"
 lastmod: "2026-07-18T17:15:09.443275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tilastollinen tai algoritmisen viitekehys, jota käytetään kvantifioimaan ja korjaamaan aistinvaraisen datan tulkitsemisen epätarkkuudet."
 ---
-
 ## Definition
 
 Havaintovirhemalli kuvaa poikkeamia havaitun aistinvaraisen datan ja todellisen tilan välillä ottaen huomioon melun, peittymisen tai anturien rajoitukset. Mallintamalla näitä virheitä tekoälyjärjestelmät voivat...

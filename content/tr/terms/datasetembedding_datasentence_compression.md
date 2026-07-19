@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /tr/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:47:47.308681Z"
 lastmod: "2026-07-18T16:38:07.292236Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Modelleri bilgi koruma konusunda eğitmek amacıyla orijinal cümleleri ve sıkıştırılmış versiyonlarını içeren bir veri seti."
 ---
-
 ## Definition
 
 Cümle sıkıştırma veri setleri, hedef cümlenin kaynak cümlenin öz anlamını koruyarak gereksiz bilgileri kaldırarak kısaltılmış bir versiyonu olduğu çiftlerden oluşur. Bu veri setleri...

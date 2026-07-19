@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /fr/terms/vision_language/
 date: "2026-07-18T11:02:04.880275Z"
 lastmod: "2026-07-18T11:44:45.190768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Les modèles Vision-Language sont des systèmes d'IA qui traitent et corrèlent les données visuelles avec les informations textuelles pour comprendre les contextes multimodaux."
 ---
-
 ## Definition
 
 Les modèles Vision-Language, souvent appelés grands modèles de langage multimodaux (MLLMs), intègrent la vision par ordinateur et le traitement du langage naturel. Ils permettent à l'IA de comprendre les images et de générer du texte

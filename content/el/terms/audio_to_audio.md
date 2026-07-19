@@ -1,23 +1,24 @@
 ---
-title: "Ήχος σε Ήχο"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Ήχος σε Ήχο
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /el/terms/audio_to_audio/
-date: "2026-07-18T15:51:39.666955Z"
-lastmod: "2026-07-18T17:15:09.882538Z"
+slug: audio_to_audio
+date: '2026-07-18T15:51:39.666955Z'
+lastmod: '2026-07-18T17:15:09.882538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια εργασία γεννήτριας ΤΕ όπου η εισερχόμενη ηχητική δίοδος μετατρέπεται σε εξερχόμενο ήχο διατηρώντας ή τροποποιώντας συγκεκριμένα χαρακτηριστικά."
+source: agnes_llm
+status: published
+language: el
+description: Μια εργασία γεννήτριας ΤΕ όπου η εισερχόμενη ηχητική δίοδος μετατρέπεται
+  σε εξερχόμενο ήχο διατηρώντας ή τροποποιώντας συγκεκριμένα χαρακτηριστικά.
 ---
-
 ## Definition
 
 Ο ήχος σε ήχο αναφέρεται σε αρχιτεκτονικές νευρωνικών δικτύων σχεδιασμένες να χαρτογραφούν ένα ηχητικό σήμα σε ένα άλλο. Σε αντίθεση με τον λόγο σε ομιλία, αυτό περιλαμβάνει άμεση μετατροπή κυματομορφής ή φασματογραφήματος. Εφαρμογές περιλαμβάνουν

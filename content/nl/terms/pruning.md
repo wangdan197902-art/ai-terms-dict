@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /nl/terms/pruning/
 date: "2026-07-18T16:13:31.976882Z"
 lastmod: "2026-07-18T17:15:08.779506Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een techniek voor modelcompressie die redundante of minder significante parameters verwijdert om de grootte te verkleinen en de inferentiesnelheid te verbeteren."
 ---
-
 ## Definition
 
 Pruning omvat het identificeren en elimineren van neuronen, verbindingen of filters in een neurale netwerk die minimaal bijdragen aan de nauwkeurigheid van de uitvoer. Door deze redundante elementen te verwijderen, wordt het model...

@@ -1,23 +1,23 @@
 ---
-title: "代码检查工具"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: 代码检查工具
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /zh/terms/linter/
-date: "2026-07-18T11:24:20.006004Z"
-lastmod: "2026-07-18T11:44:45.525426Z"
+slug: linter
+date: '2026-07-18T11:24:20.006004Z'
+lastmod: '2026-07-18T11:44:45.525426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "用于标记编程错误、漏洞、风格错误和可疑构造的静态代码分析工具。"
+source: agnes_llm
+status: published
+language: zh
+description: 用于标记编程错误、漏洞、风格错误和可疑构造的静态代码分析工具。
 ---
-
 ## Definition
 
 代码检查工具是一种在不执行源代码的情况下对其执行静态分析的实用程序。它检查语法错误、潜在漏洞、代码异味以及偏离风格指南或最佳实践的情况。

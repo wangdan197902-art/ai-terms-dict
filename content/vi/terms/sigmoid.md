@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /vi/terms/sigmoid/
 date: "2026-07-18T16:11:46.160273Z"
 lastmod: "2026-07-18T16:38:07.804702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hàm toán học ánh xạ bất kỳ số thực nào thành một giá trị nằm giữa 0 và 1, tạo thành một đường cong hình chữ S."
 ---
-
 ## Definition
 
 Hàm sigmoid, được xác định là σ(z) = 1 / (1 + e^-z), được sử dụng rộng rãi trong học máy để mô hình hóa xác suất. Nó nén các giá trị đầu vào vào khoảng (0, 1), khiến nó phù hợp cho các bài toán phân loại nhị phân.

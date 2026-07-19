@@ -1,23 +1,24 @@
 ---
-title: "Δοκιμές"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Δοκιμές
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /el/terms/testing/
-date: "2026-07-18T15:45:07.264179Z"
-lastmod: "2026-07-18T17:15:09.871641Z"
+slug: testing
+date: '2026-07-18T15:45:07.264179Z'
+lastmod: '2026-07-18T17:15:09.871641Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η συστηματική διαδικασία αξιολόγησης της απόδοσης και της αξιοπιστίας ενός μοντέλου AI σε μη ορατά δεδομένα, για να διασφαλιστεί η ποιότητα και η ασφάλεια."
+source: agnes_llm
+status: published
+language: el
+description: Η συστηματική διαδικασία αξιολόγησης της απόδοσης και της αξιοπιστίας
+  ενός μοντέλου AI σε μη ορατά δεδομένα, για να διασφαλιστεί η ποιότητα και η ασφάλεια.
 ---
-
 ## Definition
 
 Οι δοκιμές στη μηχανική AI περιλαμβάνουν την αυστηρή αξιολόγηση των μοντέλων έναντι ποικίλων συνόλων δεδομένων για την αναγνώριση προκαταλήψεων, σφαλμάτων και ζητημάτων ανθεκτικότητας. Περιλαμβάνει δοκιμές μονάδων για στοιχεία κώδικα, δοκιμές ολοκλήρωσης κ.λπ.

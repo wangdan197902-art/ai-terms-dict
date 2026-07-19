@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /hu/terms/intelligent_word_recognition/
 date: "2026-07-18T16:06:42.857141Z"
 lastmod: "2026-07-18T17:15:09.797933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI algoritmusok, különösen a mélytanulás alkalmazása a képekből vagy kézzel írt forrásokból származó szöveg pontos azonosítására és értelmezésére."
 ---
-
 ## Definition
 
 Az intelligens szövegfelismerés a neurális hálózatokkal működtetett fejlett optikai karakterfelismerő (OCR) technológiákra utal. A egyszerű mintaillesztésen túlmenően a kontextus megértésére és a hibák korrigálására is képes, így magasabb pontosságot biztosít változatos vagy sérült dokumentumok esetén is.

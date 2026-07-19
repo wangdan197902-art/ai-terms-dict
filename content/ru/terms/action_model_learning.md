@@ -1,23 +1,24 @@
 ---
-title: "Обучение модели действий"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Обучение модели действий
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /ru/terms/action_model_learning/
-date: "2026-07-18T15:39:26.569233Z"
-lastmod: "2026-07-18T16:38:07.116043Z"
+slug: action_model_learning
+date: '2026-07-18T15:39:26.569233Z'
+lastmod: '2026-07-18T16:38:07.116043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод обучения с подкреплением, при котором агент изучает динамику окружающей среды, наблюдая за последствиями собственных действий."
+source: agnes_llm
+status: published
+language: ru
+description: Метод обучения с подкреплением, при котором агент изучает динамику окружающей
+  среды, наблюдая за последствиями собственных действий.
 ---
-
 ## Definition
 
 Обучение модели действий предполагает создание агентом внутреннего представления о том, как его действия переводят среду из одного состояния в другое. В отличие от пассивного наблюдения, этот метод использует

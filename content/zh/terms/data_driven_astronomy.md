@@ -1,23 +1,23 @@
 ---
-title: "数据驱动天文学"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: 数据驱动天文学
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /zh/terms/data_driven_astronomy/
-date: "2026-07-18T11:12:36.731262Z"
-lastmod: "2026-07-18T11:44:45.475097Z"
+slug: data_driven_astronomy
+date: '2026-07-18T11:12:36.731262Z'
+lastmod: '2026-07-18T11:44:45.475097Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "应用大规模数据分析和机器学习技术从天文观测中提取见解的方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 应用大规模数据分析和机器学习技术从天文观测中提取见解的方法。
 ---
-
 ## Definition
 
 数据驱动天文学利用先进的计算方法，包括机器学习和统计分析，来处理现代望远镜和巡天项目产生的海量数据。它使得从复杂的天文数据中发现新的现象和规律成为可能。

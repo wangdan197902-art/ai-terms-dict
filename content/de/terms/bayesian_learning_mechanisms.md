@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /de/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T11:04:46.909899Z"
 lastmod: "2026-07-18T11:44:44.914083Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Lernparadigmen, die Modellparameter als Zufallsvariablen mit Wahrscheinlichkeitsverteilungen anstelle von festen Werten behandeln."
 ---
-
 ## Definition
 
 Bayessche Lernmechanismen aktualisieren Überzeugungen über Modellparameter mithilfe des Satzes von Bayes, indem sie Vorwissen mit beobachteten Daten kombiniert, um eine Posterior-Verteilung zu bilden. Im Gegensatz zu frequentistischen Ansätzen,

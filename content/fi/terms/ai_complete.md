@@ -1,23 +1,25 @@
 ---
-title: "Teekoälykokonainen"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: Teekoälykokonainen
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /fi/terms/ai_complete/
-date: "2026-07-18T15:40:26.988396Z"
-lastmod: "2026-07-18T17:15:09.379474Z"
+slug: ai_complete
+date: '2026-07-18T15:40:26.988396Z'
+lastmod: '2026-07-18T17:15:09.379474Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ongelma niin monimutkainen, että sen ratkaiseminen vaatii ihmismäisen yleisen älykkyyden, mikä tekee siitä vastaavan tekoälyllisen yleisen älykkyyden saavuttamista."
+source: agnes_llm
+status: published
+language: fi
+description: Ongelma niin monimutkainen, että sen ratkaiseminen vaatii ihmismäisen
+  yleisen älykkyyden, mikä tekee siitä vastaavan tekoälyllisen yleisen älykkyyden
+  saavuttamista.
 ---
-
 ## Definition
 
 Teekoälykokonaiset ongelmat ovat tehtäviä, joiden ratkaiseminen implikoisi tekoälyllisen yleisen älykkyyden (AGI) olemassaolon. Nämä ongelmat vaativat syvällistä ymmärrystä, päättelykykyä ja sopeutumiskykyä, jotka ovat samanlaisia kuin ihmisellä.

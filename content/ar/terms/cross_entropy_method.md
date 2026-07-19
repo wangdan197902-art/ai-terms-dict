@@ -1,23 +1,24 @@
 ---
-title: "طريقة الانتروبيا المتقاطعة"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: طريقة الانتروبيا المتقاطعة
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /ar/terms/cross_entropy_method/
-date: "2026-07-18T15:50:36.050385Z"
-lastmod: "2026-07-18T17:15:08.488913Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:50:36.050385Z'
+lastmod: '2026-07-18T17:15:08.488913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تحسين عشوائية تستخدم محاكاة مونت كارلو لتحسين تقديرات احتمالات الأحداث النادرة بشكل تكراري."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تحسين عشوائية تستخدم محاكاة مونت كارلو لتحسين تقديرات احتمالات
+  الأحداث النادرة بشكل تكراري.
 ---
-
 ## Definition
 
 تُعد طريقة الانتروبيا المتقاطعة (CEM) خوارزمية تحسين قوية وعامة الغرض تُستخدم لكل من المسائل المنفصلة والمستمرة. تعمل هذه الطريقة من خلال الحفاظ على توزيع احتمالي فوق فضاء البحث وتحديثه تدريجياً.

@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /it/terms/grounding/
 date: "2026-07-18T16:02:28.259993Z"
 lastmod: "2026-07-18T17:15:08.631942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il processo di collegamento degli output astratti dell'IA a fatti reali, fonti di dati o contesti fisici per garantire accuratezza e pertinenza."
 ---
-
 ## Definition
 
 Nell'IA, il grounding si riferisce al collegamento di rappresentazioni simboliche o testo generato a entità concrete del mondo reale, dati o esperienze sensoriali. Per i modelli linguistici, questo coinvolge spesso tecniche come la Generazione Aumentata dal Recupero (RAG) per ancorare le risposte a documenti verificabili, riducendo le allucinazioni e aumentando l'affidabilità delle informazioni fornite.

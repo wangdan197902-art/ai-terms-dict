@@ -1,23 +1,24 @@
 ---
-title: "Few-Shot Learning"
-term_id: "few_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["ml_theory", "training", "efficiency"]
+title: Few-Shot Learning
+term_id: few_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- ML Theory
+- training
+- efficiency
 difficulty: 4
 weight: 1
-slug: "few_shot_learning"
-aliases:
-  - /de/terms/few_shot_learning/
-date: "2026-07-18T10:58:15.207392Z"
-lastmod: "2026-07-18T11:44:44.894967Z"
+slug: few_shot_learning
+date: '2026-07-18T10:58:15.207392Z'
+lastmod: '2026-07-18T11:44:44.894967Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Few-Shot Learning ist ein Machine-Learning-Paradigma, bei dem Modelle neue Konzepte aus sehr begrenzten gelabelten Trainingsdaten lernen."
+source: agnes_llm
+status: published
+language: de
+description: Few-Shot Learning ist ein Machine-Learning-Paradigma, bei dem Modelle
+  neue Konzepte aus sehr begrenzten gelabelten Trainingsdaten lernen.
 ---
-
 ## Definition
 
 Few-Shot Learning zielt darauf ab, Modellen zu ermöglichen, aus nur wenigen Beispielen zu verallgemeinern und dabei die Effizienz menschlichen Lernens nachzuahmen. Es stützt sich typischerweise auf Meta-Learning-Strategien, bei denen ein Modell zunächst auf einer Vielzahl von Aufgaben trainiert wird, um schnell neue Fähigkeiten zu erlernen.

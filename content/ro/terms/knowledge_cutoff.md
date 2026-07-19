@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /ro/terms/knowledge_cutoff/
 date: "2026-07-18T16:06:53.291301Z"
 lastmod: "2026-07-18T17:15:09.671760Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Limita cunoștințelor este data specifică după care un model de limbaj nu a fost antrenat și, prin urmare, nu dispune de informații despre evenimentele apărute ulterior."
 ---
-
 ## Definition
 
 Data limitei cunoștințelor definește limita temporală a datelor de antrenament ale unui model de limbaj. Orice informație, eveniment sau dezvoltare care a avut loc după această dată este, în general, necunoscută modelului

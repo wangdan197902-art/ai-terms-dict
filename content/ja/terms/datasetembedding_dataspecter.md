@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /ja/terms/datasetembedding_dataspecter/
 date: "2026-07-18T11:10:29.076957Z"
 lastmod: "2026-07-18T11:44:45.085400Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "コンピュータサイエンスの出版物と引用に基づく大規模データセットで、学術論文の埋め込みモデルの学習用に設計されています。"
 ---
-
 ## Definition
 
 Specterデータセットは、膨大な数のコンピュータサイエンス論文のコレクションから構築されており、引用ネットワークを利用して教師あり学習の信号を作成します。抽象要約とそれを引用する論文をペアにして

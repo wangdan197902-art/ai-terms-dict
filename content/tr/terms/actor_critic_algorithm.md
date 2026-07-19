@@ -1,23 +1,24 @@
 ---
-title: "Aktör-tenkit algoritması"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Aktör-tenkit algoritması
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /tr/terms/actor_critic_algorithm/
-date: "2026-07-18T15:39:45.182573Z"
-lastmod: "2026-07-18T16:38:07.269685Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:39:45.182573Z'
+lastmod: '2026-07-18T16:38:07.269685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir aktör ve bir tenkit olmak üzere iki sinir ağı kullanarak değer tabanlı ve politika tabanlı yöntemleri birleştiren bir pekiştirmeli öğrenme çerçevesi."
+source: agnes_llm
+status: published
+language: tr
+description: Bir aktör ve bir tenkit olmak üzere iki sinir ağı kullanarak değer tabanlı
+  ve politika tabanlı yöntemleri birleştiren bir pekiştirmeli öğrenme çerçevesi.
 ---
-
 ## Definition
 
 Aktör-tenkit algoritması iki bileşen kullanır: Eylemleri seçmek için politikayı güncelleyen aktör ve değer fonksiyonunu tahmin ederek bu eylemlerin kalitesini değerlendiren tenkit.

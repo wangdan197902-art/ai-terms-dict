@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /cs/terms/socially_assistive_robot/
 date: "2026-07-18T16:17:54.808058Z"
 lastmod: "2026-07-18T17:15:09.201370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Robot navržený k interakci s lidmi za účelem zlepšení jejich fyzického nebo psychického blaha bez vykonávání fyzických úkolů."
 ---
-
 ## Definition
 
 Sociálně asistivní roboti (SAR) jsou podskupinou lidsko-robotické interakce zaměřenou na poskytování pomoci prostřednictvím sociálních mechanismů spíše než fyzické manipulace. Využívají strategie bez fyzického kontaktu, jako je verbální komunikace, neverbální signály a emocionální odrazy, aby podpořily nezávislost uživatelů, zejména u starších osob nebo lidí se zdravotním postižením, a zlepšili jejich kvalitu života.

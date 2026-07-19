@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /cs/terms/nature_machine_intelligence/
 date: "2026-07-18T16:10:29.921492Z"
 lastmod: "2026-07-18T17:15:09.157313Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Peer-reviewovaný vědecký časopis vydávaný společností Springer Nature zaměřený na interdisciplinární výzkum v oblasti umělé inteligence."
 ---
-
 ## Definition
 
 Nature Machine Intelligence je akademický časopis s vysokým dopadem určený k publikování původního výzkumu ze všech aspektů umělé inteligence. Zabývá se tématy sahajícími od fundamentálních algoritmů...

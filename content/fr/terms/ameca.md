@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /fr/terms/ameca/
 date: "2026-07-18T11:04:26.870285Z"
 lastmod: "2026-07-18T11:44:45.196563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un robot humanoïde hautement avancé développé par Engineered Arts, connu pour son expressivité faciale exceptionnelle et ses interactions humaines."
 ---
-
 ## Definition
 
 Ameca est un robot humanoïde de pointe présentant plus de 40 degrés de liberté uniquement au niveau du visage, permettant des expressions émotionnelles subtiles et réalistes. Conçu pour étudier l'interaction homme-robot, il

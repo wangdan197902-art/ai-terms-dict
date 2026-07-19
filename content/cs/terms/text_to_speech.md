@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /cs/terms/text_to_speech/
 date: "2026-07-18T16:20:22.378460Z"
 lastmod: "2026-07-18T17:15:09.206708Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Převod textu na řeč (TTS) je technologie, která přetváří psaný text na přirozně znějící lidskou řeč."
 ---
-
 ## Definition
 
 Převod textu na řeč (TTS) je typ asistivní technologie, která nahlas čte digitální text uživateli. Využívá pokročilé neuronové sítě a akustické modely k syntéze řeči, která napodobuje lidskou intonaci.

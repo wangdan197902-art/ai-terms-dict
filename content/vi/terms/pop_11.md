@@ -1,23 +1,25 @@
 ---
-title: "POP-11"
-term_id: "pop_11"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "history_of_ai", "education"]
+title: POP-11
+term_id: pop_11
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- History Of AI
+- education
 difficulty: 3
 weight: 1
-slug: "pop_11"
-aliases:
-  - /vi/terms/pop_11/
-date: "2026-07-18T16:06:41.807841Z"
-lastmod: "2026-07-18T16:38:07.790746Z"
+slug: pop_11
+date: '2026-07-18T16:06:41.807841Z'
+lastmod: '2026-07-18T16:38:07.790746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "POP-11 là một ngôn ngữ lập trình cấp cao được phát triển tại Đại học Edinburgh, chủ yếu được sử dụng cho nghiên cứu trí tuệ nhân tạo và giáo dục khoa học nhận thức."
+source: agnes_llm
+status: published
+language: vi
+description: POP-11 là một ngôn ngữ lập trình cấp cao được phát triển tại Đại học
+  Edinburgh, chủ yếu được sử dụng cho nghiên cứu trí tuệ nhân tạo và giáo dục khoa
+  học nhận thức.
 ---
-
 ## Definition
 
 POP-11 (Program Oriented Problem Solving - Giải quyết vấn đề định hướng chương trình) là một ngôn ngữ lập trình đa mô hình, kết hợp các tính năng lập trình thủ tục, hướng đối tượng và lập trình logic. Nó được tạo ra vào những năm 1970 và trở thành...

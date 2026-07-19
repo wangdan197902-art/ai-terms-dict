@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /th/terms/visual/
 date: "2026-07-18T15:31:38.957794Z"
 lastmod: "2026-07-18T16:38:07.552995Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เกี่ยวข้องกับสายตาหรือภาพลักษณ์ มักหมายถึงงานด้าน Computer Vision ที่ประมวลผลและตีความข้อมูลภาพเช่น รูปภาพและวิดีโอ"
 ---
-
 ## Definition
 
 คำว่า 'visual' ใน AI นั้นสัมพันธ์กับ Computer Vision เป็นสาขาที่มุ่งเน้นให้เครื่องจักรสามารถดึงข้อมูลที่มีความหมายจากภาพดิจิทัล วิดีโอ และอินพุตภาพอื่นๆ โดยเกี่ยวข้องกับการประมวลผลภาพ

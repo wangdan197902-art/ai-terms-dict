@@ -1,23 +1,24 @@
 ---
-title: "presa di decisioni"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: presa di decisioni
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /it/terms/decision_making/
-date: "2026-07-18T15:31:21.670135Z"
-lastmod: "2026-07-18T17:15:08.578757Z"
+slug: decision_making
+date: '2026-07-18T15:31:21.670135Z'
+lastmod: '2026-07-18T17:15:08.578757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo cognitivo di selezione di un corso d'azione tra più alternative basato sulle informazioni disponibili."
+source: agnes_llm
+status: published
+language: it
+description: Il processo cognitivo di selezione di un corso d'azione tra più alternative
+  basato sulle informazioni disponibili.
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, la presa di decisioni si riferisce al processo algoritmico in cui un sistema valuta le azioni potenziali rispetto a criteri o obiettivi specifici per selezionare l'esito ottimale. Questo coinv

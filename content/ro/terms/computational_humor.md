@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /ro/terms/computational_humor/
 date: "2026-07-18T15:50:01.521415Z"
 lastmod: "2026-07-18T17:15:09.638211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Subdomeniul AI concentrat pe generarea, înțelegerea și aprecierea conținutului umoristic prin metode computaționale."
 ---
-
 ## Definition
 
 Umorul computațional studiază modul în care mașinile pot produce sau interpreta glume, jocuri de cuvinte și replici spirituale. De obicei, se bazează pe procesarea limbajului natural pentru a detecta incongruențe, schimbări semantice sau așteptări neîmplinite...

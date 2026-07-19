@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /ro/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:57:52.812511Z"
 lastmod: "2026-07-18T17:15:09.654417Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Inteligența artificială explicabilă (IAE) se referă la metode și tehnici în aplicarea tehnologiei de inteligență artificială astfel încât rezultatele soluției să poată fi înțelese de experți umani."
 ---
-
 ## Definition
 
 Pe măsură ce modelele de învățare automată devin mai complexe, în special rețelele neuronale profunde, procesele lor de luare a deciziilor devin adesea cutii negre opace. IAE vizează interpretabilitatea acestor decizii și transparența.

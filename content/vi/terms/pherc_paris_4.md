@@ -1,23 +1,25 @@
 ---
-title: "PHerc. Paris. 4"
-term_id: "pherc_paris_4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "digital_humanities", "archaeology"]
+title: PHerc. Paris. 4
+term_id: pherc_paris_4
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Digital Humanities
+- archaeology
 difficulty: 5
 weight: 1
-slug: "pherc_paris_4"
-aliases:
-  - /vi/terms/pherc_paris_4/
-date: "2026-07-18T16:06:41.807833Z"
-lastmod: "2026-07-18T16:38:07.790632Z"
+slug: pherc_paris_4
+date: '2026-07-18T16:06:41.807833Z'
+lastmod: '2026-07-18T16:38:07.790632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "PHerc. Paris. 4 đề cập đến một mảnh giấy cói Herculaneum cụ thể được lưu trữ tại thư viện Paris, thường được trích dẫn trong các dự án nhân văn số và tái cấu trúc văn bản cổ đại."
+source: agnes_llm
+status: published
+language: vi
+description: PHerc. Paris. 4 đề cập đến một mảnh giấy cói Herculaneum cụ thể được
+  lưu trữ tại thư viện Paris, thường được trích dẫn trong các dự án nhân văn số và
+  tái cấu trúc văn bản cổ đại.
 ---
-
 ## Definition
 
 PHerc. Paris. 4 là ký hiệu dành cho một mảnh giấy cói bị cacbon hóa thuộc cuộn giấy tìm thấy tại Villa of the Papyri ở Herculaneum, hiện đang được lưu giữ tại Thư viện Quốc gia Pháp. Những cuộn giấy này...

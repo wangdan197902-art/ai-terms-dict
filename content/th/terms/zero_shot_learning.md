@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้แบบซีโรช็อต"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: การเรียนรู้แบบซีโรช็อต
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /th/terms/zero_shot_learning/
-date: "2026-07-18T15:38:10.059133Z"
-lastmod: "2026-07-18T16:38:07.566985Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:38:10.059133Z'
+lastmod: '2026-07-18T16:38:07.566985Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเรียนรู้แบบซีโรช็อตเป็นเทคนิคที่โมเดลทำงานกับคลาสที่ไม่เคยเห็นระหว่างการฝึก โดยใช้ประโยชน์จากความเชื่อมโยงเชิงความหมาย"
+source: agnes_llm
+status: published
+language: th
+description: การเรียนรู้แบบซีโรช็อตเป็นเทคนิคที่โมเดลทำงานกับคลาสที่ไม่เคยเห็นระหว่างการฝึก
+  โดยใช้ประโยชน์จากความเชื่อมโยงเชิงความหมาย
 ---
-
 ## Definition
 
 การเรียนรู้แบบซีโรช็อตช่วยให้โมเดลการเรียนรู้ของเครื่องสามารถจำแนกตัวอย่างของคลาสที่ไม่ได้อยู่ในชุดข้อมูลการฝึกได้ แทนที่จะพึ่งพาตัวอย่างที่มีป้ายกำกับสำหรับทุกคลาสที่เป็นไปได้ โมเดลจะอาศัย

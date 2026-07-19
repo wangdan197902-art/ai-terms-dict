@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /ja/terms/in_context_learning/
 date: "2026-07-18T07:42:13.833802Z"
 lastmod: "2026-07-18T11:44:44.587157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルがプロンプト内で提供された例を観察することでタスクを実行する方法を学習する技術。"
 ---
-
 ## Definition
 
 コンテキスト内学習（ICL）により、大規模言語モデルは重みを更新せずに新しいタスクに適応できます。プロンプトの文脈に入力と出力のペアを提供することで、モデルはそのパターンを推論し、タスクを遂行します。

@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /de/terms/ai_addiction/
 date: "2026-07-18T11:00:48.362767Z"
 lastmod: "2026-07-18T11:44:44.902961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine psychologische Abhängigkeit von der Interaktion mit KI-Systemen, die zu zwanghaftem Nutzungsverhalten führt."
 ---
-
 ## Definition
 
 KI-Sucht beschreibt einen Verhaltenszustand, bei dem Personen eine zwanghafte Abhängigkeit von KI-gesteuerten Interaktionen entwickeln, wie z. B. Chatbots oder Social-Media-Algorithmen. Diese Abhängigkeit entsteht oft aufgrund von...

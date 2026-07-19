@@ -1,23 +1,24 @@
 ---
-title: "อัตรา"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: อัตรา
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /th/terms/rate/
-date: "2026-07-18T15:28:19.418834Z"
-lastmod: "2026-07-18T16:38:07.546753Z"
+slug: rate
+date: '2026-07-18T15:28:19.418834Z'
+lastmod: '2026-07-18T16:38:07.546753Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การวัดความถี่หรือความเร็ว มักหมายถึงอัตราการเรียนรู้ในการหาค่าเหมาะที่สุด หรือความเร็วในการสร้างโทเค็น"
+source: agnes_llm
+status: published
+language: th
+description: การวัดความถี่หรือความเร็ว มักหมายถึงอัตราการเรียนรู้ในการหาค่าเหมาะที่สุด
+  หรือความเร็วในการสร้างโทเค็น
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์ คำว่า 'อัตรา' มักหมายถึงอัตราการเรียนรู้ (learning rate) ซึ่งเป็นไฮเปอร์พารามิเตอร์ที่ควบคุมว่าโมเดลควรเปลี่ยนแปลงมากน้อยเพียงใดเมื่อเผชิญกับข้อผิดพลาดที่ประมาณได้每一次ที่อัปเดตน้ำหนักโมเดล อัตรา

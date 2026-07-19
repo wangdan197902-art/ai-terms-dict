@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /fi/terms/context_window/
 date: "2026-07-18T15:22:37.933487Z"
 lastmod: "2026-07-18T17:15:09.344385Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teksti- tai tokenmäärän enimmäismäärä, jonka kielimalli voi käsitellä ja huomioida samanaikaisesti päättelyn tai koulutuksen aikana."
 ---
-
 ## Definition
 
 Kontekstiikkuna määrittelee tekoälymallin muistin toiminnallisen rajan yhdelle vuorovaikutuskerralle. Se määrää, kuinka paljon aiempaa keskusteluhistoriaa, asiakirjan tekstiä tai syöttödataa malli voi ottaa huomioon samanaikaisesti.

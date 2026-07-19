@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /ro/terms/ai_agent/
 date: "2026-07-18T15:41:38.414888Z"
 lastmod: "2026-07-18T17:15:09.621822Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem autonom conceput să perceapă mediul înconjurător și să întreprindă acțiuni pentru a atinge obiective specifice."
 ---
-
 ## Definition
 
 Un agent AI este o entitate software care operează autonom într-un mediu definit pentru a îndeplini obiective predefinite. Acesta utilizează mecanisme de percepție pentru a colecta date, procesează aceste informații și ia decizii pentru a interacționa cu mediul.

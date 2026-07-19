@@ -1,23 +1,23 @@
 ---
-title: "天体统计学"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: 天体统计学
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /zh/terms/astrostatistics/
-date: "2026-07-18T11:07:14.726878Z"
-lastmod: "2026-07-18T11:44:45.446376Z"
+slug: astrostatistics
+date: '2026-07-18T11:07:14.726878Z'
+lastmod: '2026-07-18T11:44:45.446376Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "应用统计方法分析天文数据并解决天体物理学问题的学科。"
+source: agnes_llm
+status: published
+language: zh
+description: 应用统计方法分析天文数据并解决天体物理学问题的学科。
 ---
-
 ## Definition
 
 天体统计学是连接统计学与天文学的专业领域。它涉及开发和应用严谨的统计技术，以应对天文数据带来的独特挑战，例如处理海量观测数据、噪声建模以及从稀疏或不完整的数据中提取物理参数。

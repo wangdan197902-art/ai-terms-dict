@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /no/terms/agentic/
 date: "2026-07-18T15:36:08.452117Z"
 lastmod: "2026-07-18T16:38:06.956190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Refererer til KI-systemer som er i stand til autonom planlegging, resonnement og utførelse av handlinger for å oppnå spesifikke mål."
 ---
-
 ## Definition
 
 Begrepet 'agentbasert' beskriver KI-agenter som opererer med en høy grad av autonomi. I motsetning til passive modeller som bare forutsier tekst eller klassifiserer data, kan agentbaserte systemer bryte ned komplekse mål i...

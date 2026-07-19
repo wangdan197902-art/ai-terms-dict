@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /hu/terms/flow_based_generative_model/
 date: "2026-07-18T16:00:08.027247Z"
 lastmod: "2026-07-18T17:15:09.785213Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A generatív modellek egy osztálya, amely invertálható transzformációkat használ az egyszerű eloszlásokból a bonyolult adateloszlásokba való leképezéshez."
 ---
-
 ## Definition
 
 A folyamatalapú generatív modellek bonyolult valószínűségi eloszlásokat hoznak létre, sorozat invertálható, differenciálható transzformációk alkalmazásával egy egyszerű alapeloszlásra (például Gauss-eloszlásra). Mivel a transzformációk invertálhatók, a modell képes pontosan kiszámítani a likelihood-ot.

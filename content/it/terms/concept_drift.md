@@ -1,23 +1,24 @@
 ---
-title: "Deriva concettuale"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Deriva concettuale
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /it/terms/concept_drift/
-date: "2026-07-18T15:52:32.441526Z"
-lastmod: "2026-07-18T17:15:08.608967Z"
+slug: concept_drift
+date: '2026-07-18T15:52:32.441526Z'
+lastmod: '2026-07-18T17:15:08.608967Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La deriva concettuale si verifica quando le proprietà statistiche della variabile target cambiano nel tempo, degradando le prestazioni del modello."
+source: agnes_llm
+status: published
+language: it
+description: La deriva concettuale si verifica quando le proprietà statistiche della
+  variabile target cambiano nel tempo, degradando le prestazioni del modello.
 ---
-
 ## Definition
 
 La deriva concettuale è un fenomeno nell'apprendimento automatico in cui la relazione tra le caratteristiche di input e l'output target cambia man mano che arrivano nuovi dati. Questo accade spesso in ambienti dinamici dove i pattern sottostanti evolvono, rendendo necessario l'aggiornamento continuo dei modelli.

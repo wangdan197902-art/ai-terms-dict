@@ -1,23 +1,24 @@
 ---
-title: "Tümevarımsal Önyargı"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Tümevarımsal Önyargı
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /tr/terms/inductive_bias/
-date: "2026-07-18T15:58:14.091229Z"
-lastmod: "2026-07-18T16:38:07.320716Z"
+slug: inductive_bias
+date: '2026-07-18T15:58:14.091229Z'
+lastmod: '2026-07-18T16:38:07.320716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir öğrenme algoritmasının eğitim sırasında görülmemiş girdiler için çıktıları tahmin etmek için kullandığı varsayımlar kümesidir."
+source: agnes_llm
+status: published
+language: tr
+description: Bir öğrenme algoritmasının eğitim sırasında görülmemiş girdiler için
+  çıktıları tahmin etmek için kullandığı varsayımlar kümesidir.
 ---
-
 ## Definition
 
 Tümevarımsal önyargı, bir makine öğrenimi modelinin eğitim verisinden görünmeyen verilere genelleme yapmasına olanak tanıyan, modele yerleşik içsel tercihleri veya kısıtları temsil eder. Böyle önyargılar olmadan bir model

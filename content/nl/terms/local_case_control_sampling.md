@@ -1,23 +1,24 @@
 ---
-title: "Lokaal casus-controle sampling"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lokaal casus-controle sampling
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /nl/terms/local_case_control_sampling/
-date: "2026-07-18T16:05:18.915245Z"
-lastmod: "2026-07-18T17:15:08.763411Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:05:18.915245Z'
+lastmod: '2026-07-18T17:15:08.763411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek voor negatieve steekproefneming die harde negatieven selecteert uit de directe omgeving van positieve voorbeelden in de embedding-ruimte."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek voor negatieve steekproefneming die harde negatieven selecteert
+  uit de directe omgeving van positieve voorbeelden in de embedding-ruimte.
 ---
-
 ## Definition
 
 Lokaal casus-controle sampling is een strategie die voornamelijk wordt gebruikt bij het trainen van contrastieve leermodellen of aanbevelingssystemen. In plaats van willekeurig negatieve steekproeven te selecteren, identificeert deze methode 'harde negatieven' (negatieve voorbeelden die moeilijk te onderscheiden zijn van positieve voorbeelden) in de nabijheid van positieve voorbeelden in de embedding-ruimte, waardoor het model beter leert discrimineren.

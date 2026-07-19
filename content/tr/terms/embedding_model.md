@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /tr/terms/embedding_model/
 date: "2026-07-18T15:34:19.689925Z"
 lastmod: "2026-07-18T16:38:07.256989Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir gömme modeli, metin veya görüntüler gibi ham verileri anlamsal anlamı temsil eden yoğun sayısal vektörlere dönüştürür."
 ---
-
 ## Definition
 
 Bu modeller, benzer öğelerin daha yakın konumlandırıldığı yüksek boyutlu verileri daha düşük boyutlu sürekli bir vektör uzayına haritalar. Bu dönüşüm, anlamsal ilişkileri yakalar ve benzerlik aramalarına olanak tanır.

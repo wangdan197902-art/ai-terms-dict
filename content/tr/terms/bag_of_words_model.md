@@ -1,23 +1,24 @@
 ---
-title: "Kelime Çantası Modeli"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Kelime Çantası Modeli
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /tr/terms/bag_of_words_model/
-date: "2026-07-18T15:43:09.718805Z"
-lastmod: "2026-07-18T16:38:07.277340Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:43:09.718805Z'
+lastmod: '2026-07-18T16:38:07.277340Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kelime çantası modeli, dilbilgisi ve kelime sırasını görmezden gelerek metni, kelimelerin belgedeki oluşumuna dayalı basitleştirilmiş bir temsilidir."
+source: agnes_llm
+status: published
+language: tr
+description: Kelime çantası modeli, dilbilgisi ve kelime sırasını görmezden gelerek
+  metni, kelimelerin belgedeki oluşumuna dayalı basitleştirilmiş bir temsilidir.
 ---
-
 ## Definition
 
 Bu doğal dil işleme tekniği, metni sözdizimi ve sıralamayı göz ardı ederek kelimelerin çoklu kümesi (multiset) olarak temsil eder. Belgeleri, kelime sıklığı veya varlığına dayalı olarak sayısal vektörlere dönüştürür.

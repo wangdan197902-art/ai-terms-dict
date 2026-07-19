@@ -1,23 +1,25 @@
 ---
-title: "Гипотеза лотерейного билета"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: Гипотеза лотерейного билета
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /ru/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:02:24.724072Z"
-lastmod: "2026-07-18T16:38:07.176800Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:02:24.724072Z'
+lastmod: '2026-07-18T16:38:07.176800Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теория о том, что плотные нейронные сети содержат более мелкие подсети, которые при обучении изолированно с начальной инициализацией могут достичь точности исходной сети."
+source: agnes_llm
+status: published
+language: ru
+description: Теория о том, что плотные нейронные сети содержат более мелкие подсети,
+  которые при обучении изолированно с начальной инициализацией могут достичь точности
+  исходной сети.
 ---
-
 ## Definition
 
 Гипотеза лотерейного билета предполагает, что внутри большой нейронной сети со случайной инициализацией существует разреженная подсеть («выигрышный билет»), которая хорошо инициализирована для обучения. Путем обрезки лишних весов и обучения оставшейся подсети в изоляции можно достичь той же точности, что и у полной сети, но с меньшими вычислительными затратами.

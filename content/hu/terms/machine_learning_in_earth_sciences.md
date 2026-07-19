@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /hu/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:11:36.331603Z"
 lastmod: "2026-07-18T17:15:09.809556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Gépi tanulási algoritmusok alkalmazása geospatális és környezeti adatok elemzésére természetes jelenségek előrejelzésére és erőforrások kezelésére."
 ---
-
 ## Definition
 
 A gépi tanulás javítja a földtudományokat a műholdas képek, szeizmikus adatok és klímarekordok feldolgozásával a komplex környezeti rendszerek modellezése érdekében. Ezek a technikák segítenek előre jelezni az időjárási mintázatokat, monitorozni a környezeti változásokat és támogatni a fenntartható erőforrás-gazdálkodást.

@@ -1,23 +1,24 @@
 ---
-title: "Personvern"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Personvern
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /no/terms/privacy/
-date: "2026-07-18T15:29:01.492215Z"
-lastmod: "2026-07-18T16:38:06.943961Z"
+slug: privacy
+date: '2026-07-18T15:29:01.492215Z'
+lastmod: '2026-07-18T16:38:06.943961Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Individets rett til å kontrollere hvordan persondata samles inn, brukes og deles i AI-systemer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Individets rett til å kontrollere hvordan persondata samles inn, brukes
+  og deles i AI-systemer.
 ---
-
 ## Definition
 
 Innen kunstig intelligens refererer personvern til beskyttelsen av sensitiv brukerinformasjon mot uautorisert tilgang eller misbruk under faser som datainnsamling, modelltrening og inferens. Det involverer

@@ -1,23 +1,23 @@
 ---
-title: "การคิด"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: การคิด
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /th/terms/thinking/
-date: "2026-07-18T16:18:25.777719Z"
-lastmod: "2026-07-18T16:38:07.662358Z"
+slug: thinking
+date: '2026-07-18T16:18:25.777719Z'
+lastmod: '2026-07-18T16:38:07.662358Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ในบริบทของปัญญาประดิษฐ์ (AI) การคิดหมายถึงกระบวนการทางปัญญา เช่น การให้เหตุผล การแก้ปัญหา และการตัดสินใจ ที่ถูกจำลองโดยอัลกอริทึม"
+source: agnes_llm
+status: published
+language: th
+description: ในบริบทของปัญญาประดิษฐ์ (AI) การคิดหมายถึงกระบวนการทางปัญญา เช่น การให้เหตุผล
+  การแก้ปัญหา และการตัดสินใจ ที่ถูกจำลองโดยอัลกอริทึม
 ---
-
 ## Definition
 
 ในขณะที่มนุษย์ใช้กระบวนการทางชีววิทยาในการคิด แต่ 'การคิด' ของ AI เกี่ยวข้องกับการดำเนินการเชิงคำนวณที่เลียนแบบฟังก์ชันทางปัญญา ซึ่งครอบคลุมถึงการอนุมานเชิงตรรกะ การจดจำรูปแบบ และการสรุปผล โมเดลภาษาขนาดใหญ่สมัยใหม่...

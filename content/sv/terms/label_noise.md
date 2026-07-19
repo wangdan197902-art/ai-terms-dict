@@ -1,23 +1,24 @@
 ---
-title: "Etikettbrus"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Etikettbrus
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /sv/terms/label_noise/
-date: "2026-07-18T16:05:53.852794Z"
-lastmod: "2026-07-18T17:15:09.019285Z"
+slug: label_noise
+date: '2026-07-18T16:05:53.852794Z'
+lastmod: '2026-07-18T17:15:09.019285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Fel eller inkonsekvenser i måletiketterna för ett dataset som används för träning av övervakad maskininlärning."
+source: agnes_llm
+status: published
+language: sv
+description: Fel eller inkonsekvenser i måletiketterna för ett dataset som används
+  för träning av övervakad maskininlärning.
 ---
-
 ## Definition
 
 Etikettbrus syftar på diskrepanser mellan de sanna klassetiketterna för dataexempel och de etiketter som tillhandahålls i träningsdatamängden. Detta kan uppstå på grund av mänskliga annoteringsfel, tvetydiga datapunkter eller felaktig datainsamling, vilket kan försämra modellernas prestanda och generaliseringsförmåga om det inte hanteras.

@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /pl/terms/given/
 date: "2026-07-18T15:26:05.444529Z"
 lastmod: "2026-07-18T17:15:08.812343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Termin oznaczający istniejące już dane, ograniczenia lub kontekst dostarczane jako wejście do procesu algorytmicznego."
 ---
-
 ## Definition
 
 W kontekście sztucznej inteligencji i informatyki termin 'given' (dany/zadany) odnosi się do stanu początkowego, zbioru danych lub parametrów dostarczonych modelowi lub funkcji przed rozpoczęciem obliczeń. Określa to warunki brzegowe dla...

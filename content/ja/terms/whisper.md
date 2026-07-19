@@ -1,23 +1,23 @@
 ---
-title: "Whisper"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: Whisper
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /ja/terms/whisper/
-date: "2026-07-18T11:36:41.190698Z"
-lastmod: "2026-07-18T11:44:45.155624Z"
+slug: whisper
+date: '2026-07-18T11:36:41.190698Z'
+lastmod: '2026-07-18T11:44:45.155624Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "多様なオーディオデータセットで学習した、OpenAIが開発した自動音声認識（ASR）システム。"
+source: agnes_llm
+status: published
+language: ja
+description: 多様なオーディオデータセットで学習した、OpenAIが開発した自動音声認識（ASR）システム。
 ---
-
 ## Definition
 
 Whisperは、さまざまな言語、方言、アクセントに対応するために設計された汎用音声認識モデルです。多言語かつマルチタスクの教師ありデータから、数十万時間分のオーディオを用いて学習しています。

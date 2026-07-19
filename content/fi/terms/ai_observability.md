@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /fi/terms/ai_observability/
 date: "2026-07-18T15:40:10.422004Z"
 lastmod: "2026-07-18T17:15:09.378765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käytäntö, jossa koneoppimisjärjestelmien sisäistä tilaa seurataan ja ymmärretään lokien, metrikoiden ja jäljitysten avulla."
 ---
-
 ## Definition
 
 Tekoälyn havainnoitavuus laajentaa perinteistä ohjelmistoseurantaa vastaamaan koneoppimisjärjestelmien ainutlaatuisia haasteita. Se sisältää mallin suorituskyvyn, datan siirtymisen (drift) ja päättelylatenssin seurannan reaaliajassa, mikä mahdollistaa systemaattisen vianetsinnän ja luotettavuuden varmistamisen tuotannossa.

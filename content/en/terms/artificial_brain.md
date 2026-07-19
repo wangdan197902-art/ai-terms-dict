@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /en/terms/artificial_brain/
 date: "2026-07-18T09:46:04.367704Z"
 lastmod: "2026-07-18T11:44:44.642160Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A computational system designed to mimic the structure and function of the biological human brain, often using neural networks."
 ---
-
 ## Definition
 
 An artificial brain refers to hardware or software architectures that emulate the neural structures and processing methods of the human brain. This includes neuromorphic computing chips that replicate neurons and synapses, as well as advanced deep learning models that simulate cognitive functions. The goal is to achieve high efficiency in pattern recognition, learning, and adaptive behavior by leveraging bio-inspired algorithms. While current implementations are simplified compared to biological brains, they represent significant strides toward more intelligent and energy-efficient computing systems.

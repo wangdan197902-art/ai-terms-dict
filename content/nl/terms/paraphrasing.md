@@ -1,23 +1,24 @@
 ---
-title: "Parafrazeren"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Parafrazeren
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /nl/terms/paraphrasing/
-date: "2026-07-18T16:11:43.532231Z"
-lastmod: "2026-07-18T17:15:08.775304Z"
+slug: paraphrasing
+date: '2026-07-18T16:11:43.532231Z'
+lastmod: '2026-07-18T17:15:08.775304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De NLP-taak om tekst te herschrijven om dezelfde betekenis over te brengen met andere woorden of zinsstructuren."
+source: agnes_llm
+status: published
+language: nl
+description: De NLP-taak om tekst te herschrijven om dezelfde betekenis over te brengen
+  met andere woorden of zinsstructuren.
 ---
-
 ## Definition
 
 Parafrazeren in Natural Language Processing (NLP) houdt in het genereren van alternatieve uitdrukkingen voor een gegeven invoertekst, terwijl de oorspronkelijke semantische betekenis behouden blijft. Het is cruciaal voor het verminderen van plagiaat, het...

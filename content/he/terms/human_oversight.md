@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /he/terms/human_oversight/
 date: "2026-07-18T16:04:39.001888Z"
 lastmod: "2026-07-18T17:15:09.548025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הפרקטיקה של שמירה על שליטה ובדיקה אנושיות מעל מערכות AI אוטומטיות כדי להבטיח בטיחות, דיוק ועמידה אתית."
 ---
-
 ## Definition
 
 פיקוח אנושי מתייחס למנגנונים ותהליכים שבהם בני אדם מנטרים, מעריכים ומתערטים בהחלטות או פעולות המונעות על ידי AI. רעיון זה קריטי להבטחה שמערכות אוטומטיות פועלות בצורה אחראית ובטוחה.

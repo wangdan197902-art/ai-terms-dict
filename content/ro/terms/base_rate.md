@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /ro/terms/base_rate/
 date: "2026-07-18T15:46:51.194614Z"
 lastmod: "2026-07-18T17:15:09.632172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Rata de bază este probabilitatea a priori ca un eveniment să apară într-o populație, independent de orice dovadă specifică sau rezultate ale testelor."
 ---
-
 ## Definition
 
 În statistică și învățarea automată, rata de bază se referă la frecvența subiacentă a unei condiții sau a unui rezultat într-un set de date dat. Ignorarea ratelor de bază duce adesea la eroarea ratei de bază, unde pro...

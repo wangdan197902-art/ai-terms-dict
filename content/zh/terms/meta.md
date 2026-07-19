@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /zh/terms/meta/
 date: "2026-07-18T11:25:49.100436Z"
 lastmod: "2026-07-18T11:44:45.531019Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在 AI 中，“元”通常指关于学习的学习，或控制模型适应和优化的更高层级过程。"
 ---
-
 ## Definition
 
 在人工智能中，“元”前缀表示更高层次的抽象，通常涉及自我引用或对核心流程的监督。常见例子包括“元学习”，其中算法学习如何更快地学习新任务；以及“元优化”，即优化优化器本身的过程。它强调了对模型训练和调整机制的抽象管理。

@@ -1,23 +1,23 @@
 ---
-title: "가이드드(Guided)"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: 가이드드(Guided)
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /ko/terms/guided/
-date: "2026-07-18T15:25:18.152165Z"
-lastmod: "2026-07-18T16:38:06.775950Z"
+slug: guided
+date: '2026-07-18T15:25:18.152165Z'
+lastmod: '2026-07-18T16:38:06.775950Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특정 외부 신호, 제약 조건 또는 중간 목표에 의해 제약되거나 지시받는 AI 프로세스나 생성 방법을 설명합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 특정 외부 신호, 제약 조건 또는 중간 목표에 의해 제약되거나 지시받는 AI 프로세스나 생성 방법을 설명합니다.
 ---
-
 ## Definition
 
 AI에서 '가이드드(Guided)'라는 용어는 일반적으로 모델의 동작이 주요 입력 외에 추가 정보에 의해 유도되는 기법을 의미합니다. 일반적인 예시로는 클래스(class)와 같은 조건을 사용하여 생성 과정을 제어하는 가이드드 디퓨전(guided diffusion) 등이 있습니다.

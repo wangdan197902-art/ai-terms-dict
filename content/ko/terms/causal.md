@@ -1,23 +1,23 @@
 ---
-title: "인과(Ina/Causal)"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: 인과(Ina/Causal)
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /ko/terms/causal/
-date: "2026-07-18T15:23:31.256360Z"
-lastmod: "2026-07-18T16:38:06.770147Z"
+slug: causal
+date: '2026-07-18T15:23:31.256360Z'
+lastmod: '2026-07-18T16:38:06.770147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "단순한 통계적 상관관계를 식별하는 것을 넘어 변수 간의 인과관계(원인과 결과)를 규명하는 것."
+source: agnes_llm
+status: published
+language: ko
+description: 단순한 통계적 상관관계를 식별하는 것을 넘어 변수 간의 인과관계(원인과 결과)를 규명하는 것.
 ---
-
 ## Definition
 
 인공지능에서 인과 모델링은 한 변수에 대한 개입이 다른 변수에 어떻게 영향을 미치는지 이해하려는 시도입니다. 관찰된 패턴에 의존하는 예측 모델과 달리, 인과 AI는 구조적 방정식과 개입 시나리오를 사용하여 인과적 메커니즘을 추론합니다.

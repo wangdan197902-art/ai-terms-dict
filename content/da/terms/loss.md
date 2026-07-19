@@ -1,23 +1,23 @@
 ---
-title: "Loss"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Loss
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /da/terms/loss/
-date: "2026-07-18T15:27:07.236851Z"
-lastmod: "2026-07-18T17:15:09.227967Z"
+slug: loss
+date: '2026-07-18T15:27:07.236851Z'
+lastmod: '2026-07-18T17:15:09.227967Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En numerisk værdi, der kvantificerer fejlen mellem modellens forudsigelser og de faktiske målværdier."
+source: agnes_llm
+status: published
+language: da
+description: En numerisk værdi, der kvantificerer fejlen mellem modellens forudsigelser
+  og de faktiske målværdier.
 ---
-
 ## Definition
 
 Loss-funktioner, også kendt som omkostningsfunktioner, måler, hvor godt en maskinlæringsmodels forudsigelser matcher sandheden under træningen. Målet for optimeringsalgoritmen er at minimere denne

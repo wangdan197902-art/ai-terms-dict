@@ -1,23 +1,24 @@
 ---
-title: "Optimalizálás"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Optimalizálás
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /hu/terms/optimization/
-date: "2026-07-18T15:38:54.544286Z"
-lastmod: "2026-07-18T17:15:09.743111Z"
+slug: optimization
+date: '2026-07-18T15:38:54.544286Z'
+lastmod: '2026-07-18T17:15:09.743111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A matematikai folyamat, amelynek során egy célfüggvényt minimalizálnak vagy maximalizálnak a legjobb megoldási paraméterek megtalálása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: A matematikai folyamat, amelynek során egy célfüggvényt minimalizálnak
+  vagy maximalizálnak a legjobb megoldási paraméterek megtalálása érdekében.
 ---
-
 ## Definition
 
 A gépi tanulásban az optimalizálás azokat az algoritmusokat jelenti, amelyekkel a modell paramétereit úgy állítják be, hogy minimalizáljanak egy veszteségfüggvényt, ezáltal javítva a modell teljesítményét. A gyakori módszerek közé tartozik a gradiensleszállás és a variancia-csökkenő optimalizáló.

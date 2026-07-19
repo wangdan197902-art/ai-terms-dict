@@ -1,23 +1,24 @@
 ---
-title: "høydimensjonal"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: høydimensjonal
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /no/terms/high_dimensional/
-date: "2026-07-18T15:33:28.799079Z"
-lastmod: "2026-07-18T16:38:06.952408Z"
+slug: high_dimensional
+date: '2026-07-18T15:33:28.799079Z'
+lastmod: '2026-07-18T16:38:06.952408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Beskriver datarom med et stort antall funksjoner eller dimensjoner, noe som ofte fører til sparsomhet og regneutfordringer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Beskriver datarom med et stort antall funksjoner eller dimensjoner, noe
+  som ofte fører til sparsomhet og regneutfordringer.
 ---
-
 ## Definition
 
 Høydimensjonal refererer til datasett eller vektorrom som inneholder et enormt antall attributter eller funksjoner. Innen KI er dette vanlig i tekst-embeddings, bildepiksler eller genuttrykksdata. Selv om slike data er rike på informasjon, kan de føre til «dimensjonens forbannelse», der dataene blir svært spredte og avstandsberegninger mindre meningsfulle.

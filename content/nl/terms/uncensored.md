@@ -1,23 +1,24 @@
 ---
-title: "Ongecensureerd"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Ongecensureerd
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /nl/terms/uncensored/
-date: "2026-07-18T16:21:12.648077Z"
-lastmod: "2026-07-18T17:15:08.795685Z"
+slug: uncensored
+date: '2026-07-18T16:21:12.648077Z'
+lastmod: '2026-07-18T17:15:08.795685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Verwijst naar AI-modellen die zijn aangepast om veiligheidsfilters en ethische richtlijnen te omzeilen."
+source: agnes_llm
+status: published
+language: nl
+description: Verwijst naar AI-modellen die zijn aangepast om veiligheidsfilters en
+  ethische richtlijnen te omzeilen.
 ---
-
 ## Definition
 
 In de context van kunstmatige intelligentie beschrijft 'ongecensureerd' doorgaans modellen die zijn gefinetuned of gemodificeerd om ingebouwde veiligheidsalignments te verwijderen of te verzwakken. Deze modellen zijn ontworpen...

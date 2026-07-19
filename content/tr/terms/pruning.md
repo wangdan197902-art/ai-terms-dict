@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /tr/terms/pruning/
 date: "2026-07-18T16:10:20.830213Z"
 lastmod: "2026-07-18T16:38:07.352940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Boyutu azaltmak ve çıkarım hızını artırmak için gereksiz veya daha az önemli parametreleri kaldıran bir model sıkıştırma tekniğidir."
 ---
-
 ## Definition
 
 Budama, sinir ağındaki çıktı doğruluğuna en az katkıda bulunan nöronları, bağlantıları veya filtreleri tanımlayıp ortadan kaldırır. Bu gereksiz öğelerin kaldırılmasıyla model daha hafif hale gelir ve...

@@ -1,23 +1,23 @@
 ---
-title: "Nível simbólico"
-term_id: "symbol_level"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_foundations", "knowledge_representation"]
+title: Nível simbólico
+term_id: symbol_level
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Foundations
+- Knowledge Representation
 difficulty: 2
 weight: 1
-slug: "symbol_level"
-aliases:
-  - /pt/terms/symbol_level/
-date: "2026-07-18T15:24:00.003298Z"
-lastmod: "2026-07-18T15:51:59.536972Z"
+slug: symbol_level
+date: '2026-07-18T15:24:00.003298Z'
+lastmod: '2026-07-18T15:51:59.536972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O nível simbólico refere-se à camada de abstração onde símbolos discretos representam conceitos, objetos ou relações dentro de um sistema de IA."
+source: agnes_llm
+status: published
+language: pt
+description: O nível simbólico refere-se à camada de abstração onde símbolos discretos
+  representam conceitos, objetos ou relações dentro de um sistema de IA.
 ---
-
 ## Definition
 
 Na inteligência artificial, o nível simbólico representa uma abstração de alto nível onde o conhecimento é codificado usando símbolos discretos em vez de valores numéricos contínuos. Essa abordagem é central para a IA Simbólica, permitindo o raciocínio lógico explícito e a manipulação de regras sobre representações estruturadas do mundo.

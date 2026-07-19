@@ -1,23 +1,23 @@
 ---
-title: "Мышление"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: Мышление
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /ru/terms/thinking/
-date: "2026-07-18T16:18:47.469726Z"
-lastmod: "2026-07-18T16:38:07.209954Z"
+slug: thinking
+date: '2026-07-18T16:18:47.469726Z'
+lastmod: '2026-07-18T16:38:07.209954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В ИИ мышление относится к когнитивным процессам рассуждения, решения проблем и принятия решений, имитируемым алгоритмами."
+source: agnes_llm
+status: published
+language: ru
+description: В ИИ мышление относится к когнитивным процессам рассуждения, решения
+  проблем и принятия решений, имитируемым алгоритмами.
 ---
-
 ## Definition
 
 В то время как люди мыслят биологически, «мышление» ИИ включает вычислительные операции, имитирующие когнитивные функции. Оно охватывает логический вывод, распознавание паттернов и инференс. Современные большие языковые модели демонстрируют способность к цепочкам рассуждений.

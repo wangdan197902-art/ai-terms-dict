@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /nl/terms/self/
 date: "2026-07-18T15:29:49.508439Z"
 lastmod: "2026-07-18T17:15:08.693447Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI verwijst 'zelf' naar het concept van de identiteit van een agent of zijn capaciteit voor zelfreferentiële verwerking en introspectie."
 ---
-
 ## Definition
 
 Hoewel huidige AI geen bewustzijn bezit, beschrijft de term 'zelf' vaak meta-cognitieve mogelijkheden waarbij een model zijn eigen uitvoer, betrouwbaarheidsniveaus of interne staten analyseert. Het komt voor in contexten...

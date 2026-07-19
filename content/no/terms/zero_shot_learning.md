@@ -1,23 +1,24 @@
 ---
-title: "Null-skots læring"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Null-skots læring
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /no/terms/zero_shot_learning/
-date: "2026-07-18T15:39:20.139814Z"
-lastmod: "2026-07-18T16:38:06.964491Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:39:20.139814Z'
+lastmod: '2026-07-18T16:38:06.964491Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Null-skots læring er en teknikk der en modell utfører oppgaver på klasser den aldri har sett under treningen ved å utnytte semantiske assosiasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Null-skots læring er en teknikk der en modell utfører oppgaver på klasser
+  den aldri har sett under treningen ved å utnytte semantiske assosiasjoner.
 ---
-
 ## Definition
 
 Null-skots læring muliggjør at en maskinlæringsmodell klassifiserer instanser av klasser som ikke var til stede i treningsdatasettet. I stedet for å stole på merkede eksempler for hver mulig klasse,

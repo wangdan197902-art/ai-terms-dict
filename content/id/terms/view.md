@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /id/terms/view/
 date: "2026-07-18T15:30:47.227138Z"
 lastmod: "2026-07-18T16:38:07.406751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Tabel virtual dalam basis data yang dihasilkan dari kueri yang disimpan, menyajikan data dari satu atau lebih tabel tanpa menyimpannya secara fisik."
 ---
-
 ## Definition
 
 Dalam manajemen basis data, tampilan bertindak sebagai kueri SQL yang disimpan yang berperilaku seperti tabel tetapi tidak berisi data itu sendiri. Ini memberikan perspektif yang disederhanakan atau disesuaikan atas data dasar, meningkatkan keamanan.

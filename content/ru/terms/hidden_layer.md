@@ -1,23 +1,24 @@
 ---
-title: "Скрытый слой"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Скрытый слой
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /ru/terms/hidden_layer/
-date: "2026-07-18T15:57:01.660799Z"
-lastmod: "2026-07-18T16:38:07.165207Z"
+slug: hidden_layer
+date: '2026-07-18T15:57:01.660799Z'
+lastmod: '2026-07-18T16:38:07.165207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Промежуточный слой в нейронной сети между входным и выходным слоями, который обрабатывает признаки."
+source: agnes_llm
+status: published
+language: ru
+description: Промежуточный слой в нейронной сети между входным и выходным слоями,
+  который обрабатывает признаки.
 ---
-
 ## Definition
 
 Скрытый слой состоит из нейронов, которые получают входные данные от предыдущих слоев, применяют веса и смещения, а затем передают преобразованные данные дальше через функцию активации. Эти слои позволяют нейронным сетям выявлять сложные закономерности и абстрактные представления данных.

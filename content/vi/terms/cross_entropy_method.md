@@ -1,23 +1,24 @@
 ---
-title: "Phương pháp Entropy chéo"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Phương pháp Entropy chéo
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /vi/terms/cross_entropy_method/
-date: "2026-07-18T15:46:37.085849Z"
-lastmod: "2026-07-18T16:38:07.741050Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:46:37.085849Z'
+lastmod: '2026-07-18T16:38:07.741050Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật tối ưu hóa ngẫu nhiên sử dụng mô phỏng Monte Carlo để cải thiện dần các ước lượng về xác suất của các sự kiện hiếm."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật tối ưu hóa ngẫu nhiên sử dụng mô phỏng Monte Carlo để cải
+  thiện dần các ước lượng về xác suất của các sự kiện hiếm.
 ---
-
 ## Definition
 
 Phương pháp Entropy chéo (CEM) là một thuật toán tối ưu hóa mạnh mẽ, đa năng, được sử dụng cho cả các bài toán rời rạc và liên tục. Nó hoạt động bằng cách duy trì một phân phối xác suất trên không gian tìm kiếm và cập nhật nó qua các vòng lặp dựa trên các mẫu tốt nhất.

@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /cs/terms/grokking/
 date: "2026-07-18T16:00:28.580290Z"
 lastmod: "2026-07-18T17:15:09.136658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Fenomén, kdy se neuronové sítě náhle naučí obecně platná pravidla po dlouhém tréninku na malých datech, daleko za bodem, kdy by měly data pouze memorovat."
 ---
-
 ## Definition
 
 Grokking označuje protichůdné chování pozorované v hlubokém učení, kdy model po dlouhou dobu přetrénovává trénovací data (overfitting) a vykazuje špatnou zobecnitelnost, než náhle dosáhne dobré schopnosti generalizace.

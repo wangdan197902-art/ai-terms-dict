@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /ro/terms/reasoning_model/
 date: "2026-07-18T16:18:55.885766Z"
 lastmod: "2026-07-18T17:15:09.697772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model AI optimizat special pentru a efectua deducții logice complexe, rezolvarea pașilor problemelor și procesarea gândirii în lanț (chain-of-thought)."
 ---
-
 ## Definition
 
 Spre deosebire de modelele generative standard axate pe fluiditate, modelele de raționament prioritizează acuratețea în sarcinile multietapa precum matematica, programarea și puzzle-urile logice. Ele utilizează adesea tehnici precum Chain-of-Thought (CoT) pentru a descompune problemele în pași intermediari.

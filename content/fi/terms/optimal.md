@@ -1,23 +1,23 @@
 ---
-title: "Optimaalinen"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Optimaalinen
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /fi/terms/optimal/
-date: "2026-07-18T15:29:33.618896Z"
-lastmod: "2026-07-18T17:15:09.356304Z"
+slug: optimal
+date: '2026-07-18T15:29:33.618896Z'
+lastmod: '2026-07-18T17:15:09.356304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Optimaalinen viittaa parhaaseen mahdolliseen ratkaisuun tai toimintaan tietyissä rajoitteissa, maksimoiden palkkiot tai minimoiden kustannukset."
+source: agnes_llm
+status: published
+language: fi
+description: Optimaalinen viittaa parhaaseen mahdolliseen ratkaisuun tai toimintaan
+  tietyissä rajoitteissa, maksimoiden palkkiot tai minimoiden kustannukset.
 ---
-
 ## Definition
 
 Tekoälyssä ja optimointiteoriassa optimaalinen ratkaisu on sellainen, joka saavuttaa korkeimman mahdollisen suorituskyvyn mittarin, kuten maksimipalkkion vahvistusoppimisessa tai minimivirheen regressiossa.

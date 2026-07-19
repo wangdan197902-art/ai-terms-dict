@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /zh/terms/modeling/
 date: "2026-07-18T10:53:03.111216Z"
 lastmod: "2026-07-18T11:44:45.377361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "建模是创建现实世界系统或数据分布的抽象表示的过程，以实现预测、模拟或决策制定。"
 ---
-
 ## Definition
 
 AI 建模涵盖了设计、训练和验证算法以从数据中学习模式的整个工作流程。它包括选择适当的架构、定义损失函数以及优化参数，从而构建出能够泛化到新数据的模型。

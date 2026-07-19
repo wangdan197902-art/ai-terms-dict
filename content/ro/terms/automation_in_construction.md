@@ -1,23 +1,24 @@
 ---
-title: "Automatizare în construcții"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Automatizare în construcții
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /ro/terms/automation_in_construction/
-date: "2026-07-18T15:46:37.466777Z"
-lastmod: "2026-07-18T17:15:09.631401Z"
+slug: automation_in_construction
+date: '2026-07-18T15:46:37.466777Z'
+lastmod: '2026-07-18T17:15:09.631401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Aplicarea roboticii și inteligenței artificiale pentru a fluidifica procesele de construcție și a îmbunătăți siguranța șantierului."
+source: agnes_llm
+status: published
+language: ro
+description: Aplicarea roboticii și inteligenței artificiale pentru a fluidifica procesele
+  de construcție și a îmbunătăți siguranța șantierului.
 ---
-
 ## Definition
 
 Automatizarea în construcții se referă la integrarea sistemelor robotice, a dronelor și a instrumentelor de gestionare a proiectelor bazate pe IA în ciclul de viață al clădirilor. Aceste tehnologii asistă în sarcini care variază de la așezarea cărămizilor până la monitorizarea progresului lucrărilor.

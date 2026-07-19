@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /he/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:11:19.673134Z"
 lastmod: "2026-07-18T17:15:09.561556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שימוש באלגוריתמי למידת מכונה לניתוח נתונים גיאוספריים וסביבתיים לחיזוי תופעות טבע וניהול משאבים."
 ---
-
 ## Definition
 
 למידת מכונה משפרת את מדעי כדור הארץ על ידי עיבוד תמונות לוויין, נתונים סייסמיים ורשומות אקלים כדי לדגם מערכות סביבתיות מורכבות. טכניקות אלו עוזרות לחזות דפוסי מזג אוויר ולנטר שינויים אקלימיים.

@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /sv/terms/cybersecurity/
 date: "2026-07-18T15:51:06.383476Z"
 lastmod: "2026-07-18T17:15:08.989150Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Praktiken att skydda system, nätverk och program från digitala attacker, obehörig åtkomst och skada genom olika försvarsteknologier."
 ---
-
 ## Definition
 
 Cybersäkerhet omfattar de tekniker, processer och metoder som är utformade för att skydda nätverk, datorer, program och data mot angrepp, skador eller obehörig åtkomst. Inom AI:s kontext handlar det också om att säkra AI-modeller mot adversariella attacker och skydda integriteten hos träningsdata.

@@ -1,23 +1,23 @@
 ---
-title: "순환 신경망(RNN)"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: 순환 신경망(RNN)
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /ko/terms/recurrent_neural_network/
-date: "2026-07-18T15:36:05.902154Z"
-lastmod: "2026-07-18T16:38:06.799700Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:36:05.902154Z'
+lastmod: '2026-07-18T16:38:06.799700Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "RNN은 노드 간의 연결이 시간적 순서를 따라 방향성 그래프를 형성하는 인공 신경망의 한 클래스입니다."
+source: agnes_llm
+status: published
+language: ko
+description: RNN은 노드 간의 연결이 시간적 순서를 따라 방향성 그래프를 형성하는 인공 신경망의 한 클래스입니다.
 ---
-
 ## Definition
 
 RNN은 텍스트, 유전체, 손글씨 또는 음성 같은 데이터 시퀀스에서 패턴을 인식하도록 설계되었습니다. 순방향 네트워크와 달리, RNN은 이전 단계의 정보를 포착하는 내부 기억(internal memory)을 가지고 있어 시계열 데이터 처리에 적합합니다.

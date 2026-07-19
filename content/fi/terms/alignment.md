@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /fi/terms/alignment/
 date: "2026-07-18T15:22:09.621564Z"
 lastmod: "2026-07-18T17:15:09.343429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa varmistetaan, että tekoälyjärjestelmän tavoitteet ja käyttäytyminen vastaavat ihmisten arvoja ja aikomuksia."
 ---
-
 ## Definition
 
 Arvonsuuntaus keskittyy varmistamaan, että tekoälyjärjestelmät tekevät sen, mitä ihmiset todella haluavat, eikä vain sitä, mitä ne kirjaimellisesti pyytävät. Se sisältää tekniikoita, kuten vahvistusoppimista ihmispalautteella (RLHF), ohjatakseen mallien käyttäytymistä.

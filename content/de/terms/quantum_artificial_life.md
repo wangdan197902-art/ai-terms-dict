@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /de/terms/quantum_artificial_life/
 date: "2026-07-18T11:29:14.769569Z"
 lastmod: "2026-07-18T11:44:44.979196Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Quanten-Künstliches Leben ist ein Forschungsfeld, das autonome Systeme und Evolutionsprozesse unter Verwendung von Prinzipien des Quantencomputings untersucht."
 ---
-
 ## Definition
 
 Quanten-Künstliches Leben (QAL) erforscht die Schnittstelle zwischen Quantenmechanik und der Forschung zum künstlichen Leben. Ziel ist es, biologische Evolution und sich selbst replizierende Systeme mithilfe von Quantencomputern zu simulieren.

@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /fi/terms/sovereign_ai/
 date: "2026-07-18T16:21:58.175905Z"
 lastmod: "2026-07-18T17:15:09.461733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Strateginen lähestymistapa, jossa maat tai toimijat kehittävät ja hallitsevat omia tekoälyinfrastruktuurejaan ja mallejaan varmistaakseen tietosuojan ja sääntelyllisen riippumattomuuden."
 ---
-
 ## Definition
 
 Suvereeni tekoäly kuvaa kykyä rakentaa, ottaa käyttöön ja hallita tekoälyjärjestelmiä itsenäisesti ilman riippuvuutta ulkomaisista pilvipalveluntarjoajista tai omistusoikeudellisista rajoitteista.

@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /fr/terms/mechanistic_interpretability/
 date: "2026-07-18T11:29:30.871390Z"
 lastmod: "2026-07-18T11:44:45.291141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une approche visant à comprendre les modèles d'IA en analysant leurs composants internes et leurs mécanismes plutôt que leur seul comportement entrée-sortie."
 ---
-
 ## Definition
 
 L'interprétabilité mécaniste se concentre sur le rétro-ingénierie des réseaux de neurones pour comprendre comment ils calculent des fonctions spécifiques au niveau des neurones individuels, des poids et des circuits. Au lieu de traiter le modèle comme une boîte noire, cette méthode cherche à cartographier les circuits computationnels précis qui implémentent des capacités cognitives ou des comportements particuliers.

@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /ja/terms/flow_based_generative_model/
 date: "2026-07-18T11:14:58.567993Z"
 lastmod: "2026-07-18T11:44:45.098471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "単純な分布から複雑なデータ分布へ、可逆変換を用いてマッピングする生成モデルのクラス。"
 ---
-
 ## Definition
 
 フローベース生成モデルは、ガウス分布などの単純な基本分布に対して、一連の可逆で微分可能な変換を適用することで、複雑な確率分布を構築します。変換が可逆であるため、尤度（likelihood）を正確に計算でき、生成されたデータの品質評価が可能です。

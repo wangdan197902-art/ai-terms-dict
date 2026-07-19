@@ -1,23 +1,24 @@
 ---
-title: "ความเท่าเทียมของความเสี่ยงแบบลำดับชั้น"
-term_id: "hierarchical_risk_parity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "optimization", "clustering"]
+title: ความเท่าเทียมของความเสี่ยงแบบลำดับชั้น
+term_id: hierarchical_risk_parity
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Optimization
+- Clustering
 difficulty: 4
 weight: 1
-slug: "hierarchical_risk_parity"
-aliases:
-  - /th/terms/hierarchical_risk_parity/
-date: "2026-07-18T15:58:46.420905Z"
-lastmod: "2026-07-18T16:38:07.614641Z"
+slug: hierarchical_risk_parity
+date: '2026-07-18T15:58:46.420905Z'
+lastmod: '2026-07-18T16:38:07.614641Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเพิ่มประสิทธิภาพพอร์ตโฟลิโอที่ใช้การจัดกลุ่ม (clustering) เพื่อจัดการความสัมพันธ์ระหว่างสินทรัพย์ และจัดสรรความเสี่ยงผ่านโครงสร้างลำดับชั้น"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเพิ่มประสิทธิภาพพอร์ตโฟลิโอที่ใช้การจัดกลุ่ม (clustering) เพื่อจัดการความสัมพันธ์ระหว่างสินทรัพย์
+  และจัดสรรความเสี่ยงผ่านโครงสร้างลำดับชั้น
 ---
-
 ## Definition
 
 ความเท่าเทียมของความเสี่ยงแบบลำดับชั้น (Hierarchical Risk Parity - HRP) เป็นวิธีการสร้างพอร์ตโฟลิโอที่แก้ไขข้อจำกัดของการเพิ่มประสิทธิภาพแบบค่าเฉลี่ย-ความแปรปรวนดั้งเดิม โดยนำโครงสร้างความสัมพันธ์มาพิจารณา ใช้กระบวนการจัดกลุ่มเพื่อแบ่งสินทรัพย์ออกเป็นกลุ่มย่อยตามระดับความคล้ายคลึงกันของความผันผวน จากนั้นจึงจัดสรรน้ำหนักการลงทุนโดยคำนึงถึงความเสี่ยงภายในแต่ละกลุ่มและระหว่างกลุ่ม ช่วยลดความไวต่อข้อผิดพลาดในการประมาณการความสัมพันธ์ของสินทรัพย์ได้ดีกว่าวิธีการแบบเดิม

@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /pl/terms/ai_warfare/
 date: "2026-07-18T15:38:30.857961Z"
 lastmod: "2026-07-18T17:15:08.840843Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zastosowanie technologii sztucznej inteligencji w operacjach wojskowych, nadzorze oraz systemach broni autonomicznej."
 ---
-
 ## Definition
 
 Wojna AI odnosi się do integracji sztucznej inteligencji w strategiach militarnych, w tym w przypadku autonomicznych dronów, logistyki predykcyjnej, obrony cybernetycznej oraz systemów wspomagających podejmowanie decyzji dla dowódców.

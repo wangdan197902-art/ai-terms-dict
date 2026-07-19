@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /sv/terms/ai_infrastructure/
 date: "2026-07-18T15:43:16.361121Z"
 lastmod: "2026-07-18T17:15:08.970755Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "De hårdvaru-, mjukvaru- och nätverksresurser som krävs för att utveckla, träna och distribuera artificiella intelligensmodeller i stor skala."
 ---
-
 ## Definition
 
 AI-infrastruktur omfattar den tekniska grundläggande stack som är nödvändig för AI-verksamhet. Detta inkluderar högpresterande beredningshårdvara som GPU:er och TPU:er, molnlagring, nätverksbandbredd samt mjukvaruverktyg för hantering av datapipelines och modellleverans. Den fungerar som ryggraden för hela livscykeln för AI-system.

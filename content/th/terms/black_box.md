@@ -1,23 +1,23 @@
 ---
-title: "กล่องดำ"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: กล่องดำ
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /th/terms/black_box/
-date: "2026-07-18T15:31:52.827144Z"
-lastmod: "2026-07-18T16:38:07.553244Z"
+slug: black_box
+date: '2026-07-18T15:31:52.827144Z'
+lastmod: '2026-07-18T16:38:07.553244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบที่กลไกภายในถูกซ่อนไว้ และสามารถสังเกตได้เฉพาะข้อมูลนำเข้าและผลลัพธ์เท่านั้น"
+source: agnes_llm
+status: published
+language: th
+description: ระบบที่กลไกภายในถูกซ่อนไว้ และสามารถสังเกตได้เฉพาะข้อมูลนำเข้าและผลลัพธ์เท่านั้น
 ---
-
 ## Definition
 
 ในบริบทของ AI โมเดลกล่องดำหมายถึงระบบที่ซับซ้อน เช่น เครือข่ายประสาทเทียมลึก ซึ่งตรรกะการตัดสินใจภายในมีความทึบและยากที่มนุษย์จะตีความได้ แม้โมเดลเหล่านี้มักจะได้ผลลัพธ์ที่ดีเยี่ยม แต่กระบวนการคิดภายในนั้นไม่สามารถเข้าถึงได้ง่าย

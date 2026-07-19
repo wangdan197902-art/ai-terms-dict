@@ -1,23 +1,24 @@
 ---
-title: "Invite"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Invite
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /fr/terms/prompt/
-date: "2026-07-18T10:53:10.476110Z"
-lastmod: "2026-07-18T11:44:45.169832Z"
+slug: prompt
+date: '2026-07-18T10:53:10.476110Z'
+lastmod: '2026-07-18T11:44:45.169832Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un texte d'entrée ou une instruction fournie à un modèle d'IA générative pour obtenir une réponse ou un comportement spécifique."
+source: agnes_llm
+status: published
+language: fr
+description: Un texte d'entrée ou une instruction fournie à un modèle d'IA générative
+  pour obtenir une réponse ou un comportement spécifique.
 ---
-
 ## Definition
 
 Une invite sert d'interface principale pour interagir avec les grands modèles de langage (LLM) et d'autres systèmes d'IA générative. Elle définit le contexte, le ton et les contraintes de la sortie du modèle. Une invite efficace

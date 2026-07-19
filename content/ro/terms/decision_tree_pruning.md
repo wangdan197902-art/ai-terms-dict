@@ -1,23 +1,23 @@
 ---
-title: "Tăierea arborelui de decizii"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Tăierea arborelui de decizii
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /ro/terms/decision_tree_pruning/
-date: "2026-07-18T15:53:40.460266Z"
-lastmod: "2026-07-18T17:15:09.646350Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:53:40.460266Z'
+lastmod: '2026-07-18T17:15:09.646350Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de reducere a dimensiunii arborilor de decizii prin eliminarea secțiunilor care oferă puține putere de clasificare a instanțelor."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de reducere a dimensiunii arborilor de decizii prin eliminarea
+  secțiunilor care oferă puține putere de clasificare a instanțelor.
 ---
-
 ## Definition
 
 Tăierea este o metodă utilizată pentru a preveni suprapotrivirea (overfitting) în modelele de arbori de decizii, prin eliminarea ramurilor care au o putere predictivă slabă. Poate fi realizată prin tăiere prealabilă (pre-pruning), oprind creșterea arborelui devreme, sau post-tăiere (post-pruning).

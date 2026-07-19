@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /sv/terms/online/
 date: "2026-07-18T15:29:19.763955Z"
 lastmod: "2026-07-18T17:15:08.947884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser maskininlärningsmodeller som lär sig kontinuerligt från nya dataströmmar i realtid utan att behöva tränas om från grunden."
 ---
-
 ## Definition
 
 Online-inlärning är en maskininlärningsparadigm där modellen uppdateras inkrementellt när nya datapunkter anländer, snarare än att tränas på en statisk datamängd vid ett tillfälle. Denna metod är avgörande för dynamiska miljöer.

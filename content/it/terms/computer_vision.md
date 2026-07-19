@@ -1,23 +1,24 @@
 ---
-title: "Visione Artificiale"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: Visione Artificiale
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /it/terms/computer_vision/
-date: "2026-07-18T15:22:40.268104Z"
-lastmod: "2026-07-18T17:15:08.559660Z"
+slug: computer_vision
+date: '2026-07-18T15:22:40.268104Z'
+lastmod: '2026-07-18T17:15:08.559660Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un campo dell'intelligenza artificiale che consente ai computer di derivare informazioni significative da immagini digitali, video e altri input visivi."
+source: agnes_llm
+status: published
+language: it
+description: Un campo dell'intelligenza artificiale che consente ai computer di derivare
+  informazioni significative da immagini digitali, video e altri input visivi.
 ---
-
 ## Definition
 
 La visione artificiale si concentra sulla replicazione delle capacità visive umane attraverso processi computazionali. Coinvolge l'analisi e l'interpretazione dei dati visivi per identificare oggetti, riconoscere pattern e comprendere

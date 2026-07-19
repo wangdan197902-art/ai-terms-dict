@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /pt/terms/pedagogical_agent/
 date: "2026-07-18T15:16:04.818212Z"
 lastmod: "2026-07-18T15:51:59.521599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma entidade de inteligência artificial projetada para facilitar a aprendizagem, fornecendo instrução, feedback e orientação."
 ---
-
 ## Definition
 
 Um agente pedagógico é um componente de software, frequentemente representado como um personagem virtual, que atua como professor ou tutor em ambientes educacionais. Esses agentes utilizam processamento de linguagem natural e técnicas de aprendizado de máquina para adaptar o conteúdo ao aluno.

@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /th/terms/mixtral/
 date: "2026-07-18T16:05:37.905617Z"
 lastmod: "2026-07-18T16:38:07.632522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "โมเดลภาษาขนาดใหญ่แบบ Sparse Mixture of Experts (MoE) จาก Mistral AI ซึ่งจะเปิดใช้งานเฉพาะส่วนย่อยของพารามิเตอร์สำหรับแต่ละโทเคน"
 ---
-
 ## Definition
 
 Mixtral เป็นโมเดลภาษาขนาดใหญ่แบบโอเพนเวทที่บุกเบิกโดยใช้สถาปัตยกรรม Sparse Mixture of Experts (MoE) ต่างจากโมเดลหนาแน่น (Dense models) ที่ใช้พารามิเตอร์ทั้งหมดสำหรับทุกโทเคน Mixtral จะจัดเส้นทางแต่ละโทเคนผ่าน

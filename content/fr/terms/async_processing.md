@@ -1,23 +1,24 @@
 ---
-title: "Traitement asynchrone"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Traitement asynchrone
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /fr/terms/async_processing/
-date: "2026-07-18T11:05:32.343915Z"
-lastmod: "2026-07-18T11:44:45.199672Z"
+slug: async_processing
+date: '2026-07-18T11:05:32.343915Z'
+lastmod: '2026-07-18T11:44:45.199672Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un paradigme de programmation où les tâches sont exécutées indépendamment du fil d'exécution principal, permettant des opérations non bloquantes."
+source: agnes_llm
+status: published
+language: fr
+description: Un paradigme de programmation où les tâches sont exécutées indépendamment
+  du fil d'exécution principal, permettant des opérations non bloquantes.
 ---
-
 ## Definition
 
 Le traitement asynchrone permet aux logiciels d'effectuer des tâches de longue durée, telles que des opérations d'E/S ou des calculs complexes, sans geler l'interface principale de l'application ni bloquer d'autres processus. En

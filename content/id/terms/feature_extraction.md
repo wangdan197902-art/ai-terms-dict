@@ -1,23 +1,24 @@
 ---
-title: "Ekstraksi Fitur"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: Ekstraksi Fitur
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /id/terms/feature_extraction/
-date: "2026-07-18T15:50:22.628246Z"
-lastmod: "2026-07-18T16:38:07.457587Z"
+slug: feature_extraction
+date: '2026-07-18T15:50:22.628246Z'
+lastmod: '2026-07-18T16:38:07.457587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses menurunkan informasi bermakna dari data mentah untuk mengurangi dimensi dan meningkatkan kinerja model pembelajaran mesin."
+source: agnes_llm
+status: published
+language: id
+description: Proses menurunkan informasi bermakna dari data mentah untuk mengurangi
+  dimensi dan meningkatkan kinerja model pembelajaran mesin.
 ---
-
 ## Definition
 
 Ekstraksi fitur melibatkan transformasi data mentah menjadi sekumpulan fitur yang lebih baik mewakili masalah mendasar bagi model prediktif, sehingga meningkatkan akurasi model. Teknik ini mengurangi kompleksitas data.

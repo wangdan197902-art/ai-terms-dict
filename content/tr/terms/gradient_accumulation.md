@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /tr/terms/gradient_accumulation/
 date: "2026-07-18T15:55:41.041862Z"
 lastmod: "2026-07-18T16:38:07.314697Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gradyan biriktirme, ağırlıklar güncellenmeden önce birden fazla ileri/geri yayılım üzerinden gradyanları toplayarak daha büyük toplu boyutları simüle eden bir tekniktir."
 ---
-
 ## Definition
 
 Bu optimizasyon stratejisi, derin öğrenme modellerinin GPU belleğine sığandan daha büyük etkili toplu boyutlarla eğitilmesine olanak tanır. Birkaç mini topluluktan gelen gradyanları biriktirip ardından ağırlık güncellemesi gerçekleştirerek çalışır.

@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /tr/terms/tokenization/
 date: "2026-07-18T15:30:21.481363Z"
 lastmod: "2026-07-18T16:38:07.246053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Tokenizasyon, ham metin makine öğrenmesi algoritmaları tarafından işlenebilen 'token' adı verilen daha küçük birimlere bölünmesi işlemidir."
 ---
-
 ## Definition
 
 Tokenizasyon, Yapay Doğal Dil İşleme'de (NLP) kritik bir ön işleme adımıdır ve yapılandırılmamış metni model tarafından tüketilebilir yapılandırılmış verilere dönüştürür. Cümleleri kelimelere, alt-kelimelere veya karakterlere ayırma sürecini içerir.

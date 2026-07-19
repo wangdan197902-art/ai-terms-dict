@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /ar/terms/mlops/
 date: "2026-07-18T16:11:28.795611Z"
 lastmod: "2026-07-18T17:15:08.524702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "MLOps (عمليات تعلم الآلة) هي مجموعة من الممارسات التي تجمع بين تعلم الآلة، وDevOps، وهندسة البيانات لأتمتة وتبسيط دورة حياة نماذج تعلم الآلة."
 ---
-
 ## Definition
 
 تُمكّن MLOps المؤسسات من نشر نماذج تعلم الآلة وصيانتها في بيئة الإنتاج بشكل موثوق وفعال. وتشمل التحكم في الإصدارات للبيانات والنماذج، والاختبار الآلي، والتكامل المستمر

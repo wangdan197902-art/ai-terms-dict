@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /tr/terms/grounding/
 date: "2026-07-18T15:55:56.276380Z"
 lastmod: "2026-07-18T16:38:07.315634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Soyut yapay zeka çıktılarını doğruluk ve uygunluk sağlamak amacıyla gerçek dünya gerçekliklerine, veri kaynaklarına veya fiziksel bağlamlara bağlama sürecidir."
 ---
-
 ## Definition
 
 Yapay zekada yerelleştirme (grounding), sembolik temsillerin veya oluşturulan metinlerin somut gerçek dünya varlıklarına, verilere veya duyusal deneyimlere bağlanması anlamına gelir. Dil modelleri için bu genellikle Geri Getirme-Artırılmış Üretim (RAG) gibi tekniklerle gerçekleşir; böylece modelin ürettiği bilgiler gerçek bir kaynağa dayandırılır ve halüsinasyon riski azaltılır.

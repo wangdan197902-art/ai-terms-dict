@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /ko/terms/computational_humor/
 date: "2026-07-18T15:45:59.129454Z"
 lastmod: "2026-07-18T16:38:06.819181Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "컴퓨터적 방법을 통해 유머러스한 콘텐츠를 생성, 이해, 감상하는 데 중점을 두는 AI의 하위 분야입니다."
 ---
-
 ## Definition
 
 계산적 유머는 기계가 농담, 말장난, 재치 있는 발언 등을 생성하거나 해석하는 방법을 연구합니다. 이는 일반적으로 자연어 처리(NLP)를 활용하여 불일치, 의미의 변화, 또는 예기치 않은

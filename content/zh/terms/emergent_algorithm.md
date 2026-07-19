@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /zh/terms/emergent_algorithm/
 date: "2026-07-18T11:16:12.974971Z"
 lastmod: "2026-07-18T11:44:45.493971Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种由简单组件相互作用自发产生的算法行为，而非通过显式编程实现。"
 ---
-
 ## Definition
 
 涌现算法是指系统中许多简单智能体或规则通过局部相互作用而产生的复杂全局行为或模式。与传统的自上而下的编程不同，涌现算法中的整体行为并非预先设计，而是从底层互动中自然浮现出来的。

@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /ja/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T11:10:57.024651Z"
 lastmod: "2026-07-18T11:44:45.086705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "強化学習における人間のフィードバックからの強化学習（RLHF）で報酬モデルを訓練するために特別に設計された、高品質な人間の好み（バイアス）データセット。"
 ---
-
 ## Definition
 
 Helpsteer2はNVIDIAが公開したキュレーション済みデータセットで、大規模言語モデル（LLM）によって生成された回答のペアワイズ比較を含みます。このデータセットは、有用性、安全性、正確性などの多次元的な人間の好みや選好に焦点を当てています。

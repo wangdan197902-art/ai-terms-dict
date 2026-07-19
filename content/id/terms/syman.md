@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /id/terms/syman/
 date: "2026-07-18T16:10:15.470089Z"
 lastmod: "2026-07-18T16:38:07.512205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Istilah non-standar atau ambigu dalam literatur AI; kemungkinan salah ketik untuk 'System' atau akronim khusus yang tidak dikenal luas dalam terminologi AI umum."
 ---
-
 ## Definition
 
 Tidak ada definisi standar yang diterima secara luas untuk 'Syman' dalam terminologi kecerdasan buatan arus utama. Istilah ini mungkin merujuk pada alat proprietari tertentu, salah ketik untuk 'System' (sebagai dalam Sistem Prompt atau

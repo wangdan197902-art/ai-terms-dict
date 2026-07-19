@@ -1,23 +1,23 @@
 ---
-title: "어니 투 어니(Any To Any)"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: 어니 투 어니(Any To Any)
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /ko/terms/any_to_any/
-date: "2026-07-18T15:40:52.252657Z"
-lastmod: "2026-07-18T16:38:06.807920Z"
+slug: any_to_any
+date: '2026-07-18T15:40:52.252657Z'
+lastmod: '2026-07-18T16:38:06.807920Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "생성형 AI 기능으로, 모델이 한 모달리티의 입력을 임의의 다른 모달리티의 출력으로 직접 변환할 수 있습니다."
+source: agnes_llm
+status: published
+language: ko
+description: 생성형 AI 기능으로, 모델이 한 모달리티의 입력을 임의의 다른 모달리티의 출력으로 직접 변환할 수 있습니다.
 ---
-
 ## Definition
 
 어니 투 어니는 텍스트-이미지, 이미지-텍스트, 오디오-비디오 등 다양한 입력-출력 조합을 처리할 수 있는 통합 멀티모달 아키텍처를 지칭합니다. 특수화된 모델과 달리 이러한 시스템은

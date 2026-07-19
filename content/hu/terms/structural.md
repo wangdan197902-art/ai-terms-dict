@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /hu/terms/structural/
 date: "2026-07-18T15:31:33.974546Z"
 lastmod: "2026-07-18T17:15:09.730982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A rendszeren belüli komponensek alapvető szerveződésére, architektúrájára vagy elrendezésére utal."
 ---
-
 ## Definition
 
 A strukturális aspektusok meghatározzák, hogyan vannak megszervezve az adatok vagy a neurális hálózati rétegek. A gráfneurális hálózatokban a szerkeződés a csomópontok kapcsolatait jelenti; a mélytanulásban pedig a réteg topológiáját.

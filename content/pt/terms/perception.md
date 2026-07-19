@@ -1,23 +1,23 @@
 ---
-title: "Percepção"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Percepção
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /pt/terms/perception/
-date: "2026-07-18T14:37:49.896260Z"
-lastmod: "2026-07-18T15:51:59.435881Z"
+slug: perception
+date: '2026-07-18T14:37:49.896260Z'
+lastmod: '2026-07-18T15:51:59.435881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Percepção é o processo pelo qual os sistemas de IA interpretam dados de entrada sensoriais, como imagens ou áudio, para compreender seu ambiente."
+source: agnes_llm
+status: published
+language: pt
+description: Percepção é o processo pelo qual os sistemas de IA interpretam dados
+  de entrada sensoriais, como imagens ou áudio, para compreender seu ambiente.
 ---
-
 ## Definition
 
 A percepção em IA envolve a conversão de dados brutos de sensores em informações significativas que podem ser processadas por módulos de raciocínio de nível superior. Isso inclui visão computacional para interpretar cenas visuais, pro

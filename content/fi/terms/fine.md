@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /fi/terms/fine/
 date: "2026-07-18T15:26:31.606261Z"
 lastmod: "2026-07-18T17:15:09.350542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Hienosäätö viittaa prosessiin, jossa esikoulutettua AI-mallia mukautetaan tiettyyn tehtävään tai domeeniin lisäämällä erikoistunutta dataa."
 ---
-
 ## Definition
 
 Hienosäätö tarkoittaa yleiskäyttöisen, suurilla datamäärillä koulutetun mallin ottamista ja sen jatkokouluttamista pienemmällä, erikoistuneemmalla datajoukolla parantaakseen suorituskykyä tietyissä tehtävissä. Tämä tekniikka hyödyntää siirtooppimista.

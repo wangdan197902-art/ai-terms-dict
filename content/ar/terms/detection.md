@@ -1,23 +1,23 @@
 ---
-title: "الكشف"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: الكشف
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /ar/terms/detection/
-date: "2026-07-18T15:24:19.925791Z"
-lastmod: "2026-07-18T17:15:08.436024Z"
+slug: detection
+date: '2026-07-18T15:24:19.925791Z'
+lastmod: '2026-07-18T17:15:08.436024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تحديد وتوطين كائنات أو أحداث أو شذوذ محددة داخل مجموعة بيانات أو بيئة."
+source: agnes_llm
+status: published
+language: ar
+description: تحديد وتوطين كائنات أو أحداث أو شذوذ محددة داخل مجموعة بيانات أو بيئة.
 ---
-
 ## Definition
 
 يعد الكشف مهمة أساسية في رؤية الحاسوب ومعالجة الإشارات حيث يحدد نموذج الذكاء الاصطناعي وجود وموقع الكائنات ذات الاهتمام. وعلى عكس التصنيف الذي يعين مجرد تسمية، يحدد الكشف موقع الكائن بدقة عادةً باستخدام صناديق محيطة.

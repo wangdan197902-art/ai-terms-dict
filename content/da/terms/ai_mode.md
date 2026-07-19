@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /da/terms/ai_mode/
 date: "2026-07-18T15:38:42.863634Z"
 lastmod: "2026-07-18T17:15:09.252455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En funktionel tilstand i softwaregrænseflader, hvor kunstig intelligens aktivt assisterer eller automatiserer opgaver."
 ---
-
 ## Definition
 
 AI-tilstand refererer til en specifik driftstilstand inden for digitale platforme eller applikationer, hvor AI-funktioner aktiveres for at forbedre brugerinteraktionen. This mode typically enables features like natur

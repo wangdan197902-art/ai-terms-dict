@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /pt/terms/machine_learning_control/
 date: "2026-07-18T15:09:15.949987Z"
 lastmod: "2026-07-18T15:51:59.510037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma abordagem da teoria de controle onde algoritmos de aprendizado de máquina gerenciam adaptativamente a dinâmica do sistema para otimizar o desempenho em tempo real."
 ---
-
 ## Definition
 
 O controle por aprendizado de máquina integra algoritmos adaptativos com sistemas de controle tradicionais para lidar com ambientes não lineares ou incertos. Diferente dos controladores estáticos, esses sistemas aprendem com as operaçõe

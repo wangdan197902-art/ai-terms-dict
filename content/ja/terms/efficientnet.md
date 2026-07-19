@@ -1,23 +1,23 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /ja/terms/efficientnet/
-date: "2026-07-18T11:13:19.842363Z"
-lastmod: "2026-07-18T11:44:45.093975Z"
+slug: efficientnet
+date: '2026-07-18T11:13:19.842363Z'
+lastmod: '2026-07-18T11:44:45.093975Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "EfficientNetは、深さ、幅、解像度を均一にスケーリングすることで、より少ないパラメータ数で高精度を実現する畳み込みニューラルネットワーク（CNN）アーキテクチャのファミリーです。"
+source: agnes_llm
+status: published
+language: ja
+description: EfficientNetは、深さ、幅、解像度を均一にスケーリングすることで、より少ないパラメータ数で高精度を実現する畳み込みニューラルネットワーク（CNN）アーキテクチャのファミリーです。
 ---
-
 ## Definition
 
 Googleによって開発されたEfficientNetは、ネットワークの深さ、幅、入力画像の解像度をバランスよく調整するための複合スケーリング法を使用します。このアプローチにより、モデルは最先端の精度を達成しつつ、計算効率とリソース使用量を最適化します。

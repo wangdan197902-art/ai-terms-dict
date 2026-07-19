@@ -1,23 +1,24 @@
 ---
-title: "Супервизированное дообучение"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Супервизированное дообучение
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /ru/terms/supervised_fine_tuning/
-date: "2026-07-18T15:36:46.873563Z"
-lastmod: "2026-07-18T16:38:07.110874Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:36:46.873563Z'
+lastmod: '2026-07-18T16:38:07.110874Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс дополнительной тренировки предварительно обученной модели на конкретном наборе данных для адаптации ее к определенной задаче или предметной области."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс дополнительной тренировки предварительно обученной модели на
+  конкретном наборе данных для адаптации ее к определенной задаче или предметной области.
 ---
-
 ## Definition
 
 Супервизированное дообучение (SFT) предполагает взятие большой предварительно обученной модели (например, языковой модели) и продолжение ее обучения на меньшем, высококачественном наборе данных, размеченном для конкретной целевой задачи.

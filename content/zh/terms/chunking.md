@@ -1,23 +1,23 @@
 ---
-title: "分块"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: 分块
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /zh/terms/chunking/
-date: "2026-07-18T11:09:54.659576Z"
-lastmod: "2026-07-18T11:44:45.456194Z"
+slug: chunking
+date: '2026-07-18T11:09:54.659576Z'
+lastmod: '2026-07-18T11:44:45.456194Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "分块是检索增强生成（RAG）和其他NLP管道中的关键预处理步骤。它涉及将文本划分为固定大小或语义单元（块），以适应上下文..."
+source: agnes_llm
+status: published
+language: zh
+description: 分块是检索增强生成（RAG）和其他NLP管道中的关键预处理步骤。它涉及将文本划分为固定大小或语义单元（块），以适应上下文...
 ---
-
 ## Definition
 
 

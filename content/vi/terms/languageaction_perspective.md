@@ -1,23 +1,24 @@
 ---
-title: "Góc nhìn ngôn ngữ/hành động"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Góc nhìn ngôn ngữ/hành động
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /vi/terms/languageaction_perspective/
-date: "2026-07-18T15:59:51.756882Z"
-lastmod: "2026-07-18T16:38:07.774418Z"
+slug: languageaction_perspective
+date: '2026-07-18T15:59:51.756882Z'
+lastmod: '2026-07-18T16:38:07.774418Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khung lý thuyết xem ngôn ngữ chủ yếu là một hình thức hành động xã hội thay vì chỉ là một hệ thống để mô tả thực tại."
+source: agnes_llm
+status: published
+language: vi
+description: Một khung lý thuyết xem ngôn ngữ chủ yếu là một hình thức hành động xã
+  hội thay vì chỉ là một hệ thống để mô tả thực tại.
 ---
-
 ## Definition
 
 Có nguồn gốc từ lý thuyết hành vi ngôn ngữ và ngữ dụng học, góc nhìn này nhấn mạnh cách các phát ngôn thực hiện các chức năng như yêu cầu, hứa hẹn hoặc ra lệnh. Trong Xử lý Ngôn ngữ Tự nhiên (NLP), nó định hướng việc hiểu ý định người dùng.

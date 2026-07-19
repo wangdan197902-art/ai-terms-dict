@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran model aksi"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Pembelajaran model aksi
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /id/terms/action_model_learning/
-date: "2026-07-18T15:38:03.226203Z"
-lastmod: "2026-07-18T16:38:07.425106Z"
+slug: action_model_learning
+date: '2026-07-18T15:38:03.226203Z'
+lastmod: '2026-07-18T16:38:07.425106Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik pembelajaran penguatan di mana agen mempelajari dinamika lingkungannya dengan mengamati efek dari aksinya sendiri."
+source: agnes_llm
+status: published
+language: id
+description: Teknik pembelajaran penguatan di mana agen mempelajari dinamika lingkungannya
+  dengan mengamati efek dari aksinya sendiri.
 ---
-
 ## Definition
 
 Pembelajaran model aksi melibatkan agen dalam membangun representasi internal tentang bagaimana aksinya mengubah lingkungan dari satu keadaan ke keadaan lain. Berbeda dengan pengamatan pasif, metode ini memanfaatkan interaksi aktif untuk memahami aturan lingkungan.

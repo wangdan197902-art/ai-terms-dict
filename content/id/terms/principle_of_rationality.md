@@ -1,23 +1,24 @@
 ---
-title: "Prinsip Rasionalitas"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Prinsip Rasionalitas
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /id/terms/principle_of_rationality/
-date: "2026-07-18T16:04:47.054550Z"
-lastmod: "2026-07-18T16:38:07.495345Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:04:47.054550Z'
+lastmod: '2026-07-18T16:38:07.495345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Asumsi mendasar bahwa agen cerdas bertindak untuk memaksimalkan utilitas yang diharapkan berdasarkan informasi yang tersedia."
+source: agnes_llm
+status: published
+language: id
+description: Asumsi mendasar bahwa agen cerdas bertindak untuk memaksimalkan utilitas
+  yang diharapkan berdasarkan informasi yang tersedia.
 ---
-
 ## Definition
 
 Prinsip ini menyatakan bahwa tindakan agen harus dipilih untuk memaksimalkan ukuran kinerja yang diharapkan, mengingat input perseptual dan pengetahuan sebelumnya. Ini berfungsi sebagai landasan bagi teori keputusan.

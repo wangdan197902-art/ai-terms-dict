@@ -1,23 +1,23 @@
 ---
-title: "ระบบอัตโนมัติในงานก่อสร้าง"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: ระบบอัตโนมัติในงานก่อสร้าง
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /th/terms/automation_in_construction/
-date: "2026-07-18T15:43:26.450038Z"
-lastmod: "2026-07-18T16:38:07.577592Z"
+slug: automation_in_construction
+date: '2026-07-18T15:43:26.450038Z'
+lastmod: '2026-07-18T16:38:07.577592Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การประยุกต์ใช้หุ่นยนต์และ AI เพื่อปรับกระบวนการก่อสร้างให้ราบรื่นและปรับปรุงความปลอดภัยบนไซต์งาน"
+source: agnes_llm
+status: published
+language: th
+description: การประยุกต์ใช้หุ่นยนต์และ AI เพื่อปรับกระบวนการก่อสร้างให้ราบรื่นและปรับปรุงความปลอดภัยบนไซต์งาน
 ---
-
 ## Definition
 
 ระบบอัตโนมัติในงานก่อสร้างหมายถึงการบูรณาการระบบหุ่นยนต์ โดรน และเครื่องมือจัดการโครงการที่ขับเคลื่อนด้วย AI เข้าไปในวงจรชีวิตของการก่อสร้าง เทคโนโลยีเหล่านี้ช่วยในงานต่างๆ ตั้งแต่การก่ออิฐไปจนถึงการตรวจสอบความปลอดภัยบนไซต์งาน ช่วยเพิ่มประสิทธิภาพและลดความเสี่ยงต่อมนุษย์

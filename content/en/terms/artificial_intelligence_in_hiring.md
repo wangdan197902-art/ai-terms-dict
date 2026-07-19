@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /en/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T09:46:35.821127Z"
 lastmod: "2026-07-18T11:44:44.642991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The use of AI tools to streamline recruitment processes, including resume screening, candidate matching, and interview analysis."
 ---
-
 ## Definition
 
 AI in hiring utilizes algorithms to automate and enhance various stages of the recruitment lifecycle. Tools analyze resumes for keyword relevance, assess candidate fit through predictive modeling, and even evaluate video interviews via facial expression or tone analysis. This increases efficiency and reduces human bias in initial screenings. However, it can perpetuate existing biases if training data is flawed, leading to discriminatory outcomes. Organizations must balance automation with fairness and transparency to maintain trust and legal compliance.

@@ -1,23 +1,24 @@
 ---
-title: "Uczenie leniwe"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Uczenie leniwe
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /pl/terms/lazy_learning/
-date: "2026-07-18T16:03:21.970418Z"
-lastmod: "2026-07-18T17:15:08.890744Z"
+slug: lazy_learning
+date: '2026-07-18T16:03:21.970418Z'
+lastmod: '2026-07-18T17:15:08.890744Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podejście do uczenia, które odkłada uogólnianie do czasu klasyfikacji, przechowując instancje treningowe zamiast budować jawny model."
+source: agnes_llm
+status: published
+language: pl
+description: Podejście do uczenia, które odkłada uogólnianie do czasu klasyfikacji,
+  przechowując instancje treningowe zamiast budować jawny model.
 ---
-
 ## Definition
 
 Leniwi uczący się, tacy jak k-Najbliższych Sąsiadów (k-NN), zapamiętują cały zbiór treningowy i wykonują obliczenia dopiero przy dokonywaniu predykcji. Stanowi to kontrast dla uczenia żwawego (eager learning), które buduje uogólniony model przed fazą wnioskowania.

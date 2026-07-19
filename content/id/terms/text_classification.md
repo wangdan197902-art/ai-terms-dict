@@ -1,23 +1,24 @@
 ---
-title: "Klasifikasi Teks"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: Klasifikasi Teks
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /id/terms/text_classification/
-date: "2026-07-18T16:10:44.135734Z"
-lastmod: "2026-07-18T16:38:07.513736Z"
+slug: text_classification
+date: '2026-07-18T16:10:44.135734Z'
+lastmod: '2026-07-18T16:38:07.513736Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses kategorisasi teks ke dalam kelompok terorganisir berdasarkan konten atau makna semantiknya."
+source: agnes_llm
+status: published
+language: id
+description: Proses kategorisasi teks ke dalam kelompok terorganisir berdasarkan konten
+  atau makna semantiknya.
 ---
-
 ## Definition
 
 Klasifikasi teks adalah tugas pembelajaran terawasi di mana algoritme menetapkan kategori yang telah ditentukan sebelumnya ke data teks yang tidak terstruktur. Teknik umum termasuk Naive Bayes, Mesin Vektor Dukungan, dan Pembelajaran Mendalam.

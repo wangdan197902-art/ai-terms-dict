@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /tr/terms/lora/
 date: "2026-07-18T15:26:23.723866Z"
 lastmod: "2026-07-18T16:38:07.236340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Düşük Sıralı Uyarlanım, mevcut model ağırlıklarına eğitilebilir düşük sıralı ayrışım matrisleri enjekte eden, parametre verimliliğine odaklanan ince ayar yöntemidir."
 ---
-
 ## Definition
 
 LoRA, önceden eğitilmiş model ağırlıklarını dondurur ve Dönüştürücü mimarisinin her katmanına eğitilebilir ayrışım matrisleri ekler. Yalnızca bu düşük sıralı matrislerin optimize edilmesiyle LoRA, önemli ölçüde azaltır

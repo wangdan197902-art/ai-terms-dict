@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /vi/terms/personaplex/
 date: "2026-07-18T16:07:31.524762Z"
 lastmod: "2026-07-18T16:38:07.792563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung khái niệm hoặc nền tảng được thiết kế để quản lý các mạng lưới phức tạp gồm nhiều persona kỹ thuật số và sự tương tác của chúng trong môi trường do AI điều khiển."
 ---
-
 ## Definition
 
 Personaplex đề cập đến hệ sinh thái hoặc cơ sở hạ tầng hỗ trợ việc tạo dựng, quản lý và tương tác giữa nhiều persona kỹ thuật số. Nó bao gồm các cân nhắc về mặt kỹ thuật và đạo đức liên quan đến bản sắc số và quyền riêng tư.

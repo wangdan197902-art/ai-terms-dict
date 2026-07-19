@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /vi/terms/ai_anthropomorphism/
 date: "2026-07-18T15:38:18.362787Z"
 lastmod: "2026-07-18T16:38:07.717706Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Xu hướng của con người gán các đặc điểm, cảm xúc hoặc ý định giống con người cho các hệ thống AI."
 ---
-
 ## Definition
 
 Nhân cách hóa AI đề cập đến hiện tượng tâm lý nơi người dùng chiếu chiếu các đặc tính của con người lên các thực thể phi con người, chẳng hạn như bot trò chuyện hoặc robot. Điều này có thể dẫn đến những kỳ vọng không thực tế về khả năng và cảm xúc của hệ thống.

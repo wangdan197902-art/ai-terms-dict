@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /de/terms/ai_assisted_software_development/
 date: "2026-07-18T11:01:29.917438Z"
 lastmod: "2026-07-18T11:44:44.904910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Nutzung von KI-Tools zur Steigerung der Produktivität bei Codierung, Debugging, Tests und Designprozessen."
 ---
-
 ## Definition
 
 KI-unterstützte Softwareentwicklung beinhaltet den Einsatz von Machine-Learning-Modellen, um Entwickler beim Schreiben von Code, der Fehlererkennung, der Generierung von Tests und der Leistungsoptimierung zu unterstützen. Tools wie GitHub Copilot sind hierfür Beispiele.

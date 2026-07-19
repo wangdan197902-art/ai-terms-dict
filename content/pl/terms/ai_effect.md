@@ -1,23 +1,24 @@
 ---
-title: "Efekt AI"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: Efekt AI
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /pl/terms/ai_effect/
-date: "2026-07-18T15:38:17.026818Z"
-lastmod: "2026-07-18T17:15:08.840059Z"
+slug: ai_effect
+date: '2026-07-18T15:38:17.026818Z'
+lastmod: '2026-07-18T17:15:08.840059Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Zjawisko, w którym zadania uważane wcześniej za inteligentne stają się po ich zautomatyzowaniu przez maszyny postrzegane jako trywialne."
+source: agnes_llm
+status: published
+language: pl
+description: Zjawisko, w którym zadania uważane wcześniej za inteligentne stają się
+  po ich zautomatyzowaniu przez maszyny postrzegane jako trywialne.
 ---
-
 ## Definition
 
 Efekt AI opisuje przesuwającą się granicę tego, co stanowi „sztuczną inteligencję”. W miarę jak algorytmy stają się bardziej zaawansowane i zdolne do wykonywania konkretnych zadań, te zadania są często redefiniowane jako zwykłe procesy techniczne, przestając być uznawane za przejaw inteligencji.

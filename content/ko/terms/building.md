@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /ko/terms/building/
 date: "2026-07-18T15:23:31.256320Z"
 lastmod: "2026-07-18T16:38:06.769848Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "초기 설계부터 프로덕션 준비 상태까지 AI 모델과 시스템을 개발, 훈련 및 배포하는 실용적인 단계."
 ---
-
 ## Definition
 
 빌딩(Building)은 데이터 수집, 모델 선택, 훈련, 검증 및 배포를 포함하여 AI 솔루션을 생성하는 엔드투엔드(end-to-end) 엔지니어링 과정을 의미합니다. 여기에는 기술 인프라 구축 및 운영 체계 마련이 모두 포함됩니다.

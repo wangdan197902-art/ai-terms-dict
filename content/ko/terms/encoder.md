@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /ko/terms/encoder/
 date: "2026-07-18T15:34:19.126489Z"
 lastmod: "2026-07-18T16:38:06.794705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인코더는 입력 데이터를 압축되고 의미 있는 표현으로 변환하는 신경망의 구성 요소입니다."
 ---
-
 ## Definition
 
 인코더는 원시 입력 시퀀스나 데이터 구조를 처리하여 잠재 공간(latent space) 표현, 즉 종종 임베딩이나 코드로 불리는 형태로 변환합니다. 이들은 트랜스포머 및 오토인코더와 같은 아키텍처의 핵심 구성 요소입니다.

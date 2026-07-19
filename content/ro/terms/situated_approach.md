@@ -1,23 +1,25 @@
 ---
-title: "Abordarea încadrată"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Abordarea încadrată
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /ro/terms/situated_approach/
-date: "2026-07-18T16:20:53.450571Z"
-lastmod: "2026-07-18T17:15:09.702553Z"
+slug: situated_approach
+date: '2026-07-18T16:20:53.450571Z'
+lastmod: '2026-07-18T17:15:09.702553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de proiectare în IA care prioritizează comportamentul dependent de context și interacțiunea cu mediul în detrimentul raționamentului abstract."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de proiectare în IA care prioritizează comportamentul dependent
+  de context și interacțiunea cu mediul în detrimentul raționamentului abstract.
 ---
-
 ## Definition
 
 Abordarea încadrată este un cadru metodologic în cercetarea IA care susține că comportamentul inteligent nu poate fi separat de mediul în care apare. Aceasta promovează construirea de sisteme care răspund direct la stimulii mediului, în loc să se bazeze exclusiv pe modele interne complexe.

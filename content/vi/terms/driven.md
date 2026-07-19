@@ -1,23 +1,25 @@
 ---
-title: "Được thúc đẩy bởi"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Được thúc đẩy bởi
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /vi/terms/driven/
-date: "2026-07-18T15:24:27.512717Z"
-lastmod: "2026-07-18T16:38:07.683153Z"
+slug: driven
+date: '2026-07-18T15:24:27.512717Z'
+lastmod: '2026-07-18T16:38:07.683153Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thuật ngữ 'được thúc đẩy bởi' mô tả các hệ thống hoặc phương pháp AI nơi việc ra quyết định hoặc kiến trúc mô hình chủ yếu được hướng dẫn bởi một loại đầu vào cụ thể, chẳng hạn như dữ liệu hoặc mục ti"
+source: agnes_llm
+status: published
+language: vi
+description: Thuật ngữ 'được thúc đẩy bởi' mô tả các hệ thống hoặc phương pháp AI
+  nơi việc ra quyết định hoặc kiến trúc mô hình chủ yếu được hướng dẫn bởi một loại
+  đầu vào cụ thể, chẳng hạn như dữ liệu hoặc mục ti
 ---
-
 ## Definition
 
 Thuật ngữ 'driven' thường được dùng làm hậu tố để chỉ lực lượng hoặc cơ chế chính đằng sau một cách tiếp cận AI. Ví dụ, 'dựa trên dữ liệu' (data-driven) ngụ ý rằng các quyết định được đưa ra dựa trên các mẫu thống kê trong dữ liệu, trong khi 'dựa trên tri thức' (knowledge-driven) dựa trên các quy tắc hoặc logic chuyên gia.

@@ -1,23 +1,24 @@
 ---
-title: "Rezolvarea problemelor"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Rezolvarea problemelor
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /ro/terms/problem_solving/
-date: "2026-07-18T16:17:02.656107Z"
-lastmod: "2026-07-18T17:15:09.693686Z"
+slug: problem_solving
+date: '2026-07-18T16:17:02.656107Z'
+lastmod: '2026-07-18T17:15:09.693686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul cognitiv de găsire a soluțiilor pentru dificultăți, implicând căutare, raționament și planificare în spații de stare definite."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul cognitiv de găsire a soluțiilor pentru dificultăți, implicând
+  căutare, raționament și planificare în spații de stare definite.
 ---
-
 ## Definition
 
 În inteligența artificială, rezolvarea problemelor se referă la abordarea sistematică de navigare de la o stare inițială la o stare țintă printr-o secvență de acțiuni. Acest proces implică de obicei definirea clară a problemei, identificarea stărilor posibile și aplicarea unor algoritmi pentru a găsi o cale optimă sau satisfăcătoare.

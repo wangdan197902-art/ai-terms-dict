@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /vi/terms/pedagogical_agent/
 date: "2026-07-18T16:07:15.821598Z"
 lastmod: "2026-07-18T16:38:07.791850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thực thể trí tuệ nhân tạo được thiết kế để tạo điều kiện thuận lợi cho việc học bằng cách cung cấp hướng dẫn, phản hồi và sự hỗ trợ."
 ---
-
 ## Definition
 
 Một đại sứ giáo dục là một thành phần phần mềm, thường được thể hiện dưới dạng nhân vật ảo, đóng vai trò là giáo viên hoặc gia sư trong môi trường giáo dục. Những đại sứ này sử dụng xử lý ngôn ngữ tự nhiên và các kỹ thuật khác để tương tác hiệu quả với người học.

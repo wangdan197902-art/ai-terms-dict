@@ -1,23 +1,24 @@
 ---
-title: "Interpretação bayesiana da regularização por kernel"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Interpretação bayesiana da regularização por kernel
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /pt/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T14:51:28.881187Z"
-lastmod: "2026-07-18T15:51:59.467606Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T14:51:28.881187Z'
+lastmod: '2026-07-18T15:51:59.467606Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um quadro teórico que conecta métodos de kernel, como as Máquinas de Vetores de Suporte (SVMs), aos Processos Gaussianos sob uma suposição de prior bayesiano."
+source: agnes_llm
+status: published
+language: pt
+description: Um quadro teórico que conecta métodos de kernel, como as Máquinas de
+  Vetores de Suporte (SVMs), aos Processos Gaussianos sob uma suposição de prior bayesiano.
 ---
-
 ## Definition
 
 Este conceito estabelece que a minimização de um funcional de risco regularizado com um kernel específico é equivalente à obtenção da estimativa de máxima a posteriori (MAP) em um quadro bayesiano. Especificamente, ele demonstra que a regularização impõe uma distribuição de probabilidade sobre os parâmetros do modelo, interpretando o termo de regularização como uma distribuição a priori gaussiana sobre os coeficientes ou pesos da função de decisão.

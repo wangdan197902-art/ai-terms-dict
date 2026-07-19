@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /ro/terms/compute/
 date: "2026-07-18T15:50:16.747578Z"
 lastmod: "2026-07-18T17:15:09.638450Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Puterea de calcul se referă la resursele și capacitatea de procesare utilizate pentru a executa algoritmi și a gestiona datele în sistemele de inteligență artificială."
 ---
-
 ## Definition
 
 În inteligența artificială, puterea de calcul reprezintă infrastructura fundamentală necesară pentru antrenarea modelelor și executarea inferenței. Aceasta include componente hardware precum procesoarele centrale (CPU), procesoarele grafice (GPU) și unitățile de procesare tensorială (TPU), precum și resursele software asociate.

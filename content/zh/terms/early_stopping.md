@@ -1,23 +1,23 @@
 ---
-title: "早停法"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: 早停法
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /zh/terms/early_stopping/
-date: "2026-07-18T11:15:46.560754Z"
-lastmod: "2026-07-18T11:44:45.492833Z"
+slug: early_stopping
+date: '2026-07-18T11:15:46.560754Z'
+lastmod: '2026-07-18T11:44:45.492833Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "早停法是一种正则化技术，当模型在验证集上的性能开始下降时停止训练过程，以防止过拟合。"
+source: agnes_llm
+status: published
+language: zh
+description: 早停法是一种正则化技术，当模型在验证集上的性能开始下降时停止训练过程，以防止过拟合。
 ---
-
 ## Definition
 
 早停法是一种主要用于梯度下降等迭代训练过程中的正则化形式。在训练期间，模型在训练数据上的表现通常会持续改善，但在验证集上的表现可能会在某个点后开始恶化（表明出现过拟合）。早停法通过监控验证误差并在连续多个epoch未改善时停止训练来解决这一问题。

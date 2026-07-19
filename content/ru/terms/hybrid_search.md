@@ -1,23 +1,25 @@
 ---
-title: "Гибридный поиск"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Гибридный поиск
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /ru/terms/hybrid_search/
-date: "2026-07-18T15:57:46.851786Z"
-lastmod: "2026-07-18T16:38:07.166543Z"
+slug: hybrid_search
+date: '2026-07-18T15:57:46.851786Z'
+lastmod: '2026-07-18T16:38:07.166543Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия извлечения информации, сочетающая семантический векторный поиск с традиционным индексированием на основе ключевых слов для повышения точности и релевантности результатов."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия извлечения информации, сочетающая семантический векторный поиск
+  с традиционным индексированием на основе ключевых слов для повышения точности и
+  релевантности результатов.
 ---
-
 ## Definition
 
 Гибридный поиск объединяет два различных метода извлечения: плотный векторный поиск, который улавливает семантическое значение и контекст, и разреженный векторный (ключевой) поиск, который сопоставляет точные термины. За счет использования этих двух подходов достигается более высокое качество поиска.

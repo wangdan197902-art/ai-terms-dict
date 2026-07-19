@@ -1,23 +1,24 @@
 ---
-title: "Eş Kutusu Eğitilebilir X-O Oyunu Motoru"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Eş Kutusu Eğitilebilir X-O Oyunu Motoru
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /tr/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:02:41.415974Z"
-lastmod: "2026-07-18T16:38:07.332383Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:02:41.415974Z'
+lastmod: '2026-07-18T16:38:07.332383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Donald Michie tarafından 1961'de, kibrit kutuları ve boncuklar kullanarak Tık-Tak-Toe oynamak üzere inşa edilmiş fiziksel bir pekiştirmeli öğrenme cihazı."
+source: agnes_llm
+status: published
+language: tr
+description: Donald Michie tarafından 1961'de, kibrit kutuları ve boncuklar kullanarak
+  Tık-Tak-Toe oynamak üzere inşa edilmiş fiziksel bir pekiştirmeli öğrenme cihazı.
 ---
-
 ## Definition
 
 ME-Noughts-and-Crosses Motoru, özellikle pekiştirmeli öğrenme olmak üzere makine öğreniminin erken bir gösterisidir. Her biri benzersiz bir tahta durumunu temsil eden 304 kibrit kutusundan inşa edilen sistem, her hamle için doğru cevabı öğrenmek amacıyla boncukların eklenip çıkarılmasını kullanır.

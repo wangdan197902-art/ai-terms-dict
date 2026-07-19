@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /no/terms/way_of_the_future/
 date: "2026-07-18T16:20:55.980542Z"
 lastmod: "2026-07-18T16:38:07.057454Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Dette begrepet refererer generelt til den forventede utviklingen av teknologisk fremgang, spesielt med tanke på integreringen av AI i dagligliv og industri."
 ---
-
 ## Definition
 
 Selv om det ikke er et strengt teknisk begrep, beskriver 'Veien fremover' paradigmeskiftet mot autonome systemer, personlige AI-assistenter og automatiserte beslutningsprosesser. Det omfatter den generelle retningen teknologien tar.

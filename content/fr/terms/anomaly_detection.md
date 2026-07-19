@@ -1,23 +1,24 @@
 ---
-title: "Détection d'anomalies"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Détection d'anomalies
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /fr/terms/anomaly_detection/
-date: "2026-07-18T11:04:26.870300Z"
-lastmod: "2026-07-18T11:44:45.196800Z"
+slug: anomaly_detection
+date: '2026-07-18T11:04:26.870300Z'
+lastmod: '2026-07-18T11:44:45.196800Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus d'identification d'éléments, d'événements ou d'observations rares qui s'écartent significativement de la majorité des données."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus d'identification d'éléments, d'événements ou d'observations
+  rares qui s'écartent significativement de la majorité des données.
 ---
-
 ## Definition
 
 La détection d'anomalies, également connue sous le nom de détection de valeurs aberrantes, consiste à analyser les données pour trouver des motifs qui ne se conforment pas au comportement attendu. Elle est largement utilisée en cybersécurité, dans la détection de fraude et la maintenance des systèmes

@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /ro/terms/knowledge_compilation/
 date: "2026-07-18T16:06:53.291292Z"
 lastmod: "2026-07-18T17:15:09.671647Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Compilarea cunoștințelor este procesul de transformare a reprezentărilor cunoștințelor în forme mai eficiente pentru răspunsuri mai rapide la interogări sau raționament."
 ---
-
 ## Definition
 
 Compilarea cunoștințelor se referă la tehnici în inteligența artificială care convertește o bază de cunoștințe sau o teorie logică într-o reprezentare diferită, care facilitează operațiuni mai rapide, cum ar fi satisfacibilitatea

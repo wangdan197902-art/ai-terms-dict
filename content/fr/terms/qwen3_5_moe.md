@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /fr/terms/qwen3_5_moe/
 date: "2026-07-18T11:35:41.439482Z"
 lastmod: "2026-07-18T11:44:45.319204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une variante hypothétique ou future de la série Qwen3 basée sur un mélange d'experts (MoE) clairsemé, conçue pour une haute efficacité."
 ---
-
 ## Definition
 
 Ce terme désigne une architecture spécialisée au sein de la famille Qwen, exploitant probablement une conception de Mélange d'Experts (MoE). Dans ces modèles, seul un sous-ensemble des paramètres du réseau neuronal (les experts) est activé lors de l'inférence, ce qui réduit considérablement la charge de calcul tout en maintenant des performances élevées.

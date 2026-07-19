@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /cs/terms/outline_of_machine_learning/
 date: "2026-07-18T16:11:47.502524Z"
 lastmod: "2026-07-18T17:15:09.183397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Komplexní klasifikace paradigmat, algoritmů a metrik hodnocení v oblasti strojového učení."
 ---
-
 ## Definition
 
 Tento termín popisuje strukturální klasifikaci strojového učení na učení s dozorem, bez dozoru, polo-dozorované učení a učení s posilovou zpětnou vazbou. Zahrnuje základní rodiny algoritmů, jako je lineární regrese.

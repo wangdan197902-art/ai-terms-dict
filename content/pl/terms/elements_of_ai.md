@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /pl/terms/elements_of_ai/
 date: "2026-07-18T15:53:12.759074Z"
 lastmod: "2026-07-18T17:15:08.869754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Elementy sztucznej inteligencji to darmowy kurs online zaprojektowany tak, aby zapewnić szerokie, nietechniczne wprowadzenie do koncepcji sztucznej inteligencji i ich wpływu społecznego."
 ---
-
 ## Definition
 
 Stworzony przez Uniwersytet w Helsinkach i firmę Reaktor, ten inicjatywa edukacyjna ma na celu odmagizowanie sztucznej inteligencji dla ogółu społeczeństwa. Obejmuje ona podstawowe tematy, takie jak uczenie maszynowe, uczenie głębokie, etyka i inne kluczowe zagadnienia.

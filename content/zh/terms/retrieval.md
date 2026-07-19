@@ -1,23 +1,23 @@
 ---
-title: "检索"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: 检索
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /zh/terms/retrieval/
-date: "2026-07-18T11:01:52.849107Z"
-lastmod: "2026-07-18T11:44:45.405861Z"
+slug: retrieval
+date: '2026-07-18T11:01:52.849107Z'
+lastmod: '2026-07-18T11:44:45.405861Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "从数据库或知识库中获取相关数据以增强模型输入的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 从数据库或知识库中获取相关数据以增强模型输入的过程。
 ---
-
 ## Definition
 
 检索是指根据用户查询或上下文，从大型数据集或外部知识库中搜索和提取特定信息的技术过程。在现代 AI 系统中，它...

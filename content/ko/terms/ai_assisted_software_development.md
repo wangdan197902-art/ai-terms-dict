@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /ko/terms/ai_assisted_software_development/
 date: "2026-07-18T15:39:40.903927Z"
 lastmod: "2026-07-18T16:38:06.804636Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "코딩, 디버깅, 테스트 및 설계 과정에서 생산성을 향상시키기 위해 AI 도구를 사용하는 것."
 ---
-
 ## Definition
 
 AI 보조 소프트웨어 개발은 머신러닝 모델을 활용하여 개발자가 코드를 작성하고, 버그를 식별하며, 테스트를 생성하고, 성능을 최적화하도록 지원합니다. GitHub Copilot과 같은 도구들이 이에 해당합니다.

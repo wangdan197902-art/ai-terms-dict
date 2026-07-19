@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="term-detail">
+<article class="term-detail" data-pagefind-body>
     <header class="term-header">
         <h1>{{ .Title }}</h1>
         {{ with .Params.term_id }}
@@ -13,6 +13,18 @@
     <div class="term-content">
         {{ .Content }}
     </div>
+
+    {{/* 标签显示：可点击的标签链接，提升内链和用户浏览深度 */}}
+    {{ with .Params.tags }}
+    <footer class="term-tags">
+        <h2 class="tags-title">{{ i18n "tags" | default "Tags" }}</h2>
+        <ul class="tags-inline">
+            {{ range . }}
+            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag-pill">{{ . }}</a></li>
+            {{ end }}
+        </ul>
+    </footer>
+    {{ end }}
 
     {{/* AdSense 广告位：文章内 300x250（待审核通过后激活） */}}
     <div class="ad-container ad-in-article" data-ad-slot="in-article">

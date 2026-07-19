@@ -1,23 +1,25 @@
 ---
-title: "Aprendizado de máquina em videogames"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Aprendizado de máquina em videogames
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /pt/terms/machine_learning_in_video_games/
-date: "2026-07-18T15:09:30.391197Z"
-lastmod: "2026-07-18T15:51:59.510493Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T15:09:30.391197Z'
+lastmod: '2026-07-18T15:51:59.510493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A aplicação de algoritmos de aprendizado de máquina para aprimorar o desenvolvimento de jogos, criar personagens não jogáveis (NPCs) adaptativos e otimizar a experiência de jogo."
+source: agnes_llm
+status: published
+language: pt
+description: A aplicação de algoritmos de aprendizado de máquina para aprimorar o
+  desenvolvimento de jogos, criar personagens não jogáveis (NPCs) adaptativos e otimizar
+  a experiência de jogo.
 ---
-
 ## Definition
 
 Este campo envolve a integração de técnicas de aprendizado de máquina nos fluxos de trabalho de desenvolvimento de jogos para automatizar a criação de ativos, equilibrar mecânicas de jogo e gerar conteúdo dinâmico. Isso varia desde o uso de aprendizado por reforço para treinar NPCs até a geração procedural de níveis e texturas.

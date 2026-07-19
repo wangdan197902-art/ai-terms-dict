@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /nl/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:17:35.232922Z"
 lastmod: "2026-07-18T17:15:08.787812Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het markt-ecosysteem dat hardwarefabrikanten en AI-dienstverleners omvat die spraakgestuurde apparaten aanbieden binnen Zuid-Korea."
 ---
-
 ## Definition
 
 Deze term verwijst naar de specifieke regionale marktdynamiek rondom smart speakers in Zuid-Korea, gekenmerkt door een hoog smartphone-aandeel en geavanceerde breedbandinfrastructuur. Het omvat de belangrijkste spelers en concurrentiepatronen in deze regio.

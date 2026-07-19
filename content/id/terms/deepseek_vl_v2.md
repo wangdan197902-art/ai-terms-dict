@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /id/terms/deepseek_vl_v2/
 date: "2026-07-18T15:47:16.028367Z"
 lastmod: "2026-07-18T16:38:07.449625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "DeepSeek VL V2 adalah model Visi-Bahasa yang dirancang untuk memproses dan memahami input visual serta kueri teks dengan presisi dan efisiensi tinggi."
 ---
-
 ## Definition
 
 DeepSeek VL V2 memperluas kemampuan model bahasa standar ke domain multimoda, memungkinkan interpretasi gambar bersama dengan teks. Dengan menggunakan encoder visi yang terhubung ke bahasa besar

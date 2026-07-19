@@ -1,23 +1,23 @@
 ---
-title: "Phi coefficient"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi coefficient
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /en/terms/phi_coefficient/
-date: "2026-07-18T10:10:59.166640Z"
-lastmod: "2026-07-18T11:44:44.709594Z"
+slug: phi_coefficient
+date: '2026-07-18T10:10:59.166640Z'
+lastmod: '2026-07-18T11:44:44.709594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A statistical measure of association between two binary variables."
+source: agnes_llm
+status: published
+language: en
+description: A statistical measure of association between two binary variables.
 ---
-
 ## Definition
 
 The Phi coefficient (φ) is a measure of association for two binary variables, serving as the Pearson correlation coefficient for dichotomous variables. It ranges from -1 to +1, where 0 indicates no association, +1 indicates perfect positive association, and -1 indicates perfect negative association. It is widely used in contingency table analysis to determine the strength of the relationship between two categorical features, particularly in classification tasks involving binary outcomes.

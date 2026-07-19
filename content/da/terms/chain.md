@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /da/terms/chain/
 date: "2026-07-18T15:45:14.170331Z"
 lastmod: "2026-07-18T17:15:09.267374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En kæde er en sekvens af forbundne trin eller moduler, der behandler data sekventielt for at udføre en kompleks opgave."
 ---
-
 ## Definition
 
 In AI application development, a Chain refers to a linear or directed graph structure where multiple components, such as LLM calls, parsers, or external tools, are linked together. Data flows from one

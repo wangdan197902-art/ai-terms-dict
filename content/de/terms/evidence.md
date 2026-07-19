@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /de/terms/evidence/
 date: "2026-07-18T10:49:49.246735Z"
 lastmod: "2026-07-18T11:44:44.873179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Daten oder Informationen, die verwendet werden, um eine Hypothese zu stützen oder die Leistung eines KI-Modells zu validieren."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz bezeichnet Evidenz empirische Daten, statistische Ergebnisse oder beobachtbare Ergebnisse, die Behauptungen über das Modellverhalten, die Genauigkeit oder die Wirksamkeit untermauern. Sie dient als Grundlage für die Überprüfbarkeit von Modellergebnissen.

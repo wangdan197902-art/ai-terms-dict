@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /fr/terms/data_exploration/
 date: "2026-07-18T11:11:21.357980Z"
 lastmod: "2026-07-18T11:44:45.213664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'analyse initiale des ensembles de données pour découvrir des motifs, repérer les anomalies et tester des hypothèses avant la modélisation formelle."
 ---
-
 ## Definition
 
 L'exploration des données, souvent appelée Analyse Exploratoire des Données (EDA), est une étape préliminaire critique dans les flux de travail d'apprentissage automatique. Elle consiste à résumer les caractéristiques principales des données, en utilisant fréquemment des visualisations statistiques et graphiques.

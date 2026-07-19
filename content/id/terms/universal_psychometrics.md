@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /id/terms/universal_psychometrics/
 date: "2026-07-18T16:12:33.764149Z"
 lastmod: "2026-07-18T16:38:07.517462Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penerapan teknik pengukuran standar untuk menilai sifat psikologis di berbagai populasi."
 ---
-
 ## Definition
 
 Psikometrika universal melibatkan pengembangan dan penerapan alat penilaian yang dapat mengukur konstruk psikologis secara andal, seperti kepribadian, kemampuan kognitif, atau kecerdasan emosional, di berbagai...

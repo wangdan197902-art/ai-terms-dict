@@ -1,23 +1,23 @@
 ---
-title: "音频到音频"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: 音频到音频
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /zh/terms/audio_to_audio/
-date: "2026-07-18T11:07:14.726911Z"
-lastmod: "2026-07-18T11:44:45.446970Z"
+slug: audio_to_audio
+date: '2026-07-18T11:07:14.726911Z'
+lastmod: '2026-07-18T11:44:45.446970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种生成式AI任务，将输入音频转换为输出音频，同时保留或改变特定特征。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种生成式AI任务，将输入音频转换为输出音频，同时保留或改变特定特征。
 ---
-
 ## Definition
 
 音频到音频（Audio-to-Audio）指旨在将一个音频信号映射到另一个音频信号的神经网络架构。与文本转语音不同，这涉及直接的波形或频谱图转换。应用场景包括声音风格迁移、语音转换、去噪以及在不改变说话人身份的情况下翻译语音内容。

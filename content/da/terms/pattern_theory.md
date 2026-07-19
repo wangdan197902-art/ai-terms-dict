@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /da/terms/pattern_theory/
 date: "2026-07-18T16:11:20.899279Z"
 lastmod: "2026-07-18T17:15:09.320016Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et matematisk rammeværk til beskrivelse af komplekse strukturer ved at analysere mønstre i dataspace."
 ---
-
 ## Definition
 
 Mønster teori giver et strengt matematisk fundament for at forstå, hvordan komplekse objekter og fænomener kan beskrives gennem mønstre. Det postulerer, at ethvert objekt kan karakteriseres ved dets 

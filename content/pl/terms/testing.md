@@ -1,23 +1,24 @@
 ---
-title: "Testowanie"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testowanie
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /pl/terms/testing/
-date: "2026-07-18T15:37:11.704022Z"
-lastmod: "2026-07-18T17:15:08.837648Z"
+slug: testing
+date: '2026-07-18T15:37:11.704022Z'
+lastmod: '2026-07-18T17:15:08.837648Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Systematyczny proces oceniania wydajności i niezawodności modelu AI na niewidzianych wcześniej danych w celu zapewnienia jakości i bezpieczeństwa."
+source: agnes_llm
+status: published
+language: pl
+description: Systematyczny proces oceniania wydajności i niezawodności modelu AI na
+  niewidzianych wcześniej danych w celu zapewnienia jakości i bezpieczeństwa.
 ---
-
 ## Definition
 
 Testowanie w inżynierii AI obejmuje rygorystyczną ocenę modeli na różnorodnych zbiorach danych w celu wykrycia uprzedzeń, błędów oraz problemów z odpornością. Obejmuje testy jednostkowe komponentów kodu, testy integracyjne oraz testy systemowe.

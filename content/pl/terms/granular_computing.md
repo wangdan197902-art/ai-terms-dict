@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /pl/terms/granular_computing/
 date: "2026-07-18T15:57:40.881231Z"
 lastmod: "2026-07-18T17:15:08.879398Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Obliczenia ziarniste to paradygmat zajmujący się informacją na różnych poziomach abstrakcji, organizujący dane w sensowne struktury zwane ziarnami informacji."
 ---
-
 ## Definition
 
 To podejście naśladuje ludzkie procesy poznawcze, grupując dane w wyższego poziomu encje lub 'ziarna', zamiast przetwarzać poszczególne elementy. Obejmuje ono techniki takie jak przybliżone zbiory, logika rozmyta i algebra przybliżona.

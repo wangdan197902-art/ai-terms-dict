@@ -1,23 +1,24 @@
 ---
-title: "الاختبار"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: الاختبار
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /ar/terms/testing/
-date: "2026-07-18T15:38:49.559247Z"
-lastmod: "2026-07-18T17:15:08.467200Z"
+slug: testing
+date: '2026-07-18T15:38:49.559247Z'
+lastmod: '2026-07-18T17:15:08.467200Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "العملية المنهجية لتقييم أداء وموثوقية نموذج الذكاء الاصطناعي على بيانات غير مرئية لضمان الجودة والسلامة."
+source: agnes_llm
+status: published
+language: ar
+description: العملية المنهجية لتقييم أداء وموثوقية نموذج الذكاء الاصطناعي على بيانات
+  غير مرئية لضمان الجودة والسلامة.
 ---
-
 ## Definition
 
 يتضمن الاختبار في هندسة الذكاء الاصطناعي تقييم النماذج بدقة ضد مجموعات بيانات متنوعة لتحديد التحيزات والأخطاء وقضايا المتانة. يشمل ذلك اختبارات الوحدة لمكونات الكود، واختبارات التكامل، وغيرها.

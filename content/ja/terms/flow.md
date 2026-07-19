@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /ja/terms/flow/
 date: "2026-07-18T10:51:02.478285Z"
 lastmod: "2026-07-18T11:44:45.009100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データフローとは、AI処理パイプラインの様々な段階を通じて情報が移動・変換される様子を記述するものです。"
 ---
-
 ## Definition
 
 データフローは、AIシステム内でのデータ取り込みから最終出力に至るまでのパスを含み、前処理、特徴抽出、モデル推論、後処理が含まれます。効率的なデータフロー管理はシステム統合にとって重要です。

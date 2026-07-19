@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /zh/terms/self_management/
 date: "2026-07-18T11:32:54.019440Z"
 lastmod: "2026-07-18T11:44:45.552549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI中的自我管理是指自主系统在没有人类干预的情况下监控、优化和修复自身操作的能力。"
 ---
-
 ## Definition
 
 这一概念涵盖了AI代理或系统独立处理常规维护、资源分配和错误纠正的能力。它包括自动扩展、自愈

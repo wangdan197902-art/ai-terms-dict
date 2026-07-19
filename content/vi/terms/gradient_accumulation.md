@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /vi/terms/gradient_accumulation/
 date: "2026-07-18T15:55:35.443016Z"
 lastmod: "2026-07-18T16:38:07.762792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tích lũy gradient là một kỹ thuật mô phỏng kích thước batch lớn hơn bằng cách cộng dồn các gradient qua nhiều lần truyền xuôi/ngược trước khi cập nhật trọng số."
 ---
-
 ## Definition
 
 Chiến lược tối ưu hóa này cho phép các mô hình học sâu được huấn luyện với kích thước batch hiệu quả lớn hơn so với dung lượng bộ nhớ GPU hiện có. Bằng cách tích lũy gradient từ nhiều mini-batch và thực hiện cập nhật trọng số sau mỗi vài bước, phương pháp này giúp tiết kiệm bộ nhớ.

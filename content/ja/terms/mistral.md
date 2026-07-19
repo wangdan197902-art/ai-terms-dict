@@ -1,23 +1,23 @@
 ---
-title: "Mistral"
-term_id: "mistral"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "open-source", "LLM"]
+title: Mistral
+term_id: mistral
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Open Source
+- LLM
 difficulty: 3
 weight: 1
-slug: "mistral"
-aliases:
-  - /ja/terms/mistral/
-date: "2026-07-18T11:24:02.776644Z"
-lastmod: "2026-07-18T11:44:45.122405Z"
+slug: mistral
+date: '2026-07-18T11:24:02.776644Z'
+lastmod: '2026-07-18T11:44:45.122405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Mistral AIによって開発された、高性能かつ低コストで動作するオープンウェイト大規模言語モデルシリーズ。"
+source: agnes_llm
+status: published
+language: ja
+description: Mistral AIによって開発された、高性能かつ低コストで動作するオープンウェイト大規模言語モデルシリーズ。
 ---
-
 ## Definition
 
 Mistralは、フランスのスタートアップ企業Mistral AIによって作成された強力なオープンウェイトLLMのファミリーを指します。Mistral 7BやMistral Largeなどのモデルは、Sliding Window Attentionなどの先進的な技術を活用し、高いパフォーマンスを実現しています。

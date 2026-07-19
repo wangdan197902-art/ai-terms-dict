@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /cs/terms/stability/
 date: "2026-07-18T16:18:55.852644Z"
 lastmod: "2026-07-18T17:15:09.203422Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vlastnost modelu strojového učení produkovat konzistentní predikce při tréninku na mírně odlišných datech."
 ---
-
 ## Definition
 
 V strojovém učení stabilita označuje robustnost výkonu a parametrů modelu při podrobení malým perturbacím v trénovacích datech. Stabilní algoritmus vygeneruje podobné modely i při drobných změnách vstupních dat, což je klíčové pro spolehlivost predikcí a generalizaci do nových situací. Nestabilita často indikuje vysokou variabilitu nebo přeučení.

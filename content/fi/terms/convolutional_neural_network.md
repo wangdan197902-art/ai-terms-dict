@@ -1,23 +1,24 @@
 ---
-title: "Konvoluutioverkot"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Konvoluutioverkot
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /fi/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:37.933507Z"
-lastmod: "2026-07-18T17:15:09.344502Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:37.933507Z'
+lastmod: '2026-07-18T17:15:09.344502Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Erikoistunut syvien neuroverkkojen luokka, jota käytetään pääasiassa ruudukkomaisen datan, kuten kuvien, käsittelyyn soveltamalla konvoluutiofilttereitä."
+source: agnes_llm
+status: published
+language: fi
+description: Erikoistunut syvien neuroverkkojen luokka, jota käytetään pääasiassa
+  ruudukkomaisen datan, kuten kuvien, käsittelyyn soveltamalla konvoluutiofilttereitä.
 ---
-
 ## Definition
 
 Konvoluutioverkot (CNN) on suunniteltu oppimaan automaattisesti ja sopeutuvasti visuaalisista syötteistä tilallisia ominaisuuksien hierarkioita. Ne käyttävät konvoluutiokerroksia, jotka soveltavat filtrejä havaitakseen kuvan alkeellisista piirteistä monimutkaisempia rakenteita.

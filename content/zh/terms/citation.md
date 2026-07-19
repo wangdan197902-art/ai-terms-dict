@@ -1,23 +1,23 @@
 ---
-title: "引用"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: 引用
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /zh/terms/citation/
-date: "2026-07-18T11:10:07.300918Z"
-lastmod: "2026-07-18T11:44:45.456478Z"
+slug: citation
+date: '2026-07-18T11:10:07.300918Z'
+lastmod: '2026-07-18T11:44:45.456478Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "AI 中的引用是指在生成的文本或模型中使用源材料或数据时进行归属，以确保透明度和知识产权合规性。"
+source: agnes_llm
+status: published
+language: zh
+description: AI 中的引用是指在生成的文本或模型中使用源材料或数据时进行归属，以确保透明度和知识产权合规性。
 ---
-
 ## Definition
 
 随着生成式 AI 模型产生内容，出现了引用机制的需求，以维护学术诚信和法律合规性。这涉及在生成的内容中嵌入对原始来源的参考，从而追溯数据的出处。

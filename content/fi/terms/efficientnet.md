@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /fi/terms/efficientnet/
-date: "2026-07-18T15:56:15.415467Z"
-lastmod: "2026-07-18T17:15:09.407444Z"
+slug: efficientnet
+date: '2026-07-18T15:56:15.415467Z'
+lastmod: '2026-07-18T17:15:09.407444Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "EfficientNet on konvoluutioverkkosarkkitehtuureiden perhe, joka skaalaa syvyyttä, leveyttä ja resoluutiota tasaisesti saavuttaakseen korkeamman tarkkuuden vähäisemmällä parametrimäärällä."
+source: agnes_llm
+status: published
+language: fi
+description: EfficientNet on konvoluutioverkkosarkkitehtuureiden perhe, joka skaalaa
+  syvyyttä, leveyttä ja resoluutiota tasaisesti saavuttaakseen korkeamman tarkkuuden
+  vähäisemmällä parametrimäärällä.
 ---
-
 ## Definition
 
 Googlen kehittämä EfficientNet käyttää yhdistelmäskaalausta (compound scaling) verkkosyvyyden, leveyden ja syöttökuvan resoluution tasapainottamiseen. Tämä lähestymistapa mahdollistaa mallin saavuttavan huipputason tarkkuuden samalla kun laskentatehokkuus pysyy korkeana.

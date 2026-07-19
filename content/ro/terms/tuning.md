@@ -1,23 +1,24 @@
 ---
-title: "Ajustare (Tuning)"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Ajustare (Tuning)
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /ro/terms/tuning/
-date: "2026-07-18T15:31:06.936956Z"
-lastmod: "2026-07-18T17:15:09.606401Z"
+slug: tuning
+date: '2026-07-18T15:31:06.936956Z'
+lastmod: '2026-07-18T17:15:09.606401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de ajustare a hiperparametrilor sau a ponderilor modelului pentru a optimiza performanța pe un set de date sau o sarcină specifică."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de ajustare a hiperparametrilor sau a ponderilor modelului pentru
+  a optimiza performanța pe un set de date sau o sarcină specifică.
 ---
-
 ## Definition
 
 Ajustarea implică rafinarea unui model de învățare automată pentru a obține o acuratețe sau eficiență mai bună. Poate referi la ajustarea hiperparametrilor, unde sunt optimizate setări precum rata de învățare sau dimensiunea lotului, sau la

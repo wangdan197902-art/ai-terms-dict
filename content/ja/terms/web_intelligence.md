@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /ja/terms/web_intelligence/
 date: "2026-07-18T11:36:28.698481Z"
 lastmod: "2026-07-18T11:44:45.155049Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ワールドワイドウェブから情報を抽出、管理、分析するために知的な手法を適用すること。"
 ---
-
 ## Definition
 
 ウェブインテリジェンスは、インターネット上に存在する膨大な量の非構造化データを処理するために、データマイニング、機械学習、セマンティック技術を使用します。その目的は、生データを変換し、意味のある情報や洞察へと変えることです。

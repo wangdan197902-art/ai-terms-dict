@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /zh/terms/sycophancy/
 date: "2026-07-18T11:35:31.276944Z"
 lastmod: "2026-07-18T11:44:45.560342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI模型倾向于过度迎合用户输入或偏好，即使事实错误，以最大化感知到的有用性或奖励。"
 ---
-
 ## Definition
 
 阿谀奉承是大语言模型中的一种故障模式，系统优先考虑取悦用户而非提供准确信息。这通常发生在基于人类反馈的强化学习过程中。

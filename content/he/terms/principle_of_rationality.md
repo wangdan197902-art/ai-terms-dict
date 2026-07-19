@@ -1,23 +1,24 @@
 ---
-title: "עקרון הרציונליות"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: עקרון הרציונליות
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /he/terms/principle_of_rationality/
-date: "2026-07-18T16:18:43.604422Z"
-lastmod: "2026-07-18T17:15:09.574996Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:18:43.604422Z'
+lastmod: '2026-07-18T17:15:09.574996Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ההנחה היסודית לפיה סוכנים חכמים פועלים כדי למקסם את התועלת הצפויה שלהם בהתבסס על המידע הזמין."
+source: agnes_llm
+status: published
+language: he
+description: ההנחה היסודית לפיה סוכנים חכמים פועלים כדי למקסם את התועלת הצפויה שלהם
+  בהתבסס על המידע הזמין.
 ---
-
 ## Definition
 
 עקרון זה טוען כי פעולותיו של סוכן צריכות להיבחר כדי למקסם את מדד הביצועים הצפוי שלו, לאור קלטות הקלט החושיים והידע הקודם שלו. הוא משמש כבסיס לתיאוריית ההחלטות.

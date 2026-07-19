@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /de/terms/lyra/
-date: "2026-07-18T11:22:32.670898Z"
-lastmod: "2026-07-18T11:44:44.961142Z"
+slug: lyra
+date: '2026-07-18T11:22:32.670898Z'
+lastmod: '2026-07-18T11:44:44.961142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Lyra bezeichnet verschiedene KI-Initiativen oder Modelle, am bekanntesten ein Open-Source-Large-Language-Modell oder ein spezifisches, KI-gestütztes Such- und Entdeckungstool zur Verbesserung der Info"
+source: agnes_llm
+status: published
+language: de
+description: Lyra bezeichnet verschiedene KI-Initiativen oder Modelle, am bekanntesten
+  ein Open-Source-Large-Language-Modell oder ein spezifisches, KI-gestütztes Such-
+  und Entdeckungstool zur Verbesserung der Info
 ---
-
 ## Definition
 
 Im Kontext moderner KI-Terminologie bezeichnet Lyra oft spezialisierte KI-Systeme, die darauf abzielen, die Benutzerinteraktion durch natürliche Sprachverarbeitung zu verbessern. Es kann sich um ein Open-Source-LLM handeln, das...

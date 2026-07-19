@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /sv/terms/multi/
 date: "2026-07-18T15:29:10.733255Z"
 lastmod: "2026-07-18T17:15:08.946996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett prefix som indikerar förekomsten av flera instanser, huvuden eller modaliteter inom ett system eller modell."
 ---
-
 ## Definition
 
 Prefixet 'multi-' används ofta inom AI för att beteckna arkitekturer eller processer som involverar flera parallella komponenter. Exempel inkluderar Multi-Head Attention, vilket gör att modeller kan fokusera på olika delar av indata samtidigt.

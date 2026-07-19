@@ -1,23 +1,24 @@
 ---
-title: "Únik dat"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Únik dat
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /cs/terms/leakage/
-date: "2026-07-18T16:05:36.015853Z"
-lastmod: "2026-07-18T17:15:09.146971Z"
+slug: leakage
+date: '2026-07-18T16:05:36.015853Z'
+lastmod: '2026-07-18T17:15:09.146971Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "K úniku dat dochází, když informace mimo trénovací sadu neúmyslně ovlivní model, což vede k příliš optimistickým odhadům výkonu."
+source: agnes_llm
+status: published
+language: cs
+description: K úniku dat dochází, když informace mimo trénovací sadu neúmyslně ovlivní
+  model, což vede k příliš optimistickým odhadům výkonu.
 ---
-
 ## Definition
 
 Únik dat je kritickou chybou ve strojovém učení, kdy model získá přístup k informacím během tréninku, které by nebyly k dispozici v době predikce. K tomu často dochází kvůli nesprávnému zpracování dat.

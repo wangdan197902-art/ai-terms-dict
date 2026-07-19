@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /vi/terms/mobilenet/
 date: "2026-07-18T16:03:47.110320Z"
 lastmod: "2026-07-18T16:38:07.783376Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "MobileNet là một họ các mạng nơ-ron sâu nhẹ, được thiết kế dành cho các ứng dụng thị giác trên thiết bị di động và nhúng."
 ---
-
 ## Definition
 
 MobileNet sử dụng các phép tích chập tách biệt theo chiều sâu (depthwise separable convolutions) để giảm đáng kể chi phí tính toán và kích thước mô hình so với các phép tích chập tiêu chuẩn. Kiến trúc này cho phép trích xuất đặc trưng hiệu quả trên

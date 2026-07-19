@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /ko/terms/probabilistic_numerics/
 date: "2026-07-18T16:10:45.710764Z"
 lastmod: "2026-07-18T16:38:06.898777Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "수치 계산 문제를 통계적 추론 작업으로 취급하여 결과의 불확실성을 정량화하는 분야."
 ---
-
 ## Definition
 
 확률적 수치 해석은 적분, 미분, 선형 대수학과 같은 전통적인 수치 문제에 베이지안 방법을 적용합니다. 점 추정치를 제공하는 대신, 확률 분포(p)를 출력하여...

@@ -1,23 +1,25 @@
 ---
-title: "Aktív tanulás"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Aktív tanulás
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /hu/terms/active_learning/
-date: "2026-07-18T15:42:16.628251Z"
-lastmod: "2026-07-18T17:15:09.751216Z"
+slug: active_learning
+date: '2026-07-18T15:42:16.628251Z'
+lastmod: '2026-07-18T17:15:09.751216Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy gépi tanulási stratégia, ahol az algoritmus szelektíven kérdez egy felhasználót vagy orákulumot új adatpontok címkézésére, optimalizálva a tanítási folyamatot."
+source: agnes_llm
+status: published
+language: hu
+description: Egy gépi tanulási stratégia, ahol az algoritmus szelektíven kérdez egy
+  felhasználót vagy orákulumot új adatpontok címkézésére, optimalizálva a tanítási
+  folyamatot.
 ---
-
 ## Definition
 
 Az aktív tanulás csökkenti a szükséges címkézett adatok mennyiségét azzal, hogy lehetővé teszi a modell számára a leginkább információt hordozó példák kiválasztását emberi címkézéshez. Ahelyett, hogy passzívan fogadna véletlenszerű mintákat, az algoritmus proaktívan dönti el, mely adatokra van szükség a pontosság növeléséhez.

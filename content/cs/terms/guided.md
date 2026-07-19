@@ -1,23 +1,24 @@
 ---
-title: "Vedený"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Vedený
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /cs/terms/guided/
-date: "2026-07-18T15:25:44.336876Z"
-lastmod: "2026-07-18T17:15:09.070456Z"
+slug: guided
+date: '2026-07-18T15:25:44.336876Z'
+lastmod: '2026-07-18T17:15:09.070456Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Popisuje procesy nebo metody generování v AI, které jsou omezeny nebo směrovány konkrétními externími signály, omezeními nebo mezitímními cíli."
+source: agnes_llm
+status: published
+language: cs
+description: Popisuje procesy nebo metody generování v AI, které jsou omezeny nebo
+  směrovány konkrétními externími signály, omezeními nebo mezitímními cíli.
 ---
-
 ## Definition
 
 Termín „vedený“ v AI obvykle odkazuje na techniky, kde chování modelu je řízeno dodatečnými informacemi nad rámec primárního vstupu. Běžnými příklady jsou vedená difúze, kde je generování řízeno třídou...

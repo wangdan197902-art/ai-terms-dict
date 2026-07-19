@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /tr/terms/neural_network/
 date: "2026-07-18T15:27:26.488631Z"
 lastmod: "2026-07-18T16:38:07.238791Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Biçimsel beyinlerden esinlenen, katmanlar halinde düzenlenmiş birbirine bağlı düğümlerden veya nöronlardan oluşan bir hesaplama sistemi."
 ---
-
 ## Definition
 
 Bir sinir ağı, insan beyninin çalışma şeklini taklit eden bir süreç aracılığıyla veri kümesindeki ilişkileri tanımlamaya çalışan bir dizi algoritmadır. Katmanlardan oluşur.

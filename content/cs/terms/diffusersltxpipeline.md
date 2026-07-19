@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /cs/terms/diffusersltxpipeline/
-date: "2026-07-18T15:53:44.817273Z"
-lastmod: "2026-07-18T17:15:09.122718Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:53:44.817273Z'
+lastmod: '2026-07-18T17:15:09.122718Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Implementace pipeline v Diffusers optimalizovaná pro modely LTX (Lightning Text-to-Video nebo podobné rychlé generativní modely), se zaměřením na rychlou inferenci."
+source: agnes_llm
+status: published
+language: cs
+description: Implementace pipeline v Diffusers optimalizovaná pro modely LTX (Lightning
+  Text-to-Video nebo podobné rychlé generativní modely), se zaměřením na rychlou inferenci.
 ---
-
 ## Definition
 
 LTX pipeline je přizpůsobena modelům, které upřednostňují rychlost a efektivitu v generativních úkolech, často využívajících distilované nebo zrychlené metody vzorkování. Bezproblémově se integruje do Diffusers.

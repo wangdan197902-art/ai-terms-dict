@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /he/terms/mobilenet/
 date: "2026-07-18T16:12:55.323559Z"
 lastmod: "2026-07-18T17:15:09.565069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "MobileNet היא משפחה של רשתות נוירונים עמוקות קלות משקל, המיועדות ליישומי ראייה במכשירים ניידים ובמערכות משובצות."
 ---
-
 ## Definition
 
 רשתות MobileNet משתמשות בהטלות ספרביליות עומק (depthwise separable convolutions) כדי להפחית דרמטית את העלות החישובית ואת גודל המודל בהשוואה להטלות סטנדרטיות. ארכיטקטורה זו מאפשרת חילוץ תכונות יעיל על

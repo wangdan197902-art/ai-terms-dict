@@ -1,23 +1,23 @@
 ---
-title: "Γεννήτρια Ενισχυμένη με Αναζήτηση"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Γεννήτρια Ενισχυμένη με Αναζήτηση
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /el/terms/rag/
-date: "2026-07-18T15:31:33.280890Z"
-lastmod: "2026-07-18T17:15:09.853156Z"
+slug: rag
+date: '2026-07-18T15:31:33.280890Z'
+lastmod: '2026-07-18T17:15:09.853156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το RAG είναι ένα πλαίσιο ΤΝ που ενισχύει τα γεννητικά μοντέλα ανακτώντας σχετικές πληροφορίες από εξωτερικές βάσεις γνώσης πριν από τη δημιουργία απαντήσεων."
+source: agnes_llm
+status: published
+language: el
+description: Το RAG είναι ένα πλαίσιο ΤΝ που ενισχύει τα γεννητικά μοντέλα ανακτώντας
+  σχετικές πληροφορίες από εξωτερικές βάσεις γνώσης πριν από τη δημιουργία απαντήσεων.
 ---
-
 ## Definition
 
 Η Γεννήτρια Ενισχυμένη με Αναζήτηση (RAG) συνδυάζει τα πλεονεκτήματα των συστημάτων ΤΝ βασισμένων στην αναζήτηση και σε αυτά βασισμένα στη γεννήτρια. Αντί να βασίζεται αποκλειστικά στις παραμέτρους ενός προεκπαιδευμένου γλωσσικού μοντέλου, το RAG πρώτα ανακτά

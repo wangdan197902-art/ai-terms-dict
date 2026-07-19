@@ -1,23 +1,24 @@
 ---
-title: "علم الفلك القائم على البيانات"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: علم الفلك القائم على البيانات
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /ar/terms/data_driven_astronomy/
-date: "2026-07-18T15:51:32.193321Z"
-lastmod: "2026-07-18T17:15:08.490373Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:51:32.193321Z'
+lastmod: '2026-07-18T17:15:08.490373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تطبيق تقنيات تحليل البيانات واسعة النطاق والتعلم الآلي لاستخلاص رؤى من الملاحظات الفلكية."
+source: agnes_llm
+status: published
+language: ar
+description: تطبيق تقنيات تحليل البيانات واسعة النطاق والتعلم الآلي لاستخلاص رؤى من
+  الملاحظات الفلكية.
 ---
-
 ## Definition
 
 يستفيد علم الفلك القائم على البيانات من الأساليب الحسابية المتقدمة، بما في ذلك التعلم الآلي والتحليل الإحصائي، للتعامل مع الأحجام الهائلة من البيانات التي تولدها التلسكوبات والمسوحات الفلكية الحديثة، مما يتيح اكتشاف ظواهر كونية جديدة.

@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /nl/terms/numerical/
 date: "2026-07-18T15:28:27.428214Z"
 lastmod: "2026-07-18T17:15:08.689768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Betrekking hebbend op, betrokken bij of gebruikmakend van getallen of wiskundige berekeningen in plaats van symbolische logica of tekst."
 ---
-
 ## Definition
 
 In de context van AI en data science verwijst numeriek naar gegevenstypen of methoden die kwantitatieve waarden omvatten, zoals gehele getallen, drijvende-kommagetallen en decimalen. In tegenstelling tot categorische of tekstuele data.

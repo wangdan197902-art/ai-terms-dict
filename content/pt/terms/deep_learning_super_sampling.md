@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /pt/terms/deep_learning_super_sampling/
 date: "2026-07-18T14:56:50.111959Z"
 lastmod: "2026-07-18T15:51:59.482138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma técnica que usa IA para ampliar imagens de menor resolução para resoluções mais altas, com detalhes aprimorados e redução de artefatos."
 ---
-
 ## Definition
 
 A Super Amostragem por Aprendizado Profundo (DLSS) é uma tecnologia que utiliza redes neurais para reconstruir imagens de alta resolução a partir de entradas de menor resolução. Ao analisar dados temporais e informações espaciais...

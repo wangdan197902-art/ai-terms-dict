@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /nl/terms/ai_infrastructure/
 date: "2026-07-18T15:40:18.512263Z"
 lastmod: "2026-07-18T17:15:08.712583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De hardware-, software- en netwerkbronnen die nodig zijn om kunstmatige intelligentiemodellen op grote schaal te ontwikkelen, te trainen en in te zetten."
 ---
-
 ## Definition
 
 AI-infrastructuur omvat de technologische basislaag die noodzakelijk is voor operaties op het gebied van kunstmatige intelligentie. Dit omvat hoogwaardige rekenhardware zoals GPU's en TPU's, cloudopslagoplossingen en netwerkinfrastructuur die datastromen ondersteunen.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /pl/terms/outline_of_machine_learning/
 date: "2026-07-18T16:10:03.587489Z"
 lastmod: "2026-07-18T17:15:08.903946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Kompleksowa klasyfikacja paradygmatów, algorytmów i metryk ewaluacji w uczeniu maszynowym."
 ---
-
 ## Definition
 
 Termin ten opisuje strukturalną klasyfikację uczenia maszynowego na nadzorowane, nienadzorowane, półnadzorowane i wzmacniane. Obejmuje główne rodziny algorytmów, takie jak regresja liniowa...

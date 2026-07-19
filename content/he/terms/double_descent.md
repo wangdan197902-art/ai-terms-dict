@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /he/terms/double_descent/
 date: "2026-07-18T15:54:59.427189Z"
 lastmod: "2026-07-18T17:15:09.535144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תופעה שבה שגיאת הבדיקה יורדת, עולה ואז יורדת שוב כמורכבות המודל עוברת את סף האינטרפולציה."
 ---
-
 ## Definition
 
 ירידה כפולה מאתגרת את הסחר הבלתי נמנע הקלאסי בין הטיה לשונות על ידי הראתה שמודלים מעוטרי פרמטרים בצורה יתר יכולים להשיג שגיאת בדיקה נמוכה למרות שהם ממפים את נתוני האימון במדויק.

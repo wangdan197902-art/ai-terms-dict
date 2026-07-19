@@ -1,23 +1,24 @@
 ---
-title: "Операция «Серената де Амор»"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Операция «Серената де Амор»
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /ru/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:08:56.807634Z"
-lastmod: "2026-07-18T16:38:07.188395Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:08:56.807634Z'
+lastmod: '2026-07-18T16:38:07.188395Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Гражданский технологический проект, использующий машинное обучение для выявления мошенничества в государственных расходах Бразилии."
+source: agnes_llm
+status: published
+language: ru
+description: Гражданский технологический проект, использующий машинное обучение для
+  выявления мошенничества в государственных расходах Бразилии.
 ---
-
 ## Definition
 
 Операция «Серената де Амор» — это новаторский проект с открытым исходным кодом, применяющий искусственный интеллект для анализа данных государственных закупок в Бразилии. Используя обработку естественного языка и обнаружение аномалий, он помогает выявлять нецелевое использование средств.

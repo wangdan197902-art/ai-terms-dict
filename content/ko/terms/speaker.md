@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /ko/terms/speaker/
 date: "2026-07-18T16:16:08.889289Z"
 lastmod: "2026-07-18T16:38:06.910092Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "오디오 신호 내에서 음성 소리를 내는 개인을 의미합니다."
 ---
-
 ## Definition
 
 음성 처리 분야에서 화자는 오디오 녹음물 내의 구별되는 인간 음성 원천으로 정의됩니다. 화자를 식별하고 구분하는 것은 대화 분석의 기초가 되며, 보안 강화 및 맞춤형 서비스 제공에 핵심적입니다.

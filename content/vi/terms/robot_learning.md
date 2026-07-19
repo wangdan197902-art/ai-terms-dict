@@ -1,23 +1,24 @@
 ---
-title: "Học robot"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Học robot
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /vi/terms/robot_learning/
-date: "2026-07-18T16:10:43.773875Z"
-lastmod: "2026-07-18T16:38:07.801698Z"
+slug: robot_learning
+date: '2026-07-18T16:10:43.773875Z'
+lastmod: '2026-07-18T16:38:07.801698Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nhánh của robotics tập trung vào việc giúp robot thu thập kỹ năng và cải thiện hiệu suất thông qua trải nghiệm và tương tác với môi trường."
+source: agnes_llm
+status: published
+language: vi
+description: Một nhánh của robotics tập trung vào việc giúp robot thu thập kỹ năng
+  và cải thiện hiệu suất thông qua trải nghiệm và tương tác với môi trường.
 ---
-
 ## Definition
 
 Học robot liên quan đến việc huấn luyện các tác nhân robot thực hiện nhiệm vụ một cách tự chủ bằng cách tận dụng các kỹ thuật học máy. Khác với các hành vi được lập trình sẵn, những hệ thống này thích ứng với môi trường động

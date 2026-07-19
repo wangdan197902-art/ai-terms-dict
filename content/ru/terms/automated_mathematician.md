@@ -1,23 +1,24 @@
 ---
-title: "Автоматизированный математик"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Автоматизированный математик
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /ru/terms/automated_mathematician/
-date: "2026-07-18T15:41:59.681100Z"
-lastmod: "2026-07-18T16:38:07.124093Z"
+slug: automated_mathematician
+date: '2026-07-18T15:41:59.681100Z'
+lastmod: '2026-07-18T16:38:07.124093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Система ИИ, предназначенная для открытия новых математических теорем, гипотез или доказательств посредством вычислительного поиска и рассуждений."
+source: agnes_llm
+status: published
+language: ru
+description: Система ИИ, предназначенная для открытия новых математических теорем,
+  гипотез или доказательств посредством вычислительного поиска и рассуждений.
 ---
-
 ## Definition
 
 Автоматизированный математик использует машинное обучение и символические рассуждения для исследования математических пространств, выходящих за пределы человеческой интуиции. Эти системы могут генерировать гипотезы, проверять доказательства и находить закономерности.

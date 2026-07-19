@@ -1,23 +1,24 @@
 ---
-title: "Mở"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Mở
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /vi/terms/open/
-date: "2026-07-18T15:27:48.969471Z"
-lastmod: "2026-07-18T16:38:07.691410Z"
+slug: open
+date: '2026-07-18T15:27:48.969471Z'
+lastmod: '2026-07-18T16:38:07.691410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trong AI, 'mở' thường đề cập đến các mô hình nguồn mở hoặc các tác vụ mở rộng, những tác vụ thiếu các ràng buộc xác định trước hoặc không gian giải pháp hoàn chỉnh."
+source: agnes_llm
+status: published
+language: vi
+description: Trong AI, 'mở' thường đề cập đến các mô hình nguồn mở hoặc các tác vụ
+  mở rộng, những tác vụ thiếu các ràng buộc xác định trước hoặc không gian giải pháp
+  hoàn chỉnh.
 ---
-
 ## Definition
 
 Thuật ngữ 'mở' trong bối cảnh trí tuệ nhân tạo thường mô tả hai lĩnh vực riêng biệt: phần mềm nguồn mở, nơi trọng số mô hình và mã nguồn được công khai để sửa đổi, và các vấn đề mở rộng (open-ended problems) đòi hỏi khả năng thích ứng linh hoạt thay vì tuân theo một kịch bản cố định.

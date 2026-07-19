@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /ko/terms/ai_literacy/
 date: "2026-07-18T15:39:27.677213Z"
 lastmod: "2026-07-18T16:38:06.803928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능 기술을 이해하고 평가하며, 그 사회적 함의를 효과적으로 상호작용할 수 있는 능력."
 ---
-
 ## Definition
 
 AI 리터러시는 인공지능의 영향이 커지는 세상에서 생존하고 적응하기 위해 필요한 역량을 의미합니다. 이는 단순한 코딩 기술을 넘어, AI 시스템이 어떻게 작동하는지 이해하고 윤리적·사회적 영향을 고려하는 포괄적인 능력을 포함합니다.

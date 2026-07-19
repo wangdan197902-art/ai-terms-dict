@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /pt/terms/ai_literacy/
 date: "2026-07-18T14:48:06.630503Z"
 lastmod: "2026-07-18T15:51:59.458599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A capacidade de compreender, avaliar e interagir eficazmente com tecnologias de inteligência artificial e suas implicações sociais."
 ---
-
 ## Definition
 
 O letramento em IA refere-se às competências necessárias para navegar em um mundo cada vez mais influenciado pela inteligência artificial. Vai além das habilidades técnicas de programação, incluindo o entendimento de como os sistemas de IA funcionam e seus impactos na sociedade.

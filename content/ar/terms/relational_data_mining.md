@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /ar/terms/relational_data_mining/
 date: "2026-07-18T16:19:09.236244Z"
 lastmod: "2026-07-18T17:15:08.543949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية اكتشاف الأنماط والمعرفة من البيانات التي تتكون من جداول أو كيانات متعددة مترابطة."
 ---
-
 ## Definition
 
 يركز التعدين العلائقي للبيانات على استخراج المعلومات المفيدة من قواعد البيانات حيث يتم تنظيم البيانات في جداول متعددة ذات صلة، بدلاً من جدول مسطح واحد. يستفيد من العلاقات بين الكيانات المختلفة.

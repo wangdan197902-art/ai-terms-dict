@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /id/terms/function_calling/
 date: "2026-07-18T15:34:41.556489Z"
 lastmod: "2026-07-18T16:38:07.414070Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mekanisme yang memungkinkan LLM menghasilkan data terstruktur untuk memicu fungsi perangkat lunak tertentu."
 ---
-
 ## Definition
 
 Pemanggilan fungsi memungkinkan model bahasa besar berinteraksi dengan alat eksternal dan API dengan menghasilkan output terstruktur, seperti objek JSON, yang menentukan fungsi mana yang akan dieksekusi dan argumen apa yang diperlukan.

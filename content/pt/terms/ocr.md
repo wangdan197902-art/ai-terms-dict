@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /pt/terms/ocr/
 date: "2026-07-18T15:14:58.364241Z"
 lastmod: "2026-07-18T15:51:59.518825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O OCR é uma tecnologia que converte diferentes tipos de documentos, como documentos digitalizados em papel ou imagens, em dados editáveis e pesquisáveis."
 ---
-
 ## Definition
 
 O Reconhecimento Óptico de Caracteres (OCR) usa algoritmos de processamento de imagem e reconhecimento de padrões para identificar texto dentro de imagens digitais. Ele transforma caracteres impressos ou manuscritos em...

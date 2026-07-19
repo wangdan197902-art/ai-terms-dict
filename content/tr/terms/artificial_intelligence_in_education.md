@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /tr/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:41:44.123555Z"
 lastmod: "2026-07-18T16:38:07.274027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Öğretim yöntemlerini iyileştirmek, öğrenme deneyimlerini kişiselleştirmek ve idari görevleri otomatikleştirmek için yapay zeka teknolojilerinin uygulanması."
 ---
-
 ## Definition
 
 Eğitimde yapay zeka, eğitim sonuçlarını iyileştirmek için makine öğrenimi, doğal dil işleme ve uyarlanabilir sistemlerin kullanımını içerir. Bireysel öğrencilere göre özelleştirilmiş öğrenme yolları sağlar.

@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /tr/terms/out_of_distribution/
 date: "2026-07-18T15:32:17.749196Z"
 lastmod: "2026-07-18T16:38:07.251971Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Modelin eğitim aşamasında görülen dağılımdan önemli ölçüde farklı olan veri noktaları."
 ---
-
 ## Definition
 
 Dağılım dışı (OOD) tespit, eğitim veri dağılımının kapsamı dışında kalan girdileri belirler. Modeller genellikle dağılım dışı verilerde kötü performans gösterir veya güvenle yanlış sonuçlar verir; bu da güvenilir olmayan

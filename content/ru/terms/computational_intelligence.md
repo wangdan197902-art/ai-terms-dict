@@ -1,23 +1,24 @@
 ---
-title: "Вычислительный интеллект"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Вычислительный интеллект
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /ru/terms/computational_intelligence/
-date: "2026-07-18T15:45:43.042558Z"
-lastmod: "2026-07-18T16:38:07.132959Z"
+slug: computational_intelligence
+date: '2026-07-18T15:45:43.042558Z'
+lastmod: '2026-07-18T16:38:07.132959Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Раздел ИИ, занимающийся адаптивными системами, имитирующими биологические процессы для решения сложных задач."
+source: agnes_llm
+status: published
+language: ru
+description: Раздел ИИ, занимающийся адаптивными системами, имитирующими биологические
+  процессы для решения сложных задач.
 ---
-
 ## Definition
 
 Вычислительный интеллект (CI) охватывает набор вычислительных парадигм, вдохновленных природой, включая нейронные сети, нечеткую логику и эволюционные вычисления. Эти системы предназначены для обработки

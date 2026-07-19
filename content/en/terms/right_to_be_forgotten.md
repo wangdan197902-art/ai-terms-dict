@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /en/terms/right_to_be_forgotten/
 date: "2026-07-18T10:20:32.579094Z"
 lastmod: "2026-07-18T11:44:44.735076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A legal concept allowing individuals to request the deletion of their personal data held by organizations."
 ---
-
 ## Definition
 
 The right to be forgotten enables users to demand the removal of their personal information from databases and AI training sets. Implementing this in machine learning is challenging because models may have memorized patterns from deleted data. Techniques like machine unlearning are being developed to remove the influence of specific data points without retraining the entire model from scratch.

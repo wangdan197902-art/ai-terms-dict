@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /nl/terms/speaker/
 date: "2026-07-18T16:18:06.216258Z"
 lastmod: "2026-07-18T17:15:08.789299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een individu dat vocale geluiden of spraak produceert binnen een audiosignaal."
 ---
-
 ## Definition
 
 In de spraakverwerking wordt een spreker gedefinieerd als een unieke bron van menselijke stemmen binnen een audio-opname. Het identificeren en onderscheiden van sprekers is fundamenteel voor het analyseren van gesprekken en het waarborgen van veiligheid.

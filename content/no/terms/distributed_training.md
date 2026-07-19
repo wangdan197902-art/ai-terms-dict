@@ -1,23 +1,24 @@
 ---
-title: "Distribuert trening"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Distribuert trening
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /no/terms/distributed_training/
-date: "2026-07-18T15:36:37.333762Z"
-lastmod: "2026-07-18T16:38:06.957475Z"
+slug: distributed_training
+date: '2026-07-18T15:36:37.333762Z'
+lastmod: '2026-07-18T16:38:06.957475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En metode for å trene maskinlæringsmodeller ved å dele data eller beregninger over flere enheter eller servere."
+source: agnes_llm
+status: published
+language: 'no'
+description: En metode for å trene maskinlæringsmodeller ved å dele data eller beregninger
+  over flere enheter eller servere.
 ---
-
 ## Definition
 
 Distribuert trening akselererer modellkonvergensen ved å parallellisere beregninger over flere GPU-er eller noder. Teknikkene inkluderer dataparallelisme, der hver arbeider behandler en delmengde av dataene, og modellparallelisme, der modellen selv deles over flere enheter for å håndtere store modeller.

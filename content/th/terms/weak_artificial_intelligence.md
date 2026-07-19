@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /th/terms/weak_artificial_intelligence/
 date: "2026-07-18T16:20:18.923550Z"
 lastmod: "2026-07-18T16:38:07.666437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ปัญญาประดิษฐ์ที่ออกแบบมาเพื่อทำงานเฉพาะด้านในบริบทที่จำกัด โดยไม่มีความสามารถทางปัญญาทั่วไป"
 ---
-
 ## Definition
 
 ปัญญาประดิษฐ์แบบอ่อน (Weak Artificial Intelligence) หรือที่รู้จักกันในชื่อ Narrow AI หมายถึงระบบที่ถูกออกแบบมาเพื่อแก้ปัญหาเฉพาะหรือทำงานตามหน้าที่ที่กำหนด เช่น การจดจำใบหน้าหรือการแปลภาษา ซึ่งแตกต่างจากปัญญาประดิษฐ์ทั่วไปที่มีความสามารถหลากหลายและยืดหยุ่นมากกว่า

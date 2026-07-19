@@ -1,23 +1,24 @@
 ---
-title: "Индекс Inception"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Индекс Inception
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /ru/terms/inception_score/
-date: "2026-07-18T15:58:32.751507Z"
-lastmod: "2026-07-18T16:38:07.168352Z"
+slug: inception_score
+date: '2026-07-18T15:58:32.751507Z'
+lastmod: '2026-07-18T16:38:07.168352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метрика, используемая для оценки качества сгенерированных изображений путем измерения их четкости и разнообразия."
+source: agnes_llm
+status: published
+language: ru
+description: Метрика, используемая для оценки качества сгенерированных изображений
+  путем измерения их четкости и разнообразия.
 ---
-
 ## Definition
 
 Индекс Inception (IS) — это статистическая мера, введенная для оценки производительности генеративно-состязательных сетей (GAN) и других генеративных моделей. Он объединяет два фактора: качество изображения (четкость) и его разнообразие.

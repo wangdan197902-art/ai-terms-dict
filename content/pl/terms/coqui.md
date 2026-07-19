@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /pl/terms/coqui/
-date: "2026-07-18T15:47:25.938258Z"
-lastmod: "2026-07-18T17:15:08.857974Z"
+slug: coqui
+date: '2026-07-18T15:47:25.938258Z'
+lastmod: '2026-07-18T17:15:08.857974Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Coqui to otwarta firma zajmująca się technologiami mowy, znana z tworzenia wysokiej jakości, wielojęzycznych modeli zamiany tekstu na mowę (TTS)."
+source: agnes_llm
+status: published
+language: pl
+description: Coqui to otwarta firma zajmująca się technologiami mowy, znana z tworzenia
+  wysokiej jakości, wielojęzycznych modeli zamiany tekstu na mowę (TTS).
 ---
-
 ## Definition
 
 Coqui Technologies była prominentną postacią w społeczności otwartego źródła AI, najbardziej znaną ze swojego silnika TTS (zamiana tekstu na mowę). Projekt ten dostarczał wstępnie wytrenowane modele zdolne do generowania naturalnie brzmiącej mowy.

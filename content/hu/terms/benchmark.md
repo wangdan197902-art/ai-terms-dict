@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /hu/terms/benchmark/
 date: "2026-07-18T15:23:56.030395Z"
 lastmod: "2026-07-18T17:15:09.716067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy szabványos referencia pont vagy mérőszám, amelyet az AI modellek teljesítményének kiépített alapvonalakhoz képest történő értékelésére használnak."
 ---
-
 ## Definition
 
 A mesterséges intelligencia területén egy benchmark egy szabványosított tesztcsomag vagy adathalmaz, amelyet a gépi tanulási modellek képességeinek mérésére terveztek. Konzisztens keretrendszert biztosít a különböző modellek összehasonlításához.

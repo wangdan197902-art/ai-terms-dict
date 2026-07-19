@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /vi/terms/cognitive_computing/
 date: "2026-07-18T15:44:29.512282Z"
 lastmod: "2026-07-18T16:38:07.736994Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tính toán nhận thức đề cập đến các hệ thống mô phỏng quá trình tư duy của con người trong mô hình máy tính, sử dụng AI để bắt chước chức năng não bộ con người."
 ---
-
 ## Definition
 
 Tính toán nhận thức là một nhánh của trí tuệ nhân tạo nhằm tương tác tự nhiên với con người đồng thời mô phỏng các quá trình não bộ. Các hệ thống này sử dụng học máy, học sâu và xử lý ngôn ngữ tự nhiên để xử lý thông tin không chắc chắn, học hỏi từ dữ liệu và đưa ra quyết định giống con người.

@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /ja/terms/intelligent_word_recognition/
 date: "2026-07-18T11:20:14.676990Z"
 lastmod: "2026-07-18T11:44:45.110986Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "画像や手書きソースからテキストを正確に識別・解釈するために、特にディープラーニングを用いたAIアルゴリズムの活用。"
 ---
-
 ## Definition
 
 インテリジェント文字認識とは、ニューラルネットワークによって駆動される高度な光学式文字認識（OCR）技術を指します。単純なパターンマッチングを超え、文脈を理解し、ノイズのあるデータや複雑な書体にも対応します。

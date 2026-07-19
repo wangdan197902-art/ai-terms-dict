@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /ar/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:11:51.200154Z"
 lastmod: "2026-07-18T17:15:08.525240Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "استخدام خوارزميات التعلم الآلي لتحليل البيانات الجغرافية المكانية والبيئية للتنبؤ بالظواهر الطبيعية وإدارة الموارد."
 ---
-
 ## Definition
 
 يعزز التعلم الآلي علوم الأرض من خلال معالجة الصور الفضائية وبيانات الزلازل والسجلات المناخية لنمذجة النظم البيئية المعقدة. تساعد هذه التقنيات في التنبؤ بأنماط الطقس، ومراقبة التغيرات البيئية، واتخاذ قرارات مستنيرة بشأن إدارة الموارد الطبيعية.

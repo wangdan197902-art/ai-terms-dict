@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /ru/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:52:24.251788Z"
 lastmod: "2026-07-18T16:38:07.155576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Объяснимый ИИ (XAI) относится к методам и техникам применения технологий искусственного интеллекта, благодаря которым результаты решений могут быть поняты экспертами-людьми."
 ---
-
 ## Definition
 
 По мере усложнения моделей машинного обучения, особенно глубоких нейронных сетей, их процессы принятия решений часто становятся непрозрачными «черными ящиками». XAI стремится сделать эти решения интерпретируемыми и понятными.

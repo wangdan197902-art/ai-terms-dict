@@ -1,23 +1,24 @@
 ---
-title: "Dopasowanie hiperparametrów"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Dopasowanie hiperparametrów
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /pl/terms/hyperparameter_tuning/
-date: "2026-07-18T15:59:21.136111Z"
-lastmod: "2026-07-18T17:15:08.883852Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T15:59:21.136111Z'
+lastmod: '2026-07-18T17:15:08.883852Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces systematycznego wyszukiwania najlepszego zestawu hiperparametrów w celu optymalizacji wydajności modelu."
+source: agnes_llm
+status: published
+language: pl
+description: Proces systematycznego wyszukiwania najlepszego zestawu hiperparametrów
+  w celu optymalizacji wydajności modelu.
 ---
-
 ## Definition
 
 Dopasowanie hiperparametrów obejmuje ocenę różnych zestawów hiperparametrów w celu znalezienia konfiguracji, która daje najlepszą dokładność modelu lub najniższy współczynnik błędu. Powszechne strategie obejmują przeszukiwanie siatkowe, przeszukiwanie...

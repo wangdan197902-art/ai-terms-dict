@@ -1,23 +1,24 @@
 ---
-title: "ปัญหาที่สมบูรณ์ด้วยเอไอ"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: ปัญหาที่สมบูรณ์ด้วยเอไอ
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /th/terms/ai_complete/
-date: "2026-07-18T15:39:05.041523Z"
-lastmod: "2026-07-18T16:38:07.569781Z"
+slug: ai_complete
+date: '2026-07-18T15:39:05.041523Z'
+lastmod: '2026-07-18T16:38:07.569781Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ปัญหาที่มีความซับซ้อนสูงมาก ซึ่งการแก้ไขปัญหาดังกล่าวต้องใช้สติปัญญาทั่วไปแบบมนุษย์ เทียบเท่ากับการบรรลุปัญญาประดิษฐ์ทั่วไป"
+source: agnes_llm
+status: published
+language: th
+description: ปัญหาที่มีความซับซ้อนสูงมาก ซึ่งการแก้ไขปัญหาดังกล่าวต้องใช้สติปัญญาทั่วไปแบบมนุษย์
+  เทียบเท่ากับการบรรลุปัญญาประดิษฐ์ทั่วไป
 ---
-
 ## Definition
 
 ปัญหาที่สมบูรณ์ด้วยเอไอ คือ งานต่างๆ ที่หากสามารถแก้ได้ จะบ่งชี้ถึงการมีอยู่ของปัญญาประดิษฐ์ทั่วไป (AGI) งานเหล่านี้ต้องการความเข้าใจลึกซึ้ง การให้เหตุผล และความยืดหยุ่นที่คล้ายคลึงกับมนุษย์

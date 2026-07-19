@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /ja/terms/feedback_neural_network/
 date: "2026-07-18T11:14:58.567960Z"
 lastmod: "2026-07-18T11:44:45.097969Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "接続が有向サイクルを形成し、情報が時間とともに保持されるニューラルネットワークのアーキテクチャ。"
 ---
-
 ## Definition
 
 フィードバックニューラルネットワークは、リカレントニューラルネットワーク（RNN）とも呼ばれ、信号を前の層に戻して伝播させるループを含んでいます。この再帰性により、ネットワークは内部状態を維持し、時間の経過に伴う依存関係を学習することができます。

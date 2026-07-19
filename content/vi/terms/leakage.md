@@ -1,23 +1,24 @@
 ---
-title: "Rò rỉ dữ liệu"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Rò rỉ dữ liệu
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /vi/terms/leakage/
-date: "2026-07-18T16:00:06.912785Z"
-lastmod: "2026-07-18T16:38:07.774881Z"
+slug: leakage
+date: '2026-07-18T16:00:06.912785Z'
+lastmod: '2026-07-18T16:38:07.774881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Rò rỉ dữ liệu xảy ra khi thông tin từ bên ngoài tập dữ liệu huấn luyện vô tình ảnh hưởng đến mô hình, dẫn đến các ước tính hiệu suất quá lạc quan."
+source: agnes_llm
+status: published
+language: vi
+description: Rò rỉ dữ liệu xảy ra khi thông tin từ bên ngoài tập dữ liệu huấn luyện
+  vô tình ảnh hưởng đến mô hình, dẫn đến các ước tính hiệu suất quá lạc quan.
 ---
-
 ## Definition
 
 Rò rỉ dữ liệu là một lỗi nghiêm trọng trong học máy, nơi mô hình tiếp cận được thông tin trong quá trình huấn luyện mà thông tin đó sẽ không có sẵn vào thời điểm dự đoán. Điều này thường xảy ra do việc phân chia dữ liệu không đúng cách hoặc xử lý đặc trưng trước khi tách tập huấn luyện và kiểm tra.

@@ -1,23 +1,24 @@
 ---
-title: "データセット: Jackrong/Qwen3.5 Reasoning 700X"
-term_id: "datasetjackrongqwen35_reasoning_700x"
-category: "application_paradigms"
-subcategory: ""
-tags: ["reasoning", "fine-tuning", "qwen", "dataset"]
+title: 'データセット: Jackrong/Qwen3.5 Reasoning 700X'
+term_id: datasetjackrongqwen35_reasoning_700x
+category: application_paradigms
+subcategory: ''
+tags:
+- reasoning
+- Fine-Tuning
+- qwen
+- dataset
 difficulty: 4
 weight: 1
-slug: "datasetjackrongqwen35_reasoning_700x"
-aliases:
-  - /ja/terms/datasetjackrongqwen35_reasoning_700x/
-date: "2026-07-18T11:10:42.931196Z"
-lastmod: "2026-07-18T11:44:45.085993Z"
+slug: datasetjackrongqwen35_reasoning_700x
+date: '2026-07-18T11:10:42.931196Z'
+lastmod: '2026-07-18T11:44:45.085993Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ユーザーJackrongがHugging Face上でホストする専門的なデータセットで、Qwenなどの大規模言語モデルのファインチューニングを行い、複雑な推論能力を向上させるためにキュレーションされています。"
+source: agnes_llm
+status: published
+language: ja
+description: ユーザーJackrongがHugging Face上でホストする専門的なデータセットで、Qwenなどの大規模言語モデルのファインチューニングを行い、複雑な推論能力を向上させるためにキュレーションされています。
 ---
-
 ## Definition
 
 このエントリは、識別子「Jackrong/Qwen3.5 Reasoning 700X」で特定される特定のデータセットリポジトリを指します。これは通常、教師ありファインチューニング（SFT）や強化学習の文脈で使用されます。

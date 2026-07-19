@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /vi/terms/grok/
 date: "2026-07-18T15:55:54.183991Z"
 lastmod: "2026-07-18T16:38:07.763393Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một trợ lý trò chuyện AI do xAI phát triển, tích hợp vào nền tảng X, nổi tiếng với khả năng truy cập dữ liệu mạng xã hội theo thời gian thực và tính cách hài hước."
 ---
-
 ## Definition
 
 Grok là một mô hình ngôn ngữ lớn (LLM) dạng chatbot được tạo ra bởi công ty của Elon Musk, xAI. Nó chủ yếu dành cho người dùng đăng ký nền tảng X (trước đây là Twitter). Grok phân biệt mình bằng việc có quyền truy cập thời gian thực vào dữ liệu từ nền tảng X, cho phép nó trả lời các câu hỏi về sự kiện mới nhất và thể hiện phong cách độc đáo, đôi khi hơi nổi loạn.

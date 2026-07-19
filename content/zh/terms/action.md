@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /zh/terms/action/
 date: "2026-07-18T10:49:06.484353Z"
 lastmod: "2026-07-18T11:44:45.361215Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "智能体为影响其环境而执行的操作。"
 ---
-
 ## Definition
 
 在人工智能和机器人技术中，动作是指智能体为与环境交互而采取的具体步骤或决策。动作是基于当前状态选择的。

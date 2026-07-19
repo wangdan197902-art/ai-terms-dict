@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /ru/terms/information_space_analysis/
 date: "2026-07-18T15:58:56.365531Z"
 lastmod: "2026-07-18T16:38:07.169188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Исследование геометрических и топологических свойств пространства, в котором находятся представления данных."
 ---
-
 ## Definition
 
 Это понятие включает анализ структуры пространства представлений в моделях машинного обучения. Оно изучает, как точки данных распределены, сгруппированы или разделены внутри многомерного пространства.

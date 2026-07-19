@@ -1,23 +1,24 @@
 ---
-title: "Croissant"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: Croissant
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /vi/terms/croissant/
-date: "2026-07-18T15:46:23.217595Z"
-lastmod: "2026-07-18T16:38:07.740918Z"
+slug: croissant
+date: '2026-07-18T15:46:23.217595Z'
+lastmod: '2026-07-18T16:38:07.740918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Croissant là một định dạng siêu dữ liệu mã nguồn mở để mô tả các tập dữ liệu, thúc đẩy khả năng khám phá và khả năng tương tác trong lĩnh vực AI."
+source: agnes_llm
+status: published
+language: vi
+description: Croissant là một định dạng siêu dữ liệu mã nguồn mở để mô tả các tập
+  dữ liệu, thúc đẩy khả năng khám phá và khả năng tương tác trong lĩnh vực AI.
 ---
-
 ## Definition
 
 Được phát triển như một phần của sáng kiến MLCommons, Croissant sử dụng JSON-LD để cung cấp một cách chuẩn hóa để mô tả các tập dữ liệu, bao gồm cấu trúc, trích dẫn và giấy phép. Nó nhằm giải quyết vấn đề thiếu tính nhất quán trong việc mô tả dữ liệu.

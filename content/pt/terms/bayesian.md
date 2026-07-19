@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /pt/terms/bayesian/
 date: "2026-07-18T14:33:24.616888Z"
 lastmod: "2026-07-18T15:51:59.425537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Refere-se a métodos estatísticos baseados no Teorema de Bayes para atualizar probabilidades com novas evidências."
 ---
-
 ## Definition
 
 Abordagens bayesianas na IA usam teoria da probabilidade para atualizar a probabilidade de hipóteses à medida que mais evidências se tornam disponíveis. Esse método permite que os modelos quantifiquem a incerteza e refinem as previsões dinamicamente

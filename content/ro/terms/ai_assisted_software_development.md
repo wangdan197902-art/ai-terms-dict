@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /ro/terms/ai_assisted_software_development/
 date: "2026-07-18T15:42:11.840383Z"
 lastmod: "2026-07-18T17:15:09.623379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea instrumentelor de inteligență artificială pentru a îmbunătăți productivitatea în procesele de programare, depanare, testare și design."
 ---
-
 ## Definition
 
 Dezvoltarea asistată de AI implică exploatarea modelelor de învățare automată pentru a susține dezvoltatorii în scrierea codului, identificarea erorilor, generarea testelor și optimizarea performanței. Instrumente precum GitHub Copilot sunt exemple comune.

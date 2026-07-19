@@ -1,23 +1,24 @@
 ---
-title: "Akış (Flux)"
-term_id: "flux"
-category: "basic_concepts"
-subcategory: ""
-tags: ["concepts", "data_flow", "systems"]
+title: Akış (Flux)
+term_id: flux
+category: basic_concepts
+subcategory: ''
+tags:
+- concepts
+- Data Flow
+- systems
 difficulty: 2
 weight: 1
-slug: "flux"
-aliases:
-  - /tr/terms/flux/
-date: "2026-07-18T15:34:34.239942Z"
-lastmod: "2026-07-18T16:38:07.258208Z"
+slug: flux
+date: '2026-07-18T15:34:34.239942Z'
+lastmod: '2026-07-18T16:38:07.258208Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Akış, bir sistem veya ağ içindeki veri, enerji veya bilginin sürekli akışını veya değişimini ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Akış, bir sistem veya ağ içindeki veri, enerji veya bilginin sürekli
+  akışını veya değişimini ifade eder.
 ---
-
 ## Definition
 
 Bilgisayar bağlamlarında akış, bir zaman dilimi içinde belirli bir alan üzerinden bir miktarın aktarım hızını tanımlar. Yapay zeka ve veri mühendisliğinde, bilgi sürekli hareket ettiğinde veri akışına (streaming) ilişkindir.

@@ -1,23 +1,24 @@
 ---
-title: "Regrese spike-and-slab"
-term_id: "spike_and_slab_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "bayesian", "regression"]
+title: Regrese spike-and-slab
+term_id: spike_and_slab_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- bayesian
+- Regression
 difficulty: 4
 weight: 1
-slug: "spike_and_slab_regression"
-aliases:
-  - /cs/terms/spike_and_slab_regression/
-date: "2026-07-18T16:18:55.852607Z"
-lastmod: "2026-07-18T17:15:09.203188Z"
+slug: spike_and_slab_regression
+date: '2026-07-18T16:18:55.852607Z'
+lastmod: '2026-07-18T17:15:09.203188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metoda výběru proměnných založená na bayesovské inferenci, která využívá směsné apriorní rozdělení k rozlišení nulových a nenulových koeficientů."
+source: agnes_llm
+status: published
+language: cs
+description: Metoda výběru proměnných založená na bayesovské inferenci, která využívá
+  směsné apriorní rozdělení k rozlišení nulových a nenulových koeficientů.
 ---
-
 ## Definition
 
 Regrese spike-and-slab je bayesovská statistická technika používaná pro výběr proměnných a modelování vzácnosti (sparsity). Používá směsné apriorní rozdělení skládající se ze dvou složek: 'spike' (typicky úzké rozdělení kolem nuly pro reprezentaci nulových koeficientů) a 'slab' (širší rozdělení pro nenulové koeficienty). Tato metoda umožňuje modelu efektivně identifikovat relevantní prediktory v datech.

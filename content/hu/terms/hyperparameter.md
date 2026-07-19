@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /hu/terms/hyperparameter/
 date: "2026-07-18T16:04:22.077401Z"
 lastmod: "2026-07-18T17:15:09.794368Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy konfigurációs változó, amelynek értékét a tanítási folyamat előtt állítják be, és szabályozza a tanulási algoritmus viselkedését."
 ---
-
 ## Definition
 
 Ellentétben a modell paramétereivel (súlyokkal és torzításokkal), amelyeket az adatokból tanul a tanítás során, a hipercsomagparaméterek külső beállítások, amelyeket a szakember választ meg a tanítás megkezdése előtt. Ezek vezérlik a modell szerkezetét és...

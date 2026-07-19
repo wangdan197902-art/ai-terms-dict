@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /nl/terms/instance/
 date: "2026-07-18T16:00:34.198423Z"
 lastmod: "2026-07-18T17:15:08.756191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een enkel datapunt of observatie dat wordt gebruikt in machine learning-taken, meestal voorgesteld als een vector van kenmerken."
 ---
-
 ## Definition
 
 In machine learning verwijst een instantie naar één specifiek voorbeeld uit de dataset. Het bestaat uit een reeks invoerkenmerken (attributen) en eventueel een doellabel. Instanties zijn de fundamentele eenheid.

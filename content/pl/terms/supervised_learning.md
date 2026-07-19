@@ -1,23 +1,24 @@
 ---
-title: "Uczenie nadzorowane"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Uczenie nadzorowane
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /pl/terms/supervised_learning/
-date: "2026-07-18T15:37:11.704019Z"
-lastmod: "2026-07-18T17:15:08.837539Z"
+slug: supervised_learning
+date: '2026-07-18T15:37:11.704019Z'
+lastmod: '2026-07-18T17:15:08.837539Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Paradygmat uczenia maszynowego, w którym model uczy się mapować wejścia na wyjścia na podstawie oznaczonych przykładów treningowych."
+source: agnes_llm
+status: published
+language: pl
+description: Paradygmat uczenia maszynowego, w którym model uczy się mapować wejścia
+  na wyjścia na podstawie oznaczonych przykładów treningowych.
 ---
-
 ## Definition
 
 W uczeniu nadzorowanym algorytm jest trenowany na oznaczonym zbiorze danych, co oznacza, że każdy przykład wejściowy jest sparowany z poprawnym wyjściem. Celem jest nauczenie modelu podstawowej relacji między danymi wejściowymi a wyjściowymi.

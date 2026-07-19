@@ -1,23 +1,24 @@
 ---
-title: "Kernel density estimation"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel density estimation
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /cs/terms/kernel_density_estimation/
-date: "2026-07-18T16:04:09.205825Z"
-lastmod: "2026-07-18T17:15:09.144420Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:04:09.205825Z'
+lastmod: '2026-07-18T17:15:09.144420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Neparametrická metoda používaná k odhadu hustoty pravděpodobnosti náhodné proměnné na základě konečného vzorku dat."
+source: agnes_llm
+status: published
+language: cs
+description: Neparametrická metoda používaná k odhadu hustoty pravděpodobnosti náhodné
+  proměnné na základě konečného vzorku dat.
 ---
-
 ## Definition
 
 Estimace hustoty pomocí jádra (KDE) je základní statistická technika, která hladí diskrétní datové body, aby vytvořila spojitou křivku rozdělení pravděpodobnosti. Umisťuje funkci jádra, typicky Gaussovo jádro, kolem každého pozorování.

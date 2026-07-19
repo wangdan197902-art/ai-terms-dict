@@ -1,23 +1,24 @@
 ---
-title: "Optimasi multitugas"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Optimasi multitugas
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /id/terms/multitask_optimization/
-date: "2026-07-18T16:01:34.678378Z"
-lastmod: "2026-07-18T16:38:07.486282Z"
+slug: multitask_optimization
+date: '2026-07-18T16:01:34.678378Z'
+lastmod: '2026-07-18T16:38:07.486282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Strategi pelatihan di mana sebuah model dioptimalkan untuk melakukan beberapa tugas terkait secara bersamaan."
+source: agnes_llm
+status: published
+language: id
+description: Strategi pelatihan di mana sebuah model dioptimalkan untuk melakukan
+  beberapa tugas terkait secara bersamaan.
 ---
-
 ## Definition
 
 Optimasi multitugas melibatkan pelatihan satu model untuk menangani beberapa tugas yang berbeda namun saling terkait sekaligus. Dengan berbagi representasi perantara antar tugas, model dapat mempelajari fitur yang lebih umum dan meningkatkan efisiensi.

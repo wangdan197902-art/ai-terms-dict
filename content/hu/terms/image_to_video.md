@@ -1,23 +1,24 @@
 ---
-title: "Képből videó"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Képből videó
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /hu/terms/image_to_video/
-date: "2026-07-18T16:04:54.298299Z"
-lastmod: "2026-07-18T17:15:09.795625Z"
+slug: image_to_video
+date: '2026-07-18T16:04:54.298299Z'
+lastmod: '2026-07-18T17:15:09.795625Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy generatív folyamat, ahol egy statikus képet animálnak, hogy rövid videófolyamot hozzanak létre, időbeli dinamika és mozgás hozzáadásával."
+source: agnes_llm
+status: published
+language: hu
+description: Egy generatív folyamat, ahol egy statikus képet animálnak, hogy rövid
+  videófolyamot hozzanak létre, időbeli dinamika és mozgás hozzáadásával.
 ---
-
 ## Definition
 
 A képből videó technológia egyetlen statikus képkockát vesz alapul, és megjósolja a következő kockákat, hogy koherens videósorozatot generáljon. Ez magában foglalja az időbeli konzisztencia és a fizikai dinamikák modellezését a valósághű eredmény érdekében.

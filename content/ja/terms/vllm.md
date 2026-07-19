@@ -1,23 +1,24 @@
 ---
-title: "Vllm"
-term_id: "vllm"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "serving", "library"]
+title: Vllm
+term_id: vllm
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- serving
+- library
 difficulty: 4
 weight: 1
-slug: "vllm"
-aliases:
-  - /ja/terms/vllm/
-date: "2026-07-18T11:36:08.593541Z"
-lastmod: "2026-07-18T11:44:45.154176Z"
+slug: vllm
+date: '2026-07-18T11:36:08.593541Z'
+lastmod: '2026-07-18T11:44:45.154176Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "vLLMは、PagedAttentionを活用してGPUメモリ使用量を最適化する、大規模言語モデル向けの高速スループットかつメモリ効率的な推論エンジンです。"
+source: agnes_llm
+status: published
+language: ja
+description: vLLMは、PagedAttentionを活用してGPUメモリ使用量を最適化する、大規模言語モデル向けの高速スループットかつメモリ効率的な推論エンジンです。
 ---
-
 ## Definition
 
 vLLM（Virtual Large Language Model）は、LLMサービングを加速するために設計されたオープンソースライブラリです。オペレーティングシステムの仮想メモリ...

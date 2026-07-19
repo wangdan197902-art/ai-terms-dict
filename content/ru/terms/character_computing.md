@@ -1,23 +1,24 @@
 ---
-title: "Посимвольные вычисления"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Посимвольные вычисления
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /ru/terms/character_computing/
-date: "2026-07-18T15:44:37.629427Z"
-lastmod: "2026-07-18T16:38:07.129344Z"
+slug: character_computing
+date: '2026-07-18T15:44:37.629427Z'
+lastmod: '2026-07-18T16:38:07.129344Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Посимвольные вычисления включают обработку, генерацию или анализ текста на уровне отдельных символов, а не слов или предложений."
+source: agnes_llm
+status: published
+language: ru
+description: Посимвольные вычисления включают обработку, генерацию или анализ текста
+  на уровне отдельных символов, а не слов или предложений.
 ---
-
 ## Definition
 
 Это концепция, фокусирующаяся на манипулировании текстом, где базовой единицей вычислений является отдельный символ. Она часто используется в задачах, требующих детального анализа текста, таких как проверка орфографии или распознавание рукописного текста.

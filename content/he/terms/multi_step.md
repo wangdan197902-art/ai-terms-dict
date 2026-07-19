@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /he/terms/multi_step/
 date: "2026-07-18T15:33:21.207809Z"
 lastmod: "2026-07-18T17:15:09.493777Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "אסטרטגיית פתרון בעיות הדורשת ביצוע רצף של פעולות לוגיות או חישובים כדי להגיע לפתרון סופי."
 ---
-
 ## Definition
 
 שיטות רב-שלביות כרוכות בפירוק שאילתה או משימה מורכבת לשלבים קטנים וניתנים לביצוע. גישה זו קריטית במשימות חשיבה, כגון פתרון בעיות מתמטיות או יצירת קוד.

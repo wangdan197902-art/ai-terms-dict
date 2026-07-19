@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /de/terms/model_serving/
 date: "2026-07-18T10:58:57.944096Z"
 lastmod: "2026-07-18T11:44:44.896754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess des Bereitstellens trainierter maschineller Lernmodelle in Produktionsumgebungen, um Vorhersagen zu treffen oder Ausgaben für Endbenutzer zu generieren."
 ---
-
 ## Definition
 
 Modellbereitstellung beinhaltet das Verpacken eines statischen trainierten Modells in eine skalierbare Infrastruktur, die eingehende Anfragen verarbeitet, Inferenzen durchführt und Ergebnisse zurückgibt. Zu den wichtigsten Herausforderungen gehören das Management der Latenz, die Skalierbarkeit und die Zuverlässigkeit des Systems.

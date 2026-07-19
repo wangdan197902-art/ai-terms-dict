@@ -1,23 +1,25 @@
 ---
-title: "Диффузоры: конвейер Stable Diffusion 3"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Диффузоры: конвейер Stable Diffusion 3'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /ru/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:50:27.940132Z"
-lastmod: "2026-07-18T16:38:07.149963Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:50:27.940132Z'
+lastmod: '2026-07-18T16:38:07.149963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Конвейер, реализующий архитектуру Stable Diffusion 3, включающую MMDiT и Flow Matching для улучшения качества изображений и рендеринга текста."
+source: agnes_llm
+status: published
+language: ru
+description: Конвейер, реализующий архитектуру Stable Diffusion 3, включающую MMDiT
+  и Flow Matching для улучшения качества изображений и рендеринга текста.
 ---
-
 ## Definition
 
 Этот конвейер использует модель Stable Diffusion 3, которая внедряет архитектуру Multimodal Diffusion Transformer (MMDiT) и целевую функцию обучения Flow Matching. Эти достижения значительно улучшают...

@@ -1,23 +1,24 @@
 ---
-title: "Difuzie"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: Difuzie
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /ro/terms/diffusion/
-date: "2026-07-18T15:24:27.343411Z"
-lastmod: "2026-07-18T17:15:09.591545Z"
+slug: diffusion
+date: '2026-07-18T15:24:27.343411Z'
+lastmod: '2026-07-18T17:15:09.591545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de modelare generativă care creează date inversând un proces gradual de adăugare a zgomotului pentru a reconstrui mostre curate."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de modelare generativă care creează date inversând un proces
+  gradual de adăugare a zgomotului pentru a reconstrui mostre curate.
 ---
-
 ## Definition
 
 Modelele de difuzie sunt o clasă de IA generativă care învață să inverseze un proces stocastic de adăugare a zgomotului în date. Prin antrenarea unei rețele neuronale să prezică și să elimine acest zgomat pas cu pas, ele pot genera date noi de înaltă fidelitate.

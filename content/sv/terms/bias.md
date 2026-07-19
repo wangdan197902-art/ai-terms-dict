@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /sv/terms/bias/
 date: "2026-07-18T15:22:23.381475Z"
 lastmod: "2026-07-18T17:15:08.935482Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Systematisk fördom i AI-modeller som leder till orättvisa resultat mot vissa grupper eller individer."
 ---
-
 ## Definition
 
 Inom AI-etik syftar bias på systematisk och orättvis diskriminering i algoritmiska beslutsprocesser, ofta till följd av snedvriden träningsdata eller bristfällig modelldesign. Detta kan leda till negativa effekter på

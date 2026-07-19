@@ -1,23 +1,24 @@
 ---
-title: "Semantische Suche"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Semantische Suche
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /de/terms/semantic_search/
-date: "2026-07-18T10:59:49.629689Z"
-lastmod: "2026-07-18T11:44:44.900185Z"
+slug: semantic_search
+date: '2026-07-18T10:59:49.629689Z'
+lastmod: '2026-07-18T11:44:44.900185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Suchtechnologie, die die Bedeutung von Suchbegriffen versteht, anstatt nur Schlüsselwörter zu matchen."
+source: agnes_llm
+status: published
+language: de
+description: Suchtechnologie, die die Bedeutung von Suchbegriffen versteht, anstatt
+  nur Schlüsselwörter zu matchen.
 ---
-
 ## Definition
 
 Semantische Suche interpretiert die Absicht und die kontextuelle Bedeutung hinter einer Anfrage, über einfaches Keyword-Matching hinaus. Sie nutzt Embeddings, um Text als Vektoren in einem hochdimensionalen Raum darzustellen, was es ermöglicht...

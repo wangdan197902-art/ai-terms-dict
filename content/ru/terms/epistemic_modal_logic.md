@@ -1,23 +1,24 @@
 ---
-title: "Эпистемическая модальная логика"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Эпистемическая модальная логика
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /ru/terms/epistemic_modal_logic/
-date: "2026-07-18T15:51:49.623349Z"
-lastmod: "2026-07-18T16:38:07.154158Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:51:49.623349Z'
+lastmod: '2026-07-18T16:38:07.154158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Раздел модальной логики, использующий формальные системы для представления и рассуждения о состояниях знаний и убеждений агентов."
+source: agnes_llm
+status: published
+language: ru
+description: Раздел модальной логики, использующий формальные системы для представления
+  и рассуждения о состояниях знаний и убеждений агентов.
 ---
-
 ## Definition
 
 Эпистемическая модальная логика расширяет классическую логику операторами, обозначающими то, что знает или во что верит агент. Она критически важна в системах с множеством агентов, где необходимо рассуждать о знаниях других участников.

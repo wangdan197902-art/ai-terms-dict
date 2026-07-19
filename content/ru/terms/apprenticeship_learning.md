@@ -1,23 +1,24 @@
 ---
-title: "Обучение по подражанию эксперту"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Обучение по подражанию эксперту
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /ru/terms/apprenticeship_learning/
-date: "2026-07-18T15:40:37.093532Z"
-lastmod: "2026-07-18T16:38:07.120170Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:40:37.093532Z'
+lastmod: '2026-07-18T16:38:07.120170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод обучения с подкреплением, при котором агент учится принимать решения, имитируя демонстрации эксперта."
+source: agnes_llm
+status: published
+language: ru
+description: Метод обучения с подкреплением, при котором агент учится принимать решения,
+  имитируя демонстрации эксперта.
 ---
-
 ## Definition
 
 Обучение по подражанию эксперту, также известное как обратное обучение с подкреплением на основе демонстраций, позволяет агентам приобретать навыки путем наблюдения за поведением эксперта, а не полагаясь исключительно на функции вознаграждения.

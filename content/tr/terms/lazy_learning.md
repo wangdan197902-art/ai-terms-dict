@@ -1,23 +1,24 @@
 ---
-title: "Tembel Öğrenme"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Tembel Öğrenme
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /tr/terms/lazy_learning/
-date: "2026-07-18T16:00:13.733535Z"
-lastmod: "2026-07-18T16:38:07.326494Z"
+slug: lazy_learning
+date: '2026-07-18T16:00:13.733535Z'
+lastmod: '2026-07-18T16:38:07.326494Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Genelleştirmeyi sınıflandırma zamanına erteleyen, açık bir model oluşturmak yerine eğitim örneklerini saklayan bir öğrenme yaklaşımı."
+source: agnes_llm
+status: published
+language: tr
+description: Genelleştirmeyi sınıflandırma zamanına erteleyen, açık bir model oluşturmak
+  yerine eğitim örneklerini saklayan bir öğrenme yaklaşımı.
 ---
-
 ## Definition
 
 k-Yakın Komşu (k-NN) gibi tembel öğreniciler, tüm eğitim veri setini ezberler ve tahmin yaparken hesaplama gerçekleştirir. Bu durum, genel bir model inşa eden 'aceleci' (eager) öğrenmeden farklıdır.

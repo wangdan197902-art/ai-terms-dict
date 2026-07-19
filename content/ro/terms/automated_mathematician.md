@@ -1,23 +1,24 @@
 ---
-title: "Matematician Automatizat"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Matematician Automatizat
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /ro/terms/automated_mathematician/
-date: "2026-07-18T15:46:28.474770Z"
-lastmod: "2026-07-18T17:15:09.630545Z"
+slug: automated_mathematician
+date: '2026-07-18T15:46:28.474770Z'
+lastmod: '2026-07-18T17:15:09.630545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un sistem de IA conceput pentru a descoperi teoreme, conjecturi sau demonstrații matematice noi prin căutare computațională și raționament."
+source: agnes_llm
+status: published
+language: ro
+description: Un sistem de IA conceput pentru a descoperi teoreme, conjecturi sau demonstrații
+  matematice noi prin căutare computațională și raționament.
 ---
-
 ## Definition
 
 Un Matematician Automatizat utilizează învățarea automată și raționamentul simbolic pentru a explora spații matematice dincolo de intuiția umană. Aceste sisteme pot genera ipoteze, verifica demonstrații și găsi tipare complexe.

@@ -1,23 +1,24 @@
 ---
-title: "Regularisasi kelangkaan terstruktur"
-term_id: "structured_sparsity_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "feature_selection"]
+title: Regularisasi kelangkaan terstruktur
+term_id: structured_sparsity_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- Feature Selection
 difficulty: 3
 weight: 1
-slug: "structured_sparsity_regularization"
-aliases:
-  - /id/terms/structured_sparsity_regularization/
-date: "2026-07-18T16:10:01.809307Z"
-lastmod: "2026-07-18T16:38:07.511317Z"
+slug: structured_sparsity_regularization
+date: '2026-07-18T16:10:01.809307Z'
+lastmod: '2026-07-18T16:38:07.511317Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik regularisasi yang memberlakukan pola kelangkaan berdasarkan pengetahuan sebelumnya tentang pengelompokan fitur atau struktur dalam data."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik regularisasi yang memberlakukan pola kelangkaan berdasarkan
+  pengetahuan sebelumnya tentang pengelompokan fitur atau struktur dalam data.
 ---
-
 ## Definition
 
 Regularisasi kelangkaan terstruktur memperluas regularisasi L1 standar dengan mendorong nilai nol pada pola-pola tertentu daripada koefisien individu secara independen. Metode ini mengintegrasikan pengetahuan sebelumnya mengenai

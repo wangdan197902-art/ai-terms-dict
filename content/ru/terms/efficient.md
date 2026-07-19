@@ -1,23 +1,25 @@
 ---
-title: "Эффективный"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Эффективный
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /ru/terms/efficient/
-date: "2026-07-18T15:24:34.234991Z"
-lastmod: "2026-07-18T16:38:07.073804Z"
+slug: efficient
+date: '2026-07-18T15:24:34.234991Z'
+lastmod: '2026-07-18T16:38:07.073804Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В контексте ИИ эффективность означает достижение оптимальной производительности при минимальном потреблении ресурсов, таких как время, память или вычислительная мощность."
+source: agnes_llm
+status: published
+language: ru
+description: В контексте ИИ эффективность означает достижение оптимальной производительности
+  при минимальном потреблении ресурсов, таких как время, память или вычислительная
+  мощность.
 ---
-
 ## Definition
 
 Эффективность — это критически важный показатель в искусственном интеллекте, измеряющий, насколько хорошо модель или алгоритм использует доступные ресурсы. Она охватывает вычислительную эффективность (скорость вывода/обучения) и экономичность использования энергии.

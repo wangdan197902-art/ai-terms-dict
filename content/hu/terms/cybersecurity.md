@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /hu/terms/cybersecurity/
 date: "2026-07-18T15:52:21.904849Z"
 lastmod: "2026-07-18T17:15:09.767143Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A rendszerek, hálózatok és programok védelmének gyakorlata digitális támadások, jogosulatlan hozzáférés és károsodás ellen különböző védőtechnológiák segítségével."
 ---
-
 ## Definition
 
 A kiberbiztonság magában foglalja azokat a technológiákat, folyamatokat és gyakorlatokat, amelyek a hálózatok, számítógépek, programok és adatok védelmét szolgálják támadások, kár vagy jogosulatlan hozzáférés ellen. Az AI kontextusában ez magában foglalja a modellek biztonságát és az adatvédelmet is.

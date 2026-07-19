@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /pl/terms/superintelligence_ban/
 date: "2026-07-18T16:19:37.710646Z"
 lastmod: "2026-07-18T17:15:08.921758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proponowany środek regulacyjny lub stanowisko etyczne opowiadające się za zakazem rozwijania sztucznej inteligencji ogólnej (AGI), która przewyższa ludzkie zdolności poznawcze."
 ---
-
 ## Definition
 
 Koncepcja ta odnosi się do debaty i potencjalnych polityk dotyczących ograniczenia lub całkowitego wstrzymania badań nad nadinteligencją sztuczną (ASI). Zwolennicy twierdzą, że ASI stwarza zagrożenia egzystencjalne.

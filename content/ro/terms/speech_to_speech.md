@@ -1,23 +1,24 @@
 ---
-title: "Vorbire la Vorbire"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Vorbire la Vorbire
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /ro/terms/speech_to_speech/
-date: "2026-07-18T16:21:36.265420Z"
-lastmod: "2026-07-18T17:15:09.704627Z"
+slug: speech_to_speech
+date: '2026-07-18T16:21:36.265420Z'
+lastmod: '2026-07-18T17:15:09.704627Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de traducere care convertește intrarea vorbită direct în vorbire sintetizată într-o altă limbă."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de traducere care convertește intrarea vorbită direct în
+  vorbire sintetizată într-o altă limbă.
 ---
-
 ## Definition
 
 Traducerea Vorbire-la-Vorbire (STS) ocolește reprezentările textuale intermediare pentru a converti limba vorbită A direct în limba vorbită B. Această abordare își propune să păstreze prosodia, emoția și naturalitatea vocii originale în limba țintă.

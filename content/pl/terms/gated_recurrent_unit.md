@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /pl/terms/gated_recurrent_unit/
 date: "2026-07-18T15:56:06.308154Z"
 lastmod: "2026-07-18T17:15:08.876392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Typ architektury rekurencyjnej sieci neuronowej, która wykorzystuje mechanizmy bramkowania do kontrolowania przepływu informacji, stanowiąca uproszczoną alternatywę dla LSTM."
 ---
-
 ## Definition
 
 Zablokowana jednostka rekurencyjna (GRU) to specjalizowana komórka rekurencyjnej sieci neuronowej (RNN) zaprojektowana do przechwytywania długoterminowych zależności w danych sekwencyjnych. Upraszcza architekturę pamięci długotrwałej (LSTM)...

@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /he/terms/knowledge_cutoff/
 date: "2026-07-18T16:08:25.091924Z"
 lastmod: "2026-07-18T17:15:09.554047Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "נקודת חיתוך של ידע היא התאריך הספציפי שאחריו מודל שפה לא אומן ולכן חסר לו מידע על אירועים שהתרחשו לאחר מכן."
 ---
-
 ## Definition
 
 תאריך נקודת החיתוך של הידע מגדיר את הגבול הזמני של נתוני האימון של מודל שפה. כל מידע, אירועים או התפתחויות שהתרחשו לאחר תאריך זה אינם ידועים בדרך כלל למודל

@@ -1,23 +1,24 @@
 ---
-title: "Výpočetní inteligence"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Výpočetní inteligence
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /cs/terms/computational_intelligence/
-date: "2026-07-18T15:48:52.313091Z"
-lastmod: "2026-07-18T17:15:09.111956Z"
+slug: computational_intelligence
+date: '2026-07-18T15:48:52.313091Z'
+lastmod: '2026-07-18T17:15:09.111956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Obor AI zabývající se adaptivními systémy, které napodobují biologické procesy k řešení komplexních problémů."
+source: agnes_llm
+status: published
+language: cs
+description: Obor AI zabývající se adaptivními systémy, které napodobují biologické
+  procesy k řešení komplexních problémů.
 ---
-
 ## Definition
 
 Výpočetní inteligence (CI) zahrnuje sadu výpočetních paradigmů inspirovaných přírodou, včetně neuronových sítí, fuzzy logiky a evolučního výpočtu. Tyto systémy jsou navrženy tak, aby zvládaly...

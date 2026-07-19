@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /th/terms/accountability/
 date: "2026-07-18T15:39:32.713870Z"
 lastmod: "2026-07-18T16:38:07.570519Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "หลักการที่ผู้พัฒนาและดำเนินการระบบ AI ต้องรับผิดชอบต่อผลลัพธ์และผลกระทบจากระบบเหล่านั้น"
 ---
-
 ## Definition
 
 ความรับผิดชอบได้ในปัญญาประดิษฐ์ หมายถึง หน้าที่ของบุคคล องค์กร และผู้พัฒนา ในการยอมรับความรับผิดชอบต่อการออกแบบ การนำใช้งาน และผลที่ตามมาของเทคโนโลยี AI

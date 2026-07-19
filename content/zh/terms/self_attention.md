@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /zh/terms/self_attention/
 date: "2026-07-18T10:54:51.109424Z"
 lastmod: "2026-07-18T11:44:45.384788Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种允许神经网络根据彼此之间的相对重要性来权衡输入序列不同部分的机制。"
 ---
-
 ## Definition
 
 自注意力使模型能够同时捕捉序列中所有位置之间的依赖关系，无论距离远近。通过计算每对标记之间的注意力分数，它使得……

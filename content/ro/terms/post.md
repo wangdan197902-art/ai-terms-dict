@@ -1,23 +1,24 @@
 ---
-title: "Postare"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Postare
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /ro/terms/post/
-date: "2026-07-18T15:28:24.102597Z"
-lastmod: "2026-07-18T17:15:09.600812Z"
+slug: post
+date: '2026-07-18T15:28:24.102597Z'
+lastmod: '2026-07-18T17:15:09.600812Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O piesă de conținut publicat, de obicei pe un blog, o platformă de social media sau un forum, reprezentând informații sau comentarii generate de utilizatori."
+source: agnes_llm
+status: published
+language: ro
+description: O piesă de conținut publicat, de obicei pe un blog, o platformă de social
+  media sau un forum, reprezentând informații sau comentarii generate de utilizatori.
 ---
-
 ## Definition
 
 În comunicarea digitală și contextele de date AI, un 'post' se referă la o unitate discretă de conținut partajată online. Acesta servește ca sursă principală pentru antrenarea modelelor de procesare a limbajului natural...

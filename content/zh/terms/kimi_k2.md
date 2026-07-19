@@ -7,8 +7,6 @@ tags: ["LLM", "Chinese AI", "Reasoning"]
 difficulty: 2
 weight: 1
 slug: "kimi_k2"
-aliases:
-  - /zh/terms/kimi_k2/
 date: "2026-07-18T11:23:05.463513Z"
 lastmod: "2026-07-18T11:44:45.520494Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Kimi K2 是由月之暗面（Moonshot AI）开发的大型语言模型，专为高级推理和长上下文理解而设计。"
 ---
-
 ## Definition
 
 Kimi K2 代表了月之暗面大型语言模型系列的一次重大迭代。其特点在于增强了复杂逻辑推理和数学问题解决能力。

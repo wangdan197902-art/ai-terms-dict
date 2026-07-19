@@ -1,23 +1,24 @@
 ---
-title: "Ayarlama (Tuning)"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Ayarlama (Tuning)
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /tr/terms/tuning/
-date: "2026-07-18T15:30:35.879463Z"
-lastmod: "2026-07-18T16:38:07.246762Z"
+slug: tuning
+date: '2026-07-18T15:30:35.879463Z'
+lastmod: '2026-07-18T16:38:07.246762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli bir veri kümesi veya görevde performansı optimize etmek için hiperparametreleri veya model ağırlıklarını ayarlama süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli bir veri kümesi veya görevde performansı optimize etmek için
+  hiperparametreleri veya model ağırlıklarını ayarlama süreci.
 ---
-
 ## Definition
 
 Ayarlama, daha iyi doğruluk veya verimlilik elde etmek için bir makine öğrenimi modelini iyileştirme sürecidir. Bu, öğrenme oranı veya toplu boyut gibi ayarların optimize edildiği hiperparametre ayarlama veya model ağırlıklarının özelleştirildiği ince ayar olabilir.

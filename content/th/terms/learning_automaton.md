@@ -1,23 +1,24 @@
 ---
-title: "ออโตมาตาการเรียนรู้"
-term_id: "learning_automaton"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement-learning", "optimization", "agents"]
+title: ออโตมาตาการเรียนรู้
+term_id: learning_automaton
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Optimization
+- agents
 difficulty: 3
 weight: 1
-slug: "learning_automaton"
-aliases:
-  - /th/terms/learning_automaton/
-date: "2026-07-18T16:02:15.893030Z"
-lastmod: "2026-07-18T16:38:07.625218Z"
+slug: learning_automaton
+date: '2026-07-18T16:02:15.893030Z'
+lastmod: '2026-07-18T16:38:07.625218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ออโตมาตาการเรียนรู้คือหน่วยตัดสินใจแบบสุ่มอย่างง่ายที่อัปเดตความน่าจะเป็นของการกระทำซ้ำๆ ตามข้อเสนอแนะจากสิ่งแวดล้อม เพื่อเพิ่มรางวัลให้สูงสุด"
+source: agnes_llm
+status: published
+language: th
+description: ออโตมาตาการเรียนรู้คือหน่วยตัดสินใจแบบสุ่มอย่างง่ายที่อัปเดตความน่าจะเป็นของการกระทำซ้ำๆ
+  ตามข้อเสนอแนะจากสิ่งแวดล้อม เพื่อเพิ่มรางวัลให้สูงสุด
 ---
-
 ## Definition
 
 แนวคิดนี้มีรากฐานมาจาก reinforcement learning และเกี่ยวข้องกับการที่เอเจนต์มีปฏิสัมพันธ์กับสิ่งแวดล้อมที่ไม่รู้จัก ออโตมาตาจะเลือกการกระทำจากเซตที่จำกัดและได้รับสัญญาณโทษหรือรางวัลเพื่อปรับปรุงกลยุทธ์การตัดสินใจในขั้นตอนถัดไป

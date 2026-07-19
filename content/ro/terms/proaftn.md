@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /ro/terms/proaftn/
-date: "2026-07-18T16:16:45.371113Z"
-lastmod: "2026-07-18T17:15:09.693275Z"
+slug: proaftn
+date: '2026-07-18T16:16:45.371113Z'
+lastmod: '2026-07-18T17:15:09.693275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Algebra Relațională Probabilistică pentru Rețele Funcționale de Serii Temporale, un cadru pentru modelarea sistemelor dinamice."
+source: agnes_llm
+status: published
+language: ro
+description: Algebra Relațională Probabilistică pentru Rețele Funcționale de Serii
+  Temporale, un cadru pentru modelarea sistemelor dinamice.
 ---
-
 ## Definition
 
 Praftn este un cadru computațional specializat conceput pentru a gestiona datele de serii temporale funcționale în structuri relaționale. Combină raționamentul probabilistic cu operațiile algebrice pentru a modela sisteme complexe...

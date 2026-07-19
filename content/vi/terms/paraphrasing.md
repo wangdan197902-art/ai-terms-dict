@@ -1,23 +1,24 @@
 ---
-title: "Viết lại văn bản"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Viết lại văn bản
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /vi/terms/paraphrasing/
-date: "2026-07-18T16:06:56.959303Z"
-lastmod: "2026-07-18T16:38:07.791172Z"
+slug: paraphrasing
+date: '2026-07-18T16:06:56.959303Z'
+lastmod: '2026-07-18T16:38:07.791172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tác vụ Xử lý Ngôn ngữ Tự nhiên (NLP) nhằm viết lại văn bản để truyền tải cùng ý nghĩa nhưng sử dụng từ ngữ hoặc cấu trúc câu khác."
+source: agnes_llm
+status: published
+language: vi
+description: Tác vụ Xử lý Ngôn ngữ Tự nhiên (NLP) nhằm viết lại văn bản để truyền
+  tải cùng ý nghĩa nhưng sử dụng từ ngữ hoặc cấu trúc câu khác.
 ---
-
 ## Definition
 
 Viết lại văn bản trong Xử lý Ngôn ngữ Tự nhiên liên quan đến việc tạo ra các cách diễn đạt thay thế cho một đoạn văn bản đầu vào nhất định trong khi vẫn giữ nguyên ý nghĩa ngữ nghĩa gốc của nó. Đây là kỹ thuật quan trọng để giảm thiểu đạo văn, tăng cường dữ liệu huấn luyện và cải thiện khả năng đọc hiểu.

@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /vi/terms/recursive_self_improvement/
 date: "2026-07-18T16:10:21.484961Z"
 lastmod: "2026-07-18T16:38:07.800301Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một quá trình trong đó hệ thống AI lặp đi lặp lại việc nâng cao trí tuệ hoặc khả năng của chính nó thông qua việc tự sửa đổi."
 ---
-
 ## Definition
 
 Cải tiến bản thân đệ quy đề cập đến khả năng lý thuyết của một hệ thống trí tuệ nhân tạo trong việc viết lại mã nguồn hoặc kiến trúc của chính nó để trở nên thông minh hơn, hiệu quả hơn hoặc có nhiều khả năng hơn.

@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /de/terms/energy/
 date: "2026-07-18T10:49:35.954662Z"
 lastmod: "2026-07-18T11:44:44.872463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "In der KI bezieht sich Energie oft auf die während des Modelltrainings und der Inferenz verbrauchte Rechenleistung oder auf eine mathematische Potenzialfunktion in probabilistischen Modellen."
 ---
-
 ## Definition
 
 Energie hat in der KI zwei primäre Bedeutungen. Erstens bezeichnet sie die elektrische Leistung, die zur Betreibung von Hardware benötigt wird, was angesichts der Skalierung von Modellen zu einem wachsenden Nachhaltigkeitsproblem wird. Zweitens, inspiriert durch die statistische Mechanik, ist es ein Maß für den Zustand eines Systems in energiebasierenden Modellen.

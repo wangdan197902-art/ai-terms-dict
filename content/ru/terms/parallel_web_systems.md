@@ -1,23 +1,24 @@
 ---
-title: "Параллельные веб-системы"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: Параллельные веб-системы
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /ru/terms/parallel_web_systems/
-date: "2026-07-18T16:09:32.793511Z"
-lastmod: "2026-07-18T16:38:07.189857Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:09:32.793511Z'
+lastmod: '2026-07-18T16:38:07.189857Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Архитектуры распределенных вычислений, использующие одновременную обработку на нескольких узлах для эффективного выполнения задач масштаба веб-приложений."
+source: agnes_llm
+status: published
+language: ru
+description: Архитектуры распределенных вычислений, использующие одновременную обработку
+  на нескольких узлах для эффективного выполнения задач масштаба веб-приложений.
 ---
-
 ## Definition
 
 Параллельные веб-системы — это инфраструктурные решения, в которых вычислительные задачи разделяются и выполняются одновременно на нескольких серверах или процессорах, соединенных сетью. Такой подход позволяет масштабировать производительность и обеспечивать высокую доступность сервисов.

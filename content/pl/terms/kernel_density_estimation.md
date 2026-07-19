@@ -1,23 +1,24 @@
 ---
-title: "Estymacja gęstości jądra"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Estymacja gęstości jądra
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /pl/terms/kernel_density_estimation/
-date: "2026-07-18T16:02:26.980741Z"
-lastmod: "2026-07-18T17:15:08.887910Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:02:26.980741Z'
+lastmod: '2026-07-18T17:15:08.887910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Nienparametryczna metoda używana do estymacji funkcji gęstości prawdopodobieństwa zmiennej losowej na podstawie skończonego próbkowania danych."
+source: agnes_llm
+status: published
+language: pl
+description: Nienparametryczna metoda używana do estymacji funkcji gęstości prawdopodobieństwa
+  zmiennej losowej na podstawie skończonego próbkowania danych.
 ---
-
 ## Definition
 
 Estymacja gęstości jądra (KDE) to fundamentalna technika statystyczna, która wygładza dyskretne punkty danych, aby utworzyć ciągłą krzywą rozkładu prawdopodobieństwa. Polega ona na umieszczeniu funkcji jądra (zazwyczaj Gaussa) w każdym punkcie danych i zsumowaniu ich wkładów.

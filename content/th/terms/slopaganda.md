@@ -1,23 +1,24 @@
 ---
-title: "Slopaganda (โฆษณาชวนเชื่อแบบช้าๆ)"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopaganda (โฆษณาชวนเชื่อแบบช้าๆ)
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /th/terms/slopaganda/
-date: "2026-07-18T16:15:12.684392Z"
-lastmod: "2026-07-18T16:38:07.654486Z"
+slug: slopaganda
+date: '2026-07-18T16:15:12.684392Z'
+lastmod: '2026-07-18T16:38:07.654486Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คำประสมจาก 'slow' (ช้า) และ 'propaganda' (โฆษณาชวนเชื่อ) หมายถึงแคมเปญข้อมูลเท็จที่ออกแบบมาเพื่อบ่อนทำลายความไว้วางใจผ่านการมีอิทธิพลอย่างยาวนานและละเอียดอ่อน"
+source: agnes_llm
+status: published
+language: th
+description: คำประสมจาก 'slow' (ช้า) และ 'propaganda' (โฆษณาชวนเชื่อ) หมายถึงแคมเปญข้อมูลเท็จที่ออกแบบมาเพื่อบ่อนทำลายความไว้วางใจผ่านการมีอิทธิพลอย่างยาวนานและละเอียดอ่อน
 ---
-
 ## Definition
 
 Slopaganda อธิบายรูปแบบหนึ่งของข้อมูลเท็จที่ใช้การซ้ำๆ ความคลุมเครือ และการเปิดรับในระยะยาว แทนที่จะใช้เทคนิคการช็อกแบบไวรัล เป้าหมายคือทำให้ผู้ชมสับสน ทำให้ความจริงจางลง และบ่อนทำลายความไว้วางใจ

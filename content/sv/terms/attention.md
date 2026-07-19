@@ -1,23 +1,25 @@
 ---
-title: "Uppmärksamhet"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Uppmärksamhet
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /sv/terms/attention/
-date: "2026-07-18T15:37:15.300501Z"
-lastmod: "2026-07-18T17:15:08.960526Z"
+slug: attention
+date: '2026-07-18T15:37:15.300501Z'
+lastmod: '2026-07-18T17:15:08.960526Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En mekanism som gör att neurala nätverk dynamiskt kan väga vikten av olika delar av insökvensen."
+source: agnes_llm
+status: published
+language: sv
+description: En mekanism som gör att neurala nätverk dynamiskt kan väga vikten av
+  olika delar av insökvensen.
 ---
-
 ## Definition
 
 Uppmärksamhetsmekanismer gör att modeller kan fokusera på relevant information vid bearbetning av inspel, särskilt i sekventiell data som text. Genom att beräkna uppmärksamhetspoäng bestämmer modellen vilka element...

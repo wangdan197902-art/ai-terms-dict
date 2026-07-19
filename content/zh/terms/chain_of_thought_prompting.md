@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /zh/terms/chain_of_thought_prompting/
 date: "2026-07-18T10:59:27.500291Z"
 lastmod: "2026-07-18T11:44:45.397750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "思维链提示是一种鼓励大语言模型在生成最终答案之前，先生成中间推理步骤的技术。"
 ---
-
 ## Definition
 
 思维链（CoT）提示通过明确要求模型阐述其逐步逻辑，从而提升大型语言模型在复杂推理任务上的表现。与直接跳跃到最终答案不同，CoT引导模型展示其思考过程，这有助于解决需要多步逻辑推导的问题，如数学应用题或复杂的逻辑推理任务。

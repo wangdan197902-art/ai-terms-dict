@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /nl/terms/generated/
 date: "2026-07-18T15:26:17.575564Z"
 lastmod: "2026-07-18T17:15:08.685687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Inhoud die is gemaakt door een AI-model in plaats van direct uit een statische dataset te worden opgehaald."
 ---
-
 ## Definition
 
 De term 'gegenereerd' beschrijft output die wordt geproduceerd door generatieve AI-modellen, zoals tekst, afbeeldingen, audio of code. In tegenstelling tot retrieval-systemen die bestaande data ophalen, synthetiseren generatieve modellen nieuwe

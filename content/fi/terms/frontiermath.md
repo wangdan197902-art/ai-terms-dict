@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /fi/terms/frontiermath/
-date: "2026-07-18T15:58:37.137121Z"
-lastmod: "2026-07-18T17:15:09.412872Z"
+slug: frontiermath
+date: '2026-07-18T15:58:37.137121Z'
+lastmod: '2026-07-18T17:15:09.412872Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Arviointidatajoukko, joka on suunniteltu arvioimaan huippuluokan tekoälymallien edistynyttä matemaattista päättelykykyä."
+source: agnes_llm
+status: published
+language: fi
+description: Arviointidatajoukko, joka on suunniteltu arvioimaan huippuluokan tekoälymallien
+  edistynyttä matemaattista päättelykykyä.
 ---
-
 ## Definition
 
 FrontierMath on erikoistunut arviointipaketti, joka on luotu testaamaan suurten kielimallien rajoja monimutkaisissa matemaattisissa ongelmienratkaisuissa. Toisin kuin tavanomaiset aritmeettiset arviointitestit, se keskittyy korkean tason matemaattiseen päättelyyn ja vaatii malleilta syvällistä ymmärrystä abstrakteista käsitteistä.

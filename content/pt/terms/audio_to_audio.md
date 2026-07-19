@@ -1,23 +1,24 @@
 ---
-title: "Áudio para Áudio"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Áudio para Áudio
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /pt/terms/audio_to_audio/
-date: "2026-07-18T14:50:36.290541Z"
-lastmod: "2026-07-18T15:51:59.465425Z"
+slug: audio_to_audio
+date: '2026-07-18T14:50:36.290541Z'
+lastmod: '2026-07-18T15:51:59.465425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma tarefa de IA generativa na qual o áudio de entrada é transformado em áudio de saída, preservando ou alterando características específicas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma tarefa de IA generativa na qual o áudio de entrada é transformado
+  em áudio de saída, preservando ou alterando características específicas.
 ---
-
 ## Definition
 
 Áudio para áudio refere-se a arquiteturas de redes neurais projetadas para mapear um sinal de áudio em outro. Diferente da síntese de fala a partir de texto, isso envolve a transformação direta de forma de onda ou espectrograma. As aplicações incl

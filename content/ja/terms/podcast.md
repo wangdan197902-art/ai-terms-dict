@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /ja/terms/podcast/
 date: "2026-07-18T11:28:02.046008Z"
 lastmod: "2026-07-18T11:44:45.132231Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "インターネット上で配信・ストリーミングまたはダウンロード可能なデジタルオーディオまたはビデオファイル。"
 ---
-
 ## Definition
 
 AIおよびテクノロジーの文脈において、ポッドキャストはRSSフィードを通じて配布されるエピソード形式のデジタルメディアコンテンツを指し、ユーザーは購読して討論、インタビュー、または教育資料を視聴・聴取できます。

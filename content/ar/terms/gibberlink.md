@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /ar/terms/gibberlink/
 date: "2026-07-18T15:59:36.365394Z"
 lastmod: "2026-07-18T17:15:08.508215Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "جيبيرلينك ليس مصطلحاً معيارياً معترفاً به في أدبيات الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 لا يوجد مفهوم أو تقنية أو منهجية راسخة تُعرف باسم 'جيبيرلينك' ضمن مجال الذكاء الاصطناعي، أو التعلم الآلي، أو علوم الحاسوب. قد يكون ذلك خطأً إملائياً، أو خيالياً.

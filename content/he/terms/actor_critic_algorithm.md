@@ -1,23 +1,24 @@
 ---
-title: "אלגוריתם שחקן-מבקר"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: אלגוריתם שחקן-מבקר
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /he/terms/actor_critic_algorithm/
-date: "2026-07-18T15:40:56.774210Z"
-lastmod: "2026-07-18T17:15:09.510051Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:40:56.774210Z'
+lastmod: '2026-07-18T17:15:09.510051Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מסגרת למידה חיזוקית המשלבת שיטות מבוססות ערך ומבוססות מדיניות באמצעות שתי רשתות עצביות: שחקן ומבקר."
+source: agnes_llm
+status: published
+language: he
+description: 'מסגרת למידה חיזוקית המשלבת שיטות מבוססות ערך ומבוססות מדיניות באמצעות
+  שתי רשתות עצביות: שחקן ומבקר.'
 ---
-
 ## Definition
 
 אלגוריתם השחקן-מבקר משתמש בשני רכיבים: השחקן, המעדכן את המדיניות לבחירת פעולות, והמבקר, המעריך את איכות הפעולות הללו על ידי הערכת פונקציית הערך.

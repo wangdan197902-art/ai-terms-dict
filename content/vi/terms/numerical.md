@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /vi/terms/numerical/
 date: "2026-07-18T15:27:33.100104Z"
 lastmod: "2026-07-18T16:38:07.691059Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Liên quan đến, sử dụng hoặc liên quan đến các con số hoặc phép tính toán học thay vì logic ký hiệu hay văn bản."
 ---
-
 ## Definition
 
 Trong bối cảnh trí tuệ nhân tạo và khoa học dữ liệu, 'numerical' đề cập đến các loại dữ liệu hoặc phương pháp liên quan đến các giá trị định lượng, chẳng hạn như số nguyên, số thập phân (float) và số thập phân. Khác với dữ liệu phân loại hoặc văn bản, dữ liệu số cho phép thực hiện các phép toán toán học trực tiếp.

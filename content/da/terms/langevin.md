@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /da/terms/langevin/
 date: "2026-07-18T15:26:38.268039Z"
 lastmod: "2026-07-18T17:15:09.226709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Langevin henviser til stokastiske differentialligninger, specifikt Langevin-dynamik, der bruges til at stikprøve fra sandsynlighedsfordelinger ved at simulere fysisk bevægelse med friktion og støj."
 ---
-
 ## Definition
 
 Langevin-dynamik inkorporerer tilfældig støj og dæmpende kræfter for at udforske energilandskaber effektivt. Inden for AI bruges det primært i stikprøvetagningsmetoder som Hamiltoniansk Monte Carlo eller Stokastisk Grad

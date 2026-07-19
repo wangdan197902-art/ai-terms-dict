@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /it/terms/experiment_tracking/
 date: "2026-07-18T15:59:06.352091Z"
 lastmod: "2026-07-18T17:15:08.624410Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il monitoraggio degli esperimenti è il processo sistematico di registrazione di metadati, metriche e artefatti derivanti da esperimenti di apprendimento automatico, al fine di garantire la riproducibi"
 ---
-
 ## Definition
 
 Questa pratica prevede la registrazione di iperparametri, versioni dei dataset, architetture dei modelli e metriche di prestazioni durante le esecuzioni di addestramento. Consente ai data scientist di confrontare diverse configurazioni sperimentali

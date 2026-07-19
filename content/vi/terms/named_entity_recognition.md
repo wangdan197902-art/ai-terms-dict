@@ -1,23 +1,24 @@
 ---
-title: "Nhận dạng thực thể có tên"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Nhận dạng thực thể có tên
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /vi/terms/named_entity_recognition/
-date: "2026-07-18T15:36:34.989864Z"
-lastmod: "2026-07-18T16:38:07.711595Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:36:34.989864Z'
+lastmod: '2026-07-18T16:38:07.711595Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nhiệm vụ xử lý ngôn ngữ tự nhiên nhằm xác định và phân loại các thực thể thông tin chính vào các danh mục đã định trước."
+source: agnes_llm
+status: published
+language: vi
+description: Một nhiệm vụ xử lý ngôn ngữ tự nhiên nhằm xác định và phân loại các thực
+  thể thông tin chính vào các danh mục đã định trước.
 ---
-
 ## Definition
 
 Nhận dạng thực thể có tên (NER) là một tác vụ con của trích xuất thông tin, nhằm tìm kiếm và phân loại các thực thể có tên trong văn bản vào các danh mục đã định trước như tên người, tổ chức, địa điểm, y tế...

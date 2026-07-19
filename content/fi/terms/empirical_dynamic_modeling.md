@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /fi/terms/empirical_dynamic_modeling/
 date: "2026-07-18T15:56:26.763613Z"
 lastmod: "2026-07-18T17:15:09.408115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Parametrinen tilastollinen lähestymistapa, jota käytetään monimutkaisten järjestelmien dynamiikan rekonstruoimiseen havaintoaikasarjadatasta."
 ---
-
 ## Definition
 
 Empiirinen dynaaminen mallintaminen (EDM) on viitekehys ei-lineaaristen dynaamisten järjestelmien analysoimiseen havaintodataa käyttäen olettamatta tiettyä parametrista muotoa. Se perustuu Takensin upotusmenetelmään...

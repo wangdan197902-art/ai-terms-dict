@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /sv/terms/biomedical/
 date: "2026-07-18T15:47:58.234757Z"
 lastmod: "2026-07-18T17:15:08.981618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Relaterat till tillämpningen av naturvetenskap på medicinsk praxis, ofta involverande beräkningsmässig analys av hälso-data."
 ---
-
 ## Definition
 
 Biomedicinsk avser skärningspunkten mellan biologi, medicin och teknik, särskilt inom utvecklingen av diagnostiska verktyg, behandlingar och dataanalysmetoder. Inom AI innebär detta tillämpning av maskininlärning för att tolka medicinska bilder, analysera genetiska data och stödja kliniska beslut.

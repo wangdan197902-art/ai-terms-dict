@@ -1,23 +1,24 @@
 ---
-title: "Paikkakoodaus"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Paikkakoodaus
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /fi/terms/positional_encoding/
-date: "2026-07-18T15:37:49.656057Z"
-lastmod: "2026-07-18T17:15:09.373404Z"
+slug: positional_encoding
+date: '2026-07-18T15:37:49.656057Z'
+lastmod: '2026-07-18T17:15:09.373404Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka lisää tietoa tokenien suhteellisesta tai absoluuttisesta sijainnista jonossa muuntajamalleihin."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka lisää tietoa tokenien suhteellisesta tai absoluuttisesta
+  sijainnista jonossa muuntajamalleihin.
 ---
-
 ## Definition
 
 Koska muuntajat käsittelevät kaikki tokenit rinnakkain eivätkä peräkkäin kuten rekursiiviset neuronaaliset verkot (RNN), niiltä puuttuu synnynnäinen tieto tokenien järjestyksestä. Paikkakoodaus lisää tiettyjä vektoreita syöte-embeddingsiin säilyttääkseen jonon rakenteen.

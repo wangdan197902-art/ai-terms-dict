@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /it/terms/reliability/
 date: "2026-07-18T16:18:55.432793Z"
 lastmod: "2026-07-18T17:15:08.665011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il grado con cui un sistema di intelligenza artificiale esegue costantemente e correttamente le proprie funzioni previste in modo sicuro, in condizioni specificate."
 ---
-
 ## Definition
 
 L'affidabilità nell'IA si riferisce all'attendibilità e alla coerenza del comportamento di un sistema nel tempo e tra input diversi. Un sistema di IA affidabile dovrebbe produrre risultati accurati, gestire casi limite e mantenere prestazioni stabili.

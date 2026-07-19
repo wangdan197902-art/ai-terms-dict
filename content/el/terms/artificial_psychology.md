@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /el/terms/artificial_psychology/
 date: "2026-07-18T15:51:14.208458Z"
 lastmod: "2026-07-18T17:15:09.881652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένας κλάδος που μελετά πώς να σχεδιάζονται συστήματα ΤΝ με γνωστικές αρχιτεκτονικές που μιμούνται τις ανθρώπινες ψυχολογικές διεργασίες."
 ---
-
 ## Definition
 
 Η Τεχνητή Ψυχολογία είναι ένας διαθεματικός τομέας που εστιάζει στον σχεδιασμό και την υλοποίηση γνωστικών αρχιτεκτονικών σε συστήματα ΤΝ. Αντλεί από τη γνωστική επιστήμη και την ψυχολογία για να μοντελοποιήσει την ανθρώπινη

@@ -1,23 +1,23 @@
 ---
-title: "one-step"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: one-step
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /id/terms/one_step/
-date: "2026-07-18T15:32:35.297897Z"
-lastmod: "2026-07-18T16:38:07.409731Z"
+slug: one_step
+date: '2026-07-18T15:32:35.297897Z'
+lastmod: '2026-07-18T16:38:07.409731Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Mengacu pada algoritma atau proses yang menyelesaikan tugas atau siklus pengambilan keputusan dalam satu iterasi tanpa penyempurnaan berulang."
+source: agnes_llm
+status: published
+language: id
+description: Mengacu pada algoritma atau proses yang menyelesaikan tugas atau siklus
+  pengambilan keputusan dalam satu iterasi tanpa penyempurnaan berulang.
 ---
-
 ## Definition
 
 Dalam pembelajaran mesin dan optimasi, metode one-step menyelesaikan masalah secara langsung tanpa memerlukan banyak iterasi atau pembaruan untuk konvergen. Berbeda dengan gradien descent yang membutuhkan banyak langkah untuk meminimalkan

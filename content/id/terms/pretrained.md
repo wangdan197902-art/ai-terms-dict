@@ -1,23 +1,24 @@
 ---
-title: "Pra-dilatih"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Pra-dilatih
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /id/terms/pretrained/
-date: "2026-07-18T16:04:33.709759Z"
-lastmod: "2026-07-18T16:38:07.495228Z"
+slug: pretrained
+date: '2026-07-18T16:04:33.709759Z'
+lastmod: '2026-07-18T16:38:07.495228Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Mengacu pada model yang telah dilatih pada dataset besar sebelum disesuaikan untuk tugas spesifik."
+source: agnes_llm
+status: published
+language: id
+description: Mengacu pada model yang telah dilatih pada dataset besar sebelum disesuaikan
+  untuk tugas spesifik.
 ---
-
 ## Definition
 
 Istilah 'pra-dilatih' menggambarkan model jaringan saraf yang telah menjalani pelatihan awal pada dataset masif, seringkali bersifat umum, seperti ImageNet atau Wikipedia. Proses ini memungkinkan model mempelajari fitur-fitur fundamental dan representasi hierarkis dari data. Model pra-dilatih kemudian dapat digunakan sebagai titik awal untuk tugas downstream melalui teknik transfer learning atau fine-tuning, yang secara signifikan mengurangi kebutuhan akan data dan komputasi dibandingkan melatih model dari nol.

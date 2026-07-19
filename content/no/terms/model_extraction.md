@@ -1,23 +1,23 @@
 ---
-title: "Modellekstraksjon"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: Modellekstraksjon
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /no/terms/model_extraction/
-date: "2026-07-18T16:21:49.443167Z"
-lastmod: "2026-07-18T16:38:07.059563Z"
+slug: model_extraction
+date: '2026-07-18T16:21:49.443167Z'
+lastmod: '2026-07-18T16:38:07.059563Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et angrep der en angriper spør en modell for å rekonstruere dens parametere eller lage en surrogatkopie."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et angrep der en angriper spør en modell for å rekonstruere dens parametere
+  eller lage en surrogatkopie.
 ---
-
 ## Definition
 
 Modellekstraksjon involverer å query (spørre) en målmaskinlæringsmodells API for å inferere dens interne struktur, vekter eller avgjørelsesgrenser. Angripere bruker disse spørringene til å bygge en surrogatmodell som etterligner den opprinnelige modellens atferd.

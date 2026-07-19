@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /ko/terms/direct/
 date: "2026-07-18T15:23:57.551270Z"
 lastmod: "2026-07-18T16:38:06.771526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "중간 복잡한 변환이나 잠재 표현 없이 입력을 출력으로 직접 매핑하는 방법이나 경로를 지칭합니다."
 ---
-
 ## Definition
 
 AI 맥락에서 '직접(Direct)'은 강화학습의 직접 정책 최적화나 직접 매핑 등에서 볼 수 있듯이, 중간 추상화 계층을 우회하여 입력에서 출력으로 바로 연결되는 아키텍처나 추론 경로를 설명하는 데 자주 사용됩니다.

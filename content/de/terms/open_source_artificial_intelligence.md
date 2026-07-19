@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /de/terms/open_source_artificial_intelligence/
 date: "2026-07-18T11:25:53.034815Z"
 lastmod: "2026-07-18T11:44:44.971681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Open-Source-KI bezeichnet künstliche Intelligenz-Software, Modelle und Tools, deren Quellcode öffentlich zugänglich ist, um ihn einzusehen, zu modifizieren und weiterzuverteilen."
 ---
-
 ## Definition
 
 Dieses Konzept umfasst das Ökosystem von KI-Technologien, die unter Lizenzen veröffentlicht werden, die freien Zugang zum zugrunde liegenden Code ermöglichen. Es fördert Transparenz, Zusammenarbeit und Innovation, indem es Entwicklern den Zugriff erlaubt.

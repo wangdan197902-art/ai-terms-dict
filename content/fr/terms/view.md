@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /fr/terms/view/
 date: "2026-07-18T10:56:11.584472Z"
 lastmod: "2026-07-18T11:44:45.176227Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une table virtuelle dans une base de données résultant d'une requête stockée, présentant des données provenant d'une ou plusieurs tables sans les stocker physiquement."
 ---
-
 ## Definition
 
 En gestion de base de données, une vue agit comme une requête SQL sauvegardée qui se comporte comme une table mais ne contient aucune donnée elle-même. Elle offre une perspective simplifiée ou personnalisée des données sous-jacentes, améliorant ainsi la sécurité.

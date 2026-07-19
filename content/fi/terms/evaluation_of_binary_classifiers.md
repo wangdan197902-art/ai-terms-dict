@@ -1,23 +1,24 @@
 ---
-title: "Binääriklassifikaattorien arviointi"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Binääriklassifikaattorien arviointi
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /fi/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:57:02.510089Z"
-lastmod: "2026-07-18T17:15:09.409359Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:57:02.510089Z'
+lastmod: '2026-07-18T17:15:09.409359Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa arvioidaan koneoppimismallien suorituskykyä, jotka ennustavat yhtä kahta mahdollista tulosta."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa arvioidaan koneoppimismallien suorituskykyä, jotka ennustavat
+  yhtä kahta mahdollista tulosta.
 ---
-
 ## Definition
 
 Tämä ala sisältää metrikkien kuten tarkkuuden (accuracy), tarkkuuden (precision), kaltevuuden (recall), F1-pisteen ja vastaanottajan toimintakäyrän alla olevan pinta-alan (AUC-ROC) analysoinnin. Se auttaa määrittämään, kuinka hyvin malli erottaa luokat toisistaan.

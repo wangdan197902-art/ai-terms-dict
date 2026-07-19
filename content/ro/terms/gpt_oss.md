@@ -1,23 +1,24 @@
 ---
-title: "Gpt Oss"
-term_id: "gpt_oss"
-category: "basic_concepts"
-subcategory: ""
-tags: ["open_source", "architecture", "deployment"]
+title: Gpt Oss
+term_id: gpt_oss
+category: basic_concepts
+subcategory: ''
+tags:
+- Open Source
+- architecture
+- deployment
 difficulty: 4
 weight: 1
-slug: "gpt_oss"
-aliases:
-  - /ro/terms/gpt_oss/
-date: "2026-07-18T16:00:34.401224Z"
-lastmod: "2026-07-18T17:15:09.661709Z"
+slug: gpt_oss
+date: '2026-07-18T16:00:34.401224Z'
+lastmod: '2026-07-18T17:15:09.661709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Se referă la implementări sau variante de arhitecturi similare GPT care sunt software open-source (OSS) și disponibile public pentru modificare și distribuție."
+source: agnes_llm
+status: published
+language: ro
+description: Se referă la implementări sau variante de arhitecturi similare GPT care
+  sunt software open-source (OSS) și disponibile public pentru modificare și distribuție.
 ---
-
 ## Definition
 
 GPT OSS denotă de obicei alternative sau derivate open-source ale modelelor Generative Pre-trained Transformer proprietare. Aceste proiecte permit dezvoltatorilor să acceseze, să modifice și să implementeze modele mari de limbaj local sau în infrastructuri proprii.

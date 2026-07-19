@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /sv/terms/latent/
 date: "2026-07-18T15:28:16.200219Z"
 lastmod: "2026-07-18T17:15:08.945085Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser dolda, underliggande variabler eller representationer i modellens interna utrymme som fångar väsentliga drag hos data."
 ---
-
 ## Definition
 
 Inom maskininlärning är latenta variabler obeserverade faktorer som påverkar observerad data. I neuronnät, särskilt autoenkoder och diffusionsmodeller, representerar latentutrymmen komprimerade, abstrakta

@@ -1,23 +1,25 @@
 ---
-title: "Προεκπαίδευση"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Προεκπαίδευση
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /el/terms/pre_training/
-date: "2026-07-18T15:30:28.352661Z"
-lastmod: "2026-07-18T17:15:09.851834Z"
+slug: pre_training
+date: '2026-07-18T15:30:28.352661Z'
+lastmod: '2026-07-18T17:15:09.851834Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η αρχική φάση εκπαίδευσης ενός μοντέλου μηχανικής μάθησης σε ένα μεγάλο, μη ετικετοποιημένο σύνολο δεδομένων για την εκμάθηση γενικών αναπαραστάσεων πριν από τη λεπτομερή προσαρμογή (fine-tuning) σε σ"
+source: agnes_llm
+status: published
+language: el
+description: Η αρχική φάση εκπαίδευσης ενός μοντέλου μηχανικής μάθησης σε ένα μεγάλο,
+  μη ετικετοποιημένο σύνολο δεδομένων για την εκμάθηση γενικών αναπαραστάσεων πριν
+  από τη λεπτομερή προσαρμογή (fine-tuning) σε σ
 ---
-
 ## Definition
 
 Η προεκπαίδευση είναι μια θεμελιώδης τεχνική στη βαθιά μάθηση όπου ένα μοντέλο μαθαίνει ευρεία χαρακτηριστικά και μοτίβα από τεράστιες ποσότητες δεδομένων, συχνά χωρίς ετικέτες. Αυτή η διαδικασία επιτρέπει στο μοντέλο να αναπτύξει...

@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /pt/terms/explanation_based_learning/
 date: "2026-07-18T14:59:43.878559Z"
 lastmod: "2026-07-18T15:51:59.490022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O aprendizado baseado em explicação é um método de aprendizado de máquina que utiliza uma teoria de domínio e um único exemplo de treinamento para gerar uma explicação, que é então generalizada em uma"
 ---
-
 ## Definition
 
 O ABE combina raciocínio simbólico com aprendizado de máquina para acelerar o processo de aprendizado. Em vez de depender de grandes conjuntos de dados, ele utiliza um único exemplo positivo e uma teoria de domínio pré-existente

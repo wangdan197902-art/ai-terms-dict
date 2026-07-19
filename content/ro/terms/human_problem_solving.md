@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /ro/terms/human_problem_solving/
 date: "2026-07-18T16:03:21.207633Z"
 lastmod: "2026-07-18T17:15:09.665888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul cognitiv prin care indivizii identifică, analizează și rezolvă probleme complexe folosind raționamentul, creativitatea și experiența."
 ---
-
 ## Definition
 
 Rezolvarea problemelor de către oameni cuprinde abilitățile cognitive multifacete pe care le folosesc oamenii pentru a naviga provocările, de la sarcini simple la dificultăți conceptuale abstracte. Spre deosebire de abordările algoritmice...

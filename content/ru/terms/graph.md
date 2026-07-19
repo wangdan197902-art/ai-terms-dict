@@ -1,23 +1,24 @@
 ---
-title: "Граф"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Граф
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /ru/terms/graph/
-date: "2026-07-18T15:25:47.780982Z"
-lastmod: "2026-07-18T16:38:07.077429Z"
+slug: graph
+date: '2026-07-18T15:25:47.780982Z'
+lastmod: '2026-07-18T16:38:07.077429Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Математическая структура, состоящая из узлов, соединенных ребрами, используемая для представления отношений между сущностями."
+source: agnes_llm
+status: published
+language: ru
+description: Математическая структура, состоящая из узлов, соединенных ребрами, используемая
+  для представления отношений между сущностями.
 ---
-
 ## Definition
 
 Граф — это фундаментальная структура данных в ИИ, состоящая из вершин (узлов) и ребер (связей), обозначающих отношения. Графовые нейронные сети (GNN) используют эту структуру для выполнения обучения на неевклидовых данных.

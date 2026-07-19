@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /it/terms/natural_language_processing/
 date: "2026-07-18T15:27:27.158629Z"
 lastmod: "2026-07-18T17:15:08.570658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un ramo dell'IA focalizzato sulla capacità dei computer di comprendere, interpretare e generare il linguaggio umano."
 ---
-
 ## Definition
 
 L'Elaborazione del Linguaggio Naturale (NLP) è un sottocampo dell'intelligenza artificiale che combina la linguistica computazionale con modelli statistici, di apprendimento automatico e di deep learning. Consente alle macchine di elaborare e generare testo o parlato umano in modo naturale e significativo.

@@ -1,23 +1,25 @@
 ---
-title: "Εικόνα σε Βίντεο"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Εικόνα σε Βίντεο
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /el/terms/image_to_video/
-date: "2026-07-18T16:14:24.467865Z"
-lastmod: "2026-07-18T17:15:09.919580Z"
+slug: image_to_video
+date: '2026-07-18T16:14:24.467865Z'
+lastmod: '2026-07-18T17:15:09.919580Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια γεννητική διαδικασία κατά την οποία μια στατική εικόνα αναζωογονείται για να δημιουργήσει ένα σύντομο βιντεοσκοπημένο κλιπ, προσθέτοντας χρονική δυναμική και κίνηση."
+source: agnes_llm
+status: published
+language: el
+description: Μια γεννητική διαδικασία κατά την οποία μια στατική εικόνα αναζωογονείται
+  για να δημιουργήσει ένα σύντομο βιντεοσκοπημένο κλιπ, προσθέτοντας χρονική δυναμική
+  και κίνηση.
 ---
-
 ## Definition
 
 Η τεχνολογία Εικόνα σε Βίντεο λαμβάνει ένα μόνο στατικό πλαίσιο και προβλέπει τα επόμενα πλαίσια για να παράγει μια συνεκτική ακολουθία βίντεο. Αυτό περιλαμβάνει τη μοντελοποίηση χρονικής συνέπειας και φυσικής δυναμικής για να διασφαλιστεί η ρεαλιστικότητα της κίνησης.

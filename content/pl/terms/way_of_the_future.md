@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /pl/terms/way_of_the_future/
 date: "2026-07-18T16:22:25.304264Z"
 lastmod: "2026-07-18T17:15:08.928094Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Termin ten odnosi się przeważnie do przewidywanej trajektorii rozwoju technologicznego, szczególnie w zakresie integracji AI z codziennym życiem i przemysłem."
 ---
-
 ## Definition
 
 Choć nie jest to ścisły termin techniczny, 'Droga ku przyszłości' opisuje zmianę paradygmatu w kierunku systemów autonomicznych, spersonalizowanych asystentów AI i zautomatyzowanych procesów decyzyjnych. Obejmuje ona...

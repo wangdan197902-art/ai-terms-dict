@@ -1,23 +1,23 @@
 ---
-title: "逆伝播法"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: 逆伝播法
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /ja/terms/backpropagation/
-date: "2026-07-18T07:41:47.407822Z"
-lastmod: "2026-07-18T11:44:44.585907Z"
+slug: backpropagation
+date: '2026-07-18T07:41:47.407822Z'
+lastmod: '2026-07-18T11:44:44.585907Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "誤差を最小化するための勾配を計算してニューラルネットワークを訓練するために広く使用されるアルゴリズム。"
+source: agnes_llm
+status: published
+language: ja
+description: 誤差を最小化するための勾配を計算してニューラルネットワークを訓練するために広く使用されるアルゴリズム。
 ---
-
 ## Definition
 
 逆伝播法（バックプロパゲーション）は、誤差の逆伝播の略で、人工ニューラルネットワークにおいて損失関数に対する重みの勾配を計算するために使用される手法です。これは、逆方向に伝播させることで機能します。

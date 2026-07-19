@@ -1,23 +1,24 @@
 ---
-title: "การอ้างอิง"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: การอ้างอิง
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /th/terms/citation/
-date: "2026-07-18T15:45:22.471859Z"
-lastmod: "2026-07-18T16:38:07.583735Z"
+slug: citation
+date: '2026-07-18T15:45:22.471859Z'
+lastmod: '2026-07-18T16:38:07.583735Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การอ้างอิงในปัญญาประดิษฐ์หมายถึงการระบุแหล่งที่มาของข้อมูลหรือวัสดุที่ใช้ภายในข้อความที่สร้างโดยโมเดล เพื่อความโปร่งใสและการปฏิบัติตามสิทธิ์ในทรัพย์สินทางปัญญา"
+source: agnes_llm
+status: published
+language: th
+description: การอ้างอิงในปัญญาประดิษฐ์หมายถึงการระบุแหล่งที่มาของข้อมูลหรือวัสดุที่ใช้ภายในข้อความที่สร้างโดยโมเดล
+  เพื่อความโปร่งใสและการปฏิบัติตามสิทธิ์ในทรัพย์สินทางปัญญา
 ---
-
 ## Definition
 
 เมื่อโมเดลปัญญาประดิษฐ์แบบกำเนิด (generative AI) สร้างเนื้อหา ความจำเป็นในการใช้กลไกการอ้างอิงจึงเกิดขึ้นเพื่อรักษาความซื่อสัตย์ทางวิชาการและการปฏิบัติตามกฎหมาย สิ่งนี้เกี่ยวข้องกับการฝังการอ้างอิงถึงแหล่งข้อมูลดั้งเดิมไว้ใน

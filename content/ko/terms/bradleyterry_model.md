@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /ko/terms/bradleyterry_model/
 date: "2026-07-18T15:44:26.210034Z"
 lastmod: "2026-07-18T16:38:06.814937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "쌍별 비교 데이터를 분석하여 한 항목이 다른 항목보다 선호될 확률을 추정하는 데 사용되는 통계 모델입니다."
 ---
-
 ## Definition
 
 브래들리-테리 모델은 심리측정학과 머신러닝에서 쌍별 비교를 처리하기 위해 널리 사용되는 확률 모델입니다. 이 모델은 각 항목에 잠재 점수를 할당하여, 특정 항목이 다른 항목보다 선호될 확률을 계산합니다. 일반적으로 로지스틱 회귀의 일종으로 간주되며, 순위 데이터나 선호도 데이터를 모델링하는 데 효과적입니다.

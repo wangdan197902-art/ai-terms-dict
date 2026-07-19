@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /sv/terms/api/
 date: "2026-07-18T15:22:10.153262Z"
 lastmod: "2026-07-18T17:15:08.934896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett applikationsprogrammeringsgränssnitt som låter olika mjukvarusystem kommunicera och utbyta data."
 ---
-
 ## Definition
 
 Ett API definierar en uppsättning protokoll och verktyg för att bygga mjukvara och applikationer. Inom AI möjliggör API:er utvecklare att komma åt kraftfulla modeller som LLM eller bildgeneratorer utan att behöva hosta dem lokalt.

@@ -1,23 +1,26 @@
 ---
-title: "Descendența Gradientului Stohastic Diferențial Privată"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Descendența Gradientului Stohastic Diferențial Privată
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /ro/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:54:27.735134Z"
-lastmod: "2026-07-18T17:15:09.648089Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:54:27.735134Z'
+lastmod: '2026-07-18T17:15:09.648089Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un algoritm de optimizare care modifică SGD standard prin cliparea gradientelor și adăugarea de zgomot pentru a asigura ca modelul antrenat să respecte constrângerile de confidențialitate diferențială"
+source: agnes_llm
+status: published
+language: ro
+description: Un algoritm de optimizare care modifică SGD standard prin cliparea gradientelor
+  și adăugarea de zgomot pentru a asigura ca modelul antrenat să respecte constrângerile
+  de confidențialitate diferențială
 ---
-
 ## Definition
 
 DP-SGD este o variantă a Descendenței Gradientului Stohastic concepută pentru a proteja confidențialitatea datelor de antrenament. Funcționează prin cliparea contribuției gradientului fiecărei mostre pentru a limita sensibilitatea, apoi adăugând zgomot Gaussian.

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /th/terms/diffusersltxpipeline/
-date: "2026-07-18T15:50:17.434105Z"
-lastmod: "2026-07-18T16:38:07.599064Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:50:17.434105Z'
+lastmod: '2026-07-18T16:38:07.599064Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การนำไปใช้เส้นทางการทำงานใน Diffusers ที่ปรับให้เหมาะสมสำหรับโมเดล LTX (Lightning Text-to-Video หรือการสร้างเนื้อหาความเร็วสูงอื่นๆ) โดยเน้นที่การอนุมานที่รวดเร็ว"
+source: agnes_llm
+status: published
+language: th
+description: การนำไปใช้เส้นทางการทำงานใน Diffusers ที่ปรับให้เหมาะสมสำหรับโมเดล LTX
+  (Lightning Text-to-Video หรือการสร้างเนื้อหาความเร็วสูงอื่นๆ) โดยเน้นที่การอนุมานที่รวดเร็ว
 ---
-
 ## Definition
 
 เส้นทางการทำงาน LTX ถูกปรับแต่งสำหรับโมเดลที่ให้ความสำคัญกับความเร็วและประสิทธิภาพในงานสร้างเนื้อหา มักใช้วิธีการสุ่มตัวอย่างแบบกลั่นกรองหรือเร่งความเร็ว มันผสานรวมได้อย่างราบรื่นกับ Diffusers

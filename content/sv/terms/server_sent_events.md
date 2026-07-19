@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /sv/terms/server_sent_events/
 date: "2026-07-18T16:20:22.479431Z"
 lastmod: "2026-07-18T17:15:09.046944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett standardprotokoll som gör det möjligt för webbserver att skicka realtidsuppdateringar till klienter över en enda HTTP-anslutning."
 ---
-
 ## Definition
 
 Server-sända händelser (SSE) möjliggör enkelriktad kommunikation från servern till klienten, där servern kan strömma data kontinuerligt utan att klienten behöver polla upprepade gånger. Det använder vanlig HTTP, vilket gör det enkelt att implementera.

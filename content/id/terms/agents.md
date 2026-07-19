@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /id/terms/agents/
 date: "2026-07-18T15:23:13.605950Z"
 lastmod: "2026-07-18T16:38:07.388467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Entitas otonom yang memahami lingkungannya dan mengambil tindakan untuk mencapai tujuan tertentu."
 ---
-
 ## Definition
 
 Agen AI adalah program perangkat lunak atau sistem yang mampu memahami sekitarnya melalui sensor (masukan), memproses informasi, dan mengeksekusi tindakan melalui aktuator (keluaran) untuk mencapai tujuan yang ditentukan

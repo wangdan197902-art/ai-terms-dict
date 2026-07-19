@@ -1,23 +1,24 @@
 ---
-title: "Lähellä olevan gradientin menetelmät oppimiseen"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: Lähellä olevan gradientin menetelmät oppimiseen
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /fi/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T16:17:02.608269Z"
-lastmod: "2026-07-18T17:15:09.446745Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T16:17:02.608269Z'
+lastmod: '2026-07-18T17:15:09.446745Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Optimointialgoritmit, jotka on suunniteltu minimoimaan yhdistettyjä tavoitefunktioita, joissa on sekä sileitä että epäsileitä komponentteja."
+source: agnes_llm
+status: published
+language: fi
+description: Optimointialgoritmit, jotka on suunniteltu minimoimaan yhdistettyjä tavoitefunktioita,
+  joissa on sekä sileitä että epäsileitä komponentteja.
 ---
-
 ## Definition
 
 Lähellä olevan gradientin menetelmät ovat iteraattisia optimointitekniikoita, joita käytetään, kun häviöfunktiossa on eriytyvä sileä termi ja eriyttämätön säännöstäjä, kuten L1-normaali. Algoritmi laskee gradientin sileälle osalle ja soveltaa lähellä olevaa operaattoria epäsileälle osalle.

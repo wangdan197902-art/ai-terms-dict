@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /nl/terms/prompt_engineering/
 date: "2026-07-18T15:22:08.358910Z"
 lastmod: "2026-07-18T17:15:08.677553Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De praktijk van het ontwerpen en optimaliseren van invoerteksten om grote taalmodellen naar gewenste uitvoer te leiden."
 ---
-
 ## Definition
 
 Prompt engineering houdt in dat specifieke invoeren, zogenaamde prompts, worden samengesteld om nauwkeurige, relevante en hoogwaardige reacties op te roepen bij generatieve AI-modellen. Het vereist inzicht in hoe modellen input interpreteren en hoe ze reageren op gestructureerde instructies.

@@ -7,8 +7,6 @@ tags: ["conference", "ethics", "fraud"]
 difficulty: 2
 weight: 1
 slug: "the_ai_con"
-aliases:
-  - /id/terms/the_ai_con/
 date: "2026-07-18T16:11:10.606961Z"
 lastmod: "2026-07-18T16:38:07.514956Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "The AI Con adalah konferensi yang berfokus pada pengungkapan penipuan, scam, dan isu etika dalam industri kecerdasan buatan."
 ---
-
 ## Definition
 
 The AI Con adalah acara tahunan yang didedikasikan untuk menyelidiki dan menyoroti praktik menipu, klaim yang dibesar-besarkan, serta kerentanan keamanan di sektor AI. Berbeda dengan konferensi teknologi umum yang sering kali mempromosikan produk, acara ini lebih menekankan pada investigasi dan perlindungan konsumen.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /zh/terms/multi_modality/
 date: "2026-07-18T11:26:49.234903Z"
 lastmod: "2026-07-18T11:44:45.534315Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "多模态性是机器学习架构中使用多种不同类型数据的更广泛概念或研究领域。"
 ---
-
 ## Definition
 
 多模态性代表了使人工智能模型能够处理异构数据流的架构和理论框架。它涉及设计能够接受来自各种来源输入的神经网络，从而实现复杂环境下的综合感知与决策。

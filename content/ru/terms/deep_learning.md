@@ -1,23 +1,24 @@
 ---
-title: "Глубокое обучение"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: Глубокое обучение
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /ru/terms/deep_learning/
-date: "2026-07-18T15:22:43.890368Z"
-lastmod: "2026-07-18T16:38:07.069022Z"
+slug: deep_learning
+date: '2026-07-18T15:22:43.890368Z'
+lastmod: '2026-07-18T16:38:07.069022Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подмножество машинного обучения, использующее многослойные искусственные нейронные сети для моделирования сложных закономерностей и представлений в данных."
+source: agnes_llm
+status: published
+language: ru
+description: Подмножество машинного обучения, использующее многослойные искусственные
+  нейронные сети для моделирования сложных закономерностей и представлений в данных.
 ---
-
 ## Definition
 
 Алгоритмы глубокого обучения пытаются имитировать аналитические и обучающие процессы человеческого мозга. Путем многократного наложения взаимосвязанных слоев эти модели могут изучать иерархические признаки из больших объемов необработанных данных.

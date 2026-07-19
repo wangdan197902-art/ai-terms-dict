@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /th/terms/mobilenet/
 date: "2026-07-18T16:05:52.068139Z"
 lastmod: "2026-07-18T16:38:07.632639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "MobileNet เป็นตระกูลของเครือข่ายประสาทเทียมแบบลึกที่มีขนาดกะทัดรัด ออกแบบมาเพื่อการใช้งานด้านการมองเห็นบนอุปกรณ์มือถือและระบบฝังตัว"
 ---
-
 ## Definition
 
 MobileNet ใช้การคอนโวลูชันแบบแยกส่วนเชิงลึก (depthwise separable convolutions) เพื่อลดต้นทุนในการคำนวณและขนาดของโมเดลอย่างมีนัยสำคัญเมื่อเทียบกับการคอนโวลูชันมาตรฐาน สถาปัตยกรรมนี้ช่วยให้สามารถสกัดคุณลักษณะได้อย่างมีประสิทธิภาพบน

@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /zh/terms/knowledge/
 date: "2026-07-18T10:52:05.447714Z"
 lastmod: "2026-07-18T11:44:45.372759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "知识是从信息、经验或推理中得出的结构化理解、事实、技能和见解，能够支持有效的决策制定。"
 ---
-
 ## Definition
 
 在人工智能中，知识通常指存储在数据库、本体论或神经网络权重中的显式信息，这些信息允许进行推理和推断。在 DIKW（数据-信息-知识-智慧）层级结构中，知识位于信息之上，代表了更高层次的结构化和可操作的理解。

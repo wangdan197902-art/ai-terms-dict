@@ -1,23 +1,22 @@
 ---
-title: "오픈 웨이트"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: 오픈 웨이트
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /ko/terms/open_weight/
-date: "2026-07-18T15:32:37.788016Z"
-lastmod: "2026-07-18T16:38:06.790969Z"
+slug: open_weight
+date: '2026-07-18T15:32:37.788016Z'
+lastmod: '2026-07-18T16:38:06.790969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "학습된 파라미터(가중치)는 공개되지만, 학습 코드와 데이터셋은 비공개일 수 있는 AI 모델."
+source: agnes_llm
+status: published
+language: ko
+description: 학습된 파라미터(가중치)는 공개되지만, 학습 코드와 데이터셋은 비공개일 수 있는 AI 모델.
 ---
-
 ## Definition
 
 오픈 웨이트 모델은 최종 학습된 파라미터만 공개될 뿐, 이를 생성하는 데 사용된 인프라나 데이터가 반드시 공개되는 것은 아니라는 점에서 완전한 오픈 소스와 구별됩니다. 이를 통해 사용자는 모델을 직접 실행하거나 파생 모델을 만들 수 있습니다.

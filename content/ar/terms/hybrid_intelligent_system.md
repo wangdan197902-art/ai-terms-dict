@@ -1,23 +1,24 @@
 ---
-title: "النظام الذكي الهجين"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: النظام الذكي الهجين
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /ar/terms/hybrid_intelligent_system/
-date: "2026-07-18T16:01:33.859508Z"
-lastmod: "2026-07-18T17:15:08.513409Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T16:01:33.859508Z'
+lastmod: '2026-07-18T17:15:08.513409Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بنية تحتية للذكاء الاصطناعي تجمع بين تقنيات متعددة للذكاء الحسابي، مثل الشبكات العصبية والمنطق الرمزي، لحل المشكلات المعقدة."
+source: agnes_llm
+status: published
+language: ar
+description: بنية تحتية للذكاء الاصطناعي تجمع بين تقنيات متعددة للذكاء الحسابي، مثل
+  الشبكات العصبية والمنطق الرمزي، لحل المشكلات المعقدة.
 ---
-
 ## Definition
 
 يجمع النظام الذكي الهجين (HIS) بين نماذج ذكاء اصطناعي مختلفة، وغالباً ما يدمج النهج الترابطي مثل الشبكات العصبية مع الأساليب الرمزية مثل الأنظمة الخبيرة أو المنطق الضبابي. هذا التكامل

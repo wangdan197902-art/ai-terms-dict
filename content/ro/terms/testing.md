@@ -1,23 +1,24 @@
 ---
-title: "Testare"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testare
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /ro/terms/testing/
-date: "2026-07-18T15:38:35.785325Z"
-lastmod: "2026-07-18T17:15:09.619625Z"
+slug: testing
+date: '2026-07-18T15:38:35.785325Z'
+lastmod: '2026-07-18T17:15:09.619625Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul sistematic de evaluare a performanței și fiabilității unui model AI pe date necunoscute pentru a asigura calitatea și siguranța."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul sistematic de evaluare a performanței și fiabilității unui model
+  AI pe date necunoscute pentru a asigura calitatea și siguranța.
 ---
-
 ## Definition
 
 Testarea în ingineria AI implică evaluarea riguroasă a modelelor împotriva diverselor seturi de date pentru a identifica bias-uri, erori și probleme de robustețe. Include teste unitare pentru componentele de cod, teste de integrare și altele.

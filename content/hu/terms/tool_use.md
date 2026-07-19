@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /hu/terms/tool_use/
 date: "2026-07-18T15:40:10.453388Z"
 lastmod: "2026-07-18T17:15:09.746204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy olyan paradigma, ahol az AI ügynökök külső funkciókat vagy API-kat választanak ki és hajtanak végre specifikus feladatok elvégzésére, amelyek meghaladják natív képességeiket."
 ---
-
 ## Definition
 
 Az eszközhasználat lehetővé teszi a nyelvi modellek számára, hogy interakcióba lépjenek külső szoftveres környezetekkel előre definiált függvények hívása révén, például számológépek, keresőmotorok vagy adatbázis-lekérdezések használatával. Ez a megközelítés kibővíti a mo

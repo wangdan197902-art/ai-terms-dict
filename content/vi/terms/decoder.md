@@ -1,23 +1,24 @@
 ---
-title: "Bộ giải mã"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Bộ giải mã
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /vi/terms/decoder/
-date: "2026-07-18T15:34:18.102891Z"
-lastmod: "2026-07-18T16:38:07.707777Z"
+slug: decoder
+date: '2026-07-18T15:34:18.102891Z'
+lastmod: '2026-07-18T16:38:07.707777Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thành phần mạng nơ-ron chịu trách nhiệm tạo ra các chuỗi đầu ra từ các biểu diễn tiềm ẩn đã được mã hóa."
+source: agnes_llm
+status: published
+language: vi
+description: Một thành phần mạng nơ-ron chịu trách nhiệm tạo ra các chuỗi đầu ra từ
+  các biểu diễn tiềm ẩn đã được mã hóa.
 ---
-
 ## Definition
 
 Trong các mô hình tuần tự sang tuần tự (sequence-to-sequence), bộ giải mã nhận vectơ ngữ cảnh do bộ mã hóa tạo ra và tạo ra đầu ra mục tiêu từng bước. Nó sử dụng cơ chế chú ý (attention) để tập trung vào các phần liên quan của đầu vào nhằm cải thiện độ chính xác của chuỗi đầu ra.

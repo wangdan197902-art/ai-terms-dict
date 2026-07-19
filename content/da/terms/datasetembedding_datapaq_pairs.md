@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /da/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:49:28.823442Z"
 lastmod: "2026-07-18T17:15:09.275298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et datasæt i stor skala med spørgsmål-svar-par udledt fra Wikipedia, designet til træning af tæt passage-hentning."
 ---
-
 ## Definition
 
 PAQ-datasættet (Pseudo-Answer Quality) indeholder millioner af automatisk genererede spørgsmål-svar-par udtrukket fra Wikipedia. Det er specifikt konstrueret til at træne tætte henter ved at give

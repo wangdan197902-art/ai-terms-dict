@@ -1,23 +1,24 @@
 ---
-title: "Programmering ved eksempel"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Programmering ved eksempel
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /da/terms/programming_by_example/
-date: "2026-07-18T16:12:54.224707Z"
-lastmod: "2026-07-18T17:15:09.323402Z"
+slug: programming_by_example
+date: '2026-07-18T16:12:54.224707Z'
+lastmod: '2026-07-18T17:15:09.323402Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En AI-teknik, hvor programmer syntetiseres automatisk ved at inferere regler fra input-output-eksempler, der leveres af brugere."
+source: agnes_llm
+status: published
+language: da
+description: En AI-teknik, hvor programmer syntetiseres automatisk ved at inferere
+  regler fra input-output-eksempler, der leveres af brugere.
 ---
-
 ## Definition
 
 Programmering ved Eksempel (PBE) er et paradigme inden for programsyntese, hvor udviklere specificerer ønsket adfærd gennem konkrete input-output-par frem for at skrive eksplicit kode. AI-systemet analyserer...

@@ -1,23 +1,25 @@
 ---
-title: "Έλεγχος δύναμης"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Έλεγχος δύναμης
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /el/terms/force_control/
-date: "2026-07-18T16:07:57.397473Z"
-lastmod: "2026-07-18T17:15:09.909489Z"
+slug: force_control
+date: '2026-07-18T16:07:57.397473Z'
+lastmod: '2026-07-18T17:15:09.909489Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο έλεγχος δύναμης είναι μια ρομποτική τεχνική που ρυθμίζει τις δυνάμεις αλληλεπίδρασης μεταξύ του τελικού εκτελεστή ενός ρομπότ και του περιβάλλοντός του κατά τη διάρκεια φυσικών εργασιών."
+source: agnes_llm
+status: published
+language: el
+description: Ο έλεγχος δύναμης είναι μια ρομποτική τεχνική που ρυθμίζει τις δυνάμεις
+  αλληλεπίδρασης μεταξύ του τελικού εκτελεστή ενός ρομπότ και του περιβάλλοντός του
+  κατά τη διάρκεια φυσικών εργασιών.
 ---
-
 ## Definition
 
 Ο έλεγχος δύναμης επιτρέπει στα ρομπότ να εκτελούν ευαίσθητες εργασίες, όπως συναρμολόγηση, λείανση ή πάτημα εύθραυστων αντικειμένων, διαχειριζόμενοι ενεργά την επαφική δύναμη αντί απλώς τη θέση. Σε αντίθεση με τον καθαρό έλεγχο θέσης

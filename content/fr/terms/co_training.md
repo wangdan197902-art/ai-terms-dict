@@ -1,23 +1,25 @@
 ---
-title: "Co-apprentissage"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Co-apprentissage
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /fr/terms/co_training/
-date: "2026-07-18T11:08:11.691292Z"
-lastmod: "2026-07-18T11:44:45.207834Z"
+slug: co_training
+date: '2026-07-18T11:08:11.691292Z'
+lastmod: '2026-07-18T11:44:45.207834Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le co-apprentissage est un algorithme d'apprentissage semi-supervisé où deux vues des données sont utilisées pour entraîner des classificateurs séparés qui étiquettent itérativement les données non ét"
+source: agnes_llm
+status: published
+language: fr
+description: Le co-apprentissage est un algorithme d'apprentissage semi-supervisé
+  où deux vues des données sont utilisées pour entraîner des classificateurs séparés
+  qui étiquettent itérativement les données non ét
 ---
-
 ## Definition
 
 Cette méthode exploite plusieurs ensembles de caractéristiques distincts (vues) des mêmes points de données. Initialement, deux classificateurs sont entraînés sur de petits ensembles de données étiquetés provenant de chaque vue. Ils prédisent ensuite les étiquettes pour les données non étiquetées

@@ -1,23 +1,24 @@
 ---
-title: "Algoritmische waarschijnlijkheid"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Algoritmische waarschijnlijkheid
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /nl/terms/algorithmic_probability/
-date: "2026-07-18T15:42:12.631595Z"
-lastmod: "2026-07-18T17:15:08.716059Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:42:12.631595Z'
+lastmod: '2026-07-18T17:15:08.716059Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een theoretische maat voor de waarschijnlijkheid dat een willekeurig programma een specifieke uitvoerstring produceert."
+source: agnes_llm
+status: published
+language: nl
+description: Een theoretische maat voor de waarschijnlijkheid dat een willekeurig
+  programma een specifieke uitvoerstring produceert.
 ---
-
 ## Definition
 
 Algoritmische waarschijnlijkheid, geworteld in de Kolmogorov-complexiteit en Solomonoff-inductie, wijst een hogere waarschijnlijkheid toe aan uitvoeren die worden gegenereerd door kortere programma's. Het stelt dat eenvoudigere verklaringen waarschijnlijker zijn.

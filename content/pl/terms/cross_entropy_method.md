@@ -1,23 +1,24 @@
 ---
-title: "Metoda krzyżowej entropii"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Metoda krzyżowej entropii
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /pl/terms/cross_entropy_method/
-date: "2026-07-18T15:48:10.675037Z"
-lastmod: "2026-07-18T17:15:08.858593Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:48:10.675037Z'
+lastmod: '2026-07-18T17:15:08.858593Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Zrandomizowana technika optymalizacji, która wykorzystuje symulację Monte Carlo do iteracyjnego ulepszania oszacowań prawdopodobieństw rzadkich zdarzeń."
+source: agnes_llm
+status: published
+language: pl
+description: Zrandomizowana technika optymalizacji, która wykorzystuje symulację Monte
+  Carlo do iteracyjnego ulepszania oszacowań prawdopodobieństw rzadkich zdarzeń.
 ---
-
 ## Definition
 
 Metoda Krzyżowej Entropii (CEM) to potężny algorytm optymalizacji ogólnego przeznaczenia stosowany zarówno w problemach dyskretnych, jak i ciągłych. Działa poprzez utrzymanie rozkładu prawdopodobieństwa nad przestrzenią wyszukiwania...

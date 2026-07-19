@@ -1,23 +1,26 @@
 ---
-title: "Differentiaalisesti yksityinen stokastinen gradienttipudotus"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Differentiaalisesti yksityinen stokastinen gradienttipudotus
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /fi/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:54:22.731750Z"
-lastmod: "2026-07-18T17:15:09.404009Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:54:22.731750Z'
+lastmod: '2026-07-18T17:15:09.404009Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Optimointialgoritmi, joka muokkaa tavallista SGD-algoritmia leikkaamalla gradientteja ja lisäämällä häiriöitä varmistaakseen, että koulutettu malli täyttää differentiaalisen yksityisyyden vaatimukset."
+source: agnes_llm
+status: published
+language: fi
+description: Optimointialgoritmi, joka muokkaa tavallista SGD-algoritmia leikkaamalla
+  gradientteja ja lisäämällä häiriöitä varmistaakseen, että koulutettu malli täyttää
+  differentiaalisen yksityisyyden vaatimukset.
 ---
-
 ## Definition
 
 DP-SGD on variantti stokastisesta gradienttipudotuksesta, joka on suunniteltu suojaamaan koulutusdatan yksityisyyttä. Se toimii leikkaamalla jokaisen näytteen gradientin vaikutusta herkkyyden rajoittamiseksi ja lisäämällä sitten Gaussista häiriötä.

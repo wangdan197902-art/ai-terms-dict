@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /ro/terms/math/
 date: "2026-07-18T16:11:04.657714Z"
 lastmod: "2026-07-18T17:15:09.679522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Disciplina fundamentală care implică numere, structuri, spațiu și schimbare, esențială pentru formularea și rezolvarea problemelor de AI."
 ---
-
 ## Definition
 
 În contextul inteligenței artificiale, matematica oferă cadrul teoretic pentru proiectarea și analiza algoritmilor. Branchile cheie includ algebra liniară pentru reprezentarea datelor, calculul diferențial pentru optimizare și teoria probabilităților pentru modelarea incertitudinii.

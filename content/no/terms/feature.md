@@ -1,23 +1,24 @@
 ---
-title: "Egenskap"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Egenskap
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /no/terms/feature/
-date: "2026-07-18T15:54:13.376933Z"
-lastmod: "2026-07-18T16:38:07.000052Z"
+slug: feature
+date: '2026-07-18T15:54:13.376933Z'
+lastmod: '2026-07-18T16:38:07.000052Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En individuell målbart egenskap eller karakteristika ved et fenomen som observeres, som fungerer som inndata for maskinlæringsmodeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: En individuell målbart egenskap eller karakteristika ved et fenomen som
+  observeres, som fungerer som inndata for maskinlæringsmodeller.
 ---
-
 ## Definition
 
 Innan maskinlæring er en egenskap en distinkt attributt eller variabel som beskriver en instans i et datasett. Egenskaper kan være numeriske, kategoriske eller tekstlige, og de fungerer som den fundamentale inndataen.

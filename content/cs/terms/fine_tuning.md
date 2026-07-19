@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /cs/terms/fine_tuning/
 date: "2026-07-18T15:23:01.660671Z"
 lastmod: "2026-07-18T17:15:09.062786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces přizpůsobení předtrénovaného modelu konkrétnímu úkolu pomocí menší datové sady."
 ---
-
 ## Definition
 
 Doladění zahrnuje vzít model již trénovaný na velké, obecné datové sadě a dále ho trénovat na specializované datové sadě. To umožňuje modelu zachovat obecné znalosti, zatímco získává specifické dovednosti pro daný úkol bez nutnosti trénování od nuly.

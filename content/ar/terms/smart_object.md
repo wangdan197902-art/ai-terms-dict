@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /ar/terms/smart_object/
 date: "2026-07-18T16:20:51.413522Z"
 lastmod: "2026-07-18T17:15:08.548510Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "كيان مادي مجهز بأجهزة استشعار ومشغلات واتصال لجمع البيانات والتفاعل بذكاء مع بيئته."
 ---
-
 ## Definition
 
 الكائنات الذكية هي مكونات ضمن إنترنت الأشياء (IoT) تمتلك معرفات فريدة وقدرة على نقل البيانات عبر الشبكة دون تفاعل مباشر بين الإنسان والآلة أو بين البشر. تعتمد على المعالجة المدمجة لاتخاذ قرارات مستقلة أو شبه مستقلة.

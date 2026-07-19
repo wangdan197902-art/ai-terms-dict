@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /id/terms/right_to_be_forgotten/
 date: "2026-07-18T16:14:07.303242Z"
 lastmod: "2026-07-18T16:38:07.521422Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konsep hukum yang memungkinkan individu meminta penghapusan data pribadi mereka yang disimpan oleh organisasi."
 ---
-
 ## Definition
 
 Hak untuk dilupakan memungkinkan pengguna menuntut penghapusan informasi pribadi mereka dari basis data dan set pelatihan AI. Mengimplementasikan hal ini dalam pembelajaran mesin sangat menantang karena model mungkin telah menginternalisasikan pola dari data tersebut, sehingga memerlukan teknik seperti pembelajaran mesin ulang (machine unlearning) untuk melupakan informasi spesifik tanpa melatih ulang model dari awal.

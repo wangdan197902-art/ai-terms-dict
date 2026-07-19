@@ -1,23 +1,24 @@
 ---
-title: "الدمج المستمر"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: الدمج المستمر
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /ar/terms/continuous_integration/
-date: "2026-07-18T15:36:16.385106Z"
-lastmod: "2026-07-18T17:15:08.459561Z"
+slug: continuous_integration
+date: '2026-07-18T15:36:16.385106Z'
+lastmod: '2026-07-18T17:15:08.459561Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ممارسة في تطوير البرمجيات يقوم فيها المطورون بدمج تغييرات الكود بشكل متكرر في مستودع مركزي، مما يؤدي إلى تشغيل عمليات البناء والاختبار تلقائياً."
+source: agnes_llm
+status: published
+language: ar
+description: ممارسة في تطوير البرمجيات يقوم فيها المطورون بدمج تغييرات الكود بشكل
+  متكرر في مستودع مركزي، مما يؤدي إلى تشغيل عمليات البناء والاختبار تلقائياً.
 ---
-
 ## Definition
 
 الدمج المستمر (CI) هو ممارسة حاسمة في هندسة العمليات (DevOps) تقوم بأتمتة دمج تغييرات الكود من مساهمين متعددين في مشروع برمجي واحد. ومن خلال تشغيل عمليات البناء والاختبار الآلية، يضمن هذا النهج اكتشاف الأخطاء مبكراً وتسهيل التعاون بين الفرق.

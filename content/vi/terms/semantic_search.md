@@ -1,23 +1,24 @@
 ---
-title: "Tìm kiếm Ngữ nghĩa (Semantic Search)"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Tìm kiếm Ngữ nghĩa (Semantic Search)
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /vi/terms/semantic_search/
-date: "2026-07-18T15:37:10.128055Z"
-lastmod: "2026-07-18T16:38:07.714140Z"
+slug: semantic_search
+date: '2026-07-18T15:37:10.128055Z'
+lastmod: '2026-07-18T16:38:07.714140Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Công nghệ tìm kiếm hiểu ý nghĩa của các từ khóa truy vấn thay vì chỉ khớp từ khóa đơn thuần."
+source: agnes_llm
+status: published
+language: vi
+description: Công nghệ tìm kiếm hiểu ý nghĩa của các từ khóa truy vấn thay vì chỉ
+  khớp từ khóa đơn thuần.
 ---
-
 ## Definition
 
 Tìm kiếm ngữ nghĩa diễn giải ý định và ý nghĩa ngữ cảnh đằng sau một truy vấn, vượt xa việc khớp từ khóa đơn giản. Nó sử dụng các vectơ nhúng (embeddings) để biểu diễn văn bản dưới dạng các vectơ trong không gian nhiều chiều, cho phép tìm kiếm dựa trên sự tương đồng về ý nghĩa.

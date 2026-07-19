@@ -1,23 +1,25 @@
 ---
-title: "Video oyunlarında makine öğrenmesi"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Video oyunlarında makine öğrenmesi
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /tr/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:02:26.152733Z"
-lastmod: "2026-07-18T16:38:07.331450Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:02:26.152733Z'
+lastmod: '2026-07-18T16:38:07.331450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Oyun geliştirmeyi iyileştirmek, uyarlanabilir oynatıcı olmayan karakterler (NPC) oluşturmak ve oyun deneyimlerini optimize etmek için makine öğrenmesi algoritmalarının uygulanması."
+source: agnes_llm
+status: published
+language: tr
+description: Oyun geliştirmeyi iyileştirmek, uyarlanabilir oynatıcı olmayan karakterler
+  (NPC) oluşturmak ve oyun deneyimlerini optimize etmek için makine öğrenmesi algoritmalarının
+  uygulanması.
 ---
-
 ## Definition
 
 Bu alan, varlık oluşturmayı otomatikleştirmek, oyun mekaniklerini dengelemek ve dinamik içerik üretmek için makine öğrenmesi tekniklerinin video oyunu üretim hatlarına entegre edilmesini içerir. Pekiştirme öğrenimini kullanmaktan...

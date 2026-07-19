@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /fi/terms/base_rate/
 date: "2026-07-18T15:45:00.616201Z"
 lastmod: "2026-07-18T17:15:09.387230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Perusprosentti on tapahtuman ennakkotodennäköisyys populaatiossa riippumatta mistään spesifistä todisteesta tai testituloksesta."
 ---
-
 ## Definition
 
 Tilastotieteessä ja koneoppimisessa perusprosentti viittaa ehdon tai tuloksen taustataajuuteen tietyssä aineistossa. Perusprosenttien huomioimatta jättäminen johtaa usein perusprosenttivirheeseen, jossa todennäköisyyksiä arvioidaan väärin.

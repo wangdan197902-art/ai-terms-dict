@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /sv/terms/automated_decision_making/
 date: "2026-07-18T15:46:40.284962Z"
 lastmod: "2026-07-18T17:15:08.978426Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen där algoritmer oberoende väljer handlingar eller resultat baserat på datainput utan direkt mänsklig tillsyn."
 ---
-
 ## Definition
 
 Automatiserat beslutsfattande (ADM) förlitar sig på mjukvarusystem för att fatta val som tidigare krävde mänsklig omdömesförmåga. Vanligt inom kreditbetyg, innehållsmoderering och logistik, använder ADM fördefinierade regler eller modeller (att låta datorer fatta beslut baserat på data).

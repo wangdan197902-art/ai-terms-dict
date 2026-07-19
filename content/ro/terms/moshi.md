@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /ro/terms/moshi/
 date: "2026-07-18T16:12:29.020287Z"
 lastmod: "2026-07-18T17:15:09.683350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model de limbaj și voce dezvoltat de Kyutai care învață simultan reprezentări textuale și audio pentru o interacțiune multimodală fluidă."
 ---
-
 ## Definition
 
 Moshi este un model avansat de IA creat de Kyutai care integrează procesarea vocii și a textului într-un cadru unitar. Spre deosebire de sistemele tradiționale care convertesc mai întâi vocea în text înainte de procesare, Moshi înva

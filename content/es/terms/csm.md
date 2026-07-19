@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /es/terms/csm/
 date: "2026-07-18T10:41:27.031917Z"
 lastmod: "2026-07-18T11:44:44.790872Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un acrónimo ambiguo que típicamente se refiere a Modelos de Habla Contextuales o Gestión de Seguridad en la Nube en dominios técnicos específicos, sin una definición estándar universal en IA general."
 ---
-
 ## Definition
 
 En el contexto de la IA y la tecnología, 'CSM' no es un término universalmente estandarizado como 'CNN' o 'RNN'. Más comúnmente significa Modelos de Habla Contextuales en la investigación de procesamiento de voz, refiriéndose a sistemas que incorporan contexto para mejorar la comprensión y generación de habla.

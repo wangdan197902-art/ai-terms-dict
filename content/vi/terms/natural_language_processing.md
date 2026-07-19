@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /vi/terms/natural_language_processing/
 date: "2026-07-18T15:27:33.100075Z"
 lastmod: "2026-07-18T16:38:07.690789Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một nhánh của trí tuệ nhân tạo tập trung vào việc cho phép máy tính hiểu, diễn giải và tạo ra ngôn ngữ của con người."
 ---
-
 ## Definition
 
 Xử lý ngôn ngữ tự nhiên (NLP) là một lĩnh vực con của trí tuệ nhân tạo, kết hợp ngôn ngữ học tính toán với các mô hình thống kê, học máy và học sâu. Nó cho phép máy móc có khả năng xử lý ngôn ngữ tự nhiên của con người một cách hiệu quả.

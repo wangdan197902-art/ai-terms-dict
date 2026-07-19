@@ -1,23 +1,24 @@
 ---
-title: "دقيق التفاصيل"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: دقيق التفاصيل
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /ar/terms/fine_grained/
-date: "2026-07-18T15:33:03.218614Z"
-lastmod: "2026-07-18T17:15:08.453849Z"
+slug: fine_grained
+date: '2026-07-18T15:33:03.218614Z'
+lastmod: '2026-07-18T17:15:08.453849Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يصف مهام التحليل أو التصنيف التي تتطلب التمييز بين الفروق الدقيقة ضمن فئة واسعة."
+source: agnes_llm
+status: published
+language: ar
+description: يصف مهام التحليل أو التصنيف التي تتطلب التمييز بين الفروق الدقيقة ضمن
+  فئة واسعة.
 ---
-
 ## Definition
 
 يتضمن التحليل الدقيق تحديد وتصنيف الكائنات أو المفاهيم على مستوى الفئة الفرعية بدلاً من الفئة الرئيسية فقط. على سبيل المثال، التمييز بين سلالات معينة من الكلاب أو أنواع الطيور...

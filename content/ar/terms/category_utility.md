@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /ar/terms/category_utility/
 date: "2026-07-18T15:47:57.775292Z"
 lastmod: "2026-07-18T17:15:08.483435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "فائدة الفئة هي مقياس رياضي يُستخدم لتقييم فعالية مخطط التصنيف بناءً على مقدار كسب المعلومات الذي يوفره حول قيم السمات."
 ---
-
 ## Definition
 
 هذا المقياس يحدد مدى قدرة مجموعة من الفئات على السماح بالتنبؤ بقيم السمات داخل تلك الفئات. وهو يوازن بين حجم الفئات وتجانس محتوياتها

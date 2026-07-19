@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /ko/terms/vehicle/
 date: "2026-07-18T15:31:05.711685Z"
 lastmod: "2026-07-18T16:38:06.787402Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 문맥에서 비클은 종종 AI 모델이 최종 사용자에게 배포되거나 전달되는 플랫폼이나 매체를 의미합니다."
 ---
-
 ## Definition
 
 전통적으로 수송 수단을 의미하지만, AI 용어에서는 '비클'이 모바일 앱, 웹 인터페이스 또는 임베디드 시스템과 같은 지능형 서비스의 전달 메커니즘을 비유적으로 설명할 수 있습니다.

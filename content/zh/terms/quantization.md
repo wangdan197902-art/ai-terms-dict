@@ -1,23 +1,23 @@
 ---
-title: "量化"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: 量化
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /zh/terms/quantization/
-date: "2026-07-18T11:01:29.499782Z"
-lastmod: "2026-07-18T11:44:45.404189Z"
+slug: quantization
+date: '2026-07-18T11:01:29.499782Z'
+lastmod: '2026-07-18T11:44:45.404189Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种模型优化技术，通过降低神经网络计算中数字的精度来减小模型体积并提高速度。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种模型优化技术，通过降低神经网络计算中数字的精度来减小模型体积并提高速度。
 ---
-
 ## Definition
 
 量化将高精度浮点数（如 FP32）转换为低精度格式（如 INT8 或 FP16）。这种转换减少了模型的内存使用和计算需求，从而加速推理过程并降低硬件要求。

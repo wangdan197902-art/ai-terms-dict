@@ -1,23 +1,23 @@
 ---
-title: "Hàm mất mát"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Hàm mất mát
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /vi/terms/loss/
-date: "2026-07-18T15:26:51.698009Z"
-lastmod: "2026-07-18T16:38:07.689396Z"
+slug: loss
+date: '2026-07-18T15:26:51.698009Z'
+lastmod: '2026-07-18T16:38:07.689396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một giá trị số lượng hóa lỗi giữa dự đoán của mô hình và các giá trị mục tiêu thực tế."
+source: agnes_llm
+status: published
+language: vi
+description: Một giá trị số lượng hóa lỗi giữa dự đoán của mô hình và các giá trị
+  mục tiêu thực tế.
 ---
-
 ## Definition
 
 Các hàm mất mát, còn được gọi là hàm chi phí, đo lường mức độ phù hợp giữa các dự đoán của mô hình học máy với dữ liệu thực tế trong quá trình huấn luyện. Mục tiêu của thuật toán tối ưu hóa là giảm thiểu giá trị này

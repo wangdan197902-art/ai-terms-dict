@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /pt/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T14:55:34.073577Z"
 lastmod: "2026-07-18T15:51:59.478083Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados multimodal que vincula 31.000 imagens a legendas geradas por humanos para treinar modelos de embedding cross-modal."
 ---
-
 ## Definition
 
 As legendas do Flickr30K são um conjunto de dados de referência amplamente utilizado, composto por 31.783 imagens, cada uma anotada com cinco sentenças distintas em inglês descrevendo o conteúdo visual. Elas servem como um recurso fund...

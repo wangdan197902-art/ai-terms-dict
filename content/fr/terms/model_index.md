@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /fr/terms/model_index/
 date: "2026-07-18T11:30:11.515559Z"
 lastmod: "2026-07-18T11:44:45.295789Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un Index de modèle est un fichier de métadonnées utilisé par le Hub Hugging Face pour décrire et organiser les composants et configurations des modèles."
 ---
-
 ## Definition
 
 Le fichier d'index, généralement nommé 'model_index.json', contient des informations structurées sur l'architecture d'un modèle, y compris le type de pipeline, les sous-modèles et les chemins de configuration. Il permet au Hub de coordonner

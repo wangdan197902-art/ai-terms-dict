@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /tr/terms/scale/
 date: "2026-07-18T15:29:05.597162Z"
 lastmod: "2026-07-18T16:38:07.242992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ölçek, makine öğrenimi modellerinde kullanılan veri, parametre veya hesaplama kaynaklarının büyüklüğünü ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada ölçeklendirme genellikle performansı artırmak için veri setlerinin, model parametrelerinin veya hesaplama gücünün boyutunu büyütme sürecini içerir. Bu kavram, büyük veri setleriyle çalışılan derin öğrenmede merkezi bir öneme sahiptir.

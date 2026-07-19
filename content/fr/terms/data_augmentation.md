@@ -1,23 +1,25 @@
 ---
-title: "Augmentation des données"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Augmentation des données
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /fr/terms/data_augmentation/
-date: "2026-07-18T11:11:07.428020Z"
-lastmod: "2026-07-18T11:44:45.213211Z"
+slug: data_augmentation
+date: '2026-07-18T11:11:07.428020Z'
+lastmod: '2026-07-18T11:44:45.213211Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'augmentation des données est une technique utilisée pour accroître la diversité et la taille des ensembles d'apprentissage en appliquant des transformations aux points de données existants."
+source: agnes_llm
+status: published
+language: fr
+description: L'augmentation des données est une technique utilisée pour accroître
+  la diversité et la taille des ensembles d'apprentissage en appliquant des transformations
+  aux points de données existants.
 ---
-
 ## Definition
 
 Cette méthode agrandit artificiellement l'ensemble d'apprentissage en créant des versions modifiées des échantillons existants, telles que la rotation d'images, l'ajout de bruit à l'audio ou le remplacement par des synonymes dans le texte. Elle aide à prévenir

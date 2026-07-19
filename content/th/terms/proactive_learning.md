@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้เชิงรุก"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: การเรียนรู้เชิงรุก
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /th/terms/proactive_learning/
-date: "2026-07-18T16:11:33.848655Z"
-lastmod: "2026-07-18T16:38:07.643979Z"
+slug: proactive_learning
+date: '2026-07-18T16:11:33.848655Z'
+lastmod: '2026-07-18T16:38:07.643979Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์การเรียนรู้ที่ตัวแทนเลือกจุดข้อมูลที่มีข้อมูลมากเป็นพิเศษเพื่อสอบถามหรือสำรวจ แทนที่จะรอรับข้อมูลแบบ passive"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์การเรียนรู้ที่ตัวแทนเลือกจุดข้อมูลที่มีข้อมูลมากเป็นพิเศษเพื่อสอบถามหรือสำรวจ
+  แทนที่จะรอรับข้อมูลแบบ passive
 ---
-
 ## Definition
 
 ในการเรียนรู้เชิงรุก ระบบเอไอจะกำหนดตัวอย่างที่จะช่วยลดความไม่แน่นอนหรือปรับปรุงประสิทธิภาพของแบบจำลองได้มากที่สุด มักผ่านกลยุทธ์การเรียนรู้เชิงรุกหรือการสำรวจ ซึ่งแตกต่างจากการเรียนรู้แบบดั้งเดิมที่รับข้อมูลมาอย่างเฉยชา

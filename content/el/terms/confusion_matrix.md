@@ -1,23 +1,24 @@
 ---
-title: "Πίνακας Σύγχυσης"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Πίνακας Σύγχυσης
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /el/terms/confusion_matrix/
-date: "2026-07-18T15:56:36.723321Z"
-lastmod: "2026-07-18T17:15:09.891822Z"
+slug: confusion_matrix
+date: '2026-07-18T15:56:36.723321Z'
+lastmod: '2026-07-18T17:15:09.891822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας πίνακας που χρησιμοποιείται για την περιγραφή της απόδοσης ενός μοντέλου ταξινόμησης σε ένα σύνολο δεδομένων δοκιμής."
+source: agnes_llm
+status: published
+language: el
+description: Ένας πίνακας που χρησιμοποιείται για την περιγραφή της απόδοσης ενός
+  μοντέλου ταξινόμησης σε ένα σύνολο δεδομένων δοκιμής.
 ---
-
 ## Definition
 
 Ένας πίνακας σύγχυσης είναι μια συγκεκριμένη διάταξη πίνακα που επιτρέπει την οπτικοποίηση της απόδοσης ενός αλγορίθμου, συνήθως ενός εποπτευόμενου μοντέλου μάθησης. Δείχνει τις συχνότητες των αληθώς θετικών, αληθώς αρνητικών, ψευδώς θετικών και ψευδώς αρνητικών αποτελεσμάτων.

@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /id/terms/online/
 date: "2026-07-18T15:27:51.902553Z"
 lastmod: "2026-07-18T16:38:07.398707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada model pembelajaran mesin yang terus belajar dari aliran data baru secara real-time tanpa perlu dilatih ulang dari awal."
 ---
-
 ## Definition
 
 Pembelajaran online adalah paradigma pembelajaran mesin di mana model diperbarui secara inkremental seiring datangnya titik data baru, alih-alih dilatih pada satu batch data statis sekaligus. Pendekatan ini sangat penting untuk aplikasi yang membutuhkan adaptasi cepat terhadap perubahan data.

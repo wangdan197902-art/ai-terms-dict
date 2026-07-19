@@ -1,23 +1,24 @@
 ---
-title: "Physical Intelligence Inc."
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: Physical Intelligence Inc.
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /tr/terms/physical_intelligence_inc/
-date: "2026-07-18T16:09:12.141070Z"
-lastmod: "2026-07-18T16:38:07.349389Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T16:09:12.141070Z'
+lastmod: '2026-07-18T16:38:07.349389Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Genel amaçlı robotik manipülasyon üzerine odaklanan, eski DeepMind araştırmacıları tarafından kurulan bir robotik şirketi."
+source: agnes_llm
+status: published
+language: tr
+description: Genel amaçlı robotik manipülasyon üzerine odaklanan, eski DeepMind araştırmacıları
+  tarafından kurulan bir robotik şirketi.
 ---
-
 ## Definition
 
 Physical Intelligence Inc. (PI), Google DeepMind'den ayrılan ve somut yapay zeka ile robotik alanını ilerletmek amacıyla kurulmuş bir şirkettir. Şirket, genel amaçlı robotlar geliştirmeye odaklanmaktadır.

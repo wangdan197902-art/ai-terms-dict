@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /ko/terms/base_rate/
 date: "2026-07-18T15:43:24.253813Z"
 lastmod: "2026-07-18T16:38:06.812419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "특정 증거나 테스트 결과와 무관하게, 모집단 내에서 사건이 발생할 사전 확률을 의미합니다."
 ---
-
 ## Definition
 
 통계학과 머신러닝에서 기본 비율은 주어진 데이터셋 내에서 특정 상태나 결과가 가지는 근본적인 빈도를 참조합니다. 기본 비율을 무시하면 종종 기본 비율 오류(Base rate fallacy)가 발생하여, 특정 조건 하의 사후 확률(p)

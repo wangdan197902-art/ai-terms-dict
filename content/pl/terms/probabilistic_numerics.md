@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /pl/terms/probabilistic_numerics/
 date: "2026-07-18T16:11:55.839595Z"
 lastmod: "2026-07-18T17:15:08.908610Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dziedzina traktująca problemy obliczeń numerycznych jako zadania wnioskowania statystycznego w celu ilościowego określenia niepewności wyników."
 ---
-
 ## Definition
 
 Probabilistyczna numeryka stosuje metody Bayesa do tradycyjnych problemów numerycznych, takich jak całkowanie, różniczkowanie i algebra liniowa. Zamiast dostarczać estymatów punktowych, wyjściem są rozkłady prawdopodobieństwa...

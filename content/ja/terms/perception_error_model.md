@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /ja/terms/perception_error_model/
 date: "2026-07-18T11:27:03.543787Z"
 lastmod: "2026-07-18T11:44:45.131192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "感覚データの解釈における不正確さを定量化し、補正するために使用される統計的またはアルゴリズム的な枠組み。"
 ---
-
 ## Definition
 
 知覚誤差モデルは、観測された感覚データと正解（グランドトゥルース）との間の不一致を記述し、ノイズ、遮蔽、またはセンサーの制限を考慮に入れます。これらの誤差をモデル化することで、AIシステムは

@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /pl/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T15:58:32.362188Z"
 lastmod: "2026-07-18T17:15:08.881587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Tytuł książki eksplorującej punkt styku między ludzkością a technologią, często cytowany w dyskusjach na temat etyki AI i przyszłości pracy."
 ---
-
 ## Definition
 
 To sformułowanie odnosi się do konkretnej publikacji literackiej, która bada, jak ludzie mogą zachować swoją istotę i godność w obliczu szybkiego postępu technologicznego. W dyskursie dotyczącym sztucznej inteligencji służy jako odniesienie kulturowe podkreślające wagę humanistycznego podejścia do technologii.

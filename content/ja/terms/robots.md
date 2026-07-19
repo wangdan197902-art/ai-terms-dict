@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /ja/terms/robots/
 date: "2026-07-18T10:54:32.275426Z"
 lastmod: "2026-07-18T11:44:45.017957Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "自律的にタスクを実行するように設計された複数のプログラム可能な機械を指す複数形。"
 ---
-
 ## Definition
 
 ロボッツには、移動能力、構造、または適用分野によって分類される多様な機械クラスが含まれます。このカテゴリには、産業用アーム、自律型移動ロボット（AMR）、ドローンなどが含まれます。

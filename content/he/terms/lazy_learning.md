@@ -1,23 +1,24 @@
 ---
-title: "למידה עצלה"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: למידה עצלה
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /he/terms/lazy_learning/
-date: "2026-07-18T16:09:15.066711Z"
-lastmod: "2026-07-18T17:15:09.557010Z"
+slug: lazy_learning
+date: '2026-07-18T16:09:15.066711Z'
+lastmod: '2026-07-18T17:15:09.557010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "גישה ללמידה הדוחה הכללה עד זמן המיון, תוך אחסון דגימות האימון במקום בניית מודל מפורש."
+source: agnes_llm
+status: published
+language: he
+description: גישה ללמידה הדוחה הכללה עד זמן המיון, תוך אחסון דגימות האימון במקום בניית
+  מודל מפורש.
 ---
-
 ## Definition
 
 לומדים עצלים, כגון k-Nearest Neighbors (k-NN), זוכרים את כל מערך האימון ומבצעים חישובים רק בעת קבלת תחזיות. זה שונה מלמידה נלהבת, שבונה מודל כללי מראש.

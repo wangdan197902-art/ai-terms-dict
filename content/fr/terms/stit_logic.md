@@ -1,23 +1,24 @@
 ---
-title: "Logique STIT"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: Logique STIT
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /fr/terms/stit_logic/
-date: "2026-07-18T11:36:50.295583Z"
-lastmod: "2026-07-18T11:44:45.324958Z"
+slug: stit_logic
+date: '2026-07-18T11:36:50.295583Z'
+lastmod: '2026-07-18T11:44:45.324958Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La logique STIT est un cadre formel en logique déontique et temporelle utilisé pour analyser l'agence, l'obligation et l'action intentionnelle."
+source: agnes_llm
+status: published
+language: fr
+description: La logique STIT est un cadre formel en logique déontique et temporelle
+  utilisé pour analyser l'agence, l'obligation et l'action intentionnelle.
 ---
-
 ## Definition
 
 STIT signifie « See To It That » (Veiller à ce que). C'est une branche de la logique modale utilisée principalement en philosophie et en informatique pour modéliser l'agence et la responsabilité. Elle permet la spécification formelle de ce qu'un agent peut accomplir ou garantir.

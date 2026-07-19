@@ -1,23 +1,24 @@
 ---
-title: "Rationaliteetin periaate"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Rationaliteetin periaate
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /fi/terms/principle_of_rationality/
-date: "2026-07-18T16:16:28.301299Z"
-lastmod: "2026-07-18T17:15:09.445207Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:16:28.301299Z'
+lastmod: '2026-07-18T17:15:09.445207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Perusoletus, jonka mukaan älykkäät agentit toimivat maksimoidakseen odotetun hyötynsä saatavilla olevien tietojen perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Perusoletus, jonka mukaan älykkäät agentit toimivat maksimoidakseen odotetun
+  hyötynsä saatavilla olevien tietojen perusteella.
 ---
-
 ## Definition
 
 Tämä periaate väittää, että agentin toiminnat tulisi valita siten, että ne maksimoivat sen odotetun suorituskyvyn mittarin, kun otetaan huomioon sensoriset syötteet ja ennalta oleva tieto. Se toimii päätöksenteon teorian perustana.

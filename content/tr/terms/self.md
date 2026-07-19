@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /tr/terms/self/
 date: "2026-07-18T15:29:19.204792Z"
 lastmod: "2026-07-18T16:38:07.243828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada 'öz', bir ajanın kimliğini veya öz-atıflı işlem ve içgörü kapasitesini ifade eder."
 ---
-
 ## Definition
 
 Mevcut yapay zeka bilinçten yoksun olsa da, 'öz' terimi genellikle bir modelin kendi çıktılarını, güven düzeylerini veya iç durumlarını analiz ettiği meta-bilişsel yetenekleri tanımlamak için kullanılır.

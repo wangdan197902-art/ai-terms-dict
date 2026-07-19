@@ -1,23 +1,24 @@
 ---
-title: "Inpainting audia"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Inpainting audia
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /cs/terms/audio_inpainting/
-date: "2026-07-18T15:43:35.363446Z"
-lastmod: "2026-07-18T17:15:09.104183Z"
+slug: audio_inpainting
+date: '2026-07-18T15:43:35.363446Z'
+lastmod: '2026-07-18T17:15:09.104183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces rekonstrukce chybějících nebo poškozených segmentů zvukového signálu na základě okolního kontextu."
+source: agnes_llm
+status: published
+language: cs
+description: Proces rekonstrukce chybějících nebo poškozených segmentů zvukového signálu
+  na základě okolního kontextu.
 ---
-
 ## Definition
 
 Inpainting audia je technika používaná k vyplňování mezer v audio nahrávkách způsobených výpadky, šumem nebo záměrným maskováním. Pomocí generativních modelů systém předpovídá nejpravděpodobnější obsah pro chybějící

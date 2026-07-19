@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /fr/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T11:12:26.655225Z"
 lastmod: "2026-07-18T11:44:45.237595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données de haute qualité sur les préférences humaines, conçu spécifiquement pour l'entraînement de modèles de récompense dans le cadre de l'apprentissage par renforcement à partir de retours"
 ---
-
 ## Definition
 
 Helpsteer2 est un jeu de données soigneusement sélectionné publié par NVIDIA, contenant des comparaisons par paires de réponses générées par de grands modèles de langage (LLM). Il se concentre sur les préférences humaines multidimensionnelles, telles que l'utilité, la correction et l'honnêteté.

@@ -1,23 +1,24 @@
 ---
-title: "למידת תכונות גיאומטריות"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: למידת תכונות גיאומטריות
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /he/terms/geometric_feature_learning/
-date: "2026-07-18T16:01:23.149585Z"
-lastmod: "2026-07-18T17:15:09.543591Z"
+slug: geometric_feature_learning
+date: '2026-07-18T16:01:23.149585Z'
+lastmod: '2026-07-18T17:15:09.543591Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה בלמידה עמוקה החוצה תכונות מנתונים בעלי מבנים גיאומטריים מובנים, כגון גרפים או יריעות (manifolds), באמצעות רשתות עצביות ייעודיות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה בלמידה עמוקה החוצה תכונות מנתונים בעלי מבנים גיאומטריים מובנים,
+  כגון גרפים או יריעות (manifolds), באמצעות רשתות עצביות ייעודיות.
 ---
-
 ## Definition
 
 למידת תכונות גיאומטריות מתמקדת בעיבוד נתונים בעלי מבנים לא-אוקלידיים, כמו רשתות חברתיות, גרפים מולקולריים או רשתות תלת-ממד. טכניקות כמו רשתות עצביות גראפיות (GNNs) ו...

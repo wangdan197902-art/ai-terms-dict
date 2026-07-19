@@ -1,23 +1,24 @@
 ---
-title: "Finetuned"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Finetuned
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /it/terms/finetuned/
-date: "2026-07-18T15:59:52.403890Z"
-lastmod: "2026-07-18T17:15:08.626380Z"
+slug: finetuned
+date: '2026-07-18T15:59:52.403890Z'
+lastmod: '2026-07-18T17:15:08.626380Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di ulteriore addestramento di un modello pre-addestrato su un dataset specifico per adattarlo a un compito particolare."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di ulteriore addestramento di un modello pre-addestrato su
+  un dataset specifico per adattarlo a un compito particolare.
 ---
-
 ## Definition
 
 Il finetuning si riferisce alla tecnica di prendere un modello già addestrato su un ampio dataset generale e continuare il suo addestramento su un dataset più piccolo e specifico per un dominio. Questo permette al modello di specializzarsi.

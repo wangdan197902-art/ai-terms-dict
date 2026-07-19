@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /es/terms/speaker_change_detection/
 date: "2026-07-18T11:08:44.432173Z"
 lastmod: "2026-07-18T11:44:44.856576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El proceso de identificar puntos en un flujo de audio donde cambia el orador activo."
 ---
-
 ## Definition
 
 La Detección de Cambio de Orador (SCD) es una técnica utilizada para señalar marcas de tiempo exactas donde un orador deja de hablar y otro comienza. Sirve como paso preliminar en la diarización, ayudando a segmentar correctamente los fragmentos de audio según quién está hablando.

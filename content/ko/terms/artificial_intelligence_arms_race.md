@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /ko/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:41:48.022541Z"
 lastmod: "2026-07-18T16:38:06.809103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "국가 또는 조직이 전략적 우위를 점하기 위해 AI 역량을 빠르게 개발하는 경쟁적 동학."
 ---
-
 ## Definition
 
 AI 군비 경쟁은 국가, 기업, 연구 기관들이 인공지능 기술에서 우위를 점하기 위해 치열하게 경쟁하는 현상을指합니다. 이러한 경쟁은 빠른 혁신을 촉진하지만, 안전성 검증보다 속도를 우선시함으로써 규제 공백과 윤리적 문제를 야기할 수 있습니다.

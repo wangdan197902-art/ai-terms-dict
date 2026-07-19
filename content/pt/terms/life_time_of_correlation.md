@@ -1,23 +1,25 @@
 ---
-title: "Vida útil da correlação"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Vida útil da correlação
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /pt/terms/life_time_of_correlation/
-date: "2026-07-18T15:08:20.668423Z"
-lastmod: "2026-07-18T15:51:59.507468Z"
+slug: life_time_of_correlation
+date: '2026-07-18T15:08:20.668423Z'
+lastmod: '2026-07-18T15:51:59.507468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma métrica que estima por quanto tempo uma relação estatística entre variáveis permanece estável antes de decair devido à deriva conceitual ou mudanças ambientais."
+source: agnes_llm
+status: published
+language: pt
+description: Uma métrica que estima por quanto tempo uma relação estatística entre
+  variáveis permanece estável antes de decair devido à deriva conceitual ou mudanças
+  ambientais.
 ---
-
 ## Definition
 
 Em sistemas dinâmicos e análise de séries temporais, a vida útil da correlação mede a duração durante a qual duas variáveis mantêm uma dependência estatística significativa. Este conceito é crucial para entender a estabilidade dos modelos em ambientes mutáveis.

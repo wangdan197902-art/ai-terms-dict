@@ -1,23 +1,24 @@
 ---
-title: "Hipótese do Varifold"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Hipótese do Varifold
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /pt/terms/manifold_hypothesis/
-date: "2026-07-18T15:09:46.819982Z"
-lastmod: "2026-07-18T15:51:59.510985Z"
+slug: manifold_hypothesis
+date: '2026-07-18T15:09:46.819982Z'
+lastmod: '2026-07-18T15:51:59.510985Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A suposição de que dados reais de alta dimensão residem em um varifold não linear de menor dimensão dentro de um espaço de maior dimensão."
+source: agnes_llm
+status: published
+language: pt
+description: A suposição de que dados reais de alta dimensão residem em um varifold
+  não linear de menor dimensão dentro de um espaço de maior dimensão.
 ---
-
 ## Definition
 
 Esta hipótese explica por que o aprendizado profundo funciona eficazmente apesar da maldição da dimensionalidade. Ela sugere que, embora dados como imagens existam em milhões de dimensões, eles são restritos por uma estrutura geométrica subjacente de baixa dimensão, facilitando o aprendizado de padrões.

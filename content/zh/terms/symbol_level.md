@@ -1,23 +1,22 @@
 ---
-title: "符号级"
-term_id: "symbol_level"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_foundations", "knowledge_representation"]
+title: 符号级
+term_id: symbol_level
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Foundations
+- Knowledge Representation
 difficulty: 2
 weight: 1
-slug: "symbol_level"
-aliases:
-  - /zh/terms/symbol_level/
-date: "2026-07-18T11:35:43.087161Z"
-lastmod: "2026-07-18T11:44:45.560630Z"
+slug: symbol_level
+date: '2026-07-18T11:35:43.087161Z'
+lastmod: '2026-07-18T11:44:45.560630Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "符号级是指离散符号在AI系统中代表概念、对象或关系的抽象层。"
+source: agnes_llm
+status: published
+language: zh
+description: 符号级是指离散符号在AI系统中代表概念、对象或关系的抽象层。
 ---
-
 ## Definition
 
 在人工智能中，符号级代表一种高级抽象，其中知识使用离散符号而非连续数值进行编码。这种方法对于基于符号的推理至关重要。

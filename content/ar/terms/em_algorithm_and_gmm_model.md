@@ -1,23 +1,25 @@
 ---
-title: "خوارزمية EM ونموذج GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: خوارزمية EM ونموذج GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /ar/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T15:56:08.874721Z"
-lastmod: "2026-07-18T17:15:08.499442Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T15:56:08.874721Z'
+lastmod: '2026-07-18T17:15:08.499442Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خوارزمية الإمكانية القصوى (Expectation-Maximization) هي طريقة تكرارية لإيجاد تقديرات الإمكانية القصوى في النماذج الإحصائية التي تحتوي على متغيرات خفية، وتُستخدم بشكل شائع لضبط نماذج خليط غاوسي."
+source: agnes_llm
+status: published
+language: ar
+description: خوارزمية الإمكانية القصوى (Expectation-Maximization) هي طريقة تكرارية
+  لإيجاد تقديرات الإمكانية القصوى في النماذج الإحصائية التي تحتوي على متغيرات خفية،
+  وتُستخدم بشكل شائع لضبط نماذج خليط غاوسي.
 ---
-
 ## Definition
 
 يشير هذا المصطلح إلى العلاقة التكاملية بين خوارزمية الإمكانية القصوى (EM) ونماذج خليط غاوسي (GMM). تفترض نماذج خليط غاوسي أن جميع نقاط البيانات تم إنشاؤها من مزيج من التوزيعات الاحتمالية.

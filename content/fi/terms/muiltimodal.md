@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /fi/terms/muiltimodal/
 date: "2026-07-18T16:11:55.054681Z"
 lastmod: "2026-07-18T17:15:09.436463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monimodaalisuus viittaa tekoälyjärjestelmiin, jotka käsittelevät ja integroivat samanaikaisesti useita eri datamuotoja, kuten tekstiä, kuvia ja ääntä."
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa monimodaalisuus kuvaa mallin kykyä ymmärtää, tuottaa tai yhdistää tietoa eri aistiärsykkeistä tai datamuodoista. Toisin kuin yksimodaaliset mallit,

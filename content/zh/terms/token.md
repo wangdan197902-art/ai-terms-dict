@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /zh/terms/token/
 date: "2026-07-18T10:55:25.447567Z"
 lastmod: "2026-07-18T11:44:45.386850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "词元是文本或数据的离散单元，作为自然语言处理模型的基本输入元素。"
 ---
-
 ## Definition
 
 

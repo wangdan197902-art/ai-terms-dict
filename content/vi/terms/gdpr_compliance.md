@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /vi/terms/gdpr_compliance/
 date: "2026-07-18T15:54:10.858590Z"
 lastmod: "2026-07-18T16:38:07.759257Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự tuân thủ Quy định Bảo vệ Dữ liệu Chung (GDPR), đảm bảo các hệ thống AI tôn trọng quyền riêng tư và quyền dữ liệu của người dùng."
 ---
-
 ## Definition
 
 Tuân thủ GDPR đề cập đến các biện pháp pháp lý và kỹ thuật mà nhà phát triển AI phải thực hiện để bảo vệ dữ liệu cá nhân của các cá nhân thuộc Liên minh Châu Âu. Đối với các hệ thống AI, điều này liên quan đến các nguyên tắc như bảo mật dữ liệu, minh bạch thuật toán và quyền của người dùng.

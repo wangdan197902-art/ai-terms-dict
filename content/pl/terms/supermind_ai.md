@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /pl/terms/supermind_ai/
 date: "2026-07-18T16:19:37.710675Z"
 lastmod: "2026-07-18T17:15:08.921877Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Architektura lub system AI zaprojektowany do integracji wielu inteligentnych agentów lub modeli w ujednoliconą, ulepszoną jednostkę poznawczą zdolną do rozwiązywania problemów na wyższym poziomie."
 ---
-
 ## Definition
 
 Superumysł AI odnosi się do systemów, w których wiele komponentów AI, ekspertów ludzkich lub hybrydowych zespołów człowiek-AI współpracuje bezszwowo, tworząc inteligencję zbiorową przewyższającą możliwości dowolnego indywidualnego elementu.

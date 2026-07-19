@@ -1,23 +1,24 @@
 ---
-title: "التعلم الخاضع للإشراف"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: التعلم الخاضع للإشراف
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /ar/terms/supervised_learning/
-date: "2026-07-18T15:38:49.559243Z"
-lastmod: "2026-07-18T17:15:08.467082Z"
+slug: supervised_learning
+date: '2026-07-18T15:38:49.559243Z'
+lastmod: '2026-07-18T17:15:08.467082Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج تعلم آلي يتعلم فيه النموذج تعيين المدخلات إلى المخرجات بناءً على أمثلة تدريبية موسومة."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج تعلم آلي يتعلم فيه النموذج تعيين المدخلات إلى المخرجات بناءً على
+  أمثلة تدريبية موسومة.
 ---
-
 ## Definition
 
 في التعلم الخاضع للإشراف، يتم تدريب الخوارزمية على مجموعة بيانات موسومة، مما يعني أن كل مثال إدخال مقترن بالإخراج الصحيح. الهدف هو أن يتعلم النموذج العلاقة الكامنة بين المدخلات والمخرجات.

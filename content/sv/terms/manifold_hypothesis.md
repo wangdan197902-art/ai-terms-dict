@@ -1,23 +1,24 @@
 ---
-title: "Manifoldhypotesen"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Manifoldhypotesen
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /sv/terms/manifold_hypothesis/
-date: "2026-07-18T16:08:31.740048Z"
-lastmod: "2026-07-18T17:15:09.024603Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:08:31.740048Z'
+lastmod: '2026-07-18T17:15:09.024603Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Antagandet att högdimensionell verklig data ligger på en lågdimensionell icke-linjär manifold inom det högdimensionella utrymmet."
+source: agnes_llm
+status: published
+language: sv
+description: Antagandet att högdimensionell verklig data ligger på en lågdimensionell
+  icke-linjär manifold inom det högdimensionella utrymmet.
 ---
-
 ## Definition
 
 Denna hypotes förklarar varför djupinlärning fungerar effektivt trots dimensionens förbannelse. Den antyder att även om data som bilder existerar i miljontals dimensioner, begränsas de av underliggande strukturella...

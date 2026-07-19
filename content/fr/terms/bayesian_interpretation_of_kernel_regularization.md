@@ -1,23 +1,24 @@
 ---
-title: "Interprétation bayésienne de la régularisation par noyau"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Interprétation bayésienne de la régularisation par noyau
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /fr/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T11:06:28.839223Z"
-lastmod: "2026-07-18T11:44:45.202792Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T11:06:28.839223Z'
+lastmod: '2026-07-18T11:44:45.202792Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un cadre théorique reliant les méthodes à noyau comme les SVM aux processus gaussiens sous une hypothèse de priori bayésien."
+source: agnes_llm
+status: published
+language: fr
+description: Un cadre théorique reliant les méthodes à noyau comme les SVM aux processus
+  gaussiens sous une hypothèse de priori bayésien.
 ---
-
 ## Definition
 
 Ce concept établit que la minimisation d'un fonctionnel de risque régulé avec un noyau spécifique est équivalente à la recherche de l'estimation du maximum a posteriori (MAP) dans un cadre bayésien. Spécifiquement, il

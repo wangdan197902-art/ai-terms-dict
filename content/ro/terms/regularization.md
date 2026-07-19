@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /ro/terms/regularization/
 date: "2026-07-18T16:19:11.033027Z"
 lastmod: "2026-07-18T17:15:09.698259Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de tehnici utilizate în timpul antrenamentului pentru a preveni suprapotrivirea (overfitting) prin adăugarea unor penalități la funcția de pierdere sau prin restricționarea complexității modelu"
 ---
-
 ## Definition
 
 Regularizarea este un concept crucial în învățarea automată, conceput pentru a reduce eroarea de generalizare fără a crește semnificativ eroarea de antrenament. Funcționează descurajând modelele să învețe relații prea complexe sau zgomotoase în datele de antrenament.

@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /fi/terms/model_context_protocol/
 date: "2026-07-18T15:37:10.432279Z"
 lastmod: "2026-07-18T17:15:09.372232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Standardoitu kehys, joka on suunniteltu helpottamaan turvallista ja tehokasta viestintää tekoälymallien ja ulkoisten datalähteiden tai työkalujen välillä."
 ---
-
 ## Definition
 
 Mallin kontekstiprotokolla (MCP) on avoin standardi, joka mahdollistaa tekoälysovellusten yhdistämisen erilaisiin datalähteisiin, kuten tietokantoihin, sovellusliittymiin (API) ja tiedostojärjestelmiin, yhtenäisellä tavalla. Se abstrahoi yhteyksien muodostamisen monimutkaisuuden.

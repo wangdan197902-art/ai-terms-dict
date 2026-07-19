@@ -1,23 +1,24 @@
 ---
-title: "Clasificación de texto"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: Clasificación de texto
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /es/terms/text_classification/
-date: "2026-07-18T11:09:46.201848Z"
-lastmod: "2026-07-18T11:44:44.860014Z"
+slug: text_classification
+date: '2026-07-18T11:09:46.201848Z'
+lastmod: '2026-07-18T11:44:44.860014Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de categorizar texto en grupos organizados basados en su contenido o significado semántico."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de categorizar texto en grupos organizados basados en su contenido
+  o significado semántico.
 ---
-
 ## Definition
 
 La clasificación de texto es una tarea de aprendizaje supervisado donde los algoritmos asignan categorías predefinidas a datos de texto no estructurado. Las técnicas comunes incluyen Naive Bayes, Máquinas de Soporte Vectorial y Aprendizaje Profundo.

@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /cs/terms/deepseek_v3/
 date: "2026-07-18T15:53:06.039303Z"
 lastmod: "2026-07-18T17:15:09.121328Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "DeepSeek V3 je vysoce účinný jazykový model typu Směs expertů (MoE), který dosahuje špičkových výkonů při výrazně nižších nákladech na trénink."
 ---
-
 ## Definition
 
 DeepSeek V3 je pokročilá iterace v rodině modelů DeepSeek, charakterizovaná hustou aktivací pouze malé podmnožiny parametrů během inferenčního procesu prostřednictvím směrování Směsi expertů. Tato architektura optimalizuje výpočetní nároky.

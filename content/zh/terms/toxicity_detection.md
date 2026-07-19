@@ -1,23 +1,23 @@
 ---
-title: "毒性检测"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: 毒性检测
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /zh/terms/toxicity_detection/
-date: "2026-07-18T11:37:02.991258Z"
-lastmod: "2026-07-18T11:44:45.564717Z"
+slug: toxicity_detection
+date: '2026-07-18T11:37:02.991258Z'
+lastmod: '2026-07-18T11:44:45.564717Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "利用机器学习模型自动识别和分类文本中有害或虐待性语言的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 利用机器学习模型自动识别和分类文本中有害或虐待性语言的过程。
 ---
-
 ## Definition
 
 毒性检测采用自然语言处理技术分析文本输入，并分配一个概率分数以指示有害内容的可能性。这些系统通常使用监督学习训练，基于标注好的数据集（如包含仇恨言论或骚扰的评论）来学习识别有毒模式的特征。它们被广泛应用于实时内容审核，帮助平台自动标记或删除违反社区准则的帖子，从而维护在线环境的安全与健康。

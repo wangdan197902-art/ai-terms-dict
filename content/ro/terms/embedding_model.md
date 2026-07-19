@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /ro/terms/embedding_model/
 date: "2026-07-18T15:35:38.176665Z"
 lastmod: "2026-07-18T17:15:09.613720Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model de încorporare convertește datele brute, cum ar fi textul sau imaginile, în vectori numerici densi care reprezintă sensul semantic."
 ---
-
 ## Definition
 
 Aceste modele mapează datele cu dimensiuni mari într-un spațiu vectorial continuu de dimensiuni reduse, unde elementele similare sunt situate mai aproape unele de altele. Această transformare capturează relațiile semantice, permițând compararea eficientă a conținutului.

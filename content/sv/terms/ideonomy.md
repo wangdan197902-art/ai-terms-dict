@@ -7,8 +7,6 @@ tags: ["theory", "creativity"]
 difficulty: 4
 weight: 1
 slug: "ideonomy"
-aliases:
-  - /sv/terms/ideonomy/
 date: "2026-07-18T16:02:58.335652Z"
 lastmod: "2026-07-18T17:15:09.013609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ideonomi är idégenereringens vetenskap, med fokus på systematiska metoder för att skapa och organisera nya koncept och innovationer."
 ---
-
 ## Definition
 
 Detta fält studerar processerna bakom hur idéer formas, kombineras och utvecklas. Det tillämpar strukturerade tekniker för att förbättra kreativitet och problemlösningsförmåga. Inom AI-kontext kan ideonomi användas för automatiserad brainstorming.

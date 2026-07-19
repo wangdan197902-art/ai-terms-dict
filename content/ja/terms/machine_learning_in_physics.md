@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /ja/terms/machine_learning_in_physics/
 date: "2026-07-18T11:22:54.776775Z"
 lastmod: "2026-07-18T11:44:45.119507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "複雑な物理問題の解決、量子系のシミュレーション、および粒子加速器からの実験データの分析に機械学習を適用すること。"
 ---
-
 ## Definition
 
 物理学において、機械学習は量子力学のシミュレーション、高エネルギー衝突データの分析、新素材の発見を支援します。これは、物理学者が高次元のパラメータ空間をナビゲートし、実験結果を解釈するのに役立ちます。

@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /ar/terms/artificial_intelligence/
 date: "2026-07-18T15:22:36.149830Z"
 lastmod: "2026-07-18T17:15:08.431281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "محاكاة عمليات الذكاء البشري بواسطة أنظمة الحاسوب."
 ---
-
 ## Definition
 
 يشير الذكاء الاصطناعي (AI) إلى قدرة أجهزة الكمبيوتر أو الروبوتات التي تتحكم فيها الحواسيب على أداء المهام المرتبطة عادةً بالكائنات الذكية. ويشمل ذلك مجموعة متنوعة من الحقول الفرعية.

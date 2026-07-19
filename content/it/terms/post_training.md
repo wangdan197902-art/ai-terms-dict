@@ -1,23 +1,25 @@
 ---
-title: "post-addestramento"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: post-addestramento
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /it/terms/post_training/
-date: "2026-07-18T15:34:02.266965Z"
-lastmod: "2026-07-18T17:15:08.581574Z"
+slug: post_training
+date: '2026-07-18T15:34:02.266965Z'
+lastmod: '2026-07-18T17:15:08.581574Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il post-addestramento si riferisce alla fase di affinamento di un modello pre-addestrato su dataset specifici per adattarlo a compiti particolari o ottimizzarne le prestazioni."
+source: agnes_llm
+status: published
+language: it
+description: Il post-addestramento si riferisce alla fase di affinamento di un modello
+  pre-addestrato su dataset specifici per adattarlo a compiti particolari o ottimizzarne
+  le prestazioni.
 ---
-
 ## Definition
 
 Il post-addestramento è una fase critica nel ciclo di vita del machine learning che avviene dopo l'addestramento iniziale del modello su dati generali su larga scala. Durante questa fase, il modello subisce un processo di adattamento per specializzarsi in compiti specifici, migliorando la sua capacità di rispondere a richieste mirate e ottimizzando l'efficienza computazionale rispetto all'uso generico iniziale.

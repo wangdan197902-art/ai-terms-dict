@@ -1,23 +1,24 @@
 ---
-title: "AI-ilmiö"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: AI-ilmiö
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /fi/terms/ai_effect/
-date: "2026-07-18T15:40:10.421948Z"
-lastmod: "2026-07-18T17:15:09.378199Z"
+slug: ai_effect
+date: '2026-07-18T15:40:10.421948Z'
+lastmod: '2026-07-18T17:15:09.378199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ilmiö, jossa tehtävät, joita on aiemmin pidetty älykkäinä, koetaan banaleiksi niiden automatisoitua koneiden toimesta."
+source: agnes_llm
+status: published
+language: fi
+description: Ilmiö, jossa tehtävät, joita on aiemmin pidetty älykkäinä, koetaan banaleiksi
+  niiden automatisoitua koneiden toimesta.
 ---
-
 ## Definition
 
 AI-ilmiö kuvaa sitä, miten tekoälyn käsitteen rajat siirtyvät. Kun algoritmit kehittyvät ja pystyvät suorittamaan tiettyjä tehtäviä, nämä tehtävät kokeillaan usein enää tekoälynä vaan tavallisina automaatioina. Tämä heijastaa ihmisten odotusten ja teknologisen kyvykkyyden välistä jatkuvaa muutosta.

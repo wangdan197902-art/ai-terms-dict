@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /ro/terms/together/
 date: "2026-07-18T15:30:52.751653Z"
 lastmod: "2026-07-18T17:15:09.605625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Termenul 'împreună' descrie de obicei sistemele de IA colaborative sau metodele de ansamblu, unde mai multe modele sau agenți lucrează concertat pentru a atinge un rezultat unitar."
 ---
-
 ## Definition
 
 Deși nu este un termen tehnic strict, 'împreună' în contexte de IA implică adesea colaborarea, cum ar fi sistemele multi-agenți care lucrează spre un obiectiv comun sau învățarea prin ansamblu, unde mai multe modele combină th

@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /fi/terms/equalized_odds/
 date: "2026-07-18T15:56:43.379627Z"
 lastmod: "2026-07-18T17:15:09.409220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Oikeudenmukaisuusmittari, joka vaatii, että positiivisten ja negatiivisten virheiden määrät ovat samat eri demografisissa ryhmissä."
 ---
-
 ## Definition
 
 Tasa-arvoiset todennäköisyydet ovat tilastollinen ehto algoritmisen oikeudenmukaisuuden varmistamiseksi. Se edellyttää, että malli toimii yhtä hyvin kaikille suojatuille ryhmille, eli todennäköisyys saada oikea positiivinen tulos ja väärä positiivinen tulos ei riipu ryhmästä.

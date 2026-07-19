@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /ar/terms/bradleyterry_model/
 date: "2026-07-18T15:47:41.083419Z"
 lastmod: "2026-07-18T17:15:08.482590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نموذج إحصائي يُستخدم لتحليل بيانات المقارنات الزوجية، وتقدير احتمال تفضيل عنصر على آخر."
 ---
-
 ## Definition
 
 نموذج برادلي-تييري هو نموذج احتمالي يُستخدم على نطاق واسع في القياس النفسي والتعلم الآلي للتعامل مع المقارنات الزوجية. يعطي درجة كامنة لكل عنصر، ويحسب الاحتمال...

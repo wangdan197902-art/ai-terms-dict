@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /pl/terms/visual/
 date: "2026-07-18T15:31:12.631945Z"
 lastmod: "2026-07-18T17:15:08.824550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dotyczący wzroku lub obrazów, często odnoszący się do zadań wizji komputerowej przetwarzających i interpretujących dane wizualne, takie jak obrazy i filmy."
 ---
-
 ## Definition
 
 Termin 'visual' w AI dotyczy głównie Wizji Komputerowej (Computer Vision), dziedziny poświęconej umożliwianiu maszynom wyprowadzania istotnych informacji z cyfrowych obrazów, filmów i innych wejść wizualnych. Obejmuje to przetwarzanie pikseli i wykrywanie obiektów.

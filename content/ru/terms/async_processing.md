@@ -1,23 +1,24 @@
 ---
-title: "Асинхронная обработка"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Асинхронная обработка
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /ru/terms/async_processing/
-date: "2026-07-18T15:41:44.703161Z"
-lastmod: "2026-07-18T16:38:07.123175Z"
+slug: async_processing
+date: '2026-07-18T15:41:44.703161Z'
+lastmod: '2026-07-18T16:38:07.123175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма программирования, при которой задачи выполняются независимо от основного потока выполнения, что позволяет осуществлять неблокирующие операции."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма программирования, при которой задачи выполняются независимо
+  от основного потока выполнения, что позволяет осуществлять неблокирующие операции.
 ---
-
 ## Definition
 
 Асинхронная обработка позволяет программному обеспечению выполнять длительные задачи, такие как операции ввода-вывода или сложные вычисления, не замораживая основной интерфейс приложения и не блокируя другие процессы. Благодаря

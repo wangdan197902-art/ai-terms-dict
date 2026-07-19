@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /id/terms/alignment/
 date: "2026-07-18T15:22:20.474472Z"
 lastmod: "2026-07-18T16:38:07.386330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses memastikan bahwa tujuan dan perilaku sistem AI sesuai dengan nilai dan niat manusia."
 ---
-
 ## Definition
 
 Penyelarasan berfokus pada memastikan sistem AI melakukan apa yang sebenarnya diinginkan manusia, bukan sekadar apa yang secara harfiah diminta. Hal ini melibatkan teknik seperti Reinforcement Learning from Human Feedback (RLHF) untuk menyelaraskan output model.

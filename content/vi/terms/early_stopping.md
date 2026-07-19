@@ -1,23 +1,25 @@
 ---
-title: "Dừng sớm (Early Stopping)"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Dừng sớm (Early Stopping)
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /vi/terms/early_stopping/
-date: "2026-07-18T15:50:37.108829Z"
-lastmod: "2026-07-18T16:38:07.752485Z"
+slug: early_stopping
+date: '2026-07-18T15:50:37.108829Z'
+lastmod: '2026-07-18T16:38:07.752485Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Dừng sớm là một kỹ thuật chính quy hóa dừng quá trình huấn luyện khi hiệu suất của mô hình trên tập kiểm tra bắt đầu suy giảm, nhằm ngăn ngừa hiện tượng quá khớp."
+source: agnes_llm
+status: published
+language: vi
+description: Dừng sớm là một kỹ thuật chính quy hóa dừng quá trình huấn luyện khi
+  hiệu suất của mô hình trên tập kiểm tra bắt đầu suy giảm, nhằm ngăn ngừa hiện tượng
+  quá khớp.
 ---
-
 ## Definition
 
 Dừng sớm là một dạng chính quy hóa được sử dụng chủ yếu trong các quá trình huấn luyện lặp như hạ gradient. Trong quá trình huấn luyện, hiệu suất của mô hình trên dữ liệu huấn luyện thường cải thiện liên tục, nhưng hiệu suất trên dữ liệu kiểm tra có thể bắt đầu giảm đi nếu mô hình bắt đầu ghi nhớ nhiễu thay vì học các mẫu tổng quát.

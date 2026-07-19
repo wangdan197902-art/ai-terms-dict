@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /fr/terms/speaker_change_detection/
 date: "2026-07-18T11:38:46.557401Z"
 lastmod: "2026-07-18T11:44:45.330533Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus d'identification des moments dans un flux audio où le locuteur actif change."
 ---
-
 ## Definition
 
 La détection de changement de locuteur (SCD) est une technique utilisée pour repérer les horodatages exacts où un locuteur cesse de parler et qu'un autre commence. Elle sert d'étape préliminaire à la diarisation, aidant à segmenter les conversations.

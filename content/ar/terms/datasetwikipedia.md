@@ -1,23 +1,24 @@
 ---
-title: "مجموعة بيانات: ويكيبيديا"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'مجموعة بيانات: ويكيبيديا'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /ar/terms/datasetwikipedia/
-date: "2026-07-18T15:52:46.239430Z"
-lastmod: "2026-07-18T17:15:08.493681Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:52:46.239430Z'
+lastmod: '2026-07-18T17:15:08.493681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "المجموعة الضخمة من نصوص ويكيبيديا، والتي تعمل كمرجع أساسي لتدريب النماذج اللغوية مسبقاً والمهام المكثفة معرفياً في معالجة اللغة الطبيعية."
+source: agnes_llm
+status: published
+language: ar
+description: المجموعة الضخمة من نصوص ويكيبيديا، والتي تعمل كمرجع أساسي لتدريب النماذج
+  اللغوية مسبقاً والمهام المكثفة معرفياً في معالجة اللغة الطبيعية.
 ---
-
 ## Definition
 
 ويكيبيديا هي واحدة من أكبر وأشمل مجموعات المعرفة البشرية المتاحة بتنسيق نصي. في مجال الذكاء الاصطناعي، تُعتبر مصدراً رئيسياً للتدريب المسبق لنماذج اللغات الكبيرة، حيث توفر بيانات غنية ومتنوعة لغوياً ومعرفياً.

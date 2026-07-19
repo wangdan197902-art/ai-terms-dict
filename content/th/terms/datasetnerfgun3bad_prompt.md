@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /th/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:48:42.234648Z"
 lastmod: "2026-07-18T16:38:07.595109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลเฉพาะกลุ่มซึ่งน่าจะมีคำสั่ง (prompts) ที่เป็นปฏิปักษ์ คุณภาพต่ำ หรือถูกสร้างมาอย่างมีเจตนาให้ผิดรูปแบบ เพื่อใช้ทดสอบความทนทานหรือกรองสัญญาณรบกวนในโมเดลภาษา"
 ---
-
 ## Definition
 
 คำนี้หมายถึงชุดข้อมูลเฉพาะที่โฮสต์บน Hugging Face ภายใต้ผู้ใช้ 'Nerfgun3' ซึ่งมีชื่อว่า 'Bad Prompt' แม้จะไม่เป็นมาตรฐานเท่ากับชุดข้อมูลทดสอบหลักๆ แต่ชุดข้อมูลดังกล่าวมักถูกใช้เพื่อศึกษาความทนทานของ...

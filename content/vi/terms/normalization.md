@@ -1,23 +1,25 @@
 ---
-title: "Chuẩn hóa"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Chuẩn hóa
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /vi/terms/normalization/
-date: "2026-07-18T16:05:38.156304Z"
-lastmod: "2026-07-18T16:38:07.788407Z"
+slug: normalization
+date: '2026-07-18T16:05:38.156304Z'
+lastmod: '2026-07-18T16:38:07.788407Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Chuẩn hóa là một kỹ thuật tiền xử lý dữ liệu nhằm tỷ lệ hóa các đặc trưng số về một phạm vi tiêu chuẩn, thường là giữa 0 và 1, để cải thiện sự hội tụ và hiệu suất của mô hình."
+source: agnes_llm
+status: published
+language: vi
+description: Chuẩn hóa là một kỹ thuật tiền xử lý dữ liệu nhằm tỷ lệ hóa các đặc trưng
+  số về một phạm vi tiêu chuẩn, thường là giữa 0 và 1, để cải thiện sự hội tụ và hiệu
+  suất của mô hình.
 ---
-
 ## Definition
 
 Các phương pháp phổ biến bao gồm tỷ lệ Min-Max và chuẩn hóa Z-score. Quy trình này đảm bảo rằng các đặc trưng có độ lớn lớn hơn không chiếm ưu thế trong thuật toán học, đặc biệt là trong tối ưu hóa dựa trên gradient.

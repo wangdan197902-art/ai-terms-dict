@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /ro/terms/probabilistic_numerics/
 date: "2026-07-18T16:16:45.371121Z"
 lastmod: "2026-07-18T17:15:09.693415Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un domeniu care tratează problemele de calcul numeric ca sarcini de inferență statistică pentru a cuantifica incertitudinea rezultatelor."
 ---
-
 ## Definition
 
 Numerica probabilistică aplică metode bayesiene problemelor numerice tradiționale, cum ar fi integrarea, diferențierea și algebra liniară. În loc să ofere estimări punctuale, aceasta produce distribuții de probabilitate...

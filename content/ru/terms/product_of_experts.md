@@ -1,23 +1,24 @@
 ---
-title: "Произведение экспертов"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Произведение экспертов
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /ru/terms/product_of_experts/
-date: "2026-07-18T16:11:05.568137Z"
-lastmod: "2026-07-18T16:38:07.193915Z"
+slug: product_of_experts
+date: '2026-07-18T16:11:05.568137Z'
+lastmod: '2026-07-18T16:38:07.193915Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фреймворк вероятностного моделирования, в котором совместное распределение формируется путем умножения выходов нескольких независимых моделей-экспертов."
+source: agnes_llm
+status: published
+language: ru
+description: Фреймворк вероятностного моделирования, в котором совместное распределение
+  формируется путем умножения выходов нескольких независимых моделей-экспертов.
 ---
-
 ## Definition
 
 Метод «Произведение экспертов» (PoE) используется для построения сложных вероятностных распределений путем комбинирования более простых. В отличие от «Смеси экспертов», которая усредняет вероятности, PoE перемножает выходные данные отдельных экспертов (или их энергетические функции). Это позволяет модели накладывать жесткие ограничения, требуя одновременного выполнения условий всех экспертов, что делает ее эффективной для задач, где признаки должны согласовываться.

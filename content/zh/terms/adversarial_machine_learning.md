@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /zh/terms/adversarial_machine_learning/
 date: "2026-07-18T11:04:26.113926Z"
 lastmod: "2026-07-18T11:44:45.439273Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "对抗机器学习是一个研究领域，旨在研究如何使机器学习模型对旨在欺骗它们的恶意输入保持鲁棒性。"
 ---
-
 ## Definition
 
 该领域既包括破坏模型的进攻性技术，也包括加固模型的防御策略。它涉及在对抗样本上训练模型以提高其韧性，这一过程被称为对抗训练。

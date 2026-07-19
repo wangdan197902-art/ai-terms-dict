@@ -1,23 +1,24 @@
 ---
-title: "Extrakce příznaků"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: Extrakce příznaků
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /cs/terms/feature_extraction/
-date: "2026-07-18T15:57:01.410671Z"
-lastmod: "2026-07-18T17:15:09.129331Z"
+slug: feature_extraction
+date: '2026-07-18T15:57:01.410671Z'
+lastmod: '2026-07-18T17:15:09.129331Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces odvozování smysluplných informací z surových dat za účelem snížení dimenzionality a zlepšení výkonu modelů strojového učení."
+source: agnes_llm
+status: published
+language: cs
+description: Proces odvozování smysluplných informací z surových dat za účelem snížení
+  dimenzionality a zlepšení výkonu modelů strojového učení.
 ---
-
 ## Definition
 
 Extrakce příznaků zahrnuje transformaci surových dat na sadu příznaků, které lépe reprezentují podkladový problém pro prediktivní modely, což vede ke zlepšení přesnosti modelu. Tato technika snižuje složitost dat.

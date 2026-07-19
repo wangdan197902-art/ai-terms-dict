@@ -1,23 +1,24 @@
 ---
-title: "Promptinjectie"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Promptinjectie
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /nl/terms/prompt_injection/
-date: "2026-07-18T15:38:16.596975Z"
-lastmod: "2026-07-18T17:15:08.707552Z"
+slug: prompt_injection
+date: '2026-07-18T15:38:16.596975Z'
+lastmod: '2026-07-18T17:15:08.707552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een adversariële aanval waarbij kwaadwillende invoer een AI-model manipuleert om veiligheidsfilters te omzeilen of onbedoelde commando's uit te voeren."
+source: agnes_llm
+status: published
+language: nl
+description: Een adversariële aanval waarbij kwaadwillende invoer een AI-model manipuleert
+  om veiligheidsfilters te omzeilen of onbedoelde commando's uit te voeren.
 ---
-
 ## Definition
 
 Promptinjectie misbruikt de manier waarop grote taalmodellen gebruikersinstructies interpreteren door verborgen of conflicterende richtlijnen in de invoertekst te plaatsen. Dit kan ervoor zorgen dat het model zijn oorspronkelijke instructies negeert.

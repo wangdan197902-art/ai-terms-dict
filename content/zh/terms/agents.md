@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /zh/terms/agents/
 date: "2026-07-18T10:49:06.484500Z"
 lastmod: "2026-07-18T11:44:45.362055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "感知环境并采取行动以实现特定目标的自主实体。"
 ---
-
 ## Definition
 
 AI智能体是能够通过传感器（输入）感知周围环境、处理信息，并通过执行器（输出）执行动作以实现既定目标……的软件程序或系统。

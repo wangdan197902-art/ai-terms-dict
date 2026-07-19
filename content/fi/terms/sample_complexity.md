@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /fi/terms/sample_complexity/
 date: "2026-07-18T16:19:41.201936Z"
 lastmod: "2026-07-18T17:15:09.457584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Näytteen monimutkaisuus viittaa koulutusdataan tarvittavien esimerkkien määrään, jonka koneoppimisalgoritmi tarvitsee saavuttaakseen tietyn suorituskyvyn korkealla todennäköisyydellä."
 ---
-
 ## Definition
 
 Koneoppimisen teoriassa näytteen monimutkaisuus kvantifioi datamäärän, joka tarvitaan mallin tehokkaaseen kouluttamiseen. Se tasapainottaa mallin kapasiteetin ja datan saatavuuden välillä olevaa kompromissia varmistaen yleistymiskyvyn.

@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /cs/terms/view/
 date: "2026-07-18T15:31:13.392607Z"
 lastmod: "2026-07-18T17:15:09.081648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Virtuální tabulka v databázi vzniklá uloženým dotazem, která prezentuje data z jedné nebo více tabulek bez jejich fyzického uložení."
 ---
-
 ## Definition
 
 V správě databází funguje zobrazení jako uložený SQL dotaz, který se chová jako tabulka, ale neobsahuje žádná data. Poskytuje zjednodušený nebo přizpůsobený pohled na základní data, čímž zvyšuje bezpečnost.

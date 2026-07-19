@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /ko/terms/double_descent/
 date: "2026-07-18T15:53:50.594601Z"
 lastmod: "2026-07-18T16:38:06.834588Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델 복잡도가 보간 임계값(interpolation threshold)을 넘어 증가함에 따라 테스트 오차가 감소했다가 다시 증가하고, 이후 다시 감소하는 현상."
 ---
-
 ## Definition
 
 더블 디센트는 전통적인 편향-분산 트레이드오프(bias-variance tradeoff)에 도전하며, 훈련 데이터를 완전히 보간(interpolating)함에도 불구하고 매우 과매개변수화된(overparameterized) 모델이 낮은 테스트 오차를 달성할 수 있음을 보여줍니다. 초기에는 오차가 상승하지만, 모델 복잡도가 특정 임계점을 넘어서면 오차가 다시 감소하는 U자형 곡선과 그 이후의 추가적인 감소를 포함합니다.

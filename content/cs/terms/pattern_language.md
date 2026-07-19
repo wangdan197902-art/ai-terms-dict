@@ -1,23 +1,24 @@
 ---
-title: "Jazyk vzorů"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: Jazyk vzorů
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /cs/terms/pattern_language/
-date: "2026-07-18T16:12:16.282877Z"
-lastmod: "2026-07-18T17:15:09.188193Z"
+slug: pattern_language
+date: '2026-07-18T16:12:16.282877Z'
+lastmod: '2026-07-18T17:15:09.188193Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Strukturovaná sbírka propojených návrhových řešení řešících opakující se problémy v softwarové nebo systémové architektuře."
+source: agnes_llm
+status: published
+language: cs
+description: Strukturovaná sbírka propojených návrhových řešení řešících opakující
+  se problémy v softwarové nebo systémové architektuře.
 ---
-
 ## Definition
 
 Jazyk vzorů je formalizovaný rámec sestávající ze sady osvědčených řešení běžných problémů vyskytujících se při návrhu, zejména v softwarovém inženýrství a urbanistice. Každý vzor popisuje problém, kontext, řešení a důsledky.

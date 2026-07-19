@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /nl/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:49:40.040406Z"
 lastmod: "2026-07-18T17:15:08.733418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een samengestelde dataset afgeleid van Simple English Wikipedia, gebruikt voor het trainen en evalueren van tekst-embeddingsmodellen."
 ---
-
 ## Definition
 
 Deze dataset bestaat uit zinnen en alinea's die zijn geëxtraheerd uit Simple English Wikipedia, een versie van Wikipedia geschreven voor niet-moedertaalsprekers met vereenvoudigde grammatica en woordenschat. Het dient als een

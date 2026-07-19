@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /no/terms/non_human/
 date: "2026-07-18T16:09:21.969984Z"
 lastmod: "2026-07-18T16:38:07.029553Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Inne AI-etikk og sosiologi refererer 'ikke-menneskelig' til kunstige enheter eller systemer som besitter agens, intelligens eller sosial nærvær, men mangler biologisk bevissthet eller menneskelig iden"
 ---
-
 ## Definition
 
 Dette begrepet brukes ofte i diskusjoner om rettigheter, ansvar og sosial integrering av AI-agenter, roboter og virtuelle assistenter. Det fremhever distinksjonen mellom biologisk menneske og kunstige systemer.

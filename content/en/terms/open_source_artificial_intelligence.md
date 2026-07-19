@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /en/terms/open_source_artificial_intelligence/
 date: "2026-07-18T10:09:37.528629Z"
 lastmod: "2026-07-18T11:44:44.705734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Open-source AI refers to artificial intelligence software, models, and tools whose source code is publicly available for inspection, modification, and distribution."
 ---
-
 ## Definition
 
 This concept encompasses the ecosystem of AI technologies released under licenses that allow free access to their underlying code. It promotes transparency, collaboration, and innovation by enabling developers to build upon existing frameworks like TensorFlow or PyTorch. Open-source AI accelerates research and development by reducing barriers to entry and fostering a community-driven approach to solving complex computational problems.

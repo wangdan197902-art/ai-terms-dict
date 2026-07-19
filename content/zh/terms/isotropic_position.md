@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /zh/terms/isotropic_position/
 date: "2026-07-18T11:22:43.864958Z"
 lastmod: "2026-07-18T11:44:45.519668Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "凸体的一种几何变换，使其惯性矩阵与单位矩阵成比例，从而简化分析。"
 ---
-
 ## Definition
 
 在凸几何和高维概率中，如果一组点或凸体的质心位于原点，且其协方差矩阵是标量乘以

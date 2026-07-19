@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /sv/terms/loss_function/
 date: "2026-07-18T15:38:50.463998Z"
 lastmod: "2026-07-18T17:15:08.964027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En matematisk funktion som kvantifierar skillnaden mellan förutsagda värden och faktiska målvärden under träningen."
 ---
-
 ## Definition
 
 Också känd som kostnads- eller fel funktion, ger förlustfunktionen ett skalärt värde som indikerar hur väl modellen presterar. Under träningen använder optimeringsalgoritmer detta värde för att beräkna gradienter och justera modellparametrarna för att minska felet och förbättra prediktionsnoggrannheten.

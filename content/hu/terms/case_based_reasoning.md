@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /hu/terms/case_based_reasoning/
 date: "2026-07-18T15:48:56.397115Z"
 lastmod: "2026-07-18T17:15:09.761359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az esetalapú következtetés (CBR) egy AI problémamegoldási megközelítés, amely múltbeli tapasztalatokat vagy hasonló eseteket használ fel új problémák megoldásának megtalálásához."
 ---
-
 ## Definition
 
 A CBR azon elven alapul, hogy a hasonló problémáknak hasonló megoldásaik vannak. A folyamat magában foglalja a leginkább hasonló történeti eset visszakeresését egy tudásbázisból, annak megoldásának adaptálását a jelenlegi helyzethez, majd az új eset rögzítését a jövőbeli felhasználásra.

@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /ro/terms/human_oversight/
 date: "2026-07-18T16:03:21.207629Z"
 lastmod: "2026-07-18T17:15:09.665753Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Practica menținerii controlului și revizuirii umane asupra sistemelor AI automate pentru a asigura siguranța, acuratețea și conformitatea etică."
 ---
-
 ## Definition
 
 Supravegherea umană se referă la mecanismele și procesele prin care oamenii monitorizează, evaluează și intervin în deciziile sau acțiunile conduse de AI. Acest concept este critic pentru asigurarea faptului că sistemele automate funcționează în mod sigur și etic.

@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /zh/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T11:12:55.798998Z"
 lastmod: "2026-07-18T11:44:45.476562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "包含用于训练模型进行语义等价和同义句检测的替代词汇形式的语料库。"
 ---
-
 ## Definition
 
 Altlex 数据集由共享相同底层含义但使用不同词汇或句法结构的句子对组成。它主要用于训练嵌入模型，以捕捉语义上的等价关系。

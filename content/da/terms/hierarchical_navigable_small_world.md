@@ -1,23 +1,24 @@
 ---
-title: "Hierarkisk navigerbar lille verden"
-term_id: "hierarchical_navigable_small_world"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "data_structures"]
+title: Hierarkisk navigerbar lille verden
+term_id: hierarchical_navigable_small_world
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Data Structures
 difficulty: 4
 weight: 1
-slug: "hierarchical_navigable_small_world"
-aliases:
-  - /da/terms/hierarchical_navigable_small_world/
-date: "2026-07-18T16:00:09.047924Z"
-lastmod: "2026-07-18T17:15:09.296135Z"
+slug: hierarchical_navigable_small_world
+date: '2026-07-18T16:00:09.047924Z'
+lastmod: '2026-07-18T17:15:09.296135Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En grafbaseret datastruktur, der muliggør effektiv søgning efter omtrentlige nærmeste naboer i højdimensionale rum."
+source: agnes_llm
+status: published
+language: da
+description: En grafbaseret datastruktur, der muliggør effektiv søgning efter omtrentlige
+  nærmeste naboer i højdimensionale rum.
 ---
-
 ## Definition
 
 Algoritmen Hierarchical Navigable Small World (HNSW) konstruerer en flerlagsgraf, hvor hvert lag indeholder et subset af noder fra laget under. Navigation starter i det øverste lag og bevæger sig mod tættere på målet, før den dykker ned i de tykkere lag for finjustering. Dette giver logaritmisk kompleksitet og hurtig søgning i store datamængder.

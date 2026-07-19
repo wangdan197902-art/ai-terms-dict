@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /id/terms/coqui/
-date: "2026-07-18T15:44:18.928515Z"
-lastmod: "2026-07-18T16:38:07.441006Z"
+slug: coqui
+date: '2026-07-18T15:44:18.928515Z'
+lastmod: '2026-07-18T16:38:07.441006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Coqui adalah perusahaan teknologi suara sumber terbuka yang dikenal karena mengembangkan model teks-ke-suara (text-to-speech) berkualitas tinggi dan multibahasa."
+source: agnes_llm
+status: published
+language: id
+description: Coqui adalah perusahaan teknologi suara sumber terbuka yang dikenal karena
+  mengembangkan model teks-ke-suara (text-to-speech) berkualitas tinggi dan multibahasa.
 ---
-
 ## Definition
 
 Coqui Technologies merupakan pemain utama dalam komunitas AI sumber terbuka, paling dikenal karena mesin TTS (Text-to-Speech)-nya. Proyek ini menyediakan model yang telah dilatih sebelumnya untuk menghasilkan suara yang terdengar alami.

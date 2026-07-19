@@ -1,23 +1,25 @@
 ---
-title: "En contexte"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: En contexte
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /fr/terms/situated/
-date: "2026-07-18T11:38:06.565398Z"
-lastmod: "2026-07-18T11:44:45.327659Z"
+slug: situated
+date: '2026-07-18T11:38:06.565398Z'
+lastmod: '2026-07-18T11:44:45.327659Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Décrit les systèmes ou agents d'IA qui opèrent au sein et s'adaptent à des contextes physiques, sociaux ou environnementaux spécifiques."
+source: agnes_llm
+status: published
+language: fr
+description: Décrit les systèmes ou agents d'IA qui opèrent au sein et s'adaptent
+  à des contextes physiques, sociaux ou environnementaux spécifiques.
 ---
-
 ## Definition
 
 En intelligence artificielle, le terme « en contexte » (ou « situé ») désigne des agents intégrés dans un environnement avec lesquels ils interagissent en temps réel. Contrairement aux solveurs de problèmes abstraits, ces agents doivent traiter les entrées sensorielles et agir dynamiquement selon les conditions changeantes de leur milieu.

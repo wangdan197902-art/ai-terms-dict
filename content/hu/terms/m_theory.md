@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /hu/terms/m_theory/
 date: "2026-07-18T16:11:21.052422Z"
 lastmod: "2026-07-18T17:15:09.805958Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az M-elmélet egy elméleti keretrendszer a fizikában, amely egyesíti a húrelmélet öt különböző változatát, és azt javasolja, hogy az alapvető részecskék egydimenziós membránok rezgései tizenegy dimenzi"
 ---
-
 ## Definition
 
 Bár elsősorban az elméleti fizika fogalma, nem pedig a számítástechnika, az M-elmélet időnként hivatkozási alapként szolgál a haladó számítási szimulációkban és a kvantumszámítási kutatásokban. Azt sugallja, hogy

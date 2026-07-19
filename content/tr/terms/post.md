@@ -1,23 +1,24 @@
 ---
-title: "Gönderi"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Gönderi
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /tr/terms/post/
-date: "2026-07-18T15:27:58.006164Z"
-lastmod: "2026-07-18T16:38:07.240276Z"
+slug: post
+date: '2026-07-18T15:27:58.006164Z'
+lastmod: '2026-07-18T16:38:07.240276Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Genellikle bir blog, sosyal medya platformu veya forumda yayınlanan, kullanıcı tarafından oluşturulan bilgi veya yorumları temsil eden içerik parçası."
+source: agnes_llm
+status: published
+language: tr
+description: Genellikle bir blog, sosyal medya platformu veya forumda yayınlanan,
+  kullanıcı tarafından oluşturulan bilgi veya yorumları temsil eden içerik parçası.
 ---
-
 ## Definition
 
 Dijital iletişim ve yapay zeka veri bağlamlarında 'gönderi', çevrimiçi paylaşılan ayrıntılı bir içerik birimini ifade eder. Doğal dil işleme modellerinin eğitimi, duygu analizi ve toplumsal trendlerin izlenmesi için birincil veri kaynağı olarak hizmet eder.

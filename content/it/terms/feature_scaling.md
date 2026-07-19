@@ -1,23 +1,24 @@
 ---
-title: "Feature Scaling"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Feature Scaling
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /it/terms/feature_scaling/
-date: "2026-07-18T15:59:38.684305Z"
-lastmod: "2026-07-18T17:15:08.625796Z"
+slug: feature_scaling
+date: '2026-07-18T15:59:38.684305Z'
+lastmod: '2026-07-18T17:15:08.625796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di normalizzazione dell'intervallo di variabili indipendenti o funzionalità dei dati per garantire uniformità nella magnitudine."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di normalizzazione dell'intervallo di variabili indipendenti
+  o funzionalità dei dati per garantire uniformità nella magnitudine.
 ---
-
 ## Definition
 
 Il Feature Scaling standardizza l'intervallo delle variabili di input per impedire che le funzionalità con magnitudini maggiori dominino il processo di apprendimento. Metodi comuni includono la normalizzazione (scaling min-max) e la standardizzazione (scala Z), che trasformano i dati affinché abbiano media zero e deviazione standard unitaria, migliorando così la stabilità e la velocità di convergenza degli algoritmi di ottimizzazione.

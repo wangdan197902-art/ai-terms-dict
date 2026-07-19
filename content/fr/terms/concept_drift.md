@@ -1,23 +1,24 @@
 ---
-title: "Dérive conceptuelle"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Dérive conceptuelle
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /fr/terms/concept_drift/
-date: "2026-07-18T11:09:57.482569Z"
-lastmod: "2026-07-18T11:44:45.210239Z"
+slug: concept_drift
+date: '2026-07-18T11:09:57.482569Z'
+lastmod: '2026-07-18T11:44:45.210239Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La dérive conceptuelle se produit lorsque les propriétés statistiques de la variable cible changent au fil du temps, dégradant les performances du modèle."
+source: agnes_llm
+status: published
+language: fr
+description: La dérive conceptuelle se produit lorsque les propriétés statistiques
+  de la variable cible changent au fil du temps, dégradant les performances du modèle.
 ---
-
 ## Definition
 
 La dérive conceptuelle est un phénomène en apprentissage automatique où la relation entre les caractéristiques d'entrée et la sortie cible évolue à mesure que de nouvelles données arrivent. Cela se produit souvent dans des environnements dynamiques où les habitudes des utilisateurs ou les conditions du monde réel changent.

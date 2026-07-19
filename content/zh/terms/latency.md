@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /zh/terms/latency/
 date: "2026-07-18T11:00:35.785279Z"
 lastmod: "2026-07-18T11:44:45.402019Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI系统中请求发起与响应开始之间的时间延迟。"
 ---
-
 ## Definition
 
 延迟衡量AI服务的响应速度，通常以毫秒为单位表示。它包括推理时间、网络传输延迟和处理开销。低延迟对于实时应用至关重要。

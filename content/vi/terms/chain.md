@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /vi/terms/chain/
 date: "2026-07-18T15:43:56.697937Z"
 lastmod: "2026-07-18T16:38:07.735410Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một chuỗi là một dãy các bước hoặc mô-đun được kết nối với nhau, xử lý dữ liệu theo trình tự để thực hiện một nhiệm vụ phức tạp."
 ---
-
 ## Definition
 
 Trong phát triển ứng dụng AI, Chuỗi đề cập đến cấu trúc đồ thị tuyến tính hoặc có hướng, nơi nhiều thành phần như lệnh gọi LLM, bộ phân tích cú pháp hoặc công cụ bên ngoài được liên kết với nhau. Dữ liệu chảy từ thành phần này sang thành phần khác.

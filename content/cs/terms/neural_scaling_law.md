@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /cs/terms/neural_scaling_law/
 date: "2026-07-18T16:10:53.837750Z"
 lastmod: "2026-07-18T17:15:09.157868Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Empirické vztahy předpovídající zlepšení výkonu modelu na základě zvýšení objemu dat, počtu parametrů nebo výpočetního výkonu."
 ---
-
 ## Definition
 
 Zákony škálování neuronových sítí popisují předvídatelný vztah mocninného zákona mezi výkonem modelu a jeho škálou, včetně velikosti datové sady, počtu parametrů a výpočetního rozpočtu. Tyto zákony naznačují, že...

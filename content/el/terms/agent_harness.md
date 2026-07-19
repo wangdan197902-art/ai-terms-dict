@@ -1,23 +1,25 @@
 ---
-title: "Πλαίσιο Διαχείρισης Πράκτορα"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Πλαίσιο Διαχείρισης Πράκτορα
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /el/terms/agent_harness/
-date: "2026-07-18T15:48:15.226764Z"
-lastmod: "2026-07-18T17:15:09.877245Z"
+slug: agent_harness
+date: '2026-07-18T15:48:15.226764Z'
+lastmod: '2026-07-18T17:15:09.877245Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα πλαίσιο διαχείρισης πράκτορα (agent harness) είναι ένα στρώμα υποδομής ή πλατφόρμα που διαχειρίζεται τον κύκλο ζωής, την επικοινωνία και την κατανομή πόρων πολλών πρακτόρων ΤΝ μέσα σε ένα σύστημα."
+source: agnes_llm
+status: published
+language: el
+description: Ένα πλαίσιο διαχείρισης πράκτορα (agent harness) είναι ένα στρώμα υποδομής
+  ή πλατφόρμα που διαχειρίζεται τον κύκλο ζωής, την επικοινωνία και την κατανομή πόρων
+  πολλών πρακτόρων ΤΝ μέσα σε ένα σύστημα.
 ---
-
 ## Definition
 
 Δρα ως η ραχοκοκαλιά για συστήματα πολλαπλών πρακτόρων, παρέχοντας εργαλεία για τον συγχρονισμό, την παρακολούθηση και τον συντονισμό μεταξύ των πρακτόρων. Το πλαίσιο εξασφαλίζει ότι οι πράκτορες μπορούν να λειτουργούν αποδοτικά χωρίς παρεμβολές.

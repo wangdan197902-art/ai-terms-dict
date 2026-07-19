@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /da/terms/embedding_model/
 date: "2026-07-18T15:34:56.413714Z"
 lastmod: "2026-07-18T17:15:09.243862Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En embedding-model omdanner rådata som tekst eller billeder til tætte numeriske vektorer, der repræsenterer semantisk betydning."
 ---
-
 ## Definition
 
 Disse modeller kortlægger højdimensionelle data til et lavdimensionelt kontinuert vektorrum, hvor lignende elementer placeres tættere sammen. Denne transformation fanger semantiske relationer, hvilket gør det muligt for maskiner at forstå og sammenligne betydningen af data.

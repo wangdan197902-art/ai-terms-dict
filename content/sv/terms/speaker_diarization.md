@@ -1,23 +1,23 @@
 ---
-title: "Talardiarisering"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Talardiarisering
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /sv/terms/speaker_diarization/
-date: "2026-07-18T16:21:30.782402Z"
-lastmod: "2026-07-18T17:15:09.049946Z"
+slug: speaker_diarization
+date: '2026-07-18T16:21:30.782402Z'
+lastmod: '2026-07-18T17:15:09.049946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att avgöra 'vem som pratade när' i en ljudinspelning."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att avgöra 'vem som pratade när' i en ljudinspelning.
 ---
-
 ## Definition
 
 Talardiarisering är uppgiften att partitionera en ljudström i homogena segment baserat på talarens identitet. Den kombinerar detektion av talarbyten med klustering av talare för att etikettera vem som sa vad.

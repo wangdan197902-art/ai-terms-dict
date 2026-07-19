@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /he/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T16:01:23.149558Z"
 lastmod: "2026-07-18T17:15:09.543123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הסמכות של ארגונים על מערכות בינה מלאכותית יוצרת לביצוע פעולות קריטיות, מה שמוביל לסיכונים הקשורים לזמינות, דיוק ואבטחה."
 ---
-
 ## Definition
 
 מושג זה מתייחס לתלות האסטרטגית והתפעולית שהעסקים מפגינים כלפי מודלים של בינה מלאכותית יוצרת כדי לבצע משימות חיוניות כגון יצירת תוכן, שירות לקוחות וניתוח נתונים. עם עליית ההטמעה...

@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /ja/terms/loss_function/
 date: "2026-07-18T10:59:28.529730Z"
 lastmod: "2026-07-18T11:44:45.051104Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "トレーニング中に予測値と実際の目標値との差を定量化する数学関数。"
 ---
-
 ## Definition
 
 コスト関数または誤差関数とも呼ばれる損失関数は、モデルの性能がどの程度良好かを示すスカラー値を提供します。トレーニング中、最適化アルゴリズムはこの値を使用して勾配を計算し、モデルのパラメータを更新して誤差を最小化しようとします。

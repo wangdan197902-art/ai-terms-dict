@@ -1,23 +1,24 @@
 ---
-title: "Agent logiciel"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Agent logiciel
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /fr/terms/software_agent/
-date: "2026-07-18T11:38:15.118450Z"
-lastmod: "2026-07-18T11:44:45.328719Z"
+slug: software_agent
+date: '2026-07-18T11:38:15.118450Z'
+lastmod: '2026-07-18T11:44:45.328719Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un programme informatique qui exécute des tâches pour le compte d'utilisateurs ou d'autres programmes avec un certain degré d'autonomie."
+source: agnes_llm
+status: published
+language: fr
+description: Un programme informatique qui exécute des tâches pour le compte d'utilisateurs
+  ou d'autres programmes avec un certain degré d'autonomie.
 ---
-
 ## Definition
 
 Un agent logiciel est une entité autonome capable de percevoir son environnement, de raisonner et d'agir pour atteindre des objectifs spécifiques. Ces agents peuvent fonctionner indépendamment, s'adapter aux changements et collaborer...

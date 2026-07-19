@@ -1,23 +1,23 @@
 ---
-title: "רובוטיקה התפתחותית"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: רובוטיקה התפתחותית
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /he/terms/developmental_robotics/
-date: "2026-07-18T15:53:44.629285Z"
-lastmod: "2026-07-18T17:15:09.532862Z"
+slug: developmental_robotics
+date: '2026-07-18T15:53:44.629285Z'
+lastmod: '2026-07-18T17:15:09.532862Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תחום בין-תחומי החוקר כיצד רובוטים יכולים לרכוש מיומנויות מורכבות באמצעות אינטראקציה עם הסביבה ומטפלים."
+source: agnes_llm
+status: published
+language: he
+description: תחום בין-תחומי החוקר כיצד רובוטים יכולים לרכוש מיומנויות מורכבות באמצעות
+  אינטראקציה עם הסביבה ומטפלים.
 ---
-
 ## Definition
 
 רובוטיקה התפתחותית שאבה השראה מהתפתחות קוגניטיבית אנושית כדי ליצור רובוטים הלומדים באופן עצמאי לאורך זמן. במקום לתכנת מראש את כל ההתנהגויות, מערכות אלו משתמשות במנגנונים כמו למידה בהתבוננות ותגמול עצמי.

@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /nl/terms/podcast/
 date: "2026-07-18T16:12:34.827157Z"
 lastmod: "2026-07-18T17:15:08.777117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een digitaal audio- of videobestand dat beschikbaar wordt gesteld op internet voor downloaden of streamen."
 ---
-
 ## Definition
 
 In de context van AI en technologie verwijst een podcast naar episodische digitale mediainhoud die wordt verspreid via RSS-feeds, waardoor gebruikers kunnen abonneren en luisteren naar discussies, interviews of educatieve...

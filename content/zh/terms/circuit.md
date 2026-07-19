@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /zh/terms/circuit/
 date: "2026-07-18T11:10:07.300868Z"
 lastmod: "2026-07-18T11:44:45.456349Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "电路是指执行计算任务的物理硬件基础设施，包括芯片和互连结构。"
 ---
-
 ## Definition
 
 在人工智能领域，电路通常指底层硬件架构，如专为加速矩阵运算和并行处理而设计的 GPU、TPU 或神经形态芯片。这些硬件构成了 AI 计算的基础设施。

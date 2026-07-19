@@ -1,23 +1,23 @@
 ---
-title: "การปรับแต่งด้วยคำแนะนำ"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: การปรับแต่งด้วยคำแนะนำ
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /th/terms/instruction_tuning/
-date: "2026-07-18T15:26:12.107736Z"
-lastmod: "2026-07-18T16:38:07.540946Z"
+slug: instruction_tuning
+date: '2026-07-18T15:26:12.107736Z'
+lastmod: '2026-07-18T16:38:07.540946Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การปรับแต่งด้วยคำแนะนำเป็นเทคนิคการปรับแต่งโมเดล (fine-tuning) โดยที่โมเดลภาษาที่ผ่านการฝึกฝนมาล่วงหน้าจะถูกฝึกบนชุดข้อมูลคำแนะนำและคำตอบที่เกี่ยวข้อง เพื่อปรับปรุงความสามารถในการปฏิบัติตามคำสั่ง"
+source: agnes_llm
+status: published
+language: th
+description: การปรับแต่งด้วยคำแนะนำเป็นเทคนิคการปรับแต่งโมเดล (fine-tuning) โดยที่โมเดลภาษาที่ผ่านการฝึกฝนมาล่วงหน้าจะถูกฝึกบนชุดข้อมูลคำแนะนำและคำตอบที่เกี่ยวข้อง
+  เพื่อปรับปรุงความสามารถในการปฏิบัติตามคำสั่ง
 ---
-
 ## Definition
 
 กระบวนการนี้ช่วยเชื่อมโยงช่องว่างระหว่างการฝึกฝนทั่วไป (pre-training) กับประสิทธิภาพในงานเฉพาะเจาะจง โดยการเปิดโอกาสให้โมเดลได้เห็นคู่คำสั่ง-คำตอบที่หลากหลาย โมเดลจึงเรียนรู้ที่จะสรุปผลไปยังงานที่ไม่เคยเห็นมาก่อนโดยไม่จำเป็นต้องมีการปรับพารามิเตอร์เพิ่มเติมสำหรับแต่ละงาน (ad

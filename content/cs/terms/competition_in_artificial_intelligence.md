@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /cs/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:48:38.170383Z"
 lastmod: "2026-07-18T17:15:09.111292Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Soutěž mezi národy, korporacemi a výzkumnými institucemi o vedoucí postavení ve vývoji, inovacích a nasazení AI."
 ---
-
 ## Definition
 
 Soutěž v umělé inteligenci popisuje intenzivní globální závod o pokrok v schopnostech AI, poháněný ekonomickými, vojenskými a vědeckými výhodami. Hlavními hráči jsou technologičtí giganti, vlády a akademické instituce.

@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /fi/terms/source/
 date: "2026-07-18T15:31:12.051133Z"
 lastmod: "2026-07-18T17:15:09.359852Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa tekoälyn kehityksessä ja käyttöönotossa käytetyn datan, koodin tai mallien alkuperään."
 ---
-
 ## Definition
 
 Tekoälyn yhteydessä 'lähde' viittaa yleensä koulutusdatajen, avoimen lähdekoodin kirjastojen tai esikoulutettujen mallien painojen alkuperään. Lähteiden seuranta on kriittistä toistettavuuden ja lisenssin...

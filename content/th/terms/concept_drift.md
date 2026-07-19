@@ -1,23 +1,24 @@
 ---
-title: "การเลื่อนของแนวคิด"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: การเลื่อนของแนวคิด
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /th/terms/concept_drift/
-date: "2026-07-18T15:46:18.725079Z"
-lastmod: "2026-07-18T16:38:07.588030Z"
+slug: concept_drift
+date: '2026-07-18T15:46:18.725079Z'
+lastmod: '2026-07-18T16:38:07.588030Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเลื่อนของแนวคิด เกิดขึ้นเมื่อคุณสมบัติทางสถิติของตัวแปรเป้าหมายเปลี่ยนแปลงไปตามเวลา ส่งผลให้ประสิทธิภาพของโมดอลลดลง"
+source: agnes_llm
+status: published
+language: th
+description: การเลื่อนของแนวคิด เกิดขึ้นเมื่อคุณสมบัติทางสถิติของตัวแปรเป้าหมายเปลี่ยนแปลงไปตามเวลา
+  ส่งผลให้ประสิทธิภาพของโมดอลลดลง
 ---
-
 ## Definition
 
 การเลื่อนของแนวคิดเป็นปรากฏการณ์ในการเรียนรู้ของเครื่องที่ความสัมพันธ์ระหว่างฟีเจอร์นำเข้าและผลลัพธ์เป้าหมายเปลี่ยนแปลงเมื่อมีข้อมูลใหม่เข้ามา สิ่งนี้มักเกิดขึ้นในสภาพแวดล้อมแบบไดนามิกที่พฤติกรรมของผู้ใช้...

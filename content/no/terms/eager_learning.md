@@ -1,23 +1,25 @@
 ---
-title: "Eager learning"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Eager learning
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /no/terms/eager_learning/
-date: "2026-07-18T15:52:45.052503Z"
-lastmod: "2026-07-18T16:38:06.996267Z"
+slug: eager_learning
+date: '2026-07-18T15:52:45.052503Z'
+lastmod: '2026-07-18T16:38:06.996267Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Eager learning er en maskinlæringstilnærming der generaliseringsfunksjonen læres under treningsfasen, noe som gir raske prediksjoner etter at treningen er fullført."
+source: agnes_llm
+status: published
+language: 'no'
+description: Eager learning er en maskinlæringstilnærming der generaliseringsfunksjonen
+  læres under treningsfasen, noe som gir raske prediksjoner etter at treningen er
+  fullført.
 ---
-
 ## Definition
 
 Ved eager learning konstruerer systemet en generell målfunksjon eller modell basert på treningsdata før det møter nye instanser. Dette står i kontrast til lazy learning, som utsetter generaliseringen til prediksjonsfasen.

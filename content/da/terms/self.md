@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /da/terms/self/
 date: "2026-07-18T15:30:04.276318Z"
 lastmod: "2026-07-18T17:15:09.233743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Inden for AI refererer 'selv' til begrebet om en agents identitet eller dens evne til selvrefererende behandling og introspektion."
 ---
-
 ## Definition
 
 Selvom nuværende AI mangler bevidsthed, beskriver termen 'selv' ofte metakognitive evner, hvor en model analyserer sine egne output, konfidensniveauer eller interne tilstande. Det optræder i kontekster som...

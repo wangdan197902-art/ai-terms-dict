@@ -1,23 +1,25 @@
 ---
-title: "Gpt Oss"
-term_id: "gpt_oss"
-category: "basic_concepts"
-subcategory: ""
-tags: ["open_source", "architecture", "deployment"]
+title: Gpt Oss
+term_id: gpt_oss
+category: basic_concepts
+subcategory: ''
+tags:
+- Open Source
+- architecture
+- deployment
 difficulty: 4
 weight: 1
-slug: "gpt_oss"
-aliases:
-  - /cs/terms/gpt_oss/
-date: "2026-07-18T16:00:04.094880Z"
-lastmod: "2026-07-18T17:15:09.135434Z"
+slug: gpt_oss
+date: '2026-07-18T16:00:04.094880Z'
+lastmod: '2026-07-18T17:15:09.135434Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Odkazuje na implementace nebo varianty architektury podobné GPT (Generativní předtrénovaný transformátor) s otevřeným zdrojovým kódem, které jsou veřejně dostupné pro úpravy a distribuci."
+source: agnes_llm
+status: published
+language: cs
+description: Odkazuje na implementace nebo varianty architektury podobné GPT (Generativní
+  předtrénovaný transformátor) s otevřeným zdrojovým kódem, které jsou veřejně dostupné
+  pro úpravy a distribuci.
 ---
-
 ## Definition
 
 GPT OSS obvykle označuje alternativy s otevřeným zdrojovým kódem nebo deriváty proprietárních modelů Generativní předtrénovaný transformátor. Tyto projekty umožňují vývojářům přístup, úpravy a nasazení velkých jazykových

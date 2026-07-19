@@ -1,23 +1,25 @@
 ---
-title: "Autômato de Aprendizado"
-term_id: "learning_automaton"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement-learning", "optimization", "agents"]
+title: Autômato de Aprendizado
+term_id: learning_automaton
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Optimization
+- agents
 difficulty: 3
 weight: 1
-slug: "learning_automaton"
-aliases:
-  - /pt/terms/learning_automaton/
-date: "2026-07-18T15:08:07.232578Z"
-lastmod: "2026-07-18T15:51:59.506992Z"
+slug: learning_automaton
+date: '2026-07-18T15:08:07.232578Z'
+lastmod: '2026-07-18T15:51:59.506992Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um autômato de aprendizado é uma unidade simples de tomada de decisão estocástica que atualiza iterativamente suas probabilidades de ação com base no feedback ambiental para maximizar a recompensa."
+source: agnes_llm
+status: published
+language: pt
+description: Um autômato de aprendizado é uma unidade simples de tomada de decisão
+  estocástica que atualiza iterativamente suas probabilidades de ação com base no
+  feedback ambiental para maximizar a recompensa.
 ---
-
 ## Definition
 
 Este conceito origina-se do aprendizado por reforço e envolve um agente interagindo com um ambiente desconhecido. O autômato seleciona ações de um conjunto finito e recebe um sinal de penalidade ou recompensa.

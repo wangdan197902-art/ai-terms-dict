@@ -1,23 +1,24 @@
 ---
-title: "Busca Híbrida"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Busca Híbrida
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /pt/terms/hybrid_search/
-date: "2026-07-18T15:04:22.846440Z"
-lastmod: "2026-07-18T15:51:59.499326Z"
+slug: hybrid_search
+date: '2026-07-18T15:04:22.846440Z'
+lastmod: '2026-07-18T15:51:59.499326Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estratégia de recuperação que combina busca vetorial semântica com indexação tradicional baseada em palavras-chave para melhorar a precisão e a relevância."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estratégia de recuperação que combina busca vetorial semântica com
+  indexação tradicional baseada em palavras-chave para melhorar a precisão e a relevância.
 ---
-
 ## Definition
 
 A Busca Híbrida integra dois métodos distintos de recuperação: a busca vetorial densa, que captura significado semântico e contexto, e a busca vetorial esparsa (por palavra-chave), que corresponde a termos exatos. Ao aproveitar

@@ -1,23 +1,24 @@
 ---
-title: "FP8 (نقطة عائمة 8 بت)"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8 (نقطة عائمة 8 بت)
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /ar/terms/fp8/
-date: "2026-07-18T15:58:21.198782Z"
-lastmod: "2026-07-18T17:15:08.505835Z"
+slug: fp8
+date: '2026-07-18T15:58:21.198782Z'
+lastmod: '2026-07-18T17:15:08.505835Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "FP8 هو تنسيق للنقاط العائمة بـ 8 بت مصمم لتسريع تدريب واستدلال التعلم العميق مع الحفاظ على مستويات دقة مقبولة."
+source: agnes_llm
+status: published
+language: ar
+description: FP8 هو تنسيق للنقاط العائمة بـ 8 بت مصمم لتسريع تدريب واستدلال التعلم
+  العميق مع الحفاظ على مستويات دقة مقبولة.
 ---
-
 ## Definition
 
 النقطة العائمة 8 (FP8) هو نوع بيانات عددي يوفر توازناً بين الكفاءة الحسابية والدقة، ومحسن خصيصاً للأجهزة الحديثة للذكاء الاصطناعي. فهو يقلل من متطلبات عرض النطاق الترددي للذاكرة.

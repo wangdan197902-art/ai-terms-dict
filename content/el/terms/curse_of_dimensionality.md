@@ -1,23 +1,25 @@
 ---
-title: "Κατάρα της Διαστατικότητας"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Κατάρα της Διαστατικότητας
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /el/terms/curse_of_dimensionality/
-date: "2026-07-18T15:57:32.719554Z"
-lastmod: "2026-07-18T17:15:09.893935Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:57:32.719554Z'
+lastmod: '2026-07-18T17:15:09.893935Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα φαινόμενο όπου ο όγκος του χώρου αυξάνεται εκθετικά με τις διαστάσεις, προκαλώντας αραιότητα των δεδομένων και απώλεια αποτελεσματικότητας των μετρικών απόστασης."
+source: agnes_llm
+status: published
+language: el
+description: Ένα φαινόμενο όπου ο όγκος του χώρου αυξάνεται εκθετικά με τις διαστάσεις,
+  προκαλώντας αραιότητα των δεδομένων και απώλεια αποτελεσματικότητας των μετρικών
+  απόστασης.
 ---
-
 ## Definition
 
 Η κατάρα της διαστατικότητας αναφέρεται σε διάφορα φαινόμενα που προκύπτουν κατά την ανάλυση δεδομένων σε χώρους υψηλών διαστάσεων και δεν εμφανίζονται σε χαμηλές διαστάσεις. Καθώς αυξάνεται ο αριθμός των χαρακτηριστικών, τα δεδομένα γίνονται αραιότερα.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /hu/terms/moe/
 date: "2026-07-18T16:13:36.663340Z"
 lastmod: "2026-07-18T17:15:09.814267Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy építészeti minta, ahol több specializált neurális hálózatot (szakértőt) kapcsolnak össze egy kapuzó mechanizmussal a bemenetek feldolgozására."
 ---
-
 ## Definition
 
 A Szakértők keveréke (MoE) egy gépi tanulási architektúra, amelyet a hatékonyság és a skálázhatóság javítására terveztek. Az MoE nem egyetlen nagy modellt használ minden feladatra, hanem több kisebb 'szakértő' hálózatot alkalmaz.

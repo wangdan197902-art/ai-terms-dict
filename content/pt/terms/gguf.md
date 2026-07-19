@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /pt/terms/gguf/
-date: "2026-07-18T15:00:53.524807Z"
-lastmod: "2026-07-18T15:51:59.492824Z"
+slug: gguf
+date: '2026-07-18T15:00:53.524807Z'
+lastmod: '2026-07-18T15:51:59.492824Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um formato de arquivo desenvolvido pelagger.ai para armazenar e carregar modelos de linguagem grandes quantizados de forma eficiente em hardware local."
+source: agnes_llm
+status: published
+language: pt
+description: Um formato de arquivo desenvolvido pelagger.ai para armazenar e carregar
+  modelos de linguagem grandes quantizados de forma eficiente em hardware local.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format) é um formato de arquivo binário projetado especificamente para executar modelos de linguagem grandes em hardware de consumo. Ele suporta várias técnicas de quantização, permitindo que modelos maiores rodem em dispositivos com recursos limitados, como laptops e PCs domésticos, sem perda significativa de precisão.

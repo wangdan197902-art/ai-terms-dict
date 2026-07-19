@@ -1,23 +1,24 @@
 ---
-title: "Προσέγγιση κατάλληλης λειτουργίας"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Προσέγγιση κατάλληλης λειτουργίας
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /el/terms/fitness_approximation/
-date: "2026-07-18T16:07:36.453833Z"
-lastmod: "2026-07-18T17:15:09.909069Z"
+slug: fitness_approximation
+date: '2026-07-18T16:07:36.453833Z'
+lastmod: '2026-07-18T17:15:09.909069Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική σε εξελικτικούς αλγορίθμους που εκτιμά την ποιότητα της λύσης για τη μείωση του υπολογιστικού κόστους κατά τη βελτιστοποίηση."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική σε εξελικτικούς αλγορίθμους που εκτιμά την ποιότητα της λύσης
+  για τη μείωση του υπολογιστικού κόστους κατά τη βελτιστοποίηση.
 ---
-
 ## Definition
 
 Η προσέγγιση κατάλληλης λειτουργίας χρησιμοποιείται στην εξελικτική υπολογιστική όταν η αξιολόγηση της πραγματικής συνάρτησης κατάλληλης λειτουργίας είναι υπολογιστικά ακριβή ή χρονοβόρα. Αντί να υπολογίζεται η ακριβής τιμή, χρησιμοποιούνται προσομοιωτικά μοντέλα.

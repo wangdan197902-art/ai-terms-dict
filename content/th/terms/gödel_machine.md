@@ -1,23 +1,23 @@
 ---
-title: "เครื่องโกเดล (Gödel Machine)"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: เครื่องโกเดล (Gödel Machine)
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /th/terms/gödel_machine/
-date: "2026-07-18T15:58:09.511054Z"
-lastmod: "2026-07-18T16:38:07.613304Z"
+slug: gödel_machine
+date: '2026-07-18T15:58:09.511054Z'
+lastmod: '2026-07-18T16:38:07.613304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โปรแกรม AI ในทางทฤษฎีที่สามารถปรับปรุงตัวเองได้ โดยสามารถเขียนโค้ดต้นฉบับของตัวเองใหม่ให้มีประสิทธิภาพสูงขึ้นโดยไม่เปลี่ยนเป้าหมายเดิม"
+source: agnes_llm
+status: published
+language: th
+description: โปรแกรม AI ในทางทฤษฎีที่สามารถปรับปรุงตัวเองได้ โดยสามารถเขียนโค้ดต้นฉบับของตัวเองใหม่ให้มีประสิทธิภาพสูงขึ้นโดยไม่เปลี่ยนเป้าหมายเดิม
 ---
-
 ## Definition
 
 เครื่องโกเดลเป็นเครื่องแก้ปัญหารูปแบบสมมติฐานที่เสนอโดยโยrgen Schmidhuber ซึ่งตั้งอยู่บนพื้นฐานของตรรกะรูปนัยและทฤษฎีการคำนวณ ระบบนี้ทำงานโดยการวิเคราะห์โค้ดต้นฉบับของตัวเองอย่างต่อเนื่อง เพื่อค้นหาและแทนที่ส่วนต่างๆ ของโค้ดด้วยเวอร์ชันที่มีประสิทธิภาพสูงกว่า โดยยังคงรักษาฟังก์ชันวัตถุประสงค์ไว้เหมือนเดิม

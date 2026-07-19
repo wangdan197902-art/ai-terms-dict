@@ -1,23 +1,24 @@
 ---
-title: "Controllo intelligente"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Controllo intelligente
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /it/terms/intelligent_control/
-date: "2026-07-18T16:05:07.950863Z"
-lastmod: "2026-07-18T17:15:08.638303Z"
+slug: intelligent_control
+date: '2026-07-18T16:05:07.950863Z'
+lastmod: '2026-07-18T17:15:08.638303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Sistemi di controllo che utilizzano tecniche di IA per gestire processi dinamici complessi, non lineari o incerti."
+source: agnes_llm
+status: published
+language: it
+description: Sistemi di controllo che utilizzano tecniche di IA per gestire processi
+  dinamici complessi, non lineari o incerti.
 ---
-
 ## Definition
 
 Il controllo intelligente impiega metodi di intelligenza artificiale come la logica fuzzy, le reti neurali e gli algoritmi genetici per regolare sistemi in cui la modellazione matematica tradizionale è insufficiente o

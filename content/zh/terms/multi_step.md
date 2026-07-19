@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /zh/terms/multi_step/
 date: "2026-07-18T10:56:59.123946Z"
 lastmod: "2026-07-18T11:44:45.392980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种需要执行一系列逻辑运算或计算才能得出最终解决方案的问题解决策略。"
 ---
-
 ## Definition
 
 多步方法涉及将复杂的查询或任务分解为更小的、可执行的步骤。这种方法在推理任务中至关重要，例如数学问题解决或代码生成。

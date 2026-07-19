@@ -1,23 +1,24 @@
 ---
-title: "AI-veganisme"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: AI-veganisme
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /no/terms/ai_veganism/
-date: "2026-07-18T15:40:26.494889Z"
-lastmod: "2026-07-18T16:38:06.966537Z"
+slug: ai_veganism
+date: '2026-07-18T15:40:26.494889Z'
+lastmod: '2026-07-18T16:38:06.966537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et metaforisk begrep som foreslår at AI-systemer bør operere uten å stole på menneskegenerert data eller arbeidskraft."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et metaforisk begrep som foreslår at AI-systemer bør operere uten å stole
+  på menneskegenerert data eller arbeidskraft.
 ---
-
 ## Definition
 
 AI-veganisme er et spekulativt og metaforisk begrep som refererer til ideen om å lage kunstig intelligens som lærer helt fra syntetisk, selvgenerert eller fysisk verdensdata, i stedet for å gjenta eller stole på menneskelig genererte datasett.

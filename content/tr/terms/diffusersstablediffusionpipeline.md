@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /tr/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:50:05.197030Z"
-lastmod: "2026-07-18T16:38:07.299957Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:50:05.197030Z'
+lastmod: '2026-07-18T16:38:07.299957Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Metinden görüntüye üretim için U-Net ve CLIP önyükleyicilerini kullanan Stable Diffusion v1.5'i çalıştırmak için standart boru hattı."
+source: agnes_llm
+status: published
+language: tr
+description: Metinden görüntüye üretim için U-Net ve CLIP önyükleyicilerini kullanan
+  Stable Diffusion v1.5'i çalıştırmak için standart boru hattı.
 ---
-
 ## Definition
 
 Bu, genel amaçlı metinden görüntüye sentez için yaygın olarak kullanılan Stable Diffusion v1.5 modeli için temel boru hattıdır. Metin istemlerini görsel temsillere dönüştürmek için bir U-Net gürültü giderici ve CLIP metin önyükleyicisine dayanır.

@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /da/terms/coupled_pattern_learner/
 date: "2026-07-18T15:48:22.538045Z"
 lastmod: "2026-07-18T17:15:09.272373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En algoritmisk tilgang, der lærer relationer mellem to distinkte, men korrelerede sæt af mønstre eller træk samtidigt."
 ---
-
 ## Definition
 
 Koblede mønstergenerere er designet til at håndtere data, hvor instanser fra to forskellige rum er forbundet, såsom billeder og deres tekstmæssige beskrivelser. Ved at modellere den fælles fordeling eller...

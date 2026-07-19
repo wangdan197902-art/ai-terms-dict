@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /vi/terms/ai_observability/
 date: "2026-07-18T15:38:31.999798Z"
 lastmod: "2026-07-18T16:38:07.721751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thực tiễn giám sát và hiểu trạng thái bên trong của các hệ thống học máy thông qua nhật ký (logs), chỉ số (metrics) và dấu vết (traces)."
 ---
-
 ## Definition
 
 Khả năng quan sát AI mở rộng việc giám sát phần mềm truyền thống để giải quyết các thách thức độc đáo của các hệ thống học máy. Nó liên quan đến việc theo dõi hiệu suất mô hình, sự trôi dạt dữ liệu và độ trễ suy luận theo thời gian thực, cho phép các nhà phát triển hiểu rõ hơn về hành vi của mô hình trong môi trường sản xuất.

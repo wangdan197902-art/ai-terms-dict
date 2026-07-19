@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /cs/terms/multi/
 date: "2026-07-18T15:27:14.908050Z"
 lastmod: "2026-07-18T17:15:09.073449Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Předpona označující přítomnost více instancí, hlav nebo modalit v rámci systému nebo modelu."
 ---
-
 ## Definition
 
 Předpona 'multi-' se v AI často používá k označení architektur nebo procesů zahrnujících několik paralelních komponent. Příklady zahrnují Multi-Head Attention, která umožňuje modelům zaměřit se na různé reprezentace.

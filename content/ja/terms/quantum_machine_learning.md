@@ -1,23 +1,23 @@
 ---
-title: "量子機械学習"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: 量子機械学習
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /ja/terms/quantum_machine_learning/
-date: "2026-07-18T11:29:25.772187Z"
-lastmod: "2026-07-18T11:44:45.136117Z"
+slug: quantum_machine_learning
+date: '2026-07-18T11:29:25.772187Z'
+lastmod: '2026-07-18T11:44:45.136117Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "量子機械学習（QML）は、量子コンピューティングの能力と機械学習技術を統合する新興の学際的分野です。これは、もつれなどの量子現象を活用して..."
+source: agnes_llm
+status: published
+language: ja
+description: 量子機械学習（QML）は、量子コンピューティングの能力と機械学習技術を統合する新興の学際的分野です。これは、もつれなどの量子現象を活用して...
 ---
-
 ## Definition
 
 

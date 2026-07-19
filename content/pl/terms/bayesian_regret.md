@@ -1,23 +1,24 @@
 ---
-title: "Żal bayesowski"
-term_id: "bayesian_regret"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision_theory", "reinforcement_learning", "metrics"]
+title: Żal bayesowski
+term_id: bayesian_regret
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Theory
+- Reinforcement Learning
+- metrics
 difficulty: 4
 weight: 1
-slug: "bayesian_regret"
-aliases:
-  - /pl/terms/bayesian_regret/
-date: "2026-07-18T15:44:21.525728Z"
-lastmod: "2026-07-18T17:15:08.850543Z"
+slug: bayesian_regret
+date: '2026-07-18T15:44:21.525728Z'
+lastmod: '2026-07-18T17:15:08.850543Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Miara w teorii decyzji mierząca oczekiwane straty wynikające z niepewności co do prawdziwego stanu świata."
+source: agnes_llm
+status: published
+language: pl
+description: Miara w teorii decyzji mierząca oczekiwane straty wynikające z niepewności
+  co do prawdziwego stanu świata.
 ---
-
 ## Definition
 
 Żal bayesowski kwantyfikuje różnicę między optymalną nagrodą osiągalną przy pełnej informacji a oczekiwaną nagrodą uzyskaną przez agenta działającego w warunkach niepewności. Oblicza się go poprzez całkowanie...

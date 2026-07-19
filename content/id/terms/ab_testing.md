@@ -1,23 +1,24 @@
 ---
-title: "Pengujian A/B"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: Pengujian A/B
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /id/terms/ab_testing/
-date: "2026-07-18T15:36:58.340930Z"
-lastmod: "2026-07-18T16:38:07.421756Z"
+slug: ab_testing
+date: '2026-07-18T15:36:58.340930Z'
+lastmod: '2026-07-18T16:38:07.421756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Metode statistik untuk membandingkan dua versi variabel guna menentukan mana yang berkinerja lebih baik."
+source: agnes_llm
+status: published
+language: id
+description: Metode statistik untuk membandingkan dua versi variabel guna menentukan
+  mana yang berkinerja lebih baik.
 ---
-
 ## Definition
 
 Pengujian A/B adalah eksperimen terkontrol secara acak di mana dua varian, A dan B, dibandingkan untuk mengevaluasi mana yang menghasilkan hasil lebih baik dalam metrik tertentu. Dalam rekayasa AI, metode ini sangat penting untuk mengoptimalkan kinerja model dan antarmuka pengguna.

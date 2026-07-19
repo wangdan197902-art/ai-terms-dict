@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /he/terms/elements_of_ai/
 date: "2026-07-18T15:55:35.513109Z"
 lastmod: "2026-07-18T17:15:09.536453Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "יסודות הבינה המלאכותית הוא קורס מקוון חינמי המיועד לספק מבוא רחב ולא טכני למושגי בינה מלאכותית והשפעתם החברתית."
 ---
-
 ## Definition
 
 יוזמה חינוכית זו, שנוצרה על ידי אוניברסיטת הלסינקי ו-Reaktor, שואפת לפענח את מושגי ה-AI עבור הציבור הרחב. הקורס מכסה נושאים יסודיים כגון למידת מכונה, למידה עמוקה, אתיקה והיבטים חברתיים.

@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /no/terms/knowledge_level/
 date: "2026-07-18T16:01:39.338907Z"
 lastmod: "2026-07-18T16:38:07.016419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et abstrakt designperspektiv som fokuserer på hva en agent vet fremfor hvordan den behandler informasjon internt."
 ---
-
 ## Definition
 
 Myntet av Allen Newell, analyserer kunnskapsnivået intelligente systemer basert på deres tro og mål, uavhengig av deres fysiske implementering. Det skiller agentens handlings rasjonalitet fra dens underliggende mekanismer.

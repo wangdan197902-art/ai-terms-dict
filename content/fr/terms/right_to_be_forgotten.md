@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /fr/terms/right_to_be_forgotten/
 date: "2026-07-18T11:43:33.674808Z"
 lastmod: "2026-07-18T11:44:45.360831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un concept juridique permettant aux individus de demander la suppression de leurs données personnelles détenues par des organisations."
 ---
-
 ## Definition
 
 Le droit à l'oubli permet aux utilisateurs d'exiger la suppression de leurs informations personnelles des bases de données et des ensembles d'entraînement d'IA. Mettre cela en œuvre dans l'apprentissage automatique est difficile car les modèles peuvent

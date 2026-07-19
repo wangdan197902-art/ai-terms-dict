@@ -1,23 +1,23 @@
 ---
-title: "学习自动机"
-term_id: "learning_automaton"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement-learning", "optimization", "agents"]
+title: 学习自动机
+term_id: learning_automaton
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Optimization
+- agents
 difficulty: 3
 weight: 1
-slug: "learning_automaton"
-aliases:
-  - /zh/terms/learning_automaton/
-date: "2026-07-18T11:23:53.060653Z"
-lastmod: "2026-07-18T11:44:45.523932Z"
+slug: learning_automaton
+date: '2026-07-18T11:23:53.060653Z'
+lastmod: '2026-07-18T11:44:45.523932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "学习自动机是一种简单的随机决策单元，它根据环境反馈迭代更新动作概率，以最大化奖励。"
+source: agnes_llm
+status: published
+language: zh
+description: 学习自动机是一种简单的随机决策单元，它根据环境反馈迭代更新动作概率，以最大化奖励。
 ---
-
 ## Definition
 
 这一概念源于强化学习，涉及智能体与未知环境的交互。自动机从有限集合中选择动作，并接收表示成功或失败的惩罚或奖励信号，从而调整其策略。

@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /vi/terms/elements_of_ai/
 date: "2026-07-18T15:51:26.003657Z"
 lastmod: "2026-07-18T16:38:07.753099Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Elements of AI là một khóa học trực tuyến miễn phí được thiết kế để cung cấp cái nhìn tổng quan, phi kỹ thuật về các khái niệm trí tuệ nhân tạo và tác động xã hội của chúng."
 ---
-
 ## Definition
 
 Được tạo ra bởi Đại học Helsinki và Reaktor, sáng kiến giáo dục này nhằm mục đích gỡ bỏ những hiểu lầm về AI đối với công chúng. Khóa học bao gồm các chủ đề cơ bản như học máy, học sâu, đạo đức AI và các ứng dụng thực tế.

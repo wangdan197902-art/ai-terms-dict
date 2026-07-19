@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /nl/terms/graphql/
 date: "2026-07-18T15:57:50.610579Z"
 lastmod: "2026-07-18T17:15:08.750063Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "GraphQL is een querytaal voor API's en een runtime om die queries te vervullen met bestaande gegevens, waardoor klanten precies kunnen aanvragen wat ze nodig hebben."
 ---
-
 ## Definition
 
 Ontwikkeld door Facebook, biedt GraphQL een complete en begrijpelijke beschrijving van de gegevens in je API, waardoor klanten de kracht krijgen om precies te vragen wat ze nodig hebben en niets meer. Het vervangt meerdere endpoints...

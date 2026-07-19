@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /zh/terms/ai_addiction/
 date: "2026-07-18T11:02:40.820866Z"
 lastmod: "2026-07-18T11:44:45.433375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "与人工智能系统交互产生的心理依赖，导致强迫性使用行为。"
 ---
-
 ## Definition
 
 AI 成瘾描述的是一种行为状况，即个人对 AI 驱动的交互（如聊天机器人或社交媒体算法）产生强迫性依赖。这种依赖通常源于多巴胺反馈循环。

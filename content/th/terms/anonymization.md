@@ -1,23 +1,23 @@
 ---
-title: "การทำให้ข้อมูลเป็นนิรนาม"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: การทำให้ข้อมูลเป็นนิรนาม
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /th/terms/anonymization/
-date: "2026-07-18T15:41:19.206688Z"
-lastmod: "2026-07-18T16:38:07.573059Z"
+slug: anonymization
+date: '2026-07-18T15:41:19.206688Z'
+lastmod: '2026-07-18T16:38:07.573059Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการลบข้อมูลที่สามารถระบุตัวตนบุคคลออกจากชุดข้อมูล เพื่อปกป้องความเป็นส่วนตัวของปัจเจกบุคคล"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการลบข้อมูลที่สามารถระบุตัวตนบุคคลออกจากชุดข้อมูล เพื่อปกป้องความเป็นส่วนตัวของปัจเจกบุคคล
 ---
-
 ## Definition
 
 การทำให้ข้อมูลเป็นนิรนามเกี่ยวข้องกับการปรับเปลี่ยนข้อมูลจนไม่สามารถเชื่อมโยงกับบุคคลเฉพาะได้อีกต่อไป โดยไม่จำเป็นต้องใช้ข้อมูลเพิ่มเติม เทคนิคนี้มีความสำคัญอย่างยิ่งในแมชชีนเลิร์นนิงเมื่อจัดการกับข้อมูลที่ละเอียดอ่อน

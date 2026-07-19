@@ -1,23 +1,24 @@
 ---
-title: "Modelo sustituto"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Modelo sustituto
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /es/terms/surrogate_model/
-date: "2026-07-18T11:09:24.296461Z"
-lastmod: "2026-07-18T11:44:44.858584Z"
+slug: surrogate_model
+date: '2026-07-18T11:09:24.296461Z'
+lastmod: '2026-07-18T11:44:44.858584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un modelo matemático simplificado utilizado para aproximar el comportamiento de un modelo más complejo, computacionalmente costoso o inaccesible."
+source: agnes_llm
+status: published
+language: es
+description: Un modelo matemático simplificado utilizado para aproximar el comportamiento
+  de un modelo más complejo, computacionalmente costoso o inaccesible.
 ---
-
 ## Definition
 
 En aprendizaje automático y optimización, un modelo sustituto actúa como un proxy para una función objetivo que es difícil de evaluar directamente. Se entrena con pares entrada-salida del modelo original para aproximar su comportamiento.

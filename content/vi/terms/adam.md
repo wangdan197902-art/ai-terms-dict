@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /vi/terms/adam/
 date: "2026-07-18T15:23:17.677395Z"
 lastmod: "2026-07-18T16:38:07.679490Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật toán tối ưu hóa tính toán tốc độ học thích ứng cho từng tham số."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation - Ước lượng Moment Thích ứng) là một thuật toán tối ưu hóa bậc nhất dựa trên gradient phổ biến, được sử dụng trong việc huấn luyện các mạng nơ-ron sâu. Nó kết hợp những lợi thế của hai phần mở rộng khác của phương pháp ngẫu nhiên

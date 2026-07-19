@@ -1,23 +1,24 @@
 ---
-title: "למידת מכונה במשחקי וידאו"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: למידת מכונה במשחקי וידאו
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /he/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:11:36.448587Z"
-lastmod: "2026-07-18T17:15:09.561864Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:11:36.448587Z'
+lastmod: '2026-07-18T17:15:09.561864Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "יישום אלגוריתמים של למידת מכונה כדי לשפר את פיתוח המשחקים, ליצור דמויות לא שחקניות (NPCs) מותאמות אישית, ולבצע אופטימיזציה לחווית המשחק."
+source: agnes_llm
+status: published
+language: he
+description: יישום אלגוריתמים של למידת מכונה כדי לשפר את פיתוח המשחקים, ליצור דמויות
+  לא שחקניות (NPCs) מותאמות אישית, ולבצע אופטימיזציה לחווית המשחק.
 ---
-
 ## Definition
 
 תחום זה כולל שילוב טכניקות של למידת מכונה בזרזי עבודה של משחקי וידאו כדי אוטומציה של יצירת נכסים, איזון מנגנוני משחק ויצירת תוכן דינמי. התחום נע בין שימוש בלמידה מחזקת לפיתוח התנהגויות מורכבות ועד ליצירה פרוצדורלית של עולמות משחק.

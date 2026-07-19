@@ -1,23 +1,25 @@
 ---
-title: "Нормализация"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Нормализация
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /ru/terms/normalization/
-date: "2026-07-18T16:08:13.629548Z"
-lastmod: "2026-07-18T16:38:07.186582Z"
+slug: normalization
+date: '2026-07-18T16:08:13.629548Z'
+lastmod: '2026-07-18T16:38:07.186582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Нормализация — это техника предварительной обработки данных, которая масштабирует числовые признаки до стандартного диапазона (обычно от 0 до 1) для улучшения сходимости и производительности модели."
+source: agnes_llm
+status: published
+language: ru
+description: Нормализация — это техника предварительной обработки данных, которая
+  масштабирует числовые признаки до стандартного диапазона (обычно от 0 до 1) для
+  улучшения сходимости и производительности модели.
 ---
-
 ## Definition
 
 Распространенные методы включают масштабирование Min-Max и стандартизацию Z-оценки. Этот процесс гарантирует, что признаки с большими значениями не будут доминировать в алгоритме обучения, особенно при градиентной оптимизации.

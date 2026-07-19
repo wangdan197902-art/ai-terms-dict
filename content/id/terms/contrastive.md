@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /id/terms/contrastive/
 date: "2026-07-18T15:23:55.525170Z"
 lastmod: "2026-07-18T16:38:07.390437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pembelajaran kontrastif adalah teknik pembelajaran mandiri yang melatih model untuk membedakan antara pasangan data yang mirip dan tidak mirip."
 ---
-
 ## Definition
 
 Metode ini mendorong model untuk mendekatkan embedding pasangan positif (item serupa) dan menjauhkan pasangan negatif (item berbeda) dalam ruang laten. Teknik ini banyak digunakan dalam representasi visual dan pemrosesan bahasa alami untuk pembelajaran fitur tanpa label.

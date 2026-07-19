@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /ja/terms/sparkles_emoji/
 date: "2026-07-18T11:32:47.846220Z"
 lastmod: "2026-07-18T11:44:45.145935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIインターフェースでよく使用される視覚記号で、新しい機能、強化、または生成コンテンツにおける魔法のような変換を示すために使われます。"
 ---
-
 ## Definition
 
 スパークル絵文字は、AIアプリケーションのユーザーインターフェースにおいて、新規性、改善、または創造的な強化を意味するために頻繁に使用されるグラフィカルアイコンです。これは、何かが更新されたことまたは強化されたことを示す非言語的な手がかりとして機能します。

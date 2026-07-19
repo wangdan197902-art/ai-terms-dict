@@ -1,23 +1,24 @@
 ---
-title: "İstem (Prompt)"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: İstem (Prompt)
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /tr/terms/prompt/
-date: "2026-07-18T15:28:12.292667Z"
-lastmod: "2026-07-18T16:38:07.241066Z"
+slug: prompt
+date: '2026-07-18T15:28:12.292667Z'
+lastmod: '2026-07-18T16:38:07.241066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Belirli bir yanıt veya davranış elde etmek için üretken bir yapay zeka modeline sağlanan metin girdisi veya talimat."
+source: agnes_llm
+status: published
+language: tr
+description: Belirli bir yanıt veya davranış elde etmek için üretken bir yapay zeka
+  modeline sağlanan metin girdisi veya talimat.
 ---
-
 ## Definition
 
 Bir istem, büyük dil modelleri ve diğer üretken yapay zeka sistemleriyle etkileşim kurmanın temel arayüzünü oluşturur. Model çıktısı için bağlamı, tonu ve kısıtlamaları tanımlar. Etkili 

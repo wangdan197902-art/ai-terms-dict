@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /zh/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T11:12:55.799016Z"
 lastmod: "2026-07-18T11:44:45.476794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个源自维基百科的大规模问答对数据集，旨在用于稠密段落检索的训练。"
 ---
-
 ## Definition
 
 PAQ（伪答案质量）数据集包含从维基百科中提取的数百万个自动生成的问答对。它是专门为提供训练稠密检索器所需的数据而设计的。

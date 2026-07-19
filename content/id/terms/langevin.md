@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /id/terms/langevin/
 date: "2026-07-18T15:26:40.980501Z"
 lastmod: "2026-07-18T16:38:07.395834Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Langevin merujuk pada persamaan diferensial stokastik, khususnya dinamika Langevin, yang digunakan untuk mengambil sampel dari distribusi probabilitas dengan mensimulasikan gerakan fisik dengan geseka"
 ---
-
 ## Definition
 
 Dinamika Langevin menggabungkan kebisingan acak dan gaya peredaman untuk mengeksplorasi lanskap energi secara efisien. Dalam AI, metode ini terutama digunakan dalam metode pengambilan sampel seperti Hamiltonian Monte Carlo atau Stochastic Grad

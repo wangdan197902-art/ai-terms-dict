@@ -1,23 +1,24 @@
 ---
-title: "Transferlernen"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Transferlernen
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /de/terms/transfer_learning/
-date: "2026-07-18T10:54:44.482454Z"
-lastmod: "2026-07-18T11:44:44.885960Z"
+slug: transfer_learning
+date: '2026-07-18T10:54:44.482454Z'
+lastmod: '2026-07-18T11:44:44.885960Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Methode des maschinellen Lernens, bei der ein für eine Aufgabe entwickeltes Modell als Ausgangspunkt für ein Modell einer zweiten Aufgabe wiederverwendet wird."
+source: agnes_llm
+status: published
+language: de
+description: Eine Methode des maschinellen Lernens, bei der ein für eine Aufgabe entwickeltes
+  Modell als Ausgangspunkt für ein Modell einer zweiten Aufgabe wiederverwendet wird.
 ---
-
 ## Definition
 
 Transferlernen nutzt vortrainierte Modelle, um die Leistung zu verbessern und die Trainingszeit für neue, verwandte Aufgaben zu verkürzen. Anstatt von Grund auf neu zu trainieren, passen Entwickler die vorhandenen Gewichte an (Feinabstimmung), wodurch...

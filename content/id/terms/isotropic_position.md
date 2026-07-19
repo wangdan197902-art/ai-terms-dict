@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /id/terms/isotropic_position/
 date: "2026-07-18T15:56:23.067552Z"
 lastmod: "2026-07-18T16:38:07.472370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Transformasi geometris dari tubuh cembung di mana matriks inersianya sebanding dengan matriks identitas, menyederhanakan analisis."
 ---
-
 ## Definition
 
 Dalam geometri cembung dan probabilitas berdimensi tinggi, sekumpulan titik atau tubuh cembung berada dalam posisi isotropik jika pusat massanya berada di titik asal dan matriks kovariansnya merupakan kelipatan skalar dari matriks identitas. Posisi ini sangat berguna dalam analisis teoretis karena menyederhanakan struktur statistik data, memungkinkan penerapan hasil konsentrasi ukuran dan batas-batas probabilistik yang lebih kuat dalam pembelajaran mesin dan fisika statistik.

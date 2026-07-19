@@ -1,23 +1,24 @@
 ---
-title: "Análise de Sentimento Multimodal"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Análise de Sentimento Multimodal
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /pt/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T15:13:55.020020Z"
-lastmod: "2026-07-18T15:51:59.515736Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T15:13:55.020020Z'
+lastmod: '2026-07-18T15:51:59.515736Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A análise computacional do sentimento humano integrando pistas textuais, visuais e auditivas."
+source: agnes_llm
+status: published
+language: pt
+description: A análise computacional do sentimento humano integrando pistas textuais,
+  visuais e auditivas.
 ---
-
 ## Definition
 
 A análise de sentimento multimodal estende a detecção tradicional baseada apenas em texto, incorporando sinais adicionais como expressões faciais, tom de voz e linguagem corporal. Essa abordagem holística permite uma compreensão mais precisa das emoções.

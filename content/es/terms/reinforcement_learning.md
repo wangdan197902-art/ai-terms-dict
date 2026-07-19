@@ -1,23 +1,24 @@
 ---
-title: "Aprendizaje por Refuerzo"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Aprendizaje por Refuerzo
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /es/terms/reinforcement_learning/
-date: "2026-07-18T10:25:55.491412Z"
-lastmod: "2026-07-18T11:44:44.749432Z"
+slug: reinforcement_learning
+date: '2026-07-18T10:25:55.491412Z'
+lastmod: '2026-07-18T11:44:44.749432Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El Aprendizaje por Refuerzo es un tipo de aprendizaje automático en el que los agentes aprenden a tomar decisiones interactuando con un entorno para maximizar las recompensas."
+source: agnes_llm
+status: published
+language: es
+description: El Aprendizaje por Refuerzo es un tipo de aprendizaje automático en el
+  que los agentes aprenden a tomar decisiones interactuando con un entorno para maximizar
+  las recompensas.
 ---
-
 ## Definition
 
 El Aprendizaje por Refuerzo (RL) es una rama del aprendizaje automático centrada en cómo los agentes inteligentes deben realizar acciones en un entorno para maximizar la noción de recompensa acumulativa. A diferencia del aprendizaje supervisado,

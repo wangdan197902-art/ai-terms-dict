@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /id/terms/decision/
 date: "2026-07-18T15:24:08.262212Z"
 lastmod: "2026-07-18T16:38:07.390663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pilihan yang dibuat oleh agen atau algoritme setelah mengevaluasi opsi yang tersedia terhadap kriteria atau tujuan tertentu."
 ---
-
 ## Definition
 
 Pengambilan keputusan dalam AI melibatkan pemilihan tindakan optimal dari sejumlah kemungkinan berdasarkan data, model, dan tujuan yang telah ditentukan sebelumnya. Proses ini dapat bersifat deterministik, mengikuti aturan ketat, atau probabilistik, yang memperhitungkan ketidakpastian dan risiko untuk menghasilkan hasil terbaik dalam situasi yang kompleks.

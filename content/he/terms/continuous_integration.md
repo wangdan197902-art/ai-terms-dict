@@ -1,23 +1,24 @@
 ---
-title: "אינטגרציה מתמשכת"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: אינטגרציה מתמשכת
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /he/terms/continuous_integration/
-date: "2026-07-18T15:35:59.256332Z"
-lastmod: "2026-07-18T17:15:09.497591Z"
+slug: continuous_integration
+date: '2026-07-18T15:35:59.256332Z'
+lastmod: '2026-07-18T17:15:09.497591Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרקטיקה בפיתוח תוכנה שבה מפתחים משלבים שינויי קוד באופן תדיר למאגר מרכזי, מה שמפעיל בנייה ובדיקות אוטומטיות."
+source: agnes_llm
+status: published
+language: he
+description: פרקטיקה בפיתוח תוכנה שבה מפתחים משלבים שינויי קוד באופן תדיר למאגר מרכזי,
+  מה שמפעיל בנייה ובדיקות אוטומטיות.
 ---
-
 ## Definition
 
 אינטגרציה מתמשכת (CI) היא פרקטיקה קריטית ב-DevOps המאוטמטת את שילוב שינויי הקוד ממספר תורמים לפרויקט תוכנה אחד. על ידי הרצת בנייה ובדיקות אוטומטיות

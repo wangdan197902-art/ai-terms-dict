@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /cs/terms/superintelligence_ban/
 date: "2026-07-18T16:19:25.746006Z"
 lastmod: "2026-07-18T17:15:09.204405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Navrhované regulační opatření nebo etický postoj prosazující zákaz vývoje obecné umělé inteligence, která předčí lidské kognitivní schopnosti."
 ---
-
 ## Definition
 
 Tento koncept se týká debaty a potenciální politiky ohledně omezení nebo úplného zastavení výzkumu superinteligence (ASI). Příznivci argumentují tím, že ASI představuje existenční rizika

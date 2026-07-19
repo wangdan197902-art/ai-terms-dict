@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /ko/terms/self_consistency/
 date: "2026-07-18T16:14:49.554374Z"
 lastmod: "2026-07-18T16:38:06.906339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "여러 추론 경로를 샘플링하여 가장 빈번하게 나타나는 답변을 최종 출력으로 선택하는 디코딩 전략입니다."
 ---
-
 ## Definition
 
 주로 대규모 언어 모델(LLM)에서 사용되는 이 기법은 샘플링을 통해 프롬프트에 대해 다양한 응답을 여러 개 생성함으로써 정확도를 향상시킵니다. 탐욕적 디코딩(Greedy decoding)에 의존하는 대신, 생성된 여러 답변 중에서 다수결 원칙을 적용하여 가장 일관성 있는 결과를 선택합니다.

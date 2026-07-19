@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /ar/terms/cognitive_robotics/
 date: "2026-07-18T15:48:49.318382Z"
 lastmod: "2026-07-18T17:15:08.485206Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الروبوتات المعرفية هو مجال يركز على إنشاء روبوتات ذات قدرات معرفية تشبه البشر، مثل الإدراك والاستنتاج والتعلم."
 ---
-
 ## Definition
 
 تدمج الروبوتات المعرفية العلوم المعرفية مع الروبوتيات لبناء آلات يمكنها إدراك بيئتها، والتعلم من الخبرة، واتخاذ قرارات مستقلة. تستخدم هذه الروبوتات تقنيات متقدمة...

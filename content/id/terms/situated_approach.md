@@ -1,23 +1,25 @@
 ---
-title: "Pendekatan Terletak"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Pendekatan Terletak
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /id/terms/situated_approach/
-date: "2026-07-18T16:08:52.692241Z"
-lastmod: "2026-07-18T16:38:07.507071Z"
+slug: situated_approach
+date: '2026-07-18T16:08:52.692241Z'
+lastmod: '2026-07-18T16:38:07.507071Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Paradigma desain dalam AI yang mengutamakan perilaku yang bergantung pada konteks dan interaksi lingkungan dibandingkan penalaran abstrak."
+source: agnes_llm
+status: published
+language: id
+description: Paradigma desain dalam AI yang mengutamakan perilaku yang bergantung
+  pada konteks dan interaksi lingkungan dibandingkan penalaran abstrak.
 ---
-
 ## Definition
 
 Pendekatan terletak adalah kerangka metodologis dalam penelitian AI yang berpendapat bahwa perilaku cerdas tidak dapat dipisahkan dari lingkungan tempat perilaku itu terjadi. Pendekatan ini menganjurkan pembangunan sistem yang...

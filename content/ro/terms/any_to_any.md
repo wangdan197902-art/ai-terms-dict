@@ -1,23 +1,25 @@
 ---
-title: "Orice la Orice"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Orice la Orice
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /ro/terms/any_to_any/
-date: "2026-07-18T15:44:13.362385Z"
-lastmod: "2026-07-18T17:15:09.627229Z"
+slug: any_to_any
+date: '2026-07-18T15:44:13.362385Z'
+lastmod: '2026-07-18T17:15:09.627229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O capacitate a inteligenței artificiale generative care permite modelelor să convertească intrarea dintr-o modalitate direct în ieșirea dintr-o altă modalitate arbitrară."
+source: agnes_llm
+status: published
+language: ro
+description: O capacitate a inteligenței artificiale generative care permite modelelor
+  să convertească intrarea dintr-o modalitate direct în ieșirea dintr-o altă modalitate
+  arbitrară.
 ---
-
 ## Definition
 
 Abordarea 'Orice la Orice' se referă la arhitecturi multimodale unificate capabile să gestioneze diverse combinații intrare-ieșire, cum ar fi text-la-imagine, imagine-la-text sau audio-la-video. Spre deosebire de modelele specializate, aceste sisteme oferă flexibilitate maximă în procesarea datelor.

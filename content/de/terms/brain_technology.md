@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /de/terms/brain_technology/
 date: "2026-07-18T11:06:13.411500Z"
 lastmod: "2026-07-18T11:44:44.915997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Technologien, die darauf ausgelegt sind, mit dem menschlichen Gehirn zu interagieren, es zu überwachen oder zu modulieren, einschließlich BCIs und Neuroimaging-Tools."
 ---
-
 ## Definition
 
 Gehirntechnologie umfasst Hardware- und Softwaresysteme, die direkt mit dem zentralen Nervensystem interagieren. Zu den wichtigsten Beispielen gehören Brain-Computer Interfaces (BCIs), die neuronale Signale in

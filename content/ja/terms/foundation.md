@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /ja/terms/foundation/
 date: "2026-07-18T10:51:14.545043Z"
 lastmod: "2026-07-18T11:44:45.009227Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "広大なデータセットで事前学習され、さまざまな下流タスクの基盤として機能するモデル。"
 ---
-
 ## Definition
 
 人工知能において、ファウンデーションモデルとは、画像、テキスト、音声など、大規模な広範なデータを用いて訓練された大規模な機械学習モデルを指します。これらのモデルは適応性を重視して設計されており、特定のタスクに合わせて調整することで多様な用途に適用可能です。

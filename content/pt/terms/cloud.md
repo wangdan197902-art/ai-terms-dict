@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /pt/terms/cloud/
 date: "2026-07-18T14:33:38.720511Z"
 lastmod: "2026-07-18T15:51:59.426422Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A nuvem refere-se a servidores remotos hospedados na internet usados para armazenar, gerenciar e processar dados e modelos de IA, em vez de hardware local."
 ---
-
 ## Definition
 
 A computação em nuvem fornece infraestrutura escalável para cargas de trabalho de IA, permitindo que desenvolvedores acessem GPUs poderosas e armazenamento sem manter data centers físicos. Suporta vários modelos de serviço...

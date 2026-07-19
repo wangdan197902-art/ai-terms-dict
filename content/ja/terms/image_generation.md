@@ -1,23 +1,22 @@
 ---
-title: "画像生成"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: 画像生成
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /ja/terms/image_generation/
-date: "2026-07-18T11:19:01.093782Z"
-lastmod: "2026-07-18T11:44:45.107990Z"
+slug: image_generation
+date: '2026-07-18T11:19:01.093782Z'
+lastmod: '2026-07-18T11:44:45.107990Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "画像生成は、生成AIモデルを使用して、ゼロから新しい視覚コンテンツを作成したり、既存の画像を変更したりするプロセスです。"
+source: agnes_llm
+status: published
+language: ja
+description: 画像生成は、生成AIモデルを使用して、ゼロから新しい視覚コンテンツを作成したり、既存の画像を変更したりするプロセスです。
 ---
-
 ## Definition
 
 このパラダイムは、Stable DiffusionやDALL-Eなどのモデルを利用し、テキストプロンプトやその他の入力に基づいて高品質な画像を生成します。これは、現実的なデータを合成するために複雑なデータ分布を学習することを含みます。

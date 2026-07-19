@@ -1,23 +1,24 @@
 ---
-title: "Hipotesis Manifold"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Hipotesis Manifold
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /id/terms/manifold_hypothesis/
-date: "2026-07-18T15:59:34.770366Z"
-lastmod: "2026-07-18T16:38:07.481394Z"
+slug: manifold_hypothesis
+date: '2026-07-18T15:59:34.770366Z'
+lastmod: '2026-07-18T16:38:07.481394Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Asumsi bahwa data dunia nyata berdimensi tinggi terletak pada manifold nonlinier berdimensi lebih rendah di dalam ruang berdimensi lebih tinggi."
+source: agnes_llm
+status: published
+language: id
+description: Asumsi bahwa data dunia nyata berdimensi tinggi terletak pada manifold
+  nonlinier berdimensi lebih rendah di dalam ruang berdimensi lebih tinggi.
 ---
-
 ## Definition
 
 Hipotesis ini menjelaskan mengapa pembelajaran mendalam bekerja secara efektif meskipun menghadapi kutukan dimensi. Ini menunjukkan bahwa meskipun data seperti gambar ada dalam jutaan dimensi, mereka dibatasi oleh struktur intrinsik yang lebih sederhana...

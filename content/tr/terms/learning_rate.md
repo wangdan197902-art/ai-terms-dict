@@ -1,23 +1,24 @@
 ---
-title: "Öğrenme Oranı"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Öğrenme Oranı
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /tr/terms/learning_rate/
-date: "2026-07-18T15:35:51.205820Z"
-lastmod: "2026-07-18T16:38:07.259586Z"
+slug: learning_rate
+date: '2026-07-18T15:35:51.205820Z'
+lastmod: '2026-07-18T16:38:07.259586Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kayıp fonksiyonunu en aza indirmek için model optimizasyonu sırasında adım boyutunu kontrol eden bir hiperparametre."
+source: agnes_llm
+status: published
+language: tr
+description: Kayıp fonksiyonunu en aza indirmek için model optimizasyonu sırasında
+  adım boyutunu kontrol eden bir hiperparametre.
 ---
-
 ## Definition
 
 Öğrenme oranı, her eğitim yinelemesinde hesaplanan gradiente göre model ağırlıklarının ne kadar güncelleneceğini belirler. Çok yüksek bir öğrenme oranı, modelin optimum noktayı geçmesine (overshoot) neden olabilir,

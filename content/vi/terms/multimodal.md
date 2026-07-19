@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /vi/terms/multimodal/
 date: "2026-07-18T15:36:21.530525Z"
 lastmod: "2026-07-18T16:38:07.711269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các mô hình AI có khả năng xử lý và tạo nội dung trên nhiều loại dữ liệu khác nhau, chẳng hạn như văn bản, hình ảnh, âm thanh và video cùng lúc."
 ---
-
 ## Definition
 
 Các hệ thống AI đa phương thức tích hợp thông tin từ các đầu vào giác quan khác nhau để hình thành sự hiểu biết toàn diện hơn về thế giới. Không giống như các mô hình đơn phương thức bị giới hạn ở một loại dữ liệu, các mô hình đa phương thức có thể liên kết và chuyển đổi giữa các dạng dữ liệu, cho phép các ứng dụng phong phú hơn như trả lời câu hỏi dựa trên hình ảnh hoặc tạo phụ đề video.

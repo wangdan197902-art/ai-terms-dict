@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /ja/terms/semi_supervised_learning/
 date: "2026-07-18T11:31:46.590739Z"
 lastmod: "2026-07-18T11:44:45.142919Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ラベル付きデータとラベルなしデータの両方を利用し、モデルの精度と汎化性能を向上させる機械学習のアプローチ。"
 ---
-
 ## Definition
 
 半教師あり学習は、少量のラベル付きデータと大量のラベルなしデータを組み合わせて使用するハイブリッドなトレーニングパラダイムです。その核心的な仮定は、ラベルなしデータの構造を利用することで、少ないラベル情報でも効果的に学習できるという点にあります。

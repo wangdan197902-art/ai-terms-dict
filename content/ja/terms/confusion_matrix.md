@@ -1,23 +1,23 @@
 ---
-title: "混同行列"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: 混同行列
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /ja/terms/confusion_matrix/
-date: "2026-07-18T11:08:51.058119Z"
-lastmod: "2026-07-18T11:44:45.079970Z"
+slug: confusion_matrix
+date: '2026-07-18T11:08:51.058119Z'
+lastmod: '2026-07-18T11:44:45.079970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "テストデータセットにおける分類モデルの性能を記述するために使用される表。"
+source: agnes_llm
+status: published
+language: ja
+description: テストデータセットにおける分類モデルの性能を記述するために使用される表。
 ---
-
 ## Definition
 
 混同行列は、アルゴリズム（通常は教師あり学習）の性能を視覚化するために使用される特定の表形式です。真陽性、真陰性、偽陽性、偽陰性の数を示し、モデルの分類精度やバイアスを評価するのに役立ちます。

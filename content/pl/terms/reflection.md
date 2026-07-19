@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /pl/terms/reflection/
 date: "2026-07-18T16:14:49.376222Z"
 lastmod: "2026-07-18T17:15:08.913413Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Mechanizm pozwalający modelom AI analizować własne wyjścia, procesy rozumowania lub stany wewnętrzne w celu poprawy przyszłej wydajności."
 ---
-
 ## Definition
 
 W kontekście AI refleksja to paradygmat, w którym model zatrzymuje się, aby ocenić własny proces generowania lub wynik przed jego ostatecznym zatwierdzeniem. Może to obejmować sprawdzanie spójności logicznej, trafności faktualnej lub zgodności z wytycznymi.

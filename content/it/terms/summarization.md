@@ -1,23 +1,24 @@
 ---
-title: "Riassunzione"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Riassunzione
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /it/terms/summarization/
-date: "2026-07-18T15:40:54.938652Z"
-lastmod: "2026-07-18T17:15:08.590345Z"
+slug: summarization
+date: '2026-07-18T15:40:54.938652Z'
+lastmod: '2026-07-18T17:15:08.590345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un compito di NLP che genera un riassunto conciso e coerente di un testo più lungo preservandone le informazioni chiave."
+source: agnes_llm
+status: published
+language: it
+description: Un compito di NLP che genera un riassunto conciso e coerente di un testo
+  più lungo preservandone le informazioni chiave.
 ---
-
 ## Definition
 
 La riassunzione del testo riduce grandi volumi di testo in versioni più brevi senza perdere il significato critico. Può essere estrattiva, selezionando frasi importanti dalla fonte, o astrattiva, generando nuovo testo.

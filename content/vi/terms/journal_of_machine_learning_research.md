@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /vi/terms/journal_of_machine_learning_research/
 date: "2026-07-18T15:58:51.062714Z"
 lastmod: "2026-07-18T16:38:07.771812Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tạp chí học thuật uy tín, được bình duyệt, chuyên xuất bản các nghiên cứu chất lượng cao về mọi khía cạnh của học máy."
 ---
-
 ## Definition
 
 Tạp chí Nghiên cứu Học máy (JMLR) là một ấn phẩm truy cập mở nổi tiếng, đóng vai trò là diễn đàn chính để phổ biến các kết quả khoa học nghiêm ngặt trong lĩnh vực học máy. Tạp chí bao quát các chủ đề từ lý thuyết đến ứng dụng thực tiễn.

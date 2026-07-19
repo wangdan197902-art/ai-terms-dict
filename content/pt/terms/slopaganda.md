@@ -1,23 +1,26 @@
 ---
-title: "Slopaganda"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopaganda
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /pt/terms/slopaganda/
-date: "2026-07-18T15:22:37.463877Z"
-lastmod: "2026-07-18T15:51:59.532848Z"
+slug: slopaganda
+date: '2026-07-18T15:22:37.463877Z'
+lastmod: '2026-07-18T15:51:59.532848Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um neologismo formado por 'slow' (lento) e 'propaganda', referindo-se a campanhas de desinformação projetadas para corroer a confiança através de influência prolongada e sutil."
+source: agnes_llm
+status: published
+language: pt
+description: Um neologismo formado por 'slow' (lento) e 'propaganda', referindo-se
+  a campanhas de desinformação projetadas para corroer a confiança através de influência
+  prolongada e sutil.
 ---
-
 ## Definition
 
 Slopaganda descreve uma forma estratégica de desinformação que depende da repetição, ambiguidade e exposição de longo prazo, em vez de táticas de choque virais. O objetivo é confundir o público, diluir a verdade e corroer a confiança nas instituições e na realidade compartilhada ao longo do tempo.

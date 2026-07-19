@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /es/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T10:36:50.423303Z"
 lastmod: "2026-07-18T11:44:44.777878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La intersección emergente donde la IA se utiliza para la orientación espiritual, la asistencia en la meditación o la exploración de preguntas filosóficas."
 ---
-
 ## Definition
 
 La IA en la espiritualidad se refiere a la aplicación de la inteligencia artificial en contextos religiosos o contemplativos. Esto incluye chatbots que ofrecen consejos morales, arte generado por IA para la meditación o algoritmos...

@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /ro/terms/knowledge_integration/
 date: "2026-07-18T16:07:07.484873Z"
 lastmod: "2026-07-18T17:15:09.671992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de combinare a surselor de cunoștințe eterogene într-o reprezentare unitară și coerentă pentru o raționare îmbunătățită."
 ---
-
 ## Definition
 
 Integrarea cunoștințelor implică fuzionarea datelor din surse diverse, cum ar fi bazele de date, ontologiile și textul nestructurat, într-un scheam coerent. Aceasta abordează problemele de heterogenitate semantică și inconsistență între diferitele reprezentări ale informației.

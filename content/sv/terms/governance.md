@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /sv/terms/governance/
 date: "2026-07-18T16:00:09.438372Z"
 lastmod: "2026-07-18T17:15:09.008220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ramverket för policyer, standarder och tillsynsmechanismer som etableras för att säkerställa att AI-system utvecklas och distribueras på ett ansvarsfullt och etiskt sätt."
 ---
-
 ## Definition
 
 AI-styrning avser uppsättningen av regler, riktlinjer och institutionella strukturer som hanterar hur artificiell intelligens skapas, används och granskas. Det omfattar laglig efterlevnad, etiska överväganden och transparens.

@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /pl/terms/machine_unlearning/
 date: "2026-07-18T16:05:56.187917Z"
 lastmod: "2026-07-18T17:15:08.895410Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Uczenie maszynowe z pominięciem to proces usuwania konkretnych punktów danych lub ich wpływu z wytrenowanego modelu bez konieczności ponownego trenowania go od zera."
 ---
-
 ## Definition
 
 Technika ta odpowiada na wymogi prywatności danych, takie jak 'prawo do bycia zapomnianym' w RODO, umożliwiając modelom zapominanie o konkretnych danych użytkowników przy jednoczesnym zachowaniu ogólnej wiedzy. Celem jest przybliżenie wydajności modelu po usunięciu danych do stanu, w jakim...

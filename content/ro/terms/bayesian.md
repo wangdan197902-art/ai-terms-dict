@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /ro/terms/bayesian/
 date: "2026-07-18T15:23:38.980705Z"
 lastmod: "2026-07-18T17:15:09.589663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la metode statistice bazate pe Teorema lui Bayes pentru actualizarea probabilităților cu noi dovezi."
 ---
-
 ## Definition
 
 Abordările bayesiene din IA utilizează teoria probabilităților pentru a actualiza probabilitatea ipotezelor pe măsură ce devin disponibile mai multe dovezi. Această metodă permite modelelor să cuantifice incertitudinea și să rafineze predicțiile dinamic.

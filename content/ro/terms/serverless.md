@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /ro/terms/serverless/
 date: "2026-07-18T16:20:36.161070Z"
 lastmod: "2026-07-18T17:15:09.701951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un model de execuție în cloud în care furnizorul gestionează dinamic alocarea resurselor de calcul, în locul utilizatorului."
 ---
-
 ## Definition
 
 Arhitectura serverless permite dezvoltatorilor să creeze și să execute aplicații fără a gestiona infrastructura serverelor. Furnizorul de cloud scalează automat resursele în sus sau în jos în funcție de cerere, facturând utilizatorii doar pentru timpul de execuție efectiv.

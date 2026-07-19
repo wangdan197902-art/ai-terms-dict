@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /zh/terms/cognitive_robotics/
 date: "2026-07-18T11:10:26.183949Z"
 lastmod: "2026-07-18T11:44:45.458109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "认知机器人学是专注于创造具有人类认知能力（如感知、推理和学习）的机器人的领域。"
 ---
-
 ## Definition
 
 认知机器人学将认知科学与机器人技术相结合，构建能够感知环境、从经验中学习并做出自主决策的机器。这些机器人采用先进的...

@@ -1,23 +1,24 @@
 ---
-title: "Konvolusjonelt nevrontverk"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Konvolusjonelt nevrontverk
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /no/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:41.535602Z"
-lastmod: "2026-07-18T16:38:06.930979Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:41.535602Z'
+lastmod: '2026-07-18T16:38:06.930979Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En spesialisert klasse av dype nevrale nettverk som primært brukes til å behandle rutenbaserte data, som bilder, ved å anvende konvolusjonsfiltre."
+source: agnes_llm
+status: published
+language: 'no'
+description: En spesialisert klasse av dype nevrale nettverk som primært brukes til
+  å behandle rutenbaserte data, som bilder, ved å anvende konvolusjonsfiltre.
 ---
-
 ## Definition
 
 Konvolusjonelle nevrale nettverk (CNN) er designet for automatisk og tilpasningsdyktig å lære romlige hierarkier av trekk fra visuelle inndata. De bruker konvolusjonslag som anvender filtre for å oppdage spesifikke mønstre og strukturer.

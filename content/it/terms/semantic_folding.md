@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /it/terms/semantic_folding/
 date: "2026-07-18T16:20:52.648756Z"
 lastmod: "2026-07-18T17:15:08.667585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una tecnica che mappa rappresentazioni semantiche ad alta dimensionalità in uno spazio a dimensionalità inferiore preservando le strutture relazionali."
 ---
-
 ## Definition
 
 La piegatura semantica si riferisce al processo di compressione di embedding vettoriali complessi e ad alta dimensionalità in una rappresentazione a dimensionalità inferiore più gestibile, senza una perdita significativa del significato semantico.

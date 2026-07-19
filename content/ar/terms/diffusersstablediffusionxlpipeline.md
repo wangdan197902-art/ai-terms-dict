@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /ar/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:54:02.955202Z"
-lastmod: "2026-07-18T17:15:08.497669Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:54:02.955202Z'
+lastmod: '2026-07-18T17:15:08.497669Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خط أنابيب لـ Stable Diffusion XL (SDXL)، يوفر دقة أعلى، وتفاصيل محسنة، والالتزام بالمطالبات مقارنة بالإصدارات السابقة."
+source: agnes_llm
+status: published
+language: ar
+description: خط أنابيب لـ Stable Diffusion XL (SDXL)، يوفر دقة أعلى، وتفاصيل محسنة،
+  والالتزام بالمطالبات مقارنة بالإصدارات السابقة.
 ---
-
 ## Definition
 
 يطبق هذا الخط الأنابيب هندسة Stable Diffusion XL، والتي تستخدم نموذج أساسي مُحسن ونموذج مُرَجِّح لإنتاج صور عالية الدقة (1024x1024) بتفاصيل وتركيب فائقيْن. ي

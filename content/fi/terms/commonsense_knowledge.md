@@ -1,23 +1,24 @@
 ---
-title: "Terveen järjen tieto"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Terveen järjen tieto
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /fi/terms/commonsense_knowledge/
-date: "2026-07-18T15:48:30.159668Z"
-lastmod: "2026-07-18T17:15:09.392305Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:48:30.159668Z'
+lastmod: '2026-07-18T17:15:09.392305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Taustatieto ja intuitiivinen ymmärrys fyysisestä ja sosiaalisesta maailmasta, jonka ihmisillä on mutta koneilla usein puuttuu."
+source: agnes_llm
+status: published
+language: fi
+description: Taustatieto ja intuitiivinen ymmärrys fyysisestä ja sosiaalisesta maailmasta,
+  jonka ihmisillä on mutta koneilla usein puuttuu.
 ---
-
 ## Definition
 
 Terveen järjen tieto viittaa valtavaan määrään implisiittistä tietoa arkielämästä, fysiikasta, sosiaalisista normeista ja syy-seuraussuhteista, jonka ihmiset hankkuvat luonnollisesti. Tekoälyssä tämän tiedon hankkiminen on yksi suurimmista haasteista, sillä koneet tarvitsevat sitä ymmärtääkseen kontekstin ja tekemään järkeviä johtopäätöksiä epäselvissä tilanteissa.

@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /pt/terms/web_intelligence/
 date: "2026-07-18T15:26:53.721900Z"
 lastmod: "2026-07-18T15:51:59.541994Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A aplicação de técnicas inteligentes para extrair, gerenciar e analisar informações da World Wide Web."
 ---
-
 ## Definition
 
 A inteligência web envolve o uso de mineração de dados, aprendizado de máquina e tecnologias semânticas para processar a vasta quantidade de dados não estruturados disponíveis na internet. Seu objetivo é transformar dados brutos da web em

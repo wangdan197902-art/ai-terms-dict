@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้ตามอินสแตนซ์"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: การเรียนรู้ตามอินสแตนซ์
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /th/terms/instance_based_learning/
-date: "2026-07-18T16:00:22.888268Z"
-lastmod: "2026-07-18T16:38:07.619356Z"
+slug: instance_based_learning
+date: '2026-07-18T16:00:22.888268Z'
+lastmod: '2026-07-18T16:38:07.619356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทาง Lazy Learning ที่การทำนายเกิดขึ้นโดยการเปรียบเทียบอินพุตใหม่กับอินสแตนซ์การฝึกที่เก็บไว้"
+source: agnes_llm
+status: published
+language: th
+description: แนวทาง Lazy Learning ที่การทำนายเกิดขึ้นโดยการเปรียบเทียบอินพุตใหม่กับอินสแตนซ์การฝึกที่เก็บไว้
 ---
-
 ## Definition
 
 ที่รู้จักกันในชื่อการเรียนรู้แบบใช้หน่วยความจำ เทคนิคนี้จะไม่สร้างโมเดลทั่วไปในช่วงเวลาการฝึก แต่จะเก็บชุดข้อมูลการฝึกทั้งหมดไว้ เมื่อต้องการทำการทำนาย ระบบจะค้นหาอินสแตนซ์ในชุดข้อมูลเดิมที่คล้ายคลึงกับอินพุตใหม่ที่สุด โดยใช้ฟังก์ชันระยะทางหรือความคล้ายคลึง来决定ผลลัพธ์ วิธีนี้มีประโยชน์เมื่อรูปแบบข้อมูลซับซ้อนหรือไม่เป็นเชิงเส้น และต้องการความยืดหยุ่นในการปรับตัวกับข้อมูลใหม่

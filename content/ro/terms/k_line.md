@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /ro/terms/k_line/
 date: "2026-07-18T16:06:45.360890Z"
 lastmod: "2026-07-18T17:15:09.670807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un tip de grafic financiar, cunoscut și sub denumirea de diagramă cu lumânări, utilizat pentru a vizualiza mișcările prețurilor pe intervale de timp specifice."
 ---
-
 ## Definition
 
 O diagramă K-line, cunoscută comun în piețele occidentale sub denumirea de diagramă cu lumânări, este o reprezentare grafică a dinamicii prețurilor pentru un titlu, derivat sau valută. Aceasta afișează patru puncte cheie de date:

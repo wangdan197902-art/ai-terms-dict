@@ -1,23 +1,24 @@
 ---
-title: "Gyors"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: Gyors
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /hu/terms/fast/
-date: "2026-07-18T15:26:16.944782Z"
-lastmod: "2026-07-18T17:15:09.719948Z"
+slug: fast
+date: '2026-07-18T15:26:16.944782Z'
+lastmod: '2026-07-18T17:15:09.719948Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az AI-ban a 'gyors' olyan rendszerekre vagy algoritmusokra utal, amelyeket az alacsony késleltetés és a magas átviteli sebesség érdekében optimalizáltak a feladatok feldolgozása során."
+source: agnes_llm
+status: published
+language: hu
+description: Az AI-ban a 'gyors' olyan rendszerekre vagy algoritmusokra utal, amelyeket
+  az alacsony késleltetés és a magas átviteli sebesség érdekében optimalizáltak a
+  feladatok feldolgozása során.
 ---
-
 ## Definition
 
 A 'gyors' kifejezés a mesterséges intelligencia modellekben a számítási hatékonyságot írja le, kiemelve a gyors következtetési időket és a gyors adatfeldolgozási képességeket. Kritikus fontosságú a valós idejű alkalmazásokhoz.

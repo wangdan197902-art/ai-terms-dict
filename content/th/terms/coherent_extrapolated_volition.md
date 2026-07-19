@@ -1,23 +1,23 @@
 ---
-title: "เจตจำนงที่ต่อเนื่องและคาดการณ์ได้"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: เจตจำนงที่ต่อเนื่องและคาดการณ์ได้
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /th/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:45:49.536259Z"
-lastmod: "2026-07-18T16:38:07.585672Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:45:49.536259Z'
+lastmod: '2026-07-18T16:38:07.585672Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เป้าหมายที่เสนอสำหรับปัญญาประดิษฐ์ ซึ่งระบบจะดำเนินการตามความต้องการของมนุษย์ที่ได้รับการขัดเกลาแล้วหลังจากการให้เหตุผลในอุดมคติ"
+source: agnes_llm
+status: published
+language: th
+description: เป้าหมายที่เสนอสำหรับปัญญาประดิษฐ์ ซึ่งระบบจะดำเนินการตามความต้องการของมนุษย์ที่ได้รับการขัดเกลาแล้วหลังจากการให้เหตุผลในอุดมคติ
 ---
-
 ## Definition
 
 เจตจำนงที่ต่อเนื่องและคาดการณ์ได้ (Coherent Extrapolated Volition หรือ CEV) เป็นแนวคิดที่เอลิเยเซอร์ ยูดคอฟสกี (Eliezer Yudkowsky) นำเสนอในบริบทของความปลอดภัยและการจัดแนวปัญญาประดิษฐ์ แนวคิดนี้เสนอว่าปัญญาประดิษฐ์ขั้นสูงไม่ควรเพียงแค่ปฏิบัติตามคำสั่งปัจจุบันของมนุษย์

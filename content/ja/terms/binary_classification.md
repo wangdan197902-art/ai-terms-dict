@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /ja/terms/binary_classification/
 date: "2026-07-18T11:06:38.752177Z"
 lastmod: "2026-07-18T11:44:45.074043Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "各入力インスタンスについて、2つの可能なクラスのいずれかを予測することを目的とする教師あり学習のタスク。"
 ---
-
 ## Definition
 
 二値分類は、出力変数が正確に2つの可能な結果（例えば、真/偽、スパム/非スパムなど）を持つカテゴリカルな機械学習の問題です。ロジスティック回帰などのアルゴリズムが一般的に使用されます。

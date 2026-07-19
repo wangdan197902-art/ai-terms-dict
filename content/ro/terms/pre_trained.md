@@ -1,23 +1,25 @@
 ---
-title: "pre-antrenat"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: pre-antrenat
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /ro/terms/pre_trained/
-date: "2026-07-18T15:33:54.428601Z"
-lastmod: "2026-07-18T17:15:09.610703Z"
+slug: pre_trained
+date: '2026-07-18T15:33:54.428601Z'
+lastmod: '2026-07-18T17:15:09.610703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Modelele pre-antrenate sunt rețele neuronale care au fost antrenate pe seturi de date mari pentru a învăța caracteristici generale înainte de a fi adaptate pentru sarcini specifice."
+source: agnes_llm
+status: published
+language: ro
+description: Modelele pre-antrenate sunt rețele neuronale care au fost antrenate pe
+  seturi de date mari pentru a învăța caracteristici generale înainte de a fi adaptate
+  pentru sarcini specifice.
 ---
-
 ## Definition
 
 Un model pre-antrenat este un model de bază în inteligența artificială care a suferit un antrenament extins pe seturi de date masive și diverse, cum ar fi Wikipedia sau ImageNet. Acest antrenament inițial permite modelului să învețe reprezentări generale ale limbajului sau ale imaginilor, servind ca punct de plecare solid pentru sarcini downstream prin transfer de cunoștințe.

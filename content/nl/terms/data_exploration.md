@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /nl/terms/data_exploration/
 date: "2026-07-18T15:49:10.239457Z"
 lastmod: "2026-07-18T17:15:08.731269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De initiële analyse van datasets om patronen te ontdekken, anomalieën te signaleren en hypothesen te testen voordat er formeel gemodelleerd wordt."
 ---
-
 ## Definition
 
 Dataverkenning, vaak aangeduid als Exploratory Data Analysis (EDA), is een cruciale voorbereidende stap in machine learning-workflows. Het houdt in dat de belangrijkste kenmerken van de data worden samengevat, waarbij vaak gebruik wordt gemaakt van visualisaties en statistische methoden om inzichten te verkrijgen.

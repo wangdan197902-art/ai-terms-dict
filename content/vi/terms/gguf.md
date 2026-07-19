@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /vi/terms/gguf/
-date: "2026-07-18T15:54:10.858602Z"
-lastmod: "2026-07-18T16:38:07.759379Z"
+slug: gguf
+date: '2026-07-18T15:54:10.858602Z'
+lastmod: '2026-07-18T16:38:07.759379Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một định dạng tệp dogger.ai phát triển để lưu trữ và tải các mô hình ngôn ngữ lớn đã được lượng tử hóa một cách hiệu quả trên phần cứng cục bộ."
+source: agnes_llm
+status: published
+language: vi
+description: Một định dạng tệp dogger.ai phát triển để lưu trữ và tải các mô hình
+  ngôn ngữ lớn đã được lượng tử hóa một cách hiệu quả trên phần cứng cục bộ.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format) là một định dạng tệp nhị phân được thiết kế đặc biệt để chạy các mô hình ngôn ngữ lớn trên phần cứng tiêu dùng. Nó hỗ trợ nhiều kỹ thuật lượng tử hóa khác nhau, cho phép mô hình chạy nhanh hơn và tiết kiệm bộ nhớ hơn mà vẫn giữ được độ chính xác chấp nhận được.

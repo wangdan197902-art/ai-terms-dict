@@ -1,23 +1,24 @@
 ---
-title: "Hierarkkinen ohjausjärjestelmä"
-term_id: "hierarchical_control_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "robotics", "architecture"]
+title: Hierarkkinen ohjausjärjestelmä
+term_id: hierarchical_control_system
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- robotics
+- architecture
 difficulty: 3
 weight: 1
-slug: "hierarchical_control_system"
-aliases:
-  - /fi/terms/hierarchical_control_system/
-date: "2026-07-18T16:01:49.258155Z"
-lastmod: "2026-07-18T17:15:09.419051Z"
+slug: hierarchical_control_system
+date: '2026-07-18T16:01:49.258155Z'
+lastmod: '2026-07-18T17:15:09.419051Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ohjausarkitektuuri, jossa päätöksenteko on järjestetty kerroksiin, joissa korkeammat tasot asettavat tavoitteita alemmille ohjaimille."
+source: agnes_llm
+status: published
+language: fi
+description: Ohjausarkitektuuri, jossa päätöksenteko on järjestetty kerroksiin, joissa
+  korkeammat tasot asettavat tavoitteita alemmille ohjaimille.
 ---
-
 ## Definition
 
 Hierarkkinen ohjausjärjestelmä organisoi ohjauslogiikan useisiin kerroksiin, ulottuen yleensä korkean tason strategiseen suunnittelusta matalan tason reaaliaikaiseen suorittamiseen. Korkeammat tasot määrittelevät tavoitteet ja komennot, jotka alimmat tasot toteuttavat fyysisissä laitteissa tai alijärjestelmissä.

@@ -1,23 +1,23 @@
 ---
-title: "มิติสูง"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: มิติสูง
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /th/terms/high_dimensional/
-date: "2026-07-18T15:32:19.337350Z"
-lastmod: "2026-07-18T16:38:07.554538Z"
+slug: high_dimensional
+date: '2026-07-18T15:32:19.337350Z'
+lastmod: '2026-07-18T16:38:07.554538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อธิบายพื้นที่ข้อมูลที่มีคุณลักษณะหรือมิติจำนวนมาก ซึ่งมักนำไปสู่ความเบาบางของข้อมูลและความท้าทายด้านการคำนวณ"
+source: agnes_llm
+status: published
+language: th
+description: อธิบายพื้นที่ข้อมูลที่มีคุณลักษณะหรือมิติจำนวนมาก ซึ่งมักนำไปสู่ความเบาบางของข้อมูลและความท้าทายด้านการคำนวณ
 ---
-
 ## Definition
 
 คำว่า 'มิติสูง' หมายถึงชุดข้อมูลหรือปริภูมิเวกเตอร์ที่มีแอตทริบิวต์หรือฟีเจอร์จำนวนมหาศาล ใน AI这种现象พบได้บ่อยใน word embeddings ของข้อความ พิกเซลของภาพ หรือข้อมูลการแสดงออกของยีน แม้ข้อมูลจะมีรายละเอียดมาก แต่การประมวลผลอาจซับซ้อนขึ้นเนื่องจากปรากฏการณ์ 'คำสาปแห่งมิติ' (curse of dimensionality)

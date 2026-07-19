@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /vi/terms/lora/
 date: "2026-07-18T15:26:37.915781Z"
 lastmod: "2026-07-18T16:38:07.688912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Điều chỉnh Rank Thấp là một phương pháp tinh chỉnh hiệu quả về tham số, chèn các ma trận phân rã rank có thể huấn luyện vào các trọng số mô hình hiện có."
 ---
-
 ## Definition
 
 LoRA đóng băng các trọng số đã được huấn luyện trước và chèn các ma trận phân rã có thể huấn luyện vào mỗi lớp của kiến trúc Transformer. Bằng cách chỉ tối ưu hóa các ma trận rank thấp này, LoRA giảm đáng kể

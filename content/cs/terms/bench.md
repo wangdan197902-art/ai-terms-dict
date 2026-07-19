@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /cs/terms/bench/
 date: "2026-07-18T15:23:29.912786Z"
 lastmod: "2026-07-18T17:15:09.064437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Zkratka pro benchmark, standardní sada testů nebo metrika používaná k hodnocení výkonu modelu AI."
 ---
-
 ## Definition
 
 Benchmark slouží jako standardizovaný referenční bod pro porovnání schopností různých modelů AI nebo algoritmů. Obvykle zahrnuje pečlivě vybranou sadu dat a specifické hodnotící metriky, jako je přesnost nebo rychlost.

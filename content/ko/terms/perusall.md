@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /ko/terms/perusall/
 date: "2026-07-18T16:09:36.005091Z"
 lastmod: "2026-07-18T16:38:06.896239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "디지털 텍스트에 대한 학생의 주석 및 토론 내용을 자동으로 채점하는 AI 기반 소셜 러닝 플랫폼."
 ---
-
 ## Definition
 
 Perusall은 인공 지능을 활용하여 협력적 독서와 주석 작성을 지원하는 교육 기술 플랫폼입니다. 이 플랫폼은 학생들이 디지털 텍스트에 남긴 주석과 토론 참여도에 기반하여 자동으로 성적을 부여하며, 학습 과정에서의 상호작용을 증진시키는 데 중점을 둡니다.

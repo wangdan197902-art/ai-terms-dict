@@ -1,23 +1,24 @@
 ---
-title: "Scrib medical automatizat"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Scrib medical automatizat
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /ro/terms/automated_medical_scribe/
-date: "2026-07-18T15:46:37.466708Z"
-lastmod: "2026-07-18T17:15:09.630983Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:46:37.466708Z'
+lastmod: '2026-07-18T17:15:09.630983Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un sistem bazat pe inteligență artificială care generează automat documentația clinică din interacțiunile dintre medic și pacient."
+source: agnes_llm
+status: published
+language: ro
+description: Un sistem bazat pe inteligență artificială care generează automat documentația
+  clinică din interacțiunile dintre medic și pacient.
 ---
-
 ## Definition
 
 Scribii medicali automatizați utilizează tehnologii de procesare a limbajului natural și recunoaștere vocală pentru a asculta conversațiile dintre medic și pacient și a crea dosare electronice de sănătate structurate. Această tehnologie reduce povara administrativă asupra personalului medical.

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /ja/terms/sigmoid/
 date: "2026-07-18T11:31:59.766559Z"
 lastmod: "2026-07-18T11:44:45.143936Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "任意の実数値を0から1の間の値にマッピングし、S字型の曲線を描く数学関数。"
 ---
-
 ## Definition
 
 シグモイド関数（σ(z) = 1 / (1 + e^-z)）は、機械学習で確率をモデル化するために広く使用されています。入力値を(0, 1)の範囲に圧縮するため、二値分類の出力層などに適しています。ただし、勾配消失問題を引き起こす可能性があります。

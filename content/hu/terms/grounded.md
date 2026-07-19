@@ -1,23 +1,24 @@
 ---
-title: "Földelt"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Földelt
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /hu/terms/grounded/
-date: "2026-07-18T15:27:03.163472Z"
-lastmod: "2026-07-18T17:15:09.721899Z"
+slug: grounded
+date: '2026-07-18T15:27:03.163472Z'
+lastmod: '2026-07-18T17:15:09.721899Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Azokra az AI-rendszerekre utal, amelyek az elvont szimbólumokat vagy nyelvet valós világú érzékelési adatokhoz vagy fizikai cselekvésekhez kötik."
+source: agnes_llm
+status: published
+language: hu
+description: Azokra az AI-rendszerekre utal, amelyek az elvont szimbólumokat vagy
+  nyelvet valós világú érzékelési adatokhoz vagy fizikai cselekvésekhez kötik.
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a „földelt” kifejezés azt a folyamatot írja le, amely során a szimbolikus reprezentációkat (például szavakat vagy logikai állításokat) összekapcsoljuk azok tényleges hivatkozási tárgyával a fizikai világban vagy az érzékszervi tapasztalatokban.

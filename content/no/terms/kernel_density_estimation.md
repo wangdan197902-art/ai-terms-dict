@@ -1,23 +1,24 @@
 ---
-title: "Kernel-tetthetsestimat"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel-tetthetsestimat
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /no/terms/kernel_density_estimation/
-date: "2026-07-18T16:01:09.287440Z"
-lastmod: "2026-07-18T16:38:07.015367Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:01:09.287440Z'
+lastmod: '2026-07-18T16:38:07.015367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En ikke-parametrisk metode brukt til å estimere sannsynlighetstetthetsfunksjonen til en tilfeldig variabel basert på et endelig datasett."
+source: agnes_llm
+status: published
+language: 'no'
+description: En ikke-parametrisk metode brukt til å estimere sannsynlighetstetthetsfunksjonen
+  til en tilfeldig variabel basert på et endelig datasett.
 ---
-
 ## Definition
 
 Kernel-tetthetsestimat (KDE) er en grunnleggende statistisk teknikk som glatter diskrete datapunkter for å lage en kontinuerlig kurve for sannsynlighetsfordeling. Den plasserer en kernefunksjon, typisk en gaussisk funksjon, over hvert datapunkt.

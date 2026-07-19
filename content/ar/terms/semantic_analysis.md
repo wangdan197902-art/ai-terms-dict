@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /ar/terms/semantic_analysis/
 date: "2026-07-18T16:20:04.561188Z"
 lastmod: "2026-07-18T17:15:08.546531Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التحليل الدلالي هو عملية استخراج المعنى من النص من خلال فهم العلاقات بين الكلمات والسياق ضمن معالجة اللغة الطبيعية."
 ---
-
 ## Definition
 
 يتجاوز الهيكل النحوي لتفسير النية والأهمية الفعلية لإدخالات اللغة. يتضمن ذلك إزالة الغموض عن معاني الكلمات بناءً على السياق، وتحديد الكيانات، وفهم

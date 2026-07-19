@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /de/terms/beyond/
 date: "2026-07-18T10:48:42.243820Z"
 lastmod: "2026-07-18T11:44:44.869855Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein konzeptioneller Begriff, der Fortschritte oder Anwendungen beschreibt, die die aktuellen technologischen Grenzen oder traditionellen Begrenzungen der KI überschreiten."
 ---
-
 ## Definition
 
 Im Kontext der KI-Terminologie beschreibt „Jenseits“ oft aufkommende Paradigmen oder zukünftige Richtungen, die aktuelle Fähigkeiten transzendieren, wie z. B. Allgemeine Künstliche Intelligenz (AGI) oder quantenverstärkte Systeme.

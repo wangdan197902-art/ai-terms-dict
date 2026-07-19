@@ -1,23 +1,25 @@
 ---
-title: "Υβριδική Αναζήτηση"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Υβριδική Αναζήτηση
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /el/terms/hybrid_search/
-date: "2026-07-18T16:13:18.047358Z"
-lastmod: "2026-07-18T17:15:09.917963Z"
+slug: hybrid_search
+date: '2026-07-18T16:13:18.047358Z'
+lastmod: '2026-07-18T17:15:09.917963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στρατηγική ανάκτησης που συνδυάζει την ημιαντιπροσωπευτική αναζήτηση διανυσμάτων (semantic vector search) με την παραδοσιακή δεικτοδότηση βάσει λέξεων-κλειδιών, για τη βελτίωση της ακρίβειας και τ"
+source: agnes_llm
+status: published
+language: el
+description: Μια στρατηγική ανάκτησης που συνδυάζει την ημιαντιπροσωπευτική αναζήτηση
+  διανυσμάτων (semantic vector search) με την παραδοσιακή δεικτοδότηση βάσει λέξεων-κλειδιών,
+  για τη βελτίωση της ακρίβειας και τ
 ---
-
 ## Definition
 
 Η Υβριδική Αναζήτηση ενσωματώνει δύο διακριτές μεθόδους ανάκτησης: την αναζήτηση πυκνών διανυσμάτων, η οποία αποτυπώνει τη σημασιολογική έννοια και το πλαίσιο, και την αναζήτηση αραιών διανυσμάτων (λέξεις-κλειδιά), η οποία αντιστοιχεί ακριβείς όρους. Εκμεταλλευόμενη

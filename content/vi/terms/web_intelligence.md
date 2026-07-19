@@ -7,8 +7,6 @@ tags: ["Data Science", "Internet", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "web_intelligence"
-aliases:
-  - /vi/terms/web_intelligence/
 date: "2026-07-18T16:16:23.163028Z"
 lastmod: "2026-07-18T16:38:07.816695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc áp dụng các kỹ thuật thông minh để trích xuất, quản lý và phân tích thông tin từ World Wide Web."
 ---
-
 ## Definition
 
 Trí tuệ Web liên quan đến việc sử dụng khai phá dữ liệu (data mining), học máy và công nghệ ngữ nghĩa để xử lý khối lượng lớn dữ liệu không cấu trúc có sẵn trên internet. Mục tiêu của nó là biến đổi dữ liệu thô từ web thành thông tin có ý nghĩa và có thể hành động được, hỗ trợ ra quyết định kinh doanh và cải thiện trải nghiệm người dùng thông qua việc hiểu rõ hơn về nội dung và cấu trúc của mạng lưới thông tin.

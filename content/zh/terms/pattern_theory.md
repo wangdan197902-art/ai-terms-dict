@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /zh/terms/pattern_theory/
 date: "2026-07-18T11:29:41.113459Z"
 lastmod: "2026-07-18T11:44:45.541367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种通过分析数据空间中的模式来描述复杂结构的数学框架。"
 ---
-
 ## Definition
 
 模式理论为理解如何通过模式来描述复杂对象和现象提供了严谨的数学基础。它认为任何对象都可以通过其

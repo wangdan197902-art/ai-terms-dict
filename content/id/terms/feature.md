@@ -1,23 +1,24 @@
 ---
-title: "Fitur"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Fitur
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /id/terms/feature/
-date: "2026-07-18T15:50:22.628241Z"
-lastmod: "2026-07-18T16:38:07.457475Z"
+slug: feature
+date: '2026-07-18T15:50:22.628241Z'
+lastmod: '2026-07-18T16:38:07.457475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sifat atau karakteristik terukur individu dari fenomena yang diamati, yang berfungsi sebagai data masukan untuk model pembelajaran mesin."
+source: agnes_llm
+status: published
+language: id
+description: Sifat atau karakteristik terukur individu dari fenomena yang diamati,
+  yang berfungsi sebagai data masukan untuk model pembelajaran mesin.
 ---
-
 ## Definition
 
 Dalam pembelajaran mesin, fitur adalah atribut atau variabel unik yang menggambarkan suatu contoh dalam kumpulan data. Fitur dapat berupa numerik, kategorikal, atau tekstual, dan mereka berfungsi sebagai dasar masukan.

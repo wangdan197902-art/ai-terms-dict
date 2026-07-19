@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /cs/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:54:00.040520Z"
-lastmod: "2026-07-18T17:15:09.123359Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:54:00.040520Z'
+lastmod: '2026-07-18T17:15:09.123359Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Pipeline pro Stable Diffusion XL (SDXL), nabízející vylepšené rozlišení, detaily a dodržování podnětů ve srovnání s předchozími verzemi."
+source: agnes_llm
+status: published
+language: cs
+description: Pipeline pro Stable Diffusion XL (SDXL), nabízející vylepšené rozlišení,
+  detaily a dodržování podnětů ve srovnání s předchozími verzemi.
 ---
-
 ## Definition
 
 Tato pipeline implementuje architekturu Stable Diffusion XL, která používá zdokonalený základní model a model pro vylepšení (refiner) k výrobě obrázků ve vysokém rozlišení (1024x1024) s vynikajícími detaily a kompozicí. U...

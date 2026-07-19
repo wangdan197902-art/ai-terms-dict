@@ -1,23 +1,23 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /ko/terms/pyannote_audio/
-date: "2026-07-18T16:11:35.913413Z"
-lastmod: "2026-07-18T16:38:06.900285Z"
+slug: pyannote_audio
+date: '2026-07-18T16:11:35.913413Z'
+lastmod: '2026-07-18T16:38:06.900285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "사전 훈련된 신경망 모델을 갖추고 있어 화자 diarization 파이프라인 구축을 용이하게 하는 모듈형 툴킷입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 사전 훈련된 신경망 모델을 갖추고 있어 화자 diarization 파이프라인 구축을 용이하게 하는 모듈형 툴킷입니다.
 ---
-
 ## Definition
 
 Pyannote Audio는 화자 diarization 시스템의 개발과 배포를 촉진하도록 설계된 종합적인 툴킷입니다. 오디오 분석 작업을 위한 사전 훈련된 신경망 모델 컬렉션을 제공하며, 사용자가 특정 도메인에 맞게 모델을 미세 조정하거나 커스텀 파이프라인을 구성할 수 있도록 합니다. Hugging Face와의 통합을 통해 최신 딥러닝 모델을 쉽게 접근하고 활용할 수 있는 환경을 제공합니다.

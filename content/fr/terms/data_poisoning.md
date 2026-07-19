@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /fr/terms/data_poisoning/
 date: "2026-07-18T11:11:07.428026Z"
 lastmod: "2026-07-18T11:44:45.213323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'empoisonnement des données est une attaque de sécurité au cours de laquelle des acteurs malveillants injectent des données corrompues ou trompeuses dans un ensemble d'apprentissage pour dégrader les"
 ---
-
 ## Definition
 
 Cette technique adverse vise à compromettre l'intégrité des modèles d'apprentissage automatique en altérant les données d'apprentissage. En introduisant des erreurs subtiles ou des exemples biaisés, les attaquants peuvent amener le modèle à

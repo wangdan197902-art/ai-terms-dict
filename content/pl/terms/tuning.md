@@ -1,23 +1,24 @@
 ---
-title: "Dopasowywanie (Tuning)"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Dopasowywanie (Tuning)
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /pl/terms/tuning/
-date: "2026-07-18T15:30:57.836802Z"
-lastmod: "2026-07-18T17:15:08.823771Z"
+slug: tuning
+date: '2026-07-18T15:30:57.836802Z'
+lastmod: '2026-07-18T17:15:08.823771Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces dostosowywania hiperparametrów lub wag modelu w celu optymalizacji wydajności na konkretnym zbiorze danych lub zadaniu."
+source: agnes_llm
+status: published
+language: pl
+description: Proces dostosowywania hiperparametrów lub wag modelu w celu optymalizacji
+  wydajności na konkretnym zbiorze danych lub zadaniu.
 ---
-
 ## Definition
 
 Dopasowywanie obejmuje udoskonalenie modelu uczenia maszynowego w celu uzyskania lepszej dokładności lub efektywności. Może odnosić się do optymalizacji hiperparametrów, gdzie ustawienia takie jak szybkość nauki czy rozmiar partii są optymalizowane, lub do dopasowywania wag modelu (fine-tuning) na specyficznych danych.

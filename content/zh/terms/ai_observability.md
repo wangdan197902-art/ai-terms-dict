@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /zh/terms/ai_observability/
 date: "2026-07-18T11:03:04.566035Z"
 lastmod: "2026-07-18T11:44:45.435808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "通过日志、指标和追踪来监控和理解机器学习系统内部状态的做法。"
 ---
-
 ## Definition
 
 AI可观测性将传统的软件监控扩展到解决机器学习系统的独特挑战。它涉及实时跟踪模型性能、数据漂移和推理延迟，从而帮助开发者深入理解黑盒模型的决策过程及其在生产环境中的行为。

@@ -1,23 +1,24 @@
 ---
-title: "Поток (Flux)"
-term_id: "flux"
-category: "basic_concepts"
-subcategory: ""
-tags: ["concepts", "data_flow", "systems"]
+title: Поток (Flux)
+term_id: flux
+category: basic_concepts
+subcategory: ''
+tags:
+- concepts
+- Data Flow
+- systems
 difficulty: 2
 weight: 1
-slug: "flux"
-aliases:
-  - /ru/terms/flux/
-date: "2026-07-18T15:34:00.526418Z"
-lastmod: "2026-07-18T16:38:07.106022Z"
+slug: flux
+date: '2026-07-18T15:34:00.526418Z'
+lastmod: '2026-07-18T16:38:07.106022Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Поток (Flux) относится к непрерывному движению или изменению данных, энергии или информации внутри системы или сети."
+source: agnes_llm
+status: published
+language: ru
+description: Поток (Flux) относится к непрерывному движению или изменению данных,
+  энергии или информации внутри системы или сети.
 ---
-
 ## Definition
 
 В вычислительном контексте поток описывает скорость передачи величины через заданную область за единицу времени. В сфере ИИ и инженерии данных этот термин часто связан со стримингом данных, когда информация непрерывно перемещается от источника к потребителю в режиме реального времени, требуя высокой пропускной способности и низкой задержки для обработки.

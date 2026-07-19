@@ -1,23 +1,24 @@
 ---
-title: "Physical Intelligence Inc."
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: Physical Intelligence Inc.
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /fr/terms/physical_intelligence_inc/
-date: "2026-07-18T11:33:47.558617Z"
-lastmod: "2026-07-18T11:44:45.312216Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T11:33:47.558617Z'
+lastmod: '2026-07-18T11:44:45.312216Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une entreprise de robotique fondée par d'anciens chercheurs de DeepMind, axée sur la manipulation robotique polyvalente."
+source: agnes_llm
+status: published
+language: fr
+description: Une entreprise de robotique fondée par d'anciens chercheurs de DeepMind,
+  axée sur la manipulation robotique polyvalente.
 ---
-
 ## Definition
 
 Physical Intelligence Inc. (PI) est une filiale issue de Google DeepMind, établie pour faire avancer le domaine de l'IA incarnée et de la robotique. L'entreprise se concentre sur le développement de robots polyvalents capables de réaliser diverses tâches physiques.

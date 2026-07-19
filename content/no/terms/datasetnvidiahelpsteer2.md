@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /no/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:50:09.596937Z"
 lastmod: "2026-07-18T16:38:06.990532Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et datasett av høy kvalitet med menneskelige preferanser, designet spesielt for å trene belønningmodeller i forsterkning læring fra menneskelig tilbakemelding."
 ---
-
 ## Definition
 
 Helpsteer2 er et kuratert datasett lansert av NVIDIA som inneholder parvise sammenligninger av svar generert av store språkmodeller. Det fokuserer på flerdimensjonale menneskelige preferanser, som hjelpsomhet

@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /es/terms/datasetsearch_qa/
 date: "2026-07-18T10:42:44.360646Z"
 lastmod: "2026-07-18T11:44:44.795366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un conjunto de datos centrado en tareas de respuesta a preguntas derivado de registros de motores de búsqueda o consultas web, enfatizando la recuperación de información del mundo real."
 ---
-
 ## Definition
 
 Los conjuntos de datos de búsqueda y respuesta a preguntas (Search QA) suelen constar de pares de consultas de búsqueda y fragmentos de respuesta relevantes o documentos extraídos de los resultados del motor de búsqueda. Estos conjuntos de datos son cruciales para entrenar modelos que entiendan...

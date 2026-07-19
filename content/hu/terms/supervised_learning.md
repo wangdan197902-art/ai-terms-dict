@@ -1,23 +1,24 @@
 ---
-title: "Felügyelt tanulás"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Felügyelt tanulás
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /hu/terms/supervised_learning/
-date: "2026-07-18T15:39:55.777452Z"
-lastmod: "2026-07-18T17:15:09.745804Z"
+slug: supervised_learning
+date: '2026-07-18T15:39:55.777452Z'
+lastmod: '2026-07-18T17:15:09.745804Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy gépi tanulási paradigmában a modell a címkézett példák alapján tanulja meg a bemenetek és kimenetek közötti leképezést."
+source: agnes_llm
+status: published
+language: hu
+description: Egy gépi tanulási paradigmában a modell a címkézett példák alapján tanulja
+  meg a bemenetek és kimenetek közötti leképezést.
 ---
-
 ## Definition
 
 A felügyelt tanulásban az algoritmust egy címkézett adathalmon tanítják, ami azt jelenti, hogy minden bemeneti példa párosul a helyes kimenettel. A cél, hogy a modell megtanulja a mögöttes kapcsolatot.

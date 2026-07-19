@@ -1,23 +1,24 @@
 ---
-title: "ชุดข้อมูล: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 'ชุดข้อมูล: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /th/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:47:58.368573Z"
-lastmod: "2026-07-18T16:38:07.592728Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:47:58.368573Z'
+lastmod: '2026-07-18T16:38:07.592728Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เวอร์ชันที่ลบข้อมูลซ้ำออกของชุดข้อมูล The Stack ซึ่งจัดทำโดย BigCode เพื่อตัดทอนโค้ดที่คล้ายคลึงกันออกจากชุดข้อมูลสำหรับการฝึกฝนให้มีคุณภาพดีขึ้น"
+source: agnes_llm
+status: published
+language: th
+description: เวอร์ชันที่ลบข้อมูลซ้ำออกของชุดข้อมูล The Stack ซึ่งจัดทำโดย BigCode
+  เพื่อตัดทอนโค้ดที่คล้ายคลึงกันออกจากชุดข้อมูลสำหรับการฝึกฝนให้มีคุณภาพดีขึ้น
 ---
-
 ## Definition
 
 The Stack Dedup เป็นสับเซตเฉพาะของ The Stack ซึ่งเป็นคลังเก็บซอร์สโค้ดโอเพนซอร์สขนาดมหาศาล โดยนำเทคนิคการลบข้อมูลซ้ำอย่างเข้มงวดมาใช้เพื่อขจัดโค้ดที่ซ้ำซ้อนซึ่งอาจทำให้เกิดอคติในการฝึกโมเดลภาษาขนาดใหญ่

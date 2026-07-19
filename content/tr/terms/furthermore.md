@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /tr/terms/furthermore/
 date: "2026-07-18T15:25:25.776516Z"
 lastmod: "2026-07-18T16:38:07.232729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Teknik yazılarda ek bilgi sunmak veya önceki bir argümanı pekiştirmek için kullanılan bir geçiş zarfıdır."
 ---
-
 ## Definition
 
 Bir teknik algoritma olmasa da, 'dahası' yapay zeka dokümantasyonunda ve araştırma makalelerinde kritik bir dilbilgisi aracıdır. Fikirleri birbirine bağlar ve gelen ifadenin öncekine ağırlık kattığını veya onu detaylandırdığını belirtir.

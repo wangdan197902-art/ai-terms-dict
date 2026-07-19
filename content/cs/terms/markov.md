@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /cs/terms/markov/
 date: "2026-07-18T15:26:54.097085Z"
 lastmod: "2026-07-18T17:15:09.072831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Markov odkazuje na stochastické procesy, kde budoucí stav závisí pouze na aktuálním stavu, což odpovídá vlastnosti Markovovy řetězce bez paměti."
 ---
-
 ## Definition
 
 V umělé inteligenci a teorii pravděpodobnosti jsou Markovovy procesy základními modely používanými k popisu systémů, které náhodně přecházejí mezi stavy. Klíčovým principem je Markovova vlastnost...

@@ -1,23 +1,23 @@
 ---
-title: "因果的"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: 因果的
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /zh/terms/causal/
-date: "2026-07-18T10:49:42.551560Z"
-lastmod: "2026-07-18T11:44:45.363737Z"
+slug: causal
+date: '2026-07-18T10:49:42.551560Z'
+lastmod: '2026-07-18T11:44:45.363737Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "因果推断涉及确定变量之间的因果关系，而不仅仅是识别统计相关性。"
+source: agnes_llm
+status: published
+language: zh
+description: 因果推断涉及确定变量之间的因果关系，而不仅仅是识别统计相关性。
 ---
-
 ## Definition
 
 在人工智能中，因果建模旨在理解对某一变量的干预如何影响另一变量。与依赖观察模式的预测模型不同，因果AI使用结构方程模型等工具来揭示变量间的内在机制。

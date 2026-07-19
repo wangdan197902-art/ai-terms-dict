@@ -1,23 +1,24 @@
 ---
-title: "Automatisierter medizinischer Scribe"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Automatisierter medizinischer Scribe
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /de/terms/automated_medical_scribe/
-date: "2026-07-18T11:04:18.810317Z"
-lastmod: "2026-07-18T11:44:44.912557Z"
+slug: automated_medical_scribe
+date: '2026-07-18T11:04:18.810317Z'
+lastmod: '2026-07-18T11:44:44.912557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein KI-gestütztes System, das klinische Dokumentation automatisch aus Arzt-Patienten-Gesprächen generiert."
+source: agnes_llm
+status: published
+language: de
+description: Ein KI-gestütztes System, das klinische Dokumentation automatisch aus
+  Arzt-Patienten-Gesprächen generiert.
 ---
-
 ## Definition
 
 Automatisierte medizinische Scriben nutzen Natural Language Processing (NLP) und Spracherkennungstechnologien, um Arzt-Patienten-Gespräche zu hören und strukturierte elektronische Gesundheitsakten zu erstellen. Diese Technologie...

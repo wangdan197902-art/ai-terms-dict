@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /fi/terms/docker/
 date: "2026-07-18T15:36:04.965350Z"
 lastmod: "2026-07-18T17:15:09.369391Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Docker on alusta sovellusten kehittämiseen, jakeluun ja suorittamiseen kevyissä, kannettavissa konteissa."
 ---
-
 ## Definition
 
 Docker mahdollistaa kehittäjien pakata sovellus sen kaikkien riippuvuuksien kanssa standardoiduksi yksiköksi ohjelmistokehitystä varten. Nämä kontit eristävät ohjelmiston ympäristöstään, varmistaen johdonmukaisuuden eri ympäristöissä.

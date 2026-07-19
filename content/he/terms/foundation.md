@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /he/terms/foundation/
 date: "2026-07-18T15:25:45.324818Z"
 lastmod: "2026-07-18T17:15:09.477807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל מאומן מראש על אוגדני נתונים עצומים כדי לשמש בסיס למגוון משימות נגזרות."
 ---
-
 ## Definition
 
 בבינה מלאכותית, מודל יסוד מתייחס למודל למידת מכונה בקנה מידה גדול, המאומן על נתונים רחבים ומגוונים, כגון תמונות, טקסט או אודיו. מודלים אלו מתוכננים להיות גמישים וניתנים להתאמה

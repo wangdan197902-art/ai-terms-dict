@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /cs/terms/asr_complete/
 date: "2026-07-18T15:40:30.892581Z"
 lastmod: "2026-07-18T17:15:09.098438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "ASR-complete popisuje systém rozpoznávání řeči, který dosahuje přesnosti na úrovni člověka na standardizovaných benchmarkových sadách dat."
 ---
-
 ## Definition
 
 Termín ASR-complete znamená, že systém automatického rozpoznávání řeči dosáhl úrovně výkonu srovnatelné s lidskými transkribery na specifických, dobře definovaných úlohách a datech. Toto označení signalizuje dosažení lidské parity v daném kontextu.

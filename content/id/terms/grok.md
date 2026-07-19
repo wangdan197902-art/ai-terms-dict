@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /id/terms/grok/
 date: "2026-07-18T15:53:57.794472Z"
 lastmod: "2026-07-18T16:38:07.464684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bot obrolan AI yang dikembangkan oleh xAI, terintegrasi ke dalam platform X, dikenal karena aksesnya yang waktu nyata ke data media sosial dan kepribadiannya yang cerdas."
 ---
-
 ## Definition
 
 Grok adalah bot obrolan model bahasa besar yang dibuat oleh perusahaan Elon Musk, xAI. Bot ini terutama dapat diakses oleh pelanggan langganan platform X (sebelumnya Twitter). Grok membedakan dirinya dengan memiliki akses data waktu nyata ke platform X, memungkinkan respons terhadap peristiwa terkini, serta memiliki gaya komunikasi yang unik dan sering kali bercanda.

@@ -1,23 +1,24 @@
 ---
-title: "Rumbaseret datacenter"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: Rumbaseret datacenter
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /da/terms/space_based_data_center/
-date: "2026-07-18T16:18:39.578616Z"
-lastmod: "2026-07-18T17:15:09.332552Z"
+slug: space_based_data_center
+date: '2026-07-18T16:18:39.578616Z'
+lastmod: '2026-07-18T17:15:09.332552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et computeranlæg placeret i kredsløb, der udnytter rumforhold som solenergi og vakuumkøling til effektiv dataprocessing."
+source: agnes_llm
+status: published
+language: da
+description: Et computeranlæg placeret i kredsløb, der udnytter rumforhold som solenergi
+  og vakuumkøling til effektiv dataprocessing.
 ---
-
 ## Definition
 
 Rumbaserede datacentre er foreslåede computeranlæg placeret i Jordens kredsløb, designet til at udnytte unikke miljømæssige fordele såsom rigelig solenergi og det naturlige vakuum i rummet til køling.

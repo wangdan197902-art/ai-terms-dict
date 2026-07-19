@@ -1,23 +1,24 @@
 ---
-title: "Sam3"
-term_id: "sam3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "model_versions", "unclear_reference"]
+title: Sam3
+term_id: sam3
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Model Versions
+- Unclear Reference
 difficulty: 3
 weight: 1
-slug: "sam3"
-aliases:
-  - /ko/terms/sam3/
-date: "2026-07-18T16:14:34.987229Z"
-lastmod: "2026-07-18T16:38:06.905742Z"
+slug: sam3
+date: '2026-07-18T16:14:34.987229Z'
+lastmod: '2026-07-18T16:38:06.905742Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Sam3는 세그멘테이션 모델이나 AI 도구의 특정 버전 또는 변형을 가리킬 가능성이 높으며, Segment Anything Model의 후속 버전이나 사내 전용 도구와 관련이 있을 수 있습니다."
+source: agnes_llm
+status: published
+language: ko
+description: Sam3는 세그멘테이션 모델이나 AI 도구의 특정 버전 또는 변형을 가리킬 가능성이 높으며, Segment Anything
+  Model의 후속 버전이나 사내 전용 도구와 관련이 있을 수 있습니다.
 ---
-
 ## Definition
 
 Sam3는 SAM(Segment Anything Model)처럼 널리 알려진 표준 공개 AI 용어는 아닙니다. 이는 서드파티 버전, SAM 2의 오타, 또는 기업의 내부 AI 도구일 수 있습니다.

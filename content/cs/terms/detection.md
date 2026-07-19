@@ -1,23 +1,24 @@
 ---
-title: "Detekce"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Detekce
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /cs/terms/detection/
-date: "2026-07-18T15:24:10.767037Z"
-lastmod: "2026-07-18T17:15:09.066089Z"
+slug: detection
+date: '2026-07-18T15:24:10.767037Z'
+lastmod: '2026-07-18T17:15:09.066089Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Identifikace a lokalizace konkrétních objektů, událostí nebo anomálií v rámci datové sady nebo prostředí."
+source: agnes_llm
+status: published
+language: cs
+description: Identifikace a lokalizace konkrétních objektů, událostí nebo anomálií
+  v rámci datové sady nebo prostředí.
 ---
-
 ## Definition
 
 Detekce je klíčovou úlohou ve zpracování počítačového vidění a signálů, kde model AI identifikuje přítomnost a polohu entit zájmu. Na rozdíl od klasifikace, která přiřazuje pouze štítek, detekce obvykle určuje i přesnou pozici objektu.

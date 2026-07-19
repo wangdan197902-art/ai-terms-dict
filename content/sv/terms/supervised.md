@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /sv/terms/supervised/
 date: "2026-07-18T15:31:19.078253Z"
 lastmod: "2026-07-18T17:15:08.952795Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En maskininlärningsparadigm där modeller tränas på märkta indata-och-utdata-par."
 ---
-
 ## Definition
 
 Självstyrd inlärning innebär att mata in en algoritm med data som innehåller både ingångar och korrekta svar (etiketter). Modellen lär sig att mappa ingångar till utgångar genom att minimera prediktionsfel. Denna teknik är grundläggande för många klassificerings- och regressionsuppgifter.

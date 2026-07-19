@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /es/terms/pattern_theory/
 date: "2026-07-18T11:03:37.072829Z"
 lastmod: "2026-07-18T11:44:44.841716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco matemático para describir estructuras complejas analizando patrones dentro de espacios de datos."
 ---
-
 ## Definition
 
 La teoría de patrones proporciona una base matemática rigurosa para comprender cómo los objetos y fenómenos complejos pueden describirse mediante patrones. Postula que cualquier objeto puede caracterizarse por sus...

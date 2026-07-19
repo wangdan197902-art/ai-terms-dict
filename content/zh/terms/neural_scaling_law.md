@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /zh/terms/neural_scaling_law/
 date: "2026-07-18T11:28:12.945159Z"
 lastmod: "2026-07-18T11:44:45.536651Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "基于数据、参数或计算量增加来预测模型性能提升的经验关系。"
 ---
-
 ## Definition
 
 神经缩放定律描述了模型性能与其规模（包括数据集大小、参数量和计算预算）之间的可预测的幂律关系。这些定律表明，随着规模的扩大，模型性能会按特定规律提升。

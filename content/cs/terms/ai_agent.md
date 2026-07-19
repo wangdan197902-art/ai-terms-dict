@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /cs/terms/ai_agent/
 date: "2026-07-18T15:39:48.104051Z"
 lastmod: "2026-07-18T17:15:09.096308Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Autonomní systém navržený k vnímání svého prostředí a provádění akcí za účelem dosažení specifických cílů."
 ---
-
 ## Definition
 
 AI agent je softwarová entita, která funguje autonomně v definovaném prostředí za účelem splnění předem stanovených cílů. Využívá mechanismy vnímání ke sběru dat a tyto informace zpracovává.

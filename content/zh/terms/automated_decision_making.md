@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /zh/terms/automated_decision_making/
 date: "2026-07-18T11:07:26.676086Z"
 lastmod: "2026-07-18T11:44:45.447725Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "算法基于数据输入独立选择行动或结果，而无需直接人工监督的过程。"
 ---
-
 ## Definition
 
 自动化决策（ADM）依靠软件系统做出以前需要人类判断的选择。常见于信用评分、内容审核和物流领域，ADM使用预定义的规则。

@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /sv/terms/something_big_is_happening/
 date: "2026-07-18T16:20:50.423823Z"
 lastmod: "2026-07-18T17:15:09.048780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett vardagligt uttryck som ofta används i media för att beskriva betydande genombrott eller snabba framsteg inom AI-fältet."
 ---
-
 ## Definition
 
 Denna term är inte en teknisk definition utan en kulturell markör som syftar på perioder av intensiv innovation, offentligt intresse eller paradigmskiften inom artificiell intelligens. Den åtföljer vanligtvis den...

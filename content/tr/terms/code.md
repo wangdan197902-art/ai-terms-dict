@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /tr/terms/code/
 date: "2026-07-18T15:33:48.615872Z"
 lastmod: "2026-07-18T16:38:07.255675Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka bağlamında kod, model davranışını ve veri işleme mantığını tanımlayan programlama dillerinde yazılmış yapılandırılmış talimatları ifade eder."
 ---
-
 ## Definition
 
 Kod, bilgisayarların belirli görevleri yerine getirmek için yürüttüğü Python, C++ veya JavaScript gibi programlama dillerinde yazılan talimatlar bütünüdür. Yapay zeka alanında kod, sinir ağlarının oluşturulmasından eğitim süreçlerine kadar temel bir rol oynar.

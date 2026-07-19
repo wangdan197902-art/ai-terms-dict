@@ -1,23 +1,23 @@
 ---
-title: "Série temporal"
-term_id: "time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "forecasting"]
+title: Série temporal
+term_id: time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- forecasting
 difficulty: 3
 weight: 1
-slug: "time_series"
-aliases:
-  - /pt/terms/time_series/
-date: "2026-07-18T15:24:58.931968Z"
-lastmod: "2026-07-18T15:51:59.539351Z"
+slug: time_series
+date: '2026-07-18T15:24:58.931968Z'
+lastmod: '2026-07-18T15:51:59.539351Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma sequência de pontos de dados indexados em ordem cronológica, comumente analisada usando modelos de IA especializados para previsão."
+source: agnes_llm
+status: published
+language: pt
+description: Uma sequência de pontos de dados indexados em ordem cronológica, comumente
+  analisada usando modelos de IA especializados para previsão.
 ---
-
 ## Definition
 
 Os dados de série temporal consistem em observações registradas sequencialmente ao longo de intervalos de tempo. Na IA, esse tipo de dado é crucial para prever tendências futuras com base em padrões históricos. Modelos especializados como Redes Neurais Recorrentes (RNNs) e Transformers são frequentemente aplicados para capturar dependências temporais.

@@ -1,23 +1,25 @@
 ---
-title: "Fluch der Dimensionalität"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Fluch der Dimensionalität
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /de/terms/curse_of_dimensionality/
-date: "2026-07-18T11:09:16.110592Z"
-lastmod: "2026-07-18T11:44:44.922854Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T11:09:16.110592Z'
+lastmod: '2026-07-18T11:44:44.922854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Phänomen, bei dem das Volumen des Raums exponentiell mit der Anzahl der Dimensionen zunimmt, wodurch Daten spärlich werden und Distanzmetriken ihre Wirksamkeit verlieren."
+source: agnes_llm
+status: published
+language: de
+description: Ein Phänomen, bei dem das Volumen des Raums exponentiell mit der Anzahl
+  der Dimensionen zunimmt, wodurch Daten spärlich werden und Distanzmetriken ihre
+  Wirksamkeit verlieren.
 ---
-
 ## Definition
 
 Der Fluch der Dimensionalität bezeichnet verschiedene Phänomene, die bei der Analyse von Daten in hochdimensionalen Räumen auftreten, die in niedrigdimensionalen Einstellungen nicht vorkommen. Mit zunehmender Anzahl von Merkmalen wird der Datenraum immer spärlicher, was es schwieriger macht, statistisch signifikante Muster zu erkennen.

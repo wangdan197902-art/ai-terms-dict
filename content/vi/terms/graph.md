@@ -1,23 +1,24 @@
 ---
-title: "Đồ thị"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Đồ thị
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /vi/terms/graph/
-date: "2026-07-18T15:25:54.737251Z"
-lastmod: "2026-07-18T16:38:07.686678Z"
+slug: graph
+date: '2026-07-18T15:25:54.737251Z'
+lastmod: '2026-07-18T16:38:07.686678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một cấu trúc toán học gồm các nút được kết nối bởi các cạnh, dùng để biểu diễn mối quan hệ giữa các thực thể."
+source: agnes_llm
+status: published
+language: vi
+description: Một cấu trúc toán học gồm các nút được kết nối bởi các cạnh, dùng để
+  biểu diễn mối quan hệ giữa các thực thể.
 ---
-
 ## Definition
 
 Đồ thị là một cấu trúc dữ liệu cơ bản trong AI bao gồm các đỉnh (nút) và các cạnh (liên kết) biểu thị mối quan hệ. Các Mạng Nơ-ron Đồ thị (GNN) tận dụng cấu trúc này để thực hiện học tập trên dữ liệu phi Euclid

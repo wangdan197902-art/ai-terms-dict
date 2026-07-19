@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /fi/terms/elmo/
 date: "2026-07-18T15:55:15.139584Z"
 lastmod: "2026-07-18T17:15:09.406451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Embeddings from Language Models, syvä kontekstuaalinen sanaesitysmenetelmä, joka käyttää kaksisuuntaisia LSTMejä."
 ---
-
 ## Definition
 
 ELMo luo kontekstiherkkiä sanaembeddingejä prosessoimalla syötekstin kaksisuuntaisen LSTM-verkon läpi, joka on koulutettu suurella korpuksella. Toisin kuin staattiset embeddingit kuten Word2Vec, ELMo vangitseu polysemian tuottamalla...

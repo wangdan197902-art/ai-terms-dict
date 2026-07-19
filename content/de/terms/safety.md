@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /de/terms/safety/
 date: "2026-07-18T10:53:24.614034Z"
 lastmod: "2026-07-18T11:44:44.882717Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Wissenschaft und Praxis der Sicherstellung, dass KI-Systeme keinen physischen, digitalen oder gesellschaftlichen Schaden verursachen."
 ---
-
 ## Definition
 
 AI Safety (Sicherheit der Künstlichen Intelligenz) ist ein interdisziplinäres Feld, das darauf abzielt, nachteilige Ergebnisse durch fortschrittliche künstliche Intelligenz zu verhindern. Es umfasst technische Herausforderungen wie Ausrichtung, Interpretierbarkeit und Robustheit.

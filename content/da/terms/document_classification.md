@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /da/terms/document_classification/
 date: "2026-07-18T15:53:45.464363Z"
 lastmod: "2026-07-18T17:15:09.282566Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at kategorisere tekstdokumenter i foruddefinerede grupper baseret på deres indhold."
 ---
-
 ## Definition
 
 Dokumentklassificering er en grundlæggende opgave inden for naturlig sprogbehandling, hvor algoritmer tildeler etiketter til ustrukturerede tekstdatasæt. Det indebærer at udtrække træk fra dokumenter og kortlægge dem til specifikke kategorier.

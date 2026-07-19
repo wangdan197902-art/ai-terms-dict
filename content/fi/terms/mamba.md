@@ -1,23 +1,24 @@
 ---
-title: "Mamba"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: Mamba
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /fi/terms/mamba/
-date: "2026-07-18T15:28:52.332275Z"
-lastmod: "2026-07-18T17:15:09.354435Z"
+slug: mamba
+date: '2026-07-18T15:28:52.332275Z'
+lastmod: '2026-07-18T17:15:09.354435Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mamba on tila-avaruussekvenssimalli, joka tarjoaa lineaarisen aikakompleksisuuden päättelyssä säilyttäen samalla transformer-mallien suorituskyvyn pitkien kontekstitehtävissä."
+source: agnes_llm
+status: published
+language: fi
+description: Mamba on tila-avaruussekvenssimalli, joka tarjoaa lineaarisen aikakompleksisuuden
+  päättelyssä säilyttäen samalla transformer-mallien suorituskyvyn pitkien kontekstitehtävissä.
 ---
-
 ## Definition
 
 Mamba edustaa merkittävää edistysaskelta sekvenssimallinnuksessa esittelemällä laitteistotietoinen valikoiva tila-avaruusmalli (SSM). Toisin kuin perinteiset transformerit, joiden skaalautuminen on neliöllistä sekvenssin pituuden suhteen, Mamba pystyy käsittelemään hyvin pitkiä sekvenssejä tehokkaasti ilman suorituskyvyn romahtamista.

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /no/terms/benchmark/
 date: "2026-07-18T15:24:51.700586Z"
 lastmod: "2026-07-18T16:38:06.932887Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et standardreferansepunkt eller en måling som brukes til å evaluere ytelsen til AI-modeller mot etablerte baselinjer."
 ---
-
 ## Definition
 
 Innen kunstig intelligens er et benchmark et standardisert testsuite eller datasett designet for å måle evnene til maskinlæringsmodeller. Det gir et konsistent rammeverk for å sammenligne ulike modeller.

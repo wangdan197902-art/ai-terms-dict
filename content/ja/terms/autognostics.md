@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /ja/terms/autognostics/
 date: "2026-07-18T11:05:00.323451Z"
 lastmod: "2026-07-18T11:44:45.070723Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間の介入なしに、AIシステムが自身の内部状態、パフォーマンスの問題、またはエラーを自己診断する能力。"
 ---
-
 ## Definition
 
 自己診断機能（オートグノスティクス）は、インテリジェントシステムに組み込まれた自己監視および自己修復メカニズムを指します。これにより、AIエージェントは異常を検出し、失敗の根本原因を診断し、場合によっては自律的に修正を行うことができます。

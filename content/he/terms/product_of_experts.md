@@ -1,23 +1,24 @@
 ---
-title: "מכפלת מומחים"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: מכפלת מומחים
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /he/terms/product_of_experts/
-date: "2026-07-18T16:20:07.762516Z"
-lastmod: "2026-07-18T17:15:09.575830Z"
+slug: product_of_experts
+date: '2026-07-18T16:20:07.762516Z'
+lastmod: '2026-07-18T17:15:09.575830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מסגרת מודלינג הסתברותית שבה ההתפלגות המשותפת נוצרת על ידי כפל הפלט של מספר מודלי מומחים עצמאיים."
+source: agnes_llm
+status: published
+language: he
+description: מסגרת מודלינג הסתברותית שבה ההתפלגות המשותפת נוצרת על ידי כפל הפלט של
+  מספר מודלי מומחים עצמאיים.
 ---
-
 ## Definition
 
 מכפלת מומחים (PoE) היא שיטה לבניית התפלגויות הסתברותיות מורכבות משילוב של התפלגויות פשוטות יותר. בניגוד ל'ערמת מומחים' (Mixture of Experts) שממוצעת הסתברויות, PoE מכפלת את צפיפויות ההסתברות של המומחים השונים, מה שמאפשר למודל להטיל אילוצים מחמירים יותר ולמודל תלותיות מורכבות בין משתנים.

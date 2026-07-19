@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /tr/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:02:06.296157Z"
 lastmod: "2026-07-18T16:38:07.330897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Genomik diziler ve protein yapıları gibi biyolojik verileri analiz ederek biyolojik içgörüler keşfetmek amacıyla hesaplama modellerinin uygulanmasıdır."
 ---
-
 ## Definition
 
 Bu disiplinler arası alan, araştırmacıların gen fonksiyonlarını tahmin etmelerine, hastalıkları sınıflandırmalarına ve moleküler etkileşimleri anlamalarına olanak tanıyan devasa miktarda biyolojik veriyi işlemek için makine öğrenimini kullanır.

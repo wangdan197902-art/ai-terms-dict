@@ -1,23 +1,24 @@
 ---
-title: "Lineární predikční funkce"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Lineární predikční funkce
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /cs/terms/linear_predictor_function/
-date: "2026-07-18T16:05:59.847990Z"
-lastmod: "2026-07-18T17:15:09.148166Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:05:59.847990Z'
+lastmod: '2026-07-18T17:15:09.148166Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Matematická funkce, která vypočítává lineární kombinaci vstupních proměnných za účelem předpovědi výsledku."
+source: agnes_llm
+status: published
+language: cs
+description: Matematická funkce, která vypočítává lineární kombinaci vstupních proměnných
+  za účelem předpovědi výsledku.
 ---
-
 ## Definition
 
 V statistickém modelování a strojovém učení představuje lineární predikční funkce vážený součet vstupních znaků plus člen biasu (posunu). Slouží jako klíčová složka v zobecněných lineárních modelech (GLM).

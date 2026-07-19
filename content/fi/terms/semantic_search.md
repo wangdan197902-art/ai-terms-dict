@@ -1,23 +1,24 @@
 ---
-title: "Semanttinen haku"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Semanttinen haku
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /fi/terms/semantic_search/
-date: "2026-07-18T15:38:18.025222Z"
-lastmod: "2026-07-18T17:15:09.375161Z"
+slug: semantic_search
+date: '2026-07-18T15:38:18.025222Z'
+lastmod: '2026-07-18T17:15:09.375161Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Hakuteknologia, joka ymmärtää hakutermeiden merkityksen eikä vain etsi avainsanoja."
+source: agnes_llm
+status: published
+language: fi
+description: Hakuteknologia, joka ymmärtää hakutermeiden merkityksen eikä vain etsi
+  avainsanoja.
 ---
-
 ## Definition
 
 Semanttinen haku tulkitsee kyselyn tarkoituksen ja kontekstuaalisen merkityksen yksinkertaisen avainsanatäsmäyksen sijaan. Se käyttää vektoreita tekstin esittämiseen korkeadimensiosaisessa avaruudessa, mikä mahdollistaa

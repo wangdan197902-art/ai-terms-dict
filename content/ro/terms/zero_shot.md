@@ -1,23 +1,23 @@
 ---
-title: "zero-shot"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: zero-shot
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /ro/terms/zero_shot/
-date: "2026-07-18T15:34:15.676992Z"
-lastmod: "2026-07-18T17:15:09.611642Z"
+slug: zero_shot
+date: '2026-07-18T15:34:15.676992Z'
+lastmod: '2026-07-18T17:15:09.611642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Capacitatea de a executa sarcini pe clase necunoscute fără exemple anterioare de antrenament."
+source: agnes_llm
+status: published
+language: ro
+description: Capacitatea de a executa sarcini pe clase necunoscute fără exemple anterioare
+  de antrenament.
 ---
-
 ## Definition
 
 Învățarea zero-shot permite modelelor să generalizeze către categorii noi sau sarcini pentru care nu au fost furnizate date de antrenament etichetate în faza inițială de antrenament. Acest lucru se realizează de obicei prin exploatarea reprezentărilor semantice sau a relațiilor dintre clase cunoscute și cele necunoscute.

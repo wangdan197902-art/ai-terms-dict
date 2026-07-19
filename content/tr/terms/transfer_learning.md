@@ -1,23 +1,24 @@
 ---
-title: "Transfer Öğrenimi"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Transfer Öğrenimi
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /tr/terms/transfer_learning/
-date: "2026-07-18T15:30:35.879392Z"
-lastmod: "2026-07-18T16:38:07.246265Z"
+slug: transfer_learning
+date: '2026-07-18T15:30:35.879392Z'
+lastmod: '2026-07-18T16:38:07.246265Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir görev için geliştirilen bir modelin, ikinci bir görev için modelin başlangıç noktası olarak yeniden kullanıldığı makine öğrenimi tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Bir görev için geliştirilen bir modelin, ikinci bir görev için modelin
+  başlangıç noktası olarak yeniden kullanıldığı makine öğrenimi tekniği.
 ---
-
 ## Definition
 
 Transfer öğrenimi, yeni ve ilgili görevlerde performansı artırmak ve eğitim süresini kısaltmak için önceden eğitilmiş modellerden yararlanır. Sıfırdan eğitim yapmak yerine, geliştiriciler mevcut ağırlıkları ince ayarlayarak modeli özelleştirir.

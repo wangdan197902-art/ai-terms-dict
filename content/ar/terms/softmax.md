@@ -1,23 +1,23 @@
 ---
-title: "الطبقة الناعمة (Softmax)"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: الطبقة الناعمة (Softmax)
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /ar/terms/softmax/
-date: "2026-07-18T15:38:49.559217Z"
-lastmod: "2026-07-18T17:15:08.466706Z"
+slug: softmax
+date: '2026-07-18T15:38:49.559217Z'
+lastmod: '2026-07-18T17:15:08.466706Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "دالة رياضية تحول متجهًا من القيم الحقيقية إلى توزيع احتمالي."
+source: agnes_llm
+status: published
+language: ar
+description: دالة رياضية تحول متجهًا من القيم الحقيقية إلى توزيع احتمالي.
 ---
-
 ## Definition
 
 تُستخدم الطبقة الناعمة على نطاق واسع في طبقة الإخراج للشبكات العصبية لمهام التصنيف متعدد الفئات. تأخذ متجهًا من القيم الخام (logits) وتطبيعها بحيث يمثل كل عنصر احتمالًا.

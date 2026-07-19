@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /th/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:01:29.968299Z"
 lastmod: "2026-07-18T16:38:07.623110Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เครื่องมือแนะนำที่สร้างข้อเสนอแนะโดยการให้เหตุผลเหนือความรู้โดเมนที่ชัดเจนและข้อจำกัดของผู้ใช้ แทนที่จะใช้ข้อมูลในอดีต"
 ---
-
 ## Definition
 
 ต่างจากการกรองแบบร่วมมือที่พึ่งพาพฤติกรรมผู้ใช้ในอดีต ระบบแนะนำโดยอาศัยความรู้ (KBRS) ใช้ความรู้ที่ชัดเจนเกี่ยวกับสินค้าและความชอบของผู้ใช้เพื่อหาข้อสรุป เป็นประโยชน์อย่างยิ่งในตลาดที่มีข้อมูลประวัติจำกัดหรือสินค้ามีความซับซ้อน

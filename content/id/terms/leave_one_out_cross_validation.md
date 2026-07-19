@@ -1,23 +1,25 @@
 ---
-title: "Validasi silang leave-one-out"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Validasi silang leave-one-out
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /id/terms/leave_one_out_cross_validation/
-date: "2026-07-18T15:57:56.933506Z"
-lastmod: "2026-07-18T16:38:07.476872Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T15:57:56.933506Z'
+lastmod: '2026-07-18T16:38:07.476872Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik resampling yang ketat di mana model dilatih pada semua sampel kecuali satu dan diuji pada satu sampel yang disimpan tersebut, diulang untuk setiap titik data."
+source: agnes_llm
+status: published
+language: id
+description: Teknik resampling yang ketat di mana model dilatih pada semua sampel
+  kecuali satu dan diuji pada satu sampel yang disimpan tersebut, diulang untuk setiap
+  titik data.
 ---
-
 ## Definition
 
 Validasi silang leave-one-out (LOOCV) adalah kasus khusus dari validasi silang k-fold di mana k sama dengan jumlah sampel dalam dataset. Metode ini memberikan estimasi kinerja model yang hampir tidak bias.

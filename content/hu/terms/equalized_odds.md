@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /hu/terms/equalized_odds/
 date: "2026-07-18T15:58:51.579686Z"
 lastmod: "2026-07-18T17:15:09.781712Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy méltányossági mutató, amely megköveteli, hogy a valódi pozitív és hamis pozitív ráták egyenlőek legyenek különböző demográfiai csoportok között."
 ---
-
 ## Definition
 
 Az equalized odds egy statisztikai párhuzamossági korlátozás az algoritmikus méltányosságban, amely biztosítja, hogy egy modell ugyanolyan jól teljesítsen minden védett csoport esetében. Konkrétan azt követeli meg, hogy a...

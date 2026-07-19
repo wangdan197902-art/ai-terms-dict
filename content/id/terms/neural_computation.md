@@ -1,23 +1,24 @@
 ---
-title: "Komputasi saraf"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Komputasi saraf
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /id/terms/neural_computation/
-date: "2026-07-18T16:02:06.529952Z"
-lastmod: "2026-07-18T16:38:07.487143Z"
+slug: neural_computation
+date: '2026-07-18T16:02:06.529952Z'
+lastmod: '2026-07-18T16:38:07.487143Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses pemrosesan informasi dalam jaringan saraf tiruan yang terinspirasi oleh neuron biologis."
+source: agnes_llm
+status: published
+language: id
+description: Proses pemrosesan informasi dalam jaringan saraf tiruan yang terinspirasi
+  oleh neuron biologis.
 ---
-
 ## Definition
 
 Komputasi saraf merujuk pada operasi matematika yang dilakukan oleh neuron tiruan untuk mengubah sinyal input menjadi respons output. Proses ini melibatkan penjumlahan berbobot, fungsi aktivasi, dan propagasi balik (backpropagation).

@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /no/terms/visual/
 date: "2026-07-18T15:31:59.387221Z"
 lastmod: "2026-07-18T16:38:06.950560Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Angående syn eller bilde, ofte refererende til datamaskinoppgaver som prosesserer og tolker visuelle data som bilder og videoer."
 ---
-
 ## Definition
 
 Begrepet 'visuell' innen AI gjelder primært Datamaskinsyn, feltet dedikert til å gi maskiner mulighet til å utlede meningsfull informasjon fra digitale bilder, videoer og andre visuelle inndata. Det involverer...

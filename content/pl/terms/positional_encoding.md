@@ -1,23 +1,24 @@
 ---
-title: "Kodowanie pozycyjne"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Kodowanie pozycyjne
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /pl/terms/positional_encoding/
-date: "2026-07-18T15:36:33.646143Z"
-lastmod: "2026-07-18T17:15:08.835393Z"
+slug: positional_encoding
+date: '2026-07-18T15:36:33.646143Z'
+lastmod: '2026-07-18T17:15:08.835393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika wstrzykiwania informacji o względnej lub bezwzględnej pozycji tokenów w sekwencji do modeli transformera."
+source: agnes_llm
+status: published
+language: pl
+description: Technika wstrzykiwania informacji o względnej lub bezwzględnej pozycji
+  tokenów w sekwencji do modeli transformera.
 ---
-
 ## Definition
 
 Ponieważ transformatory przetwarzają wszystkie tokeny równolegle, a nie sekwencyjnie jak sieci RNN, brakuje im wbudowanej wiedzy o kolejności tokenów. Kodowanie pozycyjne dodaje specyficzne wektory do osadzonych wejść (embeddings), aby nadać modelowi informację o porządku elementów w sekwencji.

@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /pl/terms/memory/
 date: "2026-07-18T15:35:58.978566Z"
 lastmod: "2026-07-18T17:15:08.833911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zdolność systemu sztucznej inteligencji do przechowywania, pobierania i wykorzystywania informacji w trakcie interakcji w celu utrzymania kontekstu i poprawy wydajności z czasem."
 ---
-
 ## Definition
 
 W sztucznej inteligencji pamięć odnosi się do mechanizmów pozwalających modelom na zachowanie informacji poza pojedynczym krokiem wnioskowania. Obejmuje to krótkotrwałą pamięć roboczą służącą do bieżącego kontekstu w ramach jednego...

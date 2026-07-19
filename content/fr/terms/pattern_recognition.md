@@ -1,23 +1,24 @@
 ---
-title: "Reconnaissance de formes"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Reconnaissance de formes
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /fr/terms/pattern_recognition/
-date: "2026-07-18T11:32:38.894164Z"
-lastmod: "2026-07-18T11:44:45.310550Z"
+slug: pattern_recognition
+date: '2026-07-18T11:32:38.894164Z'
+lastmod: '2026-07-18T11:44:45.310550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'identification automatisée de régularités et de structures au sein des données à l'aide de méthodes statistiques et d'apprentissage automatique."
+source: agnes_llm
+status: published
+language: fr
+description: L'identification automatisée de régularités et de structures au sein
+  des données à l'aide de méthodes statistiques et d'apprentissage automatique.
 ---
-
 ## Definition
 
 La reconnaissance de formes est une branche de l'intelligence artificielle et des statistiques concernée par l'identification de régularités dans les données. Elle implique de classifier les données d'entrée dans des catégories prédéfinies en fonction des caract

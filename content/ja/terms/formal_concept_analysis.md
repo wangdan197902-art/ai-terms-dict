@@ -1,23 +1,23 @@
 ---
-title: "形式概念解析"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: 形式概念解析
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /ja/terms/formal_concept_analysis/
-date: "2026-07-18T11:15:11.232333Z"
-lastmod: "2026-07-18T11:44:45.098905Z"
+slug: formal_concept_analysis
+date: '2026-07-18T11:15:11.232333Z'
+lastmod: '2026-07-18T11:44:45.098905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "形式概念解析（FCA）は、形式文脈と概念格子を用いて、データから概念的階層を導き出す数学的手法です。"
+source: agnes_llm
+status: published
+language: ja
+description: 形式概念解析（FCA）は、形式文脈と概念格子を用いて、データから概念的階層を導き出す数学的手法です。
 ---
-
 ## Definition
 
 FCAは、オブジェクトとその属性間の関係を分析するための厳密な枠組みを提供し、概念格子と呼ばれる階層構造をもたらします。それは知識発見において広く使用されています。

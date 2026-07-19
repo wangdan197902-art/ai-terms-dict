@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /zh/terms/human_centered_ai/
 date: "2026-07-18T11:21:11.087665Z"
 lastmod: "2026-07-18T11:44:45.514500Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种人工智能设计与开发方法，在整个系统生命周期中优先考虑人类的价值观、需求和福祉。"
 ---
-
 ## Definition
 
 以人为本的人工智能是一种设计哲学，将人类置于人工智能发展的核心。它强调创建透明、公平且对社会有益的系统，而非...

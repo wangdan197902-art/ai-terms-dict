@@ -1,23 +1,24 @@
 ---
-title: "Bioserenitas"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Bioserenitas
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /id/terms/bioserenity/
-date: "2026-07-18T15:41:18.108848Z"
-lastmod: "2026-07-18T16:38:07.434298Z"
+slug: bioserenity
+date: '2026-07-18T15:41:18.108848Z'
+lastmod: '2026-07-18T16:38:07.434298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Keadaan teoretis koeksistensi yang harmonis antara kehidupan biologis dan sistem kecerdasan buatan."
+source: agnes_llm
+status: published
+language: id
+description: Keadaan teoretis koeksistensi yang harmonis antara kehidupan biologis
+  dan sistem kecerdasan buatan.
 ---
-
 ## Definition
 
 Bioserenitas merujuk pada ide konseptual di mana biologi manusia dan kecerdasan buatan beroperasi dalam harmoni yang mulus dan tanpa konflik. Hal ini menekankan integrasi etis, memastikan bahwa augmentasi AI

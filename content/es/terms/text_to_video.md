@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /es/terms/text_to_video/
 date: "2026-07-18T11:10:14.155359Z"
 lastmod: "2026-07-18T11:44:44.861208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El texto a vídeo es una capacidad de IA que genera clips de vídeo a partir de descripciones o indicaciones textuales."
 ---
-
 ## Definition
 
 El texto a vídeo se refiere a modelos de IA generativa que crean contenido visual dinámico basado en entradas de lenguaje natural. Estos sistemas analizan el significado semántico de las indicaciones de texto para sintetizar secuencias coherentes.

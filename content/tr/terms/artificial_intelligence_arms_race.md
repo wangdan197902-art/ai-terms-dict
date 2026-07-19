@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /tr/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:41:44.123493Z"
 lastmod: "2026-07-18T16:38:07.273749Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ulusların veya organizasyonların stratejik üstünlük elde etmek için yapay zeka yeteneklerini hızla geliştirdiği rekabetçi bir dinamik."
 ---
-
 ## Definition
 
 Yapay zeka silahlanma yarışı, ülkeler, şirketler ve araştırma kurumları arasında yapay zeka teknolojilerinde hakimiyet kazanmak amacıyla yaşanan yoğun rekabeti ifade eder. Bu rekabet, hızlı inovasyonu teşvik eder.

@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /he/terms/understanding/
 date: "2026-07-18T15:31:37.468724Z"
 lastmod: "2026-07-18T17:15:09.490335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "בינה מלאכותית, היכולת של מודל להבין משמעות סמנטית, הקשר וכוונה בתוך הנתונים הקלטים, ולא רק להתאים דפוסים."
 ---
-
 ## Definition
 
 הבנה ב-AI עוברת מעבר למתאם סטטיסטי כדי לפרש את המשמעות הבסיסית של הנתונים. עבור מודלי שפה, זה כולל הבנת תחביר, סמנטיקה ופרגמטיקה כדי לייצר תגובות עקביות ומשמעותיות.

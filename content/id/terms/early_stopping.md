@@ -1,23 +1,24 @@
 ---
-title: "Early Stopping"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Early Stopping
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /id/terms/early_stopping/
-date: "2026-07-18T15:48:54.582076Z"
-lastmod: "2026-07-18T16:38:07.453222Z"
+slug: early_stopping
+date: '2026-07-18T15:48:54.582076Z'
+lastmod: '2026-07-18T16:38:07.453222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Early stopping adalah teknik regularisasi yang menghentikan proses pelatihan ketika performa model pada set validasi mulai menurun, mencegah overfitting."
+source: agnes_llm
+status: published
+language: id
+description: Early stopping adalah teknik regularisasi yang menghentikan proses pelatihan
+  ketika performa model pada set validasi mulai menurun, mencegah overfitting.
 ---
-
 ## Definition
 
 Early stopping adalah bentuk regularisasi yang digunakan terutama dalam proses pelatihan iteratif seperti gradien descend. Selama pelatihan, performa model pada data pelatihan biasanya terus meningkat, namun performa pada data validasi bisa memburuk jika model mulai menghafal noise (overfitting). Early stopping menghentikan pelatihan tepat sebelum hal ini terjadi.

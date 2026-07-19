@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /pl/terms/trade_off/
 date: "2026-07-18T15:33:14.946507Z"
 lastmod: "2026-07-18T17:15:08.828604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Kompromis, w którym uzyskanie przewagi w jednym obszarze prowadzi do straty w innym."
 ---
-
 ## Definition
 
 W sztucznej inteligencji i inżynierii kompromis odnosi się do równowagi wymaganej przy optymalizacji sprzecznych celów, takich jak dokładność modelu versus koszt obliczeniowy czy opóźnienie versus precyzja. Ponieważ zasoby są ograniczone...

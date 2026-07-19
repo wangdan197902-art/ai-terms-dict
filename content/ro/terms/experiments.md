@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /ro/terms/experiments/
 date: "2026-07-18T15:25:26.295855Z"
 lastmod: "2026-07-18T17:15:09.593494Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Proceduri controlate efectuate pentru a testa ipoteze, a evalua performanța modelelor sau a descoperi noi capacități de IA."
 ---
-
 ## Definition
 
 Experimentele în IA implică testarea sistematică a variabilelor pentru a înțelege relațiile de cauzalitate în modelele de învățare automată. Aceste proceduri permit dezvoltatorilor să compare diferiți hiperparametri și abordări.

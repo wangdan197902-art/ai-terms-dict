@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /ko/terms/semi_supervised_learning/
 date: "2026-07-18T16:14:49.554441Z"
 lastmod: "2026-07-18T16:38:06.906824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "레이블이 있는 데이터와 없는 데이터를 모두 활용하여 모델의 정확도와 일반화 성능을 향상시키는 머신러닝 접근 방식입니다."
 ---
-
 ## Definition
 
 반지도 학습은 소량의 레이블이 지정된 데이터와 대량의 레이블이 지정되지 않은 데이터를 함께 사용하는 하이브리드 학습 패러다임입니다. 핵심 가정은 레이블이 없는 데이터의 구조가 레이블이 있는 데이터의 분포를 반영한다는 것이며, 이를 통해 제한된 라벨링 비용으로도 강력한 모델을 구축할 수 있습니다.

@@ -1,23 +1,24 @@
 ---
-title: "Slumpmässig funktion"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Slumpmässig funktion
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /sv/terms/random_feature/
-date: "2026-07-18T16:17:39.449482Z"
-lastmod: "2026-07-18T17:15:09.042444Z"
+slug: random_feature
+date: '2026-07-18T16:17:39.449482Z'
+lastmod: '2026-07-18T17:15:09.042444Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknik som avbildar indata till ett högdimensionellt rum med hjälp av slumpmässiga projektioner för att effektivt approximera kärnmetoder."
+source: agnes_llm
+status: published
+language: sv
+description: En teknik som avbildar indata till ett högdimensionellt rum med hjälp
+  av slumpmässiga projektioner för att effektivt approximera kärnmetoder.
 ---
-
 ## Definition
 
 Slumpmässiga funktionsavbildningar transformerar indata till ett nytt rum där linjära modeller kan approximera icke-linjära kärnfunktioner. Denna metod, ofta associerad med Nystrom-metoden eller Fourier-funktioner, möjliggör skalbar beräkning av kärnmetoder utan att explicit beräkna den fullständiga kärnmatrisen.

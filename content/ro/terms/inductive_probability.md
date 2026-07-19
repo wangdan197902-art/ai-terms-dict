@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /ro/terms/inductive_probability/
 date: "2026-07-18T16:04:50.175544Z"
 lastmod: "2026-07-18T17:15:09.668546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O măsură a gradului în care dovezile susțin o ipoteză, distinctă de certitudinea deductivă."
 ---
-
 ## Definition
 
 Probabilitatea inductivă cuantifică cât de probabilă este o ipoteză adevărată având în vedere dovezile observate, recunoscând că concluziile sunt probabile, nu certe. Aceasta stă la baza inferenței bayesiene, unde probabilitatea este actualizată pe măsură ce apar noi dovezi.

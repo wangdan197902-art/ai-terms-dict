@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /vi/terms/text_to_video/
 date: "2026-07-18T16:14:26.420789Z"
 lastmod: "2026-07-18T16:38:07.811488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chuyển đổi văn bản thành video là khả năng của AI tạo ra các đoạn video từ mô tả hoặc lời nhắc bằng văn bản."
 ---
-
 ## Definition
 
 Chuyển đổi văn bản thành video đề cập đến các mô hình AI tạo sinh tạo ra nội dung hình ảnh động dựa trên đầu vào ngôn ngữ tự nhiên. Các hệ thống này phân tích ý nghĩa ngữ nghĩa từ các lời nhắc văn bản để tổng hợp các chuỗi hình ảnh mạch lạc.

@@ -1,23 +1,25 @@
 ---
-title: "Augmentasi Data"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Augmentasi Data
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /id/terms/data_augmentation/
-date: "2026-07-18T15:44:45.409478Z"
-lastmod: "2026-07-18T16:38:07.442392Z"
+slug: data_augmentation
+date: '2026-07-18T15:44:45.409478Z'
+lastmod: '2026-07-18T16:38:07.442392Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Augmentasi data adalah teknik yang digunakan untuk meningkatkan keragaman dan ukuran dataset pelatihan dengan menerapkan transformasi pada titik data yang ada."
+source: agnes_llm
+status: published
+language: id
+description: Augmentasi data adalah teknik yang digunakan untuk meningkatkan keragaman
+  dan ukuran dataset pelatihan dengan menerapkan transformasi pada titik data yang
+  ada.
 ---
-
 ## Definition
 
 Metode ini memperluas dataset pelatihan secara artifisial dengan membuat versi modifikasi dari sampel yang ada, seperti memutar gambar, menambahkan noise pada audio, atau penggantian sinonim dalam teks. Hal ini membantu mencegah

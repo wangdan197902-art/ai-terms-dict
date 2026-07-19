@@ -1,23 +1,24 @@
 ---
-title: "Véganisme IA"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: Véganisme IA
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /fr/terms/ai_veganism/
-date: "2026-07-18T11:03:15.649734Z"
-lastmod: "2026-07-18T11:44:45.193169Z"
+slug: ai_veganism
+date: '2026-07-18T11:03:15.649734Z'
+lastmod: '2026-07-18T11:44:45.193169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un concept métaphorique suggérant que les systèmes d'IA devraient fonctionner sans dépendre de données ou de travail générés par des humains."
+source: agnes_llm
+status: published
+language: fr
+description: Un concept métaphorique suggérant que les systèmes d'IA devraient fonctionner
+  sans dépendre de données ou de travail générés par des humains.
 ---
-
 ## Definition
 
 Le véganisme IA est un terme spéculatif et métaphorique désignant l'idée de créer une intelligence artificielle qui apprend entièrement à partir de données synthétiques, auto-générées ou issues du monde physique, plutôt que de réutiliser des données humaines.

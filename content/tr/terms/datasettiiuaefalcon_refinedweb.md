@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /tr/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T15:48:27.399684Z"
 lastmod: "2026-07-18T16:38:07.294631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Falcon gibi büyük dil modellerini önceden eğitmek için Teknoloji Araştırma Enstitüsü tarafından özenle hazırlanmış, devasa ve yüksek kaliteli bir web veri seti."
 ---
-
 ## Definition
 
 RefinedWeb, temel modelleri önceden eğitmek için tasarlanmış, filtrelenmiş web sayfalarından oluşan büyük ölçekli bir veri setidir. Düşük kaliteli içerikleri, kopyaları ve zararlı materyalleri elemek için milyarlarca web sayfasını işler.

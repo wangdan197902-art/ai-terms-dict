@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /es/terms/scientific/
 date: "2026-07-18T10:26:20.839670Z"
 lastmod: "2026-07-18T11:44:44.750853Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Científico en IA se refiere a la aplicación de métodos empíricos rigurosos, pruebas de hipótesis y reproducibilidad en la investigación."
 ---
-
 ## Definition
 
 El enfoque científico en inteligencia artificial enfatiza el desarrollo y la validación basados en evidencias. Implica formular hipótesis sobre el comportamiento del modelo, realizar experimentos controlados y

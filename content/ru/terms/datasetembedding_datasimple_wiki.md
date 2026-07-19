@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /ru/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:48:03.498459Z"
 lastmod: "2026-07-18T16:38:07.140287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Курируемый набор данных, полученный из Simple English Wikipedia, используемый для обучения и оценки моделей векторных представлений текста."
 ---
-
 ## Definition
 
 Этот набор данных состоит из предложений и абзацев, извлеченных из Simple English Wikipedia — версии Википедии на упрощенном английском языке, предназначенной для носителей других языков с использованием упрощенной грамматики и лексики. Он служит в качестве

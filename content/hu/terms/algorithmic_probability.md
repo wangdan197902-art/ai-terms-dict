@@ -1,23 +1,24 @@
 ---
-title: "Algoritmikus valószínűség"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Algoritmikus valószínűség
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /hu/terms/algorithmic_probability/
-date: "2026-07-18T15:43:45.954824Z"
-lastmod: "2026-07-18T17:15:09.752885Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:43:45.954824Z'
+lastmod: '2026-07-18T17:15:09.752885Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy elméleti mérték annak a valószínűségére, hogy egy véletlenszerű program egy adott kimeneti karakterláncot állít elő."
+source: agnes_llm
+status: published
+language: hu
+description: Egy elméleti mérték annak a valószínűségére, hogy egy véletlenszerű program
+  egy adott kimeneti karakterláncot állít elő.
 ---
-
 ## Definition
 
 Az algoritmikus valószínűség a Kolmogorov-komplexitáson és a Solomonoff-indukción alapul, és magasabb valószínűséget rendel azokhoz a kimenetekhez, amelyeket rövidebb programok hoznak létre. Elmélete szerint az egyszerűbb magyarázatok valószínűbbek.

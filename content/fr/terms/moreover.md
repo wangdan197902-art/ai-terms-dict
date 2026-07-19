@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /fr/terms/moreover/
 date: "2026-07-18T10:52:00.887766Z"
 lastmod: "2026-07-18T11:44:45.167144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un adverbe de transition utilisé pour introduire des informations supplémentaires ou renforcer un argument précédent."
 ---
-
 ## Definition
 
 Dans le contexte de la documentation IA et de l'écriture technique, « De plus » sert de marqueur discursif indiquant l'ajout d'une preuve de soutien ou d'un point supplémentaire qui renforce la discussion actuelle.

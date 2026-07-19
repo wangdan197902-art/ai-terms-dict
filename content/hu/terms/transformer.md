@@ -1,23 +1,24 @@
 ---
-title: "Transzformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transzformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /hu/terms/transformer/
-date: "2026-07-18T15:33:37.364837Z"
-lastmod: "2026-07-18T17:15:09.732501Z"
+slug: transformer
+date: '2026-07-18T15:33:37.364837Z'
+lastmod: '2026-07-18T17:15:09.732501Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy mélytanulási architektúra, amely az önmagára figyelő mechanizmusokon alapul, és párhuzamosan, nem pedig sorosan dolgozza fel a szekvenciális adatokat."
+source: agnes_llm
+status: published
+language: hu
+description: Egy mélytanulási architektúra, amely az önmagára figyelő mechanizmusokon
+  alapul, és párhuzamosan, nem pedig sorosan dolgozza fel a szekvenciális adatokat.
 ---
-
 ## Definition
 
 Az 'Attention Is All You Need' című cikkben bemutatott transzformer architektúra forradalmasította a természetes nyelvfeldolgozást és azon túlmutató területeket. Többfejű önmagára figyelést használ a jelentőség súlyozására.

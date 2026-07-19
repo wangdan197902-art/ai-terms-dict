@@ -1,23 +1,24 @@
 ---
-title: "Deepfake"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: Deepfake
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /es/terms/deepfake/
-date: "2026-07-18T10:30:00.951168Z"
-lastmod: "2026-07-18T11:44:44.761489Z"
+slug: deepfake
+date: '2026-07-18T10:30:00.951168Z'
+lastmod: '2026-07-18T11:44:44.761489Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Medios sintéticos donde la apariencia de una persona se reemplaza con la de otra utilizando inteligencia artificial y técnicas de aprendizaje profundo."
+source: agnes_llm
+status: published
+language: es
+description: Medios sintéticos donde la apariencia de una persona se reemplaza con
+  la de otra utilizando inteligencia artificial y técnicas de aprendizaje profundo.
 ---
-
 ## Definition
 
 Los Deepfakes son manipulaciones de audio o video hiperrealistas creadas mediante redes generativas adversarias (GAN) o autoencoders. Plantean importantes preocupaciones éticas respecto a la desinformación, priva

@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /cs/terms/decision/
 date: "2026-07-18T15:24:10.767024Z"
 lastmod: "2026-07-18T17:15:09.065985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Volba provedená agentem nebo algoritmem po vyhodnocení dostupných možností proti specifickým kritériím nebo cílům."
 ---
-
 ## Definition
 
 Rozhodování v AI zahrnuje výběr optimální akce z množiny možností na základě dat, modelů a předdefinovaných cílů. Může být deterministické, následující přísná pravidla, nebo probabilistické, zohledňující nejistotu.

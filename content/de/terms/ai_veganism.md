@@ -1,23 +1,24 @@
 ---
-title: "KI-Veganismus"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: KI-Veganismus
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /de/terms/ai_veganism/
-date: "2026-07-18T11:01:29.917398Z"
-lastmod: "2026-07-18T11:44:44.904537Z"
+slug: ai_veganism
+date: '2026-07-18T11:01:29.917398Z'
+lastmod: '2026-07-18T11:44:44.904537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein metaphorisches Konzept, das besagt, dass KI-Systeme ohne Rückgriff auf menschlich generierte Daten oder Arbeit operieren sollten."
+source: agnes_llm
+status: published
+language: de
+description: Ein metaphorisches Konzept, das besagt, dass KI-Systeme ohne Rückgriff
+  auf menschlich generierte Daten oder Arbeit operieren sollten.
 ---
-
 ## Definition
 
 KI-Veganismus ist ein spekulativer und metaphorischer Begriff für die Idee, künstliche Intelligenz zu schaffen, die ausschließlich aus synthetischen, selbstgenerierten oder physischen Weltdaten lernt, anstatt sich auf menschliche Daten zu stützen.

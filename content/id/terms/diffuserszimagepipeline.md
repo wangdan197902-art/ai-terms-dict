@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /id/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:48:27.542955Z"
-lastmod: "2026-07-18T16:38:07.451676Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:48:27.542955Z'
+lastmod: '2026-07-18T16:38:07.451676Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pipeline Hugging Face Diffusers yang terspesialisasi, biasanya dikaitkan dengan implementasi arsitektur zero-shot atau khusus untuk generasi gambar, sering kali terkait dengan model komunitas Z-Axis."
+source: agnes_llm
+status: published
+language: id
+description: Pipeline Hugging Face Diffusers yang terspesialisasi, biasanya dikaitkan
+  dengan implementasi arsitektur zero-shot atau khusus untuk generasi gambar, sering
+  kali terkait dengan model komunitas Z-Axis.
 ---
-
 ## Definition
 
 Dalam ekosistem Hugging Face Diffusers, istilah ini umumnya merujuk pada konfigurasi pipeline atau pembungkus yang dirancang untuk tugas generasi gambar tertentu, berpotensi memanfaatkan pembelajaran zero-shot untuk menghasilkan gambar tanpa pelatihan tambahan yang ekstensif pada domain target.

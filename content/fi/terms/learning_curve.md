@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /fi/terms/learning_curve/
 date: "2026-07-18T16:06:26.970055Z"
 lastmod: "2026-07-18T17:15:09.427847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Oppimiskäyrä piirtää mallin suorituskykymittarin suhteessa koulutusdatan määrään tai koulutusjaksoihin visualisoidakseen oppimisprosessin edistymistä."
 ---
-
 ## Definition
 
 Tyypillisesti oppimiskäyrä näyttää koulutus- ja validointitulokset y-akselilla ja koulutusnäytteiden tai iteraatioiden määrän x-akselilla. Se auttaa diagnosoimaan, kärsikö malli alialittumisesta vai ylioppimisesta.

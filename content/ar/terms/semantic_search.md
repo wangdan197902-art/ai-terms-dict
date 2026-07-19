@@ -1,23 +1,23 @@
 ---
-title: "البحث الدلالي"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: البحث الدلالي
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /ar/terms/semantic_search/
-date: "2026-07-18T15:38:35.992682Z"
-lastmod: "2026-07-18T17:15:08.466562Z"
+slug: semantic_search
+date: '2026-07-18T15:38:35.992682Z'
+lastmod: '2026-07-18T17:15:08.466562Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية بحث تفهم معنى مصطلحات الاستعلام بدلاً من مجرد مطابقة الكلمات الرئيسية."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية بحث تفهم معنى مصطلحات الاستعلام بدلاً من مجرد مطابقة الكلمات الرئيسية.
 ---
-
 ## Definition
 
 يفسر البحث الدلالي النية والمعنى السياقي وراء الاستعلام، متجاوزاً المطابقة البسيطة للكلمات الرئيسية. يستخدم التضمينات لتمثيل النص كمتجهات في فضاء عالي الأبعاد، مما يتيح فهم السياق.

@@ -1,23 +1,24 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /it/terms/pyannote/
-date: "2026-07-18T16:17:40.582696Z"
-lastmod: "2026-07-18T17:15:08.661285Z"
+slug: pyannote
+date: '2026-07-18T16:17:40.582696Z'
+lastmod: '2026-07-18T17:15:08.661285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Pyannote è una libreria Python che offre soluzioni all'avanguardia per attività di diarizzazione del parlante e segmentazione audio."
+source: agnes_llm
+status: published
+language: it
+description: Pyannote è una libreria Python che offre soluzioni all'avanguardia per
+  attività di diarizzazione del parlante e segmentazione audio.
 ---
-
 ## Definition
 
 Pyannote è una libreria Python open-source sviluppata da pyannote.audio, specializzata nella diarizzazione del parlante, ovvero il processo di determinazione di 'chi ha parlato quando' in uno stream audio. Sfrutta reti neurali profonde (deep learning) per analizzare e segmentare l'audio.

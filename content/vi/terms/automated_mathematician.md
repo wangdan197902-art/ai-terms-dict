@@ -1,23 +1,24 @@
 ---
-title: "Nhà toán học tự động"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Nhà toán học tự động
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /vi/terms/automated_mathematician/
-date: "2026-07-18T15:41:36.671243Z"
-lastmod: "2026-07-18T16:38:07.730695Z"
+slug: automated_mathematician
+date: '2026-07-18T15:41:36.671243Z'
+lastmod: '2026-07-18T16:38:07.730695Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một hệ thống AI được thiết kế để khám phá các định lý, giả thuyết hoặc chứng minh toán học mới thông qua tìm kiếm và suy luận tính toán."
+source: agnes_llm
+status: published
+language: vi
+description: Một hệ thống AI được thiết kế để khám phá các định lý, giả thuyết hoặc
+  chứng minh toán học mới thông qua tìm kiếm và suy luận tính toán.
 ---
-
 ## Definition
 
 Nhà toán học tự động sử dụng học máy và suy luận ký hiệu để khám phá các không gian toán học vượt ngoài trực giác của con người. Các hệ thống này có thể tạo ra các giả thuyết, xác minh các chứng minh và tìm ra các mẫu hình.

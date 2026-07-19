@@ -1,23 +1,26 @@
 ---
-title: "Veri Seti: Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: 'Veri Seti: Ms Marco'
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /tr/terms/datasetms_marco/
-date: "2026-07-18T15:48:11.178947Z"
-lastmod: "2026-07-18T16:38:07.293506Z"
+slug: datasetms_marco
+date: '2026-07-18T15:48:11.178947Z'
+lastmod: '2026-07-18T16:38:07.293506Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Microsoft Makine Okuma Anlama Veri Seti, bilgi alma sistemlerini eğitmek için kullanılan gerçek arama sorguları ve ilgili belge parçalarından oluşan büyük ölçekli bir koleksiyondur."
+source: agnes_llm
+status: published
+language: tr
+description: Microsoft Makine Okuma Anlama Veri Seti, bilgi alma sistemlerini eğitmek
+  için kullanılan gerçek arama sorguları ve ilgili belge parçalarından oluşan büyük
+  ölçekli bir koleksiyondur.
 ---
-
 ## Definition
 
 MS MARCO (Microsoft Makine Okuma Anlama), doğal dil işlemede, özellikle bilgi alma ve soru-cevap alanlarında yaygın olarak kullanılan bir veri setidir. Anonimleştirilmiş arama sorgularından oluşur.

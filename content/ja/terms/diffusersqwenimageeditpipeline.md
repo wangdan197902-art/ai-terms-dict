@@ -1,23 +1,24 @@
 ---
-title: "Diffusers: Qwen画像編集パイプライン"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwen画像編集パイプライン'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /ja/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T11:12:25.745667Z"
-lastmod: "2026-07-18T11:44:45.091248Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T11:12:25.745667Z'
+lastmod: '2026-07-18T11:44:45.091248Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Hugging Face Diffusersライブラリ内のパイプラインで、指示ベースの画像編集タスクにQwen-VLモデルを活用します。"
+source: agnes_llm
+status: published
+language: ja
+description: Hugging Face Diffusersライブラリ内のパイプラインで、指示ベースの画像編集タスクにQwen-VLモデルを活用します。
 ---
-
 ## Definition
 
 このパイプラインは、Qwen-Vision-Languageモデルの機能をDiffusersフレームワークに統合し、自然言語の指示に基づいて正確な画像修正を行います。生成用パイプラインとは異なり、既存の画像に対してテキストプロンプトで指定された変更を適用することに特化しています。

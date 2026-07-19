@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /id/terms/datasetnatural_questions/
 date: "2026-07-18T15:46:18.947334Z"
 lastmod: "2026-07-18T16:38:07.446272Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dataset skala besar untuk tanya-jawab domain terbuka, menampilkan kueri pengguna nyata dari Google Search yang dipasangkan dengan cuplikan Wikipedia yang dianotasi sebagai jawaban."
 ---
-
 ## Definition
 
 Natural Questions (NQ) adalah dataset benchmark yang diperkenalkan oleh Google untuk memajukan penelitian dalam tanya-jawab domain terbuka. Dataset ini memetakan kueri pencarian nyata dan anonim dari Google ke jawaban bentuk panjang yang ditemukan...

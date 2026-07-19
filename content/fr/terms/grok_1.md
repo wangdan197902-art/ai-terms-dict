@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /fr/terms/grok_1/
 date: "2026-07-18T11:19:47.575517Z"
 lastmod: "2026-07-18T11:44:45.266767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La première version du modèle de langage Grok publiée par xAI, présentant une architecture Mixture-of-Experts et un nombre de paramètres de 33 milliards."
 ---
-
 ## Definition
 
 Grok-1 est la première publication de xAI, lancée en novembre 2023. Il s'agit d'un grand modèle de langage basé sur un transformateur à décodeur uniquement, comptant environ 33 milliards de paramètres. Il se distingue notablement par l'utilisation d'une architecture Mixture-of-Experts (MoE), permettant une efficacité computationnelle accrue tout en maintenant une grande capacité de modélisation.

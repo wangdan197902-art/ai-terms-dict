@@ -1,23 +1,24 @@
 ---
-title: "אינטליגנציה חישובית"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: אינטליגנציה חישובית
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /he/terms/computational_intelligence/
-date: "2026-07-18T15:48:40.332688Z"
-lastmod: "2026-07-18T17:15:09.521823Z"
+slug: computational_intelligence
+date: '2026-07-18T15:48:40.332688Z'
+lastmod: '2026-07-18T17:15:09.521823Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ענף של AI העוסק במערכות אדפטיביות המחקות תהליכים ביולוגיים לפתרון בעיות מורכבות."
+source: agnes_llm
+status: published
+language: he
+description: ענף של AI העוסק במערכות אדפטיביות המחקות תהליכים ביולוגיים לפתרון בעיות
+  מורכבות.
 ---
-
 ## Definition
 
 אינטליגנציה חישובית (CI) כוללת קבוצה של פרדיגמות חישוביות בהשראת הטבע, הכוללות רשתות עצביות, לוגיקה מטושטשת (Fuzzy Logic) וחישוב אבולוציוני. מערכות אלו נועדו להתמודד עם אי-ודאות וחוסר דיוק בנתונים.

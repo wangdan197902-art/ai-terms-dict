@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /zh/terms/visual/
 date: "2026-07-18T10:55:52.609826Z"
 lastmod: "2026-07-18T11:44:45.389041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "与视力或图像相关，通常指处理和解释图像和视频等视觉数据的计算机视觉任务。"
 ---
-
 ## Definition
 
 AI 中的“视觉”一词主要涉及计算机视觉领域，该领域致力于使机器能够从数字图像、视频和其他视觉输入中提取有意义的信息。它涉及图像处理、对象检测等技术。

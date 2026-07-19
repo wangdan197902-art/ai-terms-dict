@@ -1,23 +1,24 @@
 ---
-title: "Διάρκεια Συσχέτισης"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Διάρκεια Συσχέτισης
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /el/terms/life_time_of_correlation/
-date: "2026-07-18T16:18:19.714424Z"
-lastmod: "2026-07-18T17:15:09.926192Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:18:19.714424Z'
+lastmod: '2026-07-18T17:15:09.926192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας δείκτης που εκτιμά για πόσο χρόνο μια στατιστική σχέση μεταξύ μεταβλητών παραμένει σταθερή πριν εξασθενήσει λόγω ολίσθησης εννοιών ή περιβαλλοντικών αλλαγών."
+source: agnes_llm
+status: published
+language: el
+description: Ένας δείκτης που εκτιμά για πόσο χρόνο μια στατιστική σχέση μεταξύ μεταβλητών
+  παραμένει σταθερή πριν εξασθενήσει λόγω ολίσθησης εννοιών ή περιβαλλοντικών αλλαγών.
 ---
-
 ## Definition
 
 Σε δυναμικά συστήματα και ανάλυση χρονοσειρών, η διάρκεια της συσχέτισης μετρά τη διάρκεια κατά την οποία δύο μεταβλητές διατηρούν σημαντική στατιστική εξάρτηση. Η έννοια αυτή είναι κρίσιμη για την κατανόηση

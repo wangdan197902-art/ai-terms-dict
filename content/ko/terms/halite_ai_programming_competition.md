@@ -1,23 +1,23 @@
 ---
-title: "Halite AI 프로그래밍 대회"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Halite AI 프로그래밍 대회
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /ko/terms/halite_ai_programming_competition/
-date: "2026-07-18T15:58:18.703428Z"
-lastmod: "2026-07-18T16:38:06.848842Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T15:58:18.703428Z'
+lastmod: '2026-07-18T16:38:06.848842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "참가자들이 자원 관리와 전투가 포함된 전략 게임을 플레이하는 AI 에이전트를 작성하는 경쟁 프로그래밍 대회입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 참가자들이 자원 관리와 전투가 포함된 전략 게임을 플레이하는 AI 에이전트를 작성하는 경쟁 프로그래밍 대회입니다.
 ---
-
 ## Definition
 
 할라이트는 투 시그마(Two Sigma)가 주최한 연례 AI 프로그래밍 대회로, 개발자들은 그리드 위에서 턴제 전략 게임을 플레이하는 자율 에이전트를 생성했습니다. 목표는 자원을 수집하고...

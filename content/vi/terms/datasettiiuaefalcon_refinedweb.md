@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /vi/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T15:48:16.446653Z"
 lastmod: "2026-07-18T16:38:07.746134Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu web khổng lồ, chất lượng cao do Viện Công nghệ Sáng tạo tuyển chọn để tiền huấn luyện các mô hình ngôn ngữ lớn như Falcon."
 ---
-
 ## Definition
 
 RefinedWeb là một bộ dữ liệu quy mô lớn gồm các trang web đã được lọc, được thiết kế cho việc tiền huấn luyện các mô hình nền. Nó xử lý hàng tỷ trang web để loại bỏ nội dung chất lượng thấp, trùng lặp và các tài liệu độc hại...

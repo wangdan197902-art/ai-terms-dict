@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /pl/terms/token_limit/
 date: "2026-07-18T15:37:25.478400Z"
 lastmod: "2026-07-18T17:15:08.837762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Maksymalna liczba tokenów, które model sztucznej inteligencji może przetworzyć w pojedynczej sekwencji wejściowej lub wyjściowej."
 ---
-
 ## Definition
 
 Limit tokenów definiuje ograniczenie rozmiaru okna kontekstowego dla dużych modeli językowych, ograniczając ilość tekstu, która może być analizowana lub generowana jednocześnie. Ta granica architektoniczna wpływa na zarządzanie pamięcią,

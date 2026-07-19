@@ -1,23 +1,25 @@
 ---
-title: "Cross-Entropie-Methode"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Cross-Entropie-Methode
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /de/terms/cross_entropy_method/
-date: "2026-07-18T11:09:16.110553Z"
-lastmod: "2026-07-18T11:44:44.922247Z"
+slug: cross_entropy_method
+date: '2026-07-18T11:09:16.110553Z'
+lastmod: '2026-07-18T11:44:44.922247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine randomisierte Optimierungstechnik, die Monte-Carlo-Simulationen verwendet, um Schätzungen für die Wahrscheinlichkeiten seltener Ereignisse iterativ zu verbessern."
+source: agnes_llm
+status: published
+language: de
+description: Eine randomisierte Optimierungstechnik, die Monte-Carlo-Simulationen
+  verwendet, um Schätzungen für die Wahrscheinlichkeiten seltener Ereignisse iterativ
+  zu verbessern.
 ---
-
 ## Definition
 
 Die Cross-Entropie-Methode (CEM) ist ein leistungsfähiger universeller Optimierungsalgorithmus, der sowohl für diskrete als auch für kontinuierliche Probleme eingesetzt wird. Sie funktioniert, indem sie eine Wahrscheinlichkeitsverteilung über den Suchraum beibehält und diese schrittweise anpasst, um vielversprechende Lösungen zu identifizieren.

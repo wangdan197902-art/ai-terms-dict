@@ -1,23 +1,24 @@
 ---
-title: "Qwen3.5"
-term_id: "qwen35"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model", "qwen", "nlp"]
+title: Qwen3.5
+term_id: qwen35
+category: basic_concepts
+subcategory: ''
+tags:
+- model
+- qwen
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen35"
-aliases:
-  - /vi/terms/qwen35/
-date: "2026-07-18T16:09:51.680305Z"
-lastmod: "2026-07-18T16:38:07.798884Z"
+slug: qwen35
+date: '2026-07-18T16:09:51.680305Z'
+lastmod: '2026-07-18T16:38:07.798884Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Phiên bản lặp lại của dòng mô hình ngôn ngữ lớn Qwen, tập trung vào việc nâng cao khả năng suy luận và hỗ trợ đa ngôn ngữ."
+source: agnes_llm
+status: published
+language: vi
+description: Phiên bản lặp lại của dòng mô hình ngôn ngữ lớn Qwen, tập trung vào việc
+  nâng cao khả năng suy luận và hỗ trợ đa ngôn ngữ.
 ---
-
 ## Definition
 
 Qwen3.5 chỉ một bản phát hành cụ thể trong dòng Qwen do Alibaba Cloud phát triển. Phiên bản này thường xây dựng dựa trên các phiên bản trước đó bằng cách cải thiện khả năng suy luận logic, kỹ năng lập trình và xử lý ngôn ngữ tự nhiên, mang lại hiệu suất tổng thể tốt hơn cho người dùng.

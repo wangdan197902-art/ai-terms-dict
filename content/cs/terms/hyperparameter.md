@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /cs/terms/hyperparameter/
 date: "2026-07-18T16:01:49.408437Z"
 lastmod: "2026-07-18T17:15:09.140044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Konfigurační proměnná, jejíž hodnota je nastavena před procesem tréninku a řídí chování učícího algoritmu."
 ---
-
 ## Definition
 
 Na rozdíl od parametrů modelu (váhy a biasy), které se učí z dat během tréninku, jsou hyperparametry externí nastavení zvolená vývojářem před začátkem tréninku. Řídí strukturu modelu, rychlost učení a další aspekty procesu optimalizace, které ovlivňují konečnou kvalitu modelu.

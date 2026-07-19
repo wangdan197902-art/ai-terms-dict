@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /hu/terms/agentic/
 date: "2026-07-18T15:37:01.184069Z"
 lastmod: "2026-07-18T17:15:09.738545Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan MI-rendszerekre utal, amelyek képesek autonóm tervezésre, érvelésre és cselekvések végrehajtására a specifikus célok elérése érdekében."
 ---
-
 ## Definition
 
 Az 'agens' kifejezés olyan MI-ügynökökre vonatkozik, amelyek magas fokú autonómiával működnek. A passzív modellektől eltően, amelyek csak szöveget jósolnak vagy adatokat sorolnak be, az agens rendszerek képesek lebontani a komplex célokat...

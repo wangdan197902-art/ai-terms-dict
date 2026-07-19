@@ -1,23 +1,24 @@
 ---
-title: "Contexto Longo"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Contexto Longo
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /pt/terms/long_context/
-date: "2026-07-18T15:09:01.720766Z"
-lastmod: "2026-07-18T15:51:59.508970Z"
+slug: long_context
+date: '2026-07-18T15:09:01.720766Z'
+lastmod: '2026-07-18T15:51:59.508970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A capacidade de um modelo de linguagem de processar e reter informações de sequências de entrada contendo milhares ou milhões de tokens."
+source: agnes_llm
+status: published
+language: pt
+description: A capacidade de um modelo de linguagem de processar e reter informações
+  de sequências de entrada contendo milhares ou milhões de tokens.
 ---
-
 ## Definition
 
 Contexto longo refere-se à capacidade dos modelos baseados em transformadores de lidar com comprimentos de entrada extensos, frequentemente excedendo limites padrão como 2k ou 4k tokens. Essa capacidade permite que os modelos analisem inteiramente

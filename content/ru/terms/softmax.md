@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /ru/terms/softmax/
-date: "2026-07-18T15:36:46.873503Z"
-lastmod: "2026-07-18T16:38:07.110623Z"
+slug: softmax
+date: '2026-07-18T15:36:46.873503Z'
+lastmod: '2026-07-18T16:38:07.110623Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Математическая функция, преобразующая вектор произвольных вещественных значений в распределение вероятностей."
+source: agnes_llm
+status: published
+language: ru
+description: Математическая функция, преобразующая вектор произвольных вещественных
+  значений в распределение вероятностей.
 ---
-
 ## Definition
 
 Softmax широко используется в выходном слое нейронных сетей для задач многоклассовой классификации. Он принимает вектор необработанных логитов и нормализует их так, чтобы каждый элемент представлял собой вероятность принадлежности к соответствующему классу.

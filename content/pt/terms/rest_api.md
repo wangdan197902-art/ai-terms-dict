@@ -1,23 +1,24 @@
 ---
-title: "API REST"
-term_id: "rest_api"
-category: "engineering_practice"
-subcategory: ""
-tags: ["web-services", "architecture", "http"]
+title: API REST
+term_id: rest_api
+category: engineering_practice
+subcategory: ''
+tags:
+- Web Services
+- architecture
+- http
 difficulty: 2
 weight: 1
-slug: "rest_api"
-aliases:
-  - /pt/terms/rest_api/
-date: "2026-07-18T14:45:28.110427Z"
-lastmod: "2026-07-18T15:51:59.453845Z"
+slug: rest_api
+date: '2026-07-18T14:45:28.110427Z'
+lastmod: '2026-07-18T15:51:59.453845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma API baseada no estilo arquitetural Representational State Transfer, projetada para aplicativos em rede que utiliza métodos HTTP padrão."
+source: agnes_llm
+status: published
+language: pt
+description: Uma API baseada no estilo arquitetural Representational State Transfer,
+  projetada para aplicativos em rede que utiliza métodos HTTP padrão.
 ---
-
 ## Definition
 
 As APIs REST permitem a comunicação entre clientes e servidores por meio de operações sem estado sobre protocolos HTTP, como GET, POST, PUT e DELETE. Elas estruturam recursos como URIs e utilizam formatos padrão...

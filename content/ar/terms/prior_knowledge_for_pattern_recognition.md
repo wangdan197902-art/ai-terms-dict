@@ -1,23 +1,24 @@
 ---
-title: "المعرفة المسبقة للتعرف على الأنماط"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: المعرفة المسبقة للتعرف على الأنماط
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /ar/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:17:01.435675Z"
-lastmod: "2026-07-18T17:15:08.538531Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:17:01.435675Z'
+lastmod: '2026-07-18T17:15:08.538531Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "المعلومات أو الافتراضات الموجودة التي يتم دمجها في نماذج التعلم الآلي لتحسين دقة تحديد الأنماط."
+source: agnes_llm
+status: published
+language: ar
+description: المعلومات أو الافتراضات الموجودة التي يتم دمجها في نماذج التعلم الآلي
+  لتحسين دقة تحديد الأنماط.
 ---
-
 ## Definition
 
 تشير المعرفة المسبقة إلى الرؤى المحددة بالمجال، أو القيود، أو البيانات التاريخية التي تُدمج في الخوارزميات قبل بدء التدريب. يساعد ذلك في توجيه النموذج نحو الحلول المعقولة، مما يقلل من...

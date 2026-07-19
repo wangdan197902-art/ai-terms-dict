@@ -1,23 +1,24 @@
 ---
-title: "Когнитивная система предприятия"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: Когнитивная система предприятия
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /ru/terms/enterprise_cognitive_system/
-date: "2026-07-18T15:51:49.623322Z"
-lastmod: "2026-07-18T16:38:07.153859Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T15:51:49.623322Z'
+lastmod: '2026-07-18T16:38:07.153859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Интегрированная платформа ИИ, применяющая продвинутую аналитику и машинное обучение для автоматизации сложных бизнес-процессов и принятия решений."
+source: agnes_llm
+status: published
+language: ru
+description: Интегрированная платформа ИИ, применяющая продвинутую аналитику и машинное
+  обучение для автоматизации сложных бизнес-процессов и принятия решений.
 ---
-
 ## Definition
 
 Когнитивная система предприятия объединяет искусственный интеллект, обработку естественного языка и машинное обучение для имитации человеческих мыслительных процессов в корпоративной среде. Эти системы анализируют данные и контекст для поддержки принятия решений.

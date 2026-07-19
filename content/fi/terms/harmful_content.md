@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /fi/terms/harmful_content/
 date: "2026-07-18T16:01:09.936843Z"
 lastmod: "2026-07-18T17:15:09.418167Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tietoa, joka aiheuttaa riskejä yksilöille tai yhteiskunnalle, mukaan lukien vihapuhe, väkivalta ja laittomat teot."
 ---
-
 ## Definition
 
 Haitallisella sisällöllä tarkoitetaan digitaalista mediaa tai tekstiä, joka voi aiheuttaa fyysistä, psyykkistä tai sosiaalista vahinkoa. Tekoälyn turvallisuudessa tällaisen sisällön havaitseminen ja suodattaminen on kriittistä, jotta mallit eivät tuottaisi haitallista sisältöä.

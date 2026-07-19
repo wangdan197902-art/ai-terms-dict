@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /pl/terms/ai_ethics/
 date: "2026-07-18T15:33:28.500550Z"
 lastmod: "2026-07-18T17:15:08.829179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Badanie zagadnień moralnych i implikacji wynikających z rozwoju oraz wdrażania systemów sztucznej inteligencji."
 ---
-
 ## Definition
 
 Etyka sztucznej inteligencji obejmuje ramy zasad i standardów zaprojektowane tak, aby zapewnić odpowiedzialny rozwój i wykorzystanie technologii SI. Rozwiązuje ona kluczowe problemy, takie jak...

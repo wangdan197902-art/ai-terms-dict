@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /ko/terms/policies/
 date: "2026-07-18T15:27:42.421757Z"
 lastmod: "2026-07-18T16:38:06.780831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "정책(Policies)은 조직이 행동, 의사 결정 및 운영 기준을 규제하기 위해 수립한 지침, 규칙 또는 프로토콜의 집합입니다."
 ---
-
 ## Definition
 
 인공지능 및 기술 거버넌스 맥락에서 정책(Policies)은 AI 시스템이 어떻게 개발되고, 배포되며, 모니터링되어야 하는지를 규정하는 공식화된 프레임워크를 의미합니다. 이러한 문서들은 윤리적 기준과 법적 준수를 보장합니다.

@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /vi/terms/hf_asr_leaderboard/
 date: "2026-07-18T15:56:30.364254Z"
 lastmod: "2026-07-18T16:38:07.764984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Hệ thống xếp hạng trên Hugging Face đánh giá và so sánh hiệu suất của các mô hình Nhận dạng Giọng nói Tự động (ASR)."
 ---
-
 ## Definition
 
 Bảng xếp hạng HF ASR là một nền tảng chỉ số do cộng đồng điều hành, được lưu trữ bởi Hugging Face, theo dõi hiệu suất tiên tiến nhất trong Nhận dạng Giọng nói Tự động. Nó cho phép nhà nghiên cứu và nhà phát triển benc

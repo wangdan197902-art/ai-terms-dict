@@ -1,23 +1,25 @@
 ---
-title: "Robot Learning"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Robot Learning
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /de/terms/robot_learning/
-date: "2026-07-18T11:32:24.142632Z"
-lastmod: "2026-07-18T11:44:44.982325Z"
+slug: robot_learning
+date: '2026-07-18T11:32:24.142632Z'
+lastmod: '2026-07-18T11:44:44.982325Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Teilgebiet der Robotik, das sich darauf konzentriert, Robotern die Fähigkeit zu verleihen, Fähigkeiten durch Erfahrung und Interaktion mit ihrer Umgebung zu erlernen und ihre Leistung zu verbesser"
+source: agnes_llm
+status: published
+language: de
+description: Ein Teilgebiet der Robotik, das sich darauf konzentriert, Robotern die
+  Fähigkeit zu verleihen, Fähigkeiten durch Erfahrung und Interaktion mit ihrer Umgebung
+  zu erlernen und ihre Leistung zu verbesser
 ---
-
 ## Definition
 
 Robot Learning umfasst das Training robotischer Agenten, um Aufgaben autonom auszuführen, indem Techniken des maschinellen Lernens genutzt werden. Im Gegensatz zu vorprogrammierten Verhaltensweisen passen sich diese Systeme an dynamische Umgebungen an.

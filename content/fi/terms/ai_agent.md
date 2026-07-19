@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /fi/terms/ai_agent/
 date: "2026-07-18T15:39:49.456581Z"
 lastmod: "2026-07-18T17:15:09.377563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Itsenäinen järjestelmä, joka on suunniteltu havainnoimaan ympäristöään ja tekemään toimia saavuttaakseen tiettyjä tavoitteita."
 ---
-
 ## Definition
 
 Tekoälyagentti on ohjelmistokomponentti, joka toimii itsenäisesti määritellyssä ympäristössä saavuttaakseen ennalta määritetyt tavoitteet. Se käyttää havaintomekanismeja kerätäkseen dataa, prosessoi tätä tietoa ja soveltaa sitä toimintaan.

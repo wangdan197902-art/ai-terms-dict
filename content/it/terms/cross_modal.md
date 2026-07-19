@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /it/terms/cross_modal/
 date: "2026-07-18T15:31:08.406598Z"
 lastmod: "2026-07-18T17:15:08.578633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Tecniche che integrano ed elaborano informazioni provenienti da diversi tipi di dati sensoriali, come testo e immagini."
 ---
-
 ## Definition
 
 L'AI cross-modale coinvolge l'elaborazione e la correlazione di dati da modalità distinte, come la combinazione di input visivi, uditivi e testuali. Questi sistemi apprendono rappresentazioni condivise per comprendere le relazioni...

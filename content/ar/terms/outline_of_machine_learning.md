@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /ar/terms/outline_of_machine_learning/
 date: "2026-07-18T16:15:20.869546Z"
 lastmod: "2026-07-18T17:15:08.534681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تصنيف شامل لنماذج التعلم الآلي، والخوارزميات، ومقاييس التقييم."
 ---
-
 ## Definition
 
 يصف هذا المصطلح التصنيف الهيكلي للتعلم الآلي إلى التعلم الخاضع للإشراف، وغير الخاضع للإشراف، وشبه الخاضع للإشراف، والتعلم التعزيزي. ويتضمن الأسر الخوارزمية الأساسية مثل الانحدار الخطي وأشجار القرار، مقدماً خريطة طريق لفهم مختلف تقنيات التعلم.

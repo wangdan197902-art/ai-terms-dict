@@ -1,23 +1,24 @@
 ---
-title: "Инструктивное дообучение"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Инструктивное дообучение
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /ru/terms/instruction_tuning/
-date: "2026-07-18T15:26:16.107055Z"
-lastmod: "2026-07-18T16:38:07.079713Z"
+slug: instruction_tuning
+date: '2026-07-18T15:26:16.107055Z'
+lastmod: '2026-07-18T16:38:07.079713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Инструктивное дообучение — это техника тонкой настройки, при которой предварительно обученная языковая модель тренируется на наборе данных, содержащем инструкции и соответствующие им ответы, для улучш"
+source: agnes_llm
+status: published
+language: ru
+description: Инструктивное дообучение — это техника тонкой настройки, при которой
+  предварительно обученная языковая модель тренируется на наборе данных, содержащем
+  инструкции и соответствующие им ответы, для улучш
 ---
-
 ## Definition
 
 Этот процесс заполняет разрыв между общим предварительным обучением и выполнением конкретных задач. Предоставляя модели разнообразные пары «инструкция-ответ», она учится обобщать знания для новых, ранее не встречавшихся задач без необходимости...

@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /pl/terms/compliance/
 date: "2026-07-18T15:46:26.117208Z"
 lastmod: "2026-07-18T17:15:08.855588Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przestrzeganie przez systemy AI przepisów prawnych, standardów etycznych oraz wytycznych branżowych."
 ---
-
 ## Definition
 
 W sztucznej inteligencji zgodność odnosi się do procesu zapewniania, że modele AI oraz ich wdrożenia są zgodne z obowiązującymi przepisami prawa, takimi jak RODO czy HIPAA, a także z wewnętrznymi ramami etycznymi.

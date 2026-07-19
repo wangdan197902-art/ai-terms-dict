@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /de/terms/coding/
 date: "2026-07-18T11:07:41.560025Z"
 lastmod: "2026-07-18T11:44:44.918170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Programmierung ist der Prozess des Schreibens von Anweisungen für Computer unter Verwendung von Programmiersprachen, um Software, Anwendungen oder Skripte zu erstellen."
 ---
-
 ## Definition
 
 Programmierung, auch als Codierung bekannt, beinhaltet die Übersetzung menschlicher Logik und Anforderungen in ein Format, das Computer ausführen können. Sie verwendet spezifische Syntax und Semantik, die durch Programmiersprachen definiert sind.

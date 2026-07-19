@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /fr/terms/reranking/
 date: "2026-07-18T11:36:23.002319Z"
 lastmod: "2026-07-18T11:44:45.323124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un processus de récupération en deux étapes où un classement grossier initial est affiné par un modèle plus coûteux en calcul pour améliorer la pertinence des résultats."
 ---
-
 ## Definition
 
 Le relancement du classement est une stratégie utilisée dans la récupération d'information et les systèmes de recommandation pour améliorer la précision. Tout d'abord, un modèle rapide mais moins précis récupère un grand ensemble de candidats. Ensuite, un modèle plus lent et plus sophistiqué réévalue ces candidats pour produire un classement final plus précis.

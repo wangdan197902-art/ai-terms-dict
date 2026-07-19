@@ -1,23 +1,25 @@
 ---
-title: "Heves öğrenme"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Heves öğrenme
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /tr/terms/eager_learning/
-date: "2026-07-18T15:50:59.945997Z"
-lastmod: "2026-07-18T16:38:07.302665Z"
+slug: eager_learning
+date: '2026-07-18T15:50:59.945997Z'
+lastmod: '2026-07-18T16:38:07.302665Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Heves öğrenme, genelleştirme işlevinin eğitim aşamasında öğrenildiği ve eğitim tamamlandıktan sonra hızlı tahmin süreleri sağlayan bir makine öğrenmesi yaklaşımıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Heves öğrenme, genelleştirme işlevinin eğitim aşamasında öğrenildiği
+  ve eğitim tamamlandıktan sonra hızlı tahmin süreleri sağlayan bir makine öğrenmesi
+  yaklaşımıdır.
 ---
-
 ## Definition
 
 Heves öğrenmede sistem, yeni örneklerle karşılaşmadan önce eğitim verilerine dayanarak genel bir hedef fonksiyon veya model oluşturur. Bu durum, genelleştirmeyi erteleyen tembel öğrenme (lazy learning) yaklaşımının tam tersidir.

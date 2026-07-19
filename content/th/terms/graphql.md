@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /th/terms/graphql/
 date: "2026-07-18T15:57:34.414446Z"
 lastmod: "2026-07-18T16:38:07.612233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "GraphQL คือภาษาสำหรับเขียน Query ของ API และ Runtime สำหรับดำเนินการตาม Query นั้นกับข้อมูลที่มีอยู่ ช่วยให้ไคลเอนต์สามารถขอข้อมูลเฉพาะที่ต้องการได้อย่างแม่นยำ"
 ---
-
 ## Definition
 
 พัฒนาโดย Facebook GraphQL ให้คำอธิบายข้อมูลที่สมบูรณ์และเข้าใจง่ายของ API ช่วยให้ผู้ใช้งานสามารถขอข้อมูลที่ต้องการเท่านั้น ไม่มีมากหรือน้อยเกินไป ซึ่งช่วยแก้ปัญหา Over-fetching และ Under-fetching ที่พบใน REST API แบบดั้งเดิม

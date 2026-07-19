@@ -1,23 +1,23 @@
 ---
-title: "데이터셋: Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: '데이터셋: Code Search Net'
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /ko/terms/datasetcode_search_net/
-date: "2026-07-18T15:47:46.193547Z"
-lastmod: "2026-07-18T16:38:06.825634Z"
+slug: datasetcode_search_net
+date: '2026-07-18T15:47:46.193547Z'
+lastmod: '2026-07-18T16:38:06.825634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "자연어 쿼리와 관련 코드 스니펫을 페어링하여 코드 검색 시스템을 평가하도록 설계된 벤치마크 데이터셋입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 자연어 쿼리와 관련 코드 스니펫을 페어링하여 코드 검색 시스템을 평가하도록 설계된 벤치마크 데이터셋입니다.
 ---
-
 ## Definition
 
 Code Search Net은 코드 검색 연구 발전을 위해 구축된 포괄적인 데이터셋입니다. 이 데이터셋에는 자연어 설명과 해당 자바(Java) 코드 스니펫의 쌍이 수백만 개 포함되어 있습니다.

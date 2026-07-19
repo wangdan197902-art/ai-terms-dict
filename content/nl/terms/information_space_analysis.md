@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /nl/terms/information_space_analysis/
 date: "2026-07-18T16:00:34.198365Z"
 lastmod: "2026-07-18T17:15:08.756057Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het onderzoek naar de geometrische en topologische eigenschappen van de ruimte waarin datavoorstellingen zijn gevestigd."
 ---
-
 ## Definition
 
 Dit concept houdt in dat de structuur van de representatieruimte in machine learning-modellen wordt geanalyseerd. Het kijkt naar hoe datapunten zijn verdeeld, gegroepeerd of gescheiden binnen een hoge-dimensionale ruimte.

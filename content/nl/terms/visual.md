@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /nl/terms/visual/
 date: "2026-07-18T15:31:07.724770Z"
 lastmod: "2026-07-18T17:15:08.696732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Betrekking hebbend op het zicht of beelden, vaak verwijzend naar computer vision-taken die visuele gegevens zoals afbeeldingen en video's verwerken en interpreteren."
 ---
-
 ## Definition
 
 De term 'visueel' in AI heeft voornamelijk betrekking op Computer Vision, het vakgebied dat zich richt op het mogelijk maken van machines om zinvolle informatie af te leiden uit digitale afbeeldingen, video's en andere visuele invoer.

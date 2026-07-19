@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /vi/terms/server_sent_events/
 date: "2026-07-18T16:11:46.160246Z"
 lastmod: "2026-07-18T16:38:07.804211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một giao thức chuẩn cho phép máy chủ web đẩy các cập nhật theo thời gian thực đến khách hàng qua một kết nối HTTP duy nhất."
 ---
-
 ## Definition
 
 Sự kiện gửi từ máy chủ (SSE) cho phép truyền thông một chiều từ máy chủ đến khách hàng, nơi máy chủ có thể phát dữ liệu liên tục mà không cần khách hàng phải truy vấn lặp đi lặp lại. Nó sử dụng HTTP thuần túy, giúp dễ triển khai hơn so với các giải pháp phức tạp khác.

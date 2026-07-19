@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /id/terms/direct/
 date: "2026-07-18T15:24:08.262270Z"
 lastmod: "2026-07-18T16:38:07.390998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada metode atau jalur yang memetakan masukan langsung ke keluaran tanpa transformasi kompleks antar muka atau representasi laten."
 ---
-
 ## Definition
 
 Dalam konteks AI, 'langsung' sering menggambarkan arsitektur atau jalur inferensi yang melewati lapisan abstraksi antara, seperti optimisasi kebijakan langsung dalam pembelajaran penguatan atau pemetaan langsung dalam tugas regresi sederhana. Pendekatan ini bertujuan untuk mengurangi latensi dan kompleksitas komputasi dengan meminimalkan tahap pemrosesan perantara.

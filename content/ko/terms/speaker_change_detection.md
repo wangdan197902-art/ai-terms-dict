@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /ko/terms/speaker_change_detection/
 date: "2026-07-18T16:16:47.301465Z"
 lastmod: "2026-07-18T16:38:06.910219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "오디오 스트림에서 활성 화자가 변경되는 지점을 식별하는 과정입니다."
 ---
-
 ## Definition
 
 화자 변경 감지(Speaker Change Detection, SCD)는 한 화자가 말하기를 멈추고 다른 화자가 시작하는 정확한 타임스탬프를 찾아내는 기법입니다. 이는 화자 분리(Diarization)의 전처리 단계로 작용하여 오디오 세그먼트를 분할하는 데 도움을 줍니다.

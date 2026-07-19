@@ -1,23 +1,24 @@
 ---
-title: "Výpočetní heuristická inteligence"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Výpočetní heuristická inteligence
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /cs/terms/computational_heuristic_intelligence/
-date: "2026-07-18T15:48:52.313078Z"
-lastmod: "2026-07-18T17:15:09.111676Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T15:48:52.313078Z'
+lastmod: '2026-07-18T17:15:09.111676Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Přístupy AI využívající praktické, zkušenostmi podložené techniky k efektivnímu řešení problémů, když jsou přesné metody příliš pomalé."
+source: agnes_llm
+status: published
+language: cs
+description: Přístupy AI využívající praktické, zkušenostmi podložené techniky k efektivnímu
+  řešení problémů, když jsou přesné metody příliš pomalé.
 ---
-
 ## Definition
 
 Výpočetní heuristická inteligence zahrnuje algoritmy, které používají osvědčené postupy, aproximace nebo odhadovaná řešení k nalezení uspokojivých výsledků v přiměřeném časovém horizontu. Na rozdíl od vyčerpávajících...

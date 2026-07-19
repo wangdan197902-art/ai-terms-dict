@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /id/terms/automated_machine_learning/
 date: "2026-07-18T15:39:57.712207Z"
 lastmod: "2026-07-18T16:38:07.430804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah metodologi yang mengotomatisasi proses end-to-end penerapan pembelajaran mesin pada masalah dunia nyata, mengurangi upaya manual."
 ---
-
 ## Definition
 
 AutoML (Automated Machine Learning) menyederhanakan pengembangan model ML dengan mengotomatisasi tugas-tugas seperti pra-pemrosesan data, rekayasa fitur, pemilihan model, dan penyetelan hiperparameter. Hal ini memungkinkan...

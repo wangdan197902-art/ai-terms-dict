@@ -1,23 +1,23 @@
 ---
-title: "進化可能性"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: 進化可能性
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /ja/terms/evolvability/
-date: "2026-07-18T11:14:00.126764Z"
-lastmod: "2026-07-18T11:44:45.095820Z"
+slug: evolvability
+date: '2026-07-18T11:14:00.126764Z'
+lastmod: '2026-07-18T11:44:45.095820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "遺伝子型またはシステムが、適応のために選択可能な遺伝形質の変異を生成する能力。"
+source: agnes_llm
+status: published
+language: ja
+description: 遺伝子型またはシステムが、適応のために選択可能な遺伝形質の変異を生成する能力。
 ---
-
 ## Definition
 
 計算文脈において、進化可能性とは、アルゴリズムやニューラルネットワークアーキテクチャが世代やトレーニングステップを通じてどれほど簡単にフィットネスを向上させられるかを示します。高い進化可能性は、小さな...（原文が切断されています）

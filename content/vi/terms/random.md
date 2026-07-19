@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /vi/terms/random/
 date: "2026-07-18T15:28:15.925640Z"
 lastmod: "2026-07-18T16:38:07.692979Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tính chất không có mẫu dự đoán được, thường được mô phỏng trong AI thông qua các thuật toán tạo số ngẫu nhiên giả."
 ---
-
 ## Definition
 
 Tính ngẫu nhiên là yếu tố cơ bản trong AI để khởi tạo trọng số mô hình, xáo trộn tập dữ liệu và đưa tính ngẫu nhiên vào quá trình huấn luyện nhằm ngăn ngừa tình trạng học thuộc lòng (overfitting). Vì máy tính hoạt động theo quy tắc xác định, các hệ thống AI sử dụng các thuật toán tạo số ngẫu nhiên giả để bắt chước tính ngẫu nhiên.

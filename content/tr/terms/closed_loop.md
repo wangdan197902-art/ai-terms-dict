@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /tr/terms/closed_loop/
 date: "2026-07-18T15:31:03.003388Z"
 lastmod: "2026-07-18T16:38:07.248399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çıktı geri bildiriminin gelecekteki eylemleri ayarlamak için sürekli olarak kullanıldığı bir kontrol sistemi."
 ---
-
 ## Definition
 
 Yapay zekada kapalı çevrim sistemleri, davranışlarını veya parametrelerini dinamik olarak ayarlamak için ortamdan gerçek zamanlı geri bildirim kullanır. Bu durum, önceden tanımlanmış dizileri yürüten açık çevrim sistemlerinden farklılık gösterir.

@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /id/terms/multi_task_learning/
 date: "2026-07-18T16:01:21.584716Z"
 lastmod: "2026-07-18T16:38:07.485528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Multi-task learning adalah paradigma pembelajaran mesin di mana sebuah model dilatih pada beberapa tugas terkait secara bersamaan untuk meningkatkan kemampuan generalisasi."
 ---
-
 ## Definition
 
 Teknik ini memanfaatkan bias induktif yang dibagikan antar tugas terkait untuk meningkatkan efisiensi dan kinerja pembelajaran. Dengan melatih satu model untuk melakukan beberapa tugas sekaligus, model tersebut mempelajari representasi yang

@@ -1,23 +1,24 @@
 ---
-title: "محرك تعليم إكس أو قابل للتعليم بصناديق الثقاب"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: محرك تعليم إكس أو قابل للتعليم بصناديق الثقاب
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /ar/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:12:21.806551Z"
-lastmod: "2026-07-18T17:15:08.526434Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:12:21.806551Z'
+lastmod: '2026-07-18T17:15:08.526434Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "جهاز تعلم معزز مادي بناه دونالد ميتشي في عام 1961 للعب لعبة X-O باستخدام صناديق الثقاب والخرز."
+source: agnes_llm
+status: published
+language: ar
+description: جهاز تعلم معزز مادي بناه دونالد ميتشي في عام 1961 للعب لعبة X-O باستخدام
+  صناديق الثقاب والخرز.
 ---
-
 ## Definition
 
 كان محرك إكس-أو القابل للتعليم عرضاً مبكراً للتعلم الآلي، وتحديداً التعلم المعزز. بُني من 304 صندوق ثقاب، يمثل كل منها حالة لوحة فريدة، والنظام

@@ -1,23 +1,24 @@
 ---
-title: "Előképzett"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Előképzett
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /hu/terms/pretrained/
-date: "2026-07-18T16:18:42.439227Z"
-lastmod: "2026-07-18T17:15:09.823785Z"
+slug: pretrained
+date: '2026-07-18T16:18:42.439227Z'
+lastmod: '2026-07-18T17:15:09.823785Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyan modellre utal, amelyet már betanítottak egy nagy adathalmazon, mielőtt specifikus feladatra alkalmaztak volna."
+source: agnes_llm
+status: published
+language: hu
+description: Olyan modellre utal, amelyet már betanítottak egy nagy adathalmazon,
+  mielőtt specifikus feladatra alkalmaztak volna.
 ---
-
 ## Definition
 
 Az 'előképzett' kifejezés egy neurális hálózati modellt ír le, amely átesett egy kezdeti képzési folyamaton egy hatalmas, gyakran általános célú adathalmon, mint például az ImageNet vagy a Wikipedia. Ez a folyamat lehetővé teszi a modell számára, hogy általános jellemzőket és nyelvtani struktúrákat sajátítson el, amelyeket később könnyen adaptálni lehet kisebb, specifikusabb feladatkészletekre.

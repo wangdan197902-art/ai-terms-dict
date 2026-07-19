@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /hu/terms/knowledge_level/
 date: "2026-07-18T16:08:23.965077Z"
 lastmod: "2026-07-18T17:15:09.800022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy absztrakt tervezési nézőpont, amely arra fókuszál, mit tud egy ügynök, ahelyett, hogy belső információfeldolgozására összpontosítana."
 ---
-
 ## Definition
 
 Allen Newell által bevezetett fogalomként a tudásszint az intelligens rendszereket hiteik és céljaik alapján elemzi, függetlenül fizikai megvalósításuktól. Elválasztja az ügynök cselekvéseinek racionalitását a belső implementációtól.

@@ -1,23 +1,24 @@
 ---
-title: "Deteksi anomali"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Deteksi anomali
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /id/terms/anomaly_detection/
-date: "2026-07-18T15:38:42.752481Z"
-lastmod: "2026-07-18T16:38:07.427250Z"
+slug: anomaly_detection
+date: '2026-07-18T15:38:42.752481Z'
+lastmod: '2026-07-18T16:38:07.427250Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses mengidentifikasi item, peristiwa, atau pengamatan langka yang menyimpang secara signifikan dari mayoritas data."
+source: agnes_llm
+status: published
+language: id
+description: Proses mengidentifikasi item, peristiwa, atau pengamatan langka yang
+  menyimpang secara signifikan dari mayoritas data.
 ---
-
 ## Definition
 
 Deteksi anomali, juga dikenal sebagai deteksi pencilan, melibatkan analisis data untuk menemukan pola yang tidak sesuai dengan perilaku yang diharapkan. Hal ini banyak digunakan dalam keamanan siber, deteksi penipuan, dan pemeliharaan sist

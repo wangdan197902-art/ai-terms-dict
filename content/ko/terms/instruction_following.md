@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /ko/terms/instruction_following/
 date: "2026-07-18T16:00:18.596113Z"
 lastmod: "2026-07-18T16:38:06.855390Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 모델이 인간의 특정 명령이나 제약 조건을 정확하게 해석하고 실행하는 능력입니다."
 ---
-
 ## Definition
 
 명령 따름은 대규모 언어 모델 및 기타 AI 시스템이 프롬프트 내의 미묘한 인간 지시를 이해하고 명시적 제약을 준수하는 능력을 의미합니다. 이는 모델이 사용자의 의도를 더 잘 따르도록 하는 패러다임 전환을 나타냅니다.

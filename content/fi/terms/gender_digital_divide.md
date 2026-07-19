@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /fi/terms/gender_digital_divide/
 date: "2026-07-18T15:59:08.289939Z"
 lastmod: "2026-07-18T17:15:09.414247Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Sukupuolten välinen digitaalinen kuilu viittaa eroon miesten ja naisten välillä tietojen ja viestintäteknologioiden saatavuudessa, käytössä ja niistä saatavissa hyödyissä."
 ---
-
 ## Definition
 
 Tämä sosio-tekninen käsite korostaa epäsuhtia, jossa naisilla ja tytöillä on usein vähemmän pääsyä digitaalisiihin laitteisiin, internetyhteyksiin ja digitaalisiin taitoihin kuin miehillä ja pojilla. Nämä ero...

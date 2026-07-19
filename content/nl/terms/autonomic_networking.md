@@ -1,23 +1,24 @@
 ---
-title: "Autonome netwerken"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Autonome netwerken
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /nl/terms/autonomic_networking/
-date: "2026-07-18T15:44:10.954761Z"
-lastmod: "2026-07-18T17:15:08.720682Z"
+slug: autonomic_networking
+date: '2026-07-18T15:44:10.954761Z'
+lastmod: '2026-07-18T17:15:08.720682Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Zelfbeheernde netwerkinfrastructuur die AI gebruikt om zichzelf te configureren, te optimaliseren en te herstellen."
+source: agnes_llm
+status: published
+language: nl
+description: Zelfbeheernde netwerkinfrastructuur die AI gebruikt om zichzelf te configureren,
+  te optimaliseren en te herstellen.
 ---
-
 ## Definition
 
 Autonome netwerken passen principes van autonomic computing toe op telecommunicatienetwerken, waardoor systemen zich met minimale menselijke tussenkomst kunnen beheren. Deze netwerken gebruiken AI om fouten te detecteren, prestaties te optimaliseren en zichzelf te herstellen.

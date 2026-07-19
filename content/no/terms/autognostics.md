@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /no/terms/autognostics/
 date: "2026-07-18T15:43:59.271617Z"
 lastmod: "2026-07-18T16:38:06.973780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Evnen til et AI-system til selvdiagnostisering av sin interne tilstand, ytelsesproblemer eller feil uten menneskelig innblanding."
 ---
-
 ## Definition
 
 Autognostikk refererer til selvovervåkings- og selvreparasjonsmekanismer innebygd i intelligente systemer. Det lar AI-agenter oppdage anomali, diagnostisere rotårsaker til svikt og potensielt korrigere seg selv.

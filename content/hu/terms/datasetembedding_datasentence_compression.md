@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /hu/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:53:33.065945Z"
 lastmod: "2026-07-18T17:15:09.769557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy adathalmaz eredeti mondatokból és azok tömörített változataiból, amelyeket modellek tanítására használnak az információ megőrzése érdekében."
 ---
-
 ## Definition
 
 A mondatkompressziós adathalmazok olyan párokból állnak, ahol a célmondat a forrásmondat rövidített változata, megőrizve az alapvető jelentést, miközben eltávolítja a redundáns információkat. Ezek az adathalmazok...

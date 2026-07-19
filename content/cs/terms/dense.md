@@ -1,23 +1,23 @@
 ---
-title: "Hustá vrstva"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Hustá vrstva
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /cs/terms/dense/
-date: "2026-07-18T15:53:20.475266Z"
-lastmod: "2026-07-18T17:15:09.121666Z"
+slug: dense
+date: '2026-07-18T15:53:20.475266Z'
+lastmod: '2026-07-18T17:15:09.121666Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Vrstva nebo tenzor, kde je každý prvek propojen s každým prvkem předchozí vrstvy nebo dimenze."
+source: agnes_llm
+status: published
+language: cs
+description: Vrstva nebo tenzor, kde je každý prvek propojen s každým prvkem předchozí
+  vrstvy nebo dimenze.
 ---
-
 ## Definition
 
 V neuronových sítích označuje 'hustá' plně propojené vrstvy, kde každý neuron přijímá vstupy ze všech neuronů v předchozí vrstvě. To se kontrastuje s řídkými spoji nalezenými v konvolučních nebo jiných typech vrstev.

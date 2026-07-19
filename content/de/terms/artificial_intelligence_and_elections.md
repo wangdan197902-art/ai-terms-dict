@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /de/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T11:03:12.753951Z"
 lastmod: "2026-07-18T11:44:44.910025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Anwendung von KI-Technologien in Wahlprozessen, einschließlich Kampagnenmanagement, Wähleranalyse und Bedenken hinsichtlich Fehlinformationen."
 ---
-
 ## Definition
 
 Dieser Begriff umfasst die doppelte Rolle der KI in demokratischen Prozessen: Steigerung der Effizienz durch Datenanalyse und Entstehung von Risiken durch Manipulation. Einerseits hilft KI Kampagnen, Wähler gezielt anzusprechen und zu optim...

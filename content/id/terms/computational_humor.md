@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /id/terms/computational_humor/
 date: "2026-07-18T15:43:04.733223Z"
 lastmod: "2026-07-18T16:38:07.438967Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Cabang AI yang berfokus pada pembuatan, pemahaman, dan apresiasi konten lucu melalui metode komputasional."
 ---
-
 ## Definition
 
 Humor komputasional mempelajari bagaimana mesin dapat menghasilkan atau menafsirkan lelucon, permainan kata, dan komentar cerdas. Hal ini biasanya mengandalkan pemrosesan bahasa alami untuk mendeteksi inkonsistensi, pergeseran semantik, atau ketidaksesuaian yang diharapkan.

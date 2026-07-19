@@ -1,23 +1,23 @@
 ---
-title: "迁移学习"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: 迁移学习
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /zh/terms/transfer_learning/
-date: "2026-07-18T10:55:40.663771Z"
-lastmod: "2026-07-18T11:44:45.387273Z"
+slug: transfer_learning
+date: '2026-07-18T10:55:40.663771Z'
+lastmod: '2026-07-18T11:44:45.387273Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种机器学习技术，将在一个任务中开发的模型作为第二个任务的模型的起点进行复用。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种机器学习技术，将在一个任务中开发的模型作为第二个任务的模型的起点进行复用。
 ---
-
 ## Definition
 
 迁移学习利用预训练模型来提高在新且相关任务上的性能并减少训练时间。开发人员无需从头开始训练，而是对现有权重进行微调，从而利用先前学到的知识。

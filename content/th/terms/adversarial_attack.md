@@ -1,23 +1,24 @@
 ---
-title: "การโจมตีแบบ Adversarial"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: การโจมตีแบบ Adversarial
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /th/terms/adversarial_attack/
-date: "2026-07-18T15:39:46.151642Z"
-lastmod: "2026-07-18T16:38:07.571180Z"
+slug: adversarial_attack
+date: '2026-07-18T15:39:46.151642Z'
+lastmod: '2026-07-18T16:38:07.571180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การโจมตีแบบ Adversarial คือเทคนิคที่เพิ่มสัญญาณรบกวนเล็กน้อยซึ่งมักมองไม่เห็นลงในข้อมูลนำเข้า เพื่อหลอกระบบแมชชีนเลิร์นนิงให้ทำนายผลผิดพลาด"
+source: agnes_llm
+status: published
+language: th
+description: การโจมตีแบบ Adversarial คือเทคนิคที่เพิ่มสัญญาณรบกวนเล็กน้อยซึ่งมักมองไม่เห็นลงในข้อมูลนำเข้า
+  เพื่อหลอกระบบแมชชีนเลิร์นนิงให้ทำนายผลผิดพลาด
 ---
-
 ## Definition
 
 การโจมตีแบบ Adversarial ใช้ประโยชน์จากความเปราะบางของเครือข่ายประสาทเทียมโดยการแนะนำสัญญาณรบกวนที่ละเอียดอ่อนลงในข้อมูลนำเข้า เช่น ภาพหรือข้อความ ซึ่งทำให้เกิดข้อผิดพลาดอย่างมีนัยสำคัญในผลลัพธ์ของโมเดล การโจมตีเหล่านี้เน้นย้ำถึงความจำเป็นในการเพิ่มความแข็งแกร่งให้กับโมเดล

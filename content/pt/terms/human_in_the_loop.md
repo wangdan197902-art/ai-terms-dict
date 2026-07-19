@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /pt/terms/human_in_the_loop/
 date: "2026-07-18T14:44:35.658771Z"
 lastmod: "2026-07-18T15:51:59.450744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um design de sistema em que os humanos participam ativamente do processo de tomada de decisão ou de feedback de um modelo de IA."
 ---
-
 ## Definition
 
 O termo Humano no Loop (HITL, do inglês Human-in-the-Loop) refere-se a sistemas de IA que exigem intervenção humana em várias etapas do fluxo de trabalho, como rotulagem de dados, avaliação do modelo ou aprovação final da decisão. Essa abordagem garante que o julgamento humano esteja presente para corrigir erros, validar saídas e garantir conformidade ética.

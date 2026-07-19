@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /zh/terms/neural_modeling_fields/
 date: "2026-07-18T11:28:12.945149Z"
 lastmod: "2026-07-18T11:44:45.536371Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "描述神经活动模式的空间和功能组织的理论框架。"
 ---
-
 ## Definition
 
 神经建模场涉及研究神经群体如何在高维空间中组织自身以表征信息。这一概念通常与拓扑映射（topological mappings）和场论（field theory）相关。

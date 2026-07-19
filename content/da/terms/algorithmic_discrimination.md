@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /da/terms/algorithmic_discrimination/
 date: "2026-07-18T15:40:37.831755Z"
 lastmod: "2026-07-18T17:15:09.257546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Algoritmisk diskrimination opstår, når automatiserede systemer producerer uretfærdige eller skæve resultater, der ugunstigt påvirker bestemte grupper baseret på beskyttede kendetegn."
 ---
-
 ## Definition
 
 Dette fænomen opstår, når AI-modeller utilsigtet eller systematisk behandler individer forskelligt på grund af race, køn, alder eller andre følsomme attributter. Det stammer ofte fra skæve træningsdata eller manglende diversitet i datamaterialet.

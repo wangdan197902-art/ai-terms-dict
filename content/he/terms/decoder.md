@@ -1,23 +1,24 @@
 ---
-title: "מפענח"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: מפענח
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /he/terms/decoder/
-date: "2026-07-18T15:35:59.256361Z"
-lastmod: "2026-07-18T17:15:09.497885Z"
+slug: decoder
+date: '2026-07-18T15:35:59.256361Z'
+lastmod: '2026-07-18T17:15:09.497885Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "רכיב ברשת נוירונים האחראי ליצירת רצפי פלט מהייצוגים הסמויים (latent) שעברו קידוד."
+source: agnes_llm
+status: published
+language: he
+description: רכיב ברשת נוירונים האחראי ליצירת רצפי פלט מהייצוגים הסמויים (latent)
+  שעברו קידוד.
 ---
-
 ## Definition
 
 במודלים מסוג מקצה לקצה (sequence-to-sequence), המפענח לוקח את וקטור ההקשר שנוצר על ידי המקודד ומייצר את הפלט המבוקש צעד אחר צעד. הוא משתמש במנגנוני תשומת לב כדי להתמקד בחלקים רלוונטיים

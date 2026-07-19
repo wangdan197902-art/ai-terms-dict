@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /hu/terms/stochastic/
 date: "2026-07-18T15:31:33.974539Z"
 lastmod: "2026-07-18T17:15:09.730866Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan folyamatokat vagy modelleket ír le, amelyek véletlenszerűséget és valószínűséget tartalmaznak, nem pedig determinisztikus kimeneteleket."
 ---
-
 ## Definition
 
 A sztochasztikus elemek változékonyságot visznek az AI rendszerekbe, például zajt az adatokban vagy súlyok véletlenszerű inicializálását. A determinisztikus modellekkel ellentétben a sztochasztikus modellek figyelembe veszik az bizonytalanságot.

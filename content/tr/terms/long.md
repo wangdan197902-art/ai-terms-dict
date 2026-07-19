@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /tr/terms/long/
 date: "2026-07-18T15:26:38.010062Z"
 lastmod: "2026-07-18T16:38:07.236633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Genellikle doğal dil işleme modellerindeki uzun bağlam pencereleri gibi genişletilmiş veri dizilerini ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka bağlamında 'uzun', çoğunlukla uzun belgeler veya uzun video akışları gibi kapsamlı girdileri işleme yeteneğini tanımlar. Büyük dil modelleri için bu, uzun bağlam

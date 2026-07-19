@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /de/terms/given/
 date: "2026-07-18T10:50:27.443460Z"
 lastmod: "2026-07-18T11:44:44.875282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Begriff, der vorbestehende Daten, Einschränkungen oder Kontexte bezeichnet, die als Eingabe für einen algorithmischen Prozess bereitgestellt werden."
 ---
-
 ## Definition
 
 Im Kontext von KI und Informatik bezieht sich „given“ (gegebene Werte) auf den Anfangszustand, den Datensatz oder die Parameter, die einem Modell oder einer Funktion vor Beginn der Berechnung übergeben werden. Dies legt die Randbedingungen für die weitere Verarbeitung fest.

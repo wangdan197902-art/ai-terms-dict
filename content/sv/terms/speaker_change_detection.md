@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /sv/terms/speaker_change_detection/
 date: "2026-07-18T16:21:30.782384Z"
 lastmod: "2026-07-18T17:15:09.049818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att identifiera punkter i en ljudström där den aktive talaren byts ut."
 ---
-
 ## Definition
 
 Detektion av talarbyte (SCD) är en teknik som används för att exakt tidstämpla ögonblick då en talare slutar prata och en annan börjar. Det fungerar som ett första steg i diarisering, vilket hjälper till att segmentera konversationer.

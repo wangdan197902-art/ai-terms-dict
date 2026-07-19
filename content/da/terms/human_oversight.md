@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /da/terms/human_oversight/
 date: "2026-07-18T16:00:23.185138Z"
 lastmod: "2026-07-18T17:15:09.296627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Praksis med at opretholde menneskelig kontrol og gennemgang af automatiserede AI-systemer for at sikre sikkerhed, nøjagtighed og etisk overholdelse."
 ---
-
 ## Definition
 
 Menneskeligt tilsyn refererer til de mekanismer og processer, hvor mennesker overvåger, evaluerer og griber ind i AI-styrede beslutninger eller handlinger. Dette koncept er afgørende for at sikre, at automatiserede systemer opererer inden for sikre og etiske rammer.

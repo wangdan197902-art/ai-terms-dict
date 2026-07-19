@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /es/terms/crewai/
 date: "2026-07-18T10:41:13.284595Z"
 lastmod: "2026-07-18T11:44:44.790375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "CrewAI es un marco de trabajo para orquestar agentes de IA autónomos que juegan roles para colaborar en tareas complejas."
 ---
-
 ## Definition
 
 CrewAI proporciona un entorno estructurado para construir sistemas multiagente donde cada agente tiene un rol, objetivo y conjunto de herramientas específicos. Simplifica la creación de flujos de trabajo permitiendo a los desarrolladores...

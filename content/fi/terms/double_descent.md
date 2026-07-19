@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /fi/terms/double_descent/
 date: "2026-07-18T15:55:15.139569Z"
 lastmod: "2026-07-18T17:15:09.406192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ilmiö, jossa testivirhe pienenee, kasvaa ja pienenee uudelleen, kun mallin monimutkaisuus kasvaa interpolointikynnyksen yli."
 ---
-
 ## Definition
 
 Kaksoislaskeuma haastaa perinteisen harha-hajonta-vaihtoehtobyksen osoittamalla, että erittäin yliparametrisoidut mallit voivat saavuttaa matalan testivirheen interpoloidessaan koulutusdataa. Aluksi virhe nousee...

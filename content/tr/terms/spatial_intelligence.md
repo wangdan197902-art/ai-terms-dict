@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /tr/terms/spatial_intelligence/
 date: "2026-07-18T16:15:13.617632Z"
 lastmod: "2026-07-18T16:38:07.367273Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerinin üç boyutlu ortamları anlamlandırma, bunlar üzerinde akıl yürütme ve bu ortamlarda gezinme yeteneği."
 ---
-
 ## Definition
 
 Mekansal zeka, yapay zeka modellerinin fiziksel veya sanal ortamlardaki mekansal ilişkileri algılama, yorumlama ve manipüle etme kapasitesini ifade eder. Bu kavram, derinlik tahmini ve geometrik akıl yürütme gibi unsurları kapsayarak sistemlerin uzamsal farkındalık geliştirmesini sağlar.

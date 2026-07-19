@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /fi/terms/token_limit/
 date: "2026-07-18T15:38:41.602818Z"
 lastmod: "2026-07-18T17:15:09.375819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Maksimimäärä tokeneita, jotka tekoälymalli voi käsitellä yhdessä syöte- tai lähtösekvenssissä."
 ---
-
 ## Definition
 
 Tokeniraja määrittää kontekstiikkunan koon rajoituksen suurille kielimalleille, rajoittaen kuinka paljon tekstiä voidaan analysoida tai tuottaa kerrallaan. Tämä arkkitehtoninen raja vaikuttaa muistin hallintaan,

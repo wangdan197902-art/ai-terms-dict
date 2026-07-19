@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /pl/terms/neural_modeling_fields/
 date: "2026-07-18T16:09:01.008685Z"
 lastmod: "2026-07-18T17:15:08.901331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Teoretyczny framework opisujący przestrzenną i funkcjonalną organizację wzorców aktywności neuronowej."
 ---
-
 ## Definition
 
 Pola modelowania neuronowego obejmują badanie tego, jak populacje neuronów organizują się w przestrzeniach o wysokiej wymiarowości w celu reprezentowania informacji. Pojęcie to często wiąże się z mapami topologicznymi i teorią pól.

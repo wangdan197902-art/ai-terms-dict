@@ -1,23 +1,24 @@
 ---
-title: "קוונטיזציה"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: קוונטיזציה
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /he/terms/quantization/
-date: "2026-07-18T15:37:58.967377Z"
-lastmod: "2026-07-18T17:15:09.503088Z"
+slug: quantization
+date: '2026-07-18T15:37:58.967377Z'
+lastmod: '2026-07-18T17:15:09.503088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת אופטימיזציה של מודל המפחיתה את דיוק המספרים המשמשים בחישובי רשתות נוירונים כדי להקטין את גודל המודל ולשפר את המהירות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת אופטימיזציה של מודל המפחיתה את דיוק המספרים המשמשים בחישובי רשתות
+  נוירונים כדי להקטין את גודל המודל ולשפר את המהירות.
 ---
-
 ## Definition
 
 קוונטיזציה ממירה מספרי נקודה צפה בדיוק גבוה (כמו FP32) לפורמטים בדיוק נמוך יותר (כמו INT8 או FP16). הפחתה זו מקטינה את השימוש בזיכרון ואת הדרישות החישוביות של המודל.

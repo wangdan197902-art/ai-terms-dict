@@ -1,23 +1,24 @@
 ---
-title: "Connaissances antérieures pour la reconnaissance de motifs"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Connaissances antérieures pour la reconnaissance de motifs
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /fr/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T11:34:15.565410Z"
-lastmod: "2026-07-18T11:44:45.314491Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T11:34:15.565410Z'
+lastmod: '2026-07-18T11:44:45.314491Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Informations ou hypothèses existantes intégrées dans les modèles d'apprentissage automatique pour améliorer la précision de l'identification des motifs."
+source: agnes_llm
+status: published
+language: fr
+description: Informations ou hypothèses existantes intégrées dans les modèles d'apprentissage
+  automatique pour améliorer la précision de l'identification des motifs.
 ---
-
 ## Definition
 
 Les connaissances antérieures désignent les insights spécifiques au domaine, les contraintes ou les données historiques incorporées dans les algorithmes avant le début de l'entraînement. Cela aide à orienter le modèle vers des solutions plausibles, réduisant ainsi le risque de surapprentissage.

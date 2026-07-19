@@ -7,8 +7,6 @@ tags: ["workflow", "process"]
 difficulty: 1
 weight: 1
 slug: "finally"
-aliases:
-  - /fi/terms/finally/
 date: "2026-07-18T15:26:31.606253Z"
 lastmod: "2026-07-18T17:15:09.350409Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "AI-työnkuluissa 'lopuksi' tarkoittaa päätösaskelta tai tulosten tuottamisvaihetta kaikkien käsittelyvaiheiden valmistumisen jälkeen."
 ---
-
 ## Definition
 
 Konsepti 'lopuksi' edustaa päätepistettä AI-pipelinessa, jossa käsitelty data tuottaa lopullisen tuloksen, kuten ennusteen, luokittelun tai generoidun tekstin. Se merkitsee laskennallisen prosessin päättymistä.

@@ -1,23 +1,24 @@
 ---
-title: "Atenție Multi-Cap"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Atenție Multi-Cap
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /ro/terms/multi_head_attention/
-date: "2026-07-18T15:27:33.695223Z"
-lastmod: "2026-07-18T17:15:09.599170Z"
+slug: multi_head_attention
+date: '2026-07-18T15:27:33.695223Z'
+lastmod: '2026-07-18T17:15:09.599170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un mecanism în modelele transformator care permite modelului să acorde atenție informațiilor din diferite subspații de reprezentare simultan."
+source: agnes_llm
+status: published
+language: ro
+description: Un mecanism în modelele transformator care permite modelului să acorde
+  atenție informațiilor din diferite subspații de reprezentare simultan.
 ---
-
 ## Definition
 
 Atenția Multi-Cap extinde mecanismul standard de atenție rulându-l de mai multe ori în paralel cu proiecții liniare diferite învățate. Acest lucru permite modelului să acorde atenție simultan informațiilor din diverse perspective.

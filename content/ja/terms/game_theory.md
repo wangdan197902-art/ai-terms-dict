@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /ja/terms/game_theory/
 date: "2026-07-18T11:15:40.207720Z"
 lastmod: "2026-07-18T11:44:45.100024Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "合理的な意思決定者の間の戦略的相互作用を数学的に研究する分野であり、結果はすべての参加者の行動に依存する。"
 ---
-
 ## Definition
 
 ゲーム理論は、合理的なエージェント間の戦略的相互作用をモデル化する応用数学の一分野です。ここでは、一人のプレイヤーの成功が他のプレイヤーの選択に依存する状況を分析します。ナッシュ均衡やパレート最適などの概念を用いて、競争や協力における最適な戦略を導き出します。

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /es/terms/overall/
 date: "2026-07-18T10:25:16.910253Z"
 lastmod: "2026-07-18T11:44:44.747398Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Global se refiere al rendimiento agregado, la precisión o el impacto de un sistema de IA en todos los casos de prueba o escenarios operativos."
 ---
-
 ## Definition
 
 Al evaluar modelos de IA, las métricas 'globales' proporcionan una visión holística del rendimiento del sistema en lugar de centrarse en componentes aislados. Esto incluye la precisión global, la precisión media promedio o el total...

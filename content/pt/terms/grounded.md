@@ -1,23 +1,24 @@
 ---
-title: "Ancorado"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Ancorado
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /pt/terms/grounded/
-date: "2026-07-18T14:35:49.416033Z"
-lastmod: "2026-07-18T15:51:59.431298Z"
+slug: grounded
+date: '2026-07-18T14:35:49.416033Z'
+lastmod: '2026-07-18T15:51:59.431298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Refere-se a sistemas de IA que conectam símbolos ou linguagem abstratos a dados sensoriais do mundo real ou ações físicas."
+source: agnes_llm
+status: published
+language: pt
+description: Refere-se a sistemas de IA que conectam símbolos ou linguagem abstratos
+  a dados sensoriais do mundo real ou ações físicas.
 ---
-
 ## Definition
 
 Na inteligência artificial, 'ancorado' descreve o processo de vincular representações simbólicas, como palavras ou proposições lógicas, aos seus referentes reais no mundo físico ou na experiência sensorial.

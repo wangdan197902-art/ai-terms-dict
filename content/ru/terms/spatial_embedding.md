@@ -1,23 +1,24 @@
 ---
-title: "Пространственное встраивание"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Пространственное встраивание
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /ru/terms/spatial_embedding/
-date: "2026-07-18T16:16:07.527216Z"
-lastmod: "2026-07-18T16:38:07.204013Z"
+slug: spatial_embedding
+date: '2026-07-18T16:16:07.527216Z'
+lastmod: '2026-07-18T16:38:07.204013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, отображающая пространственные отношения между объектами или локациями в векторные представления для моделей машинного обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, отображающая пространственные отношения между объектами или
+  локациями в векторные представления для моделей машинного обучения.
 ---
-
 ## Definition
 
 Пространственное встраивание включает преобразование физических или абстрактных пространственных отношений в плотные векторные пространства, позволяя алгоритмам понимать близость, ориентацию и топологию. Эта техника необходима для задач, требующих понимания геометрии мира.

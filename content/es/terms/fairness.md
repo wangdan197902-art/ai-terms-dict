@@ -7,8 +7,6 @@ tags: ["ethics", "bias", "safety"]
 difficulty: 3
 weight: 1
 slug: "fairness"
-aliases:
-  - /es/terms/fairness/
 date: "2026-07-18T10:30:29.634798Z"
 lastmod: "2026-07-18T11:44:44.762330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La justicia se refiere al principio de que los sistemas de IA deben evitar producir resultados sesgados o discriminatorios contra grupos específicos."
 ---
-
 ## Definition
 
 En la inteligencia artificial, la justicia es una métrica ética crítica que asegura que los algoritmos no perpetúen ni amplifiquen los sesgos sociales basados en atributos protegidos como la raza, el género o la edad. Implica diseñar modelos que traten a todos los usuarios de manera equitativa, minimizando las disparidades en los resultados predichos o asignados.

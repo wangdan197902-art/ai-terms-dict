@@ -1,23 +1,24 @@
 ---
-title: "סדר ראשון"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: סדר ראשון
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /he/terms/first_order/
-date: "2026-07-18T15:32:53.102598Z"
-lastmod: "2026-07-18T17:15:09.492333Z"
+slug: first_order
+date: '2026-07-18T15:32:53.102598Z'
+lastmod: '2026-07-18T17:15:09.492333Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתייחס למושגים הכוללים קשרים ישירים או קירובים ליניאריים, כגון לוגיקה מסדר ראשון או נגזרות מסדר ראשון."
+source: agnes_llm
+status: published
+language: he
+description: מתייחס למושגים הכוללים קשרים ישירים או קירובים ליניאריים, כגון לוגיקה
+  מסדר ראשון או נגזרות מסדר ראשון.
 ---
-
 ## Definition
 
 בבינה מלאכותית ובמתמטיקה, המונח 'סדר ראשון' מתאר בדרך כלל מערכות או פעולות הכוללות קשרים ישירים וליניאריים ללא אינטראקציות מסדר גבוה יותר. באופטימיזציה, זה מתייחס לשיטות המשתמשות במידע על הנטייה (גרדיאנט) של הפונקציה כדי למצוא מינימום מקומי, תוך התעלמות מנגזרות שניות או עקמומיות.

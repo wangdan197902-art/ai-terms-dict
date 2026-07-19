@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /nl/terms/robustness/
 date: "2026-07-18T16:15:52.731428Z"
 lastmod: "2026-07-18T17:15:08.784617Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het vermogen van een AI-model om prestaties en stabiliteit te behouden bij ruisende gegevens, adversariële aanvallen of distributieveranderingen."
 ---
-
 ## Definition
 
 In AI-veiligheid en -ethiek verwijst robuustheid naar de veerkracht van een model tegen onverwachte invoeren of kwaadwillige manipulaties. Een robuust systeem blijft correct functioneren, zelfs wanneer de invoergegevens ruis bevatten.

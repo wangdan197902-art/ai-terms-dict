@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /el/terms/model_compression/
 date: "2026-07-18T16:21:45.941133Z"
 lastmod: "2026-07-18T17:15:09.932817Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η συμπίεση μοντέλων αναφέρεται σε τεχνικές που μειώνουν το μέγεθος και τις υπολογιστικές απαιτήσεις των μοντέλων μηχανικής μάθησης."
 ---
-
 ## Definition
 
 Αυτή η κατηγορία περιλαμβάνει μεθόδους όπως η κλάδεμα (pruning), η κβάντωση (quantization) και η απόσταξη γνώσης (knowledge distillation), με στόχο τη συρρίκνωση του αποτυπώματος του μοντέλου διατηρώντας την απόδοση. Είναι απαραίτητη για την ανάπτυξη σύνθετων μοντέλων AI

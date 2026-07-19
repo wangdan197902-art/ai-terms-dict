@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /en/terms/inductive_probability/
 date: "2026-07-18T10:02:49.698709Z"
 lastmod: "2026-07-18T11:44:44.685261Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A measure of the degree to which evidence supports a hypothesis, distinct from deductive certainty."
 ---
-
 ## Definition
 
 Inductive probability quantifies how likely a hypothesis is true given observed evidence, acknowledging that conclusions are probable rather than certain. It forms the basis of Bayesian inference, where prior beliefs are updated with new data. This concept is fundamental in statistical learning and decision-making under uncertainty, allowing AI systems to reason about partial information and update their confidence levels as more data becomes available.

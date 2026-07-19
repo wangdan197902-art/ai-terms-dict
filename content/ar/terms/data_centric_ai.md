@@ -1,23 +1,24 @@
 ---
-title: "الذكاء الاصطناعي المتمحور حول البيانات"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: الذكاء الاصطناعي المتمحور حول البيانات
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /ar/terms/data_centric_ai/
-date: "2026-07-18T15:51:32.193314Z"
-lastmod: "2026-07-18T17:15:08.490246Z"
+slug: data_centric_ai
+date: '2026-07-18T15:51:32.193314Z'
+lastmod: '2026-07-18T17:15:08.490246Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج لتطوير الذكاء الاصطناعي يعطي الأولوية لتحسين جودة وكمية بيانات التدريب بدلاً من تعديل بنية النماذج."
+source: agnes_llm
+status: published
+language: ar
+description: نهج لتطوير الذكاء الاصطناعي يعطي الأولوية لتحسين جودة وكمية بيانات التدريب
+  بدلاً من تعديل بنية النماذج.
 ---
-
 ## Definition
 
 يمثل الذكاء الاصطناعي المتمحور حول البيانات تحولاً نموذجياً في تطوير الذكاء الاصطناعي، حيث يركز على التحسين المنهجي للبيانات المستخدمة في تدريب النماذج بدلاً من التركيز حصرياً على تحسين الخوارزميات أو المعاملات الفائقة للنموذج.

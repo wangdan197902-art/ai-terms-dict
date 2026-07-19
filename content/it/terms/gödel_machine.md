@@ -1,23 +1,24 @@
 ---
-title: "Macchina di Gödel"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Macchina di Gödel
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /it/terms/gödel_machine/
-date: "2026-07-18T16:02:45.872329Z"
-lastmod: "2026-07-18T17:15:08.632210Z"
+slug: gödel_machine
+date: '2026-07-18T16:02:45.872329Z'
+lastmod: '2026-07-18T17:15:08.632210Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un programma AI teorico auto-migliorante in grado di riscrivere il proprio codice sorgente per diventare più efficiente senza alterare i propri obiettivi."
+source: agnes_llm
+status: published
+language: it
+description: Un programma AI teorico auto-migliorante in grado di riscrivere il proprio
+  codice sorgente per diventare più efficiente senza alterare i propri obiettivi.
 ---
-
 ## Definition
 
 La Macchina di Gödel è un risolutore universale ipotetico proposto da Jürgen Schmidhuber, basato sulla logica formale e sulla teoria della calcolabilità. Opera analizzando continuamente il proprio codice sorgente e modificandolo in modo ottimale per migliorare le prestazioni, garantendo matematicamente che qualsiasi modifica porti a un miglioramento dell'utilità complessiva del sistema.

@@ -1,23 +1,24 @@
 ---
-title: "Expectation propagation"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: Expectation propagation
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /en/terms/expectation_propagation/
-date: "2026-07-18T09:57:25.048633Z"
-lastmod: "2026-07-18T11:44:44.670811Z"
+slug: expectation_propagation
+date: '2026-07-18T09:57:25.048633Z'
+lastmod: '2026-07-18T11:44:44.670811Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "An approximate inference algorithm used to estimate posterior distributions in complex probabilistic graphical models."
+source: agnes_llm
+status: published
+language: en
+description: An approximate inference algorithm used to estimate posterior distributions
+  in complex probabilistic graphical models.
 ---
-
 ## Definition
 
 Expectation Propagation (EP) approximates intractable integrals by iteratively refining Gaussian approximations to the true posterior distribution. It minimizes the Kullback-Leibler divergence between the approximate and true distributions by matching moments. EP is widely used in Bayesian machine learning for tasks like classification and regression where exact inference is computationally prohibitive, offering a balance between accuracy and efficiency.

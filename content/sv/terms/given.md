@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /sv/terms/given/
 date: "2026-07-18T15:26:32.843069Z"
 lastmod: "2026-07-18T17:15:08.943048Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En term som betecknar befintliga data, begränsningar eller kontext som tillhandahålls som indata till en algoritmisk process."
 ---
-
 ## Definition
 
 I sammanhang inom AI och datavetenskap syftar 'givet' på det initiala tillståndet, datamängden eller de parametrar som tillhandahålls en modell eller funktion innan beräkningen påbörjas. Det fastställer gränsvillkoren för...

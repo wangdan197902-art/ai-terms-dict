@@ -1,23 +1,23 @@
 ---
-title: "データセット: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'データセット: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /ja/terms/datasetwikipedia/
-date: "2026-07-18T11:11:09.687318Z"
-lastmod: "2026-07-18T11:44:45.087750Z"
+slug: datasetwikipedia
+date: '2026-07-18T11:11:09.687318Z'
+lastmod: '2026-07-18T11:44:45.087750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Wikipediaからの膨大なテキストコレクション。言語モデルの事前学習や知識集約型NLPタスクの基盤となるコーパス。"
+source: agnes_llm
+status: published
+language: ja
+description: Wikipediaからの膨大なテキストコレクション。言語モデルの事前学習や知識集約型NLPタスクの基盤となるコーパス。
 ---
-
 ## Definition
 
 Wikipediaは、テキスト形式で利用可能な人類の知識のうち最大かつ最も包括的なコレクションの一つです。AIにおいて、大規模言語モデルの事前学習のための主要なソースとして機能し、多様な言語的パターンを提供します。

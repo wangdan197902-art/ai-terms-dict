@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /cs/terms/mlops/
 date: "2026-07-18T16:07:02.296830Z"
 lastmod: "2026-07-18T17:15:09.150495Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "MLOps (Machine Learning Operations) je sada postupů, které kombinují strojové učení, DevOps a datové inženýrství k automatizaci a zefektivnění životního cyklu ML modelů."
 ---
-
 ## Definition
 
 MLOps umožňuje organizacím nasazovat a udržovat modely strojového učení ve produkčním prostředí spolehlivě a efektivně. Zahrnuje version control pro data a modely, automatizované testování, kontinuální integraci a nasazování (CI/CD) a monitorování modelů.

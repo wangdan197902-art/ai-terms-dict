@@ -1,23 +1,24 @@
 ---
-title: "Lưu lượng dòng chảy"
-term_id: "flux"
-category: "basic_concepts"
-subcategory: ""
-tags: ["concepts", "data_flow", "systems"]
+title: Lưu lượng dòng chảy
+term_id: flux
+category: basic_concepts
+subcategory: ''
+tags:
+- concepts
+- Data Flow
+- systems
 difficulty: 2
 weight: 1
-slug: "flux"
-aliases:
-  - /vi/terms/flux/
-date: "2026-07-18T15:34:47.846652Z"
-lastmod: "2026-07-18T16:38:07.709318Z"
+slug: flux
+date: '2026-07-18T15:34:47.846652Z'
+lastmod: '2026-07-18T16:38:07.709318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Lưu lượng dòng chảy đề cập đến dòng chảy hoặc sự thay đổi liên tục của dữ liệu, năng lượng hoặc thông tin trong một hệ thống hoặc mạng."
+source: agnes_llm
+status: published
+language: vi
+description: Lưu lượng dòng chảy đề cập đến dòng chảy hoặc sự thay đổi liên tục của
+  dữ liệu, năng lượng hoặc thông tin trong một hệ thống hoặc mạng.
 ---
-
 ## Definition
 
 Trong bối cảnh tính toán, lưu lượng dòng chảy mô tả tốc độ truyền tải của một đại lượng qua một diện tích nhất định theo thời gian. Trong AI và kỹ thuật dữ liệu, nó thường liên quan đến luồng dữ liệu (data streaming), nơi thông tin di chuyển liên tục và cần được xử lý theo thời gian thực để đưa ra quyết định tức thì.

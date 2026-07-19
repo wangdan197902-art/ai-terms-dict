@@ -1,23 +1,24 @@
 ---
-title: "Έργο Τεχνητού Εφευρέτη"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Έργο Τεχνητού Εφευρέτη
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /el/terms/artificial_inventor_project/
-date: "2026-07-18T15:50:42.872825Z"
-lastmod: "2026-07-18T17:15:09.879611Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:50:42.872825Z'
+lastmod: '2026-07-18T17:15:09.879611Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια ερευνητική πρωτοβουλία που εστιάζει στην ανάπτυξη υπολογιστικών μοντέλων δημιουργικής επίλυσης προβλημάτων και διαδικασιών εφεύρεσης παρόμοιων με τον άνθρωπο."
+source: agnes_llm
+status: published
+language: el
+description: Μια ερευνητική πρωτοβουλία που εστιάζει στην ανάπτυξη υπολογιστικών μοντέλων
+  δημιουργικής επίλυσης προβλημάτων και διαδικασιών εφεύρεσης παρόμοιων με τον άνθρωπο.
 ---
-
 ## Definition
 
 Το Έργο Τεχνητού Εφευρέτη είναι μια διαθεματική ερευνητική προσπάθεια με στόχο την κατανόηση και την αναπαραγωγή των γνωστικών μηχανισμών πίσω από τη δημιουργικότητα και την εφεύρεση του ανθρώπου. Στόχος του είναι η κατασκευή συστημάτων τεχνητής νοημοσύνης που μπορούν να μιμηθούν τη διαδικασία της καινοτομίας.

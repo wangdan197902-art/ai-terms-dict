@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /id/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:45:56.161173Z"
 lastmod: "2026-07-18T16:38:07.445357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah dataset yang terdiri dari pasangan pertanyaan-jawaban dari WikiAnswers, digunakan untuk melatih model memahami maksud dan kesetaraan semantik."
 ---
-
 ## Definition
 
 Dataset ini berisi jutaan pasangan pertanyaan-jawaban yang diambil dari platform WikiAnswers yang kini sudah tidak aktif. Dataset ini terutama digunakan untuk melatih model pengambilan passage padat (dense passage retrieval) dan pencocokan semantik. Dengan memanfaatkan

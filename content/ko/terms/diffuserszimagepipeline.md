@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /ko/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:53:20.806813Z"
-lastmod: "2026-07-18T16:38:06.833553Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:53:20.806813Z'
+lastmod: '2026-07-18T16:38:06.833553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "일반적으로 제로샷 또는 특정 아키텍처 구현과 관련된 이미지 생성을 위한 특수화된 Hugging Face Diffusers 파이프라인으로, Z-Axis나 특정 커뮤니티 모델과 연결됩니다."
+source: agnes_llm
+status: published
+language: ko
+description: 일반적으로 제로샷 또는 특정 아키텍처 구현과 관련된 이미지 생성을 위한 특수화된 Hugging Face Diffusers 파이프라인으로,
+  Z-Axis나 특정 커뮤니티 모델과 연결됩니다.
 ---
-
 ## Definition
 
 Hugging Face Diffusers 생태계의 맥락에서 이 용어는 일반적으로 특정 이미지 생성 작업을 위해 설계된 파이프라인 구성 또는 래퍼를 지칭하며, 제로샷 학습을 활용할 가능성이 있습니다.

@@ -1,23 +1,23 @@
 ---
-title: "การรู้จำเสียงพูดอัตโนมัติ"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: การรู้จำเสียงพูดอัตโนมัติ
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /th/terms/automatic_speech_recognition/
-date: "2026-07-18T15:43:26.450015Z"
-lastmod: "2026-07-18T16:38:07.577445Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:43:26.450015Z'
+lastmod: '2026-07-18T16:38:07.577445Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคโนโลยีที่แปลงภาษาพูดเป็นข้อความโดยใช้โมเดลการเรียนรู้เชิงลึก"
+source: agnes_llm
+status: published
+language: th
+description: เทคโนโลยีที่แปลงภาษาพูดเป็นข้อความโดยใช้โมเดลการเรียนรู้เชิงลึก
 ---
-
 ## Definition
 
 การรู้จำเสียงพูดอัตโนมัติ (ASR) หรือที่เรียกว่าspeech-to-text เป็นสาขาย่อยของการประมวลผลเสียงที่ใช้ปัญญาประดิษฐ์ในการถอดสัญญาณเสียงเป็นข้อความเขียน ระบบ ASR สมัยใหม่ใช้โมเดลการเรียนรู้เชิงลึกเพื่อเพิ่มความแม่นยำในการจดจำคำพูดในสภาพแวดล้อมต่างๆ

@@ -1,23 +1,23 @@
 ---
-title: "Học tăng cường"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Học tăng cường
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /vi/terms/reinforcement_learning/
-date: "2026-07-18T15:28:29.211657Z"
-lastmod: "2026-07-18T16:38:07.693642Z"
+slug: reinforcement_learning
+date: '2026-07-18T15:28:29.211657Z'
+lastmod: '2026-07-18T16:38:07.693642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Học tăng cường là một loại hình học máy nơi các tác nhân học cách ra quyết định bằng cách tương tác với môi trường để tối đa hóa phần thưởng."
+source: agnes_llm
+status: published
+language: vi
+description: Học tăng cường là một loại hình học máy nơi các tác nhân học cách ra
+  quyết định bằng cách tương tác với môi trường để tối đa hóa phần thưởng.
 ---
-
 ## Definition
 
 Học tăng cường (RL) là một nhánh của học máy tập trung vào cách các tác nhân thông minh nên thực hiện hành động trong một môi trường để tối đa hóa phần thưởng tích lũy. Không giống như học có giám sát

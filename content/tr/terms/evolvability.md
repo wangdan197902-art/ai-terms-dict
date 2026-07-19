@@ -1,23 +1,24 @@
 ---
-title: "Evrilebilirlik"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Evrilebilirlik
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /tr/terms/evolvability/
-date: "2026-07-18T15:52:41.665523Z"
-lastmod: "2026-07-18T16:38:07.306455Z"
+slug: evolvability
+date: '2026-07-18T15:52:41.665523Z'
+lastmod: '2026-07-18T16:38:07.306455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kalıtsal fenotipik varyasyon üretebilen ve adaptasyon için seçilebilen bir genotip veya sistemin kapasitesi."
+source: agnes_llm
+status: published
+language: tr
+description: Kalıtsal fenotipik varyasyon üretebilen ve adaptasyon için seçilebilen
+  bir genotip veya sistemin kapasitesi.
 ---
-
 ## Definition
 
 Bilişsel bağlamlarda evrilebilirlik, bir algoritmanın veya sinir ağı mimarisinin nesiller veya eğitim adımları boyunca uygunluğunu ne kadar kolay artırabildiğini ifade eder. Yüksek evrilebilirlik, küçük değişikliklerin büyük iyileşmelere yol açabileceği anlamına gelir.

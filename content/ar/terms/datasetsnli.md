@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /ar/terms/datasetsnli/
 date: "2026-07-18T15:52:32.454579Z"
 lastmod: "2026-07-18T17:15:08.493220Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مرجع الاستدلال اللغوي الطبيعي من جامعة ستانفورد، وهو مجموعة بيانات ضخمة من الجمل الإنجليزية المقترنة بتسميات الاستدلال النصي التي كتبها البشر."
 ---
-
 ## Definition
 
 يُعد SNLI مجموعة بيانات معيارية تحتوي على أكثر من 500,000 زوج من الجمل الموسومة بثلاث فئات: الاستدلال (Entailment)، والتناقض (Contradiction)، والمحايد (Neutral). تم إنشاؤه لتعزيز البحث في...

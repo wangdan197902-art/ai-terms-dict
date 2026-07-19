@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /id/terms/stochastic/
 date: "2026-07-18T15:29:49.319360Z"
 lastmod: "2026-07-18T16:38:07.403425Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menggambarkan proses atau model yang melibatkan keacakan dan probabilitas daripada hasil deterministik."
 ---
-
 ## Definition
 
 Elemen stokastik memperkenalkan variasi ke dalam sistem AI, seperti noise dalam data atau inisialisasi bobot secara acak. Berbeda dengan model deterministik, model stokastik memperhitungkan ketidakpastian.

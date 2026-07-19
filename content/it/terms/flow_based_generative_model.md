@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /it/terms/flow_based_generative_model/
 date: "2026-07-18T15:59:52.403918Z"
 lastmod: "2026-07-18T17:15:08.626642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una classe di modelli generativi che utilizza trasformazioni invertibili per mappare distribuzioni semplici a distribuzioni di dati complesse."
 ---
-
 ## Definition
 
 I modelli generativi basati su flussi costruiscono distribuzioni di probabilità complesse applicando una serie di trasformazioni invertibili e differenziabili a una distribuzione base semplice, come una gaussiana. Poiché le trasformazioni sono invertibili,

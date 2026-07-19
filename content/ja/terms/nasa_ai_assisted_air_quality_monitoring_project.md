@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /ja/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T11:25:21.019899Z"
 lastmod: "2026-07-18T11:44:45.125920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能と衛星データを活用して、世界的な大気質パターンを監視・予測するイニシアチブ。"
 ---
-
 ## Definition
 
 このプロジェクトは、NASAの地球観測データと高度なAIアルゴリズムを組み合わせて、全球的な粒子状物質や気体汚染物質を追跡します。衛星画像と地上レベルのデータを統合することで、

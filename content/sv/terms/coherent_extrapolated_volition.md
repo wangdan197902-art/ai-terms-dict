@@ -1,23 +1,24 @@
 ---
-title: "Koherent extrapolerad vilja"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Koherent extrapolerad vilja
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /sv/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:49:22.442304Z"
-lastmod: "2026-07-18T17:15:08.985130Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:49:22.442304Z'
+lastmod: '2026-07-18T17:15:08.985130Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett föreslaget mål för artificiell intelligens där systemet agerar i enlighet med människans förfinade önskningar efter idealiserad resonemangsföring."
+source: agnes_llm
+status: published
+language: sv
+description: Ett föreslaget mål för artificiell intelligens där systemet agerar i
+  enlighet med människans förfinade önskningar efter idealiserad resonemangsföring.
 ---
-
 ## Definition
 
 Koherent Extrapolated Volition (CEV) är ett koncept som introducerades av Eliezer Yudkowsky inom ramen för AI-säkerhet och alignment. Det föreslår att en avancerad AI inte bara ska lyda nuvarande mänskliga kommandon utan istället extrapolera vad människan verkligen vill ha om den tänkte idealiserat.

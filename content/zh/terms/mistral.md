@@ -1,23 +1,23 @@
 ---
-title: "Mistral"
-term_id: "mistral"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "open-source", "LLM"]
+title: Mistral
+term_id: mistral
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Open Source
+- LLM
 difficulty: 3
 weight: 1
-slug: "mistral"
-aliases:
-  - /zh/terms/mistral/
-date: "2026-07-18T11:26:13.148829Z"
-lastmod: "2026-07-18T11:44:45.531916Z"
+slug: mistral
+date: '2026-07-18T11:26:13.148829Z'
+lastmod: '2026-07-18T11:44:45.531916Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由Mistral AI开发的一系列高效开源权重大型语言模型，以高性能和低计算成本著称。"
+source: agnes_llm
+status: published
+language: zh
+description: 由Mistral AI开发的一系列高效开源权重大型语言模型，以高性能和低计算成本著称。
 ---
-
 ## Definition
 
 Mistral指的是由法国初创公司Mistral AI创建的强大开源权重LLM系列。像Mistral 7B和Mistral Large这样的模型利用了先进的滑动窗口注意力机制等技术

@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /tr/terms/proaftn/
-date: "2026-07-18T16:09:48.990884Z"
-lastmod: "2026-07-18T16:38:07.351065Z"
+slug: proaftn
+date: '2026-07-18T16:09:48.990884Z'
+lastmod: '2026-07-18T16:38:07.351065Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Dinamik sistemleri modellemek için kullanılan Olasılıksal İlişkisel Cebirsel Fonksiyonel Zaman Serisi Ağları çerçevesi."
+source: agnes_llm
+status: published
+language: tr
+description: Dinamik sistemleri modellemek için kullanılan Olasılıksal İlişkisel Cebirsel
+  Fonksiyonel Zaman Serisi Ağları çerçevesi.
 ---
-
 ## Definition
 
 Praftn, ilişkisel yapılar içindeki fonksiyonel zaman serisi verilerini işlemek üzere tasarlanmış özel bir hesaplama çerçevesidir. Karmaşık dinamik sistemleri modellemek için olasılıksal çıkarımı cebirsel işlemlerle birleştirir.

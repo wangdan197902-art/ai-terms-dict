@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /id/terms/state/
 date: "2026-07-18T15:29:49.319345Z"
 lastmod: "2026-07-18T16:38:07.403318Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konfigurasi lengkap sistem atau agen pada momen waktu tertentu."
 ---
-
 ## Definition
 
 State mewakili semua informasi relevan yang diperlukan untuk menentukan perilaku masa depan dalam sistem seperti Markov Decision Processes (MDP). Dalam pembelajaran penguatan, state mengenkapsulasi kondisi lingkungan.

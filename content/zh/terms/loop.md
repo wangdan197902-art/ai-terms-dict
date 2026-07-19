@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /zh/terms/loop/
 date: "2026-07-18T10:52:50.832663Z"
 lastmod: "2026-07-18T11:44:45.375819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种编程结构，用于在满足条件之前重复执行一段代码块多次。"
 ---
-
 ## Definition
 
 循环是计算机科学和人工智能开发中的一种基本控制流结构。它允许算法遍历数据集、执行重复计算或运行训练轮次。常见的类型包括for循环和while循环。

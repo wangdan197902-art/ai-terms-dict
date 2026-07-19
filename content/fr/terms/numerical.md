@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /fr/terms/numerical/
 date: "2026-07-18T10:52:14.408740Z"
 lastmod: "2026-07-18T11:44:45.167997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Qui concerne, implique ou utilise des nombres ou des calculs mathématiques plutôt que de la logique symbolique ou du texte."
 ---
-
 ## Definition
 
 Dans le contexte de l'IA et de la science des données, le terme numérique désigne les types de données ou méthodes impliquant des valeurs quantitatives, telles que les entiers, les nombres à virgule flottante et les décimales. Contrairement aux données catégorielles ou textuelles, les données numériques permettent des opérations mathématiques directes.

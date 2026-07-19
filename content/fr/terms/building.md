@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /fr/terms/building/
 date: "2026-07-18T10:49:02.473113Z"
 lastmod: "2026-07-18T11:44:45.159609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La phase pratique de développement, d'entraînement et de déploiement des modèles et systèmes d'IA, de la conception initiale à la mise en production."
 ---
-
 ## Definition
 
 La construction fait référence au processus d'ingénierie de bout en bout de la création de solutions d'IA, incluant la collecte de données, la sélection du modèle, l'entraînement, la validation et le déploiement. Elle englobe l'infrastructure technique nécessaire.

@@ -1,23 +1,24 @@
 ---
-title: "تعليق البيانات"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: تعليق البيانات
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /ar/terms/data_annotation/
-date: "2026-07-18T15:51:00.500550Z"
-lastmod: "2026-07-18T17:15:08.489913Z"
+slug: data_annotation
+date: '2026-07-18T15:51:00.500550Z'
+lastmod: '2026-07-18T17:15:08.489913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تعليق البيانات هو عملية وضع تسميات على البيانات الخام، مثل الصور أو النصوص، لجعلها مناسبة للتدريب في التعلم الآلي الخاضع للإشراف."
+source: agnes_llm
+status: published
+language: ar
+description: تعليق البيانات هو عملية وضع تسميات على البيانات الخام، مثل الصور أو النصوص،
+  لجعلها مناسبة للتدريب في التعلم الآلي الخاضع للإشراف.
 ---
-
 ## Definition
 
 تشمل هذه الخطوة الحرجة إرفاق بيانات وصفية ذات معنى بنقاط البيانات الخام حتى تتمكن الخوارزميات من تعلم العلاقة بين المدخلات والمخرجات. على سبيل المثال، تحديد صناديق حدودية حول الكائنات في الصور لتدريب نماذج الكشف.

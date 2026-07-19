@@ -1,23 +1,24 @@
 ---
-title: "アテンション"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: アテンション
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /ja/terms/attention/
-date: "2026-07-18T10:58:09.854597Z"
-lastmod: "2026-07-18T11:44:45.030838Z"
+slug: attention
+date: '2026-07-18T10:58:09.854597Z'
+lastmod: '2026-07-18T11:44:45.030838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューラルネットワークが入力シーケンスの異なる部分の重要度を動的に重み付けできるようにする機構。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューラルネットワークが入力シーケンスの異なる部分の重要度を動的に重み付けできるようにする機構。
 ---
-
 ## Definition
 
 アテンション機構により、モデルは特にテキストのような逐次データを処理する際に、関連情報に焦点を当てることができます。アテンションスコアを計算することで、モデルはどの要素が現在の出力に最も寄与するかを決定します。

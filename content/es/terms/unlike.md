@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /es/terms/unlike/
 date: "2026-07-18T10:27:37.326724Z"
 lastmod: "2026-07-18T11:44:44.754214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un operador lógico utilizado en SQL y programación para filtrar registros que no coinciden con una condición especificada."
 ---
-
 ## Definition
 
 En la consulta de bases de datos y la lógica, 'DIFERENTE DE' suele referirse al operador NOT LIKE, que realiza coincidencia de patrones a la inversa. Devuelve verdadero para las filas donde el valor de la columna no se ajusta al patrón especificado.

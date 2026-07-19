@@ -1,23 +1,25 @@
 ---
-title: "ИИ с ограниченной памятью"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: ИИ с ограниченной памятью
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /ru/terms/limited_memory_ai/
-date: "2026-07-18T16:01:25.233307Z"
-lastmod: "2026-07-18T16:38:07.175153Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:01:25.233307Z'
+lastmod: '2026-07-18T16:38:07.175153Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Системы ИИ, способные хранить прошлые данные и опыт для информирования будущих решений, составляющие основу большинства современных приложений машинного обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Системы ИИ, способные хранить прошлые данные и опыт для информирования
+  будущих решений, составляющие основу большинства современных приложений машинного
+  обучения.
 ---
-
 ## Definition
 
 ИИ с ограниченной памятью представляет собой второй уровень возможностей ИИ, где системы могут учиться на исторических данных и соответствующим образом корректировать свое поведение. В отличие от реактивных машин, эти системы сохраняют информацию о предыдущих состояниях и действиях, позволяя им принимать более обоснованные решения на основе накопленного опыта, например, прогнозируя будущие события на основе прошлых трендов.

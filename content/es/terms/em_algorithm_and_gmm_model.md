@@ -1,23 +1,25 @@
 ---
-title: "Algoritmo EM y modelo GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: Algoritmo EM y modelo GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /es/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T10:47:56.651749Z"
-lastmod: "2026-07-18T11:44:44.800809Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T10:47:56.651749Z'
+lastmod: '2026-07-18T11:44:44.800809Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El algoritmo de Maximización de la Esperanza (EM) es un método iterativo para encontrar estimaciones de máxima verosimilitud en modelos estadísticos con variables latentes, utilizado comúnmente para a"
+source: agnes_llm
+status: published
+language: es
+description: El algoritmo de Maximización de la Esperanza (EM) es un método iterativo
+  para encontrar estimaciones de máxima verosimilitud en modelos estadísticos con
+  variables latentes, utilizado comúnmente para a
 ---
-
 ## Definition
 
 Este término se refiere a la relación sinérgica entre el algoritmo de Maximización de la Esperanza (EM) y los Modelos de Mezcla Gaussiana (GMM). Un GMM asume que todos los puntos de datos se generan a partir de una mezcla

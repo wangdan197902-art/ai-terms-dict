@@ -1,23 +1,25 @@
 ---
-title: "Κρυπτογράφηση (Caching)"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Κρυπτογράφηση (Caching)
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /el/terms/caching/
-date: "2026-07-18T15:54:29.363201Z"
-lastmod: "2026-07-18T17:15:09.887309Z"
+slug: caching
+date: '2026-07-18T15:54:29.363201Z'
+lastmod: '2026-07-18T17:15:09.887309Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το Caching είναι μια τεχνική αποθήκευσης συχνά προσπελάσιμων δεδομένων σε ένα προσωρινό, υψηλής ταχύτητας στρώμα αποθήκευσης, με στόχο τη μείωση της καθυστέρησης και τη μείωση του φόρτου στις πρωτεύου"
+source: agnes_llm
+status: published
+language: el
+description: Το Caching είναι μια τεχνική αποθήκευσης συχνά προσπελάσιμων δεδομένων
+  σε ένα προσωρινό, υψηλής ταχύτητας στρώμα αποθήκευσης, με στόχο τη μείωση της καθυστέρησης
+  και τη μείωση του φόρτου στις πρωτεύου
 ---
-
 ## Definition
 
 Στην μηχανική ΤΝ, το caching βελτιστοποιεί τις επιδόσεις διατηρώντας πρόσφατα ή συχνά αποτελέσματα ερωτημάτων, προβλέψεις μοντέλων ή ενδιάμεσους υπολογισμούς σε γρήγορη μνήμη (όπως RAM). Αυτό μειώνει την ανάγκη για ακριβούς υπολογισμούς ή πρόσβαση σε βάσεις δεδομένων.

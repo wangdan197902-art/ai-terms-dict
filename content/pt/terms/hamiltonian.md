@@ -1,23 +1,24 @@
 ---
-title: "Hamiltoniano"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: Hamiltoniano
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /pt/terms/hamiltonian/
-date: "2026-07-18T14:36:07.232411Z"
-lastmod: "2026-07-18T15:51:59.432024Z"
+slug: hamiltonian
+date: '2026-07-18T14:36:07.232411Z'
+lastmod: '2026-07-18T15:51:59.432024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma função que representa a energia total de um sistema, usada em modelos de IA inspirados na física para simular dinâmicas e conservar energia."
+source: agnes_llm
+status: published
+language: pt
+description: Uma função que representa a energia total de um sistema, usada em modelos
+  de IA inspirados na física para simular dinâmicas e conservar energia.
 ---
-
 ## Definition
 
 Originário da mecânica clássica, o hamiltoniano representa a soma das energias cinética e potencial em um sistema. Em IA, as Redes Neurais Hamiltonianas (HNNs) incorporam esse conceito para aprender dinâmicas...

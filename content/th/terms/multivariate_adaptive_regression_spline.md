@@ -1,23 +1,23 @@
 ---
-title: "สไปน์การถดถอยปรับตัวได้หลายตัวแปร"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: สไปน์การถดถอยปรับตัวได้หลายตัวแปร
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /th/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:06:39.780481Z"
-lastmod: "2026-07-18T16:38:07.635047Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:06:39.780481Z'
+lastmod: '2026-07-18T16:38:07.635047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการถดถอยแบบไม่ใช้พารามิเตอร์ที่เลือกฟังก์ชันฐานโดยอัตโนมัติเพื่อสร้างความสัมพันธ์ที่ซับซ้อน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการถดถอยแบบไม่ใช้พารามิเตอร์ที่เลือกฟังก์ชันฐานโดยอัตโนมัติเพื่อสร้างความสัมพันธ์ที่ซับซ้อน
 ---
-
 ## Definition
 
 สไปน์การถดถอยปรับตัวได้หลายตัวแปร (MARS) เป็นวิธีการถดถอยที่ยืดหยุ่นซึ่งสร้างแบบจำลองความสัมพันธ์ที่ไม่เป็นเชิงเส้นที่ซับซ้อนโดยการปรับฟังก์ชันฐานเชิงเส้นเป็นช่วงๆ มันจะเลือกจุดเปลี่ยน (knots) ที่เหมาะสมโดยอัตโนมัติ

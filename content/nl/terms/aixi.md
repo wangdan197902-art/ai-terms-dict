@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /nl/terms/aixi/
 date: "2026-07-18T15:40:53.944728Z"
 lastmod: "2026-07-18T17:15:08.713754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "AIXI is een wiskundige theorie over algemene kunstmatige intelligentie die een optimale agent modelleert die met zijn omgeving interageert."
 ---
-
 ## Definition
 
 AIXI is een theoretisch kader dat door Marcus Hutter is voorgesteld en een geïdealiseerde intelligente agent definieert. Het combineert Solomonoff-inductie voor het voorspellen van de omgeving met versterkingsleren (reinforcement learning) voor het maken van beslissingen die de verwachte beloning maximaliseren.

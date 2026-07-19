@@ -1,23 +1,23 @@
 ---
-title: "การเขียนใหม่ด้วยคำอื่น"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: การเขียนใหม่ด้วยคำอื่น
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /th/terms/paraphrasing/
-date: "2026-07-18T16:10:23.106720Z"
-lastmod: "2026-07-18T16:38:07.640170Z"
+slug: paraphrasing
+date: '2026-07-18T16:10:23.106720Z'
+lastmod: '2026-07-18T16:38:07.640170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "งานด้านประมวลผลภาษาธรรมชาติ (NLP) ที่เกี่ยวข้องกับการเขียนข้อความใหม่เพื่อสื่อความหมายเดิมโดยใช้คำหรือโครงสร้างประโยคที่แตกต่างกัน"
+source: agnes_llm
+status: published
+language: th
+description: งานด้านประมวลผลภาษาธรรมชาติ (NLP) ที่เกี่ยวข้องกับการเขียนข้อความใหม่เพื่อสื่อความหมายเดิมโดยใช้คำหรือโครงสร้างประโยคที่แตกต่างกัน
 ---
-
 ## Definition
 
 การเขียนใหม่ด้วยคำอื่นในบริบทของการประมวลผลภาษาธรรมชาติ หมายถึงการสร้างรูปแบบการแสดงออกทางเลือกสำหรับข้อความต้นฉบับ โดยคงความหมายดั้งเดิมไว้ การทำสิ่งนี้มีความสำคัญต่อการลดการคัดลอกผลงานและการปรับปรุงคุณภาพเนื้อหา

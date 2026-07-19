@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /id/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T15:59:34.770354Z"
 lastmod: "2026-07-18T16:38:07.481284Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fungsi matematika berbasis pembelajaran mesin yang memprediksi gaya dan energi antar atom, berfungsi sebagai pengganti perhitungan mekanika kuantum yang mahal."
 ---
-
 ## Definition
 
 Potensi-potensi ini memungkinkan simulasi dinamika molekuler dengan akurasi mendekati kuantum namun dengan kecepatan komputasi klasik. Dengan melatihnya pada data berketelitian tinggi dari teori fungsi kerapatan (DFT), potensi ini memungkinkan...

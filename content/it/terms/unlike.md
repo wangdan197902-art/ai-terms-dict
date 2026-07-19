@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /it/terms/unlike/
 date: "2026-07-18T15:30:55.384725Z"
 lastmod: "2026-07-18T17:15:08.577455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un operatore logico utilizzato in SQL e nella programmazione per filtrare i record che non corrispondono a una condizione specifica."
 ---
-
 ## Definition
 
 Nelle query di database e nella logica, 'Unlike' si riferisce tipicamente all'operatore NOT LIKE, che esegue il matching di pattern al contrario. Restituisce true per le righe in cui il valore della colonna non corrisponde al modello specificato.

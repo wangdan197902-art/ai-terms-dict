@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /de/terms/bert/
 date: "2026-07-18T11:05:59.512686Z"
 lastmod: "2026-07-18T11:44:44.914982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bidirektionale Encoder-Darstellungen aus Transformern ist ein vortrainiertes Modell für die natürliche Sprachverarbeitung."
 ---
-
 ## Definition
 
 BERT (Bidirectional Encoder Representations from Transformers) ist eine von Google entwickelte, auf Transformern basierende Methode des maschinellen Lernens für das Pretraining in der natürlichen Sprachverarbeitung (NLP). Es nutzt maskierte Sprachmodellierung und die Vorhersage des nächsten Satzes, um bidirektionale Darstellungen zu erlernen.

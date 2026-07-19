@@ -1,23 +1,24 @@
 ---
-title: "差分プライベート確率的勾配降下法"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: 差分プライベート確率的勾配降下法
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /ja/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T11:12:11.297142Z"
-lastmod: "2026-07-18T11:44:45.090806Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T11:12:11.297142Z'
+lastmod: '2026-07-18T11:44:45.090806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "標準的なSGDを修正し、勾配のクリッピングとノイズの付加を行うことで、学習済みモデルが差分プライバシーの制約を満たすようにする最適化アルゴリズム。"
+source: agnes_llm
+status: published
+language: ja
+description: 標準的なSGDを修正し、勾配のクリッピングとノイズの付加を行うことで、学習済みモデルが差分プライバシーの制約を満たすようにする最適化アルゴリズム。
 ---
-
 ## Definition
 
 DP-SGDは、トレーニングデータのプライバシーを保護するために設計された確率的勾配降下法（SGD）のバリアントです。各サンプルの勾配寄与をクリップして感度を制限し、その後ガウスノイズなどを加えることで動作します。

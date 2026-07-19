@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /el/terms/gpt2/
 date: "2026-07-18T16:10:50.233527Z"
 lastmod: "2026-07-18T17:15:09.914026Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Το GPT-2 είναι ένα γλώσσας μοντέλο βασισμένο σε αρχιτεκτονική transformer μεγάλης κλίμακας, που αναπτύχθηκε από την OpenAI για τη δημιουργία και κατανόηση κειμένου."
 ---
-
 ## Definition
 
 Το Generative Pre-trained Transformer 2 (GPT-2) είναι ένα αυτοσυναφές γλωσσικό μοντέλο που χρησιμοποιεί την αρχιτεκτονική transformer για να παράγει κείμενο παρόμοιο με αυτό των ανθρώπων. Εκπαιδεύτηκε σε τεράστιο σύνολο δεδομένων διαδικτυακού κειμένου.

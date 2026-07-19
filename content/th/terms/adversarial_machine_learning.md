@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /th/terms/adversarial_machine_learning/
 date: "2026-07-18T15:39:46.151663Z"
 lastmod: "2026-07-18T16:38:07.571308Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การเรียนรู้ของเครื่องแบบ Adversarial เป็นสาขาที่ศึกษาวิธีการทำให้โมเดลแมชชีนเลิร์นนิงมีความทนทานต่อข้อมูลที่เป็นอันตรายซึ่งถูกออกแบบมาเพื่อหลอกลวงโมเดล"
 ---
-
 ## Definition
 
 สาขานี้ครอบคลุมทั้งเทคนิคเชิงรุกเพื่อทำลายโมเดลและกลยุทธ์เชิงรับเพื่อเสริมความแข็งแกร่งให้โมเดล เกี่ยวข้องกับการฝึกโมเดลด้วยตัวอย่าง Adversarial เพื่อปรับปรุงความทนทาน ซึ่งเป็นกระบวนการที่รู้จักกันในชื่อการฝึกฝนแบบ Adversarial

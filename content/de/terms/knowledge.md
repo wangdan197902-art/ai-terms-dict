@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /de/terms/knowledge/
 date: "2026-07-18T10:50:53.396166Z"
 lastmod: "2026-07-18T11:44:44.876665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Wissen ist das strukturierte Verständnis, Fakten, Fähigkeiten und Erkenntnisse, die aus Informationen, Erfahrung oder Schlussfolgerungen abgeleitet werden und effektive Entscheidungsfindung ermögliche"
 ---
-
 ## Definition
 
 In der KI bezieht sich Wissen oft auf explizite Informationen, die in Datenbanken, Ontologien oder neuronalen Netzwerkgewichten gespeichert sind und Schlussfolgerungen ermöglichen. Es steht über der Information in der DIKW-Hierarchie...

@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /id/terms/multi_agent/
 date: "2026-07-18T15:32:19.696993Z"
 lastmod: "2026-07-18T16:38:07.409089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Arsitektur sistem di mana beberapa agen otonom berinteraksi dalam suatu lingkungan untuk mencapai tujuan individu atau kolektif."
 ---
-
 ## Definition
 
 Sistem multi-agent terdiri dari beberapa entitas independen dan cerdas yang mempersepsikan lingkungannya, membuat keputusan, dan bertindak berdasarkan hal tersebut. Agen-agen ini dapat bekerja sama, bersaing, atau bernegosiasi satu sama lain.

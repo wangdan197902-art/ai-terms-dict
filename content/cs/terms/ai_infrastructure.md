@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /cs/terms/ai_infrastructure/
 date: "2026-07-18T15:40:03.221632Z"
 lastmod: "2026-07-18T17:15:09.097000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Hardwarové, softwarové a síťové zdroje potřebné k vývoji, tréninku a nasazení modelů umělé inteligence ve velkém měřítku."
 ---
-
 ## Definition
 
 Infrastruktura AI zahrnuje základní technologický stack nezbytný pro provoz umělé inteligence. To zahrnuje hardwar pro vysoký výkon, jako jsou GPU a TPU, cloudové úložiště dat, vysokorychlostní sítě a nástroje pro správu životního cyklu modelů.

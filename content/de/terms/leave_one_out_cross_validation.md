@@ -1,23 +1,25 @@
 ---
-title: "Leave-One-Out-Cross-Validation"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Leave-One-Out-Cross-Validation
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /de/terms/leave_one_out_cross_validation/
-date: "2026-07-18T11:21:34.994988Z"
-lastmod: "2026-07-18T11:44:44.958183Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T11:21:34.994988Z'
+lastmod: '2026-07-18T11:44:44.958183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine strenge Resampling-Technik, bei der das Modell mit allen bis auf eine Stichprobe trainiert und mit dieser einzelnen zurückgehaltenen Stichprobe getestet wird, wobei dieser Vorgang für jeden Daten"
+source: agnes_llm
+status: published
+language: de
+description: Eine strenge Resampling-Technik, bei der das Modell mit allen bis auf
+  eine Stichprobe trainiert und mit dieser einzelnen zurückgehaltenen Stichprobe getestet
+  wird, wobei dieser Vorgang für jeden Daten
 ---
-
 ## Definition
 
 Die Leave-One-Out-Cross-Validation (LOOCV) ist ein spezieller Fall der k-Fold-Cross-Validation, bei dem k gleich der Anzahl der Stichproben im Datensatz ist. Sie liefert eine nahezu unverzerrte Schätzung der Modellleistung, indem...

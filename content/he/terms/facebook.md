@@ -1,23 +1,24 @@
 ---
-title: "פייסבוק"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: פייסבוק
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /he/terms/facebook/
-date: "2026-07-18T15:57:04.370889Z"
-lastmod: "2026-07-18T17:15:09.539565Z"
+slug: facebook
+date: '2026-07-18T15:57:04.370889Z'
+lastmod: '2026-07-18T17:15:09.539565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פלטפורמת מדיה חברתית וחברת טכנולוגיה מובילה המשפיעה משמעותית על פיתוח בינה מלאכותית באמצעות מחקר בקוד פתוח ואקוסיסטמות נתונים בקנה מידה גדול."
+source: agnes_llm
+status: published
+language: he
+description: פלטפורמת מדיה חברתית וחברת טכנולוגיה מובילה המשפיעה משמעותית על פיתוח
+  בינה מלאכותית באמצעות מחקר בקוד פתוח ואקוסיסטמות נתונים בקנה מידה גדול.
 ---
-
 ## Definition
 
 פייסבוק, כיום חלק מ-Meta Platforms Inc., היא כוח מוביל במחקר ויישום של בינה מלאכותית. היא מאחסנת כמויות עצומות של נתונים שנוצרו על ידי משתמשים המשמשים לאימון מודלים למידת מכונה.

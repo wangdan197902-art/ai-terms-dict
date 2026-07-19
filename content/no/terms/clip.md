@@ -1,23 +1,25 @@
 ---
-title: "Klippning"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Klippning
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /no/terms/clip/
-date: "2026-07-18T15:46:09.508583Z"
-lastmod: "2026-07-18T16:38:06.980288Z"
+slug: clip
+date: '2026-07-18T15:46:09.508583Z'
+lastmod: '2026-07-18T16:38:06.980288Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Klippning er en teknikk brukt til å begrense størrelsen på verdier, slik som gradienter eller utgangssannsynligheter, for å forhindre numerisk ustabilitet under trening."
+source: agnes_llm
+status: published
+language: 'no'
+description: Klippning er en teknikk brukt til å begrense størrelsen på verdier, slik
+  som gradienter eller utgangssannsynligheter, for å forhindre numerisk ustabilitet
+  under trening.
 ---
-
 ## Definition
 
 Innen dyp læringsteknikk brukes klippning vanligvis på gradienter for å dempe problemet med eksploderende gradienter, noe som sikrer stabil tilbakepropagasjon. Det kan også referere til å begrense utgangslogitter før

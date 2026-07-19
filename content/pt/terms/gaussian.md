@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /pt/terms/gaussian/
 date: "2026-07-18T14:35:24.459033Z"
 lastmod: "2026-07-18T15:51:59.430311Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Relativo à distribuição normal, uma curva em forma de sino fundamental para estatísticas e modelagem de ruído em IA."
 ---
-
 ## Definition
 
 Gaussiano refere-se à distribuição normal, uma distribuição de probabilidade contínua caracterizada por sua média e variância. Em IA, é amplamente utilizado em modelagem probabilística, inferência bayesiana, a

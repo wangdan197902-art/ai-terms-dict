@@ -1,23 +1,23 @@
 ---
-title: "Pochodzenie treści"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Pochodzenie treści
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /pl/terms/content_provenance/
-date: "2026-07-18T15:47:09.988198Z"
-lastmod: "2026-07-18T17:15:08.857367Z"
+slug: content_provenance
+date: '2026-07-18T15:47:09.988198Z'
+lastmod: '2026-07-18T17:15:08.857367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Weryfikowalny zapis pochodzenia, historii i własności zasobu cyfrowego."
+source: agnes_llm
+status: published
+language: pl
+description: Weryfikowalny zapis pochodzenia, historii i własności zasobu cyfrowego.
 ---
-
 ## Definition
 
 Pochodzenie treści odnosi się do dokumentowania i weryfikacji tego, skąd pochodzi treść cyfrowa, jak została stworzona oraz kto ją modyfikował w czasie. W kontekście sztucznej inteligencji jest to kluczowe dla zwalczania dezinformacji i deepfake'ów.

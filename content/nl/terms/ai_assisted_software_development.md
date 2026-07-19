@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /nl/terms/ai_assisted_software_development/
 date: "2026-07-18T15:40:31.922964Z"
 lastmod: "2026-07-18T17:15:08.713458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het gebruik van AI-tools om de productiviteit te verhogen bij coderen, foutopsporing, testen en ontwerpprocessen."
 ---
-
 ## Definition
 
 AI-ondersteunde softwareontwikkeling houdt in dat machine learning-modellen worden ingezet om ontwikkelaars te ondersteunen bij het schrijven van code, het identificeren van bugs, het genereren van tests en het optimaliseren van prestaties. Tools zoals GitHub Copilot zijn hier voorbeelden van.

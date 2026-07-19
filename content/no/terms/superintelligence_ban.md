@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /no/terms/superintelligence_ban/
 date: "2026-07-18T16:17:52.295353Z"
 lastmod: "2026-07-18T16:38:07.050961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et forslag til regulatorisk tiltak eller etisk standpunkt som går inn for å forby utviklingen av kunstig generell intelligens som overstiger menneskelige kognitive evner."
 ---
-
 ## Definition
 
 Dette begrepet refererer til debatten og potensielle politikk vedrørende begrensning eller fullstendig stopp av forskning i kunstig superintelligens (ASI). Tilhengere argumenterer for at ASI utgjør eksistensielle risikoer.

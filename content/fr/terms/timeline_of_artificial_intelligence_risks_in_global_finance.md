@@ -1,23 +1,24 @@
 ---
-title: "Chronologie des risques de l'intelligence artificielle dans la finance mondiale"
-term_id: "timeline_of_artificial_intelligence_risks_in_global_finance"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "risk_management", "history"]
+title: Chronologie des risques de l'intelligence artificielle dans la finance mondiale
+term_id: timeline_of_artificial_intelligence_risks_in_global_finance
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Risk Management
+- history
 difficulty: 4
 weight: 1
-slug: "timeline_of_artificial_intelligence_risks_in_global_finance"
-aliases:
-  - /fr/terms/timeline_of_artificial_intelligence_risks_in_global_finance/
-date: "2026-07-18T11:41:39.526288Z"
-lastmod: "2026-07-18T11:44:45.348185Z"
+slug: timeline_of_artificial_intelligence_risks_in_global_finance
+date: '2026-07-18T11:41:39.526288Z'
+lastmod: '2026-07-18T11:44:45.348185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un cadre chronologique suivant l'émergence, l'escalade et l'atténuation des risques systémiques liés à l'IA au sein des marchés financiers internationaux."
+source: agnes_llm
+status: published
+language: fr
+description: Un cadre chronologique suivant l'émergence, l'escalade et l'atténuation
+  des risques systémiques liés à l'IA au sein des marchés financiers internationaux.
 ---
-
 ## Definition
 
 Ce concept désigne la séquence historique et projetée d'événements où les technologies de l'intelligence artificielle introduisent des vulnérabilités dans les systèmes financiers mondiaux. Il englobe les premières algorithmisations...

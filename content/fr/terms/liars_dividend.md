@@ -1,23 +1,25 @@
 ---
-title: "Dividende du menteur"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: Dividende du menteur
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /fr/terms/liars_dividend/
-date: "2026-07-18T11:25:42.850218Z"
-lastmod: "2026-07-18T11:44:45.284361Z"
+slug: liars_dividend
+date: '2026-07-18T11:25:42.850218Z'
+lastmod: '2026-07-18T11:44:45.284361Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le phénomène par lequel l'existence de deepfakes et de médias générés par l'IA permet aux acteurs malveillants de rejeter des preuves authentiques de leurs actes répréhensibles comme étant fausses."
+source: agnes_llm
+status: published
+language: fr
+description: Le phénomène par lequel l'existence de deepfakes et de médias générés
+  par l'IA permet aux acteurs malveillants de rejeter des preuves authentiques de
+  leurs actes répréhensibles comme étant fausses.
 ---
-
 ## Definition
 
 Le dividende du menteur désigne le risque sociétal posé par l'IA générative avancée, en particulier les deepfakes. À mesure que les médias synthétiques deviennent indiscernables de la réalité, les individus malintentionnés peuvent prétendre que des preuves réelles de leur comportement illicite sont en fait des fabrications.

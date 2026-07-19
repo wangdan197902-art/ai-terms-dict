@@ -1,23 +1,23 @@
 ---
-title: "nyílt súlyú"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: nyílt súlyú
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /hu/terms/open_weight/
-date: "2026-07-18T15:36:17.217419Z"
-lastmod: "2026-07-18T17:15:09.736879Z"
+slug: open_weight
+date: '2026-07-18T15:36:17.217419Z'
+lastmod: '2026-07-18T17:15:09.736879Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyan AI modellek, ahol a betanított paramétereket (súlyokat) közzéteszik, de a képzési kód és az adatbázis maradhat zárt."
+source: agnes_llm
+status: published
+language: hu
+description: Olyan AI modellek, ahol a betanított paramétereket (súlyokat) közzéteszik,
+  de a képzési kód és az adatbázis maradhat zárt.
 ---
-
 ## Definition
 
 A nyílt súlyú modellek eltérnek a teljesen nyílt forráskódú AI-tól, mivel csak a végleges, megtanult paramétereket teszik közzé, nem feltétlenül a létrehozásukhoz használt infrastruktúrát vagy adatokat. Ez lehetővé teszi a felhasználók számára, hogy futtassák az inf

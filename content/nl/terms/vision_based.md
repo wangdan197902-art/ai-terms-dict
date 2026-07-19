@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /nl/terms/vision_based/
 date: "2026-07-18T15:34:54.158658Z"
 lastmod: "2026-07-18T17:15:08.701401Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Systemen die primair vertrouwen op visuele gegevensinput om de wereld waar te nemen en ermee te interacteren."
 ---
-
 ## Definition
 
 Visie-gebaseerde paradigma's maken gebruik van camera's en beeldverwerkingsalgoritmen om zinvolle informatie uit visuele scènes te halen. Deze systemen zijn fundamenteel in robotica, autonoom rijden en augmented...

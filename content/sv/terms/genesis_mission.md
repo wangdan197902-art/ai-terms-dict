@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /sv/terms/genesis_mission/
 date: "2026-07-18T15:59:38.407704Z"
 lastmod: "2026-07-18T17:15:09.007001Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En organisationsinitiativ fokuserat på att etablera grundläggande AI-principer, infrastruktur och etiska riktlinjer för framtida utveckling av generativ AI."
 ---
-
 ## Definition
 
 Genesisuppdraget syftar vanligtvis på en strategisk fas eller projekt inom en organisation som syftar till att lägga grunden för avancerade AI-kapaciteter. Detta innebär att sätta upp kärninfrastruktur, definiera...

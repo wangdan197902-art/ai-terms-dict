@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /de/terms/wumpus_world/
 date: "2026-07-18T11:38:40.576255Z"
 lastmod: "2026-07-18T11:44:45.000300Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine klassische künstliche Intelligenz-Umgebung, die verwendet wird, um Schlussfolgerungen unter Unsicherheit und partieller Beobachtbarkeit zu demonstrieren."
 ---
-
 ## Definition
 
 Die Wumpus-Welt ist eine gitterbasierte Umgebung, die im KI-Lehrbuch von Russell und Norvig eingeführt wurde. Ein Agent muss das Gitter navigieren, um Gold zu finden, während er Fallen (Gruben) und einen Wumpus-Monster vermeidet. Der Agent nimmt Wahrnehmungen wahr,

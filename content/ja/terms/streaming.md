@@ -1,23 +1,23 @@
 ---
-title: "ストリーミング"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: ストリーミング
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /ja/terms/streaming/
-date: "2026-07-18T11:33:33.767234Z"
-lastmod: "2026-07-18T11:44:45.147824Z"
+slug: streaming
+date: '2026-07-18T11:33:33.767234Z'
+lastmod: '2026-07-18T11:44:45.147824Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "大量の静的バッチではなく、到着するたびに小さなチャンクで情報を継続的に処理するデータ処理パラダイム。"
+source: agnes_llm
+status: published
+language: ja
+description: 大量の静的バッチではなく、到着するたびに小さなチャンクで情報を継続的に処理するデータ処理パラダイム。
 ---
-
 ## Definition
 
 ストリーミングとは、データが生成される際にリアルタイムまたはニアリアルタイムで継続的に取り込み、処理することを指します。固定されたデータセットを扱うバッチ処理とは異なり、ストリーミングシステムは境界のないデータフローを管理し、低遅延での応答を実現します。

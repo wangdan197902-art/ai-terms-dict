@@ -1,23 +1,24 @@
 ---
-title: "Propagarea așteptării"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: Propagarea așteptării
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /ro/terms/expectation_propagation/
-date: "2026-07-18T15:57:38.200148Z"
-lastmod: "2026-07-18T17:15:09.654111Z"
+slug: expectation_propagation
+date: '2026-07-18T15:57:38.200148Z'
+lastmod: '2026-07-18T17:15:09.654111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un algoritm de inferență aproximativă utilizat pentru a estima distribuțiile posterioare în modele grafice probabilistice complexe."
+source: agnes_llm
+status: published
+language: ro
+description: Un algoritm de inferență aproximativă utilizat pentru a estima distribuțiile
+  posterioare în modele grafice probabilistice complexe.
 ---
-
 ## Definition
 
 Propagarea Așteptării (EP) aproximează integralele intratabile rafinând iterativ aproximațiile gaussiene ale distribuției posterioare reale. Minimizează divergența Kullback-Leibler între distribuția aproximativă și cea reală, oferind o estimare precisă a parametrilor.

@@ -1,23 +1,23 @@
 ---
-title: "残差接続"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: 残差接続
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /ja/terms/residual_connection/
-date: "2026-07-18T11:00:34.091819Z"
-lastmod: "2026-07-18T11:44:45.057241Z"
+slug: residual_connection
+date: '2026-07-18T11:00:34.091819Z'
+lastmod: '2026-07-18T11:44:45.057241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "勾配の伝播を促進するため、層の入力を直接出力に追加するメカニズム。"
+source: agnes_llm
+status: published
+language: ja
+description: 勾配の伝播を促進するため、層の入力を直接出力に追加するメカニズム。
 ---
-
 ## Definition
 
 スキップ接続とも呼ばれる残差接続は、入力を後の層の出力に直接加えることで、ネットワーク内を勾配が流れることを可能にします。このアーキテクチャは、深いネットワークにおける勾配消失問題を解決します。

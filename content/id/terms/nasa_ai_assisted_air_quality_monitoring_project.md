@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /id/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:01:49.139630Z"
 lastmod: "2026-07-18T16:38:07.486772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Inisiatif yang memanfaatkan kecerdasan buatan dan data satelit untuk memantau dan memprediksi pola kualitas udara global."
 ---
-
 ## Definition
 
 Proyek ini memanfaatkan data pengamatan Bumi NASA yang dikombinasikan dengan algoritma AI canggih untuk melacak partikel debu dan polutan gas secara global. Dengan mengintegrasikan citra satelit dengan data tingkat tanah, proyek ini memberikan wawasan yang lebih akurat tentang distribusi polusi dan dampaknya terhadap lingkungan serta kesehatan manusia.

@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /no/terms/knowledge_integration/
 date: "2026-07-18T16:01:39.338890Z"
 lastmod: "2026-07-18T16:38:07.016296Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å kombinere heterogene kunnskapskilder til en enhetlig, konsistent representasjon for forbedret resonnement."
 ---
-
 ## Definition
 
 Kunnskapsintegrering innebærer å slå sammen data fra ulike kilder, som databaser, ontologier og ustrukturert tekst, til et sammenhengende skjema. Det adresserer problemer med semantisk heterogenitet og inkonsistens.

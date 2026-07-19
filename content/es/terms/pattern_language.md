@@ -1,23 +1,24 @@
 ---
-title: "Lenguaje de Patrones"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: Lenguaje de Patrones
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /es/terms/pattern_language/
-date: "2026-07-18T11:03:24.572838Z"
-lastmod: "2026-07-18T11:44:44.841458Z"
+slug: pattern_language
+date: '2026-07-18T11:03:24.572838Z'
+lastmod: '2026-07-18T11:44:44.841458Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una colección estructurada de soluciones de diseño interconectadas que abordan problemas recurrentes en la arquitectura de software o sistemas."
+source: agnes_llm
+status: published
+language: es
+description: Una colección estructurada de soluciones de diseño interconectadas que
+  abordan problemas recurrentes en la arquitectura de software o sistemas.
 ---
-
 ## Definition
 
 Un Lenguaje de Patrones es un marco formalizado compuesto por un conjunto de soluciones probadas para problemas comunes encontrados en el diseño, particularmente en ingeniería de software y planificación urbana. Cada patrón describe...

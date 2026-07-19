@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /de/terms/personoid/
 date: "2026-07-18T11:27:33.463886Z"
 lastmod: "2026-07-18T11:44:44.974985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein humanoider Roboter oder Softwareagent, der darauf ausgelegt ist, das physische Erscheinungsbild oder den Konversationsstil des Menschen nachzuahmen, um eine natürliche Interaktion zu erleichtern."
 ---
-
 ## Definition
 
 Ein Personoid ist eine Entität, entweder robotisch oder virtuell, die so konstruiert ist, dass sie einem Menschen ähnelt oder sich wie ein Mensch verhält. In der Robotik beinhaltet dies physische Anthropomorphie, während es in der KI oft Chatbots oder vi

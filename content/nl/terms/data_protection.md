@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /nl/terms/data_protection/
 date: "2026-07-18T15:35:38.063462Z"
 lastmod: "2026-07-18T17:15:08.702995Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het beveiligen van gevoelige informatie tegen ongeautoriseerde toegang, corruptie of diefstal gedurende de hele levenscyclus."
 ---
-
 ## Definition
 
 Gegevensbescherming omvat juridische, technische en organisatorische maatregelen die zijn ontworpen om persoonlijke en eigendomsgegevens te beveiligen tegen schendingen en misbruik. In AI omvat dit het implementeren van encryptie, ac...

@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /pl/terms/grounding/
 date: "2026-07-18T15:57:59.349364Z"
 lastmod: "2026-07-18T17:15:08.880306Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces łączenia abstrakcyjnych wyników sztucznej inteligencji z faktami ze świata rzeczywistego, źródłami danych lub kontekstem fizycznym, aby zapewnić dokładność i trafność."
 ---
-
 ## Definition
 
 W sztucznej inteligencji ugruntowanie (grounding) odnosi się do łączenia reprezentacji symbolicznych lub generowanego tekstu z konkretnymi encjami ze świata rzeczywistego, danymi lub doświadczeniami zmysłowymi. Dla modeli językowych często obejmuje to Retrieval-Augmented...

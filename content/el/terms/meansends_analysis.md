@@ -1,23 +1,25 @@
 ---
-title: "Ανάλυση Μέσων-Σκοπών"
-term_id: "meansends_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["planning", "problem_solving", "history"]
+title: Ανάλυση Μέσων-Σκοπών
+term_id: meansends_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- planning
+- Problem Solving
+- history
 difficulty: 3
 weight: 1
-slug: "meansends_analysis"
-aliases:
-  - /el/terms/meansends_analysis/
-date: "2026-07-18T16:20:51.631646Z"
-lastmod: "2026-07-18T17:15:09.930890Z"
+slug: meansends_analysis
+date: '2026-07-18T16:20:51.631646Z'
+lastmod: '2026-07-18T17:15:09.930890Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια γνωστική στρατηγική επίλυσης προβλημάτων που μειώνει τη διαφορά μεταξύ της τρέχουσας κατάστασης και της επιθυμητής κατάστασης-στόχου μέσω της αναγνώρισης υποσκοπών."
+source: agnes_llm
+status: published
+language: el
+description: Μια γνωστική στρατηγική επίλυσης προβλημάτων που μειώνει τη διαφορά μεταξύ
+  της τρέχουσας κατάστασης και της επιθυμητής κατάστασης-στόχου μέσω της αναγνώρισης
+  υποσκοπών.
 ---
-
 ## Definition
 
 Η Ανάλυση Μέσων-Σκοπών είναι μια γνωστική στρατηγική που χρησιμοποιείται στη τεχνητή νοημοσύνη και την ψυχολογία για την επίλυση σύνθετων προβλημάτων. Περιλαμβάνει τη σύγκριση της τρέχουσας κατάστασης ενός προβλήματος με την επιθυμητή κατάσταση-στόχου, τον εντοπισμό των διαφορών μεταξύ τους και την επιλογή μιας δράσης (μέσου) που μειώνει αυτή τη διαφορά. Αυτή η διαδικασία επαναλαμβάνεται αναδρομικά μέχρι να επιτευχθεί ο τελικός στόχος.

@@ -1,23 +1,23 @@
 ---
-title: "במקום זאת"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: במקום זאת
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /he/terms/instead/
-date: "2026-07-18T15:26:30.147418Z"
-lastmod: "2026-07-18T17:15:09.479912Z"
+slug: instead
+date: '2026-07-18T15:26:30.147418Z'
+lastmod: '2026-07-18T17:15:09.479912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "במקום זאת היא מילת חיבור או תואר המציינת החלפה, תחליף או פעולה אלטרנטיבית הננקטת במקום פעולה אחרת."
+source: agnes_llm
+status: published
+language: he
+description: במקום זאת היא מילת חיבור או תואר המציינת החלפה, תחליף או פעולה אלטרנטיבית
+  הננקטת במקום פעולה אחרת.
 ---
-
 ## Definition
 
 אף על פי שאינו מונח אלגוריתמי טכני בבינה מלאכותית, 'במקום זאת' קריטי בהנדסת הנחיות (Prompt Engineering) והבנת שפה טבעית. הוא מסמן יחס של ניגוד או החלפה בין משפטים. בהכשרת מודלים לשוניים גדולים (LLMs), הבנת מילה זו חיונית לזיהוי כוונות ולעמידה באילוצים שליליים.

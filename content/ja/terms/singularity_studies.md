@@ -1,23 +1,24 @@
 ---
-title: "特異点研究"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: 特異点研究
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /ja/terms/singularity_studies/
-date: "2026-07-18T11:32:12.951382Z"
-lastmod: "2026-07-18T11:44:45.144209Z"
+slug: singularity_studies
+date: '2026-07-18T11:32:12.951382Z'
+lastmod: '2026-07-18T11:44:45.144209Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "将来の技術的特異点が社会、倫理、存在論に与える潜在的な影響を調査する学際的な分野。"
+source: agnes_llm
+status: published
+language: ja
+description: 将来の技術的特異点が社会、倫理、存在論に与える潜在的な影響を調査する学際的な分野。
 ---
-
 ## Definition
 
 特異点研究は、人工知能が人間の知能を超え、制御不能な変化をもたらす可能性のある将来的な時点の帰結を調査する新興の学問分野です。

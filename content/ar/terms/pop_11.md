@@ -1,23 +1,24 @@
 ---
-title: "بوب-11 (POP-11)"
-term_id: "pop_11"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "history_of_ai", "education"]
+title: بوب-11 (POP-11)
+term_id: pop_11
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- History Of AI
+- education
 difficulty: 3
 weight: 1
-slug: "pop_11"
-aliases:
-  - /ar/terms/pop_11/
-date: "2026-07-18T16:15:35.971841Z"
-lastmod: "2026-07-18T17:15:08.535209Z"
+slug: pop_11
+date: '2026-07-18T16:15:35.971841Z'
+lastmod: '2026-07-18T17:15:08.535209Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بوب-11 هي لغة برمجة عالية المستوى تم تطويرها في جامعة إدنبرة، وتُستخدم بشكل أساسي لأبحاث الذكاء الاصطناعي وتعليم العلوم المعرفية."
+source: agnes_llm
+status: published
+language: ar
+description: بوب-11 هي لغة برمجة عالية المستوى تم تطويرها في جامعة إدنبرة، وتُستخدم
+  بشكل أساسي لأبحاث الذكاء الاصطناعي وتعليم العلوم المعرفية.
 ---
-
 ## Definition
 
 بوب-11 (اختصار لـ Program Oriented Problem Solving) هي لغة برمجة متعددة الأنماط تجمع بين خصائص البرمجة الإجرائية، والكائنية، والمنطقية. تم إنشاؤها في سبعينيات القرن الماضي وأصبحت لغة قياسية في مجتمع الذكاء الاصطناعي في جامعة إدنبرة، حيث سهّلت تطوير الأنظمة الخبيرة والنماذج المعرفية.

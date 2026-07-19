@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /ja/terms/universal_psychometrics/
 date: "2026-07-18T11:35:35.634025Z"
 lastmod: "2026-07-18T11:44:45.153616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "多様な集団全体にわたって心理的特性を評価するために標準化された測定技法を適用すること。"
 ---
-
 ## Definition
 
 ユニバーサルサイコメトリクスとは、性格、認知能力、感情的知性などの心理的構成概念を、文化的背景や言語の違いを超えて信頼性高く測定できる評価ツールの開発と適用に関わる分野です。公平性と比較可能性を重視します。

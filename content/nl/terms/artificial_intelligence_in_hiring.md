@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /nl/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:43:19.636948Z"
 lastmod: "2026-07-18T17:15:08.718235Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het gebruik van AI-tools om wervingsprocessen te stroomlijnen, waaronder cv-screening, kandidaatmatching en interviewanalyse."
 ---
-
 ## Definition
 
 AI bij werving maakt gebruik van algoritmen om verschillende fasen van de wervingscyclus te automatiseren en te verbeteren. Tools analyseren cv's op relevantie van trefwoorden, beoordelen de geschiktheid van kandidaten via voorspellende modellen en ondersteunen bij het plannen van interviews.

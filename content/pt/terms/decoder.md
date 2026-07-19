@@ -1,23 +1,24 @@
 ---
-title: "Decodificador"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Decodificador
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /pt/terms/decoder/
-date: "2026-07-18T14:43:55.449168Z"
-lastmod: "2026-07-18T15:51:59.448589Z"
+slug: decoder
+date: '2026-07-18T14:43:55.449168Z'
+lastmod: '2026-07-18T15:51:59.448589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um componente de rede neural responsável por gerar sequências de saída a partir de representações latentes codificadas."
+source: agnes_llm
+status: published
+language: pt
+description: Um componente de rede neural responsável por gerar sequências de saída
+  a partir de representações latentes codificadas.
 ---
-
 ## Definition
 
 Em modelos de sequência para sequência (sequence-to-sequence), o decodificador recebe o vetor de contexto produzido pelo codificador e gera a saída alvo passo a passo. Ele utiliza mecanismos de atenção para focar nas partes relevantes da sequência de entrada.

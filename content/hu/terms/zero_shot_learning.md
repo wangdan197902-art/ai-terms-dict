@@ -1,23 +1,25 @@
 ---
-title: "Nulladik lövéses tanulás (Zero-shot Learning)"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Nulladik lövéses tanulás (Zero-shot Learning)
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /hu/terms/zero_shot_learning/
-date: "2026-07-18T15:40:20.191286Z"
-lastmod: "2026-07-18T17:15:09.747180Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:40:20.191286Z'
+lastmod: '2026-07-18T17:15:09.747180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A nulladik lövéses tanulás egy technika, ahol egy modell olyan osztályokon végez feladatokat, amelyeket soha nem látott a tanítás során, szemantikai asszociációk felhasználásával."
+source: agnes_llm
+status: published
+language: hu
+description: A nulladik lövéses tanulás egy technika, ahol egy modell olyan osztályokon
+  végez feladatokat, amelyeket soha nem látott a tanítás során, szemantikai asszociációk
+  felhasználásával.
 ---
-
 ## Definition
 
 A nulladik lövéses tanulás lehetővé teszi egy gépi tanulási modell számára, hogy olyan osztályok példányait kategorizálja, amelyek nem szerepeltek a tanítóadatkészletében. Ehelyett nem támaszkodik minden lehetséges osztályhoz tartozó címkézett példákra, hanem a

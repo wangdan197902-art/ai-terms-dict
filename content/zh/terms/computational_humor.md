@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /zh/terms/computational_humor/
 date: "2026-07-18T11:10:50.277288Z"
 lastmod: "2026-07-18T11:44:45.459792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "专注于通过计算方法生成、理解和欣赏幽默内容的AI子领域。"
 ---
-
 ## Definition
 
 计算幽默研究机器如何产生或解读笑话、双关语和机智言论。它通常依赖自然语言处理来检测不协调、语义转换或未预期的结果。

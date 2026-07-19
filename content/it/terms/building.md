@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /it/terms/building/
 date: "2026-07-18T15:23:39.805320Z"
 lastmod: "2026-07-18T17:15:08.562335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La fase pratica di sviluppo, addestramento e distribuzione di modelli e sistemi di IA, dalla progettazione iniziale alla prontezza per la produzione."
 ---
-
 ## Definition
 
 Building si riferisce al processo ingegneristico end-to-end di creazione di soluzioni IA, che include la raccolta dei dati, la selezione del modello, l'addestramento, la validazione e la distribuzione. Comprende l'infrastruttura tecnica necessaria.

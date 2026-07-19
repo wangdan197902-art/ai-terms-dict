@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /tr/terms/benchmark/
 date: "2026-07-18T15:23:39.842082Z"
 lastmod: "2026-07-18T16:38:07.227919Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka modellerinin performansını, yerleşik taban çizgilerle karşılaştırmak için kullanılan standart bir referans noktası veya metrik."
 ---
-
 ## Definition
 
 Yapay zekada bir benchmark (performans ölçütü), makine öğrenimi modellerinin yeteneklerini ölçmek üzere tasarlanmış standartlaştırılmış bir test seti veya veri kümesidir. Farklı modelleri karşılaştırmak için tutarlı bir çerçeve sağlar.

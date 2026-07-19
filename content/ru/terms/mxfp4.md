@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /ru/terms/mxfp4/
-date: "2026-07-18T16:07:40.610560Z"
-lastmod: "2026-07-18T16:38:07.184184Z"
+slug: mxfp4
+date: '2026-07-18T16:07:40.610560Z'
+lastmod: '2026-07-18T16:38:07.184184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "MXFP4 — формат чисел с плавающей запятой смешанной точности, оптимизированный для эффективного выполнения матричных умножений в аппаратных ускорителях ИИ."
+source: agnes_llm
+status: published
+language: ru
+description: MXFP4 — формат чисел с плавающей запятой смешанной точности, оптимизированный
+  для эффективного выполнения матричных умножений в аппаратных ускорителях ИИ.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) — это специализированный формат данных, введенный для оптимизации производительности и снижения потребления пропускной способности памяти при работе с задачами ИИ. Благодаря поддержке операций смешанной точности

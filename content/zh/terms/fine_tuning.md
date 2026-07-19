@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /zh/terms/fine_tuning/
 date: "2026-07-18T07:44:46.533403Z"
 lastmod: "2026-07-18T11:44:44.591805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "使用较小的数据集将预训练模型适配到特定下游任务的过程。"
 ---
-
 ## Definition
 
 微调涉及在一个已在大而通用数据集上训练好的模型基础上，继续在专业化数据集上进行训练。这使得模型在保留通用知识的同时，能够习得特定任务的技能。

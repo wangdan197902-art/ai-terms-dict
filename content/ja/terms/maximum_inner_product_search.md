@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /ja/terms/maximum_inner_product_search/
 date: "2026-07-18T11:23:35.898792Z"
 lastmod: "2026-07-18T11:44:45.120970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "クエリベクトルに対して最も高いドット積を持つアイテムを抽出する、特殊なベクトル類似度検索手法。"
 ---
-
 ## Definition
 
 最大内積探索（MIPS）は、情報検索や機械学習、特に推薦システムにおける基本的な問題です。標準的なコサイン類似度検索がベクトルの方向性の一致を測るのに対し、MIPSはベクトルの絶対的な大きさと方向性の両方を考慮した内積の最大化を目指します。これにより、ユーザーの好みやアイテムの人気度などのバイアスをより正確に反映させることができます。

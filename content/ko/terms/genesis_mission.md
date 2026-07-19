@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /ko/terms/genesis_mission/
 date: "2026-07-18T15:57:14.081034Z"
 lastmod: "2026-07-18T16:38:06.845109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "미래 생성형 AI 개발을 위한 기초적인 AI 원칙, 인프라 및 윤리 가이드라인 확립에 중점을 둔 조직적 이니셔티브입니다."
 ---
-
 ## Definition
 
 제네시스 미션은 일반적으로 조직 내에서 고급 AI 역량을 위한 기반을 마련하기 위해 설계된 전략적 단계나 프로젝트를 지칭합니다. 여기에는 핵심 인프라 구축, 기본 원칙 수립, 그리고 향후 발전 방향을 위한 윤리적 틀 마련 등이 포함됩니다.

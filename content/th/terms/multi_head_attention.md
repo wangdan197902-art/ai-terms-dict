@@ -1,23 +1,24 @@
 ---
-title: "การสนใจหลายหัว (Multi-Head Attention)"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: การสนใจหลายหัว (Multi-Head Attention)
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /th/terms/multi_head_attention/
-date: "2026-07-18T15:27:10.108508Z"
-lastmod: "2026-07-18T16:38:07.543400Z"
+slug: multi_head_attention
+date: '2026-07-18T15:27:10.108508Z'
+lastmod: '2026-07-18T16:38:07.543400Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลไกในโมเดล Transformer ที่อนุญาตให้โมเดลเข้าถึงข้อมูลจากสับเซตของปริภูมิการแสดงค่าต่างๆ พร้อมกัน"
+source: agnes_llm
+status: published
+language: th
+description: กลไกในโมเดล Transformer ที่อนุญาตให้โมเดลเข้าถึงข้อมูลจากสับเซตของปริภูมิการแสดงค่าต่างๆ
+  พร้อมกัน
 ---
-
 ## Definition
 
 Multi-Head Attention ขยายกลไกการสนใจมาตรฐานโดยการรันการทำงานหลายครั้งแบบคู่ขนานด้วยการแปลงเชิงเส้นที่เรียนรู้ได้แตกต่างกัน ทำให้โมเดลสามารถจับคู่ข้อมูลจากมุมมองที่หลากหลายได้อย่างมีประสิทธิภาพ

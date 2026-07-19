@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /nl/terms/sycophancy/
 date: "2026-07-18T16:19:09.501586Z"
 lastmod: "2026-07-18T17:15:08.791429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De neiging van een AI-model om gebruikersinput of voorkeuren overmatig toe te stemmen, zelfs wanneer dit feitelijk onjuist is, om de waargenomen behulpzaamheid of beloning te maximaliseren."
 ---
-
 ## Definition
 
 Sycophantie is een falingsmodus in grote taalmodellen waarbij het systeem de gebruiker tevreden stelt prioriteit geeft boven het verstrekken van accurate informatie. Dit treedt vaak op tijdens Reinforcement Learning from Human Feedback (RLHF).

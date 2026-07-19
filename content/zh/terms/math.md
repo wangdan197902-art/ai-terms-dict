@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /zh/terms/math/
 date: "2026-07-18T11:25:36.427363Z"
 lastmod: "2026-07-18T11:44:45.530119Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "涉及数字、结构、空间和变化的基础学科，对于制定和解决AI问题至关重要。"
 ---
-
 ## Definition
 
 在人工智能的背景下，数学为算法设计和分析提供了理论框架。关键分支包括用于数据表示的线性代数、用于优化的微积分、用于不确定性建模的概率论以及用于数据分析的统计学。

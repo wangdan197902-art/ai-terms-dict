@@ -1,23 +1,23 @@
 ---
-title: "라마(Llama)"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: 라마(Llama)
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /ko/terms/llama/
-date: "2026-07-18T16:02:46.921834Z"
-lastmod: "2026-07-18T16:38:06.863494Z"
+slug: llama
+date: '2026-07-18T16:02:46.921834Z'
+lastmod: '2026-07-18T16:38:06.863494Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "메타 AI에서 개발한 대규모 언어 모델 패밀리로, 오픈 가중치와 뛰어난 성능으로 알려져 있습니다."
+source: agnes_llm
+status: published
+language: ko
+description: 메타 AI에서 개발한 대규모 언어 모델 패밀리로, 오픈 가중치와 뛰어난 성능으로 알려져 있습니다.
 ---
-
 ## Definition
 
 라마(Large Language Model Meta AI)는 메타에서 출시한 일련의 기반 대규모 언어 모델입니다. 많은 독점 모델과 달리 라마 모델은 종종 오픈 가중치로 출시되어 연구자와 개발자가 모델을 자유롭게 수정하고 배포할 수 있게 합니다.

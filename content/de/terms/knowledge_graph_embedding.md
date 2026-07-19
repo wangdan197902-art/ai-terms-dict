@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /de/terms/knowledge_graph_embedding/
 date: "2026-07-18T11:20:39.621426Z"
 lastmod: "2026-07-18T11:44:44.955080Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Technik, die Entitäten und Relationen in einem Wissensgraphen in kontinuierliche Vektorräume abbildet und dabei die strukturelle Semantik bewahrt."
 ---
-
 ## Definition
 
 Methoden zur Einbettung von Wissensgraphen, wie TransE oder DistMult, transformieren diskrete Graphenstrukturen in dicht besetzte Vektoren mit niedriger Dimensionalität. Dies ermöglicht es Machine-Learning-Modellen, mathematische Operationen auf diesen Repräsentationen durchzuführen.

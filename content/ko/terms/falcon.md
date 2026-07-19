@@ -1,23 +1,24 @@
 ---
-title: "팔콘"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: 팔콘
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /ko/terms/falcon/
-date: "2026-07-18T15:55:19.731338Z"
-lastmod: "2026-07-18T16:38:06.839488Z"
+slug: falcon
+date: '2026-07-18T15:55:19.731338Z'
+lastmod: '2026-07-18T16:38:06.839488Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "기술혁신연구소(Technology Innovation Institute)가 개발한 대규모 언어 모델(Large Language Models) 시리즈로, 다른 오픈 소스 LLM 대비 높은 성능과 효율성으로 알려져 있습니다."
+source: agnes_llm
+status: published
+language: ko
+description: 기술혁신연구소(Technology Innovation Institute)가 개발한 대규모 언어 모델(Large Language
+  Models) 시리즈로, 다른 오픈 소스 LLM 대비 높은 성능과 효율성으로 알려져 있습니다.
 ---
-
 ## Definition
 
 팔콘은 기술혁신연구소(TII)에서 제작한 강력한 대규모 언어 모델(LLM) 시리즈를 지칭합니다. Falcon-40B 및 Falcon-180B와 같은 모델들은 독점 모델들과 경쟁할 수 있도록 설계되었습니다.

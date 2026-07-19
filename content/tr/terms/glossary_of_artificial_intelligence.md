@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /tr/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T15:55:13.929153Z"
 lastmod: "2026-07-18T16:38:07.313655Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sözlüğü, AI araştırma ve geliştirme süreçlerinde kullanılan terimlerin tanımlarından oluşan özenle hazırlanmış bir listedir."
 ---
-
 ## Definition
 
 Yapay Zeka Sözlüğü, alan içindeki özel terminolojiyi, kısaltmaları ve kavramları tanımlayan bir referans belgesi olarak hizmet eder. Araştırmacılara, geliştiricilere ve öğrencilere bu karmaşık terminolojiyi anlamalarına yardımcı olur.

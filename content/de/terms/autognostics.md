@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /de/terms/autognostics/
 date: "2026-07-18T11:04:01.294871Z"
 lastmod: "2026-07-18T11:44:44.912065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Fähigkeit eines KI-Systems, seinen internen Zustand, Leistungsprobleme oder Fehler ohne menschliches Eingreifen selbst zu diagnostizieren."
 ---
-
 ## Definition
 
 Autognostik bezeichnet die Selbstüberwachungs- und Selbstreparaturmechanismen, die in intelligente Systeme integriert sind. Sie ermöglicht es KI-Agenten, Anomalien zu erkennen, die Ursachen von Ausfällen zu diagnostizieren und diese potenziell zu beheben.

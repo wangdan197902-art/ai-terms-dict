@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /da/terms/sparkles_emoji/
 date: "2026-07-18T16:18:39.578628Z"
 lastmod: "2026-07-18T17:15:09.332666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et visuelt symbol, der ofte bruges i AI-grænseflader til at angive nye funktioner, forbedringer eller magiske transformationer i genereret indhold."
 ---
-
 ## Definition
 
 Glans-emojin er et grafisk ikon, der hyppigt anvendes i brugergrænseflader til AI-applikationer for at signalere nyhed, forbedring eller kreativ forstærkning. Den fungerer som et ikke-verbal signal, der indikerer, at indholdet er opdateret eller forbedret.

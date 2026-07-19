@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /he/terms/react/
 date: "2026-07-18T15:38:14.644729Z"
 lastmod: "2026-07-18T17:15:09.503500Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ReAct הוא פרדיגמת הנחיה המשלבת חשיבה ופעולה כדי לשפר את הביצועים של מודלי שפה גדולים במשימות מורכבות."
 ---
-
 ## Definition
 
 מסגרת ReAct מאפשרת למודלי שפה גדולים (LLMs) ליצור גם עקבות חשיבה וגם פעולות ספציפיות למשימה בצורה מתחלפת. על ידי סימולציה של תהליכי חשיבה דמויי אדם, היא מאפשרת למודלים להגיב לסביבה ולבצע פעולות.

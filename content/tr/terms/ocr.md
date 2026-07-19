@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /tr/terms/ocr/
 date: "2026-07-18T16:07:15.819181Z"
 lastmod: "2026-07-18T16:38:07.342908Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "OCR, taranmış kağıt belgeler veya görüntüler gibi farklı türdeki belgeleri düzenlenebilir ve aranabilir verilere dönüştüren bir teknolojidir."
 ---
-
 ## Definition
 
 Optik Karakter Tanıma (OCR), dijital görüntüler içindeki metni tanımlamak için görüntü işleme ve örüntü tanıma algoritmalarını kullanır. Baskılı veya el yazısı karakterleri makine tarafından okunabilir veriye dönüştürür.

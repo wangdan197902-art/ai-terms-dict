@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /hu/terms/moshi/
 date: "2026-07-18T16:13:36.663370Z"
 lastmod: "2026-07-18T17:15:09.814554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Kyutai által fejlesztett beszéd-szöveg modell, amely együttesen tanul szöveges és hangos reprezentációkat a zökkenőmentes multimodális interakcióhoz."
 ---
-
 ## Definition
 
 A Moshi egy fejlett AI-modell, amelyet a Kyutai hozott létre, és integrálja a beszéd- és szövegfeldolgozást egy egységes keretrendszerbe. A hagyományos rendszerekkel ellentétben, amelyek először konvertálják a beszédet szöveggé, a Moshi közvetlenül tanulja meg a közös reprezentációkat.

@@ -1,23 +1,24 @@
 ---
-title: "Segmentación"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Segmentación
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /es/terms/chunking/
-date: "2026-07-18T10:39:13.162282Z"
-lastmod: "2026-07-18T11:44:44.785206Z"
+slug: chunking
+date: '2026-07-18T10:39:13.162282Z'
+lastmod: '2026-07-18T11:44:44.785206Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La segmentación es el proceso de dividir documentos grandes o flujos de datos en segmentos más pequeños y manejables para su procesamiento o indexación."
+source: agnes_llm
+status: published
+language: es
+description: La segmentación es el proceso de dividir documentos grandes o flujos
+  de datos en segmentos más pequeños y manejables para su procesamiento o indexación.
 ---
-
 ## Definition
 
 La segmentación es un paso crítico de preprocesamiento en la Generación Aumentada por Recuperación (RAG) y otras tuberías de PLN. Implica dividir el texto en unidades de tamaño fijo o semánticas (fragmentos) para ajustarse dentro del contexto

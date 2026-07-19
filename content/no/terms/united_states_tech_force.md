@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /no/terms/united_states_tech_force/
 date: "2026-07-18T16:20:31.997881Z"
 lastmod: "2026-07-18T16:38:07.056178Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et demografisk og økonomisk begrep som refererer til den kollektive arbeidsstyrken som driver teknologisk innovasjon i USA."
 ---
-
 ## Definition
 
 Begrepet «USAs teknologiarbeidsstyrke» betegner generelt den store delen av det amerikanske arbeidsmarkedet som er ansatt i teknologisektorene, inkludert programvareutvikling, datavitenskap og hardwareproduksjon.

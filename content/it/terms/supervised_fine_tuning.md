@@ -1,23 +1,24 @@
 ---
-title: "Affinamento Supervisionato"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Affinamento Supervisionato
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /it/terms/supervised_fine_tuning/
-date: "2026-07-18T15:40:54.938665Z"
-lastmod: "2026-07-18T17:15:08.590462Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:40:54.938665Z'
+lastmod: '2026-07-18T17:15:08.590462Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di ulteriore addestramento di un modello pre-addestrato su un dataset specifico per adattarlo a un compito o dominio particolare."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di ulteriore addestramento di un modello pre-addestrato su
+  un dataset specifico per adattarlo a un compito o dominio particolare.
 ---
-
 ## Definition
 
 L'Affinamento Supervisionato (SFT) consiste nel prendere un grande modello pre-addestrato, come un modello linguistico, e continuare il suo addestramento su un dataset più piccolo e di alta qualità etichettato per un compito specifico.

@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /id/terms/inductive_programming/
 date: "2026-07-18T15:55:46.406971Z"
 lastmod: "2026-07-18T16:38:07.470522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bidang sintesis program yang secara otomatis menghasilkan program komputer dari contoh input-output."
 ---
-
 ## Definition
 
 Pemrograman Induktif, sering disebut sebagai Sintesis Program, melibatkan pembuatan kode perangkat lunak berdasarkan spesifikasi yang diberikan sebagai pasangan input-output, bukan instruksi eksplisit. Sistem menyimpulkan logika program dari contoh-contoh tersebut.

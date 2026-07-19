@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /fi/terms/low_cost/
 date: "2026-07-18T15:33:55.662027Z"
 lastmod: "2026-07-18T17:15:09.365023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuvailee tekoälyratkaisuja, jotka minimisoivat laskenta-, taloudelliset tai energiankulutuksen säilyttäen toiminnallisuuden."
 ---
-
 ## Definition
 
 Edullinen tekoäly keskittyy tehokkuuteen pyrkien vähentämään koneoppimiseen liittyviä esteitä ja toimintakustannuksia. Tämä sisältää tekniikoita kuten mallien puristamisen, kvantisoinnin ja kevyempien arkkitehtuurien käytön.

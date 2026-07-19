@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /hu/terms/reliability/
 date: "2026-07-18T16:21:08.586896Z"
 lastmod: "2026-07-18T17:15:09.829295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Annak mértéke, amilyen mértékben egy AI rendszer meghatározott feltételek mellett következetesen és biztonságosan látja el szánt funkcióit."
 ---
-
 ## Definition
 
 Az AI-ban a megbízhatóság a rendszer viselkedésének megbízhatóságára és következetességére utal időben és különböző bemenetek tekintetében is. Egy megbízható AI rendszernek pontos eredményeket kell produkálnia, kezelnie kell a szélsőséges eseteket, és stabilan kell működnie.

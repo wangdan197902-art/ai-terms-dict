@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /sv/terms/asr_complete/
 date: "2026-07-18T15:43:46.225488Z"
 lastmod: "2026-07-18T17:15:08.971955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "ASR-complete beskriver ett taligenkänningssystem som uppnår mänsklig noggrannhet på standardiserade benchmark-dataset."
 ---
-
 ## Definition
 
 Begreppet ASR-complete innebär att ett automatiskt taligenkänningssystem har nått en prestandanivå jämförbar med mänskliga transkriberare på specifika, väldefinierade uppgifter och dataset. Detta markerar en milstolpe där systemets felmarginal är så låg att det anses fullt funktionellt för de flesta praktiska tillämpningar.

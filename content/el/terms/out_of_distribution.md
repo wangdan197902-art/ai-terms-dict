@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /el/terms/out_of_distribution/
 date: "2026-07-18T15:36:55.069923Z"
 lastmod: "2026-07-18T17:15:09.862067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Σημεία δεδομένων που διαφέρουν σημαντικά από την κατανομή που παρατηρήθηκε κατά τη φάση εκπαίδευσης του μοντέλου."
 ---
-
 ## Definition
 
 Η ανίχνευση out-of-distribution (OOD) εντοπίζει εισόδους που πέφτουν εκτός του πεδίου της κατανομής των δεδομένων εκπαίδευσης. Τα μοντέλα συχνά αποδίδουν poorly ή με εμπιστοσύνη λανθασμένα σε δεδομένα OOD, οδηγώντας σε μη αξιόπιστες

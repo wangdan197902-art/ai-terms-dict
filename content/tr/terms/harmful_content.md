@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /tr/terms/harmful_content/
 date: "2026-07-18T15:56:25.787419Z"
 lastmod: "2026-07-18T16:38:07.316348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Nefret söylemi, şiddet ve yasa dışı eylemler dahil olmak üzere bireylere veya topluma risk oluşturan bilgiler."
 ---
-
 ## Definition
 
 Zararlı içerik, fiziksel, psikolojik veya sosyal zarar verebilecek dijital medyayı veya metni ifade eder. Yapay zeka güvenliğinde, modellerin içerik üretirken bu tür materyalleri yaymasını önlemek amacıyla tespit etmek ve filtrelemek kritik önem taşır.

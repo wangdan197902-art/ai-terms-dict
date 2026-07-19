@@ -1,23 +1,24 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /ru/terms/phi3/
-date: "2026-07-18T16:10:15.198560Z"
-lastmod: "2026-07-18T16:38:07.191861Z"
+slug: phi3
+date: '2026-07-18T16:10:15.198560Z'
+lastmod: '2026-07-18T16:38:07.191861Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Семейство больших языковых моделей с открытыми весами, разработанных Microsoft Research."
+source: agnes_llm
+status: published
+language: ru
+description: Семейство больших языковых моделей с открытыми весами, разработанных
+  Microsoft Research.
 ---
-
 ## Definition
 
 Phi-3 — это серия небольших языковых моделей (SLM), выпущенных Microsoft, предназначенных для обеспечения высокой производительности, сопоставимой с более крупными моделями, при этом требуя значительно меньших вычислительных ресурсов.

@@ -1,23 +1,24 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /tr/terms/chatglm/
-date: "2026-07-18T15:44:48.049620Z"
-lastmod: "2026-07-18T16:38:07.281740Z"
+slug: chatglm
+date: '2026-07-18T15:44:48.049620Z'
+lastmod: '2026-07-18T16:38:07.281740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "ChatGLM, Zhipu AI tarafından geliştirilen, Çince ve İngilizce diyaloglar için optimize edilmiş ikidilli ve büyük ölçekli açık kaynaklı dil modelleri serisidir."
+source: agnes_llm
+status: published
+language: tr
+description: ChatGLM, Zhipu AI tarafından geliştirilen, Çince ve İngilizce diyaloglar
+  için optimize edilmiş ikidilli ve büyük ölçekli açık kaynaklı dil modelleri serisidir.
 ---
-
 ## Definition
 
 ChatGLM, özellikle Çince ve İngilizce yüksek kaliteli ikidilli konuşmaları yönetmek üzere tasarlanmış Transformer tabanlı dil modelleri ailesini temsil eder. Zhipu AI tarafından geliştirilen bu modeller, verimli mimariler kullanır.

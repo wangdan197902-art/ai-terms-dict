@@ -1,23 +1,25 @@
 ---
-title: "Μοντέλο Σακούλας Λέξεων"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Μοντέλο Σακούλας Λέξεων
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /el/terms/bag_of_words_model/
-date: "2026-07-18T15:52:55.474300Z"
-lastmod: "2026-07-18T17:15:09.884147Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:52:55.474300Z'
+lastmod: '2026-07-18T17:15:09.884147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το μοντέλο σακούλας λέξεων είναι μια απλοποιημένη αναπαράσταση κειμένου που περιγράφει τη συχνότητα εμφάνισης των λέξεων σε ένα έγγραφο, αγνοώντας τη γραμματική και τη σειρά των λέξεων."
+source: agnes_llm
+status: published
+language: el
+description: Το μοντέλο σακούλας λέξεων είναι μια απλοποιημένη αναπαράσταση κειμένου
+  που περιγράφει τη συχνότητα εμφάνισης των λέξεων σε ένα έγγραφο, αγνοώντας τη γραμματική
+  και τη σειρά των λέξεων.
 ---
-
 ## Definition
 
 Αυτή η τεχνική επεξεργασίας φυσικής γλώσσας αναπαριστά το κείμενο ως ένα πολυσύνολο λέξεων, αδιαφορώντας για τη σύνταξη και τη σειρά. Μετατρέπει τα έγγραφα σε αριθμητικά διανύσματα με βάση τη συχνότητα ή την παρουσία των λέξεων.

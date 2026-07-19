@@ -7,8 +7,6 @@ tags: ["scaling", "alignment", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v4"
-aliases:
-  - /th/terms/deepseek_v4/
 date: "2026-07-18T15:49:47.156749Z"
 lastmod: "2026-07-18T16:38:07.597712Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "DeepSeek V4 เป็นแนวคิดหรือรุ่นถัดไปในสายพันธุ์ DeepSeek ซึ่งแสดงถึงความก้าวหน้าเพิ่มเติมในการขยายขนาดโมเดลและการบูรณาการหลายรูปแบบ (Multimodal)"
 ---
-
 ## Definition
 
 ในฐานะรุ่นสืบต่อจากเวอร์ชันก่อนหน้า DeepSeek V4 บ่งบอกถึงการวิวัฒนาการอย่างต่อเนื่องในซีรีส์โมเดล DeepSeek โดยมุ่งเน้นไปที่ความสามารถในการขยายขนาดและความแข็งแกร่งที่เพิ่มขึ้น รายละเอียดเฉพาะอาจแตกต่างกันไปตาม

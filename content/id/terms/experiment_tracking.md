@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /id/terms/experiment_tracking/
 date: "2026-07-18T15:50:01.843544Z"
 lastmod: "2026-07-18T16:38:07.456579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pelacakan eksperimen adalah proses sistematis untuk merekam metadata, metrik, dan artefak dari eksperimen pembelajaran mesin guna memastikan reproduktibilitas dan memfasilitasi perbandingan."
 ---
-
 ## Definition
 
 Praktik ini melibatkan pencatatan hiperparameter, versi dataset, arsitektur model, dan metrik kinerja selama proses pelatihan. Hal ini memungkinkan ilmuwan data untuk membandingkan berbagai konfigurasi eksperimen yang berbeda.

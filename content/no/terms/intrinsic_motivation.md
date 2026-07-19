@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /no/terms/intrinsic_motivation/
 date: "2026-07-18T16:00:53.377671Z"
 lastmod: "2026-07-18T16:38:07.014364Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et begrep innenfor forsterkningslæring der agenter streber etter mål basert på intern nysgjerrighet eller kunnskapsoppnåelse fremfor ytre belønninger."
 ---
-
 ## Definition
 
 Innenfor forsterkningslæring driver indre motivasjon en agent til å utforske miljøet sitt ved å søke nyhet, redusere usikkerhet eller mestre ferdigheter, uavhengig av eksterne oppgavebelønninger. Denne me

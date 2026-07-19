@@ -1,23 +1,23 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /zh/terms/phi3/
-date: "2026-07-18T11:30:05.607510Z"
-lastmod: "2026-07-18T11:44:45.542854Z"
+slug: phi3
+date: '2026-07-18T11:30:05.607510Z'
+lastmod: '2026-07-18T11:44:45.542854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由微软研究院开发的一系列开源权重大型语言模型。"
+source: agnes_llm
+status: published
+language: zh
+description: 由微软研究院开发的一系列开源权重大型语言模型。
 ---
-
 ## Definition
 
 Phi-3是微软发布的一系列小型语言模型（SLMs），旨在以显著更少的计算资源提供与更大模型相媲美的高性能表现。

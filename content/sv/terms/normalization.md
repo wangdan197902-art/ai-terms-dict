@@ -1,23 +1,25 @@
 ---
-title: "Normalisering"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalisering
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /sv/terms/normalization/
-date: "2026-07-18T16:11:47.458480Z"
-lastmod: "2026-07-18T17:15:09.032092Z"
+slug: normalization
+date: '2026-07-18T16:11:47.458480Z'
+lastmod: '2026-07-18T17:15:09.032092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Normalisering är en teknik för dataförbehandling som skalas numeriska funktioner till ett standardintervall, vanligtvis mellan 0 och 1, för att förbättra modellkonvergens och prestanda."
+source: agnes_llm
+status: published
+language: sv
+description: Normalisering är en teknik för dataförbehandling som skalas numeriska
+  funktioner till ett standardintervall, vanligtvis mellan 0 och 1, för att förbättra
+  modellkonvergens och prestanda.
 ---
-
 ## Definition
 
 Vanliga metoder inkluderar Min-Max-skaling och Z-score-standardisering. Denna process säkerställer att funktioner med större magnituder inte dominerar inlärningsalgoritmen, särskilt vid gradientbaserad optimering.

@@ -1,23 +1,25 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /nl/terms/google_research/
-date: "2026-07-18T15:57:35.261486Z"
-lastmod: "2026-07-18T17:15:08.749195Z"
+slug: google_research
+date: '2026-07-18T15:57:35.261486Z'
+lastmod: '2026-07-18T17:15:08.749195Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De onderzoekstak van Google die zich richt op het vooruitgang van kunstmatige intelligentie, machine learning en informatica door middel van fundamenteel en toegepast onderzoek."
+source: agnes_llm
+status: published
+language: nl
+description: De onderzoekstak van Google die zich richt op het vooruitgang van kunstmatige
+  intelligentie, machine learning en informatica door middel van fundamenteel en toegepast
+  onderzoek.
 ---
-
 ## Definition
 
 Google Research is de academische en industriële onderzoekstak van Google LLC, gericht op het verbreden van technologische grenzen op gebieden zoals kunstmatige intelligentie, natuurlijke taalverwerking en kwantumcomputing.

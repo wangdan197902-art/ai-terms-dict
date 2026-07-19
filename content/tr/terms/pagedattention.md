@@ -1,23 +1,25 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /tr/terms/pagedattention/
-date: "2026-07-18T16:07:45.964277Z"
-lastmod: "2026-07-18T16:38:07.344925Z"
+slug: pagedattention
+date: '2026-07-18T16:07:45.964277Z'
+lastmod: '2026-07-18T16:38:07.344925Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "PagedAttention, sanal bellek sayfalama kavramlarını uyarlayarak dönüştürücü modellerde Anahtar-Değer (KV) önbelleğinin depolanmasını ve erişimini optimize eden bir bellek yönetimi algoritmasıdır."
+source: agnes_llm
+status: published
+language: tr
+description: PagedAttention, sanal bellek sayfalama kavramlarını uyarlayarak dönüştürücü
+  modellerde Anahtar-Değer (KV) önbelleğinin depolanmasını ve erişimini optimize eden
+  bir bellek yönetimi algoritmasıdır.
 ---
-
 ## Definition
 
 PagedAttention, vLLM projesi tarafından büyük dil modeli çıkarımının verimliliğini artırmak için tanıtılan bir tekniktir. KV önbelleğini yönetmedeki parçalama ve aşırı yükleme sorunlarını ele alarak GPU belleği kullanımını iyileştirir.

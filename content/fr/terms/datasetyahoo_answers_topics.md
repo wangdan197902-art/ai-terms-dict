@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /fr/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T11:12:40.476132Z"
 lastmod: "2026-07-18T11:44:45.238798Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données dérivé de Yahoo Answers, contenant des questions et réponses générées par les utilisateurs, classées par sujets spécifiques pour l'appariement sémantique et la classification."
 ---
-
 ## Definition
 
 Le jeu de données Yahoo Answers Topics est un sous-ensemble du plus grand archive de Yahoo Answers, se concentrant sur les questions et réponses organisées en catégories de sujets distinctes. Il est couramment utilisé pour la classification de texte et l'évaluation de similarité.

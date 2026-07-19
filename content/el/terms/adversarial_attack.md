@@ -1,23 +1,25 @@
 ---
-title: "Εχθρική Επίθεση"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Εχθρική Επίθεση
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /el/terms/adversarial_attack/
-date: "2026-07-18T15:48:15.226714Z"
-lastmod: "2026-07-18T17:15:09.876964Z"
+slug: adversarial_attack
+date: '2026-07-18T15:48:15.226714Z'
+lastmod: '2026-07-18T17:15:09.876964Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια εχθρική επίθεση είναι μια τεχνική κατά την οποία προστίθενται μικρές, συχνά αόρατες διαταραχές στα δεδομένα εισόδου για να εξαπατηθούν τα μοντέλα μηχανικής μάθησης και να προκαλέσουν λανθασμένες π"
+source: agnes_llm
+status: published
+language: el
+description: Μια εχθρική επίθεση είναι μια τεχνική κατά την οποία προστίθενται μικρές,
+  συχνά αόρατες διαταραχές στα δεδομένα εισόδου για να εξαπατηθούν τα μοντέλα μηχανικής
+  μάθησης και να προκαλέσουν λανθασμένες π
 ---
-
 ## Definition
 
 Οι εχθρικές επιθέσεις εκμεταλλεύονται τις ευπάθειες των νευρωνικών δικτύων εισάγοντας λεπτή θόρυβο στις εισόδους, όπως εικόνες ή κείμενο, το οποίο προκαλεί σημαντικά σφάλματα στην έξοδο του μοντέλου. Αυτές οι επιθέσεις υπογραμμίζουν την ανάγκη για ανθεκτικότητα.

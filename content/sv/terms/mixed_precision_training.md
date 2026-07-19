@@ -1,23 +1,24 @@
 ---
-title: "Träning med blandad precision"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Träning med blandad precision
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /sv/terms/mixed_precision_training/
-date: "2026-07-18T16:09:54.861820Z"
-lastmod: "2026-07-18T17:15:09.027210Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:09:54.861820Z'
+lastmod: '2026-07-18T17:15:09.027210Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En träningsmetod som använder både 16-bitars och 32-bitars flyttal för att accelerera beräkningar och minska minnesanvändningen."
+source: agnes_llm
+status: published
+language: sv
+description: En träningsmetod som använder både 16-bitars och 32-bitars flyttal för
+  att accelerera beräkningar och minska minnesanvändningen.
 ---
-
 ## Definition
 
 Träning med blandad precision (MPT) kombinerar halvprecision (FP16) och full precision (FP32) datatyper under träning av neurala nätverk. Genom att använda FP16 för de flesta operationer minskar MPT minnesfotavtrycket och...

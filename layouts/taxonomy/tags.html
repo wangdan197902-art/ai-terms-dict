@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{/* 标签索引页：列出所有标签，按字母顺序分组
+     URL: /{lang}/tags/
+     作用：SEO 着陆页 + 用户浏览入口 */}}
+<section class="tags-index">
+    <header class="list-header">
+        <h1>{{ .Title | default "Tags" }}</h1>
+        <p>{{ .Description | default (printf "Browse all tags in %s" .Site.Language.LanguageName) }}</p>
+    </header>
+
+    {{/* 按首字母分组的标签列表 */}}
+    {{ $allTags := .Data.Terms }}
+    {{ if $allTags }}
+        {{/* 统计标签总数 */}}
+        <div class="tags-stats">
+            <p><small>{{ $allTags.Len }} tags total</small></p>
+        </div>
+
+        {{/* 标签云 - 按字母顺序排序 */}}
+        <div class="tags-cloud">
+            <ul class="tags-list">
+                {{ range $name, $taxonomy := $allTags.Alphabetical }}
+                    <li class="tag-item">
+                        <a href="{{ $taxonomy.Page.RelPermalink }}"
+                           class="tag-link"
+                           data-count="{{ $taxonomy.Count }}">
+                            <span class="tag-name">{{ $name }}</span>
+                            <span class="tag-count">{{ $taxonomy.Count }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+    {{ else }}
+        <p class="no-tags">{{ i18n "no_tags" | default "No tags available." }}</p>
+    {{ end }}
+</section>
+{{ end }}

@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /hu/terms/training_free/
 date: "2026-07-18T15:36:46.176568Z"
 lastmod: "2026-07-18T17:15:09.737778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan módszerek, amelyek adaptálják vagy javítják a modelleket gradiens alapú paraméterfrissítés nélkül."
 ---
-
 ## Definition
 
 A tanítás nélküli megközelítések olyan technikákra utalnak, amelyek módosítják a modell viselkedését vagy kimenetét anélkül, hogy a háttérben lévő súlyokat backpropagációval frissítenék. Ezek a módszerek gyakran kihasználják a prompt mérnökséget, a jellemzők...

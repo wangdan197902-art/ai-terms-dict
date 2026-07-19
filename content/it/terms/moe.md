@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /it/terms/moe/
 date: "2026-07-18T16:11:41.515319Z"
 lastmod: "2026-07-18T17:15:08.650572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un pattern architetturale in cui più reti neurali specializzate (esperti) vengono combinate tramite un meccanismo di gating per elaborare gli input."
 ---
-
 ## Definition
 
 La Miscela di Esperti (MoE) è un'architettura di machine learning progettata per migliorare efficienza e scalabilità. Invece di utilizzare un singolo modello grande per tutti i compiti, MoE impiega più piccoli 'esperti' n

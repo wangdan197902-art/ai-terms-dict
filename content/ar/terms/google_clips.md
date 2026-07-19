@@ -1,23 +1,24 @@
 ---
-title: "جوجل كليبرز"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: جوجل كليبرز
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /ar/terms/google_clips/
-date: "2026-07-18T15:59:36.365486Z"
-lastmod: "2026-07-18T17:15:08.508684Z"
+slug: google_clips
+date: '2026-07-18T15:59:36.365486Z'
+lastmod: '2026-07-18T17:15:08.508684Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كان جوجل كليبرز كاميرا محمولة تعمل بالذكاء الاصطناعي صُممت لالتقاط اللحظات تلقائياً باستخدام التعلم الآلي."
+source: agnes_llm
+status: published
+language: ar
+description: كان جوجل كليبرز كاميرا محمولة تعمل بالذكاء الاصطناعي صُممت لالتقاط اللحظات
+  تلقائياً باستخدام التعلم الآلي.
 ---
-
 ## Definition
 
 كان جوجل كليبرز جهازاً إلكترونياً استهلاكياً طورته جوجل، واستخدم التعلم الآلي على الجهاز لتحديد المشاهد والمواضيع المثيرة للاهتمام، مثل الوجوه أو الحيوانات الأليفة، والتقاط الصور تلقائياً.

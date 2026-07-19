@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /ja/terms/feedback/
 date: "2026-07-18T10:51:02.478242Z"
 lastmod: "2026-07-18T11:44:45.008713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "フィードバックとは、出力結果を用いてAIモデルやシステムの性能を反復的に調整・改善することを指します。"
 ---
-
 ## Definition
 
 フィードバックメカニズムにより、AIシステムはユーザーや環境との相互作用から学習し、将来の予測や行動を洗練させることができます。これには強化学習の信号やヒューマン・イン・ザ・ループが含まれます。

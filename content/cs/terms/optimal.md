@@ -1,23 +1,23 @@
 ---
-title: "Optimální"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Optimální
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /cs/terms/optimal/
-date: "2026-07-18T15:27:44.498193Z"
-lastmod: "2026-07-18T17:15:09.074373Z"
+slug: optimal
+date: '2026-07-18T15:27:44.498193Z'
+lastmod: '2026-07-18T17:15:09.074373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Optimální označuje nejlepší možnou řešení nebo akci v rámci daných omezení, maximalizující odměny nebo minimalizující náklady."
+source: agnes_llm
+status: published
+language: cs
+description: Optimální označuje nejlepší možnou řešení nebo akci v rámci daných omezení,
+  maximalizující odměny nebo minimalizující náklady.
 ---
-
 ## Definition
 
 V umělé inteligenci a teorii optimalizace je optimálním řešením takové, které dosahuje nejvyšší možné hodnoty výkonového metriku, jako je maximální odměna v posilovaném učení nebo minimální chyba v regresi.

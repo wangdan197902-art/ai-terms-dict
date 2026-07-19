@@ -1,23 +1,25 @@
 ---
-title: "AI Generatif"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: AI Generatif
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /id/terms/generative_ai/
-date: "2026-07-18T15:51:52.819074Z"
-lastmod: "2026-07-18T16:38:07.461939Z"
+slug: generative_ai
+date: '2026-07-18T15:51:52.819074Z'
+lastmod: '2026-07-18T16:38:07.461939Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "AI Generatif adalah jenis kecerdasan buatan yang mampu membuat konten baru, seperti teks, gambar, audio, dan kode, berdasarkan pola yang dipelajari dari data pelatihan."
+source: agnes_llm
+status: published
+language: id
+description: AI Generatif adalah jenis kecerdasan buatan yang mampu membuat konten
+  baru, seperti teks, gambar, audio, dan kode, berdasarkan pola yang dipelajari dari
+  data pelatihan.
 ---
-
 ## Definition
 
 Sistem-sistem ini, termasuk model bahasa besar dan model difusi, tidak hanya mengambil informasi yang sudah ada tetapi juga mensintesis output yang baru. Mereka mempelajari struktur dan gaya mendasar dari data pelatihan untuk menghasilkan karya orisinal yang relevan.

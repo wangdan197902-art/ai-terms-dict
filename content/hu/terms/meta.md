@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /hu/terms/meta/
 date: "2026-07-18T16:12:38.059384Z"
 lastmod: "2026-07-18T17:15:09.811892Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-ban a 'meta' kifejezés általában a tanulásról való tanulást vagy a modelladaptációt és optimalizációt szabályozó magasabb rendű folyamatokat jelöli."
 ---
-
 ## Definition
 
 A 'meta' előtag a mesterséges intelligenciában egy magasabb absztrakciós szintet jelöl, amely gyakran önhivatkozást vagy az alapvető folyamatok felügyeletét foglalja magában. Gyakori példák közé tartozik a 'meta-tanulás', ahol az algoritmusok...

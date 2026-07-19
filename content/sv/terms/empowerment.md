@@ -1,23 +1,24 @@
 ---
-title: "Empowerment"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Empowerment
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /sv/terms/empowerment/
-date: "2026-07-18T15:56:14.733726Z"
-lastmod: "2026-07-18T17:15:09.000178Z"
+slug: empowerment
+date: '2026-07-18T15:56:14.733726Z'
+lastmod: '2026-07-18T17:15:09.000178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett förstärkningslärandemål som mäter en agents förmåga att påverka framtida tillstånd genom sina handlingar."
+source: agnes_llm
+status: published
+language: sv
+description: Ett förstärkningslärandemål som mäter en agents förmåga att påverka framtida
+  tillstånd genom sina handlingar.
 ---
-
 ## Definition
 
 Inom förstärkningsinlärning och artificiell intelligens är empowerment en inre motivationsmetrik som kvantifierar den grad av kontroll en agent har över sin omgivning. Det definieras som den ömsesidiga informationen...

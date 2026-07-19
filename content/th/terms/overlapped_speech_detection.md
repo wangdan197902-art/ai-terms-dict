@@ -1,23 +1,23 @@
 ---
-title: "การตรวจจับเสียงพูดที่ซ้อนทับกัน"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: การตรวจจับเสียงพูดที่ซ้อนทับกัน
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /th/terms/overlapped_speech_detection/
-date: "2026-07-18T16:09:51.969486Z"
-lastmod: "2026-07-18T16:38:07.639177Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:09:51.969486Z'
+lastmod: '2026-07-18T16:38:07.639177Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการระบุช่วงเวลาที่มีผู้พูดสองคนหรือมากกว่าพูดพร้อมกันในสตรีมเสียง"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการระบุช่วงเวลาที่มีผู้พูดสองคนหรือมากกว่าพูดพร้อมกันในสตรีมเสียง
 ---
-
 ## Definition
 
 การตรวจจับเสียงพูดที่ซ้อนทับกัน (OSD) เป็นงานเฉพาะทางในการประมวลผลเสียงที่ชี้ระบุช่วงเวลาที่มีการเปล่งเสียงพร้อมกัน ต่างจากการแยกแยะผู้พูดที่เน้นเรื่อง 'ใครพูดเมื่อไหร่' OSD มุ่งเน้นไปที่

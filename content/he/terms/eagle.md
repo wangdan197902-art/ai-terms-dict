@@ -1,23 +1,24 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /he/terms/eagle/
-date: "2026-07-18T15:55:15.364925Z"
-lastmod: "2026-07-18T17:15:09.535754Z"
+slug: eagle
+date: '2026-07-18T15:55:15.364925Z'
+lastmod: '2026-07-18T17:15:09.535754Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "Eagle הוא מסגרת קוד פתוח לביצועים גבוהים לפיתוח מודלי שפה גדולים (LLMs), שפותחה על ידי ByteDance, ומיועדת לאימון מקדים וכוונון עדין יעילים."
+source: agnes_llm
+status: published
+language: he
+description: Eagle הוא מסגרת קוד פתוח לביצועים גבוהים לפיתוח מודלי שפה גדולים (LLMs),
+  שפותחה על ידי ByteDance, ומיועדת לאימון מקדים וכוונון עדין יעילים.
 ---
-
 ## Definition
 
 Eagle מייצג מסגרת הנדסית וארכיטקטונית ספציפית בתחום מודלי השפה הגדולים, המתמקדת בעיקר באופטימיזציה של יעילות האימון ויכולת ההרחבה (Scalability) של המודלים.

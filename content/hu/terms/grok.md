@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /hu/terms/grok/
 date: "2026-07-18T16:02:32.212158Z"
 lastmod: "2026-07-18T17:15:09.791035Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az xAI által fejlesztett AI csevegőbot, amely integrálva van az X platformba, és valós idejű hozzáférést biztosít a közösségi média adataihoz, valamint vicces személyiséggel rendelkezik."
 ---
-
 ## Definition
 
 A Grok egy nagy nyelvi modell alapú csevegőbot, amelyet Elon Musk xAI nevű cége hozott létre. Elsősorban az X platform (korábban Twitter) előfizetői számára elérhető. A Grok megkülönbözteti attól, hogy valós idejű hozzáféréssel rendelkezik a közösségi média adatokhoz.

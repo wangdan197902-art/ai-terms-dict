@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /fi/terms/embedding_model/
 date: "2026-07-18T15:36:04.965366Z"
 lastmod: "2026-07-18T17:15:09.369664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Upotusmalli muuntaa raakadataa, kuten tekstiä tai kuvia, tiheiksi numeerisiksi vektoreiksi, jotka edustavat semanttista merkitystä."
 ---
-
 ## Definition
 
 Nämä mallit kartoittavat korkeadimensioista dataa alemmadimensioiseen jatkuvaan vektoriavaruuteen, jossa samankaltaiset kohteet sijaitsevat lähempänä toisiaan. Tämä muunnos vangitsee semanttiset suhteet, mikä mahdollistaa tehokkaan datan käsittelyn.

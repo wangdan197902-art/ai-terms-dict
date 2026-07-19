@@ -1,23 +1,23 @@
 ---
-title: "양자 머신러닝(Quantum machine learning)"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: 양자 머신러닝(Quantum machine learning)
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /ko/terms/quantum_machine_learning/
-date: "2026-07-18T16:12:21.775716Z"
-lastmod: "2026-07-18T16:38:06.901234Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:12:21.775716Z'
+lastmod: '2026-07-18T16:38:06.901234Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "양자 머신러닝은 양자 컴퓨팅과 머신러닝 알고리즘을 결합하여 문제를 더 빠르거나 효율적으로 해결하는 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 양자 머신러닝은 양자 컴퓨팅과 머신러닝 알고리즘을 결합하여 문제를 더 빠르거나 효율적으로 해결하는 분야입니다.
 ---
-
 ## Definition
 
 양자 머신러닝(QML)은 양자 컴퓨팅 능력과 머신러닝 기술을 통합하는 새로운 융합 학문 분야입니다. 이는 얽힘(entanglement)과 같은 양자 현상을 활용하여 기존 컴퓨터로는 처리하기 어려운 복잡한 문제를 해결하는 것을 목표로 합니다.

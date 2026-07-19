@@ -1,23 +1,24 @@
 ---
-title: "fine-tuned"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: fine-tuned
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /pt/terms/fine_tuned/
-date: "2026-07-18T14:41:22.917589Z"
-lastmod: "2026-07-18T15:51:59.443587Z"
+slug: fine_tuned
+date: '2026-07-18T14:41:22.917589Z'
+lastmod: '2026-07-18T15:51:59.443587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo de treinar adicionalmente um modelo pré-treinado em um conjunto de dados específico para adaptá-lo a uma tarefa downstream particular."
+source: agnes_llm
+status: published
+language: pt
+description: O processo de treinar adicionalmente um modelo pré-treinado em um conjunto
+  de dados específico para adaptá-lo a uma tarefa downstream particular.
 ---
-
 ## Definition
 
 O ajuste fino (fine-tuning) envolve pegar um modelo que já foi treinado em um grande conjunto de dados geral e continuar seu treinamento em um conjunto de dados menor e específico para a tarefa. Essa técnica aproveita os recursos gerais aprendidos anteriormente para melhorar o desempenho em tarefas especializadas.

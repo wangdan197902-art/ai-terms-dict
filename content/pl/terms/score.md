@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /pl/terms/score/
 date: "2026-07-18T15:29:23.621998Z"
 lastmod: "2026-07-18T17:15:08.820497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wynik to wartość liczbowa reprezentująca jakość, pewność lub trafność predykcji lub rozwiązania modelu."
 ---
-
 ## Definition
 
 Wyniki ilościowo określają, jak dobrze model uczenia maszynowego radzi sobie wobec konkretnych metryk, takich jak dokładność, precyzja czy nagroda. W uczeniu przez wzmacnianie wyniki wskazują skumulowane nagrody, podczas gdy w klasyfikacji

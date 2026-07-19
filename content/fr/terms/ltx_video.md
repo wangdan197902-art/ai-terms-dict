@@ -1,23 +1,25 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /fr/terms/ltx_video/
-date: "2026-07-18T11:26:25.024602Z"
-lastmod: "2026-07-18T11:44:45.287997Z"
+slug: ltx_video
+date: '2026-07-18T11:26:25.024602Z'
+lastmod: '2026-07-18T11:44:45.287997Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un modèle de diffusion latente spécifiquement optimisé pour générer du contenu vidéo haute fidélité et cohérent temporellement à partir d'invites textuelles ou d'images."
+source: agnes_llm
+status: published
+language: fr
+description: Un modèle de diffusion latente spécifiquement optimisé pour générer du
+  contenu vidéo haute fidélité et cohérent temporellement à partir d'invites textuelles
+  ou d'images.
 ---
-
 ## Definition
 
 Ltx Video représente une avancée dans l'IA générative pour la vidéo, utilisant des processus de diffusion dans l'espace latent pour créer un mouvement cohérent et des détails visuels précis. Il adresse les défis communs de la génération vidéo tels que les artefacts temporels et la stabilité des objets, permettant de produire des clips vidéo de haute qualité à partir de descriptions textuelles ou d'images de référence.

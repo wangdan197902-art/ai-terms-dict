@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stable Video Diffusion-pijplijn"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stable Video Diffusion-pijplijn'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /nl/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:52:20.823179Z"
-lastmod: "2026-07-18T17:15:08.738722Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:52:20.823179Z'
+lastmod: '2026-07-18T17:15:08.738722Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een Hugging Face Diffusers-pijplijnwrapper die het Stable Video Diffusion-model gebruikt om video's te genereren vanuit statische afbeeldingen."
+source: agnes_llm
+status: published
+language: nl
+description: Een Hugging Face Diffusers-pijplijnwrapper die het Stable Video Diffusion-model
+  gebruikt om video's te genereren vanuit statische afbeeldingen.
 ---
-
 ## Definition
 
 Deze term verwijst naar een specifieke implementatie binnen de Hugging Face Diffusers-bibliotheek, ontworpen voor videogenneratie. Het integreert het Stable Video Diffusion (SVD)-model, dat een latentie-video-diffusiemodel is.

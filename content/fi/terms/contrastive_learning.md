@@ -1,23 +1,24 @@
 ---
-title: "Kontrastiivinen oppiminen"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Kontrastiivinen oppiminen
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /fi/terms/contrastive_learning/
-date: "2026-07-18T15:49:33.428830Z"
-lastmod: "2026-07-18T17:15:09.394999Z"
+slug: contrastive_learning
+date: '2026-07-18T15:49:33.428830Z'
+lastmod: '2026-07-18T17:15:09.394999Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Itseohjautuva oppimistekniikka, joka oppii esityksiä vetämällä positiiviset parit lähemmäs ja työntämällä negatiiviset parit erilleen."
+source: agnes_llm
+status: published
+language: fi
+description: Itseohjautuva oppimistekniikka, joka oppii esityksiä vetämällä positiiviset
+  parit lähemmäs ja työntämällä negatiiviset parit erilleen.
 ---
-
 ## Definition
 
 Kontrastiivinen oppiminen on esitysten oppimisen menetelmä, joka ei vaadi merkittyjä tietoja. Se toimii luomalla saman syötteen augmentoituja versioita (positiiviset parit) ja vertaamalla niitä erilaisiin syötteisiin (negatiiviset parit) oppiakseen robustit ominaisuudet.

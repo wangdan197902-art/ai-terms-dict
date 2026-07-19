@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /cs/terms/large_scale/
 date: "2026-07-18T15:32:24.402084Z"
 lastmod: "2026-07-18T17:15:09.083908Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Popisuje systémy AI nebo datové sady, které pracují s masivními objemy dat, parametrů nebo výpočetních zdrojů."
 ---
-
 ## Definition
 
 Velké měřítko se vztahuje na rozsah komponent v systému AI, často zahrnující miliardy parametrů, terabajty tréninkových dat nebo distribuované výpočetní klastry. Tento přístup je základem...

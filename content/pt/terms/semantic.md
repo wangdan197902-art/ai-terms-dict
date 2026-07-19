@@ -1,23 +1,23 @@
 ---
-title: "Semântico"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: Semântico
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /pt/terms/semantic/
-date: "2026-07-18T14:39:35.214374Z"
-lastmod: "2026-07-18T15:51:59.439316Z"
+slug: semantic
+date: '2026-07-18T14:39:35.214374Z'
+lastmod: '2026-07-18T15:51:59.439316Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Relativo ao significado na linguagem ou nos dados, diferenciando-se da estrutura sintática ou forma."
+source: agnes_llm
+status: published
+language: pt
+description: Relativo ao significado na linguagem ou nos dados, diferenciando-se da
+  estrutura sintática ou forma.
 ---
-
 ## Definition
 
 A análise semântica em IA foca na compreensão do significado subjacente das entradas, em vez de apenas seus padrões superficiais. Isso envolve mapear palavras ou símbolos para conceitos, capturando relações

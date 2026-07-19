@@ -1,23 +1,24 @@
 ---
-title: "Машинное обучение с учетом затрат"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Машинное обучение с учетом затрат
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /ru/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:46:45.534854Z"
-lastmod: "2026-07-18T16:38:07.135339Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:46:45.534854Z'
+lastmod: '2026-07-18T16:38:07.135339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма машинного обучения, которая учитывает стоимость ошибок классификации в процессе обучения, оптимизируя экономические показатели, а не только точность."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма машинного обучения, которая учитывает стоимость ошибок классификации
+  в процессе обучения, оптимизируя экономические показатели, а не только точность.
 ---
-
 ## Definition
 
 Машинное обучение с учетом затрат расширяет традиционное обучение с учителем, назначая различные штрафы за разные типы ошибок. В реальных сценариях ложноположительные и ложноотрицательные результаты часто имеют разную стоимость.

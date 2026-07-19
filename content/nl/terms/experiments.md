@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /nl/terms/experiments/
 date: "2026-07-18T15:25:51.154636Z"
 lastmod: "2026-07-18T17:15:08.684169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Gecontroleerde procedures uitgevoerd om hypothese te testen, modelprestaties te evalueren of nieuwe AI-mogelijkheden te ontdekken."
 ---
-
 ## Definition
 
 Experimenten in AI omvatten systematisch testen van variabelen om oorzaak-gevolgrelaties binnen machine learning-modellen te begrijpen. Deze procedures stellen ontwikkelaars in staat verschillende hyperpara...

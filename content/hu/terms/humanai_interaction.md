@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /hu/terms/humanai_interaction/
 date: "2026-07-18T16:04:06.531117Z"
 lastmod: "2026-07-18T17:15:09.793920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Annak tanulmányozása és gyakorlása, hogy az emberek hogyan kommunikálnak, irányítanak és együttműködnek a mesterséges intelligencia rendszerekkel."
 ---
-
 ## Definition
 
 Az ember–MI interakció (HAI) egy interdiszciplináris terület, amely az emberek és az MI technológiák közötti dinamikát vizsgálja. Fókuszában az intuitív felületek, kommunikációs protokollok és együttműködési mechanizmusok tervezése áll...

@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /ko/terms/smart_object/
 date: "2026-07-18T16:15:40.560461Z"
 lastmod: "2026-07-18T16:38:06.908412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "센서, 액추에이터 및 연결성을 갖추고 데이터를 수집하며 환경과 지능적으로 상호작용하는 물리적 실체."
 ---
-
 ## Definition
 
 스마트 객체는 사물인터넷(IoT)의 구성 요소로, 고유 식별자를 가지고 있으며 직접적인 인간-인간 또는 인간-컴퓨터 상호작용 없이 네트워크를 통해 데이터를 전송할 수 있는 능력을 갖추고 있습니다.

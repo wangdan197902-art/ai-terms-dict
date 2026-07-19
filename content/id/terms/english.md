@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /id/terms/english/
 date: "2026-07-18T15:25:20.411580Z"
 lastmod: "2026-07-18T16:38:07.392066Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bahasa Inggris adalah bahasa alami yang berfungsi sebagai dataset patokan dominan dan keluaran target bagi banyak model Pemrosesan Bahasa Alami (NLP)."
 ---
-
 ## Definition
 
 Meskipun utamanya merupakan bahasa manusia, dalam konteks AI, 'Bahasa Inggris' mewakili domain linguistik paling prevalen untuk penelitian NLP karena kelimpahan data teks digital. Sebagian besar model dasar (seperti BERT dan GPT) awalnya dilatih terutama pada data berbahasa Inggris.

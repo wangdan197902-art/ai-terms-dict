@@ -1,23 +1,24 @@
 ---
-title: "Typesjekker"
-term_id: "type_checker"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "debugging", "quality_assurance"]
+title: Typesjekker
+term_id: type_checker
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- debugging
+- Quality Assurance
 difficulty: 2
 weight: 1
-slug: "type_checker"
-aliases:
-  - /no/terms/type_checker/
-date: "2026-07-18T16:19:33.807984Z"
-lastmod: "2026-07-18T16:38:07.055685Z"
+slug: type_checker
+date: '2026-07-18T16:19:33.807984Z'
+lastmod: '2026-07-18T16:38:07.055685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En typesjekker er et statisk analyseverktøy som verifiserer om typene til variabler og uttrykk i kode samsvarer med programmeringsspråkets typesystemregler."
+source: agnes_llm
+status: published
+language: 'no'
+description: En typesjekker er et statisk analyseverktøy som verifiserer om typene
+  til variabler og uttrykk i kode samsvarer med programmeringsspråkets typesystemregler.
 ---
-
 ## Definition
 
 Innen programvareingeniørfag, spesielt for AI-biblioteker skrevet i Python, C++ eller Rust, sikrer en typesjekker kodekorrekthet ved å validere at operasjoner utføres på kompatible datatyper. Den...

@@ -7,8 +7,6 @@ tags: ["agents", "robotics", "automation"]
 difficulty: 3
 weight: 1
 slug: "autonomous_agent"
-aliases:
-  - /it/terms/autonomous_agent/
 date: "2026-07-18T15:49:14.847410Z"
 lastmod: "2026-07-18T17:15:08.601771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un agente autonomo è un sistema capace di percepire il proprio ambiente e agire in modo indipendente per raggiungere obiettivi specifici senza intervento umano diretto."
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, un agente autonomo è un'entità che opera in modo indipendente all'interno di un ambiente. Utilizza sensori per percepire gli stati e attuatori per eseguire azioni, guidato da un'intelligenza interna.

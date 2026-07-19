@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /pl/terms/low_cost/
 date: "2026-07-18T15:32:13.992831Z"
 lastmod: "2026-07-18T17:15:08.826823Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Oznacza rozwiązania AI minimalizujące wydatki obliczeniowe, finansowe lub energetyczne przy zachowaniu funkcjonalności."
 ---
-
 ## Definition
 
 Niskokosztowe AI koncentruje się na efektywności, dążąc do redukcji barier wejścia i kosztów operacyjnych związanych z uczeniem maszynowym. Obejmuje to techniki takie jak kompresja modeli, kwantyzacja i...

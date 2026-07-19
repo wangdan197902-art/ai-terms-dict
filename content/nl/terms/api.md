@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /nl/terms/api/
 date: "2026-07-18T15:22:08.358972Z"
 lastmod: "2026-07-18T17:15:08.677752Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een Application Programming Interface die verschillende softwaresystemen in staat stelt met elkaar te communiceren en gegevens uit te wisselen."
 ---
-
 ## Definition
 
 Een API definieert een reeks protocollen en hulpmiddelen voor het bouwen van software en applicaties. In AI stellen APIs ontwikkelaars in staat toegang te krijgen tot krachtige modellen zoals LLM's of beeldgeneratoren zonder deze lokaal te hoeven hosten.

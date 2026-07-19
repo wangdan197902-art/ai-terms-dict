@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /fi/terms/datasettrivia_qa/
 date: "2026-07-18T15:52:25.419266Z"
 lastmod: "2026-07-18T17:15:09.401329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laaja-asteinen aineisto avoimen alueen kysymyksiin vastaamiseen, joka sisältää miljoonia kysymyksiä ja vastauksia erilaisista trivia-aiheista."
 ---
-
 ## Definition
 
 TriviaQA on aineisto, joka on suunniteltu avoimen alueen kysymyksiin vastaamiseen, ja siinä on yli miljoona kysymystä ja niihin liittyviä vastauksia. Se on luotu haastamaan olemassa olevia malleja vaativalla 

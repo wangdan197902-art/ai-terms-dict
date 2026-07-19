@@ -1,23 +1,23 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /ja/terms/transformer/
-date: "2026-07-18T10:55:53.677088Z"
-lastmod: "2026-07-18T11:44:45.021870Z"
+slug: transformer
+date: '2026-07-18T10:55:53.677088Z'
+lastmod: '2026-07-18T11:44:45.021870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "自己注意機構に基づき、逐次処理ではなく並列処理でシーケンシャルデータを処理するディープラーニングアーキテクチャ。"
+source: agnes_llm
+status: published
+language: ja
+description: 自己注意機構に基づき、逐次処理ではなく並列処理でシーケンシャルデータを処理するディープラーニングアーキテクチャ。
 ---
-
 ## Definition
 
 「Attention Is All You Need」論文で紹介されたTransformerアーキテクチャは、自然言語処理およびそれ以外の分野に革命をもたらしました。これはマルチヘッド自己注意を用いて、入力データの各要素の重要度を評価・重み付けします。

@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /ro/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:44:43.168388Z"
 lastmod: "2026-07-18T17:15:09.628861Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Intersecția emergentă în care IA este utilizată pentru ghidare spirituală, asistență la meditație sau explorarea întrebărilor filozofice."
 ---
-
 ## Definition
 
 IA în spiritualitate se referă la aplicarea inteligenței artificiale în contexte religioase sau contemplative. Acest lucru include chatbot-uri care oferă sfaturi morale, artă generată de IA pentru meditație sau algoritmi care analizează texte teologice.

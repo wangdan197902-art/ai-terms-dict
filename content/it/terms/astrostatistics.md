@@ -1,23 +1,24 @@
 ---
-title: "Astrostatistica"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Astrostatistica
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /it/terms/astrostatistics/
-date: "2026-07-18T15:48:23.039778Z"
-lastmod: "2026-07-18T17:15:08.600028Z"
+slug: astrostatistics
+date: '2026-07-18T15:48:23.039778Z'
+lastmod: '2026-07-18T17:15:08.600028Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'applicazione di metodi statistici per analizzare dati astronomici e risolvere problemi in astrofisica."
+source: agnes_llm
+status: published
+language: it
+description: L'applicazione di metodi statistici per analizzare dati astronomici e
+  risolvere problemi in astrofisica.
 ---
-
 ## Definition
 
 L'astrostatistica è un campo specializzato che fa da ponte tra la statistica e l'astronomia. Comporta lo sviluppo e l'applicazione di tecniche statistiche rigorose per gestire le sfide uniche dei dati astronomici,

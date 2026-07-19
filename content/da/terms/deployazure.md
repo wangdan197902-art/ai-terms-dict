@@ -1,23 +1,23 @@
 ---
-title: "Udrulning: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Udrulning: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /da/terms/deployazure/
-date: "2026-07-18T15:52:22.737629Z"
-lastmod: "2026-07-18T17:15:09.280104Z"
+slug: deployazure
+date: '2026-07-18T15:52:22.737629Z'
+lastmod: '2026-07-18T17:15:09.280104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at hoste og køre maskinlæringsmodeller på Microsoft Azure sky-infrastruktur."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at hoste og køre maskinlæringsmodeller på Microsoft Azure
+  sky-infrastruktur.
 ---
-
 ## Definition
 
 Udrulning til Azure indebærer brug af cloud-native værktøjer som Azure Machine Learning, Azure Kubernetes Service (AKS) eller Azure Functions til at levere ML-modeller i stor skala. Det omfatter styring af beregningsressourcer

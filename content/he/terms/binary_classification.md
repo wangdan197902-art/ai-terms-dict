@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /he/terms/binary_classification/
 date: "2026-07-18T15:46:41.894165Z"
 lastmod: "2026-07-18T17:15:09.517602Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "משימה בלמידה מפוקחת שבה המטרה היא לחזות אחת משתי קטגוריות אפשריות עבור כל דוגמה נכנסת."
 ---
-
 ## Definition
 
 מיון בינארי הוא בעיה יסודית בלמידת מכונה שבה משתנה הפלט הוא קטגורי עם בדיוק שתי תוצאות אפשריות, כגון 'אמת/שקר' או 'דואר זבל/לא דואר זבל'. אלגוריתמים נפוצים כוללים רגרסיה לוגיסטית, עצי החלטה ומכונות וקטור תמיכה.

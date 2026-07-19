@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /cs/terms/real_time/
 date: "2026-07-18T15:33:29.009360Z"
 lastmod: "2026-07-18T17:15:09.085754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Zpracování v reálném čase označuje systémy, které vypočítávají a dodávají výsledky v rámci přísných, garantovaných časových limitů ihned po přijetí vstupu."
 ---
-
 ## Definition
 
 V umělé inteligenci označuje 'reálný čas' schopnost systému zpracovávat vstupy a generovat výstupy s minimálním zpožděním, často v řádu milisekund. Toto je nezbytné pro aplikace, kde je okamžitá odezva kritická pro bezpečnost nebo uživatelský zážitek, jako je autonomní řízení nebo živé překlady.

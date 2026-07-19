@@ -1,23 +1,24 @@
 ---
-title: "AI-overzichten"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: AI-overzichten
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /nl/terms/ai_overviews/
-date: "2026-07-18T15:39:49.327943Z"
-lastmod: "2026-07-18T17:15:08.711378Z"
+slug: ai_overviews
+date: '2026-07-18T15:39:49.327943Z'
+lastmod: '2026-07-18T17:15:08.711378Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Samengevatte antwoorden gegenereerd door AI-modellen die informatie uit meerdere bronnen synthetiseren voor snel begrip."
+source: agnes_llm
+status: published
+language: nl
+description: Samengevatte antwoorden gegenereerd door AI-modellen die informatie uit
+  meerdere bronnen synthetiseren voor snel begrip.
 ---
-
 ## Definition
 
 AI-overzichten zijn beknopte samenvattingen geproduceerd door grote taalmodellen die gegevens uit verschillende webbronnen of databases aggregëren en synthetiseren. In tegenstelling tot traditionele zoekresultaten die alleen links tonen, bied

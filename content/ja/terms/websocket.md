@@ -7,8 +7,6 @@ tags: ["Networking", "Protocols", "Real-time"]
 difficulty: 4
 weight: 1
 slug: "websocket"
-aliases:
-  - /ja/terms/websocket/
 date: "2026-07-18T11:36:28.698487Z"
 lastmod: "2026-07-18T11:44:45.155168Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "単一のTCP接続上で双方向通信チャネルを提供し、リアルタイムデータ交換を可能にするプロトコル。"
 ---
-
 ## Definition
 
 WebSocketは、クライアントとサーバー間の永続的な双方向通信を可能にするコンピュータ通信プロトコルです。HTTPのように各要求-応答サイクルで新しい接続を必要とせず、一度確立された接続を通じて低遅延で継続的にデータをやり取りできます。

@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /vi/terms/adaptive/
 date: "2026-07-18T15:23:17.677404Z"
 lastmod: "2026-07-18T16:38:07.679616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng của một hệ thống để sửa đổi hành vi hoặc tham số của nó khi đáp ứng với các điều kiện thay đổi."
 ---
-
 ## Definition
 
 Trong AI, 'thích ứng' mô tả các hệ thống hoặc thuật toán có thể điều chỉnh trạng thái nội bộ, tham số hoặc chiến lược của chúng một cách động dựa trên dữ liệu mới hoặc phản hồi từ môi trường. Khả năng này cho phép mô hình

@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /hu/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T16:01:42.399496Z"
 lastmod: "2026-07-18T17:15:09.789086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A mesterséges intelligencia szótára egy kurátorként összeválogatott definíciók listája az AI kutatásban és fejlesztésben használt kifejezésekről."
 ---
-
 ## Definition
 
 A mesterséges intelligencia szótára egy hivatkozási dokumentum, amely meghatározza a terület specializált terminológiáját, rövidítéseit és fogalmait. Segíti a kutatókat, fejlesztőket és diákokat a szakkifejezések megértésében.

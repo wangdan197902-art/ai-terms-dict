@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /da/terms/graphs/
 date: "2026-07-18T15:25:25.437122Z"
 lastmod: "2026-07-18T17:15:09.225504Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Flertalsformen, der refererer til flere grafstrukturer eller visuelle repræsentationer af datatrends i maskinlæring."
 ---
-
 ## Definition
 
 Medens den ental 'graf' refererer til den abstrakte datastruktur, refererer 'grafer' ofte enten til flere distinkte grafinstanser eller visuelle diagrammer brugt i ML-overvågning. I visualisering kan linjegrafer eller søjlediagrammer...

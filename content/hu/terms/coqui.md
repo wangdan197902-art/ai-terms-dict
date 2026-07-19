@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /hu/terms/coqui/
-date: "2026-07-18T15:52:01.961810Z"
-lastmod: "2026-07-18T17:15:09.766045Z"
+slug: coqui
+date: '2026-07-18T15:52:01.961810Z'
+lastmod: '2026-07-18T17:15:09.766045Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Coqui egy nyílt forráskódú beszédszintézis technológiai cég, amely magas minőségű, többnyelvű szöveg-beszéd (TTS) modellek fejlesztéséről ismert."
+source: agnes_llm
+status: published
+language: hu
+description: A Coqui egy nyílt forráskódú beszédszintézis technológiai cég, amely
+  magas minőségű, többnyelvű szöveg-beszéd (TTS) modellek fejlesztéséről ismert.
 ---
-
 ## Definition
 
 A Coqui Technologies az nyílt forráskódú mesterséges intelligencia közösség kiemelkedő szereplője volt, leginkább TTS (Szöveg-Beszéd) motorjáról híres. A projekt előre betanított modelleket biztosított, amelyek képesek voltak természetes hangzású beszédet előállítani.

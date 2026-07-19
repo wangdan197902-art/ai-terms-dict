@@ -1,23 +1,23 @@
 ---
-title: "Myšlení"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: Myšlení
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /cs/terms/thinking/
-date: "2026-07-18T16:20:36.116169Z"
-lastmod: "2026-07-18T17:15:09.207408Z"
+slug: thinking
+date: '2026-07-18T16:20:36.116169Z'
+lastmod: '2026-07-18T17:15:09.207408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "V umělé inteligenci myšlení označuje kognitivní procesy, jako je úsudky, řešení problémů a rozhodování, které jsou simulovány algoritmy."
+source: agnes_llm
+status: published
+language: cs
+description: V umělé inteligenci myšlení označuje kognitivní procesy, jako je úsudky,
+  řešení problémů a rozhodování, které jsou simulovány algoritmy.
 ---
-
 ## Definition
 
 Zatímco lidé přemýšlejí biologicky, „myšlení“ AI zahrnuje výpočetní operace, které napodobují kognitivní funkce. Včetně logického odvození, rozpoznávání vzorů a inferenčních postupů. Moderní velké jazykové modely...

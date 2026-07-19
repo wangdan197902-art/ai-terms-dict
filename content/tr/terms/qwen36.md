@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /tr/terms/qwen36/
 date: "2026-07-18T16:11:23.080022Z"
 lastmod: "2026-07-18T16:38:07.358015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Büyüklük ölçüsünde performans metriklerini ve belirli alan bilgisini muhtemelen iyileştiren Qwen3 serisine ait sonraki küçük güncelleme."
 ---
-
 ## Definition
 
 Qwen3.6, Qwen3 model ailesinde daha da ileri bir ince ayamayı temsil eder. Küçük sürüm güncellemeleri genellikle mevcut yetenekleri pürüzsüz hale getirmeye, kenar durum hatalarını düzeltmeye ve eğitim veri kalitesini optimize etmeye odaklanır.

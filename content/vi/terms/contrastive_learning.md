@@ -1,23 +1,24 @@
 ---
-title: "Học tương phản"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Học tương phản
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /vi/terms/contrastive_learning/
-date: "2026-07-18T15:46:08.933187Z"
-lastmod: "2026-07-18T16:38:07.740275Z"
+slug: contrastive_learning
+date: '2026-07-18T15:46:08.933187Z'
+lastmod: '2026-07-18T16:38:07.740275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật học tự giám sát học biểu diễn bằng cách kéo các cặp dương lại gần nhau và đẩy các cặp âm ra xa nhau."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật học tự giám sát học biểu diễn bằng cách kéo các cặp dương
+  lại gần nhau và đẩy các cặp âm ra xa nhau.
 ---
-
 ## Definition
 
 Học tương phản là một phương pháp học biểu diễn không yêu cầu dữ liệu được gán nhãn. Nó hoạt động bằng cách tạo ra các phiên bản tăng cường của cùng một đầu vào (các cặp dương) và so sánh chúng với các đầu vào khác nhau (các cặp âm) để học các đặc trưng có ý nghĩa.

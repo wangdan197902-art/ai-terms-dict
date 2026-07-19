@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /fr/terms/model_compression/
 date: "2026-07-18T11:30:11.515540Z"
 lastmod: "2026-07-18T11:44:45.295524Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La compression de modèle désigne les techniques visant à réduire la taille et les exigences computationnelles des modèles d'apprentissage automatique."
 ---
-
 ## Definition
 
 Cette catégorie inclut des méthodes telles que l'élagage (pruning), la quantification et la distillation de connaissances, visant à réduire l'emprise du modèle tout en maintenant ses performances. Elle est essentielle pour déployer des modèles d'IA complexes

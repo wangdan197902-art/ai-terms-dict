@@ -1,23 +1,23 @@
 ---
-title: "问答"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: 问答
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /zh/terms/question_answering/
-date: "2026-07-18T11:01:29.499790Z"
-lastmod: "2026-07-18T11:44:45.404323Z"
+slug: question_answering
+date: '2026-07-18T11:01:29.499790Z'
+lastmod: '2026-07-18T11:44:45.404323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一项自然语言处理任务，系统自动提供用自然语言提出的问题的精确答案。"
+source: agnes_llm
+status: published
+language: zh
+description: 一项自然语言处理任务，系统自动提供用自然语言提出的问题的精确答案。
 ---
-
 ## Definition
 
 问答（QA）涉及从给定上下文或知识库中检索或生成对用户查询的准确响应。它包括依赖特定文档的封闭领域问答，以及基于通用知识的开放领域问答。

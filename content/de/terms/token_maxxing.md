@@ -1,23 +1,25 @@
 ---
-title: "Token-Maximierung"
-term_id: "token_maxxing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["prompt_engineering", "optimization", "llm"]
+title: Token-Maximierung
+term_id: token_maxxing
+category: basic_concepts
+subcategory: ''
+tags:
+- Prompt Engineering
+- Optimization
+- LLM
 difficulty: 3
 weight: 1
-slug: "token_maxxing"
-aliases:
-  - /de/terms/token_maxxing/
-date: "2026-07-18T11:36:52.516145Z"
-lastmod: "2026-07-18T11:44:44.994838Z"
+slug: token_maxxing
+date: '2026-07-18T11:36:52.516145Z'
+lastmod: '2026-07-18T11:44:44.994838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Optimierungsstrategie im Prompt-Engineering, die darauf abzielt, den Nutzen oder die Ausgabequalität einer bestimmten Token-Anzahl in großen Sprachmodellen zu maximieren."
+source: agnes_llm
+status: published
+language: de
+description: Eine Optimierungsstrategie im Prompt-Engineering, die darauf abzielt,
+  den Nutzen oder die Ausgabequalität einer bestimmten Token-Anzahl in großen Sprachmodellen
+  zu maximieren.
 ---
-
 ## Definition
 
 Token-Maximierung beinhaltet das sorgfältige Gestalten von Eingaben, um die volle Kapazität des Kontextfensters eines Modells zu nutzen oder die semantische Dichte der Tokens für eine bessere Leistung zu optimieren. Praktizierende können unnötige Füllwörter entfernen, präzise Formulierungen wählen oder das Prompt so strukturieren, dass es die maximale Informationsdichte pro Token erreicht, um Kosten zu senken und die Genauigkeit zu erhöhen.

@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /ja/terms/statistical_relational_learning/
 date: "2026-07-18T11:33:33.767225Z"
 lastmod: "2026-07-18T11:44:45.147687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "確率的推論と一階論理を統合し、データ内の複雑な関係構造を扱う機械学習の分野。"
 ---
-
 ## Definition
 
 統計的関係学習（SRL）は、確率理論と関係データ構造を組み合わせ、エンティティとその間の依存関係をモデルが捉えることを可能にします。標準的な統計手法とは異なり、個々のデータポイントだけでなく、それらの間の複雑な関係性を考慮します。

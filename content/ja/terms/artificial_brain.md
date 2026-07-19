@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /ja/terms/artificial_brain/
 date: "2026-07-18T11:04:06.213341Z"
 lastmod: "2026-07-18T11:44:45.067962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "生物学的な人間の脳の構造と機能を模倣するために設計された計算システムで、多くの場合ニューラルネットワークを使用します。"
 ---
-
 ## Definition
 
 人工脳とは、人間の脳の神経構造や処理方法をエミュレートするハードウェアまたはソフトウェアアーキテクチャを指します。これには、

@@ -1,23 +1,24 @@
 ---
-title: "Linjär prediktionsfunktion"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Linjär prediktionsfunktion
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /sv/terms/linear_predictor_function/
-date: "2026-07-18T16:07:04.720011Z"
-lastmod: "2026-07-18T17:15:09.021153Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:07:04.720011Z'
+lastmod: '2026-07-18T17:15:09.021153Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En matematisk funktion som beräknar en linjär kombination av indatavariabler för att förutsäga ett utfall."
+source: agnes_llm
+status: published
+language: sv
+description: En matematisk funktion som beräknar en linjär kombination av indatavariabler
+  för att förutsäga ett utfall.
 ---
-
 ## Definition
 
 Inom statistisk modellering och maskininlärning representerar en linjär prediktionsfunktion den vägda summan av indatafunktioner plus en bias-term. Den utgör kärnkomponenten i generaliserade linjära modeller (GLM).

@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /ro/terms/wasserstein/
-date: "2026-07-18T15:31:35.025054Z"
-lastmod: "2026-07-18T17:15:09.607171Z"
+slug: wasserstein
+date: '2026-07-18T15:31:35.025054Z'
+lastmod: '2026-07-18T17:15:09.607171Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metrică care măsoară distanța dintre distribuțiile de probabilitate pe baza costului minim de transformare a uneia în cealaltă."
+source: agnes_llm
+status: published
+language: ro
+description: O metrică care măsoară distanța dintre distribuțiile de probabilitate
+  pe baza costului minim de transformare a uneia în cealaltă.
 ---
-
 ## Definition
 
 Distanța Wasserstein, cunoscută și sub numele de Distanța Muncitorului Pământesc (Earth Mover's Distance), cuantifică disimilaritatea dintre două distribuții de probabilitate calculând „munca” minimă necesară pentru a muta masa dintr-o distribuție în alta.

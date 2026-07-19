@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /es/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T11:08:15.391599Z"
 lastmod: "2026-07-18T11:44:44.855144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco matemático formal para predecir observaciones futuras basándose en datos pasados utilizando probabilidad algorítmica."
 ---
-
 ## Definition
 
 Desarrollada por Ray Solomonoff, esta teoría proporciona un modelo universal de inducción asignando probabilidades a secuencias basadas en su complejidad computacional. Postula que las explicaciones más simples (programas más cortos que generan los datos observados) tienen mayor probabilidad a priori. Es la base teórica de la probabilidad algorítmica y ofrece una solución idealizada al problema de la predicción de secuencias.

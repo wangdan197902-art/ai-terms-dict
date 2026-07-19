@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /da/terms/long/
 date: "2026-07-18T15:27:07.236820Z"
 lastmod: "2026-07-18T17:15:09.227714Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer generelt til udvidede datasekvenser, såsom lange kontekstvinduer i modeller til naturlig sprogbehandling."
 ---
-
 ## Definition
 
 I sammenhæng med AI beskriver 'lang' ofte evnen til at behandle omfattende input, såsom lange dokumenter eller lange videostreams. For store sprogmodeller indebærer dette håndtering af lange kontekst

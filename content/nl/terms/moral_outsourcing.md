@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /nl/terms/moral_outsourcing/
 date: "2026-07-18T16:08:29.816102Z"
 lastmod: "2026-07-18T17:15:08.769487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De ethische zorg dat individuen of organisaties verantwoordelijkheden voor morele besluitvorming uitbesteden aan geautomatiseerde AI-systemen."
 ---
-
 ## Definition
 
 Moreel outsourcen verwijst naar het fenomeen waarbij mensen moreel oordeel en verantwoordelijkheid overdragen aan algoritmen of AI-systemen. Dit gebeurt wanneer mensen vertrouwen op geautomatiseerde beslissingen voor moreel significante kwesties, waardoor de menselijke controle en accountability afnemen.

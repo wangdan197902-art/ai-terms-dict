@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /vi/terms/ai_safety/
 date: "2026-07-18T15:22:23.225741Z"
 lastmod: "2026-07-18T16:38:07.677226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một lĩnh vực nghiên cứu tập trung vào việc ngăn ngừa các hậu quả có hại ngoài ý muốn từ các hệ thống trí tuệ nhân tạo tiên tiến."
 ---
-
 ## Definition
 
 An toàn AI bao gồm các nghiên cứu và thực tiễn nhằm đảm bảo rằng các hệ thống tự động hoạt động theo cách có lợi và không gây hại cho con người. Lĩnh vực này giải quyết các rủi ro như thiên kiến, thông tin sai lệch và các mối đe dọa bảo mật.

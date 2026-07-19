@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /zh/terms/sigmoid/
 date: "2026-07-18T11:33:18.814272Z"
 lastmod: "2026-07-18T11:44:45.553793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种数学函数，将任何实数值映射到零和一之间的值，形成S形曲线。"
 ---
-
 ## Definition
 
 S型函数定义为 σ(z) = 1 / (1 + e^-z)，广泛用于机器学习中对概率进行建模。它将输入值压缩到 (0, 1) 范围内，使其适用于二分类问题的输出层。

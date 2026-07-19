@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /ko/terms/perception_error_model/
 date: "2026-07-18T16:09:20.445345Z"
 lastmod: "2026-07-18T16:38:06.895737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "감각 데이터 해석의 부정확성을 정량화하고 보정하기 위해 사용되는 통계적 또는 알고리즘적 프레임워크."
 ---
-
 ## Definition
 
 지각 오차 모델은 관측된 감각 데이터와 실제 진실(Ground Truth) 사이의 불일치를 설명하며, 노이즈, 가림 현상, 또는 센서의 물리적 한계 등을 고려합니다. 이러한 오차를 모델링함으로써 인공지능 시스템은 더 정확하고 견고한 판단을 내릴 수 있으며, 센서 데이터의 신뢰성을 높일 수 있습니다.

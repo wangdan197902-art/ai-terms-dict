@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /id/terms/numerical/
 date: "2026-07-18T15:27:51.902526Z"
 lastmod: "2026-07-18T16:38:07.398436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Berhubungan dengan, melibatkan, atau menggunakan angka atau perhitungan matematika, bukan logika simbolik atau teks."
 ---
-
 ## Definition
 
 Dalam konteks AI dan ilmu data, numerik merujuk pada tipe data atau metode yang melibatkan nilai kuantitatif, seperti bilangan bulat, desimal, dan pecahan. Berbeda dengan data kategorikal atau tekstual, data numerik memungkinkan operasi matematika langsung.

@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /cs/terms/evidence/
 date: "2026-07-18T15:24:50.019691Z"
 lastmod: "2026-07-18T17:15:09.067748Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Data nebo informace používané k podpoře hypotézy nebo ověření výkonu modelu AI."
 ---
-
 ## Definition
 
 V umělé inteligenci důkaz označuje empirická data, statistické výsledky nebo pozorovatelné výstupy, které potvrzují tvrzení o chování, přesnosti nebo účinnosti modelu. Slouží jako základ pro...

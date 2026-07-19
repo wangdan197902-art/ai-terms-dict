@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /ro/terms/experiment_tracking/
 date: "2026-07-18T15:57:52.812457Z"
 lastmod: "2026-07-18T17:15:09.654265Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Urmărirea experimentelor este procesul sistematic de înregistrare a metadatelor, metricilor și artefactelor din experimentele de învățare automată pentru a asigura reproductibilitatea și a facilita co"
 ---
-
 ## Definition
 
 Această practică implică logarea hiperparametrilor, versiunilor seturilor de date, arhitecturilor modelelor și metricilor de performanță în timpul rulărilor de antrenament. Permite cercetătorilor de date să compare diferite configurații experimentale.

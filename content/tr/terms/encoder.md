@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /tr/terms/encoder/
 date: "2026-07-18T15:34:19.689951Z"
 lastmod: "2026-07-18T16:38:07.257144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir encoder, girdi verilerini sıkıştırılmış ve anlamlı bir temsile dönüştüren bir sinir ağı bileşenidir."
 ---
-
 ## Definition
 
 Encoder'lar ham girdi dizilerini veya veri yapılarını işleyip bunları genellikle gömme veya kodlar olarak adlandırılan gizli uzay temsillerine dönüştürür. Transformer ve Autoencoder gibi mimarilerde merkezî bir role sahiptirler.

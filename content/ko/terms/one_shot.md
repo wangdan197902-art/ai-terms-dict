@@ -1,23 +1,22 @@
 ---
-title: "원샷(one-shot)"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: 원샷(one-shot)
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /ko/terms/one_shot/
-date: "2026-07-18T15:32:17.763821Z"
-lastmod: "2026-07-18T16:38:06.790644Z"
+slug: one_shot
+date: '2026-07-18T15:32:17.763821Z'
+lastmod: '2026-07-18T16:38:06.790644Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델이 하나의 레이블된 예제만으로 작업을 학습하는 학습 패러다임입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델이 하나의 레이블된 예제만으로 작업을 학습하는 학습 패러다임입니다.
 ---
-
 ## Definition
 
 원샷 학습은 알고리즘이 훈련 중에 단 하나의 긍정적 예제만 본 후 새로운 클래스나 작업에 일반화해야 하는 퓨샷 학습의 특정 유형입니다. 이 접근 방식은 인간의 학습 능력을 모방합니다.

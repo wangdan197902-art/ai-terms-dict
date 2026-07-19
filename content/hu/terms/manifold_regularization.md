@@ -1,23 +1,25 @@
 ---
-title: "Manifold szabályozás"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Manifold szabályozás
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /hu/terms/manifold_regularization/
-date: "2026-07-18T16:12:18.088337Z"
-lastmod: "2026-07-18T17:15:09.810653Z"
+slug: manifold_regularization
+date: '2026-07-18T16:12:18.088337Z'
+lastmod: '2026-07-18T17:15:09.810653Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy félvezérelt tanuló technika, amely feltételezi, hogy az adatok egy alacsony dimenziós sokaságon helyezkednek el, és ezen geometriai szerkezet alapján szabályozza a modellt."
+source: agnes_llm
+status: published
+language: hu
+description: Egy félvezérelt tanuló technika, amely feltételezi, hogy az adatok egy
+  alacsony dimenziós sokaságon helyezkednek el, és ezen geometriai szerkezet alapján
+  szabályozza a modellt.
 ---
-
 ## Definition
 
 A manifold szabályozás kiterjeszti a hagyományos szabályozási módszereket az adateloszlás intrinzikus geometriájának bevonásával. Feltételezése szerint a magas dimenziós adatpontok egy alacsony dimenziós sokaságra sűrűsödnek, így a modell simaságát ezen a sokaságon keresztül kényszerítik ki, javítva az általánosítási képességeket kevés címkézett adat mellett is.

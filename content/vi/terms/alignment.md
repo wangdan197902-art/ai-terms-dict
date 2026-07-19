@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /vi/terms/alignment/
 date: "2026-07-18T15:22:23.225793Z"
 lastmod: "2026-07-18T16:38:07.677557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quá trình đảm bảo rằng các mục tiêu và hành vi của hệ thống AI phù hợp với giá trị và ý định của con người."
 ---
-
 ## Definition
 
 Alignment tập trung vào việc đảm bảo rằng các hệ thống AI làm những gì con người thực sự muốn, chứ không chỉ đơn thuần là làm những gì họ yêu cầu theo nghĩa đen. Nó bao gồm các kỹ thuật như Học tăng cường từ phản hồi của con người (RLHF) để điều chỉnh hành vi.

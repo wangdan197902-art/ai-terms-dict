@@ -1,23 +1,24 @@
 ---
-title: "Автоматическое распознавание речи"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Автоматическое распознавание речи
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /ru/terms/automatic_speech_recognition/
-date: "2026-07-18T15:42:21.720685Z"
-lastmod: "2026-07-18T16:38:07.124847Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:42:21.720685Z'
+lastmod: '2026-07-18T16:38:07.124847Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Технология, преобразующая устную речь в текст с использованием моделей глубокого обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Технология, преобразующая устную речь в текст с использованием моделей
+  глубокого обучения.
 ---
-
 ## Definition
 
 Автоматическое распознавание речи (ASR), также известное как преобразование речи в текст, является подразделом обработки речи, который использует искусственный интеллект для транскрибации аудиосигналов в письменный текст. Современные системы ASR...

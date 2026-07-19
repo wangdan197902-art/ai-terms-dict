@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /sv/terms/cognitive_robotics/
 date: "2026-07-18T15:49:08.531811Z"
 lastmod: "2026-07-18T17:15:08.985016Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Kognitiv robotik är ett fält som fokuserar på att skapa robotar med mänskligt liknande kognitiva förmågor, såsom perception, resonemang och inlärning."
 ---
-
 ## Definition
 
 Kognitiv robotik integrerar kognitiv vetenskap med robotik för att bygga maskiner som kan uppfatta sin omgivning, lära sig av erfarenhet och fatta autonoma beslut. Dessa robotar använder avancerade 

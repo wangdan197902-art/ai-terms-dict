@@ -1,23 +1,24 @@
 ---
-title: "Ροή"
-term_id: "flux"
-category: "basic_concepts"
-subcategory: ""
-tags: ["concepts", "data_flow", "systems"]
+title: Ροή
+term_id: flux
+category: basic_concepts
+subcategory: ''
+tags:
+- concepts
+- Data Flow
+- systems
 difficulty: 2
 weight: 1
-slug: "flux"
-aliases:
-  - /el/terms/flux/
-date: "2026-07-18T15:40:44.253265Z"
-lastmod: "2026-07-18T17:15:09.866608Z"
+slug: flux
+date: '2026-07-18T15:40:44.253265Z'
+lastmod: '2026-07-18T17:15:09.866608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ροή αναφέρεται στη συνεχή μεταβολή ή κίνηση δεδομένων, ενέργειας ή πληροφορίας μέσα σε ένα σύστημα ή δίκτυο."
+source: agnes_llm
+status: published
+language: el
+description: Η ροή αναφέρεται στη συνεχή μεταβολή ή κίνηση δεδομένων, ενέργειας ή
+  πληροφορίας μέσα σε ένα σύστημα ή δίκτυο.
 ---
-
 ## Definition
 
 Στους υπολογιστικούς контекστους, η ροή περιγράφει τον ρυθμό μεταφοράς μιας ποσότητας μέσω μιας δεδομένης περιοχής με την πάροδο του χρόνου. Στην τεχνητή νοημοσύνη και τη μηχανική δεδομένων, συχνά σχετίζεται με την εκροή δεδομένων, όπου η πληροφορία κινείται συνεχώς προς επεξεργασία.

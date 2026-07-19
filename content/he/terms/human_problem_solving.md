@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /he/terms/human_problem_solving/
 date: "2026-07-18T16:04:39.001898Z"
 lastmod: "2026-07-18T17:15:09.548148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "התהליך הקוגניטיבי שבו אנשים מזהים, מנתחים ומפצים בעיות מורכבות באמצעות היגיון, יצירתיות וניסיון."
 ---
-
 ## Definition
 
 פתרון בעיות אנושי כולל את היכולות הקוגניטיביות הרב-מערכתיות שאנשים משתמשים בהן כדי לנווט אתגרים, החל ממשימות פשוטות ועד לקשיים קונספטואליים מופשטים. בניגוד לגישות אלגוריתמיות...

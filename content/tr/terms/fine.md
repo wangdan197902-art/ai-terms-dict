@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /tr/terms/fine/
 date: "2026-07-18T15:25:11.953037Z"
 lastmod: "2026-07-18T16:38:07.232237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnce ayar, önceden eğitilmiş bir yapay zeka modelini ek verilerle belirli bir göreve veya alana uyarlamak sürecidir."
 ---
-
 ## Definition
 
 İnce ayar, büyük veri setlerinde eğitilmiş genel amaçlı bir modeli alıp, belirli görevlerde performansı artırmak amacıyla daha küçük, özelleşmiş bir veri setinde tekrar eğitmeyi içerir. Bu teknik, önceden öğrenilen özelliklerden yararlanır.

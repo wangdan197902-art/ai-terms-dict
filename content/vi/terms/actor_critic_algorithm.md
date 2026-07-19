@@ -1,23 +1,24 @@
 ---
-title: "Thuật toán Actor-Critic"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Thuật toán Actor-Critic
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /vi/terms/actor_critic_algorithm/
-date: "2026-07-18T15:39:21.625783Z"
-lastmod: "2026-07-18T16:38:07.724617Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:39:21.625783Z'
+lastmod: '2026-07-18T16:38:07.724617Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khung học tăng cường kết hợp các phương pháp dựa trên giá trị và dựa trên chính sách bằng cách sử dụng hai mạng nơ-ron: một Actor và một Critic."
+source: agnes_llm
+status: published
+language: vi
+description: 'Một khung học tăng cường kết hợp các phương pháp dựa trên giá trị và
+  dựa trên chính sách bằng cách sử dụng hai mạng nơ-ron: một Actor và một Critic.'
 ---
-
 ## Definition
 
 Thuật toán Actor-Critic sử dụng hai thành phần: Actor, cập nhật chính sách để chọn hành động, và Critic, đánh giá chất lượng của các hành động đó bằng cách ước lượng hàm giá trị.

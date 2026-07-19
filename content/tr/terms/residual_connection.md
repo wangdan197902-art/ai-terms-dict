@@ -1,23 +1,24 @@
 ---
-title: "Artımlı Bağlantı"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Artımlı Bağlantı
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /tr/terms/residual_connection/
-date: "2026-07-18T15:37:16.649664Z"
-lastmod: "2026-07-18T16:38:07.262952Z"
+slug: residual_connection
+date: '2026-07-18T15:37:16.649664Z'
+lastmod: '2026-07-18T16:38:07.262952Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Derin ağlarda gradyan akışını kolaylaştırmak için girdiyi doğrudan bir katmanın çıktısına ekleyen mekanizma."
+source: agnes_llm
+status: published
+language: tr
+description: Derin ağlarda gradyan akışını kolaylaştırmak için girdiyi doğrudan bir
+  katmanın çıktısına ekleyen mekanizma.
 ---
-
 ## Definition
 
 Atlayıcı bağlantılar olarak da bilinen artımlı bağlantılar, bir girdiyi sonraki bir katmanın çıktısına doğrudan ekleyerek gradyanların ağ üzerinden akmasını sağlar. Bu mimari, kaybolan gradyan sorununu çözer.

@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /ar/terms/server_sent_events/
 date: "2026-07-18T16:20:36.633120Z"
 lastmod: "2026-07-18T17:15:08.547397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "بروتوكول قياسي يسمح للخوادم الويب بدفع تحديثات فورية إلى العملاء عبر اتصال HTTP واحد."
 ---
-
 ## Definition
 
 تتيح أحداث موجهة من الخادم (SSE) اتجاهاً واحداً للاتصال من الخادم إلى العميل، حيث يمكن للخادم بث البيانات باستمرار دون الحاجة من العميل لإجراء استعلامات متكررة. تعتمد على بروتوكول HTTP العادي، مما يجعلها بسيطة وفعالة.

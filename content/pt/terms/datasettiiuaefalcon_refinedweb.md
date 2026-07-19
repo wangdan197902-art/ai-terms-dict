@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /pt/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T14:56:21.545555Z"
 lastmod: "2026-07-18T15:51:59.480691Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados massivo e de alta qualidade da web, curado pelo Instituto de Inovação Tecnológica para o pré-treinamento de grandes modelos de linguagem como o Falcon."
 ---
-
 ## Definition
 
 O RefinedWeb é um conjunto de dados em larga escala de páginas da web filtradas, projetado para o pré-treinamento de modelos fundamentais. Ele processa bilhões de páginas da web para remover conteúdo de baixa qualidade, duplicatas e material prejudicial.

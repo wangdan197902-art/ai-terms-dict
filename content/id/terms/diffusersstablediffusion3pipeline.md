@@ -1,23 +1,25 @@
 ---
-title: "Diffusers:Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: Diffusers:Stablediffusion3Pipeline
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /id/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:48:12.131978Z"
-lastmod: "2026-07-18T16:38:07.451112Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:48:12.131978Z'
+lastmod: '2026-07-18T16:38:07.451112Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah pipa yang mengimplementasikan arsitektur Stable Diffusion 3, menampilkan MMDiT dan Flow Matching untuk peningkatan kualitas gambar dan perenderan teks."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah pipa yang mengimplementasikan arsitektur Stable Diffusion 3, menampilkan
+  MMDiT dan Flow Matching untuk peningkatan kualitas gambar dan perenderan teks.
 ---
-
 ## Definition
 
 Pipa ini memanfaatkan model Stable Diffusion 3, yang memperkenalkan arsitektur Multimodal Diffusion Transformer (MMDiT) dan tujuan pelatihan Flow Matching. Kemajuan ini secara signifikan meningkatkan...

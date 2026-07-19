@@ -1,23 +1,24 @@
 ---
-title: "Deploy Continuo"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Deploy Continuo
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /it/terms/continuous_deployment/
-date: "2026-07-18T15:53:03.969793Z"
-lastmod: "2026-07-18T17:15:08.610145Z"
+slug: continuous_deployment
+date: '2026-07-18T15:53:03.969793Z'
+lastmod: '2026-07-18T17:15:08.610145Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una pratica di ingegneria del software in cui ogni modifica al codice che supera i test automatizzati viene rilasciata automaticamente in produzione."
+source: agnes_llm
+status: published
+language: it
+description: Una pratica di ingegneria del software in cui ogni modifica al codice
+  che supera i test automatizzati viene rilasciata automaticamente in produzione.
 ---
-
 ## Definition
 
 Il Deploy Continuo è un'estensione del Continuous Delivery che automatizza l'intero processo di rilascio. Una volta che le modifiche al codice superano tutti i criteri di qualità, inclusi i test unitari, i test di integrazione e la sicurezza...

@@ -1,23 +1,24 @@
 ---
-title: "Hangolás"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Hangolás
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /hu/terms/tuning/
-date: "2026-07-18T15:33:37.364871Z"
-lastmod: "2026-07-18T17:15:09.732742Z"
+slug: tuning
+date: '2026-07-18T15:33:37.364871Z'
+lastmod: '2026-07-18T17:15:09.732742Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A hiperparaméterek vagy modell súlyok beállítási folyamata a teljesítmény optimalizálása érdekében egy adott adathalmazon vagy feladaton."
+source: agnes_llm
+status: published
+language: hu
+description: A hiperparaméterek vagy modell súlyok beállítási folyamata a teljesítmény
+  optimalizálása érdekében egy adott adathalmazon vagy feladaton.
 ---
-
 ## Definition
 
 A hangolás egy gépi tanulási modell finomítását jelenti a jobb pontosság vagy hatékonyság eléréséhez. Hiperparaméter-hangolásra utalhat, ahol például a tanulási ráta vagy a kötetméret beállításait optimalizálják, vagy finomhangolásra.

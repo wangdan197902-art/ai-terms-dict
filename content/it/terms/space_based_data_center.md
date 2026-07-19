@@ -1,23 +1,25 @@
 ---
-title: "Data center spaziale"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: Data center spaziale
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /it/terms/space_based_data_center/
-date: "2026-07-18T16:21:54.130563Z"
-lastmod: "2026-07-18T17:15:08.670248Z"
+slug: space_based_data_center
+date: '2026-07-18T16:21:54.130563Z'
+lastmod: '2026-07-18T17:15:08.670248Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una struttura di calcolo situata in orbita che sfrutta le condizioni spaziali, come l'energia solare e il raffreddamento nel vuoto, per un'elaborazione efficiente dei dati."
+source: agnes_llm
+status: published
+language: it
+description: Una struttura di calcolo situata in orbita che sfrutta le condizioni
+  spaziali, come l'energia solare e il raffreddamento nel vuoto, per un'elaborazione
+  efficiente dei dati.
 ---
-
 ## Definition
 
 I data center spaziali sono strutture di calcolo proposte situate in orbita terrestre, progettate per sfruttare vantaggi ambientali unici come l'abbondante energia solare e il naturale vuoto dello spazio per il raffreddamento passivo. Questa configurazione mira a ridurre la latenza per gli utenti globali, migliorare l'efficienza energetica e gestire grandi volumi di dati provenienti direttamente dai satelliti senza doverli trasmettere prima a terra.

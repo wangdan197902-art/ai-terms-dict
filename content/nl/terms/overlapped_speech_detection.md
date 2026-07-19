@@ -1,23 +1,24 @@
 ---
-title: "Overlapped Speech Detection"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Overlapped Speech Detection
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /nl/terms/overlapped_speech_detection/
-date: "2026-07-18T16:11:13.430000Z"
-lastmod: "2026-07-18T17:15:08.774534Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:11:13.430000Z'
+lastmod: '2026-07-18T17:15:08.774534Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het identificeren van tijdssegmenten waarin twee of meer sprekers gelijktijdig praten in een audiostroom."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het identificeren van tijdssegmenten waarin twee of meer
+  sprekers gelijktijdig praten in een audiostroom.
 ---
-
 ## Definition
 
 Overlapped Speech Detection (OSD) is een gespecialiseerde taak in spraakverwerking die intervallen van gelijktijdige uitingen pinpointt. In tegenstelling tot speaker diarization, dat zich richt op 'wie sprak wanneer', concentreert OSD zich op...

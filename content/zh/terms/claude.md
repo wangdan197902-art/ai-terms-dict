@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /zh/terms/claude/
 date: "2026-07-18T10:59:27.500314Z"
 lastmod: "2026-07-18T11:44:45.397876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Claude是由Anthropic开发的一系列大语言模型，旨在成为有用、无害且诚实的AI助手。"
 ---
-
 ## Definition
 
 Claude是由AI安全公司Anthropic创建的一系列先进大语言模型。以其强大的对齐原则和宪法AI框架而闻名，Claude专注于提供有帮助、无害且诚实的响应。它在企业文档分析、代码生成与安全对话代理等场景中表现出色。

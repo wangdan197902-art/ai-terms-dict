@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /ar/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:11:51.200048Z"
 lastmod: "2026-07-18T17:15:08.525105Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تطبيق النماذج الحسابية لتحليل البيانات البيولوجية، مثل التسلسلات الجينية وهياكل البروتين، لاكتشاف رؤى بيولوجية جديدة."
 ---
-
 ## Definition
 
 يستخدم هذا المجال متعدد التخصصات التعلم الآلي لمعالجة كميات هائلة من البيانات البيولوجية، مما يمكّن الباحثين من التنبؤ بوظائف الجينات، وتصنيف الأمراض، وفهم التفاعلات الجزيئية المعقدة التي كانت صعبة التحليل بالطرق التقليدية.

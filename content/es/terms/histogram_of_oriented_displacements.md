@@ -1,23 +1,25 @@
 ---
-title: "Histograma de desplazamientos orientados"
-term_id: "histogram_of_oriented_displacements"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "video_analysis", "features"]
+title: Histograma de desplazamientos orientados
+term_id: histogram_of_oriented_displacements
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Video Analysis
+- features
 difficulty: 4
 weight: 1
-slug: "histogram_of_oriented_displacements"
-aliases:
-  - /es/terms/histogram_of_oriented_displacements/
-date: "2026-07-18T10:53:22.285563Z"
-lastmod: "2026-07-18T11:44:44.815608Z"
+slug: histogram_of_oriented_displacements
+date: '2026-07-18T10:53:22.285563Z'
+lastmod: '2026-07-18T11:44:44.815608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un descriptor de características utilizado en visión por computadora que captura patrones de movimiento analizando histogramas de desplazamiento en secuencias de vídeo."
+source: agnes_llm
+status: published
+language: es
+description: Un descriptor de características utilizado en visión por computadora
+  que captura patrones de movimiento analizando histogramas de desplazamiento en secuencias
+  de vídeo.
 ---
-
 ## Definition
 
 El Histograma de Desplazamientos Orientados (HOD) es un método de extracción de características para el análisis de vídeo que extiende el concepto de HOG (Histogram of Oriented Gradients) a la dimensión temporal. Calcula histogramas de vectores de flujo óptico dentro de regiones específicas, permitiendo la detección y clasificación de acciones humanas basándose en su dinámica de movimiento.

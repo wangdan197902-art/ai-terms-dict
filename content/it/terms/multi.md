@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /it/terms/multi/
 date: "2026-07-18T15:27:13.996336Z"
 lastmod: "2026-07-18T17:15:08.570313Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Prefisso che indica la presenza di più istanze, teste o modalità all'interno di un sistema o modello."
 ---
-
 ## Definition
 
 Il prefisso 'multi-' è frequentemente utilizzato nell'IA per denotare architetture o processi che coinvolgono diversi componenti paralleli. Esempi includono l'Attenzione Multi-Testa, che consente ai modelli di concentrarsi su diverse rappresentazioni.

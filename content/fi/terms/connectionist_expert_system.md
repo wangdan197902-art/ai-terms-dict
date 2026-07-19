@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /fi/terms/connectionist_expert_system/
 date: "2026-07-18T15:49:17.573611Z"
 lastmod: "2026-07-18T17:15:09.393954Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Älykäs järjestelmä, joka yhdistää neuroverkkojen oppimiskyvyt symboliseen päättelyyn."
 ---
-
 ## Definition
 
 Yhdisteyksellinen asiantuntijajärjestelmä integroi neuroverkkojen (yhdisteyksellisyyden) kuviontunnistus- ja oppimisvahvuudet perinteisen symbolisen tekoälyn eksplisiittiseen tiedon esittämiseen ja loogiseen päättelyyn.

@@ -1,23 +1,24 @@
 ---
-title: "Αυτοεποπτευόμενη Μάθηση"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Αυτοεποπτευόμενη Μάθηση
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /el/terms/self_supervised_learning/
-date: "2026-07-18T15:44:24.925069Z"
-lastmod: "2026-07-18T17:15:09.870914Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:44:24.925069Z'
+lastmod: '2026-07-18T17:15:09.870914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μέθοδος εκπαίδευσης όπου το μοντέλο δημιουργεί τις δικές του ετικέτες από τα δεδομένα εισόδου για να μάθει αναπαραστάσεις."
+source: agnes_llm
+status: published
+language: el
+description: Μια μέθοδος εκπαίδευσης όπου το μοντέλο δημιουργεί τις δικές του ετικέτες
+  από τα δεδομένα εισόδου για να μάθει αναπαραστάσεις.
 ---
-
 ## Definition
 
 Η αυτοεποπτευόμενη μάθηση είναι μια τεχνική όπου ο αλγόριθμος δημιουργεί εποπτικά σήματα από τα ίδια τα μη ετικετοποιημένα δεδομένα, συνήθως προβλέποντας τα λείποντα μέρη της εισόδου. Γεφυρώνει το χάσμα μεταξύ της μη εποπτευόμενης και της εποπτευόμενης μάθησης.

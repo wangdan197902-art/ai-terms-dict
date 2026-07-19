@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /no/terms/trade_off/
 date: "2026-07-18T15:35:54.944598Z"
 lastmod: "2026-07-18T16:38:06.955265Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En kompromissløsning der gevinst i ett område fører til tap i et annet."
 ---
-
 ## Definition
 
 Innen AI og ingeniørfag refererer en avveining til balansen som kreves når man optimaliserer motstridende mål, slik som modellnøyaktighet kontra regnekostnad eller latens kontra presisjon. Siden ressursene er begrensede, må man ofte velge mellom ytelse og effektivitet.

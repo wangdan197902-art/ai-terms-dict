@@ -1,23 +1,24 @@
 ---
-title: "Actor-kritiker-algoritme"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Actor-kritiker-algoritme
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /da/terms/actor_critic_algorithm/
-date: "2026-07-18T15:40:09.254961Z"
-lastmod: "2026-07-18T17:15:09.256223Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:40:09.254961Z'
+lastmod: '2026-07-18T17:15:09.256223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et forstærkningstræningsframework, der kombinerer værdibaserede og politikbaserede metoder ved hjælp af to neurale netværk: en actor og en kritiker."
+source: agnes_llm
+status: published
+language: da
+description: 'Et forstærkningstræningsframework, der kombinerer værdibaserede og politikbaserede
+  metoder ved hjælp af to neurale netværk: en actor og en kritiker.'
 ---
-
 ## Definition
 
 Actor-kritiker-algoritmen anvender to komponenter: actoren, som opdaterer politikken for at vælge handlinger, og kritikeren, som evaluerer kvaliteten af disse handlinger ved at estimere værdifunktionen.

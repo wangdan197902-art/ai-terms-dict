@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /ar/terms/datasetsearch_qa/
 date: "2026-07-18T15:52:32.454572Z"
 lastmod: "2026-07-18T17:15:08.493116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات تركز على مهام الإجابة على الأسئلة المستمدة من سجلات محركات البحث أو استعلامات الويب، مع التركيز على استرجاع المعلومات الواقعي."
 ---
-
 ## Definition
 
 تتكون مجموعات بيانات Search QA عادةً من أزواج من استعلامات البحث ومقتطفات إجابات ذات صلة أو مستندات مستخرجة من نتائج محرك البحث. تُعد هذه المجموعات حاسمة لتدريب النماذج على فهم...

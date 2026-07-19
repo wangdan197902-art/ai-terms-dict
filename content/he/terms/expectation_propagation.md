@@ -1,23 +1,24 @@
 ---
-title: "הפצת ציפיות"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: הפצת ציפיות
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /he/terms/expectation_propagation/
-date: "2026-07-18T15:56:31.062741Z"
-lastmod: "2026-07-18T17:15:09.538787Z"
+slug: expectation_propagation
+date: '2026-07-18T15:56:31.062741Z'
+lastmod: '2026-07-18T17:15:09.538787Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגוריתם הסקה מקורב המשמש להערכת התפלגויות לאחריות (Posterior) במודלים גרפים הסתברותיים מורכבים."
+source: agnes_llm
+status: published
+language: he
+description: אלגוריתם הסקה מקורב המשמש להערכת התפלגויות לאחריות (Posterior) במודלים
+  גרפים הסתברותיים מורכבים.
 ---
-
 ## Definition
 
 הפצת ציפיות (EP) מקרבת אינטגרלים בלתי ניתנים לפתרון על ידי שיפור איטרטיבי של קירובים גאוסיים להתפלגות האחריות האמיתית. היא מזערת את סטיית קולבק-לייבלר בין ההתפלגות המקורבת להתפלגות האמיתית, ומספקת קירוב מדויק יותר משיטות וריאציוניות פשוטות.

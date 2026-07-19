@@ -1,23 +1,24 @@
 ---
-title: "Batch normalizace"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Batch normalizace
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /cs/terms/batch_normalization/
-date: "2026-07-18T15:44:28.468674Z"
-lastmod: "2026-07-18T17:15:09.106045Z"
+slug: batch_normalization
+date: '2026-07-18T15:44:28.468674Z'
+lastmod: '2026-07-18T17:15:09.106045Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Batch normalizace je technika, která normalizuje vstupy vrstvy napříč minišarží za účelem stabilizace a zrychlení tréninku neuronových sítí."
+source: agnes_llm
+status: published
+language: cs
+description: Batch normalizace je technika, která normalizuje vstupy vrstvy napříč
+  minišarží za účelem stabilizace a zrychlení tréninku neuronových sítí.
 ---
-
 ## Definition
 
 Tato metoda upravuje a škáluje aktivace tak, aby měly nulovou střední hodnotu a jednotný rozptyl uvnitř každé minišarže během tréninku. Snižuje vnitřní kovariační posun, což umožňuje použití vyšších rychlostí učení a rychlejší konvergenci.

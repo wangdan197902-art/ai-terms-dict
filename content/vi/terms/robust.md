@@ -1,23 +1,24 @@
 ---
-title: "Bền vững"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Bền vững
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /vi/terms/robust/
-date: "2026-07-18T15:28:42.311869Z"
-lastmod: "2026-07-18T16:38:07.694273Z"
+slug: robust
+date: '2026-07-18T15:28:42.311869Z'
+lastmod: '2026-07-18T16:38:07.694273Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Mô tả khả năng duy trì hiệu suất của mô hình hoặc hệ thống AI bất chấp nhiễu, lỗi hoặc đầu vào không mong đợi."
+source: agnes_llm
+status: published
+language: vi
+description: Mô tả khả năng duy trì hiệu suất của mô hình hoặc hệ thống AI bất chấp
+  nhiễu, lỗi hoặc đầu vào không mong đợi.
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, tính bền vững (robustness) đề cập đến khả năng phục hồi của mô hình trước các cuộc tấn công đối kháng, sự thay đổi phân phối dữ liệu hoặc đầu vào nhiễu. Một thuật toán bền vững tiếp tục hoạt động chính xác ngay cả khi dữ liệu đầu vào bị biến đổi hoặc có lỗi.

@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /id/terms/robotic_process_automation/
 date: "2026-07-18T16:07:43.949075Z"
 lastmod: "2026-07-18T16:38:07.503758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penggunaan bot perangkat lunak untuk mengotomatisasi tugas digital yang bervolume tinggi dan repetitif, yang secara tradisional dilakukan oleh manusia dalam proses bisnis."
 ---
-
 ## Definition
 
 Otomatisasi Proses Robotik (RPA) menggunakan robot perangkat lunak, sering kali diperkuat dengan AI, untuk meniru interaksi manusia dengan sistem digital. RPA digunakan untuk merampingkan alur kerja seperti entri data, pemrosesan faktur,

@@ -1,23 +1,24 @@
 ---
-title: "Automatické rozpoznávání řeči"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Automatické rozpoznávání řeči
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /cs/terms/automatic_speech_recognition/
-date: "2026-07-18T15:44:14.703294Z"
-lastmod: "2026-07-18T17:15:09.105220Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:44:14.703294Z'
+lastmod: '2026-07-18T17:15:09.105220Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technologie, která převádí mluvený jazyk na text pomocí modelů hlubokého učení."
+source: agnes_llm
+status: published
+language: cs
+description: Technologie, která převádí mluvený jazyk na text pomocí modelů hlubokého
+  učení.
 ---
-
 ## Definition
 
 Automatické rozpoznávání řeči (ASR), známé také jako převod řeči na text, je podoborem zpracování řeči, který využívá umělou inteligenci k transkripci zvukových signálů do psaného textu. Moderní systémy ASR...

@@ -1,23 +1,24 @@
 ---
-title: "تنسيق GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: تنسيق GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /ar/terms/gguf/
-date: "2026-07-18T15:58:36.293077Z"
-lastmod: "2026-07-18T17:15:08.506314Z"
+slug: gguf
+date: '2026-07-18T15:58:36.293077Z'
+lastmod: '2026-07-18T17:15:08.506314Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تنسيق ملف طورته شركةgger.ai لتخزين وتحميل نماذج اللغة الكبيرة المُكمَّمة بكفاءة على الأجهزة المحلية."
+source: agnes_llm
+status: published
+language: ar
+description: تنسيق ملف طورته شركةgger.ai لتخزين وتحميل نماذج اللغة الكبيرة المُكمَّمة
+  بكفاءة على الأجهزة المحلية.
 ---
-
 ## Definition
 
 يُعد GGUF (الصيغة الموحدة المولدة بواسطة GPT) تنسيقاً ثنائياً للملفات صُمم خصيصاً لتشغيل نماذج اللغة الكبيرة على أجهزة المستهلك العادية. ويدعم تقنيات التكميم (quantization) المختلفة، مما يسمح بتقليل حجم النموذج واستهلاك الذاكرة دون التأثير الكبير على الدقة، مما يجعله مثالياً للتشغيل المحلي.

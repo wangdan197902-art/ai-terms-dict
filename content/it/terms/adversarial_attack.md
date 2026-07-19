@@ -1,23 +1,25 @@
 ---
-title: "Attacco avversario"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Attacco avversario
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /it/terms/adversarial_attack/
-date: "2026-07-18T15:44:31.652691Z"
-lastmod: "2026-07-18T17:15:08.595912Z"
+slug: adversarial_attack
+date: '2026-07-18T15:44:31.652691Z'
+lastmod: '2026-07-18T17:15:08.595912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un attacco avversario è una tecnica in cui piccole perturbazioni, spesso impercettibili, vengono aggiunti ai dati di input per ingannare i modelli di apprendimento automatico e indurli a effettuare pr"
+source: agnes_llm
+status: published
+language: it
+description: Un attacco avversario è una tecnica in cui piccole perturbazioni, spesso
+  impercettibili, vengono aggiunti ai dati di input per ingannare i modelli di apprendimento
+  automatico e indurli a effettuare pr
 ---
-
 ## Definition
 
 Gli attacchi avversari sfruttano le vulnerabilità delle reti neurali introducendo rumore sottile negli input, come immagini o testo, che provoca errori significativi nell'output del modello. Questi attacchi mettono in luce la fragilità dei modelli tradizionali.

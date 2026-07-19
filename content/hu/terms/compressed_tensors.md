@@ -1,23 +1,24 @@
 ---
-title: "Tömörített tenzorok"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Tömörített tenzorok
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /hu/terms/compressed_tensors/
-date: "2026-07-18T15:50:43.787119Z"
-lastmod: "2026-07-18T17:15:09.763826Z"
+slug: compressed_tensors
+date: '2026-07-18T15:50:43.787119Z'
+lastmod: '2026-07-18T17:15:09.763826Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyan tenzorok, amelyek adatpontossága vagy mérete csökkentése optimalizálja a tárolást és a számítási hatékonyságot."
+source: agnes_llm
+status: published
+language: hu
+description: Olyan tenzorok, amelyek adatpontossága vagy mérete csökkentése optimalizálja
+  a tárolást és a számítási hatékonyságot.
 ---
-
 ## Definition
 
 A tömörített tenzorok olyan többdimenziós tömbök, amelyeket a mélytanulásban használnak, és ahol a numerikus pontosság (például float32-ről int8-ra) vagy a ritkaság csökkentése megtörtént. Ezt a technikát kvantálásnak vagy tömörítésnek nevezik.

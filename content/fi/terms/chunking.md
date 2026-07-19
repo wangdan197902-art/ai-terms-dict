@@ -1,23 +1,24 @@
 ---
-title: "Purkaminen (Chunking)"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Purkaminen (Chunking)
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /fi/terms/chunking/
-date: "2026-07-18T15:46:39.460451Z"
-lastmod: "2026-07-18T17:15:09.390803Z"
+slug: chunking
+date: '2026-07-18T15:46:39.460451Z'
+lastmod: '2026-07-18T17:15:09.390803Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Purkaminen on prosessi, jossa suuria asiakirjoja tai datavirtoja jaetaan pienempiin, käsiteltäviin osiin indeksointia tai käsittelyä varten."
+source: agnes_llm
+status: published
+language: fi
+description: Purkaminen on prosessi, jossa suuria asiakirjoja tai datavirtoja jaetaan
+  pienempiin, käsiteltäviin osiin indeksointia tai käsittelyä varten.
 ---
-
 ## Definition
 
 Purkaminen on kriittinen esikäsittelyvaihe Hakuun perustuvassa generoinnissa (RAG) ja muissa luonnollisen kielen käsittelyn putkissa. Se sisältää tekstin jakamisen kiinteän kokoinen tai semanttisiin yksiköihin (paloiksi) kontekstiikkunan rajojen sisälle.

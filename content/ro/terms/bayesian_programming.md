@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /ro/terms/bayesian_programming/
 date: "2026-07-18T15:47:24.382476Z"
 lastmod: "2026-07-18T17:15:09.633148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru formal pentru raționamentul probabilistic care extinde inferența bayesiană la modele complexe și ierarhice."
 ---
-
 ## Definition
 
 Programarea bayesiană este un cadru matematic care generalizează teorema lui Bayes pentru a gestiona dependențe probabilistice complexe și stratificate. Permite dezvoltatorilor să definească modele ierarhice în care variabilele sunt organizate pe mai multe niveluri de abstractizare, facilitând modelarea incertitudinii în sisteme sofisticate.

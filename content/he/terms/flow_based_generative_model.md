@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /he/terms/flow_based_generative_model/
 date: "2026-07-18T15:57:45.659433Z"
 lastmod: "2026-07-18T17:15:09.541181Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מחלקה של מודלים יוצרים המשתמשים בהתמרות הפיכות כדי למפות התפלגויות פשוטות להתפלגויות נתונים מורכבות."
 ---
-
 ## Definition
 
 מודלים יוצרים מבוססי זרימה בונים התפלגויות הסתברות מורכבות על ידי יישום סדרה של התמרות הפיכות ונגילות על התפלגות בסיס פשוטה, כגון התפלגות נורמלית. בשל תכונה זו.

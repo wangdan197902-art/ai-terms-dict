@@ -1,23 +1,23 @@
 ---
-title: "通义千问编辑功能"
-term_id: "qwen_edit"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "editing", "productivity"]
+title: 通义千问编辑功能
+term_id: qwen_edit
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- editing
+- productivity
 difficulty: 2
 weight: 1
-slug: "qwen_edit"
-aliases:
-  - /zh/terms/qwen_edit/
-date: "2026-07-18T11:31:25.159492Z"
-lastmod: "2026-07-18T11:44:45.548428Z"
+slug: qwen_edit
+date: '2026-07-18T11:31:25.159492Z'
+lastmod: '2026-07-18T11:44:45.548428Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "通义千问编辑（Qwen Edit）指通义千问生态中专注于文本和内容编辑的能力或模型模块。"
+source: agnes_llm
+status: published
+language: zh
+description: 通义千问编辑（Qwen Edit）指通义千问生态中专注于文本和内容编辑的能力或模型模块。
 ---
-
 ## Definition
 
 通义千问编辑指的是通义千问系列中针对编辑、润色和重构文本内容的特定功能或模型迭代。这些能力允许用户重写、优化和结构化文本，以提升清晰度和专业性。

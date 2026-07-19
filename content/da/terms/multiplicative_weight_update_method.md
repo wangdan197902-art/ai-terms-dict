@@ -1,23 +1,24 @@
 ---
-title: "Metode til multiplikativ vægtopdatering"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Metode til multiplikativ vægtopdatering
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /da/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:09:00.675796Z"
-lastmod: "2026-07-18T17:15:09.314352Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:09:00.675796Z'
+lastmod: '2026-07-18T17:15:09.314352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En iterativ algoritme, der opdaterer vægte multiplikativt baseret på præstationsfeedback for at minimere anger."
+source: agnes_llm
+status: published
+language: da
+description: En iterativ algoritme, der opdaterer vægte multiplikativt baseret på
+  præstationsfeedback for at minimere anger.
 ---
-
 ## Definition
 
 Metoden til multiplikativ vægtopdatering er en grundlæggende algoritme til online læring, der bruges til at træffe beslutninger i usikre miljøer. Den opretholder en sæt af vægte for forskellige strategier eller eksperter.

@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /ro/terms/datasettrivia_qa/
 date: "2026-07-18T15:53:25.331142Z"
 lastmod: "2026-07-18T17:15:09.645499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date la scară largă pentru răspunsul la întrebări în domeniu deschis, care conține milioane de întrebări și răspunsuri din diverse domenii de trivia."
 ---
-
 ## Definition
 
 TriviaQA este un set de date conceput pentru răspunsul la întrebări în domeniu deschis, cuprinzând peste un milion de întrebări și răspunsurile corespunzătoare. A fost creat pentru a sfida modelele existente, necesitând ca acestea să integreze cunoștințe din multiple surse.

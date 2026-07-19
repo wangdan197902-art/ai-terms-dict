@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /tr/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T16:02:06.296106Z"
 lastmod: "2026-07-18T16:38:07.330591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenimi algoritmalarını kullanarak büyük, yapılandırılmamış veri setlerinden otomatik olarak kalıpları tanımlamak ve yapılandırılmış bilgi elde etmek sürecidir."
 ---
-
 ## Definition
 
 Bu alan, makine öğrenimi tekniklerini doğal dil işleme ve veri madenciliği ile birleştirerek ham verileri eyleme geçirilebilir bilgilere dönüştürür. Varlıkları tanımak, ilişkileri belirlemek ve anlamlı bilgiler üretmek için modellerin eğitilmesini içerir.

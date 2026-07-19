@@ -1,23 +1,26 @@
 ---
-title: "Vllm"
-term_id: "vllm"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "serving", "library"]
+title: Vllm
+term_id: vllm
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- serving
+- library
 difficulty: 4
 weight: 1
-slug: "vllm"
-aliases:
-  - /de/terms/vllm/
-date: "2026-07-18T11:37:38.125342Z"
-lastmod: "2026-07-18T11:44:44.997998Z"
+slug: vllm
+date: '2026-07-18T11:37:38.125342Z'
+lastmod: '2026-07-18T11:44:44.997998Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "vLLM ist eine hochdurchsatzorientierte und speichereffiziente Inferenz-Engine für Large Language Models, die PagedAttention nutzt, um die GPU-Speichernutzung zu optimieren."
+source: agnes_llm
+status: published
+language: de
+description: vLLM ist eine hochdurchsatzorientierte und speichereffiziente Inferenz-Engine
+  für Large Language Models, die PagedAttention nutzt, um die GPU-Speichernutzung
+  zu optimieren.
 ---
-
 ## Definition
 
 vLLM (Virtual Large Language Model) ist eine Open-Source-Bibliothek, die darauf ausgelegt ist, das Serving von LLMs zu beschleunigen. Es führt PagedAttention ein, eine Speichermanagement-Technik, die von der virtuellen Speicherverwaltung von Be

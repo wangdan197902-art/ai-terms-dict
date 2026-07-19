@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /tr/terms/cognitive_philology/
 date: "2026-07-18T15:45:11.387867Z"
 lastmod: "2026-07-18T16:38:07.283169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilişsel filoloji, dil, edebiyat ve metin tarihinin incelenmesinde hesaplama yöntemleri ve bilişsel bilim ilkelerini uygular."
 ---
-
 ## Definition
 
 Bilişsel filoloji, dijital beşeri bilimler, dilbilim ve bilişsel bilimleri birleştirerek metinleri ve dil evrimini analiz eden disiplinlerarası bir alandır. Metinleri işlemek ve dil değişimlerini izlemek için hesaplama araçlarından yararlanır.

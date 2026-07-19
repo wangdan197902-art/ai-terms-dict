@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /nl/terms/accountability/
 date: "2026-07-18T15:41:09.059603Z"
 lastmod: "2026-07-18T17:15:08.714199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het principe dat ontwikkelaars en exploitanten van AI-systemen aansprakelijk moeten zijn voor de uitkomsten en impact van die systemen."
 ---
-
 ## Definition
 
 Verantwoordelijkheid in kunstmatige intelligentie verwijst naar de verplichting van individuen, organisaties en ontwikkelaars om verantwoordelijkheid te nemen voor het ontwerp, de implementatie en de gevolgen van AI-technologieën.

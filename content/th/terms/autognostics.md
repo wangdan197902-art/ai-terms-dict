@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /th/terms/autognostics/
 date: "2026-07-18T15:43:09.760661Z"
 lastmod: "2026-07-18T16:38:07.576441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ความสามารถของระบบ AI ในการวินิจฉัยสถานะภายใน ปัญหาประสิทธิภาพ หรือข้อผิดพลาดของตนเองโดยไม่จำเป็นต้องมีการแทรกแซงจากมนุษย์"
 ---
-
 ## Definition
 
 Autognostics หมายถึงกลไกการตรวจสอบตนเองและการซ่อมแซมตนเองที่ฝังอยู่ในระบบอัจฉริยะ ช่วยให้ผู้แทน AI สามารถตรวจจับความผิดปกติ วินิจฉัยสาเหตุรากเหง้าของความล้มเหลว และอาจดำเนินการแก้ไขได้

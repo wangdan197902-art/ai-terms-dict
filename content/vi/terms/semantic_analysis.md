@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /vi/terms/semantic_analysis/
 date: "2026-07-18T16:11:18.636845Z"
 lastmod: "2026-07-18T16:38:07.803323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phân tích ngữ nghĩa là quá trình trích xuất ý nghĩa từ văn bản bằng cách hiểu các mối quan hệ giữa các từ và ngữ cảnh trong xử lý ngôn ngữ tự nhiên."
 ---
-
 ## Definition
 
 Nó vượt xa cấu trúc cú pháp để diễn giải ý định và tầm quan trọng thực sự của đầu vào ngôn ngữ. Điều này bao gồm việc loại bỏ sự mơ hồ về nghĩa của từ dựa trên ngữ cảnh, xác định các thực thể và hiểu sâu sắc hơn về thông điệp truyền tải.

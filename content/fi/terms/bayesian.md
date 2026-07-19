@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /fi/terms/bayesian/
 date: "2026-07-18T15:23:20.624108Z"
 lastmod: "2026-07-18T17:15:09.346461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Liittyy tilastollisiin menetelmiin, jotka perustuvat Bayesin teoreemaan todennäköisyyksien päivittämiseksi uusien todisteiden avulla."
 ---
-
 ## Definition
 
 Bayesiläiset lähestymistavat tekoälyssä käyttävät todennäköisyysteoriaa hypoteesien todennäköisyyksien päivittämiseksi enemmän saatavilla olevien todisteiden myötä. Tämä menetelmä mahdollistaa mallien kyvyn kvantifioida epävarmuutta ja hienosäätää ennusteita dynaamisesti.

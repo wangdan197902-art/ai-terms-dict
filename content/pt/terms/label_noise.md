@@ -1,23 +1,24 @@
 ---
-title: "Ruído de Rótulos"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Ruído de Rótulos
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /pt/terms/label_noise/
-date: "2026-07-18T15:07:34.362137Z"
-lastmod: "2026-07-18T15:51:59.506156Z"
+slug: label_noise
+date: '2026-07-18T15:07:34.362137Z'
+lastmod: '2026-07-18T15:51:59.506156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Erros ou inconsistências nos rótulos alvo de um conjunto de dados utilizado para treinamento de aprendizado de máquina supervisionado."
+source: agnes_llm
+status: published
+language: pt
+description: Erros ou inconsistências nos rótulos alvo de um conjunto de dados utilizado
+  para treinamento de aprendizado de máquina supervisionado.
 ---
-
 ## Definition
 
 Ruído de rótulos refere-se às discrepâncias entre os rótulos de classe verdadeiros das instâncias de dados e os rótulos fornecidos no conjunto de treinamento. Isso pode surgir de erros de anotação humana, pontos de dados ambíguos ou processos de coleta de dados defeituosos, afetando a performance do modelo.

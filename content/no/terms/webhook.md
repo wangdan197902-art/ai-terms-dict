@@ -1,23 +1,24 @@
 ---
-title: "Webhook"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Webhook
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /no/terms/webhook/
-date: "2026-07-18T16:21:09.889560Z"
-lastmod: "2026-07-18T16:38:07.057932Z"
+slug: webhook
+date: '2026-07-18T16:21:09.889560Z'
+lastmod: '2026-07-18T16:38:07.057932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En brukerdefinert HTTP-tilbakekall utløst av spesifikke hendelser, som lar systemet sende sanntidsvarsler til andre applikasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: En brukerdefinert HTTP-tilbakekall utløst av spesifikke hendelser, som
+  lar systemet sende sanntidsvarsler til andre applikasjoner.
 ---
-
 ## Definition
 
 En webhook er en mekanisme der én tjeneste gir sanntidsinformasjon til en annen tjeneste når en hendelse inntreffer. I stedet for å polla (spørre) etter endringer, sender kildesystemet en HTTP POST-forespørsel til en spesifisert URL når hendelsen skjer.

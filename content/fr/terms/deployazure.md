@@ -1,23 +1,23 @@
 ---
-title: "Déploiement : Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Déploiement : Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /fr/terms/deployazure/
-date: "2026-07-18T11:13:22.888321Z"
-lastmod: "2026-07-18T11:44:45.241984Z"
+slug: deployazure
+date: '2026-07-18T11:13:22.888321Z'
+lastmod: '2026-07-18T11:44:45.241984Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus d'hébergement et d'exécution de modèles d'apprentissage automatique sur les infrastructures cloud de Microsoft Azure."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus d'hébergement et d'exécution de modèles d'apprentissage
+  automatique sur les infrastructures cloud de Microsoft Azure.
 ---
-
 ## Definition
 
 Le déploiement sur Azure implique l'utilisation d'outils natifs du cloud tels qu'Azure Machine Learning, Azure Kubernetes Service (AKS) ou Azure Functions pour servir les modèles ML à grande échelle. Il englobe la gestion des ressources de calcul et...

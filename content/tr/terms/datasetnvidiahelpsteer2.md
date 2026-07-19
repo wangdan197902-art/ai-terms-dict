@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /tr/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:48:27.399647Z"
 lastmod: "2026-07-18T16:38:07.294022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Güçlendirilmiş öğrenmede insan geri bildiriminden öğrenme (RLHF) için ödül modellerini eğitmeye özel olarak tasarlanmış, yüksek kaliteli bir insan tercihleri veri seti."
 ---
-
 ## Definition
 
 Helpsteer2, NVIDIA tarafından yayınlanan ve büyük dil modelleri tarafından üretilen yanıtların ikili karşılaştırmalarını içeren özenle hazırlanmış bir veri setidir. Yardımseverlik, doğruluk, dürüstlük ve güvenlik gibi çok boyutlu insan tercihlerine odaklanır.

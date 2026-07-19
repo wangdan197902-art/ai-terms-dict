@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /zh/terms/google_colab/
 date: "2026-07-18T11:19:33.288248Z"
 lastmod: "2026-07-18T11:44:45.509927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种基于云的 Jupyter Notebook 环境，允许用户通过浏览器编写和执行 Python 代码，并提供免费的 GPU 访问权限。"
 ---
-
 ## Definition
 
 Google Colaboratory（通常简称为 Colab）是一项托管的 Jupyter Notebook 服务，无需进行任何设置即可使用，并提供免费的计算资源访问权限，包括图形处理器（GPU）。

@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /tr/terms/similarity_learning/
 date: "2026-07-18T16:13:56.999893Z"
 lastmod: "2026-07-18T16:38:07.365096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İki nesnenin ne kadar benzer veya farklı olduğunu belirlemek için bir mesafe metriği öğrenen bir makine öğrenimi yaklaşımı."
 ---
-
 ## Definition
 
 Benzerlik öğrenimi, modelleri girdileri bir vektör uzayına haritalayacak şekilde eğitmeye odaklanır; burada benzer öğeler birbirine yakın, benzer olmayanlar ise uzaktır. Siyami ağları veya üçlü kayıp fonksiyonları gibi teknikler bu amaçla kullanılır.

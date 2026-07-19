@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /cs/terms/embodied_agent/
 date: "2026-07-18T15:55:33.650835Z"
 lastmod: "2026-07-18T17:15:09.125754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vtělený agent je systém AI, který interaguje se svým prostředím prostřednictvím fyzického těla nebo smyslovo-motorického aparátu."
 ---
-
 ## Definition
 
 Na rozdíl od nevtělené AI, která zpracovává abstraktní data, vtělení agenti se učí a jedají v rámci fyzického kontextu, spoléhají na smyslové vstupy a motorické výstupy. Tento paradigma je klíčové pro robotiku a autonomní systémy.

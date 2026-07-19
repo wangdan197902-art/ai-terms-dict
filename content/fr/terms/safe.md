@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /fr/terms/safe/
 date: "2026-07-18T10:53:36.574514Z"
 lastmod: "2026-07-18T11:44:45.171172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Se réfère aux systèmes d'IA conçus pour fonctionner sans causer de dommages aux humains, aux biens ou à l'environnement."
 ---
-
 ## Definition
 
 La sûreté dans l'IA implique la mise en œuvre de contraintes et de sauvegardes pour garantir que les systèmes automatisés se comportent de manière prévisible et ne provoquent pas de conséquences négatives involontaires. Cela inclut des mesures techniques telles que les limites opérationnelles et les mécanismes d'arrêt d'urgence.

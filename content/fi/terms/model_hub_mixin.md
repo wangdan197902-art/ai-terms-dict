@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /fi/terms/model_hub_mixin/
 date: "2026-07-18T16:11:18.240348Z"
 lastmod: "2026-07-18T17:15:09.435357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Model Hub Mixin on uudelleenkäytettävä luokkakomponentti, joka lisää standardoituja toiminnallisuuksia Hugging Face Transformers -malleihin."
 ---
-
 ## Definition
 
 Mixin-tiedostot tarjoavat yleisiä metodeja, kuten mallien tallentamisen, lataamisen ja lähettämisen Hugging Face Hubiin, ilman että jokaisen arkkitehtuurin tarvitsee toteuttaa näitä apufunktioita erikseen. Ne varmistavat yhteensopivuuden ja koodin uudelleenkäytettävyyden ekosysteemissä.

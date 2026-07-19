@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /ar/terms/transformers/
 date: "2026-07-18T15:31:48.544638Z"
 lastmod: "2026-07-18T17:15:08.451585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "في هذا السياق، تشير إلى مكتبة Hugging Face Transformers، وهي أداة مفتوحة المصدر شائعة للنماذج المتطورة في معالجة اللغات الطبيعية متعددة الوسائط."
 ---
-
 ## Definition
 
 غالباً ما يشير مصطلح 'Transformers' إلى مكتبة بايثون واسعة الاستخدام التي تحافظ عليها شركة Hugging Face. توفر واجهات سهلة الاستخدام لتحميل وتدريب ونشر النماذج المدربة مسبقاً بناءً على

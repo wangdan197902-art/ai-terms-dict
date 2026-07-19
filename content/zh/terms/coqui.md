@@ -1,23 +1,23 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /zh/terms/coqui/
-date: "2026-07-18T11:11:39.245483Z"
-lastmod: "2026-07-18T11:44:45.466445Z"
+slug: coqui
+date: '2026-07-18T11:11:39.245483Z'
+lastmod: '2026-07-18T11:44:45.466445Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Coqui 是一家开源语音技术公司，以开发高质量的多语言文本转语音模型而闻名。"
+source: agnes_llm
+status: published
+language: zh
+description: Coqui 是一家开源语音技术公司，以开发高质量的多语言文本转语音模型而闻名。
 ---
-
 ## Definition
 
 Coqui Technologies 是开源 AI 社区中的知名参与者，最著名的是其 TTS（文本转语音）引擎。该项目提供了预训练模型，能够生成自然 sounding 的语音...

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /he/terms/safety/
 date: "2026-07-18T15:29:59.231698Z"
 lastmod: "2026-07-18T17:15:09.486557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הלימוד והפרקטיקה של הבטחה שמערכות בינה מלאכותית לא יגרמו לנזק פיזי, דיגיטלי או חברתי."
 ---
-
 ## Definition
 
 בטיחות בינה מלאכותית היא תחום רב-תחומי המתמקד במניעת תוצאות שליליות מבינה מלאכותית מתקדמת. הוא כולל אתגרים טכניים כמו יישור ערכים, ניתנות לפרשנות (Interpretability) ויציבות, לצד היבטים אתיים וחברתיים.

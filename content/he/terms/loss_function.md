@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /he/terms/loss_function/
 date: "2026-07-18T15:37:11.364286Z"
 lastmod: "2026-07-18T17:15:09.501028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פונקציה מתמטית המכמתת את ההפרש בין הערכים שחזר המודל לבין הערכים המטרה האמיתיים במהלך האימון."
 ---
-
 ## Definition
 
 ידועה גם כפונקציית עלות או שגיאה, פונקציית האובדן מספקת ערך סקלרי המציין את ביצועי המודל. במהלך האימון, אלגוריתמים אופטימיזציה משתמשים בערך זה כדי לחשב גרדיאנטים ולעדכן את משקולות המודל.

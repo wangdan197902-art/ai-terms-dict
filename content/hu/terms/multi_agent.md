@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /hu/terms/multi_agent/
 date: "2026-07-18T15:35:57.639775Z"
 lastmod: "2026-07-18T17:15:09.735932Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan rendszerarchitektúra, amelyben több autonóm ügynök lép kölcsönhatásba egy környezettel az egyéni vagy kollektív célok elérése érdekében."
 ---
-
 ## Definition
 
 A többügynökös rendszerek több független, intelligens entitásból állnak, amelyek érzékelik környezetüket, döntéseket hoznak és cselekszenek. Ezek az ügynökök együttműködhetnek, versenghetnek vagy tárgyalhatnak egymással.

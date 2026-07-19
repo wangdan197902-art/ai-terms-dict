@@ -1,23 +1,24 @@
 ---
-title: "Offen"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Offen
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /de/terms/open/
-date: "2026-07-18T10:52:31.574304Z"
-lastmod: "2026-07-18T11:44:44.879870Z"
+slug: open
+date: '2026-07-18T10:52:31.574304Z'
+lastmod: '2026-07-18T11:44:44.879870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "In der KI bezeichnet „offen“ typischerweise Open-Source-Modelle oder offene Aufgaben, die keine vordefinierten Einschränkungen oder vollständigen Lösungsräume aufweisen."
+source: agnes_llm
+status: published
+language: de
+description: In der KI bezeichnet „offen“ typischerweise Open-Source-Modelle oder
+  offene Aufgaben, die keine vordefinierten Einschränkungen oder vollständigen Lösungsräume
+  aufweisen.
 ---
-
 ## Definition
 
 Der Begriff „offen“ wird im Kontext der künstlichen Intelligenz oft für zwei unterschiedliche Bereiche verwendet: einerseits für Open-Source-Software, bei der Modellgewichte und Code öffentlich zugänglich sind und modifiziert werden können, und andererseits für offene Probleme.

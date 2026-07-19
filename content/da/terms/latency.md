@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /da/terms/latency/
 date: "2026-07-18T15:35:50.714337Z"
 lastmod: "2026-07-18T17:15:09.245787Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Tidsforsinkelsen mellem initieringen af en anmodning og starten på svaret i et AI-system."
 ---
-
 ## Definition
 
 Latens måler responsiviteten af en AI-tjeneste, typisk udtrykt i millisekunder. Det inkluderer inferenstid, netværks transmissionsforsinkelser og behandlingsomkostninger. Lav latens er kritisk for realtidsapplikationer, hvor hurtig respons er nødvendig for en god brugeroplevelse og funktionel stabilitet.

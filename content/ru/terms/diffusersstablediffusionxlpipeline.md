@@ -1,23 +1,25 @@
 ---
-title: "Диффузоры: конвейер Stable Diffusion XL"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Диффузоры: конвейер Stable Diffusion XL'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /ru/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:50:27.940165Z"
-lastmod: "2026-07-18T16:38:07.150225Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:50:27.940165Z'
+lastmod: '2026-07-18T16:38:07.150225Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Конвейер для Stable Diffusion XL (SDXL), предлагающий повышенное разрешение, детализацию и соблюдение инструкций по сравнению с предыдущими версиями."
+source: agnes_llm
+status: published
+language: ru
+description: Конвейер для Stable Diffusion XL (SDXL), предлагающий повышенное разрешение,
+  детализацию и соблюдение инструкций по сравнению с предыдущими версиями.
 ---
-
 ## Definition
 
 Этот конвейер реализует архитектуру Stable Diffusion XL, которая использует уточненную базовую модель и модель-уточнитель для создания изображений высокого разрешения (1024x1024) с превосходной детализацией и композицией. Он...

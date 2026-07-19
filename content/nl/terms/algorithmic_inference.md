@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /nl/terms/algorithmic_inference/
 date: "2026-07-18T15:41:57.271723Z"
 lastmod: "2026-07-18T17:15:08.715944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Algoritmische inferentie is het proces waarbij een getraind machine learning-model geleerde patronen toepast op nieuwe, onbekende gegevens om voorspellingen of beslissingen te maken."
 ---
-
 ## Definition
 
 Ook wel voorspelling of scoring genoemd, vindt inferentie plaats na de trainingsfase van het model. Het algoritme neemt invoerfuncties, verwerkt deze via zijn interne structuur (zoals gewichten in een neurale netwerk) en produceert een output.

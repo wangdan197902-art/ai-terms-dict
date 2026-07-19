@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /tr/terms/understanding/
 date: "2026-07-18T15:30:35.879474Z"
 lastmod: "2026-07-18T16:38:07.246883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada, modelin sadece desen eşleştirme yapmak yerine girdi verisi içindeki anlamsal anlamı, bağlamı ve niyeti kavrama yeteneği."
 ---
-
 ## Definition
 
 Yapay zeka anlama, istatistiksel korelasyonun ötesine geçerek verinin arkasındaki temel anlamı yorumlar. Dil modelleri için bu, tutarlı ve anlamlı çıktılar üretmek üzere sözdizimini, anlam bilgisi ve pragmatik kavramları kavramayı içerir.

@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /nl/terms/extremal_optimization/
 date: "2026-07-18T15:54:49.347783Z"
 lastmod: "2026-07-18T17:15:08.743833Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Extremaal optimalisatie is een heuristisch zoekalgoritme, geïnspireerd door zelforganiserende kritikaliteit, dat is ontworpen om combinatorische optimalisatieproblemen op te lossen door iteratief de s"
 ---
-
 ## Definition
 
 In tegenstelling tot genetische algoritmen die een populatie onderhouden, werkt EO op basis van één oplossing. Het identificeert het onderdeel dat het minst bijdraagt aan de algehele geschiktheid en vervangt dit door een willekeurig alternatief.

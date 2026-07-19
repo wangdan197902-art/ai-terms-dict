@@ -1,23 +1,23 @@
 ---
-title: "에피션트(효율적)"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: 에피션트(효율적)
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /ko/terms/efficient/
-date: "2026-07-18T15:24:05.368925Z"
-lastmod: "2026-07-18T16:38:06.772295Z"
+slug: efficient
+date: '2026-07-18T15:24:05.368925Z'
+lastmod: '2026-07-18T16:38:06.772295Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "AI에서 효율성은 시간, 메모리, 컴퓨팅 파워와 같은 최소한의 자원 소비로 최적의 성능을 달성하는 것을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: AI에서 효율성은 시간, 메모리, 컴퓨팅 파워와 같은 최소한의 자원 소비로 최적의 성능을 달성하는 것을 의미합니다.
 ---
-
 ## Definition
 
 효율은 모델이나 알고리즘이 사용 가능한 자원을 얼마나 잘 활용하는지를 측정하는 AI의 핵심 지표입니다. 여기에는 컴퓨팅 효율성(추론 및 훈련 속도)과...

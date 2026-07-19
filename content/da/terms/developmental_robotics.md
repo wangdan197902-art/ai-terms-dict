@@ -1,23 +1,23 @@
 ---
-title: "Udviklingsrobotik"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Udviklingsrobotik
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /da/terms/developmental_robotics/
-date: "2026-07-18T15:52:22.737641Z"
-lastmod: "2026-07-18T17:15:09.280350Z"
+slug: developmental_robotics
+date: '2026-07-18T15:52:22.737641Z'
+lastmod: '2026-07-18T17:15:09.280350Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et tværfagligt felt, der studerer, hvordan robotter kan tilegne sig komplekse færdigheder gennem interaktion med deres miljø og omsorgspersoner."
+source: agnes_llm
+status: published
+language: da
+description: Et tværfagligt felt, der studerer, hvordan robotter kan tilegne sig komplekse
+  færdigheder gennem interaktion med deres miljø og omsorgspersoner.
 ---
-
 ## Definition
 
 Udviklingsrobotik henter inspiration fra menneskelig kognitiv udvikling til at skabe robotter, der lærer autonomt over tid. I stedet for at programmere alle adfærdsmønstre på forhånd, bruger disse systemer mekanismer som

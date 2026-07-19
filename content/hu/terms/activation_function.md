@@ -1,23 +1,25 @@
 ---
-title: "Aktivációs függvény"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Aktivációs függvény
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /hu/terms/activation_function/
-date: "2026-07-18T15:37:01.184054Z"
-lastmod: "2026-07-18T17:15:09.738305Z"
+slug: activation_function
+date: '2026-07-18T15:37:01.184054Z'
+lastmod: '2026-07-18T17:15:09.738305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy matematikai egyenlet, amely meghatározza egy neurális hálózati csomópont kimenetét a bemeneti jel alapján."
+source: agnes_llm
+status: published
+language: hu
+description: Egy matematikai egyenlet, amely meghatározza egy neurális hálózati csomópont
+  kimenetét a bemeneti jel alapján.
 ---
-
 ## Definition
 
 Az aktivációs függvény nemlinearitást vezet be a neurális hálózatba, lehetővé téve számára, hogy komplex mintázatokat és összefüggéseket tanuljon meg az adatokban. Ezek nélkül egy többrétegű hálózat lineáris viselkedést mutatna...

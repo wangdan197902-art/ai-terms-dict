@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /fr/terms/serverless/
 date: "2026-07-18T11:37:32.319193Z"
 lastmod: "2026-07-18T11:44:45.327075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un modèle d'exécution informatique en nuage où le fournisseur gère dynamiquement l'allocation des ressources informatiques au lieu de l'utilisateur."
 ---
-
 ## Definition
 
 L'architecture sans serveur permet aux développeurs de créer et d'exécuter des applications sans gérer l'infrastructure des serveurs. Le fournisseur de nuage met automatiquement à l'échelle les ressources en fonction de la demande, facturant uniquement l'utilisation effective.

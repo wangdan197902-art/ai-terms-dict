@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /ro/terms/circuit/
 date: "2026-07-18T15:49:19.178927Z"
 lastmod: "2026-07-18T17:15:09.636138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un circuit se referă la infrastructura fizică de hardware, inclusiv cipuri și interconexiuni, care execută sarcini computaționale."
 ---
-
 ## Definition
 
 În contextul inteligenței artificiale, un circuit denotă de obicei arhitectura hardware de bază, cum ar fi GPU-uri, TPU-uri sau cipuri neuromorfice, concepute pentru a accelera operațiile matriciale și procesarea paralelă. Acestea

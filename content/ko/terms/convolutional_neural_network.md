@@ -1,23 +1,23 @@
 ---
-title: "합성곱 신경망"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: 합성곱 신경망
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /ko/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:33.610392Z"
-lastmod: "2026-07-18T16:38:06.766554Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:33.610392Z'
+lastmod: '2026-07-18T16:38:06.766554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "이미지와 같은 격자 형태 데이터를 처리하기 위해 합성곱 필터를 적용하는 데 주로 사용되는 딥 뉴럴 네트워크의 특수 클래스."
+source: agnes_llm
+status: published
+language: ko
+description: 이미지와 같은 격자 형태 데이터를 처리하기 위해 합성곱 필터를 적용하는 데 주로 사용되는 딥 뉴럴 네트워크의 특수 클래스.
 ---
-
 ## Definition
 
 합성곱 신경망(CNN)은 시각적 입력으로부터 특징의 공간적 계층 구조를 자동으로 그리고 적응적으로 학습하도록 설계되었습니다. 이들은 패턴을 감지하기 위해 필터를 적용하는 합성곱 레이어를 사용합니다.

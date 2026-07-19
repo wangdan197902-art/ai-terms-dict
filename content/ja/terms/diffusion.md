@@ -1,23 +1,23 @@
 ---
-title: "拡散"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: 拡散
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /ja/terms/diffusion/
-date: "2026-07-18T10:49:45.052475Z"
-lastmod: "2026-07-18T11:44:45.004310Z"
+slug: diffusion
+date: '2026-07-18T10:49:45.052475Z'
+lastmod: '2026-07-18T11:44:45.004310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "徐々にノイズを加えるプロセスを逆転させることでデータを生成し、クリーンなサンプルを再構築する生成モデリング手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 徐々にノイズを加えるプロセスを逆転させることでデータを生成し、クリーンなサンプルを再構築する生成モデリング手法。
 ---
-
 ## Definition
 
 拡散モデルは、データにノイズを追加する確率過程を逆学習する生成AIの一種です。ニューラルネットワークにこのノイズを段階的に予測して除去させることで訓練され、これにより高品質なデータを生成することができます。

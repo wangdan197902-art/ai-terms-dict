@@ -1,23 +1,24 @@
 ---
-title: "Competiția de Programare AI Halite"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Competiția de Programare AI Halite
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /ro/terms/halite_ai_programming_competition/
-date: "2026-07-18T16:01:59.981690Z"
-lastmod: "2026-07-18T17:15:09.663590Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T16:01:59.981690Z'
+lastmod: '2026-07-18T17:15:09.663590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O competiție de programare competitivă în care participanții scriu agenți AI pentru a juca un joc de strategie care implică gestionarea resurselor și lupta."
+source: agnes_llm
+status: published
+language: ro
+description: O competiție de programare competitivă în care participanții scriu agenți
+  AI pentru a juca un joc de strategie care implică gestionarea resurselor și lupta.
 ---
-
 ## Definition
 
 Halite a fost o competiție anuală de programare AI găzduită de Two Sigma, în care dezvoltatorii creau agenți autonomi pentru a juca un joc de strategie pe ture, pe o grilă virtuală. Obiectivul principal implica colectarea de resurse, expansiunea teritoriului și eliminarea agenților adversari, testând astfel abilitățile de planificare și adaptare ale algoritmilor.

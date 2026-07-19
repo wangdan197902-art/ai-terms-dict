@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /nl/terms/datasetsearch_qa/
 date: "2026-07-18T15:50:12.598086Z"
 lastmod: "2026-07-18T17:15:08.734903Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een dataset gericht op vraag-antwoordtaken afgeleid van zoekmachine-logs of webqueries, met nadruk op informatieopvraging in de echte wereld."
 ---
-
 ## Definition
 
 Zoekopdracht QA-datasets bestaan meestal uit paren van zoekopdrachten en relevante antwoordfragmenten of documenten die zijn geëxtraheerd uit zoekmachine-resultaten. Deze datasets zijn cruciaal voor het trainen van modellen om zoekintenties te begrijpen.

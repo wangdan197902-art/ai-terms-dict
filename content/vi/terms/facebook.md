@@ -1,23 +1,25 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /vi/terms/facebook/
-date: "2026-07-18T15:52:41.674411Z"
-lastmod: "2026-07-18T16:38:07.756606Z"
+slug: facebook
+date: '2026-07-18T15:52:41.674411Z'
+lastmod: '2026-07-18T16:38:07.756606Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nền tảng mạng xã hội và công ty công nghệ lớn có ảnh hưởng đáng kể đến sự phát triển của trí tuệ nhân tạo thông qua nghiên cứu mã nguồn mở và hệ sinh thái dữ liệu quy mô lớn."
+source: agnes_llm
+status: published
+language: vi
+description: Một nền tảng mạng xã hội và công ty công nghệ lớn có ảnh hưởng đáng kể
+  đến sự phát triển của trí tuệ nhân tạo thông qua nghiên cứu mã nguồn mở và hệ sinh
+  thái dữ liệu quy mô lớn.
 ---
-
 ## Definition
 
 Facebook, hiện là một phần của Meta Platforms Inc., là lực lượng dẫn đầu trong nghiên cứu và ứng dụng trí tuệ nhân tạo. Nó lưu trữ lượng lớn dữ liệu do người dùng tạo ra, được sử dụng để huấn luyện các mô hình học máy.

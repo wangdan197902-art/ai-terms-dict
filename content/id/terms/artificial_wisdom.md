@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /id/terms/artificial_wisdom/
 date: "2026-07-18T15:39:29.720321Z"
 lastmod: "2026-07-18T16:38:07.429571Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Perluasan AI melampaui kecerdasan untuk mencakup penilaian, etika, dan pemahaman kontekstual guna pengambilan keputusan yang tepat."
 ---
-
 ## Definition
 
 Kebijaksanaan buatan (AW) adalah konsep yang berkembang yang berupaya memperkuat kecerdasan buatan dengan nilai-nilai mirip manusia, pertimbangan etis, dan penilaian strategis jangka panjang. Sementara AI berfokus pada efisiensi

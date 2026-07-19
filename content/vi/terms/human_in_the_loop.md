@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /vi/terms/human_in_the_loop/
 date: "2026-07-18T15:35:52.611626Z"
 lastmod: "2026-07-18T16:38:07.709743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thiết kế hệ thống nơi con người tham gia tích cực vào quá trình ra quyết định hoặc cung cấp phản hồi cho mô hình AI."
 ---
-
 ## Definition
 
 Con người trong vòng lặp (HITL) đề cập đến các hệ thống AI yêu cầu sự can thiệp của con người ở nhiều giai đoạn khác nhau của quy trình làm việc, chẳng hạn như gán nhãn dữ liệu, đánh giá mô hình hoặc phê duyệt quyết định cuối cùng. Cách tiếp cận này đảm bảo tính chính xác và trách nhiệm giải trình.

@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /tr/terms/pattern_theory/
 date: "2026-07-18T16:08:15.151714Z"
 lastmod: "2026-07-18T16:38:07.345986Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Veri uzaylarındaki desenleri analiz ederek karmaşık yapıları tanımlamak için kullanılan matematiksel bir çerçeve."
 ---
-
 ## Definition
 
 Desen teorisi, karmaşık nesnelerin ve olayların desenler aracılığıyla nasıl tanımlanabileceğini anlamak için sağlam bir matematiksel temel sağlar. Herhangi bir nesnenin, sahip olduğu desenlerle karakterize edilebileceği varsayımına dayanır.

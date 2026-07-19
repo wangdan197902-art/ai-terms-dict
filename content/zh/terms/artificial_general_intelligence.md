@@ -1,23 +1,23 @@
 ---
-title: "通用人工智能"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: 通用人工智能
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /zh/terms/artificial_general_intelligence/
-date: "2026-07-18T11:06:41.243894Z"
-lastmod: "2026-07-18T11:44:45.444142Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T11:06:41.243894Z'
+lastmod: '2026-07-18T11:44:45.444142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "假设的AI，具备在广泛任务中以人类水平理解、学习和应用知识的能力。"
+source: agnes_llm
+status: published
+language: zh
+description: 假设的AI，具备在广泛任务中以人类水平理解、学习和应用知识的能力。
 ---
-
 ## Definition
 
 通用人工智能（AGI）指的是一种能够执行人类所能完成的任何智力任务的AI类型。与擅长特定任务（如国际象棋或图像识别）的狭义AI不同，AGI具有广泛的适应能力。

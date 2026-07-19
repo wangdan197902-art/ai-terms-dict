@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /zh/terms/monte/
 date: "2026-07-18T10:53:03.111224Z"
 lastmod: "2026-07-18T11:44:45.377552Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "蒙特卡洛指代蒙特卡洛方法，该方法使用重复的随机抽样来获得原则上确定但过于复杂而无法解析求解的问题的数值结果。"
 ---
-
 ## Definition
 
 蒙特卡洛技术是一类依赖重复随机抽样来估算数学量的计算算法。它们在多维积分、概率推断以及处理具有不确定性的复杂系统时特别有用，通过大量样本的平均值来逼近真实解。

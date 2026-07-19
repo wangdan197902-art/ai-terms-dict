@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /da/terms/equalized_odds/
 date: "2026-07-18T15:54:50.328751Z"
 lastmod: "2026-07-18T17:15:09.286029Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En retfærdighedsmetric, der kræver, at rate for sandt positiv og falsk positiv er ens på tværs af forskellige demografiske grupper."
 ---
-
 ## Definition
 
 Lige sandsynligheder er en statistisk paritetsbegrænsning, der bruges inden for algoritmesk retfærdighed til at sikre, at en model performer lige godt for alle beskyttede grupper. Specifikt kræver det, at sandsynligheden for en korrekt positiv klassificering er den samme uanset gruppetilhørsforhold, givet den faktiske status.

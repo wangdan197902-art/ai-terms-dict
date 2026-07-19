@@ -1,23 +1,24 @@
 ---
-title: "Программный агент"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Программный агент
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /ru/terms/software_agent/
-date: "2026-07-18T16:15:19.529193Z"
-lastmod: "2026-07-18T16:38:07.202936Z"
+slug: software_agent
+date: '2026-07-18T16:15:19.529193Z'
+lastmod: '2026-07-18T16:38:07.202936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Компьютерная программа, выполняющая задачи от имени пользователей или других программ с определенной степенью автономности."
+source: agnes_llm
+status: published
+language: ru
+description: Компьютерная программа, выполняющая задачи от имени пользователей или
+  других программ с определенной степенью автономности.
 ---
-
 ## Definition
 
 Программный агент — это автономная сущность, способная воспринимать свою среду, рассуждать и действовать для достижения конкретных целей. Эти агенты могут функционировать независимо, адаптироваться к изменениям окружающей среды и сотрудничать с другими агентами. Они часто используются в сложных системах, где требуется автоматизация рутинных процессов или принятие решений в реальном времени на основе поступающих данных.

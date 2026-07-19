@@ -1,23 +1,24 @@
 ---
-title: "Samenvatting"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Samenvatting
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /nl/terms/summarization/
-date: "2026-07-18T15:39:02.758009Z"
-lastmod: "2026-07-18T17:15:08.709256Z"
+slug: summarization
+date: '2026-07-18T15:39:02.758009Z'
+lastmod: '2026-07-18T17:15:08.709256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een NLP-taak die een beknopte en samenhangende samenvatting genereert van een langere tekst, waarbij de kerninformatie behouden blijft."
+source: agnes_llm
+status: published
+language: nl
+description: Een NLP-taak die een beknopte en samenhangende samenvatting genereert
+  van een langere tekst, waarbij de kerninformatie behouden blijft.
 ---
-
 ## Definition
 
 Tekstsamenvatting reduceert grote hoeveelheden tekst tot kortere versies zonder kritieke betekenis te verliezen. Dit kan extractief zijn, waarbij belangrijke zinnen uit de bron worden geselecteerd, of abstracter, waarbij nieuwe zinnen worden gegenereerd.

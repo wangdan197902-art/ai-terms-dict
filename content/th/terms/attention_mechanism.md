@@ -1,23 +1,23 @@
 ---
-title: "กลไกความสนใจ"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: กลไกความสนใจ
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /th/terms/attention_mechanism/
-date: "2026-07-18T15:22:37.178737Z"
-lastmod: "2026-07-18T16:38:07.530713Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:37.178737Z'
+lastmod: '2026-07-18T16:38:07.530713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่อนุญาตให้เครือข่ายประสาทเทียมมุ่งเน้นไปที่ส่วนเฉพาะของข้อมูลอินพุตเมื่อสร้างผลลัพธ์"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่อนุญาตให้เครือข่ายประสาทเทียมมุ่งเน้นไปที่ส่วนเฉพาะของข้อมูลอินพุตเมื่อสร้างผลลัพธ์
 ---
-
 ## Definition
 
 กลไกความสนใจช่วยให้โมเดลสามารถชั่งน้ำหนักความสำคัญขององค์ประกอบต่างๆ ภายในลำดับข้อมูลอินพุตได้อย่างไดนามิก แทนที่จะปฏิบัติต่อข้อมูลอินพุตทั้งหมดเท่ากัน มันจะกำหนดระดับความสำคัญที่แตกต่างกันให้กับข้อมูลแต่ละส่วน

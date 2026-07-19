@@ -1,23 +1,24 @@
 ---
-title: "Độc hại"
-term_id: "toxicity"
-category: "ethics_safety"
-subcategory: ""
-tags: ["safety", "ethics", "nlp"]
+title: Độc hại
+term_id: toxicity
+category: ethics_safety
+subcategory: ''
+tags:
+- safety
+- ethics
+- NLP
 difficulty: 2
 weight: 1
-slug: "toxicity"
-aliases:
-  - /vi/terms/toxicity/
-date: "2026-07-18T16:14:55.621180Z"
-lastmod: "2026-07-18T16:38:07.813058Z"
+slug: toxicity
+date: '2026-07-18T16:14:55.621180Z'
+lastmod: '2026-07-18T16:38:07.813058Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Sự hiện diện của nội dung gây hại, xúc phạm hoặc lạm dụng trong văn bản do AI tạo ra, bao gồm ngôn từ thù ghét, quấy rối và đe dọa."
+source: agnes_llm
+status: published
+language: vi
+description: Sự hiện diện của nội dung gây hại, xúc phạm hoặc lạm dụng trong văn bản
+  do AI tạo ra, bao gồm ngôn từ thù ghét, quấy rối và đe dọa.
 ---
-
 ## Definition
 
 Độc hại trong AI đề cập đến việc tạo ra hoặc lan truyền nội dung thiếu tôn trọng, có khả năng khiến người khác rời khỏi cuộc thảo luận hoặc tập trung vào một danh tính cụ thể. Nó bao gồm một phổ từ những lời lẽ thô tục nhẹ đến các mối đe dọa bạo lực nghiêm trọng.

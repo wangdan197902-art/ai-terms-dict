@@ -1,23 +1,24 @@
 ---
-title: "Feed-Forward Network"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Feed-Forward Network
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /de/terms/feed_forward_network/
-date: "2026-07-18T11:14:30.485439Z"
-lastmod: "2026-07-18T11:44:44.940516Z"
+slug: feed_forward_network
+date: '2026-07-18T11:14:30.485439Z'
+lastmod: '2026-07-18T11:44:44.940516Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Klasse künstlicher neuronaler Netze, bei denen die Verbindungen zwischen Knoten keine Zyklen bilden und Informationen in eine Richtung fließen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Klasse künstlicher neuronaler Netze, bei denen die Verbindungen
+  zwischen Knoten keine Zyklen bilden und Informationen in eine Richtung fließen.
 ---
-
 ## Definition
 
 Feed-Forward Networks (FFNs), auch als Multi-Layer-Perzeptron (MLP) bekannt, verarbeiten Daten sequenziell durch Schichten von Neuronen vom Eingang zum Ausgang ohne Rückkopplungsschleifen. Jedes Neuron empfängt Eingaben, wendet eine gewichtete Summe an und leitet das Ergebnis durch eine Aktivierungsfunktion weiter, um nichtlineare Probleme zu lösen.

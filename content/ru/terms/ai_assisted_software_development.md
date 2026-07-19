@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /ru/terms/ai_assisted_software_development/
 date: "2026-07-18T15:38:09.078282Z"
 lastmod: "2026-07-18T16:38:07.114997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Использование инструментов ИИ для повышения производительности в процессах написания кода, отладки, тестирования и проектирования."
 ---
-
 ## Definition
 
 Разработка программного обеспечения с помощью ИИ предполагает использование моделей машинного обучения для поддержки разработчиков в написании кода, выявлении ошибок, генерации тестов и оптимизации производительности. Такие инструменты, как GitHub Copilot...

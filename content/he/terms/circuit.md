@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /he/terms/circuit/
 date: "2026-07-18T15:47:48.099979Z"
 lastmod: "2026-07-18T17:15:09.519669Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מעגל מתייחס לתשתית החומרה הפיזית, הכוללת שבבים וחיבורים, המבצעת משימות חישוביות."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית, מעגל מתייחס בדרך כלל לארכיטקטורת החומרה הבסיסית, כגון יחידות עיבוד גרפי (GPUs), יחידות עיבוד טנזור (TPUs) או שבבים נוירומורפיים, המיועדות להאיץ פעולות מטריציות ועיבוד מקבילי. אלו

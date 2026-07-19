@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /pt/terms/self_consistency/
 date: "2026-07-18T15:20:39.725801Z"
 lastmod: "2026-07-18T15:51:59.530846Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A autoconsistência é uma estratégia de decodificação na qual múltiplos caminhos de raciocínio são amostrados e a resposta mais frequente é selecionada como saída final."
 ---
-
 ## Definition
 
 Principalmente utilizada com Grandes Modelos de Linguagem (LLMs), esta técnica melhora a precisão gerando várias respostas diversas para um prompt por meio de amostragem. Em vez de depender da decodificação gulosa (greedy), ela agrega os resultados para determinar a resposta mais provável.

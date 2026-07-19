@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /ko/terms/ai_infrastructure/
 date: "2026-07-18T15:38:34.745989Z"
 lastmod: "2026-07-18T16:38:06.803792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "대규모로 인공지능 모델을 개발, 훈련 및 배포하는 데 필요한 하드웨어, 소프트웨어 및 네트워크 자원."
 ---
-
 ## Definition
 
 AI 인프라는 인공지능 운영에 필요한 기반 기술 스택을 포괄합니다. 여기에는 GPU 및 TPU와 같은 고성능 컴퓨팅 하드웨어, 클라우드 스토리지 소

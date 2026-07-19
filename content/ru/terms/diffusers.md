@@ -1,23 +1,25 @@
 ---
-title: "Diffusers"
-term_id: "diffusers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["library", "generative_ai", "tools", "hugging_face"]
+title: Diffusers
+term_id: diffusers
+category: basic_concepts
+subcategory: ''
+tags:
+- library
+- Generative AI
+- tools
+- Hugging Face
 difficulty: 2
 weight: 1
-slug: "diffusers"
-aliases:
-  - /ru/terms/diffusers/
-date: "2026-07-18T15:50:04.943231Z"
-lastmod: "2026-07-18T16:38:07.149224Z"
+slug: diffusers
+date: '2026-07-18T15:50:04.943231Z'
+lastmod: '2026-07-18T16:38:07.149224Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Библиотека в экосистеме Hugging Face, предоставляющая передовые реализации диффузионных моделей для генерации изображений, аудио и текста."
+source: agnes_llm
+status: published
+language: ru
+description: Библиотека в экосистеме Hugging Face, предоставляющая передовые реализации
+  диффузионных моделей для генерации изображений, аудио и текста.
 ---
-
 ## Definition
 
 Hugging Face Diffusers — это модульный набор инструментов, предназначенный для упрощения использования диффузионных моделей. Он предлагает предварительно обученные конвейеры для таких задач, как генерация изображений по тексту, инпейнтинг изображений и суперразрешение.

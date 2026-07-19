@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /ro/terms/scientific/
 date: "2026-07-18T15:29:21.851281Z"
 lastmod: "2026-07-18T17:15:09.603392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Științific în AI se referă la aplicarea metodelor empirice riguroase, testarea ipotezelor și reproductibilitatea în cercetare."
 ---
-
 ## Definition
 
 Abordarea științifică în inteligența artificială pune accent pe dezvoltarea și validarea bazate pe dovezi. Implică formularea de ipoteze despre comportamentul modelului, conducerea de experimente controlate și

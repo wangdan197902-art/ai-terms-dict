@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /ja/terms/datasetsearch_qa/
 date: "2026-07-18T11:10:57.024900Z"
 lastmod: "2026-07-18T11:44:45.086971Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "検索エンジンのログやウェブクエリに由来する質問応答タスクに焦点を当てたデータセットで、現実世界の情報検索を重視しています。"
 ---
-
 ## Definition
 
 Search QA（検索QA）データセットは通常、検索クエリと、検索結果から抽出された関連する回答スニペットやドキュメントのペアで構成されます。これらのデータセットは、モデルが実際の検索意図を理解し、正確な情報を提供できるように訓練するために不可欠です。

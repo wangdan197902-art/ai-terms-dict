@@ -1,23 +1,24 @@
 ---
-title: "Produkty a aplikace společnosti OpenAI"
-term_id: "products_and_applications_of_openai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "generative_ai", "nlp"]
+title: Produkty a aplikace společnosti OpenAI
+term_id: products_and_applications_of_openai
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Generative AI
+- NLP
 difficulty: 1
 weight: 1
-slug: "products_and_applications_of_openai"
-aliases:
-  - /cs/terms/products_and_applications_of_openai/
-date: "2026-07-18T16:13:38.662780Z"
-lastmod: "2026-07-18T17:15:09.191782Z"
+slug: products_and_applications_of_openai
+date: '2026-07-18T16:13:38.662780Z'
+lastmod: '2026-07-18T17:15:09.191782Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Odkaz na sadu nástrojů AI, API a výzkumných výstupů vyvinutých společností OpenAI, včetně modelů GPT a DALL-E."
+source: agnes_llm
+status: published
+language: cs
+description: Odkaz na sadu nástrojů AI, API a výzkumných výstupů vyvinutých společností
+  OpenAI, včetně modelů GPT a DALL-E.
 ---
-
 ## Definition
 
 Tento termín zahrnuje komerční a výzkumné produkty vytvořené společností OpenAI, přední laboratoří pro výzkum umělé inteligence. Mezi klíčové nabídky patří Generativní předtrénovaný transformátor (GPT), modely pro generování obrázků (DALL-E) a další služby založené na velkých jazykových modelech.

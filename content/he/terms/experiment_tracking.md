@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /he/terms/experiment_tracking/
 date: "2026-07-18T15:56:48.494101Z"
 lastmod: "2026-07-18T17:15:09.538930Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מעקב אחר ניסויים הוא תהליך שיטתי של רישום מטא-נתונים, מדדים וארטיפקטים מניסויי למידת מכונה, כדי להבטיח שחזוריות ולהקל על השוואה."
 ---
-
 ## Definition
 
 פרקטיקה זו כוללת רישום של היפר-פרמטרים, גרסאות של מערכי נתונים, ארכיטקטורות של מודלים ומדדי ביצוע במהלך הרצות אימון. היא מאפשרת למדעני נתונים להשוות בין תצורות ניסוי שונות.

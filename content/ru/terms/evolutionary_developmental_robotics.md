@@ -1,23 +1,24 @@
 ---
-title: "Эволюционно-развивательная робототехника"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: Эволюционно-развивательная робототехника
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /ru/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:52:10.242105Z"
-lastmod: "2026-07-18T16:38:07.154769Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:52:10.242105Z'
+lastmod: '2026-07-18T16:38:07.154769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подраздел робототехники, сочетающий эволюционные алгоритмы с процессами развития для проектирования морфологии и систем управления роботами."
+source: agnes_llm
+status: published
+language: ru
+description: Подраздел робототехники, сочетающий эволюционные алгоритмы с процессами
+  развития для проектирования морфологии и систем управления роботами.
 ---
-
 ## Definition
 
 Вдохновленная биологической онтогенезом, эта область исследует, как сложные поведения и физические структуры возникают со временем через взаимодействие со средой, а не зашиваются жестко. Она использует эволюционные вычисления для оптимизации этих процессов.

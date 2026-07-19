@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /tr/terms/rademacher_complexity/
 date: "2026-07-18T16:11:38.785498Z"
 lastmod: "2026-07-18T16:38:07.358386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Öğrenme teorisinde, bir fonksiyon sınıfının rastgele gürültüye uyum sağlama yeteneği aracılığıyla zenginliğini ölçmek için kullanılan istatistiksel bir ölçü."
 ---
-
 ## Definition
 
 Rademacher karmaşıklığı, bir hipotez sınıfının rastgele etiketlerle (gürültüyle) ne kadar iyi korelasyon kurabildiğini değerlendirir. Modelin kapasitesi veya esnekliği için bir gösterge olarak hizmet eder. Daha düşük karmaşıklık, daha iyi genelleme yeteneğine işaret eder.

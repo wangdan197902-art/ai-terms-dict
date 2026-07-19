@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /ja/terms/mode_collapse/
 date: "2026-07-18T11:24:16.403883Z"
 lastmod: "2026-07-18T11:44:45.123246Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モード崩壊とは、生成敵対ネットワーク（GAN）において、生成器が限られた種類の出力しか生成しないという失敗モードのことです。"
 ---
-
 ## Definition
 
 GANにおいて、モード崩壊は、生成器が識別子の弱点を悪用し、データ分布の他のモードを無視して、妥当なサンプルの狭い範囲のみを生成する際に発生します。これにより

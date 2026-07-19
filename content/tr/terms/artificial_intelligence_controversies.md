@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /tr/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:41:44.123545Z"
 lastmod: "2026-07-18T16:38:07.273882Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka geliştirme ve kullanımıyla ilgili etik, sosyal ve teknik etkiler etrafındaki kamuoyu tartışmaları ve anlaşmazlıkları."
 ---
-
 ## Definition
 
 Yapay zeka tartışmaları, yapay zeka teknolojilerinden kaynaklanan geniş kapsamlı etik, yasal ve toplumsal uyuşmazlıkları kapsar. Temel sorunlar arasında algoritmik önyargılar, gizlilik ihlalleri ve iş kayıpları yer alır.

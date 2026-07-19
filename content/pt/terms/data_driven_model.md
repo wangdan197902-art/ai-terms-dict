@@ -1,23 +1,24 @@
 ---
-title: "Modelo Orientado por Dados"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Modelo Orientado por Dados
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /pt/terms/data_driven_model/
-date: "2026-07-18T14:55:26.433274Z"
-lastmod: "2026-07-18T15:51:59.477099Z"
+slug: data_driven_model
+date: '2026-07-18T14:55:26.433274Z'
+lastmod: '2026-07-18T15:51:59.477099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um modelo computacional cujos parâmetros e estrutura são aprendidos diretamente a partir de dados empíricos, em vez de programação explícita."
+source: agnes_llm
+status: published
+language: pt
+description: Um modelo computacional cujos parâmetros e estrutura são aprendidos diretamente
+  a partir de dados empíricos, em vez de programação explícita.
 ---
-
 ## Definition
 
 Um modelo orientado por dados é um tipo de sistema de inteligência artificial onde o comportamento e as previsões emergem de padrões identificados dentro de dados históricos, em vez de serem definidos por regras codificadas rigidamente.

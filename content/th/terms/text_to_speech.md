@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /th/terms/text_to_speech/
 date: "2026-07-18T16:18:12.853336Z"
 lastmod: "2026-07-18T16:38:07.661726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เทคโนโลยี Text-to-Speech (TTS) คือเทคโนโลยีที่แปลงข้อความเขียนให้เป็นเสียงพูดของมนุษย์ที่ฟังดูเป็นธรรมชาติ"
 ---
-
 ## Definition
 
 Text-to-Speech (TTS) เป็นประเภทหนึ่งของเทคโนโลยีช่วยเหลือที่อ่านข้อความดิจิทัลออกเสียงให้ผู้ใช้ฟัง โดยอาศัยเครือข่ายประสาทเทียมขั้นสูงและแบบจำลองทางเสียงเพื่อสังเคราะห์เสียงเลียนแบบน้ำเสียงและจังหวะของมนุษย์

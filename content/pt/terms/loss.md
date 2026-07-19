@@ -1,23 +1,23 @@
 ---
-title: "Perda"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Perda
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /pt/terms/loss/
-date: "2026-07-18T14:36:50.948331Z"
-lastmod: "2026-07-18T15:51:59.433652Z"
+slug: loss
+date: '2026-07-18T14:36:50.948331Z'
+lastmod: '2026-07-18T15:51:59.433652Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um valor numérico que quantifica o erro entre as previsões de um modelo e os valores alvo reais."
+source: agnes_llm
+status: published
+language: pt
+description: Um valor numérico que quantifica o erro entre as previsões de um modelo
+  e os valores alvo reais.
 ---
-
 ## Definition
 
 As funções de perda, também conhecidas como funções de custo, medem o quão bem as previsões de um modelo de aprendizado de máquina correspondem à verdade fundamental durante o treinamento. O objetivo do algoritmo de otimização é minimizar esse valor.

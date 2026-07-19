@@ -1,23 +1,24 @@
 ---
-title: "Despliegue continuo"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Despliegue continuo
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /es/terms/continuous_deployment/
-date: "2026-07-18T10:40:59.748524Z"
-lastmod: "2026-07-18T11:44:44.789208Z"
+slug: continuous_deployment
+date: '2026-07-18T10:40:59.748524Z'
+lastmod: '2026-07-18T11:44:44.789208Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una práctica de ingeniería de software donde cada cambio de código que pasa las pruebas automatizadas se libera automáticamente en producción."
+source: agnes_llm
+status: published
+language: es
+description: Una práctica de ingeniería de software donde cada cambio de código que
+  pasa las pruebas automatizadas se libera automáticamente en producción.
 ---
-
 ## Definition
 
 El despliegue continuo es una extensión de la entrega continua que automatiza todo el proceso de lanzamiento. Una vez que los cambios de código superan todas las barreras de calidad, incluidas las pruebas unitarias, de integración y de seguridad, se implementan automáticamente.

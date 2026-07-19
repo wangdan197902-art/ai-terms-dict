@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /zh/terms/automated_machine_learning/
 date: "2026-07-18T11:07:26.676095Z"
 lastmod: "2026-07-18T11:44:45.447844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种自动化将机器学习应用于现实世界问题端到端过程的方法论，从而减少人工工作量。"
 ---
-
 ## Definition
 
 AutoML（自动化机器学习）通过自动化数据预处理、特征工程、模型选择和超参数调整等任务，简化了ML模型的开发。它使得非专家也能使用。

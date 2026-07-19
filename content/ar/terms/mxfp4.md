@@ -1,23 +1,24 @@
 ---
-title: "MXFP4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: MXFP4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /ar/terms/mxfp4/
-date: "2026-07-18T16:14:09.701635Z"
-lastmod: "2026-07-18T17:15:08.531531Z"
+slug: mxfp4
+date: '2026-07-18T16:14:09.701635Z'
+lastmod: '2026-07-18T17:15:08.531531Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "MXFP4 هو تنسيق فاصلة عائمة بدقة مختلطة مُحسّن لضرب المصفوفات بكفاءة في مسرعات الأجهزة الخاصة بالذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: MXFP4 هو تنسيق فاصلة عائمة بدقة مختلطة مُحسّن لضرب المصفوفات بكفاءة في
+  مسرعات الأجهزة الخاصة بالذكاء الاصطناعي.
 ---
-
 ## Definition
 
 MXFP4 (نقطة فاصلة موسعة بدقة مختلطة 4 بت) هو تنسيق نوع بيانات متخصص تم تقديمه لتحسين الأداء وتقليل استخدام عرض النطاق الترددي للذاكرة في أعباء عمل الذكاء الاصطناعي. من خلال السماح بعمليات الدقة المختلطة

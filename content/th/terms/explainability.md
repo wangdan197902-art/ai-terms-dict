@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /th/terms/explainability/
 date: "2026-07-18T15:35:22.605786Z"
 lastmod: "2026-07-18T16:38:07.560377Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ความสามารถในการอธิบายได้หมายถึงระดับที่มนุษย์สามารถเข้าใจสาเหตุของการตัดสินใจที่โมเดล AI ทำขึ้น"
 ---
-
 ## Definition
 
 แนวคิดนี้แก้ปัญหา 'กล่องดำ' ในระบบ AI ที่ซับซ้อนโดยให้ข้อมูลเชิงลึกเกี่ยวกับวิธีการที่โมเดลมาถึงการทำนายเฉพาะ เทคนิคเช่น SHAP หรือ LIME ช่วยให้เห็นภาพความสำคัญของฟีเจอร์...

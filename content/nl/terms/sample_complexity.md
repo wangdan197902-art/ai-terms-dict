@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /nl/terms/sample_complexity/
 date: "2026-07-18T16:16:17.931288Z"
 lastmod: "2026-07-18T17:15:08.785461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Steekproefcomplexiteit verwijst naar het aantal trainingsvoorbeelden dat een machine learning-algoritme nodig heeft om met hoge waarschijnlijkheid een specifiek prestatieniveau te bereiken."
 ---
-
 ## Definition
 
 In de computationele leertheorie kwantificeert steekproefcomplexiteit de hoeveelheid gegevens die nodig is om een model effectief te trainen. Het balanceert de afweging tussen modelcapaciteit en gegevensbeschikbaarheid, waardoor wordt gewaarborgd dat

@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /ro/terms/coqui/
-date: "2026-07-18T15:50:59.456311Z"
-lastmod: "2026-07-18T17:15:09.640255Z"
+slug: coqui
+date: '2026-07-18T15:50:59.456311Z'
+lastmod: '2026-07-18T17:15:09.640255Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Coqui este o companie de tehnologie vocală open-source, cunoscută pentru dezvoltarea modelelor de conversie text-în-vocă (TTS) multilingve de înaltă calitate."
+source: agnes_llm
+status: published
+language: ro
+description: Coqui este o companie de tehnologie vocală open-source, cunoscută pentru
+  dezvoltarea modelelor de conversie text-în-vocă (TTS) multilingve de înaltă calitate.
 ---
-
 ## Definition
 
 Coqui Technologies a fost un jucător proeminent în comunitatea AI open-source, fiind cel mai bine cunoscut pentru motorul său TTS (Text-to-Speech). Proiectul a furnizat modele preantrenate capabile să genereze vorbire sunând natural și coerent.

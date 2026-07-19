@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /zh/terms/robustness/
 date: "2026-07-18T11:32:26.773553Z"
 lastmod: "2026-07-18T11:44:45.551391Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "人工智能模型在面对噪声数据、对抗性攻击或分布偏移时，保持性能和稳定性的能力。"
 ---
-
 ## Definition
 
 在AI安全与伦理中，鲁棒性指模型对意外输入或恶意操纵的抵抗力。一个具有鲁棒性的系统在输入数据包含噪声或受到干扰时，仍能正确运行并保持稳定的输出。

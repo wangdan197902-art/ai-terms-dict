@@ -1,23 +1,24 @@
 ---
-title: "로터리 티켓 가설(Lottery ticket hypothesis)"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: 로터리 티켓 가설(Lottery ticket hypothesis)
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /ko/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:03:15.502047Z"
-lastmod: "2026-07-18T16:38:06.871910Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:03:15.502047Z'
+lastmod: '2026-07-18T16:38:06.871910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "밀집 신경망에는 초기화 상태에서 독립적으로 훈련될 때 원래 네트워크의 정확도와 맞먹을 수 있는 더 작은 부분 신경망이 포함되어 있다는 이론."
+source: agnes_llm
+status: published
+language: ko
+description: 밀집 신경망에는 초기화 상태에서 독립적으로 훈련될 때 원래 네트워크의 정확도와 맞먹을 수 있는 더 작은 부분 신경망이 포함되어
+  있다는 이론.
 ---
-
 ## Definition
 
 로터리 티켓 가설은 대규모로 무작위 초기화된 신경망 내에 학습에 잘 적합된 희소 부분 신경망('당첨 티켓')이 존재한다고 제안합니다. 가지치기를 통해

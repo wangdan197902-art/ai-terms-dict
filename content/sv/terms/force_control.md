@@ -1,23 +1,24 @@
 ---
-title: "Kraftstyrning"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Kraftstyrning
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /sv/terms/force_control/
-date: "2026-07-18T15:58:37.554988Z"
-lastmod: "2026-07-18T17:15:09.004567Z"
+slug: force_control
+date: '2026-07-18T15:58:37.554988Z'
+lastmod: '2026-07-18T17:15:09.004567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Kraftstyrning är en robotteknisk metod som reglerar interaktionskrafterna mellan en robots slutverktyg och dess miljö under fysiska uppgifter."
+source: agnes_llm
+status: published
+language: sv
+description: Kraftstyrning är en robotteknisk metod som reglerar interaktionskrafterna
+  mellan en robots slutverktyg och dess miljö under fysiska uppgifter.
 ---
-
 ## Definition
 
 Kraftstyrning gör det möjligt för robotar att utföra känsliga operationer som montering, polering eller grepp av skör föremål genom att aktivt hantera kontaktkraften snarare än endast positionen. Till skillnad från ren positionskontroll

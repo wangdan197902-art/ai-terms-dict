@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /fr/terms/loop/
 date: "2026-07-18T10:51:34.837174Z"
 lastmod: "2026-07-18T11:44:45.166163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une structure de programmation qui répète un bloc de code plusieurs fois jusqu'à ce qu'une condition soit remplie."
 ---
-
 ## Definition
 
 Structure fondamentale de contrôle de flux en informatique et en développement d'IA, une boucle permet aux algorithmes d'itérer sur des ensembles de données, d'effectuer des calculs répétés ou d'exécuter des époques d'entraînement. Les types courants incluent

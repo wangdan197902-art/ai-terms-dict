@@ -1,23 +1,24 @@
 ---
-title: "Nash"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: Nash
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /el/terms/nash/
-date: "2026-07-18T15:29:39.277132Z"
-lastmod: "2026-07-18T17:15:09.849924Z"
+slug: nash
+date: '2026-07-18T15:29:39.277132Z'
+lastmod: '2026-07-18T17:15:09.849924Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Αναφέρεται στην Ισορροπία Nash, μια κατάσταση στη θεωρία παιγνίων όπου κανένας παίκτης δεν μπορεί να ωφεληθεί αλλάζοντας στρατηγική ενώ οι άλλοι παραμένουν σταθεροί."
+source: agnes_llm
+status: published
+language: el
+description: Αναφέρεται στην Ισορροπία Nash, μια κατάσταση στη θεωρία παιγνίων όπου
+  κανένας παίκτης δεν μπορεί να ωφεληθεί αλλάζοντας στρατηγική ενώ οι άλλοι παραμένουν
+  σταθεροί.
 ---
-
 ## Definition
 
 Στην ΤΝ, ιδιαίτερα στα Πολυπρακτορικά Συστήματα και τη Μάθηση Ενισχύσεως, η Ισορροπία Nash περιγράφει μια σταθερή κατάσταση όπου η στρατηγική κάθε πράκτορα είναι βέλτιστη δεδομένων των στρατηγικών όλων των άλλων πρακτόρων. Κανένας πράκτορας δεν έχει κίνητρο να αποκλίνει.

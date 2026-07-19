@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /zh/terms/text_to_speech/
 date: "2026-07-18T11:36:20.483357Z"
 lastmod: "2026-07-18T11:44:45.562841Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "语音合成（TTS）是一项将书面文本转换为自然人类语音的技术。"
 ---
-
 ## Definition
 
 语音合成（TTS）是一种辅助技术，能够以朗读的方式向用户呈现数字文本。它利用先进的神经网络和声学模型来合成模仿人类语调的语音。

@@ -1,23 +1,24 @@
 ---
-title: "حساب منطقي للأفكار الكامنة في النشاط العصبي"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: حساب منطقي للأفكار الكامنة في النشاط العصبي
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /ar/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:39:17.508499Z"
-lastmod: "2026-07-18T17:15:08.468529Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:39:17.508499Z'
+lastmod: '2026-07-18T17:15:08.468529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ورقة بحثية رائدة عام 1943 لـ McCulloch و Pitts تقوم بتوضيح كيفية قيام الخلايا العصبية بإجراء عمليات منطقية، مما وضع الأساس للشبكات العصبية الاصطناعية."
+source: agnes_llm
+status: published
+language: ar
+description: ورقة بحثية رائدة عام 1943 لـ McCulloch و Pitts تقوم بتوضيح كيفية قيام
+  الخلايا العصبية بإجراء عمليات منطقية، مما وضع الأساس للشبكات العصبية الاصطناعية.
 ---
-
 ## Definition
 
 اقترحت هذه الورقة البحثية الأساسية نموذجاً رياضياً للشبكات العصبية، مُظهرةً أن الخلايا العصبية الاصطناعية البسيطة يمكنها تنفيذ بوابات المنطق البولياني. من خلال إظهار أن شبكة من هذه الوحدات قادرة على

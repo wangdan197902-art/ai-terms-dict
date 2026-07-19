@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /tr/terms/sigmoid/
 date: "2026-07-18T16:13:56.999879Z"
 lastmod: "2026-07-18T16:38:07.364992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Herhangi bir reel sayıyı sıfır ile bir arasında bir değere eşleyen, S şeklinde bir eğri oluşturan matematiksel bir fonksiyon."
 ---
-
 ## Definition
 
 σ(z) = 1 / (1 + e^-z) olarak tanımlanan sigmoid fonksiyonu, makine öğreniminde olasılıkları modellemek için yaygın olarak kullanılır. Girdi değerlerini (0, 1) aralığına sıkıştırarak ikili sınıflandırma problemlerinin çıkış katmanlarında ideal hale getirir.

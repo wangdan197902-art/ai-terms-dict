@@ -1,23 +1,24 @@
 ---
-title: "Hentning"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Hentning
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /da/terms/retrieval/
-date: "2026-07-18T15:37:46.297643Z"
-lastmod: "2026-07-18T17:15:09.249600Z"
+slug: retrieval
+date: '2026-07-18T15:37:46.297643Z'
+lastmod: '2026-07-18T17:15:09.249600Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at hente relevante data fra en database eller vidensbase for at berige modelinput."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at hente relevante data fra en database eller vidensbase
+  for at berige modelinput.
 ---
-
 ## Definition
 
 Hentning refererer til den tekniske proces med at søge og udtrække specifik information fra store datasæt eller eksterne vidensbaser baseret på brugerforespørgsler eller kontekst. I moderne AI-systemer bruges det ofte til at supplere modeller med opdateret viden.

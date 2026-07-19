@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /hu/terms/artificial_psychology/
 date: "2026-07-18T15:44:57.135808Z"
 lastmod: "2026-07-18T17:15:09.755627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy olyan terület, amely azt tanulmányozza, hogyan tervezhetők olyan MI-rendszerek, amelyek kognitív architektúrával utánozzák az emberi pszichológiai folyamatokat."
 ---
-
 ## Definition
 
 A mesterséges pszichológia egy interdiszciplináris terület, amely az MI-rendszerek kognitív architektúráinak tervezésére és megvalósítására fókuszál. A kognitív tudományból és a pszichológiából merítve

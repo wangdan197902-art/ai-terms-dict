@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /ja/terms/object/
 date: "2026-07-18T10:53:00.476422Z"
 lastmod: "2026-07-18T11:44:45.015140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データを保持し、そのデータを操作するためのメソッドを含むプログラム内の固有のエンティティであり、オブジェクト指向プログラミングの中核をなす。"
 ---
-
 ## Definition
 
 オブジェクトは、特にオブジェクト指向プログラミング（OOP）において、コンピュータサイエンスにおける基本的な概念です。それはクラスのインスタンスを表し、状態（属性またはデータ）と振る舞い...をカプセル化します。

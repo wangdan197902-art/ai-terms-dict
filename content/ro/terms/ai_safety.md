@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /ro/terms/ai_safety/
 date: "2026-07-18T15:22:28.007543Z"
 lastmod: "2026-07-18T17:15:09.586620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un domeniu de studiu axat pe prevenirea consecințelor nocive neintenționate ale sistemelor avansate de inteligență artificială."
 ---
-
 ## Definition
 
 Siguranța IA cuprinde cercetarea și practicile menite să asigure că sistemele autonome se comportă în moduri benefice și nepăgubitoare pentru oameni. Abordează riscuri precum bias-ul (părtinirea), dezinformarea, securitatea cibernetică și impactul social al automatizării, garantând că tehnologia rămâne controlabilă și aliniată cu interesele umane.

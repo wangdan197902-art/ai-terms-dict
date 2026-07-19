@@ -1,23 +1,24 @@
 ---
-title: "Havaitseminen"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Havaitseminen
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /fi/terms/detection/
-date: "2026-07-18T15:24:34.045296Z"
-lastmod: "2026-07-18T17:15:09.348066Z"
+slug: detection
+date: '2026-07-18T15:24:34.045296Z'
+lastmod: '2026-07-18T17:15:09.348066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tiettyjen kohteiden, tapahtumien tai poikkeavuuksien tunnistaminen ja paikantaminen datassa tai ympäristössä."
+source: agnes_llm
+status: published
+language: fi
+description: Tiettyjen kohteiden, tapahtumien tai poikkeavuuksien tunnistaminen ja
+  paikantaminen datassa tai ympäristössä.
 ---
-
 ## Definition
 
 Havaitseminen on keskeinen tietokonenäkyvyys- ja signaalinkäsitystehtävä, jossa tekoälymalli tunnistaa kiinnostavien entiteettien läsnäolon ja sijainnin. Toisin kuin luokittelussa, joka antaa vain luokan, havaitseminen määrittää myös sijainnin.

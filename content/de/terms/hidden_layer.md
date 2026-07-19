@@ -1,23 +1,24 @@
 ---
-title: "Versteckte Schicht"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Versteckte Schicht
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /de/terms/hidden_layer/
-date: "2026-07-18T11:17:52.637191Z"
-lastmod: "2026-07-18T11:44:44.947890Z"
+slug: hidden_layer
+date: '2026-07-18T11:17:52.637191Z'
+lastmod: '2026-07-18T11:44:44.947890Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Zwischenschicht in einem neuronalen Netzwerk zwischen Eingabe- und Ausgabeschichten, die Merkmale verarbeitet."
+source: agnes_llm
+status: published
+language: de
+description: Eine Zwischenschicht in einem neuronalen Netzwerk zwischen Eingabe- und
+  Ausgabeschichten, die Merkmale verarbeitet.
 ---
-
 ## Definition
 
 Eine versteckte Schicht besteht aus Neuronen, die Eingaben von vorherigen Schichten empfangen, Gewichte und Bias-Werte anwenden und transformierte Daten durch eine Aktivierungsfunktion weiterleiten. Diese Schichten ermöglichen es neuronalen Netzen

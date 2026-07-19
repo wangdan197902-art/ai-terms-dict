@@ -1,23 +1,24 @@
 ---
-title: "tehtäväkohtainen"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: tehtäväkohtainen
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /fi/terms/task_specific/
-date: "2026-07-18T15:34:42.646527Z"
-lastmod: "2026-07-18T17:15:09.366676Z"
+slug: task_specific
+date: '2026-07-18T15:34:42.646527Z'
+lastmod: '2026-07-18T17:15:09.366676Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tehtäväkohtaiset mallit ovat tekoälijärjestelmiä, jotka on suunniteltu ja optimoitu suorittamaan yhtä hyvin määriteltyä funktiota yleisen päättelyn sijaan."
+source: agnes_llm
+status: published
+language: fi
+description: Tehtäväkohtaiset mallit ovat tekoälijärjestelmiä, jotka on suunniteltu
+  ja optimoitu suorittamaan yhtä hyvin määriteltyä funktiota yleisen päättelyn sijaan.
 ---
-
 ## Definition
 
 Tehtäväkohtainen viittaa AI-malleihin tai komponentteihin, jotka on räätälöity menestymään kapeassa joukossa tavoitteita, kuten kohteiden tunnistamisessa kuvista tai kielten kääntämisessä. Toisin kuin yleiskäyttöiset perusmallit, tehtäväkohtaiset mallit tarjoavat usein korkeampaa tarkkuutta ja tehokkaampaa suorituskykyä tietyllä alueella.

@@ -7,8 +7,6 @@ tags: ["speculative", "naming", "uncertain"]
 difficulty: 4
 weight: 1
 slug: "gemma4"
-aliases:
-  - /zh/terms/gemma4/
 date: "2026-07-18T11:18:16.814519Z"
 lastmod: "2026-07-18T11:44:45.506741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Gemma4 指的是谷歌 Gemma 模型家族的一种假设性或未来的迭代版本，可能暗示第四代主要版本或该谱系中的特定变体。"
 ---
-
 ## Definition
 
 截至目前的知识，并没有官方发布的专门命名为“Gemma4”的模型，它与现有的 Gemma 2 系列不同。它可能指的是一种推测性的未来发布，或者是特定的内部...

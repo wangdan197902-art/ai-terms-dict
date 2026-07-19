@@ -1,23 +1,25 @@
 ---
-title: "دراسات التفرد"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: دراسات التفرد
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /ar/terms/singularity_studies/
-date: "2026-07-18T16:20:51.413442Z"
-lastmod: "2026-07-18T17:15:08.547936Z"
+slug: singularity_studies
+date: '2026-07-18T16:20:51.413442Z'
+lastmod: '2026-07-18T17:15:08.547936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "حقل متعدد التخصصات يدرس الآثار المجتمعية والأخلاقية والوجودية المحتملة لتفرد تكنولوجي مستقبلي."
+source: agnes_llm
+status: published
+language: ar
+description: حقل متعدد التخصصات يدرس الآثار المجتمعية والأخلاقية والوجودية المحتملة
+  لتفرد تكنولوجي مستقبلي.
 ---
-
 ## Definition
 
 دراسات التفرد هي تخصص أكاديمي ناشئ يبحث في تداعيات نقطة افتراضية في المستقبل يتجاوز فيها الذكاء الاصطناعي ذكاء الإنسان، مما يؤدي إلى تغييرات جذرية وغير متوقعة.

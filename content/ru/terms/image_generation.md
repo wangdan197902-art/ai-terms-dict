@@ -1,23 +1,24 @@
 ---
-title: "Генерация изображений"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: Генерация изображений
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /ru/terms/image_generation/
-date: "2026-07-18T15:58:00.598999Z"
-lastmod: "2026-07-18T16:38:07.167629Z"
+slug: image_generation
+date: '2026-07-18T15:58:00.598999Z'
+lastmod: '2026-07-18T16:38:07.167629Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Генерация изображений — это процесс создания нового визуального контента с нуля или модификации существующих изображений с помощью моделей генеративного ИИ."
+source: agnes_llm
+status: published
+language: ru
+description: Генерация изображений — это процесс создания нового визуального контента
+  с нуля или модификации существующих изображений с помощью моделей генеративного
+  ИИ.
 ---
-
 ## Definition
 
 Этот парадигмальный подход использует такие модели, как Stable Diffusion или DALL-E, для производства высококачественных изображений на основе текстовых подсказок или других входных данных. Он включает изучение сложных распределений данных для синтеза реалистичных визуальных объектов.

@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /id/terms/m_theory/
 date: "2026-07-18T15:59:07.740983Z"
 lastmod: "2026-07-18T16:38:07.480033Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Teori-M adalah kerangka kerja teoretis dalam fisika yang menyatukan lima versi berbeda dari teori dawai, dengan mengusulkan bahwa partikel fundamental adalah getaran membran satu dimensi dalam sebelas"
 ---
-
 ## Definition
 
 Meskipun utamanya merupakan konsep dalam fisika teoretis daripada ilmu komputer, Teori-M sesekali dirujuk dalam simulasi komputasi tingkat lanjut dan penelitian komputasi kuantum. Teori ini menyarankan bahwa

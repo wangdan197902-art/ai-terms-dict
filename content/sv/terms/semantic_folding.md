@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /sv/terms/semantic_folding/
 date: "2026-07-18T16:20:11.256266Z"
 lastmod: "2026-07-18T17:15:09.046215Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En teknik som avbildar högdimentionella semantiska representationer till ett lägdimentionellt utrymme samtidigt som relationella strukturer bevaras."
 ---
-
 ## Definition
 
 Semantisk veckning syftar på processen att komprimera komplexa, högdimentionella vektorinbäddningar till en mer hanterbar lägdimentionell representation utan betydande förlust av semantisk mening.

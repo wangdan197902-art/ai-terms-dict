@@ -1,23 +1,24 @@
 ---
-title: "הכשרה מקדימה"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: הכשרה מקדימה
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /he/terms/pre_training/
-date: "2026-07-18T15:29:00.176135Z"
-lastmod: "2026-07-18T17:15:09.484612Z"
+slug: pre_training
+date: '2026-07-18T15:29:00.176135Z'
+lastmod: '2026-07-18T17:15:09.484612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "השלב הראשוני של אימון מודל למידת מכונה על ערכת נתונים גדולה ולא מסומנת כדי ללמוד ייצוגים כלליים לפני דיוק (Fine-tuning) למשימות ספציפיות."
+source: agnes_llm
+status: published
+language: he
+description: השלב הראשוני של אימון מודל למידת מכונה על ערכת נתונים גדולה ולא מסומנת
+  כדי ללמוד ייצוגים כלליים לפני דיוק (Fine-tuning) למשימות ספציפיות.
 ---
-
 ## Definition
 
 הכשרה מקדימה היא טכניקה יסודית בלמידה עמוקה שבה מודל לומד תכונות ודפוסים רחבים מכמויות עצומות של נתונים, לרוב ללא תוויות. תהליך זה מאפשר למודל לפתח...

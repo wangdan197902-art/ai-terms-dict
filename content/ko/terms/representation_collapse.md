@@ -1,23 +1,23 @@
 ---
-title: "표현 붕괴"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: 표현 붕괴
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /ko/terms/representation_collapse/
-date: "2026-07-18T16:13:19.672944Z"
-lastmod: "2026-07-18T16:38:06.904303Z"
+slug: representation_collapse
+date: '2026-07-18T16:13:19.672944Z'
+lastmod: '2026-07-18T16:38:06.904303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델이 모든 입력에 대해 동일한 표현을 출력하여 판별력을 잃는 자기지도학습의 실패 모드."
+source: agnes_llm
+status: published
+language: ko
+description: 모델이 모든 입력에 대해 동일한 표현을 출력하여 판별력을 잃는 자기지도학습의 실패 모드.
 ---
-
 ## Definition
 
 표현 붕괴는 특히 자기지도 대조 학습 프레임워크에서 신경망이 모든 입력 데이터 포인트를 동일한 고정 출력 벡터로 매핑하도록 학습할 때 발생합니다. 이는 모델이 입력 데이터의 차이를 구별하지 못하게 만드는 자명한 해(trivial solution)입니다.

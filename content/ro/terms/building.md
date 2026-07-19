@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /ro/terms/building/
 date: "2026-07-18T15:23:53.590061Z"
 lastmod: "2026-07-18T17:15:09.590322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Faza practică de dezvoltare, antrenare și implementare a modelelor și sistemelor de inteligență artificială, de la designul inițial până la pregătirea pentru producție."
 ---
-
 ## Definition
 
 Building se referă la procesul de inginerie de cap la coadă pentru crearea soluțiilor IA, care include colectarea datelor, selecția modelului, antrenarea, validarea și implementarea. Acesta cuprinde infrastructura tehnică necesară pentru a transforma prototipurile în aplicații funcționale.

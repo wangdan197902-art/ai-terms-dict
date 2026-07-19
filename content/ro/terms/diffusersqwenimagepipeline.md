@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: 'Diffusers: Qwenimagepipeline'
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /ro/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T15:54:42.021523Z"
-lastmod: "2026-07-18T17:15:09.648899Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T15:54:42.021523Z'
+lastmod: '2026-07-18T17:15:09.648899Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O linie de procesare care utilizează modelele Qwen-VL în cadrul Diffusers pentru generarea de imagini direct din descrieri textuale sau intrări multimodale."
+source: agnes_llm
+status: published
+language: ro
+description: O linie de procesare care utilizează modelele Qwen-VL în cadrul Diffusers
+  pentru generarea de imagini direct din descrieri textuale sau intrări multimodale.
 ---
-
 ## Definition
 
 Această linie de procesare adaptează capacitățile generative ale modelelor Qwen-VL pentru sinteza de imagini. Permite utilizatorilor să genereze imagini de înaltă calitate furnizând prompturi textuale sau combinând text cu imagini de referință...

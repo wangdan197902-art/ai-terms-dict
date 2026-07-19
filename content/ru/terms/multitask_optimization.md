@@ -1,23 +1,24 @@
 ---
-title: "Многозадачная оптимизация"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Многозадачная оптимизация
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /ru/terms/multitask_optimization/
-date: "2026-07-18T16:07:24.445961Z"
-lastmod: "2026-07-18T16:38:07.183780Z"
+slug: multitask_optimization
+date: '2026-07-18T16:07:24.445961Z'
+lastmod: '2026-07-18T16:38:07.183780Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия обучения, при которой модель оптимизируется для выполнения нескольких связанных задач одновременно."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия обучения, при которой модель оптимизируется для выполнения
+  нескольких связанных задач одновременно.
 ---
-
 ## Definition
 
 Многозадачная оптимизация предполагает обучение одной модели решению нескольких различных, но связанных задач одновременно. За счет разделения промежуточных представлений между задачами модель может изучать более обобщенные закономерности.

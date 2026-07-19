@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /zh/terms/podcast/
 date: "2026-07-18T11:30:05.607536Z"
 lastmod: "2026-07-18T11:44:45.543262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种通过互联网提供下载或流媒体播放的数字音频或视频文件。"
 ---
-
 ## Definition
 
 在AI和技术语境下，播客指通过RSS订阅源分发的周期性数字媒体内容，允许用户订阅并收听讨论、访谈或教育材料。

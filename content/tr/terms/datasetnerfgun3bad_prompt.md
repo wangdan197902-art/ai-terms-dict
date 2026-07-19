@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /tr/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:48:11.178968Z"
 lastmod: "2026-07-18T16:38:07.293876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Muhtemelen dil modellerindeki sağlamlığı test etmek veya gürültülü girdileri filtrelemek için kullanılan adversaryal, düşük kaliteli veya kasıtlı olarak hatalı istemleri içeren niş bir veri setidir."
 ---
-
 ## Definition
 
 Bu terim, Hugging Face üzerinde 'Nerfgun3' kullanıcısı altında 'Bad Prompt' başlığıyla barındırılan belirli bir veri setini ifade eder. Ana referans ölçümleri kadar standart olmasa da, bu tür veri setleri genellikle model sağlamlığını incelemek için kullanılır.

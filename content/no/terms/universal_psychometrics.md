@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /no/terms/universal_psychometrics/
 date: "2026-07-18T16:20:31.997895Z"
 lastmod: "2026-07-18T16:38:07.056299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av standardiserte måleteknikker for å vurdere psykologiske trekk på tvers av ulike befolkningsgrupper."
 ---
-
 ## Definition
 
 Universell psykometri innebærer å utvikle og anvende verktøy for vurdering som kan måle psykologiske konstruksjoner, som personlighet, kognitiv evne eller emosjonell intelligens, pålitelig på tvers av ulike kulturer og befolkningsgrupper.

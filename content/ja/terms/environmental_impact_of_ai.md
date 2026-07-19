@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /ja/terms/environmental_impact_of_ai/
 date: "2026-07-18T11:13:45.750697Z"
 lastmod: "2026-07-18T11:44:45.095162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIモデルの開発、訓練、導入に伴う生態学的な結果であり、エネルギー消費や炭素排出量を含みます。"
 ---
-
 ## Definition
 
 この用語は、特に大規模モデルの訓練フェーズに関連するAI技術の重要な資源要件を指します。これには、データセンターの電力使用量、半導体製造プロセスでの水消費、およびハードウェア廃棄物の管理が含まれます。持続可能なAIの実現に向けて、これらの環境負荷を軽減するための取り組みが求められています。

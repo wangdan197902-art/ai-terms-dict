@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /id/terms/hugging_face/
-date: "2026-07-18T15:54:53.304390Z"
-lastmod: "2026-07-18T16:38:07.467278Z"
+slug: hugging_face
+date: '2026-07-18T15:54:53.304390Z'
+lastmod: '2026-07-18T16:38:07.467278Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Platform dan komunitas terkemuka yang menyediakan alat, model, dan dataset sumber terbuka untuk pengembangan mesin pembelajaran."
+source: agnes_llm
+status: published
+language: id
+description: Platform dan komunitas terkemuka yang menyediakan alat, model, dan dataset
+  sumber terbuka untuk pengembangan mesin pembelajaran.
 ---
-
 ## Definition
 
 Hugging Face adalah perusahaan dan platform daring yang menonjol yang telah menjadi pusat ekosistem AI sumber terbuka. Platform ini menawarkan repositori luas berisi model yang telah dilatih sebelumnya, dataset, dan aplikasi demonstrasi.

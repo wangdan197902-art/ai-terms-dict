@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /fi/terms/information_space_analysis/
 date: "2026-07-18T16:03:56.598205Z"
 lastmod: "2026-07-18T17:15:09.422544Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Datan esitysten sijaitsevan avaruuden geometristen ja topologisten ominaisuuksien tutkiminen."
 ---
-
 ## Definition
 
 Tämä käsite liittyy esitystilan rakenteen analysointiin koneoppimismalleissa. Se tutkii, miten datapisteet ovat jakautuneet, ryhmittyneet tai erotettuina korkeadimensioisessa avaruudessa.

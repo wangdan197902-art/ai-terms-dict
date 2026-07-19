@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /de/terms/explainability/
 date: "2026-07-18T10:58:02.422470Z"
 lastmod: "2026-07-18T11:44:44.894534Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Erklärbarkeit bezieht sich auf das Ausmaß, in dem ein Mensch die Ursache einer Entscheidung eines KI-Modells verstehen kann."
 ---
-
 ## Definition
 
 Dieses Konzept adressiert das 'Black-Box'-Problem in komplexen KI-Systemen, indem es Einblicke darin bietet, wie Modelle zu bestimmten Vorhersagen gelangen. Techniken wie SHAP oder LIME helfen dabei, die Wichtigkeit von Merkmalen zu visualisieren

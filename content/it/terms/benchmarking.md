@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /it/terms/benchmarking/
 date: "2026-07-18T15:23:39.805297Z"
 lastmod: "2026-07-18T17:15:08.562084Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il processo sistematico di test dei modelli di IA contro i benchmark per quantificarne le prestazioni e identificare aree di miglioramento."
 ---
-
 ## Definition
 
 Il benchmarking è la pratica attiva di condurre esperimenti per misurare quanto bene un modello di IA esegue compiti specifici utilizzando benchmark predefiniti. Questo processo implica l'esecuzione dei modelli attraverso standardizzati set di test.

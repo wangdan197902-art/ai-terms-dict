@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /ar/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:35:59.726559Z"
 lastmod: "2026-07-18T17:15:08.459136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التوجيه بتسلسل الأفكار هو تقنية تشجع نماذج اللغة الكبيرة على توليد خطوات استنتاج وسيطة قبل إنتاج الإجابة النهائية."
 ---
-
 ## Definition
 
 يحسن التوجيه بتسلسل الأفكار (CoT) أداء نماذج اللغة الكبيرة في مهام الاستدلال المعقدة من خلال طلب النموذج صراحةً لشرح منطق خطوة بخطوة. بدلاً من القفز مباشرة إلى النتيجة، يقوم النموذج بتحليل المشكلة وتفكيكها، مما يزيد من دقة الإجابات في المهام المنطقية والرياضية.

@@ -1,23 +1,24 @@
 ---
-title: "Avaliação de classificadores binários"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Avaliação de classificadores binários
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /pt/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T14:59:14.708809Z"
-lastmod: "2026-07-18T15:51:59.489240Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T14:59:14.708809Z'
+lastmod: '2026-07-18T15:51:59.489240Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo de avaliar o desempenho de modelos de aprendizado de máquina que preveem um de dois resultados possíveis."
+source: agnes_llm
+status: published
+language: pt
+description: O processo de avaliar o desempenho de modelos de aprendizado de máquina
+  que preveem um de dois resultados possíveis.
 ---
-
 ## Definition
 
 Esta área envolve a análise de métricas como precisão, exatidão, revocação, pontuação F1 e a Área Sob a Curva ROC (AUC-ROC). Ajuda a determinar quão bem um modelo distingue

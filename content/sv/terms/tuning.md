@@ -1,23 +1,24 @@
 ---
-title: "Justering"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Justering
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /sv/terms/tuning/
-date: "2026-07-18T15:32:00.875193Z"
-lastmod: "2026-07-18T17:15:08.954669Z"
+slug: tuning
+date: '2026-07-18T15:32:00.875193Z'
+lastmod: '2026-07-18T17:15:08.954669Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att justera hyperparametrar eller modellvikter för att optimera prestandan på en specifik datamängd eller uppgift."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att justera hyperparametrar eller modellvikter för att optimera
+  prestandan på en specifik datamängd eller uppgift.
 ---
-
 ## Definition
 
 Justering innebär att finjustera en maskininlärningsmodell för att uppnå bättre noggrannhet eller effektivitet. Det kan syfta på hyperparameterjustering, där inställningar som inlärningshastighet eller batchstorlek optimeras, eller finjustering av modellvikter för specifika domäner.

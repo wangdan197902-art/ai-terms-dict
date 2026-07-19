@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /el/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:11:51.103939Z"
 lastmod: "2026-07-18T17:15:09.916314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένα σύστημα κατάταξης στο Hugging Face που αξιολογεί και συγκρίνει την απόδοση μοντέλων Αυτόματης Αναγνώρισης Ομιλίας."
 ---
-
 ## Definition
 
 Ο Πίνακας Κατάταξης HF ASR είναι μια πλατφόρμα μετρικών που οδηγείται από την κοινότητα και φιλοξενείται από το Hugging Face, παρακολουθώντας την κατάσταση της τέχνης στην Αυτόματη Αναγνώριση Ομιλίας. Επιτρέπει στους ερευνητές και προγραμματιστές να αξιολογούν.

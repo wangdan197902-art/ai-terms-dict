@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /tr/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:52:56.686910Z"
 lastmod: "2026-07-18T16:38:07.307225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Açıklanabilir Yapay Zeka (XAI), çözüm sonuçlarının insan uzmanlar tarafından anlaşılmasını sağlayacak şekilde yapay zeka teknolojisinin uygulanmasına yönelik yöntem ve teknikleri ifade eder."
 ---
-
 ## Definition
 
 Makine öğrenimi modelleri, özellikle derin sinir ağları, daha karmaşık hale geldikçe karar verme süreçleri genellikle şeffaf olmayan 'siyah kutulara' dönüşür. XAI, bu kararların yorumlanabilir ve anlaşılır hale getirilmesini amaçlar.

@@ -1,23 +1,24 @@
 ---
-title: "Матричная регуляризация"
-term_id: "matrix_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "matrices"]
+title: Матричная регуляризация
+term_id: matrix_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- matrices
 difficulty: 3
 weight: 1
-slug: "matrix_regularization"
-aliases:
-  - /ru/terms/matrix_regularization/
-date: "2026-07-18T16:04:01.138004Z"
-lastmod: "2026-07-18T16:38:07.179278Z"
+slug: matrix_regularization
+date: '2026-07-18T16:04:01.138004Z'
+lastmod: '2026-07-18T16:38:07.179278Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника применения штрафных членов к параметрам в виде матриц для предотвращения переобучения и обеспечения структурных свойств, таких как разреженность."
+source: agnes_llm
+status: published
+language: ru
+description: Техника применения штрафных членов к параметрам в виде матриц для предотвращения
+  переобучения и обеспечения структурных свойств, таких как разреженность.
 ---
-
 ## Definition
 
 Матричная регуляризация расширяет концепции скалярной регуляризации на матрицы и часто используется в задачах многозадачного обучения или рекомендательных системах. Она накладывает ограничения на норму весовых матриц, такие как норма Фробениуса или ядерная норма, чтобы контролировать сложность модели.

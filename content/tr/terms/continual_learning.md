@@ -1,23 +1,24 @@
 ---
-title: "Sürekli Öğrenme"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Sürekli Öğrenme
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /tr/terms/continual_learning/
-date: "2026-07-18T15:46:20.122202Z"
-lastmod: "2026-07-18T16:38:07.286513Z"
+slug: continual_learning
+date: '2026-07-18T15:46:20.122202Z'
+lastmod: '2026-07-18T16:38:07.286513Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Modellerin önceki bilgileri unutmadan, yeni verilere sırayla öğrenerek uyum sağladığı makine öğrenimi paradigması."
+source: agnes_llm
+status: published
+language: tr
+description: Modellerin önceki bilgileri unutmadan, yeni verilere sırayla öğrenerek
+  uyum sağladığı makine öğrenimi paradigması.
 ---
-
 ## Definition
 
 Ömür boyu öğrenme olarak da bilinen sürekli öğrenme, sinir ağlarının zaman içinde yeni beceriler veya bilgiler edinirken daha önce öğrenilen yetenekleri korumasını sağlar. Bu yaklaşım, modellerin yeni verilerle güncellenirken eski görevlerdeki performansını kaybetmesini engelleyerek 'kafası karışma' (catastrophic forgetting) sorununu ele alır.

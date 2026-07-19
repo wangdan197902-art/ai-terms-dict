@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /pt/terms/robustness/
 date: "2026-07-18T15:20:07.825983Z"
 lastmod: "2026-07-18T15:51:59.529821Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A capacidade de um modelo de IA de manter o desempenho e a estabilidade ao enfrentar dados ruidosos, ataques adversariais ou mudanças na distribuição dos dados."
 ---
-
 ## Definition
 
 Na segurança e ética da IA, a robustez refere-se à resiliência de um modelo contra entradas inesperadas ou manipulações maliciosas. Um sistema robusto continua a funcionar corretamente mesmo quando os dados de entrada contêm ruído ou anomalias.

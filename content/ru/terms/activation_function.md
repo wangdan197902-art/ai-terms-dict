@@ -1,23 +1,25 @@
 ---
-title: "Функция активации"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Функция активации
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /ru/terms/activation_function/
-date: "2026-07-18T15:32:48.048924Z"
-lastmod: "2026-07-18T16:38:07.099193Z"
+slug: activation_function
+date: '2026-07-18T15:32:48.048924Z'
+lastmod: '2026-07-18T16:38:07.099193Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Математическое уравнение, определяющее выходной сигнал узла нейронной сети на основе его входного сигнала."
+source: agnes_llm
+status: published
+language: ru
+description: Математическое уравнение, определяющее выходной сигнал узла нейронной
+  сети на основе его входного сигнала.
 ---
-
 ## Definition
 
 Функция активации вносит нелинейность в нейронную сеть, позволяя ей изучать сложные закономерности и взаимосвязи в данных. Без этих функций многослойная сеть вела бы себя

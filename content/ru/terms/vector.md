@@ -1,23 +1,25 @@
 ---
-title: "Вектор"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Вектор
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /ru/terms/vector/
-date: "2026-07-18T15:37:10.894413Z"
-lastmod: "2026-07-18T16:38:07.111866Z"
+slug: vector
+date: '2026-07-18T15:37:10.894413Z'
+lastmod: '2026-07-18T16:38:07.111866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Математический объект, представляющий величину, имеющую как модуль, так и направление; часто используется в ИИ для кодирования точек данных в многомерном пространстве."
+source: agnes_llm
+status: published
+language: ru
+description: Математический объект, представляющий величину, имеющую как модуль, так
+  и направление; часто используется в ИИ для кодирования точек данных в многомерном
+  пространстве.
 ---
-
 ## Definition
 
 В искусственном интеллекте вектор — это фундаментальная структура данных, используемая для числового представления информации. Он состоит из упорядоченного списка чисел (элементов), которые отображают признаки сущности в

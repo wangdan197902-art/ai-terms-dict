@@ -1,23 +1,24 @@
 ---
-title: "Kausaalinen"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Kausaalinen
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /fi/terms/causal/
-date: "2026-07-18T15:24:20.048356Z"
-lastmod: "2026-07-18T17:15:09.347306Z"
+slug: causal
+date: '2026-07-18T15:24:20.048356Z'
+lastmod: '2026-07-18T17:15:09.347306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kausaalinen päättely tarkoittaa syy-seuraussuhteiden määrittämistä muuttujien välillä tilastollisten korrelaatioiden tunnistamisen sijaan."
+source: agnes_llm
+status: published
+language: fi
+description: Kausaalinen päättely tarkoittaa syy-seuraussuhteiden määrittämistä muuttujien
+  välillä tilastollisten korrelaatioiden tunnistamisen sijaan.
 ---
-
 ## Definition
 
 Tekoälyssä kausaalimallinnus pyrkii ymmärtämään, miten yhden muuttujan interventiot vaikuttavat toiseen. Toisin kuin ennustemallit, jotka perustuvat havaittuihin kuviin, kausaalinen tekoäly käyttää rakenteellisia yhtälöitä ja kausaaliverkostoja ymmärtääkseen syvällisemmät riippuvuudet.

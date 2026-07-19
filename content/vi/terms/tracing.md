@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /vi/terms/tracing/
 date: "2026-07-18T16:15:09.359746Z"
 lastmod: "2026-07-18T16:38:07.813516Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tracing là kỹ thuật ghi lại đường đi thực thi và các trạng thái trung gian của chương trình hoặc quá trình suy luận của mô hình AI để hỗ trợ gỡ lỗi và tối ưu hóa hiệu suất."
 ---
-
 ## Definition
 
 Trong bối cảnh kỹ thuật AI, tracing liên quan đến việc thu thập nhật ký chi tiết về cách dữ liệu di chuyển qua mô hình hoặc ứng dụng, bao gồm đầu vào, đầu ra, độ trễ và mức sử dụng tài nguyên tại mỗi bước. Điều này cho phép các kỹ sư hiểu rõ hơn về hành vi nội bộ của hệ thống.

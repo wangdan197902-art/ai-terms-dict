@@ -1,23 +1,23 @@
 ---
-title: "cero ejemplos"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: cero ejemplos
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /es/terms/zero_shot/
-date: "2026-07-18T10:29:19.783032Z"
-lastmod: "2026-07-18T11:44:44.759738Z"
+slug: zero_shot
+date: '2026-07-18T10:29:19.783032Z'
+lastmod: '2026-07-18T11:44:44.759738Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La capacidad de realizar tareas en clases no vistas sin ejemplos de entrenamiento previos."
+source: agnes_llm
+status: published
+language: es
+description: La capacidad de realizar tareas en clases no vistas sin ejemplos de entrenamiento
+  previos.
 ---
-
 ## Definition
 
 El aprendizaje de cero ejemplos permite a los modelos generalizar a nuevas categorías o tareas para las cuales no se proporcionaron datos de entrenamiento etiquetados durante la fase inicial de entrenamiento. Esto se logra típicamente aprovechando...

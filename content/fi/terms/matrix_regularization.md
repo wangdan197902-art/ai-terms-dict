@@ -1,23 +1,25 @@
 ---
-title: "Matriisisäännöitys"
-term_id: "matrix_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "matrices"]
+title: Matriisisäännöitys
+term_id: matrix_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- matrices
 difficulty: 3
 weight: 1
-slug: "matrix_regularization"
-aliases:
-  - /fi/terms/matrix_regularization/
-date: "2026-07-18T16:10:12.104294Z"
-lastmod: "2026-07-18T17:15:09.433187Z"
+slug: matrix_regularization
+date: '2026-07-18T16:10:12.104294Z'
+lastmod: '2026-07-18T17:15:09.433187Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka soveltaa rankaisutermejä matriisiarvoisille parametreille välttääkseen ylisovittamisen ja säilyttääkseen rakenteellisia ominaisuuksia kuten harvuuksia."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka soveltaa rankaisutermejä matriisiarvoisille parametreille
+  välttääkseen ylisovittamisen ja säilyttääkseen rakenteellisia ominaisuuksia kuten
+  harvuuksia.
 ---
-
 ## Definition
 
 Matriisisäännöitys laajentaa skalaarisäännöityksen käsitteet matriiseihin, ja sitä käytetään usein monitehtäväoppimisessa tai suositusjärjestelmissä. Se asettaa rajoituksia painomatriisien normeihin, kuten Frobeniuksen normiin tai ydinnormiin (nuclear norm), mikä voi edistää matalan rangin approksimaatiota ja parantaa mallin yleistymiskykyä suurissa, meluisissa datamäärissä.

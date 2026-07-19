@@ -1,23 +1,24 @@
 ---
-title: "情境化方法"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: 情境化方法
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /zh/terms/situated_approach/
-date: "2026-07-18T11:34:08.558176Z"
-lastmod: "2026-07-18T11:44:45.554318Z"
+slug: situated_approach
+date: '2026-07-18T11:34:08.558176Z'
+lastmod: '2026-07-18T11:44:45.554318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种AI设计范式，优先考虑依赖上下文的行为和环境交互，而非抽象推理。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种AI设计范式，优先考虑依赖上下文的行为和环境交互，而非抽象推理。
 ---
-
 ## Definition
 
 情境化方法是AI研究中的一种方法论框架，主张智能行为不能与其发生的环境分离开来。它提倡构建能够...

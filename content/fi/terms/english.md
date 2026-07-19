@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /fi/terms/english/
 date: "2026-07-18T15:25:20.517339Z"
 lastmod: "2026-07-18T17:15:09.349339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Englanti on luonnollinen kieli, joka toimii dominoivana vertailukohtadatan lähteenä ja kohdekielenä monille luonnollisen kielen käsittelyn (NLP) malleille."
 ---
-
 ## Definition
 
 Vaikka englanti on ensisijaisesti ihmiskieli, tekoälyn kontekstissa se edustaa yleisintä kielellistä aluetta NLP-tutkimuksessa digitaalisen tekstidatan runsauden vuoksi. Useimmat perusmallit (kuten BERT tai GPT-sarjat) on ensin koulutettu englanninkielisellä datalla, mikä tekee siitä de facto -standardin monille kieliteknologisille sovelluksille ja arviointimenetelmille.

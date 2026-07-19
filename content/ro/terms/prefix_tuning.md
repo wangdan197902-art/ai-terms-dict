@@ -1,23 +1,24 @@
 ---
-title: "Prefix Tuning"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Prefix Tuning
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /ro/terms/prefix_tuning/
-date: "2026-07-18T16:16:30.276359Z"
-lastmod: "2026-07-18T17:15:09.692562Z"
+slug: prefix_tuning
+date: '2026-07-18T16:16:30.276359Z'
+lastmod: '2026-07-18T17:15:09.692562Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metodă de ajustare fină eficientă din punct de vedere al parametrilor care adaugă vectori continui antrenabili la intrarea straturilor transformer."
+source: agnes_llm
+status: published
+language: ro
+description: O metodă de ajustare fină eficientă din punct de vedere al parametrilor
+  care adaugă vectori continui antrenabili la intrarea straturilor transformer.
 ---
-
 ## Definition
 
 Prefix Tuning este o tehnică de adaptare eficientă din punct de vedere al parametrilor pentru transformatoarele pre-antrenate. În loc să actualizeze toate ponderile modelului, aceasta antrenează doar un șir de vectori continui (prefixul) care sunt pre-pendiculați la intrarea fiecărui strat transformer. Această abordare permite personalizarea rapidă a unui model pre-antrenat pentru sarcini specifice, păstrând majoritatea parametrilor originali fixați.

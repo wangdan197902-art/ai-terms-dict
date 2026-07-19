@@ -1,23 +1,24 @@
 ---
-title: "النشر"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: النشر
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /ar/terms/diffusion/
-date: "2026-07-18T15:24:19.925801Z"
-lastmod: "2026-07-18T17:15:08.436135Z"
+slug: diffusion
+date: '2026-07-18T15:24:19.925801Z'
+lastmod: '2026-07-18T17:15:08.436135Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية نمذجة توليدية تنشئ البيانات عن طريق عكس عملية إضافة الضوضاء تدريجياً لإعادة بناء العينات النظيفة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية نمذجة توليدية تنشئ البيانات عن طريق عكس عملية إضافة الضوضاء تدريجياً
+  لإعادة بناء العينات النظيفة.
 ---
-
 ## Definition
 
 نماذج النشر هي فئة من الذكاء الاصطناعي التوليدي تتعلم عكس عملية عشوائية لإضافة الضوضاء إلى البيانات. من خلال تدريب شبكة عصبية على التنبؤ بإزالة هذه الضوضاء خطوة بخطوة، يمكنها توليد بيانات جديدة عالية الجودة تشبه البيانات التدريبية.

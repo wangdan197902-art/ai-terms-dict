@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /he/terms/maximum_inner_product_search/
 date: "2026-07-18T16:12:08.579991Z"
 lastmod: "2026-07-18T17:15:09.563289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקת חיפוש דמיון וקטורי מיוחדת המשיגה פריטים בעלי מכפלה נקודתית (dot product) הגבוהה ביותר ביחס לוקטור שאילתה."
 ---
-
 ## Definition
 
 חיפוש מכפלה פנימית מקסימלית (MIPS) היא בעיה יסודית בשחזור מידע וב למידת מכונה, במיוחד במערכות המלצה. בניגוד לחיפושי דמיון קוסינוס סטנדרטיים המודדים זווית, MIPS מחפש מקסימום של ערך מספרי, מה שחשוב כאשר הווקטורים אינם מנורמלים או כאשר יש משקלים שונים לפיצ'רים.

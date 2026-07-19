@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /sv/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:05:43.932392Z"
 lastmod: "2026-07-18T17:15:09.018705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett rekommendationssystem som genererar förslag genom att resonera kring explicit domänkunskap och användarbegränsningar snarare än historisk data."
 ---
-
 ## Definition
 
 Till skillnad från samarbetsfilter som förlitar sig på tidigare användarbeteende, använder KBRS explicit kunskap om objekt och användarpreferenser för att härleda rekommendationer. Det är särskilt effektivt på marknader där data är sparsam eller nyheter snabbt förändras.

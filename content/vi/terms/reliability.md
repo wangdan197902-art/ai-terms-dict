@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /vi/terms/reliability/
 date: "2026-07-18T16:10:21.485046Z"
 lastmod: "2026-07-18T16:38:07.800822Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mức độ mà một hệ thống AI thực hiện nhất quán các chức năng dự định của nó một cách chính xác và an toàn trong các điều kiện cụ thể."
 ---
-
 ## Definition
 
 Độ tin cậy trong AI đề cập đến tính đáng tin cậy và sự nhất quán trong hành vi của hệ thống theo thời gian và trên nhiều đầu vào khác nhau. Một hệ thống AI đáng tin cậy phải tạo ra kết quả chính xác, xử lý tốt các trường hợp biên và duy trì hiệu suất ổn định.

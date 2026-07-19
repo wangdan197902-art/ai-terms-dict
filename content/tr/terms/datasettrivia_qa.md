@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /tr/terms/datasettrivia_qa/
 date: "2026-07-18T15:48:43.523226Z"
 lastmod: "2026-07-18T16:38:07.294771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çeşitli bilgi yarışması alanlarında milyonlarca soru ve cevap içeren, açık uçlu soru-cevap için tasarlanmış büyük ölçekli bir veri seti."
 ---
-
 ## Definition
 
 TriviaQA, açık uçlu soru-cevap görevleri için tasarlanmış, bir milyondan fazla soru ve buna karşılık gelen cevapları içeren bir veri setidir. Var olan modelleri zorlayarak onlardan çok adımlı mantık yürütme ve bilgi entegrasyonu gerektiren yanıtlar üretmelerini sağlamak amacıyla oluşturulmuştur.

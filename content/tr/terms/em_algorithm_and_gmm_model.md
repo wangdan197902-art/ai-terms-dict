@@ -1,23 +1,25 @@
 ---
-title: "EM algoritması ve GMM modeli"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: EM algoritması ve GMM modeli
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /tr/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T15:50:59.945978Z"
-lastmod: "2026-07-18T16:38:07.302502Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T15:50:59.945978Z'
+lastmod: '2026-07-18T16:38:07.302502Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bekleme-Maksimizasyon (EM) algoritması, gizli değişkenlere sahip istatistiksel modellerde maksimum olasılık tahminlerini bulmak için kullanılan, genellikle Gauss Karışım Modellerini (GMM) uyumlandırma"
+source: agnes_llm
+status: published
+language: tr
+description: Bekleme-Maksimizasyon (EM) algoritması, gizli değişkenlere sahip istatistiksel
+  modellerde maksimum olasılık tahminlerini bulmak için kullanılan, genellikle Gauss
+  Karışım Modellerini (GMM) uyumlandırma
 ---
-
 ## Definition
 
 Bu terim, Bekleme-Maksimizasyon (EM) algoritması ile Gauss Karışım Modelleri (GMM) arasındaki sinerjik ilişkiyi ifade eder. Bir GMM, tüm veri noktalarının bir karışımdan üretildiğini varsayar ve EM algoritması, bu karmaşık dağılımın parametrelerini (ağırlıklar, ortalamalar ve kovaryanslar) iteratif olarak en iyi şekilde tahmin etmek için kullanılır.

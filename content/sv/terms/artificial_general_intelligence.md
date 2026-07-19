@@ -1,23 +1,24 @@
 ---
-title: "Artificiell allmän intelligens"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Artificiell allmän intelligens
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /sv/terms/artificial_general_intelligence/
-date: "2026-07-18T15:45:30.305770Z"
-lastmod: "2026-07-18T17:15:08.976092Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:45:30.305770Z'
+lastmod: '2026-07-18T17:15:08.976092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Hypotetisk AI som besitter förmågan att förstå, lära sig och tillämpa kunskap över en bred mängd uppgifter på en mänsklig nivå."
+source: agnes_llm
+status: published
+language: sv
+description: Hypotetisk AI som besitter förmågan att förstå, lära sig och tillämpa
+  kunskap över en bred mängd uppgifter på en mänsklig nivå.
 ---
-
 ## Definition
 
 Artificiell allmän intelligens (AGI) avser en typ av AI som kan utföra alla intellektuella uppgifter som en människa kan göra. Till skillnad från smal AI, som är specialiserad på specifika uppgifter som schack eller bildigenkänning, har AGI förmågan att överföra kunskap mellan olika domäner och anpassa sig till nya situationer.

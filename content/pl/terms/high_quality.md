@@ -1,23 +1,23 @@
 ---
-title: "wysokiej jakości"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: wysokiej jakości
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /pl/terms/high_quality/
-date: "2026-07-18T15:32:13.992762Z"
-lastmod: "2026-07-18T17:15:08.826374Z"
+slug: high_quality
+date: '2026-07-18T15:32:13.992762Z'
+lastmod: '2026-07-18T17:15:08.826374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Odnosi się do zbiorów danych, modeli lub wyników charakteryzujących się wyższą dokładnością, niezawodnością i minimalnym poziomem szumów."
+source: agnes_llm
+status: published
+language: pl
+description: Odnosi się do zbiorów danych, modeli lub wyników charakteryzujących się
+  wyższą dokładnością, niezawodnością i minimalnym poziomem szumów.
 ---
-
 ## Definition
 
 W sztucznej inteligencji termin „wysokiej jakości” opisuje zazwyczaj dane lub wyniki modelu, które cechują się wysoką wiernością, niskim poziomem szumów i silną zdolnością do uogólniania. Wysokiej jakości dane treningowe zapewniają...

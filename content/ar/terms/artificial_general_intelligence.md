@@ -1,23 +1,24 @@
 ---
-title: "الذكاء العام الاصطناعي"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: الذكاء العام الاصطناعي
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /ar/terms/artificial_general_intelligence/
-date: "2026-07-18T15:44:35.284663Z"
-lastmod: "2026-07-18T17:15:08.476207Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:44:35.284663Z'
+lastmod: '2026-07-18T17:15:08.476207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ذكاء اصطناعي افتراضي يمتلك القدرة على الفهم والتعلم وتطبيق المعرفة عبر مجموعة واسعة من المهام بمستوى بشري."
+source: agnes_llm
+status: published
+language: ar
+description: ذكاء اصطناعي افتراضي يمتلك القدرة على الفهم والتعلم وتطبيق المعرفة عبر
+  مجموعة واسعة من المهام بمستوى بشري.
 ---
-
 ## Definition
 
 يشير الذكاء العام الاصطناعي (AGI) إلى نوع من الذكاء الاصطناعي يمكنه أداء أي مهمة فكرية يمكن للبشر القيام بها. وعلى عكس الذكاء الاصطناعي الضيق الذي يتفوق في مهام محددة مثل الشطرنج أو التعرف على الصور...

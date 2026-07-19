@@ -1,23 +1,24 @@
 ---
-title: "Học liên tục"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Học liên tục
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /vi/terms/continual_learning/
-date: "2026-07-18T15:46:08.933150Z"
-lastmod: "2026-07-18T16:38:07.739897Z"
+slug: continual_learning
+date: '2026-07-18T15:46:08.933150Z'
+lastmod: '2026-07-18T16:38:07.739897Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình học máy trong đó các mô hình học tuần tự từ dữ liệu mới mà không quên kiến thức trước đó."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình học máy trong đó các mô hình học tuần tự từ dữ liệu mới mà
+  không quên kiến thức trước đó.
 ---
-
 ## Definition
 
 Học liên tục, còn được gọi là học suốt đời, cho phép các mạng nơ-ron thu thập kỹ năng hoặc thông tin mới theo thời gian trong khi vẫn giữ lại các khả năng đã học trước đó. Điều này giải quyết vấn đề 'quên thảm họa' (catastrophic forgetting) thường gặp trong học sâu truyền thống.

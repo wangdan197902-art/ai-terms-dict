@@ -1,23 +1,23 @@
 ---
-title: "时间偏差"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: 时间偏差
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /zh/terms/temporal_bias/
-date: "2026-07-18T11:35:54.969697Z"
-lastmod: "2026-07-18T11:44:45.561436Z"
+slug: temporal_bias
+date: '2026-07-18T11:35:54.969697Z'
+lastmod: '2026-07-18T11:44:45.561436Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种系统性误差，模型倾向于优先考虑近期数据而非历史背景，从而导致预测结果出现偏差。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种系统性误差，模型倾向于优先考虑近期数据而非历史背景，从而导致预测结果出现偏差。
 ---
-
 ## Definition
 
 当机器学习模型相对于较旧的数据点不成比例地赋予近期观测值更高权重时，就会发生时间偏差。这通常是由于数据分布的非平稳性或特定的训练协议所致。

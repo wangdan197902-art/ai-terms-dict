@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /no/terms/efficientnet/
-date: "2026-07-18T15:52:58.525151Z"
-lastmod: "2026-07-18T16:38:06.996839Z"
+slug: efficientnet
+date: '2026-07-18T15:52:58.525151Z'
+lastmod: '2026-07-18T16:38:06.996839Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "EfficientNet er en familie av konvolusjonelle nevrale nettverksarkitekturer som skalerer dybde, bredde og oppløsning jevnt for å oppnå høyere nøyaktighet med færre parametere."
+source: agnes_llm
+status: published
+language: 'no'
+description: EfficientNet er en familie av konvolusjonelle nevrale nettverksarkitekturer
+  som skalerer dybde, bredde og oppløsning jevnt for å oppnå høyere nøyaktighet med
+  færre parametere.
 ---
-
 ## Definition
 
 Utviklet av Google bruker EfficientNet en sammensatt skaleringmetode for å balansere nettverksdybde, bredde og oppløsningen på inngangsbilder. Denne tilnærmingen lar modellen oppnå state-of-the-art nøyaktighet samtidig som den holder ressursforbruket lavt.

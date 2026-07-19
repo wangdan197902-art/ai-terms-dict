@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /he/terms/cognitive_philology/
 date: "2026-07-18T15:48:09.176530Z"
 lastmod: "2026-07-18T17:15:09.520557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פילולוגיה קוגניטיבית מיישמת שיטות חישוביות ועקרונות של מדעי החשיבה ללימוד השפה, הספרות וההיסטוריה הטקסטואלית."
 ---
-
 ## Definition
 
 פילולוגיה קוגניטיבית היא תחום בין-תחומי המשלב הומניסטיקה דיגיטלית, בלשנות ומדעי החשיבה כדי לנתח טקסטים ואבולוציה של שפה. היא משתמשת בכלים חישוביים לעיבוד נתוני טקסט גדולים.

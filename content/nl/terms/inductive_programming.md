@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /nl/terms/inductive_programming/
 date: "2026-07-18T16:00:19.324688Z"
 lastmod: "2026-07-18T17:15:08.755796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een vakgebied van programsynthese dat automatisch computerprogramma's genereert op basis van invoer-uitvoervoorbeelden."
 ---
-
 ## Definition
 
 Inductief Programmeren, vaak aangeduid als Programsynthese, houdt in het creëren van softwarecode op basis van specificaties die worden gegeven als invoer-uitvoerparen in plaats van expliciete instructies. Het systeem inferert de logica uit de voorbeelden.

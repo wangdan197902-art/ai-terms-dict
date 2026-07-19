@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /zh/terms/data_minimization/
 date: "2026-07-18T11:38:39.318204Z"
 lastmod: "2026-07-18T11:44:45.570561Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "仅收集和处理特定目的所严格必要的个人数据的原则。"
 ---
-
 ## Definition
 
 数据最小化是一项核心的隐私原则，要求组织将数据收集限制在充分、相关且必要的范围内。在人工智能领域，这意味着设计能够减少不必要数据依赖的模型。

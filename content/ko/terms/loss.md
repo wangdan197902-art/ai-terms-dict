@@ -1,23 +1,22 @@
 ---
-title: "손실(Loss)"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: 손실(Loss)
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /ko/terms/loss/
-date: "2026-07-18T15:26:53.281260Z"
-lastmod: "2026-07-18T16:38:06.778183Z"
+slug: loss
+date: '2026-07-18T15:26:53.281260Z'
+lastmod: '2026-07-18T16:38:06.778183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델의 예측값과 실제 목표 값 사이의 오차를 수치화한 값입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델의 예측값과 실제 목표 값 사이의 오차를 수치화한 값입니다.
 ---
-
 ## Definition
 
 비용 함수(Cost Function)라고도 불리는 손실 함수는 훈련 중 머신러닝 모델의 예측이 정답(Ground Truth)과 얼마나 일치하는지를 측정합니다. 최적화 알고리즘의 목표는 이 손실 값을 최소화하는 것입니다.

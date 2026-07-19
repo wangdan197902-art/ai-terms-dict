@@ -1,23 +1,23 @@
 ---
-title: "Karar ağacı budama"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Karar ağacı budama
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /tr/terms/decision_tree_pruning/
-date: "2026-07-18T15:49:05.265770Z"
-lastmod: "2026-07-18T16:38:07.296281Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:49:05.265770Z'
+lastmod: '2026-07-18T16:38:07.296281Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Örnekleri sınıflandırmada çok az güç sağlayan bölümleri kaldırarak karar ağacının boyutunu küçültme tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Örnekleri sınıflandırmada çok az güç sağlayan bölümleri kaldırarak karar
+  ağacının boyutunu küçültme tekniği.
 ---
-
 ## Definition
 
 Budama, tahmine gücü zayıf olan dalları kaldırarak karar ağacı modellerinde aşırı öğrenmeyi (overfitting) önlemek için kullanılan bir yöntemdir. Ağacın büyümesini erken durdurarak (ön-budama) veya ağaç tamamen büyüdükten sonra gereksiz dalları keserek (son-budama) gerçekleştirilebilir.

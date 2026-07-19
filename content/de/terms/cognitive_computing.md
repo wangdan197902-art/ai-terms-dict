@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /de/terms/cognitive_computing/
 date: "2026-07-18T11:07:41.560029Z"
 lastmod: "2026-07-18T11:44:44.918277Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Kognitives Rechnen bezeichnet Systeme, die menschliche Denkprozesse in einem computergestützten Modell simulieren und dabei KI nutzen, um Funktionen des menschlichen Gehirns nachzuahmen."
 ---
-
 ## Definition
 
 Kognitives Rechnen ist ein Zweig der künstlichen Intelligenz, der darauf abzielt, sich natürlich mit Menschen zu interagieren und gleichzeitig menschliche Gehirnprozesse zu simulieren. Diese Systeme verwenden maschinelles Lernen, Deep Learning und andere Technologien, um komplexe Probleme zu lösen.

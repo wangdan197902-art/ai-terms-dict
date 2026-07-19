@@ -1,23 +1,25 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /pt/terms/pagedattention/
-date: "2026-07-18T15:15:51.755890Z"
-lastmod: "2026-07-18T15:51:59.520756Z"
+slug: pagedattention
+date: '2026-07-18T15:15:51.755890Z'
+lastmod: '2026-07-18T15:51:59.520756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "PagedAttention é um algoritmo de gerenciamento de memória que adapta conceitos de paginação de memória virtual para otimizar o armazenamento e acesso aos caches Key-Value (KV) em modelos transformador"
+source: agnes_llm
+status: published
+language: pt
+description: PagedAttention é um algoritmo de gerenciamento de memória que adapta
+  conceitos de paginação de memória virtual para otimizar o armazenamento e acesso
+  aos caches Key-Value (KV) em modelos transformador
 ---
-
 ## Definition
 
 PagedAttention é uma técnica introduzida pelo projeto vLLM para melhorar a eficiência da inferência de Grandes Modelos de Linguagem (LLMs). Ela aborda problemas de fragmentação e sobrecarga no gerenciamento do cache KV, onde...

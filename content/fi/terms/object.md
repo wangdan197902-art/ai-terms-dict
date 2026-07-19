@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /fi/terms/object/
 date: "2026-07-18T15:29:19.481837Z"
 lastmod: "2026-07-18T17:15:09.355964Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmassa erillinen entiteetti, joka sisältää dataa ja menetelmiä tämän datan manipuloimiseen; keskeinen olio-ohjelmoinnissa."
 ---
-
 ## Definition
 
 Objekti on tietojenkäsittelytieteen peruskäsite, erityisesti olio-ohjelmoinnissa (OOP). Se edustaa luokan ilmentymää, joka koodaa sekä tilan (attribuutit tai data) että käyttäytymisen...

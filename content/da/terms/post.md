@@ -1,23 +1,24 @@
 ---
-title: "Indlæg"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Indlæg
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /da/terms/post/
-date: "2026-07-18T15:28:17.939659Z"
-lastmod: "2026-07-18T17:15:09.230972Z"
+slug: post
+date: '2026-07-18T15:28:17.939659Z'
+lastmod: '2026-07-18T17:15:09.230972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et publiceret stykke indhold, typisk på en blog, sociale medier eller et forum, der repræsenterer brugergenereret information eller kommentarer."
+source: agnes_llm
+status: published
+language: da
+description: Et publiceret stykke indhold, typisk på en blog, sociale medier eller
+  et forum, der repræsenterer brugergenereret information eller kommentarer.
 ---
-
 ## Definition
 
 I digitale kommunikations- og AI-datakontekster refererer et 'indlæg' til en diskret enhed af indhold delt online. Det fungerer som en primær kilde til træning af modeller til naturlig sprogbehandling, stemningsanalyse...

@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /de/terms/training_free/
 date: "2026-07-18T10:57:04.634139Z"
 lastmod: "2026-07-18T11:44:44.891773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Methoden, die Modelle anpassen oder verbessern, ohne gradientenbasierte Parameteraktualisierungen durchzuführen."
 ---
-
 ## Definition
 
 Training-freie Ansätze bezeichnen Techniken, die das Verhalten oder die Ausgabe eines Modifizieren, ohne die zugrunde liegenden Gewichte durch Backpropagation zu aktualisieren. Diese Methoden nutzen oft Prompt-Engineering, Feature-

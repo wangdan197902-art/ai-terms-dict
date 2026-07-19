@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /el/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:39:30.151489Z"
 lastmod: "2026-07-18T17:15:09.864209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Το Prompting Σύνδεσης Σκέψης είναι μια τεχνική που ενθαρρύνει τα Μεγάλα Γλωσσικά Μοντέλα να παράγουν ενδιάμεσα βήματα λογικής πριν παράγουν μια τελική απάντηση."
 ---
-
 ## Definition
 
 Το Prompting Σύνδεσης Σκέψης (Chain-of-Thought - CoT) βελτιώνει τις επιδόσεις των μεγάλων γλωσσικών μοντέλων σε σύνθετα καθήκοντα λογικής ζητώντας ρητά από το μοντέλο να διατυπώσει τη λογική του βήμα προς βήμα. Αντί να πηδάει απευθείας

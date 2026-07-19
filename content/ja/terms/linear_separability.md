@@ -1,23 +1,23 @@
 ---
-title: "線形分離可能性"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: 線形分離可能性
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /ja/terms/linear_separability/
-date: "2026-07-18T11:21:57.579298Z"
-lastmod: "2026-07-18T11:44:45.116259Z"
+slug: linear_separability
+date: '2026-07-18T11:21:57.579298Z'
+lastmod: '2026-07-18T11:44:45.116259Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "2つのクラスが単一の直線または超平面によって完全に分割できるデータセットの性質。"
+source: agnes_llm
+status: published
+language: ja
+description: 2つのクラスが単一の直線または超平面によって完全に分割できるデータセットの性質。
 ---
-
 ## Definition
 
 線形分離可能性とは、異なるクラスに属するデータポイントが、2次元空間における直線や高次元空間における超平面などの線形境界によって完全に分離できる幾何学的条件を指します。

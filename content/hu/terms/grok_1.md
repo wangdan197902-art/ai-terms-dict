@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /hu/terms/grok_1/
 date: "2026-07-18T16:02:32.212163Z"
 lastmod: "2026-07-18T17:15:09.791149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az xAI által kiadott Grok nyelvi modell első verziója, amely Expertise-keverék (Mixture-of-Experts) architektúrát és 33 milliárd paramétert használ."
 ---
-
 ## Definition
 
 A Grok-1 az xAI első kiadása, amelyet 2023 novemberében indítottak el. Ez egy csak dekódoló (decoder-only) transzformátor alapú nagy nyelvi modell körülbelül 33 milliárd paraméterrel. Jellegzetessége, hogy Expertise-keverék (Mixture-of-Experts) architektúrát alkalmaz.

@@ -1,23 +1,23 @@
 ---
-title: "Reinforcement (การเสริมแรง)"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Reinforcement (การเสริมแรง)
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /th/terms/reinforcement/
-date: "2026-07-18T15:28:45.090674Z"
-lastmod: "2026-07-18T16:38:07.547025Z"
+slug: reinforcement
+date: '2026-07-18T15:28:45.090674Z'
+lastmod: '2026-07-18T16:38:07.547025Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเสริมแรงหมายถึงกระบวนการปรับเปลี่ยนพฤติกรรมผ่านรางวัลหรือการลงโทษ เพื่อเพิ่มประสิทธิภาพในการตัดสินใจ"
+source: agnes_llm
+status: published
+language: th
+description: การเสริมแรงหมายถึงกระบวนการปรับเปลี่ยนพฤติกรรมผ่านรางวัลหรือการลงโทษ
+  เพื่อเพิ่มประสิทธิภาพในการตัดสินใจ
 ---
-
 ## Definition
 
 การเสริมแรงเป็นกลไกพื้นฐานทางจิตวิทยาและการคำนวณที่กระทำของเอเจนต์ถูกกำหนดโดยผลลัพธ์ ในแมชชีนเลิร์นนิง กระบวนการนี้เกี่ยวข้องกับการให้ข้อมูลป้อนกลับเชิงบวก (รางวัล) สำหรับพฤติกรรมที่ต้องการ เพื่อส่งเสริมให้เกิดการทำซ้ำ

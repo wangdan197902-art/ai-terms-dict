@@ -1,23 +1,23 @@
 ---
-title: "局部病例对照采样"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: 局部病例对照采样
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /zh/terms/local_case_control_sampling/
-date: "2026-07-18T11:24:46.268011Z"
-lastmod: "2026-07-18T11:44:45.526731Z"
+slug: local_case_control_sampling
+date: '2026-07-18T11:24:46.268011Z'
+lastmod: '2026-07-18T11:44:45.526731Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种负采样技术，从嵌入空间中正例的邻近区域选择困难负例。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种负采样技术，从嵌入空间中正例的邻近区域选择困难负例。
 ---
-
 ## Definition
 
 局部病例对照采样是一种主要用于训练对比学习模型或推荐系统的策略。它不是随机选择负样本，而是识别出与正例在嵌入空间中距离较近、难以区分的“困难负例”，从而提升模型的判别能力。

@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /ko/terms/biomedical/
 date: "2026-07-18T15:44:10.854107Z"
 lastmod: "2026-07-18T16:38:06.814587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "자연과학을 의료 실무에 적용하는 것으로, 종종 건강 데이터의 계산 분석을 포함합니다."
 ---
-
 ## Definition
 
 생체의학은 생물학, 의학 및 기술의 교차점을 의미하며, 특히 진단 도구, 치료법 및 데이터 분석 방법 개발에 중점을 둡니다. AI 분야에서는 머신러닝을 활용하여 의료 데이터를 처리하고 인사이트를 도출하는 것을 포함합니다.

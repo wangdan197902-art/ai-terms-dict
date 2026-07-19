@@ -1,23 +1,24 @@
 ---
-title: "Positionell kodning"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Positionell kodning
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /sv/terms/positional_encoding/
-date: "2026-07-18T15:39:34.052480Z"
-lastmod: "2026-07-18T17:15:08.965301Z"
+slug: positional_encoding
+date: '2026-07-18T15:39:34.052480Z'
+lastmod: '2026-07-18T17:15:08.965301Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknik som injicerar information om den relativa eller absoluta positionen för token i en sekvens in i transformer-modeller."
+source: agnes_llm
+status: published
+language: sv
+description: En teknik som injicerar information om den relativa eller absoluta positionen
+  för token i en sekvens in i transformer-modeller.
 ---
-
 ## Definition
 
 Eftersom transformers behandlar alla token parallellt snarare än sekventiellt som RNN:er saknar de inneboende kunskap om tokenordning. Positionell kodning lägger till specifika vektorer till inbäddningsvektorerna för att bevara ordningsinformationen.

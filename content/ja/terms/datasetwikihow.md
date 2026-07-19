@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /ja/terms/datasetwikihow/
 date: "2026-07-18T11:11:09.687310Z"
 lastmod: "2026-07-18T11:44:45.087616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "WikiHowの手順記事から構成される大規模データセット。主にテキスト要約および指示生成タスクに使用される。"
 ---
-
 ## Definition
 
 WikiHowデータセットは、WikiHowウェブサイトから収集された約6万件の手順記事で構成されています。抽象的なテキスト要約などの自然言語処理研究タスクにおいて広く使用されています。

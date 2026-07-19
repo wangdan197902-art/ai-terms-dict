@@ -1,23 +1,24 @@
 ---
-title: "Pengenal Entitas Bernama"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Pengenal Entitas Bernama
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /id/terms/named_entity_recognition/
-date: "2026-07-18T15:35:24.562449Z"
-lastmod: "2026-07-18T16:38:07.416755Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:35:24.562449Z'
+lastmod: '2026-07-18T16:38:07.416755Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Tugas pemrosesan bahasa alami yang mengidentifikasi dan mengklasifikasikan entitas informasi kunci ke dalam kategori yang telah ditentukan."
+source: agnes_llm
+status: published
+language: id
+description: Tugas pemrosesan bahasa alami yang mengidentifikasi dan mengklasifikasikan
+  entitas informasi kunci ke dalam kategori yang telah ditentukan.
 ---
-
 ## Definition
 
 Pengenal Entitas Bernama (NER) adalah subtugas dari ekstraksi informasi yang melokalisasi dan mengklasifikasikan entitas bernama dalam teks ke dalam kategori yang telah ditentukan sebelumnya, seperti nama orang, organisasi, lokasi, tanggal, dan lain-lain.

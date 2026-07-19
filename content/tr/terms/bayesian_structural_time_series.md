@@ -1,23 +1,24 @@
 ---
-title: "Bayesçi yapısal zaman serisi"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Bayesçi yapısal zaman serisi
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /tr/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:43:47.084642Z"
-lastmod: "2026-07-18T16:38:07.279078Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:43:47.084642Z'
+lastmod: '2026-07-18T16:38:07.279078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Zaman serilerini yorumlanabilir bileşenlere ayırmak için Bayesçi çıkarımı kullanan istatistiksel modelleme yaklaşımı."
+source: agnes_llm
+status: published
+language: tr
+description: Zaman serilerini yorumlanabilir bileşenlere ayırmak için Bayesçi çıkarımı
+  kullanan istatistiksel modelleme yaklaşımı.
 ---
-
 ## Definition
 
 Bayesçi yapısal zaman serisi (BSTS) modelleri, zaman serisi verilerini trend, mevsimsellik ve regresyon etkileri gibi yorumlanabilir bileşenlerin toplamı olarak temsil ederken, belirsizliği dikkate alır.

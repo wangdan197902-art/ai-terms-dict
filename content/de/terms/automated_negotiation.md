@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /de/terms/automated_negotiation/
 date: "2026-07-18T11:04:18.810330Z"
 lastmod: "2026-07-18T11:44:44.912693Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Einsatz von KI-Agenten zur autonomen Durchführung von Verhandlungen und zur Einigung zwischen Parteien."
 ---
-
 ## Definition
 
 Automatisierte Verhandlungen beinhalten Software-Agenten, die menschliche Interessen in Aushandlungsprozessen vertreten. Diese Agenten nutzen Spieltheorie, Optimierungsalgorithmen und maschinelles Lernen, um Angebote zu unterbreiten, zu bewerten und...

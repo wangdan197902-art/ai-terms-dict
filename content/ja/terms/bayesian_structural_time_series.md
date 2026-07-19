@@ -1,23 +1,23 @@
 ---
-title: "ベイズ構造的時系列"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: ベイズ構造的時系列
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /ja/terms/bayesian_structural_time_series/
-date: "2026-07-18T11:06:25.010828Z"
-lastmod: "2026-07-18T11:44:45.073374Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T11:06:25.010828Z'
+lastmod: '2026-07-18T11:44:45.073374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ベイズ推論を使用して時系列データを解釈可能な成分に分解する統計モデリングアプローチ。"
+source: agnes_llm
+status: published
+language: ja
+description: ベイズ推論を使用して時系列データを解釈可能な成分に分解する統計モデリングアプローチ。
 ---
-
 ## Definition
 
 ベイズ構造的時系列（BSTS）モデルは、時系列データをトレンド、季節性、回帰効果などの解釈可能な成分の和として表現します。この手法は、各成分の不確実性を考慮しながら、因果推論や事後分布の推定を行います。

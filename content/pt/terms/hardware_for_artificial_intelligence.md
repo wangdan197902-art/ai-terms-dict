@@ -1,23 +1,24 @@
 ---
-title: "Hardware para inteligência artificial"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Hardware para inteligência artificial
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /pt/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T15:03:02.425270Z"
-lastmod: "2026-07-18T15:51:59.497127Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T15:03:02.425270Z'
+lastmod: '2026-07-18T15:51:59.497127Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Componentes físicos especializados projetados para acelerar as demandas computacionais de algoritmos de aprendizado de máquina e treinamento de redes neurais."
+source: agnes_llm
+status: published
+language: pt
+description: Componentes físicos especializados projetados para acelerar as demandas
+  computacionais de algoritmos de aprendizado de máquina e treinamento de redes neurais.
 ---
-
 ## Definition
 
 Hardware de IA refere-se a dispositivos de computação especializados otimizados para o processamento paralelo massivo exigido pelas cargas de trabalho de aprendizado de máquina. Isso inclui Unidades de Processamento Gráfico (GPUs) para processamento geral par

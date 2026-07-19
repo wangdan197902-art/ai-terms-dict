@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /nl/terms/robotic_process_automation/
 date: "2026-07-18T16:15:52.731414Z"
 lastmod: "2026-07-18T17:15:08.784481Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het gebruik van softwarebots om hoogvolume, repetitieve digitale taken te automatiseren die traditioneel door mensen in bedrijfsprocessen worden uitgevoerd."
 ---
-
 ## Definition
 
 Robotic Process Automation (RPA) maakt gebruik van softwarebots, vaak verrijkt met AI, om menselijke interacties met digitale systemen na te bootsen. Het wordt gebruikt om workflows te stroomlijnen, zoals gegevensinvoer en factuurverwerking.

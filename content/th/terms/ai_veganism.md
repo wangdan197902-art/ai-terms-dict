@@ -1,23 +1,23 @@
 ---
-title: "วีแกนเอไอ"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: วีแกนเอไอ
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /th/terms/ai_veganism/
-date: "2026-07-18T15:39:05.041471Z"
-lastmod: "2026-07-18T16:38:07.569105Z"
+slug: ai_veganism
+date: '2026-07-18T15:39:05.041471Z'
+lastmod: '2026-07-18T16:38:07.569105Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวคิดเชิงอุปมาที่เสนอว่าระบบเอไอควรทำงานโดยไม่พึ่งพาข้อมูลหรือแรงงานที่มนุษย์สร้างขึ้น"
+source: agnes_llm
+status: published
+language: th
+description: แนวคิดเชิงอุปมาที่เสนอว่าระบบเอไอควรทำงานโดยไม่พึ่งพาข้อมูลหรือแรงงานที่มนุษย์สร้างขึ้น
 ---
-
 ## Definition
 
 วีแกนเอไอเป็นศัพท์เชิงสมมติฐานและอุปมา ที่หมายถึงแนวคิดในการสร้างปัญญาประดิษฐ์ที่เรียนรู้จากข้อมูลสังเคราะห์ ข้อมูลที่สร้างขึ้นเอง หรือข้อมูลจากโลกทางกายภาพอย่างสมบูรณ์ แทนที่จะอาศัยข้อมูลจากมนุษย์

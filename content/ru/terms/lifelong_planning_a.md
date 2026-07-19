@@ -1,23 +1,24 @@
 ---
-title: "Постоянное планирование A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Постоянное планирование A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /ru/terms/lifelong_planning_a/
-date: "2026-07-18T16:01:25.233300Z"
-lastmod: "2026-07-18T16:38:07.175033Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:01:25.233300Z'
+lastmod: '2026-07-18T16:38:07.175033Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Инкрементальный алгоритм поиска пути, который эффективно обновляет кратчайшие пути в динамических графах без пересчета с нуля после изменения весов ребер."
+source: agnes_llm
+status: published
+language: ru
+description: Инкрементальный алгоритм поиска пути, который эффективно обновляет кратчайшие
+  пути в динамических графах без пересчета с нуля после изменения весов ребер.
 ---
-
 ## Definition
 
 Постоянное планирование A* (LPA*) является расширением алгоритма поиска A*, предназначенным для сред, где затраты изменяются со временем. Вместо перезапуска поиска LPA* поддерживает очередь приоритетов и обновляет только те части дерева поиска, которые затронуты изменениями, что обеспечивает высокую эффективность в динамических условиях.

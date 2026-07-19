@@ -7,8 +7,6 @@ tags: ["embeddings", "inference", "search"]
 difficulty: 3
 weight: 1
 slug: "text_embeddings_inference"
-aliases:
-  - /ja/terms/text_embeddings_inference/
 date: "2026-07-18T11:34:27.671361Z"
 lastmod: "2026-07-18T11:44:45.150122Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "意味検索や検索タスクのために、テキストの高密度ベクトル表現を効率的に生成するために設計された専用推論サーバー。"
 ---
-
 ## Definition
 
 テキスト埋め込み推論とは、自然言語を高次元ベクトルに変換するモデルのデプロイメントと最適化を指します。これらの埋め込みは意味的な意味を捉えるため、システムが...

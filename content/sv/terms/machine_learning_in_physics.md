@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /sv/terms/machine_learning_in_physics/
 date: "2026-07-18T16:08:17.143856Z"
 lastmod: "2026-07-18T17:15:09.023932Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Tillämpningen av maskininlärning för att lösa komplexa fysikaliska problem, simulera kvantsystem och analysera experimentell data från partikelacceleratorer."
 ---
-
 ## Definition
 
 Inom fysiken hjälper maskininlärning till med simulering av kvantmekanik, analys av högenergikollisionsdata och upptäckt av nya material. Det hjälper fysiker att navigera i högdimensionella parameterrymder och hitta mönster som är svåra att detektera med traditionella metoder.

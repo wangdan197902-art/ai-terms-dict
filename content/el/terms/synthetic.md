@@ -1,23 +1,23 @@
 ---
-title: "Συνθετικό"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Συνθετικό
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /el/terms/synthetic/
-date: "2026-07-18T15:33:51.144633Z"
-lastmod: "2026-07-18T17:15:09.855747Z"
+slug: synthetic
+date: '2026-07-18T15:33:51.144633Z'
+lastmod: '2026-07-18T17:15:09.855747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το συνθετικό αναφέρεται σε δεδομένα ή περιεχόμενο που παράγονται τεχνητά από αλγορίθμους αντί να συλλέγονται από φυσικές πηγές."
+source: agnes_llm
+status: published
+language: el
+description: Το συνθετικό αναφέρεται σε δεδομένα ή περιεχόμενο που παράγονται τεχνητά
+  από αλγορίθμους αντί να συλλέγονται από φυσικές πηγές.
 ---
-
 ## Definition
 
 Στην ΤΝ, τα συνθετικά δεδομένα είναι τεχνητά παραγόμενη πληροφορία που μιμείται τα δεδομένα του πραγματικού κόσμου αλλά δεν περιέχει πραγματικά προσωπικά ή ευαίσθητα αρχεία. Είναι κρίσιμα για την εκπαίδευση μοντέλων μηχανικής μάθησης όταν λείπουν πραγματικά δεδομένα

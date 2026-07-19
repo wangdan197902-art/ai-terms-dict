@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /ar/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T16:11:51.192866Z"
 lastmod: "2026-07-18T17:15:08.524832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية استخدام خوارزميات التعلم الآلي لتحديد الأنماط تلقائياً واستخلاص معلومات منظمة من مجموعات بيانات ضخمة وغير مهيكلة."
 ---
-
 ## Definition
 
 يجمع هذا المجال بين تقنيات التعلم الآلي ومعالجة اللغات الطبيعية وتعدين البيانات لتحويل البيانات الخام إلى معرفة قابلة للتنفيذ. يتضمن تدريب النماذج على التعرف على الكيانات والعلاقات، وتحويل البيانات غير المهيكلة إلى رؤى قيمة تدعم اتخاذ القرار.

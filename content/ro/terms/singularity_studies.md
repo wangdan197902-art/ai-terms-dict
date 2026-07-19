@@ -1,23 +1,25 @@
 ---
-title: "Studiile singularității"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Studiile singularității
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /ro/terms/singularity_studies/
-date: "2026-07-18T16:20:53.450532Z"
-lastmod: "2026-07-18T17:15:09.702298Z"
+slug: singularity_studies
+date: '2026-07-18T16:20:53.450532Z'
+lastmod: '2026-07-18T17:15:09.702298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un domeniu interdisciplinar care examinează impactul societal, etic și existențial potențial al unei viitoare singularități tehnologice."
+source: agnes_llm
+status: published
+language: ro
+description: Un domeniu interdisciplinar care examinează impactul societal, etic și
+  existențial potențial al unei viitoare singularități tehnologice.
 ---
-
 ## Definition
 
 Studiile singularității sunt o disciplină academică emergentă care investighează implicațiile unui punct ipotetic viitor în care inteligența artificială depășește inteligența umană, ducând la o schimbare radicală și necontrolată în evoluția civilizației.

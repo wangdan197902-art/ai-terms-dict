@@ -1,23 +1,24 @@
 ---
-title: "الشبكات الذاتية الإدارة"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: الشبكات الذاتية الإدارة
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /ar/terms/autonomic_networking/
-date: "2026-07-18T15:46:36.812115Z"
-lastmod: "2026-07-18T17:15:08.479624Z"
+slug: autonomic_networking
+date: '2026-07-18T15:46:36.812115Z'
+lastmod: '2026-07-18T17:15:08.479624Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بنية تحتية للشبكات ذاتية الإدارة تستخدم الذكاء الاصطناعي للتكوين والتحسين وإصلاح الأعطال ذاتياً."
+source: agnes_llm
+status: published
+language: ar
+description: بنية تحتية للشبكات ذاتية الإدارة تستخدم الذكاء الاصطناعي للتكوين والتحسين
+  وإصلاح الأعطال ذاتياً.
 ---
-
 ## Definition
 
 تطبق الشبكات الذاتية مبادئ الحوسبة الذاتية على شبكات الاتصالات، مما يتيح للنظم إدارة نفسها بتدخل بشري محدود. تستخدم هذه الشبكات الذكاء الاصطناعي للكشف عن الأعطال، وإعادة توجيه حركة المرور تلقائياً، وضبط الإعدادات لتحقيق الأداء الأمثل، مما يضمن استمرارية الخدمة وموثوقيتها العالية.

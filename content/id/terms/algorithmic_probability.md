@@ -1,23 +1,24 @@
 ---
-title: "Probabilitas algoritmik"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Probabilitas algoritmik
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /id/terms/algorithmic_probability/
-date: "2026-07-18T15:38:42.752338Z"
-lastmod: "2026-07-18T16:38:07.426768Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:38:42.752338Z'
+lastmod: '2026-07-18T16:38:07.426768Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Ukuran teoretis mengenai kemungkinan bahwa sebuah program acak akan menghasilkan string keluaran tertentu."
+source: agnes_llm
+status: published
+language: id
+description: Ukuran teoretis mengenai kemungkinan bahwa sebuah program acak akan menghasilkan
+  string keluaran tertentu.
 ---
-
 ## Definition
 
 Probabilitas algoritmik, yang berakar pada kompleksitas Kolmogorov dan induksi Solomonoff, menetapkan probabilitas lebih tinggi untuk keluaran yang dihasilkan oleh program yang lebih pendek. Hal ini berasumsi bahwa penjelasan yang lebih sederhana lebih mungkin benar.

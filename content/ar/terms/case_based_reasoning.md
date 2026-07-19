@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /ar/terms/case_based_reasoning/
 date: "2026-07-18T15:47:57.775284Z"
 lastmod: "2026-07-18T17:15:08.483325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الاستدعاء القائم على الحالات (CBR) هو نهج لحل المشكلات في الذكاء الاصطناعي يستخدم الخبرات السابقة أو الحالات المشابهة لإيجاد حلول للمشكلات الجديدة."
 ---
-
 ## Definition
 
 يعمل CBR على مبدأ أن المشكلات المتشابهة لها حلول متشابهة. تتضمن العملية استرجاع الحالة التاريخية الأكثر تشابهاً من قاعدة المعرفة، وتعديل حلها ليناسب المشكلة الحالية

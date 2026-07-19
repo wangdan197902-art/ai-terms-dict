@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /ru/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:47:55.291139Z"
 lastmod: "2026-07-18T16:38:07.139887Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Крупномасштабный набор данных пар вопрос-ответ, полученных из Википедии, предназначенный для обучения плотного поиска по отрывкам."
 ---
-
 ## Definition
 
 Набор данных PAQ (Pseudo-Answer Quality) содержит миллионы автоматически сгенерированных пар вопрос-ответ, извлеченных из Википедии. Он специально разработан для обучения плотных поисковых систем путем предоставления...

@@ -1,23 +1,23 @@
 ---
-title: "Κλιμάκωση"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Κλιμάκωση
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /el/terms/scaling/
-date: "2026-07-18T15:32:21.530118Z"
-lastmod: "2026-07-18T17:15:09.853926Z"
+slug: scaling
+date: '2026-07-18T15:32:21.530118Z'
+lastmod: '2026-07-18T17:15:09.853926Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η κλιμάκωση είναι η διαδικασία προσαρμογής του μεγέθους του μοντέλου ή του όγκου των δεδομένων για την ενίσχυση των ικανοτήτων μάθησης και της απόδοσης."
+source: agnes_llm
+status: published
+language: el
+description: Η κλιμάκωση είναι η διαδικασία προσαρμογής του μεγέθους του μοντέλου
+  ή του όγκου των δεδομένων για την ενίσχυση των ικανοτήτων μάθησης και της απόδοσης.
 ---
-
 ## Definition
 
 Η κλιμάκωση είναι η ενεργή μεθοδολογία επέκτασης των συστημάτων ΤΝ μέσω της προσθήκης περισσότερων στρωμάτων, νευρώνων ή παραδειγμάτων εκπαίδευσης. Περιλαμβάνει τεχνικές όπως η κατανεμημένη εκπαίδευση σε πολλαπλές κάρτες γραφικών για την αντιμετώπιση της αύξησης

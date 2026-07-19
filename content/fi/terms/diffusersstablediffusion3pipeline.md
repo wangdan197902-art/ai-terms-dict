@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /fi/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:54:39.954618Z"
-lastmod: "2026-07-18T17:15:09.405030Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:54:39.954618Z'
+lastmod: '2026-07-18T17:15:09.405030Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Putki, joka toteuttaa Stable Diffusion 3:n arkkitehtuurin, jossa on MMDiT ja Flow Matching -menetelmät parantuneen kuvanlaadun ja tekstin renderöinnin varmistamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Putki, joka toteuttaa Stable Diffusion 3:n arkkitehtuurin, jossa on MMDiT
+  ja Flow Matching -menetelmät parantuneen kuvanlaadun ja tekstin renderöinnin varmistamiseksi.
 ---
-
 ## Definition
 
 Tämä putki käyttää Stable Diffusion 3 -mallia, joka esittelee Multimodal Diffusion Transformer (MMDiT) -arkkitehtuurin ja Flow Matching -koulutustavoitteen. Nämä edistysaskeleet parantavat merkittävästi,

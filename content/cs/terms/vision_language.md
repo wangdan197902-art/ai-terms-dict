@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /cs/terms/vision_language/
 date: "2026-07-18T15:39:20.191230Z"
 lastmod: "2026-07-18T17:15:09.095323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Modely jazyka a vize jsou systémy AI, které zpracovávají a korelují vizuální data s textovými informacemi za účelem pochopení multimodálních kontextů."
 ---
-
 ## Definition
 
 Modely jazyka a vize, často označované jako multimodální velké jazykové modely (MLLM), integrují počítačové vidění a zpracování přirozeného jazyka. Umožňují AI chápat obrázky a generovat text

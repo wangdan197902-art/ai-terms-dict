@@ -1,23 +1,23 @@
 ---
-title: "Scaling"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Scaling
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /it/terms/scaling/
-date: "2026-07-18T15:29:11.409860Z"
-lastmod: "2026-07-18T17:15:08.573991Z"
+slug: scaling
+date: '2026-07-18T15:29:11.409860Z'
+lastmod: '2026-07-18T17:15:08.573991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Lo scaling è il processo di regolazione delle dimensioni del modello o del volume dei dati per potenziare le capacità di apprendimento e le prestazioni."
+source: agnes_llm
+status: published
+language: it
+description: Lo scaling è il processo di regolazione delle dimensioni del modello
+  o del volume dei dati per potenziare le capacità di apprendimento e le prestazioni.
 ---
-
 ## Definition
 
 Lo scaling è la metodologia attiva di espansione dei sistemi di IA aggiungendo più strati, neuroni o esempi di addestramento. Include tecniche come l'addestramento distribuito su più GPU per gestire l'aumento

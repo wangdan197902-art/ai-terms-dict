@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /nl/terms/monte/
 date: "2026-07-18T15:28:01.257337Z"
 lastmod: "2026-07-18T17:15:08.688871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Monte verwijst naar Monte Carlo-methoden, die herhaald willekeurige steekproeven gebruiken om numerieke resultaten te verkrijgen voor problemen die principieel deterministisch zijn, maar te complex vo"
 ---
-
 ## Definition
 
 Monte Carlo-technieken zijn een klasse van computationele algoritmen die vertrouwen op herhaalde willekeurige steekproeven om wiskundige grootheden te schatten. Ze zijn bijzonder nuttig bij hoge-dimensionale integratie, optimalisatie en probabilistische inferentie waar exacte berekeningen onhaalbaar zijn.

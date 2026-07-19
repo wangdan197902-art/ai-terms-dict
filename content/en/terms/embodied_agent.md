@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /en/terms/embodied_agent/
 date: "2026-07-18T09:56:39.550072Z"
 lastmod: "2026-07-18T11:44:44.668786Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An embodied agent is an AI system that interacts with its environment through a physical body or sensorimotor apparatus."
 ---
-
 ## Definition
 
 Unlike disembodied AI that processes abstract data, embodied agents learn and act within a physical context, relying on sensory inputs and motor outputs. This paradigm is central to robotics and autonomous systems, where intelligence emerges from the interaction between the agent's body, its control mechanisms, and the surrounding world. It emphasizes that cognition is deeply rooted in physical experience.

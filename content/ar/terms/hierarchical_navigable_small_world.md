@@ -1,23 +1,24 @@
 ---
-title: "عالم صغير قابل للملاحة هرميًا"
-term_id: "hierarchical_navigable_small_world"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "data_structures"]
+title: عالم صغير قابل للملاحة هرميًا
+term_id: hierarchical_navigable_small_world
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Data Structures
 difficulty: 4
 weight: 1
-slug: "hierarchical_navigable_small_world"
-aliases:
-  - /ar/terms/hierarchical_navigable_small_world/
-date: "2026-07-18T16:01:04.416559Z"
-lastmod: "2026-07-18T17:15:08.512263Z"
+slug: hierarchical_navigable_small_world
+date: '2026-07-18T16:01:04.416559Z'
+lastmod: '2026-07-18T17:15:08.512263Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "هيكل بيانات قائم على الرسوم البيانية يتيح البحث الفعال عن أقرب الجيران التقريبي في الفضاءات عالية الأبعاد."
+source: agnes_llm
+status: published
+language: ar
+description: هيكل بيانات قائم على الرسوم البيانية يتيح البحث الفعال عن أقرب الجيران
+  التقريبي في الفضاءات عالية الأبعاد.
 ---
-
 ## Definition
 
 خوارزمية العالم الصغير القابل للملاحة هرميًا (HNSW) تبني رسمًا بيانيًا متعدد الطبقات، حيث تحتوي كل طبقة على مجموعة فرعية من العقد الموجودة في الطبقة التي تحتها. تبدأ عملية الملاحة من الطبقة العلوية (الأكثر تجريدًا والأقل كثافة) للانتقال السريع نحو المنطقة العامة المستهدفة، ثم تنتقل إلى الطبقات السفلى الأكثر تفصيلاً للوصول إلى أقرب جيران بدقة عالية، مما يوفر تعقيداً لوغاريتمياً في البحث.

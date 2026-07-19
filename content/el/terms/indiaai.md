@@ -1,23 +1,24 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /el/terms/indiaai/
-date: "2026-07-18T16:13:43.279451Z"
-lastmod: "2026-07-18T17:15:09.918913Z"
+slug: indiaai
+date: '2026-07-18T16:13:43.279451Z'
+lastmod: '2026-07-18T17:15:09.918913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το INDIAai είναι ο εθνικός πυρήνας τεχνητής νοημοσύνης που ξεκίνησε από την κυβέρνηση της Ινδίας για την προώθηση της έρευνας και της υιοθέτησης της τεχνητής νοημοσύνης σε όλη τη χώρα."
+source: agnes_llm
+status: published
+language: el
+description: Το INDIAai είναι ο εθνικός πυρήνας τεχνητής νοημοσύνης που ξεκίνησε από
+  την κυβέρνηση της Ινδίας για την προώθηση της έρευνας και της υιοθέτησης της τεχνητής
+  νοημοσύνης σε όλη τη χώρα.
 ---
-
 ## Definition
 
 Ιδρυθέν υπό το Υπουργείο Ηλεκτρονικών και Τεχνολογίας Πληροφοριών, το INDIAai λειτουργεί ως κεντρικός κόμβος για πόρους, πολιτικές και πρωτοβουλίες τεχνητής νοημοσύνης. Στόχος του είναι να προάγει τη συνεργασία μεταξύ ακαδημαϊκών κύκλων, βιομηχανίας και κυβερνήσε...

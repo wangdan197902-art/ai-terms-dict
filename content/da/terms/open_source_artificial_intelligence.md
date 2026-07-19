@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /da/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:10:13.286855Z"
 lastmod: "2026-07-18T17:15:09.317783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Åben kildekode AI refererer til kunstig intelligenssoftware, modeller og værktøjer, hvis kildekode er offentligt tilgængelig til inspektion, ændring og distribution."
 ---
-
 ## Definition
 
 Dette begreb omfatter økosystemet af AI-teknologier, der er udgivet under licenser, der tillader fri adgang til den underliggende kode. Det fremmer gennemsigtighed, samarbejde og innovation ved at muliggøre udviklere at tilpasse og forbedre systemerne.

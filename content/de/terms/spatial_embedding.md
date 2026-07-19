@@ -1,23 +1,24 @@
 ---
-title: "Räumliche Einbettung"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Räumliche Einbettung
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /de/terms/spatial_embedding/
-date: "2026-07-18T11:33:57.106732Z"
-lastmod: "2026-07-18T11:44:44.987263Z"
+slug: spatial_embedding
+date: '2026-07-18T11:33:57.106732Z'
+lastmod: '2026-07-18T11:44:44.987263Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik, die räumliche Beziehungen zwischen Objekten oder Standorten in Vektordarstellungen für Machine-Learning-Modelle umwandelt."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik, die räumliche Beziehungen zwischen Objekten oder Standorten
+  in Vektordarstellungen für Machine-Learning-Modelle umwandelt.
 ---
-
 ## Definition
 
 Räumliche Einbettung beinhaltet die Umwandlung physischer oder abstrakter räumlicher Beziehungen in dichte Vektorräume, sodass Algorithmen Nähe, Orientierung und Topologie verstehen können. Diese Technik ist entscheidend für Anwendungen, die räumliches Bewusstsein erfordern.

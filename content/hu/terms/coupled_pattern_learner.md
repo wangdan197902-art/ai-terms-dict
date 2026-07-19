@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /hu/terms/coupled_pattern_learner/
 date: "2026-07-18T15:52:01.961848Z"
 lastmod: "2026-07-18T17:15:09.766289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy algoritmikus megközelítés, amely egyszerre tanulja meg két különböző, de korrelált minta- vagy jellemzőkészlet közötti kapcsolatokat."
 ---
-
 ## Definition
 
 A párosított mintatanulókat arra tervezték, hogy kezeljék azt az adatot, ahol két különböző térből származó példák kapcsolódnak egymáshoz, például képek és azok szöveges leírásai. A közös eloszlás vagy korreláció modellezésével.

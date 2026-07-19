@@ -1,23 +1,23 @@
 ---
-title: "Nash"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: Nash
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /ro/terms/nash/
-date: "2026-07-18T15:27:33.695227Z"
-lastmod: "2026-07-18T17:15:09.599290Z"
+slug: nash
+date: '2026-07-18T15:27:33.695227Z'
+lastmod: '2026-07-18T17:15:09.599290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Se referă la Echilibrul Nash, o stare în teoria jocurilor în care niciun jucător nu poate beneficia schimbând strategiile în timp ce alții rămân constanți."
+source: agnes_llm
+status: published
+language: ro
+description: Se referă la Echilibrul Nash, o stare în teoria jocurilor în care niciun
+  jucător nu poate beneficia schimbând strategiile în timp ce alții rămân constanți.
 ---
-
 ## Definition
 
 În AI, în special în Sistemele Multi-Agenți și Învățarea prin Întărire, Echilibrul Nash descrie o stare stabilă în care strategia fiecărui agent este optimă având în vedere strategiile tuturor celorlalți agenți. Niciun agent nu are interesul de a devia unilateral.

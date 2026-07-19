@@ -1,23 +1,23 @@
 ---
-title: "การดึงข้อมูล (Retrieval)"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: การดึงข้อมูล (Retrieval)
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /th/terms/retrieval/
-date: "2026-07-18T15:37:31.176454Z"
-lastmod: "2026-07-18T16:38:07.564921Z"
+slug: retrieval
+date: '2026-07-18T15:37:31.176454Z'
+lastmod: '2026-07-18T16:38:07.564921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการดึงข้อมูลที่เกี่ยวข้องจากฐานข้อมูลหรือคลังความรู้ เพื่อเสริมข้อมูลนำเข้าให้กับโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการดึงข้อมูลที่เกี่ยวข้องจากฐานข้อมูลหรือคลังความรู้ เพื่อเสริมข้อมูลนำเข้าให้กับโมเดล
 ---
-
 ## Definition
 
 การดึงข้อมูล หมายถึง กระบวนการทางเทคนิคในการค้นหาและสกัดข้อมูลเฉพาะจากชุดข้อมูลขนาดใหญ่หรือฐานความรู้ภายนอก โดยอ้างอิงจากคำถามของผู้ใช้หรือบริบทต่างๆ ในระบบปัญญาประดิษฐ์ยุคใหม่ มักใช้เพื่อเพิ่มบริบทให้โมเดลก่อนการสร้างคำตอบ

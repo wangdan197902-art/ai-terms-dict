@@ -1,23 +1,23 @@
 ---
-title: "컴퓨터 청각 (Computer Audition)"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: 컴퓨터 청각 (Computer Audition)
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /ko/terms/computer_audition/
-date: "2026-07-18T15:45:59.129472Z"
-lastmod: "2026-07-18T16:38:06.819625Z"
+slug: computer_audition
+date: '2026-07-18T15:45:59.129472Z'
+lastmod: '2026-07-18T16:38:06.819625Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "컴퓨터 청각은 기계가 인간처럼 오디오 신호를 지각하고 이해할 수 있도록 하는 연구 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 컴퓨터 청각은 기계가 인간처럼 오디오 신호를 지각하고 이해할 수 있도록 하는 연구 분야입니다.
 ---
-
 ## Definition
 
 컴퓨터 청각은 컴퓨터가 오디오 파형에서 의미 있는 정보를 추출할 수 있는 알고리즘을 개발하는 것을 포함합니다. 여기에는 음성 인식, 음악 장르 분류

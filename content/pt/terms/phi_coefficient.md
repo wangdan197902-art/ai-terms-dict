@@ -1,23 +1,23 @@
 ---
-title: "Coeficiente Phi"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Coeficiente Phi
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /pt/terms/phi_coefficient/
-date: "2026-07-18T15:16:33.387066Z"
-lastmod: "2026-07-18T15:51:59.522499Z"
+slug: phi_coefficient
+date: '2026-07-18T15:16:33.387066Z'
+lastmod: '2026-07-18T15:51:59.522499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma medida estatística de associação entre duas variáveis binárias."
+source: agnes_llm
+status: published
+language: pt
+description: Uma medida estatística de associação entre duas variáveis binárias.
 ---
-
 ## Definition
 
 O coeficiente Phi (φ) é uma medida de associação para duas variáveis binárias, servindo como o coeficiente de correlação de Pearson para variáveis dicotômicas. Varia de -1 a +1, onde 0 indica ausência de associação e os extremos indicam associação perfeita.

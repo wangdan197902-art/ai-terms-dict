@@ -1,23 +1,24 @@
 ---
-title: "Deteksjon"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Deteksjon
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /no/terms/detection/
-date: "2026-07-18T15:25:19.771855Z"
-lastmod: "2026-07-18T16:38:06.934448Z"
+slug: detection
+date: '2026-07-18T15:25:19.771855Z'
+lastmod: '2026-07-18T16:38:06.934448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Identifikasjon og lokalisering av spesifikke objekter, hendelser eller anomali i et datasett eller miljø."
+source: agnes_llm
+status: published
+language: 'no'
+description: Identifikasjon og lokalisering av spesifikke objekter, hendelser eller
+  anomali i et datasett eller miljø.
 ---
-
 ## Definition
 
 Deteksjon er en grunnleggende oppgave innen datamaskinseende og signalbehandling der en AI-modell identifiserer tilstedeværelsen og posisjonen til enheter av interesse. I motsetning til klassifisering som kun tildeler en etikett, gir deteksjon også koordinatene (ofte som en bounding box) der objektet befinner seg.

@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /ja/terms/direct/
 date: "2026-07-18T10:49:45.052480Z"
 lastmod: "2026-07-18T11:44:45.004423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "中間の複雑な変換や潜在表現を経由せず、入力を出力に直接マッピングする方法や経路を指す。"
 ---
-
 ## Definition
 
 AIの文脈において、「直接」とは、中間的な抽象化レイヤーをバイパスするアーキテクチャや推論パスを記述することが多いです。例えば、強化学習における直接方策最適化や、直接的なマッピングを含むエンドツーエンドの手法などが該当します。

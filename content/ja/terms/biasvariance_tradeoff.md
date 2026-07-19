@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /ja/terms/biasvariance_tradeoff/
 date: "2026-07-18T11:06:38.752168Z"
 lastmod: "2026-07-18T11:44:45.073923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "誤差を最小化するためにモデルの複雑さと汎化能力のバランスを取ることを要求する、教師あり学習における根本的な問題。"
 ---
-
 ## Definition
 
 バイアス・バリアンス・トレードオフは、過少適合（高バイアス）と過剰適合（高バリアンス）の間の緊張関係を記述します。高バイアスのモデルはデータに対して強い仮定を立てるため、関連するパターンを見逃す可能性があります。一方、高バリアンスのモデルはノイズまで学習してしまい、新しいデータへの汎化性能が低下します。

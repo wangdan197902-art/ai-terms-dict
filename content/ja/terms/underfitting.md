@@ -1,23 +1,23 @@
 ---
-title: "アンダーフィッティング（過少適合）"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: アンダーフィッティング（過少適合）
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /ja/terms/underfitting/
-date: "2026-07-18T11:35:35.634011Z"
-lastmod: "2026-07-18T11:44:45.153240Z"
+slug: underfitting
+date: '2026-07-18T11:35:35.634011Z'
+lastmod: '2026-07-18T11:44:45.153240Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機械学習モデルが訓練データの潜在的な傾向を捉えられない状態。"
+source: agnes_llm
+status: published
+language: ja
+description: 機械学習モデルが訓練データの潜在的な傾向を捉えられない状態。
 ---
-
 ## Definition
 
 アンダーフィッティングは、統計モデルや機械学習アルゴリズムが入力から出力へのマッピング関数を正確に近似できない場合に発生します。これは通常、モデルが複雑すぎるデータに対して単純すぎることが原因で起こります。

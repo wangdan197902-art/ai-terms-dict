@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /vi/terms/extensive/
 date: "2026-07-18T15:25:17.152358Z"
 lastmod: "2026-07-18T16:38:07.684643Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mô tả các tập dữ liệu, tính toán hoặc đánh giá AI bao phủ phạm vi, khối lượng hoặc độ rộng lớn của các kịch bản."
 ---
-
 ## Definition
 
 Toàn diện đề cập đến quy mô và tính bao quát của các hoạt động AI, chẳng hạn như các tập dữ liệu quy mô lớn, bộ đánh giá rộng khắp hoặc khối lượng công việc tính toán nặng nề. Một tập dữ liệu toàn diện đảm bảo khả năng tổng quát hóa của mô hình...

@@ -1,23 +1,24 @@
 ---
-title: "Qwen Coder"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: Qwen Coder
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /ro/terms/qwen_coder/
-date: "2026-07-18T16:18:09.142004Z"
-lastmod: "2026-07-18T17:15:09.696426Z"
+slug: qwen_coder
+date: '2026-07-18T16:18:09.142004Z'
+lastmod: '2026-07-18T17:15:09.696426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Qwen Coder este o variantă specializată a modelului Qwen, optimizată pentru dezvoltarea software și sarcinile de programare."
+source: agnes_llm
+status: published
+language: ro
+description: Qwen Coder este o variantă specializată a modelului Qwen, optimizată
+  pentru dezvoltarea software și sarcinile de programare.
 ---
-
 ## Definition
 
 Qwen Coder este o versiune dedicată a modelului lingvistic mare Qwen, finetunată specific pentru activități legate de programare. Se remarcă prin generarea de cod, depanarea, înțelegerea bazelor de cod complexe și alte abilități tehnice.

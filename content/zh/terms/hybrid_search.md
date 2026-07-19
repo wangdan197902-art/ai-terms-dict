@@ -1,23 +1,23 @@
 ---
-title: "混合搜索"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: 混合搜索
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /zh/terms/hybrid_search/
-date: "2026-07-18T11:21:34.630836Z"
-lastmod: "2026-07-18T11:44:45.514958Z"
+slug: hybrid_search
+date: '2026-07-18T11:21:34.630836Z'
+lastmod: '2026-07-18T11:44:45.514958Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种检索策略，将语义向量搜索与传统基于关键词的索引相结合，以提高准确性和相关性。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种检索策略，将语义向量搜索与传统基于关键词的索引相结合，以提高准确性和相关性。
 ---
-
 ## Definition
 
 混合搜索整合了两种不同的检索方法：捕捉语义含义和上下文的稠密向量搜索，以及匹配确切术语的稀疏向量（关键词）搜索。通过利用这两种方法的互补优势，混合搜索能够显著提升检索结果的质量。

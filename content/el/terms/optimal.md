@@ -1,23 +1,23 @@
 ---
-title: "Βέλτιστο"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Βέλτιστο
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /el/terms/optimal/
-date: "2026-07-18T15:30:17.301016Z"
-lastmod: "2026-07-18T17:15:09.850885Z"
+slug: optimal
+date: '2026-07-18T15:30:17.301016Z'
+lastmod: '2026-07-18T17:15:09.850885Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το βέλτιστο αναφέρεται στην καλύτερη δυνατή λύση ή ενέργεια μέσα σε ένα δεδομένο σύνολο περιορισμών, μεγιστοποιώντας τα οφέλη ή ελαχιστοποιώντας το κόστος."
+source: agnes_llm
+status: published
+language: el
+description: Το βέλτιστο αναφέρεται στην καλύτερη δυνατή λύση ή ενέργεια μέσα σε ένα
+  δεδομένο σύνολο περιορισμών, μεγιστοποιώντας τα οφέλη ή ελαχιστοποιώντας το κόστος.
 ---
-
 ## Definition
 
 Στην ΤΕ και τη θεωρία βελτιστοποίησης, μια βέλτιστη λύση είναι αυτή που επιτυγχάνει την υψηλότερη δυνατή απόδοση, όπως μέγιστη ανταμοιβή στην ενισχυτική μάθηση ή ελάχιστο σφάλμα στην παλινδρόμηση. Η εύρεση...

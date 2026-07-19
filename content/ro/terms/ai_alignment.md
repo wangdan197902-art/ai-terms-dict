@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /ro/terms/ai_alignment/
 date: "2026-07-18T15:41:38.414924Z"
 lastmod: "2026-07-18T17:15:09.621957Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Domainul de studiu axat pe asigurarea faptului că sistemele AI se comportă conform valorilor și intențiilor umane."
 ---
-
 ## Definition
 
 Alinierea AI abordează provocarea de a face ca sistemele de inteligență artificială să facă robust ceea ce își doresc utilizatorii, nu doar ceea ce specifică literal. Aceasta implică metode tehnice pentru a asigura că comportamentul sistemului este benefic și sigur.

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /fr/terms/accountability/
 date: "2026-07-18T11:03:46.527803Z"
 lastmod: "2026-07-18T11:44:45.194439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le principe selon lequel les développeurs et les opérateurs de systèmes d'IA doivent rendre compte des résultats et des impacts de ces systèmes."
 ---
-
 ## Definition
 
 La responsabilité en intelligence artificielle désigne l'obligation pour les individus, les organisations et les développeurs d'assumer la responsabilité de la conception, du déploiement et des conséquences des technologies d'IA.

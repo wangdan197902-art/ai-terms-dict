@@ -1,23 +1,24 @@
 ---
-title: "Imatrix"
-term_id: "imatrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "training", "quantization"]
+title: Imatrix
+term_id: imatrix
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- training
+- quantization
 difficulty: 5
 weight: 1
-slug: "imatrix"
-aliases:
-  - /tr/terms/imatrix/
-date: "2026-07-18T15:57:59.709879Z"
-lastmod: "2026-07-18T16:38:07.320251Z"
+slug: imatrix
+date: '2026-07-18T15:57:59.709879Z'
+lastmod: '2026-07-18T16:38:07.320251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Büyük dil modellerinin eğitiminde verimli parametre optimizasyonu için önem matrislerini hesaplamakta kullanılan belirli bir algoritma."
+source: agnes_llm
+status: published
+language: tr
+description: Büyük dil modellerinin eğitiminde verimli parametre optimizasyonu için
+  önem matrislerini hesaplamakta kullanılan belirli bir algoritma.
 ---
-
 ## Definition
 
 Önem Matrisi'nin kısaltması olan Imatrix, öncelikle GGML tabanlı LLM eğitimi ve nicelleme ile ilişkilendirilen bir tekniktir. İkinci mertebe türevleri (Hessen matrisi yaklaşıklığı) hesaplayarak parametrelerin önemi belirler.

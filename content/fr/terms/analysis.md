@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /fr/terms/analysis/
 date: "2026-07-18T10:48:36.009324Z"
 lastmod: "2026-07-18T11:44:45.158431Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus d'examen des données ou des sorties de modèles pour extraire des informations et des motifs significatifs."
 ---
-
 ## Definition
 
 Dans le contexte de l'IA, l'analyse fait référence à l'examen systématique des données, des prédictions de modèles ou des comportements du système afin de comprendre les motifs sous-jacents, de diagnostiquer des problèmes ou d'en déduire des informations exploitables. L'

@@ -1,23 +1,24 @@
 ---
-title: "Affiné"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Affiné
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /fr/terms/finetuned/
-date: "2026-07-18T11:17:20.089530Z"
-lastmod: "2026-07-18T11:44:45.251769Z"
+slug: finetuned
+date: '2026-07-18T11:17:20.089530Z'
+lastmod: '2026-07-18T11:44:45.251769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus d'entraînement supplémentaire d'un modèle pré-entraîné sur un ensemble de données spécifique pour l'adapter à une tâche particulière."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus d'entraînement supplémentaire d'un modèle pré-entraîné sur
+  un ensemble de données spécifique pour l'adapter à une tâche particulière.
 ---
-
 ## Definition
 
 L'affinage fait référence à la technique consistant à prendre un modèle déjà entraîné sur un grand ensemble de données général et à poursuivre son apprentissage sur un ensemble de données plus petit et spécifique à un domaine. Cela permet au modèle de s'adapter...

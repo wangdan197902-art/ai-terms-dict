@@ -1,23 +1,24 @@
 ---
-title: "מערכת קוגניטיבית ארגונית"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: מערכת קוגניטיבית ארגונית
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /he/terms/enterprise_cognitive_system/
-date: "2026-07-18T15:56:13.249929Z"
-lastmod: "2026-07-18T17:15:09.537594Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T15:56:13.249929Z'
+lastmod: '2026-07-18T17:15:09.537594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פלטפורמת בינה מלאכותית משולבת המיישמת ניתוח מתקדם ולמידת מכונה כדי אוטומציה של תהליכים עסקיים מורכבים וקבלת החלטות."
+source: agnes_llm
+status: published
+language: he
+description: פלטפורמת בינה מלאכותית משולבת המיישמת ניתוח מתקדם ולמידת מכונה כדי אוטומציה
+  של תהליכים עסקיים מורכבים וקבלת החלטות.
 ---
-
 ## Definition
 
 מערכת קוגניטיבית ארגונית משלבת בינה מלאכותית, עיבוד שפה טבעית ולמידת מכונה כדי לחקות תהליכי חשיבה אנושיים בסביבה עסקית. מערכות אלו מנתחות נתונים ומסיקות מסקנות להחלטות עסקיות.

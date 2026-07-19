@@ -1,23 +1,24 @@
 ---
-title: "Tìm kiếm lai"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Tìm kiếm lai
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /vi/terms/hybrid_search/
-date: "2026-07-18T15:57:10.824134Z"
-lastmod: "2026-07-18T16:38:07.766763Z"
+slug: hybrid_search
+date: '2026-07-18T15:57:10.824134Z'
+lastmod: '2026-07-18T16:38:07.766763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chiến lược truy xuất kết hợp tìm kiếm vector ngữ nghĩa với chỉ mục dựa trên từ khóa truyền thống để cải thiện độ chính xác và mức độ liên quan."
+source: agnes_llm
+status: published
+language: vi
+description: Một chiến lược truy xuất kết hợp tìm kiếm vector ngữ nghĩa với chỉ mục
+  dựa trên từ khóa truyền thống để cải thiện độ chính xác và mức độ liên quan.
 ---
-
 ## Definition
 
 Tìm kiếm lai tích hợp hai phương pháp truy xuất khác biệt: tìm kiếm vector dày đặc (dense vector search), nắm bắt ý nghĩa ngữ cảnh, và tìm kiếm vector thưa (sparse vector search) dựa trên từ khóa để khớp các thuật ngữ chính xác. Bằng cách tận dụng cả hai, hệ thống có thể cân bằng giữa khả năng hiểu ý định người dùng và độ chính xác cú pháp của từ khóa.

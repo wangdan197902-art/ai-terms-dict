@@ -1,23 +1,25 @@
 ---
-title: "Divergência"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergência
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /pt/terms/divergence/
-date: "2026-07-18T14:34:18.553351Z"
-lastmod: "2026-07-18T15:51:59.427596Z"
+slug: divergence
+date: '2026-07-18T14:34:18.553351Z'
+lastmod: '2026-07-18T15:51:59.427596Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A divergência refere-se à falha da função de perda de um algoritmo de aprendizado de máquina em diminuir durante o treinamento, resultando em desempenho instável ou pior."
+source: agnes_llm
+status: published
+language: pt
+description: A divergência refere-se à falha da função de perda de um algoritmo de
+  aprendizado de máquina em diminuir durante o treinamento, resultando em desempenho
+  instável ou pior.
 ---
-
 ## Definition
 
 No contexto de otimização, a divergência ocorre quando os parâmetros de um modelo são atualizados de tal forma que a perda aumenta em vez de diminuir, muitas vezes levando a valores NaN (Not a Number) ou gradientes infinitos.

@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /vi/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:10:06.878782Z"
 lastmod: "2026-07-18T16:38:07.800184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình học hợp tác nơi con người và máy móc liên tục dạy và học lẫn nhau để cải thiện hiệu suất."
 ---
-
 ## Definition
 
 Cách tiếp cận này vượt xa việc gán nhãn đơn thuần theo kiểu 'con người trong vòng lặp'. Nó liên quan đến việc chuyển giao kiến thức hai chiều: con người sửa lỗi mô hình trong khi mô hình hỗ trợ con người nhận dạng các mẫu hoặc tự động hóa...

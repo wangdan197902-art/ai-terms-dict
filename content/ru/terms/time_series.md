@@ -1,23 +1,23 @@
 ---
-title: "Временной ряд"
-term_id: "time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "forecasting"]
+title: Временной ряд
+term_id: time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- forecasting
 difficulty: 3
 weight: 1
-slug: "time_series"
-aliases:
-  - /ru/terms/time_series/
-date: "2026-07-18T16:18:47.469798Z"
-lastmod: "2026-07-18T16:38:07.210386Z"
+slug: time_series
+date: '2026-07-18T16:18:47.469798Z'
+lastmod: '2026-07-18T16:38:07.210386Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Последовательность точек данных, индексированных во временном порядке, обычно анализируемая с помощью специализированных ИИ-моделей для прогнозирования."
+source: agnes_llm
+status: published
+language: ru
+description: Последовательность точек данных, индексированных во временном порядке,
+  обычно анализируемая с помощью специализированных ИИ-моделей для прогнозирования.
 ---
-
 ## Definition
 
 Данные временных рядов состоят из наблюдений, записанных последовательно через определенные интервалы времени. В ИИ этот тип данных имеет решающее значение для прогнозирования будущих тенденций на основе исторических паттернов. Специализированные модели, такие как RNN и LSTM, часто используются для анализа.

@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /sv/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:52:11.329528Z"
 lastmod: "2026-07-18T17:15:08.991591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En kuraterad datamängd härledd från Simple English Wikipedia, använd för att träna och utvärdera textinbäddningsmodeller."
 ---
-
 ## Definition
 
 Denna datamängd består av meningar och stycken extraherade från Simple English Wikipedia, en version av Wikipedia skriven för icke-modersmålstalare med förenklad grammatik och ordförråd. Den fungerar som en

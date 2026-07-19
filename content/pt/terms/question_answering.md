@@ -1,23 +1,24 @@
 ---
-title: "Resposta a Perguntas"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Resposta a Perguntas
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /pt/terms/question_answering/
-date: "2026-07-18T14:45:28.110422Z"
-lastmod: "2026-07-18T15:51:59.453725Z"
+slug: question_answering
+date: '2026-07-18T14:45:28.110422Z'
+lastmod: '2026-07-18T15:51:59.453725Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma tarefa de PLN onde um sistema fornece automaticamente respostas precisas a perguntas formuladas em linguagem natural."
+source: agnes_llm
+status: published
+language: pt
+description: Uma tarefa de PLN onde um sistema fornece automaticamente respostas precisas
+  a perguntas formuladas em linguagem natural.
 ---
-
 ## Definition
 
 A Resposta a Perguntas (QA) envolve recuperar ou gerar respostas precisas às consultas do usuário a partir de um contexto ou base de conhecimento específico. Ela varia desde a QA de domínio fechado, que depende de documentos específicos...

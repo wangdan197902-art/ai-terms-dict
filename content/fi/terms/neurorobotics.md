@@ -1,23 +1,25 @@
 ---
-title: "Neurorobotiikka"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: Neurorobotiikka
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /fi/terms/neurorobotics/
-date: "2026-07-18T16:12:54.846629Z"
-lastmod: "2026-07-18T17:15:09.439259Z"
+slug: neurorobotics
+date: '2026-07-18T16:12:54.846629Z'
+lastmod: '2026-07-18T17:15:09.439259Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Neurorobotiikka tutkii, kuinka biologiset hermostot voivat ohjata itsenäisten robotien suunnittelua ja kuinka robotit voivat toimia malleina aivojen toiminnan ymmärtämiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Neurorobotiikka tutkii, kuinka biologiset hermostot voivat ohjata itsenäisten
+  robotien suunnittelua ja kuinka robotit voivat toimia malleina aivojen toiminnan
+  ymmärtämiseksi.
 ---
-
 ## Definition
 
 Tämä ala yhdistää neurotieteen ja robotiikan toteuttamalla hermostoverkkomalleja robottien ohjausjärjestelmiin. Se mahdollistaa tutkijoiden testaavat hypoteeseja moottorisesta kontrollista, aistinvaraisesta käsittelystä ja kognitiivisista prosesseista.

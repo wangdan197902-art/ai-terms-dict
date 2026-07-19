@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /da/terms/gradient_descent/
 date: "2026-07-18T15:35:20.527985Z"
 lastmod: "2026-07-18T17:15:09.245073Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En iterativ optimeringsalgoritme, der bruges til at minimere en tabfunktion ved at justere modellens parametre."
 ---
-
 ## Definition
 
 Gradientnedstigning er en iterativ optimeringsalgoritme af første orden til at finde et lokalt minimum af en differentiabel funktion. I maskinlæring opdateres modellens vægte i modsat retning af gradienten for at minimere tabet.

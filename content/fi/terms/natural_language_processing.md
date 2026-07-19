@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /fi/terms/natural_language_processing/
 date: "2026-07-18T15:29:19.481806Z"
 lastmod: "2026-07-18T17:15:09.355634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyn haara, joka keskittyy tietokoneiden kykyyn ymmärtää, tulkita ja tuottaa ihmisen kieltä."
 ---
-
 ## Definition
 
 Luonnollisen kielen käsittely (NLP) on tekoälyn ala, joka yhdistää laskennallista kielitiedettä tilastollisiin, koneoppimiseen ja syväoppimiseen perustuviin malleihin. Se mahdollistaa koneille ihmisen kielen käsittelyn.

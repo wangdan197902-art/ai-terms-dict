@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /hu/terms/chat/
 date: "2026-07-18T15:49:16.289283Z"
 lastmod: "2026-07-18T17:15:09.761772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A chat a felhasználó és egy AI rendszer közötti interaktív, beszélgetés-szerű kommunikációt jelöli, amelyet általában természetes nyelven bonyolítanak le."
 ---
-
 ## Definition
 
 Az AI kontextusában a chat a valós idejű, körökre bontott párbeszéd felületét és alapvető mechanizmusát jelöli. Lehetővé teszi a felhasználók számára, hogy kérdéseket tegyenek fel, feladatokat kérjenek, vagy nyitott végű beszélgetésbe bocsátkozzanak.

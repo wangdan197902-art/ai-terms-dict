@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /pt/terms/prior/
 date: "2026-07-18T14:38:03.205674Z"
 lastmod: "2026-07-18T15:51:59.436566Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Na estatística bayesiana, uma distribuição de probabilidade que expressa conhecimento ou crença sobre um parâmetro antes de observar novas evidências ou dados."
 ---
-
 ## Definition
 
 Um 'priori' representa crenças existentes ou dados históricos sobre uma variável antes de incorporar novas observações. Na inferência bayesiana, o priori é combinado com a verossimilhança dos dados observados para produzir uma distribuição posterior, atualizando assim a incerteza inicial com base nas evidências.

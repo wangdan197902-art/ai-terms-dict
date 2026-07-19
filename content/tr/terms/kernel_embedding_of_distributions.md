@@ -1,23 +1,25 @@
 ---
-title: "Dağılımların çekirdek gömülmesi"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Dağılımların çekirdek gömülmesi
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /tr/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T15:59:15.614748Z"
-lastmod: "2026-07-18T16:38:07.323641Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T15:59:15.614748Z'
+lastmod: '2026-07-18T16:38:07.323641Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Olasılık dağılımlarını, vektör işlemleri aracılığıyla karşılaştırma ve manipülasyonu mümkün kılmak için çoğaltan çekirdek Hilbert uzayına haritalayan bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Olasılık dağılımlarını, vektör işlemleri aracılığıyla karşılaştırma ve
+  manipülasyonu mümkün kılmak için çoğaltan çekirdek Hilbert uzayına haritalayan bir
+  teknik.
 ---
-
 ## Definition
 
 Dağılımların Çekirdek Gömülmesi, olasılıksal nesnelerin, çoğaltan Çekirdek Hilbert Uzayı (RKHS) adı verilen yüksek boyutlu bir özellik uzayındaki noktalar olarak ele alınmasını sağlar. Dağılımlar bu uzaya haritalanarak, istatistiksel karşılaştırmalar ve işlemler vektörel cebir kullanılarak gerçekleştirilebilir.

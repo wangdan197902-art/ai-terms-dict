@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /de/terms/random/
 date: "2026-07-18T10:52:57.913713Z"
 lastmod: "2026-07-18T11:44:44.881394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Eigenschaft, kein vorhersagbares Muster aufzuweisen, was in der KI oft durch Algorithmen zur Erzeugung pseudo-zufälliger Zahlen simuliert wird."
 ---
-
 ## Definition
 
 Zufälligkeit ist in der KI grundlegend für die Initialisierung von Modellgewichten, das Mischen von Datensätzen und das Einführen von Stochastizität während des Trainings, um Overfitting zu verhindern. Da Computer deterministisch sind, verwenden KI-Systeme pseudo-zufällige Generatoren.

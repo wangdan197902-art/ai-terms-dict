@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /pl/terms/structural/
 date: "2026-07-18T15:29:55.028160Z"
 lastmod: "2026-07-18T17:15:08.821789Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dotyczący podstawowej organizacji, architektury lub układu komponentów wewnątrz systemu."
 ---
-
 ## Definition
 
 Aspekty strukturalne definiują sposób organizacji danych lub warstw sieci neuronowej. W grafowych sieciach neuronowych struktura odnosi się do połączeń między węzłami; w głębokim uczeniu dotyczy topologii warstw. Zrozumienie...

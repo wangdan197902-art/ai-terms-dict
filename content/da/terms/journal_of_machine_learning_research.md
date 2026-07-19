@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /da/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:02:32.900085Z"
 lastmod: "2026-07-18T17:15:09.301330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et førende, fagfællebedømt videnskabeligt tidsskrift dedikeret til at publicere forskning af høj kvalitet inden for alle aspekter af maskinlæring."
 ---
-
 ## Definition
 
 Journal of Machine Learning Research (JMLR) er et fremtrædende open access-tidsskrift, der fungerer som en primær platform for spredning af streng videnskabelig forskning inden for maskinlæring. Det dækker teoretiske og praktiske aspekter af feltet.

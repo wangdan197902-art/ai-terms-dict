@@ -7,8 +7,6 @@ tags: ["ethics", "history", "healthcare"]
 difficulty: 2
 weight: 1
 slug: "medisafe_controversy"
-aliases:
-  - /hu/terms/medisafe_controversy/
 date: "2026-07-18T16:12:38.059370Z"
 lastmod: "2026-07-18T17:15:09.811762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy történelmi etikai vita az állatkísérletek MediSafe egészségügyi monitorozó platform fejlesztésében történő felhasználásáról."
 ---
-
 ## Definition
 
 A MediSafe vita a digitális egészségügyi technológia korai szakaszában felmerült jelentős etikai vitára utal, amely a MediSafe alkalmazás validálási módszereire vonatkozott. A kritikusok aggályokat fogalmaztak meg...

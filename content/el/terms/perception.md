@@ -1,23 +1,24 @@
 ---
-title: "Αντίληψη"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Αντίληψη
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /el/terms/perception/
-date: "2026-07-18T15:30:17.301041Z"
-lastmod: "2026-07-18T17:15:09.851154Z"
+slug: perception
+date: '2026-07-18T15:30:17.301041Z'
+lastmod: '2026-07-18T17:15:09.851154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η αντίληψη είναι η διαδικασία μέσω της οποίας τα συστήματα ΤΕ ερμηνεύουν δεδομένα αισθητήριας εισόδου, όπως εικόνες ή ήχοι, για να κατανοήσουν το περιβάλλον τους."
+source: agnes_llm
+status: published
+language: el
+description: Η αντίληψη είναι η διαδικασία μέσω της οποίας τα συστήματα ΤΕ ερμηνεύουν
+  δεδομένα αισθητήριας εισόδου, όπως εικόνες ή ήχοι, για να κατανοήσουν το περιβάλλον
+  τους.
 ---
-
 ## Definition
 
 Η αντίληψη στην ΤΕ περιλαμβάνει τη μετατροπή των ωμών δεδομένων αισθητήρων σε σημαντικές πληροφορίες που μπορούν να επεξεργαστούν οι μονάδες ανώτερης λογικής. Αυτό περιλαμβάνει την οπτική μηχανής για την ερμηνεία οπτικών σκηνών, την επεξεργασία...

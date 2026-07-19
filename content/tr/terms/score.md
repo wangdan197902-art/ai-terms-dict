@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /tr/terms/score/
 date: "2026-07-18T15:29:05.597229Z"
 lastmod: "2026-07-18T16:38:07.243374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Puan, bir modelin tahmininin veya çözümünün kalitesini, güven düzeyini veya uygunluğunu temsil eden sayısal bir değerdir."
 ---
-
 ## Definition
 
 Puanlar, makine öğrenimi modellerinin doğruluk, hassasiyet veya ödül gibi belirli metriklere göre ne kadar iyi performans gösterdiğini nicelendirir. Pekiştirmeli öğrenmede puanlar kümülatif ödülleri gösterirken, sınıflandırmada güven seviyelerini yansıtır.

@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /vi/terms/superintelligence_ban/
 date: "2026-07-18T16:13:26.365887Z"
 lastmod: "2026-07-18T16:38:07.808780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một biện pháp quản lý hoặc lập trường đạo đức được đề xuất nhằm cấm phát triển trí tuệ nhân tạo tổng quát (AGI) vượt qua khả năng nhận thức của con người."
 ---
-
 ## Definition
 
 Khái niệm này đề cập đến cuộc tranh luận và chính sách tiềm năng về việc hạn chế hoặc dừng hoàn toàn nghiên cứu Trí tuệ Siêu việt Nhân tạo (ASI). Những người ủng hộ lập luận rằng ASI gây ra các rủi ro hiện sinh.

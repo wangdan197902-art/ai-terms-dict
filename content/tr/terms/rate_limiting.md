@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /tr/terms/rate_limiting/
 date: "2026-07-18T16:11:38.785565Z"
 lastmod: "2026-07-18T16:38:07.358657Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir istemcinin belirli bir zaman penceresi içinde bir servise yapabileceği istek sayısını kısıtlayan mühendislik tabanlı bir kontrol mekanizması."
 ---
-
 ## Definition
 
 Hız sınırlama, AI servislerini ve API'leri kötüye kullanımdan, aşırı yüklenmeden ve aşırı kaynak tüketiminden korur. Geçiş kapasitesini (throughput) sınırlandırarak sistem kararlılığını sağlar ve kullanıcılar arasında adil kullanımın garantisini verir. Yaygın stratejiler arasında sabit pencere, çakışan pencere ve jetonlu kuyu algoritmaları yer alır.

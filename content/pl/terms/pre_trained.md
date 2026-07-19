@@ -1,23 +1,25 @@
 ---
-title: "wcześniej wytrenowany"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: wcześniej wytrenowany
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /pl/terms/pre_trained/
-date: "2026-07-18T15:33:00.964468Z"
-lastmod: "2026-07-18T17:15:08.828155Z"
+slug: pre_trained
+date: '2026-07-18T15:33:00.964468Z'
+lastmod: '2026-07-18T17:15:08.828155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Modele wcześniej wytrenowane to sieci neuronowe, które zostały wytrenowane na dużych zbiorach danych w celu nauczenia się ogólnych cech przed ich dostosowaniem do konkretnych zadań."
+source: agnes_llm
+status: published
+language: pl
+description: Modele wcześniej wytrenowane to sieci neuronowe, które zostały wytrenowane
+  na dużych zbiorach danych w celu nauczenia się ogólnych cech przed ich dostosowaniem
+  do konkretnych zadań.
 ---
-
 ## Definition
 
 Model wcześniej wytrenowany to podstawowy model sztucznej inteligencji, który przeszedł obszerny trening na ogromnych, zróżnicowanych zbiorach danych, takich jak Wikipedia czy ImageNet. Ten wstępny trening umożliwia modelowi nauczenie się szerokich reprezentacji danych, takich jak struktura języka czy cechy wizualne obiektów, co stanowi solidną bazę dla dalszego, bardziej specyficznego uczenia się.

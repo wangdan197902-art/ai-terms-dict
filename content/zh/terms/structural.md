@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /zh/terms/structural/
 date: "2026-07-18T10:55:02.592482Z"
 lastmod: "2026-07-18T11:44:45.385589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "涉及系统内组件的基础组织、架构或排列方式。"
 ---
-
 ## Definition
 
 结构性方面定义了数据或神经网络层的组织方式。在图神经网络中，结构指节点连接；在深度学习中，它指层拓扑。理解...

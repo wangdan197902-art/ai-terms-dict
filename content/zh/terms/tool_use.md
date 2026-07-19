@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /zh/terms/tool_use/
 date: "2026-07-18T11:02:15.411426Z"
 lastmod: "2026-07-18T11:44:45.406864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种范式，AI代理通过选择和执行外部函数或API来执行超出其原生能力的特定任务。"
 ---
-
 ## Definition
 
 工具使用使语言模型能够通过调用预定义函数（如计算器、搜索引擎或数据库查询）与外部软件环境交互。这种方法扩展了模

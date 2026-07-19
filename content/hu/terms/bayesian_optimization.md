@@ -1,23 +1,24 @@
 ---
-title: "Bayesi optimalizálás"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesi optimalizálás
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /hu/terms/bayesian_optimization/
-date: "2026-07-18T15:47:14.891129Z"
-lastmod: "2026-07-18T17:15:09.759147Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:47:14.891129Z'
+lastmod: '2026-07-18T17:15:09.759147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy szekvenciális tervezési stratégia fekete dobozú függvények globális optimalizálására, amelyek kiértékelése költséges."
+source: agnes_llm
+status: published
+language: hu
+description: Egy szekvenciális tervezési stratégia fekete dobozú függvények globális
+  optimalizálására, amelyek kiértékelése költséges.
 ---
-
 ## Definition
 
 A bayesi optimalizálás valószínűségi helyettesítő modellt (általában Gauss-folyamatot) használ az objektív függvény modellezésére. Felfedezési és kihasználási funkciók alkalmazásával egyensúlyt teremt a felfedezés és a kihasználás között, így

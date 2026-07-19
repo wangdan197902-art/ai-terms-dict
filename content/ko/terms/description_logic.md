@@ -1,23 +1,22 @@
 ---
-title: "기술 논리"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: 기술 논리
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /ko/terms/description_logic/
-date: "2026-07-18T15:51:59.144299Z"
-lastmod: "2026-07-18T16:38:06.831378Z"
+slug: description_logic
+date: '2026-07-18T15:51:59.144299Z'
+lastmod: '2026-07-18T16:38:06.831378Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "도메인의 개념적 구조를 표현하고 추론하기 위해 사용되는 형식적 지식 표현 언어의 한 계열입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 도메인의 개념적 구조를 표현하고 추론하기 위해 사용되는 형식적 지식 표현 언어의 한 계열입니다.
 ---
-
 ## Definition
 
 기술 논리(Description Logics, DL)는 일차 논리의 결정 가능한 부분 집합으로, 특히 웹 온톨로지 언어(OWL)를 비롯한 온톨로지의 이론적 기반을 형성합니다. 이를 통해 도메인의 개념적 구조를 정밀하게 정의할 수 있습니다.

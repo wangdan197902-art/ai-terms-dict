@@ -1,23 +1,23 @@
 ---
-title: "바이오세레니티"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: 바이오세레니티
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /ko/terms/bioserenity/
-date: "2026-07-18T15:44:10.854114Z"
-lastmod: "2026-07-18T16:38:06.814704Z"
+slug: bioserenity
+date: '2026-07-18T15:44:10.854114Z'
+lastmod: '2026-07-18T16:38:06.814704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "생물학적 생명체와 인공지능 시스템 간의 조화로운 공존 상태를 의미하는 이론적 개념입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 생물학적 생명체와 인공지능 시스템 간의 조화로운 공존 상태를 의미하는 이론적 개념입니다.
 ---
-
 ## Definition
 
 바이오세레니티는 인간의 생물학과 인공지능이 갈등 없이 원활하게 조화를 이루는 이상적인 상태를 지칭합니다. 이는 윤리적 통합을 강조하며, AI 증강이 인간의 정신적 평온과 조화를 이루도록 보장하는 데 초점을 맞춥니다.

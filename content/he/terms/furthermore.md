@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /he/terms/furthermore/
 date: "2026-07-18T15:25:45.324870Z"
 lastmod: "2026-07-18T17:15:09.478065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מילת חיבור המשמשת להכנסת מידע נוסף או חיזוק טיעון קודם בכתיבה טכנית."
 ---
-
 ## Definition
 
 למרות שאינו אלגוריתם טכני, 'יתרה מכך' הוא כלי לשוני קריטי במסמכי בינה מלאכותית וניירות מחקר. הוא משמש לחיבור רעיונות, ומציין שההצהרה הבאה מוסיפה משקל או

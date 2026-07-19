@@ -1,23 +1,23 @@
 ---
-title: "Óptimo"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Óptimo
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /es/terms/optimal/
-date: "2026-07-18T10:25:16.910244Z"
-lastmod: "2026-07-18T11:44:44.747218Z"
+slug: optimal
+date: '2026-07-18T10:25:16.910244Z'
+lastmod: '2026-07-18T11:44:44.747218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Óptimo se refiere a la mejor solución o acción posible dentro de un conjunto dado de restricciones, maximizando recompensas o minimizando costos."
+source: agnes_llm
+status: published
+language: es
+description: Óptimo se refiere a la mejor solución o acción posible dentro de un conjunto
+  dado de restricciones, maximizando recompensas o minimizando costos.
 ---
-
 ## Definition
 
 En IA y teoría de optimización, una solución óptima es aquella que logra la métrica de rendimiento más alta posible, como la recompensa máxima en el aprendizaje por refuerzo o el error mínimo en la regresión. Encontrar...

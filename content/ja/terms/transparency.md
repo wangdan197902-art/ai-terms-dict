@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /ja/terms/transparency/
 date: "2026-07-18T11:01:28.546049Z"
 lastmod: "2026-07-18T11:44:45.058938Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムの意思決定プロセス、データソース、および制限がユーザーに対して開かれており理解可能である度合い。"
 ---
-
 ## Definition
 
 透明性は、ステークホルダーがAIモデルがどのように出力に至るかを理解できるようにし、信頼性と説明責任を促進します。これには、トレーニングデータの起源、モデルアーキテクチャ、および制限の開示が含まれます。

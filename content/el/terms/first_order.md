@@ -1,23 +1,24 @@
 ---
-title: "πρώτης τάξης"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: πρώτης τάξης
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /el/terms/first_order/
-date: "2026-07-18T15:36:10.595044Z"
-lastmod: "2026-07-18T17:15:09.859570Z"
+slug: first_order
+date: '2026-07-18T15:36:10.595044Z'
+lastmod: '2026-07-18T17:15:09.859570Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Αναφέρεται σε έννοιες που περιλαμβάνουν άμεσες σχέσεις ή γραμμικές προσεγγίσεις, όπως η λογική πρώτης τάξης ή οι παράγωγοι πρώτης τάξης."
+source: agnes_llm
+status: published
+language: el
+description: Αναφέρεται σε έννοιες που περιλαμβάνουν άμεσες σχέσεις ή γραμμικές προσεγγίσεις,
+  όπως η λογική πρώτης τάξης ή οι παράγωγοι πρώτης τάξης.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη και τα μαθηματικά, ο όρος «πρώτης τάξης» περιγράφει συνήθως συστήματα ή λειτουργίες που εμπλέκουν άμεσες, γραμμικές σχέσεις χωρίς αλληλεπιδράσεις υψηλότερης τάξης. Στην βελτιστοποίηση, αναφέρεται σε μεθόδους που χρησιμοποιούν μόνο τις παραγώγους πρώτης τάξης (κλίση) για την ενημέρωση των παραμέτρων, αντί για δεύτερες παραγώγους (Hessian).

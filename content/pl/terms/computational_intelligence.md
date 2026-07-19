@@ -1,23 +1,24 @@
 ---
-title: "Inteligencja obliczeniowa"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Inteligencja obliczeniowa
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /pl/terms/computational_intelligence/
-date: "2026-07-18T15:46:26.117255Z"
-lastmod: "2026-07-18T17:15:08.856075Z"
+slug: computational_intelligence
+date: '2026-07-18T15:46:26.117255Z'
+lastmod: '2026-07-18T17:15:08.856075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Gałąź AI zajmująca się systemami adaptacyjnymi naśladującymi procesy biologiczne w celu rozwiązywania złożonych problemów."
+source: agnes_llm
+status: published
+language: pl
+description: Gałąź AI zajmująca się systemami adaptacyjnymi naśladującymi procesy
+  biologiczne w celu rozwiązywania złożonych problemów.
 ---
-
 ## Definition
 
 Inteligencja obliczeniowa (CI) obejmuje zestaw inspirowanych naturą paradygmatów obliczeniowych, w tym sieci neuronowe, logikę rozmytą i obliczenia ewolucyjne. Systemy te są zaprojektowane do radzenia sobie z

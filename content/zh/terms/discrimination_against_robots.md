@@ -1,23 +1,24 @@
 ---
-title: "Discrimination against robots"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Discrimination against robots
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /zh/terms/discrimination_against_robots/
-date: "2026-07-18T11:15:21.633199Z"
-lastmod: "2026-07-18T11:44:45.490966Z"
+slug: discrimination_against_robots
+date: '2026-07-18T11:15:21.633199Z'
+lastmod: '2026-07-18T11:44:45.490966Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个伦理和法律概念，指针对人工智能代理或自主系统的偏见待遇或歧视，通常源于拟人化投射或功能性不信任。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个伦理和法律概念，指针对人工智能代理或自主系统的偏见待遇或歧视，通常源于拟人化投射或功能性不信任。
 ---
-
 ## Definition
 
 机器人歧视是一个新兴的伦理和社会学概念，研究人类如何可能基于其非人类本质而不公平地对待、不信任或给人工智能代理分配负面属性。这种现象探讨了当机器表现出类人行为时，人类反应中的偏见和心理机制。

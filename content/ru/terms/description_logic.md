@@ -1,23 +1,23 @@
 ---
-title: "Логика описаний"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Логика описаний
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /ru/terms/description_logic/
-date: "2026-07-18T15:49:49.004949Z"
-lastmod: "2026-07-18T16:38:07.148602Z"
+slug: description_logic
+date: '2026-07-18T15:49:49.004949Z'
+lastmod: '2026-07-18T16:38:07.148602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Семейство формальных языков представления знаний, используемых для представления и логического вывода о концептуальной структуре предметных областей."
+source: agnes_llm
+status: published
+language: ru
+description: Семейство формальных языков представления знаний, используемых для представления
+  и логического вывода о концептуальной структуре предметных областей.
 ---
-
 ## Definition
 
 Логика описаний (DL) — это разрешимые фрагменты логики первого порядка, которые составляют теоретическую основу для онтологий, особенно языка онтологий веб-семантики (OWL). Они позволяют точно определять концепции и отношения между ними.

@@ -1,23 +1,23 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /zh/terms/ltx_video/
-date: "2026-07-18T11:24:46.268060Z"
-lastmod: "2026-07-18T11:44:45.527328Z"
+slug: ltx_video
+date: '2026-07-18T11:24:46.268060Z'
+lastmod: '2026-07-18T11:44:45.527328Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种专门优化的潜在扩散模型，用于从文本或图像提示生成高保真、时间一致的视频内容。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种专门优化的潜在扩散模型，用于从文本或图像提示生成高保真、时间一致的视频内容。
 ---
-
 ## Definition
 
 Ltx Video 代表了视频生成式 AI 的进步，利用潜在空间扩散过程创建连贯的运动和视觉细节。它解决了视频生成中常见的闪烁和不一致问题，确保生成的视频在时间维度上保持平滑和逻辑连贯。

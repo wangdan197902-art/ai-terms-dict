@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /id/terms/multilingual/
 date: "2026-07-18T16:01:21.584719Z"
 lastmod: "2026-07-18T16:38:07.485750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Multilingual dalam AI mengacu pada model yang mampu memproses, memahami, atau menghasilkan konten dalam berbagai bahasa alami."
 ---
-
 ## Definition
 
 Model multilingual dirancang untuk menangani input linguistik yang beragam tanpa memerlukan model terpisah untuk setiap bahasa. Sistem ini biasanya memanfaatkan embedding bersama atau penyelarasan lintas-bahasa untuk

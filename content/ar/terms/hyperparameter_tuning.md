@@ -1,23 +1,23 @@
 ---
-title: "ضبط المعلمات الفائقة"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: ضبط المعلمات الفائقة
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /ar/terms/hyperparameter_tuning/
-date: "2026-07-18T16:01:33.859518Z"
-lastmod: "2026-07-18T17:15:08.513647Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T16:01:33.859518Z'
+lastmod: '2026-07-18T17:15:08.513647Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية البحث المنهجي عن أفضل مجموعة من المعلمات الفائقة لتحسين أداء النموذج."
+source: agnes_llm
+status: published
+language: ar
+description: عملية البحث المنهجي عن أفضل مجموعة من المعلمات الفائقة لتحسين أداء النموذج.
 ---
-
 ## Definition
 
 يتضمن ضبط المعلمات الفائقة تقييم مجموعات مختلفة منها للعثور على التكوين الذي يحقق أعلى دقة للنموذج أو أقل معدل خطأ. تشمل الاستراتيجيات الشائعة البحث الشبكي، و

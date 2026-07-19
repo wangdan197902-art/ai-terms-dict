@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /id/terms/personaplex/
 date: "2026-07-18T16:03:53.528445Z"
 lastmod: "2026-07-18T16:38:07.493648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja atau platform konseptual yang dirancang untuk mengelola jaringan kompleks dari persona digital dan interaksinya dalam lingkungan berbasis AI."
 ---
-
 ## Definition
 
 Personapleks merujuk pada ekosistem atau infrastruktur yang mendukung pembuatan, pengelolaan, dan interaksi berbagai persona digital. Hal ini mencakup pertimbangan teknis dan etis terkait manajemen identitas digital dalam skala besar.

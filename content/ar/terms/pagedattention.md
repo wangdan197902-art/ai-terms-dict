@@ -1,23 +1,25 @@
 ---
-title: "الانتباه المجزأ (PagedAttention)"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: الانتباه المجزأ (PagedAttention)
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /ar/terms/pagedattention/
-date: "2026-07-18T16:15:35.971858Z"
-lastmod: "2026-07-18T17:15:08.535312Z"
+slug: pagedattention
+date: '2026-07-18T16:15:35.971858Z'
+lastmod: '2026-07-18T17:15:08.535312Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الانتباه المجزأ هو خوارزمية لإدارة الذاكرة تتبنى مفاهيم التجزئة في الذاكرة الافتراضية لتحسين تخزين والوصول إلى ذاكرة التخزين المؤقت للمفتاح والقيمة (KV) في نماذج المحولات."
+source: agnes_llm
+status: published
+language: ar
+description: الانتباه المجزأ هو خوارزمية لإدارة الذاكرة تتبنى مفاهيم التجزئة في الذاكرة
+  الافتراضية لتحسين تخزين والوصول إلى ذاكرة التخزين المؤقت للمفتاح والقيمة (KV) في
+  نماذج المحولات.
 ---
-
 ## Definition
 
 الانتباه المجزأ هي تقنية قدمها مشروع vLLM لتحسين كفاءة استنتاج نماذج اللغات الكبيرة. تعالج هذه التقنية مشكلات تجزئة الذاكرة والنفقات العامة المرتبطة بإدارة ذاكرة التخزين المؤقت للمفتاح والقيمة (KV Cache)، مما يسمح بتخزين أكثر كفاءة واستخدام أمثل لوحدة معالجة الرسومات (GPU) أثناء تشغيل النماذج.

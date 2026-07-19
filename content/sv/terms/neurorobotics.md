@@ -1,23 +1,24 @@
 ---
-title: "Neurorobotik"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: Neurorobotik
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /sv/terms/neurorobotics/
-date: "2026-07-18T16:11:47.458428Z"
-lastmod: "2026-07-18T17:15:09.031564Z"
+slug: neurorobotics
+date: '2026-07-18T16:11:47.458428Z'
+lastmod: '2026-07-18T17:15:09.031564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Neurorobotik är studiet av hur biologiska nervsystem kan informera designen av autonoma robotar och hur robotar kan fungera som modeller för att förstå hjärnfunktion."
+source: agnes_llm
+status: published
+language: sv
+description: Neurorobotik är studiet av hur biologiska nervsystem kan informera designen
+  av autonoma robotar och hur robotar kan fungera som modeller för att förstå hjärnfunktion.
 ---
-
 ## Definition
 
 Detta fält överbryggar neurovetenskap och robotik genom att implementera neuronnätverksmodeller i robotstyrningssystem. Det gör det möjligt för forskare att testa hypoteser om motorisk kontroll, sensorisk bearbetning och kognitiva processer.

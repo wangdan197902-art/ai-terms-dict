@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /fi/terms/multi_armed_bandit/
 date: "2026-07-18T16:11:55.054742Z"
 lastmod: "2026-07-18T17:15:09.436745Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monivarren bandiitti on klassinen todennäköisyyslaskennan ja vahvistusoppimisen ongelma, joka mallintaa tutkimisen ja hyödyntämisen välisen kompromissin."
 ---
-
 ## Definition
 
 Monivarren bandiitti -ongelma havainnollistaa agentin kohtaamaa dilemma valita, pysytäänkö tunnettuja palkitsevassa vaihtoehdossa (hyödyntäminen) vai kokeiltaisiinko uusia vaihtoehtoja löytääkseen potentiaalisesti parempia palkintoja,

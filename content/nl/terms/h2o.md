@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /nl/terms/h2o/
-date: "2026-07-18T15:58:20.272604Z"
-lastmod: "2026-07-18T17:15:08.750953Z"
+slug: h2o
+date: '2026-07-18T15:58:20.272604Z'
+lastmod: '2026-07-18T17:15:08.750953Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een open-source, gedistribueerd machine learning-platform dat verschillende algoritmen ondersteunt voor voorspellende analyse en deep learning."
+source: agnes_llm
+status: published
+language: nl
+description: Een open-source, gedistribueerd machine learning-platform dat verschillende
+  algoritmen ondersteunt voor voorspellende analyse en deep learning.
 ---
-
 ## Definition
 
 H2O is een veelgebruikt open-source in-memory platform voor gedistribueerde, schaalbare machine learning en voorspellende analyse. Oorspronkelijk ontwikkeld door twee promovendi van Harvard, biedt het een unified framework voor data scientists om modellen te bouwen, te trainen en te implementeren zonder diepgaande programmeerkennis van de onderliggende infrastructuur.

@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /he/terms/haw/
-date: "2026-07-18T16:03:56.591308Z"
-lastmod: "2026-07-18T17:15:09.546800Z"
+slug: haw
+date: '2026-07-18T16:03:56.591308Z'
+lastmod: '2026-07-18T17:15:09.546800Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ביטוי דובר בפיזור, המשמש לעיתים קרובות בתקשורת דיגיטלית לא פורמלית, ללא משמעות טכנית ספציפית בהקשרי AI."
+source: agnes_llm
+status: published
+language: he
+description: ביטוי דובר בפיזור, המשמש לעיתים קרובות בתקשורת דיגיטלית לא פורמלית, ללא
+  משמעות טכנית ספציפית בהקשרי AI.
 ---
-
 ## Definition
 
 בהקשר של עיבוד שפה כללי, 'haw' הוא קריאה לא פורמלית או צליל של היסוס. בעוד שהוא אינו מייצג מושג אלגוריתמי ליבה בבינה מלאכותית, מודלי NLP חייבים

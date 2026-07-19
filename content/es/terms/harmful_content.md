@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /es/terms/harmful_content/
 date: "2026-07-18T10:53:08.479712Z"
 lastmod: "2026-07-18T11:44:44.814451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Información que representa riesgos para individuos o la sociedad, incluyendo discurso de odio, violencia y actos ilegales."
 ---
-
 ## Definition
 
 El contenido dañino se refiere a medios digitales o textos que pueden causar daños físicos, psicológicos o sociales. En la seguridad de la IA, detectar y filtrar este tipo de contenido es fundamental para evitar que los modelos generen material perjudicial.

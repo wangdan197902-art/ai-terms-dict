@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /he/terms/self_attention/
 date: "2026-07-18T15:30:34.569324Z"
 lastmod: "2026-07-18T17:15:09.487589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מנגנון המאפשר לרשת נוירונים לשקול את חשיבותם של חלקים שונים ברצף הקלט ביחס זה לזה."
 ---
-
 ## Definition
 
 תשומת לב עצמית מאפשרת למודלים לתפוס תלות בין כל המיקומים ברצף בו זמנית, ללא קשר למרחק. על ידי חישוב ציוני תשומת לב בין כל זוג טוקנים, היא מאפשרת הבחנה בהקשר.

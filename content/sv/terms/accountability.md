@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /sv/terms/accountability/
 date: "2026-07-18T15:44:03.557728Z"
 lastmod: "2026-07-18T17:15:08.972358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Principen att utvecklare och operatörer av AI-system måste vara ansvariga för systemens utfall och effekter."
 ---
-
 ## Definition
 
 Ansvarsskyldighet inom artificiell intelligens avser skyldigheten för individer, organisationer och utvecklare att ta ansvar för utformningen, driftsättningen och konsekvenserna av AI-teknik.

@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /fi/terms/action/
 date: "2026-07-18T15:23:06.416839Z"
 lastmod: "2026-07-18T17:15:09.345432Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Agentin suorittama operaatio, jolla se pyrkii vaikuttamaan ympäristöönsä."
 ---
-
 ## Definition
 
 Tekoälyssä ja robotiikassa toiminnolla tarkoitetaan tiettyä askelta tai päätöstä, jonka älykäs agentti tekee vuorovaikutuksessa ympäristönsä kanssa. Toiminnot valitaan nykyisen tilan perusteella.

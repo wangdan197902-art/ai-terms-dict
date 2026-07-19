@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /ko/terms/ai_agent/
 date: "2026-07-18T15:37:07.476453Z"
 lastmod: "2026-07-18T16:38:06.803058Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "환경을 지각하고 특정 목표를 달성하기 위해 행동을 취하도록 설계된 자율 시스템입니다."
 ---
-
 ## Definition
 
 AI 에이전트는 정의된 환경 내에서 사전 설정된 목표를 달성하기 위해 자율적으로 작동하는 소프트웨어 엔티티입니다. 지각 메커니즘을 통해 데이터를 수집하고, 이 정보를 처리한 후 환경에 작용(action)하여 목표를 향해 나아가는 '지각-작용 루프(perception-action loop)'를 기반으로 동작합니다.

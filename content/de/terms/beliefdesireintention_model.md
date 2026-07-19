@@ -1,23 +1,24 @@
 ---
-title: "Glauben-Wunsch-Absicht-Modell"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Glauben-Wunsch-Absicht-Modell
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /de/terms/beliefdesireintention_model/
-date: "2026-07-18T11:04:59.602492Z"
-lastmod: "2026-07-18T11:44:44.914864Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T11:04:59.602492Z'
+lastmod: '2026-07-18T11:44:44.914864Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein philosophischer Rahmen in der KI, der rationale Agenten basierend auf ihren Überzeugungen, Wünschen und Absichten modelliert."
+source: agnes_llm
+status: published
+language: de
+description: Ein philosophischer Rahmen in der KI, der rationale Agenten basierend
+  auf ihren Überzeugungen, Wünschen und Absichten modelliert.
 ---
-
 ## Definition
 
 Das Glauben-Wunsch-Absicht-Modell (BDI) ist eine kognitive Architektur zur Entwicklung autonomer Agenten, die rationale Entscheidungen treffen. Überzeugungen repräsentieren das Wissen des Agenten über die Welt, Wünsche sind seine Ziele und Absichten...

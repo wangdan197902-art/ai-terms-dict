@@ -1,23 +1,23 @@
 ---
-title: "tek adımlı"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: tek adımlı
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /tr/terms/one_step/
-date: "2026-07-18T15:32:17.749106Z"
-lastmod: "2026-07-18T16:38:07.251590Z"
+slug: one_step
+date: '2026-07-18T15:32:17.749106Z'
+lastmod: '2026-07-18T16:38:07.251590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yinelemeli iyileştirme olmadan, tek bir yinelemede görevi veya karar verme döngüsünü tamamlayan algoritmalar veya süreçler."
+source: agnes_llm
+status: published
+language: tr
+description: Yinelemeli iyileştirme olmadan, tek bir yinelemede görevi veya karar
+  verme döngüsünü tamamlayan algoritmalar veya süreçler.
 ---
-
 ## Definition
 
 Makine öğrenmesi ve optimizasyonda, tek adımlı yöntemler yakınsamak için birden fazla yineleme veya güncelleme gerektirmeden sorunları doğrudan çözer. Birçok adımı gerektiren gradyan inişinden farklı olarak,

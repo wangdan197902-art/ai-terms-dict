@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /fr/terms/csm/
 date: "2026-07-18T11:10:53.907336Z"
 lastmod: "2026-07-18T11:44:45.212702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un acronyme ambigu qui fait généralement référence aux Modèles de Parole Contextuels ou à la Gestion de la Sécurité Cloud dans des domaines techniques spécifiques, sans définition universelle standard"
 ---
-
 ## Definition
 
 Dans le contexte de l'IA et de la technologie, 'CSM' n'est pas un terme universellement standardisé comme 'CNN' ou 'RNN'. Il désigne le plus souvent les Modèles de Parole Contextuels dans la recherche sur le traitement de la parole, faisant référence à...

@@ -1,23 +1,23 @@
 ---
-title: "מאומן מראש"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: מאומן מראש
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /he/terms/pretrained/
-date: "2026-07-18T16:18:27.730795Z"
-lastmod: "2026-07-18T17:15:09.574873Z"
+slug: pretrained
+date: '2026-07-18T16:18:27.730795Z'
+lastmod: '2026-07-18T17:15:09.574873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתייחס למודל שכבר אומן על מערך נתונים גדול לפני הסתגלותו למשימה ספציפית."
+source: agnes_llm
+status: published
+language: he
+description: מתייחס למודל שכבר אומן על מערך נתונים גדול לפני הסתגלותו למשימה ספציפית.
 ---
-
 ## Definition
 
 המונח 'מאומן מראש' מתאר מודל רשת נוירונים שעבר אימון ראשוני על מערך נתונים עצום, לרוב כללי, כמו ImageNet או ויקיפדיה. תהליך זה מאפשר למודל ללמוד תכונות בסיסיות ומשמעותיות, אשר ניתן לאחר מכן לנצל ולהתאים (לכוונן) למשימות ספציפיות יותר בצורה יעילה יותר.

@@ -1,23 +1,23 @@
 ---
-title: "量子化された"
-term_id: "quantized"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "model_deployment", "efficiency"]
+title: 量子化された
+term_id: quantized
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Model Deployment
+- efficiency
 difficulty: 4
 weight: 1
-slug: "quantized"
-aliases:
-  - /ja/terms/quantized/
-date: "2026-07-18T11:29:25.772164Z"
-lastmod: "2026-07-18T11:44:45.135890Z"
+slug: quantized
+date: '2026-07-18T11:29:25.772164Z'
+lastmod: '2026-07-18T11:44:45.135890Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "量子化されたとは、サイズとレイテンシーを削減するために、重みや活性化値を低精度の数値で表すニューラルネットワークモデルを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: 量子化されたとは、サイズとレイテンシーを削減するために、重みや活性化値を低精度の数値で表すニューラルネットワークモデルを指します。
 ---
-
 ## Definition
 
 量子化は、機械学習モデルのパラメータの数値精度を下げ、通常は32ビット浮動小数点数を8ビット整数に変換することでモデルを最適化する技術です。これにより、...

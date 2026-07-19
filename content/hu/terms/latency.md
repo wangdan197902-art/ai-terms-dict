@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /hu/terms/latency/
 date: "2026-07-18T15:38:24.763298Z"
 lastmod: "2026-07-18T17:15:09.741816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az időeltolódás egy kérés indítása és az AI rendszerben a válasz megkezdése között."
 ---
-
 ## Definition
 
 A késleltetés méri egy AI szolgáltatás reakcióidejét, amelyet általában milliszekundumban fejeznek ki. Magában foglalja az inferencia (következtetési) időt, a hálózati továbbítási késéseket és a feldolgozási terhet. Az alacsony késleltetés kritikus fontosságú a valós idejű alkalmazásokban, mivel közvetlenül befolyásolja a felhasználói élményt és a rendszer hatékonyságát.

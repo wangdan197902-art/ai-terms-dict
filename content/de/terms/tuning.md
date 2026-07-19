@@ -1,23 +1,24 @@
 ---
-title: "Tuning"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Tuning
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /de/terms/tuning/
-date: "2026-07-18T10:54:44.482503Z"
-lastmod: "2026-07-18T11:44:44.886304Z"
+slug: tuning
+date: '2026-07-18T10:54:44.482503Z'
+lastmod: '2026-07-18T11:44:44.886304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess der Anpassung von Hyperparametern oder Modellgewichten, um die Leistung auf einem bestimmten Datensatz oder einer bestimmten Aufgabe zu optimieren."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess der Anpassung von Hyperparametern oder Modellgewichten, um
+  die Leistung auf einem bestimmten Datensatz oder einer bestimmten Aufgabe zu optimieren.
 ---
-
 ## Definition
 
 Tuning beinhaltet die Verfeinerung eines maschinellen Lernmodells, um eine bessere Genauigkeit oder Effizienz zu erzielen. Es kann sich auf das Hyperparameter-Tuning beziehen, bei dem Einstellungen wie die Lernrate oder die Batch-Größe optimiert werden, oder auf...

@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /vi/terms/robotic_process_automation/
 date: "2026-07-18T16:10:43.773904Z"
 lastmod: "2026-07-18T16:38:07.801823Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng các bot phần mềm để tự động hóa các tác vụ số lượng lớn, lặp đi lặp lại thường do con người thực hiện trong các quy trình kinh doanh."
 ---
-
 ## Definition
 
 Tự động hóa quy trình bằng robot (RPA) sử dụng các bot phần mềm, thường được tăng cường bởi AI, để mô phỏng các tương tác của con người với hệ thống số. Nó được sử dụng để tối ưu hóa các quy trình làm việc như nhập liệu, xử lý hóa đơn

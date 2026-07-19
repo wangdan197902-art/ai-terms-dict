@@ -1,23 +1,25 @@
 ---
-title: "Falcon"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: Falcon
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /tr/terms/falcon/
-date: "2026-07-18T15:53:15.971782Z"
-lastmod: "2026-07-18T16:38:07.308125Z"
+slug: falcon
+date: '2026-07-18T15:53:15.971782Z'
+lastmod: '2026-07-18T16:38:07.308125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Teknoloji Araştırma Enstitüsü (TII) tarafından geliştirilen, diğer açık kaynaklı büyük dil modellerine (LLM) kıyasla yüksek performans ve verimliliğiyle bilinen bir büyük dil modeli ailesi."
+source: agnes_llm
+status: published
+language: tr
+description: Teknoloji Araştırma Enstitüsü (TII) tarafından geliştirilen, diğer açık
+  kaynaklı büyük dil modellerine (LLM) kıyasla yüksek performans ve verimliliğiyle
+  bilinen bir büyük dil modeli ailesi.
 ---
-
 ## Definition
 
 Falcon, Teknoloji Araştırma Enstitüsü tarafından oluşturulan güçlü bir büyük dil modeli (LLM) serisini ifade eder. Falcon-40B ve Falcon-180B gibi bu modeller, özel (proprietary) modellerle rekabet edecek şekilde tasarlanmıştır.

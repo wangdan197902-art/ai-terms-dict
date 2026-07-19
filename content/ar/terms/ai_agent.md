@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /ar/terms/ai_agent/
 date: "2026-07-18T15:40:47.886508Z"
 lastmod: "2026-07-18T17:15:08.469250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام مستقل مصمم لإدراك بيئته واتخاذ إجراءات لتحقيق أهداف محددة."
 ---
-
 ## Definition
 
 وكيل الذكاء الاصطناعي هو كيان برمجي يعمل بشكل مستقل ضمن بيئة محددة لتحقيق أهداف مسبقة التحديد. ويستخدم آليات الإدراك لجمع البيانات، ثم يعالج هذه المعلومات لاتخاذ القرارات المناسبة.

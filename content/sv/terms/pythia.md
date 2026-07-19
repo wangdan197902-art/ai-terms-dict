@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /sv/terms/pythia/
-date: "2026-07-18T16:15:01.056189Z"
-lastmod: "2026-07-18T17:15:09.040016Z"
+slug: pythia
+date: '2026-07-18T16:15:01.056189Z'
+lastmod: '2026-07-18T17:15:09.040016Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Pythia är en samling decoder-endast stora språkmodeller utvecklade av EleutherAI, med mellan 70 miljoner och 12 miljarder parametrar."
+source: agnes_llm
+status: published
+language: sv
+description: Pythia är en samling decoder-endast stora språkmodeller utvecklade av
+  EleutherAI, med mellan 70 miljoner och 12 miljarder parametrar.
 ---
-
 ## Definition
 
 Pythia är en serie öppna källkod-stora språkmodeller (LLM) skapade av EleutherAI, designade för att underlätta forskning om tolkbarhet och beteende hos neuronnät. Samlingen inkluderar modeller...

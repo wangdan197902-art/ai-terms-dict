@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /fi/terms/sequence_labeling/
 date: "2026-07-18T16:20:10.813708Z"
 lastmod: "2026-07-18T17:15:09.458796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Luonnollisen kielen käsittelyn tehtävä, jossa jokaiselle syötteiden jonon alkiolle annetaan luokka."
 ---
-
 ## Definition
 
 Jonojen merkitsemisessä ennustetaan kategorinen luokka jokaiselle syötejonon tokenille, kuten sanalle lauseessa tai merkkijonossa. Yleisiä sovelluksia ovat osan lauseen tunnistus ja nimien erottaminen tekstistä.

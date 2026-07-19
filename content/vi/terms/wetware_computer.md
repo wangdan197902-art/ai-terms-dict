@@ -1,23 +1,24 @@
 ---
-title: "Máy tính Wetware"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Máy tính Wetware
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /vi/terms/wetware_computer/
-date: "2026-07-18T16:17:41.977073Z"
-lastmod: "2026-07-18T16:38:07.817233Z"
+slug: wetware_computer
+date: '2026-07-18T16:17:41.977073Z'
+lastmod: '2026-07-18T16:38:07.817233Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Hệ thống máy tính sinh học sử dụng mô thần kinh sống, chẳng hạn như tế bào não, để xử lý thông tin."
+source: agnes_llm
+status: published
+language: vi
+description: Hệ thống máy tính sinh học sử dụng mô thần kinh sống, chẳng hạn như tế
+  bào não, để xử lý thông tin.
 ---
-
 ## Definition
 
 Tính toán wetware đề cập đến các hệ thống nơi các nơ-ron sinh học, thường được nuôi cấy trong ống nghiệm (in vitro), đóng vai trò là đơn vị xử lý chính thay vì phần cứng dựa trên silicon truyền thống. Các hệ thống này tận dụng khả năng thích ứng và xử lý song song của mô sống.

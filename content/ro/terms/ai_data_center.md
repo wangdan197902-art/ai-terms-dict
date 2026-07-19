@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /ro/terms/ai_data_center/
 date: "2026-07-18T15:41:38.414961Z"
 lastmod: "2026-07-18T17:15:09.622346Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O instalație specializată concepută pentru a găzdui și opera infrastructură de calcul de înaltă performanță pentru sarcini de lucru AI."
 ---
-
 ## Definition
 
 Un centru de date AI este o instalație fizică optimizată pentru rularea aplicațiilor de inteligență artificială, în special pentru antrenarea și inferența învățării profunde. Aceste centre prezintă rafturi de servere cu densitate ridicată, sisteme avansate de răcire și lățime de bandă mare.

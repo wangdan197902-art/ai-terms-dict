@@ -1,23 +1,24 @@
 ---
-title: "Stable Diffusion"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: Stable Diffusion
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /no/terms/stable_diffusion/
-date: "2026-07-18T16:17:02.020228Z"
-lastmod: "2026-07-18T16:38:07.050065Z"
+slug: stable_diffusion
+date: '2026-07-18T16:17:02.020228Z'
+lastmod: '2026-07-18T16:38:07.050065Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En latent diffusjonsmodell som kan generere bilder av høy kvalitet fra tekstbeskrivelser effektivt."
+source: agnes_llm
+status: published
+language: 'no'
+description: En latent diffusjonsmodell som kan generere bilder av høy kvalitet fra
+  tekstbeskrivelser effektivt.
 ---
-
 ## Definition
 
 Stable Diffusion er en dyp læringsmodell som genererer detaljerte bilder betinget på tekstinput ved hjelp av en latent diffusjonsprosess. I motsetning til diffusjonsmodeller som opererer i pikselrommet, fungerer den i et komprimert latent rom, noe som reduserer beregningskostnadene betydelig mens den likevel opprettholder høy bildekvalitet og fleksibilitet.

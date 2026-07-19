@@ -1,23 +1,24 @@
 ---
-title: "Kerneinnbaking av fordelinger"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Kerneinnbaking av fordelinger
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /no/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T16:01:09.287468Z"
-lastmod: "2026-07-18T16:38:07.015483Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T16:01:09.287468Z'
+lastmod: '2026-07-18T16:38:07.015483Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som avbilder sannsynlighetsfordelinger inn i et reproducerbart kjern Hilbert-rom for å muliggjøre sammenligning og manipulering via vektoroperasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som avbilder sannsynlighetsfordelinger inn i et reproducerbart
+  kjern Hilbert-rom for å muliggjøre sammenligning og manipulering via vektoroperasjoner.
 ---
-
 ## Definition
 
 Kerneinnbaking av fordelinger tillater at probabilistiske objekter behandles som punkter i et høydimensjonalt funksjonsrom kalt et reproducerbart kjern Hilbert-rom (RKHS). Ved å avbilde fordelinger til vektorer, kan man bruke lineær algebra for statistiske tester.

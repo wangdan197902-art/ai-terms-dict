@@ -1,23 +1,23 @@
 ---
-title: "Zamiast"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Zamiast
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /pl/terms/instead/
-date: "2026-07-18T15:26:34.104560Z"
-lastmod: "2026-07-18T17:15:08.813399Z"
+slug: instead
+date: '2026-07-18T15:26:34.104560Z'
+lastmod: '2026-07-18T17:15:08.813399Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "\"Zamiast\" to spójnik lub przysłówek wskazujący na substytucję, zastąpienie lub alternatywną czynność podjętą w miejsce innej."
+source: agnes_llm
+status: published
+language: pl
+description: '"Zamiast" to spójnik lub przysłówek wskazujący na substytucję, zastąpienie
+  lub alternatywną czynność podjętą w miejsce innej.'
 ---
-
 ## Definition
 
 Choć nie jest to techniczny termin algorytmiczny w AI, "zamiast" jest kluczowe w inżynierii promptów i rozumieniu języka naturalnego. Sygnalizuje relację kontrastu lub substytucji między zdaniami. W treningu LLM...

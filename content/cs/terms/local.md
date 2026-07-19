@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /cs/terms/local/
 date: "2026-07-18T15:26:39.457683Z"
 lastmod: "2026-07-18T17:15:09.072147Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na zpracování nebo ukládání dat na konkrétním zařízení místo v centralizovaném cloudovém prostředí."
 ---
-
 ## Definition
 
 V umělé inteligenci označuje „lokální“ obvykle operace prováděné přímo na hardwaru uživatele, jako je notebook nebo chytrý telefon, bez spoléhání se na vzdálené servery. Tento přístup zvyšuje ochranu dat

@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /he/terms/h2o/
-date: "2026-07-18T16:03:37.388348Z"
-lastmod: "2026-07-18T17:15:09.546325Z"
+slug: h2o
+date: '2026-07-18T16:03:37.388348Z'
+lastmod: '2026-07-18T17:15:09.546325Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פלטפורמת למידת מכונה מקור פתוח ומפוצלת התומכת במגוון אלגוריתמים לאנליטיקה חיזויית ולמידה עמוקה."
+source: agnes_llm
+status: published
+language: he
+description: פלטפורמת למידת מכונה מקור פתוח ומפוצלת התומכת במגוון אלגוריתמים לאנליטיקה
+  חיזויית ולמידה עמוקה.
 ---
-
 ## Definition
 
 H2O היא פלטפורמה נפוצה ובעלת קוד פתוח, הפועלת בזיכרון (in-memory), המיועדת למידת מכונה מפוצלת וניתנת להרחבה ואנליטיקה חיזויית. פותחה במקור על ידי שני סטודנטים לתואר שלישי מאוניברסיטת הרווארד, היא מספקת מסגרת מאוחדת לבניית מודלים, כולל יכולות AutoML (למידת מכונה אוטומטית) לתכנון ניסויים, בחירת מודלים והנדסת תכונות, תוך ניצול כוח חישובי מפוצל לטיפול בנתונים גדולים.

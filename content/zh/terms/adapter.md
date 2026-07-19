@@ -1,23 +1,24 @@
 ---
-title: "适配器"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: 适配器
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /zh/terms/adapter/
-date: "2026-07-18T10:59:15.017987Z"
-lastmod: "2026-07-18T11:44:45.396805Z"
+slug: adapter
+date: '2026-07-18T10:59:15.017987Z'
+lastmod: '2026-07-18T11:44:45.396805Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "插入预训练模型中的轻量级模块，用于针对特定下游任务进行高效微调。"
+source: agnes_llm
+status: published
+language: zh
+description: 插入预训练模型中的轻量级模块，用于针对特定下游任务进行高效微调。
 ---
-
 ## Definition
 
 适配器是一种参数高效的微调技术，主要用于大型语言模型和Transformer架构中。与计算成本高昂的更新所有模型权重不同，适配器仅训练少量新增参数，从而保留预训练知识并降低资源消耗。

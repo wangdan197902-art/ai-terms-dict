@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /it/terms/ai_browser/
 date: "2026-07-18T15:42:23.363557Z"
 lastmod: "2026-07-18T17:15:08.593228Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un browser web integrato con funzionalità IA per assistere nella ricerca, nel riassunto e nell'analisi dei contenuti."
 ---
-
 ## Definition
 
 Un browser IA è un'applicazione di navigazione web che incorpora funzionalità di intelligenza artificiale direttamente nell'interfaccia utente. Queste funzionalità includono tipicamente la ricerca in linguaggio naturale, il riassunto automatico dei...

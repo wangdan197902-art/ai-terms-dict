@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /tr/terms/energy/
 date: "2026-07-18T15:24:43.535175Z"
 lastmod: "2026-07-18T16:38:07.230919Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada enerji, genellikle model eğitimi ve çıkarımı sırasında tüketilen hesaplama gücünü veya olasılıksal modellerdeki matematiksel potansiyel fonksiyonunu ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada enerjinin iki temel anlamı vardır. Birincisi, donanımı çalıştırmak için gereken elektrik gücüdür; modeller büyüdükçe sürdürülebilirlik açısından giderek daha önemli bir endişe kaynağı haline gelmektedir. İkincisi, istatistiksel mekaniğe ilham alan olasılıksal modellerde (örneğin Enerji Tabanlı Modeller) kullanılan ve durumların olasılığını belirleyen matematiksel bir potansiyel fonksiyonudur.

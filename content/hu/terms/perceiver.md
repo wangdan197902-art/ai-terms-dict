@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /hu/terms/perceiver/
 date: "2026-07-18T16:17:36.568931Z"
 lastmod: "2026-07-18T17:15:09.821572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy rendszer vagy modul, amelynek feladata a környezeti érzékszervi bemenetek fogadása és értelmezése."
 ---
-
 ## Definition
 
 Az MI-ban és a kognitív tudományban az érzékelő az intelligens rendszer azon komponense, amely a nyers érzékszervi adatokat értelmes információvá dolgozza fel. A egyszerű szenzorokkal ellentétben, amelyek csak jeleket észlelnek, az érzékelő rendszerek kontextusba helyezik az adatokat.

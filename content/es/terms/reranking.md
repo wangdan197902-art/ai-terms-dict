@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /es/terms/reranking/
 date: "2026-07-18T11:06:39.654909Z"
 lastmod: "2026-07-18T11:44:44.850540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un proceso de recuperación en dos etapas donde un ordenamiento inicial grueso se refina mediante un modelo más costoso computacionalmente para mejorar la relevancia de los resultados."
 ---
-
 ## Definition
 
 La reclasificación es una estrategia utilizada en la recuperación de información y los sistemas de recomendación para mejorar la precisión. Primero, un modelo rápido pero menos preciso recupera un gran conjunto de candidatos. Luego, un modelo más lento y sofisticado reordena estos candidatos para seleccionar los más relevantes.

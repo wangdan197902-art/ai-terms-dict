@@ -1,23 +1,25 @@
 ---
-title: "Оуэн Эванс"
-term_id: "owain_evans"
-category: "basic_concepts"
-subcategory: ""
-tags: ["researcher", "interpretability", "ai_safety"]
+title: Оуэн Эванс
+term_id: owain_evans
+category: basic_concepts
+subcategory: ''
+tags:
+- researcher
+- interpretability
+- AI Safety
 difficulty: 2
 weight: 1
-slug: "owain_evans"
-aliases:
-  - /ru/terms/owain_evans/
-date: "2026-07-18T16:09:15.768490Z"
-lastmod: "2026-07-18T16:38:07.189115Z"
+slug: owain_evans
+date: '2026-07-18T16:09:15.768490Z'
+lastmod: '2026-07-18T16:38:07.189115Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Оуэн Эванс — известный исследователь и преподаватель, работающий в области интерпретируемости ИИ, механистической интерпретируемости и оценки способностей к рассуждению больших языковых моделей."
+source: agnes_llm
+status: published
+language: ru
+description: Оуэн Эванс — известный исследователь и преподаватель, работающий в области
+  интерпретируемости ИИ, механистической интерпретируемости и оценки способностей
+  к рассуждению больших языковых моделей.
 ---
-
 ## Definition
 
 Оуэн Эванс — ученый в области компьютерных наук и педагог, в настоящее время связанный с Центром безопасности искусственного интеллекта (Center for AI Safety) и ранее работавший в Anthropic. Он широко признан за свой вклад в механистическую интерпретируемость нейронных сетей и разработку методов анализа внутренних представлений моделей.

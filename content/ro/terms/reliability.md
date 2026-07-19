@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /ro/terms/reliability/
 date: "2026-07-18T16:19:11.033142Z"
 lastmod: "2026-07-18T17:15:09.698556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Gradul în care un sistem de inteligență artificială își îndeplinește constant și corect funcțiile intenționate, în condiții sigure, sub condiții specificate."
 ---
-
 ## Definition
 
 Fiabilitatea în inteligența artificială se referă la încrederea și consistența comportamentului unui sistem în timp și pe diferite intrări. Un sistem AI fiabil ar trebui să producă rezultate precise, să gestioneze cazurile limită și să mențină stabilitatea operațională.

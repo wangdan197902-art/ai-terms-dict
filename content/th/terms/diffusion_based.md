@@ -1,23 +1,24 @@
 ---
-title: "แบบกระจาย (Diffusion-based)"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: แบบกระจาย (Diffusion-based)
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /th/terms/diffusion_based/
-date: "2026-07-18T15:32:06.580730Z"
-lastmod: "2026-07-18T16:38:07.553829Z"
+slug: diffusion_based
+date: '2026-07-18T15:32:06.580730Z'
+lastmod: '2026-07-18T16:38:07.553829Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทางโมเดลกำเนิดที่สร้างข้อมูลโดยการย้อนกลับกระบวนการเพิ่มเสียงรบกวนอย่างช้าๆ ผ่านขั้นตอนการลดเสียงรบกวนที่เรียนรู้มา"
+source: agnes_llm
+status: published
+language: th
+description: แนวทางโมเดลกำเนิดที่สร้างข้อมูลโดยการย้อนกลับกระบวนการเพิ่มเสียงรบกวนอย่างช้าๆ
+  ผ่านขั้นตอนการลดเสียงรบกวนที่เรียนรู้มา
 ---
-
 ## Definition
 
 โมเดลแบบกระจายเป็นกลุ่มของปัญญาประดิษฐ์กำเนิดที่สร้างตัวอย่างข้อมูลใหม่โดยการกำจัดเสียงรบกวนออกจากการแจกแจงแบบสุ่มอย่างเป็นขั้นเป็นตอน กระบวนการเริ่มต้นด้วยเฟสไปข้างหน้าที่ค่อยๆ เพิ่มเสียงรบกวนแบบเกาส์เซียนลงในข้อมูล จนกระทั่งกลายเป็นเสียงรบกวนล้วนๆ จากนั้นโมเดลจะเรียนรู้กระบวนการย้อนกลับเพื่อแปลงเสียงรบกวนนั้นกลับเป็นข้อมูลที่มีความหมาย

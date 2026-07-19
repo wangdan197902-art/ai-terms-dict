@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /ko/terms/mobilenet/
 date: "2026-07-18T16:05:51.405483Z"
 lastmod: "2026-07-18T16:38:06.885696Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모바일 및 임베디드 비전 애플리케이션을 위해 설계된 경량 심층 신경망 패밀리를 의미합니다."
 ---
-
 ## Definition
 
 MobileNet은 표준 합성곱 연산에 비해 계산 비용과 모델 크기를 획기적으로 줄이기 위해 깊이별 분리 가능 합성곱(Depthwise Separable Convolutions)을 활용합니다. 이 아키텍처는 모바일 장치와 같은 리소스가 제한된 환경에서도 효율적인 특징 추출을 가능하게 합니다.

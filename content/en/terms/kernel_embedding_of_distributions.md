@@ -1,23 +1,24 @@
 ---
-title: "Kernel embedding of distributions"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Kernel embedding of distributions
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /en/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T10:03:27.085166Z"
-lastmod: "2026-07-18T11:44:44.688154Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T10:03:27.085166Z'
+lastmod: '2026-07-18T11:44:44.688154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A technique that maps probability distributions into a reproducing kernel Hilbert space to enable comparison and manipulation via vector operations."
+source: agnes_llm
+status: published
+language: en
+description: A technique that maps probability distributions into a reproducing kernel
+  Hilbert space to enable comparison and manipulation via vector operations.
 ---
-
 ## Definition
 
 Kernel Embedding of Distributions allows probabilistic objects to be treated as points in a high-dimensional feature space called a Reproducing Kernel Hilbert Space (RKHS). By mapping distributions to mean embeddings, complex statistical operations like computing distances between distributions or conditional expectations become linear algebra problems. This approach facilitates non-parametric statistical inference and is crucial in advanced machine learning tasks involving distributional data, such as two-sample testing and causal inference.

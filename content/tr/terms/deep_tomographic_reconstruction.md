@@ -1,23 +1,25 @@
 ---
-title: "Derin Tomografik Rekonstrüksiyon"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: Derin Tomografik Rekonstrüksiyon
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /tr/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:49:19.413237Z"
-lastmod: "2026-07-18T16:38:07.296726Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:49:19.413237Z'
+lastmod: '2026-07-18T16:38:07.296726Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sezgisel veya gürültülü projeksiyon verilerinden yüksek kaliteli kesitsel görüntüler oluşturmak için derin sinir ağlarını kullanan bir hesapsal görüntüleme tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Sezgisel veya gürültülü projeksiyon verilerinden yüksek kaliteli kesitsel
+  görüntüler oluşturmak için derin sinir ağlarını kullanan bir hesapsal görüntüleme
+  tekniği.
 ---
-
 ## Definition
 
 Derin Tomografik Rekonstrüksiyon, filtrelenmiş geri-projeksiyon gibi geleneksel cebirsel veya analitik yöntemlerin ötesinde önemli bir ilerlemeyi temsil eder. Konvolüsyonel Sinir Ağlarını (CNN) kullanarak

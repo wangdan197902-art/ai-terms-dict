@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /sv/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:51:21.136605Z"
 lastmod: "2026-07-18T17:15:08.989593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Detta fält kombinerar statistisk analys och maskininlärning för att extrahera insikter från data och förutspeka framtida händelser eller beteenden."
 ---
-
 ## Definition
 
 Datavetenskap involverar den interdisciplinära processen att extrahera kunskap från strukturerad och ostrukturerad data, medan prediktiv analys specifikt fokuserar på att använda historisk data för att förutsäga fr

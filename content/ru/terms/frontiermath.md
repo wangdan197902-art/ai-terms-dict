@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /ru/terms/frontiermath/
-date: "2026-07-18T15:54:40.840248Z"
-lastmod: "2026-07-18T16:38:07.158950Z"
+slug: frontiermath
+date: '2026-07-18T15:54:40.840248Z'
+lastmod: '2026-07-18T16:38:07.158950Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Набор данных для оценки продвинутых способностей к математическому рассуждению современных моделей ИИ."
+source: agnes_llm
+status: published
+language: ru
+description: Набор данных для оценки продвинутых способностей к математическому рассуждению
+  современных моделей ИИ.
 ---
-
 ## Definition
 
 FrontierMath — это специализированный набор для тестирования, созданный для проверки пределов больших языковых моделей в решении сложных математических задач. В отличие от стандартных бенчмарков по арифметике, он фокусируется на высокоуровневом математическом мышлении и логических выводах, требуя от моделей не просто вычислений, а глубокого понимания контекста и структуры задачи.

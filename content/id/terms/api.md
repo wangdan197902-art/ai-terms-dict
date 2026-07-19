@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /id/terms/api/
 date: "2026-07-18T15:22:20.474437Z"
 lastmod: "2026-07-18T16:38:07.386123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Antarmuka Pemrograman Aplikasi yang memungkinkan berbagai sistem perangkat lunak untuk berkomunikasi dan bertukar data."
 ---
-
 ## Definition
 
 API menentukan seperangkat protokol dan alat untuk membangun perangkat lunak dan aplikasi. Dalam AI, API memungkinkan pengembang mengakses model canggih seperti LLM atau generator gambar tanpa perlu menampungnya secara lokal.

@@ -1,23 +1,23 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /ja/terms/frontiermath/
-date: "2026-07-18T11:15:24.740315Z"
-lastmod: "2026-07-18T11:44:45.099136Z"
+slug: frontiermath
+date: '2026-07-18T11:15:24.740315Z'
+lastmod: '2026-07-18T11:44:45.099136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "最先端のAIモデルの高度な数学的推論能力を評価するために設計されたベンチマークデータセット。"
+source: agnes_llm
+status: published
+language: ja
+description: 最先端のAIモデルの高度な数学的推論能力を評価するために設計されたベンチマークデータセット。
 ---
-
 ## Definition
 
 FrontierMathは、大規模言語モデル（LLM）の複雑な数学的問題解決における限界を試すために作成された専門的な評価スイートです。標準的な算術ベンチマークとは異なり、高レベルの数学的推論に焦点を当てています。

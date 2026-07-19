@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /id/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T15:59:21.298089Z"
 lastmod: "2026-07-18T16:38:07.480595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penerapan model komputasi untuk menganalisis data biologis, seperti urutan genom dan struktur protein, guna menemukan wawasan biologis."
 ---
-
 ## Definition
 
 Bidang interdisipliner ini menggunakan pembelajaran mesin untuk memproses jumlah data biologis yang sangat besar, memungkinkan peneliti untuk memprediksi fungsi gen, mengklasifikasikan penyakit, dan memahami interaksi molekuler secara lebih mendalam.

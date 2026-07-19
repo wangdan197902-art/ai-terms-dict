@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /de/terms/large_language_models/
 date: "2026-07-18T10:51:11.932656Z"
 lastmod: "2026-07-18T11:44:44.877007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Paradigma des Einsatzes skalierter neuronaler Netze für umfassende Aufgaben im Bereich des natürlichen Sprachverständnisses und der -generierung."
 ---
-
 ## Definition
 
 Dieser Begriff bezieht sich auf das breitere Anwendungsparadigma, bei dem Modelle mit Milliarden von Parametern für Zero-Shot- oder Few-Shot-Lernen über verschiedene sprachliche Aufgaben hinweg genutzt werden. Im Gegensatz zu spezialisierten Modellen...

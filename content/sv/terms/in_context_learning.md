@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /sv/terms/in_context_learning/
 date: "2026-07-18T15:23:00.635122Z"
 lastmod: "2026-07-18T17:15:08.936549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En teknik där modeller lär sig utföra uppgifter genom att observera exempel som tillhandahålls i prompten."
 ---
-
 ## Definition
 
 In-context learning (ICL) gör att stora språkmodeller kan anpassa sig till nya uppgifter utan att uppdatera sina vikter. Genom att tillhandahålla indata-och-utdata-par inom promptkontexten, drar modellen slutsatser om mönstret och utför uppgiften.

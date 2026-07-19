@@ -1,23 +1,24 @@
 ---
-title: "تعلم الميزات الهندسية"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: تعلم الميزات الهندسية
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /ar/terms/geometric_feature_learning/
-date: "2026-07-18T15:59:22.336999Z"
-lastmod: "2026-07-18T17:15:08.508094Z"
+slug: geometric_feature_learning
+date: '2026-07-18T15:59:22.336999Z'
+lastmod: '2026-07-18T17:15:08.508094Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية في التعلم العميق تستخرج الميزات من البيانات ذات الهياكل الهندسية الكامنة، مثل الرسوم البيانية أو المتشعبات، باستخدام شبكات عصبية متخصصة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية في التعلم العميق تستخرج الميزات من البيانات ذات الهياكل الهندسية
+  الكامنة، مثل الرسوم البيانية أو المتشعبات، باستخدام شبكات عصبية متخصصة.
 ---
-
 ## Definition
 
 يركز تعلم الميزات الهندسية على معالجة البيانات التي تمتلك هياكل غير إقليدية، مثل الشبكات الاجتماعية أو الرسوم البيانية الجزيئية أو الشبكات ثلاثية الأبعاد. تشمل تقنيات مثل الشبكات العصبية الرسومية...

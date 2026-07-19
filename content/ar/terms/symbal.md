@@ -1,23 +1,23 @@
 ---
-title: "سيمبال"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: سيمبال
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /ar/terms/symbal/
-date: "2026-07-18T15:31:21.630791Z"
-lastmod: "2026-07-18T17:15:08.449792Z"
+slug: symbal
+date: '2026-07-18T15:31:21.630791Z'
+lastmod: '2026-07-18T17:15:08.449792Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مصطلح 'سيمبال' ليس مصطلحاً معترفاً به أو قياسياً في مجال الذكاء الاصطناعي أو علوم الحاسوب."
+source: agnes_llm
+status: published
+language: ar
+description: مصطلح 'سيمبال' ليس مصطلحاً معترفاً به أو قياسياً في مجال الذكاء الاصطناعي
+  أو علوم الحاسوب.
 ---
-
 ## Definition
 
 لا يوجد تعريف راسخ لمصطلح 'سيمبال' في سياق مصطلحات الذكاء الاصطناعي. قد يكون خطأ مطبعياً لكلمة 'رمزي' (Symbolic)، مما يشير إلى الذكاء الاصطناعي الرمزي، أو قد يكون مصطلحاً جديداً غير قياسي. في السياق التقني الدقيق...

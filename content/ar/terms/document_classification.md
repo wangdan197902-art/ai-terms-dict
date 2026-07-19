@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /ar/terms/document_classification/
 date: "2026-07-18T15:54:34.459152Z"
 lastmod: "2026-07-18T17:15:08.498654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية تصنيف نصوص المستندات إلى مجموعات محددة مسبقاً بناءً على محتواها."
 ---
-
 ## Definition
 
 يُعد تصنيف المستندات مهمة أساسية في معالجة اللغات الطبيعية، حيث تقوم الخوارزميات بتعيين تسميات لبيانات النص غير المهيكلة. تتضمن العملية استخراج الميزات من المستندات وربطها بفئات محددة.

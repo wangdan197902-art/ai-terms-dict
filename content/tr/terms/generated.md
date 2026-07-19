@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /tr/terms/generated/
 date: "2026-07-18T15:25:25.776532Z"
 lastmod: "2026-07-18T16:38:07.232990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Statik bir veri setinden doğrudan alınmak yerine bir yapay zeka modeli tarafından oluşturulan içerik."
 ---
-
 ## Definition
 
 'Üretilen' terimi, metin, görüntü, ses veya kod gibi jeneratif yapay zeka modelleri tarafından üretilen çıktıları tanımlar. Mevcut verileri getiren tabanlı sistemlerin aksine, jeneratif modeller yeni içerik sentezler.

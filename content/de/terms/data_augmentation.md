@@ -1,23 +1,24 @@
 ---
-title: "Datenaugmentierung"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Datenaugmentierung
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /de/terms/data_augmentation/
-date: "2026-07-18T11:09:31.371385Z"
-lastmod: "2026-07-18T11:44:44.923504Z"
+slug: data_augmentation
+date: '2026-07-18T11:09:31.371385Z'
+lastmod: '2026-07-18T11:44:44.923504Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Datenaugmentierung ist eine Technik zur Erhöhung der Vielfalt und Größe von Trainingsdatensätzen durch Anwendung von Transformationen auf vorhandene Datenpunkte."
+source: agnes_llm
+status: published
+language: de
+description: Datenaugmentierung ist eine Technik zur Erhöhung der Vielfalt und Größe
+  von Trainingsdatensätzen durch Anwendung von Transformationen auf vorhandene Datenpunkte.
 ---
-
 ## Definition
 
 Diese Methode erweitert den Trainingsdatensatz künstlich, indem modifizierte Versionen bestehender Stichproben erstellt werden, wie z. B. das Drehen von Bildern, das Hinzufügen von Rauschen zu Audiodaten oder der Austausch von Synonymen im Text. Sie hilft, Überanpassung zu verhindern,

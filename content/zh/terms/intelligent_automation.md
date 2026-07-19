@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /zh/terms/intelligent_automation/
 date: "2026-07-18T11:22:32.126549Z"
 lastmod: "2026-07-18T11:44:45.518578Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将人工智能与机器人流程自动化相结合，以处理复杂、非结构化的业务流程。"
 ---
-
 ## Definition
 
 智能自动化将传统的机器人流程自动化（RPA）与机器学习及自然语言处理等先进AI技术相集成。虽然RPA处理基于规则的结构化

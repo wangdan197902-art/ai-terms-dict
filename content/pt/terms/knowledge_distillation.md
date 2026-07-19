@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /pt/terms/knowledge_distillation/
 date: "2026-07-18T15:07:05.715565Z"
 lastmod: "2026-07-18T15:51:59.504771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A distilação de conhecimento é uma técnica de compressão de modelos na qual um modelo menor (aluno) aprende a imitar o comportamento de um modelo maior (professor)."
 ---
-
 ## Definition
 
 A distilação de conhecimento é um método de aprendizado de máquina utilizado para comprimir uma rede neural grande e complexa (o professor) em uma rede menor e mais eficiente (o aluno). O modelo aluno é treinado para replicar as saídas e o comportamento do modelo professor, permitindo que o modelo compacto mantenha alta precisão com menos recursos computacionais.

@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /nl/terms/cognitive_computing/
 date: "2026-07-18T15:46:32.993578Z"
 lastmod: "2026-07-18T17:15:08.725944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Cognitieve computing verwijst naar systemen die menselijke denkprocessen simuleren in een gecomputeriseerd model, waarbij AI wordt gebruikt om functies van de menselijke hersenen na te bootsen."
 ---
-
 ## Definition
 
 Cognitieve computing is een tak van kunstmatige intelligentie die streeft naar natuurlijke interactie met mensen terwijl tegelijkertijd menselijke hersenprocessen worden gesimuleerd. Deze systemen maken gebruik van machine learning, deep learning en andere technieken.

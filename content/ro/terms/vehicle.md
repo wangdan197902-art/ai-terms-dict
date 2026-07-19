@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /ro/terms/vehicle/
 date: "2026-07-18T15:31:20.558128Z"
 lastmod: "2026-07-18T17:15:09.606850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În contexte de IA, un vehicul se referă adesea la platforma sau mediul prin care modelele de IA sunt implementate sau livrate utilizatorilor finali."
 ---
-
 ## Definition
 
 Deși în mod tradițional înseamnă transport, în terminologia IA, termenul 'vehicul' poate descrie metaforic mecanismul de livrare a serviciilor inteligente, cum ar fi aplicațiile mobile, interfețele web sau sistemele încorporate.

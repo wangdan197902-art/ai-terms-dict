@@ -1,23 +1,23 @@
 ---
-title: "建筑自动化"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: 建筑自动化
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /zh/terms/automation_in_construction/
-date: "2026-07-18T11:08:15.505867Z"
-lastmod: "2026-07-18T11:44:45.448456Z"
+slug: automation_in_construction
+date: '2026-07-18T11:08:15.505867Z'
+lastmod: '2026-07-18T11:44:45.448456Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "应用机器人技术和人工智能来简化建筑流程并提高工地安全性的技术。"
+source: agnes_llm
+status: published
+language: zh
+description: 应用机器人技术和人工智能来简化建筑流程并提高工地安全性的技术。
 ---
-
 ## Definition
 
 建筑自动化指的是将机器人系统、无人机和人工智能驱动的项目管理工具整合到建筑生命周期中。这些技术协助完成从砌砖到安全检查的各种任务，从而提高施工效率、精度和安全性。

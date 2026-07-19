@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /nl/terms/local/
 date: "2026-07-18T15:27:47.497415Z"
 lastmod: "2026-07-18T17:15:08.687892Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar het verwerken of opslaan van gegevens op een specifiek apparaat in plaats van in een gecentraliseerde cloudomgeving."
 ---
-
 ## Definition
 
 In de kunstmatige intelligentie verwijst 'lokaal' doorgaans naar bewerkingen die direct op de hardware van de gebruiker worden uitgevoerd, zoals een laptop of smartphone, zonder afhankelijkheid van externe servers. Deze aanpak verbetert de gegevensprivacy en vermindert de latentie.

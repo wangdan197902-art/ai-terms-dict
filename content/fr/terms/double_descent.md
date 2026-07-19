@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /fr/terms/double_descent/
 date: "2026-07-18T11:14:58.935347Z"
 lastmod: "2026-07-18T11:44:45.244825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un phénomène où l'erreur de test diminue, augmente, puis diminue à nouveau à mesure que la complexité du modèle dépasse le seuil d'interpolation."
 ---
-
 ## Definition
 
 La double remise en cause le compromis traditionnel biais-variance en montrant que les modèles fortement surparamétrés peuvent atteindre une faible erreur de test malgré l'interpolation des données d'entraînement. Initialement, l'erreur augmente avec la complexité avant de diminuer à nouveau.

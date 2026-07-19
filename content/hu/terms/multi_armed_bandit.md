@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /hu/terms/multi_armed_bandit/
 date: "2026-07-18T16:13:59.729474Z"
 lastmod: "2026-07-18T17:15:09.815143Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A többkarú bandit egy klasszikus probléma a valószínűségszámításban és a megerősítéses tanulásban, amely a felfedezés és kihasználás közötti kompromisszumot modellezi."
 ---
-
 ## Definition
 
 A többkarú bandit probléma azt a dilemmát szemlélteti, amellyel egy ügynök szembesül: ragaszkodik-e egy ismert, jutalmat nyújtó opcióhoz (kihasználás), vagy próbál-e ki új opciókat a potenciálisan jobb jutalom felfedezése érdekében...

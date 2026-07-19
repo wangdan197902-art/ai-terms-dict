@@ -1,23 +1,25 @@
 ---
-title: "Bağlamsal Yaklaşım"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: Bağlamsal Yaklaşım
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /tr/terms/situated_approach/
-date: "2026-07-18T16:14:11.775022Z"
-lastmod: "2026-07-18T16:38:07.365469Z"
+slug: situated_approach
+date: '2026-07-18T16:14:11.775022Z'
+lastmod: '2026-07-18T16:38:07.365469Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Soyut muhakeme yerine, duruma bağlı davranışları ve çevreyle etkileşimi önceliklendiren bir yapay zeka tasarım paradigmasıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Soyut muhakeme yerine, duruma bağlı davranışları ve çevreyle etkileşimi
+  önceliklendiren bir yapay zeka tasarım paradigmasıdır.
 ---
-
 ## Definition
 
 Bağlamsal yaklaşım, akıllı davranışın gerçekleştiği ortamdan ayrılamayacağını savunan yapay zeka araştırmasında metodolojik bir çerçevedir. Ortamla etkileşim kurabilen sistemler inşa etmeyi savunur.

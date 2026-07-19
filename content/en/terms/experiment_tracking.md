@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /en/terms/experiment_tracking/
 date: "2026-07-18T09:57:38.908654Z"
 lastmod: "2026-07-18T11:44:44.670933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Experiment tracking is the systematic process of recording metadata, metrics, and artifacts from machine learning experiments to ensure reproducibility and facilitate comparison."
 ---
-
 ## Definition
 
 This practice involves logging hyperparameters, dataset versions, model architectures, and performance metrics during training runs. It allows data scientists to compare different experimental configurations, debug issues, and reproduce successful results. Tools like MLflow or Weights & Biases are commonly used to visualize progress and manage the lifecycle of models from development to deployment, ensuring that no critical information is lost between iterations.

@@ -1,23 +1,23 @@
 ---
-title: "T2I (Text-to-Image)"
-term_id: "t2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "computer_vision"]
+title: T2I (Text-to-Image)
+term_id: t2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "t2i"
-aliases:
-  - /ru/terms/t2i/
-date: "2026-07-18T16:17:40.526695Z"
-lastmod: "2026-07-18T16:38:07.207244Z"
+slug: t2i
+date: '2026-07-18T16:17:40.526695Z'
+lastmod: '2026-07-18T16:38:07.207244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "T2I означает Text-to-Image (текст в изображение) — технология генеративного ИИ, создающая визуальные изображения на основе текстовых описаний."
+source: agnes_llm
+status: published
+language: ru
+description: T2I означает Text-to-Image (текст в изображение) — технология генеративного
+  ИИ, создающая визуальные изображения на основе текстовых описаний.
 ---
-
 ## Definition
 
 Генерация изображений по тексту (Text-to-Image, T2I) включает использование моделей глубокого обучения, таких как диффузионные модели или GAN, для синтеза изображений на основе естественных языковых запросов. Эти модели изучают корреляцию между...

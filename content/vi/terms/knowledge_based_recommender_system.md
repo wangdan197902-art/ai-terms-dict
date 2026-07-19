@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /vi/terms/knowledge_based_recommender_system/
 date: "2026-07-18T15:59:24.068501Z"
 lastmod: "2026-07-18T16:38:07.773585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một công cụ gợi ý tạo ra đề xuất bằng cách suy luận dựa trên tri thức chuyên ngành rõ ràng và các ràng buộc của người dùng thay vì dữ liệu lịch sử."
 ---
-
 ## Definition
 
 Khác với lọc cộng tác dựa trên hành vi quá khứ của người dùng, Hệ thống Gợi ý Dựa trên Tri thức (KBRS) sử dụng tri thức rõ ràng về các mặt hàng và sở thích của người dùng để đưa ra đề xuất. Nó đặc biệt hiệu quả trong các thị trường nơi dữ liệu lịch sử khan hiếm hoặc khó thu thập.

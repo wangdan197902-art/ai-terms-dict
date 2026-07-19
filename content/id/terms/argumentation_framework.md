@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /id/terms/argumentation_framework/
 date: "2026-07-18T15:38:56.326601Z"
 lastmod: "2026-07-18T16:38:07.427813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Struktur formal yang digunakan untuk memodelkan dan menyelesaikan konflik antara klaim atau keputusan yang bersaing dalam sistem AI."
 ---
-
 ## Definition
 
 Kerangka argumentasi memberikan dasar matematika untuk merepresentasikan argumen, serangan, dan pertahanan di antaranya. Dalam rekayasa AI, kerangka ini membantu sistem membuat keputusan yang transparan dan dapat dipertanggungjawabkan dengan menimbang berbagai perspektif.

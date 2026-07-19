@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /ro/terms/ameca/
 date: "2026-07-18T15:43:38.768710Z"
 lastmod: "2026-07-18T17:15:09.626678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un robot umanoid extrem de avansat dezvoltat de Engineered Arts, cunoscut pentru expresivitatea facială excepțională și interacțiunile similare cu cele umane."
 ---
-
 ## Definition
 
 Ameca este un robot umanoid de ultimă generație care dispune de peste 40 de grade de libertate doar în fața sa, permițând exprimarea subtilă și realistă a emoțiilor. Este conceput pentru a studia interacțiunea dintre om și robot.

@@ -1,23 +1,24 @@
 ---
-title: "Γράφος"
-term_id: "graph"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structures", "gnn", "knowledge_rep"]
+title: Γράφος
+term_id: graph
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- gnn
+- Knowledge Rep
 difficulty: 2
 weight: 1
-slug: "graph"
-aliases:
-  - /el/terms/graph/
-date: "2026-07-18T15:26:33.971215Z"
-lastmod: "2026-07-18T17:15:09.845693Z"
+slug: graph
+date: '2026-07-18T15:26:33.971215Z'
+lastmod: '2026-07-18T17:15:09.845693Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μαθηματική δομή που αποτελείται από κόμβους συνδεδεμένους με ακμές, χρησιμοποιούμενη για την αναπαράσταση σχέσεων μεταξύ οντοτήτων."
+source: agnes_llm
+status: published
+language: el
+description: Μια μαθηματική δομή που αποτελείται από κόμβους συνδεδεμένους με ακμές,
+  χρησιμοποιούμενη για την αναπαράσταση σχέσεων μεταξύ οντοτήτων.
 ---
-
 ## Definition
 
 Ένας γράφος είναι μια θεμελιώδης δομή δεδομένων στην ΤΝ που αποτελείται από κορυφές (κόμβους) και ακμές (συνδέσμους) που δηλώνουν σχέσεις. Τα Δίκτυα Γραφών Νευρωνικών Δικτύων (GNNs) αξιοποιούν αυτή τη δομή για να πραγματοποιήσουν μάθηση σε μη Ευκλείδειες

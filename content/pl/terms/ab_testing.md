@@ -1,23 +1,24 @@
 ---
-title: "Testy A/B"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: Testy A/B
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /pl/terms/ab_testing/
-date: "2026-07-18T15:37:48.840933Z"
-lastmod: "2026-07-18T17:15:08.838882Z"
+slug: ab_testing
+date: '2026-07-18T15:37:48.840933Z'
+lastmod: '2026-07-18T17:15:08.838882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Metoda statystyczna porównująca dwie wersje zmiennej w celu określenia, która z nich osiąga lepsze wyniki."
+source: agnes_llm
+status: published
+language: pl
+description: Metoda statystyczna porównująca dwie wersje zmiennej w celu określenia,
+  która z nich osiąga lepsze wyniki.
 ---
-
 ## Definition
 
 Test A/B to eksperyment kontrolowany z losowym przydziałem, w którym porównuje się dwa warianty, A i B, aby ocenić, który z nich daje lepsze wyniki w określonym wskaźniku. W inżynierii AI jest kluczowy dla optymalizacji modeli i interfejsów użytkownika.

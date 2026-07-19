@@ -1,23 +1,24 @@
 ---
-title: "Detección de anomalías"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Detección de anomalías
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /es/terms/anomaly_detection/
-date: "2026-07-18T10:35:20.984675Z"
-lastmod: "2026-07-18T11:44:44.775598Z"
+slug: anomaly_detection
+date: '2026-07-18T10:35:20.984675Z'
+lastmod: '2026-07-18T11:44:44.775598Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de identificar elementos, eventos u observaciones raros que se desvían significativamente de la mayoría de los datos."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de identificar elementos, eventos u observaciones raros que
+  se desvían significativamente de la mayoría de los datos.
 ---
-
 ## Definition
 
 La detección de anomalías, también conocida como detección de valores atípicos, implica analizar datos para encontrar patrones que no se ajustan al comportamiento esperado. Se utiliza ampliamente en ciberseguridad, detección de fraude y mantenimiento de sistemas.

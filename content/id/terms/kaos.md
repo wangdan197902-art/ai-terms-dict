@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /id/terms/kaos/
 date: "2026-07-18T15:56:36.565617Z"
 lastmod: "2026-07-18T16:38:07.472928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja agen cerdas yang dirancang untuk mengelola lingkungan perusahaan terdistribusi yang kompleks melalui otomatisasi berbasis kebijakan."
 ---
-
 ## Definition
 
 KAoS adalah kerangka kerja agen cerdas yang dikembangkan untuk menangani kompleksitas sistem perusahaan berskala besar dan terdistribusi. Sistem ini memanfaatkan pendekatan berbasis kebijakan di mana tujuan manajemen tingkat tinggi diterjemahkan

@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /zh/terms/differential_privacy/
 date: "2026-07-18T11:14:55.241236Z"
 lastmod: "2026-07-18T11:44:45.488205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种严格的数学框架，确保包含或排除任何单个个体的数据不会对分析结果产生显著影响。"
 ---
-
 ## Definition
 
 差分隐私通过向查询结果或模型参数添加经过校准的统计噪声，提供强有力的隐私保障。它量化了关于任何单个个体信息泄露的最大程度。

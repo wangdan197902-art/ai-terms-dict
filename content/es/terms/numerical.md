@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /es/terms/numerical/
 date: "2026-07-18T10:25:04.640888Z"
 lastmod: "2026-07-18T11:44:44.746671Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Relativo a, que implica o utiliza números o cálculos matemáticos en lugar de lógica simbólica o texto."
 ---
-
 ## Definition
 
 En el contexto de la IA y la ciencia de datos, numérico se refiere a tipos de datos o métodos que implican valores cuantitativos, como enteros, flotantes y decimales. A diferencia de los datos categóricos o textuales, los datos numéricos permiten operaciones matemáticas directas.

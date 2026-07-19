@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /ro/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:54:42.021512Z"
-lastmod: "2026-07-18T17:15:09.648748Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:54:42.021512Z'
+lastmod: '2026-07-18T17:15:09.648748Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O linie de procesare (pipeline) din biblioteca Hugging Face Diffusers care utilizează modelele Qwen-VL pentru sarcini de editare a imaginilor bazate pe instrucțiuni."
+source: agnes_llm
+status: published
+language: ro
+description: O linie de procesare (pipeline) din biblioteca Hugging Face Diffusers
+  care utilizează modelele Qwen-VL pentru sarcini de editare a imaginilor bazate pe
+  instrucțiuni.
 ---
-
 ## Definition
 
 Această linie de procesare integrează capacitățile modelului Qwen-Vision-Language în cadrul Diffusers pentru a realiza modificări precise ale imaginilor pe baza instrucțiunilor în limbaj natural. Spre deosebire de liniile de procesare generative...

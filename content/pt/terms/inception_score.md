@@ -1,23 +1,24 @@
 ---
-title: "Inception Score"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Inception Score
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /pt/terms/inception_score/
-date: "2026-07-18T15:05:08.082741Z"
-lastmod: "2026-07-18T15:51:59.501015Z"
+slug: inception_score
+date: '2026-07-18T15:05:08.082741Z'
+lastmod: '2026-07-18T15:51:59.501015Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma métrica usada para avaliar a qualidade das imagens geradas, medindo tanto sua clareza quanto sua diversidade."
+source: agnes_llm
+status: published
+language: pt
+description: Uma métrica usada para avaliar a qualidade das imagens geradas, medindo
+  tanto sua clareza quanto sua diversidade.
 ---
-
 ## Definition
 
 O Inception Score (IS) é uma medida estatística introduzida para avaliar o desempenho de Redes Adversariais Generativas (GANs) e outros modelos generativos. Ele combina dois fatores: qualidade da imagem (cl 

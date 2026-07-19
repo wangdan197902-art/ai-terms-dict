@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /da/terms/ai_security_institute/
 date: "2026-07-18T15:38:42.863642Z"
 lastmod: "2026-07-18T17:15:09.252703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En organisation dedikeret til forskning, udvikling og fremme af bedste praksis for sikring af kunstige intelligenssystemer."
 ---
-
 ## Definition
 
 Et AI-sikkerhedsinstitut er en specialiseret enhed fokuseret på at mindske risici forbundet med kunstig intelligens-teknologier. These institutes conduct research on adversarial attacks, data privac

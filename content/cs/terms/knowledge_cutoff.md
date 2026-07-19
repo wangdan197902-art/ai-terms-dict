@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /cs/terms/knowledge_cutoff/
 date: "2026-07-18T16:04:20.914985Z"
 lastmod: "2026-07-18T17:15:09.145128Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Knowledge Cutoff je konkrétní datum, po kterém jazykový model nebyl trénován, a proto mu chybí informace o událostech, které se odehrály poté."
 ---
-
 ## Definition
 
 Datum Knowledge Cutoff definuje časovou hranici trénovacích dat jazykového modelu. Jakékoli informace, události nebo vývoje, které se staly po tomto datu, jsou obecně modelu neznámé, pokud není doplněn externími nástroji.

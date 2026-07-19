@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /cs/terms/long/
 date: "2026-07-18T15:26:39.457704Z"
 lastmod: "2026-07-18T17:15:09.072293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obecně odkazuje na rozšířené sekvence dat, jako jsou dlouhá kontextová okna v modelech zpracování přirozeného jazyka."
 ---
-
 ## Definition
 
 V kontextu AI „dlouhé“ často popisuje schopnost zpracovávat rozsáhlé vstupy, jako jsou dlouhé dokumenty nebo dlouhé video streamy. U velkých jazykových modelů to zahrnuje správu dlouhých kontextů

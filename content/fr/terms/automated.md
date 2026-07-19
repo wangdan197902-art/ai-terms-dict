@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /fr/terms/automated/
 date: "2026-07-18T10:48:48.848652Z"
 lastmod: "2026-07-18T11:44:45.158551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Désigne des processus exécutés par des machines ou des logiciels avec une intervention humaine minimale."
 ---
-
 ## Definition
 
 L'automatisation en IA consiste à utiliser des algorithmes et des systèmes pour effectuer des tâches qui nécessitent traditionnellement un effort humain. Elle se concentre sur l'efficacité, la cohérence et la rapidité en exécutant des règles prédéfinies ou apprises.

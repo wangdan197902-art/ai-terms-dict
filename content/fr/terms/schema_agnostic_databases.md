@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /fr/terms/schema_agnostic_databases/
 date: "2026-07-18T11:37:04.560564Z"
 lastmod: "2026-07-18T11:44:45.325595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Les bases de données agnostiques au schéma sont des systèmes de stockage qui permettent des structures de données flexibles sans exiger de schémas prédéfinis, souvent utilisées dans les environnements"
 ---
-
 ## Definition
 
 Ces bases de données permettent un modélisation dynamique des données en n'imposant pas de structures rigides de tables ou de définitions de colonnes à l'avance. Cette flexibilité permet aux développeurs de stocker des données non structurées ou semi-structurées, s'adaptant ainsi aux changements fréquents.

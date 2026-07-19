@@ -1,23 +1,24 @@
 ---
-title: "Data-ajoittama malli"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Data-ajoittama malli
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /fi/terms/data_driven_model/
-date: "2026-07-18T15:51:01.333370Z"
-lastmod: "2026-07-18T17:15:09.397587Z"
+slug: data_driven_model
+date: '2026-07-18T15:51:01.333370Z'
+lastmod: '2026-07-18T17:15:09.397587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Laskennallinen malli, jonka parametrit ja rakenne opitaan suoraan empiirisestä datasta eikä eksplisiittisestä ohjelmoinnista."
+source: agnes_llm
+status: published
+language: fi
+description: Laskennallinen malli, jonka parametrit ja rakenne opitaan suoraan empiirisestä
+  datasta eikä eksplisiittisestä ohjelmoinnista.
 ---
-
 ## Definition
 
 Data-ajoittama malli on tekoälyjärjestelmä, jossa käyttäytyminen ja ennusteet syntyvät historiallisesta datasta tunnistetuista kuvioista eikä niitä määritellä kovakoodatuilla säännöillä. Malli oppii yhteyksiä datan piilevistä rakenteista itsestään.

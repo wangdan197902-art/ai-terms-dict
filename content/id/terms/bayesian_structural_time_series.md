@@ -1,23 +1,24 @@
 ---
-title: "Deret Waktu Struktural Bayesian"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Deret Waktu Struktural Bayesian
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /id/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:40:52.136950Z"
-lastmod: "2026-07-18T16:38:07.433200Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:40:52.136950Z'
+lastmod: '2026-07-18T16:38:07.433200Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pendekatan pemodelan statistik yang menggunakan inferensi Bayesian untuk menguraikan deret waktu menjadi komponen-komponen yang dapat ditafsirkan."
+source: agnes_llm
+status: published
+language: id
+description: Pendekatan pemodelan statistik yang menggunakan inferensi Bayesian untuk
+  menguraikan deret waktu menjadi komponen-komponen yang dapat ditafsirkan.
 ---
-
 ## Definition
 
 Model deret waktu struktural Bayesian (BSTS) merepresentasikan data deret waktu sebagai jumlah dari komponen-komponen yang dapat ditafsirkan seperti tren, musiman, dan efek regresi, sambil memperhitungkan ketidakpastian melalui distribusi posterior parameter model.

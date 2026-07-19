@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /ja/terms/interpretability/
 date: "2026-07-18T10:59:21.201217Z"
 lastmod: "2026-07-18T11:44:45.048539Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間がAIモデルの意思決定の原因を理解できる度合い。"
 ---
-
 ## Definition
 
 解釈可能性（または説明可能性）とは、AIモデルの内部動作や意思決定プロセスを人間が透明かつ理解可能にすることです。これはデバッグや信頼性の確保にとって重要です。

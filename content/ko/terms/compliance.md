@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /ko/terms/compliance/
 date: "2026-07-18T15:45:43.388356Z"
 lastmod: "2026-07-18T16:38:06.818607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템이 법적 규제, 윤리 기준, 산업 가이드라인을 준수하는 것."
 ---
-
 ## Definition
 
 인공지능에서 컴플라이언스는 GDPR이나 HIPAA와 같은 적용 가능한 법률, 그리고 내부 윤리 프레임워크와 일치하도록 AI 모델과 그 배포 과정을 보장하는 프로세스를 의미합니다...

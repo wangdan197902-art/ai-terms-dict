@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /ro/terms/transformer/
-date: "2026-07-18T15:31:06.936939Z"
-lastmod: "2026-07-18T17:15:09.606182Z"
+slug: transformer
+date: '2026-07-18T15:31:06.936939Z'
+lastmod: '2026-07-18T17:15:09.606182Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O arhitectură de învățare profundă bazată pe mecanisme de auto-atenție care procesează datele secvențiale în paralel, nu secvențial."
+source: agnes_llm
+status: published
+language: ro
+description: O arhitectură de învățare profundă bazată pe mecanisme de auto-atenție
+  care procesează datele secvențiale în paralel, nu secvențial.
 ---
-
 ## Definition
 
 Introdus în lucrarea 'Attention Is All You Need', arhitectura Transformer a revoluționat procesarea limbajului natural și nu numai. Aceasta utilizează auto-atenția multi-cap pentru a pondera semnificația

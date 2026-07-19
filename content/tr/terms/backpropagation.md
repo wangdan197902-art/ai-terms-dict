@@ -1,23 +1,24 @@
 ---
-title: "Geri Yayılım"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: Geri Yayılım
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /tr/terms/backpropagation/
-date: "2026-07-18T15:22:34.133148Z"
-lastmod: "2026-07-18T16:38:07.224655Z"
+slug: backpropagation
+date: '2026-07-18T15:22:34.133148Z'
+lastmod: '2026-07-18T16:38:07.224655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Hata azaltmak için gradyanları hesaplayarak sinir ağlarını eğitmek için yaygın olarak kullanılan bir algoritma."
+source: agnes_llm
+status: published
+language: tr
+description: Hata azaltmak için gradyanları hesaplayarak sinir ağlarını eğitmek için
+  yaygın olarak kullanılan bir algoritma.
 ---
-
 ## Definition
 
 Hataların geri yayılımı kısaltması olan Geri Yayılım, yapay sinir ağlarında kayıp fonksiyonunun ağırlıklara göre gradyanını hesaplamak için kullanılan bir yöntemdir. Hata sinyallerini ağ boyunca geriye doğru yayarak çalışır.

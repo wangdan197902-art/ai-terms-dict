@@ -1,23 +1,24 @@
 ---
-title: "Privatliv"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Privatliv
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /da/terms/privacy/
-date: "2026-07-18T15:29:06.610079Z"
-lastmod: "2026-07-18T17:15:09.231282Z"
+slug: privacy
+date: '2026-07-18T15:29:06.610079Z'
+lastmod: '2026-07-18T17:15:09.231282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Den ret, individer har til at kontrollere, hvordan deres personlige data indsamles, bruges og deles inden for AI-systemer."
+source: agnes_llm
+status: published
+language: da
+description: Den ret, individer har til at kontrollere, hvordan deres personlige data
+  indsamles, bruges og deles inden for AI-systemer.
 ---
-
 ## Definition
 
 Inden for kunstig intelligens refererer privatliv til beskyttelsen af følsomme brugeroplysninger mod uautoriseret adgang eller misbrug under faserne med dataindsamling, modeltræning og inferens. Det involverer 

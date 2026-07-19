@@ -1,23 +1,24 @@
 ---
-title: "Αλγοριθμική Προκατάληψη"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Αλγοριθμική Προκατάληψη
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /el/terms/algorithmic_bias/
-date: "2026-07-18T15:48:46.836536Z"
-lastmod: "2026-07-18T17:15:09.878084Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:48:46.836536Z'
+lastmod: '2026-07-18T17:15:09.878084Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η αλγοριθμική προκατάληψη αναφέρεται σε συστηματικά και επαναλαμβανόμενα σφάλματα σε έναν υπολογιστικό σύστημα που δημιουργούν άδικα αποτελέσματα, ευνοώντας μία αυθαίρετη ομάδα έναντι των άλλων."
+source: agnes_llm
+status: published
+language: el
+description: Η αλγοριθμική προκατάληψη αναφέρεται σε συστηματικά και επαναλαμβανόμενα
+  σφάλματα σε έναν υπολογιστικό σύστημα που δημιουργούν άδικα αποτελέσματα, ευνοώντας
+  μία αυθαίρετη ομάδα έναντι των άλλων.
 ---
-
 ## Definition
 
 Η προκατάληψη στους αλγορίθμους προέρχεται συνήθως από μη αντιπροσωπευτικά δεδομένα εκπαίδευσης, υποκειμενικές επιλογές σχεδιασμού ή βρόχους ανατροφοδότησης που ενισχύουν υπάρχουσες κοινωνικές προκαταλήψεις. Εκδηλώνεται ως παραμορφωμένες προβλέψεις ή αποφάσεις.

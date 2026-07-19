@@ -1,23 +1,25 @@
 ---
-title: "Μάθηση-προς-μάθηση (Meta-learning)"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: Μάθηση-προς-μάθηση (Meta-learning)
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /el/terms/meta_learning/
-date: "2026-07-18T16:21:08.861343Z"
-lastmod: "2026-07-18T17:15:09.931356Z"
+slug: meta_learning
+date: '2026-07-18T16:21:08.861343Z'
+lastmod: '2026-07-18T17:15:09.931356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η μάθηση-προς-μάθηση, ή η ικανότητα να μαθαίνει κανείς πώς να μαθαίνει, είναι μια προσέγγιση μηχανικής μάθησης που επιτρέπει στα μοντέλα να προσαρμόζονται γρήγορα σε νέες εργασίες με ελάχιστα δεδομένα"
+source: agnes_llm
+status: published
+language: el
+description: Η μάθηση-προς-μάθηση, ή η ικανότητα να μαθαίνει κανείς πώς να μαθαίνει,
+  είναι μια προσέγγιση μηχανικής μάθησης που επιτρέπει στα μοντέλα να προσαρμόζονται
+  γρήγορα σε νέες εργασίες με ελάχιστα δεδομένα
 ---
-
 ## Definition
 
 Η μάθηση-προς-μάθηση εστιάζει στον σχεδιασμό αλγορίθμων που μπορούν να μάθουν από προηγούμενες εργασίες για να βελτιώσουν τις επιδόσεις τους σε νέες, μη ορατές εργασίες. Αντί να εκπαιδεύεται ένα μοντέλο από την αρχή για κάθε πρόβλημα, βελτιστοποιεί τις παραμέτρους του ώστε να προσαρμόζεται ταχύτερα.

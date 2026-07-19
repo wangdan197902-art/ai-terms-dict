@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /en/terms/code_generation/
 date: "2026-07-18T07:38:44.863729Z"
 lastmod: "2026-07-18T11:44:44.578035Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The process of using artificial intelligence to automatically create source code from natural language descriptions or existing code snippets."
 ---
-
 ## Definition
 
 Code generation leverages large language models trained on vast repositories of programming languages to produce functional software artifacts. It interprets human-readable prompts, such as comments or high-level logic descriptions, and translates them into executable code in various programming languages like Python, JavaScript, or C++. This technology significantly accelerates development workflows by automating boilerplate creation, suggesting optimizations, and assisting in debugging, thereby reducing manual coding effort and potential human error.

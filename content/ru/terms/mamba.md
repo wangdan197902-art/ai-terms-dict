@@ -1,23 +1,25 @@
 ---
-title: "Mamba"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: Mamba
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /ru/terms/mamba/
-date: "2026-07-18T15:27:15.887421Z"
-lastmod: "2026-07-18T16:38:07.083554Z"
+slug: mamba
+date: '2026-07-18T15:27:15.887421Z'
+lastmod: '2026-07-18T16:38:07.083554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Mamba — это модель последовательностей на основе пространств состояний, обеспечивающая линейное время вывода при сохранении производительности трансформеров в задачах с длинным контекстом."
+source: agnes_llm
+status: published
+language: ru
+description: Mamba — это модель последовательностей на основе пространств состояний,
+  обеспечивающая линейное время вывода при сохранении производительности трансформеров
+  в задачах с длинным контекстом.
 ---
-
 ## Definition
 
 Mamba представляет собой значительный прогресс в моделировании последовательностей благодаря внедрению аппаратно-ориентированной модели селективных пространств состояний (SSM). В отличие от традиционных трансформеров, которые масштабируются квадратично в зависимости от длины последовательности...

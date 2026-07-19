@@ -1,23 +1,24 @@
 ---
-title: "การสร้างภาพโทโมกราฟีด้วยเครือข่ายประสาทเทียมเชิงลึก"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: การสร้างภาพโทโมกราฟีด้วยเครือข่ายประสาทเทียมเชิงลึก
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /th/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:49:47.156689Z"
-lastmod: "2026-07-18T16:38:07.597334Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:49:47.156689Z'
+lastmod: '2026-07-18T16:38:07.597334Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการสร้างภาพเชิงคำนวณที่ใช้เครือข่ายประสาทเทียมเชิงลึก (Deep Neural Networks) ในการสร้างภาพตัดขวางคุณภาพสูงจากข้อมูลโปรเจกชันที่เบาบางหรือมีสัญญาณรบกวน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการสร้างภาพเชิงคำนวณที่ใช้เครือข่ายประสาทเทียมเชิงลึก (Deep Neural
+  Networks) ในการสร้างภาพตัดขวางคุณภาพสูงจากข้อมูลโปรเจกชันที่เบาบางหรือมีสัญญาณรบกวน
 ---
-
 ## Definition
 
 การสร้างภาพโทโมกราฟีด้วยเครือข่ายประสาทเทียมเชิงลึกถือเป็นความก้าวหน้าครั้งสำคัญเมื่อเทียบกับวิธีการทางพีชคณิตหรือวิเคราะห์แบบดั้งเดิม เช่น การฉายกลับแบบกรอง (Filtered Back-Projection) โดยอาศัยประโยชน์จากเครือข่ายประสาทเทียมแบบคอนโวลูชัน (CNNs) เพื่อปรับปรุงคุณภาพและประสิทธิภาพในการสร้างภาพ

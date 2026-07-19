@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /da/terms/qlora/
-date: "2026-07-18T15:37:15.359737Z"
-lastmod: "2026-07-18T17:15:09.248019Z"
+slug: qlora
+date: '2026-07-18T15:37:15.359737Z'
+lastmod: '2026-07-18T17:15:09.248019Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Quantized Low-Rank Adaptation, en metode til effektiv finjustering af store sprogmodeller ved hjælp af 4-bit-kvantisering og lav-rang adaptere."
+source: agnes_llm
+status: published
+language: da
+description: Quantized Low-Rank Adaptation, en metode til effektiv finjustering af
+  store sprogmodeller ved hjælp af 4-bit-kvantisering og lav-rang adaptere.
 ---
-
 ## Definition
 
 QLoRA kombinerer Low-Rank Adaptation (LoRA) med 4-bit-kvantisering for betydeligt at reducere hukommelsesforbruget ved finjustering af massive modeller. Ved at gemme vægte i 4-bit-format og tilføje træningsbare adaptere gøres finjustering mulig på forbrugerhardware.

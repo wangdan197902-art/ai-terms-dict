@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /zh/terms/datasetwikihow/
 date: "2026-07-18T11:13:38.832321Z"
 lastmod: "2026-07-18T11:44:45.483509Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个由 WikiHow 上的操作指南文章组成的大规模数据集，主要用于文本摘要和指令生成任务。"
 ---
-
 ## Definition
 
 WikiHow 数据集包含从 WikiHow 网站收集的约 60,000 篇操作指南文章。它广泛应用于自然语言处理研究中，用于抽象式文本摘要、步骤提取等任务。

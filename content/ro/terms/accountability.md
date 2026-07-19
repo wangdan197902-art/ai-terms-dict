@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /ro/terms/accountability/
 date: "2026-07-18T15:42:47.695862Z"
 lastmod: "2026-07-18T17:15:09.624274Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Principiul conform căruia dezvoltatorii și operatorii sistemelor de inteligență artificială trebuie să răspundă pentru rezultatele și impactul acestora."
 ---
-
 ## Definition
 
 Răspunderea în inteligența artificială se referă la obligația indivizilor, organizațiilor și dezvoltatorilor de a-și asuma responsabilitatea pentru proiectarea, implementarea și consecințele tehnologiilor IA.

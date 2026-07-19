@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /en/terms/fine_tuning/
 date: "2026-07-18T07:39:00.243191Z"
 lastmod: "2026-07-18T11:44:44.578863Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The process of adapting a pre-trained model to a specific downstream task using a smaller dataset."
 ---
-
 ## Definition
 
 Fine-tuning involves taking a model already trained on a large, general dataset and further training it on a specialized dataset. This allows the model to retain general knowledge while acquiring task-specific features. It is computationally cheaper than training from scratch and typically requires less data, making it the standard approach for deploying large language models in niche applications like legal analysis or medical diagnosis.

@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /da/terms/audit/
 date: "2026-07-18T15:42:39.109889Z"
 lastmod: "2026-07-18T17:15:09.262044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En systematisk evaluering af AI-systemer for at sikre overholdelse af etiske standarder, regulatoriske krav og ydeevnebenchmark."
 ---
-
 ## Definition
 
 En AI-revision indebærer en grundig, struktureret gennemgang af maskinlæringsmodeller og deres udrulningspipelines. Den vurderer retfærdighed, gennemsigtighed, ansvarlighed og sikkerhed for at identificere potentielle bias.

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /hu/terms/overall/
 date: "2026-07-18T15:29:04.699740Z"
 lastmod: "2026-07-18T17:15:09.726254Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az átfogó (overall) az AI-rendszer aggregált teljesítményére, pontosságára vagy hatására utal minden teszteset vagy működési forgatókör tekintetében."
 ---
-
 ## Definition
 
 AI-modellek értékelésekor az 'átfogó' metrikák holisztikus képet adnak a rendszer teljesítményéről, ahelyett, hogy csak izolált komponensekre fókuszálnának. Ez magában foglalja az átfogó pontosságot, a közepes átlagos preciziót (mAP) vagy a teljes...

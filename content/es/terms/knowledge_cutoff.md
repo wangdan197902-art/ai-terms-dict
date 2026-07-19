@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /es/terms/knowledge_cutoff/
 date: "2026-07-18T10:55:33.223196Z"
 lastmod: "2026-07-18T11:44:44.822940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La fecha límite de conocimiento es la fecha específica después de la cual un modelo de lenguaje no ha sido entrenado y, por lo tanto, carece de información sobre eventos ocurridos posteriormente."
 ---
-
 ## Definition
 
 La fecha límite de conocimiento define el límite temporal de los datos de entrenamiento de un modelo de lenguaje. Cualquier información, evento o desarrollo que ocurrió después de esta fecha generalmente es desconocido para el modelo u

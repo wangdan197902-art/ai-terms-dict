@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /vi/terms/maximum_inner_product_search/
 date: "2026-07-18T16:02:50.908094Z"
 lastmod: "2026-07-18T16:38:07.780988Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật tìm kiếm tương tự vector chuyên biệt nhằm truy xuất các mục có tích vô hướng cao nhất so với một vector truy vấn."
 ---
-
 ## Definition
 
 Tìm kiếm tích vô hướng tối đa (MIPS) là một bài toán cơ bản trong truy xuất thông tin và học máy, đặc biệt quan trọng trong các hệ thống gợi ý. Không giống như các tìm kiếm dựa trên độ tương đồng cosine tiêu chuẩn chỉ đo lường góc giữa các vector, MIPS tập trung vào việc tối đa hóa giá trị tuyệt đối của tích vô hướng, điều này rất hữu ích khi xử lý các vector không được chuẩn hóa hoặc khi cần bù đắp cho các thiên kiến trong dữ liệu.

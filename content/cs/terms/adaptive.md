@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /cs/terms/adaptive/
 date: "2026-07-18T15:23:14.933046Z"
 lastmod: "2026-07-18T17:15:09.063549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Schopnost systému měnit své chování nebo parametry v reakci na měnící se podmínky."
 ---
-
 ## Definition
 
 V AI termín 'adaptivní' popisuje systémy nebo algoritmy, které dokážou dynamicky upravovat své vnitřní stavy, parametry nebo strategie na základě nových dat nebo zpětné vazby z prostředí. Tato schopnost umožňuje modelu

@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /id/terms/virtual_intelligence/
 date: "2026-07-18T16:12:47.315705Z"
 lastmod: "2026-07-18T16:38:07.517952Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Virtual Intelligence adalah istilah luas yang menggambarkan sistem AI yang beroperasi di lingkungan digital untuk mensimulasikan interaksi, pengambilan keputusan, atau otonomi mirip manusia."
 ---
-
 ## Definition
 
 Virtual Intelligence mencakup setiap sistem kecerdasan buatan yang dirancang untuk berfungsi di ruang virtual atau digital, sering kali berinteraksi dengan pengguna atau agen lain. Ini termasuk asisten virtual

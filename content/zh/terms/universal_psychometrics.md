@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /zh/terms/universal_psychometrics/
 date: "2026-07-18T11:37:26.916650Z"
 lastmod: "2026-07-18T11:44:45.566284Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "应用标准化测量技术来评估不同人群的心理特质。"
 ---
-
 ## Definition
 
 通用心理测量学涉及开发和应用评估工具，以可靠地测量人格、认知能力或情商等心理构念，并跨越不同文化背景。

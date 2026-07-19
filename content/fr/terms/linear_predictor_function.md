@@ -1,23 +1,24 @@
 ---
-title: "Fonction de prédicteur linéaire"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Fonction de prédicteur linéaire
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /fr/terms/linear_predictor_function/
-date: "2026-07-18T11:25:56.352282Z"
-lastmod: "2026-07-18T11:44:45.285004Z"
+slug: linear_predictor_function
+date: '2026-07-18T11:25:56.352282Z'
+lastmod: '2026-07-18T11:44:45.285004Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une fonction mathématique qui calcule une combinaison linéaire de variables d'entrée pour prédire un résultat."
+source: agnes_llm
+status: published
+language: fr
+description: Une fonction mathématique qui calcule une combinaison linéaire de variables
+  d'entrée pour prédire un résultat.
 ---
-
 ## Definition
 
 Dans la modélisation statistique et l'apprentissage automatique, une fonction de prédicteur linéaire représente la somme pondérée des caractéristiques d'entrée (features) plus un terme de biais. Elle constitue le composant central des modèles linéaires généralisés (MLG).

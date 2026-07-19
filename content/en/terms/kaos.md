@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /en/terms/kaos/
 date: "2026-07-18T10:03:27.085155Z"
 lastmod: "2026-07-18T11:44:44.687856Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An intelligent agent framework designed to manage complex, distributed enterprise environments through policy-based automation."
 ---
-
 ## Definition
 
 KAoS is an intelligent agent framework developed to handle the complexity of large-scale, distributed enterprise systems. It utilizes a policy-based approach where high-level management goals are translated into executable actions by autonomous agents. By monitoring system states and enforcing policies, KAoS automates configuration management, fault detection, and resource allocation. This framework enhances operational efficiency and reliability in dynamic IT infrastructures without requiring constant human intervention.

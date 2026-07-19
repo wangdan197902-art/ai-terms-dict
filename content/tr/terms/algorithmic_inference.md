@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /tr/terms/algorithmic_inference/
 date: "2026-07-18T15:40:20.391882Z"
 lastmod: "2026-07-18T16:38:07.271676Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Algoritmik çıkarım, eğitilmiş bir makine öğrenimi modelinin yeni ve daha önce görülmemiş verilere öğrenilmiş kalıpları uygulayarak tahmin veya karar verme sürecidir."
 ---
-
 ## Definition
 
 Tahmin veya puanlama olarak da bilinen çıkarım, model eğitim aşamasından sonra gerçekleşir. Algoritma girdi özelliklerini alır ve bunları iç yapısı (örneğin sinir ağındaki ağırlıklar) üzerinden işleyerek nihai çıktıyı üretir.

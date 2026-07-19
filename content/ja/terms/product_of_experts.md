@@ -1,23 +1,23 @@
 ---
-title: "エキスパートの積（Product of Experts）"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: エキスパートの積（Product of Experts）
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /ja/terms/product_of_experts/
-date: "2026-07-18T11:28:42.914042Z"
-lastmod: "2026-07-18T11:44:45.133930Z"
+slug: product_of_experts
+date: '2026-07-18T11:28:42.914042Z'
+lastmod: '2026-07-18T11:44:45.133930Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "複数の独立したエキスパートモデルの出力を乗算することで結合分布を形成する確率モデリングフレームワーク。"
+source: agnes_llm
+status: published
+language: ja
+description: 複数の独立したエキスパートモデルの出力を乗算することで結合分布を形成する確率モデリングフレームワーク。
 ---
-
 ## Definition
 
 エキスパートの積（PoE）は、単純な確率分布を組み合わせて複雑な分布を構築する方法です。「エキスパートの混合（Mixture of Experts）」が確率を平均化するのに対し、PoEは各エキスパートの出力（またはエネルギー）を乗算します。これにより、すべてのエキスパートが合意する領域に確率質量が集まり、厳格な制約を満たす生成モデルを実現します。

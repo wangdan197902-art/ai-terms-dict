@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /vi/terms/nature_machine_intelligence/
 date: "2026-07-18T16:05:00.743953Z"
 lastmod: "2026-07-18T16:38:07.786986Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tạp chí khoa học được bình duyệt do Springer Nature xuất bản, tập trung vào nghiên cứu liên ngành về trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 Nature Machine Intelligence là một tạp chí học thuật có tầm ảnh hưởng cao, chuyên đăng tải các nghiên cứu gốc về mọi khía cạnh của trí tuệ nhân tạo. Tạp chí bao quát các chủ đề từ các thuật toán cơ bản...

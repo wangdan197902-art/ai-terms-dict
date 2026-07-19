@@ -1,23 +1,24 @@
 ---
-title: "Nash"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: Nash
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /it/terms/nash/
-date: "2026-07-18T15:27:13.996357Z"
-lastmod: "2026-07-18T17:15:08.570540Z"
+slug: nash
+date: '2026-07-18T15:27:13.996357Z'
+lastmod: '2026-07-18T17:15:08.570540Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Si riferisce all'Equilibrio di Nash, uno stato nella teoria dei giochi in cui nessun giocatore può trarre vantaggio modificando le proprie strategie mentre gli altri rimangono costanti."
+source: agnes_llm
+status: published
+language: it
+description: Si riferisce all'Equilibrio di Nash, uno stato nella teoria dei giochi
+  in cui nessun giocatore può trarre vantaggio modificando le proprie strategie mentre
+  gli altri rimangono costanti.
 ---
-
 ## Definition
 
 Nell'IA, in particolare nei Sistemi Multi-Agente e nel Reinforcement Learning, l'Equilibrio di Nash descrive uno stato stabile in cui la strategia di ogni agente è ottimale date le strategie di tutti gli altri agenti. Nessun singolo agente ha incentivo a deviare.

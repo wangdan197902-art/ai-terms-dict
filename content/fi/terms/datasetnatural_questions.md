@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /fi/terms/datasetnatural_questions/
 date: "2026-07-18T15:51:54.731193Z"
 lastmod: "2026-07-18T17:15:09.400367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laaja tietojoukko avoimen alueen kysymyksiin vastaamiseen, jossa on todellisia Google Haku -käyttäjäkyselyjä, jotka on yhdistetty annotoituiksi Wikipedia-artikkeleiksi vastauksina."
 ---
-
 ## Definition
 
 Natural Questions (NQ) on Googlen esittelemä benchmark-tietojoukko, jolla edistetään tutkimusta avoimen alueen kysymyksiin vastaamisessa. Se kartoittaa todellisia, anonyymejä Google-hakukyselyitä pitkiin vastauksiin...

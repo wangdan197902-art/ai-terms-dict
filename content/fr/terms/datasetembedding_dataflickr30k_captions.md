@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /fr/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T11:11:47.240644Z"
 lastmod: "2026-07-18T11:44:45.224499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données multimodales reliant 31 000 images à des légendes générées par des humains pour entraîner des modèles d'incorporation inter-modales."
 ---
-
 ## Definition
 
 Flickr30K Captions est un jeu de données de référence largement utilisé comprenant 31 783 images, chacune annotée avec cinq phrases anglaises distinctes décrivant le contenu visuel. Il sert de ressource fondamentale pour...

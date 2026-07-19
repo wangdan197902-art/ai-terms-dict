@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /da/terms/meta/
 date: "2026-07-18T16:07:23.147011Z"
 lastmod: "2026-07-18T17:15:09.310797Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Inden for AI refererer 'meta' typisk til læring om læring eller processer på højere orden, der styrker modeltilpasning og optimering."
 ---
-
 ## Definition
 
 Præfikset 'meta' i kunstig intelligens betegner et højere abstraktionsniveau, ofte involverende selvreference eller tilsyn med kerneprocesser. Almindelige eksempler inkluderer 'meta-læring', hvor algoritmer...

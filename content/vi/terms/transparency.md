@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /vi/terms/transparency/
 date: "2026-07-18T15:37:36.574390Z"
 lastmod: "2026-07-18T16:38:07.715538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mức độ mà các quy trình ra quyết định, nguồn dữ liệu và hạn chế của một hệ thống AI được mở rộng và dễ hiểu đối với người dùng."
 ---
-
 ## Definition
 
 Tính minh bạch đảm bảo rằng các bên liên quan có thể hiểu cách một mô hình AI đưa ra kết quả của nó, qua đó thúc đẩy niềm tin và trách nhiệm giải trình. Nó bao gồm việc công khai nguồn gốc dữ liệu huấn luyện, kiến trúc mô hình và

@@ -1,23 +1,22 @@
 ---
-title: "双曲正切 (Tanh)"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: 双曲正切 (Tanh)
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /zh/terms/tanh/
-date: "2026-07-18T11:35:43.087239Z"
-lastmod: "2026-07-18T11:44:45.561267Z"
+slug: tanh
+date: '2026-07-18T11:35:43.087239Z'
+lastmod: '2026-07-18T11:44:45.561267Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Tanh（双曲正切）是一种激活函数，将输入值映射到-1到1的范围之间。"
+source: agnes_llm
+status: published
+language: zh
+description: Tanh（双曲正切）是一种激活函数，将输入值映射到-1到1的范围之间。
 ---
-
 ## Definition
 
 双曲正切（Tanh）函数是一种非线性激活函数，常用于神经网络。它将输入值压缩到(-1, 1)区间内，提供零中心的输出，这有助于加速收敛。

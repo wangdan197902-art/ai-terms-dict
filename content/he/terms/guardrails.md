@@ -1,23 +1,24 @@
 ---
-title: "מסגרות הגנה (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: מסגרות הגנה (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /he/terms/guardrails/
-date: "2026-07-18T16:03:37.388319Z"
-lastmod: "2026-07-18T17:15:09.546078Z"
+slug: guardrails
+date: '2026-07-18T16:03:37.388319Z'
+lastmod: '2026-07-18T17:15:09.546078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מנגנוני בטיחות המיועדים להגביל את פלט דגמי בינה מלאכותית כדי למנוע יצירת תוכן מזיק, משופע או לא מורשה."
+source: agnes_llm
+status: published
+language: he
+description: מנגנוני בטיחות המיועדים להגביל את פלט דגמי בינה מלאכותית כדי למנוע יצירת
+  תוכן מזיק, משופע או לא מורשה.
 ---
-
 ## Definition
 
 מסגרות הגנה מתייחסות לקבוצה של בקרי תוכנה ושכבות אכיפת מדיניות המשולבות באפליקציות בינה מלאכותית, ובפרט במודלים שפה גדולים (LLMs), כדי להבטיח התנהגות בטוחה ועומדת בדרישות הרגולציה. הן פועלות כמסננות המנטרות קלט ופלט, חוסמות בקשות זדוניות ומאכופות כללי התנהגות מקובלים, ובכך מפחיתות סיכונים הקשורים להטיות, לשימוש לרעה או ליציאת דברים מהקשר.

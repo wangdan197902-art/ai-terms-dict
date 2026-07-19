@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /ja/terms/constitutional_ai/
 date: "2026-07-18T11:08:51.058142Z"
 lastmod: "2026-07-18T11:44:45.080347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "事前に定義された原則に基づいた自己批判を通じて、AIモデルが安全ガイドラインに従うように訓練する方法。"
 ---
-
 ## Definition
 
 憲章型AIは、すべてのステップで人間のフィードバックに依存することなく、大規模言語モデルを人間の価値観と整合させるためのフレームワークです。これは、高レベルの原則からなる「憲章」を作成し、モデルがその原則に基づいて自己修正・自己評価を行うプロセスを含みます。

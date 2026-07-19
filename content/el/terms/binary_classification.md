@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /el/terms/binary_classification/
 date: "2026-07-18T15:53:53.683587Z"
 lastmod: "2026-07-18T17:15:09.886133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Μια εργασία εποπτευόμενης μάθησης όπου ο στόχος είναι να προβλεφθεί μία από δύο δυνατές τάξεις για κάθε εισερχόμενο δείγμα."
 ---
-
 ## Definition
 
 Η διωνυμική ταξινόμηση είναι ένα θεμελιώδες πρόβλημα μηχανικής μάθησης όπου η μεταβλητή εξόδου είναι κατηγορική με ακριβώς δύο δυνατές εκβάσεις, όπως αληθές/ψευδές ή spam/όχι spam. Αλγόριθμοι όπως η λογιστική παλινδρόμηση χρησιμοποιούνται συχνά.

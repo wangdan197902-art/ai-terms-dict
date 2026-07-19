@@ -1,23 +1,24 @@
 ---
-title: "Többváltozós adaptív regressziós spline"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: Többváltozós adaptív regressziós spline
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /hu/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:14:14.404738Z"
-lastmod: "2026-07-18T17:15:09.816272Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:14:14.404738Z'
+lastmod: '2026-07-18T17:15:09.816272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy nem paraméteres regressziós technika, amely automatikusan kiválasztja a bázisfüggvényeket a komplex kapcsolatok modellezéséhez."
+source: agnes_llm
+status: published
+language: hu
+description: Egy nem paraméteres regressziós technika, amely automatikusan kiválasztja
+  a bázisfüggvényeket a komplex kapcsolatok modellezéséhez.
 ---
-
 ## Definition
 
 A Multivariate Adaptive Regression Splines (MARS) egy rugalmas regressziós módszer, amely darabonként lineáris bázisfüggvények illesztésével modellezi a komplex nemlineáris kapcsolatokat. Automatikusan kiválasztja a legmegfelelőbb függvényeket.

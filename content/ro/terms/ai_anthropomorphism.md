@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /ro/terms/ai_anthropomorphism/
 date: "2026-07-18T15:41:38.414937Z"
 lastmod: "2026-07-18T17:15:09.622104Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Tendința oamenilor de a atribui caracteristici, emoții sau intenții umane sistemelor AI."
 ---
-
 ## Definition
 
 Antropomorfismul AI se referă la fenomenul psihologic prin care utilizatorii proiectează trăsături umane asupra entităților non-umane, cum ar fi chatbot-urile sau roboții. Acest lucru poate duce la așteptări nerealiste privind capacitățile și emoțiile sistemului.

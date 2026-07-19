@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /pl/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:40:53.609999Z"
 lastmod: "2026-07-18T17:15:08.846435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wykorzystanie narzędzi SI do usprawnienia procesów rekrutacyjnych, w tym weryfikacji CV, dopasowania kandydatów i analizy wywiadów."
 ---
-
 ## Definition
 
 SI w rekrutacji wykorzystuje algorytmy do automatyzacji i ulepszania różnych etapów cyklu życia rekrutacji. Narzędzia analizują CV pod kątem istotności słów kluczowych, oceniają dopasowanie kandydatów poprzez modelowanie predykcyjne oraz...

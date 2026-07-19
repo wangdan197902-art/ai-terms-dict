@@ -1,23 +1,24 @@
 ---
-title: "Hồi quy Spike-and-slab"
-term_id: "spike_and_slab_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "bayesian", "regression"]
+title: Hồi quy Spike-and-slab
+term_id: spike_and_slab_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- bayesian
+- Regression
 difficulty: 4
 weight: 1
-slug: "spike_and_slab_regression"
-aliases:
-  - /vi/terms/spike_and_slab_regression/
-date: "2026-07-18T16:12:58.594161Z"
-lastmod: "2026-07-18T16:38:07.807529Z"
+slug: spike_and_slab_regression
+date: '2026-07-18T16:12:58.594161Z'
+lastmod: '2026-07-18T16:38:07.807529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp chọn biến Bayes sử dụng tiên nghiệm hỗn hợp để phân biệt giữa các hệ số bằng không và khác không."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp chọn biến Bayes sử dụng tiên nghiệm hỗn hợp để phân biệt
+  giữa các hệ số bằng không và khác không.
 ---
-
 ## Definition
 
 Hồi quy Spike-and-slab là một kỹ thuật thống kê Bayes được sử dụng cho việc chọn biến và mô hình hóa thưa. Nó sử dụng một phân phối tiên nghiệm hỗn hợp gồm hai thành phần: một 'spike' (thường là một phân phối Dirac tại 0 hoặc có phương sai rất nhỏ) đại diện cho các hệ số bằng không, và một 'slab' (thường là một phân phối chuẩn rộng) đại diện cho các hệ số khác không. Phương pháp này cho phép mô hình tự động loại bỏ các biến không liên quan trong khi vẫn giữ lại những biến có ý nghĩa thống kê.

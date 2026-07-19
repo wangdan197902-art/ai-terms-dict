@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /fr/terms/rademacher_complexity/
 date: "2026-07-18T11:35:52.926492Z"
 lastmod: "2026-07-18T11:44:45.319996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une mesure statistique utilisée en théorie de l'apprentissage pour quantifier la richesse d'une classe de fonctions par sa capacité à ajuster du bruit aléatoire."
 ---
-
 ## Definition
 
 La complexité de Rademacher évalue dans quelle mesure une classe d'hypothèses peut corrélé avec des étiquettes aléatoires (bruit). Elle sert de proxy pour la capacité ou la flexibilité du modèle. Une complexité plus faible suggère une meilleure généralisation.

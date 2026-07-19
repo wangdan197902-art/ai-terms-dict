@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /ar/terms/qwen3_5_moe/
 date: "2026-07-18T16:18:41.290560Z"
 lastmod: "2026-07-18T17:15:08.542223Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نسخة افتراضية أو مستقبلية من سلسلة Qwen3 تعتمد على مزيج الخبراء المتناثر (Sparse Mixture-of-Experts)، مصممة لتحقيق كفاءة عالية."
 ---
-
 ## Definition
 
 يشير هذا المصطلح إلى بنية متخصصة ضمن عائلة Qwen، والتي تستفيد على الأرجح من تصميم مزيج الخبراء (MoE). في مثل هذه النماذج، يتم تفعيل مجموعة فرعية فقط من معلمات الشبكة العصبية (الخبراء) لتقليل استهلاك الموارد والحسابات الزائدة.

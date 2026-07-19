@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /zh/terms/semantic_folding/
 date: "2026-07-18T11:33:07.044634Z"
 lastmod: "2026-07-18T11:44:45.552796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种将高维语义表示映射到低维空间同时保留关系结构的技术。"
 ---
-
 ## Definition
 
 语义折叠是指将复杂的高维向量嵌入压缩为更易管理的低维表示的过程，且不会造成语义意义的显著丢失。

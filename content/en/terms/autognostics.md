@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /en/terms/autognostics/
 date: "2026-07-18T09:47:03.668488Z"
 lastmod: "2026-07-18T11:44:44.644663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The capability of an AI system to self-diagnose its internal state, performance issues, or errors without human intervention."
 ---
-
 ## Definition
 
 Autognostics refers to the self-monitoring and self-repair mechanisms embedded within intelligent systems. It allows AI agents to detect anomalies, diagnose root causes of failures, and potentially correct themselves. This concept is vital for developing robust, autonomous systems that can operate reliably in dynamic environments. By continuously assessing their own health and accuracy, these systems reduce downtime and maintenance costs while enhancing overall operational resilience.

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /hu/terms/score/
 date: "2026-07-18T15:31:06.422324Z"
 lastmod: "2026-07-18T17:15:09.729844Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A pontszám egy numerikus érték, amely a modell előrejelzésének vagy megoldásának minőségét, megbízhatóságát vagy megfelelőségét reprezentálja."
 ---
-
 ## Definition
 
 A pontszámok kvantifikálják, hogy mennyire jól teljesít egy gépi tanulási modell specifikus metrikák, például pontosság, precizitás vagy jutalom szempontjából. Az erősített tanulásban a pontszámok a kumulatív jutalmakat jelzik, míg a klaszterezésnél

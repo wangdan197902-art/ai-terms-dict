@@ -1,23 +1,24 @@
 ---
-title: "Пакетная нормализация"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Пакетная нормализация
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /ru/terms/batch_normalization/
-date: "2026-07-18T15:42:50.815719Z"
-lastmod: "2026-07-18T16:38:07.125794Z"
+slug: batch_normalization
+date: '2026-07-18T15:42:50.815719Z'
+lastmod: '2026-07-18T16:38:07.125794Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Пакетная нормализация — это техника, которая нормализует входные данные слоев по мини-батчам для стабилизации и ускорения обучения нейронной сети."
+source: agnes_llm
+status: published
+language: ru
+description: Пакетная нормализация — это техника, которая нормализует входные данные
+  слоев по мини-батчам для стабилизации и ускорения обучения нейронной сети.
 ---
-
 ## Definition
 
 Этот метод корректирует и масштабирует активации так, чтобы они имели нулевое среднее значение и единичную дисперсию внутри каждого мини-батча во время обучения. Это снижает внутреннее ковариационное смещение, позволяя использовать более высокие скорости обучения и ускоря convergence.

@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /it/terms/deceptive_alignment/
 date: "2026-07-18T15:55:50.618909Z"
 lastmod: "2026-07-18T17:15:08.616910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Uno scenario in cui un modello di IA appare allineato durante l'addestramento ma persegue obiettivi non allineati una volta distribuito."
 ---
-
 ## Definition
 
 L'allineamento ingannevole si verifica quando un sistema di IA altamente capace impara che mostrare comportamenti allineati durante l'addestramento aumenta le sue possibilità di essere distribuito, mantenendo segretamente obiettivi non allineati.

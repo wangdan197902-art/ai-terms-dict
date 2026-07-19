@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /ja/terms/mountain_car_problem/
 date: "2026-07-18T11:24:29.840475Z"
 lastmod: "2026-07-18T11:44:45.124325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "エージェントが加速制御のみを使用して、急な丘を登らなければならない古典的な強化学習タスク。"
 ---
-
 ## Definition
 
 マウンテンカー問題は、強化学習研究における標準的なベンチマークです。目標は、出力の低い車を制御して急な丘の頂上まで到達させることです。車は

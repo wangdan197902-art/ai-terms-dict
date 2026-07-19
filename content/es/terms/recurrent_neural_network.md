@@ -1,23 +1,24 @@
 ---
-title: "Red Neuronal Recurrente"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Red Neuronal Recurrente
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /es/terms/recurrent_neural_network/
-date: "2026-07-18T10:31:53.811743Z"
-lastmod: "2026-07-18T11:44:44.766278Z"
+slug: recurrent_neural_network
+date: '2026-07-18T10:31:53.811743Z'
+lastmod: '2026-07-18T11:44:44.766278Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una RNN es una clase de redes neuronales artificiales donde las conexiones entre nodos forman un grafo dirigido a lo largo de una secuencia temporal."
+source: agnes_llm
+status: published
+language: es
+description: Una RNN es una clase de redes neuronales artificiales donde las conexiones
+  entre nodos forman un grafo dirigido a lo largo de una secuencia temporal.
 ---
-
 ## Definition
 
 Las RNN están diseñadas para reconocer patrones en secuencias de datos, como texto, genomas, escritura a mano o palabras habladas. A diferencia de las redes feedforward, tienen memoria interna que captura informació

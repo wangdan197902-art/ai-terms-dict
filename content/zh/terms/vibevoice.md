@@ -7,8 +7,6 @@ tags: ["audio", "speech", "emotion", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "vibevoice"
-aliases:
-  - /zh/terms/vibevoice/
 date: "2026-07-18T11:37:39.249134Z"
 lastmod: "2026-07-18T11:44:45.566510Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Vibevoice 指的是一种 AI 生成的语音合成风格，优先考虑自然、富有情感且具备语境意识的语音表达，而非僵硬的机械精度。"
 ---
-
 ## Definition
 
 Vibevoice 是一种概念性或品牌化的文本转语音（TTS）技术方法，强调捕捉人类语音的‘氛围’或情感细微差别。与传统可能听起来单调的 TTS 不同，

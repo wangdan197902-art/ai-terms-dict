@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /hu/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:20:53.248794Z"
 lastmod: "2026-07-18T17:15:09.828698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy együttműködő tanulási paradigm, ahol az emberek és a gépek folyamatosan tanítják és tanulnak egymástól a teljesítmény javítása érdekében."
 ---
-
 ## Definition
 
 Ez a megközelítés túlmutat az egyszerű emberi felügyelettel ellátott címkézésen. Kétirányú tudástranszfert foglal magában: az emberek kijavítják a modell hibáit, miközben a modell segít az embereknek minták felismerésében vagy automatizálásban...

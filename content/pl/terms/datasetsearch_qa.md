@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /pl/terms/datasetsearch_qa/
 date: "2026-07-18T15:49:50.605386Z"
 lastmod: "2026-07-18T17:15:08.863633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zbiór danych skupiający się na zadaniach odpowiadania na pytania, opartych na logach wyszukiwarek lub zapytaniach internetowych, kładący nacisk na rzeczywiste wyszukiwanie informacji."
 ---
-
 ## Definition
 
 Zbiory danych Search QA zazwyczaj składają się z par zapytań wyszukiwania i odpowiednich fragmentów odpowiedzi lub dokumentów wyodrębnionych z wyników wyszukiwarek. Są one kluczowe do trenowania modeli rozumiejących intencje użytkowników i skutecznie znajdujących informacje.

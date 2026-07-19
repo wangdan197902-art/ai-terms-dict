@@ -1,23 +1,23 @@
 ---
-title: "Zamansal"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Zamansal
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /tr/terms/temporal/
-date: "2026-07-18T15:30:06.545562Z"
-lastmod: "2026-07-18T16:38:07.245372Z"
+slug: temporal
+date: '2026-07-18T15:30:06.545562Z'
+lastmod: '2026-07-18T16:38:07.245372Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Zamansal, zaman dizilerine ilişkin olup verilerin zaman içinde nasıl değiştiğini veya bağımlılıkların nasıl evrildiğini odak noktasına alır."
+source: agnes_llm
+status: published
+language: tr
+description: Zamansal, zaman dizilerine ilişkin olup verilerin zaman içinde nasıl
+  değiştiğini veya bağımlılıkların nasıl evrildiğini odak noktasına alır.
 ---
-
 ## Definition
 
 Yapay zekadaki zamansal kavramlar, borsadaki fiyatlar, sensör okumaları veya doğal dil cümleleri gibi zaman içinde sıralanmış veri noktalarını analiz etmeyi içerir. Zamansal verileri işleyen modeller, sıra düzenini ve zaman aralıklarını hesaba katmak zorundadır...

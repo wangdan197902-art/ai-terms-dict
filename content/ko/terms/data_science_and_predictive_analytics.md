@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /ko/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:47:25.983488Z"
 lastmod: "2026-07-18T16:38:06.824411Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "이 분야는 통계 분석과 머신러닝을 결합하여 데이터에서 통찰력을 추출하고 미래 사건이나 행동을 예측합니다."
 ---
-
 ## Definition
 
 데이터 과학은 구조화되고 비구조화된 데이터에서 지식을 추출하는 학제간 과정을 포함하며, 예측 분석은 특히 과거 데이터를 사용하여 미래의 결과를 예측하는 데 중점을 둡니다.

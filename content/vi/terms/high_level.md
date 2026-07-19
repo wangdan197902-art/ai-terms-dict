@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /vi/terms/high_level/
 date: "2026-07-18T15:30:58.085023Z"
 lastmod: "2026-07-18T16:38:07.701548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các đại diện trừu tượng hoặc giao diện lập trình ẩn đi các chi tiết triển khai cấp thấp khỏi người dùng."
 ---
-
 ## Definition
 
 Trong AI, 'cấp cao' đề cập đến các lớp trừu tượng đơn giản hóa các quy trình phức tạp. Các ngôn ngữ cấp cao (như Python) hoặc API cho phép nhà phát triển xây dựng mô hình mà không cần quản lý bộ nhớ hoặc chi tiết phần cứng. Điều này tăng năng suất phát triển nhưng có thể đánh đổi bằng hiệu suất tối ưu hóa thấp hơn so với cấp thấp.

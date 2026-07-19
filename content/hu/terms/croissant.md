@@ -1,23 +1,24 @@
 ---
-title: "Croissant"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: Croissant
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /hu/terms/croissant/
-date: "2026-07-18T15:52:01.961866Z"
-lastmod: "2026-07-18T17:15:09.766552Z"
+slug: croissant
+date: '2026-07-18T15:52:01.961866Z'
+lastmod: '2026-07-18T17:15:09.766552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Croissant egy nyílt metaadatformátum adatbázisok leírására, amely elősegíti az felfedezhetőséget és az interoperabilitást az AI területén."
+source: agnes_llm
+status: published
+language: hu
+description: A Croissant egy nyílt metaadatformátum adatbázisok leírására, amely elősegíti
+  az felfedezhetőséget és az interoperabilitást az AI területén.
 ---
-
 ## Definition
 
 Az MLCommons kezdeményezés részeként kifejlesztett Croissant a JSON-LD formátumot használja az adatbázisok szabványosított leírására, beleértve azok szerkezetét, hivatkozásait és licencelését. Célja a törékeny.

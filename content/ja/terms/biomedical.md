@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /ja/terms/biomedical/
 date: "2026-07-18T11:06:38.752234Z"
 lastmod: "2026-07-18T11:44:45.074281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "自然科学を医療実践に応用することに関連し、健康データの計算分析を含むことが多い。"
 ---
-
 ## Definition
 
 生体医学とは、生物学、医学、技術の交差点を指し、特に診断ツール、治療法、データ分析方法の開発において重要です。AIの文脈では、機械学習や深層学習を用いて医療画像の解析や疾患の予測、創薬プロセスの加速などを行っています。

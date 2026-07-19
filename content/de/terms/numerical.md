@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /de/terms/numerical/
 date: "2026-07-18T10:52:17.985072Z"
 lastmod: "2026-07-18T11:44:44.879534Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf Zahlen oder mathematische Berechnungen im Gegensatz zu symbolischer Logik oder Text."
 ---
-
 ## Definition
 
 Im Kontext von KI und Data Science bezieht sich numerisch auf Datentypen oder Methoden, die quantitative Werte wie Ganzzahlen, Gleitkommazahlen und Dezimalzahlen umfassen. Im Gegensatz zu kategorialen oder textuellen Daten sind numerische Daten messbar.

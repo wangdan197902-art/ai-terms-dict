@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /zh/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T11:13:38.832346Z"
 lastmod: "2026-07-18T11:44:45.483896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "源自雅虎问答的数据集，包含按特定主题分类的用户生成问题和答案，用于语义匹配和分类任务。"
 ---
-
 ## Definition
 
 Yahoo Answers Topics 数据集是更大的雅虎问答档案的子集，专注于组织成不同主题类别的问题和答案。它常用于文本分类、语义相似性分析和非正式语言模式研究。

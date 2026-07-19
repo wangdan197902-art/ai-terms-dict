@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /es/terms/in_context_learning/
 date: "2026-07-18T07:40:08.332480Z"
 lastmod: "2026-07-18T11:44:44.582135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una técnica donde los modelos aprenden a realizar tareas observando ejemplos proporcionados en el prompt."
 ---
-
 ## Definition
 
 El aprendizaje en contexto (ICL) permite que los grandes modelos de lenguaje se adapten a nuevas tareas sin actualizar sus pesos. Al proporcionar pares entrada-salida dentro del contexto del prompt, el modelo infiere el patrón y realiza la tarea inmediatamente.

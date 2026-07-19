@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /fi/terms/exbert/
-date: "2026-07-18T15:57:02.510150Z"
-lastmod: "2026-07-18T17:15:09.409767Z"
+slug: exbert
+date: '2026-07-18T15:57:02.510150Z'
+lastmod: '2026-07-18T17:15:09.409767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Menetelmä BERT-mallin ennusteiden selittämiseksi tunnistamalla, mitkä huomio-otsakkeet ja kerrokset vaikuttavat eniten tiettyihin tuloksiin."
+source: agnes_llm
+status: published
+language: fi
+description: Menetelmä BERT-mallin ennusteiden selittämiseksi tunnistamalla, mitkä
+  huomio-otsakkeet ja kerrokset vaikuttavat eniten tiettyihin tuloksiin.
 ---
-
 ## Definition
 
 ExBERT tarjoaa tulkitsemiskyvyn BERT-transformaattorimallille analysoimalla yksittäisten huomio-otsakkeiden merkitystä eri kerroksissa. Se käyttää tekniikoita kuten gradienttipohjaista attribuointia tai kerrosten aktivointien analyysiä ymmärtääkseen, miten malli prosessoi tekstiä.

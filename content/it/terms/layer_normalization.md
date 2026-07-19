@@ -1,23 +1,24 @@
 ---
-title: "Normalizzazione di Livello"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Normalizzazione di Livello
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /it/terms/layer_normalization/
-date: "2026-07-18T16:07:27.100197Z"
-lastmod: "2026-07-18T17:15:08.642086Z"
+slug: layer_normalization
+date: '2026-07-18T16:07:27.100197Z'
+lastmod: '2026-07-18T17:15:08.642086Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica che normalizza le attivazioni di uno strato di rete neurale attraverso la dimensione delle funzionalità per ogni singolo campione."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica che normalizza le attivazioni di uno strato di rete neurale
+  attraverso la dimensione delle funzionalità per ogni singolo campione.
 ---
-
 ## Definition
 
 La Normalizzazione di Livello stabilizza l'addestramento riducendo lo spostamento della covarianza interna, risultando particolarmente efficace nelle architetture ricorrenti e nei transformer. A differenza della Batch Normalization, che dipende dalle statistiche del batch, questa metodo calcola la media e la varianza su tutte le funzionalità di un singolo campione.

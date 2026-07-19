@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /pl/terms/llm/
 date: "2026-07-18T15:26:49.337484Z"
 lastmod: "2026-07-18T17:15:08.813838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model uczenia głębokiego trenowany na ogromnych korpusach tekstowych w celu zrozumienia i generowania języka przypominającego ludzki."
 ---
-
 ## Definition
 
 Duże Modele Językowe (LLM) to zaawansowane systemy sztucznej inteligencji oparte na architekturze transformera, trenowane na masowych zbiorach danych zawierających tekst i kod. Uczą się one statystycznych wzorców występujących w języku

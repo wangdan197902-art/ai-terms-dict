@@ -1,23 +1,25 @@
 ---
-title: "Basis Pengetahuan"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Basis Pengetahuan
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /id/terms/knowledge_base/
-date: "2026-07-18T15:34:55.886009Z"
-lastmod: "2026-07-18T16:38:07.415129Z"
+slug: knowledge_base
+date: '2026-07-18T15:34:55.886009Z'
+lastmod: '2026-07-18T16:38:07.415129Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah repositori terpusat dari informasi terstruktur yang digunakan untuk mendukung pengambilan keputusan dan generasi berbasis pengambilan kembali (retrieval-augmented generation) dalam aplikasi AI."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah repositori terpusat dari informasi terstruktur yang digunakan
+  untuk mendukung pengambilan keputusan dan generasi berbasis pengambilan kembali
+  (retrieval-augmented generation) dalam aplikasi AI.
 ---
-
 ## Definition
 
 Basis pengetahuan berfungsi sebagai perpustakaan digital yang berisi data, dokumen, atau fakta yang dikurasi, yang dapat ditanyakan oleh sistem AI untuk memberikan respons yang akurat dan sadar konteks. Dalam arsitektur modern seperti Retrieval-Augmented Generation (RAG), basis pengetahuan memungkinkan model bahasa besar untuk mengakses informasi terkini dan spesifik domain.

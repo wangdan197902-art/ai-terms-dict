@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /nl/terms/alphachip/
-date: "2026-07-18T15:42:12.631625Z"
-lastmod: "2026-07-18T17:15:08.716200Z"
+slug: alphachip
+date: '2026-07-18T15:42:12.631625Z'
+lastmod: '2026-07-18T17:15:08.716200Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een door AI aangedreven chipontwerptool ontwikkeld door Google DeepMind die versterkend leren gebruikt om lay-outs van geïntegreerde schakelingen te optimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: Een door AI aangedreven chipontwerptool ontwikkeld door Google DeepMind
+  die versterkend leren gebruikt om lay-outs van geïntegreerde schakelingen te optimaliseren.
 ---
-
 ## Definition
 
 AlphaChip is een gespecialiseerd AI-systeem ontworpen om het plaatsen en routeren van componenten op microchips te automatiseren en te verbeteren. Door diep versterkend leren toe te passen, wordt de tijd aanzienlijk gereduceerd.

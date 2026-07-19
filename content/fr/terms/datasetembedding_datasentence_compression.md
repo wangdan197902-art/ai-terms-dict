@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /fr/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T11:11:47.240687Z"
 lastmod: "2026-07-18T11:44:45.225474Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données contenant des phrases originales et leurs versions compressées pour entraîner des modèles à préserver l'information."
 ---
-
 ## Definition
 
 Les jeux de données de compression de phrases consistent en des paires où la phrase cible est une version raccourcie de la phrase source, conservant le sens principal tout en supprimant les informations redondantes. Ces jeux de données sont...

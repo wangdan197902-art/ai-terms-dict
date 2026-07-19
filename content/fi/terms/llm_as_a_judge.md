@@ -1,23 +1,24 @@
 ---
-title: "LLM-tuomari"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM-tuomari
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /fi/terms/llm_as_a_judge/
-date: "2026-07-18T16:05:40.525865Z"
-lastmod: "2026-07-18T17:15:09.426572Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:05:40.525865Z'
+lastmod: '2026-07-18T17:15:09.426572Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Menetelmä suurten kielimallien (LLM) tulosten arviointiin käyttämällä toista LLM:tä vastausten pisteytiseen tai sijoittamiseen kriteerien perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Menetelmä suurten kielimallien (LLM) tulosten arviointiin käyttämällä
+  toista LLM:tä vastausten pisteytiseen tai sijoittamiseen kriteerien perusteella.
 ---
-
 ## Definition
 
 LLM-tuomari on arviointiparadigma, jossa suuri kielimalli toimii automaattisena arvioijana muiden mallien tuotosten laadulle. Sen sijaan, että luotettaisiin yksinomaan ihmisten tekemiin merkintöihin tai tiukoihin sääntöihin, LLM arvioi vastauksia kontekstin ja laatukriteerien perusteella.

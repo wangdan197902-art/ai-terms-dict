@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /sv/terms/loop/
 date: "2026-07-18T15:28:31.265788Z"
 lastmod: "2026-07-18T17:15:08.945731Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En programmeringskonstruktion som upprepar en kodblock flera gånger tills ett villkor är uppfyllt."
 ---
-
 ## Definition
 
 En grundläggande kontrollflödesstruktur inom datavetenskap och AI-utveckling, där en loop gör det möjligt för algoritmer att iterera genom dataset, utföra upprepade beräkningar eller köra träningsepocher. Vanliga typer inkluderar

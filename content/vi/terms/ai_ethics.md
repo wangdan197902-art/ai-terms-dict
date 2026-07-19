@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /vi/terms/ai_ethics/
 date: "2026-07-18T15:33:49.395146Z"
 lastmod: "2026-07-18T16:38:07.706141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nghiên cứu về các vấn đề đạo đức và hệ quả phát sinh từ việc phát triển và triển khai các hệ thống trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 Đạo đức AI bao gồm khung nguyên tắc và tiêu chuẩn được thiết kế để đảm bảo rằng các công nghệ trí tuệ nhân tạo được phát triển và sử dụng một cách có trách nhiệm. Nó giải quyết các mối quan tâm quan trọng như...

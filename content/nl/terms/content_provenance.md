@@ -1,23 +1,24 @@
 ---
-title: "Inhoudelijke afkomst"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Inhoudelijke afkomst
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /nl/terms/content_provenance/
-date: "2026-07-18T15:48:11.209173Z"
-lastmod: "2026-07-18T17:15:08.728814Z"
+slug: content_provenance
+date: '2026-07-18T15:48:11.209173Z'
+lastmod: '2026-07-18T17:15:08.728814Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het verifieerbare bewijs van de oorsprong, geschiedenis en eigendom van een digitaal object."
+source: agnes_llm
+status: published
+language: nl
+description: Het verifieerbare bewijs van de oorsprong, geschiedenis en eigendom van
+  een digitaal object.
 ---
-
 ## Definition
 
 Inhoudelijke afkomst verwijst naar de documentatie en verificatie van waar digitale inhoud vandaan komt, hoe deze is gemaakt en wie er in de loop van de tijd wijzigingen heeft aangebracht. In de context van kunstmatige intelligentie is dit cruciaal voor het bestrijden van misleiding en het waarborgen van vertrouwen.

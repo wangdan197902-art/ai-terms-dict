@@ -1,23 +1,24 @@
 ---
-title: "Conditioneel Willekeurig Veld"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Conditioneel Willekeurig Veld
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /nl/terms/conditional_random_field/
-date: "2026-07-18T15:47:12.565527Z"
-lastmod: "2026-07-18T17:15:08.728163Z"
+slug: conditional_random_field
+date: '2026-07-18T15:47:12.565527Z'
+lastmod: '2026-07-18T17:15:08.728163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een Conditioneel Willekeurig Veld is een discriminerend probabilistisch model dat wordt gebruikt voor gestructureerde voorspellingstaken, zoals sequentielabeling."
+source: agnes_llm
+status: published
+language: nl
+description: Een Conditioneel Willekeurig Veld is een discriminerend probabilistisch
+  model dat wordt gebruikt voor gestructureerde voorspellingstaken, zoals sequentielabeling.
 ---
-
 ## Definition
 
 Conditioneel Willekeurige Velden (CRF's) zijn een klasse van discriminerende modellen die veel worden gebruikt in natuurlijke taalverwerking en bio-informatica. In tegenstelling tot generatieve modellen modelleren CRF's direct de conditionele waarschijnlijkheid van labels gegeven de invoer, wat leidt tot betere prestaties bij het modelleren van afhankelijkheden tussen opeenvolgende labels.

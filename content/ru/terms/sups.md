@@ -1,23 +1,25 @@
 ---
-title: "SUPS"
-term_id: "sups"
-category: "basic_concepts"
-subcategory: ""
-tags: ["acronym", "learning_paradigms", "research"]
+title: SUPS
+term_id: sups
+category: basic_concepts
+subcategory: ''
+tags:
+- acronym
+- Learning Paradigms
+- research
 difficulty: 4
 weight: 1
-slug: "sups"
-aliases:
-  - /ru/terms/sups/
-date: "2026-07-18T16:13:37.745495Z"
-lastmod: "2026-07-18T16:38:07.199834Z"
+slug: sups
+date: '2026-07-18T16:13:37.745495Z'
+lastmod: '2026-07-18T16:38:07.199834Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В контексте ИИ и машинного обучения SUPS часто относится к гибридным системам контролируемого и неконтролируемого обучения или специфическим схемам наборов данных, хотя этот термин менее стандартизиро"
+source: agnes_llm
+status: published
+language: ru
+description: В контексте ИИ и машинного обучения SUPS часто относится к гибридным
+  системам контролируемого и неконтролируемого обучения или специфическим схемам наборов
+  данных, хотя этот термин менее стандартизиро
 ---
-
 ## Definition
 
 SUPS — это аббревиатура, значение которой может варьироваться в зависимости от контекста, но она часто встречается в специальной литературе по ИИ, относящейся к подходам гибридного обучения или специфическим структурам данных. Она может обозначать системы, которые комбинируют...

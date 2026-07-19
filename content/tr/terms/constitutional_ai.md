@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /tr/terms/constitutional_ai/
 date: "2026-07-18T15:46:04.805892Z"
 lastmod: "2026-07-18T16:38:07.286073Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI modellerini, önceden tanımlanmış ilkeler setine dayalı öz-düzeltme yoluyla güvenlik yönergelerini takip edecek şekilde eğitmek için bir yöntem."
 ---
-
 ## Definition
 
 Anayasal Yapay Zeka, büyük dil modellerini insan değerleriyle hizalamak için her adımda yalnızca insan geri bildirimine dayanmayan bir çerçevedir. Yüksek düzeyde ilkelerden oluşan bir 'anayasa' oluşturmayı ve modeli bu ilkeler doğrultusunda öz-düzeltmeye teşvik etmeyi içerir.

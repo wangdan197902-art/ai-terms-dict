@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /nl/terms/united_states_tech_force/
 date: "2026-07-18T16:21:12.648158Z"
 lastmod: "2026-07-18T17:15:08.796081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een demografische en economische term die verwijst naar de collectieve beroepsbevolking die technologische innovatie in de VS aandrijft."
 ---
-
 ## Definition
 
 De term 'Amerikaanse Tech-Werkkracht' duidt over het algemeen op het grote segment van de Amerikaanse arbeidsmarkt dat werkzaam is in technologiesectoren, waaronder software-engineering, datawetenschap en hardwareproductie...

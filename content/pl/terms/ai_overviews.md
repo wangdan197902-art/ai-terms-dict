@@ -1,23 +1,24 @@
 ---
-title: "Podsumowania AI"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Podsumowania AI
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /pl/terms/ai_overviews/
-date: "2026-07-18T15:37:48.840953Z"
-lastmod: "2026-07-18T17:15:08.839099Z"
+slug: ai_overviews
+date: '2026-07-18T15:37:48.840953Z'
+lastmod: '2026-07-18T17:15:08.839099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Zsyntezyzowane odpowiedzi generowane przez modele AI, które agregują informacje z wielu źródeł dla szybkiego zrozumienia."
+source: agnes_llm
+status: published
+language: pl
+description: Zsyntezyzowane odpowiedzi generowane przez modele AI, które agregują
+  informacje z wielu źródeł dla szybkiego zrozumienia.
 ---
-
 ## Definition
 
 Podsumowania AI to skondensowane streszczenia tworzone przez duże modele językowe, które agregują i syntetyzują dane z różnych źródeł internetowych lub baz danych. W przeciwieństwie do tradycyjnych wyników wyszukiwania wyświetlających listę linków, te podsumowania dostarczają bezpośredniej odpowiedzi.

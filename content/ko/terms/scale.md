@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /ko/terms/scale/
 date: "2026-07-18T15:28:38.217051Z"
 lastmod: "2026-07-18T16:38:06.783382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "기계 학습 모델에 사용되는 데이터, 파라미터 또는 컴퓨팅 자원의 크기를 의미합니다."
 ---
-
 ## Definition
 
 인공지능에서 규모(Scale)는 일반적으로 성능 향상을 위해 데이터셋 크기, 모델 파라미터 수 또는 컴퓨팅 파워를 증가시키는 것을 의미합니다. 이 개념은 대규모 데이터와 모델을 활용하는 딥러닝의 핵심입니다.

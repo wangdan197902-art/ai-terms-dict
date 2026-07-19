@@ -1,23 +1,23 @@
 ---
-title: "אנונימיזציה"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: אנונימיזציה
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /he/terms/anonymization/
-date: "2026-07-18T15:42:09.019274Z"
-lastmod: "2026-07-18T17:15:09.512054Z"
+slug: anonymization
+date: '2026-07-18T15:42:09.019274Z'
+lastmod: '2026-07-18T17:15:09.512054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך הסרת מידע מזהה אישית ממערכי נתונים כדי להגן על פרטיותם של היחידים."
+source: agnes_llm
+status: published
+language: he
+description: תהליך הסרת מידע מזהה אישית ממערכי נתונים כדי להגן על פרטיותם של היחידים.
 ---
-
 ## Definition
 
 אנונימיזציה כוללת שינוי הנתונים כך שלא ניתן יהיה עוד לקשר אותם לאדם ספציפי ללא מידע נוסף. טכניקה זו קריטית בלמידת מכונה בעת טיפול בנתונים רגישים.

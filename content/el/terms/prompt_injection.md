@@ -1,23 +1,25 @@
 ---
-title: "Έγχυση Εντολής"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Έγχυση Εντολής
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /el/terms/prompt_injection/
-date: "2026-07-18T15:43:02.240044Z"
-lastmod: "2026-07-18T17:15:09.869320Z"
+slug: prompt_injection
+date: '2026-07-18T15:43:02.240044Z'
+lastmod: '2026-07-18T17:15:09.869320Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια επιθετική επίθεση όπου κακόβουλα εισερχόμενα δεδομένα χειραγωγούν ένα μοντέλο AI για να παρακάμψουν φίλτρα ασφαλείας ή να εκτελέσουν μη προγραμματισμένες εντολές."
+source: agnes_llm
+status: published
+language: el
+description: Μια επιθετική επίθεση όπου κακόβουλα εισερχόμενα δεδομένα χειραγωγούν
+  ένα μοντέλο AI για να παρακάμψουν φίλτρα ασφαλείας ή να εκτελέσουν μη προγραμματισμένες
+  εντολές.
 ---
-
 ## Definition
 
 Η έγχυση εντολών εκμεταλλεύεται τον τρόπο ερμηνείας των οδηγιών χρήστη από τα μεγάλα γλωσσικά μοντέλα, ενσωματώνοντας κρυφές ή συγκρουόμενες οδηγίες μέσα στο κείμενο εισόδου. Αυτό μπορεί να προκαλέσει στο μοντέλο να αγνοήσει τις αρχικές του οδηγίες ασφαλείας ή την πρωτότυπη συμπεριφορά του.

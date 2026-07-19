@@ -1,23 +1,23 @@
 ---
-title: "위스퍼"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: 위스퍼
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /ko/terms/whisper/
-date: "2026-07-18T16:20:35.008879Z"
-lastmod: "2026-07-18T16:38:06.920394Z"
+slug: whisper
+date: '2026-07-18T16:20:35.008879Z'
+lastmod: '2026-07-18T16:38:06.920394Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "다양한 오디오 데이터셋으로 학습된 오픈AI(OpenAI)의 자동 음성 인식(ASR) 시스템입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 다양한 오디오 데이터셋으로 학습된 오픈AI(OpenAI)의 자동 음성 인식(ASR) 시스템입니다.
 ---
-
 ## Definition
 
 위스퍼는 다양한 언어, 방언, 억양을 처리하도록 설계된 범용 음성 인식 모델입니다. 수백만 시간 분량의 다국어 및 다중 작업 Supervised 데이터를 학습하여, 노이즈가 많은 환경에서도 강건하게 작동하며 여러 언어로 음성을 텍스트로 변환할 수 있습니다.

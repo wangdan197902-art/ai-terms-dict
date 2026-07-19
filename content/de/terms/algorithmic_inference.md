@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /de/terms/algorithmic_inference/
 date: "2026-07-18T11:02:25.839404Z"
 lastmod: "2026-07-18T11:44:44.908152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Algorithmische Inferenz ist der Prozess, bei dem ein trainiertes maschinelles Lernmodell gelernte Muster auf neue, ungesehene Daten anwendet, um Vorhersagen oder Entscheidungen zu treffen."
 ---
-
 ## Definition
 
 Auch bekannt als Vorhersage oder Scoring, tritt die Inferenz nach der Trainingsphase des Modells auf. Der Algorithmus nimmt Eingabemerkmale entgegen, verarbeitet sie durch seine interne Struktur (wie Gewichte in einem neuronalen Netz) und generiert eine Ausgabe.

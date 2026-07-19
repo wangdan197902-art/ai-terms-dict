@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /pl/terms/content_filtering/
 date: "2026-07-18T15:46:55.085215Z"
 lastmod: "2026-07-18T17:15:08.857247Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces blokowania lub umożliwiania dostępu do treści cyfrowych na podstawie predefiniowanych kryteriów lub modeli klasyfikacyjnych."
 ---
-
 ## Definition
 
 Filtrowanie treści polega na używaniu algorytmów i reguł do skanowania, klasyfikowania i kontrolowania przepływu informacji prezentowanych użytkownikom. W kontekście AI często wykorzystuje przetwarzanie języka naturalnego (NLP) i analizę obrazu.

@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /no/terms/cli/
 date: "2026-07-18T15:36:23.215295Z"
 lastmod: "2026-07-18T16:38:06.956541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kommandolinjegrensesnittet (CLI) er en tekstbasert metode for å interagere med programvare ved å taste inn kommandoer i en terminal."
 ---
-
 ## Definition
 
 Et Kommandolinjegrensesnitt (CLI) lar brukere kontrollere programvare ved å taste inn tekstlige kommandoer i stedet for å bruke grafiske elementer. Innen AI-utvikling er CLI-verktøy essensielle for å kjøre skript, administrere maskinressurser og automatisere arbeidsflyter.

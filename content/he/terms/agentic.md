@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /he/terms/agentic/
 date: "2026-07-18T15:35:26.658097Z"
 lastmod: "2026-07-18T17:15:09.496564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתייחס למערכות בינה מלאכותית המסוגלות לתכנון עצמאי, היסק ולביצוע פעולות להשגת יעדים ספציפיים."
 ---
-
 ## Definition
 
 המונח 'סוכני' מתאר סוכני בינה מלאכותית הפועלים ברמת אוטונומיה גבוהה. בניגוד למודלים פסיביים החוזים טקסט או מסווגים נתונים בלבד, מערכות סוכניות יכולות לפרק מטרות מורכבות ל...

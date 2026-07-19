@@ -1,23 +1,22 @@
 ---
-title: "开放权重"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: 开放权重
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /zh/terms/open_weight/
-date: "2026-07-18T10:57:10.837311Z"
-lastmod: "2026-07-18T11:44:45.393949Z"
+slug: open_weight
+date: '2026-07-18T10:57:10.837311Z'
+lastmod: '2026-07-18T11:44:45.393949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "发布经过训练的模型参数（权重），但训练代码和数据集可能保持私有的 AI 模型。"
+source: agnes_llm
+status: published
+language: zh
+description: 发布经过训练的模型参数（权重），但训练代码和数据集可能保持私有的 AI 模型。
 ---
-
 ## Definition
 
 开放权重模型与完全开源的人工智能不同，因为它只发布最终学到的参数，而不一定发布创建它们所用的基础设施或数据。这允许用户运行推理

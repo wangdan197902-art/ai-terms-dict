@@ -1,23 +1,23 @@
 ---
-title: "Anti-aliasing i dyp læring"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: Anti-aliasing i dyp læring
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /no/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T15:50:38.321051Z"
-lastmod: "2026-07-18T16:38:06.992192Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T15:50:38.321051Z'
+lastmod: '2026-07-18T16:38:06.992192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Teknikker som bruker nevrale nettverk for å redusere visuelle artefakter som trappetrinn-kanter i gjengitte bilder eller nedskalerte funksjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Teknikker som bruker nevrale nettverk for å redusere visuelle artefakter
+  som trappetrinn-kanter i gjengitte bilder eller nedskalerte funksjoner.
 ---
-
 ## Definition
 
 Anti-aliasing i dyp læring refererer til metoder som bruker nevrale nettverk for å dempe aliasing-artefakter, som oppstår når høyfrekvente signaler samples ved utilstrekkelige hastigheter. I datagrafikk brukes dette ofte for å forbedre kvaliteten på bilder generert eller behandlet av AI.

@@ -1,23 +1,23 @@
 ---
-title: "概念ドリフト"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: 概念ドリフト
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /ja/terms/concept_drift/
-date: "2026-07-18T11:08:38.545680Z"
-lastmod: "2026-07-18T11:44:45.079585Z"
+slug: concept_drift
+date: '2026-07-18T11:08:38.545680Z'
+lastmod: '2026-07-18T11:44:45.079585Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "概念ドリフトとは、対象変数の統計的性質が時間とともに変化し、モデルのパフォーマンスが低下する現象です。"
+source: agnes_llm
+status: published
+language: ja
+description: 概念ドリフトとは、対象変数の統計的性質が時間とともに変化し、モデルのパフォーマンスが低下する現象です。
 ---
-
 ## Definition
 
 概念ドリフトは、新しいデータが入ってくるにつれて、入力特徴量とターゲット出力の間の関係が変化する機械学習の現象です。これは、ユーザーの行動などが変化する動的な環境でよく発生します。

@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /pl/terms/semantic_analysis/
 date: "2026-07-18T16:15:48.387915Z"
 lastmod: "2026-07-18T17:15:08.916127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Analiza semantyczna to proces wyodrębniania znaczenia z tekstu poprzez zrozumienie relacji między słowami i kontekstem w przetwarzaniu języka naturalnego."
 ---
-
 ## Definition
 
 Wykracza poza strukturę składniową, interpretując rzeczywisty zamiar i znaczenie wejść językowych. Obejmuje to rozstrzyganie wieloznaczności znaczeń słów w oparciu o kontekst, identyfikację encji oraz zrozumienie...

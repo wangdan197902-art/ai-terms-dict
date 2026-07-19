@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /sv/terms/bayesian/
 date: "2026-07-18T15:23:26.882069Z"
 lastmod: "2026-07-18T17:15:08.937701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser statistiska metoder baserade på Bayes sats för att uppdatera sannolikheter med ny bevisning."
 ---
-
 ## Definition
 
 Bayesianska tillvägagångssätt inom AI använder sannolikhetsteori för att uppdatera sannolikheten för hypoteser när mer bevisning blir tillgänglig. Denna metod gör det möjligt för modeller att kvantifiera osäkerhet och förfiningar prediktioner dynamiskt.

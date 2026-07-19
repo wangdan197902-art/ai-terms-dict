@@ -1,23 +1,24 @@
 ---
-title: "Наделение агентности"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Наделение агентности
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /ru/terms/empowerment/
-date: "2026-07-18T15:51:41.387263Z"
-lastmod: "2026-07-18T16:38:07.153574Z"
+slug: empowerment
+date: '2026-07-18T15:51:41.387263Z'
+lastmod: '2026-07-18T16:38:07.153574Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Целевая функция обучения с подкреплением, измеряющая способность агента влиять на будущие состояния посредством своих действий."
+source: agnes_llm
+status: published
+language: ru
+description: Целевая функция обучения с подкреплением, измеряющая способность агента
+  влиять на будущие состояния посредством своих действий.
 ---
-
 ## Definition
 
 В обучении с подкреплением и искусственном интеллекте наделение агентности (empowerment) — это метрика внутренней мотивации, которая количественно оценивает степень контроля, которым обладает агент над своей средой. Оно определяется как взаимная

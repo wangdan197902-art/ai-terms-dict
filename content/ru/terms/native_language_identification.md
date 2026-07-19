@@ -1,23 +1,24 @@
 ---
-title: "Идентификация родного языка"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Идентификация родного языка
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /ru/terms/native_language_identification/
-date: "2026-07-18T16:07:40.610599Z"
-lastmod: "2026-07-18T16:38:07.184488Z"
+slug: native_language_identification
+date: '2026-07-18T16:07:40.610599Z'
+lastmod: '2026-07-18T16:38:07.184488Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс автоматического определения родного языка говорящего на основе образцов его речи или текста."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс автоматического определения родного языка говорящего на основе
+  образцов его речи или текста.
 ---
-
 ## Definition
 
 Идентификация родного языка (Native-Language Identification, NLI) — это подраздел обработки естественного языка, ориентированный на распознавание первого языка, усвоенного говорящим. В отличие от общего определения языка, NLI анализирует лингвистические особенности, характерные

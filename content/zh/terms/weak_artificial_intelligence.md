@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /zh/terms/weak_artificial_intelligence/
 date: "2026-07-18T11:38:02.408075Z"
 lastmod: "2026-07-18T11:44:45.567914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "专为在有限范围内执行特定任务而设计的AI，不具备通用认知能力。"
 ---
-
 ## Definition
 
 弱人工智能，也称为狭义AI，是指为解决特定问题或执行特定任务（如面部识别或语言翻译）而构建的系统。与强人工智能不同，它不具备通用的智能或意识。

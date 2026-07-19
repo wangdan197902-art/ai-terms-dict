@@ -1,23 +1,23 @@
 ---
-title: "共トレーニング"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: 共トレーニング
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /ja/terms/co_training/
-date: "2026-07-18T11:07:35.495208Z"
-lastmod: "2026-07-18T11:44:45.077291Z"
+slug: co_training
+date: '2026-07-18T11:07:35.495208Z'
+lastmod: '2026-07-18T11:44:45.077291Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "共トレーニングは、データの2つのビューを使用して別々の分類器をトレーニングし、それらが互いの未ラベルデータに反復的にラベルを付ける半教師あり学習アルゴリズムです。"
+source: agnes_llm
+status: published
+language: ja
+description: 共トレーニングは、データの2つのビューを使用して別々の分類器をトレーニングし、それらが互いの未ラベルデータに反復的にラベルを付ける半教師あり学習アルゴリズムです。
 ---
-
 ## Definition
 
 この手法は、同じデータポイントの複数の異なる特徴セット（ビュー）を活用します。最初は、各ビューからの小さなラベル付きデータセットで2つの分類器をトレーニングします。その後、未ラベル

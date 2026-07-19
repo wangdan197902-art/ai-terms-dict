@@ -1,23 +1,23 @@
 ---
-title: "기대 전파"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: 기대 전파
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /ko/terms/expectation_propagation/
-date: "2026-07-18T15:55:04.752703Z"
-lastmod: "2026-07-18T16:38:06.838500Z"
+slug: expectation_propagation
+date: '2026-07-18T15:55:04.752703Z'
+lastmod: '2026-07-18T16:38:06.838500Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "복잡한 확률적 그래픽 모델에서 사후 분포를 추정하는 데 사용되는 근사 추론 알고리즘."
+source: agnes_llm
+status: published
+language: ko
+description: 복잡한 확률적 그래픽 모델에서 사후 분포를 추정하는 데 사용되는 근사 추론 알고리즘.
 ---
-
 ## Definition
 
 기대 전파(EP)는 실제 사후 분포에 대한 가우시안 근사를 반복적으로 정교화하여 계산이 불가능한 적분을 근사합니다. 이는 근사된 분포와 실제 사후 분포 사이의 켤레-라이블러(Kullback-Leibler) 발산을 최소화하는 방식으로 작동합니다.

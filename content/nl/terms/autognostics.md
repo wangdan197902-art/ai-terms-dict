@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /nl/terms/autognostics/
 date: "2026-07-18T15:43:56.210831Z"
 lastmod: "2026-07-18T17:15:08.719721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het vermogen van een AI-systeem om zijn interne staat, prestatieproblemen of fouten zelf te diagnosticeren zonder menselijke tussenkomst."
 ---
-
 ## Definition
 
 Autognostiek verwijst naar de mechanismen voor zelfmonitoring en zelfreparatie die in intelligente systemen zijn ingebouwd. Het stelt AI-agenten in staat om anomalieën te detecteren, de oorzaak van storingen te diagnosticeren en potentieel co (te corrigeren/zelf te herstellen).

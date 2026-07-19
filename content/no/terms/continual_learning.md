@@ -1,23 +1,24 @@
 ---
-title: "Kontinuerlig læring"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Kontinuerlig læring
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /no/terms/continual_learning/
-date: "2026-07-18T15:47:39.421444Z"
-lastmod: "2026-07-18T16:38:06.984010Z"
+slug: continual_learning
+date: '2026-07-18T15:47:39.421444Z'
+lastmod: '2026-07-18T16:38:06.984010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En maskinlæringsparadigme der modeller lærer sekvensielt fra ny data uten å glemme tidligere kunnskap."
+source: agnes_llm
+status: published
+language: 'no'
+description: En maskinlæringsparadigme der modeller lærer sekvensielt fra ny data
+  uten å glemme tidligere kunnskap.
 ---
-
 ## Definition
 
 Kontinuerlig læring, også kjent som livslang læring, gjør at nevrale nettverk kan tilegne seg nye ferdigheter eller informasjon over tid samtidig som de beholder tidligere lærte evner. Dette adresserer problemet med 'katastrofal glemming' som ofte oppstår ved tradisjonell opplæring.

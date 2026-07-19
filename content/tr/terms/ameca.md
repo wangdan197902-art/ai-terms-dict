@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /tr/terms/ameca/
 date: "2026-07-18T15:40:37.338293Z"
 lastmod: "2026-07-18T16:38:07.272138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Engineered Arts tarafından geliştirilen, olağanüstü yüz ifadeleri ve insan benzeri etkileşimleri ile bilinen son derece gelişmiş bir humanoid robot."
 ---
-
 ## Definition
 
 Ameca, yüzünde yalnızca 40'tan fazla serbestlik derecesine sahip olan, ince ve gerçekçi duygusal ifadeler oluşturabilen son teknoloji bir humanoid robottur. İnsan-robot etkileşimini incelemek üzere tasarlanmıştır.

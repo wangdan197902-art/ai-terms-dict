@@ -1,23 +1,24 @@
 ---
-title: "Học kém (Underfitting)"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: Học kém (Underfitting)
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /vi/terms/underfitting/
-date: "2026-07-18T16:15:30.292302Z"
-lastmod: "2026-07-18T16:38:07.814425Z"
+slug: underfitting
+date: '2026-07-18T16:15:30.292302Z'
+lastmod: '2026-07-18T16:38:07.814425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trạng thái mà một mô hình học máy không thể nắm bắt được xu hướng cơ bản của dữ liệu huấn luyện."
+source: agnes_llm
+status: published
+language: vi
+description: Trạng thái mà một mô hình học máy không thể nắm bắt được xu hướng cơ
+  bản của dữ liệu huấn luyện.
 ---
-
 ## Definition
 
 Hiện tượng học kém xảy ra khi một mô hình thống kê hoặc thuật toán học máy không thể xấp xỉ chính xác hàm ánh xạ từ đầu vào đến đầu ra. Điều này thường xảy ra khi mô hình quá đơn giản so với...

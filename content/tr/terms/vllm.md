@@ -1,23 +1,25 @@
 ---
-title: "vLLM"
-term_id: "vllm"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "serving", "library"]
+title: vLLM
+term_id: vllm
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- serving
+- library
 difficulty: 4
 weight: 1
-slug: "vllm"
-aliases:
-  - /tr/terms/vllm/
-date: "2026-07-18T16:20:31.655082Z"
-lastmod: "2026-07-18T16:38:07.376366Z"
+slug: vllm
+date: '2026-07-18T16:20:31.655082Z'
+lastmod: '2026-07-18T16:38:07.376366Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "vLLM, PagedAttention kullanarak GPU bellek kullanımını optimize eden Büyük Dil Modelleri için yüksek verimli ve bellek verimli bir çıkarım motorudur."
+source: agnes_llm
+status: published
+language: tr
+description: vLLM, PagedAttention kullanarak GPU bellek kullanımını optimize eden
+  Büyük Dil Modelleri için yüksek verimli ve bellek verimli bir çıkarım motorudur.
 ---
-
 ## Definition
 
 vLLM (Virtual Large Language Model), LLM sunumunu hızlandırmak için tasarlanmış açık kaynaklı bir kütüphanedir. İşletim sistemlerinin sanal bellek yönetiminden ilham alan PagedAttention adlı bir bellek yönetimi tekniği tanıtır.

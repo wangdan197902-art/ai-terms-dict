@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /pl/terms/local/
 date: "2026-07-18T15:27:03.160143Z"
 lastmod: "2026-07-18T17:15:08.814470Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odnosi się do przetwarzania lub przechowywania danych na konkretnym urządzeniu, zamiast w scentralizowanym środowisku chmurowym."
 ---
-
 ## Definition
 
 W sztucznej inteligencji termin „lokalny” oznacza zazwyczaj operacje wykonywane bezpośrednio na sprzęcie użytkownika, takim jak laptop czy smartfon, bez polegania na zdalnych serwerach. Podejście to zwiększa prywatność danych

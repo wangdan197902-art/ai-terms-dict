@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /pt/terms/long/
 date: "2026-07-18T14:36:36.094705Z"
 lastmod: "2026-07-18T15:51:59.433432Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Geralmente refere-se a sequências estendidas de dados, como janelas de contexto longo em modelos de processamento de linguagem natural."
 ---
-
 ## Definition
 
 No contexto da IA, 'longo' frequentemente descreve a capacidade de processar entradas extensas, como documentos longos ou fluxos de vídeo prolongados. Para grandes modelos de linguagem, isso envolve gerenciar janelas de contexto amplas.

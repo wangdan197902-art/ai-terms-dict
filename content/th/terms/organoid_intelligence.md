@@ -1,23 +1,23 @@
 ---
-title: "สติปัญญาออร์แกนอยด์"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: สติปัญญาออร์แกนอยด์
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /th/terms/organoid_intelligence/
-date: "2026-07-18T16:09:51.969445Z"
-lastmod: "2026-07-18T16:38:07.638777Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:09:51.969445Z'
+lastmod: '2026-07-18T16:38:07.638777Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "รูปแบบการคำนวณแบบไฮบริดที่ผสานเซลล์สมองที่มีชีวิตกับอินเทอร์เฟซอิเล็กทรอนิกส์สำหรับการประมวลผลข้อมูล"
+source: agnes_llm
+status: published
+language: th
+description: รูปแบบการคำนวณแบบไฮบริดที่ผสานเซลล์สมองที่มีชีวิตกับอินเทอร์เฟซอิเล็กทรอนิกส์สำหรับการประมวลผลข้อมูล
 ---
-
 ## Definition
 
 สติปัญญาออร์แกนอยด์ (OI) หมายถึงการพัฒนาของระบบชีวภาพผสมที่ออร์แกนอยด์สมองซึ่งได้มาจากมนุษย์ถูกเพาะเลี้ยงบนอาร์เรย์ไมโครอิเล็กโทรด เครือข่ายประสาทที่มีชีวิตเหล่านี้ทำการคำนวณ

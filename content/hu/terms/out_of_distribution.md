@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /hu/terms/out_of_distribution/
 date: "2026-07-18T15:36:17.217422Z"
 lastmod: "2026-07-18T17:15:09.736991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Adatpontok, amelyek jelentősen eltérnek attól az eloszlástól, amelyet a modell képzési szakasza során látott."
 ---
-
 ## Definition
 
 Az eloszláson kívüli (OOD) adatok detektálása azokat a bemeneteket azonosítja, amelyek kívül esnek a képzési adat eloszlásának hatókörén. A modellek gyakran gyengén teljesítenek vagy magabiztosan hibásan ítélnek meg OOD adatokon, ami megbízhatatlansághoz

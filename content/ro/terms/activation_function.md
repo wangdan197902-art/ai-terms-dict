@@ -1,23 +1,25 @@
 ---
-title: "Funcție de Activare"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Funcție de Activare
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /ro/terms/activation_function/
-date: "2026-07-18T15:34:30.234777Z"
-lastmod: "2026-07-18T17:15:09.611870Z"
+slug: activation_function
+date: '2026-07-18T15:34:30.234777Z'
+lastmod: '2026-07-18T17:15:09.611870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O ecuație matematică care determină ieșirea unui nod dintr-o rețea neuronală pe baza semnalului său de intrare."
+source: agnes_llm
+status: published
+language: ro
+description: O ecuație matematică care determină ieșirea unui nod dintr-o rețea neuronală
+  pe baza semnalului său de intrare.
 ---
-
 ## Definition
 
 O funcție de activare introduce non-linearitate într-o rețea neuronală, permițându-i să învețe modele și relații complexe în date. Fără aceste funcții, o rețea stratificată s-ar comporta...

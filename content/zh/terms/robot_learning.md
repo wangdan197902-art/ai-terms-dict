@@ -1,23 +1,23 @@
 ---
-title: "机器人学习"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: 机器人学习
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /zh/terms/robot_learning/
-date: "2026-07-18T11:32:26.773535Z"
-lastmod: "2026-07-18T11:44:45.551172Z"
+slug: robot_learning
+date: '2026-07-18T11:32:26.773535Z'
+lastmod: '2026-07-18T11:44:45.551172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "机器人学的一个分支领域，专注于使机器人能够通过经验和与环境互动来获取技能并提高性能。"
+source: agnes_llm
+status: published
+language: zh
+description: 机器人学的一个分支领域，专注于使机器人能够通过经验和与环境互动来获取技能并提高性能。
 ---
-
 ## Definition
 
 机器人学习涉及利用机器学习技术训练机器人代理自主执行任务。与预编程行为不同，这些系统能够适应动态环境，从而提升其在复杂场景中的表现。

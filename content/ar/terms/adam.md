@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /ar/terms/adam/
 date: "2026-07-18T15:23:12.450035Z"
 lastmod: "2026-07-18T17:15:08.433379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "خوارزمية تحسين تحسب معدلات تعلم تكيفية لكل معلمة."
 ---
-
 ## Definition
 
 آدام (تقدير العزم التكيفي) هو خوارزمية تحسين شائعة من الدرجة الأولى تعتمد على التدرج، تُستخدم في تدريب الشبكات العصبية العميقة. تجمع بين مزاقي امتدادين آخرين للستوكاستيك.

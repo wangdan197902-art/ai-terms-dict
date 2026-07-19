@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /it/terms/gender_digital_divide/
 date: "2026-07-18T16:01:18.912723Z"
 lastmod: "2026-07-18T17:15:08.628765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il divario digitale di genere si riferisce al divario tra uomini e donne nell'accesso, nell'utilizzo e nei benefici derivanti dalle tecnologie dell'informazione e della comunicazione."
 ---
-
 ## Definition
 
 Questo concetto sociotecnico evidenzia le disparità in cui donne e ragazze spesso hanno meno accesso a dispositivi digitali, connettività internet e competenze di alfabetizzazione digitale rispetto agli uomini e ai ragazzi. Queste disuguaglianze...

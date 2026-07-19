@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /ja/terms/tokenization/
 date: "2026-07-18T10:55:37.958084Z"
 lastmod: "2026-07-18T11:44:45.021538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "トークン化とは、生のテキストを機械学習アルゴリズムが処理できる「トークン」と呼ばれる小さな単位に分割するプロセスです。"
 ---
-
 ## Definition
 
 トークン化は、構造化されていないテキストをモデルが取り込める構造化データに変換する自然言語処理（NLP）における重要な前処理ステップです。これには、文章を単語やサブワードに分解し、それらを一意の数値IDに変換する作業が含まれます。適切なトークン化は、モデルの学習効率と精度を決定づける基盤となります。

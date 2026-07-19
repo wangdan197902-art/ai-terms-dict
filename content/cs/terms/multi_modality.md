@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /cs/terms/multi_modality/
 date: "2026-07-18T16:10:00.180583Z"
 lastmod: "2026-07-18T17:15:09.155505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vícemodálnost je širší koncept nebo obor studia zabývající se používáním různých typů dat v architekturách strojového učení."
 ---
-
 ## Definition
 
 Vícemodálnost představuje architektonický a teoretický rámec umožňující modelům AI zpracovávat heterogenní datové proudy. Zahrnuje navrhování neuronových sítí, které mohou přijímat vstupy z různých...

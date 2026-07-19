@@ -1,23 +1,24 @@
 ---
-title: "Veri Seti Kayması"
-term_id: "dataset_shift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "statistics", "model_deployment"]
+title: Veri Seti Kayması
+term_id: dataset_shift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- statistics
+- Model Deployment
 difficulty: 3
 weight: 1
-slug: "dataset_shift"
-aliases:
-  - /tr/terms/dataset_shift/
-date: "2026-07-18T15:47:24.541640Z"
-lastmod: "2026-07-18T16:38:07.290203Z"
+slug: dataset_shift
+date: '2026-07-18T15:47:24.541640Z'
+lastmod: '2026-07-18T16:38:07.290203Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Veri seti kayması, girdi verisinin istatistiksel özelliklerinin eğitim ve dağıtım aşamaları arasında değişmesi durumunu ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Veri seti kayması, girdi verisinin istatistiksel özelliklerinin eğitim
+  ve dağıtım aşamaları arasında değişmesi durumunu ifade eder.
 ---
-
 ## Definition
 
 Veri seti kayması, bir makine öğrenimi modeli eğitimi için kullanılan verinin dağılımı ile çıkarım sırasında karşılaşılan verinin dağılımı arasındaki farkın ortaya çıkmasıyla gerçekleşir. Bu tutarsızlık, modellerin performansında önemli düşüşlere yol açabilir.

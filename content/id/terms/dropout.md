@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /id/terms/dropout/
 date: "2026-07-18T15:34:15.539781Z"
 lastmod: "2026-07-18T16:38:07.412776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dropout adalah teknik regularisasi yang secara acak mengabaikan neuron selama pelatihan untuk mencegah overfitting."
 ---
-
 ## Definition
 
 Dalam jaringan saraf, dropout mencegah overfitting dengan sementara menghapus subset acak neuron pada setiap langkah pelatihan. Hal ini memaksa jaringan untuk mempelajari fitur yang kuat yang berguna dalam kombinasi dengan neuron lain.

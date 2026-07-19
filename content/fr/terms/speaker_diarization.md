@@ -1,23 +1,24 @@
 ---
-title: "Diarisation de locuteurs"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Diarisation de locuteurs
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /fr/terms/speaker_diarization/
-date: "2026-07-18T11:38:46.557409Z"
-lastmod: "2026-07-18T11:44:45.330666Z"
+slug: speaker_diarization
+date: '2026-07-18T11:38:46.557409Z'
+lastmod: '2026-07-18T11:44:45.330666Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus consistant à déterminer 'qui a parlé quand' dans un enregistrement audio."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus consistant à déterminer 'qui a parlé quand' dans un enregistrement
+  audio.
 ---
-
 ## Definition
 
 La diarisation de locuteurs est la tâche qui consiste à partitionner un flux audio en segments homogènes selon l'identité du locuteur. Elle combine la détection de changement de locuteur avec le regroupement de locuteurs pour étiqueter les interventions.

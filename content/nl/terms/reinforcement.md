@@ -1,23 +1,23 @@
 ---
-title: "Versterking"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Versterking
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /nl/terms/reinforcement/
-date: "2026-07-18T15:29:20.374600Z"
-lastmod: "2026-07-18T17:15:08.691825Z"
+slug: reinforcement
+date: '2026-07-18T15:29:20.374600Z'
+lastmod: '2026-07-18T17:15:08.691825Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Versterking verwijst naar het proces van gedrag wijzigen door middel van beloningen of straffen om besluitvorming te optimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: Versterking verwijst naar het proces van gedrag wijzigen door middel
+  van beloningen of straffen om besluitvorming te optimaliseren.
 ---
-
 ## Definition
 
 Versterking is een fundamenteel psychologisch en computationeel mechanisme waarbij de acties van een agent worden gevormd door consequenties. In machine learning houdt dit in dat positieve feedback (beloningen) wordt gegeven voor

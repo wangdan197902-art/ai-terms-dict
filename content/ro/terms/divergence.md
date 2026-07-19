@@ -1,23 +1,25 @@
 ---
-title: "Divergență"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergență
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /ro/terms/divergence/
-date: "2026-07-18T15:24:54.709174Z"
-lastmod: "2026-07-18T17:15:09.591943Z"
+slug: divergence
+date: '2026-07-18T15:24:54.709174Z'
+lastmod: '2026-07-18T17:15:09.591943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Divergența se referă la eșecul funcției de pierdere a unui algoritm de învățare automată de a scădea în timpul antrenamentului, rezultând într-o performanță instabilă sau înrăutățită."
+source: agnes_llm
+status: published
+language: ro
+description: Divergența se referă la eșecul funcției de pierdere a unui algoritm de
+  învățare automată de a scădea în timpul antrenamentului, rezultând într-o performanță
+  instabilă sau înrăutățită.
 ---
-
 ## Definition
 
 În contextul optimizării, divergența apare atunci când parametrii unui model se actualizează într-un mod care determină creșterea pierderii în loc de scăderea acesteia, ducând adesea la valori NaN sau la gradienți infiniti.

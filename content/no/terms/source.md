@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /no/terms/source/
 date: "2026-07-18T15:30:06.305336Z"
 lastmod: "2026-07-18T16:38:06.946913Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Refererer til opprinnelsen av data, kode eller modeller som brukes i AI-utvikling og distribusjon."
 ---
-
 ## Definition
 
 I AI-sammenhenger betegner 'kilde' vanligvis opprinnelsen til treningsdatasett, open source-biblioteker eller forhåndstrenede modellvekter. Å spore kilder er kritisk for reproducerbarhet, lisensoverholdelse...

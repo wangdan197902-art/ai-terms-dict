@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /ko/terms/free/
 date: "2026-07-18T15:24:38.982748Z"
 lastmod: "2026-07-18T16:38:06.774493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "금전적 비용이나 제한적인 라이선스 없이 사용할 수 있는 자원, 소프트웨어 또는 데이터를 설명합니다."
 ---
-
 ## Definition
 
 AI 맥락에서 '무료'는 일반적으로 사용자가 요금을 지불하지 않고 접근, 수정 및 배포할 수 있는 오픈 소스 모델, 데이터셋 또는 도구를 의미합니다. 이는 사용에 대한 제한이 많거나 유료인 독점 솔루션(proprietary solutions)과 대비됩니다.

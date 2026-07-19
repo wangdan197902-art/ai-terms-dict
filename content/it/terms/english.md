@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /it/terms/english/
 date: "2026-07-18T15:24:35.408238Z"
 lastmod: "2026-07-18T17:15:08.564746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'inglese è una lingua naturale che funge da dataset di benchmark dominante e output target per molti modelli di Natural Language Processing (NLP)."
 ---
-
 ## Definition
 
 Sebbene principalmente una lingua umana, nel contesto dell'AI, 'inglese' rappresenta il dominio linguistico più prevalente per la ricerca NLP grazie all'abbondanza di dati testuali digitali. La maggior parte dei modelli fondamentali (come B

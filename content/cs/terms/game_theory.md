@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /cs/terms/game_theory/
 date: "2026-07-18T15:58:45.458736Z"
 lastmod: "2026-07-18T17:15:09.132723Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Matematická studie strategické interakce mezi racionálními rozhodovateli, kde výsledky závisí na akcích všech účastníků."
 ---
-
 ## Definition
 
 Teorie her je odvětví aplikované matematiky, které modeluje strategické interakce mezi racionálními agenty. Analyzuje situace, kde úspěch jednoho hráče závisí na volbách ostatních. Klíčové

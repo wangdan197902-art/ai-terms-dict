@@ -1,23 +1,24 @@
 ---
-title: "Длинный контекст"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Длинный контекст
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /ru/terms/long_context/
-date: "2026-07-18T16:02:24.724054Z"
-lastmod: "2026-07-18T16:38:07.176692Z"
+slug: long_context
+date: '2026-07-18T16:02:24.724054Z'
+lastmod: '2026-07-18T16:38:07.176692Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Способность языковой модели обрабатывать и сохранять информацию из входных последовательностей, содержащих тысячи или миллионы токенов."
+source: agnes_llm
+status: published
+language: ru
+description: Способность языковой модели обрабатывать и сохранять информацию из входных
+  последовательностей, содержащих тысячи или миллионы токенов.
 ---
-
 ## Definition
 
 Длинный контекст относится к способности моделей на основе трансформеров обрабатывать длинные входные последовательности, часто превышающие стандартные ограничения в 2k или 4k токенов. Эта возможность позволяет моделям анализировать полные документы, длинные диалоги или обширные базы кода, сохраняя целостность информации на протяжении всего текста.

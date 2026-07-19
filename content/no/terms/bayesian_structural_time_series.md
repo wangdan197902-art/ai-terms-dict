@@ -1,23 +1,24 @@
 ---
-title: "Bayesiansk strukturell tidsserie"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Bayesiansk strukturell tidsserie
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /no/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:44:57.588708Z"
-lastmod: "2026-07-18T16:38:06.976410Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:44:57.588708Z'
+lastmod: '2026-07-18T16:38:06.976410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En statistisk modelleringsmetode som bruker Bayesiansk inferens til å dekomponere tidsserier i tolkbare komponenter."
+source: agnes_llm
+status: published
+language: 'no'
+description: En statistisk modelleringsmetode som bruker Bayesiansk inferens til å
+  dekomponere tidsserier i tolkbare komponenter.
 ---
-
 ## Definition
 
 Modeller for bayesianske strukturelle tidsserier (BSTS) representerer tidsseriedata som en sum av tolkbare komponenter, slik som trend, sesongmønster og regresjonseffekter, samtidig som de tar hensyn til usikkerhet gjennom posterior-fordelinger. Dette gir en robust metode for å skille signal fra støy.

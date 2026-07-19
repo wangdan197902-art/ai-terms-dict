@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /hu/terms/benchmarking/
 date: "2026-07-18T15:23:56.030432Z"
 lastmod: "2026-07-18T17:15:09.716184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI modellek rendszerezett tesztelése benchmarkok segítségével a teljesítmény kvantifikálására és a fejlesztési területek azonosítására."
 ---
-
 ## Definition
 
 A benchmarking az a gyakorlati folyamat, amely során kísérleteket végeznek annak mérésére, hogy egy AI modell milyen jól teljesít meghatározott feladatokon előre definiált benchmarkok segítségével. Ez a folyamat magában foglalja a modellek lefuttatását szabványosított környezetben.

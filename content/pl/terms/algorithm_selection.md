@@ -1,23 +1,23 @@
 ---
-title: "Wybór algorytmu"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Wybór algorytmu
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /pl/terms/algorithm_selection/
-date: "2026-07-18T15:39:31.577593Z"
-lastmod: "2026-07-18T17:15:08.843339Z"
+slug: algorithm_selection
+date: '2026-07-18T15:39:31.577593Z'
+lastmod: '2026-07-18T17:15:08.843339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Wybór algorytmu to proces wybierania najbardziej odpowiedniej metody obliczeniowej dla konkretnego problemu na podstawie metryk wydajnościowych i ograniczeń."
+source: agnes_llm
+status: published
+language: pl
+description: Wybór algorytmu to proces wybierania najbardziej odpowiedniej metody
+  obliczeniowej dla konkretnego problemu na podstawie metryk wydajnościowych i ograniczeń.
 ---
-
 ## Definition
 
 Wybór algorytmu obejmuje ocenę różnych podejść obliczeniowych w celu określenia, które z nich najlepiej rozwiązuje dane zadanie w sposób efektywny. Proces ten uwzględnia takie czynniki jak złożoność czasowa, złożoność przestrzenna i inne metryki.

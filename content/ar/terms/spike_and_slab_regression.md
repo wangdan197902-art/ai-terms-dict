@@ -1,23 +1,24 @@
 ---
-title: "انحدار المسامير والكتل"
-term_id: "spike_and_slab_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "bayesian", "regression"]
+title: انحدار المسامير والكتل
+term_id: spike_and_slab_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- bayesian
+- Regression
 difficulty: 4
 weight: 1
-slug: "spike_and_slab_regression"
-aliases:
-  - /ar/terms/spike_and_slab_regression/
-date: "2026-07-18T16:22:07.900402Z"
-lastmod: "2026-07-18T17:15:08.550496Z"
+slug: spike_and_slab_regression
+date: '2026-07-18T16:22:07.900402Z'
+lastmod: '2026-07-18T17:15:08.550496Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة بايزية لاختيار المتغيرات تستخدم توزيعاً مسبقاً مختلطاً للتمييز بين المعاملات الصفرية وغير الصفرية."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة بايزية لاختيار المتغيرات تستخدم توزيعاً مسبقاً مختلطاً للتمييز
+  بين المعاملات الصفرية وغير الصفرية.
 ---
-
 ## Definition
 
 انحدار المسامير والكتل هو أسلوب إحصائي بايزي يُستخدم لاختيار المتغيرات والنمذجة المتناثرة. يعتمد على توزيع مسبق مختلط يتكون من مكونين: 'مسمر' (عادة ما يكون توزيعاً طبيعياً ذا تباين ضئيل جداً، مما يمثل الصفر) و'كتلة' (توزيع ذو تباين أكبر، مما يمثل القيم غير الصفرية). يسمح هذا النهج للنموذج بتحديد أي المتغيرات ذات أهمية حقيقية وأيها يمكن تجاهله، مما يعزز التفسيرية ويمنع الإفراط في التخصيص.

@@ -1,23 +1,23 @@
 ---
-title: "การระบุภาษาแม่ (Native-language identification)"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: การระบุภาษาแม่ (Native-language identification)
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /th/terms/native_language_identification/
-date: "2026-07-18T16:07:10.559284Z"
-lastmod: "2026-07-18T16:38:07.635573Z"
+slug: native_language_identification
+date: '2026-07-18T16:07:10.559284Z'
+lastmod: '2026-07-18T16:38:07.635573Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการระบุภาษาแม่ของผู้พูดโดยอัตโนมัติจากตัวอย่างเสียงหรือข้อความ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการระบุภาษาแม่ของผู้พูดโดยอัตโนมัติจากตัวอย่างเสียงหรือข้อความ
 ---
-
 ## Definition
 
 การระบุภาษาแม่ (NLI) เป็นสาขาย่อยของการประมวลผลภาษาธรรมชาติที่มุ่งเน้นการจดจำภาษาแรกของผู้พูด ต่างจากการตรวจจับภาษาทั่วไป NLI จะวิเคราะห์ลักษณะทางภาษาศาสตร์ที่ละเอียดอ่อน

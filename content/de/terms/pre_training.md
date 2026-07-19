@@ -1,23 +1,25 @@
 ---
-title: "Pre-Training"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Pre-Training
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /de/terms/pre_training/
-date: "2026-07-18T10:52:44.640451Z"
-lastmod: "2026-07-18T11:44:44.880847Z"
+slug: pre_training
+date: '2026-07-18T10:52:44.640451Z'
+lastmod: '2026-07-18T11:44:44.880847Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die Anfangsphase des Trainings eines maschinellen Lernmodells mit einem großen, unbeschrifteten Datensatz, um allgemeine Repräsentationen zu lernen, bevor es für spezifische Aufgaben feinjustiert wird"
+source: agnes_llm
+status: published
+language: de
+description: Die Anfangsphase des Trainings eines maschinellen Lernmodells mit einem
+  großen, unbeschrifteten Datensatz, um allgemeine Repräsentationen zu lernen, bevor
+  es für spezifische Aufgaben feinjustiert wird
 ---
-
 ## Definition
 
 Pre-Training ist eine grundlegende Technik im Deep Learning, bei der ein Modell breite Merkmale und Muster aus massiven Datenmengen lernt, oft ohne Beschriftungen. Dieser Prozess ermöglicht es dem Modell,...

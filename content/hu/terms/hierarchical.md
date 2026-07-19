@@ -1,23 +1,24 @@
 ---
-title: "Hierarchikus"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hierarchikus
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /hu/terms/hierarchical/
-date: "2026-07-18T15:27:03.163534Z"
-lastmod: "2026-07-18T17:15:09.722432Z"
+slug: hierarchical
+date: '2026-07-18T15:27:03.163534Z'
+lastmod: '2026-07-18T17:15:09.722432Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyon AI-architektúrákra vagy tanulási stratégiákra utal, amelyek több absztrakciós szintre vannak szervezve, ahol a magasabb szintek irányítják az alacsonyabbakat."
+source: agnes_llm
+status: published
+language: hu
+description: Olyon AI-architektúrákra vagy tanulási stratégiákra utal, amelyek több
+  absztrakciós szintre vannak szervezve, ahol a magasabb szintek irányítják az alacsonyabbakat.
 ---
-
 ## Definition
 
 A hierarchikus AI-rendszerek az információt vagy a vezérlést egy fa-szerű, egymásba ágyazott rétegekből álló szerkezetbe szervezik. Az erősítéssel tanuló rendszerekben a hierarchikus RL felbontja a komplex feladatokat részcélokra, amelyeket...

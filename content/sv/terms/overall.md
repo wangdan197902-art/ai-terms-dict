@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /sv/terms/overall/
 date: "2026-07-18T15:29:33.458503Z"
 lastmod: "2026-07-18T17:15:08.948198Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Övergripande syftar på den aggregerade prestandan, noggrannheten eller effekten av ett AI-system över alla testfall eller driftscenario."
 ---
-
 ## Definition
 
 Vid utvärdering av AI-modeller ger 'övergripande' mått en helhetsbild av systemets prestanda snarare än att fokusera på isolerade komponenter. Detta inkluderar övergripande noggrannhet, medelvärde av precision eller totala kostnader.

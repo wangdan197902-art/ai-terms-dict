@@ -1,23 +1,24 @@
 ---
-title: "GLM MoE DSA"
-term_id: "glm_moe_dsa"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "LLM"]
+title: GLM MoE DSA
+term_id: glm_moe_dsa
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- LLM
 difficulty: 4
 weight: 1
-slug: "glm_moe_dsa"
-aliases:
-  - /cs/terms/glm_moe_dsa/
-date: "2026-07-18T15:59:50.046100Z"
-lastmod: "2026-07-18T17:15:09.134510Z"
+slug: glm_moe_dsa
+date: '2026-07-18T15:59:50.046100Z'
+lastmod: '2026-07-18T17:15:09.134510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Jedná se pravděpodobně o záměnu různých konceptů: GLM (General Language Model), MoE (Mixture of Experts) a případně DSA (Dynamic Sparse Attention nebo podobné)."
+source: agnes_llm
+status: published
+language: cs
+description: 'Jedná se pravděpodobně o záměnu různých konceptů: GLM (General Language
+  Model), MoE (Mixture of Experts) a případně DSA (Dynamic Sparse Attention nebo podobné).'
 ---
-
 ## Definition
 
 Neexistuje žádný standardní termín 'GLM MoE DSA'. Pravděpodobně však kombinuje GLM (konkrétní architekturu LLM), MoE (Mixture of Experts, techniku pro efektivní škálování velikosti modelu aktivací pouze části

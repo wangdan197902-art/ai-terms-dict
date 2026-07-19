@@ -1,23 +1,23 @@
 ---
-title: "음성"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: 음성
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /ko/terms/voice/
-date: "2026-07-18T16:20:07.434064Z"
-lastmod: "2026-07-18T16:38:06.918911Z"
+slug: voice
+date: '2026-07-18T16:20:07.434064Z'
+lastmod: '2026-07-18T16:38:06.918911Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "음성은 음성 인식 및 합성 시스템의 주요 입력 매체로 작용하는 인간의 발성으로 생성되는 소리를 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 음성은 음성 인식 및 합성 시스템의 주요 입력 매체로 작용하는 인간의 발성으로 생성되는 소리를 의미합니다.
 ---
-
 ## Definition
 
 인공지능에서 음성은 언어 정보를 전달하는 인간의 성대에 의해 생성되는 음향 신호를 포괄합니다. 이는 특정히 말하기와 관련되므로 일반적인 오디오와 구별됩니다.

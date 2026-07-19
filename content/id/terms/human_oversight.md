@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /id/terms/human_oversight/
 date: "2026-07-18T15:54:53.304418Z"
 lastmod: "2026-07-18T16:38:07.467407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Praktik mempertahankan kontrol dan tinjauan manusia atas sistem AI otomatis untuk memastikan keamanan, akurasi, dan kepatuhan etis."
 ---
-
 ## Definition
 
 Pengawasan manusia merujuk pada mekanisme dan proses di mana manusia memantau, mengevaluasi, dan melakukan intervensi dalam keputusan atau tindakan yang digerakkan oleh AI. Konsep ini sangat penting untuk memastikan bahwa sistem otomatis beroperasi sesuai dengan standar keselamatan dan etika.

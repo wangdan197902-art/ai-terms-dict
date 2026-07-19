@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /pl/terms/overall/
 date: "2026-07-18T15:28:14.629274Z"
 lastmod: "2026-07-18T17:15:08.817480Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Ogólny odnosi się do agregatowej wydajności, dokładności lub wpływu systemu sztucznej inteligencji we wszystkich przypadkach testowych lub scenariuszach operacyjnych."
 ---
-
 ## Definition
 
 Podczas oceny modeli AI metryki 'ogólne' zapewniają holistyczny obraz wydajności systemu, zamiast skupiać się na izolowanych komponentach. Obejmuje to ogólną dokładność, średnią precyzję (mAP) lub całkowity czas działania, co pozwala na kompleksową ocenę skuteczności modelu.

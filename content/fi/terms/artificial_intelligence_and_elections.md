@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /fi/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:42:54.285336Z"
 lastmod: "2026-07-18T17:15:09.383813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyteknologioiden soveltaminen vaaliprosesseissa, mukaan lukien kampanjointi, äänestäjäanalyysi ja huolet väärästä informaatiosta."
 ---
-
 ## Definition
 
 Tämä termi kattaa tekoälyn kaksoisroolin demokraattisissa prosesseissa: tehokkuuden parantaminen datan analytiikalla ja riskit manipulaation kautta. Toisaalta tekoäly auttaa kampanjoita kohdentamaan äänestäjiä ja optimoimaan viestintää, mutta toisaalta se mahdollistaa myös huijaussisällön levittämisen.

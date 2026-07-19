@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /nl/terms/online/
 date: "2026-07-18T15:28:27.428254Z"
 lastmod: "2026-07-18T17:15:08.689980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar machine learning-modellen die continu leren van nieuwe gegevensstromen in realtime, zonder opnieuw vanaf nul te hoeven trainen."
 ---
-
 ## Definition
 
 Online leren is een machine learning-paradigma waarbij het model incrementeel wordt bijgewerkt naarmate er nieuwe datapunten binnenkomen, in plaats van dat het wordt getraind op een statische batch van gegevens in één keer. Deze aanpak is cruciaal voor dynamische omgevingen.

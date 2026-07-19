@@ -1,23 +1,24 @@
 ---
-title: "Unsloth"
-term_id: "unsloth"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "LLM", "training", "library"]
+title: Unsloth
+term_id: unsloth
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- LLM
+- training
+- library
 difficulty: 3
 weight: 1
-slug: "unsloth"
-aliases:
-  - /zh/terms/unsloth/
-date: "2026-07-18T11:37:39.249101Z"
-lastmod: "2026-07-18T11:44:45.566393Z"
+slug: unsloth
+date: '2026-07-18T11:37:39.249101Z'
+lastmod: '2026-07-18T11:44:45.566393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Unsloth 是一个开源库，通过优化的内存管理和内核实现，将大语言模型（LLM）的训练和推理速度提升高达 2 倍。"
+source: agnes_llm
+status: published
+language: zh
+description: Unsloth 是一个开源库，通过优化的内存管理和内核实现，将大语言模型（LLM）的训练和推理速度提升高达 2 倍。
 ---
-
 ## Definition
 
 Unsloth 是一款专为优化大语言模型（LLM）的微调和部署而设计的工具。它通过替换标准的 PyTorch 操作，实现了显著的速度提升和内存占用减少。

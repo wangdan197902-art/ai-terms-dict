@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /sv/terms/learning_curve/
 date: "2026-07-18T16:06:29.980694Z"
 lastmod: "2026-07-18T17:15:09.020322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En inlärningskurva plottar en models prestandamått mot mängden träningsdata eller träningsepocher för att visualisera inlärningsframstegen."
 ---
-
 ## Definition
 
 Vanligtvis visar en inlärningskurva tränings- och valideringsskor på y-axeln mot antalet träningsprover eller iterationer på x-axeln. Den hjälper till att diagnostisera om en modell lider av hög

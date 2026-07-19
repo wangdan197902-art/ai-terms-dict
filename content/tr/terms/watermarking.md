@@ -1,23 +1,25 @@
 ---
-title: "Filigranlama"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: Filigranlama
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /tr/terms/watermarking/
-date: "2026-07-18T16:20:59.586976Z"
-lastmod: "2026-07-18T16:38:07.376869Z"
+slug: watermarking
+date: '2026-07-18T16:20:59.586976Z'
+lastmod: '2026-07-18T16:38:07.376869Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zekada filigranlama, içeriğin kaynağını kanıtlamak ve onu insan tarafından oluşturulandan ayırt etmek için oluşturulan içeriğe görünmez veya görünür tanımlayıcılar yerleştirme işlemidir."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zekada filigranlama, içeriğin kaynağını kanıtlamak ve onu insan
+  tarafından oluşturulandan ayırt etmek için oluşturulan içeriğe görünmez veya görünür
+  tanımlayıcılar yerleştirme işlemidir.
 ---
-
 ## Definition
 
 Jeneratif yapay zeka giderek artan miktarda sentetik medya üretirken, filigranlama şeffaflık ve hesap verebilirlik için kritik bir araç haline gelmektedir. Görüntüler, metinler vb. dijital içerikte değişiklik yapılmasını ( ... ) içerir.

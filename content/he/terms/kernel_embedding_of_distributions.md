@@ -1,23 +1,24 @@
 ---
-title: "טמיעת התפלגויות בליבה"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: טמיעת התפלגויות בליבה
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /he/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T16:08:16.714441Z"
-lastmod: "2026-07-18T17:15:09.553480Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T16:08:16.714441Z'
+lastmod: '2026-07-18T17:15:09.553480Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה הממפה התפלגויות הסתברותיות למרחב הילברט עם ליבה מייצרת (RKHS) כדי לאפשר השוואה ועיבוד באמצעות פעולות וקטוריות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה הממפה התפלגויות הסתברותיות למרחב הילברט עם ליבה מייצרת (RKHS)
+  כדי לאפשר השוואה ועיבוד באמצעות פעולות וקטוריות.
 ---
-
 ## Definition
 
 טמיעת התפלגויות בליבה מאפשרת להתייחס לאובייקטים הסתברותיים כנקודות במרחב תכונות רב-ממדי הנקרא מרחב הילברט עם ליבה מייצרת (RKHS). על ידי מיפוי ההתפלגויות, ניתן לבצע פעולות אלגבריות עליהן.

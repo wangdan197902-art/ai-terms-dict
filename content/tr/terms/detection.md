@@ -1,23 +1,24 @@
 ---
-title: "Algılama"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Algılama
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /tr/terms/detection/
-date: "2026-07-18T15:24:08.203291Z"
-lastmod: "2026-07-18T16:38:07.229740Z"
+slug: detection
+date: '2026-07-18T15:24:08.203291Z'
+lastmod: '2026-07-18T16:38:07.229740Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir veri kümesi veya ortamda belirli nesnelerin, olayların veya anomalilerin tanımlanması ve konumlandırılması."
+source: agnes_llm
+status: published
+language: tr
+description: Bir veri kümesi veya ortamda belirli nesnelerin, olayların veya anomalilerin
+  tanımlanması ve konumlandırılması.
 ---
-
 ## Definition
 
 Algılama, bir yapay zeka modelinin ilgi uyandıran varlıkların varlığını ve konumunu belirlediği temel bilgisayarlı görü ve sinyal işleme görevidir. Etiket atayan sınıflandırmadan farklı olarak, algılama genellikle nesnenin yerini de belirtir.

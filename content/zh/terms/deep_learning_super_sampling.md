@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /zh/terms/deep_learning_super_sampling/
 date: "2026-07-18T11:13:51.441745Z"
 lastmod: "2026-07-18T11:44:45.485158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种利用人工智能将低分辨率图像放大到更高分辨率，从而增强细节并减少伪影的技术。"
 ---
-
 ## Definition
 
 深度学习超级采样（DLSS）是一项利用神经网络从较低分辨率输入重建高分辨率图像的技术。通过分析时间数据和空间信息...

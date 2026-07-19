@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /nl/terms/view/
 date: "2026-07-18T15:31:07.724760Z"
 lastmod: "2026-07-18T17:15:08.696589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een virtuele tabel in een database die voortkomt uit een opgeslagen query, die gegevens uit één of meer tabellen presenteert zonder ze fysiek op te slaan."
 ---
-
 ## Definition
 
 In databasebeheer fungeert een weergave als een opgeslagen SQL-query die zich gedraagt als een tabel, maar geen gegevens zelf bevat. Het biedt een vereenvoudigd of aangepast perspectief op onderliggende gegevens, wat de beveiliging verbetert.

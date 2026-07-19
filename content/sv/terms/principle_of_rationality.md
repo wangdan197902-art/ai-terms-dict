@@ -1,23 +1,24 @@
 ---
-title: "Rationalitetsprincipen"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Rationalitetsprincipen
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /sv/terms/principle_of_rationality/
-date: "2026-07-18T16:14:13.245951Z"
-lastmod: "2026-07-18T17:15:09.037791Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:14:13.245951Z'
+lastmod: '2026-07-18T17:15:09.037791Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den grundläggande antagandet att intelligenta agenter agerar för att maximera sin förväntade nytta baserat på tillgänglig information."
+source: agnes_llm
+status: published
+language: sv
+description: Den grundläggande antagandet att intelligenta agenter agerar för att
+  maximera sin förväntade nytta baserat på tillgänglig information.
 ---
-
 ## Definition
 
 Denna princip postulerar att en agents handlingar bör väljas för att maximera dess förväntade prestationsmått, givet dess perceptuella indata och tidigare kunskap. Den fungerar som grunden för besluts teori.

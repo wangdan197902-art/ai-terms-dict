@@ -1,23 +1,24 @@
 ---
-title: "ROCm"
-term_id: "rocm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "software", "gpu"]
+title: ROCm
+term_id: rocm
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- software
+- GPU
 difficulty: 3
 weight: 1
-slug: "rocm"
-aliases:
-  - /tr/terms/rocm/
-date: "2026-07-18T16:11:23.081599Z"
-lastmod: "2026-07-18T16:38:07.358149Z"
+slug: rocm
+date: '2026-07-18T16:11:23.081599Z'
+lastmod: '2026-07-18T16:38:07.358149Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "NVIDIA'nın CUDA ekosistemine alternatifler sunan, GPU hesaplamaları için AMD'nin açık kaynaklı yazılım platformu."
+source: agnes_llm
+status: published
+language: tr
+description: NVIDIA'nın CUDA ekosistemine alternatifler sunan, GPU hesaplamaları için
+  AMD'nin açık kaynaklı yazılım platformu.
 ---
-
 ## Definition
 
 ROCm (Radeon Open Compute), AMD GPU'larında yüksek performanslı hesaplama sağlamak amacıyla AMD tarafından geliştirilen bir sürücü ve yazılım yığınıdır. Paralel programlama geliştirmek için gerekli kütüphaneleri, derleyicileri ve araçları sağlar.

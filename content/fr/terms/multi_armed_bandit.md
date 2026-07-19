@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /fr/terms/multi_armed_bandit/
 date: "2026-07-18T11:30:38.809167Z"
 lastmod: "2026-07-18T11:44:45.297030Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un bandit à plusieurs bras est un problème classique en théorie des probabilités et en apprentissage par renforcement qui modélise le compromis entre exploration et exploitation."
 ---
-
 ## Definition
 
 Le problème du bandit à plusieurs bras illustre le dilemme auquel est confronté un agent qui doit décider s'il faut persister avec une option connue comme étant récompensante (exploitation) ou essayer de nouvelles options pour découvrir potentiellement de meilleures récompenses

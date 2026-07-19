@@ -7,8 +7,6 @@ tags: ["search", "ranking", "applications"]
 difficulty: 4
 weight: 1
 slug: "learning_to_rank"
-aliases:
-  - /fi/terms/learning_to_rank/
 date: "2026-07-18T16:06:26.970067Z"
 lastmod: "2026-07-18T17:15:09.427982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestäminen oppimalla on valvottu koneoppimistekniikka, jota käytetään järjestämään kohteita niiden relevanssin perusteella annettuun kyselyyn nähden, yleisesti hakukoneissa."
 ---
-
 ## Definition
 
 Toisin kuin tavallinen luokittelu tai regressio, järjestäminen oppimalla keskittyy kohteiden suhteellisen järjestyksen ennustamiseen. Se käyttää pari-, lista- tai pistemäisiä lähestymistapoja minimoidakseen järjestysvirheitä kuten NDCG:tä.

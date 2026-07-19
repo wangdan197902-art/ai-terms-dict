@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /zh/terms/wumpus_world/
 date: "2026-07-18T11:38:27.568069Z"
 lastmod: "2026-07-18T11:44:45.569549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个经典的人工智能环境，用于演示在不确定性和部分可观察性下的推理过程。"
 ---
-
 ## Definition
 
 Wumpus World 是 Russell 和 Norvig 的 AI 教科书中引入的一个基于网格的环境。智能体必须在网格中导航以寻找金子，同时避开陷阱和一个名为 Wumpus 的怪物。智能体通过感知环境中的线索（如微风、臭味等）来推断周围的情况，

@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /da/terms/model_registry/
 date: "2026-07-18T16:08:27.747304Z"
 lastmod: "2026-07-18T17:15:09.312934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et centralt lager- og styringssystem til sporing af maskinlæringsmodeller gennem hele deres livscyklus."
 ---
-
 ## Definition
 
 Et Modelregister fungerer som en kritisk komponent i MLOps og giver et samlet depot til lagring, versionering og styring af ML-modeller. Det gør det muligt for hold at spore modellens metadata, ydeevnemetrics og andre vigtige oplysninger.

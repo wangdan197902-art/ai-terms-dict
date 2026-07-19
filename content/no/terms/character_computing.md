@@ -1,23 +1,24 @@
 ---
-title: "Teiknberegning"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Teiknberegning
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /no/terms/character_computing/
-date: "2026-07-18T15:45:55.918021Z"
-lastmod: "2026-07-18T16:38:06.978944Z"
+slug: character_computing
+date: '2026-07-18T15:45:55.918021Z'
+lastmod: '2026-07-18T16:38:06.978944Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Teiknberegning involverer prosessering, generering eller analyse av tekst på nivået enkeltteikn, i staden for ord- eller setningsnivå."
+source: agnes_llm
+status: published
+language: 'no'
+description: Teiknberegning involverer prosessering, generering eller analyse av tekst
+  på nivået enkeltteikn, i staden for ord- eller setningsnivå.
 ---
-
 ## Definition
 
 Dette konseptet fokuserer på manipulering av tekst der den grunnleggjande eininga for berekning er eit enkelt teikn. Det blir ofte brukt i oppgåver som krev finmaska tekstanalyse, slik som stavkontroll.

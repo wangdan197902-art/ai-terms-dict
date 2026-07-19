@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /cs/terms/artificial_consciousness/
 date: "2026-07-18T15:42:00.684817Z"
 lastmod: "2026-07-18T17:15:09.102040Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Teoretický koncept nadělení strojů subjektivními zážitky, sebevědomím a vnímavostí podobnou lidské."
 ---
-
 ## Definition
 
 Umělá vědomí zkoumají možnost vytvoření strojů, které by disponovaly skutečnými subjektivními zážitky, sebeuvědoměním a pocity, nikoliv pouze simulací inteligentního chování. Tento obor se dotýká filozofických otázek povahy mysli a toho, zda může být vědomí výsledkem čistě výpočetních procesů.

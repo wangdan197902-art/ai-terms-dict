@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /no/terms/graphql/
 date: "2026-07-18T15:57:32.676748Z"
 lastmod: "2026-07-18T16:38:07.006362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "GraphQL er et forespørselsspråk for API-er og et kjøretidssystem for å oppfylle disse forespørselene med eksisterende data, slik at klienter kan be om nøyaktig det de trenger."
 ---
-
 ## Definition
 
 Utviklet av Facebook, gir GraphQL en fullstendig og forståelig beskrivelse av dataene i API-et ditt, og gir klientene makt til å be om nøyaktig det de trenger og ingenting mer. Den erstatter flere endepunkter med ett.

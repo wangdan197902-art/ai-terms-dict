@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /ro/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:02:17.351522Z"
 lastmod: "2026-07-18T17:15:09.664170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem de clasament pe Hugging Face care evaluează și compară performanța modelelor de Recunoaștere Automată a Vorbirii."
 ---
-
 ## Definition
 
 Clasamentul ASR de pe Hugging Face este o platformă de metrici condusă de comunitate, găzduită de Hugging Face, care urmărește performanța de vârf în Recunoașterea Automată a Vorbirii. Permite cercetătorilor și dezvoltatorilor să benchmark-uiască modelele lor.

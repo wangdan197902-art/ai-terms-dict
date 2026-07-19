@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /ro/terms/structural/
 date: "2026-07-18T15:29:45.139007Z"
 lastmod: "2026-07-18T17:15:09.604733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Referitor la organizarea de bază, arhitectura sau aranjamentul componentelor dintr-un sistem."
 ---
-
 ## Definition
 
 Aspectele structurale definesc modul în care sunt organizate datele sau straturile rețelelor neuronale. În rețelele neuronale grafice, structura se referă la conexiunile dintre noduri; în învățarea profundă, la topologia straturilor.

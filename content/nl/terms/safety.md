@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /nl/terms/safety/
 date: "2026-07-18T15:29:28.572463Z"
 lastmod: "2026-07-18T17:15:08.692696Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De studie en beoefening van het waarborgen dat AI-systemen geen fysieke, digitale of maatschappelijke schade veroorzaken."
 ---
-
 ## Definition
 
 AI-veiligheid is een multidisciplinair veld gericht op het voorkomen van nadelige uitkomsten door geavanceerde kunstmatige intelligentie. Het omvat technische uitdagingen zoals alignement, interpreteerbaarheid en robuustheid, evenals beleidskaders.

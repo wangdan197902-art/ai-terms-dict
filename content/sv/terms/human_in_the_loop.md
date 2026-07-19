@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /sv/terms/human_in_the_loop/
 date: "2026-07-18T15:38:36.001654Z"
 lastmod: "2026-07-18T17:15:08.963236Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En systemdesign där människor aktivt deltar i beslutsfattandet eller återkopplingsprocessen för en AI-modell."
 ---
-
 ## Definition
 
 Människan i loopen (HITL) avser AI-system som kräver mänsklig inblandning vid olika stadier i arbetsflödet, såsom datamärkning, modellutvärdering eller godkännande av slutliga beslut. Denna metod säkerställer ansvar och noggrannhet.

@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /pt/terms/neural_scaling_law/
 date: "2026-07-18T15:14:34.192248Z"
 lastmod: "2026-07-18T15:51:59.517289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Relações empíricas que preveem melhorias no desempenho do modelo com base no aumento de dados, parâmetros ou capacidade computacional."
 ---
-
 ## Definition
 
 As leis de escalonamento neural descrevem a relação previsível de lei de potência entre o desempenho de um modelo e sua escala, incluindo o tamanho do conjunto de dados, a contagem de parâmetros e o orçamento computacional. Essas leis sugerem que...

@@ -1,23 +1,24 @@
 ---
-title: "Минимизация структурного риска"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Минимизация структурного риска
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /ru/terms/structural_risk_minimization/
-date: "2026-07-18T16:17:07.932446Z"
-lastmod: "2026-07-18T16:38:07.205981Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:17:07.932446Z'
+lastmod: '2026-07-18T16:38:07.205981Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Принцип статистического обучения, направленный на минимизацию верхней границы ошибки обобщения путем балансировки соответствия модели данным и ее сложности."
+source: agnes_llm
+status: published
+language: ru
+description: Принцип статистического обучения, направленный на минимизацию верхней
+  границы ошибки обобщения путем балансировки соответствия модели данным и ее сложности.
 ---
-
 ## Definition
 
 Минимизация структурного риска (SRM) — это метод снижения ожидаемого риска за счет контроля сложности модели для предотвращения переобучения. Он расширяет эмпирическую минимизацию риска добавлением штрафа за сложность

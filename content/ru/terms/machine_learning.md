@@ -1,23 +1,23 @@
 ---
-title: "Машинное обучение"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Машинное обучение
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /ru/terms/machine_learning/
-date: "2026-07-18T15:26:46.935433Z"
-lastmod: "2026-07-18T16:38:07.083410Z"
+slug: machine_learning
+date: '2026-07-18T15:26:46.935433Z'
+lastmod: '2026-07-18T16:38:07.083410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Раздел ИИ, ориентированный на создание систем, которые учатся на данных для улучшения производительности без явного программирования."
+source: agnes_llm
+status: published
+language: ru
+description: Раздел ИИ, ориентированный на создание систем, которые учатся на данных
+  для улучшения производительности без явного программирования.
 ---
-
 ## Definition
 
 Машинное обучение (ML) позволяет компьютерам выявлять закономерности в исторических данных и принимать решения или делать прогнозы на основе новых, ранее не виденных данных. Оно включает различные техники, такие как обучение с учителем, без учителя и с подкреплением

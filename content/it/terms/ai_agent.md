@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /it/terms/ai_agent/
 date: "2026-07-18T15:42:23.363453Z"
 lastmod: "2026-07-18T17:15:08.592798Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un sistema autonomo progettato per percepire il proprio ambiente e intraprendere azioni per raggiungere obiettivi specifici."
 ---
-
 ## Definition
 
 Un agente IA è un'entità software che opera in modo autonomo all'interno di un ambiente definito per raggiungere obiettivi predefiniti. Utilizza meccanismi di percezione per raccogliere dati ed elaborare queste informazioni.

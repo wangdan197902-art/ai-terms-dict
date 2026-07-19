@@ -1,23 +1,23 @@
 ---
-title: "Phi-koefficient"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi-koefficient
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /da/terms/phi_coefficient/
-date: "2026-07-18T16:12:11.436127Z"
-lastmod: "2026-07-18T17:15:09.321197Z"
+slug: phi_coefficient
+date: '2026-07-18T16:12:11.436127Z'
+lastmod: '2026-07-18T17:15:09.321197Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et statistisk mål for sammenhængen mellem to binære variable."
+source: agnes_llm
+status: published
+language: da
+description: Et statistisk mål for sammenhængen mellem to binære variable.
 ---
-
 ## Definition
 
 Phi-koefficienten (φ) er et mål for sammenhæng mellem to binære variable og fungerer som Pearsons korrelationskoefficient for dikotome variable. Den varierer fra -1 til +1, hvor 0 indikerer ingen sammenhæng.

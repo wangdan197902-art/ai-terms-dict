@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /zh/terms/schema_agnostic_databases/
 date: "2026-07-18T11:32:54.019425Z"
 lastmod: "2026-07-18T11:44:45.552302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "模式无关数据库是允许灵活数据结构而无需预定义模式的存储系统，通常用于NoSQL环境。"
 ---
-
 ## Definition
 
 这些数据库通过不强制执行严格的表结构或列定义来实现动态数据建模。这种灵活性允许开发人员存储非结构化或半结构化数据，适

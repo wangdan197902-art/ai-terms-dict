@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /fi/terms/similarity_learning/
 date: "2026-07-18T16:20:10.813783Z"
 lastmod: "2026-07-18T17:15:09.459264Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Koneoppimislähestymistapa, joka opettaa etäisyysmitan määrittämään kahden kohteen samankaltaisuuden tai eroavuuden."
 ---
-
 ## Definition
 
 Samankaltaisuuden oppiminen keskittyy mallien kouluttamiseen siten, että syöte kuvataan vektoritilaan, jossa samankaltaiset kohteet ovat lähellä toisiaan ja erilaiset kaukana. Tekniikoita ovat esimerkiksi siamilaiset verkostot ja triplet-häviö.

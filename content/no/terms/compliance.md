@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /no/terms/compliance/
 date: "2026-07-18T15:46:57.108759Z"
 lastmod: "2026-07-18T16:38:06.982045Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "At AI-systemer overholder juridiske forskrifter, etiske standarder og bransjeretningslinjer."
 ---
-
 ## Definition
 
 Innen kunstig intelligens refererer overholdelse til prosessen med å sikre at AI-modeller og deres utplassering er i samsvar med gjeldende lover, som GDPR eller HIPAA, samt interne etiske rammer.

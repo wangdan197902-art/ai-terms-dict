@@ -1,23 +1,24 @@
 ---
-title: "Множественное обучение инстансов"
-term_id: "multiple_instance_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "weak_labeling", "ml_paradigm"]
+title: Множественное обучение инстансов
+term_id: multiple_instance_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- Weak Labeling
+- ML Paradigm
 difficulty: 4
 weight: 1
-slug: "multiple_instance_learning"
-aliases:
-  - /ru/terms/multiple_instance_learning/
-date: "2026-07-18T15:35:11.623564Z"
-lastmod: "2026-07-18T16:38:07.108194Z"
+slug: multiple_instance_learning
+date: '2026-07-18T15:35:11.623564Z'
+lastmod: '2026-07-18T16:38:07.108194Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма слабого обучения, в которой метки присваиваются не отдельным объектам, а группам (мешкам) объектов."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма слабого обучения, в которой метки присваиваются не отдельным
+  объектам, а группам (мешкам) объектов.
 ---
-
 ## Definition
 
 Множественное обучение инстансов (MIL) решает задачи, в которых данные сгруппированы в «мешки» с единственной общей меткой, тогда как отдельные объекты внутри этих мешков остаются немаркированными. Мешок обычно считается положительным, если хотя бы один из содержащихся в нём объектов обладает целевым признаком.

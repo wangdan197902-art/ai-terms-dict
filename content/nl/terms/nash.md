@@ -1,23 +1,24 @@
 ---
-title: "Nash"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: Nash
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /nl/terms/nash/
-date: "2026-07-18T15:28:13.847489Z"
-lastmod: "2026-07-18T17:15:08.689436Z"
+slug: nash
+date: '2026-07-18T15:28:13.847489Z'
+lastmod: '2026-07-18T17:15:08.689436Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Verwijst naar het Nash-evenwicht, een toestand in de speltheorie waarin geen enkele speler kan profiteren door van strategie te veranderen zolang anderen constant blijven."
+source: agnes_llm
+status: published
+language: nl
+description: Verwijst naar het Nash-evenwicht, een toestand in de speltheorie waarin
+  geen enkele speler kan profiteren door van strategie te veranderen zolang anderen
+  constant blijven.
 ---
-
 ## Definition
 
 In AI, met name in Multi-Agent Systemen en Reinforcement Learning, beschrijft het Nash-evenwicht een stabiele toestand waarin de strategie van elke agent optimaal is gegeven de strategieën van alle andere agenten. Geen enkele agent kan zijn uitkomst verbeteren door alleen zijn eigen strategie te wijzigen.

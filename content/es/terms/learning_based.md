@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /es/terms/learning_based/
 date: "2026-07-18T10:28:27.965420Z"
 lastmod: "2026-07-18T11:44:44.757116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Indica métodos donde los algoritmos mejoran su rendimiento mediante la experiencia en lugar de reglas de programación explícitas."
 ---
-
 ## Definition
 
 Los enfoques basados en aprendizaje dependen de algoritmos estadísticos para identificar patrones y tomar decisiones según la exposición a los datos, en contraste con los sistemas basados en reglas. Esta categoría abarca el aprendizaje supervisado, no supervisado y por refuerzo.

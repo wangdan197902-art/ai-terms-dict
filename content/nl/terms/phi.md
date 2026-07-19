@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /nl/terms/phi/
 date: "2026-07-18T16:12:17.688620Z"
 lastmod: "2026-07-18T17:15:08.776654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een reeks kleine maar zeer efficiënte grote taalmodellen ontwikkeld door Microsoft Research, met focus op kennisdichtheid en redeneren."
 ---
-
 ## Definition
 
 Phi, afgekort voor 'Foundation models based on Teaching-Learning Paradigm', is een familie van compacte grote taalmodellen gemaakt door Microsoft. In tegenstelling tot traditionele LLM's getraind op enorme webcorpora, focussen Phi m

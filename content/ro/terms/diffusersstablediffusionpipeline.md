@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /ro/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:54:42.021531Z"
-lastmod: "2026-07-18T17:15:09.649178Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:54:42.021531Z'
+lastmod: '2026-07-18T17:15:09.649178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Linia de procesare standard pentru rularea Stable Diffusion v1.5, folosind codificatoare U-Net și CLIP pentru generarea text-către-imagine."
+source: agnes_llm
+status: published
+language: ro
+description: Linia de procesare standard pentru rularea Stable Diffusion v1.5, folosind
+  codificatoare U-Net și CLIP pentru generarea text-către-imagine.
 ---
-
 ## Definition
 
 Aceasta este linia de procesare fundamentală pentru modelul Stable Diffusion v1.5, utilizată pe scară largă pentru sinteza generală de imagini din text. Se bazează pe un denoizer U-Net și un codificator de text CLIP pentru a mapează prompturile textuale...

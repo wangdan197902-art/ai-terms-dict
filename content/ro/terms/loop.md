@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /ro/terms/loop/
 date: "2026-07-18T15:27:06.837338Z"
 lastmod: "2026-07-18T17:15:09.597719Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O construcție de programare care repetă un bloc de cod de mai multe ori până când este îndeplinită o condiție."
 ---
-
 ## Definition
 
 O structură fundamentală de flux de control în informatică și dezvoltarea IA, bucla permite algoritmilor să itereze prin seturi de date, să efectueze calcule repetate sau să ruleze epoci de antrenament. Tipurile comune includ

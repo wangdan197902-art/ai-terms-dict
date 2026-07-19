@@ -1,23 +1,24 @@
 ---
-title: "كرواسون (Croissant)"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: كرواسون (Croissant)
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /ar/terms/croissant/
-date: "2026-07-18T15:50:22.487719Z"
-lastmod: "2026-07-18T17:15:08.488793Z"
+slug: croissant
+date: '2026-07-18T15:50:22.487719Z'
+lastmod: '2026-07-18T17:15:08.488793Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كرواسون هو تنسيق بيانات وصفية مفتوح لوصف مجموعات البيانات، مما يسهل اكتشافها وتوافقها في مجال الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: كرواسون هو تنسيق بيانات وصفية مفتوح لوصف مجموعات البيانات، مما يسهل اكتشافها
+  وتوافقها في مجال الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 تم تطوير كرواسون كجزء من مبادرة MLCommons، ويستخدم صيغة JSON-LD لتقديم طريقة موحدة لوصف مجموعات البيانات، بما في ذلك هيكلها، وإحالاتها، وتراخيصها. يهدف إلى حل مشكلات تجزئة البيانات وصعوبة اكتشافها عبر المنصات المختلفة.

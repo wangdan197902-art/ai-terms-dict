@@ -1,23 +1,24 @@
 ---
-title: "förtränad"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: förtränad
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /sv/terms/pre_trained/
-date: "2026-07-18T15:36:47.266377Z"
-lastmod: "2026-07-18T17:15:08.959088Z"
+slug: pre_trained
+date: '2026-07-18T15:36:47.266377Z'
+lastmod: '2026-07-18T17:15:08.959088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Förtränade modeller är neurala nätverk som har tränats på stora datamängder för att lära sig generella funktioner innan de anpassas för specifika uppgifter."
+source: agnes_llm
+status: published
+language: sv
+description: Förtränade modeller är neurala nätverk som har tränats på stora datamängder
+  för att lära sig generella funktioner innan de anpassas för specifika uppgifter.
 ---
-
 ## Definition
 
 En förtränad modell är en grundläggande AI-modell som har genomgått omfattande träning på massiva, mångsidiga datamängder, såsom Wikipedia eller ImageNet. Denna initiala träning gör att modellen kan lära sig breda representationer och funktioner som sedan kan överföras till andra domäner.

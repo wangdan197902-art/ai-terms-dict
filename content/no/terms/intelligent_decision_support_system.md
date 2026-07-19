@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /no/terms/intelligent_decision_support_system/
 date: "2026-07-18T16:00:53.377656Z"
 lastmod: "2026-07-18T16:38:07.014137Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et AI-forsterket system som hjelper mennesker med å ta komplekse beslutninger ved å analysere data og gi handlingsbare innsikter."
 ---
-
 ## Definition
 
 Et intelligent beslutningsstøttesystem (IDSS) integrerer kunstig intelligens-teknikker, som maskinlæring og naturlig språkbehandling, med tradisjonelle rammeverk for beslutningsstøtte. Det

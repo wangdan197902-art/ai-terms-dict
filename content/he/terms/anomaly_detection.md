@@ -1,23 +1,24 @@
 ---
-title: "זיהוי חריגים"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: זיהוי חריגים
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /he/terms/anomaly_detection/
-date: "2026-07-18T15:41:53.761085Z"
-lastmod: "2026-07-18T17:15:09.511935Z"
+slug: anomaly_detection
+date: '2026-07-18T15:41:53.761085Z'
+lastmod: '2026-07-18T17:15:09.511935Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך זיהוי פריטים, אירועים או תצפיות נדירים הסוטים משמעותית מהרוב המוחלט של הנתונים."
+source: agnes_llm
+status: published
+language: he
+description: תהליך זיהוי פריטים, אירועים או תצפיות נדירים הסוטים משמעותית מהרוב המוחלט
+  של הנתונים.
 ---
-
 ## Definition
 
 זיהוי חריגים, המכונה גם זיהוי ערכי קיצון, כולל ניתוח נתונים כדי לאתר דפוסים שאינם עומדים בהתנהגות הצפויה. הוא בשימוש נרחב באבטחת סייבר, זיהוי הונאות וניהול מערכות.

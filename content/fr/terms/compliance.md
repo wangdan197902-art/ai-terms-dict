@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /fr/terms/compliance/
 date: "2026-07-18T11:09:43.872469Z"
 lastmod: "2026-07-18T11:44:45.209328Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le respect par les systèmes d'IA des réglementations légales, des normes éthiques et des directives de l'industrie."
 ---
-
 ## Definition
 
 En intelligence artificielle, la conformité désigne le processus visant à garantir que les modèles d'IA et leur déploiement sont alignés avec les lois applicables, telles que le RGPD ou la HIPAA, ainsi qu'avec les cadres éthiques internes.

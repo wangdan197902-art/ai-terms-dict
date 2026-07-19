@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /ja/terms/reranking/
 date: "2026-07-18T11:30:33.410994Z"
 lastmod: "2026-07-18T11:44:45.138979Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "初期の粗いランク付けを、計算コストの高いより高精度なモデルで refinement し、結果の関連性を向上させる二段階の検索プロセス。"
 ---
-
 ## Definition
 
 リランキングは、情報検索やレコメンデーションシステムにおいて精度を高めるために使用される戦略です。まず、高速だが精度の低いモデル（例：バイグラムモデルやベクトル検索）を使用して大量の候補セットを取得します。次に、より遅く、複雑なモデル（例：クロスエンコーダー）を使用して、これらの候補の詳細な関連性を評価し、最終的な順序を再構成します。これにより、検索精度を大幅に向上させられますが、計算コストが増加します。

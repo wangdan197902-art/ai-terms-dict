@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /hu/terms/perusall/
 date: "2026-07-18T16:17:55.051833Z"
 lastmod: "2026-07-18T17:15:09.822375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mesterséges intelligenciával működő szociális tanulási platform, amely automatizálja a diákok annotációinak és vitáinak értékelését digitális szövegeken."
 ---
-
 ## Definition
 
 A Perusall egy oktatástechnológiai platform, amely a mesterséges intelligenciát használja a kooperatív olvasás és annotáció megkönnyítésére. Automatikus pontszámot ad a diákok részvételére a kérdések alapján, 

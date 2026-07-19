@@ -1,23 +1,23 @@
 ---
-title: "演员-评论家算法"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: 演员-评论家算法
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /zh/terms/actor_critic_algorithm/
-date: "2026-07-18T11:04:13.788385Z"
-lastmod: "2026-07-18T11:44:45.438668Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T11:04:13.788385Z'
+lastmod: '2026-07-18T11:44:45.438668Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种结合基于价值和基于策略方法的强化学习框架，使用两个神经网络：演员（Actor）和评论家（Critic）。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种结合基于价值和基于策略方法的强化学习框架，使用两个神经网络：演员（Actor）和评论家（Critic）。
 ---
-
 ## Definition
 
 演员-评论家算法包含两个组件：演员负责更新策略以选择动作，评论家则通过估计价值函数来评估这些动作的质量。两者协同工作，以提高强化学习的稳定性和效率。

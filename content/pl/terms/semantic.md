@@ -1,23 +1,23 @@
 ---
-title: "Semantyczny"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: Semantyczny
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /pl/terms/semantic/
-date: "2026-07-18T15:29:40.621001Z"
-lastmod: "2026-07-18T17:15:08.821156Z"
+slug: semantic
+date: '2026-07-18T15:29:40.621001Z'
+lastmod: '2026-07-18T17:15:08.821156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Dotyczący znaczenia w języku lub danych, odróżniający je od struktury składniowej czy formy."
+source: agnes_llm
+status: published
+language: pl
+description: Dotyczący znaczenia w języku lub danych, odróżniający je od struktury
+  składniowej czy formy.
 ---
-
 ## Definition
 
 Analiza semantyczna w AI skupia się na rozumieniu ukrytego znaczenia danych wejściowych, a nie tylko ich wzorców powierzchniowych. Obejmuje to mapowanie słów lub symboli na pojęcia oraz wychwytywanie relacji między nimi w celu głębszego zrozumienia treści.

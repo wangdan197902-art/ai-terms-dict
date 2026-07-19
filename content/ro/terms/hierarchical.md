@@ -1,23 +1,24 @@
 ---
-title: "Ierarhic"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Ierarhic
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /ro/terms/hierarchical/
-date: "2026-07-18T15:26:08.812479Z"
-lastmod: "2026-07-18T17:15:09.596017Z"
+slug: hierarchical
+date: '2026-07-18T15:26:08.812479Z'
+lastmod: '2026-07-18T17:15:09.596017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Se referă la arhitecturi de IA sau strategii de învățare organizate în mai multe niveluri de abstractizare, unde nivelele superioare controlează cele inferioare."
+source: agnes_llm
+status: published
+language: ro
+description: Se referă la arhitecturi de IA sau strategii de învățare organizate în
+  mai multe niveluri de abstractizare, unde nivelele superioare controlează cele inferioare.
 ---
-
 ## Definition
 
 Sistemele de IA ierarhice organizează informația sau controlul într-o structură arbore-like de straturi imbricate. În Învățarea prin Reforțare, RL-ul ierarhic descompune sarcinile complexe în sub-obiective gestionate de nivele superioare de decizie.

@@ -1,23 +1,24 @@
 ---
-title: "Ball-træ"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Ball-træ
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /da/terms/ball_tree/
-date: "2026-07-18T15:43:24.023906Z"
-lastmod: "2026-07-18T17:15:09.263625Z"
+slug: ball_tree
+date: '2026-07-18T15:43:24.023906Z'
+lastmod: '2026-07-18T17:15:09.263625Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En binær trædatastruktur, der bruges til at organisere punkter i rummet, hvilket optimerer søgninger efter nærmeste naboer i højdimensionelle datasæt."
+source: agnes_llm
+status: published
+language: da
+description: En binær trædatastruktur, der bruges til at organisere punkter i rummet,
+  hvilket optimerer søgninger efter nærmeste naboer i højdimensionelle datasæt.
 ---
-
 ## Definition
 
 Et Ball-træ inddeler datapunkter i indlejrede hypersfærer (kugler) frem for hyperrektangler. Denne struktur gør det muligt effektivt at fjerne dele af søgeområdet under forespørgsler om nærmeste naboer ved at beregne afstande mellem kugler.

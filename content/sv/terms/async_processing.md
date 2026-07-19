@@ -1,23 +1,24 @@
 ---
-title: "Asynkron bearbetning"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Asynkron bearbetning
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /sv/terms/async_processing/
-date: "2026-07-18T15:46:24.489948Z"
-lastmod: "2026-07-18T17:15:08.977597Z"
+slug: async_processing
+date: '2026-07-18T15:46:24.489948Z'
+lastmod: '2026-07-18T17:15:08.977597Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En programmeringsparadigm där uppgifter körs oberoende av huvudkörningssträngen, vilket möjliggör icke-blockerande operationer."
+source: agnes_llm
+status: published
+language: sv
+description: En programmeringsparadigm där uppgifter körs oberoende av huvudkörningssträngen,
+  vilket möjliggör icke-blockerande operationer.
 ---
-
 ## Definition
 
 Asynkron bearbetning låter programvara utföra långvariga uppgifter, såsom I/O-operationer eller komplexa beräkningar, utan att frysa huvudapplikationens gränssnitt eller blockera andra processer. Genom att d

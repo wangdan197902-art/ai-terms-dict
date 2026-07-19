@@ -1,23 +1,24 @@
 ---
-title: "Piilotettu kerros"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Piilotettu kerros
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /fi/terms/hidden_layer/
-date: "2026-07-18T16:01:09.936874Z"
-lastmod: "2026-07-18T17:15:09.418785Z"
+slug: hidden_layer
+date: '2026-07-18T16:01:09.936874Z'
+lastmod: '2026-07-18T17:15:09.418785Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Syväoppimismallissa syöte- ja tulokerrosten välinen välillinen kerros, joka prosessoi ominaisuuksia."
+source: agnes_llm
+status: published
+language: fi
+description: Syväoppimismallissa syöte- ja tulokerrosten välinen välillinen kerros,
+  joka prosessoi ominaisuuksia.
 ---
-
 ## Definition
 
 Piilotettu kerros koostuu neuroneista, jotka vastaanottavat syötteitä edellisistä kerroksista, soveltavat painoja ja vakiolukuja sekä välittävät muunnetun datan eteenpäin aktivointifunktion kautta. Nämä kerrokset mahdollistavat neuroverkkojen monimutkaisten kuvioiden oppimisen.

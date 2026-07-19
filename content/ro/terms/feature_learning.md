@@ -1,23 +1,24 @@
 ---
-title: "Învățarea caracteristicilor"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Învățarea caracteristicilor
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /ro/terms/feature_learning/
-date: "2026-07-18T15:58:24.013439Z"
-lastmod: "2026-07-18T17:15:09.655876Z"
+slug: feature_learning
+date: '2026-07-18T15:58:24.013439Z'
+lastmod: '2026-07-18T17:15:09.655876Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O abordare în care algoritmii descoperă automat caracteristicile necesare detectării sau clasificării din date brute."
+source: agnes_llm
+status: published
+language: ro
+description: O abordare în care algoritmii descoperă automat caracteristicile necesare
+  detectării sau clasificării din date brute.
 ---
-
 ## Definition
 
 Învățarea caracteristicilor, adesea asociată cu învățarea profundă, permite modelelor să învețe reprezentări ierarhice direct din datele brute de intrare, în loc să se bazeze pe ingineria manuală a caracteristicilor. Prin straturi succesive de prelucrare, modelul extrage trăsături simple și le combină pentru a forma reprezentări complexe.

@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /fr/terms/tracing/
 date: "2026-07-18T11:41:54.223271Z"
 lastmod: "2026-07-18T11:44:45.349468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le traçage est une technique qui enregistre le chemin d'exécution et les états intermédiaires d'un programme ou de l'inférence d'un modèle d'IA pour faciliter le débogage et l'optimisation des perform"
 ---
-
 ## Definition
 
 Dans le contexte de l'ingénierie de l'IA, le traçage implique la capture de journaux détaillés sur la façon dont les données circulent à travers un modèle ou une application, y compris les entrées, les sorties, la latence et l'utilisation des ressources à chaque étape. Cela permet d'obtenir une visibilité complète sur le fonctionnement du système.

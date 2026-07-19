@@ -1,23 +1,25 @@
 ---
-title: "Caching"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caching
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /it/terms/caching/
-date: "2026-07-18T15:51:04.357560Z"
-lastmod: "2026-07-18T17:15:08.605047Z"
+slug: caching
+date: '2026-07-18T15:51:04.357560Z'
+lastmod: '2026-07-18T17:15:08.605047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il caching è una tecnica di memorizzazione dei dati frequentemente accessi in uno strato di archiviazione temporaneo ad alta velocità per ridurre la latenza e diminuire il carico sulle fonti di dati p"
+source: agnes_llm
+status: published
+language: it
+description: Il caching è una tecnica di memorizzazione dei dati frequentemente accessi
+  in uno strato di archiviazione temporaneo ad alta velocità per ridurre la latenza
+  e diminuire il carico sulle fonti di dati p
 ---
-
 ## Definition
 
 Nell'ingegneria dell'IA, il caching ottimizza le prestazioni mantenendo risultati di query recenti o frequenti, previsioni dei modelli o calcoli intermedi in memoria veloce (come la RAM). Ciò riduce la necessità di costosi

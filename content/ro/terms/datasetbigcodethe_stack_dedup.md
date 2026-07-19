@@ -1,23 +1,25 @@
 ---
-title: "Dataset: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 'Dataset: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /ro/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:52:00.538538Z"
-lastmod: "2026-07-18T17:15:09.642731Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:52:00.538538Z'
+lastmod: '2026-07-18T17:15:09.642731Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O versiune deduplicată a setului de date The Stack, curățată de echipa BigCode pentru a elimina fragmente de cod aproape duplicate și a obține date de antrenament mai curate."
+source: agnes_llm
+status: published
+language: ro
+description: O versiune deduplicată a setului de date The Stack, curățată de echipa
+  BigCode pentru a elimina fragmente de cod aproape duplicate și a obține date de
+  antrenament mai curate.
 ---
-
 ## Definition
 
 The Stack Dedup este un subansamblu specializat al setului de date The Stack, o vastă bibliotecă de cod sursă deschis. Acesta aplică tehnici riguroase de deduplicare pentru a elimina fragmentele de cod redundante care ar putea introduce bias-uri în antrenarea modelelor mari de limbaj.

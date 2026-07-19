@@ -1,23 +1,24 @@
 ---
-title: "De imagen a imagen"
-term_id: "image_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "style-transfer", "computer-vision"]
+title: De imagen a imagen
+term_id: image_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- Style Transfer
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "image_to_image"
-aliases:
-  - /es/terms/image_to_image/
-date: "2026-07-18T10:54:19.610632Z"
-lastmod: "2026-07-18T11:44:44.818254Z"
+slug: image_to_image
+date: '2026-07-18T10:54:19.610632Z'
+lastmod: '2026-07-18T11:44:44.818254Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica de IA generativa que transforma una imagen de entrada en un estilo, formato o contenido diferente mientras preserva los elementos estructurales."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica de IA generativa que transforma una imagen de entrada en
+  un estilo, formato o contenido diferente mientras preserva los elementos estructurales.
 ---
-
 ## Definition
 
 Imagen a imagen (I2I) implica el uso de modelos de aprendizaje profundo, como GANs o modelos de difusión, para convertir una imagen en otra. A diferencia de los filtros simples, I2I puede alterar drásticamente la apariencia, por ejemplo, convirtiendo...

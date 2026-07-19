@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /ja/terms/ai_security_institute/
 date: "2026-07-18T11:01:54.812870Z"
 lastmod: "2026-07-18T11:44:45.060173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能システムのセキュリティ確保に関するベストプラクティスの調査、開発、普及に取り組む組織。"
 ---
-
 ## Definition
 
 AIセキュリティ研究所とは、人工知能技術に関連するリスクを軽減することに特化した専門機関です。これらの研究所は、敵対的攻撃やデータプライバシーなどの問題に関する研究を実施し、安全基準の策定を行います。

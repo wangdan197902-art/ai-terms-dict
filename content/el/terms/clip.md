@@ -1,23 +1,25 @@
 ---
-title: "Περιορισμός Τιμών (Clipping)"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Περιορισμός Τιμών (Clipping)
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /el/terms/clip/
-date: "2026-07-18T15:55:08.340385Z"
-lastmod: "2026-07-18T17:15:09.888913Z"
+slug: clip
+date: '2026-07-18T15:55:08.340385Z'
+lastmod: '2026-07-18T17:15:09.888913Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο περιορισμός τιμών είναι μια τεχνική που χρησιμοποιείται για να ορίσει το μέτρο των τιμών, όπως οι κλίσεις ή οι πιθανότητες εξόδου, για την πρόληψη αριθμητικής αστάθειας κατά την εκπαίδευση."
+source: agnes_llm
+status: published
+language: el
+description: Ο περιορισμός τιμών είναι μια τεχνική που χρησιμοποιείται για να ορίσει
+  το μέτρο των τιμών, όπως οι κλίσεις ή οι πιθανότητες εξόδου, για την πρόληψη αριθμητικής
+  αστάθειας κατά την εκπαίδευση.
 ---
-
 ## Definition
 
 Στη μηχανική βαθιάς μάθησης, ο περιορισμός τιμών εφαρμόζεται συχνά στις κλίσεις για την mitigating το πρόβλημα των εκρηκτικών κλίσεων (exploding gradients), διασφαλίζοντας σταθερή ανάδραση προς τα πίσω (backpropagation). Μπορεί επίσης να αναφέρεται στον περιορισμό των logits εξόδου πριν από την εφαρμογή συναρτήσεων ενεργοποίησης.

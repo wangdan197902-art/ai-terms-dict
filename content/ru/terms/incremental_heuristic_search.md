@@ -1,23 +1,24 @@
 ---
-title: "Итеративный эвристический поиск"
-term_id: "incremental_heuristic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "heuristics"]
+title: Итеративный эвристический поиск
+term_id: incremental_heuristic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- heuristics
 difficulty: 4
 weight: 1
-slug: "incremental_heuristic_search"
-aliases:
-  - /ru/terms/incremental_heuristic_search/
-date: "2026-07-18T15:58:32.751544Z"
-lastmod: "2026-07-18T16:38:07.168477Z"
+slug: incremental_heuristic_search
+date: '2026-07-18T15:58:32.751544Z'
+lastmod: '2026-07-18T16:38:07.168477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия поиска, которая постепенно улучшает оценку решения, используя эвристические указания, вместо полного исследования пространства состояний."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия поиска, которая постепенно улучшает оценку решения, используя
+  эвристические указания, вместо полного исследования пространства состояний.
 ---
-
 ## Definition
 
 Итеративный эвристический поиск относится к алгоритмам, которые пошагово уточняют кандидата в решение под руководством эвристик, оценивающих стоимость достижения цели. В отличие от исчерпывающих поисков, эти методы фокусируются на локальных улучшениях.

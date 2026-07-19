@@ -1,23 +1,24 @@
 ---
-title: "Imatrix"
-term_id: "imatrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "training", "quantization"]
+title: Imatrix
+term_id: imatrix
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- training
+- quantization
 difficulty: 5
 weight: 1
-slug: "imatrix"
-aliases:
-  - /cs/terms/imatrix/
-date: "2026-07-18T16:02:18.472469Z"
-lastmod: "2026-07-18T17:15:09.141493Z"
+slug: imatrix
+date: '2026-07-18T16:02:18.472469Z'
+lastmod: '2026-07-18T17:15:09.141493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Specifický algoritmus používaný při trénování velkých jazykových modelů pro výpočet matic důležitosti pro efektivní optimalizaci parametrů."
+source: agnes_llm
+status: published
+language: cs
+description: Specifický algoritmus používaný při trénování velkých jazykových modelů
+  pro výpočet matic důležitosti pro efektivní optimalizaci parametrů.
 ---
-
 ## Definition
 
 Imatrix, zkratka pro Importance Matrix (Matice důležitosti), je technika primárně spojená s tréninkem a kvantizací LLM založených na GGML. Vypočítává druhé deriváty (aproximaci Hessianovy matice) ztrátové funkce modelu...

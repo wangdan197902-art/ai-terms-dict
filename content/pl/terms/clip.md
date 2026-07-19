@@ -1,23 +1,25 @@
 ---
-title: "Ocinanie (Clipping)"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Ocinanie (Clipping)
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /pl/terms/clip/
-date: "2026-07-18T15:45:43.110741Z"
-lastmod: "2026-07-18T17:15:08.854172Z"
+slug: clip
+date: '2026-07-18T15:45:43.110741Z'
+lastmod: '2026-07-18T17:15:08.854172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Ocinanie to technika służąca do ograniczania wartości bezwędnych, takich jak gradienty lub prawdopodobieństwa wyjściowe, w celu zapobiegania niestabilności numerycznej podczas szkolenia."
+source: agnes_llm
+status: published
+language: pl
+description: Ocinanie to technika służąca do ograniczania wartości bezwędnych, takich
+  jak gradienty lub prawdopodobieństwa wyjściowe, w celu zapobiegania niestabilności
+  numerycznej podczas szkolenia.
 ---
-
 ## Definition
 
 W inżynierii uczenia głębokiego ocinanie jest powszechnie stosowane do gradientów, aby złagodzić problem wybuchających gradientów, zapewniając stabilną propagację wsteczną. Może również odnosić się do ograniczania logitów wyjściowych przed

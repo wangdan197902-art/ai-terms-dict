@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /cs/terms/score/
 date: "2026-07-18T15:28:56.027965Z"
 lastmod: "2026-07-18T17:15:09.077664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Skóre je číselná hodnota představující kvalitu, míru jistoty nebo vhodnost predikce nebo řešení modelu."
 ---
-
 ## Definition
 
 Skóre kvantifikují, jak dobře se model strojového učení vyžívá proti specifickým metrikám, jako je přesnost, preciznost nebo odměna. V posilovaném učení skóre indikují kumulativní odměny, zatímco v klasifika

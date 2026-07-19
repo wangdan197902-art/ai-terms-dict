@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /da/terms/direct/
 date: "2026-07-18T15:24:06.507984Z"
 lastmod: "2026-07-18T17:15:09.221870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer til metoder eller stier, der kortlægger input direkte til output uden mellemstore komplekse transformationer eller latente repræsentationer."
 ---
-
 ## Definition
 
 I AI-sammenhænge beskriver 'direkte' ofte arkitekturer eller inferensstier, der springer mellemabstraktionslag over, såsom direkte politikoptimering i forstærkningslæring eller direkte kortlægning i end-to-end-systemer, hvilket reducerer kompleksitet og latens.

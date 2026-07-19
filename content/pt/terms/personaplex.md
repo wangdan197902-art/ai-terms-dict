@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /pt/terms/personaplex/
 date: "2026-07-18T15:16:20.932463Z"
 lastmod: "2026-07-18T15:51:59.522119Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura conceitual ou plataforma projetada para gerenciar redes complexas de personas digitais e suas interações em ambientes impulsionados por IA."
 ---
-
 ## Definition
 
 Personaplex refere-se ao ecossistema ou infraestrutura que suporta a criação, gestão e interação de múltiplas personas digitais. Ele abrange as considerações técnicas e éticas envolvidas no gerenciamento de identidades digitais, especialmente em contextos de metaverso e sistemas multiagente.

@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /id/terms/moshi/
 date: "2026-07-18T16:01:07.529958Z"
 lastmod: "2026-07-18T16:38:07.484832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model bahasa-pidato yang dikembangkan oleh Kyutai yang mempelajari representasi teks dan audio secara bersamaan untuk interaksi multimodal yang mulus."
 ---
-
 ## Definition
 
 Moshi adalah model AI canggih yang dibuat oleh Kyutai yang mengintegrasikan pemrosesan pidato dan teks ke dalam kerangka kerja terpadu. Berbeda dengan sistem tradisional yang mengubah pidato menjadi teks sebelum diproses, Moshi belajar l

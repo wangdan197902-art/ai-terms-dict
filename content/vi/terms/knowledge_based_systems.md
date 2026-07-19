@@ -1,23 +1,24 @@
 ---
-title: "Hệ thống dựa trên kiến thức"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Hệ thống dựa trên kiến thức
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /vi/terms/knowledge_based_systems/
-date: "2026-07-18T15:59:37.973409Z"
-lastmod: "2026-07-18T16:38:07.773696Z"
+slug: knowledge_based_systems
+date: '2026-07-18T15:59:37.973409Z'
+lastmod: '2026-07-18T16:38:07.773696Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Các hệ thống AI sử dụng cơ sở kiến thức tường minh và bộ suy luận để giải quyết các vấn đề phức tạp đòi hỏi chuyên môn của con người."
+source: agnes_llm
+status: published
+language: vi
+description: Các hệ thống AI sử dụng cơ sở kiến thức tường minh và bộ suy luận để
+  giải quyết các vấn đề phức tạp đòi hỏi chuyên môn của con người.
 ---
-
 ## Definition
 
 Hệ thống dựa trên kiến thức (KBS) là một nhánh của trí tuệ nhân tạo, tích hợp kiến thức chuyên biệt về một lĩnh vực cụ thể vào hệ thống máy tính để thực hiện các nhiệm vụ thường đòi hỏi sự am hiểu của con người. Chúng sử dụng...

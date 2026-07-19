@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /cs/terms/meta/
 date: "2026-07-18T16:08:28.723271Z"
 lastmod: "2026-07-18T17:15:09.152899Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V AI 'meta' obvykle odkazuje na učení se o učení nebo vyšší řady procesů, které řídí adaptaci a optimalizaci modelů."
 ---
-
 ## Definition
 
 Předpona 'meta' v umělé inteligenci označuje vyšší úroveň abstrakce, často zahrnující sebeodkaz nebo dohled nad základními procesy. Častými příklady jsou 'meta-learning', kde algoritmy učí jiné algoritmy, nebo 'meta-data', která popisují data. Tento koncept umožňuje systémům být flexibilnější a rychleji se přizpůsobovat novým úlohám.

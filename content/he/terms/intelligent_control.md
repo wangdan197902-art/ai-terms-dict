@@ -1,23 +1,24 @@
 ---
-title: "בקרה חכמה"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: בקרה חכמה
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /he/terms/intelligent_control/
-date: "2026-07-18T16:07:08.948779Z"
-lastmod: "2026-07-18T17:15:09.552120Z"
+slug: intelligent_control
+date: '2026-07-18T16:07:08.948779Z'
+lastmod: '2026-07-18T17:15:09.552120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מערכות בקרה המשתמשות בטכניקות בינה מלאכותית לניהול תהליכים דינמיים מורכבים, לא ליניאריים או לא ודאים."
+source: agnes_llm
+status: published
+language: he
+description: מערכות בקרה המשתמשות בטכניקות בינה מלאכותית לניהול תהליכים דינמיים מורכבים,
+  לא ליניאריים או לא ודאים.
 ---
-
 ## Definition
 
 בקרה חכמה משתמשת בשיטות בינה מלאכותית כגון לוגיקה מטושטשת (Fuzzy Logic), רשתות עצביות ואלגוריתמים גנטיים כדי לווסת מערכות שבהן מודלינג מתמטי מסורתי אינו מספק או...

@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /ko/terms/text_to_audio/
 date: "2026-07-18T16:18:17.756952Z"
 lastmod: "2026-07-18T16:38:06.914615Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "작성된 텍스트를 구어체 오디오로 변환하는 과정으로, 음성 합성과 비음성 소리 생성을 모두 포함합니다."
 ---
-
 ## Definition
 
 텍스트에서 오디오로(Text To Audio)는 텍스트 입력을 청각적 출력으로 변환하는 기술을 포괄하는 광범위한 용어입니다. 인간과 유사한 음성 합성을 위한 텍스트-음성 변환(TTS)과 관련이 깊지만, 여기에는

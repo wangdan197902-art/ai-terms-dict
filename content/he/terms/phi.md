@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /he/terms/phi/
 date: "2026-07-18T16:17:07.193135Z"
 lastmod: "2026-07-18T17:15:09.573700Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "סדרה של מודלי שפה גדולים קטנים אך יעילים מאוד, שפותחו על ידי Microsoft Research, המתמקדים בצפיפות ידע וביכולת הסקה."
 ---
-
 ## Definition
 
 Phi, ראשי תיבות של 'מודלי יסוד המבוססים על פרוטוקול הוראה-למידה', היא משפחה של מודלי שפה גדולים קומפקטיים שנוצרו על ידי מיקרוסופט. בניגוד ל-LLMs מסורתיים המאומנים על מאגרי נתונים עצומים מהאינטרנט, מודלי Phi

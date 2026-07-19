@@ -1,23 +1,25 @@
 ---
-title: "Hybridiälykäs järjestelmä"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: Hybridiälykäs järjestelmä
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /fi/terms/hybrid_intelligent_system/
-date: "2026-07-18T16:02:30.582821Z"
-lastmod: "2026-07-18T17:15:09.420256Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T16:02:30.582821Z'
+lastmod: '2026-07-18T17:15:09.420256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekoälyarkkitehtuuri, joka yhdistää useita laskennallisen älykkyyden tekniikoita, kuten neuroverkot ja symbolisen logiikan, monimutkaisten ongelmien ratkaisemiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Tekoälyarkkitehtuuri, joka yhdistää useita laskennallisen älykkyyden
+  tekniikoita, kuten neuroverkot ja symbolisen logiikan, monimutkaisten ongelmien
+  ratkaisemiseksi.
 ---
-
 ## Definition
 
 Hybridiälykäs järjestelmä (HIS) yhdistää eri tekoälyparadigmoja, yleensä yhdistäen yhteydellisiä lähestymistapoja kuten neuroverkkoja symbolisiin menetelmiin kuten asiantuntijajärjestelmiin tai sumeaan logiikkaan. Tämä integraatio...

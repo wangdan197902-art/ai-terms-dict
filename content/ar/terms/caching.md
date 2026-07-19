@@ -1,23 +1,24 @@
 ---
-title: "التخزين المؤقت"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: التخزين المؤقت
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /ar/terms/caching/
-date: "2026-07-18T15:47:57.775257Z"
-lastmod: "2026-07-18T17:15:08.483193Z"
+slug: caching
+date: '2026-07-18T15:47:57.775257Z'
+lastmod: '2026-07-18T17:15:08.483193Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التخزين المؤقت هو تقنية لتخزين البيانات التي يتم الوصول إليها بشكل متكرر في طبقة تخزين مؤقتة عالية السرعة لتقليل زمن الوصول وتحميل مصادر البيانات الأساسية."
+source: agnes_llm
+status: published
+language: ar
+description: التخزين المؤقت هو تقنية لتخزين البيانات التي يتم الوصول إليها بشكل متكرر
+  في طبقة تخزين مؤقتة عالية السرعة لتقليل زمن الوصول وتحميل مصادر البيانات الأساسية.
 ---
-
 ## Definition
 
 في هندسة الذكاء الاصطناعي، يحسن التخزين المؤقت الأداء من خلال الاحتفاظ بنتائج الاستعلامات الأخيرة أو المتكررة، أو تنبؤات النماذج، أو الحسابات الوسيطة في ذاكرة سريعة (مثل الذاكرة العشوائية RAM). وهذا يقلل من الحاجة إلى إجراء حسابات مكلفة

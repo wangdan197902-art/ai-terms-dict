@@ -1,23 +1,23 @@
 ---
-title: "クラス活性化マッピング"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: クラス活性化マッピング
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /ja/terms/class_activation_mapping/
-date: "2026-07-18T11:07:35.495195Z"
-lastmod: "2026-07-18T11:44:45.077050Z"
+slug: class_activation_mapping
+date: '2026-07-18T11:07:35.495195Z'
+lastmod: '2026-07-18T11:44:45.077050Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "クラス活性化マッピング（CAM）は、特定の予測クラスに対して最も責任のある入力画像の領域を強調表示する可視化技術です。"
+source: agnes_llm
+status: published
+language: ja
+description: クラス活性化マッピング（CAM）は、特定の予測クラスに対して最も責任のある入力画像の領域を強調表示する可視化技術です。
 ---
-
 ## Definition
 
 CAMは、入力画像上にオーバーレイされるヒートマップを生成し、特定のクラスラベルに対するモデルの判断にどのピクセルが最も貢献したかを示します。これは、最終的な畳み込み層に対してグローバル平均プーリングを適用することで機能します

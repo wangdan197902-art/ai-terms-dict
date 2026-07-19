@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /id/terms/compute/
 date: "2026-07-18T15:43:20.880673Z"
 lastmod: "2026-07-18T16:38:07.439195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Komputasi mengacu pada daya pemrosesan dan sumber daya yang digunakan untuk menjalankan algoritma dan menangani data dalam sistem AI."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, komputasi mewakili infrastruktur dasar yang diperlukan untuk melatih model dan menjalankan inferensi. Hal ini mencakup komponen perangkat keras seperti CPU, GPU, dan TPU, serta sumber daya perangkat lunak yang mendukungnya.

@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /no/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:42:52.438854Z"
 lastmod: "2026-07-18T16:38:06.971667Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av AI-teknologier i valgte prosesser, inkludert kampanjehåndtering, velgeranalyse og bekymringer rundt desinformasjon."
 ---
-
 ## Definition
 
 Dette begrepet omfatter AIens dobbelte rolle i demokratiske prosesser: å øke effektiviteten gjennom dataanalyse og utgjøre risiko gjennom manipulasjon. På den ene siden hjelper AI kampanjer med å målrette velgere og optimalisere...

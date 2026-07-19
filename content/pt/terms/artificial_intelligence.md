@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /pt/terms/artificial_intelligence/
 date: "2026-07-18T14:32:09.368178Z"
 lastmod: "2026-07-18T15:51:59.422878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A simulação de processos de inteligência humana por sistemas computacionais."
 ---
-
 ## Definition
 
 Inteligência Artificial (IA) refere-se à capacidade de computadores digitais ou robôs controlados por computador de realizar tarefas comumente associadas a seres inteligentes. Abrange várias subáreas, incluindo aprendizado de máquina e processamento de linguagem natural.

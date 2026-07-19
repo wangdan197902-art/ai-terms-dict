@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /cs/terms/serverless/
 date: "2026-07-18T16:17:18.468427Z"
 lastmod: "2026-07-18T17:15:09.200180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Model cloudového výpočetního provedení, kde poskytovatel dynamicky spravuje přidělování výpočetních zdrojů místo uživatele."
 ---
-
 ## Definition
 
 Architektura bez serverů umožňuje vývojářům vytvářet a spouštět aplikace bez správy infrastruktury serverů. Poskytovatel cloudu automaticky škáluje zdroje nahoru nebo dolů podle poptávky a účtuje poplatky pouze za skutečně spotřebované zdroje.

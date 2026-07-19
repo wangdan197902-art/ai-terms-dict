@@ -1,23 +1,25 @@
 ---
-title: "Uczenie aktywne"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Uczenie aktywne
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /pl/terms/active_learning/
-date: "2026-07-18T15:39:01.340415Z"
-lastmod: "2026-07-18T17:15:08.842166Z"
+slug: active_learning
+date: '2026-07-18T15:39:01.340415Z'
+lastmod: '2026-07-18T17:15:08.842166Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Strategia uczenia maszynowego, w której algorytm selektywnie zwraca się do użytkownika lub orakula o etykietowanie nowych punktów danych, optymalizując proces szkolenia."
+source: agnes_llm
+status: published
+language: pl
+description: Strategia uczenia maszynowego, w której algorytm selektywnie zwraca się
+  do użytkownika lub orakula o etykietowanie nowych punktów danych, optymalizując
+  proces szkolenia.
 ---
-
 ## Definition
 
 Uczenie aktywne zmniejsza ilość wymaganych danych oznaczonych, pozwalając modelowi na wybieranie najbardziej informacyjnych instancji do ręcznego etykietowania. Zamiast biernie przyjmować losowe próbki, algorytm aktywnie wybiera dane.

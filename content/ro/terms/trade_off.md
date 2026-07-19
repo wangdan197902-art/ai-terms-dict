@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /ro/terms/trade_off/
 date: "2026-07-18T15:34:15.676947Z"
 lastmod: "2026-07-18T17:15:09.611173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un compromis în care obținerea unui avantaj într-o anumită zonă duce la o pierdere în alta."
 ---
-
 ## Definition
 
 În domeniul IA și ingineriei, un compromis se referă la echilibrul necesar atunci când se optimizează obiective conflictuale, cum ar fi acuratețea modelului versus costul computațional sau latența versus precizia. Deoarece resursele sunt limitate, este esențial să se găsească punctul optim de funcționare între aceste variabile concurente.

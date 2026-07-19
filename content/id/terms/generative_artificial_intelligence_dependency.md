@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /id/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:52:05.942627Z"
 lastmod: "2026-07-18T16:38:07.462064Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ketergantungan organisasi pada sistem kecerdasan buatan generatif untuk operasi kritis, yang menciptakan risiko terkait ketersediaan, akurasi, dan keamanan."
 ---
-
 ## Definition
 
 Konsep ini merujuk pada ketergantungan strategis dan operasional yang ditempatkan oleh bisnis pada model kecerdasan buatan generatif untuk melakukan tugas-tugas esensial seperti pembuatan konten, layanan pelanggan, dan analisis data. Seiring dengan adopsi...

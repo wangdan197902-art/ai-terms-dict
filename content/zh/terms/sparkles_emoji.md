@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /zh/terms/sparkles_emoji/
 date: "2026-07-18T11:34:33.031970Z"
 lastmod: "2026-07-18T11:44:45.556036Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在AI界面中常用来表示新功能、增强功能或生成内容中魔法般转换的视觉符号。"
 ---
-
 ## Definition
 
 闪光表情符号是一种图形图标，常用于AI应用程序的用户界面，以表示新颖性、改进或创意增强。它作为一种非语言提示，表明内容已更新或具有特殊效果。

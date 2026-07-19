@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /nl/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:49:32.305037Z"
 lastmod: "2026-07-18T17:15:08.733011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een grootschalige dataset van vraag-antwoordparen afgeleid van Wikipedia, ontworpen voor het trainen van dichte passage-opzoeking."
 ---
-
 ## Definition
 
 De PAQ (Pseudo-Answer Quality) dataset bevat miljoenen automatisch gegenereerde vraag-antwoordparen die zijn extraherend uit Wikipedia. Deze is specifiek ontwikkeld om dichte opzoekers te trainen door het verstrekken van.

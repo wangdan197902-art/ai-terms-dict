@@ -1,23 +1,24 @@
 ---
-title: "Google Clips"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: Google Clips
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /he/terms/google_clips/
-date: "2026-07-18T16:01:37.512374Z"
-lastmod: "2026-07-18T17:15:09.544155Z"
+slug: google_clips
+date: '2026-07-18T16:01:37.512374Z'
+lastmod: '2026-07-18T17:15:09.544155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "Google Clips היה מצלמה ניידת בקטן המופעלת על ידי בינה מלאכותית, שתוכננה לתפוס רגעים באופן אוטומטי באמצעות למידת מכונה."
+source: agnes_llm
+status: published
+language: he
+description: Google Clips היה מצלמה ניידת בקטן המופעלת על ידי בינה מלאכותית, שתוכננה
+  לתפוס רגעים באופן אוטומטי באמצעות למידת מכונה.
 ---
-
 ## Definition
 
 Google Clips היה מכשיר צרכנות שפותח על ידי גוגל, אשר ניצל למידת מכונה מקומית (on-device) כדי לזהות סצנות ונושאים מעניינים, כמו פנים או חיות מחמד, ולצלם אותם באופן אוטומטי.

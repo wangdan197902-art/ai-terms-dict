@@ -1,23 +1,23 @@
 ---
-title: "one-shot"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: one-shot
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /ro/terms/one_shot/
-date: "2026-07-18T15:33:20.833874Z"
-lastmod: "2026-07-18T17:15:09.610010Z"
+slug: one_shot
+date: '2026-07-18T15:33:20.833874Z'
+lastmod: '2026-07-18T17:15:09.610010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de învățare în care un model învață să execute o sarcină dintr-un singur exemplu etichetat."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de învățare în care un model învață să execute o sarcină
+  dintr-un singur exemplu etichetat.
 ---
-
 ## Definition
 
 Învățarea one-shot este un tip specific de învățare few-shot, în care algoritmul trebuie să generalizeze către clase sau sarcini noi după ce a văzut doar un singur exemplu pozitiv în timpul antrenamentului. Această abordare imită capacitatea umană

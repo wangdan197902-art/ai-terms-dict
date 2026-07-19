@@ -1,23 +1,24 @@
 ---
-title: "ROCm"
-term_id: "rocm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "software", "gpu"]
+title: ROCm
+term_id: rocm
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- software
+- GPU
 difficulty: 3
 weight: 1
-slug: "rocm"
-aliases:
-  - /ar/terms/rocm/
-date: "2026-07-18T16:18:41.290600Z"
-lastmod: "2026-07-18T17:15:08.542618Z"
+slug: rocm
+date: '2026-07-18T16:18:41.290600Z'
+lastmod: '2026-07-18T17:15:08.542618Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "منصة برمجيات مفتوحة المصدر من شركة AMD للحوسبة على وحدات معالجة الرسومات (GPU)، توفر بدائل لنظام CUDA الخاص بشركة NVIDIA."
+source: agnes_llm
+status: published
+language: ar
+description: منصة برمجيات مفتوحة المصدر من شركة AMD للحوسبة على وحدات معالجة الرسومات
+  (GPU)، توفر بدائل لنظام CUDA الخاص بشركة NVIDIA.
 ---
-
 ## Definition
 
 ROCm (Radeon Open Compute) هي مجموعة من برامج التشغيل والبرمجيات التي طورته AMD لتمكين الحوسبة عالية الأداء على وحدات معالجة الرسومات من AMD. توفر المكتبات والمترجمات والأدوات اللازمة لتطوير التطبيقات المتوازية.

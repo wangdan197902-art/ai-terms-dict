@@ -1,23 +1,25 @@
 ---
-title: "Hazug osztaléka"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: Hazug osztaléka
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /hu/terms/liars_dividend/
-date: "2026-07-18T16:10:20.616985Z"
-lastmod: "2026-07-18T17:15:09.802581Z"
+slug: liars_dividend
+date: '2026-07-18T16:10:20.616985Z'
+lastmod: '2026-07-18T17:15:09.802581Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A jelenség, amikor a mélyhamisítványok és a mesterséges intelligencia által generált média létezete lehetővé teszi a rosszindulatú szereplők számára, hogy a saját visszaéléseik valódi bizonyítékait ha"
+source: agnes_llm
+status: published
+language: hu
+description: A jelenség, amikor a mélyhamisítványok és a mesterséges intelligencia
+  által generált média létezete lehetővé teszi a rosszindulatú szereplők számára,
+  hogy a saját visszaéléseik valódi bizonyítékait ha
 ---
-
 ## Definition
 
 A hazug osztaléka a haladó generatív mesterséges intelligenciával, különösen a mélyhamisítványokkal (deepfakes) járó társadalmi kockázatra utal. Mivel a szintetikus média egyre nehezebben megkülönböztethet a valóságtól, a rosszindulatú egyének azt állíthatják, hogy a róluk készült valós bizonyítékok is csak mesterségesen előállított tartalmak.

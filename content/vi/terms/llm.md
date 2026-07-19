@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /vi/terms/llm/
 date: "2026-07-18T15:26:37.915729Z"
 lastmod: "2026-07-18T16:38:07.688379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình học sâu được huấn luyện trên các tập dữ liệu văn bản khổng lồ để hiểu và tạo ra ngôn ngữ giống con người."
 ---
-
 ## Definition
 
 Các Mô hình Ngôn ngữ Lớn (LLMs) là hệ thống trí tuệ nhân tạo tiên tiến dựa trên kiến trúc Transformer, được huấn luyện trên các bộ dữ liệu văn bản và mã nguồn cực lớn. Chúng học các quy luật thống kê trong ngôn ngữ

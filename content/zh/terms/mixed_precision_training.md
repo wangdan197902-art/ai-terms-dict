@@ -1,23 +1,23 @@
 ---
-title: "混合精度训练"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: 混合精度训练
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /zh/terms/mixed_precision_training/
-date: "2026-07-18T11:26:13.148847Z"
-lastmod: "2026-07-18T11:44:45.532155Z"
+slug: mixed_precision_training
+date: '2026-07-18T11:26:13.148847Z'
+lastmod: '2026-07-18T11:44:45.532155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种使用16位和32位浮点数进行训练的技術，旨在加速计算并减少内存使用。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种使用16位和32位浮点数进行训练的技術，旨在加速计算并减少内存使用。
 ---
-
 ## Definition
 
 混合精度训练（MPT）在神经网络训练过程中结合使用半精度（FP16）和全精度（FP32）数据类型。通过使用FP16处理大多数操作，MPT减少了内存占用并提

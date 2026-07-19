@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /pl/terms/artificial_intimacy/
 date: "2026-07-18T15:41:21.842701Z"
 lastmod: "2026-07-18T17:15:08.846833Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Połączenie emocjonalne, jakie użytkownicy tworzą z encjami AI symulującymi empatię, towarzystwo i interakcję osobistą."
 ---
-
 ## Definition
 
 Sztuczna intymność odnosi się do zjawiska psychologicznego, w którym ludzie rozwijają prawdziwe więzi emocjonalne z agentami sztucznymi, takimi jak boty czatu, wirtualni asystenci czy roboty społeczne. Systemy te są

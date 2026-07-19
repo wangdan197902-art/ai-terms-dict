@@ -1,23 +1,25 @@
 ---
-title: "LLM-as-a-Judge"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM-as-a-Judge
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /it/terms/llm_as_a_judge/
-date: "2026-07-18T16:07:09.391313Z"
-lastmod: "2026-07-18T17:15:08.641473Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:07:09.391313Z'
+lastmod: '2026-07-18T17:15:08.641473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo per valutare gli output dei modelli linguistici di grandi dimensioni (LLM) utilizzando un altro LLM per assegnare punteggi o classificare le risposte in base a criteri specifici."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo per valutare gli output dei modelli linguistici di grandi dimensioni
+  (LLM) utilizzando un altro LLM per assegnare punteggi o classificare le risposte
+  in base a criteri specifici.
 ---
-
 ## Definition
 
 LLM-as-a-Judge è un paradigma di valutazione in cui un modello linguistico di grandi dimensioni funge da valutatore automatizzato per la qualità degli output di altri modelli. Invece di affidarsi esclusivamente ad annotatori umani o metriche rigide, questo approccio sfrutta la capacità degli LLM di comprendere il linguaggio naturale e di giudicare la coerenza, la rilevanza e la sicurezza delle risposte generate.

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /nl/terms/linear/
 date: "2026-07-18T15:27:34.409264Z"
 lastmod: "2026-07-18T17:15:08.687708Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Beschrijft bewerkingen of relaties waarbij de uitvoer recht evenredig is met de invoer, wat de basis vormt voor affiene transformaties in neurale lagen."
 ---
-
 ## Definition
 
 Lineaire bewerkingen omvatten vermenigvuldiging en optelling zonder niet-lineaire activeringen. In neurale netwerken passen lineaire lagen (of dichte lagen) een gewichtsmatrixtransformatie toe op invoervectoren. Hoewel lineaire...

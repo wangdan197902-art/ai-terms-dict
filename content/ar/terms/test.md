@@ -1,23 +1,23 @@
 ---
-title: "اختبار"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: اختبار
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /ar/terms/test/
-date: "2026-07-18T15:31:21.630854Z"
-lastmod: "2026-07-18T17:15:08.450222Z"
+slug: test
+date: '2026-07-18T15:31:21.630854Z'
+lastmod: '2026-07-18T17:15:08.450222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير الاختبار إلى مرحلة التقييم حيث يتم فحص نموذج ذكاء اصطناعي مدرب على بيانات غير مرئية سابقاً لقياس أدائه."
+source: agnes_llm
+status: published
+language: ar
+description: يشير الاختبار إلى مرحلة التقييم حيث يتم فحص نموذج ذكاء اصطناعي مدرب على
+  بيانات غير مرئية سابقاً لقياس أدائه.
 ---
-
 ## Definition
 
 مجموعة الاختبار هي جزء من البيانات يُحتفظ بها خارج عملية التدريب لتقييم قدرة النموذج النهائي على التعميم. وعلى عكس مجموعات التحقق المستخدمة لضبط المعلمات الفائقة، توفر مجموعة الاختبار تقييماً نهائياً وغير متحيز...

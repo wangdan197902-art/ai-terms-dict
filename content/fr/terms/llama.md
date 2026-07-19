@@ -1,23 +1,24 @@
 ---
-title: "Llama"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: Llama
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /fr/terms/llama/
-date: "2026-07-18T11:25:56.352379Z"
-lastmod: "2026-07-18T11:44:45.285475Z"
+slug: llama
+date: '2026-07-18T11:25:56.352379Z'
+lastmod: '2026-07-18T11:44:45.285475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une famille de grands modèles de langage développée par Meta AI, connue pour ses poids ouverts et ses performances élevées."
+source: agnes_llm
+status: published
+language: fr
+description: Une famille de grands modèles de langage développée par Meta AI, connue
+  pour ses poids ouverts et ses performances élevées.
 ---
-
 ## Definition
 
 Llama (Large Language Model Meta AI) est une série de grands modèles de langage fondamentaux publiés par Meta. Contrairement à de nombreux modèles propriétaires, les modèles Llama sont souvent publiés avec des poids ouverts, permettant aux chercheurs et aux développeurs de les utiliser, de les modifier et de les entraîner librement.

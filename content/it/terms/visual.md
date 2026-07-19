@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /it/terms/visual/
 date: "2026-07-18T15:30:55.384816Z"
 lastmod: "2026-07-18T17:15:08.577984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Relativo alla vista o alle immagini, spesso riferito ai compiti di visione artificiale che elaborano e interpretano dati visivi come immagini e video."
 ---
-
 ## Definition
 
 Il termine 'visivo' nell'IA si riferisce principalmente alla Computer Vision, il campo dedicato a consentire alle macchine di derivare informazioni significative da immagini digitali, video e altri input visivi. Coinvolge l'elaborazione di pixel.

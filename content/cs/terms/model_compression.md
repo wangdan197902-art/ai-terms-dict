@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /cs/terms/model_compression/
 date: "2026-07-18T16:09:30.471171Z"
 lastmod: "2026-07-18T17:15:09.154409Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Komprese modelu označuje techniky, které snižují velikost a výpočetní nároky strojových učebních modelů."
 ---
-
 ## Definition
 
 Tato kategorie zahrnuje metody jako odstraňování prvků (pruning), kvantizaci a distilaci znalostí, jejichž cílem je zmenšit stopu modelu při zachování výkonu. Je nezbytná pro nasazení složitých modelů AI

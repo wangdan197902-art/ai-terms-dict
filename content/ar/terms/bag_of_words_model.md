@@ -1,23 +1,24 @@
 ---
-title: "نموذج كيس الكلمات"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: نموذج كيس الكلمات
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /ar/terms/bag_of_words_model/
-date: "2026-07-18T15:46:49.821826Z"
-lastmod: "2026-07-18T17:15:08.479877Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:46:49.821826Z'
+lastmod: '2026-07-18T17:15:08.479877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج كيس الكلمات هو تمثيل مبسط للنص يصف تكرار ظهور الكلمات في المستند، متجاهلاً القواعد النحوية وترتيب الكلمات."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج كيس الكلمات هو تمثيل مبسط للنص يصف تكرار ظهور الكلمات في المستند،
+  متجاهلاً القواعد النحوية وترتيب الكلمات.
 ---
-
 ## Definition
 
 هذه التقنية في معالجة اللغات الطبيعية تمثل النص كمجموعة متعددة من الكلمات، متجاهلة التركيب النحوي والتسلسل. تقوم بتحويل المستندات إلى متجهات رقمية بناءً على تكرار الكلمات أو وجودها فقط.

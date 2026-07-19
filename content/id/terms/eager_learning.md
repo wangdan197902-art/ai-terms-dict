@@ -1,23 +1,25 @@
 ---
-title: "Pembelajaran Eager"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Pembelajaran Eager
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /id/terms/eager_learning/
-date: "2026-07-18T15:48:54.582064Z"
-lastmod: "2026-07-18T16:38:07.452814Z"
+slug: eager_learning
+date: '2026-07-18T15:48:54.582064Z'
+lastmod: '2026-07-18T16:38:07.452814Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pembelajaran eager adalah pendekatan pembelajaran mesin di mana fungsi generalisasi dipelajari selama fase pelatihan, memungkinkan waktu prediksi yang cepat setelah pelatihan selesai."
+source: agnes_llm
+status: published
+language: id
+description: Pembelajaran eager adalah pendekatan pembelajaran mesin di mana fungsi
+  generalisasi dipelajari selama fase pelatihan, memungkinkan waktu prediksi yang
+  cepat setelah pelatihan selesai.
 ---
-
 ## Definition
 
 Dalam pembelajaran eager, sistem membangun fungsi target atau model umum berdasarkan data pelatihan sebelum menghadapi instance baru. Hal ini berbeda dengan pembelajaran malas (lazy learning), yang menunda proses generalisasi hingga saat inference atau prediksi dilakukan.

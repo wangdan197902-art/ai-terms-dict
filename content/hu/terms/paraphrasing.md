@@ -1,23 +1,24 @@
 ---
-title: "Átfogalmazás"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Átfogalmazás
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /hu/terms/paraphrasing/
-date: "2026-07-18T16:17:16.448097Z"
-lastmod: "2026-07-18T17:15:09.820861Z"
+slug: paraphrasing
+date: '2026-07-18T16:17:16.448097Z'
+lastmod: '2026-07-18T17:15:09.820861Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az NLP feladata, amely során szöveget újrafogalmaznak ugyanazon jelentés megőrzése mellett, más szavak vagy mondatstruktúrák használatával."
+source: agnes_llm
+status: published
+language: hu
+description: Az NLP feladata, amely során szöveget újrafogalmaznak ugyanazon jelentés
+  megőrzése mellett, más szavak vagy mondatstruktúrák használatával.
 ---
-
 ## Definition
 
 A természetnyelv-feldolgozásban (NLP) az átfogalmazás egy bemeneti szöveg alternatív kifejezéseinek generálását jelenti az eredeti szemantikai jelentés megtartása mellett. Kulcsfontosságú a plágium csökkentésében és a szövegek változatosságának növelésében.

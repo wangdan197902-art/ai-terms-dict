@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /en/terms/evaluation/
 date: "2026-07-18T09:31:46.636206Z"
 lastmod: "2026-07-18T11:44:44.596782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Evaluation is the process of assessing the performance, accuracy, and robustness of an AI model against predefined metrics and datasets."
 ---
-
 ## Definition
 
 Evaluation involves systematically measuring how well an AI model performs on specific tasks using quantitative metrics (e.g., accuracy, F1-score, BLEU) and qualitative assessments. It includes validation, testing, and stress-testing to ensure reliability. Effective evaluation identifies biases, overfitting, and generalization errors, providing essential feedback for iterative model improvement and ensuring safety before deployment in real-world scenarios.

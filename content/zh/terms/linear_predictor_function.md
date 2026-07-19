@@ -1,23 +1,23 @@
 ---
-title: "线性预测函数"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: 线性预测函数
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /zh/terms/linear_predictor_function/
-date: "2026-07-18T11:24:20.005981Z"
-lastmod: "2026-07-18T11:44:45.525056Z"
+slug: linear_predictor_function
+date: '2026-07-18T11:24:20.005981Z'
+lastmod: '2026-07-18T11:44:45.525056Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种计算输入变量的线性组合以预测结果的数学函数。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种计算输入变量的线性组合以预测结果的数学函数。
 ---
-
 ## Definition
 
 在统计建模和机器学习中，线性预测函数表示输入特征的加权和加上偏置项。它是广义线性模型（GLM）的核心组成部分。

@@ -1,23 +1,23 @@
 ---
-title: "Εγκατάσταση: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Εγκατάσταση: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /el/terms/deployazure/
-date: "2026-07-18T16:02:25.191520Z"
-lastmod: "2026-07-18T17:15:09.900419Z"
+slug: deployazure
+date: '2026-07-18T16:02:25.191520Z'
+lastmod: '2026-07-18T17:15:09.900419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία φιλοξενίας και εκτέλεσης μοντέλων μηχανικής μάθησης στις υπηρεσίες υποδοχής cloud της Microsoft Azure."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία φιλοξενίας και εκτέλεσης μοντέλων μηχανικής μάθησης στις
+  υπηρεσίες υποδοχής cloud της Microsoft Azure.
 ---
-
 ## Definition
 
 Η εγκατάσταση στο Azure περιλαμβάνει τη χρήση εργαλείων native για cloud, όπως το Azure Machine Learning, το Azure Kubernetes Service (AKS) ή οι Azure Functions, για την εξυπηρέτηση μοντέλων ML σε μεγάλη κλίμακα. Περιλαμβάνει τη διαχείριση των πόρων υπολογιστικής ισχύος, την αυτοματοποίηση και την παρακολούθηση.

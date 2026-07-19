@@ -1,23 +1,24 @@
 ---
-title: "Native-language identification"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Native-language identification
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /nl/terms/native_language_identification/
-date: "2026-07-18T16:09:58.771870Z"
-lastmod: "2026-07-18T17:15:08.771571Z"
+slug: native_language_identification
+date: '2026-07-18T16:09:58.771870Z'
+lastmod: '2026-07-18T17:15:08.771571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces waarbij automatisch de moedertaal van een spreker wordt bepaald op basis van zijn of haar spraak- of tekstmonsters."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces waarbij automatisch de moedertaal van een spreker wordt bepaald
+  op basis van zijn of haar spraak- of tekstmonsters.
 ---
-
 ## Definition
 
 Native-language identification (NLI) is een deelgebied van natuurlijke taalverwerking dat zich richt op het herkennen van de eerste taal die een spreker heeft geleerd. In tegenstelling tot algemene taalherkenning, analyseert NLI s

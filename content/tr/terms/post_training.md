@@ -1,23 +1,25 @@
 ---
-title: "eğitim sonrası"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: eğitim sonrası
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /tr/terms/post_training/
-date: "2026-07-18T15:33:03.771463Z"
-lastmod: "2026-07-18T16:38:07.252088Z"
+slug: post_training
+date: '2026-07-18T15:33:03.771463Z'
+lastmod: '2026-07-18T16:38:07.252088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Eğitim sonrası, önceden eğitilmiş bir modeli belirli veri kümeleri üzerinde ince ayarlayarak belirli görevlere uyarlamak veya performansını optimize etmek için kullanılan aşamayı ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Eğitim sonrası, önceden eğitilmiş bir modeli belirli veri kümeleri üzerinde
+  ince ayarlayarak belirli görevlere uyarlamak veya performansını optimize etmek için
+  kullanılan aşamayı ifade eder.
 ---
-
 ## Definition
 
 Eğitim sonrası, makine öğrenimi yaşam döngüsünde, modelin büyük ölçekli ve genel amaçlı veriler üzerinde ilk ön eğitiminden sonra gerçekleşen kritik bir aşamadır. Bu aşamada model, belirli görevlere uyum sağlamak veya performansını artırmak amacıyla özel veri setleri üzerinde yeniden eğitilir veya ince ayarlanır.

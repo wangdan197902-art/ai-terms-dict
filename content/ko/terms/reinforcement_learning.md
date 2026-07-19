@@ -1,23 +1,22 @@
 ---
-title: "강화 학습"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: 강화 학습
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /ko/terms/reinforcement_learning/
-date: "2026-07-18T15:28:25.409666Z"
-lastmod: "2026-07-18T16:38:06.782419Z"
+slug: reinforcement_learning
+date: '2026-07-18T15:28:25.409666Z'
+lastmod: '2026-07-18T16:38:06.782419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "강화 학습은 에이전트가 보상을 최대화하기 위해 환경과 상호작용하며 의사결정을 학습하는 머신러닝의 한 유형입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 강화 학습은 에이전트가 보상을 최대화하기 위해 환경과 상호작용하며 의사결정을 학습하는 머신러닝의 한 유형입니다.
 ---
-
 ## Definition
 
 강화 학습(Reinforcement Learning, RL)은 지능형 에이전트가 환경에서 누적 보상을 최대화하기 위해 어떻게 행동을 취해야 하는지에 초점을 맞춘 머신러닝의 한 분야입니다. 지도 학습과는 달리, 강화 학습은 에이전트가 환경과의 상호작용을 통해 시행착오를 겪으며 최적의 행동 전략을 스스로 학습합니다.

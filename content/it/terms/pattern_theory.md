@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /it/terms/pattern_theory/
 date: "2026-07-18T16:15:44.769982Z"
 lastmod: "2026-07-18T17:15:08.657331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un quadro matematico per descrivere strutture complesse analizzando i pattern all'interno degli spazi dei dati."
 ---
-
 ## Definition
 
 La teoria dei pattern fornisce una rigorosa base matematica per comprendere come oggetti e fenomeni complessi possano essere descritti attraverso i pattern. Postula che qualsiasi oggetto possa essere caratterizzato dai suoi...

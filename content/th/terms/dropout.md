@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /th/terms/dropout/
 date: "2026-07-18T15:35:22.605732Z"
 lastmod: "2026-07-18T16:38:07.560026Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ดรอปเอาต์เป็นเทคนิคการปรับให้เรียบ (regularization) ที่ละเว้นนิวรอนแบบสุ่มระหว่างการฝึกเพื่อป้องกันปัญหาการเรียนรู้เกิน (overfitting)"
 ---
-
 ## Definition
 
 ในโครงข่ายประสาทเทียม ดรอปเอาต์ช่วยป้องกันการเรียนรู้เกินโดยการลบกลุ่มย่อยของนิวรอนแบบสุ่มออกชั่วคราวในแต่ละขั้นตอนการฝึก สิ่งนี้บังคับให้เครือข่ายเรียนรู้คุณลักษณะที่แข็งแกร่งซึ่งมีประโยชน์ในบริบทต่างๆ

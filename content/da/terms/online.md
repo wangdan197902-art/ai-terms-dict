@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /da/terms/online/
 date: "2026-07-18T15:27:47.471458Z"
 lastmod: "2026-07-18T17:15:09.230053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer til maskinlæringsmodeller, der lærer kontinuerligt fra nye datastrømme i realtid uden at skulle genstartes fra bunden."
 ---
-
 ## Definition
 
 Online læring er et maskinlæringsparadigme, hvor modellen opdateres inkrementelt, når nye datapunkter ankommer, i stedet for at blive trænet på en statisk datapakke på én gang. Denne tilgang er afgørende for dynamiske miljøer.

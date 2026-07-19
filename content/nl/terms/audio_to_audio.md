@@ -1,23 +1,24 @@
 ---
-title: "Audio naar audio"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Audio naar audio
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /nl/terms/audio_to_audio/
-date: "2026-07-18T15:43:41.780998Z"
-lastmod: "2026-07-18T17:15:08.719393Z"
+slug: audio_to_audio
+date: '2026-07-18T15:43:41.780998Z'
+lastmod: '2026-07-18T17:15:08.719393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een taak voor generatieve AI waarbij invoeraudio wordt getransformeerd naar uitvoeraudio, waarbij specifieke kenmerken behouden of gewijzigd worden."
+source: agnes_llm
+status: published
+language: nl
+description: Een taak voor generatieve AI waarbij invoeraudio wordt getransformeerd
+  naar uitvoeraudio, waarbij specifieke kenmerken behouden of gewijzigd worden.
 ---
-
 ## Definition
 
 Audio-naar-audio verwijst naar neurale netwerkarchitecturen die ontworpen zijn om één audiosignaal naar een ander te mappen. In tegenstelling tot tekst-naar-spraak, omvat dit directe transformatie van golfformen of spectrogrammen. Toepassingen incl

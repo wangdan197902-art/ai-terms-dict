@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /hu/terms/rate_limiting/
 date: "2026-07-18T16:20:53.248771Z"
 lastmod: "2026-07-18T17:15:09.828459Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mérnöki vezérlőmechanizmus, amely korlátozza, hogy egy ügyfél hány kérést tehet meg egy szolgáltatáshoz egy adott időablakon belül."
 ---
-
 ## Definition
 
 A sebességkorlátozás védi az AI-szolgáltatásokat és API-kat a visszaélések, túlterhelés és túlzott erőforrás-felhasználás ellen. Biztosítja a felhasználók közötti méltányos használatot, és fenntartja a rendszer stabilitását a teljesítmény korlátozásával. Gyakori stratégiák...

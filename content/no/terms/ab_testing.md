@@ -1,23 +1,24 @@
 ---
-title: "A/B-testing"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/B-testing
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /no/terms/ab_testing/
-date: "2026-07-18T15:39:35.341048Z"
-lastmod: "2026-07-18T16:38:06.964748Z"
+slug: ab_testing
+date: '2026-07-18T15:39:35.341048Z'
+lastmod: '2026-07-18T16:38:06.964748Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En statistisk metode som sammenligner to versjoner av en variabel for å avgjøre hvilken som presterer bedre."
+source: agnes_llm
+status: published
+language: 'no'
+description: En statistisk metode som sammenligner to versjoner av en variabel for
+  å avgjøre hvilken som presterer bedre.
 ---
-
 ## Definition
 
 A/B-testing er et randomisert kontrollert eksperiment der to varianter, A og B, sammenlignes for å evaluere hvilken som gir bedre resultater i en spesifikk måleverdi. Inne i AI-ingeniørfaget er det avgjørende for optimalisering.

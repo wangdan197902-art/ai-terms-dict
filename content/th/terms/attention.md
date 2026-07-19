@@ -1,23 +1,25 @@
 ---
-title: "ความสนใจ (Attention)"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: ความสนใจ (Attention)
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /th/terms/attention/
-date: "2026-07-18T15:34:40.895660Z"
-lastmod: "2026-07-18T16:38:07.558554Z"
+slug: attention
+date: '2026-07-18T15:34:40.895660Z'
+lastmod: '2026-07-18T16:38:07.558554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลไกที่ช่วยให้เครือข่ายประสาทเทียมสามารถกำหนดน้ำหนักความสำคัญของส่วนต่างๆ ของลำดับข้อมูลขาเข้าได้อย่างไดนามิก"
+source: agnes_llm
+status: published
+language: th
+description: กลไกที่ช่วยให้เครือข่ายประสาทเทียมสามารถกำหนดน้ำหนักความสำคัญของส่วนต่างๆ
+  ของลำดับข้อมูลขาเข้าได้อย่างไดนามิก
 ---
-
 ## Definition
 
 กลไกความสนใจช่วยให้โมเดลสามารถโฟกัสไปที่ข้อมูลที่เกี่ยวข้องเมื่อประมวลผลข้อมูลขาเข้า โดยเฉพาะในข้อมูลเชิงลำดับเช่นข้อความ โดยการคำนวณคะแนนความสนใจ โมเดลจะตัดสินใจว่าองค์ประกอบใด

@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /tr/terms/feedback/
 date: "2026-07-18T15:25:11.953014Z"
 lastmod: "2026-07-18T16:38:07.231989Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Geri bildirim, bir yapay zeka modeli veya sistemin performansını iteratif olarak ayarlamak ve geliştirmek için çıktı sonuçlarının kullanılmasını içerir."
 ---
-
 ## Definition
 
 Geri bildirim mekanizmaları, yapay zeka sistemlerinin kullanıcılar veya ortamlarla etkileşimlerinden öğrenmesini sağlayarak gelecekteki tahminleri veya eylemleri iyileştirir. Bu süreç, pekiştirmeli öğrenme sinyallerini ve insan döngüsünü içerir.

@@ -1,23 +1,24 @@
 ---
-title: "Dekoder"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Dekoder
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /no/terms/decoder/
-date: "2026-07-18T15:36:37.333740Z"
-lastmod: "2026-07-18T16:38:06.957238Z"
+slug: decoder
+date: '2026-07-18T15:36:37.333740Z'
+lastmod: '2026-07-18T16:38:06.957238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En komponent i et nevralt nettverk som er ansvarlig for å generere utdata-sekvenser fra kodete latente representasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: En komponent i et nevralt nettverk som er ansvarlig for å generere utdata-sekvenser
+  fra kodete latente representasjoner.
 ---
-
 ## Definition
 
 I sekvens-til-sekvens-modeller tar dekoderen kontekstvektoren produsert av enkoderen og genererer målutdataene steg for steg. Den bruker oppmerksomhetsmekanismer (attention mechanisms) til å fokusere på relevante deler av den innkodete representasjonen for å produsere nøyaktige utdata.

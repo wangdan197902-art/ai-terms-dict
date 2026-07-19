@@ -1,23 +1,24 @@
 ---
-title: "Matrice de confusion"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Matrice de confusion
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /fr/terms/confusion_matrix/
-date: "2026-07-18T11:10:13.419117Z"
-lastmod: "2026-07-18T11:44:45.210666Z"
+slug: confusion_matrix
+date: '2026-07-18T11:10:13.419117Z'
+lastmod: '2026-07-18T11:44:45.210666Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un tableau utilisé pour décrire les performances d'un modèle de classification sur un ensemble de données de test."
+source: agnes_llm
+status: published
+language: fr
+description: Un tableau utilisé pour décrire les performances d'un modèle de classification
+  sur un ensemble de données de test.
 ---
-
 ## Definition
 
 Une matrice de confusion est une disposition tabulaire spécifique qui permet de visualiser les performances d'un algorithme, généralement supervisé. Elle affiche les effectifs des vrais positifs, des vrais négatifs, des faux positifs et des faux négatifs.

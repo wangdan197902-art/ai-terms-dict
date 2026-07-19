@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /id/terms/tum/
 date: "2026-07-18T16:12:17.633593Z"
 lastmod: "2026-07-18T16:38:07.516713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "TUM bukan akronim standar yang diakui dalam terminologi kecerdasan buatan arus utama; istilah ini mungkin merujuk pada konteks institusional tertentu seperti Universitas Teknik Munich atau merupakan s"
 ---
-
 ## Definition
 
 Tidak ada definisi yang diterima secara luas untuk 'Tum' sebagai konsep inti AI, teknik, atau metrik dalam literatur akademik maupun industri. Kemungkinan besar ini adalah salah ketik untuk istilah seperti 'Uji Turing' (Turing Test), 'Model Transformer', atau singkatan institusi teknis.

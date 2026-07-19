@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /de/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T11:09:31.371404Z"
 lastmod: "2026-07-18T11:44:44.923741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Dieses Feld kombiniert statistische Analyse und maschinelles Lernen, um Erkenntnisse aus Daten zu gewinnen und zukünftige Ereignisse oder Verhaltensweisen vorherzusagen."
 ---
-
 ## Definition
 
 Data Science umfasst den interdisziplinären Prozess der Wissensgewinnung aus strukturierten und unstrukturierten Daten, während Predictive Analytics sich speziell auf die Nutzung historischer Daten zur Vorhersage zukünftiger 

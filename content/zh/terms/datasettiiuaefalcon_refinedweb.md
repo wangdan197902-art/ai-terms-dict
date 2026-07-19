@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /zh/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T11:13:26.834865Z"
 lastmod: "2026-07-18T11:44:45.483206Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由技术创新研究所（TII）策划的大规模高质量网页数据集，用于预训练像 Falcon 这样的大型语言模型。"
 ---
-
 ## Definition
 
 RefinedWeb 是一个经过过滤的网页大规模数据集，专为预训练基础模型而设计。它处理数十亿个网页，以去除低质量内容、重复项和有害材料。

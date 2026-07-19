@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /id/terms/model_index/
 date: "2026-07-18T16:00:53.811507Z"
 lastmod: "2026-07-18T16:38:07.484377Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model Index adalah file metadata yang digunakan oleh Hugging Face Hub untuk mendeskripsikan dan mengatur komponen serta konfigurasi model."
 ---
-
 ## Definition
 
 File indeks, biasanya bernama 'model_index.json', berisi informasi terstruktur tentang arsitektur model, termasuk jenis pipa (pipeline), sub-model, dan jalur konfigurasi. Hal ini memungkinkan Hub untuk mengoordinasikan

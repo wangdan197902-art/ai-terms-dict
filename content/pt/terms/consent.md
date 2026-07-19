@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /pt/terms/consent/
 date: "2026-07-18T14:54:18.106783Z"
 lastmod: "2026-07-18T15:51:59.473987Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O acordo explícito e informado por parte dos indivíduos para permitir que seus dados sejam coletados e processados para fins de IA."
 ---
-
 ## Definition
 
 Na ética da IA, o consentimento refere-se à permissão voluntária e informada concedida pelos usuários ou sujeitos antes que seus dados pessoais sejam coletados, armazenados ou utilizados em modelos de aprendizado de máquina. Ele requer 

@@ -7,8 +7,6 @@ tags: ["conference", "ethics", "fraud"]
 difficulty: 2
 weight: 1
 slug: "the_ai_con"
-aliases:
-  - /ko/terms/the_ai_con/
 date: "2026-07-18T16:18:31.748757Z"
 lastmod: "2026-07-18T16:38:06.915441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "The AI Con은 인공지능 산업 내 사기, 스캠 및 윤리적 문제를 폭로하는 데 중점을 둔 컨퍼런스입니다."
 ---
-
 ## Definition
 
 The AI Con은 AI 부문에서 기만적인 관행, 과장된 주장, 보안 취약점 등을 조사하고 부각시키는 데 전념하는 연례 행사입니다. 일반적인 기술 컨퍼런스들이 새로운 기술의 가능성을 강조하는 것과 달리...

@@ -1,23 +1,24 @@
 ---
-title: "Generativní model"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: Generativní model
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /cs/terms/generative_model/
-date: "2026-07-18T15:59:17.130798Z"
-lastmod: "2026-07-18T17:15:09.133744Z"
+slug: generative_model
+date: '2026-07-18T15:59:17.130798Z'
+lastmod: '2026-07-18T17:15:09.133744Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Typ modelu strojového učení, který se učí základní rozdělení dat k generování nových, syntetických vzorků podobných tréninkovým datům."
+source: agnes_llm
+status: published
+language: cs
+description: Typ modelu strojového učení, který se učí základní rozdělení dat k generování
+  nových, syntetických vzorků podobných tréninkovým datům.
 ---
-
 ## Definition
 
 Generativní modely jsou algoritmy navržené tak, aby pochopily vzorce a struktury v dané sadě dat, což jim umožňuje vytvářet nové instance dat, které připomínají původní. Na rozdíl od diskriminačních modelů, které se zaměřují na hranice mezi třídami, generativní modely modelují samotné rozdělení pravděpodobnosti dat.

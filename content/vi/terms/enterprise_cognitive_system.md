@@ -1,23 +1,24 @@
 ---
-title: "Hệ thống nhận thức doanh nghiệp"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: Hệ thống nhận thức doanh nghiệp
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /vi/terms/enterprise_cognitive_system/
-date: "2026-07-18T15:51:58.377037Z"
-lastmod: "2026-07-18T16:38:07.754321Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T15:51:58.377037Z'
+lastmod: '2026-07-18T16:38:07.754321Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Nền tảng AI tích hợp áp dụng phân tích nâng cao và học máy để tự động hóa các quy trình kinh doanh phức tạp và hỗ trợ ra quyết định."
+source: agnes_llm
+status: published
+language: vi
+description: Nền tảng AI tích hợp áp dụng phân tích nâng cao và học máy để tự động
+  hóa các quy trình kinh doanh phức tạp và hỗ trợ ra quyết định.
 ---
-
 ## Definition
 
 Hệ thống nhận thức doanh nghiệp kết hợp trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên và học máy để mô phỏng các quá trình tư duy của con người trong môi trường công ty. Các hệ thống này phân tích dữ liệu lớn, hiểu ngữ cảnh và đưa ra các khuyến nghị chiến lược nhằm tối ưu hóa hiệu quả hoạt động.

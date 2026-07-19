@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /de/terms/stochastic/
 date: "2026-07-18T10:54:03.728485Z"
 lastmod: "2026-07-18T11:44:44.884366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Beschreibt Prozesse oder Modelle, die Zufälligkeit und Wahrscheinlichkeit statt deterministischer Ergebnisse beinhalten."
 ---
-
 ## Definition
 
 Stochastische Elemente führen Variabilität in KI-Systeme ein, wie Rauschen in Daten oder die zufällige Initialisierung von Gewichten. Im Gegensatz zu deterministischen Modellen berücksichtigen stochastische Modelle Unsicherheiten, was sie robuster macht.

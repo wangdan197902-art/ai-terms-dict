@@ -1,23 +1,24 @@
 ---
-title: "AI med begränsat minne"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: AI med begränsat minne
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /sv/terms/limited_memory_ai/
-date: "2026-07-18T16:06:48.737996Z"
-lastmod: "2026-07-18T17:15:09.021047Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:06:48.737996Z'
+lastmod: '2026-07-18T17:15:09.021047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "AI-system som kan lagra tidigare data och erfarenheter för att informera framtida beslut, vilket utgör grunden för de flesta moderna maskininlärningstillämpningar."
+source: agnes_llm
+status: published
+language: sv
+description: AI-system som kan lagra tidigare data och erfarenheter för att informera
+  framtida beslut, vilket utgör grunden för de flesta moderna maskininlärningstillämpningar.
 ---
-
 ## Definition
 
 AI med begränsat minne representerar den andra nivån av AI-kapacitet, där system kan lära sig av historisk data och justera sitt beteende därefter. Till skillnad från reaktiva maskiner behåller dessa system information om tidigare händelser och använder denna kunskap för att fatta mer informerade beslut i realtid.

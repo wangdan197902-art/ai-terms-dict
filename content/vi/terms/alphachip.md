@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /vi/terms/alphachip/
-date: "2026-07-18T15:40:10.662989Z"
-lastmod: "2026-07-18T16:38:07.726377Z"
+slug: alphachip
+date: '2026-07-18T15:40:10.662989Z'
+lastmod: '2026-07-18T16:38:07.726377Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Công cụ thiết kế chip dựa trên AI do Google DeepMind phát triển, sử dụng học tăng cường để tối ưu hóa bố trí mạch tích hợp."
+source: agnes_llm
+status: published
+language: vi
+description: Công cụ thiết kế chip dựa trên AI do Google DeepMind phát triển, sử dụng
+  học tăng cường để tối ưu hóa bố trí mạch tích hợp.
 ---
-
 ## Definition
 
 AlphaChip là một hệ thống AI chuyên biệt được thiết kế để tự động hóa và nâng cao việc đặt vị trí và đi dây các thành phần trên vi mạch. Bằng cách áp dụng học tăng cường sâu, nó giảm đáng kể thời gian

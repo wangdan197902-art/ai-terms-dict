@@ -1,23 +1,24 @@
 ---
-title: "Ανθεκτικό"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Ανθεκτικό
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /el/terms/robust/
-date: "2026-07-18T15:32:05.710327Z"
-lastmod: "2026-07-18T17:15:09.853490Z"
+slug: robust
+date: '2026-07-18T15:32:05.710327Z'
+lastmod: '2026-07-18T17:15:09.853490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Περιγράφει την ικανότητα ενός μοντέλου ή συστήματος ΤΝ να διατηρεί τις επιδόσεις του παρά θόρυβο, λάθη ή απρόσμενες εισόδους."
+source: agnes_llm
+status: published
+language: el
+description: Περιγράφει την ικανότητα ενός μοντέλου ή συστήματος ΤΝ να διατηρεί τις
+  επιδόσεις του παρά θόρυβο, λάθη ή απρόσμενες εισόδους.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, η ανθεκτικότητα αναφέρεται στην ευρωστία ενός μοντέλου απέναντι σε εχθροπαθείς επιθέσεις, μετατοπίσεις της κατανομής δεδομένων ή θορυβώδεις εισόδους. Ένας ανθεκτικός αλγόριθμος συνεχίζει να λειτουργεί σωστά ακόμη και υπό συνθήκες ακαθαρσίας ή αβεβαιότητας.

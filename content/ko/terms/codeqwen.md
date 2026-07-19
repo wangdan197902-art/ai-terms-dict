@@ -7,8 +7,6 @@ tags: ["AI Models", "Development Tools"]
 difficulty: 3
 weight: 1
 slug: "codeqwen"
-aliases:
-  - /ko/terms/codeqwen/
 date: "2026-07-18T15:45:14.520240Z"
 lastmod: "2026-07-18T16:38:06.817210Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "CodeQwen은 코드 생성, 이해, 디버깅 등 소프트웨어 엔지니어링 작업을 위해 최적화된 특수 목적 대규모 언어 모델입니다."
 ---
-
 ## Definition
 
 CodeQwen은 알리바바 클라우드에서 개발한 Qwen 시리즈의 변형으로, 프로그래밍 관련 활동에서 뛰어난 성능을 발휘하도록 특별히 파인튜닝되었습니다. 고급 트랜스포머 아키텍처를 활용하여 코드를 이해하고 생성합니다.

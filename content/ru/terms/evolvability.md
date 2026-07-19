@@ -1,23 +1,24 @@
 ---
-title: "Эволюционируемость"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Эволюционируемость
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /ru/terms/evolvability/
-date: "2026-07-18T15:52:10.242111Z"
-lastmod: "2026-07-18T16:38:07.154907Z"
+slug: evolvability
+date: '2026-07-18T15:52:10.242111Z'
+lastmod: '2026-07-18T16:38:07.154907Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Способность генотипа или системы генерировать наследуемые фенотипические вариации, которые могут быть отобраны для адаптации."
+source: agnes_llm
+status: published
+language: ru
+description: Способность генотипа или системы генерировать наследуемые фенотипические
+  вариации, которые могут быть отобраны для адаптации.
 ---
-
 ## Definition
 
 В вычислительном контексте эволюционируемость относится к тому, насколько легко алгоритм или архитектура нейронной сети могут улучшить свою приспособленность с течением поколений или шагов обучения. Высокая эволюционируемость подразумевает, что небольшие изменения приводят к значимому улучшению.

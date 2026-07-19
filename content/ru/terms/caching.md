@@ -1,23 +1,25 @@
 ---
-title: "Кэширование"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Кэширование
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /ru/terms/caching/
-date: "2026-07-18T15:44:23.276812Z"
-lastmod: "2026-07-18T16:38:07.128880Z"
+slug: caching
+date: '2026-07-18T15:44:23.276812Z'
+lastmod: '2026-07-18T16:38:07.128880Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Кэширование — это техника хранения часто используемых данных во временном слое хранения с высокой скоростью доступа, что снижает задержку и уменьшает нагрузку на основные источники данных."
+source: agnes_llm
+status: published
+language: ru
+description: Кэширование — это техника хранения часто используемых данных во временном
+  слое хранения с высокой скоростью доступа, что снижает задержку и уменьшает нагрузку
+  на основные источники данных.
 ---
-
 ## Definition
 
 В инженерии ИИ кэширование оптимизирует производительность, сохраняя недавние или частые результаты запросов, предсказания моделей или промежуточные вычисления в быстрой памяти (например, в ОЗУ). Это снижает необходимость в дорогостоящих повторных вычислениях или обращениях к базам данных.

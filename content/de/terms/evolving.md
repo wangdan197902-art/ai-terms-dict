@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /de/terms/evolving/
 date: "2026-07-18T10:49:49.246752Z"
 lastmod: "2026-07-18T11:44:44.873355Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Beschreibt KI-Systeme oder Algorithmen, die sich durch neue Daten oder Feedback kontinuierlich anpassen und verbessern."
 ---
-
 ## Definition
 
 Der Begriff 'evolutionär' kennzeichnet dynamische KI-Modelle, die einem kontinuierlichen Lern- und Anpassungsprozess unterliegen, anstatt nach dem initialen Training statisch zu bleiben. Dieses Konzept ist zentral für das lebenslange Lernen und die Anpassungsfähigkeit von Systemen.

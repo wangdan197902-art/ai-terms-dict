@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /cs/terms/statistical_relational_learning/
 date: "2026-07-18T16:19:10.550204Z"
 lastmod: "2026-07-18T17:15:09.203910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Oblast strojového učení, která integruje pravděpodobnostní úsudky s logikou prvního řádu k zacházení se složitými relačními strukturami v datech."
 ---
-
 ## Definition
 
 Statistické relační učení (SRL) kombinuje teorii pravděpodobnosti s relačními datovými strukturami, což umožňuje modelům zachytit závislosti mezi entitami a jejich vztahy. Na rozdíl od standardních stati

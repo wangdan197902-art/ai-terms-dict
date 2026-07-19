@@ -1,23 +1,23 @@
 ---
-title: "THUDM"
-term_id: "thudm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organizations", "open_source"]
+title: THUDM
+term_id: thudm
+category: basic_concepts
+subcategory: ''
+tags:
+- organizations
+- Open Source
 difficulty: 2
 weight: 1
-slug: "thudm"
-aliases:
-  - /es/terms/thudm/
-date: "2026-07-18T11:10:28.539942Z"
-lastmod: "2026-07-18T11:44:44.862005Z"
+slug: thudm
+date: '2026-07-18T11:10:28.539942Z'
+lastmod: '2026-07-18T11:44:44.862005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "THUDM es un grupo de investigación de la Universidad de Tsinghua conocido por desarrollar modelos de IA de código abierto como ChatGLM."
+source: agnes_llm
+status: published
+language: es
+description: THUDM es un grupo de investigación de la Universidad de Tsinghua conocido
+  por desarrollar modelos de IA de código abierto como ChatGLM.
 ---
-
 ## Definition
 
 THUDM (Grupo de Investigación de Procesamiento de Lenguaje Natural de la Universidad de Tsinghua) es una entidad académica e investigadora destacada centrada en la inteligencia artificial, particularmente en el procesamiento del lenguaje natural. Han...

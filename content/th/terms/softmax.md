@@ -1,23 +1,23 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /th/terms/softmax/
-date: "2026-07-18T15:37:44.582137Z"
-lastmod: "2026-07-18T16:38:07.565434Z"
+slug: softmax
+date: '2026-07-18T15:37:44.582137Z'
+lastmod: '2026-07-18T16:38:07.565434Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ฟังก์ชันทางคณิตศาสตร์ที่แปลงเวกเตอร์ของคะแนนค่าจริงใดๆ ให้เป็นการแจกแจงความน่าจะเป็น"
+source: agnes_llm
+status: published
+language: th
+description: ฟังก์ชันทางคณิตศาสตร์ที่แปลงเวกเตอร์ของคะแนนค่าจริงใดๆ ให้เป็นการแจกแจงความน่าจะเป็น
 ---
-
 ## Definition
 
 Softmax ถูกใช้อย่างแพร่หลายในชั้นเอาต์พุตของโครงข่ายประสาทเทียมสำหรับงานจำแนกประเภทหลายคลาส (multi-class classification) โดยจะรับเวกเตอร์ของลอจิตดิบ (raw logits) แล้วทำให้เป็นมาตรฐาน (normalize) เพื่อให้แต่ละองค์ประกอบแทนความน่าจะเป็น

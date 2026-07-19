@@ -1,23 +1,25 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /el/terms/google_research/
-date: "2026-07-18T16:09:58.589669Z"
-lastmod: "2026-07-18T17:15:09.913559Z"
+slug: google_research
+date: '2026-07-18T16:09:58.589669Z'
+lastmod: '2026-07-18T17:15:09.913559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ερευνητική διαιρέση της Google αφιερωμένη στην προώθηση της τεχνητής νοημοσύνης, της μηχανικής μάθησης και της επιστήμης των υπολογιστών μέσω θεμελιωδών και εφαρμοσμένων μελετών."
+source: agnes_llm
+status: published
+language: el
+description: Η ερευνητική διαιρέση της Google αφιερωμένη στην προώθηση της τεχνητής
+  νοημοσύνης, της μηχανικής μάθησης και της επιστήμης των υπολογιστών μέσω θεμελιωδών
+  και εφαρμοσμένων μελετών.
 ---
-
 ## Definition
 
 Το Google Research είναι ο ακαδημαϊκός και βιομηχανικός βραχίονας έρευνας της Google LLC, εστιάζοντας στην προώθηση των ορίων της τεχνολογίας σε τομείς όπως η τεχνητή νοημοσύνη, η επεξεργασία φυσικής γλώσσας και η κβαντική υπολογιστική.

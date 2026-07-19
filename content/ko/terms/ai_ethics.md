@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /ko/terms/ai_ethics/
 date: "2026-07-18T15:33:06.668090Z"
 lastmod: "2026-07-18T16:38:06.792471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능 시스템의 개발 및 배포 과정에서 발생하는 도덕적 문제와 영향을 연구하는 학문."
 ---
-
 ## Definition
 
 AI 윤리는 인공지능 기술이 책임감 있게 개발되고 사용되도록 보장하기 위해 설계된 원칙과 표준의 체계를 포괄합니다. 여기서는 알고리즘 편향, 투명성, 책임 소재, 공정성 등 중요한 쟁점들을 다룹니다.

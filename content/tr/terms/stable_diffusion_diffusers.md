@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /tr/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:15:33.481521Z"
 lastmod: "2026-07-18T16:38:07.368595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Stable Diffusion modellerini çalıştırmak ve ince ayar yapmak için standartlaşmış boru hatları sağlayan bir Hugging Face kütüphanesidir."
 ---
-
 ## Definition
 
 Diffusers kütüphanesi, önceden eğitilmiş yayılım modellerinin, özellikle Stable Diffusion'ın kullanımını kolaylaştırmak üzere Hugging Face tarafından tasarlanmış açık kaynaklı bir araç setidir. Modüler boru hatları (pipelines) sunar; bu hatlar görüntü oluşturma sürecindeki adımları (örneğin, gürültü ekleme, tahmin etme ve giderme) yönetir. Kullanıcıların modelleri yüklemesini, çalıştırmasını ve ince ayar yapmasını basitleştirerek erişilebilirliği artırır.

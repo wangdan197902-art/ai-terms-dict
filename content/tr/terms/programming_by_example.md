@@ -1,23 +1,24 @@
 ---
-title: "Örneklemeye Programlama"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Örneklemeye Programlama
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /tr/terms/programming_by_example/
-date: "2026-07-18T16:10:06.477786Z"
-lastmod: "2026-07-18T16:38:07.352307Z"
+slug: programming_by_example
+date: '2026-07-18T16:10:06.477786Z'
+lastmod: '2026-07-18T16:38:07.352307Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kullanıcıların sağladığı girdi-çıktı örneklerinden kurallar çıkararak programların otomatik olarak sentezlendiği bir yapay zeka tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Kullanıcıların sağladığı girdi-çıktı örneklerinden kurallar çıkararak
+  programların otomatik olarak sentezlendiği bir yapay zeka tekniği.
 ---
-
 ## Definition
 
 Örneklemeye Programlama (PBE), geliştiricilerin açık kod yazmak yerine somut girdi-çıktı çiftleri aracılığıyla istenen davranışı belirttiği program sentezi paradigmasıdır. Yapay zeka sistemi, bu örnekleri analiz ederek arka planda çalışan algoritmayı veya kodu oluşturur.

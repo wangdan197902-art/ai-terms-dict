@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /de/terms/rate_limiting/
 date: "2026-07-18T11:29:56.787395Z"
 lastmod: "2026-07-18T11:44:44.980808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein ingenieurtechnischer Kontrollmechanismus, der die Anzahl der Anfragen beschränkt, die ein Client innerhalb eines bestimmten Zeitfensters an einen Dienst senden darf."
 ---
-
 ## Definition
 
 Die Ratenbegrenzung schützt KI-Dienste und APIs vor Missbrauch, Überlastung und übermäßigem Ressourcenverbrauch. Sie gewährleistet eine faire Nutzung unter den Anwendern und erhält die Systemstabilität, indem sie den Durchsatz begrenzt. Häufige Strategien umfassen Token-basierte oder anfragebasierte Limits.

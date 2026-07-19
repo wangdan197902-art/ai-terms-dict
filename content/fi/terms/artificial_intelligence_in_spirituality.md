@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /fi/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:43:12.490791Z"
 lastmod: "2026-07-18T17:15:09.384420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Nouseva kohtaamispaikka, jossa tekoälyä käytetään hengelliseen ohjaukseen, meditaatioavustukseen tai filosofisten kysymysten tutkimiseen."
 ---
-
 ## Definition
 
 Tekoäly hengellisyydessä viittaa tekoälyn soveltamiseen uskonnollisiin tai kontemplatiivisiin yhteyksiin. Tämä sisältää chatbotteja, jotka tarjoavat moraalineuvoja, tekoälyn luomaa taidetta meditaatiota varten tai algoritmeja, jotka analysoivat pyhiä tekstejä ja auttavat pohdiskelemaan tietoisuuden luonnetta.

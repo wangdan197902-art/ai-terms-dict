@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /ja/terms/mistral_common/
 date: "2026-07-18T11:24:02.776653Z"
 lastmod: "2026-07-18T11:44:45.122526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "各種Mistral AIモデルバリアントと互換性のある、トークン化およびユーティリティ関数を提供する共有ライブラリ。"
 ---
-
 ## Definition
 
 Mistral Commonは、Mistral AIがメンテナンスしているPythonパッケージで、同社モデルとの対話に標準化されたツールを提供します。主に、テキストを入力としてモデルが処理できる形式に変換するために必要なトークナイザーの実装を提供します。

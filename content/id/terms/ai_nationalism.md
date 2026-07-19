@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /id/terms/ai_nationalism/
 date: "2026-07-18T15:37:23.930847Z"
 lastmod: "2026-07-18T16:38:07.423467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Persaingan strategis antar negara untuk mendominasi pengembangan kecerdasan buatan, yang didorong oleh kepentingan geopolitik dan ekonomi."
 ---
-
 ## Definition
 
 Nasionalisme AI menggambarkan tren di mana pemerintah memperlakukan kecerdasan buatan sebagai masalah keamanan nasional dan kedaulatan ekonomi. Negara-negara menginvestasikan dana besar dalam penelitian AI domestik, membatasi ekspor teknologi kunci, dan berupaya mengurangi ketergantungan pada rantai pasokan asing.

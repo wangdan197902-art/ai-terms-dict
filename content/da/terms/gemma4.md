@@ -7,8 +7,6 @@ tags: ["speculative", "naming", "uncertain"]
 difficulty: 4
 weight: 1
 slug: "gemma4"
-aliases:
-  - /da/terms/gemma4/
 date: "2026-07-18T15:57:06.221278Z"
 lastmod: "2026-07-18T17:15:09.291381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Gemma4 henviser til en hypotetisk eller fremtidig iteration af Googles Gemma-modelfamilie, der potentielt antyder en fjerde hovedversion eller en specifik variant inden for slægten."
 ---
-
 ## Definition
 
 Ifølge nuværende viden er der ingen officielt udgivet model specifikt navngivet 'Gemma4', der adskiller sig fra den eksisterende Gemma 2-serie. Det kan henvise til en spekulativ fremtidig udgivelse eller en specifik intern...

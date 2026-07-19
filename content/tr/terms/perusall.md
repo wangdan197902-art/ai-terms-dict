@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /tr/terms/perusall/
 date: "2026-07-18T16:08:32.152883Z"
 lastmod: "2026-07-18T16:38:07.348203Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Öğrenci notlarını ve dijital metinlerdeki tartışmaları otomatik olarak derecelendiren, yapay zeka destekli sosyal öğrenme platformu."
 ---
-
 ## Definition
 
 Perusall, işbirlikli okuma ve not alma süreçlerini kolaylaştırmak için yapay zekadan yararlanan bir eğitim teknolojisi platformudur. Öğrencilerin katılımını, sorularının kalitesi ve tartışmalardaki katkılarlarına dayanarak otomatik olarak derecelendirir.

@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /tr/terms/equalized_odds/
 date: "2026-07-18T15:52:27.125016Z"
 lastmod: "2026-07-18T16:38:07.305874Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Farklı demografik gruplar arasında doğru pozitif ve yanlış pozitif oranlarının eşit olmasını gerektiren bir adalet metriği."
 ---
-
 ## Definition
 
 Eşit olasılıklar, bir modelin tüm korunan gruplar için eşit derecede iyi performans göstermesini sağlamak için algoritmik adalette kullanılan istatistiksel bir denklik kısıtlamasıdır. Özellikle, bir pozitif sonucu tahmin etme olasılığının gerçek etikete bağlı olarak gruplardan bağımsız olmasını talep eder.

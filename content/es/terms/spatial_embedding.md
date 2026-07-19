@@ -1,23 +1,24 @@
 ---
-title: "Incrustación espacial"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Incrustación espacial
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /es/terms/spatial_embedding/
-date: "2026-07-18T11:08:31.143911Z"
-lastmod: "2026-07-18T11:44:44.855937Z"
+slug: spatial_embedding
+date: '2026-07-18T11:08:31.143911Z'
+lastmod: '2026-07-18T11:44:44.855937Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica que mapea las relaciones espaciales entre objetos o ubicaciones en representaciones vectoriales para modelos de aprendizaje automático."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica que mapea las relaciones espaciales entre objetos o ubicaciones
+  en representaciones vectoriales para modelos de aprendizaje automático.
 ---
-
 ## Definition
 
 La incrustación espacial implica convertir relaciones espaciales físicas o abstractas en espacios vectoriales densos, permitiendo que los algoritmos comprendan la proximidad, la orientación y la topología. Esta técnica es esencial para la percepción del entorno en robótica y vehículos autónomos.

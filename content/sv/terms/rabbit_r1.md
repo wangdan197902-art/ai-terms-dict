@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /sv/terms/rabbit_r1/
 date: "2026-07-18T16:16:19.527615Z"
 lastmod: "2026-07-18T17:15:09.042175Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En handhållen AI-drivet enhet som använder Large Action Model (LAM) för att utföra uppgifter autonomt."
 ---
-
 ## Definition
 
 Rabbit r1 är en dedikerad hårdvaruenhet lanserad av Rabbit Inc., centrerad runt deras proprietära Large Action Model (LAM). Till skillnad från allmänna smartphones fokuserar den på att utföra specifika digitala uppgifter genom att förstå användarens avsikt.

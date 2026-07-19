@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /hu/terms/gpt_56/
 date: "2026-07-18T16:00:53.828211Z"
 lastmod: "2026-07-18T17:15:09.786590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az OpenAI Generative Pre-trained Transformer sorozatának hipotetikus vagy jövőbeli változata, amely a jelenlegi GPT-modelleken felüli fejlődést képvisel."
 ---
-
 ## Definition
 
 A GPT-5.6 az OpenAI nagy nyelvi modelljeinek (LLM) leszármazási vonalában szereplő spekulatív vagy közelgő verzióra utal. Bár a konkrét részletek a fejlesztés ütemtervétől függően változhatnak, az ilyen iterációk jellemzően a mesterséges intelligencia képességeinek továbbfejlesztését jelentik.

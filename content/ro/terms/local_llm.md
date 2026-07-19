@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /ro/terms/local_llm/
 date: "2026-07-18T16:09:20.132526Z"
 lastmod: "2026-07-18T17:15:09.676335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un LLM Local se referă la rularea modelelor lingvistice mari pe hardware personal, nu pe servicii cloud, punând accent pe confidențialitatea datelor și accesul offline."
 ---
-
 ## Definition
 
 Rularea unui LLM Local implică implementarea modelelor cu greutăți deschise direct pe hardware de consum, cum ar fi PC-uri, Mac-uri sau servere locale. Această abordare elimină dependența de furnizori terți de API-uri, asigurând

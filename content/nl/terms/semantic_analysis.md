@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /nl/terms/semantic_analysis/
 date: "2026-07-18T16:16:17.931380Z"
 lastmod: "2026-07-18T17:15:08.785909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Semantische analyse is het proces van het extraheren van betekenis uit tekst door de relaties tussen woorden en context binnen natuurlijke taalverwerking te begrijpen."
 ---
-
 ## Definition
 
 Het gaat verder dan de syntactische structuur om de daadwerkelijke intentie en betekenis van taalinvoer te interpreteren. Dit houdt in het ontwarren van woordbetekenissen op basis van context, het identificeren van entiteiten en het begrijpen

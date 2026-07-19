@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /es/terms/biasvariance_tradeoff/
 date: "2026-07-18T10:38:33.529569Z"
 lastmod: "2026-07-18T11:44:44.782888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un problema fundamental en el aprendizaje supervisado donde minimizar el error requiere equilibrar la complejidad del modelo con su capacidad de generalización."
 ---
-
 ## Definition
 
 El compromiso sesgo-varianza describe la tensión entre el subajuste (alto sesgo) y el sobreajuste (alta varianza). Los modelos con alto sesgo hacen suposiciones fuertes sobre los datos, ignorando posiblemente relaciones relevantes.

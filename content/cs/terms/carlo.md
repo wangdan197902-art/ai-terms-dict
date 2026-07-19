@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /cs/terms/carlo/
 date: "2026-07-18T15:23:43.862592Z"
 lastmod: "2026-07-18T17:15:09.065112Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na Monte Carlo metody, třídu výpočetních algoritmů, které spoléhají na opakované náhodné vzorkování pro získání číselných výsledků."
 ---
-
 ## Definition
 
 Metody Monte Carla jsou klíčovou technikou v AI a statistice pro aproximaci složitých matematických problémů, které je obtížné řešit analyticky. Generováním tisíců nebo milionů náhodných vzorků umožňují odhadnout výsledky.

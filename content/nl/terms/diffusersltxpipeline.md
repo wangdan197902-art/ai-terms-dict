@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: LTX Pipeline"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX Pipeline'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /nl/terms/diffusersltxpipeline/
-date: "2026-07-18T15:51:50.785816Z"
-lastmod: "2026-07-18T17:15:08.738011Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:51:50.785816Z'
+lastmod: '2026-07-18T17:15:08.738011Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een pipeline-implementatie in Diffusers die is geoptimaliseerd voor LTX-modellen (Lightning Text-to-Video of vergelijkbare hoog-snelle generatieve modellen), met focus op snelle inferentie."
+source: agnes_llm
+status: published
+language: nl
+description: Een pipeline-implementatie in Diffusers die is geoptimaliseerd voor LTX-modellen
+  (Lightning Text-to-Video of vergelijkbare hoog-snelle generatieve modellen), met
+  focus op snelle inferentie.
 ---
-
 ## Definition
 
 De LTX-pipeline is afgestemd op modellen die snelheid en efficiëntie prioriteren bij generatieve taken, waarbij vaak gebruik wordt gemaakt van gedistilleerde of versnelde samplingmethoden. Het integreert naadloos met de Diffusers-bibliotheek.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /cs/terms/trade_off/
 date: "2026-07-18T15:33:43.744083Z"
 lastmod: "2026-07-18T17:15:09.086129Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kompromis, při kterém získání výhody v jedné oblasti vede ke ztrátě v jiné."
 ---
-
 ## Definition
 
 V umělé inteligenci a inženýrství se kompromis (trade-off) týká rovnováhy potřebné při optimalizaci konfliktujících cílů, jako je přesnost modelu versus výpočetní náklady nebo latence versus přesnost. Protože jsou zdroje omezené...

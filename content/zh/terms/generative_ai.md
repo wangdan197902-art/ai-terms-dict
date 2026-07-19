@@ -1,23 +1,23 @@
 ---
-title: "生成式人工智能"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: 生成式人工智能
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /zh/terms/generative_ai/
-date: "2026-07-18T11:18:16.814545Z"
-lastmod: "2026-07-18T11:44:45.507223Z"
+slug: generative_ai
+date: '2026-07-18T11:18:16.814545Z'
+lastmod: '2026-07-18T11:44:45.507223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "生成式人工智能是一种能够基于从训练数据中学到的模式创建新内容（如文本、图像、音频和代码）的人工智能类型。"
+source: agnes_llm
+status: published
+language: zh
+description: 生成式人工智能是一种能够基于从训练数据中学到的模式创建新内容（如文本、图像、音频和代码）的人工智能类型。
 ---
-
 ## Definition
 
 这些系统（包括大型语言模型和扩散模型）不仅仅是检索现有信息，而是合成新颖的输出。它们学习其训练数据的底层结构和风格...

@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /ko/terms/datasetsnli/
 date: "2026-07-18T15:49:34.064060Z"
 lastmod: "2026-07-18T16:38:06.828520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "스탠퍼드 자연어 추론 코퍼스(Stanford Natural Language Inference Corpus)로, 영어 문장 쌍과 인간이 작성한 텍스트 함축 라벨이 포함된 대규모 데이터셋입니다."
 ---
-
 ## Definition
 
 SNLI는 50만 개 이상의 레이블이 지정된 문장 쌍을 포함하는 벤치마크 데이터셋으로, 함축(entailment), 모순(contradiction), 중립(neutral)의 세 가지 클래스로 주석이 달려 있습니다. 이 데이터셋은 자연어 추론 연구 발전을 위해 제작되었습니다.

@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /da/terms/embodied_cognitive_science/
 date: "2026-07-18T15:54:21.737152Z"
 lastmod: "2026-07-18T17:15:09.284474Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Embodied cognitive science er en teoretisk ramme, der foreslår, at menneskelig kognition er fundamentalt formet af kroppens interaktioner med miljøet."
 ---
-
 ## Definition
 
 Dette felt udfordrer traditionelle synspunkter, der betragter sindet som en computer, der behandler abstrakte symboler. I stedet argumenteres der for, at kognitive processer er dybt forankret i kroppens fysiske egenskaber.

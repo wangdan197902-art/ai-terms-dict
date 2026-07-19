@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /ro/terms/datasetwikihow/
 date: "2026-07-18T15:53:25.331172Z"
 lastmod: "2026-07-18T17:15:09.645629Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date la scară largă compus din articole de tip „cum se face” de pe WikiHow, utilizat în principal pentru sarcini de rezumare a textului și generare de instrucțiuni."
 ---
-
 ## Definition
 
 Setul de date WikiHow constă în aproximativ 60.000 de articole de tip „cum se face” colectate de pe site-ul web WikiHow. Este utilizat pe scară largă în cercetarea procesării limbajului natural pentru sarcini precum rezumarea abstractivă a textului și extragerea pașilor procedurali.

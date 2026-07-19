@@ -1,23 +1,23 @@
 ---
-title: "인셉션 스코어 (Inception Score)"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: 인셉션 스코어 (Inception Score)
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /ko/terms/inception_score/
-date: "2026-07-18T15:59:51.089856Z"
-lastmod: "2026-07-18T16:38:06.853880Z"
+slug: inception_score
+date: '2026-07-18T15:59:51.089856Z'
+lastmod: '2026-07-18T16:38:06.853880Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "생성된 이미지의 선명도와 다양성을 측정하여 이미지 품질을 평가하는 지표입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 생성된 이미지의 선명도와 다양성을 측정하여 이미지 품질을 평가하는 지표입니다.
 ---
-
 ## Definition
 
 인셉션 스코어(IS)은 생성 적대 신경망(GAN) 및 기타 생성 모델의 성능을 평가하기 위해 도입된 통계적 측정치입니다. 이는 두 가지 요소를 결합합니다: 이미지 품질(선명도)과...

@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /he/terms/forethought_technologies/
 date: "2026-07-18T15:58:08.709378Z"
 lastmod: "2026-07-18T17:15:09.541545Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מונח המתאר פרקטיקות הנדסיות החוזות מצבי עתיד, סיכונים ודרישות של המערכת באמצעות מודלים חיזויים וסימולציות."
 ---
-
 ## Definition
 
 מושג זה כולל עיצוב מערכות בינה מלאכותית עם יכולות מכוונות קדימה שיכולות לדמות תוצאות אפשריות ולהסתגל באופן pro-אקטיבי. הוא משלב אנליטיקה חיזויית, תכנון תרחישים וניהול סיכונים כדי לאפשר פעולה מושכלת מראש.

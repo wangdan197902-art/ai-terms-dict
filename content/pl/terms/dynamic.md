@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /pl/terms/dynamic/
 date: "2026-07-18T15:24:37.995646Z"
 lastmod: "2026-07-18T17:15:08.809951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dynamiczny odnosi się do systemów AI lub grafów obliczeniowych, które dostosowują swoją strukturę, zachowanie lub przepływ wykonania w czasie rzeczywistym na podstawie danych wejściowych lub zmian śro"
 ---
-
 ## Definition
 
 W przeciwieństwie do systemów statycznych o stałych architekturach lub predetermined ścieżkach wykonania, dynamiczne systemy AI mogą modyfikować swoje operacje w trakcie działania. W uczeniu głębokim dynamiczne grafy obliczeniowe pozwalają na budowę struktury w locie.

@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /ar/terms/agents/
 date: "2026-07-18T15:23:12.450061Z"
 lastmod: "2026-07-18T17:15:08.433653Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "كيانات مستقلة تدرك بيئتها وتتخذ إجراءات لتحقيق أهداف محددة."
 ---
-
 ## Definition
 
 وكلاء الذكاء الاصطناعي هي برامج أو أنظمة قادرة على إدراك محيطها من خلال أجهزة الاستشعار (مدخلات)، ومعالجة المعلومات، وتنفيذ الإجراءات عبر المشغلات (مخرجات) لتحقيق أهداف محددة.

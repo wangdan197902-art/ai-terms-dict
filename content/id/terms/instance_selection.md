@@ -1,23 +1,24 @@
 ---
-title: "Seleksi instans"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Seleksi instans
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /id/terms/instance_selection/
-date: "2026-07-18T15:55:53.651882Z"
-lastmod: "2026-07-18T16:38:07.470979Z"
+slug: instance_selection
+date: '2026-07-18T15:55:53.651882Z'
+lastmod: '2026-07-18T16:38:07.470979Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik pra-pemrosesan yang mengurangi ukuran dataset dengan memilih subset instans yang representatif."
+source: agnes_llm
+status: published
+language: id
+description: Teknik pra-pemrosesan yang mengurangi ukuran dataset dengan memilih subset
+  instans yang representatif.
 ---
-
 ## Definition
 
 Seleksi instans bertujuan meningkatkan efisiensi komputasi dan kinerja model dengan menghapus titik data yang redundan atau bising. Berbeda dengan seleksi fitur, teknik ini beroperasi pada baris dataset. Tujuannya

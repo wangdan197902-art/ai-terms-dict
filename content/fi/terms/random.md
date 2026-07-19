@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /fi/terms/random/
 date: "2026-07-18T15:30:07.876436Z"
 lastmod: "2026-07-18T17:15:09.357641Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ominaisuus, jossa ei ole ennustettavaa kuviota; tekoälyssä sitä simuloitiin usein pseudosatunnaislukugeneraattoreilla."
 ---
-
 ## Definition
 
 Satunnaisuus on perustavanlaatuista tekoälyssä mallin painojen alustamisessa, datajoukkojen sekoittamisessa ja stokastisuuden lisäämisessä koulutuksen aikana ylikoulutuksen estämiseksi. Koska tietokoneet ovat deterministisiä, tekoälyjärjestelmät käyttävät algoritmeja luodakseen satunnaisuuden illuusion.

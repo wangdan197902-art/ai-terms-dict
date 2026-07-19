@@ -7,8 +7,6 @@ tags: ["scaling", "alignment", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v4"
-aliases:
-  - /zh/terms/deepseek_v4/
 date: "2026-07-18T11:14:03.842002Z"
 lastmod: "2026-07-18T11:44:45.486114Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "DeepSeek V4是DeepSeek系列中的概念性或后续迭代版本，代表了模型扩展和多模态整合方面的进一步进展。"
 ---
-
 ## Definition
 
 作为先前版本的继任者，DeepSeek V4暗示了DeepSeek模型系列的持续演进，重点在于增强可扩展性和鲁棒性。虽然具体的公开细节可能因依赖因素而异，但该版本旨在提供更长的上下文窗口和更好的人类对齐效果。

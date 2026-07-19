@@ -1,23 +1,23 @@
 ---
-title: "异常检测"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: 异常检测
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /zh/terms/anomaly_detection/
-date: "2026-07-18T11:04:49.783898Z"
-lastmod: "2026-07-18T11:44:45.442199Z"
+slug: anomaly_detection
+date: '2026-07-18T11:04:49.783898Z'
+lastmod: '2026-07-18T11:44:45.442199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "识别罕见项目、事件或观察结果的过程，这些结果与大多数数据显著偏离。"
+source: agnes_llm
+status: published
+language: zh
+description: 识别罕见项目、事件或观察结果的过程，这些结果与大多数数据显著偏离。
 ---
-
 ## Definition
 
 异常检测（也称为离群点检测）涉及分析数据以发现不符合预期行为的模式。它广泛应用于网络安全、欺诈检测和系统监控中。

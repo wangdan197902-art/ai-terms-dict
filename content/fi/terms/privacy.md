@@ -1,23 +1,24 @@
 ---
-title: "Yksityisyys"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Yksityisyys
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /fi/terms/privacy/
-date: "2026-07-18T15:30:07.876344Z"
-lastmod: "2026-07-18T17:15:09.357330Z"
+slug: privacy
+date: '2026-07-18T15:30:07.876344Z'
+lastmod: '2026-07-18T17:15:09.357330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Yksilöiden oikeus hallita henkilötietojensa keräämistä, käyttöä ja jakamista tekoälyjärjestelmissä."
+source: agnes_llm
+status: published
+language: fi
+description: Yksilöiden oikeus hallita henkilötietojensa keräämistä, käyttöä ja jakamista
+  tekoälyjärjestelmissä.
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa yksityisyys viittaa herkkien käyttäjätietojen suojaamiseen luvattomalta pääsyltä tai väärinkäytöltä datankeruun, mallin koulutuksen ja päättelyn aikana. Se sisältää tekniset ja juridiset keinot tietosuojan varmistamiseksi.

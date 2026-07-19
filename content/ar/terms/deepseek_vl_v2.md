@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /ar/terms/deepseek_vl_v2/
 date: "2026-07-18T15:53:19.810458Z"
 lastmod: "2026-07-18T17:15:08.495666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ديب سيك VL V2 هو نموذج لغوي بصري مصمم لمعالجة وفهم المدخلات المرئية والاستفسارات النصية بدقة وكفاءة عاليتين."
 ---
-
 ## Definition
 
 يمدد ديب سيك VL V2 قدرات نموذج اللغة القياسي إلى المجال متعدد الوسائط، مما يسمح له بتفسير الصور جنباً إلى جنب مع النص. باستخدام مشفر مرئي متصل بنموذج لغة كبير،

@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /fi/terms/llamaindex/
 date: "2026-07-18T16:07:24.044090Z"
 lastmod: "2026-07-18T17:15:09.429884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "LlamaIndex on kehys, joka on suunniteltu yhdistämään mukautetut datalähteet suuriin kielimalleihin helpottaen hakuun perustuvan generoinnin (RAG) sovellusten luomista."
 ---
-
 ## Definition
 
 Alun perin nimellä GPT Index tunnettu LlamaIndex on tehokas datakehys, joka mahdollistaa LLM-mallien syöttämisen ja vuorovaikutuksen rakenteisen ja rakenteettoman datan kanssa. Se tarjoaa työkaluja indeksointiin, kyselyyn ja hallinn

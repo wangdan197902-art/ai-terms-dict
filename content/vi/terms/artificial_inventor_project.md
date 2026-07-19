@@ -1,23 +1,24 @@
 ---
-title: "Dự án Nhà phát minh Nhân tạo"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Dự án Nhà phát minh Nhân tạo
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /vi/terms/artificial_inventor_project/
-date: "2026-07-18T15:40:35.589239Z"
-lastmod: "2026-07-18T16:38:07.727883Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:40:35.589239Z'
+lastmod: '2026-07-18T16:38:07.727883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một sáng kiến nghiên cứu tập trung vào việc phát triển các mô hình tính toán về quá trình giải quyết vấn đề và sáng chế mang tính sáng tạo giống con người."
+source: agnes_llm
+status: published
+language: vi
+description: Một sáng kiến nghiên cứu tập trung vào việc phát triển các mô hình tính
+  toán về quá trình giải quyết vấn đề và sáng chế mang tính sáng tạo giống con người.
 ---
-
 ## Definition
 
 Dự án Nhà phát minh Nhân tạo là một nỗ lực nghiên cứu liên ngành nhằm hiểu rõ và sao chép các cơ chế nhận thức đằng sau sự sáng tạo và khả năng sáng chế của con người. Dự án này hướng tới việc xây dựng các hệ thống AI có thể mô phỏng quá trình tư duy sáng tạo.

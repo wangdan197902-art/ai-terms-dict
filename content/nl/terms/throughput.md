@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /nl/terms/throughput/
 date: "2026-07-18T16:20:27.609773Z"
 lastmod: "2026-07-18T17:15:08.794237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Doorvoer meet de hoeveelheid gegevens of verzoeken die een AI-systeem succesvol kan verwerken binnen een bepaalde tijdsperiode."
 ---
-
 ## Definition
 
 In AI-engineering is doorvoer een cruciale prestatie-indicator die de systeemcapaciteit aangeeft. Het wordt vaak gemeten in tokens per seconde voor grote taalmodellen (LLM's), afbeeldingen per seconde voor computer vision-modellen, of queries...

@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /sv/terms/speaker/
 date: "2026-07-18T16:21:30.782373Z"
 lastmod: "2026-07-18T17:15:09.049701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En individ som producerar vokal ljud eller tal inom en ljudsignal."
 ---
-
 ## Definition
 
 Inom talbehandling definieras en talare som en distinkt mänsklig röstkälla inom en ljudinspelning. Att identifiera och skilja på talare är grundläggande för att analysera samtal och säkerställa säkerhet.

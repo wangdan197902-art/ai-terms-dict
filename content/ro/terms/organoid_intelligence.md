@@ -1,23 +1,24 @@
 ---
-title: "Inteligență Organoidă"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Inteligență Organoidă
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /ro/terms/organoid_intelligence/
-date: "2026-07-18T16:14:36.949952Z"
-lastmod: "2026-07-18T17:15:09.688536Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:14:36.949952Z'
+lastmod: '2026-07-18T17:15:09.688536Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de calcul hibrid care integrează celule vii ale creierului cu interfețe electronice pentru procesarea informațiilor."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de calcul hibrid care integrează celule vii ale creierului
+  cu interfețe electronice pentru procesarea informațiilor.
 ---
-
 ## Definition
 
 Inteligența organoidă (IO) se referă la dezvoltarea sistemelor bio-hibride în care organoidii cerebralii derivați din oameni sunt cultivați pe matrice de microelectrozi. Aceste rețele neuronale vii efectuează calcule

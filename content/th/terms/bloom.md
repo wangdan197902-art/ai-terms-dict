@@ -1,23 +1,25 @@
 ---
-title: "บลูม (Bloom)"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: บลูม (Bloom)
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /th/terms/bloom/
-date: "2026-07-18T15:44:38.416442Z"
-lastmod: "2026-07-18T16:38:07.580862Z"
+slug: bloom
+date: '2026-07-18T15:44:38.416442Z'
+lastmod: '2026-07-18T16:38:07.580862Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ในการเรียนรู้ของเครื่อง คำว่า 'บลูม' มักหมายถึงลำดับชั้นการเรียนรู้ของบลูม (Bloom's Taxonomy) ที่นำมาใช้ในการศึกษา AI หรือแบบจำลองการฝังข้อความเฉพาะ เช่น แบบจำลองการฝังข้อความ Bloom"
+source: agnes_llm
+status: published
+language: th
+description: ในการเรียนรู้ของเครื่อง คำว่า 'บลูม' มักหมายถึงลำดับชั้นการเรียนรู้ของบลูม
+  (Bloom's Taxonomy) ที่นำมาใช้ในการศึกษา AI หรือแบบจำลองการฝังข้อความเฉพาะ เช่น แบบจำลองการฝังข้อความ
+  Bloom
 ---
-
 ## Definition
 
 แม้ในอดีตจะหมายถึงลำดับชั้นทางการศึกษาของเบนจามิน บลูม แต่ในบริบท AI สมัยใหม่ มักหมายถึงแบบจำลองการฝังข้อความ Bloom (Bloom text embedding model) ที่พัฒนาโดย BigScience ซึ่งสร้างการแสดงข้อมูลข้อความที่มีคุณภาพสูงเพื่อใช้ในการเข้าใจความหมาย

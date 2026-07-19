@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /hu/terms/grounding/
 date: "2026-07-18T16:02:32.212170Z"
 lastmod: "2026-07-18T17:15:09.791358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az absztrakt AI kimenetek összekapcsolása a valós világ tényeivel, adattárgyakkal vagy fizikai kontextussal a pontosság és relevancia biztosítása érdekében."
 ---
-
 ## Definition
 
 Az AI-ban a grounding a szimbolikus reprezentációk vagy generált szövegek összekapcsolását jelenti konkrét valós világú entitásokkal, adatokkal vagy érzéki tapasztalatokkal. A nyelvi modellek esetén ez gyakran a Retrieval-Augmented Generation (RAG) technológiát foglalja magában.

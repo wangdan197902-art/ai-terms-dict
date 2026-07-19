@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /fr/terms/learning_based/
 date: "2026-07-18T10:57:20.089545Z"
 lastmod: "2026-07-18T11:44:45.178916Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Indique des méthodes où les algorithmes améliorent leurs performances grâce à l'expérience plutôt que par des règles de programmation explicites."
 ---
-
 ## Definition
 
 Les approches basées sur l'apprentissage reposent sur des algorithmes statistiques pour identifier des motifs et prendre des décisions en fonction de l'exposition aux données, contrairement aux systèmes basés sur des règles. Cette catégorie englobe l'apprentissage supervisé, non supervisé...

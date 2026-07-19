@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /es/terms/gabbays_separation_theorem/
 date: "2026-07-18T10:50:13.497598Z"
 lastmod: "2026-07-18T11:44:44.809253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un resultado en lógica no clásica que establece que ciertas lógicas temporales o modales pueden separarse en componentes distintos basándose en sus propiedades estructurales."
 ---
-
 ## Definition
 
 El teorema de separación de Gabbay es un concepto fundamental en la lógica matemática, particularmente dentro del estudio de las lógicas temporales y modales. Proporciona condiciones bajo las cuales una lógica puede descomponerse o analizarse por separado, facilitando la verificación formal y el razonamiento sobre sistemas complejos.

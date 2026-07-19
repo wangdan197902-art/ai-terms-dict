@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /tr/terms/something_big_is_happening/
 date: "2026-07-18T16:14:27.015302Z"
 lastmod: "2026-07-18T16:38:07.366347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Medya tarafından AI alanındaki önemli kırılmaları veya hızlı ilerlemeleri tanımlamak için sıklıkla kullanılan deyim."
 ---
-
 ## Definition
 
 Bu terim teknik bir tanım değil, yapay zekada yoğun inovasyon, kamuoyu ilgisi veya paradigma değişikliklerinin yaşandığı dönemlere işaret eden kültürel bir göstergedir. Genellikle yeni teknolojilerin tanıtımı veya büyük yatırımlarla ilişkilendirilir.

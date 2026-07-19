@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /id/terms/ai_literacy/
 date: "2026-07-18T15:37:23.930841Z"
 lastmod: "2026-07-18T16:38:07.423335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kemampuan untuk memahami, mengevaluasi, dan berinteraksi secara efektif dengan teknologi kecerdasan buatan serta implikasi sosialnya."
 ---
-
 ## Definition
 
 Literasi AI merujuk pada kompetensi yang dibutuhkan untuk menavigasi dunia yang semakin dipengaruhi oleh kecerdasan buatan. Hal ini melampaui keterampilan pemrograman teknis untuk mencakup pemahaman tentang cara kerja sistem AI, batasan etisnya, serta dampaknya terhadap masyarakat dan pengambilan keputusan.

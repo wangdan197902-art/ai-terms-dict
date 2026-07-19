@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Open Source"]
 difficulty: 2
 weight: 1
 slug: "llama_2"
-aliases:
-  - /id/terms/llama_2/
 date: "2026-07-18T15:58:24.878393Z"
 lastmod: "2026-07-18T16:38:07.478281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Llama 2 adalah keluarga model bahasa besar yang dirilis oleh Meta pada Juli 2023, dengan arsitektur yang dioptimalkan dan jendela konteks yang lebih besar dibandingkan pendahulunya."
 ---
-
 ## Definition
 
 Dirilis oleh Meta AI pada Juli 2023, Llama 2 mewakili evolusi signifikan dalam model bahasa besar berbobot terbuka. Model ini menawarkan varian pra-latih dan penyetelan halus mulai dari 7 miliar hingga 70 miliar parameter.

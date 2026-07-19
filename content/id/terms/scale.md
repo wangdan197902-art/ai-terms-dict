@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /id/terms/scale/
 date: "2026-07-18T15:29:22.821182Z"
 lastmod: "2026-07-18T16:38:07.402011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Skala mengacu pada besaran data, parameter, atau sumber daya komputasi yang digunakan dalam model pembelajaran mesin."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, penskalaan biasanya melibatkan peningkatan ukuran dataset, parameter model, atau daya komputasi untuk meningkatkan kinerja. Konsep ini sangat sentral dalam pembelajaran mendalam, di mana skala besar

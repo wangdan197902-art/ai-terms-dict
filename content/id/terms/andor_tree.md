@@ -1,23 +1,24 @@
 ---
-title: "Pohon And–or"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: Pohon And–or
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /id/terms/andor_tree/
-date: "2026-07-18T15:38:42.752466Z"
-lastmod: "2026-07-18T16:38:07.427127Z"
+slug: andor_tree
+date: '2026-07-18T15:38:42.752466Z'
+lastmod: '2026-07-18T16:38:07.427127Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Struktur grafik hierarkis yang digunakan dalam algoritma pencarian di mana simpul mewakili keadaan dan tepi mewakili tindakan yang mengarah ke sub-tujuan."
+source: agnes_llm
+status: published
+language: id
+description: Struktur grafik hierarkis yang digunakan dalam algoritma pencarian di
+  mana simpul mewakili keadaan dan tepi mewakili tindakan yang mengarah ke sub-tujuan.
 ---
-
 ## Definition
 
 Pohon And–or adalah representasi yang digunakan dalam pemecahan masalah dan perencanaan, khususnya dalam algoritma pencarian AI. Simpul 'Or' mewakili pilihan antara berbagai tindakan, sedangkan simpul 'And' menunjukkan bahwa a

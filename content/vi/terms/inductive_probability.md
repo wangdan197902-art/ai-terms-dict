@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /vi/terms/inductive_probability/
 date: "2026-07-18T15:57:53.963998Z"
 lastmod: "2026-07-18T16:38:07.769694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thước đo mức độ mà bằng chứng hỗ trợ cho một giả thuyết, khác biệt với sự chắc chắn suy diễn."
 ---
-
 ## Definition
 
 Xác suất quy nạp định lượng khả năng một giả thuyết là đúng dựa trên bằng chứng quan sát được, thừa nhận rằng các kết luận mang tính xác suất chứ không phải chắc chắn tuyệt đối. Nó là nền tảng của suy luận Bayes, nơi xác suất được cập nhật khi có thêm thông tin mới.

@@ -1,23 +1,24 @@
 ---
-title: "Övervakad finjustering"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Övervakad finjustering
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /sv/terms/supervised_fine_tuning/
-date: "2026-07-18T15:40:47.756396Z"
-lastmod: "2026-07-18T17:15:08.967441Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:40:47.756396Z'
+lastmod: '2026-07-18T17:15:08.967441Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att ytterligare träna en förtränad modell på ett specifikt dataset för att anpassa den till en viss uppgift eller domän."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att ytterligare träna en förtränad modell på ett specifikt
+  dataset för att anpassa den till en viss uppgift eller domän.
 ---
-
 ## Definition
 
 Övervakad finjustering (SFT) innebär att ta en stor förtränad modell, till exempel en språkmodell, och fortsätta dess träning på ett mindre, högkvalitativt dataset som är märkt för en specifik nedströmsuppgift.

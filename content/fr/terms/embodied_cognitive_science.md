@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /fr/terms/embodied_cognitive_science/
 date: "2026-07-18T11:15:27.661523Z"
 lastmod: "2026-07-18T11:44:45.246307Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Les sciences cognitives incarnées sont un cadre théorique proposant que la cognition humaine est fondamentalement façonnée par les interactions du corps avec l'environnement."
 ---
-
 ## Definition
 
 Ce domaine remet en question les vues traditionnelles qui traitent l'esprit comme un ordinateur traitant des symboles abstraits. Au lieu de cela, il soutient que les processus cognitifs sont profondément enracinés dans les caractéristiques physiques du corps et ses interactions avec le monde.

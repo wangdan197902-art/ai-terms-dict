@@ -1,23 +1,24 @@
 ---
-title: "Epoch"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /en/terms/epoch/
-date: "2026-07-18T09:57:09.537599Z"
-lastmod: "2026-07-18T11:44:44.670012Z"
+slug: epoch
+date: '2026-07-18T09:57:09.537599Z'
+lastmod: '2026-07-18T11:44:44.670012Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "One complete pass of the training dataset through the machine learning algorithm during model training."
+source: agnes_llm
+status: published
+language: en
+description: One complete pass of the training dataset through the machine learning
+  algorithm during model training.
 ---
-
 ## Definition
 
 In machine learning, an epoch represents a single iteration over the entire training dataset. During each epoch, the model processes all training examples, updates its weights via backpropagation, and minimizes the loss function. Multiple epochs are typically required for the model to converge to optimal parameters. The number of epochs is a hyperparameter that must be tuned; too few may lead to underfitting, while too many can cause overfitting, where the model memorizes noise rather than learning general patterns.

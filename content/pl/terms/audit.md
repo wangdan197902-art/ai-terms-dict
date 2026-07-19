@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /pl/terms/audit/
 date: "2026-07-18T15:42:04.803494Z"
 lastmod: "2026-07-18T17:15:08.847855Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Systematyczna ocena systemów sztucznej inteligencji w celu zapewnienia zgodności ze standardami etycznymi, wymogami regulacyjnymi oraz wskaźnikami wydajności."
 ---
-
 ## Definition
 
 Audyt w obszarze SI obejmuje rygorystyczną, ustrukturyzowaną recenzję modeli uczenia maszynowego oraz ich potoków wdrożeniowych. Ocenia ona sprawiedliwość, przejrzystość, odpowiedzialność i bezpieczeństwo, aby zidentyfikować potencjalne stronniczości.

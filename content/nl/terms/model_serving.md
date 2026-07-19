@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /nl/terms/model_serving/
 date: "2026-07-18T15:37:48.171201Z"
 lastmod: "2026-07-18T17:15:08.706538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het implementeren van getrainde machine learning-modellen in productiewebsites om voorspellingen te doen of uitvoer te genereren voor eindgebruikers."
 ---
-
 ## Definition
 
 Model serving houdt in dat een statisch getraind model wordt verpakt in schaalbare infrastructuur die inkomende verzoeken afhandelt, inferentie uitvoert en resultaten teruggeeft. Belangrijke uitdagingen zijn onder meer het beheer

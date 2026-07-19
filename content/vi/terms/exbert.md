@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /vi/terms/exbert/
-date: "2026-07-18T15:52:13.619318Z"
-lastmod: "2026-07-18T16:38:07.755497Z"
+slug: exbert
+date: '2026-07-18T15:52:13.619318Z'
+lastmod: '2026-07-18T16:38:07.755497Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp giải thích các dự đoán của BERT bằng cách xác định các đầu chú ý (attention heads) và lớp nào đóng góp nhiều nhất vào các đầu ra cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp giải thích các dự đoán của BERT bằng cách xác định các
+  đầu chú ý (attention heads) và lớp nào đóng góp nhiều nhất vào các đầu ra cụ thể.
 ---
-
 ## Definition
 
 ExBERT cung cấp khả năng giải thích cho mô hình transformer BERT bằng cách phân tích tầm quan trọng của từng đầu chú ý riêng lẻ trên các lớp khác nhau. Nó sử dụng các kỹ thuật như quy gán dựa trên gradient hoặc phân tích độ nhạy để làm rõ cách mô hình đưa ra quyết định.

@@ -1,23 +1,25 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /ru/terms/coqui/
-date: "2026-07-18T15:46:45.534826Z"
-lastmod: "2026-07-18T16:38:07.135179Z"
+slug: coqui
+date: '2026-07-18T15:46:45.534826Z'
+lastmod: '2026-07-18T16:38:07.135179Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Coqui — компания, разрабатывающая технологии синтеза речи с открытым исходным кодом, известная созданием высококачественных многоязычных моделей преобразования текста в речь (TTS)."
+source: agnes_llm
+status: published
+language: ru
+description: Coqui — компания, разрабатывающая технологии синтеза речи с открытым
+  исходным кодом, известная созданием высококачественных многоязычных моделей преобразования
+  текста в речь (TTS).
 ---
-
 ## Definition
 
 Coqui Technologies была заметной фигурой в сообществе открытого искусственного интеллекта, наиболее известной своим движком синтеза речи (TTS). Проект предоставлял предварительно обученные модели, способные генерировать естественно звучащую речь.

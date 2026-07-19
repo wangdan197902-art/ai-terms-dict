@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /tr/terms/hallucination/
 date: "2026-07-18T15:23:00.947078Z"
 lastmod: "2026-07-18T16:38:07.225943Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka modelinin, güvenle ancak gerçeğe aykırı veya anlamsız bilgiler üretmesi durumu."
 ---
-
 ## Definition
 
 Halüsinasyonlar, jeneratif yapay zeka modellerinin gerçekliğe veya kaynak verilere dayanmayan ancak makul görünen çıktılar ürettiğinde ortaya çıkar. Bu, yüksek doğruluk gerektiren uygulamalarda

@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /no/terms/safe/
 date: "2026-07-18T15:29:28.630144Z"
 lastmod: "2026-07-18T16:38:06.945513Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Refererer til AI-systemer designet for å operere uten å forårsake skade på mennesker, eiendom eller miljøet."
 ---
-
 ## Definition
 
 Sikkerhet i AI innebærer å implementere begrensninger og sikkerhetsmekanismer for å sikre at automatiserte systemer oppfører seg forutsigbart og ikke forårsaker utilsiktede negative konsekvenser. Dette inkluderer tekniske tiltak som nødstopp og overvåking.

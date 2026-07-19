@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /pt/terms/energy/
 date: "2026-07-18T14:34:42.812378Z"
 lastmod: "2026-07-18T15:51:59.428344Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Em IA, energia geralmente se refere ao poder computacional consumido durante o treinamento e a inferência de modelos, ou a uma função de potencial matemático em modelos probabilísticos."
 ---
-
 ## Definition
 
 Energia tem dois significados principais na IA. Primeiro, denota a energia elétrica necessária para executar o hardware, uma preocupação crescente para a sustentabilidade à medida que os modelos escalam. Segundo, em modelos inspirados pela mecânica estatística, refere-se a uma função de energia que atribui um valor escalar a cada configuração do sistema, onde configurações de menor energia são mais prováveis.

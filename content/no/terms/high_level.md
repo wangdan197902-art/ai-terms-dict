@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /no/terms/high_level/
 date: "2026-07-18T15:33:28.799101Z"
 lastmod: "2026-07-18T16:38:06.952835Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Viser til abstrakte representasjoner eller programmeringsgrensesnitt som skjuler lavnivå-implementasjonsdetaljer for brukeren."
 ---
-
 ## Definition
 
 Innen KI betegner «høynivå» abstraksjoner som forenkler komplekse prosesser. Høynivå-språk (som Python) eller API-er lar utviklere bygge modeller uten å måtte håndtere minneadministrasjon eller maskinvarespesifikker direkte. Dette øker produktiviteten og gjør KI-utvikling mer tilgjengelig.

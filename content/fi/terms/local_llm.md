@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /fi/terms/local_llm/
 date: "2026-07-18T16:07:24.044100Z"
 lastmod: "2026-07-18T17:15:09.430016Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Paikallinen LLM viittaa suurten kielimallien suorittamiseen henkilökohtaisella laitteistolla pilvipalveluiden sijaan, priorisoiden tietosuojaa ja offline-käyttömahdollisuuksia."
 ---
-
 ## Definition
 
 Paikallisen LLM:n käyttäminen tarkoittaa avoimen painotuksen mallien käyttöönottoa suoraan kuluttajaluokan laitteistolla, kuten PC-tietokoneilla, Mac-laitteilla tai paikallisilla palvelimilla. Tämä lähestymistapa poistaa riippuvuuden kolmansien osapuolten API-palveluntarjoajista, varmist

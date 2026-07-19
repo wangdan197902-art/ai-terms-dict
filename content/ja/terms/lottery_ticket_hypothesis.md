@@ -1,23 +1,23 @@
 ---
-title: "宝くじ仮説"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: 宝くじ仮説
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /ja/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T11:22:25.279092Z"
-lastmod: "2026-07-18T11:44:45.117865Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T11:22:25.279092Z'
+lastmod: '2026-07-18T11:44:45.117865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "密なニューラルネットワークには、初期化状態から孤立して学習させることで元のネットワークと同等の精度を出せる小さなサブネットワークが含まれているという理論。"
+source: agnes_llm
+status: published
+language: ja
+description: 密なニューラルネットワークには、初期化状態から孤立して学習させることで元のネットワークと同等の精度を出せる小さなサブネットワークが含まれているという理論。
 ---
-
 ## Definition
 
 宝くじ仮説は、大きくランダムに初期化されたニューラルネットワークの中に、学習に適した初期状態を持つスパースなサブネットワーク（当選チケット）が存在すると示唆しています。これを剪定（プルーニング）し...

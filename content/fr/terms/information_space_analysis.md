@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /fr/terms/information_space_analysis/
 date: "2026-07-18T11:23:36.203379Z"
 lastmod: "2026-07-18T11:44:45.274918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'examen des propriétés géométriques et topologiques de l'espace où résident les représentations des données."
 ---
-
 ## Definition
 
 Ce concept implique l'analyse de la structure de l'espace de représentation dans les modèles d'apprentissage automatique. Il examine comment les points de données sont distribués, regroupés ou séparés au sein d'un espace de grande dimension.

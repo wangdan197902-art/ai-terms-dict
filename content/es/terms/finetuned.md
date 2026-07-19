@@ -1,23 +1,24 @@
 ---
-title: "Ajustado finamente"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Ajustado finamente
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /es/terms/finetuned/
-date: "2026-07-18T10:49:31.290345Z"
-lastmod: "2026-07-18T11:44:44.807254Z"
+slug: finetuned
+date: '2026-07-18T10:49:31.290345Z'
+lastmod: '2026-07-18T11:44:44.807254Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de seguir entrenando un modelo preentrenado en un conjunto de datos específico para adaptarlo a una tarea particular."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de seguir entrenando un modelo preentrenado en un conjunto
+  de datos específico para adaptarlo a una tarea particular.
 ---
-
 ## Definition
 
 El ajuste fino se refiere a la técnica de tomar un modelo que ya ha sido entrenado en un conjunto de datos grande y general y continuar su entrenamiento en un conjunto de datos más pequeño y específico del dominio. Esto permite que el modelo

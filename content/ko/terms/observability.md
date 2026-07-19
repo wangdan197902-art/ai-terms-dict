@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /ko/terms/observability/
 date: "2026-07-18T16:08:09.910828Z"
 lastmod: "2026-07-18T16:38:06.892457Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "로그, 메트릭, 트레이스와 같은 외부 출력을 통해 내부 시스템 상태를 얼마나 잘 추론할 수 있는지를 측정하는 지표입니다."
 ---
-
 ## Definition
 
 AI 엔지니어링에서 관측 가능성은 외부 출력을 분석하여 복잡한 머신러닝 시스템의 내부 상태를 이해하는 능력을 의미합니다. 이는 전통적인 모니터링을 넘어, 시스템이 어떻게 작동하는지에 대한 깊은 통찰력을 제공하여 문제 해결과 성능 최적화를 가능하게 합니다.

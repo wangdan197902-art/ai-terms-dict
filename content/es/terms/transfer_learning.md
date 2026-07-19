@@ -1,23 +1,25 @@
 ---
-title: "Aprendizaje por Transferencia"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Aprendizaje por Transferencia
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /es/terms/transfer_learning/
-date: "2026-07-18T10:27:24.144368Z"
-lastmod: "2026-07-18T11:44:44.753631Z"
+slug: transfer_learning
+date: '2026-07-18T10:27:24.144368Z'
+lastmod: '2026-07-18T11:44:44.753631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica de aprendizaje automático en la que un modelo desarrollado para una tarea se reutiliza como punto de partida para un modelo en una segunda tarea."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica de aprendizaje automático en la que un modelo desarrollado
+  para una tarea se reutiliza como punto de partida para un modelo en una segunda
+  tarea.
 ---
-
 ## Definition
 
 El aprendizaje por transferencia aprovecha modelos preentrenados para mejorar el rendimiento y reducir el tiempo de entrenamiento en nuevas tareas relacionadas. En lugar de entrenar desde cero, los desarrolladores ajustan los pesos existentes, permitiendo

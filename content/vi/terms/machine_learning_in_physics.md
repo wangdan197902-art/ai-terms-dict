@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /vi/terms/machine_learning_in_physics/
 date: "2026-07-18T16:01:48.463663Z"
 lastmod: "2026-07-18T16:38:07.779381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc áp dụng học máy để giải quyết các vấn đề vật lý phức tạp, mô phỏng các hệ thống lượng tử và phân tích dữ liệu thí nghiệm từ các máy gia tốc hạt."
 ---
-
 ## Definition
 
 Trong vật lý, học máy hỗ trợ mô phỏng cơ học lượng tử, phân tích dữ liệu va chạm năng lượng cao và khám phá các vật liệu mới. Nó giúp các nhà vật lý điều hướng qua không gian tham số nhiều chiều, rút ngắn thời gian tính toán cho các mô phỏng phức tạp và phát hiện các mẫu hình ẩn trong dữ liệu thí nghiệm mà các phương pháp truyền thống có thể bỏ sót.

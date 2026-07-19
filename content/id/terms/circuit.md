@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /id/terms/circuit/
 date: "2026-07-18T15:42:06.756342Z"
 lastmod: "2026-07-18T16:38:07.436202Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sirkuit merujuk pada infrastruktur perangkat keras fisik, termasuk chip dan interkoneksi, yang menjalankan tugas komputasi."
 ---
-
 ## Definition
 
 Dalam konteks AI, sirkuit biasanya merujuk pada arsitektur perangkat keras dasar seperti GPU, TPU, atau chip neuromorfik yang dirancang untuk mempercepat operasi matriks dan pemrosesan paralel. Perangkat-perangkat ini membentuk fondasi fisik untuk eksekusi model.

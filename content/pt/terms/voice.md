@@ -1,23 +1,24 @@
 ---
-title: "Voz"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: Voz
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /pt/terms/voice/
-date: "2026-07-18T15:26:39.509743Z"
-lastmod: "2026-07-18T15:51:59.541410Z"
+slug: voice
+date: '2026-07-18T15:26:39.509743Z'
+lastmod: '2026-07-18T15:51:59.541410Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Voz refere-se ao som humano produzido pela fala, que serve como a principal modalidade de entrada para sistemas de reconhecimento e síntese de fala."
+source: agnes_llm
+status: published
+language: pt
+description: Voz refere-se ao som humano produzido pela fala, que serve como a principal
+  modalidade de entrada para sistemas de reconhecimento e síntese de fala.
 ---
-
 ## Definition
 
 Na inteligência artificial, a voz abrange os sinais acústicos gerados pelas cordas vocais humanas que carregam informações linguísticas. É distinta do áudio geral, pois relaciona-se especificamente a spo

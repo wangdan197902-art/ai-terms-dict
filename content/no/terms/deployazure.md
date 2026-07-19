@@ -1,23 +1,23 @@
 ---
-title: "Utplassering: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Utplassering: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /no/terms/deployazure/
-date: "2026-07-18T15:51:16.929695Z"
-lastmod: "2026-07-18T16:38:06.993180Z"
+slug: deployazure
+date: '2026-07-18T15:51:16.929695Z'
+lastmod: '2026-07-18T16:38:06.993180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å hoste og kjøre maskinlæringsmodeller på Microsoft Azures skyinfrastruktur."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å hoste og kjøre maskinlæringsmodeller på Microsoft Azures
+  skyinfrastruktur.
 ---
-
 ## Definition
 
 Å utplassere til Azure innebærer å bruke sky-native verktøy som Azure Machine Learning, Azure Kubernetes Service (AKS) eller Azure Functions for å levere ML-modeller i stor skala. Det omfatter håndtering av beregnings-

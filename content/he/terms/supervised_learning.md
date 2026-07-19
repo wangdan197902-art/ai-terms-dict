@@ -1,23 +1,24 @@
 ---
-title: "למידה פיקוחית"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: למידה פיקוחית
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /he/terms/supervised_learning/
-date: "2026-07-18T15:38:47.796222Z"
-lastmod: "2026-07-18T17:15:09.504892Z"
+slug: supervised_learning
+date: '2026-07-18T15:38:47.796222Z'
+lastmod: '2026-07-18T17:15:09.504892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרדיגמה בלמידת מכונה שבה מודל לומד למפות קלטים לפלטטים בהתבסס על דוגמאות אימון מסומנות."
+source: agnes_llm
+status: published
+language: he
+description: פרדיגמה בלמידת מכונה שבה מודל לומד למפות קלטים לפלטטים בהתבסס על דוגמאות
+  אימון מסומנות.
 ---
-
 ## Definition
 
 בלמידה פיקוחית, האלגוריתם מאומן על ערכת נתונים מסומנת, כלומר כל דוגמת קלט מזווגת עם הפלט הנכון. המטרה היא שהמודל ילמד את הקשר הבסיסי בין הקלט לפלט.

@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /ko/terms/prior/
 date: "2026-07-18T15:27:55.305864Z"
 lastmod: "2026-07-18T16:38:06.781289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "베이지안 통계학에서, 새로운 증거나 데이터를 관측하기 전 매개변수에 대한 지식이나 믿음을 나타내는 확률 분포입니다."
 ---
-
 ## Definition
 
 '프라이어(Prior)'는 새로운 관측치를 반영하기 전에 변수에 대해 가지고 있는 기존 신념이나 역사적 데이터를 의미합니다. 베이지안 추론에서 프라이어는 관측된 데이터의 우도(likelihood)와 결합하여 사후 확률(posterior)을 도출하는 데 사용됩니다.

@@ -1,23 +1,24 @@
 ---
-title: "Rejtett réteg"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Rejtett réteg
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /hu/terms/hidden_layer/
-date: "2026-07-18T16:03:21.366558Z"
-lastmod: "2026-07-18T17:15:09.792681Z"
+slug: hidden_layer
+date: '2026-07-18T16:03:21.366558Z'
+lastmod: '2026-07-18T17:15:09.792681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy közvetett réteg egy neurális hálózatban a bemeneti és kimeneti rétegek között, amely feldolgozza a jellemzőket."
+source: agnes_llm
+status: published
+language: hu
+description: Egy közvetett réteg egy neurális hálózatban a bemeneti és kimeneti rétegek
+  között, amely feldolgozza a jellemzőket.
 ---
-
 ## Definition
 
 Egy rejtett réteg neuronokból áll, amelyek bemeneteket kapnak az előző rétegektől, súlyokat és torzításokat alkalmaznak, majd aktivációs függvényen keresztül továbbítják az átalakított adatokat. Ezek a rétegek teszik lehetővé a neurális hálózatok komplex mintafelismerését.

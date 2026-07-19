@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /pl/terms/supervised/
 date: "2026-07-18T15:29:55.028181Z"
 lastmod: "2026-07-18T17:15:08.821919Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Paradygmat uczenia maszynowego, w którym modele są trenowane na parach wejście-wyjście z etykietami."
 ---
-
 ## Definition
 
 Uczenie nadzorowane polega na podaniu algorytmowi danych, które zawierają zarówno wejścia, jak i poprawne odpowiedzi (etykiety). Model uczy się mapować wejścia na wyjścia poprzez minimalizację błędów predykcji. Ta technika...

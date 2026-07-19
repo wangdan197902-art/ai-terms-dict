@@ -1,23 +1,23 @@
 ---
-title: "Tanh (แทนเจนต์ไฮเพอร์โบลิก)"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Tanh (แทนเจนต์ไฮเพอร์โบลิก)
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /th/terms/tanh/
-date: "2026-07-18T16:17:15.132140Z"
-lastmod: "2026-07-18T16:38:07.660353Z"
+slug: tanh
+date: '2026-07-18T16:17:15.132140Z'
+lastmod: '2026-07-18T16:38:07.660353Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Tanh หรือ hyperbolic tangent เป็นฟังก์ชันกระตุ้นที่แมปค่าอินพุตไปยังช่วงระหว่าง -1 ถึง 1"
+source: agnes_llm
+status: published
+language: th
+description: Tanh หรือ hyperbolic tangent เป็นฟังก์ชันกระตุ้นที่แมปค่าอินพุตไปยังช่วงระหว่าง
+  -1 ถึง 1
 ---
-
 ## Definition
 
 ฟังก์ชันแทนเจนต์ไฮเพอร์โบลิก (Tanh) เป็นฟังก์ชันกระตุ้นแบบไม่เชิงเส้นที่ใช้ทั่วไปในโครงข่ายประสาทเทียม มันบีบอัดค่าอินพุตให้อยู่ในช่วง (-1, 1) ให้ผลลัพธ์ที่มีศูนย์เป็นศูนย์กลางซึ่งช่วย

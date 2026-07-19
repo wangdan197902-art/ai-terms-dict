@@ -1,23 +1,24 @@
 ---
-title: "Sanapussi-malli"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Sanapussi-malli
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /fi/terms/bag_of_words_model/
-date: "2026-07-18T15:45:00.616182Z"
-lastmod: "2026-07-18T17:15:09.386989Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:45:00.616182Z'
+lastmod: '2026-07-18T17:15:09.386989Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Sanapussi-malli on tekstin sieventävä esitys, joka kuvaa sanojen esiintymistä dokumentissa jättäen kieliopin ja sanojen järjestyksen huomiotta."
+source: agnes_llm
+status: published
+language: fi
+description: Sanapussi-malli on tekstin sieventävä esitys, joka kuvaa sanojen esiintymistä
+  dokumentissa jättäen kieliopin ja sanojen järjestyksen huomiotta.
 ---
-
 ## Definition
 
 Tämä luonnollen kielen käsittelyn tekniikka esittää tekstin sanan monijoukkona, sivuuttaen syntaksin ja sekvenssin. Se muuntaa dokumentit numeerisiksi vektoreiksi sanojen taajuuden tai esiintymisen perusteella.

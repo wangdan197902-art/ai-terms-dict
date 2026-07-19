@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /ar/terms/inductive_programming/
 date: "2026-07-18T16:03:00.601531Z"
 lastmod: "2026-07-18T17:15:08.515806Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "حقل من حقول تركيب البرامج يقوم تلقائياً بتوليد برامج حاسوبية من أمثلة المدخلات والمخرجات."
 ---
-
 ## Definition
 
 تشير البرمجة الاستقرائية، وغالباً ما تُعرف بتركيب البرامج، إلى عملية إنشاء كود برمجي بناءً على مواصفات مقدمة على شكل أزواج مدخلات ومخرجات بدلاً من تعليمات صريحة. تستنتج النظام المنطق أو الكود المطلوب من خلال تحليل الأمثلة المقدمة وتعميم القواعد منها.

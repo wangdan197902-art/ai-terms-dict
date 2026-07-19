@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /cs/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:42:16.137551Z"
 lastmod: "2026-07-18T17:15:09.102983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vznikající průnik, kde je AI používána pro duchovní vedení, asistenci při meditaci nebo zkoumání filozofických otázek."
 ---
-
 ## Definition
 
 AI ve spiritualitě odkazuje na aplikaci umělé inteligence v náboženských nebo kontemplativních kontextech. To zahrnuje chatbotty nabízející morální rady, AI generované umění pro meditaci nebo algoritmy analyzující teologické texty.

@@ -1,23 +1,24 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /hu/terms/comfyui/
-date: "2026-07-18T15:50:29.354210Z"
-lastmod: "2026-07-18T17:15:09.763279Z"
+slug: comfyui
+date: '2026-07-18T15:50:29.354210Z'
+lastmod: '2026-07-18T17:15:09.763279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Csomópont-alapú grafikus felhasználói felület a Stable Diffusionhoz, amely lehetővé teszi a komplex munkafolyamatok építését és a képgenerálás finomhangolását."
+source: agnes_llm
+status: published
+language: hu
+description: Csomópont-alapú grafikus felhasználói felület a Stable Diffusionhoz,
+  amely lehetővé teszi a komplex munkafolyamatok építését és a képgenerálás finomhangolását.
 ---
-
 ## Definition
 
 A ComfyUI egy hatékony, moduláris és csomópont-alapú grafikus felhasználói felület (GUI) a Stable Diffusion modellekhez. Ellentétben a hagyományos, lineáris munkafolyamatot kínáló felületekkel, a ComfyUI lehetővé teszi a felhasználók számára, hogy egyedi adatfolyamokat építsenek a csomópontok összekötésével, így nagyfokú kontrollt biztosítva a generatív folyamatok felett.

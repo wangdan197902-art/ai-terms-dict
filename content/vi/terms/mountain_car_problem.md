@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /vi/terms/mountain_car_problem/
 date: "2026-07-18T16:04:03.260457Z"
 lastmod: "2026-07-18T16:38:07.784684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một nhiệm vụ học tăng cường kinh điển nơi tác nhân phải lái xe lên một ngọn đồi dốc chỉ bằng cách kiểm soát gia tốc."
 ---
-
 ## Definition
 
 Vấn đề Xe Đèo Núi là một bài kiểm tra chuẩn trong nghiên cứu học tăng cường. Mục tiêu là điều khiển một chiếc xe yếu sức để đạt đến đỉnh đồi. Vì xe không thể leo dốc trực tiếp do thiếu lực, tác nhân cần học cách đung đưa qua lại để tích lũy động năng đủ lớn nhằm vượt qua đỉnh đồi.

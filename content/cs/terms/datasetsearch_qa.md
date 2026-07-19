@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /cs/terms/datasetsearch_qa/
 date: "2026-07-18T15:52:09.649554Z"
 lastmod: "2026-07-18T17:15:09.119565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sada dat zaměřená na úkoly zodpovídání otázek odvozené z logů vyhledávačů nebo webových dotazů, s důrazem na reálné informační vyhledávání."
 ---
-
 ## Definition
 
 Datasety Search QA obvykle obsahují dvojice vyhledávacích dotazů a příslušných úryvků odpovědí nebo dokumentů extrahovaných z výsledků vyhledávačů. Tyto sady dat jsou klíčové pro trénování modelů, které rozumí záměru uživatele a dokážou efektivně hledat relevantní informace.

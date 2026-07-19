@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /tr/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:02:26.152771Z"
 lastmod: "2026-07-18T16:38:07.331835Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Atomlar arasındaki kuvvetleri ve enerjileri tahmin eden, pahalı kuantum mekaniği hesaplamalarına alternatif bir makine öğrenmesi tabanlı matematiksel fonksiyon."
 ---
-
 ## Definition
 
 Bu potansiyeller, moleküler dinamik simülasyonlarını neredeyse kuantum doğruluğunda ancak klasik hesaplama hızında gerçekleştirmeyi sağlar. Yoğunluk fonksiyonel teorisi (DFT) yüksek doğruluklu veriler üzerinde eğitim alarak, moleküller...

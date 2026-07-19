@@ -1,23 +1,24 @@
 ---
-title: "Аппроксимация приспособленности"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Аппроксимация приспособленности
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /ru/terms/fitness_approximation/
-date: "2026-07-18T15:53:38.756872Z"
-lastmod: "2026-07-18T16:38:07.157962Z"
+slug: fitness_approximation
+date: '2026-07-18T15:53:38.756872Z'
+lastmod: '2026-07-18T16:38:07.157962Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника в эволюционных алгоритмах, оценивающая качество решения для снижения вычислительных затрат во время оптимизации."
+source: agnes_llm
+status: published
+language: ru
+description: Техника в эволюционных алгоритмах, оценивающая качество решения для снижения
+  вычислительных затрат во время оптимизации.
 ---
-
 ## Definition
 
 Аппроксимация приспособленности используется в эволюционных вычислениях, когда оценка истинной функции приспособленности является вычислительно дорогой или трудоемкой. Вместо вычисления точного значения используются суррогатные модели для оценки качества решений.

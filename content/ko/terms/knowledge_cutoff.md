@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /ko/terms/knowledge_cutoff/
 date: "2026-07-18T16:01:07.728885Z"
 lastmod: "2026-07-18T16:38:06.857800Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "지식 컷오프는 언어 모델이 학습하지 않아 이후 사건에 대한 정보가 없는 특정 날짜를 의미합니다."
 ---
-
 ## Definition
 
 지식 컷오프 날짜는 언어 모델의 학습 데이터가 포함된 시간적 경계를 정의합니다. 이 날짜 이후에 발생한 정보, 사건 또는 발전 사항은 일반적으로 모델이 알지 못하므로, 모델의 최신성 평가 및 검색 도구와의 통합 시 고려해야 할 중요한 제약 조건입니다.

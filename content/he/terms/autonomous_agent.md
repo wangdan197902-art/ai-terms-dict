@@ -7,8 +7,6 @@ tags: ["agents", "robotics", "automation"]
 difficulty: 3
 weight: 1
 slug: "autonomous_agent"
-aliases:
-  - /he/terms/autonomous_agent/
 date: "2026-07-18T15:45:52.895176Z"
 lastmod: "2026-07-18T17:15:09.515595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "סוכן עצמאי הוא מערכת המסוגלת לתפוס את סביבתה ולפעול באופן עצמאי כדי להשיג יעדים ספציפיים ללא התערבות ישירה של אדם."
 ---
-
 ## Definition
 
 בבינה מלאכותית, סוכן עצמאי הוא ישות הפועלת באופן עצמאי בתוך סביבה מסוימת. היא משתמשת בחיישנים כדי לתפוס מצבים ומפעילים כדי לבצע פעולות, בהנחיית מודל פנימי או אלגוריתם קבלת החלטות.

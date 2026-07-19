@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /ar/terms/unlike/
 date: "2026-07-18T15:32:03.809832Z"
 lastmod: "2026-07-18T17:15:08.452098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مشغل منطقي يُستخدم في SQL والبرمجة لتصفية السجلات التي لا تطابق شرطًا محددًا."
 ---
-
 ## Definition
 
 في استعلامات قواعد البيانات والمنطق، يشير 'لا يشبه' عادةً إلى المشغل NOT LIKE، الذي يقوم بمطابقة الأنماط بشكل عكسي. ويعيد القيمة صحيحة (true) للصفوف حيث لا يتطابق قيمة العمود مع النمط المحدد.

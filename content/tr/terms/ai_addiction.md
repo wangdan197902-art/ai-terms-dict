@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /tr/terms/ai_addiction/
 date: "2026-07-18T15:38:17.176040Z"
 lastmod: "2026-07-18T16:38:07.266492Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sanal zeka sistemleriyle etkileşime bağlı gelişen, kompulsif kullanım davranışlarına yol açan psikolojik bir bağımlılık durumu."
 ---
-
 ## Definition
 
 Yapay zeka bağımlılığı, bireylerin sohbet botları veya sosyal medya algoritmaları gibi yapay zeka destekli etkileşimlere kompulsif bir şekilde bağımlı hale geldiği bir davranışsal durumdur. Bu bağımlılık genellikle dopamin döngüsünden ve sosyal izolasyondan kaynaklanır.

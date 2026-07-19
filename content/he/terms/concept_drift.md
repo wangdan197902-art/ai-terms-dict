@@ -1,23 +1,24 @@
 ---
-title: "סטיית מושגים"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: סטיית מושגים
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /he/terms/concept_drift/
-date: "2026-07-18T15:49:28.063290Z"
-lastmod: "2026-07-18T17:15:09.522158Z"
+slug: concept_drift
+date: '2026-07-18T15:49:28.063290Z'
+lastmod: '2026-07-18T17:15:09.522158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "סטיית מושגים מתרחשת כאשר התכונות הסטטיסטיות של המשתנה המטרה משתנות לאורך זמן, מה שמוביל לירידה בביצועי המודל."
+source: agnes_llm
+status: published
+language: he
+description: סטיית מושגים מתרחשת כאשר התכונות הסטטיסטיות של המשתנה המטרה משתנות לאורך
+  זמן, מה שמוביל לירידה בביצועי המודל.
 ---
-
 ## Definition
 
 סטיית מושגים היא תופעה בלמידת מכונה שבה הקשר בין תכונות הקלט לפלט המטרה משתנה עם הגעת נתונים חדשים. תופעה זו מתרחשת לעיתים קרובות בסביבות דינמיות שבהם התנהגות המשתמשים או התנאים החיצוניים משתנים.

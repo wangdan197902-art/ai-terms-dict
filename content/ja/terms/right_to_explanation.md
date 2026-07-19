@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /ja/terms/right_to_explanation/
 date: "2026-07-18T11:31:06.232865Z"
 lastmod: "2026-07-18T11:44:45.139452Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "自動化された意思決定が個人に重大な影響を与える場合、その意味のある情報を得る権利を個人に付与する法的・倫理的原則。"
 ---
-
 ## Definition
 
 説明を受ける権利は、特にGDPRなどの枠組みにおいて、アルゴリズムの説明責任の中核的な構成要素です。これは、ある人の権利に影響を与える決定をAIシステムが行った際、その決定の根拠やプロセスについて理解可能な形で情報提供を受けることを保証します。

@@ -1,23 +1,24 @@
 ---
-title: "ויגניזם בינה מלאכותית"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: ויגניזם בינה מלאכותית
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /he/terms/ai_veganism/
-date: "2026-07-18T15:40:23.670492Z"
-lastmod: "2026-07-18T17:15:09.508293Z"
+slug: ai_veganism
+date: '2026-07-18T15:40:23.670492Z'
+lastmod: '2026-07-18T17:15:09.508293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מושג מטפורי המציע שמערכות בינה מלאכותית יפעלו ללא הסתמכות על נתונים או עבודה שנוצרו על ידי בני אדם."
+source: agnes_llm
+status: published
+language: he
+description: מושג מטפורי המציע שמערכות בינה מלאכותית יפעלו ללא הסתמכות על נתונים או
+  עבודה שנוצרו על ידי בני אדם.
 ---
-
 ## Definition
 
 ויגניזם בינה מלאכותית הוא מונח ספקולטיבי ומטפורי המתאר את הרעיון של יצירת בינה מלאכותית הלומדת לחלוטין מנתונים סינתטיים, שנוצרו באופן עצמאי או מהעולם הפיזי, במקום להסתמך על נתונים שנוצרו על ידי בני אדם.

@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /da/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:56:49.831073Z"
 lastmod: "2026-07-18T17:15:09.290831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et resultat inden for ikke-klassisk logik, der fastslår, at visse tidsmæssige eller modale logikker kan adskilles i distinkte komponenter baseret på deres strukturelle egenskaber."
 ---
-
 ## Definition
 
 Gabbays separeringsteorem er et grundlæggende koncept i matematisk logik, især inden for studiet af tidsmæssig og modal logik. Det giver betingelserne for, hvornår en logik kan dekomponeres eller...

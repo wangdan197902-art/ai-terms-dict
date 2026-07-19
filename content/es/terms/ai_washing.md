@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /es/terms/ai_washing/
 date: "2026-07-18T10:34:13.970089Z"
 lastmod: "2026-07-18T11:44:44.771041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La práctica de exagerar o afirmar falsamente que los productos o servicios utilizan inteligencia artificial con fines de marketing."
 ---
-
 ## Definition
 
 El lavado de imagen de IA es un término análogo al 'greenwashing' (lavado de imagen ecológico), que describe una estrategia de marketing engañosa donde las empresas afirman que sus productos incorporan IA avanzada cuando en realidad dependen de simples algoritmos basados en reglas.

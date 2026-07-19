@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /hu/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:44:46.724373Z"
 lastmod: "2026-07-18T17:15:09.754675Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy versenyképes dinamika, amelyben nemzetek vagy szervezetek gyorsan fejlesztik az MI-képességeiket a stratégiai fölény elérése érdekében."
 ---
-
 ## Definition
 
 Az MI-fegyverkezési verseny az országok, vállalatok és kutatóintézetek intenzív versengését jelenti a mesterséges intelligencia technológiákban való dominancia megszerzésére. Ez a rivalizáció gyors innovációt hajt meg...

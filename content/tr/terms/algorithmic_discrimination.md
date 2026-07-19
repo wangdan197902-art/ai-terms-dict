@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /tr/terms/algorithmic_discrimination/
 date: "2026-07-18T15:40:20.391872Z"
 lastmod: "2026-07-18T16:38:07.271245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Algoritmik ayrımcılık, otomatik sistemlerin korunan özelliklere dayalı olarak belirli grupları dezavantajlı duruma getiren haksız veya önyargılı sonuçlar ürettiği durumdur."
 ---
-
 ## Definition
 
 Bu olgu, yapay zeka modellerinin ırk, cinsiyet, yaş veya diğer hassas nitelikler nedeniyle bireylere sistematik veya yanlışlıkla farklı davranmasından kaynaklanır. Genellikle önyargılı eğitim verilerinden veya mevcut toplumsal önyargıları büyüten geri bildirim döngülerinden doğar.

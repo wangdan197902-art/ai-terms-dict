@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /nl/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:02:24.690195Z"
 lastmod: "2026-07-18T17:15:08.759426Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een aanbevelingsengine die suggesties genereert door te redeneren over expliciete domeinkennis en gebruikersbeperkingen, in plaats van historische gegevens."
 ---
-
 ## Definition
 
 In tegenstelling tot collaboratieve filtering, die vertrouwt op eerder gebruikersgedrag, maakt KBRS gebruik van expliciete kennis over artikelen en gebruikersvoorkeuren om aanbevelingen af te leiden. Het is vooral effectief in markten met weinig historische data.

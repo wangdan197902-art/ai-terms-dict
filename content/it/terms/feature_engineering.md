@@ -1,23 +1,25 @@
 ---
-title: "Ingegneria delle Feature"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: Ingegneria delle Feature
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /it/terms/feature_engineering/
-date: "2026-07-18T15:59:20.097743Z"
-lastmod: "2026-07-18T17:15:08.625466Z"
+slug: feature_engineering
+date: '2026-07-18T15:59:20.097743Z'
+lastmod: '2026-07-18T17:15:08.625466Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La pratica di utilizzare la conoscenza del dominio per creare nuove feature o modificare quelle esistenti per migliorare le prestazioni dei modelli di apprendimento automatico."
+source: agnes_llm
+status: published
+language: it
+description: La pratica di utilizzare la conoscenza del dominio per creare nuove feature
+  o modificare quelle esistenti per migliorare le prestazioni dei modelli di apprendimento
+  automatico.
 ---
-
 ## Definition
 
 L'ingegneria delle feature è l'arte di sfruttare l'esperienza specifica del dominio per trasformare i dati grezzi in feature che rappresentano meglio i pattern sottostanti agli algoritmi di apprendimento automatico. Questo processo include la creazione di nuove variabili.

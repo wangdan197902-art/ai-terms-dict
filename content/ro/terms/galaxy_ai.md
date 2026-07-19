@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /ro/terms/galaxy_ai/
 date: "2026-07-18T15:59:28.000255Z"
 lastmod: "2026-07-18T17:15:09.658604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Branding-ul Samsung pentru gama sa de funcții de inteligență artificială, integrate local și în cloud, în smartphone-uri și dispozitivele Galaxy."
 ---
-
 ## Definition
 
 Galaxy AI este ecosistemul proprietar de funcționalități AI al Samsung, conceput pentru a îmbunătăți experiența utilizatorului pe întreaga sa gamă de hardware, în principal smartphone-uri. Include funcții precum traducerea în timp real

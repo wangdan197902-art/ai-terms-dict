@@ -1,23 +1,24 @@
 ---
-title: "Testen"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testen
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /nl/terms/testing/
-date: "2026-07-18T15:39:02.758020Z"
-lastmod: "2026-07-18T17:15:08.709612Z"
+slug: testing
+date: '2026-07-18T15:39:02.758020Z'
+lastmod: '2026-07-18T17:15:08.709612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het systematische proces van het evalueren van de prestaties en betrouwbaarheid van een AI-model op niet-ziene gegevens om kwaliteit en veiligheid te waarborgen."
+source: agnes_llm
+status: published
+language: nl
+description: Het systematische proces van het evalueren van de prestaties en betrouwbaarheid
+  van een AI-model op niet-ziene gegevens om kwaliteit en veiligheid te waarborgen.
 ---
-
 ## Definition
 
 Testen in AI-engineering omvat het rigoureus beoordelen van modellen tegen diverse datasets om bias, fouten en robuustheidsproblemen te identificeren. Het omvat unit-tests voor codecomponenten, integratietests en andere validatiestappen.

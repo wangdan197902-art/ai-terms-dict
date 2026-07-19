@@ -1,23 +1,24 @@
 ---
-title: "Утечка данных"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Утечка данных
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /ru/terms/leakage/
-date: "2026-07-18T16:01:09.867878Z"
-lastmod: "2026-07-18T16:38:07.174053Z"
+slug: leakage
+date: '2026-07-18T16:01:09.867878Z'
+lastmod: '2026-07-18T16:38:07.174053Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Утечка данных возникает, когда информация извне обучающей выборки непреднамеренно влияет на модель, что приводит к завышенным оценкам её производительности."
+source: agnes_llm
+status: published
+language: ru
+description: Утечка данных возникает, когда информация извне обучающей выборки непреднамеренно
+  влияет на модель, что приводит к завышенным оценкам её производительности.
 ---
-
 ## Definition
 
 Утечка данных — это критическая ошибка в машинном обучении, при которой модель получает доступ к информации во время обучения, которая была бы недоступна в момент предсказания. Это часто происходит из-за неправильной обработки данных.

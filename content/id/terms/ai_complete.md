@@ -1,23 +1,24 @@
 ---
-title: "AI-Lengkap"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: AI-Lengkap
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /id/terms/ai_complete/
-date: "2026-07-18T15:37:36.733647Z"
-lastmod: "2026-07-18T16:38:07.424245Z"
+slug: ai_complete
+date: '2026-07-18T15:37:36.733647Z'
+lastmod: '2026-07-18T16:38:07.424245Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Masalah yang begitu kompleks sehingga menyelesaikannya memerlukan kecerdasan umum setara manusia, menjadikannya setara dengan pencapaian Kecerdasan Buatan Umum."
+source: agnes_llm
+status: published
+language: id
+description: Masalah yang begitu kompleks sehingga menyelesaikannya memerlukan kecerdasan
+  umum setara manusia, menjadikannya setara dengan pencapaian Kecerdasan Buatan Umum.
 ---
-
 ## Definition
 
 Masalah AI-lengkap adalah tugas-tugas yang, jika dapat diselesaikan, akan menyiratkan keberadaan Kecerdasan Buatan Umum (AGI). Masalah-masalah ini memerlukan pemahaman mendalam, penalaran, dan kemampuan beradaptasi yang mirip dengan manusia.

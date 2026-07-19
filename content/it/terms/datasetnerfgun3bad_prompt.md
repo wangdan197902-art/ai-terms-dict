@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /it/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:55:03.946071Z"
 lastmod: "2026-07-18T17:15:08.615606Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un dataset di nicchia che probabilmente contiene prompt avversi, di bassa qualità o intenzionalmente malformati, utilizzati per testare la robustezza o filtrare l'input rumoroso nei modelli linguistic"
 ---
-
 ## Definition
 
 Questo termine si riferisce a un dataset specifico ospitato su Hugging Face sotto l'utente 'Nerfgun3', intitolato 'Bad Prompt'. Sebbene meno standard rispetto ai benchmark principali, tali dataset sono spesso utilizzati per studiare la robustezza dei modelli.

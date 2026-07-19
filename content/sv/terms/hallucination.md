@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /sv/terms/hallucination/
 date: "2026-07-18T15:23:00.635115Z"
 lastmod: "2026-07-18T17:15:08.936428Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "När en AI-modell genererar information som den framstår som säker men som är faktiskt felaktig eller nonsensisk."
 ---
-
 ## Definition
 
 Hallucinerade svar uppstår när generativa AI-modeller producerar utdata som verkar trovärdiga men saknar förankring i verkligheten eller källdata. Detta utgör en betydande utmaning i applikationer som kräver hög noggrannhet.

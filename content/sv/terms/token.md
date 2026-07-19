@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /sv/terms/token/
 date: "2026-07-18T15:31:45.387749Z"
 lastmod: "2026-07-18T17:15:08.953845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En token är en diskret enhet av text eller data som fungerar som grundläggande inmatningselement för modeller inom naturlig språkbehandling."
 ---
-
 ## Definition
 
 Tokens är de grundläggande byggstenarna för inmatningsdata inom NLP, och representerar vanligtvis ord, delord eller tecken. Stora språkmodeller (LLM) bearbetar text genom att konvertera den till tokens, vilka sedan mappas till vektorer för vidare analys och generering.

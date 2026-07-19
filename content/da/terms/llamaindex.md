@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /da/terms/llamaindex/
 date: "2026-07-18T16:05:18.953354Z"
 lastmod: "2026-07-18T17:15:09.306733Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "LlamaIndex er et rammeværk designet til at forbinde brugerdefinerede datakilder med store sprogmodeller, hvilket faciliterer udviklingen af applikationer baseret på Retrieval-Augmented Generation (RAG"
 ---
-
 ## Definition
 
  oprindeligt kendt som GPT Index, er LlamaIndex et kraftfuldt datarammeværk, der gør det muligt for LLM'er at indlære og interagere med strukturerede og ustrukturerede data. Det giver værktøjer til indeksering, forespørgsler og håndtering af data.

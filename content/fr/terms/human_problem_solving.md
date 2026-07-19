@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /fr/terms/human_problem_solving/
 date: "2026-07-18T11:22:27.768543Z"
 lastmod: "2026-07-18T11:44:45.271536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus cognitif par lequel les individus identifient, analysent et résolvent des problèmes complexes en utilisant le raisonnement, la créativité et l'expérience."
 ---
-
 ## Definition
 
 La résolution de problèmes humains englobe les capacités cognitives multifacettes que les humains emploient pour naviguer dans les défis, allant des tâches simples aux difficultés conceptuelles abstraites. Contrairement aux approches algorithmiques rigides, elle permet une adaptation contextuelle.

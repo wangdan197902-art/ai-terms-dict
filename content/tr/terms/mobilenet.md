@@ -7,8 +7,6 @@ tags: ["CNN", "Optimization", "Mobile AI"]
 difficulty: 2
 weight: 1
 slug: "mobilenet"
-aliases:
-  - /tr/terms/mobilenet/
 date: "2026-07-18T16:04:16.286208Z"
 lastmod: "2026-07-18T16:38:07.335429Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "MobileNet, mobil ve gömülü görüntü işleme uygulamaları için tasarlanmış hafif derin sinir ağları ailesidir."
 ---
-
 ## Definition
 
 MobileNets, standart konvolüsyonlara kıyasla hesaplama maliyetini ve model boyutunu önemli ölçüde azaltmak için derinlik ayrıştırılabilir konvolüsyonlardan yararlanır. Bu mimari, verimli özellik çıkarımını sağlar.

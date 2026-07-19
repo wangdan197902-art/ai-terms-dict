@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /fi/terms/perceiver/
 date: "2026-07-18T16:15:17.544112Z"
 lastmod: "2026-07-18T17:15:09.443045Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestelmä tai moduuli, joka on vastuussa aistinvaraisen syötteen vastaanottamisesta ja tulkitsemisesta ympäristöstä."
 ---
-
 ## Definition
 
 Tekoälyssä ja kognitiivisessa tiedossa havaintojärjestelmä viittaa älykkään järjestelmän komponenttiin, joka käsittelee raakaa aistinvaraista dataa merkitykselliseksi tiedoksi. Toisin kuin yksinkertaiset anturit, jotka vain havaitsevat signaaleja, havaintojärjestelmät...

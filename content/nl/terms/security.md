@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /nl/terms/security/
 date: "2026-07-18T15:29:49.508421Z"
 lastmod: "2026-07-18T17:15:08.693326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De praktijk van het beschermen van AI-systemen tegen ongeautoriseerde toegang, misbruik en kwaadaardige aanvallen."
 ---
-
 ## Definition
 
 AI-beveiliging omvat maatregelen die zijn ontworpen om machine learning-modellen, datapipelines en implementatie-infrastructuur te beschermen tegen bedreigingen zoals adversariële aanvallen, datavergiftiging en modelinvasies.

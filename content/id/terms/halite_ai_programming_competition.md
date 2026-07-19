@@ -1,23 +1,24 @@
 ---
-title: "Kompetisi Pemrograman AI Halite"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Kompetisi Pemrograman AI Halite
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /id/terms/halite_ai_programming_competition/
-date: "2026-07-18T15:54:12.223683Z"
-lastmod: "2026-07-18T16:38:07.465719Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T15:54:12.223683Z'
+lastmod: '2026-07-18T16:38:07.465719Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kompetisi pemrograman kompetitif di mana peserta menulis agen AI untuk memainkan permainan strategi yang melibatkan manajemen sumber daya dan pertempuran."
+source: agnes_llm
+status: published
+language: id
+description: Kompetisi pemrograman kompetitif di mana peserta menulis agen AI untuk
+  memainkan permainan strategi yang melibatkan manajemen sumber daya dan pertempuran.
 ---
-
 ## Definition
 
 Halite adalah kompetisi pemrograman AI tahunan yang diselenggarakan oleh Two Sigma, di mana pengembang membuat agen otonom untuk memainkan permainan strategi berbasis giliran di atas grid. Tujuannya meliputi pengumpulan sumber daya, ekspansi wilayah, dan mengalahkan agen lawan melalui taktik strategis.

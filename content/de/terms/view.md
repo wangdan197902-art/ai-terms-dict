@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /de/terms/view/
 date: "2026-07-18T10:54:59.289492Z"
 lastmod: "2026-07-18T11:44:44.886892Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine virtuelle Tabelle in einer Datenbank, die aus einer gespeicherten Abfrage resultiert und Daten aus einer oder mehreren Tabellen darstellt, ohne sie physikalisch zu speichern."
 ---
-
 ## Definition
 
 Im Datenbankmanagement fungiert eine View als gespeicherte SQL-Abfrage, die sich wie eine Tabelle verhält, aber keine Daten selbst enthält. Sie bietet eine vereinfachte oder angepasste Perspektive auf die zugrunde liegenden Daten und erhöht die Sicherheit.

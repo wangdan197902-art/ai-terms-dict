@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /es/terms/schema_agnostic_databases/
 date: "2026-07-18T11:07:20.880651Z"
 lastmod: "2026-07-18T11:44:44.852436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Las bases de datos agnósticas al esquema son sistemas de almacenamiento que permiten estructuras de datos flexibles sin requerir esquemas predefinidos, a menudo utilizadas en entornos NoSQL."
 ---
-
 ## Definition
 
 Estas bases de datos permiten un modelado dinámico de datos al no imponer estructuras rígidas de tablas o definiciones de columnas por adelantado. Esta flexibilidad permite a los desarrolladores almacenar datos no estructurados o semiestructurados, adaptándose rápidamente a cambios en los requisitos.

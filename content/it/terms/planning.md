@@ -1,23 +1,24 @@
 ---
-title: "Pianificazione"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Pianificazione
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /it/terms/planning/
-date: "2026-07-18T15:36:35.615340Z"
-lastmod: "2026-07-18T17:15:08.588415Z"
+slug: planning
+date: '2026-07-18T15:36:35.615340Z'
+lastmod: '2026-07-18T17:15:08.588415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo cognitivo di generazione di una sequenza di azioni per raggiungere obiettivi specifici all'interno di un ambiente definito."
+source: agnes_llm
+status: published
+language: it
+description: Il processo cognitivo di generazione di una sequenza di azioni per raggiungere
+  obiettivi specifici all'interno di un ambiente definito.
 ---
-
 ## Definition
 
 La pianificazione nell'IA implica determinare una sequenza di azioni che porterà da uno stato iniziale a uno stato desiderato. Richiede il ragionamento sugli effetti delle azioni e sui vincoli dell'ambiente.

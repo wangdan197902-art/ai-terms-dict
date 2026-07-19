@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /zh/terms/knowledge_level/
 date: "2026-07-18T11:23:17.078308Z"
 lastmod: "2026-07-18T11:44:45.521505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种抽象的设计视角，关注智能体“知道什么”而非其内部如何处理信息。"
 ---
-
 ## Definition
 
 由艾伦·纽厄尔提出，知识层基于智能体的信念和目标来分析智能系统，独立于其物理实现。它将智能体行为的理性与其底层实现分离开来。

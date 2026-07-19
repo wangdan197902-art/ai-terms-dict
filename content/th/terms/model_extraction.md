@@ -1,23 +1,22 @@
 ---
-title: "การสกัดโมเดล (Model Extraction)"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: การสกัดโมเดล (Model Extraction)
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /th/terms/model_extraction/
-date: "2026-07-18T16:21:00.458006Z"
-lastmod: "2026-07-18T16:38:07.668791Z"
+slug: model_extraction
+date: '2026-07-18T16:21:00.458006Z'
+lastmod: '2026-07-18T16:38:07.668791Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การโจมตีที่ผู้ไม่หวังดีทำการสอบถามโมเดลเพื่อสร้างพารามิเตอร์ใหม่หรือสร้างสำเนาจำลอง"
+source: agnes_llm
+status: published
+language: th
+description: การโจมตีที่ผู้ไม่หวังดีทำการสอบถามโมเดลเพื่อสร้างพารามิเตอร์ใหม่หรือสร้างสำเนาจำลอง
 ---
-
 ## Definition
 
 การสกัดโมเดลเกี่ยวข้องกับการสอบถาม API ของโมเดลแมชชีนเลิร์นนิงเป้าหมายเพื่ออนุมานโครงสร้างภายใน น้ำหนัก หรือขอบเขตการตัดสินใจของผู้โจมตีใช้คำสอบถามเหล่านี้เพื่อสร้างโมเดลจำลองที่...

@@ -1,23 +1,25 @@
 ---
-title: "Robotiikan oppiminen"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Robotiikan oppiminen
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /fi/terms/robot_learning/
-date: "2026-07-18T16:19:17.128601Z"
-lastmod: "2026-07-18T17:15:09.456006Z"
+slug: robot_learning
+date: '2026-07-18T16:19:17.128601Z'
+lastmod: '2026-07-18T17:15:09.456006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Robotiikan ala, jossa keskitytään siihen, miten robotit hankkivat taitoja ja parantavat suorituskykyään kokemuksen ja ympäristön kanssa vuorovaikutteisuuden kautta."
+source: agnes_llm
+status: published
+language: fi
+description: Robotiikan ala, jossa keskitytään siihen, miten robotit hankkivat taitoja
+  ja parantavat suorituskykyään kokemuksen ja ympäristön kanssa vuorovaikutteisuuden
+  kautta.
 ---
-
 ## Definition
 
 Robotiikan oppiminen sisältää robottien kouluttamisen suorittamaan tehtäviä autonomisesti hyödyntämällä koneoppimistekniikoita. Toisin kuin esiohjelmoidut käyttäytymismallit, nämä järjestelmät sopeutuvat dynaamisiin ympäristöihin

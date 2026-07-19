@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /nl/terms/multi_modality/
 date: "2026-07-18T16:08:58.833057Z"
 lastmod: "2026-07-18T17:15:08.770026Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Multimodaliteit is het bredere concept of onderzoeksgebied dat zich bezighoudt met het gebruik van meerdere verschillende datatypen binnen machine learning-architecturen."
 ---
-
 ## Definition
 
 Multimodaliteit vertegenwoordigt het architecturale en theoretische kader dat AI-modellen in staat stelt om te omgaan met heterogene datastromen. Het houdt in dat neurale netwerken worden ontworpen die invoer kunnen accepteren van diverse...

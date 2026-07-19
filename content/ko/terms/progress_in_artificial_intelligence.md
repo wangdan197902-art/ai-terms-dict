@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /ko/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:10:59.879437Z"
 lastmod: "2026-07-18T16:38:06.899512Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "점점 더 정교해지는 알고리즘과 하드웨어의 연구, 개발, 배포를 통해 축적된 AI 능력의 진보를 의미합니다."
 ---
-
 ## Definition
 
 이 용어는 초기 상징적 논리부터 현대의 딥 러닝에 이르기까지의 주요 이정표를 표시하며, 인공지능 시스템의 역사적이고 지속적인 진화를 포괄합니다. 이는 계산 능력의 향상과

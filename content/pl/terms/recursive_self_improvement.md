@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /pl/terms/recursive_self_improvement/
 date: "2026-07-18T16:14:49.376135Z"
 lastmod: "2026-07-18T17:15:08.913287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces, w którym system sztucznej inteligencji iteracyjnie poprawia własną inteligencję lub możliwości poprzez samomodyfikację."
 ---
-
 ## Definition
 
 Rekurencyjne samousprawnianie odnosi się do teoretycznej zdolności systemu sztucznej inteligencji do przepisywania własnego kodu źródłowego lub architektury, aby stać się mądrzejszym, bardziej wydajnym lub bardziej zdolnym.

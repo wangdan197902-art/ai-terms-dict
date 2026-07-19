@@ -1,23 +1,24 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /it/terms/phi3/
-date: "2026-07-18T16:16:15.417388Z"
-lastmod: "2026-07-18T17:15:08.658564Z"
+slug: phi3
+date: '2026-07-18T16:16:15.417388Z'
+lastmod: '2026-07-18T17:15:08.658564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una famiglia di modelli linguistici di grandi dimensioni (LLM) a peso aperto sviluppati da Microsoft Research."
+source: agnes_llm
+status: published
+language: it
+description: Una famiglia di modelli linguistici di grandi dimensioni (LLM) a peso
+  aperto sviluppati da Microsoft Research.
 ---
-
 ## Definition
 
 Phi-3 è una serie di piccoli modelli linguistici (SLM) rilasciati da Microsoft, progettata per offrire prestazioni elevate paragonabili a quelle di modelli più grandi, pur richiedendo risorse computazionali significativamente inferiori. Q

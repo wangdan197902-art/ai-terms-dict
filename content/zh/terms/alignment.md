@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /zh/terms/alignment/
 date: "2026-07-18T07:43:58.206748Z"
 lastmod: "2026-07-18T11:44:44.590565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "确保 AI 系统的目标和行为与人类价值观及意图相一致的过程。"
 ---
-
 ## Definition
 
 对齐关注的是确保 AI 系统执行人类真正希望它做的事情，而不仅仅是字面上要求它做的事。它涉及诸如来自人类反馈的强化学习（RLHF）等技术，旨在缩小模型输出与人类期望之间的差距，提高安全性和有用性。

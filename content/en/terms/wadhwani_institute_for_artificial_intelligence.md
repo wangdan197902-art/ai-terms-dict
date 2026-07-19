@@ -1,23 +1,25 @@
 ---
-title: "Wadhwani Institute for Artificial Intelligence"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: Wadhwani Institute for Artificial Intelligence
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /en/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T10:19:40.815903Z"
-lastmod: "2026-07-18T11:44:44.732095Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T10:19:40.815903Z'
+lastmod: '2026-07-18T11:44:44.732095Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "The Wadhwani Institute for Artificial Intelligence is a research organization focused on applying AI solutions to address critical challenges in healthcare and agriculture in developing economies."
+source: agnes_llm
+status: published
+language: en
+description: The Wadhwani Institute for Artificial Intelligence is a research organization
+  focused on applying AI solutions to address critical challenges in healthcare and
+  agriculture in developing economies.
 ---
-
 ## Definition
 
 Established with a significant donation from the Wadhwani Foundation, this institute leverages advanced machine learning and computer vision technologies to solve large-scale societal problems. Its primary mission involves creating scalable, low-cost AI interventions, particularly in early disease detection in healthcare and crop yield prediction in agriculture. The institute emphasizes ethical AI development and capacity building, aiming to improve quality of life and economic stability in underserved regions through data-driven innovation and local partnerships.

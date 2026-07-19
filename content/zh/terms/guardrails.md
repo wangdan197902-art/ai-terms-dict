@@ -1,23 +1,23 @@
 ---
-title: "护栏"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: 护栏
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /zh/terms/guardrails/
-date: "2026-07-18T11:20:37.769999Z"
-lastmod: "2026-07-18T11:44:45.512132Z"
+slug: guardrails
+date: '2026-07-18T11:20:37.769999Z'
+lastmod: '2026-07-18T11:44:45.512132Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "旨在限制人工智能模型输出，以防止生成有害、有偏见或未经授权内容的安全机制。"
+source: agnes_llm
+status: published
+language: zh
+description: 旨在限制人工智能模型输出，以防止生成有害、有偏见或未经授权内容的安全机制。
 ---
-
 ## Definition
 
 护栏指的是一组集成在人工智能应用（特别是大型语言模型）中的软件控制和策略执行层，以确保安全且合规的行为。它们充当过滤器，拦截不当输入并规范输出结果，从而降低风险。

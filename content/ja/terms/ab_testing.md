@@ -1,23 +1,23 @@
 ---
-title: "A/Bテスト"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/Bテスト
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /ja/terms/ab_testing/
-date: "2026-07-18T11:01:54.812829Z"
-lastmod: "2026-07-18T11:44:45.059836Z"
+slug: ab_testing
+date: '2026-07-18T11:01:54.812829Z'
+lastmod: '2026-07-18T11:44:45.059836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "変数の2つのバージョンを比較し、どちらがより高いパフォーマンスを発揮するかを判断するための統計的手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 変数の2つのバージョンを比較し、どちらがより高いパフォーマンスを発揮するかを判断するための統計的手法。
 ---
-
 ## Definition
 
 A/Bテストは、変数Aと変数Bの2つのバリエーションを比較し、特定の指標においてどちらがより良い結果をもたらすかを評価するためのランダム化制御実験です。AIエンジニアリングにおいて、これは最適化に不可欠な手法です。

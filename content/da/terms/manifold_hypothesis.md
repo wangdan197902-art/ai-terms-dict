@@ -1,23 +1,24 @@
 ---
-title: "Manifoldhypotesen"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Manifoldhypotesen
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /da/terms/manifold_hypothesis/
-date: "2026-07-18T16:06:46.433525Z"
-lastmod: "2026-07-18T17:15:09.309428Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:06:46.433525Z'
+lastmod: '2026-07-18T17:15:09.309428Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Antagelsen om, at højdimensionale virkelighedsdata ligger på en lavere-dimensionel ikke-lineær manifold inden for det højere-dimensionelle rum."
+source: agnes_llm
+status: published
+language: da
+description: Antagelsen om, at højdimensionale virkelighedsdata ligger på en lavere-dimensionel
+  ikke-lineær manifold inden for det højere-dimensionelle rum.
 ---
-
 ## Definition
 
 Denne hypotese forklarer, hvorfor dyb læring fungerer effektivt trods dimensionens forbandelse. Den antyder, at selvom data som billeder eksisterer i millioner af dimensioner, er de begrænset af underliggende strukturer, der kan repræsenteres med færre variable.

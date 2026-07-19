@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /pt/terms/continuous_time/
 date: "2026-07-18T14:41:08.344117Z"
 lastmod: "2026-07-18T15:51:59.442904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma abordagem de modelagem onde as variáveis mudam suavemente em um domínio contínuo, em vez de etapas discretas."
 ---
-
 ## Definition
 
 Modelos de tempo contínuo descrevem a dinâmica do sistema usando equações diferenciais, permitindo uma evolução suave dos estados ao longo do tempo. Na IA, isso é exemplificado pelas Equações Diferenciais Ordinárias Neurais (N

@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /tr/terms/multi_armed_bandit/
 date: "2026-07-18T16:04:49.902214Z"
 lastmod: "2026-07-18T16:38:07.337630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çok kollu bandit, keşif ve sömürü arasındaki ödünleşimi modelleyen olasılık kuramı ve pekiştirmeli öğrenmede klasik bir problemdir."
 ---
-
 ## Definition
 
 Çok kollu bandit problemi, bir ajanın bilinen ödüllü seçeneği korumak (sömürü) mı yoksa potansiyel olarak daha iyi ödüller keşfetmek için yeni seçenekler denemek mi (keşif) gerektiğine karar verirken karşılaştığı ikilemi gösterir...

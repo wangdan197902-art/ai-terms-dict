@@ -1,23 +1,23 @@
 ---
-title: "归一化"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: 归一化
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /zh/terms/normalization/
-date: "2026-07-18T11:28:24.370574Z"
-lastmod: "2026-07-18T11:44:45.537397Z"
+slug: normalization
+date: '2026-07-18T11:28:24.370574Z'
+lastmod: '2026-07-18T11:44:45.537397Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "归一化是一种数据预处理技术，将数值特征缩放到标准范围（通常为0到1之间），以改善模型的收敛速度和性能。"
+source: agnes_llm
+status: published
+language: zh
+description: 归一化是一种数据预处理技术，将数值特征缩放到标准范围（通常为0到1之间），以改善模型的收敛速度和性能。
 ---
-
 ## Definition
 
 常见方法包括最小-最大缩放和Z分数标准化。此过程确保具有较大量级的特征不会主导学习算法，特别是在基于梯度的优化中。

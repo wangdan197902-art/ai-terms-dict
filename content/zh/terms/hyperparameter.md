@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /zh/terms/hyperparameter/
 date: "2026-07-18T11:21:34.630878Z"
 lastmod: "2026-07-18T11:44:45.515271Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种在训练过程之前设定其值的配置变量，用于控制学习算法的行为。"
 ---
-
 ## Definition
 
 与模型参数（权重和偏置）不同，后者是在训练过程中从数据中学习得到的，而超参数是实践者在训练开始前选择的外部设置。它们控制着模型的结构、学习过程以及正则化强度等关键方面。

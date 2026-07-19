@@ -1,23 +1,25 @@
 ---
-title: "Edge-inferentie"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Edge-inferentie
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /nl/terms/edge_inference/
-date: "2026-07-18T15:53:53.249340Z"
-lastmod: "2026-07-18T17:15:08.740745Z"
+slug: edge_inference
+date: '2026-07-18T15:53:53.249340Z'
+lastmod: '2026-07-18T17:15:08.740745Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Edge-inferentie is het proces waarbij machine learning-modellen lokaal op eindgebruikersapparaten worden uitgevoerd, in plaats van op gecentraliseerde cloudservers."
+source: agnes_llm
+status: published
+language: nl
+description: Edge-inferentie is het proces waarbij machine learning-modellen lokaal
+  op eindgebruikersapparaten worden uitgevoerd, in plaats van op gecentraliseerde
+  cloudservers.
 ---
-
 ## Definition
 
 Deze praktijk houdt in dat getrainde AI-modellen direct worden geïmplementeerd op hardware zoals smartphones, IoT-sensoren of ingebedde systemen. Door gegevens lokaal te verwerken, vermindert edge-inferentie de latentie aanzienlijk en verbetert het de privacy.

@@ -1,23 +1,24 @@
 ---
-title: "Wegaństwo AI"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: Wegaństwo AI
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /pl/terms/ai_veganism/
-date: "2026-07-18T15:38:30.857937Z"
-lastmod: "2026-07-18T17:15:08.840722Z"
+slug: ai_veganism
+date: '2026-07-18T15:38:30.857937Z'
+lastmod: '2026-07-18T17:15:08.840722Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Metaforyczna koncepcja sugerująca, że systemy sztucznej inteligencji powinny działać bez polegania na danych wygenerowanych przez ludzi lub ich pracy."
+source: agnes_llm
+status: published
+language: pl
+description: Metaforyczna koncepcja sugerująca, że systemy sztucznej inteligencji
+  powinny działać bez polegania na danych wygenerowanych przez ludzi lub ich pracy.
 ---
-
 ## Definition
 
 Wegaństwo AI to spekulacyjny i metaforyczny termin odnoszący się do idei tworzenia sztucznej inteligencji, która uczy się wyłącznie z danych syntetycznych, wygenerowanych samodzielnie lub pochodzących ze świata fizycznego, zamiast czerpać z ludzkich danych.

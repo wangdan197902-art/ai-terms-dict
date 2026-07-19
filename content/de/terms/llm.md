@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /de/terms/llm/
 date: "2026-07-18T10:51:11.932634Z"
 lastmod: "2026-07-18T11:44:44.876897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Deep-Learning-Modell, das auf riesigen Textkorpor trainiert wurde, um menschliche Sprache zu verstehen und zu generieren."
 ---
-
 ## Definition
 
 Große Sprachmodelle (LLMs) sind fortschrittliche KI-Systeme auf Basis von Transformer-Architekturen, die mit massiven Datensätzen aus Text und Code trainiert werden. Sie lernen statistische Muster in der Sprache.

@@ -1,23 +1,24 @@
 ---
-title: "Robusztus"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robusztus
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /hu/terms/robust/
-date: "2026-07-18T15:30:52.438940Z"
-lastmod: "2026-07-18T17:15:09.729190Z"
+slug: robust
+date: '2026-07-18T15:30:52.438940Z'
+lastmod: '2026-07-18T17:15:09.729190Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Leírja egy AI modell vagy rendszer képességét a teljesítmény megőrzésére zajos, hibás vagy váratlan bemenetek esetén is."
+source: agnes_llm
+status: published
+language: hu
+description: Leírja egy AI modell vagy rendszer képességét a teljesítmény megőrzésére
+  zajos, hibás vagy váratlan bemenetek esetén is.
 ---
-
 ## Definition
 
 A mesterséges intelligenciában a robusztusság a modell ellenállóképességét jelenti az adverszáriális támadásokkal, az adateloszlás-változásokkal vagy a zajos bemenetekkel szemben. Egy robusztus algoritmus akkor is helyesen működik, ha a bemeneti adatok nem ideálisak.

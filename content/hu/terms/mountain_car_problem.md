@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /hu/terms/mountain_car_problem/
 date: "2026-07-18T16:13:36.663385Z"
 lastmod: "2026-07-18T17:15:09.814694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy klasszikus megerősítéses tanuló feladat, ahol egy ügynöknek egy autót kell felhajtania egy meredek hegyre kizárólag gyorsítási vezérlők segítségével."
 ---
-
 ## Definition
 
 A Hegyi autó probléma egy szabványos benchmark a megerősítéses tanuló kutatásban. A cél egy alulteljesítő autó irányítása úgy, hogy az elérje egy meredek hegy csúcsát. Mivel az autó nem tud felmászni a hegyre egyetlen irányítással, a feladat összetett.

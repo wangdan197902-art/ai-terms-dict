@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /tr/terms/bias/
 date: "2026-07-18T15:22:34.133166Z"
 lastmod: "2026-07-18T16:38:07.224762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirli gruplara veya bireylere karşı haksız sonuçlara yol açan YZ modellerindeki sistematik önyargı."
 ---
-
 ## Definition
 
 YZ etiğinde önyargı, genellikle çarpık eğitim verileri veya kusurlu model tasarımından kaynaklanan algoritmik karar verme süreçlerindeki sistematik ve haksız ayrımcılığı ifade eder. Bu durum, belirli gruplar üzerinde olumsuz etkiler doğurabilir.

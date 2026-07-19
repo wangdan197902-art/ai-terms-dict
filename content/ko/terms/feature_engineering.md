@@ -1,23 +1,23 @@
 ---
-title: "피처 엔지니어링 (Feature Engineering)"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: 피처 엔지니어링 (Feature Engineering)
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /ko/terms/feature_engineering/
-date: "2026-07-18T15:55:33.510310Z"
-lastmod: "2026-07-18T16:38:06.839958Z"
+slug: feature_engineering
+date: '2026-07-18T15:55:33.510310Z'
+lastmod: '2026-07-18T16:38:06.839958Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "도메인 지식을 활용하여 새로운 피처를 생성하거나 기존 피처를 수정하여 머신러닝 모델의 성능을 향상시키는 관행입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 도메인 지식을 활용하여 새로운 피처를 생성하거나 기존 피처를 수정하여 머신러닝 모델의 성능을 향상시키는 관행입니다.
 ---
-
 ## Definition
 
 피처 엔지니어링은 도메인 전문 지식을 활용하여 원시 데이터를 머신러닝 알고리즘이 하위 패턴을 더 잘 파악할 수 있는 형태로 변환하는 기술입니다. 이 과정에는 기존 변수의 조합, 변환, 생성 등이 포함되며, 모델의 예측 능력을 결정하는 핵심 단계입니다.

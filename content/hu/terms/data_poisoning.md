@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /hu/terms/data_poisoning/
 date: "2026-07-18T15:52:44.887360Z"
 lastmod: "2026-07-18T17:15:09.767485Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az adatmérgezés egy biztonsági támadás, ahol a rosszindulatú szereplők hibás vagy félrevezető adatokat injektálnak a tanítóhalmazba, hogy rontsák a modell teljesítményét."
 ---
-
 ## Definition
 
 Ez az ellenséges technika a gépi tanulási modellek integritásának kompromittálására irányul a tanítóadatok módosításával. Finom hibák vagy torzított példák bevezetésével a támadók okozhatják, hogy a modell

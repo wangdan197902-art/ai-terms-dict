@@ -1,23 +1,24 @@
 ---
-title: "Leerlingenschapsleren"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Leerlingenschapsleren
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /nl/terms/apprenticeship_learning/
-date: "2026-07-18T15:42:26.360454Z"
-lastmod: "2026-07-18T17:15:08.717015Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:42:26.360454Z'
+lastmod: '2026-07-18T17:15:08.717015Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een methode voor versterkend leren waarbij een agent een beleid leert door de demonstraties van een expert na te bootsen."
+source: agnes_llm
+status: published
+language: nl
+description: Een methode voor versterkend leren waarbij een agent een beleid leert
+  door de demonstraties van een expert na te bootsen.
 ---
-
 ## Definition
 
 Leerlingenschapsleren, ook wel inverse versterkend leren uit demonstraties genoemd, stelt agenten in staat vaardigheden te verwerven door gedrag van experts te observeren, in plaats van uitsluitend te vertrouwen op beloningsfuncties.

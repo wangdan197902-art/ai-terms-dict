@@ -1,23 +1,24 @@
 ---
-title: "Ma trận nhầm lẫn"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Ma trận nhầm lẫn
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /vi/terms/confusion_matrix/
-date: "2026-07-18T15:45:55.032771Z"
-lastmod: "2026-07-18T16:38:07.739168Z"
+slug: confusion_matrix
+date: '2026-07-18T15:45:55.032771Z'
+lastmod: '2026-07-18T16:38:07.739168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một bảng dùng để mô tả hiệu suất của một mô hình phân loại trên một tập dữ liệu kiểm thử."
+source: agnes_llm
+status: published
+language: vi
+description: Một bảng dùng để mô tả hiệu suất của một mô hình phân loại trên một tập
+  dữ liệu kiểm thử.
 ---
-
 ## Definition
 
 Ma trận nhầm lẫn là một bố cục bảng cụ thể cho phép trực quan hóa hiệu suất của một thuật toán, thường là thuật toán học có giám sát. Nó hiển thị số lượng các kết quả dương tính thật (true positive), âm tính thật (true negative), dương tính giả (false positive) và âm tính giả (false negative).

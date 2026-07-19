@@ -1,23 +1,24 @@
 ---
-title: "Atención Multi-Cabeza"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Atención Multi-Cabeza
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /es/terms/multi_head_attention/
-date: "2026-07-18T10:24:50.917310Z"
-lastmod: "2026-07-18T11:44:44.746154Z"
+slug: multi_head_attention
+date: '2026-07-18T10:24:50.917310Z'
+lastmod: '2026-07-18T11:44:44.746154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un mecanismo en los modelos transformadores que permite al modelo atender información de diferentes subespacios de representación simultáneamente."
+source: agnes_llm
+status: published
+language: es
+description: Un mecanismo en los modelos transformadores que permite al modelo atender
+  información de diferentes subespacios de representación simultáneamente.
 ---
-
 ## Definition
 
 La Atención Multi-Cabeza extiende el mecanismo de atención estándar ejecutándolo varias veces en paralelo con diferentes proyecciones lineales aprendidas. Esto permite al modelo atender conjuntamente a la información de diversas perspectivas y capturar dependencias complejas.

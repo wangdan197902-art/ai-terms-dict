@@ -1,23 +1,24 @@
 ---
-title: "Inyección de Prompt"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Inyección de Prompt
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /es/terms/prompt_injection/
-date: "2026-07-18T10:31:40.904897Z"
-lastmod: "2026-07-18T11:44:44.765335Z"
+slug: prompt_injection
+date: '2026-07-18T10:31:40.904897Z'
+lastmod: '2026-07-18T11:44:44.765335Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un ataque adversarial donde entradas maliciosas manipulan un modelo de IA para eludir filtros de seguridad o ejecutar comandos no previstos."
+source: agnes_llm
+status: published
+language: es
+description: Un ataque adversarial donde entradas maliciosas manipulan un modelo de
+  IA para eludir filtros de seguridad o ejecutar comandos no previstos.
 ---
-
 ## Definition
 
 La inyección de prompt explota la forma en que los grandes modelos de lenguaje interpretan las instrucciones del usuario, incrustando directivas ocultas o conflictivas dentro del texto de entrada. Esto puede hacer que el modelo ignore sus instrucciones originales o compromisos de seguridad.

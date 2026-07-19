@@ -1,23 +1,24 @@
 ---
-title: "ИИ-полная задача"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: ИИ-полная задача
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /ru/terms/ai_complete/
-date: "2026-07-18T15:38:09.078292Z"
-lastmod: "2026-07-18T16:38:07.115147Z"
+slug: ai_complete
+date: '2026-07-18T15:38:09.078292Z'
+lastmod: '2026-07-18T16:38:07.115147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Задача такой сложности, что ее решение требует человеческого уровня общего интеллекта, что эквивалентно достижению Общего искусственного интеллекта."
+source: agnes_llm
+status: published
+language: ru
+description: Задача такой сложности, что ее решение требует человеческого уровня общего
+  интеллекта, что эквивалентно достижению Общего искусственного интеллекта.
 ---
-
 ## Definition
 
 ИИ-полные задачи — это проблемы, решение которых подразумевало бы существование Общего искусственного интеллекта (AGI). Эти задачи требуют глубокого понимания, рассуждения и адаптивности, сопоставимых с человеческими.

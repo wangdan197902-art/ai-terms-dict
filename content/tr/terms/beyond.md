@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /tr/terms/beyond/
 date: "2026-07-18T15:23:39.842124Z"
 lastmod: "2026-07-18T16:38:07.228156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Mevcut teknolojik sınırları veya yapay zekanın geleneksel sınırlarını aşan ilerlemeler veya uygulamalar için kullanılan kavramsal bir terim."
 ---
-
 ## Definition
 
 Yapay zeka terminolojisinde 'beyond' (ötesinde), genellikle yapay genel zeka (AGI) veya kuantum destekli sistemler gibi mevcut yetenekleri aşan ortaya çıkan paradigmaları veya gelecek yönelimlerini tanımlar.

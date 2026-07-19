@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /de/terms/virtual_intelligence/
 date: "2026-07-18T11:37:38.125339Z"
 lastmod: "2026-07-18T11:44:44.997869Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Virtual Intelligence ist ein Oberbegriff für KI-Systeme, die in digitalen Umgebungen operieren, um menschenähnliche Interaktion, Entscheidungsfindung oder Autonomie zu simulieren."
 ---
-
 ## Definition
 
 Virtual Intelligence umfasst alle künstlichen Intelligenzsysteme, die dafür ausgelegt sind, in einem virtuellen oder digitalen Raum zu funktionieren, oft unter Interaktion mit Nutzern oder anderen Agenten. Dazu gehören virtuelle Assisten

@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /en/terms/claude/
 date: "2026-07-18T09:40:12.571021Z"
 lastmod: "2026-07-18T11:44:44.621883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Claude is a family of large language models developed by Anthropic, designed to be helpful, harmless, and honest AI assistants."
 ---
-
 ## Definition
 
 Claude is a series of advanced large language models created by the AI safety company Anthropic. Known for its strong alignment principles and constitutional AI framework, Claude focuses on being helpful, harmless, and honest. It excels in natural language understanding, coding assistance, and long-context processing. Unlike some competitors, Claude emphasizes safety and ethical considerations in its design, aiming to reduce harmful outputs while maintaining high utility for complex tasks such as analysis, creative writing, and software development.

@@ -1,23 +1,25 @@
 ---
-title: "Hartă de activare a claselor"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Hartă de activare a claselor
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /ro/terms/class_activation_mapping/
-date: "2026-07-18T15:49:19.178951Z"
-lastmod: "2026-07-18T17:15:09.636373Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:49:19.178951Z'
+lastmod: '2026-07-18T17:15:09.636373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Harta de activare a claselor (CAM) este o tehnică de vizualizare care evidențiază regiunile dintr-o imagine de intrare cele mai responsabile pentru o anumită clasă prezisă."
+source: agnes_llm
+status: published
+language: ro
+description: Harta de activare a claselor (CAM) este o tehnică de vizualizare care
+  evidențiază regiunile dintr-o imagine de intrare cele mai responsabile pentru o
+  anumită clasă prezisă.
 ---
-
 ## Definition
 
 CAM generează hărți termice suprapuse peste imaginile de intrare pentru a arăta care pixeli au contribuit cel mai mult la decizia modelului pentru o anumită etichetă de clasă. Funcționează aplicând o medie globală de pool-ing pe ultimile straturi convoluționale

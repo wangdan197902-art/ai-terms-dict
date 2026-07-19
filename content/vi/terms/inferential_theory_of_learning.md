@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /vi/terms/inferential_theory_of_learning/
 date: "2026-07-18T15:58:06.895745Z"
 lastmod: "2026-07-18T16:38:07.769949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung lý thuyết xem quá trình học là suy luận Bayes, cập nhật niềm tin về các giả thuyết dựa trên dữ liệu quan sát được."
 ---
-
 ## Definition
 
 Lý thuyết này cho rằng học tập về bản chất là một quá trình suy luận xác suất. Thay vì ghi nhớ dữ liệu, người học duy trì một phân phối xác suất trên các mô hình hoặc giả thuyết có thể xảy ra.

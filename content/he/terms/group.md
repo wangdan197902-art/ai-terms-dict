@@ -1,23 +1,24 @@
 ---
-title: "חבורה"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: חבורה
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /he/terms/group/
-date: "2026-07-18T15:26:14.702569Z"
-lastmod: "2026-07-18T17:15:09.479252Z"
+slug: group
+date: '2026-07-18T15:26:14.702569Z'
+lastmod: '2026-07-18T17:15:09.479252Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מבנה מתמטי בסיסי המורכב מקבוצה מצוידת בפעולה המשלבת כל שני איברים ליצירת איבר שלישי."
+source: agnes_llm
+status: published
+language: he
+description: מבנה מתמטי בסיסי המורכב מקבוצה מצוידת בפעולה המשלבת כל שני איברים ליצירת
+  איבר שלישי.
 ---
-
 ## Definition
 
 במתמטיקה ובמדעי המחשב התיאורטיים, חבורה היא קבוצה G יחד עם פעולה דו-ארגומנטית העומדת בארבעה אקסיומות: סגירות, אסוציאטיביות, זהות והפיכות. בבינה מלאכותית, תורת החבורות משמשת...

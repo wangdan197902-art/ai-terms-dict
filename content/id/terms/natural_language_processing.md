@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /id/terms/natural_language_processing/
 date: "2026-07-18T15:27:51.902457Z"
 lastmod: "2026-07-18T16:38:07.398180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Cabang kecerdasan buatan yang berfokus pada kemampuan komputer untuk memahami, menginterpretasikan, dan menghasilkan bahasa manusia."
 ---
-
 ## Definition
 
 Pemrosesan Bahasa Alami (NLP) adalah subbidang kecerdasan buatan yang menggabungkan linguistik komputasi dengan model statistik, pembelajaran mesin, dan pembelajaran mendalam. Hal ini memungkinkan mesin untuk memproses dan memahami teks serta suara manusia secara alami.

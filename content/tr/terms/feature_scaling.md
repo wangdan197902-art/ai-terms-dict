@@ -1,23 +1,24 @@
 ---
-title: "Özellik Ölçeklendirme"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Özellik Ölçeklendirme
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /tr/terms/feature_scaling/
-date: "2026-07-18T15:53:29.767851Z"
-lastmod: "2026-07-18T16:38:07.309156Z"
+slug: feature_scaling
+date: '2026-07-18T15:53:29.767851Z'
+lastmod: '2026-07-18T16:38:07.309156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bağımsız değişkenlerin veya verilerin özelliklerinin aralığını normalize ederek büyüklükte tutarlılık sağlamak süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Bağımsız değişkenlerin veya verilerin özelliklerinin aralığını normalize
+  ederek büyüklükte tutarlılık sağlamak süreci.
 ---
-
 ## Definition
 
 Özellik ölçeklendirme, daha büyük büyüklüklere sahip özelliklerin öğrenme sürecini baskın hale getirmesini önlemek için girdi değişkenlerinin aralığını standartlaştırır. Yaygın yöntemler arasında normalleştirme (min-maks ölçeklendirme) ve

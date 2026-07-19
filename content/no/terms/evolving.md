@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /no/terms/evolving/
 date: "2026-07-18T15:25:57.623501Z"
 lastmod: "2026-07-18T16:38:06.936243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Beskriver AI-systemer eller algoritmer som kontinuerlig tilpasser seg og forbedres over tid gjennom ny data eller tilbakemeldinger."
 ---
-
 ## Definition
 
 Begrepet 'utviklende' karakteriserer dynamiske AI-modeller som gjennomgår kontinuerlig læring og tilpasning i stedet for å forbli statiske etter den opprinnelige treningen. Dette konseptet er sentralt for livslang læring og evnen til å håndtere endrende datafordelinger.

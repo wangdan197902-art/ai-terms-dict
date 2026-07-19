@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /he/terms/jailbreak/
 date: "2026-07-18T15:36:55.611408Z"
 lastmod: "2026-07-18T17:15:09.500309Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקת הנדסת הנחיות המיועדת לעקוף מסנני בטיחות והגבלות אתיות של מודל בינה מלאכותית."
 ---
-
 ## Definition
 
 שבירת כלוב כוללת ניסוח קלטים או הנחיות ספציפיים המטעים מודל בינה מלאכותית להתעלם מהנחיות הבטיחות המובנות בו ולייצר תוכן אסור, כמו דיבור שטן או הוראות מסוכנות.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /es/terms/edge_computing/
 date: "2026-07-18T10:47:56.651883Z"
 lastmod: "2026-07-18T11:44:44.801291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La computación en el borde es un paradigma de computación distribuida que acerca el procesamiento y el almacenamiento de datos a las fuentes de datos, en lugar de depender únicamente de servidores cen"
 ---
-
 ## Definition
 
 La computación en el borde aborda las limitaciones de latencia y ancho de banda de las arquitecturas centradas en la nube, procesando los datos cerca de donde se generan, como en dispositivos IoT, sensores o puertas de enlace locales. En el contexto de la IA

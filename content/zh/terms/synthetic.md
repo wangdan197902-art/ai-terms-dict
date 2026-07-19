@@ -1,23 +1,22 @@
 ---
-title: "Synthetic"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Synthetic
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /zh/terms/synthetic/
-date: "2026-07-18T10:55:14.077911Z"
-lastmod: "2026-07-18T11:44:45.385944Z"
+slug: synthetic
+date: '2026-07-18T10:55:14.077911Z'
+lastmod: '2026-07-18T11:44:45.385944Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Synthetic 指由算法人工生成的数据或内容，而非从自然来源收集。"
+source: agnes_llm
+status: published
+language: zh
+description: Synthetic 指由算法人工生成的数据或内容，而非从自然来源收集。
 ---
-
 ## Definition
 
 在 AI 领域，合成数据是人工生成的信息，它模仿真实世界的数据，但不包含任何实际的个人或敏感记录。当缺乏真实数据时，它对训练机器学习模型至关重要……

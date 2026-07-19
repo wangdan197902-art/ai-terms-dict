@@ -1,23 +1,25 @@
 ---
-title: "Divergenz"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergenz
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /de/terms/divergence/
-date: "2026-07-18T10:49:23.002580Z"
-lastmod: "2026-07-18T11:44:44.871708Z"
+slug: divergence
+date: '2026-07-18T10:49:23.002580Z'
+lastmod: '2026-07-18T11:44:44.871708Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Divergenz bezeichnet das Versagen der Verlustfunktion eines maschinellen Lernalgorithmus, während des Trainings abzunehmen, was zu instabiler oder sich verschlechternder Leistung führt."
+source: agnes_llm
+status: published
+language: de
+description: Divergenz bezeichnet das Versagen der Verlustfunktion eines maschinellen
+  Lernalgorithmus, während des Trainings abzunehmen, was zu instabiler oder sich verschlechternder
+  Leistung führt.
 ---
-
 ## Definition
 
 Im Kontext der Optimierung tritt Divergenz auf, wenn sich die Parameter eines Modells so aktualisieren, dass der Verlust ansteigt statt abzufallen, was oft zu NaN-Werten (Not a Number) oder unendlichen Gradienten führt.

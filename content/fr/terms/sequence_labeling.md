@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /fr/terms/sequence_labeling/
 date: "2026-07-18T11:37:32.319154Z"
 lastmod: "2026-07-18T11:44:45.326790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une tâche de traitement du langage naturel où une étiquette est assignée à chaque élément d'une séquence d'entrées."
 ---
-
 ## Definition
 
 L'étiquetage de séquence consiste à prédire une étiquette catégorielle pour chaque jeton d'une séquence d'entrée donnée, telle que les mots dans une phrase ou les caractères dans une chaîne. Les applications courantes incluent la reconnaissance d'entités nommées et l'étiquetage morphosyntaxique.

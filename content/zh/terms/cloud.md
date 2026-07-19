@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /zh/terms/cloud/
 date: "2026-07-18T10:49:42.551584Z"
 lastmod: "2026-07-18T11:44:45.363879Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "云是指通过互联网托管的远程服务器，用于存储、管理和处理数据及AI模型，而非依赖本地硬件。"
 ---
-
 ## Definition
 
 云计算为AI工作负载提供了可扩展的基础设施，使开发人员无需维护物理数据中心即可访问强大的GPU和存储空间。它支持各种服务模型，如基础设施即服务（IaaS）和平台即服务（PaaS）。

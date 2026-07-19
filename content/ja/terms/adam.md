@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /ja/terms/adam/
 date: "2026-07-18T10:48:23.561020Z"
 lastmod: "2026-07-18T11:44:45.001699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "各パラメータに対して適応的な学習率を計算する最適化アルゴリズム。"
 ---
-
 ## Definition
 
 Adam（Adaptive Moment Estimation）は、ディープニューラルネットワークのトレーニングに使用される人気のある一階勾配ベースの最適化アルゴリズムです。これは、確率的勾配降下法のもう2つの拡張機能の利点を組み合わせています。

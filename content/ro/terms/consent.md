@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /ro/terms/consent/
 date: "2026-07-18T15:50:32.237608Z"
 lastmod: "2026-07-18T17:15:09.639299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Acordul explicit și informat al indivizilor de a permite colectarea și procesarea datelor lor în scopuri de IA."
 ---
-
 ## Definition
 
 În etica IA, consimțământul se referă la permisiunea voluntară și informată acordată de utilizatori sau subiecți înainte ca datele lor personale să fie colectate, stocate sau utilizate în modele de învățare automată. Acesta necesită transparență privind modul în care vor fi folosite datele.

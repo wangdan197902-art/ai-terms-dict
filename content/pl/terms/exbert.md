@@ -1,23 +1,25 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /pl/terms/exbert/
-date: "2026-07-18T15:53:59.006578Z"
-lastmod: "2026-07-18T17:15:08.871649Z"
+slug: exbert
+date: '2026-07-18T15:53:59.006578Z'
+lastmod: '2026-07-18T17:15:08.871649Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Metoda wyjaśniania przewidywań modelu BERT poprzez identyfikację głów mechanizmów uwagi (attention heads) i warstw, które najbardziej przyczyniają się do konkretnych wyników."
+source: agnes_llm
+status: published
+language: pl
+description: Metoda wyjaśniania przewidywań modelu BERT poprzez identyfikację głów
+  mechanizmów uwagi (attention heads) i warstw, które najbardziej przyczyniają się
+  do konkretnych wyników.
 ---
-
 ## Definition
 
 ExBERT zapewnia interpretowalność dla modelu transformera BERT poprzez analizę ważności poszczególnych głów uwagi w różnych warstwach. Wykorzystuje techniki takie jak atrybucja oparta na gradientach lub inne metody eksploracyjne.

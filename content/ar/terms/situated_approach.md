@@ -1,23 +1,25 @@
 ---
-title: "نهج السياق"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: نهج السياق
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /ar/terms/situated_approach/
-date: "2026-07-18T16:20:51.413506Z"
-lastmod: "2026-07-18T17:15:08.548229Z"
+slug: situated_approach
+date: '2026-07-18T16:20:51.413506Z'
+lastmod: '2026-07-18T17:15:08.548229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج تصميمي في الذكاء الاصطناعي يعطي الأولوية للسلوك المعتمد على السياق والتفاعل البيئي بدلاً من الاستدلال المجرد."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج تصميمي في الذكاء الاصطناعي يعطي الأولوية للسلوك المعتمد على السياق
+  والتفاعل البيئي بدلاً من الاستدلال المجرد.
 ---
-
 ## Definition
 
 يُعد نهج السياق إطاراً منهجياً في أبحاث الذكاء الاصطناعي يجادل بأن السلوك الذكي لا يمكن فصله عن البيئة التي يحدث فيها. ويدعو هذا النهج إلى بناء أنظمة تتكيف ديناميكياً مع محيطها المباشر بدلاً من الاعتماد فقط على النماذج الداخلية الثابتة.

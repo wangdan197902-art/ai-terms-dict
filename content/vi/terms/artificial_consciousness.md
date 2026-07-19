@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /vi/terms/artificial_consciousness/
 date: "2026-07-18T15:40:35.589285Z"
 lastmod: "2026-07-18T16:38:07.728124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khái niệm lý thuyết về việc trang bị cho máy móc những trải nghiệm chủ quan, ý thức tự thân và sự mẫn cảm tương tự như con người."
 ---
-
 ## Definition
 
 Ý thức nhân tạo khám phá khả năng tạo ra các cỗ máy sở hữu những trải nghiệm chủ quan thực sự, ý thức tự thân và cảm xúc, thay vì chỉ mô phỏng hành vi thông minh. Lĩnh vực này đặt ra các câu hỏi sâu sắc về bản chất của tâm trí và sự tồn tại.

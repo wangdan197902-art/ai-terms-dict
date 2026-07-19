@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /no/terms/evaluation/
 date: "2026-07-18T15:25:48.330591Z"
 lastmod: "2026-07-18T16:38:06.935962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Evaluerings er prosessen med å vurdere ytelsen, nøyaktigheten og robustheten til en AI-modell mot forhåndsdefinerte metrikker og datasett."
 ---
-
 ## Definition
 
 Evaluerings involverer systematisk måling av hvor godt en AI-modell presterer på spesifikke oppgaver ved hjelp av kvantitative metrikker (f.eks. nøyaktighet, F1-score, BLEU) og kvalitative vurderinger. Det inkluderer validering

@@ -1,23 +1,24 @@
 ---
-title: "Θέση Κωδικοποίησης"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Θέση Κωδικοποίησης
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /el/terms/positional_encoding/
-date: "2026-07-18T15:43:02.239997Z"
-lastmod: "2026-07-18T17:15:09.869192Z"
+slug: positional_encoding
+date: '2026-07-18T15:43:02.239997Z'
+lastmod: '2026-07-18T17:15:09.869192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική που ενσωματώνει πληροφορίες σχετικά με τη σχετική ή απόλυτη θέση των tokens σε μια ακολουθία στα μοντέλα Transformer."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική που ενσωματώνει πληροφορίες σχετικά με τη σχετική ή απόλυτη
+  θέση των tokens σε μια ακολουθία στα μοντέλα Transformer.
 ---
-
 ## Definition
 
 Επειδή τα μοντέλα Transformer επεξεργάζονται όλα τα tokens παράλληλα και όχι διαδοχικά όπως τα RNN, δεν διαθέτουν εγγενή γνώση της σειράς των tokens. Η κωδικοποίηση θέσης προσθέτει συγκεκριμένα διανύσματα στις εισόδους ενσωμάτωσης (embeddings) για να παρέχει πληροφορίες σχετικά με τη σειρά των δεδομένων.

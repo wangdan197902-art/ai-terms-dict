@@ -1,23 +1,23 @@
 ---
-title: "a due fasi"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: a due fasi
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /it/terms/two_stage/
-date: "2026-07-18T15:34:15.180877Z"
-lastmod: "2026-07-18T17:15:08.582495Z"
+slug: two_stage
+date: '2026-07-18T15:34:15.180877Z'
+lastmod: '2026-07-18T17:15:08.582495Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'architettura di pipeline in cui l'elaborazione avviene in fasi distinte e sequenziali."
+source: agnes_llm
+status: published
+language: it
+description: Un'architettura di pipeline in cui l'elaborazione avviene in fasi distinte
+  e sequenziali.
 ---
-
 ## Definition
 
 Le architetture a due fasi dividono un compito complesso in due passaggi separati, tipicamente coinvolgendo il rilevamento seguito dalla classificazione o dal raffinamento. Nella visione artificiale, gli esempi includono rivelatori di oggetti come...

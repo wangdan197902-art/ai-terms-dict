@@ -1,23 +1,26 @@
 ---
-title: "Phân biệt đối xử với robot"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Phân biệt đối xử với robot
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /vi/terms/discrimination_against_robots/
-date: "2026-07-18T15:49:58.203422Z"
-lastmod: "2026-07-18T16:38:07.751048Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:49:58.203422Z'
+lastmod: '2026-07-18T16:38:07.751048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Khái niệm đạo đức và pháp lý đề cập đến sự đối xử thiên vị hoặc định kiến hướng tới các tác nhân nhân tạo hoặc hệ thống tự hành, thường xuất phát từ các phép chiếu nhân bản hoặc sự thiếu tin tưởng vào"
+source: agnes_llm
+status: published
+language: vi
+description: Khái niệm đạo đức và pháp lý đề cập đến sự đối xử thiên vị hoặc định
+  kiến hướng tới các tác nhân nhân tạo hoặc hệ thống tự hành, thường xuất phát từ
+  các phép chiếu nhân bản hoặc sự thiếu tin tưởng vào
 ---
-
 ## Definition
 
 Phân biệt đối xử với robot là một khái niệm đạo đức và xã hội học đang nổi lên, nghiên cứu cách con người có thể đối xử không công bằng, thiếu tin tưởng hoặc gán các thuộc tính tiêu cực cho các tác nhân nhân tạo dựa trên bản chất máy móc của chúng.

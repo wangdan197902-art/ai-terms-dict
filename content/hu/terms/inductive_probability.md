@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /hu/terms/inductive_probability/
 date: "2026-07-18T16:05:19.820823Z"
 lastmod: "2026-07-18T17:15:09.796371Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy mérőszám arra, hogy az bizonyítékok mennyire támasztják alá egy hipotézist, eltérve a deduktív biztos-ságtól."
 ---
-
 ## Definition
 
 Az Inductive Probability (Induktív valószínűség) kvantifikálja, hogy egy hipotézis mennyire valószínű, hogy igaz az észlelt bizonyítékok alapján, elismerve, hogy a következtetések valószínűsíthetőek, nem pedig biztosak. Ez képezi a Bayes-i következtetés alapját, ahol...

@@ -1,23 +1,24 @@
 ---
-title: "Conhecimento de senso comum"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Conhecimento de senso comum
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /pt/terms/commonsense_knowledge/
-date: "2026-07-18T14:53:35.780397Z"
-lastmod: "2026-07-18T15:51:59.472288Z"
+slug: commonsense_knowledge
+date: '2026-07-18T14:53:35.780397Z'
+lastmod: '2026-07-18T15:51:59.472288Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "As informações de fundo e a compreensão intuitiva do mundo físico e social que os humanos possuem, mas que as máquinas frequentemente carecem."
+source: agnes_llm
+status: published
+language: pt
+description: As informações de fundo e a compreensão intuitiva do mundo físico e social
+  que os humanos possuem, mas que as máquinas frequentemente carecem.
 ---
-
 ## Definition
 
 O conhecimento de senso comum refere-se à vasta quantidade de informação implícita sobre o cotidiano, física, normas sociais e relações de causa e efeito que os humanos adquirem naturalmente. Na IA, adquirir esse conhecimento é um desafio fundamental para que as máquinas possam interagir com o mundo de maneira semelhante à humana.

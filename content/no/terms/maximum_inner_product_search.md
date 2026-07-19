@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /no/terms/maximum_inner_product_search/
 date: "2026-07-18T16:05:48.540221Z"
 lastmod: "2026-07-18T16:38:07.023617Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En spesialisert teknikk for vektorsimilitudssøk som henter ut elementer med høyest prikkprodukt i forhold til en spørringsvektor."
 ---
-
 ## Definition
 
 Maksimum indre produkt-søk (MIPS) er et grunnleggende problem innen informasjonsutvinning og maskinlæring, spesielt i anbefalingssystemer. I motsetning til standard cosinus-similitudssøk som måler vinkelen mellom vektorer, fokuserer MIPS på å maksimere den indre produktverdien, noe som ofte gir bedre resultater når vektorstørrelsen inneholder informasjon om relevans eller popularitet.

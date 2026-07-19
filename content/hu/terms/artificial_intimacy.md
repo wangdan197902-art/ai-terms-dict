@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /hu/terms/artificial_intimacy/
 date: "2026-07-18T15:44:57.135800Z"
 lastmod: "2026-07-18T17:15:09.755491Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az érzelmi kapcsolat, amelyet a felhasználók az empátiát, társaságot és személyes interakciót szimuláló MI entitásokkal alakítanak ki."
 ---
-
 ## Definition
 
 A mesterséges intimitás azt a pszichológiai jelenséget jelöli, amikor az emberek valódi érzelmi kötődést alakítanak ki mesterséges ügynökökkel, például chatbotokkal, virtuális asszisztensekkel vagy

@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /fr/terms/multi_modality/
 date: "2026-07-18T11:30:38.809156Z"
 lastmod: "2026-07-18T11:44:45.296904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La multimodalité est le concept plus large ou le domaine d'étude concernant l'utilisation de plusieurs types de données distincts au sein des architectures d'apprentissage automatique."
 ---
-
 ## Definition
 
 La multimodalité représente le cadre architectural et théorique permettant aux modèles d'IA de gérer des flux de données hétérogènes. Elle implique la conception de réseaux neuronaux capables d'accepter des entrées provenant de diverses

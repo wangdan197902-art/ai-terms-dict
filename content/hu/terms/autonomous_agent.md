@@ -7,8 +7,6 @@ tags: ["agents", "robotics", "automation"]
 difficulty: 3
 weight: 1
 slug: "autonomous_agent"
-aliases:
-  - /hu/terms/autonomous_agent/
 date: "2026-07-18T15:46:55.768701Z"
 lastmod: "2026-07-18T17:15:09.758034Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az autonóm ügynök egy olyan rendszer, amely képes érzékelni a környezetét, és közvetlen emberi beavatkozás nélkül, önállóan cselekedni a meghatározott célok elérése érdekében."
 ---
-
 ## Definition
 
 Mesterséges intelligencia esetén az autonóm ügynök egy olyan entitás, amely függetlenül működik egy környezetben. Érzékelőket használ az állapotok érzékelésére, és végrehajtókat (aktuatorokat) a cselekvések végrehajtására, belső irányítási mechanizmusok segítségével.

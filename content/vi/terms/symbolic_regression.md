@@ -1,23 +1,24 @@
 ---
-title: "Hồi quy biểu tượng"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: Hồi quy biểu tượng
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /vi/terms/symbolic_regression/
-date: "2026-07-18T16:13:39.910150Z"
-lastmod: "2026-07-18T16:38:07.809623Z"
+slug: symbolic_regression
+date: '2026-07-18T16:13:39.910150Z'
+lastmod: '2026-07-18T16:38:07.809623Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Hồi quy biểu tượng là một kỹ thuật tìm kiếm các biểu thức toán học phù hợp nhất với một tập dữ liệu, nhằm mục đích khám phá các công thức có thể giải thích được."
+source: agnes_llm
+status: published
+language: vi
+description: Hồi quy biểu tượng là một kỹ thuật tìm kiếm các biểu thức toán học phù
+  hợp nhất với một tập dữ liệu, nhằm mục đích khám phá các công thức có thể giải thích
+  được.
 ---
-
 ## Definition
 
 Hồi quy biểu tượng là một loại phân tích hồi quy nhằm tìm ra một biểu thức toán học, thường được biểu diễn dưới dạng cấu trúc cây, phù hợp tối ưu với dữ liệu quan sát được. Khác với hồi quy truyền thống...

@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /cs/terms/ai_security_institute/
 date: "2026-07-18T15:39:34.878337Z"
 lastmod: "2026-07-18T17:15:09.096047Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Organizace zaměřená na výzkum, vývoj a podporu osvědčených postupů pro zabezpečení systémů umělé inteligence."
 ---
-
 ## Definition
 
 Ústav bezpečnosti AI je specializovaná entita zaměřená na zmírňování rizik spojených s technologiemi umělé inteligence. Tyto ústavy provádějí výzkum ohledně adversariálních útoků, ochrany dat

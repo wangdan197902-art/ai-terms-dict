@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /ja/terms/graphics_processing_unit/
 date: "2026-07-18T11:17:01.197665Z"
 lastmod: "2026-07-18T11:44:45.103620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "画像の操作やレンダリングを高速に行うために設計された特殊な電子回路。現在では、AIにおける並列計算の用途で広く使用されています。"
 ---
-
 ## Definition
 
 GPU（グラフィックス・プロセッシング・ユニット）は、もともとグラフィックスのレンダリングタスクを処理するために開発された高性能プロセッサです。シーケンシャルな逐次処理に最適化された少数のコアを持つCPUとは異なり、GPUは数千ものコアを搭載しており、大量のデータを同時に処理することができます。この並列処理能力により、深層学習のトレーニングや推論など、現代のAIワークロードにおいて不可欠な役割を果たしています。

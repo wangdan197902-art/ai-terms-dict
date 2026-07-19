@@ -1,23 +1,24 @@
 ---
-title: "Toplu Boyutu"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Toplu Boyutu
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /tr/terms/batch_size/
-date: "2026-07-18T15:43:27.254115Z"
-lastmod: "2026-07-18T16:38:07.277961Z"
+slug: batch_size
+date: '2026-07-18T15:43:27.254115Z'
+lastmod: '2026-07-18T16:38:07.277961Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Stokastik gradyan iniş algoritmasının bir yinelemesinde kullanılan eğitim örneklerinin sayısı."
+source: agnes_llm
+status: published
+language: tr
+description: Stokastik gradyan iniş algoritmasının bir yinelemesinde kullanılan eğitim
+  örneklerinin sayısı.
 ---
-
 ## Definition
 
 Toplu boyut, modelin iç parametreleri güncellenmeden önce işlenen örnek sayısını belirleyen kritik bir hiperparametredir. Daha büyük bir toplu boyut, daha doğru bir tahmin sağlar ve genellikle hesaplama verimliliğini artırır.

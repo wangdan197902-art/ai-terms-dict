@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /ja/terms/serverless/
 date: "2026-07-18T11:31:59.766551Z"
 lastmod: "2026-07-18T11:44:45.143799Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ユーザーではなくプロバイダーが機械リソースの割り当てを動的に管理するクラウドコンピューティングの実行モデル。"
 ---
-
 ## Definition
 
 サーバーレスアーキテクチャにより、開発者はサーバーインフラストラクチャを管理せずにアプリケーションの構築と実行が可能です。クラウドプロバイダーは需要に応じてリソースを自動的にスケーリングし、使用量に基づいて課金します。

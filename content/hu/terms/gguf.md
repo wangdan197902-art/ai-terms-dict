@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /hu/terms/gguf/
-date: "2026-07-18T16:00:39.079531Z"
-lastmod: "2026-07-18T17:15:09.786337Z"
+slug: gguf
+date: '2026-07-18T16:00:39.079531Z'
+lastmod: '2026-07-18T17:15:09.786337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Agger.ai által kifejlesztett fájlformátum a kvantált nagy nyelvi modellek hatékony tárolására és betöltésére helyi hardveren."
+source: agnes_llm
+status: published
+language: hu
+description: Agger.ai által kifejlesztett fájlformátum a kvantált nagy nyelvi modellek
+  hatékony tárolására és betöltésére helyi hardveren.
 ---
-
 ## Definition
 
 A GGUF (GPT-Generated Unified Format) egy bináris fájlformátum, amelyet kifejezetten nagy nyelvi modellek fogyasztói kategóriájú hardveren történő futtatására terveztek. Támogatja a különböző kvantálási technikákat, lehetővé téve a modellek méretének csökkentését anélkül, hogy drasztikusan romlana a pontosság.

@@ -1,23 +1,25 @@
 ---
-title: "Matrixregularisatie"
-term_id: "matrix_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "matrices"]
+title: Matrixregularisatie
+term_id: matrix_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- matrices
 difficulty: 3
 weight: 1
-slug: "matrix_regularization"
-aliases:
-  - /nl/terms/matrix_regularization/
-date: "2026-07-18T16:06:22.478387Z"
-lastmod: "2026-07-18T17:15:08.766313Z"
+slug: matrix_regularization
+date: '2026-07-18T16:06:22.478387Z'
+lastmod: '2026-07-18T17:15:08.766313Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek die strafftermen toepast op matrixgewaardeerde parameters om overfitting te voorkomen en structurele eigenschappen zoals sparseheid af te dwingen."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek die strafftermen toepast op matrixgewaardeerde parameters
+  om overfitting te voorkomen en structurele eigenschappen zoals sparseheid af te
+  dwingen.
 ---
-
 ## Definition
 
 Matrixregularisatie breidt scalaire regularisatieconcepten uit naar matrices, vaak gebruikt in multitask learning of aanbevelingssystemen. Het legt beperkingen op aan de norm van gewichtsmatrices, zoals de Frobenius-norm of kernnorm, om de complexiteit van het model te beheersen.

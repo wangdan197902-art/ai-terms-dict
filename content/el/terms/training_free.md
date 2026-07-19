@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /el/terms/training_free/
 date: "2026-07-18T15:37:32.323272Z"
 lastmod: "2026-07-18T17:15:09.862913Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Μέθοδοι που προσαρμόζουν ή ενισχύουν μοντέλα χωρίς να εκτελούν ενημερώσεις παραμέτρων βάσει κλίσεων."
 ---
-
 ## Definition
 
 Οι προσεγγίσεις «χωρίς εκπαίδευση» αναφέρονται σε τεχνικές που τροποποιούν τη συμπεριφορά ή την έξοδο ενός μοντέλου χωρίς να ενημερώνουν τα υπόlying βάρη μέσω backpropagation. Αυτές οι μέθοδοι συχνά αξιοποιούν τη μηχανική των ερωτημάτων (prompt engineering), τα χαρακτηριστικά...

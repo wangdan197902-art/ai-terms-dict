@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /sv/terms/llm/
 date: "2026-07-18T15:28:16.200164Z"
 lastmod: "2026-07-18T17:15:08.944824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En djupinlärningsmodell tränad på omfattande textkorpusar för att förstå och generera mänskligt liknande språk."
 ---
-
 ## Definition
 
 Stora språkmodeller (LLM) är avancerade artificiella intelligenssystem baserade på transformerarkitekturer, tränade på enorma datamängder av text och kod. De lär sig statistiska mönster i språket

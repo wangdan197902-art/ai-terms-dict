@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /sv/terms/algorithmic_inference/
 date: "2026-07-18T15:44:40.719642Z"
 lastmod: "2026-07-18T17:15:08.974221Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Algoritmisk inferens är processen där en tränad maskininlärningsmodell applicerar inlärd mönster på ny, osedd data för att göra prediktioner eller beslut."
 ---
-
 ## Definition
 
 Även känt som prediktion eller skattning, sker inferensen efter modellträningen. Algoritmen tar in funktionsvariabler, bearbetar dem genom sin interna struktur (såsom vikter i ett neuralt nätverk) och genererar ett slutgiltigt svar.

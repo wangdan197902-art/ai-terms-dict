@@ -1,23 +1,24 @@
 ---
-title: "Listen von Open-Source-KI-Software"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: Listen von Open-Source-KI-Software
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /de/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T11:21:48.681052Z"
-lastmod: "2026-07-18T11:44:44.959232Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T11:21:48.681052Z'
+lastmod: '2026-07-18T11:44:44.959232Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Kuratierte Sammlungen oder Verzeichnisse, die öffentlich verfügbare KI-Tools, Bibliotheken und Frameworks katalogisieren."
+source: agnes_llm
+status: published
+language: de
+description: Kuratierte Sammlungen oder Verzeichnisse, die öffentlich verfügbare KI-Tools,
+  Bibliotheken und Frameworks katalogisieren.
 ---
-
 ## Definition
 
 Dies bezieht sich auf organisierte Repositorien, wie GitHub-Themen, Awesome-Listen oder von der Community gepflegte Wikis, die Open-Source-Software im Zusammenhang mit künstlicher Intelligenz zusammenfassen. Sie dienen als wesentliche Ressourcen für die Entdeckung und Auswahl von Tools.

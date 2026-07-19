@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /he/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:56:13.249968Z"
 lastmod: "2026-07-18T17:15:09.537728Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ההשלכות האקולוגיות של פיתוח, אימון והטמעת מודלי בינה מלאכותית, כולל צריכת אנרגיה ופליטת פחמן."
 ---
-
 ## Definition
 
 מונח זה מתייחס לדרישות המשאבים המשמעותיות הקשורות לטכנולוגיות בינה מלאכותית, במיוחד בשלב האימון של מודלים גדולים. הוא כולל שימוש בחשמל למרכזי נתונים ופליטת גזי חממה.

@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /he/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:03:56.591324Z"
 lastmod: "2026-07-18T17:15:09.547062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת דירוג ב-Hugging Face המעריכה ומשווה את הביצועים של מודלים להכרה אוטומטית בדיבור."
 ---
-
 ## Definition
 
 טבלת הדירוג של Hugging Face ל-ASR היא פלטפורמת מדדים המונעת על ידי הקהילה, המארחת על ידי Hugging Face, העוקבת אחר הביצועים המתקדמים ביותר בהכרה אוטומטית בדיבור. היא מאפשרת לחוקרים ומפתחים לבצע

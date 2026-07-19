@@ -1,23 +1,22 @@
 ---
-title: "Dense (ชั้นหนาแน่น)"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dense (ชั้นหนาแน่น)
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /th/terms/dense/
-date: "2026-07-18T15:50:01.830751Z"
-lastmod: "2026-07-18T16:38:07.597954Z"
+slug: dense
+date: '2026-07-18T15:50:01.830751Z'
+lastmod: '2026-07-18T16:38:07.597954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เลเยอร์หรือเทนเซอร์ที่ทุกองค์ประกอบเชื่อมต่อกับทุกองค์ประกอบของเลเยอร์หรือมิติก่อนหน้า"
+source: agnes_llm
+status: published
+language: th
+description: เลเยอร์หรือเทนเซอร์ที่ทุกองค์ประกอบเชื่อมต่อกับทุกองค์ประกอบของเลเยอร์หรือมิติก่อนหน้า
 ---
-
 ## Definition
 
 ในโครงข่ายประสาทเทียม คำว่า 'dense' หมายถึงเลเยอร์แบบเชื่อมต่อเต็มรูปแบบ (fully connected) ซึ่งแต่ละนิวรอนจะได้รับข้อมูลนำเข้าจากนิวรอนทั้งหมดในเลเยอร์ก่อนหน้า สิ่งนี้แตกต่างจากการเชื่อมต่อแบบเบาบาง (sparse connections) ที่พบในเลเยอร์คอนโวลูชันหรือ...

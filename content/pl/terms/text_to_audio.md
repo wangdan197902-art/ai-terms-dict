@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /pl/terms/text_to_audio/
 date: "2026-07-18T16:20:21.253064Z"
 lastmod: "2026-07-18T17:15:08.923871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces konwersji zapisanego tekstu na dźwięk mówiony, obejmujący zarówno syntezę mowy, jak i generowanie dźwięków niespełniających funkcji mowy."
 ---
-
 ## Definition
 
 Tekst do Dźwięku to szerokie pojęcie obejmujące technologie przekształcające dane tekstowe na wyjście audiowizualne. Choć często kojarzone jest z syntezą mowy (TTS) mającą na celu odtworzenie ludzkiego głosu, termin ten obejmuje również generowanie efektów dźwiękowych, muzyki lub innych dźwięków środowiskowych na podstawie opisów tekstowych, wykorzystując zaawansowane modele neuronowe.

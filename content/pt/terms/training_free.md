@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /pt/terms/training_free/
 date: "2026-07-18T14:42:30.622508Z"
 lastmod: "2026-07-18T15:51:59.446670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Métodos que adaptam ou aprimoram modelos sem realizar atualizações de parâmetros baseadas em gradiente."
 ---
-
 ## Definition
 
 Abordagens livres de treinamento referem-se a técnicas que modificam o comportamento ou a saída do modelo sem atualizar os pesos subjacentes por meio de retropropagação. Esses métodos frequentemente aproveitam engenharia de prompt, recursos

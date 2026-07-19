@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /no/terms/data_minimization/
 date: "2026-07-18T16:21:49.443161Z"
 lastmod: "2026-07-18T16:38:07.059458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prinsippet om bare å samle inn og behandle personopplysninger som er strengt nødvendige for et bestemt formål."
 ---
-
 ## Definition
 
 Dataminimering er et grunnleggende personvernprinsipp som krever at organisasjoner begrenser datainnsamling til det som er tilstrekkelig, relevant og begrenset til det som er nødvendig. Innen AI betyr dette å designe modeller som reduserer risikoen for datalagring.

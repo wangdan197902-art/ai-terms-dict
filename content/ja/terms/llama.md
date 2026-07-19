@@ -1,23 +1,23 @@
 ---
-title: "Llama"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: Llama
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /ja/terms/llama/
-date: "2026-07-18T11:21:57.579323Z"
-lastmod: "2026-07-18T11:44:45.116659Z"
+slug: llama
+date: '2026-07-18T11:21:57.579323Z'
+lastmod: '2026-07-18T11:44:45.116659Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Meta AIによって開発された大規模言語モデルのファミリー。オープンウェイトと強力なパフォーマンスで知られています。"
+source: agnes_llm
+status: published
+language: ja
+description: Meta AIによって開発された大規模言語モデルのファミリー。オープンウェイトと強力なパフォーマンスで知られています。
 ---
-
 ## Definition
 
 Llama（Large Language Model Meta AI）は、Metaによってリリースされた基盤となる大規模言語モデルのシリーズです。多くのプロプライエタリモデルとは異なり、Llamaモデルはしばしばオープンウェイトでリリースされ、研究者や開発者がモデルの内部構造や重みにアクセスし、独自の用途に合わせて調整することを可能にしています。

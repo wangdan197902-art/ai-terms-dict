@@ -1,23 +1,24 @@
 ---
-title: "Läckage"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Läckage
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /sv/terms/leakage/
-date: "2026-07-18T16:06:29.980639Z"
-lastmod: "2026-07-18T17:15:09.019977Z"
+slug: leakage
+date: '2026-07-18T16:06:29.980639Z'
+lastmod: '2026-07-18T17:15:09.019977Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Datatäckage uppstår när information utanför träningsdatamängden oavsiktligt påverkar modellen, vilket leder till överoptimala prestandaestimat."
+source: agnes_llm
+status: published
+language: sv
+description: Datatäckage uppstår när information utanför träningsdatamängden oavsiktligt
+  påverkar modellen, vilket leder till överoptimala prestandaestimat.
 ---
-
 ## Definition
 
 Datatäckage är ett kritiskt fel inom maskininlärning där modellen får tillgång till information under träningen som inte skulle vara tillgänglig vid prediktionstid. Detta händer ofta genom felaktig dat

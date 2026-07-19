@@ -1,23 +1,25 @@
 ---
-title: "Совместное обучение"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Совместное обучение
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /ru/terms/co_training/
-date: "2026-07-18T15:44:52.441805Z"
-lastmod: "2026-07-18T16:38:07.130461Z"
+slug: co_training
+date: '2026-07-18T15:44:52.441805Z'
+lastmod: '2026-07-18T16:38:07.130461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Совместное обучение — это алгоритм полунадзорного обучения, в котором используются два представления данных для обучения отдельных классификаторов, которые итеративно размечают немаркированные данные "
+source: agnes_llm
+status: published
+language: ru
+description: 'Совместное обучение — это алгоритм полунадзорного обучения, в котором
+  используются два представления данных для обучения отдельных классификаторов, которые
+  итеративно размечают немаркированные данные '
 ---
-
 ## Definition
 
 Этот метод использует несколько различных наборов признаков (представлений) одних и тех же точек данных. Изначально два классификатора обучаются на небольших размеченных наборах данных из каждого представления. Затем они предсказывают ярлыки для немаркированных данных, выбирая наиболее уверенные предсказания для обучения друг друга.

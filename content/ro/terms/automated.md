@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /ro/terms/automated/
 date: "2026-07-18T15:23:38.980663Z"
 lastmod: "2026-07-18T17:15:09.589329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la procese executate de mașini sau software cu intervenție umană minimă."
 ---
-
 ## Definition
 
 Automatizarea în IA implică utilizarea algoritmilor și a sistemelor pentru a executa sarcini care tradițional necesită efort uman. Se concentrează pe eficiență, consistență și viteză prin executarea unor reguli predefinite sau învățate.

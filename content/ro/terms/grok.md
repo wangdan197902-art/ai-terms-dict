@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /ro/terms/grok/
 date: "2026-07-18T16:01:44.610279Z"
 lastmod: "2026-07-18T17:15:09.662658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un chatbot AI dezvoltat de xAI, integrat în platforma X, cunoscut pentru accesul său în timp real la datele de pe rețelele sociale și personalitatea sa amuzantă."
 ---
-
 ## Definition
 
 Grok este un chatbot bazat pe un model lingvistic mare creat de compania lui Elon Musk, xAI. Este accesibil în principal abonaților platformei X (fostul Twitter). Grok se distinge prin faptul că are acces în timp real la...

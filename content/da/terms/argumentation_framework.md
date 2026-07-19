@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /da/terms/argumentation_framework/
 date: "2026-07-18T15:41:09.514294Z"
 lastmod: "2026-07-18T17:15:09.259483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En formel struktur brugt til at modellere og løse konflikter mellem konkurrerende påstande eller beslutninger i AI-systemer."
 ---
-
 ## Definition
 
 Argumentationsrammer giver et matematisk grundlag for at repræsentere argumenter, angreb og forsvar blandt dem. Inden for AI-ingeniørvidenskab hjælper de systemer med at træffe gennemsigtige og begrundelige beslutninger ved at vægte...

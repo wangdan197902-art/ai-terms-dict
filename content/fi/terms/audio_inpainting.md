@@ -1,23 +1,24 @@
 ---
-title: "Audion täydennys"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: Audion täydennys
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /fi/terms/audio_inpainting/
-date: "2026-07-18T15:44:13.439986Z"
-lastmod: "2026-07-18T17:15:09.385568Z"
+slug: audio_inpainting
+date: '2026-07-18T15:44:13.439986Z'
+lastmod: '2026-07-18T17:15:09.385568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa rekonstruoidaan puuttuvia tai vaurioituneita äänisignaalin osia ympäröivän kontekstin perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa rekonstruoidaan puuttuvia tai vaurioituneita äänisignaalin
+  osia ympäröivän kontekstin perusteella.
 ---
-
 ## Definition
 
 Audion täydennys on tekniikka, jota käytetään täyttämään aukkoja ääninauhoituksista, jotka johtuvat katkoksesta, melusta tai tarkoituksesta peittämisestä. Generatiivisia malleja käyttäen järjestelmä ennustaa todennäköisimmän sisällön puuttu

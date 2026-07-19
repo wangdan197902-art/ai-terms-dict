@@ -1,23 +1,23 @@
 ---
-title: "抵抗人工智能"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: 抵抗人工智能
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /zh/terms/resisting_ai/
-date: "2026-07-18T11:32:14.210930Z"
-lastmod: "2026-07-18T11:44:45.550832Z"
+slug: resisting_ai
+date: '2026-07-18T11:32:14.210930Z'
+lastmod: '2026-07-18T11:44:45.550832Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "旨在逃避人工智能系统检测、操纵或控制的策略和技术。"
+source: agnes_llm
+status: published
+language: zh
+description: 旨在逃避人工智能系统检测、操纵或控制的策略和技术。
 ---
-
 ## Definition
 
 抵抗人工智能是指个人或实体为避免被 AI 算法影响、追踪或分类而使用的方法。这包括针对感知系统的对抗性攻击、保护隐私的数据处理技术以及旨在规避算法监控的策略。

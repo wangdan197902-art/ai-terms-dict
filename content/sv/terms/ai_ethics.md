@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /sv/terms/ai_ethics/
 date: "2026-07-18T15:37:15.300476Z"
 lastmod: "2026-07-18T17:15:08.960083Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Studiet av moraliska frågor och implikationer som uppstår vid utveckling och implementering av system för artificiell intelligens."
 ---
-
 ## Definition
 
 Etik inom artificiell intelligens omfattar ramverket av principer och standarder utformade för att säkerställa att teknologier för artificiell intelligens utvecklas och används på ett ansvarsfullt sätt. Det adresserar kritiska frågor såsom...

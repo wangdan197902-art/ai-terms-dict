@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /id/terms/autognostics/
 date: "2026-07-18T15:39:57.712193Z"
 lastmod: "2026-07-18T16:38:07.430409Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kemampuan sistem AI untuk mendiagnosis secara mandiri keadaan internal, masalah kinerja, atau kesalahannya tanpa intervensi manusia."
 ---
-
 ## Definition
 
 Autognostik merujuk pada mekanisme pemantauan diri dan perbaikan diri yang tertanam dalam sistem cerdas. Hal ini memungkinkan agen AI untuk mendeteksi anomali, mendiagnosis akar penyebab kegagalan, dan berpotensi memperbaiki diri.

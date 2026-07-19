@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /de/terms/pedagogical_agent/
 date: "2026-07-18T11:26:50.347421Z"
 lastmod: "2026-07-18T11:44:44.974269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine KI-Entität, die darauf ausgelegt ist, das Lernen durch Anleitung, Feedback und Führung zu erleichtern."
 ---
-
 ## Definition
 
 Ein pädagogisches Agentensystem ist eine Softwarekomponente, die oft als virtueller Charakter verkörpert ist und in Lernumgebungen als Lehrer oder Tutor agiert. Diese Agenten nutzen natürliche Sprachverarbeitung un

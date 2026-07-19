@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /ar/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:51:53.738822Z"
 lastmod: "2026-07-18T17:15:08.491584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات أزواج أسئلة كورا المستخدمة لتدريب النماذج على اكتشاف التشابه الدلالي بين الأسئلة."
 ---
-
 ## Definition
 
 تُعد أزواج أسئلة كورا (QQP) مجموعة بيانات لتصنيف ثنائي تحتوي على أكثر من 400,000 زوج من الأسئلة من منصة كورا. تتمثل المهمة في تحديد ما إذا كان لسؤالين نفس القصد أو...

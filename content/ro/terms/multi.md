@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /ro/terms/multi/
 date: "2026-07-18T15:27:33.695219Z"
 lastmod: "2026-07-18T17:15:09.599053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un prefix care indică prezența mai multor instanțe, capete sau moduri într-un sistem sau model."
 ---
-
 ## Definition
 
 Prefixul „multi-” este frecvent utilizat în AI pentru a denota arhitecturi sau procese care implică mai multe componente paralele. Exemple includ Atenția Multi-Cap, care permite modelelor să se concentreze pe diferite reprezentări.

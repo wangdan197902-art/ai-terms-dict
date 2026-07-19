@@ -1,23 +1,23 @@
 ---
-title: "Häviöfunktio / Menetysfunktio"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Häviöfunktio / Menetysfunktio
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /fi/terms/loss/
-date: "2026-07-18T15:28:38.203894Z"
-lastmod: "2026-07-18T17:15:09.354199Z"
+slug: loss
+date: '2026-07-18T15:28:38.203894Z'
+lastmod: '2026-07-18T17:15:09.354199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Numeerinen arvo, joka kvantifioi mallin ennusteiden ja todellisten kohdearvojen välisen virheen."
+source: agnes_llm
+status: published
+language: fi
+description: Numeerinen arvo, joka kvantifioi mallin ennusteiden ja todellisten kohdearvojen
+  välisen virheen.
 ---
-
 ## Definition
 
 Häviöfunktiot (myös kustannusfunktiot) mittaavat, kuinka hyvin koneoppimismallin ennusteet vastaavat todellisuutta koulutuksen aikana. Optimointialgoritmin tavoitteena on minimoida tämä

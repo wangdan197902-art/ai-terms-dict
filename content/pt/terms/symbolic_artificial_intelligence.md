@@ -1,23 +1,23 @@
 ---
-title: "Inteligência artificial simbólica"
-term_id: "symbolic_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_paradigms", "logic"]
+title: Inteligência artificial simbólica
+term_id: symbolic_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Paradigms
+- logic
 difficulty: 3
 weight: 1
-slug: "symbolic_artificial_intelligence"
-aliases:
-  - /pt/terms/symbolic_artificial_intelligence/
-date: "2026-07-18T15:24:00.003308Z"
-lastmod: "2026-07-18T15:51:59.537065Z"
+slug: symbolic_artificial_intelligence
+date: '2026-07-18T15:24:00.003308Z'
+lastmod: '2026-07-18T15:51:59.537065Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A IA simbólica é uma abordagem à IA que utiliza representações simbólicas de alto nível de problemas para resolver tarefas complexas por meio de busca e raciocínio."
+source: agnes_llm
+status: published
+language: pt
+description: A IA simbólica é uma abordagem à IA que utiliza representações simbólicas
+  de alto nível de problemas para resolver tarefas complexas por meio de busca e raciocínio.
 ---
-
 ## Definition
 
 A inteligência artificial simbólica, frequentemente chamada de GOFAI (Good Old-Fashioned AI - IA Tradicionalmente Boa), baseia-se na manipulação de símbolos e regras para realizar raciocínio e resolução de problemas. Diferente das abordagens conexionistas (como redes neurais), ela emprega lógica formal e bases de conhecimento explícitas para inferir conclusões a partir de fatos predefinidos.

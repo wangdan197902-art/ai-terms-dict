@@ -1,23 +1,26 @@
 ---
-title: "Differensielt privat stokastisk gradientnedstigning"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Differensielt privat stokastisk gradientnedstigning
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /no/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:51:31.347972Z"
-lastmod: "2026-07-18T16:38:06.993769Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:51:31.347972Z'
+lastmod: '2026-07-18T16:38:06.993769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En optimeringsalgoritme som modifiserer standard SGD ved å klippe graidenter og legge til støy for å sikre at den trente modellen oppfyller kravene til differensielt personvern."
+source: agnes_llm
+status: published
+language: 'no'
+description: En optimeringsalgoritme som modifiserer standard SGD ved å klippe graidenter
+  og legge til støy for å sikre at den trente modellen oppfyller kravene til differensielt
+  personvern.
 ---
-
 ## Definition
 
 DP-SGD er en variant av Stokastisk Gradientnedstigning designet for å beskytte personvernet til treningsdata. Den fungerer ved å klippe bidraget fra hver prøves gradient for å begrense sensitiviteten, og deretter legge til G

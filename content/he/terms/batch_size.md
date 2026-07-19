@@ -1,23 +1,23 @@
 ---
-title: "גודל אצווה"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: גודל אצווה
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /he/terms/batch_size/
-date: "2026-07-18T15:46:08.202392Z"
-lastmod: "2026-07-18T17:15:09.516314Z"
+slug: batch_size
+date: '2026-07-18T15:46:08.202392Z'
+lastmod: '2026-07-18T17:15:09.516314Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מספר דוגמאות האימון המנוצלות באיטרציה אחת של אלגוריתם ירידת המדרג הסטוכסטית."
+source: agnes_llm
+status: published
+language: he
+description: מספר דוגמאות האימון המנוצלות באיטרציה אחת של אלגוריתם ירידת המדרג הסטוכסטית.
 ---
-
 ## Definition
 
 גודל האצווה הוא היפר-פרמטר קריטי הקובע כמה דגימות מעובדות לפני עדכון הפרמטרים הפנימיים של המודל. גודל אצווה גדול יותר מספק הערכה מדויקת יותר של ה-

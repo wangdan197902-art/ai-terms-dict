@@ -1,23 +1,24 @@
 ---
-title: "Reasoning"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Reasoning
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /el/terms/reasoning/
-date: "2026-07-18T15:44:09.922167Z"
-lastmod: "2026-07-18T17:15:09.870320Z"
+slug: reasoning
+date: '2026-07-18T15:44:09.922167Z'
+lastmod: '2026-07-18T17:15:09.870320Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η λογική σκέψη αναφέρεται στη γνωστική διαδικασία εξαγωγής συμπερασμάτων, πρόβλεψης ή επίλυσης προβλημάτων με βάση τις διαθέσιμες πληροφορίες."
+source: agnes_llm
+status: published
+language: el
+description: Η λογική σκέψη αναφέρεται στη γνωστική διαδικασία εξαγωγής συμπερασμάτων,
+  πρόβλεψης ή επίλυσης προβλημάτων με βάση τις διαθέσιμες πληροφορίες.
 ---
-
 ## Definition
 
 Στην Τεχνητή Νοημοσύνη, η λογική σκέψη περιλαμβάνει αλγορίθμους που προσομοιώνουν λογική απαγωγή, επαγωγή ή αβίδουξη για την επεξεργασία δεδομένων και τη δημιουργία εννοιών. Περιλαμβάνει τεχνικές όπως τη συμβολική λογική, τη πιθανοκρατική συλλογιστική και τη χρήση γνώσης.

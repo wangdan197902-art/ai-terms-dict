@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /nl/terms/vision_language/
 date: "2026-07-18T15:39:30.283067Z"
 lastmod: "2026-07-18T17:15:08.710670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Visie-Taalmodellen zijn AI-systemen die visuele gegevens verwerken en correleren met tekstuele informatie om multimodale contexten te begrijpen."
 ---
-
 ## Definition
 
 Visie-Taalmodellen, vaak aangeduid als Multimodale Grote Taalmodellen (MLLMs), integreren computer visie en natuurlijke taalverwerking. Ze stellen AI in staat afbeeldingen te begrijpen en tekst te genereren

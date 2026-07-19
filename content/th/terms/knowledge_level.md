@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /th/terms/knowledge_level/
 date: "2026-07-18T16:01:29.968294Z"
 lastmod: "2026-07-18T16:38:07.622737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "มุมมองการออกแบบเชิงนามธรรมที่มุ่งเน้นไปที่สิ่งที่ตัวแทน (agent) รู้ แทนที่จะเป็นวิธีการประมวลผลข้อมูลภายใน"
 ---
-
 ## Definition
 
 แนวคิดที่เสนอโดย Allen Newell ระดับความรู้วิเคราะห์ระบบอัจฉริยะโดยพิจารณาจากความเชื่อและเป้าหมายของระบบ โดยไม่ขึ้นอยู่กับวิธีการนำไปปฏิบัติทางกายภาพ ซึ่งแยกความมีเหตุผลของการกระทำออกจากกลไกการดำเนินงาน

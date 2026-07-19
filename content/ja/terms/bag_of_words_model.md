@@ -1,23 +1,23 @@
 ---
-title: "ボキャブラリーバッグモデル"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: ボキャブラリーバッグモデル
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /ja/terms/bag_of_words_model/
-date: "2026-07-18T11:05:58.596292Z"
-lastmod: "2026-07-18T11:44:45.072003Z"
+slug: bag_of_words_model
+date: '2026-07-18T11:05:58.596292Z'
+lastmod: '2026-07-18T11:44:45.072003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ボキャブラリーバッグモデルは、文法や語順を無視して、単語の出現頻度のみでドキュメントを記述するテキストの簡略化された表現方法です。"
+source: agnes_llm
+status: published
+language: ja
+description: ボキャブラリーバッグモデルは、文法や語順を無視して、単語の出現頻度のみでドキュメントを記述するテキストの簡略化された表現方法です。
 ---
-
 ## Definition
 
 この自然言語処理技法は、構文や順序を無視して、テキストを単語の多重集合（bag）として表します。これにより、単語の頻度や存在に基づいてドキュメントを数値ベクトルに変換します。

@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /pt/terms/token/
 date: "2026-07-18T14:40:25.887533Z"
 lastmod: "2026-07-18T15:51:59.441025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um token é uma unidade discreta de texto ou dados que serve como elemento básico de entrada para modelos de processamento de linguagem natural."
 ---
-
 ## Definition
 
 Os tokens são os blocos de construção fundamentais dos dados de entrada em PLN, representando tipicamente palavras, subpalavras ou caracteres. Grandes Modelos de Linguagem (LLMs) processam texto convertendo-o em tokens, que são...

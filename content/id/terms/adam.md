@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /id/terms/adam/
 date: "2026-07-18T15:23:13.605932Z"
 lastmod: "2026-07-18T16:38:07.388218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Algoritma optimisasi yang menghitung tingkat pembelajaran adaptif untuk setiap parameter."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation) adalah algoritma optimisasi berbasis gradien orde pertama yang populer digunakan dalam pelatihan jaringan saraf tiruan mendalam. Algoritma ini menggabungkan keunggulan dari dua ekstensi lain dari stokastik

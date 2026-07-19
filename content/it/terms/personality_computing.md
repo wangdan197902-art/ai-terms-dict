@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /it/terms/personality_computing/
 date: "2026-07-18T16:15:59.533583Z"
 lastmod: "2026-07-18T17:15:08.657877Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un campo di studio focalizzato sulla creazione di modelli computazionali che simulano i tratti della personalità umana per migliorare l'interazione tra uomo e computer."
 ---
-
 ## Definition
 
 Il calcolo della personalità comporta lo sviluppo di algoritmi e sistemi capaci di modellare, simulare o adattarsi alle dimensioni della personalità umana, come i tratti del modello dei Big Five. Questi sistemi mirano a creare

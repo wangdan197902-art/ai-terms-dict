@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /it/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:50:18.223667Z"
 lastmod: "2026-07-18T17:15:08.603707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un problema fondamentale nell'apprendimento supervisionato in cui la minimizzazione dell'errore richiede un equilibrio tra complessità del modello e capacità di generalizzazione."
 ---
-
 ## Definition
 
 Il compromesso bias-varianza descrive la tensione tra underfitting (alto bias) e overfitting (alta varianza). I modelli con alto bias fanno forti assunzioni sui dati, potenzialmente ignorando relazioni rilevanti.

@@ -1,23 +1,23 @@
 ---
-title: "语音活动检测"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: 语音活动检测
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /zh/terms/voice_activity_detection/
-date: "2026-07-18T11:37:50.895580Z"
-lastmod: "2026-07-18T11:44:45.567196Z"
+slug: voice_activity_detection
+date: '2026-07-18T11:37:50.895580Z'
+lastmod: '2026-07-18T11:44:45.567196Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "语音活动检测（VAD）是一种信号处理技术，用于识别包含人类语音的音频片段与静音或噪声之间的区别。"
+source: agnes_llm
+status: published
+language: zh
+description: 语音活动检测（VAD）是一种信号处理技术，用于识别包含人类语音的音频片段与静音或噪声之间的区别。
 ---
-
 ## Definition
 
 VAD 算法实时分析音频流，以区分活跃语音时段和非语音间隔（如背景噪声或停顿）。这对于优化带宽至关重要。

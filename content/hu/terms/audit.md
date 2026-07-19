@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /hu/terms/audit/
 date: "2026-07-18T15:46:21.362112Z"
 lastmod: "2026-07-18T17:15:09.756658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-rendszerek szisztematikus értékelése az etikai szabványoknak, a szabályozási követelményeknek és a teljesítménymutatóknak való megfelelés biztosítása érdekében."
 ---
-
 ## Definition
 
 Egy AI-audit magában foglalja a gépi tanulási modellek és azok telepítési folyamatainak szigorú, strukturált felülvizsgálatát. Megvizsgálja az igazságosságot, az átláthatóságot, a felelősséget és a biztonságot a lehetséges torzítások azonosítása érdekében.

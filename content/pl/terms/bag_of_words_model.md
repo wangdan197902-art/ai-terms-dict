@@ -1,23 +1,24 @@
 ---
-title: "Model worka słów"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Model worka słów
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /pl/terms/bag_of_words_model/
-date: "2026-07-18T15:42:35.487270Z"
-lastmod: "2026-07-18T17:15:08.849227Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:42:35.487270Z'
+lastmod: '2026-07-18T17:15:08.849227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Model worka słów to uproszczona reprezentacja tekstu opisująca występowanie słów w dokumencie, ignorująca gramatykę i kolejność słów."
+source: agnes_llm
+status: published
+language: pl
+description: Model worka słów to uproszczona reprezentacja tekstu opisująca występowanie
+  słów w dokumencie, ignorująca gramatykę i kolejność słów.
 ---
-
 ## Definition
 
 Ta technologia przetwarzania języka naturalnego reprezentuje tekst jako multizbiór słów, pomijając składnię i sekwencję. Przekształca dokumenty wektory liczbowe oparte na częstotliwości występowania słów lub ich obecności.

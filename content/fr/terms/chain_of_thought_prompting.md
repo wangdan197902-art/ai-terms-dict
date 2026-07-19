@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /fr/terms/chain_of_thought_prompting/
 date: "2026-07-18T10:59:05.923980Z"
 lastmod: "2026-07-18T11:44:45.182760Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'incitation à la chaîne de pensée est une technique qui encourage les grands modèles de langage à générer des étapes de raisonnement intermédiaires avant de produire une réponse finale."
 ---
-
 ## Definition
 
 L'incitation à la chaîne de pensée (CoT) améliore les performances des grands modèles de langage sur des tâches de raisonnement complexes en demandant explicitement au modèle d'articuler sa logique étape par étape. Au lieu de sauter directement à la conclusion, le modèle décompose le problème.

@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /fi/terms/sparkles_emoji/
 date: "2026-07-18T16:21:58.175915Z"
 lastmod: "2026-07-18T17:15:09.462211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Visuaalinen symboli, jota käytetään usein tekoälyliittymissä uusien ominaisuuksien, parannusten tai generoidun sisällön taianomaisten muutosten merkitsemiseen."
 ---
-
 ## Definition
 
 Kimaltavat tähdet -emoji on graafinen kuvake, jota käytetään usein tekoälysovellusten käyttöliittymissä osoittamaan uutuutta, parannusta tai luovaa lisäarvoa. Se toimii ei-kielellisenä vihjeenä, joka ilmaisee käyttäjälle, että sisältö on päivitetty tai parannettu.

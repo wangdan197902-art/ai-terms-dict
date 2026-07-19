@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /tr/terms/superintelligence_ban/
 date: "2026-07-18T16:16:02.053848Z"
 lastmod: "2026-07-18T16:38:07.369603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsan bilişsel yeteneklerini aşan yapay genel zekanın geliştirilmesinin yasaklanmasını savunan önerilen bir düzenleyici önlem veya etik tutum."
 ---
-
 ## Definition
 
 Bu kavram, Yapay Üstün Zeka'nın (ASI) araştırmasına yönelik kısıtlama veya tamamen durdurma politikası tartışmasını ifade eder. Savunucular, ASI'nin varoluşsal riskler oluşturduğunu iddia eder.

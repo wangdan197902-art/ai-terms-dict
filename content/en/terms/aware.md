@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /en/terms/aware/
 date: "2026-07-18T09:30:18.556356Z"
 lastmod: "2026-07-18T11:44:44.593350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Indicates an AI's capacity to detect and process specific contextual information or stimuli."
 ---
-
 ## Definition
 
 In AI contexts, 'aware' typically refers to situational or contextual awareness, where a system recognizes relevant environmental factors or user states. It does not imply consciousness but rather the successful integration of sensor data or context clues into decision-making models. For example, a voice assistant is 'context-aware' if it understands previous commands to provide coherent responses, enhancing user experience through personalized interactions.

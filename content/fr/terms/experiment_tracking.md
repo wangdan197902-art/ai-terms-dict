@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /fr/terms/experiment_tracking/
 date: "2026-07-18T11:16:27.834400Z"
 lastmod: "2026-07-18T11:44:45.248555Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le suivi des expériences est le processus systématique d'enregistrement des métadonnées, des métriques et des artefacts issus des expériences d'apprentissage automatique afin d'assurer la reproductibi"
 ---
-
 ## Definition
 
 Cette pratique implique la journalisation des hyperparamètres, des versions des jeux de données, des architectures de modèles et des métriques de performance lors des exécutions d'entraînement. Elle permet aux scientifiques des données de comparer différentes configurations expérimentales.

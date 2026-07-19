@@ -1,23 +1,26 @@
 ---
-title: "Diffusion Single File"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Diffusion Single File
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /hu/terms/diffusion_single_file/
-date: "2026-07-18T15:57:22.016525Z"
-lastmod: "2026-07-18T17:15:09.777461Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:57:22.016525Z'
+lastmod: '2026-07-18T17:15:09.777461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy difúziós modellek terjesztési formátuma, ahol az összes modell súly, konfiguráció és néha még a levezetési kód is egyetlen fájlba van csomagolva a könnyű hordozhatóság érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Egy difúziós modellek terjesztési formátuma, ahol az összes modell súly,
+  konfiguráció és néha még a levezetési kód is egyetlen fájlba van csomagolva a könnyű
+  hordozhatóság érdekében.
 ---
-
 ## Definition
 
 A Diffusion Single File a gépi tanulási modellek, különösen a difúziós modellek csomagolási stratégiájára utal, ahol az egész modellartifact – beleértve a bináris súlyokat, hiperparamétereket és a modell architektúráját – egyetlen fájlba kerül.

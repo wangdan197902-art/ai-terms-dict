@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /ar/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T16:21:01.486764Z"
 lastmod: "2026-07-18T17:15:08.548997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "إطار رياضي رسمي للتنبؤ بالملاحظات المستقبلية بناءً على البيانات الماضية باستخدام الاحتمالية الخوارزمية."
 ---
-
 ## Definition
 
 طوّرها راي سولومونوف، توفر هذه النظرية نموذجاً شاملاً للاستدلال من خلال تعيين احتمالات لتسلسلات البيانات بناءً على تعقيدها. تفترض أن الشروحات الأبسط (البرامج الأقصر)...

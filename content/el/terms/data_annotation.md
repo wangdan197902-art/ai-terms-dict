@@ -1,23 +1,25 @@
 ---
-title: "Data annotation"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: Data annotation
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /el/terms/data_annotation/
-date: "2026-07-18T15:58:51.268347Z"
-lastmod: "2026-07-18T17:15:09.894653Z"
+slug: data_annotation
+date: '2026-07-18T15:58:51.268347Z'
+lastmod: '2026-07-18T17:15:09.894653Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η επισήμανση δεδομένων είναι η διαδικασία ετικετοποίησης ωμών δεδομένων, όπως εικόνες ή κείμενο, ώστε να καταστούν κατάλληλα για εκπαίδευση εποπτευόμενης μηχανικής μάθησης."
+source: agnes_llm
+status: published
+language: el
+description: Η επισήμανση δεδομένων είναι η διαδικασία ετικετοποίησης ωμών δεδομένων,
+  όπως εικόνες ή κείμενο, ώστε να καταστούν κατάλληλα για εκπαίδευση εποπτευόμενης
+  μηχανικής μάθησης.
 ---
-
 ## Definition
 
 Αυτό το κρίσιμο βήμα περιλαμβάνει την προσκόλληση σημασιούχων μεταδεδομένων σε σημεία ωμών δεδομένων ώστε οι αλγόριθμοι να μπορούν να μάθουν τη σχέση μεταξύ εισόδου και εξόδου. Για παράδειγμα, πλαίσια ορίων γύρω από αντικείμενα σε εικόνες

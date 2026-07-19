@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /cs/terms/building/
 date: "2026-07-18T15:23:43.862581Z"
 lastmod: "2026-07-18T17:15:09.064941Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Praktická fáze vývoje, tréninku a nasazení modelů a systémů AI od počátečního návrhu po připravenost pro produkci."
 ---
-
 ## Definition
 
 Building označuje end-to-end inženýrský proces vytváření řešení AI, který zahrnuje sběr dat, výběr modelu, trénink, validaci a nasazení. Zahrnuje technickou infrastrukturu potřebnou pro provoz.

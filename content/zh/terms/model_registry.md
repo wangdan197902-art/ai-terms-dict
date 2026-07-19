@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /zh/terms/model_registry/
 date: "2026-07-18T11:26:37.042776Z"
 lastmod: "2026-07-18T11:44:45.533478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "用于在整个机器学习生命周期中跟踪和管理模型的集中式存储和系统。"
 ---
-
 ## Definition
 
 模型注册表是 MLOps 中的关键组件，提供用于存储、版本控制和管理的统一仓库。它使团队能够跟踪模型元数据、性能指标等。

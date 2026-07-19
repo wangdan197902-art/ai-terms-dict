@@ -1,23 +1,23 @@
 ---
-title: "インスタンスベース学習"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: インスタンスベース学習
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /ja/terms/instance_based_learning/
-date: "2026-07-18T11:19:39.944399Z"
-lastmod: "2026-07-18T11:44:45.110006Z"
+slug: instance_based_learning
+date: '2026-07-18T11:19:39.944399Z'
+lastmod: '2026-07-18T11:44:45.110006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "新しい入力を保存されたトレーニングインスタンスと比較することで予測を行う遅延学習のアプローチ。"
+source: agnes_llm
+status: published
+language: ja
+description: 新しい入力を保存されたトレーニングインスタンスと比較することで予測を行う遅延学習のアプローチ。
 ---
-
 ## Definition
 
 メモリベース学習とも呼ばれ、この手法はトレーニング中に汎化モデルを構築しません。代わりに、トレーニングデータセット全体を保存します。予測が必要になると、最も類似した...

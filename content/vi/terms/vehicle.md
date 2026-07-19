@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /vi/terms/vehicle/
 date: "2026-07-18T15:30:09.265238Z"
 lastmod: "2026-07-18T16:38:07.699129Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong ngữ cảnh AI, phương tiện thường đề cập đến nền tảng hoặc môi trường thông qua đó các mô hình AI được triển khai hoặc phân phối đến người dùng cuối."
 ---
-
 ## Definition
 
 Mặc dù truyền thống mang nghĩa là phương tiện vận tải, nhưng trong thuật ngữ AI, 'phương tiện' có thể được dùng theo nghĩa bóng để mô tả cơ chế phân phối các dịch vụ thông minh, chẳng hạn như ứng dụng di động, giao diện web hoặc hệ thống nhúng.

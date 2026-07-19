@@ -1,23 +1,23 @@
 ---
-title: "การผสานรวมกับ IDE"
-term_id: "ide_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "productivity"]
+title: การผสานรวมกับ IDE
+term_id: ide_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- productivity
 difficulty: 2
 weight: 1
-slug: "ide_integration"
-aliases:
-  - /th/terms/ide_integration/
-date: "2026-07-18T15:59:31.173468Z"
-lastmod: "2026-07-18T16:38:07.616874Z"
+slug: ide_integration
+date: '2026-07-18T15:59:31.173468Z'
+lastmod: '2026-07-18T16:38:07.616874Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การผสานรวม IDE หมายถึงการฝังเครื่องมือที่ขับเคลื่อนด้วย AI เข้าโดยตรงในสภาพแวดล้อมการพัฒนาแบบบูรณาการ เพื่อช่วยนักโปรแกรมเมอร์ในงานเขียนโค้ด"
+source: agnes_llm
+status: published
+language: th
+description: การผสานรวม IDE หมายถึงการฝังเครื่องมือที่ขับเคลื่อนด้วย AI เข้าโดยตรงในสภาพแวดล้อมการพัฒนาแบบบูรณาการ
+  เพื่อช่วยนักโปรแกรมเมอร์ในงานเขียนโค้ด
 ---
-
 ## Definition
 
 แนวทางนี้เกี่ยวข้องกับการเชื่อมต่อโมเดล AI เช่น โมเดลภาษาขนาดใหญ่ (LLMs) กับสภาพแวดล้อมการพัฒนาซอฟต์แวร์อย่าง VS Code หรือ IntelliJ ทำให้เกิดฟีเจอร์ต่างๆ เช่น การเติมโค้ดอัจฉริยะและการทำซ้ำอัตโนมัติ

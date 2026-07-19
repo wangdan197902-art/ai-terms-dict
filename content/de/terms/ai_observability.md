@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /de/terms/ai_observability/
 date: "2026-07-18T11:01:16.040316Z"
 lastmod: "2026-07-18T11:44:44.904402Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Praxis des Überwachens und Verstehens des internen Zustands von Machine-Learning-Systemen durch Protokolle, Metriken und Ablaufverfolgungen."
 ---
-
 ## Definition
 
 KI-Observability erweitert die traditionelle Softwareüberwachung, um den einzigartigen Herausforderungen von Machine-Learning-Systemen gerecht zu werden. Sie umfasst das Echtzeit-Tracking der Modellleistung, der Datenverschiebung (Data Drift) und der Latenzzeiten bei der Inferenz, um Einblicke in das Verhalten komplexer, nicht-deterministischer Modelle zu ermöglichen.

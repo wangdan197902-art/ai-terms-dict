@@ -1,23 +1,24 @@
 ---
-title: "آلة غودل"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: آلة غودل
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /ar/terms/gödel_machine/
-date: "2026-07-18T16:00:33.665793Z"
-lastmod: "2026-07-18T17:15:08.510873Z"
+slug: gödel_machine
+date: '2026-07-18T16:00:33.665793Z'
+lastmod: '2026-07-18T17:15:08.510873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "برنامج ذكاء اصطناعي نظري قابل للتحسين الذاتي يمكنه إعادة كتابة شفرة المصدر الخاصة به ليصبح أكثر كفاءة دون تغيير أهدافه."
+source: agnes_llm
+status: published
+language: ar
+description: برنامج ذكاء اصطناعي نظري قابل للتحسين الذاتي يمكنه إعادة كتابة شفرة المصدر
+  الخاصة به ليصبح أكثر كفاءة دون تغيير أهدافه.
 ---
-
 ## Definition
 
 آلة غودل هي محلل مشاكل عام افتراضي اقترحه يورغن شميدهوبر، وتستند إلى المنطق الرسمي ونظرية القابلية للحساب. تعمل من خلال تحليل شفرة المصدر الخاصة بها باستمرار لتحديد ما إذا كان يمكن تحسين أدائها، وإعادة كتابتها بشكل آلي إذا كان ذلك يحقق فائدة أكبر وفقاً لدالة المنفعة المحددة مسبقاً.

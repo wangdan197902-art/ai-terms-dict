@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /fi/terms/genesis_mission/
 date: "2026-07-18T15:59:25.050682Z"
 lastmod: "2026-07-18T17:15:09.414850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestöaloite, jonka tavoitteena on luoda perustavanlaatuiset tekoälyperiaatteet, infrastruktuuri ja eettiset ohjeet tulevaa generatiivista tekoälykehitystä varten."
 ---
-
 ## Definition
 
 Genesis-lähetys viittaa tyypillisesti strategiseen vaiheeseen tai hankkeeseen organisaatiossa, jonka tavoitteena on luoda pohja edistyneille tekoälykyvyille. Tämä sisältää ydininfrastruktuurin pystyttämisen, d

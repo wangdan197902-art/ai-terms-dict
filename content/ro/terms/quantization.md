@@ -1,23 +1,24 @@
 ---
-title: "Cantizare"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Cantizare
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /ro/terms/quantization/
-date: "2026-07-18T15:37:35.875059Z"
-lastmod: "2026-07-18T17:15:09.617497Z"
+slug: quantization
+date: '2026-07-18T15:37:35.875059Z'
+lastmod: '2026-07-18T17:15:09.617497Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de optimizare a modelului care reduce precizia numerelor utilizate în calculele rețelelor neuronale pentru a diminua dimensiunea și a îmbunătăți viteza."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de optimizare a modelului care reduce precizia numerelor utilizate
+  în calculele rețelelor neuronale pentru a diminua dimensiunea și a îmbunătăți viteza.
 ---
-
 ## Definition
 
 Cantizarea convertește numerele cu virgulă mobilă de înaltă precizie (cum ar fi FP32) în formate de precizie mai scăzută (cum ar fi INT8 sau FP16). Această reducere scade utilizarea memoriei modelului și cerințele computaționale pentru inferență.

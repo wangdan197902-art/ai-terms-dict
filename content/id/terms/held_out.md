@@ -1,23 +1,24 @@
 ---
-title: "held-out (data yang disisihkan)"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: held-out (data yang disisihkan)
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /id/terms/held_out/
-date: "2026-07-18T15:31:45.413608Z"
-lastmod: "2026-07-18T16:38:07.408114Z"
+slug: held_out
+date: '2026-07-18T15:31:45.413608Z'
+lastmod: '2026-07-18T16:38:07.408114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sampel data yang dicadangkan dari himpunan pelatihan untuk mengevaluasi kinerja model dan mencegah overfitting selama pengembangan."
+source: agnes_llm
+status: published
+language: id
+description: Sampel data yang dicadangkan dari himpunan pelatihan untuk mengevaluasi
+  kinerja model dan mencegah overfitting selama pengembangan.
 ---
-
 ## Definition
 
 Dataset 'held-out' terdiri dari contoh-contoh yang sengaja dikecualikan dari fase pelatihan model pembelajaran mesin. Subset ini digunakan untuk menilai seberapa baik model dapat digeneralisasi ke data yang belum pernah dilihat sebelumnya, memberikan estimasi kinerja yang tidak bias terhadap data baru.

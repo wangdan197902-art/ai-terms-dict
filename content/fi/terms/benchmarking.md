@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /fi/terms/benchmarking/
 date: "2026-07-18T15:23:36.545024Z"
 lastmod: "2026-07-18T17:15:09.346843Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestelmällinen prosessi, jossa tekoälymalleja testataan vertailuarvojen avulla kvantifioidakseen niiden suorituskyvyn ja tunnistaa parannuskohteita."
 ---
-
 ## Definition
 
 Vertailuarvostus on aktiivinen käytäntö, jossa suoritetaan kokeita mitatakseen, kuinka hyvin tekoälymalli suoriutuu tietyistä tehtävistä ennalta määriteltyjen vertailuarvojen avulla. Tämä prosessi sisältää mallien ajamisen standardoitujen testien läpi ja tulosten analysoinnin.

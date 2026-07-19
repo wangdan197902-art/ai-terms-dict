@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /el/terms/exbert/
-date: "2026-07-18T16:06:03.427476Z"
-lastmod: "2026-07-18T17:15:09.906415Z"
+slug: exbert
+date: '2026-07-18T16:06:03.427476Z'
+lastmod: '2026-07-18T17:15:09.906415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μέθοδος εξήγησης των προβλέψεων του BERT εντοπίζοντας ποια κεφάλια προσοχής και στρώματα συμβάλλουν περισσότερο σε συγκεκριμένες εξόδους."
+source: agnes_llm
+status: published
+language: el
+description: Μια μέθοδος εξήγησης των προβλέψεων του BERT εντοπίζοντας ποια κεφάλια
+  προσοχής και στρώματα συμβάλλουν περισσότερο σε συγκεκριμένες εξόδους.
 ---
-
 ## Definition
 
 Το ExBERT παρέχει ερμηνευσιμότητα στο μοντέλο μετατροπέα BERT αναλύοντας τη σημασία των επιμέρους κεφαλιών προσοχής σε διαφορετικά στρώματα. Χρησιμοποιεί τεχνικές όπως η αποδοχή βασισμένη σε παραγώγους ή η ανάλυση συνεισφοράς για να αποκαλύψει πώς το μοντέλο λαμβάνει αποφάσεις.

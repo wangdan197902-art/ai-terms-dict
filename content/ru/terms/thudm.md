@@ -1,23 +1,23 @@
 ---
-title: "THUDM"
-term_id: "thudm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organizations", "open_source"]
+title: THUDM
+term_id: thudm
+category: basic_concepts
+subcategory: ''
+tags:
+- organizations
+- Open Source
 difficulty: 2
 weight: 1
-slug: "thudm"
-aliases:
-  - /ru/terms/thudm/
-date: "2026-07-18T16:18:47.469790Z"
-lastmod: "2026-07-18T16:38:07.210283Z"
+slug: thudm
+date: '2026-07-18T16:18:47.469790Z'
+lastmod: '2026-07-18T16:38:07.210283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "THUDM — исследовательская группа в Университете Цинхуа, известная разработкой открытых ИИ-моделей, таких как ChatGLM."
+source: agnes_llm
+status: published
+language: ru
+description: THUDM — исследовательская группа в Университете Цинхуа, известная разработкой
+  открытых ИИ-моделей, таких как ChatGLM.
 ---
-
 ## Definition
 
 THUDM (Группа исследований обработки естественного языка Университета Цинхуа) — видный академический и исследовательский институт, сосредоточенный на искусственном интеллекте, особенно в области обработки естественного языка. Они активно публикуют открытые модели и инструменты.

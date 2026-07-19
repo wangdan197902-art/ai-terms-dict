@@ -1,23 +1,23 @@
 ---
-title: "コンピュータオーディション"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: コンピュータオーディション
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /ja/terms/computer_audition/
-date: "2026-07-18T11:08:38.545676Z"
-lastmod: "2026-07-18T11:44:45.079459Z"
+slug: computer_audition
+date: '2026-07-18T11:08:38.545676Z'
+lastmod: '2026-07-18T11:44:45.079459Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "コンピュータオーディションとは、機械が人間と同様に音声信号を知覚し理解することを可能にする研究分野です。"
+source: agnes_llm
+status: published
+language: ja
+description: コンピュータオーディションとは、機械が人間と同様に音声信号を知覚し理解することを可能にする研究分野です。
 ---
-
 ## Definition
 
 コンピュータオーディションには、コンピュータが音声波形から意味のある情報を抽出できるようにするアルゴリズムの開発が含まれます。これには、音声認識や音楽ジャンル分類などのタスクが含まれます。

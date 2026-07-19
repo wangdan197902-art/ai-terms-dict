@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /nl/terms/embodied_cognitive_science/
 date: "2026-07-18T15:53:53.249436Z"
 lastmod: "2026-07-18T17:15:08.741283Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Belichaamde cognitiewetenschap is een theoretisch kader dat stelt dat menselijke cognitie fundamenteel wordt gevormd door de interacties van het lichaam met de omgeving."
 ---
-
 ## Definition
 
 Dit vakgebied daagt traditionele opvattingen uit die de geest beschouwen als een computer die abstracte symbolen verwerkt. In plaats daarvan betoogt het dat cognitieve processen diep geworteld zijn in de fysieke kenmerken van het lichaam en de manier waarop dit lichaam communiceert met de wereld.

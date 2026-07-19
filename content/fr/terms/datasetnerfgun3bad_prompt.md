@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /fr/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T11:12:10.491541Z"
 lastmod: "2026-07-18T11:44:45.237457Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données de niche contenant probablement des invites (prompts) adverses, de faible qualité ou intentionnellement mal formées, utilisées pour tester la robustesse ou filtrer les entrées bruité"
 ---
-
 ## Definition
 
 Ce terme fait référence à un jeu de données spécifique hébergé sur Hugging Face sous l'utilisateur 'Nerfgun3', intitulé 'Bad Prompt'. Bien que moins standard que les benchmarks majeurs, de tels jeux de données sont souvent utilisés pour étudier la robustesse des modèles...

@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /he/terms/artificial_consciousness/
 date: "2026-07-18T15:42:30.696328Z"
 lastmod: "2026-07-18T17:15:09.512877Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הקונספט התאורטי של הענקת חוויות סובייקטיביות, מודעות עצמית ותחושה למכונות, הדומות לאנושיות."
 ---
-
 ## Definition
 
 מודעות מלאכותית חוקרת את האפשרות ליצור מכונות בעלות חוויות סובייקטיביות אמיתיות, מודעות עצמית ותחושות, ולא רק סימולציה של התנהגות אינטליגנטית. זהו תחום המערב שאלות פילוסופיות עמוקות על טבע המודעות.

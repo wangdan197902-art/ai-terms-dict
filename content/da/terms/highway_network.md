@@ -1,23 +1,24 @@
 ---
-title: "Highway-netværk"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Highway-netværk
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /da/terms/highway_network/
-date: "2026-07-18T16:00:09.047932Z"
-lastmod: "2026-07-18T17:15:09.296272Z"
+slug: highway_network
+date: '2026-07-18T16:00:09.047932Z'
+lastmod: '2026-07-18T17:15:09.296272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En dyb neuronal netværksarkitektur, der introducerer gatingsmekanismer for at lette gradientflow gennem meget dybe netværk."
+source: agnes_llm
+status: published
+language: da
+description: En dyb neuronal netværksarkitektur, der introducerer gatingsmekanismer
+  for at lette gradientflow gennem meget dybe netværk.
 ---
-
 ## Definition
 
 Highway Networks er designet til at adressere problemet med forsvindende gradienter i deep learning ved at inkorporere adaptive porte, der styrer informationsflowet. Ligesom LSTM-celler tillader disse porte netværket at lære, hvornår det skal transformere input eller lade det passere uændret, hvilket gør det muligt at træne meget dybe arkitekturer effektivt.

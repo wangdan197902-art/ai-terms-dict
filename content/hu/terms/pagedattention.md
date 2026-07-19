@@ -1,23 +1,25 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /hu/terms/pagedattention/
-date: "2026-07-18T16:16:59.963870Z"
-lastmod: "2026-07-18T17:15:09.820616Z"
+slug: pagedattention
+date: '2026-07-18T16:16:59.963870Z'
+lastmod: '2026-07-18T17:15:09.820616Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A PagedAttention egy memóriakezelő algoritmus, amely a virtuális memória lapozási koncepcióit alkalmazza a transzformátor modellek kulcs-érték (KV) gyorsítótárának tárolásának és hozzáférésének optima"
+source: agnes_llm
+status: published
+language: hu
+description: A PagedAttention egy memóriakezelő algoritmus, amely a virtuális memória
+  lapozási koncepcióit alkalmazza a transzformátor modellek kulcs-érték (KV) gyorsítótárának
+  tárolásának és hozzáférésének optima
 ---
-
 ## Definition
 
 A PagedAttention a vLLM projekt által bevezetett technika, amely javítja a nagy nyelvi modellek (LLM) inferenciájának hatékonyságát. Kezeli a KV gyorsítótár kezeléséből adódó memóriaszóródást (fragmentation) és túlterhelést, lehetővé téve a hatékonyabb memóriahasználatot.

@@ -1,23 +1,23 @@
 ---
-title: "分层"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: 分层
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /zh/terms/hierarchical/
-date: "2026-07-18T10:51:52.868991Z"
-lastmod: "2026-07-18T11:44:45.370943Z"
+slug: hierarchical
+date: '2026-07-18T10:51:52.868991Z'
+lastmod: '2026-07-18T11:44:45.370943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "指组织为多个抽象级别的AI架构或学习策略，高级别控制低级别。"
+source: agnes_llm
+status: published
+language: zh
+description: 指组织为多个抽象级别的AI架构或学习策略，高级别控制低级别。
 ---
-
 ## Definition
 
 分层AI系统将信息或控制组织成嵌套层的树状结构。在强化学习中，分层强化学习（Hierarchical RL）将复杂任务分解为由高层管理的子目标...

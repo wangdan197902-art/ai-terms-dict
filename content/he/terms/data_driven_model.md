@@ -1,23 +1,24 @@
 ---
-title: "מודל מונחה נתונים"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: מודל מונחה נתונים
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /he/terms/data_driven_model/
-date: "2026-07-18T15:51:22.060895Z"
-lastmod: "2026-07-18T17:15:09.526373Z"
+slug: data_driven_model
+date: '2026-07-18T15:51:22.060895Z'
+lastmod: '2026-07-18T17:15:09.526373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מודל חישובי שפרמטריו ומבנהו נלמדים ישירות מנתונים אמפיריים במקום בתכנות מפורש."
+source: agnes_llm
+status: published
+language: he
+description: מודל חישובי שפרמטריו ומבנהו נלמדים ישירות מנתונים אמפיריים במקום בתכנות
+  מפורש.
 ---
-
 ## Definition
 
 מודל מונחה נתונים הוא סוג של מערכת בינה מלאכותית שבה ההתנהגות והתחזיות נובעות מדפוסים שזוהו בתוך נתונים היסטוריים, במקום להיות מוגדרות על ידי כללים מתוכנתים בקוד (Hard-coded) או מודלים פיזיקליים אנליטיים.

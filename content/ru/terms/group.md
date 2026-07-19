@@ -1,23 +1,24 @@
 ---
-title: "Группа"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: Группа
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /ru/terms/group/
-date: "2026-07-18T15:26:01.922352Z"
-lastmod: "2026-07-18T16:38:07.078481Z"
+slug: group
+date: '2026-07-18T15:26:01.922352Z'
+lastmod: '2026-07-18T16:38:07.078481Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фундаментальная математическая структура, состоящая из множества, снабженного операцией, которая комбинирует любые два элемента для образования третьего."
+source: agnes_llm
+status: published
+language: ru
+description: Фундаментальная математическая структура, состоящая из множества, снабженного
+  операцией, которая комбинирует любые два элемента для образования третьего.
 ---
-
 ## Definition
 
 В математике и теоретической информатике группа — это множество G вместе с бинарной операцией, удовлетворяющей четырем аксиомам: замкнутости, ассоциативности, наличию нейтрального элемента и обратимости. В ИИ теория групп...

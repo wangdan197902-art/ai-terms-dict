@@ -1,23 +1,23 @@
 ---
-title: "残差连接"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: 残差连接
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /zh/terms/residual_connection/
-date: "2026-07-18T11:01:52.849059Z"
-lastmod: "2026-07-18T11:44:45.405716Z"
+slug: residual_connection
+date: '2026-07-18T11:01:52.849059Z'
+lastmod: '2026-07-18T11:44:45.405716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种将输入直接加到层输出上的机制，以促进深层网络中的梯度流动。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种将输入直接加到层输出上的机制，以促进深层网络中的梯度流动。
 ---
-
 ## Definition
 
 残差连接（也称为跳跃连接）通过将输入直接添加到后续层的输出来允许梯度在网络中流动。这种架构解决了深层网络中的梯度消失问题。

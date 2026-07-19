@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /no/terms/ai_infrastructure/
 date: "2026-07-18T15:40:11.013783Z"
 lastmod: "2026-07-18T16:38:06.966082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Maskinvare, programvare og nettverksressurser som kreves for å utvikle, trene og distribuere kunstige intelligensmodeller i stor skala."
 ---
-
 ## Definition
 
 AI-infrastruktur omfatter det grunnleggende teknologistakket som er nødvendig for operasjoner med kunstig intelligens. Dette inkluderer høytydende datamaskinvare som GPU-er og TPU-er, skybasert lagring og nettverkskapasitet for håndtering av store datamengder.

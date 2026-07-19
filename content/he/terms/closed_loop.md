@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /he/terms/closed_loop/
 date: "2026-07-18T15:32:15.242250Z"
 lastmod: "2026-07-18T17:15:09.491329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת בקרה שבה משוב הפלט משמש באופן רציף להתאמת פעולות עתידיות."
 ---
-
 ## Definition
 
 מערכות עם משוב (Closed-loop) ב-AI משתמשות במשוב בזמן אמת מהסביבה כדי להתאים דינמית את ההתנהגות או הפרמטרים שלהן. זה מנוגד למערכות ללא משוב (Open-loop) המבצעות רצפים מוגדרים מראש ללא התאמה.

@@ -1,23 +1,23 @@
 ---
-title: "อำนาจในการควบคุม"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: อำนาจในการควบคุม
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /th/terms/empowerment/
-date: "2026-07-18T15:51:59.004505Z"
-lastmod: "2026-07-18T16:38:07.602762Z"
+slug: empowerment
+date: '2026-07-18T15:51:59.004505Z'
+lastmod: '2026-07-18T16:38:07.602762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วัตถุประสงค์ในการเรียนรู้แบบเสริมกำลังที่วัดความสามารถของเอเจนต์ในการมีอิทธิพลต่อสถานะในอนาคตผ่านการกระทำของตน"
+source: agnes_llm
+status: published
+language: th
+description: วัตถุประสงค์ในการเรียนรู้แบบเสริมกำลังที่วัดความสามารถของเอเจนต์ในการมีอิทธิพลต่อสถานะในอนาคตผ่านการกระทำของตน
 ---
-
 ## Definition
 
 ในการเรียนรู้แบบเสริมกำลังและปัญญาประดิษฐ์ อำนาจในการควบคุม (Empowerment) เป็นตัวชี้วัดแรงจูงใจภายในที่ปริมาณระดับการควบคุมที่เอเจนต์มีต่อสิ่งแวดล้อมของตน นิยามว่าเป็นข้อมูลร่วม (mutual information)

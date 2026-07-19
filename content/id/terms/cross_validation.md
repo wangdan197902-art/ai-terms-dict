@@ -1,23 +1,25 @@
 ---
-title: "Validasi Silang"
-term_id: "cross_validation"
-category: "training_techniques"
-subcategory: ""
-tags: ["evaluation", "machine-learning", "statistics"]
+title: Validasi Silang
+term_id: cross_validation
+category: training_techniques
+subcategory: ''
+tags:
+- evaluation
+- Machine Learning
+- statistics
 difficulty: 2
 weight: 1
-slug: "cross_validation"
-aliases:
-  - /id/terms/cross_validation/
-date: "2026-07-18T15:44:31.926120Z"
-lastmod: "2026-07-18T16:38:07.441742Z"
+slug: cross_validation
+date: '2026-07-18T15:44:31.926120Z'
+lastmod: '2026-07-18T16:38:07.441742Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Prosedur pengambilan sampel ulang yang digunakan untuk mengevaluasi model pembelajaran mesin pada sampel data terbatas dengan membagi data menjadi subset untuk pelatihan dan pengujian."
+source: agnes_llm
+status: published
+language: id
+description: Prosedur pengambilan sampel ulang yang digunakan untuk mengevaluasi model
+  pembelajaran mesin pada sampel data terbatas dengan membagi data menjadi subset
+  untuk pelatihan dan pengujian.
 ---
-
 ## Definition
 
 Validasi silang adalah metode statistik yang digunakan untuk memperkirakan kinerja model pembelajaran mesin. Bentuk yang paling umum adalah validasi silang k-fold, di mana data dibagi menjadi k bagian yang sama besar. Model kemudian dilatih dan diuji secara bergantian pada bagian-bagian tersebut.

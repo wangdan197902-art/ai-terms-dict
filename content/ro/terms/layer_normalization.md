@@ -1,23 +1,24 @@
 ---
-title: "Normalizare pe straturi"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Normalizare pe straturi
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /ro/terms/layer_normalization/
-date: "2026-07-18T16:07:50.475066Z"
-lastmod: "2026-07-18T17:15:09.673450Z"
+slug: layer_normalization
+date: '2026-07-18T16:07:50.475066Z'
+lastmod: '2026-07-18T17:15:09.673450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică care normalizează activările unui strat de rețea neuronală de-a lungul dimensiunii caracteristicilor pentru fiecare eșantion individual."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică care normalizează activările unui strat de rețea neuronală
+  de-a lungul dimensiunii caracteristicilor pentru fiecare eșantion individual.
 ---
-
 ## Definition
 
 Normalizarea pe straturi stabilizează antrenamentul reducând schimbarea covarianței interne, fiind particular eficientă în arhitecturile recurente și transformator. Spre deosebire de Normalizarea pe loturi, care depinde de statisticile lotului, aceasta calculează media și varianța pentru fiecare eșantimon în parte.

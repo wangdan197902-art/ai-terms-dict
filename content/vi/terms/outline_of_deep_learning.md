@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /vi/terms/outline_of_deep_learning/
 date: "2026-07-18T16:06:19.770236Z"
 lastmod: "2026-07-18T16:38:07.790005Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cái nhìn có cấu trúc về các phương pháp luận, kiến trúc và chiến lược tối ưu hóa của học sâu."
 ---
-
 ## Definition
 
 Tổng quan về học sâu bao gồm các cấu trúc cơ bản như các lớp mạng nơ-ron, hàm kích hoạt và chỉ số mất mát. Nó chi tiết hóa các kỹ thuật huấn luyện bao gồm lan truyền ngược và gradient descent.

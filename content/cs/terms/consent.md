@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /cs/terms/consent/
 date: "2026-07-18T15:49:20.444259Z"
 lastmod: "2026-07-18T17:15:09.113115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Explicitní informovaný souhlas jednotlivců s tím, aby jejich data byla sbírána a zpracovávána pro účely AI."
 ---
-
 ## Definition
 
 V etice AI se souhlas vztahuje na dobrovolné a informované povolení udělené uživateli nebo subjekty před tím, než jsou jejich osobní data sbírána, ukládána nebo využívána v modelech strojového učení. Vyžaduje jasné a svobodné rozhodnutí.

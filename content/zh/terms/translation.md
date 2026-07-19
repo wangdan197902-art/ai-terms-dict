@@ -1,23 +1,23 @@
 ---
-title: "Translation"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Translation
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /zh/terms/translation/
-date: "2026-07-18T11:02:15.411435Z"
-lastmod: "2026-07-18T11:44:45.406971Z"
+slug: translation
+date: '2026-07-18T11:02:15.411435Z'
+lastmod: '2026-07-18T11:44:45.406971Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "将文本从源自然语言转换为目标自然语言，同时保留含义的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 将文本从源自然语言转换为目标自然语言，同时保留含义的过程。
 ---
-
 ## Definition
 
 AI中的翻译指的是神经机器翻译，其中深度学习模型映射语言之间的语义表示。与基于规则的系统不同，现代方法学习上下文细微差别

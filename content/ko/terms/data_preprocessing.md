@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /ko/terms/data_preprocessing/
 date: "2026-07-18T15:47:25.983512Z"
 lastmod: "2026-07-18T16:38:06.824758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "원시 데이터를 머신러닝 알고리즘이 사용할 수 있는 깨끗하고 일관된 형식으로 변환하는 과정입니다."
 ---
-
 ## Definition
 
 데이터 전처리는 원시, 비구조화 또는 노이즈가 많은 데이터를 머신러닝 모델이 효과적으로 처리할 수 있는 표준화된 형식으로 변환하는 필수 작업입니다. 이 단계에는 일반적으로 데이터 정제, 정규화, 인코딩 등이 포함됩니다.

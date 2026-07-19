@@ -1,23 +1,24 @@
 ---
-title: "Ses Etkinliği Algılama"
-term_id: "voice_activity_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["signal_processing", "speech", "optimization"]
+title: Ses Etkinliği Algılama
+term_id: voice_activity_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Signal Processing
+- speech
+- Optimization
 difficulty: 3
 weight: 1
-slug: "voice_activity_detection"
-aliases:
-  - /tr/terms/voice_activity_detection/
-date: "2026-07-18T16:20:59.586946Z"
-lastmod: "2026-07-18T16:38:07.376631Z"
+slug: voice_activity_detection
+date: '2026-07-18T16:20:59.586946Z'
+lastmod: '2026-07-18T16:38:07.376631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ses Etkinliği Algılama (VAD), insan konuşmasını içeren ses segmentlerini sessizlik veya gürültüden ayırt etmek için kullanılan bir sinyal işleme tekniğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Ses Etkinliği Algılama (VAD), insan konuşmasını içeren ses segmentlerini
+  sessizlik veya gürültüden ayırt etmek için kullanılan bir sinyal işleme tekniğidir.
 ---
-
 ## Definition
 
 VAD algoritmaları, arka plan gürültüsü veya duraklamalar gibi konuşma dışı aralıklardan aktif konuşma dönemlerini ayırt etmek için ses akışlarını gerçek zamanlı olarak analiz eder. Bu, bant genişliğini optimize etmek için ( ... ) kritik öneme sahiptir.

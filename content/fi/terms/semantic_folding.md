@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /fi/terms/semantic_folding/
 date: "2026-07-18T16:19:56.510113Z"
 lastmod: "2026-07-18T17:15:09.458158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekniikka, joka kuvaa korkeadimensioiset semanttiset esitykset alemmalla ulottuvuudella säilyttäen suhteelliset rakenteet."
 ---
-
 ## Definition
 
 Semanttinen taittaminen viittaa prosessiin, jossa monimutkaisia, korkeadimensioisia vektorisidoksia tiivistetään hallittavammaksi alemman ulottuvuuden esitykseksi menettämättä merkittävästi semanttista sisältöä.

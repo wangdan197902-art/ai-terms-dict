@@ -1,23 +1,24 @@
 ---
-title: "Thính giác máy tính"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Thính giác máy tính
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /vi/terms/computer_audition/
-date: "2026-07-18T15:45:40.540895Z"
-lastmod: "2026-07-18T16:38:07.738679Z"
+slug: computer_audition
+date: '2026-07-18T15:45:40.540895Z'
+lastmod: '2026-07-18T16:38:07.738679Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Thính giác máy tính là lĩnh vực nghiên cứu tập trung vào việc giúp máy móc cảm nhận và hiểu tín hiệu âm thanh tương tự như con người."
+source: agnes_llm
+status: published
+language: vi
+description: Thính giác máy tính là lĩnh vực nghiên cứu tập trung vào việc giúp máy
+  móc cảm nhận và hiểu tín hiệu âm thanh tương tự như con người.
 ---
-
 ## Definition
 
 Thính giác máy tính liên quan đến việc phát triển các thuật toán cho phép máy tính trích xuất thông tin có ý nghĩa từ sóng âm. Điều này bao gồm các nhiệm vụ như nhận dạng giọng nói, phân loại thể loại nhạc và phân tích âm thanh môi trường.

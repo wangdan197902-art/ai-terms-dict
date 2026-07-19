@@ -1,23 +1,24 @@
 ---
-title: "Valvottu oppiminen"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Valvottu oppiminen
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /fi/terms/supervised_learning/
-date: "2026-07-18T15:38:32.320024Z"
-lastmod: "2026-07-18T17:15:09.375583Z"
+slug: supervised_learning
+date: '2026-07-18T15:38:32.320024Z'
+lastmod: '2026-07-18T17:15:09.375583Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Konduktiivisen oppimisen paradigma, jossa malli oppii kuvaamaan syötteitä tuloksiksi merkittyjen koulutusaineistojen avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Konduktiivisen oppimisen paradigma, jossa malli oppii kuvaamaan syötteitä
+  tuloksiksi merkittyjen koulutusaineistojen avulla.
 ---
-
 ## Definition
 
 Valvotussa oppimisessa algoritmi koulutetaan merkityllä aineistolla, mikä tarkoittaa, että jokainen syöte-esimerkki on paritettu oikean tuloksen kanssa. Tavoitteena on, että malli oppii piilevän suhteen syötteen ja tuloksen välillä.

@@ -1,23 +1,24 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /ro/terms/google_research/
-date: "2026-07-18T16:00:34.401211Z"
-lastmod: "2026-07-18T17:15:09.661266Z"
+slug: google_research
+date: '2026-07-18T16:00:34.401211Z'
+lastmod: '2026-07-18T17:15:09.661266Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Divizia de cercetare a Google dedicată avansării inteligenței artificiale, învățării automate și științei computaționale prin studii fundamentale și aplicate."
+source: agnes_llm
+status: published
+language: ro
+description: Divizia de cercetare a Google dedicată avansării inteligenței artificiale,
+  învățării automate și științei computaționale prin studii fundamentale și aplicate.
 ---
-
 ## Definition
 
 Google Research este brațul de cercetare academică și industrială al Google LLC, concentrându-se pe depășirea limitelor tehnologice în domenii precum inteligența artificială, procesarea limbajului natural și calculul cuantic.

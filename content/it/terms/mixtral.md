@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /it/terms/mixtral/
 date: "2026-07-18T16:11:23.371131Z"
 lastmod: "2026-07-18T17:15:08.649654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un grande modello linguistico (LLM) Sparse Mixture of Experts (MoE) di Mistral AI che attiva solo un sottoinsieme di parametri per ogni token."
 ---
-
 ## Definition
 
 Mixtral è un pionieristico LLM open-weight che utilizza un'architettura Sparse Mixture of Experts (MoE). A differenza dei modelli densi in cui tutti i parametri sono utilizzati per ogni token, Mixtral instrada ogni token attraverso

@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /id/terms/self_attention/
 date: "2026-07-18T15:29:37.018551Z"
 lastmod: "2026-07-18T16:38:07.402863Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah mekanisme yang memungkinkan jaringan saraf menimbang pentingnya bagian-bagian berbeda dari urutan input relatif satu sama lain."
 ---
-
 ## Definition
 
 Perhatian diri memungkinkan model menangkap ketergantungan antara semua posisi dalam suatu urutan secara bersamaan, terlepas dari jaraknya. Dengan menghitung skor perhatian antara setiap pasangan token, mekanisme ini memungkinkan...

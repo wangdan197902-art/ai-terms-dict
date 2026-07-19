@@ -1,23 +1,24 @@
 ---
-title: "Ημιαντική Αναζήτηση"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Ημιαντική Αναζήτηση
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /el/terms/semantic_search/
-date: "2026-07-18T15:44:24.925080Z"
-lastmod: "2026-07-18T17:15:09.871029Z"
+slug: semantic_search
+date: '2026-07-18T15:44:24.925080Z'
+lastmod: '2026-07-18T17:15:09.871029Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Τεχνολογία αναζήτησης που κατανοεί το νόημα των όρων ερώτησης αντί απλώς να ταιριάζει λέξεις-κλειδιά."
+source: agnes_llm
+status: published
+language: el
+description: Τεχνολογία αναζήτησης που κατανοεί το νόημα των όρων ερώτησης αντί απλώς
+  να ταιριάζει λέξεις-κλειδιά.
 ---
-
 ## Definition
 
 Η ημιαντική αναζήτηση ερμηνεύει την πρόθεση και το πλαισιακό νόημα πίσω από ένα ερώτημα, πέρα από την απλή αντιστοίχιση λέξεων-κλειδιών. Χρησιμοποιεί αναπαραστάσεις διανυσμάτων (embeddings) για να αναπαραστήσει το κείμενο ως διανύσματα σε έναν χώρο υψηλών διαστάσεων, επιτρέποντας...

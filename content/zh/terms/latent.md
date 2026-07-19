@@ -7,8 +7,6 @@ tags: ["Mathematics", "Representation", "Theory"]
 difficulty: 4
 weight: 1
 slug: "latent"
-aliases:
-  - /zh/terms/latent/
 date: "2026-07-18T10:52:16.306987Z"
 lastmod: "2026-07-18T11:44:45.374261Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指模型内部空间中捕获数据关键特征的隐藏变量或表示。"
 ---
-
 ## Definition
 
 在机器学习中，潜在变量是影响观测数据的未观察因素。在神经网络中，特别是自编码器和扩散模型中，潜在空间代表压缩的、抽象的

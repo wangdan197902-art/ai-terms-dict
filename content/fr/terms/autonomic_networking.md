@@ -1,23 +1,24 @@
 ---
-title: "Réseautique autogérée"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Réseautique autogérée
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /fr/terms/autonomic_networking/
-date: "2026-07-18T11:06:00.365667Z"
-lastmod: "2026-07-18T11:44:45.201347Z"
+slug: autonomic_networking
+date: '2026-07-18T11:06:00.365667Z'
+lastmod: '2026-07-18T11:44:45.201347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Infrastructure de réseau auto-gérante qui utilise l'IA pour se configurer, s'optimiser et se réparer elle-même."
+source: agnes_llm
+status: published
+language: fr
+description: Infrastructure de réseau auto-gérante qui utilise l'IA pour se configurer,
+  s'optimiser et se réparer elle-même.
 ---
-
 ## Definition
 
 Le réseautique autogérée applique les principes de l'informatique autogérée aux réseaux de télécommunications, permettant aux systèmes de se gérer eux-mêmes avec une intervention humaine minimale. Ces réseaux utilisent l'IA pour détecter les pannes, reconfigurer dynamiquement les routes de trafic et optimiser les performances, assurant ainsi une disponibilité et une efficacité maximales.

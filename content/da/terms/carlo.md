@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /da/terms/carlo/
 date: "2026-07-18T15:23:39.088994Z"
 lastmod: "2026-07-18T17:15:09.220361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer til Monte Carlo-metoder, en klasse af beregningsalgoritmer, der stole på gentagen tilfældig stikprøvetagning for at opnå numeriske resultater."
 ---
-
 ## Definition
 
 Monte Carlo-metoder er essentielle teknikker inden for AI og statistik til at approksimere komplekse matematiske problemer, der er svære at løse analytisk. Ved at generere tusindvis eller millioner af tilfældige stikprøver kan man estimere resultater.

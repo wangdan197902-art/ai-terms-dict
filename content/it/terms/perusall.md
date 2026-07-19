@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /it/terms/perusall/
 date: "2026-07-18T16:15:59.533699Z"
 lastmod: "2026-07-18T17:15:08.658188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una piattaforma di apprendimento sociale potenziata dall'IA che automatizza la valutazione delle annotazioni e delle discussioni degli studenti sui testi digitali."
 ---
-
 ## Definition
 
 Perusall è una piattaforma di tecnologia educativa che sfrutta l'intelligenza artificiale per facilitare la lettura collaborativa e l'annotazione. Valuta automaticamente la partecipazione degli studenti in base alla q

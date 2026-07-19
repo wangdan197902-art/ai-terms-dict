@@ -1,23 +1,24 @@
 ---
-title: "Colapso de representación"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Colapso de representación
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /es/terms/representation_collapse/
-date: "2026-07-18T11:06:39.654905Z"
-lastmod: "2026-07-18T11:44:44.850418Z"
+slug: representation_collapse
+date: '2026-07-18T11:06:39.654905Z'
+lastmod: '2026-07-18T11:44:44.850418Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un modo de fallo en el aprendizaje autosupervisado donde el modelo produce representaciones idénticas para todas las entradas, perdiendo poder discriminativo."
+source: agnes_llm
+status: published
+language: es
+description: Un modo de fallo en el aprendizaje autosupervisado donde el modelo produce
+  representaciones idénticas para todas las entradas, perdiendo poder discriminativo.
 ---
-
 ## Definition
 
 El colapso de representación ocurre cuando una red neuronal, particularmente en marcos de aprendizaje contrastivo autosupervisado, aprende a mapear todos los puntos de datos de entrada al mismo vector de salida fijo. Esta solución trivial elimina la utilidad de las características aprendidas para distinguir entre diferentes muestras.

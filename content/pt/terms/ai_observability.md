@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /pt/terms/ai_observability/
 date: "2026-07-18T14:48:06.630541Z"
 lastmod: "2026-07-18T15:51:59.458838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A prática de monitorar e entender o estado interno de sistemas de aprendizado de máquina por meio de registros, métricas e rastreamentos."
 ---
-
 ## Definition
 
 A observabilidade em IA estende o monitoramento tradicional de software para abordar os desafios únicos dos sistemas de aprendizado de máquina. Envolve acompanhar o desempenho do modelo, o desvio de dados e a latência de inferência em tempo real, garantindo a confiabilidade e a transparência dos modelos em produção.

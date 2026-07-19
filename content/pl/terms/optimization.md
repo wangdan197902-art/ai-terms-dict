@@ -1,23 +1,24 @@
 ---
-title: "Optymalizacja"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Optymalizacja
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /pl/terms/optimization/
-date: "2026-07-18T15:36:13.592506Z"
-lastmod: "2026-07-18T17:15:08.834746Z"
+slug: optimization
+date: '2026-07-18T15:36:13.592506Z'
+lastmod: '2026-07-18T17:15:08.834746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Matematyczny proces minimalizacji lub maksymalizacji funkcji celu w celu znalezienia najlepszych parametrów rozwiązania."
+source: agnes_llm
+status: published
+language: pl
+description: Matematyczny proces minimalizacji lub maksymalizacji funkcji celu w celu
+  znalezienia najlepszych parametrów rozwiązania.
 ---
-
 ## Definition
 
 W uczeniu maszynowym optymalizacja odnosi się do algorytmów używanych do dostosowywania parametrów modelu w celu zminimalizowania funkcji straty, co przekłada się na poprawę wydajności modelu. Powszechne metody obejmują Gradient Descent oraz jego wariacje, takie jak Adam czy SGD.

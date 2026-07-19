@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /cs/terms/security/
 date: "2026-07-18T15:29:09.463031Z"
 lastmod: "2026-07-18T17:15:09.077938Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Praxe ochrany systémů AI před neoprávněným přístupem, zneužitím a škodlivými útoky."
 ---
-
 ## Definition
 
 Bezpečnost AI zahrnuje opatření určená k ochraně strojových učebních modelů, datových potrubí a nasazovací infrastruktury před hrozbami, jako jsou adversariální útoky, otrava dat a útoky na modely.

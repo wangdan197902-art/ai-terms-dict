@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /tr/terms/qwen3_5_moe/
 date: "2026-07-18T16:11:23.079941Z"
 lastmod: "2026-07-18T16:38:07.357746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yüksek verimlilik için tasarlanmış, Qwen3 serisinin hipotetik veya gelecekteki seyrek uzman karışımı (sparse mixture-of-experts) varyantı."
 ---
-
 ## Definition
 
 Bu terim, büyük olasılıkla Uzman Karışımı (MoE) tasarımını kullanan Qwen ailesi içinde özel bir mimariyi ifade eder. Bu tür modellerde, sinir ağı parametrelerinin yalnızca bir alt kümesi (uzmanlar) etkinleştirilir.

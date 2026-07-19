@@ -1,23 +1,25 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /es/terms/bloom/
-date: "2026-07-18T10:38:47.630176Z"
-lastmod: "2026-07-18T11:44:44.783559Z"
+slug: bloom
+date: '2026-07-18T10:38:47.630176Z'
+lastmod: '2026-07-18T11:44:44.783559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "En aprendizaje automático, 'Bloom' suele referirse a la Taxonomía de Bloom aplicada a la educación en IA o a modelos de incrustación específicos como el modelo de incrustación de texto Bloom."
+source: agnes_llm
+status: published
+language: es
+description: En aprendizaje automático, 'Bloom' suele referirse a la Taxonomía de
+  Bloom aplicada a la educación en IA o a modelos de incrustación específicos como
+  el modelo de incrustación de texto Bloom.
 ---
-
 ## Definition
 
 Aunque históricamente se refería a la taxonomía educativa de Benjamin Bloom, en contextos modernos de IA a menudo denota el modelo de incrustación de texto Bloom desarrollado por BigScience. Este modelo genera representaciones vectoriales de alta calidad para el procesamiento de lenguaje natural.

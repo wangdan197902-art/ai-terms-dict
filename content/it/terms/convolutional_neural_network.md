@@ -1,23 +1,24 @@
 ---
-title: "Rete Neurale Convoluzionale"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Rete Neurale Convoluzionale
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /it/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:40.268143Z"
-lastmod: "2026-07-18T17:15:08.559863Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:40.268143Z'
+lastmod: '2026-07-18T17:15:08.559863Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una classe specializzata di reti neurali profonde utilizzata principalmente per elaborare dati strutturati a griglia, come le immagini, applicando filtri convoluzionali."
+source: agnes_llm
+status: published
+language: it
+description: Una classe specializzata di reti neurali profonde utilizzata principalmente
+  per elaborare dati strutturati a griglia, come le immagini, applicando filtri convoluzionali.
 ---
-
 ## Definition
 
 Le Reti Neurali Convoluzionali (CNN) sono progettate per apprendere automaticamente e adattivamente gerarchie spaziali di funzionalità dagli input visivi. Utilizzano strati convoluzionali che applicano filtri per rilevare

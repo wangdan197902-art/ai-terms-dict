@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /fr/terms/unlike/
 date: "2026-07-18T10:56:11.584417Z"
 lastmod: "2026-07-18T11:44:45.175813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un opérateur logique utilisé en SQL et en programmation pour filtrer les enregistrements qui ne correspondent pas à une condition spécifiée."
 ---
-
 ## Definition
 
 Dans l'interrogation de bases de données et la logique, « Comme pas » fait généralement référence à l'opérateur NOT LIKE, qui effectue une correspondance de motifs à l'envers. Il renvoie vrai pour les lignes dont la valeur de la colonne ne correspond pas au modèle spécifié.

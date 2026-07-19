@@ -1,23 +1,23 @@
 ---
-title: "Strojové učení"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Strojové učení
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /cs/terms/machine_learning/
-date: "2026-07-18T15:26:39.457730Z"
-lastmod: "2026-07-18T17:15:09.072632Z"
+slug: machine_learning
+date: '2026-07-18T15:26:39.457730Z'
+lastmod: '2026-07-18T17:15:09.072632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Podmnožina AI zaměřená na vytváření systémů, které se učí z dat a zlepšují výkon bez explicitního programování."
+source: agnes_llm
+status: published
+language: cs
+description: Podmnožina AI zaměřená na vytváření systémů, které se učí z dat a zlepšují
+  výkon bez explicitního programování.
 ---
-
 ## Definition
 
 Strojové učení (ML) umožňuje počítačům učit se vzory z historických dat a přijímat rozhodnutí nebo předpovídat výsledky na nových, dříve neviděných datech. Zahrnuje různé techniky, včetně supervizovaného učení, n

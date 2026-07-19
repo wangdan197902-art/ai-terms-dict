@@ -1,23 +1,23 @@
 ---
-title: "Tanh"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Tanh
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /da/terms/tanh/
-date: "2026-07-18T16:20:56.700917Z"
-lastmod: "2026-07-18T17:15:09.336024Z"
+slug: tanh
+date: '2026-07-18T16:20:56.700917Z'
+lastmod: '2026-07-18T17:15:09.336024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Tanh, eller hyperbolsk tangens, er en aktiveringsfunktion, der kortlægger inputværdier til et interval mellem -1 og 1."
+source: agnes_llm
+status: published
+language: da
+description: Tanh, eller hyperbolsk tangens, er en aktiveringsfunktion, der kortlægger
+  inputværdier til et interval mellem -1 og 1.
 ---
-
 ## Definition
 
 Funktionen for hyperbolsk tangens (Tanh) er en ikke-lineær aktiveringsfunktion, der almindeligvis bruges i neurale netværk. Den komprimerer inputværdier ind i intervallet (-1, 1) og giver nul-centrerede output, hvilket

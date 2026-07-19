@@ -1,23 +1,23 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /zh/terms/bloom/
-date: "2026-07-18T11:09:30.642805Z"
-lastmod: "2026-07-18T11:44:45.452917Z"
+slug: bloom
+date: '2026-07-18T11:09:30.642805Z'
+lastmod: '2026-07-18T11:44:45.452917Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在机器学习中，“Bloom”通常指应用于人工智能教育的布鲁姆分类法，或特定的嵌入模型（如Bloom文本嵌入模型）。"
+source: agnes_llm
+status: published
+language: zh
+description: 在机器学习中，“Bloom”通常指应用于人工智能教育的布鲁姆分类法，或特定的嵌入模型（如Bloom文本嵌入模型）。
 ---
-
 ## Definition
 
 虽然历史上指本杰明·布鲁姆的教育分类法，但在现代人工智能语境中，它通常指由BigScience开发的Bloom文本嵌入模型。该模型生成高质量的……

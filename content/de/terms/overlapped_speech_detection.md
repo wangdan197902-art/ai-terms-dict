@@ -1,23 +1,24 @@
 ---
-title: "Überlappende Spracherkennung"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Überlappende Spracherkennung
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /de/terms/overlapped_speech_detection/
-date: "2026-07-18T11:26:13.434858Z"
-lastmod: "2026-07-18T11:44:44.972478Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T11:26:13.434858Z'
+lastmod: '2026-07-18T11:44:44.972478Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess zur Identifizierung von Zeitabschnitten, in denen zwei oder mehr Sprecher gleichzeitig in einem Audio-Stream sprechen."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess zur Identifizierung von Zeitabschnitten, in denen zwei oder
+  mehr Sprecher gleichzeitig in einem Audio-Stream sprechen.
 ---
-
 ## Definition
 
 Die Überlappende Spracherkennung (OSD) ist eine spezialisierte Aufgabe in der Sprachverarbeitung, die Intervalle gleichzeitiger Vokalisationen pinpointet. Im Gegensatz zur Speaker-Diarisierung, die sich darauf konzentriert, 'wer wann gesprochen hat', befasst sich OSD spe-

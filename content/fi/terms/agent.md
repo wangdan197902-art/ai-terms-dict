@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /fi/terms/agent/
 date: "2026-07-18T15:22:09.621560Z"
 lastmod: "2026-07-18T17:15:09.343326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyjärjestelmä, joka kykenee havainnoimaan ympäristöään, päättelyyn ja toimimaan autonomisesti saavuttaakseen tiettyjä tavoitteita."
 ---
-
 ## Definition
 
 Tekoälyssä agensi on yksikkö, joka toimii käyttäjän tai järjestelmän puolesta suorittaakseen tehtäviä. Toisin kuin passiiviset mallit, jotka vain vastaavat prompteihin, agenssit voivat suunnitella, käyttää työkaluja ja iteroida toimissaan.

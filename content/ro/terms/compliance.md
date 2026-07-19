@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /ro/terms/compliance/
 date: "2026-07-18T15:50:01.521398Z"
 lastmod: "2026-07-18T17:15:09.637877Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Respectarea de către sistemele AI a reglementărilor legale, a standardelor etice și a ghidurilor din industrie."
 ---
-
 ## Definition
 
 În inteligența artificială, conformitatea se referă la procesul de asigurare a alinierii modelelor AI și a implementării acestora cu legile aplicabile, cum ar fi GDPR sau HIPAA, precum și cu cadrele etice interne.

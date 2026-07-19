@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /tr/terms/prompt_engineering/
 date: "2026-07-18T15:22:18.226187Z"
 lastmod: "2026-07-18T16:38:07.223744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Büyük dil modellerini istenen çıktılara yönlendirmek için girdi metinlerini tasarlamak ve optimize etmek uygulamasıdır."
 ---
-
 ## Definition
 
 Prompt mühendisliği, jeneratif yapay zeka modellerinden doğru, ilgili ve yüksek kaliteli yanıtlar elde etmek amacıyla 'prompt' olarak bilinen özel girdileri hazırlamayı içerir. Bu süreç, modellerin nasıl yorum yaptığını anlamayı gerektirir.

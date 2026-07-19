@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /id/terms/token_limit/
 date: "2026-07-18T15:36:31.695048Z"
 lastmod: "2026-07-18T16:38:07.420178Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Jumlah maksimum token yang dapat diproses oleh model AI dalam satu urutan input atau output."
 ---
-
 ## Definition
 
 Batas token menentukan batasan ukuran jendela konteks untuk model bahasa besar, membatasi seberapa banyak teks yang dapat dianalisis atau dihasilkan sekaligus. Batas arsitektur ini berdampak pada manajemen memori,

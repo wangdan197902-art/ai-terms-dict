@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /no/terms/bert/
 date: "2026-07-18T15:45:14.560461Z"
 lastmod: "2026-07-18T16:38:06.976817Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bidirectional Encoder Representations from Transformers er en forhåndstrent modell for naturlig språkbehandling."
 ---
-
 ## Definition
 
 BERT er en maskinlæringsmetode basert på transformers for forhåndstrening av naturlig språkbehandling (NLP), utviklet av Google. Den bruker maskert språkmodellering og neste setningsprediksjon for å lære todrettede representasjoner fra teksten.

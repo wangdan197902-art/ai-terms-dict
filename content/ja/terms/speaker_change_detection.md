@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /ja/terms/speaker_change_detection/
 date: "2026-07-18T11:33:04.722163Z"
 lastmod: "2026-07-18T11:44:45.146493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "音声ストリーム内で話者が切り替わるポイントを特定するプロセス。"
 ---
-
 ## Definition
 
 話者変更検出（SCD）は、ある話者の発話が終了し、別の話者の発話が開始される正確なタイムスタンプを特定するために使用される技術です。これはダイアライゼーションの前段階として機能し、会話を個別のセグメントに分割するのに役立ちます。

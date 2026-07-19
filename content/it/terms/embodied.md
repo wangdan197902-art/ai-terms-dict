@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /it/terms/embodied/
 date: "2026-07-18T15:24:35.408230Z"
 lastmod: "2026-07-18T17:15:08.564454Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'AI incarnata si riferisce a sistemi intelligenti che interagiscono con il mondo fisico attraverso sensori e attuatori all'interno di un corpo."
 ---
-
 ## Definition
 
 L'AI incarnata sostiene che l'intelligenza emerga dall'interazione tra la forma fisica di un agente e il suo ambiente. A differenza dell'AI disincarnata che elabora dati astratti, gli agenti incarnati utilizzano sensori

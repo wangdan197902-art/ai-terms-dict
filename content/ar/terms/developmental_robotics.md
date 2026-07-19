@@ -1,23 +1,23 @@
 ---
-title: "روبوتيات تنموية"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: روبوتيات تنموية
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /ar/terms/developmental_robotics/
-date: "2026-07-18T15:53:34.133882Z"
-lastmod: "2026-07-18T17:15:08.496271Z"
+slug: developmental_robotics
+date: '2026-07-18T15:53:34.133882Z'
+lastmod: '2026-07-18T17:15:08.496271Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "حقل متعدد التخصصات يدرس كيفية اكتساب الروبوتات لمهارات معقدة من خلال التفاعل مع بيئتها ومقدمي الرعاية."
+source: agnes_llm
+status: published
+language: ar
+description: حقل متعدد التخصصات يدرس كيفية اكتساب الروبوتات لمهارات معقدة من خلال
+  التفاعل مع بيئتها ومقدمي الرعاية.
 ---
-
 ## Definition
 
 تستوحى الروبوتيات التنموية إلهامها من التطور المعرفي البشري لإنشاء روبوتات تتعلم بشكل مستقل بمرور الوقت. بدلاً من برمجة جميع السلوكيات مسبقاً، تستخدم هذه الأنظمة آليات مثل...

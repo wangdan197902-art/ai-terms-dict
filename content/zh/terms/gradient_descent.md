@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /zh/terms/gradient_descent/
 date: "2026-07-18T11:00:15.112692Z"
 lastmod: "2026-07-18T11:44:45.401086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种迭代优化算法，通过调整模型参数来最小化损失函数。"
 ---
-
 ## Definition
 
 梯度下降是一种用于寻找可微函数局部最小值的一阶迭代优化算法。在机器学习中，它沿梯度的反方向更新模型权重，以逐步降低损失。

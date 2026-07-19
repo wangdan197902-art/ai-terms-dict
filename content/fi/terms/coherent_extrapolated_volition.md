@@ -1,23 +1,24 @@
 ---
-title: "Koherentti ekstrapoloitu tahto"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Koherentti ekstrapoloitu tahto
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /fi/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:48:30.159626Z"
-lastmod: "2026-07-18T17:15:09.392059Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:48:30.159626Z'
+lastmod: '2026-07-18T17:15:09.392059Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ehdotettu tekoälyn tavoite, jossa järjestelmä toimii ihmiskunnan hienostuneiden toiveiden mukaisesti ideaalisen päättelyn jälkeen."
+source: agnes_llm
+status: published
+language: fi
+description: Ehdotettu tekoälyn tavoite, jossa järjestelmä toimii ihmiskunnan hienostuneiden
+  toiveiden mukaisesti ideaalisen päättelyn jälkeen.
 ---
-
 ## Definition
 
 Koherentti ekstrapoloitu tahto (CEV) on käsite, jonka Eliezer Yudkowsky esitteli tekoälyn turvallisuuden ja kohdistamisen kontekstissa. Se ehdottaa, että edistyneen tekoälyn ei tulisi vain totella nykyisiä ihmisten käskyjä, vaan sen tulisi ymmärtää ja toteuttaa ihmisten todelliset arvot ja toiveet, jos ne olisi jalostettu rationaalisuuden ja tiedon valossa.

@@ -1,23 +1,24 @@
 ---
-title: "Tenzor"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tenzor
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /cs/terms/tensor/
-date: "2026-07-18T16:19:53.138200Z"
-lastmod: "2026-07-18T17:15:09.205649Z"
+slug: tensor
+date: '2026-07-18T16:19:53.138200Z'
+lastmod: '2026-07-18T17:15:09.205649Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Více-rozměrné pole, které slouží jako základní datová struktura pro frameworky hlubokého učení."
+source: agnes_llm
+status: published
+language: cs
+description: Více-rozměrné pole, které slouží jako základní datová struktura pro frameworky
+  hlubokého učení.
 ---
-
 ## Definition
 
 V informatice a hlubokém učení je tenzor matematickým objektem, který zobecňuje skaláry, vektory a matice do vyšších dimenzí. Je charakterizován svým řádem (počet dimenzí) a tvarem.

@@ -1,23 +1,24 @@
 ---
-title: "דיפפייק (תוכן מזויף)"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: דיפפייק (תוכן מזויף)
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /he/terms/deepfake/
-date: "2026-07-18T15:35:59.256367Z"
-lastmod: "2026-07-18T17:15:09.498025Z"
+slug: deepfake
+date: '2026-07-18T15:35:59.256367Z'
+lastmod: '2026-07-18T17:15:09.498025Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מדיה סינתטית שבה דמותו של אדם מוחלפת בדמותו של אחר באמצעות בינה מלאכותית וטכניקות למידה עמוקה."
+source: agnes_llm
+status: published
+language: he
+description: מדיה סינתטית שבה דמותו של אדם מוחלפת בדמותו של אחר באמצעות בינה מלאכותית
+  וטכניקות למידה עמוקה.
 ---
-
 ## Definition
 
 דיפפייקים הם עיוותי אודיו או וידאו היפר-ריאליסטיים שנוצרו באמצעות רשתות גנרטיביות מתחרות (GANs) או אוטואנקודרים. הם מעלים חששות אתיים משמעותיים בנוגע למידע כוזב, פרטיות

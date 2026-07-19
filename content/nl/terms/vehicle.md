@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /nl/terms/vehicle/
 date: "2026-07-18T15:31:07.724749Z"
 lastmod: "2026-07-18T17:15:08.696456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI-context verwijst 'vehicle' vaak naar het platform of de drager waarop AI-modellen worden geïmplementeerd of aan eindgebruikers worden geleverd."
 ---
-
 ## Definition
 
 Hoewel het traditioneel vervoer betekent, kan 'vehicle' in AI-jargon metaforisch de leveringsmechanisme voor intelligente diensten beschrijven, zoals mobiele apps, webinterfaces of ingebedde systemen.

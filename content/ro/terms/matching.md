@@ -1,23 +1,24 @@
 ---
-title: "Potrivire"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: Potrivire
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /ro/terms/matching/
-date: "2026-07-18T15:27:20.556634Z"
-lastmod: "2026-07-18T17:15:09.598391Z"
+slug: matching
+date: '2026-07-18T15:27:20.556634Z'
+lastmod: '2026-07-18T17:15:09.598391Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Potrivirea implică alinierea a două seturi de puncte de date sau caracteristici pentru a identifica corespondențe, similitudini sau împerecheri optime între ele."
+source: agnes_llm
+status: published
+language: ro
+description: Potrivirea implică alinierea a două seturi de puncte de date sau caracteristici
+  pentru a identifica corespondențe, similitudini sau împerecheri optime între ele.
 ---
-
 ## Definition
 
 Potrivirea este o tehnică critică în învățarea automată, utilizată pentru a stabili relații între entități de date disparate. În vederea pe calculator, potrivirea caracteristicilor identifică punctele corespunzătoare de-a lungul imaginilor, facilitând recunoașterea obiectelor sau alinierea scenei.

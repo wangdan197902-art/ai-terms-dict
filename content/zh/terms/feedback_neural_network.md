@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /zh/terms/feedback_neural_network/
 date: "2026-07-18T11:17:25.495464Z"
 lastmod: "2026-07-18T11:44:45.499905Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种连接形成有向循环的神经网络架构，允许信息随时间持久存在。"
 ---
-
 ## Definition
 
 反馈神经网络（也称为循环神经网络 RNN）包含允许信号传播回之前层的环路。这种递归性使网络能够维持内部状态，从而处理序列数据和时间依赖关系。

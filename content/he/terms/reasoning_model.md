@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /he/terms/reasoning_model/
 date: "2026-07-18T16:21:56.955890Z"
 lastmod: "2026-07-18T17:15:09.579550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל AI המותאם במיוחד לבצע היסקים לוגיים מורכבים, פתרון בעיות צעד-אחר-צעד ועיבוד מחשבה רצופה."
 ---
-
 ## Definition
 
 בניגוד למודלים גנרטיים סטנדרטיים המתמקדים בשוטפות, מודלי חשיבה מעדיפים דיוק במשימות רב-שלבים כמו מתמטיקה, תכנות וחידות לוגיות. הם לרוב משתמשים בטכניקות כמו 'מחשבה רצופה' (Chain-of-Thought).

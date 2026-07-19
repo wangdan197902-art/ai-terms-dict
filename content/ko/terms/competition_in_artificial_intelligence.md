@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /ko/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:45:43.388346Z"
 lastmod: "2026-07-18T16:38:06.818473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "국가, 기업, 연구 기관 간 AI 개발, 혁신, 배포에서의 리더십을 쟁취하기 위한 경쟁."
 ---
-
 ## Definition
 
 인공지능 경쟁은 경제적, 군사적, 과학적 우위를 추구하며 AI 능력 향상을 위한 치열한 글로벌 레이스를 설명합니다. 주요 참여자로는 Google과 같은 기술 거대 기업들이 포함됩니다...

@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /hu/terms/gradient_accumulation/
 date: "2026-07-18T16:02:14.455829Z"
 lastmod: "2026-07-18T17:15:09.790331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A gradiensakkumuláció egy technika, amely több előre- és hátrafelé irányuló lépés során összegzett gradienssel szimulálja a nagyobb kötegméreteket a súlyok frissítése előtt."
 ---
-
 ## Definition
 
 Ez az optimalizálási stratégia lehetővé teszi, hogy a mélytanulási modelleket hatékonyabb kötegmérettel tréningeljék, mint amekkora a GPU memóriájába beférne. Több mini-köteg gradiensének összegzése és utólagos frissítés révén.

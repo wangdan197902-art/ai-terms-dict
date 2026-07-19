@@ -1,23 +1,24 @@
 ---
-title: "few-shot (με λίγα παραδείγματα)"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot (με λίγα παραδείγματα)
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /el/terms/few_shot/
-date: "2026-07-18T15:35:54.100687Z"
-lastmod: "2026-07-18T17:15:09.859153Z"
+slug: few_shot
+date: '2026-07-18T15:35:54.100687Z'
+lastmod: '2026-07-18T17:15:09.859153Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα παράδειγμα μάθησης όπου ένα μοντέλο εκτελεί μια εργασία σωστά αφού εκτεθεί σε μόνο έναν μικρό αριθμό ετικετοποιημένων παραδειγμάτων."
+source: agnes_llm
+status: published
+language: el
+description: Ένα παράδειγμα μάθησης όπου ένα μοντέλο εκτελεί μια εργασία σωστά αφού
+  εκτεθεί σε μόνο έναν μικρό αριθμό ετικετοποιημένων παραδειγμάτων.
 ---
-
 ## Definition
 
 Η μάθηση few-shot επιτρέπει στα μοντέλα μηχανικής μάθησης να γενικεύουν από πολύ περιορισμένα δεδομένα, συνήθως κυμαινόμενα από ένα έως δέκα παραδείγματα ανά κατηγορία. Σε αντίθεση με την παραδοσιακή εποπτευόμενη μάθηση που απαιτεί χιλιάδες παραδείγματα, η μάθηση few-shot εκμεταλλεύεται τη γνώση που έχει αποκτηθεί κατά την προ-εκπαίδευση σε μεγάλα σύνολα δεδομένων για να προσαρμοστεί γρήγορα σε νέες εργασίες με ελάχιστη επιπλέον εκπαίδευση.

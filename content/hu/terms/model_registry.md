@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /hu/terms/model_registry/
 date: "2026-07-18T16:13:36.663275Z"
 lastmod: "2026-07-18T17:15:09.814123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy központosított tároló- és kezelőrendszer a gépi tanulási modellek teljes életciklusának nyomon követésére."
 ---
-
 ## Definition
 
 A Modellnyilvántartás az MLOps kritikus összetevőjeként szolgál, biztosítva az egységes adattárat a ML-modellek tárolásához, verziózásához és kezeléséhez. Lehetővé teszi a csapatok számára a modellmetaadatok és teljesítménymutatók nyomon követését.

@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /th/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:05:21.097342Z"
 lastmod: "2026-07-18T16:38:07.631672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "หมายถึงการใช้เทคโนโลยี AI ในบริบทการป้องกันประเทศ รวมถึงอาวุธอัตโนมัติ การเฝ้าระวัง การเพิ่มประสิทธิภาพโลจิสติกส์ และระบบสนับสนุนการตัดสินใจ"
 ---
-
 ## Definition
 
 การใช้งาน AI ทางทหารครอบคลุมเทคโนโลยีหลากหลายประเภทที่ออกแบบมาเพื่อเพิ่มประสิทธิภาพปฏิบัติการและได้เปรียบเชิงกลยุทธ์ ซึ่งรวมถึงโดรนอัตโนมัติสำหรับการลาดตระเวน การทำนายเป้าหมาย และระบบสนับสนุนการตัดสินใจทางยุทธวิธี

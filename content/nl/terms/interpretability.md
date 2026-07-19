@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /nl/terms/interpretability/
 date: "2026-07-18T15:36:19.615850Z"
 lastmod: "2026-07-18T17:15:08.705524Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De mate waarin een mens de oorzaak van een beslissing kan begrijpen die door een AI-model is genomen."
 ---
-
 ## Definition
 
 Interpreteerbaarheid, of uitlegbaarheid, houdt in dat de interne werking en besluitvormingsprocessen van AI-modellen transparant en begrijpelijk worden gemaakt voor mensen. Dit is cruciaal voor foutopsporing, het waarborgen van eerlijkheid en het bouwen van vertrouwen.

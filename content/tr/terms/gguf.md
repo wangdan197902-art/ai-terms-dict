@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /tr/terms/gguf/
-date: "2026-07-18T15:54:15.040840Z"
-lastmod: "2026-07-18T16:38:07.311187Z"
+slug: gguf
+date: '2026-07-18T15:54:15.040840Z'
+lastmod: '2026-07-18T16:38:07.311187Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ölçeklendirilmiş büyük dil modellerinin yerel donanımda verimli bir şekilde depolanması ve yüklenmesi içingger.ai tarafından geliştirilen bir dosya formatı."
+source: agnes_llm
+status: published
+language: tr
+description: Ölçeklendirilmiş büyük dil modellerinin yerel donanımda verimli bir şekilde
+  depolanması ve yüklenmesi içingger.ai tarafından geliştirilen bir dosya formatı.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format), büyük dil modellerinin tüketici sınıfı donanımlarda çalıştırılması için özel olarak tasarlanmış ikili bir dosya formatıdır. Çeşitli nicelleme (quantization) tekniklerini destekleyerek, modellerin bellek kullanımını azaltırken performansını korumasını sağlar.

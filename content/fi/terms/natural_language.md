@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /fi/terms/natural_language/
 date: "2026-07-18T15:34:09.965789Z"
 lastmod: "2026-07-18T17:15:09.365478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ihmisten vakiintunut viestintätapa, jota karakterisoivat kielioppi, sanasto ja konteksti, toisin kuin muodolliset ohjelmointikielet."
 ---
-
 ## Definition
 
 Luonnollinen kieli viittaa siihen tapaan, jolla ihmiset puhuvat ja kirjoittavat, mukaan lukien kaikki sen epäselvyydet, idiomit ja kulttuuriset vivahteet. Tekoälyssä luonnollisen kielen käsittelyyn kuuluu syntaksin, semantiikan ja

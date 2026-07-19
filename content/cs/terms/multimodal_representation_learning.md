@@ -1,23 +1,24 @@
 ---
-title: "Vícemodální učení reprezentací"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Vícemodální učení reprezentací
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /cs/terms/multimodal_representation_learning/
-date: "2026-07-18T16:10:15.216477Z"
-lastmod: "2026-07-18T17:15:09.156038Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:10:15.216477Z'
+lastmod: '2026-07-18T17:15:09.156038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika, která učí sjednocené funkční reprezentace z více datových modalit současně."
+source: agnes_llm
+status: published
+language: cs
+description: Technika, která učí sjednocené funkční reprezentace z více datových modalit
+  současně.
 ---
-
 ## Definition
 
 Vícemodální učení reprezentací zahrnuje trénování modelů k zpracování a integraci informací z různých typů zdrojů dat, jako jsou text, obrázky, zvuk a video, do sdíleného latentního prostoru.

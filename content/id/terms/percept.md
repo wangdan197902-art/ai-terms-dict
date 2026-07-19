@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /id/terms/percept/
 date: "2026-07-18T16:03:40.824296Z"
 lastmod: "2026-07-18T16:38:07.493252Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Representasi mental atau hasil interpretasi dari input sensorik yang telah diproses oleh persepsi."
 ---
-
 ## Definition
 
 Persepsi adalah representasi internal dari rangsangan eksternal setelah diproses oleh sistem perseptual. Dalam kecerdasan buatan, ini sesuai dengan keluaran data terstruktur dari pemrosesan sinyal tingkat rendah menjadi makna yang dapat dipahami.

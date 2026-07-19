@@ -1,23 +1,25 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /ro/terms/bloom/
-date: "2026-07-18T15:48:36.204162Z"
-lastmod: "2026-07-18T17:15:09.634480Z"
+slug: bloom
+date: '2026-07-18T15:48:36.204162Z'
+lastmod: '2026-07-18T17:15:09.634480Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "În învățarea automată, „Bloom” se referă de obicei la Taxonomia lui Bloom aplicată în educația AI sau la modele specifice de încorporare, cum ar fi modelul de încorporare a textului Bloom."
+source: agnes_llm
+status: published
+language: ro
+description: În învățarea automată, „Bloom” se referă de obicei la Taxonomia lui Bloom
+  aplicată în educația AI sau la modele specifice de încorporare, cum ar fi modelul
+  de încorporare a textului Bloom.
 ---
-
 ## Definition
 
 Deși istoric se referea la taxonomia educațională a lui Benjamin Bloom, în contextele moderne AI, denotă adesea modelul de încorporare a textului Bloom dezvoltat de BigScience. Acest model generează încorporări de înaltă calitate

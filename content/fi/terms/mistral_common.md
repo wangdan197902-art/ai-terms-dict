@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /fi/terms/mistral_common/
 date: "2026-07-18T16:11:03.148335Z"
 lastmod: "2026-07-18T17:15:09.434661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Jaettu kirjasto, joka tarjoaa tokenisointi- ja apufunktiot yhteensopivia eri Mistral AI -mallimuunteluiden kanssa."
 ---
-
 ## Definition
 
 Mistral Common on Mistral AI:n ylläpitämä Python-paketti, joka tarjoaa standardoidut työkalut mallien käsittelyyn. Se tarjoaa ensisijaisesti tokenisoijan toteutuksen, joka on välttämätön tekstin muuntamiseksi

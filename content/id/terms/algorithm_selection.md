@@ -1,23 +1,23 @@
 ---
-title: "Seleksi Algoritma"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Seleksi Algoritma
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /id/terms/algorithm_selection/
-date: "2026-07-18T15:38:29.806684Z"
-lastmod: "2026-07-18T16:38:07.426283Z"
+slug: algorithm_selection
+date: '2026-07-18T15:38:29.806684Z'
+lastmod: '2026-07-18T16:38:07.426283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Seleksi algoritma adalah proses memilih metode komputasi paling cocok untuk masalah tertentu berdasarkan metrik kinerja dan batasan."
+source: agnes_llm
+status: published
+language: id
+description: Seleksi algoritma adalah proses memilih metode komputasi paling cocok
+  untuk masalah tertentu berdasarkan metrik kinerja dan batasan.
 ---
-
 ## Definition
 
 Seleksi algoritma melibatkan evaluasi berbagai pendekatan komputasi untuk menentukan mana yang paling efisien dalam menyelesaikan tugas tertentu. Proses ini mempertimbangkan faktor-faktor seperti kompleksitas waktu, penggunaan memori, dan akurasi.

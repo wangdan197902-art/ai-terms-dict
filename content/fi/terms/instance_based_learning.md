@@ -1,23 +1,24 @@
 ---
-title: "Instanssipohjainen oppiminen"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Instanssipohjainen oppiminen
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /fi/terms/instance_based_learning/
-date: "2026-07-18T16:03:56.598226Z"
-lastmod: "2026-07-18T17:15:09.422871Z"
+slug: instance_based_learning
+date: '2026-07-18T16:03:56.598226Z'
+lastmod: '2026-07-18T17:15:09.422871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Laiska oppimismenetelmä, jossa ennusteet tehdään vertaamalla uusia syötteitä tallennettuihin harjoitusinstansseihin."
+source: agnes_llm
+status: published
+language: fi
+description: Laiska oppimismenetelmä, jossa ennusteet tehdään vertaamalla uusia syötteitä
+  tallennettuihin harjoitusinstansseihin.
 ---
-
 ## Definition
 
 Tunnetaan myös muistipohjaisena oppimisena. Tämä tekniikka ei rakenna yleistettyä mallia koulutusvaiheessa. Sen sijaan se tallentaa koko harjoitusdatan. Kun ennuste tarvitaan, se etsii lähimmät

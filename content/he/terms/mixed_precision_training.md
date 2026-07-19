@@ -1,23 +1,24 @@
 ---
-title: "אימון בדיוק מעורב"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: אימון בדיוק מעורב
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /he/terms/mixed_precision_training/
-date: "2026-07-18T16:12:39.788888Z"
-lastmod: "2026-07-18T17:15:09.564815Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:12:39.788888Z'
+lastmod: '2026-07-18T17:15:09.564815Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת אימון המשלבת מספרים נקודה צפה 16-סיביות ו-32-סיביות כדי להאיץ חישובים ולהפחית שימוש בזיכרון."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת אימון המשלבת מספרים נקודה צפה 16-סיביות ו-32-סיביות כדי להאיץ
+  חישובים ולהפחית שימוש בזיכרון.
 ---
-
 ## Definition
 
 אימון בדיוק מעורב (MPT) משלב סוגי נתונים של דיוק חצי (FP16) ודיוק מלא (FP32) במהלך אימון רשתות נוירונים. באמצעות שימוש ב-FP16 לרוב הפעולות, MPT מפחית את טביעת הרגל בזיכרון ומאיץ

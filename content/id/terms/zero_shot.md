@@ -1,23 +1,23 @@
 ---
-title: "zero-shot"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: zero-shot
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /id/terms/zero_shot/
-date: "2026-07-18T15:33:21.974370Z"
-lastmod: "2026-07-18T16:38:07.411012Z"
+slug: zero_shot
+date: '2026-07-18T15:33:21.974370Z'
+lastmod: '2026-07-18T16:38:07.411012Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kemampuan untuk melakukan tugas pada kelas yang belum pernah dilihat tanpa contoh pelatihan sebelumnya."
+source: agnes_llm
+status: published
+language: id
+description: Kemampuan untuk melakukan tugas pada kelas yang belum pernah dilihat
+  tanpa contoh pelatihan sebelumnya.
 ---
-
 ## Definition
 
 Pembelajaran zero-shot memungkinkan model untuk men-generalisasi ke kategori atau tugas baru di mana tidak ada data pelatihan berlabel yang disediakan selama fase pelatihan awal. Hal ini biasanya dicapai dengan memanfaatkan...

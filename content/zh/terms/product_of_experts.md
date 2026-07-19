@@ -1,23 +1,23 @@
 ---
-title: "专家乘积"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: 专家乘积
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /zh/terms/product_of_experts/
-date: "2026-07-18T11:30:38.310486Z"
-lastmod: "2026-07-18T11:44:45.545690Z"
+slug: product_of_experts
+date: '2026-07-18T11:30:38.310486Z'
+lastmod: '2026-07-18T11:44:45.545690Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种概率建模框架，其联合分布由多个独立专家模型的输出相乘形成。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种概率建模框架，其联合分布由多个独立专家模型的输出相乘形成。
 ---
-
 ## Definition
 
 专家乘积（PoE）是一种通过组合更简单的分布来构建复杂概率分布的方法。与平均概率的“混合专家”（MoE）不同，PoE通过乘法结合各个专家模型的输出。这意味着如果任何一个专家模型认为某个配置是不可能的（概率为零），整个联合分布的概率也将为零，从而能够更严格地满足约束条件。

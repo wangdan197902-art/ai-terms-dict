@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /pl/terms/knowledge_distillation/
 date: "2026-07-18T16:02:35.594393Z"
 lastmod: "2026-07-18T17:15:08.888507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Distylacja wiedzy to technika kompresji modelu, w której mniejszy model uczeń uczy się naśladować zachowanie większego modelu nauczyciela."
 ---
-
 ## Definition
 
 Distylacja wiedzy to metoda uczenia maszynowego służąca do kompresji dużego, złożonego układu nerwowego (nauczyciela) w mniejszy, bardziej wydajny układ (uczeń). Model uczeń jest trenowany do naśladowania wyjść modelu nauczyciela.

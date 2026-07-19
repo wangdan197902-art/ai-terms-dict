@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /pl/terms/coding/
 date: "2026-07-18T15:45:57.362530Z"
 lastmod: "2026-07-18T17:15:08.854501Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Kodowanie to proces pisania instrukcji dla komputerów przy użyciu języków programowania w celu tworzenia oprogramowania, aplikacji lub skryptów."
 ---
-
 ## Definition
 
 Kodowanie, znane również jako programowanie, polega na tłumaczeniu ludzkiej logiki i wymagań na format wykonywalny przez komputery. Wykorzystuje specyficzną składnię i semantykę zdefiniowaną przez języki programowania, takie jak

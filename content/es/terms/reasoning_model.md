@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /es/terms/reasoning_model/
 date: "2026-07-18T11:06:12.130123Z"
 lastmod: "2026-07-18T11:44:44.849406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un modelo de IA optimizado específicamente para realizar deducción lógica compleja, resolución de problemas paso a paso y procesamiento de pensamiento encadenado."
 ---
-
 ## Definition
 
 A diferencia de los modelos generativos estándar centrados en la fluidez, los modelos de razonamiento priorizan la precisión en tareas multietapa como matemáticas, programación y acertijos lógicos. A menudo emplean técnicas como el Pensamiento Encadenado (Chain-of-Thought) para desglosar problemas complejos.

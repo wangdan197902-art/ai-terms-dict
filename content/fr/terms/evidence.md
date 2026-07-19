@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /fr/terms/evidence/
 date: "2026-07-18T10:50:09.517259Z"
 lastmod: "2026-07-18T11:44:45.162087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Données ou informations utilisées pour étayer une hypothèse ou valider les performances d'un modèle d'IA."
 ---
-
 ## Definition
 
 En intelligence artificielle, l'évidence désigne les données empiriques, les résultats statistiques ou les résultats observables qui étayent les affirmations concernant le comportement, la précision ou l'efficacité d'un modèle. Elle sert de fondement à la validation des modèles.

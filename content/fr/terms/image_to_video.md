@@ -1,23 +1,24 @@
 ---
-title: "Image vers Vidéo"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Image vers Vidéo
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /fr/terms/image_to_video/
-date: "2026-07-18T11:23:08.237122Z"
-lastmod: "2026-07-18T11:44:45.273634Z"
+slug: image_to_video
+date: '2026-07-18T11:23:08.237122Z'
+lastmod: '2026-07-18T11:44:45.273634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un processus génératif où une image statique est animée pour créer un court clip vidéo, ajoutant des dynamiques temporelles et du mouvement."
+source: agnes_llm
+status: published
+language: fr
+description: Un processus génératif où une image statique est animée pour créer un
+  court clip vidéo, ajoutant des dynamiques temporelles et du mouvement.
 ---
-
 ## Definition
 
 La technologie Image vers Vidéo prend une seule image fixe et prédit les images suivantes pour générer une séquence vidéo cohérente. Cela implique la modélisation de la cohérence temporelle et de la dynamique physique pour assurer un mouvement fluide et naturel.

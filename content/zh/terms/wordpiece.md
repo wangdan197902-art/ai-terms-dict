@@ -1,23 +1,23 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /zh/terms/wordpiece/
-date: "2026-07-18T11:38:14.659800Z"
-lastmod: "2026-07-18T11:44:45.569181Z"
+slug: wordpiece
+date: '2026-07-18T11:38:14.659800Z'
+lastmod: '2026-07-18T11:44:45.569181Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种子词分词算法，通过递归合并最频繁出现的字符对来处理未登录词（OOV）。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种子词分词算法，通过递归合并最频繁出现的字符对来处理未登录词（OOV）。
 ---
-
 ## Definition
 
 WordPiece 是一种广泛应用于 BERT 和 ALBERT 等自然语言处理模型的分词方法。它将单词分解为更小的子词单元，以应对形态学丰富性并减少词汇表大小，从而更好地处理未见过的单词。

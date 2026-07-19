@@ -1,23 +1,25 @@
 ---
-title: "Planificare pe viață A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Planificare pe viață A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /ro/terms/lifelong_planning_a/
-date: "2026-07-18T16:08:34.181746Z"
-lastmod: "2026-07-18T17:15:09.675031Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:08:34.181746Z'
+lastmod: '2026-07-18T17:15:09.675031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un algoritm incrementali de găsire a drumului care actualizează eficient cele mai scurte căi în grafuri dinamice fără a recalculea de la zero după modificările greutăților muchiilor."
+source: agnes_llm
+status: published
+language: ro
+description: Un algoritm incrementali de găsire a drumului care actualizează eficient
+  cele mai scurte căi în grafuri dinamice fără a recalculea de la zero după modificările
+  greutăților muchiilor.
 ---
-
 ## Definition
 
 Lifelong Planning A* (LPA*) este o extensie a algoritmului de căutare A* concepută pentru medii în care costurile se schimbă în timp. În loc să repornească căutarea, LPA* menține o coadă de priorități și actualizează doar nodurile afectate de modificări, asigurând o eficiență superioară în scenarii dinamice.

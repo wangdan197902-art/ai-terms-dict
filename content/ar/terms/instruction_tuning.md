@@ -1,23 +1,23 @@
 ---
-title: "ضبط التعليمات"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: ضبط التعليمات
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /ar/terms/instruction_tuning/
-date: "2026-07-18T15:27:07.219399Z"
-lastmod: "2026-07-18T17:15:08.441078Z"
+slug: instruction_tuning
+date: '2026-07-18T15:27:07.219399Z'
+lastmod: '2026-07-18T17:15:08.441078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ضبط التعليمات هو تقنية ضبط دقيق حيث يتم تدريب نموذج لغوي مُدرَّب مسبقاً على مجموعة بيانات من تعليمات واستجاباتها المقابلة لتحسين قدرته على اتباع المهام."
+source: agnes_llm
+status: published
+language: ar
+description: ضبط التعليمات هو تقنية ضبط دقيق حيث يتم تدريب نموذج لغوي مُدرَّب مسبقاً
+  على مجموعة بيانات من تعليمات واستجاباتها المقابلة لتحسين قدرته على اتباع المهام.
 ---
-
 ## Definition
 
 تسد هذه العملية الفجوة بين التدريب العام المسبق والأداء المحدد للمهام. ومن خلال تعريض النموذج لأزواج متنوعة من التعليمات والاستجابات، يتعلم التعميم على المهام غير المرئية دون الحاجة إلى مزيد من الضبط.

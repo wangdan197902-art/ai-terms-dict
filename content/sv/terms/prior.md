@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /sv/terms/prior/
 date: "2026-07-18T15:29:48.140994Z"
 lastmod: "2026-07-18T17:15:08.949205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inom bayesiansk statistik är en sannolikhetsfördelning som uttrycker kunskap eller tro om en parameter innan ny evidens eller data observeras."
 ---
-
 ## Definition
 
 En 'prior' representerar befintliga övertygelser eller historisk data gällande en variabel innan nya observationer integreras. Inom bayesiansk inferens kombineras priorn med sannolikheten för den observerade da...

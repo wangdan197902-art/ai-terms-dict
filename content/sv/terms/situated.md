@@ -1,23 +1,25 @@
 ---
-title: "Situerad"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: Situerad
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /sv/terms/situated/
-date: "2026-07-18T16:20:36.731316Z"
-lastmod: "2026-07-18T17:15:09.047526Z"
+slug: situated
+date: '2026-07-18T16:20:36.731316Z'
+lastmod: '2026-07-18T17:15:09.047526Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Beskriver AI-system eller agenter som verkar inom och anpassar sig efter specifika fysiska, sociala eller miljömässiga sammanhang."
+source: agnes_llm
+status: published
+language: sv
+description: Beskriver AI-system eller agenter som verkar inom och anpassar sig efter
+  specifika fysiska, sociala eller miljömässiga sammanhang.
 ---
-
 ## Definition
 
 Inom artificiell intelligens syftar 'situerad' på agenter som är inbäddade i en miljö och interagerar med den i realtid. Till skillnad från abstrakta problemlösare måste situerade agenter bearbeta sensorisk input kontinuerligt.

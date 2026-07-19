@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /de/terms/foundation/
 date: "2026-07-18T10:50:14.240797Z"
 lastmod: "2026-07-18T11:44:44.874564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein vortrainiertes Modell, das auf umfangreichen Datensätzen trainiert wurde, um als Basis für verschiedene nachgelagerte Aufgaben zu dienen."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz bezeichnet ein Grundlagenmodell ein großskaliges maschinelles Lernmodell, das auf breiten Daten im großen Maßstab trainiert wurde, wie z. B. Bilder, Text oder Audio. Diese Modelle sind darauf ausgelegt, anpassbar zu sein

@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "governance"]
 difficulty: 2
 weight: 1
 slug: "trustworthy_ai"
-aliases:
-  - /vi/terms/trustworthy_ai/
 date: "2026-07-18T16:15:09.359814Z"
 lastmod: "2026-07-18T16:38:07.813814Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trustworthy AI đề cập đến các hệ thống trí tuệ nhân tạo an toàn, bảo mật, minh bạch, công bằng và có thể giải trình trong suốt vòng đời của chúng."
 ---
-
 ## Definition
 
 Trustworthy AI bao gồm các nguyên tắc và thực tiễn đảm bảo rằng các hệ thống AI vận hành một cách đáng tin cậy và đạo đức. Các thuộc tính chính bao gồm khả năng chống chịu trước các cuộc tấn công, sự công bằng trên các nhóm dân cư đa dạng, tính minh bạch trong hoạt động và trách nhiệm giải trình rõ ràng.

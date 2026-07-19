@@ -1,23 +1,23 @@
 ---
-title: "à deux étapes"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: à deux étapes
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /fr/terms/two_stage/
-date: "2026-07-18T10:58:39.505829Z"
-lastmod: "2026-07-18T11:44:45.181319Z"
+slug: two_stage
+date: '2026-07-18T10:58:39.505829Z'
+lastmod: '2026-07-18T11:44:45.181319Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une architecture de pipeline où le traitement se déroule en phases distinctes et séquentielles."
+source: agnes_llm
+status: published
+language: fr
+description: Une architecture de pipeline où le traitement se déroule en phases distinctes
+  et séquentielles.
 ---
-
 ## Definition
 
 Les architectures à deux étapes divisent une tâche complexe en deux étapes séparées, impliquant généralement une détection suivie d'une classification ou d'un affinage. En vision par ordinateur, on trouve des exemples comme les détecteurs d'objets tel...

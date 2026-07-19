@@ -1,23 +1,24 @@
 ---
-title: "التعلم العميق"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: التعلم العميق
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /ar/terms/deep_learning/
-date: "2026-07-18T15:22:50.269431Z"
-lastmod: "2026-07-18T17:15:08.432556Z"
+slug: deep_learning
+date: '2026-07-18T15:22:50.269431Z'
+lastmod: '2026-07-18T17:15:08.432556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "جزء من تعلم الآلة يستخدم شبكات عصبية اصطناعية متعددة الطبقات لنمذجة الأنماط والعلاقات المعقدة في البيانات."
+source: agnes_llm
+status: published
+language: ar
+description: جزء من تعلم الآلة يستخدم شبكات عصبية اصطناعية متعددة الطبقات لنمذجة الأنماط
+  والعلاقات المعقدة في البيانات.
 ---
-
 ## Definition
 
 تحاول خوارزميات التعلم العميق محاكاة العمليات التحليلية والتعلمية في الدماغ البشري. من خلال تكديس طبقات متعددة من العقد المترابطة، يمكن لهذه النماذج تعلم ميزات هرمية من كميات هائلة من البيانات المعقدة وغير المهيكلة.

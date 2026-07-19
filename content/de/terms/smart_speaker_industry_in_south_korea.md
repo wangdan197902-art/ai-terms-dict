@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /de/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T11:33:43.295744Z"
 lastmod: "2026-07-18T11:44:44.986211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Marktökosystem, das Hardwarehersteller und KI-Dienstleister umfasst, die sprachgesteuerte Geräte in Südkorea anbieten."
 ---
-
 ## Definition
 
 Dieser Begriff bezieht sich auf die spezifischen regionalen Marktdynamiken rund um Smart Speaker in Südkorea, die durch eine hohe Smartphone-Durchdringung und eine fortschrittliche Breitbandinfrastruktur gekennzeichnet sind. Er umfasst die wichtigsten Akteure...

@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /sv/terms/interpretability/
 date: "2026-07-18T15:38:36.001659Z"
 lastmod: "2026-07-18T17:15:08.963341Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den grad till vilken en människa kan förstå orsaken till ett beslut fattat av en AI-modell."
 ---
-
 ## Definition
 
 Tolkbarhet, eller förklarbarhet, innebär att göra de interna arbetsmekanismerna och beslutsprocesserna i AI-modeller transparenta och begripliga för människor. Detta är avgörande för felsökning och säkerställande av rättvisa.

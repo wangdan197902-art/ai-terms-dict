@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /he/terms/ai_security_institute/
 date: "2026-07-18T15:39:29.841228Z"
 lastmod: "2026-07-18T17:15:09.506709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ארגון המתמקד במחקר, פיתוח וקידום של נהלי עבודה מומלצים לאבטחת מערכות בינה מלאכותית."
 ---
-
 ## Definition
 
 מכון אבטחת בינה מלאכותית הוא גוף המתמחה בהפחתת הסיכונים הכרוכים בטכנולוגיות בינה מלאכותית. מכונים אלו עוסקים במחקר על התקפות אדוורסריות, פרטיות נתונים ואתיקה, ומטרתם לספק כלים וסטנדרטים לחיזוק האבטחה של המודלים.

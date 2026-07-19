@@ -1,23 +1,24 @@
 ---
-title: "Mạng Kolmogorov–Arnold"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Mạng Kolmogorov–Arnold
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /vi/terms/kolmogorovarnold_networks/
-date: "2026-07-18T15:59:37.973452Z"
-lastmod: "2026-07-18T16:38:07.773820Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T15:59:37.973452Z'
+lastmod: '2026-07-18T16:38:07.773820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Kiến trúc mạng nơ-ron dựa trên định lý biểu diễn Kolmogorov-Arnold, cung cấp một lựa chọn thay thế cho mạng perceptron đa lớp."
+source: agnes_llm
+status: published
+language: vi
+description: Kiến trúc mạng nơ-ron dựa trên định lý biểu diễn Kolmogorov-Arnold, cung
+  cấp một lựa chọn thay thế cho mạng perceptron đa lớp.
 ---
-
 ## Definition
 
 Mạng Kolmogorov–Arnold (KANs) là một lớp mạng nơ-ron gần đây, lấy cảm hứng từ định lý biểu diễn Kolmogorov-Arnold, định lý này khẳng định rằng bất kỳ hàm liên tục nhiều biến nào cũng có thể được biểu diễn dưới dạng...

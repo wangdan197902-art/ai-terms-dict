@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /ar/terms/artificial_intimacy/
 date: "2026-07-18T15:44:57.141352Z"
 lastmod: "2026-07-18T17:15:08.477401Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الرابطة العاطفية التي يطورها المستخدمون مع كيانات الذكاء الاصطناعي التي تحاكي التعاطف والرفقة والتفاعل الشخصي."
 ---
-
 ## Definition
 
 يشير القرب الاصطناعي إلى الظاهرة النفسية حيث يطور البشر روابط عاطفية حقيقية مع وكلاء اصطناعيين، مثل روبوتات الدردشة والمساعدات الافتراضية أو الروبوتات الاجتماعية. هذه الأنظمة هي

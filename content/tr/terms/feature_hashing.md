@@ -1,23 +1,24 @@
 ---
-title: "Özellik Hashleme"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Özellik Hashleme
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /tr/terms/feature_hashing/
-date: "2026-07-18T15:53:29.767822Z"
-lastmod: "2026-07-18T16:38:07.308925Z"
+slug: feature_hashing
+date: '2026-07-18T15:53:29.767822Z'
+lastmod: '2026-07-18T16:38:07.308925Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yüksek boyutlu seyrek özellikleri bir hash fonksiyonu kullanarak sabit boyutlu bir vektöre eşleyen bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Yüksek boyutlu seyrek özellikleri bir hash fonksiyonu kullanarak sabit
+  boyutlu bir vektöre eşleyen bir teknik.
 ---
-
 ## Definition
 
 Hashleme hilesi olarak da bilinen Özellik Hashleme, makine öğrenmesi modellerinin açık bir özellik-dizin eşlemesi tutmadan büyük ve seyrek özellik alanlarıyla başa çıkmasını sağlar. Uygulayarak

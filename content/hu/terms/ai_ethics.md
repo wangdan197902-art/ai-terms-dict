@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /hu/terms/ai_ethics/
 date: "2026-07-18T15:37:01.184032Z"
 lastmod: "2026-07-18T17:15:09.738184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az etikai kérdések és következmények tanulmányozása, amelyek a mesterséges intelligencia rendszerek fejlesztésével és alkalmazásával járnak."
 ---
-
 ## Definition
 
 Az MI-etika magában foglalja azokat az elveket és szabványokat, amelyek biztosítják, hogy a mesterséges intelligencia technológiákat felelősségteljesen fejlesszék és alkalmazzák. Kezeli a kritikus aggályokat, mint például...

@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /ja/terms/qwen36/
 date: "2026-07-18T11:29:50.787465Z"
 lastmod: "2026-07-18T11:44:45.137172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Qwen3シリーズの後続マイナーアップデートで、パフォーマンス指標や特定ドメインの知識を洗練させたもの。"
 ---
-
 ## Definition
 
 Qwen3.6は、Qwen3モデルファミリーにおけるさらなる洗練を表します。マイナーバージョンのアップデートは、既存機能の磨き上げ、エッジケースでのエラー修正、トレーニングデータの品質最適化などに焦点を当てることが一般的です。

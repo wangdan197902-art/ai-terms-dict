@@ -1,23 +1,23 @@
 ---
-title: "대리 모델"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: 대리 모델
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /ko/terms/surrogate_model/
-date: "2026-07-18T16:17:37.518726Z"
-lastmod: "2026-07-18T16:38:06.912336Z"
+slug: surrogate_model
+date: '2026-07-18T16:17:37.518726Z'
+lastmod: '2026-07-18T16:38:06.912336Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "더 복잡하거나 계산 비용이 많이 들거나 접근하기 어려운 블랙박스 모델의 동작을 근사화하는 데 사용되는 단순화된 수학적 모델입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 더 복잡하거나 계산 비용이 많이 들거나 접근하기 어려운 블랙박스 모델의 동작을 근사화하는 데 사용되는 단순화된 수학적 모델입니다.
 ---
-
 ## Definition
 
 기계 학습 및 최적화에서 대리 모델은 직접 평가하기 어려운 대상 함수의 대리자 역할을 합니다. 원래 모델의 입력-출력 쌍을 기반으로 훈련되어, 원본 모델의 행동을 효율적으로 모사합니다.

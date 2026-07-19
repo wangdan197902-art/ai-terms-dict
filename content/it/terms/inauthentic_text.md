@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /it/terms/inauthentic_text/
 date: "2026-07-18T16:04:25.371110Z"
 lastmod: "2026-07-18T17:15:08.636632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Contenuti testuali generati artificialmente o manipolati per ingannare i lettori riguardo alla loro origine, paternità o base fattuale."
 ---
-
 ## Definition
 
 Il testo inautentico si riferisce a materiale scritto prodotto da sistemi di IA o da esseri umani con intento ingannevole, privo di genuina esperienza umana o fondamento fattuale. Include spam generato da IA, notizie false fabbricate, recensioni fake e contenuti creati per manipolare l'opinione pubblica o eludere i sistemi di rilevamento.

@@ -1,23 +1,24 @@
 ---
-title: "Agent Fuzzy"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Agent Fuzzy
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /ro/terms/fuzzy_agent/
-date: "2026-07-18T15:59:14.165294Z"
-lastmod: "2026-07-18T17:15:09.657865Z"
+slug: fuzzy_agent
+date: '2026-07-18T15:59:14.165294Z'
+lastmod: '2026-07-18T17:15:09.657865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O entitate autonomă care utilizează logica fuzzy pentru a gestiona incertitudinea și informațiile imprecise în procesele de luare a deciziilor."
+source: agnes_llm
+status: published
+language: ro
+description: O entitate autonomă care utilizează logica fuzzy pentru a gestiona incertitudinea
+  și informațiile imprecise în procesele de luare a deciziilor.
 ---
-
 ## Definition
 
 Un agent fuzzy operează în medii unde datele sunt adesea ambigue sau incomplete, folosind sisteme de logică fuzzy în loc de stări binare adevărat/fals. Prin utilizarea funcțiilor de apartenență și a regulilor linguistice, acest agent poate lua decizii robuste chiar și în condiții de vaginitate a informațiilor.

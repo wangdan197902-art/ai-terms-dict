@@ -1,23 +1,23 @@
 ---
-title: "وكيل برمجيات"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: وكيل برمجيات
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /ar/terms/software_agent/
-date: "2026-07-18T16:21:01.486755Z"
-lastmod: "2026-07-18T17:15:08.548873Z"
+slug: software_agent
+date: '2026-07-18T16:21:01.486755Z'
+lastmod: '2026-07-18T17:15:08.548873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "برنامج حاسوب يؤدي مهامًا نيابة عن المستخدمين أو برامج أخرى بدرجة من الاستقلالية."
+source: agnes_llm
+status: published
+language: ar
+description: برنامج حاسوب يؤدي مهامًا نيابة عن المستخدمين أو برامج أخرى بدرجة من الاستقلالية.
 ---
-
 ## Definition
 
 وكيل البرمجيات هو كيان مستقل قادر على إدراك بيئته، والتفكير، والتصرف لتحقيق أهداف محددة. يمكن لهذه الوكلاء العمل بشكل مستقل، والتكيف مع التغييرات، والتعاون...

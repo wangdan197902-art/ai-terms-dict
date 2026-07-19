@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /ja/terms/ocr/
 date: "2026-07-18T11:26:14.779377Z"
 lastmod: "2026-07-18T11:44:45.128135Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "OCRは、スキャンされた紙文書や画像など、さまざまな種類のドキュメントを編集可能かつ検索可能なデータに変換する技術です。"
 ---
-
 ## Definition
 
 光学文字認識（OCR）は、画像処理とパターン認識アルゴリズムを使用して、デジタル画像内のテキストを識別します。印刷物や手書きの文字をマシンエンコード可能な形式に変換し、情報のデジタル化を促進します。

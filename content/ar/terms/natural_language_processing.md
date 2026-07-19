@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /ar/terms/natural_language_processing/
 date: "2026-07-18T15:28:58.920451Z"
 lastmod: "2026-07-18T17:15:08.443936Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "فرع من فروع الذكاء الاصطناعي يركز على تمكين الحواسيب من فهم وتفسير وتوليد اللغة البشرية."
 ---
-
 ## Definition
 
 معالجة اللغات الطبيعية (NLP) هي فرع فرعي من الذكاء الاصطناعي يجمع بين اللغويات الحاسوبية والنماذج الإحصائية وتعلم الآلة والتعلم العميق. وهي تتيح للآلات فهم النصوص البشرية ومعالجتها.

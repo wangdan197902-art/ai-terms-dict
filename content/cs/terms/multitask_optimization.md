@@ -1,23 +1,24 @@
 ---
-title: "Vícenásobná optimalizace úloh"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Vícenásobná optimalizace úloh
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /cs/terms/multitask_optimization/
-date: "2026-07-18T16:10:15.216532Z"
-lastmod: "2026-07-18T17:15:09.156464Z"
+slug: multitask_optimization
+date: '2026-07-18T16:10:15.216532Z'
+lastmod: '2026-07-18T17:15:09.156464Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Tréninková strategie, při které je model optimalizován pro současné plnění více souvisejících úloh."
+source: agnes_llm
+status: published
+language: cs
+description: Tréninková strategie, při které je model optimalizován pro současné plnění
+  více souvisejících úloh.
 ---
-
 ## Definition
 
 Vícenásobná optimalizace úloh zahrnuje trénování jednoho modelu pro zvládnutí několika odlišných, ale souvisejících úloh najednou. Sdílením intermediárních reprezentací mezi úlohami může model naučit obecnější vlastnosti.

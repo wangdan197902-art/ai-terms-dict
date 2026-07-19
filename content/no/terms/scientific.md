@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /no/terms/scientific/
 date: "2026-07-18T15:29:52.449046Z"
 lastmod: "2026-07-18T16:38:06.945986Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Vitenskapelig innen AI refererer til anvendelsen av strenge empiriske metoder, hypotesetesting og reproducerbarhet i forskning."
 ---
-
 ## Definition
 
 Den vitenskapelige tilnærmingen innen kunstig intelligens legger vekt på bevisbasert utvikling og validering. Det involverer å formulere hypoteser om modellatferd, gjennomføre kontrollerte eksperimenter og

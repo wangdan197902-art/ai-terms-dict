@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /de/terms/vision_language/
 date: "2026-07-18T11:00:31.560955Z"
 lastmod: "2026-07-18T11:44:44.901963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Vision-Language-Modelle sind KI-Systeme, die visuelle Daten mit textuellen Informationen verarbeiten und korrelieren, um multimodale Kontexte zu verstehen."
 ---
-
 ## Definition
 
 Vision-Language-Modelle, oft als Multimodale Große Sprachmodelle (MLLMs) bezeichnet, integrieren Computer Vision und Natural Language Processing. Sie ermöglichen es KI, Bilder zu verstehen und Text zu generieren.

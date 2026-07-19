@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /ro/terms/code_generation/
 date: "2026-07-18T15:22:54.977508Z"
 lastmod: "2026-07-18T17:15:09.587547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de utilizare a inteligenței artificiale pentru a crea automat cod sursă din descrieri în limbaj natural sau din fragmente de cod existente."
 ---
-
 ## Definition
 
 Generarea de cod se bazează pe modele linguistice mari antrenate pe depozite vaste de limbaje de programare pentru a produce artefacte software funcționale. Aceasta interpretează prompturi lizibile de oameni, cum ar fi comentariile sau descrierile funcționale, transformându-le în cod executabil.

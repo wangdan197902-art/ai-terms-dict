@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /da/terms/bias/
 date: "2026-07-18T15:22:31.913728Z"
 lastmod: "2026-07-18T17:15:09.217412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Systematisk fordom i KI-modeller, der fører til uretfærdige resultater over for visse grupper eller individer."
 ---
-
 ## Definition
 
 Ingen etik refererer bias til systematisk og uretfærdig diskriminering i algoritmiske beslutningsprocesser, ofte som følge af skæve træningsdata eller mangelfuld modeldesign. Dette kan føre til negative konsekvenser for

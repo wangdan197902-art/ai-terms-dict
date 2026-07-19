@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /he/terms/bradleyterry_model/
 date: "2026-07-18T15:46:58.107731Z"
 lastmod: "2026-07-18T17:15:09.518217Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל סטטיסטי המשמש לניתוח נתוני השוואה בזוגות, המשער את ההסתברות שפריט אחד מעדיף על פני אחר."
 ---
-
 ## Definition
 
 מודל ברדלי-טירי הוא מודל הסתברותי המשמש נרחב בפסיכומטריקה ולמידת מכונה לטיפול בהשוואות זוגיות. הוא משיג ציון נסתר לכל פריט, ומחשב את ההסתברות שהוא יועדף על פני פריט אחר בהתבסס על הציונים הללו.

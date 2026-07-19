@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /en/terms/inferential_theory_of_learning/
 date: "2026-07-18T10:02:49.698930Z"
 lastmod: "2026-07-18T11:44:44.685530Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A framework where learning is viewed as Bayesian inference, updating beliefs about hypotheses based on observed data."
 ---
-
 ## Definition
 
 This theory posits that learning is essentially a process of probabilistic inference. Instead of memorizing data, the learner maintains a probability distribution over possible models or hypotheses. As new data arrives, Bayes' theorem is used to update these probabilities, refining the model's understanding of the underlying structure. It emphasizes generalization through uncertainty quantification rather than point estimates.

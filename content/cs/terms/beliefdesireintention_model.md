@@ -1,23 +1,24 @@
 ---
-title: "Model víry-požadavků-záměrů"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Model víry-požadavků-záměrů
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /cs/terms/beliefdesireintention_model/
-date: "2026-07-18T15:44:54.971861Z"
-lastmod: "2026-07-18T17:15:09.107178Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:44:54.971861Z'
+lastmod: '2026-07-18T17:15:09.107178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Filozofický rámec používaný v AI k modelování racionálních agentů na základě jejich vír, požadavků a záměrů."
+source: agnes_llm
+status: published
+language: cs
+description: Filozofický rámec používaný v AI k modelování racionálních agentů na
+  základě jejich vír, požadavků a záměrů.
 ---
-
 ## Definition
 
 Model Víra-Požadavky-Záměry (BDI) je kognitivní architektura pro navrhování autonomních agentů, kteří přijímají racionální rozhodnutí. Víry představují znalosti agenta o světě, požadavky jsou cíle nebo přání agenta a záměry jsou konkrétní plány, které si agent zvolil k realizaci svých požadavků na základě jeho vír.

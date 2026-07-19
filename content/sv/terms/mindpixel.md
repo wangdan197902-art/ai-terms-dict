@@ -7,8 +7,6 @@ tags: ["neurotech", "niche", "research"]
 difficulty: 4
 weight: 1
 slug: "mindpixel"
-aliases:
-  - /sv/terms/mindpixel/
 date: "2026-07-18T16:09:41.387499Z"
 lastmod: "2026-07-18T17:15:09.026559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Mindpixel är en konceptuell eller proprietär term som ofta syftar på diskreta enheter av kognitiv data eller neuraktivitetsmått som används i forskning om hjärn-dator-gränssnitt."
 ---
-
 ## Definition
 
 Även om det inte är en standardiserad akademisk term, syftar 'Mindpixel' vanligtvis på en diskret informationsenhet härledd från nervsignaler eller kognitiva tillstånd inom specialiserad neuroteknologi. Det kan syfta på...

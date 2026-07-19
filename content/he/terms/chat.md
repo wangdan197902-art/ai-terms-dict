@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /he/terms/chat/
 date: "2026-07-18T15:47:32.569573Z"
 lastmod: "2026-07-18T17:15:09.519298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "צ'אט מתייחס לתקשורת אינטראקטיבית ושיחתית בין משתמש למערכת בינה מלאכותית, בדרך כלל באמצעות שפה טבעית."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית, צ'אט מציין את הממשק והמנגנון הבסיסי לדו-שיח בזמן אמת ובתורות. הוא מאפשר למשתמשים לשאול שאלות, לבקש ביצוע משימות או להשתתף בשיחה פתוחה.

@@ -1,23 +1,24 @@
 ---
-title: "من الصوت إلى الصوت"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: من الصوت إلى الصوت
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /ar/terms/audio_to_audio/
-date: "2026-07-18T15:45:12.337570Z"
-lastmod: "2026-07-18T17:15:08.478241Z"
+slug: audio_to_audio
+date: '2026-07-18T15:45:12.337570Z'
+lastmod: '2026-07-18T17:15:08.478241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مهمة في الذكاء الاصطناعي التوليدي يتم فيها تحويل الصوت المدخل إلى صوت مخرج مع الحفاظ على خصائص معينة أو تعديلها."
+source: agnes_llm
+status: published
+language: ar
+description: مهمة في الذكاء الاصطناعي التوليدي يتم فيها تحويل الصوت المدخل إلى صوت
+  مخرج مع الحفاظ على خصائص معينة أو تعديلها.
 ---
-
 ## Definition
 
 يشير الصوت إلى الصوت إلى هندسات الشبكات العصبية المصممة لربط إشارة صوتية بأخرى. على عكس النص إلى الكلام، تتضمن هذه العملية تحويل الموجات الصوتية أو الطيف مباشرة. تشمل التطبيقات

@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /pl/terms/together/
 date: "2026-07-18T15:30:43.129455Z"
 lastmod: "2026-07-18T17:15:08.822831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Termin ten opisuje zazwyczaj współpracujące systemy AI lub metody ensemblesowe, w których wiele modeli lub agentów działa wspólnie, aby osiągnąć ujednolicony wynik."
 ---
-
 ## Definition
 
 Choć nie jest to ścisły termin techniczny, w kontekście AI słowo 'wspólnie' często implikuje współpracę, taką jak systemy wieloagentowe dążące do wspólnego celu lub uczenie zespołowe (ensemble learning), gdzie kilka modeli łączy swoje przewidywania dla lepszej dokładności.

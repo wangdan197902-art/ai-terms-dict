@@ -1,23 +1,24 @@
 ---
-title: "Bác sĩ ghi chép y tế tự động"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Bác sĩ ghi chép y tế tự động
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /vi/terms/automated_medical_scribe/
-date: "2026-07-18T15:41:55.146836Z"
-lastmod: "2026-07-18T16:38:07.731080Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:41:55.146836Z'
+lastmod: '2026-07-18T16:38:07.731080Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Hệ thống dựa trên AI tự động tạo ra hồ sơ tài liệu lâm sàng từ các tương tác giữa bác sĩ và bệnh nhân."
+source: agnes_llm
+status: published
+language: vi
+description: Hệ thống dựa trên AI tự động tạo ra hồ sơ tài liệu lâm sàng từ các tương
+  tác giữa bác sĩ và bệnh nhân.
 ---
-
 ## Definition
 
 Bác sĩ ghi chép y tế tự động sử dụng công nghệ xử lý ngôn ngữ tự nhiên (NLP) và nhận dạng giọng nói để lắng nghe cuộc trò chuyện giữa bác sĩ và bệnh nhân, sau đó tạo ra các hồ sơ sức khỏe điện tử có cấu trúc. Công nghệ này giúp tự động hóa quy trình ghi chép, giảm tải công việc hành chính cho nhân viên y tế và đảm bảo tính chính xác của dữ liệu lâm sàng.

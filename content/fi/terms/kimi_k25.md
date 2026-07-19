@@ -7,8 +7,6 @@ tags: ["LLM", "Versioning", "Performance"]
 difficulty: 2
 weight: 1
 slug: "kimi_k25"
-aliases:
-  - /fi/terms/kimi_k25/
 date: "2026-07-18T16:05:03.325016Z"
 lastmod: "2026-07-18T17:15:09.424910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kimi K25 on Moonshot AI:n myöhempi suuren kielimallin variantti, jossa suorituskyky ja tehokkuus ovat edeltäjiinsä verrattuna tarkennettu edelleen."
 ---
-
 ## Definition
 
 Kimi K25 on edistynyt versio Moonshot AI:n Kimi-mallisarjassa. Se perustuu aiempien versioiden, kuten Kimi K2:n, pohjalle ja tarjoaa parannuksia johtopäätösten tekemisessä (inference) nopeudessa sekä

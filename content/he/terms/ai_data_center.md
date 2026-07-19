@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /he/terms/ai_data_center/
 date: "2026-07-18T15:39:44.911054Z"
 lastmod: "2026-07-18T17:15:09.507476Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתקן מיוחד המיועד לאחסן ולהפעיל תשתית מחשוב ביצועים גבוהים לעומסי עבודה של בינה מלאכותית."
 ---
-
 ## Definition
 
 מרכז נתונים לבינה מלאכותית הוא מתקן פיזי המותאם להפעלת יישומי בינה מלאכותית, ובמיוחד אימון והסקה של למידה עמוקה. מרכזים אלו כוללים מדפי שרתים בצפיפות גבוהה, מערכות קירור מתקדמות וחיבוריות רשתית מהירה.

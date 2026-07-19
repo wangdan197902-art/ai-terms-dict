@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /da/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:06:29.362982Z"
 lastmod: "2026-07-18T17:15:09.308692Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brugen af maskinlæringsalgoritmer til at analysere geospatiale og miljømæssige data til at forudsige naturfænomener og administrere ressourcer."
 ---
-
 ## Definition
 
 Maskinlæring forbedrer jordvidenskaberne ved at behandle satellitbilleder, seismiske data og klimaregister for at modellere komplekse miljøsystemer. Disse teknikker hjælper med at forudsige vejrtrækninger, overvåge ismelting og analysere jordskælvsmønstre, hvilket er afgørende for katastrofeberedskab og bæredygtig ressourcehåndtering.

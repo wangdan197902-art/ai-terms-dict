@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /it/terms/graphs/
 date: "2026-07-18T15:25:30.800867Z"
 lastmod: "2026-07-18T17:15:08.567330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La forma plurale che si riferisce a più strutture di grafo o rappresentazioni visive delle tendenze dei dati nel machine learning."
 ---
-
 ## Definition
 
 Mentre il singolare 'grafo' si riferisce alla struttura dati astratta, 'grafici' denota spesso o più istanze distinte di grafi o tracciati visivi utilizzati nel monitoraggio del ML. Nella visualizzazione, grafici a linee o ba

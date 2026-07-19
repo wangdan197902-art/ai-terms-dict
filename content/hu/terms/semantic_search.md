@@ -1,23 +1,24 @@
 ---
-title: "Szemantikus keresés"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Szemantikus keresés
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /hu/terms/semantic_search/
-date: "2026-07-18T15:39:41.441167Z"
-lastmod: "2026-07-18T17:15:09.745260Z"
+slug: semantic_search
+date: '2026-07-18T15:39:41.441167Z'
+lastmod: '2026-07-18T17:15:09.745260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Keresőtechnológia, amely megérti a lekérdezési kifejezések jelentését, nem csak a kulcsszavak egyeztetését végzi."
+source: agnes_llm
+status: published
+language: hu
+description: Keresőtechnológia, amely megérti a lekérdezési kifejezések jelentését,
+  nem csak a kulcsszavak egyeztetését végzi.
 ---
-
 ## Definition
 
 A szemantikus keresés értelmezi a lekérdezés mögötti szándékot és kontextuális jelentést, túlmutatva az egyszerű kulcsszavas egyeztetésen. Beágyazásokat használ a szöveg vektorokká való ábrázolásához egy magas dimenziós térben, lehetővé téve...

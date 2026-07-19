@@ -1,23 +1,24 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /th/terms/mauve/
-date: "2026-07-18T16:03:56.736005Z"
-lastmod: "2026-07-18T16:38:07.628354Z"
+slug: mauve
+date: '2026-07-18T16:03:56.736005Z'
+lastmod: '2026-07-18T16:38:07.628354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) คือเมตริกที่ใช้ในการประมวลผลภาษาธรรมชาติเพื่อประเมินความสอดคล้องระหว่างการกระจายตัวของข้อความที่สร้างโดย AI กับการกระจายตัวของข้อความที่เขียนโดยมนุ"
+source: agnes_llm
+status: published
+language: th
+description: MAUVE (Measuring Alignment Using Virtual Embeddings) คือเมตริกที่ใช้ในการประมวลผลภาษาธรรมชาติเพื่อประเมินความสอดคล้องระหว่างการกระจายตัวของข้อความที่สร้างโดย
+  AI กับการกระจายตัวของข้อความที่เขียนโดยมนุ
 ---
-
 ## Definition
 
 MAUVE เป็นมาตรวัดทางสถิติที่ออกแบบมาเพื่อประเมินว่าผลลัพธ์ของโมเดลภาษาแบบกำเนิด (generative language model) คล้ายคลึงกับรูปแบบการใช้ภาษาของมนุษย์เพียงใด ต่างจากคะแนนความสับสน (perplexity) ธรรมดา MAUVE ใช้การฝังตัวเสมือน (virtual embeddings) เพื่อ

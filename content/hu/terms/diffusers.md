@@ -1,23 +1,26 @@
 ---
-title: "Diffusers"
-term_id: "diffusers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["library", "generative_ai", "tools", "hugging_face"]
+title: Diffusers
+term_id: diffusers
+category: basic_concepts
+subcategory: ''
+tags:
+- library
+- Generative AI
+- tools
+- Hugging Face
 difficulty: 2
 weight: 1
-slug: "diffusers"
-aliases:
-  - /hu/terms/diffusers/
-date: "2026-07-18T15:56:37.109338Z"
-lastmod: "2026-07-18T17:15:09.776209Z"
+slug: diffusers
+date: '2026-07-18T15:56:37.109338Z'
+lastmod: '2026-07-18T17:15:09.776209Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy könyvtár a Hugging Face ökoszisztémában, amely az állóképek, hangok és szöveg generálására szolgáló diffúziós modellek legmodernebb implementációit biztosítja."
+source: agnes_llm
+status: published
+language: hu
+description: Egy könyvtár a Hugging Face ökoszisztémában, amely az állóképek, hangok
+  és szöveg generálására szolgáló diffúziós modellek legmodernebb implementációit
+  biztosítja.
 ---
-
 ## Definition
 
 A Hugging Face Diffusers egy moduláris eszközkészlet, amely megkönnyíti a diffúziós modellek használatát. Előképzelt vezetékeket (pipelines) kínál szövegből képgenerálás, kép inpainting és szuperfelbontás feladatokhoz.

@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /de/terms/jailbreak/
 date: "2026-07-18T10:58:31.709931Z"
 lastmod: "2026-07-18T11:44:44.895717Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Technik des Prompt-Engineering, die darauf abzielt, die Sicherheitsfilter und ethischen Einschränkungen eines KI-Modells zu umgehen."
 ---
-
 ## Definition
 
 Beim Jailbreaking werden spezifische Eingaben oder Prompts so formuliert, dass ein KI-Modell dazu gebracht wird, seine eingebauten Sicherheitsrichtlinien zu ignorieren und verbotene Inhalte zu generieren, wie z. B. Hassrede oder gefährliche Anweisungen.

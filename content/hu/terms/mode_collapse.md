@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /hu/terms/mode_collapse/
 date: "2026-07-18T16:13:21.439660Z"
 lastmod: "2026-07-18T17:15:09.813534Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A módösszeomlás egy hibajelenség a generatív ellenlábas hálózatokban (GAN), ahol a generátor korlátozott változatosságú kimeneteket hoz létre."
 ---
-
 ## Definition
 
 A GAN-okban a módösszeomlás akkor következik be, amikor a generátor megtanulja kihasználni a diszkriminátor gyengeségeit, így egy szűk tartományba eső, plauzibilis mintákat állít elő, figyelmen kívül hagyva az adateloszlás más módusait. Ez

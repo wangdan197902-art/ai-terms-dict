@@ -1,23 +1,23 @@
 ---
-title: "Funcție de pierdere"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Funcție de pierdere
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /ro/terms/loss/
-date: "2026-07-18T15:27:06.837356Z"
-lastmod: "2026-07-18T17:15:09.597856Z"
+slug: loss
+date: '2026-07-18T15:27:06.837356Z'
+lastmod: '2026-07-18T17:15:09.597856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O valoare numerică care cuantifică eroarea dintre predicțiile unui model și valorile țintă reale."
+source: agnes_llm
+status: published
+language: ro
+description: O valoare numerică care cuantifică eroarea dintre predicțiile unui model
+  și valorile țintă reale.
 ---
-
 ## Definition
 
 Funcțiile de pierdere, cunoscute și sub funcții de cost, măsoară cât de bine se potrivesc predicțiile unui model de învățare automată cu adevărul fundamental în timpul antrenamentului. Scopul algoritmului de optimizare este minimizarea acestei

@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /da/terms/brain_technology/
 date: "2026-07-18T15:44:36.646625Z"
 lastmod: "2026-07-18T17:15:09.266561Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Teknologier designet til at interagere med, overvåge eller modulere det menneskelige hjernen, herunder BCIs og neuroimaging-værktøjer."
 ---
-
 ## Definition
 
 Hjerneteknologi dækker over hardware- og softwaresystemer, der interagerer direkte med det centrale nervesystem. Nøgleeksempler inkluderer Brain-Computer Interfaces (BCIs), der oversætter neurale signaler...

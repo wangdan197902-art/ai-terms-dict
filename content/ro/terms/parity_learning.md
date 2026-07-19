@@ -1,23 +1,24 @@
 ---
-title: "Învățarea Parității"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Învățarea Parității
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /ro/terms/parity_learning/
-date: "2026-07-18T16:15:09.001351Z"
-lastmod: "2026-07-18T17:15:09.689852Z"
+slug: parity_learning
+date: '2026-07-18T16:15:09.001351Z'
+lastmod: '2026-07-18T17:15:09.689852Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O problemă teoretică de învățare automată concentrată pe predicția sumei XOR a intrărilor binare, utilizată pentru a testa expresivitatea modelului."
+source: agnes_llm
+status: published
+language: ro
+description: O problemă teoretică de învățare automată concentrată pe predicția sumei
+  XOR a intrărilor binare, utilizată pentru a testa expresivitatea modelului.
 ---
-
 ## Definition
 
 Învățarea Parității este o problemă de referință în teoria învățării automate, unde scopul este de a prezice paritatea (suma XOR) unui set de variabile de intrare binare. Este notoriu dificil pentru feedfor

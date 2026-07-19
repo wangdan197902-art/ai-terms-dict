@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "governance"]
 difficulty: 2
 weight: 1
 slug: "trustworthy_ai"
-aliases:
-  - /id/terms/trustworthy_ai/
 date: "2026-07-18T16:12:17.633547Z"
 lastmod: "2026-07-18T16:38:07.516592Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "AI Terpercaya merujuk pada sistem kecerdasan buatan yang aman, terjamin keamanannya, transparan, adil, dan dapat dipertanggungjawabkan sepanjang siklus hidupnya."
 ---
-
 ## Definition
 
 AI Terpercaya mencakup prinsip-prinsip dan praktik yang memastikan bahwa sistem AI beroperasi secara andal dan etis. Atribut kunci meliputi ketahanan terhadap serangan, keadilan di berbagai populasi, transparansi dalam pengambilan keputusan, serta akuntabilitas atas dampak yang ditimbulkan oleh sistem tersebut.

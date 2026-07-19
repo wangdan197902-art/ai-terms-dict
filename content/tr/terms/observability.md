@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /tr/terms/observability/
 date: "2026-07-18T16:07:15.819117Z"
 lastmod: "2026-07-18T16:38:07.342698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gözlemlenebilirlik, iç sistem durumlarının günlükler, metrikler ve izler gibi dış çıktılardan ne kadar iyi çıkarılabileceğinin ölçüsüdür."
 ---
-
 ## Definition
 
 Yapay zeka mühendisliğinde gözlemlenebilirlik, karmaşık makine öğrenimi sistemlerinin iç durumunu, dış çıktılarını analiz ederek anlama yeteneğini ifade eder. Geleneksel izleme kavramının ötesine geçer.

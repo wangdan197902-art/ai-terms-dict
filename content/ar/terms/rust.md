@@ -1,23 +1,24 @@
 ---
-title: "راست (Rust)"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: راست (Rust)
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /ar/terms/rust/
-date: "2026-07-18T16:19:51.188322Z"
-lastmod: "2026-07-18T17:15:08.545408Z"
+slug: rust
+date: '2026-07-18T16:19:51.188322Z'
+lastmod: '2026-07-18T17:15:08.545408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "راست هي لغة برمجة أنظمة تركز على الأمان والسرعة والتزامن دون الحاجة إلى جمع القمامة (Garbage Collection)."
+source: agnes_llm
+status: published
+language: ar
+description: راست هي لغة برمجة أنظمة تركز على الأمان والسرعة والتزامن دون الحاجة إلى
+  جمع القمامة (Garbage Collection).
 ---
-
 ## Definition
 
 راست هي لغة برمجة عامة متعددة النماذج مصممة للأداء والأمان، خاصة فيما يتعلق بالتزامن الآمن. وهي تحقق سلامة الذاكرة دون استخدام جمع القمامة، مما يضمن إدارة دقيقة للموارد.

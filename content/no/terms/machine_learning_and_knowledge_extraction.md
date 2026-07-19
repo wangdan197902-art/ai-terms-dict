@@ -7,8 +7,6 @@ tags: ["NLP", "Data Science", "Automation"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_and_knowledge_extraction"
-aliases:
-  - /no/terms/machine_learning_and_knowledge_extraction/
 date: "2026-07-18T16:04:34.587026Z"
 lastmod: "2026-07-18T16:38:07.021711Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å bruke maskinlæringsalgoritmer for automatisk å identifisere mønstre og utlede strukturert informasjon fra store, ustrukturerte datasett."
 ---
-
 ## Definition
 
 Dette feltet kombinerer teknikker innen maskinlæring med naturlig språkbehandling og datamining for å omdanne rådata til handlingsbar kunnskap. Det involverer trening av modeller for å gjenkjenne enheter, relasjoner og andre semantiske strukturer i tekst og data.

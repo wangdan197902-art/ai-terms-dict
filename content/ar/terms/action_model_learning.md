@@ -1,23 +1,24 @@
 ---
-title: "تعلم نموذج الفعل"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: تعلم نموذج الفعل
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /ar/terms/action_model_learning/
-date: "2026-07-18T15:42:26.390510Z"
-lastmod: "2026-07-18T17:15:08.472450Z"
+slug: action_model_learning
+date: '2026-07-18T15:42:26.390510Z'
+lastmod: '2026-07-18T17:15:08.472450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية في التعلم التعزيزي حيث يتعلم الوكيل ديناميكيات بيئته من خلال ملاحظة آثار أفعاله الخاصة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية في التعلم التعزيزي حيث يتعلم الوكيل ديناميكيات بيئته من خلال ملاحظة
+  آثار أفعاله الخاصة.
 ---
-
 ## Definition
 
 يتضمن تعلم نموذج الفعل قيام الوكيل ببناء تمثيل داخلي لكيفية انتقال أفعاله للبيئة من حالة إلى أخرى. وعلى عكس المراقبة السلبية، تستفيد هذه الطريقة من

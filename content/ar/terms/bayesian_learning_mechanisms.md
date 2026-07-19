@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /ar/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:47:03.311370Z"
 lastmod: "2026-07-18T17:15:08.480717Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نماذج تعلم تعامل معلمات النموذج كمتغيرات عشوائية ذات توزيعات احتمالية بدلاً من قيم ثابتة."
 ---
-
 ## Definition
 
 تحديث آليات التعلم البايزي للمعتقدات حول معلمات النموذج باستخدام نظرية بايز، حيث تجمع بين المعرفة السابقة والبيانات المرصودة لتشكيل توزيع لاحق. وعلى عكس النهج التكرارية، فإنها

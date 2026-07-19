@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /de/terms/aiops/
 date: "2026-07-18T11:01:42.774398Z"
 lastmod: "2026-07-18T11:44:44.905149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "AIOps bezeichnet die Anwendung von künstlicher Intelligenz und maschinellem Lernen zur Automatisierung von IT-Betriebsprozessen."
 ---
-
 ## Definition
 
 Artificial Intelligence for IT Operations (AIOps) kombiniert Big-Data-Analytik und Algorithmen des maschinellen Lernens, um das Management der IT-Infrastruktur und -Betriebsabläufe zu automatisieren. Es hilft Organisationen, komplexe IT-Umgebungen effizient zu verwalten und Störungen proaktiv zu beheben.

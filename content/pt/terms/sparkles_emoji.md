@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /pt/terms/sparkles_emoji/
 date: "2026-07-18T15:23:03.652732Z"
 lastmod: "2026-07-18T15:51:59.533988Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um símbolo visual frequentemente usado em interfaces de IA para denotar novos recursos, melhorias ou transformações mágicas no conteúdo gerado."
 ---
-
 ## Definition
 
 O emoji de brilhos é um ícone gráfico frequentemente empregado em interfaces de usuário para aplicações de IA, significando novidade, melhoria ou aprimoramento criativo. Ele serve como uma dica não verbal indicando que algo foi atualizado, otimizado ou que possui características especiais.

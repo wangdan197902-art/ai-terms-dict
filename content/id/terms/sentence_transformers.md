@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /id/terms/sentence_transformers/
 date: "2026-07-18T16:08:23.164507Z"
 lastmod: "2026-07-18T16:38:07.505772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Arsitektur jaringan saraf yang dirancang khusus untuk menghasilkan embedding vektor berukuran tetap untuk kalimat teks sembarang."
 ---
-
 ## Definition
 
 Transformer Kalimat adalah ekstensi dari model Transformer tradisional (seperti BERT) yang telah disempurnakan untuk menghasilkan representasi vektor padat yang bermakna untuk seluruh kalimat. Berbeda dengan model tingkat token standar, arsitektur ini menggabungkan output token menjadi satu vektor representasi.

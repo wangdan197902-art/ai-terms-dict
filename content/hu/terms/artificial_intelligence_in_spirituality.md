@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /hu/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:44:46.724492Z"
 lastmod: "2026-07-18T17:15:09.755212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az új keletű hatásterület, ahol az MI-t spirituális iránymutatásra, meditációs segítségre vagy filozófiai kérdések feltárására használják."
 ---
-
 ## Definition
 
 Az MI a spiritualitásban a mesterséges intelligencia vallási vagy kontemplatív kontextusokban történő alkalmazását jelenti. Ez magában foglalja a erkölcsi tanácsokat adó chatbotokat, meditációhoz generált MI-művészetet vagy algoritmikus...

@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /he/terms/continuous_time/
 date: "2026-07-18T15:32:15.242258Z"
 lastmod: "2026-07-18T17:15:09.491478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "גישה לדגמים שבה משתנים משתנים בצורה חלקה לאורך תחום רציף ולא בשלבים בדידים."
 ---
-
 ## Definition
 
 דגמי זמן רציף מתארים דינמיקה של מערכת באמצעות משוואות דיפרנציאליות, המאפשרות התפתחות חלקה של מצבים לאורך זמן. ב-AI, הדבר בא לידי ביטוי במשוואות דיפרנציאליות רגילות נוירונליות (Neural ODEs).

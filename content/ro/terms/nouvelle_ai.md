@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /ro/terms/nouvelle_ai/
 date: "2026-07-18T16:14:03.790770Z"
 lastmod: "2026-07-18T17:15:09.687208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare de inteligență artificială simbolică care pune accent pe structuri de raționament ierarhice și modulare, inspirate din arhitectura cognitivă umană."
 ---
-
 ## Definition
 
 Nouvelle AI se referă la o clasă de sisteme de inteligență artificială care utilizează reprezentări simbolice combinate cu procesare ierarhică. Spre deosebire de modelele conexioniste, aceasta se concentrează pe raționamentul structurat și pe modularitatea sistemelor de cunoaștere.

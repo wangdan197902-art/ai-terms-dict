@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /vi/terms/datasetsnli/
 date: "2026-07-18T15:48:16.446649Z"
 lastmod: "2026-07-18T16:38:07.746023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Stanford Natural Language Inference Corpus, một bộ dữ liệu lớn về các câu tiếng Anh được ghép cặp với nhãn suy diễn văn bản do con người viết."
 ---
-
 ## Definition
 
 SNLI là một bộ dữ liệu chuẩn mực chứa hơn 500.000 cặp câu được gắn nhãn, với ba lớp: suy diễn (entailment), mâu thuẫn (contradiction) và trung lập (neutral). Nó được tạo ra để thúc đẩy nghiên cứu trong lĩnh vực xử lý ngôn ngữ tự nhiên...

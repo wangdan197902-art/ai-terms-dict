@@ -1,23 +1,23 @@
 ---
-title: "멀티모달 감정 분석"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: 멀티모달 감정 분석
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /ko/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:06:52.157703Z"
-lastmod: "2026-07-18T16:38:06.888082Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:06:52.157703Z'
+lastmod: '2026-07-18T16:38:06.888082Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "텍스트, 시각 및 청각 단서를 통합하여 인간의 감정을 계산적으로 분석하는 것입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 텍스트, 시각 및 청각 단서를 통합하여 인간의 감정을 계산적으로 분석하는 것입니다.
 ---
-
 ## Definition
 
 멀티모달 감정 분석은 표정, 목소리 톤, 제스처 등 추가적인 신호를 통합하여 기존 텍스트 기반 감정 감지를 확장합니다. 이러한 종합적인 접근 방식은 더 정확한 감정 인식을 가능하게 합니다.

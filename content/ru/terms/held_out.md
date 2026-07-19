@@ -1,23 +1,24 @@
 ---
-title: "отложенный (валидационный)"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: отложенный (валидационный)
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /ru/terms/held_out/
-date: "2026-07-18T15:31:24.027432Z"
-lastmod: "2026-07-18T16:38:07.095065Z"
+slug: held_out
+date: '2026-07-18T15:31:24.027432Z'
+lastmod: '2026-07-18T16:38:07.095065Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Выборки данных, выделенные из обучающей выборки для оценки производительности модели и предотвращения переобучения в процессе разработки."
+source: agnes_llm
+status: published
+language: ru
+description: Выборки данных, выделенные из обучающей выборки для оценки производительности
+  модели и предотвращения переобучения в процессе разработки.
 ---
-
 ## Definition
 
 Набор данных «held-out» (отложенный) состоит из примеров, намеренно исключенных из фазы обучения модели машинного обучения. Этот подмножество используется для оценки того, насколько хорошо модель обобщает знания на невиданных ранее данных, предоставляя unbiased (несмещенную) оценку во время настройки.

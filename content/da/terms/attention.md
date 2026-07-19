@@ -1,23 +1,25 @@
 ---
-title: "Attention (Opmærksomhed)"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Attention (Opmærksomhed)
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /da/terms/attention/
-date: "2026-07-18T15:33:36.993455Z"
-lastmod: "2026-07-18T17:15:09.242276Z"
+slug: attention
+date: '2026-07-18T15:33:36.993455Z'
+lastmod: '2026-07-18T17:15:09.242276Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En mekanisme, der gør det muligt for neurale netværk dynamisk at vægte betydningen af forskellige dele af inputsekvensen."
+source: agnes_llm
+status: published
+language: da
+description: En mekanisme, der gør det muligt for neurale netværk dynamisk at vægte
+  betydningen af forskellige dele af inputsekvensen.
 ---
-
 ## Definition
 
 Attention-mekanismer gør det muligt for modeller at fokusere på relevant information, når de behandler inputs, især i sekventielle data som tekst. Ved at beregne attention-scores bestemmer modellen, hvilke eleme...

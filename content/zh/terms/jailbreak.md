@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /zh/terms/jailbreak/
 date: "2026-07-18T11:00:15.112718Z"
 lastmod: "2026-07-18T11:44:45.401630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种旨在绕过 AI 模型安全过滤器和伦理约束的提示工程技术。"
 ---
-
 ## Definition
 
 越狱涉及设计特定的输入或提示，诱骗 AI 模型忽略其内置的安全指南并生成禁止的内容，例如仇恨言论、危险指令或非法建议。

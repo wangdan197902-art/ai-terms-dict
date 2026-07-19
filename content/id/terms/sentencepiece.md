@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /id/terms/sentencepiece/
 date: "2026-07-18T16:08:23.164516Z"
 lastmod: "2026-07-18T16:38:07.505918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Perpustakaan pen-tokenisasi dan de-tokenisasi teks tanpa pengawasan yang memperlakukan teks mentah sebagai urutan subkata untuk pra-pemrosesan NLP."
 ---
-
 ## Definition
 
 SentencePiece adalah perpustakaan sumber terbuka populer untuk normalisasi dan tokenisasi teks, yang banyak digunakan dalam pipeline NLP modern. Ini melakukan pembelajaran tanpa pengawasan untuk kamus gabungan word-piece dan subword, memungkinkan pemrosesan teks yang konsisten antar bahasa.

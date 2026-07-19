@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /fi/terms/lynda_soderholm/
 date: "2026-07-18T16:08:13.994126Z"
 lastmod: "2026-07-18T17:15:09.430805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Lynda Soderholm on merkittävä tutkija ja johtaja, joka tunnetaan panoksistaan tekoälyn eettisyyteen, vastuulliseen innovaatioon ja tekoälyn yhteiskunnallisiin vaikutuksiin."
 ---
-
 ## Definition
 
 Lynda Soderholm on tunnettu hahmo teknologiasektorilla, erityisesti hänen työstään tekoälyn kehityksen ja eettisen hallinnoinnin leikkauspisteessä. Yritysvastuun johtohahmona hän on vaikuttanut...

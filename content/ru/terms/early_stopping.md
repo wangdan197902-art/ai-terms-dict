@@ -1,23 +1,25 @@
 ---
-title: "Ранняя остановка"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Ранняя остановка
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /ru/terms/early_stopping/
-date: "2026-07-18T15:51:13.040445Z"
-lastmod: "2026-07-18T16:38:07.152031Z"
+slug: early_stopping
+date: '2026-07-18T15:51:13.040445Z'
+lastmod: '2026-07-18T16:38:07.152031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Ранняя остановка — это техника регуляризации, которая останавливает процесс обучения, когда производительность модели на проверочной выборке начинает ухудшаться, предотвращая переобучение."
+source: agnes_llm
+status: published
+language: ru
+description: Ранняя остановка — это техника регуляризации, которая останавливает процесс
+  обучения, когда производительность модели на проверочной выборке начинает ухудшаться,
+  предотвращая переобучение.
 ---
-
 ## Definition
 
 Ранняя остановка — это форма регуляризации, используемая преимущественно в итеративных процессах обучения, таких как градиентный спуск. Во время обучения производительность модели на обучающих данных обычно непрерывно улучшае

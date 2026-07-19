@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /de/terms/embodied/
 date: "2026-07-18T10:49:35.954651Z"
 lastmod: "2026-07-18T11:44:44.872344Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Verkörperte KI bezieht sich auf intelligente Systeme, die über Sensoren und Aktuatoren in einem Körper mit der physischen Welt interagieren."
 ---
-
 ## Definition
 
 Verkörperte KI geht davon aus, dass Intelligenz aus der Interaktion zwischen der physischen Form eines Agenten und seiner Umgebung entsteht. Im Gegensatz zur entkörperlichten KI, die abstrakte Daten verarbeitet, nutzen verkörperte Agenten Sensoren, um ihre Umgebung wahrzunehmen, und Aktuatoren, um darauf zu reagieren.

@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /he/terms/adam/
 date: "2026-07-18T15:23:14.890179Z"
 lastmod: "2026-07-18T17:15:09.472259Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "אלגוריתם אופטימיזציה המחשב קצבי למידה אדפטיביים לכל פרמטר."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation) הוא אלגוריתם אופטימיזציה פופולרי המבוסס על גרדיאנט מסדר ראשון, המשמש באימון רשתות נוירונים עמוקות. הוא משלב את היתרונות של שני הרחבות אחרות של סטוכסטית

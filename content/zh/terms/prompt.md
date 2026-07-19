@@ -1,23 +1,23 @@
 ---
-title: "提示词"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: 提示词
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /zh/terms/prompt/
-date: "2026-07-18T10:54:02.537163Z"
-lastmod: "2026-07-18T11:44:45.382227Z"
+slug: prompt
+date: '2026-07-18T10:54:02.537163Z'
+lastmod: '2026-07-18T11:44:45.382227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "提供给生成式AI模型的输入文本或指令，以引发特定的响应或行为。"
+source: agnes_llm
+status: published
+language: zh
+description: 提供给生成式AI模型的输入文本或指令，以引发特定的响应或行为。
 ---
-
 ## Definition
 
 提示词是与大型语言模型及其他生成式AI系统进行交互的主要接口。它定义了模型输出的上下文、语气和约束。有效的提示……

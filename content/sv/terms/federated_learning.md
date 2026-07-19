@@ -1,23 +1,24 @@
 ---
-title: "Federerad inlärning"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Federerad inlärning
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /sv/terms/federated_learning/
-date: "2026-07-18T15:38:10.807125Z"
-lastmod: "2026-07-18T17:15:08.962557Z"
+slug: federated_learning
+date: '2026-07-18T15:38:10.807125Z'
+lastmod: '2026-07-18T17:15:08.962557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Federerad inlärning är en distribuerad maskininlärningsmetod som tränar modeller över decentraliserade enheter samtidigt som datan hålls lokal."
+source: agnes_llm
+status: published
+language: sv
+description: Federerad inlärning är en distribuerad maskininlärningsmetod som tränar
+  modeller över decentraliserade enheter samtidigt som datan hålls lokal.
 ---
-
 ## Definition
 
 Federerad inlärning möjliggör för organisationer att samarbetsmässigt träna AI-modeller utan att dela känsliga rådata. Istället för att centralisera informationen skickas modellen till lokala enheter där den lär sig...

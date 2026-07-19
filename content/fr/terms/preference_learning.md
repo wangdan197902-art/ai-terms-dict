@@ -1,23 +1,24 @@
 ---
-title: "Apprentissage par préférence"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Apprentissage par préférence
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /fr/terms/preference_learning/
-date: "2026-07-18T11:34:01.670394Z"
-lastmod: "2026-07-18T11:44:45.313010Z"
+slug: preference_learning
+date: '2026-07-18T11:34:01.670394Z'
+lastmod: '2026-07-18T11:44:45.313010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique qui entraîne les modèles à aligner leurs sorties avec les préférences humaines à l'aide de commentaires comparatifs."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique qui entraîne les modèles à aligner leurs sorties avec les
+  préférences humaines à l'aide de commentaires comparatifs.
 ---
-
 ## Definition
 
 L'apprentissage par préférence se concentre sur l'apprentissage des distinctions entre les bonnes et les mauvaises sorties sur la base de jugements humains plutôt que d'étiquettes absolues. Il implique généralement la collecte de paires de réponses où un humain indique sa préférence, permettant au modèle d'apprendre une fonction de récompense implicite.

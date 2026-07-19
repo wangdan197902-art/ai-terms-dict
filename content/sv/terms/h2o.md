@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /sv/terms/h2o/
-date: "2026-07-18T16:01:04.527335Z"
-lastmod: "2026-07-18T17:15:09.010085Z"
+slug: h2o
+date: '2026-07-18T16:01:04.527335Z'
+lastmod: '2026-07-18T17:15:09.010085Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En öppen källkod, distribuerad plattform för maskininlärning som stöder olika algoritmer för prediktiv analys och djupinlärning."
+source: agnes_llm
+status: published
+language: sv
+description: En öppen källkod, distribuerad plattform för maskininlärning som stöder
+  olika algoritmer för prediktiv analys och djupinlärning.
 ---
-
 ## Definition
 
 H2O är en mycket använd öppen källkodsplattform i minnet för distribuerad, skalbar maskininlärning och prediktiv analys. Ursprungligen utvecklad av två doktorander vid Harvard University, erbjuder den ett enhetligt ramverk för att bygga, träna och distribuera maskininlärningsmodeller. Plattformen är känd för sin AutoML-funktion som automatiserar processen för modellval och hyperparameteroptimering, samt sitt stöd för djupinlärning och traditionella statistiska modeller.

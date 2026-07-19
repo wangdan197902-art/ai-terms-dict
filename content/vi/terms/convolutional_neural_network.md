@@ -1,23 +1,24 @@
 ---
-title: "Mạng nơ-ron tích chập"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Mạng nơ-ron tích chập
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /vi/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:49.791352Z"
-lastmod: "2026-07-18T16:38:07.678527Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:49.791352Z'
+lastmod: '2026-07-18T16:38:07.678527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lớp mạng nơ-ron sâu chuyên biệt, chủ yếu được sử dụng để xử lý dữ liệu dạng lưới như hình ảnh, bằng cách áp dụng các bộ lọc tích chập."
+source: agnes_llm
+status: published
+language: vi
+description: Một lớp mạng nơ-ron sâu chuyên biệt, chủ yếu được sử dụng để xử lý dữ
+  liệu dạng lưới như hình ảnh, bằng cách áp dụng các bộ lọc tích chập.
 ---
-
 ## Definition
 
 Mạng nơ-ron tích chập (CNN) được thiết kế để tự động và thích nghi học hỏi các cấp độ đặc trưng không gian từ đầu vào trực quan. Chúng sử dụng các lớp tích chập áp dụng bộ lọc để phát hiện các đặc điểm như cạnh, kết cấu và hình dạng phức tạp hơn.

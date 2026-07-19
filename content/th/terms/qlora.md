@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /th/terms/qlora/
-date: "2026-07-18T15:36:58.190892Z"
-lastmod: "2026-07-18T16:38:07.563717Z"
+slug: qlora
+date: '2026-07-18T15:36:58.190892Z'
+lastmod: '2026-07-18T16:38:07.563717Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การปรับแต่งด้วยอันดับต่ำแบบควอนไทซ์ (Quantized Low-Rank Adaptation) เป็นวิธีการปรับแต่งโมเดลภาษาขนาดใหญ่อย่างมีประสิทธิภาพโดยใช้การควอนไทซ์แบบ 4 บิตและอะแดปเตอร์อันดับต่ำ"
+source: agnes_llm
+status: published
+language: th
+description: การปรับแต่งด้วยอันดับต่ำแบบควอนไทซ์ (Quantized Low-Rank Adaptation) เป็นวิธีการปรับแต่งโมเดลภาษาขนาดใหญ่อย่างมีประสิทธิภาพโดยใช้การควอนไทซ์แบบ
+  4 บิตและอะแดปเตอร์อันดับต่ำ
 ---
-
 ## Definition
 
 QLoRA ผสมผสานการปรับแต่งด้วยอันดับต่ำ (LoRA) เข้ากับการควอนไทซ์แบบ 4 บิต เพื่อลดขนาดหน่วยความจำที่ต้องการสำหรับการปรับแต่งโมเดลขนาดใหญ่น้อยลงอย่างมาก โดยการเก็บถ่วงน้ำหนักในรูปแบบ 4 บิตและเพิ่มโครงสร้างอะแดปเตอร์ขนาดเล็ก ทำให้สามารถฝึกโมเดลบนฮาร์ดแวร์ที่มีทรัพยากรจำกัดได้ดีขึ้น

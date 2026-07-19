@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /zh/terms/multi_stage/
 date: "2026-07-18T10:56:59.123935Z"
 lastmod: "2026-07-18T11:44:45.392859Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种将复杂任务划分为不同、顺序阶段的过程设计，每个阶段都有特定的目标和输出。"
 ---
-
 ## Definition
 
 多阶段方法将复杂的工作流程分解为可管理的片段，允许在每个步骤中进行专门处理。这种方法增强了控制能力、调试效率以及性能优化。

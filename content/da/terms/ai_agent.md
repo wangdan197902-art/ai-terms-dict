@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /da/terms/ai_agent/
 date: "2026-07-18T15:38:56.535875Z"
 lastmod: "2026-07-18T17:15:09.252968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et autonomt system designet til at opfatte sit miljø og udføre handlinger for at opnå specifikke mål."
 ---
-
 ## Definition
 
 En AI-agent er en softwareenhed, der opererer autonomt i et defineret miljø for at opnå foruddefinerede mål. Den bruger opfattelsesmekanismer til at indsamle data og behandler denne information for at træffe beslutninger og handle.

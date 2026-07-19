@@ -7,8 +7,6 @@ tags: ["architecture", "scalability", "deployment"]
 difficulty: 2
 weight: 1
 slug: "microservices"
-aliases:
-  - /sv/terms/microservices/
 date: "2026-07-18T16:09:41.387476Z"
 lastmod: "2026-07-18T17:15:09.026269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Mikrotjänster är en arkitektonisk stil som strukturerar en applikation som en samling löst kopplade, oberoende distribuerbara tjänster organiserade kring affärsfunktioner."
 ---
-
 ## Definition
 
 Inom AI-teknik möjliggör mikrotjänster att olika komponenter i en AI-pipeline, såsom dataförbehandling, modellinferens och resultatlagring, utvecklas, skalas och underhålls...

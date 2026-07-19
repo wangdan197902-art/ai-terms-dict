@@ -1,23 +1,24 @@
 ---
-title: "Irányított"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Irányított
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /hu/terms/guided/
-date: "2026-07-18T15:27:03.163508Z"
-lastmod: "2026-07-18T17:15:09.722152Z"
+slug: guided
+date: '2026-07-18T15:27:03.163508Z'
+lastmod: '2026-07-18T17:15:09.722152Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyon AI-folyamatokat vagy generációs módszereket ír le, amelyeket specifikus külső jelek, korlátok vagy köztes célok szabnak meg vagy irányítanak."
+source: agnes_llm
+status: published
+language: hu
+description: Olyon AI-folyamatokat vagy generációs módszereket ír le, amelyeket specifikus
+  külső jelek, korlátok vagy köztes célok szabnak meg vagy irányítanak.
 ---
-
 ## Definition
 
 Az AI kontextusában az „irányított” kifejezés általában olyan technikákra utal, ahol a modell viselkedését további információk vezérlik a elsődleges bemeneten túl. Gyakori példák közé tartozik az irányított diffúzió, ahol például egy osztály...

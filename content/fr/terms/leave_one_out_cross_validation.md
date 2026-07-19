@@ -1,23 +1,25 @@
 ---
-title: "Validation croisée leave-one-out"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Validation croisée leave-one-out
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /fr/terms/leave_one_out_cross_validation/
-date: "2026-07-18T11:25:42.850205Z"
-lastmod: "2026-07-18T11:44:45.284214Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T11:25:42.850205Z'
+lastmod: '2026-07-18T11:44:45.284214Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique rigoureuse de rééchantillonnage où le modèle est entraîné sur tous les échantillons sauf un et testé sur cet unique échantillon conservé, répété pour chaque point de données."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique rigoureuse de rééchantillonnage où le modèle est entraîné
+  sur tous les échantillons sauf un et testé sur cet unique échantillon conservé,
+  répété pour chaque point de données.
 ---
-
 ## Definition
 
 La validation croisée leave-one-out (LOOCV) est un cas particulier de la validation croisée k-fold où k est égal au nombre d'échantillons dans l'ensemble de données. Elle fournit une estimation quasi non biaisée de la performance du modèle en utilisant chaque point de données comme ensemble de test à tour de rôle.

@@ -1,23 +1,22 @@
 ---
-title: "커리큘럼 학습(Curriculum Learning)"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: 커리큘럼 학습(Curriculum Learning)
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /ko/terms/curriculum_learning/
-date: "2026-07-18T16:21:03.346737Z"
-lastmod: "2026-07-18T16:38:06.921512Z"
+slug: curriculum_learning
+date: '2026-07-18T16:21:03.346737Z'
+lastmod: '2026-07-18T16:38:06.921512Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델이 쉬운 예시부터 학습한 후 점차 어려운 예시로 나아가는 학습 전략입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 모델이 쉬운 예시부터 학습한 후 점차 어려운 예시로 나아가는 학습 전략입니다.
 ---
-
 ## Definition
 
 커리큘럼 학습은 인간의 교육 방식을 모방하여, 학습 데이터를 단순한 샘플부터 시작해 점진적으로 복잡성을 증가시키는 구조화된 순서로 제시합니다. 이 접근법은 신경망이 전역 최적점(global optimum)으로 수렴하는 속도를 높이고, 일반화 성능을 향상시키는 데 도움을 줍니다.

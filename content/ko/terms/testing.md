@@ -1,23 +1,23 @@
 ---
-title: "테스트"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: 테스트
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /ko/terms/testing/
-date: "2026-07-18T15:36:33.156007Z"
-lastmod: "2026-07-18T16:38:06.800884Z"
+slug: testing
+date: '2026-07-18T15:36:33.156007Z'
+lastmod: '2026-07-18T16:38:06.800884Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "품질과 안전성을 보장하기 위해 보지 못한 데이터에서 AI 모델의 성능과 신뢰성을 체계적으로 평가하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 품질과 안전성을 보장하기 위해 보지 못한 데이터에서 AI 모델의 성능과 신뢰성을 체계적으로 평가하는 과정입니다.
 ---
-
 ## Definition
 
 AI 공학에서의 테스트는 편향성, 오류 및 견고성 문제를 식별하기 위해 다양한 데이터셋에 대해 모델을 엄격하게 평가하는 것을 포함합니다. 여기에는 코드 구성 요소에 대한 단위 테스트, 통합 테스트 등이 포함됩니다.

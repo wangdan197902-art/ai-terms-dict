@@ -1,23 +1,24 @@
 ---
-title: "Lagnormalisering"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Lagnormalisering
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /da/terms/layer_normalization/
-date: "2026-07-18T16:04:07.970206Z"
-lastmod: "2026-07-18T17:15:09.303970Z"
+slug: layer_normalization
+date: '2026-07-18T16:04:07.970206Z'
+lastmod: '2026-07-18T17:15:09.303970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik, der normaliserer aktiveringerne af et neuralt netværkslag på tværs af funktionsdimensionen for hver enkelt prøve."
+source: agnes_llm
+status: published
+language: da
+description: En teknik, der normaliserer aktiveringerne af et neuralt netværkslag
+  på tværs af funktionsdimensionen for hver enkelt prøve.
 ---
-
 ## Definition
 
 Lagnormalisering stabiliserer træningen ved at reducere intern kovariatforskydning, hvilket er særligt effektivt i rekurrente og transformer-arkitekturer. I modsætning til batchnormalisering, der afhænger af batch-statistikker, fungerer lagnormalisering uafhængigt af batchstørrelsen.

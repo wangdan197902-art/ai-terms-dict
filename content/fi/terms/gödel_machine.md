@@ -1,23 +1,24 @@
 ---
-title: "Gödel-kone"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Gödel-kone
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /fi/terms/gödel_machine/
-date: "2026-07-18T16:00:54.127594Z"
-lastmod: "2026-07-18T17:15:09.417679Z"
+slug: gödel_machine
+date: '2026-07-18T16:00:54.127594Z'
+lastmod: '2026-07-18T17:15:09.417679Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Teoreettinen itseparantava tekoälyohjelma, joka voi kirjoittaa lähdekoodinsa uudelleen tehokkaammaksi muuttamatta tavoitteitaan."
+source: agnes_llm
+status: published
+language: fi
+description: Teoreettinen itseparantava tekoälyohjelma, joka voi kirjoittaa lähdekoodinsa
+  uudelleen tehokkaammaksi muuttamatta tavoitteitaan.
 ---
-
 ## Definition
 
 Gödel-kone on hypothetinen yleispätevä ongelmienratkaisija, jonka ehdotti Jürgen Schmidhuber. Se perustuu formaaliin logiikkaan ja laskettavuusteoriaan. Kone toimii analysoimalla jatkuvasti omaa lähdekoodiaan ja muuttamalla sitä matemaattisesti todistettavasti tehokkaammaksi.

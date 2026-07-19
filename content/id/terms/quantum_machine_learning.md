@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran mesin kuantum"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: Pembelajaran mesin kuantum
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /id/terms/quantum_machine_learning/
-date: "2026-07-18T16:06:00.862490Z"
-lastmod: "2026-07-18T16:38:07.498229Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:06:00.862490Z'
+lastmod: '2026-07-18T16:38:07.498229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pembelajaran mesin kuantum menggabungkan komputasi kuantum dengan algoritma pembelajaran mesin untuk memecahkan masalah lebih cepat atau lebih efisien."
+source: agnes_llm
+status: published
+language: id
+description: Pembelajaran mesin kuantum menggabungkan komputasi kuantum dengan algoritma
+  pembelajaran mesin untuk memecahkan masalah lebih cepat atau lebih efisien.
 ---
-
 ## Definition
 
 Pembelajaran mesin kuantum (QML) adalah bidang interdisipliner yang berkembang yang mengintegrasikan kemampuan komputasi kuantum dengan teknik pembelajaran mesin. Tujuannya adalah memanfaatkan fenomena kuantum seperti keterkaitan (entanglement) dan superposisi untuk meningkatkan kecepatan dan efisiensi pemrosesan data dalam tugas-tugas kompleks.

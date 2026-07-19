@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /ko/terms/category_utility/
 date: "2026-07-18T15:44:39.805522Z"
 lastmod: "2026-07-18T16:38:06.815898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "카테고리 유틸리티는 속성 값에 대해 제공하는 정보 이득을 기반으로 분류 체계의 효과성을 평가하는 수학적 측정치입니다."
 ---
-
 ## Definition
 
 이 지표는 카테고리 집합이 해당 카테고리 내 속성 값을 얼마나 잘 예측할 수 있는지를 정량화합니다. 이는 카테고리의 크기와 그 내부 구성 요소의 동질성(균일성) 사이의 균형을 맞추어 분류의 유용성을 측정합니다.

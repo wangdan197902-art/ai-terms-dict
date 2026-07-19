@@ -1,23 +1,25 @@
 ---
-title: "Clasă de funcții învățabile"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Clasă de funcții învățabile
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /ro/terms/learnable_function_class/
-date: "2026-07-18T16:08:04.656588Z"
-lastmod: "2026-07-18T17:15:09.674124Z"
+slug: learnable_function_class
+date: '2026-07-18T16:08:04.656588Z'
+lastmod: '2026-07-18T17:15:09.674124Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O clasă de funcții învățabile este un set de funcții matematice definite de o arhitectură specifică a modelului și un spațiu de parametri pe care un algoritm de învățare le poate optimiza."
+source: agnes_llm
+status: published
+language: ro
+description: O clasă de funcții învățabile este un set de funcții matematice definite
+  de o arhitectură specifică a modelului și un spațiu de parametri pe care un algoritm
+  de învățare le poate optimiza.
 ---
-
 ## Definition
 
 În teoria statisticii învățării, o clasă de funcții învățabile reprezintă spațiul ipotezelor disponibil unui algoritm. Aceasta definește gama de tipare sau mapări pe care modelul le poate captura potențial, limitându-se la structurile pe care algoritmul de optimizare le poate explora eficient în funcție de capacitatea sa și de complexitatea datelor.

@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /it/terms/datasets2orc/
 date: "2026-07-18T15:55:18.715670Z"
 lastmod: "2026-07-18T17:15:08.615836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Semantic Scholar Open Research Corpus, un dataset su larga scala di articoli accademici con metadati strutturati e reti di citazioni."
 ---
-
 ## Definition
 
 S2ORC è un corpus completo di articoli scientifici derivato da Semantic Scholar. Include il testo integrale, i metadati e le relazioni di citazione per milioni di documenti in vari campi scientifici.

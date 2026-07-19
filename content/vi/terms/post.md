@@ -1,23 +1,24 @@
 ---
-title: "Bài đăng"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Bài đăng
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /vi/terms/post/
-date: "2026-07-18T15:28:02.639396Z"
-lastmod: "2026-07-18T16:38:07.692224Z"
+slug: post
+date: '2026-07-18T15:28:02.639396Z'
+lastmod: '2026-07-18T16:38:07.692224Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phần nội dung đã được xuất bản, thường trên blog, nền tảng mạng xã hội hoặc diễn đàn, đại diện cho thông tin hoặc bình luận do người dùng tạo ra."
+source: agnes_llm
+status: published
+language: vi
+description: Một phần nội dung đã được xuất bản, thường trên blog, nền tảng mạng xã
+  hội hoặc diễn đàn, đại diện cho thông tin hoặc bình luận do người dùng tạo ra.
 ---
-
 ## Definition
 
 Trong bối cảnh truyền thông kỹ thuật số và dữ liệu AI, 'bài đăng' đề cập đến một đơn vị nội dung rời rạc được chia sẻ trực tuyến. Nó đóng vai trò là nguồn dữ liệu chính để huấn luyện các mô hình xử lý ngôn ngữ tự nhiên, phân tích cảm xúc...

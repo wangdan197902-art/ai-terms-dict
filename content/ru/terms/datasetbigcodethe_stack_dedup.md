@@ -1,23 +1,25 @@
 ---
-title: "Набор данных: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 'Набор данных: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /ru/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:47:40.257883Z"
-lastmod: "2026-07-18T16:38:07.139184Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:47:40.257883Z'
+lastmod: '2026-07-18T16:38:07.139184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Версия набора данных The Stack без дубликатов, подготовленная сообществом BigCode для удаления почти идентичных фрагментов кода с целью получения более чистых данных для обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Версия набора данных The Stack без дубликатов, подготовленная сообществом
+  BigCode для удаления почти идентичных фрагментов кода с целью получения более чистых
+  данных для обучения.
 ---
-
 ## Definition
 
 The Stack Dedup — это специализированное подмножество набора данных The Stack, представляющего собой массивный репозиторий открытого исходного кода. В нем применяются строгие методы устранения дубликатов для удаления избыточных фрагментов кода, которые могли бы исказить обучение больших языковых моделей.

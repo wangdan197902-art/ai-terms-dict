@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /sv/terms/sample_complexity/
 date: "2026-07-18T16:19:57.122918Z"
 lastmod: "2026-07-18T17:15:09.045590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Provkomplexitet avser antalet träningsdata som krävs för att en maskininlärningsalgoritm ska uppnå en specifik prestandanivå med hög sannolikhet."
 ---
-
 ## Definition
 
 Inom beräkningsbar inlärningsteori kvantifierar provkomplexitet den mängd data som behövs för att träna en modell effektivt. Det balanserar kompromissen mellan modellkapacitet och data tillgänglighet, vilket säkerställer att modellen generaliserar väl till ny data utan att överanpassa sig till träningsmaterialet.

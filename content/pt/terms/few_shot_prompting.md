@@ -1,23 +1,24 @@
 ---
-title: "Prompting com Poucos Exemplos"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Prompting com Poucos Exemplos
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /pt/terms/few_shot_prompting/
-date: "2026-07-18T14:44:21.676958Z"
-lastmod: "2026-07-18T15:51:59.450057Z"
+slug: few_shot_prompting
+date: '2026-07-18T14:44:21.676958Z'
+lastmod: '2026-07-18T15:51:59.450057Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O prompting com poucos exemplos é uma técnica na qual os LLMs recebem um pequeno número de pares entrada-saída dentro do prompt para orientar seu comportamento."
+source: agnes_llm
+status: published
+language: pt
+description: O prompting com poucos exemplos é uma técnica na qual os LLMs recebem
+  um pequeno número de pares entrada-saída dentro do prompt para orientar seu comportamento.
 ---
-
 ## Definition
 
 Este método aproveita as capacidades de aprendizado no contexto de grandes modelos de linguagem, fornecendo alguns exemplos ilustrativos diretamente no prompt. Ao contrário do ajuste fino (fine-tuning), que requer a atualização dos parâmetros do modelo...

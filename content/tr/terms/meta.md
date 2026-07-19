@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /tr/terms/meta/
 date: "2026-07-18T16:02:58.572110Z"
 lastmod: "2026-07-18T16:38:07.333502Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada 'meta', genellikle model uyarlamasını ve optimizasyonunu yöneten öğrenme hakkında öğrenme veya daha yüksek düzeydeki süreçleri ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada 'meta' öneki, genellikle öz referans veya temel süreçlerin gözetimini içeren daha yüksek bir soyutluk düzeyini belirtir. Yaygın örnekler arasında, algoritmaların yeni görevlere hızlıca adapte olmasını sağlayan 'meta-öğrenme' yer alır. Bu kavram, modellerin kendi performanslarını veya yapılarını iyileştirme kapasitesine odaklanır.

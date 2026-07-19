@@ -1,23 +1,24 @@
 ---
-title: "تعلم الآلة الحساس للتكلفة"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: تعلم الآلة الحساس للتكلفة
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /ar/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:50:22.487692Z"
-lastmod: "2026-07-18T17:15:08.488441Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:50:22.487692Z'
+lastmod: '2026-07-18T17:15:08.488441Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج تعلم آلي يدمج تكاليف التصنيف الخاطئ في عملية التدريب لتحسين الأثر الاقتصادي بدلاً من التركيز فقط على الدقة."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج تعلم آلي يدمج تكاليف التصنيف الخاطئ في عملية التدريب لتحسين الأثر
+  الاقتصادي بدلاً من التركيز فقط على الدقة.
 ---
-
 ## Definition
 
 يوسع تعلم الآلة الحساس للتكلفة نطاق التعلم الخاضع للإشراف التقليدي من خلال تعيين عقوبات مختلفة لأنواع الأخطاء المختلفة. في السيناريوهات الواقعية، غالباً ما تكون لتكلفتي الإيجابيات الكاذبة والسلبيات الكاذبة آثار اقتصادية متفاوتة.

@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /ro/terms/exbert/
-date: "2026-07-18T15:57:38.200121Z"
-lastmod: "2026-07-18T17:15:09.653966Z"
+slug: exbert
+date: '2026-07-18T15:57:38.200121Z'
+lastmod: '2026-07-18T17:15:09.653966Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metodă de explicare a predicțiilor BERT identificând capetele de atenție și straturile care contribuie cel mai mult la anumite ieșiri."
+source: agnes_llm
+status: published
+language: ro
+description: O metodă de explicare a predicțiilor BERT identificând capetele de atenție
+  și straturile care contribuie cel mai mult la anumite ieșiri.
 ---
-
 ## Definition
 
 ExBERT oferă interpretabilitate modelului transformator BERT analizând importanța fiecărui cap de atenție pe diferite straturi. Folosește tehnici precum atribuirea bazată pe gradient sau analiza activărilor pentru a explica deciziile modelului.

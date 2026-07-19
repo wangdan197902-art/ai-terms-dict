@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /fi/terms/granular_computing/
 date: "2026-07-18T16:00:05.479264Z"
 lastmod: "2026-07-18T17:15:09.416820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Jyväinen laskenta on paradigma, joka käsittelee tietoa eri abstraktiotasoilla järjestämällä datan merkityksellisiksi rakenteiksi, joita kutsutaan informaatiojyväisiksi."
 ---
-
 ## Definition
 
 Tämä lähestymistapa jäljittelee ihmisen kognitiivisia prosesseja ryhmittelemällä datan korkeampitasoisiksi entiteeteiksi tai 'jyväisiksi' sen sijaan, että yksittäisiä elementtejä käsiteltäisiin erikseen. Se kattaa tekniikoita kuten karkeat joukot, sumea...

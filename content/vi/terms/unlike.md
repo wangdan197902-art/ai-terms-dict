@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /vi/terms/unlike/
 date: "2026-07-18T15:30:09.265170Z"
 lastmod: "2026-07-18T16:38:07.698892Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một toán tử logic được sử dụng trong SQL và lập trình để lọc các bản ghi không khớp với một điều kiện cụ thể."
 ---
-
 ## Definition
 
 Trong truy vấn cơ sở dữ liệu và logic, 'KHÁC' thường đề cập đến toán tử NOT LIKE, thực hiện khớp mẫu theo hướng ngược lại. Nó trả về đúng cho các hàng mà giá trị cột không phù hợp với mẫu đã chỉ định.

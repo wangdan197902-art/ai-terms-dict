@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /he/terms/process/
 date: "2026-07-18T15:29:14.591699Z"
 lastmod: "2026-07-18T17:15:09.484934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "סדרה מבנית של פעולות או צעדים הננקטים כדי להשיג מטרה חישובית ספציפית או תוצאה."
 ---
-
 ## Definition
 
 בתוך פיתוח בינה מלאכותית, תהליך מציין את זרימת העבודה השיטתית הנדרשת להמרת נתונים גולמיים לתובנות פעילות או מודלים. זה כולל שלבים כמו קליטת נתונים, עיבוד מקדים, תכונות

@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /cs/terms/experimental/
 date: "2026-07-18T15:24:50.019802Z"
 lastmod: "2026-07-18T17:15:09.068012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na technologie, modely nebo metody AI, které jsou ve fázi raného vývoje a ještě nejsou plně ověřeny pro produkční nasazení."
 ---
-
 ## Definition
 
 Experimentální označuje komponenty AI, které jsou aktuálně testovány, zkoumány nebo prototypovány před dosažením stability nebo širokého přijetí. Tyto systémy často využívají nové architektury nebo neprověřené...

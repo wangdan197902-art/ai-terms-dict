@@ -1,23 +1,24 @@
 ---
-title: "קלו (Qloo)"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: קלו (Qloo)
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /he/terms/qloo/
-date: "2026-07-18T16:21:10.581252Z"
-lastmod: "2026-07-18T17:15:09.577425Z"
+slug: qloo
+date: '2026-07-18T16:21:10.581252Z'
+lastmod: '2026-07-18T17:15:09.577425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "קלו היא פלטפורמת נתונים המבוססת על בינה מלאכותית, המספקת תובנות חיזוייות לגבי התנהגות צרכנים וטרנדים תרבותיים."
+source: agnes_llm
+status: published
+language: he
+description: קלו היא פלטפורמת נתונים המבוססת על בינה מלאכותית, המספקת תובנות חיזוייות
+  לגבי התנהגות צרכנים וטרנדים תרבותיים.
 ---
-
 ## Definition
 
 קלו פועלת כחברת אינטליגנציה בנתונים המתמחה בהבנת העדפות אנושיות באמצעות אלגוריתמים מתקדמים של למידת מכונה. החברה אוגרת ומנתחת מאגרי נתונים עצומים ממקורות שונים

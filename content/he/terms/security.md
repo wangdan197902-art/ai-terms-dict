@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /he/terms/security/
 date: "2026-07-18T15:30:34.569265Z"
 lastmod: "2026-07-18T17:15:09.487345Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "התרגול של הגנה על מערכות בינה מלאכותית מפני גישה בלתי מורשית, שימוש לרע ותקיפות זדוניות."
 ---
-
 ## Definition
 
 אבטחת AI כוללת אמצעים המיועדים להגן על מודלים של למידת מכונה, צינורות נתונים ותשתיות הפריסה מפני איומים כמו התקפות אדוורסריות, הרעלת נתונים ופגיעה בשלמות המודל.

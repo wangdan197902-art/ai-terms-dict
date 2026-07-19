@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /pt/terms/right_to_be_forgotten/
 date: "2026-07-18T15:27:52.819384Z"
 lastmod: "2026-07-18T15:51:59.543770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conceito legal que permite aos indivíduos solicitar a exclusão de seus dados pessoais mantidos por organizações."
 ---
-
 ## Definition
 
 O direito ao esquecimento permite que os usuários exijam a remoção de suas informações pessoais de bancos de dados e conjuntos de treinamento de IA. Implementar isso no aprendizado de máquina é desafiador porque os modelos podem ter memorizado esses dados durante o treinamento.

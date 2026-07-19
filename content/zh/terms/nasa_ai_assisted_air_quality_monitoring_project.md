@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /zh/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T11:28:00.225326Z"
 lastmod: "2026-07-18T11:44:45.535809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一项利用人工智能和卫星数据来监测和预测全球空气质量模式的研究计划。"
 ---
-
 ## Definition
 
 该项目结合 NASA 的地球观测数据与先进的人工智能算法，在全球范围内追踪颗粒物和气体污染物。通过将卫星图像与地面-level 数据整合，实现更精准的空气质量预测和分析。

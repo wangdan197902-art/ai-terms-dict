@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /id/terms/ai_washing/
 date: "2026-07-18T15:37:36.733638Z"
 lastmod: "2026-07-18T16:38:07.424001Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Praktik melebih-lebihkan atau mengklaim secara palsu bahwa produk atau layanan memanfaatkan kecerdasan buatan untuk tujuan pemasaran."
 ---
-
 ## Definition
 
 AI washing adalah istilah yang analog dengan greenwashing, menggambarkan strategi pemasaran yang menipu di mana perusahaan mengklaim produk mereka mencakup AI canggih padahal sebenarnya hanya mengandalkan aturan sederhana berbasis pemrograman tradisional.

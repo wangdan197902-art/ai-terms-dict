@@ -1,23 +1,24 @@
 ---
-title: "Μάθηση Χαρακτηριστικών (Feature Learning)"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Μάθηση Χαρακτηριστικών (Feature Learning)
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /el/terms/feature_learning/
-date: "2026-07-18T16:07:16.335731Z"
-lastmod: "2026-07-18T17:15:09.908225Z"
+slug: feature_learning
+date: '2026-07-18T16:07:16.335731Z'
+lastmod: '2026-07-18T17:15:09.908225Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια προσέγγιση όπου οι αλγόριθμοι ανακαλύπτουν αυτόματα τα απαιτούμενα χαρακτηριστικά για ανίχνευση ή ταξινόμηση από τα ακατέργαστα δεδομένα."
+source: agnes_llm
+status: published
+language: el
+description: Μια προσέγγιση όπου οι αλγόριθμοι ανακαλύπτουν αυτόματα τα απαιτούμενα
+  χαρακτηριστικά για ανίχνευση ή ταξινόμηση από τα ακατέργαστα δεδομένα.
 ---
-
 ## Definition
 
 Η μάθηση χαρακτηριστικών, συχνά συνδεδεμένη με τη βαθιά μάθηση, επιτρέπει στα μοντέλα να μαθαίνουν ιεραρχικές παραστάσεις απευθείας από τα ακατέργαστα δεδομένα εισόδου, αντί να βασίζονται στη χειροκίνητη μηχανική χαρακτηριστικών. Μέσω των επιπέδων

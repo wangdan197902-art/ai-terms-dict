@@ -7,8 +7,6 @@ tags: ["speculative", "naming", "uncertain"]
 difficulty: 4
 weight: 1
 slug: "gemma4"
-aliases:
-  - /hu/terms/gemma4/
 date: "2026-07-18T16:01:08.100262Z"
 lastmod: "2026-07-18T17:15:09.787421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Gemma4 a Google Gemma modellcsaládjának egy hipotetikus vagy jövőbeli változatára utalhat, amely potenciálisan a negyedik nagyobb verzióra vagy egy specifikus variánsra utal a leszármazási vonalban."
 ---
-
 ## Definition
 
 Jelenlegi tudásunk szerint nincs hivatalosan kiadott, kifejezetten 'Gemma4' néven futó modell, amely megkülönböztetné a meglévő Gemma 2 szériától. Ez egy spekulatív jövőbeli kiadásra, vagy egy specifikus belső...

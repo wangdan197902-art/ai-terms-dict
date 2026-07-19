@@ -1,23 +1,24 @@
 ---
-title: "Előrefelé irányuló hálózat"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Előrefelé irányuló hálózat
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /hu/terms/feed_forward_network/
-date: "2026-07-18T15:59:53.397793Z"
-lastmod: "2026-07-18T17:15:09.784621Z"
+slug: feed_forward_network
+date: '2026-07-18T15:59:53.397793Z'
+lastmod: '2026-07-18T17:15:09.784621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az artifi ciális neurális hálózatok egy olyan osztálya, ahol a csomópontok közötti kapcsolatok nem alkotnak ciklust, és az információ egy irányban terjed."
+source: agnes_llm
+status: published
+language: hu
+description: Az artifi ciális neurális hálózatok egy olyan osztálya, ahol a csomópontok
+  közötti kapcsolatok nem alkotnak ciklust, és az információ egy irányban terjed.
 ---
-
 ## Definition
 
 Az Előrefelé irányuló hálózatok (FFN), más néven Többrétegű Perceptronok (MLP), sorosan dolgozzák fel az adatokat a neuronrétegeken keresztül a bemenettől a kimenet felé visszacsatolási hurkok nélkül. Minden neuron bemeneteket kap, ezeket súlyozott összeget képez, majd egy aktivációs függvényen vezeti át őket, mielőtt továbbítaná az eredményt a következő rétegnek.

@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /ro/terms/muse_spark/
 date: "2026-07-18T16:13:21.747323Z"
 lastmod: "2026-07-18T17:15:09.685095Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru de lucru distribuit pentru învățarea profundă, construit pe Apache Spark, care permite antrenarea scalabilă a modelelor pe clustere mari."
 ---
-
 ## Definition
 
 Muse Spark este un cadru de lucru open-source pentru învățarea profundă, conceput să funcționeze eficient peste Apache Spark. Permite dezvoltatorilor să antreneze rețele neuronale complexe pe clustere distribuite, valorificând

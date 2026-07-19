@@ -1,23 +1,24 @@
 ---
-title: "Episteeminen modaalilogiikka"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Episteeminen modaalilogiikka
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /fi/terms/epistemic_modal_logic/
-date: "2026-07-18T15:56:43.379612Z"
-lastmod: "2026-07-18T17:15:09.408953Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:56:43.379612Z'
+lastmod: '2026-07-18T17:15:09.408953Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Modaalilogiikan haara, joka käyttää muodollisia järjestelmiä edustaa ja päättellä agenttien tieto- ja uskomustiloja."
+source: agnes_llm
+status: published
+language: fi
+description: Modaalilogiikan haara, joka käyttää muodollisia järjestelmiä edustaa
+  ja päättellä agenttien tieto- ja uskomustiloja.
 ---
-
 ## Definition
 
 Episteeminen modaalilogiikka laajentaa klassista logiikkaa operaattoreilla, jotka kuvaavat sitä, mitä agentti tietää tai uskoo. Se on kriittinen moniajenttijärjestelmissä, joissa on perusteltua muiden osallistujien tietämistä.

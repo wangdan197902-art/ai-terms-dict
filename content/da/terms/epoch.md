@@ -1,23 +1,24 @@
 ---
-title: "Epoch"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /da/terms/epoch/
-date: "2026-07-18T15:54:50.328731Z"
-lastmod: "2026-07-18T17:15:09.285806Z"
+slug: epoch
+date: '2026-07-18T15:54:50.328731Z'
+lastmod: '2026-07-18T17:15:09.285806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Én komplet gennemgang af træningsdatasættet gennem maskinlæringsalgoritmen under modellens træning."
+source: agnes_llm
+status: published
+language: da
+description: Én komplet gennemgang af træningsdatasættet gennem maskinlæringsalgoritmen
+  under modellens træning.
 ---
-
 ## Definition
 
 Inden for maskinlæring repræsenterer en epoch én enkelt iteration over hele træningsdatasættet. Under hver epoch behandler modellen alle træningseksempler, opdaterer sine vægte via bagudpropagering og justerer parametrene for at minimere fejlen.

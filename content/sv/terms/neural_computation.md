@@ -1,23 +1,24 @@
 ---
-title: "Neural beräkning"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Neural beräkning
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /sv/terms/neural_computation/
-date: "2026-07-18T16:11:33.740994Z"
-lastmod: "2026-07-18T17:15:09.030705Z"
+slug: neural_computation
+date: '2026-07-18T16:11:33.740994Z'
+lastmod: '2026-07-18T17:15:09.030705Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen för informationsbearbetning inom artificiella neuronnätverk inspirerade av biologiska neuroner."
+source: agnes_llm
+status: published
+language: sv
+description: Processen för informationsbearbetning inom artificiella neuronnätverk
+  inspirerade av biologiska neuroner.
 ---
-
 ## Definition
 
 Neural beräkning avser de matematiska operationer som utförs av artificiella neuroner för att omvandla ingångssignaler till utgångsrespons. Det involverar vägtade summor, aktiveringsfunktioner och bakåtriktad spridning.

@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /ar/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:51:00.500547Z"
 lastmod: "2026-07-18T17:15:08.489792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يجمع هذا المجال بين التحليل الإحصائي والتعلم الآلي لاستخلاص رؤى من البيانات والتنبؤ بالأحداث أو السلوكيات المستقبلية."
 ---
-
 ## Definition
 
 يتضمن علم البيانات العملية متعددة التخصصات لاستخراج المعرفة من البيانات المهيكلة وغير المهيكلة، بينما يركز التحليل التنبودي تحديداً على استخدام البيانات التاريخية للتنبؤ بالاتجاهات والنتائج المستقبلية.

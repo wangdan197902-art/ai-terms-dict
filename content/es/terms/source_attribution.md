@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /es/terms/source_attribution/
 date: "2026-07-18T11:08:31.143852Z"
 lastmod: "2026-07-18T11:44:44.855400Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El proceso de identificar y reconocer a los creadores originales o los conjuntos de datos utilizados para generar contenido específico o conocimientos."
 ---
-
 ## Definition
 
 La atribución de la fuente se refiere al seguimiento sistemático y la etiquetado de los orígenes de datos, modelos o salidas generadas dentro de los sistemas de IA. Garantiza la transparencia vinculando los resultados finales con sus fuentes originales.

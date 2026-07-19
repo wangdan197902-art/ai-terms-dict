@@ -1,23 +1,24 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /vi/terms/deepseek/
-date: "2026-07-18T15:48:58.163033Z"
-lastmod: "2026-07-18T16:38:07.747812Z"
+slug: deepseek
+date: '2026-07-18T15:48:58.163033Z'
+lastmod: '2026-07-18T16:38:07.747812Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "DeepSeek là một dòng mô hình ngôn ngữ lớn được phát triển bởi DeepSeek, nổi tiếng với hiệu suất cao, khả năng lập trình mạnh mẽ và trọng số mở."
+source: agnes_llm
+status: published
+language: vi
+description: DeepSeek là một dòng mô hình ngôn ngữ lớn được phát triển bởi DeepSeek,
+  nổi tiếng với hiệu suất cao, khả năng lập trình mạnh mẽ và trọng số mở.
 ---
-
 ## Definition
 
 DeepSeek đề cập đến một họ các mô hình trí tuệ nhân tạo do công ty DeepSeek tạo ra. Các mô hình này được thiết kế để xử lý các nhiệm vụ xử lý ngôn ngữ tự nhiên phức tạp, bao gồm cả việc tạo mã nguồn,

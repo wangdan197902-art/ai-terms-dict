@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /de/terms/information/
 date: "2026-07-18T10:50:53.396126Z"
 lastmod: "2026-07-18T11:44:44.876332Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Information bezeichnet verarbeitete Daten, die Bedeutung vermitteln, Unsicherheit reduzieren oder dem Empfänger Kontext bieten."
 ---
-
 ## Definition
 
 Im Kontext von KI und Informatik unterscheidet sich Information von Rohdaten. Sie repräsentiert Daten, die organisiert, strukturiert oder interpretiert wurden, um Bedeutung und Nutzen zu erlangen. Information reduziert...

@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /pt/terms/perception_error_model/
 date: "2026-07-18T15:16:20.932435Z"
 lastmod: "2026-07-18T15:51:59.521906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura estatística ou algorítmica usada para quantificar e corrigir imprecisões na interpretação de dados sensoriais."
 ---
-
 ## Definition
 
 Um modelo de erro de percepção descreve as discrepâncias entre os dados sensoriais observados e a verdade fundamental (ground truth), levando em conta ruído, oclusão ou limitações do sensor. Ao modelar esses erros, os sistemas de IA podem melhorar a robustez e a precisão de suas decisões perceptivas.

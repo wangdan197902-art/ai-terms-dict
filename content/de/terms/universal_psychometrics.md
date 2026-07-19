@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /de/terms/universal_psychometrics/
 date: "2026-07-18T11:37:24.201126Z"
 lastmod: "2026-07-18T11:44:44.997336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Anwendung standardisierter Messverfahren zur Bewertung psychologischer Merkmale in verschiedenen Bevölkerungsgruppen."
 ---
-
 ## Definition
 
 Universelle Psychometrie umfasst die Entwicklung und Anwendung von Assessment-Tools, die psychologische Konstrukte wie Persönlichkeit, kognitive Fähigkeiten oder emotionale Intelligenz zuverlässig über verschiedene kulturelle und demografische Grenzen hinweg messen können.

@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /da/terms/gibberlink/
 date: "2026-07-18T15:57:34.981726Z"
 lastmod: "2026-07-18T17:15:09.292425Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Gibberlink er ikke et anerkendt standardbegreb inden for litteraturen om kunstig intelligens."
 ---
-
 ## Definition
 
 Der findes ingen etableret koncept, teknologi eller metodik kendt som 'Gibberlink' inden for feltet kunstig intelligens, maskinlæring eller datalogi. Det kan være en stavefejl eller en fiktiv betegnelse.

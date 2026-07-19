@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /pl/terms/langevin/
 date: "2026-07-18T15:26:34.104574Z"
 lastmod: "2026-07-18T17:15:08.813721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Langevina odnosi się do stochastycznych równań różniczkowych, w szczególności dynamiki Langevina, używanej do próbkowania z rozkładów prawdopodobieństwa poprzez symulację ruchu fizycznego z tarciem i "
 ---
-
 ## Definition
 
 Dynamika Langevina incorporates losowy szum i siły tłumienia, aby efektywnie eksplorować krajobrazy energetyczne. W AI jest głównie używana w metodach próbkowania takich jak Monte Carlo Hamiltonian lub Stochastic Gradient...

@@ -1,23 +1,25 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /vi/terms/pyannote_audio/
-date: "2026-07-18T16:09:04.608546Z"
-lastmod: "2026-07-18T16:38:07.796723Z"
+slug: pyannote_audio
+date: '2026-07-18T16:09:04.608546Z'
+lastmod: '2026-07-18T16:38:07.796723Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Pyannote Audio là một bộ công cụ mô-đun để xây dựng quy trình phân tích người nói, bao gồm các mô hình mạng nơ-ron đã được huấn luyện trước cho phân tích âm thanh."
+source: agnes_llm
+status: published
+language: vi
+description: Pyannote Audio là một bộ công cụ mô-đun để xây dựng quy trình phân tích
+  người nói, bao gồm các mô hình mạng nơ-ron đã được huấn luyện trước cho phân tích
+  âm thanh.
 ---
-
 ## Definition
 
 Pyannote Audio là một bộ công cụ toàn diện được thiết kế để tạo điều kiện thuận lợi cho việc phát triển và triển khai các hệ thống phân tích người nói. Nó cung cấp một bộ sưu tập các mô hình mạng nơ-ron đã được huấn luyện trước cho các nhiệm vụ như phát hiện giọng nói và phân đoạn.

@@ -1,23 +1,23 @@
 ---
-title: "홀드아웃(Held-out)"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: 홀드아웃(Held-out)
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /ko/terms/held_out/
-date: "2026-07-18T15:31:36.908059Z"
-lastmod: "2026-07-18T16:38:06.789080Z"
+slug: held_out
+date: '2026-07-18T15:31:36.908059Z'
+lastmod: '2026-07-18T16:38:06.789080Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "개발 중 과적합을 방지하고 모델 성능을 평가하기 위해 훈련 세트에서 예약된 데이터 샘플."
+source: agnes_llm
+status: published
+language: ko
+description: 개발 중 과적합을 방지하고 모델 성능을 평가하기 위해 훈련 세트에서 예약된 데이터 샘플.
 ---
-
 ## Definition
 
 '홀드아웃' 데이터셋은 머신러닝 모델의 훈련 단계에서 의도적으로 제외된 예제들의 집합입니다. 이 부분집합은 모델이 보지 못한 데이터(Unseen data)에 대해 얼마나 잘 일반화되는지 평가하는 데 사용되며, 훈련 과정에서의 과적합(Overfitting)을 방지하고 모델의 실제 성능을 unbiased하게 추정하는 역할을 합니다.

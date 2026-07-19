@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /cs/terms/data_poisoning/
 date: "2026-07-18T15:50:21.142760Z"
 lastmod: "2026-07-18T17:15:09.115739Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Data poisoning je bezpečnostní útok, při kterém zlí aktéři vkládají poškozená nebo zavádějící data do trénovací sady, aby zhoršili výkon modelu."
 ---
-
 ## Definition
 
 Tato adversariální technika má za cíl ohrozit integritu strojových modelů změnou trénovacích dat. Zavedením jemných chyb nebo zkreslených příkladů mohou útočníci způsobit, že se model

@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /tr/terms/bert/
 date: "2026-07-18T15:44:07.909281Z"
 lastmod: "2026-07-18T16:38:07.279473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Transformers'dan İkili Kodlayıcı Temsilleri, önceden eğitilmiş bir doğal dil işleme modelidir."
 ---
-
 ## Definition
 
 BERT, Google tarafından geliştirilen, NLP öncesi eğitimi için Transformer tabanlı bir makine öğrenimi tekniğidir. İkili temsiller öğrenmek için maskelenmiş dil modeli ve sonraki cümle tahmini kullanır.

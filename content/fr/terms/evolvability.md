@@ -1,23 +1,24 @@
 ---
-title: "Évolutivité"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Évolutivité
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /fr/terms/evolvability/
-date: "2026-07-18T11:16:12.645234Z"
-lastmod: "2026-07-18T11:44:45.248198Z"
+slug: evolvability
+date: '2026-07-18T11:16:12.645234Z'
+lastmod: '2026-07-18T11:44:45.248198Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La capacité d'un génotype ou d'un système à générer une variation phénotypique héréditaire pouvant être sélectionnée pour l'adaptation."
+source: agnes_llm
+status: published
+language: fr
+description: La capacité d'un génotype ou d'un système à générer une variation phénotypique
+  héréditaire pouvant être sélectionnée pour l'adaptation.
 ---
-
 ## Definition
 
 Dans les contextes computationnels, l'évolutivité désigne la facilité avec laquelle un algorithme ou une architecture de réseau neuronal peut améliorer sa fitness au fil des générations ou des étapes d'entraînement. Une haute évolutivité implique que de petites modifications génétiques ou structurelles peuvent conduire à des améliorations significatives.

@@ -1,23 +1,24 @@
 ---
-title: "Modèle piloté par les données"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Modèle piloté par les données
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /fr/terms/data_driven_model/
-date: "2026-07-18T11:11:21.358004Z"
-lastmod: "2026-07-18T11:44:45.214213Z"
+slug: data_driven_model
+date: '2026-07-18T11:11:21.358004Z'
+lastmod: '2026-07-18T11:44:45.214213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un modèle computationnel dont les paramètres et la structure sont appris directement à partir de données empiriques plutôt que par programmation explicite."
+source: agnes_llm
+status: published
+language: fr
+description: Un modèle computationnel dont les paramètres et la structure sont appris
+  directement à partir de données empiriques plutôt que par programmation explicite.
 ---
-
 ## Definition
 
 Un modèle piloté par les données est un type de système d'intelligence artificielle où le comportement et les prédictions émergent des motifs identifiés dans les données historiques, plutôt que d'être définis par des règles codées en dur ou des équations physiques explicites.

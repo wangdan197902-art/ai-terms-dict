@@ -1,23 +1,24 @@
 ---
-title: "Finetunat"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Finetunat
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /ro/terms/finetuned/
-date: "2026-07-18T15:58:41.708921Z"
-lastmod: "2026-07-18T17:15:09.656762Z"
+slug: finetuned
+date: '2026-07-18T15:58:41.708921Z'
+lastmod: '2026-07-18T17:15:09.656762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de antrenare suplimentară a unui model pre-antrenat pe un set de date specific pentru a-l adapta la o sarcină particulară."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de antrenare suplimentară a unui model pre-antrenat pe un set
+  de date specific pentru a-l adapta la o sarcină particulară.
 ---
-
 ## Definition
 
 Finetunarea se referă la tehnica de a lua un model deja antrenat pe un set de date mare și generalist și de a continua antrenarea acestuia pe un set de date mai mic, specific unui domeniu. Acest lucru permite modelului să se adapteze.

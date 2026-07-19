@@ -1,23 +1,25 @@
 ---
-title: "Tekillik Çalışmaları"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Tekillik Çalışmaları
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /tr/terms/singularity_studies/
-date: "2026-07-18T16:14:11.774936Z"
-lastmod: "2026-07-18T16:38:07.365238Z"
+slug: singularity_studies
+date: '2026-07-18T16:14:11.774936Z'
+lastmod: '2026-07-18T16:38:07.365238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Gelecekteki teknolojik bir tekilliğin potansiyel toplumsal, etik ve varoluşsal etkilerini inceleyen disiplinlerarası bir alan."
+source: agnes_llm
+status: published
+language: tr
+description: Gelecekteki teknolojik bir tekilliğin potansiyel toplumsal, etik ve varoluşsal
+  etkilerini inceleyen disiplinlerarası bir alan.
 ---
-
 ## Definition
 
 Tekillik çalışmaları, yapay zekanın insan zekasını aştığı ve bu durumun kontrol edilemez sonuçlara yol açtığı varsayılan gelecekteki bir noktanın etkilerini araştıran yeni ortaya çıkan bir akademik disiplindir.

@@ -1,23 +1,24 @@
 ---
-title: "Koneellinen aisti"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Koneellinen aisti
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /fi/terms/machine_perception/
-date: "2026-07-18T16:09:55.460434Z"
-lastmod: "2026-07-18T17:15:09.432262Z"
+slug: machine_perception
+date: '2026-07-18T16:09:55.460434Z'
+lastmod: '2026-07-18T17:15:09.432262Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Koneellinen aisti viittaa tekoälyjärjestelmien kykyyn tulkita ja ymmärtää ympäristöstä tulevia aistinvaraisia tietoja, kuten kuvia, ääntä tai anturilukemia."
+source: agnes_llm
+status: published
+language: fi
+description: Koneellinen aisti viittaa tekoälyjärjestelmien kykyyn tulkita ja ymmärtää
+  ympäristöstä tulevia aistinvaraisia tietoja, kuten kuvia, ääntä tai anturilukemia.
 ---
-
 ## Definition
 
 Se yhdistää raakat anturitiedot ja merkityksellisen semanttisen ymmärryksen, jäljitellen ihmisen aisteja kuten näköä ja kuuloa. Keskeisiä teknologioita ovat tietokonenäky objektitunnistusta varten, puheentunnistus...

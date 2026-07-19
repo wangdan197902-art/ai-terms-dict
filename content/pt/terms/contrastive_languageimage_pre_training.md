@@ -1,23 +1,24 @@
 ---
-title: "Pré-treinamento Contrastivo de Linguagem e Imagem"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Pré-treinamento Contrastivo de Linguagem e Imagem
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /pt/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T14:54:32.173889Z"
-lastmod: "2026-07-18T15:51:59.474652Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T14:54:32.173889Z'
+lastmod: '2026-07-18T15:51:59.474652Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um método de pré-treinamento multimodal que alinha representações de imagem e texto usando funções de perda contrastiva."
+source: agnes_llm
+status: published
+language: pt
+description: Um método de pré-treinamento multimodal que alinha representações de
+  imagem e texto usando funções de perda contrastiva.
 ---
-
 ## Definition
 
 O Pré-treinamento Contrastivo de Linguagem e Imagem (CLIP) é uma arquitetura de rede neural treinada em imagens e suas legendas correspondentes da internet. Ele usa um objetivo contrastivo para maximizar a co...

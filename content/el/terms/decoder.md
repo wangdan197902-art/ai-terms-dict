@@ -1,23 +1,24 @@
 ---
-title: "Αποκωδικοποιητής"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Αποκωδικοποιητής
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /el/terms/decoder/
-date: "2026-07-18T15:39:47.433407Z"
-lastmod: "2026-07-18T17:15:09.865188Z"
+slug: decoder
+date: '2026-07-18T15:39:47.433407Z'
+lastmod: '2026-07-18T17:15:09.865188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια συνιστώσα νευρωνικού δικτύου υπεύθυνη για τη δημιουργία ακολουθιών εξόδου από κωδικοποιημένες λανθάνουσες παραστάσεις."
+source: agnes_llm
+status: published
+language: el
+description: Μια συνιστώσα νευρωνικού δικτύου υπεύθυνη για τη δημιουργία ακολουθιών
+  εξόδου από κωδικοποιημένες λανθάνουσες παραστάσεις.
 ---
-
 ## Definition
 
 Στα μοντέλα ακολουθίας-προς-ακολουθία, ο αποκωδικοποιητής λαμβάνει το διάνυσμα πλαισίου που παράγεται από τον κωδικοποιητή και δημιουργεί την έξοδο στόχο βήμα προς βήμα. Χρησιμοποιεί μηχανισμούς προσοχής για να εστιάσει στα σχετικά μέρη της εισόδου κατά τη δημιουργία της εξόδου.

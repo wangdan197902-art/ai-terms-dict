@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /tr/terms/knowledge/
 date: "2026-07-18T15:26:06.798106Z"
 lastmod: "2026-07-18T16:38:07.235156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi birikimi, etkili karar vermeyi sağlayan, bilgiden, deneyimden veya muhakemeden türetilen yapılandırılmış anlayış, gerçekler, beceriler ve içgörülerdir."
 ---
-
 ## Definition
 
 Yapay zekada bilgi, genellikle mantık yürütme ve çıkarım yapmayı sağlayan veritabanlarında, ontolojilerde veya sinir ağı ağırlıklarında saklanan açık bilgiyi ifade eder. DIKW hiyerarşisinde bilginin üzerinde yer alır.

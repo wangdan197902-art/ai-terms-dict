@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้การแสดงข้อมูลหลายรูปแบบ"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: การเรียนรู้การแสดงข้อมูลหลายรูปแบบ
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /th/terms/multimodal_representation_learning/
-date: "2026-07-18T16:06:39.780400Z"
-lastmod: "2026-07-18T16:38:07.634561Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:06:39.780400Z'
+lastmod: '2026-07-18T16:38:07.634561Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่เรียนรู้การแสดงคุณลักษณะแบบรวมจากข้อมูลหลายรูปแบบพร้อมกัน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่เรียนรู้การแสดงคุณลักษณะแบบรวมจากข้อมูลหลายรูปแบบพร้อมกัน
 ---
-
 ## Definition
 
 การเรียนรู้การแสดงข้อมูลหลายรูปแบบเกี่ยวข้องกับการฝึกโมเดลให้ประมวลผลและบูรณาการข้อมูลจากแหล่งข้อมูลประเภทต่างๆ เช่น ข้อความ รูปภาพ เสียง และวิดีโอ เข้าด้วยกันในพื้นที่แฝงร่วม (shared latent space)

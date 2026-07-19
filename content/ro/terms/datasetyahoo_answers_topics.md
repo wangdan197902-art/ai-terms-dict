@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /ro/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:53:25.331196Z"
 lastmod: "2026-07-18T17:15:09.645868Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date derivat din Yahoo Answers, conținând întrebări și răspunsuri generate de utilizatori, categorizate în subiecte specifice pentru potrivirea semantică și clasificare."
 ---
-
 ## Definition
 
 Setul de date Yahoo Answers Topics este un subset al arhivei mai mari Yahoo Answers, concentrându-se pe întrebări și răspunsuri organizate în categorii distincte de subiecte. Este utilizat frecvent pentru clasificarea textului și evaluarea similarității semantice.

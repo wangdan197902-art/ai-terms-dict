@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /tr/terms/ai_observability/
 date: "2026-07-18T15:38:55.785633Z"
 lastmod: "2026-07-18T16:38:07.267882Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenimi sistemlerinin iç durumunu günlükler (logs), metrikler ve izlemeler (traces) aracılığıyla izleme ve anlama pratiği."
 ---
-
 ## Definition
 
 Yapay zeka gözlemlenebilirliği, geleneksel yazılım izlemeyi makine öğrenimi sistemlerinin benzersiz zorluklarını ele alacak şekilde genişletir. Gerçek zamanlı olarak model performansını, veri kaymasını (data drift) ve çıkarım gecikmelerini takip etmeyi içerir. Bu yaklaşım, modellerin üretim ortamındaki davranışlarını şeffaf bir şekilde anlamaya, sorunları hızla teşhis etmeye ve sistem güvenilirliğini sağlamaya yardımcı olur.

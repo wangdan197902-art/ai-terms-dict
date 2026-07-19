@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /vi/terms/argumentation_framework/
 date: "2026-07-18T15:40:23.931840Z"
 lastmod: "2026-07-18T16:38:07.727757Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cấu trúc hình thức được sử dụng để mô hình hóa và giải quyết các xung đột giữa các yêu cầu hoặc quyết định cạnh tranh trong các hệ thống AI."
 ---
-
 ## Definition
 
 Các khung tranh luận cung cấp nền tảng toán học để đại diện cho các lập luận, sự tấn công và phòng thủ giữa chúng. Trong kỹ thuật AI, chúng giúp các hệ thống đưa ra các quyết định minh bạch và có thể biện minh bằng cách cân nhắc...

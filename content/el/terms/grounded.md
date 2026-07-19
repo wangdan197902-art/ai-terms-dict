@@ -1,23 +1,25 @@
 ---
-title: "Εδαφωμένο"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Εδαφωμένο
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /el/terms/grounded/
-date: "2026-07-18T15:26:51.075314Z"
-lastmod: "2026-07-18T17:15:09.845947Z"
+slug: grounded
+date: '2026-07-18T15:26:51.075314Z'
+lastmod: '2026-07-18T17:15:09.845947Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Αναφέρεται σε συστήματα τεχνητής νοημοσύνης που συνδέουν αφηρημένους συμβολισμούς ή γλώσσα με δεδομένα πραγματικού κόσμου από τις αισθήσεις ή φυσικές ενέργειες."
+source: agnes_llm
+status: published
+language: el
+description: Αναφέρεται σε συστήματα τεχνητής νοημοσύνης που συνδέουν αφηρημένους
+  συμβολισμούς ή γλώσσα με δεδομένα πραγματικού κόσμου από τις αισθήσεις ή φυσικές
+  ενέργειες.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, ο όρος «εδαφωμένο» περιγράφει τη διαδικασία σύνδεσης συμβολικών αναπαραστάσεων, όπως λέξεις ή λογικές προτάσεις, με τα πραγματικά αντικείμενα ή έννοιες στον φυσικό κόσμο ή την αισθητηριακή εμπειρία.

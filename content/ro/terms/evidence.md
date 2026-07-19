@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /ro/terms/evidence/
 date: "2026-07-18T15:25:26.295801Z"
 lastmod: "2026-07-18T17:15:09.593120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Date sau informații utilizate pentru a susține o ipoteză sau a valida performanța unui model de inteligență artificială."
 ---
-
 ## Definition
 
 În inteligența artificială, dovezile se referă la date empirice, rezultate statistice sau rezultate observabile care susțin afirmațiile despre comportamentul, acuratețea sau eficacitatea unui model. Acestea servesc ca fundament pentru evaluarea obiectivă.

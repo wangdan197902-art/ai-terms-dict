@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /ro/terms/algorithmic_discrimination/
 date: "2026-07-18T15:43:25.148352Z"
 lastmod: "2026-07-18T17:15:09.625982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Discriminarea algoritmică apare atunci când sistemele automate produc rezultate incorecte sau părtinitoare care dezavantajează anumite grupuri pe baza caracteristicilor protejate."
 ---
-
 ## Definition
 
 Acest fenomen apare când modelele de IA tratează inadvertent sau sistematic indivizii diferit din cauza rasiei, genului, vârstei sau altor atribute sensibile. Adesea provine din date de antrenament părtinitoare sau din lipsa diversității în datele de intrare.

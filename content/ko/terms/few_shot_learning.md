@@ -1,23 +1,23 @@
 ---
-title: "퓨 샷 러닝"
-term_id: "few_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["ml_theory", "training", "efficiency"]
+title: 퓨 샷 러닝
+term_id: few_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- ML Theory
+- training
+- efficiency
 difficulty: 4
 weight: 1
-slug: "few_shot_learning"
-aliases:
-  - /ko/terms/few_shot_learning/
-date: "2026-07-18T15:34:33.739704Z"
-lastmod: "2026-07-18T16:38:06.795379Z"
+slug: few_shot_learning
+date: '2026-07-18T15:34:33.739704Z'
+lastmod: '2026-07-18T16:38:06.795379Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "퓨 샷 러닝은 모델이 매우 제한된 라벨링된 학습 데이터로부터 새로운 개념을 학습하는 머신러닝 패러다임입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 퓨 샷 러닝은 모델이 매우 제한된 라벨링된 학습 데이터로부터 새로운 개념을 학습하는 머신러닝 패러다임입니다.
 ---
-
 ## Definition
 
 퓨 샷 러닝은 인간 학습의 효율성을 모방하여, 단 몇 개의 예시만으로 모델을 일반화할 수 있도록 하는 것을 목표로 합니다. 이는 일반적으로 메타러닝(Meta-learning) 전략에 의존하며, 모델이 다양한 하위 태스크를 사전에 경험하거나 학습하여 새로운 태스크에 빠르게 적응하도록 설계됩니다.

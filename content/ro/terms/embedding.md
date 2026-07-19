@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /ro/terms/embedding/
 date: "2026-07-18T15:23:10.069319Z"
 lastmod: "2026-07-18T17:15:09.588172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O tehnică care mapează obiecte discrete, cum ar fi cuvintele sau imaginile, în spații vectoriale continue."
 ---
-
 ## Definition
 
 Încorporările sunt reprezentări vectoriale dense ale datelor, unde relațiile semantice sunt păstrate în spațiul geometric. Prin conversia intrărilor categorice sau cu dimensiuni mari în vectori de lungime fixă, modelele pot procesa mai eficient informația.

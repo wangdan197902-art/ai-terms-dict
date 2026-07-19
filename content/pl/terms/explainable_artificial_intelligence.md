@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /pl/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:54:14.100135Z"
 lastmod: "2026-07-18T17:15:08.872007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wyjaśnialna sztuczna inteligencja (XAI) odnosi się do metod i technik stosowania technologii SI, dzięki którym wyniki działania systemu mogą być zrozumiane przez ekspertów ludzkich."
 ---
-
 ## Definition
 
 W miarę jak modele uczenia maszynowego stają się coraz bardziej złożone, szczególnie sieci neuronowe głębokie, ich procesy podejmowania decyzji często stają się nieprzejrzystymi „czarnymi skrzynkami”. XAI ma na celu uczynienie tych decyzji interpretowalnymi i zrozumiałymi dla człowieka.

@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /tr/terms/mistral_common/
 date: "2026-07-18T16:03:59.262840Z"
 lastmod: "2026-07-18T16:38:07.334983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çeşitli Mistral AI model varyantlarıyla uyumlu tokenizasyon ve yardımcı işlevler sağlayan ortak kütüphane."
 ---
-
 ## Definition
 
 Mistral Common, Mistral AI tarafından yönetilen ve modelleriyle etkileşim kurmak için standartlaştırılmış araçlar sunan bir Python paketidir. Temel olarak metni...

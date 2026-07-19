@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /ro/terms/server_sent_events/
 date: "2026-07-18T16:20:36.161059Z"
 lastmod: "2026-07-18T17:15:09.701832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un protocol standard care permite serverelor web să trimită actualizări în timp real către clienți printr-o singură conexiune HTTP."
 ---
-
 ## Definition
 
 Evenimentele trimise de server (SSE) permit comunicația unidirecțională de la server la client, unde serverul poate transmite date continuu fără ca clientul să efectueze interogări repetitive. Utilizează HTTP simplu, ceea ce îl face ușor de implementat.

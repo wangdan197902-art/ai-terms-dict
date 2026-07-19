@@ -1,23 +1,25 @@
 ---
-title: "ليرا"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: ليرا
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /ar/terms/lyra/
-date: "2026-07-18T16:11:28.795566Z"
-lastmod: "2026-07-18T17:15:08.524354Z"
+slug: lyra
+date: '2026-07-18T16:11:28.795566Z'
+lastmod: '2026-07-18T17:15:08.524354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تشير ليرا إلى مبادرات أو نماذج ذكاء اصطناعي متنوعة، وأشهرها نموذج لغوي كبير مفتوح المصدر أو أداة بحث واكتشاف مدعومة بالذكاء الاصطناعي مصممة لتعزيز استرجاع المعلومات."
+source: agnes_llm
+status: published
+language: ar
+description: تشير ليرا إلى مبادرات أو نماذج ذكاء اصطناعي متنوعة، وأشهرها نموذج لغوي
+  كبير مفتوح المصدر أو أداة بحث واكتشاف مدعومة بالذكاء الاصطناعي مصممة لتعزيز استرجاع
+  المعلومات.
 ---
-
 ## Definition
 
 في سياق مصطلحات الذكاء الاصطناعي الحديثة، غالباً ما تشير ليرا إلى أنظمة ذكاء اصطناعي متخصصة تركز على تعزيز تفاعل المستخدم من خلال معالجة اللغة الطبيعية. وقد تشير إلى نموذج لغوي كبير مفتوح المصدر تم تطويره

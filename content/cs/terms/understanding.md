@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /cs/terms/understanding/
 date: "2026-07-18T15:30:50.714605Z"
 lastmod: "2026-07-18T17:15:09.081120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V umělé inteligenci schopnost modelu pochopit sémantický význam, kontext a záměr ve vstupních datech, nikoliv pouze rozpoznávání vzorů."
 ---
-
 ## Definition
 
 Chápání v AI přesahuje statistickou korelaci k interpretaci základního významu dat. U jazykových modelů to zahrnuje pochopení syntaxe, sémantiky a pragmatiky pro generování koherentních a

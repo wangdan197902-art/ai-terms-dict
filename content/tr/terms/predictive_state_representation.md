@@ -1,23 +1,24 @@
 ---
-title: "Tahmine dayalı durum temsili"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Tahmine dayalı durum temsili
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /tr/terms/predictive_state_representation/
-date: "2026-07-18T16:09:34.574603Z"
-lastmod: "2026-07-18T16:38:07.350086Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:09:34.574603Z'
+lastmod: '2026-07-18T16:38:07.350086Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Eylem geçmişine dayanarak gelecekteki gözlemleri tahmin eden pekiştirmeli öğrenmede gizli bir durum formülasyonudur."
+source: agnes_llm
+status: published
+language: tr
+description: Eylem geçmişine dayanarak gelecekteki gözlemleri tahmin eden pekiştirmeli
+  öğrenmede gizli bir durum formülasyonudur.
 ---
-
 ## Definition
 
 Tahmine Dayalı Temsiller (PSR'ler), geleneksel kısmen gözlemlenebilir Markov karar süreçlerini genişleterek durumları, gelecekteki gözlemlenebilir olaylar hakkında tahminler vektörü olarak tanımlar. Gizli durum değişkenlerine güvenmek yerine, geçmiş eylemlere ve gözlemlere dayalı olarak geleceği tahmin eden bu yaklaşım, belirsiz ortamlarda daha sağlam karar vermeyi sağlar.

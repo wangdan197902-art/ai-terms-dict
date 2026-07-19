@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /he/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:42:48.314797Z"
 lastmod: "2026-07-18T17:15:09.513705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הצומת העולה שבו בינה מלאכותית משמשת להכוונה רוחנית, סיוע במדיטציה או חקירת שאלות פילוסופיות."
 ---
-
 ## Definition
 
 בינה מלאכותית ברוחניות מתייחסת ליישום של בינה מלאכותית בהקשרים דתיים או קונטמפלטיביים. זה כולל צ'אטבוטים המציעים ייעוץ מוסרי, אמנות שנוצרה על ידי AI למדיטציה, או אלגוריתמים המנתחים טקסטים תאולוגיים כדי לחשוף משמעויות חדשות, תוך העלאת שאלות עמוקות על טבע המודעות והנשמה.

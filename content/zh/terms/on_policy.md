@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /zh/terms/on_policy/
 date: "2026-07-18T10:56:59.123969Z"
 lastmod: "2026-07-18T11:44:45.393253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种强化学习方法，其中被评估和改进的策略与用于生成数据的策略相同。"
 ---
-
 ## Definition
 
 在线策略算法要求智能体直接从其当前策略所采取的动作中学习。这意味着在探索过程中收集的数据被立即用于更新策略，从而确保数据分布的一致性。

@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /ar/terms/inductive_probability/
 date: "2026-07-18T16:03:00.601521Z"
 lastmod: "2026-07-18T17:15:08.515631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مقياس لدرجة دعم الأدلة لفرضية معينة، وهو يختلف عن اليقين الاستنتاجي."
 ---
-
 ## Definition
 
 يقيس الاحتمال الاستقرائي مدى احتمالية صحة فرضية ما بناءً على الأدلة الملاحظة، مع الإقرار بأن الاستنتاجات احتمالية وليست مؤكدة. ويشكل هذا المفهوم الأساس للاستدلال البايزي، حيث يتم تحديث احتمالية الفرضية كلما توفرت أدلة جديدة.

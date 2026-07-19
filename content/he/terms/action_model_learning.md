@@ -1,23 +1,24 @@
 ---
-title: "למידת מודל פעולה"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: למידת מודל פעולה
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /he/terms/action_model_learning/
-date: "2026-07-18T15:40:56.774196Z"
-lastmod: "2026-07-18T17:15:09.509767Z"
+slug: action_model_learning
+date: '2026-07-18T15:40:56.774196Z'
+lastmod: '2026-07-18T17:15:09.509767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת למידה חיזוקית שבה סוכן לומד את דינמיקת הסביבה שלו על ידי צפייה בהשפעות של פעולותיו העצמיות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת למידה חיזוקית שבה סוכן לומד את דינמיקת הסביבה שלו על ידי צפייה
+  בהשפעות של פעולותיו העצמיות.
 ---
-
 ## Definition
 
 למידת מודל פעולה כרוכה בבניית ייצוג פנימי על ידי הסוכן כיצד פעולותיו מעבירות את הסביבה ממצב אחד לאחר. בניגוד לצפייה פסיבית, שיטה זו מנצלת את הדינמיקה של הפעולות כדי לבנות מודל מדויק של הסביבה.

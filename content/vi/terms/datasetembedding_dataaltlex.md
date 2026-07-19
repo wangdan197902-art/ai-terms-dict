@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /vi/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:47:35.714636Z"
 lastmod: "2026-07-18T16:38:07.743734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một tập dữ liệu chứa các dạng từ vựng thay thế, được sử dụng để huấn luyện mô hình về sự tương đương ngữ nghĩa và phát hiện diễn đạt lại (paraphrase)."
 ---
-
 ## Definition
 
 Tập dữ liệu Altlex bao gồm các cặp câu có cùng ý nghĩa nền tảng nhưng sử dụng từ vựng hoặc cấu trúc cú pháp khác nhau. Nó chủ yếu được sử dụng trong việc huấn luyện các mô hình nhúng (embedding models).

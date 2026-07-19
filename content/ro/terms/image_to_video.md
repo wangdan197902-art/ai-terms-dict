@@ -1,23 +1,24 @@
 ---
-title: "Imagine la Video"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Imagine la Video
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /ro/terms/image_to_video/
-date: "2026-07-18T16:04:06.348533Z"
-lastmod: "2026-07-18T17:15:09.667771Z"
+slug: image_to_video
+date: '2026-07-18T16:04:06.348533Z'
+lastmod: '2026-07-18T17:15:09.667771Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un proces generativ în care o imagine statică este animată pentru a crea un scurt clip video, adăugând dinamici temporale și mișcare."
+source: agnes_llm
+status: published
+language: ro
+description: Un proces generativ în care o imagine statică este animată pentru a crea
+  un scurt clip video, adăugând dinamici temporale și mișcare.
 ---
-
 ## Definition
 
 Tehnologia Imagine la Video preia un singur cadru static și prezice cadrele ulterioare pentru a genera o secvență video coerentă. Acest lucru implică modelarea consistenței temporale și a dinamicii fizice pentru a asigura fluiditatea mișcării.

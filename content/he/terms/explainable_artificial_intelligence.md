@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /he/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:56:48.494121Z"
 lastmod: "2026-07-18T17:15:09.539071Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "בינה מלאכותית ניתנת להסבר (XAI) מתייחסת לשיטות וטכניקות ביישום טכנולוגיית בינה מלאכותית כך שתוצאות הפתרון יובנו על ידי מומחים אנושיים."
 ---
-
 ## Definition
 
 ככל שמודלים של למידת מכונה הופכים למורכבים יותר, ובמיוחד רשתות נוירונים עמוקות, תהליכי קבלת ההחלטות שלהם הופכים לעיתים קרובות לקופסאות שחורות אטומות. XAI שואפת להפוך החלטות אלו לפענחות ולשקופות.

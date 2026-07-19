@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /no/terms/supermind_ai/
 date: "2026-07-18T16:17:52.295441Z"
 lastmod: "2026-07-18T16:38:07.051090Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En AI-arkitektur eller et system designet for å integrere flere intelligente agenter eller modeller til en enhetlig, forbedret kognitiv enhet med overlegen problemløsningsevne."
 ---
-
 ## Definition
 
 Supermind AI refererer til systemer der flere AI-komponenter, menneskelige eksperter eller hybride menneske-AI-lag samarbeider sømløst for å danne en kollektiv intelligens som overstiger evnen til noen enkeltindivid.

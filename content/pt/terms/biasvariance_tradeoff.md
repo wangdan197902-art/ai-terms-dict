@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /pt/terms/biasvariance_tradeoff/
 date: "2026-07-18T14:51:42.660857Z"
 lastmod: "2026-07-18T15:51:59.468652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um problema fundamental no aprendizado supervisionado onde a minimização do erro requer equilibrar a complexidade do modelo contra a capacidade de generalização."
 ---
-
 ## Definition
 
 O compromisso viés-variância descreve a tensão entre o subajuste (alto viés) e o sobreajuste (alta variância). Modelos com alto viés fazem suposições fortes sobre os dados, potencialmente ignorando relações relevantes, enquanto modelos com alta variância capturam ruído.

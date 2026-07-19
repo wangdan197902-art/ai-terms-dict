@@ -1,23 +1,25 @@
 ---
-title: "Sistemi basati sulla conoscenza"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Sistemi basati sulla conoscenza
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /it/terms/knowledge_based_systems/
-date: "2026-07-18T16:07:09.391242Z"
-lastmod: "2026-07-18T17:15:08.641051Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:07:09.391242Z'
+lastmod: '2026-07-18T17:15:08.641051Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Sistemi di intelligenza artificiale che utilizzano basi di conoscenza esplicite e motori di inferenza per risolvere problemi complessi che richiedono competenze umane."
+source: agnes_llm
+status: published
+language: it
+description: Sistemi di intelligenza artificiale che utilizzano basi di conoscenza
+  esplicite e motori di inferenza per risolvere problemi complessi che richiedono
+  competenze umane.
 ---
-
 ## Definition
 
 I sistemi basati sulla conoscenza (KBS) sono un ramo dell'intelligenza artificiale che incorpora conoscenze specifiche di un dominio in un sistema informatico per eseguire compiti che tipicamente richiedono l'esperienza umana. Essi combinano una base di conoscenza, contenuta factualmente, con un motore di inferenza che applica regole logiche per derivare nuove informazioni o prendere decisioni.

@@ -1,23 +1,24 @@
 ---
-title: "Visões Gerais de IA"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Visões Gerais de IA
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /pt/terms/ai_overviews/
-date: "2026-07-18T14:47:45.572327Z"
-lastmod: "2026-07-18T15:51:59.457388Z"
+slug: ai_overviews
+date: '2026-07-18T14:47:45.572327Z'
+lastmod: '2026-07-18T15:51:59.457388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Respostas resumidas geradas por modelos de IA que sintetizam informações de múltiplas fontes para compreensão rápida."
+source: agnes_llm
+status: published
+language: pt
+description: Respostas resumidas geradas por modelos de IA que sintetizam informações
+  de múltiplas fontes para compreensão rápida.
 ---
-
 ## Definition
 
 As Visões Gerais de IA são resumos condensados produzidos por grandes modelos de linguagem que agregam e sintetizam dados de várias fontes da web ou bancos de dados. Diferente dos resultados de busca tradicionais que listam links, essas visões fornecem uma resposta direta e consolidada.

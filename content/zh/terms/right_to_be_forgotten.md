@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /zh/terms/right_to_be_forgotten/
 date: "2026-07-18T11:38:39.318227Z"
 lastmod: "2026-07-18T11:44:45.570813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一项法律概念，允许个人要求组织删除其持有的个人数据。"
 ---
-
 ## Definition
 
 被遗忘权使用户有权要求从数据库和 AI 训练集中移除其个人信息。在机器学习中实施这一权利具有挑战性，因为模型可能已经将从这些数据中学习到的知识固化在参数中。

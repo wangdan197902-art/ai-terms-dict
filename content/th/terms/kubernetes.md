@@ -1,23 +1,23 @@
 ---
-title: "เคบอร์นีทีส"
-term_id: "kubernetes"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "devops", "cloud_computing"]
+title: เคบอร์นีทีส
+term_id: kubernetes
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- devops
+- Cloud Computing
 difficulty: 3
 weight: 1
-slug: "kubernetes"
-aliases:
-  - /th/terms/kubernetes/
-date: "2026-07-18T16:01:45.007263Z"
-lastmod: "2026-07-18T16:38:07.623648Z"
+slug: kubernetes
+date: '2026-07-18T16:01:45.007263Z'
+lastmod: '2026-07-18T16:38:07.623648Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แพลตฟอร์มโอเพนซอร์สสำหรับอัตโนมัติในการปรับใช้ ขยายขนาด และจัดการแอปพลิเคชันที่บรรจุในคอนเทนเนอร์"
+source: agnes_llm
+status: published
+language: th
+description: แพลตฟอร์มโอเพนซอร์สสำหรับอัตโนมัติในการปรับใช้ ขยายขนาด และจัดการแอปพลิเคชันที่บรรจุในคอนเทนเนอร์
 ---
-
 ## Definition
 
 เคบอร์นีทีส (มักย่อว่า K8s) เป็นระบบประสานงานคอนเทนเนอร์ (container orchestration) ที่พัฒนาขึ้นโดยกูเกิล แพลตฟอร์มนี้ช่วยอัตโนมัติในการปรับใช้ ขยายขนาด และการดำเนินงานของคอนเทนเนอร์แอปพลิเคชันผ่านคลัสเตอร์ของเครื่องโฮสต์ ทำให้การจัดการโครงสร้างพื้นฐานแบบกระจายศูนย์มีประสิทธิภาพมากขึ้น โดยรองรับการอัปเดตแบบค่อยเป็นค่อยไป การกู้คืนตนเอง และการจัดการทรัพยากรอย่างเหมาะสม

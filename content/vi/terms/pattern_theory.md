@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /vi/terms/pattern_theory/
 date: "2026-07-18T16:07:15.821574Z"
 lastmod: "2026-07-18T16:38:07.791730Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung toán học để mô tả các cấu trúc phức tạp bằng cách phân tích các mẫu trong không gian dữ liệu."
 ---
-
 ## Definition
 
 Lý thuyết mẫu cung cấp nền tảng toán học chặt chẽ để hiểu cách các đối tượng và hiện tượng phức tạp có thể được mô tả thông qua các mẫu. Nó đặt ra giả thuyết rằng bất kỳ đối tượng nào cũng có thể được đặc trưng bởi các mẫu của nó.

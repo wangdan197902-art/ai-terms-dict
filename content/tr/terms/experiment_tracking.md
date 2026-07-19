@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /tr/terms/experiment_tracking/
 date: "2026-07-18T15:52:56.686881Z"
 lastmod: "2026-07-18T16:38:07.306978Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Deney takibi, tekrarlanabilirliği sağlamak ve karşılaştırmayı kolaylaştırmak amacıyla makine öğrenimi deneylerinden meta verileri, metrikleri ve eserleri kaydetmenin sistematik sürecidir."
 ---
-
 ## Definition
 
 Bu uygulama, eğitim çalışmaları sırasında hiperparametreleri, veri seti sürümlerini, model mimarilerini ve performans metriklerini günlüğe kaydetmeyi içerir. Veri bilimcilerin farklı deneysel yapılandırmaları karşılaştırmalarına olanak tanır.

@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /tr/terms/high_level/
 date: "2026-07-18T15:31:33.833567Z"
 lastmod: "2026-07-18T16:38:07.249871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kullanıcıdan düşük seviyeli uygulama detaylarını gizleyen soyut temsilleri veya programlama arayüzlerini ifade eder."
 ---
-
 ## Definition
 
 Yapay zekada 'yüksek seviyeli', karmaşık süreçleri basitleştiren soyutlamaları belirtir. Python gibi yüksek seviyeli diller veya API'ler, geliştiricilerin bellek yönetimi veya donanım spesifikasyonlarıyla uğraşmadan modeller oluşturmasına olanak tanır. Bu soyutlama katmanı, geliştirme hızını artırır ve erişilebilirliği yükseltir ancak bazen altta yatan sistemin ince ayar yapılmasını veya derinlemesine optimizasyonunu zorlaştırabilir.

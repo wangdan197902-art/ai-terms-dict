@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /cs/terms/aware/
 date: "2026-07-18T15:23:29.912728Z"
 lastmod: "2026-07-18T17:15:09.064182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Ukazuje schopnost AI detekovat a zpracovávat specifické kontextové informace nebo podněty."
 ---
-
 ## Definition
 
 V kontextu AI 'aware' obvykle označuje situační nebo kontextovou uvědomělost, kde systém rozpoznává relevantní faktory prostředí nebo stav uživatele. Neznamená to vědomí, ale spíše schopnost reagovat na kontext.

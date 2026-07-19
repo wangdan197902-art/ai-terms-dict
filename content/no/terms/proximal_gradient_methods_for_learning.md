@@ -1,23 +1,24 @@
 ---
-title: "Proksimale gradientmetoder for læring"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: Proksimale gradientmetoder for læring
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /no/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T16:13:05.722375Z"
-lastmod: "2026-07-18T16:38:07.036689Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T16:13:05.722375Z'
+lastmod: '2026-07-18T16:38:07.036689Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Optimeringsalgoritmer designet for å minimere sammensatte målfunksjoner som inneholder både glatte og uglatte komponenter."
+source: agnes_llm
+status: published
+language: 'no'
+description: Optimeringsalgoritmer designet for å minimere sammensatte målfunksjoner
+  som inneholder både glatte og uglatte komponenter.
 ---
-
 ## Definition
 
 Proksimale gradientmetoder er iterativ optimeringsteknikker brukt når tapfunksjonen inkluderer et deriverbart glatt ledd og en ikke-deriverbar regularisator, som L1-norm. Algoritmen kombinerer gradienttrinn med proksimale operasjoner for å håndtere ujevnheter.

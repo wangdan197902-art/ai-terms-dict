@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /cs/terms/time/
 date: "2026-07-18T15:30:36.573068Z"
 lastmod: "2026-07-18T17:15:09.079922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V umělé inteligenci čas označuje časový rozměr používaný k sekvencování událostí, sledování změn stavu a měření latence nebo trvání operací modelu."
 ---
-
 ## Definition
 
 Čas je základní koncept v umělé inteligenci, zejména v sekvenčním modelování a systémech reálného času. Slouží jako osa, podél které jsou uspořádány datové body, což umožňuje modelům jako Re

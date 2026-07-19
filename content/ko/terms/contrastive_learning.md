@@ -1,23 +1,23 @@
 ---
-title: "대조적 학습"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: 대조적 학습
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /ko/terms/contrastive_learning/
-date: "2026-07-18T15:46:36.340289Z"
-lastmod: "2026-07-18T16:38:06.822174Z"
+slug: contrastive_learning
+date: '2026-07-18T15:46:36.340289Z'
+lastmod: '2026-07-18T16:38:06.822174Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "양성 쌍은 가까이 모으고 음성 쌍은 멀리 떨어뜨려 표현을 학습하는 자기지도 학습 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 양성 쌍은 가까이 모으고 음성 쌍은 멀리 떨어뜨려 표현을 학습하는 자기지도 학습 기법입니다.
 ---
-
 ## Definition
 
 대조적 학습은 레이블이 붙은 데이터가 필요 없는 표현 학습 방법입니다. 동일한 입력의 증강된 뷰(양성 쌍)를 생성하고, 서로 다른 입력 또는 증강된 뷰(음성 쌍)와 대비시킴으로써 모델이 데이터의 본질적인 구조와 특징을 학습하도록 합니다.

@@ -1,23 +1,25 @@
 ---
-title: "Buforowanie"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Buforowanie
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /pl/terms/caching/
-date: "2026-07-18T15:45:12.998164Z"
-lastmod: "2026-07-18T17:15:08.852784Z"
+slug: caching
+date: '2026-07-18T15:45:12.998164Z'
+lastmod: '2026-07-18T17:15:08.852784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Buforowanie to technika przechowywania często używanych danych w tymczasowej warstwie pamięci o wysokiej prędkości, aby zmniejszyć opóźnienia i obciążenie głównych źródeł danych."
+source: agnes_llm
+status: published
+language: pl
+description: Buforowanie to technika przechowywania często używanych danych w tymczasowej
+  warstwie pamięci o wysokiej prędkości, aby zmniejszyć opóźnienia i obciążenie głównych
+  źródeł danych.
 ---
-
 ## Definition
 
 W inżynierii AI buforowanie optymalizuje wydajność poprzez utrzymywanie najnowszych lub najczęściej występujących wyników zapytań, predykcji modeli lub pośrednich obliczeń w szybkiej pamięci (np. RAM). Zmniejsza to konieczność wykonywania kosztownych operacji wejścia-wyjścia lub ponownego przetwarzania.

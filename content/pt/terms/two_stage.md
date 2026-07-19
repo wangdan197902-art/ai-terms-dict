@@ -1,23 +1,23 @@
 ---
-title: "dois estágios"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: dois estágios
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /pt/terms/two_stage/
-date: "2026-07-18T14:42:43.133216Z"
-lastmod: "2026-07-18T15:51:59.446771Z"
+slug: two_stage
+date: '2026-07-18T14:42:43.133216Z'
+lastmod: '2026-07-18T15:51:59.446771Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma arquitetura de pipeline onde o processamento ocorre em fases distintas e sequenciais."
+source: agnes_llm
+status: published
+language: pt
+description: Uma arquitetura de pipeline onde o processamento ocorre em fases distintas
+  e sequenciais.
 ---
-
 ## Definition
 
 As arquiteturas de dois estágios dividem uma tarefa complexa em duas etapas separadas, envolvendo tipicamente a detecção seguida pela classificação ou refinamento. Em visão computacional, exemplos incluem detectores de objetos como

@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /it/terms/aware/
 date: "2026-07-18T15:23:23.460304Z"
 lastmod: "2026-07-18T17:15:08.561550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Indica la capacità di un'IA di rilevare ed elaborare informazioni contestuali o stimoli specifici."
 ---
-
 ## Definition
 
 Nel contesto dell'IA, 'consapevole' si riferisce tipicamente alla consapevolezza situazionale o contestuale, dove un sistema riconosce fattori ambientali rilevanti o lo stato dell'utente. Non implica coscienza, ma piuttosto la capacità di interpretare il contesto.

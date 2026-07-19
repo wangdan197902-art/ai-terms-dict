@@ -1,23 +1,24 @@
 ---
-title: "Intelligent database"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Intelligent database
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /da/terms/intelligent_database/
-date: "2026-07-18T16:02:03.014343Z"
-lastmod: "2026-07-18T17:15:09.300602Z"
+slug: intelligent_database
+date: '2026-07-18T16:02:03.014343Z'
+lastmod: '2026-07-18T17:15:09.300602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et databasesystem, der inkorporerer AI-funktioner til at automatisere databestyring, forespørgselsoptimering og generering af indsigt."
+source: agnes_llm
+status: published
+language: da
+description: Et databasesystem, der inkorporerer AI-funktioner til at automatisere
+  databestyring, forespørgselsoptimering og generering af indsigt.
 ---
-
 ## Definition
 
 En intelligent database udnytter maskinlæring og AI til at forbedre standarddatabases funktionaliteter ud over simpel lagring og hentning. Den kan automatisk optimere forespørgselsydelsen, forudsige bru

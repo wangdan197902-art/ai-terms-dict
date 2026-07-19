@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /zh/terms/connectionist_expert_system/
 date: "2026-07-18T11:11:15.321129Z"
 lastmod: "2026-07-18T11:44:45.461359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种将神经网络学习能力与符号推理结构相结合的智能系统。"
 ---
-
 ## Definition
 
 联结主义专家系统将神经网络（联结主义）的模式识别和学习优势，与传统符号系统的显式知识表示和逻辑推理能力整合在一起。

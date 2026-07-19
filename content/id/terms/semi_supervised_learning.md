@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /id/terms/semi_supervised_learning/
 date: "2026-07-18T16:08:23.164482Z"
 lastmod: "2026-07-18T16:38:07.505538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan pembelajaran mesin yang memanfaatkan data berlabel dan tidak berlabel untuk meningkatkan akurasi dan generalisasi model."
 ---
-
 ## Definition
 
 Pembelajaran semi-terawasi adalah paradigma pelatihan hibrida yang memanfaatkan sejumlah kecil data berlabel bersama dengan volume data tidak berlabel yang besar. Asumsi utamanya adalah bahwa struktur dari data yang tidak berlabel dapat membantu pembelajaran pola.

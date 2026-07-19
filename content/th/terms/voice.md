@@ -1,23 +1,23 @@
 ---
-title: "เสียงพูด"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: เสียงพูด
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /th/terms/voice/
-date: "2026-07-18T16:20:01.990702Z"
-lastmod: "2026-07-18T16:38:07.665847Z"
+slug: voice
+date: '2026-07-18T16:20:01.990702Z'
+lastmod: '2026-07-18T16:38:07.665847Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เสียงพูดหมายถึงเสียงที่มนุษย์ผลิตออกมาจากการพูด ซึ่งทำหน้าที่เป็นโหมดอินพุตหลักสำหรับระบบรู้จำเสียงพูดและการสังเคราะห์เสียงพูด"
+source: agnes_llm
+status: published
+language: th
+description: เสียงพูดหมายถึงเสียงที่มนุษย์ผลิตออกมาจากการพูด ซึ่งทำหน้าที่เป็นโหมดอินพุตหลักสำหรับระบบรู้จำเสียงพูดและการสังเคราะห์เสียงพูด
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ เสียงพูดครอบคลุมสัญญาณอะคูสติกที่ผลิตโดยสายเสียงของมนุษย์ซึ่งบรรทุกข้อมูลทางภาษา สิ่งนี้แตกต่างจากเสียงทั่วไปเนื่องจากมีความสัมพันธ์เฉพาะกับการพูด

@@ -1,23 +1,25 @@
 ---
-title: "Yedek model"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Yedek model
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /tr/terms/surrogate_model/
-date: "2026-07-18T16:16:02.054566Z"
-lastmod: "2026-07-18T16:38:07.369903Z"
+slug: surrogate_model
+date: '2026-07-18T16:16:02.054566Z'
+lastmod: '2026-07-18T16:38:07.369903Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Daha karmaşık, hesaplaması maliyetli veya erişilemeyen siyah kutu bir modelin davranışını yaklaşık olarak simüle etmek için kullanılan basitleştirilmiş bir matematiksel model."
+source: agnes_llm
+status: published
+language: tr
+description: Daha karmaşık, hesaplaması maliyetli veya erişilemeyen siyah kutu bir
+  modelin davranışını yaklaşık olarak simüle etmek için kullanılan basitleştirilmiş
+  bir matematiksel model.
 ---
-
 ## Definition
 
 Makine öğrenimi ve optimizasyonda, yedek model doğrudan değerlendirilmesi zor olan hedef fonksiyon için bir vekil görevi görür. Orijinal modelden alınan girdi-çıktı çiftleri üzerinde eğitilir.

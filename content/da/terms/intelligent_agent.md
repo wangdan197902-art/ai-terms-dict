@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /da/terms/intelligent_agent/
 date: "2026-07-18T16:02:03.014326Z"
 lastmod: "2026-07-18T17:15:09.300259Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En autonom softwareenhed, der opfatter sit miljø, resonerer om handlinger og udfører opgaver for at opnå specifikke mål."
 ---
-
 ## Definition
 
 En intelligent agent er et system, der er i stand til at opfatte sine omgivelser gennem sensorer eller datainput, behandle denne information ved hjælp af resonementsalgoritmer og handle på miljøet via aktuatorer

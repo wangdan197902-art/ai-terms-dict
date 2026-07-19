@@ -1,23 +1,25 @@
 ---
-title: "Validação Cruzada de Deixar Um Fora"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Validação Cruzada de Deixar Um Fora
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /pt/terms/leave_one_out_cross_validation/
-date: "2026-07-18T15:08:07.232645Z"
-lastmod: "2026-07-18T15:51:59.507282Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T15:08:07.232645Z'
+lastmod: '2026-07-18T15:51:59.507282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica rigorosa de remostragem onde o modelo é treinado em todos, exceto uma amostra, e testado nessa única amostra retida, repetido para cada ponto de dados."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica rigorosa de remostragem onde o modelo é treinado em todos,
+  exceto uma amostra, e testado nessa única amostra retida, repetido para cada ponto
+  de dados.
 ---
-
 ## Definition
 
 A validação cruzada de deixar um fora (LOOCV) é um caso específico de validação cruzada k-fold onde k é igual ao número de amostras no conjunto de dados. Ela fornece uma estimativa quase não enviesada do desempenho do modelo.

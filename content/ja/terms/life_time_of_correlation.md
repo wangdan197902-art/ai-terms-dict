@@ -1,23 +1,23 @@
 ---
-title: "相関の存続期間"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: 相関の存続期間
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /ja/terms/life_time_of_correlation/
-date: "2026-07-18T11:21:43.563741Z"
-lastmod: "2026-07-18T11:44:45.115766Z"
+slug: life_time_of_correlation
+date: '2026-07-18T11:21:43.563741Z'
+lastmod: '2026-07-18T11:44:45.115766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "概念ドリフトや環境変化による減衰の前に、変数間の統計的関係がどれくらい安定して維持されるかを推定する指標。"
+source: agnes_llm
+status: published
+language: ja
+description: 概念ドリフトや環境変化による減衰の前に、変数間の統計的関係がどれくらい安定して維持されるかを推定する指標。
 ---
-
 ## Definition
 
 動的システムおよび時系列解析において、相関の存続期間は2つの変数が有意な統計的依存関係を維持する期間を測定します。この概念は、

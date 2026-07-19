@@ -1,23 +1,22 @@
 ---
-title: "صفر أمثلة"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: صفر أمثلة
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /ar/terms/zero_shot/
-date: "2026-07-18T15:35:29.491851Z"
-lastmod: "2026-07-18T17:15:08.458088Z"
+slug: zero_shot
+date: '2026-07-18T15:35:29.491851Z'
+lastmod: '2026-07-18T17:15:08.458088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "القدرة على أداء مهام على فئات غير مرئية سابقاً دون أمثلة تدريبية مسبقة."
+source: agnes_llm
+status: published
+language: ar
+description: القدرة على أداء مهام على فئات غير مرئية سابقاً دون أمثلة تدريبية مسبقة.
 ---
-
 ## Definition
 
 يتيح التعلم بصفر أمثلة للنماذج التعميم على فئات أو مهام جديدة لم يتم توفير بيانات تدريبية مصنفة لها خلال مرحلة التدريب الأولية. يتحقق ذلك عادةً من خلال الاستفادة من التشابهات الدلالية أو المعرفة العامة التي اكتسبها النموذج من مجموعات بيانات واسعة أثناء التدريب المسبق.

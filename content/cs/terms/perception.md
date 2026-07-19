@@ -1,23 +1,23 @@
 ---
-title: "Vnímání"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Vnímání
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /cs/terms/perception/
-date: "2026-07-18T15:27:44.498204Z"
-lastmod: "2026-07-18T17:15:09.074569Z"
+slug: perception
+date: '2026-07-18T15:27:44.498204Z'
+lastmod: '2026-07-18T17:15:09.074569Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Vnímání je proces, kterým systémy umělé inteligence interpretují vstupní data ze senzorů, jako jsou obrázky nebo zvuk, aby pochopily své okolí."
+source: agnes_llm
+status: published
+language: cs
+description: Vnímání je proces, kterým systémy umělé inteligence interpretují vstupní
+  data ze senzorů, jako jsou obrázky nebo zvuk, aby pochopily své okolí.
 ---
-
 ## Definition
 
 Vnímání v AI zahrnuje převod surových dat ze senzorů na smysluplné informace, které mohou zpracovávat vyšší úrovně logického uvažování. To zahrnuje počítačové vidění pro interpretaci vizuálních scén, řeč

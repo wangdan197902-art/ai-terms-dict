@@ -1,23 +1,24 @@
 ---
-title: "Инъекция промпта"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Инъекция промпта
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /ru/terms/prompt_injection/
-date: "2026-07-18T15:35:53.227267Z"
-lastmod: "2026-07-18T16:38:07.108892Z"
+slug: prompt_injection
+date: '2026-07-18T15:35:53.227267Z'
+lastmod: '2026-07-18T16:38:07.108892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вредоносная атака, при которой злонамеренные входные данные манипулируют ИИ-моделью для обхода фильтров безопасности или выполнения непреднамеренных команд."
+source: agnes_llm
+status: published
+language: ru
+description: Вредоносная атака, при которой злонамеренные входные данные манипулируют
+  ИИ-моделью для обхода фильтров безопасности или выполнения непреднамеренных команд.
 ---
-
 ## Definition
 
 Инъекция промпта эксплуатирует способ, которым большие языковые модели интерпретируют инструкции пользователя, внедряя скрытые или противоречивые директивы непосредственно в текст ввода. Это может заставить модель игнорировать свои первоначальные системные инструкции и выполнять действия, не предусмотренные разработчиком.

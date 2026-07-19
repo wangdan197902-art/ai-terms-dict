@@ -1,23 +1,24 @@
 ---
-title: "Matchbox Educable Noughts and Crosses Engine"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Matchbox Educable Noughts and Crosses Engine
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /da/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:07:08.197528Z"
-lastmod: "2026-07-18T17:15:09.309856Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:07:08.197528Z'
+lastmod: '2026-07-18T17:15:09.309856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En fysisk forstærkningslæringsenhed bygget af Donald Michie i 1961 til at spille Tres i streg ved hjælp af tændstikæsker og perler."
+source: agnes_llm
+status: published
+language: da
+description: En fysisk forstærkningslæringsenhed bygget af Donald Michie i 1961 til
+  at spille Tres i streg ved hjælp af tændstikæsker og perler.
 ---
-
 ## Definition
 
 ME-Noughts-and-Crosses Engine var en tidlig demonstration af maskinlæring, specifikt forstærkningslæring. Konstrueret af 304 tændstikæsker, hvor hver repræsenterer en unik brættilstand, systemet lærer gennem trial-and-error. Hver æske indeholder perler, der repræsenterer mulige træk; når en træksmulighed vælges, fjernes perlen, og hvis træk fører til sejr, tilføjes nye perler til de relevante tilstande, hvilket styrker adfærden.

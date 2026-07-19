@@ -1,23 +1,24 @@
 ---
-title: "Kraftstyring"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Kraftstyring
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /da/terms/force_control/
-date: "2026-07-18T15:56:21.939359Z"
-lastmod: "2026-07-18T17:15:09.289570Z"
+slug: force_control
+date: '2026-07-18T15:56:21.939359Z'
+lastmod: '2026-07-18T17:15:09.289570Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Kraftstyring er en robotteknik, der regulerer interaktionskræfterne mellem et robots slutpunkt og dets omgivelser under fysiske opgaver."
+source: agnes_llm
+status: published
+language: da
+description: Kraftstyring er en robotteknik, der regulerer interaktionskræfterne mellem
+  et robots slutpunkt og dets omgivelser under fysiske opgaver.
 ---
-
 ## Definition
 
 Kraftstyring gør det muligt for robotter at udføre delikate operationer såsom montering, polering eller greb om skrøbelige genstande ved aktivt at styre kontaktkraften frem for kun positionen. I modsætning til ren posit

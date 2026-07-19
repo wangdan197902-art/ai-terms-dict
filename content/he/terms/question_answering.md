@@ -1,23 +1,24 @@
 ---
-title: "מענה לשאלות"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: מענה לשאלות
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /he/terms/question_answering/
-date: "2026-07-18T15:37:58.967381Z"
-lastmod: "2026-07-18T17:15:09.503233Z"
+slug: question_answering
+date: '2026-07-18T15:37:58.967381Z'
+lastmod: '2026-07-18T17:15:09.503233Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משימת עיבוד שפה טבעית שבה מערכת מספקת אוטומטית תשובות מדויקות לשאלות שהוצגו בשפה טבעית."
+source: agnes_llm
+status: published
+language: he
+description: משימת עיבוד שפה טבעית שבה מערכת מספקת אוטומטית תשובות מדויקות לשאלות
+  שהוצגו בשפה טבעית.
 ---
-
 ## Definition
 
 מענה לשאלות (QA) כולל שאילה או יצירה של תגובות מדויקות לשאילתות משתמש מתוך הקשר או מאגר ידע נתון. הטווח נע בין מענה לשאלות בתחום סגור, המתבסס על מסמכים ספציפיים, ועד לתחום פתוח.

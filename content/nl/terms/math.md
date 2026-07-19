@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /nl/terms/math/
 date: "2026-07-18T16:06:22.478376Z"
 lastmod: "2026-07-18T17:15:08.766200Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De fundamentele discipline die zich bezighoudt met getallen, structuren, ruimte en verandering, essentieel voor het formuleren en oplossen van AI-problemen."
 ---
-
 ## Definition
 
 In de context van artificiële intelligentie biedt wiskunde het theoretische kader voor algoritmeontwerp en -analyse. Belangrijke takken zijn lineaire algebra voor gegevensrepresentatie, calculus voor optimalisatie en kansrekening voor het modelleren van onzekerheid.

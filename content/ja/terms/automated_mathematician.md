@@ -1,23 +1,23 @@
 ---
-title: "自動化数学者"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: 自動化数学者
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /ja/terms/automated_mathematician/
-date: "2026-07-18T11:05:00.323460Z"
-lastmod: "2026-07-18T11:44:45.070863Z"
+slug: automated_mathematician
+date: '2026-07-18T11:05:00.323460Z'
+lastmod: '2026-07-18T11:44:45.070863Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "計算による探索と推論を通じて、新しい数学的定理、予想、または証明を発見するように設計されたAIシステム。"
+source: agnes_llm
+status: published
+language: ja
+description: 計算による探索と推論を通じて、新しい数学的定理、予想、または証明を発見するように設計されたAIシステム。
 ---
-
 ## Definition
 
 自動化数学者は、機械学習と記号的推論を利用して、人間の直感を超えた数学的な空間を探検します。これらのシステムは仮説の生成、証明の検証、パターン発見などを行い、数学的研究を支援します。

@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /ja/terms/m_theory/
 date: "2026-07-18T11:22:38.835291Z"
 lastmod: "2026-07-18T11:44:45.118404Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "M理論は、5つの異なるバージョンの超弦理論を統一する物理学の理論的枠組みであり、基本粒子が11次元における一次元膜の振動であると提案しています。"
 ---
-
 ## Definition
 
 主にコンピュータサイエンスではなく理論物理学の概念ですが、M理論は高度な計算シミュレーションや量子コンピューティング研究で occasionally 言及されます。それは示唆しています

@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /id/terms/adaptive/
 date: "2026-07-18T15:23:13.605942Z"
 lastmod: "2026-07-18T16:38:07.388352Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kemampuan sistem untuk mengubah perilaku atau parameternya sebagai respons terhadap kondisi yang berubah."
 ---
-
 ## Definition
 
 Dalam AI, 'adaptif' menggambarkan sistem atau algoritma yang dapat menyesuaikan keadaan internal, parameter, atau strateginya secara dinamis berdasarkan data baru atau umpan balik lingkungan. Kemampuan ini memungkinkan model

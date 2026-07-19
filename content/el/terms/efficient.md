@@ -1,23 +1,25 @@
 ---
-title: "Αποδοτικό"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Αποδοτικό
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /el/terms/efficient/
-date: "2026-07-18T15:25:06.415189Z"
-lastmod: "2026-07-18T17:15:09.843039Z"
+slug: efficient
+date: '2026-07-18T15:25:06.415189Z'
+lastmod: '2026-07-18T17:15:09.843039Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Στην Τεχνητή Νοημοσύνη (ΤΝ), η αποδοτικότητα αναφέρεται στην επίτευξη βέλτιστων επιδόσεων με ελάχιστη κατανάλωση πόρων, όπως χρόνος, μνήμη ή υπολογιστική ισχύς."
+source: agnes_llm
+status: published
+language: el
+description: Στην Τεχνητή Νοημοσύνη (ΤΝ), η αποδοτικότητα αναφέρεται στην επίτευξη
+  βέλτιστων επιδόσεων με ελάχιστη κατανάλωση πόρων, όπως χρόνος, μνήμη ή υπολογιστική
+  ισχύς.
 ---
-
 ## Definition
 
 Η αποδοτικότητα είναι ένα κρίσιμο μέτρο στην Τεχνητή Νοημοσύνη που μετρά το πόσο καλά ένα μοντέλο ή αλγόριθμος αξιοποιεί τους διαθέσιμους πόρους. Περιλαμβάνει την υπολογιστική αποδοτικότητα (ταχύτητα εξαγωγής συμπερασμάτων/εκπαίδευσης), την ενεργειακή απόδοση και τη βελτιστοποίηση της χρήσης μνήμης, επιτρέποντας την κλιμάκωση συστημάτων ΤΝ σε πραγματικές συνθήκες χωρίς υπερβολικό κόστος ή καθυστερήσεις.

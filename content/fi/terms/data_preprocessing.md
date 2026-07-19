@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /fi/terms/data_preprocessing/
 date: "2026-07-18T15:51:01.333351Z"
 lastmod: "2026-07-18T17:15:09.397185Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa raaka data muutetaan siistiksi ja johdonmukaiseksi muodoksi, joka soveltuu koneoppimisalgoritmeille."
 ---
-
 ## Definition
 
 Datan esikäsittely on välttämätön tehtävä, jossa raakaa, epästrukturoitua tai kohinaista dataa muunnetaan standardoituun muotoon, jonka koneoppimismallit pystyvät hyödyntämään tehokkaasti. Tämä vaihe sisältää yleensä datan siivouksen, normalisoinnin, koodauksen ja ominaisuuksien skaalaamisen.

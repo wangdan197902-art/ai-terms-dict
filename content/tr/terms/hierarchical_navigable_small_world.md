@@ -1,23 +1,24 @@
 ---
-title: "Hiyerarşik Gezilebilir Küçük Dünya"
-term_id: "hierarchical_navigable_small_world"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "data_structures"]
+title: Hiyerarşik Gezilebilir Küçük Dünya
+term_id: hierarchical_navigable_small_world
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Data Structures
 difficulty: 4
 weight: 1
-slug: "hierarchical_navigable_small_world"
-aliases:
-  - /tr/terms/hierarchical_navigable_small_world/
-date: "2026-07-18T15:56:40.749058Z"
-lastmod: "2026-07-18T16:38:07.317231Z"
+slug: hierarchical_navigable_small_world
+date: '2026-07-18T15:56:40.749058Z'
+lastmod: '2026-07-18T16:38:07.317231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yüksek boyutlu uzaylarda etkili yaklaşık en yakın komşu araması sağlayan graf tabanlı bir veri yapısıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Yüksek boyutlu uzaylarda etkili yaklaşık en yakın komşu araması sağlayan
+  graf tabanlı bir veri yapısıdır.
 ---
-
 ## Definition
 
 Hiyerarşik Gezilebilir Küçük Dünya (HNSW) algoritması, her katmanının altındaki katmandaki düğümlerin bir alt kümesini içerdiği çok katmanlı bir graf oluşturur. Arama işlemi en üst katmandan başlayarak, daha yakın düğümlere doğru ilerlenir ve her katmanda arama kapsamı daraltılarak nihai sonuç bulunana kadar devam eder.

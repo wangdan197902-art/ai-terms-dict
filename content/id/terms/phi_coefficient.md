@@ -1,23 +1,23 @@
 ---
-title: "Koefisien Phi"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Koefisien Phi
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /id/terms/phi_coefficient/
-date: "2026-07-18T16:04:14.079832Z"
-lastmod: "2026-07-18T16:38:07.494110Z"
+slug: phi_coefficient
+date: '2026-07-18T16:04:14.079832Z'
+lastmod: '2026-07-18T16:38:07.494110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Ukuran statistik untuk mengukur asosiasi antara dua variabel biner."
+source: agnes_llm
+status: published
+language: id
+description: Ukuran statistik untuk mengukur asosiasi antara dua variabel biner.
 ---
-
 ## Definition
 
 Koefisien Phi (φ) adalah ukuran asosiasi untuk dua variabel biner, yang berfungsi sebagai koefisien korelasi Pearson untuk variabel dikotomi. Nilainya berkisar dari -1 hingga +1, di mana 0 menunjukkan tidak ada asosiasi.

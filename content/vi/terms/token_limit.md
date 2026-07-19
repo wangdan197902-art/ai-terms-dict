@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /vi/terms/token_limit/
 date: "2026-07-18T15:37:36.574363Z"
 lastmod: "2026-07-18T16:38:07.715086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Số lượng token tối đa mà một mô hình AI có thể xử lý trong một chuỗi đầu vào hoặc đầu ra đơn lẻ."
 ---
-
 ## Definition
 
 Giới hạn token xác định ràng buộc về kích thước cửa sổ ngữ cảnh cho các mô hình ngôn ngữ lớn, hạn chế lượng văn bản có thể được phân tích hoặc tạo ra cùng một lúc. Ranh giới kiến trúc này ảnh hưởng đến việc quản lý bộ nhớ,

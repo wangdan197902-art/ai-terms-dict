@@ -1,23 +1,24 @@
 ---
-title: "Empoderamento"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Empoderamento
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /pt/terms/empowerment/
-date: "2026-07-18T14:59:01.176312Z"
-lastmod: "2026-07-18T15:51:59.488433Z"
+slug: empowerment
+date: '2026-07-18T14:59:01.176312Z'
+lastmod: '2026-07-18T15:51:59.488433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um objetivo de aprendizado por reforço que mede a capacidade de um agente de influenciar estados futuros por meio de suas ações."
+source: agnes_llm
+status: published
+language: pt
+description: Um objetivo de aprendizado por reforço que mede a capacidade de um agente
+  de influenciar estados futuros por meio de suas ações.
 ---
-
 ## Definition
 
 No aprendizado por reforço e na inteligência artificial, o empoderamento é uma métrica de motivação intrínseca que quantifica a quantidade de controle que um agente tem sobre seu ambiente. É definido como a informação mútua entre as ações do agente e os estados futuros.

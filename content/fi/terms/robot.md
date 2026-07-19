@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /fi/terms/robot/
 date: "2026-07-18T15:30:43.071329Z"
 lastmod: "2026-07-18T17:15:09.358405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmoitava kone, joka pystyy suorittamaan monimutkaisia toimintoja automaattisesti."
 ---
-
 ## Definition
 
 Roboti on itsenäinen tai puoliksi itsenäinen mekaninen laite, joka on suunniteltu suorittamaan tehtäviä joko itsenäisesti tai etäohjauksella. Se koostuu tyypillisesti antureista ympäristön havainnointiin, toiminnoista ja ohjelmistosta.

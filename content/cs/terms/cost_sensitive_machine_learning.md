@@ -1,23 +1,24 @@
 ---
-title: "Strojové učení citlivé na náklady"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Strojové učení citlivé na náklady
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /cs/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:49:50.568596Z"
-lastmod: "2026-07-18T17:15:09.114305Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:49:50.568596Z'
+lastmod: '2026-07-18T17:15:09.114305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Paradigma strojového učení, které zahrnuje náklady na chybnou klasifikaci do procesu tréninku, aby optimalizovalo ekonomický dopad spíše než pouze přesnost."
+source: agnes_llm
+status: published
+language: cs
+description: Paradigma strojového učení, které zahrnuje náklady na chybnou klasifikaci
+  do procesu tréninku, aby optimalizovalo ekonomický dopad spíše než pouze přesnost.
 ---
-
 ## Definition
 
 Strojové učení citlivé na náklady rozšiřuje tradiční učení s učitelem přiřazováním různých penalizací různým typům chyb. V reálných scénářích mají falešně pozitivní a falešně negativní výsledky často odlišné důsledky.

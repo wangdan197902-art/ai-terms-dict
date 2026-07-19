@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /no/terms/math/
 date: "2026-07-18T16:05:27.288039Z"
 lastmod: "2026-07-18T16:38:07.023387Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den grunnleggende disiplinen som omhandler tall, strukturer, rom og endring, essensiell for å formulere og løse AI-problemer."
 ---
-
 ## Definition
 
 Inne i konteksten av kunstig intelligens gir matematikken det teoretiske rammeverket for algoritmedesign og analyse. Viktige grener inkluderer lineær algebra for datarepresentasjon, kalkulus for optimering

@@ -1,23 +1,23 @@
 ---
-title: "Robotica Dezvoltamentală"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Robotica Dezvoltamentală
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /ro/terms/developmental_robotics/
-date: "2026-07-18T15:54:13.484631Z"
-lastmod: "2026-07-18T17:15:09.647673Z"
+slug: developmental_robotics
+date: '2026-07-18T15:54:13.484631Z'
+lastmod: '2026-07-18T17:15:09.647673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un domeniu interdisciplinar care studiază modul în care roboții pot dobândi abilități complexe prin interacțiunea cu mediul și îngrijitorii lor."
+source: agnes_llm
+status: published
+language: ro
+description: Un domeniu interdisciplinar care studiază modul în care roboții pot dobândi
+  abilități complexe prin interacțiunea cu mediul și îngrijitorii lor.
 ---
-
 ## Definition
 
 Robotica dezvoltamentală se inspiră din dezvoltarea cognitivă umană pentru a crea roboți care învață autonom în timp. În loc să programeze predefinit toate comportamentele, aceste sisteme utilizează mecanisme precum...

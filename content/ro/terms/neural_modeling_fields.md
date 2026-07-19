@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /ro/terms/neural_modeling_fields/
 date: "2026-07-18T16:13:36.648536Z"
 lastmod: "2026-07-18T17:15:09.685950Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru teoretic care descrie organizarea spațială și funcțională a tiparelor de activitate neuronală."
 ---
-
 ## Definition
 
 Câmpurile de modelare neuronală implică studiul modului în care populațiile neuronale se organizează în spații cu dimensiuni mari pentru a reprezenta informația. Acest concept se referă adesea la hărți topologice și teoria câmpurilor.

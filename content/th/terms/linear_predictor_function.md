@@ -1,23 +1,23 @@
 ---
-title: "ฟังก์ชันตัวทำนายเชิงเส้น"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: ฟังก์ชันตัวทำนายเชิงเส้น
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /th/terms/linear_predictor_function/
-date: "2026-07-18T16:02:51.617230Z"
-lastmod: "2026-07-18T16:38:07.626260Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:02:51.617230Z'
+lastmod: '2026-07-18T16:38:07.626260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ฟังก์ชันทางคณิตศาสตร์ที่คำนวณผลรวมเชิงเส้นของตัวแปรอินพุตเพื่อทำนายผลลัพธ์"
+source: agnes_llm
+status: published
+language: th
+description: ฟังก์ชันทางคณิตศาสตร์ที่คำนวณผลรวมเชิงเส้นของตัวแปรอินพุตเพื่อทำนายผลลัพธ์
 ---
-
 ## Definition
 
 ในการสร้างแบบจำลองทางสถิติและการเรียนรู้ของเครื่อง ฟังก์ชันตัวทำนายเชิงเส้นแสดงถึงผลรวมถ่วงน้ำหนักของคุณลักษณะอินพุตรวมกับเทอมอคติ (bias term) ซึ่งเป็นองค์ประกอบหลักในแบบจำลองเชิงเส้นทั่วไป (Generalized Linear Models)

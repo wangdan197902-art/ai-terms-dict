@@ -1,23 +1,24 @@
 ---
-title: "Zehirlilik Algılama"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: Zehirlilik Algılama
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /tr/terms/toxicity_detection/
-date: "2026-07-18T16:18:11.900039Z"
-lastmod: "2026-07-18T16:38:07.374317Z"
+slug: toxicity_detection
+date: '2026-07-18T16:18:11.900039Z'
+lastmod: '2026-07-18T16:38:07.374317Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Makine öğrenimi modelleri kullanarak metindeki zararlı veya saldırgan dili otomatik olarak tanımlama ve sınıflandırma süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Makine öğrenimi modelleri kullanarak metindeki zararlı veya saldırgan
+  dili otomatik olarak tanımlama ve sınıflandırma süreci.
 ---
-
 ## Definition
 
 Zehirlilik algılama, metin girdilerini analiz etmek ve zararlı içerik olasılığını gösteren bir olasılık puanı atamak için doğal dil işleme tekniklerini kullanır. Bu sistemler genellikle denetimli öğrenme ile eğitilir ve kullanıcı etkileşimlerini gerçek zamanlı olarak izleyerek topluluk standartlarına aykırı içerikleri tespit etmeyi amaçlar.

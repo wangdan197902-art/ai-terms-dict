@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /no/terms/exbert/
-date: "2026-07-18T15:53:44.793678Z"
-lastmod: "2026-07-18T16:38:06.998935Z"
+slug: exbert
+date: '2026-07-18T15:53:44.793678Z'
+lastmod: '2026-07-18T16:38:06.998935Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En metode for å forklare BERTs prediksjoner ved å identifisere hvilke oppmerksomhetshead og lag som bidrar mest til spesifikke utdata."
+source: agnes_llm
+status: published
+language: 'no'
+description: En metode for å forklare BERTs prediksjoner ved å identifisere hvilke
+  oppmerksomhetshead og lag som bidrar mest til spesifikke utdata.
 ---
-
 ## Definition
 
 ExBERT gir tolknbarhet for BERT-transformermodellen ved å analysere betydningen av individuelle oppmerksomhetshead på tvers av ulike lag. Den bruker teknikker som gradientbasert attribusjon eller aktivasjonsanalyse for å kartlegge modellens beslutningsprosess.

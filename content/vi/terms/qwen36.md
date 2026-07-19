@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /vi/terms/qwen36/
 date: "2026-07-18T16:09:51.680331Z"
 lastmod: "2026-07-18T16:38:07.799005Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Bản cập nhật nhỏ tiếp theo của dòng Qwen3, có khả năng tinh chỉnh các chỉ số hiệu suất và kiến thức chuyên ngành cụ thể."
 ---
-
 ## Definition
 
 Qwen3.6 đại diện cho sự tinh chỉnh sâu hơn nữa trong họ mô hình Qwen3. Các bản cập nhật phiên bản nhỏ thường tập trung vào việc hoàn thiện các khả năng hiện có, sửa lỗi ở các trường hợp biên (edge-case) và tối ưu hóa chất lượng dữ liệu huấn luyện để đảm bảo độ ổn định và chính xác cao hơn.

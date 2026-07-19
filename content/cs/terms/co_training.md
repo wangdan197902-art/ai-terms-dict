@@ -1,23 +1,25 @@
 ---
-title: "Společný trénink"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Společný trénink
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /cs/terms/co_training/
-date: "2026-07-18T15:48:09.547468Z"
-lastmod: "2026-07-18T17:15:09.109985Z"
+slug: co_training
+date: '2026-07-18T15:48:09.547468Z'
+lastmod: '2026-07-18T17:15:09.109985Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Společný trénink je algoritmus polooseznaného učení, kde jsou dvě pohledy na data použity k tréninku samostatných klasifikátorů, které si vzájemně iterativně přiřazují štítky neoznačeným datům."
+source: agnes_llm
+status: published
+language: cs
+description: Společný trénink je algoritmus polooseznaného učení, kde jsou dvě pohledy
+  na data použity k tréninku samostatných klasifikátorů, které si vzájemně iterativně
+  přiřazují štítky neoznačeným datům.
 ---
-
 ## Definition
 
 Tato metoda využívá několik odlišných sad funkcí (pohledů) stejných datových bodů. Nejprve se dva klasifikátory natrénují na malých označených datech z každého pohledu. Poté předpovídají štítky pro neo

@@ -1,23 +1,23 @@
 ---
-title: "høj kvalitet"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: høj kvalitet
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /da/terms/high_quality/
-date: "2026-07-18T15:32:24.886229Z"
-lastmod: "2026-07-18T17:15:09.238966Z"
+slug: high_quality
+date: '2026-07-18T15:32:24.886229Z'
+lastmod: '2026-07-18T17:15:09.238966Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Refererer til datasæt, modeller eller output, der udviser overlegen nøjagtighed, pålidelighed og minimal støj."
+source: agnes_llm
+status: published
+language: da
+description: Refererer til datasæt, modeller eller output, der udviser overlegen nøjagtighed,
+  pålidelighed og minimal støj.
 ---
-
 ## Definition
 
 Inden for kunstig intelligens beskriver høj kvalitet typisk data eller modeloutput, der har høj trofasthed, lav støj og stærke generaliseringsevner. Træningsdata af høj kvalitet sikrer mod...

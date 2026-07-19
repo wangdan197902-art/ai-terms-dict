@@ -1,23 +1,23 @@
 ---
-title: "Tổng hợp"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Tổng hợp
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /vi/terms/synthetic/
-date: "2026-07-18T15:29:28.245966Z"
-lastmod: "2026-07-18T16:38:07.697199Z"
+slug: synthetic
+date: '2026-07-18T15:29:28.245966Z'
+lastmod: '2026-07-18T16:38:07.697199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tổng hợp đề cập đến dữ liệu hoặc nội dung được tạo ra nhân tạo bởi các thuật toán thay vì thu thập từ nguồn tự nhiên."
+source: agnes_llm
+status: published
+language: vi
+description: Tổng hợp đề cập đến dữ liệu hoặc nội dung được tạo ra nhân tạo bởi các
+  thuật toán thay vì thu thập từ nguồn tự nhiên.
 ---
-
 ## Definition
 
 Trong AI, dữ liệu tổng hợp là thông tin được tạo ra nhân tạo, mô phỏng dữ liệu thực tế nhưng không chứa bất kỳ hồ sơ cá nhân hay nhạy cảm nào. Nó đóng vai trò quan trọng trong việc huấn luyện các mô hình học máy khi dữ liệu thực tế khan hiếm hoặc có vấn đề về quyền riêng tư.

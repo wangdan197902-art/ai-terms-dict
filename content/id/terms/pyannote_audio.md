@@ -1,23 +1,25 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /id/terms/pyannote_audio/
-date: "2026-07-18T16:05:47.495763Z"
-lastmod: "2026-07-18T16:38:07.497301Z"
+slug: pyannote_audio
+date: '2026-07-18T16:05:47.495763Z'
+lastmod: '2026-07-18T16:38:07.497301Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pyannote Audio adalah toolkit modular untuk membangun alur kerja diarisasi pembicara, dilengkapi dengan model jaringan saraf yang telah dilatih sebelumnya untuk analisis audio."
+source: agnes_llm
+status: published
+language: id
+description: Pyannote Audio adalah toolkit modular untuk membangun alur kerja diarisasi
+  pembicara, dilengkapi dengan model jaringan saraf yang telah dilatih sebelumnya
+  untuk analisis audio.
 ---
-
 ## Definition
 
 Pyannote Audio adalah toolkit komprehensif yang dirancang untuk memfasilitasi pengembangan dan penerapan sistem diarisasi pembicara. Toolkit ini menyediakan kumpulan model jaringan saraf yang telah dilatih sebelumnya untuk berbagai tugas analisis audio, memungkinkan pengguna membangun sistem yang disesuaikan dengan kebutuhan spesifik mereka.

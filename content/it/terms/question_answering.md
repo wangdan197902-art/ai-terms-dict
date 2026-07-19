@@ -1,23 +1,24 @@
 ---
-title: "Risposta alle Domande"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Risposta alle Domande
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /it/terms/question_answering/
-date: "2026-07-18T15:36:49.930179Z"
-lastmod: "2026-07-18T17:15:08.589012Z"
+slug: question_answering
+date: '2026-07-18T15:36:49.930179Z'
+lastmod: '2026-07-18T17:15:08.589012Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un compito NLP in cui un sistema fornisce automaticamente risposte precise a domande poste in linguaggio naturale."
+source: agnes_llm
+status: published
+language: it
+description: Un compito NLP in cui un sistema fornisce automaticamente risposte precise
+  a domande poste in linguaggio naturale.
 ---
-
 ## Definition
 
 La Risposta alle Domande (QA) consiste nel recuperare o generare risposte accurate alle query degli utenti partendo da un contesto o da una base di conoscenza dati. Varia dalla QA a dominio chiuso, che si basa su documenti specifici, alla QA open-domain.

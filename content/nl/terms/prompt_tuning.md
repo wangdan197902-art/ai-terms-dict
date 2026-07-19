@@ -1,23 +1,24 @@
 ---
-title: "Prompt Tuning"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt Tuning
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /nl/terms/prompt_tuning/
-date: "2026-07-18T16:13:31.976852Z"
-lastmod: "2026-07-18T17:15:08.779268Z"
+slug: prompt_tuning
+date: '2026-07-18T16:13:31.976852Z'
+lastmod: '2026-07-18T17:15:08.779268Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een parameter-efficiënte fine-tuning methode die continue invoerembeddings optimaliseert in plaats van de volledige modelgewichten bij te werken."
+source: agnes_llm
+status: published
+language: nl
+description: Een parameter-efficiënte fine-tuning methode die continue invoerembeddings
+  optimaliseert in plaats van de volledige modelgewichten bij te werken.
 ---
-
 ## Definition
 
 Prompt tuning houdt in dat trainbare 'zachte prompts' (continue vectoren) worden toegevoegd aan de invoerlaag van een voorge训练d taalmodel, terwijl de onderliggende modelparameters bevroren blijven. Deze aanpak maakt het mogelijk...

@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /sv/terms/automated_negotiation/
 date: "2026-07-18T15:46:54.301796Z"
 lastmod: "2026-07-18T17:15:08.978793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Användningen av AI-agenter för att autonomt genomföra förhandlingar och nå överenskommelser mellan parter."
 ---
-
 ## Definition
 
 Automatiserad förhandling innebär att mjukvaruagenter representerar mänskliga intressen i förhandlingsprocesser. Dessa agenter använder spelteori, optimeringsalgoritmer och maskininlärning för att föreslå erbjudanden och anpassa sig efter motpartens drag.

@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /da/terms/tool_use/
 date: "2026-07-18T15:38:12.743652Z"
 lastmod: "2026-07-18T17:15:09.251057Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et paradigme, hvor AI-agenter vælger og eksekverer eksterne funktioner eller API'er for at udføre specifikke opgaver ud over deres indbyggede evner."
 ---
-
 ## Definition
 
 Værktøjsbrug gør det muligt for sprogmodeller at interagere med eksterne softwaremiljøer ved at kalde foruddefinerede funktioner, såsom kalkulatorer, søgemaskiner eller databaseforespørgsler. Denne tilgang udvider modellens

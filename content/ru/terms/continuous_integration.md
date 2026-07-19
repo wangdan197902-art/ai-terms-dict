@@ -1,23 +1,24 @@
 ---
-title: "Непрерывная интеграция"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Непрерывная интеграция
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /ru/terms/continuous_integration/
-date: "2026-07-18T15:33:29.272008Z"
-lastmod: "2026-07-18T16:38:07.100449Z"
+slug: continuous_integration
+date: '2026-07-18T15:33:29.272008Z'
+lastmod: '2026-07-18T16:38:07.100449Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Практика разработки ПО, при которой разработчики часто сливают изменения кода в центральный репозиторий, что запускает автоматизированные сборки и тесты."
+source: agnes_llm
+status: published
+language: ru
+description: Практика разработки ПО, при которой разработчики часто сливают изменения
+  кода в центральный репозиторий, что запускает автоматизированные сборки и тесты.
 ---
-
 ## Definition
 
 Непрерывная интеграция (CI) — это критически важная практика DevOps, которая автоматизирует объединение изменений кода от нескольких участников в единый проект программного обеспечения. Путем запуска автоматизированных сборок и тестирования...

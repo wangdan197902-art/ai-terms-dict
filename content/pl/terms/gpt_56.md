@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /pl/terms/gpt_56/
 date: "2026-07-18T15:56:06.308079Z"
 lastmod: "2026-07-18T17:15:08.875889Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Hipotetyczna lub przyszła iteracja serii Generative Pre-trained Transformer firmy OpenAI, reprezentująca postęp w stosunku do obecnych modeli GPT."
 ---
-
 ## Definition
 
 GPT-5.6 odnosi się do spekulacyjnej lub nadchodzącej wersji w linii modeli językowych dużej skali (LLM) firmy OpenAI. Chociaż szczegółowe dane mogą różnić się w zależności od harmonogramu rozwoju, takie iteracje zazwyczaj...

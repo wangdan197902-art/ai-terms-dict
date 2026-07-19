@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /hu/terms/experiments/
 date: "2026-07-18T15:26:02.436704Z"
 lastmod: "2026-07-18T17:15:09.719664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Kontrollált eljárások, amelyeket hipotézisek tesztelésére, modellteljesítmény értékelésére vagy új AI képességek felfedezésére végeznek."
 ---
-
 ## Definition
 
 Az AI-ban a kísérletek a változók rendszerezett tesztelését jelentik a gépi tanulási modelleken belüli ok-okozati összefüggések megértése érdekében. Ezek az eljárások lehetővé teszik a fejlesztők számára, hogy összehasonlítsák különböző hiperparamétereket vagy architektúrákat.

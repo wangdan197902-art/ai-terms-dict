@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /he/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:42:30.696340Z"
 lastmod: "2026-07-18T17:15:09.513113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "יישום טכנולוגיות בינה מלאכותית בתהליכים בחירותיים, כולל ניהול מסעות בחירה, ניתוח מצביעים וחששות מפני מידע כוזב."
 ---
-
 ## Definition
 
 מונח זה כולל את התפקיד הכפול של הבינה המלאכותית בתהליכים דמוקרטיים: שיפור היעילות באמצעות אנליטיקת נתונים והצגת סיכונים באמצעות השפעה ומניפולציה. מצד אחד, בינה מלאכותית מסייעת למסעות בחירה לכוון מצביעים ולשפר אסטרטגיות.

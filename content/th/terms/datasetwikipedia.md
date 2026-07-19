@@ -1,23 +1,24 @@
 ---
-title: "ชุดข้อมูล: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'ชุดข้อมูล: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /th/terms/datasetwikipedia/
-date: "2026-07-18T15:49:14.091149Z"
-lastmod: "2026-07-18T16:38:07.596152Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:49:14.091149Z'
+lastmod: '2026-07-18T16:38:07.596152Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คอลเลกชันข้อความขนาดมหาศาลจากวิกิพีเดีย ทำหน้าที่เป็นคอร์ปัสพื้นฐานสำหรับการฝึกฝนโมเดลภาษาและงาน NLP ที่ต้องการความรู้เข้มข้น"
+source: agnes_llm
+status: published
+language: th
+description: คอลเลกชันข้อความขนาดมหาศาลจากวิกิพีเดีย ทำหน้าที่เป็นคอร์ปัสพื้นฐานสำหรับการฝึกฝนโมเดลภาษาและงาน
+  NLP ที่ต้องการความรู้เข้มข้น
 ---
-
 ## Definition
 
 วิกิพีเดียเป็นหนึ่งในคอลเลกชันความรู้ของมนุษย์ที่ใหญ่ที่สุดและครอบคลุมที่สุดในรูปแบบข้อความ ในด้านปัญญาประดิษฐ์ วิกิพีเดียทำหน้าที่เป็นแหล่งข้อมูลหลักสำหรับการฝึกฝนโมเดลภาษาขนาดใหญ่ (pre-training) โดยให้ความรู้ทางโลกและโครงสร้างภาษาที่หลากหลายแก่โมเดล

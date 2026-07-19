@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /it/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:09:52.570654Z"
 lastmod: "2026-07-18T17:15:08.646465Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'uso di algoritmi di apprendimento automatico per analizzare dati geospaziali e ambientali al fine di prevedere fenomeni naturali e gestire le risorse."
 ---
-
 ## Definition
 
 L'apprendimento automatico potenzia le scienze della Terra elaborando immagini satellitari, dati sismici e registri climatici per modellare sistemi ambientali complessi. Queste tecniche aiutano a prevedere i modelli meteorologici, monitorare lo scioglimento dei ghiacciai e gestire le risorse naturali.

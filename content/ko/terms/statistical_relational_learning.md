@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /ko/terms/statistical_relational_learning/
 date: "2026-07-18T16:17:04.126160Z"
 lastmod: "2026-07-18T16:38:06.911531Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "확률적 추론과 일차 논리를 통합하여 데이터 내 복잡한 관계 구조를 다루는 머신러닝 분야."
 ---
-
 ## Definition
 
 통계적 관계 학습(SRL)은 확률론과 관계적 데이터 구조를 결합하여, 엔티티 간 의존성과 그들 사이의 관계를 포착할 수 있게 합니다. 기존 통계적 방법이나 논리적 방법만으로는 다루기 어려운 복잡한 구조와 불확실성을 함께 모델링하는 데 강점이 있습니다.

@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /nl/terms/bayesian/
 date: "2026-07-18T15:23:45.346428Z"
 lastmod: "2026-07-18T17:15:08.680475Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Betrekking hebbend op statistische methoden gebaseerd op de stelling van Bayes voor het bijwerken van kansen met nieuw bewijs."
 ---
-
 ## Definition
 
 Bayesiaanse benaderingen in AI gebruiken waarschijnlijkheidstheorie om de kans op hypothesen bij te werken naarmate er meer bewijs beschikbaar komt. Deze methode stelt modellen in staat onzekerheid te kwantificeren en voorspellingen dynamisch te verfijnen.

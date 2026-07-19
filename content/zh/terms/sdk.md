@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /zh/terms/sdk/
 date: "2026-07-18T11:01:52.849118Z"
 lastmod: "2026-07-18T11:44:45.405960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "提供用于构建应用程序的工具、库和文档的软件套件。"
 ---
-
 ## Definition
 
 SDK 是一组软件开发工具，允许开发人员为特定平台或服务创建应用程序。对于 AI 而言，SDK 提供预建的库、API 和实用程序来...

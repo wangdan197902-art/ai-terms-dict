@@ -1,23 +1,24 @@
 ---
-title: "États quantiques de réseau neuronal"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: États quantiques de réseau neuronal
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /fr/terms/neural_network_quantum_states/
-date: "2026-07-18T11:31:22.010771Z"
-lastmod: "2026-07-18T11:44:45.301475Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T11:31:22.010771Z'
+lastmod: '2026-07-18T11:44:45.301475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une représentation des fonctions d'onde à plusieurs corps quantiques utilisant des architectures de réseaux de neurones artificiels."
+source: agnes_llm
+status: published
+language: fr
+description: Une représentation des fonctions d'onde à plusieurs corps quantiques
+  utilisant des architectures de réseaux de neurones artificiels.
 ---
-
 ## Definition
 
 Les états quantiques de réseau neuronal utilisent les techniques d'apprentissage profond pour approximer des fonctions d'onde quantiques complexes. En traitant les poids du réseau neuronal comme des paramètres optimisant les amplitudes de probabilité des qubits.

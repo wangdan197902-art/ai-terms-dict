@@ -1,23 +1,24 @@
 ---
-title: "Tác nhân phần mềm"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Tác nhân phần mềm
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /vi/terms/software_agent/
-date: "2026-07-18T16:12:15.173525Z"
-lastmod: "2026-07-18T16:38:07.805881Z"
+slug: software_agent
+date: '2026-07-18T16:12:15.173525Z'
+lastmod: '2026-07-18T16:38:07.805881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chương trình máy tính thực hiện các nhiệm vụ thay cho người dùng hoặc các chương trình khác với mức độ tự chủ nhất định."
+source: agnes_llm
+status: published
+language: vi
+description: Một chương trình máy tính thực hiện các nhiệm vụ thay cho người dùng
+  hoặc các chương trình khác với mức độ tự chủ nhất định.
 ---
-
 ## Definition
 
 Tác nhân phần mềm là một thực thể tự chủ có khả năng nhận biết môi trường, suy luận và hành động để đạt được các mục tiêu cụ thể. Các tác nhân này có thể hoạt động độc lập, thích ứng với những thay đổi và cộng tác...

@@ -1,23 +1,24 @@
 ---
-title: "hållen tillbaka"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: hållen tillbaka
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /sv/terms/held_out/
-date: "2026-07-18T15:33:29.538148Z"
-lastmod: "2026-07-18T17:15:08.956752Z"
+slug: held_out
+date: '2026-07-18T15:33:29.538148Z'
+lastmod: '2026-07-18T17:15:08.956752Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Datapunkter som reserveras från träningsmängden för att utvärdera modellens prestanda och förhindra överanpassning under utvecklingen."
+source: agnes_llm
+status: published
+language: sv
+description: Datapunkter som reserveras från träningsmängden för att utvärdera modellens
+  prestanda och förhindra överanpassning under utvecklingen.
 ---
-
 ## Definition
 
 En "hållen tillbaka"-dataset består av exempel som avsiktligt uteslutits från träningsfasen av en maskininlärningsmodell. Detta delmängd används för att bedöma hur väl modellen generaliserar till osedd data, vilket ger en opartisk uppskattning av dess förmåga att prestera på nya, okända data under utvecklingsstadiet.

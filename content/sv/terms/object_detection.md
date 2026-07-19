@@ -1,23 +1,24 @@
 ---
-title: "Objektdetektering"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: Objektdetektering
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /sv/terms/object_detection/
-date: "2026-07-18T16:12:00.750256Z"
-lastmod: "2026-07-18T17:15:09.032747Z"
+slug: object_detection
+date: '2026-07-18T16:12:00.750256Z'
+lastmod: '2026-07-18T17:15:09.032747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknik inom datorsektion som identifierar och lokalerar objekt i bilder eller videoflöden med hjälp av ramar (bounding boxes)."
+source: agnes_llm
+status: published
+language: sv
+description: En teknik inom datorsektion som identifierar och lokalerar objekt i bilder
+  eller videoflöden med hjälp av ramar (bounding boxes).
 ---
-
 ## Definition
 
 Objektdetektering utvidgar bildklassificering genom att inte bara fastställa vilka objekt som finns närvarande, utan också var de befinner sig. Den returnerar koordinater för ramar runt detekterade föremål tillsammans med deras klassificeringslabel.

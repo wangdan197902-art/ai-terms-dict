@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /no/terms/perception_error_model/
 date: "2026-07-18T16:11:18.099638Z"
 lastmod: "2026-07-18T16:38:07.033166Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et statistisk eller algoritmesk rammeverk brukt til å kvantifisere og korrigere unøyaktigheter i tolkningen av sansedata."
 ---
-
 ## Definition
 
 En oppfatningsfeilmodell beskriver avvikene mellom observerte sansedata og sann tilstand, og tar hensyn til støy, okklusjon eller sensorbegrensninger. Ved å modellere disse feilene kan AI-systemer forbedre

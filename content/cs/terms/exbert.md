@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /cs/terms/exbert/
-date: "2026-07-18T15:56:21.998273Z"
-lastmod: "2026-07-18T17:15:09.127931Z"
+slug: exbert
+date: '2026-07-18T15:56:21.998273Z'
+lastmod: '2026-07-18T17:15:09.127931Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metoda vysvětlující predikce modelu BERT identifikací toho, které hlavy pozornosti a vrstvy přispívají nejvíce ke konkrétním výstupům."
+source: agnes_llm
+status: published
+language: cs
+description: Metoda vysvětlující predikce modelu BERT identifikací toho, které hlavy
+  pozornosti a vrstvy přispívají nejvíce ke konkrétním výstupům.
 ---
-
 ## Definition
 
 ExBERT poskytuje interpretovatelnost modelu BERT (transformeru) analýzou důležitosti jednotlivých hlav pozornosti napříč různými vrstvami. Používá techniky, jako je gradientní atribuce nebo analýza aktivací, k vysvětlení rozhodovacích procesů modelu.

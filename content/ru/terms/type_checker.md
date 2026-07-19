@@ -1,23 +1,25 @@
 ---
-title: "Проверка типов"
-term_id: "type_checker"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "debugging", "quality_assurance"]
+title: Проверка типов
+term_id: type_checker
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- debugging
+- Quality Assurance
 difficulty: 2
 weight: 1
-slug: "type_checker"
-aliases:
-  - /ru/terms/type_checker/
-date: "2026-07-18T16:19:15.689342Z"
-lastmod: "2026-07-18T16:38:07.211408Z"
+slug: type_checker
+date: '2026-07-18T16:19:15.689342Z'
+lastmod: '2026-07-18T16:38:07.211408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Проверка типов — это инструмент статического анализа, который проверяет, соответствуют ли типы переменных и выражений в коде правилам системы типов языка программирования."
+source: agnes_llm
+status: published
+language: ru
+description: Проверка типов — это инструмент статического анализа, который проверяет,
+  соответствуют ли типы переменных и выражений в коде правилам системы типов языка
+  программирования.
 ---
-
 ## Definition
 
 В программной инженерии, особенно для библиотек ИИ, написанных на Python, C++ или Rust, проверка типов обеспечивает корректность кода, проверяя, что операции выполняются над совместимыми типами данных. Это помогает предотвращать ошибки времени выполнения и улучшать качество кода.

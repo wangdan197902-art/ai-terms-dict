@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /pt/terms/explainability/
 date: "2026-07-18T14:44:08.214047Z"
 lastmod: "2026-07-18T15:51:59.449612Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Explicabilidade refere-se ao grau em que um ser humano pode entender a causa de uma decisão tomada por um modelo de IA."
 ---
-
 ## Definition
 
 Este conceito aborda o problema da 'caixa preta' em sistemas complexos de IA, fornecendo insights sobre como os modelos chegam a previsões específicas. Técnicas como SHAP ou LIME ajudam a visualizar a importância dos recursos.

@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /id/terms/cognitive_computing/
 date: "2026-07-18T15:42:21.892621Z"
 lastmod: "2026-07-18T16:38:07.437536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Komputasi kognitif merujuk pada sistem yang mensimulasikan proses berpikir manusia dalam model komputersiasi, menggunakan AI untuk meniru fungsi otak manusia."
 ---
-
 ## Definition
 
 Komputasi kognitif adalah cabang kecerdasan buatan yang berupaya berinteraksi dengan manusia secara alami sambil juga mensimulasikan proses otak manusia. Sistem-sistem ini menggunakan pembelajaran mesin, pembelajaran mendalam, dan pemrosesan bahasa alami untuk menangani ketidakpastian dan kompleksitas.

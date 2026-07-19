@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /he/terms/latency/
 date: "2026-07-18T15:37:11.364267Z"
 lastmod: "2026-07-18T17:15:09.500592Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "זמן ההשהיה בין התחלת בקרה לבין תחילת המתן בתגובה במערכת בינה מלאכותית."
 ---
-
 ## Definition
 
 עיכוב מודד את מהירות התגובה של שירות בינה מלאכותית, לרוב בציון במילישניות. הוא כולל זמן הסקה (Inference), עיכובי העברת רשת ועומס עיבוד. עיכוב נמוך קריטי ליישומים הדורשים תגובה מיידית.

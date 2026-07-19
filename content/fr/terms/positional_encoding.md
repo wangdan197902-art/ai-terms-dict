@@ -1,23 +1,24 @@
 ---
-title: "Encodage Positionnel"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Encodage Positionnel
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /fr/terms/positional_encoding/
-date: "2026-07-18T11:00:53.340751Z"
-lastmod: "2026-07-18T11:44:45.187197Z"
+slug: positional_encoding
+date: '2026-07-18T11:00:53.340751Z'
+lastmod: '2026-07-18T11:44:45.187197Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique qui injecte des informations sur la position relative ou absolue des tokens dans une séquence au sein des modèles de type transformer."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique qui injecte des informations sur la position relative ou
+  absolue des tokens dans une séquence au sein des modèles de type transformer.
 ---
-
 ## Definition
 
 Étant donné que les transformateurs traitent tous les tokens en parallèle plutôt que séquentiellement comme les RNN, ils dépourvus de connaissance intrinsèque de l'ordre des tokens. L'encodage positionnel ajoute des vecteurs spécifiques aux embeddings d'entrée pour préserver l'ordre séquentiel.

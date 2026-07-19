@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /pl/terms/artificial_psychology/
 date: "2026-07-18T15:41:21.842707Z"
 lastmod: "2026-07-18T17:15:08.846954Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dziedzina badająca sposób projektowania systemów AI z architekturami poznawczymi imitującymi ludzkie procesy psychologiczne."
 ---
-
 ## Definition
 
 Psychologia sztuczna to interdyscyplinarna dziedzina skupiająca się na projektowaniu i implementacji architektur poznawczych w systemach AI. Czerpie z nauki o poznaniu i psychologii, aby modelować ludzkie myślenie

@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /pl/terms/is_this_what_we_want/
 date: "2026-07-18T16:01:48.090281Z"
 lastmod: "2026-07-18T17:15:08.887330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Krytyczny ramy etyczne służące do oceny systemów SI pod kątem wartości społecznych, sprawiedliwości i potencjalnie szkodliwych konsekwencji."
 ---
-
 ## Definition
 
 To sformułowanie reprezentuje kluczowe pytanie w etyce i zarządzaniu sztuczną inteligencją, skłaniające interesariuszy do oceny, czy wdrożone technologie SI są zgodne z ludzkimi wartościami i dobrem publicznym. Wymaga ono starannej analizy wpływu algorytmów na społeczeństwo, uwzględnienia ryzyka dyskryminacji oraz zapewnienia transparentności. Jest to fundamentalne narzędzie do prowadzenia debaty publicznej i tworzenia regulacji, które chronią prawa człowieka w erze cyfrowej, zapewniając, że postęp technologiczny służy ludzkości.

@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /pl/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:49:13.946628Z"
 lastmod: "2026-07-18T17:15:08.862546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zbiór danych pochodzący z eksportów XML Stack Exchange, używany do trenowania osadzania zdań skupiającego się na technicznej treści i pytaniach odpowiadanych przez społeczność."
 ---
-
 ## Definition
 
 Ten zbiór danych wyodrębnia dane na poziomie zdań z plików XML Stack Exchange, dostarczając bogate źródło dyskusji technicznych, fragmentów kodu i dialogów rozwiązywania problemów. Jest specjalnie wykorzystywany w

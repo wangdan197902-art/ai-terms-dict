@@ -1,23 +1,25 @@
 ---
-title: "Polityka"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Polityka
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /pl/terms/policy/
-date: "2026-07-18T15:28:28.401016Z"
-lastmod: "2026-07-18T17:15:08.818016Z"
+slug: policy
+date: '2026-07-18T15:28:28.401016Z'
+lastmod: '2026-07-18T17:15:08.818016Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Strategia lub plan działania mający na celu kierowanie decyzjami i osiąganie racjonalnych wyników, często używany w uczeniu przez wzmacnianie do mapowania stanów na akcje."
+source: agnes_llm
+status: published
+language: pl
+description: Strategia lub plan działania mający na celu kierowanie decyzjami i osiąganie
+  racjonalnych wyników, często używany w uczeniu przez wzmacnianie do mapowania stanów
+  na akcje.
 ---
-
 ## Definition
 
 Termin 'polityka' ma podwójne znaczenie w zależności od kontekstu. W ogólnym zarządzaniu jest to zasada przewodnia dla podejmowania decyzji. W Uczeniu Przez Wzmacnianie (RL) polityka jest kluczowym...

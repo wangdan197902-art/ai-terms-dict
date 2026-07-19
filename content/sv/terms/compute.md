@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /sv/terms/compute/
 date: "2026-07-18T15:50:04.821335Z"
 lastmod: "2026-07-18T17:15:08.986317Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Beräkningskraft avser den bearbetningskapacitet och de resurser som används för att köra algoritmer och hantera data i AI-system."
 ---
-
 ## Definition
 
 Inom artificiell intelligens representerar beräkningskraft den grundläggande infrastruktur som krävs för att träna modeller och köra inferens. Det omfattar hårdvarukomponenter som CPU:er, GPU:er och TPU:er, samt mjukvaran som styr dessa resurser.

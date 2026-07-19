@@ -1,23 +1,25 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /cs/terms/facebook/
-date: "2026-07-18T15:57:01.410620Z"
-lastmod: "2026-07-18T17:15:09.128927Z"
+slug: facebook
+date: '2026-07-18T15:57:01.410620Z'
+lastmod: '2026-07-18T17:15:09.128927Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Velká sociální mediální platforma a technologická společnost, která významně ovlivňuje vývoj umělé inteligence prostřednictvím svého otevřeného výzkumu a rozsáhlých datových ekosystémů."
+source: agnes_llm
+status: published
+language: cs
+description: Velká sociální mediální platforma a technologická společnost, která významně
+  ovlivňuje vývoj umělé inteligence prostřednictvím svého otevřeného výzkumu a rozsáhlých
+  datových ekosystémů.
 ---
-
 ## Definition
 
 Facebook, nyní součást společnosti Meta Platforms Inc., je přední silou ve výzkumu a aplikacích umělé inteligence. Hostinguje obrovské množství uživateli generovaných dat používaných pro trénování modelů strojového učení.

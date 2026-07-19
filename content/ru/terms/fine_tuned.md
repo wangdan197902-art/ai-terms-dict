@@ -1,23 +1,24 @@
 ---
-title: "дообученный (fine-tuned)"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: дообученный (fine-tuned)
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /ru/terms/fine_tuned/
-date: "2026-07-18T15:31:09.731644Z"
-lastmod: "2026-07-18T16:38:07.094783Z"
+slug: fine_tuned
+date: '2026-07-18T15:31:09.731644Z'
+lastmod: '2026-07-18T16:38:07.094783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс дополнительной тренировки предварительно обученной модели на конкретном наборе данных для адаптации к определенной задаче."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс дополнительной тренировки предварительно обученной модели на
+  конкретном наборе данных для адаптации к определенной задаче.
 ---
-
 ## Definition
 
 Дообучение предполагает использование модели, уже обученной на большом общем наборе данных, и продолжение ее обучения на меньшем наборе данных, специфичном для задачи. Эта техника использует общие функ

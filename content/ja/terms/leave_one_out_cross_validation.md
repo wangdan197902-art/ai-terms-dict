@@ -1,23 +1,23 @@
 ---
-title: "留一法交差検証"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: 留一法交差検証
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /ja/terms/leave_one_out_cross_validation/
-date: "2026-07-18T11:21:43.563696Z"
-lastmod: "2026-07-18T11:44:45.115499Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T11:21:43.563696Z'
+lastmod: '2026-07-18T11:44:45.115499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルを1つのサンプルを除くすべてのデータで学習し、その1つを残してテストする厳密なリサンプリング手法であり、このプロセスを各データポイントに対して繰り返す。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルを1つのサンプルを除くすべてのデータで学習し、その1つを残してテストする厳密なリサンプリング手法であり、このプロセスを各データポイントに対して繰り返す。
 ---
-
 ## Definition
 
 留一法交差検証（LOOCV）は、kの値がデータセット内のサンプル数と等しいk-fold交差検証の特殊なケースです。これはモデル性能のほぼ不偏な推定値を提供します。

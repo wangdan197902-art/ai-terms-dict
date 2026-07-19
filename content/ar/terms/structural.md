@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /ar/terms/structural/
 date: "2026-07-18T15:31:06.804928Z"
 lastmod: "2026-07-18T17:15:08.449559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يتعلق بالتنظيم الأساسي، أو الهندسة المعمارية، أو ترتيب المكونات داخل نظام ما."
 ---
-
 ## Definition
 
 تحدد الجوانب الهيكلية كيفية تنظيم البيانات أو طبقات الشبكة العصبية. في الشبكات العصبية البيانية، يشير الهيكل إلى اتصالات العقد؛ وفي التعلم العميق، يشير إلى طوبولوجيا الطبقات.

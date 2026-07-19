@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /zh/terms/ai_anthropomorphism/
 date: "2026-07-18T11:02:52.509016Z"
 lastmod: "2026-07-18T11:44:45.433959Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "人类倾向于将类人的特征、情感或意图归因于 AI 系统的现象。"
 ---
-
 ## Definition
 
 AI 拟人化是指用户将人类特质投射到非人类实体（如聊天机器人或机器人）上的心理现象。这可能导致对 AI 能力产生不切实际的期望。

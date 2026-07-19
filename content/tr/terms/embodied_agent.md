@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /tr/terms/embodied_agent/
 date: "2026-07-18T15:51:18.679259Z"
 lastmod: "2026-07-18T16:38:07.303983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bedensel bir ajan, çevresiyle fiziksel bir vücut veya duyusal-motor aparat aracılığıyla etkileşime giren bir yapay zeka sistemidir."
 ---
-
 ## Definition
 
 Soyut verileri işleyen bedensiz yapay zekanın aksine, bedensel ajanlar fiziksel bir bağlamda öğrenir ve hareket eder; duyusal girdilere ve motor çıktılara dayanır. Bu paradigma robotik ve otonom sistemler için merkezidir.

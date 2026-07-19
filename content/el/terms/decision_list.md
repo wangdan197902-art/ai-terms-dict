@@ -1,23 +1,23 @@
 ---
-title: "Λίστα αποφάσεων"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Λίστα αποφάσεων
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /el/terms/decision_list/
-date: "2026-07-18T16:01:37.127539Z"
-lastmod: "2026-07-18T17:15:09.899250Z"
+slug: decision_list
+date: '2026-07-18T16:01:37.127539Z'
+lastmod: '2026-07-18T17:15:09.899250Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας ερμηνεύσιμος ταξινομητής που αποτελείται από μια διατεταγμένη λίστα κανόνων, όπου ο πρώτος κανόνας που ταιριάζει καθορίζει την έξοδο."
+source: agnes_llm
+status: published
+language: el
+description: Ένας ερμηνεύσιμος ταξινομητής που αποτελείται από μια διατεταγμένη λίστα
+  κανόνων, όπου ο πρώτος κανόνας που ταιριάζει καθορίζει την έξοδο.
 ---
-
 ## Definition
 
 Μια λίστα αποφάσεων είναι ένας τύπος μοντέλου μηχανικής μάθησης που αναπαριστά τη γνώση ως μια ακολουθία συνθηκών κανόνων. Κάθε κανόνας αποτελείται από μια συνθήκη και μια προβλεπόμενη ετικέτα κλάσης. Κατά την ταξινόμηση ενός νέου δείγματος, ο πρώτος κανόνας στη λίστα που ικανοποιείται καθορίζει την τελική πρόβλεψη.

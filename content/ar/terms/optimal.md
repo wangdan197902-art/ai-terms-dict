@@ -1,23 +1,23 @@
 ---
-title: "أمثل"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: أمثل
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /ar/terms/optimal/
-date: "2026-07-18T15:29:12.224052Z"
-lastmod: "2026-07-18T17:15:08.444782Z"
+slug: optimal
+date: '2026-07-18T15:29:12.224052Z'
+lastmod: '2026-07-18T17:15:08.444782Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير الأمثل إلى أفضل حل ممكن أو إجراء ضمن مجموعة معينة من القيود، بهدف تعظيم المكافآت أو تقليل التكاليف."
+source: agnes_llm
+status: published
+language: ar
+description: يشير الأمثل إلى أفضل حل ممكن أو إجراء ضمن مجموعة معينة من القيود، بهدف
+  تعظيم المكافآت أو تقليل التكاليف.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي ونظرية التحسين، الحل الأمثل هو الذي يحقق أعلى مؤشر أداء ممكن، مثل تعظيم المكافأة في التعلم التعزيزي أو تقليل الخطأ في الانحدار. إيجاد...

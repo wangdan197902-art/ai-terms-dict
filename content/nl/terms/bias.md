@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /nl/terms/bias/
 date: "2026-07-18T15:22:26.136208Z"
 lastmod: "2026-07-18T17:15:08.678319Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Systematische vooroordelen in AI-modellen die leiden tot oneerlijke uitkomsten voor bepaalde groepen of individuen."
 ---
-
 ## Definition
 
 In de context van AI-ethiek verwijst bias naar systematische en oneerlijke discriminatie in algoritmische besluitvorming, vaak veroorzaakt door scheve trainingsgegevens of gebrekkig modelontwerp. Dit kan leiden tot nadelige gevolgen voor bepaalde demografische groepen.

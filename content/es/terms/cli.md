@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /es/terms/cli/
 date: "2026-07-18T10:29:46.972288Z"
 lastmod: "2026-07-18T11:44:44.760641Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La Interfaz de Línea de Comandos es un método basado en texto para interactuar con programas de software escribiendo comandos en un terminal."
 ---
-
 ## Definition
 
 Una Interfaz de Línea de Comandos (CLI) permite a los usuarios controlar el software ingresando comandos textuales en lugar de utilizar elementos gráficos. En el desarrollo de IA, las CLI son esenciales para ejecutar scripts, gestionar modelos y automatizar tareas de entrenamiento.

@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /ar/terms/intelligent_decision_support_system/
 date: "2026-07-18T16:03:57.320362Z"
 lastmod: "2026-07-18T17:15:08.517314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام معزز بالذكاء الاصطناعي يساعد البشر في اتخاذ قرارات معقدة من خلال تحليل البيانات وتقديم رؤى قابلة للتنفيذ."
 ---
-
 ## Definition
 
 يُدمج نظام دعم القرار الذكي (IDSS) تقنيات الذكاء الاصطناعي، مثل التعلم الآلي ومعالجة اللغة الطبيعية، مع أطر عمل دعم القرار التقليدية. يقوم بتحليل البيانات المعقدة لتقديم توصيات مدعومة بالأدلة، مما يعزز دقة وكفاءة عملية اتخاذ القرار البشري في السيناريوهات ذات التعقيد العالي.

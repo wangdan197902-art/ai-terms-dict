@@ -1,23 +1,24 @@
 ---
-title: "finmaskig"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: finmaskig
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /sv/terms/fine_grained/
-date: "2026-07-18T15:33:15.350163Z"
-lastmod: "2026-07-18T17:15:08.956411Z"
+slug: fine_grained
+date: '2026-07-18T15:33:15.350163Z'
+lastmod: '2026-07-18T17:15:08.956411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Beskriver analys- eller klassificeringsuppgifter som kräver åtskillnad mellan subtila skillnader inom en bred kategori."
+source: agnes_llm
+status: published
+language: sv
+description: Beskriver analys- eller klassificeringsuppgifter som kräver åtskillnad
+  mellan subtila skillnader inom en bred kategori.
 ---
-
 ## Definition
 
 Finmaskig analys innebär att identifiera och kategorisera objekt eller begrepp på en underklassnivå snarare än bara huvudklassen. Till exempel att särskilja mellan specifika hundraser eller bilmodeller...

@@ -1,23 +1,24 @@
 ---
-title: "Proyek Penemu Buatan"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Proyek Penemu Buatan
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /id/terms/artificial_inventor_project/
-date: "2026-07-18T15:39:09.325792Z"
-lastmod: "2026-07-18T16:38:07.427938Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:39:09.325792Z'
+lastmod: '2026-07-18T16:38:07.427938Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Inisiatif penelitian yang berfokus pada pengembangan model komputasional dari proses pemecahan masalah dan penemuan kreatif yang menyerupai manusia."
+source: agnes_llm
+status: published
+language: id
+description: Inisiatif penelitian yang berfokus pada pengembangan model komputasional
+  dari proses pemecahan masalah dan penemuan kreatif yang menyerupai manusia.
 ---
-
 ## Definition
 
 Proyek Penemu Buatan adalah upaya penelitian interdisipliner yang bertujuan untuk memahami dan mereplikasi mekanisme kognitif di balik kreativitas dan penemuan manusia. Proyek ini berupaya membangun sistem AI yang mampu meniru cara kerja otak manusia dalam menghasilkan ide-ide baru.

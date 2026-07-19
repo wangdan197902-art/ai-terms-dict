@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /vi/terms/audit/
 date: "2026-07-18T15:41:36.671222Z"
 lastmod: "2026-07-18T16:38:07.730446Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Đánh giá có hệ thống các hệ thống AI để đảm bảo tuân thủ các tiêu chuẩn đạo đức, yêu cầu quy định và các mốc hiệu suất."
 ---
-
 ## Definition
 
 Kiểm toán AI liên quan đến việc xem xét nghiêm ngặt, có cấu trúc đối với các mô hình học máy và quy trình triển khai của chúng. Nó đánh giá tính công bằng, minh bạch, trách nhiệm giải trình và bảo mật để xác định các thiên kiến tiềm ẩn.

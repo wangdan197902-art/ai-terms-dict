@@ -1,23 +1,24 @@
 ---
-title: "Αντιπαραθετική Προεκπαίδευση Γλώσσας-Εικόνας"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Αντιπαραθετική Προεκπαίδευση Γλώσσας-Εικόνας
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /el/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:56:52.895677Z"
-lastmod: "2026-07-18T17:15:09.892752Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:56:52.895677Z'
+lastmod: '2026-07-18T17:15:09.892752Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια πολυτροπική μέθοδος προεκπαίδευσης που ευθυγραμμίζει τις αναπαραστάσεις εικόνας και κείμενου χρησιμοποιώντας συναρτήσεις απωλειών αντιπαραθετικής φύσης."
+source: agnes_llm
+status: published
+language: el
+description: Μια πολυτροπική μέθοδος προεκπαίδευσης που ευθυγραμμίζει τις αναπαραστάσεις
+  εικόνας και κείμενου χρησιμοποιώντας συναρτήσεις απωλειών αντιπαραθετικής φύσης.
 ---
-
 ## Definition
 
 Η Αντιπαραθετική Προεκπαίδευση Γλώσσας-Εικόνας (CLIP) είναι μια αρχιτεκτονική νευρωνικού δικτύου εκπαιδευμένη σε εικόνες και τους αντίστοιχους λεκτικούς τους περιγραφείς από το διαδίκτυο. Χρησιμοποιεί ένα αντιπαραθετικό αντικειμενικό σκοπό για τη μεγιστοποίηση της κοιν...

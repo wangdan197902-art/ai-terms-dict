@@ -1,23 +1,24 @@
 ---
-title: "Tale-til-tale"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Tale-til-tale
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /da/terms/speech_to_speech/
-date: "2026-07-18T16:18:53.679326Z"
-lastmod: "2026-07-18T17:15:09.333330Z"
+slug: speech_to_speech
+date: '2026-07-18T16:18:53.679326Z'
+lastmod: '2026-07-18T17:15:09.333330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En oversættelsesparadigme, der konverterer indtalt tale direkte til syntetiseret tale på et andet sprog."
+source: agnes_llm
+status: published
+language: da
+description: En oversættelsesparadigme, der konverterer indtalt tale direkte til syntetiseret
+  tale på et andet sprog.
 ---
-
 ## Definition
 
 Tale-til-tale (STS)-oversættelse springer over mellemværende tekstrepræsentationer for at konvertere tale fra sprog A direkte til tale på sprog B. Denne tilgang sigter mod at bevare prosodi, følelsesudtryk og naturlig flyd.

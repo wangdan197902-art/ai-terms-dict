@@ -1,23 +1,23 @@
 ---
-title: "透かし（ウォーターマーク）"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: 透かし（ウォーターマーク）
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /ja/terms/watermarking/
-date: "2026-07-18T11:36:21.548664Z"
-lastmod: "2026-07-18T11:44:45.154709Z"
+slug: watermarking
+date: '2026-07-18T11:36:21.548664Z'
+lastmod: '2026-07-18T11:44:45.154709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "AIにおける透かし処理とは、生成されたコンテンツに目に見えない、または目に見える識別子を埋め込み、その出典を示して人間が作成した素材と区別することを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: AIにおける透かし処理とは、生成されたコンテンツに目に見えない、または目に見える識別子を埋め込み、その出典を示して人間が作成した素材と区別することを指します。
 ---
-
 ## Definition
 
 生成AIがますます多くの合成メディアを生成する中、透かし処理は透明性と説明責任のための重要なツールとなります。これは、画像、テキストなど、デジタルコンテンツを変更することを含みます。

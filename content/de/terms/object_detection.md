@@ -1,23 +1,24 @@
 ---
-title: "Objekterkennung"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: Objekterkennung
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /de/terms/object_detection/
-date: "2026-07-18T11:25:44.483791Z"
-lastmod: "2026-07-18T11:44:44.971206Z"
+slug: object_detection
+date: '2026-07-18T11:25:44.483791Z'
+lastmod: '2026-07-18T11:44:44.971206Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik der Computer Vision, die Objekte in Bildern oder Videoströmen identifiziert und lokalisiert, indem sie Begrenzungsrahmen verwendet."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik der Computer Vision, die Objekte in Bildern oder Videoströmen
+  identifiziert und lokalisiert, indem sie Begrenzungsrahmen verwendet.
 ---
-
 ## Definition
 
 Die Objekterkennung erweitert die Bildklassifizierung, indem sie nicht nur bestimmt, welche Objekte vorhanden sind, sondern auch, wo sie sich befinden. Sie gibt Koordinaten für Begrenzungsrahmen um erkannte Elemente sowie deren K...

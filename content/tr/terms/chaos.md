@@ -7,8 +7,6 @@ tags: ["theory", "complexity", "mathematics"]
 difficulty: 4
 weight: 1
 slug: "chaos"
-aliases:
-  - /tr/terms/chaos/
 date: "2026-07-18T15:44:38.453346Z"
 lastmod: "2026-07-18T16:38:07.280724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada kaos, başlangıç koşullarına karşı son derece hassas olan, genellikle rastgele görünse de deterministik kurallarla yönetilen karmaşık ve doğrusal olmayan dinamik sistemleri ifade eder."
 ---
-
 ## Definition
 
 Kaos teorisi, başlangıç parametrelerindeki küçük farklılıkların karmaşık sistemlerde nasıl çok farklı sonuçlara yol açabileceğini inceler. Yapay zekada kaotik davranışların anlaşılması, modelleme ve tahmin süreçlerinde kritik öneme sahiptir.

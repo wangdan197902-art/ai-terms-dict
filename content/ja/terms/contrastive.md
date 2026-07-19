@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /ja/terms/contrastive/
 date: "2026-07-18T10:49:37.381887Z"
 lastmod: "2026-07-18T11:44:45.003838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "対照的学習は、類似したデータペアと異なるデータペアを区別するようにモデルを訓練する自己教師あり学習の手法です。"
 ---
-
 ## Definition
 
 この方法は、正のペア（類似するアイテム）の埋め込みを近くに引き寄せながら、負のペア（異なるアイテム）の埋め込みを潜在空間で遠ざけるようにモデルを促します。これは、画像認識や推薦システムなどで広く使用されており、ラベル付けされていないデータから強力な表現を学習するのに役立ちます。

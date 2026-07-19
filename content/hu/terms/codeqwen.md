@@ -7,8 +7,6 @@ tags: ["AI Models", "Development Tools"]
 difficulty: 3
 weight: 1
 slug: "codeqwen"
-aliases:
-  - /hu/terms/codeqwen/
 date: "2026-07-18T15:50:12.606156Z"
 lastmod: "2026-07-18T17:15:09.762599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A CodeQwen egy speciális, nagy nyelvi modell, amelyet szoftverfejlesztési feladatokra optimalizáltak, beleértve a kódgenerálást, megértést és hibakeresést."
 ---
-
 ## Definition
 
 A CodeQwen az Alibaba Cloud által fejlesztett Qwen sorozat egyik változata, amelyet kifejezetten a programozással kapcsolatos tevékenységekben való kiváló teljesítményre finomhangoltak. A haladó transzformer architektúrákat használja a kódok megértéséhez és generálásához.

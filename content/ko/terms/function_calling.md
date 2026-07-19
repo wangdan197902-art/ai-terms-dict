@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /ko/terms/function_calling/
 date: "2026-07-18T15:34:33.739730Z"
 lastmod: "2026-07-18T16:38:06.795657Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "함수 호출은 대규모 언어 모델(LLM)이 구조화된 데이터를 출력하여 특정 소프트웨어 함수를 트리거(실행)할 수 있게 하는 메커니즘입니다."
 ---
-
 ## Definition
 
 함수 호출은 대규모 언어 모델이 외부 도구 및 API와 상호작용할 수 있도록 합니다. 모델은 실행할 함수 이름과 필요한 인자(arguments)를 명시하는 JSON 객체와 같은 구조화된 출력을 생성합니다. 이를 통해 LLM은 단순히 텍스트를 생성하는 것을 넘어, 실제 외부 시스템과 연동하여 복잡한 작업을 수행하거나 정확한 실시간 정보를 가져올 수 있습니다.

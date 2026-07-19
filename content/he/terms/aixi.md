@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /he/terms/aixi/
 date: "2026-07-18T15:40:40.891393Z"
 lastmod: "2026-07-18T17:15:09.509105Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "AIXI היא תיאוריה מתמטית של בינה כללית מלאכותית המדגמת סוכן אידיאלי האינטראקטיבי עם סביבתו."
 ---
-
 ## Definition
 
 AIXI הוא מסגרת תיאורטית שהוצעה על ידי מרקוס האוטר המגדירה סוכן אינטליגנטי אידיאלי. היא משלבת אינדוקציית סולומון לניבוי הסביבה עם למידת חיזוק לקבלת החלטות...

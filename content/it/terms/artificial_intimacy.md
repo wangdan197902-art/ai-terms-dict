@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /it/terms/artificial_intimacy/
 date: "2026-07-18T15:48:09.213022Z"
 lastmod: "2026-07-18T17:15:08.599591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La connessione emotiva che gli utenti sviluppano con entità di IA che simulano empatia, compagnia e interazione personale."
 ---
-
 ## Definition
 
 L'intimità artificiale si riferisce al fenomeno psicologico in cui gli esseri umani sviluppano legami emotivi genuini con agenti artificiali, come chatbot, assistenti virtuali o robot sociali. Questi sistemi sono

@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Neuroscience", "Terminology"]
 difficulty: 4
 weight: 1
 slug: "wetware"
-aliases:
-  - /vi/terms/wetware/
 date: "2026-07-18T16:16:23.163068Z"
 lastmod: "2026-07-18T16:38:07.817109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật ngữ chỉ não bộ sinh học hoặc mô sống, thường được sử dụng để đối chiếu với phần cứng và phần mềm trong các ngữ cảnh điện toán."
 ---
-
 ## Definition
 
 Ban đầu, Wetware đề cập đến mô não sinh học, nhưng trong lĩnh vực điều khiển học và chủ nghĩa siêu nhân, thuật ngữ này đã phát triển để mô tả tâm trí hoặc não bộ con người như một hệ thống tính toán. Nó tương phản với 'phần cứng' (thiết bị vật lý) và 'phần mềm' (chương trình logic), nhấn mạnh vào khía cạnh sinh học, hóa học và thần kinh của quá trình xử lý thông tin và ý thức con người.

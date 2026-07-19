@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /ja/terms/react/
 date: "2026-07-18T11:00:21.252633Z"
 lastmod: "2026-07-18T11:44:45.054002Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ReActは、推論と行動を組み合わせて、複雑なタスクにおける大規模言語モデルの性能を向上させるプロンプティングパラダイムです。"
 ---
-
 ## Definition
 
 ReActフレームワークは、大規模言語モデル（LLM）が推論プロセスとタスク固有の行動を交互に生成することを可能にします。人間の思考過程をシミュレートすることで、モデルは外部環境と対話し、より正確な回答や行動を選択できるようになります。

@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /ar/terms/grammar_systems_theory/
 date: "2026-07-18T16:00:04.958450Z"
 lastmod: "2026-07-18T17:15:08.509700Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظرية أنظمة القواعد هي فرع من نظرية اللغات الرسمية يدرس النماذج الحسابية القائمة على تفاعل القواعد في بيئات متوازية أو موزعة."
 ---
-
 ## Definition
 
 نشأت من علوم الكمبيوتر النظرية واللغويات، تمتد هذه المجال بمفاهيم تسلسل تشومسكي الكلاسيكي إلى الأنظمة متعددة المكونات. تبحث في كيفية تفاعل القواعد أو المكونات المتعددة معاً.

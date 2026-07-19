@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /pl/terms/relational_data_mining/
 date: "2026-07-18T16:14:49.376246Z"
 lastmod: "2026-07-18T17:15:08.913649Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces odkrywania wzorców i wiedzy z danych składających się z wielu powiązanych ze sobą tabel lub encji."
 ---
-
 ## Definition
 
 Górniczość danych relacyjnych koncentruje się na ekstrakcji użytecznych informacji z baz danych, w których dane są zorganizowane w wiele powiązanych tabel, a nie w jedną płaską tabelę. Wykorzystuje ona relacje między różnymi encjami do lepszego zrozumienia struktury danych.

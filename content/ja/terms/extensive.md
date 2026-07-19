@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /ja/terms/extensive/
 date: "2026-07-18T10:50:49.610397Z"
 lastmod: "2026-07-18T11:44:45.008444Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "大規模な範囲、ボリューム、またはシナリオの幅をカバーするAIデータセット、計算、または評価を指す。"
 ---
-
 ## Definition
 
 広範なとは、大規模なデータセット、広範な評価スイート、または重い計算負荷など、AI操作の規模と包括性を指します。広範なデータセットは、モデルの汎化性能を確保し、過学習を防ぐために重要です。

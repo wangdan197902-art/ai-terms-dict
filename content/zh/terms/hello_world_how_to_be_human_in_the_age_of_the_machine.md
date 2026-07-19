@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /zh/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T11:20:51.262153Z"
 lastmod: "2026-07-18T11:44:45.513016Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一本探讨人性与技术交汇处的书籍标题，常在关于人工智能伦理和未来工作的讨论中被引用。"
 ---
-
 ## Definition
 
 该短语指的是一部特定的文学作品，考察人类如何在快速的技术进步中保持相关性和尊严。在人工智能话语中，它作为一个文化参考点...

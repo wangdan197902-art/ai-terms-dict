@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /hu/terms/observability/
 date: "2026-07-18T16:16:03.814382Z"
 lastmod: "2026-07-18T17:15:09.818921Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A megfigyelhetőség azt méri, hogy milyen mértékben következtethetünk egy rendszer belső állapotára a naplók, metrikák és nyomkövetések (traces) formájú külső kimenetek alapján."
 ---
-
 ## Definition
 
 Az AI mérnöki gyakorlatban a megfigyelhetőség azt a képességet jelenti, hogy a komplex gépi tanulási rendszerek belső állapotát a külső kimenetek elemzésével megérthetjük. Ez túlmutat a hagyományos monitorozáson, lehetővé téve a rendszerek mélyebb diagnosztizálását és az eltérések gyors azonosítását.

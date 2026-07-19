@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /nl/terms/proaftn/
-date: "2026-07-18T16:13:03.823084Z"
-lastmod: "2026-07-18T17:15:08.778310Z"
+slug: proaftn
+date: '2026-07-18T16:13:03.823084Z'
+lastmod: '2026-07-18T17:15:08.778310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Probabilistic Relational Algebra for Functional Time-series Networks, een raamwerk voor het modelleren van dynamische systemen."
+source: agnes_llm
+status: published
+language: nl
+description: Probabilistic Relational Algebra for Functional Time-series Networks,
+  een raamwerk voor het modelleren van dynamische systemen.
 ---
-
 ## Definition
 
 Praftn is een gespecialiseerd computerraamwerk dat is ontworpen om functionele tijdreeksgegevens binnen relationele structuren te verwerken. Het combineert probabilistisch redeneren met algebraïsche bewerkingen om complexe...

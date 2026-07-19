@@ -1,23 +1,24 @@
 ---
-title: "การสร้างกฎโดยอุปนัย"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: การสร้างกฎโดยอุปนัย
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /th/terms/rule_induction/
-date: "2026-07-18T16:14:07.977016Z"
-lastmod: "2026-07-18T16:38:07.651509Z"
+slug: rule_induction
+date: '2026-07-18T16:14:07.977016Z'
+lastmod: '2026-07-18T16:38:07.651509Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเรียนรู้ของเครื่องที่สร้างชุดกฎตรรกะจากข้อมูลการฝึกที่ติดป้ายกำกับ เพื่อใช้จำแนกประเภทข้อมูลใหม่โดยอัตโนมัติ"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเรียนรู้ของเครื่องที่สร้างชุดกฎตรรกะจากข้อมูลการฝึกที่ติดป้ายกำกับ
+  เพื่อใช้จำแนกประเภทข้อมูลใหม่โดยอัตโนมัติ
 ---
-
 ## Definition
 
 การสร้างกฎโดยอุปนัยเป็นวิธีการเรียนรู้ของเครื่องเชิงสัญลักษณ์ที่สกัดกฎแบบ 'ถ้า-แล้ว' โดยตรงจากข้อมูล ต่างจากเครือข่ายประสาทเทียมที่ผลิตน้ำหนักที่เข้าใจยาก การสร้างกฎโดยอุปนัยให้โมเดลที่ตีความได้ง่ายและโปร่งใส

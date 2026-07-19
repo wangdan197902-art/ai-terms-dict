@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /pl/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:52:38.616449Z"
 lastmod: "2026-07-18T17:15:08.868579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Formalny framework do rozumowania o zmianach stanów wiedzy agentów wynikających z aktualizacji informacji lub zdarzeń."
 ---
-
 ## Definition
 
 Dynamiczna logika epistemiczna (DEL) rozszerza logikę modalną o modelowanie ewolucji wiedzy, gdy agenci otrzymują nowe informacje. Dostarcza narzędzi do analizy systemów wieloagentowych, w których przekonania zmieniają się w wyniku publicznych komunikatów lub prywatnych obserwacji.

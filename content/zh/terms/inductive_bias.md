@@ -1,23 +1,23 @@
 ---
-title: "Inductive Bias"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Inductive Bias
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /zh/terms/inductive_bias/
-date: "2026-07-18T11:22:14.014039Z"
-lastmod: "2026-07-18T11:44:45.517293Z"
+slug: inductive_bias
+date: '2026-07-18T11:22:14.014039Z'
+lastmod: '2026-07-18T11:44:45.517293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "学习算法用于预测训练期间未见过的输入输出的一组假设。"
+source: agnes_llm
+status: published
+language: zh
+description: 学习算法用于预测训练期间未见过的输入输出的一组假设。
 ---
-
 ## Definition
 
 归纳偏置代表了内置于机器学习模型中的固有偏好或约束，使其能够从训练数据泛化到未见过的数据。如果没有这些偏置，模型将无法...

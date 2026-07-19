@@ -7,8 +7,6 @@ tags: ["education", "literacy", "introductory"]
 difficulty: 1
 weight: 1
 slug: "elements_of_ai"
-aliases:
-  - /cs/terms/elements_of_ai/
 date: "2026-07-18T15:55:33.650808Z"
 lastmod: "2026-07-18T17:15:09.125644Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Elements of AI je bezplatný online kurz navržený tak, aby poskytl široký, netechnický úvod do konceptů umělé inteligence a jejich společenského dopadu."
 ---
-
 ## Definition
 
 Tato vzdělávací iniciativa, vytvořená Helsinskou univerzitou a společností Reaktor, má za cíl odmaskovat AI pro veřejnost. Pokrývá základní témata, jako je strojové učení, hluboké učení, etika a budoucnost práce v kontextu automatizace.

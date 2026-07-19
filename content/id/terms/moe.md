@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /id/terms/moe/
 date: "2026-07-18T16:01:07.529949Z"
 lastmod: "2026-07-18T16:38:07.484607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pola arsitektur di mana beberapa jaringan saraf khusus (pakar) digabungkan melalui mekanisme gerbang untuk memproses input."
 ---
-
 ## Definition
 
 Campuran Pakar (MoE) adalah arsitektur pembelajaran mesin yang dirancang untuk meningkatkan efisiensi dan skalabilitas. Alih-alih menggunakan satu model besar untuk semua tugas, MoE menggunakan beberapa 'pakar' kecil yang lebih spesifik n

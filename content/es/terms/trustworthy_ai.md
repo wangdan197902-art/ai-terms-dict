@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "governance"]
 difficulty: 2
 weight: 1
 slug: "trustworthy_ai"
-aliases:
-  - /es/terms/trustworthy_ai/
 date: "2026-07-18T11:11:33.175479Z"
 lastmod: "2026-07-18T11:44:44.863066Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La IA confiable se refiere a sistemas de inteligencia artificial que son seguros, seguros, transparentes, justos y responsables durante todo su ciclo de vida."
 ---
-
 ## Definition
 
 La IA confiable abarca principios y prácticas que garantizan que los sistemas de IA operen de manera fiable y ética. Los atributos clave incluyen la resistencia ante ataques, la equidad entre diversas poblaciones, la trans...

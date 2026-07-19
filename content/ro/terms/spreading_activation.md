@@ -1,23 +1,24 @@
 ---
-title: "Activare difuză"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: Activare difuză
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /ro/terms/spreading_activation/
-date: "2026-07-18T16:21:51.285587Z"
-lastmod: "2026-07-18T17:15:09.704865Z"
+slug: spreading_activation
+date: '2026-07-18T16:21:51.285587Z'
+lastmod: '2026-07-18T17:15:09.704865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un mecanism inspirat din cogniție, în care activarea unui nod declanșează activarea nodurilor conectate dintr-o rețea."
+source: agnes_llm
+status: published
+language: ro
+description: Un mecanism inspirat din cogniție, în care activarea unui nod declanșează
+  activarea nodurilor conectate dintr-o rețea.
 ---
-
 ## Definition
 
 Activarea difuză este un concept originar din psihologia cognitivă, adaptat în rețelele neuronale pentru a descrie modul în care propagarea semnalului are loc prin unități interconectate. Când un nod specific este activat, energia sau intensitatea activării se răspândește către vecinii săi, slăbindu-se pe măsură ce parcurge mai multe niveluri de conexiuni, simulând procese asociative de memorie.

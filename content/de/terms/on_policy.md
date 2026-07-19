@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /de/terms/on_policy/
 date: "2026-07-18T10:56:17.755742Z"
 lastmod: "2026-07-18T11:44:44.890298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Ansatz des bestärkenden Lernens (Reinforcement Learning), bei dem die bewertete und verbesserte Policy dieselbe ist, die zur Datengenerierung verwendet wird."
 ---
-
 ## Definition
 
 On-Policy-Algorithmen erfordern, dass der Agent direkt aus den Aktionen lernt, die von seiner aktuellen Policy unternommen werden. Das bedeutet, dass während der Exploration gesammelte Daten sofort verwendet werden, um die Policy zu aktualisieren, wodurch Konsistenz gewährleistet wird.

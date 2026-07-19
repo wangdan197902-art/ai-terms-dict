@@ -1,23 +1,24 @@
 ---
-title: "Prokletí dimenzionality"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Prokletí dimenzionality
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /cs/terms/curse_of_dimensionality/
-date: "2026-07-18T15:50:05.820112Z"
-lastmod: "2026-07-18T17:15:09.115235Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:50:05.820112Z'
+lastmod: '2026-07-18T17:15:09.115235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Fenomén, kdy objem prostoru roste exponenciálně s počtem dimenzí, což způsobuje, že data jsou řídká a metriky vzdálenosti ztrácejí efektivitu."
+source: agnes_llm
+status: published
+language: cs
+description: Fenomén, kdy objem prostoru roste exponenciálně s počtem dimenzí, což
+  způsobuje, že data jsou řídká a metriky vzdálenosti ztrácejí efektivitu.
 ---
-
 ## Definition
 
 Prokletí dimenzionality označuje různé jevy vznikající při analýze dat ve vysokorozměrných prostorech, které se nevyskytují v nízkorozměrných nastaveních. Jak počet funkcí (dimenzí) roste, data se stávají extrémně řídkými a vzdálenosti mezi body ztrácejí vypovídající hodnotu.

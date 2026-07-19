@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /ar/terms/artificial_brain/
 date: "2026-07-18T15:44:35.284628Z"
 lastmod: "2026-07-18T17:15:08.475932Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام حاسوبي مصمم لمحاكاة بنية ووظيفة الدماغ البشري البيولوجي، وغالباً ما يستخدم الشبكات العصبية."
 ---
-
 ## Definition
 
 يشير الدماغ الاصطناعي إلى هندسات الأجهزة أو البرمجيات التي تحاكي الهياكل العصبية وطرق معالجة المعلومات في الدماغ البشري. يتضمن ذلك رقائق الحوسبة العصبية التي تعيد إنتاج...

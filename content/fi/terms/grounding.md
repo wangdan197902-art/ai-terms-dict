@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /fi/terms/grounding/
 date: "2026-07-18T16:00:28.280999Z"
 lastmod: "2026-07-18T17:15:09.417480Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa abstraktit tekoälytulokset yhdistetään todellisiin faktoihin, datalähteisiin tai fyysisiin konteksteihin tarkkuuden ja relevanttiuden varmistamiseksi."
 ---
-
 ## Definition
 
 Tekoälyssä maadoitus viittaa symbolisten esitysten tai generoidun tekstin linkittämiseen konkreettisiin todellisen maailman entiteetteihin, dataan tai aistinvaraisiin kokemuksiin. Kielimalleissa tämä liittyy usein hakemiseen ja generointiin (RAG), jossa malli perustaa vastauksensa ulkoisiin, tarkistettuihin lähteisiin sen sijaan, että se luottaisi pelkästään sisäisiin painoarvoihinsa. Maadoitus auttaa vähentämään hallusinaatioita ja parantamaan faktuaalista tarkkuutta.

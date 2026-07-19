@@ -1,23 +1,22 @@
 ---
-title: "딥러닝 안티앨리어싱"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: 딥러닝 안티앨리어싱
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /ko/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T15:51:28.982874Z"
-lastmod: "2026-07-18T16:38:06.830090Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T15:51:28.982874Z'
+lastmod: '2026-07-18T16:38:06.830090Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "계단 현상(jagged edges)과 같은 시각적 아티팩트를 줄이기 위해 신경망을 사용하는 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 계단 현상(jagged edges)과 같은 시각적 아티팩트를 줄이기 위해 신경망을 사용하는 기법입니다.
 ---
-
 ## Definition
 
 딥러닝 안티앨리어싱은 고주파 신호가 불충분한 샘플링률로 샘플링될 때 발생하는 앨리어싱 아티팩트를 완화하기 위해 신경망을 활용하는 방법을 지칭합니다. 컴퓨터 그래픽 및 영상 처리 분야에서 이미지의 품질을 개선하는 데 사용됩니다.

@@ -1,23 +1,24 @@
 ---
-title: "Индукция правил"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Индукция правил
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /ru/terms/rule_induction/
-date: "2026-07-18T16:13:24.122903Z"
-lastmod: "2026-07-18T16:38:07.199479Z"
+slug: rule_induction
+date: '2026-07-18T16:13:24.122903Z'
+lastmod: '2026-07-18T16:38:07.199479Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника машинного обучения, автоматически генерирующая набор логических правил из размеченных обучающих данных для классификации новых объектов."
+source: agnes_llm
+status: published
+language: ru
+description: Техника машинного обучения, автоматически генерирующая набор логических
+  правил из размеченных обучающих данных для классификации новых объектов.
 ---
-
 ## Definition
 
 Индукция правил — это метод символического машинного обучения, который выводит правила типа «если-то» непосредственно из данных. В отличие от нейронных сетей, производящих непрозрачные веса, индукция правил дает интерпретируемые модели, содер

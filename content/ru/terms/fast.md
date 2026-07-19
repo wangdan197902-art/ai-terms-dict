@@ -1,23 +1,23 @@
 ---
-title: "Быстрый"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: Быстрый
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /ru/terms/fast/
-date: "2026-07-18T15:25:21.561404Z"
-lastmod: "2026-07-18T16:38:07.075140Z"
+slug: fast
+date: '2026-07-18T15:25:21.561404Z'
+lastmod: '2026-07-18T16:38:07.075140Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В ИИ термин «быстрый» относится к системам или алгоритмам, оптимизированным для низкой задержки и высокой пропускной способности при обработке задач."
+source: agnes_llm
+status: published
+language: ru
+description: В ИИ термин «быстрый» относится к системам или алгоритмам, оптимизированным
+  для низкой задержки и высокой пропускной способности при обработке задач.
 ---
-
 ## Definition
 
 Термин «быстрый» описывает вычислительную эффективность в моделях искусственного интеллекта, подчеркивая быстрое время вывода и возможности быстрой обработки данных. Это критически важно для приложений реального времени.

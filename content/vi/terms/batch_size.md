@@ -1,23 +1,24 @@
 ---
-title: "Kích thước lô"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Kích thước lô
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /vi/terms/batch_size/
-date: "2026-07-18T15:42:27.521645Z"
-lastmod: "2026-07-18T16:38:07.732411Z"
+slug: batch_size
+date: '2026-07-18T15:42:27.521645Z'
+lastmod: '2026-07-18T16:38:07.732411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Số lượng ví dụ huấn luyện được sử dụng trong một lần lặp của thuật toán descent gradient ngẫu nhiên."
+source: agnes_llm
+status: published
+language: vi
+description: Số lượng ví dụ huấn luyện được sử dụng trong một lần lặp của thuật toán
+  descent gradient ngẫu nhiên.
 ---
-
 ## Definition
 
 Kích thước lô là một siêu tham số quan trọng xác định có bao nhiêu mẫu được xử lý trước khi các tham số bên trong của mô hình được cập nhật. Kích thước lô lớn hơn cung cấp ước tính chính xác hơn về gradient trung bình.

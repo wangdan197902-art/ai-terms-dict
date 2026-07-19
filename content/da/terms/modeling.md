@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /da/terms/modeling/
 date: "2026-07-18T15:27:20.638808Z"
 lastmod: "2026-07-18T17:15:09.228600Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Modellering er processen med at skabe abstrakte repræsentationer af virkelighedens systemer eller datafordelinger for at muliggøre forudsigelse, simulering eller beslutningstagning."
 ---
-
 ## Definition
 
 AI-modellering dækker over hele arbejdsgangen med at designe, træne og validere algoritmer, der lærer mønstre fra data. Det involverer valg af passende arkitekturer, definition af tabfunktioner og

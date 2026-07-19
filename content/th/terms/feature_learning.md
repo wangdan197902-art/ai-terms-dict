@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้คุณลักษณะ (Feature Learning)"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: การเรียนรู้คุณลักษณะ (Feature Learning)
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /th/terms/feature_learning/
-date: "2026-07-18T15:53:39.072070Z"
-lastmod: "2026-07-18T16:38:07.605928Z"
+slug: feature_learning
+date: '2026-07-18T15:53:39.072070Z'
+lastmod: '2026-07-18T16:38:07.605928Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทางที่อัลกอริทึมค้นพบคุณลักษณะที่จำเป็นสำหรับการตรวจจับหรือจำแนกประเภทจากข้อมูลดิบโดยอัตโนมัติ"
+source: agnes_llm
+status: published
+language: th
+description: แนวทางที่อัลกอริทึมค้นพบคุณลักษณะที่จำเป็นสำหรับการตรวจจับหรือจำแนกประเภทจากข้อมูลดิบโดยอัตโนมัติ
 ---
-
 ## Definition
 
 การเรียนรู้คุณลักษณะ มักเกี่ยวข้องกับการเรียนรู้เชิงลึก ช่วยให้คุณลักษณะสามารถเรียนรู้การแสดงข้อมูลเชิงลำดับชั้นโดยตรงจากข้อมูลอินพุตดิบ แทนที่จะพึ่งพาการวิศวกรรมคุณลักษณะด้วยมือ ผ่านชั้นต่างๆ ของเครือข่าย โมเดลจะสามารถสกัดคุณสมบัติที่สำคัญและมีความหมายมากขึ้นเรื่อยๆ จากข้อมูลพื้นฐานได้

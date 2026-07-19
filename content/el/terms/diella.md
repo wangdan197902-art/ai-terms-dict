@@ -1,23 +1,23 @@
 ---
-title: "Diella"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /el/terms/diella/
-date: "2026-07-18T16:02:25.191549Z"
-lastmod: "2026-07-18T17:15:09.900772Z"
+slug: diella
+date: '2026-07-18T16:02:25.191549Z'
+lastmod: '2026-07-18T17:15:09.900772Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια εξειδικευμένη αρχιτεκτονική βαθιάς μάθησης σχεδιασμένη για αποτελεσματικές εργασίες υπερ-ανάλυσης και αποκατάστασης εικόνων."
+source: agnes_llm
+status: published
+language: el
+description: Μια εξειδικευμένη αρχιτεκτονική βαθιάς μάθησης σχεδιασμένη για αποτελεσματικές
+  εργασίες υπερ-ανάλυσης και αποκατάστασης εικόνων.
 ---
-
 ## Definition
 
 Το Diella αναφέρεται σε συγκεκριμένα μοντέλα νευρωνικών δικτύων βελτιστοποιημένα για τη βελτίωση της ποιότητας εικόνας μέσω αύξησης της ανάλυσης ή αφαίρεσης θορύβου. Αυτές οι αρχιτεκτονικές συνήθως χρησιμοποιούν προηγμένους μηχανισμούς προσοχής ή ειδικές δομές για τη διατήρηση λεπτομερειών.

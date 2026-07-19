@@ -1,23 +1,23 @@
 ---
-title: "Posilování"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Posilování
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /cs/terms/reinforcement/
-date: "2026-07-18T15:28:26.004331Z"
-lastmod: "2026-07-18T17:15:09.076188Z"
+slug: reinforcement
+date: '2026-07-18T15:28:26.004331Z'
+lastmod: '2026-07-18T17:15:09.076188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Posilování označuje proces modifikace chování pomocí odměn nebo trestů za účelem optimalizace rozhodování."
+source: agnes_llm
+status: published
+language: cs
+description: Posilování označuje proces modifikace chování pomocí odměn nebo trestů
+  za účelem optimalizace rozhodování.
 ---
-
 ## Definition
 
 Posilování je základní psychologický a výpočetní mechanismus, při kterém jsou akenty agenta ovlivňovány následky jeho činů. Ve strojovém učení zahrnuje poskytování pozitivní zpětné vazby (odměn) za správná rozhodnutí.

@@ -1,23 +1,24 @@
 ---
-title: "تعلم الروبوتات"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: تعلم الروبوتات
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /ar/terms/robot_learning/
-date: "2026-07-18T16:19:37.068411Z"
-lastmod: "2026-07-18T17:15:08.544990Z"
+slug: robot_learning
+date: '2026-07-18T16:19:37.068411Z'
+lastmod: '2026-07-18T17:15:08.544990Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "فرع فرعي من علم الروبوتات يركز على تمكين الروبوتات من اكتساب المهارات وتحسين أدائها من خلال الخبرة والتفاعل مع بيئتها."
+source: agnes_llm
+status: published
+language: ar
+description: فرع فرعي من علم الروبوتات يركز على تمكين الروبوتات من اكتساب المهارات
+  وتحسين أدائها من خلال الخبرة والتفاعل مع بيئتها.
 ---
-
 ## Definition
 
 يتضمن تعلم الروبوتات تدريب وكلاء الروبوتات على أداء المهام بشكل مستقل من خلال الاستفادة من تقنيات التعلم الآلي. وعلى عكس السلوكيات المبرمجة مسبقاً، تتكيف هذه الأنظمة مع البيئات الديناميكية المتغيرة.

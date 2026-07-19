@@ -1,23 +1,24 @@
 ---
-title: "Implantação Contínua"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Implantação Contínua
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /pt/terms/continuous_deployment/
-date: "2026-07-18T14:54:32.173860Z"
-lastmod: "2026-07-18T15:51:59.474525Z"
+slug: continuous_deployment
+date: '2026-07-18T14:54:32.173860Z'
+lastmod: '2026-07-18T15:51:59.474525Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma prática de engenharia de software na qual cada alteração de código que passa nos testes automatizados é lançada automaticamente em produção."
+source: agnes_llm
+status: published
+language: pt
+description: Uma prática de engenharia de software na qual cada alteração de código
+  que passa nos testes automatizados é lançada automaticamente em produção.
 ---
-
 ## Definition
 
 A Implantação Contínua é uma extensão da entrega contínua que automatiza todo o processo de lançamento. Uma vez que as alterações no código passam por todas as barreiras de qualidade, incluindo testes unitários, testes de integração e segurança...

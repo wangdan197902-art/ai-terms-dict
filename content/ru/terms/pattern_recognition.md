@@ -1,23 +1,24 @@
 ---
-title: "Распознавание образов"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Распознавание образов
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /ru/terms/pattern_recognition/
-date: "2026-07-18T16:09:32.793610Z"
-lastmod: "2026-07-18T16:38:07.190371Z"
+slug: pattern_recognition
+date: '2026-07-18T16:09:32.793610Z'
+lastmod: '2026-07-18T16:38:07.190371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Автоматическое выявление закономерностей и структур в данных с использованием статистических методов и методов машинного обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Автоматическое выявление закономерностей и структур в данных с использованием
+  статистических методов и методов машинного обучения.
 ---
-
 ## Definition
 
 Распознавание образов — это раздел искусственного интеллекта и статистики, занимающийся выявлением закономерностей в данных. Оно включает классификацию входных данных по заранее определенным категориям на основе извлеченных признаков, что позволяет системам автоматически идентифицировать объекты, звуки или тексты.

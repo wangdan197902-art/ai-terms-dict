@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /zh/terms/ai_security_institute/
 date: "2026-07-18T11:02:40.820857Z"
 lastmod: "2026-07-18T11:44:45.433112Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "致力于研究、开发和推广保障人工智能系统最佳实践的组织。"
 ---
-
 ## Definition
 
 AI 安全研究所是专注于减轻人工智能技术相关风险的专门机构。这些研究所开展关于对抗性攻击、数据隐私等方面的研究。

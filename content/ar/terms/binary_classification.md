@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /ar/terms/binary_classification/
 date: "2026-07-18T15:47:25.653010Z"
 lastmod: "2026-07-18T17:15:08.481953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مهمة في التعلم الخاضع للإشراف تهدف إلى التنبؤ بإحدى فئتين محتملتين لكل مثيل إدخال."
 ---
-
 ## Definition
 
 التصنيف الثنائي هو مشكلة أساسية في تعلم الآلة حيث تكون المتغير المخرج فئوياً ويحتوي بالضبط على نتيجتين ممكنتين، مثل صحيح/خطأ أو رسائل غير مرغوب فيها/غير غير مرغوب فيها. خوارزميات مثل الانحدار اللوجستي تُستخدم عادةً لهذا الغرض.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /sv/terms/information/
 date: "2026-07-18T15:27:04.076323Z"
 lastmod: "2026-07-18T17:15:08.944153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Information avser bearbetad data som förmedlar mening, minskar osäkerhet eller ger mottagaren kontext."
 ---
-
 ## Definition
 
 Inom AI och datavetenskap skiljer sig information från rådata. Den representerar data som har organiserats, strukturerats eller tolkats för att få betydelse och användbarhet. Information reducerar entropi genom att...

@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /tr/terms/consent/
 date: "2026-07-18T15:46:04.805884Z"
 lastmod: "2026-07-18T16:38:07.285966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bireylerin verilerinin yapay zeka amaçları için toplanmasına ve işlenmesine izin vermek üzere açık ve bilinçli rızaları."
 ---
-
 ## Definition
 
 Yapay zeka etiğinde onam, kişisel verilerin makine öğrenimi modellerinde toplanmadan, saklanmadan veya kullanılmadan önce kullanıcılar veya konular tarafından verilen gönüllü ve bilgilendirilmiş izni ifade eder.

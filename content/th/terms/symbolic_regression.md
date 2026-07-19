@@ -1,23 +1,23 @@
 ---
-title: "การถดถอยเชิงสัญลักษณ์"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: การถดถอยเชิงสัญลักษณ์
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /th/terms/symbolic_regression/
-date: "2026-07-18T16:17:15.132111Z"
-lastmod: "2026-07-18T16:38:07.660125Z"
+slug: symbolic_regression
+date: '2026-07-18T16:17:15.132111Z'
+lastmod: '2026-07-18T16:38:07.660125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การถดถอยเชิงสัญลักษณ์เป็นเทคนิคที่ค้นหาสูตรคณิตศาสตร์ที่ตรงกับชุดข้อมูลได้ดีที่สุด โดยมีเป้าหมายเพื่อค้นพบสูตรที่สามารถตีความได้"
+source: agnes_llm
+status: published
+language: th
+description: การถดถอยเชิงสัญลักษณ์เป็นเทคนิคที่ค้นหาสูตรคณิตศาสตร์ที่ตรงกับชุดข้อมูลได้ดีที่สุด
+  โดยมีเป้าหมายเพื่อค้นพบสูตรที่สามารถตีความได้
 ---
-
 ## Definition
 
 การถดถอยเชิงสัญลักษณ์เป็นการวิเคราะห์การถดถอยประเภทหนึ่งที่พยายามหาสูตรคณิตศาสตร์ ซึ่งมักแสดงเป็นโครงสร้างต้นไม้ ที่เหมาะสมที่สุดกับข้อมูลที่สังเกตได้ ต่างจากการถดถอยแบบดั้งเดิม

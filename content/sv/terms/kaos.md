@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /sv/terms/kaos/
 date: "2026-07-18T16:05:18.953343Z"
 lastmod: "2026-07-18T17:15:09.017277Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En intelligent agentramverk designat för att hantera komplexa, distribuerade företagsmiljöer genom policybaserad automatisering."
 ---
-
 ## Definition
 
 KAoS är ett ramverk för intelligenta agenter utvecklat för att hantera komplexiteten i stora, distribuerade företagsystem. Det använder sig av ett policybaserat tillvägagångssätt där högnivåstyrda mål översätts till lågnivåkonfigurationer...

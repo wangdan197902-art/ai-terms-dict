@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /no/terms/speaker_change_detection/
 date: "2026-07-18T16:16:47.773478Z"
 lastmod: "2026-07-18T16:38:07.049129Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å identifisere punkter i et lydsignal der den aktive taleren endres."
 ---
-
 ## Definition
 
 Deteksjon av talskifte (SCD) er en teknikk brukt til å finne nøyaktige tidstempler der én taler slutter å snakke og en annen begynner. Det fungerer som et første steg i diarisering, og hjelper med å segmentere samtaler.

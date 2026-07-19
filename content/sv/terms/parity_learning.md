@@ -1,23 +1,24 @@
 ---
-title: "Paritetsinlärning"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Paritetsinlärning
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /sv/terms/parity_learning/
-date: "2026-07-18T16:12:58.582415Z"
-lastmod: "2026-07-18T17:15:09.035134Z"
+slug: parity_learning
+date: '2026-07-18T16:12:58.582415Z'
+lastmod: '2026-07-18T17:15:09.035134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett teoretiskt maskininlärningsproblem fokuserat på att förutsäga XOR-summan av binära indata, använt för att testa modellens uttrycksförmåga."
+source: agnes_llm
+status: published
+language: sv
+description: Ett teoretiskt maskininlärningsproblem fokuserat på att förutsäga XOR-summan
+  av binära indata, använt för att testa modellens uttrycksförmåga.
 ---
-
 ## Definition
 
 Paritetsinlärning är ett benchmark-problem inom maskininlärningsteori där målet är att förutsäga pariteten (XOR-summan) av en mängd binära indatavariabler. Det är känt för att vara svårt för vanliga framåtriktade nätverk utan dolda lager eller specifika arkitekturer, då det kräver att modellen kan lära sig långsiktiga beroenden och icke-linjära relationer mellan alla indata.

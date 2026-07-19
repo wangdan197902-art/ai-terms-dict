@@ -1,23 +1,24 @@
 ---
-title: "Chính quy đa tạp"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Chính quy đa tạp
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /vi/terms/manifold_regularization/
-date: "2026-07-18T16:02:22.002458Z"
-lastmod: "2026-07-18T16:38:07.780289Z"
+slug: manifold_regularization
+date: '2026-07-18T16:02:22.002458Z'
+lastmod: '2026-07-18T16:38:07.780289Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật học bán giám sát dựa trên giả định dữ liệu nằm trên một đa tạp chiều thấp và chính quy hóa mô hình dựa trên cấu trúc hình học này."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật học bán giám sát dựa trên giả định dữ liệu nằm trên một
+  đa tạp chiều thấp và chính quy hóa mô hình dựa trên cấu trúc hình học này.
 ---
-
 ## Definition
 
 Chính quy đa tạp mở rộng các phương pháp chính quy truyền thống bằng cách kết hợp hình học nội tại của phân phối dữ liệu. Nó hoạt động dựa trên giả định rằng các điểm dữ liệu chiều cao

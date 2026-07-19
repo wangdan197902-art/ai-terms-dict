@@ -1,23 +1,23 @@
 ---
-title: "Trefaktorlæring"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: Trefaktorlæring
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /no/terms/three_factor_learning/
-date: "2026-07-18T16:19:05.706847Z"
-lastmod: "2026-07-18T16:38:07.054114Z"
+slug: three_factor_learning
+date: '2026-07-18T16:19:05.706847Z'
+lastmod: '2026-07-18T16:38:07.054114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et forsterkningslæringsrammeverk som bruker belønning, verdi og politikk-faktorer for å optimalisere agentens oppførsel."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et forsterkningslæringsrammeverk som bruker belønning, verdi og politikk-faktorer
+  for å optimalisere agentens oppførsel.
 ---
-
 ## Definition
 
 Trefaktorlæring er en spesifikk tilnærming innen forsterkningslæring som deler læringsprosessen inn i tre distinkte komponenter: belønningsignalet, verdifunksjonen og politikken. Denne metoden...

@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /nl/terms/memory/
 date: "2026-07-18T15:37:48.171185Z"
 lastmod: "2026-07-18T17:15:08.706293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het vermogen van een AI-systeem om informatie op te slaan, op te halen en te gebruiken tijdens interacties om de context te behouden en de prestaties in de loop van de tijd te verbeteren."
 ---
-
 ## Definition
 
 In kunstmatige intelligentie verwijst geheugen naar mechanismen die modellen in staat stellen informatie te behouden buiten een enkele inferentiestap. Dit omvat kortetermijn-werkgeheugen voor directe context binnen een s

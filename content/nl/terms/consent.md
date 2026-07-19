@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /nl/terms/consent/
 date: "2026-07-18T15:47:25.931693Z"
 lastmod: "2026-07-18T17:15:08.728509Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De expliciete, geïnformeerde overeenkomst van individuen om hun gegevens te laten verzamelen en verwerken voor AI-doeleinden."
 ---
-
 ## Definition
 
 In AI-ethiek verwijst toestemming naar de vrijwillige en geïnformeerde toestemming die gebruikers of proefpersonen verlenen voordat hun persoonlijke gegevens worden verzameld, opgeslagen of gebruikt in machine learning-modellen. Dit vereist dat de persoon volledig begrijpt hoe zijn of haar data zal worden gebruikt.

@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /zh/terms/constitutional_ai/
 date: "2026-07-18T11:11:15.321151Z"
 lastmod: "2026-07-18T11:44:45.461623Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种通过基于预定义原则的自我批评，训练人工智能模型遵循安全指南的方法。"
 ---
-
 ## Definition
 
 宪法人工智能是一种框架，旨在使大型语言模型与人类价值观保持一致，而无需在每个步骤都完全依赖人类反馈。它涉及创建一套高层级的“宪法”原则，让模型根据这些原则进行自我修正和对齐。

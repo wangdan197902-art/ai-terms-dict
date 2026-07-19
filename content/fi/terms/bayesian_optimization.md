@@ -1,23 +1,24 @@
 ---
-title: "Bayesiläinen optimointi"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesiläinen optimointi
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /fi/terms/bayesian_optimization/
-date: "2026-07-18T15:45:17.608895Z"
-lastmod: "2026-07-18T17:15:09.387937Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:45:17.608895Z'
+lastmod: '2026-07-18T17:15:09.387937Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Järjestelmällinen suunnittelustrategia mustan laatikon funktioiden globaaliin optimointiin, joiden arviointi on kallista."
+source: agnes_llm
+status: published
+language: fi
+description: Järjestelmällinen suunnittelustrategia mustan laatikon funktioiden globaaliin
+  optimointiin, joiden arviointi on kallista.
 ---
-
 ## Definition
 
 Bayesiläinen optimointi käyttää todennäköisyyteen perustuvaa sijaismallia (yleensä Gaussin prosessi) mallintamaan kohdefunktiota. Se käyttää hankintafunktiota (acquisition function) tasapainottaakseen tutkimista (exploration) ja hyödyntämistä (exploitation) tehokkaasti.

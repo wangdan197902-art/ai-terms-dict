@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /nl/terms/intelligent_agent/
 date: "2026-07-18T16:00:50.115566Z"
 lastmod: "2026-07-18T17:15:08.756681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een autonome software-eenheid die zijn omgeving waarneemt, redeneert over acties en taken uitvoert om specifieke doelen te bereiken."
 ---
-
 ## Definition
 
 Een intelligente agent is een systeem dat in staat is zijn omgeving waar te nemen via sensoren of gegevensinvoer, deze informatie te verwerken met behulp van redeneeralgoritmen en te handelen in de omgeving via actuatoren

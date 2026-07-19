@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /vi/terms/humanai_interaction/
 date: "2026-07-18T15:56:55.982764Z"
 lastmod: "2026-07-18T16:38:07.766554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nghiên cứu và thực hành về cách con người giao tiếp, kiểm soát và hợp tác với các hệ thống trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 Tương tác Người–AI (HAI) là một lĩnh vực liên ngành nghiên cứu các động lực giữa con người và công nghệ AI. Nó tập trung vào việc thiết kế các giao diện trực quan, giao thức giao tiếp và các cơ chế hợp tác hiệu quả...

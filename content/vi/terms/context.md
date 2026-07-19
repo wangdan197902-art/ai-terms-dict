@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /vi/terms/context/
 date: "2026-07-18T15:23:58.453123Z"
 lastmod: "2026-07-18T16:38:07.681782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Ngữ cảnh đề cập đến thông tin hoặc môi trường xung quanh giúp mô hình AI diễn giải dữ liệu đầu vào một cách chính xác và tạo ra các phản hồi phù hợp."
 ---
-
 ## Definition
 
 Trong xử lý ngôn ngữ tự nhiên, ngữ cảnh đóng vai trò quan trọng trong việc giải quyết sự mơ hồ, chẳng hạn như hiểu đại từ hoặc thành ngữ dựa trên các câu trước đó. Các kiến trúc hiện đại như transformer sử dụng cơ chế chú ý...

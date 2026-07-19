@@ -1,23 +1,24 @@
 ---
-title: "Identificarea limbii materne"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identificarea limbii materne
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /ro/terms/native_language_identification/
-date: "2026-07-18T16:13:21.747427Z"
-lastmod: "2026-07-18T17:15:09.685532Z"
+slug: native_language_identification
+date: '2026-07-18T16:13:21.747427Z'
+lastmod: '2026-07-18T17:15:09.685532Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de determinare automată a limbii materne a unui vorbitor pe baza eșantioanelor sale de vorbire sau text."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de determinare automată a limbii materne a unui vorbitor pe
+  baza eșantioanelor sale de vorbire sau text.
 ---
-
 ## Definition
 
 Identificarea limbii materne (NLI) este un subdomeniu al procesării limbajului natural care se concentrează pe recunoașterea primei limbi învățate de un vorbitor. Spre deosebire de detectarea generală a limbii, NLI analizează

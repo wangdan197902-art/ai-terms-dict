@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /he/terms/csm/
 date: "2026-07-18T15:50:45.947752Z"
 lastmod: "2026-07-18T17:15:09.524724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ראשי תיבות בעלי משמעות כפולה, המתייחסים בדרך כלל למודלי דיבור הקשריים או לניהול אבטחת ענן בתחומים טכניים ספציפיים, ללא הגדרה אוניברסלית ב-AI כללי."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית וטכנולוגיה, 'CSM' אינו מונח סטנדרטי אוניברסלי כמו 'CNN' או 'RNN'. הוא עומד לרוב על Contextual Speech Models (מודלי דיבור הקשריים) במחקר עיבוד דיבור, או על Cloud Security Management (ניהול אבטחת ענן) בתחום האבטחה.

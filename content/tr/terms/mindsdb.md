@@ -7,8 +7,6 @@ tags: ["tooling", "sql", "automation"]
 difficulty: 2
 weight: 1
 slug: "mindsdb"
-aliases:
-  - /tr/terms/mindsdb/
 date: "2026-07-18T16:03:43.830677Z"
 lastmod: "2026-07-18T16:38:07.334379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "MindsDB, geliştiricilerin mevcut veritabanları içinde SQL kullanarak makine öğrenimi modellerini doğrudan oluşturmalarını, eğitmelerini ve dağıtmalarını sağlayan açık kaynaklı bir platformdur."
 ---
-
 ## Definition
 
 MindsDB, geleneksel ilişkisel veritabanları ile modern makine öğrenimi iş akışları arasında bir köprü görevi görür. Kullanıcılara standart SQL sorguları kullanarak tahmin modelleri oluşturma imkanı tanır,

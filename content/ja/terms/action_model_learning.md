@@ -1,23 +1,23 @@
 ---
-title: "行動モデル学習"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: 行動モデル学習
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /ja/terms/action_model_learning/
-date: "2026-07-18T11:03:01.062644Z"
-lastmod: "2026-07-18T11:44:45.063427Z"
+slug: action_model_learning
+date: '2026-07-18T11:03:01.062644Z'
+lastmod: '2026-07-18T11:44:45.063427Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "エージェントが自身の行動の影響を観察することで環境の動態を学習する強化学習手法。"
+source: agnes_llm
+status: published
+language: ja
+description: エージェントが自身の行動の影響を観察することで環境の動態を学習する強化学習手法。
 ---
-
 ## Definition
 
 行動モデル学習では、エージェントは自身の行動が環境をある状態から別の状態へ遷移させる方法を内部的に表現します。この手法は受動的な観察とは異なり、環境の動態を構築するために活用されます。

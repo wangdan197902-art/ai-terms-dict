@@ -1,23 +1,24 @@
 ---
-title: "Γενεράρισμα"
-term_id: "generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "nlp", "multimodal"]
+title: Γενεράρισμα
+term_id: generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- NLP
+- multimodal
 difficulty: 3
 weight: 1
-slug: "generation"
-aliases:
-  - /el/terms/generation/
-date: "2026-07-18T15:26:33.971193Z"
-lastmod: "2026-07-18T17:15:09.845310Z"
+slug: generation
+date: '2026-07-18T15:26:33.971193Z'
+lastmod: '2026-07-18T17:15:09.845310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία μέσω της οποίας τα γεννητικά μοντέλα δημιουργούν νέα δεδομένα που μοιάζουν με την κατανομή εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία μέσω της οποίας τα γεννητικά μοντέλα δημιουργούν νέα δεδομένα
+  που μοιάζουν με την κατανομή εκπαίδευσης.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, το γενεράρισμα αναφέρεται στην ικανότητα των μοντέλων, ιδιαίτερα των Γεννητικών Ανταγωνιστικών Δικτύων (GANs) και των Μεγάλων Γλωσσικών Μοντέλων (LLMs) βασισμένων σε Transformer, να παράγουν νέο περιεχόμενο όπως κείμενο, εικόνες

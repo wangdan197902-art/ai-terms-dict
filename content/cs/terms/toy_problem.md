@@ -7,8 +7,6 @@ tags: ["theory", "education", "research"]
 difficulty: 2
 weight: 1
 slug: "toy_problem"
-aliases:
-  - /cs/terms/toy_problem/
 date: "2026-07-18T16:21:31.174083Z"
 lastmod: "2026-07-18T17:15:09.208520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Zjednodušená verze složitého problému používaná k testování algoritmů nebo teorií bez hluku a rozsahu reálných scénářů."
 ---
-
 ## Definition
 
 V umělé inteligenci a informatice je toy problem vysoce zjednodušený scénář navržený tak, aby ilustroval koncept nebo otestoval nový algoritmus. Příklady zahrnují problém N-Dámy nebo Tři moudré opice. Tyto problémy umožňují výzkumníkům ověřit základní funkčnost a správnost algoritmů v kontrolovaném prostředí, než se přejde k aplikaci na komplexnější a špinavější reálná data.

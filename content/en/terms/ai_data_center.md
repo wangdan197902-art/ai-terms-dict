@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /en/terms/ai_data_center/
 date: "2026-07-18T09:43:55.787738Z"
 lastmod: "2026-07-18T11:44:44.636572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A specialized facility designed to house and operate high-performance computing infrastructure for AI workloads."
 ---
-
 ## Definition
 
 An AI data center is a physical facility optimized for running artificial intelligence applications, particularly deep learning training and inference. These centers feature high-density server racks equipped with GPUs or TPUs, advanced cooling systems to manage heat generation, and high-bandwidth networking. They differ from traditional data centers by prioritizing computational throughput and memory bandwidth required for massive matrix operations involved in neural network processing.

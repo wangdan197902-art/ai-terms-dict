@@ -1,23 +1,23 @@
 ---
-title: "Reinforcement"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Reinforcement
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /id/terms/reinforcement/
-date: "2026-07-18T15:28:57.625418Z"
-lastmod: "2026-07-18T16:38:07.400870Z"
+slug: reinforcement
+date: '2026-07-18T15:28:57.625418Z'
+lastmod: '2026-07-18T16:38:07.400870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Reinforcement merujuk pada proses memodifikasi perilaku melalui hadiah atau hukuman untuk mengoptimalkan pengambilan keputusan."
+source: agnes_llm
+status: published
+language: id
+description: Reinforcement merujuk pada proses memodifikasi perilaku melalui hadiah
+  atau hukuman untuk mengoptimalkan pengambilan keputusan.
 ---
-
 ## Definition
 
 Reinforcement adalah mekanisme psikologis dan komputasi fundamental di mana tindakan agen dibentuk oleh konsekuensinya. Dalam pembelajaran mesin, hal ini melibatkan pemberian umpan balik positif (hadiah) untuk perilaku yang diinginkan.

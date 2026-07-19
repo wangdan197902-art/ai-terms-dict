@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /tr/terms/sentencepiece/
 date: "2026-07-18T16:13:42.770016Z"
 lastmod: "2026-07-18T16:38:07.364392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ham metni NLP ön işleme için alt kelime dizisi olarak ele alan denetimsiz bir metin parçalayıcı (tokenizer) ve birleştirici kütüphanesi."
 ---
-
 ## Definition
 
 SentencePiece, modern NLP pipeline'larında yaygın olarak kullanılan metin normalizasyonu ve parçalama için popüler açık kaynaklı bir kütüphanedir. Ortak kelime-parçası ve alt kelime sözlüklerinin denetimsiz öğrenimini gerçekleştirir.

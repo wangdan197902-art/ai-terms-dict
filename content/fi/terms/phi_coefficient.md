@@ -1,23 +1,23 @@
 ---
-title: "Fikertoiminto"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Fikertoiminto
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /fi/terms/phi_coefficient/
-date: "2026-07-18T16:15:50.742993Z"
-lastmod: "2026-07-18T17:15:09.443963Z"
+slug: phi_coefficient
+date: '2026-07-18T16:15:50.742993Z'
+lastmod: '2026-07-18T17:15:09.443963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tilastollinen mittari kahden binäärimuuttujan välisen yhteyden voimakkuudelle."
+source: agnes_llm
+status: published
+language: fi
+description: Tilastollinen mittari kahden binäärimuuttujan välisen yhteyden voimakkuudelle.
 ---
-
 ## Definition
 
 Fikertoiminto (φ) on mittari kahden binäärimuuttujan väliselle yhteydelle, ja se toimii Pearsonin korrelaatiokertoimena dikotomisille muuttujille. Sen arvo vaihtelee välillä -1–+1, jossa 0 tarkoittaa ei-yhteyttä.

@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /ar/terms/humanai_interaction/
 date: "2026-07-18T16:01:18.601461Z"
 lastmod: "2026-07-18T17:15:08.513138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "دراسة وممارسة كيفية تواصل البشر مع أنظمة الذكاء الاصطناعي والتحكم فيها والتعاون معها."
 ---
-
 ## Definition
 
 تفاعل الإنسان مع الذكاء الاصطناعي (HAI) هو مجال متعدد التخصصات يدرس الديناميكيات بين الناس وتقنيات الذكاء الاصطناعي. ويركز على تصميم الواجهات البديهية وبروتوكولات الاتصال وآليات التعاون الفعالة.

@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /pl/terms/gender_digital_divide/
 date: "2026-07-18T15:56:31.303516Z"
 lastmod: "2026-07-18T17:15:08.876793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Cyfrowy rozdźwięk płciowy odnosi się do luki między mężczyznami a kobietami w dostępie do technologii informacyjno-komunikacyjnych (TIK), ich wykorzystywaniu oraz czerpaniu korzyści z tych technologii"
 ---
-
 ## Definition
 
 Ta koncepcja socjotechniczna podkreśla nierówności, w wyniku których kobiety i dziewczęta często mają mniejszy dostęp do urządzeń cyfrowych, łączności internetowej oraz umiejętności cyfrowych w porównaniu do mężczyzn i chłopców. Te nierówności wynikają z różnych czynników społecznych i ekonomicznych.

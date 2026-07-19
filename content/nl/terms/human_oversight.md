@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /nl/terms/human_oversight/
 date: "2026-07-18T15:59:05.859947Z"
 lastmod: "2026-07-18T17:15:08.752690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De praktijk van het behouden van menselijke controle en beoordeling over geautomatiseerde AI-systemen om veiligheid, nauwkeurigheid en ethische naleving te garanderen."
 ---
-
 ## Definition
 
 Menselijk toezicht verwijst naar de mechanismen en processen waarbij mensen AI-gestuurde beslissingen of acties monitoren, evalueren en erin interveniëren. Dit concept is cruciaal om ervoor te zorgen dat geautomatiseerde systemen veilig en verantwoord opereren.

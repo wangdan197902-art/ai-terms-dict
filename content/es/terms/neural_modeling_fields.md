@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /es/terms/neural_modeling_fields/
 date: "2026-07-18T11:02:06.666127Z"
 lastmod: "2026-07-18T11:44:44.836438Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco teórico que describe la organización espacial y funcional de los patrones de actividad neuronal."
 ---
-
 ## Definition
 
 Los campos de modelado neuronal implican el estudio de cómo las poblaciones neuronales se organizan en espacios de alta dimensión para representar información. Este concepto a menudo se relaciona con mapeos topológicos y teoría de campos.

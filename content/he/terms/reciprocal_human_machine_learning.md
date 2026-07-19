@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /he/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:21:56.955903Z"
 lastmod: "2026-07-18T17:15:09.579661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פרדיגמת למידה שיתופית שבה בני אדם ומכונות מלמדים ומשתפרים זה מזה באופן רציף כדי לשפר ביצועים."
 ---
-
 ## Definition
 
 גישה זו עוברת מעבר לתיגוף ידני פשוט של אדם במעגל (human-in-the-loop). היא כוללת העברת ידע דו-כיוונית: בני אדם מתקנים שגיאות של המודל, בעוד שהמודל מסייע לבני אדם בזיהוי דפוסים או אוטומציה של משימות.

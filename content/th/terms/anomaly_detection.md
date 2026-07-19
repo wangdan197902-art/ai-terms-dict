@@ -1,23 +1,23 @@
 ---
-title: "การตรวจจับความผิดปกติ"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: การตรวจจับความผิดปกติ
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /th/terms/anomaly_detection/
-date: "2026-07-18T15:40:13.060217Z"
-lastmod: "2026-07-18T16:38:07.572932Z"
+slug: anomaly_detection
+date: '2026-07-18T15:40:13.060217Z'
+lastmod: '2026-07-18T16:38:07.572932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการระบุรายการ เหตุการณ์ หรือข้อสังเกตที่พบไม่บ่อย ซึ่งเบี่ยงเบนไปจากข้อมูลส่วนใหญ่อย่างมีนัยสำคัญ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการระบุรายการ เหตุการณ์ หรือข้อสังเกตที่พบไม่บ่อย ซึ่งเบี่ยงเบนไปจากข้อมูลส่วนใหญ่อย่างมีนัยสำคัญ
 ---
-
 ## Definition
 
 การตรวจจับความผิดปกติ (หรือที่เรียกว่าการตรวจจับค่าผิดปกติ) เกี่ยวข้องกับการวิเคราะห์ข้อมูลเพื่อหารูปแบบที่ไม่สอดคล้องกับพฤติกรรมที่คาดไว้ วิธีการนี้ถูกใช้อย่างแพร่หลายในความปลอดภัยไซเบอร์ การตรวจจับการฉ้อโกง และการบำรุงรักษาระบบ

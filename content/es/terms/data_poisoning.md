@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /es/terms/data_poisoning/
 date: "2026-07-18T10:41:37.051971Z"
 lastmod: "2026-07-18T11:44:44.791518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El envenenamiento de datos es un ataque de seguridad en el que actores maliciosos inyectan datos corruptos o engañosos en un conjunto de entrenamiento para degradar el rendimiento del modelo."
 ---
-
 ## Definition
 
 Esta técnica adversaria tiene como objetivo comprometer la integridad de los modelos de aprendizaje automático alterando los datos de entrenamiento. Al introducir errores sutiles o ejemplos sesgados, los atacantes pueden hacer que el modelo

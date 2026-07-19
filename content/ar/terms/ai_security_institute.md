@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /ar/terms/ai_security_institute/
 date: "2026-07-18T15:39:25.945441Z"
 lastmod: "2026-07-18T17:15:08.469027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "منظمة مكرسة للبحث وتطوير وتعزيز أفضل الممارسات لتأمين أنظمة الذكاء الاصطناعي."
 ---
-
 ## Definition
 
 معهد أمن الذكاء الاصطناعي هو كيان متخصص يركز على التخفيف من المخاطر المرتبطة بتقنيات الذكاء الاصطناعي. تقوم هذه المعاهد بإجراء أبحاث حول الهجمات العدائية، وخصوصية البيانات، ومرونة النماذج ضد

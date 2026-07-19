@@ -1,23 +1,24 @@
 ---
-title: "Biospokój"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Biospokój
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /pl/terms/bioserenity/
-date: "2026-07-18T15:44:50.210157Z"
-lastmod: "2026-07-18T17:15:08.851802Z"
+slug: bioserenity
+date: '2026-07-18T15:44:50.210157Z'
+lastmod: '2026-07-18T17:15:08.851802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Teoretyczny stan harmonijnego współistnienia życia biologicznego z systemami sztucznej inteligencji."
+source: agnes_llm
+status: published
+language: pl
+description: Teoretyczny stan harmonijnego współistnienia życia biologicznego z systemami
+  sztucznej inteligencji.
 ---
-
 ## Definition
 
 Biospokój odnosi się do koncepcyjnego ideału, w którym biologia człowieka i sztuczna inteligencja działają w płynnej, niesprzecznej harmonii. Podkreśla etyczną integrację, zapewniając, że wzmocnienie zdolności ludzkich dzięki AI nie zakłóca równowagi.

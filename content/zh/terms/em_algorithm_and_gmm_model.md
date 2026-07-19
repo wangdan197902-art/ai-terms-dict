@@ -1,23 +1,23 @@
 ---
-title: "EM算法与高斯混合模型"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: EM算法与高斯混合模型
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /zh/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T11:15:46.560715Z"
-lastmod: "2026-07-18T11:44:45.492315Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T11:15:46.560715Z'
+lastmod: '2026-07-18T11:44:45.492315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "期望最大化（EM）算法是一种用于在包含隐变量的统计模型中寻找最大似然估计的迭代方法，常用于拟合高斯混合模型。"
+source: agnes_llm
+status: published
+language: zh
+description: 期望最大化（EM）算法是一种用于在包含隐变量的统计模型中寻找最大似然估计的迭代方法，常用于拟合高斯混合模型。
 ---
-
 ## Definition
 
 该术语指期望最大化（EM）算法与高斯混合模型（GMM）之间的协同关系。GMM假设所有数据点都是由多个分布混合生成的，而EM算法则通过迭代方式优化这些混合成分的参数（如均值、协方差和权重），从而实现对数据的最佳拟合。

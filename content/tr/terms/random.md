@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /tr/terms/random/
 date: "2026-07-18T15:28:12.292671Z"
 lastmod: "2026-07-18T16:38:07.241188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Öngörülebilir bir desenden yoksunluk özelliği; genellikle yapay zekada sahte rastgele sayı üreteci algoritmaları aracılığıyla simüle edilir."
 ---
-
 ## Definition
 
 Yapay zekada rastgelelik, model ağırlıklarını başlatmak, veri setlerini karıştırmak ve aşırı öğrenmeyi önlemek için eğitim sırasında stokastisite (rastgelelik) sağlamak için temel önem taşır. Bilgisayarlar deterministik olduğundan, yapay zeka sistemleri 

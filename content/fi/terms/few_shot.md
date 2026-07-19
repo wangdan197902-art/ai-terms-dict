@@ -1,23 +1,24 @@
 ---
-title: "vähän esimerkkejä sisältävä (few-shot)"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: vähän esimerkkejä sisältävä (few-shot)
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /fi/terms/few_shot/
-date: "2026-07-18T15:33:24.436162Z"
-lastmod: "2026-07-18T17:15:09.363556Z"
+slug: few_shot
+date: '2026-07-18T15:33:24.436162Z'
+lastmod: '2026-07-18T17:15:09.363556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Oppimisparadigma, jossa malli suorittaa tehtävän oikein sen jälkeen, kun se on altistunut vain pienelle määrälle merkittyjä esimerkkejä."
+source: agnes_llm
+status: published
+language: fi
+description: Oppimisparadigma, jossa malli suorittaa tehtävän oikein sen jälkeen,
+  kun se on altistunut vain pienelle määrälle merkittyjä esimerkkejä.
 ---
-
 ## Definition
 
 Vähän esimerkkejä sisältävä oppiminen (few-shot learning) mahdollistaa koneoppimismallien yleistämisen hyvin rajoitetusta datasta, tyypillisesti yksi kymmenen esimerkkiä luokkaa kohti. Toisin kuin perinteinen valvottu oppiminen, joka vaatii tuhansia...

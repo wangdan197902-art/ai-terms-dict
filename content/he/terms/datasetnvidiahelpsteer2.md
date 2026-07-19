@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /he/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:52:35.777708Z"
 lastmod: "2026-07-18T17:15:09.529276Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים איכותית של העדפות אנושיות, המיועדת ספציפית לאימון מודלי תגמול בלמידה חיזוקית ממשוב אנושי."
 ---
-
 ## Definition
 
 Helpsteer2 היא מערכת נתונים מפוקחת שפורסמה על ידי NVIDIA וכוללת השוואות זוגיות של תגובות שנוצרו על ידי מודלי שפה גדולים. הדגש הוא על העדפות אנושיות רב-ממדיות, כגון עזרה

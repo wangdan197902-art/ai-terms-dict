@@ -1,23 +1,24 @@
 ---
-title: "Strumieniowanie"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Strumieniowanie
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /pl/terms/streaming/
-date: "2026-07-18T16:19:27.351558Z"
-lastmod: "2026-07-18T17:15:08.921387Z"
+slug: streaming
+date: '2026-07-18T16:19:27.351558Z'
+lastmod: '2026-07-18T17:15:08.921387Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Paradygmat przetwarzania danych, w którym informacje są przetwarzane ciągle w małych porcjach w miarę ich napływania, a nie w dużych statycznych partiach."
+source: agnes_llm
+status: published
+language: pl
+description: Paradygmat przetwarzania danych, w którym informacje są przetwarzane
+  ciągle w małych porcjach w miarę ich napływania, a nie w dużych statycznych partiach.
 ---
-
 ## Definition
 
 Strumieniowanie odnosi się do ciągłego pobierania i przetwarzania danych w czasie rzeczywistym lub bliskim rzeczywistemu w miarę ich generowania. W przeciwieństwie do przetwarzania partiami, które obsługuje ustalone zestawy danych, systemy strumieniowe zarządzają

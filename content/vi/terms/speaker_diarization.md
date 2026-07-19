@@ -1,23 +1,23 @@
 ---
-title: "Phân tích người nói"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Phân tích người nói
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /vi/terms/speaker_diarization/
-date: "2026-07-18T16:12:43.023474Z"
-lastmod: "2026-07-18T16:38:07.807259Z"
+slug: speaker_diarization
+date: '2026-07-18T16:12:43.023474Z'
+lastmod: '2026-07-18T16:38:07.807259Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình xác định 'ai đã nói khi nào' trong một bản ghi âm."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình xác định 'ai đã nói khi nào' trong một bản ghi âm.
 ---
-
 ## Definition
 
 Phân tích người nói là nhiệm vụ phân chia một luồng âm thanh thành các đoạn đồng nhất dựa trên danh tính của người nói. Nó kết hợp phát hiện thay đổi người nói với cụm giọng nói để gán nhãn ai là người đã nói gì trong toàn bộ bản ghi.

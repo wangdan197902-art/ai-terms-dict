@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /fr/terms/understanding/
 date: "2026-07-18T10:55:58.224240Z"
 lastmod: "2026-07-18T11:44:45.175666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "En IA, la capacité d'un modèle à saisir le sens sémantique, le contexte et l'intention au sein des données d'entrée plutôt que de se limiter à la correspondance de motifs."
 ---
-
 ## Definition
 
 La compréhension en IA va au-delà de la corrélation statistique pour interpréter le sens sous-jacent des données. Pour les modèles de langage, cela implique de saisir la syntaxe, la sémantique et la pragmatique afin de générer des réponses cohérentes et

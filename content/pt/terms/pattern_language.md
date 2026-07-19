@@ -1,23 +1,24 @@
 ---
-title: "Linguagem de Padrões"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: Linguagem de Padrões
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /pt/terms/pattern_language/
-date: "2026-07-18T15:16:04.818179Z"
-lastmod: "2026-07-18T15:51:59.521245Z"
+slug: pattern_language
+date: '2026-07-18T15:16:04.818179Z'
+lastmod: '2026-07-18T15:51:59.521245Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma coleção estruturada de soluções de design interconectadas que abordam problemas recorrentes na arquitetura de software ou sistemas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma coleção estruturada de soluções de design interconectadas que abordam
+  problemas recorrentes na arquitetura de software ou sistemas.
 ---
-
 ## Definition
 
 Uma Linguagem de Padrões é um framework formalizado composto por um conjunto de soluções comprovadas para problemas comuns encontrados no design, particularmente na engenharia de software e no planejamento urbano. Cada padrão descreve um problema recorrente e sua solução central.

@@ -1,23 +1,24 @@
 ---
-title: "Астрономия, основанная на данных"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: Астрономия, основанная на данных
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /ru/terms/data_driven_astronomy/
-date: "2026-07-18T15:47:31.321775Z"
-lastmod: "2026-07-18T16:38:07.138763Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:47:31.321775Z'
+lastmod: '2026-07-18T16:38:07.138763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Применение крупномасштабного анализа данных и методов машинного обучения для извлечения знаний из астрономических наблюдений."
+source: agnes_llm
+status: published
+language: ru
+description: Применение крупномасштабного анализа данных и методов машинного обучения
+  для извлечения знаний из астрономических наблюдений.
 ---
-
 ## Definition
 
 Астрономия, основанная на данных, использует передовые вычислительные методы, включая машинное обучение и статистический анализ, для обработки огромных объемов данных, генерируемых современными телескопами и обзорами неба. Это позволяет выявлять сложные паттерны и классифицировать космические объекты, которые трудно обнаружить традиционными методами.

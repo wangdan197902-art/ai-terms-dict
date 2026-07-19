@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /id/terms/local/
 date: "2026-07-18T15:27:07.159782Z"
 lastmod: "2026-07-18T16:38:07.396526Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mengacu pada pemrosesan atau penyimpanan data pada perangkat tertentu, bukan di lingkungan cloud terpusat."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, 'lokal' biasanya merujuk pada operasi yang dilakukan langsung pada perangkat keras pengguna, seperti laptop atau ponsel pintar, tanpa bergantung pada server jarak jauh. Pendekatan ini meningkatkan privasi data

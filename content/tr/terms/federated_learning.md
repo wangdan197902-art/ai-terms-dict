@@ -1,23 +1,24 @@
 ---
-title: "Dağıtık Öğrenme (Federated Learning)"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Dağıtık Öğrenme (Federated Learning)
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /tr/terms/federated_learning/
-date: "2026-07-18T15:34:34.239915Z"
-lastmod: "2026-07-18T16:38:07.257586Z"
+slug: federated_learning
+date: '2026-07-18T15:34:34.239915Z'
+lastmod: '2026-07-18T16:38:07.257586Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Dağıtık öğrenme, verileri yerel tutarak modelleri merkezi olmayan cihazlar üzerinde eğiten dağıtık bir makine öğrenimi yaklaşımıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Dağıtık öğrenme, verileri yerel tutarak modelleri merkezi olmayan cihazlar
+  üzerinde eğiten dağıtık bir makine öğrenimi yaklaşımıdır.
 ---
-
 ## Definition
 
 Dağıtık öğrenme, organizasyonların hassas ham verileri paylaşmadan yapay zeka modellerini işbirliği içinde eğitmesine olanak tanır. Bilgileri merkezileştirmek yerine, model yerel cihazlara gönderilir ve burada öğrenme işlemi gerçekleştirilir.

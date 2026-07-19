@@ -1,23 +1,24 @@
 ---
-title: "Matemático automatizado"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Matemático automatizado
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /es/terms/automated_mathematician/
-date: "2026-07-18T10:37:25.982474Z"
-lastmod: "2026-07-18T11:44:44.779693Z"
+slug: automated_mathematician
+date: '2026-07-18T10:37:25.982474Z'
+lastmod: '2026-07-18T11:44:44.779693Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un sistema de IA diseñado para descubrir nuevos teoremas matemáticos, conjeturas o pruebas mediante búsqueda computacional y razonamiento."
+source: agnes_llm
+status: published
+language: es
+description: Un sistema de IA diseñado para descubrir nuevos teoremas matemáticos,
+  conjeturas o pruebas mediante búsqueda computacional y razonamiento.
 ---
-
 ## Definition
 
 Un Matemático Automatizado utiliza aprendizaje automático y razonamiento simbólico para explorar espacios matemáticos más allá de la intuición humana. Estos sistemas pueden generar hipótesis, verificar pruebas y encontrar patrones

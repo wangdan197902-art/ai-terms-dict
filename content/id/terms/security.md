@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /id/terms/security/
 date: "2026-07-18T15:29:37.018484Z"
 lastmod: "2026-07-18T16:38:07.402614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Praktik melindungi sistem AI dari akses yang tidak sah, penyalahgunaan, dan serangan berbahaya."
 ---
-
 ## Definition
 
 Keamanan AI mencakup langkah-langkah yang dirancang untuk melindungi model pembelajaran mesin, pipa data, dan infrastruktur penyebaran terhadap ancaman seperti serangan adversarial, racun data (data poisoning), dan invasi model.

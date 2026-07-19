@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /he/terms/automated_decision_making/
 date: "2026-07-18T15:43:43.021681Z"
 lastmod: "2026-07-18T17:15:09.515362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך שבו אלגוריתמים בוחרים באופן עצמאי פעולות או תוצאות בהתבסס על קלט נתונים, ללא פיקוח אנושי ישיר."
 ---
-
 ## Definition
 
 קבלת החלטות אוטומטית (ADM) מסתמכת על מערכות תוכנה כדי לקבל החלטות שבעבר דרשו שיפוט אנושי. נפוצה בדירוג אשראי, מודרציית תוכן ולוגיסטיקה, ADM משתמשת בכללים מוגדרים מראש או מודלים כדי לבצע פעולות בקנה מידה גדול ובמהירות גבוהה.

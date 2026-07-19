@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /zh/terms/aware/
 date: "2026-07-18T10:49:18.636595Z"
 lastmod: "2026-07-18T11:44:45.362538Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "表示AI检测和处理特定上下文信息或刺激的能力。"
 ---
-
 ## Definition
 
 在AI语境中，“aware”通常指情境感知或上下文感知，即系统能够识别相关的环境因素或用户状态。这并不意味着具有意识，而是指系统对周围环境的敏感度。

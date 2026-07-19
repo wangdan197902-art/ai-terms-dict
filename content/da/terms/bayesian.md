@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /da/terms/bayesian/
 date: "2026-07-18T15:23:25.150829Z"
 lastmod: "2026-07-18T17:15:09.219627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Vedrører statistiske metoder baseret på Bayes' sætning til opdatering af sandsynligheder med ny evidens."
 ---
-
 ## Definition
 
 Bayesianske tilgange inden for AI bruger sandsynlighedsteori til at opdatere sandsynligheden for hypoteser, når mere evidens bliver tilgængelig. Denne metode gør det muligt for modeller at kvantificere usikkerhed og finjustere forudsigelser dynamisk.

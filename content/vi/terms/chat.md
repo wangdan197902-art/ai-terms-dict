@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /vi/terms/chat/
 date: "2026-07-18T15:43:56.697978Z"
 lastmod: "2026-07-18T16:38:07.735665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trò chuyện đề cập đến giao tiếp hội thoại tương tác giữa người dùng và hệ thống AI, thường được thực hiện thông qua ngôn ngữ tự nhiên."
 ---
-
 ## Definition
 
 Trong bối cảnh AI, Trò chuyện chỉ giao diện và cơ chế nền tảng cho đối thoại thời gian thực theo lượt. Nó cho phép người dùng đặt câu hỏi, yêu cầu thực hiện nhiệm vụ hoặc tham gia vào cuộc trò chuyện mở rộng.

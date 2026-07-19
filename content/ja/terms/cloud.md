@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /ja/terms/cloud/
 date: "2026-07-18T10:49:37.381859Z"
 lastmod: "2026-07-18T11:44:45.003498Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "クラウドとは、ローカルハードウェアの代わりに、データを保存・管理し、AIモデルを処理するためにインターネット上でホストされるリモートサーバー群を指します。"
 ---
-
 ## Definition
 
 クラウドコンピューティングは、AIワークロードに対してスケーラブルなインフラストラクチャを提供し、開発者が物理的なデータセンターを維持することなく強力なGPUやストレージにアクセスできるようにします。これは、IaaS、PaaS、SaaSなど、さまざまなサービスモデルをサポートしています。

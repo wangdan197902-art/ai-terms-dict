@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /tr/terms/knowledge_cutoff/
 date: "2026-07-18T15:59:24.947503Z"
 lastmod: "2026-07-18T16:38:07.324297Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi kesim tarihi, bir dil modelinin eğitilmediği ve dolayısıyla bu tarihten sonra gerçekleşen olaylar hakkında bilgi eksikliği yaşadığı belirli tarihtir."
 ---
-
 ## Definition
 
 Bilgi kesim tarihi, bir dil modelinin eğitim verisinin zamansal sınırlarını tanımlar. Bu tarihten sonra gerçekleşen herhangi bir bilgi, olay veya gelişme, model tarafından genellikle bilinmemektedir.

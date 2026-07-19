@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /ja/terms/circuit/
 date: "2026-07-18T11:07:35.495170Z"
 lastmod: "2026-07-18T11:44:45.076776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "回路とは、計算タスクを実行するチップや相互接続などを含む物理的なハードウェアインフラを指します。"
 ---
-
 ## Definition
 
 AIの文脈において、回路は通常、行列演算や並列処理を加速するために設計されたGPU、TPU、またはニューロモルフィックチップなどの基盤となるハードウェアアーキテクチャを指します。これら

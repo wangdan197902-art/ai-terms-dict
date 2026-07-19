@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /sv/terms/specifically/
 date: "2026-07-18T15:31:19.078217Z"
 lastmod: "2026-07-18T17:15:08.952271Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser precisa, distinkta eller särskilda detaljer inom en bredare kontext."
 ---
-
 ## Definition
 
 Inom AI-terminologi betecknar 'specifikt' precision vid definition av modeller, datapunkter eller operationer. Det skiljer exakta parametrar från allmänna kategorier och säkerställer tydlighet i teknisk dokumentation.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Agents"]
 difficulty: 4
 weight: 1
 slug: "multi_agent_system"
-aliases:
-  - /nl/terms/multi_agent_system/
 date: "2026-07-18T15:37:48.171207Z"
 lastmod: "2026-07-18T17:15:08.706650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een architecturale aanpak waarbij meerdere autonome AI-agenten samenwerken, concurreren of coördineren om complexe problemen op te lossen die individuele capaciteiten overstijgen."
 ---
-
 ## Definition
 
 Multi-agent-systemen bestaan uit meerdere onafhankelijke agenten, die elk mogelijk gespecialiseerd zijn in verschillende taken of domeinen. Deze agenten communiceren en coördineren hun acties om een gemeenschappelijk doel te bereiken, 

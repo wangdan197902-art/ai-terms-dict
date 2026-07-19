@@ -1,23 +1,25 @@
 ---
-title: "Förträning"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Förträning
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /sv/terms/pre_training/
-date: "2026-07-18T15:29:48.140976Z"
-lastmod: "2026-07-18T17:15:08.949075Z"
+slug: pre_training
+date: '2026-07-18T15:29:48.140976Z'
+lastmod: '2026-07-18T17:15:08.949075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den inledande fasen av träning av en maskininlärningsmodell på ett stort, omärkt dataset för att lära sig generella representationer innan finjustering på specifika uppgifter."
+source: agnes_llm
+status: published
+language: sv
+description: Den inledande fasen av träning av en maskininlärningsmodell på ett stort,
+  omärkt dataset för att lära sig generella representationer innan finjustering på
+  specifika uppgifter.
 ---
-
 ## Definition
 
 Förträning är en grundläggande teknik inom djupinlärning där en modell lär sig breda funktioner och mönster från enorma mängder data, ofta utan märkning. Denna process gör det möjligt för modellen att utveckla...

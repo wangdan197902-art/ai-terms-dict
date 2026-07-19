@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /cs/terms/case_based_reasoning/
 date: "2026-07-18T15:45:56.271192Z"
 lastmod: "2026-07-18T17:15:09.108674Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odvozování založené na případech (CBR) je přístup k řešení problémů v AI, který využívá minulé zkušenosti nebo podobné případy k nalezení řešení pro nové problémy."
 ---
-
 ## Definition
 
 CBR vychází z principu, že podobné problémy mají podobná řešení. Proces zahrnuje vyhledání nejpodobnějšího historického případu z databáze znalostí, přizpůsobení jeho řešení aktuální situaci a uložení nového řešení pro budoucí použití, čímž se neustále rozšiřuje znalostní báze systému.

@@ -1,23 +1,24 @@
 ---
-title: "Měřítko funkcí"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Měřítko funkcí
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /cs/terms/feature_scaling/
-date: "2026-07-18T15:57:37.745880Z"
-lastmod: "2026-07-18T17:15:09.129881Z"
+slug: feature_scaling
+date: '2026-07-18T15:57:37.745880Z'
+lastmod: '2026-07-18T17:15:09.129881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces normalizace rozsahu nezávislých proměnných nebo funkcí dat za účelem zajištění jednotnosti velikosti."
+source: agnes_llm
+status: published
+language: cs
+description: Proces normalizace rozsahu nezávislých proměnných nebo funkcí dat za
+  účelem zajištění jednotnosti velikosti.
 ---
-
 ## Definition
 
 Měřítko funkcí standardizuje rozsah vstupních proměnných, aby se zabránilo dominanci funkcí s většími hodnotami během procesu učení. Běžnými metodami jsou normalizace (min-max škálování) a standardizace

@@ -1,23 +1,24 @@
 ---
-title: "Cơ sở kiến thức"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Cơ sở kiến thức
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /vi/terms/knowledge_base/
-date: "2026-07-18T15:36:07.062810Z"
-lastmod: "2026-07-18T16:38:07.710137Z"
+slug: knowledge_base
+date: '2026-07-18T15:36:07.062810Z'
+lastmod: '2026-07-18T16:38:07.710137Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Kho lưu trữ tập trung các thông tin có cấu trúc, được sử dụng để hỗ trợ ra quyết định và tạo văn bản tăng cường truy xuất (RAG) trong các ứng dụng AI."
+source: agnes_llm
+status: published
+language: vi
+description: Kho lưu trữ tập trung các thông tin có cấu trúc, được sử dụng để hỗ trợ
+  ra quyết định và tạo văn bản tăng cường truy xuất (RAG) trong các ứng dụng AI.
 ---
-
 ## Definition
 
 Cơ sở kiến thức đóng vai trò như một thư viện kỹ thuật số chứa dữ liệu đã được tuyển chọn, tài liệu hoặc sự kiện mà các hệ thống AI có thể truy vấn để cung cấp các phản hồi chính xác và phù hợp với ngữ cảnh. Trong các kiến trúc hiện đại như Retrieval-Augmented Generation (RAG), cơ sở kiến thức giúp giảm thiểu hiện tượng 'ảo giác' của mô hình bằng cách cung cấp nguồn thông tin đáng tin cậy.

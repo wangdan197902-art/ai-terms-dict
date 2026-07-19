@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /fi/terms/smart_object/
 date: "2026-07-18T16:20:25.521379Z"
 lastmod: "2026-07-18T17:15:09.460669Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Fyysinen entiteetti, jossa on antureita, toimilaitteita ja yhteyksiä datan keräämiseksi ja älykkääseen vuorovaikutukseen ympäristön kanssa."
 ---
-
 ## Definition
 
 Älykkäät esineet ovat Internet of Thingsin (IoT) komponentteja, joilla on yksilölliset tunnisteet ja kyky siirtää dataa verkon kautta ilman suoraa ihmisen ja ihmisen tai ihmisen ja tietokoneen välistä vuorovaikutusta.

@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /no/terms/quantum_artificial_life/
 date: "2026-07-18T16:13:33.648489Z"
 lastmod: "2026-07-18T16:38:07.038586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kvantekunstig liv er et felt som studerer autonome systemer og evolusjonsprosesser ved hjelp av kvantedatamaskinprinsipper."
 ---
-
 ## Definition
 
 Kvantekunstig liv (QAL) utforsker skjæringspunktet mellom kvantemekanikk og forskning på kunstig liv, med mål om å simulere biologisk evolusjon og selvreplikerende systemer ved hjelp av kvantedatamaskiner.

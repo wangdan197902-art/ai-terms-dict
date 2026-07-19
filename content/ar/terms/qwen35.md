@@ -1,23 +1,24 @@
 ---
-title: "Qwen3.5"
-term_id: "qwen35"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model", "qwen", "nlp"]
+title: Qwen3.5
+term_id: qwen35
+category: basic_concepts
+subcategory: ''
+tags:
+- model
+- qwen
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen35"
-aliases:
-  - /ar/terms/qwen35/
-date: "2026-07-18T16:18:41.290574Z"
-lastmod: "2026-07-18T17:15:08.542356Z"
+slug: qwen35
+date: '2026-07-18T16:18:41.290574Z'
+lastmod: '2026-07-18T17:15:08.542356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "إصدار تكراري من سلسلة النماذج اللغوية الكبيرة Qwen يركز على تعزيز قدرات الاستدلال ودعم اللغات المتعددة."
+source: agnes_llm
+status: published
+language: ar
+description: إصدار تكراري من سلسلة النماذج اللغوية الكبيرة Qwen يركز على تعزيز قدرات
+  الاستدلال ودعم اللغات المتعددة.
 ---
-
 ## Definition
 
 يشير Qwen3.5 إلى إصدار محدد في سلالة نماذج Qwen التي طورتها علي بابا كلاود. عادةً ما يبني هذا التكرار على الإصدارات السابقة من خلال تحسين الاستدلال المنطقي، والبرمجة، والقدرات الطبيعية للغة.

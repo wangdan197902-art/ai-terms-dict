@@ -1,23 +1,24 @@
 ---
-title: "Highway síť"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Highway síť
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /cs/terms/highway_network/
-date: "2026-07-18T16:01:17.680441Z"
-lastmod: "2026-07-18T17:15:09.138789Z"
+slug: highway_network
+date: '2026-07-18T16:01:17.680441Z'
+lastmod: '2026-07-18T17:15:09.138789Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Architektura hluboké neuronové sítě, která zavádí bránící mechanismy pro usnadnění toku gradientu velmi hlubokými sítěmi."
+source: agnes_llm
+status: published
+language: cs
+description: Architektura hluboké neuronové sítě, která zavádí bránící mechanismy
+  pro usnadnění toku gradientu velmi hlubokými sítěmi.
 ---
-
 ## Definition
 
 Highway sítě jsou navrženy tak, aby řešily problém mizejícího gradientu v hlubokém učení pomocí adaptivních bran, které kontrolují tok informací. Podobně jako buňky LSTM tyto brány umožňují síti naučit se, kolik vstupní informace má projít přímo (skip connection) a kolik má být transformováno prostřednictvím neuronové vrstvy. To umožňuje trénovat mnohem hlubší sítě než tradiční MLP bez degradace výkonu.

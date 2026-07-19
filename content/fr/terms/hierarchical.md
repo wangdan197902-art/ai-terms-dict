@@ -1,23 +1,25 @@
 ---
-title: "Hiérarchique"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hiérarchique
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /fr/terms/hierarchical/
-date: "2026-07-18T10:51:01.365289Z"
-lastmod: "2026-07-18T11:44:45.164749Z"
+slug: hierarchical
+date: '2026-07-18T10:51:01.365289Z'
+lastmod: '2026-07-18T11:44:45.164749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Désigne les architectures ou stratégies d'apprentissage de l'IA organisées en plusieurs niveaux d'abstraction, où les niveaux supérieurs contrôlent les niveaux inférieurs."
+source: agnes_llm
+status: published
+language: fr
+description: Désigne les architectures ou stratégies d'apprentissage de l'IA organisées
+  en plusieurs niveaux d'abstraction, où les niveaux supérieurs contrôlent les niveaux
+  inférieurs.
 ---
-
 ## Definition
 
 Les systèmes d'IA hiérarchiques organisent l'information ou le contrôle selon une structure arborescente de couches imbriquées. Dans l'apprentissage par renforcement, l'AR hiérarchique décompose des tâches complexes en sous-objectifs gérés par des...

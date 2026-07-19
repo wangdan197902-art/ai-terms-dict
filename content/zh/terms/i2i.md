@@ -1,23 +1,22 @@
 ---
-title: "图像到图像转换"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: 图像到图像转换
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /zh/terms/i2i/
-date: "2026-07-18T11:21:46.365450Z"
-lastmod: "2026-07-18T11:44:45.515686Z"
+slug: i2i
+date: '2026-07-18T11:21:46.365450Z'
+lastmod: '2026-07-18T11:44:45.515686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "图像到图像（Image-to-Image）翻译是一种计算机视觉技术，它在保留语义内容的同时将输入图像转换为相应的输出图像。"
+source: agnes_llm
+status: published
+language: zh
+description: 图像到图像（Image-to-Image）翻译是一种计算机视觉技术，它在保留语义内容的同时将输入图像转换为相应的输出图像。
 ---
-
 ## Definition
 
 图像到图像（I2I）翻译涉及使用深度学习方法（如生成对抗网络 GAN 或扩散模型），将源域中的像素映射到目标域。它允许进行风格迁移、语义分割等操作，实现不同图像域之间的转换。

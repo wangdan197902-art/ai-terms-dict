@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /pl/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:50:54.204577Z"
 lastmod: "2026-07-18T17:15:08.865102Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technika wykorzystująca sztuczną inteligencję do skalowania obrazów o niższej rozdzielczości na wyższe rozdzielczości z ulepszonymi szczegółami i zredukowanymi artefaktami."
 ---
-
 ## Definition
 
 Głębokie uczenie super próbkowania (DLSS) to technologia wykorzystująca sieci neuronowe do rekonstrukcji obrazów o wysokiej rozdzielczości na podstawie wejść o niższej rozdzielczości. Analizując dane czasowe i informację przestrzenną...

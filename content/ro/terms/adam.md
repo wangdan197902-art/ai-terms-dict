@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /ro/terms/adam/
 date: "2026-07-18T15:23:25.965314Z"
 lastmod: "2026-07-18T17:15:09.588871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un algoritm de optimizare care calculează rate de învățare adaptative pentru fiecare parametru."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation) este un algoritm popular de optimizare de ordinul întâi bazat pe gradient, utilizat în antrenarea rețelelor neuronale profunde. Acesta combină avantajele a două alte extensii ale stocasticității

@@ -1,23 +1,24 @@
 ---
-title: "Jäännösyhteys"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Jäännösyhteys
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /fi/terms/residual_connection/
-date: "2026-07-18T15:38:18.025128Z"
-lastmod: "2026-07-18T17:15:09.374664Z"
+slug: residual_connection
+date: '2026-07-18T15:38:18.025128Z'
+lastmod: '2026-07-18T17:15:09.374664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mekanismi, joka lisää syötteen suoraan kerroksen lähtöön helpottaakseen gradienttien kulkua syvissä verkoissa."
+source: agnes_llm
+status: published
+language: fi
+description: Mekanismi, joka lisää syötteen suoraan kerroksen lähtöön helpottaakseen
+  gradienttien kulkua syvissä verkoissa.
 ---
-
 ## Definition
 
 Jäännösyhteydet, joita kutsutaan myös ohitusyhteyksiksi, mahdollistavat gradienttien kulun verkon läpi lisäämällä syötteen suoraan seuraavan kerroksen lähtöön. Tämä arkkitehtuuri ratkaisee häviävän gradientin ongelman.

@@ -1,23 +1,25 @@
 ---
-title: "อะแดปเตอร์"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: อะแดปเตอร์
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /th/terms/adapter/
-date: "2026-07-18T15:34:40.895642Z"
-lastmod: "2026-07-18T16:38:07.558314Z"
+slug: adapter
+date: '2026-07-18T15:34:40.895642Z'
+lastmod: '2026-07-18T16:38:07.558314Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมดูลขนาดเล็กที่แทรกเข้าไปในโมเดลที่ผ่านการฝึกมาแล้ว เพื่อให้สามารถปรับแต่งเฉพาะทาง (fine-tuning) สำหรับงานย่อยเฉพาะได้อย่างมีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: โมดูลขนาดเล็กที่แทรกเข้าไปในโมเดลที่ผ่านการฝึกมาแล้ว เพื่อให้สามารถปรับแต่งเฉพาะทาง
+  (fine-tuning) สำหรับงานย่อยเฉพาะได้อย่างมีประสิทธิภาพ
 ---
-
 ## Definition
 
 อะแดปเตอร์เป็นเทคนิคการปรับแต่งเฉพาะทางที่มีประสิทธิภาพด้านพารามิเตอร์ ซึ่งใช้หลักๆ ในโมเดลภาษาขนาดใหญ่และทรานส์ฟอร์มเมอร์ แทนที่จะอัปเดตน้ำหนักทั้งหมดของโมเดลซึ่งมีค่าใช้จ่ายในการคำนวณสูง อะแดปเตอร์จะ

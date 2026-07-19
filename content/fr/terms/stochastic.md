@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /fr/terms/stochastic/
 date: "2026-07-18T10:55:17.975659Z"
 lastmod: "2026-07-18T11:44:45.173375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Décrit des processus ou des modèles impliquant de l'aléatoire et de la probabilité plutôt que des résultats déterministes."
 ---
-
 ## Definition
 
 Les éléments stochastiques introduisent de la variabilité dans les systèmes d'IA, tels que le bruit dans les données ou l'initialisation aléatoire des poids. Contrairement aux modèles déterministes, les modèles stochastiques tiennent compte de l'incertitude, ce qui permet de mieux modéliser la réalité.

@@ -1,23 +1,23 @@
 ---
-title: "匿名化"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: 匿名化
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /zh/terms/anonymization/
-date: "2026-07-18T11:05:01.870182Z"
-lastmod: "2026-07-18T11:44:45.442343Z"
+slug: anonymization
+date: '2026-07-18T11:05:01.870182Z'
+lastmod: '2026-07-18T11:44:45.442343Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "从数据集中移除个人身份信息以保护个人隐私的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 从数据集中移除个人身份信息以保护个人隐私的过程。
 ---
-
 ## Definition
 
 匿名化涉及修改数据，使其在没有额外信息的情况下无法再与特定个人关联。在处理敏感数据时，这项技术在机器学习中至关重要。

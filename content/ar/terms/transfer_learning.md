@@ -1,23 +1,24 @@
 ---
-title: "التعلم بالنقل"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: التعلم بالنقل
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /ar/terms/transfer_learning/
-date: "2026-07-18T15:31:48.544594Z"
-lastmod: "2026-07-18T17:15:08.451298Z"
+slug: transfer_learning
+date: '2026-07-18T15:31:48.544594Z'
+lastmod: '2026-07-18T17:15:08.451298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية في تعلم الآلة يتم فيها إعادة استخدام نموذج تم تطويره لمهمة ما كنقطة انطلاق لنموذج خاص بمهمة ثانية."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية في تعلم الآلة يتم فيها إعادة استخدام نموذج تم تطويره لمهمة ما كنقطة
+  انطلاق لنموذج خاص بمهمة ثانية.
 ---
-
 ## Definition
 
 يستفيد التعلم بالنقل من النماذج المدربة مسبقاً لتحسين الأداء وتقليل وقت التدريب على مهام جديدة ذات صلة. بدلاً من التدريب من الصفر، يقوم المطورون بضبط الأوزان الموجودة، مما يتيح

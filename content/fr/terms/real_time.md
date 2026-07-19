@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /fr/terms/real_time/
 date: "2026-07-18T10:58:26.711305Z"
 lastmod: "2026-07-18T11:44:45.180728Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le traitement en temps réel désigne les systèmes qui calculent et fournissent des résultats dans des délais stricts et garantis, immédiatement après la réception des entrées."
 ---
-
 ## Definition
 
 En intelligence artificielle, le temps réel désigne la capacité d'un système à traiter les entrées et à générer des sorties avec une latence minimale, souvent de l'ordre de la milliseconde. Cela est essentiel pour les applications où

@@ -1,23 +1,24 @@
 ---
-title: "Prefrenselslæring"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Prefrenselslæring
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /no/terms/preference_learning/
-date: "2026-07-18T16:12:13.463819Z"
-lastmod: "2026-07-18T16:38:07.034643Z"
+slug: preference_learning
+date: '2026-07-18T16:12:13.463819Z'
+lastmod: '2026-07-18T16:38:07.034643Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som trener modeller til å tilpasse utdataene sine etter menneskelige preferanser ved sammenligningsbasert tilbakemelding."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som trener modeller til å tilpasse utdataene sine etter menneskelige
+  preferanser ved sammenligningsbasert tilbakemelding.
 ---
-
 ## Definition
 
 Prefrenselslæring fokuserer på å lære modeller å skille mellom gode og dårlige utdata basert på menneskelige dommer snarere enn absolutte etiketter. Det involverer vanligvis å samle inn par av svar der en menneskelig annotatør indikerer hvilket svar som er foretrukket, noe som brukes til å trene en belønningsmodell som deretter kan optimaliseres.

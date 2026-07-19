@@ -1,23 +1,24 @@
 ---
-title: "שיטת עדכון משקלים כפלית"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: שיטת עדכון משקלים כפלית
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /he/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:13:49.542749Z"
-lastmod: "2026-07-18T17:15:09.567311Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:13:49.542749Z'
+lastmod: '2026-07-18T17:15:09.567311Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגוריתם איטרטיבי המעדכן משקלים בצורה כפלית בהתבסס על משוב ביצועים כדי למזער חרטה."
+source: agnes_llm
+status: published
+language: he
+description: אלגוריתם איטרטיבי המעדכן משקלים בצורה כפלית בהתבסס על משוב ביצועים כדי
+  למזער חרטה.
 ---
-
 ## Definition
 
 שיטת עדכון משקלים כפלית היא אלגוריתם לימוד מקוון בסיסי המשמש לקבלת החלטות בסביבות לא ודאיות. היא שומרת על סט של משקלים עבור אסטרטגיות או מומחים שונים.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /id/terms/edge_computing/
 date: "2026-07-18T15:48:54.582081Z"
 lastmod: "2026-07-18T16:38:07.453441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Edge computing adalah paradigma komputasi terdistribusi yang membawa pemrosesan dan penyimpanan data lebih dekat ke sumber data, daripada hanya mengandalkan server cloud terpusat."
 ---
-
 ## Definition
 
 Edge computing mengatasi keterbatasan latensi dan bandwidth dari arsitektur yang berpusat pada cloud dengan memproses data di dekat tempat data tersebut dihasilkan, seperti perangkat IoT, sensor, atau gateway lokal. Dalam konteks AI, ini memungkinkan inferensi model dilakukan secara langsung di perangkat ujung tanpa perlu mengirim data ke cloud.

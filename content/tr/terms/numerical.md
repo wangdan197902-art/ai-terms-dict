@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /tr/terms/numerical/
 date: "2026-07-18T15:27:26.488641Z"
 lastmod: "2026-07-18T16:38:07.238930Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sembolik mantık veya metin yerine sayılara veya matematiksel hesaplamalara ilişkin, bunları içeren veya kullanan."
 ---
-
 ## Definition
 
 Yapay zeka ve veri bilimi bağlamında sayısal; tamsayılar, kayan noktalı sayılar ve ondalıklar gibi niceliksel değerleri içeren veri türlerini veya yöntemleri ifade eder. Kategorik veya metinsel verilerin aksine, sayısal veriler...

@@ -1,23 +1,24 @@
 ---
-title: "Regularização de esparsidade estruturada"
-term_id: "structured_sparsity_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "feature_selection"]
+title: Regularização de esparsidade estruturada
+term_id: structured_sparsity_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- Feature Selection
 difficulty: 3
 weight: 1
-slug: "structured_sparsity_regularization"
-aliases:
-  - /pt/terms/structured_sparsity_regularization/
-date: "2026-07-18T15:23:45.959550Z"
-lastmod: "2026-07-18T15:51:59.535952Z"
+slug: structured_sparsity_regularization
+date: '2026-07-18T15:23:45.959550Z'
+lastmod: '2026-07-18T15:51:59.535952Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica de regularização que impõe padrões de esparsidade com base no conhecimento prévio dos agrupamentos ou estruturas das características nos dados."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica de regularização que impõe padrões de esparsidade com base
+  no conhecimento prévio dos agrupamentos ou estruturas das características nos dados.
 ---
-
 ## Definition
 
 A regularização de esparsidade estruturada estende a regularização L1 padrão, incentivando zeros em padrões específicos em vez de coeficientes individuais independentemente. Ela incorpora conhecimento prévio sobre a estrutura dos dados, como grupos de características correlacionadas.

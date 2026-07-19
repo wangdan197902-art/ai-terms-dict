@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /ro/terms/automated_decision_making/
 date: "2026-07-18T15:46:28.474793Z"
 lastmod: "2026-07-18T17:15:09.630701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul prin care algoritmii selectează independent acțiuni sau rezultate pe baza intrărilor de date, fără supraveghere umană directă."
 ---
-
 ## Definition
 
 Luarea automată a deciziilor (ADM) se bazează pe sisteme software pentru a face alegeri care anterior necesitau judecata umană. Comun în evaluarea creditelor, moderarea conținutului și logistică, ADM folosește reguli predefinite și modele statistice.

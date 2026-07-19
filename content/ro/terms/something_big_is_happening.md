@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /ro/terms/something_big_is_happening/
 date: "2026-07-18T16:21:08.059938Z"
 lastmod: "2026-07-18T17:15:09.703405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O expresie colocvială folosită adesea în mass-media pentru a descrie progrese semnificative sau avansuri rapide în domeniul AI."
 ---
-
 ## Definition
 
 Acest termen nu este o definiție tehnică, ci un indicator cultural care se referă la perioade de inovație intensă, interes public sau schimbări de paradigmă în inteligența artificială. De obicei, apare odată cu r

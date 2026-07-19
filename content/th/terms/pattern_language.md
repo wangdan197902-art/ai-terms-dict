@@ -1,23 +1,24 @@
 ---
-title: "ภาษาแพทเทิร์น"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: ภาษาแพทเทิร์น
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /th/terms/pattern_language/
-date: "2026-07-18T16:10:23.106760Z"
-lastmod: "2026-07-18T16:38:07.640573Z"
+slug: pattern_language
+date: '2026-07-18T16:10:23.106760Z'
+lastmod: '2026-07-18T16:38:07.640573Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ชุดคำตอบการออกแบบที่เชื่อมโยงกันอย่างมีโครงสร้าง เพื่อแก้ปัญหาที่เกิดขึ้นซ้ำๆ ในสถาปัตยกรรมซอฟต์แวร์หรือระบบ"
+source: agnes_llm
+status: published
+language: th
+description: ชุดคำตอบการออกแบบที่เชื่อมโยงกันอย่างมีโครงสร้าง เพื่อแก้ปัญหาที่เกิดขึ้นซ้ำๆ
+  ในสถาปัตยกรรมซอฟต์แวร์หรือระบบ
 ---
-
 ## Definition
 
 ภาษาแพทเทิร์นคือกรอบการทำงานที่เป็นทางการซึ่งประกอบด้วยชุดของวิธีแก้ปัญหาที่ได้รับการพิสูจน์แล้วสำหรับปัญหาทั่วไปที่พบในการออกแบบ โดยเฉพาะอย่างยิ่งในวิศวกรรมซอฟต์แวร์และการวางผังเมือง แต่ละแพทเทิร์นจะอธิบายบริบท ปัญหา และผลลัพธ์ที่ได้

@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /fi/terms/hallucination/
 date: "2026-07-18T15:22:52.575538Z"
 lastmod: "2026-07-18T17:15:09.345018Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tilanne, jossa tekoälymalli tuottaa varman oloista mutta tosiasiallisesti virheellistä tai merkityksetöntä tietoa."
 ---
-
 ## Definition
 
 Hallusinoinnit syntyvät, kun generatiiviset tekoälymallit tuottavat ulostuloa, joka vaikuttaa uskottavalta mutta joka ei perustu todellisuuteen tai lähdetietoihin. Tämä on merkittävä haaste sovelluksissa, joissa vaaditaan korkeaa tarkkuutta.

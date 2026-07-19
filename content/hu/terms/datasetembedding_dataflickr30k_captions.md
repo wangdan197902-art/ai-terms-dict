@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /hu/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:53:33.065936Z"
 lastmod: "2026-07-18T17:15:09.769169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy multimodális adathalmaz, amely 31 000 képet köt össze emberi által generált feliratokkal a keresztmodális beágyazási modellek tanítása érdekében."
 ---
-
 ## Definition
 
 A Flickr30K Captions egy széles körben használt benchmark adathalmaz, amely 31 783 képből áll, mindegyikhez öt különböző angol mondat tartozik, amelyek leírják a vizuális tartalmat. Alapvető erőforrásként szolgál.

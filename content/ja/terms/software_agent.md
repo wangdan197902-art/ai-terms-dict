@@ -1,23 +1,23 @@
 ---
-title: "ソフトウェアエージェント"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: ソフトウェアエージェント
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /ja/terms/software_agent/
-date: "2026-07-18T11:32:34.991188Z"
-lastmod: "2026-07-18T11:44:45.145127Z"
+slug: software_agent
+date: '2026-07-18T11:32:34.991188Z'
+lastmod: '2026-07-18T11:44:45.145127Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ある程度の自律性を持って、ユーザーや他のプログラムの代わりにタスクを実行するコンピュータプログラム。"
+source: agnes_llm
+status: published
+language: ja
+description: ある程度の自律性を持って、ユーザーや他のプログラムの代わりにタスクを実行するコンピュータプログラム。
 ---
-
 ## Definition
 
 ソフトウェアエージェントは、環境を認識し、推論を行い、特定の目標を達成するために行動できる自律的なエンティティです。これらのエージェントは独立して動作し、変化に適応し、他のエージェントと協調することが可能です。

@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /id/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:05:47.495850Z"
 lastmod: "2026-07-18T16:38:07.497423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Alur Kerja Pyannote Audio adalah urutan langkah pemrosesan terstruktur yang menggabungkan berbagai model untuk melakukan diarisasi pembicara secara end-to-end."
 ---
-
 ## Definition
 
 Dalam konteks Pyannote Audio, alur kerja merujuk pada alur kerja yang dapat dikonfigurasi yang merangkai modul-modul berbeda untuk mencapai diarisasi pembicara. Secara umum, alur kerja mencakup tahap-tahap seperti deteksi aktivitas suara (VAD), ekstraksi fitur, dan klasterisasi untuk mengidentifikasi dan memisahkan suara pembicara yang berbeda.

@@ -1,23 +1,24 @@
 ---
-title: "Công cụ dạy học O-X bằng hộp diêm"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Công cụ dạy học O-X bằng hộp diêm
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /vi/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:02:22.002482Z"
-lastmod: "2026-07-18T16:38:07.780567Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:02:22.002482Z'
+lastmod: '2026-07-18T16:38:07.780567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thiết bị học tăng cường vật lý do Donald Michie chế tạo năm 1961 để chơi trò O-X (Tic-Tac-Toe) sử dụng hộp diêm và hạt."
+source: agnes_llm
+status: published
+language: vi
+description: Một thiết bị học tăng cường vật lý do Donald Michie chế tạo năm 1961
+  để chơi trò O-X (Tic-Tac-Toe) sử dụng hộp diêm và hạt.
 ---
-
 ## Definition
 
 Công cụ ME-O-X là một minh chứng sớm về học máy, cụ thể là học tăng cường. Được xây dựng từ 304 hộp diêm, mỗi hộp đại diện cho một trạng thái bàn cờ duy nhất, hệ th

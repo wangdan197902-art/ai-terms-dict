@@ -1,23 +1,24 @@
 ---
-title: "Koneksi Residual"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Koneksi Residual
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /id/terms/residual_connection/
-date: "2026-07-18T15:36:05.535153Z"
-lastmod: "2026-07-18T16:38:07.418729Z"
+slug: residual_connection
+date: '2026-07-18T15:36:05.535153Z'
+lastmod: '2026-07-18T16:38:07.418729Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Mekanisme yang menambahkan input secara langsung ke output lapisan untuk memfasilitasi aliran gradien dalam jaringan yang dalam."
+source: agnes_llm
+status: published
+language: id
+description: Mekanisme yang menambahkan input secara langsung ke output lapisan untuk
+  memfasilitasi aliran gradien dalam jaringan yang dalam.
 ---
-
 ## Definition
 
 Koneksi residual, juga dikenal sebagai koneksi skip, memungkinkan gradien mengalir melalui jaringan dengan menambahkan input secara langsung ke output lapisan berikutnya. Arsitektur ini menyelesaikan masalah gradien menghilang (vanishing gradient) pada jaringan yang sangat dalam.

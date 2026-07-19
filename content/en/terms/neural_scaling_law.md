@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /en/terms/neural_scaling_law/
 date: "2026-07-18T10:08:54.012406Z"
 lastmod: "2026-07-18T11:44:44.704027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Empirical relationships predicting model performance improvements based on increases in data, parameters, or compute."
 ---
-
 ## Definition
 
 Neural scaling laws describe the predictable power-law relationship between a model's performance and its scale, including dataset size, parameter count, and computational budget. These laws suggest that increasing resources consistently yields better accuracy and capability, guiding the design of large language models. Understanding these trends helps researchers allocate resources efficiently and forecast future capabilities of increasingly massive models.

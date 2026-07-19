@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /vi/terms/multi_agent/
 date: "2026-07-18T15:31:24.694285Z"
 lastmod: "2026-07-18T16:38:07.702508Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Kiến trúc hệ thống trong đó nhiều tác tử tự trị tương tác với nhau trong một môi trường để đạt được các mục tiêu cá nhân hoặc tập thể."
 ---
-
 ## Definition
 
 Các hệ thống đa tác tử bao gồm nhiều thực thể độc lập và thông minh, chúng quan sát môi trường, đưa ra quyết định và hành động dựa trên những quan sát đó. Các tác tử này có thể hợp tác, cạnh tranh hoặc thương lượng với nhau.

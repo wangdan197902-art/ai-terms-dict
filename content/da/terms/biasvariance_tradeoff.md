@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /da/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:44:21.124958Z"
 lastmod: "2026-07-18T17:15:09.265674Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et grundlæggende problem i overvåget læring, hvor minimering af fejl kræver en balance mellem modellens kompleksitet og dens generaliseringsevne."
 ---
-
 ## Definition
 
 Bias-varians-afvejningen beskriver spændingen mellem undertilpasning (høj bias) og overtilpasning (høj varians). Modeller med høj bias træffer stærke antagelser om dataene og ignorerer potentielt relevante mønstre, mens modeller med høj varians fanger støj i træningsdataene.

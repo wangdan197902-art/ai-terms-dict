@@ -1,23 +1,24 @@
 ---
-title: "Magazin de caracteristici"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: Magazin de caracteristici
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /ro/terms/feature_store/
-date: "2026-07-18T15:58:24.013446Z"
-lastmod: "2026-07-18T17:15:09.656214Z"
+slug: feature_store
+date: '2026-07-18T15:58:24.013446Z'
+lastmod: '2026-07-18T17:15:09.656214Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un depozit centralizat conceput pentru a gestiona, partaja și servi caracteristici în mod coerent în antrenamentul și inferența învățării automate."
+source: agnes_llm
+status: published
+language: ro
+description: Un depozit centralizat conceput pentru a gestiona, partaja și servi caracteristici
+  în mod coerent în antrenamentul și inferența învățării automate.
 ---
-
 ## Definition
 
 Un Magazin de Caracteristici acționează ca o punte între echipele de inginerie a datelor și cele de învățare automată, oferind o vedere unitară a caracteristicilor atât pentru antrenamentul în lot (batch), cât și pentru inferența în timp real. Asigură consistența prevenind discrepanțele dintre datele folosite pentru antrenament și cele pentru predicție.

@@ -1,23 +1,24 @@
 ---
-title: "Stany kwantowe sieci neuronowych"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: Stany kwantowe sieci neuronowych
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /pl/terms/neural_network_quantum_states/
-date: "2026-07-18T16:09:01.008700Z"
-lastmod: "2026-07-18T17:15:08.901451Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:09:01.008700Z'
+lastmod: '2026-07-18T17:15:08.901451Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Reprezentacja falowych funkcji wielu ciał w mechanice kwantowej przy użyciu architektur sztucznych sieci neuronowych."
+source: agnes_llm
+status: published
+language: pl
+description: Reprezentacja falowych funkcji wielu ciał w mechanice kwantowej przy
+  użyciu architektur sztucznych sieci neuronowych.
 ---
-
 ## Definition
 
 Stany kwantowe sieci neuronowych wykorzystują techniki głębokiego uczenia do przybliżania złożonych funkcji falowych kwantowych. Traktując wagi sieci neuronowych jako parametry optymalizujące amplitudy prawdopodobieństwa stanów kwantowych (kubitów).

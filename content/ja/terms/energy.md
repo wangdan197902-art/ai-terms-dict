@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /ja/terms/energy/
 date: "2026-07-18T10:50:36.162834Z"
 lastmod: "2026-07-18T11:44:45.007589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIにおけるエネルギーは、モデルのトレーニングや推論中に消費される計算電力、または確率モデルにおける数学的なポテンシャル関数を指すことがあります。"
 ---
-
 ## Definition
 
 AIにおけるエネルギーには2つの主な意味があります。第一に、ハードウェアを実行するために必要な電気電力を指し、モデルのスケール拡大に伴い持続可能性の観点から懸念が高まっています。第二に、統計力学に着想を得たモデル（エネルギーベースモデルなど）において、状態の安定性や尤度を表す数学的な関数として使用されます。

@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /vi/terms/grounding/
 date: "2026-07-18T15:55:54.184055Z"
 lastmod: "2026-07-18T16:38:07.763748Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình kết nối các đầu ra trừu tượng của AI với các sự thật, nguồn dữ liệu hoặc ngữ cảnh thực tế để đảm bảo tính chính xác và liên quan."
 ---
-
 ## Definition
 
 Trong AI, grounding đề cập đến việc liên kết các biểu tượng hoặc văn bản được tạo ra với các thực thể, dữ liệu hoặc trải nghiệm giác quan cụ thể trong thế giới thực. Đối với các mô hình ngôn ngữ, điều này thường liên quan đến việc sử dụng các kỹ thuật như Retrieval-Augmented Generation (RAG) để trích xuất thông tin từ cơ sở tri thức bên ngoài, giúp giảm thiểu hiện tượng 'ảo giác' (hallucination) và tăng độ tin cậy.

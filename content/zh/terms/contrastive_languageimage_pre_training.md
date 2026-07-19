@@ -1,23 +1,23 @@
 ---
-title: "对比式语言-图像预训练"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: 对比式语言-图像预训练
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /zh/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T11:11:27.290226Z"
-lastmod: "2026-07-18T11:44:45.463693Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T11:11:27.290226Z'
+lastmod: '2026-07-18T11:44:45.463693Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种多模态预训练方法，使用对比损失函数对齐图像和文本表示。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种多模态预训练方法，使用对比损失函数对齐图像和文本表示。
 ---
-
 ## Definition
 
 对比式语言-图像预训练（CLIP）是一种在图像及其对应的互联网标题上训练的神经网络架构。它使用对比目标来最大化共现（图像-文本对的相似度）。

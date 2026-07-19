@@ -1,23 +1,24 @@
 ---
-title: "Warunkowe Pole Losowe"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Warunkowe Pole Losowe
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /pl/terms/conditional_random_field/
-date: "2026-07-18T15:46:40.268893Z"
-lastmod: "2026-07-18T17:15:08.856676Z"
+slug: conditional_random_field
+date: '2026-07-18T15:46:40.268893Z'
+lastmod: '2026-07-18T17:15:08.856676Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Warunkowe Pole Losowe to dyskreminacyjny model probabilistyczny używany do zadań predykcji strukturalnych, takich jak etykietowanie sekwencji."
+source: agnes_llm
+status: published
+language: pl
+description: Warunkowe Pole Losowe to dyskreminacyjny model probabilistyczny używany
+  do zadań predykcji strukturalnych, takich jak etykietowanie sekwencji.
 ---
-
 ## Definition
 
 Warunkowe Pola Losowe (CRF) to klasa modeli dyskreminacyjnych powszechnie stosowana w przetwarzaniu języka naturalnego i bioinformatyce. W przeciwieństwie do modeli generatywnych, CRF bezpośrednio modelują prawdopodobieństwo warunkowe etykiet przy danych wejściowych, co często prowadzi do lepszej dokładności w zadaniach sekwencyjnych.

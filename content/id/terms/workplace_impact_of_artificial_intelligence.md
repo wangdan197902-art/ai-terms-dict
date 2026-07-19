@@ -1,23 +1,24 @@
 ---
-title: "Dampak kecerdasan buatan di tempat kerja"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: Dampak kecerdasan buatan di tempat kerja
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /id/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T16:13:33.331399Z"
-lastmod: "2026-07-18T16:38:07.520288Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T16:13:33.331399Z'
+lastmod: '2026-07-18T16:38:07.520288Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pengaruh teknologi AI terhadap struktur pekerjaan, peran jabatan, produktivitas, dan kolaborasi manusia-mesin di lingkungan profesional."
+source: agnes_llm
+status: published
+language: id
+description: Pengaruh teknologi AI terhadap struktur pekerjaan, peran jabatan, produktivitas,
+  dan kolaborasi manusia-mesin di lingkungan profesional.
 ---
-
 ## Definition
 
 Konsep ini mencakup pengaruh transformatif AI terhadap pasar tenaga kerja, termasuk otomatisasi tugas rutin, penciptaan kategori pekerjaan baru, dan pergeseran keterampilan yang dibutuhkan. AI meningkatkan produktivitas melalui efisiensi operasional, namun juga menuntut reskilling dan upskilling tenaga kerja untuk beradaptasi dengan dinamika baru di mana manusia dan mesin bekerja sama secara sinergis.

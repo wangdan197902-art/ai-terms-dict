@@ -1,23 +1,23 @@
 ---
-title: "Απώλεια"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Απώλεια
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /el/terms/loss/
-date: "2026-07-18T15:27:38.458616Z"
-lastmod: "2026-07-18T17:15:09.848290Z"
+slug: loss
+date: '2026-07-18T15:27:38.458616Z'
+lastmod: '2026-07-18T17:15:09.848290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας αριθμητικός δείκτης που ποσοτικοποιεί το σφάλμα μεταξύ των προβλέψεων ενός μοντέλου και των πραγματικών τιμών στόχου."
+source: agnes_llm
+status: published
+language: el
+description: Ένας αριθμητικός δείκτης που ποσοτικοποιεί το σφάλμα μεταξύ των προβλέψεων
+  ενός μοντέλου και των πραγματικών τιμών στόχου.
 ---
-
 ## Definition
 
 Οι συναρτήσεις απώλειας, γνωστές επίσης ως συναρτήσεις κόστους, μετρούν πόσο καλά ταιριάζουν οι προβλέψεις ενός μοντέλου μηχανικής μάθησης με την πραγματική κατάσταση κατά την εκπαίδευση. Ο στόχος του αλγορίθμου βελτιστοποίησης είναι να ελαχιστοποιήσει αυτή την τιμή.

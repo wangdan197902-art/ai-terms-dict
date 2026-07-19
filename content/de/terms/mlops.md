@@ -7,8 +7,6 @@ tags: ["operations", "deployment", "automation"]
 difficulty: 3
 weight: 1
 slug: "mlops"
-aliases:
-  - /de/terms/mlops/
 date: "2026-07-18T11:22:32.670931Z"
 lastmod: "2026-07-18T11:44:44.961550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "MLOps (Machine Learning Operations) ist eine Reihe von Praktiken, die maschinelles Lernen, DevOps und Data Engineering kombiniert, um den Lebenszyklus von ML-Modellen zu automatisieren und zu optimier"
 ---
-
 ## Definition
 
 MLOps ermöglicht es Organisationen, Machine-Learning-Modelle in der Produktion zuverlässig und effizient bereitzustellen und zu warten. Es umfasst Versionskontrolle für Daten und Modelle, automatisierte Tests, Continuous Integration...

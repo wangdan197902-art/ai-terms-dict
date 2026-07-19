@@ -1,23 +1,23 @@
 ---
-title: "ตัวถอดรหัส"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: ตัวถอดรหัส
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /th/terms/decoder/
-date: "2026-07-18T15:35:09.155626Z"
-lastmod: "2026-07-18T16:38:07.559530Z"
+slug: decoder
+date: '2026-07-18T15:35:09.155626Z'
+lastmod: '2026-07-18T16:38:07.559530Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "องค์ประกอบของเครือข่ายประสาทเทียมที่มีหน้าที่สร้างลำดับผลลัพธ์จากตัวแทนแฝงที่ถูกเข้ารหัสไว้แล้ว"
+source: agnes_llm
+status: published
+language: th
+description: องค์ประกอบของเครือข่ายประสาทเทียมที่มีหน้าที่สร้างลำดับผลลัพธ์จากตัวแทนแฝงที่ถูกเข้ารหัสไว้แล้ว
 ---
-
 ## Definition
 
 ในโมเดลลำดับต่อลำดับ ตัวถอดรหัสจะรับเวกเตอร์บริบทที่ผลิตโดยตัวเข้ารหัสและสร้างผลลัพธ์เป้าหมายทีละขั้นตอน โดยมันใช้กลไกความสนใจเพื่อโฟกัสไปที่ส่วนที่เกี่ยวข้องของข้อมูลต้นฉบับ

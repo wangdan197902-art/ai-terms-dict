@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /pt/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T14:57:54.148464Z"
-lastmod: "2026-07-18T15:51:59.485580Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T14:57:54.148464Z'
+lastmod: '2026-07-18T15:51:59.485580Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um pipeline que implementa a arquitetura do Stable Diffusion 3, apresentando MMDiT e Correspondência de Fluxo (Flow Matching) para melhorar a qualidade da imagem e a renderização de texto."
+source: agnes_llm
+status: published
+language: pt
+description: Um pipeline que implementa a arquitetura do Stable Diffusion 3, apresentando
+  MMDiT e Correspondência de Fluxo (Flow Matching) para melhorar a qualidade da imagem
+  e a renderização de texto.
 ---
-
 ## Definition
 
 Este pipeline utiliza o modelo Stable Diffusion 3, que introduz uma arquitetura de Transformador de Difusão Multimodal (MMDiT) e um objetivo de treinamento baseado em Correspondência de Fluxo (Flow Matching). Esses avanços melhoram significativamente a qualidade visual e a precisão textual.

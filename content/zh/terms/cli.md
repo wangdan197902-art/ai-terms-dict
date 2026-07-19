@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /zh/terms/cli/
 date: "2026-07-18T10:59:27.500282Z"
 lastmod: "2026-07-18T11:44:45.397443Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "命令行界面是一种基于文本的交互方式，用户通过在终端中输入命令来控制软件程序。"
 ---
-
 ## Definition
 
 命令行界面（CLI）允许用户通过输入文本命令而非使用图形元素来控制软件。在人工智能开发中，CLI对于运行脚本、管理模型资源以及自动化数据处理流程至关重要。它提供了对系统底层功能的直接访问，适合高级用户和自动化任务。

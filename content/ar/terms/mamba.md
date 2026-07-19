@@ -1,23 +1,24 @@
 ---
-title: "مبا"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: مبا
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /ar/terms/mamba/
-date: "2026-07-18T15:27:47.487080Z"
-lastmod: "2026-07-18T17:15:08.442703Z"
+slug: mamba
+date: '2026-07-18T15:27:47.487080Z'
+lastmod: '2026-07-18T17:15:08.442703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مبا هو نموذج تسلسلي لحالة الفضاء يوفر استنتاجاً خطياً في الوقت مع الحفاظ على أداء المحولات في مهام السياق الطويل."
+source: agnes_llm
+status: published
+language: ar
+description: مبا هو نموذج تسلسلي لحالة الفضاء يوفر استنتاجاً خطياً في الوقت مع الحفاظ
+  على أداء المحولات في مهام السياق الطويل.
 ---
-
 ## Definition
 
 يمثل مبا تقدماً كبيراً في نمذجة التسلسل من خلال تقديم نموذج حالة انتقائية واعٍ بالعتاد (SSM). وعلى عكس المحولات التقليدية التي تتوسع تربيعياً مع طول التسلسل، يتميز مبا بكفاءته الحسابية وقدرته على معالجة السياقات الطويلة دون التدهور الكبير في الأداء.

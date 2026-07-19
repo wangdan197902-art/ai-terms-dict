@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /nl/terms/outline_of_deep_learning/
 date: "2026-07-18T16:11:13.429985Z"
 lastmod: "2026-07-18T17:15:08.774316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gestructureerd overzicht van methodologieën, architecturen en optimalisatiestrategieën voor deep learning."
 ---
-
 ## Definition
 
 Het overzicht van deep learning omvat de fundamentele structuren zoals neurale netwerklagen, activatiefuncties en verliesmetrieken. Het beschrijft trainingsmethoden inclusief backpropagatie en gradient...

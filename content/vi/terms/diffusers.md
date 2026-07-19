@@ -1,23 +1,26 @@
 ---
-title: "Thư viện Diffusers"
-term_id: "diffusers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["library", "generative_ai", "tools", "hugging_face"]
+title: Thư viện Diffusers
+term_id: diffusers
+category: basic_concepts
+subcategory: ''
+tags:
+- library
+- Generative AI
+- tools
+- Hugging Face
 difficulty: 2
 weight: 1
-slug: "diffusers"
-aliases:
-  - /vi/terms/diffusers/
-date: "2026-07-18T15:49:28.654993Z"
-lastmod: "2026-07-18T16:38:07.749290Z"
+slug: diffusers
+date: '2026-07-18T15:49:28.654993Z'
+lastmod: '2026-07-18T16:38:07.749290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thư viện trong hệ sinh thái Hugging Face cung cấp các triển khai tiên tiến nhất của các mô hình khuếch tán cho việc tạo hình ảnh, âm thanh và văn bản."
+source: agnes_llm
+status: published
+language: vi
+description: Một thư viện trong hệ sinh thái Hugging Face cung cấp các triển khai
+  tiên tiến nhất của các mô hình khuếch tán cho việc tạo hình ảnh, âm thanh và văn
+  bản.
 ---
-
 ## Definition
 
 Hugging Face Diffusers là một bộ công cụ mô-đun được thiết kế để đơn giản hóa việc sử dụng các mô hình khuếch tán. Nó cung cấp các đường ống (pipelines) đã huấn luyện trước cho các tác vụ như tạo hình ảnh từ văn bản, tô vẽ lại hình ảnh và siêu phân giải.

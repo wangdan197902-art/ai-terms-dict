@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /no/terms/mauve/
-date: "2026-07-18T16:03:51.297752Z"
-lastmod: "2026-07-18T16:38:07.021457Z"
+slug: mauve
+date: '2026-07-18T16:03:51.297752Z'
+lastmod: '2026-07-18T16:38:07.021457Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) er en metrikk brukt i naturlig språkbehandling for å evaluere tilpasningen mellom genererte tekstfordelinger og menneskeskrevne tekstfordelinger."
+source: agnes_llm
+status: published
+language: 'no'
+description: MAUVE (Measuring Alignment Using Virtual Embeddings) er en metrikk brukt
+  i naturlig språkbehandling for å evaluere tilpasningen mellom genererte tekstfordelinger
+  og menneskeskrevne tekstfordelinger.
 ---
-
 ## Definition
 
 MAUVE er et statistisk mål designet for å vurdere hvor nært output fra en generativ språkmodell likner på menneskelig språkbruk. I motsetning til enkle perplexity-poeng, bruker MAUVE virtuelle innleiringer t

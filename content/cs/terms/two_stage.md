@@ -1,23 +1,23 @@
 ---
-title: "dvoustupňový"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: dvoustupňový
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /cs/terms/two_stage/
-date: "2026-07-18T15:33:43.744132Z"
-lastmod: "2026-07-18T17:15:09.086367Z"
+slug: two_stage
+date: '2026-07-18T15:33:43.744132Z'
+lastmod: '2026-07-18T17:15:09.086367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Architektura pipeline, kde probíhá zpracování ve zřetelných, po sobě jdoucích fázích."
+source: agnes_llm
+status: published
+language: cs
+description: Architektura pipeline, kde probíhá zpracování ve zřetelných, po sobě
+  jdoucích fázích.
 ---
-
 ## Definition
 
 Dvoustupňové architektury rozděluji složitou úlohu na dva samostatné kroky, obvykle zahrnující detekci následovanou klasifikací nebo zpřesněním. V počítačovém vidění příklady zahrnují detektory objektů jako...

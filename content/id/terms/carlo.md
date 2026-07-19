@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /id/terms/carlo/
 date: "2026-07-18T15:23:42.150496Z"
 lastmod: "2026-07-18T16:38:07.389891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada metode Monte Carlo, kelas algoritma komputasi yang mengandalkan pengambilan sampel acak berulang untuk mendapatkan hasil numerik."
 ---
-
 ## Definition
 
 Metode Monte Carlo adalah teknik penting dalam AI dan statistik untuk memperkirakan masalah matematika kompleks yang sulit diselesaikan secara analitis. Dengan menghasilkan ribuan atau jutaan sampel acak, metode ini memberikan aproksimasi numerik.

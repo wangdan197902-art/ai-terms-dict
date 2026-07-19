@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /zh/terms/semantic_analysis/
 date: "2026-07-18T11:32:54.019446Z"
 lastmod: "2026-07-18T11:44:45.552681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "语义分析是通过理解自然语言处理中单词之间及其上下文的关系统，从文本中提取意义的过程。"
 ---
-
 ## Definition
 
 它超越了句法结构，旨在解释语言输入的实际意图和重要性。这包括根据上下文消除词义歧义、识别实体以及理解

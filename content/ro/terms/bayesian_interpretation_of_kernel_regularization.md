@@ -1,23 +1,24 @@
 ---
-title: "Interpretarea bayesiană a regularizării cu nucleu"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Interpretarea bayesiană a regularizării cu nucleu
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /ro/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:47:06.135852Z"
-lastmod: "2026-07-18T17:15:09.632716Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:47:06.135852Z'
+lastmod: '2026-07-18T17:15:09.632716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un cadru teoretic care leagă metodele cu nucleu, cum ar fi SVM, de Procesele Gaussiene sub o presupunere a priori bayesiană."
+source: agnes_llm
+status: published
+language: ro
+description: Un cadru teoretic care leagă metodele cu nucleu, cum ar fi SVM, de Procesele
+  Gaussiene sub o presupunere a priori bayesiană.
 ---
-
 ## Definition
 
 Acest concept stabilește că minimizarea unei funcționale de risc regularizat cu un nucleu specific este echivalentă cu găsirea estimării maximului a posteriori (MAP) într-un cadru bayesian. Specific, regularizarea poate fi interpretată ca impunerea unei distribuții a priori asupra coeficienților modelului.

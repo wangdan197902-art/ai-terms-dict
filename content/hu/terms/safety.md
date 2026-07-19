@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /hu/terms/safety/
 date: "2026-07-18T15:30:52.438955Z"
 lastmod: "2026-07-18T17:15:09.729420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Annak tanulmánya és gyakorlata, hogy az AI rendszerek ne okozzanak fizikai, digitális vagy társadalmi kárt."
 ---
-
 ## Definition
 
 Az AI-biztonság egy többdiszciplináris terület, amely a fejlett mesterséges intelligenciából származó kedvezőtlen kimenetelek megelőzésére fókuszál. Magában foglalja az igazolást, az értelmezhetőséget és a robusztusságot érintő technikai kihívásokat, valamint a társadalmi hatások vizsgálatát.

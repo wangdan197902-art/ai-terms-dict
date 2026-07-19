@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /pt/terms/relational_data_mining/
 date: "2026-07-18T15:19:39.994204Z"
 lastmod: "2026-07-18T15:51:59.528593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de descobrir padrões e conhecimento a partir de dados compostos por múltiplas tabelas ou entidades inter-relacionadas."
 ---
-
 ## Definition
 
 A mineração de dados relacionais concentra-se na extração de informações úteis de bancos de dados onde os dados estão organizados em várias tabelas relacionadas, em vez de uma única tabela plana. Ela aproveita as relações entre diferentes entidades para revelar insights que não seriam evidentes ao analisar tabelas isoladamente.

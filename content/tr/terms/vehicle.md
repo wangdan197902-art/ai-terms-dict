@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /tr/terms/vehicle/
 date: "2026-07-18T15:30:49.875096Z"
 lastmod: "2026-07-18T16:38:07.247799Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI bağlamlarında araç, genellikle AI modellerinin son kullanıcılara dağıtıldığı veya sunulduğu platform veya ortamı ifade eder."
 ---
-
 ## Definition
 
 Geleneksel olarak taşıt anlamına gelse de, AI terminolojisinde 'araç' akıllı hizmetlerin teslim mekanizmasını metaforik olarak tanımlayabilir; örneğin mobil uygulamalar, web arayüzleri veya gömülü sistemler.

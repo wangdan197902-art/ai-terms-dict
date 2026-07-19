@@ -1,23 +1,25 @@
 ---
-title: "Inférence en périphérie"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Inférence en périphérie
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /fr/terms/edge_inference/
-date: "2026-07-18T11:15:27.661303Z"
-lastmod: "2026-07-18T11:44:45.245797Z"
+slug: edge_inference
+date: '2026-07-18T11:15:27.661303Z'
+lastmod: '2026-07-18T11:44:45.245797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'inférence en périphérie est le processus d'exécution de modèles d'apprentissage automatique localement sur les appareils des utilisateurs finaux plutôt que sur des serveurs cloud centralisés."
+source: agnes_llm
+status: published
+language: fr
+description: L'inférence en périphérie est le processus d'exécution de modèles d'apprentissage
+  automatique localement sur les appareils des utilisateurs finaux plutôt que sur
+  des serveurs cloud centralisés.
 ---
-
 ## Definition
 
 Cette pratique consiste à déployer des modèles d'IA entraînés directement sur du matériel tel que les smartphones, les capteurs IoT ou les systèmes embarqués. En traitant les données localement, l'inférence en périphérie réduit considérablement la latence.

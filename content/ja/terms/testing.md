@@ -1,23 +1,23 @@
 ---
-title: "テスト"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: テスト
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /ja/terms/testing/
-date: "2026-07-18T11:01:15.727415Z"
-lastmod: "2026-07-18T11:44:45.058475Z"
+slug: testing
+date: '2026-07-18T11:01:15.727415Z'
+lastmod: '2026-07-18T11:44:45.058475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "品質と安全性を保証するために、AIモデルの性能と信頼性を未見のデータ上で体系的に評価するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 品質と安全性を保証するために、AIモデルの性能と信頼性を未見のデータ上で体系的に評価するプロセス。
 ---
-
 ## Definition
 
 AIエンジニアリングにおけるテストは、バイアス、エラー、堅牢性の問題を特定するために、多様なデータセットに対してモデルを厳密に評価することを含みます。これには、コードコンポーネントに対するユニットテストや、統合テストが含まれます。

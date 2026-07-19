@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /id/terms/unlike/
 date: "2026-07-18T15:30:47.227085Z"
 lastmod: "2026-07-18T16:38:07.406447Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Operator logika yang digunakan dalam SQL dan pemrograman untuk memfilter catatan yang tidak sesuai dengan kondisi tertentu."
 ---
-
 ## Definition
 
 Dalam kueri basis data dan logika, 'Unlike' biasanya merujuk pada operator NOT LIKE, yang melakukan pencocokan pola secara terbalik. Operator ini mengembalikan nilai benar untuk baris di mana nilai kolom tidak sesuai dengan pola yang ditentukan.

@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /zh/terms/ai_literacy/
 date: "2026-07-18T11:03:04.566020Z"
 lastmod: "2026-07-18T11:44:45.435365Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "理解、评估人工智能技术及其社会影响，并与其有效互动的能力。"
 ---
-
 ## Definition
 
 AI素养指的是在日益受人工智能影响的世界中导航所需的能力。它超越了单纯的技术编码技能，还包括理解AI系统的工作原理、识别其局限性以及评估其在伦理和社会层面的后果。

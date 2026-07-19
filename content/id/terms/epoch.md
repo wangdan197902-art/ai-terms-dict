@@ -1,23 +1,24 @@
 ---
-title: "Epoch"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /id/terms/epoch/
-date: "2026-07-18T15:49:34.400551Z"
-lastmod: "2026-07-18T16:38:07.455552Z"
+slug: epoch
+date: '2026-07-18T15:49:34.400551Z'
+lastmod: '2026-07-18T16:38:07.455552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Satu putaran lengkap dataset pelatihan melalui algoritme pembelajaran mesin selama pelatihan model."
+source: agnes_llm
+status: published
+language: id
+description: Satu putaran lengkap dataset pelatihan melalui algoritme pembelajaran
+  mesin selama pelatihan model.
 ---
-
 ## Definition
 
 Dalam pembelajaran mesin, epoch mewakili satu iterasi tunggal atas seluruh dataset pelatihan. Selama setiap epoch, model memproses semua contoh pelatihan, memperbarui bobotnya melalui backpropagation, dan mengevaluasi kinerja terhadap data validasi.

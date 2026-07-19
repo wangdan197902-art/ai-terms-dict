@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /cs/terms/object/
 date: "2026-07-18T15:27:29.491138Z"
 lastmod: "2026-07-18T17:15:09.074073Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Samostatná entita v programu, která obsahuje data a metody pro manipulaci s těmito daty; klíčový koncept objektově orientovaného programování."
 ---
-
 ## Definition
 
 Objekt je základním konceptem v informatice, zejména v objektově orientovaném programování (OOP). Reprezentuje instanci třídy a zapouzdřuje jak stav (atributy nebo data), tak chování (metody). Tím umožňuje organizovat kód do moduly, které snadno spravují své vlastní data a funkce.

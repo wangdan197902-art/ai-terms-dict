@@ -1,23 +1,23 @@
 ---
-title: "特征哈希"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: 特征哈希
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /zh/terms/feature_hashing/
-date: "2026-07-18T11:17:13.896071Z"
-lastmod: "2026-07-18T11:44:45.498544Z"
+slug: feature_hashing
+date: '2026-07-18T11:17:13.896071Z'
+lastmod: '2026-07-18T11:44:45.498544Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种利用哈希函数将高维稀疏特征映射到固定大小向量的技术。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种利用哈希函数将高维稀疏特征映射到固定大小向量的技术。
 ---
-
 ## Definition
 
 特征哈希，也称为哈希技巧（hashing trick），允许机器学习模型处理大型稀疏特征空间，而无需维护特征与索引之间的显式映射。通过应用哈希函数，模型可以直接将任意特征映射到固定的向量维度中，从而节省内存并简化特征工程流程。

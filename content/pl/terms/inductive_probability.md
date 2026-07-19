@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /pl/terms/inductive_probability/
 date: "2026-07-18T16:00:04.172596Z"
 lastmod: "2026-07-18T17:15:08.885536Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Miara stopnia, w jakim dowody popierają hipotezę, odróżnialna od pewności dedukcyjnej."
 ---
-
 ## Definition
 
 Prawdopodobieństwo indukcyjne kwantyfikuje, jak prawdopodobne jest prawdziwe stwierdzenie hipotezy w świetle zaobserwowanych dowodów, uznając, że wnioski są prawdopodobne, a nie pewne. Stanowi ono podstawę wnioskowania bayesowskiego.

@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /de/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T11:29:56.787421Z"
 lastmod: "2026-07-18T11:44:44.981033Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein kollaboratives Lernparadigma, bei dem Menschen und Maschinen kontinuierlich voneinander lernen, um die Leistung zu verbessern."
 ---
-
 ## Definition
 
 Dieser Ansatz geht über einfaches Human-in-the-Loop-Labeling hinaus. Er beinhaltet einen bidirektionalen Wissenstransfer: Menschen korrigieren Modellfehler, während das Modell Menschen bei der Identifizierung von Mustern oder der Automatisierung von Aufgaben unterstützt, was zu einer kontinuierlichen Verbesserung beider Seiten führt.

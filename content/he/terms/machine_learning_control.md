@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /he/terms/machine_learning_control/
 date: "2026-07-18T16:11:19.673089Z"
 lastmod: "2026-07-18T17:15:09.561282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "גישה בתורת הבקרה שבה אלגוריתמי למידת מכונה מנהלים דינמיקה של המערכת בצורה אדפטיבית כדי לייעל ביצועים בזמן אמת."
 ---
-
 ## Definition
 
 בקרה באמצעות למידת מכונה משלבת אלגוריתמים אדפטיביים עם מערכות בקרה מסורתיות כדי להתמודד עם סביבות לא ליניאריות או לא ודאיות. בניגוד לבקרים סטטיים, מערכות אלו לומדות מהפעלה ומתאימות את עצמן לשינויים.

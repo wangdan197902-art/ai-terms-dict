@@ -1,23 +1,23 @@
 ---
-title: "终极算法"
-term_id: "the_master_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "literature"]
+title: 终极算法
+term_id: the_master_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- literature
 difficulty: 4
 weight: 1
-slug: "the_master_algorithm"
-aliases:
-  - /zh/terms/the_master_algorithm/
-date: "2026-07-18T11:36:20.483385Z"
-lastmod: "2026-07-18T11:44:45.563477Z"
+slug: the_master_algorithm
+date: '2026-07-18T11:36:20.483385Z'
+lastmod: '2026-07-18T11:44:45.563477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "终极算法指的是一种假设性的通用学习算法，能够从数据中推导出所有知识。"
+source: agnes_llm
+status: published
+language: zh
+description: 终极算法指的是一种假设性的通用学习算法，能够从数据中推导出所有知识。
 ---
-
 ## Definition
 
 该术语由佩德罗·多明戈斯在其同名著作中提出，“终极算法”描述了一个理论上的机器学习统一框架，能够复制所有人类的学习过程。它设想了一种能够整合各种学习范式的通用智能。

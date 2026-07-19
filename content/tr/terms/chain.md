@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /tr/terms/chain/
 date: "2026-07-18T15:44:48.049585Z"
 lastmod: "2026-07-18T16:38:07.281358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir Zincir, karmaşık bir görevi gerçekleştirmek için verileri sırayla işlemek üzere birbirine bağlanmış adımlar veya modüller dizisidir."
 ---
-
 ## Definition
 
 AI uygulama geliştirme bağlamında, bir Zincir; LLM çağrıları, ayrıştırıcılar veya harici araçlar gibi bileşenlerin birbirine bağlandığı doğrusal veya yönlü bir graf yapısını ifade eder. Veri, bir bileşenden diğerine akarak işlenir.

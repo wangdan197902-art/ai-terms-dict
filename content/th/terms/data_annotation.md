@@ -1,23 +1,24 @@
 ---
-title: "Data Annotation"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: Data Annotation
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /th/terms/data_annotation/
-date: "2026-07-18T15:47:33.087202Z"
-lastmod: "2026-07-18T16:38:07.591829Z"
+slug: data_annotation
+date: '2026-07-18T15:47:33.087202Z'
+lastmod: '2026-07-18T16:38:07.591829Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Data Annotation คือกระบวนการติดป้ายกำกับข้อมูลดิบ เช่น รูปภาพหรือข้อความ เพื่อให้เหมาะสมสำหรับการฝึกสอนแมชชีนเลิร์นนิงแบบมีผู้ควบคุม"
+source: agnes_llm
+status: published
+language: th
+description: Data Annotation คือกระบวนการติดป้ายกำกับข้อมูลดิบ เช่น รูปภาพหรือข้อความ
+  เพื่อให้เหมาะสมสำหรับการฝึกสอนแมชชีนเลิร์นนิงแบบมีผู้ควบคุม
 ---
-
 ## Definition
 
 ขั้นตอนสำคัญนี้เกี่ยวข้องกับการแนบเมตาดาต้าที่มีความหมายไปยังจุดข้อมูลดิบ เพื่อให้อัลกอริทึมสามารถเรียนรู้ความสัมพันธ์ระหว่างข้อมูลนำเข้าและผลลัพธ์ได้ ตัวอย่างเช่น การวาดกล่องล้อมรอบวัตถุในรูปภาพเพื่อระบุประเภทของวัตถุนั้น

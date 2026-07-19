@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /tr/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:47:47.308653Z"
 lastmod: "2026-07-18T16:38:07.291793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "31.000 görüntüyü insan tarafından oluşturulan altyazılarla eşleştirerek çapraz modlu gömme modellerini eğitmek için kullanılan çok modlu bir veri seti."
 ---
-
 ## Definition
 
 Flickr30K Altyazıları, görsel içeriği açıklayan beş farklı İngilizce cümle ile etiketlenmiş 31.783 görüntüden oluşan yaygın olarak kullanılan bir referans veri setidir. Temel bir kaynak olarak hizmet verir.

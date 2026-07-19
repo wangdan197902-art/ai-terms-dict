@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /id/terms/bayesian/
 date: "2026-07-18T15:23:25.803025Z"
 lastmod: "2026-07-18T16:38:07.389033Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Berhubungan dengan metode statistik berdasarkan Teorema Bayes untuk memperbarui probabilitas dengan bukti baru."
 ---
-
 ## Definition
 
 Pendekatan Bayesian dalam AI menggunakan teori probabilitas untuk memperbarui kemungkinan hipotesis seiring tersedianya lebih banyak bukti. Metode ini memungkinkan model untuk mengukur ketidakpastian dan menyempurnakan prediksi secara dinamis.

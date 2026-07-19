@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /pl/terms/semantic_folding/
 date: "2026-07-18T16:16:02.869179Z"
 lastmod: "2026-07-18T17:15:08.916236Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technika mapująca wysokowymiarowe reprezentacje semantyczne na przestrzeń o niższej wymiarowości, zachowując jednocześnie struktury relacyjne."
 ---
-
 ## Definition
 
 Folding semantyczny odnosi się do procesu kompresji złożonych, wysokowymiarowych osadzeń wektorowych do bardziej zarządzalnej reprezentacji o niższej wymiarowości, bez istotnej utraty znaczenia semantycznego.

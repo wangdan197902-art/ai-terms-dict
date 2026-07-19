@@ -1,23 +1,23 @@
 ---
-title: "การสร้างภาพ"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: การสร้างภาพ
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /th/terms/image_generation/
-date: "2026-07-18T15:59:31.173499Z"
-lastmod: "2026-07-18T16:38:07.617187Z"
+slug: image_generation
+date: '2026-07-18T15:59:31.173499Z'
+lastmod: '2026-07-18T16:38:07.617187Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การสร้างภาพคือกระบวนการสร้างเนื้อหาภาพใหม่ขึ้นมาจากศูนย์หรือแก้ไขภาพที่มีอยู่โดยใช้โมเดล AI แบบสร้างข้อมูล (generative AI)"
+source: agnes_llm
+status: published
+language: th
+description: การสร้างภาพคือกระบวนการสร้างเนื้อหาภาพใหม่ขึ้นมาจากศูนย์หรือแก้ไขภาพที่มีอยู่โดยใช้โมเดล
+  AI แบบสร้างข้อมูล (generative AI)
 ---
-
 ## Definition
 
 กระบวนทัศน์นี้ใช้โมเดลเช่น Stable Diffusion หรือ DALL-E เพื่อผลิตภาพคุณภาพสูงตามคำอธิบายข้อความหรืออินพุตอื่นๆ เกี่ยวข้องกับการเรียนรู้การแจกแจงข้อมูลที่ซับซ้อนเพื่อสังเคราะห์ภาพที่สมจริง

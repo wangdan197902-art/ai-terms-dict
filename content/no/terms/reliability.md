@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /no/terms/reliability/
 date: "2026-07-18T16:14:28.814645Z"
 lastmod: "2026-07-18T16:38:07.042567Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den graden hvori et AI-system konsekvent utfører sine tenkte funksjoner korrekt og trygt under spesifiserte forhold."
 ---
-
 ## Definition
 
 Pålitelighet innen AI refererer til systemets atferds troverdighet og konsistens over tid og på tvers av ulike inndata. Et pålitelig AI-system bør produsere nøyaktige resultater, håndtere yttertilfeller gr

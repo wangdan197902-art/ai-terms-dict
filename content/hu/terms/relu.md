@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /hu/terms/relu/
-date: "2026-07-18T15:39:25.490757Z"
-lastmod: "2026-07-18T17:15:09.744274Z"
+slug: relu
+date: '2026-07-18T15:39:25.490757Z'
+lastmod: '2026-07-18T17:15:09.744274Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Rectified Linear Unit (ReLU) egy aktivációs függvény, amely pozitív bemenet esetén közvetlenül visszaadja azt, ellenkező esetben nullát ad ki."
+source: agnes_llm
+status: published
+language: hu
+description: A Rectified Linear Unit (ReLU) egy aktivációs függvény, amely pozitív
+  bemenet esetén közvetlenül visszaadja azt, ellenkező esetben nullát ad ki.
 ---
-
 ## Definition
 
 A ReLU széles körben használt a mélytanuló neurális hálózatokban számítási hatékonysága és a „szűnő gradiens” (vanishing gradient) probléma enyhítése miatt. Matematikailag az f(x) = max(0, x) képlettel definiálják, így nemlineáris tulajdonságokat vezet be a hálózatba.

@@ -1,23 +1,23 @@
 ---
-title: "ผ่านการฝึกมาก่อนแล้ว (Pretrained)"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: ผ่านการฝึกมาก่อนแล้ว (Pretrained)
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /th/terms/pretrained/
-date: "2026-07-18T16:11:17.860653Z"
-lastmod: "2026-07-18T16:38:07.643556Z"
+slug: pretrained
+date: '2026-07-18T16:11:17.860653Z'
+lastmod: '2026-07-18T16:38:07.643556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หมายถึงโมเดลที่ถูกฝึกบนชุดข้อมูลขนาดใหญ่ก่อนที่จะนำไปปรับใช้สำหรับงานเฉพาะทาง"
+source: agnes_llm
+status: published
+language: th
+description: หมายถึงโมเดลที่ถูกฝึกบนชุดข้อมูลขนาดใหญ่ก่อนที่จะนำไปปรับใช้สำหรับงานเฉพาะทาง
 ---
-
 ## Definition
 
 คำว่า 'ผ่านการฝึกมาก่อนแล้ว' อธิบายถึงโมเดลเครือข่ายประสาทเทียมที่ผ่านการฝึกเริ่มต้นบนชุดข้อมูลขนาดใหญ่มักจะเป็นข้อมูลทั่วไป เช่น ImageNet หรือ Wikipedia กระบวนการนี้ช่วยให้โมเดลเรียนรู้คุณลักษณะพื้นฐานและโครงสร้างของข้อมูลอย่างลึกซึ้ง จากนั้นจึงสามารถนำโมเดลดังกล่าวไปปรับแต่ง (fine-tune) ด้วยข้อมูลเฉพาะทางจำนวนน้อยกว่าเพื่อให้ทำงานในโดเมนเป้าหมายได้อย่างมีประสิทธิภาพ

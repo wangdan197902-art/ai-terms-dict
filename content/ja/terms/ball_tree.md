@@ -1,23 +1,23 @@
 ---
-title: "ボールツリー"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: ボールツリー
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /ja/terms/ball_tree/
-date: "2026-07-18T11:05:58.596306Z"
-lastmod: "2026-07-18T11:44:45.072114Z"
+slug: ball_tree
+date: '2026-07-18T11:05:58.596306Z'
+lastmod: '2026-07-18T11:44:45.072114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ボールツリーは、空間内の点を整理するために使用される二分木データ構造であり、高次元データセットにおける最近傍探索を最適化します。"
+source: agnes_llm
+status: published
+language: ja
+description: ボールツリーは、空間内の点を整理するために使用される二分木データ構造であり、高次元データセットにおける最近傍探索を最適化します。
 ---
-
 ## Definition
 
 ボールツリーは、ハイパー直方体ではなく、入れ子になった超球（ボール）にデータポイントを分割します。この構造により、近傍点間の距離を計算することで最近傍クエリ中に効率的なプルーニングが可能になります。

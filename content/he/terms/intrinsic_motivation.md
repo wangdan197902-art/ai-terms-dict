@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /he/terms/intrinsic_motivation/
 date: "2026-07-18T16:07:37.134180Z"
 lastmod: "2026-07-18T17:15:09.552612Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קונספט בלמידה חיזוקית שבו סוכנים שואפים למטרות מתוך סקרנות פנימית או צורך ברכישת ידע, ולא מתגמולים חיצוניים."
 ---
-
 ## Definition
 
 בלמידה חיזוקית, מוטיבציה פנימית מניעה סוכן לחקור את הסביבה שלו על ידי חיפוש חדשות, הפחתת אי-ודאות או שליטה במיומנויות, ללא תלות בתגמולי המשימה החיצונית. שיטה זו

@@ -1,23 +1,24 @@
 ---
-title: "Точка"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: Точка
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /ru/terms/point/
-date: "2026-07-18T15:28:03.175943Z"
-lastmod: "2026-07-18T16:38:07.086736Z"
+slug: point
+date: '2026-07-18T15:28:03.175943Z'
+lastmod: '2026-07-18T16:38:07.086736Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В математике ИИ точка представляет собой конкретное местоположение в многомерном векторном пространстве, часто используемое во встраиваниях (эмбеддингах) или системах координат."
+source: agnes_llm
+status: published
+language: ru
+description: В математике ИИ точка представляет собой конкретное местоположение в
+  многомерном векторном пространстве, часто используемое во встраиваниях (эмбеддингах)
+  или системах координат.
 ---
-
 ## Definition
 
 Точка в контексте ИИ обычно обозначает дискретную координату в пространстве признаков или векторе эмбеддинга. Например, в алгоритмах кластеризации, таких как K-Means, каждый образец данных рассматривается как точка в многомерном пространстве.

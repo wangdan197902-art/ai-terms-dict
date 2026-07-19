@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /pt/terms/game_theory/
 date: "2026-07-18T15:01:22.127476Z"
 lastmod: "2026-07-18T15:51:59.493360Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O estudo matemático da interação estratégica entre tomadores de decisão racionais, onde os resultados dependem das ações de todos os participantes."
 ---
-
 ## Definition
 
 A teoria dos jogos é um ramo da matemática aplicada que modela interações estratégicas entre agentes racionais. Ela analisa situações em que o sucesso de um jogador depende das escolhas dos outros, buscando identificar equilíbrios ótimos e prever comportamentos em cenários competitivos ou cooperativos.

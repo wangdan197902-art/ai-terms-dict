@@ -7,8 +7,6 @@ tags: ["video", "enhancement", "upscaling", "cv"]
 difficulty: 4
 weight: 1
 slug: "video_super_resolution"
-aliases:
-  - /nl/terms/video_super_resolution/
 date: "2026-07-18T16:21:27.232735Z"
 lastmod: "2026-07-18T17:15:08.796624Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Video Super Resolution (VSR) is een computer vision-techniek die de ruimtelijke en temporale resolutie van videoframes van lage kwaliteit verbetert met behulp van deep learning."
 ---
-
 ## Definition
 
 Video Super Resolution omvat het gebruik van neurale netwerken om video-inhoud van lagere resoluties (bijv. 480p) op te schalen naar hogere resoluties (bijv. 4K), waarbij details worden behouden en artefacten worden verminderd. In tegenstelling tot statische beeldverwerking, houdt VSR ook rekening met temporale consistentie tussen frames.

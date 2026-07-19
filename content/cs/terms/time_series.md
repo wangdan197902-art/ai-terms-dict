@@ -1,23 +1,23 @@
 ---
-title: "Časová řada"
-term_id: "time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "forecasting"]
+title: Časová řada
+term_id: time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- forecasting
 difficulty: 3
 weight: 1
-slug: "time_series"
-aliases:
-  - /cs/terms/time_series/
-date: "2026-07-18T16:20:36.116241Z"
-lastmod: "2026-07-18T17:15:09.207852Z"
+slug: time_series
+date: '2026-07-18T16:20:36.116241Z'
+lastmod: '2026-07-18T17:15:09.207852Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Sekvence datových bodů indexovaných v časovém pořadí, běžně analyzovaná pomocí specializovaných modelů AI pro předpovídání."
+source: agnes_llm
+status: published
+language: cs
+description: Sekvence datových bodů indexovaných v časovém pořadí, běžně analyzovaná
+  pomocí specializovaných modelů AI pro předpovídání.
 ---
-
 ## Definition
 
 Data časových řad se skládají z pozorování zaznamenaných postupně v časových intervalech. V AI je tento typ dat klíčový pro předpovídání budoucích trendů na základě historických vzorců. Specializované modely, jako...

@@ -1,23 +1,24 @@
 ---
-title: "Υπολογισμός χαρακτήρα"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Υπολογισμός χαρακτήρα
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /el/terms/character_computing/
-date: "2026-07-18T15:54:50.175166Z"
-lastmod: "2026-07-18T17:15:09.887909Z"
+slug: character_computing
+date: '2026-07-18T15:54:50.175166Z'
+lastmod: '2026-07-18T17:15:09.887909Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο υπολογισμός χαρακτήρα περιλαμβάνει την επεξεργασία, δημιουργία ή ανάλυση κειμένου σε επίπεδο μεμονωμένου χαρακτήρα και όχι σε επίπεδο λέξης ή πρότασης."
+source: agnes_llm
+status: published
+language: el
+description: Ο υπολογισμός χαρακτήρα περιλαμβάνει την επεξεργασία, δημιουργία ή ανάλυση
+  κειμένου σε επίπεδο μεμονωμένου χαρακτήρα και όχι σε επίπεδο λέξης ή πρότασης.
 ---
-
 ## Definition
 
 Η έννοια αυτή εστιάζει στη χειραγώγηση του κειμένου όπου η θεμελιώδης μονάδα υπολογισμού είναι ένας μεμονωμένος χαρακτήρας. Συχνά χρησιμοποιείται σε εργασίες που απαιτούν λεπτομερή ανάλυση κειμένου, όπως ο έλεγχος ορθογραφίας

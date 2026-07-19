@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /fr/terms/coupled_pattern_learner/
 date: "2026-07-18T11:10:40.380755Z"
 lastmod: "2026-07-18T11:44:45.212111Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une approche algorithmique qui apprend simultanément les relations entre deux ensembles distincts mais corrélés de motifs ou de caractéristiques."
 ---
-
 ## Definition
 
 Les apprenants de motifs couplés sont conçus pour gérer des données où les instances provenant de deux espaces différents sont liées, comme des images et leurs descriptions textuelles. En modélisant la distribution conjointe ou la corrélation entre ces espaces.

@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /en/terms/vector_database/
 date: "2026-07-18T09:37:52.960850Z"
 lastmod: "2026-07-18T11:44:44.612998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A specialized database designed to store, index, and query high-dimensional vectors representing data features."
 ---
-
 ## Definition
 
 Vector databases optimize the storage and retrieval of unstructured data by converting it into numerical embeddings. They use algorithms like Approximate Nearest Neighbor (ANN) to efficiently find similar items based on distance metrics. This technology is critical for AI applications requiring semantic search, recommendation engines, and similarity matching, enabling fast retrieval from massive datasets where traditional relational databases fail.

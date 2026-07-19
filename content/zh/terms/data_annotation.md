@@ -1,23 +1,23 @@
 ---
-title: "数据标注"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: 数据标注
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /zh/terms/data_annotation/
-date: "2026-07-18T11:12:24.479779Z"
-lastmod: "2026-07-18T11:44:45.474423Z"
+slug: data_annotation
+date: '2026-07-18T11:12:24.479779Z'
+lastmod: '2026-07-18T11:44:45.474423Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "数据标注是对原始数据（如图像或文本）进行标记的过程，使其适用于监督式机器学习训练。"
+source: agnes_llm
+status: published
+language: zh
+description: 数据标注是对原始数据（如图像或文本）进行标记的过程，使其适用于监督式机器学习训练。
 ---
-
 ## Definition
 
 这一关键步骤涉及为原始数据点附加有意义的元数据，以便算法能够学习输入与输出之间的关系。例如，在图像中物体周围绘制边界框……

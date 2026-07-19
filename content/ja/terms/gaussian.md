@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /ja/terms/gaussian/
 date: "2026-07-18T10:51:14.545076Z"
 lastmod: "2026-07-18T11:44:45.009615Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "正規分布に関連し、統計学およびAIにおけるノイズモデリングの基本となる鐘型の曲線。"
 ---
-
 ## Definition
 
 ガウス分布とは、平均と分散によって特徴づけられる連続確率分布である正規分布を指します。AIにおいては、確率的モデリング、ベイズ推論、およびノイズのモデル化などに広く使用されています。

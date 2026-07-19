@@ -1,23 +1,23 @@
 ---
-title: "อคติของอัลกอริทึม"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: อคติของอัลกอริทึม
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /th/terms/algorithmic_bias/
-date: "2026-07-18T15:39:59.432646Z"
-lastmod: "2026-07-18T16:38:07.572194Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:39:59.432646Z'
+lastmod: '2026-07-18T16:38:07.572194Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อคติของอัลกอริทึมนั้นหมายถึงข้อผิดพลาดที่เป็นระบบและเกิดขึ้นซ้ำ ๆ ในระบบคอมพิวเตอร์ที่ก่อให้เกิดผลลัพธ์ไม่เป็นธรรม เช่น การเอื้อประโยชน์ต่อกลุ่มใดกลุ่มหนึ่งโดยพลการเหนือกว่ากลุ่มอื่น"
+source: agnes_llm
+status: published
+language: th
+description: อคติของอัลกอริทึมนั้นหมายถึงข้อผิดพลาดที่เป็นระบบและเกิดขึ้นซ้ำ ๆ ในระบบคอมพิวเตอร์ที่ก่อให้เกิดผลลัพธ์ไม่เป็นธรรม
+  เช่น การเอื้อประโยชน์ต่อกลุ่มใดกลุ่มหนึ่งโดยพลการเหนือกว่ากลุ่มอื่น
 ---
-
 ## Definition
 
 อคติในอัลกอริทึมมักมีที่มาจากข้อมูลการฝึกฝนที่ไม่เป็นตัวแทนที่สมบูรณ์ การออกแบบที่มีความลำเอียง หรือวงจรป้อนกลับที่ขยายความลำเอียงทางสังคมที่มีอยู่เดิม ซึ่งแสดงออกเป็นความเบ้เบนในการทำนาย

@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /da/terms/math/
 date: "2026-07-18T16:07:08.197536Z"
 lastmod: "2026-07-18T17:15:09.309985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den grundlæggende disciplin, der involverer tal, strukturer, rum og ændringer, essentiel til formulering og løsning af AI-problemer."
 ---
-
 ## Definition
 
 Inden for kunstig intelligens giver matematikken det teoretiske rammeværk til algoritmedesign og analyse. Nøgleområder inkluderer lineær algebra til datrepræsentation, differentialregning til optimering og bagudpropagering, sandsynlighedsteori til håndtering af usikkerhed og statistik til datanalyse og modellvalidering.

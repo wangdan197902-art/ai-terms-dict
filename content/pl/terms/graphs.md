@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /pl/terms/graphs/
 date: "2026-07-18T15:26:05.444549Z"
 lastmod: "2026-07-18T17:15:08.812630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Liczba mnoga odnosząca się do wielu struktur graficznych lub wizualnych reprezentacji trendów danych w uczeniu maszynowym."
 ---
-
 ## Definition
 
  podczas gdy pojedynczy 'graf' odnosi się do abstrakcyjnej struktury danych, 'grafy' często oznacza zarówno wiele różnych instancji grafów, jak i wizualne wykresy używane w monitorowaniu ML. W wizualizacji mogą to być wykresy liniowe lub słupkowe...

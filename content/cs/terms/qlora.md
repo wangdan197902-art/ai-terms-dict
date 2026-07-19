@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /cs/terms/qlora/
-date: "2026-07-18T15:37:59.146705Z"
-lastmod: "2026-07-18T17:15:09.092272Z"
+slug: qlora
+date: '2026-07-18T15:37:59.146705Z'
+lastmod: '2026-07-18T17:15:09.092272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Kvantované nízkorangové adaptace, metoda pro efektivní doladění velkých jazykových modelů pomocí 4bitové kvantizace a nízkorangových adaptéru."
+source: agnes_llm
+status: published
+language: cs
+description: Kvantované nízkorangové adaptace, metoda pro efektivní doladění velkých
+  jazykových modelů pomocí 4bitové kvantizace a nízkorangových adaptéru.
 ---
-
 ## Definition
 
 QLoRA kombinuje nízkorangovou adaptaci (LoRA) s 4bitovou kvantizací, což výrazně snižuje paměťovou náročnost potřebnou pro doladění masivních modelů. Ukládáním vah ve formátu 4 bitů a přidáním trénovatelných nízkorangových matic se dosahuje efektivity.

@@ -1,23 +1,25 @@
 ---
-title: "Προσοχή"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Προσοχή
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /el/terms/attention/
-date: "2026-07-18T15:37:49.844114Z"
-lastmod: "2026-07-18T17:15:09.863842Z"
+slug: attention
+date: '2026-07-18T15:37:49.844114Z'
+lastmod: '2026-07-18T17:15:09.863842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μηχανισμός που επιτρέπει στα νευρωνικά δίκτυα να ζυγίζουν δυναμικά τη σημασία διαφορετικών τμημάτων της ακολουθίας εισόδου."
+source: agnes_llm
+status: published
+language: el
+description: Μηχανισμός που επιτρέπει στα νευρωνικά δίκτυα να ζυγίζουν δυναμικά τη
+  σημασία διαφορετικών τμημάτων της ακολουθίας εισόδου.
 ---
-
 ## Definition
 
 Οι μηχανισμοί προσοχής επιτρέπουν στα μοντέλα να εστιάζουν σε σχετικές πληροφορίες κατά την επεξεργασία εισόδων, ιδιαίτερα σε διαδοχικά δεδομένα όπως το κείμενο. Υπολογίζοντας σκορ προσοχής, το μοντέλο καθορίζει ποια στοιχεία της εισόδου πρέπει να λάβουν περισσότερη βαρύτητα.

@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /ko/terms/langevin/
 date: "2026-07-18T15:25:30.630901Z"
 lastmod: "2026-07-18T16:38:06.776934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "랑주뱅은 확률 미분 방정식을 참조하며, 특히 마찰과 노이즈가 있는 물리적 운동을 시뮬레이션하여 확률 분포에서 샘플링하기 위해 사용되는 랑주뱅 동역학을 의미합니다."
 ---
-
 ## Definition
 
 랑주뱅 동역학은 에너지 경관을 효율적으로 탐색하기 위해 무작위 노이즈와 감쇠력을 통합합니다. AI에서는 주로 해밀턴 몬테 카를로나 확률적 그래디언트와 같은 샘플링 방법에 사용됩니다.

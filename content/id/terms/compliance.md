@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /id/terms/compliance/
 date: "2026-07-18T15:43:04.733174Z"
 lastmod: "2026-07-18T16:38:07.438601Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kepatuhan sistem AI terhadap regulasi hukum, standar etika, dan pedoman industri."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, kepatuhan mengacu pada proses memastikan bahwa model AI dan penerapannya selaras dengan hukum yang berlaku, seperti GDPR atau HIPAA, serta kerangka kerja etika internal.

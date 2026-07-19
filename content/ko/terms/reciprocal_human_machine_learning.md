@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /ko/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:13:06.224423Z"
 lastmod: "2026-07-18T16:38:06.903256Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "人間と機械が互いに教え合い、学び合うことでパフォーマンスを継続的に向上させる協調的学習パラダイム。"
 ---
-
 ## Definition
 
 このアプローチは、単純なヒューマンインザループ（人間によるラベリング）を超えたものです。双方向の知識転送が含まれます：人間はモデルのエラーを修正し、モデルはパターン識別の支援や自動化を通じて人間...

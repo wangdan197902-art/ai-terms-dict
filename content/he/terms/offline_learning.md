@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /he/terms/offline_learning/
 date: "2026-07-18T16:15:08.978570Z"
 lastmod: "2026-07-18T17:15:09.570552Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "למידה לא מקוונת היא פרדיגמת אימון שבה מודלים מאומנים על גבי אוגרי נתונים סטטיים ללא אינטראקציה עם הסביבה החיה במהלך שלב הלמידה."
 ---
-
 ## Definition
 
 ידועה גם כלימוד אצווה (Batch Learning), למידה לא מקוונת כוללת אימון של מודלים למידת מכונה על אוגר נתונים קבוצתי שנאסף בעבר. בניגוד ללמידה מקוונת, המודל אינו מעדכן את הפרמטרים שלו בתגובה לנתונים חדשים בזמן אמת.

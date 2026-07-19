@@ -1,23 +1,24 @@
 ---
-title: "Uç Bilgi İşleme"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Uç Bilgi İşleme
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /tr/terms/edge_inference/
-date: "2026-07-18T15:51:18.679237Z"
-lastmod: "2026-07-18T16:38:07.303338Z"
+slug: edge_inference
+date: '2026-07-18T15:51:18.679237Z'
+lastmod: '2026-07-18T16:38:07.303338Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Uç bilgi işleme, makine öğrenimi modellerinin merkezi bulut sunucularında değil, son kullanıcı cihazlarında yerel olarak yürütülmesi işlemidir."
+source: agnes_llm
+status: published
+language: tr
+description: Uç bilgi işleme, makine öğrenimi modellerinin merkezi bulut sunucularında
+  değil, son kullanıcı cihazlarında yerel olarak yürütülmesi işlemidir.
 ---
-
 ## Definition
 
 Bu uygulama, eğitilmiş yapay zeka modellerini doğrudan akıllı telefonlar, IoT sensörleri veya gömülü sistemler gibi donanımlara dağıtmayı içerir. Verilerin yerel olarak işlenmesi, uç bilgi işleme gecikmesini önemli ölçüde azaltır.

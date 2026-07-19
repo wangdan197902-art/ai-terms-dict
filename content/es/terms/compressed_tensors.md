@@ -1,23 +1,24 @@
 ---
-title: "Tensores comprimidos"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Tensores comprimidos
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /es/terms/compressed_tensors/
-date: "2026-07-18T10:40:08.134691Z"
-lastmod: "2026-07-18T11:44:44.787280Z"
+slug: compressed_tensors
+date: '2026-07-18T10:40:08.134691Z'
+lastmod: '2026-07-18T11:44:44.787280Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Tensores cuya precisión o tamaño de datos se ha reducido para optimizar el almacenamiento y la eficiencia computacional."
+source: agnes_llm
+status: published
+language: es
+description: Tensores cuya precisión o tamaño de datos se ha reducido para optimizar
+  el almacenamiento y la eficiencia computacional.
 ---
-
 ## Definition
 
 Los tensores comprimidos son arreglos multidimensionales utilizados en el aprendizaje profundo donde la precisión numérica (por ejemplo, de float32 a int8) o la dispersión se ha reducido. Esta técnica, conocida como cuantización o compresión, permite reducir la huella de memoria y acelerar los cálculos sin perder significativamente la precisión del modelo.

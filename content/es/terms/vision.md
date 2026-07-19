@@ -1,23 +1,24 @@
 ---
-title: "Visión"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Visión
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /es/terms/vision/
-date: "2026-07-18T10:32:46.720776Z"
-lastmod: "2026-07-18T11:44:44.768421Z"
+slug: vision
+date: '2026-07-18T10:32:46.720776Z'
+lastmod: '2026-07-18T11:44:44.768421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La Visión por Computadora es el campo de la IA centrado en permitir que los computadores interpreten y comprendan la información visual del mundo."
+source: agnes_llm
+status: published
+language: es
+description: La Visión por Computadora es el campo de la IA centrado en permitir que
+  los computadores interpreten y comprendan la información visual del mundo.
 ---
-
 ## Definition
 
 La Visión por Computadora (CV) es una rama de la inteligencia artificial que entrena a las computadoras para extraer información significativa de imágenes digitales, vídeos y otras entradas visuales. Implica desarrollar algoritmos

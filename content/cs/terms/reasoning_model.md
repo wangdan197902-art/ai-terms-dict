@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /cs/terms/reasoning_model/
 date: "2026-07-18T16:15:08.506589Z"
 lastmod: "2026-07-18T17:15:09.195968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "AI model specificky optimalizovaný pro provádění komplexní logické dedukce, řešení problémů krok za krokem a zpracování myšlenkových řetězců."
 ---
-
 ## Definition
 
 Na rozdíl od standardních generativních modelů zaměřených na plynulost dávají modely usuzování přednost přesnosti v úlohách s více kroky, jako je matematika, programování a logické hádanky. Často využívají techniky jako Chain...

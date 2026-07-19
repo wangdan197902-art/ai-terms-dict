@@ -1,23 +1,24 @@
 ---
-title: "اختيار العينات"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: اختيار العينات
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /ar/terms/instance_selection/
-date: "2026-07-18T16:03:21.808699Z"
-lastmod: "2026-07-18T17:15:08.516415Z"
+slug: instance_selection
+date: '2026-07-18T16:03:21.808699Z'
+lastmod: '2026-07-18T17:15:08.516415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية معالجة مسبقة تقلل حجم مجموعة البيانات عن طريق اختيار مجموعة فرعية من العينات التمثيلية."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية معالجة مسبقة تقلل حجم مجموعة البيانات عن طريق اختيار مجموعة فرعية
+  من العينات التمثيلية.
 ---
-
 ## Definition
 
 يهدف اختيار العينات إلى تحسين الكفاءة الحسابية وأداء النموذج من خلال إزالة نقاط البيانات الزائدة أو ذات الضوضاء. وعلى عكس اختيار السمات، فإنه يعمل على صفوف مجموعة البيانات.

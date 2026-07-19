@@ -1,23 +1,24 @@
 ---
-title: "Surrogaatmodel"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Surrogaatmodel
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /nl/terms/surrogate_model/
-date: "2026-07-18T16:19:09.501563Z"
-lastmod: "2026-07-18T17:15:08.791329Z"
+slug: surrogate_model
+date: '2026-07-18T16:19:09.501563Z'
+lastmod: '2026-07-18T17:15:08.791329Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een vereenvoudigd wiskundig model dat wordt gebruikt om het gedrag van een complexer, rekenintensiever of ontoegankelijk black-box-model te benaderen."
+source: agnes_llm
+status: published
+language: nl
+description: Een vereenvoudigd wiskundig model dat wordt gebruikt om het gedrag van
+  een complexer, rekenintensiever of ontoegankelijk black-box-model te benaderen.
 ---
-
 ## Definition
 
 In machine learning en optimalisatie fungeert een surrogaatmodel als een proxy voor een doelwitfunctie die moeilijk direct te evalueren is. Het wordt getraind op invoer-uitvoerparen van het oorspronkelijke model om de berekeningskosten te verlagen.

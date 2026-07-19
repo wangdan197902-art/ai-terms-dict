@@ -1,23 +1,25 @@
 ---
-title: "κρατημένο εκτός"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: κρατημένο εκτός
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /el/terms/held_out/
-date: "2026-07-18T15:36:10.595064Z"
-lastmod: "2026-07-18T17:15:09.859703Z"
+slug: held_out
+date: '2026-07-18T15:36:10.595064Z'
+lastmod: '2026-07-18T17:15:09.859703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Δειγματοληψία δεδομένων που κρατείται εκτός του συνόλου εκπαίδευσης για την αξιολόγηση της απόδοσης του μοντέλου και την πρόληψη της υπερπροσαρμοσίας κατά την ανάπτυξη."
+source: agnes_llm
+status: published
+language: el
+description: Δειγματοληψία δεδομένων που κρατείται εκτός του συνόλου εκπαίδευσης για
+  την αξιολόγηση της απόδοσης του μοντέλου και την πρόληψη της υπερπροσαρμοσίας κατά
+  την ανάπτυξη.
 ---
-
 ## Definition
 
 Ένα σύνολο δεδομένων «κρατημένο εκτός» (held-out) αποτελείται από παραδείγματα που αποκλείονται σκόπιμα από τη φάση εκπαίδευσης ενός μοντέλου μηχανικής μάθησης. Αυτό το υποσύνολο χρησιμοποιείται για να αξιολογηθεί πόσο καλά το μοντέλο γενικεύεται σε μη ορατά δεδομένα, παρέχοντας μια πιο αντικειμενική εκτίμηση της απόδοσης σε σχέση με τα δεδομένα εκπαίδευσης.

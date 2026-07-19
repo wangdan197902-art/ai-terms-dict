@@ -1,23 +1,23 @@
 ---
-title: "개념 드리프트 (Concept Drift)"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: 개념 드리프트 (Concept Drift)
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /ko/terms/concept_drift/
-date: "2026-07-18T15:46:14.271452Z"
-lastmod: "2026-07-18T16:38:06.819757Z"
+slug: concept_drift
+date: '2026-07-18T15:46:14.271452Z'
+lastmod: '2026-07-18T16:38:06.819757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "개념 드리프트는 대상 변수의 통계적 특성이 시간이 지남에 따라 변화하여 모델 성능이 저하되는 현상을 말합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 개념 드리프트는 대상 변수의 통계적 특성이 시간이 지남에 따라 변화하여 모델 성능이 저하되는 현상을 말합니다.
 ---
-
 ## Definition
 
 개념 드리프트는 머신러닝에서 입력 특징과 대상 출력 간의 관계가 새로운 데이터가 도착함에 따라 변화하는 현상입니다. 이는 종종 사용자의 행동이나 환경이 동적으로 변하는 상황에서 발생하며, 기존 모델의 예측 정확도를 낮추게 됩니다.

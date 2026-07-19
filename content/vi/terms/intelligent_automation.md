@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /vi/terms/intelligent_automation/
 date: "2026-07-18T15:58:22.548875Z"
 lastmod: "2026-07-18T16:38:07.770829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự kết hợp giữa trí tuệ nhân tạo và tự động hóa quy trình bằng robot để xử lý các quy trình kinh doanh phức tạp, không có cấu trúc."
 ---
-
 ## Definition
 
 Tự động hóa thông minh tích hợp Tự động hóa quy trình bằng robot (RPA) truyền thống với các công nghệ AI tiên tiến như học máy và xử lý ngôn ngữ tự nhiên. Trong khi RPA xử lý các quy tắc dựa trên quy định, cấu trúc

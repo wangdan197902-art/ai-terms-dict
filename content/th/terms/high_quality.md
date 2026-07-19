@@ -1,23 +1,23 @@
 ---
-title: "คุณภาพสูง"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: คุณภาพสูง
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /th/terms/high_quality/
-date: "2026-07-18T15:33:25.309656Z"
-lastmod: "2026-07-18T16:38:07.554923Z"
+slug: high_quality
+date: '2026-07-18T15:33:25.309656Z'
+lastmod: '2026-07-18T16:38:07.554923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หมายถึงชุดข้อมูล โมเดล หรือผลลัพธ์ที่มีความแม่นยำและความน่าเชื่อถือในระดับสูง พร้อมมีสัญญาณรบกวนต่ำ"
+source: agnes_llm
+status: published
+language: th
+description: หมายถึงชุดข้อมูล โมเดล หรือผลลัพธ์ที่มีความแม่นยำและความน่าเชื่อถือในระดับสูง
+  พร้อมมีสัญญาณรบกวนต่ำ
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ คำว่า 'คุณภาพสูง' มักอธิบายถึงข้อมูลหรือผลลัพธ์จากโมเดลที่มีระดับความเที่ยงตรงสูง มีสัญญาณรบกวนต่ำ และมีความสามารถในการสรุปผลไปยังข้อมูลใหม่ (Generalization) ที่ดี ข้อมูลการฝึกฝนที่มีคุณภาพสูงจะช่วยให้โมเดลมีประสิทธิภาพและเสถียรภาพมากขึ้น

@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /ja/terms/high_fidelity/
 date: "2026-07-18T10:56:45.367894Z"
 lastmod: "2026-07-18T11:44:45.026173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "生成されたコンテンツが、詳細、品質、リアリティにおいて現実世界のデータに非常に類似していることを示します。"
 ---
-
 ## Definition
 
 高精度とは、生成モデルからの出力が本物のデータと見分けがつかないか、非常に類似している状態を指します。画像生成ではリアルな質感や照明を意味し、音声では自然なトーンや抑揚を含みます。これは、生成されたコンテンツの質的向上と実世界との整合性を重視するアプリケーションで重要です。

@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /pl/terms/source/
 date: "2026-07-18T15:29:40.621012Z"
 lastmod: "2026-07-18T17:15:08.821288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Odwołuje się do pochodzenia danych, kodu lub modeli używanych w rozwoju i wdrażaniu sztucznej inteligencji."
 ---
-
 ## Definition
 
 W kontekście AI termin "źródło" zazwyczaj oznacza pochodzenie zbiorów treningowych, bibliotek open-source lub wag wstępnie wytrenowanych modeli. Śledzenie źródeł jest kluczowe dla reprodukowalności wyników, zgodności z licencjami oraz audytu etycznego.

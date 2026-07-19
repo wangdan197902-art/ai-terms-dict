@@ -1,23 +1,24 @@
 ---
-title: "Codifica Posizionale"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Codifica Posizionale
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /it/terms/positional_encoding/
-date: "2026-07-18T15:36:49.930079Z"
-lastmod: "2026-07-18T17:15:08.588524Z"
+slug: positional_encoding
+date: '2026-07-18T15:36:49.930079Z'
+lastmod: '2026-07-18T17:15:08.588524Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica che inietta informazioni sulla posizione relativa o assoluta dei token in una sequenza nei modelli transformer."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica che inietta informazioni sulla posizione relativa o assoluta
+  dei token in una sequenza nei modelli transformer.
 ---
-
 ## Definition
 
 Poiché i transformer elaborano tutti i token in parallelo anziché in sequenza come le RNN, non possiedono una conoscenza intrinseca dell'ordine dei token. La codifica posizionale aggiunge vettori specifici agli embedding di input per preservare l'ordine sequenziale.

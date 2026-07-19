@@ -1,23 +1,24 @@
 ---
-title: "الميل الاستقرائي (Inductive Bias)"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: الميل الاستقرائي (Inductive Bias)
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /ar/terms/inductive_bias/
-date: "2026-07-18T16:03:00.601513Z"
-lastmod: "2026-07-18T17:15:08.515487Z"
+slug: inductive_bias
+date: '2026-07-18T16:03:00.601513Z'
+lastmod: '2026-07-18T17:15:08.515487Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مجموعة الافتراضات التي يستخدمها خوارزمية التعلم للتنبؤ بالمخرجات للمدخلات غير المرئية أثناء التدريب."
+source: agnes_llm
+status: published
+language: ar
+description: مجموعة الافتراضات التي يستخدمها خوارزمية التعلم للتنبؤ بالمخرجات للمدخلات
+  غير المرئية أثناء التدريب.
 ---
-
 ## Definition
 
 يمثل الميل الاستقرائي التفضيلات أو القيود الكامنة المدمجة داخل نموذج تعلم الآلة، مما يسمح له بالتعميم من بيانات التدريب إلى البيانات غير المرئية. بدون مثل هذهالميول، لا يمكن للنموذج التمييز بين الأنماط المختلفة أو اختيار حل واحد من بين العديد من الحلول المتوافقة مع بيانات التدريب.

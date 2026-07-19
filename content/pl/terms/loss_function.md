@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /pl/terms/loss_function/
 date: "2026-07-18T15:35:44.902861Z"
 lastmod: "2026-07-18T17:15:08.833804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Funkcja matematyczna kwantyfikująca różnicę między wartościami przewidywanymi a rzeczywistymi wartościami docelowymi podczas treningu."
 ---
-
 ## Definition
 
 Znana również jako funkcja kosztu lub błędu, funkcja straty dostarcza wartości skalarniej wskazującej, jak dobrze radzi sobie model. Podczas treningu algorytmy optymalizacyjne używają tej wartości do obliczania gradientów...

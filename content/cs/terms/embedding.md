@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /cs/terms/embedding/
 date: "2026-07-18T15:23:01.660634Z"
 lastmod: "2026-07-18T17:15:09.062677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Technika, která mapuje diskrétní objekty, jako jsou slova nebo obrázky, do spojitých vektorových prostorů."
 ---
-
 ## Definition
 
 Vnoření jsou husté vektorové reprezentace dat, kde jsou sémantické vztahy zachovány v geometrickém prostoru. Převodem kategorických nebo vysoce dimenzionálních vstupů na vektory pevné délky umožňují modelům efektivněji zpracovávat a porovnávat význam informací.

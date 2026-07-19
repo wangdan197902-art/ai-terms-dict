@@ -1,23 +1,23 @@
 ---
-title: "Qwen（通義千問）"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: Qwen（通義千問）
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /ja/terms/qwen/
-date: "2026-07-18T11:29:38.686616Z"
-lastmod: "2026-07-18T11:44:45.136235Z"
+slug: qwen
+date: '2026-07-18T11:29:38.686616Z'
+lastmod: '2026-07-18T11:44:45.136235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Qwenは、アリババグループのTongyi Labによって開発された大規模言語モデルシリーズです。"
+source: agnes_llm
+status: published
+language: ja
+description: Qwenは、アリババグループのTongyi Labによって開発された大規模言語モデルシリーズです。
 ---
-
 ## Definition
 
 Qwenは、アリババグループのTongyi Labによって作成された高度な大規模言語モデルのファミリーを表します。これには、自然言語理解を含むさまざまなタスクに最適化された複数のバージョンが含まれています。

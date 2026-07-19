@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /no/terms/gdpr_compliance/
 date: "2026-07-18T15:55:14.293348Z"
 lastmod: "2026-07-18T16:38:07.002627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Overholdelse av den generelle databeskyttelsesforordningen (GDPR), som sikrer at AI-systemer respekterer personvern og datarettigheter."
 ---
-
 ## Definition
 
 GDPR-overholdelse refererer til de juridiske og tekniske tiltakene AI-utviklere må implementere for å beskytte persondata til individer i Den europeiske unionen. For AI-systemer innebærer dette prinsipper som dataminimering, transparens og brukerkontroll.

@@ -1,23 +1,23 @@
 ---
-title: "Időbeli"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Időbeli
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /hu/terms/temporal/
-date: "2026-07-18T15:31:48.152472Z"
-lastmod: "2026-07-18T17:15:09.731437Z"
+slug: temporal
+date: '2026-07-18T15:31:48.152472Z'
+lastmod: '2026-07-18T17:15:09.731437Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az időbeli fogalmak az időbeli sorozatokra vonatkoznak, és arra fókuszálnak, hogyan változnak vagy hogyan fejlődnek az adatok függőségei az idő múlásával."
+source: agnes_llm
+status: published
+language: hu
+description: Az időbeli fogalmak az időbeli sorozatokra vonatkoznak, és arra fókuszálnak,
+  hogyan változnak vagy hogyan fejlődnek az adatok függőségei az idő múlásával.
 ---
-
 ## Definition
 
 Az AI időbeli koncepciói az idő szerint rendezett adatkörök elemzését jelentik, például a részvényárakat, szenzorolvasmányokat vagy természetes nyelvi mondatokat. Az időbeli adatokkal dolgozó modelleknek figyelembe kell venniük a sorozat

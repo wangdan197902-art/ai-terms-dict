@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /ko/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:04:15.935587Z"
 lastmod: "2026-07-18T16:38:06.882770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "원자 간 힘과 에너지를 예측하는 머신러닝 기반 수학적 함수로, 고비용 양자역학 계산의 대체재 역할을 합니다."
 ---
-
 ## Definition
 
 이러한 포텐셜은 밀도 범함수 이론(DFT)으로부터 얻은 고정밀 데이터로 학습하여, 거의 양자역학적 수준의 정확도를 유지하면서도 고전적인 계산 속도로 분자 동역학 시뮬레이션을 가능하게 합니다...

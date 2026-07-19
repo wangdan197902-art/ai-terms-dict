@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /id/terms/artificial_brain/
 date: "2026-07-18T15:39:09.325817Z"
 lastmod: "2026-07-18T16:38:07.428053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem komputasional yang dirancang untuk meniru struktur dan fungsi otak biologis manusia, sering kali menggunakan jaringan saraf tiruan."
 ---
-
 ## Definition
 
 Otak buatan merujuk pada arsitektur perangkat keras atau perangkat lunak yang meniru struktur saraf dan metode pemrosesan otak manusia. Ini termasuk chip komputasi neuromorfik yang mereplikasi cara kerja neuron biologis untuk pemrosesan informasi yang lebih efisien.

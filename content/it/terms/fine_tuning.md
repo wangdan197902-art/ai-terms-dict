@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /it/terms/fine_tuning/
 date: "2026-07-18T15:22:57.448263Z"
 lastmod: "2026-07-18T17:15:08.560269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il processo di adattamento di un modello pre-addestrato a un compito specifico utilizzando un dataset più piccolo."
 ---
-
 ## Definition
 
 L'affinamento consiste nel prendere un modello già addestrato su un grande dataset generale e addestrarlo ulteriormente su un dataset specializzato. Ciò consente al modello di mantenere le conoscenze generali acquisendo competenze specifiche per il

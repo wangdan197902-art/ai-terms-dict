@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /id/terms/gpt_bigcode/
 date: "2026-07-18T15:53:26.394206Z"
 lastmod: "2026-07-18T16:38:07.463778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah keluarga model bahasa besar yang secara khusus dilatih untuk generasi kode dan pemahaman, dikembangkan oleh proyek BigCode."
 ---
-
 ## Definition
 
 GPT Bigcode, sering dikaitkan dengan model seperti StarCoder, mewakili kemajuan signifikan dalam kecerdasan buatan asisten koding. Model-model ini pra-dilatih pada repositori kode publik yang sangat besar untuk memahami...

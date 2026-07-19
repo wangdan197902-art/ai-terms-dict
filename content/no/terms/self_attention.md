@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /no/terms/self_attention/
 date: "2026-07-18T15:30:06.305309Z"
 lastmod: "2026-07-18T16:38:06.946658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En mekanisme som lar et nevralt nettverk veie viktigheten av ulike deler av inndatasekvensen i forhold til hverandre."
 ---
-
 ## Definition
 
 Selvoppmerksomhet gjør det mulig for modeller å fange opp avhengigheter mellom alle posisjoner i en sekvens samtidig, uavhengig av avstand. Ved å beregne oppmerksomhetspoeng mellom hvert par av tokens, lar det...

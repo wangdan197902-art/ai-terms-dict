@@ -7,8 +7,6 @@ tags: ["audio", "speech", "emotion", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "vibevoice"
-aliases:
-  - /ja/terms/vibevoice/
 date: "2026-07-18T11:36:08.593505Z"
 lastmod: "2026-07-18T11:44:45.153838Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Vibevoiceは、硬直したロボットの精度よりも、自然で感情的かつ文脈に配慮した音声表現を重視するAI生成音声合成のスタイルを指します。"
 ---
-
 ## Definition
 
 Vibevoiceは、人間の発話の「雰囲気」や感情的なニュアンスの捕捉を強調する、テキスト読み上げ（TTS）技術に対する概念的またはブランド名のアプローチです。従来のTTSが単調に聞こえる可能性のある...

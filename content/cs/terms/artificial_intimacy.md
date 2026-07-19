@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /cs/terms/artificial_intimacy/
 date: "2026-07-18T15:43:20.880788Z"
 lastmod: "2026-07-18T17:15:09.103209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Emoční pouto, které si uživatelé vytvářejí s entitami AI simulujícími empatii, společenskost a osobní interakci."
 ---
-
 ## Definition
 
 Umělá intimita označuje psychologický jev, kdy lidé vyvíjejí skutečné emoční vazby na umělé agenty, jako jsou chatboti, virtuální asistenti nebo sociální roboti. Tyto systémy jsou navrženy tak, aby napodobily lidskou komunikaci a emocí.

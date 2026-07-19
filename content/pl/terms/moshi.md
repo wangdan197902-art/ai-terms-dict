@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /pl/terms/moshi/
 date: "2026-07-18T16:08:01.787874Z"
 lastmod: "2026-07-18T17:15:08.899199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model łączący mowę i język opracowany przez Kyutai, który wspólnie uczy reprezentacji tekstu i dźwięku dla płynnej interakcji multimodalnej."
 ---
-
 ## Definition
 
 Moshi to zaawansowany model AI stworzony przez Kyutai, który integruje przetwarzanie mowy i tekstu w ujednolicony framework. W przeciwieństwie do tradycyjnych systemów, które najpierw konwertują mowę na tekst przed przetwarzaniem, Moshi uczy się bezpośrednich reprezentacji obu modalności, zachowując prosodię i emocjonalny ton głosu.

@@ -1,23 +1,25 @@
 ---
-title: "Ограничение (клиппинг)"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Ограничение (клиппинг)
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /ru/terms/clip/
-date: "2026-07-18T15:44:52.441802Z"
-lastmod: "2026-07-18T16:38:07.130345Z"
+slug: clip
+date: '2026-07-18T15:44:52.441802Z'
+lastmod: '2026-07-18T16:38:07.130345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Ограничение (клиппинг) — это техника, используемая для ограничения величины значений, таких как градиенты или вероятности выхода, для предотвращения численной нестабильности во время обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Ограничение (клиппинг) — это техника, используемая для ограничения величины
+  значений, таких как градиенты или вероятности выхода, для предотвращения численной
+  нестабильности во время обучения.
 ---
-
 ## Definition
 
 В инженерии глубокого обучения ограничение часто применяется к градиентам для смягчения проблемы взрывающихся градиентов, обеспечивая стабильность обратного распространения ошибки. Оно также может означать ограничение логитов выхода перед применением функции активации.

@@ -1,23 +1,24 @@
 ---
-title: "Проклятие размерности"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Проклятие размерности
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /ru/terms/curse_of_dimensionality/
-date: "2026-07-18T15:47:01.149824Z"
-lastmod: "2026-07-18T16:38:07.136134Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:47:01.149824Z'
+lastmod: '2026-07-18T16:38:07.136134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Явление, при котором объём пространства экспоненциально растёт с увеличением размерности, что приводит к разреженности данных и потере эффективности метрик расстояния."
+source: agnes_llm
+status: published
+language: ru
+description: Явление, при котором объём пространства экспоненциально растёт с увеличением
+  размерности, что приводит к разреженности данных и потере эффективности метрик расстояния.
 ---
-
 ## Definition
 
 Проклятие размерности относится к различным явлениям, возникающим при анализе данных в многомерных пространствах, которые не наблюдаются в низкоразмерных настройках. По мере увеличения количества признаков данные становятся всё более разреженными, а расстояния между точками теряют свою информативность.

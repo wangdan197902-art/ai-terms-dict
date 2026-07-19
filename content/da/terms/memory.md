@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /da/terms/memory/
 date: "2026-07-18T15:36:04.501666Z"
 lastmod: "2026-07-18T17:15:09.246336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Evnen hos et AI-system til at gemme, hente og udnytte information på tværs af interaktioner for at opretholde kontekst og forbedre ydeevnen over tid."
 ---
-
 ## Definition
 
 Inden for kunstig intelligens refererer hukommelse til mekanismer, der giver modellerne mulighed for at beholde information ud over et enkelt inferenstrin. Dette inkluderer korttidsarbejdshukommelse til øjeblikkelig kontekst inden for en samtale eller opgave, samt langtidslagring for at bevare viden over længere perioder.

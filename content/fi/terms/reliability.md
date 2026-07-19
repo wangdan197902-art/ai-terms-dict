@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /fi/terms/reliability/
 date: "2026-07-18T16:18:45.543668Z"
 lastmod: "2026-07-18T17:15:09.455186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Aste, jolla tekoälyjärjestelmä suorittaa tarkoitetut tehtävänsä oikein ja turvallisesti johdonmukaisesti määritetyissä olosuhteissa."
 ---
-
 ## Definition
 
 Luotettavuus tekoälyssä viittaa järjestelmän käyttäytymisen luotettavuuteen ja johdonmukaisuuteen ajan myötä ja eri syötteiden yli. Luotettavan tekoälyjärjestelmän tulisi tuottaa tarkkoja tuloksia, käsitellä reunatapaukset asianmukaisesti ja toimia ennustettavasti.

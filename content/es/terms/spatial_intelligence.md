@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /es/terms/spatial_intelligence/
 date: "2026-07-18T11:08:44.432136Z"
 lastmod: "2026-07-18T11:44:44.856222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La capacidad de los sistemas de IA para comprender, razonar y navegar en entornos tridimensionales."
 ---
-
 ## Definition
 
 La inteligencia espacial se refiere a la capacidad de los modelos de inteligencia artificial para percibir, interpretar y manipular las relaciones espaciales dentro de entornos físicos o virtuales. Implica la comprensión de la geometría y la topología del espacio.

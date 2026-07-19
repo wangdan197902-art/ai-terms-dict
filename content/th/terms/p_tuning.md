@@ -1,23 +1,24 @@
 ---
-title: "พี-ทูนิง (P-Tuning)"
-term_id: "p_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "nlp"]
+title: พี-ทูนิง (P-Tuning)
+term_id: p_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- NLP
 difficulty: 4
 weight: 1
-slug: "p_tuning"
-aliases:
-  - /th/terms/p_tuning/
-date: "2026-07-18T16:10:09.915109Z"
-lastmod: "2026-07-18T16:38:07.639558Z"
+slug: p_tuning
+date: '2026-07-18T16:10:09.915109Z'
+lastmod: '2026-07-18T16:38:07.639558Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "พี-ทูนิง เป็นวิธีการปรับแต่งโมเดลแบบประหยัดพารามิเตอร์ โดยทำการปรับปรุงค่าฝังตัว (embeddings) ของพรอมต์อย่างต่อเนื่อง แทนที่จะอัปเดตน้ำหนักของโมเดลที่ผ่านการฝึกฝนมาทั้งหมด"
+source: agnes_llm
+status: published
+language: th
+description: พี-ทูนิง เป็นวิธีการปรับแต่งโมเดลแบบประหยัดพารามิเตอร์ โดยทำการปรับปรุงค่าฝังตัว
+  (embeddings) ของพรอมต์อย่างต่อเนื่อง แทนที่จะอัปเดตน้ำหนักของโมเดลที่ผ่านการฝึกฝนมาทั้งหมด
 ---
-
 ## Definition
 
 พี-ทูนิง (Prompt Tuning) เป็นเทคนิคที่ออกแบบมาเพื่อปรับโมเดลภาษาขนาดใหญ่ที่ผ่านการฝึกฝนแล้วให้เข้ากับงานเฉพาะทางด้วยต้นทุนการคำนวณที่ต่ำมาก แทนที่จะทำการปรับแต่งพารามิเตอร์ทั้งหมดของโมเดล วิธีนี้จะคงน้ำหนักของโมเดลเดิมไว้และเพิ่มเพียงเวกเตอร์พรอมต์ที่เรียนรู้ได้เท่านั้น เพื่อช่วยให้โมเดลเข้าใจบริบทของงานใหม่ได้อย่างมีประสิทธิภาพ

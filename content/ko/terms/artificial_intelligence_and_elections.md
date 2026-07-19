@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /ko/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:41:48.022517Z"
 lastmod: "2026-07-18T16:38:06.808982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "캠페인 관리, 유권자 분석, 오정보 확산 우려 등을 포함한 선거 과정에서의 AI 기술 적용."
 ---
-
 ## Definition
 
 이 용어는 민주적 과정에서 AI의 양면적인 역할을 포괄합니다. 한편으로는 데이터 분석을 통해 효율성을 높이고 캠페인의 타겟팅을 최적화하는 데 기여하지만, 다른 한편으로는 조작과 허위 정보 확산을 통해 위험을 초래할 수 있습니다. 선거 무결성과 공정성에 대한 논의가 핵심입니다.

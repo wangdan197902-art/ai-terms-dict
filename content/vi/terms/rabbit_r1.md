@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /vi/terms/rabbit_r1/
 date: "2026-07-18T16:09:51.680348Z"
 lastmod: "2026-07-18T16:38:07.799223Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thiết bị cầm tay có khả năng AI, trang bị Large Action Model (LAM) để thực hiện các tác vụ một cách tự động."
 ---
-
 ## Definition
 
 Rabbit r1 là một thiết bị phần cứng chuyên dụng do Rabbit Inc. ra mắt, lấy Large Action Model (LAM) độc quyền làm trọng tâm. Khác với điện thoại thông minh đa năng, nó tập trung vào việc thực hiện các tác vụ cụ thể mà người dùng yêu cầu thông qua nhận diện ý định, thay vì chỉ hiển thị thông tin.

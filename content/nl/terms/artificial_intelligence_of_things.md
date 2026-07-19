@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /nl/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:43:27.803845Z"
 lastmod: "2026-07-18T17:15:08.718485Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De convergentie van AI en IoT, waardoor slimme apparaten gegevens lokaal kunnen verwerken en autonome beslissingen kunnen nemen."
 ---
-
 ## Definition
 
 Kunstmatige Intelligentie van Dingen (AIoT) vertegenwoordigt de synergetische integratie van kunstmatige intelligentie- en internet-of-things-technologieën. Door AI-algoritmen direct in IoT-apparaten te embedden of

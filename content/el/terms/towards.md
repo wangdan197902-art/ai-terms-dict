@@ -1,23 +1,23 @@
 ---
-title: "Προς"
-term_id: "towards"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "concepts"]
+title: Προς
+term_id: towards
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- concepts
 difficulty: 2
 weight: 1
-slug: "towards"
-aliases:
-  - /el/terms/towards/
-date: "2026-07-18T15:34:43.481547Z"
-lastmod: "2026-07-18T17:15:09.856704Z"
+slug: towards
+date: '2026-07-18T15:34:43.481547Z'
+lastmod: '2026-07-18T17:15:09.856704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο όρος 'προς' αναφέρεται σε κατευθυντική πρόοδο ή στόχους βελτιστοποίησης στην ΤΝ, υποδεικνύοντας κίνηση προς βελτιωμένη απόδοση ή συγκεκριμένους στόχους."
+source: agnes_llm
+status: published
+language: el
+description: Ο όρος 'προς' αναφέρεται σε κατευθυντική πρόοδο ή στόχους βελτιστοποίησης
+  στην ΤΝ, υποδεικνύοντας κίνηση προς βελτιωμένη απόδοση ή συγκεκριμένους στόχους.
 ---
-
 ## Definition
 
 Στην ανάπτυξη της ΤΝ, ο όρος 'προς' περιγράφει συχνά την τροχιά των διαδικασιών βελτιστοποίησης, όπως η πτωτική κλίση (gradient descent) που μετακινεί τα βάρη προς μια ελάχιστη τιμή απωλειών. Επίσης, δηλώνει κατευθύνσεις έρευνας, όπου οι επιστήμονες κατευθύνονται προς νέες μεθόδους ή λύσεις.

@@ -1,23 +1,24 @@
 ---
-title: "Řešení problémů"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Řešení problémů
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /cs/terms/problem_solving/
-date: "2026-07-18T16:13:38.662754Z"
-lastmod: "2026-07-18T17:15:09.191518Z"
+slug: problem_solving
+date: '2026-07-18T16:13:38.662754Z'
+lastmod: '2026-07-18T17:15:09.191518Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Kognitivní proces hledání řešení obtíží, zahrnující vyhledávání, úsudky a plánování v rámci definovaných stavových prostorů."
+source: agnes_llm
+status: published
+language: cs
+description: Kognitivní proces hledání řešení obtíží, zahrnující vyhledávání, úsudky
+  a plánování v rámci definovaných stavových prostorů.
 ---
-
 ## Definition
 
 V umělé inteligenci se řešení problémů týká systematického přístupu k navigaci z počátečního stavu do cílového stavu prostřednictvím posloupnosti akcí. Obvykle zahrnuje definici problému, identifikaci možných akcí a nalezení cesty k cíli.

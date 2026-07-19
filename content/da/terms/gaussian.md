@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /da/terms/gaussian/
 date: "2026-07-18T15:25:13.157636Z"
 lastmod: "2026-07-18T17:15:09.224849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Relateret til normalfordelingen, en klokkeformet kurve, der er fundamental inden for statistik og støjmodellering i AI."
 ---
-
 ## Definition
 
 Gaußsk refererer til normalfordelingen, en kontinuert sandsynlighedsfordeling karakteriseret ved sin middelværdi og varians. Inden for AI bruges den i vid udstrækning i sandsynlighedsmodellering, bayesiansk inferens og

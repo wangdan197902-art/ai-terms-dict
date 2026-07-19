@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /zh/terms/text_to_video/
 date: "2026-07-18T11:36:20.483371Z"
 lastmod: "2026-07-18T11:44:45.562965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "文生视频是一项通过文本描述或提示生成视频片段的 AI 能力。"
 ---
-
 ## Definition
 
 文生视频指的是基于自然语言输入创建动态视觉内容的生成式 AI 模型。这些系统分析文本提示中的语义含义，以合成连贯的视频序列。

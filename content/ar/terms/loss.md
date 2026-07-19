@@ -1,23 +1,22 @@
 ---
-title: "دالة الخسارة"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: دالة الخسارة
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /ar/terms/loss/
-date: "2026-07-18T15:27:33.315608Z"
-lastmod: "2026-07-18T17:15:08.442464Z"
+slug: loss
+date: '2026-07-18T15:27:33.315608Z'
+lastmod: '2026-07-18T17:15:08.442464Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "قيمة عددية تقيس الخطأ بين توقعات النموذج والقيم المستهدفة الفعلية."
+source: agnes_llm
+status: published
+language: ar
+description: قيمة عددية تقيس الخطأ بين توقعات النموذج والقيم المستهدفة الفعلية.
 ---
-
 ## Definition
 
 تقيس دوال الخسارة، المعروفة أيضاً بدوال التكلفة، مدى تطابق توقعات نموذج تعلم الآلة مع الحقيقة الأساسية أثناء التدريب. الهدف من خوارزمية التحسين هو تقليل هذه القيمة

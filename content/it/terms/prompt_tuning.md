@@ -1,23 +1,24 @@
 ---
-title: "Prompt Tuning"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt Tuning
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /it/terms/prompt_tuning/
-date: "2026-07-18T16:17:13.628701Z"
-lastmod: "2026-07-18T17:15:08.660850Z"
+slug: prompt_tuning
+date: '2026-07-18T16:17:13.628701Z'
+lastmod: '2026-07-18T17:15:08.660850Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo di affinamento efficiente nei parametri che ottimizza gli embedding continui di input anziché aggiornare i pesi dell'intero modello."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo di affinamento efficiente nei parametri che ottimizza gli embedding
+  continui di input anziché aggiornare i pesi dell'intero modello.
 ---
-
 ## Definition
 
 Il prompt tuning consiste nell'aggiungere prompt morbidi addestrabili (vettori continui) allo strato di input di un modello linguistico pre-addestrato, mantenendo congelati i parametri sottostanti del modello. Questo approccio consente

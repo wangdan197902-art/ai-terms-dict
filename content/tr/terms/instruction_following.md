@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /tr/terms/instruction_following/
 date: "2026-07-18T15:58:45.947492Z"
 lastmod: "2026-07-18T16:38:07.321789Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka modelinin belirli insan komutlarını veya kısıtlamaları doğru bir şekilde yorumlama ve uygulama yeteneği."
 ---
-
 ## Definition
 
 Talimat takibi, büyük dil modelleri ve diğer yapay zeka sistemlerinin, istem içindeki nüanslı insan direktiflerini anlaması ve açık kısıtlamalara uyum sağlaması yeteneğini ifade eder. Bu paradigma değişimi

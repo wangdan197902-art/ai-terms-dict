@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /ja/terms/non_human/
 date: "2026-07-18T11:25:45.742276Z"
 lastmod: "2026-07-18T11:44:45.127219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AI倫理学および社会学において、「非人間」とは、生物学的な意識や人間としてのアイデンティティを持たないものの、自律性、知能、または社会的存在感を備えた人工エンティティやシステムを指します。"
 ---
-
 ## Definition
 
 この用語は、AIエージェント、ロボット、バーチャルアシスタントの権利、責任、および社会的統合に関する議論で頻繁に使用されます。これは、生物学的な人間と人工的な存在の区別を強調します。

@@ -1,23 +1,23 @@
 ---
-title: "フィーチャーストア"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: フィーチャーストア
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /ja/terms/feature_store/
-date: "2026-07-18T11:14:45.555601Z"
-lastmod: "2026-07-18T11:44:45.097753Z"
+slug: feature_store
+date: '2026-07-18T11:14:45.555601Z'
+lastmod: '2026-07-18T11:44:45.097753Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機械学習の訓練と推論全体を通じて、特徴量を統一的に管理、共有、提供するために設計された中央集約型リポジトリ。"
+source: agnes_llm
+status: published
+language: ja
+description: 機械学習の訓練と推論全体を通じて、特徴量を統一的に管理、共有、提供するために設計された中央集約型リポジトリ。
 ---
-
 ## Definition
 
 フィーチャーストアは、データエンジニアリングチームと機械学習チームをつなぐ橋渡し役となり、バッチ訓練とリアルタイム推論の両方に対して特徴量の統一されたビューを提供します。訓練時と推論時のデータの不整合（トレーニングサービングスキュー）を防ぎ、特徴量のバージョン管理と再利用性を保証します。

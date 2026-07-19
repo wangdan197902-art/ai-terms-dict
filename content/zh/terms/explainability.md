@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /zh/terms/explainability/
 date: "2026-07-18T10:59:51.920784Z"
 lastmod: "2026-07-18T11:44:45.399620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "可解释性是指人类理解人工智能模型做出决策原因的程度。"
 ---
-
 ## Definition
 
 这一概念通过提供对模型如何得出特定预测的洞察，解决了复杂人工智能系统中的“黑盒”问题。SHAP 或 LIME 等技术有助于可视化特征重要性...（原文截断）

@@ -1,23 +1,24 @@
 ---
-title: "Few-shot-prompting"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Few-shot-prompting
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /fi/terms/few_shot_prompting/
-date: "2026-07-18T15:36:25.697003Z"
-lastmod: "2026-07-18T17:15:09.370319Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:36:25.697003Z'
+lastmod: '2026-07-18T17:15:09.370319Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Few-shot-prompting on tekniikka, jossa suurille kielimalleille annetaan ohjeistuksessa pieni määrä syöte-tuloste-esimerkkejä käyttäytymisen ohjaamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Few-shot-prompting on tekniikka, jossa suurille kielimalleille annetaan
+  ohjeistuksessa pieni määrä syöte-tuloste-esimerkkejä käyttäytymisen ohjaamiseksi.
 ---
-
 ## Definition
 
 Tämä menetelmä hyödyntää suurten kielimallien kontekstissa oppimiskykyjä tarjoamalla muutamia havainnollistavia esimerkkejä suoraan promptissa. Toisin kuin hienosäätö, joka vaatii mallin painojen päivittämistä.

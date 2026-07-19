@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /he/terms/domain_adaptation/
 date: "2026-07-18T15:54:59.427177Z"
 lastmod: "2026-07-18T17:15:09.535020Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שיטת למידת מכונה המשפרת את ביצועי המודל בתחום יעד על ידי ניצול ידע מתחום מקור."
 ---
-
 ## Definition
 
 התאמת תחום מטפלת באתגר כאשר נתוני האימון והבדיקה מגיעים מחלוקות שונות. באמצעות יישור ייצוגי התכונות בין תחום מקור מסומן לתחום יעד ללא סימון או עם סימון מועט.

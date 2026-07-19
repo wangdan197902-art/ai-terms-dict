@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: Dataset:Ms Marco
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /el/terms/datasetms_marco/
-date: "2026-07-18T16:00:45.702110Z"
-lastmod: "2026-07-18T17:15:09.897374Z"
+slug: datasetms_marco
+date: '2026-07-18T16:00:45.702110Z'
+lastmod: '2026-07-18T17:15:09.897374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το Σύνολο Δεδομένων Μηχανικής Ανάγνωσης Κατανόησης της Microsoft, μια μεγάλη συλλογή πραγματικών ερωτημάτων αναζήτησης και σχετικών αποσπασμάτων εγγράφων, η οποία χρησιμοποιείται για την εκπαίδευση συ"
+source: agnes_llm
+status: published
+language: el
+description: Το Σύνολο Δεδομένων Μηχανικής Ανάγνωσης Κατανόησης της Microsoft, μια
+  μεγάλη συλλογή πραγματικών ερωτημάτων αναζήτησης και σχετικών αποσπασμάτων εγγράφων,
+  η οποία χρησιμοποιείται για την εκπαίδευση συ
 ---
-
 ## Definition
 
 Το MS MARCO (Microsoft Machine Reading Comprehension) είναι ένα ευρέως χρησιμοποιούμενο σύνολο δεδομένων στην επεξεργασία φυσικής γλώσσας (NLP), ιδιαίτερα για ανάκτηση πληροφοριών και απάντηση ερωτήσεων. Αποτελείται από ανωνυμοποιημένα δεδομένα αναζήτησης και σχετικές απαντήσεις, παρέχοντας ένα ρεαλιστικό πλαίσιο για την εκπαίδευση μοντέλων που πρέπει να κατανοούν και να ταξινομούν κείμενο βάσει της σχετικότητάς του με ένα ερώτημα.

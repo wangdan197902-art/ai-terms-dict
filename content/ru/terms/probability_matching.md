@@ -1,23 +1,24 @@
 ---
-title: "Вероятностное соответствие"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Вероятностное соответствие
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /ru/terms/probability_matching/
-date: "2026-07-18T16:11:05.568092Z"
-lastmod: "2026-07-18T16:38:07.193674Z"
+slug: probability_matching
+date: '2026-07-18T16:11:05.568092Z'
+lastmod: '2026-07-18T16:38:07.193674Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия принятия решений, при которой агент выбирает действия с частотой, пропорциональной их оценочным вероятностям."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия принятия решений, при которой агент выбирает действия с частотой,
+  пропорциональной их оценочным вероятностям.
 ---
-
 ## Definition
 
 Вероятностное соответствие — это поведенческая модель, часто наблюдаемая в обучении с подкреплением и психологии, которая контрастирует с оптимальными стратегиями «максимизации». Вместо того чтобы всегда выбирать действие с наивысшей вероятностью успеха, агент выбирает действия случайным образом, но так, чтобы частота их выбора соответствовала их истинным вероятностям. Это может приводить к субоптимальным результатам в стационарных средах, но помогает исследовать пространство действий.

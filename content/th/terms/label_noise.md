@@ -1,23 +1,23 @@
 ---
-title: "สัญญาณรบกวนในป้ายกำกับ"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: สัญญาณรบกวนในป้ายกำกับ
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /th/terms/label_noise/
-date: "2026-07-18T16:01:45.007285Z"
-lastmod: "2026-07-18T16:38:07.624078Z"
+slug: label_noise
+date: '2026-07-18T16:01:45.007285Z'
+lastmod: '2026-07-18T16:38:07.624078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ข้อผิดพลาดหรือความไม่สอดคล้องกันในป้ายกำกับเป้าหมายของชุดข้อมูลที่ใช้ในการฝึกฝนการเรียนรู้ของเครื่องแบบมีผู้สอน"
+source: agnes_llm
+status: published
+language: th
+description: ข้อผิดพลาดหรือความไม่สอดคล้องกันในป้ายกำกับเป้าหมายของชุดข้อมูลที่ใช้ในการฝึกฝนการเรียนรู้ของเครื่องแบบมีผู้สอน
 ---
-
 ## Definition
 
 สัญญาณรบกวนในป้ายกำกับหมายถึงความแตกต่างระหว่างป้ายกำกับคลาสที่แท้จริงของข้อมูลกับป้ายกำกับที่ให้ไว้ในชุดข้อมูลฝึกฝน สิ่งนี้อาจเกิดขึ้นจากข้อผิดพลาดในการ anotate ของมนุษย์ ข้อมูลที่คลุมเครือ หรือกระบวนการรวบรวมข้อมูลที่มีเสียงรบกวน สัญญาณรบกวนประเภทนี้สามารถส่งผลเสียต่อความแม่นยำและความแข็งแกร่งของโมเดลการเรียนรู้ของเครื่องได้ หากไม่ได้รับการจัดการอย่างเหมาะสม

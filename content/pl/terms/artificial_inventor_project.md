@@ -1,23 +1,24 @@
 ---
-title: "Projekt Sztucznego Wynalazcy"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Projekt Sztucznego Wynalazcy
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /pl/terms/artificial_inventor_project/
-date: "2026-07-18T15:40:16.812149Z"
-lastmod: "2026-07-18T17:15:08.845265Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:40:16.812149Z'
+lastmod: '2026-07-18T17:15:08.845265Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Inicjatywa badawcza skupiona na opracowywaniu modeli obliczeniowych ludzkiego, kreatywnego rozwiązywania problemów i procesów wynalazczych."
+source: agnes_llm
+status: published
+language: pl
+description: Inicjatywa badawcza skupiona na opracowywaniu modeli obliczeniowych ludzkiego,
+  kreatywnego rozwiązywania problemów i procesów wynalazczych.
 ---
-
 ## Definition
 
 Projekt Sztucznego Wynalazcy to interdyscyplinarne przedsięwzięcie badawcze mające na celu zrozumienie i replikację mechanizmów poznawczych leżących u podstaw ludzkiej kreatywności i wynalazczości. Dąży do budowy systemów SI zdolnych do...

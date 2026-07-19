@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /it/terms/personoid/
 date: "2026-07-18T16:15:59.533684Z"
 lastmod: "2026-07-18T17:15:08.658088Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un robot umanoido o un agente software progettato per imitare l'aspetto fisico umano o lo stile conversazionale per facilitare un'interazione naturale."
 ---
-
 ## Definition
 
 Un personoide è un'entità, robotica o virtuale, progettata per assomigliare o comportarsi come un essere umano. Nella robotica, ciò implica l'antropomorfismo fisico, mentre nell'IA spesso si riferisce a chatbot o vi

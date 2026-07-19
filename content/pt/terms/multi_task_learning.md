@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /pt/terms/multi_task_learning/
 date: "2026-07-18T15:13:55.020003Z"
 lastmod: "2026-07-18T15:51:59.515357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um paradigma de aprendizado de máquina onde um modelo é treinado em várias tarefas relacionadas simultaneamente para melhorar a generalização."
 ---
-
 ## Definition
 
 Esta técnica aproveita o viés indutivo compartilhado entre tarefas relacionadas para aumentar a eficiência e o desempenho do aprendizado. Ao treinar um único modelo para realizar várias tarefas de uma vez, o modelo aprende uma representação mais robusta.

@@ -1,23 +1,24 @@
 ---
-title: "Восприятие"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Восприятие
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /ru/terms/perception/
-date: "2026-07-18T15:28:03.175940Z"
-lastmod: "2026-07-18T16:38:07.086606Z"
+slug: perception
+date: '2026-07-18T15:28:03.175940Z'
+lastmod: '2026-07-18T16:38:07.086606Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Восприятие — это процесс, посредством которого системы ИИ интерпретируют данные сенсорного ввода, такие как изображения или аудио, для понимания окружающей среды."
+source: agnes_llm
+status: published
+language: ru
+description: Восприятие — это процесс, посредством которого системы ИИ интерпретируют
+  данные сенсорного ввода, такие как изображения или аудио, для понимания окружающей
+  среды.
 ---
-
 ## Definition
 
 Восприятие в ИИ включает преобразование сырых данных датчиков в значимую информацию, которая может быть обработана модулями более высокого уровня рассуждения. Это включает компьютерное зрение для интерпретации визуальных сцен и обработку речи.

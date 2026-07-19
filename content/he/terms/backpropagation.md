@@ -1,23 +1,23 @@
 ---
-title: "הפצה לאחור"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: הפצה לאחור
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /he/terms/backpropagation/
-date: "2026-07-18T15:22:26.486734Z"
-lastmod: "2026-07-18T17:15:09.470409Z"
+slug: backpropagation
+date: '2026-07-18T15:22:26.486734Z'
+lastmod: '2026-07-18T17:15:09.470409Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגוריתם נפוץ לאימון רשתות נוירונים על ידי חישוב גרדיאנטים לצמצום שגיאה."
+source: agnes_llm
+status: published
+language: he
+description: אלגוריתם נפוץ לאימון רשתות נוירונים על ידי חישוב גרדיאנטים לצמצום שגיאה.
 ---
-
 ## Definition
 
 הפצה לאחור (Backpropagation), קיצור של הפצה לאחור של שגיאות, היא שיטה המשמשת ברשתות נוירונים מלאכותיות לחישוב הגרדיאנט של פונקציית ההפסד ביחס למשקולות. היא פועלת על ידי העברת השגיאה אחורה.

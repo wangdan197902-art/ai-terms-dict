@@ -1,23 +1,25 @@
 ---
-title: "Livslang planlegging A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Livslang planlegging A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /no/terms/lifelong_planning_a/
-date: "2026-07-18T16:02:37.288933Z"
-lastmod: "2026-07-18T16:38:07.019047Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:02:37.288933Z'
+lastmod: '2026-07-18T16:38:07.019047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En inkrementell sti-finningsalgoritme som effektivt oppdaterer korteste veier i dynamiske grafer uten å beregne på nytt fra bunnen av etter endringer i kantvekt."
+source: agnes_llm
+status: published
+language: 'no'
+description: En inkrementell sti-finningsalgoritme som effektivt oppdaterer korteste
+  veier i dynamiske grafer uten å beregne på nytt fra bunnen av etter endringer i
+  kantvekt.
 ---
-
 ## Definition
 
 Livslang planlegging A* (LPA*) er en utvidelse av A*-søkealgoritmen designet for miljøer der kostnader endrer seg over tid. I stedet for å starte søket på nytt, vedlikeholder LPA* en prioritetskø og oppdaterer kun de nodene som påvirkes av endringene, noe som gjør den mye raskere enn å kjøre A* på nytt i dynamiske miljøer.

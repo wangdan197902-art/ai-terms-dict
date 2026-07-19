@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /ar/terms/explanation_based_learning/
 date: "2026-07-18T15:57:22.721324Z"
 lastmod: "2026-07-18T17:15:08.503052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التعلم القائم على الشرح هو طريقة في تعلم الآلة تستخدم نظرية المجال ومثال تدريب واحد لتوليد شرح، يتم بعد ذلك تعميمه إلى قاعدة جديدة."
 ---
-
 ## Definition
 
 يجمع التعلم القائم على الشرح بين الاستدلال الرمزي وتعلم الآلة لتسريع عملية التعلم. بدلاً من الاعتماد على مجموعات بيانات كبيرة، يأخذ مثالاً إيجابياً واحداً ويستخدم نظرية مجال موجودة مسبقاً لاستنتاج قواعد عامة.

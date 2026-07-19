@@ -1,23 +1,24 @@
 ---
-title: "Kalkulus Atribusi"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Kalkulus Atribusi
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /id/terms/attributional_calculus/
-date: "2026-07-18T15:39:49.347991Z"
-lastmod: "2026-07-18T16:38:07.429923Z"
+slug: attributional_calculus
+date: '2026-07-18T15:39:49.347991Z'
+lastmod: '2026-07-18T16:38:07.429923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sistem logika formal yang digunakan untuk merepresentasikan dan menalar tentang atribusi pengetahuan, khususnya siapa yang mengetahui atau percaya apa."
+source: agnes_llm
+status: published
+language: id
+description: Sistem logika formal yang digunakan untuk merepresentasikan dan menalar
+  tentang atribusi pengetahuan, khususnya siapa yang mengetahui atau percaya apa.
 ---
-
 ## Definition
 
 Kalkulus atribusi adalah cabang logika modal yang berfokus pada penalaran tentang keadaan epistemik. Sistem ini menyediakan kerangka kerja untuk memodelkan pernyataan seperti 'Agen A mengetahui bahwa P' atau 'Agen B percaya Q', memungkinkan representasi formal tentang pengetahuan dan kepercayaan agen yang berbeda.

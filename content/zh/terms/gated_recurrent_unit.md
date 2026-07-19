@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /zh/terms/gated_recurrent_unit/
 date: "2026-07-18T11:18:04.585960Z"
 lastmod: "2026-07-18T11:44:45.504486Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种使用门控机制控制信息流动的循环神经网络架构，作为LSTM的简化替代方案。"
 ---
-
 ## Definition
 
 门控循环单元（GRU）是一种专门的循环神经网络（RNN）单元，旨在捕捉序列数据中的长期依赖关系。它简化了长短期记忆（LSTM）架构。

@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /th/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:44:02.178307Z"
 lastmod: "2026-07-18T16:38:07.578916Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "รูปแบบการเรียนรู้ที่มองว่าพารามิเตอร์ของโมเดลเป็นตัวแปรสุ่มที่มีการแจกแจงความน่าจะเป็น แทนที่จะเป็นค่าคงที่"
 ---
-
 ## Definition
 
 กลไกการเรียนรู้แบบเบย์เซียนอัปเดตความเชื่อเกี่ยวกับพารามิเตอร์ของโมเดลโดยใช้ทฤษฎีบทของเบย์ส์ โดยผสมผสานความรู้ก่อนหน้ากับข้อมูลที่สังเกตได้เพื่อสร้างการแจกแจงหลัง ต่างจากแนวทางความถี่นิยมที่

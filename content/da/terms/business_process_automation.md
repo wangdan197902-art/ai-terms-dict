@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /da/terms/business_process_automation/
 date: "2026-07-18T15:44:36.646630Z"
 lastmod: "2026-07-18T17:15:09.266690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Brugen af teknologi til at udføre tilbagevendende opgaver eller processer i en virksomhed, hvor manuelt arbejde kan erstattes."
 ---
-
 ## Definition
 
 Automatisering af forretningsprocesser (BPA) indebærer udnyttelse af software og AI til at strømline komplekse forretningsarbejdsgange. I modsætning til simpel RPA (Robotic Process Automation), der håndterer regelbaserede opgaver, involverer BPA ofte...

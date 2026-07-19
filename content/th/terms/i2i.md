@@ -1,23 +1,23 @@
 ---
-title: "การแปลงภาพเป็นภาพ (Image-to-Image Translation)"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: การแปลงภาพเป็นภาพ (Image-to-Image Translation)
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /th/terms/i2i/
-date: "2026-07-18T15:59:31.173418Z"
-lastmod: "2026-07-18T16:38:07.616767Z"
+slug: i2i
+date: '2026-07-18T15:59:31.173418Z'
+lastmod: '2026-07-18T16:38:07.616767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การแปลงภาพเป็นภาพเป็นเทคนิคคอมพิวเตอร์วิทัศน์ที่แปลงภาพอินพุตให้เป็นภาพเอาต์พุตที่เกี่ยวข้องกัน โดยยังคงเนื้อหาเชิงความหมายไว้"
+source: agnes_llm
+status: published
+language: th
+description: การแปลงภาพเป็นภาพเป็นเทคนิคคอมพิวเตอร์วิทัศน์ที่แปลงภาพอินพุตให้เป็นภาพเอาต์พุตที่เกี่ยวข้องกัน
+  โดยยังคงเนื้อหาเชิงความหมายไว้
 ---
-
 ## Definition
 
 การแปลงภาพเป็นภาพ (I2I) เกี่ยวข้องกับการแมพพิกเซลจากโดเมนต้นทางไปยังโดเมนเป้าหมายโดยใช้โมเดลการเรียนรู้เชิงลึก เช่น GAN หรือโมเดลแพร่กระจาย (diffusion models) ช่วยให้การถ่ายโอนสไตล์และการแบ่งส่วนเชิงความหมายเป็นไปได้อย่างมีประสิทธิภาพ

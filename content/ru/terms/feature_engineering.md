@@ -1,23 +1,25 @@
 ---
-title: "Конструирование признаков"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: Конструирование признаков
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /ru/terms/feature_engineering/
-date: "2026-07-18T15:53:10.347130Z"
-lastmod: "2026-07-18T16:38:07.156625Z"
+slug: feature_engineering
+date: '2026-07-18T15:53:10.347130Z'
+lastmod: '2026-07-18T16:38:07.156625Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Практика использования предметных знаний для создания новых признаков или модификации существующих с целью улучшения производительности моделей машинного обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Практика использования предметных знаний для создания новых признаков
+  или модификации существующих с целью улучшения производительности моделей машинного
+  обучения.
 ---
-
 ## Definition
 
 Конструирование признаков — это искусство использования экспертных знаний в предметной области для преобразования сырых данных в признаки, которые лучше отражают скрытые закономерности для алгоритмов машинного обучения. Этот процесс включает создание новых переменных.

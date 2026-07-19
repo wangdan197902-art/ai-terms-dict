@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /tr/terms/artificial_wisdom/
 date: "2026-07-18T15:41:54.078130Z"
 lastmod: "2026-07-18T16:38:07.275125Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Karar vermeyi iyileştirmek için yargı, etik ve bağlamsal anlayışı içerecek şekilde zekayı aşan yapay zeka kavramı."
 ---
-
 ## Definition
 
 Yapay Bilgelik (AW), yapay zekayı insan benzeri değerler, etik hususlar ve uzun vadeli stratejik yargılarla zenginleştirmeyi amaçlayan ortaya çıkan bir kavramdır. Yapay zeka genellikle verimlilik ve doğruluk odaklıyken, yapay bilgelik 'ne yapılması gerektiği' sorusuna etik ve toplumsal bağlam içinde cevap arar. Bu yaklaşım, algoritmik kararların insan değerleriyle uyumlu olmasını sağlayarak daha sorumlu ve sürdürülebilir sonuçlar elde etmeyi hedefler.

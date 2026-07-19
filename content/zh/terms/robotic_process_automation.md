@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /zh/terms/robotic_process_automation/
 date: "2026-07-18T11:32:26.773545Z"
 lastmod: "2026-07-18T11:44:45.551282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "使用软件机器人自动化传统上由人类在业务流程中执行的高容量、重复性数字任务。"
 ---
-
 ## Definition
 
 机器人流程自动化（RPA）采用软件机器人（通常增强有AI功能）来模拟人类与数字系统的交互。它用于简化工作流程，如数据录入、发票处理等，从而提高效率并减少错误。

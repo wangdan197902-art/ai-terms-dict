@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /he/terms/personality_computing/
 date: "2026-07-18T16:17:07.193067Z"
 lastmod: "2026-07-18T17:15:09.573244Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תחום מחקר המתמקד בפיתוח מודלים חישוביים הדומים לתכונות האישיות האנושית, במטרה לשפר את האינטראקציה בין אדם למחשב."
 ---
-
 ## Definition
 
 חישוב אישיות כולל פיתוח אלגוריתמים ומערכות המסוגלים לדמות, לספק או להתאים לממדי אישיות אנושיים, כגון חמש התכונות הגדולות (Big Five). מערכות אלו שואפות ליצור

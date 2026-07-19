@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /tr/terms/cli/
 date: "2026-07-18T15:33:48.615847Z"
 lastmod: "2026-07-18T16:38:07.255115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Komut Satırı Arayüzü (CLI), yazılımlarla etkileşim kurmak için terminal penceresine metin tabanlı komutlar yazarak kullanılan bir arayüz türüdür."
 ---
-
 ## Definition
 
 Bir Komut Satırı Arayüzü (CLI), kullanıcıların grafiksel öğeler yerine metinsel komutlar girerek yazılımı kontrol etmesini sağlar. Yapay zeka geliştirme süreçlerinde, CLI'lar betikleri çalıştırmak, modelleri yönetmek ve bulut kaynaklarını yapılandırmak için hayati önem taşır.

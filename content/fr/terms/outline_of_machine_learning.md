@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /fr/terms/outline_of_machine_learning/
 date: "2026-07-18T11:32:11.757484Z"
 lastmod: "2026-07-18T11:44:45.308744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une catégorisation complète des paradigmes, algorithmes et métriques d'évaluation de l'apprentissage automatique."
 ---
-
 ## Definition
 
 Ce terme décrit la classification structurelle de l'apprentissage automatique en apprentissage supervisé, non supervisé, semi-supervisé et par renforcement. Il comprend les familles d'algorithmes de base telles que la régression linéaire...

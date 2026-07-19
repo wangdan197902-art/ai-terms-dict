@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /da/terms/agentive_logic/
 date: "2026-07-18T15:40:23.641475Z"
 lastmod: "2026-07-18T17:15:09.257069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Agentiv logik refererer til de formelle ræsonnementsrammer, der bruges til at modellere intentioner, mål og beslutningstagende processer hos autonome agenter."
 ---
-
 ## Definition
 
 Den udvider traditionel logik for at tage højde for agens, hvilket tillader systemer at repræsentere tro, ønsker og intentioner (BDI-modeller). Denne logik gør det muligt for agenter at planlægge handlinger dynamisk baseret på skiftende forhold.

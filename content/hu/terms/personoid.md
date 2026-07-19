@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /hu/terms/personoid/
 date: "2026-07-18T16:17:55.051824Z"
 lastmod: "2026-07-18T17:15:09.822244Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy humanoid robot vagy szoftverügynök, amelyet úgy terveztek, hogy utánozza az emberi fizikai megjelenést vagy beszélgetési stílust a természetes interakció elősegítése érdekében."
 ---
-
 ## Definition
 
 Egy personoid egy entitás, legyen szó robotikáról vagy virtuálisról, amelyet úgy mérnökölték, hogy hasonlítson vagy viselkedjen emberként. A robotikában ez fizikai antropomorfizmust jelent, míg az AI-ban gyakran chatbotokra vagy virtuális 

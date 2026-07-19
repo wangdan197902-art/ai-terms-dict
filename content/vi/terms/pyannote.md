@@ -1,23 +1,24 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /vi/terms/pyannote/
-date: "2026-07-18T16:09:04.608504Z"
-lastmod: "2026-07-18T16:38:07.796244Z"
+slug: pyannote
+date: '2026-07-18T16:09:04.608504Z'
+lastmod: '2026-07-18T16:38:07.796244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Pyannote là một thư viện Python cung cấp các giải pháp tiên tiến nhất cho các tác vụ phân tích người nói (speaker diarization) và phân đoạn âm thanh."
+source: agnes_llm
+status: published
+language: vi
+description: Pyannote là một thư viện Python cung cấp các giải pháp tiên tiến nhất
+  cho các tác vụ phân tích người nói (speaker diarization) và phân đoạn âm thanh.
 ---
-
 ## Definition
 
 Pyannote là một thư viện Python mã nguồn mở được phát triển bởi pyannote.audio, chuyên về phân tích người nói, tức là quá trình xác định 'ai đã nói khi nào' trong một luồng âm thanh. Nó tận dụng các mô hình học sâu để đạt hiệu suất cao.

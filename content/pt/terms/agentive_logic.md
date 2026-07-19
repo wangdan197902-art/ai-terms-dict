@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /pt/terms/agentive_logic/
 date: "2026-07-18T14:49:00.423724Z"
 lastmod: "2026-07-18T15:51:59.461327Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A lógica agente refere-se aos frameworks de raciocínio formal usados para modelar as intenções, objetivos e processos de tomada de decisão de agentes autônomos."
 ---
-
 ## Definition
 
 Ela estende a lógica tradicional para levar em conta a agência, permitindo que os sistemas representem crenças, desejos e intenções (modelos BDI). Essa lógica permite que os agentes planejem ações dinamicamente com base em mudanças no ambiente.

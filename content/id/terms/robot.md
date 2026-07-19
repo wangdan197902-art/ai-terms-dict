@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /id/terms/robot/
 date: "2026-07-18T15:29:10.138733Z"
 lastmod: "2026-07-18T16:38:07.401367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mesin yang dapat diprogram dan mampu melakukan tindakan kompleks secara otomatis."
 ---
-
 ## Definition
 
 Robot adalah perangkat mekanis otonom atau semi-otonom yang dirancang untuk melakukan tugas-tugas baik secara mandiri maupun di bawah kendali jarak jauh. Robot biasanya terdiri dari sensor untuk persepsi lingkungan, aktuator untuk pergerakan, dan sistem kontrol untuk memproses informasi.

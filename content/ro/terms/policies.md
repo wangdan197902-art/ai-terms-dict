@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /ro/terms/policies/
 date: "2026-07-18T15:28:24.102564Z"
 lastmod: "2026-07-18T17:15:09.600584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de ghiduri, reguli sau protocoale stabilite de o organizație pentru a guverna comportamentul, luarea deciziilor și standardele operaționale."
 ---
-
 ## Definition
 
 În contextul inteligenței artificiale și al guvernanței tehnologice, politicile se referă la cadrele formalizate care dictează modul în care sistemele AI ar trebui dezvoltate, implementate și monitorizate. Aceste documente stabilesc...

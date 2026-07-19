@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /cs/terms/embodied/
 date: "2026-07-18T15:24:36.087497Z"
 lastmod: "2026-07-18T17:15:09.067221Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vtělená AI se týká inteligentních systémů, které interagují s fyzickým světem prostřednictvím senzorů a aktuátorů v rámci určitého těla."
 ---
-
 ## Definition
 
 Vtělená AI předpokládá, že inteligence vzniká z interakce mezi fyzickou formou agenta a jeho prostředím. Na rozdíl od nevtělené AI, která zpracovává abstraktní data, používají vtělení agenti senzory k vnímání světa a aktuátory k jeho ovlivňování, čímž učení přímo souvisí s fyzickými zkušenostmi.

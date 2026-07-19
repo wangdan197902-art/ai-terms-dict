@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /nl/terms/frontiermath/
-date: "2026-07-18T15:56:02.317875Z"
-lastmod: "2026-07-18T17:15:08.746185Z"
+slug: frontiermath
+date: '2026-07-18T15:56:02.317875Z'
+lastmod: '2026-07-18T17:15:08.746185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een benchmarkdataset die is ontworpen om de geavanceerde wiskundige redeneervermogens van state-of-the-art AI-modellen te evalueren."
+source: agnes_llm
+status: published
+language: nl
+description: Een benchmarkdataset die is ontworpen om de geavanceerde wiskundige redeneervermogens
+  van state-of-the-art AI-modellen te evalueren.
 ---
-
 ## Definition
 
 FrontierMath is een gespecialiseerde evaluatiesuite die is gemaakt om de grenzen van grote taalmodellen te testen bij het oplossen van complexe wiskundige problemen. In tegenstelling tot standaard rekenkundige benchmarks, richt het zich op hoogwaardige wiskundige redenering en probleemoplossend vermogen.

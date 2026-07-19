@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /pl/terms/react/
 date: "2026-07-18T15:36:47.657488Z"
 lastmod: "2026-07-18T17:15:08.836120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "ReAct to paradygmat promptingu łączący rozumowanie i działanie w celu poprawy wydajności dużych modeli językowych (LLM) w złożonych zadaniach."
 ---
-
 ## Definition
 
 Ramowy model ReAct umożliwia LLM generowanie zarówno śladów rozumowania, jak i działań specyficznych dla zadania w sposób naprzemienny. Symulując ludzkie procesy myślowe, pozwala modelom na interakcję z zewnętrznymi środowiskami i narzędziami, co zwiększa ich zdolność do rozwiązywania problemów.

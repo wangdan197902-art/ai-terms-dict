@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /tr/terms/self_management/
 date: "2026-07-18T16:13:28.355984Z"
 lastmod: "2026-07-18T16:38:07.362989Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada öz yönetim, otonom sistemlerin insan müdahalesi olmadan kendi operasyonlarını izleme, optimize etme ve onarma yeteneğini ifade eder."
 ---
-
 ## Definition
 
 Bu kavram, AI ajanlarının veya sistemlerinin rutin bakım, kaynak tahsisi ve hata düzeltme işlerini bağımsız olarak yönetme kapasitesini kapsar. Otomatik ölçeklendirme ve kendini iyileştirme gibi özellikleri içerir.

@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /it/terms/bpe/
 date: "2026-07-18T15:34:52.481551Z"
 lastmod: "2026-07-18T17:15:08.583473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'encoding a coppie di byte (BPE) è un algoritmo utilizzato per la tokenizzazione sub-parola che fonde iterativamente le coppie di caratteri più frequenti per costruire un vocabolario."
 ---
-
 ## Definition
 
 L'encoding a coppie di byte (BPE) è una tecnica di compressione dei dati adattata all'elaborazione del linguaggio naturale per gestire le parole fuori dal vocabolario. Parte da un vocabolario di singoli caratteri e fonde iterativamente

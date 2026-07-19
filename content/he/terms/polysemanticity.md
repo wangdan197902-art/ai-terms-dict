@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /he/terms/polysemanticity/
 date: "2026-07-18T16:17:22.515498Z"
 lastmod: "2026-07-18T17:15:09.574292Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "התופעה שבה נוירונים בודדים ברשתות עצביות מגיבים למספר מושגים שונים."
 ---
-
 ## Definition
 
 פולי-סמנטיות היא מאפיין הנצפה ברשתות עצביות עמוקות, במיוחד בטרנספורמרים, שבו נוירון בודד עשוי להפעיל את עצמו כתגובה למספר תכונות לא קשורות או בעלות משמעות סמנטית שונה.

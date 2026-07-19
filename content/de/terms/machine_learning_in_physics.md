@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /de/terms/machine_learning_in_physics/
 date: "2026-07-18T11:22:46.715025Z"
 lastmod: "2026-07-18T11:44:44.962215Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Anwendung des maschinellen Lernens zur Lösung komplexer physikalischer Probleme, zur Simulation quantenmechanischer Systeme und zur Analyse experimenteller Daten aus Teilchenbeschleunigern."
 ---
-
 ## Definition
 
 In der Physik unterstützt maschinelles Lernen bei der Simulation der Quantenmechanik, der Analyse von Hochenergie-Kollisionsdaten und der Entdeckung neuer Materialien. Es hilft Physikerinnen und Physikern, hochdimensionale Parameterräume zu navigieren, theoretische Modelle mit experimentellen Ergebnissen abzugleichen und neue physikalische Gesetzmäßigkeiten aus großen Datensätzen zu extrahieren, was die Geschwindigkeit und Genauigkeit wissenschaftlicher Entdeckungen erhöht.

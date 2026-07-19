@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /hu/terms/mauve/
-date: "2026-07-18T16:11:21.052444Z"
-lastmod: "2026-07-18T17:15:09.806392Z"
+slug: mauve
+date: '2026-07-18T16:11:21.052444Z'
+lastmod: '2026-07-18T17:15:09.806392Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A MAUVE (Measuring Alignment Using Virtual Embeddings) egy metrika a természetes nyelvfeldolgozásban, amelyet a generált szövegeloszlások és az emberi szövegeloszlások közötti illeszkedés értékelésére"
+source: agnes_llm
+status: published
+language: hu
+description: A MAUVE (Measuring Alignment Using Virtual Embeddings) egy metrika a
+  természetes nyelvfeldolgozásban, amelyet a generált szövegeloszlások és az emberi
+  szövegeloszlások közötti illeszkedés értékelésére
 ---
-
 ## Definition
 
 A MAUVE egy statisztikai mérőszám, amelyet arra terveztek, hogy felmérje, mennyire hasonlít egy generatív nyelvi modell kimenete az emberi nyelvhasonlóságra. A egyszerű perplexitás pontokkal ellentétben a MAUVE virtuális beágyazásokat használ

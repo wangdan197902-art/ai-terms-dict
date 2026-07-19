@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /fr/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T11:09:29.609852Z"
 lastmod: "2026-07-18T11:44:45.209041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une évaluation analytique de différents frameworks ML basée sur les fonctionnalités, les performances, la facilité d'utilisation et le soutien communautaire pour guider le choix des outils."
 ---
-
 ## Definition
 
 Ce terme fait référence à l'évaluation systématique et au benchmarking de diverses bibliothèques et plateformes d'apprentissage automatique, telles que TensorFlow, PyTorch, Scikit-learn et Keras. Les comparaisons analysent généralement

@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /ko/terms/edge_computing/
 date: "2026-07-18T15:54:09.943594Z"
 lastmod: "2026-07-18T16:38:06.835645Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "엣지 컴퓨팅(Edge Computing)은 중앙 집중식 클라우드 서버에만 의존하기보다 데이터 생성 원점에 가깝게 연산과 데이터 저장을 가져오는 분산 컴퓨팅 패러다임입니다."
 ---
-
 ## Definition
 
 엣지 컴퓨팅(Edge Computing)은 사물인터넷(IoT) 장치, 센서 또는 로컬 게이트웨이 등 데이터가 생성되는 근처에서 데이터를 처리함으로써 클라우드 중심 아키텍처의 지연 시간(latency) 및 대역폭 한계를 해결합니다. AI 컨텍스트에서는 실시간 분석과 빠른 응답이 필요한 애플리케이션에 필수적이며, 네트워크 트래픽을 줄이고 프라이버시를 보호하는 데 기여합니다.

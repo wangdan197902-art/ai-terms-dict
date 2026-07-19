@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /cs/terms/self_attention/
 date: "2026-07-18T15:29:09.463065Z"
 lastmod: "2026-07-18T17:15:09.078200Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Mechanismus umožňující neuronové síti vážit významnost různých částí vstupní sekvence vůči sobě navzájem."
 ---
-
 ## Definition
 
 Self-attention umožňuje modelům zachytit závislosti mezi všemi pozicemi v sekvenci současně, bez ohledu na vzdálenost. Výpočtem skóre pozornosti mezi každou dvojici tokenů umožňuje...

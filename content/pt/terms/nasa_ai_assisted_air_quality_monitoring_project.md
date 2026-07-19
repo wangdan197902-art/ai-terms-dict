@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /pt/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T15:14:20.706663Z"
 lastmod: "2026-07-18T15:51:59.516478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma iniciativa que utiliza inteligência artificial e dados de satélite para monitorar e prever padrões globais de qualidade do ar."
 ---
-
 ## Definition
 
 Este projeto aproveita os dados de observação da Terra da NASA combinados com algoritmos avançados de IA para rastrear material particulado e poluentes gasosos em escala global. Ao integrar imagens de satélite com medições em nível do solo...

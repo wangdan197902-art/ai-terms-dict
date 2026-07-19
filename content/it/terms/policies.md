@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /it/terms/policies/
 date: "2026-07-18T15:27:51.112592Z"
 lastmod: "2026-07-18T17:15:08.571749Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un insieme di linee guida, regole o protocolli stabiliti da un'organizzazione per governare il comportamento, il processo decisionale e gli standard operativi."
 ---
-
 ## Definition
 
 Nel contesto della governance dell'intelligenza artificiale e della tecnologia, le politiche si riferiscono ai quadri formalizzati che stabiliscono come i sistemi di IA dovrebbero essere sviluppati, distribuiti e monitorati. Questi documenti...

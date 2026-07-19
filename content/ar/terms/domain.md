@@ -1,23 +1,24 @@
 ---
-title: "النطاق"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: النطاق
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /ar/terms/domain/
-date: "2026-07-18T15:25:14.806458Z"
-lastmod: "2026-07-18T17:15:08.436585Z"
+slug: domain
+date: '2026-07-18T15:25:14.806458Z'
+lastmod: '2026-07-18T17:15:08.436585Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يمثل النطاق سياقاً محدداً أو توزيعاً للبيانات يتميز بمساحة الميزات والتوزيع الاحتمالي الأساسي له."
+source: agnes_llm
+status: published
+language: ar
+description: يمثل النطاق سياقاً محدداً أو توزيعاً للبيانات يتميز بمساحة الميزات والتوزيع
+  الاحتمالي الأساسي له.
 ---
-
 ## Definition
 
 في التعلم الآلي، وتحديداً في التعلم بالنقل، يُعرّف النطاق بمكونين: مساحة الميزات (مجموعة جميع المدخلات الممكنة) والتوزيع الاحتمالي الهامشي لتلك المدخلات.

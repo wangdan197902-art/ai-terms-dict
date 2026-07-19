@@ -1,23 +1,24 @@
 ---
-title: "Organoid Zeka"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Organoid Zeka
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /tr/terms/organoid_intelligence/
-date: "2026-07-18T16:07:31.041016Z"
-lastmod: "2026-07-18T16:38:07.343728Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:07:31.041016Z'
+lastmod: '2026-07-18T16:38:07.343728Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bilgi işlemi için canlı beyin hücrelerini elektronik arayüzlerle entegre eden hibrit bir hesaplama paradigması."
+source: agnes_llm
+status: published
+language: tr
+description: Bilgi işlemi için canlı beyin hücrelerini elektronik arayüzlerle entegre
+  eden hibrit bir hesaplama paradigması.
 ---
-
 ## Definition
 
 Organoid zeka (OZ), insan kökenli beyin organoidlerinin mikroelektrot dizilerine kültür ortamında yetiştirildiği biyo-hibrit sistemlerin geliştirilmesini ifade eder. Bu yaşayan nöral ağlar, geleneksel silikon tabanlı çiplere kıyasla çok daha düşük enerji tüketerek bilişsel görevleri yerine getirebilir.

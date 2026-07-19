@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /cs/terms/high_level/
 date: "2026-07-18T15:32:10.912201Z"
 lastmod: "2026-07-18T17:15:09.083686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na abstraktní reprezentace nebo programovací rozhraní, která skrývají nízkourovňové implementační detaily od uživatele."
 ---
-
 ## Definition
 
 V AI 'vysokoúrovňový' označuje abstrakce, které zjednodušují složité procesy. Vysokoúrovňové jazyky (jako Python) nebo API umožňují vývojářům budovat modely bez nutnosti spravovat paměť nebo specifiky hardwaru. Naproti tomu nízkourovňové rozhraní vyžaduje hlubší pochopení architektury a manuální správu zdrojů.

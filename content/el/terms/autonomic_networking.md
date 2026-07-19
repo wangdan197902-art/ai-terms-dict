@@ -1,23 +1,24 @@
 ---
-title: "Αυτονόμηση δικτύων"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Αυτονόμηση δικτύων
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /el/terms/autonomic_networking/
-date: "2026-07-18T15:52:37.333753Z"
-lastmod: "2026-07-18T17:15:09.883936Z"
+slug: autonomic_networking
+date: '2026-07-18T15:52:37.333753Z'
+lastmod: '2026-07-18T17:15:09.883936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Υποδομή δικτύου αυτοδιαχείρισης που χρησιμοποιεί ΤΝ για τη διαμόρφωση, βελτιστοποίηση και αυτοθεραπεία της."
+source: agnes_llm
+status: published
+language: el
+description: Υποδομή δικτύου αυτοδιαχείρισης που χρησιμοποιεί ΤΝ για τη διαμόρφωση,
+  βελτιστοποίηση και αυτοθεραπεία της.
 ---
-
 ## Definition
 
 Η αυτονόμηση δικτύων εφαρμόζει αρχές της αυτονόμης υπολογιστικής στις τηλεπικοινωνιακές δικτυακές υποδομές, επιτρέποντας στα συστήματα να διαχειρίζονται τον εαυτό τους με ελάχιστη ανθρώπινη παρέμβαση. Αυτά τα δίκτυα χρησιμοποιούν ΤΝ για την ανίχνευση σφαλμάτων...

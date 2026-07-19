@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /vi/terms/ocr/
 date: "2026-07-18T16:06:04.808964Z"
 lastmod: "2026-07-18T16:38:07.789231Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "OCR là công nghệ chuyển đổi các loại tài liệu khác nhau, chẳng hạn như tài liệu giấy quét hoặc hình ảnh, thành dữ liệu có thể chỉnh sửa và tìm kiếm được."
 ---
-
 ## Definition
 
 Nhận dạng ký tự quang học (OCR) sử dụng các thuật toán xử lý hình ảnh và nhận dạng mẫu để xác định văn bản bên trong các hình ảnh kỹ thuật số. Nó biến các ký tự in hoặc viết tay thành dữ liệu mã hóa máy.

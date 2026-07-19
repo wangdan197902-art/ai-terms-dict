@@ -1,23 +1,24 @@
 ---
-title: "Tensor Terkompresi"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Tensor Terkompresi
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /id/terms/compressed_tensors/
-date: "2026-07-18T15:43:04.733204Z"
-lastmod: "2026-07-18T16:38:07.438715Z"
+slug: compressed_tensors
+date: '2026-07-18T15:43:04.733204Z'
+lastmod: '2026-07-18T16:38:07.438715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Tensor yang presisi atau ukurannya telah dikurangi untuk mengoptimalkan penyimpanan dan efisiensi komputasi."
+source: agnes_llm
+status: published
+language: id
+description: Tensor yang presisi atau ukurannya telah dikurangi untuk mengoptimalkan
+  penyimpanan dan efisiensi komputasi.
 ---
-
 ## Definition
 
 Tensor terkompresi adalah array multidimensi yang digunakan dalam pembelajaran mendalam di mana presisi numerik (misalnya, dari float32 ke int8) atau kerapatan telah dikurangi. Teknik ini dikenal sebagai kuantisasi atau kompresi.

@@ -1,23 +1,24 @@
 ---
-title: "هندسة الميزات (Feature Engineering)"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: هندسة الميزات (Feature Engineering)
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /ar/terms/feature_engineering/
-date: "2026-07-18T15:57:37.160935Z"
-lastmod: "2026-07-18T17:15:08.503876Z"
+slug: feature_engineering
+date: '2026-07-18T15:57:37.160935Z'
+lastmod: '2026-07-18T17:15:08.503876Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ممارسة استخدام معرفة المجال لإنشاء ميزات جديدة أو تعديل الميزات الموجودة لتعزيز أداء نماذج التعلم الآلي."
+source: agnes_llm
+status: published
+language: ar
+description: ممارسة استخدام معرفة المجال لإنشاء ميزات جديدة أو تعديل الميزات الموجودة
+  لتعزيز أداء نماذج التعلم الآلي.
 ---
-
 ## Definition
 
 هندسة الميزات هي فن الاستفادة من الخبرة في المجال لتحويل البيانات الخام إلى ميزات تمثل الأنماط الأساسية بشكل أفضل لخوارزميات التعلم الآلي. تشمل هذه العملية إنشاء متغيرات جديدة أو تعديل الموجودة لتحسين دقة النموذج.

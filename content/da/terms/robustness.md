@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /da/terms/robustness/
 date: "2026-07-18T16:15:18.628355Z"
 lastmod: "2026-07-18T17:15:09.328574Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Evnen hos en AI-model til at opretholde ydeevne og stabilitet, når den konfronteres med støjende data, adversariale angreb eller forskydninger i datafordelingen."
 ---
-
 ## Definition
 
 Inden for AI-sikkerhed og etik refererer robusthed til en models modstandsdygtighed over for uventede input eller ondsindede manipulationer. Et robust system fortsætter med at fungere korrekt, selv når inputdata indeholder støj

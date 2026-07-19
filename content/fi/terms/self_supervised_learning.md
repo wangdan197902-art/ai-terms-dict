@@ -1,23 +1,24 @@
 ---
-title: "Itseohjautuva oppiminen"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Itseohjautuva oppiminen
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /fi/terms/self_supervised_learning/
-date: "2026-07-18T15:38:18.025209Z"
-lastmod: "2026-07-18T17:15:09.375038Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:38:18.025209Z'
+lastmod: '2026-07-18T17:15:09.375038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Koulutusmenetelmä, jossa malli luo omat tunnisteensa syötedatasta oppiakseen esityksiä."
+source: agnes_llm
+status: published
+language: fi
+description: Koulutusmenetelmä, jossa malli luo omat tunnisteensa syötedatasta oppiakseen
+  esityksiä.
 ---
-
 ## Definition
 
 Itseohjautuva oppiminen on tekniikka, jossa algoritmi luo valvontasignaaleja itse merkitsemättömästä datasta ennustamalla yleensä syötteen puuttuvia osia. Se yhdistää puuttuvan

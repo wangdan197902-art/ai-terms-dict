@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /it/terms/trade_off/
 date: "2026-07-18T15:34:15.180831Z"
 lastmod: "2026-07-18T17:15:08.582255Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un compromesso in cui il guadagno di vantaggio in un'area comporta una perdita in un'altra."
 ---
-
 ## Definition
 
 Nell'IA e nell'ingegneria, un compromesso si riferisce all'equilibrio necessario quando si ottimizzano obiettivi conflittuali, come l'accuratezza del modello rispetto al costo computazionale o alla latenza, o la precisione rispetto alla velocità. Poiché le risorse sono limitate...

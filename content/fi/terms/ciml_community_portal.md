@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /fi/terms/ciml_community_portal/
 date: "2026-07-18T15:46:25.208888Z"
 lastmod: "2026-07-18T17:15:09.389931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Keskitetty verkkopalvelu, joka edistää yhteistyötä, resurssien jakamista ja keskustelua laskennallisen älykkyyden ja koneoppimisen tutkijoiden sekä ammattilaisten välillä."
 ---
-
 ## Definition
 
 CIML-yhteisön portaali toimii digitaalisena keskuksena laskennalliseen älykkyyteen keskittyvälle akateemiselle ja ammatilliselle yhteisölle. Se tarjoaa pääsyn tietojoukkoihin, esikoulutettuihin malleihin ja tutkimusartikkeleihin.

@@ -1,23 +1,23 @@
 ---
-title: "번역"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: 번역
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /ko/terms/translation/
-date: "2026-07-18T15:36:40.539525Z"
-lastmod: "2026-07-18T16:38:06.801238Z"
+slug: translation
+date: '2026-07-18T15:36:40.539525Z'
+lastmod: '2026-07-18T16:38:06.801238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "의미를 보존하면서 소스 자연어를 대상 자연어로 텍스트를 변환하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 의미를 보존하면서 소스 자연어를 대상 자연어로 텍스트를 변환하는 과정입니다.
 ---
-
 ## Definition
 
 AI에서의 번역은 신경 기계 번역(Neural Machine Translation)을 의미하며, 딥러닝 모델이 언어 간 의미 표현을 매핑합니다. 규칙 기반 시스템과 달리 현대적 접근법은 문맥상의 뉘앙스를 학습합니다.

@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /id/terms/intelligent_word_recognition/
 date: "2026-07-18T15:56:23.067496Z"
 lastmod: "2026-07-18T16:38:07.471974Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penggunaan algoritma AI, khususnya pembelajaran mendalam, untuk secara akurat mengidentifikasi dan menafsirkan teks dari gambar atau sumber tulisan tangan."
 ---
-
 ## Definition
 
 Pengenalan Kata Cerdas merujuk pada teknologi pengenalan karakter optik (OCR) canggih yang didukung oleh jaringan saraf tiruan. Teknologi ini melampaui pencocokan pola sederhana dengan memahami konteks, menangani variasi font dan kualitas gambar yang buruk, serta mampu mengekstrak informasi terstruktur dari dokumen tidak terstruktur. Hal ini memungkinkan akurasi yang jauh lebih tinggi dibandingkan metode OCR tradisional, terutama dalam skenario dunia nyata yang kompleks.

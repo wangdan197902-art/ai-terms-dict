@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /de/terms/differential_privacy/
 date: "2026-07-18T11:11:53.565629Z"
 lastmod: "2026-07-18T11:44:44.932028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein rigoroses mathematisches Rahmenwerk, das sicherstellt, dass die Aufnahme oder der Ausschluss der Daten eines einzelnen Individuums das Ergebnis einer Analyse nicht signifikant beeinflusst."
 ---
-
 ## Definition
 
 Differenzielle Privatsphäre bietet starke Datenschutzgarantien, indem sie kalibriertes statistisches Rauschen zu Abfrageergebnissen oder Modellparametern hinzufügt. Sie quantifiziert die maximale Menge an Informationsleckage bezüglich irgendeines Einzelnen.

@@ -1,23 +1,23 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /ja/terms/pyannote/
-date: "2026-07-18T11:29:13.010398Z"
-lastmod: "2026-07-18T11:44:45.135078Z"
+slug: pyannote
+date: '2026-07-18T11:29:13.010398Z'
+lastmod: '2026-07-18T11:44:45.135078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Pyannoteは、話者 diarization（誰がいつ話したかを特定する処理）および音声分割タスクにおいて最先端のソリューションを提供するPythonライブラリです。"
+source: agnes_llm
+status: published
+language: ja
+description: Pyannoteは、話者 diarization（誰がいつ話したかを特定する処理）および音声分割タスクにおいて最先端のソリューションを提供するPythonライブラリです。
 ---
-
 ## Definition
 
 Pyannoteは、pyannote.audioによって開発されたオープンソースのPythonライブラリで、音声ストリーム内で「誰がいつ話したか」を特定するプロセスである話者 diarization に特化しています。これはディープラーニング技術を活用し、高精度な音声分析を実現します。

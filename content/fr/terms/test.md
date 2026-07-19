@@ -1,23 +1,23 @@
 ---
-title: "Test"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Test
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /fr/terms/test/
-date: "2026-07-18T10:55:30.849956Z"
-lastmod: "2026-07-18T11:44:45.174201Z"
+slug: test
+date: '2026-07-18T10:55:30.849956Z'
+lastmod: '2026-07-18T11:44:45.174201Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le test fait référence à la phase d'évaluation où un modèle d'IA entraîné est évalué sur des données invisibles pour mesurer ses performances."
+source: agnes_llm
+status: published
+language: fr
+description: Le test fait référence à la phase d'évaluation où un modèle d'IA entraîné
+  est évalué sur des données invisibles pour mesurer ses performances.
 ---
-
 ## Definition
 
 L'ensemble de test est une partie des données conservée pendant le processus d'entraînement pour évaluer la capacité de généralisation finale du modèle. Contrairement aux ensembles de validation utilisés pour le réglage des hyperparamètres, l'ensemble de test fournit une estimation non biaisée des performances du modèle sur de nouvelles données,

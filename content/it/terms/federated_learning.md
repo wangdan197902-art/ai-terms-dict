@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento Federato"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Apprendimento Federato
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /it/terms/federated_learning/
-date: "2026-07-18T15:35:33.417391Z"
-lastmod: "2026-07-18T17:15:08.585637Z"
+slug: federated_learning
+date: '2026-07-18T15:35:33.417391Z'
+lastmod: '2026-07-18T17:15:08.585637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'apprendimento federato è un approccio di apprendimento automatico distribuito che addestra i modelli su dispositivi decentralizzati mantenendo i dati locali."
+source: agnes_llm
+status: published
+language: it
+description: L'apprendimento federato è un approccio di apprendimento automatico distribuito
+  che addestra i modelli su dispositivi decentralizzati mantenendo i dati locali.
 ---
-
 ## Definition
 
 L'apprendimento federato consente alle organizzazioni di addestrare collaborativamente modelli di IA senza condividere dati grezzi sensibili. Invece di centralizzare le informazioni, il modello viene inviato ai dispositivi locali dove apprende, e solo gli aggiornamenti del modello vengono inviati al server centrale per l'aggregazione.

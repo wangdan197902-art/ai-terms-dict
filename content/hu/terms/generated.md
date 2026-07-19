@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /hu/terms/generated/
 date: "2026-07-18T15:26:31.091729Z"
 lastmod: "2026-07-18T17:15:09.721113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan tartalom, amelyet AI modell hozott létre, ahelyett, hogy statikus adathalmazból közvetlenül visszakeresésre került volna."
 ---
-
 ## Definition
 
 A „generált” kifejezés a generatív AI modellek által előállított kimenetet írja le, például szöveget, képet, hangot vagy kódot. A meglévő adatokat lekérő rendszerekkel ellentétben a generatív modellek új tartalmat szintetizálnak

@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /ko/terms/regularization/
 date: "2026-07-18T16:13:19.672860Z"
 lastmod: "2026-07-18T16:38:06.903777Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "과적합을 방지하기 위해 손실 함수에 패널티를 추가하거나 모델의 복잡성을 제약하는 등 학습 중에 사용되는 일련의 기법."
 ---
-
 ## Definition
 
 정규화는 기계 학습에서 일반화 오차를 크게 증가시키지 않고 줄이는 것을 목적으로 하는 중요한 개념입니다. 이는 모델이 지나치게 복잡한 패턴(노이즈 포함)을 학습하는 것을 억제함으로써 작동합니다.

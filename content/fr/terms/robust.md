@@ -1,23 +1,24 @@
 ---
-title: "Robuste"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robuste
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /fr/terms/robust/
-date: "2026-07-18T10:53:36.574484Z"
-lastmod: "2026-07-18T11:44:45.171048Z"
+slug: robust
+date: '2026-07-18T10:53:36.574484Z'
+lastmod: '2026-07-18T11:44:45.171048Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Décrit la capacité d'un modèle ou système d'IA à maintenir ses performances malgré le bruit, les erreurs ou les entrées inattendues."
+source: agnes_llm
+status: published
+language: fr
+description: Décrit la capacité d'un modèle ou système d'IA à maintenir ses performances
+  malgré le bruit, les erreurs ou les entrées inattendues.
 ---
-
 ## Definition
 
 En intelligence artificielle, la robustesse fait référence à la résilience d'un modèle face aux attaques adversariales, aux changements de distribution des données ou aux entrées bruitées. Un algorithme robuste continue de fonctionner correctement même dans des conditions non idéales.

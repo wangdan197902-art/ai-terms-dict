@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /no/terms/discovery_system/
 date: "2026-07-18T15:52:12.215183Z"
 lastmod: "2026-07-18T16:38:06.995289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et automatisert rammeverk eller algoritmisk prosjekt designet for å identifisere, utforske og evaluere potensielle løsninger, mønstre eller hypoteser innen et stort søkeområde."
 ---
-
 ## Definition
 
 Et oppdagelsessystem er et datamessig rammeverk som har til formål å akselerere vitenskapelige eller analytiske gjennombrudd ved å automatisere utforskningen av store datarom. I motsetning til tradisjonell optimering som primært søker...

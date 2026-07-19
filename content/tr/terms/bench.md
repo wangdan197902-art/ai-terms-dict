@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /tr/terms/bench/
 date: "2026-07-18T15:23:25.151833Z"
 lastmod: "2026-07-18T16:38:07.227795Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Benchmark'ın kısaltmasıdır; yapay zeka modeli performansını değerlendirmek için kullanılan standart test seti veya metriktir."
 ---
-
 ## Definition
 
 Bir benchmark (test seti), farklı yapay zeka modellerinin veya algoritmaların yeteneklerini karşılaştırmak için standartlaştırılmış bir referans noktası olarak hizmet eder. Genellikle özenle hazırlanmış bir veri seti ve doğruluk, hız gibi spesifik değerlendirme metriklerini içerir.

@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /he/terms/qwen36/
 date: "2026-07-18T16:21:41.790736Z"
 lastmod: "2026-07-18T17:15:09.578815Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "עדכון מינורי עוקב לסדרת Qwen3, הסביר לשפר מדדי ביצועים וידע בתחומים ספציפיים."
 ---
-
 ## Definition
 
 Qwen3.6 מייצגת המשך של עיבוד ושיפור במשפחת המודלים של Qwen3. עדכוני גרסה מינוריים מתמקדים לרוב בחידוד יכולות קיימות, תיקון באגים במקרי קצה ואופטימיזציה של איכות נתוני האימון.

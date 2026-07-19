@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /ja/terms/overall/
 date: "2026-07-18T10:53:13.335078Z"
 lastmod: "2026-07-18T11:44:45.015660Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "全体とは、すべてのテストケースや運用シナリオにわたるAIシステムの集計パフォーマンス、精度、または影響を指します。"
 ---
-
 ## Definition
 
 AIモデルを評価する際、「全体」指標は、個々のコンポーネントに焦点を当てるのではなく、システムパフォーマンスの包括的な視点を提供します。これには、全体の精度、平均平均適合率（mAP）、または総

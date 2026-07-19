@@ -1,23 +1,24 @@
 ---
-title: "التعلم الكسول"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: التعلم الكسول
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /ar/terms/lazy_learning/
-date: "2026-07-18T16:05:20.138320Z"
-lastmod: "2026-07-18T17:15:08.521345Z"
+slug: lazy_learning
+date: '2026-07-18T16:05:20.138320Z'
+lastmod: '2026-07-18T17:15:08.521345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج تعليمي يؤجل التعميم حتى وقت التصنيف، حيث يخزن أمثلة التدريب بدلاً من بناء نموذج صريح."
+source: agnes_llm
+status: published
+language: ar
+description: نهج تعليمي يؤجل التعميم حتى وقت التصنيف، حيث يخزن أمثلة التدريب بدلاً
+  من بناء نموذج صريح.
 ---
-
 ## Definition
 
 تعتمد نماذج التعلم الكسول، مثل جيران أقرب k (k-NN)، على حفظ مجموعة بيانات التدريب بالكامل وإجراء الحسابات فقط عند إجراء التنبؤات. يتناقض هذا مع التعلم الطموح الذي يبني نموذجاً عاماً

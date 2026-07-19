@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /ar/terms/large_language_models/
 date: "2026-07-18T15:27:20.092667Z"
 lastmod: "2026-07-18T17:15:08.441618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "النمط الباراديمي لاستخدام الشبكات العصبية المقيّسة لمهام فهم وتوليد اللغة الطبيعية واسعة الطيف."
 ---
-
 ## Definition
 
 يشير هذا المصطلح إلى النمط الأوسع للتطبيق حيث يتم الاستفادة من النماذج ذات المليارات من المعلمات للتعلم في وضع الصفر عينات أو القليل من العينات عبر مهام لغوية متنوعة. وعلى عكس النماذج المتخصصة

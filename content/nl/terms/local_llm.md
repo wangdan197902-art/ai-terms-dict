@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /nl/terms/local_llm/
 date: "2026-07-18T16:05:00.248468Z"
 lastmod: "2026-07-18T17:15:08.763299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een lokaal LLM verwijst naar het uitvoeren van grote taalmodellen op persoonlijke hardware in plaats van clouddiensten, waarbij prioriteit wordt gegeven aan gegevensprivacy en offline toegankelijkheid"
 ---
-
 ## Definition
 
 Het uitvoeren van een lokaal LLM houdt in dat open-weight modellen direct worden gedeployed op consumentenhardware zoals pc's, Macs of lokale servers. Deze aanpak elimineert afhankelijkheid van derde partij-API-aanbieders, zorgt ervoor

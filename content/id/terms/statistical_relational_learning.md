@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /id/terms/statistical_relational_learning/
 date: "2026-07-18T16:10:01.809272Z"
 lastmod: "2026-07-18T16:38:07.510818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah bidang dalam pembelajaran mesin yang mengintegrasikan penalaran probabilistik dengan logika orde pertama untuk menangani struktur relasional yang kompleks dalam data."
 ---
-
 ## Definition
 
 Pembelajaran relasional statistik (SRL) menggabungkan teori probabilitas dengan struktur data relasional, memungkinkan model untuk menangkap ketergantungan di antara entitas dan hubungan mereka. Berbeda dengan statistika standar

@@ -1,23 +1,23 @@
 ---
-title: "구글 클립스 (Google Clips)"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: 구글 클립스 (Google Clips)
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /ko/terms/google_clips/
-date: "2026-07-18T15:57:27.032218Z"
-lastmod: "2026-07-18T16:38:06.846021Z"
+slug: google_clips
+date: '2026-07-18T15:57:27.032218Z'
+lastmod: '2026-07-18T16:38:06.846021Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "머신러닝을 활용하여 자동으로 순간을 포착하도록 설계된 주머니 크기 AI 카메라입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 머신러닝을 활용하여 자동으로 순간을 포착하도록 설계된 주머니 크기 AI 카메라입니다.
 ---
-
 ## Definition
 
 구글 클립스는 구글이 개발한 소비자 전자 제품으로, 기기 내 머신러닝을 사용하여 얼굴이나 애완동물 등 흥미로운 장면과 피사체를 식별하고 자동으로 사진을 촬영했습니다.

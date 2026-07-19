@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /fr/terms/code_generation/
 date: "2026-07-18T07:42:53.279749Z"
 lastmod: "2026-07-18T11:44:44.588570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus consistant à utiliser l'intelligence artificielle pour créer automatiquement du code source à partir de descriptions en langage naturel ou d'extraits de code existants."
 ---
-
 ## Definition
 
 La génération de code s'appuie sur des modèles de langage de grande taille entraînés sur d'immenses référentiels de langages de programmation pour produire des artefacts logiciels fonctionnels. Elle interprète des invites lisibles par l'homme, telles que des commentaires ou des descriptions textuelles, pour générer du code exécutable correspondant.

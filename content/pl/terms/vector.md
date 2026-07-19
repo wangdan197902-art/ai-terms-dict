@@ -1,23 +1,25 @@
 ---
-title: "Wektor"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Wektor
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /pl/terms/vector/
-date: "2026-07-18T15:37:34.421501Z"
-lastmod: "2026-07-18T17:15:08.838304Z"
+slug: vector
+date: '2026-07-18T15:37:34.421501Z'
+lastmod: '2026-07-18T17:15:08.838304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Obiekt matematyczny reprezentujący wielkość o określonej wartości i kierunku, często używany w sztucznej inteligencji do kodowania punktów danych w przestrzeni wielowymiarowej."
+source: agnes_llm
+status: published
+language: pl
+description: Obiekt matematyczny reprezentujący wielkość o określonej wartości i kierunku,
+  często używany w sztucznej inteligencji do kodowania punktów danych w przestrzeni
+  wielowymiarowej.
 ---
-
 ## Definition
 
 W sztucznej inteligencji wektor to podstawowa struktura danych służąca do numerycznego reprezentowania informacji. Składa się z uporządkowanej listy liczb (elementów), które odwzorowują cechy encji w przestrzeni wektorowej.

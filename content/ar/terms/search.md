@@ -1,23 +1,23 @@
 ---
-title: "البحث"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: البحث
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /ar/terms/search/
-date: "2026-07-18T15:30:41.755993Z"
-lastmod: "2026-07-18T17:15:08.448347Z"
+slug: search
+date: '2026-07-18T15:30:41.755993Z'
+lastmod: '2026-07-18T17:15:08.448347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تستكشف خوارزميات البحث مساحات الحلول بشكل منهجي لإيجاد النتائج المثلى أو المرضية في مهام الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: تستكشف خوارزميات البحث مساحات الحلول بشكل منهجي لإيجاد النتائج المثلى
+  أو المرضية في مهام الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 يُعد البحث نموذجاً أساسياً في الذكاء الاصطناعي يُستخدم للتنقل في مساحات المشكلات المعقدة، مثل لعب الألعاب أو تخطيط المسارات. تقوم خوارزميات مثل A* أو Minimax أو بحث شجرة مونت كارلو بتقييم الحركات المحتملة.

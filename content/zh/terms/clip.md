@@ -1,23 +1,23 @@
 ---
-title: "裁剪"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: 裁剪
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /zh/terms/clip/
-date: "2026-07-18T11:10:07.300954Z"
-lastmod: "2026-07-18T11:44:45.456720Z"
+slug: clip
+date: '2026-07-18T11:10:07.300954Z'
+lastmod: '2026-07-18T11:44:45.456720Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "裁剪是一种限制数值（如梯度或输出概率）幅度的技术，旨在防止训练过程中的数值不稳定。"
+source: agnes_llm
+status: published
+language: zh
+description: 裁剪是一种限制数值（如梯度或输出概率）幅度的技术，旨在防止训练过程中的数值不稳定。
 ---
-
 ## Definition
 
 在深度学习工程中，裁剪通常应用于梯度以缓解梯度爆炸问题，确保反向传播的稳定性。它也可以指在应用激活函数之前限制输出 logits 的范围。

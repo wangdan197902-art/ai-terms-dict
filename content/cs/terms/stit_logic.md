@@ -1,23 +1,24 @@
 ---
-title: "Logika STIT"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: Logika STIT
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /cs/terms/stit_logic/
-date: "2026-07-18T16:16:30.292748Z"
-lastmod: "2026-07-18T17:15:09.198218Z"
+slug: stit_logic
+date: '2026-07-18T16:16:30.292748Z'
+lastmod: '2026-07-18T17:15:09.198218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Logika STIT je formální rámec v deontické a časové logice používaný k analýze agentnosti, povinnosti a úmyslného jednání."
+source: agnes_llm
+status: published
+language: cs
+description: Logika STIT je formální rámec v deontické a časové logice používaný k
+  analýze agentnosti, povinnosti a úmyslného jednání.
 ---
-
 ## Definition
 
 STIT stojí za 'See To It That' (Dohlédni na to, aby...). Jedná se o odvětví modální logiky používané především ve filozofii a informatice k modelování agentnosti a odpovědnosti. Umožňuje formální specifikaci toho, co agent...

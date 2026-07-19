@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /it/terms/spatial_intelligence/
 date: "2026-07-18T16:22:07.633251Z"
 lastmod: "2026-07-18T17:15:08.670664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La capacità dei sistemi di intelligenza artificiale di comprendere, ragionare e navigare negli ambienti tridimensionali."
 ---
-
 ## Definition
 
 L'intelligenza spaziale si riferisce alla capacità dei modelli di intelligenza artificiale di percepire, interpretare e manipolare le relazioni spaziali all'interno di ambienti fisici o virtuali. Coinvolge la comprensione della geometria e della profondità per interagire efficacemente con il mondo circostante.

@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /da/terms/data_poisoning/
 date: "2026-07-18T15:48:52.476117Z"
 lastmod: "2026-07-18T17:15:09.273507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Dataforgiftning er et sikkerhedsangreb, hvor ondskabsfulde aktører injicerer korrupte eller vildledende data i et træningsdataset for at forringe modellens ydeevne."
 ---
-
 ## Definition
 
 Denne adversarielle teknik sigter mod at kompromittere integriteten af maskinlæringsmodeller ved at ændre træningsdataene. Ved at introducere subtile fejl eller bias-prøver kan angribere få modellen til at

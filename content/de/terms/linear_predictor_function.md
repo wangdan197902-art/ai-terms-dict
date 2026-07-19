@@ -1,23 +1,24 @@
 ---
-title: "Lineare Prädiktorfunktion"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Lineare Prädiktorfunktion
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /de/terms/linear_predictor_function/
-date: "2026-07-18T11:21:48.680993Z"
-lastmod: "2026-07-18T11:44:44.958802Z"
+slug: linear_predictor_function
+date: '2026-07-18T11:21:48.680993Z'
+lastmod: '2026-07-18T11:44:44.958802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine mathematische Funktion, die eine lineare Kombination von Eingangsvariablen berechnet, um ein Ergebnis vorherzusagen."
+source: agnes_llm
+status: published
+language: de
+description: Eine mathematische Funktion, die eine lineare Kombination von Eingangsvariablen
+  berechnet, um ein Ergebnis vorherzusagen.
 ---
-
 ## Definition
 
 In der statistischen Modellierung und im maschinellen Lernen stellt eine lineare Prädiktorfunktion die gewichtete Summe der Eingangsmerkmale plus einem Bias-Term dar. Sie ist die Kernkomponente in verallgemeinerten linearen Modellen (GLMs).

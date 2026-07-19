@@ -1,23 +1,24 @@
 ---
-title: "Superviseret læring"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Superviseret læring
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /da/terms/supervised_learning/
-date: "2026-07-18T15:37:59.426736Z"
-lastmod: "2026-07-18T17:15:09.250604Z"
+slug: supervised_learning
+date: '2026-07-18T15:37:59.426736Z'
+lastmod: '2026-07-18T17:15:09.250604Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et maskinlæringsparadigme, hvor en model lærer at kortlægge input til outputs baseret på mærkede træningseksempler."
+source: agnes_llm
+status: published
+language: da
+description: Et maskinlæringsparadigme, hvor en model lærer at kortlægge input til
+  outputs baseret på mærkede træningseksempler.
 ---
-
 ## Definition
 
 I superviseret læring trænes algoritmen på et mærket datasæt, hvilket betyder, at hvert inputeksempel er parret med det korrekte output. Målet er, at modellen skal lære den underliggende sammenhæng mellem input og output.

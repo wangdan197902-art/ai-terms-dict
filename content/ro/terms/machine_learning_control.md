@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /ro/terms/machine_learning_control/
 date: "2026-07-18T16:10:30.849950Z"
 lastmod: "2026-07-18T17:15:09.677879Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare a teoriei controlului în care algoritmii de învățare automată gestionează adaptiv dinamica sistemului pentru a optimiza performanța în timp real."
 ---
-
 ## Definition
 
 Controlul prin învățare automată integrează algoritmi adaptivi cu sistemele tradiționale de control pentru a gestiona medii neliniare sau incerte. Spre deosebire de controllerele statice, aceste sisteme învață din operațiuni, ajustându-și parametrii pentru a menține stabilitatea și eficiența în condiții dinamice.

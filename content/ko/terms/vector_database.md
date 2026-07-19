@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /ko/terms/vector_database/
 date: "2026-07-18T15:30:47.132184Z"
 lastmod: "2026-07-18T16:38:06.787295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "데이터 특성을 나타내는 고차원 벡터를 저장, 인덱싱 및 쿼리하도록 설계된 특수화된 데이터베이스입니다."
 ---
-
 ## Definition
 
 벡터 데이터베이스는 데이터를 수치 임베딩으로 변환하여 비정형 데이터의 저장 및 검색을 최적화합니다. 근사 최근접 이웃(ANN) 알고리즘 등을 사용하여 유사한 벡터를 효율적으로 찾는 데 특화되어 있습니다.

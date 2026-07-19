@@ -1,23 +1,24 @@
 ---
-title: "Επισκόπηση ΤΝ"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Επισκόπηση ΤΝ
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /el/terms/ai_overviews/
-date: "2026-07-18T15:46:09.346886Z"
-lastmod: "2026-07-18T17:15:09.873169Z"
+slug: ai_overviews
+date: '2026-07-18T15:46:09.346886Z'
+lastmod: '2026-07-18T17:15:09.873169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Συνοψισμένες απαντήσεις που παράγονται από μοντέλα ΤΝ, οι οποίες συνθέτουν πληροφορίες από πολλαπλές πηγές για γρήγορη κατανόηση."
+source: agnes_llm
+status: published
+language: el
+description: Συνοψισμένες απαντήσεις που παράγονται από μοντέλα ΤΝ, οι οποίες συνθέτουν
+  πληροφορίες από πολλαπλές πηγές για γρήγορη κατανόηση.
 ---
-
 ## Definition
 
 Οι Επισκοπήσεις ΤΝ είναι συμπυκνωμένες συνοψίσεις που παράγονται από μεγάλα γλωσσικά μοντέλα, τα οποία συγκεντρώνουν και συνθέτουν δεδομένα από διάφορες πηγές ιστού ή βάσεις δεδομένων. Σε αντίθεση με τις παραδοσιακές αποτελέσματα αναζήτησης που αναφέρουν συνδέσμους, αυτές

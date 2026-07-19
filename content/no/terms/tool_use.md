@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /no/terms/tool_use/
 date: "2026-07-18T15:39:06.386973Z"
 lastmod: "2026-07-18T16:38:06.963684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et paradigme der AI-agenter velger og eksekverer eksterne funksjoner eller API-er for å utføre spesifikke oppgaver utover deres innfødte evner."
 ---
-
 ## Definition
 
 Verktøybruk gjør det mulig for språkmodeller å samhandle med eksterne programvaremiljøer ved å kalle forhåndsdefinerte funksjoner, som kalkulatorer, søkemotorer eller databasespørringer. Denne tilnærmingen utvider mo

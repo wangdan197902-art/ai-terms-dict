@@ -1,23 +1,24 @@
 ---
-title: "Conexão Residual"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Conexão Residual
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /pt/terms/residual_connection/
-date: "2026-07-18T14:45:42.847462Z"
-lastmod: "2026-07-18T15:51:59.454546Z"
+slug: residual_connection
+date: '2026-07-18T14:45:42.847462Z'
+lastmod: '2026-07-18T15:51:59.454546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um mecanismo que adiciona a entrada diretamente à saída de uma camada para facilitar o fluxo de gradiente em redes profundas."
+source: agnes_llm
+status: published
+language: pt
+description: Um mecanismo que adiciona a entrada diretamente à saída de uma camada
+  para facilitar o fluxo de gradiente em redes profundas.
 ---
-
 ## Definition
 
 As conexões residuais, também conhecidas como conexões de salto (skip connections), permitem que os gradientes fluam através da rede ao adicionar diretamente uma entrada à saída de uma camada subsequente. Essa arquitetura resolve o problema do gradiente desaparecente, possibilitando o treinamento de redes extremamente profundas.

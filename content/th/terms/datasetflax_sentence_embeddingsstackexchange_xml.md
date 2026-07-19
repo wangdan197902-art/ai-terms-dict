@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /th/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:48:28.266762Z"
 lastmod: "2026-07-18T16:38:07.594342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลที่ดึงมาจากไฟล์ XML ของ Stack Exchange ใช้สำหรับฝึก Sentence Embedding ที่เน้นเนื้อหาเชิงเทคนิคและการถาม-ตอบโดยชุมชน"
 ---
-
 ## Definition
 
 ชุดข้อมูลนี้สกัดข้อมูลระดับประโยคจากไฟล์ XML ของ Stack Exchange ซึ่งเป็นแหล่งข้อมูลอันทรงคุณค่าที่ประกอบด้วยบทสนทนาเชิงเทคนิค โค้ดตัวอย่าง และบทสนทนาการแก้ปัญหาต่างๆ ชุดข้อมูลนี้ถูกนำไปใช้อย่างเฉพาะเจาะจงในการพัฒนาโมเดล Embedding ที่เข้าใจบริบททางวิศวกรรมซอฟต์แวร์และปัญหาทางเทคนิคได้ดีขึ้น

@@ -1,23 +1,24 @@
 ---
-title: "Epocha"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epocha
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /cs/terms/epoch/
-date: "2026-07-18T15:56:04.519886Z"
-lastmod: "2026-07-18T17:15:09.127165Z"
+slug: epoch
+date: '2026-07-18T15:56:04.519886Z'
+lastmod: '2026-07-18T17:15:09.127165Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Jedno kompletní průchod trénovací množiny dat algoritmem strojového učení během tréninku modelu."
+source: agnes_llm
+status: published
+language: cs
+description: Jedno kompletní průchod trénovací množiny dat algoritmem strojového učení
+  během tréninku modelu.
 ---
-
 ## Definition
 
 Ve strojovém učení představuje epocha jednu iteraci přes celou trénovací množinu dat. Během každé epochy model zpracuje všechny trénovací příklady, aktualizuje své váhy pomocí zpětné propagace a měří svou chybu, aby se přizpůsobil.

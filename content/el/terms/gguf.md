@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /el/terms/gguf/
-date: "2026-07-18T16:08:23.398390Z"
-lastmod: "2026-07-18T17:15:09.910477Z"
+slug: gguf
+date: '2026-07-18T16:08:23.398390Z'
+lastmod: '2026-07-18T17:15:09.910477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μορφή αρχείου που αναπτύχθηκε από τηνgger.ai για την αποθήκευση και φόρτωση κβαντωμένων μεγάλων γλωσσικών μοντέλων με αποτελεσματικότητα σε τοπικό υλικό."
+source: agnes_llm
+status: published
+language: el
+description: Μια μορφή αρχείου που αναπτύχθηκε από τηνgger.ai για την αποθήκευση και
+  φόρτωση κβαντωμένων μεγάλων γλωσσικών μοντέλων με αποτελεσματικότητα σε τοπικό υλικό.
 ---
-
 ## Definition
 
 Το GGUF (GPT-Generated Unified Format) είναι μια δυαδική μορφή αρχείου σχεδιασμένη ειδικά για την εκτέλεση μεγάλων γλωσσικών μοντέλων σε υλικό καταναλωτικής κλάσης. Υποστηρίζει διάφορες τεχνικές κβάντωσης, επιτρέποντας σε μεγαλύτερα μοντέλα να τρέχουν σε συσκευές με περιορισμένους πόρους, μειώνοντας τον απαιτούμενο χώρο μνήμης και υπολογιστικό κόστος.

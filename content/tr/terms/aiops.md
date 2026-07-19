@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /tr/terms/aiops/
 date: "2026-07-18T15:39:35.470578Z"
 lastmod: "2026-07-18T16:38:07.268678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AIOps, yapay zeka ve makine öğreniminin BT operasyon süreçlerini otomatikleştirmek için uygulanmasını ifade eder."
 ---
-
 ## Definition
 
 BT Operasyonları için Yapay Zeka (AIOps), büyük veri analitiği ve makine öğrenimi algoritmalarını birleştirerek BT altyapısı ve operasyon yönetimini otomatikleştirir. Organizasyonların karmaşık BT ortamlarını yönetmesine yardımcı olur.

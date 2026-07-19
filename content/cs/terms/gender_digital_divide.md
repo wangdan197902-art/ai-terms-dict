@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /cs/terms/gender_digital_divide/
 date: "2026-07-18T15:58:59.646425Z"
 lastmod: "2026-07-18T17:15:09.133212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Genderová digitální propast označuje mezeru mezi muži a ženami v přístupu k informačním a komunikačním technologiím, jejich využívání a přínosech z nich plynoucích."
 ---
-
 ## Definition
 
 Tento sociotechnologický koncept zdůrazňuje nerovnosti, kdy ženy a dívky mají často méně přístup k digitálním zařízením, internetu a digitální gramotnosti než muži a chlapci. Tyto rozdíly...

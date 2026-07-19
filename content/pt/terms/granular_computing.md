@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /pt/terms/granular_computing/
 date: "2026-07-18T15:02:34.410801Z"
 lastmod: "2026-07-18T15:51:59.495909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A computação granular é um paradigma que lida com informações em diferentes níveis de abstração, organizando dados em estruturas significativas chamadas grânulos de informação."
 ---
-
 ## Definition
 
 Esta abordagem imita os processos cognitivos humanos ao agrupar dados em entidades de nível superior ou 'grânulos', em vez de processar elementos individuais. Ela engloba técnicas como conjuntos aproximados (rough sets) e lógica difusa.

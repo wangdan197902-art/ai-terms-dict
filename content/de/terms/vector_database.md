@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /de/terms/vector_database/
 date: "2026-07-18T10:54:59.289471Z"
 lastmod: "2026-07-18T11:44:44.886652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine spezialisierte Datenbank, die zum Speichern, Indizieren und Abfragen hochdimensionaler Vektoren entwickelt wurde, die Datenmerkmale repräsentieren."
 ---
-
 ## Definition
 
 Vektordatenbanken optimieren die Speicherung und Abrufung unstrukturierter Daten, indem sie diese in numerische Embeddings umwandeln. Sie verwenden Algorithmen wie Approximate Nearest Neighbor (ANN), um Ähnlichkeiten effizient zu finden.

@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /ru/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:49:01.684063Z"
 lastmod: "2026-07-18T16:38:07.146865Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Набор данных, полученный из Yahoo Answers, содержащий вопросы и ответы пользователей, категоризированные по конкретным темам для семантического сопоставления и классификации."
 ---
-
 ## Definition
 
 Набор данных Yahoo Answers Topics является подмножеством более крупной архивной коллекции Yahoo Answers, фокусируясь на вопросах и ответах, организованных по четким тематическим категориям. Он обычно используется для задач классификации текста и оценки семантического сходства.

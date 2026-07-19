@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /pt/terms/high_fidelity/
 date: "2026-07-18T14:41:35.874215Z"
 lastmod: "2026-07-18T15:51:59.444038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Indica conteúdo gerado que se assemelha de perto aos dados do mundo real em detalhes, qualidade e realismo."
 ---
-
 ## Definition
 
 Alta fidelidade descreve saídas de modelos generativos que são indistinguíveis ou muito semelhantes aos dados autênticos. Na geração de imagens, significa texturas e iluminação realistas; no áudio, significa

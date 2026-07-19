@@ -1,23 +1,24 @@
 ---
-title: "كوين2 (Qwen2)"
-term_id: "qwen2"
-category: "basic_concepts"
-subcategory: ""
-tags: ["version-history", "model-generation", "performance"]
+title: كوين2 (Qwen2)
+term_id: qwen2
+category: basic_concepts
+subcategory: ''
+tags:
+- Version History
+- Model Generation
+- performance
 difficulty: 3
 weight: 1
-slug: "qwen2"
-aliases:
-  - /ar/terms/qwen2/
-date: "2026-07-18T16:18:22.125743Z"
-lastmod: "2026-07-18T17:15:08.541943Z"
+slug: qwen2
+date: '2026-07-18T16:18:22.125743Z'
+lastmod: '2026-07-18T17:15:08.541943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كوين2 هو الإصدار الرئيسي الثاني من سلسلة نماذج كوين للغة الكبيرة، مع أداء محسّن."
+source: agnes_llm
+status: published
+language: ar
+description: كوين2 هو الإصدار الرئيسي الثاني من سلسلة نماذج كوين للغة الكبيرة، مع
+  أداء محسّن.
 ---
-
 ## Definition
 
 يمثل كوين2 الجيل الثاني المهم من عائلة نماذج كوين، حيث يقدم تحسينات معمارية وبيانات تدريب موسعة. يوفر هذا الإصدار قدرات فائقة في دعم اللغات المتعددة.

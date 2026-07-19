@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /zh/terms/sentence_similarity/
 date: "2026-07-18T11:33:07.044650Z"
 lastmod: "2026-07-18T11:44:45.553025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种量化两个句子在语义上相似程度的指标或任务，通常表示为数值分数。"
 ---
-
 ## Definition
 
 句子相似度衡量两个不同句子之间的语义重叠程度。它超越了词汇匹配，旨在理解含义、上下文和意图。这通常通过计算向量之间的距离来实现。

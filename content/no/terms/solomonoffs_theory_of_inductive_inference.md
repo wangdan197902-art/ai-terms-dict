@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /no/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T16:16:18.378586Z"
 lastmod: "2026-07-18T16:38:07.047859Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En formell matematisk ramme for å forutsi framtidige observasjoner basert på tidligere data ved hjelp av algoritmisk sannsynlighet."
 ---
-
 ## Definition
 
 Utviklet av Ray Solomonoff, gir denne teorien en universell modell for induksjon ved å tildele sannsynligheter til sekvenser basert på deres kompleksitet. Den postulerer at enklere forklaringer (kortere programmer)...

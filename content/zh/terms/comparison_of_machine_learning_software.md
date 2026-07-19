@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /zh/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T11:10:38.522915Z"
 lastmod: "2026-07-18T11:44:45.458973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "基于功能、性能、易用性和社区支持等不同维度对各类机器学习框架进行分析评估，以指导工具选择。"
 ---
-
 ## Definition
 
 该术语指对TensorFlow、PyTorch、Scikit-learn和Keras等各种机器学习库和平台进行的系统性评估和基准测试。比较通常分析这些工具在特定任务上的表现、开发效率、生态系统成熟度以及长期维护潜力，帮助开发者做出最佳技术选型。

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /vi/terms/score/
 date: "2026-07-18T15:28:55.264524Z"
 lastmod: "2026-07-18T16:38:07.695100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Điểm số là một giá trị số đại diện cho chất lượng, độ tin cậy hoặc mức độ phù hợp của dự đoán hoặc giải pháp của mô hình."
 ---
-
 ## Definition
 
 Điểm số định lượng mức độ hiệu quả mà một mô hình học máy hoạt động so với các chỉ số cụ thể như độ chính xác, độ chính xác (precision) hoặc phần thưởng. Trong học tăng cường, điểm số cho biết tổng phần thưởng tích lũy, trong khi trong phân loại

@@ -1,23 +1,24 @@
 ---
-title: "Βελτιστοποίηση / Ρύθμιση"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Βελτιστοποίηση / Ρύθμιση
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /el/terms/tuning/
-date: "2026-07-18T15:35:05.995548Z"
-lastmod: "2026-07-18T17:15:09.857242Z"
+slug: tuning
+date: '2026-07-18T15:35:05.995548Z'
+lastmod: '2026-07-18T17:15:09.857242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία προσαρμογής υπερπαραμέτρων ή βαρών μοντέλου για τη βελτιστοποίηση της απόδοσης σε ένα συγκεκριμένο σύνολο δεδομένων ή εργασία."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία προσαρμογής υπερπαραμέτρων ή βαρών μοντέλου για τη βελτιστοποίηση
+  της απόδοσης σε ένα συγκεκριμένο σύνολο δεδομένων ή εργασία.
 ---
-
 ## Definition
 
 Η ρύθμιση περιλαμβάνει τη βελτίωση ενός μοντέλου μηχανικής μάθησης για την επίτευξη καλύτερης ακρίβειας ή αποδοτικότητας. Μπορεί να αναφέρεται στη βελτιστοποίηση υπερπαραμέτρων, όπου βελτιστοποιούνται ρυθμίσεις όπως ο ρυθμά εκμάθησης ή το μέγεθος παρτίδας, ή σε λεπτομερή

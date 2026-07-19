@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /hu/terms/decision/
 date: "2026-07-18T15:25:16.981285Z"
 lastmod: "2026-07-18T17:15:09.717522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy ügynök vagy algoritmus által hozott választás a rendelkezésre álló lehetőségek közül, amelyet konkrét kritériumok vagy célok alapján értékeltek ki."
 ---
-
 ## Definition
 
 A döntéshozatal az AI-ban az optimális cselekvés kiválasztását jelenti egy lehetséges cselekvések halmazából, adatok, modellek és előre meghatározott célok alapján. Ez lehet determinisztikus, szigorú szabályok követésével, vagy valószínűségi alapú.

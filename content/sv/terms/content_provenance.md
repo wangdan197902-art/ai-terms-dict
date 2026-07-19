@@ -1,23 +1,24 @@
 ---
-title: "Innehållsupphov"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Innehållsupphov
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /sv/terms/content_provenance/
-date: "2026-07-18T15:50:33.608036Z"
-lastmod: "2026-07-18T17:15:08.987482Z"
+slug: content_provenance
+date: '2026-07-18T15:50:33.608036Z'
+lastmod: '2026-07-18T17:15:08.987482Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den verifierbara posten över en digital tillgångs ursprung, historia och ägande."
+source: agnes_llm
+status: published
+language: sv
+description: Den verifierbara posten över en digital tillgångs ursprung, historia
+  och ägande.
 ---
-
 ## Definition
 
 Innehållsupphov avser dokumentationen och verifieringen av var digitalt innehåll kommer ifrån, hur det skapades och vem som har modifierat det över tid. Inom AI:s kontext är det avgörande för att bekämpa desinformation och säkerställa transparens.

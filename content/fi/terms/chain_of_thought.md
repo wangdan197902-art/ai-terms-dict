@@ -1,23 +1,24 @@
 ---
-title: "Ajatusketju"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Ajatusketju
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /fi/terms/chain_of_thought/
-date: "2026-07-18T15:22:23.308772Z"
-lastmod: "2026-07-18T17:15:09.344021Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:23.308772Z'
+lastmod: '2026-07-18T17:15:09.344021Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ohjaustekniikka, joka kannustaa suuria kielimalleja (LLM) tuottamaan välisiä päättelyvaiheita ennen vastaamista."
+source: agnes_llm
+status: published
+language: fi
+description: Ohjaustekniikka, joka kannustaa suuria kielimalleja (LLM) tuottamaan
+  välisiä päättelyvaiheita ennen vastaamista.
 ---
-
 ## Definition
 
 Ajatusketju-ohjaus (Chain-of-Thought, CoT) on strategia, jossa suuria kielimalleja ohjataan tuottamaan vaiheittaisia päättelyselityksiä ennen lopullisen vastauksen antamista. Monimutkaisten ongelmien purkaminen

@@ -1,23 +1,24 @@
 ---
-title: "auto-supervizat"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: auto-supervizat
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /ro/terms/self_supervised/
-date: "2026-07-18T15:33:54.428627Z"
-lastmod: "2026-07-18T17:15:09.610950Z"
+slug: self_supervised
+date: '2026-07-18T15:33:54.428627Z'
+lastmod: '2026-07-18T17:15:09.610950Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Învățarea auto-supervizată este o tehnică în care modelul generează propriile etichete din datele de intrare pentru a învăța reprezentări fără annotare umană."
+source: agnes_llm
+status: published
+language: ro
+description: Învățarea auto-supervizată este o tehnică în care modelul generează propriile
+  etichete din datele de intrare pentru a învăța reprezentări fără annotare umană.
 ---
-
 ## Definition
 
 Învățarea auto-supervizată este un subdomeniu al învățării automate în care semnalul de supraveghere este derivat automat din datele însuși, eliminând nevoia de etichetare manuală. Modelul rezolvă de obicei o sarcină pretext (cum ar fi completarea cuvintelor lipsă) pentru a învăța reprezentări utile ale datelor, care pot fi apoi utilizate pentru diverse sarcini downstream.

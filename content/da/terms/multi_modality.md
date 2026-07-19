@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /da/terms/multi_modality/
 date: "2026-07-18T16:08:42.021356Z"
 lastmod: "2026-07-18T17:15:09.313658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Multi Modality er det overordnede koncept eller forskningsfelt vedrørende brugen af flere forskellige datatyper inden for maskinlæringsarkitekturer."
 ---
-
 ## Definition
 
 Multi-modalitet repræsenterer den arkitektoniske og teoretiske ramme, der muliggør for AI-modeller at håndtere heterogene datastrømme. Det indebærer design af neurale netværk, der kan acceptere input fra forskellige

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /ro/terms/linear/
 date: "2026-07-18T15:26:45.381550Z"
 lastmod: "2026-07-18T17:15:09.597206Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Descrie operații sau relații unde ieșirea este direct proporțională cu intrarea, formând baza transformărilor afine în straturile rețelelor neuronale."
 ---
-
 ## Definition
 
 Operațiile liniare implică înmulțiri și adunări fără activități non-liniare. În rețelele neuronale, straturile liniare (sau dense) aplică o transformare matriceală de ponderi asupra vectorilor de intrare. Deși liniare

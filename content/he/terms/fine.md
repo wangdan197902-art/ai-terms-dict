@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /he/terms/fine/
 date: "2026-07-18T15:25:31.841884Z"
 lastmod: "2026-07-18T17:15:09.477547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "כוונון עדין מתייחס לתהליך של התאמת מודל בינה מלאכותית שהוכשר מראש למשימה או לתחום ספציפי באמצעות נתונים נוספים."
 ---
-
 ## Definition
 
 כוונון עדין כולל לקיחת מודל כללי שהוכשר על גבי datasets גדולים והכשרה נוספת שלו על dataset קטן יותר ומומחה, כדי לשפר ביצועים במשימות ספציפיות. טכניקה זו מנצלת ידע קודם.

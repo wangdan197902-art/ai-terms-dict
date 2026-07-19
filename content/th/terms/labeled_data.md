@@ -1,23 +1,23 @@
 ---
-title: "ข้อมูลที่มีป้ายกำกับ (Labeled Data)"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: ข้อมูลที่มีป้ายกำกับ (Labeled Data)
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /th/terms/labeled_data/
-date: "2026-07-18T16:01:57.262117Z"
-lastmod: "2026-07-18T16:38:07.624218Z"
+slug: labeled_data
+date: '2026-07-18T16:01:57.262117Z'
+lastmod: '2026-07-18T16:38:07.624218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ข้อมูลที่มีค่าผลลัพธ์หรือเป้าหมายที่ถูกต้องระบุไว้คู่กับคุณลักษณะของข้อมูลนำเข้า"
+source: agnes_llm
+status: published
+language: th
+description: ข้อมูลที่มีค่าผลลัพธ์หรือเป้าหมายที่ถูกต้องระบุไว้คู่กับคุณลักษณะของข้อมูลนำเข้า
 ---
-
 ## Definition
 
 ข้อมูลที่มีป้ายกำกับประกอบด้วยตัวอย่างข้อมูลนำเข้าที่จับคู่กับป้ายกำกับความจริงพื้นฐาน (ground truth) ที่สอดคล้องกัน ซึ่งเป็นรากฐานของการเรียนรู้ของเครื่องแบบมีผู้ดูแล (supervised machine learning) ข้อมูลนี้ช่วยให้อัลกอริทึมสามารถเรียนรู้การแมปpping ระหว่างข้อมูลนำเข้าและผลลัพธ์ที่ต้องการได้

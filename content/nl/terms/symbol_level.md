@@ -1,23 +1,23 @@
 ---
-title: "Symboolniveau"
-term_id: "symbol_level"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_foundations", "knowledge_representation"]
+title: Symboolniveau
+term_id: symbol_level
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Foundations
+- Knowledge Representation
 difficulty: 2
 weight: 1
-slug: "symbol_level"
-aliases:
-  - /nl/terms/symbol_level/
-date: "2026-07-18T16:19:23.041518Z"
-lastmod: "2026-07-18T17:15:08.791642Z"
+slug: symbol_level
+date: '2026-07-18T16:19:23.041518Z'
+lastmod: '2026-07-18T17:15:08.791642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Symboolniveau verwijst naar de abstractielaag waar discrete symbolen concepten, objecten of relaties binnen een AI-systeem vertegenwoordigen."
+source: agnes_llm
+status: published
+language: nl
+description: Symboolniveau verwijst naar de abstractielaag waar discrete symbolen
+  concepten, objecten of relaties binnen een AI-systeem vertegenwoordigen.
 ---
-
 ## Definition
 
 In kunstmatige intelligentie vertegenwoordigt het symboolniveau een hoog抽象 niveau waarbij kennis wordt gecodeerd met behulp van discrete symbolen in plaats van continue numerieke waarden. Deze aanpak is centraal in

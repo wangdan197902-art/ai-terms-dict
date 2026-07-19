@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /en/terms/dropout/
 date: "2026-07-18T09:40:59.277019Z"
 lastmod: "2026-07-18T11:44:44.623894Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Dropout is a regularization technique that randomly ignores neurons during training to prevent overfitting."
 ---
-
 ## Definition
 
 In neural networks, dropout prevents overfitting by temporarily removing a random subset of neurons during each training step. This forces the network to learn robust features that are useful in conjunction with many other random subsets of neurons, rather than relying on specific local patterns. During inference, all neurons are used, but their outputs are scaled to account for the increased activity compared to training time.

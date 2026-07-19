@@ -1,23 +1,25 @@
 ---
-title: "Ограничительные механизмы (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Ограничительные механизмы (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /ru/terms/guardrails/
-date: "2026-07-18T15:56:47.752919Z"
-lastmod: "2026-07-18T16:38:07.164118Z"
+slug: guardrails
+date: '2026-07-18T15:56:47.752919Z'
+lastmod: '2026-07-18T16:38:07.164118Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Механизмы безопасности, предназначенные для ограничения выходов модели ИИ с целью предотвращения генерации вредоносного, предвзятого или несанкционированного контента."
+source: agnes_llm
+status: published
+language: ru
+description: Механизмы безопасности, предназначенные для ограничения выходов модели
+  ИИ с целью предотвращения генерации вредоносного, предвзятого или несанкционированного
+  контента.
 ---
-
 ## Definition
 
 Ограничительные механизмы (Guardrails) представляют собой набор программных контролей и слоев обеспечения политик, интегрированных в приложения ИИ, особенно в большие языковые модели, чтобы гарантировать безопасное и соответствующее нормам поведение. Они действуют как фильтры, перехватывая и корректируя входные запросы и выходные ответы, чтобы минимизировать риски, связанные с генерацией нежелательного контента.

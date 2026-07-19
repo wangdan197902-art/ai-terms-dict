@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /da/terms/learning_based/
 date: "2026-07-18T15:32:24.886262Z"
 lastmod: "2026-07-18T17:15:09.239223Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Angiver metoder, hvor algoritmer forbedrer ydeevnen gennem erfaring frem for eksplicitte programmeringsregler."
 ---
-
 ## Definition
 
 Læringsbaserede tilgange stole på statistiske algoritmer til at identificere mønstre og træffe beslutninger baseret på datatilgang, i modsætning til regelbaserede systemer. Denne kategori omfatter...

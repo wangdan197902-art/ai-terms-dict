@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /pl/terms/large_scale/
 date: "2026-07-18T15:32:13.992796Z"
 lastmod: "2026-07-18T17:15:08.826482Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Opisuje systemy AI lub zbiory danych operujące na ogromnych wolumenach danych, parametrów lub zasobów obliczeniowych."
 ---
-
 ## Definition
 
 Duża skala odnosi się do wielkości komponentów w systemie AI, często obejmując miliardy parametrów, terabajty danych treningowych lub rozproszone klastry obliczeniowe. Podejście to stanowi fundament...

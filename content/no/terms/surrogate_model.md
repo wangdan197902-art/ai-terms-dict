@@ -1,23 +1,24 @@
 ---
-title: "Erstatningsmodell"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Erstatningsmodell
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /no/terms/surrogate_model/
-date: "2026-07-18T16:17:52.295456Z"
-lastmod: "2026-07-18T16:38:07.051202Z"
+slug: surrogate_model
+date: '2026-07-18T16:17:52.295456Z'
+lastmod: '2026-07-18T16:38:07.051202Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En forenklet matematisk modell brukt til å approksimere oppførselen til en mer kompleks, datamessig kostbar eller utilgjengelig svartboksmodell."
+source: agnes_llm
+status: published
+language: 'no'
+description: En forenklet matematisk modell brukt til å approksimere oppførselen til
+  en mer kompleks, datamessig kostbar eller utilgjengelig svartboksmodell.
 ---
-
 ## Definition
 
 Innen maskinlæring og optimering fungerer en erstatningsmodell som en proxy for en målfunksjon som er vanskelig å evaluere direkte. Den trenes på input-output-par fra den opprinnelige modellen for å etterligne dens oppførsel.

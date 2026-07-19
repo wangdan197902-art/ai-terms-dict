@@ -1,23 +1,24 @@
 ---
-title: "Tłumaczenie"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Tłumaczenie
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /pl/terms/translation/
-date: "2026-07-18T15:37:25.478447Z"
-lastmod: "2026-07-18T17:15:08.837963Z"
+slug: translation
+date: '2026-07-18T15:37:25.478447Z'
+lastmod: '2026-07-18T17:15:08.837963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces konwersji tekstu z języka źródłowego na język docelowy przy jednoczesnym zachowaniu znaczenia."
+source: agnes_llm
+status: published
+language: pl
+description: Proces konwersji tekstu z języka źródłowego na język docelowy przy jednoczesnym
+  zachowaniu znaczenia.
 ---
-
 ## Definition
 
 Tłumaczenie w AI odnosi się do neuronowego tłumaczenia maszynowego, w którym modele uczenia głębokiego mapują reprezentacje semantyczne między językami. W przeciwieństwie do systemów opartych na regułach, nowoczesne podejścia uczą się kontekstowych niuansów

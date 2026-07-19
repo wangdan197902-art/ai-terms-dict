@@ -1,23 +1,24 @@
 ---
-title: "فيسبوك"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: فيسبوك
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /ar/terms/facebook/
-date: "2026-07-18T15:57:37.160904Z"
-lastmod: "2026-07-18T17:15:08.503391Z"
+slug: facebook
+date: '2026-07-18T15:57:37.160904Z'
+lastmod: '2026-07-18T17:15:08.503391Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "منصة تواصل اجتماعي وشركة تقنية كبرى تؤثر بشكل كبير في تطوير الذكاء الاصطناعي من خلال أبحاثها مفتوحة المصدر ونظمها البيئية الضخمة للبيانات."
+source: agnes_llm
+status: published
+language: ar
+description: منصة تواصل اجتماعي وشركة تقنية كبرى تؤثر بشكل كبير في تطوير الذكاء الاصطناعي
+  من خلال أبحاثها مفتوحة المصدر ونظمها البيئية الضخمة للبيانات.
 ---
-
 ## Definition
 
 فيسبوك، الذي أصبح الآن جزءاً من منصة ميتا (Meta Platforms Inc.)، هو قوة رائدة في أبحاث وتطبيقات الذكاء الاصطناعي. تستضيف الشركة كميات هائلة من البيانات التي ينشئها المستخدمون وتُستخدم لتدريب نماذج التعلم الآلي.

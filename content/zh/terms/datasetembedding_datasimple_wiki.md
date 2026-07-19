@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /zh/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T11:13:01.751950Z"
 lastmod: "2026-07-18T11:44:45.477158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个源自简单英语维基百科的精选数据集，用于训练和评估文本嵌入模型。"
 ---
-
 ## Definition
 
 该数据集由从简单英语维基百科中提取的句子和段落组成。简单英语维基百科是面向非母语用户的维基百科版本，其语法和词汇经过简化。它作为...

@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /ro/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:52:45.457160Z"
 lastmod: "2026-07-18T17:15:09.644794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date de nișă care conține probabil prompturi adversare, de calitate scăzută sau intenționat defectuoase, utilizate pentru a testa robustețea sau pentru a filtra intrările zgomotoase în model"
 ---
-
 ## Definition
 
 Acest termen se referă la un set de date specific găzduit pe Hugging Face sub utilizatorul 'Nerfgun3', intitulat 'Bad Prompt'. Deși nu este un benchmark standard precum cele majore, astfel de seturi de date sunt adesea utilizate pentru a studia robustețea modelelor în fața intrărilor ambigue, greșite sau malitioase, ajutând la dezvoltarea de mecanisme de filtrare și la îmbunătățirea rezistenței la erori de interpretare a prompturilor.

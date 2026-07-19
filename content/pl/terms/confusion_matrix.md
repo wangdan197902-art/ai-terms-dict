@@ -1,23 +1,24 @@
 ---
-title: "Macierz pomyłek"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Macierz pomyłek
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /pl/terms/confusion_matrix/
-date: "2026-07-18T15:46:55.085151Z"
-lastmod: "2026-07-18T17:15:08.856788Z"
+slug: confusion_matrix
+date: '2026-07-18T15:46:55.085151Z'
+lastmod: '2026-07-18T17:15:08.856788Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Tabela służąca do opisywania wydajności modelu klasyfikacyjnego na zbiorze danych testowych."
+source: agnes_llm
+status: published
+language: pl
+description: Tabela służąca do opisywania wydajności modelu klasyfikacyjnego na zbiorze
+  danych testowych.
 ---
-
 ## Definition
 
 Macierz pomyłek to specyficzny układ tabelaryczny pozwalający na wizualizację wydajności algorytmu, zazwyczaj uczenia nadzorowanego. Pokazuje liczby prawdziwie dodatnich, prawdziwie ujemnych, fałszywie dodatnich i fałszywie ujemnych wyników predykcji.

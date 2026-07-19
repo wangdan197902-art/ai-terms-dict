@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /nl/terms/trade_off/
 date: "2026-07-18T15:34:54.158601Z"
 lastmod: "2026-07-18T17:15:08.701087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een compromis waarbij het behalen van voordeel in één gebied leidt tot verlies in een ander."
 ---
-
 ## Definition
 
 In AI en engineering verwijst een afweging naar de balans die nodig is bij het optimaliseren van conflicterende doelstellingen, zoals modelnauwkeurigheid versus rekenkosten of latentie versus precisie. Omdat middelen beperkt zijn...

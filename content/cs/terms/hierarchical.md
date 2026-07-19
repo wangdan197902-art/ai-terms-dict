@@ -1,23 +1,24 @@
 ---
-title: "Hierarchický"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hierarchický
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /cs/terms/hierarchical/
-date: "2026-07-18T15:25:44.336897Z"
-lastmod: "2026-07-18T17:15:09.070698Z"
+slug: hierarchical
+date: '2026-07-18T15:25:44.336897Z'
+lastmod: '2026-07-18T17:15:09.070698Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Označuje architektury nebo strategie učení v AI uspořádané do více úrovní abstrakce, kde vyšší úrovně řídí nižší."
+source: agnes_llm
+status: published
+language: cs
+description: Označuje architektury nebo strategie učení v AI uspořádané do více úrovní
+  abstrakce, kde vyšší úrovně řídí nižší.
 ---
-
 ## Definition
 
 Hierarchické systémy AI organizují informace nebo kontrolu do stromovité struktury vnořených vrstev. V posilovacím učení hierarchické RL rozkládá složité úlohy na dílčí cíle spravované vyššími úrovněmi...

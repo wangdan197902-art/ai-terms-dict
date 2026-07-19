@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /pl/terms/right_to_explanation/
 date: "2026-07-18T16:15:19.257568Z"
 lastmod: "2026-07-18T17:15:08.914423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zasada prawna i etyczna przyznająca jednostkom prawo do uzyskania istotnych informacji na temat decyzji podejmowanych automatycznie, które mają na nie znaczący wpływ."
 ---
-
 ## Definition
 
 Prawo do wyjaśnienia jest kluczowym elementem odpowiedzialności algorytmicznej, szczególnie w ramach takich ram prawnych jak RODO (GDPR). Zapewnia ono, że gdy system sztucznej inteligencji podejmuje decyzję wpływającą na prawa osoby,

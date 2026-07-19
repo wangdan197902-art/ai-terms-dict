@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /ro/terms/rate_limiting/
 date: "2026-07-18T16:18:55.885758Z"
 lastmod: "2026-07-18T17:15:09.697658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un mecanism de control ingineresc care restricționează numărul de cereri pe care un client le poate face către un serviciu într-o fereastră de timp specifică."
 ---
-
 ## Definition
 
 Limitarea ratei protejează serviciile AI și API-urile împotriva abuzului, suprasolicitării și consumului excesiv de resurse. Asigură o utilizare echitabilă între utilizatori și menține stabilitatea sistemului prin limitarea fluxului de trafic. Strategiile comune includ token bucket și leaky bucket.

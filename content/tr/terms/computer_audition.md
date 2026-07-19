@@ -1,23 +1,24 @@
 ---
-title: "Bilgisayar İşitme"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Bilgisayar İşitme
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /tr/terms/computer_audition/
-date: "2026-07-18T15:45:54.330947Z"
-lastmod: "2026-07-18T16:38:07.285104Z"
+slug: computer_audition
+date: '2026-07-18T15:45:54.330947Z'
+lastmod: '2026-07-18T16:38:07.285104Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bilgisayar işitme, makinelerin ses sinyallerini insanlar gibi algılayıp anlamasını sağlayan çalışma alanıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Bilgisayar işitme, makinelerin ses sinyallerini insanlar gibi algılayıp
+  anlamasını sağlayan çalışma alanıdır.
 ---
-
 ## Definition
 
 Bilgisayar işitme, bilgisayarların ses dalgalarından anlamlı bilgiler çıkarabilmesini sağlayan algoritmaların geliştirilmesini içerir. Bu alan, konuşma tanıma ve müzik türü sınıflandırma gibi görevleri kapsar.

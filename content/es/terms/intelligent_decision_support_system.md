@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /es/terms/intelligent_decision_support_system/
 date: "2026-07-18T10:55:13.198114Z"
 lastmod: "2026-07-18T11:44:44.820638Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un sistema mejorado con IA que asiste a los humanos en la toma de decisiones complejas mediante el análisis de datos y la provisión de información accionable."
 ---
-
 ## Definition
 
 Un Sistema de Apoyo a la Decisión Inteligente (SADI) integra técnicas de inteligencia artificial, como el aprendizaje automático y el procesamiento del lenguaje natural, con marcos tradicionales de apoyo a la decisión. Integra estas tecnologías para mejorar la precisión y eficiencia en la evaluación de escenarios complejos.

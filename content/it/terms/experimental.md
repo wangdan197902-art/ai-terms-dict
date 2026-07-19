@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /it/terms/experimental/
 date: "2026-07-18T15:24:53.502013Z"
 lastmod: "2026-07-18T17:15:08.565245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a tecnologie, modelli o metodi di IA che sono nelle prime fasi di sviluppo e non ancora completamente validati per la produzione."
 ---
-
 ## Definition
 
 Sperimentale indica componenti di IA che sono attualmente in fase di test, ricerca o prototipazione prima di raggiungere stabilità o adozione diffusa. Questi sistemi spesso utilizzano architetture innovative o tecniche non...

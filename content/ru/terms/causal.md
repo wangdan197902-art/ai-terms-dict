@@ -1,23 +1,24 @@
 ---
-title: "Причинно-следственный"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Причинно-следственный
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /ru/terms/causal/
-date: "2026-07-18T15:23:52.000962Z"
-lastmod: "2026-07-18T16:38:07.071929Z"
+slug: causal
+date: '2026-07-18T15:23:52.000962Z'
+lastmod: '2026-07-18T16:38:07.071929Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Причинный вывод заключается в установлении причинно-следственных связей между переменными, а не просто в выявлении статистических корреляций."
+source: agnes_llm
+status: published
+language: ru
+description: Причинный вывод заключается в установлении причинно-следственных связей
+  между переменными, а не просто в выявлении статистических корреляций.
 ---
-
 ## Definition
 
 В искусственном интеллекте причинное моделирование направлено на понимание того, как вмешательства в одну переменную влияют на другую. В отличие от предиктивных моделей, опирающихся на наблюдаемые закономерности, причинный ИИ использует структурные уравнения для моделирования этих взаимосвязей.

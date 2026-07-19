@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /tr/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:03:43.830664Z"
 lastmod: "2026-07-18T16:38:07.334089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bu ifade, otonom silahlar, gözetleme, lojistik optimizasyonu ve karar destek sistemleri dahil olmak üzere savunma bağlamlarında yapay zeka teknolojilerinin kullanımını ifade eder."
 ---
-
 ## Definition
 
 Yapay zekanın askeri uygulamaları, operasyonel etkinliği ve stratejik avantajı artırmak üzere tasarlanmış geniş bir teknoloji yelpazesini kapsar. Bunlar keşif için otonom dronelar, tahmine dayalı

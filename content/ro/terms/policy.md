@@ -1,23 +1,25 @@
 ---
-title: "Politică"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Politică
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /ro/terms/policy/
-date: "2026-07-18T15:28:24.102588Z"
-lastmod: "2026-07-18T17:15:09.600689Z"
+slug: policy
+date: '2026-07-18T15:28:24.102588Z'
+lastmod: '2026-07-18T17:15:09.600689Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O strategie sau un plan de acțiune conceput pentru a ghida deciziile și a obține rezultate raționale, folosit adesea în învățarea prin întărire pentru a mapa stările la acțiuni."
+source: agnes_llm
+status: published
+language: ro
+description: O strategie sau un plan de acțiune conceput pentru a ghida deciziile
+  și a obține rezultate raționale, folosit adesea în învățarea prin întărire pentru
+  a mapa stările la acțiuni.
 ---
-
 ## Definition
 
 Termenul 'politică' are două sensuri în funcție de context. În managementul general, este un principiu director pentru luarea deciziilor. În Învățarea prin Întărire (RL), o politică este un component fundamental al unui agent...

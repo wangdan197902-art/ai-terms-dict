@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /cs/terms/math/
 date: "2026-07-18T16:08:07.613277Z"
 lastmod: "2026-07-18T17:15:09.152195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Základní disciplína zabývající se čísly, strukturami, prostorem a změnami, nezbytná pro formulování a řešení problémů v oblasti AI."
 ---
-
 ## Definition
 
 V kontextu umělé inteligence poskytuje matematika teoretický rámec pro návrh a analýzu algoritmů. Klíčové odvětví zahrnují lineární algebru pro reprezentaci dat, kalkulus pro optimalizaci a trénink modelů, teorii pravděpodobnosti a statistiku pro modelování nejistoty a analýzu dat.

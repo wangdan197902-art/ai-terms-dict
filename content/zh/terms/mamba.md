@@ -1,23 +1,23 @@
 ---
-title: "Mamba"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: Mamba
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /zh/terms/mamba/
-date: "2026-07-18T10:53:03.111169Z"
-lastmod: "2026-07-18T11:44:45.376402Z"
+slug: mamba
+date: '2026-07-18T10:53:03.111169Z'
+lastmod: '2026-07-18T11:44:45.376402Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Mamba 是一种状态空间序列模型，它在保持 Transformer 在长上下文任务中性能的同时，提供了线性时间的推理速度。"
+source: agnes_llm
+status: published
+language: zh
+description: Mamba 是一种状态空间序列模型，它在保持 Transformer 在长上下文任务中性能的同时，提供了线性时间的推理速度。
 ---
-
 ## Definition
 
 Mamba 通过引入硬件感知的选择性状态空间模型（SSM），代表了序列建模领域的重大进步。与随着序列长度呈二次方扩展的传统 Transformer 不同，Mamba 能够高效处理长序列。

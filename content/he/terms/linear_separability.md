@@ -1,23 +1,24 @@
 ---
-title: "הפרדה ליניארית"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: הפרדה ליניארית
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /he/terms/linear_separability/
-date: "2026-07-18T16:10:10.699398Z"
-lastmod: "2026-07-18T17:15:09.558620Z"
+slug: linear_separability
+date: '2026-07-18T16:10:10.699398Z'
+lastmod: '2026-07-18T17:15:09.558620Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התכונה של מערך נתונים שבו ניתן להפריד באופן מושלם בין שתי מחלקות באמצעות קו ישר או היפר-מישור."
+source: agnes_llm
+status: published
+language: he
+description: התכונה של מערך נתונים שבו ניתן להפריד באופן מושלם בין שתי מחלקות באמצעות
+  קו ישר או היפר-מישור.
 ---
-
 ## Definition
 
 הפרדה ליניארית מתייחסת לתנאי גיאומטרי שבו נקודות הנתון השייכות למחלקות שונות ניתנות להפרדה מלאה על ידי גבול ליניארי, כגון קו במרחב דו-ממדי או היפר-מישור במרחב רב-ממדי.

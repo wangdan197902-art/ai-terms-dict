@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /fi/terms/code/
 date: "2026-07-18T15:35:27.713774Z"
 lastmod: "2026-07-18T17:15:09.368583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teoälyn kontekstissa koodi viittaa ohjelmointikielissä kirjoitettuihin rakenteellisiin ohjeisiin, jotka määrittelevät mallin käyttäytymisen ja datankäsittelyn logiikan."
 ---
-
 ## Definition
 
 Koodi edustaa joukkoa ohjelmointikielissä (kuten Python, C++ tai JavaScript) kirjoitettuja ohjeita, joita tietokoneet suorittavat tiettyjen tehtävien tekemiseksi. Tekoälyssä koodi on perustavanlaatuinen

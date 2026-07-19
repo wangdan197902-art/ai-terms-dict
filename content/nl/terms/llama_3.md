@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /nl/terms/llama_3/
 date: "2026-07-18T16:05:00.248425Z"
 lastmod: "2026-07-18T17:15:08.762967Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Llama 3 is de release van geavanceerde grote taalmodellen van Meta uit 2024, die aanzienlijk verbeterde redeneer-, programmeer- en meertalige mogelijkheden biedt over 8B- en 70B-parameterformaten."
 ---
-
 ## Definition
 
 Geïntroduceerd in april 2024, bouwt Llama 3 voort op het succes van Llama 2 met substantiële verbeteringen in prestaties en mogelijkheden. De modelfamilie omvat versies met 8 miljard en 70 miljard parameters.

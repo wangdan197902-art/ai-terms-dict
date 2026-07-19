@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /fi/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:40:42.810406Z"
 lastmod: "2026-07-18T17:15:09.380142Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Accelerated Linear Algebra tarkoittaa matriisioperaatioiden optimointia käyttämällä laitteistokiihdyttimiä, kuten GPU:ita ja TPU:ita, korkean suorituskyvyn saavuttamiseksi."
 ---
-
 ## Definition
 
 Tämä ala keskittyy perustavanlaatuisten lineaarialgebran laskentojen nopeuttamiseen, jotka ovat keskeisiä koneoppimisessa ja tieteellisissä simuloinneissa. Hyödyntämällä GPU:iden, TPU:iden ja muiden kiihdyttimien rinnakkaislaskentakykyä.

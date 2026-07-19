@@ -1,23 +1,24 @@
 ---
-title: "דגימת מקרה-בקר מקומית"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: דגימת מקרה-בקר מקומית
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /he/terms/local_case_control_sampling/
-date: "2026-07-18T16:10:43.542060Z"
-lastmod: "2026-07-18T17:15:09.559694Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:10:43.542060Z'
+lastmod: '2026-07-18T17:15:09.559694Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת דגימה שלילית הבוחרת שליליות קשות מהסביבה המיידית של דוגמאות חיוביות במרחב ההטמעה."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת דגימה שלילית הבוחרת שליליות קשות מהסביבה המיידית של דוגמאות חיוביות
+  במרחב ההטמעה.
 ---
-
 ## Definition
 
 דגימת מקרה-בקר מקומית היא אסטרטגיה המשמשת בעיקר באימון מודלים ללמידה ניגודית או במערכות המלצה. במקום לבחור דוגמאות שליליות באופן אקראי, השיטה מזהה 'שליליות קשות' (דוגמאות שליליות הקרובות מאוד לדוגמה החיובית במרחב ההטמעה), מה שמאמן את המודל להבחין בפרטים עדינים יותר ולשפר את יכולת ההכללה שלו.

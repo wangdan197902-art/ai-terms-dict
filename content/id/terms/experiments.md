@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /id/terms/experiments/
 date: "2026-07-18T15:25:32.900099Z"
 lastmod: "2026-07-18T16:38:07.392849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Prosedur terkontrol yang dilakukan untuk menguji hipotesis, mengevaluasi kinerja model, atau menemukan kemampuan AI baru."
 ---
-
 ## Definition
 
 Eksperimen dalam AI melibatkan pengujian sistematis variabel untuk memahami hubungan sebab-akibat dalam model pembelajaran mesin. Prosedur ini memungkinkan pengembang untuk membandingkan berbagai hiperparameter...

@@ -1,23 +1,24 @@
 ---
-title: "Robust"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robust
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /da/terms/robust/
-date: "2026-07-18T15:29:33.977408Z"
-lastmod: "2026-07-18T17:15:09.232781Z"
+slug: robust
+date: '2026-07-18T15:29:33.977408Z'
+lastmod: '2026-07-18T17:15:09.232781Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Beskriver en AI-model eller systems evne til at opretholde ydeevnen trods støj, fejl eller uforventede input."
+source: agnes_llm
+status: published
+language: da
+description: Beskriver en AI-model eller systems evne til at opretholde ydeevnen trods
+  støj, fejl eller uforventede input.
 ---
-
 ## Definition
 
 Inden for kunstig intelligens refererer robusthed til en models modstandsdygtighed over for fjendtlige angreb, ændringer i datadistribution eller støjende input. En robust algoritme fortsætter med at fungere korrekt selv under usikre eller forstyrrede forhold, hvilket sikrer pålidelighed i virkelige verden.

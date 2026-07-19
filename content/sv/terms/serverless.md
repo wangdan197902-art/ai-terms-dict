@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /sv/terms/serverless/
 date: "2026-07-18T16:20:22.479439Z"
 lastmod: "2026-07-18T17:15:09.047061Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En molndatorik-exekveringsmodell där leverantören dynamiskt hanterar allokeringen av maskinresurser istället för användaren."
 ---
-
 ## Definition
 
 Serverlös arkitektur låter utvecklare bygga och köra applikationer utan att hantera serverinfrastruktur. Molnleverantören skalarna automatiskt upp eller ner resurser baserat på efterfrågan och tar ut betalning per användning.

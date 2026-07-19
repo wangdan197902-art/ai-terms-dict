@@ -1,23 +1,24 @@
 ---
-title: "ידע מוקדם לזיהוי דפוסים"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: ידע מוקדם לזיהוי דפוסים
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /he/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:18:43.604516Z"
-lastmod: "2026-07-18T17:15:09.575119Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:18:43.604516Z'
+lastmod: '2026-07-18T17:15:09.575119Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מידע או הנחות קיימות המשולבות במודלי למידת מכונה כדי לשפר את דיוק זיהוי הדפוסים."
+source: agnes_llm
+status: published
+language: he
+description: מידע או הנחות קיימות המשולבות במודלי למידת מכונה כדי לשפר את דיוק זיהוי
+  הדפוסים.
 ---
-
 ## Definition
 
 ידע מוקדם מתייחס לתובנות ספציפיות לתחום, אילוצים או נתונים היסטוריים המשובצים באלגוריתמים לפני תחילת האימון. הדבר עוזר להנחות את המודל לפתרונות סבירים, ומפחית את הסיכון להתאמה יתר.

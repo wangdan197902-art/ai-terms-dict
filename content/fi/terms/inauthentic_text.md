@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /fi/terms/inauthentic_text/
 date: "2026-07-18T16:03:05.061956Z"
 lastmod: "2026-07-18T17:15:09.421729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekstisisältö, joka on tekoälyn tuottamaa tai manipuloitua harhaanjohtamaan lukijoita sen alkuperän, kirjoittajan tai faktaalisen pohjan suhteen."
 ---
-
 ## Definition
 
 Epäaito teksti viittaa kirjoitettuun materiaaliin, joka on tuotettu tekoälyjärjestelmien tai ihmisten toimesta huijausaikeilla, ilman aitoa inhimillistä kokemusta tai faktaalista perustaa. Se sisältää tekoälyn tuottamaa roskapostia, keksittyjä uutisia ja syväväärennöksiä.

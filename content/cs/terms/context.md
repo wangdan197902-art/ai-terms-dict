@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /cs/terms/context/
 date: "2026-07-18T15:23:57.275583Z"
 lastmod: "2026-07-18T17:15:09.065653Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kontext označuje okolní informace nebo prostředí, které pomáhají modelu AI přesněji interpretovat vstupní data a generovat relevantní odpovědi."
 ---
-
 ## Definition
 
 V zpracování přirozeného jazyka je kontext klíčový pro řešení nejednoznačnosti, například při chápání zájmen nebo idiomů na základě předchozích vět. Moderní architektury, jako jsou transformery, využívají mechanismus pozornosti k zachycení tohoto kontextu.

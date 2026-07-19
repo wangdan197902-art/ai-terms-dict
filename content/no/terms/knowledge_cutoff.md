@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /no/terms/knowledge_cutoff/
 date: "2026-07-18T16:01:19.026462Z"
 lastmod: "2026-07-18T16:38:07.016062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Knowledge cutoff er den spesifikke datoen etter hvilken en språkmodell ikke har blitt trent og derfor mangler informasjon om hendelser som skjer etter dette tidspunktet."
 ---
-
 ## Definition
 
 Kunnskapsavskjæringsdatoen definerer den tidsmessige grensen for en språkmodells treningsdata. Informasjon, hendelser eller utviklinger som har funnet sted etter denne datoen er generelt ukjent for modellen unntatt

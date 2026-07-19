@@ -1,23 +1,25 @@
 ---
-title: "Tidig stoppning"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Tidig stoppning
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /sv/terms/early_stopping/
-date: "2026-07-18T15:55:04.600315Z"
-lastmod: "2026-07-18T17:15:08.999002Z"
+slug: early_stopping
+date: '2026-07-18T15:55:04.600315Z'
+lastmod: '2026-07-18T17:15:08.999002Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Tidig stoppning är en regulariseringsteknik som stoppar träningsprocessen när modellens prestanda på en valideringsmängd börjar försämras, vilket förhindrar överanpassning."
+source: agnes_llm
+status: published
+language: sv
+description: Tidig stoppning är en regulariseringsteknik som stoppar träningsprocessen
+  när modellens prestanda på en valideringsmängd börjar försämras, vilket förhindrar
+  överanpassning.
 ---
-
 ## Definition
 
 Tidig stoppning är en form av regularisering som främst används i iterativa träningsprocesser som gradientnedstigning. Under träningen förbättras modellens prestanda på träningsdata vanligtvis kontinuer

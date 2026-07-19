@@ -1,23 +1,24 @@
 ---
-title: "Hızlı"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: Hızlı
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /tr/terms/fast/
-date: "2026-07-18T15:25:11.952985Z"
-lastmod: "2026-07-18T16:38:07.231870Z"
+slug: fast
+date: '2026-07-18T15:25:11.952985Z'
+lastmod: '2026-07-18T16:38:07.231870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zekada 'hızlı', görevleri işlerken düşük gecikme süresi ve yüksek veri işleme kapasitesi için optimize edilmiş sistemleri veya algoritmaları ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zekada 'hızlı', görevleri işlerken düşük gecikme süresi ve yüksek
+  veri işleme kapasitesi için optimize edilmiş sistemleri veya algoritmaları ifade
+  eder.
 ---
-
 ## Definition
 
 'Hızlı' terimi, yapay zeka modellerinde hesaplama verimliliğini tanımlar; hızlı çıkarım sürelerini ve hızlı veri işleme yeteneklerini vurgular. Gerçek zamanlı uygulamalar için kritik öneme sahiptir.

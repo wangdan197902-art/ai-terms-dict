@@ -1,23 +1,24 @@
 ---
-title: "Modèle basé sur l'énergie"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: Modèle basé sur l'énergie
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /fr/terms/energy_based_model/
-date: "2026-07-18T11:15:43.475055Z"
-lastmod: "2026-07-18T11:44:45.246950Z"
+slug: energy_based_model
+date: '2026-07-18T11:15:43.475055Z'
+lastmod: '2026-07-18T11:44:45.246950Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un modèle probabiliste qui attribue de faibles valeurs d'énergie aux configurations plausibles et de fortes valeurs aux configurations improbables."
+source: agnes_llm
+status: published
+language: fr
+description: Un modèle probabiliste qui attribue de faibles valeurs d'énergie aux
+  configurations plausibles et de fortes valeurs aux configurations improbables.
 ---
-
 ## Definition
 
 Les Modèles Basés sur l'Énergie (EBM) définissent une distribution de probabilité sur les données d'entrée à l'aide d'une fonction de densité non normalisée dérivée d'une fonction d'énergie. Cette fonction mappe les points de données à des nombres réels, où les états de haute probabilité correspondent à une énergie faible.

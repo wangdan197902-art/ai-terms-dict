@@ -1,23 +1,23 @@
 ---
-title: "워드 뱅크 모델"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: 워드 뱅크 모델
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /ko/terms/bag_of_words_model/
-date: "2026-07-18T15:43:03.724008Z"
-lastmod: "2026-07-18T16:38:06.812179Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:43:03.724008Z'
+lastmod: '2026-07-18T16:38:06.812179Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "워드 뱅크 모델은 문법과 단어 순서를 무시한 채 문서 내 단어의 출현만을 설명하는 텍스트의 단순화된 표현 방식입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 워드 뱅크 모델은 문법과 단어 순서를 무시한 채 문서 내 단어의 출현만을 설명하는 텍스트의 단순화된 표현 방식입니다.
 ---
-
 ## Definition
 
 이 자연어 처리 기법은 구문과 순서를 무시하고 텍스트를 단어의 다중 집합(multiset)으로 표현합니다. 이는 문서의 단어 빈도나 존재 여부에 기반하여...

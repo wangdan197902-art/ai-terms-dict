@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /vi/terms/api/
 date: "2026-07-18T15:22:23.225760Z"
 lastmod: "2026-07-18T16:38:07.677340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Giao diện Lập trình Ứng dụng cho phép các hệ thống phần mềm khác nhau giao tiếp và trao đổi dữ liệu."
 ---
-
 ## Definition
 
 API xác định một bộ các giao thức và công cụ để xây dựng phần mềm và ứng dụng. Trong AI, API cho phép các nhà phát triển truy cập vào các mô hình mạnh mẽ như LLM hoặc trình tạo hình ảnh mà không cần lưu trữ chúng cục bộ.

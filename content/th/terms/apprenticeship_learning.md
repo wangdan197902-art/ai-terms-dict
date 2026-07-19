@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้แบบลูกมือ"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: การเรียนรู้แบบลูกมือ
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /th/terms/apprenticeship_learning/
-date: "2026-07-18T15:41:19.206972Z"
-lastmod: "2026-07-18T16:38:07.573379Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:41:19.206972Z'
+lastmod: '2026-07-18T16:38:07.573379Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ที่เอเจนต์เรียนรู้นโยบายโดยการเลียนแบบการแสดงทักษะจากผู้เชี่ยวชาญ"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ที่เอเจนต์เรียนรู้นโยบายโดยการเลียนแบบการแสดงทักษะจากผู้เชี่ยวชาญ
 ---
-
 ## Definition
 
 การเรียนรู้แบบลูกมือ หรือที่รู้จักกันในชื่อการเรียนรู้แบบเสริมกำลังย้อนกลับจากการสาธิต ช่วยให้เอเจนต์สามารถ acquiring ทักษะได้โดยการสังเกตพฤติกรรมของผู้เชี่ยวชาญ แทนที่จะพึ่งพาฟังก์ชันรางวัลเพียงอย่างเดียว

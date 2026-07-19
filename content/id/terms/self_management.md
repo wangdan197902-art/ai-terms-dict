@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /id/terms/self_management/
 date: "2026-07-18T16:08:09.856982Z"
 lastmod: "2026-07-18T16:38:07.505183Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Manajemen mandiri dalam AI merujuk pada kemampuan sistem otonom untuk memantau, mengoptimalkan, dan memperbaiki operasi mereka sendiri tanpa intervensi manusia."
 ---
-
 ## Definition
 
 Konsep ini mencakup kapasitas agen atau sistem AI untuk menangani pemeliharaan rutin, alokasi sumber daya, dan koreksi kesalahan secara independen. Ini mencakup fitur seperti penskalaan otomatis, pemulihan diri, dan optimasi beban kerja.

@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /ro/terms/qwen3_5/
-date: "2026-07-18T16:18:09.142041Z"
-lastmod: "2026-07-18T17:15:09.696745Z"
+slug: qwen3_5
+date: '2026-07-18T16:18:09.142041Z'
+lastmod: '2026-07-18T17:15:09.696745Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Qwen3 5 se referă probabil la o sub-versiune sau variantă specifică din a treia generație a seriei de modele Qwen."
+source: agnes_llm
+status: published
+language: ro
+description: Qwen3 5 se referă probabil la o sub-versiune sau variantă specifică din
+  a treia generație a seriei de modele Qwen.
 ---
-
 ## Definition
 
 Qwen3 5 pare să denote un punct de control specific, o variantă de dimensiune sau o lansare specializată în cadrul generației mai largi Qwen3. Deși specificațiile exacte pot varia, implică în general o evoluție față de versiunile anterioare Qwen2/Qwen3.

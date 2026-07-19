@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /es/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T10:59:04.150512Z"
 lastmod: "2026-07-18T11:44:44.829752Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una función matemática basada en aprendizaje automático que predice las fuerzas y energías entre átomos, actuando como sustituto de costosos cálculos de mecánica cuántica."
 ---
-
 ## Definition
 
 Estos potenciales permiten simulaciones de dinámica molecular con precisión casi cuántica pero a velocidad computacional clásica. Al entrenarse con datos de alta fidelidad provenientes de la teoría del funcional de la densidad (DFT), permiten

@@ -1,23 +1,24 @@
 ---
-title: "Décodeur"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Décodeur
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /fr/terms/decoder/
-date: "2026-07-18T10:59:18.607961Z"
-lastmod: "2026-07-18T11:44:45.183385Z"
+slug: decoder
+date: '2026-07-18T10:59:18.607961Z'
+lastmod: '2026-07-18T11:44:45.183385Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un composant de réseau neuronal responsable de la génération de séquences de sortie à partir de représentations latentes encodées."
+source: agnes_llm
+status: published
+language: fr
+description: Un composant de réseau neuronal responsable de la génération de séquences
+  de sortie à partir de représentations latentes encodées.
 ---
-
 ## Definition
 
 Dans les modèles de séquence à séquence, le décodeur prend le vecteur de contexte produit par l'encodeur et génère la sortie cible étape par étape. Il utilise des mécanismes d'attention pour se concentrer sur les parties pertinentes de la

@@ -1,23 +1,25 @@
 ---
-title: "Hypothèse de la variété"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Hypothèse de la variété
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /fr/terms/manifold_hypothesis/
-date: "2026-07-18T11:27:54.058457Z"
-lastmod: "2026-07-18T11:44:45.290125Z"
+slug: manifold_hypothesis
+date: '2026-07-18T11:27:54.058457Z'
+lastmod: '2026-07-18T11:44:45.290125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'hypothèse selon laquelle les données du monde réel de haute dimension se situent sur une variété non linéaire de dimension inférieure au sein de l'espace de plus grande dimension."
+source: agnes_llm
+status: published
+language: fr
+description: L'hypothèse selon laquelle les données du monde réel de haute dimension
+  se situent sur une variété non linéaire de dimension inférieure au sein de l'espace
+  de plus grande dimension.
 ---
-
 ## Definition
 
 Cette hypothèse explique pourquoi l'apprentissage profond fonctionne efficacement malgré le fléau de la dimensionnalité. Elle suggère que bien que des données comme les images existent dans des millions de dimensions, elles sont contraintes par des

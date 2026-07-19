@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /hu/terms/ai_data_center/
 date: "2026-07-18T15:40:46.625434Z"
 lastmod: "2026-07-18T17:15:09.748750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy speciális létesítmény, amelyet magas teljesítményű számítási infrastruktúra elhelyezésére és üzemeltetésére terveztek AI terhelésekhez."
 ---
-
 ## Definition
 
 Az AI adatközpont egy fizikai létesítmény, amelyet mesterséges intelligancia alkalmazások, különösen mélytanulási betanítás és következtetés futtatására optimalizáltak. Ezek a központok nagy sűrűségű szerverpolcokkal, fejlett hűtési rendszerekkel és nagy sávszélességű hálózati kapcsolatokkal rendelkeznek.

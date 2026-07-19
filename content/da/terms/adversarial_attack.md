@@ -1,23 +1,25 @@
 ---
-title: "Adversarial angreb"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Adversarial angreb
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /da/terms/adversarial_attack/
-date: "2026-07-18T15:40:23.641410Z"
-lastmod: "2026-07-18T17:15:09.256484Z"
+slug: adversarial_attack
+date: '2026-07-18T15:40:23.641410Z'
+lastmod: '2026-07-18T17:15:09.256484Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et adversarialt angreb er en teknik, hvor små, ofte usynlige forstyrrelser tilføjes inputdata for at vildlede maskinlæringsmodeller og få dem til at træffe forkerte forudsigelser."
+source: agnes_llm
+status: published
+language: da
+description: Et adversarialt angreb er en teknik, hvor små, ofte usynlige forstyrrelser
+  tilføjes inputdata for at vildlede maskinlæringsmodeller og få dem til at træffe
+  forkerte forudsigelser.
 ---
-
 ## Definition
 
 Adversarial angreb udnytter sårbarhederne i neurale netværk ved at indføre subtil støj i inputs, såsom billeder eller tekst, hvilket forårsager betydelige fejl i modellens output. Disse angreb fremhæver modellernes begrænsninger i at håndtere manipulerede data.

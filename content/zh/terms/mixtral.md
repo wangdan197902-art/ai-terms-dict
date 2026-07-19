@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /zh/terms/mixtral/
 date: "2026-07-18T11:26:13.148855Z"
 lastmod: "2026-07-18T11:44:45.532318Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由Mistral AI开发的稀疏混合专家（MoE）大型语言模型，每个令牌仅激活部分参数。"
 ---
-
 ## Definition
 
 Mixtral是一款开创性的开源权重LLM，利用稀疏混合专家（MoE）架构。与每个令牌都使用所有参数的密集模型不同，Mixtral将每个令牌路由通

@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /es/terms/loss_function/
 date: "2026-07-18T10:30:55.587728Z"
 lastmod: "2026-07-18T11:44:44.763980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una función matemática que cuantifica la diferencia entre los valores predichos y los valores objetivo reales durante el entrenamiento."
 ---
-
 ## Definition
 
 También conocida como función de costo o error, la función de pérdida proporciona un valor escalar que indica qué tan bien está desempeñándose el modelo. Durante el entrenamiento, los algoritmos de optimización utilizan este valor para calcular los gradientes y actualizar los parámetros del modelo con el fin de reducir el error.

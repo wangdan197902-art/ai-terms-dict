@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /tr/terms/vector_database/
 date: "2026-07-18T15:30:49.875084Z"
 lastmod: "2026-07-18T16:38:07.247683Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Veri özelliklerini temsil eden yüksek boyutlu vektörleri depolamak, dizinlemek ve sorgulamak için tasarlanmış özel bir veritabanı."
 ---
-
 ## Definition
 
 Vektör veritabanları, verileri sayısal gömme (embedding) biçimine dönüştürerek yapılandırılmamış verilerin depolanmasını ve alınmasını optimize eder. Benzerlikleri verimli bir şekilde bulmak için Yaklaşık En Yakın Komşu (ANN) gibi algoritmalar kullanır.

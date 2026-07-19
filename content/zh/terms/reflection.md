@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /zh/terms/reflection/
 date: "2026-07-18T11:32:02.609259Z"
 lastmod: "2026-07-18T11:44:45.550014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种机制，允许AI模型分析其自身的输出、推理过程或内部状态，以改善未来的表现。"
 ---
-
 ## Definition
 
 在人工智能中，反思是一种范式，模型在最终确定输出之前会暂停并评估其生成过程或输出结果。这可能涉及检查逻辑一致性、事实准确性或遵循特定约束。

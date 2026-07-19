@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /hu/terms/intrinsic_motivation/
 date: "2026-07-18T16:06:42.857156Z"
 lastmod: "2026-07-18T17:15:09.798065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy megerősítéses tanulásbeli fogalom, ahol az ügynökök belső kíváncsiság vagy tudásszerzés vezérelte célokat követnek, nem pedig külső jutalmakat."
 ---
-
 ## Definition
 
 A megerősítéses tanulásban a belső motiváció arra ösztönzi az ügynököt, hogy felfedezze környezetét a novelty keresése, a bizonytalanság csökkentése vagy a készségek elsajátítása révén, függetlenül a feladathoz kapcsolódó külső jutalmaktól. Ez kulcsfontosságú a ritka jutalmakkal rendelkező környezetekben való hatékony tanuláshoz.

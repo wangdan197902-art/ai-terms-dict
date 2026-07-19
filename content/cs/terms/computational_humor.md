@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /cs/terms/computational_humor/
 date: "2026-07-18T15:48:52.313085Z"
 lastmod: "2026-07-18T17:15:09.111810Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Podobor AI zaměřený na generování, chápání a hodnocení humorného obsahu pomocí výpočetních metod."
 ---
-
 ## Definition
 
 Výpočetní humor zkoumá, jak stroje mohou produkovat nebo interpretovat vtipy, slovní hříčky a vtipné poznámky. Obvykle spoléhá na zpracování přirozeného jazyka k detekci nekonzistencí, sémantických posunů nebo neočekávaných...

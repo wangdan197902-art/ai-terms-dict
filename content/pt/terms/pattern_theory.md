@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /pt/terms/pattern_theory/
 date: "2026-07-18T15:16:04.818202Z"
 lastmod: "2026-07-18T15:51:59.521492Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura matemática para descrever estruturas complexas analisando padrões dentro de espaços de dados."
 ---
-
 ## Definition
 
 A Teoria dos Padrões fornece uma base matemática rigorosa para entender como objetos e fenômenos complexos podem ser descritos através de padrões. Ela postula que qualquer objeto pode ser caracterizado por seus padrões constituintes e suas relações.

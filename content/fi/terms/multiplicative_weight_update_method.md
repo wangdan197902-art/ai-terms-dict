@@ -1,23 +1,24 @@
 ---
-title: "Kertolaskullinen painojen päivitysmenetelmä"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Kertolaskullinen painojen päivitysmenetelmä
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /fi/terms/multiplicative_weight_update_method/
-date: "2026-07-18T16:12:10.150702Z"
-lastmod: "2026-07-18T17:15:09.437432Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T16:12:10.150702Z'
+lastmod: '2026-07-18T17:15:09.437432Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Iteratiivinen algoritmi, joka päivittää painoja kertolaskulla suorituspalautteen perusteella minimoidakseen säännönrikkomuksen."
+source: agnes_llm
+status: published
+language: fi
+description: Iteratiivinen algoritmi, joka päivittää painoja kertolaskulla suorituspalautteen
+  perusteella minimoidakseen säännönrikkomuksen.
 ---
-
 ## Definition
 
 Kertolaskullinen painojen päivitysmenetelmä on perustavanlaatuinen online-oppimisalgoritmi, jota käytetään päätöksenteossa epävarmoissa ympäristöissä. Se ylläpitää joukkoa painoja eri strategioille tai asiantuntijoille...

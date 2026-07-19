@@ -1,23 +1,24 @@
 ---
-title: "Классификация текста"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: Классификация текста
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /ru/terms/text_classification/
-date: "2026-07-18T16:18:02.515830Z"
-lastmod: "2026-07-18T16:38:07.208063Z"
+slug: text_classification
+date: '2026-07-18T16:18:02.515830Z'
+lastmod: '2026-07-18T16:38:07.208063Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс категоризации текста в организованные группы на основе его содержания или семантического значения."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс категоризации текста в организованные группы на основе его содержания
+  или семантического значения.
 ---
-
 ## Definition
 
 Классификация текста — это задача контролируемого обучения, в которой алгоритмы присваивают заранее определенные категории неструктурированным текстовым данным. Распространенные методы включают наивный байесовский классификатор, метод опорных векторов и глубокое обучение.

@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /cs/terms/monte/
 date: "2026-07-18T15:26:54.097119Z"
 lastmod: "2026-07-18T17:15:09.073143Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Monte odkazuje na Monte Carlo metody, které využívají opakované náhodné vzorkování k získání numerických výsledků pro problémy, které jsou deterministické, ale příliš složité pro analytická řešení."
 ---
-
 ## Definition
 
 Techniky Monte Carlo jsou třídou výpočetních algoritmů, které spoléhají na opakované náhodné vzorkování k odhadu matematických veličin. Jsou zvláště užitečné při integraci ve vysokých dimenzích...

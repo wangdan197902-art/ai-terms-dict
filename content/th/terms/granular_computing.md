@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /th/terms/granular_computing/
 date: "2026-07-18T15:57:34.414429Z"
 lastmod: "2026-07-18T16:38:07.612089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การคำนวณแบบกรานูลาร์เป็นกระบวนทัศน์ที่จัดการข้อมูลในระดับนามธรรมที่แตกต่างกัน โดยจัดระเบียบข้อมูลให้เป็นโครงสร้างที่มีความหมายเรียกว่า 'กรานูลข้อมูล' (Information Granules)"
 ---
-
 ## Definition
 
 แนวทางนี้เลียนแบบกระบวนการทางปัญญาของมนุษย์โดยการจับกลุ่มข้อมูลให้เป็นเอนทิตีระดับสูงหรือ 'กรานูล' แทนที่จะประมวลผลทีละองค์ประกอบเดี่ยวๆ ซึ่งครอบคลุมเทคนิคต่างๆ เช่น เซตหยาบ (Rough Sets) ตรรกะฟัซซี (Fuzzy Logic) และการวิเคราะห์คลัสเตอร์

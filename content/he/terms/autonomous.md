@@ -1,23 +1,23 @@
 ---
-title: "אוטונומי"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: אוטונומי
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /he/terms/autonomous/
-date: "2026-07-18T15:23:29.140866Z"
-lastmod: "2026-07-18T17:15:09.472938Z"
+slug: autonomous
+date: '2026-07-18T15:23:29.140866Z'
+lastmod: '2026-07-18T17:15:09.472938Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתאר מערכות מסוגלות לקבל החלטות ולפעול באופן עצמאי בסביבות דינמיות."
+source: agnes_llm
+status: published
+language: he
+description: מתאר מערכות מסוגלות לקבל החלטות ולפעול באופן עצמאי בסביבות דינמיות.
 ---
-
 ## Definition
 
 אוטונומיה בבינה מלאכותית מתייחסת ליכולת של מערכת להפיק את סביבתה, לקבל החלטות ולבצע פעולות ללא בקרה אנושית ישירה. בניגוד לאוטומציה פשוטה, מערכות אוטונומיות מסתגלות לשינויים...

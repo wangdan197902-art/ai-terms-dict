@@ -1,23 +1,23 @@
 ---
-title: "ビジョン"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: ビジョン
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /ja/terms/vision/
-date: "2026-07-18T11:01:42.026095Z"
-lastmod: "2026-07-18T11:44:45.059304Z"
+slug: vision
+date: '2026-07-18T11:01:42.026095Z'
+lastmod: '2026-07-18T11:44:45.059304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "コンピュータビジョンは、コンピュータが世界からの視覚情報を解釈し理解することを可能にすることに焦点を当てたAIの分野です。"
+source: agnes_llm
+status: published
+language: ja
+description: コンピュータビジョンは、コンピュータが世界からの視覚情報を解釈し理解することを可能にすることに焦点を当てたAIの分野です。
 ---
-
 ## Definition
 
 コンピュータビジョン（CV）は、コンピュータがデジタル画像、動画、その他の視覚入力から意味のある情報を引き出すように訓練するAIの一分野です。これには、アルゴリズムの開発が含まれます。

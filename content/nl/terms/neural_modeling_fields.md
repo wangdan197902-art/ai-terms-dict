@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /nl/terms/neural_modeling_fields/
 date: "2026-07-18T16:10:13.023823Z"
 lastmod: "2026-07-18T17:15:08.771918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een theoretisch kader dat de ruimtelijke en functionele organisatie van neurale activiteitspatronen beschrijft."
 ---
-
 ## Definition
 
 Neurale modelleringsvelden omvatten de studie van hoe neurale populaties zichzelf organiseren in hoogdimensionale ruimten om informatie te representeren. Dit concept heeft vaak betrekking op topologische afbeeldingen en veldtheorie.

@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /hu/terms/experimental/
 date: "2026-07-18T15:26:02.436678Z"
 lastmod: "2026-07-18T17:15:09.719529Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan AI technológiákra, modellekre vagy módszerekre utal, amelyek fejlesztésének korai szakaszában vannak, és még nem teljesen validáltak gyártási célra."
 ---
-
 ## Definition
 
 A kísérleti jelző azokat az AI komponenseket jelöli, amelyeket jelenleg teszten, kutatáson vagy prototípusfejlesztésen vesznek át, mielőtt elérést a stabilitást vagy a széles körű elfogadást. Ezek a rendszerek gyakran új architektúrákat vagy eddig próbálatlan technikákat használnak.

@@ -1,23 +1,24 @@
 ---
-title: "Algoritminen todennäköisyys"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Algoritminen todennäköisyys
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /fi/terms/algorithmic_probability/
-date: "2026-07-18T15:42:23.689286Z"
-lastmod: "2026-07-18T17:15:09.382126Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:42:23.689286Z'
+lastmod: '2026-07-18T17:15:09.382126Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Teoreettinen mittari sille, kuinka todennäköistä on, että satunnainen ohjelma tuottaa tietyn tulossarjan."
+source: agnes_llm
+status: published
+language: fi
+description: Teoreettinen mittari sille, kuinka todennäköistä on, että satunnainen
+  ohjelma tuottaa tietyn tulossarjan.
 ---
-
 ## Definition
 
 Algoritminen todennäköisyys, joka perustuu Kolmogorovin monimutkaisuuteen ja Solomonoff'n induktioon, antaa korkeamman todennäköisyyden niille tuloksille, jotka tuotetaan lyhyemmillä ohjelmilla. Se olettaa, että yksinkertaisemmilla selityksillä on suurempi todennäköisyys.

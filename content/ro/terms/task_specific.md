@@ -1,23 +1,25 @@
 ---
-title: "specific sarcinii"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: specific sarcinii
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /ro/terms/task_specific/
-date: "2026-07-18T15:33:54.428638Z"
-lastmod: "2026-07-18T17:15:09.611066Z"
+slug: task_specific
+date: '2026-07-18T15:33:54.428638Z'
+lastmod: '2026-07-18T17:15:09.611066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Modelele specifice sarcinii sunt sisteme de inteligență artificială concepute și optimizate pentru a executa o singură funcție bine definită, în loc de raționament general."
+source: agnes_llm
+status: published
+language: ro
+description: Modelele specifice sarcinii sunt sisteme de inteligență artificială concepute
+  și optimizate pentru a executa o singură funcție bine definită, în loc de raționament
+  general.
 ---
-
 ## Definition
 
 Termenul „specific sarcinii” se referă la modele sau componente de IA adaptate pentru a excela într-un set îngust de obiective, cum ar fi detectarea obiectelor în imagini sau traducerea limbilor. Spre deosebire de modelele de bază cu scop general, aceste modele sunt adesea mai eficiente, mai precise și mai ușor de implementat în nișe specifice.

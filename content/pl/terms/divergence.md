@@ -1,23 +1,25 @@
 ---
-title: "Rozbieżność"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Rozbieżność
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /pl/terms/divergence/
-date: "2026-07-18T15:24:37.995622Z"
-lastmod: "2026-07-18T17:15:08.809590Z"
+slug: divergence
+date: '2026-07-18T15:24:37.995622Z'
+lastmod: '2026-07-18T17:15:08.809590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Rozbieżność odnosi się do niepowodzenia funkcji straty algorytmu uczenia maszynowego w maleciu podczas treningu, co prowadzi do niestabilnej lub pogarszającej się wydajności."
+source: agnes_llm
+status: published
+language: pl
+description: Rozbieżność odnosi się do niepowodzenia funkcji straty algorytmu uczenia
+  maszynowego w maleciu podczas treningu, co prowadzi do niestabilnej lub pogarszającej
+  się wydajności.
 ---
-
 ## Definition
 
 W kontekście optymalizacji rozbieżność występuje, gdy parametry modelu aktualizują się w sposób powodujący wzrost, a nie spadek wartości straty, często prowadząc do wartości NaN (Not a Number) lub nieskończonych gradientów.

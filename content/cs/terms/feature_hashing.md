@@ -1,23 +1,24 @@
 ---
-title: "Hashování funkcí"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Hashování funkcí
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /cs/terms/feature_hashing/
-date: "2026-07-18T15:57:37.745724Z"
-lastmod: "2026-07-18T17:15:09.129602Z"
+slug: feature_hashing
+date: '2026-07-18T15:57:37.745724Z'
+lastmod: '2026-07-18T17:15:09.129602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika, která mapuje vysokorozměrné vzácné funkce na vektor pevné velikosti pomocí hashovací funkce."
+source: agnes_llm
+status: published
+language: cs
+description: Technika, která mapuje vysokorozměrné vzácné funkce na vektor pevné velikosti
+  pomocí hashovací funkce.
 ---
-
 ## Definition
 
 Hashování funkcí, také známé jako hashovací trik, umožňuje strojovým učícím se modelům zpracovávat velká a vzácná prostory funkcí bez nutnosti udržovat explicitní mapování mezi funkcemi a indexy. Aplikací

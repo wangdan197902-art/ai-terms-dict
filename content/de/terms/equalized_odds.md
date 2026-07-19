@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /de/terms/equalized_odds/
 date: "2026-07-18T11:13:31.420963Z"
 lastmod: "2026-07-18T11:44:44.937729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Fairness-Metrik, die erfordert, dass die Raten für wahre Positive und falsche Positive über verschiedene demografische Gruppen hinweg gleich sind."
 ---
-
 ## Definition
 
 Equalized Odds ist eine statistische Paritätsbedingung, die im Bereich der algorithmischen Fairness verwendet wird, um sicherzustellen, dass ein Modell für alle geschützten Gruppen gleich gut abschneidet. Spezifisch verlangt sie, dass die Wahrscheinlichkeit eines wahren Positivs (bei tatsächlichen positiven Fällen) und eines falschen Positivs (bei tatsächlichen negativen Fällen) für alle Gruppen identisch ist.

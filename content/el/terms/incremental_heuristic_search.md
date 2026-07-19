@@ -1,23 +1,24 @@
 ---
-title: "Επαυξητική Εύρεση με Ευριστικές Μεθόδους"
-term_id: "incremental_heuristic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "heuristics"]
+title: Επαυξητική Εύρεση με Ευριστικές Μεθόδους
+term_id: incremental_heuristic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- heuristics
 difficulty: 4
 weight: 1
-slug: "incremental_heuristic_search"
-aliases:
-  - /el/terms/incremental_heuristic_search/
-date: "2026-07-18T16:14:40.573784Z"
-lastmod: "2026-07-18T17:15:09.920141Z"
+slug: incremental_heuristic_search
+date: '2026-07-18T16:14:40.573784Z'
+lastmod: '2026-07-18T17:15:09.920141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στρατηγική αναζήτησης που βελτιώνει σταδιακά μια εκτίμηση λύσης χρησιμοποιώντας ευριστική καθοδήγηση αντί να εξερευνεί ολόκληρο τον χώρο καταστάσεων."
+source: agnes_llm
+status: published
+language: el
+description: Μια στρατηγική αναζήτησης που βελτιώνει σταδιακά μια εκτίμηση λύσης χρησιμοποιώντας
+  ευριστική καθοδήγηση αντί να εξερευνεί ολόκληρο τον χώρο καταστάσεων.
 ---
-
 ## Definition
 
 Η Επαυξήτική Εύρεση με Ευριστικές Μεθόδους αναφέρεται σε αλγορίθμους που βελτιώνουν ένα υποψήφιο λύμα βήμα προς βήμα, καθοδηγούμενοι από ευριστικές συναρτήσεις που εκτιμούν το κόστος για την επίτευξη του στόχου. Σε αντίθεση με τις εξαντλητικές αναζητήσεις, αυτές οι μέθοδοι εστιάζουν στην περιοχή γύρω από την τρέχουσα λύση.

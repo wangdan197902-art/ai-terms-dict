@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /cs/terms/aiops/
 date: "2026-07-18T15:40:30.892549Z"
 lastmod: "2026-07-18T17:15:09.098154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "AIOps označuje využití umělé inteligence a strojového učení k automatizaci procesů IT operací."
 ---
-
 ## Definition
 
 Umělá inteligence pro IT operace (AIOps) kombinuje analýzu velkých dat a algoritmy strojového učení k automatizaci správy IT infrastruktury a operací. Pomáhá organizacím spravovat komplexní IT prostředí efektivněji.

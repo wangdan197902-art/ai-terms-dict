@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /nl/terms/ocr/
 date: "2026-07-18T16:10:59.550179Z"
 lastmod: "2026-07-18T17:15:08.773583Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "OCR is een technologie die verschillende soorten documenten, zoals gescande papieren documenten of afbeeldingen, omzet in bewerkbare en doorzoekbare gegevens."
 ---
-
 ## Definition
 
 Optical Character Recognition (OCR) gebruikt beeldverwerkings- en patroonherkenningsalgoritmen om tekst binnen digitale afbeeldingen te identificeren. Het zet gedrukte of handgeschreven tekens om in machine-leesbare gegevens.

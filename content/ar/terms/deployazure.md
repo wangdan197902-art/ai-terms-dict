@@ -1,23 +1,23 @@
 ---
-title: "النشر: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'النشر: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /ar/terms/deployazure/
-date: "2026-07-18T15:53:34.133857Z"
-lastmod: "2026-07-18T17:15:08.495985Z"
+slug: deployazure
+date: '2026-07-18T15:53:34.133857Z'
+lastmod: '2026-07-18T17:15:08.495985Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية استضافة وتشغيل نماذج تعلم الآلة على خدمات البنية التحتية للسحابة الإلكترونية من مايكروسوفت Azure."
+source: agnes_llm
+status: published
+language: ar
+description: عملية استضافة وتشغيل نماذج تعلم الآلة على خدمات البنية التحتية للسحابة
+  الإلكترونية من مايكروسوفت Azure.
 ---
-
 ## Definition
 
 يتضمن النشر على منصة Azure استخدام أدوات أصلية للسحابة مثل Azure Machine Learning و Azure Kubernetes Service (AKS) أو Azure Functions لتقديم نماذج تعلم الآلة على نطاق واسع. ويشمل ذلك إدارة موارد الحوسبة...

@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /ko/terms/is_this_what_we_want/
 date: "2026-07-18T16:00:45.939554Z"
 lastmod: "2026-07-18T16:38:06.856439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능 시스템을 사회적 가치, 공정성 및 잠재적 해로운 결과에 비추어 평가하는 비판적 윤리 프레임워크."
 ---
-
 ## Definition
 
 이 문구는 AI 윤리와 거버넌스의 핵심 질문으로, 배포된 AI 기술이 인간의 가치와 공공 이익에 부합하는지 이해관계자들이 평가하도록 촉구합니다. 이는 기술의 사회적 영향과 윤리적 타당성에 대한 심층적인 검토를 포함합니다.

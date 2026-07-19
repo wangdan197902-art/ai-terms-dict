@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /no/terms/embodied_agent/
 date: "2026-07-18T15:52:58.525165Z"
 lastmod: "2026-07-18T16:38:06.997094Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En forkroppsliget agent er et AI-system som interagerer med omgivelsene gjennom en fysisk kropp eller sensorisk-motorisk utstyr."
 ---
-
 ## Definition
 
 I motsetning til upersonliggjorte AI-systemer som behandler abstrakte data, lærer og handler forkroppsligede agenter innenfor en fysisk kontekst, avhengig av sanseinput og motorisk output. Dette paradigmet er sentralt innen robotikk og autonome systemer.

@@ -1,23 +1,23 @@
 ---
-title: "文本生成"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: 文本生成
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /zh/terms/text_generation/
-date: "2026-07-18T11:36:07.262476Z"
-lastmod: "2026-07-18T11:44:45.562321Z"
+slug: text_generation
+date: '2026-07-18T11:36:07.262476Z'
+lastmod: '2026-07-18T11:44:45.562321Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种AI能力，模型根据提供的提示或上下文，逐个标记地生成类似人类文本的序列。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种AI能力，模型根据提供的提示或上下文，逐个标记地生成类似人类文本的序列。
 ---
-
 ## Definition
 
 文本生成是自然语言处理中的一种基本应用范式，人工智能模型在此过程中创建新的文本内容。通过预测序列中下一个最可能的标记，模型能够连贯地生成文章、对话或代码等多样化文本形式。

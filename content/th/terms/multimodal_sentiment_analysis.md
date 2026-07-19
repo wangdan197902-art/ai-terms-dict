@@ -1,23 +1,24 @@
 ---
-title: "การวิเคราะห์ความรู้สึกหลายรูปแบบ"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: การวิเคราะห์ความรู้สึกหลายรูปแบบ
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /th/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:06:39.780434Z"
-lastmod: "2026-07-18T16:38:07.634689Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:06:39.780434Z'
+lastmod: '2026-07-18T16:38:07.634689Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การวิเคราะห์ความรู้สึกของมนุษย์เชิงคำนวณโดยการบูรณาการสัญญาณจากข้อความ ภาพ และเสียง"
+source: agnes_llm
+status: published
+language: th
+description: การวิเคราะห์ความรู้สึกของมนุษย์เชิงคำนวณโดยการบูรณาการสัญญาณจากข้อความ
+  ภาพ และเสียง
 ---
-
 ## Definition
 
 การวิเคราะห์ความรู้สึกหลายรูปแบบขยายขอบเขตจากการตรวจจับความรู้สึกจากข้อความเพียงอย่างเดียว โดยเพิ่มสัญญาณอื่นๆ เช่น สีหน้า น้ำเสียง และภาษากายเข้าไปด้วย ซึ่งเป็นการมองแบบองค์รวมที่ช่วยเพิ่มความแม่นยำ

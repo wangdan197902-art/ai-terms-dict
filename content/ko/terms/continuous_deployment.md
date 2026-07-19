@@ -1,23 +1,23 @@
 ---
-title: "연속 배포"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: 연속 배포
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /ko/terms/continuous_deployment/
-date: "2026-07-18T15:46:36.340257Z"
-lastmod: "2026-07-18T16:38:06.821920Z"
+slug: continuous_deployment
+date: '2026-07-18T15:46:36.340257Z'
+lastmod: '2026-07-18T16:38:06.821920Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "자동화된 테스트를 통과한 모든 코드 변경 사항을 자동으로 프로덕션 환경에 릴리스하는 소프트웨어 공학 관행입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 자동화된 테스트를 통과한 모든 코드 변경 사항을 자동으로 프로덕션 환경에 릴리스하는 소프트웨어 공학 관행입니다.
 ---
-
 ## Definition
 
 연속 배포(Continuous Deployment)는 전체 릴리스 과정을 자동화하는 연속 전달의 확장 개념입니다. 단위 테스트, 통합 테스트, 보안 검사 등 모든 품질 게이트를 통과하면 코드 변경 사항이 자동으로 프로덕션에 배포됩니다.

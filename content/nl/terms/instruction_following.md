@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /nl/terms/instruction_following/
 date: "2026-07-18T16:00:50.115548Z"
 lastmod: "2026-07-18T17:15:08.756562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het vermogen van een AI-model om specifieke menselijke commando's of beperkingen nauwkeurig te interpreteren en uit te voeren."
 ---
-
 ## Definition
 
 Instructievolging verwijst naar het vermogen van grote taalmodellen en andere AI-systemen om genuanceerde menselijke richtlijnen te begrijpen en zich te houden aan expliciete beperkingen binnen een prompt. Deze paradigmaverschuiving

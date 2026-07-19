@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /no/terms/bias/
 date: "2026-07-18T15:22:28.053526Z"
 lastmod: "2026-07-18T16:38:06.930436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Systematisk fordom i KI-modeller som fører til urettferdige resultater mot visse grupper eller individer."
 ---
-
 ## Definition
 
 Innen KI-etikk refererer skjevhet til systematisk og urettferdig diskriminering i algoritmisk beslutningstaking, ofte som et resultat av skjeve treningsdata eller mangelfull modellutforming. Dette kan føre til ugunstige virkninger på

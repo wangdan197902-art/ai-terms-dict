@@ -1,23 +1,23 @@
 ---
-title: "큐웬3.5(Qwen3.5)"
-term_id: "qwen35"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model", "qwen", "nlp"]
+title: 큐웬3.5(Qwen3.5)
+term_id: qwen35
+category: basic_concepts
+subcategory: ''
+tags:
+- model
+- qwen
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen35"
-aliases:
-  - /ko/terms/qwen35/
-date: "2026-07-18T16:12:36.759789Z"
-lastmod: "2026-07-18T16:38:06.902109Z"
+slug: qwen35
+date: '2026-07-18T16:12:36.759789Z'
+lastmod: '2026-07-18T16:38:06.902109Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "향상된 추론 및 다국어 기능에 중점을 둔 큐웬 대규모 언어 모델 시리즈의 반복 버전입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 향상된 추론 및 다국어 기능에 중점을 둔 큐웬 대규모 언어 모델 시리즈의 반복 버전입니다.
 ---
-
 ## Definition
 
 큐웬3.5는 알리바바 클라우드에서 개발한 큐웬 계보의 특정 릴리스를 나타냅니다. 이 버전은 일반적으로 이전 버전을 기반으로 논리적 추론, 코딩 숙련도, 자연어

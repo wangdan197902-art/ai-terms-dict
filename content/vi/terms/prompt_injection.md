@@ -1,23 +1,24 @@
 ---
-title: "Tiêm nhiễm Prompt"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Tiêm nhiễm Prompt
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /vi/terms/prompt_injection/
-date: "2026-07-18T15:36:48.459206Z"
-lastmod: "2026-07-18T16:38:07.712216Z"
+slug: prompt_injection
+date: '2026-07-18T15:36:48.459206Z'
+lastmod: '2026-07-18T16:38:07.712216Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một cuộc tấn công đối kháng, trong đó các đầu vào độc hại thao túng mô hình AI để vượt qua bộ lọc an toàn hoặc thực thi các lệnh không mong muốn."
+source: agnes_llm
+status: published
+language: vi
+description: Một cuộc tấn công đối kháng, trong đó các đầu vào độc hại thao túng mô
+  hình AI để vượt qua bộ lọc an toàn hoặc thực thi các lệnh không mong muốn.
 ---
-
 ## Definition
 
 Tiêm nhiễm prompt khai thác cách các mô hình ngôn ngữ lớn (LLM) diễn giải hướng dẫn của người dùng bằng cách nhúng các chỉ thị ẩn hoặc mâu thuẫn vào văn bản đầu vào. Điều này có thể khiến mô hình bỏ qua các hướng dẫn ban đầu của hệ thống.

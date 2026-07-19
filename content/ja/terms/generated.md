@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /ja/terms/generated/
 date: "2026-07-18T10:51:14.545094Z"
 lastmod: "2026-07-18T11:44:45.009719Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "静的データセットから直接取得されるのではなく、AIモデルによって作成されたコンテンツ。"
 ---
-
 ## Definition
 
 「生成された」という用語は、テキスト、画像、音声、コードなどの生成AIモデルによって出力された内容を指します。既存のデータを検索して返す検索ベースのシステムとは異なり、生成モデルは新しいデータを合成して創出します。

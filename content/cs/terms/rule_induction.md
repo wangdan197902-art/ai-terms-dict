@@ -1,23 +1,24 @@
 ---
-title: "Indukce pravidel"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Indukce pravidel
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /cs/terms/rule_induction/
-date: "2026-07-18T16:16:21.189667Z"
-lastmod: "2026-07-18T17:15:09.197982Z"
+slug: rule_induction
+date: '2026-07-18T16:16:21.189667Z'
+lastmod: '2026-07-18T17:15:09.197982Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika strojového učení, která automaticky generuje sadu logických pravidel z označených trénovacích dat za účelem klasifikace nových instancí."
+source: agnes_llm
+status: published
+language: cs
+description: Technika strojového učení, která automaticky generuje sadu logických
+  pravidel z označených trénovacích dat za účelem klasifikace nových instancí.
 ---
-
 ## Definition
 
 Indukce pravidel je symbolickou metodou strojového učení, která odvozuje pravidla typu pokud-tak přímo z dat. Na rozdíl od neuronových sítí, které produkují nepřehledné váhy, indukce pravidel poskytuje interpretovatelné modely,

@@ -1,23 +1,24 @@
 ---
-title: "Langsiktig-korttidshukommelse"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Langsiktig-korttidshukommelse
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /no/terms/long_short_term_memory/
-date: "2026-07-18T15:37:26.089689Z"
-lastmod: "2026-07-18T16:38:06.959715Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:37:26.089689Z'
+lastmod: '2026-07-18T16:38:06.959715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En spesialisert arkitektur for rekursive nevrale nettverk designet for å lære langsiktige avhengigheter i sekvensielle data."
+source: agnes_llm
+status: published
+language: 'no'
+description: En spesialisert arkitektur for rekursive nevrale nettverk designet for
+  å lære langsiktige avhengigheter i sekvensielle data.
 ---
-
 ## Definition
 
 LSTM-nettverk adresserer problemet med forsvinnende gradienter som er vanlig i standard RNN-er ved å bruke en tilstandsmekanisme og tre porter: inngangsport, glemselport og utgangsport. Disse portene regulerer strømningen av informasjon, noe som lar nettverket huske relevante detaljer over lange perioder og glemme irrelevant informasjon.

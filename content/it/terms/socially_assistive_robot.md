@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /it/terms/socially_assistive_robot/
 date: "2026-07-18T16:21:39.821229Z"
 lastmod: "2026-07-18T17:15:08.669404Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un robot progettato per interagire con gli esseri umani per migliorare il loro benessere fisico o psicologico senza eseguire compiti fisici."
 ---
-
 ## Definition
 
 I Robot Socialmente Assistenziali (SAR) sono un sottoinsieme dell'interazione uomo-robot focalizzato sul fornire assistenza attraverso mezzi sociali piuttosto che attraverso la manipolazione fisica. Utilizzano strategie non invasive come il contatto visivo e il linguaggio.

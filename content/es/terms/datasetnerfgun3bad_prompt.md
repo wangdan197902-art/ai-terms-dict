@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /es/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T10:42:31.536688Z"
 lastmod: "2026-07-18T11:44:44.795026Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un conjunto de datos de nicho que probablemente contiene instrucciones adversarias, de baja calidad o intencionalmente mal formadas, utilizadas para probar la robustez o filtrar entradas ruidosas en m"
 ---
-
 ## Definition
 
 Este término se refiere a un conjunto de datos específico alojado en Hugging Face bajo el usuario 'Nerfgun3', titulado 'Bad Prompt'. Aunque no es tan estándar como las principales pruebas de referencia, estos conjuntos de datos se utilizan a menudo para estudiar la robustez del mode...

@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /zh/terms/artificial_intelligence_of_things/
 date: "2026-07-18T11:06:59.857902Z"
 lastmod: "2026-07-18T11:44:45.445634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "人工智能与物联网的融合，使智能设备能够在本地处理数据并做出自主决策。"
 ---
-
 ## Definition
 
 万物智能（AIoT）代表了人工智能与物联网技术的协同整合。通过将人工智能算法直接嵌入到物联网设备中或...

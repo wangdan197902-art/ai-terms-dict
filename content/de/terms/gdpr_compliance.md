@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /de/terms/gdpr_compliance/
 date: "2026-07-18T11:15:21.696508Z"
 lastmod: "2026-07-18T11:44:44.942154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Einhaltung der Datenschutz-Grundverordnung, die sicherstellt, dass KI-Systeme die Privatsphäre der Benutzer und deren Datenrechte respektieren."
 ---
-
 ## Definition
 
 DSGVO-Konformität bezieht sich auf die rechtlichen und technischen Maßnahmen, die KI-Entwickler implementieren müssen, um die personenbezogenen Daten von Personen in der Europäischen Union zu schützen. Für KI-Systeme umfasst dies Prinzipien wie Datensparsamkeit und Transparenz.

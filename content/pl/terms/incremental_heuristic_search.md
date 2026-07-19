@@ -1,23 +1,24 @@
 ---
-title: "Inkrementalne Wyszukiwanie Heurystyczne"
-term_id: "incremental_heuristic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "heuristics"]
+title: Inkrementalne Wyszukiwanie Heurystyczne
+term_id: incremental_heuristic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- heuristics
 difficulty: 4
 weight: 1
-slug: "incremental_heuristic_search"
-aliases:
-  - /pl/terms/incremental_heuristic_search/
-date: "2026-07-18T16:00:04.172582Z"
-lastmod: "2026-07-18T17:15:08.885298Z"
+slug: incremental_heuristic_search
+date: '2026-07-18T16:00:04.172582Z'
+lastmod: '2026-07-18T17:15:08.885298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Strategia wyszukiwania, która stopniowo poprawia przybliżenie rozwiązania, wykorzystując wskazówki heurystyczne zamiast eksploracji całej przestrzeni stanów."
+source: agnes_llm
+status: published
+language: pl
+description: Strategia wyszukiwania, która stopniowo poprawia przybliżenie rozwiązania,
+  wykorzystując wskazówki heurystyczne zamiast eksploracji całej przestrzeni stanów.
 ---
-
 ## Definition
 
 Inkrementalne Wyszukiwanie Heurystyczne odnosi się do algorytmów, które doskonalą kandydackie rozwiązanie krok po kroku, kierując się heurystykami szacującymi koszt osiągnięcia celu. W przeciwieństwie do wyszukiwań wyczerpujących, te metody koncentrują się na lokalnej optymalizacji.

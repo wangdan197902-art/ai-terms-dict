@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /fi/terms/sentence_transformers/
 date: "2026-07-18T16:19:56.510177Z"
 lastmod: "2026-07-18T17:15:09.458563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Neuraaliset verkkoarkkitehtuurit, jotka on suunniteltu erityisesti tuottamaan kiinteäkokoisia vektorisidoksia mielivaltaisille tekstialueille."
 ---
-
 ## Definition
 
 Lause-transformerit ovat perinteisten Transformer-mallien (kuten BERT) laajennoksia, jotka on hienosäädetty tuottamaan merkityksellisiä tiheitä vektoriesityksiä koko lauseille. Toisin kuin tavalliset tokenitasoiset mallit, ne tuottavat yhden vektorin per lause.

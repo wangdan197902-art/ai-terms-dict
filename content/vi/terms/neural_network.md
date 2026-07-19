@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /vi/terms/neural_network/
 date: "2026-07-18T15:27:33.100095Z"
 lastmod: "2026-07-18T16:38:07.690929Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống tính toán lấy cảm hứng từ bộ não sinh học, bao gồm các nút hoặc nơ-ron được kết nối với nhau và tổ chức thành các lớp."
 ---
-
 ## Definition
 
 Mạng nơ-ron là một chuỗi các thuật toán nhằm nhận diện các mối quan hệ tiềm ẩn trong một tập dữ liệu thông qua quá trình mô phỏng cách hoạt động của bộ não con người. Nó được cấu thành từ các lớp nơ-ron liên kết với nhau.

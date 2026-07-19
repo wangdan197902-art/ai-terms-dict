@@ -1,23 +1,25 @@
 ---
-title: "Generatieve AI"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: Generatieve AI
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /nl/terms/generative_ai/
-date: "2026-07-18T15:56:30.221129Z"
-lastmod: "2026-07-18T17:15:08.747849Z"
+slug: generative_ai
+date: '2026-07-18T15:56:30.221129Z'
+lastmod: '2026-07-18T17:15:08.747849Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Generatieve AI is een vorm van kunstmatige intelligentie die in staat is nieuwe inhoud te creëren, zoals tekst, afbeeldingen, audio en code, op basis van patronen die zijn geleerd uit trainingsgegeven"
+source: agnes_llm
+status: published
+language: nl
+description: Generatieve AI is een vorm van kunstmatige intelligentie die in staat
+  is nieuwe inhoud te creëren, zoals tekst, afbeeldingen, audio en code, op basis
+  van patronen die zijn geleerd uit trainingsgegeven
 ---
-
 ## Definition
 
 Deze systemen, waaronder grote taalmodellen en diffusiemodellen, halen niet alleen bestaande informatie op, maar synthetiseren ook nieuwe outputs. Ze leren de onderliggende structuur en stijl van hun trainingsdata om creatieve resultaten te genereren.

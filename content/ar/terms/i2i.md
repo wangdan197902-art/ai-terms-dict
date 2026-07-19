@@ -1,23 +1,23 @@
 ---
-title: "ترجمة صورة إلى صورة"
-term_id: "i2i"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "generative_ai"]
+title: ترجمة صورة إلى صورة
+term_id: i2i
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "i2i"
-aliases:
-  - /ar/terms/i2i/
-date: "2026-07-18T16:02:24.487083Z"
-lastmod: "2026-07-18T17:15:08.513881Z"
+slug: i2i
+date: '2026-07-18T16:02:24.487083Z'
+lastmod: '2026-07-18T17:15:08.513881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ترجمة صورة إلى صورة هي تقنية في رؤية الحاسوب تحول صورة إدخال إلى صورة إخراج مطابقة مع الحفاظ على المحتوى الدلالي."
+source: agnes_llm
+status: published
+language: ar
+description: ترجمة صورة إلى صورة هي تقنية في رؤية الحاسوب تحول صورة إدخال إلى صورة
+  إخراج مطابقة مع الحفاظ على المحتوى الدلالي.
 ---
-
 ## Definition
 
 تتضمن ترجمة صورة إلى صورة (I2I) تعيين البكسلات من مجال مصدر إلى مجال هدف باستخدام نماذج التعلم العميق، مثل الشبكات التوليدية التنافسية أو نماذج الانتشار. تتيح هذه التقنية نقل الأسلوب، والتجزئة الدلالية، وغيرها من التحولات المرئية المعقدة.

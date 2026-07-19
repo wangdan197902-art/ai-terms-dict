@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /ro/terms/markov/
 date: "2026-07-18T15:27:20.556629Z"
 lastmod: "2026-07-18T17:15:09.598262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Markov se referă la procese stochastice în care starea viitoare depinde doar de starea curentă, respectând proprietatea de lipsă de memorie a lui Markov."
 ---
-
 ## Definition
 
 În inteligența artificială și teoria probabilităților, procesele Markov sunt modele fundamentale utilizate pentru a descrie sistemele care trec aleatoriu între stări. Principiul de bază este proprietatea Markov, conform căreia viitorul este independent de trecut, dată fiind starea prezentă.

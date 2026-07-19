@@ -1,23 +1,24 @@
 ---
-title: "De tout vers tout"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: De tout vers tout
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /fr/terms/any_to_any/
-date: "2026-07-18T11:04:42.519695Z"
-lastmod: "2026-07-18T11:44:45.197064Z"
+slug: any_to_any
+date: '2026-07-18T11:04:42.519695Z'
+lastmod: '2026-07-18T11:44:45.197064Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une capacité d'IA générative permettant aux modèles de convertir directement une entrée d'une modalité donnée en sortie d'une autre modalité arbitraire."
+source: agnes_llm
+status: published
+language: fr
+description: Une capacité d'IA générative permettant aux modèles de convertir directement
+  une entrée d'une modalité donnée en sortie d'une autre modalité arbitraire.
 ---
-
 ## Definition
 
 Le concept « De tout vers tout » désigne des architectures multimodales unifiées capables de gérer diverses combinaisons entrée-sortie, telles que texte-vers-image, image-vers-texte ou audio-vers-vidéo. Contrairement aux modèles spécialisés, ces systèmes offrent une flexibilité accrue.

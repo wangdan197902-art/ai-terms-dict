@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /ro/terms/knowledge_level/
 date: "2026-07-18T16:07:07.484895Z"
 lastmod: "2026-07-18T17:15:09.672118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O perspectivă de proiectare abstractă care se concentrează pe ceea ce știe un agent, mai degrabă decât pe modul în care procesează intern informația."
 ---
-
 ## Definition
 
 Termenul, introdus de Allen Newell, analizează sistemele inteligente în funcție de credințele și obiectivele lor, independent de implementarea fizică. Acesta separă raționalitatea acțiunilor agentului de mecanismele sale interne de execuție.

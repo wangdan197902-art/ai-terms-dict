@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /cs/terms/robot/
 date: "2026-07-18T15:28:39.219401Z"
 lastmod: "2026-07-18T17:15:09.076732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Programovatelný stroj schopný automaticky vykonávat složité činnosti."
 ---
-
 ## Definition
 
 Robot je autonomní nebo semi-autonomní mechanické zařízení navržené k plnění úkolů buď nezávisle, nebo na dálku ovládané. Obvykle se skládá ze senzorů pro vnímání prostředí a aktuátorů.

@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /pt/terms/given/
 date: "2026-07-18T14:35:24.459077Z"
 lastmod: "2026-07-18T15:51:59.430695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um termo que denota dados pré-existentes, restrições ou contexto fornecidos como entrada para um processo algorítmico."
 ---
-
 ## Definition
 
 Em contextos de IA e ciência da computação, 'dado' refere-se ao estado inicial, conjunto de dados ou parâmetros fornecidos a um modelo ou função antes do início do cálculo. Estabelece as condições de contorno para i

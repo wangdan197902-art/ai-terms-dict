@@ -1,23 +1,24 @@
 ---
-title: "Prompt Injection"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Prompt Injection
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /da/terms/prompt_injection/
-date: "2026-07-18T15:37:15.359733Z"
-lastmod: "2026-07-18T17:15:09.247876Z"
+slug: prompt_injection
+date: '2026-07-18T15:37:15.359733Z'
+lastmod: '2026-07-18T17:15:09.247876Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et fjendtligt angreb, hvor ondsindede inputs manipulerer en AI-model til at omgå sikkerhedsfiltre eller udføre uønskede kommandoer."
+source: agnes_llm
+status: published
+language: da
+description: Et fjendtligt angreb, hvor ondsindede inputs manipulerer en AI-model
+  til at omgå sikkerhedsfiltre eller udføre uønskede kommandoer.
 ---
-
 ## Definition
 
 Prompt injection udnytter den måde, store sprogmodeller fortolker brugerinstruktioner på, ved at indlejre skjulte eller modstridende direktiver i inputteksten. Dette kan få modellen til at ignorere dens oprindelige sikkerhedsinstrukser.

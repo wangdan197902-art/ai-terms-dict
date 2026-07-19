@@ -1,23 +1,24 @@
 ---
-title: "Tegnberegning"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Tegnberegning
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /da/terms/character_computing/
-date: "2026-07-18T15:45:14.170342Z"
-lastmod: "2026-07-18T17:15:09.267477Z"
+slug: character_computing
+date: '2026-07-18T15:45:14.170342Z'
+lastmod: '2026-07-18T17:15:09.267477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Tegnberegning involverer behandling, generering eller analyse af tekst på individuel tegnniveau snarere end ord- eller sætningsniveau."
+source: agnes_llm
+status: published
+language: da
+description: Tegnberegning involverer behandling, generering eller analyse af tekst
+  på individuel tegnniveau snarere end ord- eller sætningsniveau.
 ---
-
 ## Definition
 
 This concept focuses on the manipulation of text where the fundamental unit of computation is a single character. It is often used in tasks requiring fine-grained text analysis, such as spell checking

@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /hu/terms/scientific/
 date: "2026-07-18T15:31:06.422313Z"
 lastmod: "2026-07-18T17:15:09.729730Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A tudományos megközelítés az AI-ban a szigorú empirikus módszerek, hipotézisvizsgálat és reprodukálhatóság alkalmazását jelenti a kutatásban."
 ---
-
 ## Definition
 
 A mesterséges intelligencia tudományos megközelítése az adatokon alapuló fejlesztést és validációt hangsúlyozza. Magában foglalja a modellviselkedésre vonatkozó hipotézisek felállítását, kontrollált kísérletek végzését és

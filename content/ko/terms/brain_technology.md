@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /ko/terms/brain_technology/
 date: "2026-07-18T15:44:26.210047Z"
 lastmod: "2026-07-18T16:38:06.815077Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "뇌와 인터페이스하거나 모니터링, 조절하는 것을 목적으로 하는 기술로, 뇌-컴퓨터 인터페이스(BCI) 및 신경영상 도구 등이 포함됩니다."
 ---
-
 ## Definition
 
 뇌 기술은 중추 신경계와 직접 상호작용하는 하드웨어 및 소프트웨어 시스템을 포괄합니다. 주요 예시로는 신경 신호를 번역하여 외부 장치를 제어하는 뇌-컴퓨터 인터페이스(BCI)가 있으며, 이는 마비 환자의 운동 기능 회복이나 의수 의족 제어 등에 활용됩니다. 또한 뇌 활동을 시각화하고 분석하는 다양한 신경영상 기술도 이 범주에 속합니다.

@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /tr/terms/fon/
 date: "2026-07-18T15:53:59.581721Z"
 lastmod: "2026-07-18T16:38:07.310118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerinin tasarımı ve işleyişini yönlendiren temel ilkeleri ve teorik altyapıyı ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka terminolojisinde 'Fon', bir yapay zeka modelinin girdileri nasıl yorumladığını ve çıktıları nasıl ürettiğini tanımlayan temel fonksiyonel ontoloji veya kurucu mantık yapılarını betimlemek için sıklıkla kullanılır.

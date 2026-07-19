@@ -1,23 +1,24 @@
 ---
-title: "Modelo crença-desejo-intenção"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Modelo crença-desejo-intenção
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /pt/terms/beliefdesireintention_model/
-date: "2026-07-18T14:51:42.660838Z"
-lastmod: "2026-07-18T15:51:59.468431Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T14:51:42.660838Z'
+lastmod: '2026-07-18T15:51:59.468431Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estrutura filosófica usada em IA para modelar agentes racionais com base em suas crenças, desejos e intenções."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estrutura filosófica usada em IA para modelar agentes racionais com
+  base em suas crenças, desejos e intenções.
 ---
-
 ## Definition
 
 O modelo Crença-Desejo-Intenção (BDI) é uma arquitetura cognitiva para projetar agentes autônomos que tomam decisões racionais. As crenças representam o conhecimento do agente sobre o mundo, os desejos são os objetivos e as intenções são os planos escolhidos.

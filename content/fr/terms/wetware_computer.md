@@ -1,23 +1,24 @@
 ---
-title: "Ordinateur wetware"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Ordinateur wetware
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /fr/terms/wetware_computer/
-date: "2026-07-18T11:43:05.960096Z"
-lastmod: "2026-07-18T11:44:45.357782Z"
+slug: wetware_computer
+date: '2026-07-18T11:43:05.960096Z'
+lastmod: '2026-07-18T11:44:45.357782Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un système de calcul biologique qui utilise des tissus neuronaux vivants, tels que des cellules cérébrales, pour traiter l'information."
+source: agnes_llm
+status: published
+language: fr
+description: Un système de calcul biologique qui utilise des tissus neuronaux vivants,
+  tels que des cellules cérébrales, pour traiter l'information.
 ---
-
 ## Definition
 
 Le calcul wetware désigne les systèmes où les neurones biologiques, souvent cultivés in vitro, servent d'unités de traitement principales au lieu du matériel traditionnel basé sur le silicium. Ces systèmes exploitent la plasticité et l'efficacité énergétique des réseaux neuronaux vivants pour effectuer des tâches de traitement de l'information complexes.

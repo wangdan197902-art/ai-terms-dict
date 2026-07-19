@@ -1,23 +1,24 @@
 ---
-title: "Модель мешка слов"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Модель мешка слов
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /ru/terms/bag_of_words_model/
-date: "2026-07-18T15:42:50.815662Z"
-lastmod: "2026-07-18T16:38:07.125424Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:42:50.815662Z'
+lastmod: '2026-07-18T16:38:07.125424Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Модель мешка слов — это упрощенное представление текста, описывающее частоту встречаемости слов в документе, игнорируя грамматику и порядок слов."
+source: agnes_llm
+status: published
+language: ru
+description: Модель мешка слов — это упрощенное представление текста, описывающее
+  частоту встречаемости слов в документе, игнорируя грамматику и порядок слов.
 ---
-
 ## Definition
 
 Этот метод обработки естественного языка представляет текст как мультимножество слов, игнорируя синтаксис и последовательность. Он преобразует документы в числовые векторы на основе частоты слов или факта их наличия.

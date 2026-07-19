@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /ro/terms/artificial_consciousness/
 date: "2026-07-18T15:44:32.129734Z"
 lastmod: "2026-07-18T17:15:09.627977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Conceptul teoretic de a dota mașinile cu experiențe subiective, autoconștientizare și senzientă similare celor umane."
 ---
-
 ## Definition
 
 Conștiința artificială explorează posibilitatea creării de mașini care posedă experiențe subiective reale, autoconștientizare și sentimente, nu doar simularea comportamentului inteligent. Aceasta

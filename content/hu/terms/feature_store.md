@@ -1,23 +1,25 @@
 ---
-title: "Jellemzőtár"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: Jellemzőtár
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /hu/terms/feature_store/
-date: "2026-07-18T15:59:53.397775Z"
-lastmod: "2026-07-18T17:15:09.784505Z"
+slug: feature_store
+date: '2026-07-18T15:59:53.397775Z'
+lastmod: '2026-07-18T17:15:09.784505Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy központi adattároló, amelyet arra terveztek, hogy konzisztensen kezelje, osszon meg és kiszolgáltasson jellemzőket a gépi tanulás tanítási és következtetési szakaszában."
+source: agnes_llm
+status: published
+language: hu
+description: Egy központi adattároló, amelyet arra terveztek, hogy konzisztensen kezelje,
+  osszon meg és kiszolgáltasson jellemzőket a gépi tanulás tanítási és következtetési
+  szakaszában.
 ---
-
 ## Definition
 
 A Jellemzőtár hidat képez a data engineering és a gépi tanulási csapatok között, egységes nézetet biztosítva a jellemzőkről mind a kötegelt tanítás, mind a valós idejű következtetés során. Konzisztenciát biztosít azzal, hogy garantálja, ugyanazokat a jellemzőket használják-e a tanításhoz és a szolgáltatáshoz, így kiküszöböli a tanítás-szolgáltatás torzulást (training-serving skew).

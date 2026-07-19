@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /ko/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T15:49:34.064071Z"
 lastmod: "2026-07-18T16:38:06.828661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "팔콘(Falcon)과 같은 대규모 언어 모델을 사전 훈련시키기 위해 기술 혁신 연구소(Technology Innovation Institute)가 선별한 대용량 고품질 웹 데이터셋입니다."
 ---
-
 ## Definition
 
 RefinedWeb은 파운데이션 모델 사전 훈련을 위해 설계된 필터링된 웹 페이지의 대규모 데이터셋입니다. 이 데이터셋은 저품질 콘텐츠, 중복 항목 및 유해 자료를 제거하기 위해 수십억 개의 웹 페이지를 처리합니다.

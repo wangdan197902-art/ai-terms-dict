@@ -1,23 +1,24 @@
 ---
-title: "Hosszú-rövid távú memória (LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Hosszú-rövid távú memória (LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /hu/terms/long_short_term_memory/
-date: "2026-07-18T15:38:24.763308Z"
-lastmod: "2026-07-18T17:15:09.742054Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:38:24.763308Z'
+lastmod: '2026-07-18T17:15:09.742054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy speciális rekurzív neurális hálózati architektúra, amelyet arra terveztek, hogy sorozatos adatokban hosszú távú függőségeket tanuljon meg."
+source: agnes_llm
+status: published
+language: hu
+description: Egy speciális rekurzív neurális hálózati architektúra, amelyet arra terveztek,
+  hogy sorozatos adatokban hosszú távú függőségeket tanuljon meg.
 ---
-
 ## Definition
 
 Az LSTM hálózatok megoldják a szabványos RNN-ekben gyakori eltűnő gradiens problémát egy cellaállapot és három kapu mechanizmus (bemeneti, elfelejtő és kimeneti kapuk) használatával. Ezek a kapuk szabályozzák az információ áramlását, lehetővé téve a modell számára, hogy megőrizze vagy töröljön információt a hosszú időn át tartó kontextusból.

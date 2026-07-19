@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /da/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T15:59:53.982788Z"
 lastmod: "2026-07-18T17:15:09.295564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En bogtitel, der udforsker skæringsfeltet mellem menneskelighed og teknologi, ofte citeret i diskussioner om AI-etik og fremtidens arbejde."
 ---
-
 ## Definition
 
 Denne frase refererer til et specifikt litterært værk, der undersøger, hvordan mennesker kan opretholde relevans og værdighed amidst hurtig teknologisk udvikling. I AI-diskurs fungerer det som en kulturel referenceramme

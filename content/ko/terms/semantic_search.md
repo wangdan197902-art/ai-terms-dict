@@ -1,23 +1,23 @@
 ---
-title: "시맨틱 검색(Semantic Search)"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: 시맨틱 검색(Semantic Search)
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /ko/terms/semantic_search/
-date: "2026-07-18T15:36:19.379624Z"
-lastmod: "2026-07-18T16:38:06.800345Z"
+slug: semantic_search
+date: '2026-07-18T15:36:19.379624Z'
+lastmod: '2026-07-18T16:38:06.800345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "단순히 키워드를 매칭하는 것이 아니라 쿼리 용어의 의미를 이해하는 검색 기술입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 단순히 키워드를 매칭하는 것이 아니라 쿼리 용어의 의미를 이해하는 검색 기술입니다.
 ---
-
 ## Definition
 
 시맨틱 검색은 단순한 키워드 매칭을 넘어 쿼리 뒤에 숨겨진 의도와 맥락적 의미를 해석합니다. 임베딩을 사용하여 텍스트를 고차원 공간의 벡터로 표현함으로써...

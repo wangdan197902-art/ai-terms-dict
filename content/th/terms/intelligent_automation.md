@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /th/terms/intelligent_automation/
 date: "2026-07-18T16:00:38.198018Z"
 lastmod: "2026-07-18T16:38:07.619721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การผสมผสานระหว่างปัญญาประดิษฐ์กับการทำให้กระบวนการหุ่นยนต์เป็นอัตโนมัติ (RPA) เพื่อจัดการกับกระบวนการทางธุรกิจที่ซับซ้อนและไม่เป็นโครงสร้าง"
 ---
-
 ## Definition
 
 การทำให้เป็นอัตโนมัติอย่างชาญฉลาดเป็นการบูรณาการ Robotic Process Automation (RPA) แบบดั้งเดิมเข้ากับเทคโนโลยี AI ขั้นสูง เช่น การเรียนรู้ของเครื่องและการประมวลผลภาษาธรรมชาติ ในขณะที่ RPA จัดการกับกฎเกณฑ์ที่เป็นโครงสร้าง

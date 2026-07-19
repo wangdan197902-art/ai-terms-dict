@@ -1,23 +1,24 @@
 ---
-title: "AI-compleet"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: AI-compleet
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /nl/terms/ai_complete/
-date: "2026-07-18T15:40:31.922993Z"
-lastmod: "2026-07-18T17:15:08.713555Z"
+slug: ai_complete
+date: '2026-07-18T15:40:31.922993Z'
+lastmod: '2026-07-18T17:15:08.713555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een probleem zo complex dat het oplossen ervan menselijke, algemene intelligentie vereist, wat gelijkstaat aan het bereiken van Artificial General Intelligence."
+source: agnes_llm
+status: published
+language: nl
+description: Een probleem zo complex dat het oplossen ervan menselijke, algemene intelligentie
+  vereist, wat gelijkstaat aan het bereiken van Artificial General Intelligence.
 ---
-
 ## Definition
 
 AI-complete problemen zijn taken die, indien opgelost, de aanwezigheid van Artificial General Intelligence (AGI) impliceren. Deze problemen vereisen een diep begrip, redeneringsvermogen en aanpassingsvermogen vergelijkbaar met dat van mensen.

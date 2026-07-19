@@ -1,23 +1,22 @@
 ---
-title: "代わりに"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: 代わりに
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /ja/terms/instead/
-date: "2026-07-18T10:51:55.883957Z"
-lastmod: "2026-07-18T11:44:45.011454Z"
+slug: instead
+date: '2026-07-18T10:51:55.883957Z'
+lastmod: '2026-07-18T11:44:45.011454Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Instead（代わりに）は、代替、置換、または他の行動に代わって取られる代替行動を示す接続詞または副詞です。"
+source: agnes_llm
+status: published
+language: ja
+description: Instead（代わりに）は、代替、置換、または他の行動に代わって取られる代替行動を示す接続詞または副詞です。
 ---
-
 ## Definition
 
 これは技術的なAIアルゴリズム用語ではありませんが、「instead」はプロンプトエンジニアリングや自然言語理解において重要です。これは節間の対比または置換関係を示します。LLMの訓練において、

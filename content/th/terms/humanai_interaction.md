@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /th/terms/humanai_interaction/
 date: "2026-07-18T15:59:00.258723Z"
 lastmod: "2026-07-18T16:38:07.615946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การศึกษาและปฏิบัติเกี่ยวกับวิธีการที่มนุษย์สื่อสาร ควบคุม และร่วมมือกับระบบปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 ปฏิสัมพันธ์ระหว่างมนุษย์กับ AI (HAI) เป็นสาขาวิชาข้ามศาสตร์ที่ศึกษาพลวัตระหว่างผู้คนและเทคโนโลยี AI โดยมุ่งเน้นไปที่การออกแบบอินเทอร์เฟซที่ใช้งานง่าย โปรโตคอลการสื่อสาร และรูปแบบการทำงานร่วมกันที่มีประสิทธิภาพ

@@ -1,23 +1,24 @@
 ---
-title: "Címkézési zaj"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Címkézési zaj
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /hu/terms/label_noise/
-date: "2026-07-18T16:09:33.414871Z"
-lastmod: "2026-07-18T17:15:09.800951Z"
+slug: label_noise
+date: '2026-07-18T16:09:33.414871Z'
+lastmod: '2026-07-18T17:15:09.800951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Hibák vagy inkonzisztenciák egy felügyelt gépi tanítási képzéshez használt adathalmaz célcímkéiben."
+source: agnes_llm
+status: published
+language: hu
+description: Hibák vagy inkonzisztenciák egy felügyelt gépi tanítási képzéshez használt
+  adathalmaz célcímkéiben.
 ---
-
 ## Definition
 
 A címkézési zaj az adatpontok valódi osztálycímkéi és a képzési adathalmazban megadott címkék közötti eltéréseket jelenti. Ez az emberi annotációs hibákból, a bizonytalan adatpontokból vagy a rendszeres mérési hibákból eredhet. A címkézési zaj jelenléte ronthatja a tanult modellek teljesítményét és általánosíthatóságát, ezért fontos a zajtűrő algoritmusok alkalmazása vagy az adatminőség javítása.

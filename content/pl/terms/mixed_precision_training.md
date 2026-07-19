@@ -1,23 +1,24 @@
 ---
-title: "Szkolenie mieszanej precyzji"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Szkolenie mieszanej precyzji
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /pl/terms/mixed_precision_training/
-date: "2026-07-18T16:07:27.638593Z"
-lastmod: "2026-07-18T17:15:08.897882Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:07:27.638593Z'
+lastmod: '2026-07-18T17:15:08.897882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika szkoleniowa wykorzystująca zarówno liczby zmiennoprzecinkowe 16-bitowe, jak i 32-bitowe, aby przyspieszyć obliczenia i zmniejszyć zużycie pamięci."
+source: agnes_llm
+status: published
+language: pl
+description: Technika szkoleniowa wykorzystująca zarówno liczby zmiennoprzecinkowe
+  16-bitowe, jak i 32-bitowe, aby przyspieszyć obliczenia i zmniejszyć zużycie pamięci.
 ---
-
 ## Definition
 
 Szkolenie mieszanej precyzji (MPT) łączy typy danych półprecyzyjne (FP16) i pełnej precyzji (FP32) podczas trenowania sieci neuronowych. Dzięki użyciu FP16 dla większości operacji, MPT zmniejsza ślad pamięciowy i zwiększa

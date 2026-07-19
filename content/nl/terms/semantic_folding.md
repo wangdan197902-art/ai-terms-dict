@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /nl/terms/semantic_folding/
 date: "2026-07-18T16:16:32.262591Z"
 lastmod: "2026-07-18T17:15:08.786014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een techniek die hoge-dimensionale semantische representaties kaart naar een ruimte met minder dimensies, waarbij relationele structuren behouden blijven."
 ---
-
 ## Definition
 
 Semantische vouwing verwijst naar het proces van het comprimeren van complexe, hoge-dimensionele vector embeddings naar een beheersbaardere representatie met minder dimensies, zonder significant verlies aan semantische betekenis.

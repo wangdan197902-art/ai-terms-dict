@@ -1,23 +1,22 @@
 ---
-title: "Symbal (표준 용어 아님)"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: Symbal (표준 용어 아님)
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /ko/terms/symbal/
-date: "2026-07-18T15:29:16.430355Z"
-lastmod: "2026-07-18T16:38:06.785175Z"
+slug: symbal
+date: '2026-07-18T15:29:16.430355Z'
+lastmod: '2026-07-18T16:38:06.785175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Symbal은 인공지능이나 컴퓨터 과학에서 표준적으로 인정되는 용어가 아닙니다."
+source: agnes_llm
+status: published
+language: ko
+description: Symbal은 인공지능이나 컴퓨터 과학에서 표준적으로 인정되는 용어가 아닙니다.
 ---
-
 ## Definition
 
 AI 용어 맥락에서 'Symbal'에 대한 확립된 정의는 없습니다. 이는 'Symbolic'(기호적)의 오타이거나 비표준 신조어일 수 있습니다. 엄격한 기술적 문맥에서

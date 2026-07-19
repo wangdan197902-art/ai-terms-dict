@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /no/terms/explanation_based_learning/
 date: "2026-07-18T15:54:00.451655Z"
 lastmod: "2026-07-18T16:38:06.999440Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Forklaringsbasert læring er en metode innen maskinlæring som bruker domenetekori og et enkelt trenings eksempel til å generere en forklaring, som deretter generaliseres til en ny regel."
 ---
-
 ## Definition
 
 EBL kombinerer symbolsk resonnement med maskinlæring for å akselerere læringsprosessen. I stedet for å stole på store datasett, tar den et enkelt positivt eksempel og bruker en forhåndsexisterende domenetekori.

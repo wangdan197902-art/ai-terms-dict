@@ -1,23 +1,22 @@
 ---
-title: "리인포스먼트 (보강)"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: 리인포스먼트 (보강)
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /ko/terms/reinforcement/
-date: "2026-07-18T15:28:10.934035Z"
-lastmod: "2026-07-18T16:38:06.782277Z"
+slug: reinforcement
+date: '2026-07-18T15:28:10.934035Z'
+lastmod: '2026-07-18T16:38:06.782277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "의사결정을 최적화하기 위해 보상이나 처벌을 통해 행동을 수정하는 과정을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 의사결정을 최적화하기 위해 보상이나 처벌을 통해 행동을 수정하는 과정을 의미합니다.
 ---
-
 ## Definition
 
 리인포스먼트(보강)는 에이전트의 행동이 결과에 의해 형성되는 근본적인 심리학적 및 계산적 메커니즘입니다. 머신러닝에서는 에이전트가 긍정적인 피드백(보상)을 받도록 유도함으로써 특정 목표를 달성하는 행동을 학습합니다. 이는 환경과의 상호작용을 통해 최적의 전략을 찾는 강화학습의 핵심 원리입니다.

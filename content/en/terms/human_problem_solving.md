@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /en/terms/human_problem_solving/
 date: "2026-07-18T10:01:25.452641Z"
 lastmod: "2026-07-18T11:44:44.682085Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The cognitive process by which individuals identify, analyze, and resolve complex issues using reasoning, creativity, and experience."
 ---
-
 ## Definition
 
 Human problem solving encompasses the multifaceted cognitive abilities humans employ to navigate challenges, ranging from simple tasks to abstract conceptual difficulties. Unlike algorithmic approaches, human problem solving often involves intuition, emotional intelligence, contextual understanding, and creative synthesis. In the context of AI, understanding these processes helps in designing systems that augment rather than replace human capabilities. It highlights the unique strengths of human cognition, such as handling ambiguity and applying moral judgment, which remain difficult for current AI systems to replicate fully without explicit guidance or extensive training data.

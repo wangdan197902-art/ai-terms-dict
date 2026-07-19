@@ -7,8 +7,6 @@ tags: ["Paradigms", "Architecture", "Autonomy"]
 difficulty: 3
 weight: 1
 slug: "agents"
-aliases:
-  - /tr/terms/agents/
 date: "2026-07-18T15:23:14.455811Z"
 lastmod: "2026-07-18T16:38:07.226834Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çevresini algılayan ve belirli hedeflere ulaşmak için eylemler gerçekleştiren otonom varlıklar."
 ---
-
 ## Definition
 
 Yapay zeka ajanları, sensörler (girdiler) aracılığıyla çevrelerini algılayabilen bilgi işleyebilen ve tanımlanmış hedeflere ulaşmak için aktüatörler (çıktılar) aracılığıyla eylemler gerçekleştirebilen yazılım programları veya sistemlerdir.

@@ -1,23 +1,25 @@
 ---
-title: "Incorporamento del kernel delle distribuzioni"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Incorporamento del kernel delle distribuzioni
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /it/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T16:06:15.531471Z"
-lastmod: "2026-07-18T17:15:08.639631Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T16:06:15.531471Z'
+lastmod: '2026-07-18T17:15:08.639631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica che mappa le distribuzioni di probabilità in uno spazio di Hilbert a nucleo riproducente per consentire il confronto e la manipolazione tramite operazioni vettoriali."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica che mappa le distribuzioni di probabilità in uno spazio di
+  Hilbert a nucleo riproducente per consentire il confronto e la manipolazione tramite
+  operazioni vettoriali.
 ---
-
 ## Definition
 
 L'Incorporamento del Kernel delle Distribuzioni permette agli oggetti probabilistici di essere trattati come punti in uno spazio delle caratteristiche ad alta dimensione chiamato Spazio di Hilbert a Nucleo Riproducibile (RKHS). Mappando le distribuzioni in

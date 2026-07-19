@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /en/terms/bench/
 date: "2026-07-18T09:30:18.556368Z"
 lastmod: "2026-07-18T11:44:44.593612Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Short for benchmark, a standard test set or metric used to evaluate AI model performance."
 ---
-
 ## Definition
 
 A benchmark serves as a standardized reference point for comparing the capabilities of different AI models or algorithms. It typically involves a curated dataset and specific evaluation metrics such as accuracy, latency, or F1 score. Using benchmarks ensures objective comparison across research and industry, helping developers identify state-of-the-art solutions and track progress in areas like natural language processing or computer vision.

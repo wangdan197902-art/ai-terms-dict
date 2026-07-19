@@ -1,23 +1,24 @@
 ---
-title: "Caratteristica casuale"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Caratteristica casuale
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /it/terms/random_feature/
-date: "2026-07-18T16:18:42.497308Z"
-lastmod: "2026-07-18T17:15:08.663908Z"
+slug: random_feature
+date: '2026-07-18T16:18:42.497308Z'
+lastmod: '2026-07-18T17:15:08.663908Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica che mappa i dati di input in uno spazio di dimensione superiore utilizzando proiezioni casuali per approssimare efficientemente i metodi kernel."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica che mappa i dati di input in uno spazio di dimensione superiore
+  utilizzando proiezioni casuali per approssimare efficientemente i metodi kernel.
 ---
-
 ## Definition
 
 Le mappe delle caratteristiche casuali trasformano gli input in un nuovo spazio in cui i modelli lineari possono approssimare funzioni kernel non lineari. Questo approccio, spesso associato al metodo di Nystrom o alle caratteristiche di Fourier, consente di scalare i metodi kernel a grandi dataset.

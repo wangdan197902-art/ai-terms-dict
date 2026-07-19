@@ -1,23 +1,24 @@
 ---
-title: "Hårdvara för artificiell intelligens"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Hårdvara för artificiell intelligens
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /sv/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T16:01:04.527341Z"
-lastmod: "2026-07-18T17:15:09.010370Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T16:01:04.527341Z'
+lastmod: '2026-07-18T17:15:09.010370Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Specialiserade fysiska komponenter utformade för att accelerera de beräkningsmässiga kraven från maskininlärningsalgoritmer och träning av neuralt nätverk."
+source: agnes_llm
+status: published
+language: sv
+description: Specialiserade fysiska komponenter utformade för att accelerera de beräkningsmässiga
+  kraven från maskininlärningsalgoritmer och träning av neuralt nätverk.
 ---
-
 ## Definition
 
 AI-hårdvara syftar på specialiserade beräkningsenheter optimerade för den massiva parallella bearbetning som krävs av maskininlärningsarbetsbelastningar. Detta inkluderar Grafikprocessorer (GPUs) för allmän parallellbearbetning, Tensor Processing Units (TPUs) specifikt designade för tensoroperationer i djupinlärning, samt neuromorfisk hårdvara som efterliknar hjärnans arkitektur. Denna hårdvara möjliggör snabbare träning av komplexa modeller och lägre latens vid inferens jämfört med traditionella CPU:er.

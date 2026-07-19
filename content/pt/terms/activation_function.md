@@ -1,23 +1,25 @@
 ---
-title: "Função de Ativação"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Função de Ativação
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /pt/terms/activation_function/
-date: "2026-07-18T14:42:43.133248Z"
-lastmod: "2026-07-18T15:51:59.447166Z"
+slug: activation_function
+date: '2026-07-18T14:42:43.133248Z'
+lastmod: '2026-07-18T15:51:59.447166Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma equação matemática que determina a saída de um nó de rede neural com base em seu sinal de entrada."
+source: agnes_llm
+status: published
+language: pt
+description: Uma equação matemática que determina a saída de um nó de rede neural
+  com base em seu sinal de entrada.
 ---
-
 ## Definition
 
 Uma função de ativação introduz não-linearidade em uma rede neural, permitindo que ela aprenda padrões e relações complexos dentro dos dados. Sem essas funções, uma rede multicamela se comportaria

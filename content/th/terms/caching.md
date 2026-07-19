@@ -1,23 +1,24 @@
 ---
-title: "การแคช (Caching)"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: การแคช (Caching)
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /th/terms/caching/
-date: "2026-07-18T15:44:51.585554Z"
-lastmod: "2026-07-18T16:38:07.581742Z"
+slug: caching
+date: '2026-07-18T15:44:51.585554Z'
+lastmod: '2026-07-18T16:38:07.581742Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การแคชคือเทคนิคการเก็บข้อมูลที่เข้าถึงบ่อยไว้ในชั้นจัดเก็บชั่วคราวที่มีความเร็วสูง เพื่อลดเวลาแฝงและลดภาระงานบนแหล่งข้อมูลหลัก"
+source: agnes_llm
+status: published
+language: th
+description: การแคชคือเทคนิคการเก็บข้อมูลที่เข้าถึงบ่อยไว้ในชั้นจัดเก็บชั่วคราวที่มีความเร็วสูง
+  เพื่อลดเวลาแฝงและลดภาระงานบนแหล่งข้อมูลหลัก
 ---
-
 ## Definition
 
 ในวิศวกรรมปัญญาประดิษฐ์ การแคชช่วยเพิ่มประสิทธิภาพการทำงานโดยการเก็บผลลัพธ์จากการสอบถามล่าสุดหรือที่พบบ่อย คำทำนายของโมเดล หรือการคำนวณขั้นกลางไว้ในหน่วยความจำเร็ว (เช่น RAM) ซึ่งช่วยลดความจำเป็นในการเรียกข้อมูลจากแหล่งที่มาที่ใช้เวลานานหรือมีค่าใช้จ่ายสูง

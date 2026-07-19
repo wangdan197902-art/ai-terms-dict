@@ -1,23 +1,24 @@
 ---
-title: "Tudásalapú rendszerek"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Tudásalapú rendszerek
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /hu/terms/knowledge_based_systems/
-date: "2026-07-18T16:09:33.414734Z"
-lastmod: "2026-07-18T17:15:09.800427Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:09:33.414734Z'
+lastmod: '2026-07-18T17:15:09.800427Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az AI rendszerek, amelyek kifejezett tudásbázisokat és következtető motorokat használnak a komplex problémák megoldására, amelyek emberi szakértelemre szorulnak."
+source: agnes_llm
+status: published
+language: hu
+description: Az AI rendszerek, amelyek kifejezett tudásbázisokat és következtető motorokat
+  használnak a komplex problémák megoldására, amelyek emberi szakértelemre szorulnak.
 ---
-
 ## Definition
 
 A tudásalapú rendszerek (KBS) az mesterséges intelligencia egy ága, amely specifikus területi tudást integrál egy számítógépes rendszerbe ahhoz, hogy olyan feladatokat végezzen, amelyekhez általában emberi szakértelem szükséges. Ezek a rendszerek képesek modellezni és alkalmazni a szakértői ismereteket a döntéshozatalban és a problémamegoldásban.

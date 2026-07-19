@@ -1,23 +1,24 @@
 ---
-title: "Apprentissage du modèle d'action"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Apprentissage du modèle d'action
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /fr/terms/action_model_learning/
-date: "2026-07-18T11:03:46.527840Z"
-lastmod: "2026-07-18T11:44:45.194554Z"
+slug: action_model_learning
+date: '2026-07-18T11:03:46.527840Z'
+lastmod: '2026-07-18T11:44:45.194554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'apprentissage par renforcement où un agent apprend la dynamique de son environnement en observant les effets de ses propres actions."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'apprentissage par renforcement où un agent apprend la
+  dynamique de son environnement en observant les effets de ses propres actions.
 ---
-
 ## Definition
 
 L'apprentissage du modèle d'action implique qu'un agent construise une représentation interne de la manière dont ses actions font passer l'environnement d'un état à un autre. Contrairement à l'observation passive, cette méthode exploite les interactions actives pour affiner sa compréhension.

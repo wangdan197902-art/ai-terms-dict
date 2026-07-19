@@ -7,8 +7,6 @@ tags: ["LLM", "Versioning", "Performance"]
 difficulty: 2
 weight: 1
 slug: "kimi_k25"
-aliases:
-  - /vi/terms/kimi_k25/
 date: "2026-07-18T15:58:59.615768Z"
 lastmod: "2026-07-18T16:38:07.772547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Kimi K25 là biến thể mô hình ngôn ngữ lớn tiếp theo từ Moonshot AI, với những tinh chỉnh hiệu suất và hiệu quả hơn so với các phiên bản trước."
 ---
-
 ## Definition
 
 Kimi K25 là một phiên bản nâng cấp trong họ mô hình Kimi do Moonshot AI sản xuất. Nó kế thừa nền tảng của các phiên bản trước như Kimi K2, mang lại những cải thiện về tốc độ suy luận (inference) và

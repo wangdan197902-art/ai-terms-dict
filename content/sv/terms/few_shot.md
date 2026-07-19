@@ -1,23 +1,24 @@
 ---
-title: "few-shot"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /sv/terms/few_shot/
-date: "2026-07-18T15:33:15.350151Z"
-lastmod: "2026-07-18T17:15:08.956315Z"
+slug: few_shot
+date: '2026-07-18T15:33:15.350151Z'
+lastmod: '2026-07-18T17:15:08.956315Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En inlärningsparadigm där en modell utför en uppgift korrekt efter att ha exponerats för endast ett fåtal märkta exempel."
+source: agnes_llm
+status: published
+language: sv
+description: En inlärningsparadigm där en modell utför en uppgift korrekt efter att
+  ha exponerats för endast ett fåtal märkta exempel.
 ---
-
 ## Definition
 
 Few-shot-inlärning möjliggör för maskininlärningsmodeller att generalisera från mycket begränsad data, vanligtvis mellan ett och tio exempel per klass. Till skillnad från traditionell övervakad inlärning som kräver tusentals...

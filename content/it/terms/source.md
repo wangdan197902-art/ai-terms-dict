@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /it/terms/source/
 date: "2026-07-18T15:29:24.301160Z"
 lastmod: "2026-07-18T17:15:08.574851Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce all'origine di dati, codice o modelli utilizzati nello sviluppo e nella distribuzione dell'IA."
 ---
-
 ## Definition
 
 Nei contesti dell'IA, 'fonte' denota tipicamente la provenienza dei dataset di addestramento, delle librerie open source o dei pesi dei modelli pre-addestrati. Tracciare le fonti è fondamentale per la riproducibilità, la conformità alle licenze...

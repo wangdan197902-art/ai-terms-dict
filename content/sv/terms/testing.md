@@ -1,23 +1,24 @@
 ---
-title: "Testning"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testning
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /sv/terms/testing/
-date: "2026-07-18T15:40:47.756433Z"
-lastmod: "2026-07-18T17:15:08.967731Z"
+slug: testing
+date: '2026-07-18T15:40:47.756433Z'
+lastmod: '2026-07-18T17:15:08.967731Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den systematiska processen att utvärdera en AI-modells prestanda och tillförlitlighet på osett data för att säkerställa kvalitet och säkerhet."
+source: agnes_llm
+status: published
+language: sv
+description: Den systematiska processen att utvärdera en AI-modells prestanda och
+  tillförlitlighet på osett data för att säkerställa kvalitet och säkerhet.
 ---
-
 ## Definition
 
 Testning inom AI-teknik innebär att noggrant bedöma modeller mot olika dataset för att identifiera bias, fel och robusthetsproblem. Det inkluderar enhetstester för kodkomponenter, integrationstester och mer.

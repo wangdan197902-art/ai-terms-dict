@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /pt/terms/graphs/
 date: "2026-07-18T14:35:49.416026Z"
 lastmod: "2026-07-18T15:51:59.431010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A forma plural referindo-se a múltiplas estruturas de grafos ou representações visuais de tendências de dados em aprendizado de máquina."
 ---
-
 ## Definition
 
 Enquanto o singular 'grafo' refere-se à estrutura abstrata de dados, 'grafos' frequentemente denota múltiplas instâncias distintas de grafos ou gráficos visuais usados no monitoramento de ML. Em visualização, incluem-se gráficos de linha ou barras.

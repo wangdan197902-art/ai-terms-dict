@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /de/terms/last_mile/
 date: "2026-07-18T11:21:06.047171Z"
 lastmod: "2026-07-18T11:44:44.957213Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die letzte Phase der Bereitstellung von KI-Lösungen von der Entwicklungsumgebung hin zu Endanwendern in realen Betriebsumgebungen."
 ---
-
 ## Definition
 
 Das „Last-Mile“-Problem bezieht sich auf die Herausforderungen bei der Bereitstellung von Modellen in der Produktion, einschließlich der Integration in bestehende Infrastrukturen, der Sicherstellung einer Latenzarmen Inferenz und der Handhabung von Edge Cases (Sonderfällen).

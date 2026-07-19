@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /vi/terms/learning_based/
 date: "2026-07-18T15:31:11.284316Z"
 lastmod: "2026-07-18T16:38:07.702152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các phương pháp mà thuật toán cải thiện hiệu suất thông qua kinh nghiệm thay vì các quy tắc lập trình rõ ràng."
 ---
-
 ## Definition
 
 Các cách tiếp cận dựa trên học máy dựa vào các thuật toán thống kê để nhận diện các mẫu hình và đưa ra quyết định dựa trên việc tiếp xúc với dữ liệu, tương phản với các hệ thống dựa trên quy tắc. Danh mục này bao gồm học có giám sát, học không giám sát và học tăng cường.

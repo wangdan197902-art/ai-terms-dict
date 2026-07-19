@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /he/terms/chain/
 date: "2026-07-18T15:47:32.569540Z"
 lastmod: "2026-07-18T17:15:09.519093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שרשרת היא רצף של שלבים או מודולים מחוברים המעבדים נתונים ברציפות כדי לבצע משימה מורכבת."
 ---
-
 ## Definition
 
 בפיתוח יישומי בינה מלאכותית, שרשרת מתייחסת למבנה גרפי ליניארי או מכוון שבו רכיבים מרובים, כגון קריאות ל-LLM, מפענחים או כלים חיצוניים, מקושרים זה לזה. הנתונים זורמים מאחד לשני.

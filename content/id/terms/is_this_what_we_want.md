@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /id/terms/is_this_what_we_want/
 date: "2026-07-18T15:56:23.067534Z"
 lastmod: "2026-07-18T16:38:07.472248Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka etika kritis yang digunakan untuk mengevaluasi sistem AI terhadap nilai-nilai masyarakat, keadilan, dan konsekuensi berbahaya potensial."
 ---
-
 ## Definition
 
 Frasa ini mewakili pertanyaan sentral dalam etika dan tata kelola AI, yang mendorong para pemangku kepentingan untuk menilai apakah teknologi AI yang diterapkan selaras dengan nilai-nilai manusia dan kepentingan publik. Evaluasi ini melibatkan tinjauan menyeluruh terhadap dampak sosial, potensi bias algoritmik, transparansi, dan akuntabilitas, memastikan bahwa inovasi teknologi tidak mengorbankan hak asasi manusia atau kesejahteraan sosial demi efisiensi teknis semata.

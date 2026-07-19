@@ -1,23 +1,24 @@
 ---
-title: "Asynchrone Verarbeitung"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Asynchrone Verarbeitung
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /de/terms/async_processing/
-date: "2026-07-18T11:03:47.816428Z"
-lastmod: "2026-07-18T11:44:44.911477Z"
+slug: async_processing
+date: '2026-07-18T11:03:47.816428Z'
+lastmod: '2026-07-18T11:44:44.911477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Programmierparadigma, bei dem Aufgaben unabhängig vom Hauptausführungsthread ausgeführt werden, was nicht-blockierende Operationen ermöglicht."
+source: agnes_llm
+status: published
+language: de
+description: Ein Programmierparadigma, bei dem Aufgaben unabhängig vom Hauptausführungsthread
+  ausgeführt werden, was nicht-blockierende Operationen ermöglicht.
 ---
-
 ## Definition
 
 Asynchrone Verarbeitung ermöglicht es Software, langlaufende Aufgaben wie E/A-Operationen oder komplexe Berechnungen durchzuführen, ohne die Benutzeroberfläche der Hauptanwendung einzufrieren oder andere Prozesse zu blockieren. Durch d

@@ -1,23 +1,24 @@
 ---
-title: "Ajan Doğrulaması"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Ajan Doğrulaması
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /tr/terms/agent_verification/
-date: "2026-07-18T15:40:06.379485Z"
-lastmod: "2026-07-18T16:38:07.270347Z"
+slug: agent_verification
+date: '2026-07-18T15:40:06.379485Z'
+lastmod: '2026-07-18T16:38:07.270347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ajan doğrulaması, otonom bir ajanın belirtilen tüm koşullar altında doğru ve güvenli davrandığını resmen kanıtlayan süreçtir."
+source: agnes_llm
+status: published
+language: tr
+description: Ajan doğrulaması, otonom bir ajanın belirtilen tüm koşullar altında doğru
+  ve güvenli davrandığını resmen kanıtlayan süreçtir.
 ---
-
 ## Definition
 
 Bu süreç, bir ajanın eylemlerinin güvenlik sınırları veya etik yönergeler gibi önceden tanımlanmış kısıtlamalara uyduğunu sağlamak için matematiksel yöntemler kullanır. Özellikle kritik ortamlarda çalışan ajanlar için büyük önem taşır.

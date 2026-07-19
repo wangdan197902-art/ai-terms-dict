@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /fi/terms/transformers/
 date: "2026-07-18T15:32:15.090668Z"
 lastmod: "2026-07-18T17:15:09.361885Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tässä yhteydessä viittaa Hugging Facen Transformers-kirjastoon, suosittuun avoimen lähdekoodin työkalupakkiin huippuluokan luonnollisen kielen käsittelyn ja multimodaalisten mallien kehittämiseen."
 ---
-
 ## Definition
 
 Termi 'Transformers' viittaa usein laajasti käytettyyn Python-kirjastoon, jota ylläpitää Hugging Face. Se tarjoaa helppokäyttöiset rajapinnat esikoulutettujen mallien lataamiseen, kouluttamiseen ja käyttöönottoon perustuen yhteisön tuottamaan infrastruktuuriin.

@@ -1,23 +1,23 @@
 ---
-title: "Lógica de Descrição"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Lógica de Descrição
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /pt/terms/description_logic/
-date: "2026-07-18T14:57:26.078537Z"
-lastmod: "2026-07-18T15:51:59.484508Z"
+slug: description_logic
+date: '2026-07-18T14:57:26.078537Z'
+lastmod: '2026-07-18T15:51:59.484508Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma família de linguagens formais de representação de conhecimento usadas para representar e raciocinar sobre a estrutura conceitual de domínios."
+source: agnes_llm
+status: published
+language: pt
+description: Uma família de linguagens formais de representação de conhecimento usadas
+  para representar e raciocinar sobre a estrutura conceitual de domínios.
 ---
-
 ## Definition
 
 As Lógicas de Descrição (DL) são fragmentos decidíveis da lógica de primeira ordem que formam a base teórica para ontologias, particularmente a Linguagem de Ontologia da Web (OWL). Elas permitem a definição precisa

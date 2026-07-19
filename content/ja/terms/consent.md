@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /ja/terms/consent/
 date: "2026-07-18T11:08:51.058138Z"
 lastmod: "2026-07-18T11:44:45.080224Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "個人が、AI目的のために自身のデータ収集および処理を許可することへの明示的かつ十分な情報に基づく合意。"
 ---
-
 ## Definition
 
 AI倫理において、同意とは、ユーザーや被験者が自身の個人データを収集、保存、または機械学習モデルで利用する前に、自発的かつ十分な情報に基づいて与える許可を指します。これは、データ主体の権利尊重と透明性を確保するために不可欠です。

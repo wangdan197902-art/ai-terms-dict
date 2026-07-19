@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /vi/terms/energy/
 date: "2026-07-18T15:24:38.024720Z"
 lastmod: "2026-07-18T16:38:07.683686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong AI, năng lượng thường đề cập đến sức mạnh tính toán tiêu thụ trong quá trình đào tạo và suy luận của mô hình, hoặc một hàm thế năng toán học trong các mô hình xác suất."
 ---
-
 ## Definition
 
 Năng lượng có hai ý nghĩa chính trong AI. Thứ nhất, nó chỉ điện năng cần thiết để chạy phần cứng, một mối quan tâm ngày càng tăng về tính bền vững khi các mô hình phát triển. Thứ hai, trong các mô hình dựa trên cơ học thống kê (như Mô hình Năng lượng - Energy-Based Models), năng lượng là một hàm toán học gán giá trị thấp cho các cấu hình dữ liệu hợp lệ và cao cho các cấu hình không hợp lệ, đóng vai trò then chốt trong việc học biểu diễn và suy luận xác suất.

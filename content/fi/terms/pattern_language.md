@@ -1,23 +1,24 @@
 ---
-title: "Kuvakieli"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: Kuvakieli
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /fi/terms/pattern_language/
-date: "2026-07-18T16:15:03.316797Z"
-lastmod: "2026-07-18T17:15:09.442574Z"
+slug: pattern_language
+date: '2026-07-18T16:15:03.316797Z'
+lastmod: '2026-07-18T17:15:09.442574Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Rakenteellinen kokoelma toisiinsa liittyviä suunnitteluratkaisuja, jotka käsittelevät toistuvia ongelmia ohjelmisto- tai järjestelmäarkkitehtuurissa."
+source: agnes_llm
+status: published
+language: fi
+description: Rakenteellinen kokoelma toisiinsa liittyviä suunnitteluratkaisuja, jotka
+  käsittelevät toistuvia ongelmia ohjelmisto- tai järjestelmäarkkitehtuurissa.
 ---
-
 ## Definition
 
 Kuvakieli on formalisoitu kehikko, joka koostuu joukosta todistettuja ratkaisuja yleisiin suunnittelussa, erityisesti ohjelmistotuotannossa ja kaupunkisuunnittelussa, koettuihin ongelmiin. Jokainen kuvio des...

@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /no/terms/differential_privacy/
 date: "2026-07-18T15:51:31.347946Z"
 lastmod: "2026-07-18T16:38:06.993639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et strengt matematisk rammeverk som sikrer at inkludering eller ekskludering av en enkelt individs data ikke påvirker utfallet av en analyse betydelig."
 ---
-
 ## Definition
 
 Differensielt personvern gir sterke personverngarantier ved å legge til kalibrert statistisk støy på spørringsresultater eller modellparametere. Det kvantifiserer den maksimale mengden informasjonsslekkasje om noen s

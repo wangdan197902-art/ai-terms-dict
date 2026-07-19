@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้ต่อเนื่อง"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: การเรียนรู้ต่อเนื่อง
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /th/terms/continual_learning/
-date: "2026-07-18T15:46:48.703140Z"
-lastmod: "2026-07-18T16:38:07.589183Z"
+slug: continual_learning
+date: '2026-07-18T15:46:48.703140Z'
+lastmod: '2026-07-18T16:38:07.589183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนทัศน์การเรียนรู้ของเครื่องที่โมเดลเรียนรู้จากข้อมูลใหม่แบบเรียงลำดับโดยไม่ลืมความรู้เดิม"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนทัศน์การเรียนรู้ของเครื่องที่โมเดลเรียนรู้จากข้อมูลใหม่แบบเรียงลำดับโดยไม่ลืมความรู้เดิม
 ---
-
 ## Definition
 
 การเรียนรู้ต่อเนื่อง หรือที่เรียกว่าการเรียนรู้ตลอดชีวิต (Lifelong Learning) ช่วยให้เครือข่ายประสาทเทียมสามารถพัฒนาทักษะหรือรับข้อมูลใหม่ๆ ได้ตลอดเวลา ในขณะที่ยังคงรักษาความสามารถที่เคยเรียนรู้ไว้ได้ sebelumnya วิธีนี้ช่วยแก้ปัญหา 'การลืมอย่างรุนแรง' (Catastrophic Forgetting) ที่มักเกิดขึ้นเมื่อโมเดลถูกฝึกด้วยข้อมูลชุดใหม่

@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /fi/terms/vision_language/
 date: "2026-07-18T15:39:15.416874Z"
 lastmod: "2026-07-18T17:15:09.376561Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Visuaalisen kielen mallit ovat tekoäljärjestelmiä, jotka käsittelevät ja yhdistävät visuaalista dataa tekstuaaliseen informaatioon ymmärtääkseen monimuotoisia konteksteja."
 ---
-
 ## Definition
 
 Visuaalisen kielen mallit, joita kutsutaan usein monimuotoisiksi suuriksi kielimalleiksi (MLLM), integroivat konetajua ja luonnollisen kielen käsittelyä. Ne mahdollistavat tekoälyn ymmärtävän kuvia ja tuottavan tekstiä

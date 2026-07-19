@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /cs/terms/personality_computing/
 date: "2026-07-18T16:12:40.114092Z"
 lastmod: "2026-07-18T17:15:09.188961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obor zaměřený na vytváření výpočetních modelů, které simulují lidské osobnostní rysy za účelem zlepšení interakce člověka s počítačem."
 ---
-
 ## Definition
 
 Výpočetní psychologie osobnosti zahrnuje vývoj algoritmů a systémů schopných modelovat, simulovat nebo přizpůsobovat se lidským rozměrům osobnosti, jako jsou pět velkých rysů (Big Five). Tyto systémy mají za cíl vytvořit

@@ -1,23 +1,24 @@
 ---
-title: "Дообученный"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Дообученный
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /ru/terms/finetuned/
-date: "2026-07-18T15:53:38.756861Z"
-lastmod: "2026-07-18T16:38:07.157817Z"
+slug: finetuned
+date: '2026-07-18T15:53:38.756861Z'
+lastmod: '2026-07-18T16:38:07.157817Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс дополнительной тренировки предварительно обученной модели на конкретном наборе данных для адаптации ее к определенной задаче."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс дополнительной тренировки предварительно обученной модели на
+  конкретном наборе данных для адаптации ее к определенной задаче.
 ---
-
 ## Definition
 
 Дообучение относится к технике использования модели, которая уже была обучена на большом общем наборе данных, и продолжения ее обучения на меньшем наборе данных, специфичном для конкретной области. Это позволяет модели адаптировать свои общие знания к узкоспециализированным задачам.

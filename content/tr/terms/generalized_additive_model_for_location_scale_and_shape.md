@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /tr/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T15:54:45.167934Z"
 lastmod: "2026-07-18T16:38:07.312393Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "GAMLSS, dağılımın tüm parametrelerinin açıklayıcı değişkenlerin fonksiyonları olarak toplamlı düzgünleştiriciler kullanılarak modellenmesine olanak tanıyan esnek bir istatistiksel çerçevedir."
 ---
-
 ## Definition
 
 Sadece ortalamaya odaklanan geleneksel regresyon modellerinin aksine, GAMLSS konum (ortalama/medyan), ölçek (varyans), çarpıklık ve basıklık dahil olmak üzere tüm dağılımı modeller. Genelleştirilmiş lineer modelleri temel alır.

@@ -1,23 +1,25 @@
 ---
-title: "Completo para IA"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: Completo para IA
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /es/terms/ai_complete/
-date: "2026-07-18T10:34:13.970115Z"
-lastmod: "2026-07-18T11:44:44.771317Z"
+slug: ai_complete
+date: '2026-07-18T10:34:13.970115Z'
+lastmod: '2026-07-18T11:44:44.771317Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un problema tan complejo que resolverlo requiere una inteligencia general similar a la humana, lo que lo hace equivalente a lograr la Inteligencia Artificial General."
+source: agnes_llm
+status: published
+language: es
+description: Un problema tan complejo que resolverlo requiere una inteligencia general
+  similar a la humana, lo que lo hace equivalente a lograr la Inteligencia Artificial
+  General.
 ---
-
 ## Definition
 
 Los problemas completos para IA son tareas que, si se resuelven, implicarían la existencia de Inteligencia Artificial General (IAG). Estos problemas requieren comprensión profunda, razonamiento y adaptabilidad similares a los humanos.

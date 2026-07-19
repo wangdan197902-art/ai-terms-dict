@@ -1,23 +1,24 @@
 ---
-title: "Toksykowość"
-term_id: "toxicity"
-category: "ethics_safety"
-subcategory: ""
-tags: ["safety", "ethics", "nlp"]
+title: Toksykowość
+term_id: toxicity
+category: ethics_safety
+subcategory: ''
+tags:
+- safety
+- ethics
+- NLP
 difficulty: 2
 weight: 1
-slug: "toxicity"
-aliases:
-  - /pl/terms/toxicity/
-date: "2026-07-18T16:21:08.001152Z"
-lastmod: "2026-07-18T17:15:08.925509Z"
+slug: toxicity
+date: '2026-07-18T16:21:08.001152Z'
+lastmod: '2026-07-18T17:15:08.925509Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Obecność szkodliwej, obraźliwej lub nękania treści w tekście generowanym przez SI, w tym mowy nienawiści, prześladowań i zagrożeń."
+source: agnes_llm
+status: published
+language: pl
+description: Obecność szkodliwej, obraźliwej lub nękania treści w tekście generowanym
+  przez SI, w tym mowy nienawiści, prześladowań i zagrożeń.
 ---
-
 ## Definition
 
 Toksykowość w SI odnosi się do generowania lub rozpowszechniania treści, które są nieuszanujące, mogą skłonić kogoś do opuszczenia dyskusji lub skupiają się na konkretnej tożsamości. Obejmuje spektrum od...

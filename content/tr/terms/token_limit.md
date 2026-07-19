@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /tr/terms/token_limit/
 date: "2026-07-18T15:37:44.533056Z"
 lastmod: "2026-07-18T16:38:07.264794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka modelinin tek bir girdi veya çıktı dizisi içinde işleyebileceği maksimum token sayısı."
 ---
-
 ## Definition
 
 Token limiti, büyük dil modelleri için bağlam penceresi boyutu kısıtlamasını tanımlar ve aynı anda ne kadar metnin analiz edilebileceğini veya üretilebileceğini sınırlar. Bu mimari sınır, bellek yönetimini etkiler.

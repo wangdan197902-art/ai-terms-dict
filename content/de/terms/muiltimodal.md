@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /de/terms/muiltimodal/
 date: "2026-07-18T11:24:37.027488Z"
 lastmod: "2026-07-18T11:44:44.967331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Multimodal bezieht sich auf KI-Systeme, die verschiedene Datentypen (Modalitäten) wie Text, Bilder und Audio gleichzeitig verarbeiten und integrieren."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz beschreibt Multimodalität die Fähigkeit eines Modells, Informationen über verschiedene sensorische Eingaben oder Datenformate hinweg zu verstehen, zu generieren oder in Beziehung zu setzen. Im Gegensatz zu unimodalen Modellen...

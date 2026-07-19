@@ -1,23 +1,23 @@
 ---
-title: "レイヤー正規化"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: レイヤー正規化
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /ko/terms/layer_normalization/
-date: "2026-07-18T16:01:50.719537Z"
-lastmod: "2026-07-18T16:38:06.859605Z"
+slug: layer_normalization
+date: '2026-07-18T16:01:50.719537Z'
+lastmod: '2026-07-18T16:38:06.859605Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "個々のサンプルごとに、ニューラルネットワークの層の活性化値を特徴量次元に対して正規化する手法。"
+source: agnes_llm
+status: published
+language: ko
+description: 個々のサンプルごとに、ニューラルネットワークの層の活性化値を特徴量次元に対して正規化する手法。
 ---
-
 ## Definition
 
 レイヤー正規化は、内部共変量シフトを軽減することでトレーニングの安定化を図ります。特にリカレントニューラルネットワークやトランスフォーマーアーキテクチャで効果的です。バッチ統計量に依存するバッチ正規化とは異なり、バッチサイズが小さい場合でも安定して動作します。

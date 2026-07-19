@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /cs/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:52:50.999995Z"
 lastmod: "2026-07-18T17:15:09.120992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Technika, která využívá AI k zvětšování obrazů nižšího rozlišení na vyšší rozlišení s vylepšenými detaily a sníženými artefakty."
 ---
-
 ## Definition
 
 Deep Learning Super Sampling (DLSS) je technologie, která využívá neuronové sítě k rekonstrukci obrazů s vysokým rozlišením z vstupů s nižším rozlišením. Analýzou časových a prostorových informací dokáže efektivně generovat detaily, které by jinak vyžadovaly vyšší výpočetní výkon.

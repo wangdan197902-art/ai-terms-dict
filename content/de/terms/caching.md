@@ -1,23 +1,25 @@
 ---
-title: "Caching"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Caching
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /de/terms/caching/
-date: "2026-07-18T11:07:01.992768Z"
-lastmod: "2026-07-18T11:44:44.916472Z"
+slug: caching
+date: '2026-07-18T11:07:01.992768Z'
+lastmod: '2026-07-18T11:44:44.916472Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Caching ist eine Technik zum Speichern häufig zugriffener Daten in einer temporären, hochgeschwindigen Speicher Ebene, um Latenzzeiten zu reduzieren und die Last auf primären Datenquellen zu verringer"
+source: agnes_llm
+status: published
+language: de
+description: Caching ist eine Technik zum Speichern häufig zugriffener Daten in einer
+  temporären, hochgeschwindigen Speicher Ebene, um Latenzzeiten zu reduzieren und
+  die Last auf primären Datenquellen zu verringer
 ---
-
 ## Definition
 
 Im KI-Engineering optimiert Caching die Leistung, indem aktuelle oder häufig angefragte Ergebnisse, Modellvorhersagen oder Zwischenergebnisse im schnellen Speicher (wie RAM) gehalten werden. Dies reduziert die Notwendigkeit teurer...

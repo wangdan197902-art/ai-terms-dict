@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /he/terms/google_colab/
 date: "2026-07-18T16:01:54.088828Z"
 lastmod: "2026-07-18T17:15:09.544274Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "סביבת מחברת Jupyter מבוססת ענן המאפשרת למשתמשים לכתוב ולהריץ קוד Python דרך הדפדפן עם גישה חינמית לכרטיסי מסך (GPUs)."
 ---
-
 ## Definition
 
 Google Colaboratory, הידועה בדרך כלל כ-Colab, היא שירות מחברות Jupyter מארח הדורש התקנה מוקדמת ואינה מספקת גישה חינמית למשאבי מחשוב, כולל יחידות עיבוד גרפי (GPUs) ו-

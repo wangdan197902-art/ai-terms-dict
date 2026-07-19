@@ -1,23 +1,24 @@
 ---
-title: "Surrogatmodell"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Surrogatmodell
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /de/terms/surrogate_model/
-date: "2026-07-18T11:35:08.767318Z"
-lastmod: "2026-07-18T11:44:44.989893Z"
+slug: surrogate_model
+date: '2026-07-18T11:35:08.767318Z'
+lastmod: '2026-07-18T11:44:44.989893Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein vereinfachtes mathematisches Modell, das verwendet wird, um das Verhalten eines komplexeren, rechenintensiveren oder unzugänglichen Black-Box-Modells anzunähern."
+source: agnes_llm
+status: published
+language: de
+description: Ein vereinfachtes mathematisches Modell, das verwendet wird, um das Verhalten
+  eines komplexeren, rechenintensiveren oder unzugänglichen Black-Box-Modells anzunähern.
 ---
-
 ## Definition
 
 Im maschinellen Lernen und in der Optimierung dient ein Surrogatmodell als Stellvertreter für eine Zielfunktion, die direkt schwer zu bewerten ist. Es wird anhand von Eingabe-Ausgabe-Paaren des ursprünglichen Modells trainiert, um...

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /ko/terms/governance/
 date: "2026-07-18T15:57:41.310082Z"
 lastmod: "2026-07-18T16:38:06.846425Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템이 책임감 있고 윤리적으로 개발 및 배포되도록 보장하기 위해 수립된 정책, 표준 및 감독 메커니즘의 프레임워크입니다."
 ---
-
 ## Definition
 
 AI 거버넌스는 인공지능의 생성, 사용 및 감사를 관리하는 규칙, 가이드라인 및 제도적 구조의 집합을 의미합니다. 여기에는 법적 준수, 윤리적 고려사항 등이 포함됩니다.

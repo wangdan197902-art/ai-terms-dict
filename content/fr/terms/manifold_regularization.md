@@ -1,23 +1,25 @@
 ---
-title: "Régularisation de variété"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Régularisation de variété
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /fr/terms/manifold_regularization/
-date: "2026-07-18T11:29:15.741831Z"
-lastmod: "2026-07-18T11:44:45.290240Z"
+slug: manifold_regularization
+date: '2026-07-18T11:29:15.741831Z'
+lastmod: '2026-07-18T11:44:45.290240Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'apprentissage semi-supervisé qui suppose que les données reposent sur une variété de faible dimension et régularise le modèle en fonction de cette structure géométrique."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'apprentissage semi-supervisé qui suppose que les données
+  reposent sur une variété de faible dimension et régularise le modèle en fonction
+  de cette structure géométrique.
 ---
-
 ## Definition
 
 La régularisation de variété étend les méthodes de régularisation traditionnelles en incorporant la géométrie intrinsèque de la distribution des données. Elle repose sur l'hypothèse que les points de données de haute dimension sont structurés selon une variété de faible dimension, permettant ainsi d'exploiter la topologie sous-jacente pour améliorer la généralisation du modèle.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Agents"]
 difficulty: 4
 weight: 1
 slug: "multi_agent_system"
-aliases:
-  - /fi/terms/multi_agent_system/
 date: "2026-07-18T15:37:10.432291Z"
 lastmod: "2026-07-18T17:15:09.372481Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Arkkitehtoninen lähestymistapa, jossa useat autonomiset tekoälyagentit tekevät yhteistyötä, kilpailevat tai koordinoivat toimintaansa ratkaistakseen monimutkaisia ongelmia, jotka ylittävät yksittäiste"
 ---
-
 ## Definition
 
 Moniagenttijärjestelmät koostuvat useista itsenäisistä agenteista, joista kukin voi erikoistua eri tehtäviin tai alueisiin. Nämä agentit kommunikoivat ja koordinoivat toimiaan saavuttaakseen yhteisen tavoitteen, mikä mahdollistaa monimutkaisten tehtävien hajautetun hoidon.

@@ -1,23 +1,24 @@
 ---
-title: "Suojaratat"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Suojaratat
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /fi/terms/guardrails/
-date: "2026-07-18T16:00:54.127556Z"
-lastmod: "2026-07-18T17:15:09.417580Z"
+slug: guardrails
+date: '2026-07-18T16:00:54.127556Z'
+lastmod: '2026-07-18T17:15:09.417580Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Turvamekanismit, jotka on suunniteltu rajoittamaan tekoälymallien tuloksia haitallisen, harhaanjohtavan tai luvattoman sisällön tuottamisen estämiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Turvamekanismit, jotka on suunniteltu rajoittamaan tekoälymallien tuloksia
+  haitallisen, harhaanjohtavan tai luvattoman sisällön tuottamisen estämiseksi.
 ---
-
 ## Definition
 
 Suojaratat viittaavat joukkoon ohjelmistokontrolli- ja politiikkojen täytäntöönpanokerroksia, jotka on integroitu tekoälysovelluksiin, erityisesti suurkielimalleihin, varmistamaan turvallinen ja sääntöjen mukainen toiminta. Ne toimivat suodattimina, jotka valvovat syöte- ja lähtötietoja.

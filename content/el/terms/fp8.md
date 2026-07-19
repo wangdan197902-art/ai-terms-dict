@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /el/terms/fp8/
-date: "2026-07-18T16:07:57.397512Z"
-lastmod: "2026-07-18T17:15:09.909918Z"
+slug: fp8
+date: '2026-07-18T16:07:57.397512Z'
+lastmod: '2026-07-18T17:15:09.909918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το FP8 είναι μια μορφή κινητής υποδιαστολής 8-bit σχεδιασμένη για να επιταχύνει την εκπαίδευση και την εξαγωγή συμπερασμάτων στο βαθύ μάθηση, διατηρώντας επίπεδα ακρίβειας που θεωρούνται αποδεκτά."
+source: agnes_llm
+status: published
+language: el
+description: Το FP8 είναι μια μορφή κινητής υποδιαστολής 8-bit σχεδιασμένη για να
+  επιταχύνει την εκπαίδευση και την εξαγωγή συμπερασμάτων στο βαθύ μάθηση, διατηρώντας
+  επίπεδα ακρίβειας που θεωρούνται αποδεκτά.
 ---
-
 ## Definition
 
 Η κινητή υποδιαστολή 8-bit (FP8) είναι ένας τύπος αριθμητικών δεδομένων που προσφέρει ισορροπία μεταξύ υπολογιστικής αποδοτικότητας και ακρίβειας, βελτιστοποιημένος συγκεκριμένα για τον σύγχρονο υλικό ΤΝ. Μειώνει τις απαιτήσεις εύρους ζώνης μνήμης

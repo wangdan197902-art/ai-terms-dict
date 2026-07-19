@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /tr/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:54:29.584060Z"
 lastmod: "2026-07-18T16:38:07.311558Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirli zamansal veya modal mantıkların yapısal özelliklerine göre ayrı bileşenlere ayrılabileceğini belirten, klasik olmayan mantıkta bir sonuçtur."
 ---
-
 ## Definition
 
 Gabbay'ın ayrışım teoremi, özellikle zamansal ve modal mantıkların çalışması kapsamında matematiksel mantıkta temel bir kavramdır. Bir mantığın hangi koşullar altında çözülebileceğini veya parçalara ayrılacağını sağlayan yapısal özellikleri inceler.

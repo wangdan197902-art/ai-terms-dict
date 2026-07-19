@@ -1,23 +1,24 @@
 ---
-title: "Camada Oculta"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Camada Oculta
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /pt/terms/hidden_layer/
-date: "2026-07-18T15:03:15.846548Z"
-lastmod: "2026-07-18T15:51:59.497820Z"
+slug: hidden_layer
+date: '2026-07-18T15:03:15.846548Z'
+lastmod: '2026-07-18T15:51:59.497820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma camada intermediária em uma rede neural entre as camadas de entrada e saída que processa características."
+source: agnes_llm
+status: published
+language: pt
+description: Uma camada intermediária em uma rede neural entre as camadas de entrada
+  e saída que processa características.
 ---
-
 ## Definition
 
 Uma camada oculta consiste em neurônios que recebem entradas das camadas anteriores, aplicam pesos e vieses, e passam os dados transformados adiante por meio de uma função de ativação. Essas camadas permitem que redes neurais aprendam representações complexas e não lineares dos dados.

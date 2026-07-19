@@ -1,23 +1,24 @@
 ---
-title: "Batch-størrelse"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Batch-størrelse
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /no/terms/batch_size/
-date: "2026-07-18T15:44:43.754087Z"
-lastmod: "2026-07-18T16:38:06.975589Z"
+slug: batch_size
+date: '2026-07-18T15:44:43.754087Z'
+lastmod: '2026-07-18T16:38:06.975589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Antallet trenings eksempler som brukes i én iterasjon av algoritmen for stokastisk gradientnedstigning."
+source: agnes_llm
+status: published
+language: 'no'
+description: Antallet trenings eksempler som brukes i én iterasjon av algoritmen for
+  stokastisk gradientnedstigning.
 ---
-
 ## Definition
 
 Batch-størrelse er en kritisk hyperparameter som bestemmer hvor mange prøver som behandles før modellens interne parametere oppdateres. En større batch-størrelse gir et mer nøyaktig estimat av den

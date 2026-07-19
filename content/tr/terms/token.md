@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /tr/terms/token/
 date: "2026-07-18T15:30:21.481357Z"
 lastmod: "2026-07-18T16:38:07.245947Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Token, doğal dil işleme modelleri için temel girdi öğesi olarak hizmet eden metin veya verinin ayrık bir birimidir."
 ---
-
 ## Definition
 
 Tokenlar, doğal dil işlemde (NLP) girdi verilerinin temel yapı taşlarıdır ve genellikle kelimeleri, alt-kelime birimlerini veya karakterleri temsil eder. Büyük Dil Modelleri (LLM'ler), metni tokenlara dönüştürerek işler.

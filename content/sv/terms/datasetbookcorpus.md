@@ -1,23 +1,24 @@
 ---
-title: "Dataset: Bookcorpus"
-term_id: "datasetbookcorpus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "nlp", "text_data"]
+title: 'Dataset: Bookcorpus'
+term_id: datasetbookcorpus
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- NLP
+- Text Data
 difficulty: 2
 weight: 1
-slug: "datasetbookcorpus"
-aliases:
-  - /sv/terms/datasetbookcorpus/
-date: "2026-07-18T15:51:49.010302Z"
-lastmod: "2026-07-18T17:15:08.990645Z"
+slug: datasetbookcorpus
+date: '2026-07-18T15:51:49.010302Z'
+lastmod: '2026-07-18T17:15:08.990645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett storskaligt dataset som innehåller över 10 000 opublicerade böcker, ofta använt för förträning av modeller inom naturlig språkbehandling."
+source: agnes_llm
+status: published
+language: sv
+description: Ett storskaligt dataset som innehåller över 10 000 opublicerade böcker,
+  ofta använt för förträning av modeller inom naturlig språkbehandling.
 ---
-
 ## Definition
 
 BookCorpus är en samling texter från över 10 000 opublicerade böcker, insamlade från internet. Det fungerar som en grundläggande resurs för att träna och utvärdera modeller inom naturlig språkbehandling (NLP).

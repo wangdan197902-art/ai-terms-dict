@@ -1,23 +1,24 @@
 ---
-title: "เมตาเลิร์นนิ่ง (Meta-learning)"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: เมตาเลิร์นนิ่ง (Meta-learning)
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /th/terms/meta_learning/
-date: "2026-07-18T16:05:21.097302Z"
-lastmod: "2026-07-18T16:38:07.631443Z"
+slug: meta_learning
+date: '2026-07-18T16:05:21.097302Z'
+lastmod: '2026-07-18T16:38:07.631443Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เมตาเลิร์นนิ่ง หรือการเรียนรู้ที่จะเรียนรู้ เป็นแนวทางในการเรียนรู้ของเครื่องที่ช่วยให้โมเดลสามารถปรับตัวเข้ากับงานใหม่ได้อย่างรวดเร็วโดยใช้ข้อมูลเพียงเล็กน้อย โดยอาศัยประสบการณ์จากก่อนหน้า"
+source: agnes_llm
+status: published
+language: th
+description: เมตาเลิร์นนิ่ง หรือการเรียนรู้ที่จะเรียนรู้ เป็นแนวทางในการเรียนรู้ของเครื่องที่ช่วยให้โมเดลสามารถปรับตัวเข้ากับงานใหม่ได้อย่างรวดเร็วโดยใช้ข้อมูลเพียงเล็กน้อย
+  โดยอาศัยประสบการณ์จากก่อนหน้า
 ---
-
 ## Definition
 
 เมตาเลิร์นนิ่งมุ่งเน้นไปที่การออกแบบอัลกอริทึมที่สามารถเรียนรู้จากงานก่อนหน้าเพื่อปรับปรุงประสิทธิภาพในงานใหม่ที่ยังไม่เคยเห็น แทนที่จะฝึกโมเดลตั้งแต่เริ่มต้นสำหรับแต่ละปัญหา เมตาเลิร์นนิ่งจะทำการปรับให้เหมาะสมกับกระบวนการเรียนรู้เพื่อให้สามารถปรับตัวได้เร็วขึ้น

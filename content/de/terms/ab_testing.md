@@ -1,23 +1,24 @@
 ---
-title: "A/B-Test"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/B-Test
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /de/terms/ab_testing/
-date: "2026-07-18T11:00:48.362718Z"
-lastmod: "2026-07-18T11:44:44.902408Z"
+slug: ab_testing
+date: '2026-07-18T11:00:48.362718Z'
+lastmod: '2026-07-18T11:44:44.902408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine statistische Methode zum Vergleich zweier Varianten einer Variable, um festzustellen, welche besser abschneidet."
+source: agnes_llm
+status: published
+language: de
+description: Eine statistische Methode zum Vergleich zweier Varianten einer Variable,
+  um festzustellen, welche besser abschneidet.
 ---
-
 ## Definition
 
 Ein A/B-Test ist ein randomisierter kontrollierter Versuch, bei dem zwei Varianten, A und B, verglichen werden, um zu bewerten, welche in einer bestimmten Metrik bessere Ergebnisse liefert. Im KI-Engineering ist er entscheidend für die Optimierung.

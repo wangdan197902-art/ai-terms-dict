@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /cs/terms/policies/
 date: "2026-07-18T15:27:58.907446Z"
 lastmod: "2026-07-18T17:15:09.074768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Soubor pokynů, pravidel nebo protokolů stanovených organizací k řízení chování, rozhodování a provozních standardů."
 ---
-
 ## Definition
 
 V kontextu umělé inteligence a technologické správy se zásamy rozumí formalizované rámce, které určují, jak by měly být systémy AI vyvíjeny, nasazovány a monitorovány. Tyto dokumenty...

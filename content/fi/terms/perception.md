@@ -1,23 +1,23 @@
 ---
-title: "Havainto"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Havainto
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /fi/terms/perception/
-date: "2026-07-18T15:29:33.618909Z"
-lastmod: "2026-07-18T17:15:09.356541Z"
+slug: perception
+date: '2026-07-18T15:29:33.618909Z'
+lastmod: '2026-07-18T17:15:09.356541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Havainto on prosessi, jolla tekoälyjärjestelmät tulkitsevat aistinvaraisia syöttödataa, kuten kuvia tai ääntä, ymmärtääkseen ympäristöään."
+source: agnes_llm
+status: published
+language: fi
+description: Havainto on prosessi, jolla tekoälyjärjestelmät tulkitsevat aistinvaraisia
+  syöttödataa, kuten kuvia tai ääntä, ymmärtääkseen ympäristöään.
 ---
-
 ## Definition
 
 Tekoälyn havainto tarkoittaa raakojen anturidata muuntamista merkitykselliseksi tiedoksi, jota korkeamman tason päättelymoduulit voivat käsitellä. Tämä sisältää tietokonenäyn visuaalisten kohtauksien tulkitsemiseen ja puheentunnistuksen.

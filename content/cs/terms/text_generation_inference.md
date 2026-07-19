@@ -1,23 +1,24 @@
 ---
-title: "Inference generování textu"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: Inference generování textu
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /cs/terms/text_generation_inference/
-date: "2026-07-18T16:20:08.438440Z"
-lastmod: "2026-07-18T17:15:09.206371Z"
+slug: text_generation_inference
+date: '2026-07-18T16:20:08.438440Z'
+lastmod: '2026-07-18T17:15:09.206371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Vysoce výkonný engine pro obsluhu modelů optimalizovaný specificky pro nasazení velkých jazykových modelů s cílem efektivně generovat text ve velkém měřítku."
+source: agnes_llm
+status: published
+language: cs
+description: Vysoce výkonný engine pro obsluhu modelů optimalizovaný specificky pro
+  nasazení velkých jazykových modelů s cílem efektivně generovat text ve velkém měřítku.
 ---
-
 ## Definition
 
 Inference generování textu (TGI) je specializovaný softwarový rámec určený pro obsluhu velkých jazykových modelů (LLM) s nízkou latencí a vysokou propustností. Optimalizuje proces inference pro generování textu pomocí technik jako kontinuální batchování a paralelizace tenzorů.

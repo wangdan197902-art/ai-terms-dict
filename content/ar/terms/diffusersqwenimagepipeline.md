@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: 'Diffusers: Qwenimagepipeline'
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /ar/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T15:54:02.955172Z"
-lastmod: "2026-07-18T17:15:08.497264Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T15:54:02.955172Z'
+lastmod: '2026-07-18T17:15:08.497264Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خط أنابيب يستخدم نماذج Qwen-VL ضمن Diffusers لتوليد الصور مباشرة من الأوصاف النصية أو المدخلات متعددة الوسائط."
+source: agnes_llm
+status: published
+language: ar
+description: خط أنابيب يستخدم نماذج Qwen-VL ضمن Diffusers لتوليد الصور مباشرة من الأوصاف
+  النصية أو المدخلات متعددة الوسائط.
 ---
-
 ## Definition
 
 يعدل هذا الخط الأنابيب القدرات التوليدية لنماذج Qwen-VL لتركيب الصور. يسمح للمستخدمين بتوليد صور عالية الجودة عن طريق توفير مطالبات نصية أو دمج النص مع صور مرجعية

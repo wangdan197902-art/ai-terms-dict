@@ -1,23 +1,23 @@
 ---
-title: "Developmental Robotics"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Developmental Robotics
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /it/terms/developmental_robotics/
-date: "2026-07-18T15:56:22.399605Z"
-lastmod: "2026-07-18T17:15:08.618391Z"
+slug: developmental_robotics
+date: '2026-07-18T15:56:22.399605Z'
+lastmod: '2026-07-18T17:15:08.618391Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un campo interdisciplinare che studia come i robot possono acquisire competenze complesse attraverso l'interazione con l'ambiente e i caregiver."
+source: agnes_llm
+status: published
+language: it
+description: Un campo interdisciplinare che studia come i robot possono acquisire
+  competenze complesse attraverso l'interazione con l'ambiente e i caregiver.
 ---
-
 ## Definition
 
 La developmental robotics trae ispirazione dallo sviluppo cognitivo umano per creare robot che imparano in modo autonomo nel tempo. Invece di pre-programmare tutti i comportamenti, questi sistemi utilizzano meccanismi come...

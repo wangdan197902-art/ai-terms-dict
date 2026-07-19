@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /tr/terms/evidence/
 date: "2026-07-18T15:24:58.820343Z"
 lastmod: "2026-07-18T16:38:07.231250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir hipotezi desteklemek veya bir yapay zeka modelinin performansını doğrulamak için kullanılan veri veya bilgi."
 ---
-
 ## Definition
 
 Yapay zekada kanıt, model davranışı, doğruluğu veya etkinliği hakkındaki iddiaları destekleyen ampirik verileri, istatistiksel sonuçları veya gözlemlenebilir çıktıları ifade eder. Modelin güvenilirliğini ve başarısını göstermek için temel bir rol oynar.

@@ -1,23 +1,24 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /de/terms/bloom/
-date: "2026-07-18T11:06:13.411489Z"
-lastmod: "2026-07-18T11:44:44.915700Z"
+slug: bloom
+date: '2026-07-18T11:06:13.411489Z'
+lastmod: '2026-07-18T11:44:44.915700Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Im maschinellen Lernen bezieht sich 'Bloom' typischerweise auf die Bloom-Taxonomie in der KI-Bildung oder auf spezifische Einbettungsmodelle wie das Bloom-Texteinbettungsmodell."
+source: agnes_llm
+status: published
+language: de
+description: Im maschinellen Lernen bezieht sich 'Bloom' typischerweise auf die Bloom-Taxonomie
+  in der KI-Bildung oder auf spezifische Einbettungsmodelle wie das Bloom-Texteinbettungsmodell.
 ---
-
 ## Definition
 
 Während es historisch auf Benjamin Blooms pädagogische Taxonomie verweist, bezeichnet es im modernen KI-Kontext oft das von BigScience entwickelte Bloom-Texteinbettungsmodell. Dieses Modell erzeugt hochwertige

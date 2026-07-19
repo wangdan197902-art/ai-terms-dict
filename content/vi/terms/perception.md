@@ -1,23 +1,23 @@
 ---
-title: "Nhận thức"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: Nhận thức
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /vi/terms/perception/
-date: "2026-07-18T15:27:48.969501Z"
-lastmod: "2026-07-18T16:38:07.691744Z"
+slug: perception
+date: '2026-07-18T15:27:48.969501Z'
+lastmod: '2026-07-18T16:38:07.691744Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Nhận thức là quá trình mà các hệ thống AI diễn giải dữ liệu đầu vào cảm biến, chẳng hạn như hình ảnh hoặc âm thanh, để hiểu môi trường xung quanh."
+source: agnes_llm
+status: published
+language: vi
+description: Nhận thức là quá trình mà các hệ thống AI diễn giải dữ liệu đầu vào cảm
+  biến, chẳng hạn như hình ảnh hoặc âm thanh, để hiểu môi trường xung quanh.
 ---
-
 ## Definition
 
 Nhận thức AI liên quan đến việc chuyển đổi dữ liệu cảm biến thô thành thông tin có ý nghĩa mà các mô-đun lý luận cấp cao hơn có thể xử lý. Điều này bao gồm thị giác máy tính để diễn giải các cảnh quan trực quan, xử lý ngôn ngữ tự nhiên để hiểu văn bản, và phân tích âm thanh để nhận diện giọng nói.

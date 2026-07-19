@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /tr/terms/united_states_tech_force/
 date: "2026-07-18T16:20:15.852196Z"
 lastmod: "2026-07-18T16:38:07.375581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AB'deki teknolojik inovasyonu sürdüren kolektif iş gücünü ifade eden demografik ve ekonomik bir terim."
 ---
-
 ## Definition
 
 'ABD Teknoloji Gücü' terimi, genellikle yazılım mühendisliği, veri bilimi ve donanım üretimi dahil olmak üzere teknoloji sektörlerinde istihdam edilen büyük Amerikan emek piyasası segmentini belirtir. Bu kavram, ülkenin inovasyon ekonomisindeki rolünü ve yetenek dinamiklerini analiz etmek için kullanılır.

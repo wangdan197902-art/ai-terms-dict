@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /pl/terms/understanding/
 date: "2026-07-18T15:30:57.836807Z"
 lastmod: "2026-07-18T17:15:08.823897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W sztucznej inteligencji zdolność modelu do pojmowania semantycznego znaczenia, kontekstu i intencji zawartych w danych wejściowych, a nie tylko dopasowywania wzorców."
 ---
-
 ## Definition
 
 Zrozumienie w AI wykracza poza statystyczną korelację, dążąc do interpretacji podstawowego znaczenia danych. Dla modeli językowych oznacza to opanowanie składni, semantyki i pragmatyki, co pozwala na generowanie spójnych i adekwatnych odpowiedzi w złożonych kontekstach.

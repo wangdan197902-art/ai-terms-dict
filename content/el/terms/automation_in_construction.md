@@ -1,23 +1,24 @@
 ---
-title: "Αυτοματοποίηση στην κατασκευή"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Αυτοματοποίηση στην κατασκευή
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /el/terms/automation_in_construction/
-date: "2026-07-18T15:52:37.333740Z"
-lastmod: "2026-07-18T17:15:09.883822Z"
+slug: automation_in_construction
+date: '2026-07-18T15:52:37.333740Z'
+lastmod: '2026-07-18T17:15:09.883822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η εφαρμογή ρομποτικής και ΤΝ για τη ροή των διαδικασιών κατασκευής και τη βελτίωση της ασφάλειας στον χώρο."
+source: agnes_llm
+status: published
+language: el
+description: Η εφαρμογή ρομποτικής και ΤΝ για τη ροή των διαδικασιών κατασκευής και
+  τη βελτίωση της ασφάλειας στον χώρο.
 ---
-
 ## Definition
 
 Η αυτοματοποίηση στην κατασκευή αναφέρεται στην ενσωμάτωση ρομποτικών συστημάτων, drone και εργαλείων διαχείρισης έργων βασισμένων στην ΤΝ στον κύκλο ζωής της κατασκευής. Αυτές οι τεχνολογίες βοηθούν σε εργασίες που κυμαίνονται από την τοποθέτηση τούβλων...

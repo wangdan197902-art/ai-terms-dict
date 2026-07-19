@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /hu/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:44:46.724431Z"
 lastmod: "2026-07-18T17:15:09.755064Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI-eszközök használata a toborzási folyamatok egyszerűsítésére, beleértve az önéletrajzok szűrését, a jelöltek párosítását és az interjúelemzést."
 ---
-
 ## Definition
 
 Az MI a toborzásban algoritmusokat használ a toborzási életciklus különböző szakaszainak automatizálására és javítására. Az eszközök elemezik az önéletrajzokat a kulcsszavak relevanciája alapján, felmérik a jelöltek alkalmasságát prediktív modellezés...

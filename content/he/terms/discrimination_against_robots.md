@@ -1,23 +1,25 @@
 ---
-title: "אפליה נגד רובוטים"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: אפליה נגד רובוטים
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /he/terms/discrimination_against_robots/
-date: "2026-07-18T15:54:43.854879Z"
-lastmod: "2026-07-18T17:15:09.534798Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:54:43.854879Z'
+lastmod: '2026-07-18T17:15:09.534798Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "הקונספט האתי והמשפטי המתייחס ליחס מפלה או דעה קדומה כלפי סוכנים מלאכותיים או מערכות אוטונומיות, הנובע לעיתים קרובות מהטלות אנתרופומורפיות או חוסר אמון פונקציונלי."
+source: agnes_llm
+status: published
+language: he
+description: הקונספט האתי והמשפטי המתייחס ליחס מפלה או דעה קדומה כלפי סוכנים מלאכותיים
+  או מערכות אוטונומיות, הנובע לעיתים קרובות מהטלות אנתרופומורפיות או חוסר אמון פונקציונלי.
 ---
-
 ## Definition
 
 אפליה נגד רובוטים היא קונספט אתי וחברתי צומח הבוחן כיצד בני אדם עשויים להתייחס בצורה לא הוגנת, לחשוץ או להטיל תכונות שליליות על סוכנים מלאכותיים בהתבסס על תפיסות שגויות לגבי הכרה, רגש או כוונה שלהם.

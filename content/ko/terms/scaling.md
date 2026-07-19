@@ -1,23 +1,22 @@
 ---
-title: "확장(Scaling)"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: 확장(Scaling)
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /ko/terms/scaling/
-date: "2026-07-18T15:28:38.217060Z"
-lastmod: "2026-07-18T16:38:06.783495Z"
+slug: scaling
+date: '2026-07-18T15:28:38.217060Z'
+lastmod: '2026-07-18T16:38:06.783495Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "학습 능력과 성능을 향상시키기 위해 모델 크기나 데이터 볼륨을 조정하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 학습 능력과 성능을 향상시키기 위해 모델 크기나 데이터 볼륨을 조정하는 과정입니다.
 ---
-
 ## Definition
 
 확장(Scaling)은 더 많은 레이어, 뉴런 또는 학습 예제를 추가하여 AI 시스템을 확장하는 능동적인 방법론입니다. 여기에는 증가하는 계산 부하를 처리하기 위해 여러 GPU에 걸쳐 분산 훈련을 수행하는 기술이 포함됩니다.

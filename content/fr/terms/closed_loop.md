@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /fr/terms/closed_loop/
 date: "2026-07-18T10:56:38.530206Z"
 lastmod: "2026-07-18T11:44:45.176850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un système de contrôle où la rétroaction de la sortie est utilisée continuellement pour ajuster les actions futures."
 ---
-
 ## Definition
 
 Les systèmes en boucle fermée en IA utilisent la rétroaction en temps réel de l'environnement pour ajuster dynamiquement leur comportement ou leurs paramètres. Cela contraste avec les systèmes en boucle ouverte qui exécutent des séquences prédéfinies sans...

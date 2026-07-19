@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /fi/terms/artificial_reproduction/
 date: "2026-07-18T15:43:25.622603Z"
 lastmod: "2026-07-18T17:15:09.384881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Bioteknologian ja tekoälyn käyttö biologisten lisääntymisprosessien tukemisessa tai jäljittelemisessä, usein lääketieteessä tai maataloudessa."
 ---
-
 ## Definition
 
 Tekolihautus kattaa tekniikat, jotka helpottavat tai jäljittelevät biologista lisääntymistä ilman suoraa seksuaalista yhdyntää. Alalla hyödynnetään yhä enemmän tekoälyä optimoimaan hedelmällisyysasteita, valitsemaan parhaat geeniyhdistelmät ennustamalla sikiön terveydentilaa ja parantamaan eläinten jalostusohjelmia tehostamalla siemenenjakelua ja alkionkehitystä.

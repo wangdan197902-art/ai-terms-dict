@@ -1,23 +1,24 @@
 ---
-title: "Qwen Edit"
-term_id: "qwen_edit"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "editing", "productivity"]
+title: Qwen Edit
+term_id: qwen_edit
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- editing
+- productivity
 difficulty: 2
 weight: 1
-slug: "qwen_edit"
-aliases:
-  - /cs/terms/qwen_edit/
-date: "2026-07-18T16:14:39.187820Z"
-lastmod: "2026-07-18T17:15:09.194617Z"
+slug: qwen_edit
+date: '2026-07-18T16:14:39.187820Z'
+lastmod: '2026-07-18T17:15:09.194617Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Qwen Edit označuje schopnosti nebo modely v ekosystému Qwen zaměřené na úpravy textu a obsahu."
+source: agnes_llm
+status: published
+language: cs
+description: Qwen Edit označuje schopnosti nebo modely v ekosystému Qwen zaměřené
+  na úpravy textu a obsahu.
 ---
-
 ## Definition
 
 Qwen Edit označuje specifické funkce nebo iterace modelů v řadě Qwen, které jsou optimalizovány pro editaci, zdokonalování a restrukturalizaci textového obsahu. Tyto schopnosti uživatelům umožňují upravovat, přepisovat a vylepšovat textové dokumenty.

@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /hu/terms/state/
 date: "2026-07-18T15:31:33.974530Z"
 lastmod: "2026-07-18T17:15:09.730763Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy rendszer vagy ügynök teljes konfigurációja egy adott pillanatban."
 ---
-
 ## Definition
 
 Az állapot minden releváns információt reprezentál, amely a jövőbeli viselkedés meghatározásához szükséges, például Markov-döntési folyamatokban (MDP). Az erősített tanulásban az állapot magában foglalja a környezet aktuális helyzetét.

@@ -1,23 +1,25 @@
 ---
-title: "Piyango Bileti Hipotezi"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: Piyango Bileti Hipotezi
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /tr/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:01:33.390487Z"
-lastmod: "2026-07-18T16:38:07.329537Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:01:33.390487Z'
+lastmod: '2026-07-18T16:38:07.329537Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yoğun sinir ağlarının, başlangıçtan izole bir şekilde eğitildiklerinde orijinal ağın doğruluğunu eşitleyebilen daha küçük alt ağlar içerdiğini öne süren teori."
+source: agnes_llm
+status: published
+language: tr
+description: Yoğun sinir ağlarının, başlangıçtan izole bir şekilde eğitildiklerinde
+  orijinal ağın doğruluğunu eşitleyebilen daha küçük alt ağlar içerdiğini öne süren
+  teori.
 ---
-
 ## Definition
 
 Piyango Bileti Hipotezi, büyük ve rastgele başlatılmış bir sinir ağı içinde, eğitim için iyi başlatılmış seyrek bir alt ağın ('kazanan bileti') var olduğunu öne sürer. Budama işlemiyle...

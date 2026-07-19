@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /sv/terms/robotic_process_automation/
 date: "2026-07-18T16:19:25.107253Z"
 lastmod: "2026-07-18T17:15:09.044493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Användningen av mjukvarubots för att automatisera högvolym, repetitiva digitala uppgifter som traditionellt utförs av människor i affärsprocesser."
 ---
-
 ## Definition
 
 Robotiserad processautomatisering (RPA) använder mjukvarubots, ofta förstärkta med AI, för att imitera mänskliga interaktioner med digitala system. Det används för att effektivisera arbetsflöden såsom datainmatning, fakturahantering

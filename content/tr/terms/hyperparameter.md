@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /tr/terms/hyperparameter/
 date: "2026-07-18T15:57:09.744147Z"
 lastmod: "2026-07-18T16:38:07.318574Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Değeri eğitim sürecinden önce ayarlanan ve öğrenme algoritmasının davranışını yöneten yapılandırma değişkeni."
 ---
-
 ## Definition
 
 Eğitim sırasında veriden öğrenilen model parametrelerinden (ağırlıklar ve önyargılar) farklı olarak, hiperparametreler eğitime başlamadan önce uygulayıcı tarafından seçilen dış ayarlardır. Yapıyı kontrol ederler,

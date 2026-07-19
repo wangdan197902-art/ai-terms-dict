@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /id/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:02:06.530010Z"
 lastmod: "2026-07-18T16:38:07.487625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan AI yang menggabungkan kemampuan pembelajaran jaringan saraf dengan logika dan transparansi penalaran simbolik."
 ---
-
 ## Definition
 
 AI neuro-simbolik mengintegrasikan metode pembelajaran saraf sub-simbolik dengan sistem penalaran berbasis logika simbolik. Pendekatan hibrida ini bertujuan untuk mengatasi keterbatasan pembelajaran mendalam murni, seperti kurangnya kemampuan penalaran logis.

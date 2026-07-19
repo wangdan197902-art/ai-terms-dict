@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /ko/terms/mode_collapse/
 date: "2026-07-18T16:05:51.405498Z"
 lastmod: "2026-07-18T16:38:06.885928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "생성적 적대 신경망(GAN)에서 생성기가 제한된 유형의 출력만 생성하는 실패 현상입니다."
 ---
-
 ## Definition
 
 GAN에서 모드 붕괴는 생성기가 판별기의 약점을 이용하여 가능한 샘플의 좁은 범위만 생성하고 데이터 분포의 다른 모드(mode)를 무시할 때 발생합니다. 이는 생성된 데이터의 다양성이 떨어지는 원인이 됩니다.

@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /it/terms/k_line/
 date: "2026-07-18T16:06:15.531426Z"
 lastmod: "2026-07-18T17:15:08.639282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un tipo di grafico finanziario, noto anche come grafico a candele giapponesi, utilizzato per visualizzare i movimenti dei prezzi in specifici intervalli di tempo."
 ---
-
 ## Definition
 
 Una K-line, comunemente chiamata grafico a candele nei mercati occidentali, è una rappresentazione grafica della dinamica dei prezzi di un titolo, derivato o valuta. Mostra quattro dati chiave: il

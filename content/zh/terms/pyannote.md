@@ -1,23 +1,23 @@
 ---
-title: "Pyannote"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: Pyannote
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /zh/terms/pyannote/
-date: "2026-07-18T11:31:05.398414Z"
-lastmod: "2026-07-18T11:44:45.547060Z"
+slug: pyannote
+date: '2026-07-18T11:31:05.398414Z'
+lastmod: '2026-07-18T11:44:45.547060Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Pyannote 是一个 Python 库，为说话人日志（speaker diarization）和音频分割任务提供最先进的解决方案。"
+source: agnes_llm
+status: published
+language: zh
+description: Pyannote 是一个 Python 库，为说话人日志（speaker diarization）和音频分割任务提供最先进的解决方案。
 ---
-
 ## Definition
 
 Pyannote 是由 pyannote.audio 开发的开源 Python 库，专注于说话人日志技术，即确定音频流中“谁在何时说话”的过程。它利用深度学

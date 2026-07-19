@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /th/terms/compute/
 date: "2026-07-18T15:46:18.725039Z"
 lastmod: "2026-07-18T16:38:07.587555Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การประมวลผล หมายถึง กำลังการประมวลผลและทรัพยากรที่ใช้ในการรันอัลกอริทึมและจัดการข้อมูลในระบบปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ การประมวลผลหมายถึงโครงสร้างพื้นฐานพื้นฐานที่จำเป็นสำหรับการฝึกโมเดลและการดำเนินการอนุมาน (inference) ซึ่งรวมถึงฮาร์ดแวร์เช่น CPU, GPU และ TPU ตลอดจน...

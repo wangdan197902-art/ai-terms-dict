@@ -1,23 +1,24 @@
 ---
-title: "Agente de Software"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Agente de Software
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /pt/terms/software_agent/
-date: "2026-07-18T15:22:50.626471Z"
-lastmod: "2026-07-18T15:51:59.533289Z"
+slug: software_agent
+date: '2026-07-18T15:22:50.626471Z'
+lastmod: '2026-07-18T15:51:59.533289Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um programa de computador que executa tarefas em nome de usuários ou outros programas com um certo grau de autonomia."
+source: agnes_llm
+status: published
+language: pt
+description: Um programa de computador que executa tarefas em nome de usuários ou
+  outros programas com um certo grau de autonomia.
 ---
-
 ## Definition
 
 Um agente de software é uma entidade autônoma capaz de perceber seu ambiente, raciocinar e agir para alcançar objetivos específicos. Esses agentes podem operar independentemente, adaptar-se a mudanças e colaborar com outros sistemas.

@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /sv/terms/isotropic_position/
 date: "2026-07-18T16:05:02.696588Z"
 lastmod: "2026-07-18T17:15:09.016883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En geometrisk transformation av en konvex kropp där dess tröghetsmatris är proportionell mot enhetsmatrisen, vilket förenklar analysen."
 ---
-
 ## Definition
 
 Inom konvex geometri och sannolikhet i höga dimensioner är en mängd punkter eller en konvex kropp i isotrop position om dess tyngdpunkt ligger i origo och dess kovariansmatris är en skalär multipel av

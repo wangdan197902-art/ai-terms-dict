@@ -1,23 +1,24 @@
 ---
-title: "Bez omezení"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Bez omezení
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /cs/terms/uncensored/
-date: "2026-07-18T16:21:58.899638Z"
-lastmod: "2026-07-18T17:15:09.209236Z"
+slug: uncensored
+date: '2026-07-18T16:21:58.899638Z'
+lastmod: '2026-07-18T17:15:09.209236Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Odkazuje na modely AI, které byly upraveny tak, aby obcházely bezpečnostní filtry a etická pravidla."
+source: agnes_llm
+status: published
+language: cs
+description: Odkazuje na modely AI, které byly upraveny tak, aby obcházely bezpečnostní
+  filtry a etická pravidla.
 ---
-
 ## Definition
 
 V kontextu umělé inteligence termín 'bez omezení' obvykle popisuje modely, které prošly doladěním nebo úpravami za účelem odstranění nebo oslabení vestavěných bezpečnostních zarovnání. Tyto modely jsou navrženy tak, aby...

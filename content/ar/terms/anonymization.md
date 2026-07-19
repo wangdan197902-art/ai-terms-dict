@@ -1,23 +1,24 @@
 ---
-title: "إخفاء الهوية"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: إخفاء الهوية
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /ar/terms/anonymization/
-date: "2026-07-18T15:44:21.191957Z"
-lastmod: "2026-07-18T17:15:08.475097Z"
+slug: anonymization
+date: '2026-07-18T15:44:21.191957Z'
+lastmod: '2026-07-18T17:15:08.475097Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية إزالة المعلومات التعريفية الشخصية من مجموعات البيانات لحماية خصوصية الأفراد."
+source: agnes_llm
+status: published
+language: ar
+description: عملية إزالة المعلومات التعريفية الشخصية من مجموعات البيانات لحماية خصوصية
+  الأفراد.
 ---
-
 ## Definition
 
 يتضمن إخفاء الهوية تعديل البيانات بحيث لا يمكن ربطها بعد الآن بشخص معين دون معلومات إضافية. هذه التقنية حاسمة في تعلم الآلة عند التعامل مع البيانات الحساسة.

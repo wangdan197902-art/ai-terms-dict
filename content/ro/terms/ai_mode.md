@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /ro/terms/ai_mode/
 date: "2026-07-18T15:40:06.487731Z"
 lastmod: "2026-07-18T17:15:09.621288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O stare funcțională în interfețele software în care inteligența artificială asistă sau automatizează activ sarcinile."
 ---
-
 ## Definition
 
 Modul AI se referă la o stare operațională specifică în platformele digitale sau aplicații, în care capacitățile AI sunt activate pentru a îmbunătăți interacțiunea utilizatorului. Acest mod activează de obicei funcții precum...

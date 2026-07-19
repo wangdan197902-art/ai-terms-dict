@@ -1,23 +1,24 @@
 ---
-title: "למידה מתמשכת"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: למידה מתמשכת
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /he/terms/continual_learning/
-date: "2026-07-18T15:50:05.967075Z"
-lastmod: "2026-07-18T17:15:09.523216Z"
+slug: continual_learning
+date: '2026-07-18T15:50:05.967075Z'
+lastmod: '2026-07-18T17:15:09.523216Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרדיגמה בלמידת מכונה שבה מודלים לומדים ברצף מנתונים חדשים מבלי לשכוח ידע קודם."
+source: agnes_llm
+status: published
+language: he
+description: פרדיגמה בלמידת מכונה שבה מודלים לומדים ברצף מנתונים חדשים מבלי לשכוח
+  ידע קודם.
 ---
-
 ## Definition
 
 למידה מתמשכת, הידועה גם כלימוד לכל החיים, מאפשרת לרשתות נוירונים לרכוש מיומנויות או מידע חדשים לאורך זמן תוך שמירה על יכולות שנלמדו בעבר. זה פותר את הבעיה של 'שכחה קטסטרופלית' (Catastrophic Forgetting) שבה מודלים שוכחים מידע ישן כאשר הם לומדים מידע חדש.

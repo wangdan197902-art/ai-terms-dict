@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /it/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:55:34.824898Z"
 lastmod: "2026-07-18T17:15:08.616684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un dataset derivato da Yahoo Answers, contenente domande e risposte generate dagli utenti classificate in argomenti specifici per il matching semantico e la classificazione."
 ---
-
 ## Definition
 
 Il dataset Yahoo Answers Topics è un sottoinsieme dell'archivio più ampio di Yahoo Answers, che si concentra su domande e risposte organizzate in categorie tematiche distinte. È comunemente utilizzato per la classificazione del testo e l'analisi della similarità semantica.

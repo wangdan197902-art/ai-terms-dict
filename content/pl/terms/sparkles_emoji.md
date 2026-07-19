@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /pl/terms/sparkles_emoji/
 date: "2026-07-18T16:17:19.776637Z"
 lastmod: "2026-07-18T17:15:08.919366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Symbol wizualny często używany w interfejsach AI do oznaczania nowych funkcji, ulepszeń lub magicznych transformacji w wygenerowanej treści."
 ---
-
 ## Definition
 
 Emoji błysków to graficzna ikona często stosowana w interfejsach użytkowników aplikacji AI, aby sygnalizować nowość, poprawę lub kreatywne ulepszenie. Służy jako niewerbalna wskazówka informująca o zmianach.

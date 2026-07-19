@@ -7,8 +7,6 @@ tags: ["LLM", "Chinese AI", "Reasoning"]
 difficulty: 2
 weight: 1
 slug: "kimi_k2"
-aliases:
-  - /he/terms/kimi_k2/
 date: "2026-07-18T16:08:25.091892Z"
 lastmod: "2026-07-18T17:15:09.553598Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "Kimi K2 הוא מודל שפה גדול שפותח על ידי Moonshot AI, המיועד לסיכום מתקדם והבנת הקשר ארוך."
 ---
-
 ## Definition
 
 Kimi K2 מייצג איטרציה משמעותית בסדרת מודלי השפה הגדולים של Moonshot AI. הוא מאופיין ביכולות משופרות בסיכום לוגי מורכב ובפתרון בעיות מתמטיות.

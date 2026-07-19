@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /fi/terms/argumentation_framework/
 date: "2026-07-18T15:42:37.878820Z"
 lastmod: "2026-07-18T17:15:09.383185Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Formaali rakenne, jota käytetään mallintamaan ja ratkaisemaan ristiriitoja kilpailevien väitteiden tai päätösten välillä tekoäljärjestelmissä."
 ---
-
 ## Definition
 
 Argumentointikehykset tarjoavat matemaattisen pohjan argumenttien, hyökkäysten ja puolustusten edustamiseen niiden välillä. Tekoälyinsinööritieteessä ne auttavat järjestelmiä tekemään läpinäkyviä ja perusteltuja päätöksiä punnitsemalla eri näkökulmia.

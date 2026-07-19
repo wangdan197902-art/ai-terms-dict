@@ -1,23 +1,24 @@
 ---
-title: "Hardware voor kunstmatige intelligentie"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: Hardware voor kunstmatige intelligentie
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /nl/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T15:58:20.272626Z"
-lastmod: "2026-07-18T17:15:08.751199Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T15:58:20.272626Z'
+lastmod: '2026-07-18T17:15:08.751199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Gespecialiseerde fysieke componenten ontworpen om de rekenintensieve eisen van machine learning-algoritmen en neurale netwerktraining te versnellen."
+source: agnes_llm
+status: published
+language: nl
+description: Gespecialiseerde fysieke componenten ontworpen om de rekenintensieve
+  eisen van machine learning-algoritmen en neurale netwerktraining te versnellen.
 ---
-
 ## Definition
 
 AI-hardware verwijst naar gespecialiseerde rekenapparatuur die is geoptimaliseerd voor de enorme parallelle verwerking die nodig is voor machine learning-werklasten. Dit omvat Graphics Processing Units (GPUs) voor algemene parallelle verwerking, Tensor Processing Units (TPUs) voor specifieke AI-taken, en neuromorfe chips die de werking van het menselijk brein imiteren.

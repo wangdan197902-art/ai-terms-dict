@@ -1,23 +1,24 @@
 ---
-title: "Riconoscimento dei Pattern"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Riconoscimento dei Pattern
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /it/terms/pattern_recognition/
-date: "2026-07-18T16:15:31.872314Z"
-lastmod: "2026-07-18T17:15:08.657206Z"
+slug: pattern_recognition
+date: '2026-07-18T16:15:31.872314Z'
+lastmod: '2026-07-18T17:15:08.657206Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'identificazione automatizzata di regolarità e strutture all'interno dei dati utilizzando metodi statistici e di apprendimento automatico."
+source: agnes_llm
+status: published
+language: it
+description: L'identificazione automatizzata di regolarità e strutture all'interno
+  dei dati utilizzando metodi statistici e di apprendimento automatico.
 ---
-
 ## Definition
 
 Il Riconoscimento dei Pattern è un ramo dell'intelligenza artificiale e della statistica interessato all'identificazione di regolarità nei dati. Coinvolge la classificazione dei dati di input in categorie predefinite basandosi su caratteristiche estratte, permettendo ai sistemi di prendere decisioni o fare previsioni.

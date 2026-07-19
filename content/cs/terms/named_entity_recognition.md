@@ -1,23 +1,24 @@
 ---
-title: "Rozpoznávání jmenovitých entit"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Rozpoznávání jmenovitých entit
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /cs/terms/named_entity_recognition/
-date: "2026-07-18T15:37:33.954188Z"
-lastmod: "2026-07-18T17:15:09.091576Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:37:33.954188Z'
+lastmod: '2026-07-18T17:15:09.091576Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Úloha zpracování přirozeného jazyka, která identifikuje a klasifikuje klíčové informační entity do předdefinovaných kategorií."
+source: agnes_llm
+status: published
+language: cs
+description: Úloha zpracování přirozeného jazyka, která identifikuje a klasifikuje
+  klíčové informační entity do předdefinovaných kategorií.
 ---
-
 ## Definition
 
 Rozpoznávání jmenovitých entit (NER) je podúlohou extrakce informací, která lokalizuje a klasifikuje jmenovité entity v textu do předem definovaných kategorií, jako jsou jména osob, organizace, místa, datumy nebo měny.

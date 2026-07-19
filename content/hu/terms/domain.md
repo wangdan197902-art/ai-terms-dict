@@ -1,23 +1,24 @@
 ---
-title: "Domén"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domén
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /hu/terms/domain/
-date: "2026-07-18T15:25:32.547468Z"
-lastmod: "2026-07-18T17:15:09.718299Z"
+slug: domain
+date: '2026-07-18T15:25:32.547468Z'
+lastmod: '2026-07-18T17:15:09.718299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A domén egy specifikus kontextust vagy adateloszlást jelent, amelyet jellemzői tér és alapvető valószínűségi eloszlása határoz meg."
+source: agnes_llm
+status: published
+language: hu
+description: A domén egy specifikus kontextust vagy adateloszlást jelent, amelyet
+  jellemzői tér és alapvető valószínűségi eloszlása határoz meg.
 ---
-
 ## Definition
 
 A gépi tanulásban, különösen az áttanulás kontextusában, egy domént két komponens definiál: a jellemzők tere (az összes lehetséges bemenet halmaza) és ezeknek a bemeneteknek a marginales valószínűségi eloszlása.

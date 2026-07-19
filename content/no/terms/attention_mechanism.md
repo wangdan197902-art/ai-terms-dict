@@ -1,23 +1,24 @@
 ---
-title: "Oppmerksomhetsmekanisme"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Oppmerksomhetsmekanisme
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /no/terms/attention_mechanism/
-date: "2026-07-18T15:22:28.053493Z"
-lastmod: "2026-07-18T16:38:06.930231Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:28.053493Z'
+lastmod: '2026-07-18T16:38:06.930231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som lar nevrale nettverk fokusere på spesifikke deler av inndata når de produserer resultater."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som lar nevrale nettverk fokusere på spesifikke deler av inndata
+  når de produserer resultater.
 ---
-
 ## Definition
 
 En oppmerksomhetsmekanisme gjør det mulig for en modell dynamisk å vekte viktigheten av ulike elementer i en inndatasekvens. I stedet for å behandle all inndata likt, tildeles ulike nivåer av signifikans

@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /cs/terms/learning_curve/
 date: "2026-07-18T16:05:36.015917Z"
 lastmod: "2026-07-18T17:15:09.147322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Učící křivka znázorňuje metriku výkonu modelu vůči množství trénovacích dat nebo počtu trénovacích epoch, aby vizualizovala pokrok ve učení."
 ---
-
 ## Definition
 
 Obvykle učící křivka zobrazuje skóre tréninku a validace na ose y proti počtu trénovacích vzorků nebo iterací na ose x. Pomáhá diagnostikovat, zda model trpí vysokým zkreslením (podučení) nebo vysokým rozptylem (přeučení).

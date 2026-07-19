@@ -1,23 +1,24 @@
 ---
-title: "Bayesovské strukturální časové řady"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Bayesovské strukturální časové řady
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /cs/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:44:54.971853Z"
-lastmod: "2026-07-18T17:15:09.106954Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:44:54.971853Z'
+lastmod: '2026-07-18T17:15:09.106954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Statistický modelovací přístup, který využívá Bayesovu inferenci k rozkladu časových řad na interpretovatelné komponenty."
+source: agnes_llm
+status: published
+language: cs
+description: Statistický modelovací přístup, který využívá Bayesovu inferenci k rozkladu
+  časových řad na interpretovatelné komponenty.
 ---
-
 ## Definition
 
 Modely bayesovských strukturálních časových řad (BSTS) reprezentují data časové řady jako součet interpretovatelných komponent, jako jsou trend, sezónnost a regresní efekty, přičemž zohledňují nejistotu prostřednictvím posteriorních rozdělení. Tento přístup umožňuje flexibilní modelování složitých vzorců v čase a kvantifikaci nejistoty předpovědí.

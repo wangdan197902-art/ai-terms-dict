@@ -1,23 +1,26 @@
 ---
-title: "Дифференциально приватный стохастический градиентный спуск"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Дифференциально приватный стохастический градиентный спуск
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /ru/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:50:04.943223Z"
-lastmod: "2026-07-18T16:38:07.149100Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:50:04.943223Z'
+lastmod: '2026-07-18T16:38:07.149100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Алгоритм оптимизации, модифицирующий стандартный SGD путем обрезки градиентов и добавления шума для обеспечения соблюдения ограничений дифференциальной приватности обучаемой модели."
+source: agnes_llm
+status: published
+language: ru
+description: Алгоритм оптимизации, модифицирующий стандартный SGD путем обрезки градиентов
+  и добавления шума для обеспечения соблюдения ограничений дифференциальной приватности
+  обучаемой модели.
 ---
-
 ## Definition
 
 DP-SGD — это вариант стохастического градиентного спуска, разработанный для защиты конфиденциальности обучающих данных. Он работает путем ограничения вклада градиента каждого образца для снижения чувствительности, а затем добавления гауссова шума.

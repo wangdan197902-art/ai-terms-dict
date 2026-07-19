@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /nl/terms/transparency/
 date: "2026-07-18T15:39:15.992645Z"
 lastmod: "2026-07-18T17:15:08.710131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De mate waarin de besluitvormingsprocessen, gegevensbronnen en beperkingen van een AI-systeem open en begrijpelijk zijn voor gebruikers."
 ---
-
 ## Definition
 
 Transparantie zorgt ervoor dat belanghebbenden kunnen begrijpen hoe een AI-model tot zijn outputs komt, wat vertrouwen en verantwoordingsplicht bevordert. Het houdt in dat de oorsprong van trainingsgegevens, modelarchitecturen en

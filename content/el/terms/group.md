@@ -1,23 +1,25 @@
 ---
-title: "Ομάδα"
-term_id: "group"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "geometric-deep-learning", "theory"]
+title: Ομάδα
+term_id: group
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Geometric Deep Learning
+- theory
 difficulty: 4
 weight: 1
-slug: "group"
-aliases:
-  - /el/terms/group/
-date: "2026-07-18T15:26:51.075352Z"
-lastmod: "2026-07-18T17:15:09.846069Z"
+slug: group
+date: '2026-07-18T15:26:51.075352Z'
+lastmod: '2026-07-18T17:15:09.846069Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια θεμελιώδης μαθηματική δομή που αποτελείται από ένα σύνολο εξοπλισμένο με μια πράξη που συνδυάζει οποιαδήποτε δύο στοιχεία για να σχηματίσει ένα τρίτο στοιχείο."
+source: agnes_llm
+status: published
+language: el
+description: Μια θεμελιώδης μαθηματική δομή που αποτελείται από ένα σύνολο εξοπλισμένο
+  με μια πράξη που συνδυάζει οποιαδήποτε δύο στοιχεία για να σχηματίσει ένα τρίτο
+  στοιχείο.
 ---
-
 ## Definition
 
 Στα μαθηματικά και τη θεωρητική επιστήμη των υπολογιστών, μια ομάδα είναι ένα σύνολο G μαζί με μια δυαδική πράξη που ικανοποιεί τέσσερις αξιώματα: κλειστότητα, συσχετιστικότητα, ταυτότητα και αντιστρεψιμότητα. Στην ΤΝ, η θεωρία ομάδων χρησιμοποιείται για την ενσωμάτωση συμμετριών.

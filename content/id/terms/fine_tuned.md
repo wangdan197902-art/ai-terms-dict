@@ -1,23 +1,24 @@
 ---
-title: "halus-tuned (fine-tuned)"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: halus-tuned (fine-tuned)
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /id/terms/fine_tuned/
-date: "2026-07-18T15:31:37.449155Z"
-lastmod: "2026-07-18T16:38:07.407910Z"
+slug: fine_tuned
+date: '2026-07-18T15:31:37.449155Z'
+lastmod: '2026-07-18T16:38:07.407910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses melatih lebih lanjut model pra-latih pada dataset tertentu untuk menyesuaikannya dengan tugas turunan spesifik."
+source: agnes_llm
+status: published
+language: id
+description: Proses melatih lebih lanjut model pra-latih pada dataset tertentu untuk
+  menyesuaikannya dengan tugas turunan spesifik.
 ---
-
 ## Definition
 
 Penyetelan halus melibatkan pengambilan model yang telah dilatih sebelumnya pada dataset umum yang besar dan melanjutkan pelatihannya pada dataset yang lebih kecil dan spesifik tugas. Teknik ini memanfaatkan fitur umum...

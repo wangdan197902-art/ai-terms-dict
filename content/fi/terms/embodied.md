@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /fi/terms/embodied/
 date: "2026-07-18T15:25:20.517327Z"
 lastmod: "2026-07-18T17:15:09.349117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kehollistunut tekoäly viittaa älykkäisiin järjestelmiin, jotka vuorovaikuttavat fyysisen maailman kanssa antureiden ja toimijoiden kautta kehon välityksellä."
 ---
-
 ## Definition
 
 Kehollistunut tekoäly lähestyy älykkyyttä näkökulmasta, jossa se syntyy agentin fyysisen muodon ja sen ympäristön välisestä vuorovaikutuksesta. Toisin kuin irralliset tekoälyjärjestelmät, jotka käsittelevät abstrakteja tietoja, kehollistuneet agentit käyttävät aistejaan ja kehoaan navigoidakseen ja toimiakseen fyysisessä maailmassa, mikä mahdollistaa maadoitetun kognition ja sensorimotorisen oppimisen.

@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /ja/terms/knowledge_based_configuration/
 date: "2026-07-18T11:20:51.477920Z"
 lastmod: "2026-07-18T11:44:45.113336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ドメイン固有の知識ベースを使用して、ユーザーの制約から有効な製品設定を生成する自動化プロセス。"
 ---
-
 ## Definition
 
 このアプローチは、知識ベース内の制約充足技法を採用し、組み立てられた製品がすべての技術要件と顧客要件を満たすことを保証します。これにより、無効な組み合わせを防ぎます。

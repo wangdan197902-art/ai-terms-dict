@@ -1,23 +1,24 @@
 ---
-title: "Hyperparameter-Tuning"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Hyperparameter-Tuning
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /de/terms/hyperparameter_tuning/
-date: "2026-07-18T11:18:39.920985Z"
-lastmod: "2026-07-18T11:44:44.949749Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T11:18:39.920985Z'
+lastmod: '2026-07-18T11:44:44.949749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess des systematischen Suchens nach der besten Kombination von Hyperparametern zur Optimierung der Modellleistung."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess des systematischen Suchens nach der besten Kombination von
+  Hyperparametern zur Optimierung der Modellleistung.
 ---
-
 ## Definition
 
 Hyperparameter-Tuning beinhaltet die Bewertung verschiedener Sets von Hyperparametern, um die Konfiguration zu finden, die die höchste Modellgenauigkeit oder die niedrigste Fehlerrate ergibt. Häufige Strategien umfassen Gittersuche, w

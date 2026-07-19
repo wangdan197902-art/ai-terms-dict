@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /hu/terms/circuit/
 date: "2026-07-18T15:49:31.008561Z"
 lastmod: "2026-07-18T17:15:09.762088Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az áramkör a számítási feladatokat végrehajtó fizikai hardver infrastruktúrát, beleértve a chipeket és az összekötő elemeket, jelöli."
 ---
-
 ## Definition
 
 Az AI kontextusában az áramkör általában az alapvető hardver architektúrát jelöli, például a mátrixműveletek és párhuzamos feldolgozás gyorsítására tervezett GPU-kat, TPU-kat vagy neuromorf chipeket. Ezek

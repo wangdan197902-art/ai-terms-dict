@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /fr/terms/carlo/
 date: "2026-07-18T10:49:02.473120Z"
 lastmod: "2026-07-18T11:44:45.159722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Fait référence aux méthodes de Monte-Carlo, une classe d'algorithmes computationnels qui reposent sur un échantillonnage aléatoire répété pour obtenir des résultats numériques."
 ---
-
 ## Definition
 
 Les méthodes de Monte-Carlo sont des techniques essentielles en IA et en statistiques pour approximer des problèmes mathématiques complexes difficiles à résoudre analytiquement. En générant des milliers ou des millions d'échantillons aléatoires, elles permettent d'estimer des valeurs.

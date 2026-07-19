@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /es/terms/self_attention/
 date: "2026-07-18T10:26:33.808381Z"
 lastmod: "2026-07-18T11:44:44.751522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un mecanismo que permite a una red neuronal ponderar la importancia de las diferentes partes de la secuencia de entrada en relación entre sí."
 ---
-
 ## Definition
 
 La autoatención permite a los modelos capturar dependencias entre todas las posiciones de una secuencia simultáneamente, independientemente de la distancia. Al calcular puntuaciones de atención entre cada par de tokens, permite una representación contextual rica y paralela.

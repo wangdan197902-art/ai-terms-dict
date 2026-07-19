@@ -1,23 +1,23 @@
 ---
-title: "Más bien"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Más bien
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /es/terms/rather/
-date: "2026-07-18T10:25:55.491375Z"
-lastmod: "2026-07-18T11:44:44.749141Z"
+slug: rather
+date: '2026-07-18T10:25:55.491375Z'
+lastmod: '2026-07-18T11:44:44.749141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "En contextos de IA, 'más bien' no es un término técnico, sino que suele aparecer en los prompts para especificar preferencias o correcciones."
+source: agnes_llm
+status: published
+language: es
+description: En contextos de IA, 'más bien' no es un término técnico, sino que suele
+  aparecer en los prompts para especificar preferencias o correcciones.
 ---
-
 ## Definition
 
 El término 'Más bien' es un adverbio estándar del inglés que indica preferencia o contraste. En el dominio específico de la Inteligencia Artificial y los Modelos de Lenguaje Grandes (LLM), no constituye un concepto técnico distinto.

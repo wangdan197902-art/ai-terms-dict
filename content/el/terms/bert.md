@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /el/terms/bert/
 date: "2026-07-18T15:53:53.683522Z"
 lastmod: "2026-07-18T17:15:09.885897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Τα Διμερή Αναπαραστάσεις Κωδικών από Μετασχηματιστές (Bidirectional Encoder Representations from Transformers) είναι ένα μοντέλο επεξεργασίας φυσικής γλώσσας που έχει προεκπαιδευτεί."
 ---
-
 ## Definition
 
 Το BERT είναι μια τεχνική μηχανικής μάθησης βασισμένη σε μετασχηματιστές για την προεκπαίδευση στην Επεξεργασία Φυσικής Γλώσσας (NLP), που αναπτύχθηκε από τη Google. Χρησιμοποιεί μοντελοποίηση γλώσσας με καλύμματα (masked language modeling) και πρόβλεψη επόμενης πρότασης για να μάθει διμερείς αναπαραστάσεις.

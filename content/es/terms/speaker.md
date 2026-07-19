@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /es/terms/speaker/
 date: "2026-07-18T11:08:44.432164Z"
 lastmod: "2026-07-18T11:44:44.856369Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una persona que produce sonidos vocales o habla dentro de una señal de audio."
 ---
-
 ## Definition
 
 En el procesamiento del habla, un orador se define como una fuente de voz humana distinta dentro de una grabación de audio. Identificar y distinguir a los oradores es fundamental para analizar conversaciones, garantizar la seguridad y mejorar la transcripción automática.

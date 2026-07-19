@@ -1,23 +1,25 @@
 ---
-title: "específico de la tarea"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: específico de la tarea
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /es/terms/task_specific/
-date: "2026-07-18T10:29:07.319248Z"
-lastmod: "2026-07-18T11:44:44.759191Z"
+slug: task_specific
+date: '2026-07-18T10:29:07.319248Z'
+lastmod: '2026-07-18T11:44:44.759191Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Los modelos específicos de la tarea son sistemas de IA diseñados y optimizados para realizar una única función bien definida en lugar de razonamiento de propósito general."
+source: agnes_llm
+status: published
+language: es
+description: Los modelos específicos de la tarea son sistemas de IA diseñados y optimizados
+  para realizar una única función bien definida en lugar de razonamiento de propósito
+  general.
 ---
-
 ## Definition
 
 Específico de la tarea se refiere a modelos o componentes de IA adaptados para destacar en un conjunto estrecho de objetivos, como detectar objetos en imágenes o traducir idiomas. A diferencia de los modelos fundamentales de propósito general, estos suelen ser más eficientes, precisos y ligeros para su dominio particular, aunque carecen de flexibilidad para otras funciones.

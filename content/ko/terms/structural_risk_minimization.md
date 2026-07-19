@@ -1,23 +1,23 @@
 ---
-title: "구조적 위험 최소화"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: 구조적 위험 최소화
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /ko/terms/structural_risk_minimization/
-date: "2026-07-18T16:17:21.908099Z"
-lastmod: "2026-07-18T16:38:06.911807Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:17:21.908099Z'
+lastmod: '2026-07-18T16:38:06.911807Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "모델 적합도와 복잡도를 균형 있게 조정하여 일반화 오류의 상한을 최소화하려는 통계 학습의 원리."
+source: agnes_llm
+status: published
+language: ko
+description: 모델 적합도와 복잡도를 균형 있게 조정하여 일반화 오류의 상한을 최소화하려는 통계 학습의 원리.
 ---
-
 ## Definition
 
 구조적 위험 최소화(SRM)는 과적합을 방지하기 위해 모델의 복잡도를 제어함으로써 기대 위험을 최소화하는 방법론입니다. 이는 경험적 위험 최소화(ERM)에 정규화 항이나 모델 복잡도 페널티를 추가하여 확장된 것으로, 단순함과 정확성 사이의 균형을 찾아 일반화 성능을 높이는 데 목적이 있습니다.

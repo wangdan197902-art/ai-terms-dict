@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /sv/terms/explanation_based_learning/
 date: "2026-07-18T15:57:12.664278Z"
 lastmod: "2026-07-18T17:15:09.002075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Förklaringbaserad inlärning är en metod för maskininlärning som använder domänteori och ett enda träningsexempel för att generera en förklaring, som sedan generaliseras till en ny regel."
 ---
-
 ## Definition
 
 EBL kombinerar symbolisk resonemangsförmåga med maskininlärning för att accelerera inlärningsprocessen. Istället för att förlita sig på stora datamängder tar den ett positivt exempel och använder en befintlig domänteori.

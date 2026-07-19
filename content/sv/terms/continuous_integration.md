@@ -1,23 +1,24 @@
 ---
-title: "Kontinuerlig integration"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Kontinuerlig integration
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /sv/terms/continuous_integration/
-date: "2026-07-18T15:37:46.634506Z"
-lastmod: "2026-07-18T17:15:08.961249Z"
+slug: continuous_integration
+date: '2026-07-18T15:37:46.634506Z'
+lastmod: '2026-07-18T17:15:08.961249Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En mjukvaruutvecklingsmetod där utvecklare ofta sammanfogar kodändringar i ett centralt arkiv, vilket utlöser automatiserade byggprocesser och tester."
+source: agnes_llm
+status: published
+language: sv
+description: En mjukvaruutvecklingsmetod där utvecklare ofta sammanfogar kodändringar
+  i ett centralt arkiv, vilket utlöser automatiserade byggprocesser och tester.
 ---
-
 ## Definition
 
 Kontinuerlig integration (CI) är en kritisk DevOps-metod som automatiserar integreringen av kodändringar från flera bidragsgivare i ett enda mjukvaruprojekt. Genom att köra automatiserade byggprocesser och tester säkerställs att koden ständigt är stabil och kompatibel.

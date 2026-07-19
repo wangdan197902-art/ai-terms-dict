@@ -1,23 +1,24 @@
 ---
-title: "Reconocimiento Automático del Habla"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Reconocimiento Automático del Habla
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /es/terms/automatic_speech_recognition/
-date: "2026-07-18T10:37:40.932286Z"
-lastmod: "2026-07-18T11:44:44.780405Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T10:37:40.932286Z'
+lastmod: '2026-07-18T11:44:44.780405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una tecnología que convierte el lenguaje hablado en texto utilizando modelos de aprendizaje profundo."
+source: agnes_llm
+status: published
+language: es
+description: Una tecnología que convierte el lenguaje hablado en texto utilizando
+  modelos de aprendizaje profundo.
 ---
-
 ## Definition
 
 El Reconocimiento Automático del Habla (ASR), también conocido como voz a texto, es una subárea del procesamiento del habla que aprovecha la inteligencia artificial para transcribir señales de audio en texto escrito. Los sistemas modernos de ASR...

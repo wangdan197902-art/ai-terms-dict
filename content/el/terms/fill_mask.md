@@ -1,23 +1,24 @@
 ---
-title: "Συμπλήρωση масκας"
-term_id: "fill_mask"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "pretraining", "transformers"]
+title: Συμπλήρωση масκας
+term_id: fill_mask
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- pretraining
+- transformers
 difficulty: 2
 weight: 1
-slug: "fill_mask"
-aliases:
-  - /el/terms/fill_mask/
-date: "2026-07-18T16:07:36.453815Z"
-lastmod: "2026-07-18T17:15:09.908844Z"
+slug: fill_mask
+date: '2026-07-18T16:07:36.453815Z'
+lastmod: '2026-07-18T17:15:09.908844Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα έργο επεξεργασίας φυσικής γλώσσας όπου ένα μοντέλο προβλέπει λείποντες όρους μέσα σε μια πρόταση με βάση το περιβάλλον πλαίσιο."
+source: agnes_llm
+status: published
+language: el
+description: Ένα έργο επεξεργασίας φυσικής γλώσσας όπου ένα μοντέλο προβλέπει λείποντες
+  όρους μέσα σε μια πρόταση με βάση το περιβάλλον πλαίσιο.
 ---
-
 ## Definition
 
 Η Συμπλήρωση Масκας είναι ένας θεμελιώδης στόχος προ-εκπαίδευσης που χρησιμοποιείται σε μοντέλα βασισμένα σε μετασχηματιστές όπως το BERT. Η διαδικασία περιλαμβάνει τη μάσκα τυχαίων όρων σε μια ακολουθία κειμένου και την εκπαίδευση του μοντέλου να προβλέπει την αρχική τιμή.

@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /vi/terms/understanding/
 date: "2026-07-18T15:29:53.443230Z"
 lastmod: "2026-07-18T16:38:07.698781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong AI, khả năng của một mô hình trong việc nắm bắt ý nghĩa ngữ nghĩa, ngữ cảnh và ý định trong dữ liệu đầu vào thay vì chỉ khớp mẫu."
 ---
-
 ## Definition
 
 Hiểu biết của AI vượt xa tương quan thống kê để diễn giải ý nghĩa nền tảng của dữ liệu. Đối với các mô hình ngôn ngữ, điều này bao gồm việc nắm bắt cú pháp, ngữ nghĩa và ngữ dụng để tạo ra các phản hồi mạch lạc và

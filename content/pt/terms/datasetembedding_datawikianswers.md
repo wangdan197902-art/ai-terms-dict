@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /pt/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T14:55:54.591210Z"
 lastmod: "2026-07-18T15:51:59.478898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados composto por pares de pergunta e resposta do WikiAnswers, usado para treinar modelos a compreender a intenção e a equivalência semântica."
 ---
-
 ## Definition
 
 Este conjunto de dados contém milhões de pares de pergunta-resposta extraídos da plataforma agora extinta WikiAnswers. É utilizado principalmente para treinar modelos de recuperação densa de passagens e correspondência semântica. Ao aproveitar

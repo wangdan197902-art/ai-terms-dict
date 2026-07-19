@@ -1,23 +1,24 @@
 ---
-title: "Uczenie preferencji"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Uczenie preferencji
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /pl/terms/preference_learning/
-date: "2026-07-18T16:11:41.128739Z"
-lastmod: "2026-07-18T17:15:08.907828Z"
+slug: preference_learning
+date: '2026-07-18T16:11:41.128739Z'
+lastmod: '2026-07-18T17:15:08.907828Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika trenująca modele do dopasowywania wyników do ludzkich preferencji za pomocą informacji zwrotnej porównawczej."
+source: agnes_llm
+status: published
+language: pl
+description: Technika trenująca modele do dopasowywania wyników do ludzkich preferencji
+  za pomocą informacji zwrotnej porównawczej.
 ---
-
 ## Definition
 
 Uczenie preferencji koncentruje się na nauce modeli rozróżniania między dobrymi a złymi wynikami na podstawie ocen ludzkich, a nie absolutnych etykiet. Zazwyczaj polega to na zbieraniu par odpowiedzi, gdzie człowiek wskazuje preferowaną opcję, co pozwala modelowi nauczyć się funkcji nagrody lub porządkować wyniki zgodnie z subiektywnymi oczekiwaniami użytkowników.

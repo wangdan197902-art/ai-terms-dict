@@ -1,23 +1,24 @@
 ---
-title: "อนุกรมเวลาเชิงโครงสร้างแบบเบย์"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: อนุกรมเวลาเชิงโครงสร้างแบบเบย์
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /th/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:44:10.003742Z"
-lastmod: "2026-07-18T16:38:07.579517Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:44:10.003742Z'
+lastmod: '2026-07-18T16:38:07.579517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทางทางสถิติที่ใช้การอนุมานแบบเบย์เพื่อแยกองค์ประกอบของอนุกรมเวลาออกเป็นส่วนๆ ที่ตีความได้"
+source: agnes_llm
+status: published
+language: th
+description: แนวทางทางสถิติที่ใช้การอนุมานแบบเบย์เพื่อแยกองค์ประกอบของอนุกรมเวลาออกเป็นส่วนๆ
+  ที่ตีความได้
 ---
-
 ## Definition
 
 แบบจำลองอนุกรมเวลาเชิงโครงสร้างแบบเบย์ (BSTS) แสดงข้อมูลอนุกรมเวลาเป็นผลรวมขององค์ประกอบที่ตีความได้ เช่น แนวโน้ม ฤดูกาล และผลกระทบจากการถดถอย โดยคำนึงถึงความไม่แน่นอนผ่านกระบวนการสุ่มและพารามิเตอร์ที่ไม่ทราบค่า

@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /vi/terms/multi_modality/
 date: "2026-07-18T16:04:19.107408Z"
 lastmod: "2026-07-18T16:38:07.784923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tính đa phương thức là khái niệm rộng lớn hơn hoặc lĩnh vực nghiên cứu về việc sử dụng nhiều loại dữ liệu khác biệt trong các kiến trúc học máy."
 ---
-
 ## Definition
 
 Tính đa phương thức đại diện cho khung kiến trúc và lý thuyết cho phép các mô hình AI xử lý các luồng dữ liệu dị biệt. Nó liên quan đến việc thiết kế các mạng nơ-ron có thể chấp nhận đầu vào từ nhiều nguồn khác nhau

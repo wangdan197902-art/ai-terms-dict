@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /id/terms/qwen36/
 date: "2026-07-18T16:06:35.314553Z"
 lastmod: "2026-07-18T16:38:07.499179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pembaruan minor berikutnya dari seri Qwen3, yang kemungkinan menyempurnakan metrik kinerja dan pengetahuan domain tertentu."
 ---
-
 ## Definition
 
 Qwen3.6 mewakili penyempurnaan lebih lanjut dalam keluarga model Qwen3. Pembaruan versi minor sering kali berfokus pada penghalusan kemampuan yang sudah ada, memperbaiki kesalahan pada kasus tepi (edge cases), dan mengoptimalkan kualitas data pelatihan untuk stabilitas dan akurasi yang lebih baik.

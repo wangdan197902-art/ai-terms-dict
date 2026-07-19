@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /hu/terms/emergent_algorithm/
 date: "2026-07-18T15:58:36.397312Z"
 lastmod: "2026-07-18T17:15:09.780406Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan algoritmikus viselkedés, amely egyszerű komponensek kölcsönhatásából spontán módon alakul ki, anélkül, hogy expliciten programozták volna."
 ---
-
 ## Definition
 
 Az emergens algoritmusok olyan komplex globális viselkedésekre vagy mintázatokra utalnak, amelyek sok egyszerű ügynök vagy szabály helyi kölcsönhatásaiból származnak egy rendszeren belül. Ellentétben a hagyományos, felülről lefelé irányuló programozással, ahol a viselkedést explicit módon definiálják, az emergens algoritmusoknál a bonyolult viselkedés a helyi szabályok alkalmazásából következik be.

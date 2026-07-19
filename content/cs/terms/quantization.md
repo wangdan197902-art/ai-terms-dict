@@ -1,23 +1,24 @@
 ---
-title: "Kvantizace"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kvantizace
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /cs/terms/quantization/
-date: "2026-07-18T15:37:59.146710Z"
-lastmod: "2026-07-18T17:15:09.092389Z"
+slug: quantization
+date: '2026-07-18T15:37:59.146710Z'
+lastmod: '2026-07-18T17:15:09.092389Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika optimalizace modelu, která snižuje přesnost čísel používaných ve výpočtech neuronových sítí, čímž zmenšuje velikost modelu a zvyšuje rychlost."
+source: agnes_llm
+status: published
+language: cs
+description: Technika optimalizace modelu, která snižuje přesnost čísel používaných
+  ve výpočtech neuronových sítí, čímž zmenšuje velikost modelu a zvyšuje rychlost.
 ---
-
 ## Definition
 
 Kvantizace převádí čísla vysoké přesnosti (např. FP32) na formáty nižší přesnosti (např. INT8 nebo FP16). Toto snížení snižuje využití paměti modelu a výpočetní nároky, což umožňuje rychlejší inferenci.

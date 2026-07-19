@@ -1,23 +1,23 @@
 ---
-title: "למידת ייצוגים רב-מודאליים"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: למידת ייצוגים רב-מודאליים
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /he/terms/multimodal_representation_learning/
-date: "2026-07-18T16:13:49.542696Z"
-lastmod: "2026-07-18T17:15:09.567029Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:13:49.542696Z'
+lastmod: '2026-07-18T17:15:09.567029Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה שלומדת ייצוגי תכונות מאוחדים ממספר מודוסים של נתונים בו-זמנית."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה שלומדת ייצוגי תכונות מאוחדים ממספר מודוסים של נתונים בו-זמנית.
 ---
-
 ## Definition
 
 למידת ייצוגים רב-מודאליים כוללת אימון מודלים לעבד ולשלב מידע ממקורות נתונים מסוגים שונים, כגון טקסט, תמונות, אודיו ווידאו, לתוך מרחב זיגוג משותף (shared latent space).

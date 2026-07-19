@@ -1,23 +1,23 @@
 ---
-title: "机器感知"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: 机器感知
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /zh/terms/machine_perception/
-date: "2026-07-18T11:25:23.018230Z"
-lastmod: "2026-07-18T11:44:45.529031Z"
+slug: machine_perception
+date: '2026-07-18T11:25:23.018230Z'
+lastmod: '2026-07-18T11:44:45.529031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "机器感知是指人工智能系统解释和理解来自环境的感觉数据（如图像、音频或传感器读数）的能力。"
+source: agnes_llm
+status: published
+language: zh
+description: 机器感知是指人工智能系统解释和理解来自环境的感觉数据（如图像、音频或传感器读数）的能力。
 ---
-
 ## Definition
 
 它弥合了原始传感器输入与有意义的语义理解之间的差距，模拟了人类的视觉和听觉等感官。关键技术包括用于物体识别的计算机视觉、语音...

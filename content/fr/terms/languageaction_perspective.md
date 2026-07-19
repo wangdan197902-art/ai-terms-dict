@@ -1,23 +1,24 @@
 ---
-title: "Perspective langage/action"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Perspective langage/action
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /fr/terms/languageaction_perspective/
-date: "2026-07-18T11:25:14.947317Z"
-lastmod: "2026-07-18T11:44:45.282897Z"
+slug: languageaction_perspective
+date: '2026-07-18T11:25:14.947317Z'
+lastmod: '2026-07-18T11:44:45.282897Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un cadre théorique considérant le langage principalement comme une forme d'action sociale plutôt que comme un simple système de description de la réalité."
+source: agnes_llm
+status: published
+language: fr
+description: Un cadre théorique considérant le langage principalement comme une forme
+  d'action sociale plutôt que comme un simple système de description de la réalité.
 ---
-
 ## Definition
 
 Ancrée dans la théorie des actes de parole et la pragmatique, cette perspective met l'accent sur la manière dont les énoncés remplissent des fonctions telles que la demande, la promesse ou l'ordre. En Traitement Automatique du Langage Naturel (NLP), elle éclaire la détection des intentions.

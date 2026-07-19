@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /de/terms/ai_security_institute/
 date: "2026-07-18T11:00:48.362758Z"
 lastmod: "2026-07-18T11:44:44.902829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Organisation, die sich der Erforschung, Entwicklung und Förderung bewährter Praktiken zur Sicherung von KI-Systemen widmet."
 ---
-
 ## Definition
 
 Ein Institut für KI-Sicherheit ist eine spezialisierte Einrichtung, die sich auf die Minderung von Risiken konzentriert, die mit KI-Technologien verbunden sind. Diese Institute führen Forschungen zu adversarialen Angriffen, Datenschutz...

@@ -1,23 +1,25 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /pt/terms/alphachip/
-date: "2026-07-18T14:49:14.040421Z"
-lastmod: "2026-07-18T15:51:59.462093Z"
+slug: alphachip
+date: '2026-07-18T14:49:14.040421Z'
+lastmod: '2026-07-18T15:51:59.462093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma ferramenta de design de chips impulsionada por IA desenvolvida pelo Google DeepMind que usa aprendizado por reforço para otimizar layouts de circuitos integrados."
+source: agnes_llm
+status: published
+language: pt
+description: Uma ferramenta de design de chips impulsionada por IA desenvolvida pelo
+  Google DeepMind que usa aprendizado por reforço para otimizar layouts de circuitos
+  integrados.
 ---
-
 ## Definition
 
 O AlphaChip é um sistema de IA especializado projetado para automatizar e aprimorar o posicionamento e o roteamento de componentes em microchips. Ao empregar aprendizado por reforço profundo, reduz significativamente o tempo

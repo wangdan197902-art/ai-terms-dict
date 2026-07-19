@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "QA"]
 difficulty: 2
 weight: 1
 slug: "datasettrivia_qa"
-aliases:
-  - /ja/terms/datasettrivia_qa/
 date: "2026-07-18T11:11:09.687290Z"
 lastmod: "2026-07-18T11:44:45.087382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "オープンドメインの質問応答用大規模データセット。様々なトリビア分野にわたる数百万件の質問と回答を含む。"
 ---
-
 ## Definition
 
 TriviaQAは、オープンドメインの質問応答を目的としたデータセットで、100万件以上の質問とその対応する回答を特徴としています。既存のモデルに挑戦させるために作成され、モデルに複雑な推論能力を要求します。

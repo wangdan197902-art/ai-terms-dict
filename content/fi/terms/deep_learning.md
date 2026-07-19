@@ -1,23 +1,24 @@
 ---
-title: "Syväoppiminen"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: Syväoppiminen
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /fi/terms/deep_learning/
-date: "2026-07-18T15:22:37.933536Z"
-lastmod: "2026-07-18T17:15:09.344628Z"
+slug: deep_learning
+date: '2026-07-18T15:22:37.933536Z'
+lastmod: '2026-07-18T17:15:09.344628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Koneoppimisen osa-alue, joka käyttää monikerroksisia tekoälyneuroverkkoja mallintamaan datan monimutkaisia kuvioita ja esityksiä."
+source: agnes_llm
+status: published
+language: fi
+description: Koneoppimisen osa-alue, joka käyttää monikerroksisia tekoälyneuroverkkoja
+  mallintamaan datan monimutkaisia kuvioita ja esityksiä.
 ---
-
 ## Definition
 
 Syväoppimisalgoritmit pyrkivät jäljittelemään ihmisaivojen analyyttisiä ja oppimismekanismeja. Sijoittamalla useita toisiinsa kytkettyjen solmujen kerroksia nämä mallit voivat oppia hierarkisia ominaisuuksia raakadatasta ilman laajaa manuaalista ominaisuuksien erottelua.

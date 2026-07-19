@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /ja/terms/on_policy/
 date: "2026-07-18T10:57:15.383168Z"
 lastmod: "2026-07-18T11:44:45.027757Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "評価および改善されるポリシーが、データ生成に使用されるポリシーと同じである強化学習のアプローチ。"
 ---
-
 ## Definition
 
 オンポリシーアルゴリズムでは、エージェントは現在のポリシーによって取られた行動から直接学習する必要があります。これは、探索中に収集されたデータが即座にポリシーの更新に使用され、一貫性を確保することを意味します。

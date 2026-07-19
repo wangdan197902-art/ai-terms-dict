@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /cs/terms/cli/
 date: "2026-07-18T15:34:23.578104Z"
 lastmod: "2026-07-18T17:15:09.087678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Příkazový řádek (CLI) je textově založený způsob interakce se softwarovými programy zadáváním příkazů do terminálu."
 ---
-
 ## Definition
 
 Příkazový řádek (CLI) umožňuje uživatelům ovládat software zadáváním textových příkazů místo používání grafických prvků. Ve vývoji AI jsou CLI nezbytné pro spouštění skriptů, správu m

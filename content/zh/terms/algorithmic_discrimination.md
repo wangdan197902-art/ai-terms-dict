@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /zh/terms/algorithmic_discrimination/
 date: "2026-07-18T11:04:37.356445Z"
 lastmod: "2026-07-18T11:44:45.440914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "当自动化系统基于受保护的特征产生不公平或有偏见的结果，从而对特定群体造成不利时，即发生算法歧视。"
 ---
-
 ## Definition
 
 这种现象源于AI模型因种族、性别、年龄或其他敏感属性而无意中或系统地对待个体不同。它通常源于有偏见的训练数据或

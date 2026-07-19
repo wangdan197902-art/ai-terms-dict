@@ -1,23 +1,24 @@
 ---
-title: "Subajuste"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: Subajuste
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /es/terms/underfitting/
-date: "2026-07-18T11:11:45.926293Z"
-lastmod: "2026-07-18T11:44:44.863554Z"
+slug: underfitting
+date: '2026-07-18T11:11:45.926293Z'
+lastmod: '2026-07-18T11:44:44.863554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una condición en la que un modelo de aprendizaje automático no logra capturar la tendencia subyacente de los datos de entrenamiento."
+source: agnes_llm
+status: published
+language: es
+description: Una condición en la que un modelo de aprendizaje automático no logra
+  capturar la tendencia subyacente de los datos de entrenamiento.
 ---
-
 ## Definition
 
 El subajuste ocurre cuando un modelo estadístico o un algoritmo de aprendizaje automático no puede aproximar con precisión la función que mapea las entradas a las salidas. Esto suele suceder cuando el modelo es demasiado simple para los datos o cuando no se ha entrenado durante suficiente tiempo.

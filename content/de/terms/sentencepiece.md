@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /de/terms/sentencepiece/
 date: "2026-07-18T11:33:04.663254Z"
 lastmod: "2026-07-18T11:44:44.984926Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine unüberwachte Tokenizer- und Detokenizer-Bibliothek für Texte, die rohen Text als Sequenz von Subwords für die NLP-Vorverarbeitung behandelt."
 ---
-
 ## Definition
 
 SentencePiece ist eine beliebte Open-Source-Bibliothek zur Textnormalisierung und Tokenisierung, die weit verbreitet in modernen NLP-Pipelines eingesetzt wird. Sie führt das unüberwachte Lernen eines gemeinsamen Wortstück- und Subword-Wortschatzes durch, um eine robuste Vorverarbeitung zu ermöglichen.

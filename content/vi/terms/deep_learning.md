@@ -1,23 +1,24 @@
 ---
-title: "Học sâu"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: Học sâu
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /vi/terms/deep_learning/
-date: "2026-07-18T15:22:49.791389Z"
-lastmod: "2026-07-18T16:38:07.678640Z"
+slug: deep_learning
+date: '2026-07-18T15:22:49.791389Z'
+lastmod: '2026-07-18T16:38:07.678640Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một tập con của học máy sử dụng các mạng nơ-ron nhân tạo nhiều lớp để mô hình hóa các mẫu và biểu diễn phức tạp trong dữ liệu."
+source: agnes_llm
+status: published
+language: vi
+description: Một tập con của học máy sử dụng các mạng nơ-ron nhân tạo nhiều lớp để
+  mô hình hóa các mẫu và biểu diễn phức tạp trong dữ liệu.
 ---
-
 ## Definition
 
 Các thuật toán học sâu cố gắng mô phỏng quá trình phân tích và học hỏi của não bộ con người. Bằng cách xếp chồng nhiều lớp các nút kết nối với nhau, các mô hình này có thể học các đặc trưng phân cấp từ dữ liệu thô mà không cần sự can thiệp thủ công nhiều.

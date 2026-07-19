@@ -1,23 +1,25 @@
 ---
-title: "Recorte (Clipping)"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Recorte (Clipping)
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /es/terms/clip/
-date: "2026-07-18T10:39:26.446101Z"
-lastmod: "2026-07-18T11:44:44.785681Z"
+slug: clip
+date: '2026-07-18T10:39:26.446101Z'
+lastmod: '2026-07-18T11:44:44.785681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El recorte es una técnica utilizada para limitar la magnitud de valores, como gradientes o probabilidades de salida, para evitar inestabilidad numérica durante el entrenamiento."
+source: agnes_llm
+status: published
+language: es
+description: El recorte es una técnica utilizada para limitar la magnitud de valores,
+  como gradientes o probabilidades de salida, para evitar inestabilidad numérica durante
+  el entrenamiento.
 ---
-
 ## Definition
 
 En la ingeniería del aprendizaje profundo, el recorte se aplica comúnmente a los gradientes para mitigar el problema de los gradientes explosivos, asegurando una retropropagación estable. También puede referirse a limitar los logit de salida antes de

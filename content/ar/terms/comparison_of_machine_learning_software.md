@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /ar/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T15:49:04.453164Z"
 lastmod: "2026-07-18T17:15:08.485703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقييم تحليلي لأطر عمل تعلم الآلة المختلفة بناءً على الميزات، والأداء، وسهولة الاستخدام، ودعم المجتمع لتوجيه اختيار الأدوات."
 ---
-
 ## Definition
 
 يشير هذا المصطلح إلى التقييم المنهجي واختبار معايير الأداء لمكتصات ومنصات تعلم الآلة المتنوعة، مثل TensorFlow وPyTorch وScikit-learn وKeras. عادةً ما تحلل المقارنات جوانب مثل سهولة التكامل، وكفاءة التدريب، وحجم المجتمع الداعم، وملاءمة كل إطار لعملية محددة.

@@ -1,23 +1,25 @@
 ---
-title: "Bộ dữ liệu: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Bộ dữ liệu: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /vi/terms/datasetwikipedia/
-date: "2026-07-18T15:48:26.943908Z"
-lastmod: "2026-07-18T16:38:07.746572Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:48:26.943908Z'
+lastmod: '2026-07-18T16:38:07.746572Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tập hợp văn bản khổng lồ từ Wikipedia, đóng vai trò là tập dữ liệu nền tảng để tiền huấn luyện các mô hình ngôn ngữ và thực hiện các tác vụ NLP đòi hỏi kiến thức chuyên sâu."
+source: agnes_llm
+status: published
+language: vi
+description: Tập hợp văn bản khổng lồ từ Wikipedia, đóng vai trò là tập dữ liệu nền
+  tảng để tiền huấn luyện các mô hình ngôn ngữ và thực hiện các tác vụ NLP đòi hỏi
+  kiến thức chuyên sâu.
 ---
-
 ## Definition
 
 Wikipedia là một trong những bộ sưu tập kiến thức phong phú và toàn diện nhất của con người dưới dạng văn bản. Trong lĩnh vực AI, nó là nguồn chính để tiền huấn luyện các mô hình ngôn ngữ lớn, cung cấp dữ liệu đa dạng về ngôn ngữ và thực tế.

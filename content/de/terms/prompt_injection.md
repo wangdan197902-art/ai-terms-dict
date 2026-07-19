@@ -1,23 +1,24 @@
 ---
-title: "Prompt-Injection"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Prompt-Injection
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /de/terms/prompt_injection/
-date: "2026-07-18T10:59:24.106221Z"
-lastmod: "2026-07-18T11:44:44.897964Z"
+slug: prompt_injection
+date: '2026-07-18T10:59:24.106221Z'
+lastmod: '2026-07-18T11:44:44.897964Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Angriff, bei dem bösartige Eingaben ein KI-Modell manipulieren, um Sicherheitsfilter zu umgehen oder unbeabsichtigte Befehle auszuführen."
+source: agnes_llm
+status: published
+language: de
+description: Ein Angriff, bei dem bösartige Eingaben ein KI-Modell manipulieren, um
+  Sicherheitsfilter zu umgehen oder unbeabsichtigte Befehle auszuführen.
 ---
-
 ## Definition
 
 Prompt-Injection nutzt die Weise aus, wie Large Language Models (LLMs) Benutzeraufforderungen interpretieren, indem versteckte oder widersprüchliche Anweisungen in den Eingabetext eingebettet werden. Dies kann dazu führen, dass das Modell seine ursprünglichen Anweisungen ignoriert.

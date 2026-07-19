@@ -1,23 +1,25 @@
 ---
-title: "Χαρτογράφηση Ενεργοποίησης Κλάσης"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: Χαρτογράφηση Ενεργοποίησης Κλάσης
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /el/terms/class_activation_mapping/
-date: "2026-07-18T15:55:08.340361Z"
-lastmod: "2026-07-18T17:15:09.888776Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:55:08.340361Z'
+lastmod: '2026-07-18T17:15:09.888776Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η χαρτογράφηση ενεργοποίησης κλάσης (CAM) είναι μια τεχνική οπτικοποίησης που τονίζει τις περιοχές σε μια εικόνα εισόδου που ευθύνονται περισσότερο για μια συγκεκριμένη προβλεπόμενη κλάση."
+source: agnes_llm
+status: published
+language: el
+description: Η χαρτογράφηση ενεργοποίησης κλάσης (CAM) είναι μια τεχνική οπτικοποίησης
+  που τονίζει τις περιοχές σε μια εικόνα εισόδου που ευθύνονται περισσότερο για μια
+  συγκεκριμένη προβλεπόμενη κλάση.
 ---
-
 ## Definition
 
 Η CAM δημιουργεί χάρτες θερμότητας που επικαλύπτουν τις εικόνες εισόδου, δείχνοντας ποια pixels συνέβαλαν περισσότερο στην απόφαση του μοντέλου για μια συγκεκριμένη ετικέτα κλάσης. Λειτουργεί εφαρμόζοντας παγκόσμια μέση συσσώρευση (global average pooling) στα τελικά επίπεδα χαρακτηριστικών του δικτύου.

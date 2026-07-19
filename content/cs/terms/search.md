@@ -1,23 +1,23 @@
 ---
-title: "Vyhledávání"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Vyhledávání
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /cs/terms/search/
-date: "2026-07-18T15:28:56.027973Z"
-lastmod: "2026-07-18T17:15:09.077797Z"
+slug: search
+date: '2026-07-18T15:28:56.027973Z'
+lastmod: '2026-07-18T17:15:09.077797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Algoritmy vyhledávání systematicky prozkoumávají prostor řešení za účelem nalezení optimálních nebo uspokojivých výsledků v úlohách AI."
+source: agnes_llm
+status: published
+language: cs
+description: Algoritmy vyhledávání systematicky prozkoumávají prostor řešení za účelem
+  nalezení optimálních nebo uspokojivých výsledků v úlohách AI.
 ---
-
 ## Definition
 
 Vyhledávání je základním paradigmatem v AI používaným k navigaci v komplexních problémech, jako jsou hry nebo plánování tras. Algoritmy jako A*, Minimax nebo Monte Carlo Tree Search hodnotí potenciální kroky

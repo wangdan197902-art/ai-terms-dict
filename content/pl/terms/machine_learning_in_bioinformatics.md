@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /pl/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:05:38.771658Z"
 lastmod: "2026-07-18T17:15:08.894819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zastosowanie modeli obliczeniowych do analizy danych biologicznych, takich jak sekwencje genomowe i struktury białek, w celu odkrywania nowych wniosków biologicznych."
 ---
-
 ## Definition
 
 Ta interdyscyplinarna dziedzina wykorzystuje uczenie maszynowe do przetwarzania ogromnych ilości danych biologicznych, umożliwiając badaczom przewidywanie funkcji genów, klasyfikację chorób oraz zrozumienie interakcji molekularnych.

@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /ko/terms/something_big_is_happening/
 date: "2026-07-18T16:15:55.600760Z"
 lastmod: "2026-07-18T16:38:06.909196Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "미디어에서 AI 분야의 획기적인 돌파구나 급속한 발전을 묘사할 때 자주 사용되는 구어체 표현입니다."
 ---
-
 ## Definition
 
 이 용어는 기술적 정의라기보다는 인공 지능 분야에서 격렬한 혁신, 대중의 관심, 또는 패러다임 전환이 일어나는 시기를 지칭하는 문화적 지표입니다. 이는 일반적으로 빠른 기술 발전과 함께 나타납니다.

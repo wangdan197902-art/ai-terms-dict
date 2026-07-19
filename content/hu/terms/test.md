@@ -1,23 +1,23 @@
 ---
-title: "Teszt"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Teszt
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /hu/terms/test/
-date: "2026-07-18T15:31:48.152480Z"
-lastmod: "2026-07-18T17:15:09.731557Z"
+slug: test
+date: '2026-07-18T15:31:48.152480Z'
+lastmod: '2026-07-18T17:15:09.731557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A teszt a kiértékelési szakaszra utal, amikor egy betanított AI modellt láthatatlan adatokon mérnek fel a teljesítményének meghatározására."
+source: agnes_llm
+status: published
+language: hu
+description: A teszt a kiértékelési szakaszra utal, amikor egy betanított AI modellt
+  láthatatlan adatokon mérnek fel a teljesítményének meghatározására.
 ---
-
 ## Definition
 
 A tesztkészlet az adatok egy része, amelyet a betanítási folyamat során külön tartanak a végső modell általánosítóképességének kiértékeléséhez. A hiperparaméter-beállításhoz használt validációs készletektől eltérően a tesztkészlet biztos

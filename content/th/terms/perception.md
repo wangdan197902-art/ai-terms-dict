@@ -1,23 +1,23 @@
 ---
-title: "การรับรู้ (Perception)"
-term_id: "perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "robotics"]
+title: การรับรู้ (Perception)
+term_id: perception
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- robotics
 difficulty: 3
 weight: 1
-slug: "perception"
-aliases:
-  - /th/terms/perception/
-date: "2026-07-18T15:27:51.573776Z"
-lastmod: "2026-07-18T16:38:07.544836Z"
+slug: perception
+date: '2026-07-18T15:27:51.573776Z'
+lastmod: '2026-07-18T16:38:07.544836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การรับรู้ คือ กระบวนการที่ระบบปัญญาประดิษฐ์ตีความข้อมูลอินพุตจากประสาทสัมผัส เช่น ภาพหรือเสียง เพื่อทำความเข้าใจสิ่งแวดล้อม"
+source: agnes_llm
+status: published
+language: th
+description: การรับรู้ คือ กระบวนการที่ระบบปัญญาประดิษฐ์ตีความข้อมูลอินพุตจากประสาทสัมผัส
+  เช่น ภาพหรือเสียง เพื่อทำความเข้าใจสิ่งแวดล้อม
 ---
-
 ## Definition
 
 การรับรู้ของปัญญาประดิษฐ์เกี่ยวข้องกับการแปลงข้อมูลดิบจากเซนเซอร์ให้เป็นข้อมูลที่มีความหมาย เพื่อให้โมดูลการให้เหตุผลในระดับสูงสามารถประมวลผลได้ ซึ่งรวมถึงวิสัยทัศน์คอมพิวเตอร์สำหรับการตีความภาพฉาก และระบบรู้จำเสียงพูด

@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /it/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:54:33.296478Z"
 lastmod: "2026-07-18T17:15:08.613894Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un dataset su larga scala di coppie domanda-risposta derivate da Wikipedia, progettato per l'addestramento al recupero di passaggi densi."
 ---
-
 ## Definition
 
 Il dataset PAQ (Pseudo-Answer Quality) contiene milioni di coppie domanda-risposta generate automaticamente estratte da Wikipedia. È specificamente progettato per addestrare i recuperatori densi fornendo...

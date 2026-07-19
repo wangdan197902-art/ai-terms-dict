@@ -1,23 +1,23 @@
 ---
-title: "期望传播"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: 期望传播
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /zh/terms/expectation_propagation/
-date: "2026-07-18T11:16:37.593430Z"
-lastmod: "2026-07-18T11:44:45.496849Z"
+slug: expectation_propagation
+date: '2026-07-18T11:16:37.593430Z'
+lastmod: '2026-07-18T11:44:45.496849Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种用于估计复杂概率图模型中后验分布的近似推理算法。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种用于估计复杂概率图模型中后验分布的近似推理算法。
 ---
-
 ## Definition
 
 期望传播（EP）通过迭代 refine 高斯近似值来逼近难以处理的积分，从而估计真实后验分布。它最小化近似分布与真实分布之间的Kullback-Leibler散度，常用于贝叶斯推断和稀疏高斯过程。

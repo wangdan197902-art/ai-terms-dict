@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /ro/terms/bench/
 date: "2026-07-18T15:23:38.980719Z"
 lastmod: "2026-07-18T17:15:09.589796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Prescurtare pentru benchmark, un set standard de teste sau o metrică utilizată pentru a evalua performanța modelelor IA."
 ---
-
 ## Definition
 
 Un benchmark servește ca punct de referință standardizat pentru compararea capacităților diferitelor modele sau algoritmi de IA. Implică de obicei un set de date curat și metrici de evaluare specifice, cum ar fi precizia sau recall-ul.

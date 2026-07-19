@@ -1,23 +1,24 @@
 ---
-title: "Normalizzazione batch"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Normalizzazione batch
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /it/terms/batch_normalization/
-date: "2026-07-18T15:49:14.847435Z"
-lastmod: "2026-07-18T17:15:08.602221Z"
+slug: batch_normalization
+date: '2026-07-18T15:49:14.847435Z'
+lastmod: '2026-07-18T17:15:08.602221Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La normalizzazione batch è una tecnica che normalizza gli input dei layer su un mini-batch per stabilizzare e accelerare l'addestramento delle reti neurali."
+source: agnes_llm
+status: published
+language: it
+description: La normalizzazione batch è una tecnica che normalizza gli input dei layer
+  su un mini-batch per stabilizzare e accelerare l'addestramento delle reti neurali.
 ---
-
 ## Definition
 
 Questo metodo regola e scala le attivazioni per avere media zero e varianza unitaria all'interno di ogni mini-batch durante l'addestramento. Riduce lo spostamento della covarianza interna, consentendo tassi di apprendimento più elevati e un addestramento più veloce.

@@ -1,23 +1,24 @@
 ---
-title: "Tro-önskemål-avsikts-modellen"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Tro-önskemål-avsikts-modellen
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /sv/terms/beliefdesireintention_model/
-date: "2026-07-18T15:47:43.959311Z"
-lastmod: "2026-07-18T17:15:08.980910Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:47:43.959311Z'
+lastmod: '2026-07-18T17:15:08.980910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En filosofisk ramverk som används inom AI för att modellera rationella agenter baserat på deras tro, önskemål och avsikter."
+source: agnes_llm
+status: published
+language: sv
+description: En filosofisk ramverk som används inom AI för att modellera rationella
+  agenter baserat på deras tro, önskemål och avsikter.
 ---
-
 ## Definition
 
 Modellen för Tro-Önskemål-Avsikt (BDI) är en kognitiv arkitektur för att designa autonoma agenter som fattar rationella beslut. Troar representerar agentens kunskap om världen, önskemål är de mål eller tillstånd som agenten strävar efter, och avsikter är de specifika planer eller handlingar som agenten har valt att genomföra för att uppnå sina önskemål baserat på sina troar.

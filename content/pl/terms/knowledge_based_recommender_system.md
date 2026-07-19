@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /pl/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:02:52.189653Z"
 lastmod: "2026-07-18T17:15:08.889423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Silnik rekomendacji generujący sugestie poprzez wnioskowanie na jawnej wiedzy domenowej i ograniczeniach użytkownika, zamiast polegać na danych historycznych."
 ---
-
 ## Definition
 
 W przeciwieństwie do filtrowania kolaboratywnego, które opiera się na przeszłych zachowaniach użytkowników, KBRS wykorzystuje jawną wiedzę o przedmiotach i preferencjach użytkowników do wyprowadzania rekomendacji. Jest szczególnie skuteczny na rynkach, gdzie dane są rzadkie lub nowe produkty nie mają historii interakcji.

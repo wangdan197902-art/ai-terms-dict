@@ -1,23 +1,24 @@
 ---
-title: "Epocha"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epocha
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /hu/terms/epoch/
-date: "2026-07-18T15:58:51.579638Z"
-lastmod: "2026-07-18T17:15:09.781568Z"
+slug: epoch
+date: '2026-07-18T15:58:51.579638Z'
+lastmod: '2026-07-18T17:15:09.781568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A betanító adathalmaz egyetlen teljes átfutása a gépi tanulási algoritmusban a modell betanítása során."
+source: agnes_llm
+status: published
+language: hu
+description: A betanító adathalmaz egyetlen teljes átfutása a gépi tanulási algoritmusban
+  a modell betanítása során.
 ---
-
 ## Definition
 
 A gépi tanulásban az epocha az egész betanító adathalmazon történő egyetlen iterációt jelenti. Minden epocha során a modell feldolgozza a betanítási példák mindegyikét, frissíti súlyait a hátrajelzéssel (backpropagation) keresztül, és...

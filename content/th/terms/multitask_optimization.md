@@ -1,23 +1,23 @@
 ---
-title: "การหาค่าเหมาะที่สุดหลายงาน"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: การหาค่าเหมาะที่สุดหลายงาน
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /th/terms/multitask_optimization/
-date: "2026-07-18T16:06:39.780474Z"
-lastmod: "2026-07-18T16:38:07.634915Z"
+slug: multitask_optimization
+date: '2026-07-18T16:06:39.780474Z'
+lastmod: '2026-07-18T16:38:07.634915Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์การฝึกที่ปรับแต่งโมเดลให้ทำงานหลายงานที่เกี่ยวข้องกันพร้อมกัน"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์การฝึกที่ปรับแต่งโมเดลให้ทำงานหลายงานที่เกี่ยวข้องกันพร้อมกัน
 ---
-
 ## Definition
 
 การหาค่าเหมาะที่สุดหลายงานเกี่ยวข้องกับการฝึกโมเดลเดียวให้จัดการกับงานที่แตกต่างกันแต่มีความเกี่ยวข้องกันหลายงานในเวลาเดียวกัน โดยการแบ่งปันการแสดงข้อมูลระหว่างกลางข้ามงาน โมเดลสามารถเรียนรู้ได้ทั่วไปมากขึ้น

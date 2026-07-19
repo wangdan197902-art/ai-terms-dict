@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /ko/terms/control/
 date: "2026-07-18T15:23:44.014861Z"
 lastmod: "2026-07-18T16:38:06.770918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "원하는 결과를 달성하기 위해 시스템의 동작과 상태를 관리, 지시 또는 규제하는 과정입니다."
 ---
-
 ## Definition
 
 인공지능에서 제어는 현재 상태와 목표에 기반하여 시스템의 행동을 안내하는 메커니즘과 알고리즘을 의미합니다. 여기서는 출력을 모니터링하고 피드백 루프(feedback loop)를 통해 시스템을 조정하는 과정이 포함됩니다.

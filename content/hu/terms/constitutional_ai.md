@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /hu/terms/constitutional_ai/
 date: "2026-07-18T15:51:20.361230Z"
 lastmod: "2026-07-18T17:15:09.765156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy módszer az AI-modellek biztonságos irányelvek követésére történő tanítására, önkritika alapján, előre meghatározott elveken."
 ---
-
 ## Definition
 
 Az alkotmányos MI egy keretrendszer nagy nyelvi modellek emberi értékekhez igazítására, anélkül, hogy minden lépésben kizárólag emberi visszajelzésre támaszkodna. Magában foglal egy magas szintű elvekből álló 'alkotmány' létrehozását, amelyet a modell saját maga alkalmaz.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /tr/terms/outline_of_machine_learning/
 date: "2026-07-18T16:07:31.041053Z"
 lastmod: "2026-07-18T16:38:07.343989Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Makine öğrenmesi paradigmalarını, algoritmalarını ve değerlendirme metriklerini kapsamlı bir şekilde kategorize eden yapı."
 ---
-
 ## Definition
 
 Bu terim, makine öğrenmesini denetimli, denetimsiz, yarı denetimli ve pekiştirmeli öğrenme olarak yapısal sınıflandırmayı tanımlar. Doğrusal regresyon gibi temel algoritma ailelerini içerir ve farklı öğrenme yaklaşımlarının karşılaştırılmasına olanak tanır.

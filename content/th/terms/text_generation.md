@@ -1,23 +1,23 @@
 ---
-title: "การสร้างข้อความ"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: การสร้างข้อความ
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /th/terms/text_generation/
-date: "2026-07-18T16:17:48.765604Z"
-lastmod: "2026-07-18T16:38:07.661183Z"
+slug: text_generation
+date: '2026-07-18T16:17:48.765604Z'
+lastmod: '2026-07-18T16:38:07.661183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ความสามารถของเอไอที่โมเดลสร้างลำดับข้อความที่คล้ายมนุษย์ทีละโทเค็น โดยอิงจากคำใบ้หรือบริบทที่กำหนดให้"
+source: agnes_llm
+status: published
+language: th
+description: ความสามารถของเอไอที่โมเดลสร้างลำดับข้อความที่คล้ายมนุษย์ทีละโทเค็น โดยอิงจากคำใบ้หรือบริบทที่กำหนดให้
 ---
-
 ## Definition
 
 การสร้างข้อความ (Text Generation) เป็นรูปแบบการใช้งานพื้นฐานในการประมวลผลภาษาธรรมชาติ ซึ่งโมเดลปัญญาประดิษฐ์สร้างเนื้อหาข้อความใหม่ โดยการทำนายโทเค็นถัดไปที่มีแนวโน้มจะเกิดขึ้นที่สุดในลำดับข้อความอย่างต่อเนื่อง

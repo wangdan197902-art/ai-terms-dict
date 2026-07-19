@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /nl/terms/moshi/
 date: "2026-07-18T16:08:29.816121Z"
 lastmod: "2026-07-18T17:15:08.769627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een spraak-taalmodel ontwikkeld door Kyutai dat gezamenlijk tekst- en audiorepresentaties leert voor naadloze multimodale interactie."
 ---
-
 ## Definition
 
 Moshi is een geavanceerd AI-model gemaakt door Kyutai dat spraak- en tekstverwerking integreert in een uniek kader. In tegenstelling tot traditionele systemen die spraak eerst omzetten naar tekst voordat ze deze verwerken, leert Moshi gezamenlijke representaties van zowel spraak als tekst, wat leidt tot natuurlijkere interacties.

@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /no/terms/artificial_wisdom/
 date: "2026-07-18T15:43:24.704685Z"
 lastmod: "2026-07-18T16:38:06.972947Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Utvidelsen av AI utover intelligens til å inkludere dømmekraft, etikk og kontekstuell forståelse for sunne beslutninger."
 ---
-
 ## Definition
 
 Kunstig visdom (AW) er et oppkommende konsept som søker å supplere kunstig intelligens med menneskelige verdier, etiske hensyn og langsiktig strategisk dømmekraft. Mens AI fokuserer på effektivit

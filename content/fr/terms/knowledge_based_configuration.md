@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /fr/terms/knowledge_based_configuration/
 date: "2026-07-18T11:24:42.527121Z"
 lastmod: "2026-07-18T11:44:45.281867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un processus automatisé utilisant des bases de connaissances spécifiques au domaine pour générer des configurations de produits valides à partir des contraintes utilisateur."
 ---
-
 ## Definition
 
 Cette approche utilise des techniques de satisfaction de contraintes au sein d'une base de connaissances pour garantir que les produits assemblés répondent à toutes les exigences techniques et client. Elle empêche les combinaisons invalides en encodant les règles métier et les dépendances produit.

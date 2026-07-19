@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /hu/terms/continuous_time/
 date: "2026-07-18T15:34:11.284534Z"
 lastmod: "2026-07-18T17:15:09.733886Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy modellezési megközelítés, ahol a változók folyamatos tartományban változnak simán, nem pedig diszkrét lépésekben."
 ---
-
 ## Definition
 
 A folytonos idejű modellek differenciálegyenletekkel írják le a rendszer dinamikáját, lehetővé téve az állapotok sima evolúcióját az időben. Az AI-ban ezt a Neurális ordináris differenciálegyenletek (Neural ODE-k) példázják...

@@ -1,23 +1,25 @@
 ---
-title: "Entraînement en précision mixte"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Entraînement en précision mixte
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /fr/terms/mixed_precision_training/
-date: "2026-07-18T11:30:03.034155Z"
-lastmod: "2026-07-18T11:44:45.293044Z"
+slug: mixed_precision_training
+date: '2026-07-18T11:30:03.034155Z'
+lastmod: '2026-07-18T11:44:45.293044Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'entraînement utilisant à la fois des nombres à virgule flottante sur 16 bits et 32 bits pour accélérer le calcul et réduire l'utilisation de la mémoire."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'entraînement utilisant à la fois des nombres à virgule
+  flottante sur 16 bits et 32 bits pour accélérer le calcul et réduire l'utilisation
+  de la mémoire.
 ---
-
 ## Definition
 
 L'entraînement en précision mixte (MPT) combine des types de données en demi-précision (FP16) et en pleine précision (FP32) lors de l'entraînement des réseaux neuronaux. En utilisant le FP16 pour la plupart des opérations, le MPT réduit l'empreinte mémoire et

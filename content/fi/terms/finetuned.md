@@ -1,23 +1,24 @@
 ---
-title: "Hienosäädetty"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Hienosäädetty
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /fi/terms/finetuned/
-date: "2026-07-18T15:58:03.620797Z"
-lastmod: "2026-07-18T17:15:09.411938Z"
+slug: finetuned
+date: '2026-07-18T15:58:03.620797Z'
+lastmod: '2026-07-18T17:15:09.411938Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa esikoulutettua mallia koulutetaan edelleen tietyn datan päällä soveltaakseen sitä tiettyyn tehtävään."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa esikoulutettua mallia koulutetaan edelleen tietyn datan
+  päällä soveltaakseen sitä tiettyyn tehtävään.
 ---
-
 ## Definition
 
 Hienosäätö viittaa tekniikkaan, jossa otetaan malli, joka on jo koulutettu suurella yleisellä datalla, ja jatketaan sen koulutusta pienemmällä, alan spesifillä datalla. Tämä mahdollistaa mallin mukauttamisen tarkempiin tehtäviin.

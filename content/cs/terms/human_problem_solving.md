@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /cs/terms/human_problem_solving/
 date: "2026-07-18T16:01:34.237442Z"
 lastmod: "2026-07-18T17:15:09.139324Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kognitivní proces, kterým jednotlivci identifikují, analyzují a řeší složité problémy pomocí úsudku, kreativity a zkušeností."
 ---
-
 ## Definition
 
 Lidské řešení problémů zahrnuje mnohostranné kognitivní schopnosti, které lidé využívají k zvládání výzev, od jednoduchých úkolů až po abstraktní konceptuální obtíže. Na rozdíl od algoritmických přístupů...

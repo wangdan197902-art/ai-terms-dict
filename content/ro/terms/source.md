@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /ro/terms/source/
 date: "2026-07-18T15:29:35.306132Z"
 lastmod: "2026-07-18T17:15:09.604278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la originea datelor, codului sau modelelor utilizate în dezvoltarea și implementarea IA."
 ---
-
 ## Definition
 
 În contextele IA, 'sursă' denotă de obicei proveniența seturilor de date de antrenament, bibliotecilor open-source sau greutăților modelelor pre-antrenate. Urmărirea surselor este critică pentru reproductibilitate, conformitatea licențierii...

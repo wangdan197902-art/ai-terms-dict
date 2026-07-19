@@ -1,23 +1,24 @@
 ---
-title: "Robustní"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robustní
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /cs/terms/robust/
-date: "2026-07-18T15:28:39.219439Z"
-lastmod: "2026-07-18T17:15:09.076970Z"
+slug: robust
+date: '2026-07-18T15:28:39.219439Z'
+lastmod: '2026-07-18T17:15:09.076970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Popisuje schopnost modelu nebo systému AI udržet výkon i přes šum, chyby nebo neočekávané vstupy."
+source: agnes_llm
+status: published
+language: cs
+description: Popisuje schopnost modelu nebo systému AI udržet výkon i přes šum, chyby
+  nebo neočekávané vstupy.
 ---
-
 ## Definition
 
 V umělé inteligenci robustnost znamená odolnost modelu vůči adversariálním útokům, posunům v datech nebo zašuměným vstupům. Robustní algoritmus pokračuje ve správném fungování i při...

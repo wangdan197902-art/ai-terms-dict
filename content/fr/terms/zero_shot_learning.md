@@ -1,23 +1,25 @@
 ---
-title: "Apprentissage Zero-Shot"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Apprentissage Zero-Shot
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /fr/terms/zero_shot_learning/
-date: "2026-07-18T11:02:04.880284Z"
-lastmod: "2026-07-18T11:44:45.190929Z"
+slug: zero_shot_learning
+date: '2026-07-18T11:02:04.880284Z'
+lastmod: '2026-07-18T11:44:45.190929Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'apprentissage zero-shot est une technique où un modèle effectue des tâches sur des classes qu'il n'a jamais vues lors de l'entraînement en exploitant les associations sémantiques."
+source: agnes_llm
+status: published
+language: fr
+description: L'apprentissage zero-shot est une technique où un modèle effectue des
+  tâches sur des classes qu'il n'a jamais vues lors de l'entraînement en exploitant
+  les associations sémantiques.
 ---
-
 ## Definition
 
 L'apprentissage zero-shot permet à un modèle d'apprentissage automatique de classifier des instances de classes qui n'étaient pas présentes dans son jeu de données d'entraînement. Au lieu de s'appuyer sur des exemples étiquetés pour chaque classe possible, le

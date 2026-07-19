@@ -1,23 +1,24 @@
 ---
-title: "Agent oprogramowania"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Agent oprogramowania
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /pl/terms/software_agent/
-date: "2026-07-18T16:16:48.660973Z"
-lastmod: "2026-07-18T17:15:08.918462Z"
+slug: software_agent
+date: '2026-07-18T16:16:48.660973Z'
+lastmod: '2026-07-18T17:15:08.918462Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Program komputerowy wykonujący zadania w imieniu użytkowników lub innych programów z pewnym stopniem autonomii."
+source: agnes_llm
+status: published
+language: pl
+description: Program komputerowy wykonujący zadania w imieniu użytkowników lub innych
+  programów z pewnym stopniem autonomii.
 ---
-
 ## Definition
 
 Agent oprogramowania to autonomiczna jednostka zdolna do postrzegania swojego środowiska, rozumowania i działania w celu osiągnięcia określonych celów. Agenci ci mogą działać niezależnie, dostosowywać się do zmian i współpracować

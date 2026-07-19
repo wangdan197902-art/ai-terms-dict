@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /pt/terms/cognitive_robotics/
 date: "2026-07-18T14:53:19.099687Z"
 lastmod: "2026-07-18T15:51:59.471941Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A robótica cognitiva é um campo focado na criação de robôs com capacidades cognitivas semelhantes às humanas, como percepção, raciocínio e aprendizado."
 ---
-
 ## Definition
 
 A robótica cognitiva integra a ciência cognitiva com a robótica para construir máquinas capazes de perceber seu ambiente, aprender com a experiência e tomar decisões autônomas. Esses robôs empregam algoritmos avançados de inteligência artificial para adaptar-se a situações novas e imprevistas, mimetizando a flexibilidade cognitiva humana.

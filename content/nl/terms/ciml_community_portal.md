@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /nl/terms/ciml_community_portal/
 date: "2026-07-18T15:45:48.155310Z"
 lastmod: "2026-07-18T17:15:08.723950Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een centraal online platform dat samenwerking, deling van middelen en discussie bevordert tussen onderzoekers en professionals in computationele intelligentie en machine learning."
 ---
-
 ## Definition
 
 Het CIML-communityportaal fungeert als een digitaal knooppunt voor de academische en professionele gemeenschap die zich richt op computationele intelligentie. Het biedt toegang tot datasets, voorgeprogrammeerde modellen, onderzoeksartikelen en discussiefora om de voortgang in het veld te versnellen.

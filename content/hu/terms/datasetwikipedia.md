@@ -1,23 +1,24 @@
 ---
-title: "Adathalmaz: Wikipédia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Adathalmaz: Wikipédia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /hu/terms/datasetwikipedia/
-date: "2026-07-18T15:55:35.396691Z"
-lastmod: "2026-07-18T17:15:09.772627Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:55:35.396691Z'
+lastmod: '2026-07-18T17:15:09.772627Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Wikipédia hatalmas szöveggyűjteménye, amely alapvető korpuszként szolgál a nyelvi modellek előzetes betanításához és a tudásigényes NLP feladatokhoz."
+source: agnes_llm
+status: published
+language: hu
+description: A Wikipédia hatalmas szöveggyűjteménye, amely alapvető korpuszként szolgál
+  a nyelvi modellek előzetes betanításához és a tudásigényes NLP feladatokhoz.
 ---
-
 ## Definition
 
 A Wikipédia az egyik legnagyobb és legátfogóbb emberi tudástár szöveges formátumban. Az AI területén elsődleges forrásként szolgál a nagy nyelvi modellek előzetes betanításához (pre-training), mivel gazdag nyelvi és enciklopédikus tudást biztosít, amely segít a modelleknek a világ ismereteinek elsajátításában.

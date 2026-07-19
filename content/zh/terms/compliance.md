@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /zh/terms/compliance/
 date: "2026-07-18T11:10:50.277231Z"
 lastmod: "2026-07-18T11:44:45.459246Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "人工智能系统对法律法规、伦理标准和行业准则的遵守。"
 ---
-
 ## Definition
 
 在人工智能领域，合规性是指确保AI模型及其部署符合适用法律（如GDPR或HIPAA）以及内部伦理框架的过程。

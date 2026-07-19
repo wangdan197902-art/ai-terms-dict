@@ -1,23 +1,22 @@
 ---
-title: "ซิมบาล"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: ซิมบาล
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /th/terms/symbal/
-date: "2026-07-18T15:30:58.825834Z"
-lastmod: "2026-07-18T16:38:07.550238Z"
+slug: symbal
+date: '2026-07-18T15:30:58.825834Z'
+lastmod: '2026-07-18T16:38:07.550238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ซิมบาลไม่ใช่ศัพท์มาตรฐานที่ได้รับการยอมรับในสาขาปัญญาประดิษฐ์หรือวิทยาการคอมพิวเตอร์"
+source: agnes_llm
+status: published
+language: th
+description: ซิมบาลไม่ใช่ศัพท์มาตรฐานที่ได้รับการยอมรับในสาขาปัญญาประดิษฐ์หรือวิทยาการคอมพิวเตอร์
 ---
-
 ## Definition
 
 ไม่มีการนิยามที่ชัดเจนสำหรับคำว่า 'ซิมบาล' ในบริบทของศัพท์ปัญญาประดิษฐ์ อาจเป็นการพิมพ์ผิดจากคำว่า 'Symbolic' ซึ่งหมายถึงปัญญาประดิษฐ์เชิงสัญลักษณ์ หรือเป็นคำศัพท์ใหม่ที่ไม่เป็นมาตรฐาน ในทางเทคนิคที่เข้มงวด

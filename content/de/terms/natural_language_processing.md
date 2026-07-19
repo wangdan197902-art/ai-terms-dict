@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /de/terms/natural_language_processing/
 date: "2026-07-18T10:52:17.985009Z"
 lastmod: "2026-07-18T11:44:44.879298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Zweig der KI, der sich darauf konzentriert, Computern das Verständnis, die Interpretation und die Generierung menschlicher Sprache zu ermöglichen."
 ---
-
 ## Definition
 
 Natural Language Processing (NLP) ist ein Teilgebiet der künstlichen Intelligenz, das Computerlinguistik mit statistischen, maschinellen Lern- und Deep-Learning-Modellen kombiniert. Es ermöglicht Maschinen, natürliche Sprache zu verstehen und zu verarbeiten.

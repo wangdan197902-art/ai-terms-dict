@@ -1,23 +1,22 @@
 ---
-title: "テスト"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: テスト
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /ja/terms/test/
-date: "2026-07-18T10:55:24.558866Z"
-lastmod: "2026-07-18T11:44:45.020917Z"
+slug: test
+date: '2026-07-18T10:55:24.558866Z'
+lastmod: '2026-07-18T11:44:45.020917Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "テストとは、訓練済みAIモデルが未見のデータに対して評価され、そのパフォーマンスを測定する評価フェーズを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: テストとは、訓練済みAIモデルが未見のデータに対して評価され、そのパフォーマンスを測定する評価フェーズを指します。
 ---
-
 ## Definition
 
 テストセットは、トレーニングプロセス中に保持され、最終モデルの汎化能力を評価するために使用されるデータの一部分です。ハイパーパラメータのチューニングに使用される検証セットとは異なり、テストセットはモデルの最終的な性能を unbiased に評価するために提供されます。

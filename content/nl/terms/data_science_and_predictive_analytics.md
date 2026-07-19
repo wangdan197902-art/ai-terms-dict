@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /nl/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:48:56.039973Z"
 lastmod: "2026-07-18T17:15:08.730986Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Dit vakgebied combineert statistische analyse en machine learning om inzichten uit gegevens te halen en toekomstige gebeurtenissen of gedragingen te voorspellen."
 ---
-
 ## Definition
 
 Datawetenschap omvat het interdisciplinaire proces van het extraheren van kennis uit gestructureerde en ongestructureerde gegevens, terwijl predictieve analyse zich specifiek richt op het gebruik van historische gegevens om toekomstige

@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /id/terms/muiltimodal/
 date: "2026-07-18T16:01:21.584688Z"
 lastmod: "2026-07-18T16:38:07.485132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Multimodal mengacu pada sistem AI yang memproses dan mengintegrasikan berbagai jenis modalitas data, seperti teks, gambar, dan audio, secara bersamaan."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, multimodalitas menggambarkan kemampuan sebuah model untuk memahami, menghasilkan, atau menghubungkan informasi di berbagai input sensorik atau format data. Berbeda dengan model unimodal,

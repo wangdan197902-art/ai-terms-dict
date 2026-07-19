@@ -1,23 +1,24 @@
 ---
-title: "와드와니 인공지능 연구소"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: 와드와니 인공지능 연구소
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /ko/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T16:20:20.729583Z"
-lastmod: "2026-07-18T16:38:06.919192Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T16:20:20.729583Z'
+lastmod: '2026-07-18T16:38:06.919192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "와드와니 인공지능 연구소는 개발도상국의 보건 및 농업 분야에서 중요한 과제를 해결하기 위해 AI 솔루션을 적용하는 데 중점을 둔 연구 기관입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 와드와니 인공지능 연구소는 개발도상국의 보건 및 농업 분야에서 중요한 과제를 해결하기 위해 AI 솔루션을 적용하는 데 중점을
+  둔 연구 기관입니다.
 ---
-
 ## Definition
 
 와드와니 재단의 대규모 기부를 통해 설립된 이 연구소는 고급 머신러닝 및 컴퓨터 비전 기술을 활용하여 대규모 사회적 문제를 해결합니다. 그 주

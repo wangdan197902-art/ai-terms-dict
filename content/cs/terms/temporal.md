@@ -1,23 +1,23 @@
 ---
-title: "Časový"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Časový
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /cs/terms/temporal/
-date: "2026-07-18T15:30:22.571176Z"
-lastmod: "2026-07-18T17:15:09.079526Z"
+slug: temporal
+date: '2026-07-18T15:30:22.571176Z'
+lastmod: '2026-07-18T17:15:09.079526Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Časový se vztahuje k časovým posloupnostem a zaměřuje se na to, jak se data mění nebo jak závislosti vyvíjejí v čase."
+source: agnes_llm
+status: published
+language: cs
+description: Časový se vztahuje k časovým posloupnostem a zaměřuje se na to, jak se
+  data mění nebo jak závislosti vyvíjejí v čase.
 ---
-
 ## Definition
 
 Časové koncepty v AI zahrnují analýzu datových bodů uspořádaných v čase, jako jsou ceny akcií, údaje ze senzorů nebo věty v přirozeném jazyce. Modely zpracovávající časová data musí zohlednit pořadí sekvencí...

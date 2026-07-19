@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /cs/terms/compute/
 date: "2026-07-18T15:49:06.561292Z"
 lastmod: "2026-07-18T17:15:09.112089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Výpočetní výkon označuje zpracovatelskou sílu a zdroje používané k provádění algoritmů a zpracování dat v systémech umělé inteligence."
 ---
-
 ## Definition
 
 V umělé inteligenci představuje výpočetní výkon základní infrastrukturu potřebnou k trénování modelů a provádění inferenčních procesů. Zahrnuje hardwarové komponenty, jako jsou procesory (CPU), grafické karty (GPU) a specializované čipy pro AI (TPU), stejně jako softwarovou podporu pro efektivní využití těchto zdrojů.

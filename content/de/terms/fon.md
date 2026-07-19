@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /de/terms/fon/
 date: "2026-07-18T11:14:56.506217Z"
 lastmod: "2026-07-18T11:44:44.941279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Fon bezeichnet die grundlegenden Prinzipien und theoretischen Grundlagen, die das Design und den Betrieb von KI-Systemen leiten."
 ---
-
 ## Definition
 
 Im Kontext der KI-Terminologie wird 'Fon' oft verwendet, um die funktionale Ontologie oder die grundlegenden Logikstrukturen zu beschreiben, die definieren, wie ein KI-Modell Eingaben interpretiert und Ausgaben generiert. Es 

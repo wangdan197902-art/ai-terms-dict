@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /tr/terms/mechanistic_interpretability/
 date: "2026-07-18T16:02:58.572088Z"
 lastmod: "2026-07-18T16:38:07.333157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sadece giriş-çıkış davranışlarına değil, modelin bileşenlerine ve mekanizmalarına odaklanarak yapay zeka modellerini anlamaya yönelik bir yaklaşım."
 ---
-
 ## Definition
 
 Mekanistik yorumlanabilirlik, sinir ağlarının belirli işlevleri nasıl hesapladığını bireysel nöronlar, ağırlıklar ve devreler düzeyinde anlamak için modelleri ters mühendislikle incelemeyi amaçlar. Modelin siyah kutu gibi davranmasını önleyerek, iç işleyişin şeffaflığını ve neden-sonuç ilişkilerini ortaya koymayı hedefler.

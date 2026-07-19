@@ -1,23 +1,24 @@
 ---
-title: "קידוד מיקומי"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: קידוד מיקומי
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /he/terms/positional_encoding/
-date: "2026-07-18T15:37:58.967353Z"
-lastmod: "2026-07-18T17:15:09.502660Z"
+slug: positional_encoding
+date: '2026-07-18T15:37:58.967353Z'
+lastmod: '2026-07-18T17:15:09.502660Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה המחדירה מידע על המיקום היחסי או המוחלט של אסימונים ברצף לתוך מודלי טרנספורמר."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה המחדירה מידע על המיקום היחסי או המוחלט של אסימונים ברצף לתוך מודלי
+  טרנספורמר.
 ---
-
 ## Definition
 
 מכיוון שטרנספורמרים מעבדים את כל האסימונים במקביל ולא ברצף כמו ב-RNNs, חסר להם ידע מובנה בסדר האסימונים. קידוד מיקומי מוסיף וקטורים ספציפיים להטמעות הקלט כדי לספק מידע זה.

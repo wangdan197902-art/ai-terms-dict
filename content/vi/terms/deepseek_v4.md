@@ -7,8 +7,6 @@ tags: ["scaling", "alignment", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v4"
-aliases:
-  - /vi/terms/deepseek_v4/
 date: "2026-07-18T15:48:58.163076Z"
 lastmod: "2026-07-18T16:38:07.748051Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "DeepSeek V4 là một phiên bản khái niệm hoặc kế tiếp trong dòng DeepSeek, đại diện cho những tiến bộ hơn nữa trong việc mở rộng quy mô mô hình và tích hợp đa phương thức."
 ---
-
 ## Definition
 
 Là người kế thừa của các phiên bản trước đó, DeepSeek V4 ngụ ý sự tiếp tục phát triển trong dòng mô hình DeepSeek, tập trung vào khả năng mở rộng và độ bền vững được cải thiện. Trong khi các chi tiết công khai cụ thể có thể thay đổi tùy thuộc

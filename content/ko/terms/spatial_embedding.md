@@ -1,23 +1,23 @@
 ---
-title: "공간 임베딩"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: 공간 임베딩
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /ko/terms/spatial_embedding/
-date: "2026-07-18T16:16:08.889254Z"
-lastmod: "2026-07-18T16:38:06.909867Z"
+slug: spatial_embedding
+date: '2026-07-18T16:16:08.889254Z'
+lastmod: '2026-07-18T16:38:06.909867Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "사물이나 위치 간의 공간 관계를 머신러닝 모델이 이해할 수 있는 벡터 표현으로 매핑하는 기술입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 사물이나 위치 간의 공간 관계를 머신러닝 모델이 이해할 수 있는 벡터 표현으로 매핑하는 기술입니다.
 ---
-
 ## Definition
 
 공간 임베딩은 물리적 또는 추상적인 공간 관계를 밀집 벡터 공간으로 변환하여 알고리즘이 근접성, 방향성 및 위상 구조를 이해할 수 있도록 합니다. 이 기술은 지리적 정보 및 환경 인식에 필수적입니다.

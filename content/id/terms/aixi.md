@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /id/terms/aixi/
 date: "2026-07-18T15:37:50.589699Z"
 lastmod: "2026-07-18T16:38:07.424499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "AIXI adalah teori matematika tentang kecerdasan umum buatan yang memodelkan agen optimal yang berinteraksi dengan lingkungannya."
 ---
-
 ## Definition
 
 AIXI adalah kerangka kerja teoretis yang diusulkan oleh Marcus Hutter yang mendefinisikan agen cerdas yang diidealkan. Ini menggabungkan induksi Solomonoff untuk memprediksi lingkungan dengan pembelajaran penguatan untuk mengembangkan strategi tindakan optimal guna memaksimalkan imbalan jangka panjang.

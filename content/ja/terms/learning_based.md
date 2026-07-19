@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /ja/terms/learning_based/
 date: "2026-07-18T10:56:57.946334Z"
 lastmod: "2026-07-18T11:44:45.026729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "明示的なプログラミングルールではなく、経験を通じてアルゴリズムがパフォーマンスを向上させる手法を示します。"
 ---
-
 ## Definition
 
 学習ベースのアプローチは、統計的アルゴリズムに依存し、データへの曝露に基づいてパターンを特定し意思決定を行います。これはルールベースシステムとは対照的です。このカテゴリには、教師あり学習、教師なし学習、強化学習などが含まれます。

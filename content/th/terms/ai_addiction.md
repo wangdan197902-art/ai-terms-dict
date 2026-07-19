@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /th/terms/ai_addiction/
 date: "2026-07-18T15:38:24.783750Z"
 lastmod: "2026-07-18T16:38:07.567720Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ภาวะพึ่งพาทางจิตวิทยาจากการโต้ตอบกับระบบปัญญาประดิษฐ์ นำไปสู่พฤติกรรมการใช้งานที่ compulsive"
 ---
-
 ## Definition
 
 การเสพติด AI อธิบายถึงสภาวะพฤติกรรมที่บุคคลพัฒนาความพึ่งพาแบบบังคับต่อปฏิสัมพันธ์ที่ขับเคลื่อนด้วย AI เช่น แชทบอทหรืออัลกอริทึมโซเชียลมีเดีย ภาวะพึ่งพามักมีสาเหตุมาจากกลไกการให้รางวัล

@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /th/terms/transformers/
 date: "2026-07-18T15:31:26.123679Z"
 lastmod: "2026-07-18T16:38:07.551991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ในบริบทนี้ หมายถึงไลบรารี Transformers ของ Hugging Face ชุดเครื่องมือโอเพนซอร์สยอดนิยมสำหรับโมเดล NLP และมัลติโมดัลล่าสุด"
 ---
-
 ## Definition
 
 คำว่า 'Transformers' มักหมายถึงไลบรารี Python ที่ได้รับความนิยมอย่างกว้างขวางและดูแลโดย Hugging Face โดยให้ส่วนติดต่อใช้งานที่ง่ายต่อการดาวน์โหลด ฝึกฝน และปรับใช้โมเดลที่ได้รับการฝึกฝนมาแล้วจากชุมชน

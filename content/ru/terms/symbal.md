@@ -1,23 +1,23 @@
 ---
-title: "Симбал"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: Симбал
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /ru/terms/symbal/
-date: "2026-07-18T15:29:44.456728Z"
-lastmod: "2026-07-18T16:38:07.091188Z"
+slug: symbal
+date: '2026-07-18T15:29:44.456728Z'
+lastmod: '2026-07-18T16:38:07.091188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Симбал не является стандартным термином, признанным в области искусственного интеллекта или компьютерных наук."
+source: agnes_llm
+status: published
+language: ru
+description: Симбал не является стандартным термином, признанным в области искусственного
+  интеллекта или компьютерных наук.
 ---
-
 ## Definition
 
 В контексте терминологии ИИ не существует устоявшегося определения для слова «Симбал». Возможно, это опечатка в слове «Symbolic» (символьный), относящаяся к символьному ИИ, или нестандартный неологизм. В строгом техническом контексте...

@@ -1,23 +1,24 @@
 ---
-title: "Minimisasi risiko struktural"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Minimisasi risiko struktural
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /id/terms/structural_risk_minimization/
-date: "2026-07-18T16:10:01.809300Z"
-lastmod: "2026-07-18T16:38:07.511137Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:10:01.809300Z'
+lastmod: '2026-07-18T16:38:07.511137Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah prinsip dalam pembelajaran statistik yang bertujuan meminimalkan batas atas kesalahan generalisasi dengan menyeimbangkan kecocokan model dan kompleksitasnya."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah prinsip dalam pembelajaran statistik yang bertujuan meminimalkan
+  batas atas kesalahan generalisasi dengan menyeimbangkan kecocokan model dan kompleksitasnya.
 ---
-
 ## Definition
 
 Minimisasi risiko struktural (SRM) adalah metode untuk meminimalkan risiko yang diharapkan dengan mengendalikan kompleksitas model untuk mencegah overfitting. Metode ini memperluas minimisasi risiko empiris dengan menambahkan suku regularisasi

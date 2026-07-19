@@ -1,23 +1,24 @@
 ---
-title: "Aproximarea aptitudinii"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Aproximarea aptitudinii
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /ro/terms/fitness_approximation/
-date: "2026-07-18T15:58:41.708929Z"
-lastmod: "2026-07-18T17:15:09.656882Z"
+slug: fitness_approximation
+date: '2026-07-18T15:58:41.708929Z'
+lastmod: '2026-07-18T17:15:09.656882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică în algoritmi evolutivi care estimează calitatea soluției pentru a reduce costurile computaționale în timpul optimizării."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică în algoritmi evolutivi care estimează calitatea soluției pentru
+  a reduce costurile computaționale în timpul optimizării.
 ---
-
 ## Definition
 
 Aproximarea aptitudinii este utilizată în calculul evolutiv atunci când evaluarea funcției reale de aptitudine este costisitoare sau consumatoare de timp din punct de vedere computațional. În loc să se calculeze valoarea exactă, se utilizează modele supragrup.

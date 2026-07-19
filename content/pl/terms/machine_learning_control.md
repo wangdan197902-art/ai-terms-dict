@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /pl/terms/machine_learning_control/
 date: "2026-07-18T16:05:38.771648Z"
 lastmod: "2026-07-18T17:15:08.894701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Podejście teorii sterowania, w którym algorytmy uczenia maszynowego adaptacyjnie zarządzają dynamiką systemu, aby zoptymalizować wydajność w czasie rzeczywistym."
 ---
-
 ## Definition
 
 Sterowanie oparte na uczeniu maszynowym integruje algorytmy adaptacyjne z tradycyjnymi systemami sterowania, aby radzić sobie ze środowiskami nieliniowymi lub niepewnymi. W przeciwieństwie do statycznych regulatorów, systemy te uczą się na podstawie operacyjnych danych historycznych i bieżących obserwacji.

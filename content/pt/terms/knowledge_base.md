@@ -1,23 +1,24 @@
 ---
-title: "Base de Conhecimento"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Base de Conhecimento
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /pt/terms/knowledge_base/
-date: "2026-07-18T14:44:35.658816Z"
-lastmod: "2026-07-18T15:51:59.451199Z"
+slug: knowledge_base
+date: '2026-07-18T14:44:35.658816Z'
+lastmod: '2026-07-18T15:51:59.451199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um repositório centralizado de informações estruturadas usado para apoiar a tomada de decisão e a geração aumentada por recuperação em aplicações de IA."
+source: agnes_llm
+status: published
+language: pt
+description: Um repositório centralizado de informações estruturadas usado para apoiar
+  a tomada de decisão e a geração aumentada por recuperação em aplicações de IA.
 ---
-
 ## Definition
 
 Uma base de conhecimento serve como uma biblioteca digital contendo dados curados, documentos ou fatos que os sistemas de IA podem consultar para fornecer respostas precisas e contextualizadas. Em arquiteturas modernas como a Geração Aumentada por Recuperação (RAG), a base de conhecimento permite que o modelo responda com informações atualizadas e verificadas, reduzindo alucinações.

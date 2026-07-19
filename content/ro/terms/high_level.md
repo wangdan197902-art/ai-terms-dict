@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /ro/terms/high_level/
 date: "2026-07-18T15:32:40.193622Z"
 lastmod: "2026-07-18T17:15:09.608767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la reprezentări abstracte sau interfețe de programare care ascund detaliile de implementare de nivel scăzut de la utilizator."
 ---
-
 ## Definition
 
 În IA, „de nivel înalt” denotă abstractizări care simplifică procesele complexe. Limbajele de nivel înalt (cum ar fi Python) sau API-urile permit dezvoltatorilor să construiască modele fără a gestiona memoria sau specificațiile hardware. Acestea oferă funcționalități predefinite și intuitive, crescând productivitatea, dar sacrificând uneori controlul fin asupra execuției.

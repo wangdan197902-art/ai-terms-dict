@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /cs/terms/model_index/
 date: "2026-07-18T16:09:30.471200Z"
 lastmod: "2026-07-18T17:15:09.154631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Index modelu je soubor metadat používaný Hugging Face Hubem k popisu a organizaci komponent a konfigurací modelu."
 ---
-
 ## Definition
 
 Soubor indexu, obvykle nazvaný 'model_index.json', obsahuje strukturované informace o architektuře modelu, včetně typu potrubí (pipeline), podmodelů a cest ke konfiguracím. Umožňuje Hubu koordinovat

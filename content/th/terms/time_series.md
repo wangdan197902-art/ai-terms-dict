@@ -1,23 +1,22 @@
 ---
-title: "อนุกรมเวลา (Time Series)"
-term_id: "time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "forecasting"]
+title: อนุกรมเวลา (Time Series)
+term_id: time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- forecasting
 difficulty: 3
 weight: 1
-slug: "time_series"
-aliases:
-  - /th/terms/time_series/
-date: "2026-07-18T16:18:25.777770Z"
-lastmod: "2026-07-18T16:38:07.662965Z"
+slug: time_series
+date: '2026-07-18T16:18:25.777770Z'
+lastmod: '2026-07-18T16:38:07.662965Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ลำดับของจุดข้อมูลที่จัดเรียงตามลำดับเวลา มักวิเคราะห์โดยใช้โมเดล AI เฉพาะทางสำหรับการพยากรณ์"
+source: agnes_llm
+status: published
+language: th
+description: ลำดับของจุดข้อมูลที่จัดเรียงตามลำดับเวลา มักวิเคราะห์โดยใช้โมเดล AI เฉพาะทางสำหรับการพยากรณ์
 ---
-
 ## Definition
 
 ข้อมูลอนุกรมเวลาประกอบด้วยข้อสังเกตที่บันทึกตามลำดับในช่วงเวลาต่างๆ ในวงการ AI ข้อมูลประเภทนี้มีความสำคัญอย่างยิ่งต่อการทำนายแนวโน้มในอนาคตโดยอิงจากรูปแบบในอดีต โมเดลเฉพาะทางเช่น...

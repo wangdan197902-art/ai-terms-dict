@@ -1,23 +1,24 @@
 ---
-title: "النباتية الاصطناعية"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: النباتية الاصطناعية
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /ar/terms/ai_veganism/
-date: "2026-07-18T15:41:21.521355Z"
-lastmod: "2026-07-18T17:15:08.470742Z"
+slug: ai_veganism
+date: '2026-07-18T15:41:21.521355Z'
+lastmod: '2026-07-18T17:15:08.470742Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مفهوم مجازي يقترح أن تعمل أنظمة الذكاء الاصطناعي دون الاعتماد على البيانات أو العمالة البشرية."
+source: agnes_llm
+status: published
+language: ar
+description: مفهوم مجازي يقترح أن تعمل أنظمة الذكاء الاصطناعي دون الاعتماد على البيانات
+  أو العمالة البشرية.
 ---
-
 ## Definition
 
 النباتية الاصطناعية مصطلح افتراضي ومجازي يشير إلى فكرة إنشاء ذكاء اصطناعي يتعلم تماماً من البيانات التركيبية، أو المُولَّدة ذاتياً، أو من العالم المادي، بدلاً من الاعتماد على البيانات البشرية.

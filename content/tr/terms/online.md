@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /tr/terms/online/
 date: "2026-07-18T15:27:26.488652Z"
 lastmod: "2026-07-18T16:38:07.239297Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sıfırdan yeniden eğitim yapmadan, yeni veri akışlarından gerçek zamanlı olarak sürekli öğrenen makine öğrenimi modellerini ifade eder."
 ---
-
 ## Definition
 
 Çevrimiçi öğrenme, modelin tüm veriyi aynı anda statik bir yığın üzerinde eğitmek yerine, yeni veri noktaları geldikçe artımsal olarak güncellendiği bir makine öğrenimi paradigmasıdır. Bu yaklaşım kritik öneme sahiptir...

@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /tr/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:54:59.411716Z"
 lastmod: "2026-07-18T16:38:07.312645Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kurumların kritik operasyonlar için jeneratif yapay zeka sistemlerine olan bağımlılığı; erişilebilirlik, doğruluk ve güvenlik açısından riskler doğurur."
 ---
-
 ## Definition
 
 Bu kavram, işletmelerin içerik oluşturma, müşteri hizmetleri ve veri analizi gibi temel görevleri yerine getirmek için jeneratif yapay zeka modellerine stratejik ve operasyonel olarak ne kadar güvendiğini ifade eder. Benimseme arttıkça...

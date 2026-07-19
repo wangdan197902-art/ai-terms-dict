@@ -1,23 +1,24 @@
 ---
-title: "Zakotvený"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Zakotvený
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /cs/terms/grounded/
-date: "2026-07-18T15:25:44.336824Z"
-lastmod: "2026-07-18T17:15:09.070204Z"
+slug: grounded
+date: '2026-07-18T15:25:44.336824Z'
+lastmod: '2026-07-18T17:15:09.070204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Označuje systémy umělé inteligence, které propojují abstraktní symboly nebo jazyk se senzorickými daty ze skutečného světa nebo fyzickými akcemi."
+source: agnes_llm
+status: published
+language: cs
+description: Označuje systémy umělé inteligence, které propojují abstraktní symboly
+  nebo jazyk se senzorickými daty ze skutečného světa nebo fyzickými akcemi.
 ---
-
 ## Definition
 
 V umělé inteligenci termín „zakotvený“ popisuje proces spojování symbolických reprezentací, jako jsou slova nebo logické výroky, s jejich skutečnými referenty ve fyzickém světě nebo smyslovém vnímání.

@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /nl/terms/artificial_brain/
 date: "2026-07-18T15:42:57.019160Z"
 lastmod: "2026-07-18T17:15:08.717382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een computationeel systeem ontworpen om de structuur en functie van de biologische menselijke hersenen na te bootsen, vaak met behulp van neurale netwerken."
 ---
-
 ## Definition
 
 Kunstmatige hersenen verwijzen naar hardware- of softwarearchitecturen die de neurale structuren en verwerkingsmethoden van de menselijke hersenen emuleren. Dit omvat neuromorfische rekenchips die...

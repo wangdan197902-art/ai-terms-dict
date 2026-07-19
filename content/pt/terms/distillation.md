@@ -1,23 +1,25 @@
 ---
-title: "Destilação"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Destilação
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /pt/terms/distillation/
-date: "2026-07-18T14:34:18.553343Z"
-lastmod: "2026-07-18T15:51:59.427475Z"
+slug: distillation
+date: '2026-07-18T14:34:18.553343Z'
+lastmod: '2026-07-18T15:51:59.427475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A destilação de conhecimento é uma técnica de compressão de modelos na qual um modelo menor (aluno) aprende a imitar o comportamento de um modelo maior (professor)."
+source: agnes_llm
+status: published
+language: pt
+description: A destilação de conhecimento é uma técnica de compressão de modelos na
+  qual um modelo menor (aluno) aprende a imitar o comportamento de um modelo maior
+  (professor).
 ---
-
 ## Definition
 
 Este processo envolve a transferência de conhecimento de uma rede neural 'professor' complexa e de alto desempenho para uma rede 'aluno' mais simples e eficiente. O aluno aprende não apenas a partir dos rótulos exatos, mas também das distribuições de probabilidade suaves do professor.

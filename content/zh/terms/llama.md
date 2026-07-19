@@ -1,23 +1,23 @@
 ---
-title: "Llama"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: Llama
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /zh/terms/llama/
-date: "2026-07-18T11:24:20.006014Z"
-lastmod: "2026-07-18T11:44:45.525843Z"
+slug: llama
+date: '2026-07-18T11:24:20.006014Z'
+lastmod: '2026-07-18T11:44:45.525843Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由 Meta AI 开发的大型语言模型系列，以其开放权重和强大的性能而闻名。"
+source: agnes_llm
+status: published
+language: zh
+description: 由 Meta AI 开发的大型语言模型系列，以其开放权重和强大的性能而闻名。
 ---
-
 ## Definition
 
 Llama（Large Language Model Meta AI）是 Meta 发布的一系列基础大型语言模型。与许多专有模型不同，Llama 模型通常以开放权重的形式发布，允许研究人员和开发者进行本地部署和微调。

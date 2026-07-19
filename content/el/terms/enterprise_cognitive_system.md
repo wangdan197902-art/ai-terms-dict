@@ -1,23 +1,25 @@
 ---
-title: "Επιχειρησιακό γνωστικό σύστημα"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: Επιχειρησιακό γνωστικό σύστημα
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /el/terms/enterprise_cognitive_system/
-date: "2026-07-18T16:05:42.172335Z"
-lastmod: "2026-07-18T17:15:09.905296Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T16:05:42.172335Z'
+lastmod: '2026-07-18T17:15:09.905296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια ολοκληρωμένη πλατφόρμα τεχνητής νοημοσύνης που εφαρμόζει προηγμένη ανάλυση δεδομένων και μηχανική μάθηση για την αυτοματοποίηση σύνθετων επιχειρησιακών διαδικασιών και λήψης αποφάσεων."
+source: agnes_llm
+status: published
+language: el
+description: Μια ολοκληρωμένη πλατφόρμα τεχνητής νοημοσύνης που εφαρμόζει προηγμένη
+  ανάλυση δεδομένων και μηχανική μάθηση για την αυτοματοποίηση σύνθετων επιχειρησιακών
+  διαδικασιών και λήψης αποφάσεων.
 ---
-
 ## Definition
 
 Ένα επιχειρησιακό γνωστικό σύστημα συνδυάζει την τεχνητή νοημοσύνη, την επεξεργασία φυσικής γλώσσας και τη μηχανική μάθηση για να προσομοιώσει ανθρώπινες διαδικασίες σκέψης σε ένα εταιρικό περιβάλλον. Αυτά τα συστήματα αναλύουν δεδομένα και αλληλεπιδρούν με τους χρήστες για να υποστηρίξουν σύνθετες εργασίες.

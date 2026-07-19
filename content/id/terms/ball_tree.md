@@ -1,23 +1,24 @@
 ---
-title: "Pohon Bola"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Pohon Bola
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /id/terms/ball_tree/
-date: "2026-07-18T15:40:24.313011Z"
-lastmod: "2026-07-18T16:38:07.431773Z"
+slug: ball_tree
+date: '2026-07-18T15:40:24.313011Z'
+lastmod: '2026-07-18T16:38:07.431773Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Struktur data pohon biner yang digunakan untuk mengatur titik-titik dalam ruang, mengoptimalkan pencarian tetangga terdekat dalam dataset berdimensi tinggi."
+source: agnes_llm
+status: published
+language: id
+description: Struktur data pohon biner yang digunakan untuk mengatur titik-titik dalam
+  ruang, mengoptimalkan pencarian tetangga terdekat dalam dataset berdimensi tinggi.
 ---
-
 ## Definition
 
 Pohon bola membagi titik data menjadi hipersfer bersarang (bola) alih-alih hiperkotak. Struktur ini memungkinkan pemangkasan yang efisien selama kueri tetangga terdekat dengan menghitung jarak antar

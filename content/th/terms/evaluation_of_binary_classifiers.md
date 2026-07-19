@@ -1,23 +1,23 @@
 ---
-title: "การประเมินตัวจำแนกประเภทแบบไบนารี"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: การประเมินตัวจำแนกประเภทแบบไบนารี
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /th/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:52:35.884188Z"
-lastmod: "2026-07-18T16:38:07.603690Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:52:35.884188Z'
+lastmod: '2026-07-18T16:38:07.603690Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการประเมินประสิทธิภาพของโมเดลแมชชีนเลิร์นนิงที่ทำนายผลลัพธ์ที่เป็นไปได้สองอย่าง"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการประเมินประสิทธิภาพของโมเดลแมชชีนเลิร์นนิงที่ทำนายผลลัพธ์ที่เป็นไปได้สองอย่าง
 ---
-
 ## Definition
 
 สาขานี้เกี่ยวข้องกับการวิเคราะห์เมตริกต่างๆ เช่น ความแม่นยำ (Accuracy), ค่าความแม่นยำ (Precision), ค่าความครอบคลุม (Recall), ค่า F1-score และพื้นที่ใต้เส้นโค้ง ROC (AUC-ROC) ช่วยกำหนดว่าโมเดลสามารถแยกแยะข้อมูลได้ดีเพียงใด

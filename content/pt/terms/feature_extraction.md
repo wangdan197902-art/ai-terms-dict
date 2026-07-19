@@ -1,23 +1,25 @@
 ---
-title: "Feature Extraction"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: Feature Extraction
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /pt/terms/feature_extraction/
-date: "2026-07-18T14:59:57.207450Z"
-lastmod: "2026-07-18T15:51:59.490696Z"
+slug: feature_extraction
+date: '2026-07-18T14:59:57.207450Z'
+lastmod: '2026-07-18T15:51:59.490696Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo de derivar informações significativas de dados brutos para reduzir a dimensionalidade e melhorar o desempenho dos modelos de aprendizado de máquina."
+source: agnes_llm
+status: published
+language: pt
+description: O processo de derivar informações significativas de dados brutos para
+  reduzir a dimensionalidade e melhorar o desempenho dos modelos de aprendizado de
+  máquina.
 ---
-
 ## Definition
 
 A extração de features envolve transformar dados brutos em um conjunto de características que representam melhor o problema subjacente para os modelos preditivos, resultando em maior precisão do modelo. Esta técnica reduz a complexidade dos dados mantendo as informações essenciais.

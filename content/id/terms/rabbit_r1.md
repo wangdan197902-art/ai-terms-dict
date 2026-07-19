@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /id/terms/rabbit_r1/
 date: "2026-07-18T16:06:35.314568Z"
 lastmod: "2026-07-18T16:38:07.499491Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Perangkat genggam bertenaga AI yang dilengkapi dengan Large Action Model (LAM) yang dirancang untuk mengeksekusi tugas secara otonom."
 ---
-
 ## Definition
 
 Rabbit r1 adalah perangkat keras khusus yang diluncurkan oleh Rabbit Inc., yang berpusat pada Large Action Model (LAM) milik mereka. Berbeda dengan smartphone tujuan umum, perangkat ini berfokus pada pelaksanaan tugas spesifik tertentu melalui pengenalan niat pengguna, memungkinkan otomatisasi alur kerja lintas aplikasi.

@@ -1,23 +1,24 @@
 ---
-title: "Biyoserinlik"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Biyoserinlik
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /tr/terms/bioserenity/
-date: "2026-07-18T15:44:24.417237Z"
-lastmod: "2026-07-18T16:38:07.280110Z"
+slug: bioserenity
+date: '2026-07-18T15:44:24.417237Z'
+lastmod: '2026-07-18T16:38:07.280110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Biyolojik yaşam ile yapay zeka sistemleri arasında uyumlu bir bir arada bulunma durumunu ifade eden teorik bir kavram."
+source: agnes_llm
+status: published
+language: tr
+description: Biyolojik yaşam ile yapay zeka sistemleri arasında uyumlu bir bir arada
+  bulunma durumunu ifade eden teorik bir kavram.
 ---
-
 ## Definition
 
 Biyoserinlik, insan biyolojisi ile yapay zekanın sorunsuz ve çatışmasız bir uyum içinde çalıştığı kavramsalsal bir idealdir. Bu kavram, yapay zeka desteklemelerinin etik entegrasyonunu vurgular ve bu entegrasyonun sağladığı dengeyi ön plana çıkarır.

@@ -1,23 +1,24 @@
 ---
-title: "Αutomatized Μαθηματικός"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Αutomatized Μαθηματικός
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /el/terms/automated_mathematician/
-date: "2026-07-18T15:51:58.611884Z"
-lastmod: "2026-07-18T17:15:09.883068Z"
+slug: automated_mathematician
+date: '2026-07-18T15:51:58.611884Z'
+lastmod: '2026-07-18T17:15:09.883068Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα σύστημα ΤΝ σχεδιασμένο να ανακαλύπτει νέα μαθηματικά θεωρήματα, υποθέσεις ή αποδείξεις μέσω υπολογιστικής αναζήτησης και λογικής."
+source: agnes_llm
+status: published
+language: el
+description: Ένα σύστημα ΤΝ σχεδιασμένο να ανακαλύπτει νέα μαθηματικά θεωρήματα, υποθέσεις
+  ή αποδείξεις μέσω υπολογιστικής αναζήτησης και λογικής.
 ---
-
 ## Definition
 
 Ένας Automatized Μαθηματικός χρησιμοποιεί μηχανική μάθηση και συμβολική λογική για να εξερευνήσει μαθηματικούς χώρους πέρα από την ανθρώπινη διαίσθηση. Αυτά τα συστήματα μπορούν να δημιουργήσουν υποθέσεις, να επαληθεύσουν αποδείξεις και να βρουν μοτίβα.

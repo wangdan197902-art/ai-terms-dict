@@ -1,23 +1,24 @@
 ---
-title: "Optimal"
-term_id: "optimal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "decision-making"]
+title: Optimal
+term_id: optimal
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "optimal"
-aliases:
-  - /fr/terms/optimal/
-date: "2026-07-18T10:52:27.947238Z"
-lastmod: "2026-07-18T11:44:45.168486Z"
+slug: optimal
+date: '2026-07-18T10:52:27.947238Z'
+lastmod: '2026-07-18T11:44:45.168486Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'optimalité désigne la meilleure solution ou action possible au sein d'un ensemble de contraintes donné, maximisant les récompenses ou minimisant les coûts."
+source: agnes_llm
+status: published
+language: fr
+description: L'optimalité désigne la meilleure solution ou action possible au sein
+  d'un ensemble de contraintes donné, maximisant les récompenses ou minimisant les
+  coûts.
 ---
-
 ## Definition
 
 En IA et en théorie de l'optimisation, une solution optimale est celle qui atteint la métrique de performance la plus élevée possible, telle qu'une récompense maximale en apprentissage par renforcement ou une erreur minimale en régression. Trouver cette solution implique souvent de naviguer dans un espace de recherche complexe.

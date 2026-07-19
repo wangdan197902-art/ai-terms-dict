@@ -1,23 +1,24 @@
 ---
-title: "ปัญญาประดิษฐ์เชิงกำเนิด (Generative AI)"
-term_id: "generative_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ai", "creation"]
+title: ปัญญาประดิษฐ์เชิงกำเนิด (Generative AI)
+term_id: generative_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
+- creation
 difficulty: 2
 weight: 1
-slug: "generative_ai"
-aliases:
-  - /th/terms/generative_ai/
-date: "2026-07-18T15:55:54.377820Z"
-lastmod: "2026-07-18T16:38:07.609323Z"
+slug: generative_ai
+date: '2026-07-18T15:55:54.377820Z'
+lastmod: '2026-07-18T16:38:07.609323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ปัญญาประดิษฐ์เชิงกำเนิดคือประเภทของปัญญาประดิษฐ์ที่มีความสามารถในการสร้างเนื้อหาใหม่ เช่น ข้อความ รูปภาพ เสียง และโค้ด程序 โดยอิงจากรูปแบบที่เรียนรู้จากข้อมูลการฝึกฝน"
+source: agnes_llm
+status: published
+language: th
+description: ปัญญาประดิษฐ์เชิงกำเนิดคือประเภทของปัญญาประดิษฐ์ที่มีความสามารถในการสร้างเนื้อหาใหม่
+  เช่น ข้อความ รูปภาพ เสียง และโค้ด程序 โดยอิงจากรูปแบบที่เรียนรู้จากข้อมูลการฝึกฝน
 ---
-
 ## Definition
 
 ระบบเหล่านี้ รวมถึงโมเดลภาษาขนาดใหญ่และโมเดลดิฟฟิวชัน ไม่ได้เพียงแค่ดึงข้อมูลที่มีอยู่มาแสดง แต่เป็นการสังเคราะห์ผลลัพธ์ใหม่ๆ ขึ้นมา โดยการเรียนรู้โครงสร้างและสไตล์พื้นฐานจากข้อมูลที่ใช้ฝึกฝน เพื่อสร้างเนื้อหาที่คล้ายคลึงแต่ไม่เคยมีมาก่อน

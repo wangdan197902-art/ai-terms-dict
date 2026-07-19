@@ -1,23 +1,24 @@
 ---
-title: "Obliczenia neuronowe"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Obliczenia neuronowe
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /pl/terms/neural_computation/
-date: "2026-07-18T16:09:01.008645Z"
-lastmod: "2026-07-18T17:15:08.901213Z"
+slug: neural_computation
+date: '2026-07-18T16:09:01.008645Z'
+lastmod: '2026-07-18T17:15:08.901213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces przetwarzania informacji w sztucznych sieciach neuronowych inspirowanych neuronami biologicznymi."
+source: agnes_llm
+status: published
+language: pl
+description: Proces przetwarzania informacji w sztucznych sieciach neuronowych inspirowanych
+  neuronami biologicznymi.
 ---
-
 ## Definition
 
 Obliczenia neuronowe odnoszą się do operacji matematycznych wykonywanych przez sztuczne neurony w celu przekształcenia sygnałów wejściowych w odpowiedzi wyjściowe. Obejmują one sumy ważone, funkcje aktywacji oraz propagację zwrotną błędu.

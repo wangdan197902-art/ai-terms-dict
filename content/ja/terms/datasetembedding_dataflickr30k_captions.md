@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /ja/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T11:10:22.565553Z"
 lastmod: "2026-07-18T11:44:45.084702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "3万1千枚の画像と人間が生成した説明文を結びつけ、クロスモーダル埋め込みモデルを訓練するためのマルチモーダルデータセット。"
 ---
-
 ## Definition
 
 Flickr30Kキャプションは、視覚的内容を記述する5つの異なる英語文で注釈付けされた3万1,783枚の画像からなる、広く使用されているベンチマークデータセットです。これは基盤的なリソースとして機能します。

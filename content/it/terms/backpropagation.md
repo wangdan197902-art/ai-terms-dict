@@ -1,23 +1,24 @@
 ---
-title: "Backpropagation (Retropropagazione)"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: Backpropagation (Retropropagazione)
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /it/terms/backpropagation/
-date: "2026-07-18T15:22:27.224776Z"
-lastmod: "2026-07-18T17:15:08.559248Z"
+slug: backpropagation
+date: '2026-07-18T15:22:27.224776Z'
+lastmod: '2026-07-18T17:15:08.559248Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un algoritmo ampiamente utilizzato per l'addestramento delle reti neurali calcolando i gradienti per minimizzare l'errore."
+source: agnes_llm
+status: published
+language: it
+description: Un algoritmo ampiamente utilizzato per l'addestramento delle reti neurali
+  calcolando i gradienti per minimizzare l'errore.
 ---
-
 ## Definition
 
 Il Backpropagation, abbreviazione di retropropagazione degli errori, è un metodo utilizzato nelle reti neurali artificiali per calcolare il gradiente della funzione di perdita rispetto ai pesi. Funziona propag

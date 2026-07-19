@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /he/terms/intelligent_agent/
 date: "2026-07-18T16:07:08.948728Z"
 lastmod: "2026-07-18T17:15:09.551880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ישות תוכנה אוטונומית התופסת את סביבתה, חושבת לגבי פעולות ומבצעת משימות כדי להשיג יעדים ספציפיים."
 ---
-
 ## Definition
 
 סוכן חכם הוא מערכת המסוגלת לתפוס את סביבתה באמצעות חיישנים או קלט נתונים, לעבד מידע זה באמצעות אלגוריתמי היגיון, ולפעול בסביבה דרך מנגנוני פעולה (Actuators)...

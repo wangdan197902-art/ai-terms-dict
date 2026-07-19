@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /zh/terms/token_limit/
 date: "2026-07-18T11:02:15.411402Z"
 lastmod: "2026-07-18T11:44:45.406752Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI模型在单个输入或输出序列中可处理的最大令牌数量。"
 ---
-
 ## Definition
 
 令牌限制定义了大型语言模型的上下文窗口大小约束，限制了同时可以分析或生成的文本量。这一架构边界影响内存管理、

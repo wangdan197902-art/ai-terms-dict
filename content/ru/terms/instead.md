@@ -1,23 +1,23 @@
 ---
-title: "Вместо"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Вместо
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /ru/terms/instead/
-date: "2026-07-18T15:26:16.107048Z"
-lastmod: "2026-07-18T16:38:07.079565Z"
+slug: instead
+date: '2026-07-18T15:26:16.107048Z'
+lastmod: '2026-07-18T16:38:07.079565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вместо — это лингвистический союз или наречие, указывающее на замену, подмену или альтернативное действие, предпринимаемое вместо другого."
+source: agnes_llm
+status: published
+language: ru
+description: Вместо — это лингвистический союз или наречие, указывающее на замену,
+  подмену или альтернативное действие, предпринимаемое вместо другого.
 ---
-
 ## Definition
 
 Хотя это и не технический алгоритмический термин ИИ, слово «instead» критически важно в инженерии промптов и понимании естественного языка. Оно сигнализирует о соотношении контраста или замены между частями предложения. В обучении больших языковых моделей...

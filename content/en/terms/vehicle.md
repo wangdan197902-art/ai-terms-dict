@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /en/terms/vehicle/
 date: "2026-07-18T09:37:52.960855Z"
 lastmod: "2026-07-18T11:44:44.614403Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "In AI contexts, a vehicle often refers to the platform or medium through which AI models are deployed or delivered to end-users."
 ---
-
 ## Definition
 
 While traditionally meaning transport, in AI terminology, 'vehicle' can metaphorically describe the delivery mechanism for intelligent services, such as mobile apps, web interfaces, or embedded systems. It emphasizes the channel through which AI capabilities interact with the physical world or user interfaces, highlighting the integration of software intelligence into tangible hardware or digital platforms.

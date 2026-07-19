@@ -1,23 +1,24 @@
 ---
-title: "Autonóm"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Autonóm
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /hu/terms/autonomous/
-date: "2026-07-18T15:23:41.245469Z"
-lastmod: "2026-07-18T17:15:09.715559Z"
+slug: autonomous
+date: '2026-07-18T15:23:41.245469Z'
+lastmod: '2026-07-18T17:15:09.715559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyan rendszereket ír le, amelyek képesek döntéseket hozni és függetlenül cselekedni dinamikus környezetben."
+source: agnes_llm
+status: published
+language: hu
+description: Olyan rendszereket ír le, amelyek képesek döntéseket hozni és függetlenül
+  cselekedni dinamikus környezetben.
 ---
-
 ## Definition
 
 Az autonómia az AI-ban azt a képességet jelöli, hogy egy rendszer képes érzékelni környezetét, döntéseket hozni és cselekvéseket végrehajtani közvetlen emberi irányítás nélkül. Az egyszerű automatizálástól eltérően az autonóm rendszerek alkalmazkodnak a változó körülményekhez.

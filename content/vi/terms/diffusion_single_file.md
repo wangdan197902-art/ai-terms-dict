@@ -1,23 +1,26 @@
 ---
-title: "Tệp đơn Khuếch tán"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Tệp đơn Khuếch tán
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /vi/terms/diffusion_single_file/
-date: "2026-07-18T15:49:58.203411Z"
-lastmod: "2026-07-18T16:38:07.750746Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:49:58.203411Z'
+lastmod: '2026-07-18T16:38:07.750746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một định dạng phân phối cho các mô hình khuếch tán, nơi tất cả trọng số mô hình, cấu hình và đôi khi cả mã suy luận đều được gói gọn trong một tệp duy nhất để dễ dàng di chuyển."
+source: agnes_llm
+status: published
+language: vi
+description: Một định dạng phân phối cho các mô hình khuếch tán, nơi tất cả trọng
+  số mô hình, cấu hình và đôi khi cả mã suy luận đều được gói gọn trong một tệp duy
+  nhất để dễ dàng di chuyển.
 ---
-
 ## Definition
 
 Tệp đơn Khuếch tán đề cập đến một chiến lược đóng gói cho các mô hình học máy, đặc biệt là các mô hình khuếch tán, trong đó toàn bộ sản phẩm mô hình—bao gồm trọng số nhị phân, siêu tham số và kiến trúc mô hình—được lưu trữ trong một tệp duy nhất.

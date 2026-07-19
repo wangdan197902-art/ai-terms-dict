@@ -1,23 +1,23 @@
 ---
-title: "活性化拡散"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: 活性化拡散
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /ja/terms/spreading_activation/
-date: "2026-07-18T11:33:20.376338Z"
-lastmod: "2026-07-18T11:44:45.147018Z"
+slug: spreading_activation
+date: '2026-07-18T11:33:20.376338Z'
+lastmod: '2026-07-18T11:44:45.147018Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ネットワーク内の接続されたノード間で、あるノードの活性化が他のノードの活性化を引き起こす認知科学由来のメカニズム。"
+source: agnes_llm
+status: published
+language: ja
+description: ネットワーク内の接続されたノード間で、あるノードの活性化が他のノードの活性化を引き起こす認知科学由来のメカニズム。
 ---
-
 ## Definition
 
 活性化拡散は、もともと認知心理学の概念であり、ニューラルネットワークにおいて相互に接続されたユニット間での信号伝播を記述するために適応されました。特定のノードが活性化されると、その活性化エネルギーが接続された他のノードへ伝播し、関連する概念や記憶を想起させます。このプロセスは、知識グラフの推論や意味的な検索エンジンなどで、関連性の高い情報を効率的に見つけるために利用されます。

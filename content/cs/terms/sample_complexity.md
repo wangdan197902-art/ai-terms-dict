@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /cs/terms/sample_complexity/
 date: "2026-07-18T16:16:45.928768Z"
 lastmod: "2026-07-18T17:15:09.198751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Složitost vzorkování označuje počet trénovacích příkladů potřebných pro to, aby strojový učebný algoritmus s vysokou pravděpodobností dosáhl určité úrovně výkonu."
 ---
-
 ## Definition
 
 V teorii výpočetního učení složitost vzorkování kvantifikuje množství dat potřebných k efektivnímu trénování modelu. Vyvažuje kompromis mezi kapacitou modelu a dostupností dat, což zajišťuje

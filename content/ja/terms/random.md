@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /ja/terms/random/
 date: "2026-07-18T10:54:05.989086Z"
 lastmod: "2026-07-18T11:44:45.017039Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "予測可能なパターンを持たない性質。AIでは通常、擬似乱数生成アルゴリズムを通じてシミュレートされます。"
 ---
-
 ## Definition
 
 ランダム性は、モデル重みの初期化、データセットのシャッフル、過学習を防ぐためのトレーニング中の確率的要素の導入など、AIにおいて基本的な役割を果たします。コンピュータは決定論的であるため、AIシステムは

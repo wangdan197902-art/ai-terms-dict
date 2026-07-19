@@ -1,23 +1,25 @@
 ---
-title: "Programmierung durch Beispiele"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Programmierung durch Beispiele
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /de/terms/programming_by_example/
-date: "2026-07-18T11:28:30.969450Z"
-lastmod: "2026-07-18T11:44:44.977652Z"
+slug: programming_by_example
+date: '2026-07-18T11:28:30.969450Z'
+lastmod: '2026-07-18T11:44:44.977652Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine KI-Technik, bei der Programme automatisch synthetisiert werden, indem Regeln aus vom Benutzer bereitgestellten Eingabe-Ausgabe-Beispielen abgeleitet werden."
+source: agnes_llm
+status: published
+language: de
+description: Eine KI-Technik, bei der Programme automatisch synthetisiert werden,
+  indem Regeln aus vom Benutzer bereitgestellten Eingabe-Ausgabe-Beispielen abgeleitet
+  werden.
 ---
-
 ## Definition
 
 Programmierung durch Beispiele (PBE) ist ein Paradigma in der Programmsynthese, bei dem Entwickler das gewünschte Verhalten durch konkrete Eingabe-Ausgabe-Paare spezifizieren, anstatt expliziten Code zu schreiben. Das KI-System analysiert diese Beispiele, um eine allgemeine Regel oder einen Algorithmus zu induzieren, der das Muster verallgemeinert und auf neue, ähnliche Eingaben anwendbar ist. Dies reduziert die kognitive Belastung für den Nutzer und ermöglicht die Automatisierung repetitiver Aufgaben.

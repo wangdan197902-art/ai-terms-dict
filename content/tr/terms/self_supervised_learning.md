@@ -1,23 +1,24 @@
 ---
-title: "Kendi Kendine Denetimli Öğrenme"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Kendi Kendine Denetimli Öğrenme
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /tr/terms/self_supervised_learning/
-date: "2026-07-18T15:37:16.649715Z"
-lastmod: "2026-07-18T16:38:07.263375Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:37:16.649715Z'
+lastmod: '2026-07-18T16:38:07.263375Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Modelin, temsiller öğrenmek için girdi verisinden kendi etiketlerini ürettiği bir eğitim yöntemi."
+source: agnes_llm
+status: published
+language: tr
+description: Modelin, temsiller öğrenmek için girdi verisinden kendi etiketlerini
+  ürettiği bir eğitim yöntemi.
 ---
-
 ## Definition
 
 Kendi kendine denetimli öğrenme, algoritmanın etiketlenmemiş veriden kendisi denetim sinyalleri oluşturduğu bir tekniktir; genellikle girdinin eksik kısımlarını tahmin ederek bunu yapar. Bu yöntem, denetimsiz

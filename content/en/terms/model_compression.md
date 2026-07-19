@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /en/terms/model_compression/
 date: "2026-07-18T10:07:39.942989Z"
 lastmod: "2026-07-18T11:44:44.700463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Model compression refers to techniques that reduce the size and computational requirements of machine learning models."
 ---
-
 ## Definition
 
 This category includes methods like pruning, quantization, and knowledge distillation aimed at shrinking model footprint while maintaining performance. It is essential for deploying complex AI models on devices with limited memory, storage, and processing power, enabling faster inference times and lower energy consumption for edge deployment scenarios.

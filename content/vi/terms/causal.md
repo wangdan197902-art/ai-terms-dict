@@ -1,23 +1,24 @@
 ---
-title: "Nhân quả"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Nhân quả
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /vi/terms/causal/
-date: "2026-07-18T15:23:58.453073Z"
-lastmod: "2026-07-18T16:38:07.681388Z"
+slug: causal
+date: '2026-07-18T15:23:58.453073Z'
+lastmod: '2026-07-18T16:38:07.681388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Suy luận nhân quả liên quan đến việc xác định mối quan hệ nguyên nhân - kết quả giữa các biến thay vì chỉ xác định các tương quan thống kê."
+source: agnes_llm
+status: published
+language: vi
+description: Suy luận nhân quả liên quan đến việc xác định mối quan hệ nguyên nhân
+  - kết quả giữa các biến thay vì chỉ xác định các tương quan thống kê.
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, mô hình hóa nhân quả nhằm hiểu cách các can thiệp vào một biến ảnh hưởng đến biến khác. Khác với các mô hình dự đoán dựa trên các mẫu quan sát được, AI nhân quả sử dụng cấu trúc phương trình...

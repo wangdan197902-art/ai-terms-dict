@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /th/terms/nso/
 date: "2026-07-18T16:08:25.568325Z"
 lastmod: "2026-07-18T16:38:07.637276Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ในบริบทของเอไอ NSO มักหมายถึง Neural Symbolic Optimization หรืออาจหมายถึงหน่วยงานเฉพาะเช่น NSO Group ที่เกี่ยวข้องกับเทคโนโลยีการเฝ้าระวัง"
 ---
-
 ## Definition
 
 คำย่อ NSO สามารถมีความหมายได้หลายประการขึ้นอยู่กับบริบท ในงานวิจัยเอไอทางเทคนิค อาจหมายถึง Neural Symbolic Optimization ซึ่งเป็นการรวมเครือข่ายประสาทเทียมเข้ากับตรรกะเชิงสัญลักษณ์ อย่างไรก็ตาม ในบริบททั่วไปมักหมายถึงบริษัท NSO Group ซึ่งเป็นที่รู้จักจากซอฟต์แวร์สอดแนม

@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /de/terms/fine_tuning/
 date: "2026-07-18T07:41:20.132376Z"
 lastmod: "2026-07-18T11:44:44.584483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Anpassung eines vortrainierten Modells an eine spezifische nachgelagerte Aufgabe mit Hilfe eines kleineren Datensatzes."
 ---
-
 ## Definition
 
 Feinabstimmung beinhaltet die Weiterentwicklung eines Modells, das bereits auf einem großen, allgemeinen Datensatz trainiert wurde, durch Training auf einem spezialisierten Datensatz. Dies ermöglicht es dem Modell, allgemeines Wissen zu bewahren und sich gleichzeitig an die...

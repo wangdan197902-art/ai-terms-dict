@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /vi/terms/bench/
 date: "2026-07-18T15:23:31.140968Z"
 lastmod: "2026-07-18T16:38:07.680647Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Viết tắt của benchmark, là bộ dữ liệu kiểm tra hoặc chỉ số tiêu chuẩn dùng để đánh giá hiệu suất mô hình AI."
 ---
-
 ## Definition
 
 Một chuẩn đánh giá (benchmark) đóng vai trò là điểm tham chiếu tiêu chuẩn để so sánh khả năng của các mô hình hoặc thuật toán AI khác nhau. Nó thường bao gồm một bộ dữ liệu được tuyển chọn kỹ lưỡng và các chỉ số đánh giá cụ thể như

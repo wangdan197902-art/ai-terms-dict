@@ -1,23 +1,24 @@
 ---
-title: "Apprentissage prédictif"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: Apprentissage prédictif
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /fr/terms/predictive_learning/
-date: "2026-07-18T11:34:01.670325Z"
-lastmod: "2026-07-18T11:44:45.312656Z"
+slug: predictive_learning
+date: '2026-07-18T11:34:01.670325Z'
+lastmod: '2026-07-18T11:44:45.312656Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une approche auto-supervisée où les modèles apprennent des représentations en prédissant les parties manquantes des données d'entrée."
+source: agnes_llm
+status: published
+language: fr
+description: Une approche auto-supervisée où les modèles apprennent des représentations
+  en prédissant les parties manquantes des données d'entrée.
 ---
-
 ## Definition
 
 L'apprentissage prédictif consiste à entraîner des réseaux de neurones à inférer des points de données non observés à partir d'entrées observées, sans étiquettes humaines explicites. En résolvant des tâches telles que la prédiction du prochain token dans le langage ou le masquage partiel des données, le modèle apprend des structures sous-jacentes.

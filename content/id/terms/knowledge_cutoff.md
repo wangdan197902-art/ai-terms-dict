@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /id/terms/knowledge_cutoff/
 date: "2026-07-18T15:56:43.108083Z"
 lastmod: "2026-07-18T16:38:07.473946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Batas pengetahuan adalah tanggal spesifik setelah mana model bahasa tidak lagi dilatih dan karenanya kurang informasi tentang peristiwa yang terjadi setelahnya."
 ---
-
 ## Definition
 
 Tanggal batas pengetahuan menentukan batas temporal dari data pelatihan model bahasa. Informasi, peristiwa, atau perkembangan apa pun yang terjadi setelah tanggal ini umumnya tidak diketahui oleh model

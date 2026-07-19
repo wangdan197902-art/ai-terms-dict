@@ -1,23 +1,24 @@
 ---
-title: "finjustert"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: finjustert
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /no/terms/fine_tuned/
-date: "2026-07-18T15:33:14.858880Z"
-lastmod: "2026-07-18T16:38:06.951973Z"
+slug: fine_tuned
+date: '2026-07-18T15:33:14.858880Z'
+lastmod: '2026-07-18T16:38:06.951973Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å trene en forhåndstrenet modell videre på et spesifikt datasett for å tilpasse den til en bestemt nedstrømsoppgave."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å trene en forhåndstrenet modell videre på et spesifikt
+  datasett for å tilpasse den til en bestemt nedstrømsoppgave.
 ---
-
 ## Definition
 
 Finjustering innebærer å ta en modell som allerede er trent på et stort, generelt datasett og fortsette treningen på et mindre, oppgavespesifikt datasett. Denne teknikken utnytter modellens generelle funksjoner og tilpasser vektene for å optimalisere ytelsen på den spesifikke applikasjonen.

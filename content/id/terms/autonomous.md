@@ -1,23 +1,24 @@
 ---
-title: "Otonom"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Otonom
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /id/terms/autonomous/
-date: "2026-07-18T15:23:25.803010Z"
-lastmod: "2026-07-18T16:38:07.388800Z"
+slug: autonomous
+date: '2026-07-18T15:23:25.803010Z'
+lastmod: '2026-07-18T16:38:07.388800Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Menggambarkan sistem yang mampu membuat keputusan dan bertindak secara independen di lingkungan yang dinamis."
+source: agnes_llm
+status: published
+language: id
+description: Menggambarkan sistem yang mampu membuat keputusan dan bertindak secara
+  independen di lingkungan yang dinamis.
 ---
-
 ## Definition
 
 Otonomi dalam AI mengacu pada kemampuan sistem untuk mempersepsikan lingkungannya, membuat keputusan, dan mengeksekusi tindakan tanpa kendali langsung dari manusia. Berbeda dengan otomatisasi sederhana, sistem otonom beradaptasi terhadap perubahan.

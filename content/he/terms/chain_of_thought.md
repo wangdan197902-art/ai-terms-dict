@@ -1,23 +1,24 @@
 ---
-title: "שרשרת מחשבת"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: שרשרת מחשבת
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /he/terms/chain_of_thought/
-date: "2026-07-18T15:22:26.486763Z"
-lastmod: "2026-07-18T17:15:09.470672Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:26.486763Z'
+lastmod: '2026-07-18T17:15:09.470672Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת הנחיה המעודדת מודלי שפה גדולים (LLMs) לייצר שלבי היגיון ביניים לפני מתן התשובה."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת הנחיה המעודדת מודלי שפה גדולים (LLMs) לייצר שלבי היגיון ביניים
+  לפני מתן התשובה.
 ---
-
 ## Definition
 
 הנחיה מסוג שרשרת מחשבת (CoT) היא אסטרטגיה שבה מודלי שפה גדולים מונחים לייצר הסברים שלב-אחר-שלב של ההיגיון לפני הגעה לתשובה סופית. על ידי פירוק בעיות מורכבות

@@ -1,23 +1,23 @@
 ---
-title: "Aprendizaje por Currículo"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Aprendizaje por Currículo
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /es/terms/curriculum_learning/
-date: "2026-07-18T11:14:17.701152Z"
-lastmod: "2026-07-18T11:44:44.867626Z"
+slug: curriculum_learning
+date: '2026-07-18T11:14:17.701152Z'
+lastmod: '2026-07-18T11:44:44.867626Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una estrategia de entrenamiento en la que los modelos aprenden primero con ejemplos fáciles antes de progresar a otros más difíciles."
+source: agnes_llm
+status: published
+language: es
+description: Una estrategia de entrenamiento en la que los modelos aprenden primero
+  con ejemplos fáciles antes de progresar a otros más difíciles.
 ---
-
 ## Definition
 
 El aprendizaje por currículo imita la educación humana presentando los datos de entrenamiento en un orden estructurado, comenzando típicamente con muestras simples e incrementando gradualmente la complejidad. Este enfoque ayuda a las redes neuronales a converger más rápido y generalizar mejor.

@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /pl/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:19:12.214073Z"
 lastmod: "2026-07-18T17:15:08.920988Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Biblioteka Hugging Face zapewniająca standaryzowane potoki (pipelines) do uruchamiania i dopracowywania (fine-tuning) modeli Stable Diffusion."
 ---
-
 ## Definition
 
 Biblioteka Diffusers to narzędzie open-source od Hugging Face, zaprojektowane w celu uproszczenia korzystania z wstępnie wytrenowanych modeli dyfuzyjnych, w szczególności Stable Diffusion. Oferuje ona modularne potoki przetwarzania, które obsługują etapy takie jak kodowanie tekstu, proces dyfuzyjny w przestrzeni ukrytej oraz dekodowanie obrazu, ułatwiając zarówno inferencję, jak i fine-tuning modeli.

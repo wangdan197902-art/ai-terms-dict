@@ -1,23 +1,25 @@
 ---
-title: "Co-training (Addestramento congiunto)"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Co-training (Addestramento congiunto)
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /it/terms/co_training/
-date: "2026-07-18T15:51:34.339342Z"
-lastmod: "2026-07-18T17:15:08.606642Z"
+slug: co_training
+date: '2026-07-18T15:51:34.339342Z'
+lastmod: '2026-07-18T17:15:08.606642Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il co-training è un algoritmo di apprendimento semi-supervisionato in cui due viste dei dati vengono utilizzate per addestrare classificatori separati che etichettano iterativamente i dati non etichet"
+source: agnes_llm
+status: published
+language: it
+description: Il co-training è un algoritmo di apprendimento semi-supervisionato in
+  cui due viste dei dati vengono utilizzate per addestrare classificatori separati
+  che etichettano iterativamente i dati non etichet
 ---
-
 ## Definition
 
 Questo metodo sfrutta più insiemi distinti di caratteristiche (viste) degli stessi punti dati. Inizialmente, due classificatori vengono addestrati su piccoli dataset etichettati da ciascuna vista. Successivamente, prevedono etichette per i dati non etich

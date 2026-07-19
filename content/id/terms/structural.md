@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /id/terms/structural/
 date: "2026-07-18T15:29:49.319371Z"
 lastmod: "2026-07-18T16:38:07.403547Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Berhubungan dengan organisasi dasar, arsitektur, atau pengaturan komponen dalam suatu sistem."
 ---
-
 ## Definition
 
 Aspek struktural mendefinisikan bagaimana data atau lapisan jaringan saraf diatur. Dalam jaringan saraf graf, struktur merujuk pada koneksi node; dalam pembelajaran mendalam, struktur merujuk pada topologi lapisan.

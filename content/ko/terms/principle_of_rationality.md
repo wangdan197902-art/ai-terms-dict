@@ -1,23 +1,23 @@
 ---
-title: "합리성의 원리"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: 합리성의 원리
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /ko/terms/principle_of_rationality/
-date: "2026-07-18T16:10:25.380728Z"
-lastmod: "2026-07-18T16:38:06.897836Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:10:25.380728Z'
+lastmod: '2026-07-18T16:38:06.897836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "지능형 에이전트가 이용 가능한 정보를 바탕으로 기대 효용을 최대화하도록 행동한다는 근본적인 가정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 지능형 에이전트가 이용 가능한 정보를 바탕으로 기대 효용을 최대화하도록 행동한다는 근본적인 가정입니다.
 ---
-
 ## Definition
 
 이 원리는 에이전트의 행동이 지각 입력과 기존 지식을 바탕으로 기대 성능 측정값을 최대화하도록 선택되어야 한다고 주장합니다. 이는 의사결정 이론의 토대를 제공합니다.

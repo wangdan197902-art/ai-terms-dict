@@ -1,23 +1,24 @@
 ---
-title: "Hyperparameterjustering"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Hyperparameterjustering
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /da/terms/hyperparameter_tuning/
-date: "2026-07-18T16:00:36.878459Z"
-lastmod: "2026-07-18T17:15:09.297380Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T16:00:36.878459Z'
+lastmod: '2026-07-18T17:15:09.297380Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med systematisk at søge efter den bedste kombination af hyperparametre for at optimere modelpræstationen."
+source: agnes_llm
+status: published
+language: da
+description: Processen med systematisk at søge efter den bedste kombination af hyperparametre
+  for at optimere modelpræstationen.
 ---
-
 ## Definition
 
 Hyperparameterjustering involverer evaluering af forskellige sæt af hyperparametre for at finde den konfiguration, der giver den bedste modelnøjagtighed eller laveste fejlrate. Almindelige strategier inkluderer gittersøgning, w

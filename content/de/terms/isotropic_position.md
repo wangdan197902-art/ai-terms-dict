@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /de/terms/isotropic_position/
 date: "2026-07-18T11:20:02.473826Z"
 lastmod: "2026-07-18T11:44:44.953688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine geometrische Transformation eines konvexen Körpers, bei der seine Trägheitsmatrix proportional zur Einheitsmatrix ist, was die Analyse vereinfacht."
 ---
-
 ## Definition
 
 In der konvexen Geometrie und der Wahrscheinlichkeitstheorie hoher Dimensionen befindet sich eine Menge von Punkten oder ein konvexer Körper in isotroper Position, wenn sein Schwerpunkt im Ursprung liegt und seine Kovarianzmatrix ein skalares Vielfaches der

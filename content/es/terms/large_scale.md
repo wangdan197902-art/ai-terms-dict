@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /es/terms/large_scale/
 date: "2026-07-18T10:28:27.965408Z"
 lastmod: "2026-07-18T11:44:44.757009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Describe sistemas de IA o conjuntos de datos que operan con volúmas masivos de datos, parámetros o recursos computacionales."
 ---
-
 ## Definition
 
 A gran escala se refiere a la magnitud de los componentes dentro de un sistema de IA, a menudo implicando billones de parámetros, terabytes de datos de entrenamiento o clústeres de computación distribuida. Este enfoque es fundamental para el desarrollo de modelos fundacionales y el procesamiento de big data.

@@ -1,23 +1,25 @@
 ---
-title: "Gesitueerd"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: Gesitueerd
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /nl/terms/situated/
-date: "2026-07-18T16:17:06.631940Z"
-lastmod: "2026-07-18T17:15:08.787285Z"
+slug: situated
+date: '2026-07-18T16:17:06.631940Z'
+lastmod: '2026-07-18T17:15:08.787285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Beschrijft AI-systemen of agenten die binnen specifieke fysieke, sociale of omgevingscontexten opereren en zich hieraan aanpassen."
+source: agnes_llm
+status: published
+language: nl
+description: Beschrijft AI-systemen of agenten die binnen specifieke fysieke, sociale
+  of omgevingscontexten opereren en zich hieraan aanpassen.
 ---
-
 ## Definition
 
 In de kunstmatige intelligentie verwijst 'gesitueerd' naar agenten die ingebed zijn in een omgeving en hierin in realtime mee interageren. In tegenstelling tot abstracte probleemoplossers moeten gesitueerde agenten sensorische input verwerken binnen hun directe context.

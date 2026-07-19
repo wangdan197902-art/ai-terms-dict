@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /tr/terms/bayesian/
 date: "2026-07-18T15:23:25.151821Z"
 lastmod: "2026-07-18T16:38:07.227566Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yeni kanıtlarla olasılıkları güncellemek için Bayes Teoremi'ne dayalı istatistiksel yöntemlerle ilgilidir."
 ---
-
 ## Definition
 
 Yapay zekada Bayesçi yaklaşımlar, daha fazla kanıt mevcut olduğunda hipotezlerin olasılığını güncellemek için olasılık teorisini kullanır. Bu yöntem, modellerin belirsizliği nicelendirmesine ve dinamik olarak tahminlerini iyileştirmesine olanak tanır.

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers:Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: Diffusers:Stablediffusionxlpipeline
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /id/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:48:12.132000Z"
-lastmod: "2026-07-18T16:38:07.451353Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:48:12.132000Z'
+lastmod: '2026-07-18T16:38:07.451353Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah pipa untuk Stable Diffusion XL (SDXL), menawarkan resolusi, detail, dan kepatuhan prompt yang lebih baik dibandingkan versi sebelumnya."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah pipa untuk Stable Diffusion XL (SDXL), menawarkan resolusi, detail,
+  dan kepatuhan prompt yang lebih baik dibandingkan versi sebelumnya.
 ---
-
 ## Definition
 
 Pipa ini mengimplementasikan arsitektur Stable Diffusion XL, yang menggunakan model dasar yang disempurnakan dan model peramping (refiner) untuk menghasilkan gambar beresolusi tinggi (1024x1024) dengan detail dan komposisi unggul. Ini...

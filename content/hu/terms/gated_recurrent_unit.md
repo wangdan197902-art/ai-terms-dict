@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /hu/terms/gated_recurrent_unit/
 date: "2026-07-18T16:00:53.828294Z"
 lastmod: "2026-07-18T17:15:09.787140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy típusú visszatérő neurális hálózati architektúra, amely záramechanizmusokat használ az információáramlás szabályozására, és az LSTM egyszerűsített alternatívájaként szolgál."
 ---
-
 ## Definition
 
 A Záras Visszatérő Egység (GRU) egy specializált visszatérő neurális hálózati (RNN) sejt, amelyet szekvenciális adatokban lévő hosszú távú függőségek rögzítésére terveztek. Egyszerűsíti a Hosszú Rövidtávmemóriás (LSTM) architektúrát, miközben hasonló teljesítményt nyújt kevesebb paraméterrel.

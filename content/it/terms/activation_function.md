@@ -1,23 +1,25 @@
 ---
-title: "Funzione di Attivazione"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Funzione di Attivazione
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /it/terms/activation_function/
-date: "2026-07-18T15:34:31.529995Z"
-lastmod: "2026-07-18T17:15:08.582956Z"
+slug: activation_function
+date: '2026-07-18T15:34:31.529995Z'
+lastmod: '2026-07-18T17:15:08.582956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'equazione matematica che determina l'output di un nodo di una rete neurale in base al suo segnale di ingresso."
+source: agnes_llm
+status: published
+language: it
+description: Un'equazione matematica che determina l'output di un nodo di una rete
+  neurale in base al suo segnale di ingresso.
 ---
-
 ## Definition
 
 Una funzione di attivazione introduce non linearità in una rete neurale, consentendole di apprendere pattern e relazioni complessi all'interno dei dati. Senza queste funzioni, una rete multistrato si comporterebbe

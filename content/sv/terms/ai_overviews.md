@@ -1,23 +1,24 @@
 ---
-title: "AI-översikter"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: AI-översikter
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /sv/terms/ai_overviews/
-date: "2026-07-18T15:41:44.755862Z"
-lastmod: "2026-07-18T17:15:08.969608Z"
+slug: ai_overviews
+date: '2026-07-18T15:41:44.755862Z'
+lastmod: '2026-07-18T17:15:08.969608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Sammanfattade svar genererade av AI-modeller som syntetiserar information från flera källor för snabb förståelse."
+source: agnes_llm
+status: published
+language: sv
+description: Sammanfattade svar genererade av AI-modeller som syntetiserar information
+  från flera källor för snabb förståelse.
 ---
-
 ## Definition
 
 AI-översikter är kondenserade sammanfattningar producerade av stora språkmodeller som aggregerar och syntetiserar data från olika webbplatser eller databaser. Till skillnad från traditionella sökresultat som listar länkar, ger dessa direkta svar.

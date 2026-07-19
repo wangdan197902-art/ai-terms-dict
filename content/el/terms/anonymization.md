@@ -1,23 +1,24 @@
 ---
-title: "Ανωνυμοποίηση"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: Ανωνυμοποίηση
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /el/terms/anonymization/
-date: "2026-07-18T15:50:23.638367Z"
-lastmod: "2026-07-18T17:15:09.878997Z"
+slug: anonymization
+date: '2026-07-18T15:50:23.638367Z'
+lastmod: '2026-07-18T17:15:09.878997Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία αφαίρεσης προσωπικών δεδομένων από σύνολα δεδομένων για την προστασία της ιδιωτικής ζωής των ατόμων."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία αφαίρεσης προσωπικών δεδομένων από σύνολα δεδομένων για
+  την προστασία της ιδιωτικής ζωής των ατόμων.
 ---
-
 ## Definition
 
 Η ανωνυμοποίηση περιλαμβάνει τον τροποποίηση δεδομένων έτσι ώστε να μην μπορούν πλέον να συσχετιστούν με ένα συγκεκριμένο άτομο χωρίς πρόσθετες πληροφορίες. Αυτή η τεχνική είναι κρίσιμη στη μηχανική μάθηση κατά την επεξεργασία ευαίσθητων δεδομένων.

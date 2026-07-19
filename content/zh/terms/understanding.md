@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /zh/terms/understanding/
 date: "2026-07-18T10:55:40.663809Z"
 lastmod: "2026-07-18T11:44:45.387854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在人工智能中，指模型能够理解输入数据中的语义含义、上下文和意图，而不仅仅是进行模式匹配。"
 ---
-
 ## Definition
 
 AI的理解超越了统计相关性，旨在解释数据背后的潜在含义。对于语言模型而言，这涉及掌握句法、语义和语用学，以生成连贯且合乎逻辑的输出。

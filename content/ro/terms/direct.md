@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /ro/terms/direct/
 date: "2026-07-18T15:24:27.343421Z"
 lastmod: "2026-07-18T17:15:09.591672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la metode sau căi care mapează intrările direct către ieșiri, fără transformări intermediare complexe sau reprezentări latente."
 ---
-
 ## Definition
 
 În contextul IA, termenul „direct” descrie adesea arhitecturi sau căi de inferență care ocolesc straturile intermediare de abstractizare, cum ar fi optimizarea directă a politicii în învățarea prin întărire sau maparea directă în sistemele de control.

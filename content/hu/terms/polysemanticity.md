@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /hu/terms/polysemanticity/
 date: "2026-07-18T16:18:20.876383Z"
 lastmod: "2026-07-18T17:15:09.823196Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A jelenség, amikor a neurális hálózatok egyes neuronjai több különböző koncepcióra reagálnak."
 ---
-
 ## Definition
 
 A polyszemantika a mély neurális hálózatokban, különösen a transzformátorokban megfigyelt jellemző, ahol egyetlen neuron több, egymástól független vagy szemantikailag eltérő funkcióra aktiválódhat.

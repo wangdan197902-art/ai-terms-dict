@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /tr/terms/embodied_cognitive_science/
 date: "2026-07-18T15:51:18.679264Z"
 lastmod: "2026-07-18T16:38:07.304158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bedensel bilişsel bilim, insan bilişinin temelde vücudun çevreyle etkileşimleri tarafından şekillendirildiğini öne süren bir teorik çerçevedir."
 ---
-
 ## Definition
 
 Bu alan, zihni soyut semboller işleyen bir bilgisayar olarak ele alan geleneksel görüşlere meydan okur. Bunun yerine, bilişsel süreçlerin vücudun fiziksel özellikleriyle derinden bağlantılı olduğunu savunur.

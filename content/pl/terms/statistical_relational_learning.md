@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /pl/terms/statistical_relational_learning/
 date: "2026-07-18T16:19:27.351536Z"
 lastmod: "2026-07-18T17:15:08.921264Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dziedzina uczenia maszynowego integrująca wnioskowanie probabilistyczne z logiką pierwszego rzędu w celu obsługi złożonych struktur relacyjnych w danych."
 ---
-
 ## Definition
 
 Statystyczne uczenie relacyjne (SRL) łączy teorię prawdopodobieństwa ze strukturami danych relacyjnych, pozwalając modelom uchwycić zależności między encjami a ich relacjami. W przeciwieństwie do standardowych statystycznych

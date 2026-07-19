@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /he/terms/natural_language/
 date: "2026-07-18T15:33:21.207821Z"
 lastmod: "2026-07-18T17:15:09.493891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שיטת התקשורת האנושית הסטנדרטית, המאופיינת בדקדוק, אוצר מילים והקשר, בניגוד לשפות מחשב פורמליות."
 ---
-
 ## Definition
 
 שפה טבעית מתייחסת לאופן שבו אנשים מדברים וכותבים, כולל כל הניואנסים, האמביגואליות, הביטויים והדקויות התרבותיות שלה. בבינה מלאכותית, עיבוד שפה טבעית כולל הבנת תחביר, סמנטיקה והקשר.

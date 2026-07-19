@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /en/terms/moreover/
 date: "2026-07-18T09:34:16.089470Z"
 lastmod: "2026-07-18T11:44:44.602722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A transitional adverb used to introduce additional information or reinforce a previous argument."
 ---
-
 ## Definition
 
 In the context of AI documentation and technical writing, 'Moreover' serves as a discourse marker that signals the addition of supporting evidence or a further point that strengthens the current discussion. It helps structure logical arguments by connecting independent clauses or sentences, ensuring coherence when explaining complex algorithms or model behaviors. While not a technical algorithm itself, understanding such linguistic connectors is vital for reading research papers and interpreting model explanations clearly.

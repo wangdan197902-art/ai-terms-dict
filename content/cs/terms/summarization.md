@@ -1,23 +1,24 @@
 ---
-title: "Shrnutí"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Shrnutí
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /cs/terms/summarization/
-date: "2026-07-18T15:38:50.937240Z"
-lastmod: "2026-07-18T17:15:09.094026Z"
+slug: summarization
+date: '2026-07-18T15:38:50.937240Z'
+lastmod: '2026-07-18T17:15:09.094026Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Úkol zpracování přirozeného jazyka (NLP), který generuje stručný a souvislý přehled delšího textu při zachování jeho klíčových informací."
+source: agnes_llm
+status: published
+language: cs
+description: Úkol zpracování přirozeného jazyka (NLP), který generuje stručný a souvislý
+  přehled delšího textu při zachování jeho klíčových informací.
 ---
-
 ## Definition
 
 Shrnování textu redukuje velké objemy textu na kratší verze bez ztráty kritického významu. Může být extraktivní, kdy vybírá důležité věty ze zdroje, nebo abstraktivní, kdy generuje nový text.

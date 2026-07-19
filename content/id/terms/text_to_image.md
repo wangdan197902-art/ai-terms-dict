@@ -1,23 +1,24 @@
 ---
-title: "Teks ke Gambar"
-term_id: "text_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image_generation", "diffusion", "multimodal"]
+title: Teks ke Gambar
+term_id: text_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Generation
+- diffusion
+- multimodal
 difficulty: 2
 weight: 1
-slug: "text_to_image"
-aliases:
-  - /id/terms/text_to_image/
-date: "2026-07-18T16:10:57.452202Z"
-lastmod: "2026-07-18T16:38:07.514509Z"
+slug: text_to_image
+date: '2026-07-18T16:10:57.452202Z'
+lastmod: '2026-07-18T16:38:07.514509Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik AI generatif yang menciptakan gambar visual dari prompt teks deskriptif menggunakan model seperti Stable Diffusion atau DALL-E."
+source: agnes_llm
+status: published
+language: id
+description: Teknik AI generatif yang menciptakan gambar visual dari prompt teks deskriptif
+  menggunakan model seperti Stable Diffusion atau DALL-E.
 ---
-
 ## Definition
 
 Teks ke Gambar merujuk pada penerapan kecerdasan buatan generatif untuk mensintesis gambar fotorealistik atau artistik berdasarkan deskripsi bahasa alami. Sistem ini biasanya menggunakan model difusi yang bekerja di ruang laten untuk mengubah noise acak menjadi gambar yang sesuai dengan prompt.

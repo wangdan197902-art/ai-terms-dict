@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /sv/terms/model_serving/
 date: "2026-07-18T15:39:03.742663Z"
 lastmod: "2026-07-18T17:15:08.964373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att distribuera tränade maskininlärningsmodeller till produktionsmiljöer för att göra prediktioner eller generera resultat för slutanvändare."
 ---
-
 ## Definition
 
 Modellhantering innebär att ta en statisk, tränad modell och omsluta den i skalbar infrastruktur som hanterar inkommande begäranden, utför inferens och returnerar resultat. Nyckelutmaningar inkluderar hantering av latens, skalbarhet och resursallokering under hög belastning.

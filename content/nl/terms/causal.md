@@ -1,23 +1,24 @@
 ---
-title: "Causaal"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Causaal
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /nl/terms/causal/
-date: "2026-07-18T15:24:08.520120Z"
-lastmod: "2026-07-18T17:15:08.681251Z"
+slug: causal
+date: '2026-07-18T15:24:08.520120Z'
+lastmod: '2026-07-18T17:15:08.681251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Causale inferentie houdt in dat oorzakelijke verbanden tussen variabelen worden vastgesteld, in plaats van alleen statistische correlaties te identificeren."
+source: agnes_llm
+status: published
+language: nl
+description: Causale inferentie houdt in dat oorzakelijke verbanden tussen variabelen
+  worden vastgesteld, in plaats van alleen statistische correlaties te identificeren.
 ---
-
 ## Definition
 
 Bij kunstmatige intelligentie streeft causaal modelleren naar begrip van hoe interventies op de ene variabele een andere beïnvloeden. In tegenstelling tot voorspellende modellen die zich richten op waargenomen patronen, maakt causale AI gebruik van structurele vergelijkingen en logica om echte effecten te isoleren.

@@ -1,23 +1,24 @@
 ---
-title: "Linjär separerbarhet"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Linjär separerbarhet
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /da/terms/linear_separability/
-date: "2026-07-18T16:04:59.775146Z"
-lastmod: "2026-07-18T17:15:09.305664Z"
+slug: linear_separability
+date: '2026-07-18T16:04:59.775146Z'
+lastmod: '2026-07-18T17:15:09.305664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Egenskapen hos ett dataset där två klasser kan perfekt delas upp av en enda rak linje eller hyperplan."
+source: agnes_llm
+status: published
+language: da
+description: Egenskapen hos ett dataset där två klasser kan perfekt delas upp av en
+  enda rak linje eller hyperplan.
 ---
-
 ## Definition
 
 Linjär separerbarhet avser det geometriska tillståndet där datapunkter tillhörande olika klasser kan helt separeras av en linjär gräns, såsom en linje i 2D-rum eller ett hyperplan i högre dimensioner.

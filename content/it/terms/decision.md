@@ -7,8 +7,6 @@ tags: ["logic", "fundamentals", "algorithms"]
 difficulty: 2
 weight: 1
 slug: "decision"
-aliases:
-  - /it/terms/decision/
 date: "2026-07-18T15:24:06.636355Z"
 lastmod: "2026-07-18T17:15:08.563219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una scelta effettuata da un agente o algoritmo dopo aver valutato le opzioni disponibili rispetto a criteri o obiettivi specifici."
 ---
-
 ## Definition
 
 Il processo decisionale nell'IA implica la selezione dell'azione ottimale da un insieme di possibilità basandosi su dati, modelli e obiettivi predefiniti. Può essere deterministico, seguendo regole rigide, o probabilistico, tenendo conto dell'incertezza e delle distribuzioni di probabilità per valutare i diversi esiti possibili.

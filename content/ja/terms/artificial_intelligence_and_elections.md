@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /ja/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T11:04:06.213366Z"
 lastmod: "2026-07-18T11:44:45.068363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "キャンペーン管理、有権者分析、および誤情報への懸念を含む、選挙プロセスにおけるAI技術の応用。"
 ---
-
 ## Definition
 
 この用語は、民主的手続きにおけるAIの二面的な役割、すなわちデータ分析を通じた効率化と、操作によるリスクの両方を包含します。一方では、AIはキャンペーンが有権者をターゲットにし最適化するのを支援しますが、

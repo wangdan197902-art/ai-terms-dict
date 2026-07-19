@@ -1,23 +1,24 @@
 ---
-title: "活性化関数"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: 活性化関数
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /ja/terms/activation_function/
-date: "2026-07-18T10:58:09.854558Z"
-lastmod: "2026-07-18T11:44:45.030129Z"
+slug: activation_function
+date: '2026-07-18T10:58:09.854558Z'
+lastmod: '2026-07-18T11:44:45.030129Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューラルネットワークのノードが入力信号に基づいて出力を決定するための数学的な方程式。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューラルネットワークのノードが入力信号に基づいて出力を決定するための数学的な方程式。
 ---
-
 ## Definition
 
 活性化関数はニューラルネットワークに非線形性をもたらし、複雑なパターンやデータ内の関係を学習可能にします。これらの関数がなければ、多層ネットワークは単なる線形変換として振る舞うことになります。

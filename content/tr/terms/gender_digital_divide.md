@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /tr/terms/gender_digital_divide/
 date: "2026-07-18T15:54:45.167924Z"
 lastmod: "2026-07-18T16:38:07.312273Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Cinsiyet dijital uyumsuzluğu, erkekler ve kadınlar arasında bilgi ve iletişim teknolojilerine erişim, kullanım ve bunlardan elde edilen faydalar arasındaki boşluğu ifade eder."
 ---
-
 ## Definition
 
 Bu sosyoteknik kavram, kadınların ve kız çocuklarının dijital cihazlara, internet bağlantısına ve dijital okuryazarlık becerilerine erişimde erkekler ve erkek çocuklarına kıyasla daha az fırsata sahip olduğu eşitsizlikleri vurgular.

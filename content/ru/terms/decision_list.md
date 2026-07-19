@@ -1,23 +1,23 @@
 ---
-title: "Список решений"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Список решений
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /ru/terms/decision_list/
-date: "2026-07-18T15:49:19.219950Z"
-lastmod: "2026-07-18T16:38:07.147308Z"
+slug: decision_list
+date: '2026-07-18T15:49:19.219950Z'
+lastmod: '2026-07-18T16:38:07.147308Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Интерпретируемый классификатор, состоящий из упорядоченного списка правил, где первое совпавшее правило определяет результат."
+source: agnes_llm
+status: published
+language: ru
+description: Интерпретируемый классификатор, состоящий из упорядоченного списка правил,
+  где первое совпавшее правило определяет результат.
 ---
-
 ## Definition
 
 Список решений — это тип модели машинного обучения, который представляет знания в виде последовательности условных правил. Каждое правило состоит из условия и предсказываемого класса. При классификации нового объекта применяется первое правило, условие которого выполняется.

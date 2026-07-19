@@ -1,23 +1,23 @@
 ---
-title: "ปรับแต่งละเอียด (Finetuned)"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: ปรับแต่งละเอียด (Finetuned)
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /th/terms/finetuned/
-date: "2026-07-18T15:53:55.765397Z"
-lastmod: "2026-07-18T16:38:07.606678Z"
+slug: finetuned
+date: '2026-07-18T15:53:55.765397Z'
+lastmod: '2026-07-18T16:38:07.606678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการฝึกฝนโมเดลที่ผ่านการฝึกมาแล้วเพิ่มเติมบนชุดข้อมูลเฉพาะ เพื่อปรับให้เหมาะกับงานใดงานหนึ่งโดยเฉพาะ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการฝึกฝนโมเดลที่ผ่านการฝึกมาแล้วเพิ่มเติมบนชุดข้อมูลเฉพาะ เพื่อปรับให้เหมาะกับงานใดงานหนึ่งโดยเฉพาะ
 ---
-
 ## Definition
 
 การปรับแต่งละเอียด (Finetuning) หมายถึงเทคนิคที่ใช้โมเดลซึ่งได้รับการฝึกฝนบนชุดข้อมูลขนาดใหญ่และทั่วไปอยู่แล้ว แล้วดำเนินการฝึกฝนต่อด้วยชุดข้อมูลขนาดเล็กที่เจาะจงโดเมนหรืองานนั้นๆ โดยเฉพาะ สิ่งนี้ช่วยให้โมเดลสามารถปรับตัวเข้ากับงานเป้าหมายได้อย่างมีประสิทธิภาพโดยใช้ทรัพยากรน้อยกว่าการฝึกจากศูนย์

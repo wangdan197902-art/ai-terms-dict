@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /cs/terms/cybersecurity/
 date: "2026-07-18T15:50:05.820117Z"
 lastmod: "2026-07-18T17:15:09.115365Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Praxe ochrany systémů, sítí a programů před digitálními útoky, neoprávněným přístupem a poškozením pomocí různých obranných technologií."
 ---
-
 ## Definition
 
 Kybernetická bezpečnost zahrnuje technologie, procesy a praktiky navržené k ochraně sítí, počítačů, programů a dat před útoky, poškozením nebo neoprávněným přístupem. V kontextu AI se zaměřuje na ochranu modelů a dat před adversariálními útoky.

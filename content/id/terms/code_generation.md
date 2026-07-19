@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /id/terms/code_generation/
 date: "2026-07-18T15:22:48.058428Z"
 lastmod: "2026-07-18T16:38:07.386984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses menggunakan kecerdasan buatan untuk secara otomatis membuat kode sumber dari deskripsi bahasa alami atau cuplikan kode yang sudah ada."
 ---
-
 ## Definition
 
 Generasi kode memanfaatkan model bahasa besar yang dilatih pada repositori luas bahasa pemrograman untuk menghasilkan artefak perangkat lunak yang fungsional. Model ini menafsirkan perintah yang dapat dibaca manusia, seperti komentar atau deskripsi fungsional, untuk menghasilkan kode yang siap dijalankan.

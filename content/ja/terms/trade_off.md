@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /ja/terms/trade_off/
 date: "2026-07-18T10:57:56.792579Z"
 lastmod: "2026-07-18T11:44:45.029269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ある領域で利益を得ることで、別の領域で損失を被るという妥協。"
 ---
-
 ## Definition
 
 AIおよび工学において、トレードオフとは、モデルの精度と計算コスト、あるいはレイテンシと精度など、競合する目的を最適化する際に必要なバランスを指します。リソースは限られているため、

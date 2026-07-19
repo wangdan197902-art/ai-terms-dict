@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /pl/terms/outline_of_deep_learning/
 date: "2026-07-18T16:10:03.587481Z"
 lastmod: "2026-07-18T17:15:08.903802Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Strukturalny przegląd metodologii, architektur i strategii optymalizacji w uczeniu głębokim."
 ---
-
 ## Definition
 
 Zarys uczenia głębokiego obejmuje fundamentalne struktury, takie jak warstwy sieci neuronowych, funkcje aktywacji i metryki strat. Szczegółowo opisuje techniki treningowe, w tym propagację zwrotną, gradient...

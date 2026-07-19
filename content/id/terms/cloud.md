@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /id/terms/cloud/
 date: "2026-07-18T15:23:55.525067Z"
 lastmod: "2026-07-18T16:38:07.390118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Cloud merujuk pada server jarak jauh yang dihosting di internet untuk menyimpan, mengelola, dan memproses data serta model AI, alih-alih menggunakan perangkat keras lokal."
 ---
-
 ## Definition
 
 Komputasi awan menyediakan infrastruktur yang dapat diskalakan untuk beban kerja AI, memungkinkan pengembang mengakses GPU bertenaga tinggi dan penyimpanan tanpa harus mempertahankan pusat data fisik. Layanan ini mendukung berbagai model layanan seperti IaaS, PaaS, dan SaaS.

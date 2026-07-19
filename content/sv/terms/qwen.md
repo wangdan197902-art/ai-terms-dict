@@ -1,23 +1,23 @@
 ---
-title: "Qwen"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: Qwen
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /sv/terms/qwen/
-date: "2026-07-18T16:16:05.169006Z"
-lastmod: "2026-07-18T17:15:09.040986Z"
+slug: qwen
+date: '2026-07-18T16:16:05.169006Z'
+lastmod: '2026-07-18T17:15:09.040986Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Qwen är en serie stora språkmodeller utvecklade av Alibabas Tongyi Lab."
+source: agnes_llm
+status: published
+language: sv
+description: Qwen är en serie stora språkmodeller utvecklade av Alibabas Tongyi Lab.
 ---
-
 ## Definition
 
 Qwen representerar en familj av avancerade stora språkmodeller skapade av Alibabas Tongyi Lab. Det omfattar olika versioner optimerade för olika uppgifter, inklusive förståelse av naturligt språk.

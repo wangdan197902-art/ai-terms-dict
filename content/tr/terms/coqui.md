@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /tr/terms/coqui/
-date: "2026-07-18T15:46:32.594553Z"
-lastmod: "2026-07-18T16:38:07.287094Z"
+slug: coqui
+date: '2026-07-18T15:46:32.594553Z'
+lastmod: '2026-07-18T16:38:07.287094Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Coqui, yüksek kaliteli ve çok dilli metinden konuşmaya (TTS) modelleri geliştirmesiyle bilinen açık kaynaklı bir ses teknolojisi şirketidir."
+source: agnes_llm
+status: published
+language: tr
+description: Coqui, yüksek kaliteli ve çok dilli metinden konuşmaya (TTS) modelleri
+  geliştirmesiyle bilinen açık kaynaklı bir ses teknolojisi şirketidir.
 ---
-
 ## Definition
 
 Coqui Technologies, açık kaynaklı yapay zeka topluluğunda öne çıkan önemli bir oyuncuydu ve en çok TTS (Metinden Konuşmaya) motoruyla tanınıyordu. Proje, doğal sesli üretim yeteneğine sahip önceden eğitilmiş modeller sunarak...

@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /ar/terms/datasetwikihow/
 date: "2026-07-18T15:52:46.239423Z"
 lastmod: "2026-07-18T17:15:08.493549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات ضخمة تتكون من مقالات \"كيفية\" من موقع WikiHow، وتُستخدم أساساً في مهام تلخيص النص وتوليد التعليمات."
 ---
-
 ## Definition
 
 تتكون مجموعة بيانات WikiHow من حوالي 60,000 مقال "كيفية" تم جمعها من موقع WikiHow. وهي تُستخدم على نطاق واسع في أبحاث معالجة اللغة الطبيعية لمهام مثل تلخيص النص المجرد واستخراج الخطوات الإجرائية.

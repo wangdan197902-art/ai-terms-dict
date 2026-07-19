@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /zh/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T11:30:52.811013Z"
 lastmod: "2026-07-18T11:44:45.546214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "通过研究和开发日益复杂的算法及硬件，AI能力所取得的累积性提升。"
 ---
-
 ## Definition
 
 该术语涵盖了人工智能系统的历史演变及当前发展，标志着从早期的符号逻辑到现代深度学习的里程碑式进展。它反映了计算能力的增强、算法效率的提高以及技术在各个领域的广泛采用。

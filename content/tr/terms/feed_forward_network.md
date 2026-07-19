@@ -1,23 +1,24 @@
 ---
-title: "İleri Yönlü Ağ"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: İleri Yönlü Ağ
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /tr/terms/feed_forward_network/
-date: "2026-07-18T15:53:29.767861Z"
-lastmod: "2026-07-18T16:38:07.309384Z"
+slug: feed_forward_network
+date: '2026-07-18T15:53:29.767861Z'
+lastmod: '2026-07-18T16:38:07.309384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Düğimler arasındaki bağlantıların döngü oluşturmadığı ve bilgileri tek yönde ilettiği bir yapay sinir ağı sınıfı."
+source: agnes_llm
+status: published
+language: tr
+description: Düğimler arasındaki bağlantıların döngü oluşturmadığı ve bilgileri tek
+  yönde ilettiği bir yapay sinir ağı sınıfı.
 ---
-
 ## Definition
 
 İleri Yönlü Ağlar (FFN'ler), çok katmanlı algılayıcılar (MLP'ler) olarak da bilinir ve geri besleme döngüleri olmadan girdiden çıktıya doğru nöron katmanları üzerinden verileri sıralı olarak işler. Her nöron girdileri alır

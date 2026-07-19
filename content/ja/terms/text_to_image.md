@@ -1,23 +1,23 @@
 ---
-title: "テキストから画像へ"
-term_id: "text_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image_generation", "diffusion", "multimodal"]
+title: テキストから画像へ
+term_id: text_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Generation
+- diffusion
+- multimodal
 difficulty: 2
 weight: 1
-slug: "text_to_image"
-aliases:
-  - /ja/terms/text_to_image/
-date: "2026-07-18T11:34:27.671439Z"
-lastmod: "2026-07-18T11:44:45.150555Z"
+slug: text_to_image
+date: '2026-07-18T11:34:27.671439Z'
+lastmod: '2026-07-18T11:44:45.150555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Stable DiffusionやDALL-Eなどのモデルを使用して、説明的なテキストプロンプトから視覚画像を生成する生成AI技術。"
+source: agnes_llm
+status: published
+language: ja
+description: Stable DiffusionやDALL-Eなどのモデルを使用して、説明的なテキストプロンプトから視覚画像を生成する生成AI技術。
 ---
-
 ## Definition
 
 テキストから画像へは、自然言語の説明に基づいて写実的または芸術的な画像を合成するために生成人工知応用を指します。これらのシステムは通常、拡散...

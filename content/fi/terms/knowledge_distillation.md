@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /fi/terms/knowledge_distillation/
 date: "2026-07-18T16:05:03.325031Z"
 lastmod: "2026-07-18T17:15:09.425045Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tiedon distillointi on mallin purkamistekniikka, jossa pienempi opiskelijamalli oppii jäljittelemään suuremman opettajamallin käyttäytymistä."
 ---
-
 ## Definition
 
 Tiedon distillointi on koneoppimismenetelmä, jota käytetään suuren, monimutkaisen neuroverkon (opettaja) purkamiseen pienemmäksi, tehokkaammaksi verkoksi (opiskelija). Opiskelijamallia koulutetaan

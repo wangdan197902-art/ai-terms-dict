@@ -1,23 +1,23 @@
 ---
-title: "生物宁静"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: 生物宁静
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /zh/terms/bioserenity/
-date: "2026-07-18T11:09:30.642780Z"
-lastmod: "2026-07-18T11:44:45.452678Z"
+slug: bioserenity
+date: '2026-07-18T11:09:30.642780Z'
+lastmod: '2026-07-18T11:44:45.452678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种生物生命与人工智能系统和谐共存的理论状态。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种生物生命与人工智能系统和谐共存的理论状态。
 ---
-
 ## Definition
 
 生物宁静指的是人类生物学与人工智能无缝、非冲突地和谐运作的概念理想。它强调伦理整合，确保人工智能的增强作用……

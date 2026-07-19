@@ -1,23 +1,23 @@
 ---
-title: "open-weight"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: open-weight
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /ro/terms/open_weight/
-date: "2026-07-18T15:33:20.833948Z"
-lastmod: "2026-07-18T17:15:09.610363Z"
+slug: open_weight
+date: '2026-07-18T15:33:20.833948Z'
+lastmod: '2026-07-18T17:15:09.610363Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Modele de IA în care parametrii antrenați (greutățile) sunt publicați, dar codul de antrenament și setul de date pot rămâne private."
+source: agnes_llm
+status: published
+language: ro
+description: Modele de IA în care parametrii antrenați (greutățile) sunt publicați,
+  dar codul de antrenament și setul de date pot rămâne private.
 ---
-
 ## Definition
 
 Modelele open-weight diferă de IA complet open-source deoarece sunt eliberați doar parametrii învățați finali, nu neapărat infrastructura sau datele utilizate pentru a le crea. Acest lucru permite utilizatorilor să ruleze inferen

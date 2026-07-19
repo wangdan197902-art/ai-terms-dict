@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /no/terms/chain/
 date: "2026-07-18T15:45:55.918003Z"
 lastmod: "2026-07-18T16:38:06.978805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En kjede er en sekvens av sammenkoblede steg eller moduler som prosesserer data sekvensielt for å oppnå en kompleks oppgave."
 ---
-
 ## Definition
 
 Innan utvikling av AI-applikasjonar refererer ein 'kjede' til ei lineær eller retta grafstruktur der fleire komponentar, slik som LLM-kall, parserar eller eksterne verktøy, er knytte saman. Data flyt frå ein komponent til neste.

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /tr/terms/ai_ethics/
 date: "2026-07-18T15:33:32.758275Z"
 lastmod: "2026-07-18T16:38:07.253947Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerinin geliştirilmesi ve uygulanmasından kaynaklanan ahlaki sorunların ve etkilerin incelenmesi."
 ---
-
 ## Definition
 
 Yapay Zeka Etik, yapay zeka teknolojilerinin sorumlu bir şekilde geliştirilmesini ve kullanılmasını sağlamak amacıyla tasarlanmış ilkeler ve standartlar çerçevesini kapsar. Şeffaflık, adalet ve hesap verebilirlik gibi kritik konuları ele alır.

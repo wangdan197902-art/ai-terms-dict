@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /id/terms/multi_armed_bandit/
 date: "2026-07-18T16:01:21.584712Z"
 lastmod: "2026-07-18T16:38:07.485383Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Masalah multi-armed bandit adalah masalah klasik dalam teori probabilitas dan pembelajaran penguatan yang memodelkan pertukaran antara eksplorasi dan eksploitasi."
 ---
-
 ## Definition
 
 Masalah multi-armed bandit menggambarkan dilema yang dihadapi oleh agen yang memutuskan apakah akan tetap memilih opsi yang sudah diketahui memberikan imbalan (eksploitasi) atau mencoba opsi baru untuk menemukan imbalan yang mungkin lebih baik

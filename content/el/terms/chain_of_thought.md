@@ -1,23 +1,24 @@
 ---
-title: "Αλυσιδωτή Σκέψη"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Αλυσιδωτή Σκέψη
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /el/terms/chain_of_thought/
-date: "2026-07-18T15:22:38.434889Z"
-lastmod: "2026-07-18T17:15:09.838238Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:38.434889Z'
+lastmod: '2026-07-18T17:15:09.838238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική prompting που ενθαρρύνει τα μεγάλα γλωσσικά μοντέλα (LLMs) να παράγουν ενδιάμεσα βήματα λογικής πριν απαντήσουν."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική prompting που ενθαρρύνει τα μεγάλα γλωσσικά μοντέλα (LLMs)
+  να παράγουν ενδιάμεσα βήματα λογικής πριν απαντήσουν.
 ---
-
 ## Definition
 
 Η προτροπή αλυσιδωτής σκέψης (Chain-of-Thought - CoT) είναι μια στρατηγική όπου τα μεγάλα γλωσσικά μοντέλα κατευθύνονται να παράγουν επεξηγήσεις λογικής βήμα προς βήμα πριν καταλήξουν σε μια τελική απάντηση. Διασπώντας σύνθετα προβλήματα

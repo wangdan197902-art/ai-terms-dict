@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /nl/terms/cross_modal/
 date: "2026-07-18T15:31:22.401524Z"
 lastmod: "2026-07-18T17:15:08.697375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Technieken die informatie integreren en verwerken over verschillende soorten sensorische gegevens, zoals tekst en afbeeldingen."
 ---
-
 ## Definition
 
 Cross-modal AI omvat het verwerken en correleren van gegevens uit verschillende modaliteiten, zoals het combineren van visuele, auditieve en tekstuele invoer. Deze systemen leren gedeelde representaties om relaties tussen verschillende...

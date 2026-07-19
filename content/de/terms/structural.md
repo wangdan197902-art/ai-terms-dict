@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /de/terms/structural/
 date: "2026-07-18T10:54:03.728513Z"
 lastmod: "2026-07-18T11:44:44.884497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf die zugrunde liegende Organisation, Architektur oder Anordnung von Komponenten innerhalb eines Systems."
 ---
-
 ## Definition
 
 Strukturelle Aspekte definieren, wie Daten oder neuronale Netzwerkschichten organisiert sind. In Graph-Neuronalen Netzen bezieht sich Struktur auf Knotenverbindungen; im Deep Learning auf die Schichttopologie. Das Verständnis dieser Strukturen ist entscheidend.

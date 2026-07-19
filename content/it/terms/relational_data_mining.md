@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /it/terms/relational_data_mining/
 date: "2026-07-18T16:18:55.432779Z"
 lastmod: "2026-07-18T17:15:08.664881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il processo di scoperta di pattern e conoscenza da dati costituiti da più tabelle o entità interconnesse."
 ---
-
 ## Definition
 
 Il data mining relazionale si concentra sull'estrazione di informazioni utili da database in cui i dati sono organizzati in più tabelle correlate, piuttosto che in una singola tabella piatta. Sfrutta le relazioni tra queste entità.

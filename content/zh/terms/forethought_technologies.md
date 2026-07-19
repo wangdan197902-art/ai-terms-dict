@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /zh/terms/forethought_technologies/
 date: "2026-07-18T11:17:40.739484Z"
 lastmod: "2026-07-18T11:44:45.501074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "前瞻技术是指通过预测建模和模拟来预见未来系统状态、风险和需求的工程实践。"
 ---
-
 ## Definition
 
 这一概念涉及设计具有前瞻性能力的AI系统，使其能够模拟潜在结果并主动适应变化。它整合了预测分析、情景规划和风险管理，旨在提高系统的鲁棒性和决策质量，从而在问题发生前进行干预。

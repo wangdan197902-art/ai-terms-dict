@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /cs/terms/text_to_audio/
 date: "2026-07-18T16:20:08.438448Z"
 lastmod: "2026-07-18T17:15:09.206484Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces převodu psaného textu na mluvený zvuk, který zahrnuje jak syntézu řeči, tak generování nerůzných zvuků."
 ---
-
 ## Definition
 
 Převod textu na zvuk je široký pojem pokrývající technologie, které transformují textový vstup na audiovýstup. Ačkoli je často spojován s konverzí textu na řeč (TTS) pro syntézu lidského hlasu, zahrnuje také generování zvukových efektů, hudby nebo jiných zvukových krajin na základě textových popisů.

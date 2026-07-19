@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /vi/terms/high_fidelity/
 date: "2026-07-18T15:30:58.085015Z"
 lastmod: "2026-07-18T16:38:07.701284Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ nội dung được tạo ra giống với dữ liệu thế giới thực về chi tiết, chất lượng và độ chân thực."
 ---
-
 ## Definition
 
 Độ trung thực cao mô tả đầu ra từ các mô hình sinh học không thể phân biệt hoặc rất giống với dữ liệu xác thực. Trong tạo ảnh, nó có nghĩa là kết cấu và ánh sáng chân thực; trong âm thanh, nó ám chỉ chất lượng âm thanh rõ nét, tự nhiên. Đây là mục tiêu quan trọng trong các ứng dụng tạo nội dung đa phương tiện.

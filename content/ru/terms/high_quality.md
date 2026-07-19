@@ -1,23 +1,23 @@
 ---
-title: "высококачественный"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: высококачественный
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /ru/terms/high_quality/
-date: "2026-07-18T15:31:37.702233Z"
-lastmod: "2026-07-18T16:38:07.095520Z"
+slug: high_quality
+date: '2026-07-18T15:31:37.702233Z'
+lastmod: '2026-07-18T16:38:07.095520Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к наборам данных, моделям или выводам, которые демонстрируют превосходную точность, надежность и минимальный уровень шума."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к наборам данных, моделям или выводам, которые демонстрируют
+  превосходную точность, надежность и минимальный уровень шума.
 ---
-
 ## Definition
 
 В искусственном интеллекте термин «высокое качество» обычно описывает данные или выходные данные моделей, обладающие высокой достоверностью, низким уровнем шума и сильными способностями к обобщению. Качественные обучающие данные обеспечивают надежную основу для...

@@ -1,23 +1,24 @@
 ---
-title: "Översättning"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Översättning
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /sv/terms/translation/
-date: "2026-07-18T15:41:02.237231Z"
-lastmod: "2026-07-18T17:15:08.968163Z"
+slug: translation
+date: '2026-07-18T15:41:02.237231Z'
+lastmod: '2026-07-18T17:15:08.968163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att konvertera text från ett källspråk till ett målspråk samtidigt som meningen bevaras."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att konvertera text från ett källspråk till ett målspråk samtidigt
+  som meningen bevaras.
 ---
-
 ## Definition
 
 Översättning inom AI syftar på neuronal maskinöversättning, där djupinlärningsmodeller mappar semantiska representationer mellan språk. Till skillnad från regelbaserade system lär sig moderna metoder kontextuella nyanser

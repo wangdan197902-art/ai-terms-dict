@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /ja/terms/knowledge_cutoff/
 date: "2026-07-18T11:20:35.953142Z"
 lastmod: "2026-07-18T11:44:45.112701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "知識カットオフとは、言語モデルの学習データに含まれていない日付以降の事象に関する情報をモデルが欠落していることを示す特定の日付です。"
 ---
-
 ## Definition
 
 知識カットオフ日は、言語モデルの学習データの時間的範囲を定義します。この日以降に発生した情報、事象、または発展については、通常モデルは認識していません。

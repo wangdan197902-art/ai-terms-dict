@@ -1,23 +1,24 @@
 ---
-title: "Overfitting"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Overfitting
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /id/terms/overfitting/
-date: "2026-07-18T15:35:24.562465Z"
-lastmod: "2026-07-18T16:38:07.417038Z"
+slug: overfitting
+date: '2026-07-18T15:35:24.562465Z'
+lastmod: '2026-07-18T16:38:07.417038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kesalahan pemodelan di mana algoritma pembelajaran mesin menangkap noise alih-alih sinyal mendasar, sehingga mengurangi kemampuan generalisasi."
+source: agnes_llm
+status: published
+language: id
+description: Kesalahan pemodelan di mana algoritma pembelajaran mesin menangkap noise
+  alih-alih sinyal mendasar, sehingga mengurangi kemampuan generalisasi.
 ---
-
 ## Definition
 
 Overfitting terjadi ketika model mempelajari data pelatihan terlalu baik, termasuk noise acak dan outlier, yang menghasilkan kinerja sangat baik pada data pelatihan tetapi kinerja buruk pada data uji baru yang belum pernah dilihat sebelumnya.

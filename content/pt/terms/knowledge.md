@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /pt/terms/knowledge/
 date: "2026-07-18T14:36:23.255840Z"
 lastmod: "2026-07-18T15:51:59.432598Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Conhecimento é a compreensão estruturada, fatos, habilidades e insights derivados de informações, experiência ou raciocínio, permitindo tomada de decisões eficaz."
 ---
-
 ## Definition
 
 Em IA, o conhecimento frequentemente se refere a informações explícitas armazenadas em bancos de dados, ontologias ou pesos de redes neurais que permitem raciocínio e inferência. Ele está acima da informação na hierarquia DIKW

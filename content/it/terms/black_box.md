@@ -1,23 +1,24 @@
 ---
-title: "scatola nera"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: scatola nera
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /it/terms/black_box/
-date: "2026-07-18T15:31:08.406572Z"
-lastmod: "2026-07-18T17:15:08.578240Z"
+slug: black_box
+date: '2026-07-18T15:31:08.406572Z'
+lastmod: '2026-07-18T17:15:08.578240Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un sistema in cui i meccanismi interni sono nascosti e sono osservabili solo gli input e gli output."
+source: agnes_llm
+status: published
+language: it
+description: Un sistema in cui i meccanismi interni sono nascosti e sono osservabili
+  solo gli input e gli output.
 ---
-
 ## Definition
 
 In ambito AI, un modello a scatola nera si riferisce a sistemi complessi come le reti neurali profonde, dove la logica interna di decisione è opaca e difficile da interpretare per gli esseri umani. Sebbene questi modelli spesso raggiungano...

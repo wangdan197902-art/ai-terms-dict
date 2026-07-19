@@ -1,23 +1,23 @@
 ---
-title: "μηδενικής προσπάθειας (zero-shot)"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: μηδενικής προσπάθειας (zero-shot)
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /el/terms/zero_shot/
-date: "2026-07-18T15:37:32.323313Z"
-lastmod: "2026-07-18T17:15:09.863260Z"
+slug: zero_shot
+date: '2026-07-18T15:37:32.323313Z'
+lastmod: '2026-07-18T17:15:09.863260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ικανότητα εκτέλεσης εργασιών σε μη προηγούμενες κατηγορίες χωρίς προηγούμενα παραδείγματα εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Η ικανότητα εκτέλεσης εργασιών σε μη προηγούμενες κατηγορίες χωρίς προηγούμενα
+  παραδείγματα εκπαίδευσης.
 ---
-
 ## Definition
 
 Η μάθηση μηδενικής προσπάθειας επιτρέπει στα μοντέλα να γενικεύουν σε νέες κατηγορίες ή εργασίες για τις οποίες δεν παρείχθηκε ετικετοποιημένο δεδομένα εκπαίδευσης κατά το αρχικό στάδιο εκπαίδευσης. Αυτό επιτυγχάνεται συνήθως αξιοποιώντας σημασιολογικές...

@@ -1,23 +1,25 @@
 ---
-title: "Normalizare"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalizare
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /ro/terms/normalization/
-date: "2026-07-18T16:13:49.755120Z"
-lastmod: "2026-07-18T17:15:09.687072Z"
+slug: normalization
+date: '2026-07-18T16:13:49.755120Z'
+lastmod: '2026-07-18T17:15:09.687072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Normalizarea este o tehnică de preprocesare a datelor care scalază caracteristicile numerice într-un interval standard, de obicei între 0 și 1, pentru a îmbunătăți convergența și performanța modelului"
+source: agnes_llm
+status: published
+language: ro
+description: Normalizarea este o tehnică de preprocesare a datelor care scalază caracteristicile
+  numerice într-un interval standard, de obicei între 0 și 1, pentru a îmbunătăți
+  convergența și performanța modelului
 ---
-
 ## Definition
 
 Metodele comune includ scalarea Min-Max și standardizarea Z-score. Acest proces asigură că caracteristicile cu magnitudini mai mari nu domină algoritmul de învățare, în special în optimizarea bazată pe gradient...

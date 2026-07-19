@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /es/terms/building/
 date: "2026-07-18T10:21:22.597351Z"
 lastmod: "2026-07-18T11:44:44.736855Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La fase práctica de desarrollar, entrenar e implementar modelos y sistemas de IA, desde el diseño inicial hasta la preparación para producción."
 ---
-
 ## Definition
 
 La construcción se refiere al proceso de ingeniería de extremo a extremo para crear soluciones de IA, lo que incluye la recopilación de datos, selección de modelos, entrenamiento, validación e implementación. Abarca la infraestructura técnica...

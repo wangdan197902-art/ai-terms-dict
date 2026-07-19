@@ -1,23 +1,24 @@
 ---
-title: "Multimodale Stimmungsanalyse"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Multimodale Stimmungsanalyse
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /de/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T11:24:50.571957Z"
-lastmod: "2026-07-18T11:44:44.968217Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T11:24:50.571957Z'
+lastmod: '2026-07-18T11:44:44.968217Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die computergestützte Analyse menschlicher Stimmungen durch Integration von textuellen, visuellen und auditiven Hinweisen."
+source: agnes_llm
+status: published
+language: de
+description: Die computergestützte Analyse menschlicher Stimmungen durch Integration
+  von textuellen, visuellen und auditiven Hinweisen.
 ---
-
 ## Definition
 
 Die multimodale Stimmungsanalyse erweitert die traditionelle textbasierte Stimmungsanalyse, indem sie zusätzliche Signale wie Gesichtsausdrücke, Stimmtonfall und Körpersprache einbezieht. Dieser ganzheitliche Ansatz ermöglicht eine genauere Interpretation emotionaler Zustände.

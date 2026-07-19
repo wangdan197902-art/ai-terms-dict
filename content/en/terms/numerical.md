@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /en/terms/numerical/
 date: "2026-07-18T09:35:02.712164Z"
 lastmod: "2026-07-18T11:44:44.603832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Relating to, involving, or using numbers or mathematical computations rather than symbolic logic or text."
 ---
-
 ## Definition
 
 In the context of AI and data science, numerical refers to data types or methods that involve quantitative values, such as integers, floats, and decimals. Unlike categorical or textual data, numerical data allows for precise mathematical operations, statistical analysis, and arithmetic calculations. Machine learning models often require numerical inputs to perform regression, classification, or clustering tasks, relying on numerical stability and precision to ensure accurate model training and inference results.

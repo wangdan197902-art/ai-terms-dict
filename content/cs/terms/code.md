@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /cs/terms/code/
 date: "2026-07-18T15:34:23.578139Z"
 lastmod: "2026-07-18T17:15:09.088023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V kontextu AI kód označuje strukturované instrukce napsané v programovacích jazycích, které definují chování modelu a logiku zpracování dat."
 ---
-
 ## Definition
 
 Kód představuje sadu instrukcí napsaných v programovacích jazycích, jako je Python, C++ nebo JavaScript, které počítače vykonávají ke splnění konkrétních úkolů. V umělé inteligenci je kód fundament

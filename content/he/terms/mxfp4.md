@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /he/terms/mxfp4/
-date: "2026-07-18T16:14:05.190698Z"
-lastmod: "2026-07-18T17:15:09.567862Z"
+slug: mxfp4
+date: '2026-07-18T16:14:05.190698Z'
+lastmod: '2026-07-18T17:15:09.567862Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "MXFP4 הוא פורמט נקודה צפה מדויקות מעורבת המותאם לביצוע כפל מטריצות יעיל באצטדטים חומרה לבינה מלאכותית."
+source: agnes_llm
+status: published
+language: he
+description: MXFP4 הוא פורמט נקודה צפה מדויקות מעורבת המותאם לביצוע כפל מטריצות יעיל
+  באצטדטים חומרה לבינה מלאכותית.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) הוא פורמט סוג נתונים ייעודי שהוצג כדי לייעל ביצועים ולהפחית שימוש ברוחב פס זיכרון בעומסי עבודה של בינה מלאכותית. על ידי אפשרות פעולות במדויקות מעורבת

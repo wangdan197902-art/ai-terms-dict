@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /ko/terms/right_to_explanation/
 date: "2026-07-18T16:13:33.743032Z"
 lastmod: "2026-07-18T16:38:06.904770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "개인에게 중대한 영향을 미치는 자동화된 결정에 대해 의미 있는 정보를 받을 권리를 부여하는 법적 및 윤리적 원칙입니다."
 ---
-
 ## Definition
 
 설명 받을 권리는 특히 GDPR과 같은 프레임워크 내에서 알고리즘 책임성의 핵심 구성 요소입니다. 이는 AI 시스템이 개인의 권리에 영향을 미치는 결정을 내릴 때, 해당 결정의 논리와 근거를 이해할 수 있도록 보장합니다.

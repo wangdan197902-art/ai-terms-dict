@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /hu/terms/podcast/
 date: "2026-07-18T16:18:20.876368Z"
 lastmod: "2026-07-18T17:15:09.823062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az interneten elérhető digitális hang- vagy videofájl letöltésre vagy streamelésre."
 ---
-
 ## Definition
 
 Az AI és technológia kontextusában a podcast az RSS-csatornákon keresztül terjesztett, epizódszerű digitális média tartalmakra utal, amelyek lehetővé teszik a felhasználók számára, hogy feliratkozzanak, és meghallgassanak beszélgetéseket, interjúkat vagy oktatási anyagokat.

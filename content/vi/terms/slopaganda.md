@@ -1,23 +1,25 @@
 ---
-title: "Slopaganda (Tuyên truyền chậm)"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopaganda (Tuyên truyền chậm)
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /vi/terms/slopaganda/
-date: "2026-07-18T16:12:00.355676Z"
-lastmod: "2026-07-18T16:38:07.805370Z"
+slug: slopaganda
+date: '2026-07-18T16:12:00.355676Z'
+lastmod: '2026-07-18T16:38:07.805370Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một từ ghép của 'chậm' và 'tuyên truyền', ám chỉ các chiến dịch thông tin sai lệch nhằm làm xói mòn niềm tin thông qua ảnh hưởng kéo dài và tinh vi."
+source: agnes_llm
+status: published
+language: vi
+description: Một từ ghép của 'chậm' và 'tuyên truyền', ám chỉ các chiến dịch thông
+  tin sai lệch nhằm làm xói mòn niềm tin thông qua ảnh hưởng kéo dài và tinh vi.
 ---
-
 ## Definition
 
 Slopaganda mô tả một hình thức tuyên truyền chiến lược dựa vào sự lặp lại, tính mơ hồ và phơi nhiễm lâu dài thay vì các chiến thuật gây sốc lan truyền nhanh. Nó nhằm mục đích gây nhầm lẫn cho khán giả, làm loãng sự thật và...

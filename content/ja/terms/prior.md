@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /ja/terms/prior/
 date: "2026-07-18T10:53:53.758843Z"
 lastmod: "2026-07-18T11:44:45.016528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ベイズ統計学において、新しい証拠やデータを観測する前に、パラメータに関する知識や信念を表す確率分布。"
 ---
-
 ## Definition
 
 「プライア」は、新たな観測値を組み込む前に、変数に関する既存の信念や歴史的データを表します。ベイズ推論において、事前分布は観測データの尤度と組み合わされ、事後分布（ポストリア）を導出するために使用されます。これは不確実性を定量化し、新しい情報を統合するための数学的枠組みを提供します。

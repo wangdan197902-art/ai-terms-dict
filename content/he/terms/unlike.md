@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /he/terms/unlike/
 date: "2026-07-18T15:31:58.343245Z"
 lastmod: "2026-07-18T17:15:09.490462Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "אופרטור לוגי המשמש ב-SQL ובתכנות כדי לסנן רשומות שאינן תואמות לתנאי מסוים."
 ---
-
 ## Definition
 
 בשאילתות מסדי נתונים ולוגיקה, המונח 'לא דומה' מתייחס בדרך כלל לאופרטור NOT LIKE, המבצע התאמת תבניות הפוכה. הוא מחזיר ערך אמת עבור שורות בהן עמודה אינה מתאימה לתבנית שצוינה.

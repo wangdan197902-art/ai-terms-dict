@@ -1,23 +1,24 @@
 ---
-title: "Tuning"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Tuning
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /nl/terms/tuning/
-date: "2026-07-18T15:30:54.679688Z"
-lastmod: "2026-07-18T17:15:08.695947Z"
+slug: tuning
+date: '2026-07-18T15:30:54.679688Z'
+lastmod: '2026-07-18T17:15:08.695947Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het aanpassen van hyperparameters of modelgewichten om de prestaties op een specifieke dataset of taak te optimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het aanpassen van hyperparameters of modelgewichten om
+  de prestaties op een specifieke dataset of taak te optimaliseren.
 ---
-
 ## Definition
 
 Tuning omvat het verfijnen van een machine learning-model om betere nauwkeurigheid of efficiëntie te bereiken. Het kan verwijzen naar hyperparameter-tuning, waarbij instellingen zoals de leersnelheid of batchgrootte worden geoptimaliseerd, of fine

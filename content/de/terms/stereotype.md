@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /de/terms/stereotype/
 date: "2026-07-18T11:38:54.182421Z"
 lastmod: "2026-07-18T11:44:45.001337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine verallgemeinerte und oft vereinfachte Überzeugung über eine bestimmte Gruppe von Menschen, die sich in KI-Ausdrücken widerspiegelt."
 ---
-
 ## Definition
 
 In der KI entstehen Stereotype, wenn Modelle gesellschaftliche Vorurteile, die in den Trainingsdaten vorhanden sind, erlernen und verstärken. Dies kann zu diskriminierenden Ergebnissen führen, wie etwa der Zuordnung bestimmter Berufe zu spezifischen Geschlechtern

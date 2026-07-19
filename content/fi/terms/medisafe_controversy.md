@@ -7,8 +7,6 @@ tags: ["ethics", "history", "healthcare"]
 difficulty: 2
 weight: 1
 slug: "medisafe_controversy"
-aliases:
-  - /fi/terms/medisafe_controversy/
 date: "2026-07-18T16:10:27.548984Z"
 lastmod: "2026-07-18T17:15:09.433673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Historiallinen eettinen keskustelu eläinkokeiden käytöstä MediSafe-terveyden seurantalaitteen kehityksen yhteydessä."
 ---
-
 ## Definition
 
 MediSafe-kohu viittaa merkittävään eettiseen keskusteluun digitaalisen terveyden teknologian alkuvaiheissa, joka koski MediSafe-sovelluksen validointimenetelmiä. Kriitikot esittivät huolia siitä, miten sovelluksen luotettavuutta oli testattu, ja nostivat esiin eettiset kysymykset liittyen eläinkokeiden käyttöön tai puuttumiseen terveydenhuollon sääntelyn kontekstissa.

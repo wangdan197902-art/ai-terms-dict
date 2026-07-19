@@ -1,23 +1,23 @@
 ---
-title: "インスタンス選択"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: インスタンス選択
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /ja/terms/instance_selection/
-date: "2026-07-18T11:19:39.944391Z"
-lastmod: "2026-07-18T11:44:45.109852Z"
+slug: instance_selection
+date: '2026-07-18T11:19:39.944391Z'
+lastmod: '2026-07-18T11:44:45.109852Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "代表的なインスタンスの部分集合を選択することでデータセットのサイズを削減する前処理技術。"
+source: agnes_llm
+status: published
+language: ja
+description: 代表的なインスタンスの部分集合を選択することでデータセットのサイズを削減する前処理技術。
 ---
-
 ## Definition
 
 インスタンス選択は、冗長またはノイズの多いデータポイントを削除することで、計算効率とモデルパフォーマンスの向上を目指します。特徴選択とは異なり、データセットの行に対して機能します。その目的は...

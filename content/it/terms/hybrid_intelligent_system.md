@@ -1,23 +1,24 @@
 ---
-title: "Sistema Intelligente Ibrido"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: Sistema Intelligente Ibrido
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /it/terms/hybrid_intelligent_system/
-date: "2026-07-18T16:03:56.075076Z"
-lastmod: "2026-07-18T17:15:08.634827Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T16:03:56.075076Z'
+lastmod: '2026-07-18T17:15:08.634827Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'architettura AI che combina diverse tecniche di intelligenza computazionale, come le reti neurali e la logica simbolica, per risolvere problemi complessi."
+source: agnes_llm
+status: published
+language: it
+description: Un'architettura AI che combina diverse tecniche di intelligenza computazionale,
+  come le reti neurali e la logica simbolica, per risolvere problemi complessi.
 ---
-
 ## Definition
 
 Un Sistema Intelligente Ibrido (HIS) unisce diversi paradigmi dell'IA, combinando tipicamente approcci connessionisti come le reti neurali con metodi simbolici come i sistemi esperti o la logica fuzzy. Questa integrazione

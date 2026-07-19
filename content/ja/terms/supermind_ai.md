@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /ja/terms/supermind_ai/
 date: "2026-07-18T11:33:46.958505Z"
 lastmod: "2026-07-18T11:44:45.148446Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "複数の知的エージェントやモデルを統合し、優れた問題解決能力を持つ統一された強化された認知实体を形成するように設計されたAIアーキテクチャまたはシステム。"
 ---
-
 ## Definition
 
 スーパーマインドAIとは、複数のAIコンポーネント、人間の専門家、またはハイブリッドな人間-AIチームがシームレスに協力し、個々の能力を超えた集合的知性を形成するシステムを指します。

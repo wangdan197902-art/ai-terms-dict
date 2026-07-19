@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /vi/terms/natural_language/
 date: "2026-07-18T15:31:24.694336Z"
 lastmod: "2026-07-18T16:38:07.703114Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phương thức giao tiếp chuẩn của con người, đặc trưng bởi ngữ pháp, từ vựng và ngữ cảnh, khác với các ngôn ngữ máy tính chính thức."
 ---
-
 ## Definition
 
 Ngôn ngữ tự nhiên đề cập đến cách con người nói và viết, bao gồm tất cả các tính mơ hồ, thành ngữ và sắc thái văn hóa. Trong AI, xử lý ngôn ngữ tự nhiên liên quan đến việc hiểu cú pháp, ngữ nghĩa và ngữ cảnh.

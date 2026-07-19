@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /pt/terms/polysemanticity/
 date: "2026-07-18T15:17:23.242174Z"
 lastmod: "2026-07-18T15:51:59.522907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O fenômeno pelo qual neurônios individuais em redes neurais respondem a múltiplos conceitos distintos."
 ---
-
 ## Definition
 
 A polissemantidade é uma característica observada em redes neurais profundas, particularmente em transformadores, onde um único neurônio pode ser ativado em resposta a vários recursos não relacionados ou semanticamente distintos.

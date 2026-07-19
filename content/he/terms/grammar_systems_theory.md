@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /he/terms/grammar_systems_theory/
 date: "2026-07-18T16:02:09.913680Z"
 lastmod: "2026-07-18T17:15:09.545093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תיאוריית מערכות דקדוק היא ענף בתורת השפות הפורמליות החוקר מודלים חישוביים המבוססים על דקדוקים הפועלים במקביל או בסביבות מפוצלות."
 ---
-
 ## Definition
 
 תחום זה, הנובע ממדעי המחשב התיאורטיים ולשון, מרחיב את מושגי היררכיית צ'ומסקי הקלאסית למערכות רב-רכיביות. הוא בוחן כיצד מספר דקדוקים או רכיבים אינטראקטיביים יוצרים שפות או מבנים מורכבים.

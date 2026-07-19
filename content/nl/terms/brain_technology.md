@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /nl/terms/brain_technology/
 date: "2026-07-18T15:45:34.456659Z"
 lastmod: "2026-07-18T17:15:08.723570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Technologieën ontworpen om te interfacen met, te monitoren of te moduleren van de menselijke hersenen, inclusief BCIs en neurobeeldvormingstools."
 ---
-
 ## Definition
 
 Hersentechnologie omvat hardware- en softwaresystemen die direct interageren met het centrale zenuwstelsel. Belangrijke voorbeelden zijn Brain-Computer Interfaces (BCIs) die neurale signalen vertalen

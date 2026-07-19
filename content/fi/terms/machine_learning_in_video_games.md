@@ -1,23 +1,24 @@
 ---
-title: "Koneoppiminen videopeleissä"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Koneoppiminen videopeleissä
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /fi/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:09:55.460389Z"
-lastmod: "2026-07-18T17:15:09.432116Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:09:55.460389Z'
+lastmod: '2026-07-18T17:15:09.432116Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Koneoppimisalgoritmien soveltaminen pelikehityksen parantamiseen, sopeutuvien ei-pelaajahahmojen luomiseen ja pelikokemuksen optimointiin."
+source: agnes_llm
+status: published
+language: fi
+description: Koneoppimisalgoritmien soveltaminen pelikehityksen parantamiseen, sopeutuvien
+  ei-pelaajahahmojen luomiseen ja pelikokemuksen optimointiin.
 ---
-
 ## Definition
 
 Tällä alalla integroidaan koneoppimistekniikoita videopeliputkiin varojen luomisen automatisoimiseksi, pelimekaniikkojen tasapainottamiseksi ja dynaamisen sisällön generoimiseksi. Se ulottuu vahvistusoppimisen käytöstä...

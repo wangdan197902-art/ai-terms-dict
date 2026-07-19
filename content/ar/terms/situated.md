@@ -1,23 +1,25 @@
 ---
-title: "متواجد في السياق"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: متواجد في السياق
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /ar/terms/situated/
-date: "2026-07-18T16:20:51.413484Z"
-lastmod: "2026-07-18T17:15:08.548092Z"
+slug: situated
+date: '2026-07-18T16:20:51.413484Z'
+lastmod: '2026-07-18T17:15:08.548092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يصف أنظمة أو وكلاء ذكاء اصطناعي يعملون ضمن سياقات فيزيائية أو اجتماعية أو بيئية محددة ويتكيفون معها."
+source: agnes_llm
+status: published
+language: ar
+description: يصف أنظمة أو وكلاء ذكاء اصطناعي يعملون ضمن سياقات فيزيائية أو اجتماعية
+  أو بيئية محددة ويتكيفون معها.
 ---
-
 ## Definition
 
 في مجال الذكاء الاصطناعي، يشير مصطلح 'متواجد في السياق' إلى الوكلاء المدمجين في بيئة معينة ويتفاعلون معها في الوقت الفعلي. وعلى عكس حلاّلي المشكلات المجردة، يجب على هذه الوكلاء معالجة المدخلات الحسية والتكيف مع التغيرات البيئية المستمرة.

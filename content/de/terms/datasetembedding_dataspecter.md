@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /de/terms/datasetembedding_dataspecter/
 date: "2026-07-18T11:10:08.173071Z"
 lastmod: "2026-07-18T11:44:44.925977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein groß angelegter Datensatz, der auf Veröffentlichungen und Zitaten aus dem Bereich der Informatik basiert und speziell für das Training von Embedding-Modellen für wissenschaftliche Arbeiten konzipi"
 ---
-
 ## Definition
 
 Der Specter-Datensatz wird aus einer umfangreichen Sammlung von Informatik-Publikationen konstruiert und nutzt Zitationsnetzwerke, um überwachtes Lernen zu ermöglichen. Er paart Abstracts mit den sie zitierenden Papers, um

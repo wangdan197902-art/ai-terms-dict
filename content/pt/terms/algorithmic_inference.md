@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /pt/terms/algorithmic_inference/
 date: "2026-07-18T14:49:14.040414Z"
 lastmod: "2026-07-18T15:51:59.461880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A inferência algorítmica é o processo pelo qual um modelo de aprendizado de máquina treinado aplica padrões aprendidos a novos dados não vistos para fazer previsões ou tomar decisões."
 ---
-
 ## Definition
 
 Também conhecida como previsão ou pontuação, a inferência ocorre após a fase de treinamento do modelo. O algoritmo recebe características de entrada, processa-as através de sua estrutura interna (como pesos em uma rede neural

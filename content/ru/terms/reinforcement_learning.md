@@ -1,23 +1,23 @@
 ---
-title: "Обучение с подкреплением"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Обучение с подкреплением
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /ru/terms/reinforcement_learning/
-date: "2026-07-18T15:28:41.190198Z"
-lastmod: "2026-07-18T16:38:07.088328Z"
+slug: reinforcement_learning
+date: '2026-07-18T15:28:41.190198Z'
+lastmod: '2026-07-18T16:38:07.088328Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Обучение с подкреплением — это тип машинного обучения, в котором агенты учатся принимать решения, взаимодействуя со средой для максимизации вознаграждений."
+source: agnes_llm
+status: published
+language: ru
+description: Обучение с подкреплением — это тип машинного обучения, в котором агенты
+  учатся принимать решения, взаимодействуя со средой для максимизации вознаграждений.
 ---
-
 ## Definition
 
 Обучение с подкреплением (RL) — это раздел машинного обучения, посвященный тому, как интеллектуальные агенты должны совершать действия в среде, чтобы максимизировать накопленное вознаграждение. В отличие от обучения с учителем, где модель обучается на размеченных данных, RL-агент учится методом проб и ошибок, получая обратную связь в виде наград или штрафов за свои действия.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /it/terms/cloud/
 date: "2026-07-18T15:23:53.407168Z"
 lastmod: "2026-07-18T17:15:08.562664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il cloud si riferisce a server remoti ospitati su Internet utilizzati per archiviare, gestire ed elaborare dati e modelli di intelligenza artificiale invece di hardware locale."
 ---
-
 ## Definition
 
 Il cloud computing fornisce infrastrutture scalabili per i carichi di lavoro di AI, consentendo agli sviluppatori di accedere a potenti GPU e spazio di archiviazione senza mantenere data center fisici. Supporta vari modelli di servizio come IaaS, PaaS e SaaS.

@@ -1,23 +1,24 @@
 ---
-title: "Changement de jeu de données"
-term_id: "dataset_shift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "statistics", "model_deployment"]
+title: Changement de jeu de données
+term_id: dataset_shift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- statistics
+- Model Deployment
 difficulty: 3
 weight: 1
-slug: "dataset_shift"
-aliases:
-  - /fr/terms/dataset_shift/
-date: "2026-07-18T11:11:33.635704Z"
-lastmod: "2026-07-18T11:44:45.214332Z"
+slug: dataset_shift
+date: '2026-07-18T11:11:33.635704Z'
+lastmod: '2026-07-18T11:44:45.214332Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le changement de jeu de données désigne le phénomène où les propriétés statistiques des données d'entrée évoluent entre l'entraînement et le déploiement."
+source: agnes_llm
+status: published
+language: fr
+description: Le changement de jeu de données désigne le phénomène où les propriétés
+  statistiques des données d'entrée évoluent entre l'entraînement et le déploiement.
 ---
-
 ## Definition
 
 Le changement de jeu de données se produit lorsque la distribution des données utilisées pour entraîner un modèle d'apprentissage automatique diffère de celle des données rencontrées lors de l'inférence. Cette divergence peut entraîner une baisse significative des performances du modèle.

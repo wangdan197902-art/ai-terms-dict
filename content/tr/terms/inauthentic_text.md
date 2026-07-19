@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /tr/terms/inauthentic_text/
 date: "2026-07-18T15:57:59.709888Z"
 lastmod: "2026-07-18T16:38:07.320366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Okuyucuları kökeni, yazarlığı veya gerçeklik temeli konusunda yanıltmak amacıyla yapay olarak üretilen veya manipüle edilen metin içeriği."
 ---
-
 ## Definition
 
 Gerçek dışı metin, yapay zeka sistemleri veya insan tarafından yanıltıcı niyetle üretilen, gerçek insan deneyimi veya gerçeklik temeli eksik yazılı materyalleri ifade eder. Yapay zeka ile üretilen spam, uydurma haberler vb. bu kategoriye girer.

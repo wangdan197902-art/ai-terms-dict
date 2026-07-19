@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /hu/terms/ai_security_institute/
 date: "2026-07-18T15:40:37.432445Z"
 lastmod: "2026-07-18T17:15:09.747862Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy szervezet, amely a mesterséges intelligencia rendszerek biztonságának kutatásával, fejlesztésével és legjobb gyakorlatainak népszerűsítésével foglalkozik."
 ---
-
 ## Definition
 
 Egy AI biztonsági intézet egy specializált entitás, amely a mesterséges intelligencia technológiákkal kapcsolatos kockázatok csökkentésére fókuszál. Ezek az intézetek kutatásokat végeznek ellenséges támadásokkal, adatvédelemmel és...

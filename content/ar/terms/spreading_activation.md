@@ -1,23 +1,24 @@
 ---
-title: "انتشار التنشيط"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: انتشار التنشيط
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /ar/terms/spreading_activation/
-date: "2026-07-18T16:22:07.900415Z"
-lastmod: "2026-07-18T17:15:08.550640Z"
+slug: spreading_activation
+date: '2026-07-18T16:22:07.900415Z'
+lastmod: '2026-07-18T17:15:08.550640Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "آلية مستوحاة من علم النفس المعرفي، حيث يؤدي تنشيط عقدة واحدة إلى تنشيط العقد المتصلة بها داخل الشبكة."
+source: agnes_llm
+status: published
+language: ar
+description: آلية مستوحاة من علم النفس المعرفي، حيث يؤدي تنشيط عقدة واحدة إلى تنشيط
+  العقد المتصلة بها داخل الشبكة.
 ---
-
 ## Definition
 
 انتشار التنشيط مفهوم نشأ في علم النفس المعرفي، وتم تكييفه في الشبكات العصبية لوصف كيفية انتشار الإشارات عبر الوحدات المترابطة. عندما يتم تنشيط عقدة معينة (تمثيل لمفهوم أو ذكر)، ينتشر النشاط إلى العقد المجاورة لها بناءً على قوة الروابط بينها. كلما كان الرابط أقوى، زاد تأثير التنشيط الذي يصل إلى العقدة الأخرى. تُستخدم هذه الآلية لمحاكاة كيفية استرجاع الذاكرة والتفكير الترابطي في الدماغ البشري.

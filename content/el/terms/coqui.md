@@ -1,23 +1,25 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /el/terms/coqui/
-date: "2026-07-18T15:57:15.449476Z"
-lastmod: "2026-07-18T17:15:09.892969Z"
+slug: coqui
+date: '2026-07-18T15:57:15.449476Z'
+lastmod: '2026-07-18T17:15:09.892969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η Coqui είναι μια εταιρεία τεχνολογίας ομιλίας ανοιχτού κώδικα, γνωστή για την ανάπτυξη μοντέλων μετατροπής κειμένου σε ομιλία (TTS) υψηλής ποιότητας και πολυγλωσσικής υποστήριξης."
+source: agnes_llm
+status: published
+language: el
+description: Η Coqui είναι μια εταιρεία τεχνολογίας ομιλίας ανοιχτού κώδικα, γνωστή
+  για την ανάπτυξη μοντέλων μετατροπής κειμένου σε ομιλία (TTS) υψηλής ποιότητας και
+  πολυγλωσσικής υποστήριξης.
 ---
-
 ## Definition
 
 Η Coqui Technologies ήταν ένας σημαντικός παίκτης στην κοινότητα του ανοιχτού τεχνητού νοημοσύνης, γνωστή κυρίως για τον μηχανισμό TTS (Μετατροπή Κειμένου σε Ομιλία) της. Το έργο παρείχε προεκπαιδευμένα μοντέλα ικανά να παράγουν φυσικά ηχογραφημένη ομιλία.

@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /da/terms/inference/
 date: "2026-07-18T15:22:59.182872Z"
 lastmod: "2026-07-18T17:15:09.218603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Fasen, hvor en trænet model behandler ny data for at generere forudsigelser eller outputs."
 ---
-
 ## Definition
 
 Inferens refererer til udrulningsfasen, hvor en færdig model bruges til at træffe beslutninger eller lave forudsigelser på usete data. I modsætning til træning, som opdaterer vægte, forbruger inferens beregningsressourcer til at køre modellen.

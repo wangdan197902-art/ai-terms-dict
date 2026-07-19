@@ -1,23 +1,23 @@
 ---
-title: "Прунинг дерева решений"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Прунинг дерева решений
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /ru/terms/decision_tree_pruning/
-date: "2026-07-18T15:49:19.219954Z"
-lastmod: "2026-07-18T16:38:07.147431Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:49:19.219954Z'
+lastmod: '2026-07-18T16:38:07.147431Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника уменьшения размера деревьев решений путем удаления ветвей, дающих мало информации для классификации объектов."
+source: agnes_llm
+status: published
+language: ru
+description: Техника уменьшения размера деревьев решений путем удаления ветвей, дающих
+  мало информации для классификации объектов.
 ---
-
 ## Definition
 
 Прунинг — это метод предотвращения переобучения в моделях деревьев решений путем удаления ветвей со слабой предсказательной способностью. Он может выполняться как предварительный (pre-pruning), путем ранней остановки роста дерева, так и последующий (post-pruning).

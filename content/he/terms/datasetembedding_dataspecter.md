@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /he/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:51:59.704433Z"
 lastmod: "2026-07-18T17:15:09.528012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים בקנה מידה גדול המבוססת על פרסומים וציטוטים בתחום מדעי המחשב, המיועדת לאימון מודלי הטמעה למאמרים אקדמיים."
 ---
-
 ## Definition
 
 מערכת הנתונים Specter נבנתה מאוסף עצום של מאמרים במדעי המחשב, תוך ניצול רשתות ציטוטים ליצירת אותות ללמידה מפוקחת. היא מזווגת תקצירים עם המאמרים שמצטטים אותם כדי 

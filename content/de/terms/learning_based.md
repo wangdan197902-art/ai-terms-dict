@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /de/terms/learning_based/
 date: "2026-07-18T10:56:04.546458Z"
 lastmod: "2026-07-18T11:44:44.889485Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezeichnet Methoden, bei denen Algorithmen ihre Leistung durch Erfahrung verbessern, anstatt explizite Programmierregeln zu verwenden."
 ---
-
 ## Definition
 
 Lernbasierte Ansätze stützen sich auf statistische Algorithmen, um Muster zu erkennen und Entscheidungen auf Basis von Datenerfahrung zu treffen, im Gegensatz zu regelbasierten Systemen. Diese Kategorie umfasst überwachtes, unüber...

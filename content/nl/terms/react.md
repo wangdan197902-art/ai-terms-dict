@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /nl/terms/react/
 date: "2026-07-18T15:38:35.775030Z"
 lastmod: "2026-07-18T17:15:08.708126Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "ReAct is een prompting-paradigma dat redeneren en handelen combineert om de prestaties van grote taalmodellen bij complexe taken te verbeteren."
 ---
-
 ## Definition
 
 Het ReAct-kader stelt LLM's in staat om zowel redeneringssporen als taakspecifieke acties op een afgewisselde manier te genereren. Door menselijke denkprocessen te simuleren, stellen modellen in staat om met externe omgevingen te interageren.

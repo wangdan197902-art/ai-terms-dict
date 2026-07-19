@@ -1,23 +1,24 @@
 ---
-title: "Uovervåget læring"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: Uovervåget læring
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /da/terms/unsupervised_learning/
-date: "2026-07-18T15:38:12.743667Z"
-lastmod: "2026-07-18T17:15:09.251493Z"
+slug: unsupervised_learning
+date: '2026-07-18T15:38:12.743667Z'
+lastmod: '2026-07-18T17:15:09.251493Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En maskinlæringsmetode, hvor modeller lærer mønstre fra umærkede data uden eksplicit vejledning eller korrekte svar."
+source: agnes_llm
+status: published
+language: da
+description: En maskinlæringsmetode, hvor modeller lærer mønstre fra umærkede data
+  uden eksplicit vejledning eller korrekte svar.
 ---
-
 ## Definition
 
 Uovervåget læring identificerer skjulte strukturer, klaser eller fordelinger i rådata autonomt. Almindelige metoder inkluderer clustering, dimensionsreduktion og generativ modellering. Det bruges ofte,

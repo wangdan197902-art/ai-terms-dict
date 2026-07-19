@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /id/terms/nvidia/
 date: "2026-07-18T16:02:32.186376Z"
 lastmod: "2026-07-18T16:38:07.488802Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Perusahaan teknologi terkemuka yang berspesialisasi dalam GPU dan perangkat keras AI yang menjadi daya pendorong infrastruktur pembelajaran mendalam modern."
 ---
-
 ## Definition
 
 Nvidia adalah kekuatan dominan dalam industri AI, terutama dikenal karena merancang Unit Pemroses Grafis (GPU) yang mempercepat tugas komputasi paralel yang penting untuk pembelajaran mendalam. Platform CUDA mereka menyediakan kerangka kerja komputasi paralel yang luas bagi peneliti dan pengembang.

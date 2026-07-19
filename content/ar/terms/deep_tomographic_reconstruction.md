@@ -1,23 +1,24 @@
 ---
-title: "الاستعادة الطبوغرافية العميقة"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: الاستعادة الطبوغرافية العميقة
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /ar/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:53:19.810419Z"
-lastmod: "2026-07-18T17:15:08.495128Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:53:19.810419Z'
+lastmod: '2026-07-18T17:15:08.495128Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تصوير حاسوبية تستخدم الشبكات العصبية العميقة لإعادة بناء صور مقطعية عالية الجودة من بيانات إسقاط متفرقة أو مشوشة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تصوير حاسوبية تستخدم الشبكات العصبية العميقة لإعادة بناء صور مقطعية
+  عالية الجودة من بيانات إسقاط متفرقة أو مشوشة.
 ---
-
 ## Definition
 
 تمثل الاستعادة الطبوغرافية العميقة قفزة نوعية كبيرة مقارنة بالطرق الجبرية أو التحليلية التقليدية مثل الإسقاط الخلفي المفلتر. ومن خلال الاستفادة من الشبكات العصبية التلافيفية (CNNs)،

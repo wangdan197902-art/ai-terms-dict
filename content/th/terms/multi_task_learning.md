@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /th/terms/multi_task_learning/
 date: "2026-07-18T16:06:20.589907Z"
 lastmod: "2026-07-18T16:38:07.634322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การเรียนรู้หลายงานคือกระบวนทัศน์แมชชีนเลิร์นนิงที่ฝึกโมเดลบนงานที่เกี่ยวข้องกันหลายงานพร้อมกัน เพื่อปรับปรุงความสามารถในการสรุปผล (generalization)"
 ---
-
 ## Definition
 
 เทคนิคนี้ใช้ประโยชน์จากอคติเชิงอุปนัย (inductive bias) ที่ร่วมกันระหว่างงานที่เกี่ยวข้องกันเพื่อเพิ่มประสิทธิภาพและประสิทธิภาพของการเรียนรู้ โดยการฝึกโมเดลเดียวให้ทำงานหลายอย่างพร้อมกัน โมเดลจะเรียนรู้การแสดงแทนร่วม

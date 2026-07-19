@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /ja/terms/humanai_interaction/
 date: "2026-07-18T11:17:51.145303Z"
 lastmod: "2026-07-18T11:44:45.106799Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間が人工知能システムとどのようにコミュニケーションし、制御し、協力するかを研究し実践する分野。"
 ---
-
 ## Definition
 
 人間-AI相互作用（HAI）は、人々とAI技術間のダイナミクスを調査する学際的な分野です。直感的なインターフェース、通信プロトコル、および効果的なコラボレーションを設計することに焦点を当てています。

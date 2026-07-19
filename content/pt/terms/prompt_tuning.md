@@ -1,23 +1,24 @@
 ---
-title: "Ajuste de Prompt"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Ajuste de Prompt
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /pt/terms/prompt_tuning/
-date: "2026-07-18T15:18:06.179164Z"
-lastmod: "2026-07-18T15:51:59.524801Z"
+slug: prompt_tuning
+date: '2026-07-18T15:18:06.179164Z'
+lastmod: '2026-07-18T15:51:59.524801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um método de ajuste fino eficiente em parâmetros que otimiza embeddings contínuos de entrada em vez de atualizar todos os pesos do modelo."
+source: agnes_llm
+status: published
+language: pt
+description: Um método de ajuste fino eficiente em parâmetros que otimiza embeddings
+  contínuos de entrada em vez de atualizar todos os pesos do modelo.
 ---
-
 ## Definition
 
 O ajuste de prompt envolve a adição de prompts treináveis suaves (vetores contínuos) à camada de entrada de um modelo de linguagem pré-treinado, mantendo os parâmetros subjacentes do modelo congelados. Essa abordagem permite

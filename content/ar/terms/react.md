@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /ar/terms/react/
 date: "2026-07-18T15:38:23.148173Z"
 lastmod: "2026-07-18T17:15:08.465191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ReAct هو نموذج توجيه يجمع بين الاستنتاج والعمل لتحسين أداء نماذج اللغات الكبيرة في المهام المعقدة."
 ---
-
 ## Definition
 
 يتيح إطار عمل ReAct لنماذج اللغات الكبيرة (LLMs) توليد مسارات استدلال وإجراءات محددة للمهمة بشكل متداخل. ومن خلال محاكاة عمليات التفكير البشرية، يسمح للنماذج بالتفاعل مع البيئة الخارجية.

@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /fi/terms/tool_use/
 date: "2026-07-18T15:38:41.602835Z"
 lastmod: "2026-07-18T17:15:09.375931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Paradigma, jossa tekoälyagentit valitsevat ja suorittavat ulkoisia funktioita tai sovellusliittymiä (API) suorittaakseen tehtäviä, jotka ylittävät niiden synnynnäiset kyvyt."
 ---
-
 ## Definition
 
 Työkalujen käyttö mahdollistaa kielimallien vuorovaikutuksen ulkoisten ohjelmistoympäristöjen kanssa kutsumalla esimääriteltyjä funktioita, kuten laskimia, hakukoneita tai tietokantakyselyjä. Tämä lähestymistapa laajentaa mallin

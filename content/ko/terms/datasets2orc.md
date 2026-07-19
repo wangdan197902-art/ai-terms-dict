@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /ko/terms/datasets2orc/
 date: "2026-07-18T15:48:22.776096Z"
 lastmod: "2026-07-18T16:38:06.828262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "시맨틱 스칼라(Semantic Scholar) 오픈 리서치 코퍼스. 구조화된 메타데이터와 인용 네트워크를 갖춘 대규모 학술 논문 데이터셋입니다."
 ---
-
 ## Definition
 
 S2ORC는 시맨틱 스칼라에서 파생된 학술 자료의 포괄적인 코퍼스입니다. 다양한 과학 분야에 걸쳐 수백만 편의 논문들에 대해 전체 텍스트 내용, 메타데이터, 그리고 인용 관계를 포함하고 있습니다.

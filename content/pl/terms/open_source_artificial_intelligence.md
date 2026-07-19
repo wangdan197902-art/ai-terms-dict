@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /pl/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:09:49.484541Z"
 lastmod: "2026-07-18T17:15:08.903268Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Otwarta AI odnosi się do oprogramowania, modeli i narzędzi sztucznej inteligencji, których kod źródłowy jest publicznie dostępny do inspekcji, modyfikacji i dystrybucji."
 ---
-
 ## Definition
 
 Koncepcja ta obejmuje ekosystem technologii AI udostępnianych na licencjach pozwalających na darmowy dostęp do ich podstawowego kodu. Promuje przejrzystość, współpracę i innowacje, umożliwiając deweloperom badanie i dostosowywanie algorytmów.

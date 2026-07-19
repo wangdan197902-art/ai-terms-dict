@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /zh/terms/inference/
 date: "2026-07-18T07:44:46.533469Z"
 lastmod: "2026-07-18T11:44:44.592342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "训练好的模型处理新数据以生成预测或输出的阶段。"
 ---
-
 ## Definition
 
 推理指的是部署阶段，在此阶段使用最终确定的模型对未见过的数据进行决策或预测。与更新权重的训练不同，推理消耗计算资源以产生结果。

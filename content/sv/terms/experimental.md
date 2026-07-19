@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /sv/terms/experimental/
 date: "2026-07-18T15:25:43.386778Z"
 lastmod: "2026-07-18T17:15:08.941420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser AI-teknologier, modeller eller metoder som befinner sig i ett tidigt utvecklingsstadium och ännu inte har validerats fullt ut för produktion."
 ---
-
 ## Definition
 
 Experimentell betecknar AI-komponenter som för närvarande testas, forskas på eller prototypas innan de uppnår stabilitet eller bred användning. Dessa system använder ofta nya arkitekturer eller oprövade metoder som kan vara mindre pålitliga i kritiska miljöer.

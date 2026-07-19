@@ -1,23 +1,24 @@
 ---
-title: "Tek Çıkararak Çapraz Doğrulama"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Tek Çıkararak Çapraz Doğrulama
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /tr/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:00:49.800268Z"
-lastmod: "2026-07-18T16:38:07.327277Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:00:49.800268Z'
+lastmod: '2026-07-18T16:38:07.327277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Modelin tüm örneklerden biri hariç eğitildiği ve bu tek tutulan örnekte test edildiği, her veri noktası için tekrarlanan titiz bir yeniden örnekleme tekniğidir."
+source: agnes_llm
+status: published
+language: tr
+description: Modelin tüm örneklerden biri hariç eğitildiği ve bu tek tutulan örnekte
+  test edildiği, her veri noktası için tekrarlanan titiz bir yeniden örnekleme tekniğidir.
 ---
-
 ## Definition
 
 Tek çıkararak çapraz doğrulama (LOOCV), k'nın veri setindeki örnek sayısına eşit olduğu k-katlı çapraz doğrulamanın özel bir durumudur. Model performansının neredeyse yanlısız bir tahminini sağlar.

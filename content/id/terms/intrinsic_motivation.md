@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /id/terms/intrinsic_motivation/
 date: "2026-07-18T15:56:23.067525Z"
 lastmod: "2026-07-18T16:38:07.472127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konsep pembelajaran penguatan di mana agen mengejar tujuan berdasarkan rasa ingin tahu internal atau akuisisi pengetahuan, bukan imbalan eksternal."
 ---
-
 ## Definition
 
 Dalam pembelajaran penguatan, motivasi intrinsik mendorong agen untuk menjelajahi lingkungannya dengan mencari hal baru, mengurangi ketidakpastian, atau menguasai keterampilan, terlepas dari imbalan tugas ekstrinsik. Mekanisme ini memungkinkan agen untuk belajar secara mandiri tanpa perlu sinyal hadiah yang dirancang secara eksplisit untuk setiap tindakan, sehingga meningkatkan efisiensi eksplorasi dan kemampuan adaptasi dalam lingkungan yang dinamis atau belum dipetakan.

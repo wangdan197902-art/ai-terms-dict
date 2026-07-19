@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /he/terms/category_utility/
 date: "2026-07-18T15:47:17.252798Z"
 lastmod: "2026-07-18T17:15:09.518992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תועלת קטגוריה היא מדד מתמטי המשמש להערכת יעילותו של סכמת קיטוג בהתבסס על רווח המידע שהוא מספק לגבי ערכי תכונות."
 ---
-
 ## Definition
 
 מדד זה כמותי את מידת היכולת של קבוצת קטגוריות לחזות את ערכי התכונות בתוך הקטגוריות הללו. הוא מאזן בין גודל הקטגוריות לבין האחידות (Homogeneity) של התכונות המוכלות בהן, כדי להעריך את איכות החלוקה.

@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /de/terms/recursive_self_improvement/
 date: "2026-07-18T11:30:56.748665Z"
 lastmod: "2026-07-18T11:44:44.981151Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Prozess, bei dem ein KI-System seine eigene Intelligenz oder seine Fähigkeiten durch Selbstmodifikation iterativ verbessert."
 ---
-
 ## Definition
 
 Rekursive Selbstverbesserung bezeichnet die theoretische Fähigkeit eines künstlichen Intelligenzsystems, seinen eigenen Quellcode oder seine Architektur so umzuschreiben, dass es intelligenter, effizienter oder leistungsfähiger wird.

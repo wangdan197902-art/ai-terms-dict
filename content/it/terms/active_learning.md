@@ -1,23 +1,25 @@
 ---
-title: "Apprendimento attivo"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Apprendimento attivo
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /it/terms/active_learning/
-date: "2026-07-18T15:44:17.069862Z"
-lastmod: "2026-07-18T17:15:08.595552Z"
+slug: active_learning
+date: '2026-07-18T15:44:17.069862Z'
+lastmod: '2026-07-18T17:15:08.595552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una strategia di apprendimento automatico in cui l'algoritmo seleziona e interroga un utente o un oracolo per etichettare nuovi punti dati, ottimizzando il processo di addestramento."
+source: agnes_llm
+status: published
+language: it
+description: Una strategia di apprendimento automatico in cui l'algoritmo seleziona
+  e interroga un utente o un oracolo per etichettare nuovi punti dati, ottimizzando
+  il processo di addestramento.
 ---
-
 ## Definition
 
 L'apprendimento attivo riduce la quantità di dati etichettati richiesti consentendo al modello di scegliere le istanze più informative per l'etichettatura umana. Invece di ricevere passivamente campioni casuali, l'algoritmo identifica attivamente i dati su cui è meno sicuro o che potrebbero massimizzare il miglioramento del modello.

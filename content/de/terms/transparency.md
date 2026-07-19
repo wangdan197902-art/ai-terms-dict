@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /de/terms/transparency/
 date: "2026-07-18T11:00:18.455318Z"
 lastmod: "2026-07-18T11:44:44.901394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Ausmaß, in dem die Entscheidungsprozesse, Datenquellen und Einschränkungen eines KI-Systems für Benutzer offen und verständlich sind."
 ---
-
 ## Definition
 
 Transparenz stellt sicher, dass Interessenträger verstehen können, wie ein KI-Modell zu seinen Ausgaben gelangt, was Vertrauen und Rechenschaftspflicht fördert. Sie umfasst die Offenlegung der Herkunft der Trainingsdaten, der Modellarchitekturen und

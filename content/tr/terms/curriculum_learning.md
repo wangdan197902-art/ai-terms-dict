@@ -1,23 +1,23 @@
 ---
-title: "Müfredat Öğrenimi"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Müfredat Öğrenimi
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /tr/terms/curriculum_learning/
-date: "2026-07-18T16:21:57.826777Z"
-lastmod: "2026-07-18T16:38:07.378868Z"
+slug: curriculum_learning
+date: '2026-07-18T16:21:57.826777Z'
+lastmod: '2026-07-18T16:38:07.378868Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Modellerin zor örneklerle ilerlemeden önce kolay örneklerden öğrenmesini sağlayan bir eğitim stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Modellerin zor örneklerle ilerlemeden önce kolay örneklerden öğrenmesini
+  sağlayan bir eğitim stratejisi.
 ---
-
 ## Definition
 
 Müfredat öğrenimi, basit örnekle başlayıp kademeli olarak karmaşıklığı artırarak eğitim verisini yapılandırılmış bir sırayla sunarak insan eğitimini taklit eder. Bu yaklaşım, sinir ağlarının...

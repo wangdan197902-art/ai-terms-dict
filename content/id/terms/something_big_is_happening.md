@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /id/terms/something_big_is_happening/
 date: "2026-07-18T16:09:06.123647Z"
 lastmod: "2026-07-18T16:38:07.508088Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Frasa kolokial yang sering digunakan dalam media untuk menggambarkan terobosan signifikan atau kemajuan pesat di bidang AI."
 ---
-
 ## Definition
 
 Istilah ini bukan definisi teknis, melainkan penanda budaya yang merujuk pada periode inovasi intensif, minat publik yang tinggi, atau pergeseran paradigma dalam kecerdasan buatan. Frasa ini biasanya menyertai peluncuran model AI besar, peningkatan kemampuan komputasi, atau perubahan sosial yang drastis akibat adopsi teknologi baru.

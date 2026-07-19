@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /da/terms/flow/
 date: "2026-07-18T15:25:00.904107Z"
 lastmod: "2026-07-18T17:15:09.224389Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Dataflow beskriver bevægelsen og transformationen af information gennem forskellige stadier i en AI-behandlingspipeline."
 ---
-
 ## Definition
 
 Dataflow omfatter den sti, data tager fra indsamling til endeligt output i et AI-system, herunder forbehandling, funktionsekstraktion, modelinferens og efterbehandling. Effektiv styring af dataflow er kritisk for systemets stabilitet og hastighed.

@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /pt/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T14:55:34.073573Z"
 lastmod: "2026-07-18T15:51:59.477884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados contendo formas lexicais alternativas usadas para treinar modelos em equivalência semântica e detecção de paráfrases."
 ---
-
 ## Definition
 
 O conjunto de dados Altlex consiste em pares de frases que compartilham o mesmo significado subjacente, mas utilizam vocabulário ou estruturas sintáticas diferentes. É primariamente utilizado no treinamento de modelos de emb...

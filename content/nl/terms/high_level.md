@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /nl/terms/high_level/
 date: "2026-07-18T15:31:53.297571Z"
 lastmod: "2026-07-18T17:15:08.698718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar abstracte representaties of programmeerinterfaces die de laag-niveau implementatiedetails voor de gebruiker verbergen."
 ---
-
 ## Definition
 
 In AI duidt 'hoog niveau' op abstracties die complexe processen vereenvoudigen. Hoogniveau talen (zoals Python) of API's stellen ontwikkelaars in staat modellen te bouwen zonder zich zorgen te hoeven maken over geheugenbeheer of hardwaredetails. Dit contrasteert met laag-niveau programmeren, waar meer controle nodig is over de onderliggende systeemresournces.

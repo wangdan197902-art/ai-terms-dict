@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /de/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T11:16:06.096019Z"
 lastmod: "2026-07-18T11:44:44.943815Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Abhängigkeit von Organisationen von generativen KI-Systemen für kritische Operationen, die Risiken in Bezug auf Verfügbarkeit, Genauigkeit und Sicherheit mit sich bringt."
 ---
-
 ## Definition
 
 Dieses Konzept bezeichnet die strategische und operative Abhängigkeit von Unternehmen von generativen KI-Modellen zur Durchführung wesentlicher Aufgaben wie Content-Erstellung, Kundenservice und Datenanalyse. Da die Adoption fortschreitet, entstehen dabei spezifische Risiken.

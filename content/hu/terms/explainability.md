@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /hu/terms/explainability/
 date: "2026-07-18T15:37:49.779373Z"
 lastmod: "2026-07-18T17:15:09.740373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A magyarázhatóság azt jelenti, hogy egy ember mennyire képes megérteni egy AI modell által hozott döntés okait."
 ---
-
 ## Definition
 
 Ez a fogalom a komplex AI rendszerek 'fekete doboz' problémájára ad választ, betekintést nyújtva abba, hogyan jutnak el a modellek specifikus előrejelzésekhez. A SHAP vagy LIME hasonló technikák segítenek vizualizálni a jellemzők fontosságát.

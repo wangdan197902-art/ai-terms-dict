@@ -1,23 +1,23 @@
 ---
-title: "Diella"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /vi/terms/diella/
-date: "2026-07-18T15:49:14.512003Z"
-lastmod: "2026-07-18T16:38:07.748854Z"
+slug: diella
+date: '2026-07-18T15:49:14.512003Z'
+lastmod: '2026-07-18T16:38:07.748854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kiến trúc học sâu chuyên biệt được thiết kế để thực hiện hiệu quả các tác vụ siêu phân giải và khôi phục ảnh."
+source: agnes_llm
+status: published
+language: vi
+description: Một kiến trúc học sâu chuyên biệt được thiết kế để thực hiện hiệu quả
+  các tác vụ siêu phân giải và khôi phục ảnh.
 ---
-
 ## Definition
 
 Diella đề cập đến các mô hình mạng nơ-ron cụ thể được tối ưu hóa để nâng cao chất lượng ảnh bằng cách tăng độ phân giải hoặc loại bỏ nhiễu. Các kiến trúc này thường sử dụng các cơ chế chú ý tiên tiến hoặc...

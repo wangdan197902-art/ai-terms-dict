@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /no/terms/react/
 date: "2026-07-18T15:38:21.635848Z"
 lastmod: "2026-07-18T16:38:06.961817Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "ReAct er et prompt-paradigme som kombinerer resonnering og handling for å forbedre ytelsen til store språkmodeller på komplekse oppgaver."
 ---
-
 ## Definition
 
 ReAct-rammeverket lar store språkmodeller generere både resonneringstrinn og oppgavespesifikke handlinger i en vevd sekvens. Ved å simulere menneskelignende tenkeprosesser, muliggjør det at modellene interagerer med eksterne systemer.

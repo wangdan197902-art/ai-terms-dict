@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /vi/terms/nso/
 date: "2026-07-18T16:05:47.143705Z"
 lastmod: "2026-07-18T16:38:07.788758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Trong ngữ cảnh AI, NSO thường đề cập đến Tối ưu hóa Biểu tượng Thần kinh (Neural Symbolic Optimization) hoặc các thực thể tổ chức cụ thể như Tập đoàn NSO liên quan đến công nghệ giám sát."
 ---
-
 ## Definition
 
 Viết tắt NSO có thể có nhiều nghĩa tùy thuộc vào ngữ cảnh. Trong nghiên cứu AI kỹ thuật, nó có thể đề cập đến Tối ưu hóa Biểu tượng Thần kinh, kết hợp mạng thần kinh với logic biểu tượng. Tuy nhiên, nó cũng

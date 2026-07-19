@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /ja/terms/low_cost/
 date: "2026-07-18T10:56:57.946358Z"
 lastmod: "2026-07-18T11:44:45.027008Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "機能性を維持しつつ、計算、財務、またはエネルギー消費を最小化するAIソリューションを示します。"
 ---
-
 ## Definition
 
 低コストAIは効率性を重視し、機械学習に伴う参入障壁と運用費用の削減を目指します。これには、モデル圧縮、量子化、剪定などの技術が含まれ、リソース制約のある環境での実装を可能にします。

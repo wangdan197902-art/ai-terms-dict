@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /sv/terms/langevin/
 date: "2026-07-18T15:27:04.076426Z"
 lastmod: "2026-07-18T17:15:08.944689Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Langevin avser stokastiska differentialekvationer, specifikt Langevindynamik, som används för att sampla från sannolikhetsfördelningar genom att simulera fysisk rörelse med friktion och brus."
 ---
-
 ## Definition
 
 Langevindynamik inkluderar slumpmässigt brus och dämpningskrafter för att utforska energilandskap effektivt. Inom AI används det främst i sampleringsmetoder som Hamiltoniansk Monte Carlo eller Stokastisk Gradient...

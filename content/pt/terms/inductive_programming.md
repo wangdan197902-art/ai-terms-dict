@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /pt/terms/inductive_programming/
 date: "2026-07-18T15:05:29.565313Z"
 lastmod: "2026-07-18T15:51:59.501448Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma área de síntese de programas que gera automaticamente programas de computador a partir de exemplos de entrada e saída."
 ---
-
 ## Definition
 
 A Programação Indutiva, frequentemente referida como Síntese de Programas, envolve a criação de código de software com base em especificações fornecidas como pares de entrada e saída, em vez de instruções explícitas. O sistema infere

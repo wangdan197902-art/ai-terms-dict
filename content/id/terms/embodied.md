@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /id/terms/embodied/
 date: "2026-07-18T15:25:20.411566Z"
 lastmod: "2026-07-18T16:38:07.391800Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "AI berbadan fisik merujuk pada sistem cerdas yang berinteraksi dengan dunia fisik melalui sensor dan aktuator dalam sebuah tubuh."
 ---
-
 ## Definition
 
 AI berbadan fisik berasumsi bahwa kecerdasan muncul dari interaksi antara bentuk fisik agen dan lingkungannya. Berbeda dengan AI yang tidak berbadan yang memproses data abstrak, agen berbadan menggunakan sensor untuk merasakan lingkungan dan aktuator untuk bertindak.

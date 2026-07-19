@@ -1,23 +1,25 @@
 ---
-title: "Ipotesi del biglietto vincente"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: Ipotesi del biglietto vincente
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /it/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:08:52.969404Z"
-lastmod: "2026-07-18T17:15:08.645341Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:08:52.969404Z'
+lastmod: '2026-07-18T17:15:08.645341Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La teoria secondo cui le reti neurali dense contengono sotto-reti più piccole che, se addestrate isolatamente a partire dall'inizializzazione, possono eguagliare l'accuratezza della rete originale."
+source: agnes_llm
+status: published
+language: it
+description: La teoria secondo cui le reti neurali dense contengono sotto-reti più
+  piccole che, se addestrate isolatamente a partire dall'inizializzazione, possono
+  eguagliare l'accuratezza della rete originale.
 ---
-
 ## Definition
 
 L'Ipotesi del Biglietto Vincente suggerisce che all'interno di una grande rete neurale inizializzata casualmente esista una sotto-rete sparsa (il 'biglietto vincente') che è ben inizializzata per l'addestramento. Mediante la potatura

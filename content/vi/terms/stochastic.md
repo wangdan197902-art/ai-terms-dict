@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /vi/terms/stochastic/
 date: "2026-07-18T15:29:15.110760Z"
 lastmod: "2026-07-18T16:38:07.696341Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mô tả các quá trình hoặc mô hình liên quan đến tính ngẫu nhiên và xác suất thay vì kết quả tất định."
 ---
-
 ## Definition
 
 Các yếu tố ngẫu nhiên đưa tính biến đổi vào các hệ thống AI, chẳng hạn như nhiễu trong dữ liệu hoặc khởi tạo trọng số ngẫu nhiên. Khác với các mô hình tất định, các mô hình ngẫu nhiên tính đến sự không chắc chắn, làm cho...

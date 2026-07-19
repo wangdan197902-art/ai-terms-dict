@@ -1,23 +1,24 @@
 ---
-title: "Γενεράρισμα Εικόνας"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: Γενεράρισμα Εικόνας
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /el/terms/image_generation/
-date: "2026-07-18T16:13:43.279480Z"
-lastmod: "2026-07-18T17:15:09.919156Z"
+slug: image_generation
+date: '2026-07-18T16:13:43.279480Z'
+lastmod: '2026-07-18T17:15:09.919156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η γενεράρισμα εικόνας είναι η διαδικασία δημιουργίας νέου οπτικού περιεχομένου από την αρχή ή τροποποίησης υπαρχουσών εικόνων χρησιμοποιώντας μοντέλα γενετικής τεχνητής νοημοσύνης."
+source: agnes_llm
+status: published
+language: el
+description: Η γενεράρισμα εικόνας είναι η διαδικασία δημιουργίας νέου οπτικού περιεχομένου
+  από την αρχή ή τροποποίησης υπαρχουσών εικόνων χρησιμοποιώντας μοντέλα γενετικής
+  τεχνητής νοημοσύνης.
 ---
-
 ## Definition
 
 Αυτό το παράδειγμα χρησιμοποιεί μοντέλα όπως το Stable Diffusion ή το DALL-E για την παραγωγή εικόνων υψηλής ποιότητας με βάση κείμενο ή άλλες εισόδους. Περιλαμβάνει την μάθηση πολύπλοκων κατανομών δεδομένων για τη σύνθεση ρεαλιστικών...

@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /ro/terms/online/
 date: "2026-07-18T15:27:46.790330Z"
 lastmod: "2026-07-18T17:15:09.599897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la modelele de învățare automată care învață continuu din fluxuri de date noi în timp real, fără a fi necesară antrenarea de la zero."
 ---
-
 ## Definition
 
 Învățarea online este un paradigmă de învățare automată în care modelul este actualizat incremental pe măsură ce ajung noi puncte de date, în loc să fie antrenat pe un lot static de date simultan. Această abordare este crucială pentru aplicațiile care necesită adaptare rapidă.

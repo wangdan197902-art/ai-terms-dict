@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /ar/terms/multi_modality/
 date: "2026-07-18T16:13:48.393965Z"
 lastmod: "2026-07-18T17:15:08.530316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يُعد تعدد الوسائط المفهوم الأوسع أو مجال الدراسة المتعلق باستخدام أنواع بيانات متعددة ومميزة ضمن هندسات التعلم الآلي."
 ---
-
 ## Definition
 
 يمثل تعدد الوسائط الإطار المعماري والنظري الذي يمكّن نماذج الذكاء الاصطناعي من التعامل مع تدفقات بيانات غير متجانسة. ويتضمن تصميم الشبكات العصبية التي يمكنها قبول المدخلات من مصادر متنوعة

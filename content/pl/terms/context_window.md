@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /pl/terms/context_window/
 date: "2026-07-18T15:22:51.170136Z"
 lastmod: "2026-07-18T17:15:08.805743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Maksymalna ilość tekstu lub tokenów, którą model językowy może przetworzyć i uwzględnić jednocześnie podczas wnioskowania lub trenowania."
 ---
-
 ## Definition
 
 Okno kontekstowe definiuje operacyjny limit pamięci modelu AI dla pojedynczej interakcji. Określa ono, ile historii wcześniejszej rozmowy, treści dokumentu lub danych wejściowych model jest w stanie uwzględnić przy generowaniu odpowiedzi.

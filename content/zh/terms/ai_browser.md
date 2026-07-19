@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /zh/terms/ai_browser/
 date: "2026-07-18T11:02:52.509024Z"
 lastmod: "2026-07-18T11:44:45.434082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "集成 AI 功能以辅助搜索、摘要和内容分析的网页浏览器。"
 ---
-
 ## Definition
 
 AI 浏览器是一种直接将人工智能功能整合到用户界面中的网页浏览应用程序。这些功能通常包括自然语言搜索、自动内容摘要和对话式交互。

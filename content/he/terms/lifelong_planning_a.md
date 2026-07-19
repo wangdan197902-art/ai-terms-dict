@@ -1,23 +1,24 @@
 ---
-title: "תכנון לכל החיים A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: תכנון לכל החיים A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /he/terms/lifelong_planning_a/
-date: "2026-07-18T16:09:54.497563Z"
-lastmod: "2026-07-18T17:15:09.558228Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:09:54.497563Z'
+lastmod: '2026-07-18T17:15:09.558228Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגוריתם מציאת מסלול איקרמנטלי שמעדכן ביעילות מסלולים קצרים ביותר בגרפים דינמיים ללא צורך בחישוב מחדש מההתחלה לאחר שינויים במשקולות הצלעות."
+source: agnes_llm
+status: published
+language: he
+description: אלגוריתם מציאת מסלול איקרמנטלי שמעדכן ביעילות מסלולים קצרים ביותר בגרפים
+  דינמיים ללא צורך בחישוב מחדש מההתחלה לאחר שינויים במשקולות הצלעות.
 ---
-
 ## Definition
 
 תכנון לכל החיים A* (LPA*) הוא הרחבה של אלגוריתם החיפוש A* המיועדת לסביבות שבהן העלויות משתנות עם הזמן. במקום להתחיל את החיפוש מחדש, LPA* שומר על תור עדיפויות ומעדכן את המסלולים הקיימים.

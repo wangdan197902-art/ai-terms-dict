@@ -7,8 +7,6 @@ tags: ["Architecture", "Agents"]
 difficulty: 4
 weight: 1
 slug: "multi_agent_system"
-aliases:
-  - /ro/terms/multi_agent_system/
 date: "2026-07-18T15:36:33.639225Z"
 lastmod: "2026-07-18T17:15:09.616286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare arhitecturală în care mai mulți agenți AI autonomi colaborează, concurează sau se coordonează pentru a rezolva probleme complexe care depășesc capacitățile individuale."
 ---
-
 ## Definition
 
 Sistemele multi-agent sunt compuse din mai mulți agenți independenți, fiecare putând fi specializat în sarcini sau domenii diferite. Acești agenți comunică și își coordonează acțiunile pentru a atinge un obiectiv comun, îmbunătățind eficiența și robustețea soluției.

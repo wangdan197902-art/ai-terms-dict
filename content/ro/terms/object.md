@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /ro/terms/object/
 date: "2026-07-18T15:27:46.790320Z"
 lastmod: "2026-07-18T17:15:09.599772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O entitate distinctă într-un program care conține date și metode pentru manipularea acestora, centrală în programarea orientată pe obiecte."
 ---
-
 ## Definition
 
 Un obiect este un concept fundamental în informatică, în special în programarea orientată pe obiecte (OOP). Reprezintă o instanță a unei clase, încapsulând atât starea (atribute sau date), cât și comportamentul (metode) asociat.

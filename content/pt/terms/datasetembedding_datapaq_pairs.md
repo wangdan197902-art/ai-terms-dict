@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /pt/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T14:55:46.963772Z"
 lastmod: "2026-07-18T15:51:59.478212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um conjunto de dados em larga escala de pares pergunta-resposta derivados da Wikipédia, projetado para o treinamento de recuperação de passagens densas."
 ---
-
 ## Definition
 
 O conjunto de dados PAQ (Pseudo-Answer Quality) contém milhões de pares pergunta-resposta gerados automaticamente extraídos da Wikipédia. Ele foi especificamente desenvolvido para treinar recuperadores densos, fornecendo

@@ -1,23 +1,24 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /sv/terms/eagle/
-date: "2026-07-18T15:55:04.600304Z"
-lastmod: "2026-07-18T17:15:08.998877Z"
+slug: eagle
+date: '2026-07-18T15:55:04.600304Z'
+lastmod: '2026-07-18T17:15:08.998877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Eagle är ett högpresterande, öppen källkod-ramverk för stora språkmodeller utvecklat av ByteDance, designat för effektiv förträning och finjustering av LLMs."
+source: agnes_llm
+status: published
+language: sv
+description: Eagle är ett högpresterande, öppen källkod-ramverk för stora språkmodeller
+  utvecklat av ByteDance, designat för effektiv förträning och finjustering av LLMs.
 ---
-
 ## Definition
 
 Eagle representerar ett specifikt arkitektoniskt och tekniskt ramverk inom domänen för stora språkmodeller, främst associerat med optimeringar för tränings effektivitet och skalbarhet. Det fokuserar

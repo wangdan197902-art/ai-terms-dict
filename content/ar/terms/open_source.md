@@ -1,23 +1,23 @@
 ---
-title: "مفتوح المصدر (Open-source)"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: مفتوح المصدر (Open-source)
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /ar/terms/open_source/
-date: "2026-07-18T15:34:43.413588Z"
-lastmod: "2026-07-18T17:15:08.456506Z"
+slug: open_source
+date: '2026-07-18T15:34:43.413588Z'
+lastmod: '2026-07-18T17:15:08.456506Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "برمجيات يتم جعل شفرة مصادرها متاحة مجانًا للاستخدام والتعديل والتوزيع من قبل أي شخص."
+source: agnes_llm
+status: published
+language: ar
+description: برمجيات يتم جعل شفرة مصادرها متاحة مجانًا للاستخدام والتعديل والتوزيع
+  من قبل أي شخص.
 ---
-
 ## Definition
 
 يشير مفتوح المصدر إلى نموذج تطوير تكون فيه الشفرة الأساسية لمشروع البرمجيات متاحة للعامة. في مجال الذكاء الاصطناعي، يتيح ذلك للباحثين والمطورين فحص وتعديل وإعادة توزيع الخوارزميات والنماذج

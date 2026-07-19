@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /ja/terms/online/
 date: "2026-07-18T10:53:00.476433Z"
 lastmod: "2026-07-18T11:44:45.015293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "再学習なしで、新しいデータストリームからリアルタイムで継続的に学習する機械学習モデルを指す。"
 ---
-
 ## Definition
 
 オンライン学習は、モデルが一度に静的なバッチデータで訓練されるのではなく、新しいデータポイントが届くたびに増分的に更新される機械学習のパラダイムです。このアプローチは重要であり...

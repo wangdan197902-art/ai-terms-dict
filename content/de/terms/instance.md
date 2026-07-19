@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /de/terms/instance/
 date: "2026-07-18T11:19:34.928292Z"
 lastmod: "2026-07-18T11:44:44.952082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine einzelne Datenprobe oder Beobachtung, die in maschinellen Lernaufgaben verwendet wird, typischerweise dargestellt als ein Vektor von Merkmalen."
 ---
-
 ## Definition
 
 Im maschinellen Lernen bezeichnet eine Instanz ein spezifisches Beispiel aus dem Datensatz. Sie besteht aus einer Reihe von Eingabemerkmalen (Attributen) und potenziell einem Zielwert (Label). Instanzen sind die Grundeinheit

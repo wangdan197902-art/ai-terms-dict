@@ -1,23 +1,24 @@
 ---
-title: "AI-komplet"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: AI-komplet
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /da/terms/ai_complete/
-date: "2026-07-18T15:39:39.718697Z"
-lastmod: "2026-07-18T17:15:09.254820Z"
+slug: ai_complete
+date: '2026-07-18T15:39:39.718697Z'
+lastmod: '2026-07-18T17:15:09.254820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et problem så komplekst, at løsning kræver menneskelig lignende generel intelligens, hvilket gør det ækvivalent med at opnå Almen Kunstig Intelligens."
+source: agnes_llm
+status: published
+language: da
+description: Et problem så komplekst, at løsning kræver menneskelig lignende generel
+  intelligens, hvilket gør det ækvivalent med at opnå Almen Kunstig Intelligens.
 ---
-
 ## Definition
 
 AI-komplette problemer er opgaver, der, hvis de løses, ville implicere eksistensen af Almen Kunstig Intelligens (AGI). Disse problemer kræver dyb forståelse, ræsonnement og tilpasningsevne svarende til menneskelig kognition.

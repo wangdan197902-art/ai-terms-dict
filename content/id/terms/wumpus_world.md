@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /id/terms/wumpus_world/
 date: "2026-07-18T16:13:46.637812Z"
 lastmod: "2026-07-18T16:38:07.520421Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Lingkungan kecerdasan buatan klasik yang digunakan untuk mendemonstrasikan penalaran dalam ketidakpastian dan observabilitas parsial."
 ---
-
 ## Definition
 
 Dunia Wumpus adalah lingkungan berbasis grid yang diperkenalkan dalam buku teks AI karya Russell dan Norvig. Seorang agen harus menavigasi grid tersebut untuk menemukan emas sambil menghindari lubang jurang dan monster Wumpus. Agen tersebut menerima persepsi...

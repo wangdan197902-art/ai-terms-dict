@@ -1,23 +1,25 @@
 ---
-title: "Học máy trong trò chơi điện tử"
-term_id: "machine_learning_in_video_games"
-category: "training_techniques"
-subcategory: ""
-tags: ["gaming", "ai_applications", "development"]
+title: Học máy trong trò chơi điện tử
+term_id: machine_learning_in_video_games
+category: training_techniques
+subcategory: ''
+tags:
+- gaming
+- AI Applications
+- development
 difficulty: 3
 weight: 1
-slug: "machine_learning_in_video_games"
-aliases:
-  - /vi/terms/machine_learning_in_video_games/
-date: "2026-07-18T16:02:07.367630Z"
-lastmod: "2026-07-18T16:38:07.779528Z"
+slug: machine_learning_in_video_games
+date: '2026-07-18T16:02:07.367630Z'
+lastmod: '2026-07-18T16:38:07.779528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Việc áp dụng các thuật toán học máy để nâng cao quy trình phát triển trò chơi, tạo ra các nhân vật không do người chơi điều khiển (NPC) thích ứng và tối ưu hóa trải nghiệm chơi game."
+source: agnes_llm
+status: published
+language: vi
+description: Việc áp dụng các thuật toán học máy để nâng cao quy trình phát triển
+  trò chơi, tạo ra các nhân vật không do người chơi điều khiển (NPC) thích ứng và
+  tối ưu hóa trải nghiệm chơi game.
 ---
-
 ## Definition
 
 Lĩnh vực này liên quan đến việc tích hợp các kỹ thuật học máy vào quy trình sản xuất trò chơi điện tử nhằm tự động hóa việc tạo tài sản (asset), cân bằng cơ chế trò chơi và tạo ra nội dung động. Phạm vi của nó bao gồm việc sử dụng học tăng cường để...

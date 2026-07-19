@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /fi/terms/high_fidelity/
 date: "2026-07-18T15:33:39.456887Z"
 lastmod: "2026-07-18T17:15:09.364254Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuvaaa luotua sisältöä, joka muistuttaa todellista dataa yksityiskohdiltaan, laadultaan ja realistisuudeltaan lähes identtisesti."
 ---
-
 ## Definition
 
 Korkealaatuinen tarkoittaa generatiivisten mallien tuottamia tuloksia, jotka ovat erottamattomia tai hyvin samankaltaisia kuin aidot data. Kuvageneroinnissa se tarkoittaa realistisia tekstuurit ja valaistusta; äänituotannossa se viittaa luontevaan äänenlaatuun ja puheen intonaatioon. Tämä käsite korostaa generoidun sisällön uskottavuutta ja teknistä tarkkuutta.

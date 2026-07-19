@@ -1,23 +1,26 @@
 ---
-title: "Diskriminasi terhadap Robot"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Diskriminasi terhadap Robot
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /id/terms/discrimination_against_robots/
-date: "2026-07-18T15:48:27.542967Z"
-lastmod: "2026-07-18T16:38:07.452038Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:48:27.542967Z'
+lastmod: '2026-07-18T16:38:07.452038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Konsep etika dan hukum yang merujuk pada perlakuan bias atau prasangka yang ditujukan kepada agen buatan atau sistem otonom, sering muncul dari proyeksi antropomorfik atau ketidakpercayaan fungsional."
+source: agnes_llm
+status: published
+language: id
+description: Konsep etika dan hukum yang merujuk pada perlakuan bias atau prasangka
+  yang ditujukan kepada agen buatan atau sistem otonom, sering muncul dari proyeksi
+  antropomorfik atau ketidakpercayaan fungsional.
 ---
-
 ## Definition
 
 Diskriminasi terhadap robot adalah konsep etika dan sosiologi yang muncul yang memeriksa bagaimana manusia mungkin memperlakukan, tidak mempercayai, atau memberikan atribut negatif secara tidak adil kepada agen buatan berdasarkan persepsi mereka tentang kecerdasan atau status moralnya.

@@ -1,23 +1,25 @@
 ---
-title: "Нейроробототехника"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: Нейроробототехника
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /ru/terms/neurorobotics/
-date: "2026-07-18T16:08:13.629528Z"
-lastmod: "2026-07-18T16:38:07.185759Z"
+slug: neurorobotics
+date: '2026-07-18T16:08:13.629528Z'
+lastmod: '2026-07-18T16:38:07.185759Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Нейроробототехника — это изучение того, как биологические нейронные системы могут informing дизайн автономных роботов и как роботы могут служить моделями для понимания функций мозга."
+source: agnes_llm
+status: published
+language: ru
+description: Нейроробототехника — это изучение того, как биологические нейронные системы
+  могут informing дизайн автономных роботов и как роботы могут служить моделями для
+  понимания функций мозга.
 ---
-
 ## Definition
 
 Эта область связывает нейробиологию и робототехнику путем внедрения моделей нейронных сетей в системы управления роботами. Это позволяет исследователям проверять гипотезы о моторном контроле, сенсорной обработке и когнитивных процессах.

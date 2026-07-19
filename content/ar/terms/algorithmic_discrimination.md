@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /ar/terms/algorithmic_discrimination/
 date: "2026-07-18T15:42:57.580683Z"
 lastmod: "2026-07-18T17:15:08.474030Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يحدث التمييز الخوارزمي عندما تنتج الأنظمة الآلية نتائج غير عادلة أو متحيزة تضعف مجموعات معينة بناءً على خصائص محمية."
 ---
-
 ## Definition
 
 ينشأ هذا الظاهرة عندما تعامل نماذج الذكاء الاصطناعي الأفراد بشكل مختلف، عن طريق الخطأ أو منهجياً، بسبب العرق أو الجنس أو العمر أو سمات حساسة أخرى. وغالباً ما ينبع من بيانات تدريب متحيزة.

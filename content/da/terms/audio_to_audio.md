@@ -1,23 +1,24 @@
 ---
-title: "Lyd til lyd"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Lyd til lyd
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /da/terms/audio_to_audio/
-date: "2026-07-18T15:42:25.054042Z"
-lastmod: "2026-07-18T17:15:09.261833Z"
+slug: audio_to_audio
+date: '2026-07-18T15:42:25.054042Z'
+lastmod: '2026-07-18T17:15:09.261833Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En generativ AI-opgave, hvor indtastningslyd transformeres til outputlyd, mens specifikke egenskaber bevares eller ændres."
+source: agnes_llm
+status: published
+language: da
+description: En generativ AI-opgave, hvor indtastningslyd transformeres til outputlyd,
+  mens specifikke egenskaber bevares eller ændres.
 ---
-
 ## Definition
 
 Lyd-til-lyd refererer til neurale netværksarkitekturer designet til at kortlægge ét lydsignal til et andet. I modsætning til tekst-til-tale involverer dette direkte bølgeform- eller spektrogramtransformation. Anvendelser inkluder

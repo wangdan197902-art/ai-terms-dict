@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /th/terms/perceiver/
 date: "2026-07-18T16:10:36.186940Z"
 lastmod: "2026-07-18T16:38:07.641203Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ระบบหรือโมดูลที่มีหน้าที่รับและตีความข้อมูลประสาทสัมผัสจากสิ่งแวดล้อม"
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์และวิทยาศาสตร์認知 (Cognitive science) ผู้รับรู้ (Perceiver) หมายถึงส่วนประกอบของระบบอัจฉริยะที่ทำหน้าที่แปลงข้อมูลประสาทสัมผัสดิบให้เป็นข้อมูลที่มีความหมาย ต่างจากเซนเซอร์ทั่วไปที่เพียงตรวจจับสัญญาณ ผู้ร

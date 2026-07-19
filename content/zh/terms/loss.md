@@ -1,23 +1,22 @@
 ---
-title: "损失"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: 损失
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /zh/terms/loss/
-date: "2026-07-18T10:52:50.832676Z"
-lastmod: "2026-07-18T11:44:45.375955Z"
+slug: loss
+date: '2026-07-18T10:52:50.832676Z'
+lastmod: '2026-07-18T11:44:45.375955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个数值，用于量化模型预测值与实际目标值之间的误差。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个数值，用于量化模型预测值与实际目标值之间的误差。
 ---
-
 ## Definition
 
 损失函数（也称为成本函数）衡量机器学习模型的预测结果与真实标签在训练期间的匹配程度。优化算法的目标是最小化这个损失值，从而提高模型的准确性。

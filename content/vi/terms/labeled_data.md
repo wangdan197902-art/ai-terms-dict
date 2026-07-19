@@ -1,23 +1,24 @@
 ---
-title: "Dữ liệu có nhãn"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Dữ liệu có nhãn
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /vi/terms/labeled_data/
-date: "2026-07-18T15:59:51.756841Z"
-lastmod: "2026-07-18T16:38:07.774303Z"
+slug: labeled_data
+date: '2026-07-18T15:59:51.756841Z'
+lastmod: '2026-07-18T16:38:07.774303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Dữ liệu trong đó giá trị đầu ra hoặc mục tiêu chính xác được cung cấp cùng với các đặc trưng đầu vào."
+source: agnes_llm
+status: published
+language: vi
+description: Dữ liệu trong đó giá trị đầu ra hoặc mục tiêu chính xác được cung cấp
+  cùng với các đặc trưng đầu vào.
 ---
-
 ## Definition
 
 Dữ liệu có nhãn bao gồm các mẫu đầu vào được ghép cặp với các nhãn thực tế tương ứng, đóng vai trò là nền tảng cho học máy có giám sát. Nó cho phép các thuật toán học ánh xạ giữa đầu vào và đầu ra.

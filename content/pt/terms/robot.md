@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /pt/terms/robot/
 date: "2026-07-18T14:38:50.178176Z"
 lastmod: "2026-07-18T15:51:59.437807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma máquina programável capaz de executar ações complexas automaticamente."
 ---
-
 ## Definition
 
 Um robô é um dispositivo mecânico autônomo ou semi-autônomo projetado para realizar tarefas de forma independente ou sob controle remoto. Tipicamente consiste em sensores para percepção ambiental, atuadores para movimento e um sistema de controle

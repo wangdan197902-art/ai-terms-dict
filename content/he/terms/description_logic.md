@@ -1,23 +1,23 @@
 ---
-title: "לוגיקת תיאור"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: לוגיקת תיאור
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /he/terms/description_logic/
-date: "2026-07-18T15:53:44.629266Z"
-lastmod: "2026-07-18T17:15:09.532745Z"
+slug: description_logic
+date: '2026-07-18T15:53:44.629266Z'
+lastmod: '2026-07-18T17:15:09.532745Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "משפחה של שפות ייצוג ידע פורמליות המשמשות לייצוג ולגזור מסקנות לגבי המבנה הקונספטואלי של תחומים."
+source: agnes_llm
+status: published
+language: he
+description: משפחה של שפות ייצוג ידע פורמליות המשמשות לייצוג ולגזור מסקנות לגבי המבנה
+  הקונספטואלי של תחומים.
 ---
-
 ## Definition
 
 לוגיקות תיאור (DL) הן חלקים ניתנים להכרעה של לוגיקה מסדר ראשון המהווים את הבסיס התיאורטי לאונטולוגיות, ובפרט לשפת האונטולוגיה של הרשת (OWL). הן מאפשרות הגדרה מדויקת של קונספטים ויחסים ביניהם.

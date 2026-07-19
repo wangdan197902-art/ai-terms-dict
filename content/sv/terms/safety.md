@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /sv/terms/safety/
 date: "2026-07-18T15:30:34.293217Z"
 lastmod: "2026-07-18T17:15:08.950982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Studiet och praktiken av att säkerställa att AI-system inte orsakar fysisk, digital eller samhällsskada."
 ---
-
 ## Definition
 
 AI-säkerhet är ett multidisciplinärt fält fokuserat på att förhindra ogynnsamma utfall från avancerad artificiell intelligens. Det omfattar tekniska utmaningar såsom alignering, tolkbarhet och robusthet, samt etiska och regulatoriska aspekter av AI-utveckling.

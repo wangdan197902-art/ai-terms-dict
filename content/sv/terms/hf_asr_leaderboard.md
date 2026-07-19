@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /sv/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:01:19.634289Z"
 lastmod: "2026-07-18T17:15:09.010937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett rangordningssystem på Hugging Face som utvärderar och jämför prestandan hos modeller för automatisk taligenkänning."
 ---
-
 ## Definition
 
 HF ASR Leaderboard är en gemenskapsdriven plattform för metrik som drivs av Hugging Face, där de mest avancerade resultaten inom automatisk taligenkänning spåras. Det gör det möjligt för forskare och utvecklare att benchmarka sina modeller mot stat-of-the-art-lösningar.

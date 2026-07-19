@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /fi/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:51:27.129674Z"
 lastmod: "2026-07-18T17:15:09.398766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laaja tietosarja Wikipediasta johdettuja kysymys-vastaus-pareja, suunniteltu tiheän kappalehaun (dense passage retrieval) koulutukseen."
 ---
-
 ## Definition
 
 PAQ (Pseudo-Answer Quality) -tietosarjassa on miljoonia automaattisesti luotuja kysymys-vastaus-pareja, jotka on poimittu Wikipediasta. Se on erityisesti suunniteltu kouluttamaan tiheitä hakijoita tarjoamalla...

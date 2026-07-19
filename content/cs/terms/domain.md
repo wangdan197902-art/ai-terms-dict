@@ -1,23 +1,24 @@
 ---
-title: "Doména"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Doména
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /cs/terms/domain/
-date: "2026-07-18T15:24:25.501748Z"
-lastmod: "2026-07-18T17:15:09.066685Z"
+slug: domain
+date: '2026-07-18T15:24:25.501748Z'
+lastmod: '2026-07-18T17:15:09.066685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Doména představuje specifický kontext nebo rozdělení dat charakterizované svým prostorem funkcí a základním pravděpodobnostním rozdělením."
+source: agnes_llm
+status: published
+language: cs
+description: Doména představuje specifický kontext nebo rozdělení dat charakterizované
+  svým prostorem funkcí a základním pravděpodobnostním rozdělením.
 ---
-
 ## Definition
 
 Ve strojovém učení, zejména v přenosovém učení, je doména definována dvěma složkami: prostorem funkcí (množinou všech možných vstupů) a marginálním pravděpodobnostním rozdělením těchto vstupů.

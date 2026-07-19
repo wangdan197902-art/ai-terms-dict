@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /en/terms/bert/
 date: "2026-07-18T09:48:19.409872Z"
 lastmod: "2026-07-18T11:44:44.648197Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Bidirectional Encoder Representations from Transformers is a pre-trained natural language processing model."
 ---
-
 ## Definition
 
 BERT is a transformer-based machine learning technique for NLP pre-training developed by Google. It uses masked language modeling and next sentence prediction to learn bidirectional representations from text. This allows BERT to understand context from both left and right directions simultaneously, significantly improving performance on tasks like question answering and sentiment analysis compared to unidirectional models.

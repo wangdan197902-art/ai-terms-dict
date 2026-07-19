@@ -1,23 +1,24 @@
 ---
-title: "Qloo"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: Qloo
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /vi/terms/qloo/
-date: "2026-07-18T16:09:20.510974Z"
-lastmod: "2026-07-18T16:38:07.797240Z"
+slug: qloo
+date: '2026-07-18T16:09:20.510974Z'
+lastmod: '2026-07-18T16:38:07.797240Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Qloo là nền tảng dữ liệu dựa trên trí tuệ nhân tạo, cung cấp các dự báo về hành vi người tiêu dùng và xu hướng văn hóa."
+source: agnes_llm
+status: published
+language: vi
+description: Qloo là nền tảng dữ liệu dựa trên trí tuệ nhân tạo, cung cấp các dự báo
+  về hành vi người tiêu dùng và xu hướng văn hóa.
 ---
-
 ## Definition
 
 Qloo hoạt động như một công ty thông tin dữ liệu, chuyên nghiên cứu sở thích của con người thông qua các thuật toán học máy tiên tiến. Nó tổng hợp và phân tích khối lượng lớn dữ liệu từ nhiều nguồn khác nhau.

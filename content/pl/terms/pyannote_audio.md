@@ -1,23 +1,24 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /pl/terms/pyannote_audio/
-date: "2026-07-18T16:13:32.894812Z"
-lastmod: "2026-07-18T17:15:08.910145Z"
+slug: pyannote_audio
+date: '2026-07-18T16:13:32.894812Z'
+lastmod: '2026-07-18T17:15:08.910145Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Pyannote Audio to modułowy zestaw narzędzi do tworzenia potoków przetwarzania danych dla diarizacji mówcy, wyposażony w wstępnie wytrenowane modele sieci neuronowych."
+source: agnes_llm
+status: published
+language: pl
+description: Pyannote Audio to modułowy zestaw narzędzi do tworzenia potoków przetwarzania
+  danych dla diarizacji mówcy, wyposażony w wstępnie wytrenowane modele sieci neuronowych.
 ---
-
 ## Definition
 
 Pyannote Audio to kompleksowy zestaw narzędzi zaprojektowany tak, aby ułatwić rozwój i wdrażanie systemów diarizacji mówcy. Udostępnia zbiór wstępnie wytrenowanych modeli sieci neuronowych do zadań analizy audio, takich jak wykrywanie aktywności głosu czy ekstrakcja cech.

@@ -1,23 +1,23 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /ja/terms/gguf/
-date: "2026-07-18T11:15:24.740359Z"
-lastmod: "2026-07-18T11:44:45.099482Z"
+slug: gguf
+date: '2026-07-18T11:15:24.740359Z'
+lastmod: '2026-07-18T11:44:45.099482Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "量子化された大規模言語モデルをローカルハードウェア上で効率的に保存および読み込みするためにgger.aiによって開発されたファイル形式。"
+source: agnes_llm
+status: published
+language: ja
+description: 量子化された大規模言語モデルをローカルハードウェア上で効率的に保存および読み込みするためにgger.aiによって開発されたファイル形式。
 ---
-
 ## Definition
 
 GGUF（GPT-Generated Unified Format）は、コンシューマーグレードのハードウェアで大規模言語モデルを実行するために特別に設計されたバイナリファイル形式です。さまざまな量子化技術をサポートしており、モデルのサイズを削減しながらパフォーマンスを維持することを可能にします。

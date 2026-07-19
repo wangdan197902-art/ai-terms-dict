@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /de/terms/offline_learning/
 date: "2026-07-18T11:25:53.034804Z"
 lastmod: "2026-07-18T11:44:44.971569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Offline-Lernen ist ein Trainingsparadigma, bei dem Modelle auf statischen Datensätzen trainiert werden, ohne während der Lernphase mit der Live-Umgebung zu interagieren."
 ---
-
 ## Definition
 
 Auch als Batch-Lernen bekannt, beinhaltet Offline-Lernen das Trainieren von Machine-Learning-Modellen auf einem zuvor gesammelten festen Datensatz. Im Gegensatz zum Online-Lernen aktualisiert das Modell seine Parameter nicht in Echtzeit.

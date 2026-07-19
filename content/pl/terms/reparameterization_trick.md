@@ -1,23 +1,24 @@
 ---
-title: "Trik reparametryzacji"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Trik reparametryzacji
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /pl/terms/reparameterization_trick/
-date: "2026-07-18T16:15:04.159978Z"
-lastmod: "2026-07-18T17:15:08.913875Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:15:04.159978Z'
+lastmod: '2026-07-18T17:15:08.913875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika oddzielająca zmienne losowe od parametrów uczących się, umożliwiająca optymalizację opartą na gradientach w wnioskowaniu wariacyjnym."
+source: agnes_llm
+status: published
+language: pl
+description: Technika oddzielająca zmienne losowe od parametrów uczących się, umożliwiająca
+  optymalizację opartą na gradientach w wnioskowaniu wariacyjnym.
 ---
-
 ## Definition
 
 Trik reparametryzacji to fundamentalna metoda stosowana w wariacyjnych autoenkoderach i innych modelach probabilistycznych. Pozwala ona na przepływ gradientów przez węzły losowe poprzez wyrażenie zmiennej losowej jako deterministycznej funkcji parametrów modelu oraz niezależnej zmiennej szumu.

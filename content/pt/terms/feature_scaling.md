@@ -1,23 +1,24 @@
 ---
-title: "Escalonamento de Recursos"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Escalonamento de Recursos
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /pt/terms/feature_scaling/
-date: "2026-07-18T15:00:10.842861Z"
-lastmod: "2026-07-18T15:51:59.491111Z"
+slug: feature_scaling
+date: '2026-07-18T15:00:10.842861Z'
+lastmod: '2026-07-18T15:51:59.491111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo de normalização da faixa de variáveis independentes ou recursos dos dados para garantir uniformidade na magnitude."
+source: agnes_llm
+status: published
+language: pt
+description: O processo de normalização da faixa de variáveis independentes ou recursos
+  dos dados para garantir uniformidade na magnitude.
 ---
-
 ## Definition
 
 O escalonamento de recursos padroniza a faixa das variáveis de entrada para evitar que recursos com magnitudes maiores dominem o processo de aprendizado. Os métodos comuns incluem normalização (escalonamento min-max) e padronização (escalonamento z-score).

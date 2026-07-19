@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /pt/terms/speaker_change_detection/
 date: "2026-07-18T15:23:17.126021Z"
 lastmod: "2026-07-18T15:51:59.534456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de identificar pontos em um fluxo de áudio onde o falante ativo muda."
 ---
-
 ## Definition
 
 A Detecção de Troca de Falante (SCD) é uma técnica usada para marcar os timestamps exatos em que um falante para de falar e outro começa. Ela serve como etapa preliminar na diarização, ajudando a segmentar o áudio com base nas mudanças de voz.

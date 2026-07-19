@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /cs/terms/regularization/
 date: "2026-07-18T16:15:22.585680Z"
 lastmod: "2026-07-18T17:15:09.196468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sada technik používaných během tréninku k prevenci přeučení přidáním penalizací do funkce ztráty nebo omezením složitosti modelu."
 ---
-
 ## Definition
 
 Regularizace je klíčový koncept ve strojovém učení určený ke snížení chyby generalizace bez významného zvýšení chyby tréninku. Funguje tím, že odrazuje modely od učení příliš složitých vzorů.

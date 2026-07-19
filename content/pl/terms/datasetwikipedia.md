@@ -1,23 +1,25 @@
 ---
-title: "Zbiór danych: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Zbiór danych: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /pl/terms/datasetwikipedia/
-date: "2026-07-18T15:50:08.469215Z"
-lastmod: "2026-07-18T17:15:08.864219Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:50:08.469215Z'
+lastmod: '2026-07-18T17:15:08.864219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Ogromna kolekcja tekstów z Wikipedii, służąca jako podstawowy korpus do wstępnego trenowania modeli językowych oraz zadań NLP wymagających dużej ilości wiedzy."
+source: agnes_llm
+status: published
+language: pl
+description: Ogromna kolekcja tekstów z Wikipedii, służąca jako podstawowy korpus
+  do wstępnego trenowania modeli językowych oraz zadań NLP wymagających dużej ilości
+  wiedzy.
 ---
-
 ## Definition
 
 Wikipedia jest jednym z największych i najbardziej kompleksowych zbiorów ludzkiej wiedzy dostępnych w formacie tekstowym. W sztucznej inteligencji służy jako główne źródło do wstępnego trenowania dużych modeli językowych, dostarczając szerokiego kontekstu lingwistycznego i faktograficznego.

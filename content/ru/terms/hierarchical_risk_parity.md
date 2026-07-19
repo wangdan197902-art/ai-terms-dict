@@ -1,23 +1,24 @@
 ---
-title: "Иерархическое паритетное распределение риска"
-term_id: "hierarchical_risk_parity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "optimization", "clustering"]
+title: Иерархическое паритетное распределение риска
+term_id: hierarchical_risk_parity
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Optimization
+- Clustering
 difficulty: 4
 weight: 1
-slug: "hierarchical_risk_parity"
-aliases:
-  - /ru/terms/hierarchical_risk_parity/
-date: "2026-07-18T15:57:16.920320Z"
-lastmod: "2026-07-18T16:38:07.165322Z"
+slug: hierarchical_risk_parity
+date: '2026-07-18T15:57:16.920320Z'
+lastmod: '2026-07-18T16:38:07.165322Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод оптимизации портфеля, использующий кластеризацию для учета корреляции активов и распределения риска по иерархическим кластерам."
+source: agnes_llm
+status: published
+language: ru
+description: Метод оптимизации портфеля, использующий кластеризацию для учета корреляции
+  активов и распределения риска по иерархическим кластерам.
 ---
-
 ## Definition
 
 Иерархическое паритетное распределение риска (HRP) — это метод формирования портфеля, который устраняет ограничения традиционной среднедисперсионной оптимизации за счет учета структуры корреляций. Он использует иерархическую кластеризацию активов на основе матрицы ковариации, что позволяет избежать нестабильности весов, характерной для классических подходов, и обеспечивает более надежное распределение капитала между различными группами активов.

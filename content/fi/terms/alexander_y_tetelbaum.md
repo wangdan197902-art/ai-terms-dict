@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /fi/terms/alexander_y_tetelbaum/
 date: "2026-07-18T15:41:51.338268Z"
 lastmod: "2026-07-18T17:15:09.381493Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Alexander Y. Tetelbaum on tunnettu tutkija ja vaikuttaja tekoälyn ja koneoppimisen alalla."
 ---
-
 ## Definition
 
 Alexander Y. Tetelbaum on yksilö, joka tunnustetaan akateemisissa ja teknisissä yhteisöissä tekemistään panoksista tekoälytutkimukseen, erityisesti algoritmin tehokkuuteen ja neuronaalisiin verkkoihin liittyvillä alueilla.

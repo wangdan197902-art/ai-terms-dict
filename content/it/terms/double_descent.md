@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /it/terms/double_descent/
 date: "2026-07-18T15:57:20.952894Z"
 lastmod: "2026-07-18T17:15:08.620845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un fenomeno in cui l'errore di test diminuisce, aumenta e poi diminuisce nuovamente man mano che la complessità del modello cresce oltre la soglia di interpolazione."
 ---
-
 ## Definition
 
 La doppia discesa sfida il tradizionale compromesso bias-varianza mostrando che modelli altamente sovraparametrizzati possono raggiungere un basso errore di test nonostante interpolino i dati di addestramento. Inizialmente, l'errore aumenta con la complessità, ma dopo una certa soglia (soglia di interpolazione), ricomincia a diminuire.

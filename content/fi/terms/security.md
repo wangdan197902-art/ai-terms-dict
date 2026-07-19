@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /fi/terms/security/
 date: "2026-07-18T15:31:12.051077Z"
 lastmod: "2026-07-18T17:15:09.359397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käytäntö, jolla suojataan tekoälyjärjestelmiä luvattomalta käytöltä, väärinkäytöltä ja haitallisilta hyökkäyksiltä."
 ---
-
 ## Definition
 
 Tekoälyn turvallisuus kattaa toimenpiteet, jotka on suunniteltu suojaamaan koneoppimismalleja, dataputkia ja käyttöönottoinfrastruktuuria uhkilta, kuten vastustavilta hyökkäyksiltä, datan myrkytykseltä ja mallien kalibroinnin häirinnältä.

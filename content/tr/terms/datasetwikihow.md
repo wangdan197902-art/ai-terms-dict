@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /tr/terms/datasetwikihow/
 date: "2026-07-18T15:48:43.523236Z"
 lastmod: "2026-07-18T16:38:07.294912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Özellikle metin özetleme ve talimat oluşturma görevleri için kullanılan, WikiHow'daki nasıl yapılır makalelerinden oluşan büyük ölçekli bir veri seti."
 ---
-
 ## Definition
 
 WikiHow veri seti, WikiHow web sitesinden toplanmış yaklaşık 60.000 adet 'nasıl yapılır' makalesinden oluşur. Doğal dil işleme araştırmalarında, özellikle soyutlama temelli metin özetleme ve adım adım talimat üretimi gibi görevler için yaygın olarak kullanılmaktadır.

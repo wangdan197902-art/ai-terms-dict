@@ -1,23 +1,25 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /ru/terms/bloom/
-date: "2026-07-18T15:44:09.983994Z"
-lastmod: "2026-07-18T16:38:07.128120Z"
+slug: bloom
+date: '2026-07-18T15:44:09.983994Z'
+lastmod: '2026-07-18T16:38:07.128120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "В машинном обучении «Bloom» обычно относится к таксономии Блума, применяемой к образованию в области ИИ, или к конкретным моделям встраивания, таким как модель текстовых эмбеддингов Bloom."
+source: agnes_llm
+status: published
+language: ru
+description: В машинном обучении «Bloom» обычно относится к таксономии Блума, применяемой
+  к образованию в области ИИ, или к конкретным моделям встраивания, таким как модель
+  текстовых эмбеддингов Bloom.
 ---
-
 ## Definition
 
 Хотя исторически термин относится к образовательной таксономии Бенджамина Блума, в современном контексте ИИ он часто обозначает модель текстовых эмбеддингов Bloom, разработанную консорциумом BigScience. Эта модель генерирует высококачественные векторные представления текста для различных задач обработки естественного языка.

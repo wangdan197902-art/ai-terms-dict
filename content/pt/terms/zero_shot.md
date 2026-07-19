@@ -1,23 +1,23 @@
 ---
-title: "zero-shot"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: zero-shot
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /pt/terms/zero_shot/
-date: "2026-07-18T14:42:43.133238Z"
-lastmod: "2026-07-18T15:51:59.446966Z"
+slug: zero_shot
+date: '2026-07-18T14:42:43.133238Z'
+lastmod: '2026-07-18T15:51:59.446966Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A capacidade de realizar tarefas em classes não vistas sem exemplos de treinamento prévios."
+source: agnes_llm
+status: published
+language: pt
+description: A capacidade de realizar tarefas em classes não vistas sem exemplos de
+  treinamento prévios.
 ---
-
 ## Definition
 
 A aprendizagem zero-shot permite que os modelos generalizem para novas categorias ou tarefas para as quais não foram fornecidos dados de treinamento rotulados durante a fase inicial de treinamento. Isso é geralmente alcançado aproveitando

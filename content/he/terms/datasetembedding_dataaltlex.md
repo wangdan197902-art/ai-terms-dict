@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /he/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:51:49.302912Z"
 lastmod: "2026-07-18T17:15:09.527188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים המכילה צורות לקסיקליות חלופיות המשמשות לאימון מודלים לזיהוי שקילות סמנטית וזיהוי פרפראזה."
 ---
-
 ## Definition
 
 מערכת הנתונים Altlex מורכבת מזוגות משפטים המשתפים את אותה משמעות יסודית אך משתמשים באוצר מילים או במבנים תחביריים שונים. היא משמשת בעיקר לאימון מודלי הטמעה (Embeddings).

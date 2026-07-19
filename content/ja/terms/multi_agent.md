@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /ja/terms/multi_agent/
 date: "2026-07-18T10:57:15.383106Z"
 lastmod: "2026-07-18T11:44:45.027137Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "複数の自律型エージェントが環境内で相互作用し、個別または集団の目標を達成するためのシステムアーキテクチャ。"
 ---
-
 ## Definition
 
 マルチエージェントシステムは、環境を認識し、意思決定を行い、それに基づいて行動する複数の独立した知的エンティティで構成されています。これらのエージェントは、互いに協力したり、競争したり、交渉したりすることができます。

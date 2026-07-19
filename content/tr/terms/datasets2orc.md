@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /tr/terms/datasets2orc/
 date: "2026-07-18T15:48:27.399668Z"
 lastmod: "2026-07-18T16:38:07.294154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapılandırılmış meta veriler ve atıf ağları içeren, büyük ölçekli akademik makalelerden oluşan Semantic Scholar Açık Araştırma Korpusu."
 ---
-
 ## Definition
 
 S2ORC, Semantic Scholar'dan türetilen akademik makalelerin kapsamlı bir korpusudur. Çeşitli bilimsel alanlarda milyonlarca makale için tam metin içeriği, meta veriler ve atıf ilişkilerini içerir.

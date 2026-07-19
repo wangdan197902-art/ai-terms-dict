@@ -1,23 +1,23 @@
 ---
-title: "การเพิ่มประสิทธิภาพแบบเบย์เซียน"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: การเพิ่มประสิทธิภาพแบบเบย์เซียน
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /th/terms/bayesian_optimization/
-date: "2026-07-18T15:44:02.178329Z"
-lastmod: "2026-07-18T16:38:07.579054Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:44:02.178329Z'
+lastmod: '2026-07-18T16:38:07.579054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์การออกแบบแบบลำดับสำหรับการเพิ่มประสิทธิภาพทั่วโลกของฟังก์ชันกล่องดำซึ่งมีค่าใช้จ่ายสูงในการประเมิน"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์การออกแบบแบบลำดับสำหรับการเพิ่มประสิทธิภาพทั่วโลกของฟังก์ชันกล่องดำซึ่งมีค่าใช้จ่ายสูงในการประเมิน
 ---
-
 ## Definition
 
 การเพิ่มประสิทธิภาพแบบเบย์เซียนใช้แบบจำลองตัวแทนความน่าจะเป็น ซึ่งมักจะเป็นกระบวนการเกาส์เซียน เพื่อสร้างแบบจำลองฟังก์ชันวัตถุประสงค์ โดยจะใช้ฟังก์ชันการจัดซื้อเพื่อสมดุลระหว่างการสำรวจและการใช้ประโยชน์

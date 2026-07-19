@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /it/terms/bias/
 date: "2026-07-18T15:22:27.224788Z"
 lastmod: "2026-07-18T17:15:08.559344Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Preconcetto sistematico nei modelli di IA che porta a risultati ingiusti contro determinati gruppi o individui."
 ---
-
 ## Definition
 
 Nell'etica dell'IA, il bias si riferisce a discriminazioni sistematiche e ingiuste nel processo decisionale algoritmico, spesso derivanti da dati di addestramento distorti o da un progetto difettoso del modello. Ciò può portare a impatti avversi su

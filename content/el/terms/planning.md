@@ -1,23 +1,24 @@
 ---
-title: "Σχεδιασμός"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Σχεδιασμός
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /el/terms/planning/
-date: "2026-07-18T15:42:14.806356Z"
-lastmod: "2026-07-18T17:15:09.869043Z"
+slug: planning
+date: '2026-07-18T15:42:14.806356Z'
+lastmod: '2026-07-18T17:15:09.869043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η γνωστική διαδικασία δημιουργίας μιας ακολουθίας ενεργειών για την επίτευξη συγκεκριμένων στόχων σε ένα καθορισμένο περιβάλλον."
+source: agnes_llm
+status: published
+language: el
+description: Η γνωστική διαδικασία δημιουργίας μιας ακολουθίας ενεργειών για την επίτευξη
+  συγκεκριμένων στόχων σε ένα καθορισμένο περιβάλλον.
 ---
-
 ## Definition
 
 Ο σχεδιασμός στην Τεχνητή Νοημοσύνη περιλαμβάνει τον προσδιορισμό μιας ακολουθίας ενεργειών που θα οδηγήσουν από μια αρχική κατάσταση σε μια επιθυμητή κατάσταση στόχου. Απαιτεί λογισμό σχετικά με τις επιπτώσεις των ενεργειών και τους περιορισμούς του περιβάλλοντος.

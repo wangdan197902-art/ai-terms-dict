@@ -1,23 +1,23 @@
 ---
-title: "Test"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Test
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /nl/terms/test/
-date: "2026-07-18T15:30:21.436578Z"
-lastmod: "2026-07-18T17:15:08.694747Z"
+slug: test
+date: '2026-07-18T15:30:21.436578Z'
+lastmod: '2026-07-18T17:15:08.694747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Test verwijst naar de evaluatiefase waarin een getraind AI-model wordt beoordeeld op ongeziene data om de prestaties te meten."
+source: agnes_llm
+status: published
+language: nl
+description: Test verwijst naar de evaluatiefase waarin een getraind AI-model wordt
+  beoordeeld op ongeziene data om de prestaties te meten.
 ---
-
 ## Definition
 
 De testset is een deel van de data dat tijdens het trainingsproces buiten beschouwing wordt gelaten om de generalisatiecapaciteit van het uiteindelijke model te evalueren. In tegenstelling tot validatiesets die worden gebruikt voor hyperparameter-tuning, biedt de testset prov

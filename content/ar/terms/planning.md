@@ -1,23 +1,24 @@
 ---
-title: "التخطيط"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: التخطيط
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /ar/terms/planning/
-date: "2026-07-18T15:37:55.552869Z"
-lastmod: "2026-07-18T17:15:08.464353Z"
+slug: planning
+date: '2026-07-18T15:37:55.552869Z'
+lastmod: '2026-07-18T17:15:08.464353Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "العملية المعرفية لتوليد تسلسل من الإجراءات لتحقيق أهداف محددة ضمن بيئة معرّفة."
+source: agnes_llm
+status: published
+language: ar
+description: العملية المعرفية لتوليد تسلسل من الإجراءات لتحقيق أهداف محددة ضمن بيئة
+  معرّفة.
 ---
-
 ## Definition
 
 يتضمن التخطيط في الذكاء الاصطناعي تحديد تسلسل من الإجراءات الذي سيؤدي من حالة ابتدائية إلى حالة هدف مرغوبة. يتطلب ذلك الاستدلال حول آثار الإجراءات وقيود البيئة.

@@ -1,23 +1,25 @@
 ---
-title: "Neuroszámítás"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neuroszámítás
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /hu/terms/neurocomputing/
-date: "2026-07-18T16:15:01.556677Z"
-lastmod: "2026-07-18T17:15:09.817790Z"
+slug: neurocomputing
+date: '2026-07-18T16:15:01.556677Z'
+lastmod: '2026-07-18T17:15:09.817790Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A neuroszámítás egy interdiszciplináris terület, amely a idegtudományt, a számítástudományt és a mérnöki tudományokat ötvözi biológiai neurális rendszerekből merítő számítási modellek fejlesztése érde"
+source: agnes_llm
+status: published
+language: hu
+description: A neuroszámítás egy interdiszciplináris terület, amely a idegtudományt,
+  a számítástudományt és a mérnöki tudományokat ötvözi biológiai neurális rendszerekből
+  merítő számítási modellek fejlesztése érde
 ---
-
 ## Definition
 
 Ez a terület a hardveres és szoftveres architektúrák létrehozására fókuszál, amelyek utánozzák az emberi agy szerkezetét és működését. Magában foglalja a mesterséges neurális hálózatokat, a neuromorf chip-eket és a kognitív...

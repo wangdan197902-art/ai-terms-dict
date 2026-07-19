@@ -1,23 +1,25 @@
 ---
-title: "Ομαλοποίηση Ομάδας"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: Ομαλοποίηση Ομάδας
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /el/terms/batch_normalization/
-date: "2026-07-18T15:52:55.474314Z"
-lastmod: "2026-07-18T17:15:09.884501Z"
+slug: batch_normalization
+date: '2026-07-18T15:52:55.474314Z'
+lastmod: '2026-07-18T17:15:09.884501Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ομαλοποίηση ομάδας είναι μια τεχνική που κανονικοποιεί τις εισόδους ενός στρώματος σε όλη τη μικρή ομάδα για να σταθεροποιήσει και να επιταχύνει την εκπαίδευση του νευρωνικού δικτύου."
+source: agnes_llm
+status: published
+language: el
+description: Η ομαλοποίηση ομάδας είναι μια τεχνική που κανονικοποιεί τις εισόδους
+  ενός στρώματος σε όλη τη μικρή ομάδα για να σταθεροποιήσει και να επιταχύνει την
+  εκπαίδευση του νευρωνικού δικτύου.
 ---
-
 ## Definition
 
 Αυτή η μέθοδος προσαρμόζει και κλιμακώνει τις ενεργοποιήσεις ώστε να έχουν μηδενική μέση τιμή και μοναδιαία διακύμανση εντός κάθε μικρής ομάδας κατά την εκπαίδευση. Μειώνει τη μετατόπιση εσωτερικής συνδιακύμανσης, επιτρέποντας υψηλότερους ρυθμούς μάθησης και ταχύτερη σύγκλιση.

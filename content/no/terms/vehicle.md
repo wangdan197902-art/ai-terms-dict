@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /no/terms/vehicle/
 date: "2026-07-18T15:31:59.387194Z"
 lastmod: "2026-07-18T16:38:06.950191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "I AI-sammenhenger refererer et kjøretøy ofte til plattformen eller mediet gjennom hvilke AI-modeller distribueres eller leveres til sluttbrukere."
 ---
-
 ## Definition
 
 Selv om tradisjonelt betydning transport, kan 'kjøretøy' i AI-terminologi metaforisk beskrive leveringsmekanismen for intelligente tjenester, som mobilapper, webgrensesnitt eller innebygde systemer.

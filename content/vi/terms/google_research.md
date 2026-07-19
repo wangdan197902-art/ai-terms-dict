@@ -1,23 +1,24 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /vi/terms/google_research/
-date: "2026-07-18T15:55:21.318724Z"
-lastmod: "2026-07-18T16:38:07.762174Z"
+slug: google_research
+date: '2026-07-18T15:55:21.318724Z'
+lastmod: '2026-07-18T16:38:07.762174Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Bộ phận nghiên cứu của Google chuyên thúc đẩy trí tuệ nhân tạo, học máy và khoa học máy tính thông qua các nghiên cứu cơ bản và ứng dụng."
+source: agnes_llm
+status: published
+language: vi
+description: Bộ phận nghiên cứu của Google chuyên thúc đẩy trí tuệ nhân tạo, học máy
+  và khoa học máy tính thông qua các nghiên cứu cơ bản và ứng dụng.
 ---
-
 ## Definition
 
 Google Research là cánh tay nghiên cứu học thuật và công nghiệp của Google LLC, tập trung vào việc mở rộng ranh giới công nghệ trong các lĩnh vực như trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên và điện toán lượng tử.

@@ -1,23 +1,24 @@
 ---
-title: "Yapay Zekanın İş Yeri Etkileri"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: Yapay Zekanın İş Yeri Etkileri
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /tr/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T16:21:27.805202Z"
-lastmod: "2026-07-18T16:38:07.378172Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T16:21:27.805202Z'
+lastmod: '2026-07-18T16:38:07.378172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "AI teknolojilerinin profesyonel ortamlardaki istihdam yapıları, iş rolleri, üretkenlik ve insan-makine işbirliği üzerindeki etkisi."
+source: agnes_llm
+status: published
+language: tr
+description: AI teknolojilerinin profesyonel ortamlardaki istihdam yapıları, iş rolleri,
+  üretkenlik ve insan-makine işbirliği üzerindeki etkisi.
 ---
-
 ## Definition
 
 Bu kavram, AI'nın emek piyasası üzerindeki dönüştürücü etkisini kapsar; rutin görevlerin otomasyonu, yeni iş kategorilerinin yaratılması ve gereken beceri setlerindeki değişimler dahil olmak üzere. AI, üretkenliği artırırken aynı zamanda iş gücünün yeniden eğitilmesini ve insan-makine işbirliğinin yeniden tanımlanmasını gerektirir. Etik ve sosyal boyutları da bu alanın önemli bir parçasını oluşturur.

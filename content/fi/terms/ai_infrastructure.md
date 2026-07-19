@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /fi/terms/ai_infrastructure/
 date: "2026-07-18T15:40:10.421974Z"
 lastmod: "2026-07-18T17:15:09.378349Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laitteisto-, ohjelmisto- ja verkkoresurssit, jotka vaaditaan tekoälymallien kehittämiseen, kouluttamiseen ja käyttöönottoon laajassa mittakaavassa."
 ---
-
 ## Definition
 
 Tekoälyn infrastruktuuri kattaa tekoälytoiminnan välttämättömän perusteknologia-arkkitehtuurin. Tähän kuuluvat suorituskykyiset laskentaympäristöt kuten GPU:t ja TPU:t, pilvipohjainen tallennus sekä tehokkaat data-pipelinet, jotka mahdollistavat mallien koulutuksen ja skaalautuvan käytön.

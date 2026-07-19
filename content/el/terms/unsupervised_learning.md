@@ -1,23 +1,24 @@
 ---
-title: "Μάθηση χωρίς Επίβλεψη"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: Μάθηση χωρίς Επίβλεψη
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /el/terms/unsupervised_learning/
-date: "2026-07-18T15:45:19.761559Z"
-lastmod: "2026-07-18T17:15:09.872215Z"
+slug: unsupervised_learning
+date: '2026-07-18T15:45:19.761559Z'
+lastmod: '2026-07-18T17:15:09.872215Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική μηχανικής μάθησης όπου τα μοντέλα μαθαίνουν μοτίβα από μη ετικετοποιημένα δεδομένα χωρίς ρητική καθοδήγηση ή σωστές απαντήσεις."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική μηχανικής μάθησης όπου τα μοντέλα μαθαίνουν μοτίβα από μη
+  ετικετοποιημένα δεδομένα χωρίς ρητική καθοδήγηση ή σωστές απαντήσεις.
 ---
-
 ## Definition
 
 Η μάθηση χωρίς επίβλεψη εντοπίζει κρυφές δομές, συστάδες ή κατανομές μέσα στα ωμά δεδομένα αυτονομά. Κοινές μέθοδοι περιλαμβάνουν την ομαδοποίηση, τη μείωση διαστάσεων και τη γεννητική μοντελοποίηση. Χρησιμοποιείται

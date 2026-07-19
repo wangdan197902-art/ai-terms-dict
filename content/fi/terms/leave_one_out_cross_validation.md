@@ -1,23 +1,25 @@
 ---
-title: "Yhden poissulkemisen ristiinvalidointi"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Yhden poissulkemisen ristiinvalidointi
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /fi/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:06:48.050000Z"
-lastmod: "2026-07-18T17:15:09.428133Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:06:48.050000Z'
+lastmod: '2026-07-18T17:15:09.428133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tiukka otantatekniikka, jossa malli opetetaan kaikilla muuttujilla paitsi yhdellä näytteellä ja testataan tällä yksittäisellä pidetyllä näytteellä, toistaen tämän jokaiselle datapisteele."
+source: agnes_llm
+status: published
+language: fi
+description: Tiukka otantatekniikka, jossa malli opetetaan kaikilla muuttujilla paitsi
+  yhdellä näytteellä ja testataan tällä yksittäisellä pidetyllä näytteellä, toistaen
+  tämän jokaiselle datapisteele.
 ---
-
 ## Definition
 
 Yhden poissulkemisen ristiinvalidointi (LOOCV) on k-otoksen ristiinvalidoinnin erikoistapaus, jossa k on yhtä suuri kuin otosjoukon näytteiden lukumäärä. Se tarjoaa lähes harjattoman arvion mallin suorituskyvystä.

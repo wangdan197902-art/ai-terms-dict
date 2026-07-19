@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /nl/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:54:18.101617Z"
 lastmod: "2026-07-18T17:15:08.742222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De ecologische gevolgen van het ontwikkelen, trainen en implementeren van AI-modellen, waaronder energieverbruik en koolstofemissies."
 ---
-
 ## Definition
 
 Deze term verwijst naar de aanzienlijke resourcevereisten die gepaard gaan met AI-technologieën, met name tijdens de trainingsfase van grote modellen. Het omvat elektriciteitsgebruik voor datacenters, waterverbruik voor koeling en de totale koolstofvoetafdruk van de infrastructuur.

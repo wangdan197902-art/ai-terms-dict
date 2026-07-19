@@ -1,23 +1,25 @@
 ---
-title: "Caracteristică aleatorie"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Caracteristică aleatorie
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /ro/terms/random_feature/
-date: "2026-07-18T16:18:55.885729Z"
-lastmod: "2026-07-18T17:15:09.697550Z"
+slug: random_feature
+date: '2026-07-18T16:18:55.885729Z'
+lastmod: '2026-07-18T17:15:09.697550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică care mapează datele de intrare într-un spațiu cu dimensiuni superioare folosind proiecții aleatorii pentru a aproxima eficient metodele bazate pe kernel."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică care mapează datele de intrare într-un spațiu cu dimensiuni
+  superioare folosind proiecții aleatorii pentru a aproxima eficient metodele bazate
+  pe kernel.
 ---
-
 ## Definition
 
 Hărțile de caracteristici aleatorii transformă intrările într-un spațiu nou, unde modelele liniare pot aproxima funcțiile kernel neliniare. Această abordare, adesea asociată cu metoda Nystrom sau caracteristicile Fourier, permite o scalabilitate computațională îmbunătățită.

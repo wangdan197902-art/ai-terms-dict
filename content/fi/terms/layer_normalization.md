@@ -1,23 +1,24 @@
 ---
-title: "Kerrostason normalisointi"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Kerrostason normalisointi
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /fi/terms/layer_normalization/
-date: "2026-07-18T16:06:12.544287Z"
-lastmod: "2026-07-18T17:15:09.427218Z"
+slug: layer_normalization
+date: '2026-07-18T16:06:12.544287Z'
+lastmod: '2026-07-18T17:15:09.427218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka normalisoi neuroverkon kerroksen aktivoinnit ominaisuusdimensiossa jokaisen yksittäisen näytteen osalta."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka normalisoi neuroverkon kerroksen aktivoinnit ominaisuusdimensiossa
+  jokaisen yksittäisen näytteen osalta.
 ---
-
 ## Definition
 
 Kerrostason normalisointi vakauttaa koulutusta vähentämällä sisäistä kovarianssi-shiftiliikettä, mikä on erityisen tehokasta rekurrenteissa ja transformer-arkkitehtuureissa. Toisin kuin partionormalisointi, se ei riipu partion tilastoista.

@@ -1,23 +1,24 @@
 ---
-title: "Γνώση Κοινής Αίσθησης"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: Γνώση Κοινής Αίσθησης
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /el/terms/commonsense_knowledge/
-date: "2026-07-18T15:55:45.997146Z"
-lastmod: "2026-07-18T17:15:09.890152Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:55:45.997146Z'
+lastmod: '2026-07-18T17:15:09.890152Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Οι υποκείμενες πληροφορίες και η διαίσθηση κατανόησης του φυσικού και κοινωνικού κόσμου που διαθέτουν οι άνθρωποι αλλά συχνά λείπουν από τα μηχανήματα."
+source: agnes_llm
+status: published
+language: el
+description: Οι υποκείμενες πληροφορίες και η διαίσθηση κατανόησης του φυσικού και
+  κοινωνικού κόσμου που διαθέτουν οι άνθρωποι αλλά συχνά λείπουν από τα μηχανήματα.
 ---
-
 ## Definition
 
 Η γνώση κοινής αίσθησης αναφέρεται στην τεράστια ποσότητα ρητής πληροφορίας σχετικά με την καθημερινή ζωή, τη φυσική, τους κοινωνικούς κανόνες και τις σχέσεις αιτίου-αποτελέσματος που αποκτούν οι άνθρωποι φυσικά. Στην ΤΝ, η απόκτηση αυτής της γνώσης παραμένει μια σημαντική πρόκληση για την επίτευξη ανθρωπόμορφης κατανόησης.

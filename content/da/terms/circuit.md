@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /da/terms/circuit/
 date: "2026-07-18T15:45:27.845917Z"
 lastmod: "2026-07-18T17:15:09.267949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et kredsløb henviser til den fysiske hardwareinfrastruktur, herunder chips og forbindelseslinjer, der udfører beregningsopgaver."
 ---
-
 ## Definition
 
 I AI-sammenhæng betegner et kredsløb typisk den underliggende hardwarearkitektur, såsom GPU'er, TPU'er eller neuromorfe chips, der er designet til at accelerere matrixoperationer og parallell behandling. Disse

@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /vi/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:05:00.743935Z"
 lastmod: "2026-07-18T16:38:07.786682Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một sáng kiến sử trí tuệ nhân tạo và dữ liệu vệ tinh để giám sát và dự đoán các mô hình chất lượng không khí toàn cầu."
 ---
-
 ## Definition
 
 Dự án này tận dụng dữ liệu quan sát Trái đất của NASA kết hợp với các thuật toán AI tiên tiến để theo dõi các hạt vật chất và chất gây ô nhiễm khí trên toàn cầu. Bằng cách tích hợp hình ảnh vệ tinh với dữ liệu mặt đ...

@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /ko/terms/self_management/
 date: "2026-07-18T16:14:49.554409Z"
 lastmod: "2026-07-18T16:38:06.906466Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "자가 관리는 인공지능 시스템이 인간의 개입 없이 자체 운영 상태를 모니터링하고, 최적화하며, 수리할 수 있는 능력을 의미합니다."
 ---
-
 ## Definition
 
 이 개념은 AI 에이전트나 시스템이 일반적인 유지 보수, 자원 할당, 오류 수정 등을 독립적으로 처리할 수 있는 능력을 포괄합니다. 여기에는 자동 확장(auto-scaling), 자가 치유(self-healing) 기능 등이 포함되며, 시스템의 안정성과 효율성을 자동으로 유지하는 데 중점을 둡니다.

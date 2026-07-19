@@ -1,23 +1,23 @@
 ---
-title: "ニューロロボティクス"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: ニューロロボティクス
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /ja/terms/neurorobotics/
-date: "2026-07-18T11:25:45.742249Z"
-lastmod: "2026-07-18T11:44:45.127000Z"
+slug: neurorobotics
+date: '2026-07-18T11:25:45.742249Z'
+lastmod: '2026-07-18T11:44:45.127000Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ニューロロボティクスは、生物学的な神経系が自律型ロボットの設計にどのように活用できるか、またロボットが脳機能の理解のためのモデルとしてどのように機能し得るかを研究する分野です。"
+source: agnes_llm
+status: published
+language: ja
+description: ニューロロボティクスは、生物学的な神経系が自律型ロボットの設計にどのように活用できるか、またロボットが脳機能の理解のためのモデルとしてどのように機能し得るかを研究する分野です。
 ---
-
 ## Definition
 
 この分野は、神経ネットワークモデルをロボットの制御システムに実装することで、神経科学とロボティクスの架け橋となります。これにより、研究者は運動制御、感覚処理、および認知プロセスに関する仮説を検証することができます。

@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /hu/terms/ai_warfare/
 date: "2026-07-18T15:41:21.509691Z"
 lastmod: "2026-07-18T17:15:09.749707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A mesterséges intelligencia technológiák katonai műveletekre, megfigyelésre és autonóm fegyverrendszerekre történő alkalmazása."
 ---
-
 ## Definition
 
 Az AI hadviselés a mesterséges intelligencia katonai stratégiákba való integrálását jelenti, beleértve az autonóm drónokat, a prediktív logisztikát, a kibervédelmet és a parancsnokok döntéstámogató rendszereit.

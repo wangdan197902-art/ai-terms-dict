@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /he/terms/artificial_wisdom/
 date: "2026-07-18T15:43:02.987437Z"
 lastmod: "2026-07-18T17:15:09.514296Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הרחבת הבינה המלאכותית מעבר לרמת האינטליגנציה, כדי לכלול שיפוט, אתיקה והבמה הקשרית לקבלת החלטות מושכלות."
 ---
-
 ## Definition
 
 חוכמה מלאכותית (AW) היא מושג מתפתח השואף להעשיר את הבינה המלאכותית בערכים דמויי-אדם, שיקולים אתיים ושיפוט אסטרטגי לטווח ארוך. בעוד שבינה מלאכותית מתמקדת ביעילות

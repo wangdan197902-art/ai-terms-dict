@@ -1,23 +1,24 @@
 ---
-title: "Mistral"
-term_id: "mistral"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "open-source", "LLM"]
+title: Mistral
+term_id: mistral
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Open Source
+- LLM
 difficulty: 3
 weight: 1
-slug: "mistral"
-aliases:
-  - /ru/terms/mistral/
-date: "2026-07-18T16:04:48.388684Z"
-lastmod: "2026-07-18T16:38:07.180755Z"
+slug: mistral
+date: '2026-07-18T16:04:48.388684Z'
+lastmod: '2026-07-18T16:38:07.180755Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Серия эффективных больших языковых моделей с открытыми весами, разработанных Mistral AI, известных высокой производительностью при низких вычислительных затратах."
+source: agnes_llm
+status: published
+language: ru
+description: Серия эффективных больших языковых моделей с открытыми весами, разработанных
+  Mistral AI, известных высокой производительностью при низких вычислительных затратах.
 ---
-
 ## Definition
 
 Mistral — это семейство мощных больших языковых моделей (LLM) с открытыми весами, созданное французским стартапом Mistral AI. Такие модели, как Mistral 7B и Mistral Large, используют передовые техники, такие как скользящее окно внимания (Sliding Window Attention)...

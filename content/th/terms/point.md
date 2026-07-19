@@ -1,23 +1,23 @@
 ---
-title: "จุด (Point)"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: จุด (Point)
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /th/terms/point/
-date: "2026-07-18T15:27:51.573786Z"
-lastmod: "2026-07-18T16:38:07.544956Z"
+slug: point
+date: '2026-07-18T15:27:51.573786Z'
+lastmod: '2026-07-18T16:38:07.544956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ในคณิตศาสตร์ของปัญญาประดิษฐ์ จุดแทนตำแหน่งเฉพาะในพื้นที่เวกเตอร์หลายมิติ มักใช้ในการฝังตัว (embeddings) หรือระบบพิกัด"
+source: agnes_llm
+status: published
+language: th
+description: ในคณิตศาสตร์ของปัญญาประดิษฐ์ จุดแทนตำแหน่งเฉพาะในพื้นที่เวกเตอร์หลายมิติ
+  มักใช้ในการฝังตัว (embeddings) หรือระบบพิกัด
 ---
-
 ## Definition
 
 ในบริบทของปัญญาประดิษฐ์ จุดมักหมายถึงพิกัดที่แยกจากกันภายในพื้นที่คุณลักษณะหรือเวกเตอร์ฝังตัว ตัวอย่างเช่น ในอัลกอริทึมการจัดกลุ่มเช่น K-Means ข้อมูลแต่ละตัวอย่างจะถูกปฏิบัติเป็นจุดหนึ่งในพื้นที่หลายมิติ

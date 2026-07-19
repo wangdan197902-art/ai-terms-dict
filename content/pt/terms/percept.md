@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /pt/terms/percept/
 date: "2026-07-18T15:16:20.932420Z"
 lastmod: "2026-07-18T15:51:59.521807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A representação mental ou resultado interpretado da entrada sensorial processada por um perceptor."
 ---
-
 ## Definition
 
 Uma percepção é a representação interna de um estímulo externo após ter sido processada por um sistema perceptor. Na IA, isso corresponde à saída de dados estruturados provenientes do processamento de sinais de baixo nível, transformando ruído ou sinais brutos em entidades reconhecíveis.

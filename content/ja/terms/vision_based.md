@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /ja/terms/vision_based/
 date: "2026-07-18T10:57:56.792608Z"
 lastmod: "2026-07-18T11:44:45.029679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "主に視覚データ入力を頼りに、世界を知覚し対話するシステム。"
 ---
-
 ## Definition
 
 ビジョンベースのパラダイムは、カメラと画像処理アルゴリズムを利用して、視覚的なシーンから意味のある情報を抽出します。これらのシステムは、ロボット工学、自動運転、拡張現実の基盤技術として

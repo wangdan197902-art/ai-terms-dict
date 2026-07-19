@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /vi/terms/knowledge_distillation/
 date: "2026-07-18T15:58:59.615781Z"
 lastmod: "2026-07-18T16:38:07.772653Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Knowledge Distillation (Chưng cất tri thức) là một kỹ thuật nén mô hình, trong đó một mô hình nhỏ hơn (sinh viên) học cách bắt chước hành vi của một mô hình lớn hơn (giáo viên)."
 ---
-
 ## Definition
 
 Knowledge Distillation là một phương pháp học máy dùng để nén một mạng nơ-ron lớn, phức tạp (mô hình giáo viên) thành một mạng nhỏ gọn, hiệu quả hơn (mô hình sinh viên). Mô hình sinh viên được huấn luyện để

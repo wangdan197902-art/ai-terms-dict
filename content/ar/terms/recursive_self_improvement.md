@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /ar/terms/recursive_self_improvement/
 date: "2026-07-18T16:19:09.231109Z"
 lastmod: "2026-07-18T17:15:08.543550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية يقوم فيها نظام الذكاء الاصطناعي بتحسين ذكائه أو قدراته بشكل تكراري من خلال التعديل الذاتي."
 ---
-
 ## Definition
 
 يشير التحسين الذاتي المتكرر إلى القدرة النظرية لنظام الذكاء الاصطناعي على إعادة كتابة شفرة المصدر الخاصة به أو هيكله ليصبح أكثر ذكاءً، وكفاءة، وقدرة.

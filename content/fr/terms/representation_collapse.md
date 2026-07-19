@@ -1,23 +1,25 @@
 ---
-title: "Effondrement de la représentation"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Effondrement de la représentation
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /fr/terms/representation_collapse/
-date: "2026-07-18T11:36:23.002310Z"
-lastmod: "2026-07-18T11:44:45.323005Z"
+slug: representation_collapse
+date: '2026-07-18T11:36:23.002310Z'
+lastmod: '2026-07-18T11:44:45.323005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un mode d'échec dans l'apprentissage auto-supervisé où le modèle produit des représentations identiques pour toutes les entrées, perdant ainsi son pouvoir discriminatif."
+source: agnes_llm
+status: published
+language: fr
+description: Un mode d'échec dans l'apprentissage auto-supervisé où le modèle produit
+  des représentations identiques pour toutes les entrées, perdant ainsi son pouvoir
+  discriminatif.
 ---
-
 ## Definition
 
 L'effondrement de la représentation se produit lorsqu'un réseau de neurones, en particulier dans les cadres d'apprentissage contrastif auto-supervisé, apprend à mapper tous les points de données d'entrée vers le même vecteur de sortie fixe. Cette solution triviale réduit l'utilité du modèle pour les tâches de downstream.

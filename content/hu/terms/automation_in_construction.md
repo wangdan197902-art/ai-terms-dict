@@ -1,23 +1,24 @@
 ---
-title: "Automatizálás az építőiparban"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Automatizálás az építőiparban
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /hu/terms/automation_in_construction/
-date: "2026-07-18T15:46:39.134008Z"
-lastmod: "2026-07-18T17:15:09.757771Z"
+slug: automation_in_construction
+date: '2026-07-18T15:46:39.134008Z'
+lastmod: '2026-07-18T17:15:09.757771Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Robotika és MI alkalmazása az építési folyamatok egyszerűsítésére és a munkaterületi biztonság javítására."
+source: agnes_llm
+status: published
+language: hu
+description: Robotika és MI alkalmazása az építési folyamatok egyszerűsítésére és
+  a munkaterületi biztonság javítására.
 ---
-
 ## Definition
 
 Az építőipari automatizálás a robotrendszerek, drónok és MI-alapú projektmenedzsment eszközök integrációját jelenti az építési életciklus során. Ezek a technológiák segítenek olyan feladatok elvégzésében, amelyek a téglarakástól kezdve...

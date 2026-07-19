@@ -1,23 +1,24 @@
 ---
-title: "Астроинформатика (статистический анализ астрономических данных)"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Астроинформатика (статистический анализ астрономических данных)
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /ru/terms/astrostatistics/
-date: "2026-07-18T15:41:44.703110Z"
-lastmod: "2026-07-18T16:38:07.122787Z"
+slug: astrostatistics
+date: '2026-07-18T15:41:44.703110Z'
+lastmod: '2026-07-18T16:38:07.122787Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Применение статистических методов для анализа астрономических данных и решения задач астрофизики."
+source: agnes_llm
+status: published
+language: ru
+description: Применение статистических методов для анализа астрономических данных
+  и решения задач астрофизики.
 ---
-
 ## Definition
 
 Астроинформатика — это специализированная область, соединяющая статистику и астрономию. Она включает разработку и применение строгих статистических техник для обработки уникальных вызовов, связанных с астрономическими данными,

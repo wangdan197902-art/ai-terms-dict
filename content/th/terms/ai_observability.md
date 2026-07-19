@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /th/terms/ai_observability/
 date: "2026-07-18T15:38:47.118145Z"
 lastmod: "2026-07-18T16:38:07.568976Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "แนวปฏิบัติในการตรวจสอบและทำความเข้าใจสถานะภายในของระบบแมชชีนเลิร์นนิงผ่านบันทึก (Logs) ตัวชี้วัด (Metrics) และร่องรอย (Traces)"
 ---
-
 ## Definition
 
 ความสามารถในการสังเกตการณ์เอไอ ขยายขอบเขตจากการตรวจสอบซอฟต์แวร์แบบดั้งเดิม เพื่อแก้ไขความท้าทายเฉพาะของระบบแมชชีนเลิร์นนิง เกี่ยวข้องกับการติดตามประสิทธิภาพของโมเดล การเปลี่ยนแปลงของข้อมูล (Data drift) และความล่าช้าในการอนุมาน (Inference latency) แบบเรียลไทม์

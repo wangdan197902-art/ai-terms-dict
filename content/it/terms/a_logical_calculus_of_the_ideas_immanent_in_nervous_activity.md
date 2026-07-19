@@ -1,23 +1,25 @@
 ---
-title: "Un Calcolo Logico delle Idee Immanenti nell'Attività Nervosa"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: Un Calcolo Logico delle Idee Immanenti nell'Attività Nervosa
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /it/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:41:23.994964Z"
-lastmod: "2026-07-18T17:15:08.591971Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:41:23.994964Z'
+lastmod: '2026-07-18T17:15:08.591971Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un articolo seminale del 1943 di McCulloch e Pitts che ha formalizzato come i neuroni possano eseguire operazioni logiche, gettando le basi per le reti neurali artificiali."
+source: agnes_llm
+status: published
+language: it
+description: Un articolo seminale del 1943 di McCulloch e Pitts che ha formalizzato
+  come i neuroni possano eseguire operazioni logiche, gettando le basi per le reti
+  neurali artificiali.
 ---
-
 ## Definition
 
 Questo articolo fondazionale proponeva un modello matematico delle reti neurali, dimostrando che semplici neuroni artificiali potevano implementare porte logiche booleane. Mostrando che una rete di queste unità poteva

@@ -1,23 +1,24 @@
 ---
-title: "Гибридная интеллектуальная система"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: Гибридная интеллектуальная система
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /ru/terms/hybrid_intelligent_system/
-date: "2026-07-18T15:57:46.851823Z"
-lastmod: "2026-07-18T16:38:07.166673Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T15:57:46.851823Z'
+lastmod: '2026-07-18T16:38:07.166673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Архитектура ИИ, объединяющая несколько методов вычислительного интеллекта, таких как нейронные сети и символическая логика, для решения сложных задач."
+source: agnes_llm
+status: published
+language: ru
+description: Архитектура ИИ, объединяющая несколько методов вычислительного интеллекта,
+  таких как нейронные сети и символическая логика, для решения сложных задач.
 ---
-
 ## Definition
 
 Гибридная интеллектуальная система (HIS) объединяет различные парадигмы ИИ, обычно сочетая коннекционистские подходы, такие как нейронные сети, с символическими методами, такими как экспертные системы или нечеткая логика. Это интегрированное решение позволяет использовать сильные стороны каждого подхода.

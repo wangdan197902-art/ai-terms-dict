@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /cs/terms/brain_technology/
 date: "2026-07-18T15:45:41.599812Z"
 lastmod: "2026-07-18T17:15:09.108093Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Technologie určené k interakci s lidským mozkem, jeho monitorování nebo modulaci, včetně rozhraní mozek-počítač a nástrojů pro neurozobrazování."
 ---
-
 ## Definition
 
 Mozková technologie zahrnuje hardwarové a softwarové systémy, které interagují přímo se středním nervovým systémem. Mezi klíčové příklady patří rozhraní mozek-počítač (BCI), která překládají neuronální signály...

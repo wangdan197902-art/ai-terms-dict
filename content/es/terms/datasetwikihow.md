@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /es/terms/datasetwikihow/
 date: "2026-07-18T10:42:57.092778Z"
 lastmod: "2026-07-18T11:44:44.795886Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un conjunto de datos a gran escala compuesto por artículos de cómo hacer cosas de WikiHow, utilizado principalmente para tareas de resumen de texto y generación de instrucciones."
 ---
-
 ## Definition
 
 El conjunto de datos WikiHow consta de aproximadamente 60.000 artículos de instrucciones recopilados del sitio web WikiHow. Es ampliamente utilizado en la investigación de procesamiento del lenguaje natural para tareas como el resumen

@@ -1,23 +1,24 @@
 ---
-title: "Hyperparameterfinjustering"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Hyperparameterfinjustering
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /no/terms/hyperparameter_tuning/
-date: "2026-07-18T15:59:27.795890Z"
-lastmod: "2026-07-18T16:38:07.010552Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T15:59:27.795890Z'
+lastmod: '2026-07-18T16:38:07.010552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med systematisk å søke etter den beste kombinasjonen av hyperparametere for å optimalisere modellens ytelse."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med systematisk å søke etter den beste kombinasjonen av hyperparametere
+  for å optimalisere modellens ytelse.
 ---
-
 ## Definition
 
 Hyperparameterfinjustering involverer evaluering av ulike sett med hyperparametere for å finne den konfigurasjonen som gir best modellnøyaktighet eller lavest feilrate. Vanlige strategier inkluderer rutenettsøk, w

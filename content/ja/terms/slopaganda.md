@@ -1,23 +1,24 @@
 ---
-title: "スロパガンダ"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: スロパガンダ
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /ja/terms/slopaganda/
-date: "2026-07-18T11:32:12.951444Z"
-lastmod: "2026-07-18T11:44:45.144610Z"
+slug: slopaganda
+date: '2026-07-18T11:32:12.951444Z'
+lastmod: '2026-07-18T11:44:45.144610Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "「遅い」と「プロパガンダ」の合成語であり、長期にわたる微妙な影響力を通じて信頼を損なうよう設計された虚偽情報キャンペーンを指す。"
+source: agnes_llm
+status: published
+language: ja
+description: 「遅い」と「プロパガンダ」の合成語であり、長期にわたる微妙な影響力を通じて信頼を損なうよう設計された虚偽情報キャンペーンを指す。
 ---
-
 ## Definition
 
 スロパガンダは、ウイルス性の衝撃戦術ではなく、反復、曖昧さ、長期間の露出に依存する戦略的な虚偽情報の形態を記述します。これは、聴衆を混乱させ、真実を希釈し、信頼を...

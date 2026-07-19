@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /vi/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:49:43.471002Z"
-lastmod: "2026-07-18T16:38:07.750018Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:49:43.471002Z'
+lastmod: '2026-07-18T16:38:07.750018Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một pipeline triển khai kiến trúc Stable Diffusion 3, bao gồm MMDiT và Flow Matching để cải thiện chất lượng ảnh và khả năng hiển thị chữ."
+source: agnes_llm
+status: published
+language: vi
+description: Một pipeline triển khai kiến trúc Stable Diffusion 3, bao gồm MMDiT và
+  Flow Matching để cải thiện chất lượng ảnh và khả năng hiển thị chữ.
 ---
-
 ## Definition
 
 Pipeline này sử dụng mô hình Stable Diffusion 3, giới thiệu kiến trúc Bộ chuyển đổi khuếch tán đa phương thức (MMDiT) và mục tiêu huấn luyện Flow Matching. Những tiến bộ này đáng kể nâng cao

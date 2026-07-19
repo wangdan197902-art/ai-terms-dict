@@ -1,23 +1,25 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /ru/terms/eagle/
-date: "2026-07-18T15:51:13.040436Z"
-lastmod: "2026-07-18T16:38:07.151882Z"
+slug: eagle
+date: '2026-07-18T15:51:13.040436Z'
+lastmod: '2026-07-18T16:38:07.151882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Eagle — это высокопроизводительная открытая фреймворк для больших языковых моделей (LLM), разработанный ByteDance, предназначенный для эффективного предварительного обучения и тонкой настройки LLM."
+source: agnes_llm
+status: published
+language: ru
+description: Eagle — это высокопроизводительная открытая фреймворк для больших языковых
+  моделей (LLM), разработанный ByteDance, предназначенный для эффективного предварительного
+  обучения и тонкой настройки LLM.
 ---
-
 ## Definition
 
 Eagle представляет собой конкретную архитектурную и инженерную рамку в области больших языковых моделей, связанную преимущественно с оптимизацией эффективности обучения и масштабируемости. Он фокусируется

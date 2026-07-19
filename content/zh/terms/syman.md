@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /zh/terms/syman/
 date: "2026-07-18T11:35:31.276954Z"
 lastmod: "2026-07-18T11:44:45.560499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI文献中的非标准或模糊术语；可能是“System”的拼写错误，或者是通用AI术语中未被广泛认可的具体小众缩写。"
 ---
-
 ## Definition
 
 主流人工智能术语中没有被广泛接受的“Syman”标准定义。它可能指代特定的专有工具，或是“System”（如系统提示词）的拼写错误。

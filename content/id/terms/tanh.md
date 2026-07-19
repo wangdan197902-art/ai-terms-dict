@@ -1,23 +1,23 @@
 ---
-title: "Tanh"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Tanh
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /id/terms/tanh/
-date: "2026-07-18T16:10:27.791361Z"
-lastmod: "2026-07-18T16:38:07.512927Z"
+slug: tanh
+date: '2026-07-18T16:10:27.791361Z'
+lastmod: '2026-07-18T16:38:07.512927Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Tanh, atau tangen hiperbolik, adalah fungsi aktivasi yang memetakan nilai input ke rentang antara -1 dan 1."
+source: agnes_llm
+status: published
+language: id
+description: Tanh, atau tangen hiperbolik, adalah fungsi aktivasi yang memetakan nilai
+  input ke rentang antara -1 dan 1.
 ---
-
 ## Definition
 
 Fungsi tangen hiperbolik (Tanh) adalah fungsi aktivasi non-linier yang umum digunakan dalam jaringan saraf. Fungsi ini menekan nilai input ke dalam interval (-1, 1), menyediakan output yang berpusat pada nol yang m

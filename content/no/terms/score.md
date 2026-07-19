@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /no/terms/score/
 date: "2026-07-18T15:29:52.449054Z"
 lastmod: "2026-07-18T16:38:06.946123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En poengsum er en numerisk verdi som representerer kvaliteten, tilliten eller egnetheten til en modells prediksjon eller løsning."
 ---
-
 ## Definition
 
 Poengsummer kvantifiserer hvor godt en maskinlæringsmodell presterer mot spesifikke metrikker som nøyaktighet, presisjon eller belønning. I forsterkningslæring indikerer poengsummer kumulative belønninger, mens i klassifisering

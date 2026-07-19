@@ -1,23 +1,25 @@
 ---
-title: "Токен-максинг"
-term_id: "token_maxxing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["prompt_engineering", "optimization", "llm"]
+title: Токен-максинг
+term_id: token_maxxing
+category: basic_concepts
+subcategory: ''
+tags:
+- Prompt Engineering
+- Optimization
+- LLM
 difficulty: 3
 weight: 1
-slug: "token_maxxing"
-aliases:
-  - /ru/terms/token_maxxing/
-date: "2026-07-18T16:19:01.448746Z"
-lastmod: "2026-07-18T16:38:07.210599Z"
+slug: token_maxxing
+date: '2026-07-18T16:19:01.448746Z'
+lastmod: '2026-07-18T16:38:07.210599Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия оптимизации в инженерии промптов, направленная на максимизацию полезности или качества вывода при использовании определенного количества токенов в больших языковых моделях."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия оптимизации в инженерии промптов, направленная на максимизацию
+  полезности или качества вывода при использовании определенного количества токенов
+  в больших языковых моделях.
 ---
-
 ## Definition
 
 Токен-максинг включает тщательную разработку входных данных для использования полного контекстного окна модели или оптимизации семантической плотности токенов для повышения производительности. Практики могут добавлять заполнители или перефразировать запросы, чтобы достичь оптимальной эффективности без потери качества ответа.

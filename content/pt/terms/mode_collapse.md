@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /pt/terms/mode_collapse/
 date: "2026-07-18T15:13:14.615750Z"
 lastmod: "2026-07-18T15:51:59.513556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O colapso de modo é uma falha em Redes Generativas Adversariais (GANs) onde o gerador produz variedades limitadas de saídas."
 ---
-
 ## Definition
 
 Em GANs, o colapso de modo ocorre quando o gerador aprende a explorar fraquezas no discriminador, produzindo uma faixa estreita de amostras plausíveis e ignorando outros modos da distribuição de dados. Isso resulta na falta de diversidade nas gerações.

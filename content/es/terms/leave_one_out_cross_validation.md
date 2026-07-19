@@ -1,23 +1,25 @@
 ---
-title: "Validación cruzada de un solo elemento"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Validación cruzada de un solo elemento
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /es/terms/leave_one_out_cross_validation/
-date: "2026-07-18T10:57:37.952519Z"
-lastmod: "2026-07-18T11:44:44.825546Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T10:57:37.952519Z'
+lastmod: '2026-07-18T11:44:44.825546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica rigurosa de remuestreo en la que el modelo se entrena con todos los datos excepto uno y se prueba con esa única muestra retenida, repitiendo el proceso para cada punto de datos."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica rigurosa de remuestreo en la que el modelo se entrena con
+  todos los datos excepto uno y se prueba con esa única muestra retenida, repitiendo
+  el proceso para cada punto de datos.
 ---
-
 ## Definition
 
 La validación cruzada de un solo elemento (LOOCV, por sus siglas en inglés) es un caso específico de la validación cruzada k-fold donde k es igual al número de muestras en el conjunto de datos. Proporciona una estimación casi insesgada del rendimiento del modelo, siendo particularmente útil cuando los datos son limitados, aunque implica un alto costo computacional debido a la necesidad de entrenar el modelo tantas veces como puntos de datos existan.

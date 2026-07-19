@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /ja/terms/dynamic_epistemic_logic/
 date: "2026-07-18T11:12:52.607866Z"
 lastmod: "2026-07-18T11:44:45.093061Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "情報更新やイベントによって生じるエージェントの知識状態の変化について推論するための形式的枠組み。"
 ---
-
 ## Definition
 
 動的情報論理（DEL）は、エージェントが新しい情報を受信したときに知識がどのように進化するかをモデル化するために、様相論理を拡張したものです。公開通信などにより信念が変化するマルチエージェントシステムの分析に有用なツールを提供します。

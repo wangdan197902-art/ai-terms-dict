@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /ro/terms/gpt_bigcode/
 date: "2026-07-18T16:00:34.401220Z"
 lastmod: "2026-07-18T17:15:09.661564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O familie de modele mari de limbaj antrenate specific pentru generarea și înțelegerea codului, dezvoltate de proiectul BigCode."
 ---
-
 ## Definition
 
 GPT Bigcode, adesea asociat cu modele precum StarCoder, reprezintă un avans semnificativ în asistența AI pentru programare. Aceste modele sunt pre-antrenate pe depozite vaste de cod public pentru a înțelege și genera limbaje de programare complexe.

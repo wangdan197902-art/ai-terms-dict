@@ -1,23 +1,24 @@
 ---
-title: "Mixed Precision Training"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Mixed Precision Training
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /da/terms/mixed_precision_training/
-date: "2026-07-18T16:07:51.217421Z"
-lastmod: "2026-07-18T17:15:09.311999Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:07:51.217421Z'
+lastmod: '2026-07-18T17:15:09.311999Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En træningsteknik, der bruger både 16-bit og 32-bit flydende komma-tal til at accelerere beregningen og reducere hukommelsesforbruget."
+source: agnes_llm
+status: published
+language: da
+description: En træningsteknik, der bruger både 16-bit og 32-bit flydende komma-tal
+  til at accelerere beregningen og reducere hukommelsesforbruget.
 ---
-
 ## Definition
 
 Mixed Precision Training (MPT) kombinerer halvpræcision (FP16) og fuld præcision (FP32) datatyper under træning af neurale netværk. Ved at bruge FP16 til de fleste operationer reducerer MPT hukommelsesaftrykket og i

@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /pt/terms/compute/
 date: "2026-07-18T14:53:51.706493Z"
 lastmod: "2026-07-18T15:51:59.473186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Poder de processamento refere-se à capacidade de processamento e aos recursos utilizados para executar algoritmos e lidar com dados em sistemas de IA."
 ---
-
 ## Definition
 
 Na inteligência artificial, o poder de processamento representa a infraestrutura fundamental necessária para treinar modelos e realizar inferências. Abrange componentes de hardware como CPUs, GPUs e TPUs, bem como a

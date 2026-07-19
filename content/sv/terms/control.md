@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /sv/terms/control/
 date: "2026-07-18T15:24:07.950747Z"
 lastmod: "2026-07-18T17:15:08.939190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att hantera, styra eller reglera ett systems beteende och tillstånd för att uppnå önskade resultat."
 ---
-
 ## Definition
 
 Inom artificiell intelligens avser kontroll de mekanismer och algoritmer som används för att styra ett systems handlingar baserat på nuvarande tillstånd och mål. Det involverar återkopplingsloopar där utdata övervakas och justeras kontinuerligt.

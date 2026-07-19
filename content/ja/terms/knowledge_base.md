@@ -1,23 +1,23 @@
 ---
-title: "ナレッジベース"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: ナレッジベース
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /ja/terms/knowledge_base/
-date: "2026-07-18T10:59:28.529673Z"
-lastmod: "2026-07-18T11:44:45.048877Z"
+slug: knowledge_base
+date: '2026-07-18T10:59:28.529673Z'
+lastmod: '2026-07-18T11:44:45.048877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "意思決定やAIアプリケーションにおける検索拡張生成（RAG）をサポートするための、構造化された情報の集中管理リポジトリ。"
+source: agnes_llm
+status: published
+language: ja
+description: 意思決定やAIアプリケーションにおける検索拡張生成（RAG）をサポートするための、構造化された情報の集中管理リポジトリ。
 ---
-
 ## Definition
 
 ナレッジベースは、正確で文脈に応じた回答を提供するためにAIシステムが照会できる、キュレーションされたデータ、ドキュメント、または事実を含むデジタルライブラリとして機能します。Retrieval-Augmented Generationなどの現代的なアーキテクチャにおいて、ナレッジベースは外部知識源として重要な役割を果たします。

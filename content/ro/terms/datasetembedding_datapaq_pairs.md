@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /ro/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:52:13.995456Z"
 lastmod: "2026-07-18T17:15:09.643391Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date la scară largă de perechi întrebare-răspuns derivate din Wikipedia, conceput pentru antrenarea recuperării pasaje dense."
 ---
-
 ## Definition
 
 Setul de date PAQ (Pseudo-Answer Quality) conține milioane de perechi întrebare-răspuns generate automat, extrase din Wikipedia. Este inginerizat specific pentru antrenarea recuperatoarelor dense prin furnizarea...

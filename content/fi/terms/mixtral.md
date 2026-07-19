@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /fi/terms/mixtral/
 date: "2026-07-18T16:11:03.148391Z"
 lastmod: "2026-07-18T17:15:09.434883Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mistral AI:n kehittämä harvinainen asiantuntijoiden sekoitus (MoE) -suurkielimalli, joka aktivoi vain osan parametreista jokaisen tokenin kohdalla."
 ---
-
 ## Definition
 
 Mixtral on edistyksellinen avoin suurkielimalli, joka käyttää harvinaisen asiantuntijoiden sekoituksen (Sparse MoE) -arkkitehtuuria. Toisin kuin tiheissä malleissa, joissa kaikki parametrit otetaan huomioon jokaiselle tokenille, Mixtral ohjaa jokaisen tokenin läpi

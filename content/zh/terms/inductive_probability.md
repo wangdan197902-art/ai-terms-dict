@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /zh/terms/inductive_probability/
 date: "2026-07-18T11:22:14.014042Z"
 lastmod: "2026-07-18T11:44:45.517427Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "衡量证据支持假设程度的指标，区别于演绎确定性。"
 ---
-
 ## Definition
 
 归纳概率量化了在观察到的证据下假设为真的可能性，承认结论是概率性的而非确定性的。它是贝叶斯推断的基础，在贝叶斯推断中...

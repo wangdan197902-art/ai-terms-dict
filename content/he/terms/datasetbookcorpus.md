@@ -1,23 +1,24 @@
 ---
-title: "דאטהסט: Bookcorpus"
-term_id: "datasetbookcorpus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "nlp", "text_data"]
+title: 'דאטהסט: Bookcorpus'
+term_id: datasetbookcorpus
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- NLP
+- Text Data
 difficulty: 2
 weight: 1
-slug: "datasetbookcorpus"
-aliases:
-  - /he/terms/datasetbookcorpus/
-date: "2026-07-18T15:51:34.165926Z"
-lastmod: "2026-07-18T17:15:09.526765Z"
+slug: datasetbookcorpus
+date: '2026-07-18T15:51:34.165926Z'
+lastmod: '2026-07-18T17:15:09.526765Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "דאטהסט בקנה מידה גדול המכיל מעל 10,000 ספרים שלא פורסמו, המשמש באופן נרחב לאימון מקדים של מודלי עיבוד שפה טבעית."
+source: agnes_llm
+status: published
+language: he
+description: דאטהסט בקנה מידה גדול המכיל מעל 10,000 ספרים שלא פורסמו, המשמש באופן
+  נרחב לאימון מקדים של מודלי עיבוד שפה טבעית.
 ---
-
 ## Definition
 
 BookCorpus הוא אוסף של טקסטים ממעל ל-10,000 ספרים שלא פורסמו, שנאספו מהאינטרנט. הוא משמש כמשאב יסודי לאימון והערכה של מודלי עיבוד שפה טבעית (NLP).

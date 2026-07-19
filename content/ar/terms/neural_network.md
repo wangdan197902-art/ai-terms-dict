@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /ar/terms/neural_network/
 date: "2026-07-18T15:28:58.920516Z"
 lastmod: "2026-07-18T17:15:08.444068Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام حاسوبي مستوحى من الأدمغة البيولوجية، يتكون من عقد أو خلايا عصبية متصلة مرتبة في طبقات."
 ---
-
 ## Definition
 
 الشبكة العصبية هي سلسلة من الخوارزميات التي تسعى إلى التعرف على العلاقات الكامنة في مجموعة من البيانات من خلال عملية تحاكي طريقة عمل الدماغ البشري. تتكون من طبقات من الخلايا العصبية المتصلة.

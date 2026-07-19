@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /fi/terms/data_exploration/
 date: "2026-07-18T15:51:01.333331Z"
 lastmod: "2026-07-18T17:15:09.397051Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Alkuperäinen analyysi tietojoukoista kuvioiden löytämiseksi, poikkeavuuksien havaitsemiseksi ja hypoteesien testaamiseksi ennen virallista mallintamista."
 ---
-
 ## Definition
 
 Datankartoitus, jota kutsutaan usein myös eksploratiiviseksi data-analyysiksi (EDA), on kriittinen alustava vaihe koneoppimisessa. Se sisältää datan pääominaisuuksien tiivistämisen, usein käyttäen visualisointia ja tilastollisia menetelmiä ymmärtääkseen datan rakennetta ja laatua ennen mallin kehitystä.

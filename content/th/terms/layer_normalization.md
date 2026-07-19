@@ -1,23 +1,24 @@
 ---
-title: "การนอร์มัลไลซ์เลเยอร์ (Layer Normalization)"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: การนอร์มัลไลซ์เลเยอร์ (Layer Normalization)
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /th/terms/layer_normalization/
-date: "2026-07-18T16:01:57.262136Z"
-lastmod: "2026-07-18T16:38:07.624582Z"
+slug: layer_normalization
+date: '2026-07-18T16:01:57.262136Z'
+lastmod: '2026-07-18T16:38:07.624582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่ทำการนอร์มัลไลซ์ค่ากระตุ้น (activations) ของเลเยอร์เครือข่ายประสาทเทียมข้ามมิติคุณลักษณะ สำหรับแต่ละตัวอย่างข้อมูลโดยเฉพาะ"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่ทำการนอร์มัลไลซ์ค่ากระตุ้น (activations) ของเลเยอร์เครือข่ายประสาทเทียมข้ามมิติคุณลักษณะ
+  สำหรับแต่ละตัวอย่างข้อมูลโดยเฉพาะ
 ---
-
 ## Definition
 
 การนอร์มัลไลซ์เลเยอร์ช่วยทำให้กระบวนการฝึกอบรมมีความเสถียรโดยการลดการเปลี่ยนแปลงความแปรปรวนร่วมภายใน (internal covariate shift) ซึ่งมีประสิทธิภาพเป็นพิเศษในสถาปัตยกรรมแบบรีเคอร์เรนต์ (recurrent) และทรานส์ฟอร์มเมอร์ (transformer) ต่างจากการนอร์มัลไลซ์แบทช์ (Batch Normalization) ซึ่งขึ้นอยู่กับสถิติของแบทช์

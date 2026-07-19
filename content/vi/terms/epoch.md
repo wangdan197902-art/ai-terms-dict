@@ -1,23 +1,24 @@
 ---
-title: "Epoch (Chu kỳ huấn luyện)"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch (Chu kỳ huấn luyện)
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /vi/terms/epoch/
-date: "2026-07-18T15:51:58.377083Z"
-lastmod: "2026-07-18T16:38:07.754757Z"
+slug: epoch
+date: '2026-07-18T15:51:58.377083Z'
+lastmod: '2026-07-18T16:38:07.754757Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lần duyệt qua toàn bộ tập dữ liệu huấn luyện bởi thuật toán học máy trong quá trình huấn luyện mô hình."
+source: agnes_llm
+status: published
+language: vi
+description: Một lần duyệt qua toàn bộ tập dữ liệu huấn luyện bởi thuật toán học máy
+  trong quá trình huấn luyện mô hình.
 ---
-
 ## Definition
 
 Trong học máy, một epoch đại diện cho một vòng lặp duy nhất trên toàn bộ tập dữ liệu huấn luyện. Trong mỗi epoch, mô hình xử lý tất cả các ví dụ huấn luyện, cập nhật trọng số thông qua lan truyền ngược và điều chỉnh các tham số để giảm thiểu hàm mất mát.

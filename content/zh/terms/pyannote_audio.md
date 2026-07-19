@@ -1,23 +1,23 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /zh/terms/pyannote_audio/
-date: "2026-07-18T11:31:05.398475Z"
-lastmod: "2026-07-18T11:44:45.547178Z"
+slug: pyannote_audio
+date: '2026-07-18T11:31:05.398475Z'
+lastmod: '2026-07-18T11:44:45.547178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Pyannote Audio 是一个用于构建说话人日志流水线的模块化工具包，包含用于音频分析的预训练神经网络模型。"
+source: agnes_llm
+status: published
+language: zh
+description: Pyannote Audio 是一个用于构建说话人日志流水线的模块化工具包，包含用于音频分析的预训练神经网络模型。
 ---
-
 ## Definition
 
 Pyannote Audio 是一个综合性的工具包，旨在促进说话人日志系统的开发和部署。它提供了一系列预训练的神经网络模型，用于执行各

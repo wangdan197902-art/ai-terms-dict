@@ -1,23 +1,23 @@
 ---
-title: "通义千问3.5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: 通义千问3.5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /zh/terms/qwen3_5/
-date: "2026-07-18T11:31:25.159500Z"
-lastmod: "2026-07-18T11:44:45.548658Z"
+slug: qwen3_5
+date: '2026-07-18T11:31:25.159500Z'
+lastmod: '2026-07-18T11:44:45.548658Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "通义千问3.5（Qwen3 5）可能指通义千问第三代模型系列中的特定子版本或变体。"
+source: agnes_llm
+status: published
+language: zh
+description: 通义千问3.5（Qwen3 5）可能指通义千问第三代模型系列中的特定子版本或变体。
 ---
-
 ## Definition
 
 通义千问3.5似乎表示通义千问3代系列中的特定检查点、尺寸变体或专业发布版本。虽然具体规格可能有所不同，但它通常意味着从早期版本（如Qwen2或Qwen3基础版）在效率或特定能力上的进一步演进。

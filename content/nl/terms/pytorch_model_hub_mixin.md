@@ -7,8 +7,6 @@ tags: ["pytorch", "integration", "tools"]
 difficulty: 4
 weight: 1
 slug: "pytorch_model_hub_mixin"
-aliases:
-  - /nl/terms/pytorch_model_hub_mixin/
 date: "2026-07-18T16:13:46.608046Z"
 lastmod: "2026-07-18T17:15:08.780188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een PyTorch Model Hub Mixin is een hulpprogramma-klasse die naadloze integratie van PyTorch-modellen met de Hugging Face Hub mogelijk maakt voor eenvoudig opslaan en laden."
 ---
-
 ## Definition
 
 De PyTorch Model Hub Mixin is een component van de Hugging Face Transformers-bibliotheek die standaard PyTorch nn.Module-klassen uitbreidt. Het voegt methoden toe zoals save_pretrained en from_pretrained,

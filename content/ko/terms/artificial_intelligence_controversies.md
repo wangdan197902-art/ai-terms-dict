@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /ko/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:41:48.022552Z"
 lastmod: "2026-07-18T16:38:06.809225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 개발 및 배포의 윤리적, 사회적, 기술적 영향에 대한 공공의 논쟁 및 의견 불일치."
 ---
-
 ## Definition
 
 AI 논쟁은 인공지능 기술로 인해 발생하는 광범위한 윤리적, 법적, 사회적 분쟁을 포괄합니다. 알고리즘 편향, 사생활 침해, 일자리 대체, 자율 무기 사용 등 주요 쟁점들이 있으며, 기술의 발전 속도와 사회적 수용 및 규제 사이의 긴장 관계를 포함합니다.

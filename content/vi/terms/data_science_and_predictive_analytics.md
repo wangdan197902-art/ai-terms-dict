@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /vi/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:46:50.869017Z"
 lastmod: "2026-07-18T16:38:07.742277Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Lĩnh vực này kết hợp phân tích thống kê và học máy để trích xuất thông tin chi tiết từ dữ liệu và dự báo các sự kiện hoặc hành vi trong tương lai."
 ---
-
 ## Definition
 
 Khoa học dữ liệu liên quan đến quy trình liên ngành để trích xuất kiến thức từ dữ liệu có cấu trúc và không cấu trúc, trong khi phân tích dự đoán cụ thể tập trung vào việc sử dụng dữ liệu lịch sử để dự đoán

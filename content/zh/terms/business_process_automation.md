@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /zh/terms/business_process_automation/
 date: "2026-07-18T11:09:30.642830Z"
 lastmod: "2026-07-18T11:44:45.453403Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "使用技术来执行业务中的重复性任务或流程，从而取代人工努力。"
 ---
-
 ## Definition
 
 业务流程自动化 (BPA) 涉及利用软件和人工智能来简化复杂的业务工作流程。与仅处理基于规则任务的简单机器人流程自动化 (RPA) 不同，BPA 通常……

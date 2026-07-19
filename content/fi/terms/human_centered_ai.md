@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /fi/terms/human_centered_ai/
 date: "2026-07-18T16:02:13.514588Z"
 lastmod: "2026-07-18T17:15:09.419897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Lähestymistapa tekoälyn suunnitteluun ja kehittämiseen, jossa priorisoidaan ihmisen arvoja, tarpeita ja hyvinvointia koko järjestelmän elinkaaren ajan."
 ---
-
 ## Definition
 
 Ihmiskeskeinen tekoäly on suunnittelufilosofia, joka asettaa ihmisen tekoälyn kehittämisen ytimeen. Se korostaa sellaisten järjestelmien luomista, jotka ovat läpinäkyviä, oikeudenmukaisia ja yhteiskunnalle hyödyllisiä, toisin kuin...

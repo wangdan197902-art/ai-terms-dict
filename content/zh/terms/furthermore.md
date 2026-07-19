@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /zh/terms/furthermore/
 date: "2026-07-18T10:51:30.214910Z"
 lastmod: "2026-07-18T11:44:45.369089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种过渡性副词，用于在技术写作中引入额外信息或加强之前的论点。"
 ---
-
 ## Definition
 
 虽然“此外”并非技术算法，但它是AI文档和研究论文中至关重要的语言工具。它用于连接思想，表明后续陈述增加了权重或

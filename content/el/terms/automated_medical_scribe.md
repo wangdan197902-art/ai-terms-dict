@@ -1,23 +1,24 @@
 ---
-title: "Αυτόματος ιατρικός γραμματέας"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Αυτόματος ιατρικός γραμματέας
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /el/terms/automated_medical_scribe/
-date: "2026-07-18T15:52:37.333688Z"
-lastmod: "2026-07-18T17:15:09.883449Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:52:37.333688Z'
+lastmod: '2026-07-18T17:15:09.883449Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα σύστημα βασισμένο στην Τεχνητή Νοημοσύνη που δημιουργεί αυτόματα κλινικά έγγραφα από τις αλληλεπιδράσεις γιατρού και ασθενούς."
+source: agnes_llm
+status: published
+language: el
+description: Ένα σύστημα βασισμένο στην Τεχνητή Νοημοσύνη που δημιουργεί αυτόματα
+  κλινικά έγγραφα από τις αλληλεπιδράσεις γιατρού και ασθενούς.
 ---
-
 ## Definition
 
 Οι αυτόματοι ιατρικοί γραμματείς χρησιμοποιούν τεχνολογίες επεξεργασίας φυσικής γλώσσας και αναγνώρισης ομιλίας για να ακούσουν τις συζητήσεις γιατρού-ασθενούς και να δημιουργήσουν δομημένα ηλεκτρονικά ιατρικά αρχεία. Αυτή η τεχνολογία...

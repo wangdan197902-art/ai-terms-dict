@@ -7,8 +7,6 @@ tags: ["politics", "geopolitics", "policy"]
 difficulty: 4
 weight: 1
 slug: "ai_nationalism"
-aliases:
-  - /he/terms/ai_nationalism/
 date: "2026-07-18T15:40:07.097800Z"
 lastmod: "2026-07-18T17:15:09.508015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "התחרות האסטרטגית בין אומות לשליטה בפיתוח בינה מלאכותית, המונעת מאינטרסים גיאופוליטיים וכלכליים."
 ---
-
 ## Definition
 
 לאומנות בינה מלאכותית מתארת את המגמה שבה ממשלות מתייחסות לבינה מלאכותית כאל עניין של ביטחון לאומי וריבונות כלכלית. אומות משקיעות רבות במחקר מקומי ומגבילות יצוא טכנולוגי.

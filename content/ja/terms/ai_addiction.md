@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /ja/terms/ai_addiction/
 date: "2026-07-18T11:01:54.812878Z"
 lastmod: "2026-07-18T11:44:45.060293Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能システムとの相互作用に対する心理的依存であり、強迫的な使用行動を引き起こす状態。"
 ---
-
 ## Definition
 
 AI依存症とは、個人がチャットボットやソーシャルメディアアルゴリズムなど、AI駆動の相互作用に対して強迫的な信頼関係を発展させる行動状態を指します。この依存は、しばしばドーパミンフィードバックループや社会的孤立に起因します。

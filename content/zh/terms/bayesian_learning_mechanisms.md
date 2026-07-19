@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /zh/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T11:08:51.667538Z"
 lastmod: "2026-07-18T11:44:45.450407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将模型参数视为具有概率分布的随机变量而非固定值的学习范式。"
 ---
-
 ## Definition
 
 贝叶斯学习机制利用贝叶斯定理更新关于模型参数的信念，将先验知识与观测数据相结合以形成后验分布。与频率学派方法不同，它明确量化了参数的不确定性。

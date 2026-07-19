@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /da/terms/is_this_what_we_want/
 date: "2026-07-18T16:02:18.082011Z"
 lastmod: "2026-07-18T17:15:09.301090Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En kritisk etisk ramme, der bruges til at vurdere AI-systemer mod samfundsmæssige værdier, retfærdighed og potentielt skadelige konsekvenser."
 ---
-
 ## Definition
 
 Denne frase repræsenterer et afgørende spørgsmål inden for AI-etik og styring, der opfordrer interessenter til at vurdere, om indførte AI-teknologier er i overensstemmelse med menneskelige værdier og det offentlige interes. Det indebærer granskni

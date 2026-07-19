@@ -1,23 +1,23 @@
 ---
-title: "open-source"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: open-source
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /pl/terms/open_source/
-date: "2026-07-18T15:32:38.423470Z"
-lastmod: "2026-07-18T17:15:08.827709Z"
+slug: open_source
+date: '2026-07-18T15:32:38.423470Z'
+lastmod: '2026-07-18T17:15:08.827709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Oprogramowanie, którego kod źródłowy jest udostępniany za darmo do użytku, modyfikacji i dystrybucji przez kogokolwiek."
+source: agnes_llm
+status: published
+language: pl
+description: Oprogramowanie, którego kod źródłowy jest udostępniany za darmo do użytku,
+  modyfikacji i dystrybucji przez kogokolwiek.
 ---
-
 ## Definition
 
 Open-source odnosi się do modelu rozwoju, w którym podstawowy kod projektu oprogramowania jest publicznie dostępny. W sztucznej inteligencji pozwala to badaczom i programistom na inspekcję, modyfikację i ponowną dystrybucję alg...

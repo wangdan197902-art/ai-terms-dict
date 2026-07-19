@@ -1,23 +1,23 @@
 ---
-title: "스테이블 디퓨전(Stable Diffusion)"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: 스테이블 디퓨전(Stable Diffusion)
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /ko/terms/stable_diffusion/
-date: "2026-07-18T16:17:04.126105Z"
-lastmod: "2026-07-18T16:38:06.911017Z"
+slug: stable_diffusion
+date: '2026-07-18T16:17:04.126105Z'
+lastmod: '2026-07-18T16:38:06.911017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "텍스트 설명으로부터 고품질 이미지를 효율적으로 생성할 수 있는 잠재 디퓨전 모델."
+source: agnes_llm
+status: published
+language: ko
+description: 텍스트 설명으로부터 고품질 이미지를 효율적으로 생성할 수 있는 잠재 디퓨전 모델.
 ---
-
 ## Definition
 
 스테이블 디퓨전은 잠재 공간(latent space)에서 디퓨전 과정을 사용하여 텍스트 입력에 조건부로 상세한 이미지를 생성하는 딥러닝 모델입니다. 픽셀 공간 기반 디퓨전 모델과 달리 압축된 잠재 표현에서 작동하므로 계산 효율성이 높습니다.

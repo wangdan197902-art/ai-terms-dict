@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /ja/terms/machine_unlearning/
 date: "2026-07-18T11:23:07.592730Z"
 lastmod: "2026-07-18T11:44:45.119900Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "マシンアンラーニングとは、モデルを最初から再トレーニングすることなく、特定のデータポイントやその影響を学習済みモデルから削除するプロセスです。"
 ---
-
 ## Definition
 
 この手法は、GDPRの「忘れられる権利」などのプライバシー規制に対応し、一般的な知識を保持しつつ特定のユーザーデータを忘却できるようにします。その目的は、完全な再トレーニングを行っ

@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /hu/terms/specifically/
 date: "2026-07-18T15:31:33.974506Z"
 lastmod: "2026-07-18T17:15:09.730660Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy szélesebb kontextuson belül pontos, megkülönböztethető vagy egyedi részletekre utal."
 ---
-
 ## Definition
 
 Az AI terminológiában a 'speciálisan' a modellek, adathalmazok vagy műveletek meghatározásának pontosságát jelöli. Megkülönbözteti a pontos paramétereket az általános kategóriáktól, biztosítva az egyértelműséget a technikai dokumentációban.

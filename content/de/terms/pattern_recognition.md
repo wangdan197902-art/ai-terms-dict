@@ -1,23 +1,24 @@
 ---
-title: "Mustererkennung"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Mustererkennung
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /de/terms/pattern_recognition/
-date: "2026-07-18T11:26:37.412268Z"
-lastmod: "2026-07-18T11:44:44.974018Z"
+slug: pattern_recognition
+date: '2026-07-18T11:26:37.412268Z'
+lastmod: '2026-07-18T11:44:44.974018Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die automatisierte Identifizierung von Regularitäten und Strukturen innerhalb von Daten unter Verwendung statistischer und maschineller Lernmethoden."
+source: agnes_llm
+status: published
+language: de
+description: Die automatisierte Identifizierung von Regularitäten und Strukturen innerhalb
+  von Daten unter Verwendung statistischer und maschineller Lernmethoden.
 ---
-
 ## Definition
 
 Mustererkennung ist ein Zweig der künstlichen Intelligenz und Statistik, der sich mit der Identifizierung von Regularitäten in Daten befasst. Sie umfasst die Klassifizierung von Eingabedaten in vordefinierte Kategorien basierend auf extrahierten Merkmalen und statistischen Modellen.

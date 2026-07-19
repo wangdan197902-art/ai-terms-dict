@@ -1,23 +1,24 @@
 ---
-title: "الانتشار العكسي"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: الانتشار العكسي
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /ar/terms/backpropagation/
-date: "2026-07-18T15:22:36.149902Z"
-lastmod: "2026-07-18T17:15:08.431527Z"
+slug: backpropagation
+date: '2026-07-18T15:22:36.149902Z'
+lastmod: '2026-07-18T17:15:08.431527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خوارزمية شائعة الاستخدام لتدريب الشبكات العصبية عن طريق حساب التدرجات لتقليل الخطأ."
+source: agnes_llm
+status: published
+language: ar
+description: خوارزمية شائعة الاستخدام لتدريب الشبكات العصبية عن طريق حساب التدرجات
+  لتقليل الخطأ.
 ---
-
 ## Definition
 
 الانتشار العكسي، وهو اختصار لانتشار الأخطاء للخلف، هو طريقة تُستخدم في الشبكات العصبية الاصطناعية لحساب تدرج دالة الخسارة بالنسبة للأوزان. تعمل هذه الطريقة عن طريق نشر...

@@ -1,23 +1,24 @@
 ---
-title: "First-Order"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: First-Order
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /de/terms/first_order/
-date: "2026-07-18T10:55:51.903851Z"
-lastmod: "2026-07-18T11:44:44.888338Z"
+slug: first_order
+date: '2026-07-18T10:55:51.903851Z'
+lastmod: '2026-07-18T11:44:44.888338Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Bezieht sich auf Konzepte, die direkte Beziehungen oder lineare Approximationen umfassen, wie z. B. Prädikatenlogik erster Stufe oder Ableitungen erster Ordnung."
+source: agnes_llm
+status: published
+language: de
+description: Bezieht sich auf Konzepte, die direkte Beziehungen oder lineare Approximationen
+  umfassen, wie z. B. Prädikatenlogik erster Stufe oder Ableitungen erster Ordnung.
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz und Mathematik beschreibt 'First-Order' typischerweise Systeme oder Operationen, die direkte, lineare Beziehungen ohne Interaktionen höherer Ordnung involvieren. In der Optimierung bezieht es sich auf Methoden, die Gradienten (Ableitungen erster Ordnung) nutzen, um das Minimum einer Funktion zu finden, ohne Krümmungsinformationen (Hessische Matrix) zu berücksichtigen.

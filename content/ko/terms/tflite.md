@@ -1,23 +1,24 @@
 ---
-title: "TFLite"
-term_id: "tflite"
-category: "basic_concepts"
-subcategory: ""
-tags: ["framework", "mobile", "optimization"]
+title: TFLite
+term_id: tflite
+category: basic_concepts
+subcategory: ''
+tags:
+- framework
+- mobile
+- Optimization
 difficulty: 3
 weight: 1
-slug: "tflite"
-aliases:
-  - /ko/terms/tflite/
-date: "2026-07-18T16:18:31.748733Z"
-lastmod: "2026-07-18T16:38:06.915183Z"
+slug: tflite
+date: '2026-07-18T16:18:31.748733Z'
+lastmod: '2026-07-18T16:38:06.915183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "TensorFlow Lite(TFLite)는 머신러닝 모델을 모바일, 임베디드 및 엣지 디바이스에서 실행할 수 있게 해주는 도구 모음입니다."
+source: agnes_llm
+status: published
+language: ko
+description: TensorFlow Lite(TFLite)는 머신러닝 모델을 모바일, 임베디드 및 엣지 디바이스에서 실행할 수 있게 해주는
+  도구 모음입니다.
 ---
-
 ## Definition
 
 TensorFlow Lite는 스마트폰, 마이크로컨트롤러, IoT 장치 등 자원이 제한된 디바이스에 머신러닝 모델을 배포하기 위해 설계된 오픈소스 프레임워크입니다. 이 프레임워크는 모델 최적화를 통해...

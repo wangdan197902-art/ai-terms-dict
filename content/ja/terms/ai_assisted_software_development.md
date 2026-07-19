@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /ja/terms/ai_assisted_software_development/
 date: "2026-07-18T11:02:35.667062Z"
 lastmod: "2026-07-18T11:44:45.062419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "コーディング、デバッグ、テスト、設計プロセスにおける生産性を向上させるためのAIツールの使用。"
 ---
-
 ## Definition
 
 AI支援ソフトウェア開発とは、機械学習モデルを活用して、開発者がコードの記述、バグの特定、テストの生成、パフォーマンスの最適化をサポートすることを指します。GitHub Copilotなどのツールが含まれます。

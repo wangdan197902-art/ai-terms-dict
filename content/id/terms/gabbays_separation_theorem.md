@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /id/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:51:39.525702Z"
 lastmod: "2026-07-18T16:38:07.460762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah hasil dalam logika non-klasik yang menyatakan bahwa logika temporal atau modal tertentu dapat dipisahkan menjadi komponen-komponen berbeda berdasarkan sifat strukturalnya."
 ---
-
 ## Definition
 
 Teorema pemisahan Gabbay adalah konsep mendasar dalam logika matematika, khususnya dalam studi logika temporal dan modal. Teorema ini memberikan kondisi di mana sebuah logika dapat didekomposisi atau

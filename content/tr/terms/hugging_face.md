@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /tr/terms/hugging_face/
-date: "2026-07-18T15:56:58.383011Z"
-lastmod: "2026-07-18T16:38:07.317605Z"
+slug: hugging_face
+date: '2026-07-18T15:56:58.383011Z'
+lastmod: '2026-07-18T16:38:07.317605Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Makine öğrenimi geliştirme için açık kaynaklı araçlar, modeller ve veri setleri sağlayan önde gelen bir platform ve topluluk."
+source: agnes_llm
+status: published
+language: tr
+description: Makine öğrenimi geliştirme için açık kaynaklı araçlar, modeller ve veri
+  setleri sağlayan önde gelen bir platform ve topluluk.
 ---
-
 ## Definition
 
 Hugging Face, açık kaynaklı yapay zeka ekosisteminin merkezinde yerleşmiş öne çıkan bir şirket ve çevrimiçi platformdur. Ön eğitilmiş modeller, veri setleri ve gösteri amaçlı uygulamalar için geniş bir depo sunar.

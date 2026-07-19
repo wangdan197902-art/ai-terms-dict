@@ -1,23 +1,23 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /zh/terms/proaftn/
-date: "2026-07-18T11:30:30.456899Z"
-lastmod: "2026-07-18T11:44:45.545107Z"
+slug: proaftn
+date: '2026-07-18T11:30:30.456899Z'
+lastmod: '2026-07-18T11:44:45.545107Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "功能时间序列网络的概率关系代数，一种用于建模动态系统的框架。"
+source: agnes_llm
+status: published
+language: zh
+description: 功能时间序列网络的概率关系代数，一种用于建模动态系统的框架。
 ---
-
 ## Definition
 
 Praftn是一个专门的计算框架，旨在处理关系结构内的功能时间序列数据。它将概率推理与代数运算相结合，以建模复杂的动态系统，支持对连续值时间序列数据的结构化分析。

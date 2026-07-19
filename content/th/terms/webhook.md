@@ -1,23 +1,23 @@
 ---
-title: "เว็บฮุค"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: เว็บฮุค
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /th/terms/webhook/
-date: "2026-07-18T16:20:18.923684Z"
-lastmod: "2026-07-18T16:38:07.666786Z"
+slug: webhook
+date: '2026-07-18T16:20:18.923684Z'
+lastmod: '2026-07-18T16:38:07.666786Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เคอร์แบ็ก HTTP ที่กำหนดโดยผู้ใช้และถูกกระตุ้นโดยเหตุการณ์เฉพาะ ช่วยให้ระบบสามารถส่งการแจ้งเตือนแบบเรียลไทม์ไปยังแอปพลิเคชันอื่นได้"
+source: agnes_llm
+status: published
+language: th
+description: เคอร์แบ็ก HTTP ที่กำหนดโดยผู้ใช้และถูกกระตุ้นโดยเหตุการณ์เฉพาะ ช่วยให้ระบบสามารถส่งการแจ้งเตือนแบบเรียลไทม์ไปยังแอปพลิเคชันอื่นได้
 ---
-
 ## Definition
 
 เว็บฮุคเป็นกลไกที่ทำให้บริการหนึ่งสามารถส่งข้อมูลแบบเรียลไทม์ไปยังอีกบริการหนึ่งเมื่อเกิดเหตุการณ์ขึ้น แทนที่จะทำการตรวจสอบการเปลี่ยนแปลงอย่างต่อเนื่อง (Polling) ระบบต้นทางจะส่งคำขอ HTTP POST ไปยัง URL ที่กำหนดไว้ล่วงหน้าเพื่อแจ้งให้ทราบว่ามีข้อมูลใหม่

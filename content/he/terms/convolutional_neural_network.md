@@ -1,23 +1,24 @@
 ---
-title: "רשת נוירונים קונבולוציונית"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: רשת נוירונים קונבולוציונית
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /he/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:41.853575Z"
-lastmod: "2026-07-18T17:15:09.471189Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:41.853575Z'
+lastmod: '2026-07-18T17:15:09.471189Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מחלקה מיוחדת של רשתות נוירונים עמוקות המשמשת בעיקר לעיבוד נתונים ברשת (כגון תמונות) באמצעות סינונים קונבולוציוניים."
+source: agnes_llm
+status: published
+language: he
+description: מחלקה מיוחדת של רשתות נוירונים עמוקות המשמשת בעיקר לעיבוד נתונים ברשת
+  (כגון תמונות) באמצעות סינונים קונבולוציוניים.
 ---
-
 ## Definition
 
 רשתות נוירונים קונבולוציוניות (CNNs) תוכננו ללמוד באופן אוטומטי והתאמה של היררכיות תכונות מרחביות מקלטים חזותיים. הן משתמשות בשכבות קונבולוציה המיישמות סינונים כדי לזהות תכונות כמו קצוות וטקסטורות.

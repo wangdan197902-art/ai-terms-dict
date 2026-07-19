@@ -1,23 +1,23 @@
 ---
-title: "인스턴스 선택"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: 인스턴스 선택
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /ko/terms/instance_selection/
-date: "2026-07-18T16:00:18.596078Z"
-lastmod: "2026-07-18T16:38:06.855148Z"
+slug: instance_selection
+date: '2026-07-18T16:00:18.596078Z'
+lastmod: '2026-07-18T16:38:06.855148Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "대표적인 인스턴스의 하위 집합을 선택하여 데이터셋의 크기를 줄이는 전처리 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 대표적인 인스턴스의 하위 집합을 선택하여 데이터셋의 크기를 줄이는 전처리 기법입니다.
 ---
-
 ## Definition
 
 인스턴스 선택은 중복되거나 노이즈가 있는 데이터 포인트를 제거하여 계산 효율성과 모델 성능을 향상시키는 것을 목표로 합니다. 특징 선택과 달리 이는 데이터셋의 행(row)에 대해 작동하며, 목표는 정보 손실 없이 데이터의 크기를 축소하는 것입니다.

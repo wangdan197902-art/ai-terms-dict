@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /cs/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:04:46.777245Z"
 lastmod: "2026-07-18T17:15:09.145244Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Technika, která mapuje entity a vztahy v znalostním grafu do spojitých vektorových prostorů při zachování strukturální sémantiky."
 ---
-
 ## Definition
 
 Metody vkládání znalostních grafů, jako jsou TransE nebo DistMult, transformují diskrétní struktury grafů na nízkorozměrné husté vektory. To umožňuje modelům strojového učení provádět matematické operace na těchto reprezentacích, čímž se usnadňuje zpracování komplexních relačních dat.

@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /es/terms/sequence_labeling/
 date: "2026-07-18T11:07:47.558812Z"
 lastmod: "2026-07-18T11:44:44.853564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una tarea de procesamiento del lenguaje natural en la que se asigna una etiqueta a cada elemento de una secuencia de entradas."
 ---
-
 ## Definition
 
 El etiquetado de secuencias implica predecir una etiqueta categórica para cada token en una secuencia de entrada dada, como palabras en una oración o caracteres en una cadena. Las aplicaciones comunes incluyen el etiquetado de partes de la oración (POS tagging) y el reconocimiento de entidades nombradas.

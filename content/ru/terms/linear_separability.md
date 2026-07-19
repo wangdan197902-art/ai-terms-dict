@@ -1,23 +1,24 @@
 ---
-title: "Линейная разделимость"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Линейная разделимость
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /ru/terms/linear_separability/
-date: "2026-07-18T16:01:40.136514Z"
-lastmod: "2026-07-18T16:38:07.175406Z"
+slug: linear_separability
+date: '2026-07-18T16:01:40.136514Z'
+lastmod: '2026-07-18T16:38:07.175406Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Свойство набора данных, при котором два класса могут быть идеально разделены одной прямой линией или гиперплоскостью."
+source: agnes_llm
+status: published
+language: ru
+description: Свойство набора данных, при котором два класса могут быть идеально разделены
+  одной прямой линией или гиперплоскостью.
 ---
-
 ## Definition
 
 Линейная разделимость относится к геометрическому условию, при котором точки данных, принадлежащие разным классам, могут быть полностью разделены линейной границей, такой как прямая в двумерном пространстве или гиперплоскость в многомерном пространстве. Это фундаментальное понятие для алгоритмов, таких как перцептрон и метод опорных векторов с линейным ядром.

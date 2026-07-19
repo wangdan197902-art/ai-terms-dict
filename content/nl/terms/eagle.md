@@ -1,23 +1,25 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /nl/terms/eagle/
-date: "2026-07-18T15:53:35.369055Z"
-lastmod: "2026-07-18T17:15:08.740334Z"
+slug: eagle
+date: '2026-07-18T15:53:35.369055Z'
+lastmod: '2026-07-18T17:15:08.740334Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Eagle is een hoogpresterend, open-source framework voor grote taalmodellen ontwikkeld door ByteDance, ontworpen voor efficiënte pre-training en fine-tuning van LLM's."
+source: agnes_llm
+status: published
+language: nl
+description: Eagle is een hoogpresterend, open-source framework voor grote taalmodellen
+  ontwikkeld door ByteDance, ontworpen voor efficiënte pre-training en fine-tuning
+  van LLM's.
 ---
-
 ## Definition
 
 Eagle vertegenwoordigt een specifiek architectuur- en engineeringframework binnen het domein van Large Language Models, voornamelijk gericht op optimalisaties voor trainings-efficiëntie en schaalbaarheid. Het focust

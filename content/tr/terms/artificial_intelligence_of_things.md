@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /tr/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:41:54.078054Z"
 lastmod: "2026-07-18T16:38:07.274552Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka ile Nesnelerin İnterneti'nin (IoT) birleşimi; akıllı cihazların verileri yerel olarak işleyip otonom kararlar almasını sağlar."
 ---
-
 ## Definition
 
 Nesnelerin Yapay Zekası (AIoT), Yapay Zeka ve Nesnelerin İnterneti teknolojilerinin sinerjik entegrasyonunu temsil eder. AI algoritmalarının doğrudan IoT cihazlarına gömülmesi veya bunlarla entegre edilmesi sayesinde, cihazlar merkezi bulut sunucularına bağımlı kalmadan veri işleme yeteneklerine sahip olur. Bu yaklaşım, gecikme süresini azaltır, bant genişliği kullanımını optimize eder ve cihazların çevreleriyle gerçek zamanlı etkileşime girerek bağımsız kararlar almasını mümkün kılar.

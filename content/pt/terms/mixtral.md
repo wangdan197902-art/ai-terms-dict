@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /pt/terms/mixtral/
 date: "2026-07-18T15:13:14.615729Z"
 lastmod: "2026-07-18T15:51:59.513353Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um grande modelo de linguagem (LLM) de Mistral AI baseado em Mistura Esparsa de Especialistas (MoE) que ativa apenas um subconjunto de parâmetros por token."
 ---
-
 ## Definition
 
 O Mixtral é um LLM de pesos abertos pioneiro que utiliza uma arquitetura de Mistura Esparsa de Especialistas (MoE). Diferente dos modelos densos onde todos os parâmetros são usados para cada token, o Mixtral roteia cada token através de especialistas específicos, melhorando a eficiência.

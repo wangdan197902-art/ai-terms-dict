@@ -1,23 +1,24 @@
 ---
-title: "AI cu memorie limitată"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: AI cu memorie limitată
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /ro/terms/limited_memory_ai/
-date: "2026-07-18T16:08:34.181752Z"
-lastmod: "2026-07-18T17:15:09.675155Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:08:34.181752Z'
+lastmod: '2026-07-18T17:15:09.675155Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Sisteme AI capabile să stocheze date și experiențe trecute pentru a informa deciziile viitoare, formând baza majorității aplicațiilor moderne de învățare automată."
+source: agnes_llm
+status: published
+language: ro
+description: Sisteme AI capabile să stocheze date și experiențe trecute pentru a informa
+  deciziile viitoare, formând baza majorității aplicațiilor moderne de învățare automată.
 ---
-
 ## Definition
 
 AI-ul cu memorie limitată reprezintă al doilea nivel al capacităților AI, unde sistemele pot învăța din date istorice și își ajustează comportamentul în consecință. Spre deosebire de mașinile reactive, aceste sisteme rețin informații despre interacțiuni anterioare pentru a îmbunătăți predicțiile și deciziile.

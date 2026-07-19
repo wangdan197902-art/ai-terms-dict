@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /it/terms/edge_computing/
 date: "2026-07-18T15:57:35.709684Z"
 lastmod: "2026-07-18T17:15:08.621783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'edge computing è un paradigma di calcolo distribuito che avvicina l'elaborazione e l'archiviazione dei dati alle fonti di generazione dei dati, invece di fare affidamento esclusivamente su server cl"
 ---
-
 ## Definition
 
 L'edge computing affronta i limiti di latenza e banda delle architetture basate sul cloud elaborando i dati vicino al punto in cui vengono generati, come dispositivi IoT, sensori o gateway locali. Nel contesto dell'intelligenza artificiale

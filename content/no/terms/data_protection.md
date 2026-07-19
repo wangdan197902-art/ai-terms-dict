@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /no/terms/data_protection/
 date: "2026-07-18T15:36:37.333728Z"
 lastmod: "2026-07-18T16:38:06.957126Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å beskytte sensitiv informasjon mot uautorisert tilgang, korruption eller tyveri gjennom hele livssyklusen."
 ---
-
 ## Definition
 
 Datasikkerhet omfatter juridiske, tekniske og organisatoriske tiltak designet for å sikre personopplysninger og proprietær data mot brudd og misbruk. Innen AI inkluderer dette implementering av kryptering, tilgangskontroll og anonymisering for å opprettholde integriteten til dataene.

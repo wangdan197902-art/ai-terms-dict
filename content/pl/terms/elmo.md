@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /pl/terms/elmo/
 date: "2026-07-18T15:52:38.616459Z"
 lastmod: "2026-07-18T17:15:08.868694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Osadzenia z modeli językowych, metoda głębokiej kontekstowej reprezentacji słów oparta na dwukierunkowych sieciach LSTM."
 ---
-
 ## Definition
 
 ELMo generuje osadzenia słów zależne od kontekstu, przetwarzając wejściowy tekst przez dwukierunkową sieć LSTM trenowaną na dużym korpusie. W przeciwieństwie do statycznych osadzeń takich jak Word2Vec, ELMo wychwytuje polisemię, produkując różne wektory dla tego samego słowa w zależności od otoczenia.

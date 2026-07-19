@@ -1,23 +1,25 @@
 ---
-title: "Percezione automatica"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Percezione automatica
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /it/terms/machine_perception/
-date: "2026-07-18T16:10:08.151171Z"
-lastmod: "2026-07-18T17:15:08.646828Z"
+slug: machine_perception
+date: '2026-07-18T16:10:08.151171Z'
+lastmod: '2026-07-18T17:15:08.646828Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La percezione automatica si riferisce alla capacità dei sistemi di intelligenza artificiale di interpretare e comprendere i dati sensoriali provenienti dall'ambiente, come immagini, audio o letture de"
+source: agnes_llm
+status: published
+language: it
+description: La percezione automatica si riferisce alla capacità dei sistemi di intelligenza
+  artificiale di interpretare e comprendere i dati sensoriali provenienti dall'ambiente,
+  come immagini, audio o letture de
 ---
-
 ## Definition
 
 Colma il divario tra gli input grezzi dei sensori e una comprensione semantica significativa, imitando i sensi umani come la vista e l'udito. Le tecnologie chiave includono la visione artificiale per il riconoscimento degli oggetti, il riconoscimento vocale e la fusione dei dati

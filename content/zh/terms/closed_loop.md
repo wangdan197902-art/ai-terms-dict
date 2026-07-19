@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /zh/terms/closed_loop/
 date: "2026-07-18T10:56:05.609580Z"
 lastmod: "2026-07-18T11:44:45.389428Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种控制系统的输出反馈被连续用于调整未来行动的系统。"
 ---
-
 ## Definition
 
 人工智能中的闭环系统利用来自环境的实时反馈来动态调整其行为或参数。这与执行预定义序列的开环系统形成对比...

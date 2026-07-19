@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /ko/terms/chat/
 date: "2026-07-18T15:44:53.150098Z"
 lastmod: "2026-07-18T16:38:06.816290Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "채팅은 일반적으로 자연어를 통해 촉진되는 사용자 및 AI 시스템 간의 대화형 소통을 의미합니다."
 ---
-
 ## Definition
 
 AI 맥락에서 채팅은 실시간 턴 기반 대화를 위한 인터페이스와 하위 메커니즘을 나타냅니다. 이를 통해 사용자는 질문을 하거나 작업을 요청하거나 개방형 대화를 나눌 수 있습니다.

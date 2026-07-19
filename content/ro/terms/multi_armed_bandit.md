@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /ro/terms/multi_armed_bandit/
 date: "2026-07-18T16:12:50.265048Z"
 lastmod: "2026-07-18T17:15:09.683923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un joc tip bandit cu mai multe brațe este o problemă clasică în teoria probabilităților și învățarea prin reforțare care modelează compromisul dintre explorare și exploatare."
 ---
-
 ## Definition
 
 Problema banditului cu mai multe brațe ilustrează dilema cu care se confruntă un agent care decide dacă să se lipească de o opțiune cunoscută ca fiind recompensatoare (exploatare) sau să încerce opțiuni noi pentru a descoperi recompense potențial mai bune

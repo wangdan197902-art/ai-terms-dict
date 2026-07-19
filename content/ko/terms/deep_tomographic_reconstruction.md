@@ -1,23 +1,23 @@
 ---
-title: "딥 토모그래픽 재구성"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: 딥 토모그래픽 재구성
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /ko/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T15:51:28.982884Z"
-lastmod: "2026-07-18T16:38:06.830400Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T15:51:28.982884Z'
+lastmod: '2026-07-18T16:38:06.830400Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "깊은 신경망을 활용하여 희소하거나 노이즈가 있는 투영 데이터로부터 고품질의 단면 영상을 재구성하는 계산 영상 기술입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 깊은 신경망을 활용하여 희소하거나 노이즈가 있는 투영 데이터로부터 고품질의 단면 영상을 재구성하는 계산 영상 기술입니다.
 ---
-
 ## Definition
 
 딥 토모그래픽 재구성은 필터링 역투영(Filtered Back-Projection)과 같은 전통적인 대수적 또는 해석적 방법보다 중요한 진전을 의미합니다. 합성곱 신경망(CNN) 등을 활용하여 노이즈를 제거하고 해상도를 높이며, 기존 방법으로는 얻기 어려운 디테일을 복원합니다.

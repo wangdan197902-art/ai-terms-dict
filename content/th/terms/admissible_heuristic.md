@@ -1,23 +1,24 @@
 ---
-title: "ฮิวริสติกที่ยอมรับได้"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: ฮิวริสติกที่ยอมรับได้
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /th/terms/admissible_heuristic/
-date: "2026-07-18T15:39:32.713932Z"
-lastmod: "2026-07-18T16:38:07.571061Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:39:32.713932Z'
+lastmod: '2026-07-18T16:38:07.571061Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ฟังก์ชันฮิวริสติกในอัลกอริทึมการค้นหาที่ไม่เคยประมาณค่าต้นทุนที่แท้จริงสู่เป้าหมายเกินจริง เพื่อให้มั่นใจในความเหมาะสมของผลลัพธ์"
+source: agnes_llm
+status: published
+language: th
+description: ฟังก์ชันฮิวริสติกในอัลกอริทึมการค้นหาที่ไม่เคยประมาณค่าต้นทุนที่แท้จริงสู่เป้าหมายเกินจริง
+  เพื่อให้มั่นใจในความเหมาะสมของผลลัพธ์
 ---
-
 ## Definition
 
 ในปัญหาการหาเส้นทางและการค้นหา ฮิวริสติกที่ยอมรับได้จะให้ขอบเขตล่างของต้นทุนที่แท้จริงในการเข้าถึงโหนดเป้าหมาย โดยการรับประกันว่าค่าที่ประมาณการจะน้อยกว่าหรือเท่ากับต้นทุนจริงเสมอ ทำให้สามารถหาวิธีแก้ที่ดีที่สุดได้

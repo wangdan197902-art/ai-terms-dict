@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /zh/terms/free/
 date: "2026-07-18T10:51:30.214899Z"
 lastmod: "2026-07-18T11:44:45.368968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指无需支付费用或受限制性许可即可使用的资源、软件或数据。"
 ---
-
 ## Definition
 
 在人工智能语境中，“免费”通常指开源模型、数据集或工具，用户可免费访问、修改和分发，无需支付费用。这与专有解决方案形成对比，后者

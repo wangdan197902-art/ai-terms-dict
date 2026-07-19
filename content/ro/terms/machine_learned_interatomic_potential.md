@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /ro/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:10:49.739785Z"
 lastmod: "2026-07-18T17:15:09.678744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O funcție matematică bazată pe ML care prezice forțele și energiile dintre atomi, servind ca substitut pentru calculele costisitoare de mecanică cuantică."
 ---
-
 ## Definition
 
 Aceste potențiale permit simulări de dinamică moleculară cu acuratețe aproape cuantică, dar cu viteza de calcul clasică. Antrenându-le pe date de înaltă fidelitate din teoria funcțională a densității (DFT), acestea permit...

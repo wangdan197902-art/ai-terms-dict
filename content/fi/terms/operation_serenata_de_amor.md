@@ -1,23 +1,24 @@
 ---
-title: "Operaatio Serenata de Amor"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Operaatio Serenata de Amor
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /fi/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:14:33.714013Z"
-lastmod: "2026-07-18T17:15:09.441025Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:14:33.714013Z'
+lastmod: '2026-07-18T17:15:09.441025Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kansalaisteknologiahankke, joka käyttää koneoppimista havaitsemaan petoksia brasilialaisissa julkisissa menotuissa."
+source: agnes_llm
+status: published
+language: fi
+description: Kansalaisteknologiahankke, joka käyttää koneoppimista havaitsemaan petoksia
+  brasilialaisissa julkisissa menotuissa.
 ---
-
 ## Definition
 
 Operaatio Serenata de Amor on edelläkävijä avoimen lähdekoodin projekti, joka soveltaa tekoälyä Brasilian julkisten hankintojen tietojen analysointiin. Hyödyntämällä luonnollisen kielen käsittelyä ja poikkeamien havaitsemista...

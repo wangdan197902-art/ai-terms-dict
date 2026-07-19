@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /ja/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T11:23:07.592734Z"
 lastmod: "2026-07-18T11:44:45.120034Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "原子間の力とエネルギーを予測する機械学習ベースの数関数であり、高価な量子力学計算の代替として機能します。"
 ---
-
 ## Definition
 
 これらのポテンシャルは、古典的な計算速度でほぼ量子力学レベルの精度を持つ分子動力学シミュレーションを可能にします。密度汎関数理論（DFT）からの高精度データでトレーニングすることで、これら

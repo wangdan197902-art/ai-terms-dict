@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /ko/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:43:45.408331Z"
 lastmod: "2026-07-18T16:38:06.814193Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "오차를 최소화하려면 모델 복잡도와 일반화 능력 사이의 균형을 맞춰야 하는 지도 학습의 근본적인 문제입니다."
 ---
-
 ## Definition
 
 편향-분산 트레이드오프는 과소적합(높은 편향)과 과대적합(높은 분산) 사이의 긴장 관계를 설명합니다. 높은 편향을 가진 모델은 데이터에 대해 강한 가정을 하여 관련 정보를 무시할 수 있습니다.

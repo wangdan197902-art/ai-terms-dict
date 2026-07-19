@@ -1,23 +1,23 @@
 ---
-title: "การประมาณค่าความเหมาะสม (Fitness Approximation)"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: การประมาณค่าความเหมาะสม (Fitness Approximation)
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /th/terms/fitness_approximation/
-date: "2026-07-18T15:53:55.765408Z"
-lastmod: "2026-07-18T16:38:07.606801Z"
+slug: fitness_approximation
+date: '2026-07-18T15:53:55.765408Z'
+lastmod: '2026-07-18T16:38:07.606801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคในอัลกอริทึมวิวัฒนาการที่ใช้ประเมินคุณภาพของคำตอบเพื่อลดต้นทุนในการคำนวณระหว่างกระบวนการหาค่าที่เหมาะสมที่สุด"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคในอัลกอริทึมวิวัฒนาการที่ใช้ประเมินคุณภาพของคำตอบเพื่อลดต้นทุนในการคำนวณระหว่างกระบวนการหาค่าที่เหมาะสมที่สุด
 ---
-
 ## Definition
 
 การประมาณค่าความเหมาะสมถูกใช้ในวิทยาการคำนวณเชิงวิวัฒนาการ เมื่อการประเมินฟังก์ชันความเหมาะสมจริงมีค่าใช้จ่ายในการคำนวณสูงหรือใช้เวลานาน แทนที่จะคำนวณค่าที่แน่นอน จะใช้โมเดลตัวแทน (surrogate model) หรือวิธีการประมาณค่าอื่น ๆ เพื่อประเมินคุณภาพของโซลูชัน ซึ่งช่วยเร่งกระบวนการค้นหาผลลัพธ์ที่ดีที่สุด

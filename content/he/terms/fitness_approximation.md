@@ -1,23 +1,24 @@
 ---
-title: "אומדן כושר"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: אומדן כושר
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /he/terms/fitness_approximation/
-date: "2026-07-18T15:57:45.659421Z"
-lastmod: "2026-07-18T17:15:09.541072Z"
+slug: fitness_approximation
+date: '2026-07-18T15:57:45.659421Z'
+lastmod: '2026-07-18T17:15:09.541072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה באלגוריתמים אבולוציוניים המשמשת להערכת איכות הפתרון כדי להפחית עלויות חישוביות במהלך האופטימיזציה."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה באלגוריתמים אבולוציוניים המשמשת להערכת איכות הפתרון כדי להפחית
+  עלויות חישוביות במהלך האופטימיזציה.
 ---
-
 ## Definition
 
 אומדן כשר משמש בחישוב אבולוציוני כאשר הערכת פונקציית הכשר האמיתית יקרה או דורשת זמן רב לחישוב. במקום לחשב את הערך המדויק, משתמשים במודלים מקבילים.

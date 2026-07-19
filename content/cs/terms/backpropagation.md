@@ -1,23 +1,24 @@
 ---
-title: "Zpětná propagace"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: Zpětná propagace
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /cs/terms/backpropagation/
-date: "2026-07-18T15:22:32.703719Z"
-lastmod: "2026-07-18T17:15:09.061803Z"
+slug: backpropagation
+date: '2026-07-18T15:22:32.703719Z'
+lastmod: '2026-07-18T17:15:09.061803Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Široce používaný algoritmus pro trénování neuronových sítí výpočtem gradientů za účelem minimalizace chyby."
+source: agnes_llm
+status: published
+language: cs
+description: Široce používaný algoritmus pro trénování neuronových sítí výpočtem gradientů
+  za účelem minimalizace chyby.
 ---
-
 ## Definition
 
 Zpětná propagace (zkráceně zpětná propagace chyb) je metoda používaná v umělých neuronových sítích k výpočtu gradientu funkce ztráty vzhledem k vahám. Funguje tak, že šíří

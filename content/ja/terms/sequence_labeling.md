@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /ja/terms/sequence_labeling/
 date: "2026-07-18T11:31:59.766520Z"
 lastmod: "2026-07-18T11:44:45.143542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "入力のシーケンス内の各要素にラベルを割り当てる自然言語処理のタスク。"
 ---
-
 ## Definition
 
 シーケンスラベリングは、文の中の単語や文字列の中の文字など、与えられた入力シーケンス内のすべてのトークンに対してカテゴリカルなラベルを予測するプロセスです。一般的な用途には、品詞タグ付けや固有表現認識などが含まれます。

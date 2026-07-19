@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้เชิงลึก"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: การเรียนรู้เชิงลึก
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /th/terms/deep_learning/
-date: "2026-07-18T15:22:45.375432Z"
-lastmod: "2026-07-18T16:38:07.531609Z"
+slug: deep_learning
+date: '2026-07-18T15:22:45.375432Z'
+lastmod: '2026-07-18T16:38:07.531609Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลุ่มย่อยของการเรียนรู้ของเครื่องที่ใช้เครือข่ายประสาทเทียมหลายชั้นเพื่อสร้างแบบจำลองรูปแบบและความสัมพันธ์ที่ซับซ้อนในข้อมูล"
+source: agnes_llm
+status: published
+language: th
+description: กลุ่มย่อยของการเรียนรู้ของเครื่องที่ใช้เครือข่ายประสาทเทียมหลายชั้นเพื่อสร้างแบบจำลองรูปแบบและความสัมพันธ์ที่ซับซ้อนในข้อมูล
 ---
-
 ## Definition
 
 อัลกอริทึมการเรียนรู้เชิงลึกพยายามเลียนแบบกระบวนการวิเคราะห์และการเรียนรู้ของสมองมนุษย์ โดยการซ้อนเลเยอร์ของโหนดที่เชื่อมโยงกันหลายชั้น โมเดลเหล่านี้สามารถเรียนรู้ลักษณะเฉพาะแบบลำดับชั้นจากข้อมูลดิบได้อย่างมีประสิทธิภาพ

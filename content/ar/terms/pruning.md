@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /ar/terms/pruning/
 date: "2026-07-18T16:17:32.953139Z"
 lastmod: "2026-07-18T17:15:08.540021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية لضغط النموذج تزيل المعاملات الزائدة أو الأقل أهمية لتقليل الحجم وتحسين سرعة الاستدلال."
 ---
-
 ## Definition
 
 يتضمن التقليم تحديد وإزالة الخلايا العصبية، أو الاتصالات، أو المرشحات في الشبكة العصبية التي تساهم بأقل قدر في دقة المخرجات. بإزالة هذه العناصر الزائدة، يصبح النموذج

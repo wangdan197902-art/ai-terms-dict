@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /pl/terms/csm/
 date: "2026-07-18T15:48:10.675108Z"
 lastmod: "2026-07-18T17:15:08.858869Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Niejednoznaczny akronim, który zazwyczaj odnosi się do Kontekstowych Modelów Mowy lub Zarządzania Bezpieczeństwem Chmury w specyficznych domenach technicznych, nie mając uniwersalnej definicji w ogóln"
 ---
-
 ## Definition
 
 W kontekście sztucznej inteligencji i technologii 'CSM' nie jest terminem uniwersalnie standaryzowanym jak 'CNN' czy 'RNN'. Najczęściej oznacza Kontekstowe Modele Mowy w badaniach przetwarzania mowy, odnosząc się do...

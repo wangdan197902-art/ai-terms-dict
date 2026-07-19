@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /nl/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:10:59.550213Z"
 lastmod: "2026-07-18T17:15:08.773836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Open-source AI verwijst naar kunstmatige intelligentiesoftware, modellen en hulpmiddelen waarvan de broncode publiek beschikbaar is voor inspectie, wijziging en distributie."
 ---
-
 ## Definition
 
 Dit concept omvat het ecosysteem van AI-technologieën dat onder licenties wordt vrijgegeven die vrije toegang tot de onderliggende code toestaan. Het bevordert transparantie, samenwerking en innovatie door ontwikkelaars in staat te stellen.

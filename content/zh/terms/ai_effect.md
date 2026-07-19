@@ -1,23 +1,23 @@
 ---
-title: "AI效应"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: AI效应
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /zh/terms/ai_effect/
-date: "2026-07-18T11:03:04.565988Z"
-lastmod: "2026-07-18T11:44:45.434941Z"
+slug: ai_effect
+date: '2026-07-18T11:03:04.565988Z'
+lastmod: '2026-07-18T11:44:45.434941Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一旦任务被机器自动化，曾经被视为智能的任务便会被视为平凡无奇的现象。"
+source: agnes_llm
+status: published
+language: zh
+description: 一旦任务被机器自动化，曾经被视为智能的任务便会被视为平凡无奇的现象。
 ---
-
 ## Definition
 
 AI效应描述了构成“人工智能”的界限的不断变化。随着算法变得更加复杂并能够执行特定任务，这些任务往往会被重新归类为常规技术，而非真正的智能。

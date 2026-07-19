@@ -1,23 +1,24 @@
 ---
-title: "Распространение активации"
-term_id: "spreading_activation"
-category: "training_techniques"
-subcategory: ""
-tags: ["cognitive_ai", "networks", "activation"]
+title: Распространение активации
+term_id: spreading_activation
+category: training_techniques
+subcategory: ''
+tags:
+- Cognitive AI
+- networks
+- activation
 difficulty: 3
 weight: 1
-slug: "spreading_activation"
-aliases:
-  - /ru/terms/spreading_activation/
-date: "2026-07-18T16:16:52.436335Z"
-lastmod: "2026-07-18T16:38:07.204875Z"
+slug: spreading_activation
+date: '2026-07-18T16:16:52.436335Z'
+lastmod: '2026-07-18T16:38:07.204875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Когнитивный механизм, при котором активация одного узла запускает активацию связанных узлов в сети."
+source: agnes_llm
+status: published
+language: ru
+description: Когнитивный механизм, при котором активация одного узла запускает активацию
+  связанных узлов в сети.
 ---
-
 ## Definition
 
 Распространение активации — это концепция, изначально заимствованная из когнитивной психологии и адаптированная в нейронных сетях для описания распространения сигнала через взаимосвязанные единицы. Когда конкретный узел активируется, сигнал передается по связям к соседним узлам, усиливая их состояние активации пропорционально силе связи. Этот процесс лежит в основе ассоциативной памяти и семантических сетей.

@@ -1,23 +1,24 @@
 ---
-title: "Campo Casuale Condizionale"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Campo Casuale Condizionale
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /it/terms/conditional_random_field/
-date: "2026-07-18T15:52:32.441533Z"
-lastmod: "2026-07-18T17:15:08.609208Z"
+slug: conditional_random_field
+date: '2026-07-18T15:52:32.441533Z'
+lastmod: '2026-07-18T17:15:08.609208Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un Campo Casuale Condizionale è un modello probabilistico discriminativo utilizzato per compiti di previsione strutturata come l'etichettatura di sequenze."
+source: agnes_llm
+status: published
+language: it
+description: Un Campo Casuale Condizionale è un modello probabilistico discriminativo
+  utilizzato per compiti di previsione strutturata come l'etichettatura di sequenze.
 ---
-
 ## Definition
 
 I Campi Casuali Condizionali (CRF) sono una classe di modelli discriminativi comunemente utilizzati nell'elaborazione del linguaggio naturale e nella bioinformatica. A differenza dei modelli generativi, i CRF modellano direttamente la probabilità condizionata della sequenza di etichette dato l'input, migliorando l'accuratezza nelle dipendenze sequenziali.

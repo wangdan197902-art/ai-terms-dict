@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /ko/terms/bert/
 date: "2026-07-18T15:43:45.408320Z"
 lastmod: "2026-07-18T16:38:06.814064Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "양방향 인코더 표현(Transformer)은 사전 훈련된 자연어 처리 모델입니다."
 ---
-
 ## Definition
 
 BERT는 구글이 개발한 Transformer 기반의 NLP 사전 훈련 기계 학습 기법입니다. 마스킹 언어 모델링과 다음 문장 예측을 사용하여 양방향 표현을 학습합니다.

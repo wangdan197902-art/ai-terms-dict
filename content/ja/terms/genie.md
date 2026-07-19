@@ -1,23 +1,23 @@
 ---
-title: "Genie"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: Genie
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /ja/terms/genie/
-date: "2026-07-18T11:16:08.630142Z"
-lastmod: "2026-07-18T11:44:45.101278Z"
+slug: genie
+date: '2026-07-18T11:16:08.630142Z'
+lastmod: '2026-07-18T11:44:45.101278Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "テキストまたは視覚的な入力に基づいて動画の未来フレームを予測する、特にGoogleのGenieとして知られる特定の動画生成モデルクラス。"
+source: agnes_llm
+status: published
+language: ja
+description: テキストまたは視覚的な入力に基づいて動画の未来フレームを予測する、特にGoogleのGenieとして知られる特定の動画生成モデルクラス。
 ---
-
 ## Definition
 
 Genieは、動画の合成のために特別に設計された生成モデルファミリーを指します。Google DeepMindの研究者らによって開発されたこれらのモデルは、一貫性のある動画シーケンスを生成することを目指しています。従来の動画生成モデルが逐次的にフレームを生成するのに対し、Genieは環境モデルとして機能し、アクションに基づいて次のフレームを予測することで、インタラクティブな動画生成を実現します。

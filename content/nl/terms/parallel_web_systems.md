@@ -1,23 +1,24 @@
 ---
-title: "Parallelle Websystemen"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: Parallelle Websystemen
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /nl/terms/parallel_web_systems/
-date: "2026-07-18T16:11:43.531982Z"
-lastmod: "2026-07-18T17:15:08.775187Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:11:43.531982Z'
+lastmod: '2026-07-18T17:15:08.775187Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Gedistribueerde computerarchitecturen die gebruikmaken van gelijktijdige verwerking over meerdere knooppunten om web-schaalwerklasten efficiënt af te handelen."
+source: agnes_llm
+status: published
+language: nl
+description: Gedistribueerde computerarchitecturen die gebruikmaken van gelijktijdige
+  verwerking over meerdere knooppunten om web-schaalwerklasten efficiënt af te handelen.
 ---
-
 ## Definition
 
 Parallelle Websystemen verwijzen naar infrastructuurontwerpen waarbij rekenkundige taken worden verdeeld en gelijktijdig worden uitgevoerd op meerdere servers of processoren die via een netwerk zijn verbonden. Deze aanpak zorgt voor...

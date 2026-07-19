@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /id/terms/united_states_tech_force/
 date: "2026-07-18T16:12:33.764141Z"
 lastmod: "2026-07-18T16:38:07.517328Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Istilah demografis dan ekonomi yang merujuk pada angkatan kerja kolektif yang mendorong inovasi teknologi di AS."
 ---
-
 ## Definition
 
 Istilah 'Tenaga Kerja Teknologi Amerika Serikat' umumnya menandakan segmen besar pasar tenaga kerja Amerika yang bekerja di sektor teknologi, termasuk rekayasa perangkat lunak, ilmu data, manufaktur perangkat keras...

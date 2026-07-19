@@ -1,23 +1,24 @@
 ---
-title: "Finjustert"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Finjustert
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /no/terms/finetuned/
-date: "2026-07-18T15:54:45.366634Z"
-lastmod: "2026-07-18T16:38:07.001342Z"
+slug: finetuned
+date: '2026-07-18T15:54:45.366634Z'
+lastmod: '2026-07-18T16:38:07.001342Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å videreutdanne en forhåndstrent modell på et spesifikt datasett for å tilpasse den til en bestemt oppgave."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å videreutdanne en forhåndstrent modell på et spesifikt
+  datasett for å tilpasse den til en bestemt oppgave.
 ---
-
 ## Definition
 
 Finjustering refererer til teknikken å ta en modell som allerede er trent på et stort, generelt datasett og fortsette treningen på et mindre, domenespesifikt datasett. Dette lar modellen tilpasse seg.

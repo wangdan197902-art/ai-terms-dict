@@ -1,23 +1,23 @@
 ---
-title: "多変量適応回帰スプライン"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: 多変量適応回帰スプライン
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /ja/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T11:25:08.196903Z"
-lastmod: "2026-07-18T11:44:45.125573Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T11:25:08.196903Z'
+lastmod: '2026-07-18T11:44:45.125573Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "複雑な関係をモデル化するために基底関数を自動的に選択する非パラメトリック回帰手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 複雑な関係をモデル化するために基底関数を自動的に選択する非パラメトリック回帰手法。
 ---
-
 ## Definition
 
 多変量適応回帰スプライン（MARS）は、片直線の基底関数を適合させることで複雑な非線形関係をモデル化する柔軟な回帰手法です。これは、局所的な構造を捉えるために最適な節点（knots）を自動的に選択します。

@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /no/terms/large_language_models/
 date: "2026-07-18T15:27:26.350401Z"
 lastmod: "2026-07-18T16:38:06.939774Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Paradigmet for å bruke skalerte nevrale nettverk til bredspektret naturlig språkforståelse og generering."
 ---
-
 ## Definition
 
 Dette begrepet refererer til det bredere applikasjonsparadigmet der modeller med milliarder av parametere utnyttes for null-skudd eller få-skudd-læring på tvers av ulike språklige oppgaver. I motsetning til spesialiserte modeller

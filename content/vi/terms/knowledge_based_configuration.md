@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /vi/terms/knowledge_based_configuration/
 date: "2026-07-18T15:59:24.068493Z"
 lastmod: "2026-07-18T16:38:07.773452Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một quy trình tự động sử dụng cơ sở tri thức chuyên ngành để tạo ra các cấu hình sản phẩm hợp lệ từ các ràng buộc của người dùng."
 ---
-
 ## Definition
 
 Phương pháp này áp dụng các kỹ thuật thỏa mãn ràng buộc trong một cơ sở tri thức để đảm bảo rằng các sản phẩm được lắp ráp đáp ứng tất cả các yêu cầu kỹ thuật và nhu cầu của khách hàng. Nó ngăn ngừa các tổ hợp không hợp lệ bằng cách mã hóa các quy tắc và hạn chế của lĩnh vực.

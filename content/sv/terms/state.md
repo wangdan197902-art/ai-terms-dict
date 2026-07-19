@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /sv/terms/state/
 date: "2026-07-18T15:31:19.078234Z"
 lastmod: "2026-07-18T17:15:08.952405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den fullständiga konfigurationen hos ett system eller agens vid en specifik tidpunkt."
 ---
-
 ## Definition
 
 Ett tillstånd representerar all relevant information som krävs för att bestämma framtida beteende i system som Markovbeslutsprocesser (MDP). Inom förstärkningsinlärning sammanfattar tillståndet omgivningens aktuella läge.

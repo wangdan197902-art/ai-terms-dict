@@ -1,23 +1,24 @@
 ---
-title: "Positional Encoding"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Positional Encoding
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /en/terms/positional_encoding/
-date: "2026-07-18T09:42:48.751671Z"
-lastmod: "2026-07-18T11:44:44.629349Z"
+slug: positional_encoding
+date: '2026-07-18T09:42:48.751671Z'
+lastmod: '2026-07-18T11:44:44.629349Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A technique that injects information about the relative or absolute position of tokens in a sequence into transformer models."
+source: agnes_llm
+status: published
+language: en
+description: A technique that injects information about the relative or absolute position
+  of tokens in a sequence into transformer models.
 ---
-
 ## Definition
 
 Since transformers process all tokens in parallel rather than sequentially like RNNs, they lack inherent knowledge of token order. Positional encoding adds specific vectors to input embeddings to preserve sequence information. Common methods include sinusoidal functions learned during training or learned embeddings. This allows the self-attention mechanism to weigh the importance of different tokens based on their position, enabling the model to understand syntax and context effectively.

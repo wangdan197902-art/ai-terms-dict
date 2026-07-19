@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /pl/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:52:05.148785Z"
-lastmod: "2026-07-18T17:15:08.867472Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:52:05.148785Z'
+lastmod: '2026-07-18T17:15:08.867472Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Potok dla Stable Diffusion XL (SDXL), oferujący wyższą rozdzielczość, detale i zgodność z poleceniami w porównaniu do poprzednich wersji."
+source: agnes_llm
+status: published
+language: pl
+description: Potok dla Stable Diffusion XL (SDXL), oferujący wyższą rozdzielczość,
+  detale i zgodność z poleceniami w porównaniu do poprzednich wersji.
 ---
-
 ## Definition
 
 Ten potok implementuje architekturę Stable Diffusion XL, która wykorzystuje udoskonalony model bazowy i model refiner do produkcji obrazów w wysokiej rozdzielczości (1024x1024) z doskonałymi detalami i kompozycją. Wykorzystuje...

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /pt/terms/benchmark/
 date: "2026-07-18T14:33:24.616909Z"
 lastmod: "2026-07-18T15:51:59.425782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um ponto de referência padrão ou métrica usada para avaliar o desempenho de modelos de IA contra linhas de base estabelecidas."
 ---
-
 ## Definition
 
 Em inteligência artificial, um benchmark é um conjunto de testes ou conjunto de dados padronizado projetado para medir as capacidades de modelos de aprendizado de máquina. Ele fornece um quadro consistente para comparar dife

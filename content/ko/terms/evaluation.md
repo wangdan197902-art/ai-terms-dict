@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /ko/terms/evaluation/
 date: "2026-07-18T15:24:13.627710Z"
 lastmod: "2026-07-18T16:38:06.772845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "평가는 미리 정의된 지표와 데이터셋을 기준으로 AI 모델의 성능, 정확도 및 강건성을 측정하는 과정입니다."
 ---
-
 ## Definition
 
 평가는 정량적 지표(예: 정확도, F1 점수, BLEU 점수)와 정성적 평가를 사용하여 AI 모델이 특정 작업에서 얼마나 잘 수행되는지를 체계적으로 측정하는 것을 포함합니다. 여기에는 검증 세트(Validation Set)를 통한 과적합 방지 확인, 일반화 능력 테스트, 그리고 모델의 실용적 유용성 검증이 포함됩니다.

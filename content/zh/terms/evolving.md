@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /zh/terms/evolving/
 date: "2026-07-18T10:51:07.845946Z"
 lastmod: "2026-07-18T11:44:45.367016Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "描述通过新数据或反馈持续适应和改进的人工智能系统或算法。"
 ---
-
 ## Definition
 
 “演进”一词描述了动态的人工智能模型，这些模型经历持续的学习和适应，而不是在初始训练后保持静态。这一概念是终身学习和在线学习系统的核心。

@@ -1,23 +1,23 @@
 ---
-title: "マシンパーセプション"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: マシンパーセプション
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /ja/terms/machine_perception/
-date: "2026-07-18T11:23:07.592727Z"
-lastmod: "2026-07-18T11:44:45.119764Z"
+slug: machine_perception
+date: '2026-07-18T11:23:07.592727Z'
+lastmod: '2026-07-18T11:44:45.119764Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "マシンパーセプションとは、人工知能システムが画像、音声、またはセンサー読み取り値などの環境からの感覚データを解釈し理解する能力を指します。"
+source: agnes_llm
+status: published
+language: ja
+description: マシンパーセプションとは、人工知能システムが画像、音声、またはセンサー読み取り値などの環境からの感覚データを解釈し理解する能力を指します。
 ---
-
 ## Definition
 
 これは、生センサー入力と意味のある意味的解釈の間のギャップを埋め、視覚や聴覚のような人間の感覚を模倣します。主要な技術には、物体認識のためのコンピュータビジョン、スピー

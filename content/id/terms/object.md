@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /id/terms/object/
 date: "2026-07-18T15:27:51.902538Z"
 lastmod: "2026-07-18T16:38:07.398571Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Entitas terpisah dalam program yang berisi data dan metode untuk memanipulasi data tersebut, yang menjadi pusat pemrograman berorientasi objek."
 ---
-
 ## Definition
 
 Objek adalah konsep dasar dalam ilmu komputer, khususnya dalam pemrograman berorientasi objek (OOP). Objek mewakili instans dari sebuah kelas, yang mengenkapsulasi baik keadaan (atribut atau data) maupun perilaku (metode) dari entitas tersebut.

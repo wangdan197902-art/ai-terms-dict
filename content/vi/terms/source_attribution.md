@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /vi/terms/source_attribution/
 date: "2026-07-18T16:12:29.121473Z"
 lastmod: "2026-07-18T16:38:07.806238Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình xác định và ghi nhận công lao của các nhà sáng tạo hoặc tập dữ liệu gốc được sử dụng để tạo ra nội dung hoặc thông tin cụ thể."
 ---
-
 ## Definition
 
 Gán nguồn đề cập đến việc theo dõi và gắn nhãn hệ thống các nguồn gốc của dữ liệu, mô hình hoặc đầu ra được tạo ra trong các hệ thống AI. Nó đảm bảo tính minh bạch bằng cách liên kết kết quả cuối cùng với nguồn gốc ban đầu của chúng.

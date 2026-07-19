@@ -1,23 +1,25 @@
 ---
-title: "Odaklı / Yönlendirilmiş"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Odaklı / Yönlendirilmiş
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /tr/terms/driven/
-date: "2026-07-18T15:24:28.669477Z"
-lastmod: "2026-07-18T16:38:07.230468Z"
+slug: driven
+date: '2026-07-18T15:24:28.669477Z'
+lastmod: '2026-07-18T16:38:07.230468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Odaklı, karar verme veya model mimarisinin öncelikle belirli bir girdi türü (veri veya hedefler gibi) tarafından yönlendirildiği yapay zeka sistemlerini veya metodolojilerini tanımlar."
+source: agnes_llm
+status: published
+language: tr
+description: Odaklı, karar verme veya model mimarisinin öncelikle belirli bir girdi
+  türü (veri veya hedefler gibi) tarafından yönlendirildiği yapay zeka sistemlerini
+  veya metodolojilerini tanımlar.
 ---
-
 ## Definition
 
 'Odaklı' terimi, genellikle bir yapay zeka yaklaşımının arkasındaki temel gücü veya mekanizmayı belirtmek için sonek olarak kullanılır. Örneğin, 'veri odaklı', kararların istatistiksel kalıplara dayanarak alındığını ima eder.

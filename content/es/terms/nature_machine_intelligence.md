@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /es/terms/nature_machine_intelligence/
 date: "2026-07-18T11:01:53.634176Z"
 lastmod: "2026-07-18T11:44:44.836172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una revista científica revisada por pares publicada por Springer Nature centrada en la investigación interdisciplinaria en inteligencia artificial."
 ---
-
 ## Definition
 
 Nature Machine Intelligence es una revista académica de alto impacto dedicada a publicar investigaciones originales sobre todos los aspectos de la inteligencia artificial. Cubre temas que van desde algoritmos fundamentales hasta implicaciones éticas y sociales, fomentando la colaboración entre disciplinas como la informática, la biología y las ciencias sociales.

@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /ja/terms/artificial_reproduction/
 date: "2026-07-18T11:04:34.622049Z"
 lastmod: "2026-07-18T11:44:45.069479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "生物学的な生殖過程を補助または複製するために、バイオテクノロジーとAIを使用すること。主に医学や農業で行われる。"
 ---
-
 ## Definition
 
 人工生殖は、直接的な性交渉なしに生物学的な生殖を促進または複製する技術を包含し、最適化のためにテクノロジー、特にAIを積極的に活用します。これは医療現場や農業分野において重要な役割を果たしています。

@@ -1,23 +1,23 @@
 ---
-title: "Phi-együttható"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Phi-együttható
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /hu/terms/phi_coefficient/
-date: "2026-07-18T16:18:20.876314Z"
-lastmod: "2026-07-18T17:15:09.822641Z"
+slug: phi_coefficient
+date: '2026-07-18T16:18:20.876314Z'
+lastmod: '2026-07-18T17:15:09.822641Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Két bináris változó közötti asszociáció statisztikai mértéke."
+source: agnes_llm
+status: published
+language: hu
+description: Két bináris változó közötti asszociáció statisztikai mértéke.
 ---
-
 ## Definition
 
 A phi-együttható (φ) két bináris változó közötti asszociációt mérő mutató, amely a dichotóm változók esetén a Pearson-korrelációs együttható szerepét tölti be. Értéke -1 és +1 között mozog, ahol a 0 az összefüggés hiányát jelzi.

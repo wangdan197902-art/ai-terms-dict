@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /vi/terms/mechanistic_interpretability/
 date: "2026-07-18T16:02:50.908140Z"
 lastmod: "2026-07-18T16:38:07.781278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp tiếp cận để hiểu các mô hình AI bằng cách phân tích các thành phần và cơ chế bên trong thay vì chỉ xem xét hành vi đầu vào-đầu ra."
 ---
-
 ## Definition
 
 Giải thích cơ chế tập trung vào việc 'đảo ngược kỹ thuật' các mạng nơ-ron để hiểu cách chúng tính toán các hàm cụ thể ở cấp độ từng nơ-ron, trọng số và mạch thần kinh. Thay vì coi mô hình như một hộp đen, phương pháp này cố gắng ánh xạ trực tiếp các cấu trúc nội bộ của mô hình với các khái niệm hoặc đặc trưng có ý nghĩa đối với con người, từ đó cung cấp khả năng giải thích rõ ràng hơn về cách mô hình đưa ra quyết định.

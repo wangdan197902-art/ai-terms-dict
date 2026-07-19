@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /pl/terms/agent/
 date: "2026-07-18T15:22:22.749364Z"
 lastmod: "2026-07-18T17:15:08.804832Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "System AI zdolny do postrzegania środowiska, rozumowania i podejmowania działań w celu osiągnięcia określonych celów autonomicznie."
 ---
-
 ## Definition
 
 W sztucznej inteligencji agentem jest podmiot działający w imieniu użytkownika lub systemu w celu wykonania zadań. W przeciwieństwie do pasywnych modeli reagujących tylko na prompty, agenci mogą planować, korzystać z narzędzi i iteracyjnie doskonalić swoje działania.

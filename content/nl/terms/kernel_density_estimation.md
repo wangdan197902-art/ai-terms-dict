@@ -1,23 +1,24 @@
 ---
-title: "Kernel density estimation"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Kernel density estimation
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /nl/terms/kernel_density_estimation/
-date: "2026-07-18T16:01:18.448981Z"
-lastmod: "2026-07-18T17:15:08.758027Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:01:18.448981Z'
+lastmod: '2026-07-18T17:15:08.758027Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een niet-parametrische methode om de waarschijnlijkheidsdichtheidsfunctie van een willekeurige variabele te schatten op basis van een eindige steekproef."
+source: agnes_llm
+status: published
+language: nl
+description: Een niet-parametrische methode om de waarschijnlijkheidsdichtheidsfunctie
+  van een willekeurige variabele te schatten op basis van een eindige steekproef.
 ---
-
 ## Definition
 
 Kernel Density Estimation (KDE) is een fundamentele statistische techniek die discrete gegevenspunten gladstrijkt om een continue waarschijnlijkheidsdistributiekromme te creëren. Het plaatst een kernfunctie, meestal een G

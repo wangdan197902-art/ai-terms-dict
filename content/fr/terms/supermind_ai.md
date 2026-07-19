@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /fr/terms/supermind_ai/
 date: "2026-07-18T11:40:12.277008Z"
 lastmod: "2026-07-18T11:44:45.339304Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une architecture ou un système d'IA conçu pour intégrer plusieurs agents intelligents ou modèles en une entité cognitive unifiée et améliorée, capable de résoudre des problèmes supérieurs."
 ---
-
 ## Definition
 
 Le Supermind IA désigne les systèmes où plusieurs composants d'IA, des experts humains ou des équipes hybrides humain-IA collaborent de manière transparente pour former une intelligence collective dépassant les capacités de tout individu isolé.

@@ -1,23 +1,24 @@
 ---
-title: "Aprendizado Contínuo"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Aprendizado Contínuo
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /pt/terms/continual_learning/
-date: "2026-07-18T14:54:18.106844Z"
-lastmod: "2026-07-18T15:51:59.474397Z"
+slug: continual_learning
+date: '2026-07-18T14:54:18.106844Z'
+lastmod: '2026-07-18T15:51:59.474397Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um paradigma de aprendizado de máquina no qual os modelos aprendem sequencialmente a partir de novos dados sem esquecer o conhecimento anterior."
+source: agnes_llm
+status: published
+language: pt
+description: Um paradigma de aprendizado de máquina no qual os modelos aprendem sequencialmente
+  a partir de novos dados sem esquecer o conhecimento anterior.
 ---
-
 ## Definition
 
 O aprendizado contínuo, também conhecido como aprendizado ao longo da vida, permite que redes neurais adquiram novas habilidades ou informações ao longo do tempo, mantendo as capacidades previamente aprendidas. Isso aborda o 'catástrof

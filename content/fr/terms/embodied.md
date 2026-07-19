@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /fr/terms/embodied/
 date: "2026-07-18T10:49:56.619052Z"
 lastmod: "2026-07-18T11:44:45.161672Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'IA incarnée fait référence aux systèmes intelligents qui interagissent avec le monde physique par l'intermédiaire de capteurs et d'actionneurs au sein d'un corps."
 ---
-
 ## Definition
 
 L'IA incarnée postule que l'intelligence émerge de l'interaction entre la forme physique d'un agent et son environnement. Contrairement à l'IA déincarnée qui traite des données abstraites, les agents incarnés utilisent des capteurs 

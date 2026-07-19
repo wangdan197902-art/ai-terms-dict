@@ -1,23 +1,24 @@
 ---
-title: "Feature hashing"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Feature hashing
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /vi/terms/feature_hashing/
-date: "2026-07-18T15:53:20.659749Z"
-lastmod: "2026-07-18T16:38:07.757212Z"
+slug: feature_hashing
+date: '2026-07-18T15:53:20.659749Z'
+lastmod: '2026-07-18T16:38:07.757212Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật ánh xạ các đặc trưng thưa thớt có chiều cao thành một vectơ kích thước cố định bằng cách sử dụng hàm băm."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật ánh xạ các đặc trưng thưa thớt có chiều cao thành một vectơ
+  kích thước cố định bằng cách sử dụng hàm băm.
 ---
-
 ## Definition
 
 Feature hashing, còn được gọi là thủ thuật băm (hashing trick), cho phép các mô hình học máy xử lý không gian đặc trưng lớn và thưa thớt mà không cần duy trì ánh xạ tường minh giữa các đặc trưng và chỉ mục. Bằng cách áp dụng...

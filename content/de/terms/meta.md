@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /de/terms/meta/
 date: "2026-07-18T11:23:29.657618Z"
 lastmod: "2026-07-18T11:44:44.964303Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Im Kontext der KI bezeichnet 'Meta' typischerweise das Lernen über das Lernen oder höherstufige Prozesse, die die Anpassung und Optimierung von Modellen steuern."
 ---
-
 ## Definition
 
 Das Präfix 'Meta' in der künstlichen Intelligenz bezeichnet eine höhere Abstraktionsebene, die oft Selbstreferenz oder die Aufsicht über Kernprozesse beinhaltet. Häufige Beispiele sind 'Meta-Lernen', bei dem Algorithmen lernen, wie sie neue Aufgaben effizienter bewältigen können, indem sie aus früheren Erfahrungen profitieren, sowie die Steuerung von Optimierungsprozessen durch übergeordnete Parameter.

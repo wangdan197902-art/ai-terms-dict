@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /es/terms/polysemanticity/
 date: "2026-07-18T11:04:04.179002Z"
 lastmod: "2026-07-18T11:44:44.843598Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El fenómeno por el cual las neuronas individuales en redes neuronales responden a múltiples conceptos distintos."
 ---
-
 ## Definition
 
 La policromaticidad es una característica observada en redes neuronales profundas, particularmente en transformadores, donde una sola neurona puede activarse en respuesta a varios rasgos no relacionados o semánticamente distintos.

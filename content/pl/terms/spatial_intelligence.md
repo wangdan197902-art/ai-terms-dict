@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /pl/terms/spatial_intelligence/
 date: "2026-07-18T16:18:57.343803Z"
 lastmod: "2026-07-18T17:15:08.919682Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zdolność systemów sztucznej inteligencji do rozumienia, wnioskowania i nawigacji w środowiskach trójwymiarowych."
 ---
-
 ## Definition
 
 Inteligencja przestrzenna odnosi się do zdolności modeli sztucznej inteligencji do postrzegania, interpretowania i manipulowania relacjami przestrzennymi w środowiskach fizycznych lub wirtualnych. Obejmuje to zrozumienie...

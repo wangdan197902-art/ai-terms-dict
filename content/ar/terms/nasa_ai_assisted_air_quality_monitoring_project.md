@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /ar/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:14:09.701644Z"
 lastmod: "2026-07-18T17:15:08.531663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مبادرة تستخدم الذكاء الاصطناعي وبيانات الأقمار الصناعية لمراقبة والتنبؤ بأنماط جودة الهواء العالمية."
 ---
-
 ## Definition
 
 يستفيد هذا المشروع من بيانات مراقبة الأرض التابعة لناسا مقترنة بخوارزميات ذكاء اصطناعي متقدمة لتتبع الجسيمات العالقة والملوثات الغازية عالمياً. من خلال دمج الصور الفضائية مع البيانات الأرضية

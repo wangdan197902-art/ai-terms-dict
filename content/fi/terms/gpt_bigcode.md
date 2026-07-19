@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /fi/terms/gpt_bigcode/
 date: "2026-07-18T15:59:49.087895Z"
 lastmod: "2026-07-18T17:15:09.416233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Suurten kielimallien perhe, joka on erityisesti koulutettu koodin generointiin ja ymmärtämiseen BigCode-projektin toimesta."
 ---
-
 ## Definition
 
 GPT Bigcode, jota yhdistetään usein malleihin kuten StarCoder, edustaa merkittävää edistystä koodin avustamiseen tarkoitetussa tekoälyssä. Nämä mallit on esikoulutettu valtavista julkisista koodivarastoista ymmärtämään ohjelmointikieliä ja tuottamaan toimivaa koodia.

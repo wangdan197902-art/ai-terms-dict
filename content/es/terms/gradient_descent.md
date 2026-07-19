@@ -7,8 +7,6 @@ tags: ["Mathematics", "Training", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "gradient_descent"
-aliases:
-  - /es/terms/gradient_descent/
 date: "2026-07-18T10:30:42.621044Z"
 lastmod: "2026-07-18T11:44:44.763030Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un algoritmo de optimización iterativo utilizado para minimizar una función de pérdida ajustando los parámetros del modelo."
 ---
-
 ## Definition
 
 El descenso de gradiente es un algoritmo de optimización iterativo de primer orden para encontrar el mínimo local de una función diferenciable. En el aprendizaje automático, actualiza los pesos del modelo en dirección opuesta al gradiente de la función de pérdida.

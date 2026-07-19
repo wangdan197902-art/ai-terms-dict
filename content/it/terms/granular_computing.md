@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /it/terms/granular_computing/
 date: "2026-07-18T16:02:13.986956Z"
 lastmod: "2026-07-18T17:15:08.631204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il calcolo granulare è un paradigma che gestisce le informazioni a diversi livelli di astrazione, organizzando i dati in strutture significative chiamate granuli di informazione."
 ---
-
 ## Definition
 
 Questo approccio imita i processi cognitivi umani raggruppando i dati in entità di livello superiore o 'granuli' piuttosto che elaborare elementi singoli. Comprende tecniche come gli insiemi approssimati, la logica fuzzy

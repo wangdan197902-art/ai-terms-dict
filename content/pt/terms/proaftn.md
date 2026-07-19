@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /pt/terms/proaftn/
-date: "2026-07-18T15:17:51.877810Z"
-lastmod: "2026-07-18T15:51:59.523931Z"
+slug: proaftn
+date: '2026-07-18T15:17:51.877810Z'
+lastmod: '2026-07-18T15:51:59.523931Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Álgebra Relacional Probabilística para Redes de Séries Temporais Funcionais, um framework para modelar sistemas dinâmicos."
+source: agnes_llm
+status: published
+language: pt
+description: Álgebra Relacional Probabilística para Redes de Séries Temporais Funcionais,
+  um framework para modelar sistemas dinâmicos.
 ---
-
 ## Definition
 
 O Praftn é um framework computacional especializado projetado para lidar com dados de séries temporais funcionais dentro de estruturas relacionais. Ele combina raciocínio probabilístico com operações algébricas para modelar sistemas complexos e dinâmicos.

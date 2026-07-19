@@ -1,23 +1,25 @@
 ---
-title: "Δεδομένα: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Δεδομένα: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /el/terms/datasetwikipedia/
-date: "2026-07-18T16:01:20.673594Z"
-lastmod: "2026-07-18T17:15:09.898761Z"
+slug: datasetwikipedia
+date: '2026-07-18T16:01:20.673594Z'
+lastmod: '2026-07-18T17:15:09.898761Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η τεράστια συλλογή κειμένου από τη Wikipedia, η οποία λειτουργεί ως θεμελιώδες σώμα δεδομένων για την προ-εκπαίδευση γλωσσικών μοντέλων και εργασίες ΝΓ που απαιτούν γνώση."
+source: agnes_llm
+status: published
+language: el
+description: Η τεράστια συλλογή κειμένου από τη Wikipedia, η οποία λειτουργεί ως θεμελιώδες
+  σώμα δεδομένων για την προ-εκπαίδευση γλωσσικών μοντέλων και εργασίες ΝΓ που απαιτούν
+  γνώση.
 ---
-
 ## Definition
 
 Η Wikipedia είναι μία από τις μεγαλύτερες και πιο ολοκληρωμένες συλλογές ανθρώπινης γνώσης διαθέσιμη σε μορφή κειμένου. Στην Τεχνητή Νοημοσύνη, λειτουργεί ως πρωταρχική πηγή για την προ-εκπαίδευση μεγάλων γλωσσικών μοντέλων, παρέχοντας πλούσιο γλωσσικό και γνωστικό υπόβαθρο.

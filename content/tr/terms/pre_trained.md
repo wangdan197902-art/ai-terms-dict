@@ -1,23 +1,24 @@
 ---
-title: "ön eğitilmiş"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: ön eğitilmiş
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /tr/terms/pre_trained/
-date: "2026-07-18T15:33:03.771494Z"
-lastmod: "2026-07-18T16:38:07.252198Z"
+slug: pre_trained
+date: '2026-07-18T15:33:03.771494Z'
+lastmod: '2026-07-18T16:38:07.252198Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ön eğitilmiş modeller, belirli görevler için uyarlanmadan önce geniş özellikleri öğrenmek üzere büyük veri setlerinde eğitilmiş sinir ağlarıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Ön eğitilmiş modeller, belirli görevler için uyarlanmadan önce geniş
+  özellikleri öğrenmek üzere büyük veri setlerinde eğitilmiş sinir ağlarıdır.
 ---
-
 ## Definition
 
 Ön eğitilmiş bir model, Wikipedia veya ImageNet gibi devasa ve çeşitli veri setleri üzerinde kapsamlı bir şekilde eğitilmiş temel bir yapay zeka modelidir. Bu ilk eğitim, modelin geniş kapsamlı özellikleri öğrenmesini sağlar ve daha sonraki aşamalarda belirli görevlere hızlıca adapte edilmesine olanak tanır.

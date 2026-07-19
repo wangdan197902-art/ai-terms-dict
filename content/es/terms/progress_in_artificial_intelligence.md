@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /es/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T11:04:59.321421Z"
 lastmod: "2026-07-18T11:44:44.845770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El avance acumulativo de las capacidades de la IA mediante la investigación, el desarrollo y el despliegue de algoritmos y hardware cada vez más sofisticados."
 ---
-
 ## Definition
 
 Este término abarca la evolución histórica y continua de los sistemas de inteligencia artificial, marcando hitos desde la lógica simbólica temprana hasta el aprendizaje profundo moderno. Refleja las mejoras en la capacidad computacional y la complejidad algorítmica que han permitido a las máquinas realizar tareas que antes requerían inteligencia humana.

@@ -1,23 +1,24 @@
 ---
-title: "Cauzal"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Cauzal
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /ro/terms/causal/
-date: "2026-07-18T15:24:13.682117Z"
-lastmod: "2026-07-18T17:15:09.590600Z"
+slug: causal
+date: '2026-07-18T15:24:13.682117Z'
+lastmod: '2026-07-18T17:15:09.590600Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Inferența cauzală implică determinarea relațiilor de cauzalitate între variabile, nu doar identificarea corelațiilor statistice."
+source: agnes_llm
+status: published
+language: ro
+description: Inferența cauzală implică determinarea relațiilor de cauzalitate între
+  variabile, nu doar identificarea corelațiilor statistice.
 ---
-
 ## Definition
 
 În inteligența artificială, modelarea cauzală caută să înțeleagă cum intervențiile asupra unei variabile afectează o alta. Spre deosebire de modelele predictive care se bazează pe modele observate, IA cauzală utilizează ecuații structurale pentru a reprezenta legăturile cauzale.

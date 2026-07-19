@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /vi/terms/text_to_speech/
 date: "2026-07-18T16:14:26.420751Z"
 lastmod: "2026-07-18T16:38:07.811364Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chuyển đổi văn bản thành giọng nói (TTS) là công nghệ chuyển đổi văn bản viết thành giọng nói tự nhiên của con người."
 ---
-
 ## Definition
 
 Chuyển đổi văn bản thành giọng nói (TTS) là một loại công nghệ hỗ trợ đọc to văn bản kỹ thuật số cho người dùng. Nó sử dụng các mạng nơ-ron tiên tiến và mô hình âm học để tổng hợp giọng nói bắt chước ngữ điệu của con người.

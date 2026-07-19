@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /sv/terms/perceiver/
 date: "2026-07-18T16:13:12.537594Z"
 lastmod: "2026-07-18T17:15:09.035721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett system eller modul som ansvarar för att ta emot och tolka sensorisk indata från miljön."
 ---
-
 ## Definition
 
 Inom AI och kognitiv vetenskap syftar en perceptron på den komponent i ett intelligent system som bearbetar rå sensorisk data till meningsfull information. Till skillnad från enkla sensorer som bara upptäcker signaler, p

@@ -1,23 +1,23 @@
 ---
-title: "Wdrożenie: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Wdrożenie: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /pl/terms/deployazure/
-date: "2026-07-18T15:51:34.743096Z"
-lastmod: "2026-07-18T17:15:08.865906Z"
+slug: deployazure
+date: '2026-07-18T15:51:34.743096Z'
+lastmod: '2026-07-18T17:15:08.865906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces hostowania i uruchamiania modeli uczenia maszynowego na infrastrukturze chmurowej Microsoft Azure."
+source: agnes_llm
+status: published
+language: pl
+description: Proces hostowania i uruchamiania modeli uczenia maszynowego na infrastrukturze
+  chmurowej Microsoft Azure.
 ---
-
 ## Definition
 
 Wdrażanie modeli na platformie Azure obejmuje wykorzystanie natywnych dla chmury narzędzi, takich jak Azure Machine Learning, Azure Kubernetes Service (AKS) lub Azure Functions, w celu udostępniania modeli ML w skali produkcyjnej. Proces ten obejmuje zarządzanie zasobami obliczeniowymi, skalowaniem oraz monitorowaniem usług.

@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "governance"]
 difficulty: 2
 weight: 1
 slug: "trustworthy_ai"
-aliases:
-  - /no/terms/trustworthy_ai/
 date: "2026-07-18T16:19:33.807936Z"
 lastmod: "2026-07-18T16:38:07.055371Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Pålitelig AI refererer til kunstige intelligenssystemer som er trygge, sikre, gjennomsiktige, rettferdige og regnskapspliktige gjennom hele livssyklusen."
 ---
-
 ## Definition
 
 Pålitelig AI omfatter prinsipper og praksis som sikrer at AI-systemer opererer pålitelig og etisk. Nøkkelegenskaper inkluderer robusthet mot angrep, rettferdighet på tvers av ulike befolkningsgrupper, transparen...

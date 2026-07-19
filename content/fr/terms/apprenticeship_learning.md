@@ -1,23 +1,24 @@
 ---
-title: "Apprentissage par apprentissage assisté"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Apprentissage par apprentissage assisté
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /fr/terms/apprenticeship_learning/
-date: "2026-07-18T11:04:42.519716Z"
-lastmod: "2026-07-18T11:44:45.197333Z"
+slug: apprenticeship_learning
+date: '2026-07-18T11:04:42.519716Z'
+lastmod: '2026-07-18T11:44:45.197333Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une méthode d'apprentissage par renforcement où un agent apprend une politique en imitant les démonstrations d'un expert."
+source: agnes_llm
+status: published
+language: fr
+description: Une méthode d'apprentissage par renforcement où un agent apprend une
+  politique en imitant les démonstrations d'un expert.
 ---
-
 ## Definition
 
 L'apprentissage par apprentissage assisté, également connu sous le nom d'apprentissage par renforcement inverse à partir de démonstrations, permet aux agents d'acquérir des compétences en observant le comportement d'un expert plutôt que de s'appuyer uniquement sur des fonctions de récompense.

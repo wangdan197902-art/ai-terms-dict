@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /pl/terms/agentive_logic/
 date: "2026-07-18T15:39:16.056299Z"
 lastmod: "2026-07-18T17:15:08.843042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Logika agencji odnosi się do formalnych ram rozumowania używanych do modelowania intencji, celów i procesów podejmowania decyzji przez autonomiczne agenty."
 ---
-
 ## Definition
 
 Rozszerza ona tradycyjną logikę o aspekt agencji, pozwalając systemom reprezentować przekonania, pragnienia i intencje (modele BDI). Logika ta umożliwia agentom dynamiczne planowanie działań w oparciu o zmieniające się warunki.

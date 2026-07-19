@@ -1,23 +1,24 @@
 ---
-title: "Operazione Serenata de Amor"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Operazione Serenata de Amor
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /it/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:13:37.411683Z"
-lastmod: "2026-07-18T17:15:08.655485Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:13:37.411683Z'
+lastmod: '2026-07-18T17:15:08.655485Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un'iniziativa di civic tech che utilizza il machine learning per rilevare frodi nella spesa pubblica brasiliana."
+source: agnes_llm
+status: published
+language: it
+description: Un'iniziativa di civic tech che utilizza il machine learning per rilevare
+  frodi nella spesa pubblica brasiliana.
 ---
-
 ## Definition
 
 L'Operazione Serenata de Amor è un progetto pionieristico open source che applica l'intelligenza artificiale per analizzare i dati degli appalti pubblici in Brasile. Utilizzando l'elaborazione del linguaggio naturale e il rilevamento delle anomalie...

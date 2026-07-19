@@ -1,23 +1,24 @@
 ---
-title: "情境化的"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: 情境化的
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /zh/terms/situated/
-date: "2026-07-18T11:34:08.558167Z"
-lastmod: "2026-07-18T11:44:45.554192Z"
+slug: situated
+date: '2026-07-18T11:34:08.558167Z'
+lastmod: '2026-07-18T11:44:45.554192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "描述在特定的物理、社会或环境背景中运行并适应这些背景的AI系统或智能体。"
+source: agnes_llm
+status: published
+language: zh
+description: 描述在特定的物理、社会或环境背景中运行并适应这些背景的AI系统或智能体。
 ---
-
 ## Definition
 
 在人工智能中，“情境化的”指的是嵌入环境中并能与其进行实时交互的智能体。与抽象的问题解决者不同，情境化智能体必须处理感官输入...

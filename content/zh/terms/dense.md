@@ -1,23 +1,22 @@
 ---
-title: "稠密层"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: 稠密层
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /zh/terms/dense/
-date: "2026-07-18T11:14:15.624765Z"
-lastmod: "2026-07-18T11:44:45.486703Z"
+slug: dense
+date: '2026-07-18T11:14:15.624765Z'
+lastmod: '2026-07-18T11:44:45.486703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种层或张量，其中每个元素都与前一层或维度的每个元素相连。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种层或张量，其中每个元素都与前一层或维度的每个元素相连。
 ---
-
 ## Definition
 
 在神经网络中，“稠密”指的是全连接层，其中每个神经元都接收来自前一层所有神经元的输入。这与卷积层或稀疏连接中常见的稀疏连接形成对比。

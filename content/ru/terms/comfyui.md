@@ -1,23 +1,24 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /ru/terms/comfyui/
-date: "2026-07-18T15:45:29.668782Z"
-lastmod: "2026-07-18T16:38:07.131543Z"
+slug: comfyui
+date: '2026-07-18T15:45:29.668782Z'
+lastmod: '2026-07-18T16:38:07.131543Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Графический пользовательский интерфейс на основе узлов для Stable Diffusion, позволяющий создавать сложные рабочие процессы и тонко настраивать генерацию изображений."
+source: agnes_llm
+status: published
+language: ru
+description: Графический пользовательский интерфейс на основе узлов для Stable Diffusion,
+  позволяющий создавать сложные рабочие процессы и тонко настраивать генерацию изображений.
 ---
-
 ## Definition
 
 ComfyUI — это мощный, модульный графический интерфейс на основе узлов для моделей Stable Diffusion. В отличие от традиционных интерфейсов с линейными рабочими процессами, ComfyUI позволяет пользователям строить собственные конвейеры обработки данных путем соединения различных узлов, что обеспечивает гибкость и контроль над каждым этапом генерации изображения.

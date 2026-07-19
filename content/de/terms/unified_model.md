@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /de/terms/unified_model/
 date: "2026-07-18T11:37:24.201109Z"
 lastmod: "2026-07-18T11:44:44.997031Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine KI-Architektur, die darauf ausgelegt ist, mehrere Aufgaben oder Modalitäten innerhalb eines einzigen Rahmens zu bewältigen."
 ---
-
 ## Definition
 
 Ein vereintes Modell bezeichnet ein künstliches Intelligenzsystem, das verschiedene unterscheidbare Aufgaben – wie Textgenerierung, Bilderkennung und Code-Synthese – ausführen kann, ohne separate, spezialisierte Modelle zu erfordern.

@@ -1,23 +1,24 @@
 ---
-title: "Función de predictor lineal"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Función de predictor lineal
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /es/terms/linear_predictor_function/
-date: "2026-07-18T10:57:52.028833Z"
-lastmod: "2026-07-18T11:44:44.826222Z"
+slug: linear_predictor_function
+date: '2026-07-18T10:57:52.028833Z'
+lastmod: '2026-07-18T11:44:44.826222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una función matemática que calcula una combinación lineal de variables de entrada para predecir un resultado."
+source: agnes_llm
+status: published
+language: es
+description: Una función matemática que calcula una combinación lineal de variables
+  de entrada para predecir un resultado.
 ---
-
 ## Definition
 
 En el modelado estadístico y el aprendizaje automático, una función de predictor lineal representa la suma ponderada de las características de entrada más un término de sesgo. Sirve como componente central en los modelos lineales generalizados (GLM).

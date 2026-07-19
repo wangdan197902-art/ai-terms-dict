@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /de/terms/agent/
 date: "2026-07-18T07:40:21.074398Z"
 lastmod: "2026-07-18T11:44:44.582804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein KI-System, das in der Lage ist, seine Umgebung wahrzunehmen, zu reasoned und Maßnahmen zu ergreifen, um spezifische Ziele autonom zu erreichen."
 ---
-
 ## Definition
 
 In der KI ist ein Agent eine Entität, die im Auftrag eines Benutzers oder Systems handelt, um Aufgaben zu erledigen. Im Gegensatz zu passiven Modellen, die nur auf Prompts reagieren, können Agenten planen, Werkzeuge nutzen und ihre Aktionen iterativ anpassen.

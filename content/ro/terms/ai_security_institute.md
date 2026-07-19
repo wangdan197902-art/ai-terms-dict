@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /ro/terms/ai_security_institute/
 date: "2026-07-18T15:40:06.487738Z"
 lastmod: "2026-07-18T17:15:09.621557Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O organizație dedicată cercetării, dezvoltării și promovării celor mai bune practici pentru securizarea sistemelor de inteligență artificială."
 ---
-
 ## Definition
 
 Un Institut de Securitate AI este o entitate specializată concentrată pe atenuarea riscurilor asociate tehnologiilor de inteligență artificială. Aceste institute efectuează cercetări privind atacurile adversare, confidențialitatea datelor...

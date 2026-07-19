@@ -1,23 +1,24 @@
 ---
-title: "Učení modelu akcí"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Učení modelu akcí
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /cs/terms/action_model_learning/
-date: "2026-07-18T15:40:46.308228Z"
-lastmod: "2026-07-18T17:15:09.098914Z"
+slug: action_model_learning
+date: '2026-07-18T15:40:46.308228Z'
+lastmod: '2026-07-18T17:15:09.098914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika učení s posilováním, kde agent učí dynamiku svého prostředí pozorováním účinků vlastních akcí."
+source: agnes_llm
+status: published
+language: cs
+description: Technika učení s posilováním, kde agent učí dynamiku svého prostředí
+  pozorováním účinků vlastních akcí.
 ---
-
 ## Definition
 
 Učení modelu akcí zahrnuje konstruování interní reprezentace toho, jak akce agenta přenášejí prostředí z jednoho stavu do druhého. Na rozdíl od pasivního pozorování tato metoda využívá

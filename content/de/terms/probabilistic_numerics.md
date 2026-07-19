@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /de/terms/probabilistic_numerics/
 date: "2026-07-18T11:28:15.998137Z"
 lastmod: "2026-07-18T11:44:44.977092Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Forschungsfeld, das numerische Berechnungsprobleme als statistische Inferenzaufgaben behandelt, um Unsicherheiten in den Ergebnissen zu quantifizieren."
 ---
-
 ## Definition
 
 Die probabilistische Numerik wendet bayessche Methoden auf traditionelle numerische Probleme wie Integration, Differentiation und lineare Algebra an. Anstatt Punktschätzer bereitzustellen, gibt sie Wahrscheinlichkeitsverteilungen aus, die die verbleibende Unsicherheit nach der Berechnung widerspiegeln.

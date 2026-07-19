@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /sv/terms/nso/
 date: "2026-07-18T16:12:00.750223Z"
 lastmod: "2026-07-18T17:15:09.032484Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inom AI-sammanhang syftar NSO ofta på Neural Symbolic Optimization eller specifika organisationer som NSO Group, verksamma inom övertagnings teknologi."
 ---
-
 ## Definition
 
 Förkortningen NSO kan ha flera betydelser beroende på sammanhang. Inom teknisk AI-forskning kan det syfta på Neural Symbolic Optimization, vilket kombinerar neuronnät med symbolisk logik. Det är dock också känt som namnet på ett företag som utvecklar spionprogram.

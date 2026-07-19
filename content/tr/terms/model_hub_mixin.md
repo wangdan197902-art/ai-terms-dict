@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /tr/terms/model_hub_mixin/
 date: "2026-07-18T16:04:16.286245Z"
 lastmod: "2026-07-18T16:38:07.335824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir Model Hub Mixin, Hugging Face Transformers modellerine standart işlevsellik ekleyen yeniden kullanılabilir bir sınıf bileşenidir."
 ---
-
 ## Definition
 
 Mixin'ler, her mimarinin bu yardımcı programları tek tek uygulamasına gerek kalmadan kaydetme, yükleme ve modelleri Hugging Face Hub'a gönderme gibi ortak yöntemler sağlar.

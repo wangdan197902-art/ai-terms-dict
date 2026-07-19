@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /ko/terms/human_oversight/
 date: "2026-07-18T15:58:47.710698Z"
 lastmod: "2026-07-18T16:38:06.850735Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "안전성, 정확성 및 윤리적 준수를 보장하기 위해 자동화된 AI 시스템에 대한 인간의 통제와 검토를 유지하는 관행입니다."
 ---
-
 ## Definition
 
 인간 감독은 인간이 AI 기반 결정이나 행동을 모니터링, 평가 및 개입하는 메커니즘과 프로세스를 의미합니다. 이 개념은 자동화 시스템이 작동할 때(op...)

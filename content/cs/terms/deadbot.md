@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /cs/terms/deadbot/
 date: "2026-07-18T15:52:24.452004Z"
 lastmod: "2026-07-18T17:15:09.120399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Chatbot, který byl ukončen, vypnut nebo již není udržován, což často vede k statickým odpovědím nebo chybám při zadávání vstupů uživatelem."
 ---
-
 ## Definition
 
 Deadbot označuje konverzačního agenta nebo službu chatbotu, která již není aktivní, udržována ani podporována svými vývojáři. Tyto boty mohou vracet obecné chybové zprávy, statické odpovědi nebo přesměrovávat na jiné stránky.

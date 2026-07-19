@@ -1,23 +1,25 @@
 ---
-title: "Adapter"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Adapter
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /vi/terms/adapter/
-date: "2026-07-18T15:33:49.395182Z"
-lastmod: "2026-07-18T16:38:07.706401Z"
+slug: adapter
+date: '2026-07-18T15:33:49.395182Z'
+lastmod: '2026-07-18T16:38:07.706401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô-đun nhẹ được chèn vào các mô hình đã huấn luyện trước để cho phép tinh chỉnh hiệu quả cho các tác vụ cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô-đun nhẹ được chèn vào các mô hình đã huấn luyện trước để cho phép
+  tinh chỉnh hiệu quả cho các tác vụ cụ thể.
 ---
-
 ## Definition
 
 Adapter là một kỹ thuật tinh chỉnh hiệu quả về tham số, chủ yếu được sử dụng trong các mô hình ngôn ngữ lớn và bộ chuyển đổi. Thay vì cập nhật tất cả các trọng số của mô hình, vốn tốn kém về mặt tính toán, adapter...

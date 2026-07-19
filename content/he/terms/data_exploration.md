@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /he/terms/data_exploration/
 date: "2026-07-18T15:51:22.060856Z"
 lastmod: "2026-07-18T17:15:09.525834Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הניתוח הראשוני של ערכות נתונים לגילוי דפוסים, זיהוי חריגים ובדיקת הנחות יסוד לפני בניית מודל פורמלי."
 ---
-
 ## Definition
 
 חקירת נתונים, המכונה לעיתים קרובות ניתוח נתונים מחקרתי (EDA), היא שלב מקדים קריטי בעבודות למידת מכונה. היא כוללת סיכום התכונות העיקריות של הנתונים, לרוב באמצעות ויזואליזציה וסטטיסטיקה תיאורית.

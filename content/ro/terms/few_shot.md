@@ -1,23 +1,24 @@
 ---
-title: "few-shot (cu puține exemple)"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot (cu puține exemple)
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /ro/terms/few_shot/
-date: "2026-07-18T15:31:48.263607Z"
-lastmod: "2026-07-18T17:15:09.607951Z"
+slug: few_shot
+date: '2026-07-18T15:31:48.263607Z'
+lastmod: '2026-07-18T17:15:09.607951Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de învățare în care un model realizează corect o sarcină după ce a fost expus la un număr mic de exemple etichetate."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de învățare în care un model realizează corect o sarcină
+  după ce a fost expus la un număr mic de exemple etichetate.
 ---
-
 ## Definition
 
 Învățarea few-shot permite modelelor de învățare automată să generalizeze din date foarte limitate, variind de obicei de la unu la zece exemple per clasă. Spre deosebire de învățarea supravegheată tradițională, care necesită mii

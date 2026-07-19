@@ -1,23 +1,23 @@
 ---
-title: "And-Or木"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: And-Or木
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /ja/terms/andor_tree/
-date: "2026-07-18T11:03:40.156563Z"
-lastmod: "2026-07-18T11:44:45.066961Z"
+slug: andor_tree
+date: '2026-07-18T11:03:40.156563Z'
+lastmod: '2026-07-18T11:44:45.066961Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "And-Or木は、問題解決や計画、特にAIの探索アルゴリズムで使用される表現形式です。「Or」ノードは異なる行動間の選択を表し、「And」ノードは複数のサブゴールをすべて達成する必要があることを示します。"
+source: agnes_llm
+status: published
+language: ja
+description: And-Or木は、問題解決や計画、特にAIの探索アルゴリズムで使用される表現形式です。「Or」ノードは異なる行動間の選択を表し、「And」ノードは複数のサブゴールをすべて達成する必要があることを示します。
 ---
-
 ## Definition
 
 

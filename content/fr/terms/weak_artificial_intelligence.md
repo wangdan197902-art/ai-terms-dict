@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /fr/terms/weak_artificial_intelligence/
 date: "2026-07-18T11:42:48.530335Z"
 lastmod: "2026-07-18T11:44:45.356840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "IA conçue pour effectuer des tâches spécifiques dans un contexte limité, sans posséder de capacités cognitives générales."
 ---
-
 ## Definition
 
 L'intelligence artificielle faible, également connue sous le nom d'IA étroite, désigne des systèmes conçus pour résoudre des problèmes particuliers ou effectuer des tâches spécifiques, telles que la reconnaissance faciale ou la traduction de langues. Contrairement à l'IA générale...

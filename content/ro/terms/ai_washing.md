@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /ro/terms/ai_washing/
 date: "2026-07-18T15:42:11.840371Z"
 lastmod: "2026-07-18T17:15:09.623265Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Practica de a exagera sau a afirma fals că produsele sau serviciile utilizează inteligență artificială în scopuri de marketing."
 ---
-
 ## Definition
 
 Spălarea la culoare AI este un termen analog cu spălarea la culoare ecologică (greenwashing), descriind o strategie de marketing înșelătoare în care companiile afirmă că produsele lor incorporă o inteligență artificială avansată, când de fapt se bazează pe reguli simple.

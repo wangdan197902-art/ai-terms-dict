@@ -1,23 +1,23 @@
 ---
-title: "Funkcja straty"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Funkcja straty
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /pl/terms/loss/
-date: "2026-07-18T15:27:03.160259Z"
-lastmod: "2026-07-18T17:15:08.814844Z"
+slug: loss
+date: '2026-07-18T15:27:03.160259Z'
+lastmod: '2026-07-18T17:15:08.814844Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Wartość liczbowa ilościowo określająca błąd między przewidywaniami modelu a rzeczywistymi wartościami docelowymi."
+source: agnes_llm
+status: published
+language: pl
+description: Wartość liczbowa ilościowo określająca błąd między przewidywaniami modelu
+  a rzeczywistymi wartościami docelowymi.
 ---
-
 ## Definition
 
 Funkcje straty, znane również jako funkcje kosztu, mierzą, jak dobrze przewidywania modelu uczenia maszynowego pasują do prawdy ziemskiej podczas treningu. Celem algorytmu optymalizacji jest minimalizacja tej

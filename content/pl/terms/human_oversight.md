@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /pl/terms/human_oversight/
 date: "2026-07-18T15:59:03.563101Z"
 lastmod: "2026-07-18T17:15:08.882935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Praktyka utrzymywania kontroli i przeglądu przez człowieka nad zautomatyzowanymi systemami AI, aby zapewnić bezpieczeństwo, dokładność i zgodność etyczną."
 ---
-
 ## Definition
 
 Nadzór człowieka odnosi się do mechanizmów i procesów, w których ludzie monitorują, oceniają i interweniują w decyzje lub działania podejmowane przez systemy oparte na sztucznej inteligencji. Koncepcja ta jest kluczowa dla zapewnienia, że zautomatyzowane systemy działają bezpiecznie i odpowiedzialnie.

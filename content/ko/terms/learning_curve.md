@@ -7,8 +7,6 @@ tags: ["diagnostics", "visualization", "training"]
 difficulty: 2
 weight: 1
 slug: "learning_curve"
-aliases:
-  - /ko/terms/learning_curve/
 date: "2026-07-18T16:02:04.377982Z"
 lastmod: "2026-07-18T16:38:06.862044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "학습 곡선은 모델의 성능 지표를 훈련 데이터 양이나 훈련 에포크 수에 대해 그래프로 그려 학습 진행 상황을 시각화합니다."
 ---
-
 ## Definition
 
 일반적으로 학습 곡선은 y축에 훈련 점수와 검증 점수를, x축에 훈련 샘플 수나 반복 횟수를 표시합니다. 이는 모델이 과소적합(hig...)

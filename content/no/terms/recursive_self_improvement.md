@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /no/terms/recursive_self_improvement/
 date: "2026-07-18T16:14:28.814563Z"
 lastmod: "2026-07-18T16:38:07.042013Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En prosess der et AI-system iterativt forbedrer sin egen intelligens eller evner gjennom selvmodifikasjon."
 ---
-
 ## Definition
 
 Rekursiv selvforbedring refererer til den teoretiske evnen til et kunstig intelligenssystem å skrive om sin egen kildekode eller arkitektur for å bli smartere, mer effektiv eller mer kapabel.

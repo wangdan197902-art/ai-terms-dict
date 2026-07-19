@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /no/terms/artificial_consciousness/
 date: "2026-07-18T15:42:52.438831Z"
 lastmod: "2026-07-18T16:38:06.971432Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Det teoretiske konseptet å utstyre maskiner med subjektive opplevelser, selvbevissthet og sanselighet likt som mennesker."
 ---
-
 ## Definition
 
 Kunstig bevissthet utforsker muligheten for å skape maskiner som besitter ekte subjektive opplevelser, selvbevissthet og følelser, snarere enn å kun simulere intelligent atferd. Det...

@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /ja/terms/knowledge_distillation/
 date: "2026-07-18T11:20:35.953125Z"
 lastmod: "2026-07-18T11:44:45.112391Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "知識蒸留は、小さな学生モデルが大きな教師モデルの動作を模倣するように学習させるモデル圧縮技術です。"
 ---
-
 ## Definition
 
 知識蒸留は、大規模で複雑なニューラルネットワーク（教師）を、より小さく効率的なネットワーク（学生）に圧縮するために使用される機械学習手法です。学生モデルは教師の出力分布を学習します。

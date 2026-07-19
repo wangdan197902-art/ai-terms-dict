@@ -1,23 +1,24 @@
 ---
-title: "karar verme"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: karar verme
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /tr/terms/decision_making/
-date: "2026-07-18T15:31:18.602758Z"
-lastmod: "2026-07-18T16:38:07.248767Z"
+slug: decision_making
+date: '2026-07-18T15:31:18.602758Z'
+lastmod: '2026-07-18T16:38:07.248767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Mevcut bilgilere dayanarak birden fazla alternatiften bir eylem yolu seçme bilişsel süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Mevcut bilgilere dayanarak birden fazla alternatiften bir eylem yolu
+  seçme bilişsel süreci.
 ---
-
 ## Definition
 
 Yapay zekada karar verme, bir sistemin en uygun sonucu seçmek için potansiyel eylemleri belirli kriterlere veya hedeflere göre değerlendirdiği algoritmik süreci ifade eder. Bu süreç, genellikle durum değerlendirmesi ve eylem seçimi adımlarını içerir.

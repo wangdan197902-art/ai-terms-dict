@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /vi/terms/continuous_time/
 date: "2026-07-18T15:30:28.587901Z"
 lastmod: "2026-07-18T16:38:07.700027Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp mô hình hóa trong đó các biến thay đổi mượt mà qua một miền liên tục thay vì các bước rời rạc."
 ---
-
 ## Definition
 
 Các mô hình thời gian liên tục mô tả động lực học của hệ thống bằng các phương trình vi phân, cho phép trạng thái tiến hóa mượt mà theo thời gian. Trong AI, điều này được minh họa bởi các Phương trình Vi phân Thường Nơ-ron (Neural ODEs)...

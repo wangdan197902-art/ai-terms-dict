@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /cs/terms/moe/
 date: "2026-07-18T16:09:45.546911Z"
 lastmod: "2026-07-18T17:15:09.154876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Architektonický vzor, kde je několik specializovaných neuronových sítí (expertů) kombinováno prostřednictvím bránícího mechanismu k zpracování vstupů."
 ---
-
 ## Definition
 
 Směs expertů (MoE) je architektura strojového učení navržená ke zlepšení efektivity a škálovatelnosti. Místo použití jednoho velkého modelu pro všechny úkoly využívá MoE více menších „expertních“ sítí, které jsou aktivovány dynamicky podle vstupu.

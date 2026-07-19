@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /no/terms/action/
 date: "2026-07-18T15:23:14.121180Z"
 lastmod: "2026-07-18T16:38:06.931770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En operasjon utført av en agent for å påvirke miljøet."
 ---
-
 ## Definition
 
 Innen kunstig intelligens og robotikk refererer en handling til et bestemt steg eller en beslutning tatt av en intelligent agent for å samhandle med miljøet. Handlinger velges basert på den nåværende tilstanden.

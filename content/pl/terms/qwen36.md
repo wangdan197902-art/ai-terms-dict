@@ -7,8 +7,6 @@ tags: ["model", "qwen", "updates"]
 difficulty: 2
 weight: 1
 slug: "qwen36"
-aliases:
-  - /pl/terms/qwen36/
 date: "2026-07-18T16:14:16.521406Z"
 lastmod: "2026-07-18T17:15:08.912226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Następna drobna aktualizacja serii Qwen3, prawdopodobnie dopracowująca metryki wydajności i wiedzę domenową."
 ---
-
 ## Definition
 
 Qwen3.6 reprezentuje dalsze dopracowanie w rodzinie modeli Qwen3. Drobne aktualizacje wersji często koncentrują się na szlifowaniu istniejących możliwości, naprawianiu błędów w skrajnych przypadkach oraz optymalizacji jakości danych treningowych...

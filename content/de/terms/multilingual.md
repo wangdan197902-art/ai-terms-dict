@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /de/terms/multilingual/
 date: "2026-07-18T11:24:37.027510Z"
 lastmod: "2026-07-18T11:44:44.967937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Multilingual bezieht sich in der KI auf Modelle, die Inhalte in mehreren natürlichen Sprachen verarbeiten, verstehen oder generieren können."
 ---
-
 ## Definition
 
 Multilinguale Modelle sind darauf ausgelegt, vielfältige linguistische Eingaben zu handhaben, ohne für jede Sprache separate Modelle zu benötigen. Diese Systeme nutzen typischerweise gemeinsame Embeddings oder crosslinguale Ausrichtung...

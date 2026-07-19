@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /nl/terms/gpt2/
 date: "2026-07-18T15:57:50.610483Z"
 lastmod: "2026-07-18T17:15:08.749621Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "GPT-2 is een grootschalige taalgebaseerde taalmodel ontwikkeld door OpenAI voor tekstgeneratie en -begrip."
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2 (GPT-2) is een autoregressief taalmodel dat de transformer-architectuur gebruikt om mensachtige tekst te genereren. Het is getraind op een enorm dataset van internettekst.

@@ -1,23 +1,23 @@
 ---
-title: "Symbal"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: Symbal
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /nl/terms/symbal/
-date: "2026-07-18T15:30:21.436529Z"
-lastmod: "2026-07-18T17:15:08.694383Z"
+slug: symbal
+date: '2026-07-18T15:30:21.436529Z'
+lastmod: '2026-07-18T17:15:08.694383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Symbal is geen standaard erkende term in de kunstmatige intelligentie of informatica."
+source: agnes_llm
+status: published
+language: nl
+description: Symbal is geen standaard erkende term in de kunstmatige intelligentie
+  of informatica.
 ---
-
 ## Definition
 
 Er is geen vaststaande definitie voor 'Symbal' binnen de context van AI-terminologie. Het kan een typefout zijn voor 'Symbolic', verwijzend naar symbolische AI, of een niet-standaard neologisme. In strikte technische cont

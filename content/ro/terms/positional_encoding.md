@@ -1,23 +1,24 @@
 ---
-title: "Codare Pozițională"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Codare Pozițională
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /ro/terms/positional_encoding/
-date: "2026-07-18T15:37:35.875036Z"
-lastmod: "2026-07-18T17:15:09.617122Z"
+slug: positional_encoding
+date: '2026-07-18T15:37:35.875036Z'
+lastmod: '2026-07-18T17:15:09.617122Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică care introduce informații despre poziția relativă sau absolută a tokenurilor într-o secvență în modelele Transformer."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică care introduce informații despre poziția relativă sau absolută
+  a tokenurilor într-o secvență în modelele Transformer.
 ---
-
 ## Definition
 
 Deoarece Transformer-urile procesează toate tokenurile în paralel, spre deosebire de RNN-urile care le procesează secvențial, acestea nu au o cunoaștere inerentă a ordinii tokenurilor. Codarea pozițională adaugă vectori specifici la încorporările (embeddings) de intrare pentru a prezerva ordinea.

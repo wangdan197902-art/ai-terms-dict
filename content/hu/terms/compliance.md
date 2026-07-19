@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /hu/terms/compliance/
 date: "2026-07-18T15:50:43.787098Z"
 lastmod: "2026-07-18T17:15:09.763717Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-rendszerek jogi szabályozásokhoz, etikai normákhoz és iparági irányelvekhez való igazodása."
 ---
-
 ## Definition
 
 A mesterséges intelligencia területén a megfelelés azt a folyamatot jelenti, amely biztosítja, hogy az AI-modellek és azok üzembe helyezése összhangban legyen az alkalmazandó törvényekkel (például GDPR vagy HIPAA), valamint belső etikai keretrendszerekkel.

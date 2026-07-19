@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /pl/terms/self_consistency/
 date: "2026-07-18T16:15:48.387875Z"
 lastmod: "2026-07-18T17:15:08.915889Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Spójność wewnętrzna to strategia dekodowania, w której próbkowane są wiele ścieżek rozumowania, a najczęściej występująca odpowiedź jest wybierana jako wynik końcowy."
 ---
-
 ## Definition
 
 Głównie stosowana w przypadku dużych modeli językowych (LLM), technika ta poprawia dokładność poprzez generowanie kilku zróżnicowanych odpowiedzi na podpowiedź za pomocą próbkowania. Zamiast polegać na dekodowaniu zachłannym, agreguje...

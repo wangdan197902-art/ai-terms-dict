@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /pt/terms/dropout/
 date: "2026-07-18T14:43:55.449206Z"
 lastmod: "2026-07-18T15:51:59.449134Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O Dropout é uma técnica de regularização que ignora aleatoriamente neurônios durante o treinamento para evitar o sobreajuste."
 ---
-
 ## Definition
 
 Em redes neurais, o dropout previne o sobreajuste removendo temporariamente um subconjunto aleatório de neurônios durante cada etapa de treinamento. Isso força a rede a aprender características robustas que são úteis em conjunto com outros neurônios.

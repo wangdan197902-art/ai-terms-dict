@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /he/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:42:48.314758Z"
 lastmod: "2026-07-18T17:15:09.513230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "דינמיקה תחרותית שבה אומות או ארגונים מפתחים במהירות יכולות בינה מלאכותית כדי להשיג עליונות אסטרטגית."
 ---
-
 ## Definition
 
 מרוק החמושים בבינה מלאכותית מתייחס לתחרות האינטנסיבית בין מדינות, חברות ומוסדות מחקר להשגת דומיננטיות בטכנולוגיות של בינה מלאכותית. רivalry זה מניע חדשנות מהירה, לעיתים קרובות על חשבון שיקולים בטיחותיים או אתיים, ככל שכל צד מנסה להישאר צעד אחד קדימה בתחום הטכנולוגי והצבאי.

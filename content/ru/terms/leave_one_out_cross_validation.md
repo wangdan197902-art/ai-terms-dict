@@ -1,23 +1,25 @@
 ---
-title: "Кросс-валидация методом «один против всех»"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Кросс-валидация методом «один против всех»
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /ru/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:01:25.233236Z"
-lastmod: "2026-07-18T16:38:07.174628Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:01:25.233236Z'
+lastmod: '2026-07-18T16:38:07.174628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Строгий метод ресэмплинга, при котором модель обучается на всех выборках, кроме одной, и тестируется на этой единственной оставленной выборке; процесс повторяется для каждой точки данных."
+source: agnes_llm
+status: published
+language: ru
+description: Строгий метод ресэмплинга, при котором модель обучается на всех выборках,
+  кроме одной, и тестируется на этой единственной оставленной выборке; процесс повторяется
+  для каждой точки данных.
 ---
-
 ## Definition
 
 Кросс-валидация методом «один против всех» (LOOCV) является частным случаем k-блочной кросс-валидации, где k равно количеству образцов в наборе данных. Она дает почти несмещенную оценку производительности модели, вычисляя среднее значение ошибки на каждой итерации, когда одна точка используется как тестовая, а остальные — как обучающая.

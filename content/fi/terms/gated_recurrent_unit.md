@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /fi/terms/gated_recurrent_unit/
 date: "2026-07-18T15:58:52.808707Z"
 lastmod: "2026-07-18T17:15:09.413933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tyyppi rekurrenteista neuroverkoista, jotka käyttävät porttimekanismeja informaation virtauksen hallintaan toimien yksinkertaistettuna vaihtoehtona LSTM-malleille."
 ---
-
 ## Definition
 
 Portitettu rekurrentti yksikkö (GRU) on erikoistunut rekurrentti neuroverkkosolu (RNN), joka on suunniteltu sieppaamaan pitkän aikavälin riippuvuudet peräkkäisissä tiedoissa. Se yksinkertaistaa pitkälyhytkestoiselle muistille (LSTM) tyypillistä arkkitehtuuria säilyttäen samalla kyvyn käsitellä sekvenssejä tehokkaasti.

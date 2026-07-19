@@ -1,23 +1,23 @@
 ---
-title: "Model Çıkarma"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: Model Çıkarma
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /tr/terms/model_extraction/
-date: "2026-07-18T16:21:57.826867Z"
-lastmod: "2026-07-18T16:38:07.379272Z"
+slug: model_extraction
+date: '2026-07-18T16:21:57.826867Z'
+lastmod: '2026-07-18T16:38:07.379272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir saldırganın modeli sorgulayarak parametrelerini yeniden oluşturması veya bir taklit kopya oluşturması saldırısı."
+source: agnes_llm
+status: published
+language: tr
+description: Bir saldırganın modeli sorgulayarak parametrelerini yeniden oluşturması
+  veya bir taklit kopya oluşturması saldırısı.
 ---
-
 ## Definition
 
 Model çıkarma, hedef makine öğrenimi modelinin API'sini sorgulayarak iç yapısını, ağırlıklarını veya karar sınırlarını çıkarmayı içerir. Saldırganlar bu sorgulamaları, modeli çoğaltan bir taklit model oluşturmak için kullanır...

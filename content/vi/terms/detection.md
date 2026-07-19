@@ -1,23 +1,24 @@
 ---
-title: "Phát hiện"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: Phát hiện
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /vi/terms/detection/
-date: "2026-07-18T15:24:11.724946Z"
-lastmod: "2026-07-18T16:38:07.682317Z"
+slug: detection
+date: '2026-07-18T15:24:11.724946Z'
+lastmod: '2026-07-18T16:38:07.682317Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Việc xác định và định vị các đối tượng, sự kiện hoặc bất thường cụ thể trong một tập dữ liệu hoặc môi trường."
+source: agnes_llm
+status: published
+language: vi
+description: Việc xác định và định vị các đối tượng, sự kiện hoặc bất thường cụ thể
+  trong một tập dữ liệu hoặc môi trường.
 ---
-
 ## Definition
 
 Phát hiện là một nhiệm vụ cốt lõi trong thị giác máy tính và xử lý tín hiệu, nơi mô hình AI xác định sự hiện diện và vị trí của các thực thể quan tâm. Không giống như phân loại chỉ gán nhãn cho toàn bộ hình ảnh, phát hiện thường xác định vị trí chính xác của đối tượng bằng các khung bao quanh (bounding boxes) và phân loại chúng.

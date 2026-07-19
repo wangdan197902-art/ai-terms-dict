@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /he/terms/specifically/
 date: "2026-07-18T15:30:49.302244Z"
 lastmod: "2026-07-18T17:15:09.487950Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתייחס לפרטים מדויקים, ייחודיים או ספציפיים בתוך הקשר רחב יותר."
 ---
-
 ## Definition
 
 במונחים של בינה מלאכותית, 'באופן ספציפי' מציינת דיוק בהגדרת מודלים, נקודות נתונים או פעולות. היא מבחינה בין פרמטרים מדויקים לקטגוריות כלליות, ובכך מבטיחה בהירות במסמכים טכניים.

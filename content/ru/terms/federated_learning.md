@@ -1,23 +1,25 @@
 ---
-title: "Федеративное обучение"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Федеративное обучение
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /ru/terms/federated_learning/
-date: "2026-07-18T15:34:00.526376Z"
-lastmod: "2026-07-18T16:38:07.105557Z"
+slug: federated_learning
+date: '2026-07-18T15:34:00.526376Z'
+lastmod: '2026-07-18T16:38:07.105557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Федеративное обучение — это распределенный подход к машинному обучению, при котором модели обучаются на децентрализованных устройствах с сохранением данных локально."
+source: agnes_llm
+status: published
+language: ru
+description: Федеративное обучение — это распределенный подход к машинному обучению,
+  при котором модели обучаются на децентрализованных устройствах с сохранением данных
+  локально.
 ---
-
 ## Definition
 
 Федеративное обучение позволяет организациям совместно обучать модели ИИ, не передавая конфиденциальные исходные данные. Вместо централизации информации модель отправляется на локальные устройства, где она обучается на местных данных, а затем обновленные параметры модели агрегируются на центральном сервере для улучшения общей модели без раскрытия сырых данных пользователей.

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /id/terms/overall/
 date: "2026-07-18T15:28:04.833130Z"
 lastmod: "2026-07-18T16:38:07.399047Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Keseluruhan merujuk pada kinerja agregat, akurasi, atau dampak sistem AI di seluruh kasus uji atau skenario operasional."
 ---
-
 ## Definition
 
 Saat mengevaluasi model AI, metrik 'keseluruhan' memberikan pandangan holistik tentang kinerja sistem daripada berfokus pada komponen terisolasi. Ini termasuk akurasi keseluruhan, presisi rata-rata mean, atau total...

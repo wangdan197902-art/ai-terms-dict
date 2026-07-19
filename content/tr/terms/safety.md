@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /tr/terms/safety/
 date: "2026-07-18T15:28:52.003611Z"
 lastmod: "2026-07-18T16:38:07.242882Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerinin fiziksel, dijital veya toplumsal zarar vermemesini sağlama çalışması ve uygulaması."
 ---
-
 ## Definition
 
 Yapay Zeka Güvenliği, gelişmiş yapay zekadan kaynaklanan olumsuz sonuçların önlenmesine odaklanan çok disiplinli bir alandır. Uyum, yorumlanabilirlik ve dayanıklılık gibi teknik zorlukların yanı sıra etik ve politik boyutları da kapsar.

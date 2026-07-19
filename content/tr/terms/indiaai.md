@@ -1,23 +1,24 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /tr/terms/indiaai/
-date: "2026-07-18T15:57:23.636735Z"
-lastmod: "2026-07-18T16:38:07.319203Z"
+slug: indiaai
+date: '2026-07-18T15:57:23.636735Z'
+lastmod: '2026-07-18T16:38:07.319203Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "INDIAai, Hindistan Hükümeti tarafından ülkenin her yerinde yapay zeka araştırmalarını ve benimsenmesini teşvik etmek amacıyla başlatılan ulusal yapay zeka portalıdır."
+source: agnes_llm
+status: published
+language: tr
+description: INDIAai, Hindistan Hükümeti tarafından ülkenin her yerinde yapay zeka
+  araştırmalarını ve benimsenmesini teşvik etmek amacıyla başlatılan ulusal yapay
+  zeka portalıdır.
 ---
-
 ## Definition
 
 Elektronik ve Bilgi Teknolojileri Bakanlığı kapsamında kurulan INDIAai, yapay zeka kaynakları, politikaları ve girişimleri için merkezi bir merkez olarak hizmet verir. Akademisyenler, endüstri ve hükümet arasında işbirliğini teşvik etmeyi amaçlar.

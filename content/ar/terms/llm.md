@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /ar/terms/llm/
 date: "2026-07-18T15:27:20.092651Z"
 lastmod: "2026-07-18T17:15:08.441489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نموذج تعلم عميق تم تدريبه على مجموعات نصية ضخمة لفهم وتوليد لغة تشبه لغة البشر."
 ---
-
 ## Definition
 
 النماذج اللغوية الكبيرة (LLMs) هي أنظمة ذكاء اصطناعي متقدمة تعتمد على بنية المحولات (Transformers)، وتم تدريبها على مجموعات بيانات هائلة من النصوص والأكواد. تتعلم هذه النماذج الأنماط الإحصائية في اللغة

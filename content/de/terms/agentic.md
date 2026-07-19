@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /de/terms/agentic/
 date: "2026-07-18T10:57:21.945415Z"
 lastmod: "2026-07-18T11:44:44.892560Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf KI-Systeme, die in der Lage sind, autonom zu planen, zu schlussfolgern und Aktionen auszuführen, um bestimmte Ziele zu erreichen."
 ---
-
 ## Definition
 
 Der Begriff 'agentic' beschreibt KI-Agenten, die mit einem hohen Grad an Autonomie operieren. Im Gegensatz zu passiven Modellen, die einfach Text vorhersagen oder Daten klassifizieren, können agentic Systeme komplexe Ziele in...

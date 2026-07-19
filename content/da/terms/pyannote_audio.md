@@ -1,23 +1,24 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /da/terms/pyannote_audio/
-date: "2026-07-18T16:13:25.720855Z"
-lastmod: "2026-07-18T17:15:09.324261Z"
+slug: pyannote_audio
+date: '2026-07-18T16:13:25.720855Z'
+lastmod: '2026-07-18T17:15:09.324261Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Pyannote Audio er et modulært værktøjskit til at bygge talerdiarisering-pipelines, med fortrænede neurale netværksmodeller til lydanalyse."
+source: agnes_llm
+status: published
+language: da
+description: Pyannote Audio er et modulært værktøjskit til at bygge talerdiarisering-pipelines,
+  med fortrænede neurale netværksmodeller til lydanalyse.
 ---
-
 ## Definition
 
 Pyannote Audio er et omfattende værktøjskit designet til at lette udviklingen og udrulningen af talerdiariseringssystemer. Det leverer en samling af fortrænede neurale netværksmodeller til opgaver...

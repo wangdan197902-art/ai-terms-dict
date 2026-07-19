@@ -1,23 +1,24 @@
 ---
-title: "Automatizovaný matematik"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: Automatizovaný matematik
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /cs/terms/automated_mathematician/
-date: "2026-07-18T15:43:57.189577Z"
-lastmod: "2026-07-18T17:15:09.104574Z"
+slug: automated_mathematician
+date: '2026-07-18T15:43:57.189577Z'
+lastmod: '2026-07-18T17:15:09.104574Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Systém AI navržený k objevování nových matematických vět, domněnek nebo důkazů prostřednictvím výpočetního hledání a odvozování."
+source: agnes_llm
+status: published
+language: cs
+description: Systém AI navržený k objevování nových matematických vět, domněnek nebo
+  důkazů prostřednictvím výpočetního hledání a odvozování.
 ---
-
 ## Definition
 
 Automatizovaný matematik využívá strojové učení a symbolické odvozování k průzkumu matematických prostorů přesahujících lidskou intuici. Tyto systémy mohou generovat hypotézy, ověřovat důkazy a nacházet vzorce v komplexních datech.

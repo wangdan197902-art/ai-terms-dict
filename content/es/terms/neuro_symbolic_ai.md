@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /es/terms/neuro_symbolic_ai/
 date: "2026-07-18T11:02:06.666153Z"
 lastmod: "2026-07-18T11:44:44.836876Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un enfoque de IA que combina las capacidades de aprendizaje de las redes neuronales con la lógica y transparencia del razonamiento simbólico."
 ---
-
 ## Definition
 
 La IA neurosimbólica integra métodos de aprendizaje neuronal subsimbólicos con sistemas de razonamiento basados en lógica simbólica. Este enfoque híbrido busca superar las limitaciones del aprendizaje profundo puro, como la falta de...

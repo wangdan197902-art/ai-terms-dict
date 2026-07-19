@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /he/terms/knowledge_based_configuration/
 date: "2026-07-18T16:08:42.995651Z"
 lastmod: "2026-07-18T17:15:09.555269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך אוטומטי המשתמש במאגרי ידע ספציפיים לתחום כדי ליצור תצורות מוצר תקינות בהתבסס על אילוצי המשתמש."
 ---
-
 ## Definition
 
 גישה זו משתמשת בטכניקות סיפוק אילוצים בתוך מאגר ידע כדי להבטיח שמוצרים מורכבים עומדים בכל הדרישות הטכניות והלקוח. היא מונעת שילובים לא תקינים על ידי הטמעת כללי הבנה והגבלה.

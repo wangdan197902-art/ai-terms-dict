@@ -1,23 +1,23 @@
 ---
-title: "to-trinns"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: to-trinns
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /no/terms/two_stage/
-date: "2026-07-18T15:35:54.944617Z"
-lastmod: "2026-07-18T16:38:06.955503Z"
+slug: two_stage
+date: '2026-07-18T15:35:54.944617Z'
+lastmod: '2026-07-18T16:38:06.955503Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En pipeline-arkitektur der behandlingen skjer i distinkte, sekvensielle faser."
+source: agnes_llm
+status: published
+language: 'no'
+description: En pipeline-arkitektur der behandlingen skjer i distinkte, sekvensielle
+  faser.
 ---
-
 ## Definition
 
 To-trinns arkitekturer deler en kompleks oppgave inn i to separate steg, typisk involverende deteksjon fulgt av klassifisering eller raffinering. Innen datamaskinseende inkluderer eksempler objektdetektorer som først foreslår regioner og deretter klassifiserer dem.

@@ -1,23 +1,24 @@
 ---
-title: "Aprendizado de Robôs"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Aprendizado de Robôs
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /pt/terms/robot_learning/
-date: "2026-07-18T15:19:54.081068Z"
-lastmod: "2026-07-18T15:51:59.529578Z"
+slug: robot_learning
+date: '2026-07-18T15:19:54.081068Z'
+lastmod: '2026-07-18T15:51:59.529578Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma subárea da robótica focada em permitir que robôs adquiram habilidades e melhorem o desempenho por meio da experiência e interação com seu ambiente."
+source: agnes_llm
+status: published
+language: pt
+description: Uma subárea da robótica focada em permitir que robôs adquiram habilidades
+  e melhorem o desempenho por meio da experiência e interação com seu ambiente.
 ---
-
 ## Definition
 
 O aprendizado de robôs envolve o treinamento de agentes robóticos para realizar tarefas autonomamente, aproveitando técnicas de aprendizado de máquina. Diferente de comportamentos pré-programados, esses sistemas se adaptam a ambientes dinâmicos, aprendendo continuamente com erros e sucessos durante a execução das tarefas.

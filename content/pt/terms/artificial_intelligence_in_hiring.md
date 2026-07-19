@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /pt/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T14:50:12.395635Z"
 lastmod: "2026-07-18T15:51:59.464081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O uso de ferramentas de IA para otimizar processos de recrutamento, incluindo triagem de currículos, correspondência de candidatos e análise de entrevistas."
 ---
-
 ## Definition
 
 A IA no recrutamento utiliza algoritmos para automatizar e aprimorar várias etapas do ciclo de vida da contratação. As ferramentas analisam currículos em busca de relevância de palavras-chave, avaliam a adequação dos candidatos por meio de modelagem preditiva e realizam outras análises.

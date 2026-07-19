@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /nl/terms/feedback_neural_network/
 date: "2026-07-18T15:55:35.122537Z"
 lastmod: "2026-07-18T17:15:08.745061Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een architectuur van neurale netwerken waarbij verbindingen gerichte cycli vormen, waardoor informatie in de tijd kan blijven bestaan."
 ---
-
 ## Definition
 
 Neurale netwerken met feedback, ook wel recurrente neurale netwerken (RNN's) genoemd, bevatten lussen die signalen terug naar eerdere lagen laten propagëren. Deze recurrentie stelt het netwerk in staat een interne staat te behouden.

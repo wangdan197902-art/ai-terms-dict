@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /cs/terms/ai_anthropomorphism/
 date: "2026-07-18T15:39:48.104096Z"
 lastmod: "2026-07-18T17:15:09.096537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Tendence lidí připisovat systémům AI lidské charakteristiky, emoce nebo úmysly."
 ---
-
 ## Definition
 
 Anthropomorfismus v AI označuje psychologický jev, kdy uživatelé promítají lidské vlastnosti na ne-lidské entity, jako jsou chatboti nebo roboti. To může vést k nereálným očekáváním ohledně...

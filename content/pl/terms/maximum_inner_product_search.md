@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /pl/terms/maximum_inner_product_search/
 date: "2026-07-18T16:06:52.273494Z"
 lastmod: "2026-07-18T17:15:08.896351Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Specjalistyczna technika wyszukiwania podobieństwa wektorowego, która pobiera elementy o najwyższym iloczynie skalarnym względem wektora zapytania."
 ---
-
 ## Definition
 
 Wyszukiwanie maksymalnego iloczynu skalarnego (MIPS) to fundamentalny problem w wyszukiwaniu informacji i uczeniu maszynowym, szczególnie w systemach rekomendacyjnych. W przeciwieństwie do standardowych wyszukiwań opartych na podobieństwie kosinusowym, które mierzą kąt między wektorami, MIPS skupia się na maksymalizacji wartości bezwzględnej iloczynu skalarnego, co jest kluczowe dla uwzględnienia wielkości wektorów w kontekście rekomendacji.

@@ -1,23 +1,24 @@
 ---
-title: "Google Clips"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: Google Clips
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /vi/terms/google_clips/
-date: "2026-07-18T15:55:07.757487Z"
-lastmod: "2026-07-18T16:38:07.761918Z"
+slug: google_clips
+date: '2026-07-18T15:55:07.757487Z'
+lastmod: '2026-07-18T16:38:07.761918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Google Clips là một chiếc máy ảnh bỏ túi nhỏ gọn được trang bị AI, thiết kế để tự động chụp lại những khoảnh khắc bằng cách sử dụng học máy."
+source: agnes_llm
+status: published
+language: vi
+description: Google Clips là một chiếc máy ảnh bỏ túi nhỏ gọn được trang bị AI, thiết
+  kế để tự động chụp lại những khoảnh khắc bằng cách sử dụng học máy.
 ---
-
 ## Definition
 
 Google Clips là một thiết bị điện tử tiêu dùng do Google phát triển, sử dụng học máy trên thiết bị (on-device) để nhận diện các cảnh vật và đối tượng thú vị như khuôn mặt hoặc thú cưng, từ đó tự động chụp ảnh hoặc quay video mà không cần sự can thiệp trực tiếp của người dùng.

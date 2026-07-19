@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /hu/terms/genesis_mission/
 date: "2026-07-18T16:01:23.095535Z"
 lastmod: "2026-07-18T17:15:09.788262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy szervezeti kezdeményezés, amely a generatív MI jövőbeli fejlesztéséhez szükséges alapvető elvek, infrastruktúra és etikai irányelvek kialakítására fókuszál."
 ---
-
 ## Definition
 
 A Genesis Mission általában egy szervezeten belüli stratégiai fázist vagy projektet jelöl, amelynek célja az fejlett MI-képességek alapjainak lerakása. Ez magában foglalja a maginfrastruktúra kiépítését, a...

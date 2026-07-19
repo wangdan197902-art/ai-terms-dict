@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /fi/terms/outline_of_deep_learning/
 date: "2026-07-18T16:14:33.714061Z"
 lastmod: "2026-07-18T17:15:09.441272Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Rakenteellinen yleiskatsaus syvän oppimisen menetelmistä, arkkitehtuureista ja optimointistrategioista."
 ---
-
 ## Definition
 
 Syvän oppimisen katsaus kattaa perusrakenteet, kuten neuroverkkokerrokset, aktivointifunktiot ja häviömittarit. Se yksityiskohtaistaa koulutustekniikat, mukaan lukien takaisinpropagointi ja gradienttipudotus...

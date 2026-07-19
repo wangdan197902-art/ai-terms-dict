@@ -1,23 +1,24 @@
 ---
-title: "Автоматизация в строительстве"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Автоматизация в строительстве
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /ru/terms/automation_in_construction/
-date: "2026-07-18T15:42:21.720691Z"
-lastmod: "2026-07-18T16:38:07.124995Z"
+slug: automation_in_construction
+date: '2026-07-18T15:42:21.720691Z'
+lastmod: '2026-07-18T16:38:07.124995Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Применение робототехники и ИИ для оптимизации строительных процессов и повышения безопасности на объектах."
+source: agnes_llm
+status: published
+language: ru
+description: Применение робототехники и ИИ для оптимизации строительных процессов
+  и повышения безопасности на объектах.
 ---
-
 ## Definition
 
 Автоматизация в строительстве относится к интеграции роботизированных систем, дронов и инструментов управления проектами на базе ИИ в жизненный цикл строительства. Эти технологии помогают в задачах, начиная от укладки кирпичей и заканчивая...

@@ -1,23 +1,25 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /de/terms/google_research/
-date: "2026-07-18T11:16:39.929002Z"
-lastmod: "2026-07-18T11:44:44.945141Z"
+slug: google_research
+date: '2026-07-18T11:16:39.929002Z'
+lastmod: '2026-07-18T11:44:44.945141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die Forschungsabteilung von Google, die sich der Weiterentwicklung von künstlicher Intelligenz, maschinellem Lernen und Informatik durch grundlegende und angewandte Studien widmet."
+source: agnes_llm
+status: published
+language: de
+description: Die Forschungsabteilung von Google, die sich der Weiterentwicklung von
+  künstlicher Intelligenz, maschinellem Lernen und Informatik durch grundlegende und
+  angewandte Studien widmet.
 ---
-
 ## Definition
 
 Google Research ist der akademische und industrielle Forschungszweig von Google LLC, der darauf abzielt, die technologischen Grenzen in Bereichen wie künstlicher Intelligenz, natürlicher Sprachverarbeitung und Quantencomputing zu erweitern.

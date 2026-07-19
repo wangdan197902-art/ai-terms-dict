@@ -1,23 +1,24 @@
 ---
-title: "درجة الإنشاء (Inception Score)"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: درجة الإنشاء (Inception Score)
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /ar/terms/inception_score/
-date: "2026-07-18T16:03:00.601485Z"
-lastmod: "2026-07-18T17:15:08.515212Z"
+slug: inception_score
+date: '2026-07-18T16:03:00.601485Z'
+lastmod: '2026-07-18T17:15:08.515212Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مقياس يُستخدم لتقييم جودة الصور المُولَّدة من خلال قياس وضوحها وتنوعها معاً."
+source: agnes_llm
+status: published
+language: ar
+description: مقياس يُستخدم لتقييم جودة الصور المُولَّدة من خلال قياس وضوحها وتنوعها
+  معاً.
 ---
-
 ## Definition
 
 تُعد درجة الإنشاء (IS) مقياساً إحصائياً أُدخل لتقييم أداء الشبكات التوليدية التنافسية (GANs) والنماذج التوليدية الأخرى. وهي تجمع بين عاملين: جودة الصورة (الوضوح والتنوع)، حيث تعكس الدرجة العالية أن الصور المُولَّدة واضحة ومفصلة، وأن التوزيع الاحتمالي للتصنيفات بينها متنوع.

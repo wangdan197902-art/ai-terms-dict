@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /fi/terms/ai_ethics/
 date: "2026-07-18T15:35:11.817667Z"
 lastmod: "2026-07-18T17:15:09.367333Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyjärjestelmien kehittämiseen ja käyttöönottoon liittyvien eettisten kysymysten ja seurausten tutkiminen."
 ---
-
 ## Definition
 
 Tekoälyn etiikka käsittää periaatteiden ja standardien viitekehyksen, jonka tarkoituksena on varmistaa tekoälyteknologioiden vastuullinen kehittäminen ja käyttö. Se käsittelee kriittisiä huolenaiheita kuten...

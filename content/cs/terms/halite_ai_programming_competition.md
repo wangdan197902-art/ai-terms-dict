@@ -1,23 +1,24 @@
 ---
-title: "Soutěž Halite AI Programming Competition"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Soutěž Halite AI Programming Competition
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /cs/terms/halite_ai_programming_competition/
-date: "2026-07-18T16:00:47.425456Z"
-lastmod: "2026-07-18T17:15:09.137388Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T16:00:47.425456Z'
+lastmod: '2026-07-18T17:15:09.137388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Soutěž v programování, kde účastníci píší AI agenty hrající strategickou hru zahrnující správu zdrojů a boj."
+source: agnes_llm
+status: published
+language: cs
+description: Soutěž v programování, kde účastníci píší AI agenty hrající strategickou
+  hru zahrnující správu zdrojů a boj.
 ---
-
 ## Definition
 
 Halite byla roční soutěž v programování AI pořádaná společností Two Sigma, kde vývojáři vytvářeli autonomní agenty hrající tahovou strategickou hru na mřížce. Cílem bylo shromažďovat zdroje, budovat flotily a porážet soupeře pomocí algoritmických strategií.

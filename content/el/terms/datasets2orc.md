@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /el/terms/datasets2orc/
 date: "2026-07-18T16:01:01.600382Z"
 lastmod: "2026-07-18T17:15:09.897970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η Σημασιολογική Ακαδημαϊκή Έρευνα Open Research Corpus, ένα σύνολο δεδομένων μεγάλου κλίμακας ακαδημαϊκών άρθρων με δομημένα μεταδεδομένα και δίκτυα παραπομπών."
 ---
-
 ## Definition
 
 Το S2ORC είναι ένας ολοκληρωμένος κορpus επιστημονικών άρθρων που προέρχεται από το Semantic Scholar. Περιλαμβάνει πλήρες κείμενο, μεταδεδομένα και σχέσεις παραπομπών για εκατομμύρια άρθρα σε διάφορους επιστημονικούς τομείς

@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /id/terms/granular_computing/
 date: "2026-07-18T15:53:43.008817Z"
 lastmod: "2026-07-18T16:38:07.464338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Komputasi granular adalah paradigma yang menangani informasi pada berbagai tingkat abstraksi, mengorganisir data menjadi struktur bermakna yang disebut granula informasi."
 ---
-
 ## Definition
 
 Pendekatan ini meniru proses kognitif manusia dengan mengelompokkan data ke dalam entitas tingkat tinggi atau 'granula' alih-alih memproses elemen individu. Pendekatan ini mencakup teknik seperti himpunan kasar, logika fuzzy, dan penalaran granular.

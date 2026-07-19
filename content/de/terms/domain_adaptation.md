@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /de/terms/domain_adaptation/
 date: "2026-07-18T11:12:37.901410Z"
 lastmod: "2026-07-18T11:44:44.934360Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Methode des maschinellen Lernens, die die Modellleistung in einer Ziel-Domäne verbessert, indem Wissen aus einer Quell-Domäne genutzt wird."
 ---
-
 ## Definition
 
 Die Domänenanpassung adressiert die Herausforderung, wenn Trainings- und Testdaten aus unterschiedlichen Verteilungen stammen. Durch das Angleichen der Merkmalsdarstellungen zwischen einer beschrifteten Quell-Domäne und einer unbeschrifteten oder spärlich beschrifteten Ziel-Domäne...

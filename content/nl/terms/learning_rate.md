@@ -1,23 +1,24 @@
 ---
-title: "Leersnelheid"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Leersnelheid
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /nl/terms/learning_rate/
-date: "2026-07-18T15:37:34.744893Z"
-lastmod: "2026-07-18T17:15:08.705954Z"
+slug: learning_rate
+date: '2026-07-18T15:37:34.744893Z'
+lastmod: '2026-07-18T17:15:08.705954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een hyperparameter die de stapgrootte tijdens modeloptimalisatie regelt om de verliesfunctie te minimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: Een hyperparameter die de stapgrootte tijdens modeloptimalisatie regelt
+  om de verliesfunctie te minimaliseren.
 ---
-
 ## Definition
 
 De leersnelheid bepaalt hoeveel de gewichten van het model worden bijgewerkt ten opzichte van de berekende gradiënt tijdens elke trainingsiteratie. Een te hoge snelheid kan ervoor zorgen dat het model de optimalen overschrijdt (overshooting), terwijl een te lage snelheid de training extreem langzaam kan maken.

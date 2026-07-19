@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /cs/terms/equalized_odds/
 date: "2026-07-18T15:56:04.519921Z"
 lastmod: "2026-07-18T17:15:09.127336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Metrika spravedlnosti vyžadující, aby míry pravděpodobně pozitivních a falešně pozitivních výsledků byly stejné napříč různými demografickými skupinami."
 ---
-
 ## Definition
 
 Vyrovnané šance je omezení statistické parity používané v algoritmické spravedlnosti k zajištění toho, aby model fungoval stejně dobře pro všechny chráněné skupiny. Konkrétně vyžaduje, aby pravděpodobnost správného a chybného předpovědění nezávisela na citlivém atributu.

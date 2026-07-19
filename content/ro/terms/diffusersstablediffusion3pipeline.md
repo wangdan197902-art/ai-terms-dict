@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /ro/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:54:42.021527Z"
-lastmod: "2026-07-18T17:15:09.649024Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:54:42.021527Z'
+lastmod: '2026-07-18T17:15:09.649024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O linie de procesare care implementează arhitectura Stable Diffusion 3, caracterizată prin MMDiT și Flow Matching pentru o calitate îmbunătățită a imaginii și redarea textului."
+source: agnes_llm
+status: published
+language: ro
+description: O linie de procesare care implementează arhitectura Stable Diffusion
+  3, caracterizată prin MMDiT și Flow Matching pentru o calitate îmbunătățită a imaginii
+  și redarea textului.
 ---
-
 ## Definition
 
 Această linie de procesare utilizează modelul Stable Diffusion 3, care introduce o arhitectură Multimodal Diffusion Transformer (MMDiT) și un obiectiv de antrenament Flow Matching. Aceste avansuri îmbunătățesc semnificativ...

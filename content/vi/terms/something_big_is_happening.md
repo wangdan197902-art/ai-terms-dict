@@ -7,8 +7,6 @@ tags: ["culture", "media", "general"]
 difficulty: 1
 weight: 1
 slug: "something_big_is_happening"
-aliases:
-  - /vi/terms/something_big_is_happening/
 date: "2026-07-18T16:12:15.173540Z"
 lastmod: "2026-07-18T16:38:07.806120Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một cụm từ thân mật thường được truyền thông sử dụng để mô tả các bước đột phá đáng kể hoặc những tiến bộ nhanh chóng trong lĩnh vực AI."
 ---
-
 ## Definition
 
 Thuật ngữ này không phải là một định nghĩa kỹ thuật mà là một dấu hiệu văn hóa đề cập đến các giai đoạn đổi mới mạnh mẽ, sự quan tâm của công chúng hoặc các chuyển dịch mô hình trong trí tuệ nhân tạo. Nó thường đi kèm với sự ra đời của...

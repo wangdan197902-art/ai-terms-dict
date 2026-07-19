@@ -1,23 +1,23 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /ja/terms/fp8/
-date: "2026-07-18T11:15:11.232337Z"
-lastmod: "2026-07-18T11:44:45.099021Z"
+slug: fp8
+date: '2026-07-18T11:15:11.232337Z'
+lastmod: '2026-07-18T11:44:45.099021Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "FP8は、許容できる精度レベルを維持しつつ、深層学習のトレーニングと推論を加速するために設計された8ビット浮動小数点形式です。"
+source: agnes_llm
+status: published
+language: ja
+description: FP8は、許容できる精度レベルを維持しつつ、深層学習のトレーニングと推論を加速するために設計された8ビット浮動小数点形式です。
 ---
-
 ## Definition
 
 浮動小数点8（FP8）は、計算効率と精度のバランスを提供する数値データ型であり、特に最新のAIハードウェア向けに最適化されています。これはメモリ帯域幅の必要量を削減し

@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /zh/terms/scale/
 date: "2026-07-18T10:54:38.443369Z"
 lastmod: "2026-07-18T11:44:45.383893Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "规模指机器学习模型中使用的数据量、参数量或计算资源的大小。"
 ---
-
 ## Definition
 
 在人工智能领域，扩展通常涉及增加数据集大小、模型参数或计算能力以提升性能。这一概念在深度学习中至关重要，其中大规模

@@ -1,23 +1,24 @@
 ---
-title: "Tập dữ liệu: Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: 'Tập dữ liệu: Code Search Net'
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /vi/terms/datasetcode_search_net/
-date: "2026-07-18T15:47:16.283225Z"
-lastmod: "2026-07-18T16:38:07.743510Z"
+slug: datasetcode_search_net
+date: '2026-07-18T15:47:16.283225Z'
+lastmod: '2026-07-18T16:38:07.743510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một tập dữ liệu chuẩn để đánh giá các hệ thống tìm kiếm mã nguồn bằng cách ghép các truy vấn ngôn ngữ tự nhiên với các đoạn mã liên quan."
+source: agnes_llm
+status: published
+language: vi
+description: Một tập dữ liệu chuẩn để đánh giá các hệ thống tìm kiếm mã nguồn bằng
+  cách ghép các truy vấn ngôn ngữ tự nhiên với các đoạn mã liên quan.
 ---
-
 ## Definition
 
 Code Search Net là một tập dữ liệu toàn diện được tạo ra để thúc đẩy nghiên cứu trong lĩnh vực truy xuất mã nguồn. Nó chứa hàng triệu cặp mô tả bằng ngôn ngữ tự nhiên và các đoạn mã Java tương ứng.

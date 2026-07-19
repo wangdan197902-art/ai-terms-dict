@@ -7,8 +7,6 @@ tags: ["RL", "Agents", "Fundamentals"]
 difficulty: 2
 weight: 1
 slug: "action"
-aliases:
-  - /sv/terms/action/
 date: "2026-07-18T15:23:13.298017Z"
 lastmod: "2026-07-18T17:15:08.936782Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En operation som utförs av en agent för att påverka dess omgivning."
 ---
-
 ## Definition
 
 Inom artificiell intelligens och robotik avser en åtgärd ett specifikt steg eller beslut som tas av en intelligent agent för att interagera med dess omgivning. Åtgärder väljs baserat på det aktuella tillståndet

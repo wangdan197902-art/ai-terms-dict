@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /zh/terms/biohybrid_system/
 date: "2026-07-18T11:09:15.653145Z"
 lastmod: "2026-07-18T11:44:45.452333Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种将生物组件与人工设备相结合的集成系统，以增强功能或创造新功能。"
 ---
-
 ## Definition
 
 生物混合系统将活体组织、细胞或生物体与合成材料和电子设备相结合。这些系统旨在利用生物实体的独特特性，如自修复能力、能量效率和适应性，从而创造出具有生物功能的智能设备。

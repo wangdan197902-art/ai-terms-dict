@@ -1,23 +1,25 @@
 ---
-title: "Data Annotation"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: Data Annotation
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /it/terms/data_annotation/
-date: "2026-07-18T15:53:55.211814Z"
-lastmod: "2026-07-18T17:15:08.612140Z"
+slug: data_annotation
+date: '2026-07-18T15:53:55.211814Z'
+lastmod: '2026-07-18T17:15:08.612140Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'annotazione dei dati è il processo di etichettatura di dati grezzi, come immagini o testo, per renderli adatti all'addestramento supervisionato dell'apprendimento automatico."
+source: agnes_llm
+status: published
+language: it
+description: L'annotazione dei dati è il processo di etichettatura di dati grezzi,
+  come immagini o testo, per renderli adatti all'addestramento supervisionato dell'apprendimento
+  automatico.
 ---
-
 ## Definition
 
 Questo passaggio critico consiste nell'attachare metadati significativi ai punti dati grezzi in modo che gli algoritmi possano apprendere la relazione tra input e output. Ad esempio, riquadri di delimitazione attorno agli oggetti nelle immagini

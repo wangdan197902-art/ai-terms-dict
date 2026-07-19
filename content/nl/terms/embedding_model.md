@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /nl/terms/embedding_model/
 date: "2026-07-18T15:35:52.087350Z"
 lastmod: "2026-07-18T17:15:08.704061Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een embedding-model zet ruwe gegevens zoals tekst of afbeeldingen om in dichte numerieke vectoren die semantische betekenis vertegenwoordigen."
 ---
-
 ## Definition
 
 Deze modellen mapperen hoogdimensionale gegevens naar een continu vectorruimte met lagere dimensies, waarbij vergelijkbare items dichter bij elkaar liggen. Deze transformatie vangt semantische relaties op, waardoor...

@@ -1,23 +1,24 @@
 ---
-title: "Avoin"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Avoin
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /fi/terms/open/
-date: "2026-07-18T15:29:33.618881Z"
-lastmod: "2026-07-18T17:15:09.356192Z"
+slug: open
+date: '2026-07-18T15:29:33.618881Z'
+lastmod: '2026-07-18T17:15:09.356192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekevässä älykkyydessä (AI) 'avoin' viittaa yleensä avoimen lähdekoodin malleihin tai avoimiin tehtäviin, joissa ei ole ennalta määriteltyjä rajoitteita tai täydellisiä ratkaisutiloja."
+source: agnes_llm
+status: published
+language: fi
+description: Tekevässä älykkyydessä (AI) 'avoin' viittaa yleensä avoimen lähdekoodin
+  malleihin tai avoimiin tehtäviin, joissa ei ole ennalta määriteltyjä rajoitteita
+  tai täydellisiä ratkaisutiloja.
 ---
-
 ## Definition
 
 Termiä 'avoin' tekoälyn yhteydessä käytetään usein kuvaamaan kahta erillistä aluetta: avointa lähdekoodia, jossa mallin painot ja koodi ovat julkisesti saatavilla muokattavaksi, sekä avoimia ongelmia, joissa ratkaisua ei ole rajattu tiukasti etukäteen.

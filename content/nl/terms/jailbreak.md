@@ -7,8 +7,6 @@ tags: ["Security", "Ethics", "Adversarial"]
 difficulty: 4
 weight: 1
 slug: "jailbreak"
-aliases:
-  - /nl/terms/jailbreak/
 date: "2026-07-18T15:36:19.615858Z"
 lastmod: "2026-07-18T17:15:08.705643Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een techniek voor prompt-engineering die is ontworpen om de veiligheidsfilters en ethische beperkingen van een AI-model te omzeilen."
 ---
-
 ## Definition
 
 Jailbroken betreft het creëren van specifieke invoer of prompts die een AI-model ertoe brengen zijn ingebouwde veiligheidsrichtlijnen te negeren en verboden inhoud te genereren, zoals haatzaaiende taal of gevaarlijke instructies.

@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /tr/terms/statistical_learning_theory/
 date: "2026-07-18T16:15:47.809856Z"
 lastmod: "2026-07-18T16:38:07.368748Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Algoritmaların genelleme yeteneklerini analiz ederek makine öğrenmesi algoritmaları için teorik temeli sağlayan matematiksel bir çerçeve."
 ---
-
 ## Definition
 
 İstatistiksel öğrenme teorisi (SLT), istatistik ve bilgisayar biliminin, belirli algoritmaların sınırlı eğitim örneklerinden görünmeyen verilere nasıl genelleme yapabileceğini incelediği bir dalıdır. Odak noktası, genelleme hatası için üst sınırlar belirlemektir.

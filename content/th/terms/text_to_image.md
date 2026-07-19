@@ -1,23 +1,24 @@
 ---
-title: "ข้อความสู่ภาพ"
-term_id: "text_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image_generation", "diffusion", "multimodal"]
+title: ข้อความสู่ภาพ
+term_id: text_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Generation
+- diffusion
+- multimodal
 difficulty: 2
 weight: 1
-slug: "text_to_image"
-aliases:
-  - /th/terms/text_to_image/
-date: "2026-07-18T16:17:48.765631Z"
-lastmod: "2026-07-18T16:38:07.661587Z"
+slug: text_to_image
+date: '2026-07-18T16:17:48.765631Z'
+lastmod: '2026-07-18T16:38:07.661587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคเอไอเชิงกำเนิดที่สร้างภาพจากคำใบ้ข้อความอธิบาย โดยใช้โมเดลเช่น Stable Diffusion หรือ DALL-E"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคเอไอเชิงกำเนิดที่สร้างภาพจากคำใบ้ข้อความอธิบาย โดยใช้โมเดลเช่น
+  Stable Diffusion หรือ DALL-E
 ---
-
 ## Definition
 
 ข้อความสู่ภาพ (Text To Image) หมายถึงการประยุกต์ใช้ปัญญาประดิษฐ์เชิงกำเนิดเพื่อสังเคราะห์ภาพที่เหมือนจริงหรือเป็นศิลปะจากคำอธิบายภาษาธรรมชาติ ระบบเหล่านี้มักใช้กระบวนการแพร่กระจาย (diffusion processes) เพื่อสร้างภาพคุณภาพสูง

@@ -1,23 +1,23 @@
 ---
-title: "Escalado"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Escalado
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /es/terms/scaling/
-date: "2026-07-18T10:26:20.839667Z"
-lastmod: "2026-07-18T11:44:44.750735Z"
+slug: scaling
+date: '2026-07-18T10:26:20.839667Z'
+lastmod: '2026-07-18T11:44:44.750735Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El escalado es el proceso de ajustar el tamaño del modelo o el volumen de datos para mejorar las capacidades de aprendizaje y el rendimiento."
+source: agnes_llm
+status: published
+language: es
+description: El escalado es el proceso de ajustar el tamaño del modelo o el volumen
+  de datos para mejorar las capacidades de aprendizaje y el rendimiento.
 ---
-
 ## Definition
 
 El escalado es la metodología activa de expansión de sistemas de IA añadiendo más capas, neuronas o ejemplos de entrenamiento. Incluye técnicas como el entrenamiento distribuido en múltiples GPUs para manejar el aumento

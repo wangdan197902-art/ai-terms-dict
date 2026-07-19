@@ -1,23 +1,23 @@
 ---
-title: "一阶"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: 一阶
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /zh/terms/first_order/
-date: "2026-07-18T10:56:36.042477Z"
-lastmod: "2026-07-18T11:44:45.390856Z"
+slug: first_order
+date: '2026-07-18T10:56:36.042477Z'
+lastmod: '2026-07-18T11:44:45.390856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "指涉及直接关系或线性近似概念，如一阶逻辑或一阶导数。"
+source: agnes_llm
+status: published
+language: zh
+description: 指涉及直接关系或线性近似概念，如一阶逻辑或一阶导数。
 ---
-
 ## Definition
 
 在人工智能和数学中，“一阶”通常描述不涉及高阶交互的直接、线性关系系统或操作。在优化领域，它指的是仅利用目标函数的一阶导数（梯度）信息来寻找极值的方法，例如梯度下降法。与二阶方法相比，一阶方法计算成本较低，但收敛速度可能较慢。

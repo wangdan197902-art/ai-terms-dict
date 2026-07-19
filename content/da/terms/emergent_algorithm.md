@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /da/terms/emergent_algorithm/
 date: "2026-07-18T15:54:36.518008Z"
 lastmod: "2026-07-18T17:15:09.284622Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En algoritmisk adfærd, der opstår spontant gennem interaktionen mellem enkle komponenter uden at være eksplicit programmeret."
 ---
-
 ## Definition
 
 Emergente algoritmer henviser til komplekse globale adfærdsmønstre eller fænomener, der opstår fra de lokale interaktioner mellem mange enkle agenter eller regler inden for et system. I modsætning til traditionel top-down-programmering, hvor...

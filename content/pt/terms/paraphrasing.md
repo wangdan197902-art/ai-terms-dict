@@ -1,23 +1,25 @@
 ---
-title: "Paraphrasing"
-term_id: "paraphrasing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "text-processing", "semantics"]
+title: Paraphrasing
+term_id: paraphrasing
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- semantics
 difficulty: 2
 weight: 1
-slug: "paraphrasing"
-aliases:
-  - /pt/terms/paraphrasing/
-date: "2026-07-18T15:15:51.755912Z"
-lastmod: "2026-07-18T15:51:59.521017Z"
+slug: paraphrasing
+date: '2026-07-18T15:15:51.755912Z'
+lastmod: '2026-07-18T15:51:59.521017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A tarefa de PLN (Processamento de Linguagem Natural) de reescrever o texto para transmitir o mesmo significado usando palavras ou estruturas de frase diferentes."
+source: agnes_llm
+status: published
+language: pt
+description: A tarefa de PLN (Processamento de Linguagem Natural) de reescrever o
+  texto para transmitir o mesmo significado usando palavras ou estruturas de frase
+  diferentes.
 ---
-
 ## Definition
 
 Parafraseamento em Processamento de Linguagem Natural envolve gerar expressões alternativas para um texto de entrada dado, preservando seu significado semântico original. É crucial para reduzir o plágio, im...

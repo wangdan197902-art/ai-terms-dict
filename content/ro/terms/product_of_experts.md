@@ -1,23 +1,24 @@
 ---
-title: "Produsul experților"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Produsul experților
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /ro/terms/product_of_experts/
-date: "2026-07-18T16:17:02.656124Z"
-lastmod: "2026-07-18T17:15:09.693816Z"
+slug: product_of_experts
+date: '2026-07-18T16:17:02.656124Z'
+lastmod: '2026-07-18T17:15:09.693816Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un cadru de modelare probabilistică în care distribuția joint este formată prin multiplicarea ieșirilor mai multor modele expert independente."
+source: agnes_llm
+status: published
+language: ro
+description: Un cadru de modelare probabilistică în care distribuția joint este formată
+  prin multiplicarea ieșirilor mai multor modele expert independente.
 ---
-
 ## Definition
 
 Produsul Experților (PoE) este o metodă de construire a distribuțiilor de probabilitate complexe combinând distribuții mai simple. Spre deosebire de 'Amestecul de Experți', care mediază probabilitățile, PoE înmulțește funcțiile de energie sau probabilitățile, ceea ce duce la o distribuție mai ascuțită și mai restrictivă.

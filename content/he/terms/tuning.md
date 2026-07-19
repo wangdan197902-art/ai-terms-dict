@@ -1,23 +1,24 @@
 ---
-title: "כוונון"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: כוונון
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /he/terms/tuning/
-date: "2026-07-18T15:31:37.468720Z"
-lastmod: "2026-07-18T17:15:09.490215Z"
+slug: tuning
+date: '2026-07-18T15:31:37.468720Z'
+lastmod: '2026-07-18T17:15:09.490215Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של התאמת פרמטרים היפר או משקלי המודל כדי לייעל את הביצועים על גבי מערך נתונים או משימה ספציפיים."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של התאמת פרמטרים היפר או משקלי המודל כדי לייעל את הביצועים על גבי
+  מערך נתונים או משימה ספציפיים.
 ---
-
 ## Definition
 
 כוונון כולל השבחת מודל למידת מכונה כדי להשיג דיוק או יעילות טובים יותר. הוא יכול להתייחס לכוונון פרמטרים היפר (כגון קצב למידה או גודל אצווה) או לכוונון עדין של משקלי המודל עצמו.

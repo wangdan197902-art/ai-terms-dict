@@ -1,23 +1,24 @@
 ---
-title: "Otonom ağ"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Otonom ağ
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /tr/terms/autonomic_networking/
-date: "2026-07-18T15:42:54.856127Z"
-lastmod: "2026-07-18T16:38:07.276990Z"
+slug: autonomic_networking
+date: '2026-07-18T15:42:54.856127Z'
+lastmod: '2026-07-18T16:38:07.276990Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zeka kullanarak kendini yapılandıran, optimize eden ve onaran kendi kendine yönetilen altyapı."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zeka kullanarak kendini yapılandıran, optimize eden ve onaran kendi
+  kendine yönetilen altyapı.
 ---
-
 ## Definition
 
 Otonom ağ, telekomünikasyon ağlarına otonom bilişim ilkelerini uygulayarak sistemlerin minimum insan müdahalesiyle kendi kendini yönetmesini sağlar. Bu ağlar, arızaları tespit etmek, performansı optimize etmek ve güvenliği sağlamak için yapay zeka algoritmalarını kullanır.

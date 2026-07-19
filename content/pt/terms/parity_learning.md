@@ -1,23 +1,24 @@
 ---
-title: "Aprendizado de Paridade"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Aprendizado de Paridade
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /pt/terms/parity_learning/
-date: "2026-07-18T15:16:04.818137Z"
-lastmod: "2026-07-18T15:51:59.521133Z"
+slug: parity_learning
+date: '2026-07-18T15:16:04.818137Z'
+lastmod: '2026-07-18T15:51:59.521133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um problema teórico de aprendizado de máquina focado em prever a soma XOR de entradas binárias, usado para testar a expressividade do modelo."
+source: agnes_llm
+status: published
+language: pt
+description: Um problema teórico de aprendizado de máquina focado em prever a soma
+  XOR de entradas binárias, usado para testar a expressividade do modelo.
 ---
-
 ## Definition
 
 O Aprendizado de Paridade é um problema de referência na teoria do aprendizado de máquina, onde o objetivo é prever a paridade (soma XOR) de um conjunto de variáveis de entrada binárias. É notoriamente difícil para redes neurais feedforward padrão.

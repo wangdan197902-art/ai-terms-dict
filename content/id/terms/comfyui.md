@@ -1,23 +1,24 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /id/terms/comfyui/
-date: "2026-07-18T15:42:35.019363Z"
-lastmod: "2026-07-18T16:38:07.438136Z"
+slug: comfyui
+date: '2026-07-18T15:42:35.019363Z'
+lastmod: '2026-07-18T16:38:07.438136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Antarmuka grafis berbasis node untuk Stable Diffusion yang memungkinkan konstruksi alur kerja kompleks dan kontrol halus atas generasi gambar."
+source: agnes_llm
+status: published
+language: id
+description: Antarmuka grafis berbasis node untuk Stable Diffusion yang memungkinkan
+  konstruksi alur kerja kompleks dan kontrol halus atas generasi gambar.
 ---
-
 ## Definition
 
 ComfyUI adalah antarmuka pengguna grafis (GUI) yang kuat, modular, dan berbasis node untuk model Stable Diffusion. Berbeda dengan antarmuka tradisional yang menawarkan alur kerja linier, ComfyUI memungkinkan pengguna membangun pipa kustom dengan menghubungkan berbagai node, memberikan kontrol granular terhadap setiap tahap generasi gambar.

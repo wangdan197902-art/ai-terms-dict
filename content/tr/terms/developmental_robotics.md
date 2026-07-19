@@ -1,23 +1,23 @@
 ---
-title: "Gelişimsel Robotik"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Gelişimsel Robotik
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /tr/terms/developmental_robotics/
-date: "2026-07-18T15:49:34.400548Z"
-lastmod: "2026-07-18T16:38:07.298344Z"
+slug: developmental_robotics
+date: '2026-07-18T15:49:34.400548Z'
+lastmod: '2026-07-18T16:38:07.298344Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Robotların çevreleri ve bakım verenlerle etkileşim yoluyla karmaşık becerileri nasıl edinebildiklerini inceleyen disiplinler arası bir alan."
+source: agnes_llm
+status: published
+language: tr
+description: Robotların çevreleri ve bakım verenlerle etkileşim yoluyla karmaşık becerileri
+  nasıl edinebildiklerini inceleyen disiplinler arası bir alan.
 ---
-
 ## Definition
 
 Gelişimsel robotik, insan bilişsel gelişiminden ilham alarak zamanla otonom olarak öğrenen robotlar yaratmayı hedefler. Tüm davranışlar önceden programlanmak yerine, bu sistemler taklit öğrenme ve içsel motivasyon gibi mekanizmalar kullanır.

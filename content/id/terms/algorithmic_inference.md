@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /id/terms/algorithmic_inference/
 date: "2026-07-18T15:38:29.806706Z"
 lastmod: "2026-07-18T16:38:07.426642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Inferensi algoritmik adalah proses di mana model pembelajaran mesin yang telah dilatih menerapkan pola yang dipelajari ke data baru yang belum pernah dilihat untuk membuat prediksi atau keputusan."
 ---
-
 ## Definition
 
 Dikenal juga sebagai prediksi atau skor, inferensi terjadi setelah fase pelatihan model. Algoritma mengambil fitur masukan, memprosesnya melalui struktur internalnya (seperti bobot dalam jaringan saraf), dan menghasilkan output berdasarkan pengetahuan yang telah dipelajari.

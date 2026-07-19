@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /cs/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:56:04.519862Z"
 lastmod: "2026-07-18T17:15:09.126878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Ekologické důsledky vývoje, tréninku a nasazení modelů AI, včetně spotřeby energie a emisí uhlíku."
 ---
-
 ## Definition
 
 Tento termín se vztahuje na významné nároky na zdroje spojené s technologiemi AI, zejména během fáze tréninku velkých modelů. Zahrnuje spotřebu elektřiny pro datová centra, výrobu hardwaru a celkovou uhlíkovou stopu spojenou s provozem infrastruktury pro AI.

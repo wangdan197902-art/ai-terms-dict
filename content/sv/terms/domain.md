@@ -1,23 +1,24 @@
 ---
-title: "Domän"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domän
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /sv/terms/domain/
-date: "2026-07-18T15:25:19.412371Z"
-lastmod: "2026-07-18T17:15:08.940111Z"
+slug: domain
+date: '2026-07-18T15:25:19.412371Z'
+lastmod: '2026-07-18T17:15:08.940111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En domän representerar en specifik kontext eller datadistribution som karaktäriseras av sitt funktionsutrymme och den underliggande sannolikhetsfördelningen."
+source: agnes_llm
+status: published
+language: sv
+description: En domän representerar en specifik kontext eller datadistribution som
+  karaktäriseras av sitt funktionsutrymme och den underliggande sannolikhetsfördelningen.
 ---
-
 ## Definition
 
 Inom maskininlärning, särskilt inom överföringsinlärning, definieras en domän av två komponenter: funktionsutrymmet (mängden av alla möjliga indata) och den marginella sannolikhetsfördelningen av dessa indata. Skillnader mellan domäner kan leda till att modeller som fungerade bra i källområdet presterar dåligt i måldomänen.

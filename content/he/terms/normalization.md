@@ -1,23 +1,24 @@
 ---
-title: "נרמול"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: נרמול
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /he/terms/normalization/
-date: "2026-07-18T16:14:36.670194Z"
-lastmod: "2026-07-18T17:15:09.569655Z"
+slug: normalization
+date: '2026-07-18T16:14:36.670194Z'
+lastmod: '2026-07-18T17:15:09.569655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "נרמול הוא טכניקת עיבוד מקדים של נתונים המסקלת מאפיינים מספריים לטווח סטנדרטי, לרוב בין 0 ל-1, כדי לשפר התכנסות וביצועי המודל."
+source: agnes_llm
+status: published
+language: he
+description: נרמול הוא טכניקת עיבוד מקדים של נתונים המסקלת מאפיינים מספריים לטווח
+  סטנדרטי, לרוב בין 0 ל-1, כדי לשפר התכנסות וביצועי המודל.
 ---
-
 ## Definition
 
 שיטות נפוצות כוללות סקאלת מינימום-מקסימום (Min-Max) וסטנדרטיזציה של ציון Z. תהליך זה מבטיח שמאפיינים עם גדלים גדולים יותר לא ידומו את אלגוריתם הלמידה, במיוחד באופטימיזציה מבוססת גרדיאנט.

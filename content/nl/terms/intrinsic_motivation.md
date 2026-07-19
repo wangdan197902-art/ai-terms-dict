@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /nl/terms/intrinsic_motivation/
 date: "2026-07-18T16:01:04.246747Z"
 lastmod: "2026-07-18T17:15:08.757338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een concept in versterkend leren waarbij agenten doelen nastreven op basis van interne nieuwsgierigheid of kennisverwerving in plaats van externe beloningen."
 ---
-
 ## Definition
 
 Bij versterkend leren drijft intrinsieke motivatie een agent aan om zijn omgeving te verkennen door op zoek te gaan naar noveliteit, onzekerheid te verminderen of vaardigheden te beheersen, onafhankelijk van externe taakbeloningen. Deze me

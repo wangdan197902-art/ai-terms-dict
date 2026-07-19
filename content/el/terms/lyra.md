@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /el/terms/lyra/
-date: "2026-07-18T16:19:31.386709Z"
-lastmod: "2026-07-18T17:15:09.928445Z"
+slug: lyra
+date: '2026-07-18T16:19:31.386709Z'
+lastmod: '2026-07-18T17:15:09.928445Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το Lyra αναφέρεται σε διάφορες πρωτοβουλίες ή μοντέλα ΤΝ, κυρίως σε ένα ανοιχτού κώδικα μεγάλο γλωσσικό μοντέλο ή σε ένα συγκεκριμένο εργαλείο αναζήτησης και ανακάλυψης βασισμένο σε ΤΝ, σχεδιασμένο να"
+source: agnes_llm
+status: published
+language: el
+description: Το Lyra αναφέρεται σε διάφορες πρωτοβουλίες ή μοντέλα ΤΝ, κυρίως σε ένα
+  ανοιχτού κώδικα μεγάλο γλωσσικό μοντέλο ή σε ένα συγκεκριμένο εργαλείο αναζήτησης
+  και ανακάλυψης βασισμένο σε ΤΝ, σχεδιασμένο να
 ---
-
 ## Definition
 
 Στο πλαίσιο της σύγχρονης ορολογίας της ΤΝ, το Lyra συχνά δηλώνει εξειδικευμένα συστήματα ΤΝ που εστιάζουν στη βελτίωση της αλληλεπίδρασης με τον χρήστη μέσω επεξεργασίας φυσικής γλώσσας. Μπορεί να αναφέρεται σε ένα ανοιχτού κώδικα LLM που αναπτύχθηκε

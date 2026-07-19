@@ -7,8 +7,6 @@ tags: ["AI Models", "Development Tools"]
 difficulty: 3
 weight: 1
 slug: "codeqwen"
-aliases:
-  - /tr/terms/codeqwen/
 date: "2026-07-18T15:45:11.387841Z"
 lastmod: "2026-07-18T16:38:07.282726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "CodeQwen, kod üretimi, kod anlama ve hata ayıklama dahil olmak üzere yazılım mühendisliği görevleri için optimize edilmiş özel bir büyük dil modelidir."
 ---
-
 ## Definition
 
 CodeQwen, Alibaba Cloud tarafından geliştirilen Qwen serisinin bir varyantıdır ve özellikle programlama ile ilgili faaliyetlerde üstün performans göstermek üzere ince ayarlanmıştır. Gelişmiş dönüştürücü mimarilerden yararlanarak kodu anlar, üretir ve hata ayıklar.

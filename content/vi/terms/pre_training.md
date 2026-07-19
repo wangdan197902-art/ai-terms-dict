@@ -1,23 +1,25 @@
 ---
-title: "Huấn luyện trước"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Huấn luyện trước
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /vi/terms/pre_training/
-date: "2026-07-18T15:28:02.639403Z"
-lastmod: "2026-07-18T16:38:07.692349Z"
+slug: pre_training
+date: '2026-07-18T15:28:02.639403Z'
+lastmod: '2026-07-18T16:38:07.692349Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Giai đoạn đầu tiên của việc huấn luyện một mô hình học máy trên một tập dữ liệu lớn chưa được gán nhãn để học các biểu diễn tổng quát trước khi tinh chỉnh cho các nhiệm vụ cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Giai đoạn đầu tiên của việc huấn luyện một mô hình học máy trên một tập
+  dữ liệu lớn chưa được gán nhãn để học các biểu diễn tổng quát trước khi tinh chỉnh
+  cho các nhiệm vụ cụ thể.
 ---
-
 ## Definition
 
 Huấn luyện trước là một kỹ thuật nền tảng trong học sâu, nơi mô hình học các đặc điểm và mẫu rộng rãi từ khối lượng dữ liệu khổng lồ, thường là không có nhãn. Quá trình này cho phép mô hình phát triển...

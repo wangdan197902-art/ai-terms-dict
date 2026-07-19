@@ -1,23 +1,24 @@
 ---
-title: "חיפוש היברידי"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: חיפוש היברידי
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /he/terms/hybrid_search/
-date: "2026-07-18T16:04:57.287114Z"
-lastmod: "2026-07-18T17:15:09.548707Z"
+slug: hybrid_search
+date: '2026-07-18T16:04:57.287114Z'
+lastmod: '2026-07-18T17:15:09.548707Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אסטרטגיית אחזור המשלבת חיפוש וקטורי סמנטי עם אינדקס מבוסס מילות מפתח מסורתי כדי לשפר דיוק ורלוונטיות."
+source: agnes_llm
+status: published
+language: he
+description: אסטרטגיית אחזור המשלבת חיפוש וקטורי סמנטי עם אינדקס מבוסס מילות מפתח
+  מסורתי כדי לשפר דיוק ורלוונטיות.
 ---
-
 ## Definition
 
 חיפוש היברידי משלב שתי שיטות אחזור שונות: חיפוש וקטורים צפופים, התופס משמעות סמנטית והקשר, וחיפוש וקטורים דלילים (מילות מפתח), התואם מונחים מדויקים. על ידי ניצול

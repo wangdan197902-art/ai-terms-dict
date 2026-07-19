@@ -1,23 +1,24 @@
 ---
-title: "Warstwa ukryta"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Warstwa ukryta
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /pl/terms/hidden_layer/
-date: "2026-07-18T15:58:32.362220Z"
-lastmod: "2026-07-18T17:15:08.881877Z"
+slug: hidden_layer
+date: '2026-07-18T15:58:32.362220Z'
+lastmod: '2026-07-18T17:15:08.881877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Pozioma warstwa w sieci neuronowej położona między warstwą wejściową a wyjściową, odpowiedzialna za przetwarzanie cech."
+source: agnes_llm
+status: published
+language: pl
+description: Pozioma warstwa w sieci neuronowej położona między warstwą wejściową
+  a wyjściową, odpowiedzialna za przetwarzanie cech.
 ---
-
 ## Definition
 
 Warstwa ukryta składa się z neuronów, które odbierają dane wejściowe z poprzednich warstw, stosują wagi i przesunięcia, a następnie przekazują przetworzone dane dalej poprzez funkcję aktywacji. Warstwy te umożliwiają sieciom neuronowym uczenie się złożonych wzorców i abstrakcji.

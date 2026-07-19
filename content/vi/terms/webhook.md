@@ -1,23 +1,25 @@
 ---
-title: "Webhook"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Webhook
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /vi/terms/webhook/
-date: "2026-07-18T16:16:23.163061Z"
-lastmod: "2026-07-18T16:38:07.816976Z"
+slug: webhook
+date: '2026-07-18T16:16:23.163061Z'
+lastmod: '2026-07-18T16:38:07.816976Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lệnh gọi lại HTTP do người dùng xác định, được kích hoạt bởi các sự kiện cụ thể, cho phép các hệ thống đẩy thông báo thời gian thực đến các ứng dụng khác."
+source: agnes_llm
+status: published
+language: vi
+description: Một lệnh gọi lại HTTP do người dùng xác định, được kích hoạt bởi các
+  sự kiện cụ thể, cho phép các hệ thống đẩy thông báo thời gian thực đến các ứng dụng
+  khác.
 ---
-
 ## Definition
 
 Webhook là một cơ chế cho phép một dịch vụ cung cấp thông tin thời gian thực cho một dịch vụ khác khi một sự kiện xảy ra. Thay vì phải liên tục truy vấn (polling) để kiểm tra các thay đổi, hệ thống nguồn sẽ gửi một yêu cầu HTTP POST đến một URL cụ thể mà hệ thống đích đã đăng ký trước đó. Điều này giúp tiết kiệm tài nguyên và đảm bảo dữ liệu được cập nhật ngay lập tức khi có sự kiện mới.

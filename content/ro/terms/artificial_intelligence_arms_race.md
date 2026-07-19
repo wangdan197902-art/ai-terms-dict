@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /ro/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:44:43.168359Z"
 lastmod: "2026-07-18T17:15:09.628353Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O dinamică competitivă în care națiunile sau organizațiile dezvoltă rapid capacități de IA pentru a obține superioritate strategică."
 ---
-
 ## Definition
 
 Curba înarmărilor cu IA se referă la competiția intensă dintre țări, corporații și instituții de cercetare pentru a atinge dominația în tehnologiile de inteligență artificială. Această rivalitate stimulează inovația rapidă, adesea punând accentul pe viteză în detrimentul siguranței.

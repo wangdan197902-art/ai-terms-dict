@@ -1,23 +1,24 @@
 ---
-title: "Învățarea bazată pe instanțe"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Învățarea bazată pe instanțe
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /ro/terms/instance_based_learning/
-date: "2026-07-18T16:05:00.205028Z"
-lastmod: "2026-07-18T17:15:09.669297Z"
+slug: instance_based_learning
+date: '2026-07-18T16:05:00.205028Z'
+lastmod: '2026-07-18T17:15:09.669297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O abordare de învățare leneșă în care predicțiile sunt făcute comparând noile intrări cu instanțele de antrenament stocate."
+source: agnes_llm
+status: published
+language: ro
+description: O abordare de învățare leneșă în care predicțiile sunt făcute comparând
+  noile intrări cu instanțele de antrenament stocate.
 ---
-
 ## Definition
 
 Cunoscută și sub numele de învățare bazată pe memorie, această tehnică nu construiește un model generalizat în timpul antrenamentului. În schimb, stochează întregul set de date de antrenament. Când este necesară o predicție, algoritmul găsește cele mai similare...

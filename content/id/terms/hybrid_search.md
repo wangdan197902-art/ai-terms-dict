@@ -1,23 +1,25 @@
 ---
-title: "Pencarian Hibrida"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Pencarian Hibrida
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /id/terms/hybrid_search/
-date: "2026-07-18T15:55:01.607566Z"
-lastmod: "2026-07-18T16:38:07.467895Z"
+slug: hybrid_search
+date: '2026-07-18T15:55:01.607566Z'
+lastmod: '2026-07-18T16:38:07.467895Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Strategi pengambilan informasi yang menggabungkan pencarian vektor semantik dengan pengindeksan berbasis kata kunci tradisional untuk meningkatkan akurasi dan relevansi."
+source: agnes_llm
+status: published
+language: id
+description: Strategi pengambilan informasi yang menggabungkan pencarian vektor semantik
+  dengan pengindeksan berbasis kata kunci tradisional untuk meningkatkan akurasi dan
+  relevansi.
 ---
-
 ## Definition
 
 Pencarian Hibrida mengintegrasikan dua metode pengambilan yang berbeda: pencarian vektor padat (dense), yang menangkap makna semantik dan konteks, serta pencarian vektor jarang (sparse/kata kunci), yang mencocokkan istilah secara eksak. Dengan memanfaatkan kombinasi ini, sistem dapat mengatasi keterbatasan masing-masing pendekatan tunggal.

@@ -1,23 +1,25 @@
 ---
-title: "Ömür Boyu Planlama A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Ömür Boyu Planlama A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /tr/terms/lifelong_planning_a/
-date: "2026-07-18T16:00:49.800284Z"
-lastmod: "2026-07-18T16:38:07.327681Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:00:49.800284Z'
+lastmod: '2026-07-18T16:38:07.327681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kenar ağırlık değişikliklerinden sonra sıfırdan yeniden hesaplama yapmadan, dinamik grafiklerde en kısa yolları verimli bir şekilde güncelleyen artımlı bir yol bulma algoritmasıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Kenar ağırlık değişikliklerinden sonra sıfırdan yeniden hesaplama yapmadan,
+  dinamik grafiklerde en kısa yolları verimli bir şekilde güncelleyen artımlı bir
+  yol bulma algoritmasıdır.
 ---
-
 ## Definition
 
 Ömür Boyu Planlama A* (LPA*), maliyetlerin zamanla değiştiği ortamlar için tasarlanmış A* arama algoritmasının bir uzantısıdır. Aramayı yeniden başlatmak yerine, LPA* bir öncelik kuyruğu korur ve yalnızca etkilenen düğümleri günceller.

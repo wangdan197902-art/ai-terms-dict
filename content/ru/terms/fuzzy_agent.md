@@ -1,23 +1,24 @@
 ---
-title: "Размытый агент"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Размытый агент
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /ru/terms/fuzzy_agent/
-date: "2026-07-18T15:54:40.840287Z"
-lastmod: "2026-07-18T16:38:07.159073Z"
+slug: fuzzy_agent
+date: '2026-07-18T15:54:40.840287Z'
+lastmod: '2026-07-18T16:38:07.159073Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Автономная сущность, использующая нечеткую логику для обработки неопределенности и неточной информации в процессах принятия решений."
+source: agnes_llm
+status: published
+language: ru
+description: Автономная сущность, использующая нечеткую логику для обработки неопределенности
+  и неточной информации в процессах принятия решений.
 ---
-
 ## Definition
 
 Размытый агент функционирует в средах, где данные часто неоднозначны или неполны, применяя системы нечеткой логики вместо бинарных состояний «истина/ложь». Используя функции принадлежности и лингвистические переменные, такие агенты могут принимать более гибкие и человекоподобные решения в условиях неопределенности, адаптируясь к плавным изменениям входных параметров.

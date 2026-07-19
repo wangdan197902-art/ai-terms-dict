@@ -1,23 +1,24 @@
 ---
-title: "Reasoning"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: Reasoning
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /pl/terms/reasoning/
-date: "2026-07-18T15:36:47.657504Z"
-lastmod: "2026-07-18T17:15:08.836345Z"
+slug: reasoning
+date: '2026-07-18T15:36:47.657504Z'
+lastmod: '2026-07-18T17:15:08.836345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Reasoning odnosi się do procesu poznawczego polegającego na wyciąganiu wniosków, przewidywaniu lub rozwiązywaniu problemów na podstawie dostępnych informacji."
+source: agnes_llm
+status: published
+language: pl
+description: Reasoning odnosi się do procesu poznawczego polegającego na wyciąganiu
+  wniosków, przewidywaniu lub rozwiązywaniu problemów na podstawie dostępnych informacji.
 ---
-
 ## Definition
 
 W sztucznej inteligencji reasoning obejmuje algorytmy symulujące dedukcję logiczną, indukcję lub abdukcję w celu przetwarzania danych i generowania wniosków. Obejmuje techniki takie jak logika symboli, wnioskowanie probabilistyczne oraz modele oparte na wiedzy, umożliwiając systemom podejmowanie decyzji.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /zh/terms/compute/
 date: "2026-07-18T11:11:03.736767Z"
 lastmod: "2026-07-18T11:44:45.460197Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "算力是指用于在AI系统中执行算法和处理数据的处理能力和资源。"
 ---
-
 ## Definition
 
 在人工智能中，算力代表了训练模型和运行推理所需的基础设施。它包括CPU、GPU和TPU等硬件组件，以及相关的软件优化和资源调度能力。

@@ -1,23 +1,24 @@
 ---
-title: "Esikoulutus"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Esikoulutus
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /fi/terms/pre_training/
-date: "2026-07-18T15:29:52.454313Z"
-lastmod: "2026-07-18T17:15:09.357097Z"
+slug: pre_training
+date: '2026-07-18T15:29:52.454313Z'
+lastmod: '2026-07-18T17:15:09.357097Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mallin koulutuksen alkuvaihe, jossa mallia koulutetaan suurella, merkitsemättömällä datajoukolla oppiakseen yleisiä esitystapoja ennen hienosäätöä tarkoihin tehtäviin."
+source: agnes_llm
+status: published
+language: fi
+description: Mallin koulutuksen alkuvaihe, jossa mallia koulutetaan suurella, merkitsemättömällä
+  datajoukolla oppiakseen yleisiä esitystapoja ennen hienosäätöä tarkoihin tehtäviin.
 ---
-
 ## Definition
 
 Esikoulutus on syväoppimisen perustekniikka, jossa malli oppii laajoja piirteitä ja kuvioita valtavista datamääristä, usein ilman merkkejä. Tämä prosessi mahdollistaa mallin kehittämisen...

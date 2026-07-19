@@ -1,23 +1,24 @@
 ---
-title: "Časová zkreslení"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Časová zkreslení
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /cs/terms/temporal_bias/
-date: "2026-07-18T16:19:53.138139Z"
-lastmod: "2026-07-18T17:15:09.205544Z"
+slug: temporal_bias
+date: '2026-07-18T16:19:53.138139Z'
+lastmod: '2026-07-18T17:15:09.205544Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Systematická chyba, při které modely upřednostňují nová data před historickým kontextem, což vede k zkresleným predikcím."
+source: agnes_llm
+status: published
+language: cs
+description: Systematická chyba, při které modely upřednostňují nová data před historickým
+  kontextem, což vede k zkresleným predikcím.
 ---
-
 ## Definition
 
 Časová zkreslení nastávají, když se strojové učebné modely nepřiměřeně zaměřují na nedávné pozorování ve srovnání s těmi staršími, často kvůli nestacionárním distribucím dat nebo specifickým protokolům tréninku.

@@ -1,23 +1,23 @@
 ---
-title: "発散"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: 発散
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /ja/terms/divergence/
-date: "2026-07-18T10:50:00.253769Z"
-lastmod: "2026-07-18T11:44:45.004699Z"
+slug: divergence
+date: '2026-07-18T10:50:00.253769Z'
+lastmod: '2026-07-18T11:44:45.004699Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "発散とは、機械学習アルゴリズムの損失関数が学習中に減少せず、不安定または悪化するパフォーマンスにつながる現象を指します。"
+source: agnes_llm
+status: published
+language: ja
+description: 発散とは、機械学習アルゴリズムの損失関数が学習中に減少せず、不安定または悪化するパフォーマンスにつながる現象を指します。
 ---
-
 ## Definition
 
 最適化の文脈において、発散はモデルのパラメータ更新によって損失が増加し続ける状態を指します。通常、これはNaN値の発生や勾配の無限大発散を引き起こし、学習が失敗する原因となります。学習率が高すぎたり、数値的不安定さが生じたりした場合に頻繁に観察されます。

@@ -1,23 +1,24 @@
 ---
-title: "Algoritmik Olasılık"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Algoritmik Olasılık
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /tr/terms/algorithmic_probability/
-date: "2026-07-18T15:40:37.338252Z"
-lastmod: "2026-07-18T16:38:07.271841Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:40:37.338252Z'
+lastmod: '2026-07-18T16:38:07.271841Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Rastgele bir programın belirli bir çıktı dizisi üreteceğinin olasılığını ölçen teorik bir ölçü."
+source: agnes_llm
+status: published
+language: tr
+description: Rastgele bir programın belirli bir çıktı dizisi üreteceğinin olasılığını
+  ölçen teorik bir ölçü.
 ---
-
 ## Definition
 
 Kolmogorov karmaşıklığı ve Solomonoff tümevarımı temelli olan algoritmik olasılık, daha kısa programlar tarafından üretilen çıktılara daha yüksek olasılık atar. Daha basit açıklamaların daha olası olduğunu öne sürer.

@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /vi/terms/sample_complexity/
 date: "2026-07-18T16:11:18.636777Z"
 lastmod: "2026-07-18T16:38:07.802776Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Độ phức tạp mẫu đề cập đến số lượng ví dụ huấn luyện cần thiết để một thuật toán học máy đạt được mức hiệu suất cụ thể với xác suất cao."
 ---
-
 ## Definition
 
 Trong lý thuyết học tính toán, độ phức tạp mẫu định lượng lượng dữ liệu cần thiết để huấn luyện mô hình một cách hiệu quả. Nó cân bằng sự đánh đổi giữa khả năng của mô hình và nguồn cung dữ liệu, đảm bảo khả năng tổng quát hóa tốt hơn.

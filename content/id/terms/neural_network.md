@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /id/terms/neural_network/
 date: "2026-07-18T15:27:51.902505Z"
 lastmod: "2026-07-18T16:38:07.398325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem komputasi yang terinspirasi oleh otak biologis, terdiri dari node atau neuron yang saling terhubung dan tersusun dalam lapisan-lapisan."
 ---
-
 ## Definition
 
 Jaringan saraf adalah serangkaian algoritma yang berupaya mengenali hubungan mendasar dalam sekumpulan data melalui proses yang meniru cara kerja otak manusia. Jaringan ini terdiri dari lapisan-lapisan neuron yang saling terhubung untuk memproses informasi.

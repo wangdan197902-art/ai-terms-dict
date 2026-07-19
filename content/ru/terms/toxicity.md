@@ -1,23 +1,24 @@
 ---
-title: "Токсичность"
-term_id: "toxicity"
-category: "ethics_safety"
-subcategory: ""
-tags: ["safety", "ethics", "nlp"]
+title: Токсичность
+term_id: toxicity
+category: ethics_safety
+subcategory: ''
+tags:
+- safety
+- ethics
+- NLP
 difficulty: 2
 weight: 1
-slug: "toxicity"
-aliases:
-  - /ru/terms/toxicity/
-date: "2026-07-18T16:19:01.448766Z"
-lastmod: "2026-07-18T16:38:07.210703Z"
+slug: toxicity
+date: '2026-07-18T16:19:01.448766Z'
+lastmod: '2026-07-18T16:38:07.210703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Наличие вредоносного, оскорбительного или абьюзивного контента в тексте, сгенерированном ИИ, включая разжигание ненависти, преследование и угрозы."
+source: agnes_llm
+status: published
+language: ru
+description: Наличие вредоносного, оскорбительного или абьюзивного контента в тексте,
+  сгенерированном ИИ, включая разжигание ненависти, преследование и угрозы.
 ---
-
 ## Definition
 
 Токсичность в ИИ относится к генерации или распространению контента, который является неуважительным, может заставить пользователя покинуть дискуссию или сфокусирован на конкретной идентичности. Она охватывает спектр от легкой грубости до открытой враждебности и дискриминации.

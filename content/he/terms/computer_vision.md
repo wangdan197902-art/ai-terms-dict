@@ -1,23 +1,24 @@
 ---
-title: "ראייה ממוחשבת"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: ראייה ממוחשבת
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /he/terms/computer_vision/
-date: "2026-07-18T15:22:41.853544Z"
-lastmod: "2026-07-18T17:15:09.470932Z"
+slug: computer_vision
+date: '2026-07-18T15:22:41.853544Z'
+lastmod: '2026-07-18T17:15:09.470932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תחום בבינה מלאכותית המאפשר למחשבים לחלץ מידע משמעותי מתמונות דיגיטליות, סרטונים וקלטים חזותיים אחרים."
+source: agnes_llm
+status: published
+language: he
+description: תחום בבינה מלאכותית המאפשר למחשבים לחלץ מידע משמעותי מתמונות דיגיטליות,
+  סרטונים וקלטים חזותיים אחרים.
 ---
-
 ## Definition
 
 ראייה ממוחשבת מתמקדת בהעתקת יכולות הראייה האנושיות באמצעות תהליכים חישוביים. היא כוללת ניתוח ופרשנות של נתונים חזותיים כדי לזהות אובייקטים, לזהות דפוסים ולהבין סצנות.

@@ -1,23 +1,24 @@
 ---
-title: "Transfer Learning"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Transfer Learning
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /nl/terms/transfer_learning/
-date: "2026-07-18T15:30:54.679653Z"
-lastmod: "2026-07-18T17:15:08.695552Z"
+slug: transfer_learning
+date: '2026-07-18T15:30:54.679653Z'
+lastmod: '2026-07-18T17:15:08.695552Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een machine learning-techniek waarbij een model dat voor de ene taak is ontwikkeld, wordt hergebruikt als startpunt voor een model op een tweede taak."
+source: agnes_llm
+status: published
+language: nl
+description: Een machine learning-techniek waarbij een model dat voor de ene taak
+  is ontwikkeld, wordt hergebruikt als startpunt voor een model op een tweede taak.
 ---
-
 ## Definition
 
 Transfer learning maakt gebruik van voorgeïnteresseerde modellen om de prestaties te verbeteren en de trainingstijd te verkorten voor nieuwe, gerelateerde taken. In plaats van opnieuw van nul te beginnen, passen ontwikkelaars bestaande gewichten aan (fine-tuning), waardoor

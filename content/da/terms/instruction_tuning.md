@@ -1,23 +1,24 @@
 ---
-title: "Instruktionsjustering"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Instruktionsjustering
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /da/terms/instruction_tuning/
-date: "2026-07-18T15:26:38.268020Z"
-lastmod: "2026-07-18T17:15:09.226467Z"
+slug: instruction_tuning
+date: '2026-07-18T15:26:38.268020Z'
+lastmod: '2026-07-18T17:15:09.226467Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Instruktionsjustering er en finjusteringsteknik, hvor en fortrænelt sprogmodel trænes på et datasæt af instrukser og deres tilsvarende svar for at forbedre evnen til at følge opgaver."
+source: agnes_llm
+status: published
+language: da
+description: Instruktionsjustering er en finjusteringsteknik, hvor en fortrænelt sprogmodel
+  trænes på et datasæt af instrukser og deres tilsvarende svar for at forbedre evnen
+  til at følge opgaver.
 ---
-
 ## Definition
 
 Denne proces overbruser kløften mellem generel fortræning og specifik opgavepræstation. Ved at udsætte modellen for forskellige instruks-svar-par lærer den at generalisere til usete opgaver uden ad

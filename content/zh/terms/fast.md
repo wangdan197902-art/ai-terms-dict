@@ -1,23 +1,22 @@
 ---
-title: "快速"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: 快速
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /zh/terms/fast/
-date: "2026-07-18T10:51:19.044877Z"
-lastmod: "2026-07-18T11:44:45.368031Z"
+slug: fast
+date: '2026-07-18T10:51:19.044877Z'
+lastmod: '2026-07-18T11:44:45.368031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在人工智能领域，“快速”指为低延迟和高吞吐量处理任务而优化的系统或算法。"
+source: agnes_llm
+status: published
+language: zh
+description: 在人工智能领域，“快速”指为低延迟和高吞吐量处理任务而优化的系统或算法。
 ---
-
 ## Definition
 
 “快速”一词描述了人工智能模型中的计算效率，强调快速的推理时间和高效的数据处理能力。这对于实时应用至关重要。

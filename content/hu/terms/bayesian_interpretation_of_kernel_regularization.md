@@ -1,23 +1,24 @@
 ---
-title: "Kernel regularizáció bayesi értelmezése"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Kernel regularizáció bayesi értelmezése
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /hu/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:47:14.891101Z"
-lastmod: "2026-07-18T17:15:09.758881Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:47:14.891101Z'
+lastmod: '2026-07-18T17:15:09.758881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy elméleti keretrendszer, amely összeköti a kernel alapú módszereket (pl. SVM) a Gauss-folyamatokkal bayesi prior feltételezés mellett."
+source: agnes_llm
+status: published
+language: hu
+description: Egy elméleti keretrendszer, amely összeköti a kernel alapú módszereket
+  (pl. SVM) a Gauss-folyamatokkal bayesi prior feltételezés mellett.
 ---
-
 ## Definition
 
 Ez a fogalom azt állítja, hogy egy specifikus kernellel rendelkező regularizált kockázati funkció minimalizálása ekvivalens a maximális poszteriori (MAP) becslés megtalálásával egy bayesi keretrendszerben. Konkrétan ez

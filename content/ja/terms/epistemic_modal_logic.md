@@ -1,23 +1,23 @@
 ---
-title: "認識論的様相論理"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: 認識論的様相論理
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /ja/terms/epistemic_modal_logic/
-date: "2026-07-18T11:13:45.750703Z"
-lastmod: "2026-07-18T11:44:45.095268Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T11:13:45.750703Z'
+lastmod: '2026-07-18T11:44:45.095268Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "エージェントの知識や信念の状態を表し、推論するために形式的体系を用いる様相論理の一分野。"
+source: agnes_llm
+status: published
+language: ja
+description: エージェントの知識や信念の状態を表し、推論するために形式的体系を用いる様相論理の一分野。
 ---
-
 ## Definition
 
 認識論的様相論理は、エージェントが何を知っているか、または何を信じているかを示す演算子を用いて古典論理を拡張したものです。これは、他の参加者の知識について推論を行う必要があるマルチエージェントシステムにおいて不可欠であり、セキュリティプロトコルの検証や分散システムの設計などに適用されます。

@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /id/terms/human_problem_solving/
 date: "2026-07-18T15:54:53.304424Z"
 lastmod: "2026-07-18T16:38:07.467535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses kognitif di mana individu mengidentifikasi, menganalisis, dan menyelesaikan masalah kompleks menggunakan penalaran, kreativitas, dan pengalaman."
 ---
-
 ## Definition
 
 Pemecahan masalah manusia mencakup kemampuan kognitif multifaset yang digunakan manusia untuk menavigasi tantangan, mulai dari tugas sederhana hingga kesulitan konseptual abstrak. Berbeda dengan pendekatan algoritmik, metode ini mengandalkan intuisi dan konteks.

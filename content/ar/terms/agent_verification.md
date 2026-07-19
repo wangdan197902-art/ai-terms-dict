@@ -1,23 +1,24 @@
 ---
-title: "التحقق من صحة الوكيل"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: التحقق من صحة الوكيل
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /ar/terms/agent_verification/
-date: "2026-07-18T15:42:35.019897Z"
-lastmod: "2026-07-18T17:15:08.473463Z"
+slug: agent_verification
+date: '2026-07-18T15:42:35.019897Z'
+lastmod: '2026-07-18T17:15:08.473463Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التحقق من صحة الوكيل هو عملية إثبات رسمي بأن الوكيل المستقل سيتصرف بشكل صحيح وآمن في جميع الظروف المحددة."
+source: agnes_llm
+status: published
+language: ar
+description: التحقق من صحة الوكيل هو عملية إثبات رسمي بأن الوكيل المستقل سيتصرف بشكل
+  صحيح وآمن في جميع الظروف المحددة.
 ---
-
 ## Definition
 
 يتضمن ذلك استخدام الأساليب الرياضية لضمان امتثال أفعال الوكيل للقيود المسبقة، مثل حدود السلامة أو المبادئ التوجيهية الأخلاقية. إنه مهم بشكل خاص للوكلاء العاملين...

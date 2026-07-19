@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /ja/terms/knowledge_level/
 date: "2026-07-18T11:20:51.477916Z"
 lastmod: "2026-07-18T11:44:45.113094Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "エージェントが情報を内部でどのように処理するかではなく、何を知っているかに焦点を当てた抽象的な設計視点。"
 ---
-
 ## Definition
 
 アレン・ニューウェルによって提唱された知識レベルは、物理的な実装とは独立して、信念と目標に基づいて知能システムを分析します。これはエージェントの行動の合理性を分離します。

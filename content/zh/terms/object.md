@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /zh/terms/object/
 date: "2026-07-18T10:53:26.248992Z"
 lastmod: "2026-07-18T11:44:45.379619Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "程序中的一个独立实体，包含数据和操作该数据的方法，是面向对象编程的核心。"
 ---
-
 ## Definition
 
 对象是计算机科学中的一个基本概念，特别是在面向对象编程（OOP）中。它代表类的一个实例，封装了状态（属性或数据）和行为

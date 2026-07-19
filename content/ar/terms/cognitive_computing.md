@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /ar/terms/cognitive_computing/
 date: "2026-07-18T15:48:49.318375Z"
 lastmod: "2026-07-18T17:15:08.484968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تشير الحوسبة المعرفية إلى الأنظمة التي تحاكي عمليات التفكير البشرية في نموذج حاسوبي، باستخدام الذكاء الاصطناعي لمحاكاة وظائف الدماغ البشري."
 ---
-
 ## Definition
 
 الحوسبة المعرفية هي فرع من فروع الذكاء الاصطناعي يسعى للتفاعل مع البشر بشكل طبيعي بينما يحاكي أيضاً عمليات الدماغ البشري. تستخدم هذه الأنظمة التعلم الآلي والتعلم العميق...

@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /ja/terms/forethought_technologies/
 date: "2026-07-18T11:15:11.232327Z"
 lastmod: "2026-07-18T11:44:45.098796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "先見技術とは、予測モデリングとシミュレーションを通じて、将来のシステム状態、リスク、要件を見通すエンジニアリング実践を指します。"
 ---
-
 ## Definition
 
 この概念には、潜在的な結果をシミュレートし、主体的に適応できる前向きな機能を持つAIシステムの設計が含まれます。これは予測分析、シナリオプランニング、およびリスク

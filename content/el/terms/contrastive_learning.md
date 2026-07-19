@@ -1,23 +1,24 @@
 ---
-title: "Αντιπαραθετική Μάθηση"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Αντιπαραθετική Μάθηση
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /el/terms/contrastive_learning/
-date: "2026-07-18T15:56:52.895688Z"
-lastmod: "2026-07-18T17:15:09.892871Z"
+slug: contrastive_learning
+date: '2026-07-18T15:56:52.895688Z'
+lastmod: '2026-07-18T17:15:09.892871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική αυθορμητευόμενης μάθησης που μαθαίνει αναπαραστάσεις τραβώντας τα θετικά ζεύγη κοντά και απωθώντας τα αρνητικά ζεύγη μακριά."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική αυθορμητευόμενης μάθησης που μαθαίνει αναπαραστάσεις τραβώντας
+  τα θετικά ζεύγη κοντά και απωθώντας τα αρνητικά ζεύγη μακριά.
 ---
-
 ## Definition
 
 Η αντιπαραθετική μάθηση είναι μια μέθοδος μάθησης αναπαραστάσεων που δεν απαιτεί επισημασμένα δεδομένα. Λειτουργεί δημιουργώντας ενισχυμένες εκδοχές του ίδιου εισόδου (θετικά ζεύγη) και αντιπαραθέτοντάς τις με διαφορετικές...

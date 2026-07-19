@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /tr/terms/computational_humor/
 date: "2026-07-18T15:45:41.178820Z"
 lastmod: "2026-07-18T16:38:07.284679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Hesaplamalı yöntemler aracılığıyla mizahi içeriği üretmeye, anlamaya ve takdir etmeye odaklanan yapay zekanın alt dalı."
 ---
-
 ## Definition
 
 Hesaplamalı mizah, makinelerin şakaları, kelime oyunları ve zeki sözleri nasıl üretebileceğini veya yorumlayabileceğini inceler. Genellikle tutarsızlıkları, anlamsal kaymaları veya beklenmedik 

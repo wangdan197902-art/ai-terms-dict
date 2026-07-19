@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /zh/terms/datasetsnli/
 date: "2026-07-18T11:13:26.834860Z"
 lastmod: "2026-07-18T11:44:45.483041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "斯坦福自然语言推理语料库，一个包含英语句子对及人工编写的文本蕴含标签的大型数据集。"
 ---
-
 ## Definition
 
 SNLI 是一个基准数据集，包含超过 50 万个标注的句子对，分为三类：蕴含（entailment）、矛盾（contradiction）和中性（neutral）。它旨在推动自然语言推理研究。

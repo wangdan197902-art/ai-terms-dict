@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /it/terms/self_consistency/
 date: "2026-07-18T16:20:39.321699Z"
 lastmod: "2026-07-18T17:15:08.667271Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'auto-consistenza è una strategia di decodifica in cui vengono campionate più percorsi di ragionamento e la risposta più frequente viene selezionata come output finale."
 ---
-
 ## Definition
 
 Principalmente utilizzata con i Modelli Linguistici di Grande Dimensione (LLM), questa tecnica migliora l'accuratezza generando diverse risposte diversificate a un prompt tramite campionamento. Invece di affidarsi alla decodifica greedy, aggrega i risultati per trovare il consenso.

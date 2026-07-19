@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /da/terms/loss_function/
 date: "2026-07-18T15:35:50.714372Z"
 lastmod: "2026-07-18T17:15:09.246205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En matematisk funktion, der kvantificerer forskellen mellem forudsagte værdier og faktiske målverdier under træning."
 ---
-
 ## Definition
 
 Også kendt som omkostnings- eller fejlfunktion, giver tabfunktionen en skalarværdi, der indikerer, hvor godt modellen performer. Under træning bruger optimeringsalgoritmer denne værdi til at beregne gradienter og justere modellens parametre for at reducere fejlen over tid.

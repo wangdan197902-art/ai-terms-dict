@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /it/terms/algorithmic_inference/
 date: "2026-07-18T15:46:07.760121Z"
 lastmod: "2026-07-18T17:15:08.596940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'inferenza algoritmica è il processo mediante il quale un modello di machine learning addestrato applica modelli appresi a nuovi dati non visti per fare previsioni o prendere decisioni."
 ---
-
 ## Definition
 
 Conosciuta anche come previsione o punteggio, l'inferenza avviene dopo la fase di addestramento del modello. L'algoritmo prende le caratteristiche di input, le elabora attraverso la sua struttura interna (come i pesi in una rete neurale) e genera un output.

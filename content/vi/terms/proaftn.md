@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /vi/terms/proaftn/
-date: "2026-07-18T16:08:25.569400Z"
-lastmod: "2026-07-18T16:38:07.794687Z"
+slug: proaftn
+date: '2026-07-18T16:08:25.569400Z'
+lastmod: '2026-07-18T16:38:07.794687Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Đại số quan hệ xác suất cho Mạng chuỗi thời gian hàm, một khung làm việc để mô hình hóa các hệ thống động."
+source: agnes_llm
+status: published
+language: vi
+description: Đại số quan hệ xác suất cho Mạng chuỗi thời gian hàm, một khung làm việc
+  để mô hình hóa các hệ thống động.
 ---
-
 ## Definition
 
 Praftn là một khung tính toán chuyên biệt được thiết kế để xử lý dữ liệu chuỗi thời gian hàm trong cấu trúc quan hệ. Nó kết hợp suy luận xác suất với các phép toán đại số để mô hình hóa các hệ thống phức tạp.

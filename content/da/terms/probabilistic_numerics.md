@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /da/terms/probabilistic_numerics/
 date: "2026-07-18T16:12:39.980232Z"
 lastmod: "2026-07-18T17:15:09.322813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et felt, der behandler numeriske beregningsproblemer som statistiske inferensopgaver for at kvantificere usikkerhed i resultater."
 ---
-
 ## Definition
 
 Probabilistisk numerik anvender Bayesianske metoder på traditionelle numeriske problemer som integration, differentiation og lineær algebra. I stedet for at give punktskøn, udsteder det sandsynlighedsfordelinger, der kvantificerer usikkerheden i de numeriske resultater.

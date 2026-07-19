@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /pt/terms/knowledge_integration/
 date: "2026-07-18T15:07:05.715618Z"
 lastmod: "2026-07-18T15:51:59.505253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo de combinar fontes de conhecimento heterogêneas em uma representação unificada e consistente para aprimorar o raciocínio."
 ---
-
 ## Definition
 
 A integração de conhecimento envolve mesclar dados de diversas origens, como bancos de dados, ontologias e textos não estruturados, em um esquema coerente. Ela aborda questões de heterogeneidade semântica e inconsistência, permitindo que sistemas diferentes compartilhem e utilizem informações de forma unificada e confiável.

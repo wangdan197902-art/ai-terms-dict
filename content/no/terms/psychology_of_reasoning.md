@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /no/terms/psychology_of_reasoning/
 date: "2026-07-18T16:13:05.722398Z"
 lastmod: "2026-07-18T16:38:07.036980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Det tverrfaglige studiet av hvordan mennesker danner dommer, tar beslutninger og løser problemer, noe som informerer om kognitive AI-arkitekturer."
 ---
-
 ## Definition
 
 Dette feltet undersøker de mentale prosessene som ligger til grunn for menneskelig deduksjon, induksjon og abduktiv resonnement. Det utforsker bias, heuristikk og logiske strukturer som styrer menneskelig tenkning. I AI gir innsikt herfra grunnlag for bedre modellering av menneskelig atferd.

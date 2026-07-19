@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /sv/terms/multi_armed_bandit/
 date: "2026-07-18T16:10:40.823674Z"
 lastmod: "2026-07-18T17:15:09.029055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En multi-armed bandit är ett klassiskt problem inom sannolikhetsteori och förstärkningsinlärning som modellerar avvägningen mellan utforskning och utnyttjande."
 ---
-
 ## Definition
 
 Problemet med multi-armed bandit illustrerar dilemmat som en agent står inför när den avgör om den ska stanna kvar vid en känd belönande alternativ (utnyttjande) eller prova nya alternativ för att upptäcka potentiellt bättre belöningar

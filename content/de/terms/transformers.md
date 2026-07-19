@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /de/terms/transformers/
 date: "2026-07-18T10:54:44.482493Z"
 lastmod: "2026-07-18T11:44:44.886189Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich in diesem Kontext auf die Hugging Face Transformers-Bibliothek, eine beliebte Open-Source-Toolbox für State-of-the-Art-NLP- und Multimodellmodelle."
 ---
-
 ## Definition
 
 Der Begriff 'Transformers' bezieht sich oft auf die weit verbreitete Python-Bibliothek, die von Hugging Face gepflegt wird. Sie bietet einfach zu bedienende Schnittstellen zum Herunterladen, Trainieren und Bereitstellen vortrainierter Modelle basierend auf...

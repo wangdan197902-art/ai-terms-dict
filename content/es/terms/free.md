@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /es/terms/free/
 date: "2026-07-18T10:23:22.242795Z"
 lastmod: "2026-07-18T11:44:44.741323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Describe recursos, software o datos que están disponibles sin costo financiero ni licencias restrictivas."
 ---
-
 ## Definition
 
 En el contexto de la IA, 'gratuito' suele referirse a modelos, conjuntos de datos o herramientas de código abierto que los usuarios pueden acceder, modificar y distribuir sin pagar tarifas. Esto contrasta con las soluciones propietarias que

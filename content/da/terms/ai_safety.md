@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /da/terms/ai_safety/
 date: "2026-07-18T15:22:13.416302Z"
 lastmod: "2026-07-18T17:15:09.216422Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et forskningsfelt fokuseret på at forhindre utilsigtede skadelige konsekvenser fra avancerede kunstige intelligenssystemer."
 ---
-
 ## Definition
 
 AI-sikkerhed dækker over forskning og praksis, der sigter mod at sikre, at autonome systemer opfører sig på en måde, der er gavnlig og ikke-skadelig for mennesker. Det adresserer risici såsom bias, desinformation og sikkerhedsbrister.

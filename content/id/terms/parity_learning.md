@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran Paritas"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Pembelajaran Paritas
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /id/terms/parity_learning/
-date: "2026-07-18T16:03:28.394554Z"
-lastmod: "2026-07-18T16:38:07.492330Z"
+slug: parity_learning
+date: '2026-07-18T16:03:28.394554Z'
+lastmod: '2026-07-18T16:38:07.492330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Masalah pembelajaran mesin teoretis yang berfokus pada prediksi jumlah XOR dari input biner, digunakan untuk menguji kapasitas ekspresif model."
+source: agnes_llm
+status: published
+language: id
+description: Masalah pembelajaran mesin teoretis yang berfokus pada prediksi jumlah
+  XOR dari input biner, digunakan untuk menguji kapasitas ekspresif model.
 ---
-
 ## Definition
 
 Pembelajaran Paritas adalah masalah patokan dalam teori pembelajaran mesin di mana tujuannya adalah memprediksi paritas (jumlah XOR) dari sekumpulan variabel input biner. Masalah ini terkenal sulit bagi jaringan saraf feedforward standar karena memerlukan memori jangka panjang dan penalaran logis non-linier.

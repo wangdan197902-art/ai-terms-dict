@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /pt/terms/encoder/
 date: "2026-07-18T14:44:08.214038Z"
 lastmod: "2026-07-18T15:51:59.449434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um codificador é um componente de uma rede neural que transforma dados de entrada em uma representação comprimida e significativa."
 ---
-
 ## Definition
 
 Os codificadores processam sequências de entrada brutas ou estruturas de dados e os convertem em representações no espaço latente, frequentemente chamadas de embeddings ou códigos. Eles são centrais em arquiteturas como Transformers e Autoencoders.

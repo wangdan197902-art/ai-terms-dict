@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /cs/terms/sovereign_ai/
 date: "2026-07-18T16:18:17.203597Z"
 lastmod: "2026-07-18T17:15:09.202050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Strategický přístup, při kterém národy nebo entity vyvíjejí a kontrolují vlastní infrastrukturu a modely AI, aby zajistily ochranu údajů a regulační nezávislost."
 ---
-
 ## Definition
 
 Suverénní AI popisuje schopnost země nebo organizace budovat, nasazovat a spravovat systémy umělé inteligence nezávisle, bez závislosti na zahraničních poskytovatelích cloudových služeb nebo proprietárních technologiích třetích stran.

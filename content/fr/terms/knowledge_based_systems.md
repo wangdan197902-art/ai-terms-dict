@@ -1,23 +1,25 @@
 ---
-title: "Systèmes à base de connaissances"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Systèmes à base de connaissances
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /fr/terms/knowledge_based_systems/
-date: "2026-07-18T11:24:56.811309Z"
-lastmod: "2026-07-18T11:44:45.282146Z"
+slug: knowledge_based_systems
+date: '2026-07-18T11:24:56.811309Z'
+lastmod: '2026-07-18T11:44:45.282146Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Systèmes d'IA qui utilisent des bases de connaissances explicites et des moteurs d'inférence pour résoudre des problèmes complexes nécessitant une expertise humaine."
+source: agnes_llm
+status: published
+language: fr
+description: Systèmes d'IA qui utilisent des bases de connaissances explicites et
+  des moteurs d'inférence pour résoudre des problèmes complexes nécessitant une expertise
+  humaine.
 ---
-
 ## Definition
 
 Les systèmes à base de connaissances (SBC) sont une branche de l'intelligence artificielle qui intègre des connaissances spécifiques à un domaine dans un système informatique afin d'effectuer des tâches qui requièrent généralement une expertise humaine. Ils c

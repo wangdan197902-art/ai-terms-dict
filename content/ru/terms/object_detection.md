@@ -1,23 +1,24 @@
 ---
-title: "Обнаружение объектов"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: Обнаружение объектов
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /ru/terms/object_detection/
-date: "2026-07-18T16:08:27.586538Z"
-lastmod: "2026-07-18T16:38:07.187398Z"
+slug: object_detection
+date: '2026-07-18T16:08:27.586538Z'
+lastmod: '2026-07-18T16:38:07.187398Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника компьютерного зрения, которая идентифицирует и локализует объекты на изображениях или видеопотоках с помощью ограничивающих рамок."
+source: agnes_llm
+status: published
+language: ru
+description: Техника компьютерного зрения, которая идентифицирует и локализует объекты
+  на изображениях или видеопотоках с помощью ограничивающих рамок.
 ---
-
 ## Definition
 
 Обнаружение объектов расширяет классификацию изображений: система определяет не только наличие объектов, но и их местоположение. На выходе алгоритм предоставляет координаты ограничивающих рамок (bounding boxes) вокруг найденных элементов вместе с присвоенными им метками классов.

@@ -1,23 +1,23 @@
 ---
-title: "Logic Mô tả (Description Logic)"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Logic Mô tả (Description Logic)
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /vi/terms/description_logic/
-date: "2026-07-18T15:49:14.511992Z"
-lastmod: "2026-07-18T16:38:07.748559Z"
+slug: description_logic
+date: '2026-07-18T15:49:14.511992Z'
+lastmod: '2026-07-18T16:38:07.748559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một họ các ngôn ngữ biểu diễn tri thức chính thức được sử dụng để biểu diễn và suy luận về cấu trúc khái niệm của các miền."
+source: agnes_llm
+status: published
+language: vi
+description: Một họ các ngôn ngữ biểu diễn tri thức chính thức được sử dụng để biểu
+  diễn và suy luận về cấu trúc khái niệm của các miền.
 ---
-
 ## Definition
 
 Logic Mô tả (DL) là các phân đoạn có thể quyết định được (decidable fragments) của logic bậc nhất, tạo nền tảng lý thuyết cho các ontology, đặc biệt là Ngôn ngữ Ontology Web (OWL). Chúng cho phép xác định chính xác...

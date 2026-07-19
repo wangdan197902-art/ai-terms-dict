@@ -1,23 +1,24 @@
 ---
-title: "Irklaşma"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Irklaşma
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /tr/terms/divergence/
-date: "2026-07-18T15:24:28.669454Z"
-lastmod: "2026-07-18T16:38:07.230223Z"
+slug: divergence
+date: '2026-07-18T15:24:28.669454Z'
+lastmod: '2026-07-18T16:38:07.230223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Irklaşma, makine öğrenmesi algoritmasının eğitim sırasında kayıp fonksiyonunun azalmayıp tersine artması veya kararsızlaşması durumudur."
+source: agnes_llm
+status: published
+language: tr
+description: Irklaşma, makine öğrenmesi algoritmasının eğitim sırasında kayıp fonksiyonunun
+  azalmayıp tersine artması veya kararsızlaşması durumudur.
 ---
-
 ## Definition
 
 Optimizasyon bağlamında irklaşma, model parametrelerinin kaybı azaltmak yerine artıracak şekilde güncellendiği durumdur; bu genellikle NaN değerlerine veya sonsuz gradyanlara yol açar.

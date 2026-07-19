@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /es/terms/gradient_accumulation/
 date: "2026-07-18T10:52:26.796056Z"
 lastmod: "2026-07-18T11:44:44.812703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La acumulación de gradientes es una técnica que simula tamaños de lote más grandes sumando los gradientes durante varias pasadas hacia adelante y hacia atrás antes de actualizar los pesos."
 ---
-
 ## Definition
 
 Esta estrategia de optimización permite entrenar modelos de aprendizaje profundo con tamaños de lote efectivos mayores a los que caben en la memoria de la GPU. Al acumular gradientes de varios minibatches y realizar actualizaciones de pesos menos frecuentes.

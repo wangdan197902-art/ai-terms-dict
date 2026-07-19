@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /fi/terms/cli/
 date: "2026-07-18T15:35:27.713741Z"
 lastmod: "2026-07-18T17:15:09.368187Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Komentorajapinta on tekstipohjainen tapa vuorovaikuttaa ohjelmistojen kanssa kirjoittamalla komentoja päätteeseen."
 ---
-
 ## Definition
 
 Komentorajapinta (CLI) mahdollistaa käyttäjien ohjata ohjelmistoja syöttämällä tekstikomennon sijaan kuin käyttämällä graafisia elementtejä. Teeko kehitettäessä CLI:t ovat välttämättömiä skriptien suorittamiseen, resurssien hallintaan ja muihin

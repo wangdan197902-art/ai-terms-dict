@@ -1,23 +1,25 @@
 ---
-title: "Uczenie transferowe"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Uczenie transferowe
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /pl/terms/transfer_learning/
-date: "2026-07-18T15:30:57.836774Z"
-lastmod: "2026-07-18T17:15:08.823356Z"
+slug: transfer_learning
+date: '2026-07-18T15:30:57.836774Z'
+lastmod: '2026-07-18T17:15:08.823356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika uczenia maszynowego, w której model opracowany do jednego zadania jest ponownie wykorzystywany jako punkt wyjścia dla modelu realizującego drugie zadanie."
+source: agnes_llm
+status: published
+language: pl
+description: Technika uczenia maszynowego, w której model opracowany do jednego zadania
+  jest ponownie wykorzystywany jako punkt wyjścia dla modelu realizującego drugie
+  zadanie.
 ---
-
 ## Definition
 
 Uczenie transferowe wykorzystuje modele wstępnie wytrenowane, aby poprawić wydajność i skrócić czas trenowania na nowych, pokrewnych zadaniach. Zamiast trenować model od zera, deweloperzy dostosowują istniejące wagi, co pozwala na szybsze osiągnięcie dobrych wyników przy mniejszym nakładzie danych.

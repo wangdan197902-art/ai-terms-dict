@@ -1,23 +1,24 @@
 ---
-title: "فالكون (Falcon)"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: فالكون (Falcon)
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /ar/terms/falcon/
-date: "2026-07-18T15:57:37.160918Z"
-lastmod: "2026-07-18T17:15:08.503514Z"
+slug: falcon
+date: '2026-07-18T15:57:37.160918Z'
+lastmod: '2026-07-18T17:15:08.503514Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عائلة من نماذج اللغة الكبيرة المطورة بواسطة معهد الابتكار التكنولوجي، والمعروفة بأدائها العالي وكفاءتها مقارنة بنماذج اللغة المفتوحة الأخرى."
+source: agnes_llm
+status: published
+language: ar
+description: عائلة من نماذج اللغة الكبيرة المطورة بواسطة معهد الابتكار التكنولوجي،
+  والمعروفة بأدائها العالي وكفاءتها مقارنة بنماذج اللغة المفتوحة الأخرى.
 ---
-
 ## Definition
 
 يشير فالكون إلى سلسلة من نماذج اللغة الكبيرة (LLMs) القوية التي أنشأها معهد الابتكار التكنولوجي. تم تصميم هذه النماذج، مثل فالكون-40B وفالكون-180B، للتنافس مع النماذج المملوكة.

@@ -1,23 +1,24 @@
 ---
-title: "Parçalara Ayırma (Chunking)"
-term_id: "chunking"
-category: "application_paradigms"
-subcategory: ""
-tags: ["preprocessing", "rag", "data-management"]
+title: Parçalara Ayırma (Chunking)
+term_id: chunking
+category: application_paradigms
+subcategory: ''
+tags:
+- preprocessing
+- rag
+- Data Management
 difficulty: 3
 weight: 1
-slug: "chunking"
-aliases:
-  - /tr/terms/chunking/
-date: "2026-07-18T15:44:48.049625Z"
-lastmod: "2026-07-18T16:38:07.281912Z"
+slug: chunking
+date: '2026-07-18T15:44:48.049625Z'
+lastmod: '2026-07-18T16:38:07.281912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Parçalara ayırma, büyük belgelerin veya veri akışlarının işleme veya dizine ekleme amacıyla daha küçük, yönetilebilir segmentlere bölünmesi sürecidir."
+source: agnes_llm
+status: published
+language: tr
+description: Parçalara ayırma, büyük belgelerin veya veri akışlarının işleme veya
+  dizine ekleme amacıyla daha küçük, yönetilebilir segmentlere bölünmesi sürecidir.
 ---
-
 ## Definition
 
 Parçalara ayırma, Geri Getirime Dayalı Üretim (RAG) ve diğer NLP boru hatlarında kritik bir ön işleme adımıdır. Metni, bağlam penceresine sığacak şekilde sabit boyutlu veya anlamsal birimlere (parçalara) bölmeyi içerir.

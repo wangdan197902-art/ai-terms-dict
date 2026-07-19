@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /es/terms/rate_limiting/
 date: "2026-07-18T11:06:12.130115Z"
 lastmod: "2026-07-18T11:44:44.849284Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un mecanismo de control de ingeniería que restringe el número de solicitudes que un cliente puede hacer a un servicio dentro de una ventana de tiempo específica."
 ---
-
 ## Definition
 
 La limitación de tasa protege los servicios de IA y las API contra abusos, sobrecargas y consumo excesivo de recursos. Garantiza un uso justo entre usuarios y mantiene la estabilidad del sistema al limitar el rendimiento máximo. Las estrategias comunes incluyen ventanas deslizantes o de token bucket.

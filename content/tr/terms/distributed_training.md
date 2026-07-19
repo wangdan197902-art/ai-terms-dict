@@ -1,23 +1,24 @@
 ---
-title: "Dağıtık Eğitim"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Dağıtık Eğitim
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /tr/terms/distributed_training/
-date: "2026-07-18T15:34:02.789764Z"
-lastmod: "2026-07-18T16:38:07.256431Z"
+slug: distributed_training
+date: '2026-07-18T15:34:02.789764Z'
+lastmod: '2026-07-18T16:38:07.256431Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Veri veya hesaplamaları birden fazla cihaz veya sunucu arasında bölerek makine öğrenimi modellerini eğitme yöntemi."
+source: agnes_llm
+status: published
+language: tr
+description: Veri veya hesaplamaları birden fazla cihaz veya sunucu arasında bölerek
+  makine öğrenimi modellerini eğitme yöntemi.
 ---
-
 ## Definition
 
 Dağıtık Eğitim, hesaplamayı birden fazla GPU veya düğüm üzerinde paralelleştirerek model yakınsamasını hızlandırır. Teknikler arasında her işçinin veri alt kümesini işlediği veri paralelliği ve model paralelliği bulunur.

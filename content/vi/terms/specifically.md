@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /vi/terms/specifically/
 date: "2026-07-18T15:29:15.110726Z"
 lastmod: "2026-07-18T16:38:07.696101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các chi tiết chính xác, rõ ràng hoặc đặc thù trong một bối cảnh rộng lớn hơn."
 ---
-
 ## Definition
 
 Trong thuật ngữ AI, 'cụ thể' nhấn mạnh tính chính xác khi định nghĩa các mô hình, điểm dữ liệu hoặc thao tác. Nó phân biệt các tham số chính xác với các danh mục chung, đảm bảo sự rõ ràng trong tài liệu kỹ thuật.

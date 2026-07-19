@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /id/terms/model_registry/
 date: "2026-07-18T16:01:07.529938Z"
 lastmod: "2026-07-18T16:38:07.484502Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem penyimpanan dan manajemen terpusat untuk melacak model pembelajaran mesin sepanjang siklus hidupnya."
 ---
-
 ## Definition
 
 Registri Model berfungsi sebagai komponen kritis dalam MLOps, menyediakan repositori terpadu untuk menyimpan, memverifikasi versi, dan mengelola model ML. Sistem ini memungkinkan tim untuk melacak metadata model, metrik kinerja,

@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /id/terms/experimental/
 date: "2026-07-18T15:25:32.900095Z"
 lastmod: "2026-07-18T16:38:07.392730Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Merujuk pada teknologi, model, atau metode AI yang masih dalam tahap awal pengembangan dan belum sepenuhnya divalidasi untuk produksi."
 ---
-
 ## Definition
 
 Eksperimental menandakan komponen AI yang saat ini sedang diuji, diteliti, atau diprototipekan sebelum mencapai stabilitas atau adopsi luas. Sistem-sistem ini sering kali menggunakan arsitektur baru atau...

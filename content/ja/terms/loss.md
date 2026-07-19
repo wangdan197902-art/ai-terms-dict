@@ -1,23 +1,22 @@
 ---
-title: "ロス"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: ロス
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /ja/terms/loss/
-date: "2026-07-18T10:52:22.540634Z"
-lastmod: "2026-07-18T11:44:45.013195Z"
+slug: loss
+date: '2026-07-18T10:52:22.540634Z'
+lastmod: '2026-07-18T11:44:45.013195Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルの予測値と実際の目標値との間の誤差を定量化する数値です。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルの予測値と実際の目標値との間の誤差を定量化する数値です。
 ---
-
 ## Definition
 
 損失関数（コスト関数とも呼ばれる）は、トレーニング中に機械学習モデルの予測が正解とどれだけ一致しているかを測定します。最適化アルゴリズムの目的は、この損失値を最小限に抑えることです。これにより、モデルの精度が向上します。

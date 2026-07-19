@@ -1,23 +1,25 @@
 ---
-title: "Arnés de agente"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Arnés de agente
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /es/terms/agent_harness/
-date: "2026-07-18T10:34:54.152959Z"
-lastmod: "2026-07-18T11:44:44.773871Z"
+slug: agent_harness
+date: '2026-07-18T10:34:54.152959Z'
+lastmod: '2026-07-18T11:44:44.773871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un arnés de agente es una capa de infraestructura o marco de trabajo que gestiona el ciclo de vida, la comunicación y la asignación de recursos de múltiples agentes de IA dentro de un sistema."
+source: agnes_llm
+status: published
+language: es
+description: Un arnés de agente es una capa de infraestructura o marco de trabajo
+  que gestiona el ciclo de vida, la comunicación y la asignación de recursos de múltiples
+  agentes de IA dentro de un sistema.
 ---
-
 ## Definition
 
 Actúa como la columna vertebral de los sistemas multiagente, proporcionando herramientas para la orquestación, el monitoreo y la coordinación entre agentes. El arnés asegura que los agentes puedan operar eficientemente sin interferencias mutuas.

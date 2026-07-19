@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /tr/terms/is_this_what_we_want/
 date: "2026-07-18T15:59:00.804126Z"
 lastmod: "2026-07-18T16:38:07.322854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerini toplumsal değerler, adalet ve potansiyel zararlı sonuçlar açısından değerlendirmek için kullanılan eleştirel bir etik çerçeve."
 ---
-
 ## Definition
 
 Bu ifade, yapay zeka etiği ve yönetişiminde dönüm noktası niteliğinde bir soruyu temsil eder; paydaşları, dağıtılan yapay zeka teknolojilerinin insan değerleri ve kamu yararıyla uyumlu olup olmadığını değerlendirmeye iter. Potansiyel etik riskleri ve sosyal etkileri gözden geçirmeyi içerir.

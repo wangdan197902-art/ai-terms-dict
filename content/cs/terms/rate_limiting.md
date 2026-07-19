@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /cs/terms/rate_limiting/
 date: "2026-07-18T16:15:08.506574Z"
 lastmod: "2026-07-18T17:15:09.195851Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Inženýrský kontrolní mechanismus, který omezuje počet požadavků, které může klient odeslat ke službě v určitém časovém okně."
 ---
-
 ## Definition
 
 Omezení rychlosti chrání služby a API před zneužitím, přetížením a nadměrnou spotřebou zdrojů. Zajišťuje spravedlivé využívání mezi uživateli a udržuje stabilitu systému omezením propustnosti. Časté strategie zahrnují...

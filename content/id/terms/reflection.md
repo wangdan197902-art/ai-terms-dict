@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /id/terms/reflection/
 date: "2026-07-18T16:07:03.481305Z"
 lastmod: "2026-07-18T16:38:07.500379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Mekanisme yang memungkinkan model AI menganalisis output, proses penalaran, atau keadaan internalnya sendiri untuk meningkatkan kinerja di masa depan."
 ---
-
 ## Definition
 
 Dalam AI, refleksi adalah paradigma di mana model berhenti sejenak untuk mengevaluasi proses generasi atau outputnya sendiri sebelum menyelesaikannya. Hal ini dapat melibatkan pemeriksaan konsistensi logis, akurasi faktual, atau kepatuhan.

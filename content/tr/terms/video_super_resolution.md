@@ -7,8 +7,6 @@ tags: ["video", "enhancement", "upscaling", "cv"]
 difficulty: 4
 weight: 1
 slug: "video_super_resolution"
-aliases:
-  - /tr/terms/video_super_resolution/
 date: "2026-07-18T16:20:31.655052Z"
 lastmod: "2026-07-18T16:38:07.376079Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Video Süper Çözünürlük (VSR), derin öğrenme kullanarak düşük kaliteli video karelerinin uzamsal ve zamansal çözünürlüğünü artıran bir bilgisayarlı görü tekniğidir."
 ---
-
 ## Definition
 
 Video Süper Çözünürlük, detayları korurken ve yapay izleri azaltarak video içeriğini daha düşük çözünürlüklerden (örn. 480p) daha yüksek çözünürlüklere (örn. 4K) ölçeklendirmek için sinir ağlarını kullanmayı içerir. Geleneksel yöntemlerin aksine zaman boyutundaki tutarlılığı da dikkate alır.

@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /no/terms/mountain_car_problem/
 date: "2026-07-18T16:07:42.339365Z"
 lastmod: "2026-07-18T16:38:07.026464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et klassisk forsterkningslæringsoppdrag der en agent må kjøre en bil opp en bratt bakke ved kun å bruke akselerasjonskontroller."
 ---
-
 ## Definition
 
 Fjellbilproblemet er en standard benchmark innen forskning på forsterkningslæring. Målet er å kontrollere en undereffektiv bil for å nå toppen av en bratt bakke. Siden bilen ikke kan klatre bakken i

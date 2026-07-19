@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /vi/terms/outline_of_machine_learning/
 date: "2026-07-18T16:06:19.770244Z"
 lastmod: "2026-07-18T16:38:07.790131Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phân loại toàn diện về các mô hình, thuật toán và chỉ số đánh giá của học máy."
 ---
-
 ## Definition
 
 Thuật ngữ này mô tả phân loại cấu trúc của học máy thành học có giám sát, không giám sát, bán giám sát và học tăng cường. Nó bao gồm các họ thuật toán cốt lõi như hồi quy tuyến tính và cây quyết định.

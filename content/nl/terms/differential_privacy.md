@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /nl/terms/differential_privacy/
 date: "2026-07-18T15:51:50.785794Z"
 lastmod: "2026-07-18T17:15:08.737523Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een strikt wiskundig kader dat garandeert dat het opnemen of uitsluiten van de gegevens van een enkel individu de uitkomst van een analyse niet significant beïnvloedt."
 ---
-
 ## Definition
 
 Differentiële privacy biedt sterke privacygaranties door gekalibreerde statistische ruis toe te voegen aan queryresultaten of modelparameters. Het kwantificeert de maximale hoeveelheid informatielekage over enig individu.

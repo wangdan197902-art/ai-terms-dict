@@ -1,23 +1,24 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /he/terms/fp8/
-date: "2026-07-18T15:58:08.709433Z"
-lastmod: "2026-07-18T17:15:09.541797Z"
+slug: fp8
+date: '2026-07-18T15:58:08.709433Z'
+lastmod: '2026-07-18T17:15:09.541797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "FP8 הוא פורמט נקודה צפה בת 8 סיביות המיועד להאיץ אימון וסטיות של למידה עמוקה תוך שמירה על דיוק מקובל."
+source: agnes_llm
+status: published
+language: he
+description: FP8 הוא פורמט נקודה צפה בת 8 סיביות המיועד להאיץ אימון וסטיות של למידה
+  עמוקה תוך שמירה על דיוק מקובל.
 ---
-
 ## Definition
 
 נקודה צפה 8 (FP8) היא סוג נתונים מספרי המציע איזון בין יעילות חישובית לדיוק, ומותאם ספציפית לחומרה מודרנית לבינה מלאכותית. הוא מפחית את דרישות רוחב הפס של הזיכרון ומאפשר עיבוד מהיר יותר של מודלים גדולים.

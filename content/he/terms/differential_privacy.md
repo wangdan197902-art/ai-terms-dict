@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /he/terms/differential_privacy/
 date: "2026-07-18T15:54:07.600545Z"
 lastmod: "2026-07-18T17:15:09.533105Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסגרת מתמטית קפדנית המבטיחה שהוספה או הסרה של נתוניו של אדם בודד אינה משפיעה משמעותית על תוצאות הניתוח."
 ---
-
 ## Definition
 
 פרטיות דיפרנציאלית מספקת הבטחות חזקות לפרטיות על ידי הוספת רעש סטטיסטי מאוזן לתוצאות שאילתות או פרמטרים של מודל. היא כמותית את כמות המידע המקסימלית הדולפת על כל אדם s

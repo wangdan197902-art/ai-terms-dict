@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /fr/terms/text_to_audio/
 date: "2026-07-18T11:40:52.061011Z"
 lastmod: "2026-07-18T11:44:45.344991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus de conversion de texte écrit en audio parlé, englobant à la fois la synthèse vocale et la génération de sons non vocaux."
 ---
-
 ## Definition
 
 Le texte vers audio est un terme large couvrant les technologies qui transforment une entrée textuelle en sortie auditive. Bien qu'il soit souvent associé à la synthèse vocale (TTS) pour la création de voix humaines réalistes, il inclut également la génération de bruit, d'effets sonores et de paysages sonores complexes à partir de descriptions textuelles.

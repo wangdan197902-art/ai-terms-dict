@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /no/terms/double_descent/
 date: "2026-07-18T15:52:30.415327Z"
 lastmod: "2026-07-18T16:38:06.995762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et fenomen der feilen på testdata synker, øker og deretter synker igjen når modellkompleksiteten vokser utover interpolasjonsterskelen."
 ---
-
 ## Definition
 
 Dobbel nedgang utfordrer den tradisjonelle bias-varians-handelen ved å vise at sterkt overparametriserte modeller kan oppnå lav testfeil selv om de interpolerer treningsdataene. Opprinnelig stiger feilen, men synker deretter igjen.

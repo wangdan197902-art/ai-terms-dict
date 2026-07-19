@@ -1,23 +1,23 @@
 ---
-title: "סופטמקס"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: סופטמקס
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /he/terms/softmax/
-date: "2026-07-18T15:38:47.796155Z"
-lastmod: "2026-07-18T17:15:09.504546Z"
+slug: softmax
+date: '2026-07-18T15:38:47.796155Z'
+lastmod: '2026-07-18T17:15:09.504546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פונקציה מתמטית הממירה וקטור של ציונים ממשיים שרירותיים להתפלגות הסתברותית."
+source: agnes_llm
+status: published
+language: he
+description: פונקציה מתמטית הממירה וקטור של ציונים ממשיים שרירותיים להתפלגות הסתברותית.
 ---
-
 ## Definition
 
 סופטמקס נפוץ מאוד בשכבה החיצונית של רשתות נוירונים למשימות מיון רב-מחלקתי. הפונקציה לוקחת וקטור של לוגיטים גולמיים ומנרמלת אותם כך שכל איבר מייצג הסתברות.

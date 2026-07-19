@@ -1,23 +1,23 @@
 ---
-title: "Mise à l'échelle"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: Mise à l'échelle
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /fr/terms/scaling/
-date: "2026-07-18T10:53:50.406101Z"
-lastmod: "2026-07-18T11:44:45.171577Z"
+slug: scaling
+date: '2026-07-18T10:53:50.406101Z'
+lastmod: '2026-07-18T11:44:45.171577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La mise à l'échelle est le processus d'ajustement de la taille du modèle ou du volume de données afin d'améliorer les capacités d'apprentissage et les performances."
+source: agnes_llm
+status: published
+language: fr
+description: La mise à l'échelle est le processus d'ajustement de la taille du modèle
+  ou du volume de données afin d'améliorer les capacités d'apprentissage et les performances.
 ---
-
 ## Definition
 
 La mise à l'échelle est la méthodologie active consistant à étendre les systèmes d'IA en ajoutant plus de couches, de neurones ou d'exemples d'entraînement. Elle inclut des techniques telles que l'entraînement distribué sur plusieurs GPU pour gérer l'augmentation

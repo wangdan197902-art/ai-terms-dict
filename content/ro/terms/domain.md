@@ -1,23 +1,24 @@
 ---
-title: "Domeniu"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domeniu
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /ro/terms/domain/
-date: "2026-07-18T15:24:54.709187Z"
-lastmod: "2026-07-18T17:15:09.592089Z"
+slug: domain
+date: '2026-07-18T15:24:54.709187Z'
+lastmod: '2026-07-18T17:15:09.592089Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un domeniu reprezintă un context specific sau o distribuție a datelor, caracterizat prin spațiul său de funcții și distribuția de probabilitate subiacentă."
+source: agnes_llm
+status: published
+language: ro
+description: Un domeniu reprezintă un context specific sau o distribuție a datelor,
+  caracterizat prin spațiul său de funcții și distribuția de probabilitate subiacentă.
 ---
-
 ## Definition
 
 În învățarea automată, în special în învățarea prin transfer, un domeniu este definit de două componente: spațiul de funcții (mulțimea tuturor intrărilor posibile) și distribuția de probabilitate marginală a acestor intrări.

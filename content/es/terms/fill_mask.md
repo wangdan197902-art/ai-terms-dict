@@ -1,23 +1,24 @@
 ---
-title: "Rellenar máscara"
-term_id: "fill_mask"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "pretraining", "transformers"]
+title: Rellenar máscara
+term_id: fill_mask
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- pretraining
+- transformers
 difficulty: 2
 weight: 1
-slug: "fill_mask"
-aliases:
-  - /es/terms/fill_mask/
-date: "2026-07-18T10:49:31.290338Z"
-lastmod: "2026-07-18T11:44:44.807113Z"
+slug: fill_mask
+date: '2026-07-18T10:49:31.290338Z'
+lastmod: '2026-07-18T11:44:44.807113Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una tarea de procesamiento del lenguaje natural en la que un modelo predice tokens faltantes dentro de una oración basándose en el contexto circundante."
+source: agnes_llm
+status: published
+language: es
+description: Una tarea de procesamiento del lenguaje natural en la que un modelo predice
+  tokens faltantes dentro de una oración basándose en el contexto circundante.
 ---
-
 ## Definition
 
 Rellenar máscara es un objetivo fundamental de preentrenamiento utilizado en modelos basados en transformadores como BERT. El proceso implica enmascarar tokens aleatorios en una secuencia de texto y entrenar al modelo para predecir los tokens originales

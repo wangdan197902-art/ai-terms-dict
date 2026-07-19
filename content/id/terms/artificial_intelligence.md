@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /id/terms/artificial_intelligence/
 date: "2026-07-18T15:22:34.140599Z"
 lastmod: "2026-07-18T16:38:07.386433Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Simulasi proses kecerdasan manusia oleh sistem komputer."
 ---
-
 ## Definition
 
 Kecerdasan Buatan (AI) mengacu pada kemampuan komputer digital atau robot yang dikendalikan komputer untuk melakukan tugas-tugas yang umumnya diasosiasikan dengan makhluk cerdas. Hal ini mencakup berbagai subbidang.

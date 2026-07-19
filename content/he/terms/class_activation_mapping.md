@@ -1,23 +1,24 @@
 ---
-title: "מיפוי פעילות מחלקה"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: מיפוי פעילות מחלקה
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /he/terms/class_activation_mapping/
-date: "2026-07-18T15:47:48.100018Z"
-lastmod: "2026-07-18T17:15:09.519901Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:47:48.100018Z'
+lastmod: '2026-07-18T17:15:09.519901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מיפוי פעילות מחלקה (CAM) הוא טכניקת הדמיה המדגישה את האזורים בתמונת הקלט האחריות ביותר לחיזוי מחלקה ספציפית."
+source: agnes_llm
+status: published
+language: he
+description: מיפוי פעילות מחלקה (CAM) הוא טכניקת הדמיה המדגישה את האזורים בתמונת הקלט
+  האחריות ביותר לחיזוי מחלקה ספציפית.
 ---
-
 ## Definition
 
 CAM מייצר מפות חום המוצבות מעל תמונות הקלט כדי להראות אילו פיקסלים תרמו ביותר להחלטת המודל עבור תווית מחלקה מסוימת. היא פועלת על ידי יישום ממוצע בינוי גלובלי על השכבות הסופיות של

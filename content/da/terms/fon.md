@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /da/terms/fon/
 date: "2026-07-18T15:56:21.939315Z"
 lastmod: "2026-07-18T17:15:09.289439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Fon henviser til de fundamentale principper og teoretiske grundlag, der styrer designet og driften af kunstige intelligenssystemer."
 ---
-
 ## Definition
 
 I konteksten af AI-terminologi bruges 'Fon' ofte til at beskrive den kernefunktuelle ontologi eller de fundamentale logiske strukturer, der definerer, hvordan en AI-model fortolker input og genererer output. Den

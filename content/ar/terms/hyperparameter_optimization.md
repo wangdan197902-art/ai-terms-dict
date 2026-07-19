@@ -1,23 +1,24 @@
 ---
-title: "تحسين المعلمات الفائقة"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: تحسين المعلمات الفائقة
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /ar/terms/hyperparameter_optimization/
-date: "2026-07-18T16:01:33.859523Z"
-lastmod: "2026-07-18T17:15:08.513766Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T16:01:33.859523Z'
+lastmod: '2026-07-18T17:15:08.513766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج آلي للعثور على التكوين الأمثل للمعلمات الفائقة، غالباً باستخدام نماذج احتمالية لتوجيه البحث."
+source: agnes_llm
+status: published
+language: ar
+description: نهج آلي للعثور على التكوين الأمثل للمعلمات الفائقة، غالباً باستخدام نماذج
+  احتمالية لتوجيه البحث.
 ---
-
 ## Definition
 
 يشير تحسين المعلمات الفائقة (HPO) إلى المجال الأوسع لأتمتة اختيار المعلمات الفائقة. بينما يمثل الضبط الفعل العام، فإن التحسين غالباً ما يستلزم استخدام خوارزميات متطورة مثل

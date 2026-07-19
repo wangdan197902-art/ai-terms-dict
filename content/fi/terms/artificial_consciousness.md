@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /fi/terms/artificial_consciousness/
 date: "2026-07-18T15:42:54.285304Z"
 lastmod: "2026-07-18T17:15:09.383550Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teoreettinen käsite koneiden varustamisesta subjektiivisilla kokemuksilla, itsestään tiedolla ja aistimuksilla, jotka ovat samanlaisia kuin ihmisillä."
 ---
-
 ## Definition
 
 Tekoälytietoisuus tutkii mahdollisuutta luoda koneita, joilla on aitoina subjektiivisia kokemuksia, itsestään tietoa ja tunteita sen sijaan, että ne vain simulaisivat älykästä käyttäytymistä. Se käsittelee filosofisia ja tieteellisiä kysymyksiä siitä, mitä tietoisuus oikeastaan on.

@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /el/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:51:02.302706Z"
 lastmod: "2026-07-18T17:15:09.881211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η αναδυόμενη τομή όπου η ΤΝ χρησιμοποιείται για πνευματική καθοδήγηση, βοήθεια στη διαλογισμό ή διερεύνηση φιλοσοφικών ερωτημάτων."
 ---
-
 ## Definition
 
 Η ΤΝ στην πνευματικότητα αναφέρεται στην εφαρμογή τεχνητής νοημοσύνης σε θρησκευτικά ή διαλογιστικά πλαίσια. Αυτό περιλαμβάνει chatbot που προσφέρουν ηθικές συμβουλές, τέχνη δημιουργημένη από ΤΝ για διαλογισμό ή αλγορίθμους

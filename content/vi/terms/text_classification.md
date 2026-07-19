@@ -1,23 +1,24 @@
 ---
-title: "Phân loại văn bản"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: Phân loại văn bản
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /vi/terms/text_classification/
-date: "2026-07-18T16:13:53.146293Z"
-lastmod: "2026-07-18T16:38:07.810470Z"
+slug: text_classification
+date: '2026-07-18T16:13:53.146293Z'
+lastmod: '2026-07-18T16:38:07.810470Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình phân loại văn bản vào các nhóm có tổ chức dựa trên nội dung hoặc ý nghĩa ngữ nghĩa của nó."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình phân loại văn bản vào các nhóm có tổ chức dựa trên nội dung
+  hoặc ý nghĩa ngữ nghĩa của nó.
 ---
-
 ## Definition
 
 Phân loại văn bản là một nhiệm vụ học có giám sát trong đó các thuật toán gán các danh mục đã xác định trước cho dữ liệu văn bản không có cấu trúc. Các kỹ thuật phổ biến bao gồm Bayes ngây thơ, Máy vectơ hỗ trợ và Học sâu.

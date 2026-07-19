@@ -1,23 +1,24 @@
 ---
-title: "Robust"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: Robust
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /de/terms/robust/
-date: "2026-07-18T10:53:24.614017Z"
-lastmod: "2026-07-18T11:44:44.882458Z"
+slug: robust
+date: '2026-07-18T10:53:24.614017Z'
+lastmod: '2026-07-18T11:44:44.882458Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Beschreibt die Fähigkeit eines KI-Modells oder -Systems, die Leistung trotz Rauschen, Fehlern oder unerwarteter Eingaben aufrechtzuerhalten."
+source: agnes_llm
+status: published
+language: de
+description: Beschreibt die Fähigkeit eines KI-Modells oder -Systems, die Leistung
+  trotz Rauschen, Fehlern oder unerwarteter Eingaben aufrechtzuerhalten.
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz bezieht sich Robustheit auf die Widerstandsfähigkeit eines Modells gegenüber adversariellen Angriffen, Verschiebungen der Datenverteilung oder verrauschten Eingaben. Ein robuster Algorithmus funktioniert weiterhin korrekt, auch wenn...

@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /no/terms/equalized_odds/
 date: "2026-07-18T15:53:31.525381Z"
 lastmod: "2026-07-18T16:38:06.998463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En rettferdighetsmåler som krever at sann positiv og falsk positiv rate er like over ulike demografiske grupper."
 ---
-
 ## Definition
 
 Lik odds er en statistisk paritetsbegrensning brukt i algoritmesk rettferdighet for å sikre at en modell presterer like godt for alle beskyttede grupper. Spesielt krever det at sannsynligheten for en positiv prediksjon gitt den faktiske klassen er uavhengig av gruppetilhørighet.

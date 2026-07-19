@@ -1,23 +1,24 @@
 ---
-title: "Recuperação"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Recuperação
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /pt/terms/retrieval/
-date: "2026-07-18T14:45:42.847495Z"
-lastmod: "2026-07-18T15:51:59.454686Z"
+slug: retrieval
+date: '2026-07-18T14:45:42.847495Z'
+lastmod: '2026-07-18T15:51:59.454686Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O processo de buscar dados relevantes de um banco de dados ou base de conhecimento para aumentar as entradas do modelo."
+source: agnes_llm
+status: published
+language: pt
+description: O processo de buscar dados relevantes de um banco de dados ou base de
+  conhecimento para aumentar as entradas do modelo.
 ---
-
 ## Definition
 
 A recuperação refere-se ao processo técnico de pesquisar e extrair informações específicas de grandes conjuntos de dados ou bases de conhecimento externas com base em consultas de usuários ou contexto. Em sistemas modernos de IA, é frequentemente combinada com geração de linguagem para fornecer respostas precisas e fundamentadas.

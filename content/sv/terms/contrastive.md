@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /sv/terms/contrastive/
 date: "2026-07-18T15:23:54.981421Z"
 lastmod: "2026-07-18T17:15:08.939060Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Kontrastiv inlärning är en självövervakad teknik som tränar modeller för att särskilja mellan liknande och olika datapar."
 ---
-
 ## Definition
 
 Denna metod uppmuntrar modellen att dra embedding-värden för positiva par (liknande objekt) närmare varandra medan den trycker bort negativa par (olika objekt) längre ifrån i det latenta utrymmet. Det används flitigt inom datorseende och naturalspråksbehandling för representationsinlärning.

@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /hu/terms/percept/
 date: "2026-07-18T16:17:36.568952Z"
 lastmod: "2026-07-18T17:15:09.821706Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az érzékszervi bemenet mentális ábrázolása vagy értelmezett eredménye, amelyet az érzékelő rendszer dolgozott fel."
 ---
-
 ## Definition
 
 A percepció egy külső inger belső ábrázolása, miután azt egy érzékelő rendszer feldolgozta. Az MI-ban ez megfelel az alacsony szintű jelfeldolgozásból származó strukturált adat kimenetének, amely jelentéssel bír a rendszer számára.

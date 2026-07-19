@@ -1,23 +1,25 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /pl/terms/ltx_video/
-date: "2026-07-18T16:05:07.087140Z"
-lastmod: "2026-07-18T17:15:08.893914Z"
+slug: ltx_video
+date: '2026-07-18T16:05:07.087140Z'
+lastmod: '2026-07-18T17:15:08.893914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Model dyfuzji ukrytej (latent diffusion) zoptymalizowany specjalnie do generowania wideo wysokiej wierności z zachowaniem spójności czasowej na podstawie promptów tekstowych lub obrazowych."
+source: agnes_llm
+status: published
+language: pl
+description: Model dyfuzji ukrytej (latent diffusion) zoptymalizowany specjalnie do
+  generowania wideo wysokiej wierności z zachowaniem spójności czasowej na podstawie
+  promptów tekstowych lub obrazowych.
 ---
-
 ## Definition
 
 Ltx Video stanowi postęp w dziedzinie generatywnej sztucznej inteligencji dla wideo, wykorzystując procesy dyfuzji w przestrzeni ukrytej do tworzenia spójnego ruchu i detali wizualnych. Model ten rozwiązuje typowe wyzwania związane z generowaniem wideo, takie jak migotanie pikseli czy brak spójności logicznej między klatkami, oferując wysoką jakość wizualną.

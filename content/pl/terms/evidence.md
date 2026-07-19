@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /pl/terms/evidence/
 date: "2026-07-18T15:25:07.338182Z"
 lastmod: "2026-07-18T17:15:08.810574Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dane lub informacje używane do poparcia hipotezy lub zweryfikowania wydajności modelu AI."
 ---
-
 ## Definition
 
 W sztucznej inteligencji dowód odnosi się do danych empirycznych, wyników statystycznych lub obserwowalnych rezultatów, które potwierdzają twierdzenia dotyczące zachowania, dokładności lub skuteczności modelu. Służy jako fundament do oceny wiarygodności modelu.

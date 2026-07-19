@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /pl/terms/llama_3/
 date: "2026-07-18T16:04:50.036348Z"
 lastmod: "2026-07-18T17:15:08.892989Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Llama 3 to wydanie zaawansowanych dużych modeli językowych przez Meta w 2024 roku, oferujące znacznie lepsze zdolności rozumowania, programistyczne i wielojęzyczne w wersjach 8B i 70B."
 ---
-
 ## Definition
 
 Przedstawiona w kwietniu 2024 roku, Llama 3 buduje na sukcesie Llama 2, wprowadzając istotne ulepszenia wydajności i możliwości. Rodzina modeli obejmuje wersje z 8 miliardami i 70 miliardami parametrów.

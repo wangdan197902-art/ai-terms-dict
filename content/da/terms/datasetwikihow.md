@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /da/terms/datasetwikihow/
 date: "2026-07-18T15:50:53.588712Z"
 lastmod: "2026-07-18T17:15:09.277997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et stort datasæt bestående af 'how-to'-artikler fra WikiHow, primært brugt til opgaver inden for tekstsummering og instruktionsgenerering."
 ---
-
 ## Definition
 
 WikiHow-datasættet består af cirka 60.000 'how-to'-artikler indsamlet fra WikiHow-webstedet. Det bruges bredt i forskning inden for naturlig sprogbehandling (NLP) til opgaver såsom abstraktiv tekstsum...

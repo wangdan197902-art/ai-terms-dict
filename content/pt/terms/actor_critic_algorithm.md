@@ -1,23 +1,24 @@
 ---
-title: "Algoritmo ator-crítico"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Algoritmo ator-crítico
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /pt/terms/actor_critic_algorithm/
-date: "2026-07-18T14:48:46.489329Z"
-lastmod: "2026-07-18T15:51:59.460577Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T14:48:46.489329Z'
+lastmod: '2026-07-18T15:51:59.460577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um framework de aprendizado por reforço que combina métodos baseados em valor e baseados em política usando duas redes neurais: um ator e um crítico."
+source: agnes_llm
+status: published
+language: pt
+description: 'Um framework de aprendizado por reforço que combina métodos baseados
+  em valor e baseados em política usando duas redes neurais: um ator e um crítico.'
 ---
-
 ## Definition
 
 O algoritmo ator-crítico emprega dois componentes: o ator, que atualiza a política para selecionar ações, e o crítico, que avalia a qualidade dessas ações estimando a função de valor.

@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /zh/terms/datasetgooaq/
 date: "2026-07-18T11:13:01.752004Z"
 lastmod: "2026-07-18T11:44:45.477966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个包含 Google Answers 查询和响应的大规模数据集，用于训练信息检索和问答模型。"
 ---
-
 ## Definition
 
 GooAQ 是从 Google Answers 服务编译而成的数据集，拥有海量用户提交的问题以及详细的付费回答。它是训练...的宝贵资源

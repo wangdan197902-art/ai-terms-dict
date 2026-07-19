@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /de/terms/deep_learning_super_sampling/
 date: "2026-07-18T11:11:09.137508Z"
 lastmod: "2026-07-18T11:44:44.930397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Technik, die KI verwendet, um Bilder mit niedrigerer Auflösung auf höhere Auflösungen hochzuskalieren, wobei Details verbessert und Artefakte reduziert werden."
 ---
-
 ## Definition
 
 Deep Learning Super Sampling (DLSS) ist eine Technologie, die neuronale Netze nutzt, um hochauflösende Bilder aus Eingaben mit niedrigerer Auflösung zu rekonstruieren. Durch die Analyse zeitlicher Daten und räumlicher Informationen können Bilder effizient mit höherer Qualität und Detailtreue erzeugt werden.

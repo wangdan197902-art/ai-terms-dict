@@ -1,23 +1,23 @@
 ---
-title: "测试"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: 测试
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /zh/terms/testing/
-date: "2026-07-18T11:02:04.102323Z"
-lastmod: "2026-07-18T11:44:45.406643Z"
+slug: testing
+date: '2026-07-18T11:02:04.102323Z'
+lastmod: '2026-07-18T11:44:45.406643Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "系统地评估 AI 模型在未见过数据上的性能和可靠性，以确保质量和安全的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 系统地评估 AI 模型在未见过数据上的性能和可靠性，以确保质量和安全的过程。
 ---
-
 ## Definition
 
 AI 工程中的测试涉及使用多样化的数据集严格评估模型，以识别偏见、错误和鲁棒性问题。它包括对代码组件的单元测试、集成测试等。

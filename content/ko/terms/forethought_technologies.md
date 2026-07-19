@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /ko/terms/forethought_technologies/
 date: "2026-07-18T15:56:15.368443Z"
 lastmod: "2026-07-18T16:38:06.841632Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "예측 모델링과 시뮬레이션을 통해 미래의 시스템 상태, 위험 및 요구사항을 예측하는 공학적 관행."
 ---
-
 ## Definition
 
 이 개념은 잠재적 결과를 시뮬레이션하고 능동적으로 적응할 수 있는 전향적인 기능을 갖춘 AI 시스템을 설계하는 것을 포함합니다. 이는 예측 분석, 시나리오 계획 및 리스크 관리(위험 관리)를 통합합니다.

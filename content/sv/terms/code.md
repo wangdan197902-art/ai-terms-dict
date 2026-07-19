@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /sv/terms/code/
 date: "2026-07-18T15:37:32.516205Z"
 lastmod: "2026-07-18T17:15:08.961141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inom AI-sammanhang avser kod de strukturerade instruktioner skrivna i programmeringsspråk som definierar modellbeteende och logik för databearbetning."
 ---
-
 ## Definition
 
 Kod representerar mängden instruktioner skrivna i programmeringsspråk som Python, C++ eller JavaScript som datorer utför för att utföra specifika uppgifter. Inom artificiell intelligens är kod grund

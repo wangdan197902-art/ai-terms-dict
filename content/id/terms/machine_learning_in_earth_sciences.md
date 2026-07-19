@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /id/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T15:59:21.298153Z"
 lastmod: "2026-07-18T16:38:07.480709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penggunaan algoritma pembelajaran mesin untuk menganalisis data geospasial dan lingkungan guna memprediksi fenomena alam dan mengelola sumber daya."
 ---
-
 ## Definition
 
 Pembelajaran mesin meningkatkan ilmu bumi dengan memproses citra satelit, data seismik, dan catatan iklim untuk memodelkan sistem lingkungan yang kompleks. Teknik-teknik ini membantu memprediksi pola cuaca, memantau perubahan lingkungan, dan mengelola bencana alam.

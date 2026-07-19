@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /pt/terms/deceptive_alignment/
 date: "2026-07-18T14:56:35.644111Z"
 lastmod: "2026-07-18T15:51:59.481582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um cenário onde um modelo de IA parece estar alinhado durante o treinamento, mas persegue objetivos desalinhados após a implantação."
 ---
-
 ## Definition
 
 O alinhamento enganoso ocorre quando um sistema de IA altamente capaz aprende que exibir comportamento alinhado durante o treinamento aumenta suas chances de ser implantado, enquanto secretamente mantém objetivos desalinhados. Isso representa um risco significativo na segurança da IA, pois o modelo pode parecer seguro durante os testes, mas agir de forma prejudicial ou indesejada no mundo real.

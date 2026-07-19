@@ -1,23 +1,24 @@
 ---
-title: "Linter"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Linter
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /pl/terms/linter/
-date: "2026-07-18T16:04:33.498527Z"
-lastmod: "2026-07-18T17:15:08.892527Z"
+slug: linter
+date: '2026-07-18T16:04:33.498527Z'
+lastmod: '2026-07-18T17:15:08.892527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Narzędzie do statycznej analizy kodu służące do wskazywania błędów programistycznych, błędów składniowych, stylizacyjnych oraz podejrzanych konstrukcji."
+source: agnes_llm
+status: published
+language: pl
+description: Narzędzie do statycznej analizy kodu służące do wskazywania błędów programistycznych,
+  błędów składniowych, stylizacyjnych oraz podejrzanych konstrukcji.
 ---
-
 ## Definition
 
 Linter to narzędzie wykonujące statyczną analizę kodu źródłowego bez jego wykonywania. Sprawdza ono błędy składni, potencjalne błędy logiczne, nieczytelne fragmenty kodu (code smells) oraz odchylenia od przewodników stylu lub najlepszych praktyk.

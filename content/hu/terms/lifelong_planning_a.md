@@ -1,23 +1,25 @@
 ---
-title: "Élethosszig tartó tervezés A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Élethosszig tartó tervezés A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /hu/terms/lifelong_planning_a/
-date: "2026-07-18T16:10:20.617012Z"
-lastmod: "2026-07-18T17:15:09.802857Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:10:20.617012Z'
+lastmod: '2026-07-18T17:15:09.802857Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy inkrementális útvonaltervez algoritmus, amely hatékonyan frissíti a legrövidebb utakat dinamikus gráfokban anélkül, hogy az élsúlyok változása után újra kellene számolni az egész folyamatot."
+source: agnes_llm
+status: published
+language: hu
+description: Egy inkrementális útvonaltervez algoritmus, amely hatékonyan frissíti
+  a legrövidebb utakat dinamikus gráfokban anélkül, hogy az élsúlyok változása után
+  újra kellene számolni az egész folyamatot.
 ---
-
 ## Definition
 
 Az Élethosszig tartó tervezés A* (LPA*) az A* keres algoritmus kiterjesztése olyan környezetekhez, ahol a költségek idben változnak. Az LPA* nem indítja újra a keresést, hanem fenntart egy prioritási sorrendet és csak a változott részeket frissíti, így hatékonyabbá téve a dinamikus környezetekben történ navigációt.

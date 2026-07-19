@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /ro/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:51:32.912120Z"
 lastmod: "2026-07-18T17:15:09.641781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Acest domeniu combină analiza statistică și învățarea automată pentru a extrage informații din date și a prezice evenimente sau comportamente viitoare."
 ---
-
 ## Definition
 
 Știința datelor implică procesul interdisciplinar de extragere a cunoștințelor din date structurate și nestructurate, în timp ce analitica predictivă se concentrează specific pe utilizarea datelor istorice pentru a prezice

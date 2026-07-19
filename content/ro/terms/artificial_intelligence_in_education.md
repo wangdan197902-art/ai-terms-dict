@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /ro/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:44:43.168379Z"
 lastmod: "2026-07-18T17:15:09.628613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Aplicarea tehnologiilor IA pentru a îmbunătăți metodele de predare, a personaliza experiențele de învățare și a automatiza sarcinile administrative."
 ---
-
 ## Definition
 
 IA în educație implică utilizarea învățării automate, a procesării limbajului natural și a sistemelor adaptive pentru a îmbunătăți rezultatele educaționale. Aceasta permite crearea de trasee de învățare personalizate adaptate nevoilor individuale ale elevilor.

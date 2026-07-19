@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /cs/terms/flow/
 date: "2026-07-18T15:25:03.521092Z"
 lastmod: "2026-07-18T17:15:09.068819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Tok dat popisuje pohyb a transformaci informací přes různé fáze pipeline zpracování umělé inteligence."
 ---
-
 ## Definition
 
 Tok dat zahrnuje cestu, kterou data absolvují od ingestace až po konečný výstup v systému umělé inteligence, včetně předzpracování, extrakce znaků, inferenčního zpracování modelem a následného zpracování. Efektivní řízení toku dat je klíčové pro výkon systému.

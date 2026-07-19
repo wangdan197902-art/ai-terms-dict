@@ -7,8 +7,6 @@ tags: ["tensorflow", "tools", "visualization"]
 difficulty: 2
 weight: 1
 slug: "tensorboard"
-aliases:
-  - /cs/terms/tensorboard/
 date: "2026-07-18T16:19:53.138228Z"
 lastmod: "2026-07-18T17:15:09.205881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Nástroj pro vizualizaci pro monitorování experimentů strojového učení a ladění výkonu modelu."
 ---
-
 ## Definition
 
 TensorBoard je sada webových aplikací pro inspekci a pochopení běhů a grafů TensorFlow. Poskytuje nástroje pro vizualizaci metrik, jako je ztráta a přesnost v čase, prohlížení grafu modelu atd.

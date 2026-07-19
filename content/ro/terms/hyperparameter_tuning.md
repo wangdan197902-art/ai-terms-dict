@@ -1,23 +1,24 @@
 ---
-title: "Reglarea hiperparametrilor"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Reglarea hiperparametrilor
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /ro/terms/hyperparameter_tuning/
-date: "2026-07-18T16:03:35.846482Z"
-lastmod: "2026-07-18T17:15:09.666643Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T16:03:35.846482Z'
+lastmod: '2026-07-18T17:15:09.666643Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de căutare sistematică a celei mai bune combinații de hiperparametri pentru a optimiza performanța modelului."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de căutare sistematică a celei mai bune combinații de hiperparametri
+  pentru a optimiza performanța modelului.
 ---
-
 ## Definition
 
 Reglarea hiperparametrilor implică evaluarea diferitelor seturi de hiperparametri pentru a găsi configurația care produce cea mai bună acuratețe a modelului sau cea mai mică rată a erorii. Strategiile comune includ căutarea pe grilă, w...

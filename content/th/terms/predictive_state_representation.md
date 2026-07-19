@@ -1,23 +1,23 @@
 ---
-title: "การแสดงสถานะเชิงพยากรณ์"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: การแสดงสถานะเชิงพยากรณ์
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /th/terms/predictive_state_representation/
-date: "2026-07-18T16:11:17.860616Z"
-lastmod: "2026-07-18T16:38:07.643121Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:11:17.860616Z'
+lastmod: '2026-07-18T16:38:07.643121Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การกำหนดสถานะแฝงในการเรียนรู้แบบเสริมกำลัง ซึ่งทำนายการสังเกตในอนาคตโดยอิงจากประวัติการกระทำ"
+source: agnes_llm
+status: published
+language: th
+description: การกำหนดสถานะแฝงในการเรียนรู้แบบเสริมกำลัง ซึ่งทำนายการสังเกตในอนาคตโดยอิงจากประวัติการกระทำ
 ---
-
 ## Definition
 
 การแสดงสถานะเชิงพยากรณ์ (PSRs) ขยายกระบวนการตัดสินใจมาร์คอฟที่สังเกตได้ไม่สมบูรณ์แบบดั้งเดิม โดยกำหนดสถานะเป็นเวกเตอร์ของการทำนายเกี่ยวกับเหตุการณ์ที่สังเกตได้ในอนาคต แทนที่จะพึ่งพาความเชื่อภายในเกี่ยวกับสถานะจริงที่ไม่สามารถสังเกตได้โดยตรง PSRs ใช้ลำดับของการกระทำและการสังเกตที่ผ่านมาเพื่อสร้างแบบจำลองไดนามิกของสภาพแวดล้อม

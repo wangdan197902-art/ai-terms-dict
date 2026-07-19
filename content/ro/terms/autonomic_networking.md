@@ -1,23 +1,24 @@
 ---
-title: "Rețele autonome"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Rețele autonome
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /ro/terms/autonomic_networking/
-date: "2026-07-18T15:46:37.466786Z"
-lastmod: "2026-07-18T17:15:09.631527Z"
+slug: autonomic_networking
+date: '2026-07-18T15:46:37.466786Z'
+lastmod: '2026-07-18T17:15:09.631527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Infrastructură de rețea auto-gestionată care utilizează IA pentru a se configura, optimiza și repara singură."
+source: agnes_llm
+status: published
+language: ro
+description: Infrastructură de rețea auto-gestionată care utilizează IA pentru a se
+  configura, optimiza și repara singură.
 ---
-
 ## Definition
 
 Rețelele autonome aplică principiile calculului autonomic rețelelor de telecomunicații, permițând sistemelor să se gestioneze singure cu intervenție umană minimă. Aceste rețele utilizează inteligența artificială pentru a detecta defecțiuni, a ajusta parametrii și a restabili funcționalitatea automat.

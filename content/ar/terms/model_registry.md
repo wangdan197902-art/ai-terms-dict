@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /ar/terms/model_registry/
 date: "2026-07-18T16:13:34.727967Z"
 lastmod: "2026-07-18T17:15:08.529520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام مركزي لتخزين وإدارة نماذج التعلم الآلي وتتبعها طوال دورة حياتها."
 ---
-
 ## Definition
 
 يُعد سجل النماذج مكوناً حاسماً في عمليات الذكاء الاصطناعي التشغيلي (MLOps)، حيث يوفر مستودعاً موحداً لتخزين وإصدار وإدارة نماذج التعلم الآلي. يتيح للفرق تتبع بيانات التعريف للنماذج ومقاييس الأداء،

@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /ko/terms/security/
 date: "2026-07-18T15:28:50.787478Z"
 lastmod: "2026-07-18T16:38:06.783938Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템을 무단 접근, 오용 및 악의적인 공격으로부터 보호하는 관행입니다."
 ---
-
 ## Definition
 
 AI 보안은 적대적 공격, 데이터 독성 및 모델 추출과 같은 위협으로부터 머신러닝 모델, 데이터 파이프라인 및 배포 인프라를 보호하기 위한 조치를 포괄합니다.

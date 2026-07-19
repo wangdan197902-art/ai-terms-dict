@@ -1,23 +1,24 @@
 ---
-title: "Contexte long"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Contexte long
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /fr/terms/long_context/
-date: "2026-07-18T11:26:25.024590Z"
-lastmod: "2026-07-18T11:44:45.287766Z"
+slug: long_context
+date: '2026-07-18T11:26:25.024590Z'
+lastmod: '2026-07-18T11:44:45.287766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La capacité d'un modèle de langage à traiter et retenir des informations provenant de séquences d'entrée contenant des milliers ou des millions de jetons."
+source: agnes_llm
+status: published
+language: fr
+description: La capacité d'un modèle de langage à traiter et retenir des informations
+  provenant de séquences d'entrée contenant des milliers ou des millions de jetons.
 ---
-
 ## Definition
 
 Le contexte long désigne la capacité des modèles basés sur des transformateurs à gérer des longueurs d'entrée extensives, dépassant souvent les limites standards comme 2k ou 4k jetons. Cette capacité permet aux modèles d'analyser des documents entiers, des codes sources complets ou des conversations prolongées sans perdre le fil narratif ou structurel, grâce à des mécanismes d'attention optimisés.

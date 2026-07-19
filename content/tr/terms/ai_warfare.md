@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /tr/terms/ai_warfare/
 date: "2026-07-18T15:39:17.577808Z"
 lastmod: "2026-07-18T16:38:07.268133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka teknolojilerinin askeri operasyonlar, gözetleme ve otonom silah sistemlerine uygulanması."
 ---
-
 ## Definition
 
 Yapay Zeka Savaşı, otonom dronelar, tahmine dayalı lojistik, siber savunma ve komutanlar için karar destek sistemleri dahil olmak üzere yapay zekanın askeri stratejilere entegrasyonunu ifade eder.

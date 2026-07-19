@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้ของเครื่องแบบคำนึงถึงต้นทุน (Cost-sensitive machine learning)"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: การเรียนรู้ของเครื่องแบบคำนึงถึงต้นทุน (Cost-sensitive machine learning)
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /th/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:47:03.838903Z"
-lastmod: "2026-07-18T16:38:07.590052Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:47:03.838903Z'
+lastmod: '2026-07-18T16:38:07.590052Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนทัศน์การเรียนรู้ของเครื่องที่นำต้นทุนของการจำแนกผิดมาพิจารณาในกระบวนการฝึกฝน เพื่อเพิ่มประสิทธิภาพด้านผลกระทบทางเศรษฐกิจแทนที่จะเน้นเพียงความแม่นยำ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนทัศน์การเรียนรู้ของเครื่องที่นำต้นทุนของการจำแนกผิดมาพิจารณาในกระบวนการฝึกฝน
+  เพื่อเพิ่มประสิทธิภาพด้านผลกระทบทางเศรษฐกิจแทนที่จะเน้นเพียงความแม่นยำ
 ---
-
 ## Definition
 
 การเรียนรู้ของเครื่องแบบคำนึงถึงต้นทุนเป็นการขยายขอบเขตจากการเรียนรู้ภายใต้การดูแลแบบดั้งเดิม โดยกำหนดค่าปรับที่แตกต่างกันสำหรับข้อผิดพลาดประเภทต่างๆ ในสถานการณ์จริง ผลบวกลวง (False Positives) และผลลบลวง (False Negatives) มักมีต้นทุนหรือผลกระทบที่แตกต่างกันอย่างมีนัยสำคัญ

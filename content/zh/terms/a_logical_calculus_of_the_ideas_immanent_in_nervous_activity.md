@@ -1,23 +1,23 @@
 ---
-title: "神经活动中固有的思想逻辑演算"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: 神经活动中固有的思想逻辑演算
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /zh/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T11:02:27.450124Z"
-lastmod: "2026-07-18T11:44:45.429169Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T11:02:27.450124Z'
+lastmod: '2026-07-18T11:44:45.429169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "这是麦卡洛克和皮茨于1943年发表的一篇开创性论文，形式化了神经元如何执行逻辑操作，为人工神经网络奠定了基础。"
+source: agnes_llm
+status: published
+language: zh
+description: 这是麦卡洛克和皮茨于1943年发表的一篇开创性论文，形式化了神经元如何执行逻辑操作，为人工神经网络奠定了基础。
 ---
-
 ## Definition
 
 这篇基础性论文提出了神经网络的一个数学模型，证明了简单的人工神经元可以实现布尔逻辑门。通过展示这些单元的网络能够执行复杂的逻辑功能，它为计算理论奠定了基石。

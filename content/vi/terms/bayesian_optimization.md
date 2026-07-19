@@ -1,23 +1,24 @@
 ---
-title: "Tối ưu hóa Bayes"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Tối ưu hóa Bayes
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /vi/terms/bayesian_optimization/
-date: "2026-07-18T15:42:27.521671Z"
-lastmod: "2026-07-18T16:38:07.732778Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:42:27.521671Z'
+lastmod: '2026-07-18T16:38:07.732778Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chiến lược thiết kế tuần tự để tối ưu hóa toàn cục các hàm hộp đen tốn kém chi phí đánh giá."
+source: agnes_llm
+status: published
+language: vi
+description: Một chiến lược thiết kế tuần tự để tối ưu hóa toàn cục các hàm hộp đen
+  tốn kém chi phí đánh giá.
 ---
-
 ## Definition
 
 Tối ưu hóa Bayes sử dụng một mô hình xấp xỉ xác suất, thường là Quá trình Gaussian, để mô hình hóa hàm mục tiêu. Nó sử dụng một hàm thu thập để cân bằng giữa khai thác và khám phá, từ đó giảm thiểu số lần đánh giá hàm cần thiết.

@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /da/terms/right_to_explanation/
 date: "2026-07-18T16:15:18.628299Z"
 lastmod: "2026-07-18T17:15:09.328237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et juridisk og etisk princip, der giver individer ret til at modtage meningsfuld information om automatiserede beslutninger, der påvirker dem betydeligt."
 ---
-
 ## Definition
 
 Retten til forklaring er en kernekomponent i algoritmisk ansvarlighed, især inden for rammer som GDPR. Den sikrer, at når et AI-system træffer en beslutning, der påvirker en persons rettigheder

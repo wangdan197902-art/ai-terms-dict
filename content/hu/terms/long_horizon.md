@@ -1,23 +1,23 @@
 ---
-title: "hosszú horizontú"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: hosszú horizontú
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /hu/terms/long_horizon/
-date: "2026-07-18T15:35:22.926318Z"
-lastmod: "2026-07-18T17:15:09.735708Z"
+slug: long_horizon
+date: '2026-07-18T15:35:22.926318Z'
+lastmod: '2026-07-18T17:15:09.735708Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Olyan feladatokra utal, amelyek hosszú időtartamú döntéshozatalt igényelnek, késleltetett jutalmakkal vagy következményekkel."
+source: agnes_llm
+status: published
+language: hu
+description: Olyan feladatokra utal, amelyek hosszú időtartamú döntéshozatalt igényelnek,
+  késleltetett jutalmakkal vagy következményekkel.
 ---
-
 ## Definition
 
 A hosszú horizontú problémák olyan cselekvési sorozatokat érintenek, ahol a korábbi döntések hatása csak sok lépés után nyilvánul meg. Ez gyakori robotikában, tervezésben és többlépcsős érvelési feladatokban. A kihívás a hosszú távú tervezés és a jutalom-elosztás.

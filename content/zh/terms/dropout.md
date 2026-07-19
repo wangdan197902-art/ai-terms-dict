@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /zh/terms/dropout/
 date: "2026-07-18T10:59:51.920733Z"
 lastmod: "2026-07-18T11:44:45.399256Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Dropout 是一种正则化技术，通过在训练过程中随机忽略神经元来防止过拟合。"
 ---
-
 ## Definition
 
 在神经网络中，Dropout 通过在每次训练步骤中临时移除随机子集的神经元来防止过拟合。这迫使网络学习在联合使用时有用的鲁棒特征。

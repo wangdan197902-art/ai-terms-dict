@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /id/terms/furthermore/
 date: "2026-07-18T15:25:57.388075Z"
 lastmod: "2026-07-18T16:38:07.393911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kata keterangan transisi yang digunakan untuk memperkenalkan informasi tambahan atau memperkuat argumen sebelumnya dalam penulisan teknis."
 ---
-
 ## Definition
 
 Meskipun bukan algoritma teknis, 'selanjutnya' adalah alat linguistik yang kritis dalam dokumentasi AI dan makalah penelitian. Fungsinya untuk menghubungkan ide-ide, menunjukkan bahwa pernyataan berikutnya menambah bobot atau

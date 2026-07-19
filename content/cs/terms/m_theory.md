@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /cs/terms/m_theory/
 date: "2026-07-18T16:07:02.296810Z"
 lastmod: "2026-07-18T17:15:09.150285Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "M-teorie je teoretický rámec v fyzice, který sjednocuje pět různých verzí strunové teorie a navrhuje, že fundamentální částice jsou vibracemi jednorozměrných membrán v jedenácti rozměrech."
 ---
-
 ## Definition
 
 Ačkoli jde primárně o koncept teoretické fyziky spíše než informatiky, M-teorie je občas odkazována v pokročilých výpočetních simulacích a výzkumu kvantového počítání. Navrhuje hluboké propojení mezi fyzikálními zákony a matematickou strukturou reality.

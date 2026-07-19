@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /fi/terms/domain_adaptation/
 date: "2026-07-18T15:55:15.139560Z"
 lastmod: "2026-07-18T17:15:09.406076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Koneoppimismenetelmä, joka parantaa mallin suorituskykyä kohdealueella hyödyntämällä tietoa lähdealueesta."
 ---
-
 ## Definition
 
 Alueen sovitus käsittelee haasteen, kun koulutus- ja testausdata tulevat eri jakaumista. Yhdistämällä ominaisuusrepresentaatiot merkityn lähdealueen ja merkityn tai harvan merkityn kohdealueen välillä...

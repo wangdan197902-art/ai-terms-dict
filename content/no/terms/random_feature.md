@@ -1,23 +1,24 @@
 ---
-title: "Tilfeldig funksjon"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Tilfeldig funksjon
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /no/terms/random_feature/
-date: "2026-07-18T16:14:15.188027Z"
-lastmod: "2026-07-18T16:38:07.041517Z"
+slug: random_feature
+date: '2026-07-18T16:14:15.188027Z'
+lastmod: '2026-07-18T16:38:07.041517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som avbilder inndata til et rom med høyere dimensjon ved hjelp av tilfeldige projeksjoner for å approksimere kjernemetoder effektivt."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som avbilder inndata til et rom med høyere dimensjon ved hjelp
+  av tilfeldige projeksjoner for å approksimere kjernemetoder effektivt.
 ---
-
 ## Definition
 
 Tilfeldige funksjonskartlegginger transformerer inndata til et nytt rom der lineære modeller kan approksimere ikke-lineære kjernefunksjoner. Denne tilnærmingen, ofte assosiert med Nystrom-metoden eller Fourier-funksjoner, muliggjør effektiv beregning.

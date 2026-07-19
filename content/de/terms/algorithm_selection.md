@@ -1,23 +1,24 @@
 ---
-title: "Algorithmusauswahl"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Algorithmusauswahl
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /de/terms/algorithm_selection/
-date: "2026-07-18T11:02:25.839373Z"
-lastmod: "2026-07-18T11:44:44.907753Z"
+slug: algorithm_selection
+date: '2026-07-18T11:02:25.839373Z'
+lastmod: '2026-07-18T11:44:44.907753Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die Algorithmusauswahl ist der Prozess der Wahl der am besten geeigneten computergestützten Methode für ein spezifisches Problem basierend auf Leistungsmetriken und Einschränkungen."
+source: agnes_llm
+status: published
+language: de
+description: Die Algorithmusauswahl ist der Prozess der Wahl der am besten geeigneten
+  computergestützten Methode für ein spezifisches Problem basierend auf Leistungsmetriken
+  und Einschränkungen.
 ---
-
 ## Definition
 
 Die Algorithmusauswahl umfasst die Bewertung verschiedener computergestützter Ansätze, um zu bestimmen, welcher einen gegebenen Task am effizientesten löst. Dieser Prozess berücksichtigt Faktoren wie Zeitkomplexität, Speicherkomplexität und Ressourcenverbrauch.

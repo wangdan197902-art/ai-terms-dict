@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /ja/terms/agentic/
 date: "2026-07-18T10:58:09.854587Z"
 lastmod: "2026-07-18T11:44:45.030698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "特定の目標を達成するために、自律的な計画、推論、行動実行が可能であるAIシステムを指す用語。"
 ---
-
 ## Definition
 
 「エージェント型」という用語は、高い自律性を持って動作するAIエージェントを記述します。単にテキストを予測したりデータを分類したりする受動的なモデルとは異なり、エージェント型システムは複雑な目標を分解し、ツールを使用し、自己修正しながら行動できます。

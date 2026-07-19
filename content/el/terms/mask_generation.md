@@ -1,23 +1,24 @@
 ---
-title: "Δημιουργία Масκ"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: Δημιουργία Масκ
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /el/terms/mask_generation/
-date: "2026-07-18T16:20:33.015475Z"
-lastmod: "2026-07-18T17:15:09.930274Z"
+slug: mask_generation
+date: '2026-07-18T16:20:33.015475Z'
+lastmod: '2026-07-18T17:15:09.930274Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία δημιουργίας δυαδικών ή πιθανοτικών маск για την επιλεκτική απόκρυψη ή τονισμό τμημάτων των δεδομένων εισόδου κατά την επεξεργασία του μοντέλου."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία δημιουργίας δυαδικών ή πιθανοτικών маск για την επιλεκτική
+  απόκρυψη ή τονισμό τμημάτων των δεδομένων εισόδου κατά την επεξεργασία του μοντέλου.
 ---
-
 ## Definition
 
 Η δημιουργία маск περιλαμβάνει την παραγωγή χωρικών ή χρονικών масκ που καθορίζουν ποια στοιχεία ενός συνόλου δεδομένων είναι ορατά ή ενεργά κατά συγκεκριμένες λειτουργίες. Στην όραση υπολογιστή, χρησιμοποιείται για αντικειμενική τμηματοποίηση

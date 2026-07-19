@@ -1,23 +1,23 @@
 ---
-title: "التعزيز"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: التعزيز
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /ar/terms/reinforcement/
-date: "2026-07-18T15:30:15.974565Z"
-lastmod: "2026-07-18T17:15:08.446778Z"
+slug: reinforcement
+date: '2026-07-18T15:30:15.974565Z'
+lastmod: '2026-07-18T17:15:08.446778Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير التعزيز إلى عملية تعديل السلوك من خلال المكافآت أو العقوبات لتحسين اتخاذ القرار."
+source: agnes_llm
+status: published
+language: ar
+description: يشير التعزيز إلى عملية تعديل السلوك من خلال المكافآت أو العقوبات لتحسين
+  اتخاذ القرار.
 ---
-
 ## Definition
 
 التعزيز هو آلية نفسية وحسابية أساسية حيث يتم تشكيل أفعال الوكيل بناءً على العواقب. في تعلم الآلة، يتضمن تقديم ملاحظات إيجابية (مكافآت) للأفعال الصحيحة.

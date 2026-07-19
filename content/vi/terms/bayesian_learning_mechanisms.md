@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /vi/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:42:27.521664Z"
 lastmod: "2026-07-18T16:38:07.732655Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các mô hình học coi các tham số mô hình là biến ngẫu nhiên có phân phối xác suất thay vì các giá trị cố định."
 ---
-
 ## Definition
 
 Các cơ chế học Bayes cập nhật niềm tin về các tham số mô hình bằng cách sử dụng định lý Bayes, kết hợp kiến thức tiên nghiệm với dữ liệu quan sát để tạo thành phân phối hậu nghiệm. Khác với các phương pháp tần suất, cách tiếp cận này cung cấp ước lượng về sự không chắc chắn.

@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /ja/terms/ai_agent/
 date: "2026-07-18T11:02:10.054997Z"
 lastmod: "2026-07-18T11:44:45.060403Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "環境を認識し、特定の目標を達成するために行動を遂行する自律型システム。"
 ---
-
 ## Definition
 
 AIエージェントは、定義された環境内で自律的に動作し、事前に設定された目的を達成するためのソフトウェアエンティティです。知覚メカニズムを利用してデータを収集し、この情報を処理して行動に反映します。

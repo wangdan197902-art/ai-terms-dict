@@ -1,23 +1,24 @@
 ---
-title: "วิทยาการคอมพิวเตอร์เชิงภาพ"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: วิทยาการคอมพิวเตอร์เชิงภาพ
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /th/terms/computer_vision/
-date: "2026-07-18T15:22:45.375369Z"
-lastmod: "2026-07-18T16:38:07.531264Z"
+slug: computer_vision
+date: '2026-07-18T15:22:45.375369Z'
+lastmod: '2026-07-18T16:38:07.531264Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาหนึ่งของปัญญาประดิษฐ์ที่ช่วยให้คอมพิวเตอร์สามารถดึงข้อมูลที่มีความหมายจากภาพดิจิทัล วิดีโอ และอินพุตภาพอื่นๆ ได้"
+source: agnes_llm
+status: published
+language: th
+description: สาขาหนึ่งของปัญญาประดิษฐ์ที่ช่วยให้คอมพิวเตอร์สามารถดึงข้อมูลที่มีความหมายจากภาพดิจิทัล
+  วิดีโอ และอินพุตภาพอื่นๆ ได้
 ---
-
 ## Definition
 
 วิทยาการคอมพิวเตอร์เชิงภาพมุ่งเน้นไปที่การจำลองความสามารถทางการมองเห็นของมนุษย์ผ่านกระบวนการคำนวณ โดยเกี่ยวข้องกับการวิเคราะห์และตีความข้อมูลภาพเพื่อระบุวัตถุ จับรูปแบบ และทำความเข้าใจฉากต่างๆ ในสภาพแวดล้อมจริง

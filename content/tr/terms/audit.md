@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /tr/terms/audit/
 date: "2026-07-18T15:42:38.647673Z"
 lastmod: "2026-07-18T16:38:07.275878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka sistemlerinin etik standartlara, yasal gerekliliklere ve performans kriterlerine uyumunu sağlamak amacıyla sistematik bir değerlendirme süreci."
 ---
-
 ## Definition
 
 Bir yapay zeka denetimi, makine öğrenimi modellerinin ve bunların dağıtım hatlarının titiz, yapılandırılmış bir incelemesini içerir. Olası önyargıları belirlemek için adalet, şeffaflık, hesap verebilirlik ve güvenlik değerlendirmesi yapılır.

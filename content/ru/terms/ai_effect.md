@@ -1,23 +1,24 @@
 ---
-title: "Эффект ИИ"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: Эффект ИИ
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /ru/terms/ai_effect/
-date: "2026-07-18T15:37:55.305004Z"
-lastmod: "2026-07-18T16:38:07.113856Z"
+slug: ai_effect
+date: '2026-07-18T15:37:55.305004Z'
+lastmod: '2026-07-18T16:38:07.113856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Явление, при котором задачи, ранее считавшиеся интеллектуальными, начинают восприниматься как рутинные, как только они автоматизируются машинами."
+source: agnes_llm
+status: published
+language: ru
+description: Явление, при котором задачи, ранее считавшиеся интеллектуальными, начинают
+  восприниматься как рутинные, как только они автоматизируются машинами.
 ---
-
 ## Definition
 
 Эффект ИИ описывает смещение границы того, что считается «искусственным интеллектом». По мере того как алгоритмы становятся более сложными и способны выполнять определенные задачи, эти задачи часто перестают рассматриваться как проявление интеллекта.

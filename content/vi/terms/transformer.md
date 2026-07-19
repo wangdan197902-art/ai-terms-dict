@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /vi/terms/transformer/
-date: "2026-07-18T15:29:53.443040Z"
-lastmod: "2026-07-18T16:38:07.698418Z"
+slug: transformer
+date: '2026-07-18T15:29:53.443040Z'
+lastmod: '2026-07-18T16:38:07.698418Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kiến trúc học sâu dựa trên cơ chế tự chú ý, xử lý dữ liệu tuần tự song song thay vì tuần tự."
+source: agnes_llm
+status: published
+language: vi
+description: Một kiến trúc học sâu dựa trên cơ chế tự chú ý, xử lý dữ liệu tuần tự
+  song song thay vì tuần tự.
 ---
-
 ## Definition
 
 Được giới thiệu trong bài báo 'Attention Is All You Need', kiến trúc Transformer đã cách mạng hóa xử lý ngôn ngữ tự nhiên và nhiều lĩnh vực khác. Nó sử dụng cơ chế tự chú ý đa đầu để đánh giá mức độ quan trọng của

@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /id/terms/gaussian/
 date: "2026-07-18T15:25:57.388086Z"
 lastmod: "2026-07-18T16:38:07.394025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Berhubungan dengan distribusi normal, kurva berbentuk lonceng yang fundamental dalam statistik dan pemodelan derau pada AI."
 ---
-
 ## Definition
 
 Gaussian mengacu pada distribusi normal, yaitu distribusi probabilitas kontinu yang dicirikan oleh rata-rata dan variansnya. Dalam AI, hal ini banyak digunakan dalam pemodelan probabilistik, inferensi Bayes, dan

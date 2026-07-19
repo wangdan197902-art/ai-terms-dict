@@ -1,23 +1,23 @@
 ---
-title: "자동화 수학자"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: 자동화 수학자
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /ko/terms/automated_mathematician/
-date: "2026-07-18T15:42:50.870702Z"
-lastmod: "2026-07-18T16:38:06.811127Z"
+slug: automated_mathematician
+date: '2026-07-18T15:42:50.870702Z'
+lastmod: '2026-07-18T16:38:06.811127Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "계산적 탐색과 추론을 통해 새로운 수학적 정리, 추측 또는 증명을 발견하도록 설계된 AI 시스템입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 계산적 탐색과 추론을 통해 새로운 수학적 정리, 추측 또는 증명을 발견하도록 설계된 AI 시스템입니다.
 ---
-
 ## Definition
 
 자동화 수학자는 머신러닝과 기호적 추론을 활용하여 인간의 직관을 넘어선 수학적 공간을 탐색합니다. 이러한 시스템은 가설을 생성하고, 증명을 검증하며, 패턴을 찾아냅니다.

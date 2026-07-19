@@ -1,23 +1,24 @@
 ---
-title: "Alan"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Alan
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /tr/terms/domain/
-date: "2026-07-18T15:24:28.669466Z"
-lastmod: "2026-07-18T16:38:07.230350Z"
+slug: domain
+date: '2026-07-18T15:24:28.669466Z'
+lastmod: '2026-07-18T16:38:07.230350Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir alan, özellik uzayı ve altında yatan olasılık dağılımıyla karakterize edilen belirli bir veri bağlamını veya dağılımını temsil eder."
+source: agnes_llm
+status: published
+language: tr
+description: Bir alan, özellik uzayı ve altında yatan olasılık dağılımıyla karakterize
+  edilen belirli bir veri bağlamını veya dağılımını temsil eder.
 ---
-
 ## Definition
 
 Makine öğrenmesinde, özellikle aktarma öğrenmesinde bir alan iki bileşenle tanımlanır: özellik uzayı (tüm olası girdilerin kümesi) ve bu girdilerin marjinal olasılık dağılımı.

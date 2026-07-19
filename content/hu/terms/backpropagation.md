@@ -1,23 +1,24 @@
 ---
-title: "Visszaterjedés (Backpropagation)"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: Visszaterjedés (Backpropagation)
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /hu/terms/backpropagation/
-date: "2026-07-18T15:22:40.328665Z"
-lastmod: "2026-07-18T17:15:09.713323Z"
+slug: backpropagation
+date: '2026-07-18T15:22:40.328665Z'
+lastmod: '2026-07-18T17:15:09.713323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Széles körben használt algoritmus neurális hálózatok tanítására a hibaminimalizálás érdekében kiszámított gradienssel."
+source: agnes_llm
+status: published
+language: hu
+description: Széles körben használt algoritmus neurális hálózatok tanítására a hibaminimalizálás
+  érdekében kiszámított gradienssel.
 ---
-
 ## Definition
 
 A visszaterjedés (a hibák hátrafelé történő terjedésének rövidítése) egy módszer, amelyet az artifi cial neurális hálózatokban használnak a veszteségfüggvény gradiensének kiszámítására a súlyok vonatkozásában. A módszer úgy működik, hogy terjeszti a hibát a hálózatban.

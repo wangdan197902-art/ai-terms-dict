@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: خط أنابيب Zimage"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: خط أنابيب Zimage'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /ar/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:54:18.285305Z"
-lastmod: "2026-07-18T17:15:08.497957Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:54:18.285305Z'
+lastmod: '2026-07-18T17:15:08.497957Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "خط أنابيب متخصص في مكتبة Hugging Face Diffusers يرتبط عادةً بالتعلم بدون تدريب (zero-shot) أو تطبيقات معمارية محددة لتوليد الصور."
+source: agnes_llm
+status: published
+language: ar
+description: خط أنابيب متخصص في مكتبة Hugging Face Diffusers يرتبط عادةً بالتعلم بدون
+  تدريب (zero-shot) أو تطبيقات معمارية محددة لتوليد الصور.
 ---
-
 ## Definition
 
 في سياق نظام Hugging Face Diffusers، يشير هذا المصطلح بشكل عام إلى تكوين خط أنابيب أو غلاف مصمم لمهام توليد الصور المحددة، والذي قد يستفيد من تقنيات التعلم بدون تدريب (zero-shot) أو نماذج مجتمعية متخصصة. يسمح هذا النهج بتوليد صور بناءً على نصوص أو مدخلات أخرى دون الحاجة إلى إعادة تدريب النموذج بالكامل، مما يوفر مرونة عالية في التطبيقات الإبداعية.

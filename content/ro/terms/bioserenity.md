@@ -1,23 +1,24 @@
 ---
-title: "Bioserenitate"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Bioserenitate
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /ro/terms/bioserenity/
-date: "2026-07-18T15:48:36.204135Z"
-lastmod: "2026-07-18T17:15:09.634352Z"
+slug: bioserenity
+date: '2026-07-18T15:48:36.204135Z'
+lastmod: '2026-07-18T17:15:09.634352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O stare teoretică de coexistență armonioasă între viața biologică și sistemele de inteligență artificială."
+source: agnes_llm
+status: published
+language: ro
+description: O stare teoretică de coexistență armonioasă între viața biologică și
+  sistemele de inteligență artificială.
 ---
-
 ## Definition
 
 Bioserenitatea se referă la idealul conceptual în care biologia umană și inteligența artificială funcționează într-o armonie perfectă, fără conflicte. Subliniază integrarea etică, asigurând că augmentarea AI

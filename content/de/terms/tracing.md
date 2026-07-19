@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /de/terms/tracing/
 date: "2026-07-18T11:37:06.307622Z"
 lastmod: "2026-07-18T11:44:44.995413Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Tracing ist eine Technik, die den Ausführungspfad und Zwischenzustände eines Programms oder der Inferenz eines KI-Modells aufzeichnet, um das Debugging und die Leistungsoptimierung zu erleichtern."
 ---
-
 ## Definition
 
 Im Kontext des KI-Engineerings umfasst Tracing das Erfassen detaillierter Protokolle darüber, wie Daten durch ein Modell oder eine Anwendung fließen, einschließlich Eingaben, Ausgaben, Latenz und Ressourcennutzung bei jedem Schritt. Dies ermöglicht...

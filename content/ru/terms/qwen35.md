@@ -1,23 +1,24 @@
 ---
-title: "Qwen3.5"
-term_id: "qwen35"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model", "qwen", "nlp"]
+title: Qwen3.5
+term_id: qwen35
+category: basic_concepts
+subcategory: ''
+tags:
+- model
+- qwen
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen35"
-aliases:
-  - /ru/terms/qwen35/
-date: "2026-07-18T16:12:25.102655Z"
-lastmod: "2026-07-18T16:38:07.196783Z"
+slug: qwen35
+date: '2026-07-18T16:12:25.102655Z'
+lastmod: '2026-07-18T16:38:07.196783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Итеративная версия серии больших языковых моделей Qwen, ориентированная на улучшенное логическое мышление и многоязычные возможности."
+source: agnes_llm
+status: published
+language: ru
+description: Итеративная версия серии больших языковых моделей Qwen, ориентированная
+  на улучшенное логическое мышление и многоязычные возможности.
 ---
-
 ## Definition
 
 Qwen3.5 обозначает конкретный релиз в линейке моделей Qwen, разработанных Alibaba Cloud. Эта итерация обычно строится на предыдущих версиях, улучшая способности к логическому рассуждению, навыки программирования и понимание естественного языка за счет доработки обучающих данных и архитектуры.

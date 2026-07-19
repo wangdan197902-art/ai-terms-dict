@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /vi/terms/datasetnatural_questions/
 date: "2026-07-18T15:48:01.447410Z"
 lastmod: "2026-07-18T16:38:07.745384Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một bộ dữ liệu quy mô lớn cho câu hỏi đáp miền mở (open-domain QA), bao gồm các truy vấn người dùng thực tế từ Google Search được ghép nối với các đoạn văn bản Wikipedia đã được chú thích làm câu trả "
 ---
-
 ## Definition
 
 Natural Questions (NQ) là một bộ dữ liệu benchmark do Google giới thiệu để thúc đẩy nghiên cứu trong lĩnh vực câu hỏi đáp miền mở. Nó ánh xạ các truy vấn tìm kiếm thực tế, đã được ẩn danh hóa từ Google sang các câu trả lời dạng dài được tìm thấy trong các trang Wikipedia.

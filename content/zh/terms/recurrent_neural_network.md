@@ -1,23 +1,23 @@
 ---
-title: "循环神经网络"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: 循环神经网络
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /zh/terms/recurrent_neural_network/
-date: "2026-07-18T11:01:41.442946Z"
-lastmod: "2026-07-18T11:44:45.405426Z"
+slug: recurrent_neural_network
+date: '2026-07-18T11:01:41.442946Z'
+lastmod: '2026-07-18T11:44:45.405426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "RNN 是一类人工神经网络，其中节点之间的连接沿时间序列形成有向图。"
+source: agnes_llm
+status: published
+language: zh
+description: RNN 是一类人工神经网络，其中节点之间的连接沿时间序列形成有向图。
 ---
-
 ## Definition
 
 RNN 旨在识别数据序列中的模式，例如文本、基因组、手写体或语音。与前馈网络不同，它们具有内部记忆，能够捕获关于先前输入的信息（原文截断，意为 captures information about previous inputs）。

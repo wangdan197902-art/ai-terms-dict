@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /de/terms/knowledge_compilation/
 date: "2026-07-18T11:20:22.762730Z"
 lastmod: "2026-07-18T11:44:44.954816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Wissenskompilierung ist der Prozess der Transformation von Wissensdarstellungen in effizientere Formen für schnellere Abfragebeantwortung oder Schlussfolgerungen."
 ---
-
 ## Definition
 
 Wissenskompilierung bezeichnet Techniken in der künstlichen Intelligenz, die eine Wissensbasis oder eine logische Theorie in eine andere Darstellung umwandeln, die schnellere Operationen wie die Erfüllbarkeit (Satisfiability) erleichtern.

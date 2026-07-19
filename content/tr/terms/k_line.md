@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /tr/terms/k_line/
 date: "2026-07-18T15:59:15.614658Z"
 lastmod: "2026-07-18T16:38:07.323237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Belirli zaman aralıklarındaki fiyat hareketlerini görselleştirmek için kullanılan, mum grafik olarak da bilinen bir tür finansal grafik."
 ---
-
 ## Definition
 
 Batı piyasalarında yaygın olarak mum grafiği olarak adlandırılan bir K-line, bir menkul kıymet, türev veya para biriminin fiyat dinamiklerinin grafiksel temsilidir. Açılış, kapanış, en yüksek ve en düşük olmak üzere dört ana veri noktasını gösterir.

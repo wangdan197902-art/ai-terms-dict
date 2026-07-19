@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /it/terms/multi_stage/
 date: "2026-07-18T15:33:07.548808Z"
 lastmod: "2026-07-18T17:15:08.580584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una progettazione del processo che divide un compito complesso in fasi distinte e sequenziali, ciascuna con obiettivi e output specifici."
 ---
-
 ## Definition
 
 Gli approcci multi-fase scompongono flussi di lavoro intricati in segmenti gestibili, consentendo un elaborazione specializzata in ogni passaggio. Questo metodo migliora il controllo, il debug e l'ottimizzazione delle prestazioni.

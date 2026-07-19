@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /th/terms/hallucination/
 date: "2026-07-18T15:23:00.632496Z"
 lastmod: "2026-07-18T16:38:07.531961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เมื่อโมเดล AI สร้างข้อมูลที่ดูมั่นใจแต่ไม่เป็นความจริงหรือไร้ความหมาย"
 ---
-
 ## Definition
 
 อาการหลอนเกิดขึ้นเมื่อโมเดล AI แบบกำเนิดผลิตผลลัพธ์ที่ดูสมเหตุสมผลแต่ขาดพื้นฐานจากความเป็นจริงหรือข้อมูลต้นทาง ซึ่งเป็นความท้าทายสำคัญในแอปพลิเคชันที่ต้องการความแม่นยำสูง

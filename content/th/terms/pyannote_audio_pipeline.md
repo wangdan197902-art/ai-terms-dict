@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /th/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:12:16.184758Z"
 lastmod: "2026-07-18T16:38:07.646192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Pyannote Audio Pipeline คือลำดับขั้นตอนการประมวลผลที่มีโครงสร้าง ซึ่งรวมโมเดลต่างๆ เข้าด้วยกันเพื่อทำการแยกแยะผู้พูดแบบครบวงจร (end-to-end)"
 ---
-
 ## Definition
 
 ในบริบทของ Pyannote Audio สายงาน (pipeline) หมายถึงเวิร์กโฟลว์ที่กำหนดค่าได้ ซึ่งเชื่อมโยงโมดูลต่างๆ เข้าด้วยกันเพื่อให้บรรลุเป้าหมายการแยกแยะผู้พูด โดยทั่วไปสายงานจะประกอบด้วยขั้นตอนต่างๆ เช่น การตรวจจับช่วงที่มีเสียงพูด (VAD) การสกัดคุณลักษณะ และการจัดกลุ่มผู้พูด

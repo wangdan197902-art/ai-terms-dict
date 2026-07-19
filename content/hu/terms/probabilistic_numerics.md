@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /hu/terms/probabilistic_numerics/
 date: "2026-07-18T16:18:57.538406Z"
 lastmod: "2026-07-18T17:15:09.824316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy diszciplína, amely a numerikus számítási problémákat statisztikai következtetési feladatként kezeli az eredményekben rejlő bizonytalanság kvantifikálása érdekében."
 ---
-
 ## Definition
 
 A valószínűségi numerika Bayes-i módszereket alkalmaz hagyományos numerikus problémákra, mint például integrálás, differenciálás és lineáris algebra. Ahelyett, hogy pontbecslést adna meg, valószínűségi eloszlásokat bocsát ki az eredményekre.

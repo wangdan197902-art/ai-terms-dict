@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /ja/terms/gender_digital_divide/
 date: "2026-07-18T11:15:54.166478Z"
 lastmod: "2026-07-18T11:44:45.100477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ジェンダーデジタルディバイドとは、情報通信技術（ICT）へのアクセス、利用、およびその恩恵を受けることにおける男女間の格差を指します。"
 ---
-
 ## Definition
 
 この社会技術的概念は、女性や少女が男性や少年と比較して、デジタルデバイス、インターネット接続、デジタルリテラシースキルへのアクセスが不平等であることを浮き彫りにします。これらの格差は、社会的・経済的要因によって強化されることが多く、包括的なデジタル社会の実現を妨げる要因となります。

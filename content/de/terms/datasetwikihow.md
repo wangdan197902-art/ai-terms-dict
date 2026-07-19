@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /de/terms/datasetwikihow/
 date: "2026-07-18T11:10:55.635810Z"
 lastmod: "2026-07-18T11:44:44.929392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein groß angelegter Datensatz, der aus How-To-Artikeln von WikiHow besteht und hauptsächlich für Textzusammenfassungsaufgaben und die Generierung von Anweisungen verwendet wird."
 ---
-
 ## Definition
 
 Der WikiHow-Datensatz besteht aus etwa 60.000 How-To-Artikeln, die von der Website WikiHow gesammelt wurden. Er wird in der Forschung im Bereich des Natural Language Processing (NLP) häufig für Aufgaben wie die abstrakte Textsu

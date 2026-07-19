@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /en/terms/model_serving/
 date: "2026-07-18T09:41:40.349254Z"
 lastmod: "2026-07-18T11:44:44.627925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The process of deploying trained machine learning models into production environments to make predictions or generate outputs for end-users."
 ---
-
 ## Definition
 
 Model serving involves taking a static trained model and wrapping it in a scalable infrastructure that handles incoming requests, performs inference, and returns results. Key challenges include managing latency, ensuring high availability, handling concurrency, and optimizing resource utilization through techniques like batching and quantization. It bridges the gap between model development and real-world application deployment.

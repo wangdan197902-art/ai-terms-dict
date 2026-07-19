@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /el/terms/h2o/
-date: "2026-07-18T16:11:34.665501Z"
-lastmod: "2026-07-18T17:15:09.915551Z"
+slug: h2o
+date: '2026-07-18T16:11:34.665501Z'
+lastmod: '2026-07-18T17:15:09.915551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια πλατφόρμα μηχανικής μάθησης ανοιχτού κώδικα και κατανεμημένης αρχιτεκτονικής που υποστηρίζει διάφορους αλγόριθμους για προβλεπτική ανάλυση και βαθιά μάθηση."
+source: agnes_llm
+status: published
+language: el
+description: Μια πλατφόρμα μηχανικής μάθησης ανοιχτού κώδικα και κατανεμημένης αρχιτεκτονικής
+  που υποστηρίζει διάφορους αλγόριθμους για προβλεπτική ανάλυση και βαθιά μάθηση.
 ---
-
 ## Definition
 
 Το H2O είναι μια ευρέως χρησιμοποιούμενη πλατφόρμα εν μνήμη (in-memory) ανοιχτού κώδικα για κατανεμημένη, κλιμακώσιμη μηχανική μάθηση και προβλεπτική ανάλυση. Αναπτύχθηκε αρχικά από δύο διδάκτορες του Χάρβαρντ, παρέχει ένα ενοποιημένο πλαίσιο που επιτρέπει την εύκολη ανάπτυξη και deployment μοντέλων σε μεγάλα σύνολα δεδομένων.

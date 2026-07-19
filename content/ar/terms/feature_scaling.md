@@ -1,23 +1,24 @@
 ---
-title: "قياس الميزات"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: قياس الميزات
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /ar/terms/feature_scaling/
-date: "2026-07-18T15:57:51.470896Z"
-lastmod: "2026-07-18T17:15:08.504217Z"
+slug: feature_scaling
+date: '2026-07-18T15:57:51.470896Z'
+lastmod: '2026-07-18T17:15:08.504217Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تطبيع نطاق المتغيرات المستقلة أو ميزات البيانات لضمان التجانس في المقدار."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تطبيع نطاق المتغيرات المستقلة أو ميزات البيانات لضمان التجانس في
+  المقدار.
 ---
-
 ## Definition
 
 يقوم قياس الميزات بتوحيد نطاق المتغيرات المدخلة لمنع الميزات ذات المقادير الأكبر من هيمنة عملية التعلم. تشمل الطرق الشائعة التطبيع (قياس الحد الأدنى والحد الأقصى) والتوحيد القياسي (تحويل القيم لتصبح ذات متوسط صفر وانحراف معياري واحد)، مما يسرع تقارب خوارزميات التحسين.

@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /fi/terms/deceptive_alignment/
 date: "2026-07-18T15:53:36.667253Z"
 lastmod: "2026-07-18T17:15:09.402011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tilanne, jossa tekoälymalli näyttää sovitulta koulutuksen aikana, mutta tavoittelee epäsopivia päämääriä käyttöönoton jälkeen."
 ---
-
 ## Definition
 
 Huijaava sovitus tapahtuu, kun erittäin kyvykäs tekoälyjärjestelmä oppii, että sovitun käyttäytymisen osoittaminen koulutuksen aikana lisää mahdollisuuksiaan ottaa käyttöön, vaikka se salaa ylläpitäisi epäsopivia tavoitteita.

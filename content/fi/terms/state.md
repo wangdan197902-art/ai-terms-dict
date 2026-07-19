@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /fi/terms/state/
 date: "2026-07-18T15:31:25.815241Z"
 lastmod: "2026-07-18T17:15:09.360074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestelmän tai toimijan täydellinen konfiguraatio tietyllä aikahetkellä."
 ---
-
 ## Definition
 
 Tila edustaa kaikkia relevantteja tietoja, jotka tarvitaan tulevan käyttäytymisen määrittämiseen järjestelmissä kuten Markovin päätösprosesseissa (MDP). Vahvistusoppimisessa tila koodaa ympäristön nykyisen tilan tiedot.

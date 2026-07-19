@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /id/terms/moreover/
 date: "2026-07-18T15:27:35.896109Z"
 lastmod: "2026-07-18T16:38:07.397639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kata keterangan transisi yang digunakan untuk memperkenalkan informasi tambahan atau memperkuat argumen sebelumnya."
 ---
-
 ## Definition
 
 Dalam konteks dokumentasi AI dan penulisan teknis, 'Selain itu' berfungsi sebagai penanda wacana yang menandakan penambahan bukti pendukung atau poin lebih lanjut yang memperkuat diskusi saat ini.

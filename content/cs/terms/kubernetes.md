@@ -1,23 +1,24 @@
 ---
-title: "Kubernetes"
-term_id: "kubernetes"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "devops", "cloud_computing"]
+title: Kubernetes
+term_id: kubernetes
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- devops
+- Cloud Computing
 difficulty: 3
 weight: 1
-slug: "kubernetes"
-aliases:
-  - /cs/terms/kubernetes/
-date: "2026-07-18T16:05:07.438329Z"
-lastmod: "2026-07-18T17:15:09.146072Z"
+slug: kubernetes
+date: '2026-07-18T16:05:07.438329Z'
+lastmod: '2026-07-18T17:15:09.146072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Open-source platforma pro automatizaci nasazování, škálování a správy aplikací kontejnerizovaných v kontejnerech."
+source: agnes_llm
+status: published
+language: cs
+description: Open-source platforma pro automatizaci nasazování, škálování a správy
+  aplikací kontejnerizovaných v kontejnerech.
 ---
-
 ## Definition
 
 Kubernetes (často zkracováno jako K8s) je systém pro orchestraci kontejnerů původně vyvinutý společností Google. Automatizuje nasazování, škálování a provoz aplikací v kontejnerech napříč klastry serverů. Umožňuje správu stavu aplikací, samoopravu při selháních a efektivní využití výpočetních zdrojů, čímž se stal standardem pro cloudové nasazení.

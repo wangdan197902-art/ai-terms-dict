@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /pl/terms/chat/
 date: "2026-07-18T15:45:27.159907Z"
 lastmod: "2026-07-18T17:15:08.853474Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Czat odnosi się do interaktywnej, konwersacyjnej komunikacji między użytkownikiem a systemem AI, zazwyczaj realizowanej za pomocą języka naturalnego."
 ---
-
 ## Definition
 
 W kontekście AI, Czat oznacza interfejs i mechanizm leżący u podstaw rzeczywistego czasu, opartego na zmianach ról dialogu. Pozwala użytkownikom zadawać pytania, żądać wykonania zadań lub angażować się w rozmowy o otwartej tematyce.

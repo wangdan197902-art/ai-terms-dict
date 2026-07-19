@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /id/terms/content_filtering/
 date: "2026-07-18T15:43:34.312248Z"
 lastmod: "2026-07-18T16:38:07.440278Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses memblokir atau mengizinkan akses ke konten digital berdasarkan kriteria atau model klasifikasi yang telah ditentukan."
 ---
-
 ## Definition
 
 Penyaringan konten melibatkan penggunaan algoritma dan aturan untuk memindai, mengklasifikasikan, dan mengendalikan aliran informasi yang disajikan kepada pengguna. Dalam konteks AI, hal ini sering kali memanfaatkan pemrosesan bahasa alami dan analisis visi komputer untuk mendeteksi konten yang tidak pantas atau berbahaya.

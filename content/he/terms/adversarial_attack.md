@@ -1,23 +1,24 @@
 ---
-title: "התקפה אדוורסריאלית"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: התקפה אדוורסריאלית
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /he/terms/adversarial_attack/
-date: "2026-07-18T15:41:12.765584Z"
-lastmod: "2026-07-18T17:15:09.510305Z"
+slug: adversarial_attack
+date: '2026-07-18T15:41:12.765584Z'
+lastmod: '2026-07-18T17:15:09.510305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התקפה אדוורסריאלית היא טכניקה שבה מוסיפים הפרעות קטנות, לרוב בלתי נראות, לנתוני הקלט כדי להטעות מודלים של למידת מכונה ולגרום להם לבצע חיזויים שגויים."
+source: agnes_llm
+status: published
+language: he
+description: התקפה אדוורסריאלית היא טכניקה שבה מוסיפים הפרעות קטנות, לרוב בלתי נראות,
+  לנתוני הקלט כדי להטעות מודלים של למידת מכונה ולגרום להם לבצע חיזויים שגויים.
 ---
-
 ## Definition
 
 התקפות אדוורסריאליות מנצלות את החולשות של רשתות נוירונים על ידי הכנסת רעש עדין לקלטים, כגון תמונות או טקסט, מה שגורם לשגיאות משמעותיות בפלט המודל. התקפות אלו מדגישות את הרגישות של מודלים אלו לשינויים מינוריים.

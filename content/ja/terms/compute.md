@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 1
 weight: 1
 slug: "compute"
-aliases:
-  - /ja/terms/compute/
 date: "2026-07-18T11:08:38.545665Z"
 lastmod: "2026-07-18T11:44:45.079329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "計算とは、AIシステムにおいてアルゴリズムを実行しデータを処理するために使用される処理能力とリソースを指します。"
 ---
-
 ## Definition
 
 人工知能において、計算はモデルのトレーニングや推論実行に必要な基盤インフラを表します。これにはCPU、GPU、TPUなどのハードウェアコンポーネントが含まれます。

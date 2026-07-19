@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /cs/terms/probabilistic_numerics/
 date: "2026-07-18T16:13:23.362690Z"
 lastmod: "2026-07-18T17:15:09.191261Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Obor, který přistupuje k numerickým výpočetním problémům jako k úlohám statistického úsudku, aby kvantifikoval nejistotu výsledků."
 ---
-
 ## Definition
 
 Pravděpodobná numerika aplikuje bayesovské metody na tradiční numerické problémy, jako je integrace, diferenciace a lineární algebra. Místo poskytování bodových odhadů výstupem jsou pravděpodobnostní rozdělení.

@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /fi/terms/reasoning_model/
 date: "2026-07-18T16:18:30.597942Z"
 lastmod: "2026-07-18T17:15:09.454357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teekoälymalli, joka on optimoitu suorittamaan monimutkaista loogista päättelyä, vaiheittaista ongelmien ratkaisua ja ketjuajatteluprosesseja."
 ---
-
 ## Definition
 
 Eroavaisuutena standardien generatiivisten mallien keskittyessä sujuvuuteen, päättelymallit priorisoivat tarkkuutta monivaiheisissa tehtävissä kuten matematiikassa, koodauksessa ja loogisissa pulmissa. Ne käyttävät usein tekniikoita kuten Ketjuajattelu...

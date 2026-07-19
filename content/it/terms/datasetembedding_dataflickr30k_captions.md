@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /it/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:54:33.296442Z"
 lastmod: "2026-07-18T17:15:08.613758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un dataset multimodale che collega 31.000 immagini a didascalie generate da esseri umani per addestrare modelli di embedding cross-modale."
 ---
-
 ## Definition
 
 Flickr30K Captions è un dataset benchmark ampiamente utilizzato composto da 31.783 immagini, ciascuna annotata con cinque diverse frasi in inglese che descrivono il contenuto visivo. Rappresenta una risorsa fondamentale per...

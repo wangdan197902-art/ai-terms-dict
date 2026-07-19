@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /ko/terms/game_theory/
 date: "2026-07-18T15:56:39.948096Z"
 lastmod: "2026-07-18T16:38:06.843869Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "합리적 의사결정자들 간의 전략적 상호작용을 수학적으로 연구하는 분야로, 결과가 모든 참여자의 행동에 의존합니다."
 ---
-
 ## Definition
 
 게임 이론은 합리적 행위자 간의 전략적 상호작용을 모델링하는 응용수학의 한 분야입니다. 이는 한 플레이어의 성공이 다른 플레이어들의 선택에 달려 있는 상황을 분석합니다. 주요 개념으로는 내시 균형 등이 있습니다.

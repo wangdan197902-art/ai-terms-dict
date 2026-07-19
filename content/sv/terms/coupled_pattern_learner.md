@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /sv/terms/coupled_pattern_learner/
 date: "2026-07-18T15:50:48.636481Z"
 lastmod: "2026-07-18T17:15:08.988350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En algoritmisk metod som samtidigt lär sig relationer mellan två distinkta men korrelerade uppsättningar av mönster eller funktioner."
 ---
-
 ## Definition
 
 Kopplade mönstervärdare är designade för att hantera data där instanser från två olika rum är länkade, såsom bilder och deras textbeskrivningar. Genom att modellera den gemensamma fördelningen eller korrela

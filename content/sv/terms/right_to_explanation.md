@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /sv/terms/right_to_explanation/
 date: "2026-07-18T16:19:25.107188Z"
 lastmod: "2026-07-18T17:15:09.044227Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En juridisk och etisk princip som ger individer rätt att få meningsfull information om automatiserade beslut som påverkar dem avsevärt."
 ---
-
 ## Definition
 
 Rätten till förklaring är en central komponent inom algoritmisk ansvarsskyldighet, särskilt inom ramverk som GDPR. Den säkerställer att när ett AI-system fattar ett beslut som påverkar en persons rättigheter

@@ -1,23 +1,24 @@
 ---
-title: "בדיקות"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: בדיקות
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /he/terms/testing/
-date: "2026-07-18T15:38:47.796235Z"
-lastmod: "2026-07-18T17:15:09.505008Z"
+slug: testing
+date: '2026-07-18T15:38:47.796235Z'
+lastmod: '2026-07-18T17:15:09.505008Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התהליך השיטתי להערכת הביצועים והאמינות של מודל בינה מלאכותית על נתונים שלא נראו בעבר, כדי להבטיח איכות ובטיחות."
+source: agnes_llm
+status: published
+language: he
+description: התהליך השיטתי להערכת הביצועים והאמינות של מודל בינה מלאכותית על נתונים
+  שלא נראו בעבר, כדי להבטיח איכות ובטיחות.
 ---
-
 ## Definition
 
 בדיקות בהנדסת בינה מלאכותית כוללות הערכה קפדנית של מודלים מול ערכות נתונים מגוונות כדי לזהות הטיות, שגיאות ובעיות חוסן. זה כולל בדיקות יחידה לרכיבי קוד, בדיקות אינטגרציה ועוד.

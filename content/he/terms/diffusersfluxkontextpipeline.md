@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /he/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:54:07.600648Z"
 lastmod: "2026-07-18T17:15:09.533473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "צינור ייעודי בספריית Diffusers המיועד למודלי Flux, המאפשר יצירת תמונות המביאה בחשבון הקשר עם קוהרנטיות זמנית או מרחבית משופרת."
 ---
-
 ## Definition
 
 צינור זה מנצל את ארכיטקטורת Flux, הידועה בשילוב תמונות באיכות גבוהה, בתוך מסגרת העבודה של Diffusers. הוא תומך במנגנוני הקשר המאפשרים למודל לקחת בחשבון סביבה s

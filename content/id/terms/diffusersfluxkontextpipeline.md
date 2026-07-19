@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /id/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:47:58.010239Z"
 lastmod: "2026-07-18T16:38:07.450682Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pipa khusus dalam pustaka Diffusers yang dirancang untuk model Flux, memungkinkan generasi gambar yang sadar konteks dengan koherensi temporal atau spasial yang ditingkatkan."
 ---
-
 ## Definition
 
 Pipa ini memanfaatkan arsitektur Flux, yang dikenal karena sintesis gambar berkualitas tinggi, dalam kerangka kerja Diffusers. Pipa ini mendukung mekanisme konteks yang memungkinkan model mempertimbangkan elemen sekitarnya.

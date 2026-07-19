@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /de/terms/coupled_pattern_learner/
 date: "2026-07-18T11:09:02.358500Z"
 lastmod: "2026-07-18T11:44:44.921870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein algorithmischer Ansatz, der Beziehungen zwischen zwei verschiedenen, aber korrelierten Mengen von Mustern oder Merkmalen gleichzeitig erlernt."
 ---
-
 ## Definition
 
 Gekoppelte Musterlerner sind darauf ausgelegt, Daten zu verarbeiten, bei denen Instanzen aus zwei unterschiedlichen Räumen verknüpft sind, wie z. B. Bilder und ihre textlichen Beschreibungen. Durch die Modellierung der gemeinsamen Verteilung oder Korrelation können Zusammenhänge zwischen den Modalitäten erfasst werden.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /vi/terms/information/
 date: "2026-07-18T15:26:22.522632Z"
 lastmod: "2026-07-18T16:38:07.687701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thông tin đề cập đến dữ liệu đã được xử lý, truyền tải ý nghĩa, giảm bớt sự không chắc chắn hoặc cung cấp ngữ cảnh cho người nhận."
 ---
-
 ## Definition
 
 Trong bối cảnh AI và khoa học máy tính, thông tin khác biệt với dữ liệu thô. Nó đại diện cho dữ liệu đã được tổ chức, cấu trúc hóa hoặc diễn giải để có ý nghĩa và tính hữu ích. Thông tin r

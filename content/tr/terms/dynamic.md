@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /tr/terms/dynamic/
 date: "2026-07-18T15:24:28.669493Z"
 lastmod: "2026-07-18T16:38:07.230572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Dinamik, yapay zeka sistemlerinin veya hesaplama grafiklerinin, girdi verilerine veya çevresel değişikliklere göre yapılarını, davranışlarını veya yürütme akışlarını gerçek zamanlı olarak uyarladığını"
 ---
-
 ## Definition
 
 Sabit mimarilere veya önceden belirlenmiş yürütme yollarına sahip statik sistemlerin aksine, dinamik yapay zeka sistemleri çalışma zamanı sırasında işlemlerini değiştirebilir. Derin öğrenmede dinamik hesaplama grafikleri, ağın girdiye göre değişen hesaplamalar yapmasına olanak tanır.

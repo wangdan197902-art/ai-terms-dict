@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /ja/terms/algorithmic_discrimination/
 date: "2026-07-18T11:03:26.813761Z"
 lastmod: "2026-07-18T11:44:45.066116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "アルゴリズム差別とは、自動化されたシステムが、保護された特性に基づいて特定のグループに不利な不公平または偏った結果を生み出すことを指します。"
 ---
-
 ## Definition
 
 この現象は、AIモデルが人種、性別、年齢、または他の機微な属性のために、個人を無意識のうちに、あるいは体系的に異なる扱いをする場合に生じます。これはしばしば、偏ったトレーニングデータやアルゴリズム設計に起因します。

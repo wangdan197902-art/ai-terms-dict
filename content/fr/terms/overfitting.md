@@ -1,23 +1,24 @@
 ---
-title: "Surapprentissage"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Surapprentissage
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /fr/terms/overfitting/
-date: "2026-07-18T11:00:40.072530Z"
-lastmod: "2026-07-18T11:44:45.186978Z"
+slug: overfitting
+date: '2026-07-18T11:00:40.072530Z'
+lastmod: '2026-07-18T11:44:45.186978Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une erreur de modélisation où un algorithme d'apprentissage automatique capture le bruit au lieu du signal sous-jacent, nuisant à la généralisation."
+source: agnes_llm
+status: published
+language: fr
+description: Une erreur de modélisation où un algorithme d'apprentissage automatique
+  capture le bruit au lieu du signal sous-jacent, nuisant à la généralisation.
 ---
-
 ## Definition
 
 Le surapprentissage se produit lorsqu'un modèle apprend trop bien les données d'entraînement, y compris leur bruit aléatoire et ses valeurs aberrantes, ce qui entraîne d'excellentes performances sur les données d'entraînement mais de mauvaises performances sur de nouvelles données de test non vues.

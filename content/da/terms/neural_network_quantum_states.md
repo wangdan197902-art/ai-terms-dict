@@ -1,23 +1,24 @@
 ---
-title: "Neural network quantum states"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: Neural network quantum states
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /da/terms/neural_network_quantum_states/
-date: "2026-07-18T16:09:31.683875Z"
-lastmod: "2026-07-18T17:15:09.315661Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:09:31.683875Z'
+lastmod: '2026-07-18T17:15:09.315661Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En repræsentation af kvantemangelegems-bølgefunktioner ved hjælp af arkitekturer til kunstige neurale netværk."
+source: agnes_llm
+status: published
+language: da
+description: En repræsentation af kvantemangelegems-bølgefunktioner ved hjælp af arkitekturer
+  til kunstige neurale netværk.
 ---
-
 ## Definition
 
 Neural network quantum states anvender teknikker til dyb læring til at approksimere komplekse kvantemekaniske bølgefunktioner. Ved at behandle neurale netværksvægte som parametre, der optimerer sandsynlighedsamplituderne for qubits.

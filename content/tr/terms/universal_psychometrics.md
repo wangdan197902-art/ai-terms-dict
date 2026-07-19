@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /tr/terms/universal_psychometrics/
 date: "2026-07-18T16:20:15.852208Z"
 lastmod: "2026-07-18T16:38:07.375706Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çeşitli popülasyonlar arasında psikolojik özellikleri değerlendirmek için standartlaştırılmış ölçüm tekniklerinin uygulanması."
 ---
-
 ## Definition
 
 Evrensel psikometri, kişilik, bilişsel yetenek veya duygusal zeka gibi psikolojik yapıları güvenilir bir şekilde ölçebilen değerlendirme araçlarının geliştirilmesi ve uygulanmasını içerir. Bu alan, kültürel farklılıklara rağmen ölçümün geçerliliğini ve eşitliğini sağlamaya odaklanır.

@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /hu/terms/building/
 date: "2026-07-18T15:23:56.030460Z"
 lastmod: "2026-07-18T17:15:09.716458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI modellek és rendszerek fejlesztésének, betanításának és üzembe helyezésének gyakorlati szakasza a kezdeti tervezéstől a gyártásra kész állapotig."
 ---
-
 ## Definition
 
 A building (építés/fenntartás) az AI megoldások létrehozásának végrehajtó mérnöki folyamatát jelenti, amely magában foglalja az adatgyűjtést, modellválasztást, betanítást, validációt és üzembe helyezést. Magában foglalja a szükséges technikai infrastruktúrát is.

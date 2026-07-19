@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /es/terms/model_registry/
 date: "2026-07-18T11:00:27.852011Z"
 lastmod: "2026-07-18T11:44:44.833520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un sistema centralizado de almacenamiento y gestión para rastrear modelos de aprendizaje automático a lo largo de su ciclo de vida."
 ---
-
 ## Definition
 
 Un Registro de Modelos sirve como un componente crítico en MLOps, proporcionando un repositorio unificado para almacenar, versionar y gestionar modelos de aprendizaje automático. Permite a los equipos rastrear metadatos del modelo, métricas de rendimiento,

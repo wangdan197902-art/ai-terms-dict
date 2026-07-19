@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /id/terms/loop/
 date: "2026-07-18T15:27:07.159824Z"
 lastmod: "2026-07-18T16:38:07.396737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konstruk pemrograman yang mengulang blok kode beberapa kali hingga kondisi terpenuhi."
 ---
-
 ## Definition
 
 Struktur aliran kontrol dasar dalam ilmu komputer dan pengembangan AI, loop memungkinkan algoritma untuk melakukan iterasi melalui dataset, melakukan perhitungan berulang, atau menjalankan epoch pelatihan. Jenis umum termasuk

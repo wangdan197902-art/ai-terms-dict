@@ -1,23 +1,24 @@
 ---
-title: "Lập trình theo ví dụ"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Lập trình theo ví dụ
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /vi/terms/programming_by_example/
-date: "2026-07-18T16:08:41.166040Z"
-lastmod: "2026-07-18T16:38:07.795419Z"
+slug: programming_by_example
+date: '2026-07-18T16:08:41.166040Z'
+lastmod: '2026-07-18T16:38:07.795419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật AI trong đó chương trình được tổng hợp tự động bằng cách suy luận các quy tắc từ các ví dụ đầu vào - đầu ra do người dùng cung cấp."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật AI trong đó chương trình được tổng hợp tự động bằng cách
+  suy luận các quy tắc từ các ví dụ đầu vào - đầu ra do người dùng cung cấp.
 ---
-
 ## Definition
 
 Lập trình theo ví dụ (PBE) là một mô hình trong tổng hợp chương trình, nơi nhà phát triển chỉ định hành vi mong muốn thông qua các cặp đầu vào - đầu ra cụ thể thay vì viết mã rõ ràng. Hệ thống AI phân tích các ví dụ này để suy ra quy tắc hoặc chương trình tổng quát hóa phù hợp, giúp giảm thiểu việc viết mã thủ công.

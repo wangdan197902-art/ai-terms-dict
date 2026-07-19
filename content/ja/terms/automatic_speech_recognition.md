@@ -1,23 +1,23 @@
 ---
-title: "自動音声認識"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: 自動音声認識
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /ja/terms/automatic_speech_recognition/
-date: "2026-07-18T11:05:10.881028Z"
-lastmod: "2026-07-18T11:44:45.071518Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T11:05:10.881028Z'
+lastmod: '2026-07-18T11:44:45.071518Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ディープラーニングモデルを使用して、話し言葉をテキストに変換する技術。"
+source: agnes_llm
+status: published
+language: ja
+description: ディープラーニングモデルを使用して、話し言葉をテキストに変換する技術。
 ---
-
 ## Definition
 
 自動音声認識（ASR）、またはスピーチ・トゥ・テキストは、音声処理の一分野であり、人工知能を活用して音声信号を書き起こしテキストに変換します。現代のASRシステムは、音響モデリングと言語モデリングを組み合わせたディープラーニングアーキテクチャを採用しており、高い精度で雑音環境下での音声認識を実現しています。

@@ -1,23 +1,24 @@
 ---
-title: "דקדוק פיקוח"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: דקדוק פיקוח
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /he/terms/supervised_fine_tuning/
-date: "2026-07-18T15:38:47.796208Z"
-lastmod: "2026-07-18T17:15:09.504762Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:38:47.796208Z'
+lastmod: '2026-07-18T17:15:09.504762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של אימון נוסף של מודל מוכן מראש על ערכת נתונים ספציפית כדי להתאימו למשימה או לתחום מסוים."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של אימון נוסף של מודל מוכן מראש על ערכת נתונים ספציפית כדי להתאימו
+  למשימה או לתחום מסוים.
 ---
-
 ## Definition
 
 דקדוק פיקוח (SFT) כולל לקיחת מודל גדול מוכן מראש, כגון מודל שפה, והמשך האימון שלו על ערכת נתונים קטנה ואיכותית יותר, המסומנת עבור משימת יעד ספציפית.

@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /da/terms/knowledge_level/
 date: "2026-07-18T16:03:04.239617Z"
 lastmod: "2026-07-18T17:15:09.302734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et abstrakt designperspektiv, der fokuserer på, hvad en agent ved, frem for hvordan den behandler information internt."
 ---
-
 ## Definition
 
 Myntet af Allen Neweller analyserer vidensniveauet intelligente systemer baseret på deres tro og mål, uafhængigt af deres fysiske implementering. Det adskiller rationaliteten i en agents handlinger fra dens underliggende mekanismer.

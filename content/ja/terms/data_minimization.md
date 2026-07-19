@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /ja/terms/data_minimization/
 date: "2026-07-18T11:37:07.583123Z"
 lastmod: "2026-07-18T11:44:45.157434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "特定の目的に厳密に必要な個人情報だけを収集および処理するという原則。"
 ---
-
 ## Definition
 
 データ最小化は、組織がデータの収集を適切で関連性があり、必要最小限の範囲に制限することを要求するプライバシーの核心原則です。AIにおいてこれは、モデル設計時に過剰なデータ収集を避けることを意味します。

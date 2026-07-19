@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /hu/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:11:36.331589Z"
 lastmod: "2026-07-18T17:15:09.809414Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Számítási modellek alkalmazása biológiai adatok, például genomikai szekvenciák és fehérjeszerkezetek elemzésére biológiai betekintések felfedezésére."
 ---
-
 ## Definition
 
 Ez az interdiszciplináris terület a gépi tanulást használja a hatalmas mennyiségű biológiai adat feldolgozására, lehetővé téve a kutatók számára a gének funkcióinak előrejelzését, betegségek osztályozását és a molekuláris kölcsönhatások megértését.

@@ -1,23 +1,24 @@
 ---
-title: "Feature Hashing"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Feature Hashing
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /de/terms/feature_hashing/
-date: "2026-07-18T11:14:30.485294Z"
-lastmod: "2026-07-18T11:44:44.940030Z"
+slug: feature_hashing
+date: '2026-07-18T11:14:30.485294Z'
+lastmod: '2026-07-18T11:44:44.940030Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik, die hochdimensionale, spärliche Merkmale mit einer Hash-Funktion auf einen Vektor fester Größe abbildet."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik, die hochdimensionale, spärliche Merkmale mit einer Hash-Funktion
+  auf einen Vektor fester Größe abbildet.
 ---
-
 ## Definition
 
 Feature Hashing, auch als Hashing-Trick bekannt, ermöglicht es Machine-Learning-Modellen, große, spärliche Merkmalsräume zu verarbeiten, ohne eine explizite Zuordnung zwischen Merkmalen und Indizes aufrechterhalten zu müssen. Durch die Anwendung einer Hash-Funktion wird die Dimensionalität reduziert, was den Speicherbedarf erheblich verringert und die Effizienz bei der Verarbeitung großer Datenmengen steigert.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Agents"]
 difficulty: 4
 weight: 1
 slug: "multi_agent_system"
-aliases:
-  - /hu/terms/multi_agent_system/
 date: "2026-07-18T15:38:39.360626Z"
 lastmod: "2026-07-18T17:15:09.742630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy olyan építészeti megközelítés, ahol több autonóm AI-ügynök együttműködik, versenyez vagy koordinálódik összetett problémák megoldására, amelyek meghaladják az egyedi képességeket."
 ---
-
 ## Definition
 
 A többügynökös rendszerek több független ügynökből állnak, amelyek mindegyike specializálódhat különböző feladatokra vagy területekre. Ezek az ügynökök kommunikálnak és koordinálják cselekvéseiket egy közös cél elérése érdekében, gyakran decentralizált módon.

@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /de/terms/knowledge_integration/
 date: "2026-07-18T11:20:39.621454Z"
 lastmod: "2026-07-18T11:44:44.955204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Kombination heterogener Wissensquellen zu einer einheitlichen, konsistenten Darstellung für verbessertes Schlussfolgern."
 ---
-
 ## Definition
 
 Die Wissensintegration umfasst das Zusammenführen von Daten aus verschiedenen Quellen, wie Datenbanken, Ontologien und unstrukturierten Texten, in ein kohärentes Schema. Sie adressiert Probleme semantischer Heterogenität und Inkonsistenzen.

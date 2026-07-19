@@ -1,23 +1,26 @@
 ---
-title: "Unsloth"
-term_id: "unsloth"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "LLM", "training", "library"]
+title: Unsloth
+term_id: unsloth
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- LLM
+- training
+- library
 difficulty: 3
 weight: 1
-slug: "unsloth"
-aliases:
-  - /tr/terms/unsloth/
-date: "2026-07-18T16:20:31.654994Z"
-lastmod: "2026-07-18T16:38:07.375816Z"
+slug: unsloth
+date: '2026-07-18T16:20:31.654994Z'
+lastmod: '2026-07-18T16:38:07.375816Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Unsloth, büyük dil modellerinin (LLM) eğitimini ve çıkarımını optimize edilmiş bellek yönetimi ve çekirdek uygulamaları aracılığıyla %100'e kadar hızlandıran açık kaynaklı bir kütüphanedir."
+source: agnes_llm
+status: published
+language: tr
+description: Unsloth, büyük dil modellerinin (LLM) eğitimini ve çıkarımını optimize
+  edilmiş bellek yönetimi ve çekirdek uygulamaları aracılığıyla %100'e kadar hızlandıran
+  açık kaynaklı bir kütüphanedir.
 ---
-
 ## Definition
 
 Unsloth, Büyük Dil Modellerinin (LLM) ince ayarını ve dağıtımını optimize etmek için tasarlanmış özel bir araçtır. Standart PyTorch işlemlerini değiştirerek önemli hız artışları ve bellek tasarrufu sağlar.

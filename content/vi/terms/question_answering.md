@@ -1,23 +1,24 @@
 ---
-title: "Trả lời câu hỏi"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Trả lời câu hỏi
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /vi/terms/question_answering/
-date: "2026-07-18T15:36:48.459233Z"
-lastmod: "2026-07-18T16:38:07.712555Z"
+slug: question_answering
+date: '2026-07-18T15:36:48.459233Z'
+lastmod: '2026-07-18T16:38:07.712555Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nhiệm vụ NLP mà tại đó hệ thống tự động cung cấp câu trả lời chính xác cho các câu hỏi được đặt ra bằng ngôn ngữ tự nhiên."
+source: agnes_llm
+status: published
+language: vi
+description: Một nhiệm vụ NLP mà tại đó hệ thống tự động cung cấp câu trả lời chính
+  xác cho các câu hỏi được đặt ra bằng ngôn ngữ tự nhiên.
 ---
-
 ## Definition
 
 Trả lời câu hỏi (QA) liên quan đến việc truy xuất hoặc tạo ra các phản hồi chính xác cho các truy vấn của người dùng từ ngữ cảnh hoặc cơ sở kiến thức đã cho. Nó bao gồm QA miền kín (dựa trên tài liệu cụ thể) và QA miền mở.

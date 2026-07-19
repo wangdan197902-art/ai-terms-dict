@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /nl/terms/discovery_system/
 date: "2026-07-18T15:52:20.823200Z"
 lastmod: "2026-07-18T17:15:08.739150Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een geautomatiseerd framework of algoritmisch proces dat is ontworpen om potentiële oplossingen, patronen of hypothesen binnen een grote zoekruimte te identificeren, verkennen en evalueren."
 ---
-
 ## Definition
 
 Een ontdekkingssysteem is een computeraal framework dat gericht is op het versnellen van wetenschappelijke of analytische doorbraken door het automatiseren van het verkennen van enorme dataruimtes. In tegenstelling tot traditionele optimalisatie die zich richt op het vinden van het beste antwoord binnen bekende kaders,探索 nieuwe mogelijkheden.

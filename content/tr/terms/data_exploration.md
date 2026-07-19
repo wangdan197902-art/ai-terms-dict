@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /tr/terms/data_exploration/
 date: "2026-07-18T15:47:16.832468Z"
 lastmod: "2026-07-18T16:38:07.289452Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Resmi modellemeden önce kalıpları keşfetmek, anormallikleri tespit etmek ve hipotezleri test etmek için veri setlerinin başlangıç analizi."
 ---
-
 ## Definition
 
 Keşifsel Veri Analizi (EDA) olarak da bilinen veri keşfi, makine öğrenimi iş akışlarında kritik bir ön hazırlık adımıdır. Bu süreç, verinin temel özelliklerini özetlemeyi, sıkça görselleştirme tekniklerini kullanarak veri yapısını anlamayı ve ilk modelleri oluşturmadan önce veriyi tanımayı içerir.

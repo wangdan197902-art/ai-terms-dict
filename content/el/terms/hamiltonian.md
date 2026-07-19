@@ -1,23 +1,25 @@
 ---
-title: "Χαμιλτονιανή"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: Χαμιλτονιανή
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /el/terms/hamiltonian/
-date: "2026-07-18T15:26:51.075383Z"
-lastmod: "2026-07-18T17:15:09.846325Z"
+slug: hamiltonian
+date: '2026-07-18T15:26:51.075383Z'
+lastmod: '2026-07-18T17:15:09.846325Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια συνάρτηση που αντιπροσωπεύει τη συνολική ενέργεια ενός συστήματος, χρησιμοποιούμενη σε μοντέλα ΤΝ εμπνευσμένα από τη φυσική για την προσομοίωση δυναμικής και τη διατήρηση της ενέργειας."
+source: agnes_llm
+status: published
+language: el
+description: Μια συνάρτηση που αντιπροσωπεύει τη συνολική ενέργεια ενός συστήματος,
+  χρησιμοποιούμενη σε μοντέλα ΤΝ εμπνευσμένα από τη φυσική για την προσομοίωση δυναμικής
+  και τη διατήρηση της ενέργειας.
 ---
-
 ## Definition
 
 Προερχόμενη από την κλασική μηχανική, η Χαμιλτονιανή αντιπροσωπεύει το άθροισμα της κινητικής και της δυναμικής ενέργειας σε ένα σύστημα. Στην ΤΝ, τα Νευρωνικά Δίκτυα Χαμιλτονιανής (HNNs) ενσωματώνουν αυτή την έννοια για να μάθουν δυναμικές που σέβονται τους φυσικούς νόμους.

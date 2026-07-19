@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /pl/terms/accountability/
 date: "2026-07-18T15:39:01.340392Z"
 lastmod: "2026-07-18T17:15:08.841928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zasada nakładająca na twórców i operatorów systemów sztucznej inteligencji obowiązek ponoszenia odpowiedzialności za wyniki i skutki działania tych systemów."
 ---
-
 ## Definition
 
 Rachunkowość w sztucznej inteligencji odnosi się do obowiązku osób, organizacji oraz deweloperów do ponoszenia odpowiedzialności za projektowanie, wdrażanie i konsekwencje technologii AI.

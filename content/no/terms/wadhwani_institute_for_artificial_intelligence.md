@@ -1,23 +1,25 @@
 ---
-title: "Wadhwani-instituttet for kunstig intelligens"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: Wadhwani-instituttet for kunstig intelligens
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /no/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T16:20:55.980519Z"
-lastmod: "2026-07-18T16:38:07.057232Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T16:20:55.980519Z'
+lastmod: '2026-07-18T16:38:07.057232Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Wadhwani-instituttet for kunstig intelligens er en forskningsorganisasjon fokusert på å anvende AI-løsninger for å adressere kritiske utfordringer innen helsevesen og landbruk i utviklingsøkonomier."
+source: agnes_llm
+status: published
+language: 'no'
+description: Wadhwani-instituttet for kunstig intelligens er en forskningsorganisasjon
+  fokusert på å anvende AI-løsninger for å adressere kritiske utfordringer innen helsevesen
+  og landbruk i utviklingsøkonomier.
 ---
-
 ## Definition
 
 Instituttet, etablert med betydelig støtte fra Wadhwani-stiftelsen, utnytter avansert maskinlæring og datamaskinsynsteknologi for å løse samfunnsmessige problemer i stor skala. Dets arbeid fokuserer på praktisk anvendelse av teknologi for sosialt gode.

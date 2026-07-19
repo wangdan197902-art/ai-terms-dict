@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /nl/terms/inductive_probability/
 date: "2026-07-18T16:00:19.324674Z"
 lastmod: "2026-07-18T17:15:08.755659Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een maat voor de mate waarin bewijs een hypothese ondersteunt, verschillend van deductieve zekerheid."
 ---
-
 ## Definition
 
 Inductieve waarschijnlijkheid kwantificeert hoe waarschijnlijk het is dat een hypothese waar is gegeven waargenomen bewijs, waarbij wordt erkend dat conclusies waarschijnlijk zijn in plaats van zeker. Het vormt de basis van Bayesiaanse inferentie, waarbij...

@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /th/terms/pythia/
-date: "2026-07-18T16:12:16.184784Z"
-lastmod: "2026-07-18T16:38:07.646341Z"
+slug: pythia
+date: '2026-07-18T16:12:16.184784Z'
+lastmod: '2026-07-18T16:38:07.646341Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Pythia คือชุดแบบจำลองภาษาขนาดใหญ่ (LLM) แบบ Decoder-only ที่พัฒนาโดย EleutherAI ซึ่งมีขนาดพารามิเตอร์ตั้งแต่ 70 ล้านถึง 12 พันล้าน"
+source: agnes_llm
+status: published
+language: th
+description: Pythia คือชุดแบบจำลองภาษาขนาดใหญ่ (LLM) แบบ Decoder-only ที่พัฒนาโดย
+  EleutherAI ซึ่งมีขนาดพารามิเตอร์ตั้งแต่ 70 ล้านถึง 12 พันล้าน
 ---
-
 ## Definition
 
 Pythia เป็นซีรีส์ของแบบจำลองภาษาขนาดใหญ่ (LLMs) โอเพนซอร์สที่สร้างโดย EleutherAI ออกแบบมาเพื่อสนับสนุนการวิจัยด้านการตีความและความประพฤติของเครือข่ายประสาทเทียม ชุดนี้ประกอบด้วยแบบจำลองหลายขนาดที่ช่วยให้สามารถศึกษาพฤติกรรมของการขยายขนาดโมเดลได้อย่างละเอียด

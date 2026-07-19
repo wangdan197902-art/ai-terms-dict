@@ -1,23 +1,23 @@
 ---
-title: "게시물"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: 게시물
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /ko/terms/post/
-date: "2026-07-18T15:27:55.305834Z"
-lastmod: "2026-07-18T16:38:06.781051Z"
+slug: post
+date: '2026-07-18T15:27:55.305834Z'
+lastmod: '2026-07-18T16:38:06.781051Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "블로그, 소셜 미디어 플랫폼 또는 포럼에 게시된 콘텐츠로, 일반적으로 사용자 생성 정보나 논평을 나타냅니다."
+source: agnes_llm
+status: published
+language: ko
+description: 블로그, 소셜 미디어 플랫폼 또는 포럼에 게시된 콘텐츠로, 일반적으로 사용자 생성 정보나 논평을 나타냅니다.
 ---
-
 ## Definition
 
 디지털 통신 및 AI 데이터 컨텍스트에서 '게시물(post)'은 온라인으로 공유되는 콘텐츠의 개별 단위를 의미합니다. 이는 자연어 처리 모델 훈련, 감정 분석 등에 주요한 소스로 사용됩니다.

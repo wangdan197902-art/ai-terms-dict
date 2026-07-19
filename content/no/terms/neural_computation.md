@@ -1,23 +1,24 @@
 ---
-title: "Neurale beregninger"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Neurale beregninger
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /no/terms/neural_computation/
-date: "2026-07-18T16:09:07.960154Z"
-lastmod: "2026-07-18T16:38:07.028568Z"
+slug: neural_computation
+date: '2026-07-18T16:09:07.960154Z'
+lastmod: '2026-07-18T16:38:07.028568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med informasjonsbehandling i kunstige nevrale nettverk inspirert av biologiske neuroner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med informasjonsbehandling i kunstige nevrale nettverk inspirert
+  av biologiske neuroner.
 ---
-
 ## Definition
 
 Neurale beregninger refererer til de matematiske operasjonene som utføres av kunstige neuroner for å transformere inngangssignaler til utgangsrespons. Det involverer vektsummer, aktiveringsfunksjoner og bakoverpropagering.

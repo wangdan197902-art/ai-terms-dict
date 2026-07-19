@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /fr/terms/data_preprocessing/
 date: "2026-07-18T11:11:21.357992Z"
 lastmod: "2026-07-18T11:44:45.213816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus de conversion des données brutes en un format propre et cohérent, adapté aux algorithmes d'apprentissage automatique."
 ---
-
 ## Definition
 
 Le prétraitement des données est la tâche essentielle consistant à transformer des données brutes, non structurées ou bruitées en un format standardisé que les modèles d'apprentissage automatique peuvent consommer efficacement. Cette étape comprend généralement le nettoyage, la normalisation et l'encodage.

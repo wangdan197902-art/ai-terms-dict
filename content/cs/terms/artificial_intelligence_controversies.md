@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /cs/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:42:16.137531Z"
 lastmod: "2026-07-18T17:15:09.102579Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Veřejné debaty a nesouhlasy týkající se etických, sociálních a technických dopadů vývoje a nasazení AI."
 ---
-
 ## Definition
 
 Kontroverze v oblasti AI zahrnují širokou škálu etických, právních a společenských sporů vznikajících z technologií umělé inteligence. Mezi klíčové otázky patří algoritmická zkreslení, porušování soukromí a nahrazování pracovních sil.

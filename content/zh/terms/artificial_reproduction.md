@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /zh/terms/artificial_reproduction/
 date: "2026-07-18T11:06:59.857955Z"
 lastmod: "2026-07-18T11:44:45.446005Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "利用生物技术和AI辅助或复制生物生殖过程，通常应用于医学或农业领域。"
 ---
-
 ## Definition
 
 人工繁殖包括促进或复制无需直接性交的生物生殖过程的技术，大量利用技术，并越来越多地利用AI进行优化...

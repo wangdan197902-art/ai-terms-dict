@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /vi/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:47:35.714675Z"
 lastmod: "2026-07-18T16:38:07.744116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tập dữ liệu Cặp câu hỏi Quora, được sử dụng để huấn luyện mô hình phát hiện độ tương đồng ngữ nghĩa giữa các câu hỏi."
 ---
-
 ## Definition
 
 Quora Question Pairs (QQP) là một tập dữ liệu phân loại nhị phân chứa hơn 400.000 cặp câu hỏi từ nền tảng Quora. Nhiệm vụ là xác định xem hai câu hỏi có cùng ý định hay không.

@@ -1,23 +1,24 @@
 ---
-title: "Bayesiaanse optimalisatie"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesiaanse optimalisatie
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /nl/terms/bayesian_optimization/
-date: "2026-07-18T15:44:44.026159Z"
-lastmod: "2026-07-18T17:15:08.721862Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:44:44.026159Z'
+lastmod: '2026-07-18T17:15:08.721862Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een sequentiële ontwerpregel voor globale optimalisatie van black-boxfuncties die duur te evalueren zijn."
+source: agnes_llm
+status: published
+language: nl
+description: Een sequentiële ontwerpregel voor globale optimalisatie van black-boxfuncties
+  die duur te evalueren zijn.
 ---
-
 ## Definition
 
 Bayesiaanse optimalisatie maakt gebruik van een probabilistisch vervangingsmodel, meestal een Gaussian Process, om de doel functie te modelleren. Het gebruikt een acquisitiefunctie om exploratie en exploitatie in evenwicht te brengen, zodat

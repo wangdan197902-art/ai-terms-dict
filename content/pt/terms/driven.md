@@ -1,23 +1,25 @@
 ---
-title: "Orientado a / Guiado por"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Orientado a / Guiado por
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /pt/terms/driven/
-date: "2026-07-18T14:34:31.939198Z"
-lastmod: "2026-07-18T15:51:59.427831Z"
+slug: driven
+date: '2026-07-18T14:34:31.939198Z'
+lastmod: '2026-07-18T15:51:59.427831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Orientado descreve sistemas ou metodologias de IA onde a tomada de decisão ou a arquitetura do modelo é primariamente guiada por um tipo específico de entrada, como dados ou objetivos."
+source: agnes_llm
+status: published
+language: pt
+description: Orientado descreve sistemas ou metodologias de IA onde a tomada de decisão
+  ou a arquitetura do modelo é primariamente guiada por um tipo específico de entrada,
+  como dados ou objetivos.
 ---
-
 ## Definition
 
 O termo 'orientado' é comumente usado como sufixo para indicar a força ou mecanismo principal por trás de uma abordagem de IA. Por exemplo, 'orientado a dados' implica que as decisões são baseadas em padrões estatísticos nos dados.

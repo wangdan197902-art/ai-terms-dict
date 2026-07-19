@@ -1,23 +1,24 @@
 ---
-title: "Formal concept analysis"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Formal concept analysis
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /th/terms/formal_concept_analysis/
-date: "2026-07-18T15:54:58.884549Z"
-lastmod: "2026-07-18T16:38:07.607412Z"
+slug: formal_concept_analysis
+date: '2026-07-18T15:54:58.884549Z'
+lastmod: '2026-07-18T16:38:07.607412Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Formal Concept Analysis (FCA) เป็นวิธีการทางคณิตศาสตร์สำหรับการหาลำดับชั้นของแนวคิดจากข้อมูลโดยใช้บริบททางการและโครงข่ายแนวคิด (concept lattices)"
+source: agnes_llm
+status: published
+language: th
+description: Formal Concept Analysis (FCA) เป็นวิธีการทางคณิตศาสตร์สำหรับการหาลำดับชั้นของแนวคิดจากข้อมูลโดยใช้บริบททางการและโครงข่ายแนวคิด
+  (concept lattices)
 ---
-
 ## Definition
 
 FCA ให้กรอบการทำงานที่เข้มงวดสำหรับการวิเคราะห์ความสัมพันธ์ระหว่างวัตถุและคุณสมบัติของมัน ส่งผลให้ได้โครงสร้างลำดับชั้นที่เรียกว่า concept lattice มันถูกใช้อย่างแพร่หลายในการจัดการความรู้

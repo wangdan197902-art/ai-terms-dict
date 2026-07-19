@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /cs/terms/loop/
 date: "2026-07-18T15:26:39.457713Z"
 lastmod: "2026-07-18T17:15:09.072420Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Programová konstrukce, která opakuje blok kódu vícekrát, dokud není splněna určitá podmínka."
 ---
-
 ## Definition
 
 Základní struktura řídicího toku ve vědě o počítačích a vývoji AI umožňuje algoritmům iterovat přes datové sady, provádět opakované výpočty nebo spouštět tréninkové epochy. Běžné typy zahrnují

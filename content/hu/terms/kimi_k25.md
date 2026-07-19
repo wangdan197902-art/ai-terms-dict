@@ -7,8 +7,6 @@ tags: ["LLM", "Versioning", "Performance"]
 difficulty: 2
 weight: 1
 slug: "kimi_k25"
-aliases:
-  - /hu/terms/kimi_k25/
 date: "2026-07-18T16:07:05.793570Z"
 lastmod: "2026-07-18T17:15:09.799319Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Kimi K25 a Moonshot AI korábbi verzióinál tovább finomított teljesítményt és hatékonyságot kínáló, későbbi nagy nyelvi modell variánsa."
 ---
-
 ## Definition
 
 A Kimi K25 a Moonshot AI által gyártott Kimi modellcsalád egy fejlett változata. A korábbi verziókhoz (például a Kimi K2-hez) képest épít fel, javítva az következtetési sebességet és a

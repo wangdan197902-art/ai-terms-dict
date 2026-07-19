@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /es/terms/vector_database/
 date: "2026-07-18T10:27:37.326774Z"
 lastmod: "2026-07-18T11:44:44.754342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una base de datos especializada diseñada para almacenar, indexar y consultar vectores de alta dimensión que representan características de los datos."
 ---
-
 ## Definition
 
 Las bases de datos vectoriales optimizan el almacenamiento y la recuperación de datos no estructurados convirtiéndolos en incrustaciones numéricas (embeddings). Utilizan algoritmos como el Vecino Más Cercano Aproximado (ANN) para encontrar similitudes de manera eficiente.

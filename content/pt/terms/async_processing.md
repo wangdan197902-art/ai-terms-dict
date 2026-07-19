@@ -1,23 +1,24 @@
 ---
-title: "Processamento Assíncrono"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Processamento Assíncrono
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /pt/terms/async_processing/
-date: "2026-07-18T14:50:21.522205Z"
-lastmod: "2026-07-18T15:51:59.465168Z"
+slug: async_processing
+date: '2026-07-18T14:50:21.522205Z'
+lastmod: '2026-07-18T15:51:59.465168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um paradigma de programação onde as tarefas são executadas independentemente do fluxo principal, permitindo operações não bloqueantes."
+source: agnes_llm
+status: published
+language: pt
+description: Um paradigma de programação onde as tarefas são executadas independentemente
+  do fluxo principal, permitindo operações não bloqueantes.
 ---
-
 ## Definition
 
 O processamento assíncrono permite que o software execute tarefas de longa duração, como operações de E/S ou cálculos complexos, sem congelar a interface principal ou bloquear outros processos. Ao desacoplar a execução da chamada, o sistema mantém a responsividade e utiliza recursos de forma mais eficiente.

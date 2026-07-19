@@ -1,23 +1,23 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /zh/terms/google_research/
-date: "2026-07-18T11:19:33.288275Z"
-lastmod: "2026-07-18T11:44:45.510049Z"
+slug: google_research
+date: '2026-07-18T11:19:33.288275Z'
+lastmod: '2026-07-18T11:44:45.510049Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "谷歌致力于通过基础和应用研究推动人工智能、机器学习和计算机科学发展的研究部门。"
+source: agnes_llm
+status: published
+language: zh
+description: 谷歌致力于通过基础和应用研究推动人工智能、机器学习和计算机科学发展的研究部门。
 ---
-
 ## Definition
 
 Google Research 是谷歌有限责任公司的学术和工业研究部门，专注于在人工智能、自然语言处理和量子计算等领域突破技术边界。

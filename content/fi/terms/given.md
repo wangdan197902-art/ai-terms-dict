@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /fi/terms/given/
 date: "2026-07-18T15:27:00.193069Z"
 lastmod: "2026-07-18T17:15:09.351523Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Termi, joka tarkoittaa esiolemassa olevaa dataa, rajoitteita tai kontekstia, joka toimitetaan algoritmiselle prosessille syötteeksi."
 ---
-
 ## Definition
 
 Teekoälyn ja tietojenkäsittelyn yhteydessä 'annettu' viittaa alkutilaan, datamäärään tai parametreihin, jotka toimitetaan mallille tai funktiolle ennen laskentaa. Se määrittää rajaehtoja laskennalle.

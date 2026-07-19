@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /he/terms/ciml_community_portal/
 date: "2026-07-18T15:47:17.252774Z"
 lastmod: "2026-07-18T17:15:09.518681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פלטפורמה מקוונת מרכזית המאפשרת שיתוף פעולה, שיתוף משאבים ודיון בין חוקרים ומקצוענים בתחומי האינטליגנציה החישובית והלמידה המכונה."
 ---
-
 ## Definition
 
 פורטל הקהילה של CIML משמש כמרכז דיגיטלי לקהילה האקדמית והמקצועית המתמקדת באינטליגנציה חישובית. הוא מספק גישה למאגרי נתונים, מודלים מאומנים מראש, מאמרי מחקר וכלים נוספים לקידום המחקר והפיתוח.

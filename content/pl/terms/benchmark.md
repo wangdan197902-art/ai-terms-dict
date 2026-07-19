@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /pl/terms/benchmark/
 date: "2026-07-18T15:23:46.262991Z"
 lastmod: "2026-07-18T17:15:08.807749Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Standaryzowany punkt odniesienia lub metryka służąca do oceny wydajności modeli sztucznej inteligencji w stosunku do ustalonych bazowych poziomów."
 ---
-
 ## Definition
 
 W sztucznej inteligencji benchmark to standaryzowany zestaw testowy lub zbiór danych zaprojektowany do pomiaru możliwości modeli uczenia maszynowego. Zapewnia on spójny framework do porównywania różnych modeli.

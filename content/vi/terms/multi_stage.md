@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /vi/terms/multi_stage/
 date: "2026-07-18T15:31:24.694316Z"
 lastmod: "2026-07-18T16:38:07.702630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thiết kế quy trình chia nhỏ một nhiệm vụ phức tạp thành các giai đoạn tuần tự riêng biệt, mỗi giai đoạn có các mục tiêu và đầu ra cụ thể."
 ---
-
 ## Definition
 
 Các phương pháp tiếp cận đa giai đoạn chia nhỏ các quy trình làm việc phức tạp thành các phần dễ quản lý hơn, cho phép xử lý chuyên biệt ở từng bước. Phương pháp này nâng cao khả năng kiểm soát, gỡ lỗi và tối ưu hiệu suất.

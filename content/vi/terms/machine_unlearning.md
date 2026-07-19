@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /vi/terms/machine_unlearning/
 date: "2026-07-18T16:02:07.367649Z"
 lastmod: "2026-07-18T16:38:07.779828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Học lại ngược là quá trình loại bỏ các điểm dữ liệu cụ thể hoặc ảnh hưởng của chúng khỏi một mô hình đã huấn luyện mà không cần huấn luyện lại mô hình từ đầu."
 ---
-
 ## Definition
 
 Kỹ thuật này giải quyết các quy định về quyền riêng tư như 'quyền được quên' trong GDPR bằng cách cho phép các mô hình 'quên' dữ liệu cụ thể của người dùng trong khi vẫn giữ lại kiến thức chung. Mục tiêu của nó là xấp xỉ hiệu suất của một mô hình đã được huấn...

@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /id/terms/grokking/
 date: "2026-07-18T15:53:57.794498Z"
 lastmod: "2026-07-18T16:38:07.465032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fenomena di mana jaringan saraf tiba-tiba mampu melakukan generalisasi dengan baik setelah pelatihan berkepanjangan pada dataset kecil, jauh melampaui titik menghafal."
 ---
-
 ## Definition
 
 Grokking merujuk pada perilaku kontra-intuitif yang diamati dalam pembelajaran mendalam, di mana model terus mengalami overfitting pada data pelatihan untuk waktu yang lama, menunjukkan generalisasi yang buruk, sebelum tiba-tiba mencapai kemampuan generalisasi yang sangat baik. Fenomena ini menyoroti dinamika optimasi yang kompleks di mana pembelajaran semantik terjadi setelah fase menghafal data.

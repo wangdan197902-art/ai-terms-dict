@@ -1,23 +1,24 @@
 ---
-title: "Google Clips"
-term_id: "google_clips"
-category: "engineering_practice"
-subcategory: ""
-tags: ["hardware", "computer_vision", "discontinued"]
+title: Google Clips
+term_id: google_clips
+category: engineering_practice
+subcategory: ''
+tags:
+- hardware
+- Computer Vision
+- discontinued
 difficulty: 2
 weight: 1
-slug: "google_clips"
-aliases:
-  - /es/terms/google_clips/
-date: "2026-07-18T10:52:00.697417Z"
-lastmod: "2026-07-18T11:44:44.811851Z"
+slug: google_clips
+date: '2026-07-18T10:52:00.697417Z'
+lastmod: '2026-07-18T11:44:44.811851Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Google Clips era una cámara portátil con IA diseñada para capturar momentos automáticamente mediante aprendizaje automático."
+source: agnes_llm
+status: published
+language: es
+description: Google Clips era una cámara portátil con IA diseñada para capturar momentos
+  automáticamente mediante aprendizaje automático.
 ---
-
 ## Definition
 
 Google Clips era un dispositivo de electrónica de consumo desarrollado por Google que utilizaba aprendizaje automático en el dispositivo para identificar escenas y sujetos interesantes, como rostros o mascotas, y capturar automáticamente

@@ -1,23 +1,24 @@
 ---
-title: "Vortrainiert"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: Vortrainiert
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /de/terms/pretrained/
-date: "2026-07-18T11:28:02.085045Z"
-lastmod: "2026-07-18T11:44:44.976484Z"
+slug: pretrained
+date: '2026-07-18T11:28:02.085045Z'
+lastmod: '2026-07-18T11:44:44.976484Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Bezieht sich auf ein Modell, das bereits auf einem großen Datensatz trainiert wurde, bevor es für eine spezifische Aufgabe angepasst wird."
+source: agnes_llm
+status: published
+language: de
+description: Bezieht sich auf ein Modell, das bereits auf einem großen Datensatz trainiert
+  wurde, bevor es für eine spezifische Aufgabe angepasst wird.
 ---
-
 ## Definition
 
 Der Begriff 'vortrainiert' beschreibt ein neuronales Netzwerkmodell, das einem initialen Training auf einem massiven, oft generischen Datensatz wie ImageNet oder Wikipedia unterzogen wurde. Dieser Prozess ermöglicht es dem Modell, allgemeine Merkmale und Strukturen zu lernen, die dann durch Feinabstimmung auf spezifischere Downstream-Aufgaben übertragen werden können.

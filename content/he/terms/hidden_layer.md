@@ -1,23 +1,23 @@
 ---
-title: "שכבה נסתרת"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: שכבה נסתרת
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /he/terms/hidden_layer/
-date: "2026-07-18T16:03:56.591327Z"
-lastmod: "2026-07-18T17:15:09.547175Z"
+slug: hidden_layer
+date: '2026-07-18T16:03:56.591327Z'
+lastmod: '2026-07-18T17:15:09.547175Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שכבה ביניים ברשת נוירונים בין שכבות הקלט והפלט המעבדת תכונות."
+source: agnes_llm
+status: published
+language: he
+description: שכבה ביניים ברשת נוירונים בין שכבות הקלט והפלט המעבדת תכונות.
 ---
-
 ## Definition
 
 שכבה נסתרת מורכבת מנוירונים המקבלים קלטים משכבות קודמות, מיישמים משקולות והטיות, ומעבירים נתונים מעובדים קדימה דרך פונקציית הפעלה. שכבות אלו מאפשרות לרשתות נוירונים

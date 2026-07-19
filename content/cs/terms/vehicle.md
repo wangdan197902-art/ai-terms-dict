@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /cs/terms/vehicle/
 date: "2026-07-18T15:31:13.392596Z"
 lastmod: "2026-07-18T17:15:09.081524Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V kontextu AI se termín často vztahuje na platformu nebo médium, kterým jsou modely AI nasazovány nebo předávány koncovým uživatelům."
 ---
-
 ## Definition
 
 Ačkoli tradičně znamená dopravu, v terminologii AI může metaforicky popisovat mechanismus dodávky inteligentních služeb, jako jsou mobilní aplikace, webové rozhraní nebo vestavěné systémy.

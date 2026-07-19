@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /zh/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T11:14:55.241316Z"
 lastmod: "2026-07-18T11:44:45.488754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Diffusers 库中为 Flux 模型设计的专用管道，支持具有增强时间或空间一致性的上下文感知图像生成。"
 ---
-
 ## Definition
 
 该管道利用以高质量图像合成著称的 Flux 架构，并将其集成到 Diffusers 框架中。它支持上下文机制，使模型能够考虑周围环境信息。

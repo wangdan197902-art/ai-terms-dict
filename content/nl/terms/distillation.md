@@ -1,23 +1,24 @@
 ---
-title: "Distillatie"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Distillatie
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /nl/terms/distillation/
-date: "2026-07-18T15:25:23.630934Z"
-lastmod: "2026-07-18T17:15:08.682528Z"
+slug: distillation
+date: '2026-07-18T15:25:23.630934Z'
+lastmod: '2026-07-18T17:15:08.682528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Knowledge distillation is a model compression technique where a smaller student model learns to mimic the behavior of a larger teacher model."
+source: agnes_llm
+status: published
+language: nl
+description: Knowledge distillation is a model compression technique where a smaller
+  student model learns to mimic the behavior of a larger teacher model.
 ---
-
 ## Definition
 
 Knowledgedistillatie is een techniek voor modelcompressie waarbij een kleiner 'student'-model leert om het gedrag van een groter 'leraar'-model na te bootsen.

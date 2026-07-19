@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /hu/terms/ai_infrastructure/
 date: "2026-07-18T15:41:02.735618Z"
 lastmod: "2026-07-18T17:15:09.749023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a hardver-, szoftver- és hálózati erőforrás-készlet, amely szükséges az artificial intelligence modellek fejlesztéséhez, betanításához és nagy léptékű üzemeltetéséhez."
 ---
-
 ## Definition
 
 Az AI-infrastruktúra magában foglalja a mesterséges intelligencia műveletekhez szükséges alapvető technológiai veremépítést. Ez magában foglalja a nagy teljesítményű számítógépes hardvereket, mint például a GPU-kat és TPU-kat, valamint a felhőalapú tárolórendszereket és a hálózati kapcsolatot.

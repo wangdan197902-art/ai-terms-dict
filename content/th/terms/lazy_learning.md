@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้แบบเฉื่อย (Lazy Learning)"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: การเรียนรู้แบบเฉื่อย (Lazy Learning)
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /th/terms/lazy_learning/
-date: "2026-07-18T16:01:57.262139Z"
-lastmod: "2026-07-18T16:38:07.624827Z"
+slug: lazy_learning
+date: '2026-07-18T16:01:57.262139Z'
+lastmod: '2026-07-18T16:38:07.624827Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แนวทางเรียนรู้ที่เลื่อนการสรุปทั่วไป (generalization) ออกไปจนกว่าจะถึงเวลาจำแนกประเภท โดยเก็บรักษาตัวอย่างข้อมูลฝึกสอนแทนการสร้างโมเดลอย่างชัดเจน"
+source: agnes_llm
+status: published
+language: th
+description: แนวทางเรียนรู้ที่เลื่อนการสรุปทั่วไป (generalization) ออกไปจนกว่าจะถึงเวลาจำแนกประเภท
+  โดยเก็บรักษาตัวอย่างข้อมูลฝึกสอนแทนการสร้างโมเดลอย่างชัดเจน
 ---
-
 ## Definition
 
 ผู้เรียนรู้แบบเฉื่อย เช่น k-Nearest Neighbors (k-NN) จะจำชุดข้อมูลฝึกสอนทั้งหมดไว้และดำเนินการคำนวณเฉพาะเมื่อทำการทำนายเท่านั้น สิ่งนี้ตรงข้ามกับการเรียนรู้แบบกระตือรือร้น (eager learning) ซึ่งสร้างโมเดลทั่วไปล่วงหน้าก่อนการฝึกฝนเสร็จสิ้น

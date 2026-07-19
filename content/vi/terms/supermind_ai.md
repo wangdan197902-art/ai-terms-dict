@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /vi/terms/supermind_ai/
 date: "2026-07-18T16:13:26.365918Z"
 lastmod: "2026-07-18T16:38:07.808893Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Kiến trúc hoặc hệ thống AI được thiết kế để tích hợp nhiều tác nhân hoặc mô hình thông minh thành một thực thể nhận thức thống nhất, nâng cao, có khả năng giải quyết vấn đề vượt trội."
 ---
-
 ## Definition
 
 Siêu trí tuệ AI đề cập đến các hệ thống nơi nhiều thành phần AI, chuyên gia con người, hoặc đội ngũ lai người-AI cộng tác liền mạch để tạo thành trí tuệ tập thể vượt quá khả năng của bất kỳ cá nhân nào.

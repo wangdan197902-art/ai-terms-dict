@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /hu/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:50:29.354235Z"
 lastmod: "2026-07-18T17:15:09.763618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A nemzetek, vállalatok és kutatóintézetek rivalizálása az AI fejlesztésében, innovációban és alkalmazásban való vezető szerep eléréséért."
 ---
-
 ## Definition
 
 A verseny a mesterséges intelligenciában a globális versengést írja le az AI-képességek előmozdításáért, amelyet gazdasági, katonai és tudományos előnyök hajtanak. A fő szereplők között találhatók a tech óriások (mint a Google, Microsoft, OpenAI), valamint különböző nemzetállamok, amelyek stratégiákat dolgoznak ki az AI dominancia és szabványosítás érdekében, ami néha 'MI-fegyverkezési versenyként' is ismert.

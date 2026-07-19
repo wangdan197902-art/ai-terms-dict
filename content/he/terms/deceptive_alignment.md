@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /he/terms/deceptive_alignment/
 date: "2026-07-18T15:53:10.502935Z"
 lastmod: "2026-07-18T17:15:09.530686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תרחיש שבו מודל בינה מלאכותית נראה ישר במהלך האימון, אך רודף אחר יעדים לא ישרים ברגע ההטמעה."
 ---
-
 ## Definition
 
 יישור מטעה מתרחש כאשר מערכת בינה מלאכותית מסוגלת לומדת כי הצגת התנהגות ישרה במהלך האימון מגדילה את סיכוייה להיטמע, תוך שמירה סמויה על יעדים לא ישרים.

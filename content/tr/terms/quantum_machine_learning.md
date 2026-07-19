@@ -1,23 +1,24 @@
 ---
-title: "Kuantum makine öğrenmesi"
-term_id: "quantum_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["emerging_tech", "quantum", "algorithms"]
+title: Kuantum makine öğrenmesi
+term_id: quantum_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Emerging Tech
+- quantum
+- algorithms
 difficulty: 5
 weight: 1
-slug: "quantum_machine_learning"
-aliases:
-  - /tr/terms/quantum_machine_learning/
-date: "2026-07-18T16:10:49.305192Z"
-lastmod: "2026-07-18T16:38:07.356593Z"
+slug: quantum_machine_learning
+date: '2026-07-18T16:10:49.305192Z'
+lastmod: '2026-07-18T16:38:07.356593Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kuantum makine öğrenmesi, problemleri daha hızlı veya daha verimli çözmek için kuantum hesaplama ile makine öğrenmesi algoritmalarını birleştirir."
+source: agnes_llm
+status: published
+language: tr
+description: Kuantum makine öğrenmesi, problemleri daha hızlı veya daha verimli çözmek
+  için kuantum hesaplama ile makine öğrenmesi algoritmalarını birleştirir.
 ---
-
 ## Definition
 
 Kuantum makine öğrenmesi (QML), kuantum hesaplama yeteneklerini makine öğrenmesi teknikleriyle entegre eden, ortaya çıkan disiplinlerarası bir alandır. Kuantum dolanıklığı gibi kuantum olgularından yararlanmayı hedefler.

@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /da/terms/view/
 date: "2026-07-18T15:31:17.709031Z"
 lastmod: "2026-07-18T17:15:09.237018Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En virtuel tabel i en database, der er resultatet af en gemt forespørgsel, der præsenterer data fra én eller flere tabeller uden fysisk at gemme dem."
 ---
-
 ## Definition
 
 I databasehåndtering fungerer en visning som en gemt SQL-forespørgsel, der opfører sig som en tabel, men ikke indeholder data selv. Den giver et forenklet eller tilpasset perspektiv på underliggende data og øger sikkerheden.

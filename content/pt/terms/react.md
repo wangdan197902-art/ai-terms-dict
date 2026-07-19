@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /pt/terms/react/
 date: "2026-07-18T14:45:28.110432Z"
 lastmod: "2026-07-18T15:51:59.453972Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O ReAct é um paradigma de prompt que combina raciocínio e ação para melhorar o desempenho de grandes modelos de linguagem em tarefas complexas."
 ---
-
 ## Definition
 
 O framework ReAct permite que LLMs gerem rastros de raciocínio e ações específicas da tarefa de maneira intercalada. Ao simular processos de pensamento semelhantes aos humanos, ele permite que os modelos interajam com o ambiente externo...

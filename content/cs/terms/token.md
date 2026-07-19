@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /cs/terms/token/
 date: "2026-07-18T15:30:36.573111Z"
 lastmod: "2026-07-18T17:15:09.080181Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Token je diskrétní jednotka textu nebo dat, která slouží jako základní vstupní prvek pro modely zpracování přirozeného jazyka."
 ---
-
 ## Definition
 
 Tokeny jsou základními stavebními kameny vstupních dat v NLP, typicky reprezentující slova, podslova nebo znaky. Velké jazykové modely (LLM) zpracovávají text převodem na tokeny, které jsou

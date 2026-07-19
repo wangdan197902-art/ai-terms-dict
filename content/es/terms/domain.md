@@ -1,23 +1,25 @@
 ---
-title: "Dominio"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Dominio
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /es/terms/domain/
-date: "2026-07-18T10:22:03.819121Z"
-lastmod: "2026-07-18T11:44:44.738482Z"
+slug: domain
+date: '2026-07-18T10:22:03.819121Z'
+lastmod: '2026-07-18T11:44:44.738482Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un dominio representa un contexto específico o distribución de datos caracterizado por su espacio de características y su distribución de probabilidad subyacente."
+source: agnes_llm
+status: published
+language: es
+description: Un dominio representa un contexto específico o distribución de datos
+  caracterizado por su espacio de características y su distribución de probabilidad
+  subyacente.
 ---
-
 ## Definition
 
 En el aprendizaje automático, particularmente en el aprendizaje por transferencia, un dominio se define por dos componentes: el espacio de características (el conjunto de todas las entradas posibles) y la distribución de probabilidad marginal de esas entradas.

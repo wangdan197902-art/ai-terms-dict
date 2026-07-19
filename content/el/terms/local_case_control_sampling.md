@@ -1,23 +1,24 @@
 ---
-title: "Τοπική δειγματοληψία περίπτωσης-ελέγχου"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Τοπική δειγματοληψία περίπτωσης-ελέγχου
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /el/terms/local_case_control_sampling/
-date: "2026-07-18T16:19:13.878760Z"
-lastmod: "2026-07-18T17:15:09.927718Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:19:13.878760Z'
+lastmod: '2026-07-18T17:15:09.927718Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική αρνητικής δειγματοληψίας που επιλέγει δύσκολα αρνητικά από την άμεση γειτονιά των θετικών παραδειγμάτων στον χώρο ενσωμάτωσης."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική αρνητικής δειγματοληψίας που επιλέγει δύσκολα αρνητικά από
+  την άμεση γειτονιά των θετικών παραδειγμάτων στον χώρο ενσωμάτωσης.
 ---
-
 ## Definition
 
 Η τοπική δειγματοληψία περίπτωσης-ελέγχου είναι μια στρατηγική που χρησιμοποιείται κυρίως στην εκπαίδευση μοντέλων αντίθετης μάθησης ή συστημών σύστασης. Αντί να επιλέγει τυχαία αρνητικά δείγματα, εντοπίζει τα «δύσκολα αρνητικά» (hard negatives) που βρίσκονται κοντά στα θετικά παραδείγματα στον χώρο ενσωματώσεων, βελτιώνοντας έτσι την ικανότητα του μοντέλου να διακρίνει λεπτές διαφορές.

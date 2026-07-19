@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /ar/terms/biohybrid_system/
 date: "2026-07-18T15:47:25.653020Z"
 lastmod: "2026-07-18T17:15:08.482095Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام متكامل يجمع بين المكونات البيولوجية والأجهزة الاصطناعية لتعزيز الوظائف أو خلق قدرات جديدة."
 ---
-
 ## Definition
 
 تدمج الأنظمة الحيوية الهجينة الأنسجة الحية أو الخلايا أو الكائنات الحية مع المواد الاصطناعية والأجهزة الإلكترونية. تهدف هذه الأنظمة إلى الاستفادة من الخصائص الفريدة للكيانات البيولوجية، مثل القدرة على الإصلاح الذاتي.

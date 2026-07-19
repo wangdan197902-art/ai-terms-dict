@@ -1,23 +1,23 @@
 ---
-title: "גיזום עץ החלטות"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: גיזום עץ החלטות
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /he/terms/decision_tree_pruning/
-date: "2026-07-18T15:53:10.502960Z"
-lastmod: "2026-07-18T17:15:09.531212Z"
+slug: decision_tree_pruning
+date: '2026-07-18T15:53:10.502960Z'
+lastmod: '2026-07-18T17:15:09.531212Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה להקטנת גודל עצי ההחלטות על ידי הסרת חלקים המספקים מעט כוח לסיווג מקרים."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה להקטנת גודל עצי ההחלטות על ידי הסרת חלקים המספקים מעט כוח לסיווג
+  מקרים.
 ---
-
 ## Definition
 
 גיזום הוא שיטה המשמשת למניעת התאמת יתר (Overfitting) במודלי עצי החלטות על ידי הסרת ענפים בעלי כוח חיזוי חלש. ניתן לבצע זאת בגיזום מוקדם (Pre-pruning), על ידי עצירת צמיחת העץ מוקדם, או בגיזום מאוחר (Post-pruning).

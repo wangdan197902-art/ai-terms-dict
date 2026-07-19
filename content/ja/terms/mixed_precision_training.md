@@ -1,23 +1,23 @@
 ---
-title: "混合精度学習"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: 混合精度学習
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /ja/terms/mixed_precision_training/
-date: "2026-07-18T11:24:02.776661Z"
-lastmod: "2026-07-18T11:44:45.122680Z"
+slug: mixed_precision_training
+date: '2026-07-18T11:24:02.776661Z'
+lastmod: '2026-07-18T11:44:45.122680Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "16ビットと32ビットの浮動小数点数を併用して計算を加速し、メモリ使用量を削減する学習手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 16ビットと32ビットの浮動小数点数を併用して計算を加速し、メモリ使用量を削減する学習手法。
 ---
-
 ## Definition
 
 混合精度学習（MPT）は、ニューラルネットワークの学習中に半精度（FP16）と全精度（FP32）のデータ型を組み合わせた手法です。ほとんどの演算にFP16を使用することで、メモリフットプリントを削減し、計算速度を向上させます。

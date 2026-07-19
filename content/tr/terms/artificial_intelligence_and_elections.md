@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /tr/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:41:23.657005Z"
 lastmod: "2026-07-18T16:38:07.273624Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Seçim süreçlerinde, kampanya yönetimi, seçmen analizi ve yanlış bilgi endişeleri dahil olmak üzere yapay zeka teknolojilerinin uygulanmasını ifade eder."
 ---
-
 ## Definition
 
 Bu terim, demokratik süreçlerde yapay zekanın iki yüzlü rolünü kapsar: veri analitiği yoluyla verimliliği artırması ve manipülasyon yoluyla riskler oluşturması. Bir yandan yapay zeka, kampanyaların seçmenleri hedeflemesine ve optimize etmesine yardımcı olur.

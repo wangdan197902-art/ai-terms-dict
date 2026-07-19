@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /ar/terms/cognitive_philology/
 date: "2026-07-18T15:48:49.318379Z"
 lastmod: "2026-07-18T17:15:08.485082Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تطبق الفيلولوجيا المعرفية الأساليب الحسابية ومبادئ العلوم المعرفية على دراسة اللغة والأدب والتاريخ النصي."
 ---
-
 ## Definition
 
 الفيلولوجيا المعرفية مجال متعدد التخصصات يجمع بين الإنسانيات الرقمية واللغويات والعلوم المعرفية لتحليل النصوص وتطور اللغة. تستخدم الأدوات الحسابية لمعالجة...

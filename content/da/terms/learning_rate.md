@@ -1,23 +1,24 @@
 ---
-title: "Læringsrate"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Læringsrate
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /da/terms/learning_rate/
-date: "2026-07-18T15:35:50.714349Z"
-lastmod: "2026-07-18T17:15:09.245921Z"
+slug: learning_rate
+date: '2026-07-18T15:35:50.714349Z'
+lastmod: '2026-07-18T17:15:09.245921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En hyperparameter, der styrer trinnet under modeloptimering for at minimere tabfunktionen."
+source: agnes_llm
+status: published
+language: da
+description: En hyperparameter, der styrer trinnet under modeloptimering for at minimere
+  tabfunktionen.
 ---
-
 ## Definition
 
 Læringsraten bestemmer, hvor meget modellens vægte opdateres i forhold til det beregnede gradient under hver træningsiteration. En rate, der er for høj, kan få modellen til at overskride optima, mens en rate, der er for lav, kan føre til langsom konvergens eller fastlåsthed i lokale minimum.

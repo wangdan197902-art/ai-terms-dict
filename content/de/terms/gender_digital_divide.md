@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /de/terms/gender_digital_divide/
 date: "2026-07-18T11:15:52.035293Z"
 lastmod: "2026-07-18T11:44:44.943427Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die digitale Kluft nach Geschlecht beschreibt die Diskrepanz zwischen Männern und Frauen beim Zugang zu, der Nutzung von und den Vorteilen aus Informations- und Kommunikationstechnologien."
 ---
-
 ## Definition
 
 Dieses soziotechnische Konzept hebt Ungleichheiten hervor, bei denen Frauen und Mädchen im Vergleich zu Männern und Jungen oft weniger Zugang zu digitalen Geräten, Internetverbindungen und digitalen Kompetenzen haben. Diese U

@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /it/terms/vehicle/
 date: "2026-07-18T15:30:55.384786Z"
 lastmod: "2026-07-18T17:15:08.577731Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Nel contesto dell'IA, un veicolo si riferisce spesso alla piattaforma o al mezzo attraverso il quale i modelli di IA sono distribuiti o consegnati agli utenti finali."
 ---
-
 ## Definition
 
 Sebbene tradizionalmente significhi trasporto, nella terminologia dell'IA, 'veicolo' può descrivere metaforicamente il meccanismo di consegna per servizi intelligenti, come app mobili, interfacce web o sistemi embedded.

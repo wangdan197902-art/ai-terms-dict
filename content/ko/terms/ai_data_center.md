@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /ko/terms/ai_data_center/
 date: "2026-07-18T15:38:34.745978Z"
 lastmod: "2026-07-18T16:38:06.803534Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 워크로드를 위한 고성능 컴퓨팅 인프라를 수용하고 운영하도록 설계된 특수 시설."
 ---
-
 ## Definition
 
 AI 데이터 센터는 특히 딥러닝 훈련 및 추론을 위해 인공지능 애플리케이션을 실행하도록 최적화된 물리적 시설입니다. 이러한 센터는 고밀도 서버 랙,

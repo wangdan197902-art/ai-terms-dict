@@ -7,8 +7,6 @@ tags: ["search", "ranking", "applications"]
 difficulty: 4
 weight: 1
 slug: "learning_to_rank"
-aliases:
-  - /fr/terms/learning_to_rank/
 date: "2026-07-18T11:25:28.598838Z"
 lastmod: "2026-07-18T11:44:45.284087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'apprentissage du classement est une technique d'apprentissage supervisé utilisée pour ordonner des éléments selon leur pertinence par rapport à une requête donnée, couramment utilisé dans les moteur"
 ---
-
 ## Definition
 
 Contrairement à la classification ou à la régression standard, l'apprentissage du classement se concentre sur la prédiction d'un ordre relatif des éléments. Il utilise des approches par paires, par liste ou ponctuelles pour minimiser les erreurs de classement comme le NDCG (Normalized Discounted Cumulative Gain).

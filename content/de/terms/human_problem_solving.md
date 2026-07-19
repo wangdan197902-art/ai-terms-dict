@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /de/terms/human_problem_solving/
 date: "2026-07-18T11:18:19.621551Z"
 lastmod: "2026-07-18T11:44:44.948848Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der kognitive Prozess, bei dem Individuen komplexe Probleme durch reasoning, Kreativität und Erfahrung identifizieren, analysieren und lösen."
 ---
-
 ## Definition
 
 Menschliches Problemlösen umfasst die vielschichtigen kognitiven Fähigkeiten, die Menschen einsetzen, um Herausforderungen zu bewältigen, von einfachen Aufgaben bis hin zu abstrakten konzeptionellen Schwierigkeiten. Im Gegensatz zu algorithmischen Ansätzen...

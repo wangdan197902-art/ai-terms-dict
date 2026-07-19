@@ -1,23 +1,24 @@
 ---
-title: "Verborgen laag"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Verborgen laag
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /nl/terms/hidden_layer/
-date: "2026-07-18T15:58:35.202666Z"
-lastmod: "2026-07-18T17:15:08.751768Z"
+slug: hidden_layer
+date: '2026-07-18T15:58:35.202666Z'
+lastmod: '2026-07-18T17:15:08.751768Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een tussenliggende laag in een neurale netwerk tussen de invoer- en uitvoerlagen die kenmerken verwerkt."
+source: agnes_llm
+status: published
+language: nl
+description: Een tussenliggende laag in een neurale netwerk tussen de invoer- en uitvoerlagen
+  die kenmerken verwerkt.
 ---
-
 ## Definition
 
 Een verborgen laag bestaat uit neuronen die invoer ontvangen van vorige lagen, gewichten en bias toepassen en getransformeerde gegevens doorgeven via een activatiefunctie. Deze lagen stellen neurale netwerken in staat complexe patronen en niet-lineaire relaties te leren.

@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /zh/terms/human_problem_solving/
 date: "2026-07-18T11:21:11.087610Z"
 lastmod: "2026-07-18T11:44:45.514373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "个人运用推理、创造力和经验来识别、分析和解决复杂问题的认知过程。"
 ---
-
 ## Definition
 
 人类问题解决涵盖了人类用来应对挑战的多方面认知能力，从简单任务到抽象的概念困难。与算法方法不同，人类...（原文截断，此处翻译现有部分）

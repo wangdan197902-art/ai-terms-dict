@@ -1,23 +1,24 @@
 ---
-title: "Perspectiva Linguagem/Ação"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Perspectiva Linguagem/Ação
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /pt/terms/languageaction_perspective/
-date: "2026-07-18T15:07:34.362161Z"
-lastmod: "2026-07-18T15:51:59.506399Z"
+slug: languageaction_perspective
+date: '2026-07-18T15:07:34.362161Z'
+lastmod: '2026-07-18T15:51:59.506399Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estrutura teórica que vê a linguagem primariamente como uma forma de ação social, e não apenas como um sistema para descrever a realidade."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estrutura teórica que vê a linguagem primariamente como uma forma
+  de ação social, e não apenas como um sistema para descrever a realidade.
 ---
-
 ## Definition
 
 Enraizada na teoria dos atos de fala e na pragmática, essa perspectiva enfatiza como as utterances (enunciados) desempenham funções como solicitar, prometer ou comandar. No Processamento de Linguagem Natural (PLN), isso informa o desenvolvimento de sistemas que entendem a intenção por trás do texto.

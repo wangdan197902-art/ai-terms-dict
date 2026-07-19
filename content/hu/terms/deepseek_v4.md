@@ -7,8 +7,6 @@ tags: ["scaling", "alignment", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v4"
-aliases:
-  - /hu/terms/deepseek_v4/
 date: "2026-07-18T15:56:04.140051Z"
 lastmod: "2026-07-18T17:15:09.774753Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A DeepSeek V4 a DeepSeek sorozat koncepcionális vagy következő generációs változata, amely további fejlődést jelent a modell méretezésében és a többmodális integrációban."
 ---
-
 ## Definition
 
 Korábbi verziók utódjaként a DeepSeek V4 a DeepSeek modellcsalád folyamatos evolúcióját implikálja, a fokozott skálázhatóságra és robusztusságra fókuszálva. Bár a konkrét nyilvános részletek változhatnak,

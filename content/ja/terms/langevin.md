@@ -7,8 +7,6 @@ tags: ["mathematics", "sampling"]
 difficulty: 4
 weight: 1
 slug: "langevin"
-aliases:
-  - /ja/terms/langevin/
 date: "2026-07-18T10:51:55.883983Z"
 lastmod: "2026-07-18T11:44:45.011841Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ランジュバンは、摩擦とノイズをシミュレートして確率分布からサンプリングするために使用される確率微分方程式、特にランジュバンダイナミクスを指します。"
 ---
-
 ## Definition
 
 ランジュバンダイナミクスは、エネルギーランドスケープを効率的に探索するためにランダムなノイズと減衰力を組み込みます。AIでは、主にハミルトニアンモンテカルロや確率的勾配

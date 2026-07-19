@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /no/terms/neural_scaling_law/
 date: "2026-07-18T16:09:07.960306Z"
 lastmod: "2026-07-18T16:38:07.028971Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Empiriske relasjoner som forutsier forbedringer i modellprestasjon basert på økning i data, parametere eller beregningskraft."
 ---
-
 ## Definition
 
 Skaleringslover for nevrale nettverk beskriver den forutsigbare potenslovsammenhengen mellom en modells prestasjon og dens skala, inkludert datasettstørrelse, antall parametere og beregningsbudsjett. Disse lovene tyder på at...

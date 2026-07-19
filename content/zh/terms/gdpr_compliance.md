@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /zh/terms/gdpr_compliance/
 date: "2026-07-18T11:17:53.013451Z"
 lastmod: "2026-07-18T11:44:45.503362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "遵守《通用数据保护条例》，确保AI系统尊重用户隐私和数据权利。"
 ---
-
 ## Definition
 
 GDPR合规性是指AI开发者必须实施的法律和技术措施，以保护欧盟境内个人的个人数据。对于AI系统而言，这涉及数据最小化、目的限制等原则，以及确保算法透明度和用户权利的实现。

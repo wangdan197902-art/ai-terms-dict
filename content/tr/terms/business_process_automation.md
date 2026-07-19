@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /tr/terms/business_process_automation/
 date: "2026-07-18T15:44:24.417305Z"
 lastmod: "2026-07-18T16:38:07.280593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Manuel çabanın değiştirilebildiği işlerde tekrarlayan görevleri veya süreçleri yürütmek için teknolojinin kullanılması."
 ---
-
 ## Definition
 
 İş Süreci Otomasyonu (BPA), karmaşık iş akışlarını iyileştirmek için yazılım ve yapay zekadan yararlanmayı içerir. Kural tabanlı görevleri yöneten basit RPA'dan farklı olarak, BPA genellikle daha dinamik ve karar gerektiren süreçleri kapsar.

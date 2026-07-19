@@ -7,8 +7,6 @@ tags: ["multimodal", "generation", "media"]
 difficulty: 4
 weight: 1
 slug: "text_to_video"
-aliases:
-  - /pl/terms/text_to_video/
 date: "2026-07-18T16:20:35.187991Z"
 lastmod: "2026-07-18T17:15:08.924173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Tekst do wideo to zdolność sztucznej inteligencji generująca klipy wideo na podstawie opisów tekstowych lub promptów."
 ---
-
 ## Definition
 
 Tekst do wideo odnosi się do modeli sztucznej inteligencji generatywnej, które tworzą dynamiczną treść wizualną na podstawie wejść w języku naturalnym. Systemy te analizują znaczenie semantyczne z promptów tekstowych, aby syntetyzować spójne sekwencje.

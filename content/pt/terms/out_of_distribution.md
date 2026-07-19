@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /pt/terms/out_of_distribution/
 date: "2026-07-18T14:42:17.477924Z"
 lastmod: "2026-07-18T15:51:59.445870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Pontos de dados que diferem significativamente da distribuição observada durante a fase de treinamento do modelo."
 ---
-
 ## Definition
 
 A detecção de dados fora da distribuição (OOD) identifica entradas que estão fora do escopo da distribuição dos dados de treinamento. Os modelos geralmente têm desempenho ruim ou cometem erros com confiança ao processar dados OOD, levando a resultados não confiáveis.

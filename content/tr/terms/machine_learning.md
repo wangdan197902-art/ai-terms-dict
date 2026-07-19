@@ -1,23 +1,23 @@
 ---
-title: "Makine Öğrenmesi"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Makine Öğrenmesi
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /tr/terms/machine_learning/
-date: "2026-07-18T15:26:38.010083Z"
-lastmod: "2026-07-18T16:38:07.237013Z"
+slug: machine_learning
+date: '2026-07-18T15:26:38.010083Z'
+lastmod: '2026-07-18T16:38:07.237013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Açık programlama olmadan performansını iyileştirmek üzere verilerden öğrenen sistemler oluşturmaya odaklanan yapay zekanın bir alt kümesidir."
+source: agnes_llm
+status: published
+language: tr
+description: Açık programlama olmadan performansını iyileştirmek üzere verilerden
+  öğrenen sistemler oluşturmaya odaklanan yapay zekanın bir alt kümesidir.
 ---
-
 ## Definition
 
 Makine Öğrenmesi (ML), bilgisayarların tarihsel verilerden kalıpları öğrenmesine ve yeni, daha önce görülmemiş veriler üzerinde kararlar vermesine veya tahminlerde bulunmasına olanak tanır. Gözetimli öğrenme, gözetimsiz öğrenme dahil olmak üzere çeşitli teknikleri kapsar

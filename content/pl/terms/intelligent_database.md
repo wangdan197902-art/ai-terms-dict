@@ -1,23 +1,24 @@
 ---
-title: "Inteligentna baza danych"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Inteligentna baza danych
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /pl/terms/intelligent_database/
-date: "2026-07-18T16:01:24.934580Z"
-lastmod: "2026-07-18T17:15:08.886810Z"
+slug: intelligent_database
+date: '2026-07-18T16:01:24.934580Z'
+lastmod: '2026-07-18T17:15:08.886810Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "System bazy danych incorporating capabilities AI do automatyzacji zarządzania danymi, optymalizacji zapytań i generowania wniosków."
+source: agnes_llm
+status: published
+language: pl
+description: System bazy danych incorporating capabilities AI do automatyzacji zarządzania
+  danymi, optymalizacji zapytań i generowania wniosków.
 ---
-
 ## Definition
 
 Inteligentna baza danych wykorzystuje uczenie maszynowe i AI do poprawy standardowych funkcjonalności baz danych wykraczających poza prostą przechowywanie i pobieranie. Może ona automatycznie optymalizować wydajność zapytań, przewidywać uż...

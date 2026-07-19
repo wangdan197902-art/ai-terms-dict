@@ -1,23 +1,25 @@
 ---
-title: "Meghajtású / Irányított"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Meghajtású / Irányított
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /hu/terms/driven/
-date: "2026-07-18T15:25:32.547472Z"
-lastmod: "2026-07-18T17:15:09.718425Z"
+slug: driven
+date: '2026-07-18T15:25:32.547472Z'
+lastmod: '2026-07-18T17:15:09.718425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A 'meghajtású' kifejezés olyan AI rendszereket vagy módszertanokat ír le, ahol a döntéshozatal vagy a modellarchitektúrát elsősorban egy specifikus bemeneti típus, például adatok vagy célok vezérlik."
+source: agnes_llm
+status: published
+language: hu
+description: A 'meghajtású' kifejezés olyan AI rendszereket vagy módszertanokat ír
+  le, ahol a döntéshozatal vagy a modellarchitektúrát elsősorban egy specifikus bemeneti
+  típus, például adatok vagy célok vezérlik.
 ---
-
 ## Definition
 
 A 'driven' (meghajtású) kifejezést gyakran utótagként használják annak jelzésére, hogy mi az AI megközelítés elsődleges mozgatórugója vagy mechanizmusa. Például a 'data-driven' (adatvezérelt) azt implikálja, hogy a döntések statisztikai mintázatok alapján születnek.

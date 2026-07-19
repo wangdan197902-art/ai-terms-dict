@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /es/terms/semi_supervised_learning/
 date: "2026-07-18T11:07:34.367383Z"
 lastmod: "2026-07-18T11:44:44.853048Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un enfoque de aprendizaje automático que aprovecha tanto datos etiquetados como no etiquetados para mejorar la precisión y generalización del modelo."
 ---
-
 ## Definition
 
 El aprendizaje semi-supervisado es un paradigma de entrenamiento híbrido que utiliza una pequeña cantidad de datos etiquetados junto con un gran volumen de datos no etiquetados. La suposición fundamental es que la estructura de los datos no etiquetados ayuda a guiar el aprendizaje.

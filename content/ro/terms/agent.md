@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /ro/terms/agent/
 date: "2026-07-18T15:22:28.007591Z"
 lastmod: "2026-07-18T17:15:09.586837Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un sistem de IA capabil să perceapă mediul, să raționeze și să întreprindă acțiuni pentru a atinge obiective specifice în mod autonom."
 ---
-
 ## Definition
 
 În IA, un agent este o entitate care acționează în numele unui utilizator sau al unui sistem pentru a îndeplini sarcini. Spre deosebire de modelele pasive care răspund doar la prompturi, agenții pot planifica, utiliza instrumente externe și itera asupra acțiunilor lor pentru a rezolva probleme complexe, adaptându-se dinamic la schimbările din mediu.

@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /nl/terms/relational_data_mining/
 date: "2026-07-18T16:15:24.534061Z"
 lastmod: "2026-07-18T17:15:08.783270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het ontdekken van patronen en kennis uit gegevens die bestaan uit meerdere onderling gerelateerde tabellen of entiteiten."
 ---
-
 ## Definition
 
 Relationele datamining richt zich op het extraheren van nuttige informatie uit databases waar gegevens zijn georganiseerd in meerdere gerelateerde tabellen, in plaats van één enkele platte tabel. Het maakt gebruik van de relaties tussen deze entiteiten.

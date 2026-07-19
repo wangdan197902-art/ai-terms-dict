@@ -1,23 +1,24 @@
 ---
-title: "Součin expertů"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Součin expertů
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /cs/terms/product_of_experts/
-date: "2026-07-18T16:13:38.662766Z"
-lastmod: "2026-07-18T17:15:09.191645Z"
+slug: product_of_experts
+date: '2026-07-18T16:13:38.662766Z'
+lastmod: '2026-07-18T17:15:09.191645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Rámec pravděpodobnostního modelování, kde společné rozdělení je tvořeno násobením výstupů několika nezávislých modelů expertů."
+source: agnes_llm
+status: published
+language: cs
+description: Rámec pravděpodobnostního modelování, kde společné rozdělení je tvořeno
+  násobením výstupů několika nezávislých modelů expertů.
 ---
-
 ## Definition
 
 Součin expertů (PoE) je metoda pro konstrukci složitých pravděpodobnostních rozdělení kombinováním jednodušších. Na rozdíl od 'Složky expertů', která pravděpodobnosti průměruje, PoE násobí pravděpodobnostní hustoty jednotlivých expertů, což umožňuje přísnější splnění omezení.

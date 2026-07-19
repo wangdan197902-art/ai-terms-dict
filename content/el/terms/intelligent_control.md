@@ -1,23 +1,24 @@
 ---
-title: "Έξυπνος Έλεγχος"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Έξυπνος Έλεγχος
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /el/terms/intelligent_control/
-date: "2026-07-18T16:15:12.632017Z"
-lastmod: "2026-07-18T17:15:09.921667Z"
+slug: intelligent_control
+date: '2026-07-18T16:15:12.632017Z'
+lastmod: '2026-07-18T17:15:09.921667Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Συστήματα ελέγχου που χρησιμοποιούν τεχνικές ΤΝ για τη διαχείριση σύνθετων, μη γραμμικών ή αβέβαιων δυναμικών διεργασιών."
+source: agnes_llm
+status: published
+language: el
+description: Συστήματα ελέγχου που χρησιμοποιούν τεχνικές ΤΝ για τη διαχείριση σύνθετων,
+  μη γραμμικών ή αβέβαιων δυναμικών διεργασιών.
 ---
-
 ## Definition
 
 Ο έξυπνος έλεγχος χρησιμοποιεί μεθόδους τεχνητής νοημοσύνης όπως η θολή λογική, τα νευρωνικά δίκτυα και οι γενετικοί αλγόριθμοι για τον ρυθμιστικό έλεγχο συστημάτων όπου η παραδοσιακή μαθηματική μοντελοποίηση είναι ανεπαρκής ή

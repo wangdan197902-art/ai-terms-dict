@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /no/terms/unlike/
 date: "2026-07-18T15:31:59.387115Z"
 lastmod: "2026-07-18T16:38:06.949927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En logisk operator brukt i SQL og programmering for å filtrere poster som ikke samsvarer med en spesifisert betingelse."
 ---
-
 ## Definition
 
 I databasespørringer og logikk refererer 'ULIKE' typisk til operatoren NOT LIKE, som utfører mønstergjenkjenning omvendt. Den returnerer sant for rader der kolonneverdien ikke passer inn i det spesifiserte mønsteret.

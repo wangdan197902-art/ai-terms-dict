@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /zh/terms/experiments/
 date: "2026-07-18T10:51:07.845952Z"
 lastmod: "2026-07-18T11:44:45.367767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "为测试假设、评估模型性能或发现新的人工智能能力而进行的受控程序。"
 ---
-
 ## Definition
 
 人工智能中的实验涉及对变量的系统性测试，以理解机器学习模型中的因果关系。这些程序使开发人员能够比较不同的超参数配置并评估模型性能。

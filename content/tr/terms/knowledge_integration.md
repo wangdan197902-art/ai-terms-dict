@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /tr/terms/knowledge_integration/
 date: "2026-07-18T15:59:38.698896Z"
 lastmod: "2026-07-18T16:38:07.324554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gelişmiş akıl yürütme için heterojen bilgi kaynaklarını birleşik ve tutarlı bir temsilde birleştirme sürecidir."
 ---
-
 ## Definition
 
 Bilgi entegrasyonu, veritabanları, ontolojiler ve yapılandırılmamış metinler gibi çeşitli kaynaklardan gelen verileri tutarlı bir şemada birleştirmeyi içerir. Anlamsal heterojenlik ve tutarsızlık sorunlarını ele alır.

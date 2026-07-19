@@ -1,23 +1,24 @@
 ---
-title: "Tenzor"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tenzor
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /pl/terms/tensor/
-date: "2026-07-18T16:20:05.759149Z"
-lastmod: "2026-07-18T17:15:08.923052Z"
+slug: tensor
+date: '2026-07-18T16:20:05.759149Z'
+lastmod: '2026-07-18T17:15:08.923052Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Wielowymiarowa tablica, która stanowi podstawową strukturę danych dla frameworków uczenia głębokiego."
+source: agnes_llm
+status: published
+language: pl
+description: Wielowymiarowa tablica, która stanowi podstawową strukturę danych dla
+  frameworków uczenia głębokiego.
 ---
-
 ## Definition
 
 W informatyce i uczeniu głębokim tenzor to obiekt matematyczny uogólniający skalary, wektory i macierze na wyższe wymiary. Charakteryzuje się jego rangą (liczbą wymiarów) oraz kształtem.

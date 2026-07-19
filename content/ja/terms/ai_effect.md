@@ -1,23 +1,23 @@
 ---
-title: "AI効果"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: AI効果
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /ja/terms/ai_effect/
-date: "2026-07-18T11:02:23.128252Z"
-lastmod: "2026-07-18T11:44:45.061022Z"
+slug: ai_effect
+date: '2026-07-18T11:02:23.128252Z'
+lastmod: '2026-07-18T11:44:45.061022Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "機械によって自動化されると、かつて知能を要すると考えられていたタスクが日常的な作業と見なされるようになる現象。"
+source: agnes_llm
+status: published
+language: ja
+description: 機械によって自動化されると、かつて知能を要すると考えられていたタスクが日常的な作業と見なされるようになる現象。
 ---
-
 ## Definition
 
 AI効果とは、「人工知能」とみなされる範囲の境界が変化していくことを指します。アルゴリズムが高度化し、特定のタスクを遂行できるようになると、それらのタスクはしばしば単なる自動化された作業として再定義されます。

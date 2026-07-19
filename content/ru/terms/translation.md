@@ -1,23 +1,24 @@
 ---
-title: "Перевод"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Перевод
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /ru/terms/translation/
-date: "2026-07-18T15:37:00.380982Z"
-lastmod: "2026-07-18T16:38:07.111514Z"
+slug: translation
+date: '2026-07-18T15:37:00.380982Z'
+lastmod: '2026-07-18T16:38:07.111514Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс преобразования текста с одного естественного языка на другой с сохранением смысла."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс преобразования текста с одного естественного языка на другой
+  с сохранением смысла.
 ---
-
 ## Definition
 
 Перевод в ИИ относится к нейронному машинному переводу, где модели глубокого обучения сопоставляют семантические представления между языками. В отличие от систем на основе правил, современные подходы изучают контекстуальные нюансы

@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /pt/terms/artificial_wisdom/
 date: "2026-07-18T14:50:21.522185Z"
 lastmod: "2026-07-18T15:51:59.464900Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A extensão da IA além da inteligência, incluindo julgamento, ética e compreensão contextual para uma tomada de decisão sólida."
 ---
-
 ## Definition
 
 A sabedoria artificial (SA) é um conceito emergente que busca complementar a inteligência artificial com valores humanos, considerações éticas e julgamento estratégico de longo prazo. Enquanto a IA foca na eficiência e precisão computacional, a SA visa integrar nuances morais e contexto social para decisões mais responsáveis e equilibradas.

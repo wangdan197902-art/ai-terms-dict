@@ -1,23 +1,24 @@
 ---
-title: "الاستدلال على الحافة"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: الاستدلال على الحافة
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /ar/terms/edge_inference/
-date: "2026-07-18T15:56:22.907929Z"
-lastmod: "2026-07-18T17:15:08.500150Z"
+slug: edge_inference
+date: '2026-07-18T15:56:22.907929Z'
+lastmod: '2026-07-18T17:15:08.500150Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الاستدلال على الحافة هو عملية تنفيذ نماذج التعلم الآلي محلياً على أجهزة المستخدم النهائي بدلاً من الخوادم السحابية المركزية."
+source: agnes_llm
+status: published
+language: ar
+description: الاستدلال على الحافة هو عملية تنفيذ نماذج التعلم الآلي محلياً على أجهزة
+  المستخدم النهائي بدلاً من الخوادم السحابية المركزية.
 ---
-
 ## Definition
 
 يتضمن هذا الممارسة نشر نماذج الذكاء الاصطناعي المدربة مباشرة على الأجهزة مثل الهواتف الذكية، أو مستشعرات إنترنت الأشياء، أو الأنظمة المدمجة. ومن خلال معالجة البيانات محلياً، يقلل الاستدلال على الحافة بشكل كبير من زمن الوصول (Latency)، مما يعزز الكفاءة والخصوصية.

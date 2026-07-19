@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /ja/terms/statistical_learning_theory/
 date: "2026-07-18T11:33:33.767198Z"
 lastmod: "2026-07-18T11:44:45.147543Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "機械学習アルゴリズムの汎化能力を分析し、その理論的基盤を提供する数学的枠組み。"
 ---
-
 ## Definition
 
 統計的学習理論（SLT）は、特定のアルゴリズムが有限のトレーニングサンプルから未見のデータへとどのように一般化できるかを研究する、統計学およびコンピュータサイエンスの一分野です。これは主に汎化誤差の上界を制限することに焦点を当てています。

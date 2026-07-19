@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /en/terms/tool_use/
 date: "2026-07-18T09:43:02.324562Z"
 lastmod: "2026-07-18T11:44:44.634294Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A paradigm where AI agents select and execute external functions or APIs to perform specific tasks beyond their native capabilities."
 ---
-
 ## Definition
 
 Tool Use enables language models to interact with external software environments by calling predefined functions, such as calculators, search engines, or database queries. This approach extends the model's utility by allowing it to access real-time data or perform precise computations that pure text generation cannot achieve. It transforms static models into dynamic agents capable of complex, multi-step problem-solving through structured interaction with third-party services.

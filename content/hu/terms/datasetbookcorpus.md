@@ -1,23 +1,24 @@
 ---
-title: "Adathalmaz: Bookcorpus"
-term_id: "datasetbookcorpus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "nlp", "text_data"]
+title: 'Adathalmaz: Bookcorpus'
+term_id: datasetbookcorpus
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- NLP
+- Text Data
 difficulty: 2
 weight: 1
-slug: "datasetbookcorpus"
-aliases:
-  - /hu/terms/datasetbookcorpus/
-date: "2026-07-18T15:53:09.344910Z"
-lastmod: "2026-07-18T17:15:09.768708Z"
+slug: datasetbookcorpus
+date: '2026-07-18T15:53:09.344910Z'
+lastmod: '2026-07-18T17:15:09.768708Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy nagy léptékű adathalmaz több mint 10 000 kiadatlan könyvből, széles körben használt a természetes nyelvfeldolgozási modellek előtanítására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy nagy léptékű adathalmaz több mint 10 000 kiadatlan könyvből, széles
+  körben használt a természetes nyelvfeldolgozási modellek előtanítására.
 ---
-
 ## Definition
 
 A BookCorpus több mint 10 000 kiadatlan könyv szövegeiből álló gyűjtemény, amelyet az internetről gyűjtöttek össze. Alapvető erőforrásként szolgál természetes nyelvfeldolgozási (NLP) modellek tanításához és értékeléséhez.

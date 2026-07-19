@@ -1,23 +1,25 @@
 ---
-title: "Hiyerarşik"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hiyerarşik
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /tr/terms/hierarchical/
-date: "2026-07-18T15:25:52.489829Z"
-lastmod: "2026-07-18T16:38:07.234556Z"
+slug: hierarchical
+date: '2026-07-18T15:25:52.489829Z'
+lastmod: '2026-07-18T16:38:07.234556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Üst düzeylerin alt düzeyleri kontrol ettiği çoklu soyutlama seviyelerine göre organize edilmiş yapay zeka mimarilerini veya öğrenme stratejilerini ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Üst düzeylerin alt düzeyleri kontrol ettiği çoklu soyutlama seviyelerine
+  göre organize edilmiş yapay zeka mimarilerini veya öğrenme stratejilerini ifade
+  eder.
 ---
-
 ## Definition
 
 Hiyerarşik yapay zeka sistemleri bilgiyi veya kontrolü iç içe katmanlardan oluşan ağaç benzeri bir yapıda düzenler. Pekiştirmeli Öğrenmede Hiyerarşik RL, karmaşık görevleri üst düzey yöneticiler tarafından yönetilen alt hedeflere ayırır...

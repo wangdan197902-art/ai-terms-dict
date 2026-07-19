@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /nl/terms/misinformation/
 date: "2026-07-18T16:07:12.898136Z"
 lastmod: "2026-07-18T17:15:08.767597Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Valse of onjuiste informatie die wordt verspreid, ongeacht de opzet om te misleiden."
 ---
-
 ## Definition
 
 Desinformatie verwijst naar valse of misleidende informatie die wordt gedeeld zonder de opzet om schade toe te brengen of te misleiden. Het verschilt van desinformatie (disinformation), die opzettelijk wordt verzonnen. In de context van AI

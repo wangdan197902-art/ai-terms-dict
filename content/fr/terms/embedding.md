@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /fr/terms/embedding/
 date: "2026-07-18T07:43:15.896478Z"
 lastmod: "2026-07-18T11:44:44.589091Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une technique qui mappe des objets discrets tels que les mots ou les images dans des espaces vectoriels continus."
 ---
-
 ## Definition
 
 Les embeddings sont des représentations vectorielles denses de données où les relations sémantiques sont préservées dans l'espace géométrique. En convertissant des entrées catégorielles ou de haute dimension en vecteurs de longueur fixe, le modèle...

@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /es/terms/argumentation_framework/
 date: "2026-07-18T10:35:34.518364Z"
 lastmod: "2026-07-18T11:44:44.776397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una estructura formal utilizada para modelar y resolver conflictos entre afirmaciones o decisiones competidoras en sistemas de IA."
 ---
-
 ## Definition
 
 Los marcos de argumentación proporcionan una base matemática para representar argumentos, ataques y defensas entre ellos. En la ingeniería de IA, ayudan a los sistemas a tomar decisiones transparentes y justificables ponderando diferentes perspectivas.

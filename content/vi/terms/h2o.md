@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /vi/terms/h2o/
-date: "2026-07-18T15:56:08.906921Z"
-lastmod: "2026-07-18T16:38:07.764143Z"
+slug: h2o
+date: '2026-07-18T15:56:08.906921Z'
+lastmod: '2026-07-18T16:38:07.764143Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Nền tảng máy học mã nguồn mở, phân tán, hỗ trợ nhiều thuật toán khác nhau cho phân tích dự đoán và học sâu."
+source: agnes_llm
+status: published
+language: vi
+description: Nền tảng máy học mã nguồn mở, phân tán, hỗ trợ nhiều thuật toán khác
+  nhau cho phân tích dự đoán và học sâu.
 ---
-
 ## Definition
 
 H2O là một nền tảng mã nguồn mở phổ biến, hoạt động trong bộ nhớ (in-memory), dùng cho máy học phân tán và có khả năng mở rộng cũng như phân tích dự đoán. Ban đầu được phát triển bởi hai nghiên cứu sinh tiến sĩ Harvard, H2O cung cấp một khung làm việc thống nhất cho cả học có giám sát và không giám sát, nổi bật với tính năng AutoML.

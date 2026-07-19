@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /da/terms/self_consistency/
 date: "2026-07-18T16:16:16.506559Z"
 lastmod: "2026-07-18T17:15:09.329584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Selvkonsistens er en decodningsstrategi, hvor flere ræsonnementsspor samples, og det mest hyppige svar vælges som det endelige output."
 ---
-
 ## Definition
 
 Denne teknik bruges primært sammen med Store Sprogmodeller (LLM'er) og forbedrer nøjagtigheden ved at generere flere forskellige svar til et prompt via sampling. I stedet for at stole på grådig decodning (greedy decoding), aggregere den de mest konsistente svar for at finde den mest sandsynlige løsning.

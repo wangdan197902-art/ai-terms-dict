@@ -1,23 +1,24 @@
 ---
-title: "Traducere"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Traducere
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /ro/terms/translation/
-date: "2026-07-18T15:38:48.571154Z"
-lastmod: "2026-07-18T17:15:09.620055Z"
+slug: translation
+date: '2026-07-18T15:38:48.571154Z'
+lastmod: '2026-07-18T17:15:09.620055Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de conversie a textului dintr-o limbă naturală sursă într-o limbă naturală țintă, păstrând sensul."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de conversie a textului dintr-o limbă naturală sursă într-o
+  limbă naturală țintă, păstrând sensul.
 ---
-
 ## Definition
 
 Traducerea în IA se referă la traducerea automată neuronală, unde modelele de învățare profundă mapează reprezentări semantice între limbi. Spre deosebire de sistemele bazate pe reguli, abordările moderne învață nuanțele contextuale

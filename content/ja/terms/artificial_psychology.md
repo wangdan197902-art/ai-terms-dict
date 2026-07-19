@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /ja/terms/artificial_psychology/
 date: "2026-07-18T11:04:34.622041Z"
 lastmod: "2026-07-18T11:44:45.069357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間の心理プロセスを模倣する認知アーキテクチャを持つAIシステムの設計方法を研究する分野。"
 ---
-
 ## Definition
 
 人工心理学は、AIシステムにおける認知アーキテクチャの設計と実装に焦点を当てた学際的な領域です。認知科学や心理学から知見を得て、人間の思考や行動モデルを構築し、より人間らしいAIの実現を目指します。

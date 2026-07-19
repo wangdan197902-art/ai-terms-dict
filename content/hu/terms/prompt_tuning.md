@@ -1,23 +1,24 @@
 ---
-title: "Prompt hangolás"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt hangolás
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /hu/terms/prompt_tuning/
-date: "2026-07-18T16:19:29.166847Z"
-lastmod: "2026-07-18T17:15:09.825260Z"
+slug: prompt_tuning
+date: '2026-07-18T16:19:29.166847Z'
+lastmod: '2026-07-18T17:15:09.825260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy paraméter-hatékony finomhangolási módszer, amely a folytonos bemeneti beágyazásokat optimalizálja, ahelyett, hogy frissítené az egész modell súlyait."
+source: agnes_llm
+status: published
+language: hu
+description: Egy paraméter-hatékony finomhangolási módszer, amely a folytonos bemeneti
+  beágyazásokat optimalizálja, ahelyett, hogy frissítené az egész modell súlyait.
 ---
-
 ## Definition
 
 A prompt hangolás egy előre tanult nyelvi modell bemeneti rétegéhez hozzáadott betanítható "puha" promptokat (folytonos vektorokat) használ, miközben az alapmodell paramétereit fagyasztva tartja. Ez a megközelítés lehetővé teszi a modellek adaptálását specifikus feladatokra minimális számítási erőforrás-igénnyel.

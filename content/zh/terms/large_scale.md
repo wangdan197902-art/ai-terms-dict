@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /zh/terms/large_scale/
 date: "2026-07-18T10:56:47.454441Z"
 lastmod: "2026-07-18T11:44:45.391906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "描述使用海量数据、参数或计算资源运行的 AI 系统或数据集。"
 ---
-
 ## Definition
 
 大规模指的是 AI 系统中组件的规模，通常涉及数十亿参数、太字节级的训练数据或分布式计算集群。这种方法构成了...

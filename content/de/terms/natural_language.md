@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /de/terms/natural_language/
 date: "2026-07-18T10:56:17.755734Z"
 lastmod: "2026-07-18T11:44:44.890176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Standardmethode der menschlichen Kommunikation, gekennzeichnet durch Grammatik, Wortschatz und Kontext, im Gegensatz zu formalen Computersprachen."
 ---
-
 ## Definition
 
 Natürliche Sprache bezeichnet die Art und Weise, wie Menschen sprechen und schreiben, einschließlich aller Mehrdeutigkeiten, Idiome und kulturellen Nuancen. In der KI umfasst die Verarbeitung natürlicher Sprache das Verständnis von Syntax, Semantik und Pragmatik.

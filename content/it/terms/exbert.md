@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /it/terms/exbert/
-date: "2026-07-18T15:58:57.465535Z"
-lastmod: "2026-07-18T17:15:08.624195Z"
+slug: exbert
+date: '2026-07-18T15:58:57.465535Z'
+lastmod: '2026-07-18T17:15:08.624195Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo per spiegare le previsioni di BERT identificando quali teste di attenzione e strati contribuiscono maggiormente a specifici output."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo per spiegare le previsioni di BERT identificando quali teste
+  di attenzione e strati contribuiscono maggiormente a specifici output.
 ---
-
 ## Definition
 
 ExBERT fornisce interpretabilità al modello transformer BERT analizzando l'importanza delle singole teste di attenzione attraverso diversi strati. Utilizza tecniche come l'attribuzione basata sui gradienti o...

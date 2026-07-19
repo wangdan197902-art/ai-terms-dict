@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /es/terms/hyperparameter/
 date: "2026-07-18T10:53:49.563987Z"
 lastmod: "2026-07-18T11:44:44.816690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una variable de configuración cuyo valor se establece antes del proceso de entrenamiento y gobierna el comportamiento del algoritmo de aprendizaje."
 ---
-
 ## Definition
 
 A diferencia de los parámetros del modelo (pesos y sesgos) que se aprenden a partir de los datos durante el entrenamiento, los hiperparámetros son configuraciones externas elegidas por el practicante antes de que comience el entrenamiento. Controlan la estruc

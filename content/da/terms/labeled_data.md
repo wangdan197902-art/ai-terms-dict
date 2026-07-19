@@ -1,23 +1,24 @@
 ---
-title: "Mærkede data"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Mærkede data
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /da/terms/labeled_data/
-date: "2026-07-18T16:04:07.969978Z"
-lastmod: "2026-07-18T17:15:09.303654Z"
+slug: labeled_data
+date: '2026-07-18T16:04:07.969978Z'
+lastmod: '2026-07-18T17:15:09.303654Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Data, hvor den korrekte output- eller målvalue er angivet sammen med inputfunktionerne."
+source: agnes_llm
+status: published
+language: da
+description: Data, hvor den korrekte output- eller målvalue er angivet sammen med
+  inputfunktionerne.
 ---
-
 ## Definition
 
 Mærkede data består af inputprøver parret med tilsvarende sandhedsværdier (ground truth), hvilket danner grundlaget for overvåget maskinlæring. Det giver algoritmerne mulighed for at lære mappningen mellem input og output.

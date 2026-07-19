@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /cs/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:52:09.649539Z"
 lastmod: "2026-07-18T17:15:09.119325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vysoce kvalitní sada dat lidských preferencí určená specificky pro trénování modelů odměn v rámci učení z lidské zpětné vazby (RLHF)."
 ---
-
 ## Definition
 
 Helpsteer2 je pečlivě vybraná sada dat uvolněná společností NVIDIA, která obsahuje párová srovnání odpovědí generovaných velkými jazykovými modely. Zaměřuje se na vícedimenzionální lidské preference, jako je užitečnost, upřímnost, přesnost, srozumitelnost a bezpečnost.

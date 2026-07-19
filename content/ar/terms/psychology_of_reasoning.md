@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /ar/terms/psychology_of_reasoning/
 date: "2026-07-18T16:17:32.953153Z"
 lastmod: "2026-07-18T17:15:08.540149Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "الدراسة متعددة التخصصات لكيفية تشكيل البشر للأحكام واتخاذ القرارات وحل المشكلات، مما يلهم معماريات الذكاء الاصطناعي المعرفية."
 ---
-
 ## Definition
 
 يفحص هذا المجال العمليات العقلية الكامنة وراء الاستنتاج والاستقراء والاستدلال الاستقرائي البشري. ويستكشف التحيزات، والاختصارات المعرفية، والهياكل المنطقية التي توجه التفكير البشري. في الذكاء الاصطناعي، توفر الرؤى

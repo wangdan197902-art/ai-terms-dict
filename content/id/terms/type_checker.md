@@ -1,23 +1,24 @@
 ---
-title: "Pemeriksa Tipe"
-term_id: "type_checker"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "debugging", "quality_assurance"]
+title: Pemeriksa Tipe
+term_id: type_checker
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- debugging
+- Quality Assurance
 difficulty: 2
 weight: 1
-slug: "type_checker"
-aliases:
-  - /id/terms/type_checker/
-date: "2026-07-18T16:12:17.633609Z"
-lastmod: "2026-07-18T16:38:07.516847Z"
+slug: type_checker
+date: '2026-07-18T16:12:17.633609Z'
+lastmod: '2026-07-18T16:38:07.516847Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pemeriksa tipe adalah alat analisis statis yang memverifikasi apakah tipe variabel dan ekspresi dalam kode sesuai dengan aturan sistem tipe bahasa pemrograman."
+source: agnes_llm
+status: published
+language: id
+description: Pemeriksa tipe adalah alat analisis statis yang memverifikasi apakah
+  tipe variabel dan ekspresi dalam kode sesuai dengan aturan sistem tipe bahasa pemrograman.
 ---
-
 ## Definition
 
 Dalam rekayasa perangkat lunak, khususnya untuk pustaka AI yang ditulis dalam Python, C++, atau Rust, pemeriksa tipe memastikan kebenaran kode dengan memvalidasi bahwa operasi dilakukan pada tipe data yang kompatibel. Ini membantu mencegah kesalahan runtime dan meningkatkan kualitas kode sebelum dieksekusi.

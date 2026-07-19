@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /fi/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:51:35.358028Z"
 lastmod: "2026-07-18T17:15:09.399527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tietojoukko, joka sisältää kysymys-vastaus-parit WikiAnswersista, ja jota käytetään mallien kouluttamiseen tarkoituksen ymmärtämiseen ja semanttiseen ekvivalenssiin."
 ---
-
 ## Definition
 
 Tämä tietojoukko sisältää miljoonia WikiAnswers-alustalta kaivettuja kysymys-vastaus-pareja. Sitä käytetään ensisijaisesti tiheän kappaleen noudon (dense passage retrieval) ja semanttisen vastaavuuden mallien kouluttamiseen. Hyödyntämällä

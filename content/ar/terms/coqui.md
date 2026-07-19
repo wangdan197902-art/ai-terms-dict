@@ -1,23 +1,24 @@
 ---
-title: "كوغّي (Coqui)"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: كوغّي (Coqui)
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /ar/terms/coqui/
-date: "2026-07-18T15:50:22.487648Z"
-lastmod: "2026-07-18T17:15:08.488320Z"
+slug: coqui
+date: '2026-07-18T15:50:22.487648Z'
+lastmod: '2026-07-18T17:15:08.488320Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كوغّي هي شركة تقنية صوت مفتوحة المصدر، معروفة بتطوير نماذج تحويل النص إلى كلام (TTS) عالية الجودة ومتعددة اللغات."
+source: agnes_llm
+status: published
+language: ar
+description: كوغّي هي شركة تقنية صوت مفتوحة المصدر، معروفة بتطوير نماذج تحويل النص
+  إلى كلام (TTS) عالية الجودة ومتعددة اللغات.
 ---
-
 ## Definition
 
 كانت كوغّي تكنولوجيز لاعباً بارزاً في مجتمع الذكاء الاصطناعي مفتوح المصدر، وأشهر ما عُرفت به محرك تحويل النص إلى كلام (TTS). وفّر المشروع نماذج مُدرَّبة مسبقاً قادرة على توليد كلام طبيعي المظهر والصوت.

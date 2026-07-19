@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /ro/terms/perception_error_model/
 date: "2026-07-18T16:15:42.206327Z"
 lastmod: "2026-07-18T17:15:09.690650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru statistic sau algoritmic utilizat pentru a cuantifica și corecta inexactitățile în interpretarea datelor senzoriale."
 ---
-
 ## Definition
 
 Un model de eroare de percepție descrie discrepanțele dintre datele senzoriale observate și adevărul fundamental (ground truth), luând în considerare zgomotul, occluziile sau limitările senzorilor. Prin modelarea acestor erori, sistemele de inteligență artificială pot îmbunătăți robustetea și acuratețea deciziilor lor.

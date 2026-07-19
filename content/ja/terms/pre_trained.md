@@ -1,23 +1,23 @@
 ---
-title: "事前学習済み"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: 事前学習済み
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /ja/terms/pre_trained/
-date: "2026-07-18T10:57:44.225585Z"
-lastmod: "2026-07-18T11:44:45.028684Z"
+slug: pre_trained
+date: '2026-07-18T10:57:44.225585Z'
+lastmod: '2026-07-18T11:44:45.028684Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "事前学習済みモデルとは、特定のタスクに適応させる前に、大規模なデータセットを用いて一般的な特徴を学習したニューラルネットワークです。"
+source: agnes_llm
+status: published
+language: ja
+description: 事前学習済みモデルとは、特定のタスクに適応させる前に、大規模なデータセットを用いて一般的な特徴を学習したニューラルネットワークです。
 ---
-
 ## Definition
 
 事前学習済みモデルは、WikipediaやImageNetのような大規模で多様なデータセットに対して広範なトレーニングを受けた基盤となるAIモデルです。この初期トレーニングにより、モデルは幅広い文脈やパターンを学習し、後の転移学習やファインチューニングの基礎となります。

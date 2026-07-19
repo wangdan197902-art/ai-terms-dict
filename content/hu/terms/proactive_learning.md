@@ -1,23 +1,25 @@
 ---
-title: "Proaktív tanulás"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Proaktív tanulás
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /hu/terms/proactive_learning/
-date: "2026-07-18T16:18:57.538356Z"
-lastmod: "2026-07-18T17:15:09.824114Z"
+slug: proactive_learning
+date: '2026-07-18T16:18:57.538356Z'
+lastmod: '2026-07-18T17:15:09.824114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy tanulási stratégia, ahol az ügynök aktívan választ tájékoztató jellegű adathalmazokat lekérdezéshez vagy felfedezéshez, ahelyett, hogy passzívan fogadná azokat."
+source: agnes_llm
+status: published
+language: hu
+description: Egy tanulási stratégia, ahol az ügynök aktívan választ tájékoztató jellegű
+  adathalmazokat lekérdezéshez vagy felfedezéshez, ahelyett, hogy passzívan fogadná
+  azokat.
 ---
-
 ## Definition
 
 A proaktív tanulásban az AI rendszer meghatározza, mely minták csökkentenék a legtöbbet a bizonytalanságot vagy javítanák a modell teljesítményét, gyakran aktív tanulási vagy felfedezési stratégiák révén. Ez ellentétben áll a passzív tanulással.

@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /pt/terms/flow/
 date: "2026-07-18T14:35:11.087576Z"
 lastmod: "2026-07-18T15:51:59.429856Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O fluxo de dados descreve o movimento e a transformação de informações através de várias etapas de um pipeline de processamento de IA."
 ---
-
 ## Definition
 
 O fluxo de dados abrange o caminho que os dados percorrem desde a ingestão até a saída final dentro de um sistema de IA, incluindo pré-processamento, extração de características, inferência do modelo e pós-processamento. O gerenciamento eficiente do fluxo de dados é crucial para o desempenho.

@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /id/terms/accelerated_linear_algebra/
 date: "2026-07-18T15:37:50.589712Z"
 lastmod: "2026-07-18T16:38:07.424881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Accelerated Linear Algebra melibatkan optimasi operasi matriks menggunakan akselerator perangkat keras seperti GPU dan TPU untuk kinerja tinggi."
 ---
-
 ## Definition
 
 Bidang ini berfokus pada mempercepat komputasi aljabar linier fundamental, yang merupakan inti dari pembelajaran mesin dan simulasi ilmiah. Dengan memanfaatkan kemampuan pemrosesan paralel dari GPU, TPU, dan akselerator khusus lainnya, perhitungan matriks skala besar dapat diselesaikan jauh lebih cepat.

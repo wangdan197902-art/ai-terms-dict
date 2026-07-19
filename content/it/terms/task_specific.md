@@ -1,23 +1,25 @@
 ---
-title: "specifico per il compito"
-term_id: "task_specific"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "optimization", "application"]
+title: specifico per il compito
+term_id: task_specific
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- Optimization
+- application
 difficulty: 2
 weight: 1
-slug: "task_specific"
-aliases:
-  - /it/terms/task_specific/
-date: "2026-07-18T15:34:02.267051Z"
-lastmod: "2026-07-18T17:15:08.582126Z"
+slug: task_specific
+date: '2026-07-18T15:34:02.267051Z'
+lastmod: '2026-07-18T17:15:08.582126Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "I modelli specifici per il compito sono sistemi di IA progettati e ottimizzati per eseguire una singola funzione ben definita piuttosto che per il ragionamento a uso generale."
+source: agnes_llm
+status: published
+language: it
+description: I modelli specifici per il compito sono sistemi di IA progettati e ottimizzati
+  per eseguire una singola funzione ben definita piuttosto che per il ragionamento
+  a uso generale.
 ---
-
 ## Definition
 
 Specifico per il compito si riferisce a modelli o componenti di IA adattati per eccellere in un insieme ristretto di obiettivi, come il rilevamento di oggetti nelle immagini o la traduzione di lingue. A differenza dei modelli di base a uso generale, questi sistemi offrono spesso prestazioni superiori e maggiore efficienza computazionale per la loro area di specializzazione, sacrificando la versatilità.

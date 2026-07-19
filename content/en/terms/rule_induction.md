@@ -1,23 +1,24 @@
 ---
-title: "Rule induction"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: Rule induction
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /en/terms/rule_induction/
-date: "2026-07-18T10:14:22.110949Z"
-lastmod: "2026-07-18T11:44:44.718436Z"
+slug: rule_induction
+date: '2026-07-18T10:14:22.110949Z'
+lastmod: '2026-07-18T11:44:44.718436Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A machine learning technique that automatically generates a set of logical rules from labeled training data to classify new instances."
+source: agnes_llm
+status: published
+language: en
+description: A machine learning technique that automatically generates a set of logical
+  rules from labeled training data to classify new instances.
 ---
-
 ## Definition
 
 Rule induction is a symbolic machine learning method that derives if-then rules directly from data. Unlike neural networks, which produce opaque weights, rule induction yields interpretable models consisting of explicit conditions and conclusions. Algorithms search for patterns that best separate classes, creating a decision list or set of rules. This approach is valued for its transparency and ease of understanding, making it suitable for domains requiring clear justification for decisions.

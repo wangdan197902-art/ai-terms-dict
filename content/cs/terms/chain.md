@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /cs/terms/chain/
 date: "2026-07-18T15:46:10.834377Z"
 lastmod: "2026-07-18T17:15:09.108929Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Řetězec je posloupnost propojených kroků nebo modulů, které zpracovávají data sekvenčně za účelem splnění složitého úkolu."
 ---
-
 ## Definition
 
 Ve vývoji aplikací umělé inteligence označuje řetězec lineární nebo směrovanou grafovou strukturu, ve které jsou propojeny více komponent, jako jsou volání velkých jazykových modelů (LLM), parsovače nebo externí nástroje. Data proudí z jedné komponenty do druhé.

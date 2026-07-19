@@ -1,23 +1,24 @@
 ---
-title: "Superviseret finjustering"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Superviseret finjustering
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /da/terms/supervised_fine_tuning/
-date: "2026-07-18T15:37:59.426731Z"
-lastmod: "2026-07-18T17:15:09.250455Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:37:59.426731Z'
+lastmod: '2026-07-18T17:15:09.250455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med yderligere træning af en fortræn model på et specifikt datasæt for at tilpasse den til en bestemt opgave eller domæne."
+source: agnes_llm
+status: published
+language: da
+description: Processen med yderligere træning af en fortræn model på et specifikt
+  datasæt for at tilpasse den til en bestemt opgave eller domæne.
 ---
-
 ## Definition
 
 Superviseret finjustering (SFT) indebærer at tage en stor fortræn model, f.eks. en sprogmodel, og fortsætte dens træning på et mindre, højkvalitets datasæt, der er mærket til en specifik downstream-opgave.

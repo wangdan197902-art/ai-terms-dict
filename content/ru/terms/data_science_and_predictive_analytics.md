@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /ru/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:47:16.543345Z"
 lastmod: "2026-07-18T16:38:07.137909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Эта область объединяет статистический анализ и машинное обучение для извлечения знаний из данных и прогнозирования будущих событий или поведения."
 ---
-
 ## Definition
 
 Наука о данных включает междисциплинарный процесс извлечения знаний из структурированных и неструктурированных данных, тогда как предиктивная аналитика конкретно сосредоточена на использовании исторических данных для прогнозирования

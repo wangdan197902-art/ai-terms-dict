@@ -1,23 +1,25 @@
 ---
-title: "Aprendizado Preguiçoso"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Aprendizado Preguiçoso
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /pt/terms/lazy_learning/
-date: "2026-07-18T15:07:53.605896Z"
-lastmod: "2026-07-18T15:51:59.506711Z"
+slug: lazy_learning
+date: '2026-07-18T15:07:53.605896Z'
+lastmod: '2026-07-18T15:51:59.506711Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma abordagem de aprendizado que adia a generalização até o momento da classificação, armazenando instâncias de treinamento em vez de construir um modelo explícito."
+source: agnes_llm
+status: published
+language: pt
+description: Uma abordagem de aprendizado que adia a generalização até o momento da
+  classificação, armazenando instâncias de treinamento em vez de construir um modelo
+  explícito.
 ---
-
 ## Definition
 
 Os aprendizes preguiçosos, como k-Vizinhos Mais Próximos (k-NN), memorizam todo o conjunto de dados de treinamento e realizam cálculos apenas ao fazer previsões. Isso contrasta com o aprendizado ansioso (eager learning), que constrói um modelo generalizado antes da inferência.

@@ -1,23 +1,24 @@
 ---
-title: "Intelligent styring"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Intelligent styring
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /no/terms/intelligent_control/
-date: "2026-07-18T16:00:37.698056Z"
-lastmod: "2026-07-18T16:38:07.013897Z"
+slug: intelligent_control
+date: '2026-07-18T16:00:37.698056Z'
+lastmod: '2026-07-18T16:38:07.013897Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Styringssystemer som bruker AI-teknikker for å håndtere komplekse, ikke-lineære eller usikre dynamiske prosesser."
+source: agnes_llm
+status: published
+language: 'no'
+description: Styringssystemer som bruker AI-teknikker for å håndtere komplekse, ikke-lineære
+  eller usikre dynamiske prosesser.
 ---
-
 ## Definition
 
 Intelligent styring bruker metoder for kunstig intelligens som usikker logikk, nevrale nettverk og genetiske algoritmer for å regulere systemer der tradisjonell matematisk modellering er utilstrekkelig eller

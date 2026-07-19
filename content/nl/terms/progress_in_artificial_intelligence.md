@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /nl/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:13:31.976828Z"
 lastmod: "2026-07-18T17:15:08.779157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De cumulatieve vooruitgang van AI-capaciteiten door onderzoek, ontwikkeling en implementatie van steeds geavanceerdere algoritmen en hardware."
 ---
-
 ## Definition
 
 Deze term omvat de historische en lopende evolutie van kunstmatige intelligentiesystemen, met mijlpalen van vroege symbolische logica tot modern deep learning. Het weerspiegelt verbeteringen in computationele schaalbaarheid en prestaties.

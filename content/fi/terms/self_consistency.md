@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /fi/terms/self_consistency/
 date: "2026-07-18T16:19:41.202010Z"
 lastmod: "2026-07-18T17:15:09.457830Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Itse konsistenssi on päästöstrategia, jossa useita päättelypolkuja otetaan näytteeksi ja yleisin vastaus valitaan lopulliseksi tulokseksi."
 ---
-
 ## Definition
 
 Tätä tekniikkaa käytetään ensisijaisesti suurissa kielimalleissa (LLM) tarkkuuden parantamiseksi luomalla useita monipuolisia vastauksia kehotteeseen otannan avulla. Sen sijaan, että se luottaisi ahneeseen päästämiseen, se aggregoi tulokset.

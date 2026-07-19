@@ -1,23 +1,25 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /ru/terms/facebook/
-date: "2026-07-18T15:53:10.347044Z"
-lastmod: "2026-07-18T16:38:07.156173Z"
+slug: facebook
+date: '2026-07-18T15:53:10.347044Z'
+lastmod: '2026-07-18T16:38:07.156173Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Крупнейшая платформа социальных сетей и технологическая компания, оказывающая значительное влияние на развитие ИИ благодаря своим открытым исследованиям и экосистемам больших данных."
+source: agnes_llm
+status: published
+language: ru
+description: Крупнейшая платформа социальных сетей и технологическая компания, оказывающая
+  значительное влияние на развитие ИИ благодаря своим открытым исследованиям и экосистемам
+  больших данных.
 ---
-
 ## Definition
 
 Facebook, ныне входящий в состав Meta Platforms Inc., является ведущей силой в области исследований и применения искусственного интеллекта. Компания располагает огромными объемами пользовательских данных, используемых для обучения моделей машинного обучения.

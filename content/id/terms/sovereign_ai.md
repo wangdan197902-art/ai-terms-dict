@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /id/terms/sovereign_ai/
 date: "2026-07-18T16:09:19.755417Z"
 lastmod: "2026-07-18T16:38:07.508381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan strategis di mana negara atau entitas mengembangkan dan mengendalikan infrastruktur serta model AI mereka sendiri untuk memastikan privasi data dan kemandirian regulasi."
 ---
-
 ## Definition
 
 AI Berdaulat menggambarkan kemampuan suatu negara atau organisasi untuk membangun, menerapkan, dan mengelola sistem kecerdasan buatan secara mandiri, tanpa bergantung pada penyedia cloud asing atau teknologi tertutup.

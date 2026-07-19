@@ -1,23 +1,26 @@
 ---
-title: "Hạ gradient ngẫu nhiên riêng tư vi phân"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Hạ gradient ngẫu nhiên riêng tư vi phân
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /vi/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:49:28.654979Z"
-lastmod: "2026-07-18T16:38:07.749144Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:49:28.654979Z'
+lastmod: '2026-07-18T16:38:07.749144Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thuật toán tối ưu hóa sửa đổi SGD tiêu chuẩn bằng cách cắt giảm gradient và thêm nhiễu để đảm bảo mô hình đã huấn luyện tuân thủ các ràng buộc riêng tư vi phân."
+source: agnes_llm
+status: published
+language: vi
+description: Một thuật toán tối ưu hóa sửa đổi SGD tiêu chuẩn bằng cách cắt giảm gradient
+  và thêm nhiễu để đảm bảo mô hình đã huấn luyện tuân thủ các ràng buộc riêng tư vi
+  phân.
 ---
-
 ## Definition
 
 DP-SGD là một biến thể của Stochastic Gradient Descent được thiết kế để bảo vệ quyền riêng tư của dữ liệu huấn luyện. Nó hoạt động bằng cách cắt giảm đóng góp gradient của từng mẫu để giới hạn độ nhạy, sau đó thêm nhiễu Gaussian.

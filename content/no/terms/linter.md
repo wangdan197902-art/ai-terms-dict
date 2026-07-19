@@ -1,23 +1,24 @@
 ---
-title: "Linter"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Linter
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /no/terms/linter/
-date: "2026-07-18T16:02:59.608258Z"
-lastmod: "2026-07-18T16:38:07.019566Z"
+slug: linter
+date: '2026-07-18T16:02:59.608258Z'
+lastmod: '2026-07-18T16:38:07.019566Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et statisk kodeanalysiverktøy brukt til å flagge programmeringsfeil, feil, stilistiske feil og mistenkelige konstruksjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et statisk kodeanalysiverktøy brukt til å flagge programmeringsfeil,
+  feil, stilistiske feil og mistenkelige konstruksjoner.
 ---
-
 ## Definition
 
 En linter er et verktøy som utfører statisk analyse på kildekode uten å kjøre den. Den sjekker for syntaksfeil, potensielle feil, kode-«smells» og avvik fra stilguider eller beste praksis.

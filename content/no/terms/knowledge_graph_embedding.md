@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /no/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:01:39.338852Z"
 lastmod: "2026-07-18T16:38:07.016183Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En teknikk som avbilder enheter og relasjoner i en kunnskapsgraf til kontinuerlige vektorrom mens strukturell semantikk bevares."
 ---
-
 ## Definition
 
 Metoder for kunnskapsgraf-innbinding, som TransE eller DistMult, transformerer diskrete grafstrukturer til tette vektorer med lav dimensjon. Dette lar maskinlæringsmodeller utføre matematiske operasjoner på grafen.

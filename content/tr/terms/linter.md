@@ -1,23 +1,24 @@
 ---
-title: "Linter (Kod Denetleyici)"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Linter (Kod Denetleyici)
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /tr/terms/linter/
-date: "2026-07-18T16:01:04.025871Z"
-lastmod: "2026-07-18T16:38:07.328157Z"
+slug: linter
+date: '2026-07-18T16:01:04.025871Z'
+lastmod: '2026-07-18T16:38:07.328157Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Programlama hatalarını, yazılım hatalarını, stil hatalarını ve şüpheli yapıları işaretlemek için kullanılan statik kod analiz aracı."
+source: agnes_llm
+status: published
+language: tr
+description: Programlama hatalarını, yazılım hatalarını, stil hatalarını ve şüpheli
+  yapıları işaretlemek için kullanılan statik kod analiz aracı.
 ---
-
 ## Definition
 
 Linter, kaynak kodu çalıştırmadan üzerinde statik analiz gerçekleştiren bir yardımcı programdır. Sözdizimi hatalarını, potansiyel hataları, kod kokularını ve stil kılavuzları veya en iyi uygulamalardan sapmaları kontrol eder.

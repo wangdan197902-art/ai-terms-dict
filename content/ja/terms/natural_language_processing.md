@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /ja/terms/natural_language_processing/
 date: "2026-07-18T10:53:00.476329Z"
 lastmod: "2026-07-18T11:44:45.014658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "コンピュータが人間の言語を理解し、解釈し、生成することを可能にすることに焦点を当てたAIの一分野。"
 ---
-
 ## Definition
 
 自然言語処理（NLP）は、人工知能の一分野であり、計算言語学と統計的、機械学習、深層学習モデルを組み合わせたものです。これにより、機械は人間のような言語を処理することが可能になります。

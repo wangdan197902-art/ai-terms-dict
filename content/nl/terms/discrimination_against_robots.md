@@ -1,23 +1,26 @@
 ---
-title: "Discriminatie tegen robots"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Discriminatie tegen robots
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /nl/terms/discrimination_against_robots/
-date: "2026-07-18T15:52:20.823202Z"
-lastmod: "2026-07-18T17:15:08.739289Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:52:20.823202Z'
+lastmod: '2026-07-18T17:15:08.739289Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het ethische en juridische concept dat verwijst naar bevooroordeelde behandeling of prejudice gericht tegen artificiële agenten of autonome systemen, vaak voortvloeiend uit antropomorfe projecties of "
+source: agnes_llm
+status: published
+language: nl
+description: 'Het ethische en juridische concept dat verwijst naar bevooroordeelde
+  behandeling of prejudice gericht tegen artificiële agenten of autonome systemen,
+  vaak voortvloeiend uit antropomorfe projecties of '
 ---
-
 ## Definition
 
 Discriminatie tegen robots is een opkomend ethisch en sociologisch concept dat onderzoekt hoe mensen kunstmatige agenten oneerlijk kunnen behandelen, wantrouwen of negatieve attributen kunnen toekennen op basis van hun niet-menselijke aard of gedrag.

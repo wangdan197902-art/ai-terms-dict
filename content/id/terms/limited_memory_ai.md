@@ -1,23 +1,25 @@
 ---
-title: "AI Memori Terbatas"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: AI Memori Terbatas
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /id/terms/limited_memory_ai/
-date: "2026-07-18T15:57:56.933582Z"
-lastmod: "2026-07-18T16:38:07.477444Z"
+slug: limited_memory_ai
+date: '2026-07-18T15:57:56.933582Z'
+lastmod: '2026-07-18T16:38:07.477444Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sistem AI yang mampu menyimpan data dan pengalaman masa lalu untuk menginformasikan keputusan masa depan, membentuk dasar sebagian besar aplikasi pembelajaran mesin modern."
+source: agnes_llm
+status: published
+language: id
+description: Sistem AI yang mampu menyimpan data dan pengalaman masa lalu untuk menginformasikan
+  keputusan masa depan, membentuk dasar sebagian besar aplikasi pembelajaran mesin
+  modern.
 ---
-
 ## Definition
 
 AI Memori Terbatas mewakili tingkat kedua kemampuan AI, di mana sistem dapat belajar dari data historis dan menyesuaikan perilakunya sesuai. Berbeda dengan mesin reaktif, sistem ini menyimpan informasi

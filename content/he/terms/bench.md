@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /he/terms/bench/
 date: "2026-07-18T15:23:29.140928Z"
 lastmod: "2026-07-18T17:15:09.473374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קיצור של Benchmark, ערכת מבחנים או מדד תקני המשמש להערכת ביצועי מודל בינה מלאכותית."
 ---
-
 ## Definition
 
 מדד תקן (Benchmark) משמש כנקודת ייחוס סטנדרטית להשוואת יכולותיהן של מערכות בינה מלאכותית או אלגוריתמים שונים. הוא בדרך כלל כולל ערכת נתונים מפוקחת ומדדי הערכה ספציפיים כמו...

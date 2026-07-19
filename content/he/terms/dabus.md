@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /he/terms/dabus/
 date: "2026-07-18T15:51:04.600958Z"
 lastmod: "2026-07-18T17:15:09.525142Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "דבוס הוא ראשי תיבות של Device for the Autonomous Bootstrapping of Unified Sentience, מערכת בינה מלאכותית שנוצרה על ידי סטיבן תאלר וטענה שהמציא טכנולוגיות באופן אוטונומי."
 ---
-
 ## Definition
 
 דבוס הוא רשת נוירונים מלאכותית ספציפית שתוכננה ליצור המצאות חדשות ללא התערבות אנושית ישירה. היא זכתה לתשומת לב משפטית ניכרת כאשר יוצרה, סטיבן תאלר, ניסה

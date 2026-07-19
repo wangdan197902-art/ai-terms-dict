@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /ko/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:17:04.126126Z"
 lastmod: "2026-07-18T16:38:06.911154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "스테이블 디퓨전 모델을 실행하고 파인튜닝하기 위한 표준화된 파이프라인을 제공하는 허깅 페이스(Hugging Face) 라이브러리."
 ---
-
 ## Definition
 
 디퓨저스(Diffusers) 라이브러리는 허깅 페이스에서 개발한 오픈소스 툴킷으로, 특히 스테이블 디퓨전과 같은 사전 학습된 디퓨전 모델의 사용을 단순화하도록 설계되었습니다. 모듈식 파이프라인을 제공하여 전처리, 추론, 후처리 등의 단계를 체계적으로 처리합니다.

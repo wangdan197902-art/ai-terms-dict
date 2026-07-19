@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /pt/terms/supervised/
 date: "2026-07-18T14:39:48.141769Z"
 lastmod: "2026-07-18T15:51:59.440098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um paradigma de aprendizado de máquina onde os modelos são treinados em pares de entrada-saída rotulados."
 ---
-
 ## Definition
 
 O aprendizado supervisionado envolve alimentar um algoritmo com dados que incluem tanto entradas quanto respostas corretas (rótulos). O modelo aprende a mapear entradas para saídas minimizando erros de previsão. Esta técni

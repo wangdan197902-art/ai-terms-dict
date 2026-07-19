@@ -1,23 +1,24 @@
 ---
-title: "Tích hợp IDE"
-term_id: "ide_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "productivity"]
+title: Tích hợp IDE
+term_id: ide_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- productivity
 difficulty: 2
 weight: 1
-slug: "ide_integration"
-aliases:
-  - /vi/terms/ide_integration/
-date: "2026-07-18T15:57:24.573800Z"
-lastmod: "2026-07-18T16:38:07.767842Z"
+slug: ide_integration
+date: '2026-07-18T15:57:24.573800Z'
+lastmod: '2026-07-18T16:38:07.767842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tích hợp IDE đề cập đến việc nhúng các công cụ hỗ trợ bởi AI trực tiếp vào Môi trường Phát triển Tích hợp để hỗ trợ lập trình viên trong các tác vụ mã hóa."
+source: agnes_llm
+status: published
+language: vi
+description: Tích hợp IDE đề cập đến việc nhúng các công cụ hỗ trợ bởi AI trực tiếp
+  vào Môi trường Phát triển Tích hợp để hỗ trợ lập trình viên trong các tác vụ mã
+  hóa.
 ---
-
 ## Definition
 
 Thực hành này liên quan đến việc kết nối các mô hình AI, chẳng hạn như Mô hình Ngôn ngữ Lớn (LLM), với các môi trường phát triển phần mềm như VS Code hoặc IntelliJ. Nó cho phép các tính năng như gợi ý mã thông minh, tự động hoàn thành và hỗ trợ viết code bằng ngôn ngữ tự nhiên.

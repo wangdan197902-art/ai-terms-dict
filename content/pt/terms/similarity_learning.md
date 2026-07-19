@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /pt/terms/similarity_learning/
 date: "2026-07-18T15:21:59.173474Z"
 lastmod: "2026-07-18T15:51:59.532412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma abordagem de aprendizado de máquina que aprende uma métrica de distância para determinar quão semelhantes ou dissimilares dois objetos são."
 ---
-
 ## Definition
 
 O aprendizado de similaridade foca no treinamento de modelos para mapear entradas em um espaço vetorial onde itens semelhantes estão próximos e itens dissimilares estão distantes. Técnicas como redes Siamesas ou perda de triplos (triplet loss) são comuns.

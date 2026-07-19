@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /th/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:51:15.443297Z"
 lastmod: "2026-07-18T16:38:07.600820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กรอบทางการสำหรับการให้เหตุผลเกี่ยวกับการเปลี่ยนแปลงสถานะความรู้ของตัวแทน (agents) ที่เกิดจากการอัปเดตข้อมูลหรือเหตุการณ์"
 ---
-
 ## Definition
 
 ตรรกะญาณวิทยาพลวัต (Dynamic Epistemic Logic หรือ DEL) ขยายขอบเขตของตรรกะโมดอล (modal logic) เพื่อจำลองวิวัฒนาการของความรู้เมื่อตัวแทนได้รับข้อมูลใหม่ มันให้เครื่องมือในการวิเคราะห์ระบบหลายตัวแทน (multi-agent systems) ที่ความเชื่อเปลี่ยนไปเนื่องจากข้อมูลสาธารณะหรือการสื่อสาร

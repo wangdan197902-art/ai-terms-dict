@@ -1,23 +1,25 @@
 ---
-title: "Lifelong Planning A*"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Lifelong Planning A*
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /pl/terms/lifelong_planning_a/
-date: "2026-07-18T16:03:57.818588Z"
-lastmod: "2026-07-18T17:15:08.891967Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:03:57.818588Z'
+lastmod: '2026-07-18T17:15:08.891967Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Algorytm wyszukiwania ścieżki inkrementalnej, który efektywnie aktualizuje najkrótsze ścieżki w dynamicznych grafach bez konieczności przeliczania ich od zera po zmianie wag krawędzi."
+source: agnes_llm
+status: published
+language: pl
+description: Algorytm wyszukiwania ścieżki inkrementalnej, który efektywnie aktualizuje
+  najkrótsze ścieżki w dynamicznych grafach bez konieczności przeliczania ich od zera
+  po zmianie wag krawędzi.
 ---
-
 ## Definition
 
 Lifelong Planning A* (LPA*) jest rozszerzeniem algorytmu wyszukiwania A*, zaprojektowanym dla środowisk, w których koszty zmieniają się w czasie. Zamiast restartować wyszukiwanie, LPA* utrzymuje kolejkę priorytetową i aktualizuje tylko te części drzewa wyszukiwania, które zostały zmienione, co znacznie przyspiesza proces.

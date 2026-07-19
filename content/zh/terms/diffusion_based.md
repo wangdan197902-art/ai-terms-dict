@@ -1,23 +1,23 @@
 ---
-title: "基于扩散的"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: 基于扩散的
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /zh/terms/diffusion_based/
-date: "2026-07-18T10:56:23.618178Z"
-lastmod: "2026-07-18T11:44:45.390229Z"
+slug: diffusion_based
+date: '2026-07-18T10:56:23.618178Z'
+lastmod: '2026-07-18T11:44:45.390229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种生成建模方法，通过学习去噪步骤逆转逐渐添加噪声的过程来创建数据。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种生成建模方法，通过学习去噪步骤逆转逐渐添加噪声的过程来创建数据。
 ---
-
 ## Definition
 
 基于扩散的模型是一类生成式AI，它们通过从随机分布中迭代去除噪声来创建新的数据样本。该过程始于一个前向阶段，即缓慢地向数据中添加高斯噪声，直到数据变为纯噪声；随后通过训练神经网络学习逆向过程，从而从噪声中恢复出有意义的结构。

@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /vi/terms/equalized_odds/
 date: "2026-07-18T15:51:58.377106Z"
 lastmod: "2026-07-18T16:38:07.754898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một chỉ số công bằng yêu cầu tỷ lệ dương tính thật và dương tính giả phải bằng nhau giữa các nhóm nhân khẩu học khác nhau."
 ---
-
 ## Definition
 
 Tỷ lệ cược bình đẳng là một ràng buộc về cân bằng thống kê được sử dụng trong công bằng thuật toán để đảm bảo mô hình hoạt động như nhau đối với tất cả các nhóm được bảo vệ. Cụ thể, nó đòi hỏi xác suất dự đoán đúng hoặc sai phải độc lập với thuộc tính nhạy cảm khi kết quả thực tế đã biết.

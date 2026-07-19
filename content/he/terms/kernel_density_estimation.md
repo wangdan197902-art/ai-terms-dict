@@ -1,23 +1,24 @@
 ---
-title: "הערכת צפיפות ליבה"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: הערכת צפיפות ליבה
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /he/terms/kernel_density_estimation/
-date: "2026-07-18T16:08:16.714430Z"
-lastmod: "2026-07-18T17:15:09.553355Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:08:16.714430Z'
+lastmod: '2026-07-18T17:15:09.553355Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטה לא פרמטרית המשמשת להערכת פונקציית צפיפות ההסתברות של משתנה מקרי בהתבסס על דגימת נתונים סופית."
+source: agnes_llm
+status: published
+language: he
+description: שיטה לא פרמטרית המשמשת להערכת פונקציית צפיפות ההסתברות של משתנה מקרי
+  בהתבסס על דגימת נתונים סופית.
 ---
-
 ## Definition
 
 הערכת צפיפות ליבה (KDE) היא טכניקה סטטיסטית יסודית החלקה נקודות נתונים בדידות ליצירת עקומת התפלגות הסתברותית רציפה. היא מניחה פונקציית ליבה (בדרך כלל גאוסית) סביב כל נקודת נתונים.

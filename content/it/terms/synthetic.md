@@ -1,23 +1,23 @@
 ---
-title: "Synthetic"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Synthetic
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /it/terms/synthetic/
-date: "2026-07-18T15:30:10.688454Z"
-lastmod: "2026-07-18T17:15:08.575645Z"
+slug: synthetic
+date: '2026-07-18T15:30:10.688454Z'
+lastmod: '2026-07-18T17:15:08.575645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Synthetic si riferisce a dati o contenuti generati artificialmente da algoritmi anziché raccolti da fonti naturali."
+source: agnes_llm
+status: published
+language: it
+description: Synthetic si riferisce a dati o contenuti generati artificialmente da
+  algoritmi anziché raccolti da fonti naturali.
 ---
-
 ## Definition
 
 Nell'IA, i dati sintetici sono informazioni generate artificialmente che imitano i dati del mondo reale ma non contengono record personali o sensibili effettivi. Sono fondamentali per addestrare modelli di apprendimento automatico quando i dati reali

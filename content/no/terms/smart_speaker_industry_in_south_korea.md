@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /no/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:16:18.378524Z"
 lastmod: "2026-07-18T16:38:07.047468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Markedsekosystemet som involverer maskinvareprodusenter og AI-tjenesteleverandører som tilbyr stemmestyrt utstyr innenfor Sør-Korea."
 ---
-
 ## Definition
 
 Dette begrepet refererer til de spesifikke regionale markedsdynamikkene rundt smarte høyttalere i Sør-Korea, preget av høy smarttelefongjennomtrengning og avansert bredbåndsinfrastruktur. Det involverer hovedsakelig...

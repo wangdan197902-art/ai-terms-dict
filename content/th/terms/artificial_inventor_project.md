@@ -1,23 +1,23 @@
 ---
-title: "โครงการผู้ประดิษฐ์เทียม"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: โครงการผู้ประดิษฐ์เทียม
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /th/terms/artificial_inventor_project/
-date: "2026-07-18T15:42:16.796925Z"
-lastmod: "2026-07-18T16:38:07.573631Z"
+slug: artificial_inventor_project
+date: '2026-07-18T15:42:16.796925Z'
+lastmod: '2026-07-18T16:38:07.573631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โครงการวิจัยที่มุ่งเน้นการพัฒนาแบบจำลองการคำนวณสำหรับกระบวนการแก้ปัญหาและการประดิษฐ์คิดค้นที่มีลักษณะคล้ายมนุษย์"
+source: agnes_llm
+status: published
+language: th
+description: โครงการวิจัยที่มุ่งเน้นการพัฒนาแบบจำลองการคำนวณสำหรับกระบวนการแก้ปัญหาและการประดิษฐ์คิดค้นที่มีลักษณะคล้ายมนุษย์
 ---
-
 ## Definition
 
 โครงการผู้ประดิษฐ์เทียม (Artificial Inventor Project) เป็นความพยายามวิจัยข้ามสาขาวิชาที่มีเป้าหมายเพื่อทำความเข้าใจและจำลองกลไกทางปัญญาที่อยู่เบื้องหลังความคิดสร้างสรรค์และการประดิษฐ์คิดค้นของมนุษย์ โครงการนี้มุ่งสร้างระบบปัญญาประดิษฐ์ที่สามารถเลียนแบบกระบวนการคิดเชิงสร้างสรรค์ของมนุษย์ได้

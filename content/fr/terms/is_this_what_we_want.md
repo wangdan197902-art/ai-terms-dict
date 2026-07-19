@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /fr/terms/is_this_what_we_want/
 date: "2026-07-18T11:24:04.141085Z"
 lastmod: "2026-07-18T11:44:45.279162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre éthique critique utilisé pour évaluer les systèmes d'IA par rapport aux valeurs sociétales, à l'équité et aux conséquences potentiellement néfastes."
 ---
-
 ## Definition
 
 Cette phrase représente une question pivot en éthique et gouvernance de l'IA, incitant les parties prenantes à évaluer si les technologies déployées sont alignées avec les valeurs humaines et l'intérêt public. Elle implique un examen rigoureux des impacts sociaux, des biais potentiels et des implications morales à long terme de l'automatisation.

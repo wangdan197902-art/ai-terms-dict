@@ -1,23 +1,25 @@
 ---
-title: "Viziune computerizată"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: Viziune computerizată
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /ro/terms/computer_vision/
-date: "2026-07-18T15:22:54.977559Z"
-lastmod: "2026-07-18T17:15:09.587657Z"
+slug: computer_vision
+date: '2026-07-18T15:22:54.977559Z'
+lastmod: '2026-07-18T17:15:09.587657Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un domeniu al inteligenței artificiale care permite calculatoarelor să extragă informații semnificative din imagini digitale, videoclipuri și alte intrări vizuale."
+source: agnes_llm
+status: published
+language: ro
+description: Un domeniu al inteligenței artificiale care permite calculatoarelor să
+  extragă informații semnificative din imagini digitale, videoclipuri și alte intrări
+  vizuale.
 ---
-
 ## Definition
 
 Viziunea computerizată se concentrează pe replicarea capacităților vizuale umane prin procese computaționale. Implică analizarea și interpretarea datelor vizuale pentru a identifica obiecte, a recunoaște tipare și a înțelege scene complexe.

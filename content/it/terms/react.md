@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /it/terms/react/
 date: "2026-07-18T15:37:31.194395Z"
 lastmod: "2026-07-18T17:15:08.589234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "ReAct è un paradigma di prompting che combina ragionamento e azione per migliorare le prestazioni dei modelli linguistici di grandi dimensioni (LLM) su compiti complessi."
 ---
-
 ## Definition
 
 Il framework ReAct consente ai LLM di generare tracce di ragionamento e azioni specifiche per il compito in modo alternato. Simulando processi di pensiero simili a quelli umani, permette ai modelli di interagire con l'ambiente esterno e integrare le osservazioni per prendere decisioni migliori.

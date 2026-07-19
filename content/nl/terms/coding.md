@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /nl/terms/coding/
 date: "2026-07-18T15:46:32.993565Z"
 lastmod: "2026-07-18T17:15:08.725811Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Coderen is het proces van het schrijven van instructies voor computers met behulp van programmeertalen om software, applicaties of scripts te maken."
 ---
-
 ## Definition
 
 Coderen, ook wel programmeren genoemd, houdt in dat menselijke logica en vereisten worden vertaald naar een formaat dat computers kunnen uitvoeren. Het maakt gebruik van specifieke syntaxis en semantiek die zijn gedefinieerd door programmeertalen.

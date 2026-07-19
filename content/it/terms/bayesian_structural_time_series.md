@@ -1,23 +1,24 @@
 ---
-title: "Serie temporali strutturali bayesiane"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Serie temporali strutturali bayesiane
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /it/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:50:04.233136Z"
-lastmod: "2026-07-18T17:15:08.603230Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:50:04.233136Z'
+lastmod: '2026-07-18T17:15:08.603230Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un approccio di modellazione statistica che utilizza l'inferenza bayesiana per scomporre le serie temporali in componenti interpretabili."
+source: agnes_llm
+status: published
+language: it
+description: Un approccio di modellazione statistica che utilizza l'inferenza bayesiana
+  per scomporre le serie temporali in componenti interpretabili.
 ---
-
 ## Definition
 
 I modelli di serie temporali strutturali bayesiane (BSTS) rappresentano i dati delle serie temporali come somma di componenti interpretabili, come tendenza, stagionalità ed effetti di regressione, tenendo conto dell'incertezza attraverso distribuzioni posteriori. Questo approccio permette di isolare l'impatto di specifici interventi o variabili esogene, offrendo una stima probabilistica delle componenti sottostanti.

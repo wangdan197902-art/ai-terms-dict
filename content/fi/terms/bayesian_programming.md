@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /fi/terms/bayesian_programming/
 date: "2026-07-18T15:45:35.304555Z"
 lastmod: "2026-07-18T17:15:09.388058Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Formaali viitekehote todennäköisyyspäättelyyn, joka laajentaa Bayesin päättelyä monimutkaisiin, hierarkkisiin malleihin."
 ---
-
 ## Definition
 
 Bayesin ohjelmointi on matemaattinen viitekehote, joka yleistää Bayesin teoreeman käsittelemään monimutkaisia, monitasoisia todennäköisyyksien riippuvuussuhteita. Se mahdollistaa kehittäjille hierarkkisten mallien määrittelyn, joissa todennäköisyydet ja epävarmuus otetaan huomioon rakenteellisella tavalla.

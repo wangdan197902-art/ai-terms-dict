@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /it/terms/evolving/
 date: "2026-07-18T15:24:53.501980Z"
 lastmod: "2026-07-18T17:15:08.565124Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Descrive sistemi o algoritmi di IA che si adattano e migliorano continuamente nel tempo grazie a nuovi dati o feedback."
 ---
-
 ## Definition
 
 Il termine 'evolving' caratterizza i modelli di IA dinamici che subiscono un apprendimento e un adattamento continui anziché rimanere statici dopo l'addestramento iniziale. Questo concetto è centrale nell'apprendimento permanente...

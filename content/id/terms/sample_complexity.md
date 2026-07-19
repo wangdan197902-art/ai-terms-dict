@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /id/terms/sample_complexity/
 date: "2026-07-18T16:08:09.856918Z"
 lastmod: "2026-07-18T16:38:07.504780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kompleksitas sampel mengacu pada jumlah contoh pelatihan yang diperlukan oleh algoritma pembelajaran mesin untuk mencapai tingkat kinerja tertentu dengan probabilitas tinggi."
 ---
-
 ## Definition
 
 Dalam teori pembelajaran komputasi, kompleksitas sampel mengukur jumlah data yang dibutuhkan untuk melatih model secara efektif. Konsep ini menyeimbangkan pertukaran antara kapasitas model dan ketersediaan data, memastikan generalisasi yang baik.

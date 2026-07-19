@@ -1,23 +1,24 @@
 ---
-title: "Formel begrebsanalyse"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: Formel begrebsanalyse
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /da/terms/formal_concept_analysis/
-date: "2026-07-18T15:56:21.939387Z"
-lastmod: "2026-07-18T17:15:09.289840Z"
+slug: formal_concept_analysis
+date: '2026-07-18T15:56:21.939387Z'
+lastmod: '2026-07-18T17:15:09.289840Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Formel begrebsanalyse (FCA) er en matematisk metode til at udlede begrebshierarkier fra data ved hjælp af formelle kontekster og begrebsgitter."
+source: agnes_llm
+status: published
+language: da
+description: Formel begrebsanalyse (FCA) er en matematisk metode til at udlede begrebshierarkier
+  fra data ved hjælp af formelle kontekster og begrebsgitter.
 ---
-
 ## Definition
 
 FCA giver en streng ramme til at analysere relationer mellem objekter og deres attributter, hvilket resulterer i en hierarkisk struktur kendt som et begrebsgitter. Det bruges bredt inden for vidensindsamling og -organisering

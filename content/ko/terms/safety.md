@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /ko/terms/safety/
 date: "2026-07-18T15:28:38.217041Z"
 lastmod: "2026-07-18T16:38:06.783253Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템이 물리적, 디지털 또는 사회적 해를 끼치지 않도록 보장하는 연구 및 실천 분야입니다."
 ---
-
 ## Definition
 
 AI 안전성(AI Safety)은 고급 인공지능으로 인한 악영향을 방지하는 데 중점을 둔 다학제적 분야입니다. 여기에는 정렬(Alignment), 해석 가능성, 견고함 등 기술적 과제와 규제 프레임워크 개발이 포함됩니다.

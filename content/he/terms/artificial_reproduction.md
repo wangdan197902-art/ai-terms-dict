@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /he/terms/artificial_reproduction/
 date: "2026-07-18T15:43:02.987420Z"
 lastmod: "2026-07-18T17:15:09.514172Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "שימוש בביוטכנולוגיה ובבינה מלאכותית כדי לסייע או לשכפל תהליכים רבייה ביולוגיים, לרוב ברפואה או בחקלאות."
 ---
-
 ## Definition
 
 רבייה מלאכותית כוללת טכניקות המפיקות או משכפלות רבייה ביולוגית ללא יחסי מין ישירים, תוך שימוש נרחב בטכנולוגיה ובעלייה מתמדת בשימוש בבינה מלאכותית לאופטימיזציה

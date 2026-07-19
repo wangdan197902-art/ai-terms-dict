@@ -1,23 +1,24 @@
 ---
-title: "afinado / ajustado finamente"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: afinado / ajustado finamente
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /es/terms/fine_tuned/
-date: "2026-07-18T10:28:03.045200Z"
-lastmod: "2026-07-18T11:44:44.756237Z"
+slug: fine_tuned
+date: '2026-07-18T10:28:03.045200Z'
+lastmod: '2026-07-18T11:44:44.756237Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de entrenar adicionalmente un modelo preentrenado en un conjunto de datos específico para adaptarlo a una tarea particular."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de entrenar adicionalmente un modelo preentrenado en un conjunto
+  de datos específico para adaptarlo a una tarea particular.
 ---
-
 ## Definition
 
 El afinado (fine-tuning) implica tomar un modelo que ya ha sido entrenado en un gran conjunto de datos general y continuar su entrenamiento en un conjunto de datos más pequeño y específico de la tarea. Esta técnica aprovecha las características generales aprendidas previamente, permitiendo una adaptación rápida y eficiente con menos datos y tiempo de cómputo comparado con el entrenamiento desde cero.

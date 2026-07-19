@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /ja/terms/artificial_intelligence_controversies/
 date: "2026-07-18T11:04:27.071291Z"
 lastmod: "2026-07-18T11:44:45.068618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIの開発と導入に伴う倫理的、社会的、技術的な影響を巡る公的な議論や意見の相違。"
 ---
-
 ## Definition
 
 AIの論争には、人工知能技術から生じる多様な倫理的、法的、社会的な紛争が含まれます。主な問題点としては、アルゴリズムによるバイアス、プライバシー侵害、雇用への影響などが挙げられます。

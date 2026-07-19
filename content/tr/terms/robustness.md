@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /tr/terms/robustness/
 date: "2026-07-18T16:12:23.112724Z"
 lastmod: "2026-07-18T16:38:07.361139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir AI modelinin gürültülü veri, düşmanca saldırılar veya dağılım kaymalarıyla karşılaştığında performansı ve istikrarını koruma yeteneği."
 ---
-
 ## Definition
 
 AI güvenliği ve etiğinde sağlamlık, beklenmedik girdilere veya kötü niyetli manipülasyonlara karşı modelin direncini ifade eder. Sağlam bir sistem, girdi verileri bozulmuş olsa bile doğru şekilde çalışmaya devam eder.

@@ -1,23 +1,24 @@
 ---
-title: "Anomali Tespiti"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Anomali Tespiti
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /tr/terms/anomaly_detection/
-date: "2026-07-18T15:40:37.338313Z"
-lastmod: "2026-07-18T16:38:07.272376Z"
+slug: anomaly_detection
+date: '2026-07-18T15:40:37.338313Z'
+lastmod: '2026-07-18T16:38:07.272376Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Verinin büyük çoğunluğundan önemli ölçüde sapayan nadir öğeleri, olayları veya gözlemleri belirleme süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Verinin büyük çoğunluğundan önemli ölçüde sapayan nadir öğeleri, olayları
+  veya gözlemleri belirleme süreci.
 ---
-
 ## Definition
 
 Aykırı değer tespiti olarak da bilinen anomali tespiti, beklenen davranışa uymayan kalıpları bulmak için verileri analiz etmeyi içerir. Siber güvenlik, dolandırıcılık tespiti ve sistem izleme gibi alanlarda yaygın olarak kullanılır.

@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /pl/terms/fine_tuning/
 date: "2026-07-18T15:23:05.011711Z"
 lastmod: "2026-07-18T17:15:08.806155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces dostosowania modelu wcześniej wytrenowanego do konkretnego zadania przy użyciu mniejszego zbioru danych."
 ---
-
 ## Definition
 
 Dostrojenie polega na wznowieniu treningu modelu, który został już wytrenowany na dużym, ogólnym zbiorze danych, na specjalistycznym zbiorze danych. Pozwala to modelowi zachować ogólną wiedzę, jednocześnie przyswajając wiedzę...

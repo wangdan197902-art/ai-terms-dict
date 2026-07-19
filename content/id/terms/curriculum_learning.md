@@ -1,23 +1,23 @@
 ---
-title: "Pembelajaran Kurikulum"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Pembelajaran Kurikulum
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /id/terms/curriculum_learning/
-date: "2026-07-18T16:14:07.303142Z"
-lastmod: "2026-07-18T16:38:07.521038Z"
+slug: curriculum_learning
+date: '2026-07-18T16:14:07.303142Z'
+lastmod: '2026-07-18T16:38:07.521038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Strategi pelatihan di mana model belajar dari contoh yang mudah terlebih dahulu sebelum beralih ke contoh yang lebih sulit."
+source: agnes_llm
+status: published
+language: id
+description: Strategi pelatihan di mana model belajar dari contoh yang mudah terlebih
+  dahulu sebelum beralih ke contoh yang lebih sulit.
 ---
-
 ## Definition
 
 Pembelajaran kurikulum meniru pendidikan manusia dengan menyajikan data pelatihan dalam urutan terstruktur, biasanya dimulai dengan sampel sederhana dan secara bertahap meningkatkan kompleksitasnya. Pendekatan ini membantu jaringan saraf mencapai konvergensi yang lebih cepat dan generalisasi yang lebih baik dengan memandu proses pembelajaran melalui tingkat kesulitan yang meningkat.

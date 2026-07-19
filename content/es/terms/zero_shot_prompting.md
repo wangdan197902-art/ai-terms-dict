@@ -7,8 +7,6 @@ tags: ["Prompting", "LLM Applications", "NLP"]
 difficulty: 2
 weight: 1
 slug: "zero_shot_prompting"
-aliases:
-  - /es/terms/zero_shot_prompting/
 date: "2026-07-18T11:13:53.754891Z"
 lastmod: "2026-07-18T11:44:44.867217Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una técnica donde los modelos de lenguaje grandes realizan tareas sin ejemplos previos ni ajuste fino, basándose únicamente en instrucciones en lenguaje natural."
 ---
-
 ## Definition
 
 La inducción cero implica solicitar a un modelo de lenguaje preentrenado que complete una tarea directamente mediante un mensaje textual, sin proporcionar ejemplos previos ni realizar un ajuste fino adicional. El mod

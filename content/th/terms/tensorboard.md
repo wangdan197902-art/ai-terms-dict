@@ -7,8 +7,6 @@ tags: ["tensorflow", "tools", "visualization"]
 difficulty: 2
 weight: 1
 slug: "tensorboard"
-aliases:
-  - /th/terms/tensorboard/
 date: "2026-07-18T16:17:33.203130Z"
 lastmod: "2026-07-18T16:38:07.660803Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดเครื่องมือแสดงภาพสำหรับติดตามการทดลองแมชชีนเลิร์นนิงและแก้ไขข้อบกพร่องของประสิทธิภาพโมเดล"
 ---
-
 ## Definition
 
 TensorBoard เป็นชุดเว็บแอปพลิเคชันสำหรับตรวจสอบและทำความเข้าใจการรันกราฟของ TensorFlow ให้เครื่องมือสำหรับการแสดงภาพเมตริกเช่น ความสูญเสีย (loss) และความแม่นยำ (accuracy) ตามเวลา และการดูโครงสร้างกราฟโมเดล

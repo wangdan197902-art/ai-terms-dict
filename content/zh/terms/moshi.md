@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /zh/terms/moshi/
 date: "2026-07-18T11:26:37.042816Z"
 lastmod: "2026-07-18T11:44:45.533880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由 Kyutai 开发的语音语言模型，共同学习文本和音频表示，以实现无缝的多模态交互。"
 ---
-
 ## Definition
 
 Moshi 是由 Kyutai 创建的高级 AI 模型，它将语音和文本处理整合到一个统一的框架中。与传统系统在处理后转换语音为文本的系统不同，Moshi 学习联合表示。

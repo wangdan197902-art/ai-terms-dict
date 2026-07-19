@@ -1,23 +1,23 @@
 ---
-title: "과적합"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: 과적합
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /ko/terms/overfitting/
-date: "2026-07-18T15:35:37.491221Z"
-lastmod: "2026-07-18T16:38:06.798220Z"
+slug: overfitting
+date: '2026-07-18T15:35:37.491221Z'
+lastmod: '2026-07-18T16:38:06.798220Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "기계 학습 알고리즘이 근본적인 신호(noise가 아닌 실제 패턴) 대신 노이즈를 포착하여 일반화 성능을 저해하는 모델링 오류."
+source: agnes_llm
+status: published
+language: ko
+description: 기계 학습 알고리즘이 근본적인 신호(noise가 아닌 실제 패턴) 대신 노이즈를 포착하여 일반화 성능을 저해하는 모델링 오류.
 ---
-
 ## Definition
 
 과적합은 모델이 훈련 데이터의 무작위 노이즈와 이상치를 포함하여 너무 잘 학습할 때 발생합니다. 그 결과 훈련 데이터에서는 우수한 성능을 보이지만, 새로운 미시청 테스트 데이터에서는 성능이 떨어집니다.

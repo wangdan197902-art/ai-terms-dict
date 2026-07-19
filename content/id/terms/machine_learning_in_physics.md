@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /id/terms/machine_learning_in_physics/
 date: "2026-07-18T15:59:21.298166Z"
 lastmod: "2026-07-18T16:38:07.480824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penerapan pembelajaran mesin untuk memecahkan masalah fisika kompleks, mensimulasikan sistem kuantum, dan menganalisis data eksperimental dari akselerator partikel."
 ---
-
 ## Definition
 
 Dalam fisika, pembelajaran mesin membantu dalam mensimulasikan mekanika kuantum, menganalisis data tumbukan berenergi tinggi, dan menemukan material baru. Hal ini membantu fisikawan menavigasi ruang parameter berdimensi tinggi dan mempercepat penemuan ilmiah.

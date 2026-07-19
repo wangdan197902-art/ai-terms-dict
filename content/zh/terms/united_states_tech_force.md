@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /zh/terms/united_states_tech_force/
 date: "2026-07-18T11:37:26.916640Z"
 lastmod: "2026-07-18T11:44:45.566162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个人口统计学和经济学术语，指推动美国技术创新的集体劳动力。"
 ---
-
 ## Definition
 
 “美国科技劳动力”一词通常指在美国劳动力市场中从事技术领域的庞大群体，包括软件工程、数据科学、硬件制造等。

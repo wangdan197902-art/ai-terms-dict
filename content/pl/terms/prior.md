@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /pl/terms/prior/
 date: "2026-07-18T15:28:28.401047Z"
 lastmod: "2026-07-18T17:15:08.818343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "W statystyce bayesowskiej rozkład prawdopodobieństwa wyrażający wiedzę lub przekonanie na temat parametru przed obserwacją nowych dowodów lub danych."
 ---
-
 ## Definition
 
 'Prior' reprezentuje istniejące przekonania lub dane historyczne dotyczące zmiennej przed uwzględnieniem nowych obserwacji. W wnioskowaniu bayesowskim prior jest łączony z wiarygodnością obserwowanych...

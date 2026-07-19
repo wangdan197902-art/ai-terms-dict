@@ -1,23 +1,24 @@
 ---
-title: "Algoritm Actor-Critic"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Algoritm Actor-Critic
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /ro/terms/actor_critic_algorithm/
-date: "2026-07-18T15:42:47.695900Z"
-lastmod: "2026-07-18T17:15:09.624704Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:42:47.695900Z'
+lastmod: '2026-07-18T17:15:09.624704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un cadru de învățare prin întărire care combină metodele bazate pe valoare și cele bazate pe politică, folosind două rețele neuronale: un actor și un critic."
+source: agnes_llm
+status: published
+language: ro
+description: 'Un cadru de învățare prin întărire care combină metodele bazate pe valoare
+  și cele bazate pe politică, folosind două rețele neuronale: un actor și un critic.'
 ---
-
 ## Definition
 
 Algoritmul actor-critic folosește două componente: actorul, care actualizează politica pentru a selecta acțiuni, și criticul, care evaluează calitatea acestor acțiuni estimând funcția de valoare. Această arhitectură hibridă permite stabilizare și eficiență mai mare în învățare.

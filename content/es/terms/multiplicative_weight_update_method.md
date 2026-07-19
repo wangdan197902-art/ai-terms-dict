@@ -1,23 +1,24 @@
 ---
-title: "Método de actualización de pesos multiplicativa"
-term_id: "multiplicative_weight_update_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "online_learning", "algorithm"]
+title: Método de actualización de pesos multiplicativa
+term_id: multiplicative_weight_update_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Online Learning
+- algorithm
 difficulty: 3
 weight: 1
-slug: "multiplicative_weight_update_method"
-aliases:
-  - /es/terms/multiplicative_weight_update_method/
-date: "2026-07-18T11:01:22.892805Z"
-lastmod: "2026-07-18T11:44:44.835156Z"
+slug: multiplicative_weight_update_method
+date: '2026-07-18T11:01:22.892805Z'
+lastmod: '2026-07-18T11:44:44.835156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un algoritmo iterativo que actualiza los pesos de forma multiplicativa basándose en la retroalimentación del rendimiento para minimizar el arrepentimiento."
+source: agnes_llm
+status: published
+language: es
+description: Un algoritmo iterativo que actualiza los pesos de forma multiplicativa
+  basándose en la retroalimentación del rendimiento para minimizar el arrepentimiento.
 ---
-
 ## Definition
 
 El método de actualización de pesos multiplicativa es un algoritmo fundamental de aprendizaje en línea utilizado para tomar decisiones en entornos inciertos. Mantiene un conjunto de pesos para diferentes estrategias o expertos, ajustándolos según su desempeño relativo.

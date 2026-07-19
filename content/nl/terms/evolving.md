@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /nl/terms/evolving/
 date: "2026-07-18T15:25:51.154577Z"
 lastmod: "2026-07-18T17:15:08.683904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Beschrijft AI-systemen of algoritmen die zich continu aanpassen en verbeteren door middel van nieuwe gegevens of feedback."
 ---
-
 ## Definition
 
 De term 'evolverend' kenmerkt dynamische AI-modellen die continue leren en aanpassingen ondergaan in plaats van statisch te blijven na initiële training. Dit concept is centraal in lifelong learning en...

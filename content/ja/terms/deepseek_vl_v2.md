@@ -7,8 +7,6 @@ tags: ["multimodal", "vision", "vlm"]
 difficulty: 3
 weight: 1
 slug: "deepseek_vl_v2"
-aliases:
-  - /ja/terms/deepseek_vl_v2/
 date: "2026-07-18T11:11:44.655639Z"
 lastmod: "2026-07-18T11:44:45.089806Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "DeepSeek VL V2は、視覚入力とテキストクエリの両方を高精度かつ効率的に処理・理解するために設計されたビジョン・ランゲージモデルです。"
 ---
-
 ## Definition
 
 DeepSeek VL V2は、標準的な言語モデルの機能をマルチモーダル領域へと拡張し、画像をテキストと同時に解釈することを可能にします。ビジョンエンコーダを大規模言語

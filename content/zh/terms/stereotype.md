@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /zh/terms/stereotype/
 date: "2026-07-18T11:38:39.318238Z"
 lastmod: "2026-07-18T11:44:45.570985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种概括性的、往往过于简化的信念，反映在 AI 的输出中。"
 ---
-
 ## Definition
 
 在人工智能中，当模型学习并放大训练数据中存在的社会偏见时，就会产生刻板印象。这可能导致歧视性结果，例如将某些职业与特定性别联系起来。

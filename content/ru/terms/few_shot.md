@@ -1,23 +1,24 @@
 ---
-title: "few-shot (обучение с малым числом примеров)"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: few-shot (обучение с малым числом примеров)
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /ru/terms/few_shot/
-date: "2026-07-18T15:31:09.731615Z"
-lastmod: "2026-07-18T16:38:07.094522Z"
+slug: few_shot
+date: '2026-07-18T15:31:09.731615Z'
+lastmod: '2026-07-18T16:38:07.094522Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма обучения, при которой модель выполняет задачу правильно после ознакомления лишь с небольшим количеством размеченных примеров."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма обучения, при которой модель выполняет задачу правильно после
+  ознакомления лишь с небольшим количеством размеченных примеров.
 ---
-
 ## Definition
 
 Few-shot learning позволяет моделям машинного обучения обобщать знания на основе очень ограниченных данных, обычно от одного до десяти примеров на класс. В отличие от традиционного обучения с учителем, требующего тысяч

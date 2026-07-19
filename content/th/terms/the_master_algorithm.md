@@ -1,23 +1,23 @@
 ---
-title: "The Master Algorithm"
-term_id: "the_master_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "literature"]
+title: The Master Algorithm
+term_id: the_master_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- literature
 difficulty: 4
 weight: 1
-slug: "the_master_algorithm"
-aliases:
-  - /th/terms/the_master_algorithm/
-date: "2026-07-18T16:18:12.853433Z"
-lastmod: "2026-07-18T16:38:07.662222Z"
+slug: the_master_algorithm
+date: '2026-07-18T16:18:12.853433Z'
+lastmod: '2026-07-18T16:38:07.662222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "The Master Algorithm หมายถึงอัลกอริทึมการเรียนรู้สากลในอุดมคติที่สามารถดึงความรู้ทั้งหมดมาจากข้อมูล"
+source: agnes_llm
+status: published
+language: th
+description: The Master Algorithm หมายถึงอัลกอริทึมการเรียนรู้สากลในอุดมคติที่สามารถดึงความรู้ทั้งหมดมาจากข้อมูล
 ---
-
 ## Definition
 
 แนวคิดนี้ถูกบัญญัติโดย Pedro Domingos ในหนังสือชื่อเดียวกัน 'Master Algorithm' อธิบายถึงกรอบทฤษฎีที่เป็นหนึ่งเดียวสำหรับแมชชีนเลิร์นนิงซึ่งสามารถจำลองกระบวนการเรียนรู้ทั้งหมดของมนุษย์ได้ โดยจินตนาการถึงระบบที่สามารถเรียนรู้ได้ทุกทักษะ

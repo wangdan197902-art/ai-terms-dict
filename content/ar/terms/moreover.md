@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /ar/terms/moreover/
 date: "2026-07-18T15:28:01.146721Z"
 lastmod: "2026-07-18T17:15:08.443271Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ظرف انتقالي يُستخدم لتقديم معلومات إضافية أو تعزيز حجة سابقة."
 ---
-
 ## Definition
 
 في سياق توثيق الذكاء الاصطناعي والكتابة التقنية، تعمل كلمة 'علاوة على ذلك' كعلامة خطابية تشير إلى إضافة أدلة داعمة أو نقطة أخرى تعزز النقاش الحالي.

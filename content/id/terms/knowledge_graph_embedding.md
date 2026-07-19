@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /id/terms/knowledge_graph_embedding/
 date: "2026-07-18T15:56:59.502447Z"
 lastmod: "2026-07-18T16:38:07.474079Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah teknik yang memetakan entitas dan relasi dalam graf pengetahuan ke dalam ruang vektor kontinu sambil mempertahankan semantik struktural."
 ---
-
 ## Definition
 
 Metode embedding graf pengetahuan, seperti TransE atau DistMult, mengubah struktur graf diskrit menjadi vektor padat berdimensi rendah. Hal ini memungkinkan model pembelajaran mesin untuk melakukan operasi matematika pada representasi tersebut, sehingga memfasilitasi penemuan pola dan prediksi hubungan yang tidak terlihat secara eksplisit dalam data mentah.

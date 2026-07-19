@@ -1,23 +1,25 @@
 ---
-title: "Citation"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: Citation
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /pt/terms/citation/
-date: "2026-07-18T14:52:50.298441Z"
-lastmod: "2026-07-18T15:51:59.471069Z"
+slug: citation
+date: '2026-07-18T14:52:50.298441Z'
+lastmod: '2026-07-18T15:51:59.471069Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Citação em IA refere-se à prática de atribuir materiais de origem ou dados utilizados no texto gerado ou nos modelos para garantir transparência e conformidade com propriedade intelectual."
+source: agnes_llm
+status: published
+language: pt
+description: Citação em IA refere-se à prática de atribuir materiais de origem ou
+  dados utilizados no texto gerado ou nos modelos para garantir transparência e conformidade
+  com propriedade intelectual.
 ---
-
 ## Definition
 
 À medida que os modelos de IA generativa produzem conteúdo, surgiu a necessidade de mecanismos de citação para manter a integridade acadêmica e a conformidade legal. Isso envolve incorporar referências às fontes originais dentro

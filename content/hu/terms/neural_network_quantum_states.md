@@ -1,23 +1,24 @@
 ---
-title: "Neurális hálózatos kvantumállapotok"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: Neurális hálózatos kvantumállapotok
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /hu/terms/neural_network_quantum_states/
-date: "2026-07-18T16:14:44.460663Z"
-lastmod: "2026-07-18T17:15:09.817415Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:14:44.460663Z'
+lastmod: '2026-07-18T17:15:09.817415Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A kvantumos soktest-hullámfüggvények ábrázolása mesterséges neurális hálózati architektúrákkal."
+source: agnes_llm
+status: published
+language: hu
+description: A kvantumos soktest-hullámfüggvények ábrázolása mesterséges neurális
+  hálózati architektúrákkal.
 ---
-
 ## Definition
 
 A neurális hálózatos kvantumállapotok a mélytanulás technikáit használják a komplex kvantumos hullámfüggvények közelítésére. A neurális hálózatok súlyait paraméterekként kezelik, amelyek optimalizálják a kvantumrendszerek valószínűségi amplitúdóit.

@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /it/terms/context_window/
 date: "2026-07-18T15:22:40.268126Z"
 lastmod: "2026-07-18T17:15:08.559761Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La quantità massima di testo o token che un modello linguistico può elaborare e considerare simultaneamente durante l'inferenza o l'addestramento."
 ---
-
 ## Definition
 
 La finestra di contesto definisce il limite operativo della memoria di un modello AI per una singola interazione. Determina quanto della cronologia delle conversazioni precedenti, del testo di un documento o dei dati di input il modello può

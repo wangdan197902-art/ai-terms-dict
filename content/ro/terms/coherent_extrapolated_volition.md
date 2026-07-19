@@ -1,23 +1,24 @@
 ---
-title: "Voință extrapolată coerentă"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Voință extrapolată coerentă
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /ro/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:49:47.170660Z"
-lastmod: "2026-07-18T17:15:09.637287Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:49:47.170660Z'
+lastmod: '2026-07-18T17:15:09.637287Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un obiectiv propus pentru inteligența artificială în care sistemul acționează conform dorințelor rafinate ale umanității după raționament idealizat."
+source: agnes_llm
+status: published
+language: ro
+description: Un obiectiv propus pentru inteligența artificială în care sistemul acționează
+  conform dorințelor rafinate ale umanității după raționament idealizat.
 ---
-
 ## Definition
 
 Voința Extraprolată Coerentă (CEV) este un concept introdus de Eliezer Yudkowsky în contextul siguranței și alinierii inteligenței artificiale. Acesta sugerează că o inteligență artificială avansată nu ar trebui să execute pur și simplu comenzile actuale ale omului

@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /de/terms/self/
 date: "2026-07-18T10:53:51.234640Z"
 lastmod: "2026-07-18T11:44:44.883615Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich in der KI auf das Konzept der Identität eines Agenten oder dessen Fähigkeit zur selbstreferenziellen Verarbeitung und Introspektion."
 ---
-
 ## Definition
 
 Obwohl aktuelle KI keine Bewusstseinsfähigkeit besitzt, beschreibt der Begriff 'Selbst' oft metakognitive Fähigkeiten, bei denen ein Modell seine eigenen Ausgaben, Konfidenzniveaus oder internen Zustände analysiert.

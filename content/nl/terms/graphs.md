@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /nl/terms/graphs/
 date: "2026-07-18T15:26:54.607256Z"
 lastmod: "2026-07-18T17:15:08.686254Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De meervoudsvorm die verwijst naar meerdere grafiekstructuren of visuele weergaven van datatrends in machine learning."
 ---
-
 ## Definition
 
 Terwijl enkelvoud 'grafiek' verwijst naar de abstracte gegevensstructuur, duidt 'grafieken' vaak op meerdere afzonderlijke grafiekinstanties of visuele plots die worden gebruikt bij het monitoren van ML. Bij visualisatie kunnen lijngrafieken of staaf...

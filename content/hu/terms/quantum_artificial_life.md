@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /hu/terms/quantum_artificial_life/
 date: "2026-07-18T16:20:07.568944Z"
 lastmod: "2026-07-18T17:15:09.826793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A kvantum mesterséges élet egy olyan terület, amely autonóm rendszereket és evolúciós folyamatokat tanulmányoz a kvantumszámítástechnika elvei alapján."
 ---
-
 ## Definition
 
 A kvantum mesterséges élet (QAL) a kvantummechanika és a mesterséges élet kutatásának metszetét vizsgálja, azzal a céllal, hogy szimulálja a biológiai evolúciót és az önreprodukáló rendszereket kvantumszámítógépeken.

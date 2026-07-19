@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /fi/terms/ai_security_institute/
 date: "2026-07-18T15:39:31.208292Z"
 lastmod: "2026-07-18T17:15:09.377302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Järjestö, joka on omistautunut tutkimaan, kehittämään ja edistämään parhaita käytäntöjä tekoälyjärjestelmien suojaamiseksi."
 ---
-
 ## Definition
 
 Tekoälyn turvallisuusinstituutti on erikoistunut yksikkö, jonka tavoitteena on lieventää tekoälyteknologioihin liittyviä riskejä. Nämä instituutit tekevät tutkimusta vihollisellisista hyökkäyksistä, tietosuojasta ja

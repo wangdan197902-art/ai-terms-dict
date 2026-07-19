@@ -1,23 +1,24 @@
 ---
-title: "pidetty ulkona"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: pidetty ulkona
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /fi/terms/held_out/
-date: "2026-07-18T15:33:39.456867Z"
-lastmod: "2026-07-18T17:15:09.364035Z"
+slug: held_out
+date: '2026-07-18T15:33:39.456867Z'
+lastmod: '2026-07-18T17:15:09.364035Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Koulutusaineistosta erillään pidetyt dataotteet, joilla arvioidaan mallin suorituskykyä ja estetään ylikoulutus kehitysvaiheessa."
+source: agnes_llm
+status: published
+language: fi
+description: Koulutusaineistosta erillään pidetyt dataotteet, joilla arvioidaan mallin
+  suorituskykyä ja estetään ylikoulutus kehitysvaiheessa.
 ---
-
 ## Definition
 
 'Pidetty ulkona' -aineisto koostuu tarkoituksella koulutusvaiheesta jätetyistä esimerkeistä. Tätä osajoukkoa käytetään arvioimaan, kuinka hyvin malli yleistää tuntemattomaan dataan, tarjoten harhaamattoman arvion mallin kyvystä toimia todellisissa olosuhteissa ilman, että se on nähnyt näitä tietoja koulutuksen aikana.

@@ -1,23 +1,24 @@
 ---
-title: "Denetimli İnce Ayar"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Denetimli İnce Ayar
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /tr/terms/supervised_fine_tuning/
-date: "2026-07-18T15:37:31.383493Z"
-lastmod: "2026-07-18T16:38:07.264454Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:37:31.383493Z'
+lastmod: '2026-07-18T16:38:07.264454Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir önceden eğitilmiş modeli belirli bir göreve veya alana uyum sağlamak için özel bir veri setinde daha fazla eğitme süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Bir önceden eğitilmiş modeli belirli bir göreve veya alana uyum sağlamak
+  için özel bir veri setinde daha fazla eğitme süreci.
 ---
-
 ## Definition
 
 Denetimli İnce Ayar (SFT), dil modeli gibi büyük bir önceden eğitilmiş modeli alıp, belirli bir alt görev için etiketlenmiş küçük ve yüksek kaliteli bir veri setinde eğitimine devam etmeyi içerir.

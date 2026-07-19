@@ -1,23 +1,24 @@
 ---
-title: "Force control"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Force control
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /th/terms/force_control/
-date: "2026-07-18T15:54:58.884518Z"
-lastmod: "2026-07-18T16:38:07.607167Z"
+slug: force_control
+date: '2026-07-18T15:54:58.884518Z'
+lastmod: '2026-07-18T16:38:07.607167Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Force control เป็นเทคนิคหุ่นยนต์ที่ควบคุมแรงปฏิสัมพันธ์ระหว่างตัวจับปลายแขนหุ่นยนต์ (end-effector) และสิ่งแวดล้อมระหว่างการทำงานทางกายภาพ"
+source: agnes_llm
+status: published
+language: th
+description: Force control เป็นเทคนิคหุ่นยนต์ที่ควบคุมแรงปฏิสัมพันธ์ระหว่างตัวจับปลายแขนหุ่นยนต์
+  (end-effector) และสิ่งแวดล้อมระหว่างการทำงานทางกายภาพ
 ---
-
 ## Definition
 
 Force control ช่วยให้หุ่นยนต์สามารถดำเนินการที่ละเอียดอ่อน เช่น การประกอบ การขัดพื้น หรือการจับวัตถุเปราะบาง โดยการจัดการแรงสัมผัสอย่างกระตือรือร้น แทนที่จะควบคุมเพียงตำแหน่งต่างจาก

@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /cs/terms/gpt2/
 date: "2026-07-18T16:00:13.227842Z"
 lastmod: "2026-07-18T17:15:09.135556Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "GPT-2 je velká jazyková model založená na architektuře transformátorů, vyvinutá společností OpenAI pro generování a porozumění textu."
 ---
-
 ## Definition
 
 Generativní předtrénovaný transformátor 2 (GPT-2) je autoregresní jazykový model, který využívá architekturu transformátoru k generování lidsky působícího textu. Byl trénován na obrovské sadě dat z internetu.

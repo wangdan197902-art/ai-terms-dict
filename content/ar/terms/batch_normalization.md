@@ -1,23 +1,24 @@
 ---
-title: "التطبيع الدفعي"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: التطبيع الدفعي
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /ar/terms/batch_normalization/
-date: "2026-07-18T15:46:49.821850Z"
-lastmod: "2026-07-18T17:15:08.480227Z"
+slug: batch_normalization
+date: '2026-07-18T15:46:49.821850Z'
+lastmod: '2026-07-18T17:15:08.480227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التطبيع الدفعي هو تقنية تُطبع فيها مدخلات الطبقة عبر دفعة صغيرة لتثبيت وتسريع تدريب الشبكة العصبية."
+source: agnes_llm
+status: published
+language: ar
+description: التطبيع الدفعي هو تقنية تُطبع فيها مدخلات الطبقة عبر دفعة صغيرة لتثبيت
+  وتسريع تدريب الشبكة العصبية.
 ---
-
 ## Definition
 
 تقوم هذه الطريقة بضبط وتقييس التنشيطات لتكون ذات متوسط صفر وتباين وحدة ضمن كل دفعة صغيرة أثناء التدريب. يقلل ذلك من الانزياح التوزيعي الداخلي، مما يسمح بمعدلات تعلم أعلى وتدريب أسرع.

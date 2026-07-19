@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /de/terms/instruction_following/
 date: "2026-07-18T11:19:48.512428Z"
 lastmod: "2026-07-18T11:44:44.952520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Fähigkeit eines KI-Modells, spezifische menschliche Befehle oder Einschränkungen genau zu interpretieren und auszuführen."
 ---
-
 ## Definition
 
 Instruction Following bezeichnet die Fähigkeit von Large Language Models und anderen KI-Systemen, nuancierte menschliche Anweisungen zu verstehen und explizite Einschränkungen innerhalb eines Prompts einzuhalten. Dieser Paradigmenwechsel

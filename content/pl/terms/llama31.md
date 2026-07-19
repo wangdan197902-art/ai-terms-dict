@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Tool Use"]
 difficulty: 3
 weight: 1
 slug: "llama31"
-aliases:
-  - /pl/terms/llama31/
 date: "2026-07-18T16:04:50.036354Z"
 lastmod: "2026-07-18T17:15:08.893096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Llama 3.1 to aktualizacja od Meta z sierpnia 2024 roku, zawierająca modele o 8B, 70B i 405B parametrach, z rozszerzonym oknem kontekstowym 128k i natywną obsługą narzędzi."
 ---
-
 ## Definition
 
 Wydana w sierpniu 2024 roku, Llama 3.1 poszerza rodzinę Llama o ogromny model 405 miliardów parametrów wraz z mniejszymi wariantami 8B i 70B. Wyjątkową cechą jest rozszerzone okno kontekstowe.

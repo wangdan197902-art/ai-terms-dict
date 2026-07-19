@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /es/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T10:42:10.719288Z"
 lastmod: "2026-07-18T11:44:44.793686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un conjunto de datos que contiene oraciones originales y sus versiones comprimidas para entrenar modelos en la preservación de la información."
 ---
-
 ## Definition
 
 Los conjuntos de datos de compresión de oraciones consisten en pares donde la oración objetivo es una versión abreviada de la oración fuente, reteniendo el significado central mientras se elimina la información redundante. Estos conjuntos de datos son

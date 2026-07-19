@@ -7,8 +7,6 @@ tags: ["theory", "education", "research"]
 difficulty: 2
 weight: 1
 slug: "toy_problem"
-aliases:
-  - /pl/terms/toy_problem/
 date: "2026-07-18T16:21:08.001179Z"
 lastmod: "2026-07-18T17:15:08.925767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Uproszczona wersja złożonego problemu używana do testowania algorytmów lub teorii bez szumu i skali występujących w scenariuszach rzeczywistych."
 ---
-
 ## Definition
 
 W sztucznej inteligencji i informatyce problem zabawkowy to silnie uproszczony scenariusz zaprojektowany do zilustrowania koncepcji lub przetestowania nowego algorytmu. Przykłady obejmują problem N-Wiżów lub Trójkąt...

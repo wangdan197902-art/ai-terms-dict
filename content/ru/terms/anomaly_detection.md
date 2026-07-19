@@ -1,23 +1,24 @@
 ---
-title: "Обнаружение аномалий"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Обнаружение аномалий
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /ru/terms/anomaly_detection/
-date: "2026-07-18T15:40:16.590002Z"
-lastmod: "2026-07-18T16:38:07.119406Z"
+slug: anomaly_detection
+date: '2026-07-18T15:40:16.590002Z'
+lastmod: '2026-07-18T16:38:07.119406Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс выявления редких элементов, событий или наблюдений, которые существенно отклоняются от большинства данных."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс выявления редких элементов, событий или наблюдений, которые существенно
+  отклоняются от большинства данных.
 ---
-
 ## Definition
 
 Обнаружение аномалий, также известное как обнаружение выбросов, включает анализ данных для выявления паттернов, не соответствующих ожидаемому поведению. Оно широко используется в кибербезопасности, обнаружении мошенничества и мониторинге систем.

@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /tr/terms/binary_classification/
 date: "2026-07-18T15:44:07.909315Z"
 lastmod: "2026-07-18T16:38:07.279757Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Her bir girdi örneği için iki olası sınıftan birini tahmin etmenin amaçlandığı denetimli bir öğrenme görevidir."
 ---
-
 ## Definition
 
 İkili sınıflandırma, çıkış değişkeninin tam olarak iki olası sonuca (örneğin doğru/yanlış veya spam/spam değil) sahip olduğu temel bir makine öğrenimi problemidir. Lojistik regresyon gibi algoritmalar bu tür görevlerde yaygın olarak kullanılır.

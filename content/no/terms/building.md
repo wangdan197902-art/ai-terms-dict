@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /no/terms/building/
 date: "2026-07-18T15:24:51.700620Z"
 lastmod: "2026-07-18T16:38:06.933245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den praktiske fasen med å utvikle, trene og distribuere AI-modeller og systemer fra første design til produksjonsklarhet."
 ---
-
 ## Definition
 
 Bygging refererer til den end-to-end ingeniørprosessen med å lage AI-løsninger, som inkluderer datainnsamling, modellvalg, trening, validering og distribusjon. Det omfatter den tekniske infrastrukturen og implementeringen.

@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /fi/terms/adversarial_machine_learning/
 date: "2026-07-18T15:41:36.937114Z"
 lastmod: "2026-07-18T17:15:09.381052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Vastustava koneoppiminen on tutkimusala, joka tutkii, miten koneoppimismallit voidaan tehdä robusteiksi haitallisia, niiden harhaanjohtamiseksi suunniteltuja syötteitä vastaan."
 ---
-
 ## Definition
 
 Tämä ala kattaa sekä malleja rikkovia hyökkäystekniikoita että malleja vahvistavia puolustusstrategioita. Se sisältää mallien kouluttamisen vastustavilla esimerkeillä parantaakseen niiden vastustuskykyä, prosessi, jota kutsutaan...

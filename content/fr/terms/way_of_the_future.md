@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /fr/terms/way_of_the_future/
 date: "2026-07-18T11:42:35.574436Z"
 lastmod: "2026-07-18T11:44:45.356684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Ce terme fait généralement référence à la trajectoire anticipée de l'avancement technologique, en particulier concernant l'intégration de l'IA dans la vie quotidienne et l'industrie."
 ---
-
 ## Definition
 
 Bien qu'il ne s'agisse pas d'un terme technique strict, « Voie de l'avenir » décrit le changement de paradigme vers des systèmes autonomes, des assistants IA personnalisés et des processus de prise de décision automatisés. Il englobe la vision...

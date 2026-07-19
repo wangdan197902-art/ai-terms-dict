@@ -1,23 +1,22 @@
 ---
-title: "การเรียนรู้ตามหลักสูตร (Curriculum Learning)"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: การเรียนรู้ตามหลักสูตร (Curriculum Learning)
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /th/terms/curriculum_learning/
-date: "2026-07-18T16:21:00.457953Z"
-lastmod: "2026-07-18T16:38:07.668551Z"
+slug: curriculum_learning
+date: '2026-07-18T16:21:00.457953Z'
+lastmod: '2026-07-18T16:38:07.668551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์การฝึกฝนที่โมเดลเรียนรู้จากตัวอย่างง่ายๆ ก่อน แล้วจึงค่อยๆ พัฒนาไปสู่ตัวอย่างที่ยากขึ้น"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์การฝึกฝนที่โมเดลเรียนรู้จากตัวอย่างง่ายๆ ก่อน แล้วจึงค่อยๆ พัฒนาไปสู่ตัวอย่างที่ยากขึ้น
 ---
-
 ## Definition
 
 การเรียนรู้ตามหลักสูตรเลียนแบบการศึกษาของมนุษย์โดยนำเสนอข้อมูลการฝึกฝนในลำดับที่มีโครงสร้าง โดยมักเริ่มจากตัวอย่างที่เรียบง่ายและเพิ่มความซับซ้อนขึ้นอย่างค่อยเป็นค่อยไป วิธีการนี้ช่วยให้เครือข่ายประสาทเทียมสามารถเรียนรู้ได้อย่างมีประสิทธิภาพมากขึ้น

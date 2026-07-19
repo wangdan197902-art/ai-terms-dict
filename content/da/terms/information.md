@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /da/terms/information/
 date: "2026-07-18T15:26:38.267951Z"
 lastmod: "2026-07-18T17:15:09.226164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Information henviser til bearbejdede data, der overfører mening, reducerer usikkerhed eller giver modtageren kontekst."
 ---
-
 ## Definition
 
 I sammenhæng med AI og datalogi er information forskellig fra rådata. Den repræsenterer data, der er organiseret, struktureret eller fortolket for at have betydning og anvendelighed. Information r

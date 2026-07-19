@@ -1,23 +1,24 @@
 ---
-title: "Hyperparameteroptimalisering"
-term_id: "hyperparameter_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["automation", "optimization", "advanced"]
+title: Hyperparameteroptimalisering
+term_id: hyperparameter_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- automation
+- Optimization
+- advanced
 difficulty: 4
 weight: 1
-slug: "hyperparameter_optimization"
-aliases:
-  - /no/terms/hyperparameter_optimization/
-date: "2026-07-18T15:59:27.795902Z"
-lastmod: "2026-07-18T16:38:07.010709Z"
+slug: hyperparameter_optimization
+date: '2026-07-18T15:59:27.795902Z'
+lastmod: '2026-07-18T16:38:07.010709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En automatisert tilnærming for å finne den optimale hyperparameterkonfigurasjonen, ofte ved hjelp av sannsynlighetsmodeller for å veilede søket."
+source: agnes_llm
+status: published
+language: 'no'
+description: En automatisert tilnærming for å finne den optimale hyperparameterkonfigurasjonen,
+  ofte ved hjelp av sannsynlighetsmodeller for å veilede søket.
 ---
-
 ## Definition
 
 Hyperparameteroptimalisering (HPO) refererer til det bredere feltet for automatisering av valg av hyperparametere. Mens finjustering er den generelle handlingen, impliserer HPO ofte bruken av sofistikerte algoritmer lik

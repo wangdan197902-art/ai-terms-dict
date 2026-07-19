@@ -1,23 +1,24 @@
 ---
-title: "Connessione Residua"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Connessione Residua
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /it/terms/residual_connection/
-date: "2026-07-18T15:39:24.471911Z"
-lastmod: "2026-07-18T17:15:08.589655Z"
+slug: residual_connection
+date: '2026-07-18T15:39:24.471911Z'
+lastmod: '2026-07-18T17:15:08.589655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un meccanismo che aggiunge l'input direttamente all'output di un livello per facilitare il flusso del gradiente nelle reti profonde."
+source: agnes_llm
+status: published
+language: it
+description: Un meccanismo che aggiunge l'input direttamente all'output di un livello
+  per facilitare il flusso del gradiente nelle reti profonde.
 ---
-
 ## Definition
 
 Le connessioni residuali, note anche come skip connection, permettono ai gradienti di fluire attraverso una rete aggiungendo direttamente un input all'output di un livello successivo. Questa architettura risolve il problema del vanishing gradient

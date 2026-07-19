@@ -1,23 +1,24 @@
 ---
-title: "Tasso di Apprendimento"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Tasso di Apprendimento
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /it/terms/learning_rate/
-date: "2026-07-18T15:36:04.514715Z"
-lastmod: "2026-07-18T17:15:08.587040Z"
+slug: learning_rate
+date: '2026-07-18T15:36:04.514715Z'
+lastmod: '2026-07-18T17:15:08.587040Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un iperparametro che controlla la dimensione del passo durante l'ottimizzazione del modello per minimizzare la funzione di perdita."
+source: agnes_llm
+status: published
+language: it
+description: Un iperparametro che controlla la dimensione del passo durante l'ottimizzazione
+  del modello per minimizzare la funzione di perdita.
 ---
-
 ## Definition
 
 Il tasso di apprendimento determina quanto vengono aggiornati i pesi del modello rispetto al gradiente calcolato durante ogni iterazione di addestramento. Un tasso troppo elevato può causare il superamento del minimo della funzione di perdita (overshooting), impedendo la convergenza, mentre un tasso troppo basso può rendere l'addestramento eccessivamente lento o far rimanere il modello bloccato in minimi locali.

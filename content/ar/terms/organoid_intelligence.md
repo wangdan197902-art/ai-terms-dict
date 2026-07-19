@@ -1,23 +1,24 @@
 ---
-title: "ذكاء العضويات"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: ذكاء العضويات
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /ar/terms/organoid_intelligence/
-date: "2026-07-18T16:15:20.869502Z"
-lastmod: "2026-07-18T17:15:08.534448Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:15:20.869502Z'
+lastmod: '2026-07-18T17:15:08.534448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نمط حوسبة هجين يدمج الخلايا العصبية الحية مع الواجهات الإلكترونية لمعالجة المعلومات."
+source: agnes_llm
+status: published
+language: ar
+description: نمط حوسبة هجين يدمج الخلايا العصبية الحية مع الواجهات الإلكترونية لمعالجة
+  المعلومات.
 ---
-
 ## Definition
 
 يشير ذكاء العضويات إلى تطوير أنظمة بيولوجية-هجينة حيث تُزرع العضويات الدماغية المشتقة من البشر على مصفوفات الأقطاب الدقيقة. تقوم هذه الشبكات العصبية الحية بأداء عمليات حسابية بكفاءة عالية واستهلاك منخفض للطاقة، مما يفتح آفاقاً جديدة في الحوسبة العصبية.

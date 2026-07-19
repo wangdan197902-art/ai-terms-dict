@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /fr/terms/structural/
 date: "2026-07-18T10:55:17.975666Z"
 lastmod: "2026-07-18T11:44:45.173566Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Relatif à l'organisation sous-jacente, à l'architecture ou à l'arrangement des composants au sein d'un système."
 ---
-
 ## Definition
 
 Les aspects structurels définissent comment les données ou les couches d'un réseau neuronal sont organisées. Dans les réseaux neuronaux graphiques, la structure fait référence aux connexions entre les nœuds ; en apprentissage profond, elle fait référence à la topologie des couches. Comprendre la structure est essentiel pour optimiser les performances.

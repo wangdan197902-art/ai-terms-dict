@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /tr/terms/docker/
 date: "2026-07-18T15:34:19.689881Z"
 lastmod: "2026-07-18T16:38:07.256575Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Docker, uygulamaları hafif, taşınabilir konteynerler içinde geliştirmek, dağıtmak ve çalıştırmak için bir platformdur."
 ---
-
 ## Definition
 
 Docker, geliştiricilerin bir uygulamayı tüm bağımlılıklarıyla birlikte yazılım geliştirme için standartlaştırılmış bir birime paketlemesini sağlar. Bu konteynerler, tutarlılığı sağlarken yazılımı ortamından izole eder.

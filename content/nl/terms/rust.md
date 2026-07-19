@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /nl/terms/rust/
-date: "2026-07-18T16:16:03.860727Z"
-lastmod: "2026-07-18T17:15:08.784870Z"
+slug: rust
+date: '2026-07-18T16:16:03.860727Z'
+lastmod: '2026-07-18T17:15:08.784870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Rust is een systeemprogrammeertaal die zich richt op veiligheid, snelheid en concurrentie zonder garbage collection."
+source: agnes_llm
+status: published
+language: nl
+description: Rust is een systeemprogrammeertaal die zich richt op veiligheid, snelheid
+  en concurrentie zonder garbage collection.
 ---
-
 ## Definition
 
 Rust is een programmeertaal met meerdere paradigma's voor algemeen gebruik, ontworpen voor prestaties en veiligheid, met name veilige concurrentie. Het bereikt geheugenveiligheid zonder gebruik te maken van garbage collection, waardoor het risico op geheugenfouten wordt geëlimineerd.

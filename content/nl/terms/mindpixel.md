@@ -7,8 +7,6 @@ tags: ["neurotech", "niche", "research"]
 difficulty: 4
 weight: 1
 slug: "mindpixel"
-aliases:
-  - /nl/terms/mindpixel/
 date: "2026-07-18T16:06:59.529566Z"
 lastmod: "2026-07-18T17:15:08.767355Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Mindpixel is een conceptuele of eigendomelijke term die vaak verwijst naar granulaire eenheden van cognitieve gegevens of neurale activiteitsmetingen die worden gebruikt in hersen-computerinterfaceond"
 ---
-
 ## Definition
 
 Hoewel het geen standaard academische term is, verwijst 'Mindpixel' meestal naar een discrete informatie-eenheid afgeleid van neurale signalen of cognitieve toestanden in gespecialiseerde neurotechnologie-contexten. Het kan verwijzen naar gedetailleerde metingen van mentale processen.

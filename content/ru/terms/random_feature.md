@@ -1,23 +1,24 @@
 ---
-title: "Случайная функция признака"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Случайная функция признака
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /ru/terms/random_feature/
-date: "2026-07-18T16:12:39.428224Z"
-lastmod: "2026-07-18T16:38:07.197351Z"
+slug: random_feature
+date: '2026-07-18T16:12:39.428224Z'
+lastmod: '2026-07-18T16:38:07.197351Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, отображающая входные данные в пространство более высокой размерности с использованием случайных проекций для эффективной аппроксимации ядерных методов."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, отображающая входные данные в пространство более высокой размерности
+  с использованием случайных проекций для эффективной аппроксимации ядерных методов.
 ---
-
 ## Definition
 
 Отображения случайных признаков преобразуют входные данные в новое пространство, где линейные модели могут аппроксимировать нелинейные ядерные функции. Этот подход, часто связанный с методом Ньютона или фурье-признаками, позволяет...

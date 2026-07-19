@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /vi/terms/instruction_following/
 date: "2026-07-18T15:58:22.548830Z"
 lastmod: "2026-07-18T16:38:07.770551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng của mô hình AI trong việc diễn giải chính xác và thực thi các lệnh hoặc ràng buộc cụ thể từ con người."
 ---
-
 ## Definition
 
 Tuân thủ chỉ thị đề cập đến khả năng của các mô hình ngôn ngữ lớn và các hệ thống AI khác trong việc hiểu các hướng dẫn tinh tế của con người và tuân thủ các ràng buộc rõ ràng trong lời nhắc (prompt). Sự thay đổi mô hình này

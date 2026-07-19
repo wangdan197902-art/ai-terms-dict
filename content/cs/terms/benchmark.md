@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /cs/terms/benchmark/
 date: "2026-07-18T15:23:43.862501Z"
 lastmod: "2026-07-18T17:15:09.064564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Standardní referenční bod nebo metrika používaná k hodnocení výkonu modelů AI oproti stanoveným základním úrovním."
 ---
-
 ## Definition
 
 V umělé inteligenci je benchmarkem standardizovaná sada testů nebo dat navržená k měření schopností modelů strojového učení. Poskytuje konzistentní rámec pro srovnávání různých modelů.

@@ -1,23 +1,24 @@
 ---
-title: "Neurale berekening"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Neurale berekening
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /nl/terms/neural_computation/
-date: "2026-07-18T16:10:13.023778Z"
-lastmod: "2026-07-18T17:15:08.771801Z"
+slug: neural_computation
+date: '2026-07-18T16:10:13.023778Z'
+lastmod: '2026-07-18T17:15:08.771801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van informatieverwerking binnen kunstmatige neurale netwerken, geïnspireerd door biologische neuronen."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van informatieverwerking binnen kunstmatige neurale netwerken,
+  geïnspireerd door biologische neuronen.
 ---
-
 ## Definition
 
 Neurale berekening verwijst naar de wiskundige operaties die worden uitgevoerd door kunstmatige neuronen om invoersignalen om te zetten in uitvoerresponsen. Het omvat gewogen sommen, activatiefuncties en backpropagatie.

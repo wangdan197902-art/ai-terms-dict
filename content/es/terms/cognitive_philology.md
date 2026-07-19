@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /es/terms/cognitive_philology/
 date: "2026-07-18T10:39:39.392560Z"
 lastmod: "2026-07-18T11:44:44.786270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La filología cognitiva aplica métodos computacionales y principios de la ciencia cognitiva al estudio del lenguaje, la literatura y la historia textual."
 ---
-
 ## Definition
 
 La filología cognitiva es un campo interdisciplinario que combina humanidades digitales, lingüística y ciencia cognitiva para analizar textos y la evolución del lenguaje. Utiliza herramientas computacionales para procesar grandes volúmenes de datos textuales.

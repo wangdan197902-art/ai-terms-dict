@@ -1,23 +1,24 @@
 ---
-title: "Probabilità algoritmica"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Probabilità algoritmica
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /it/terms/algorithmic_probability/
-date: "2026-07-18T15:46:27.633366Z"
-lastmod: "2026-07-18T17:15:08.597067Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:46:27.633366Z'
+lastmod: '2026-07-18T17:15:08.597067Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una misura teorica della probabilità che un programma casuale produca una specifica stringa di output."
+source: agnes_llm
+status: published
+language: it
+description: Una misura teorica della probabilità che un programma casuale produca
+  una specifica stringa di output.
 ---
-
 ## Definition
 
 La probabilità algoritmica, radicata nella complessità di Kolmogorov e nell'induzione di Solomonoff, assegna una probabilità maggiore agli output generati da programmi più brevi. Postula che spiegazioni più semplici siano più probabili.

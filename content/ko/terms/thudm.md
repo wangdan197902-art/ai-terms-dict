@@ -1,23 +1,22 @@
 ---
-title: "Tsinghua University Natural Language Processing Research Group (THUDM)"
-term_id: "thudm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organizations", "open_source"]
+title: Tsinghua University Natural Language Processing Research Group (THUDM)
+term_id: thudm
+category: basic_concepts
+subcategory: ''
+tags:
+- organizations
+- Open Source
 difficulty: 2
 weight: 1
-slug: "thudm"
-aliases:
-  - /ko/terms/thudm/
-date: "2026-07-18T16:18:53.346988Z"
-lastmod: "2026-07-18T16:38:06.916169Z"
+slug: thudm
+date: '2026-07-18T16:18:53.346988Z'
+lastmod: '2026-07-18T16:38:06.916169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "THUDM은 ChatGLM과 같은 오픈소스 AI 모델을 개발한 청화대학교의 연구 그룹입니다."
+source: agnes_llm
+status: published
+language: ko
+description: THUDM은 ChatGLM과 같은 오픈소스 AI 모델을 개발한 청화대학교의 연구 그룹입니다.
 ---
-
 ## Definition
 
 THUDM(청화대학교 자연어처리 연구그룹)은 인공지능, 특히 자연어 처리 분야에서 활발히 활동하는 주요 학술 및 연구 기관입니다.

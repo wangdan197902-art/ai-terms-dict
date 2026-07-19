@@ -1,23 +1,23 @@
 ---
-title: "תכנון"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: תכנון
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /he/terms/planning/
-date: "2026-07-18T15:37:42.850354Z"
-lastmod: "2026-07-18T17:15:09.502527Z"
+slug: planning
+date: '2026-07-18T15:37:42.850354Z'
+lastmod: '2026-07-18T17:15:09.502527Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התהליך הקוגניטיבי של יצירת רצף פעולות להשגת יעדים ספציפיים בסביבה מוגדרת."
+source: agnes_llm
+status: published
+language: he
+description: התהליך הקוגניטיבי של יצירת רצף פעולות להשגת יעדים ספציפיים בסביבה מוגדרת.
 ---
-
 ## Definition
 
 תכנון בבינה מלאכותית כולל קביעת רצף פעולות שייקח ממצב התחלתי למצב יעד רצוי. הדבר דורש הסקה לגבי השפעות הפעולות והמגבלות של הסביבה.

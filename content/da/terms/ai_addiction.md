@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /da/terms/ai_addiction/
 date: "2026-07-18T15:38:42.863646Z"
 lastmod: "2026-07-18T17:15:09.252849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En psykologisk afhængighed af interaktion med kunstige intelligenssystemer, der fører til tvangsmæssige adfærdsmønstre."
 ---
-
 ## Definition
 
 AI-afhængighed beskriver en tilstand, hvor indivuer udvikler et tvangsmæssigt behov for AI-drevne interaktioner, såsom chatbots eller sociale medie-algoritmer. This dependency often stems from t

@@ -1,23 +1,25 @@
 ---
-title: "Falcon"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: Falcon
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /de/terms/falcon/
-date: "2026-07-18T11:14:15.304450Z"
-lastmod: "2026-07-18T11:44:44.939178Z"
+slug: falcon
+date: '2026-07-18T11:14:15.304450Z'
+lastmod: '2026-07-18T11:44:44.939178Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Familie großer Sprachmodelle, die vom Technology Innovation Institute entwickelt wurde und für ihre hohe Leistung und Effizienz im Vergleich zu anderen Open-Source-LLMs bekannt ist."
+source: agnes_llm
+status: published
+language: de
+description: Eine Familie großer Sprachmodelle, die vom Technology Innovation Institute
+  entwickelt wurde und für ihre hohe Leistung und Effizienz im Vergleich zu anderen
+  Open-Source-LLMs bekannt ist.
 ---
-
 ## Definition
 
 Falcon bezeichnet eine Reihe leistungsstarker großer Sprachmodelle (LLMs), die vom Technology Innovation Institute erstellt wurden. Diese Modelle, wie Falcon-40B und Falcon-180B, sind darauf ausgelegt, mit proprietären Modellen zu konkurrieren.

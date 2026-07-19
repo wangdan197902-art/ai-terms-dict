@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /da/terms/datasetsearch_qa/
 date: "2026-07-18T15:50:38.986066Z"
 lastmod: "2026-07-18T17:15:09.277467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et datasæt fokuseret på opgaver inden for spørgsmål-svar, afledt af søgemaskinelogs eller webforespørgsler, med vægt på reel informationssøgning."
 ---
-
 ## Definition
 
 Datasæt til Search QA består typisk af par af søgeforespørgsler og relevante svarudsnit eller dokumenter udtrukket fra søgeresultater. Disse datasæt er afgørende for at træne modeller til at forstå og besvare

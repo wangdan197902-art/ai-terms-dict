@@ -1,23 +1,24 @@
 ---
-title: "Hierarchical (แบบลำดับชั้น)"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hierarchical (แบบลำดับชั้น)
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /th/terms/hierarchical/
-date: "2026-07-18T15:25:58.454921Z"
-lastmod: "2026-07-18T16:38:07.540595Z"
+slug: hierarchical
+date: '2026-07-18T15:25:58.454921Z'
+lastmod: '2026-07-18T16:38:07.540595Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หมายถึงสถาปัตยกรรมหรือกลยุทธ์การเรียนรู้ของ AI ที่จัดระเบียบเป็นหลายระดับของความนามธรรม โดยระดับสูงจะควบคุมระดับต่ำ"
+source: agnes_llm
+status: published
+language: th
+description: หมายถึงสถาปัตยกรรมหรือกลยุทธ์การเรียนรู้ของ AI ที่จัดระเบียบเป็นหลายระดับของความนามธรรม
+  โดยระดับสูงจะควบคุมระดับต่ำ
 ---
-
 ## Definition
 
 ระบบ AI แบบลำดับชั้นจัดระเบียบข้อมูลหรือการควบคุมไว้ในโครงสร้างแบบต้นไม้ของชั้นที่ซ้อนกัน ในการเรียนรู้แบบเสริมกำลัง Hierarchical RL จะแยกงานที่ซับซ้อนออกเป็นเป้าหมายย่อยที่จัดการโดย...

@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /hu/terms/gdpr_compliance/
 date: "2026-07-18T16:00:39.079526Z"
 lastmod: "2026-07-18T17:15:09.786208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az Általános Adatvédelmi Rendelet (GDPR) betartása, amely biztosítja, hogy az AI rendszerek tiszteletben tartsák a felhasználók magánéletét és adatjogait."
 ---
-
 ## Definition
 
 A GDPR megfelelés azt a jogi és technikai intézkedéseket jelenti, amelyeket az AI fejlesztőknek meg kell valósítaniuk az európai uniós állampolgárok személyes adatainak védelme érdekében. Az AI rendszerek számára ez olyan elveket foglal magában, mint az adatminimalizálás, a célhoz kötöttség és az átláthatóság.

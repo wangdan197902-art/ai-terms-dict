@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /cs/terms/vector_database/
 date: "2026-07-18T15:31:13.392583Z"
 lastmod: "2026-07-18T17:15:09.081386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Specializovaná databáze navržená pro ukládání, indexování a dotazování vysokorozměrných vektorů reprezentujících vlastnosti dat."
 ---
-
 ## Definition
 
 Vektorové databáze optimalizují ukládání a získávání neštrukturovaných dat jejich převodem na číselná vnoření (embeddings). Používají algoritmy jako Přibližný nejbližší soused (ANN) pro efektivní vyhledávání podobných dat.

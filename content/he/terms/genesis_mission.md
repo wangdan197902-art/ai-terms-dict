@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /he/terms/genesis_mission/
 date: "2026-07-18T16:01:23.149572Z"
 lastmod: "2026-07-18T17:15:09.543330Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "יוזמה ארגונית המתמקדת בהקמת עקרונות יסוד, תשתית והנחיות אתיות לפיתוח בינה מלאכותית יוצרת בעתיד."
 ---
-
 ## Definition
 
 משימת ג'ניסיס מתייחסת בדרך כלל לשלב או פרויקט אסטרטגי בארגון המכוון לטעת את היסודות ליכולות מתקדמות של בינה מלאכותית. פעולה זו כוללת הקמת תשתיות ליבה, הגדרת...

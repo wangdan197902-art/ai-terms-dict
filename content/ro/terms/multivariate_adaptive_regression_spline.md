@@ -1,23 +1,24 @@
 ---
-title: "Spline de regresie adaptativă multivariată"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: Spline de regresie adaptativă multivariată
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /ro/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:13:03.824592Z"
-lastmod: "2026-07-18T17:15:09.684944Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:13:03.824592Z'
+lastmod: '2026-07-18T17:15:09.684944Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de regresie neparametrică care selectează automat funcțiile de bază pentru a modela relații complexe."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de regresie neparametrică care selectează automat funcțiile
+  de bază pentru a modela relații complexe.
 ---
-
 ## Definition
 
 Spline-urile de Regresie Adaptativă Multivariată (MARS) sunt o metodă flexibilă de regresie care modelează relații neliniare complexe prin ajustarea unor funcții de bază liniare pe bucăți. Aceasta selectează automat punctele de cotitură (knots) și direcția funcțiilor pentru a se potrivi datelor.

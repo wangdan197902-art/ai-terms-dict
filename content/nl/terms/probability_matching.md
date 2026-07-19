@@ -1,23 +1,24 @@
 ---
-title: "Waarschijnlijkheidsmatching"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Waarschijnlijkheidsmatching
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /nl/terms/probability_matching/
-date: "2026-07-18T16:13:18.010365Z"
-lastmod: "2026-07-18T17:15:08.778538Z"
+slug: probability_matching
+date: '2026-07-18T16:13:18.010365Z'
+lastmod: '2026-07-18T17:15:08.778538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een beslissingsstrategie waarbij een agent acties selecteert met frequenties die evenredig zijn aan hun geschatte kansen."
+source: agnes_llm
+status: published
+language: nl
+description: Een beslissingsstrategie waarbij een agent acties selecteert met frequenties
+  die evenredig zijn aan hun geschatte kansen.
 ---
-
 ## Definition
 
 Waarschijnlijkheidsmatching is een gedragspatroon dat vaak wordt waargenomen in versterkend leren en de psychologie, in tegenstelling tot optimale 'maximerende' strategieën. In plaats van altijd de actie te kiezen met de hoogste kans, worden acties gekozen op basis van hun relatieve waarschijnlijkheid.

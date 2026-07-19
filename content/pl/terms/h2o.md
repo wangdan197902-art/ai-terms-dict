@@ -1,23 +1,24 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /pl/terms/h2o/
-date: "2026-07-18T15:58:14.424593Z"
-lastmod: "2026-07-18T17:15:08.880751Z"
+slug: h2o
+date: '2026-07-18T15:58:14.424593Z'
+lastmod: '2026-07-18T17:15:08.880751Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Platforma uczenia maszynowego typu open-source o rozproszonej architekturze, obsługująca różne algorytmy analityki predykcyjnej i głębokiego uczenia."
+source: agnes_llm
+status: published
+language: pl
+description: Platforma uczenia maszynowego typu open-source o rozproszonej architekturze,
+  obsługująca różne algorytmy analityki predykcyjnej i głębokiego uczenia.
 ---
-
 ## Definition
 
 H2O to szeroko stosowana, otwartoźródłowa platforma operująca w pamięci (in-memory), przeznaczona do rozproszonego, skalowalnego uczenia maszynowego i analityki predykcyjnej. Oryginalnie stworzona przez dwóch doktorantów Harvardu, zapewnia ujednolicony framework dla budowania modeli.

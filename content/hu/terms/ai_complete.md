@@ -1,23 +1,25 @@
 ---
-title: "MI-komplett"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: MI-komplett
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /hu/terms/ai_complete/
-date: "2026-07-18T15:41:21.509740Z"
-lastmod: "2026-07-18T17:15:09.750100Z"
+slug: ai_complete
+date: '2026-07-18T15:41:21.509740Z'
+lastmod: '2026-07-18T17:15:09.750100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy olyan probléma, amely annyira bonyolult, hogy megoldása emberi szintű általános intelligenciát igényel, így egyenértékű a mesterséges általános intelligencia elérésével."
+source: agnes_llm
+status: published
+language: hu
+description: Egy olyan probléma, amely annyira bonyolult, hogy megoldása emberi szintű
+  általános intelligenciát igényel, így egyenértékű a mesterséges általános intelligencia
+  elérésével.
 ---
-
 ## Definition
 
 Az MI-komplett feladatok azok, amelyek megoldása az általános mesterséges intelligencia (AGI) létezését implikálná. Ezek a feladatok mély megértést, érvelést és alkalmazkodóképességet igényelnek, hasonlóan az emberi kognícióhoz.

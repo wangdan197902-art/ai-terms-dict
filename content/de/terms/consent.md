@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /de/terms/consent/
 date: "2026-07-18T11:08:35.675341Z"
 lastmod: "2026-07-18T11:44:44.920717Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die ausdrückliche, informierte Zustimmung von Personen, dass ihre Daten für KI-Zwecke gesammelt und verarbeitet werden dürfen."
 ---
-
 ## Definition
 
 In der KI-Ethik bezieht sich Einwilligung auf die freiwillige und informierte Erlaubnis, die Nutzer oder Probanden erteilen, bevor ihre persönlichen Daten gesammelt, gespeichert oder in maschinellen Lernmodellen verwendet werden. Sie erfordert Transparenz und die Möglichkeit zum Widerruf.

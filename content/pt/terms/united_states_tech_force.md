@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /pt/terms/united_states_tech_force/
 date: "2026-07-18T15:26:24.969098Z"
 lastmod: "2026-07-18T15:51:59.540736Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um termo demográfico e econômico que se refere à força de trabalho coletiva que impulsiona a inovação tecnológica nos EUA."
 ---
-
 ## Definition
 
 O termo 'Força de Trabalho Tecnológica dos Estados Unidos' geralmente denota o grande segmento do mercado de trabalho americano empregado nos setores de tecnologia, incluindo engenharia de software, ciência de dados e fabricação de hardware.

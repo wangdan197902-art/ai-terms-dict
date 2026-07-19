@@ -1,23 +1,24 @@
 ---
-title: "Pelatihan Presisi Campuran"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Pelatihan Presisi Campuran
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /id/terms/mixed_precision_training/
-date: "2026-07-18T16:00:31.384661Z"
-lastmod: "2026-07-18T16:38:07.483595Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:00:31.384661Z'
+lastmod: '2026-07-18T16:38:07.483595Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik pelatihan yang menggunakan angka titik mengambang 16-bit dan 32-bit untuk mempercepat komputasi dan mengurangi penggunaan memori."
+source: agnes_llm
+status: published
+language: id
+description: Teknik pelatihan yang menggunakan angka titik mengambang 16-bit dan 32-bit
+  untuk mempercepat komputasi dan mengurangi penggunaan memori.
 ---
-
 ## Definition
 
 Pelatihan Presisi Campuran (MPT) menggabungkan tipe data presisi setengah (FP16) dan presisi penuh (FP32) selama pelatihan jaringan saraf. Dengan menggunakan FP16 untuk sebagian besar operasi, MPT mengurangi jejak memori dan i

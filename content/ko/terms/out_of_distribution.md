@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /ko/terms/out_of_distribution/
 date: "2026-07-18T15:32:37.788029Z"
 lastmod: "2026-07-18T16:38:06.791101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델 학습 단계에서 관찰된 분포와 현저히 다른 데이터 포인트."
 ---
-
 ## Definition
 
 분포 밖(OOD) 감지는 학습 데이터 분포의 범위를 벗어난 입력을 식별합니다. 모델은 종종 OOD 데이터에서 성능이 저하되거나 과도하게 확신하며 잘못된 예측을 내므로, 신뢰성 있는 AI 시스템 구축을 위해 이를 감지하고 대응하는 것이 중요합니다.

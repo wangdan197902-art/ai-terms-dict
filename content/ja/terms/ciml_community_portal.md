@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /ja/terms/ciml_community_portal/
 date: "2026-07-18T11:07:05.986326Z"
 lastmod: "2026-07-18T11:44:45.075146Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "計算知能と機械学習の研究者および実務者の間で、コラボレーション、リソース共有、議論を促進する集中型オンラインプラットフォーム。"
 ---
-
 ## Definition
 
 CIMLコミュニティポータルは、計算知能に焦点を当てた学術的および専門的なコミュニティのためのデジタルハブとして機能します。データセット、事前学習済みモデル、研究論文へのアクセスを提供します。

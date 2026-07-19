@@ -1,23 +1,24 @@
 ---
-title: "Motore educabile per tris basato su fiammiferi"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Motore educabile per tris basato su fiammiferi
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /it/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:10:18.835228Z"
-lastmod: "2026-07-18T17:15:08.647546Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:10:18.835228Z'
+lastmod: '2026-07-18T17:15:08.647546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un dispositivo fisico di apprendimento per rinforzo costruito da Donald Michie nel 1961 per giocare a Tris utilizzando fiammiferi e perline."
+source: agnes_llm
+status: published
+language: it
+description: Un dispositivo fisico di apprendimento per rinforzo costruito da Donald
+  Michie nel 1961 per giocare a Tris utilizzando fiammiferi e perline.
 ---
-
 ## Definition
 
 Il motore ME-Tris è stato una prima dimostrazione di apprendimento automatico, specificamente di apprendimento per rinforzo. Costruito con 304 fiammiferi, ognuno rappresentante uno stato unico della scacchiera, il sist

@@ -1,23 +1,24 @@
 ---
-title: "MXFP4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: MXFP4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /de/terms/mxfp4/
-date: "2026-07-18T11:25:05.491075Z"
-lastmod: "2026-07-18T11:44:44.968923Z"
+slug: mxfp4
+date: '2026-07-18T11:25:05.491075Z'
+lastmod: '2026-07-18T11:44:44.968923Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "MXFP4 ist ein gemischter Gleitkomma-Formatstandard, der für effiziente Matrixmultiplikationen in KI-Hardwarebeschleunigern optimiert ist."
+source: agnes_llm
+status: published
+language: de
+description: MXFP4 ist ein gemischter Gleitkomma-Formatstandard, der für effiziente
+  Matrixmultiplikationen in KI-Hardwarebeschleunigern optimiert ist.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) ist ein spezialisierter Datentyp, der eingeführt wurde, um die Leistung zu optimieren und den Speicherbandbreitenverbrauch bei KI-Anwendungen zu reduzieren. Durch die Unterstützung von Operationen mit gemischter Präzision ermöglicht er eine effizientere Nutzung der Hardwarekapazitäten bei gleichzeitiger Verringerung des Speicherbedarfs.

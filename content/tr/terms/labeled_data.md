@@ -1,23 +1,24 @@
 ---
-title: "Etiketli Veri"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Etiketli Veri
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /tr/terms/labeled_data/
-date: "2026-07-18T16:00:13.733499Z"
-lastmod: "2026-07-18T16:38:07.325839Z"
+slug: labeled_data
+date: '2026-07-18T16:00:13.733499Z'
+lastmod: '2026-07-18T16:38:07.325839Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Girdi özelliklerinin yanı sıra doğru çıktı veya hedef değerin de sağlandığı veri."
+source: agnes_llm
+status: published
+language: tr
+description: Girdi özelliklerinin yanı sıra doğru çıktı veya hedef değerin de sağlandığı
+  veri.
 ---
-
 ## Definition
 
 Etiketli veri, denetimli makine öğreniminin temelini oluşturan, girdi örneklerini karşılık gelen gerçek etiketlerle eşleyen bir yapıdır. Algoritmaların girdi ile çıktı arasındaki haritalamayı öğrenmesini sağlar.

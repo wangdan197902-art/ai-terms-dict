@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /hu/terms/artificial_consciousness/
 date: "2026-07-18T15:44:31.017561Z"
 lastmod: "2026-07-18T17:15:09.754283Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az az elméleti koncepció, amely gépeknek szubjektív tapasztalatokkal, öntudattal és az emberekhez hasonló érzékenységgel ruházza fel őket."
 ---
-
 ## Definition
 
 A mesterséges tudatosság a gépek létrehozásának lehetőségét vizsgálja, amelyek valódi szubjektív tapasztalatokkal, öntudattal és érzelmekkel rendelkeznek, nem csupán az intelligens viselkedés szimulálásával. Ez a terület filozófiai és tudományos vitákat vált ki az önreflexió és az érzelmi intelligencia természetéről.

@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /no/terms/glm/
 date: "2026-07-18T15:57:05.643594Z"
 lastmod: "2026-07-18T16:38:07.004849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "GLM refererer vanligvis til Generalized Linear Models (generaliserte lineære modeller) i statistikk, eller General Language Model-serien utviklet av Zhipu AI."
 ---
-
 ## Definition
 
 Inne statistisk modellering står GLM for Generalized Linear Models (generaliserte lineære modeller), som utvider lineær regresjon for å tillate responsvariabler med feilfordelingsmodeller andre enn normale fordelinger. Inne

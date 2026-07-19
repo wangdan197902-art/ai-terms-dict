@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /da/terms/extensive/
 date: "2026-07-18T15:24:47.791210Z"
 lastmod: "2026-07-18T17:15:09.223847Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Beskriver AI-datasæt, beregninger eller evalueringer, der dækker et stort omfang, volumen eller bredde af scenarier."
 ---
-
 ## Definition
 
 Udstrakt refererer til skalaen og omfanget af AI-operationer, såsom datasæt i stor skala, brede evalueringssæt eller tunge beregningsbelastninger. Et udstrakt datasæt sikrer modellens generaliseringsevne og robusthed...

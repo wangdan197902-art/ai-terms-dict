@@ -1,23 +1,23 @@
 ---
-title: "核密度估计"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: 核密度估计
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /zh/terms/kernel_density_estimation/
-date: "2026-07-18T11:22:59.294449Z"
-lastmod: "2026-07-18T11:44:45.520254Z"
+slug: kernel_density_estimation
+date: '2026-07-18T11:22:59.294449Z'
+lastmod: '2026-07-18T11:44:45.520254Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种非参数方法，用于根据有限的数据样本来估计随机变量的概率密度函数。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种非参数方法，用于根据有限的数据样本来估计随机变量的概率密度函数。
 ---
-
 ## Definition
 
 核密度估计（KDE）是一种基本的统计技术，通过对离散数据点进行平滑处理，生成连续的概率分布曲线。它在每个数据点处放置一个核函数（通常为高斯核），并将这些核函数叠加起来，从而估计出潜在的概率密度函数。

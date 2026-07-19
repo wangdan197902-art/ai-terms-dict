@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /hu/terms/multi_step/
 date: "2026-07-18T15:35:57.639806Z"
 lastmod: "2026-07-18T17:15:09.736180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy problémamegoldó stratégia, amely logikai műveletek vagy számítások sorozatának végrehajtását igényli a végső megoldás eléréséhez."
 ---
-
 ## Definition
 
 A többlépéses módszerek egy komplex lekérdezés vagy feladat kisebb, végrehajtható lépésekre bontását jelentik. Ez a megközelítés kritikus fontosságú az érvelési feladatokban, például matematikai problémamegoldásban vagy kódgenerálásban.

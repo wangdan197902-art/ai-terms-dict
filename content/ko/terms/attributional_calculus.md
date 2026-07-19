@@ -1,23 +1,23 @@
 ---
-title: "귀속 논리"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: 귀속 논리
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /ko/terms/attributional_calculus/
-date: "2026-07-18T15:42:35.755203Z"
-lastmod: "2026-07-18T16:38:06.810515Z"
+slug: attributional_calculus
+date: '2026-07-18T15:42:35.755203Z'
+lastmod: '2026-07-18T16:38:06.810515Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "지식 귀속, 특히 누가 무엇을 알고 있거나 믿는지를 표현하고 추론하는 데 사용되는 형식적 논리 체계입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 지식 귀속, 특히 누가 무엇을 알고 있거나 믿는지를 표현하고 추론하는 데 사용되는 형식적 논리 체계입니다.
 ---
-
 ## Definition
 
 귀속 논리는 인식론적 상태에 대한 추론에 중점을 둔 모달 논리의 한 분야입니다. 이는 ' 에이전트 A가 P를 안다' 또는 '에이전트 B가 Q를 믿는다'와 같은 문장을 모델링하기 위한 틀을 제공합니다.

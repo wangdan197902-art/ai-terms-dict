@@ -1,23 +1,24 @@
 ---
-title: "Tesztelés"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Tesztelés
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /hu/terms/testing/
-date: "2026-07-18T15:39:55.777456Z"
-lastmod: "2026-07-18T17:15:09.745944Z"
+slug: testing
+date: '2026-07-18T15:39:55.777456Z'
+lastmod: '2026-07-18T17:15:09.745944Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A rendszeres folyamat az AI-modellek teljesítményének és megbízhatóságának értékelése láthatatlan adatokon a minőség és biztonság biztosítása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: A rendszeres folyamat az AI-modellek teljesítményének és megbízhatóságának
+  értékelése láthatatlan adatokon a minőség és biztonság biztosítása érdekében.
 ---
-
 ## Definition
 
 Az AI mérnöki területeken a tesztelés magában foglalja a modellek szigorú ellenőrzését változatos adathalmazok segítségével a torzítások, hibák és robusztussági problémák azonosítására. Ide tartoznak az egységtesztek, integrációs tesztek stb.

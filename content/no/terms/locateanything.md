@@ -1,23 +1,24 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /no/terms/locateanything/
-date: "2026-07-18T16:03:36.603556Z"
-lastmod: "2026-07-18T16:38:07.020625Z"
+slug: locateanything
+date: '2026-07-18T16:03:36.603556Z'
+lastmod: '2026-07-18T16:38:07.020625Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et åpen kildekode-rammeverk designet for null-skudd lokalisering og segmentering av objekter på tvers av ulike visuelle domener uten oppgavespesifikk trening."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et åpen kildekode-rammeverk designet for null-skudd lokalisering og segmentering
+  av objekter på tvers av ulike visuelle domener uten oppgavespesifikk trening.
 ---
-
 ## Definition
 
 LocateAnything er et allsidig datamaskinsehrammeverk som muliggjør deteksjon og segmentering av objekter i bilder basert på naturlige språkprompter eller generelle føringer. Det utnytter forhåndstrengte modeller for å forstå og identifisere objekter i nye, ukjente kontekster uten behov for ytterligere finjustering.

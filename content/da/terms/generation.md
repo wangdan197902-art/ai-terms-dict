@@ -1,23 +1,24 @@
 ---
-title: "Generering"
-term_id: "generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "nlp", "multimodal"]
+title: Generering
+term_id: generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- NLP
+- multimodal
 difficulty: 3
 weight: 1
-slug: "generation"
-aliases:
-  - /da/terms/generation/
-date: "2026-07-18T15:25:25.437071Z"
-lastmod: "2026-07-18T17:15:09.225073Z"
+slug: generation
+date: '2026-07-18T15:25:25.437071Z'
+lastmod: '2026-07-18T17:15:09.225073Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen, hvor generative modeller skaber nye dataeksempler, der ligner træningsfordelingen."
+source: agnes_llm
+status: published
+language: da
+description: Processen, hvor generative modeller skaber nye dataeksempler, der ligner
+  træningsfordelingen.
 ---
-
 ## Definition
 
 Inden for kunstig intelligens refererer generering til modellers evne, især Generative Adversarial Networks (GANs) og Transformer-baserede store sprogmodeller (LLMs), til at producere nyt indhold såsom tekst og billeder.

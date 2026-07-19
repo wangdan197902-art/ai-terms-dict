@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /tr/terms/adam/
 date: "2026-07-18T15:23:14.455803Z"
 lastmod: "2026-07-18T16:38:07.226416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Her parametre için uyarlanabilir öğrenme hızları hesaplayan bir optimizasyon algoritması."
 ---
-
 ## Definition
 
 Adam (Adaptive Moment Estimation), derin sinir ağlarının eğitiminde kullanılan popüler birinci mertebeden gradyan tabanlı bir optimizasyon algoritmasıdır. Stokastik optimizasyonun iki diğer uzantısının avantajlarını birleştirir.

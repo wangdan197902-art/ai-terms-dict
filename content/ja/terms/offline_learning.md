@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /ja/terms/offline_learning/
 date: "2026-07-18T11:26:14.779386Z"
 lastmod: "2026-07-18T11:44:45.128246Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "オフライン学習とは、学習フェーズ中にライブ環境と相互作用せずに、静的データセットを用いてモデルを訓練する学習パラダイムです。"
 ---
-
 ## Definition
 
 バッチ学習とも呼ばれるオフライン学習は、以前収集された固定されたデータセットを使用して機械学習モデルを訓練するプロセスです。オンライン学習とは異なり、モデルはリアルタイムのフィードバックに基づいてパラメータを更新しません。

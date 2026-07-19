@@ -1,23 +1,26 @@
 ---
-title: "Αρχείο Μονού Αρχείου Διάχυσης"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Αρχείο Μονού Αρχείου Διάχυσης
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /el/terms/diffusion_single_file/
-date: "2026-07-18T16:03:56.028174Z"
-lastmod: "2026-07-18T17:15:09.902407Z"
+slug: diffusion_single_file
+date: '2026-07-18T16:03:56.028174Z'
+lastmod: '2026-07-18T17:15:09.902407Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μορφή διανομής μοντέλων διάχυσης όπου όλα τα βάρη, οι διαμορφώσεις και μερικές φορές ο κώδικας συμπερίληψης ενσωματώνονται σε ένα αρχείο για εύκολη μεταφορά."
+source: agnes_llm
+status: published
+language: el
+description: Μια μορφή διανομής μοντέλων διάχυσης όπου όλα τα βάρη, οι διαμορφώσεις
+  και μερικές φορές ο κώδικας συμπερίληψης ενσωματώνονται σε ένα αρχείο για εύκολη
+  μεταφορά.
 ---
-
 ## Definition
 
 Το Diffusion Single File αναφέρεται σε μια στρατηγική συσκευασίας για μοντέλα μηχανικής μάθησης, ιδιαίτερα μοντέλα διάχυσης, όπου ολόκληρο το αντικείμενο του μοντέλου — συμπεριλαμβανομένων των δυαδικών βαρών, των υπερπαραμέτρων και της αρχιτεκτονικής — συγκεντρώνεται σε ένα αρχείο.

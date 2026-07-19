@@ -1,23 +1,23 @@
 ---
-title: "自监督"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: 自监督
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /zh/terms/self_supervised/
-date: "2026-07-18T10:57:22.743731Z"
-lastmod: "2026-07-18T11:44:45.395310Z"
+slug: self_supervised
+date: '2026-07-18T10:57:22.743731Z'
+lastmod: '2026-07-18T11:44:45.395310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "自监督学习是一种技术，模型从输入数据中自动生成标签以学习表示，无需人工标注。"
+source: agnes_llm
+status: published
+language: zh
+description: 自监督学习是一种技术，模型从输入数据中自动生成标签以学习表示，无需人工标注。
 ---
-
 ## Definition
 
 自监督学习是机器学习的一个子集，其监督信号自动从数据本身派生，消除了手动标注的需求。模型通常通过解决预设的代理任务来学习数据的内在结构和表示。

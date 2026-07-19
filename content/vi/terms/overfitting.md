@@ -1,23 +1,24 @@
 ---
-title: "Quá khớp"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Quá khớp
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /vi/terms/overfitting/
-date: "2026-07-18T15:36:34.989893Z"
-lastmod: "2026-07-18T16:38:07.711852Z"
+slug: overfitting
+date: '2026-07-18T15:36:34.989893Z'
+lastmod: '2026-07-18T16:38:07.711852Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Lỗi mô hình hóa khi thuật toán học máy nắm bắt nhiễu thay vì tín hiệu nền tảng, gây hại cho khả năng tổng quát hóa."
+source: agnes_llm
+status: published
+language: vi
+description: Lỗi mô hình hóa khi thuật toán học máy nắm bắt nhiễu thay vì tín hiệu
+  nền tảng, gây hại cho khả năng tổng quát hóa.
 ---
-
 ## Definition
 
 Quá khớp xảy ra khi một mô hình học dữ liệu huấn luyện quá mức, bao gồm cả nhiễu ngẫu nhiên và các giá trị ngoại lai, dẫn đến hiệu suất xuất sắc trên dữ liệu huấn luyện nhưng kém hiệu quả trên dữ liệu kiểm tra mới, chưa nhìn thấy.

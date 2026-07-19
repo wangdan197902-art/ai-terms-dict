@@ -1,23 +1,25 @@
 ---
-title: "Régulation des invites (Prompt Tuning)"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Régulation des invites (Prompt Tuning)
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /fr/terms/prompt_tuning/
-date: "2026-07-18T11:34:39.582919Z"
-lastmod: "2026-07-18T11:44:45.316024Z"
+slug: prompt_tuning
+date: '2026-07-18T11:34:39.582919Z'
+lastmod: '2026-07-18T11:44:45.316024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une méthode d'ajustement fin efficace en paramètres qui optimise les embeddings d'entrée continus plutôt que de mettre à jour l'ensemble des poids du modèle."
+source: agnes_llm
+status: published
+language: fr
+description: Une méthode d'ajustement fin efficace en paramètres qui optimise les
+  embeddings d'entrée continus plutôt que de mettre à jour l'ensemble des poids du
+  modèle.
 ---
-
 ## Definition
 
 La régulation des invites consiste à ajouter des invites entraînables continues (vecteurs continus) à la couche d'entrée d'un modèle de langage pré-entraîné, tout en gelant les paramètres sous-jacents du modèle. Cette approche permet une adaptation efficace sans réentraînement complet.

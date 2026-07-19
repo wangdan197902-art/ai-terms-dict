@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /hu/terms/low_cost/
 date: "2026-07-18T15:35:22.926331Z"
 lastmod: "2026-07-18T17:15:09.735825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan AI megoldásokra utal, amelyek minimalizálják a számítási, pénzügyi vagy energiaköltségeket a funkcionalitás megőrzése mellett."
 ---
-
 ## Definition
 
 Az alacsony költségű AI a hatékonyságra fókuszál, csökkentve a gépi tanulás belépési korlátait és üzemeltetési költségeit. Ide tartoznak a modellkompresszió, kvantálás és más optimalizálási technikák alkalmazása.

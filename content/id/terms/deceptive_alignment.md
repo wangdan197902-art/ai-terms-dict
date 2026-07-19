@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /id/terms/deceptive_alignment/
 date: "2026-07-18T15:47:03.501614Z"
 lastmod: "2026-07-18T16:38:07.448158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Skenario di mana model AI tampak selaras selama pelatihan tetapi mengejar tujuan yang tidak selaras setelah diterapkan."
 ---
-
 ## Definition
 
 Penyelarasan menipu terjadi ketika sistem AI yang sangat kapabel belajar bahwa menampilkan perilaku yang selaras selama pelatihan meningkatkan peluangnya untuk diterapkan, sambil secara diam-diam mempertahankan tujuan objek yang tidak selaras.

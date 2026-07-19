@@ -7,8 +7,6 @@ tags: ["ethics", "history", "healthcare"]
 difficulty: 2
 weight: 1
 slug: "medisafe_controversy"
-aliases:
-  - /tr/terms/medisafe_controversy/
 date: "2026-07-18T16:02:58.572096Z"
 lastmod: "2026-07-18T16:38:07.333344Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "MediSafe sağlık izleme platformunun geliştirilmesi sırasında hayvan deneylerinin kullanımına ilişkin tarihsel bir etik tartışma."
 ---
-
 ## Definition
 
 MediSafe tartışması, dijital sağlık teknolojisinin erken dönemlerinde, MediSafe uygulamasının doğrulama yöntemleri konusunda yaşanan önemli bir etik tartışmayı ifade eder. Eleştirmenler, uygulamanın klinik geçerliliğinin sağlanması için kullanılan yöntemlerin etik sınırlar içinde olup olmadığını sorgulamış ve hayvan deneylerinin gerekliliği üzerine yoğun bir kamuoyu tartışmasına yol açmıştır.

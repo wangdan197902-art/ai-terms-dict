@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /tr/terms/scientific/
 date: "2026-07-18T15:29:05.597218Z"
 lastmod: "2026-07-18T16:38:07.243226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada bilimsel, araştırmada sıkı ampirik yöntemlerin, hipotez testlerinin ve tekrarlanabilirliğin uygulanmasını ifade eder."
 ---
-
 ## Definition
 
 Yapay zekadaki bilimsel yaklaşım, kanıta dayalı geliştirme ve doğrulamayı vurgular. Model davranışı hakkında hipotezler kurmayı, kontrollü deneyler yürütmeyi ve sonuçları istatistiksel olarak analiz etmeyi içerir.

@@ -1,23 +1,24 @@
 ---
-title: "דיפוזיה"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: דיפוזיה
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /he/terms/diffusion/
-date: "2026-07-18T15:24:16.278463Z"
-lastmod: "2026-07-18T17:15:09.475198Z"
+slug: diffusion
+date: '2026-07-18T15:24:16.278463Z'
+lastmod: '2026-07-18T17:15:09.475198Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת מודלינג יצירתית היוצרת נתונים על ידי הפיכת תהליך רעש הדרגתי כדי לשחזר דוגמאות נקיות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת מודלינג יצירתית היוצרת נתונים על ידי הפיכת תהליך רעש הדרגתי כדי
+  לשחזר דוגמאות נקיות.
 ---
-
 ## Definition
 
 מודלי דיפוזיה הם סוג של בינה מלאכותית יוצרת שלומדת להפוך תהליך סטוכסטי של הוספת רעש לנתונים. על ידי אימון רשת עצבית לחזות ולהסיר את הרעש שלב אחר שלב, הם יכולים לייצר נתונים חדשים ואיכותיים.

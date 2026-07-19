@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /it/terms/training_free/
 date: "2026-07-18T15:34:15.180860Z"
 lastmod: "2026-07-18T17:15:08.582376Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Metodi che adattano o migliorano i modelli senza eseguire aggiornamenti dei parametri basati sui gradienti."
 ---
-
 ## Definition
 
 Gli approcci senza addestramento si riferiscono a tecniche che modificano il comportamento o l'output del modello senza aggiornare i pesi sottostanti tramite backpropagation. Questi metodi spesso sfruttano l'ingegneria dei prompt, le caratteristiche...

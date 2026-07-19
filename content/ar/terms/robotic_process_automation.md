@@ -7,8 +7,6 @@ tags: ["business", "automation", "efficiency"]
 difficulty: 1
 weight: 1
 slug: "robotic_process_automation"
-aliases:
-  - /ar/terms/robotic_process_automation/
 date: "2026-07-18T16:19:37.068436Z"
 lastmod: "2026-07-18T17:15:08.545089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "استخدام برامج روبوتية لأتمتة المهام الرقمية المتكررة وعالية الحجم التي كان يؤديها البشر تقليدياً في العمليات التجارية."
 ---
-
 ## Definition
 
 تستخدم الأتمتة الروبوتية للعمليات (RPA) روبوتات برمجية، غالباً ما تكون مدعومة بالذكاء الاصطناعي، لمحاكاة تفاعلات الإنسان مع الأنظمة الرقمية. وتُستخدم لتبسيط سير العمل مثل إدخال البيانات ومعالجة الفواتير.

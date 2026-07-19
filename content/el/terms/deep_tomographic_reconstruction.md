@@ -1,23 +1,25 @@
 ---
-title: "Βαθιά Τομογραφική Ανακατασκευή"
-term_id: "deep_tomographic_reconstruction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["imaging", "medical_ai", "reconstruction"]
+title: Βαθιά Τομογραφική Ανακατασκευή
+term_id: deep_tomographic_reconstruction
+category: basic_concepts
+subcategory: ''
+tags:
+- imaging
+- Medical AI
+- reconstruction
 difficulty: 4
 weight: 1
-slug: "deep_tomographic_reconstruction"
-aliases:
-  - /el/terms/deep_tomographic_reconstruction/
-date: "2026-07-18T16:01:57.235895Z"
-lastmod: "2026-07-18T17:15:09.899696Z"
+slug: deep_tomographic_reconstruction
+date: '2026-07-18T16:01:57.235895Z'
+lastmod: '2026-07-18T17:15:09.899696Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια υπολογιστική τεχνική απεικόνισης που χρησιμοποιεί βαθιά νευρωνικά δίκτυα για την ανακατασκευή εικόνων διατομής υψηλής ποιότητας από αραιά ή θορυβώδη δεδομένα προβολών."
+source: agnes_llm
+status: published
+language: el
+description: Μια υπολογιστική τεχνική απεικόνισης που χρησιμοποιεί βαθιά νευρωνικά
+  δίκτυα για την ανακατασκευή εικόνων διατομής υψηλής ποιότητας από αραιά ή θορυβώδη
+  δεδομένα προβολών.
 ---
-
 ## Definition
 
 Η Βαθιά Τομογραφική Ανακατασκευή αποτελεί μια σημαντική εξέλιξη σε σχέση με τις παραδοσιακές αλγεβρικές ή αναλυτικές μεθόδους, όπως η φιλτραρισμένη οπισθοπροβολή. Εκμεταλλεύοντας τα δικτύα νευρωνικών κυψελίδων (CNNs)

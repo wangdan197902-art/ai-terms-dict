@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /it/terms/fine/
 date: "2026-07-18T15:25:06.363592Z"
 lastmod: "2026-07-18T17:15:08.565976Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il fine-tuning si riferisce al processo di adattamento di un modello AI pre-addestrato a un compito o dominio specifico utilizzando dati aggiuntivi."
 ---
-
 ## Definition
 
 Il fine-tuning consiste nel prendere un modello generico addestrato su grandi dataset e addestrarlo ulteriormente su un dataset più piccolo e specializzato per migliorarne le prestazioni su compiti specifici. Questa tecnica sfrutta...

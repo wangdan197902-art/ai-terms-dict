@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /ro/terms/explainability/
 date: "2026-07-18T15:35:38.176692Z"
 lastmod: "2026-07-18T17:15:09.613946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Explicabilitatea se referă la gradul în care un om poate înțelege cauza unei decizii luate de un model de inteligență artificială."
 ---
-
 ## Definition
 
 Acest concept abordează problema „cutiei negre” în sistemele complexe de IA, oferind informații despre modul în care modelele ajung la anumite predicții. Tehnici precum SHAP sau LIME ajută la vizualizarea importanței caracteristicilor.

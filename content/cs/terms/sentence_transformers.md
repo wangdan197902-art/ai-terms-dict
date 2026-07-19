@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /cs/terms/sentence_transformers/
 date: "2026-07-18T16:17:04.605109Z"
 lastmod: "2026-07-18T17:15:09.199731Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Architektury neuronových sítí specificky navržené pro generování pevně velikostních vektorových vložení pro libovolné textové věty."
 ---
-
 ## Definition
 
 Transformery pro věty jsou rozšířením tradičních modelů Transformer (jako je BERT), které jsou doladěny tak, aby produkovaly smysluplné husté vektorové reprezentace pro celé věty. Na rozdíl od standardních modelů na úrovni tokenů...

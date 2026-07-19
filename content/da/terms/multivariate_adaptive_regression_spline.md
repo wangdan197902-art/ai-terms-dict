@@ -1,23 +1,24 @@
 ---
-title: "Multivariat adaptiv regressions-spline"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: Multivariat adaptiv regressions-spline
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /da/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:09:00.675819Z"
-lastmod: "2026-07-18T17:15:09.314599Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:09:00.675819Z'
+lastmod: '2026-07-18T17:15:09.314599Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En ikke-parametrisk regressionsmetode, der automatisk vælger basisfunktioner til at modellere komplekse sammenhænge."
+source: agnes_llm
+status: published
+language: da
+description: En ikke-parametrisk regressionsmetode, der automatisk vælger basisfunktioner
+  til at modellere komplekse sammenhænge.
 ---
-
 ## Definition
 
 Multivariate Adaptive Regression Splines (MARS) er en fleksibel regressionsmetode, der modellerer komplekse ikke-lineære sammenhænge ved at tilpasse stykkevis lineære basisfunktioner. Den vælger automatisk de bedste knudepunkter.

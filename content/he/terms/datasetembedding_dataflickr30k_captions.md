@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /he/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:51:49.302931Z"
 lastmod: "2026-07-18T17:15:09.527324Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת נתונים רב-מודלית המקשרת בין 31,000 תמונות לכיתובים שנוצרו על ידי בני אדם, כדי לאמן מודלי הטמעה חוצי-מודליות."
 ---
-
 ## Definition
 
 כיתובי Flickr30K היא מערכת נתוני בנק סימון נפוצה הכוללת 31,783 תמונות, שלכל אחת מהן חמישה משפטים אנגליים שונים המתארים את התוכן החזותי. היא משמשת כמשאב יסודי...

@@ -1,23 +1,24 @@
 ---
-title: "Matching"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: Matching
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /th/terms/matching/
-date: "2026-07-18T15:26:57.769597Z"
-lastmod: "2026-07-18T16:38:07.542693Z"
+slug: matching
+date: '2026-07-18T15:26:57.769597Z'
+lastmod: '2026-07-18T16:38:07.542693Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Matching คือการจัดแนวจุดข้อมูลหรือคุณลักษณะสองชุดเพื่อระบุความสัมพันธ์ ความคล้ายคลึง หรือการจับคู่ที่เหมาะสมที่สุดระหว่างกัน"
+source: agnes_llm
+status: published
+language: th
+description: Matching คือการจัดแนวจุดข้อมูลหรือคุณลักษณะสองชุดเพื่อระบุความสัมพันธ์
+  ความคล้ายคลึง หรือการจับคู่ที่เหมาะสมที่สุดระหว่างกัน
 ---
-
 ## Definition
 
 Matching เป็นเทคนิคสำคัญในการเรียนรู้ของเครื่องที่ใช้สร้างความสัมพันธ์ระหว่างสิ่งมีชีวิตข้อมูลที่แตกต่างกัน ในวิทยาการคอมพิวเตอร์วิสัยทัศน์ การจับคู่คุณลักษณะจะระบุจุดที่สอดคล้องกันข้ามภาพต่างๆ

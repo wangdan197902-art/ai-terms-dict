@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /fr/terms/domain_adaptation/
 date: "2026-07-18T11:14:58.935340Z"
 lastmod: "2026-07-18T11:44:45.244680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une méthode d'apprentissage automatique qui améliore les performances du modèle sur un domaine cible en exploitant les connaissances d'un domaine source."
 ---
-
 ## Definition
 
 L'adaptation de domaine répond au défi lorsque les données d'entraînement et de test proviennent de distributions différentes. En alignant les représentations de caractéristiques entre un domaine source étiqueté et un domaine cible non étiqueté ou peu étiqueté.

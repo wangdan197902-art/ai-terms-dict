@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /th/terms/vehicle/
 date: "2026-07-18T15:31:38.957782Z"
 lastmod: "2026-07-18T16:38:07.552724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ในบริบทของ AI คำนี้มักหมายถึงแพลตฟอร์มหรือสื่อกลางที่โมเดล AI ถูกนำไปใช้งานหรือส่งมอบไปยังผู้ใช้ปลายทาง"
 ---
-
 ## Definition
 
 แม้ความหมายดั้งเดิมจะหมายถึงยานพาหนะ แต่ในศัพท์แสง AI คำว่า 'vehicle' สามารถใช้เปรียบเทียบเพื่ออธิบายกลไกการส่งมอบบริการอัจฉริยะ เช่น แอปพลิเคชันมือถือ อินเทอร์เฟซเว็บ หรือระบบฝังตัว

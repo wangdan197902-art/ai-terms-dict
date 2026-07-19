@@ -1,23 +1,25 @@
 ---
-title: "Mise en cache"
-term_id: "caching"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "engineering", "performance"]
+title: Mise en cache
+term_id: caching
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- engineering
+- performance
 difficulty: 2
 weight: 1
-slug: "caching"
-aliases:
-  - /fr/terms/caching/
-date: "2026-07-18T11:07:44.023903Z"
-lastmod: "2026-07-18T11:44:45.205579Z"
+slug: caching
+date: '2026-07-18T11:07:44.023903Z'
+lastmod: '2026-07-18T11:44:45.205579Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La mise en cache est une technique consistant à stocker les données fréquemment accédées dans une couche de stockage temporaire à haute vitesse afin de réduire la latence et de diminuer la charge sur "
+source: agnes_llm
+status: published
+language: fr
+description: 'La mise en cache est une technique consistant à stocker les données
+  fréquemment accédées dans une couche de stockage temporaire à haute vitesse afin
+  de réduire la latence et de diminuer la charge sur '
 ---
-
 ## Definition
 
 En ingénierie de l'IA, la mise en cache optimise les performances en conservant les résultats de requêtes récents ou fréquents, les prédictions de modèles ou les calculs intermédiaires dans une mémoire rapide (comme la RAM). Cela réduit le besoin d'exécuter des opérations coûteuses ou de solliciter des bases de données distantes à chaque demande.

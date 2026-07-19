@@ -1,23 +1,23 @@
 ---
-title: "プロンプトチューニング"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: プロンプトチューニング
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /ja/terms/prompt_tuning/
-date: "2026-07-18T11:28:57.680411Z"
-lastmod: "2026-07-18T11:44:45.134434Z"
+slug: prompt_tuning
+date: '2026-07-18T11:28:57.680411Z'
+lastmod: '2026-07-18T11:44:45.134434Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデル全体の重みを更新するのではなく、連続的な入力埋め込みを最適化することで、パラメータ効率の高いファインチューニング手法。"
+source: agnes_llm
+status: published
+language: ja
+description: モデル全体の重みを更新するのではなく、連続的な入力埋め込みを最適化することで、パラメータ効率の高いファインチューニング手法。
 ---
-
 ## Definition
 
 プロンプトチューニングは、事前学習済み言語モデルの入力層にトレーニング可能なソフトプロンプト（連続ベクトル）を追加し、基盤となるモデルのパラメータは凍結したままにするアプローチです。この手法により、大規模なモデルパラメータを更新することなく、特定タスクに適応させることが可能になります。

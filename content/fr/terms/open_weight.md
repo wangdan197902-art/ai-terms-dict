@@ -1,23 +1,23 @@
 ---
-title: "open-weight"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: open-weight
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /fr/terms/open_weight/
-date: "2026-07-18T10:58:12.438853Z"
-lastmod: "2026-07-18T11:44:45.180241Z"
+slug: open_weight
+date: '2026-07-18T10:58:12.438853Z'
+lastmod: '2026-07-18T11:44:45.180241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Modèles d'IA dont les paramètres entraînés (poids) sont publiés, mais dont le code d'entraînement et les jeux de données peuvent rester privés."
+source: agnes_llm
+status: published
+language: fr
+description: Modèles d'IA dont les paramètres entraînés (poids) sont publiés, mais
+  dont le code d'entraînement et les jeux de données peuvent rester privés.
 ---
-
 ## Definition
 
 Les modèles open-weight diffèrent des modèles IA entièrement open-source car seuls les paramètres appris finaux sont publiés, pas nécessairement l'infrastructure ou les données utilisées pour les créer. Cela permet aux utilisateurs d'exécuter l'inférence

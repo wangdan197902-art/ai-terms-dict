@@ -1,23 +1,23 @@
 ---
-title: "قائمة القرارات"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: قائمة القرارات
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /ar/terms/decision_list/
-date: "2026-07-18T15:53:02.034315Z"
-lastmod: "2026-07-18T17:15:08.494538Z"
+slug: decision_list
+date: '2026-07-18T15:53:02.034315Z'
+lastmod: '2026-07-18T17:15:08.494538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مصنف قابل للتفسير يتكون من قائمة مرتبة من القواعد، حيث يحدد أول قاعدة متطابقة المخرج."
+source: agnes_llm
+status: published
+language: ar
+description: مصنف قابل للتفسير يتكون من قائمة مرتبة من القواعد، حيث يحدد أول قاعدة
+  متطابقة المخرج.
 ---
-
 ## Definition
 
 قائمة القرارات هي نوع من نماذج تعلم الآلة التي تمثل المعرفة كسلسلة من القواعد الشرطية. تتكون كل قاعدة من شرط وعلامة فئة متوقعة. عند تصنيف بيانات جديدة...

@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /tr/terms/large_scale/
 date: "2026-07-18T15:31:46.948864Z"
 lastmod: "2026-07-18T16:38:07.250086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Devasa veri hacimleri, parametreler veya hesaplama kaynaklarıyla çalışan yapay zeka sistemlerini veya veri setlerini tanımlar."
 ---
-
 ## Definition
 
 Büyük ölçekli, genellikle milyarlarca parametre, terabaytlarca eğitim verisi veya dağıtık hesaplama kümeleri içeren bir yapay zeka sistemindeki bileşenlerin büyüklüğünü ifade eder. Bu yaklaşım, tem...

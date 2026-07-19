@@ -1,23 +1,23 @@
 ---
-title: "จากสิ่งใดสู่สิ่งใด"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: จากสิ่งใดสู่สิ่งใด
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /th/terms/any_to_any/
-date: "2026-07-18T15:41:19.206896Z"
-lastmod: "2026-07-18T16:38:07.573168Z"
+slug: any_to_any
+date: '2026-07-18T15:41:19.206896Z'
+lastmod: '2026-07-18T16:38:07.573168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ความสามารถของ AI แบบสร้างเนื้อหา ที่อนุญาตให้โมเดลแปลงอินพุตจากมอดาลิตีหนึ่งออกเป็นเอาต์พุตในมอดาลิตีอื่นแบบอิสระ"
+source: agnes_llm
+status: published
+language: th
+description: ความสามารถของ AI แบบสร้างเนื้อหา ที่อนุญาตให้โมเดลแปลงอินพุตจากมอดาลิตีหนึ่งออกเป็นเอาต์พุตในมอดาลิตีอื่นแบบอิสระ
 ---
-
 ## Definition
 
 Any-to-any หมายถึงสถาปัตยกรรมหลายมอดาลิตีแบบรวมศูนย์ที่สามารถจัดการกับองค์ประกอบอินพุต-เอาต์พุตที่หลากหลาย เช่น ข้อความไปเป็นภาพ ภาพไปเป็นข้อความ หรือเสียงไปเป็นวิดีโอ ต่างจากโมเดลเฉพาะทาง ระบบเหล่านี้สามารถทำงานข้ามรูปแบบข้อมูลได้อย่างยืดหยุ่น

@@ -1,23 +1,24 @@
 ---
-title: "Çok Modalli Temsil Öğrenimi"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Çok Modalli Temsil Öğrenimi
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /tr/terms/multimodal_representation_learning/
-date: "2026-07-18T16:05:15.880469Z"
-lastmod: "2026-07-18T16:38:07.338027Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:05:15.880469Z'
+lastmod: '2026-07-18T16:38:07.338027Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Birden fazla veri modasından aynı anda birleşik özellik temsilleri öğrenen bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Birden fazla veri modasından aynı anda birleşik özellik temsilleri öğrenen
+  bir teknik.
 ---
-
 ## Definition
 
 Çok modalli temsil öğrenimi, modellerin metin, görüntü, ses ve video gibi farklı türdeki veri kaynaklarından gelen bilgileri işleyip entegre ederek ortak bir gizli uzayda (latent space) birleştirmesini içerir.

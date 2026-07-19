@@ -1,23 +1,22 @@
 ---
-title: "カリキュラム学習"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: カリキュラム学習
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /ja/terms/curriculum_learning/
-date: "2026-07-18T11:37:07.583109Z"
-lastmod: "2026-07-18T11:44:45.157325Z"
+slug: curriculum_learning
+date: '2026-07-18T11:37:07.583109Z'
+lastmod: '2026-07-18T11:44:45.157325Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルが難しい例に進む前に、簡単な例から学習するトレーニング戦略。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルが難しい例に進む前に、簡単な例から学習するトレーニング戦略。
 ---
-
 ## Definition
 
 カリキュラム学習は、人間の教育を模倣し、通常は単純なサンプルから始めて複雑さを徐々に増加させる構造化された順序でトレーニングデータを提供します。このアプローチは、ニューラルネットワークの学習効率と汎化性能を向上させるのに役立ちます。

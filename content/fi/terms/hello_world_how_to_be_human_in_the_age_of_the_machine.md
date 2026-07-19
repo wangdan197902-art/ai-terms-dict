@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /fi/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T16:01:09.936857Z"
 lastmod: "2026-07-18T17:15:09.418530Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kirjan otsikko, joka tutkii inhimillisyyden ja teknologian leikkauspintaa, ja jota siteerataan usein keskusteluissa tekoälyn etiikasta ja tulevaisuuden työstä."
 ---
-
 ## Definition
 
 Tämä fraasi viittaa konkreettiseen kirjalliseen teokseen, joka tutkii, miten ihmiset voivat säilyttää merkityksellisyytensä ja arvonsa nopean teknologisen kehityksen keskellä. Tekoälykeskustelussa se toimii kulttuurisena viitekehyksenä.

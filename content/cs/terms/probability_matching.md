@@ -1,23 +1,24 @@
 ---
-title: "Pravděpodobnostní přizpůsobení"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Pravděpodobnostní přizpůsobení
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /cs/terms/probability_matching/
-date: "2026-07-18T16:13:38.662721Z"
-lastmod: "2026-07-18T17:15:09.191387Z"
+slug: probability_matching
+date: '2026-07-18T16:13:38.662721Z'
+lastmod: '2026-07-18T17:15:09.191387Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Strategie rozhodování, při které agent volí akce s frekvencemi úměrnými jejich odhadovaným pravděpodobnostem."
+source: agnes_llm
+status: published
+language: cs
+description: Strategie rozhodování, při které agent volí akce s frekvencemi úměrnými
+  jejich odhadovaným pravděpodobnostem.
 ---
-
 ## Definition
 
 Pravděpodobnostní přizpůsobení je chování často pozorované v posilujícím učení a psychologii, které kontrastuje s optimální strategií 'maximalizace'. Místo toho, aby agent vždy vybíral akci s nejvyšší pravděpodobností, volí akce podle jejich relativních pravděpodobností.

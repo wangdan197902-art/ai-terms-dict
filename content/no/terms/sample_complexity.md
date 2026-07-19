@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /no/terms/sample_complexity/
 date: "2026-07-18T16:15:26.716197Z"
 lastmod: "2026-07-18T16:38:07.044761Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prøvekompleksitet refererer til antall trenings eksempler som kreves for at en maskinlæringsalgoritme skal oppnå et spesifikt ytelsesnivå med høy sannsynlighet."
 ---
-
 ## Definition
 
 Innen beregningslæringsteori kvantifiserer prøvekompleksiteten mengden data som trengs for å trene en modell effektivt. Det balanserer kompromisset mellom modellkapasitet og datatilgjengelighet, og sikrer generaliseringsevnen til modellen.

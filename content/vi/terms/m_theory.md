@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /vi/terms/m_theory/
 date: "2026-07-18T16:01:33.530669Z"
 lastmod: "2026-07-18T16:38:07.778426Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Lý thuyết M là một khung lý thuyết trong vật lý thống nhất năm phiên bản khác nhau của lý thuyết dây, đề xuất rằng các hạt cơ bản là sự rung động của các màng một chiều trong không gian mười một chiều"
 ---
-
 ## Definition
 
 Mặc dù chủ yếu là một khái niệm trong vật lý lý thuyết hơn là khoa học máy tính, Lý thuyết M đôi khi được tham chiếu trong các mô phỏng tính toán tiên tiến và nghiên cứu điện toán lượng tử. Nó gợi ý rằng các định luật vật lý cơ bản có thể được mô tả thống nhất thông qua các cấu trúc đa chiều phức tạp, cung cấp nền tảng toán học cho việc mô hình hóa các hệ thống lượng tử phức tạp.

@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /id/terms/knowledge/
 date: "2026-07-18T15:26:40.980480Z"
 lastmod: "2026-07-18T16:38:07.395698Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pengetahuan adalah pemahaman terstruktur, fakta, keterampilan, dan wawasan yang berasal dari informasi, pengalaman, atau penalaran, yang memungkinkan pengambilan keputusan yang efektif."
 ---
-
 ## Definition
 
 Dalam AI, pengetahuan sering merujuk pada informasi eksplisit yang disimpan dalam basis data, ontologi, atau bobot jaringan saraf yang memungkinkan penalaran dan inferensi. Pengetahuan berada di atas informasi dalam hierarki DIKW

@@ -7,8 +7,6 @@ tags: ["Finance", "Datasets", "Chinese NLP"]
 difficulty: 4
 weight: 1
 slug: "azfintext"
-aliases:
-  - /id/terms/azfintext/
 date: "2026-07-18T15:37:50.589707Z"
 lastmod: "2026-07-18T16:38:07.424747Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "AZFinText adalah dataset khusus yang dirancang untuk penambangan teks keuangan dan analisis sentimen dalam konteks bahasa Mandarin."
 ---
-
 ## Definition
 
 AZFinText adalah korpus berskala besar yang dianotasikan secara khusus yang dikurasi untuk analisis teks keuangan berbahasa Mandarin. Dataset ini mencakup artikel berita, laporan, dan postingan media sosial yang diberi label dengan sentimen keuangan dan entitas terkait.

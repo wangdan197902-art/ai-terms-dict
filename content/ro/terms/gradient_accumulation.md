@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /ro/terms/gradient_accumulation/
 date: "2026-07-18T16:00:47.210439Z"
 lastmod: "2026-07-18T17:15:09.661972Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Acumularea gradientelor este o tehnică care simulează dimensiuni mai mari ale loturilor (batch size) prin sumarea gradientelor pe parcursul mai multor treceri înainte/înapoi înainte de actualizarea po"
 ---
-
 ## Definition
 
 Această strategie de optimizare permite antrenarea modelelor de învățare profundă cu dimensiuni efective ale loturilor mai mari decât ceea ce poate încăpea în memoria GPU. Prin acumularea gradientelor din mai multe mini-loturi și efectuarea actualizării...

@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /nl/terms/beyond/
 date: "2026-07-18T15:23:54.268562Z"
 lastmod: "2026-07-18T17:15:08.680907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een conceptueel term verwijzend naar vooruitgang of toepassingen die huidige technologische limieten of traditionele grenzen van AI overschrijden."
 ---
-
 ## Definition
 
 In de context van AI-terminologie beschrijft 'beyond' vaak opkomende paradigma's of toekomstige richtingen die huidige capaciteiten overstijgen, zoals Algemene Kunstmatige Intelligentie (AGI) of quantum-versterkte systemen.

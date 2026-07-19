@@ -1,23 +1,24 @@
 ---
-title: "تضمين التوزيعات بالنواة"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: تضمين التوزيعات بالنواة
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /ar/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T16:04:14.065637Z"
-lastmod: "2026-07-18T17:15:08.518518Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T16:04:14.065637Z'
+lastmod: '2026-07-18T17:15:08.518518Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تقوم بربط التوزيعات الاحتمالية في فضاء هلبرت ذو النواة القابلة للتكاثر لتمكين المقارنة والتلاعب عبر عمليات المتجهات."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تقوم بربط التوزيعات الاحتمالية في فضاء هلبرت ذو النواة القابلة
+  للتكاثر لتمكين المقارنة والتلاعب عبر عمليات المتجهات.
 ---
-
 ## Definition
 
 يتيح تضمين التوزيعات بالنواة التعامل مع الكائنات الاحتمالية كنقاط في فضاء ميزات عالي الأبعاد يُعرف باسم فضاء هلبرت ذو النواة القابلة للتكاثر (RKHS). من خلال ربط التوزيعات...

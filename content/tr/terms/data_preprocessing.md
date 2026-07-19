@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /tr/terms/data_preprocessing/
 date: "2026-07-18T15:47:16.832490Z"
 lastmod: "2026-07-18T16:38:07.289604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ham veriyi makine öğrenimi algoritmaları için uygun olan temiz ve tutarlı bir formata dönüştürme süreci."
 ---
-
 ## Definition
 
 Veri ön işleme, ham, yapılandırılmamış veya gürültülü verileri makine öğrenimi modellerinin etkili bir şekilde tüketebileceği standartlaştırılmış bir forma dönüştürme görevidir. Bu aşama genellikle veriyi temizlemeyi, eksik verileri doldurmayı, kategorik değişkenleri sayısalaştırmayı ve ölçeklendirmeyi içerir.

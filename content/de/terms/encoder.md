@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /de/terms/encoder/
 date: "2026-07-18T10:58:02.422458Z"
 lastmod: "2026-07-18T11:44:44.894412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Encoder ist eine Komponente eines neuronalen Netzes, die Eingabedaten in eine komprimierte, aussagekräftige Darstellung transformiert."
 ---
-
 ## Definition
 
 Encoder verarbeiten rohe Eingabesequenzen oder Datenstrukturen und konvertieren sie in Latent-Raum-Darstellungen, die oft als Embeddings oder Codes bezeichnet werden. Sie sind zentral für Architekturen wie Transformer und Auto

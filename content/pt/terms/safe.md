@@ -7,8 +7,6 @@ tags: ["security", "ethics", "design"]
 difficulty: 3
 weight: 1
 slug: "safe"
-aliases:
-  - /pt/terms/safe/
 date: "2026-07-18T14:39:02.979996Z"
 lastmod: "2026-07-18T15:51:59.438150Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Refere-se a sistemas de IA projetados para operar sem causar danos a humanos, propriedades ou ao meio ambiente."
 ---
-
 ## Definition
 
 A segurança em IA envolve a implementação de restrições e salvaguardas para garantir que os sistemas automatizados se comportem de maneira previsível e não causem consequências negativas não intencionais. Isso inclui medidas técnicas como limites de operação e monitoramento contínuo.

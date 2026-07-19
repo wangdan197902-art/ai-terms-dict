@@ -1,23 +1,24 @@
 ---
-title: "Lintteri"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Lintteri
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /fi/terms/linter/
-date: "2026-07-18T16:07:05.111306Z"
-lastmod: "2026-07-18T17:15:09.429084Z"
+slug: linter
+date: '2026-07-18T16:07:05.111306Z'
+lastmod: '2026-07-18T17:15:09.429084Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Staattinen koodianalyysityökalu, jota käytetään tunnistamaan ohjelmointivirheet, virhekoodit, tyyliohjesääntöjen rikkomukset ja epäilyttävät rakenteet."
+source: agnes_llm
+status: published
+language: fi
+description: Staattinen koodianalyysityökalu, jota käytetään tunnistamaan ohjelmointivirheet,
+  virhekoodit, tyyliohjesääntöjen rikkomukset ja epäilyttävät rakenteet.
 ---
-
 ## Definition
 
 Lintteri on apuohjelma, joka suorittaa staattisen analyysin lähdekoodille ilman sen suorittamista. Se tarkistaa syntaksivirheet, mahdolliset virheet, koodin hajujen (code smells) ja poikkeamat tyyliohjesäännöistä tai parhaista käytännöistä.

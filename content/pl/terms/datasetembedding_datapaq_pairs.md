@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /pl/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:49:03.873372Z"
 lastmod: "2026-07-18T17:15:08.861705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Duży zbiór danych par pytanie-odpowiedź wywodzących się z Wikipedii, zaprojektowany do treningu gęstego pobierania fragmentów tekstu (dense passage retrieval)."
 ---
-
 ## Definition
 
 Zbiór danych PAQ (Pseudo-Answer Quality) zawiera miliony automatycznie generowanych par pytanie-odpowiedź wyodrębnionych z Wikipedii. Został specjalnie zaprojektowany do trenowania gęstych retrieverów, dostarczając (providing)...

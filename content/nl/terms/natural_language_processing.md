@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /nl/terms/natural_language_processing/
 date: "2026-07-18T15:28:27.428131Z"
 lastmod: "2026-07-18T17:15:08.689540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een tak van de kunstmatige intelligentie die zich richt op het mogelijk maken van computers om menselijke taal te begrijpen, interpreteren en genereren."
 ---
-
 ## Definition
 
 Natural Language Processing (NLP) is een deelgebied van kunstmatige intelligentie dat computationele taalkunde combineert met statistische, machine learning- en deep learning-modellen. Het stelt machines in staat menselijke taal te verwerken en te genereren.

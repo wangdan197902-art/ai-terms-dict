@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /id/terms/qwen3_5_moe/
 date: "2026-07-18T16:06:35.314484Z"
 lastmod: "2026-07-18T16:38:07.498917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Varian hipotetis atau masa depan dari seri Qwen3 yang menggunakan arsitektur Mixture-of-Experts (MoE) yang jarang (sparse), dirancang untuk efisiensi tinggi."
 ---
-
 ## Definition
 
 Istilah ini merujuk pada arsitektur khusus dalam keluarga Qwen, yang kemungkinan besar memanfaatkan desain Mixture of Experts (MoE). Pada model-model seperti ini, hanya sebagian kecil parameter jaringan saraf (ahli/experts) yang diaktifkan selama proses komputasi, sehingga menghemat sumber daya dan meningkatkan kecepatan inferensi tanpa mengorbankan kualitas output secara signifikan.

@@ -1,23 +1,24 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /fi/terms/eagle/
-date: "2026-07-18T15:55:31.019417Z"
-lastmod: "2026-07-18T17:15:09.406887Z"
+slug: eagle
+date: '2026-07-18T15:55:31.019417Z'
+lastmod: '2026-07-18T17:15:09.406887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Eagle on ByteDancen kehittämä suorituskykyinen, avoimen lähdekoodin suuren kielimallikehys, joka on suunniteltu tehokkaaseen esikoulutukseen ja hienosäätöön."
+source: agnes_llm
+status: published
+language: fi
+description: Eagle on ByteDancen kehittämä suorituskykyinen, avoimen lähdekoodin suuren
+  kielimallikehys, joka on suunniteltu tehokkaaseen esikoulutukseen ja hienosäätöön.
 ---
-
 ## Definition
 
 Eagle edustaa tiettyä arkkitehtonista ja insinööriteknistä kehystä suurten kielimallien (LLM) alalla, keskittyen erityisesti koulutustehokkuuden ja skaalautuvuuden optimointeihin. Kehys pyrkii vähentämään laskentakustannuksia ja parantamaan mallien suorituskykyä suurten datamäärien käsittelyssä hyödyntämällä edistyneitä optimointitekniikoita.

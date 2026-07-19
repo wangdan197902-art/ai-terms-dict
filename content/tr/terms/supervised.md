@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /tr/terms/supervised/
 date: "2026-07-18T15:29:52.344026Z"
 lastmod: "2026-07-18T16:38:07.244761Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Modellerin etiketli girdi-çıktı çiftleri üzerinde eğitildiği bir makine öğrenimi paradigması."
 ---
-
 ## Definition
 
 Denetimli öğrenme, hem girdileri hem de doğru cevapları (etiketleri) içeren verileri bir algoritmayla beslemeyi içerir. Model, tahmin hatalarını minimize ederek girdileri çıktılara eşlemeyi öğrenir. Bu teknik, sınıflandırma ve regresyon görevlerinde yaygındır.

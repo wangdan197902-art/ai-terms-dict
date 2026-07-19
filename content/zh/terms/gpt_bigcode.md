@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /zh/terms/gpt_bigcode/
 date: "2026-07-18T11:19:33.288294Z"
 lastmod: "2026-07-18T11:44:45.510319Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个专门针对代码生成和理解进行训练的大型语言模型家族，由 BigCode 项目开发。"
 ---
-
 ## Definition
 
 GPT Bigcode 通常与 StarCoder 等模型相关联，代表了编码辅助人工智能的重大进步。这些模型在庞大的公共代码库上进行预训练，以理解编程语言的语法和语义。

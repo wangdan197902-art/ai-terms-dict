@@ -1,23 +1,24 @@
 ---
-title: "Połączenie rezydualne"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Połączenie rezydualne
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /pl/terms/residual_connection/
-date: "2026-07-18T15:37:01.383701Z"
-lastmod: "2026-07-18T17:15:08.836592Z"
+slug: residual_connection
+date: '2026-07-18T15:37:01.383701Z'
+lastmod: '2026-07-18T17:15:08.836592Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Mechanizm dodający wejście bezpośrednio do wyjścia warstwy, aby ułatwić przepływ gradientów w głębokich sieciach."
+source: agnes_llm
+status: published
+language: pl
+description: Mechanizm dodający wejście bezpośrednio do wyjścia warstwy, aby ułatwić
+  przepływ gradientów w głębokich sieciach.
 ---
-
 ## Definition
 
 Połączenia rezydualne, znane również jako połączenia pomijające (skip connections), umożliwiają przepływ gradientów przez sieć poprzez bezpośrednie dodanie wejścia do wyjścia kolejnej warstwy. Architektura ta rozwiązuje problem zanikania gradientu.

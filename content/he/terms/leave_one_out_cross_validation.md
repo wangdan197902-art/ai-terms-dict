@@ -1,23 +1,24 @@
 ---
-title: "אימות צולב של השארת אחד בחוץ"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: אימות צולב של השארת אחד בחוץ
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /he/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:09:54.497497Z"
-lastmod: "2026-07-18T17:15:09.557801Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:09:54.497497Z'
+lastmod: '2026-07-18T17:15:09.557801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת דגימה חוזרת קפדנית שבה המודל מאומן על כל הדגמים למעט אחד, ומבוצע בדיקה על אותו דגם בודד שהושאר בחוץ, בתהליך החוזר עבור כל נקודת נתונים."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת דגימה חוזרת קפדנית שבה המודל מאומן על כל הדגמים למעט אחד, ומבוצע
+  בדיקה על אותו דגם בודד שהושאר בחוץ, בתהליך החוזר עבור כל נקודת נתונים.
 ---
-
 ## Definition
 
 אימות צולב של השארת אחד בחוץ (LOOCV) הוא מקרה פרטי של אימות צולב בקפלים (k-fold), כאשר מספר הקפלים (k) שווה למספר הדגמים במערך הנתונים. שיטה זו מספקת הערכה כמעט ללא הטיה של ביצועי המודל.

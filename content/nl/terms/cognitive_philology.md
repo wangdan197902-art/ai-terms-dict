@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /nl/terms/cognitive_philology/
 date: "2026-07-18T15:46:32.993589Z"
 lastmod: "2026-07-18T17:15:08.726081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Cognitieve filologie past computationele methoden en principes van de cognitieve wetenschap toe op de studie van taal, literatuur en tekstgeschiedenis."
 ---
-
 ## Definition
 
 Cognitieve filologie is een interdisciplinair vakgebied dat digitale geesteswetenschappen, taalkunde en cognitieve wetenschap combineert om teksten en taalontwikkeling te analyseren. Het maakt gebruik van computationele hulpmiddelen om grote hoeveelheden tekstdata te verwerken.

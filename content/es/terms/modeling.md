@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /es/terms/modeling/
 date: "2026-07-18T10:24:38.575674Z"
 lastmod: "2026-07-18T11:44:44.745489Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El modelado es el proceso de crear representaciones abstractas de sistemas del mundo real o distribuciones de datos para permitir la predicción, simulación o toma de decisiones."
 ---
-
 ## Definition
 
 El modelado de IA abarca todo el flujo de trabajo de diseño, entrenamiento y validación de algoritmos que aprenden patrones a partir de datos. Implica seleccionar arquitecturas apropiadas, definir funciones de pérdida y...

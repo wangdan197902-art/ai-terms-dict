@@ -1,23 +1,23 @@
 ---
-title: "one-shot"
-term_id: "one_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency"]
+title: one-shot
+term_id: one_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
 difficulty: 3
 weight: 1
-slug: "one_shot"
-aliases:
-  - /da/terms/one_shot/
-date: "2026-07-18T15:32:52.635644Z"
-lastmod: "2026-07-18T17:15:09.240167Z"
+slug: one_shot
+date: '2026-07-18T15:32:52.635644Z'
+lastmod: '2026-07-18T17:15:09.240167Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En læringsparadigme, hvor en model lærer at udføre en opgave ud fra et enkelt mærket eksempel."
+source: agnes_llm
+status: published
+language: da
+description: En læringsparadigme, hvor en model lærer at udføre en opgave ud fra et
+  enkelt mærket eksempel.
 ---
-
 ## Definition
 
 One-shot learning er en specifik type af few-shot learning, hvor algoritmen skal generalisere til nye klasser eller opgaver efter kun at have set ét positivt eksempel under træningen. Denne tilgang efterligner menneskelig

@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimagepipeline"
-term_id: "diffusersqwenimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["text-to-image", "generation", "qwen", "multimodal"]
+title: 'Diffusers: Qwenimagepipeline'
+term_id: diffusersqwenimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Text To Image
+- generation
+- qwen
+- multimodal
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimagepipeline"
-aliases:
-  - /fi/terms/diffusersqwenimagepipeline/
-date: "2026-07-18T15:54:39.954603Z"
-lastmod: "2026-07-18T17:15:09.404902Z"
+slug: diffusersqwenimagepipeline
+date: '2026-07-18T15:54:39.954603Z'
+lastmod: '2026-07-18T17:15:09.404902Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Putki, joka käyttää Qwen-VL-malleja Diffusersissa kuvien luomiseen suoraan tekstikuvausten tai monimodaalisten syötteiden perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Putki, joka käyttää Qwen-VL-malleja Diffusersissa kuvien luomiseen suoraan
+  tekstikuvausten tai monimodaalisten syötteiden perusteella.
 ---
-
 ## Definition
 
 Tämä putki mukauttaa Qwen-VL-mallien generatiiviset ominaisuudet kuvasynteesiä varten. Se mahdollistaa käyttäjille korkealaatuisten kuvien tuottamisen antamalla tekstipohjaisia kehotteita tai yhdistämällä tekstin viitekuvaan,

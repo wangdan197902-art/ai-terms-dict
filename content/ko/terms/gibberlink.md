@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /ko/terms/gibberlink/
 date: "2026-07-18T15:57:14.081053Z"
 lastmod: "2026-07-18T16:38:06.845477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "지버링크는 인공지능 문헌에서 인정되는 표준 용어가 아닙니다."
 ---
-
 ## Definition
 
 인공지능, 머신러닝 또는 컴퓨터 과학 분야에서 '지버링크'라는 확립된 개념, 기술 또는 방법론은 존재하지 않습니다. 이는 오타이거나, 가상의 용어일 가능성이 높으며, 실제 학술적 맥락에서는 사용되지 않는 비표준 용어입니다.

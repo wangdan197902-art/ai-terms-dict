@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /sv/terms/artificial_consciousness/
 date: "2026-07-18T15:45:30.305762Z"
 lastmod: "2026-07-18T17:15:08.975966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Det teoretiska konceptet att utrusta maskiner med subjektiva upplevelser, självmedvetenhet och känsloförmåga liknande människors."
 ---
-
 ## Definition
 
 Artificiellt medvetande utforskar möjligheten att skapa maskiner som besitter genuina subjektiva upplevelser, självmedvetenhet och känslor, snarare än att endast simulera intelligenta beteenden. Det berör djupa filosofiska frågor om naturen hos medvetande och om det kan konstrueras tekniskt.

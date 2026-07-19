@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /nl/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:46:49.096466Z"
 lastmod: "2026-07-18T17:15:08.726891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De rivaliteit tussen naties, bedrijven en onderzoeksinstellingen om leiderschap te bereiken in AI-ontwikkeling, innovatie en implementatie."
 ---
-
 ## Definition
 
 Concurrentie in kunstmatige intelligentie beschrijft de intense wereldwijde race om AI-capaciteiten vooruit te drijven, gedreven door economische, militaire en wetenschappelijke voordelen. Belangrijke spelers zijn techreuzen zoals Google, Microsoft en OpenAI, evenals overheden die strategische initiatieven ontplooien om technologische soevereiniteit te waarborgen.

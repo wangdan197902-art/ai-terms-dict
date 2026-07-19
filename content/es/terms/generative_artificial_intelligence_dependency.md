@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /es/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T10:50:40.063946Z"
 lastmod: "2026-07-18T11:44:44.810626Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La dependencia de las organizaciones en los sistemas de IA generativa para operaciones críticas, lo que crea riesgos relacionados con la disponibilidad, la precisión y la seguridad."
 ---
-
 ## Definition
 
 Este concepto se refiere a la dependencia estratégica y operativa que las empresas tienen sobre los modelos de IA generativa para realizar tareas esenciales como la creación de contenido, la atención al cliente y el análisis de datos. A medida que aumenta la adopción...

@@ -1,23 +1,24 @@
 ---
-title: "Fitnessbenadering"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Fitnessbenadering
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /nl/terms/fitness_approximation/
-date: "2026-07-18T15:55:35.122631Z"
-lastmod: "2026-07-18T17:15:08.745411Z"
+slug: fitness_approximation
+date: '2026-07-18T15:55:35.122631Z'
+lastmod: '2026-07-18T17:15:08.745411Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek in evolutionaire algoritmen die de kwaliteit van oplossingen schat om de rekenkosten tijdens optimalisatie te verminderen."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek in evolutionaire algoritmen die de kwaliteit van oplossingen
+  schat om de rekenkosten tijdens optimalisatie te verminderen.
 ---
-
 ## Definition
 
 Fitnessbenadering wordt gebruikt in evolutionaire berekening wanneer het evalueren van de ware fitnessfunctie rekentechnisch duur of tijdrovend is. In plaats van de exacte waarde te berekenen, worden surrogaatmodellen gebruikt.

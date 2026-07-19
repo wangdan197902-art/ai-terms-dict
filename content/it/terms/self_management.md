@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /it/terms/self_management/
 date: "2026-07-18T16:20:39.321707Z"
 lastmod: "2026-07-18T17:15:08.667382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'auto-gestione nell'IA si riferisce alla capacità dei sistemi autonomi di monitorare, ottimizzare e riparare le proprie operazioni senza intervento umano."
 ---
-
 ## Definition
 
 Questo concetto comprende la capacità degli agenti o sistemi IA di gestire manutenzione ordinaria, allocazione delle risorse e correzione degli errori in modo indipendente. Include funzionalità come lo scaling automatico, l'auto-guarigione e l'ottimizzazione continua.

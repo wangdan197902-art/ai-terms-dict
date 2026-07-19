@@ -1,23 +1,24 @@
 ---
-title: "Převod textu z obrázku na text"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Převod textu z obrázku na text
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /cs/terms/image_text_to_text/
-date: "2026-07-18T16:02:18.472444Z"
-lastmod: "2026-07-18T17:15:09.141099Z"
+slug: image_text_to_text
+date: '2026-07-18T16:02:18.472444Z'
+lastmod: '2026-07-18T17:15:09.141099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Víceúčelová schopnost AI, která generuje textové popisy nebo odpovědi na základě vstupních obrázků a volitelných textových podnětů."
+source: agnes_llm
+status: published
+language: cs
+description: Víceúčelová schopnost AI, která generuje textové popisy nebo odpovědi
+  na základě vstupních obrázků a volitelných textových podnětů.
 ---
-
 ## Definition
 
 Převod textu z obrázku na text označuje modely, které zpracovávají vizuální vstupy spolu s textovými dotazy za účelem produkce souvislých výstupů v přirozeném jazyce. Tyto systémy, často nazývané modely jazyka a vidění (VLM), kombinují...

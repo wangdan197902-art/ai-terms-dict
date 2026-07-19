@@ -1,23 +1,24 @@
 ---
-title: "Învățarea robotică"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Învățarea robotică
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /ro/terms/robot_learning/
-date: "2026-07-18T16:19:40.538854Z"
-lastmod: "2026-07-18T17:15:09.699409Z"
+slug: robot_learning
+date: '2026-07-18T16:19:40.538854Z'
+lastmod: '2026-07-18T17:15:09.699409Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O subdomeniu al roboticii axat pe capacitatea roboților de a dobândi abilități și de a-și îmbunătăți performanța prin experiență și interacțiune cu mediul."
+source: agnes_llm
+status: published
+language: ro
+description: O subdomeniu al roboticii axat pe capacitatea roboților de a dobândi
+  abilități și de a-și îmbunătăți performanța prin experiență și interacțiune cu mediul.
 ---
-
 ## Definition
 
 Învățarea robotică implică antrenarea agenților robotici pentru a executa sarcini în mod autonom, folosind tehnici de învățare automată. Spre deosebire de comportamentele pre-programate, aceste sisteme se adaptează la medii dinamice.

@@ -1,23 +1,24 @@
 ---
-title: "Retrieval-Augmented Generation"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Retrieval-Augmented Generation
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /id/terms/rag/
-date: "2026-07-18T15:28:57.625434Z"
-lastmod: "2026-07-18T16:38:07.401251Z"
+slug: rag
+date: '2026-07-18T15:28:57.625434Z'
+lastmod: '2026-07-18T16:38:07.401251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "RAG adalah kerangka kerja AI yang meningkatkan model generatif dengan mengambil informasi relevan dari basis pengetahuan eksternal sebelum menghasilkan respons."
+source: agnes_llm
+status: published
+language: id
+description: RAG adalah kerangka kerja AI yang meningkatkan model generatif dengan
+  mengambil informasi relevan dari basis pengetahuan eksternal sebelum menghasilkan
+  respons.
 ---
-
 ## Definition
 
 Retrieval-Augmented Generation (RAG) menggabungkan kekuatan sistem AI berbasis pengambilan dan berbasis generasi. Alih-alih hanya mengandalkan parameter model bahasa yang telah dilatih sebelumnya, RAG pertama kali mengambil...

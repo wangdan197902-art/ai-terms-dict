@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /ro/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:21:08.059870Z"
 lastmod: "2026-07-18T17:15:09.702924Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Ecosistemul de piață care implică producătorii de hardware și furnizorii de servicii AI care oferă dispozitive controlate prin voce în cadrul Coreei de Sud."
 ---
-
 ## Definition
 
 Acest termen se referă la dinamica specifică a pieței regionale legate de difuzoarele inteligente din Coreea de Sud, caracterizată printr-o penetrare ridicată a smartphone-urilor și o infrastructură avansată de bandă largă. Implică maj

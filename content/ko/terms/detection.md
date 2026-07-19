@@ -1,23 +1,23 @@
 ---
-title: "탐지(Detection)"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: 탐지(Detection)
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /ko/terms/detection/
-date: "2026-07-18T15:23:57.551187Z"
-lastmod: "2026-07-18T16:38:06.771241Z"
+slug: detection
+date: '2026-07-18T15:23:57.551187Z'
+lastmod: '2026-07-18T16:38:06.771241Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "데이터셋이나 환경 내에서 특정 객체, 사건 또는 이상 징후를 식별하고 위치를 파악하는 작업."
+source: agnes_llm
+status: published
+language: ko
+description: 데이터셋이나 환경 내에서 특정 객체, 사건 또는 이상 징후를 식별하고 위치를 파악하는 작업.
 ---
-
 ## Definition
 
 탐지는 AI 모델이 관심 대상의 존재 여부와 위치를 식별하는 컴퓨터 비전 및 신호 처리의 핵심 작업입니다. 레이블을 할당하는 분류(Classification)와 달리, 탐지는 객체의 경계와 존재를 동시에 파악합니다.

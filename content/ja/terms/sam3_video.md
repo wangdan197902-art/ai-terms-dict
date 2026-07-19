@@ -1,23 +1,23 @@
 ---
-title: "Sam3 Video"
-term_id: "sam3_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video_processing", "segmentation", "computer_vision"]
+title: Sam3 Video
+term_id: sam3_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Processing
+- segmentation
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "sam3_video"
-aliases:
-  - /ja/terms/sam3_video/
-date: "2026-07-18T11:31:19.082483Z"
-lastmod: "2026-07-18T11:44:45.140814Z"
+slug: sam3_video
+date: '2026-07-18T11:31:19.082483Z'
+lastmod: '2026-07-18T11:44:45.140814Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "この用語は、おそらくビデオストリームに適用された第3世代または特定のバリアントのSegment Anything Modelに関連するビデオセグメンテーション機能を指します。"
+source: agnes_llm
+status: published
+language: ja
+description: この用語は、おそらくビデオストリームに適用された第3世代または特定のバリアントのSegment Anything Modelに関連するビデオセグメンテーション機能を指します。
 ---
-
 ## Definition
 
 Sam3 Videoは、高度なセグメンテーションモデル（MetaのSegment Anything Modelの仮説的または特定バージョンの可能性あり）を動画データに適用することを指します。これには、フレーム間でオブジェクトを追跡し、時間的な一貫性を保ちながら動的なマスク処理を行うことが含まれます。

@@ -7,8 +7,6 @@ tags: ["Prompting", "LLM Applications", "NLP"]
 difficulty: 2
 weight: 1
 slug: "zero_shot_prompting"
-aliases:
-  - /pt/terms/zero_shot_prompting/
 date: "2026-07-18T15:27:41.640526Z"
 lastmod: "2026-07-18T15:51:59.543165Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma técnica na qual grandes modelos de linguagem realizam tarefas sem exemplos prévios ou ajuste fino, confiando exclusivamente em instruções em linguagem natural."
 ---
-
 ## Definition
 
 O prompting de zero amostras envolve solicitar que um modelo de linguagem pré-treinado execute uma tarefa diretamente por meio de um prompt textual, sem fornecer nenhum exemplo de poucas amostras (few-shot) ou realizar ajuste fino adicional. O modelo utiliza apenas a instrução fornecida para inferir a tarefa desejada.

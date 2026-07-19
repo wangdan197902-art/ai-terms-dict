@@ -1,23 +1,24 @@
 ---
-title: "Multimodale sentimentanalyse"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Multimodale sentimentanalyse
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /nl/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:09:12.106818Z"
-lastmod: "2026-07-18T17:15:08.770710Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:09:12.106818Z'
+lastmod: '2026-07-18T17:15:08.770710Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De computationele analyse van menselijk sentiment door tekstuele, visuele en auditieve signalen te integreren."
+source: agnes_llm
+status: published
+language: nl
+description: De computationele analyse van menselijk sentiment door tekstuele, visuele
+  en auditieve signalen te integreren.
 ---
-
 ## Definition
 
 Multimodale sentimentanalyse breidt traditionele tekstgebaseerde sentimentdetectie uit met aanvullende signalen zoals gezichtsuitdrukkingen, stemtoon en lichaamstaal. Deze holistische aanpak verbetert de nauwkeurigheid van sentimentclassificatie.

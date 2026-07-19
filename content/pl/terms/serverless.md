@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /pl/terms/serverless/
 date: "2026-07-18T16:16:17.214069Z"
 lastmod: "2026-07-18T17:15:08.917086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model wykonania w chmurze, w którym dostawca dynamicznie zarządza przydziałem zasobów maszynowych zamiast użytkownika."
 ---
-
 ## Definition
 
 Architektura bezserwerowa pozwala deweloperom na tworzenie i uruchamianie aplikacji bez zarządzania infrastrukturą serwerów. Dostawca chmury automatycznie skaluje zasoby w górę lub w dół w zależności od zapotrzebowania, pobierając opłaty wyłącznie za faktycznie zużyte zasoby obliczeniowe.

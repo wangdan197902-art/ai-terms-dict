@@ -7,8 +7,6 @@ tags: ["Web Development", "Real-time", "API Design"]
 difficulty: 2
 weight: 1
 slug: "server_sent_events"
-aliases:
-  - /ja/terms/server_sent_events/
 date: "2026-07-18T11:31:59.766543Z"
 lastmod: "2026-07-18T11:44:45.143681Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "単一のHTTP接続を通じて、ウェブサーバーがクライアントへリアルタイムの更新をプッシュできる標準プロトコル。"
 ---
-
 ## Definition
 
 サーバーサイドイベント（SSE）は、サーバーからクライアントへの一方通行の通信を可能にし、クライアントが繰り返しポーリングすることなく、サーバーがデータを継続的にストリーミングできます。プレーンなHTTPを使用するため、実装が比較的容易です。

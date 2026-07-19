@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /fi/terms/claude/
 date: "2026-07-18T15:35:27.713764Z"
 lastmod: "2026-07-18T17:15:09.368457Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Claude on Anthropicin kehittämä suurten kielimallien perhe, joka on suunniteltu olemaan hyödyllinen, vaaraton ja rehellinen tekoälyavustaja."
 ---
-
 ## Definition
 
 Claude on edistynyt suurten kielimallisarja, jonka on luonut tekoälyn turvallisuuteen erikoistunut yritys Anthropic. Tunnettu vahvoista eettisistä periaatteistaan ja konstitutiollisen tekoälyn (Constitutional AI) viitekehyksestään, Claude keskittyy olemaan hyödyllinen

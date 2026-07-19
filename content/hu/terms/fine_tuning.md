@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /hu/terms/fine_tuning/
 date: "2026-07-18T15:23:10.444278Z"
 lastmod: "2026-07-18T17:15:09.714264Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a folyamat, amely során egy előre tanított modellt kisebb adathalmazzal igazítunk egy specifikus feladatra."
 ---
-
 ## Definition
 
 A finomhangolás magában foglalja egy már nagy, általános adathalmazon tanított modell további tanítását egy specializált adathalmazon. Ez lehetővé teszi, hogy a modell megtartsa az általános tudását, miközben megszerzi a feladatra...

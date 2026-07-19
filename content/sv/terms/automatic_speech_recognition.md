@@ -1,23 +1,23 @@
 ---
-title: "Automatisk taligenkänning"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Automatisk taligenkänning
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /sv/terms/automatic_speech_recognition/
-date: "2026-07-18T15:46:54.301801Z"
-lastmod: "2026-07-18T17:15:08.978906Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T15:46:54.301801Z'
+lastmod: '2026-07-18T17:15:08.978906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknologi som omvandlar talat språk till text med hjälp av djupinlärningsmodeller."
+source: agnes_llm
+status: published
+language: sv
+description: En teknologi som omvandlar talat språk till text med hjälp av djupinlärningsmodeller.
 ---
-
 ## Definition
 
 Automatisk taligenkänning (ASR), även känd som tal-till-text, är ett delområde inom talbehandling som utnyttjar artificiell intelligens för att transkribera ljudsignaler till skriven text. Moderna ASR-system erbjuder hög noggrannhet även vid bakgrundsljud.

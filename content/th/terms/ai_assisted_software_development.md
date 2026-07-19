@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /th/terms/ai_assisted_software_development/
 date: "2026-07-18T15:39:05.041514Z"
 lastmod: "2026-07-18T16:38:07.569615Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การใช้เครื่องมือเอไอเพื่อเพิ่มประสิทธิภาพในกระบวนการเขียนโค้ด แก้ไขข้อบกพร่อง ทดสอบ และออกแบบ"
 ---
-
 ## Definition
 
 การพัฒนาซอฟต์แวร์ด้วยเอไอช่วย หมายถึง การใช้โมเดลแมชชีนเลิร์นนิงเพื่อสนับสนุนนักพัฒนาในการเขียนโค้ด ระบุจุดบกพร่อง สร้างชุดทดสอบ และเพิ่มประสิทธิภาพการทำงาน เช่น เครื่องมือ GitHub Copilot

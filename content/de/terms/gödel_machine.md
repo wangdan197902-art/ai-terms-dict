@@ -1,23 +1,25 @@
 ---
-title: "Gödel-Maschine"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Gödel-Maschine
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /de/terms/gödel_machine/
-date: "2026-07-18T11:17:39.328709Z"
-lastmod: "2026-07-18T11:44:44.946901Z"
+slug: gödel_machine
+date: '2026-07-18T11:17:39.328709Z'
+lastmod: '2026-07-18T11:44:44.946901Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein theoretisches, sich selbst verbesserndes KI-Programm, das seinen eigenen Quellcode umschreiben kann, um effizienter zu werden, ohne seine Ziele zu verändern."
+source: agnes_llm
+status: published
+language: de
+description: Ein theoretisches, sich selbst verbesserndes KI-Programm, das seinen
+  eigenen Quellcode umschreiben kann, um effizienter zu werden, ohne seine Ziele zu
+  verändern.
 ---
-
 ## Definition
 
 Die Gödel-Maschine ist ein hypothetischer universeller Problemlöser, der von Jürgen Schmidhuber vorgeschlagen wurde und auf formaler Logik und Berechenbarkeitstheorie basiert. Sie operiert, indem sie kontinuierlich ihren eigenen Quellcode analysiert und optimiert, um die Effizienz ihrer Berechnungen zu steigern, während sie ihre ursprünglichen Zielvorgaben beibehält.

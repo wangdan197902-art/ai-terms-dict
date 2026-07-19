@@ -1,23 +1,25 @@
 ---
-title: "Early Stopping"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Early Stopping
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /it/terms/early_stopping/
-date: "2026-07-18T15:57:35.709665Z"
-lastmod: "2026-07-18T17:15:08.621645Z"
+slug: early_stopping
+date: '2026-07-18T15:57:35.709665Z'
+lastmod: '2026-07-18T17:15:08.621645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "L'early stopping è una tecnica di regolarizzazione che interrompe il processo di addestramento quando le prestazioni del modello su un insieme di validazione iniziano a degradare, prevenendo il sovrad"
+source: agnes_llm
+status: published
+language: it
+description: L'early stopping è una tecnica di regolarizzazione che interrompe il
+  processo di addestramento quando le prestazioni del modello su un insieme di validazione
+  iniziano a degradare, prevenendo il sovrad
 ---
-
 ## Definition
 
 L'early stopping è una forma di regolarizzazione utilizzata principalmente nei processi di addestramento iterativi come la discesa del gradiente. Durante l'addestramento, le prestazioni del modello sui dati di addestramento migliorano tipicamente in modo continuo

@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /th/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:42:31.342197Z"
 lastmod: "2026-07-18T16:38:07.574572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "การนำเทคโนโลยี AI มาประยุกต์ใช้เพื่อปรับปรุงวิธีการสอน สร้างประสบการณ์การเรียนรู้ส่วนบุคคล และทำงานบริหารอัตโนมัติ"
 ---
-
 ## Definition
 
 AI ในการศึกษารวมถึงการใช้องค์ความรู้เช่น Machine Learning, Natural Language Processing และระบบปรับตัว เพื่อปรับปรุงผลลัพธ์ทางการศึกษา ระบบเหล่านี้เปิดโอกาสให้ผู้เรียนมีเส้นทางการเรียนรู้ที่ปรับแต่งเฉพาะบุคคลตามศักยภาพและความต้องการของแต่ละคน

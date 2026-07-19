@@ -1,23 +1,24 @@
 ---
-title: "Aprendizaje de representaciones multimodales"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: Aprendizaje de representaciones multimodales
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /es/terms/multimodal_representation_learning/
-date: "2026-07-18T11:01:22.892791Z"
-lastmod: "2026-07-18T11:44:44.834798Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T11:01:22.892791Z'
+lastmod: '2026-07-18T11:44:44.834798Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica que aprende representaciones de características unificadas a partir de múltiples modalidades de datos simultáneamente."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica que aprende representaciones de características unificadas
+  a partir de múltiples modalidades de datos simultáneamente.
 ---
-
 ## Definition
 
 El aprendizaje de representaciones multimodales implica entrenar modelos para procesar e integrar información de diferentes tipos de fuentes de datos, como texto, imágenes, audio y video, en un espacio latente compartido.

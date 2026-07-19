@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /cs/terms/semantic_folding/
 date: "2026-07-18T16:17:04.605036Z"
 lastmod: "2026-07-18T17:15:09.199345Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Technika, která mapuje sémantické reprezentace vysoké dimenzionality do prostoru nižší dimenzionality při zachování relačních struktur."
 ---
-
 ## Definition
 
 Semantické skládání označuje proces komprese komplexních vektorových vložení vysoké dimenzionality do přehlednější reprezentace nižší dimenzionality bez významné ztráty sémantického významu.

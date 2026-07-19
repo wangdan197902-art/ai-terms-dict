@@ -1,23 +1,23 @@
 ---
-title: "予測学習"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: 予測学習
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /ja/terms/predictive_learning/
-date: "2026-07-18T11:28:16.095281Z"
-lastmod: "2026-07-18T11:44:45.132471Z"
+slug: predictive_learning
+date: '2026-07-18T11:28:16.095281Z'
+lastmod: '2026-07-18T11:44:45.132471Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルが入力データの欠落部分を予測することで表現を学習する自己教師あり手法。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルが入力データの欠落部分を予測することで表現を学習する自己教師あり手法。
 ---
-
 ## Definition
 
 予測学習とは、明示的な人間のラベルなしに、観測された入力から未観測のデータポイントを推論するようにニューラルネットワークを訓練するプロセスです。言語モデルにおける次トークンの予測や、画像におけるマスクされた領域の復元などのタスクを解くことで、モデルはデータの構造化された表現を学習します。

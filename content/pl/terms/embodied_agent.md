@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /pl/terms/embodied_agent/
 date: "2026-07-18T15:53:12.759078Z"
 lastmod: "2026-07-18T17:15:08.869891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Agent ucieleśniony to system sztucznej inteligencji, który oddziałuje ze swoim środowiskiem poprzez fizyczne ciało lub aparat zmysłowo-ruchowy."
 ---
-
 ## Definition
 
 W przeciwieństwie do nieucielesnionej AI przetwarzającej abstrakcyjne dane, agenci ucieleśnieni uczą się i działają w kontekście fizycznym, polegając na danych sensorycznych i wyjściach motorycznych. Ten paradygmat jest centralny dla robotyki i autonomii.

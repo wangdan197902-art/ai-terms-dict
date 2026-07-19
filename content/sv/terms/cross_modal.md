@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /sv/terms/cross_modal/
 date: "2026-07-18T15:32:35.880915Z"
 lastmod: "2026-07-18T17:15:08.955999Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Tekniker som integrerar och bearbetar information över olika sinnesdatatyper som text och bilder."
 ---
-
 ## Definition
 
 Tvärmodal AI innebär bearbetning och korrelation av data från distinkta modaliteter, såsom att kombinera visuella, auditiva och textuella indata. Dessa system lär sig gemensamma representationer för att förstå relationer...

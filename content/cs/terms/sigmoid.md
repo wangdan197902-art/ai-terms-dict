@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /cs/terms/sigmoid/
 date: "2026-07-18T16:17:18.468440Z"
 lastmod: "2026-07-18T17:15:09.200291Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Matematická funkce, která mapuje jakékoli reálné číslo na hodnotu mezi nulou a jedničkou, čímž vytváří S-tvarovou křivku."
 ---
-
 ## Definition
 
 Sigmoidní funkce, definovaná jako σ(z) = 1 / (1 + e^-z), je široce používána ve strojovém učení k modelování pravděpodobností. Stlačuje vstupní hodnoty do rozsahu (0, 1), což ji činí vhodnou pro binární klasifikaci a výstupní vrstvy neuronových sítí.

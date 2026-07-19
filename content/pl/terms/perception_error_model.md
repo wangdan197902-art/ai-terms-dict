@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /pl/terms/perception_error_model/
 date: "2026-07-18T16:10:51.679459Z"
 lastmod: "2026-07-18T17:15:08.906118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Statystyczny lub algorytmiczny framework służący do kwantyfikacji i korekty niedokładności w interpretacji danych sensorycznych."
 ---
-
 ## Definition
 
 Model błędu percepcji opisuje rozbieżności między obserwowanymi danymi sensorycznymi a prawdą odniesienia (ground truth), uwzględniając szum, okluzje lub ograniczenia czujników. Poprzez modelowanie tych błędów, systemy AI mogą...

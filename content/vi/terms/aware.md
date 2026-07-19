@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /vi/terms/aware/
 date: "2026-07-18T15:23:31.140932Z"
 lastmod: "2026-07-18T16:38:07.680405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ khả năng của AI trong việc phát hiện và xử lý thông tin ngữ cảnh hoặc kích thích cụ thể."
 ---
-
 ## Definition
 
 Trong ngữ cảnh AI, 'nhận thức' thường đề cập đến nhận thức tình huống hoặc ngữ cảnh, nơi hệ thống nhận ra các yếu tố môi trường hoặc trạng thái người dùng liên quan. Nó không ngụ ý ý thức mà là khả năng

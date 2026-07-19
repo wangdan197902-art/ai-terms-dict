@@ -1,23 +1,24 @@
 ---
-title: "أبحاث جوجل"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: أبحاث جوجل
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /ar/terms/google_research/
-date: "2026-07-18T15:59:51.229866Z"
-lastmod: "2026-07-18T17:15:08.508914Z"
+slug: google_research
+date: '2026-07-18T15:59:51.229866Z'
+lastmod: '2026-07-18T17:15:08.508914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "قسم الأبحاث التابع لجوجل المكرس لتقدم الذكاء الاصطناعي والتعلم الآلي وعلوم الكمبيوتر من خلال الدراسات الأساسية والتطبيقية."
+source: agnes_llm
+status: published
+language: ar
+description: قسم الأبحاث التابع لجوجل المكرس لتقدم الذكاء الاصطناعي والتعلم الآلي
+  وعلوم الكمبيوتر من خلال الدراسات الأساسية والتطبيقية.
 ---
-
 ## Definition
 
 أبحاث جوجل هي الذراع البحثي الأكاديمي والصناعي لشركة جوجل، وتركز على دفع حدود التكنولوجيا في مجالات مثل الذكاء الاصطناعي، ومعالجة اللغات الطبيعية، والحوسبة الكمية، من خلال نشر أبحاث رائدة وتطوير تقنيات مبتكرة.

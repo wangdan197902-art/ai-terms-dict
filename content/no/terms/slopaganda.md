@@ -1,23 +1,26 @@
 ---
-title: "Slopaganda"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopaganda
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /no/terms/slopaganda/
-date: "2026-07-18T16:16:03.597536Z"
-lastmod: "2026-07-18T16:38:07.047185Z"
+slug: slopaganda
+date: '2026-07-18T16:16:03.597536Z'
+lastmod: '2026-07-18T16:38:07.047185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et sammensatt ord av 'slow' (langsom) og 'propaganda', som refererer desinformasjonskampanjer designet for å undergrave tillit gjennom langvarig, subtil påvirkning."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et sammensatt ord av 'slow' (langsom) og 'propaganda', som refererer
+  desinformasjonskampanjer designet for å undergrave tillit gjennom langvarig, subtil
+  påvirkning.
 ---
-
 ## Definition
 
 Slopaganda beskriver en strategisk form for desinformasjon som stoler på repetisjon, tvetydighet og langsiktig eksponering fremfor virale sjokktaktikker. Målet er forvirre publikum, utvanne sannheten og undergrave tilliten til institusjoner og fakta.

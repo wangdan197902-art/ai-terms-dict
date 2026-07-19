@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /zh/terms/markov/
 date: "2026-07-18T10:53:03.111196Z"
 lastmod: "2026-07-18T11:44:45.376663Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "马尔可夫指代随机过程，其中未来状态仅取决于当前状态，遵循无记忆性的马尔可夫性质。"
 ---
-
 ## Definition
 
 在人工智能和概率论中，马尔可夫过程是描述系统随机状态转换的基础模型。其核心原则是马尔可夫性质，即系统在下一时刻的状态仅由当前状态决定，而与过去的历史状态无关。

@@ -7,8 +7,6 @@ tags: ["LLMs", "AI Models", "Anthropic"]
 difficulty: 2
 weight: 1
 slug: "claude"
-aliases:
-  - /sv/terms/claude/
 date: "2026-07-18T15:37:32.516196Z"
 lastmod: "2026-07-18T17:15:08.961017Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Claude är en familj av stora språkmodeller utvecklade av Anthropic, designade för att vara hjälpsamma, ofarliga och ärliga AI-assistenters."
 ---
-
 ## Definition
 
 Claude är en serie av avancerade stora språkmodeller skapade av säkerhetsföretaget inom AI, Anthropic. Känd för sina starka principer för överensstämmelse (alignment) och ramverket för konstitutionellt AI, fokuserar Claude på att vara hjälp

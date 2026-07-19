@@ -1,23 +1,24 @@
 ---
-title: "Multimodal sentimentanalys"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Multimodal sentimentanalys
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /sv/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:10:54.564557Z"
-lastmod: "2026-07-18T17:15:09.029546Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:10:54.564557Z'
+lastmod: '2026-07-18T17:15:09.029546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den datoriserade analysen av mänsklig sentiment genom att integrera textuella, visuella och auditiva ledtrådar."
+source: agnes_llm
+status: published
+language: sv
+description: Den datoriserade analysen av mänsklig sentiment genom att integrera textuella,
+  visuella och auditiva ledtrådar.
 ---
-
 ## Definition
 
 Multimodal sentimentanalys utvidgar traditionell textbaserad sentimentdetektering genom att inkludera ytterligare signaler såsom ansiktsuttryck, rösttonfall och kroppsspråk. Denna holistiska metodik förbättrar noggrannheten i känslomässig tolkning.

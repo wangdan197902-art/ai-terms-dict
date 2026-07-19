@@ -1,23 +1,23 @@
 ---
-title: "Punt"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: Punt
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /nl/terms/point/
-date: "2026-07-18T15:28:41.131318Z"
-lastmod: "2026-07-18T17:15:08.690528Z"
+slug: point
+date: '2026-07-18T15:28:41.131318Z'
+lastmod: '2026-07-18T17:15:08.690528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "In de wiskunde van AI vertegenwoordigt een punt een specifieke locatie in een multidimensionale vectorruimte, vaak gebruikt in embeddings of coördinatenstelsels."
+source: agnes_llm
+status: published
+language: nl
+description: In de wiskunde van AI vertegenwoordigt een punt een specifieke locatie
+  in een multidimensionale vectorruimte, vaak gebruikt in embeddings of coördinatenstelsels.
 ---
-
 ## Definition
 
 Een punt in AI-contexten duidt meestal op een discrete coördinaat binnen een kenmerkruimte of embeddingvector. Bijvoorbeeld, bij clusteralgoritmen zoals K-Means wordt elk datapunt behandeld als een punt in...

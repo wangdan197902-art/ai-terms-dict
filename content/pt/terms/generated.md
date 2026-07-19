@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /pt/terms/generated/
 date: "2026-07-18T14:35:24.459057Z"
 lastmod: "2026-07-18T15:51:59.430433Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Conteúdo criado por um modelo de IA em vez de ser recuperado diretamente de um conjunto de dados estático."
 ---
-
 ## Definition
 
 O termo 'gerado' descreve a saída produzida por modelos de IA generativa, como texto, imagens, áudio ou código. Diferente dos sistemas baseados em recuperação que buscam dados existentes, os modelos generativos sintetizam novos

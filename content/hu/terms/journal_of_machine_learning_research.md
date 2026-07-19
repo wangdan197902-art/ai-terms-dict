@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /hu/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:06:57.405185Z"
 lastmod: "2026-07-18T17:15:09.798468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy vezető, szaklektorált akadémiai folyóirat, amelynek célja a gépi tanulás minden aspektusára vonatkozó kiváló minőségű kutatások közzététele."
 ---
-
 ## Definition
 
 A Journal of Machine Learning Research (JMLR) egy kiemelkedő, nyílt hozzáférésű kiadvány, amely elsődleges fórumot biztosít a gépi tanulás szigorú tudományos eredményeinek terjesztésére. A folyóirat lefedi az elméleti és gyakorlati...

@@ -1,23 +1,24 @@
 ---
-title: "Rede Highway"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: Rede Highway
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /pt/terms/highway_network/
-date: "2026-07-18T15:04:08.787912Z"
-lastmod: "2026-07-18T15:51:59.498421Z"
+slug: highway_network
+date: '2026-07-18T15:04:08.787912Z'
+lastmod: '2026-07-18T15:51:59.498421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma arquitetura de rede neural profunda que introduz mecanismos de porta para facilitar o fluxo de gradiente através de redes muito profundas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma arquitetura de rede neural profunda que introduz mecanismos de porta
+  para facilitar o fluxo de gradiente através de redes muito profundas.
 ---
-
 ## Definition
 
 As Redes Highway foram projetadas para abordar o problema do gradiente desaparecente no aprendizado profundo, incorporando portas adaptativas que controlam o fluxo de informações. Semelhante às células LSTM, essas portas permitem que a informação flua diretamente através das camadas ou seja transformada por elas, facilitando o treinamento de redes com dezenas ou centenas de camadas.

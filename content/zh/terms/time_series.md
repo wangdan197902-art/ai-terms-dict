@@ -1,23 +1,22 @@
 ---
-title: "时间序列"
-term_id: "time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "forecasting"]
+title: 时间序列
+term_id: time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- forecasting
 difficulty: 3
 weight: 1
-slug: "time_series"
-aliases:
-  - /zh/terms/time_series/
-date: "2026-07-18T11:36:49.925231Z"
-lastmod: "2026-07-18T11:44:45.564253Z"
+slug: time_series
+date: '2026-07-18T11:36:49.925231Z'
+lastmod: '2026-07-18T11:44:45.564253Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "按时间顺序索引的数据点序列，通常使用专门的人工智能模型进行分析以进行预测。"
+source: agnes_llm
+status: published
+language: zh
+description: 按时间顺序索引的数据点序列，通常使用专门的人工智能模型进行分析以进行预测。
 ---
-
 ## Definition
 
 时间序列数据是由按时间间隔顺序记录的观测值组成的。在人工智能中，这种数据类型对于基于历史模式预测未来趋势至关重要。专门的模型如循环神经网络（RNN）、长短期记忆网络（LSTM）以及Transformer架构被广泛用于捕捉时间序列中的动态变化和长期依赖关系，从而实现高精度的预测。

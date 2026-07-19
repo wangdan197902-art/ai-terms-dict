@@ -1,23 +1,24 @@
 ---
-title: "TensorFlow Hub"
-term_id: "tensorflow_hub"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tensorflow", "libraries", "transfer-learning"]
+title: TensorFlow Hub
+term_id: tensorflow_hub
+category: basic_concepts
+subcategory: ''
+tags:
+- tensorflow
+- libraries
+- Transfer Learning
 difficulty: 3
 weight: 1
-slug: "tensorflow_hub"
-aliases:
-  - /id/terms/tensorflow_hub/
-date: "2026-07-18T16:10:44.135717Z"
-lastmod: "2026-07-18T16:38:07.513371Z"
+slug: tensorflow_hub
+date: '2026-07-18T16:10:44.135717Z'
+lastmod: '2026-07-18T16:38:07.513371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Repositori untuk modul pembelajaran mesin yang dapat digunakan kembali, memungkinkan pembelajaran transfer dengan model yang telah dilatih sebelumnya."
+source: agnes_llm
+status: published
+language: id
+description: Repositori untuk modul pembelajaran mesin yang dapat digunakan kembali,
+  memungkinkan pembelajaran transfer dengan model yang telah dilatih sebelumnya.
 ---
-
 ## Definition
 
 TensorFlow Hub adalah platform untuk mempublikasikan dan menggunakan kembali komponen pembelajaran mesin. Platform ini memungkinkan pengembang mengakses model yang telah dilatih sebelumnya untuk berbagai tugas seperti klasifikasi gambar, embedding teks, dan lainnya.

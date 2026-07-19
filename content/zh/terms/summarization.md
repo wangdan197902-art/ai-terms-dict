@@ -1,23 +1,23 @@
 ---
-title: "文本摘要"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: 文本摘要
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /zh/terms/summarization/
-date: "2026-07-18T11:02:04.102303Z"
-lastmod: "2026-07-18T11:44:45.406354Z"
+slug: summarization
+date: '2026-07-18T11:02:04.102303Z'
+lastmod: '2026-07-18T11:44:45.406354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一项自然语言处理任务，生成较长文本的简洁连贯摘要，同时保留其关键信息。"
+source: agnes_llm
+status: published
+language: zh
+description: 一项自然语言处理任务，生成较长文本的简洁连贯摘要，同时保留其关键信息。
 ---
-
 ## Definition
 
 文本摘要将大量文本缩减为较短版本，而不丢失核心含义。它可以是抽取式的，即从源文本中选择重要句子；也可以是抽象式的，即生成新的概括性语句。

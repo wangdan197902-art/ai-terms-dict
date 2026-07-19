@@ -1,23 +1,24 @@
 ---
-title: "Regularyzacja mnogościowa"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Regularyzacja mnogościowa
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /pl/terms/manifold_regularization/
-date: "2026-07-18T16:06:08.628322Z"
-lastmod: "2026-07-18T17:15:08.895785Z"
+slug: manifold_regularization
+date: '2026-07-18T16:06:08.628322Z'
+lastmod: '2026-07-18T17:15:08.895785Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika uczenia półnadzorowanego zakładająca, że dane leżą na mnogości niskowymiarowej i regularizująca model w oparciu o tę strukturę geometryczną."
+source: agnes_llm
+status: published
+language: pl
+description: Technika uczenia półnadzorowanego zakładająca, że dane leżą na mnogości
+  niskowymiarowej i regularizująca model w oparciu o tę strukturę geometryczną.
 ---
-
 ## Definition
 
 Regularyzacja mnogościowa rozszerza tradycyjne metody regularyzacji poprzez uwzględnienie wewnętrznej geometrii rozkładu danych. Działa na założeniu, że punkty danych o wysokiej wymiarowości są rozmieszczone wzdłuż wielowymiarowej struktury, co pozwala na lepsze uogólnianie modelu przy użyciu niewielkiej liczby etykietowanych przykładów oraz dużej liczby nieetykietowanych.

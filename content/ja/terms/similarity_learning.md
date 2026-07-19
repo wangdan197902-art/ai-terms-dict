@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /ja/terms/similarity_learning/
 date: "2026-07-18T11:31:59.766567Z"
 lastmod: "2026-07-18T11:44:45.144063Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "2つのオブジェクトがどれだけ似ているか、あるいは異なっているかを決定するための距離尺度を学習する機械学習のアプローチ。"
 ---
-
 ## Definition
 
 類似度学習は、類似したアイテムが近くに、異なるアイテムが遠くなるように、入力をベクトル空間にマッピングするモデルを訓練することに焦点を当てています。サイエズネットワークやトリプレット損失などの手法がよく用いられます。

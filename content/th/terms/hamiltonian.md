@@ -1,23 +1,23 @@
 ---
-title: "Hamiltonian (แฮมิลโทเนียน)"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: Hamiltonian (แฮมิลโทเนียน)
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /th/terms/hamiltonian/
-date: "2026-07-18T15:25:58.454913Z"
-lastmod: "2026-07-18T16:38:07.540475Z"
+slug: hamiltonian
+date: '2026-07-18T15:25:58.454913Z'
+lastmod: '2026-07-18T16:38:07.540475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ฟังก์ชันที่แสดงถึงพลังงานรวมของระบบ ใช้ในแบบจำลอง AI ที่ได้รับแรงบันดาลใจจากฟิสิกส์เพื่อจำลองพลวัตและรักษาพลังงาน"
+source: agnes_llm
+status: published
+language: th
+description: ฟังก์ชันที่แสดงถึงพลังงานรวมของระบบ ใช้ในแบบจำลอง AI ที่ได้รับแรงบันดาลใจจากฟิสิกส์เพื่อจำลองพลวัตและรักษาพลังงาน
 ---
-
 ## Definition
 
 มีรากฐานมาจากกลศาสตร์คลาสสิก แฮมิลโทเนียนแทนผลรวมของพลังงานจลน์และพลังงานศักย์ในระบบ ใน AI เครือข่ายประสาทแฮมิลโทเนียน (HNNs) นำแนวคิดนี้มาใช้ในการเรียนรู้พลวัตของ...

@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /cs/terms/robustness/
 date: "2026-07-18T16:16:21.189653Z"
 lastmod: "2026-07-18T17:15:09.197871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Schopnost modelu AI udržet výkon a stabilitu při čele s zašuměnými daty, adversariálními útoky nebo posunem distribuce dat."
 ---
-
 ## Definition
 
 V oblasti bezpečnosti a etiky AI se robustnost týká odolnosti modelu vůči neočekávaným vstupům nebo škodlivým manipulacím. Robustní systém pokračuje ve správném fungování i tehdy, když vstupní data obsahují šum

@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /el/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T16:09:41.371225Z"
 lastmod: "2026-07-18T17:15:09.913216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένα λεξικό τεχνητής νοημοσύνης είναι μια επιμελημένη λίστα ορισμών για τους όρους που χρησιμοποιούνται στην έρευνα και ανάπτυξη της ΤΝ."
 ---
-
 ## Definition
 
 Ένα Λεξικό Τεχνητής Νοημοσύνης λειτουργεί ως έγγραφο αναφοράς που ορίζει εξειδικευμένη ορολογία, ακρωνύμια και έννοιες στον χώρο. Βοηθά ερευνητές, προγραμματιστές και φοιτητές στην κατανόηση και τη σωστή χρήση της ορολογίας του κλάδου.

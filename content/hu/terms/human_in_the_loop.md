@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /hu/terms/human_in_the_loop/
 date: "2026-07-18T15:38:14.295693Z"
 lastmod: "2026-07-18T17:15:09.741340Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan rendszertervezés, ahol az emberek aktívan részt vesznek az AI modell döntéshozatali vagy visszajelzési folyamatában."
 ---
-
 ## Definition
 
 Az ember a körben (HITL) olyan AI-rendszerekre utal, amelyek emberi beavatkozást igényelnek a munkafolyamat különböző szakaszaiban, például adateljelölésnél, modellértékelésnél vagy végső döntés jóváhagyásánál. Ez a megközelítés biztosítja a felelősséget és a pontosságot.

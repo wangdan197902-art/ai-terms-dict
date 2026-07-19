@@ -1,23 +1,23 @@
 ---
-title: "تشريح المتحدثين"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: تشريح المتحدثين
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /ar/terms/speaker_diarization/
-date: "2026-07-18T16:21:44.120657Z"
-lastmod: "2026-07-18T17:15:08.550235Z"
+slug: speaker_diarization
+date: '2026-07-18T16:21:44.120657Z'
+lastmod: '2026-07-18T17:15:08.550235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تحديد 'من تحدث ومتى' في تسجيل صوتي."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تحديد 'من تحدث ومتى' في تسجيل صوتي.
 ---
-
 ## Definition
 
 تشريح المتحدثين هو مهمة تقسيم تدفق صوتي إلى مقاطع متجانسة وفقاً لهوية المتحدث. يجمع بين كشف تغيير المتحدث وتجميع المتحدثين لتسمية المقاطع.

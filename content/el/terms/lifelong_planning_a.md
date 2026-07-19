@@ -1,23 +1,25 @@
 ---
-title: "Βιοσχεδιασμός A* (Lifelong Planning A*)"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Βιοσχεδιασμός A* (Lifelong Planning A*)
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /el/terms/lifelong_planning_a/
-date: "2026-07-18T16:18:19.714435Z"
-lastmod: "2026-07-18T17:15:09.926310Z"
+slug: lifelong_planning_a
+date: '2026-07-18T16:18:19.714435Z'
+lastmod: '2026-07-18T17:15:09.926310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας αλγόριθμος εύρεσης μονοπατιού που ενημερώνει σταδιακά τις συντομότερες διαδρομές σε δυναμικά γραφήματα χωρίς να υπολογίζει εκ νέου από την αρχή μετά από αλλαγές στα βάρη των ακμών."
+source: agnes_llm
+status: published
+language: el
+description: Ένας αλγόριθμος εύρεσης μονοπατιού που ενημερώνει σταδιακά τις συντομότερες
+  διαδρομές σε δυναμικά γραφήματα χωρίς να υπολογίζει εκ νέου από την αρχή μετά από
+  αλλαγές στα βάρη των ακμών.
 ---
-
 ## Definition
 
 Ο Βιοσχεδιασμός A* (LPA*) είναι μια επέκταση του αλγορίθμου αναζήτησης A* που έχει σχεδιαστεί για περιβάλλοντα όπου οι κόστοι αλλάζουν με τον χρόνο. Αντί να ξεκινά ξανά την αναζήτηση, ο LPA* διατηρεί μια ουρά προτεραιότητας και ενημερώνει

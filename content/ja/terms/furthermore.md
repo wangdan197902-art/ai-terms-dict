@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /ja/terms/furthermore/
 date: "2026-07-18T10:51:14.545069Z"
 lastmod: "2026-07-18T11:44:45.009484Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "技術文書において、追加情報を導入したり、以前の議論を強化するために使用される接続副詞。"
 ---
-
 ## Definition
 
 技術的なアルゴリズムではありませんが、「furthermore（さらに）」はAIのドキュメントや研究論文における重要な言語的ツールです。これはアイデアをつなぎ、次の記述が前の内容に重みを与えたり、補足情報を加えたりすることを示す役割を果たします。

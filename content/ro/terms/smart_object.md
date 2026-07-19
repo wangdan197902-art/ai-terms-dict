@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /ro/terms/smart_object/
 date: "2026-07-18T16:20:53.450593Z"
 lastmod: "2026-07-18T17:15:09.702802Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O entitate fizică echipată cu senzori, actuatori și conectivitate pentru a colecta date și a interacționa inteligent cu mediul său."
 ---
-
 ## Definition
 
 Obiectele inteligente sunt componente ale Internetului Lucrurilor (IoT) care posedă identificatori unici și capacitatea de a transfera date printr-o rețea fără interacțiune directă om-la-om sau om-la-calculator. Ele permit monitorizarea și controlul automatizat al activităților fizice.

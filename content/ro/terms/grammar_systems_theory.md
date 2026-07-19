@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /ro/terms/grammar_systems_theory/
 date: "2026-07-18T16:00:47.210445Z"
 lastmod: "2026-07-18T17:15:09.662107Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Teoria sistemelor gramaticale este o ramură a teoriei limbajelor formale care studiază modele computaționale bazate pe gramatici care interacționează în medii paralele sau distribuite."
 ---
-
 ## Definition
 
 Originate din informatica teoretică și lingvistică, acest domeniu extinde conceptele ierarhiei clasice Chomsky la sistemele cu mai multe componente. Investighează modul în care mai multe gramatici sau componente interacționează...

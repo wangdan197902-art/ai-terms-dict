@@ -1,23 +1,24 @@
 ---
-title: "Övervakad inlärning"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Övervakad inlärning
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /sv/terms/supervised_learning/
-date: "2026-07-18T15:40:47.756409Z"
-lastmod: "2026-07-18T17:15:08.967584Z"
+slug: supervised_learning
+date: '2026-07-18T15:40:47.756409Z'
+lastmod: '2026-07-18T17:15:08.967584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En paradigm inom maskininlärning där en modell lär sig att mappa indata till utdata baserat på märkta träningsexempel."
+source: agnes_llm
+status: published
+language: sv
+description: En paradigm inom maskininlärning där en modell lär sig att mappa indata
+  till utdata baserat på märkta träningsexempel.
 ---
-
 ## Definition
 
 Inom övervakad inlärning tränas algoritmen på ett märkt dataset, vilket innebär att varje indataexempel är kopplat till rätt utdata. Målet är att modellen ska lära sig det underliggande sambandet mellan in- och utdata.

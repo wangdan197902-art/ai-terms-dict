@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /th/terms/datasetgooaq/
 date: "2026-07-18T15:48:28.266771Z"
 lastmod: "2026-07-18T16:38:07.594468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลขนาดใหญ่ที่มีคำถามและคำตอบจากบริการ Google Answers ใช้สำหรับฝึกโมเดลการดึงข้อมูลและการตอบคำถาม"
 ---
-
 ## Definition
 
 GooAQ เป็นชุดข้อมูลที่รวบรวมจากบริการ Google Answers ซึ่งมีคอลเลกชันคำถามที่ผู้ใช้ส่งเข้ามาจำนวนมากพร้อมกับคำตอบละเอียดที่ได้รับค่าตอบแทน ชุดข้อมูลนี้เป็นทรัพยากรที่มีค่าอย่างยิ่งสำหรับการฝึกโมเดลตอบคำถามในโดเมนเปิด (Open-Domain QA) และการพัฒนาระบบ Retrieval-Augmented Generation (RAG) เนื่องจากมีคุณภาพของคำตอบที่สูงและครอบคลุมหัวข้อที่หลากหลาย

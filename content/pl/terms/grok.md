@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /pl/terms/grok/
 date: "2026-07-18T15:57:59.349301Z"
 lastmod: "2026-07-18T17:15:08.879773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Bot czatu oparty na sztucznej inteligencji opracowany przez xAI, zintegrowany z platformą X, znany z dostępu do danych mediów społecznościowych w czasie rzeczywistym i żartobliwej osobowości."
 ---
-
 ## Definition
 
 Grok to duży model językowy (chatbot) stworzony przez firmę Elona Muska, xAI. Jest głównie dostępny dla subskrybentów platformy X (dawniej Twitter). Grok wyróżnia się posiadaniem dostępu do danych w czasie rzeczywistym...

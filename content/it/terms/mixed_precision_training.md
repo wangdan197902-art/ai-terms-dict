@@ -1,23 +1,24 @@
 ---
-title: "Addestramento a precisione mista"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Addestramento a precisione mista
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /it/terms/mixed_precision_training/
-date: "2026-07-18T16:11:23.371113Z"
-lastmod: "2026-07-18T17:15:08.649508Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:11:23.371113Z'
+lastmod: '2026-07-18T17:15:08.649508Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica di addestramento che utilizza numeri in virgola mobile a 16 bit e 32 bit per accelerare il calcolo e ridurre l'utilizzo della memoria."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica di addestramento che utilizza numeri in virgola mobile a
+  16 bit e 32 bit per accelerare il calcolo e ridurre l'utilizzo della memoria.
 ---
-
 ## Definition
 
 L'addestramento a precisione mista (MPT) combina tipi di dati a mezza precisione (FP16) e a piena precisione (FP32) durante l'addestramento delle reti neurali. Utilizzando FP16 per la maggior parte delle operazioni, la MPT riduce l'impronta di memoria e

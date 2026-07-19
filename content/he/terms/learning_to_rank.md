@@ -7,8 +7,6 @@ tags: ["search", "ranking", "applications"]
 difficulty: 4
 weight: 1
 slug: "learning_to_rank"
-aliases:
-  - /he/terms/learning_to_rank/
 date: "2026-07-18T16:09:30.653272Z"
 lastmod: "2026-07-18T17:15:09.557678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "למידה לדירוג היא טכניקת למידת מכונה מפוקחת המשמשת לסדר פריטים לפי רלוונטיות לשאילתה נתונה, נפוצה במנועי חיפוש."
 ---
-
 ## Definition
 
 בניגוד לסיווג רגיל או רגרסיה, למידה לדירוג מתמקדת בחיזוי סדר יחסי של פריטים. היא משתמשת בגישות זוגיות (Pairwise), רשימתיות (Listwise) או נקודתיות (Pointwise) כדי למזער שגיאות דירוג כמו NDCG, תוך הבטחה שהפריטים הרלוונטיים ביותר יופיעו בחלק העליון של התוצאות.

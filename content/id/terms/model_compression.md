@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /id/terms/model_compression/
 date: "2026-07-18T16:00:53.811485Z"
 lastmod: "2026-07-18T16:38:07.484134Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kompresi model merujuk pada teknik-teknik yang mengurangi ukuran dan kebutuhan komputasi dari model pembelajaran mesin."
 ---
-
 ## Definition
 
 Kategori ini mencakup metode seperti pemangkasan (pruning), kuantisasi, dan distilasi pengetahuan yang bertujuan memperkecil jejak model sambil mempertahankan kinerja. Hal ini penting untuk menerapkan model AI kompleks

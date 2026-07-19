@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /ro/terms/on_policy/
 date: "2026-07-18T15:33:06.879546Z"
 lastmod: "2026-07-18T17:15:09.609895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare de învățare prin întărire în care politica evaluată și îmbunătățită este aceeași cu cea utilizată pentru generarea datelor."
 ---
-
 ## Definition
 
 Algoritmii on-policy necesită ca agentul să învețe direct din acțiunile întreprinse de politica sa curentă. Acest lucru înseamnă că datele colectate în timpul explorării sunt utilizate imediat pentru a actualiza politica, asigurând coerența.

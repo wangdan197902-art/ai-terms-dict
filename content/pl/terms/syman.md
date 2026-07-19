@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /pl/terms/syman/
 date: "2026-07-18T16:19:37.710720Z"
 lastmod: "2026-07-18T17:15:08.922235Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Niestandardowy lub niejednoznaczny termin w literaturze AI; prawdopodobnie literówka dla \"System\" lub specyficzny akronim niszowy, nieuznawany powszechnie w ogólnej terminologii AI."
 ---
-
 ## Definition
 
 Nie istnieje powszechnie akceptowana definicja "Syman" w mainstreamowej terminologii sztucznej inteligencji. Może odnosić się do konkretnego narzędzia proprietarnego, literówki dla "System" (np. System Prompt) lub...

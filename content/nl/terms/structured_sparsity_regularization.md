@@ -1,23 +1,24 @@
 ---
-title: "Regulering van gestructureerde sparseheid"
-term_id: "structured_sparsity_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "optimization", "feature_selection"]
+title: Regulering van gestructureerde sparseheid
+term_id: structured_sparsity_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- Optimization
+- Feature Selection
 difficulty: 3
 weight: 1
-slug: "structured_sparsity_regularization"
-aliases:
-  - /nl/terms/structured_sparsity_regularization/
-date: "2026-07-18T16:18:38.470440Z"
-lastmod: "2026-07-18T17:15:08.790972Z"
+slug: structured_sparsity_regularization
+date: '2026-07-18T16:18:38.470440Z'
+lastmod: '2026-07-18T17:15:08.790972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een regularisatietechniek die sparseheidpatronen afdwingt op basis van voorkennis over groeperingen of structuren van kenmerken binnen de gegevens."
+source: agnes_llm
+status: published
+language: nl
+description: Een regularisatietechniek die sparseheidpatronen afdwingt op basis van
+  voorkennis over groeperingen of structuren van kenmerken binnen de gegevens.
 ---
-
 ## Definition
 
 Regulering van gestructureerde sparseheid breidt standaard L1-regularisatie uit door nullen in specifieke patronen aan te moedigen in plaats van individuele coëfficiënten onafhankelijk van elkaar. Het maakt gebruik van voorkennis over

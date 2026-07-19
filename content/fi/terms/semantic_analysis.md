@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /fi/terms/semantic_analysis/
 date: "2026-07-18T16:19:41.202034Z"
 lastmod: "2026-07-18T17:15:09.458038Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Semanttinen analyysi on prosessi, jossa tekstistä johdetaan merkitys ymmärtämällä sanojen välisiä suhteita ja kontekstia luonnollen kielen käsittelyn puitteissa."
 ---
-
 ## Definition
 
 Se menee syntaktisen rakenteen yli tulkitsemalla kieliannostulojen todellista aikomusta ja merkitystä. Tämä sisältää sanojen merkitysten selventämisen kontekstin perusteella, entiteettien tunnistamisen ja ymmärtämisen.

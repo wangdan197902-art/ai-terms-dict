@@ -1,23 +1,23 @@
 ---
-title: "ยุค (Epoch)"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: ยุค (Epoch)
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /th/terms/epoch/
-date: "2026-07-18T15:52:12.324243Z"
-lastmod: "2026-07-18T16:38:07.603455Z"
+slug: epoch
+date: '2026-07-18T15:52:12.324243Z'
+lastmod: '2026-07-18T16:38:07.603455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หนึ่งรอบสมบูรณ์ของการผ่านชุดข้อมูลการฝึกฝนเข้าไปในอัลกอริทึมการเรียนรู้ของเครื่องระหว่างขั้นตอนการฝึกโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: หนึ่งรอบสมบูรณ์ของการผ่านชุดข้อมูลการฝึกฝนเข้าไปในอัลกอริทึมการเรียนรู้ของเครื่องระหว่างขั้นตอนการฝึกโมเดล
 ---
-
 ## Definition
 
 ในการเรียนรู้ของเครื่อง ยุค (Epoch) หมายถึงหนึ่งรอบการทำงานทั่วทั้งชุดข้อมูลการฝึกฝน ในแต่ละยุค โมเดลจะประมวลผลตัวอย่างการฝึกทั้งหมด ปรับปรุงน้ำหนักผ่านกระบวนการ backpropagation และประเมินผลประสิทธิภาพ

@@ -1,23 +1,24 @@
 ---
-title: "Residual Connection"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: Residual Connection
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /en/terms/residual_connection/
-date: "2026-07-18T09:42:48.752459Z"
-lastmod: "2026-07-18T11:44:44.632226Z"
+slug: residual_connection
+date: '2026-07-18T09:42:48.752459Z'
+lastmod: '2026-07-18T11:44:44.632226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A mechanism that adds input directly to the output of a layer to facilitate gradient flow in deep networks."
+source: agnes_llm
+status: published
+language: en
+description: A mechanism that adds input directly to the output of a layer to facilitate
+  gradient flow in deep networks.
 ---
-
 ## Definition
 
 Residual connections, also known as skip connections, allow gradients to flow through a network by directly adding an input to a subsequent layer's output. This architecture solves the vanishing gradient problem, enabling the training of very deep neural networks like ResNet. By learning residual functions rather than unreferenced mappings, models can capture subtle changes while preserving original information, significantly improving convergence speed and accuracy in complex tasks.

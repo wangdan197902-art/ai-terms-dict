@@ -1,23 +1,23 @@
 ---
-title: "ผลคูณของผู้เชี่ยวชาญ"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: ผลคูณของผู้เชี่ยวชาญ
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /th/terms/product_of_experts/
-date: "2026-07-18T16:11:47.432798Z"
-lastmod: "2026-07-18T16:38:07.644685Z"
+slug: product_of_experts
+date: '2026-07-18T16:11:47.432798Z'
+lastmod: '2026-07-18T16:38:07.644685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กรอบการทำงานสำหรับการสร้างแบบจำลองความน่าจะเป็นซึ่งการแจกแจงร่วมเกิดจากการคูณผลลัพธ์ของโมเดลผู้เชี่ยวชาญอิสระหลายตัว"
+source: agnes_llm
+status: published
+language: th
+description: กรอบการทำงานสำหรับการสร้างแบบจำลองความน่าจะเป็นซึ่งการแจกแจงร่วมเกิดจากการคูณผลลัพธ์ของโมเดลผู้เชี่ยวชาญอิสระหลายตัว
 ---
-
 ## Definition
 
 ผลคูณของผู้เชี่ยวชาญ (PoE) เป็นวิธีการสร้างการแจกแจงความน่าจะเป็นที่ซับซ้อนโดยการรวมการแจกแจงที่เรียบง่ายเข้าด้วยกัน ต่างจาก 'การผสมผสานของผู้เชี่ยวชาญ' ที่ทำการเฉลี่ยความน่าจะเป็น PoE จะคูณความน่าจะเป็นหรือพลังงานจากโมเดลย่อยต่างๆ เข้าด้วยกันเพื่อสร้างการแจกแจงร่วม

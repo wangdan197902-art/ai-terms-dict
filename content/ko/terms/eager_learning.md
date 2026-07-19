@@ -1,23 +1,23 @@
 ---
-title: "기대 학습(Eager Learning)"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: 기대 학습(Eager Learning)
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /ko/terms/eager_learning/
-date: "2026-07-18T15:53:50.594658Z"
-lastmod: "2026-07-18T16:38:06.835203Z"
+slug: eager_learning
+date: '2026-07-18T15:53:50.594658Z'
+lastmod: '2026-07-18T16:38:06.835203Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "일반화 함수가 훈련 단계 동안 학습되어 훈련 완료 후 빠른 예측 시간을 허용하는 머신러닝 접근 방식."
+source: agnes_llm
+status: published
+language: ko
+description: 일반화 함수가 훈련 단계 동안 학습되어 훈련 완료 후 빠른 예측 시간을 허용하는 머신러닝 접근 방식.
 ---
-
 ## Definition
 
 기대 학습(Eager Learning)에서는 시스템이 새로운 인스턴스를 마주하기 전에 훈련 데이터를 기반으로 일반적인 목표 함수나 모델을 사전에 구축합니다. 이는 새로운 데이터를 받을 때마다 학습을 수행하는 지연 학습(Lazy Learning)과 대조됩니다. 기대 학습은 일반적으로 더 높은 계산 비용의 훈련 단계를 거치지만, 추론(Inference) 단계에서는 매우 빠르게 동작합니다.

@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /fr/terms/human_in_the_loop/
 date: "2026-07-18T10:59:57.980274Z"
 lastmod: "2026-07-18T11:44:45.185158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une conception de système où les humains participent activement au processus de prise de décision ou de retour d'information d'un modèle d'IA."
 ---
-
 ## Definition
 
 L'expression « Humain dans la boucle » (HITL) désigne les systèmes d'IA nécessitant une intervention humaine à différentes étapes du flux de travail, telles que l'étiquetage des données, l'évaluation du modèle ou l'approbation finale des décisions. Cette approche garantit la responsabilité et la précision.

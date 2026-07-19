@@ -1,23 +1,23 @@
 ---
-title: "التعلم المعزز من التغذية الراجعة البشرية"
-term_id: "rlhf"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "fine_tuning"]
+title: التعلم المعزز من التغذية الراجعة البشرية
+term_id: rlhf
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Fine-Tuning
 difficulty: 5
 weight: 1
-slug: "rlhf"
-aliases:
-  - /ar/terms/rlhf/
-date: "2026-07-18T15:30:15.974582Z"
-lastmod: "2026-07-18T17:15:08.447030Z"
+slug: rlhf
+date: '2026-07-18T15:30:15.974582Z'
+lastmod: '2026-07-18T17:15:08.447030Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "RLHF هي تقنية لمحاذاة نماذج الذكاء الاصطناعي مع التفضيلات البشرية باستخدام التغذية الراجعة البشرية لتدريب نموذج مكافأة لتعلم التعزيز."
+source: agnes_llm
+status: published
+language: ar
+description: RLHF هي تقنية لمحاذاة نماذج الذكاء الاصطناعي مع التفضيلات البشرية باستخدام
+  التغذية الراجعة البشرية لتدريب نموذج مكافأة لتعلم التعزيز.
 ---
-
 ## Definition
 
 التعلم المعزز من التغذية الراجعة البشرية (RLHF) هو طريقة تُستخدم لضبط النماذج اللغوية الكبيرة بحيث تتوافق مخرجاتها بشكل أفضل مع القيم والتوقعات البشرية. تتضمن عادةً ثلاث خطوات...

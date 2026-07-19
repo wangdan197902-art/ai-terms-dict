@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /sv/terms/muse_spark/
 date: "2026-07-18T16:11:08.689233Z"
 lastmod: "2026-07-18T17:15:09.030092Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett distribuerat djupinlärningsramverk byggt på Apache Spark som möjliggör skalbar modellträning över stora kluster."
 ---
-
 ## Definition
 
 Muse Spark är ett öppet källkodsramverk för djupinlärning designat för att köras effektivt ovanpå Apache Spark. Det låter utvecklare träna komplexa neurala nätverk över distribuerade kluster genom att utnyttja

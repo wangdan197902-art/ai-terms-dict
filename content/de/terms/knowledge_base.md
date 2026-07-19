@@ -1,23 +1,25 @@
 ---
-title: "Wissensdatenbank"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Wissensdatenbank
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /de/terms/knowledge_base/
-date: "2026-07-18T10:58:44.539781Z"
-lastmod: "2026-07-18T11:44:44.895826Z"
+slug: knowledge_base
+date: '2026-07-18T10:58:44.539781Z'
+lastmod: '2026-07-18T11:44:44.895826Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein zentralisiertes Repository strukturierter Informationen, das zur Unterstützung von Entscheidungsfindung und retrieval-augmented generation (RAG) in KI-Anwendungen dient."
+source: agnes_llm
+status: published
+language: de
+description: Ein zentralisiertes Repository strukturierter Informationen, das zur
+  Unterstützung von Entscheidungsfindung und retrieval-augmented generation (RAG)
+  in KI-Anwendungen dient.
 ---
-
 ## Definition
 
 Eine Wissensdatenbank fungiert als digitale Bibliothek, die kuratierte Daten, Dokumente oder Fakten enthält, die KI-Systeme abfragen können, um genaue, kontextbewusste Antworten zu liefern. In modernen Architekturen wie Retrieval-Augmented Generation (RAG) ist sie entscheidend für die Bereitstellung faktentreuer Inhalte.

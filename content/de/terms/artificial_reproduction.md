@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /de/terms/artificial_reproduction/
 date: "2026-07-18T11:03:33.637108Z"
 lastmod: "2026-07-18T11:44:44.911103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Einsatz von Biotechnologie und KI zur Unterstützung oder Nachbildung biologischer Fortpflanzungsprozesse, oft in der Medizin oder Landwirtschaft."
 ---
-
 ## Definition
 
 Künstliche Reproduktion umfasst Techniken, die die biologische Fortpflanzung ohne direkten Geschlechtsverkehr erleichtern oder nachbilden, wobei stark Technologie und zunehmend KI zur Optimierung genutzt werden

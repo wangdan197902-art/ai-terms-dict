@@ -1,23 +1,23 @@
 ---
-title: "特征存储"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: 特征存储
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /zh/terms/feature_store/
-date: "2026-07-18T11:17:13.896130Z"
-lastmod: "2026-07-18T11:44:45.499099Z"
+slug: feature_store
+date: '2026-07-18T11:17:13.896130Z'
+lastmod: '2026-07-18T11:44:45.499099Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个集中式仓库，旨在跨机器学习训练和推理一致地管理、共享和服务特征。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个集中式仓库，旨在跨机器学习训练和推理一致地管理、共享和服务特征。
 ---
-
 ## Definition
 
 特征存储在数据工程和机器学习团队之间起到桥梁作用，为批量训练和实时推理提供统一的特征视图。它通过确保训练时使用的特征与在线推理时使用的特征完全一致，解决了训练-服务偏差问题，并支持特征版本控制和重用。

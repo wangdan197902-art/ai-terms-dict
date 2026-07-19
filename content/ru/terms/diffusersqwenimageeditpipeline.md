@@ -1,23 +1,25 @@
 ---
-title: "Диффузоры: конвейер редактирования изображений Qwen"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Диффузоры: конвейер редактирования изображений Qwen'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /ru/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:50:27.940087Z"
-lastmod: "2026-07-18T16:38:07.149654Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:50:27.940087Z'
+lastmod: '2026-07-18T16:38:07.149654Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Конвейер в библиотеке Hugging Face Diffusers, использующий модели Qwen-VL для задач редактирования изображений на основе инструкций."
+source: agnes_llm
+status: published
+language: ru
+description: Конвейер в библиотеке Hugging Face Diffusers, использующий модели Qwen-VL
+  для задач редактирования изображений на основе инструкций.
 ---
-
 ## Definition
 
 Этот конвейер интегрирует возможности модели Qwen-Vision-Language в фреймворк Diffusers для выполнения точных изменений изображений на основе инструкций на естественном языке. В отличие от генеративных конвейеров...

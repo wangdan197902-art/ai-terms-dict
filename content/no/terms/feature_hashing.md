@@ -1,23 +1,24 @@
 ---
-title: "Funksjonshashing"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Funksjonshashing
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /no/terms/feature_hashing/
-date: "2026-07-18T15:54:29.422453Z"
-lastmod: "2026-07-18T16:38:07.000447Z"
+slug: feature_hashing
+date: '2026-07-18T15:54:29.422453Z'
+lastmod: '2026-07-18T16:38:07.000447Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som avbilder høydimensjonale, sparsomme funksjoner til en vektor med fast størrelse ved hjelp av en hash-funksjon."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som avbilder høydimensjonale, sparsomme funksjoner til en
+  vektor med fast størrelse ved hjelp av en hash-funksjon.
 ---
-
 ## Definition
 
 Funksjonshashing, også kjent som hashing-trikset, lar maskinlæringsmodeller håndtere store, sparsomme funksjonsrom uten å opprettholde en eksplisitt kartlegging mellom funksjoner og indekser. Ved å bruke en hash-funksjon kan modellen tilordne hver funksjon til en bestemt posisjon i en vektor med fast lengde, noe som reduserer minnebruk og forenkler behandlingen av store datamengder.

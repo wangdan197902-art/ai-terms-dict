@@ -1,23 +1,24 @@
 ---
-title: "Pengujian"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Pengujian
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /id/terms/testing/
-date: "2026-07-18T15:36:17.841147Z"
-lastmod: "2026-07-18T16:38:07.420061Z"
+slug: testing
+date: '2026-07-18T15:36:17.841147Z'
+lastmod: '2026-07-18T16:38:07.420061Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses sistematis untuk mengevaluasi kinerja dan keandalan model AI pada data yang belum pernah dilihat guna memastikan kualitas dan keamanan."
+source: agnes_llm
+status: published
+language: id
+description: Proses sistematis untuk mengevaluasi kinerja dan keandalan model AI pada
+  data yang belum pernah dilihat guna memastikan kualitas dan keamanan.
 ---
-
 ## Definition
 
 Pengujian dalam rekayasa AI melibatkan penilaian model secara ketat terhadap berbagai dataset untuk mengidentifikasi bias, kesalahan, dan masalah ketahanan. Ini mencakup uji unit untuk komponen kode, uji integrasi, dan lainnya.

@@ -1,23 +1,24 @@
 ---
-title: "اقتباس"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: اقتباس
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /ar/terms/citation/
-date: "2026-07-18T15:48:35.462786Z"
-lastmod: "2026-07-18T17:15:08.484262Z"
+slug: citation
+date: '2026-07-18T15:48:35.462786Z'
+lastmod: '2026-07-18T17:15:08.484262Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير الاقتباس في الذكاء الاصطناعي إلى ممارسة نسب المواد المصدرية أو البيانات المستخدمة داخل النص المُولّد أو النماذج لضمان الشفافية والامتثال لحقوق الملكية الفكرية."
+source: agnes_llm
+status: published
+language: ar
+description: يشير الاقتباس في الذكاء الاصطناعي إلى ممارسة نسب المواد المصدرية أو البيانات
+  المستخدمة داخل النص المُولّد أو النماذج لضمان الشفافية والامتثال لحقوق الملكية الفكرية.
 ---
-
 ## Definition
 
 مع توليد نماذج الذكاء الاصطناعي التوليدية للمحتوى، برزت الحاجة إلى آليات الاقتباس للحفاظ على النزاهة الأكاديمية والامتثال القانوني. يتضمن ذلك تضمين مراجع للمصادر الأصلية ضمن

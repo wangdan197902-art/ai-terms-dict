@@ -1,23 +1,24 @@
 ---
-title: "Количественная оценка"
-term_id: "quantification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_processing", "fundamentals", "preprocessing"]
+title: Количественная оценка
+term_id: quantification
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Processing
+- fundamentals
+- preprocessing
 difficulty: 2
 weight: 1
-slug: "quantification"
-aliases:
-  - /ru/terms/quantification/
-date: "2026-07-18T16:11:56.492333Z"
-lastmod: "2026-07-18T16:38:07.195597Z"
+slug: quantification
+date: '2026-07-18T16:11:56.492333Z'
+lastmod: '2026-07-18T16:38:07.195597Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Количественная оценка — это процесс выражения качественных атрибутов или абстрактных концепций в числовых терминах для анализа."
+source: agnes_llm
+status: published
+language: ru
+description: Количественная оценка — это процесс выражения качественных атрибутов
+  или абстрактных концепций в числовых терминах для анализа.
 ---
-
 ## Definition
 
 В контексте ИИ и науки о данных количественная оценка относится к преобразованию нечисловых данных, таких как текст, изображения или субъективные мнения, в измеримые числовые значения. Этот процесс необходим для обработки информации алгоритмами машинного обучения.

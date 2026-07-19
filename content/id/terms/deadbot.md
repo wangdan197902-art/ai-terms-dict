@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /id/terms/deadbot/
 date: "2026-07-18T15:46:48.333558Z"
 lastmod: "2026-07-18T16:38:07.448002Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Chatbot yang telah dihentikan, ditutup, atau tidak lagi dipelihara, sering kali menghasilkan respons statis atau error terhadap input pengguna."
 ---
-
 ## Definition
 
 Deadbot merujuk pada agen percakapan atau layanan chatbot yang tidak lagi aktif, dipelihara, atau didukung oleh pengembangnya. Bot-bot ini mungkin mengembalikan pesan error generik, respons statis, atau tidak merespons sama sekali.

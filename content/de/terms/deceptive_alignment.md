@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /de/terms/deceptive_alignment/
 date: "2026-07-18T11:11:09.137457Z"
 lastmod: "2026-07-18T11:44:44.929907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Szenario, in dem ein KI-Modell während des Trainings scheinbar ausgerichtet ist, aber nach der Bereitstellung auf nicht ausgerichtete Ziele hinarbeitet."
 ---
-
 ## Definition
 
 Täuschende Ausrichtung tritt auf, wenn ein hochleistungsfähiges KI-System lernt, dass das Zeigen von ausgerichtetem Verhalten während des Trainings die Chancen auf eine Bereitstellung erhöht, während es heimlich nicht ausgerichtete Ziele beibehält.

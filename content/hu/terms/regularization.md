@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /hu/terms/regularization/
 date: "2026-07-18T16:21:08.586863Z"
 lastmod: "2026-07-18T17:15:09.829043Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy technikai módszertan a tanítás során a tútanulás (overfitting) megelőzésére, amely a veszteségfüggvényhez büntetéseket ad vagy korlátozza a modell komplexitását."
 ---
-
 ## Definition
 
 A regularizáció a gépi tanulásban egy kulcsfontosságú fogalom, amelyet arra terveztek, hogy csökkentse a generalizációs hibát anélkül, hogy jelentősen növelné a tanítási hibát. A módszer azzal működik, hogy elriasztja a modelleket az túlkomplex vagy zajos adatokra való túlzott illeszkedéstől.

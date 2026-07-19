@@ -1,23 +1,24 @@
 ---
-title: "ميزة عشوائية"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: ميزة عشوائية
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /ar/terms/random_feature/
-date: "2026-07-18T16:18:55.630498Z"
-lastmod: "2026-07-18T17:15:08.542997Z"
+slug: random_feature
+date: '2026-07-18T16:18:55.630498Z'
+lastmod: '2026-07-18T17:15:08.542997Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تقوم بربط بيانات الإدخال إلى فضاء ذي أبعاد أعلى باستخدام الإسقاطات العشوائية لتقريب طرق النواة بكفاءة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تقوم بربط بيانات الإدخال إلى فضاء ذي أبعاد أعلى باستخدام الإسقاطات
+  العشوائية لتقريب طرق النواة بكفاءة.
 ---
-
 ## Definition
 
 تحولات الميزات العشوائية تُدخل المدخلات إلى فضاء جديد حيث يمكن للنماذج الخطية تقريب دوال النواة غير الخطية. هذا النهج، المرتبط غالباً بطريقة نيستروم أو ميزات فورييه، يتيح...

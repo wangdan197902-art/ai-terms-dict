@@ -1,23 +1,24 @@
 ---
-title: "Lat læring"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Lat læring
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /no/terms/lazy_learning/
-date: "2026-07-18T16:02:08.005847Z"
-lastmod: "2026-07-18T16:38:07.017943Z"
+slug: lazy_learning
+date: '2026-07-18T16:02:08.005847Z'
+lastmod: '2026-07-18T16:38:07.017943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En læringsmetode som utsetter generalisering til klassifiseringstidspunktet, ved å lagre treningsinstanser i stedet for å bygge en eksplisitt modell."
+source: agnes_llm
+status: published
+language: 'no'
+description: En læringsmetode som utsetter generalisering til klassifiseringstidspunktet,
+  ved å lagre treningsinstanser i stedet for å bygge en eksplisitt modell.
 ---
-
 ## Definition
 
 Lat lærere, som k-Nærmeste Naboer (k-NN), husker hele treningsdatasettet og utfører beregninger først når de tar beslutninger. Dette står i kontrast til ivrig læring, som bygger en genera

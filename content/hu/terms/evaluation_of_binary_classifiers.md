@@ -1,23 +1,24 @@
 ---
-title: "Bináris osztályozók értékelése"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Bináris osztályozók értékelése
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /hu/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:59:06.348197Z"
-lastmod: "2026-07-18T17:15:09.782036Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:59:06.348197Z'
+lastmod: '2026-07-18T17:15:09.782036Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A gépi tanulási modellek teljesítményének felmérése, amelyek két lehetséges kimenetel egyikét jósolják meg."
+source: agnes_llm
+status: published
+language: hu
+description: A gépi tanulási modellek teljesítményének felmérése, amelyek két lehetséges
+  kimenetel egyikét jósolják meg.
 ---
-
 ## Definition
 
 Ez a terület az olyan metrikák elemzését foglalja magában, mint a pontosság, precizitás, recall (igaz pozitív arány), F1-érték és a Receiver Operating Characteristic görbe alatti terület (AUC-ROC). Segít meghatározni, hogy egy modell mennyire jól teljesít.

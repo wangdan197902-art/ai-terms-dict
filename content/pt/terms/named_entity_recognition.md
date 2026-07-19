@@ -1,23 +1,24 @@
 ---
-title: "Reconhecimento de Entidades Nomeadas"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Reconhecimento de Entidades Nomeadas
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /pt/terms/named_entity_recognition/
-date: "2026-07-18T14:45:01.633023Z"
-lastmod: "2026-07-18T15:51:59.452629Z"
+slug: named_entity_recognition
+date: '2026-07-18T14:45:01.633023Z'
+lastmod: '2026-07-18T15:51:59.452629Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma tarefa de processamento de linguagem natural que identifica e classifica entidades de informação-chave em categorias predefinidas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma tarefa de processamento de linguagem natural que identifica e classifica
+  entidades de informação-chave em categorias predefinidas.
 ---
-
 ## Definition
 
 O Reconhecimento de Entidades Nomeadas (NER) é uma subtarefa da extração de informações que localiza e classifica entidades nomeadas em texto em categorias predefinidas, como nomes de pessoas, organizações, locais, datas, etc.

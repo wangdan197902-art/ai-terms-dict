@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /it/terms/neural_scaling_law/
 date: "2026-07-18T16:12:41.934801Z"
 lastmod: "2026-07-18T17:15:08.653543Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Relazioni empiriche che prevedono i miglioramenti delle prestazioni del modello basati sull'aumento dei dati, dei parametri o della potenza di calcolo."
 ---
-
 ## Definition
 
 Le leggi di scalabilità neurale descrivono la relazione prevedibile di legge di potenza tra le prestazioni di un modello e la sua scala, inclusa la dimensione del set di dati, il numero di parametri e il budget computazionale. Queste leggi suggeriscono che...

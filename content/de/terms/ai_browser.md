@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /de/terms/ai_browser/
 date: "2026-07-18T11:01:01.900247Z"
 lastmod: "2026-07-18T11:44:44.903518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Webbrowser, der mit KI-Funktionen integriert ist, um bei Suche, Zusammenfassung und Inhaltsanalyse zu unterstützen."
 ---
-
 ## Definition
 
 Ein KI-Browser ist eine Webanwendung, die künstliche Intelligenzfunktionen direkt in die Benutzeroberfläche integriert. Diese Funktionen umfassen typischerweise natursprachliche Suche, automatische Inhaltszusammenfassung und kontextbezogene Analysen.

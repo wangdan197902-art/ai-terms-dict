@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /ar/terms/multi_stage/
 date: "2026-07-18T15:34:24.052869Z"
 lastmod: "2026-07-18T17:15:08.455676Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تصميم عملية يقسم مهمة معقدة إلى مراحل متسقة ومتميزة، لكل منها أهداف ومخرجات محددة."
 ---
-
 ## Definition
 
 تكسر النهج متعددة المراحل سير العمل المعقد إلى أجزاء قابلة للإدارة، مما يسمح بمعالجة متخصصة في كل خطوة. يعزز هذا الأسلوب التحكم، وتصحيح الأخطاء، وتحسين الأداء.

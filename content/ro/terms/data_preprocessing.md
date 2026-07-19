@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /ro/terms/data_preprocessing/
 date: "2026-07-18T15:51:48.416264Z"
 lastmod: "2026-07-18T17:15:09.642150Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de conversie a datelor brute într-un format curat și consistent, potrivit pentru algoritmii de învățare automată."
 ---
-
 ## Definition
 
 Preprocesarea datelor este sarcina esențială de transformare a datelor brute, nestructurate sau zgomotoase într-un format standardizat pe care modelele de învățare automată îl pot procesa eficient. Această etapă include de obicei curățarea datelor, normalizarea valorilor numerice, codificarea variabilelor categorice și gestionarea valorilor lipsă, asigurând astfel consistența și calitatea intrărilor pentru model.

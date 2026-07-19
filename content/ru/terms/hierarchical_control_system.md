@@ -1,23 +1,24 @@
 ---
-title: "Иерархическая система управления"
-term_id: "hierarchical_control_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "robotics", "architecture"]
+title: Иерархическая система управления
+term_id: hierarchical_control_system
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- robotics
+- architecture
 difficulty: 3
 weight: 1
-slug: "hierarchical_control_system"
-aliases:
-  - /ru/terms/hierarchical_control_system/
-date: "2026-07-18T15:57:16.920333Z"
-lastmod: "2026-07-18T16:38:07.165435Z"
+slug: hierarchical_control_system
+date: '2026-07-18T15:57:16.920333Z'
+lastmod: '2026-07-18T16:38:07.165435Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Архитектура управления, в которой процесс принятия решений организован по уровням, причем верхние уровни задают цели для нижних контроллеров."
+source: agnes_llm
+status: published
+language: ru
+description: Архитектура управления, в которой процесс принятия решений организован
+  по уровням, причем верхние уровни задают цели для нижних контроллеров.
 ---
-
 ## Definition
 
 Иерархическая система управления организует логику контроля в несколько уровней, обычно начиная от стратегического планирования высокого уровня до выполнения реального времени низкого уровня. Верхние уровни определяют глобальные цели и задачи, которые затем декомпозируются и передаются нижним уровням для детальной реализации, обеспечивая модульность и масштабируемость системы.

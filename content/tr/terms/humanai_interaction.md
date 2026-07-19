@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /tr/terms/humanai_interaction/
 date: "2026-07-18T15:56:58.383132Z"
 lastmod: "2026-07-18T16:38:07.318078Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İnsanların yapay zeka sistemleriyle nasıl iletişim kurduğunu, bunları nasıl kontrol ettiğini ve işbirliği yaptığını inceleyen çalışma ve uygulama alanı."
 ---
-
 ## Definition
 
 İnsan-Yapay Zeka Etkileşimi (HAI), insanlar ile yapay zeka teknolojileri arasındaki dinamikleri inceleyen disiplinlerarası bir alandır. Sezgisel arayüzler, iletişim protokolleri ve işbirliği mekanizmaları tasarlamaya odaklanır.

@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /el/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T16:11:51.103931Z"
 lastmod: "2026-07-18T17:15:09.916180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ο τίτλος ενός βιβλίου που εξερευνά τη διασταύρωση της ανθρωπιάς και της τεχνολογίας, συχνά αναφερόμενο σε συζητήσεις για την ηθική της AI και το μέλλον της εργασίας."
 ---
-
 ## Definition
 
 Η φράση αναφέρεται σε ένα συγκεκριμένο λογοτεχνικό έργο που εξετάζει πώς οι άνθρωποι μπορούν να διατηρήσουν τη σχετικότητα και την αξιοπρέπεια amidst την ταχεία τεχνολογική πρόοδο. Στη συζήτηση για την AI, λειτουργεί ως πολιτισμικό σημείο αναφοράς.

@@ -1,23 +1,24 @@
 ---
-title: "מדויק עדין (Fine-tuned)"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: מדויק עדין (Fine-tuned)
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /he/terms/finetuned/
-date: "2026-07-18T15:57:45.659407Z"
-lastmod: "2026-07-18T17:15:09.540943Z"
+slug: finetuned
+date: '2026-07-18T15:57:45.659407Z'
+lastmod: '2026-07-18T17:15:09.540943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של אימון נוסף של מודל שהוכן מראש על מערך נתונים ספציפי כדי להתאים אותו למשימה מסוימת."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של אימון נוסף של מודל שהוכן מראש על מערך נתונים ספציפי כדי להתאים
+  אותו למשימה מסוימת.
 ---
-
 ## Definition
 
 דיוק עדין מתייחס לטכניקה של לקיחת מודל שכבר אומן על מערך נתונים גדול וכללי, והמשך האימון שלו על מערך נתונים קטן יותר וספציפי לתחום. זה מאפשר למודל להסתגל.

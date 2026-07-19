@@ -1,23 +1,24 @@
 ---
-title: "Långsiktig korttidsminne (LSTM)"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: Långsiktig korttidsminne (LSTM)
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /sv/terms/long_short_term_memory/
-date: "2026-07-18T15:38:50.463993Z"
-lastmod: "2026-07-18T17:15:08.963912Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:38:50.463993Z'
+lastmod: '2026-07-18T17:15:08.963912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En specialiserad arkitektur för rekurrenta neuronnät (RNN) designad för att lära sig långsiktiga beroenden i sekventiell data."
+source: agnes_llm
+status: published
+language: sv
+description: En specialiserad arkitektur för rekurrenta neuronnät (RNN) designad för
+  att lära sig långsiktiga beroenden i sekventiell data.
 ---
-
 ## Definition
 
 LSTM-nätverk löser problemet med försvinnande gradienter som är vanligt i standard-RNN:er genom att använda ett celltillstånd och tre portmekanismer: ingångs-, glömske- och utgångsportar. Dessa portar reglerar flödet av information, vilket gör det möjligt för nätverket att behålla eller glömma information över längre tidsperioder.

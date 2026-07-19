@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "foundations"]
 difficulty: 5
 weight: 1
 slug: "solomonoffs_theory_of_inductive_inference"
-aliases:
-  - /ja/terms/solomonoffs_theory_of_inductive_inference/
 date: "2026-07-18T11:32:34.991196Z"
 lastmod: "2026-07-18T11:44:45.145265Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "アルゴリズム確率を用いて、過去のデータに基づいて将来の観測を予測するための形式数学的枠組み。"
 ---
-
 ## Definition
 
 レイ・ソロモノフによって開発されたこの理論は、シーケンスの複雑さに基づいて確率を割り当てることで、帰納の普遍的モデルを提供します。これは、より単純な説明（短いプログラム）ほど確率が高くなるという仮説に基づいています。

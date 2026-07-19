@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /cs/terms/flow_based_generative_model/
 date: "2026-07-18T15:57:59.975196Z"
 lastmod: "2026-07-18T17:15:09.130790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Třída generativních modelů, které využívají invertovatelné transformace k mapování jednoduchých distribucí na složité datové distribuce."
 ---
-
 ## Definition
 
 Generativní modely založené na tocích konstruují složité pravděpodobnostní distribuce aplikací série invertovatelných a diferencovatelných transformací na jednoduchou základní distribuci, jako je Gaussova. Díky tomu umožňují přesný výpočet pravděpodobnosti.

@@ -1,23 +1,24 @@
 ---
-title: "Линейная предикторная функция"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Линейная предикторная функция
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /ru/terms/linear_predictor_function/
-date: "2026-07-18T16:01:40.136495Z"
-lastmod: "2026-07-18T16:38:07.175282Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:01:40.136495Z'
+lastmod: '2026-07-18T16:38:07.175282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Математическая функция, вычисляющая линейную комбинацию входных переменных для прогнозирования результата."
+source: agnes_llm
+status: published
+language: ru
+description: Математическая функция, вычисляющая линейную комбинацию входных переменных
+  для прогнозирования результата.
 ---
-
 ## Definition
 
 В статистическом моделировании и машинном обучении линейная предикторная функция представляет собой взвешенную сумму входных признаков плюс член смещения. Она является ключевым компонентом обобщенных линейных моделей (GLM), где она связывает математическое ожидание целевой переменной с линейной комбинацией предикторов через функцию связи.

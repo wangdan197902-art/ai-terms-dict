@@ -1,23 +1,24 @@
 ---
-title: "الذاكرة طويلة وقصيرة المدى"
-term_id: "long_short_term_memory"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rnn", "deep_learning"]
+title: الذاكرة طويلة وقصيرة المدى
+term_id: long_short_term_memory
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RNN
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "long_short_term_memory"
-aliases:
-  - /ar/terms/long_short_term_memory/
-date: "2026-07-18T15:37:27.951694Z"
-lastmod: "2026-07-18T17:15:08.462978Z"
+slug: long_short_term_memory
+date: '2026-07-18T15:37:27.951694Z'
+lastmod: '2026-07-18T17:15:08.462978Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بنية متخصصة للشبكات العصبية المتكررة مصممة لتعلم التبعيات طويلة المدى في البيانات التسلسلية."
+source: agnes_llm
+status: published
+language: ar
+description: بنية متخصصة للشبكات العصبية المتكررة مصممة لتعلم التبعيات طويلة المدى
+  في البيانات التسلسلية.
 ---
-
 ## Definition
 
 تعالج شبكات الذاكرة طويلة وقصيرة المدى مشكلة تلاشي التدرج الشائعة في الشبكات العصبية المتكررة القياسية من خلال استخدام حالة الخلية وثلاث آليات تحكّم: مدخلات، ونسيان، ومخرجات. تنظم هذه الآليات تدفق المعلومات

@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /es/terms/ai_security_institute/
 date: "2026-07-18T10:33:00.158539Z"
 lastmod: "2026-07-18T11:44:44.769289Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una organización dedicada a investigar, desarrollar y promover las mejores prácticas para asegurar los sistemas de inteligencia artificial."
 ---
-
 ## Definition
 
 Un Instituto de Seguridad de IA es una entidad especializada enfocada en mitigar los riesgos asociados con las tecnologías de inteligencia artificial. Estos institutos realizan investigaciones sobre ataques adversarios, privacidad de dat

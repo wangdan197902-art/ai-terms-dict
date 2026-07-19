@@ -1,23 +1,24 @@
 ---
-title: "Overvåket læring"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Overvåket læring
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /no/terms/supervised_learning/
-date: "2026-07-18T15:38:52.976140Z"
-lastmod: "2026-07-18T16:38:06.963296Z"
+slug: supervised_learning
+date: '2026-07-18T15:38:52.976140Z'
+lastmod: '2026-07-18T16:38:06.963296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et maskinlæringsparadigme der en modell lærer å kartlegge inndata til utdata basert på merkte trenings eksempler."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et maskinlæringsparadigme der en modell lærer å kartlegge inndata til
+  utdata basert på merkte trenings eksempler.
 ---
-
 ## Definition
 
 I overvåket læring trenes algoritmen på et merkt datasett, noe som betyr at hvert inndataeksempel er parret med riktig utdata. Målet er at modellen skal lære det underliggende forholdet mellom inndata og utdata.

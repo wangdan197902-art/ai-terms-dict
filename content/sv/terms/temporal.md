@@ -1,23 +1,23 @@
 ---
-title: "Temporär"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Temporär
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /sv/terms/temporal/
-date: "2026-07-18T15:31:31.532544Z"
-lastmod: "2026-07-18T17:15:08.953188Z"
+slug: temporal
+date: '2026-07-18T15:31:31.532544Z'
+lastmod: '2026-07-18T17:15:08.953188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Temporär hänvisar till tidsserier och fokuserar på hur data förändras eller beroenden utvecklas över tid."
+source: agnes_llm
+status: published
+language: sv
+description: Temporär hänvisar till tidsserier och fokuserar på hur data förändras
+  eller beroenden utvecklas över tid.
 ---
-
 ## Definition
 
 Temporära begrepp inom AI innebär analys av datapunkter ordnade i tid, såsom aktiekurser, sensoravläsningar eller meningar i naturligt språk. Modeller som hanterar temporär data måste ta hänsyn till sekvensordnin

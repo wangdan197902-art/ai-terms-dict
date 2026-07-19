@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /ko/terms/embedding_model/
 date: "2026-07-18T15:34:19.126437Z"
 lastmod: "2026-07-18T16:38:06.794555Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "임베딩 모델은 텍스트나 이미지와 같은 원시 데이터를 의미론적 의미를 나타내는 밀집 수치 벡터로 변환합니다."
 ---
-
 ## Definition
 
 이 모델들은 고차원 데이터를 저차원의 연속 벡터 공간으로 매핑하여, 유사한 항목들이 서로 더 가깝게 위치하도록 합니다. 이러한 변환은 의미론적 관계를 포착하여 유사한 데이터 간의 관계를 이해하는 데 도움을 줍니다.

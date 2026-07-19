@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /ko/terms/right_to_be_forgotten/
 date: "2026-07-18T16:21:14.229493Z"
 lastmod: "2026-07-18T16:38:06.921849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "개인이 조직이 보유한 자신의 개인 데이터 삭제를 요청할 수 있게 하는 법적 개념입니다."
 ---
-
 ## Definition
 
 잊힐 권리는 사용자가 자신의 개인정보가 포함된 데이터베이스 및 AI 학습 세트에서의 삭제를 요구할 수 있도록 합니다. 머신러닝에서 이를 구현하는 것은 모델이 학습 데이터의 정보를 기억하고 있을 수 있어 어려움이 따릅니다.

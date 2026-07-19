@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /ja/terms/benchmark/
 date: "2026-07-18T10:48:49.583353Z"
 lastmod: "2026-07-18T11:44:45.002824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIモデルの性能を確立された基準と比較して評価するために使用される標準的な参照点または指標。"
 ---
-
 ## Definition
 
 人工知能において、ベンチマークとは、機械学習モデルの能力を測定するために設計された標準化されたテストスイートまたはデータセットのことです。これは、異なるモデル間の比較に一貫した枠組みを提供します。

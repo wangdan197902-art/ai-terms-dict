@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /ja/terms/multi_task_learning/
 date: "2026-07-18T11:24:43.474158Z"
 lastmod: "2026-07-18T11:44:45.124895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "マルチタスク学習とは、モデルが一般化性能を向上させるために、複数の関連タスクを同時に学習する機械学習のパラダイムです。"
 ---
-
 ## Definition
 
 この手法は、関連するタスク間で共有される帰納的バイアスを活用し、学習効率とパフォーマンスを向上させます。単一のモデルで複数のタスクを同時に実行させることで、モデルは

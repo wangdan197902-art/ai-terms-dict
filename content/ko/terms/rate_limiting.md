@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /ko/terms/rate_limiting/
 date: "2026-07-18T16:13:06.224341Z"
 lastmod: "2026-07-18T16:38:06.902843Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "特定の時間枠内でクライアントがサービスに対して送信できるリクエスト数を制限するエンジニアリング制御メカニズム。"
 ---
-
 ## Definition
 
 レートリミティングは、AIサービスやAPIの乱用、過負荷、および過度なリソース消費から保護します。スループットを制限することでユーザー間の公平な利用を確保し、システムの安定性を維持します。一般的な実装...

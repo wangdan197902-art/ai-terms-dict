@@ -1,23 +1,23 @@
 ---
-title: "chất lượng cao"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: chất lượng cao
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /vi/terms/high_quality/
-date: "2026-07-18T15:31:11.282129Z"
-lastmod: "2026-07-18T16:38:07.701877Z"
+slug: high_quality
+date: '2026-07-18T15:31:11.282129Z'
+lastmod: '2026-07-18T16:38:07.701877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Dùng để chỉ các tập dữ liệu, mô hình hoặc đầu ra có độ chính xác, độ tin cậy vượt trội và nhiễu tối thiểu."
+source: agnes_llm
+status: published
+language: vi
+description: Dùng để chỉ các tập dữ liệu, mô hình hoặc đầu ra có độ chính xác, độ
+  tin cậy vượt trội và nhiễu tối thiểu.
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, thuật ngữ chất lượng cao thường mô tả dữ liệu hoặc đầu ra của mô hình có độ trung thực cao, ít nhiễu và khả năng tổng quát hóa mạnh mẽ. Dữ liệu huấn luyện chất lượng cao đảm bảo rằng mô hình học được các đặc trưng chính xác và hiệu quả.

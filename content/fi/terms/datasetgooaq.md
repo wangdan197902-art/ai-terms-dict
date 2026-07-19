@@ -7,8 +7,6 @@ tags: ["qa", "retrieval", "google"]
 difficulty: 2
 weight: 1
 slug: "datasetgooaq"
-aliases:
-  - /fi/terms/datasetgooaq/
 date: "2026-07-18T15:51:35.358055Z"
 lastmod: "2026-07-18T17:15:09.399807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laaja tietojoukko, joka sisältää Google Answers -hakupyyntöjä ja vastauksia, ja jota käytetään informaation haun ja kysymysten vastausmallien kouluttamiseen."
 ---
-
 ## Definition
 
 GooAQ on tietojoukko, joka on koottu Google Answers -palvelusta, ja jossa on valtava kokoelma käyttäjien lähettämiä kysymyksiä sekä yksityiskohtaisia, maksullisia vastauksia. Se toimii arvokkaana resurssina kouluttaessa

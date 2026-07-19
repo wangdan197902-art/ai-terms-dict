@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /cs/terms/embedding_model/
 date: "2026-07-18T15:35:06.072779Z"
 lastmod: "2026-07-18T17:15:09.088974Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Model pro vložení převádí surová data, jako je text nebo obrázky, do hustých číselných vektorů reprezentujících sémantický význam."
 ---
-
 ## Definition
 
 Tyto modely mapují data s vysokou dimenzionalitou do nižšího dimenzionálního spojitého vektorového prostoru, kde jsou podobné položky umístěny blíže u sebe. Tato transformace zachycuje sémantické vztahy, což umožňuje efektivní vyhledávání a porovnávání dat.

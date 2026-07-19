@@ -1,23 +1,24 @@
 ---
-title: "Sekatarkkuuksinen koulutus"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Sekatarkkuuksinen koulutus
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /fi/terms/mixed_precision_training/
-date: "2026-07-18T16:11:03.148360Z"
-lastmod: "2026-07-18T17:15:09.434767Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:11:03.148360Z'
+lastmod: '2026-07-18T17:15:09.434767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Koulutustekniikka, joka käyttää sekä 16-bittisiä että 32-bittisiä liukulukuja nopeuttaakseen laskentaa ja vähentääkseen muistin käyttöä."
+source: agnes_llm
+status: published
+language: fi
+description: Koulutustekniikka, joka käyttää sekä 16-bittisiä että 32-bittisiä liukulukuja
+  nopeuttaakseen laskentaa ja vähentääkseen muistin käyttöä.
 ---
-
 ## Definition
 
 Sekatarkkuuksinen koulutus (MPT) yhdistää puolitäsmälliset (FP16) ja täystarkkuuksiset (FP32) datatyypit neuroverkon koulutuksessa. Käyttämällä FP16:tta useimpiin operaatioihin MPT vähentää muistivaatimuksia ja parantaa

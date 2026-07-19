@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /sv/terms/local/
 date: "2026-07-18T15:28:31.265769Z"
 lastmod: "2026-07-18T17:15:08.945477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser bearbetning eller lagring av data på en specifik enhet snarare än i ett centralt molnmiljö."
 ---
-
 ## Definition
 
 Inom artificiell intelligens syftar 'lokal' vanligtvis på operationer som utförs direkt på användarens hårdvara, såsom en bärbar dator eller smartphone, utan att förlita sig på fjärrservrar. Denna metod förbättrar dataskyddet

@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /pl/terms/asr_complete/
 date: "2026-07-18T15:38:46.239501Z"
 lastmod: "2026-07-18T17:15:08.841570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "ASR-complete opisuje system rozpoznawania mowy, który osiąga dokładność na poziomie ludzkim na standaryzowanych zestawach danych referencyjnych."
 ---
-
 ## Definition
 
 Termin ASR-complete oznacza, że system automatycznego rozpoznawania mowy (ASR) osiągnął poziom wydajności porównywalny z ludzkimi transkrybentami na konkretnych, dobrze zdefiniowanych zadaniach i zbiorach danych. Jest to kamień milowy w rozwoju technologii przetwarzania mowy, wskazujący na osiągnięcie tzw. ludzkiej parzystości (human parity) w określonych warunkach.

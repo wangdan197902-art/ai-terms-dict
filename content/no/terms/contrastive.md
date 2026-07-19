@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /no/terms/contrastive/
 date: "2026-07-18T15:25:06.403515Z"
 lastmod: "2026-07-18T16:38:06.934117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kontrastiv læring er en selvtilsynsmetode som trener modeller til å skille mellom like og ulike datapar."
 ---
-
 ## Definition
 
 Denne metoden oppmuntrer modellen til å trekke innkapslinger (embeddings) av positive par (like elementer) nærmere hverandre, mens den skyver negative par (ulike elementer) fra hverandre i det latente rommet. Det er mye brukt i representasjonslæring og visuell gjenkjenning.

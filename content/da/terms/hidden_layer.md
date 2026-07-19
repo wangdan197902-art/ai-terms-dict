@@ -1,23 +1,24 @@
 ---
-title: "Skjult Lag"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Skjult Lag
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /da/terms/hidden_layer/
-date: "2026-07-18T15:59:53.982821Z"
-lastmod: "2026-07-18T17:15:09.295799Z"
+slug: hidden_layer
+date: '2026-07-18T15:59:53.982821Z'
+lastmod: '2026-07-18T17:15:09.295799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et mellemliggende lag i et neuralt netværk mellem input- og outputlagene, der behandler funktioner."
+source: agnes_llm
+status: published
+language: da
+description: Et mellemliggende lag i et neuralt netværk mellem input- og outputlagene,
+  der behandler funktioner.
 ---
-
 ## Definition
 
 Et skjult lag består af neuroner, der modtager input fra tidligere lag, anvender vægte og bias-værdier og sender transformeret data videre gennem en aktiveringsfunktion. Disse lag gør det muligt for neurale netværk at

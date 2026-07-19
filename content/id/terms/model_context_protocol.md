@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /id/terms/model_context_protocol/
 date: "2026-07-18T15:35:11.616934Z"
 lastmod: "2026-07-18T16:38:07.416021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja standar yang dirancang untuk memfasilitasi komunikasi yang aman dan efisien antara model AI dan sumber data atau alat eksternal."
 ---
-
 ## Definition
 
 Protocol Konteks Model (MCP) adalah standar terbuka yang memungkinkan aplikasi AI terhubung dengan berbagai sumber data, seperti basis data, API, dan sistem file, secara seragam. Protokol ini mengabstraksi kompleksitas...

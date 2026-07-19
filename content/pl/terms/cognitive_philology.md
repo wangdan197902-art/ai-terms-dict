@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Research Methods"]
 difficulty: 5
 weight: 1
 slug: "cognitive_philology"
-aliases:
-  - /pl/terms/cognitive_philology/
 date: "2026-07-18T15:45:57.362551Z"
 lastmod: "2026-07-18T17:15:08.854741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Filologia poznawcza stosuje metody obliczeniowe i zasady nauki o poznaniu do badania języka, literatury oraz historii tekstów."
 ---
-
 ## Definition
 
 Filologia poznawcza to interdyscyplinarna dziedzina łącząca cyfrowe humanistyki, lingwistykę i nauki o poznaniu w celu analizy tekstów i ewolucji języka. Wykorzystuje narzędzia obliczeniowe do przetwarzania

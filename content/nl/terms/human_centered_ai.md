@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /nl/terms/human_centered_ai/
 date: "2026-07-18T15:59:05.859974Z"
 lastmod: "2026-07-18T17:15:08.752953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een benadering van AI-ontwerp en -ontwikkeling die menselijke waarden, behoeften en welzijn gedurende de hele levenscyclus van het systeem prioriteit geeft."
 ---
-
 ## Definition
 
 Mensgerichte AI is een ontwerpphilosofie die mensen centraal stelt in de ontwikkeling van kunstmatige intelligentie. Het benadrukt het creëren van systemen die transparant, eerlijk en voordelig zijn voor de samenleving, in plaats van...

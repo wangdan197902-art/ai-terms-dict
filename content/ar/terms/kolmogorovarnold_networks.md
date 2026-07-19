@@ -1,23 +1,24 @@
 ---
-title: "شبكات كولموغوروف-أرنولد"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: شبكات كولموغوروف-أرنولد
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /ar/terms/kolmogorovarnold_networks/
-date: "2026-07-18T16:04:51.209442Z"
-lastmod: "2026-07-18T17:15:08.520174Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T16:04:51.209442Z'
+lastmod: '2026-07-18T17:15:08.520174Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بنى شبكات عصبية تستند إلى نظرية تمثيل كولموغوروف-أرنولد، وتوفر بديلاً لشبكات الانتشار الأمامي متعددة الطبقات."
+source: agnes_llm
+status: published
+language: ar
+description: بنى شبكات عصبية تستند إلى نظرية تمثيل كولموغوروف-أرنولد، وتوفر بديلاً
+  لشبكات الانتشار الأمامي متعددة الطبقات.
 ---
-
 ## Definition
 
 شبكات كولموغوروف-أرنولد (KANs) هي فئة حديثة من الشبكات العصبية المستوحاة من نظرية تمثيل كولموغوروف-أرنولد، والتي تنص على أن أي دالة متصلة متعددة المتغيرات يمكن تمثيلها كمجموع لدوال أحادية المتغير. تقدم هذه الشبكات مرونة أكبر في تقريب الدوال مقارنة بالبنى التقليدية.

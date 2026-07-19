@@ -1,23 +1,25 @@
 ---
-title: "Cuantización"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Cuantización
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /es/terms/quantization/
-date: "2026-07-18T10:31:40.904914Z"
-lastmod: "2026-07-18T11:44:44.765565Z"
+slug: quantization
+date: '2026-07-18T10:31:40.904914Z'
+lastmod: '2026-07-18T11:44:44.765565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica de optimización de modelos que reduce la precisión de los números utilizados en los cálculos de redes neuronales para disminuir el tamaño y mejorar la velocidad."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica de optimización de modelos que reduce la precisión de los
+  números utilizados en los cálculos de redes neuronales para disminuir el tamaño
+  y mejorar la velocidad.
 ---
-
 ## Definition
 
 La cuantización convierte números de punto flotante de alta precisión (como FP32) en formatos de menor precisión (como INT8 o FP16). Esta reducción disminuye el uso de memoria del modelo y los requisitos computacionales, facilitando su implementación en dispositivos con recursos limitados.

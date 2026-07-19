@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /hu/terms/galaxy_ai/
 date: "2026-07-18T16:00:53.828268Z"
 lastmod: "2026-07-18T17:15:09.786848Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Samsung márkaneve azoknak az eszközön futó és felhőalapú mesterséges intelligencia funkcióinak a készletére, amelyeket a Galaxy okostelefonokba és eszközökbe integráltak."
 ---
-
 ## Definition
 
 A Galaxy AI a Samsung saját, zárt rendszerű mesterséges intelligencia ökoszisztémája, amelyet arra terveztek, hogy javítsa a felhasználói élményt hardveres kínálatában, elsősorban az okostelefonokon. Tartalmaz olyan funkciókat, mint a valós idejű fordítás, a tartalomgenerálás és a képszerkesztés.

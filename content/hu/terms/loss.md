@@ -1,23 +1,23 @@
 ---
-title: "Veszteség"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Veszteség
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /hu/terms/loss/
-date: "2026-07-18T15:27:46.327823Z"
-lastmod: "2026-07-18T17:15:09.724141Z"
+slug: loss
+date: '2026-07-18T15:27:46.327823Z'
+lastmod: '2026-07-18T17:15:09.724141Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy numerikus érték, amely kvantifikálja a modell előrejelzései és a tényleges célfüggvények közötti hibát."
+source: agnes_llm
+status: published
+language: hu
+description: Egy numerikus érték, amely kvantifikálja a modell előrejelzései és a
+  tényleges célfüggvények közötti hibát.
 ---
-
 ## Definition
 
 A veszteségfüggvények (más néven költségfüggvények) azt mérik, mennyire illeszkednek a gépi tanulási modell előrejelzései a valósághoz a képzés során. Az optimalizációs algoritmus célja ennek a veszteségértéknek a minimalizálása a modell pontosságának növelése érdekében.

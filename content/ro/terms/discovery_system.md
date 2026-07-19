@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /ro/terms/discovery_system/
 date: "2026-07-18T15:55:01.750783Z"
 lastmod: "2026-07-18T17:15:09.649902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru automatizat sau un proces algoritmic conceput să identifice, exploreze și evalueze soluții, tipare sau ipoteze potențiale într-un spațiu de căutare mare."
 ---
-
 ## Definition
 
 Un sistem de descoperire este un cadru computațional menit să accelereze descoperirile științifice sau analitice prin automatizarea explorării spațiilor vaste de date. Spre deosebire de optimizarea tradițională, care caută cel mai bun parametru pentru o funcție cunoscută, sistemele de descoperire generează activ noi ipoteze și direcții de cercetare.

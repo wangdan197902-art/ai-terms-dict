@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /zh/terms/observability/
 date: "2026-07-18T11:28:49.264740Z"
 lastmod: "2026-07-18T11:44:45.538103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "可观测性是衡量能否通过日志、指标和追踪等外部输出来推断系统内部状态程度的指标。"
 ---
-
 ## Definition
 
 在人工智能工程中，可观测性指的是通过分析机器学习系统的外部输出来理解其内部状态的能力。它超越了传统的监控，旨在提供对复杂系统运行状况的深入洞察。

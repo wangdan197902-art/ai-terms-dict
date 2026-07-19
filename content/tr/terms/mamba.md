@@ -1,23 +1,24 @@
 ---
-title: "Mamba"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: Mamba
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /tr/terms/mamba/
-date: "2026-07-18T15:26:53.342475Z"
-lastmod: "2026-07-18T16:38:07.237260Z"
+slug: mamba
+date: '2026-07-18T15:26:53.342475Z'
+lastmod: '2026-07-18T16:38:07.237260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Mamba, uzun bağlam görevlerinde dönüştürücülerle (transformer) eşleşen performans sunarken doğrusal zamanlı çıkarım sağlayan bir durum uzayı sıralı modelidir."
+source: agnes_llm
+status: published
+language: tr
+description: Mamba, uzun bağlam görevlerinde dönüştürücülerle (transformer) eşleşen
+  performans sunarken doğrusal zamanlı çıkarım sağlayan bir durum uzayı sıralı modelidir.
 ---
-
 ## Definition
 
 Mamba, donanım bilincine sahip seçici bir durum uzayı modeli (SSM) tanıtarak sıralı modellemede önemli bir ilerlemeyi temsil eder. Geleneksel dönüştürücülerin (transformers) dizi uzunluğuyla karesel olarak ölçeklenmesinin aksine, Mamba daha verimli bir yaklaşım sunar.

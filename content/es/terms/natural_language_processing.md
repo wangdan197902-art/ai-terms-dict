@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /es/terms/natural_language_processing/
 date: "2026-07-18T10:25:04.640853Z"
 lastmod: "2026-07-18T11:44:44.746408Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una rama de la IA centrada en permitir que las computadoras comprendan, interpreten y generen lenguaje humano."
 ---
-
 ## Definition
 
 El Procesamiento del Lenguaje Natural (PLN) es una subdisciplina de la inteligencia artificial que combina la lingüística computacional con modelos estadísticos, de aprendizaje automático y de aprendizaje profundo. Permite a las máquinas comprender y procesar el lenguaje humano de manera similar a como lo hacen los seres humanos.

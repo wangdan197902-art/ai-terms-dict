@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /th/terms/qwen3_5_moe/
 date: "2026-07-18T16:12:54.756019Z"
 lastmod: "2026-07-18T16:38:07.647966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "รูปแบบ Mixture-of-Experts แบบกระจัดกระจาย (sparse) ในชุดโมเดล Qwen3 ที่ยังอยู่ในขั้นสมมติหรืออนาคต ออกแบบมาเพื่อประสิทธิภาพสูงสุด"
 ---
-
 ## Definition
 
 คำนี้หมายถึงสถาปัตยกรรมเฉพาะทางภายในตระกูล Qwen ซึ่งน่าจะใช้การออกแบบแบบ Mixture of Experts (MoE) ในโมเดลประเภทนี้ พารามิเตอร์ของเครือข่ายประสาทเทียมเพียงบางส่วน (ผู้เชี่ยวชาญ) จะถูกเปิดใช้งาน

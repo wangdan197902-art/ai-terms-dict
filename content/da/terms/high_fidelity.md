@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /da/terms/high_fidelity/
 date: "2026-07-18T15:32:09.119313Z"
 lastmod: "2026-07-18T17:15:09.238747Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Angiver genereret indhold, der ligner virkelighedsnære data i detaljer, kvalitet og realisme."
 ---
-
 ## Definition
 
 Høj fidelitet beskriver output fra generative modeller, der er uadskillelige fra eller meget lignende ægte data. Ved billedgenerering betyder det realistiske teksturer og belysning; ved lyd betyder det naturlig klangfarve og intonation. Det måler graden af trofasthed til originalen eller virkeligheden.

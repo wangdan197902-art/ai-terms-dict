@@ -1,23 +1,24 @@
 ---
-title: "Nieprzerwany wdrożeniowy"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Nieprzerwany wdrożeniowy
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /pl/terms/continuous_deployment/
-date: "2026-07-18T15:47:09.988229Z"
-lastmod: "2026-07-18T17:15:08.857612Z"
+slug: continuous_deployment
+date: '2026-07-18T15:47:09.988229Z'
+lastmod: '2026-07-18T17:15:08.857612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Praktyka inżynierii oprogramowania, w której każda zmiana kodu przechodząca automatyczne testy jest automatycznie udostępniana w środowisku produkcyjnym."
+source: agnes_llm
+status: published
+language: pl
+description: Praktyka inżynierii oprogramowania, w której każda zmiana kodu przechodząca
+  automatyczne testy jest automatycznie udostępniana w środowisku produkcyjnym.
 ---
-
 ## Definition
 
 Nieprzerwany wdrożeniowy jest rozszerzeniem ciągłej dostawy, które automatyzuje cały proces wydawniczy. Gdy zmiany kodu przejdą wszystkie progi jakości, w tym testy jednostkowe, integracyjne i bezpieczeństwa, są one automatycznie wdrażane.

@@ -1,23 +1,24 @@
 ---
-title: "עצירה מוקדמת"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: עצירה מוקדמת
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /he/terms/early_stopping/
-date: "2026-07-18T15:55:15.364937Z"
-lastmod: "2026-07-18T17:15:09.535893Z"
+slug: early_stopping
+date: '2026-07-18T15:55:15.364937Z'
+lastmod: '2026-07-18T17:15:09.535893Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "עצירה מוקדמת היא טכניקת רגולריזציה העוצרת את תהליך האימון כאשר ביצועי המודל על קבוצת האימות מתחילים להידרדר, ובכך מונעת התאמת יתר."
+source: agnes_llm
+status: published
+language: he
+description: עצירה מוקדמת היא טכניקת רגולריזציה העוצרת את תהליך האימון כאשר ביצועי
+  המודל על קבוצת האימות מתחילים להידרדר, ובכך מונעת התאמת יתר.
 ---
-
 ## Definition
 
 עצירה מוקדמת היא צורת רגולריזציה המשמשת בעיקר בתהליכי אימון איטרטיביים כמו ירידה בשיפוע (Gradient Descent). במהלך האימון, הביצועים על נתוני האימון משתפרים ברציפות, אך הביצועים על נתוני האימות עשויים להיחלש אם האימון נמשך זמן רב מדי.

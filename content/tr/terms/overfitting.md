@@ -1,23 +1,24 @@
 ---
-title: "Aşırı Öğrenme"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Aşırı Öğrenme
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /tr/terms/overfitting/
-date: "2026-07-18T15:36:33.799540Z"
-lastmod: "2026-07-18T16:38:07.261303Z"
+slug: overfitting
+date: '2026-07-18T15:36:33.799540Z'
+lastmod: '2026-07-18T16:38:07.261303Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir makine öğrenmesi algoritmasının temel sinyali yakalamak yerine gürültüyü öğrenerek genelleme yeteneğini zedeleyen modelleme hatası."
+source: agnes_llm
+status: published
+language: tr
+description: Bir makine öğrenmesi algoritmasının temel sinyali yakalamak yerine gürültüyü
+  öğrenerek genelleme yeteneğini zedeleyen modelleme hatası.
 ---
-
 ## Definition
 
 Aşırı öğrenme, bir model eğitim verisini rastgele gürültü ve aykırı değerler de dahil olmak üzere çok iyi öğrendiğinde ortaya çıkar; bu durum eğitim verisinde mükemmel performansa ancak yeni, görülmemiş test verilerinde kötü performansa yol açar.

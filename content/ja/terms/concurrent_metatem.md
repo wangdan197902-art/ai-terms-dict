@@ -1,23 +1,23 @@
 ---
-title: "Concurrent MetateM"
-term_id: "concurrent_metatem"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "formal_methods", "specialized"]
+title: Concurrent MetateM
+term_id: concurrent_metatem
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Formal Methods
+- specialized
 difficulty: 5
 weight: 1
-slug: "concurrent_metatem"
-aliases:
-  - /ja/terms/concurrent_metatem/
-date: "2026-07-18T11:08:38.545684Z"
-lastmod: "2026-07-18T11:44:45.079717Z"
+slug: concurrent_metatem
+date: '2026-07-18T11:08:38.545684Z'
+lastmod: '2026-07-18T11:44:45.079717Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Concurrent MetateMは、リアルタイム自律エージェントの仕様策定と実装のために設計されたリアクティブプログラミング言語です。"
+source: agnes_llm
+status: published
+language: ja
+description: Concurrent MetateMは、リアルタイム自律エージェントの仕様策定と実装のために設計されたリアクティブプログラミング言語です。
 ---
-
 ## Definition
 
 Concurrent MetateMは、主にロボット工学や自律システムで使用される高レベルの仕様記述言語です。開発者は時相論理を使用してエージェントの動作を定義でき、アクションが...

@@ -1,23 +1,24 @@
 ---
-title: "상황 기반 접근법"
-term_id: "situated_approach"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "robotics", "design_principles", "adaptive_ai"]
+title: 상황 기반 접근법
+term_id: situated_approach
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- robotics
+- Design Principles
+- Adaptive AI
 difficulty: 3
 weight: 1
-slug: "situated_approach"
-aliases:
-  - /ko/terms/situated_approach/
-date: "2026-07-18T16:15:40.560406Z"
-lastmod: "2026-07-18T16:38:06.908162Z"
+slug: situated_approach
+date: '2026-07-18T16:15:40.560406Z'
+lastmod: '2026-07-18T16:38:06.908162Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "추상적 추론보다 문맥 의존적 행동과 환경 상호작용을 우선시하는 AI 설계 패러다임."
+source: agnes_llm
+status: published
+language: ko
+description: 추상적 추론보다 문맥 의존적 행동과 환경 상호작용을 우선시하는 AI 설계 패러다임.
 ---
-
 ## Definition
 
 상황 기반 접근법은 지능적 행동이 그것이 발생하는 환경과 분리될 수 없다는 주장을 펼치는 AI 연구의 방법론적 프레임워크입니다. 이 접근법은 시스템이 복잡한 환경 변화에 유연하게 대응할 수 있도록 구축하는 것을 지지합니다.

@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /hu/terms/experiment_tracking/
 date: "2026-07-18T15:59:22.147822Z"
 lastmod: "2026-07-18T17:15:09.782841Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A kísérletkövetés a gépi tanulási kísérletekből származó metaadatok, metrikák és artefaktumok rendszerezett rögzítésének folyamata a reprodukálhatóság biztosítása és az összehasonlíthatóság elősegítés"
 ---
-
 ## Definition
 
 Ez a gyakorlat magában foglalja a hiperparaméterek, adatkészlet-verziók, modellarchitektúrák és teljesítménymetrikák naplózását a betanítási futtatások során. Lehetővé teszi a data science szakemberek számára, hogy összehasonlítsák a különböző kísérleti konfigurációkat.

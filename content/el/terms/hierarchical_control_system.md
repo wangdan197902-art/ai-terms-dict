@@ -1,23 +1,24 @@
 ---
-title: "Ιεραρχικό Σύστημα Ελέγχου"
-term_id: "hierarchical_control_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "robotics", "architecture"]
+title: Ιεραρχικό Σύστημα Ελέγχου
+term_id: hierarchical_control_system
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- robotics
+- architecture
 difficulty: 3
 weight: 1
-slug: "hierarchical_control_system"
-aliases:
-  - /el/terms/hierarchical_control_system/
-date: "2026-07-18T16:12:07.880567Z"
-lastmod: "2026-07-18T17:15:09.916688Z"
+slug: hierarchical_control_system
+date: '2026-07-18T16:12:07.880567Z'
+lastmod: '2026-07-18T17:15:09.916688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αρχιτεκτονική ελέγχου όπου η λήψη αποφάσεων οργανώνεται σε επίπεδα, με τα υψηλότερα επίπεδα να θέτουν στόχους για τους ελεγκτές χαμηλότερου επιπέδου."
+source: agnes_llm
+status: published
+language: el
+description: Μια αρχιτεκτονική ελέγχου όπου η λήψη αποφάσεων οργανώνεται σε επίπεδα,
+  με τα υψηλότερα επίπεδα να θέτουν στόχους για τους ελεγκτές χαμηλότερου επιπέδου.
 ---
-
 ## Definition
 
 Ένα ιεραρχικό σύστημα ελέγχου οργανώνει τη λογική ελέγχου σε πολλαπλά επίπεδα, κυρίως από τον στρατηγικό σχεδιασμό υψηλού επιπέδου έως την εκτέλεση πραγματικού χρόνου χαμηλού επιπέδου. Τα υψηλότερα επίπεδα ορίζουν αντικειμενικούς στόχους και περιορισμούς, ενώ τα χαμηλότερα επίπεδα μεταφράζουν αυτούς τους στόχους σε συγκεκριμένες ενέργειες ελέγχου, επιτρέποντας την αποσύνθεση πολύπλοκων εργασιών σε διαχειρίσιμες μονάδες.

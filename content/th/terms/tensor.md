@@ -1,23 +1,23 @@
 ---
-title: "เทนเซอร์"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: เทนเซอร์
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /th/terms/tensor/
-date: "2026-07-18T16:17:33.203086Z"
-lastmod: "2026-07-18T16:38:07.660571Z"
+slug: tensor
+date: '2026-07-18T16:17:33.203086Z'
+lastmod: '2026-07-18T16:38:07.660571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อาร์เรย์หลายมิติที่ทำหน้าที่เป็นโครงสร้างข้อมูลพื้นฐานสำหรับเฟรมเวิร์กการเรียนรู้เชิงลึก"
+source: agnes_llm
+status: published
+language: th
+description: อาร์เรย์หลายมิติที่ทำหน้าที่เป็นโครงสร้างข้อมูลพื้นฐานสำหรับเฟรมเวิร์กการเรียนรู้เชิงลึก
 ---
-
 ## Definition
 
 ในวิทยาการคอมพิวเตอร์และการเรียนรู้เชิงลึก เทนเซอร์คือวัตถุทางคณิตศาสตร์ที่เป็นการทั่วไปของสเกลาร์ เวกเตอร์ และเมทริกซ์ ไปสู่มิติที่สูงขึ้น โดยถูกกำหนดลักษณะด้วยอันดับ (จำนวนมิติ) และรูปร่าง

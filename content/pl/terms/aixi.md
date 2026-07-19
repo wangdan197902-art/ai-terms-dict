@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /pl/terms/aixi/
 date: "2026-07-18T15:38:46.239498Z"
 lastmod: "2026-07-18T17:15:08.841451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "AIXI to matematyczna teoria ogólnej inteligencji sztucznej (AGI), która modeluje optymalnego agenta interagującego ze swoim środowiskiem."
 ---
-
 ## Definition
 
 AIXI to teoretyczny framework zaproponowany przez Marca Huttera, definiujący ideał inteligentnego agenta. Łączy indukcję Solomonoffa do przewidywania środowiska z uczeniem przez wzmacnianie (reinforcement learning) w celu maksymalizacji nagrody, stanowiąc teoretyczną podstawę dla rozumienia optymalnego zachowania inteligentnych systemów.

@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /de/terms/human_in_the_loop/
 date: "2026-07-18T10:58:31.709904Z"
 lastmod: "2026-07-18T11:44:44.895471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Systemdesign, bei dem Menschen aktiv am Entscheidungs- oder Feedbackprozess eines KI-Modells teilnehmen."
 ---
-
 ## Definition
 
 „Mensch im Kreislauf“ (Human-in-the-Loop, HITL) bezeichnet KI-Systeme, die menschliche Eingriffe in verschiedenen Phasen des Arbeitsablaufs erfordern, wie z. B. bei der Datenerstellung, der Modellevaluation oder der Freigabe endgültiger Entscheidungen. Dieser Ansatz gewährleistet...

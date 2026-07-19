@@ -1,23 +1,24 @@
 ---
-title: "Quantificação"
-term_id: "quantification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_processing", "fundamentals", "preprocessing"]
+title: Quantificação
+term_id: quantification
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Processing
+- fundamentals
+- preprocessing
 difficulty: 2
 weight: 1
-slug: "quantification"
-aliases:
-  - /pt/terms/quantification/
-date: "2026-07-18T15:18:33.200016Z"
-lastmod: "2026-07-18T15:51:59.526122Z"
+slug: quantification
+date: '2026-07-18T15:18:33.200016Z'
+lastmod: '2026-07-18T15:51:59.526122Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Quantificação é o processo de expressar atributos qualitativos ou conceitos abstratos em termos numéricos para análise."
+source: agnes_llm
+status: published
+language: pt
+description: Quantificação é o processo de expressar atributos qualitativos ou conceitos
+  abstratos em termos numéricos para análise.
 ---
-
 ## Definition
 
 No contexto de IA e ciência de dados, quantificação refere-se à transformação de dados não numéricos, como texto, imagens ou opiniões subjetivas, em valores numéricos mensuráveis. Esse processo é fundamental para permitir que algoritmos matemáticos processem e analisem informações complexas.

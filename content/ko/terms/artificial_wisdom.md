@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /ko/terms/artificial_wisdom/
 date: "2026-07-18T15:42:21.724814Z"
 lastmod: "2026-07-18T16:38:06.810177Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "판단력, 윤리성, 상황 이해력을 포함하여 단순 지능을 넘어 sound한 의사결정을 가능하게 하는 AI의 확장 개념."
 ---
-
 ## Definition
 
 인공 지혜(Artificial Wisdom, AW)는 인공지능에 인간의 가치관, 윤리적 고려사항, 장기적 전략적 판단력을 결합하여 지능을 보완하려는 새로운 개념입니다. 기존 AI가 효율성과 정확성에 집중하는 반면, 인공 지혜는 복잡한 맥락에서 도덕적 딜레마를 해결하고 지속 가능한 결정을 내리는 능력을 강조합니다.

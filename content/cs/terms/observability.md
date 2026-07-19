@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /cs/terms/observability/
 date: "2026-07-18T16:11:25.844820Z"
 lastmod: "2026-07-18T17:15:09.159357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sledovatelnost je míra, do jaké lze odvodit vnitřní stavy systému z externích výstupů, jako jsou protokoly, metriky a stopy."
 ---
-
 ## Definition
 
 V inženýrství AI se sledovatelnost vztahuje k schopnosti pochopit vnitřní stav komplexních systémů strojového učení analýzou jejich externích výstupů. Jde nad rámec tradičního monitorování

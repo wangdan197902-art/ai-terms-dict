@@ -1,23 +1,24 @@
 ---
-title: "Operace Serenata de Amor"
-term_id: "operation_serenata_de_amor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["civic-tech", "ethics", "transparency"]
+title: Operace Serenata de Amor
+term_id: operation_serenata_de_amor
+category: basic_concepts
+subcategory: ''
+tags:
+- Civic Tech
+- ethics
+- transparency
 difficulty: 2
 weight: 1
-slug: "operation_serenata_de_amor"
-aliases:
-  - /cs/terms/operation_serenata_de_amor/
-date: "2026-07-18T16:11:47.502399Z"
-lastmod: "2026-07-18T17:15:09.160013Z"
+slug: operation_serenata_de_amor
+date: '2026-07-18T16:11:47.502399Z'
+lastmod: '2026-07-18T17:15:09.160013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Občanská technologická iniciativa využívající strojové učení k odhalování podvodů ve veřejných výdajích v Brazílii."
+source: agnes_llm
+status: published
+language: cs
+description: Občanská technologická iniciativa využívající strojové učení k odhalování
+  podvodů ve veřejných výdajích v Brazílii.
 ---
-
 ## Definition
 
 Operace Serenata de Amor je průkopnický open-source projekt, který aplikuje umělou inteligenci k analýze dat o veřejných zakázkách v Brazílii. Využitím zpracování přirozeného jazyka a detekce anomálií umožňuje transparentnější kontrolu veřejných financí.

@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /en/terms/relational_data_mining/
 date: "2026-07-18T10:13:50.501126Z"
 lastmod: "2026-07-18T11:44:44.716982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The process of discovering patterns and knowledge from data that consists of multiple interrelated tables or entities."
 ---
-
 ## Definition
 
 Relational data mining focuses on extracting useful information from databases where data is organized into multiple related tables, rather than a single flat table. It leverages the relationships between entities to find complex patterns that would be invisible in isolated data views. Techniques include association rule mining across relations, clustering connected objects, and classification based on relational features. This approach is essential for domains like social network analysis, fraud detection, and biological information systems.

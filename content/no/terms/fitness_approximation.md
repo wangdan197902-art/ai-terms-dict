@@ -1,23 +1,24 @@
 ---
-title: "Tilpasningsapproksimasjon"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Tilpasningsapproksimasjon
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /no/terms/fitness_approximation/
-date: "2026-07-18T15:54:45.366646Z"
-lastmod: "2026-07-18T16:38:07.001460Z"
+slug: fitness_approximation
+date: '2026-07-18T15:54:45.366646Z'
+lastmod: '2026-07-18T16:38:07.001460Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk i evolusjonsalgoritmer som estimerer løsningskvalitet for å redusere datamessige kostnader under optimalisering."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk i evolusjonsalgoritmer som estimerer løsningskvalitet for
+  å redusere datamessige kostnader under optimalisering.
 ---
-
 ## Definition
 
 Tilpasningsapproksimasjon brukes i evolusjonsregning når evaluering av den sanne tilpasningsfunksjonen er datamessig kostbart eller tidskrevende. I stedet for å beregne den nøyaktige verdien, brukes erstatningsmodeller.

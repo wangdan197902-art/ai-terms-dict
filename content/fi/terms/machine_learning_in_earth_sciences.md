@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /fi/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:09:40.332818Z"
 lastmod: "2026-07-18T17:15:09.431845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Koneoppimisalgoritmien käyttö geotilan ja ympäristödatan analysointiin luonnonilmiöiden ennustamiseksi ja resurssien hallitsemiseksi."
 ---
-
 ## Definition
 
 Koneoppiminen parantaa maantieteellisiä tieteitä prosessoimalla satelliittikuvia, seismistä dataa ja ilmistoraportteja monimutkaisten ympäristöjärjestelmien mallintamiseksi. Nämä tekniikat auttavat ennustamaan sääolosuhteita ja seuraamaan ympäristön muutoksia.

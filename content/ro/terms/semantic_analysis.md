@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /ro/terms/semantic_analysis/
 date: "2026-07-18T16:20:07.433248Z"
 lastmod: "2026-07-18T17:15:09.700977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Analiza semantică este procesul de extragere a sensului din text, înțelegând relațiile dintre cuvinte și context în cadrul procesării limbajului natural."
 ---
-
 ## Definition
 
 Aceasta depășește structura sintactică pentru a interpreta intenția și semnificația reală a intrărilor lingvistice. Implică dezambiguizarea sensurilor cuvintelor bazate pe context, identificarea entităților și înțelegerea relațiilor logice dintre concepte.

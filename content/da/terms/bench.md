@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /da/terms/bench/
 date: "2026-07-18T15:23:25.150836Z"
 lastmod: "2026-07-18T17:15:09.219739Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Kort for benchmark, et standardtestset eller en måling brugt til at evaluere AI-modellers ydeevne."
 ---
-
 ## Definition
 
 Et benchmark fungerer som et standardiseret referencepunkt til at sammenligne evnerne hos forskellige AI-modeller eller algoritmer. Det involverer typisk et kurateret datasæt og specifikke evalueringsmetrikker såsom nøjagtighed eller hastighed.

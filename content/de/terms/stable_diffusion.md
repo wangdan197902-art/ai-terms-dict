@@ -1,23 +1,24 @@
 ---
-title: "Stable Diffusion"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: Stable Diffusion
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /de/terms/stable_diffusion/
-date: "2026-07-18T11:34:38.418383Z"
-lastmod: "2026-07-18T11:44:44.988300Z"
+slug: stable_diffusion
+date: '2026-07-18T11:34:38.418383Z'
+lastmod: '2026-07-18T11:44:44.988300Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein latentes Diffusionsmodell, das effizient hochwertige Bilder aus Textbeschreibungen generieren kann."
+source: agnes_llm
+status: published
+language: de
+description: Ein latentes Diffusionsmodell, das effizient hochwertige Bilder aus Textbeschreibungen
+  generieren kann.
 ---
-
 ## Definition
 
 Stable Diffusion ist ein Deep-Learning-Modell, das detaillierte Bilder erzeugt, die durch Texteingaben konditioniert sind, indem es einen latenten Diffusionsprozess nutzt. Im Gegensatz zu Diffusionsmodellen im Pixelraum operiert es in einem komprimierten latenten Raum, was die Rechenkosten senkt und die Generierungsgeschwindigkeit erhöht, während die Bildqualität erhalten bleibt.

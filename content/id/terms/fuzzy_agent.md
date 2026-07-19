@@ -1,23 +1,24 @@
 ---
-title: "Agen Fuzzy"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Agen Fuzzy
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /id/terms/fuzzy_agent/
-date: "2026-07-18T15:51:26.470441Z"
-lastmod: "2026-07-18T16:38:07.459747Z"
+slug: fuzzy_agent
+date: '2026-07-18T15:51:26.470441Z'
+lastmod: '2026-07-18T16:38:07.459747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Entitas otonom yang memanfaatkan logika fuzzy untuk menangani ketidakpastian dan informasi yang tidak presisi dalam proses pengambilan keputusan."
+source: agnes_llm
+status: published
+language: id
+description: Entitas otonom yang memanfaatkan logika fuzzy untuk menangani ketidakpastian
+  dan informasi yang tidak presisi dalam proses pengambilan keputusan.
 ---
-
 ## Definition
 
 Agen fuzzy beroperasi dalam lingkungan di mana data sering kali ambigu atau tidak lengkap, menggunakan sistem logika fuzzy daripada keadaan biner benar/salah. Dengan menggunakan fungsi keanggotaan dan variabel linguistik, agen ini mampu membuat keputusan yang lebih halus dan adaptif terhadap kondisi dunia nyata yang tidak pasti.

@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /tr/terms/cloud/
 date: "2026-07-18T15:23:53.882190Z"
 lastmod: "2026-07-18T16:38:07.228944Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bulut, yerel donanım yerine veri ve yapay zeka modellerini depolamak, yönetmek ve işlemek için internette barındırılan uzak sunucuları ifade eder."
 ---
-
 ## Definition
 
 Bulut bilişim, geliştiricilerin fiziksel veri merkezlerini yönetmeden güçlü GPU'lara ve depolama alanlarına erişmesini sağlayarak yapay zeka iş yükleri için ölçeklenebilir altyapı sunar. Çeşitli hizmet modellerini destekler ve esnek kaynak yönetimi imkanı tanır.

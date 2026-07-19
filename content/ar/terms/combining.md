@@ -1,23 +1,24 @@
 ---
-title: "الدمج"
-term_id: "combining"
-category: "basic_concepts"
-subcategory: ""
-tags: ["techniques", "optimization", "architecture"]
+title: الدمج
+term_id: combining
+category: basic_concepts
+subcategory: ''
+tags:
+- techniques
+- Optimization
+- architecture
 difficulty: 2
 weight: 1
-slug: "combining"
-aliases:
-  - /ar/terms/combining/
-date: "2026-07-18T15:24:06.454428Z"
-lastmod: "2026-07-18T17:15:08.435389Z"
+slug: combining
+date: '2026-07-18T15:24:06.454428Z'
+lastmod: '2026-07-18T17:15:08.435389Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير الدمج في الذكاء الاصطناعي إلى دمج نماذج متعددة أو مصادر بيانات أو تقنيات لتحسين الأداء العام والمتانة."
+source: agnes_llm
+status: published
+language: ar
+description: يشير الدمج في الذكاء الاصطناعي إلى دمج نماذج متعددة أو مصادر بيانات أو
+  تقنيات لتحسين الأداء العام والمتانة.
 ---
-
 ## Definition
 
 يشمل هذا المفهوم أساليب مثل التعلم الجماعي، حيث يتم تجميع التنبؤات من عدة نماذج لتقليل التباين أو التحيز. كما يتضمن اندماج الوسائط المتعددة، حيث يتم دمج أنواع مختلفة من البيانات (مثل النص والصورة) لفهم أكثر شمولاً.

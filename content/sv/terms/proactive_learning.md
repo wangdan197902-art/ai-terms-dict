@@ -1,23 +1,24 @@
 ---
-title: "Proaktiv inlärning"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Proaktiv inlärning
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /sv/terms/proactive_learning/
-date: "2026-07-18T16:14:13.246119Z"
-lastmod: "2026-07-18T17:15:09.038059Z"
+slug: proactive_learning
+date: '2026-07-18T16:14:13.246119Z'
+lastmod: '2026-07-18T17:15:09.038059Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En inlärningsstrategi där agenten aktivt väljer informativa datapunkter att fråga efter eller utforska snarare än att passivt ta emot dem."
+source: agnes_llm
+status: published
+language: sv
+description: En inlärningsstrategi där agenten aktivt väljer informativa datapunkter
+  att fråga efter eller utforska snarare än att passivt ta emot dem.
 ---
-
 ## Definition
 
 Vid proaktiv inlärning bestämmer AI-systemet vilka prover som skulle minska osäkerheten eller förbättra modellprestanda mest, ofta genom strategier för aktiv inlärning eller utforskning. Detta står i kontrast till passiv inlärning där data levereras slumpmässigt.

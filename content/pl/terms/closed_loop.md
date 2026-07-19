@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /pl/terms/closed_loop/
 date: "2026-07-18T15:31:26.372567Z"
 lastmod: "2026-07-18T17:15:08.824874Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "System sterowania, w którym zwrotne sprzężenie wyjścia jest stale wykorzystywane do dostosowywania przyszłych działań."
 ---
-
 ## Definition
 
 Systemy pętli zamkniętej w sztucznej inteligencji wykorzystują informacje zwrotne ze środowiska w czasie rzeczywistym do dynamicznego dostosowywania swojego zachowania lub parametrów. Stanowi to kontrast dla systemów pętli otwartej, które wykonują predefiniowane sekwencje bez korekty...

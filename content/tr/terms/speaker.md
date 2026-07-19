@@ -7,8 +7,6 @@ tags: ["audio", "identity", "basics"]
 difficulty: 1
 weight: 1
 slug: "speaker"
-aliases:
-  - /tr/terms/speaker/
 date: "2026-07-18T16:15:13.617662Z"
 lastmod: "2026-07-18T16:38:07.367419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir ses sinyalinde vokal sesler veya konuşma üreten birey."
 ---
-
 ## Definition
 
 Konuşma işleme alanında bir konuşmacı, bir ses kaydındaki ayrı bir insan ses kaynağı olarak tanımlanır. Konuşmacıları tanımlamak ve ayırt etmek, konuşmaları analiz etmek, güvenlik sağlamak ve diyalogların bağlamını anlamak için temel bir öneme sahiptir.

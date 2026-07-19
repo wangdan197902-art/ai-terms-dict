@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /zh/terms/intelligent_decision_support_system/
 date: "2026-07-18T11:22:43.864897Z"
 lastmod: "2026-07-18T11:44:45.518997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种增强型人工智能系统，通过分析数据并提供可操作的见解，协助人类进行复杂决策。"
 ---
-
 ## Definition
 
 智能决策支持系统（IDSS）将机器学习、自然语言处理等人工智能技术与传统决策支持框架相结合。它

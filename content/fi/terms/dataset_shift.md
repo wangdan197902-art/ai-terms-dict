@@ -1,23 +1,24 @@
 ---
-title: "Datasiirtymä"
-term_id: "dataset_shift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "statistics", "model_deployment"]
+title: Datasiirtymä
+term_id: dataset_shift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- statistics
+- Model Deployment
 difficulty: 3
 weight: 1
-slug: "dataset_shift"
-aliases:
-  - /fi/terms/dataset_shift/
-date: "2026-07-18T15:51:09.351804Z"
-lastmod: "2026-07-18T17:15:09.397717Z"
+slug: dataset_shift
+date: '2026-07-18T15:51:09.351804Z'
+lastmod: '2026-07-18T17:15:09.397717Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Datasiirtymä viittaa ilmiöön, jossa syötetiedon tilastolliset ominaisuudet muuttuvat koulutusvaiheen ja käyttöönoton välillä."
+source: agnes_llm
+status: published
+language: fi
+description: Datasiirtymä viittaa ilmiöön, jossa syötetiedon tilastolliset ominaisuudet
+  muuttuvat koulutusvaiheen ja käyttöönoton välillä.
 ---
-
 ## Definition
 
 Datasiirtymä tapahtuu, kun koneoppimismallin koulutuksessa käytetyn tiedon jakauma eroaa havainnoinnin aikana kohdattavasta tiedon jakaumasta. Tämä epäsuhta voi johtaa merkittäviin suorituskyvyn heikkenemisiin.

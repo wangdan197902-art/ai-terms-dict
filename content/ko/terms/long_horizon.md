@@ -1,23 +1,22 @@
 ---
-title: "장기적 관점"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: 장기적 관점
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /ko/terms/long_horizon/
-date: "2026-07-18T15:32:07.410421Z"
-lastmod: "2026-07-18T16:38:06.789884Z"
+slug: long_horizon
+date: '2026-07-18T15:32:07.410421Z'
+lastmod: '2026-07-18T16:38:06.789884Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "지연된 보상이나 결과가 있는 긴 시간 범위에서 의사결정이 필요한 작업을 의미합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 지연된 보상이나 결과가 있는 긴 시간 범위에서 의사결정이 필요한 작업을 의미합니다.
 ---
-
 ## Definition
 
 장기적 문제는 초기 결정의 영향이 많은 단계가 지난 후에야 나타나는 일련의 행동을 포함합니다. 이는 로봇 공학, 계획 수립, 다단계 추론 작업에서 흔하게 발견됩니다. 주요 과제는...

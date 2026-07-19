@@ -1,23 +1,24 @@
 ---
-title: "פרשנות בייסיאנית של רגולריזציית ליבה"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: פרשנות בייסיאנית של רגולריזציית ליבה
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /he/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:46:08.202401Z"
-lastmod: "2026-07-18T17:15:09.516429Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:46:08.202401Z'
+lastmod: '2026-07-18T17:15:09.516429Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מסגרת תיאורטית המקשרת בין שיטות ליבה (כמו SVM) לבין תהליכים גאוסיים בהנחת prior בייסיאני."
+source: agnes_llm
+status: published
+language: he
+description: מסגרת תיאורטית המקשרת בין שיטות ליבה (כמו SVM) לבין תהליכים גאוסיים בהנחת
+  prior בייסיאני.
 ---
-
 ## Definition
 
 רעיון זה מבסס כי מזעור פונקציית סיכון רגולריזציה עם ליבה ספציפית שקול למציאת הערכת מקסימום אפוסטריורי (MAP) במסגרת בייסיאנית. ספציפית, זה

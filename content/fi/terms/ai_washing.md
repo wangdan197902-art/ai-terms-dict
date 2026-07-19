@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /fi/terms/ai_washing/
 date: "2026-07-18T15:40:26.988386Z"
 lastmod: "2026-07-18T17:15:09.379178Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käytäntö, jossa tuotteiden tai palveluiden väitetään hyödyntävän tekoälyä markkinointitarkoituksessa liioittelemalla tai valehtelemalla."
 ---
-
 ## Definition
 
 Teekoälypesu on termi, joka on analoginen vihreäpesun kanssa, ja se kuvaa harhaanjohtavaa markkinointistrategiaa, jossa yritykset väittävät tuotteidensa sisältävän edistynyttä tekoälyä, vaikka ne todellisuudessa perustuvat yksinkertaisiin sääntöpohjaisiin järjestelmiin.

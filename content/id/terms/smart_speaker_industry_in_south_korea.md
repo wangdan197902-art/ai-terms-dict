@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /id/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:09:06.123570Z"
 lastmod: "2026-07-18T16:38:07.507497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ekosistem pasar yang melibatkan produsen perangkat keras dan penyedia layanan AI yang menawarkan perangkat kendali suara di dalam Korea Selatan."
 ---
-
 ## Definition
 
 Istilah ini merujuk pada dinamika pasar regional spesifik seputar speaker pintar di Korea Selatan, yang ditandai dengan penetrasi smartphone yang tinggi dan infrastruktur broadband canggih. Hal ini melibatkan para produsen perangkat keras utama dan penyedia layanan kecerdasan buatan lokal yang bersaing untuk menguasai pangsa pasar domestik melalui integrasi teknologi suara.

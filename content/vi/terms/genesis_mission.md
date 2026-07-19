@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /vi/terms/genesis_mission/
 date: "2026-07-18T15:54:54.278461Z"
 lastmod: "2026-07-18T16:38:07.761107Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một sáng kiến tổ chức tập trung vào việc thiết lập các nguyên tắc nền tảng, cơ sở hạ tầng và hướng dẫn đạo đức cho sự phát triển AI tạo sinh trong tương lai."
 ---
-
 ## Definition
 
 Sứ mệnh Genesis thường đề cập đến một giai đoạn chiến lược hoặc dự án trong tổ chức nhằm xây dựng nền móng cho các khả năng AI tiên tiến. Điều này bao gồm việc thiết lập cơ sở hạ tầng cốt lõi, xác định khung đạo đức và thử nghiệm các mô hình ban đầu để đảm bảo sự phát triển bền vững và an toàn.

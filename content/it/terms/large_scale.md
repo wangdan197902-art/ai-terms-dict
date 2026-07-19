@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /it/terms/large_scale/
 date: "2026-07-18T15:32:16.923476Z"
 lastmod: "2026-07-18T17:15:08.580028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Descrive sistemi o dataset di IA che operano con volumi massicci di dati, parametri o risorse computazionali."
 ---
-
 ## Definition
 
 Su larga scala si riferisce alla magnitudo dei componenti all'interno di un sistema di IA, spesso coinvolgendo miliardi di parametri, terabyte di dati di addestramento o cluster di calcolo distribuiti. Questo approccio è fondame...

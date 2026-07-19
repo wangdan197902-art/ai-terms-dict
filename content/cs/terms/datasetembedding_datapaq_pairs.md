@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /cs/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:51:14.412221Z"
 lastmod: "2026-07-18T17:15:09.117690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Velká škála datových sad dvojic otázek a odpovědí odvozených z Wikipedie, určená pro trénování hustého vyhledávání pasáží."
 ---
-
 ## Definition
 
 Datová sada PAQ (Pseudo-Answer Quality) obsahuje miliony automaticky generovaných dvojic otázek a odpovědí extrahovaných z Wikipedie. Je specificky navržena pro trénování hustých vyhledávačů poskytováním

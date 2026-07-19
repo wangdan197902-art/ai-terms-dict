@@ -1,23 +1,24 @@
 ---
-title: "Prelucrare Asincronă"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Prelucrare Asincronă
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /ro/terms/async_processing/
-date: "2026-07-18T15:46:09.058488Z"
-lastmod: "2026-07-18T17:15:09.629726Z"
+slug: async_processing
+date: '2026-07-18T15:46:09.058488Z'
+lastmod: '2026-07-18T17:15:09.629726Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de programare în care sarcinile sunt executate independent de firul principal de execuție, permițând operațiuni non-blocante."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de programare în care sarcinile sunt executate independent
+  de firul principal de execuție, permițând operațiuni non-blocante.
 ---
-
 ## Definition
 
 Prelucrarea asincronă permite software-ului să execute sarcini de lungă durată, cum ar fi operațiunile de intrare/ieșire (I/O) sau calcule complexe, fără a bloca interfața principală a aplicației sau a bloca alte procese. Aceasta îmbunătățește responsivitatea și eficiența resurselor.

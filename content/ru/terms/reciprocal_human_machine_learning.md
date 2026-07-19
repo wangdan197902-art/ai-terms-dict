@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /ru/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:12:39.428272Z"
 lastmod: "2026-07-18T16:38:07.197729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Парадигма совместного обучения, в которой люди и машины постоянно обучают друг друга и учатся у друг друга для повышения производительности."
 ---
-
 ## Definition
 
 Этот подход выходит за рамки простой разметки данных человеком (human-in-the-loop). Он включает двустороннюю передачу знаний: люди исправляют ошибки модели, в то время как модель помогает людям выявлять закономерности или автоматизирует рутинные задачи...

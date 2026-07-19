@@ -1,23 +1,24 @@
 ---
-title: "Planificare"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: Planificare
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /ro/terms/planning/
-date: "2026-07-18T15:37:21.063241Z"
-lastmod: "2026-07-18T17:15:09.617007Z"
+slug: planning
+date: '2026-07-18T15:37:21.063241Z'
+lastmod: '2026-07-18T17:15:09.617007Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul cognitiv de generare a unei secvențe de acțiuni pentru a atinge obiective specifice într-un mediu definit."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul cognitiv de generare a unei secvențe de acțiuni pentru a atinge
+  obiective specifice într-un mediu definit.
 ---
-
 ## Definition
 
 Planificarea în IA implică determinarea unei secvențe de acțiuni care va duce de la o stare inițială la o stare dorită (obiectiv). Aceasta necesită raționament despre efectele acțiunilor și constrângerile mediului în care au loc.

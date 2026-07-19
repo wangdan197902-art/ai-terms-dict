@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /fr/terms/ai_browser/
 date: "2026-07-18T11:02:43.375073Z"
 lastmod: "2026-07-18T11:44:45.192156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un navigateur web intégré avec des capacités d'IA pour assister dans la recherche, la synthèse et l'analyse de contenu."
 ---
-
 ## Definition
 
 Un navigateur IA est une application de navigation web qui incorpore directement des fonctionnalités d'intelligence artificielle dans l'interface utilisateur. Ces fonctionnalités incluent généralement la recherche en langage naturel, la synthèse automatique de contenu et l'analyse contextuelle des pages visitées.

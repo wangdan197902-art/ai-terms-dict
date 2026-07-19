@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /he/terms/multi_task_learning/
 date: "2026-07-18T16:13:31.135586Z"
 lastmod: "2026-07-18T17:15:09.566765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פרדיגמה בלמידת מכונה שבה מודל מאומן על מספר משימות קשורות בו זמנית כדי לשפר את יכולת הכללתו."
 ---
-
 ## Definition
 
 טכניקה זו מנצלת את ההטיות האינדוקטיביות המשותפות בין משימות קשורות כדי לשפר את יעילות הלמידה והביצועים. על ידי אימון מודל יחיד לבצע מספר משימות במקביל, המודל לומד ייצוג משותף שמסייע לו להתמודד טוב יותר עם משימות חדשות או רועשות.

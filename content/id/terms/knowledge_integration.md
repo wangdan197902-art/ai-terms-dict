@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /id/terms/knowledge_integration/
 date: "2026-07-18T15:56:59.502486Z"
 lastmod: "2026-07-18T16:38:07.474218Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses menggabungkan sumber pengetahuan yang heterogen menjadi representasi yang bersatu dan konsisten untuk meningkatkan penalaran."
 ---
-
 ## Definition
 
 Integrasi pengetahuan melibatkan penggabungan data dari berbagai asal, seperti basis data, ontologi, dan teks tidak terstruktur, ke dalam skema yang koheren. Proses ini mengatasi masalah heterogenitas semantik dan inkonsistensi antar-sumber, memungkinkan sistem untuk memahami dan menggunakan informasi secara holistik.

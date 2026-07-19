@@ -1,23 +1,24 @@
 ---
-title: "Có hướng dẫn (Guided)"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Có hướng dẫn (Guided)
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /vi/terms/guided/
-date: "2026-07-18T15:26:08.243847Z"
-lastmod: "2026-07-18T16:38:07.687278Z"
+slug: guided
+date: '2026-07-18T15:26:08.243847Z'
+lastmod: '2026-07-18T16:38:07.687278Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Mô tả các quy trình hoặc phương pháp tạo sinh AI bị ràng buộc hoặc điều hướng bởi các tín hiệu bên ngoài, ràng buộc hoặc mục tiêu trung gian cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Mô tả các quy trình hoặc phương pháp tạo sinh AI bị ràng buộc hoặc điều
+  hướng bởi các tín hiệu bên ngoài, ràng buộc hoặc mục tiêu trung gian cụ thể.
 ---
-
 ## Definition
 
 Thuật ngữ 'có hướng dẫn' trong AI thường đề cập đến các kỹ thuật mà hành vi của mô hình được điều khiển bởi thông tin bổ sung ngoài đầu vào chính. Các ví dụ phổ biến bao gồm khuếch tán có hướng dẫn, nơi một lớp...

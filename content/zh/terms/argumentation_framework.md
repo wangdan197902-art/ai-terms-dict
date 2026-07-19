@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /zh/terms/argumentation_framework/
 date: "2026-07-18T11:05:01.870226Z"
 lastmod: "2026-07-18T11:44:45.443054Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "用于建模和解决AI系统中竞争性主张或决策之间冲突的形式化结构。"
 ---
-
 ## Definition
 
 论证框架为表示论点及其之间的攻击和防御提供了数学基础。在AI工程中，它们帮助系统通过权衡证据做出透明且可辩护的决策。

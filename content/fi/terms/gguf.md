@@ -1,23 +1,24 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /fi/terms/gguf/
-date: "2026-07-18T15:58:37.137216Z"
-lastmod: "2026-07-18T17:15:09.413207Z"
+slug: gguf
+date: '2026-07-18T15:58:37.137216Z'
+lastmod: '2026-07-18T17:15:09.413207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "ggerganov:n kehittämä tiedostomuoto kvantisoitujen suurten kielimallien tallentamiseen ja lataamiseen tehokkaasti paikallisella laitteistolla."
+source: agnes_llm
+status: published
+language: fi
+description: ggerganov:n kehittämä tiedostomuoto kvantisoitujen suurten kielimallien
+  tallentamiseen ja lataamiseen tehokkaasti paikallisella laitteistolla.
 ---
-
 ## Definition
 
 GGUF (GPT-Generated Unified Format) on binääritiedostomuoto, joka on suunniteltu erityisesti suurten kielimallien suorittamiseen kuluttajaluokan laitteistolla. Se tukee erilaisia kvantisointitekniikoita, mikä mahdollistaa mallien koon pienentämisen ja nopeamman suorituksen ilman merkittävää tarkkuuden menetystä.

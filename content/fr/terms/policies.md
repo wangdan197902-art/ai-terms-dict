@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /fr/terms/policies/
 date: "2026-07-18T10:52:45.296889Z"
 lastmod: "2026-07-18T11:44:45.168966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un ensemble de lignes directrices, de règles ou de protocoles établis par une organisation pour régir le comportement, la prise de décision et les normes opérationnelles."
 ---
-
 ## Definition
 
 Dans le contexte de l'intelligence artificielle et de la gouvernance technologique, les politiques désignent les cadres formalisés qui dictent comment les systèmes d'IA doivent être développés, déployés et surveillés. Ces documents...

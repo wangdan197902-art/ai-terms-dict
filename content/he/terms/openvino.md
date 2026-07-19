@@ -7,8 +7,6 @@ tags: ["Deployment", "Intel", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "openvino"
-aliases:
-  - /he/terms/openvino/
 date: "2026-07-18T16:15:08.978591Z"
 lastmod: "2026-07-18T17:15:09.570790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "OpenVINO היא כלי קוד פתוח של אינטל לאופטימיזציה והטמעה של מודלים ללמידה עמוקה על מגוון פלטפורמות חומרה ביעילות."
 ---
-
 ## Definition
 
 פותח על ידי אינטל, OpenVINO (Open Visual Inference and Neural Network Optimization) מאפשר למפתחים לקחת מודלים ללמידה עמוקה מאומנים ולהטמיע אותם ביעילות על חומרת אינטל. הוא כולל מנוע הסקה, אופטימיזציה של מודלים ותמיכה במגוון מסגרות.

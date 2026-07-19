@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /pl/terms/neural_scaling_law/
 date: "2026-07-18T16:09:01.008713Z"
 lastmod: "2026-07-18T17:15:08.901564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Empiryczne zależności przewidujące poprawę wydajności modelu na podstawie wzrostu danych, parametrów lub mocy obliczeniowej."
 ---
-
 ## Definition
 
 Prawa skalowania sieci neuronowych opisują przewidywalną zależność potęgową między wydajnością modelu a jego skalą, w tym wielkością zbioru danych, liczbą parametrów i budżetem obliczeniowym. Prawa te sugerują, że...

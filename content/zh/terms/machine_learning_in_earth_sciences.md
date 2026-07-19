@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /zh/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T11:25:10.893711Z"
 lastmod: "2026-07-18T11:44:45.528652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "使用机器学习算法分析地理空间和环境数据，以预测自然现象和管理资源。"
 ---
-
 ## Definition
 
 机器学习通过处理卫星图像、地震数据和气候记录来增强地球科学研究，从而模拟复杂的环境系统。这些技术有助于预测天气模式、监测冰川融化以及管理自然资源。

@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /nl/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:51:50.785813Z"
 lastmod: "2026-07-18T17:15:08.737891Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gespecialiseerde pipeline in de Diffusers-bibliotheek die is ontworpen voor Flux-modellen, waardoor contextbewuste beeldgeneratie mogelijk is met verbeterde temporale of ruimtelijke coherentie."
 ---
-
 ## Definition
 
 Deze pipeline maakt gebruik van de Flux-architectuur, bekend om zijn hoogwaardige beeldsynthese, binnen het Diffusers-framework. Het ondersteunt contextmechanismen waarmee het model omliggende elementen kan overwegen.

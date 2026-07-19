@@ -1,23 +1,24 @@
 ---
-title: "Gjenkjenning av navngitte entiteter"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Gjenkjenning av navngitte entiteter
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /no/terms/named_entity_recognition/
-date: "2026-07-18T15:37:54.938018Z"
-lastmod: "2026-07-18T16:38:06.960638Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:37:54.938018Z'
+lastmod: '2026-07-18T16:38:06.960638Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En oppgave innen naturlig språkbehandling som identifiserer og klassifiserer nøkkelinformasjonsentiteter i forhåndsdefinerte kategorier."
+source: agnes_llm
+status: published
+language: 'no'
+description: En oppgave innen naturlig språkbehandling som identifiserer og klassifiserer
+  nøkkelinformasjonsentiteter i forhåndsdefinerte kategorier.
 ---
-
 ## Definition
 
 Gjenkjenning av navngitte entiteter (NER) er en deloppgave innen informasjonsutvinning som lokaliserer og klassifiserer navngitte entiteter i tekst i forhåndsdefinerte kategorier, slik som personnavn, organisasjoner, steder og medisinske termer.

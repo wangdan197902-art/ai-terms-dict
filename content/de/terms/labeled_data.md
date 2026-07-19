@@ -1,23 +1,24 @@
 ---
-title: "Beschriftete Daten"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Beschriftete Daten
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /de/terms/labeled_data/
-date: "2026-07-18T11:21:06.047121Z"
-lastmod: "2026-07-18T11:44:44.956968Z"
+slug: labeled_data
+date: '2026-07-18T11:21:06.047121Z'
+lastmod: '2026-07-18T11:44:44.956968Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Daten, bei denen der korrekte Ausgabe- oder Zielwert zusammen mit den Eingabemerkmalswerten bereitgestellt wird."
+source: agnes_llm
+status: published
+language: de
+description: Daten, bei denen der korrekte Ausgabe- oder Zielwert zusammen mit den
+  Eingabemerkmalswerten bereitgestellt wird.
 ---
-
 ## Definition
 
 Beschriftete Daten bestehen aus Eingabeproben, die mit entsprechenden Ground-Truth-Labels (Grundwahrheiten) gepaart sind und dienen als Grundlage für das überwachtes maschinelles Lernen. Sie ermöglichen es Algorithmen, die Abbildung zwischen Eingabe und Ausgabe zu lernen.

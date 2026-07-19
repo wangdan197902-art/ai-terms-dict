@@ -1,23 +1,24 @@
 ---
-title: "Prompt-Tuning"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt-Tuning
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /de/terms/prompt_tuning/
-date: "2026-07-18T11:28:44.805994Z"
-lastmod: "2026-07-18T11:44:44.977887Z"
+slug: prompt_tuning
+date: '2026-07-18T11:28:44.805994Z'
+lastmod: '2026-07-18T11:44:44.977887Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine parameter-effiziente Feinabstimmungsmethode, die kontinuierliche Eingabe-Embeddings optimiert, anstatt die gesamten Modellgewichte zu aktualisieren."
+source: agnes_llm
+status: published
+language: de
+description: Eine parameter-effiziente Feinabstimmungsmethode, die kontinuierliche
+  Eingabe-Embeddings optimiert, anstatt die gesamten Modellgewichte zu aktualisieren.
 ---
-
 ## Definition
 
 Beim Prompt-Tuning werden trainierbare „Soft Prompts“ (kontinuierliche Vektoren) zur Eingabeschicht eines vortrainierten Sprachmodells hinzugefügt, während die zugrunde liegenden Modellparameter eingefroren bleiben. Dieser Ansatz ermöglicht eine effiziente Anpassung.

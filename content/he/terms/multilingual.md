@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /he/terms/multilingual/
 date: "2026-07-18T16:13:31.135623Z"
 lastmod: "2026-07-18T17:15:09.566896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מונח בבינה מלאכותית המתאר מודלים המסוגלים לעבד, להבין או לייצר תוכן במספר שפות טבעיות."
 ---
-
 ## Definition
 
 מודלים רב-לשוניים מתוכננים להתמודד עם קלטים לשוניים מגוונים ללא צורך במודלים נפרדים לכל שפה. מערכות אלו משתמשות בדרך כלל בטמעות משותפות או ביישור בין-לשוני כדי לאפשר העברת ידע בין שפות שונות.

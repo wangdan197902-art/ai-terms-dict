@@ -1,23 +1,23 @@
 ---
-title: "空間埋め込み"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: 空間埋め込み
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /ja/terms/spatial_embedding/
-date: "2026-07-18T11:32:47.846227Z"
-lastmod: "2026-07-18T11:44:45.146088Z"
+slug: spatial_embedding
+date: '2026-07-18T11:32:47.846227Z'
+lastmod: '2026-07-18T11:44:45.146088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "物体や場所間の空間関係をベクトル表現に変換し、機械学習モデルに入力するための手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 物体や場所間の空間関係をベクトル表現に変換し、機械学習モデルに入力するための手法。
 ---
-
 ## Definition
 
 空間埋め込みとは、物理的または抽象的な空間関係を密なベクトル空間に変換するプロセスであり、アルゴリズムが近接性、方向性、トポロジーを理解できるようにします。この手法は、空間的な構造を数値的に表現するために不可欠です。

@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /pt/terms/schema_agnostic_databases/
 date: "2026-07-18T15:20:21.865585Z"
 lastmod: "2026-07-18T15:51:59.530728Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Bancos de dados agnósticos ao esquema são sistemas de armazenamento que permitem estruturas de dados flexíveis sem exigir esquemas predefinidos, frequentemente usados em ambientes NoSQL."
 ---
-
 ## Definition
 
 Esses bancos de dados permitem a modelagem dinâmica de dados ao não impor estruturas rígidas de tabelas ou definições de colunas antecipadamente. Essa flexibilidade permite que desenvolvedores armazenem dados não estruturados ou semiestruturados, atendendo

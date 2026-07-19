@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /zh/terms/knowledge_compilation/
 date: "2026-07-18T11:23:05.463579Z"
 lastmod: "2026-07-18T11:44:45.520922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "知识编译是将知识表示转换为更高效形式的过程，以便更快地回答问题或进行推理。"
 ---
-
 ## Definition
 
 知识编译是指人工智能中的一类技术，它将知识库或逻辑理论转换为不同的表示形式，从而促进更快的操作，如可满足性检查。

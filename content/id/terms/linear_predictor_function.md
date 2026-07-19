@@ -1,23 +1,24 @@
 ---
-title: "Fungsi prediktor linear"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Fungsi prediktor linear
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /id/terms/linear_predictor_function/
-date: "2026-07-18T15:58:12.199928Z"
-lastmod: "2026-07-18T16:38:07.477581Z"
+slug: linear_predictor_function
+date: '2026-07-18T15:58:12.199928Z'
+lastmod: '2026-07-18T16:38:07.477581Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Fungsi matematika yang menghitung kombinasi linear dari variabel input untuk memprediksi suatu hasil."
+source: agnes_llm
+status: published
+language: id
+description: Fungsi matematika yang menghitung kombinasi linear dari variabel input
+  untuk memprediksi suatu hasil.
 ---
-
 ## Definition
 
 Dalam pemodelan statistik dan pembelajaran mesin, fungsi prediktor linear mewakili jumlah tertimbang dari fitur input ditambah dengan istilah bias. Fungsi ini merupakan komponen inti dalam model linear umum (generalized linear models).

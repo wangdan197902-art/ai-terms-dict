@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /ko/terms/unified_model/
 date: "2026-07-18T16:19:50.408182Z"
 lastmod: "2026-07-18T16:38:06.917934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "단일 프레임워크 내에서 여러 작업이나 모달리티를 처리하도록 설계된 AI 아키텍처입니다."
 ---
-
 ## Definition
 
 통합 모델은 별도의 분리된 시스템 없이도 텍스트 생성, 이미지 인식, 코드 합성 등 다양한 고유한 작업을 수행할 수 있는 인공지능 시스템을 의미합니다.

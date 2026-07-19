@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /vi/terms/elmo/
 date: "2026-07-18T15:50:20.327059Z"
 lastmod: "2026-07-18T16:38:07.751840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Embeddings from Language Models, một phương pháp biểu diễn từ ngữ cảnh hóa sâu sử dụng LSTM hai chiều."
 ---
-
 ## Definition
 
 ELMo tạo ra các vector nhúng từ nhạy cảm với ngữ cảnh bằng cách xử lý văn bản đầu vào qua một mạng LSTM hai chiều được huấn luyện trên một tập dữ liệu lớn. Khác với các vector nhúng tĩnh như Word2Vec, ELMo nắm bắt được tính đa nghĩa bằng cách tạo ra các biểu diễn khác nhau cho cùng một từ trong các ngữ cảnh khác nhau.

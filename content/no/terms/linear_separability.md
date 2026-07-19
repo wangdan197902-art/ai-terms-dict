@@ -1,23 +1,24 @@
 ---
-title: "Lineær separabilitet"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Lineær separabilitet
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /no/terms/linear_separability/
-date: "2026-07-18T16:02:59.608253Z"
-lastmod: "2026-07-18T16:38:07.019448Z"
+slug: linear_separability
+date: '2026-07-18T16:02:59.608253Z'
+lastmod: '2026-07-18T16:38:07.019448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Egenskapen til et datasett der to klasser kan deles perfekt av en rett linje eller hyperplan."
+source: agnes_llm
+status: published
+language: 'no'
+description: Egenskapen til et datasett der to klasser kan deles perfekt av en rett
+  linje eller hyperplan.
 ---
-
 ## Definition
 
 Lineær separabilitet refererer til den geometriske tilstanden der datapunkter tilhørende ulike klasser fullstendig kan separeres av en lineær grense, som for eksempel en linje i 2D-rom eller en hyperplan i høyere dimensjoner.

@@ -1,23 +1,24 @@
 ---
-title: "Fp8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: Fp8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /th/terms/fp8/
-date: "2026-07-18T15:54:58.884556Z"
-lastmod: "2026-07-18T16:38:07.607523Z"
+slug: fp8
+date: '2026-07-18T15:54:58.884556Z'
+lastmod: '2026-07-18T16:38:07.607523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "FP8 คือรูปแบบจุดลอยตัว 8 บิต ที่ออกแบบมาเพื่อเร่งความเร็วในการฝึกฝนและการอนุมานการเรียนรู้เชิงลึก ในขณะที่ยังคงระดับความแม่นยำที่ยอมรับได้"
+source: agnes_llm
+status: published
+language: th
+description: FP8 คือรูปแบบจุดลอยตัว 8 บิต ที่ออกแบบมาเพื่อเร่งความเร็วในการฝึกฝนและการอนุมานการเรียนรู้เชิงลึก
+  ในขณะที่ยังคงระดับความแม่นยำที่ยอมรับได้
 ---
-
 ## Definition
 
 Floating-point 8 (FP8) เป็นชนิดข้อมูลตัวเลขที่ให้ความสมดุลระหว่างประสิทธิภาพในการคำนวณและความแม่นยำ โดยเฉพาะอย่างยิ่งได้รับการปรับให้เหมาะสมสำหรับฮาร์ดแวร์ AI สมัยใหม่ มันลดความต้องการแบนด์วิดธ์หน่วยความจำ

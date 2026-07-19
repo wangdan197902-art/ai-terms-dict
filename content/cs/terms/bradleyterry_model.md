@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /cs/terms/bradleyterry_model/
 date: "2026-07-18T15:45:41.599776Z"
 lastmod: "2026-07-18T17:15:09.107975Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Statistický model používaný k analýze dat z párových srovnání, který odhaduje pravděpodobnost, že jedna položka je preferována před druhou."
 ---
-
 ## Definition
 
 Bradleyho–Terryho model je pravděpodobnostní model široce používaný v psychometrice a strojovém učení k zpracování párových srovnání. Přiřazuje každé položce skryté skóre a vypočítává pravděpodobnost...

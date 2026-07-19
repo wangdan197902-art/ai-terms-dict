@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /nl/terms/rate_limiting/
 date: "2026-07-18T16:14:52.969345Z"
 lastmod: "2026-07-18T17:15:08.782467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een technische beheermaatregel die het aantal verzoeken beperkt dat een client binnen een specifiek tijdsvenster naar een service kan versturen."
 ---
-
 ## Definition
 
 Snelheidsbeperking beschermt AI-services en API's tegen misbruik, overbelasting en excessief hulpbronnenverbruik. Het zorgt voor eerlijk gebruik onder gebruikers en behoudt systeemstabiliteit door de doorvoer te begrenzen. Veelvoorkomende strategieën omvatten vaste vensters of token buckets.

@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /pl/terms/extremal_optimization/
 date: "2026-07-18T15:54:14.100172Z"
 lastmod: "2026-07-18T17:15:08.872478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Optymalizacja ekstremalna to heurystyczny algorytm wyszukiwania inspirowany samoorganizującą się krytycznością, zaprojektowany do rozwiązywania problemów optymalizacji kombinatorycznej poprzez iteracy"
 ---
-
 ## Definition
 
 W przeciwieństwie do algorytmów genetycznych, które utrzymują populację rozwiązań, optymalizacja ekstremalna pracuje na pojedynczym rozwiązaniu. Identyfikuje ona komponent najmniej przyczyniający się do ogólnej jakości rozwiązania i zastępuje go losową alternatywą.

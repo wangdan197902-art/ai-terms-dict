@@ -1,23 +1,24 @@
 ---
-title: "Desen Tanıma İçin Önceki Bilgi"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Desen Tanıma İçin Önceki Bilgi
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /tr/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:09:48.990862Z"
-lastmod: "2026-07-18T16:38:07.350789Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:09:48.990862Z'
+lastmod: '2026-07-18T16:38:07.350789Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Makine öğrenimi modellerine entegre edilerek desen tanıma doğruluğunu artırmak amacıyla kullanılan mevcut bilgi veya varsayımlar."
+source: agnes_llm
+status: published
+language: tr
+description: Makine öğrenimi modellerine entegre edilerek desen tanıma doğruluğunu
+  artırmak amacıyla kullanılan mevcut bilgi veya varsayımlar.
 ---
-
 ## Definition
 
 Önceki bilgi, algoritmalar eğitim başlamadan önce dahil edilen alan özgü içgörüler, kısıtlamalar veya tarihsel verileri ifade eder. Bu, modeli makul çözümlere doğru yönlendirerek belirsizliği azaltmaya yardımcı olur.

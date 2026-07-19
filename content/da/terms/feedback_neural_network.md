@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /da/terms/feedback_neural_network/
 date: "2026-07-18T15:56:00.821644Z"
 lastmod: "2026-07-18T17:15:09.288773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En neuralt netværksarkitektur, hvor forbindelserne danner dirigerede cyklusser, hvilket tillader information at bestå over tid."
 ---
-
 ## Definition
 
 Feedback-neurale netværk, også kendt som rekurrente neurale netværk (RNN'er), indeholder løkker, der tillader signaler at sprede sig tilbage til tidligere lag. Denne rekurrens gør det muligt for netværket at opretholde en intern tilstand.

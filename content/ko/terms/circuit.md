@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /ko/terms/circuit/
 date: "2026-07-18T15:44:53.150127Z"
 lastmod: "2026-07-18T16:38:06.816639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "회로는 연산 작업을 실행하는 칩 및 인터커넥트를 포함한 물리적 하드웨어 인프라를 참조합니다."
 ---
-
 ## Definition
 
 AI 맥락에서 회로는 일반적으로 행렬 연산과 병렬 처리를 가속화하도록 설계된 GPU, TPU 또는 뉴로모픽 칩과 같은 하위 하드웨어 아키텍처를 나타냅니다. 이러한

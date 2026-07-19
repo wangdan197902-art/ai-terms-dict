@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /pl/terms/multi_modality/
 date: "2026-07-18T16:08:17.191170Z"
 lastmod: "2026-07-18T17:15:08.899570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wielomodalność to szersza koncepcja lub dziedzina badań dotycząca wykorzystania wielu różnych typów danych w architekturach uczenia maszynowego."
 ---
-
 ## Definition
 
 Wielomodalność reprezentuje ramy architektoniczne i teoretyczne umożliwiające modelom sztucznej inteligencji obsługę heterogenicznych strumieni danych. Obejmuje projektowanie sieci neuronowych, które mogą przyjmować wejścia z różnych...

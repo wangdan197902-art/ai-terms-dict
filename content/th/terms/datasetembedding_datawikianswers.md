@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /th/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:48:28.266753Z"
 lastmod: "2026-07-18T16:38:07.594207Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลที่มีคู่คำถาม-คำตอบจาก WikiAnswers ใช้สำหรับฝึกโมเดลให้เข้าใจเจตนาและความเท่าเทียมกันทางความหมาย"
 ---
-
 ## Definition
 
 ชุดข้อมูลนี้ประกอบด้วยคู่คำถาม-คำตอบจำนวนหลายล้านคู่ที่รวบรวมจากแพลตฟอร์ม WikiAnswers ซึ่งปัจจุบันได้ปิดให้บริการไปแล้ว ชุดข้อมูลนี้ถูกนำมาใช้อย่างกว้างขวางในการฝึกโมเดล Dense Passage Retrieval และโมเดลจับคู่ความหมาย (Semantic Matching) โดยการใช้ข้อมูลจริงจากชุมชนช่วยเพิ่มความสามารถของโมเดลในการเชื่อมโยงคำถามที่มีความหมายเดียวกันแต่ใช้ถ้อยคำต่างกัน

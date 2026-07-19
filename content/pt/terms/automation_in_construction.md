@@ -1,23 +1,24 @@
 ---
-title: "Automação na Construção Civil"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Automação na Construção Civil
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /pt/terms/automation_in_construction/
-date: "2026-07-18T14:51:06.684879Z"
-lastmod: "2026-07-18T15:51:59.466633Z"
+slug: automation_in_construction
+date: '2026-07-18T14:51:06.684879Z'
+lastmod: '2026-07-18T15:51:59.466633Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A aplicação de robótica e IA para otimizar processos de construção e melhorar a segurança no canteiro de obras."
+source: agnes_llm
+status: published
+language: pt
+description: A aplicação de robótica e IA para otimizar processos de construção e
+  melhorar a segurança no canteiro de obras.
 ---
-
 ## Definition
 
 A automação na construção civil refere-se à integração de sistemas robóticos, drones e ferramentas de gerenciamento de projetos orientadas por IA no ciclo de vida da edificação. Essas tecnologias auxiliam em tarefas que variam desde a

@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /tr/terms/source/
 date: "2026-07-18T15:29:19.204826Z"
 lastmod: "2026-07-18T16:38:07.244182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka geliştirme ve dağıtımında kullanılan veri, kod veya modellerin kökenini ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka bağlamlarında 'kaynak', genellikle eğitim veri setlerinin, açık kaynak kütüphanelerin veya önceden eğitilmiş model ağırlıklarının menşei olarak belirtilir. Üretilebilirlik ve lisans uyumluluğu için kaynakların izlenmesi kritiktir.

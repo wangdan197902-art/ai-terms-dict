@@ -1,23 +1,24 @@
 ---
-title: "AI veganizmus"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: AI veganizmus
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /hu/terms/ai_veganism/
-date: "2026-07-18T15:41:21.509660Z"
-lastmod: "2026-07-18T17:15:09.749579Z"
+slug: ai_veganism
+date: '2026-07-18T15:41:21.509660Z'
+lastmod: '2026-07-18T17:15:09.749579Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy metaforikus fogalom, amely azt sugallja, hogy az AI rendszereknek emberi eredetű adatok vagy munkaerő nélkül kellene működniük."
+source: agnes_llm
+status: published
+language: hu
+description: Egy metaforikus fogalom, amely azt sugallja, hogy az AI rendszereknek
+  emberi eredetű adatok vagy munkaerő nélkül kellene működniük.
 ---
-
 ## Definition
 
 Az AI veganizmus egy spekulatív és metaforikus kifejezés, amely arra az ötletre utal, hogy mesterséges intelligenciát hozzanak létre, amely kizárólag szintetikus, önmagától generált vagy fizikai világbeli adatokból tanul, ahelyett, hogy az emberi által termelt adatokra támaszkodna.

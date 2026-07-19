@@ -1,23 +1,24 @@
 ---
-title: "Линтер"
-term_id: "linter"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "tools"]
+title: Линтер
+term_id: linter
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- tools
 difficulty: 1
 weight: 1
-slug: "linter"
-aliases:
-  - /ru/terms/linter/
-date: "2026-07-18T16:01:40.136531Z"
-lastmod: "2026-07-18T16:38:07.175533Z"
+slug: linter
+date: '2026-07-18T16:01:40.136531Z'
+lastmod: '2026-07-18T16:38:07.175533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Инструмент статического анализа кода, используемый для выявления ошибок программирования, багов, стилистических ошибок и подозрительных конструкций."
+source: agnes_llm
+status: published
+language: ru
+description: Инструмент статического анализа кода, используемый для выявления ошибок
+  программирования, багов, стилистических ошибок и подозрительных конструкций.
 ---
-
 ## Definition
 
 Линтер — это утилита, выполняющая статический анализ исходного кода без его выполнения. Он проверяет наличие синтаксических ошибок, потенциальных багов, «запахов кода» (code smells) и отклонений от руководств по стилю или лучших практик. Линтеры часто интегрируются в среды разработки и системы непрерывной интеграции для автоматизации контроля качества кода.

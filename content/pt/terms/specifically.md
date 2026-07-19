@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /pt/terms/specifically/
 date: "2026-07-18T14:39:35.214400Z"
 lastmod: "2026-07-18T15:51:59.439596Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Refere-se a detalhes precisos, distintos ou particulares dentro de um contexto mais amplo."
 ---
-
 ## Definition
 
 Na terminologia de IA, 'especificamente' denota precisão na definição de modelos, pontos de dados ou operações. Distingue parâmetros exatos de categorias gerais, garantindo clareza na documentação técnica

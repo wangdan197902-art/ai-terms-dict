@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /ja/terms/gdpr_compliance/
 date: "2026-07-18T11:15:24.740350Z"
 lastmod: "2026-07-18T11:44:45.099370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "一般データ保護規則（GDPR）への適合。AIシステムがユーザーのプライバシーとデータ権利を尊重することを保証します。"
 ---
-
 ## Definition
 
 GDPR準拠とは、EU内の個人の個人データを保護するためにAI開発者が実施しなければならない法的および技術的措置を指します。AIシステムの場合、これはデータ最小化、透明性、ユーザーの同意管理などの原則を含みます。

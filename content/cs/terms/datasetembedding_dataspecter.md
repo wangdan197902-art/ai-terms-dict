@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /cs/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:51:24.876383Z"
 lastmod: "2026-07-18T17:15:09.118237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Velká sada dat založená na publikacích a citacích v oblasti počítačových věd, navržená pro trénování modelů vektorových reprezentací akademických článků."
 ---
-
 ## Definition
 
 Sada dat Specter je vytvořena z rozsáhlé sbírky počítačověvědných článků, využívajících citační sítě k vytvoření signálů pro učení se s dozorem. Páruje abstrakty s jejich citujícími články pro

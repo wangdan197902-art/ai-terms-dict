@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /vi/terms/constitutional_ai/
 date: "2026-07-18T15:45:55.032861Z"
 lastmod: "2026-07-18T16:38:07.739523Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp huấn luyện mô hình AI tuân theo các hướng dẫn an toàn thông qua tự phê bình dựa trên một bộ nguyên tắc đã được xác định trước."
 ---
-
 ## Definition
 
 AI Hiến pháp là một khung làm việc để căn chỉnh các mô hình ngôn ngữ lớn với giá trị con người mà không phụ thuộc hoàn toàn vào phản hồi của con người cho từng bước. Nó liên quan đến việc tạo ra một 'hiến pháp' gồm các nguyên tắc cấp cao để hướng dẫn mô hình tự điều chỉnh và đánh giá đầu ra của mình.

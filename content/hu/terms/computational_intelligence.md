@@ -1,23 +1,24 @@
 ---
-title: "Számítási intelligencia"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Számítási intelligencia
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /hu/terms/computational_intelligence/
-date: "2026-07-18T15:50:43.787147Z"
-lastmod: "2026-07-18T17:15:09.764180Z"
+slug: computational_intelligence
+date: '2026-07-18T15:50:43.787147Z'
+lastmod: '2026-07-18T17:15:09.764180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az AI egy ága, amely az adaptív rendszerekkel foglalkozik, amelyek biológiai folyamatokat utánoznak a komplex problémák megoldására."
+source: agnes_llm
+status: published
+language: hu
+description: Az AI egy ága, amely az adaptív rendszerekkel foglalkozik, amelyek biológiai
+  folyamatokat utánoznak a komplex problémák megoldására.
 ---
-
 ## Definition
 
 A számítási intelligencia (CI) egy sor természethez igazodó számítási paradigmát ölel fel, beleértve a neurális hálózatokat, a fuzzy logikát és az evolúciós számítást. Ezeket a rendszereket úgy tervezték, hogy kezeljék a bizonytalanságot és a pontatlan információkat.

@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /zh/terms/kaos/
 date: "2026-07-18T11:22:59.294441Z"
 lastmod: "2026-07-18T11:44:45.520119Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个智能代理框架，旨在通过基于策略的自动化来管理复杂、分布式的企业环境。"
 ---
-
 ## Definition
 
 KAoS是一个智能代理框架，专为处理大规模分布式企业系统的复杂性而开发。它采用基于策略的方法，将高层管理目标转化为具体的执行策略，从而实现IT基础设施的自动配置、监控和管理，提高系统的自主性和适应性。

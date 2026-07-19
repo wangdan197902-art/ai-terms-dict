@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /zh/terms/online/
 date: "2026-07-18T10:53:26.249000Z"
 lastmod: "2026-07-18T11:44:45.379768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指机器学习模型能够从新数据流中实时持续学习，而无需从头重新训练。"
 ---
-
 ## Definition
 
 在线学习是一种机器学习范式，模型随着新数据点的到达而增量更新，而不是一次性在静态批量数据上进行训练。这种方法至关重要

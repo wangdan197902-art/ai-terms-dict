@@ -1,23 +1,24 @@
 ---
-title: "هجين الوجه (Hugging Face)"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: هجين الوجه (Hugging Face)
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /ar/terms/hugging_face/
-date: "2026-07-18T16:01:18.601406Z"
-lastmod: "2026-07-18T17:15:08.512624Z"
+slug: hugging_face
+date: '2026-07-18T16:01:18.601406Z'
+lastmod: '2026-07-18T17:15:08.512624Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "منصة ومجتمع رائدان يوفران أدوات ونماذج ومجموعات بيانات مفتوحة المصدر لتطوير التعلم الآلي."
+source: agnes_llm
+status: published
+language: ar
+description: منصة ومجتمع رائدان يوفران أدوات ونماذج ومجموعات بيانات مفتوحة المصدر
+  لتطوير التعلم الآلي.
 ---
-
 ## Definition
 
 هجين الوجه هي شركة ومنصة عبر الإنترنت بارزة أصبحت محورية في النظام البيئي للذكاء الاصطناعي مفتوح المصدر. فهي تقدم مستودعاً ضخماً للنماذج المدربة مسبقاً، ومجموعات البيانات، وتطبيقات العرض التوضيحي.

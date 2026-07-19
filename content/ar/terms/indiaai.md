@@ -1,23 +1,23 @@
 ---
-title: "منصة الهندسة للذكاء الاصطناعي الوطنية"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: منصة الهندسة للذكاء الاصطناعي الوطنية
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /ar/terms/indiaai/
-date: "2026-07-18T16:02:24.487142Z"
-lastmod: "2026-07-18T17:15:08.514125Z"
+slug: indiaai
+date: '2026-07-18T16:02:24.487142Z'
+lastmod: '2026-07-18T17:15:08.514125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "INDIAai هو البوابة الوطنية للذكاء الاصطناعي التي أطلقتها حكومة الهند لتعزيز أبحاث الذكاء الاصطناعي واعتماده في جميع أنحاء البلاد."
+source: agnes_llm
+status: published
+language: ar
+description: INDIAai هو البوابة الوطنية للذكاء الاصطناعي التي أطلقتها حكومة الهند
+  لتعزيز أبحاث الذكاء الاصطناعي واعتماده في جميع أنحاء البلاد.
 ---
-
 ## Definition
 
 تأسست تحت وزارة الإلكترونيات وتكنولوجيا المعلومات، وتعمل INDIAai كمنصة مركزية لموارد الذكاء الاصطناعي والسياسات والمبادرات. تهدف إلى تعزيز التعاون بين الأوساط الأكاديمية والصناعة والحكومة.

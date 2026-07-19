@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /ar/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:12:52.198311Z"
 lastmod: "2026-07-18T17:15:08.527732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يشير هذا إلى استخدام تقنيات الذكاء الاصطناعي في سياقات الدفاع، بما في ذلك الأسلحة ذاتية التشغيل، والمراقبة، وتحسين اللوجستيات، وأنظمة دعم القرار."
 ---
-
 ## Definition
 
 تشمل التطبيقات العسكرية للذكاء الاصطناعي طائفة واسعة من التقنيات المصممة لتعزيز الفعالية التشغيلية والميزة الاستراتيجية. وتشمل هذه الطائرات بدون طيار ذاتية التشغيل للاستطلاع، والتنبؤ بالتهديدات، وتحليل البيانات الاستخباراتية.

@@ -1,23 +1,24 @@
 ---
-title: "كشف الكلام المتداخل"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: كشف الكلام المتداخل
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /ar/terms/overlapped_speech_detection/
-date: "2026-07-18T16:15:20.869554Z"
-lastmod: "2026-07-18T17:15:08.534811Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:15:20.869554Z'
+lastmod: '2026-07-18T17:15:08.534811Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تحديد الفترات الزمنية التي يتحدث فيها متحدثان أو أكثر في وقت واحد ضمن تدفق صوتي."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تحديد الفترات الزمنية التي يتحدث فيها متحدثان أو أكثر في وقت واحد
+  ضمن تدفق صوتي.
 ---
-
 ## Definition
 
 يُعد كشف الكلام المتداخل مهمة متخصصة في معالجة الكلام تركز على تحديد فترات التحدث المتزامن بدقة. وعلى عكس تعيين المتحدث الذي يركز على معرفة 'من تحدث ومتى'، فإن كشف الكلام المتداخل يركز على تحديد 'متى تحدث عدة أشخاص معاً'، وهو أمر حاسم لتحسين دقة التعرف على الكلام.

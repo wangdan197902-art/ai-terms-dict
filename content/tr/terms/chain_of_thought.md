@@ -1,23 +1,24 @@
 ---
-title: "Düşünce Zinciri"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Düşünce Zinciri
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /tr/terms/chain_of_thought/
-date: "2026-07-18T15:22:34.133186Z"
-lastmod: "2026-07-18T16:38:07.224867Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:34.133186Z'
+lastmod: '2026-07-18T16:38:07.224867Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Büyük Dil Modellerinin (LLM) yanıt vermeden önce ara mantık adımları üretmesini teşvik eden bir istem (prompt) tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Büyük Dil Modellerinin (LLM) yanıt vermeden önce ara mantık adımları
+  üretmesini teşvik eden bir istem (prompt) tekniği.
 ---
-
 ## Definition
 
 Düşünce Zinciri (CoT) istemleme stratejisi, büyük dil modellerinin nihai cevaba varmadan önce adım adım akıl yürütme açıklamaları üretmesi için yönlendirildiği bir yaklaşımdır. Karmaşık problemleri parçalara ayırarak bu yöntem, modelin doğruluğunu artırır.

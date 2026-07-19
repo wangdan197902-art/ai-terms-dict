@@ -1,23 +1,24 @@
 ---
-title: "โมเดลตัวแทน"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: โมเดลตัวแทน
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /th/terms/surrogate_model/
-date: "2026-07-18T16:17:00.925240Z"
-lastmod: "2026-07-18T16:38:07.659544Z"
+slug: surrogate_model
+date: '2026-07-18T16:17:00.925240Z'
+lastmod: '2026-07-18T16:38:07.659544Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมเดลทางคณิตศาสตร์แบบง่ายที่ใช้ประมาณพฤติกรรมของโมเดลกล่องดำที่ซับซ้อน ใช้ทรัพยากรคำนวณสูง หรือเข้าถึงได้ยาก"
+source: agnes_llm
+status: published
+language: th
+description: โมเดลทางคณิตศาสตร์แบบง่ายที่ใช้ประมาณพฤติกรรมของโมเดลกล่องดำที่ซับซ้อน
+  ใช้ทรัพยากรคำนวณสูง หรือเข้าถึงได้ยาก
 ---
-
 ## Definition
 
 ในแมชชีนเลิร์นนิงและการเพิ่มประสิทธิภาพ โมเดลตัวแทนจะทำหน้าที่เป็นตัวแทนของฟังก์ชันเป้าหมายที่ประเมินโดยตรงได้ยาก โดยจะถูกฝึกฝนจากคู่ข้อมูลอินพุต-เอาต์พุตของโมเดลเดิมเพื่อให้ได้ผลลัพธ์ที่ใกล้เคียง

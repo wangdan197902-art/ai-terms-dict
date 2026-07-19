@@ -1,23 +1,24 @@
 ---
-title: "Apprentissage supervisé"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Apprentissage supervisé
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /fr/terms/supervised_learning/
-date: "2026-07-18T11:01:39.206540Z"
-lastmod: "2026-07-18T11:44:45.189528Z"
+slug: supervised_learning
+date: '2026-07-18T11:01:39.206540Z'
+lastmod: '2026-07-18T11:44:45.189528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un paradigme d'apprentissage automatique où un modèle apprend à mapper des entrées vers des sorties basé sur des exemples d'entraînement étiquetés."
+source: agnes_llm
+status: published
+language: fr
+description: Un paradigme d'apprentissage automatique où un modèle apprend à mapper
+  des entrées vers des sorties basé sur des exemples d'entraînement étiquetés.
 ---
-
 ## Definition
 
 En apprentissage supervisé, l'algorithme est entraîné sur un jeu de données étiqueté, ce qui signifie que chaque exemple d'entrée est associé à la sortie correcte. L'objectif est que le modèle apprenne la relation sous-jacente entre les entrées et les sorties.

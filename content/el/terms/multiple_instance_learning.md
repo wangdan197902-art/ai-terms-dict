@@ -1,23 +1,24 @@
 ---
-title: "Μάθηση πολλαπλών παραδειγμάτων"
-term_id: "multiple_instance_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "weak_labeling", "ml_paradigm"]
+title: Μάθηση πολλαπλών παραδειγμάτων
+term_id: multiple_instance_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- Weak Labeling
+- ML Paradigm
 difficulty: 4
 weight: 1
-slug: "multiple_instance_learning"
-aliases:
-  - /el/terms/multiple_instance_learning/
-date: "2026-07-18T15:42:14.806292Z"
-lastmod: "2026-07-18T17:15:09.868538Z"
+slug: multiple_instance_learning
+date: '2026-07-18T15:42:14.806292Z'
+lastmod: '2026-07-18T17:15:09.868538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα παράδειγμα μάθησης με ασθενή επίβλεψη όπου οι ετικέτες αποδίδονται σε «σάκους» παραδειγμάτων και όχι σε μεμονωμένα παραδείγματα."
+source: agnes_llm
+status: published
+language: el
+description: Ένα παράδειγμα μάθησης με ασθενή επίβλεψη όπου οι ετικέτες αποδίδονται
+  σε «σάκους» παραδειγμάτων και όχι σε μεμονωμένα παραδείγματα.
 ---
-
 ## Definition
 
 Η Μάθηση Πολλαπλών Παραδειγμάτων (MIL) αντιμετωπίζει σενάρια στα οποία τα δεδομένα ομαδοποιούνται σε «σάκους» με μία ενιαία ετικέτα, ενώ τα μεμονωμένα παραδείγματα εντός αυτών των σακίων παραμένουν χωρίς ετικέτα. Ένας σάκος είναι συνήθως θετικός αν περιέχει τουλάχιστον ένα θετικό παράδειγμα, αλλά η ακριβής ταυτότητα του θετικού παραδείγματος είναι άγνωστη.

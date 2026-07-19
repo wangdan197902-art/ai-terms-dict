@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /nl/terms/biomedical/
 date: "2026-07-18T15:45:19.453254Z"
 lastmod: "2026-07-18T17:15:08.723118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Betrekking hebbend op de toepassing van natuurwetenschappen op de medische praktijk, vaak met computeraanalyse van gezondheidsdata."
 ---
-
 ## Definition
 
 Biomedisch verwijst naar het snijvlak van biologie, geneeskunde en technologie, met name bij de ontwikkeling van diagnostische hulpmiddelen, behandelingen en data-analysemethoden. In AI gaat dit over het toepassen van machine learning op medische vraagstukken.

@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /pt/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T14:55:13.232508Z"
 lastmod: "2026-07-18T15:51:59.476367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Este campo combina análise estatística e aprendizado de máquina para extrair insights de dados e prever eventos ou comportamentos futuros."
 ---
-
 ## Definition
 
 A ciência de dados envolve o processo interdisciplinar de extração de conhecimento a partir de dados estruturados e não estruturados, enquanto a análise preditiva se concentra especificamente no uso de dados históricos para prever f

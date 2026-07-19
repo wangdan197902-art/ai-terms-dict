@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: Dataset:Multi Nli
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /it/terms/datasetmulti_nli/
-date: "2026-07-18T15:55:03.946061Z"
-lastmod: "2026-07-18T17:15:08.615322Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:55:03.946061Z'
+lastmod: '2026-07-18T17:15:08.615322Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Multi-Genre Natural Language Inference Corpus, un grande dataset contenente milioni di frasi scritte da esseri umani in inglese con annotazioni umane di riferimento per l'entailment testuale."
+source: agnes_llm
+status: published
+language: it
+description: Multi-Genre Natural Language Inference Corpus, un grande dataset contenente
+  milioni di frasi scritte da esseri umani in inglese con annotazioni umane di riferimento
+  per l'entailment testuale.
 ---
-
 ## Definition
 
 MultiNLI è un corpus creato dalla folla disponibile tramite il benchmark GLUE, progettato per valutare l'inferenza nel linguaggio naturale (NLI) attraverso vari generi di testo parlato e scritto. Fornisce coppie di premesse e ipotesi.

@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /fr/terms/computational_humor/
 date: "2026-07-18T11:09:43.872502Z"
 lastmod: "2026-07-18T11:44:45.209725Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Sous-domaine de l'IA axé sur la génération, la compréhension et l'appréciation du contenu humoristique par des méthodes computationnelles."
 ---
-
 ## Definition
 
 L'humour computationnel étudie comment les machines peuvent produire ou interpréter des blagues, des jeux de mots et des remarques spirituelles. Il s'appuie généralement sur le traitement automatique du langage naturel (NLP) pour détecter les incongruités, les glissements sémantiques ou les attentes non satisfaites qui constituent souvent la base de l'humour.

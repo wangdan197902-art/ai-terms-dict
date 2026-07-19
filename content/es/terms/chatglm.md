@@ -1,23 +1,25 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /es/terms/chatglm/
-date: "2026-07-18T10:39:13.162274Z"
-lastmod: "2026-07-18T11:44:44.785069Z"
+slug: chatglm
+date: '2026-07-18T10:39:13.162274Z'
+lastmod: '2026-07-18T11:44:44.785069Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "ChatGLM es una serie de modelos de lenguaje de código abierto bilingües y de gran escala desarrollados por Zhipu AI, optimizados para el diálogo en chino e inglés."
+source: agnes_llm
+status: published
+language: es
+description: ChatGLM es una serie de modelos de lenguaje de código abierto bilingües
+  y de gran escala desarrollados por Zhipu AI, optimizados para el diálogo en chino
+  e inglés.
 ---
-
 ## Definition
 
 ChatGLM representa una familia de modelos de lenguaje basados en transformadores diseñados específicamente para manejar conversaciones bilingües de alta calidad en chino e inglés. Desarrollados por Zhipu AI, estos modelos utilizan

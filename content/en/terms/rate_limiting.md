@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /en/terms/rate_limiting/
 date: "2026-07-18T10:13:36.396620Z"
 lastmod: "2026-07-18T11:44:44.716048Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An engineering control mechanism that restricts the number of requests a client can make to a service within a specific time window."
 ---
-
 ## Definition
 
 Rate limiting protects AI services and APIs from abuse, overload, and excessive resource consumption. It ensures fair usage among users and maintains system stability by capping throughput. Common strategies include token bucket, leaky bucket, and fixed window counters. In AI deployments, it is critical for managing inference costs and preventing Denial of Service (DoS) attacks on sensitive models.

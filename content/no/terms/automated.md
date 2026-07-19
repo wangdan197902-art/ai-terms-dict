@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "process"]
 difficulty: 1
 weight: 1
 slug: "automated"
-aliases:
-  - /no/terms/automated/
 date: "2026-07-18T15:23:27.022686Z"
 lastmod: "2026-07-18T16:38:06.932331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Omfatter prosesser som utføres av maskiner eller programvare med minimal menneskelig innblanding."
 ---
-
 ## Definition
 
 Automatisering innen AI innebærer bruk av algoritmer og systemer for å utføre oppgaver som tradisjonelt krever menneskelig innsats. Det fokuserer på effektivitet, konsistens og hastighet ved å utføre forhåndsdefinerte regler eller lære...

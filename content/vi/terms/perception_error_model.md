@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /vi/terms/perception_error_model/
 date: "2026-07-18T16:07:15.821638Z"
 lastmod: "2026-07-18T16:38:07.792317Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung thống kê hoặc thuật toán được sử dụng để định lượng và sửa chữa các sai sót trong việc diễn giải dữ liệu giác quan."
 ---
-
 ## Definition
 
 Mô hình lỗi cảm nhận mô tả sự chênh lệch giữa dữ liệu giác quan quan sát được và thực tế cơ bản, tính đến nhiễu, sự che khuất hoặc hạn chế của cảm biến. Bằng cách mô hình hóa các lỗi này, các hệ thống AI có thể cải thiện độ chính xác và độ tin cậy.

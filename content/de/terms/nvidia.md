@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /de/terms/nvidia/
 date: "2026-07-18T11:25:44.483788Z"
 lastmod: "2026-07-18T11:44:44.971076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein führendes Technologieunternehmen, das sich auf GPUs und KI-Hardware spezialisiert hat und die moderne Deep-Learning-Infrastruktur antreibt."
 ---
-
 ## Definition
 
 Nvidia ist eine dominante Kraft in der KI-Branche, bekannt vor allem für die Entwicklung von Grafikprozessoren (GPUs), die parallele Berechnungsaufgaben beschleunigen, die für Deep Learning unerlässlich sind. Ihre CUDA-Plattform...

@@ -1,23 +1,23 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /ko/terms/phi3/
-date: "2026-07-18T16:09:36.005199Z"
-lastmod: "2026-07-18T16:38:06.896626Z"
+slug: phi3
+date: '2026-07-18T16:09:36.005199Z'
+lastmod: '2026-07-18T16:38:06.896626Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "마이크로소프트 리서치에서 개발한 오픈 웨이트(Open-weight) 대규모 언어 모델 계열."
+source: agnes_llm
+status: published
+language: ko
+description: 마이크로소프트 리서치에서 개발한 오픈 웨이트(Open-weight) 대규모 언어 모델 계열.
 ---
-
 ## Definition
 
 Phi-3은 마이크로소프트가 출시한 소형 언어 모델(SLM) 시리즈로, 훨씬 더 큰 모델들과 비교해도 견줄 만한 높은 성능을 제공하면서도 필요한 계산 자원은 현저히 적게 요구하도록 설계되었습니다. 이는 고품질의 합성 데이터를 활용한 훈련을 통해 달성됩니다.

@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /ko/terms/information_space_analysis/
 date: "2026-07-18T16:00:03.207696Z"
 lastmod: "2026-07-18T16:38:06.854913Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "데이터 표현이 존재하는 공간의 기하학적 및 위상수학적 성질을 조사하는 것."
 ---
-
 ## Definition
 
 이 개념은 머신러닝 모델의 표현 공간 구조를 분석하는 것을 포함합니다. 고차원 공간 내에서 데이터 포인트들이 어떻게 분포하고, 군집화되며, 분리되어 있는지를 살펴봅니다.

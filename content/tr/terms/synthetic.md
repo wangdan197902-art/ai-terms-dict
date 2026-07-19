@@ -1,23 +1,23 @@
 ---
-title: "Sentetik"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Sentetik
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /tr/terms/synthetic/
-date: "2026-07-18T15:30:06.545557Z"
-lastmod: "2026-07-18T16:38:07.245254Z"
+slug: synthetic
+date: '2026-07-18T15:30:06.545557Z'
+lastmod: '2026-07-18T16:38:07.245254Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sentetik, doğal kaynaklardan toplanmak yerine algoritmalar tarafından yapay olarak üretilen veri veya içeriği ifade eder."
+source: agnes_llm
+status: published
+language: tr
+description: Sentetik, doğal kaynaklardan toplanmak yerine algoritmalar tarafından
+  yapay olarak üretilen veri veya içeriği ifade eder.
 ---
-
 ## Definition
 
 Yapay zekada sentetik veri, gerçek dünya verilerini taklit eden ancak hiçbir gerçek kişisel veya hassas kayıt içermeyen yapay olarak üretilmiş bilgidir. Gerçek verilere erişimin sınırlı olduğu durumlarda makine öğrenimi modellerini eğitmek için hayati önem taşır...

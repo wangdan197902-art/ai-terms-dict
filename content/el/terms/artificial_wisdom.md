@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /el/terms/artificial_wisdom/
 date: "2026-07-18T15:51:14.208470Z"
 lastmod: "2026-07-18T17:15:09.881990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Η επέκταση της ΤΝ πέρα από τη νοημοσύνη, περιλαμβάνοντας κρίση, ηθική και συμφραζόμενα για την λήψη ορθολογικών αποφάσεων."
 ---
-
 ## Definition
 
 Η Τεχνητή Σοφία (AW) είναι μια αναδυόμενη έννοια που στοχεύει να ενισχύσει την τεχνητή νοημοσύνη με ανθρώπινες αξίες, ηθικές σκέψεις και στρατηγική μακροπρόθεσμη κρίση. Ενώ η ΤΝ εστιάζει στην αποδοτικότητα,

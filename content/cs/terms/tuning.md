@@ -1,23 +1,24 @@
 ---
-title: "Ladění"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Ladění
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /cs/terms/tuning/
-date: "2026-07-18T15:30:50.714596Z"
-lastmod: "2026-07-18T17:15:09.080981Z"
+slug: tuning
+date: '2026-07-18T15:30:50.714596Z'
+lastmod: '2026-07-18T17:15:09.080981Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces úpravy hyperparametrů nebo vah modelu za účelem optimalizace výkonu na specifické sadě dat nebo úkolu."
+source: agnes_llm
+status: published
+language: cs
+description: Proces úpravy hyperparametrů nebo vah modelu za účelem optimalizace výkonu
+  na specifické sadě dat nebo úkolu.
 ---
-
 ## Definition
 
 Ladění zahrnuje zdokonalování modelu strojového učení pro dosažení lepší přesnosti nebo efektivity. Může se jednat o ladění hyperparametrů, kde se optimalizují nastavení jako rychlost učení nebo velikost dávky, nebo o

@@ -1,23 +1,24 @@
 ---
-title: "Älykäs tietokanta"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Älykäs tietokanta
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /fi/terms/intelligent_database/
-date: "2026-07-18T16:04:13.996143Z"
-lastmod: "2026-07-18T17:15:09.423455Z"
+slug: intelligent_database
+date: '2026-07-18T16:04:13.996143Z'
+lastmod: '2026-07-18T17:15:09.423455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tietokantajärjestelmä, joka sisältää tekoälykyvykkyyksiä datanhallinnan, kyselyoptimoinnin ja oivallusten generoinnin automatisoimiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Tietokantajärjestelmä, joka sisältää tekoälykyvykkyyksiä datanhallinnan,
+  kyselyoptimoinnin ja oivallusten generoinnin automatisoimiseksi.
 ---
-
 ## Definition
 
 Älykäs tietokanta hyödyntää koneoppimista ja tekoälyä parantaakseen tavallisia tietokantatoimintoja yksinkertaisen tallennuksen ja haun ulkopuolelle. Se voi automaattisesti optimoida kyselysuoritusta, ennustaa käyttä

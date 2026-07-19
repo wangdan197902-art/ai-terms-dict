@@ -1,23 +1,25 @@
 ---
-title: "Μηχανή Gödel"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Μηχανή Gödel
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /el/terms/gödel_machine/
-date: "2026-07-18T16:11:34.665484Z"
-lastmod: "2026-07-18T17:15:09.915425Z"
+slug: gödel_machine
+date: '2026-07-18T16:11:34.665484Z'
+lastmod: '2026-07-18T17:15:09.915425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια θεωρητική αυτοβελτιούμενη προγραμματισμένη μονάδα AI ικανή να αναδιατυπώνει τον δικό της πηγαίο κώδικα για μεγαλύτερη αποτελεσματικότητα χωρίς να αλλάζει τους στόχους της."
+source: agnes_llm
+status: published
+language: el
+description: Μια θεωρητική αυτοβελτιούμενη προγραμματισμένη μονάδα AI ικανή να αναδιατυπώνει
+  τον δικό της πηγαίο κώδικα για μεγαλύτερη αποτελεσματικότητα χωρίς να αλλάζει τους
+  στόχους της.
 ---
-
 ## Definition
 
 Η μηχανή Gödel είναι μια υποθετική καθολική λύτρια προβλημάτων που προτάθηκε από τον Jürgen Schmidhuber, βασισμένη στη μορφοποιημένη λογική και τη θεωρία της υπολογισιμότητας. Λειτουργεί αναλύοντας συνεχώς τον δικό της πηγαίο κώδικα και αναδιατυπώνοντάς τον αυθόρμητα, εφόσον αυτό οδηγεί σε βελτίωση της απόδοσης σύμφωνα με έναν καθορισμένο συνάρτηση ωφέλειας.

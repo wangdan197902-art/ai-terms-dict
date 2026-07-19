@@ -1,23 +1,26 @@
 ---
-title: "Διάκριση κατά των Ρομπότ"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Διάκριση κατά των Ρομπότ
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /el/terms/discrimination_against_robots/
-date: "2026-07-18T16:03:56.028192Z"
-lastmod: "2026-07-18T17:15:09.902648Z"
+slug: discrimination_against_robots
+date: '2026-07-18T16:03:56.028192Z'
+lastmod: '2026-07-18T17:15:09.902648Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το ηθικό και νομικό ζήτημα που αναφέρεται σε προκατειλημμένη μεταχείριση ή προέκταση προκατάληψης προς τεχνητούς πράκτορες ή αυτόνομα συστήματα, συχνά λόγω ανθρωπομορφικών προβολών ή δυσπιστίας."
+source: agnes_llm
+status: published
+language: el
+description: Το ηθικό και νομικό ζήτημα που αναφέρεται σε προκατειλημμένη μεταχείριση
+  ή προέκταση προκατάληψης προς τεχνητούς πράκτορες ή αυτόνομα συστήματα, συχνά λόγω
+  ανθρωπομορφικών προβολών ή δυσπιστίας.
 ---
-
 ## Definition
 
 Η διάκριση κατά των ρομπότ είναι ένα αναδυόμενο ηθικό και κοινωνιολογικό ζήτημα που εξετάζει πώς οι άνθρωποι μπορεί να μεταχειρίζονται άδικα, να δυσπιστούν ή να αποδίδουν αρνητικά χαρακτηριστικά σε τεχνητούς πράκτορες με βάση την φύση τους ως μη ανθρώπινων οντοτήτων.

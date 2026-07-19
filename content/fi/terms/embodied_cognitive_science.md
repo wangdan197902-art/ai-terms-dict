@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /fi/terms/embodied_cognitive_science/
 date: "2026-07-18T15:56:15.415511Z"
 lastmod: "2026-07-18T17:15:09.407839Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kehollinen kognitiotiede on teoreettinen viitekehys, joka ehdottaa, että ihmisen kognitio on perustavalta osin muotoiltu kehon vuorovaikutuksesta ympäristön kanssa."
 ---
-
 ## Definition
 
 Tämä ala haastaa perinteiset näkemykset, jotka käsittelevät mieltä abstrakteja symboleita käsittelevänä tietokoneena. Sen sijaan se väittää, että kognitiiviset prosessit juurtuvat syvälle kehon fyysisiin ominaisuuksiin ja sen sijoittuneisuuteen ympäristöön.

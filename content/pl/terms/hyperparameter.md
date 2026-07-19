@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /pl/terms/hyperparameter/
 date: "2026-07-18T15:59:21.136062Z"
 lastmod: "2026-07-18T17:15:08.883729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zmienna konfiguracyjna, której wartość jest ustawiana przed procesem trenowania i która steruje zachowaniem algorytmu uczenia."
 ---
-
 ## Definition
 
 W przeciwieństwie do parametrów modelu (wag i biasów), które są uczone z danych podczas treningu, hiperparametry to zewnętrzne ustawienia wybierane przez praktykującego przed rozpoczęciem procesu uczenia. Kontrolują one strukturę...

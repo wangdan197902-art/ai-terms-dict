@@ -1,23 +1,24 @@
 ---
-title: "Proximální gradientní metody pro učení"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: Proximální gradientní metody pro učení
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /cs/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T16:13:56.964140Z"
-lastmod: "2026-07-18T17:15:09.192396Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T16:13:56.964140Z'
+lastmod: '2026-07-18T17:15:09.192396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Optimalizační algoritmy navržené k minimalizaci složených cílových funkcí obsahujících jak hladké, tak i nehladké složky."
+source: agnes_llm
+status: published
+language: cs
+description: Optimalizační algoritmy navržené k minimalizaci složených cílových funkcí
+  obsahujících jak hladké, tak i nehladké složky.
 ---
-
 ## Definition
 
 Proximální gradientní metody jsou iterativní optimalizační techniky používané, když ztrátová funkce obsahuje diferencovatelnou hladkou složku a nediferencovatelný regularizátor, jako je norma L1. Algoritmus kombinuje krok gradientního sestupu s proximálním operátorem pro řešení nehladkých členů.

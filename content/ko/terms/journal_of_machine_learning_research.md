@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /ko/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:00:45.939571Z"
 lastmod: "2026-07-18T16:38:06.856683Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "머신러닝의 모든 측면에 관한 고품질 연구를 출판하는 선도적인 동료 심사 학술지."
 ---
-
 ## Definition
 
 머신러닝 연구 저널(JMLR)은 엄격한 과학적 발견을 공유하기 위한 주요 장소로 사용되는 대표적인 오픈 액세스 출판물입니다. 이 저널은 머신러닝의 이론적 기초부터 실제 응용 분야에 이르기까지 광범위한 주제를 다루며, 해당 분야의 최신 연구 동향을 파악하는 데 필수적입니다.

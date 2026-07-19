@@ -1,23 +1,24 @@
 ---
-title: "Og–eller-tre"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: Og–eller-tre
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /no/terms/andor_tree/
-date: "2026-07-18T15:42:17.188182Z"
-lastmod: "2026-07-18T16:38:06.970293Z"
+slug: andor_tree
+date: '2026-07-18T15:42:17.188182Z'
+lastmod: '2026-07-18T16:38:06.970293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En hierarkisk grafstruktur brukt i søkealgoritmer der noder representerer tilstander og kanter representerer handlinger som fører til undermål."
+source: agnes_llm
+status: published
+language: 'no'
+description: En hierarkisk grafstruktur brukt i søkealgoritmer der noder representerer
+  tilstander og kanter representerer handlinger som fører til undermål.
 ---
-
 ## Definition
 
 Et Og–eller-tre er en representasjon brukt i problemløsning og planlegging, spesielt i AI-søkealgoritmer. 'Eller'-noder representerer valg mellom ulike handlinger, mens 'og'-noder indikerer at flere undermål må oppnås.

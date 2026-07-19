@@ -7,8 +7,6 @@ tags: ["agents", "framework", "automation"]
 difficulty: 3
 weight: 1
 slug: "crewai"
-aliases:
-  - /he/terms/crewai/
 date: "2026-07-18T15:50:30.243423Z"
 lastmod: "2026-07-18T17:15:09.524072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "CrewAI הוא מסגרת לתיאום סוכני בינה מלאכותית עצמאיים המשחקים תפקידים ומשתפים פעולה במשימות מורכבות."
 ---
-
 ## Definition
 
 CrewAI מספקת סביבה מובנית לבניית מערכות רב-סוכניות שבהן לכל סוכן יש תפקיד, יעד וערכת כלים ספציפיים. היא מפשטת את יצירת זרימות עבודה על ידי מתן אפשרות למפתחים להגדיר אינטראקציות בין סוכנים.

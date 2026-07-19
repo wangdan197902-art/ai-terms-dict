@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /en/terms/trade_off/
 date: "2026-07-18T09:39:43.446830Z"
 lastmod: "2026-07-18T11:44:44.619239Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A compromise where gaining advantage in one area results in a loss in another."
 ---
-
 ## Definition
 
 In AI and engineering, a trade-off refers to the balance required when optimizing conflicting objectives, such as model accuracy versus computational cost or latency versus precision. Since resources like memory, time, and energy are finite, improving one metric often degrades another. Understanding these trade-offs is critical for selecting the right model architecture and deployment strategy for specific hardware constraints and application requirements.

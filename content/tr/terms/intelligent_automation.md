@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /tr/terms/intelligent_automation/
 date: "2026-07-18T15:58:45.947538Z"
 lastmod: "2026-07-18T16:38:07.322031Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekanın karmaşık, yapılandırılmamış iş süreçlerini yönetmek için robotik süreç otomasyonu ile birleştirilmesi."
 ---
-
 ## Definition
 
 Akıllı otomasyon, geleneksel Robotik Süreç Otomasyonu'nu (RPA) makine öğrenmesi ve doğal dil işleme gibi gelişmiş yapay zeka teknolojileriyle entegre eder. RPA kurallara dayalı, yapılandırılmış

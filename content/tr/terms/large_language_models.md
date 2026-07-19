@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /tr/terms/large_language_models/
 date: "2026-07-18T15:26:23.723834Z"
 lastmod: "2026-07-18T16:38:07.235749Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Geniş kapsamlı doğal dil anlama ve üretme görevleri için ölçeklendirilmiş sinir ağlarının kullanım paradigma'sı."
 ---
-
 ## Definition
 
 Bu terim, milyarlarca parametreye sahip modellerin çeşitli dil görevlerinde sıfır-atış (zero-shot) veya az-atış (few-shot) öğrenme için kullanıldığı daha geniş uygulama paradigmalarını ifade eder. Özeleşmiş modellere

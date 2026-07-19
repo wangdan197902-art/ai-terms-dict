@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /vi/terms/united_states_tech_force/
 date: "2026-07-18T16:15:30.292320Z"
 lastmod: "2026-07-18T16:38:07.814719Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật ngữ nhân khẩu học và kinh tế chỉ lực lượng lao động tập thể thúc đẩy đổi mới công nghệ tại Mỹ."
 ---
-
 ## Definition
 
 Thuật ngữ 'Lực lượng Công nghệ Hoa Kỳ' thường đề cập đến một bộ phận lớn thị trường lao động Mỹ được tuyển dụng trong các lĩnh vực công nghệ, bao gồm kỹ thuật phần mềm, khoa học dữ liệu, sản xuất phần cứng...

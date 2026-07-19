@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /nl/terms/mode_collapse/
 date: "2026-07-18T16:07:26.765356Z"
 lastmod: "2026-07-18T17:15:08.768690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Mode collapse is een foutmodus in Generative Adversarial Networks waarbij de generator beperkte variëteiten aan uitvoer produceert."
 ---
-
 ## Definition
 
 In GAN's treedt mode collapse op wanneer de generator leert de zwakke punten van de discriminator uit te buiten door een smal bereik van aannemelijke steekproeven te produceren, waarbij andere modi van de dataverdeling worden genegeerd. Dit

@@ -1,23 +1,23 @@
 ---
-title: "Temporeel"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Temporeel
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /nl/terms/temporal/
-date: "2026-07-18T15:30:21.436568Z"
-lastmod: "2026-07-18T17:15:08.694636Z"
+slug: temporal
+date: '2026-07-18T15:30:21.436568Z'
+lastmod: '2026-07-18T17:15:08.694636Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Temporeel heeft betrekking op tijdsequenties en focust op hoe data verandert of afhankelijkheden in de tijd evolueren."
+source: agnes_llm
+status: published
+language: nl
+description: Temporeel heeft betrekking op tijdsequenties en focust op hoe data verandert
+  of afhankelijkheden in de tijd evolueren.
 ---
-
 ## Definition
 
 Temporele concepten in AI omvatten het analyseren van datapunten die in de tijd zijn gerangschikt, zoals aandelenkoersen, sensorgegevens of natuurlijke taalzinnen. Modellen die temporele data verwerken, moeten rekening houden met sequentieorde

@@ -1,23 +1,24 @@
 ---
-title: "Trạng thái lượng tử mạng nơ-ron"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: Trạng thái lượng tử mạng nơ-ron
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /vi/terms/neural_network_quantum_states/
-date: "2026-07-18T16:05:19.002441Z"
-lastmod: "2026-07-18T16:38:07.787419Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T16:05:19.002441Z'
+lastmod: '2026-07-18T16:38:07.787419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một cách biểu diễn hàm sóng nhiều vật thể lượng tử bằng kiến trúc mạng nơ-ron nhân tạo."
+source: agnes_llm
+status: published
+language: vi
+description: Một cách biểu diễn hàm sóng nhiều vật thể lượng tử bằng kiến trúc mạng
+  nơ-ron nhân tạo.
 ---
-
 ## Definition
 
 Các trạng thái lượng tử mạng nơ-ron sử dụng kỹ thuật học sâu để xấp xỉ các hàm sóng lượng tử phức tạp. Bằng cách coi các trọng số mạng nơ-ron là các tham số tối ưu hóa biên độ xác suất của các qubit.

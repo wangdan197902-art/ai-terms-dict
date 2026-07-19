@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /vi/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:06:04.808988Z"
 lastmod: "2026-07-18T16:38:07.789473Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "AI mã nguồn mở đề cập đến phần mềm, mô hình và công cụ trí tuệ nhân tạo có mã nguồn được công khai để kiểm tra, sửa đổi và phân phối."
 ---
-
 ## Definition
 
 Khái niệm này bao gồm hệ sinh thái các công nghệ AI được phát hành dưới các giấy phép cho phép truy cập miễn phí vào mã nền tảng của chúng. Nó thúc đẩy tính minh bạch, hợp tác và đổi mới bằng cách cho phép cộng đồng đóng góp.

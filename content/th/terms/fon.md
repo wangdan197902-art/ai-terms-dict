@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /th/terms/fon/
 date: "2026-07-18T15:54:58.884491Z"
 lastmod: "2026-07-18T16:38:07.607044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Fon หมายถึงหลักการพื้นฐานและรากฐานทางทฤษฎีที่กำกับดูแลการออกแบบและการดำเนินงานของระบบปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 ในบริบทของศัพท์แสงด้าน AI คำว่า 'Fon' มักใช้เพื่ออธิบาย Ontology ด้านการทำงานหลักหรือโครงสร้างตรรกะพื้นฐานที่กำหนดว่าโมเดล AI ตีความข้อมูลขาเข้าและสร้างผลลัพธ์อย่างไร มัน

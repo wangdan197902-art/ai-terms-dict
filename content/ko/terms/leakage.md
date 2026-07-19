@@ -1,23 +1,23 @@
 ---
-title: "リーケージ"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: リーケージ
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /ko/terms/leakage/
-date: "2026-07-18T16:01:50.720037Z"
-lastmod: "2026-07-18T16:38:06.861684Z"
+slug: leakage
+date: '2026-07-18T16:01:50.720037Z'
+lastmod: '2026-07-18T16:38:06.861684Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "トレーニングデータセット外の情報がモデルに意図せず影響を与え、過大評価された性能見積もりをもたらす現象。"
+source: agnes_llm
+status: published
+language: ko
+description: トレーニングデータセット外の情報がモデルに意図せず影響を与え、過大評価された性能見積もりをもたらす現象。
 ---
-
 ## Definition
 
 データリーケージは、モデルが予測時には利用できない情報をトレーニング中に取得してしまう機械学習における重大なエラーです。これは通常、不適切なデータ分割や特徴量エンジニアリングにより発生します。

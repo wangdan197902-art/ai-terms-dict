@@ -1,23 +1,25 @@
 ---
-title: "Normalizálás"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalizálás
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /hu/terms/normalization/
-date: "2026-07-18T16:15:01.556772Z"
-lastmod: "2026-07-18T17:15:09.818234Z"
+slug: normalization
+date: '2026-07-18T16:15:01.556772Z'
+lastmod: '2026-07-18T17:15:09.818234Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A normalizálás egy adat-előfeldolgozási technika, amely numerikus jellemzőket skáláz egy szabványos tartományba (általában 0 és 1 közé), hogy javítsa a modell konvergenciáját és teljesítményét."
+source: agnes_llm
+status: published
+language: hu
+description: A normalizálás egy adat-előfeldolgozási technika, amely numerikus jellemzőket
+  skáláz egy szabványos tartományba (általában 0 és 1 közé), hogy javítsa a modell
+  konvergenciáját és teljesítményét.
 ---
-
 ## Definition
 
 A gyakori módszerek közé tartozik a Min-Max skálázás és a Z-score standardizálás. Ez a folyamat biztosítja, hogy a nagyobb nagyságrendű jellemzők ne dominálják a tanulási algoritmust, különösen a gradiens alapú optimalizálás...

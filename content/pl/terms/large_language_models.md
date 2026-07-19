@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /pl/terms/large_language_models/
 date: "2026-07-18T15:26:49.337509Z"
 lastmod: "2026-07-18T17:15:08.813968Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Paradygmat wykorzystywania skalowanych sieci neuronowych do zadań szerokiego spektrum rozumienia i generowania języka naturalnego."
 ---
-
 ## Definition
 
 Termin ten odnosi się do szerszego paradygmatu zastosowań, w którym modele posiadające miliardy parametrów są wykorzystywane do nauki bez przykładowej (zero-shot) lub z niewielką liczbą przykładów (few-shot) w różnorodnych zadaniach lingwistycznych. W przeciwieństwie do modeli specjalistycznych

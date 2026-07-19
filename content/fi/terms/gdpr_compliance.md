@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /fi/terms/gdpr_compliance/
 date: "2026-07-18T15:58:37.137201Z"
 lastmod: "2026-07-18T17:15:09.413087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Yleisen tietosuoja-asetuksen noudattaminen, varmistaa että tekoälyjärjestelmät kunnioittavat käyttäjien yksityisyyttä ja tietosuoja-oikeuksia."
 ---
-
 ## Definition
 
 GDPR-yhteensopivuus viittaa niihin lullisiin ja teknisiin toimenpiteisiin, jotka tekoälyn kehittäjien on toteutettava suojatakseen Euroopan unionin yksilöiden henkilötietoja. Teekoälyjärjestelmille tämä sisältää periaatteita kuten datan minimoinnin, läpinäkyvyyden, tarkkuuden ja käyttäjien oikeuksien kunnioittamisen koko tietojen elinkaaren ajan.

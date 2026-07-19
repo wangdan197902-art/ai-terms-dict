@@ -1,23 +1,24 @@
 ---
-title: "Testování"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testování
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /cs/terms/testing/
-date: "2026-07-18T15:38:50.937288Z"
-lastmod: "2026-07-18T17:15:09.094398Z"
+slug: testing
+date: '2026-07-18T15:38:50.937288Z'
+lastmod: '2026-07-18T17:15:09.094398Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Systematický proces hodnocení výkonu a spolehlivosti modelu AI na neviděných datech, aby se zajistila kvalita a bezpečnost."
+source: agnes_llm
+status: published
+language: cs
+description: Systematický proces hodnocení výkonu a spolehlivosti modelu AI na neviděných
+  datech, aby se zajistila kvalita a bezpečnost.
 ---
-
 ## Definition
 
 Testování v inženýrství AI zahrnuje důkladné hodnocení modelů proti různým sadám dat za účelem identifikování zkreslení, chyb a problémů s robustností. Zahrnuje jednotkové testy komponent kódu, integrační testy atd.

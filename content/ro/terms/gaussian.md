@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /ro/terms/gaussian/
 date: "2026-07-18T15:25:47.560410Z"
 lastmod: "2026-07-18T17:15:09.594674Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Referitor la distribuția normală, o curbă în formă de clopot fundamentală pentru statistică și modelarea zgomotului în IA."
 ---
-
 ## Definition
 
 Termenul „gaussian” se referă la distribuția normală, o distribuție de probabilitate continuă caracterizată prin media și varianța sa. În IA, este utilizată extensiv în modelarea probabilistică, inferența bayesiană și

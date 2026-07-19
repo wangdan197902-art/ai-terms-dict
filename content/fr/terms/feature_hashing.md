@@ -1,23 +1,24 @@
 ---
-title: "Hachage de fonctionnalités"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Hachage de fonctionnalités
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /fr/terms/feature_hashing/
-date: "2026-07-18T11:17:05.500020Z"
-lastmod: "2026-07-18T11:44:45.250622Z"
+slug: feature_hashing
+date: '2026-07-18T11:17:05.500020Z'
+lastmod: '2026-07-18T11:44:45.250622Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique qui mape des fonctionnalités creuses de haute dimension vers un vecteur de taille fixe à l'aide d'une fonction de hachage."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique qui mape des fonctionnalités creuses de haute dimension
+  vers un vecteur de taille fixe à l'aide d'une fonction de hachage.
 ---
-
 ## Definition
 
 Le hachage de fonctionnalités, également connu sous le nom d'astuce de hachage (hashing trick), permet aux modèles d'apprentissage automatique de gérer de grands espaces de fonctionnalités creux sans maintenir de mappage explicite entre les fonctionnalités et leurs indices. En appliquant une fonction de hachage, on réduit la dimensionalité tout en préservant les relations statistiques, ce qui optimise l'utilisation de la mémoire.

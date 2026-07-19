@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /pt/terms/real_time/
 date: "2026-07-18T14:42:30.622420Z"
 lastmod: "2026-07-18T15:51:59.446210Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processamento em tempo real refere-se a sistemas que calculam e entregam resultados dentro de restrições de tempo estritas e garantidas, imediatamente após o recebimento da entrada."
 ---
-
 ## Definition
 
 Na inteligência artificial, tempo real denota a capacidade de um sistema processar entradas e gerar saídas com latência mínima, muitas vezes em milissegundos. Isso é essencial para aplicações onde

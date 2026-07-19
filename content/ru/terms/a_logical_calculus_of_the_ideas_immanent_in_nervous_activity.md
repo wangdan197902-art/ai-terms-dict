@@ -1,23 +1,25 @@
 ---
-title: "Логическое исчисление идей, присущих нервной деятельности"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: Логическое исчисление идей, присущих нервной деятельности
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /ru/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:37:10.894444Z"
-lastmod: "2026-07-18T16:38:07.112423Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:37:10.894444Z'
+lastmod: '2026-07-18T16:38:07.112423Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Фундаментальная статья 1943 года МакКаллока и Питтса, в которой формализовано то, как нейроны могут выполнять логические операции, заложив основу для искусственных нейронных сетей."
+source: agnes_llm
+status: published
+language: ru
+description: Фундаментальная статья 1943 года МакКаллока и Питтса, в которой формализовано
+  то, как нейроны могут выполнять логические операции, заложив основу для искусственных
+  нейронных сетей.
 ---
-
 ## Definition
 
 Эта основополагающая статья предложила математическую модель нейронных сетей, продемонстрировав, что простые искусственные нейроны могут реализовывать булевы логические вентили. Показав, что сеть таких единиц может

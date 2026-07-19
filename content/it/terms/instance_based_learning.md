@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento basato su istanze"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Apprendimento basato su istanze
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /it/terms/instance_based_learning/
-date: "2026-07-18T16:04:55.190534Z"
-lastmod: "2026-07-18T17:15:08.637845Z"
+slug: instance_based_learning
+date: '2026-07-18T16:04:55.190534Z'
+lastmod: '2026-07-18T17:15:08.637845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un approccio di apprendimento pigro in cui le previsioni vengono effettuate confrontando nuovi input con le istanze di addestramento memorizzate."
+source: agnes_llm
+status: published
+language: it
+description: Un approccio di apprendimento pigro in cui le previsioni vengono effettuate
+  confrontando nuovi input con le istanze di addestramento memorizzate.
 ---
-
 ## Definition
 
 Conosciuto anche come apprendimento basato sulla memoria, questa tecnica non costruisce un modello generalizzato durante l'addestramento. Memorizza invece l'intero dataset di addestramento. Quando è necessaria una previsione, trova le istanze più simili all'input.

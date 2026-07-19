@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /nl/terms/embodied/
 date: "2026-07-18T15:25:37.852098Z"
 lastmod: "2026-07-18T17:15:08.683263Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Belichaamde AI verwijst naar intelligente systemen die interageren met de fysieke wereld via sensoren en actuatoren binnen een lichaam."
 ---
-
 ## Definition
 
 Belichaamde AI stelt dat intelligentie ontstaat uit de interactie tussen de fysieke vorm van een agent en zijn omgeving. In tegenstelling tot onbelichaamde AI die abstracte gegevens verwerkt, gebruiken belichaamde agenten sensoren

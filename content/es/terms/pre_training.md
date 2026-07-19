@@ -1,23 +1,25 @@
 ---
-title: "Preentrenamiento"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Preentrenamiento
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /es/terms/pre_training/
-date: "2026-07-18T10:25:29.566378Z"
-lastmod: "2026-07-18T11:44:44.748154Z"
+slug: pre_training
+date: '2026-07-18T10:25:29.566378Z'
+lastmod: '2026-07-18T11:44:44.748154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La fase inicial de entrenamiento de un modelo de aprendizaje automático en un gran conjunto de datos no etiquetados para aprender representaciones generales antes del ajuste fino en tareas específicas"
+source: agnes_llm
+status: published
+language: es
+description: La fase inicial de entrenamiento de un modelo de aprendizaje automático
+  en un gran conjunto de datos no etiquetados para aprender representaciones generales
+  antes del ajuste fino en tareas específicas
 ---
-
 ## Definition
 
 El preentrenamiento es una técnica fundamental en el aprendizaje profundo donde un modelo aprende características y patrones amplios a partir de grandes cantidades de datos, a menudo sin etiquetas. Este proceso permite que el modelo desarrolle...

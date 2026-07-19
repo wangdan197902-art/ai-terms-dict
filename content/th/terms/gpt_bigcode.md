@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /th/terms/gpt_bigcode/
 date: "2026-07-18T15:57:16.825816Z"
 lastmod: "2026-07-18T16:38:07.611366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ตระกูลของโมเดลภาษาขนาดใหญ่ (LLM) ที่ได้รับการฝึกฝนมาโดยเฉพาะสำหรับการสร้างและทำความเข้าใจโค้ด พัฒนาโดยโครงการ BigCode"
 ---
-
 ## Definition
 
 GPT Bigcode มักเกี่ยวข้องกับโมเดลเช่น StarCoder ซึ่งแสดงถึงความก้าวหน้าครั้งสำคัญในด้าน AI ช่วยเขียนโค้ด โมเดลเหล่านี้ถูกฝึกฝนล่วงหน้าด้วยแหล่งข้อมูลโค้ดสาธารณะจำนวนมหาศาลเพื่อทำความเข้าใจบริบทของการเขียนโปรแกรม

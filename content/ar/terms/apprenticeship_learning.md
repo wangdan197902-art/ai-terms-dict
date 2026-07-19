@@ -1,23 +1,24 @@
 ---
-title: "التعلم بالتلمذة"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: التعلم بالتلمذة
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /ar/terms/apprenticeship_learning/
-date: "2026-07-18T15:44:21.191993Z"
-lastmod: "2026-07-18T17:15:08.475498Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:44:21.191993Z'
+lastmod: '2026-07-18T17:15:08.475498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة في التعلم المعزز حيث يتعلم الوكيل سياسة عمل من خلال محاكاة عروض الخبير."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة في التعلم المعزز حيث يتعلم الوكيل سياسة عمل من خلال محاكاة عروض
+  الخبير.
 ---
-
 ## Definition
 
 يسمح التعلم بالتلمذة، المعروف أيضًا باسم التعلم المعزز العكسي من العروض، للوكلاء باكتساب المهارات من خلال مراقبة سلوك الخبير بدلاً من الاعتماد فقط على دوال المكافأة.

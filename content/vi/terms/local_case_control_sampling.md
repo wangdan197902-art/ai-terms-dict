@@ -1,23 +1,24 @@
 ---
-title: "Lấy mẫu trường hợp-đối chứng cục bộ"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lấy mẫu trường hợp-đối chứng cục bộ
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /vi/terms/local_case_control_sampling/
-date: "2026-07-18T16:01:18.505875Z"
-lastmod: "2026-07-18T16:38:07.777577Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:01:18.505875Z'
+lastmod: '2026-07-18T16:38:07.777577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật lấy mẫu âm tính, chọn các ví dụ khó (hard negatives) từ vùng lân cận ngay lập tức của các ví dụ dương trong không gian nhúng."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật lấy mẫu âm tính, chọn các ví dụ khó (hard negatives) từ
+  vùng lân cận ngay lập tức của các ví dụ dương trong không gian nhúng.
 ---
-
 ## Definition
 
 Lấy mẫu trường hợp-đối chứng cục bộ là một chiến lược được sử dụng chủ yếu trong việc huấn luyện các mô hình học tương phản hoặc hệ thống gợi ý. Thay vì chọn các mẫu âm tính một cách ngẫu nhiên, phương pháp này xác định các 'mẫu âm tính khó' (các ví dụ âm tính có đặc điểm tương tự nhất với ví dụ dương tính) để giúp mô hình học được các ranh giới quyết định chính xác hơn và cải thiện khả năng phân biệt.

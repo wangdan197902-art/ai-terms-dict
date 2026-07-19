@@ -1,23 +1,25 @@
 ---
-title: "Kvantálás"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kvantálás
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /hu/terms/quantization/
-date: "2026-07-18T15:39:10.836969Z"
-lastmod: "2026-07-18T17:15:09.743783Z"
+slug: quantization
+date: '2026-07-18T15:39:10.836969Z'
+lastmod: '2026-07-18T17:15:09.743783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy modelloptimalizálási technika, amely csökkenti a neurális hálózati számításokban használt számok pontosságát a méret csökkentése és a sebesség javítása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Egy modelloptimalizálási technika, amely csökkenti a neurális hálózati
+  számításokban használt számok pontosságát a méret csökkentése és a sebesség javítása
+  érdekében.
 ---
-
 ## Definition
 
 A kvantálás a magas pontosságú lebegőpontos számokat (pl. FP32) alacsonyabb pontosságú formátumokra (pl. INT8 vagy FP16) konvertálja. Ez a csökkentés csökkenti a modell memóriahasználatát és számítási igényeit

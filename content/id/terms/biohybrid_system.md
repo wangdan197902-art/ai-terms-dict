@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /id/terms/biohybrid_system/
 date: "2026-07-18T15:41:04.174076Z"
 lastmod: "2026-07-18T16:38:07.434041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem terintegrasi yang menggabungkan komponen biologis dengan perangkat buatan untuk meningkatkan fungsionalitas atau menciptakan kemampuan baru."
 ---
-
 ## Definition
 
 Sistem biohibrida menggabungkan jaringan hidup, sel, atau organisme dengan bahan sintetis dan perangkat elektronik. Sistem ini bertujuan memanfaatkan sifat unik entitas biologis, seperti kemampuan penyembuhan diri.

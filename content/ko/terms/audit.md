@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /ko/terms/audit/
 date: "2026-07-18T15:42:35.755264Z"
 lastmod: "2026-07-18T16:38:06.810896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "윤리적 기준, 규제 요구 사항 및 성능 벤치마크 준수를 보장하기 위해 AI 시스템을 체계적으로 평가하는 것입니다."
 ---
-
 ## Definition
 
 AI 감사는 머신러닝 모델과 배포 파이프라인에 대한 엄격하고 구조화된 검토를 포함합니다. 잠재적 편향을 식별하기 위해 공정성, 투명성, 책임성 및 보안을 평가합니다.

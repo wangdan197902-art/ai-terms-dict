@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /ro/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T16:02:17.351482Z"
 lastmod: "2026-07-18T17:15:09.664050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un titlu de carte care explorează intersecția dintre umanitate și tehnologie, citat frecvent în discuțiile despre etica IA și viitorul muncii."
 ---
-
 ## Definition
 
 Această expresie se referă la o lucrare literară specifică care examinează modul în care oamenii își pot menține relevanța și demnitatea în fața avansului tehnologic rapid. În discursul despre IA, servește ca punct de referință cultural pentru dezbaterile etice.

@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /zh/terms/inferential_theory_of_learning/
 date: "2026-07-18T11:22:25.518424Z"
 lastmod: "2026-07-18T11:44:45.517709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种将学习视为贝叶斯推断的框架，即根据观测数据更新对假设的信念。"
 ---
-
 ## Definition
 
 该理论认为，学习本质上是一个概率推断的过程。学习者不是通过死记硬背来记忆数据，而是维护一个关于可能模型或假设的概率分布。

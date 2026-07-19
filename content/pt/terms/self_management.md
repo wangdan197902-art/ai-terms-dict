@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /pt/terms/self_management/
 date: "2026-07-18T15:20:39.725815Z"
 lastmod: "2026-07-18T15:51:59.530993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Autogestão em IA refere-se à capacidade de sistemas autônomos monitorarem, otimizarem e repararem suas próprias operações sem intervenção humana."
 ---
-
 ## Definition
 
 Este conceito abrange a capacidade de agentes ou sistemas de IA lidarem independentemente com manutenção rotineira, alocação de recursos e correção de erros. Inclui recursos como escalonamento automático e autorreparo (self-healing) para manter a estabilidade operacional.

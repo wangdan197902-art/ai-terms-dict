@@ -1,23 +1,23 @@
 ---
-title: "Обучение по программе (Curriculum Learning)"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Обучение по программе (Curriculum Learning)
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /ru/terms/curriculum_learning/
-date: "2026-07-18T16:21:07.577372Z"
-lastmod: "2026-07-18T16:38:07.215556Z"
+slug: curriculum_learning
+date: '2026-07-18T16:21:07.577372Z'
+lastmod: '2026-07-18T16:38:07.215556Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия обучения, при которой модели сначала изучают легкие примеры, а затем переходят к более сложным."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия обучения, при которой модели сначала изучают легкие примеры,
+  а затем переходят к более сложным.
 ---
-
 ## Definition
 
 Обучение по программе имитирует человеческое образование, представляя обучающие данные в структурированном порядке, обычно начиная с простых образцов и постепенно увеличивая их сложность. Этот подход помогает нейронным сетям быстрее сходиться и лучше обобщать знания.

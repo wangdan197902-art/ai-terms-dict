@@ -1,23 +1,24 @@
 ---
-title: "Regret bayesiano"
-term_id: "bayesian_regret"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision_theory", "reinforcement_learning", "metrics"]
+title: Regret bayesiano
+term_id: bayesian_regret
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Theory
+- Reinforcement Learning
+- metrics
 difficulty: 4
 weight: 1
-slug: "bayesian_regret"
-aliases:
-  - /it/terms/bayesian_regret/
-date: "2026-07-18T15:50:04.233125Z"
-lastmod: "2026-07-18T17:15:08.603092Z"
+slug: bayesian_regret
+date: '2026-07-18T15:50:04.233125Z'
+lastmod: '2026-07-18T17:15:08.603092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una metrica nella teoria della decisione che misura la perdita attesa dovuta all'incertezza sullo stato reale del mondo."
+source: agnes_llm
+status: published
+language: it
+description: Una metrica nella teoria della decisione che misura la perdita attesa
+  dovuta all'incertezza sullo stato reale del mondo.
 ---
-
 ## Definition
 
 Il regret bayesiano quantifica la differenza tra la ricompensa ottimale ottenibile con informazioni perfette e la ricompensa attesa ottenuta da un agente che agisce sotto incertezza. Viene calcolato integrando la differenza tra la ricompensa ottimale e quella effettiva su tutte le possibili distribuzioni a priori degli stati del mondo, fornendo una misura robusta delle prestazioni decisionali in ambienti sconosciuti.

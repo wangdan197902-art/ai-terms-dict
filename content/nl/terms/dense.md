@@ -1,23 +1,23 @@
 ---
-title: "Volledig verbonden"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Volledig verbonden
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /nl/terms/dense/
-date: "2026-07-18T15:51:03.977199Z"
-lastmod: "2026-07-18T17:15:08.736944Z"
+slug: dense
+date: '2026-07-18T15:51:03.977199Z'
+lastmod: '2026-07-18T17:15:08.736944Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een laag of tensor waarbij elk element verbonden is met elk element van de vorige laag of dimensie."
+source: agnes_llm
+status: published
+language: nl
+description: Een laag of tensor waarbij elk element verbonden is met elk element van
+  de vorige laag of dimensie.
 ---
-
 ## Definition
 
 In neurale netwerken verwijst 'volledig verbonden' naar lagen waarin elke neuron input ontvangt van alle neuronen in de voorgaande laag. Dit staat in contrast met de spaarzame verbindingen die voorkomen in convolutie- of

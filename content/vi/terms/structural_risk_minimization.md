@@ -1,23 +1,24 @@
 ---
-title: "Tối thiểu hóa nguy cơ cấu trúc"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: Tối thiểu hóa nguy cơ cấu trúc
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /vi/terms/structural_risk_minimization/
-date: "2026-07-18T16:13:12.342711Z"
-lastmod: "2026-07-18T16:38:07.808524Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:13:12.342711Z'
+lastmod: '2026-07-18T16:38:07.808524Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nguyên tắc trong học thống kê nhằm tối thiểu hóa cận trên của lỗi tổng quát hóa bằng cách cân bằng giữa độ phù hợp của mô hình và độ phức tạp."
+source: agnes_llm
+status: published
+language: vi
+description: Một nguyên tắc trong học thống kê nhằm tối thiểu hóa cận trên của lỗi
+  tổng quát hóa bằng cách cân bằng giữa độ phù hợp của mô hình và độ phức tạp.
 ---
-
 ## Definition
 
 Tối thiểu hóa nguy cơ cấu trúc (SRM) là một phương pháp để giảm thiểu nguy cơ kỳ vọng bằng cách kiểm soát độ phức tạp của mô hình nhằm ngăn ngừa quá khớp. Nó mở rộng tối thiểu hóa nguy cơ thực nghiệm bằng cách thêm một thành phần chính quy hóa

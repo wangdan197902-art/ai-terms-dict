@@ -1,23 +1,24 @@
 ---
-title: "Обнаружение токсичности"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: Обнаружение токсичности
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /ru/terms/toxicity_detection/
-date: "2026-07-18T16:19:01.448780Z"
-lastmod: "2026-07-18T16:38:07.210801Z"
+slug: toxicity_detection
+date: '2026-07-18T16:19:01.448780Z'
+lastmod: '2026-07-18T16:38:07.210801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Автоматизированный процесс идентификации и классификации вредоносного или оскорбительного языка в тексте с использованием моделей машинного обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Автоматизированный процесс идентификации и классификации вредоносного
+  или оскорбительного языка в тексте с использованием моделей машинного обучения.
 ---
-
 ## Definition
 
 Обнаружение токсичности использует методы обработки естественного языка для анализа текстовых входных данных и присвоения вероятностной оценки, указывающей на наличие вредоносного контента. Эти системы обычно обучаются на размеченных наборах данных с примерами токсичных и нетоксичных высказываний.

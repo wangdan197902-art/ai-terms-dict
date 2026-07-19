@@ -1,23 +1,25 @@
 ---
-title: "Κανονικοποίηση πολλαπλοτήτων"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Κανονικοποίηση πολλαπλοτήτων
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /el/terms/manifold_regularization/
-date: "2026-07-18T16:20:33.015342Z"
-lastmod: "2026-07-18T17:15:09.930143Z"
+slug: manifold_regularization
+date: '2026-07-18T16:20:33.015342Z'
+lastmod: '2026-07-18T17:15:09.930143Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική ημι-εποπτευόμενης μάθησης που υποθέτει ότι τα δεδομένα βρίσκονται σε μια χαμηλής διάστασης πολλαπλότητα και κανονικοποιεί το μοντέλο με βάση αυτή τη γεωμετρική δομή."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική ημι-εποπτευόμενης μάθησης που υποθέτει ότι τα δεδομένα βρίσκονται
+  σε μια χαμηλής διάστασης πολλαπλότητα και κανονικοποιεί το μοντέλο με βάση αυτή
+  τη γεωμετρική δομή.
 ---
-
 ## Definition
 
 Η κανονικοποίηση πολλαπλοτήτων επεκτείνει τις παραδοσιακές μεθόδους κανονικοποίησης ενσωματώνοντας την εγγενή γεωμετρία της κατανομής των δεδομένων. Λειτουργεί με την υπόθεση ότι τα σημεία δεδομένων υψηλών διαστάσεων

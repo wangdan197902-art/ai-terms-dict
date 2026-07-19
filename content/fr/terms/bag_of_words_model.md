@@ -1,23 +1,25 @@
 ---
-title: "Modèle sac de mots"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Modèle sac de mots
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /fr/terms/bag_of_words_model/
-date: "2026-07-18T11:06:14.050931Z"
-lastmod: "2026-07-18T11:44:45.201637Z"
+slug: bag_of_words_model
+date: '2026-07-18T11:06:14.050931Z'
+lastmod: '2026-07-18T11:44:45.201637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le modèle sac de mots est une représentation simplifiée du texte qui décrit la présence des mots dans un document, en ignorant la grammaire et l'ordre des mots."
+source: agnes_llm
+status: published
+language: fr
+description: Le modèle sac de mots est une représentation simplifiée du texte qui
+  décrit la présence des mots dans un document, en ignorant la grammaire et l'ordre
+  des mots.
 ---
-
 ## Definition
 
 Cette technique de traitement du langage naturel représente le texte comme un ensemble multiset de mots, en négligeant la syntaxe et la séquence. Il convertit les documents en vecteurs numériques basés sur la fréquence ou la présence des mots. P

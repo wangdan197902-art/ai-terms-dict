@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /pl/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:13:32.894834Z"
 lastmod: "2026-07-18T17:15:08.910281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Potok Pyannote Audio to ustrukturyzowana sekwencja kroków przetwarzania, która łączy różne modele w celu wykonania end-to-end diarizacji mówcy."
 ---
-
 ## Definition
 
 W kontekście Pyannote Audio potok odnosi się do konfigurowalnego przepływu pracy, który łączy ze sobą różne moduły w celu osiągnięcia diarizacji mówcy. Zazwyczaj potok obejmuje etapy takie jak wykrywanie aktywności głosu (VAD), ekstrakcja cech oraz klastrowanie wektorów.

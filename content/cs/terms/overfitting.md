@@ -1,23 +1,24 @@
 ---
-title: "Přeučení"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Přeučení
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /cs/terms/overfitting/
-date: "2026-07-18T15:37:33.954219Z"
-lastmod: "2026-07-18T17:15:09.091806Z"
+slug: overfitting
+date: '2026-07-18T15:37:33.954219Z'
+lastmod: '2026-07-18T17:15:09.091806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Chyba modelování, kdy algoritmus strojového učení zachytí šum místo skutečného signálu, což poškozuje zobecnění."
+source: agnes_llm
+status: published
+language: cs
+description: Chyba modelování, kdy algoritmus strojového učení zachytí šum místo skutečného
+  signálu, což poškozuje zobecnění.
 ---
-
 ## Definition
 
 K přeučení dochází, když se model naučí trénovací data příliš dobře, včetně jejich náhodného šumu a outlierů, což vede k vynikajícímu výkonu na trénovacích datech, ale špatnému výkonu na nových, dříve neviděných testovacích datech.

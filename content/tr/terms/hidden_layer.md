@@ -1,23 +1,24 @@
 ---
-title: "Gizli Katman"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Gizli Katman
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /tr/terms/hidden_layer/
-date: "2026-07-18T15:56:25.787550Z"
-lastmod: "2026-07-18T16:38:07.316871Z"
+slug: hidden_layer
+date: '2026-07-18T15:56:25.787550Z'
+lastmod: '2026-07-18T16:38:07.316871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Giriş ve çıkış katmanları arasında yer alan, özellikleri işleyen sinir ağındaki ara katman."
+source: agnes_llm
+status: published
+language: tr
+description: Giriş ve çıkış katmanları arasında yer alan, özellikleri işleyen sinir
+  ağındaki ara katman.
 ---
-
 ## Definition
 
 Bir gizli katman, önceki katmanlardan girdileri alan, ağırlıklar ve önyargılar uygularak veriyi dönüştüren ve bunu bir aktivasyon fonksiyonu aracılığıyla ileriye aktaran nöronlardan oluşur. Bu katmanlar, sinir ağlarının karmaşık desenleri öğrenmesini ve soyutlama yapmasını sağlar.

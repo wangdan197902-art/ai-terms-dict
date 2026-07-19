@@ -1,23 +1,23 @@
 ---
-title: "언어/행동 관점"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: 언어/행동 관점
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /ko/terms/languageaction_perspective/
-date: "2026-07-18T16:01:36.612973Z"
-lastmod: "2026-07-18T16:38:06.859356Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:01:36.612973Z'
+lastmod: '2026-07-18T16:38:06.859356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "언어를 단순히 현실을 설명하는 체계가 아니라 사회적 행위의 한 형태로 보는 이론적 프레임워크입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 언어를 단순히 현실을 설명하는 체계가 아니라 사회적 행위의 한 형태로 보는 이론적 프레임워크입니다.
 ---
-
 ## Definition
 
 발화 행위 이론과 화용론에 뿌리를 둔 이 관점은 요청, 약속, 명령과 같은 기능을 수행하는 발화의 방식을 강조합니다. 자연어 처리(NLP) 분야에서는 텍스트의 숨겨진 의도나 맥락을 이해하는 데 중요한 통찰을 제공합니다.

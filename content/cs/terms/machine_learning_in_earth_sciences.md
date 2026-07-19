@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /cs/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:07:29.655488Z"
 lastmod: "2026-07-18T17:15:09.150966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využití algoritmů strojového učení k analýze geoprostorových a environmentálních dat za účelem předpovídání přírodních jevů a řízení zdrojů."
 ---
-
 ## Definition
 
 Strojové učení rozšiřuje možnosti zemských věd zpracováváním satelitních snímků, seizmických dat a klimatických záznamů pro modelování složitých environmentálních systémů. Tyto techniky pomáhají předpovídat počasí, monitorovat změny klimatu a detekovat anomálie v přírodním prostředí, což podporuje lepší rozhodování v oblasti ochrany životního prostředí.

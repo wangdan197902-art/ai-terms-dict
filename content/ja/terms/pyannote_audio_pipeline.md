@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /ja/terms/pyannote_audio_pipeline/
 date: "2026-07-18T11:29:13.010445Z"
 lastmod: "2026-07-18T11:44:45.135311Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Pyannote Audioパイプラインとは、複数のモデルを組み合わせてエンドツーエンドの話者 diarization を実行する構造化された処理ステップのシーケンスです。"
 ---
-
 ## Definition
 
 Pyannote Audioの文脈において、パイプラインは話者 diarization を達成するために異なるモジュールをチェーン状につなぐ構成可能なワークフローを指します。通常、パイプラインには、音声活動検出（VAD）、特徴抽出、埋め込み計算、そしてクラスタリングなどのステージが含まれます。

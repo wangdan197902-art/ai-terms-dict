@@ -1,23 +1,24 @@
 ---
-title: "Mixed-Precision-Training"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Mixed-Precision-Training
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /de/terms/mixed_precision_training/
-date: "2026-07-18T11:23:57.004089Z"
-lastmod: "2026-07-18T11:44:44.965606Z"
+slug: mixed_precision_training
+date: '2026-07-18T11:23:57.004089Z'
+lastmod: '2026-07-18T11:44:44.965606Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Trainingsmethode, die sowohl 16-Bit- als auch 32-Bit-Gleitkommazahlen verwendet, um die Berechnung zu beschleunigen und den Speicherverbrauch zu reduzieren."
+source: agnes_llm
+status: published
+language: de
+description: Eine Trainingsmethode, die sowohl 16-Bit- als auch 32-Bit-Gleitkommazahlen
+  verwendet, um die Berechnung zu beschleunigen und den Speicherverbrauch zu reduzieren.
 ---
-
 ## Definition
 
 Mixed-Precision-Training (MPT) kombiniert Halbgaußgenauigkeit (FP16) und Vollgenauigkeit (FP32) während des Trainings neuronaler Netze. Durch die Verwendung von FP16 für die meisten Operationen reduziert MPT den Speicherbedarf und

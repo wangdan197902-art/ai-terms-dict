@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /pl/terms/united_states_tech_force/
 date: "2026-07-18T16:21:36.500882Z"
 lastmod: "2026-07-18T17:15:08.926831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Termin demograficzny i ekonomiczny odnoszący się do zbiorowej siły roboczej napędzającej innowacje technologiczne w USA."
 ---
-
 ## Definition
 
 Termin "Amerykańska siła technologiczna" oznacza ogólnie dużą część amerykańskiego rynku pracy zatrudnioną w sektorach technologicznych, obejmującą inżynierię oprogramowania, naukę o danych, produkcję sprzętu i inne pokrewne dziedziny. Reprezentuje ona kluczowy zasób ludzki odpowiedzialny za rozwój technologii w Stanach Zjednoczonych.

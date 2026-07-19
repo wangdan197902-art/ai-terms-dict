@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /it/terms/inductive_probability/
 date: "2026-07-18T16:04:41.766024Z"
 lastmod: "2026-07-18T17:15:08.637147Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una misura del grado con cui le evidenze supportano un'ipotesi, distinta dalla certezza deduttiva."
 ---
-
 ## Definition
 
 La probabilità induttiva quantifica quanto sia probabile che un'ipotesi sia vera date le evidenze osservate, riconoscendo che le conclusioni sono probabilistiche piuttosto che certe. Forma la base dell'inferenza bayesiana, dove la probabilità viene aggiornata man mano che nuove prove diventano disponibili.

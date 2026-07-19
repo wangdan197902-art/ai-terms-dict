@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /de/terms/loss_function/
 date: "2026-07-18T10:58:44.539845Z"
 lastmod: "2026-07-18T11:44:44.896334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine mathematische Funktion, die die Differenz zwischen vorhergesagten Werten und tatsächlichen Zielwerten während des Trainings quantifiziert."
 ---
-
 ## Definition
 
 Auch als Kosten- oder Fehlerfunktion bekannt, liefert die Verlustfunktion einen skalaren Wert, der angibt, wie gut das Modell performt. Während des Trainings nutzen Optimierungsalgorithmen diesen Wert, um Gradienten zu berechnen und die Modellparameter schrittweise anzupassen, um den Fehler zu minimieren.

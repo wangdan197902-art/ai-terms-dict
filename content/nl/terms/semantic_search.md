@@ -1,23 +1,24 @@
 ---
-title: "Semantisch zoeken"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Semantisch zoeken
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /nl/terms/semantic_search/
-date: "2026-07-18T15:38:49.072748Z"
-lastmod: "2026-07-18T17:15:08.709038Z"
+slug: semantic_search
+date: '2026-07-18T15:38:49.072748Z'
+lastmod: '2026-07-18T17:15:08.709038Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Zoektechnologie die de betekenis van zoektermen begrijpt in plaats van alleen trefwoorden te matchen."
+source: agnes_llm
+status: published
+language: nl
+description: Zoektechnologie die de betekenis van zoektermen begrijpt in plaats van
+  alleen trefwoorden te matchen.
 ---
-
 ## Definition
 
 Semantisch zoeken interpreteert de intentie en contextuele betekenis achter een zoekopdracht, verder dan eenvoudige trefwoordmatching. Het gebruikt embeddings om tekst als vectoren in een hoogdimensionale ruimte weer te geven, waardoor...

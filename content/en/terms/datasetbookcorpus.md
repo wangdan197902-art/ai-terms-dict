@@ -1,23 +1,24 @@
 ---
-title: "Dataset:Bookcorpus"
-term_id: "datasetbookcorpus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "nlp", "text_data"]
+title: Dataset:Bookcorpus
+term_id: datasetbookcorpus
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- NLP
+- Text Data
 difficulty: 2
 weight: 1
-slug: "datasetbookcorpus"
-aliases:
-  - /en/terms/datasetbookcorpus/
-date: "2026-07-18T09:53:01.226790Z"
-lastmod: "2026-07-18T11:44:44.660075Z"
+slug: datasetbookcorpus
+date: '2026-07-18T09:53:01.226790Z'
+lastmod: '2026-07-18T11:44:44.660075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A large-scale dataset containing over 10,000 unpublished books, widely used for pre-training natural language processing models."
+source: agnes_llm
+status: published
+language: en
+description: A large-scale dataset containing over 10,000 unpublished books, widely
+  used for pre-training natural language processing models.
 ---
-
 ## Definition
 
 BookCorpus is a collection of texts from over 10,000 unpublished books, scraped from the internet. It serves as a foundational resource for training and evaluating natural language processing (NLP) models, particularly those focused on language understanding and generation. Its diverse literary content provides rich contextual information, making it valuable for tasks like text completion, summarization, and semantic analysis.

@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /he/terms/api/
 date: "2026-07-18T15:22:12.340914Z"
 lastmod: "2026-07-18T17:15:09.469848Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ממשק תכנות יישומים המאפשר למערכות תוכנה שונות לתקשר ולחלף נתונים ביניהן."
 ---
-
 ## Definition
 
 API מגדיר סט של פרוטוקולים וכלים לבניית תוכניות ויישומים. בתחום הבינה המלאכותית, APIs מאפשרים למפתחים לגשת למודלים חזקים כמו LLMs או יוצרי תמונות ללא צורך באחסון מקומי שלהם.

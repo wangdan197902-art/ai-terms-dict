@@ -1,23 +1,25 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /es/terms/locateanything/
-date: "2026-07-18T10:58:22.829862Z"
-lastmod: "2026-07-18T11:44:44.827565Z"
+slug: locateanything
+date: '2026-07-18T10:58:22.829862Z'
+lastmod: '2026-07-18T11:44:44.827565Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un marco de código abierto diseñado para la localización y segmentación de objetos en cero disparos (zero-shot) en diversos dominios visuales sin entrenamiento específico para la tarea."
+source: agnes_llm
+status: published
+language: es
+description: Un marco de código abierto diseñado para la localización y segmentación
+  de objetos en cero disparos (zero-shot) en diversos dominios visuales sin entrenamiento
+  específico para la tarea.
 ---
-
 ## Definition
 
 LocateAnything es un marco versátil de visión por computadora que permite la detección y segmentación de objetos en imágenes basándose en indicaciones de lenguaje natural o priores generales. Aprovecha modelos fundamentales preentrenados para lograr una generalización robusta, eliminando la necesidad de recopilar datos etiquetados específicos para cada nueva clase u objeto, lo que facilita su aplicación en entornos dinámicos y diversos.

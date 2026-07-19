@@ -1,23 +1,25 @@
 ---
-title: "Normalizasyon"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: Normalizasyon
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /tr/terms/normalization/
-date: "2026-07-18T16:06:30.968940Z"
-lastmod: "2026-07-18T16:38:07.341731Z"
+slug: normalization
+date: '2026-07-18T16:06:30.968940Z'
+lastmod: '2026-07-18T16:38:07.341731Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Normalizasyon, sayısal özellikleri genellikle 0 ile 1 arasında standart bir aralığa ölçeklendiren bir veri ön işleme tekniğidir; bu, model yakınsamasını ve performansını iyileştirir."
+source: agnes_llm
+status: published
+language: tr
+description: Normalizasyon, sayısal özellikleri genellikle 0 ile 1 arasında standart
+  bir aralığa ölçeklendiren bir veri ön işleme tekniğidir; bu, model yakınsamasını
+  ve performansını iyileştirir.
 ---
-
 ## Definition
 
 Yaygın yöntemler arasında Min-Max ölçeklendirme ve Z-puan standartlaştırma bulunur. Bu işlem, özellikle gradyan tabanlı optimizasyonda, büyüklüğü daha büyük olan özelliklerin öğrenme algoritmasını baskın hale getirmesini engeller.

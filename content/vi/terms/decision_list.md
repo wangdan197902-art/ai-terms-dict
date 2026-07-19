@@ -1,23 +1,23 @@
 ---
-title: "Danh sách quyết định"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Danh sách quyết định
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /vi/terms/decision_list/
-date: "2026-07-18T15:48:42.188882Z"
-lastmod: "2026-07-18T16:38:07.747185Z"
+slug: decision_list
+date: '2026-07-18T15:48:42.188882Z'
+lastmod: '2026-07-18T16:38:07.747185Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một bộ phân loại dễ giải thích bao gồm một danh sách có thứ tự các quy tắc, trong đó quy tắc khớp đầu tiên xác định kết quả đầu ra."
+source: agnes_llm
+status: published
+language: vi
+description: Một bộ phân loại dễ giải thích bao gồm một danh sách có thứ tự các quy
+  tắc, trong đó quy tắc khớp đầu tiên xác định kết quả đầu ra.
 ---
-
 ## Definition
 
 Danh sách quyết định là một loại mô hình học máy biểu diễn kiến thức dưới dạng một chuỗi các quy tắc điều kiện. Mỗi quy tắc bao gồm một điều kiện và một nhãn lớp dự đoán. Khi phân loại một mẫu mới, mô hình sẽ duyệt qua danh sách và trả về kết quả của quy tắc khớp đầu tiên.

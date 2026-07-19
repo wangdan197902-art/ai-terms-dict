@@ -1,23 +1,24 @@
 ---
-title: "Funkcja predyktora liniowego"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Funkcja predyktora liniowego
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /pl/terms/linear_predictor_function/
-date: "2026-07-18T16:04:33.498484Z"
-lastmod: "2026-07-18T17:15:08.892253Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:04:33.498484Z'
+lastmod: '2026-07-18T17:15:08.892253Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Funkcja matematyczna obliczająca liniową kombinację zmiennych wejściowych w celu przewidzenia wyniku."
+source: agnes_llm
+status: published
+language: pl
+description: Funkcja matematyczna obliczająca liniową kombinację zmiennych wejściowych
+  w celu przewidzenia wyniku.
 ---
-
 ## Definition
 
 W modelowaniu statystycznym i uczeniu maszynowym funkcja predyktora liniowego reprezentuje ważoną sumę cech wejściowych plus składnik biasu. Stanowi ona kluczowy element w uogólnionych modelach liniowych (GLM).

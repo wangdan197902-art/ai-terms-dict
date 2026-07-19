@@ -1,23 +1,23 @@
 ---
-title: "再帰型ニューラルネットワーク"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: 再帰型ニューラルネットワーク
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /ja/terms/recurrent_neural_network/
-date: "2026-07-18T11:00:21.252646Z"
-lastmod: "2026-07-18T11:44:45.057130Z"
+slug: recurrent_neural_network
+date: '2026-07-18T11:00:21.252646Z'
+lastmod: '2026-07-18T11:44:45.057130Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "RNNは、ノード間の接続が時間的なシーケンスに沿って有向グラフを形成する人工ニューラルネットワークの一種です。"
+source: agnes_llm
+status: published
+language: ja
+description: RNNは、ノード間の接続が時間的なシーケンスに沿って有向グラフを形成する人工ニューラルネットワークの一種です。
 ---
-
 ## Definition
 
 RNNは、テキスト、ゲノム、手書き文字、音声などのデータシーケンス内のパターン認識を目的としています。順伝播ネットワークとは異なり、過去の情報を捉える内部メモリを持っており、時系列データの処理に適しています。

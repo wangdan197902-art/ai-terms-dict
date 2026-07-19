@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /he/terms/bayesian_programming/
 date: "2026-07-18T15:46:23.741549Z"
 lastmod: "2026-07-18T17:15:09.516767Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסגרת פורמלית לחישוב הסתברותי המרחיבה את ההסקה הבייסיאנית למודלים מורכבים ורבים-שכבתיים."
 ---
-
 ## Definition
 
 תכנות בייסיאני הוא מסגרת מתמטית הכללה את משפט בייס כדי להתמודד עם תלויות הסתברותיות מורכבות ורב-שכבתיות. היא מאפשרת למפתחים להגדיר מודלים היררכיים שבהם ניתן לייצג תלותיות מורכבות.

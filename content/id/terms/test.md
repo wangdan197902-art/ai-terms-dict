@@ -1,23 +1,23 @@
 ---
-title: "Test"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Test
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /id/terms/test/
-date: "2026-07-18T15:30:02.497550Z"
-lastmod: "2026-07-18T16:38:07.404307Z"
+slug: test
+date: '2026-07-18T15:30:02.497550Z'
+lastmod: '2026-07-18T16:38:07.404307Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Test mengacu pada fase evaluasi di mana model AI yang telah dilatih dinilai menggunakan data yang belum pernah dilihat sebelumnya untuk mengukur kinerja."
+source: agnes_llm
+status: published
+language: id
+description: Test mengacu pada fase evaluasi di mana model AI yang telah dilatih dinilai
+  menggunakan data yang belum pernah dilihat sebelumnya untuk mengukur kinerja.
 ---
-
 ## Definition
 
 Himpunan uji (test set) adalah bagian data yang disisihkan selama proses pelatihan untuk mengevaluasi kemampuan generalisasi model akhir. Berbeda dengan himpunan validasi yang digunakan untuk penyetelan hiperparameter, himpunan uji memberikan...

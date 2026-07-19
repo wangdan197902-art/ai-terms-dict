@@ -1,23 +1,23 @@
 ---
-title: "Test"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Test
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /no/terms/test/
-date: "2026-07-18T15:30:36.494461Z"
-lastmod: "2026-07-18T16:38:06.948254Z"
+slug: test
+date: '2026-07-18T15:30:36.494461Z'
+lastmod: '2026-07-18T16:38:06.948254Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Test refererer til evalueringsfasen der en trent AI-modell blir vurdert på ukjent data for å måle ytelsen."
+source: agnes_llm
+status: published
+language: 'no'
+description: Test refererer til evalueringsfasen der en trent AI-modell blir vurdert
+  på ukjent data for å måle ytelsen.
 ---
-
 ## Definition
 
 Testsettet er en del av dataen som holdes tilbake under treningsprosessen for å evaluere den endelige modellens generaliseringsevne. I motsetning til valideringssett som brukes til finjustering av hyperparametre, gir testsettet prov

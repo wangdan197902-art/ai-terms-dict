@@ -1,23 +1,24 @@
 ---
-title: "Whisper"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: Whisper
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /id/terms/whisper/
-date: "2026-07-18T16:13:33.331363Z"
-lastmod: "2026-07-18T16:38:07.519914Z"
+slug: whisper
+date: '2026-07-18T16:13:33.331363Z'
+lastmod: '2026-07-18T16:38:07.519914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sistem pengenalan ucapan otomatis (ASR) yang dikembangkan oleh OpenAI dan dilatih pada dataset audio beragam yang besar."
+source: agnes_llm
+status: published
+language: id
+description: Sistem pengenalan ucapan otomatis (ASR) yang dikembangkan oleh OpenAI
+  dan dilatih pada dataset audio beragam yang besar.
 ---
-
 ## Definition
 
 Whisper adalah model pengenalan ucapan serbaguna yang dirancang untuk menangani berbagai bahasa, dialek, dan aksen. Model ini dilatih pada ratusan ribu jam data multilingual dan multitask yang disupervisi, membuatnya sangat robust terhadap kebisingan latar belakang dan variasi pengucapan, sehingga mampu mentranskripsi ucapan menjadi teks dengan akurasi tinggi dalam banyak konteks.

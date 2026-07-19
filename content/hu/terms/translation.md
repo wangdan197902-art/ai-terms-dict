@@ -1,23 +1,24 @@
 ---
-title: "Fordítás"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Fordítás
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /hu/terms/translation/
-date: "2026-07-18T15:40:10.453394Z"
-lastmod: "2026-07-18T17:15:09.746337Z"
+slug: translation
+date: '2026-07-18T15:40:10.453394Z'
+lastmod: '2026-07-18T17:15:09.746337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A folyamat, amely során a szöveget egy forrásnyelvről egy célnyelvre konvertáljuk jelentésmegőrzés mellett."
+source: agnes_llm
+status: published
+language: hu
+description: A folyamat, amely során a szöveget egy forrásnyelvről egy célnyelvre
+  konvertáljuk jelentésmegőrzés mellett.
 ---
-
 ## Definition
 
 Az AI-ban a fordítás a neurális gépi fordítást jelenti, ahol a mélytanuló modellek szemantikai reprezentációkat térképeznek át nyelvek között. A szabályalapú rendszerektől eltérően a modern módszerek tanulják meg a kontextuális árnyalatokat

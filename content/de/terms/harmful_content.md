@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /de/terms/harmful_content/
 date: "2026-07-18T11:17:52.637111Z"
 lastmod: "2026-07-18T11:44:44.947397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Informationen, die Risiken für Einzelpersonen oder die Gesellschaft darstellen, einschließlich Hassrede, Gewalt und illegaler Handlungen."
 ---
-
 ## Definition
 
 Schädliche Inhalte beziehen sich auf digitale Medien oder Texte, die körperlichen, psychologischen oder sozialen Schaden verursachen können. Im Bereich der KI-Sicherheit ist das Erkennen und Filtern solcher Inhalte entscheidend, um zu verhindern, dass Modelle generieren

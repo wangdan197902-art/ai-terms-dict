@@ -1,23 +1,23 @@
 ---
-title: "การฝังเชิงพื้นที่ (Spatial Embedding)"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: การฝังเชิงพื้นที่ (Spatial Embedding)
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /th/terms/spatial_embedding/
-date: "2026-07-18T16:15:40.196100Z"
-lastmod: "2026-07-18T16:38:07.656279Z"
+slug: spatial_embedding
+date: '2026-07-18T16:15:40.196100Z'
+lastmod: '2026-07-18T16:38:07.656279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่แมปความสัมพันธ์เชิงพื้นที่ระหว่างวัตถุหรือตำแหน่งลงในรูปแบบเวกเตอร์สำหรับโมเดลการเรียนรู้ของเครื่อง"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่แมปความสัมพันธ์เชิงพื้นที่ระหว่างวัตถุหรือตำแหน่งลงในรูปแบบเวกเตอร์สำหรับโมเดลการเรียนรู้ของเครื่อง
 ---
-
 ## Definition
 
 การฝังเชิงพื้นที่เกี่ยวข้องกับการแปลงความสัมพันธ์เชิงพื้นที่ทางกายภาพหรือนามธรรมให้เป็นพื้นที่เวกเตอร์หนาแน่น ทำให้อัลกอริทึมสามารถเข้าใจระยะทาง ทิศทาง และโทโพโลยีได้ เทคนิคนี้มีความสำคัญอย่างยิ่งต่อการประมวลผลข้อมูลเชิงพื้นที่

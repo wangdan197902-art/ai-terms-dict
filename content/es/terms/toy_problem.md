@@ -7,8 +7,6 @@ tags: ["theory", "education", "research"]
 difficulty: 2
 weight: 1
 slug: "toy_problem"
-aliases:
-  - /es/terms/toy_problem/
 date: "2026-07-18T11:11:19.421259Z"
 lastmod: "2026-07-18T11:44:44.862703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una versión simplificada de un problema complejo utilizada para probar algoritmos o teorías sin el ruido y la escala de los escenarios del mundo real."
 ---
-
 ## Definition
 
 En inteligencia artificial e informática, un problema de juguete es un escenario altamente simplificado diseñado para ilustrar un concepto o probar un nuevo algoritmo. Ejemplos incluyen el problema de las N-Reinas o el juego del gato (Tic-Tac-Toe), que permiten validar la lógica básica antes de aplicar soluciones a problemas más complejos.

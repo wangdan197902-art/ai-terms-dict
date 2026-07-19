@@ -1,23 +1,24 @@
 ---
-title: "Kryss-entropimetoden"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Kryss-entropimetoden
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /no/terms/cross_entropy_method/
-date: "2026-07-18T15:48:17.172939Z"
-lastmod: "2026-07-18T16:38:06.985077Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:48:17.172939Z'
+lastmod: '2026-07-18T16:38:06.985077Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En stokastisk optimeringsteknik som bruker Monte Carlo-simulering for iterativt å forbedre estimater av sannsynligheten for sjeldne hendelser."
+source: agnes_llm
+status: published
+language: 'no'
+description: En stokastisk optimeringsteknik som bruker Monte Carlo-simulering for
+  iterativt å forbedre estimater av sannsynligheten for sjeldne hendelser.
 ---
-
 ## Definition
 
 Kryss-entropimetoden (CEM) er en kraftig generell optimeringsalgoritme som brukes til både diskrete og kontinuerlige problemer. Den fungerer ved å opprettholde en sannsynlighetsfordeling over søkeområdet og iterativt oppdatere denne basert på de beste løsningene.

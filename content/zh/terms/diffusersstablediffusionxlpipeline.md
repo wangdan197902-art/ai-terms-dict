@@ -1,23 +1,24 @@
 ---
-title: "Diffusers:Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: Diffusers:Stablediffusionxlpipeline
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /zh/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T11:15:08.259660Z"
-lastmod: "2026-07-18T11:44:45.490158Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T11:15:08.259660Z'
+lastmod: '2026-07-18T11:44:45.490158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "用于 Stable Diffusion XL (SDXL) 的管道，相比之前的版本提供了更高的分辨率、细节和提示词遵循度。"
+source: agnes_llm
+status: published
+language: zh
+description: 用于 Stable Diffusion XL (SDXL) 的管道，相比之前的版本提供了更高的分辨率、细节和提示词遵循度。
 ---
-
 ## Definition
 
 该管道实现了 Stable Diffusion XL 架构，该架构使用优化的基础模型和细化模型来生成高分辨率（1024x1024）图像，具有卓越的细节和构图。它……

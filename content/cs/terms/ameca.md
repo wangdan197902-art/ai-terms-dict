@@ -7,8 +7,6 @@ tags: ["robotics", "humanoid", "interaction"]
 difficulty: 2
 weight: 1
 slug: "ameca"
-aliases:
-  - /cs/terms/ameca/
 date: "2026-07-18T15:41:28.714259Z"
 lastmod: "2026-07-18T17:15:09.100902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vysoce pokročilý humanoidní robot vyvinutý společností Engineered Arts, známý svou výjimečnou expresivitou obličeje a lidskými interakcemi."
 ---
-
 ## Definition
 
 Ameca je špičkový humanoidní robot s více než 40 stupni volnosti pouze v obličeji, což umožňuje jemné a realistické emocionální výrazy. Je navržen ke studiu interakce člověk-robot.

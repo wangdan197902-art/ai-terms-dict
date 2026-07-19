@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /fr/terms/ai_ethics/
 date: "2026-07-18T10:58:52.798578Z"
 lastmod: "2026-07-18T11:44:45.181684Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'étude des questions morales et des implications découlant du développement et du déploiement des systèmes d'intelligence artificielle."
 ---
-
 ## Definition
 
 L'éthique de l'IA englobe le cadre de principes et de normes conçu pour garantir que les technologies d'intelligence artificielle soient développées et utilisées de manière responsable. Elle aborde des préoccupations critiques telles que...

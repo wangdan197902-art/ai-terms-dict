@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /fi/terms/hyperparameter/
 date: "2026-07-18T16:02:30.582825Z"
 lastmod: "2026-07-18T17:15:09.420370Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Määritysmuuttuja, jonka arvo asetetaan ennen koulutusprosessia ja joka ohjaa oppimisalgoritmin käyttäytymistä."
 ---
-
 ## Definition
 
 Toisin kuin malliparametrit (painot ja virheet), jotka opitaan datasta koulutuksen aikana, hyperparametrit ovat ulkoisia asetuksia, jotka harjoittelija valitsee ennen koulutuksen alkua. Ne ohjaavat mallin rakenteellisia...

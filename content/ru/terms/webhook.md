@@ -1,23 +1,25 @@
 ---
-title: "Вебхук"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Вебхук
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /ru/terms/webhook/
-date: "2026-07-18T16:20:25.106934Z"
-lastmod: "2026-07-18T16:38:07.213578Z"
+slug: webhook
+date: '2026-07-18T16:20:25.106934Z'
+lastmod: '2026-07-18T16:38:07.213578Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Настраиваемый пользователем HTTP-обратный вызов, срабатывающий по определенным событиям, позволяющий системам отправлять уведомления в реальном времени другим приложениям."
+source: agnes_llm
+status: published
+language: ru
+description: Настраиваемый пользователем HTTP-обратный вызов, срабатывающий по определенным
+  событиям, позволяющий системам отправлять уведомления в реальном времени другим
+  приложениям.
 ---
-
 ## Definition
 
 Вебхук — это механизм, с помощью которого одна служба предоставляет другой службе информацию в реальном времени при наступлении события. Вместо опроса на наличие изменений исходная система отправляет HTTP POST-запрос на определенный URL-адрес.

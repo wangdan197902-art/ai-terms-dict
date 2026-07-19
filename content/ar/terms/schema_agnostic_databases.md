@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /ar/terms/schema_agnostic_databases/
 date: "2026-07-18T16:20:04.561147Z"
 lastmod: "2026-07-18T17:15:08.546164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "قواعد البيانات غير المرتبطة بمخطط البيانات هي أنظمة تخزين تسمح بهياكل بيانات مرنة دون الحاجة إلى مخططات مسبقة التعريف، وغالباً ما تُستخدم في بيئات NoSQL."
 ---
-
 ## Definition
 
 تتيح هذه قواعد البيانات النمذجة الديناميكية للبيانات من خلال عدم فرض هياكل جداول صارمة أو تعريفات للأعمدة مسبقاً. يسمح هذا المرونة للمطورين بتخزين البيانات غير المهيكلة أو شبه المهيكلة، بما يت

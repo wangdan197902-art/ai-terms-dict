@@ -1,23 +1,24 @@
 ---
-title: "Problemlösning"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Problemlösning
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /sv/terms/problem_solving/
-date: "2026-07-18T16:14:38.165166Z"
-lastmod: "2026-07-18T17:15:09.038502Z"
+slug: problem_solving
+date: '2026-07-18T16:14:38.165166Z'
+lastmod: '2026-07-18T17:15:09.038502Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Den kognitiva processen att hitta lösningar på svårigheter, vilket involverar sökning, resonemang och planering inom definierade tillståndsrumsgränser."
+source: agnes_llm
+status: published
+language: sv
+description: Den kognitiva processen att hitta lösningar på svårigheter, vilket involverar
+  sökning, resonemang och planering inom definierade tillståndsrumsgränser.
 ---
-
 ## Definition
 
 Inom artificiell intelligens syftar problemlösning på det systematiska tillvägagångssättet att navigera från ett starttillstånd till ett måltillstånd genom en sekvens av handlingar. Det involverar vanligtvis att definiera problemet, identifiera möjliga tillstånd och använda algoritmer eller heuristiker för att hitta en effektiv väg till lösningen.

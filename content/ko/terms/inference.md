@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /ko/terms/inference/
 date: "2026-07-18T15:22:46.628559Z"
 lastmod: "2026-07-18T16:38:06.767440Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "훈련된 모델이 새로운 데이터를 처리하여 예측 또는 출력을 생성하는 단계."
 ---
-
 ## Definition
 
 추론은 완성된 모델을 사용하여 보지 못한 데이터에 대해 결정을 내리거나 예측을 수행하는 배포 단계를 의미합니다. 가중치를 업데이트하는 훈련과 달리, 추론은 계산 자원을 소비하며 실시간 응답을 생성합니다.

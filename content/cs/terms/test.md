@@ -1,23 +1,23 @@
 ---
-title: "Testovací"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Testovací
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /cs/terms/test/
-date: "2026-07-18T15:30:22.571189Z"
-lastmod: "2026-07-18T17:15:09.079656Z"
+slug: test
+date: '2026-07-18T15:30:22.571189Z'
+lastmod: '2026-07-18T17:15:09.079656Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Testovací fáze je fáze hodnocení, kdy je natrénovaný model AI vyhodnocován na datech, která během tréninku neviděl, aby se změřil jeho výkon."
+source: agnes_llm
+status: published
+language: cs
+description: Testovací fáze je fáze hodnocení, kdy je natrénovaný model AI vyhodnocován
+  na datech, která během tréninku neviděl, aby se změřil jeho výkon.
 ---
-
 ## Definition
 
 Testovací sada je část dat vyňatá během procesu tréninku k vyhodnocení schopnosti finálního modelu generalizovat. Na rozdíl od validačních sad používaných pro ladění hyperparametrů poskytuje testovací sada...

@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /tr/terms/multi_agent/
 date: "2026-07-18T15:32:01.730590Z"
 lastmod: "2026-07-18T16:38:07.250676Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bireysel veya kolektif hedeflere ulaşmak için birden fazla otonom ajanın bir ortamda etkileşime girdiği sistem mimarisi."
 ---
-
 ## Definition
 
 Çok ajanlı sistemler, çevrelerini algılayan, karar veren ve buna göre hareket eden birkaç bağımsız, zeki varlıktan oluşur. Bu ajanlar birbirleriyle iş birliği yapabilir, rekabet edebilir veya müzakere yürütebilir.

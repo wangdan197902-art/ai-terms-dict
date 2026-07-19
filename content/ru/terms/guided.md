@@ -1,23 +1,24 @@
 ---
-title: "Управляемый"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: Управляемый
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /ru/terms/guided/
-date: "2026-07-18T15:26:01.922366Z"
-lastmod: "2026-07-18T16:38:07.078746Z"
+slug: guided
+date: '2026-07-18T15:26:01.922366Z'
+lastmod: '2026-07-18T16:38:07.078746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Описывает процессы ИИ или методы генерации, которые ограничены или направляются конкретными внешними сигналами, ограничениями или промежуточными целями."
+source: agnes_llm
+status: published
+language: ru
+description: Описывает процессы ИИ или методы генерации, которые ограничены или направляются
+  конкретными внешними сигналами, ограничениями или промежуточными целями.
 ---
-
 ## Definition
 
 Термин «управляемый» в ИИ обычно относится к техникам, в которых поведение модели направляется дополнительной информацией помимо основного входа. Распространенные примеры включают управляемую диффузию, где класс...

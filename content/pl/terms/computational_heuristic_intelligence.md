@@ -1,23 +1,24 @@
 ---
-title: "Inteligencja heurystyczna"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Inteligencja heurystyczna
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /pl/terms/computational_heuristic_intelligence/
-date: "2026-07-18T15:46:26.117240Z"
-lastmod: "2026-07-18T17:15:08.855838Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T15:46:26.117240Z'
+lastmod: '2026-07-18T17:15:08.855838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podejścia AI wykorzystujące praktyczne, oparte na doświadczeniu techniki do efektywnego rozwiązywania problemów, gdy metody dokładne są zbyt wolne."
+source: agnes_llm
+status: published
+language: pl
+description: Podejścia AI wykorzystujące praktyczne, oparte na doświadczeniu techniki
+  do efektywnego rozwiązywania problemów, gdy metody dokładne są zbyt wolne.
 ---
-
 ## Definition
 
 Inteligencja heurystyczna obejmuje algorytmy stosujące zasady ogólnego charakteru, przybliżenia lub przemyślane domysły w celu znalezienia satysfakcjonujących rozwiązań w rozsądnym czasie. W przeciwieństwie do wyczerpujących

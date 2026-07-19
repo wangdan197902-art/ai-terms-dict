@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /sv/terms/mountain_car_problem/
 date: "2026-07-18T16:10:27.044636Z"
 lastmod: "2026-07-18T17:15:09.028732Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett klassiskt förstärkningsinlärningsproblem där en agent måste köra en bil upp för en brant backe med endast accelereringskontroller."
 ---
-
 ## Definition
 
 Bilproblem på berg är en standardbenchmark inom forskningen om förstärkningsinlärning. Målet är att styra en underdimensionerad bil till toppen av en brant backe. Eftersom bilen inte kan klättra backen i ett enda drag krävs strategier.

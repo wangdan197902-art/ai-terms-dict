@@ -1,23 +1,24 @@
 ---
-title: "Dowolny do Dowolnego"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Dowolny do Dowolnego
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /pl/terms/any_to_any/
-date: "2026-07-18T15:39:59.592977Z"
-lastmod: "2026-07-18T17:15:08.844701Z"
+slug: any_to_any
+date: '2026-07-18T15:39:59.592977Z'
+lastmod: '2026-07-18T17:15:08.844701Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Możliwość generatywnej sztucznej inteligencji pozwalająca modelom na bezpośrednią konwersję wejścia z jednej modalności na wyjście w dowolnej innej modalności."
+source: agnes_llm
+status: published
+language: pl
+description: Możliwość generatywnej sztucznej inteligencji pozwalająca modelom na
+  bezpośrednią konwersję wejścia z jednej modalności na wyjście w dowolnej innej modalności.
 ---
-
 ## Definition
 
 Architektury typu 'dowolny do dowolnego' to ujednolicone modele wielomodalne, które obsługują różne kombinacje wejścia i wyjścia, takie jak tekst-obraz czy obraz-audio. W przeciwieństwie do modeli wyspecjalizowanych, systemy te potrafią przetwarzać dane między różnymi typami multimediów.

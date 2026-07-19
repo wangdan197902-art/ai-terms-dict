@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /zh/terms/data_poisoning/
 date: "2026-07-18T11:12:24.479745Z"
 lastmod: "2026-07-18T11:44:45.471466Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "数据投毒是一种安全攻击手段，恶意行为者向训练集中注入损坏或误导性数据，以降低模型性能。"
 ---
-
 ## Definition
 
 这种对抗性技术旨在通过改变训练数据来破坏机器学习模型的完整性。通过引入细微的错误或有偏见的示例，攻击者可以使模型……

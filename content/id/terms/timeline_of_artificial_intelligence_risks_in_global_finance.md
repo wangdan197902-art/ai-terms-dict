@@ -1,23 +1,24 @@
 ---
-title: "Timeline risiko kecerdasan buatan dalam keuangan global"
-term_id: "timeline_of_artificial_intelligence_risks_in_global_finance"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "risk_management", "history"]
+title: Timeline risiko kecerdasan buatan dalam keuangan global
+term_id: timeline_of_artificial_intelligence_risks_in_global_finance
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Risk Management
+- history
 difficulty: 4
 weight: 1
-slug: "timeline_of_artificial_intelligence_risks_in_global_finance"
-aliases:
-  - /id/terms/timeline_of_artificial_intelligence_risks_in_global_finance/
-date: "2026-07-18T16:11:50.658925Z"
-lastmod: "2026-07-18T16:38:07.515778Z"
+slug: timeline_of_artificial_intelligence_risks_in_global_finance
+date: '2026-07-18T16:11:50.658925Z'
+lastmod: '2026-07-18T16:38:07.515778Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kerangka kronologis yang melacak munculnya, eskalasi, dan mitigasi risiko sistemik terkait AI di pasar keuangan internasional."
+source: agnes_llm
+status: published
+language: id
+description: Kerangka kronologis yang melacak munculnya, eskalasi, dan mitigasi risiko
+  sistemik terkait AI di pasar keuangan internasional.
 ---
-
 ## Definition
 
 Konsep ini merujuk pada urutan peristiwa historis dan proyeksi di mana teknologi kecerdasan buatan memperkenalkan kerentanan ke dalam sistem keuangan global. Konsep ini mencakup algoritma awal yang mulai digunakan, peningkatan ketergantungan pada model prediktif, hingga insiden sistemik yang dipicu oleh kegagalan model atau volatilitas pasar yang dipercepat oleh kecepatan komputasi AI.

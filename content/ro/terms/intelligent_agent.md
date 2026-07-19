@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /ro/terms/intelligent_agent/
 date: "2026-07-18T16:05:48.606764Z"
 lastmod: "2026-07-18T17:15:09.669540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O entitate software autonomă care percepe mediul înconjurător, raționează asupra acțiunilor și execută sarcini pentru a atinge obiective specifice."
 ---
-
 ## Definition
 
 Un agent inteligent este un sistem capabil să perceapă împrejurimile prin senzori sau intrări de date, să proceseze aceste informații folosind algoritmi de raționament și să acționeze asupra mediului prin actuatori

@@ -1,23 +1,24 @@
 ---
-title: "Aktivní učení"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Aktivní učení
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /cs/terms/active_learning/
-date: "2026-07-18T15:40:46.308249Z"
-lastmod: "2026-07-18T17:15:09.099032Z"
+slug: active_learning
+date: '2026-07-18T15:40:46.308249Z'
+lastmod: '2026-07-18T17:15:09.099032Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Strategie strojového učení, kde algoritmus selektivně žádá uživatele nebo orákulum o označení nových datových bodů, čímž optimalizuje proces tréninku."
+source: agnes_llm
+status: published
+language: cs
+description: Strategie strojového učení, kde algoritmus selektivně žádá uživatele
+  nebo orákulum o označení nových datových bodů, čímž optimalizuje proces tréninku.
 ---
-
 ## Definition
 
 Aktivní učení snižuje množství požadovaných označených dat tím, že umožňuje modelu vybrat nejinformativnější instance pro lidské označování. Místo pasivního přijímání náhodných vzorků algori

@@ -1,23 +1,23 @@
 ---
-title: "Развивающаяся робототехника"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Развивающаяся робототехника
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /ru/terms/developmental_robotics/
-date: "2026-07-18T15:49:49.004958Z"
-lastmod: "2026-07-18T16:38:07.148733Z"
+slug: developmental_robotics
+date: '2026-07-18T15:49:49.004958Z'
+lastmod: '2026-07-18T16:38:07.148733Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Междисциплинарная область, изучающая, как роботы могут приобретать сложные навыки через взаимодействие с окружающей средой и опекунами."
+source: agnes_llm
+status: published
+language: ru
+description: Междисциплинарная область, изучающая, как роботы могут приобретать сложные
+  навыки через взаимодействие с окружающей средой и опекунами.
 ---
-
 ## Definition
 
 Развивающаяся робототехика черпает вдохновение из когнитивного развития человека, создавая роботов, которые учатся автономно с течением времени. Вместо предварительного программирования всех поведений такие системы используют механизмы, подобные имитационному обучению и внутренней мотивации.

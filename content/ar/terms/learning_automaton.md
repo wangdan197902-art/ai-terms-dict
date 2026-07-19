@@ -1,23 +1,24 @@
 ---
-title: "الآلة المتعلمة"
-term_id: "learning_automaton"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement-learning", "optimization", "agents"]
+title: الآلة المتعلمة
+term_id: learning_automaton
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Optimization
+- agents
 difficulty: 3
 weight: 1
-slug: "learning_automaton"
-aliases:
-  - /ar/terms/learning_automaton/
-date: "2026-07-18T16:05:35.692211Z"
-lastmod: "2026-07-18T17:15:08.521763Z"
+slug: learning_automaton
+date: '2026-07-18T16:05:35.692211Z'
+lastmod: '2026-07-18T17:15:08.521763Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الآلة المتعلمة هي وحدة بسيطة لاتخاذ القرارات العشوائية تقوم بتحديث احتمالات إجراءاتها تكرارياً بناءً على ملاحظات البيئة لتعظيم المكافأة."
+source: agnes_llm
+status: published
+language: ar
+description: الآلة المتعلمة هي وحدة بسيطة لاتخاذ القرارات العشوائية تقوم بتحديث احتمالات
+  إجراءاتها تكرارياً بناءً على ملاحظات البيئة لتعظيم المكافأة.
 ---
-
 ## Definition
 
 ينشأ هذا المفهوم من تعلم التعزيز ويتضمن تفاعل وكيل مع بيئة غير معروفة. تختار الآلة إجراءات من مجموعة محدودة وتتلقى إشارة عقاب أو مكافأة، ثم تعدل سلوكها تدريجياً لتحسين الأداء المستقبلي.

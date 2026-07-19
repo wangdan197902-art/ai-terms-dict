@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /pt/terms/vector_database/
 date: "2026-07-18T14:40:40.976764Z"
 lastmod: "2026-07-18T15:51:59.442098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um banco de dados especializado projetado para armazenar, indexar e consultar vetores de alta dimensão que representam características dos dados."
 ---
-
 ## Definition
 
 Os bancos de dados vetoriais otimizam o armazenamento e a recuperação de dados não estruturados convertendo-os em embeddings numéricos. Eles usam algoritmos como o Vizinho Mais Próximo Aproximado (ANN) para encontrar eficientemente similaridades entre vetores.

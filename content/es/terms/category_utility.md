@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /es/terms/category_utility/
 date: "2026-07-18T10:39:00.104841Z"
 lastmod: "2026-07-18T11:44:44.784562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La utilidad de categoría es una medida matemática utilizada para evaluar la eficacia de un esquema de categorización basada en la ganancia de información que proporciona sobre los valores de los atrib"
 ---
-
 ## Definition
 
 Esta métrica cuantifica qué tan bien un conjunto de categorías permite predecir los valores de los atributos dentro de esas categorías. Equilibra el tamaño de las categorías contra la homogeneidad de sus cont

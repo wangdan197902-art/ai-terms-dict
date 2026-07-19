@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /es/terms/extremal_optimization/
 date: "2026-07-18T10:48:51.151381Z"
 lastmod: "2026-07-18T11:44:44.804864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La optimización extremal es un algoritmo de búsqueda heurística inspirado en la criticidad autoorganizada, diseñado para resolver problemas de optimización combinatoria eliminando iterativamente los c"
 ---
-
 ## Definition
 
 A diferencia de los algoritmos genéticos que mantienen una población, la OE trabaja sobre una única solución. Identifica el componente que menos contribuye a la aptitud general y lo reemplaza con una alternativa aleatoria. Esto permite una mejora local continua.

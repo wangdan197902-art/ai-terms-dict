@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /fi/terms/transparency/
 date: "2026-07-18T15:38:41.602847Z"
 lastmod: "2026-07-18T17:15:09.376148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Aste, jolla tekoälyjärjestelmän päätöksentekoprosessit, datalähteet ja rajoitteet ovat käyttäjille avoimia ja ymmärrettäviä."
 ---
-
 ## Definition
 
 Läpinäkyvyys varmistaa, että sidosryhmät voivat ymmärtää, miten tekoälymalli tulee tuloksiinsa, edistäen luottamusta ja vastuullisuutta. Se sisältää koulutusdatan alkuperän, mallien arkkitehtuurin ja

@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /ja/terms/automated_negotiation/
 date: "2026-07-18T11:05:10.881019Z"
 lastmod: "2026-07-18T11:44:45.071335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIエージェントが自律的に交渉を行い、当事者間で合意に至るプロセス。"
 ---
-
 ## Definition
 
 自動交渉とは、人間の利益を代表するソフトウェアエージェントが取引プロセスを行うことを指します。これらのエージェントはゲーム理論、最適化アルゴリズム、機械学習を用いて提示を行い、相手の反応を評価しながら最適な合意点を探ります。これにより、人間が介在しない高速かつ効率的な契約締結が可能になります。

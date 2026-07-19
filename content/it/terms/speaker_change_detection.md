@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /it/terms/speaker_change_detection/
 date: "2026-07-18T16:22:07.633339Z"
 lastmod: "2026-07-18T17:15:08.670927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il processo di identificazione dei punti in uno stream audio in cui cambia l'interlocutore attivo."
 ---
-
 ## Definition
 
 Il Rilevamento del cambio interlocutore (SCD) è una tecnica utilizzata per individuare i timestamp esatti in cui un interlocutore smette di parlare e un altro inizia. Funge da passaggio preliminare nella diarizzazione, aiutando a segmentare correttamente i flussi audio conversazionali.

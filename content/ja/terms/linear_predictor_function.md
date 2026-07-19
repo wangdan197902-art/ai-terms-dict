@@ -1,23 +1,23 @@
 ---
-title: "線形予測関数"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: 線形予測関数
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /ja/terms/linear_predictor_function/
-date: "2026-07-18T11:21:57.579271Z"
-lastmod: "2026-07-18T11:44:45.116137Z"
+slug: linear_predictor_function
+date: '2026-07-18T11:21:57.579271Z'
+lastmod: '2026-07-18T11:44:45.116137Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "入力変数の線形結合を計算して結果を予測する数学関数。"
+source: agnes_llm
+status: published
+language: ja
+description: 入力変数の線形結合を計算して結果を予測する数学関数。
 ---
-
 ## Definition
 
 統計モデリングや機械学習において、線形予測関数は、重み付き入力特徴量の合計にバイアス項を加えたものを指します。これは一般化線形モデル（GLM）の中核的な構成要素として機能します。

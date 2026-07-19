@@ -1,23 +1,24 @@
 ---
-title: "Programmeren op basis van voorbeelden"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Programmeren op basis van voorbeelden
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /nl/terms/programming_by_example/
-date: "2026-07-18T16:13:18.010466Z"
-lastmod: "2026-07-18T17:15:08.779043Z"
+slug: programming_by_example
+date: '2026-07-18T16:13:18.010466Z'
+lastmod: '2026-07-18T17:15:08.779043Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een AI-techniek waarbij programma's automatisch worden gegenereerd door regels af te leiden uit invoer-uitvoervoorbeelden die door gebruikers worden verstrekt."
+source: agnes_llm
+status: published
+language: nl
+description: Een AI-techniek waarbij programma's automatisch worden gegenereerd door
+  regels af te leiden uit invoer-uitvoervoorbeelden die door gebruikers worden verstrekt.
 ---
-
 ## Definition
 
 Programmeren op basis van voorbeelden (PBE) is een paradigma in programsynthese waarbij ontwikklers het gewenste gedrag specificeren door middel van concrete invoer-uitvoerparen, in plaats van expliciete code te schrijven. Het AI-systeem analyseert deze voorbeelden om een algoritme of script te genereren dat het patroon generaliseert.

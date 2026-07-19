@@ -1,23 +1,25 @@
 ---
-title: "Aprendizado de características geométricas"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Aprendizado de características geométricas
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /pt/terms/geometric_feature_learning/
-date: "2026-07-18T15:01:52.702207Z"
-lastmod: "2026-07-18T15:51:59.494503Z"
+slug: geometric_feature_learning
+date: '2026-07-18T15:01:52.702207Z'
+lastmod: '2026-07-18T15:51:59.494503Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica em aprendizado profundo que extrai características de dados com estruturas geométricas inerentes, como grafos ou variedades, usando redes neurais especializadas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica em aprendizado profundo que extrai características de dados
+  com estruturas geométricas inerentes, como grafos ou variedades, usando redes neurais
+  especializadas.
 ---
-
 ## Definition
 
 O aprendizado de características geométricas concentra-se no processamento de dados que possuem estruturas não euclidianas, como redes sociais, grafos moleculares ou malhas 3D. Técnicas como Redes Neurais em Grafos (GNNs) e

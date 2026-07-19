@@ -1,23 +1,24 @@
 ---
-title: "Llama"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: Llama
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /sv/terms/llama/
-date: "2026-07-18T16:07:04.720096Z"
-lastmod: "2026-07-18T17:15:09.021617Z"
+slug: llama
+date: '2026-07-18T16:07:04.720096Z'
+lastmod: '2026-07-18T17:15:09.021617Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En familj av stora språkmodeller utvecklade av Meta AI, kända för sina öppna vikter och starka prestanda."
+source: agnes_llm
+status: published
+language: sv
+description: En familj av stora språkmodeller utvecklade av Meta AI, kända för sina
+  öppna vikter och starka prestanda.
 ---
-
 ## Definition
 
 Llama (Large Language Model Meta AI) är en serie grundläggande stora språkmodeller som släppts av Meta. Till skillnad från många proprietära modeller släpps Llama-modeller ofta med öppna vikter, vilket möjliggör forskning och anpassning.

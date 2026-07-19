@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /ro/terms/carlo/
 date: "2026-07-18T15:23:53.590069Z"
 lastmod: "2026-07-18T17:15:09.590463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la metodele Monte Carlo, o clasă de algoritmi computaționali care se bazează pe eșantionare aleatorie repetată pentru a obține rezultate numerice."
 ---
-
 ## Definition
 
 Metodele Monte Carlo sunt tehnici esențiale în IA și statistică pentru aproximarea problemelor matematice complexe, dificil de rezolvat analitic. Prin generarea a mii sau milioane de eșantioane aleatorii, acestea permit estimarea precisă a parametrilor și a distribuțiilor de probabilitate.

@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /de/terms/robustness/
 date: "2026-07-18T11:32:24.142655Z"
 lastmod: "2026-07-18T11:44:44.982674Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Fähigkeit eines KI-Modells, Leistung und Stabilität aufrechtzuerhalten, wenn es mit verrauschten Daten, adversariellen Angriffen oder Verschiebungen in der Datenverteilung konfrontiert wird."
 ---
-
 ## Definition
 
 In Bezug auf KI-Sicherheit und Ethik bezeichnet Robustheit die Widerstandsfähigkeit eines Modells gegenüber unerwarteten Eingaben oder böswilligen Manipulationen. Ein robustes System funktioniert auch dann korrekt weiter, wenn die Eingabedaten Rauschen enthalten.

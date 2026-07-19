@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /zh/terms/base_rate/
 date: "2026-07-18T11:08:27.712992Z"
 lastmod: "2026-07-18T11:44:45.449350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "基础比率是指在一个群体中某事件发生的先验概率，独立于任何特定证据或测试结果。"
 ---
-
 ## Definition
 
 在统计学和机器学习中，基础比率指的是给定数据集中某种条件或结果的潜在频率。忽视基础比率往往会导致基础比率谬误，即人们倾向于忽略先验概率而过度依赖具体证据。

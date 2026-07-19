@@ -1,23 +1,23 @@
 ---
-title: "意思決定"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: 意思決定
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /ja/terms/decision_making/
-date: "2026-07-18T10:56:32.271679Z"
-lastmod: "2026-07-18T11:44:45.024523Z"
+slug: decision_making
+date: '2026-07-18T10:56:32.271679Z'
+lastmod: '2026-07-18T11:44:45.024523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "利用可能な情報に基づき、複数の選択肢から行動計画を選択する認知プロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 利用可能な情報に基づき、複数の選択肢から行動計画を選択する認知プロセス。
 ---
-
 ## Definition
 
 人工知能における意思決定とは、システムが特定の基準や目的に対して潜在的な行動を評価し、最適な結果を選択するアルゴリズム的プロセスを指します。これは、利用可能な情報に基づいて複数の代替案から行動を選択する認知プロセスの計算機実装です。

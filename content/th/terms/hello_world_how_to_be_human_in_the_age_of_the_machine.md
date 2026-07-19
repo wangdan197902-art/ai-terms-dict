@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /th/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T15:58:26.416598Z"
 lastmod: "2026-07-18T16:38:07.614193Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชื่อหนังสือที่สำรวจจุดตัดระหว่างความเป็นมนุษย์และเทคโนโลยี มักถูกอ้างอิงในการอภิปรายเกี่ยวกับจริยธรรม AI และอนาคตของการทำงาน"
 ---
-
 ## Definition
 
 วลีนี้หมายถึงผลงานวรรณกรรมเฉพาะชิ้นที่ตรวจสอบว่ามนุษย์สามารถรักษาความเกี่ยวข้องและศักดิ์ศรีไว้ได้อย่างไรท่ามกลางความก้าวหน้าทางเทคโนโลยีอย่างรวดเร็ว ในวาทกรรมเกี่ยวกับ AI วลีนี้ทำหน้าที่เป็นอ้างอิงทางวัฒนธรรม

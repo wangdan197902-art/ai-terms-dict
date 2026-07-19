@@ -7,8 +7,6 @@ tags: ["Finance", "Datasets", "Chinese NLP"]
 difficulty: 4
 weight: 1
 slug: "azfintext"
-aliases:
-  - /ro/terms/azfintext/
 date: "2026-07-18T15:42:27.971557Z"
 lastmod: "2026-07-18T17:15:09.623997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "AZFinText este un set de date specializat conceput pentru mineritul textelor financiare și analiza sentimentelor în contexte chinezești."
 ---
-
 ## Definition
 
 AZFinText este un corpus annotat la scară largă, creat special pentru analiza textelor financiare în limba chineză. Include articole de știri, rapoarte și postări de pe rețelele sociale etichetate cu sentimente financiare și evenimente economice relevante.

@@ -7,8 +7,6 @@ tags: ["tensorflow", "tools", "visualization"]
 difficulty: 2
 weight: 1
 slug: "tensorboard"
-aliases:
-  - /vi/terms/tensorboard/
 date: "2026-07-18T16:13:53.146286Z"
 lastmod: "2026-07-18T16:38:07.810338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Bộ công cụ trực quan hóa để giám sát các thí nghiệm học máy và gỡ lỗi hiệu suất mô hình."
 ---
-
 ## Definition
 
 TensorBoard là một bộ các ứng dụng web để kiểm tra và hiểu các quá trình chạy và đồ thị TensorFlow. Nó cung cấp các công cụ để trực quan hóa các chỉ số như tổn thất và độ chính xác theo thời gian, cũng như xem xét cấu trúc mô hình.

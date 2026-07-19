@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /da/terms/building/
 date: "2026-07-18T15:23:39.088983Z"
 lastmod: "2026-07-18T17:15:09.220216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den praktiske fase med at udvikle, træne og implementere AI-modeller og systemer fra oprindeligt design til produktionsklarhed."
 ---
-
 ## Definition
 
 Udvikling refererer til den end-til-end ingeniørmæssige proces med at skabe AI-løsninger, hvilket inkluderer dataindsamling, modelvalg, træning, validering og implementering. Det omfatter den tekniske infrastruktur og arbejdsgange.

@@ -1,23 +1,24 @@
 ---
-title: "Fitnesz közelítés"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Fitnesz közelítés
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /hu/terms/fitness_approximation/
-date: "2026-07-18T16:00:08.027241Z"
-lastmod: "2026-07-18T17:15:09.785093Z"
+slug: fitness_approximation
+date: '2026-07-18T16:00:08.027241Z'
+lastmod: '2026-07-18T17:15:09.785093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy technika az evolúciós algoritmusokban, amely becsüli a megoldások minőségét a számítási költségek csökkentése érdekében az optimalizálás során."
+source: agnes_llm
+status: published
+language: hu
+description: Egy technika az evolúciós algoritmusokban, amely becsüli a megoldások
+  minőségét a számítási költségek csökkentése érdekében az optimalizálás során.
 ---
-
 ## Definition
 
 A fitnesz közelítést az evolúciós számításban akkor alkalmazzák, amikor az igazi fitneszfüggvény kiértékelése számítástechnikailag költséges vagy időigényes. Az pontos érték kiszámítása helyett helyettesítő modelleket használnak a fitnesz értékek gyorsabb becslésére.

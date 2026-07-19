@@ -1,23 +1,24 @@
 ---
-title: "Hosszú kontextus"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Hosszú kontextus
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /hu/terms/long_context/
-date: "2026-07-18T16:11:05.684420Z"
-lastmod: "2026-07-18T17:15:09.804682Z"
+slug: long_context
+date: '2026-07-18T16:11:05.684420Z'
+lastmod: '2026-07-18T17:15:09.804682Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A nyelvi modell azon képessége, hogy több ezer vagy millió tokenből álló bemeneti szekvenciák információit feldolgozza és megtartsa."
+source: agnes_llm
+status: published
+language: hu
+description: A nyelvi modell azon képessége, hogy több ezer vagy millió tokenből álló
+  bemeneti szekvenciák információit feldolgozza és megtartsa.
 ---
-
 ## Definition
 
 A hosszú kontextus a transzformer alapú modellek azon kapacitására utal, hogy kiterjedt bemeneti hosszúságokat kezeljenek, gyakran meghaladva a szabványos korlátokat, mint például a 2k vagy 4k token. Ez a képesség lehetővé teszi a modellek számára, hogy elemezzék az egész

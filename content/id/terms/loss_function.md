@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /id/terms/loss_function/
 date: "2026-07-18T15:34:55.886084Z"
 lastmod: "2026-07-18T16:38:07.415731Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Fungsi matematika yang mengukur perbedaan antara nilai prediksi dan nilai target aktual selama pelatihan."
 ---
-
 ## Definition
 
 Dikenal juga sebagai fungsi biaya atau kesalahan, fungsi kerugian menyediakan nilai skalar yang menunjukkan seberapa baik kinerja model. Selama pelatihan, algoritma optimisasi menggunakan nilai ini untuk menghitung gradien dan memperbarui parameter model guna meminimalkan kesalahan prediksi.

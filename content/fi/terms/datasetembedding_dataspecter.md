@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /fi/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:51:35.358016Z"
 lastmod: "2026-07-18T17:15:09.399386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laaja tietojoukko, joka perustuu tieteenalan julkaisuihin ja viittauksiin, ja joka on suunniteltu akateemisten artikkelien upotusmallien kouluttamiseen."
 ---
-
 ## Definition
 
 Specter-tietojoukko on rakennettu valtavasta kokoelmasta tieteen alan artikkeleita hyödyntäen viittausherkkuja valvottujen oppimisten signaalien luomiseen. Se yhdistää tiivistelmät niiden viittaaviin artikkeleihin

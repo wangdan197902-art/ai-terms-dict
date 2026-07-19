@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /ro/terms/memory/
 date: "2026-07-18T15:36:33.639110Z"
 lastmod: "2026-07-18T17:15:09.615911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Capacitatea unui sistem AI de a stoca, recupera și utiliza informații în interacțiuni succesive pentru a menține contextul și a îmbunătăți performanța în timp."
 ---
-
 ## Definition
 
 În inteligența artificială, memoria se referă la mecanismele care permit modelelor să rețină informații dincolo de un singur pas de inferență. Acest lucru include memoria de lucru pe termen scurt pentru contextul imediat într-o sesiune și memoria pe termen lung pentru cunoștințe persistente.

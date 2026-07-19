@@ -1,23 +1,24 @@
 ---
-title: "Retrieval"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Retrieval
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /de/terms/retrieval/
-date: "2026-07-18T10:59:49.629659Z"
-lastmod: "2026-07-18T11:44:44.899637Z"
+slug: retrieval
+date: '2026-07-18T10:59:49.629659Z'
+lastmod: '2026-07-18T11:44:44.899637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der Prozess des Abrufens relevanter Daten aus einer Datenbank oder Wissensdatenbank zur Erweiterung der Modelleingaben."
+source: agnes_llm
+status: published
+language: de
+description: Der Prozess des Abrufens relevanter Daten aus einer Datenbank oder Wissensdatenbank
+  zur Erweiterung der Modelleingaben.
 ---
-
 ## Definition
 
 Retrieval bezeichnet den technischen Prozess des Suchens und Extrahierens spezifischer Informationen aus großen Datensätzen oder externen Wissensdatenbanken basierend auf Benutzeranfragen oder Kontext. In modernen KI-Systemen ist es...

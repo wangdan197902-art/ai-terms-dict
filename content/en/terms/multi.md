@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /en/terms/multi/
 date: "2026-07-18T09:34:16.089537Z"
 lastmod: "2026-07-18T11:44:44.602963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A prefix indicating the presence of multiple instances, heads, or modalities within a system or model."
 ---
-
 ## Definition
 
 The prefix 'multi-' is frequently used in AI to denote architectures or processes involving several parallel components. Examples include Multi-Head Attention, which allows models to focus on different parts of input data simultaneously, and Multi-Modal Learning, which integrates diverse data types like text and images. This concept emphasizes scalability and parallel processing capabilities, enabling neural networks to capture richer representations and improve performance across various complex tasks by leveraging multiple sources of information or computational paths.

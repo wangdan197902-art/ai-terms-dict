@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /pt/terms/context_window/
 date: "2026-07-18T14:32:51.555253Z"
 lastmod: "2026-07-18T15:51:59.423603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A quantidade máxima de texto ou tokens que um modelo de linguagem pode processar e considerar simultaneamente durante a inferência ou o treinamento."
 ---
-
 ## Definition
 
 A janela de contexto define o limite operacional da memória de um modelo de IA para uma única interação. Ela determina quanto do histórico de conversas anteriores, texto de documentos ou dados de entrada o modelo pode atender.

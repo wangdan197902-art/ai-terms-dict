@@ -1,23 +1,25 @@
 ---
-title: "Policy"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: Policy
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /it/terms/policy/
-date: "2026-07-18T15:27:51.112628Z"
-lastmod: "2026-07-18T17:15:08.571864Z"
+slug: policy
+date: '2026-07-18T15:27:51.112628Z'
+lastmod: '2026-07-18T17:15:08.571864Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una strategia o un piano d'azione progettato per guidare le decisioni e raggiungere risultati razionali, spesso utilizzato nell'apprendimento per rinforzo per mappare gli stati alle azioni."
+source: agnes_llm
+status: published
+language: it
+description: Una strategia o un piano d'azione progettato per guidare le decisioni
+  e raggiungere risultati razionali, spesso utilizzato nell'apprendimento per rinforzo
+  per mappare gli stati alle azioni.
 ---
-
 ## Definition
 
 Il termine 'policy' ha due significati a seconda del contesto. Nella gestione generale, è un principio guida per il processo decisionale. Nell'Apprendimento per Rinforzo (RL), una policy è un componente fondamentale di un agente...

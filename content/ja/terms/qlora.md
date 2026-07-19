@@ -1,23 +1,23 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /ja/terms/qlora/
-date: "2026-07-18T11:00:08.980046Z"
-lastmod: "2026-07-18T11:44:45.053291Z"
+slug: qlora
+date: '2026-07-18T11:00:08.980046Z'
+lastmod: '2026-07-18T11:44:45.053291Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "4ビット量子化と低ランクアダプターを使用して、大規模言語モデルを効率的にファインチューニングするための手法である、量子化低ランク適応。"
+source: agnes_llm
+status: published
+language: ja
+description: 4ビット量子化と低ランクアダプターを使用して、大規模言語モデルを効率的にファインチューニングするための手法である、量子化低ランク適応。
 ---
-
 ## Definition
 
 QLoRAは、低ランク適応（LoRA）と4ビット量子化を組み合わせることで、巨大なモデルのファインチューニングに必要なメモリフットプリントを大幅に削減します。重みを4ビット形式で保存し、小さなアダプター層を追加することで、少ないリソースでも高精度な調整を可能にします。

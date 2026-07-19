@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /pl/terms/tool_use/
 date: "2026-07-18T15:37:25.478435Z"
 lastmod: "2026-07-18T17:15:08.837864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Paradygmat, w którym agenci AI wybierają i wykonują zewnętrzne funkcje lub interfejsy API, aby wykonywać konkretne zadania wykraczające poza ich natywne możliwości."
 ---
-
 ## Definition
 
 Używanie narzędzi umożliwia modelom językowym interakcję z zewnętrznymi środowiskami oprogramowania poprzez wywoływanie zdefiniowanych funkcji, takich jak kalkulatory, wyszukiwarki internetowe czy zapytania do baz danych. To podejście rozszerza mo

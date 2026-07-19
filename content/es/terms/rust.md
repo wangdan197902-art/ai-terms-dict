@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /es/terms/rust/
-date: "2026-07-18T11:07:05.822488Z"
-lastmod: "2026-07-18T11:44:44.851723Z"
+slug: rust
+date: '2026-07-18T11:07:05.822488Z'
+lastmod: '2026-07-18T11:44:44.851723Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Rust es un lenguaje de programación de sistemas centrado en la seguridad, la velocidad y la concurrencia sin recolección de basura."
+source: agnes_llm
+status: published
+language: es
+description: Rust es un lenguaje de programación de sistemas centrado en la seguridad,
+  la velocidad y la concurrencia sin recolección de basura.
 ---
-
 ## Definition
 
 Rust es un lenguaje de programación de propósito general y multiparadigma diseñado para el rendimiento y la seguridad, especialmente la concurrencia segura. Logra la seguridad de memoria sin utilizar recolección de basura, garantizando que...

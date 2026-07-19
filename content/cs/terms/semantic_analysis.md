@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /cs/terms/semantic_analysis/
 date: "2026-07-18T16:16:45.928826Z"
 lastmod: "2026-07-18T17:15:09.199243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Sémantická analýza je proces extrakce významu z textu porozuměním vztahů mezi slovy a kontextem v zpracování přirozeného jazyka."
 ---
-
 ## Definition
 
 Jde nad syntaktickou strukturu k interpretaci skutečného záměru a významu vstupů jazyka. To zahrnuje rozlišování významu slov na základě kontextu, identifikaci entit a pochopení

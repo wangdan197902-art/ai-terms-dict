@@ -1,23 +1,24 @@
 ---
-title: "Inception Score"
-term_id: "inception_score"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "generative_models", "metrics"]
+title: Inception Score
+term_id: inception_score
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Generative Models
+- metrics
 difficulty: 3
 weight: 1
-slug: "inception_score"
-aliases:
-  - /cs/terms/inception_score/
-date: "2026-07-18T16:02:40.145817Z"
-lastmod: "2026-07-18T17:15:09.141728Z"
+slug: inception_score
+date: '2026-07-18T16:02:40.145817Z'
+lastmod: '2026-07-18T17:15:09.141728Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metrika používaná k hodnocení kvality generovaných obrázků měřením jejich jasnosti a rozmanitosti."
+source: agnes_llm
+status: published
+language: cs
+description: Metrika používaná k hodnocení kvality generovaných obrázků měřením jejich
+  jasnosti a rozmanitosti.
 ---
-
 ## Definition
 
 Inception Score (IS) je statistické míra zavedená pro posouzení výkonu generativních adversariálních sítí (GAN) a dalších generativních modelů. Kombinuje dva faktory: kvalitu obrázku (jasnost) a rozmanitost generovaných dat.

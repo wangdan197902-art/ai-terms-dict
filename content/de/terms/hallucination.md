@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /de/terms/hallucination/
 date: "2026-07-18T07:41:20.132441Z"
 lastmod: "2026-07-18T11:44:44.584616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Wenn ein KI-Modell vertrauenswürdige, aber faktisch falsche oder unsinnige Informationen generiert."
 ---
-
 ## Definition
 
 Halluzinationen treten auf, wenn generative KI-Modelle Ausgaben erzeugen, die plausibel erscheinen, aber keine Grundlage in der Realität oder den Quelldaten haben. Dies stellt eine erhebliche Herausforderung in Anwendungen dar, die hohe Genauigkeit erfordern...

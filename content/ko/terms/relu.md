@@ -1,23 +1,23 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /ko/terms/relu/
-date: "2026-07-18T15:36:05.902118Z"
-lastmod: "2026-07-18T16:38:06.799425Z"
+slug: relu
+date: '2026-07-18T15:36:05.902118Z'
+lastmod: '2026-07-18T16:38:06.799425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Rectified Linear Unit는 양수인 경우 입력을 그대로 출력하고, 그렇지 않으면 0을 출력하는 활성화 함수입니다."
+source: agnes_llm
+status: published
+language: ko
+description: Rectified Linear Unit는 양수인 경우 입력을 그대로 출력하고, 그렇지 않으면 0을 출력하는 활성화 함수입니다.
 ---
-
 ## Definition
 
 ReLU는 계산 효율성이 뛰어나고 기울기 소실 문제를 완화할 수 있어 딥러닝 신경망에서 널리 사용됩니다. 수학적으로 f(x) = max(0, x)로 정의되며, 이는 입력이 0보다 작을 때 출력을 0으로 클리핑(cropping)하고 양수일 때는 입력값을 그대로 전달하는(piecewise linear) 특성을 가집니다.

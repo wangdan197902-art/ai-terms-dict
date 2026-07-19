@@ -1,23 +1,24 @@
 ---
-title: "Nyelvi/cselekvési szemlélet"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Nyelvi/cselekvési szemlélet
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /hu/terms/languageaction_perspective/
-date: "2026-07-18T16:09:44.820249Z"
-lastmod: "2026-07-18T17:15:09.801199Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:09:44.820249Z'
+lastmod: '2026-07-18T17:15:09.801199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy elméleti keretrendszer, amely a nyelvet elsősorban társadalmi cselekvés formájaként, nem pedig pusztán a valóság leírásának rendszereként kezeli."
+source: agnes_llm
+status: published
+language: hu
+description: Egy elméleti keretrendszer, amely a nyelvet elsősorban társadalmi cselekvés
+  formájaként, nem pedig pusztán a valóság leírásának rendszereként kezeli.
 ---
-
 ## Definition
 
 A beszédcselelet-elméleten és a pragmatikán alapuló szemlélet hangsúlyozza, hogyan végrehajtanak funkciókat a kiejtett mondatok, például kérést, ígéretet vagy parancsot. A Természetes Nyelvfeldolgozásban (NLP) ez a megközelítés segít a szándékok értelmezésében és a kommunikációs kontextus kezelésében.

@@ -1,23 +1,24 @@
 ---
-title: "Propagarea Înapoi"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: Propagarea Înapoi
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /ro/terms/backpropagation/
-date: "2026-07-18T15:22:41.195118Z"
-lastmod: "2026-07-18T17:15:09.587242Z"
+slug: backpropagation
+date: '2026-07-18T15:22:41.195118Z'
+lastmod: '2026-07-18T17:15:09.587242Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un algoritm larg utilizat pentru antrenarea rețelelor neuronale prin calcularea gradientilor pentru minimizarea erorii."
+source: agnes_llm
+status: published
+language: ro
+description: Un algoritm larg utilizat pentru antrenarea rețelelor neuronale prin
+  calcularea gradientilor pentru minimizarea erorii.
 ---
-
 ## Definition
 
 Propagarea înapoi (backpropagation), prescurtare de la propagarea înapoi a erorilor, este o metodă utilizată în rețelele neuronale artificiale pentru a calcula gradientul funcției de pierdere în raport cu ponderile. Funcționează prin propagarea

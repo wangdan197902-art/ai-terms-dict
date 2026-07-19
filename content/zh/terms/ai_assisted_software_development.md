@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /zh/terms/ai_assisted_software_development/
 date: "2026-07-18T11:03:30.831589Z"
 lastmod: "2026-07-18T11:44:45.436585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "利用AI工具提高编码、调试、测试和设计过程中的生产力。"
 ---
-
 ## Definition
 
 AI辅助软件开发涉及利用机器学习模型来支持开发人员编写代码、识别错误、生成测试用例并优化性能。诸如GitHub Copilot之类的工具便是典型代表。

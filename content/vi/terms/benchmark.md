@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /vi/terms/benchmark/
 date: "2026-07-18T15:23:44.715886Z"
 lastmod: "2026-07-18T16:38:07.680764Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một điểm tham chiếu hoặc chỉ số tiêu chuẩn được sử dụng để đánh giá hiệu suất của các mô hình AI so với các mức cơ sở đã được thiết lập."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, một điểm chuẩn là một bộ bài kiểm tra hoặc tập dữ liệu chuẩn hóa, được thiết kế để đo lường khả năng của các mô hình học máy. Nó cung cấp một khung nhất quán để so sánh hiệu suất giữa các mô hình khác nhau.

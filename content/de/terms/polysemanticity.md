@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /de/terms/polysemanticity/
 date: "2026-07-18T11:27:47.612403Z"
 lastmod: "2026-07-18T11:44:44.975867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Phänomen, bei dem einzelne Neuronen in neuronalen Netzen auf mehrere unterschiedliche Konzepte reagieren."
 ---
-
 ## Definition
 
 Polysemantizität ist eine Eigenschaft, die in tiefen neuronalen Netzen beobachtet wird, insbesondere in Transformern. Dabei kann ein einzelnes Neuron als Reaktion auf mehrere unzusammenhängende oder semantisch verschiedene Merkmale aktiviert werden.

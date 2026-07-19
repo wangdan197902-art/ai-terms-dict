@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /tr/terms/deepseek_v3/
 date: "2026-07-18T15:49:19.413263Z"
 lastmod: "2026-07-18T16:38:07.296941Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "DeepSeek V3, eğitim maliyetlerini önemli ölçüde düşürerek en iyi performansı elde eden son derece verimli bir Uzmanlar Karışımı (MoE) dil modelidir."
 ---
-
 ## Definition
 
 DeepSeek V3, çıkarım sırasında yalnızca parametrelerin küçük bir alt kümesini yoğun olarak etkinleştiren Uzmanlar Karışımı yönlendirmesi ile karakterize edilen DeepSeek model ailesinde gelişmiş bir iterasyondur. Bu mimari

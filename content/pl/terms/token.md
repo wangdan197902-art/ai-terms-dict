@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /pl/terms/token/
 date: "2026-07-18T15:30:43.129464Z"
 lastmod: "2026-07-18T17:15:08.822965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Token to dyskretna jednostka tekstu lub danych, która stanowi podstawowy element wejściowy dla modeli przetwarzania języka naturalnego."
 ---
-
 ## Definition
 
 Tokeny są fundamentalnymi blokami konstrukcyjnymi danych wejściowych w NLP, reprezentującymi zazwyczaj słowa, podwyrazy lub znaki. Duże Modele Językowe (LLM) przetwarzają tekst, konwertując go na tokeny, które są następnie mapowane na wektory w przestrzeni embeddingowej.

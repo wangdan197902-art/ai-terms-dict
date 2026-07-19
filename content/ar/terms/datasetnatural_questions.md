@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /ar/terms/datasetnatural_questions/
 date: "2026-07-18T15:52:18.415380Z"
 lastmod: "2026-07-18T17:15:08.492697Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مجموعة بيانات واسعة النطاق للإجابة على الأسئلة في المجال المفتوح، وتتميز باستعلامات المستخدمين الحقيقية من بحث Google مقترنة بمقتطفات ويكيبيديا المُعلّمة كإجابات."
 ---
-
 ## Definition
 
 تُعد Natural Questions (NQ) مجموعة بيانات معيارية قدمتها جوجل لتقدم أبحاث الإجابة على الأسئلة في المجال المفتوح. تربط استعلامات البحث الحقيقية والمجهولة المصدر من جوجل بإجابات طويلة المدى...

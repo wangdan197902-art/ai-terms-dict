@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /da/terms/csm/
 date: "2026-07-18T15:48:39.243342Z"
 lastmod: "2026-07-18T17:15:09.272934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et tvetydigt akronym, der typisk refererer til Contextual Speech Models eller Cloud Security Management i specifikke tekniske domæner uden en universel standarddefinition inden for generel AI."
 ---
-
 ## Definition
 
 I konteksten af AI og teknologi er 'CSM' ikke et universelt standardiseret begreb som 'CNN' eller 'RNN'. Det står oftest for Contextual Speech Models inden for talebehandlingsforskning, hvilket refererer til...

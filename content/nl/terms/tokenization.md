@@ -7,8 +7,6 @@ tags: ["NLP", "preprocessing"]
 difficulty: 3
 weight: 1
 slug: "tokenization"
-aliases:
-  - /nl/terms/tokenization/
 date: "2026-07-18T15:30:41.997433Z"
 lastmod: "2026-07-18T17:15:08.695279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Tokenisatie is het proces van het splitsen van ruwe tekst in kleinere eenheden genaamd tokens, die door machine learning-algoritmen kunnen worden verwerkt."
 ---
-
 ## Definition
 
 Tokenisatie is een kritieke stap in de voorbewerking van Natural Language Processing (NLP) die ongestructureerde tekst omzet in gestructureerde gegevens die geschikt zijn voor modelinvoer. Het houdt in dat zinnen en alinea's worden opgesplitst in betekenisvolle eenheden, waardoor computers tekst kunnen begrijpen en analyseren binnen de beperkingen van hun architectuur.

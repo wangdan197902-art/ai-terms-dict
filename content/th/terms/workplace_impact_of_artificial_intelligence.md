@@ -1,23 +1,23 @@
 ---
-title: "ผลกระทบของปัญญาประดิษฐ์ต่องาน (Workplace impact of artificial intelligence)"
-term_id: "workplace_impact_of_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["societal_impact", "hr", "business_strategy"]
+title: ผลกระทบของปัญญาประดิษฐ์ต่องาน (Workplace impact of artificial intelligence)
+term_id: workplace_impact_of_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Societal Impact
+- hr
+- Business Strategy
 difficulty: 2
 weight: 1
-slug: "workplace_impact_of_artificial_intelligence"
-aliases:
-  - /th/terms/workplace_impact_of_artificial_intelligence/
-date: "2026-07-18T16:20:32.977713Z"
-lastmod: "2026-07-18T16:38:07.667846Z"
+slug: workplace_impact_of_artificial_intelligence
+date: '2026-07-18T16:20:32.977713Z'
+lastmod: '2026-07-18T16:38:07.667846Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ผลกระทบของเทคโนโลยี AI ต่อโครงสร้างการจ้างงาน บทบาทของงาน ผลิตภาพ และความร่วมมือระหว่างมนุษย์กับเครื่องในสภาพแวดล้อมการทำงาน"
+source: agnes_llm
+status: published
+language: th
+description: ผลกระทบของเทคโนโลยี AI ต่อโครงสร้างการจ้างงาน บทบาทของงาน ผลิตภาพ และความร่วมมือระหว่างมนุษย์กับเครื่องในสภาพแวดล้อมการทำงาน
 ---
-
 ## Definition
 
 แนวคิดนี้ครอบคลุมถึงการเปลี่ยนแปลงที่ AI มีต่อตลาดแรงงาน รวมถึงการทำให้งาน Routine อัตโนมัติ การสร้างหมวดหมู่อาชีพใหม่ และการเปลี่ยนแปลงทักษะที่ต้องการ AI ช่วยเพิ่มผลิตภาพโดยรวมและเปลี่ยนลักษณะการทำงานให้มุ่งเน้นความคิดสร้างสรรค์และการแก้ปัญหาที่ซับซ้อนมากขึ้น

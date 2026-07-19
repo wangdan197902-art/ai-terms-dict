@@ -1,23 +1,24 @@
 ---
-title: "Dopuszczalna heurystyka"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: Dopuszczalna heurystyka
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /pl/terms/admissible_heuristic/
-date: "2026-07-18T15:39:01.340426Z"
-lastmod: "2026-07-18T17:15:08.842417Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:39:01.340426Z'
+lastmod: '2026-07-18T17:15:08.842417Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Funkcja heurystyczna w algorytmach wyszukiwania, która nigdy nie przeszacowuje prawdziwego kosztu dotarcia do celu, zapewniając optymalność."
+source: agnes_llm
+status: published
+language: pl
+description: Funkcja heurystyczna w algorytmach wyszukiwania, która nigdy nie przeszacowuje
+  prawdziwego kosztu dotarcia do celu, zapewniając optymalność.
 ---
-
 ## Definition
 
 W problemach znajdowania ścieżki i wyszukiwania dopuszczalna heurystyka dostarcza dolnego ograniczenia rzeczywistego kosztu dotarcia do docelowego węzła. Gwarantując, że oszacowany koszt jest zawsze mniejszy lub równy rzeczywistemu kosztowi,

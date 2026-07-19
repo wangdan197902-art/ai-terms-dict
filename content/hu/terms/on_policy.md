@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /hu/terms/on_policy/
 date: "2026-07-18T15:35:57.639829Z"
 lastmod: "2026-07-18T17:15:09.736418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy megerősítéses tanuló megközelítés, ahol az értéelt és fejlesztett politika ugyanaz, mint amelyiket az adatok generálásához használnak."
 ---
-
 ## Definition
 
 Az on-policy algoritmusok azt követelik meg, hogy az ügynök közvetlenül a jelenlegi politikája által tett cselekvésekből tanuljon. Ez azt jelenti, hogy a felfedezés során gyűjtött adatokat azonnal felhasználják a politika frissítésére, biztosítva az adatok konzisztenciáját.

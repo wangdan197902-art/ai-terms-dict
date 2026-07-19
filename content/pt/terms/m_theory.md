@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /pt/terms/m_theory/
 date: "2026-07-18T15:09:15.949963Z"
 lastmod: "2026-07-18T15:51:59.509565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A Teoria-M é um arcabouço teórico na física que unifica cinco versões diferentes da teoria das cordas, propondo que as partículas fundamentais são vibrações de membranas unidimensionais em onze dimens"
 ---
-
 ## Definition
 
 Embora seja principalmente um conceito da física teórica, e não da ciência da computação, a Teoria-M é ocasionalmente referenciada em simulações computacionais avançadas e pesquisas em computação quântica. Ela sugere que

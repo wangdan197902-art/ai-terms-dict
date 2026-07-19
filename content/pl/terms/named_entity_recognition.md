@@ -1,23 +1,24 @@
 ---
-title: "Rozpoznawanie encji nazwanych"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: Rozpoznawanie encji nazwanych
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /pl/terms/named_entity_recognition/
-date: "2026-07-18T15:36:13.592494Z"
-lastmod: "2026-07-18T17:15:08.834634Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:36:13.592494Z'
+lastmod: '2026-07-18T17:15:08.834634Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Zadanie przetwarzania języka naturalnego polegające na identyfikacji i klasyfikacji kluczowych jednostek informacyjnych do predefiniowanych kategorii."
+source: agnes_llm
+status: published
+language: pl
+description: Zadanie przetwarzania języka naturalnego polegające na identyfikacji
+  i klasyfikacji kluczowych jednostek informacyjnych do predefiniowanych kategorii.
 ---
-
 ## Definition
 
 Rozpoznawanie encji nazwanych (NER) to podzadanie ekstrakcji informacji, które lokalizuje i klasyfikuje encje nazwane w tekście do wcześniej zdefiniowanych kategorii, takich jak imiona i nazwiska osób, organizacje, lokalizacje, daty czy wartości pieniężne.

@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /th/terms/nature_machine_intelligence/
 date: "2026-07-18T16:07:10.559296Z"
 lastmod: "2026-07-18T16:38:07.635703Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "วารสารวิทยาศาสตร์ที่มีการทบทวนโดยผู้เชี่ยวชาญ (peer-reviewed) ที่ตีพิมพ์โดย Springer Nature มุ่งเน้นไปที่งานวิจัยข้ามสาขาในสาขาปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 Nature Machine Intelligence เป็นวารสารวิชาการที่มีผลกระทบสูงซึ่งอุทิศตนสำหรับการตีพิมพ์งานวิจัยต้นฉบับในทุกแง่มุมของปัญญาประดิษฐ์ ครอบคลุมหัวข้อตั้งแต่อัลกอริทึมพื้นฐานไปจนถึง

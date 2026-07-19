@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /no/terms/data_exploration/
 date: "2026-07-18T15:48:47.363330Z"
 lastmod: "2026-07-18T16:38:06.986670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den innledende analysen av datasett for å oppdage mønstre, finne anomalier og teste hypoteser før formell modellering."
 ---
-
 ## Definition
 
 Datautforskning, ofte referert til som utforskende dataanalyse (EDA), er et kritisk forberedende steg i maskinlæringsarbeidsflyter. Det involverer å oppsummere hovedegenskapene ved data, ofte ved hjelp av visualiseringsteknikker og statistiske metoder for å få en dypere forståelse av underliggende strukturer.

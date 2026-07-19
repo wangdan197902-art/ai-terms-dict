@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /ro/terms/react/
 date: "2026-07-18T15:37:49.357719Z"
 lastmod: "2026-07-18T17:15:09.617871Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "ReAct este un paradigmă de promptare care combină raționamentul și acțiunea pentru a îmbunătăți performanța modelelor lingvistice mari pe sarcini complexe."
 ---
-
 ## Definition
 
 Framework-ul ReAct permite modelelor lingvistice mari (LLM) să genereze atât urme de raționament, cât și acțiuni specifice sarcinii într-o manieră intercalată. Prin simularea proceselor de gândire similare celor umane, acesta permite modelelor să interacționeze cu mediile externe și să corecteze erorile pe măsură ce avansează.

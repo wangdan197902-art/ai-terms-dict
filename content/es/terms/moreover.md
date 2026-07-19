@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /es/terms/moreover/
 date: "2026-07-18T10:24:50.917287Z"
 lastmod: "2026-07-18T11:44:44.745751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un adverbio de transición utilizado para introducir información adicional o reforzar un argumento previo."
 ---
-
 ## Definition
 
 En el contexto de la documentación de IA y la escritura técnica, 'Además' funciona como un marcador discursivo que señala la adición de evidencia de apoyo o un punto adicional que fortalece el discurso actual.

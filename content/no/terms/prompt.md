@@ -1,23 +1,24 @@
 ---
-title: "Oppfordring"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Oppfordring
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /no/terms/prompt/
-date: "2026-07-18T15:29:01.492249Z"
-lastmod: "2026-07-18T16:38:06.944210Z"
+slug: prompt
+date: '2026-07-18T15:29:01.492249Z'
+lastmod: '2026-07-18T16:38:06.944210Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En tekst eller instruksjon gitt til en generativ AI-modell for å fremkalle et spesifikt svar eller oppførsel."
+source: agnes_llm
+status: published
+language: 'no'
+description: En tekst eller instruksjon gitt til en generativ AI-modell for å fremkalle
+  et spesifikt svar eller oppførsel.
 ---
-
 ## Definition
 
 En oppfordring fungerer som hovedgrensesnittet for interaksjon med store språkmodeller og andre generative AI-systemer. Den definerer konteksten, tonen og begrensningene for modellens utdata. En effektiv opp-

@@ -1,23 +1,24 @@
 ---
-title: "Náhradní model"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Náhradní model
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /cs/terms/surrogate_model/
-date: "2026-07-18T16:19:25.746086Z"
-lastmod: "2026-07-18T17:15:09.204644Z"
+slug: surrogate_model
+date: '2026-07-18T16:19:25.746086Z'
+lastmod: '2026-07-18T17:15:09.204644Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Zjednodušený matematický model používaný k aproximaci chování složitějšího, výpočetně náročnějšího nebo nepřístupného modelu černé skříňky."
+source: agnes_llm
+status: published
+language: cs
+description: Zjednodušený matematický model používaný k aproximaci chování složitějšího,
+  výpočetně náročnějšího nebo nepřístupného modelu černé skříňky.
 ---
-
 ## Definition
 
 V strojovém učení a optimalizaci slouží náhradní model jako zástupce cílové funkce, kterou je obtížné vyhodnocovat přímo. Je trénován na párech vstup-výstup z původního modelu, aby umožnil efektivnější

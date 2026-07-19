@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /ar/terms/artificial_reproduction/
 date: "2026-07-18T15:44:57.141365Z"
 lastmod: "2026-07-18T17:15:08.477652Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "استخدام التكنولوجيا الحيوية والذكاء الاصطناعي للمساعدة في عمليات التكاثر البيولوجي أو محاكاتها، غالبًا في الطب أو الزراعة."
 ---
-
 ## Definition
 
 يشمل التكاثر الاصطناعي التقنيات التي تسهل أو تحاكي التكاثر البيولوجي دون علاقة جنسية مباشرة، مستفيدًا بشكل كبير من التكنولوجيا وبشكل متزايد من الذكاء الاصطناعي للتحسين

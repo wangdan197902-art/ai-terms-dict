@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /pt/terms/structural/
 date: "2026-07-18T14:39:48.141765Z"
 lastmod: "2026-07-18T15:51:59.439982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Relativo à organização subjacente, arquitetura ou disposição dos componentes dentro de um sistema."
 ---
-
 ## Definition
 
 Aspectos estruturais definem como os dados ou as camadas de uma rede neural são organizados. Em redes neurais gráficas, a estrutura refere-se às conexões entre nós; no aprendizado profundo, refere-se à topologia das camadas. Compreender

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /he/terms/ai_ethics/
 date: "2026-07-18T15:35:26.658043Z"
 lastmod: "2026-07-18T17:15:09.496117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "לימודן של שאלות מוסריות והשלכות הנובעות מפיתוח ויישום של מערכות בינה מלאכותית."
 ---
-
 ## Definition
 
 אתיקה של בינה מלאכותית כוללת את מסגרת העקרונות והתקנים המיועדים להבטיח שטכנולוגיות בינה מלאכותית יפותחו ויופעלו באחריות. היא מטפלת בדאגות קריטיות כמו...

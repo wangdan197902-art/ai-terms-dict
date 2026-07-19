@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /pl/terms/fon/
 date: "2026-07-18T15:55:32.432146Z"
 lastmod: "2026-07-18T17:15:08.874543Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Fon odnosi się do zasadniczych zasad i teoretycznych podstaw kierujących projektowaniem i działaniem systemów sztucznej inteligencji."
 ---
-
 ## Definition
 
 W kontekście terminologii AI 'Fon' jest często używany do opisania rdzeniowej ontologii funkcjonalnej lub struktur logiki podstawowej, które definiują, jak model AI interpretuje dane wejściowe i generuje wyniki. Stanowi to fundamenty logiczne i ontologiczne, na których opiera się architektura systemu.

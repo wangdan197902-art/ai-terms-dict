@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /sv/terms/object/
 date: "2026-07-18T15:29:19.763944Z"
 lastmod: "2026-07-18T17:15:08.947760Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En distinkt enhet i ett program som innehåller data och metoder för att manipulera den data, central inom objektorienterad programmering."
 ---
-
 ## Definition
 
 Ett objekt är ett grundläggande begrepp inom datavetenskap, särskilt inom objektorienterad programmering (OOP). Det representerar en instans av en klass och kapslar in både tillstånd (attribut eller data) och beteende (metoder).

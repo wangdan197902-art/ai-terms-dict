@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Stabil Video Diffusion Pipeline"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: Stabil Video Diffusion Pipeline'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /ro/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:55:01.750735Z"
-lastmod: "2026-07-18T17:15:09.649469Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:55:01.750735Z'
+lastmod: '2026-07-18T17:15:09.649469Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un wrapper de tip pipeline în biblioteca Hugging Face Diffusers care utilizează modelul Stable Video Diffusion pentru a genera videoclipuri din imagini statice."
+source: agnes_llm
+status: published
+language: ro
+description: Un wrapper de tip pipeline în biblioteca Hugging Face Diffusers care
+  utilizează modelul Stable Video Diffusion pentru a genera videoclipuri din imagini
+  statice.
 ---
-
 ## Definition
 
 Acest termen se referă la o implementare specifică în cadrul bibliotecii Hugging Face Diffusers, concepută special pentru generarea de videoclipuri. Aceasta integrează modelul Stable Video Diffusion (SVD), care este un model de difuzie latentă pentru video, permițând transformarea imaginilor fixe în secvențe video coerente.

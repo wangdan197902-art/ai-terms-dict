@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /no/terms/supervised/
 date: "2026-07-18T15:30:21.435355Z"
 lastmod: "2026-07-18T16:38:06.947590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et maskinlæringsparadigme der modeller trenes på merkede input-output-par."
 ---
-
 ## Definition
 
 Overvåket læring innebærer å mate en algoritme med data som inneholder både inndata og korrekte svar (etiketter). Modellen lærer å avbilde inndata til utdata ved å minimere prediksjonsfeil. Denne teknikken er grunnleggende.

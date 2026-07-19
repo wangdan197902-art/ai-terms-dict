@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /ja/terms/vehicle/
 date: "2026-07-18T10:56:06.895500Z"
 lastmod: "2026-07-18T11:44:45.022836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIの文脈において、ビークルとは、AIモデルがエンドユーザーに展開または提供されるプラットフォームまたは媒体を指すことが多い。"
 ---
-
 ## Definition
 
 伝統的には輸送手段を意味しますが、AI用語では、「ビークル」はモバイルアプリ、Webインターフェース、または組み込みシステムなどのインテリジェントサービスの配信メカニズムを比喩的に記述するために使用されることがあります。

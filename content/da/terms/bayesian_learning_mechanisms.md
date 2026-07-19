@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /da/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:43:37.459314Z"
 lastmod: "2026-07-18T17:15:09.264360Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Læringsparadigmer, der behandler modelparametre som stokastiske variable med sandsynlighedsfordelinger frem for faste værdier."
 ---
-
 ## Definition
 
 Bayesiske læringsmekanismer opdaterer troen på modelparametre ved hjælp af Bayes' sætning, hvilket kombinerer viden på forhånd med observerede data for at danne en posterior-fordeling. I modsætning til frekventistiske tilgange

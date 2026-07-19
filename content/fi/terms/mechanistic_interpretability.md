@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /fi/terms/mechanistic_interpretability/
 date: "2026-07-18T16:10:27.548964Z"
 lastmod: "2026-07-18T17:15:09.433555Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Lähestymistapa ymmärtää tekoälymalleja analysoimalla niiden sisäisiä komponentteja ja mekanismeja sen sijaan, että tarkasteltaisiin vain syöte-lähtö-käyttäytymistä."
 ---
-
 ## Definition
 
 Mekaaninen tulkittavuus keskittyy neuroverkkojen takaisinsuunnitteluun ymmärtääkseen, miten ne laskevat tiettyjä funktioita yksittäisten neuronien, painojen ja piirien tasolla. Sen sijaan, että mallia käsiteltäisi mustana laatikkona, pyritään selvittämään sen sisäinen logiikka ja toimintaperiaatteet läpinäkyvästi.

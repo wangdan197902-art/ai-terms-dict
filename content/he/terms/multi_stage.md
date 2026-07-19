@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /he/terms/multi_stage/
 date: "2026-07-18T15:33:21.207797Z"
 lastmod: "2026-07-18T17:15:09.493654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "עיצוב תהליך המחלק משימה מורכבת לפאזות נפרדות ורציפות, כאשר לכל פאזה יש יעדים ופלטות ספציפיים."
 ---
-
 ## Definition
 
 גישות רב-שלביות מפרקות זרימות עבודה מורכבות לחלקים ניתנים לניהול, המאפשרים עיבוד ממוקד בכל שלב. גישה זו משפרת את השליטה, האיתור והתיקון באגים, ואת אופטימיזציית הביצועים.

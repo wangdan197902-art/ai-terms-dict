@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /cs/terms/embodied_cognitive_science/
 date: "2026-07-18T15:55:33.650849Z"
 lastmod: "2026-07-18T17:15:09.125877Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vtělená kognitivní věda je teoretický rámec navrhuující, že lidská kognice je zásadně formována interakcí těla s prostředím."
 ---
-
 ## Definition
 
 Toto obor zpochybňuje tradiční pohledy, které považují mysl za počítač zpracovávající abstraktní symboly. Místo toho tvrdí, že kognitivní procesy jsou hluboce zakořeněny ve fyzických vlastnostech těla a jeho působení ve světě.

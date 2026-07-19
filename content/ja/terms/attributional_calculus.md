@@ -1,23 +1,23 @@
 ---
-title: "帰属計算論"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: 帰属計算論
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /ja/terms/attributional_calculus/
-date: "2026-07-18T11:04:47.286591Z"
-lastmod: "2026-07-18T11:44:45.069942Z"
+slug: attributional_calculus
+date: '2026-07-18T11:04:47.286591Z'
+lastmod: '2026-07-18T11:44:45.069942Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "誰が何を知らされているか、または信じているかという知識の帰属について表現および推論するために使用される形式論理システム。"
+source: agnes_llm
+status: published
+language: ja
+description: 誰が何を知らされているか、または信じているかという知識の帰属について表現および推論するために使用される形式論理システム。
 ---
-
 ## Definition
 
 帰属計算論は、認識状態に関する推論に焦点を当てた様相論理の一分野です。「エージェントAはPを知っている」や「エージェントBはQを信じている」といった文をモデル化するための枠組みを提供します。

@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /sv/terms/context_window/
 date: "2026-07-18T15:22:41.273927Z"
 lastmod: "2026-07-18T17:15:08.935885Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den maximala mängden text eller token som en språkmodell kan bearbeta och beakta samtidigt under inferens eller träning."
 ---
-
 ## Definition
 
 Kontextfönstret definierar den operativa gränsen för en AI-modells minne för en enskild interaktion. Det avgör hur mycket tidigare konversationshistorik, dokumenttext eller indata modellen kan ta hänsyn till i sitt svar.

@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /zh/terms/moral_outsourcing/
 date: "2026-07-18T11:26:37.042808Z"
 lastmod: "2026-07-18T11:44:45.533694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "个人或组织将道德决策责任委托给自动化人工智能系统所带来的伦理关切。"
 ---
-
 ## Definition
 
 道德外包是指人类将伦理判断和责任让渡给算法或人工智能系统的现象。当人们依赖自动化决策来处理具有重大道德意义的事务时，就会发生这种情况。

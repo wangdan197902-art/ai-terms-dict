@@ -1,23 +1,24 @@
 ---
-title: "Identifisering av morsmål"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identifisering av morsmål
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /no/terms/native_language_identification/
-date: "2026-07-18T16:08:30.775268Z"
-lastmod: "2026-07-18T16:38:07.028235Z"
+slug: native_language_identification
+date: '2026-07-18T16:08:30.775268Z'
+lastmod: '2026-07-18T16:38:07.028235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med automatisk å fastslå en talers morsmål basert på tale- eller tekstprøver."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med automatisk å fastslå en talers morsmål basert på tale-
+  eller tekstprøver.
 ---
-
 ## Definition
 
 Identifisering av morsmål (NLI) er et underfelt innen naturlig språkbehandling som fokuserer på å gjenkjenne det første språket en person har lært. I motsetning til generell språkdeteksjon, analyserer NLI

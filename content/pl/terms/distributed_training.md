@@ -1,23 +1,24 @@
 ---
-title: "Rozproszone szkolenie"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Rozproszone szkolenie
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /pl/terms/distributed_training/
-date: "2026-07-18T15:34:47.637895Z"
-lastmod: "2026-07-18T17:15:08.831109Z"
+slug: distributed_training
+date: '2026-07-18T15:34:47.637895Z'
+lastmod: '2026-07-18T17:15:08.831109Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Metoda trenowania modeli uczenia maszynowego poprzez podział danych lub obliczeń między wiele urządzeń lub serwerów."
+source: agnes_llm
+status: published
+language: pl
+description: Metoda trenowania modeli uczenia maszynowego poprzez podział danych lub
+  obliczeń między wiele urządzeń lub serwerów.
 ---
-
 ## Definition
 
 Rozproszone szkolenie przyspiesza zbieżność modelu poprzez zrównoleglenie obliczeń na wielu kartach GPU lub węzłach. Techniki obejmują równoległość danych, gdzie każdy pracownik przetwarza podzbiór danych, oraz równoległość modelu, gdzie części modelu są rozmieszczone na różnych urządzeniach.

@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /he/terms/muse_spark/
 date: "2026-07-18T16:14:05.190639Z"
 lastmod: "2026-07-18T17:15:09.567729Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסגרת עבודה ללמידה עמוקה מבוזרת הבנויה על גבי Apache Spark המאפשרת אימון מודלים בקנה מידה גדול לאורך אשכולות מחשוב גדולים."
 ---
-
 ## Definition
 
 Muse Spark היא מסגרת עבודה לקידוד פתוח ללמידה עמוקה, המיועדת לפעול ביעילות מעל גבי Apache Spark. היא מאפשרת למפתחים לאמן רשתות נוירונים מורכבות לאורך אשכולות מבוזרים על ידי ניצול

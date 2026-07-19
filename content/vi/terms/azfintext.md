@@ -7,8 +7,6 @@ tags: ["Finance", "Datasets", "Chinese NLP"]
 difficulty: 4
 weight: 1
 slug: "azfintext"
-aliases:
-  - /vi/terms/azfintext/
 date: "2026-07-18T15:38:59.636777Z"
 lastmod: "2026-07-18T16:38:07.723849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "AZFinText là một bộ dữ liệu chuyên biệt được thiết kế cho khai thác văn bản tài chính và phân tích cảm xúc trong bối cảnh tiếng Trung."
 ---
-
 ## Definition
 
 AZFinText là một tập hợp dữ liệu chú thích quy mô lớn, được tuyển chọn đặc biệt cho phân tích văn bản tài chính tiếng Trung. Nó bao gồm các bài báo tin tức, báo cáo và bài đăng trên mạng xã hội được gắn nhãn với cảm xúc tài chính và các yếu tố kinh tế liên quan.

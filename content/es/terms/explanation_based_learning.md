@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /es/terms/explanation_based_learning/
 date: "2026-07-18T10:48:51.151362Z"
 lastmod: "2026-07-18T11:44:44.804514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El aprendizaje basado en explicaciones es un método de aprendizaje automático que utiliza una teoría del dominio y un único ejemplo de entrenamiento para generar una explicación, la cual luego se gene"
 ---
-
 ## Definition
 
 El EBL combina el razonamiento simbólico con el aprendizaje automático para acelerar el proceso de aprendizaje. En lugar de depender de grandes conjuntos de datos, toma un único ejemplo positivo y utiliza una teoría del dominio preexistente para generalizar el conocimiento.

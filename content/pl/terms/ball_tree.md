@@ -1,23 +1,24 @@
 ---
-title: "Drzewo kulkowe"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Drzewo kulkowe
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /pl/terms/ball_tree/
-date: "2026-07-18T15:42:35.487284Z"
-lastmod: "2026-07-18T17:15:08.849347Z"
+slug: ball_tree
+date: '2026-07-18T15:42:35.487284Z'
+lastmod: '2026-07-18T17:15:08.849347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Binarna struktura danych służąca do organizowania punktów w przestrzeni, optymalizująca wyszukiwanie najbliższych sąsiadów w wysokowymiarowych zbiorach danych."
+source: agnes_llm
+status: published
+language: pl
+description: Binarna struktura danych służąca do organizowania punktów w przestrzeni,
+  optymalizująca wyszukiwanie najbliższych sąsiadów w wysokowymiarowych zbiorach danych.
 ---
-
 ## Definition
 
 Drzewo kulkowe dzieli punkty danych na zagnieżdżone nadkule (kulki) zamiast hiperprostopadłościanów. Ta struktura pozwala na efektywne przycinanie podczas zapytań o najbliższych sąsiadów poprzez obliczanie odległości między kulkami.

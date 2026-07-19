@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /ar/terms/qlora/
-date: "2026-07-18T15:38:09.821447Z"
-lastmod: "2026-07-18T17:15:08.464699Z"
+slug: qlora
+date: '2026-07-18T15:38:09.821447Z'
+lastmod: '2026-07-18T17:15:08.464699Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التكيف منخفض الرتبة المُكمَّم، وهي طريقة لضبط نماذج اللغات الكبيرة بدقة وكفاءة باستخدام التكميم الرباعي البت (4-bit) والمُكيّفات منخفضة الرتبة."
+source: agnes_llm
+status: published
+language: ar
+description: التكيف منخفض الرتبة المُكمَّم، وهي طريقة لضبط نماذج اللغات الكبيرة بدقة
+  وكفاءة باستخدام التكميم الرباعي البت (4-bit) والمُكيّفات منخفضة الرتبة.
 ---
-
 ## Definition
 
 يجمع QLoRA بين التكيف منخفض الرتبة (LoRA) والتكميم بدقة 4 بت لتقليل البصمة الذاكرة المطلوبة لضبط النماذج الضخمة. من خلال تخزين الأوزان بتنسيق 4 بت وإضافة مُكيّفات صغيرة قابلة للتدريب، يتيح QLoRA ضبط النماذج الكبيرة على أجهزة استهلاكية ذات موارد محدودة دون التضحية بالدقة بشكل كبير.

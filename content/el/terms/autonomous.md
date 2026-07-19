@@ -1,23 +1,24 @@
 ---
-title: "Αυτόνομο"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Αυτόνομο
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /el/terms/autonomous/
-date: "2026-07-18T15:23:41.743966Z"
-lastmod: "2026-07-18T17:15:09.840246Z"
+slug: autonomous
+date: '2026-07-18T15:23:41.743966Z'
+lastmod: '2026-07-18T17:15:09.840246Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Περιγράφει συστήματα ικανά να λαμβάνουν αποφάσεις και να δρουν ανεξάρτητα σε δυναμικά περιβάλλοντα."
+source: agnes_llm
+status: published
+language: el
+description: Περιγράφει συστήματα ικανά να λαμβάνουν αποφάσεις και να δρουν ανεξάρτητα
+  σε δυναμικά περιβάλλοντα.
 ---
-
 ## Definition
 
 Η αυτονομία στην Τεχνητή Νοημοσύνη αναφέρεται στην ικανότητα ενός συστήματος να αντιλαμβάνεται το περιβάλλον του, να λαμβάνει αποφάσεις και να εκτελεί ενέργειες χωρίς άμεσο ανθρώπινο έλεγχο. Σε αντίθεση με την απλή αυτοματοποίηση, τα αυτόνομα συστήματα προσαρμόζονται στις μεταβαλλόμενες συνθήκες.

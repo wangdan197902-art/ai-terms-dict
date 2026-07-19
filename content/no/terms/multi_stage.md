@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /no/terms/multi_stage/
 date: "2026-07-18T15:35:13.350081Z"
 lastmod: "2026-07-18T16:38:06.953665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En prosessdesign som deler en kompleks oppgave inn i distinkte, sekvensielle faser, hver med spesifikke mål og resultater."
 ---
-
 ## Definition
 
 Flerstegs-tilnærminger bryter ned intrikate arbeidsflyter til håndterbare segmenter, noe som muliggjør spesialisert prosessering i hvert steg. Denne metoden forbedrer kontroll, feilsøking og ytelsesoptimalisering.

@@ -1,23 +1,24 @@
 ---
-title: "Stable Diffusion"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: Stable Diffusion
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /tr/terms/stable_diffusion/
-date: "2026-07-18T16:15:33.481504Z"
-lastmod: "2026-07-18T16:38:07.368452Z"
+slug: stable_diffusion
+date: '2026-07-18T16:15:33.481504Z'
+lastmod: '2026-07-18T16:38:07.368452Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Metin açıklamalarından yüksek kaliteli görselleri verimli bir şekilde oluşturabilen bir gizli yayılım modelidir."
+source: agnes_llm
+status: published
+language: tr
+description: Metin açıklamalarından yüksek kaliteli görselleri verimli bir şekilde
+  oluşturabilen bir gizli yayılım modelidir.
 ---
-
 ## Definition
 
 Stable Diffusion, metin girdilerine koşullu olarak detaylı görüntüler oluşturan derin öğrenme modelidir. Piksel uzayı yayılım modellerinin aksine, sıkıştırılmış bir gizli uzayda (latent space) çalışır. Bu yaklaşım, hesaplama maliyetlerini önemli ölçüde düşürürken yüksek çözünürlüklü ve gerçekçi görseller üretmeyi mümkün kılar. Model, genellikle bir VAE (Değişken Otomatik Kodlayıcı) ve bir U-Net mimarisini kullanarak çalışır.

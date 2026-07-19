@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /ar/terms/model_compression/
 date: "2026-07-18T16:13:21.574621Z"
 lastmod: "2026-07-18T17:15:08.529100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يشير ضغط النموذج إلى التقنيات التي تقلل من حجم المتطلبات الحسابية لنماذج تعلم الآلة."
 ---
-
 ## Definition
 
 تشمل هذه الفئة طرقاً مثل التقليم، والكمّنة، وتقطيع المعرفة، بهدف تقليص بصمة النموذج مع الحفاظ على الأداء. وهو أمر ضروري لنشر نماذج الذكاء الاصطناعي المعقدة

@@ -1,23 +1,24 @@
 ---
-title: "הוריסטיקה אדמיסיבילית (מותרת)"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: הוריסטיקה אדמיסיבילית (מותרת)
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /he/terms/admissible_heuristic/
-date: "2026-07-18T15:40:56.774217Z"
-lastmod: "2026-07-18T17:15:09.510180Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:40:56.774217Z'
+lastmod: '2026-07-18T17:15:09.510180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פונקציית הוריסטיקה באלגוריתמי חיפוש לעולם לא מנחיתה יתר על המידה את העלות האמיתית להגעה למטרה, ובכך מבטיחה אופטימליות."
+source: agnes_llm
+status: published
+language: he
+description: פונקציית הוריסטיקה באלגוריתמי חיפוש לעולם לא מנחיתה יתר על המידה את העלות
+  האמיתית להגעה למטרה, ובכך מבטיחה אופטימליות.
 ---
-
 ## Definition
 
 בבעיות מציאת מסלול וחיפוש, הוריסטיקה אדמיסיבילית מספקת חסם תחתון לעלות האמיתית להגעה לצומת המטרה. על ידי הבטחה שהעלות המשוערת היא תמיד קטנה או שווה לעלות האמיתית.

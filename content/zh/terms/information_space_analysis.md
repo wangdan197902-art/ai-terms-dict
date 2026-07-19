@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /zh/terms/information_space_analysis/
 date: "2026-07-18T11:22:25.518452Z"
 lastmod: "2026-07-18T11:44:45.517840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "考察数据表示所在空间的几何和拓扑性质。"
 ---
-
 ## Definition
 
 这一概念涉及分析机器学习模型中表示结构的特性。它关注数据点在高维空间中的分布、聚类或分离情况。

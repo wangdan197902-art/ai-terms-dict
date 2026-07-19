@@ -1,23 +1,24 @@
 ---
-title: "Mecanism de Atenție"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Mecanism de Atenție
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /ro/terms/attention_mechanism/
-date: "2026-07-18T15:22:41.195103Z"
-lastmod: "2026-07-18T17:15:09.587142Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:41.195103Z'
+lastmod: '2026-07-18T17:15:09.587142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică care permite rețelelor neuronale să se concentreze pe anumite părți ale datelor de intrare atunci când generează ieșirile."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică care permite rețelelor neuronale să se concentreze pe anumite
+  părți ale datelor de intrare atunci când generează ieșirile.
 ---
-
 ## Definition
 
 Un mecanism de atenție permite unui model să evalueze dinamic importanța diferitelor elemente dintr-o secvență de intrare. În loc să trateze toate datele de intrare în mod egal, acesta atribuie niveluri variate de semnificație

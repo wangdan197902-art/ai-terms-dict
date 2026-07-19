@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /vi/terms/haw/
-date: "2026-07-18T15:56:30.364235Z"
-lastmod: "2026-07-18T16:38:07.764716Z"
+slug: haw
+date: '2026-07-18T15:56:30.364235Z'
+lastmod: '2026-07-18T16:38:07.764716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thán từ thông tục thường dùng trong giao tiếp kỹ thuật số không chính thức, không mang ý nghĩa kỹ thuật cụ thể trong ngữ cảnh AI."
+source: agnes_llm
+status: published
+language: vi
+description: Một thán từ thông tục thường dùng trong giao tiếp kỹ thuật số không chính
+  thức, không mang ý nghĩa kỹ thuật cụ thể trong ngữ cảnh AI.
 ---
-
 ## Definition
 
 Trong ngữ cảnh xử lý ngôn ngữ chung, 'haw' là một tiếng kêu informally hoặc âm thanh do dự. Mặc dù nó không đại diện cho một khái niệm thuật toán cốt lõi trong trí tuệ nhân tạo, các mô hình NLP cần

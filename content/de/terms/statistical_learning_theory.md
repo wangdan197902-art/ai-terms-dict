@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /de/terms/statistical_learning_theory/
 date: "2026-07-18T11:34:51.892054Z"
 lastmod: "2026-07-18T11:44:44.988542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein mathematischer Rahmen, der die theoretische Grundlage für Algorithmen des maschinellen Lernens liefert, indem er deren Verallgemeinerungsfähigkeit analysiert."
 ---
-
 ## Definition
 
 Die statistische Lerntheorie (SLT) ist ein Teilgebiet der Statistik und Informatik, das untersucht, wie spezifische Algorithmen von endlichen Trainingsstichproben auf ungesehene Daten verallgemeinern können. Sie konzentriert sich darauf, Schranken für die

@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /vi/terms/artificial_wisdom/
 date: "2026-07-18T15:41:03.767424Z"
 lastmod: "2026-07-18T16:38:07.729719Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự mở rộng của AI vượt ra ngoài trí thông minh để bao gồm khả năng phán đoán, đạo đức và hiểu biết ngữ cảnh nhằm đưa ra quyết định sáng suốt."
 ---
-
 ## Definition
 
 Trí tuệ nhân tạo (AW - Artificial Wisdom) là một khái niệm mới nổi nhằm tăng cường trí tuệ nhân tạo bằng các giá trị giống con người, cân nhắc đạo đức và khả năng phán đoán chiến lược dài hạn. Trong khi AI tập trung vào hiệu quả...

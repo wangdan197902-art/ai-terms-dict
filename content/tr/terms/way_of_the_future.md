@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /tr/terms/way_of_the_future/
 date: "2026-07-18T16:20:59.586984Z"
 lastmod: "2026-07-18T16:38:07.376995Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bu terim genel olarak teknolojik ilerlemenin öngörülen seyir yönünü, özellikle yapay zekanın günlük hayata ve sanayiye entegrasyonunu ifade eder."
 ---
-
 ## Definition
 
 Katı bir teknik terim olmasa da, 'Geleceğin Yolu'; otonom sistemlere, kişiselleştirilmiş yapay zeka asistanlarına ve otomatik karar verme süreçlerine doğru olan paradigma değişimini tanımlar. Şunları kapsar: ( ... )

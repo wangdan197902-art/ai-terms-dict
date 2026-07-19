@@ -7,8 +7,6 @@ tags: ["Networking", "Protocols", "Real-time"]
 difficulty: 4
 weight: 1
 slug: "websocket"
-aliases:
-  - /vi/terms/websocket/
 date: "2026-07-18T16:16:23.163045Z"
 lastmod: "2026-07-18T16:38:07.816839Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một giao thức cung cấp kênh truyền thông hai chiều đầy đủ qua một kết nối TCP duy nhất để trao đổi dữ liệu theo thời gian thực."
 ---
-
 ## Definition
 
 WebSocket là một giao thức truyền thông máy tính cho phép giao tiếp hai chiều, liên tục giữa máy khách và máy chủ. Khác với HTTP, vốn yêu cầu tạo kết nối mới cho mỗi chu kỳ yêu cầu-phản hồi, WebSocket duy trì một kết nối mở lâu dài. Điều này giảm độ trễ và chi phí xử lý, cho phép máy chủ gửi dữ liệu đến máy khách bất cứ lúc nào mà không cần máy khách phải yêu cầu trước đó, rất phù hợp cho các ứng dụng cần cập nhật tức thì.

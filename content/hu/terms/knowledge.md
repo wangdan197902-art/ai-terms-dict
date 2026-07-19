@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /hu/terms/knowledge/
 date: "2026-07-18T15:27:17.246784Z"
 lastmod: "2026-07-18T17:15:09.722985Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A tudás az információból, tapasztalatból vagy érvelésből származó strukturált megértés, tények, készségek és betekintések összessége, amelyek lehetővé teszik a hatékony döntéshozatalt."
 ---
-
 ## Definition
 
 Az AI-ban a tudás gyakran kifejezett információkra utal, amelyeket adatbázisokban, ontológiákban vagy neurális hálók súlyain tárolnak, és amelyek lehetővé teszik az érvelést és következtetést. A DIKW hierarchiában az információ felett helyezkedik el.

@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /tr/terms/aporia/
 date: "2026-07-18T15:40:51.155198Z"
 lastmod: "2026-07-18T16:38:07.272760Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: ""
 ---
-
 ## Definition
 
 Felsefe ve yapay zeka teorisinde aporia, iki eşit derecede geçerli argümanın çelişkili sonuçlara yol açtığı paradoksal bir durumu tanımlar. Makine öğreniminde, bu durum bir modelin performansında...

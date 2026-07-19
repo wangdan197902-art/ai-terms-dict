@@ -1,23 +1,25 @@
 ---
-title: "Σύνολο Δεδομένων: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 'Σύνολο Δεδομένων: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /el/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:59:22.892242Z"
-lastmod: "2026-07-18T17:15:09.895499Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:59:22.892242Z'
+lastmod: '2026-07-18T17:15:09.895499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια αφαιρεμένη από διπλότυπα έκδοση του συνόλου δεδομένων The Stack, επιμελημένη από τη BigCode για την αφαίρεση σχεδόν διπλότυπων αποσπασμάτων κώδικα για πιο καθαρά δεδομένα εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Μια αφαιρεμένη από διπλότυπα έκδοση του συνόλου δεδομένων The Stack,
+  επιμελημένη από τη BigCode για την αφαίρεση σχεδόν διπλότυπων αποσπασμάτων κώδικα
+  για πιο καθαρά δεδομένα εκπαίδευσης.
 ---
-
 ## Definition
 
 Το The Stack Dedup είναι ένας εξειδικευμένος υποσύνολο του The Stack, μιας τεράστιας αποθήκης ανοιχτού κώδικα. Εφαρμόζει αυστηρές τεχνικές αφαίρεσης διπλοτύπων για να εξαλείψει τα περιττά αποσπάσματα κώδικα που θα μπορούσαν να προκαλέσουν μεροληψία σε μεγάλα μοντέλα γλώσσας.

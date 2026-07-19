@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /en/terms/random/
 date: "2026-07-18T09:36:45.466503Z"
 lastmod: "2026-07-18T11:44:44.605918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The property of lacking a predictable pattern, often simulated in AI through pseudo-random number generation algorithms."
 ---
-
 ## Definition
 
 Randomness is fundamental in AI for initializing model weights, shuffling datasets, and introducing stochasticity during training to prevent overfitting. Since computers are deterministic, AI systems use pseudo-random number generators (PRNGs) seeded with specific values to produce sequences that appear random. Controlling this randomness via seeds ensures reproducibility of experiments and model results.

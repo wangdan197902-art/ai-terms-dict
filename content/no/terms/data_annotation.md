@@ -1,23 +1,24 @@
 ---
-title: "Dataannotering"
-term_id: "data_annotation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "supervised_learning", "data_quality"]
+title: Dataannotering
+term_id: data_annotation
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Supervised Learning
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "data_annotation"
-aliases:
-  - /no/terms/data_annotation/
-date: "2026-07-18T15:48:32.590668Z"
-lastmod: "2026-07-18T16:38:06.986513Z"
+slug: data_annotation
+date: '2026-07-18T15:48:32.590668Z'
+lastmod: '2026-07-18T16:38:06.986513Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Dataannotering er prosessen med å merke rådata, som bilder eller tekst, for å gjøre dem egnet for overvåket maskinlæringstrening."
+source: agnes_llm
+status: published
+language: 'no'
+description: Dataannotering er prosessen med å merke rådata, som bilder eller tekst,
+  for å gjøre dem egnet for overvåket maskinlæringstrening.
 ---
-
 ## Definition
 
 Dette kritiske steget innebærer å knytte meningsfull metadata til rådatapunkter slik at algoritmer kan lære sammenhengen mellom input og output. For eksempel, grenser rundt objekter i bilder

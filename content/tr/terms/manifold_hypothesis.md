@@ -1,23 +1,24 @@
 ---
-title: "Manifold hipotezi"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Manifold hipotezi
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /tr/terms/manifold_hypothesis/
-date: "2026-07-18T16:02:26.152776Z"
-lastmod: "2026-07-18T16:38:07.331972Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:02:26.152776Z'
+lastmod: '2026-07-18T16:38:07.331972Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yüksek boyutlu gerçek dünya verilerinin, daha yüksek boyutlu uzay içinde daha düşük boyutlu bir doğrusal olmayan manifold üzerinde yattığı varsayımı."
+source: agnes_llm
+status: published
+language: tr
+description: Yüksek boyutlu gerçek dünya verilerinin, daha yüksek boyutlu uzay içinde
+  daha düşük boyutlu bir doğrusal olmayan manifold üzerinde yattığı varsayımı.
 ---
-
 ## Definition
 
 Bu hipotez, boyutlanma laneti (curse of dimensionality) rağmen derin öğrenmenin neden etkili çalıştığını açıklar. Görüntüler gibi verilerin milyonlarca boyutta var olsa da, altta yatan yapısal kısıtlamalar nedeniyle düşük boyutlu bir...

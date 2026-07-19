@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /he/terms/ai_observability/
 date: "2026-07-18T15:40:07.097811Z"
 lastmod: "2026-07-18T17:15:09.508154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הפרקטיקה של ניטור והבנת המצב הפנימי של מערכות למידת מכונה באמצעות יומנים, מדדים ועקבות."
 ---
-
 ## Definition
 
 נגישות לבינה מלאכותית מרחיבה את הניטור התוכנה המסורתי כדי להתמודד עם האתגרים הייחודיים של מערכות למידת מכונה. היא כוללת מעקב אחר ביצועי המודל, סטיית נתונים וזמן תגובה בהסקה בזמן אמת.

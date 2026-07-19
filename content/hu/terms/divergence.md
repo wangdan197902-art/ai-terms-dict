@@ -1,23 +1,25 @@
 ---
-title: "Szétszóródás"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Szétszóródás
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /hu/terms/divergence/
-date: "2026-07-18T15:25:32.547461Z"
-lastmod: "2026-07-18T17:15:09.718167Z"
+slug: divergence
+date: '2026-07-18T15:25:32.547461Z'
+lastmod: '2026-07-18T17:15:09.718167Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A szétszóródás a gépi tanuló algoritmus veszteségfüggvényének csökkenésbe nem forduló viselkedését jelenti a tanítás során, ami instabil vagy romló teljesítményhez vezet."
+source: agnes_llm
+status: published
+language: hu
+description: A szétszóródás a gépi tanuló algoritmus veszteségfüggvényének csökkenésbe
+  nem forduló viselkedését jelenti a tanítás során, ami instabil vagy romló teljesítményhez
+  vezet.
 ---
-
 ## Definition
 
 Az optimalizálás kontextusában a szétszóródás akkor következik be, amikor a modell paraméterei úgy frissülnek, hogy a veszteség nő, ahelyett, hogy csökkenne, ami gyakran NaN értékekhez vagy végtelen gradienshez vezet.

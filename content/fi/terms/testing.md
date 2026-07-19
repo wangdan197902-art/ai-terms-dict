@@ -1,23 +1,24 @@
 ---
-title: "Testaus"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testaus
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /fi/terms/testing/
-date: "2026-07-18T15:38:32.320032Z"
-lastmod: "2026-07-18T17:15:09.375700Z"
+slug: testing
+date: '2026-07-18T15:38:32.320032Z'
+lastmod: '2026-07-18T17:15:09.375700Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Systemaattinen prosessi arvioida tekoälymallin suorituskykyä ja luotettavuutta näkemättömällä datalla varmistamaan laatu ja turvallisuus."
+source: agnes_llm
+status: published
+language: fi
+description: Systemaattinen prosessi arvioida tekoälymallin suorituskykyä ja luotettavuutta
+  näkemättömällä datalla varmistamaan laatu ja turvallisuus.
 ---
-
 ## Definition
 
 Tekoälyinsinöörinteessä testaus tarkoittaa mallien rutiininomaista arviointia monipuolisten aineistojen avulla biasien, virheiden ja robustiusongelmien tunnistamiseksi. Se sisältää yksikkötestit koodikomponenteille ja integraatiotestit.

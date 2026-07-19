@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /hu/terms/automated_negotiation/
 date: "2026-07-18T15:46:39.133991Z"
 lastmod: "2026-07-18T17:15:09.757465Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az MI ügynökök használata a tárgyalások autonóm lebonyolítására és megállapodások létrehozására felek között."
 ---
-
 ## Definition
 
 Az automatizált tárgyalás olyan szoftverügynököket foglal magában, amelyek az emberi érdekeket képviselik a alkufolyamatokban. Ezek az ügynökök játékelméleti, optimalizálási algoritmusokat és gépi tanulást használnak ajánlatok tétele és értékelésére...

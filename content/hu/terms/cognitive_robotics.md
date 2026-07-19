@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /hu/terms/cognitive_robotics/
 date: "2026-07-18T15:50:12.606203Z"
 lastmod: "2026-07-18T17:15:09.763044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A kognitív robotika az a terület, amely az emberihez hasonló kognitív képességekkel (pl. érzékelés, érvelés, tanulás) rendelkező robotok létrehozására fókuszál."
 ---
-
 ## Definition
 
 A kognitív robotika integrálja a kognitív tudományt a robotikával, hogy olyan gépeket építsen, amelyek képesek érzékelni a környezetüket, tapasztalatokból tanulni és autonóm döntéseket hozni. Ezek a robotok haladó algoritmusokat és érzékelőket használnak.

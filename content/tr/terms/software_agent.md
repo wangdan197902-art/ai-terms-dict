@@ -1,23 +1,24 @@
 ---
-title: "Yazılım Ajanı"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Yazılım Ajanı
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /tr/terms/software_agent/
-date: "2026-07-18T16:14:27.015271Z"
-lastmod: "2026-07-18T16:38:07.366056Z"
+slug: software_agent
+date: '2026-07-18T16:14:27.015271Z'
+lastmod: '2026-07-18T16:38:07.366056Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kullanıcılar veya diğer programlar adına belirli bir özerklik derecesiyle görev yapan bilgisayar programı."
+source: agnes_llm
+status: published
+language: tr
+description: Kullanıcılar veya diğer programlar adına belirli bir özerklik derecesiyle
+  görev yapan bilgisayar programı.
 ---
-
 ## Definition
 
 Bir yazılım ajanı, çevresini algılayabilen, muhakeme yürütebilen ve belirli hedeflere ulaşmak için eyleyebilen özerk bir varlıktır. Bu ajanlar bağımsız olarak çalışabilir, değişimlere uyum sağlayabilir ve diğer ajanlarla iş birliği yapabilir.

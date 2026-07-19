@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /ja/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T11:15:54.166483Z"
 lastmod: "2026-07-18T11:44:45.100645Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "GAMLSSは、分布のすべてのパラメータを説明変数の関数として、加法平滑化を用いてモデル化できる柔軟な統計的枠組みです。"
 ---
-
 ## Definition
 
 平均のみを対象とする従来の回帰モデルとは異なり、GAMLSSは位置（平均/中央値）、スケール（分散）、歪度、尖度など、分布全体をモデル化します。一般化線形モデルの枠組みを拡張し、複雑なデータ構造の分析に適しています。

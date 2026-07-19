@@ -1,23 +1,25 @@
 ---
-title: "Hierarkis"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Hierarkis
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /id/terms/hierarchical/
-date: "2026-07-18T15:26:24.990548Z"
-lastmod: "2026-07-18T16:38:07.395251Z"
+slug: hierarchical
+date: '2026-07-18T15:26:24.990548Z'
+lastmod: '2026-07-18T16:38:07.395251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Mengacu pada arsitektur atau strategi pembelajaran AI yang diatur ke dalam beberapa tingkat abstraksi, di mana tingkat yang lebih tinggi mengendalikan yang lebih rendah."
+source: agnes_llm
+status: published
+language: id
+description: Mengacu pada arsitektur atau strategi pembelajaran AI yang diatur ke
+  dalam beberapa tingkat abstraksi, di mana tingkat yang lebih tinggi mengendalikan
+  yang lebih rendah.
 ---
-
 ## Definition
 
 Sistem AI hierarkis mengatur informasi atau kendali ke dalam struktur pohon berlapis bersarang. Dalam Pembelajaran Penguatan, RL Hierarkis menguraikan tugas kompleks menjadi sub-tujuan yang dikelola oleh...

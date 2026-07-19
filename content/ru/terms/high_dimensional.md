@@ -1,23 +1,24 @@
 ---
-title: "высокомерный"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: высокомерный
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /ru/terms/high_dimensional/
-date: "2026-07-18T15:31:24.027448Z"
-lastmod: "2026-07-18T16:38:07.095180Z"
+slug: high_dimensional
+date: '2026-07-18T15:31:24.027448Z'
+lastmod: '2026-07-18T16:38:07.095180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Описывает пространства данных с большим количеством признаков или измерений, что часто приводит к разреженности и вычислительным сложностям."
+source: agnes_llm
+status: published
+language: ru
+description: Описывает пространства данных с большим количеством признаков или измерений,
+  что часто приводит к разреженности и вычислительным сложностям.
 ---
-
 ## Definition
 
 Высокомерность относится к наборам данных или векторным пространствам, содержащим огромное количество атрибутов или признаков. В ИИ это часто встречается в текстовых эмбеддингах, пикселях изображений или данных экспрессии генов. Хотя такие данные богаты информацией, они сталкиваются с «проклятием размерности», требующим методов снижения размерности.

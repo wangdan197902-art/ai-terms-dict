@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /th/terms/in_context_learning/
 date: "2026-07-18T15:23:00.632501Z"
 lastmod: "2026-07-18T16:38:07.532106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เทคนิคที่โมเดลเรียนรู้ที่จะทำงานต่างๆ โดยสังเกตจากตัวอย่างที่ให้ไว้ในพรอมต์"
 ---
-
 ## Definition
 
 การเรียนรู้ในบริบท (ICL) ช่วยให้โมเดลภาษาขนาดใหญ่ปรับตัวกับงานใหม่ได้โดยไม่ต้องอัปเดตน้ำหนักของโมเดล โดยการคู่ข้อมูลนำเข้าและผลลัพธ์ภายในบริบทของพรอมต์ โมเดลจะอนุมานรูปแบบและเรียนรู้ที่จะทำงานนั้นๆ ได้ทันที

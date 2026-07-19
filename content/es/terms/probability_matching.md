@@ -1,23 +1,24 @@
 ---
-title: "Emparejamiento de probabilidades"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Emparejamiento de probabilidades
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /es/terms/probability_matching/
-date: "2026-07-18T11:04:45.716905Z"
-lastmod: "2026-07-18T11:44:44.845137Z"
+slug: probability_matching
+date: '2026-07-18T11:04:45.716905Z'
+lastmod: '2026-07-18T11:44:44.845137Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una estrategia de toma de decisiones en la que un agente selecciona acciones con frecuencias proporcionales a sus probabilidades estimadas."
+source: agnes_llm
+status: published
+language: es
+description: Una estrategia de toma de decisiones en la que un agente selecciona acciones
+  con frecuencias proporcionales a sus probabilidades estimadas.
 ---
-
 ## Definition
 
 El emparejamiento de probabilidades es un patrón conductual observado frecuentemente en el aprendizaje por refuerzo y la psicología, en contraste con las estrategias óptimas de 'maximización'. En lugar de elegir siempre la acción con la mayor probabilidad esperada, el agente distribuye sus elecciones según la distribución de probabilidad subyacente, lo que puede llevar a un rendimiento subóptimo en entornos estacionarios pero favorece la exploración.

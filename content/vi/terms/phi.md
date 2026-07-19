@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /vi/terms/phi/
 date: "2026-07-18T16:07:31.524803Z"
 lastmod: "2026-07-18T16:38:07.792926Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một chuỗi các mô hình ngôn ngữ lớn nhỏ nhưng hiệu suất cao do Microsoft Research phát triển, tập trung vào mật độ kiến thức và khả năng suy luận."
 ---
-
 ## Definition
 
 Phi, viết tắt của 'Foundation models based on Teaching-Learning Paradigm' (Mô hình nền tảng dựa trên mô hình dạy-học), là một họ các mô hình ngôn ngữ lớn (LLM) nhỏ gọn do Microsoft tạo ra. Khác với các LLM truyền thống được huấn luyện trên khối lượng dữ liệu web khổng lồ, Phi chủ yếu sử dụng dữ liệu tổng hợp có độ chính xác cao để đạt hiệu suất tương đương với các mô hình lớn hơn nhiều.

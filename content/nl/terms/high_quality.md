@@ -1,23 +1,23 @@
 ---
-title: "hoogwaardig"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: hoogwaardig
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /nl/terms/high_quality/
-date: "2026-07-18T15:32:01.708375Z"
-lastmod: "2026-07-18T17:15:08.698843Z"
+slug: high_quality
+date: '2026-07-18T15:32:01.708375Z'
+lastmod: '2026-07-18T17:15:08.698843Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Verwijst naar datasets, modellen of outputs die superieure nauwkeurigheid, betrouwbaarheid en minimale ruis vertonen."
+source: agnes_llm
+status: published
+language: nl
+description: Verwijst naar datasets, modellen of outputs die superieure nauwkeurigheid,
+  betrouwbaarheid en minimale ruis vertonen.
 ---
-
 ## Definition
 
 In kunstmatige intelligentie beschrijft hoogwaardig doorgaans data of modeloutputs die een hoge fideliteit, weinig ruis en sterke generalisatiecapaciteiten bezitten. Hoogwaardige trainingsdata zorgt ervoor dat...

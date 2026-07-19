@@ -1,23 +1,24 @@
 ---
-title: "Época"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Época
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /pt/terms/epoch/
-date: "2026-07-18T14:59:14.708787Z"
-lastmod: "2026-07-18T15:51:59.489016Z"
+slug: epoch
+date: '2026-07-18T14:59:14.708787Z'
+lastmod: '2026-07-18T15:51:59.489016Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma passagem completa do conjunto de dados de treinamento através do algoritmo de aprendizado de máquina durante o treinamento do modelo."
+source: agnes_llm
+status: published
+language: pt
+description: Uma passagem completa do conjunto de dados de treinamento através do
+  algoritmo de aprendizado de máquina durante o treinamento do modelo.
 ---
-
 ## Definition
 
 No aprendizado de máquina, uma época representa uma única iteração sobre todo o conjunto de dados de treinamento. Durante cada época, o modelo processa todos os exemplos de treinamento, atualiza seus pesos por meio da retropropagação e

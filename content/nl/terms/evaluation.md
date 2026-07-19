@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /nl/terms/evaluation/
 date: "2026-07-18T15:25:37.852119Z"
 lastmod: "2026-07-18T17:15:08.683656Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Evaluatie is het proces van het beoordelen van de prestaties, nauwkeurigheid en robuustheid van een AI-model tegen vooraf gedefinieerde metrieken en datasets."
 ---
-
 ## Definition
 
 Evaluatie houdt in dat systematisch wordt gemeten hoe goed een AI-model presteert op specifieke taken met behulp van kwantitatieve metrieken (bijv. nauwkeurigheid, F1-score, BLEU) en kwalitatieve beoordelingen. Het omvat validatie

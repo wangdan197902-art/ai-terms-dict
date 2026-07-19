@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /hu/terms/bert/
 date: "2026-07-18T15:48:25.099318Z"
 lastmod: "2026-07-18T17:15:09.759873Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Bidirectional Encoder Representations from Transformers egy előre tanított természetes nyelvi feldolgozási modell."
 ---
-
 ## Definition
 
 A BERT a Google által fejlesztett, transzformátor-alapú gépi tanulási technika a természetes nyelvi feldolgozás (NLP) előzetes tanításához. A maszkolt nyelvi modellezést és a következő mondat előrejelzését használja a kétirányú reprezentációk elsajátítására.

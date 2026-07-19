@@ -1,23 +1,24 @@
 ---
-title: "Maadoitettu"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Maadoitettu
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /fi/terms/grounded/
-date: "2026-07-18T15:27:14.259401Z"
-lastmod: "2026-07-18T17:15:09.352017Z"
+slug: grounded
+date: '2026-07-18T15:27:14.259401Z'
+lastmod: '2026-07-18T17:15:09.352017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kuvaaa tekoälyjärjestelmiä, jotka yhdistävät abstraktit symbolit tai kielen todellisen maailman aistidataan tai fyysisiin toimintoihin."
+source: agnes_llm
+status: published
+language: fi
+description: Kuvaaa tekoälyjärjestelmiä, jotka yhdistävät abstraktit symbolit tai
+  kielen todellisen maailman aistidataan tai fyysisiin toimintoihin.
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa 'maadoitettu' viittaa prosessiin, jossa symboliset esitykset, kuten sanat tai loogiset väittämät, linkitetään niiden todellisiin viitteenkantajiin fyysisessä maailmassa tai aistimuksissa.

@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /hu/terms/misinformation/
 date: "2026-07-18T16:13:07.174766Z"
 lastmod: "2026-07-18T17:15:09.812713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Hamis vagy pontatlan információ, amelyet bármilyen megtévesztési szándék nélkül terjesztenek."
 ---
-
 ## Definition
 
 A téves információ hamis vagy félrevezető adatokat jelent, amelyeket nem szándékosan, kár okozása vagy megtévesztés céljából osztanak meg. Ez eltér a dezinformációtól, amely szándékosan gyártott tartalom. Az AI kontextusában ez gyakran előfordulhat...

@@ -1,23 +1,24 @@
 ---
-title: "Biais algorithmique"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Biais algorithmique
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /fr/terms/algorithmic_bias/
-date: "2026-07-18T11:04:13.047661Z"
-lastmod: "2026-07-18T11:44:45.196020Z"
+slug: algorithmic_bias
+date: '2026-07-18T11:04:13.047661Z'
+lastmod: '2026-07-18T11:44:45.196020Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le biais algorithmique désigne les erreurs systématiques et répétitives dans un système informatique qui créent des résultats injustes, tels qu'un privilège accordé à un groupe arbitraire par rapport "
+source: agnes_llm
+status: published
+language: fr
+description: 'Le biais algorithmique désigne les erreurs systématiques et répétitives
+  dans un système informatique qui créent des résultats injustes, tels qu''un privilège
+  accordé à un groupe arbitraire par rapport '
 ---
-
 ## Definition
 
 Les biais dans les algorithmes proviennent généralement de données d'entraînement non représentatives, de choix de conception subjectifs ou de boucles de rétroaction qui amplifient les préjugés sociétaux existants. Ils se manifestent par des prédictions déformées ou des traitements inéquitables.

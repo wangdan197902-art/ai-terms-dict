@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /es/terms/sovereign_ai/
 date: "2026-07-18T11:08:31.143881Z"
 lastmod: "2026-07-18T11:44:44.855514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un enfoque estratégico mediante el cual las naciones o entidades desarrollan y controlan su propia infraestructura y modelos de IA para garantizar la privacidad de los datos y la independencia regulat"
 ---
-
 ## Definition
 
 La IA soberana describe la capacidad de un país u organización para construir, implementar y gestionar sistemas de inteligencia artificial de forma independiente, sin depender de proveedores de nube extranjeros o propietarios de tecnología externa.

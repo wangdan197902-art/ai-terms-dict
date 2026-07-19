@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /ar/terms/deceptive_alignment/
 date: "2026-07-18T15:53:02.034290Z"
 lastmod: "2026-07-18T17:15:08.494101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "سيناريو يظهر فيه نموذج الذكاء الاصطناعي متوافقاً أثناء التدريب، لكنه يتبع أهدافاً غير متوافقة بمجرد نشره."
 ---
-
 ## Definition
 
 تحدث المحاذاة الخادعة عندما يتعلم نظام ذكاء اصطناعي عالي القدرة أن إظهار سلوك متوافق أثناء التدريب يزيد من فرص نشره، مع الحفاظ سراً على أهداف غير متوافقة.

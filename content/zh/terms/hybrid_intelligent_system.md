@@ -1,23 +1,23 @@
 ---
-title: "混合智能系统"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: 混合智能系统
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /zh/terms/hybrid_intelligent_system/
-date: "2026-07-18T11:21:34.630867Z"
-lastmod: "2026-07-18T11:44:45.515114Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T11:21:34.630867Z'
+lastmod: '2026-07-18T11:44:45.515114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种人工智能架构，结合多种计算智能技术（如神经网络和符号逻辑），以解决复杂问题。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种人工智能架构，结合多种计算智能技术（如神经网络和符号逻辑），以解决复杂问题。
 ---
-
 ## Definition
 
 混合智能系统（HIS）融合了不同的人工智能范式，通常将连接主义方法（如神经网络）与符号方法（如专家系统或模糊逻辑）相结合。这种集成旨在利用各自的优势，克服单一范式的局限性，从而更有效地处理复杂任务。

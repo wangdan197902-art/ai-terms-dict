@@ -1,23 +1,24 @@
 ---
-title: "Testing"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Testing
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /en/terms/testing/
-date: "2026-07-18T09:42:48.759020Z"
-lastmod: "2026-07-18T11:44:44.633882Z"
+slug: testing
+date: '2026-07-18T09:42:48.759020Z'
+lastmod: '2026-07-18T11:44:44.633882Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "The systematic process of evaluating an AI model's performance and reliability on unseen data to ensure quality and safety."
+source: agnes_llm
+status: published
+language: en
+description: The systematic process of evaluating an AI model's performance and reliability
+  on unseen data to ensure quality and safety.
 ---
-
 ## Definition
 
 Testing in AI engineering involves rigorously assessing models against diverse datasets to identify biases, errors, and robustness issues. It includes unit tests for code components, integration tests for pipelines, and evaluation metrics like accuracy, precision, and recall. Effective testing ensures that deployed models perform consistently in production environments and meet ethical and operational standards before release.

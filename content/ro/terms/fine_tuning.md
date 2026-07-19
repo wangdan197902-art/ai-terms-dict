@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /ro/terms/fine_tuning/
 date: "2026-07-18T15:23:10.069361Z"
 lastmod: "2026-07-18T17:15:09.588284Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de adaptare a unui model pre-antrenat la o sarcină downstream specifică folosind un set de date mai mic."
 ---
-
 ## Definition
 
 Afinarea fină implică luarea unui model deja antrenat pe un set de date mare și general, și continuarea antrenamentului acestuia pe un set de date specializat. Acest lucru permite modelului să își păstreze cunoștințele generale în timp ce dobândește abilități specifice sarcinii.

@@ -1,23 +1,23 @@
 ---
-title: "Học theo chương trình"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Học theo chương trình
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /vi/terms/curriculum_learning/
-date: "2026-07-18T16:18:19.583975Z"
-lastmod: "2026-07-18T16:38:07.818778Z"
+slug: curriculum_learning
+date: '2026-07-18T16:18:19.583975Z'
+lastmod: '2026-07-18T16:38:07.818778Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chiến lược huấn luyện trong đó mô hình học từ các ví dụ dễ trước khi chuyển sang các ví dụ khó hơn."
+source: agnes_llm
+status: published
+language: vi
+description: Một chiến lược huấn luyện trong đó mô hình học từ các ví dụ dễ trước
+  khi chuyển sang các ví dụ khó hơn.
 ---
-
 ## Definition
 
 Học theo chương trình bắt chước quá trình giáo dục của con người bằng cách trình bày dữ liệu huấn luyện theo một thứ tự có cấu trúc, thường bắt đầu với các mẫu đơn giản và dần dần tăng độ phức tạp. Cách tiếp cận này giúp mạng nơ-ron hội tụ nhanh hơn và tổng quát hóa tốt hơn.

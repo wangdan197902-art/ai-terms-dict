@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /vi/terms/sentence_similarity/
 date: "2026-07-18T16:11:32.183919Z"
 lastmod: "2026-07-18T16:38:07.803700Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một chỉ số hoặc nhiệm vụ định lượng mức độ giống nhau về mặt ngữ nghĩa giữa hai câu, thường được biểu diễn dưới dạng điểm số số."
 ---
-
 ## Definition
 
 Độ tương đồng câu đo lường mức độ chồng chéo về ngữ nghĩa giữa hai câu khác biệt. Nó vượt ra ngoài việc khớp từ vựng để hiểu ý nghĩa, ngữ cảnh và mục đích. Điều này thường đạt được bằng cách...

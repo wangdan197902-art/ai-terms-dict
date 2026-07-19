@@ -1,23 +1,24 @@
 ---
-title: "Custodie di sicurezza (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Custodie di sicurezza (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /it/terms/guardrails/
-date: "2026-07-18T16:02:45.872310Z"
-lastmod: "2026-07-18T17:15:08.632086Z"
+slug: guardrails
+date: '2026-07-18T16:02:45.872310Z'
+lastmod: '2026-07-18T17:15:08.632086Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Meccanismi di sicurezza progettati per limitare gli output dei modelli AI, impedendo la generazione di contenuti dannosi, distorti o non autorizzati."
+source: agnes_llm
+status: published
+language: it
+description: Meccanismi di sicurezza progettati per limitare gli output dei modelli
+  AI, impedendo la generazione di contenuti dannosi, distorti o non autorizzati.
 ---
-
 ## Definition
 
 Le custodie di sicurezza (guardrails) si riferiscono a un insieme di controlli software e strati di applicazione delle politiche integrati nelle applicazioni AI, in particolare nei grandi modelli linguistici (LLM), per garantire un comportamento sicuro e conforme. Agiscono come filtri che monitorano e regolano le interazioni, assicurando che il sistema rispetti linee guida etiche e normative specifiche.

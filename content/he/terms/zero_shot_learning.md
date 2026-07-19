@@ -1,23 +1,24 @@
 ---
-title: "למידה ללא דוגמאות (Zero-shot Learning)"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: למידה ללא דוגמאות (Zero-shot Learning)
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /he/terms/zero_shot_learning/
-date: "2026-07-18T15:39:19.441777Z"
-lastmod: "2026-07-18T17:15:09.506029Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:39:19.441777Z'
+lastmod: '2026-07-18T17:15:09.506029Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "למידה ללא דוגמאות היא טכניקה שבה מודל מבצע משימות על מחלקות שלא ראה אי פעם במהלך האימון, באמצעות ניצול קשרים סמנטיים."
+source: agnes_llm
+status: published
+language: he
+description: למידה ללא דוגמאות היא טכניקה שבה מודל מבצע משימות על מחלקות שלא ראה אי
+  פעם במהלך האימון, באמצעות ניצול קשרים סמנטיים.
 ---
-
 ## Definition
 
 למידה ללא דוגמאות מאפשרת למודל למידה מכונה לסווג דוגמאות של מחלקות שלא היו נוכחות במערך האימון שלו. במקום להסתמך על דוגמאות מסומנות לכל מחלקה אפשרית, המודל משתמש בידע סמנטי כללי כדי להכליל למחלקות חדשות.

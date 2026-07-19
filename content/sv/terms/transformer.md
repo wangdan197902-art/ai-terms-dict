@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /sv/terms/transformer/
-date: "2026-07-18T15:32:00.875183Z"
-lastmod: "2026-07-18T17:15:08.954398Z"
+slug: transformer
+date: '2026-07-18T15:32:00.875183Z'
+lastmod: '2026-07-18T17:15:08.954398Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En djupinlärningsarkitektur baserad på självuppmärksamhetsmekanismer som bearbetar sekventiell data parallellt snarare än sekventiellt."
+source: agnes_llm
+status: published
+language: sv
+description: En djupinlärningsarkitektur baserad på självuppmärksamhetsmekanismer
+  som bearbetar sekventiell data parallellt snarare än sekventiellt.
 ---
-
 ## Definition
 
 Introducerad i artikeln 'Attention Is All You Need', revolutionerade Transformer-arkitekturen naturlig språkbehandling och mer. Den använder flerkopplad självuppmärksamhet för att väga betydelsen av olika delar av indata, vilket tillåter effektiv hantering av långa beroenden i data.

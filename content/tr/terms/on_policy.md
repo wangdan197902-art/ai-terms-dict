@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /tr/terms/on_policy/
 date: "2026-07-18T15:32:01.730646Z"
 lastmod: "2026-07-18T16:38:07.251206Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Değerlendirilen ve iyileştirilen politikanın, veriyi üretmek için kullanılan politika ile aynı olduğu pekiştirmeli öğrenme yaklaşımı."
 ---
-
 ## Definition
 
 On-policy algoritmalar, ajanın mevcut politikası tarafından alınan eylemlerden doğrudan öğrenmesini gerektirir. Bu, keşif sırasında toplanan verinin, politikayı güncellemek için hemen kullanıldığı ve böylece

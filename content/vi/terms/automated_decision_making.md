@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /vi/terms/automated_decision_making/
 date: "2026-07-18T15:41:36.671248Z"
 lastmod: "2026-07-18T16:38:07.730820Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình mà các thuật toán độc lập chọn hành động hoặc kết quả dựa trên đầu vào dữ liệu mà không có sự giám sát trực tiếp của con người."
 ---
-
 ## Definition
 
 Ra quyết định tự động (ADM) dựa vào các hệ thống phần mềm để đưa ra các lựa chọn trước đây đòi hỏi phán đoán của con người. Phổ biến trong chấm điểm tín dụng, kiểm duyệt nội dung và hậu cần, ADM sử dụng các quy tắc đã xác định trước.

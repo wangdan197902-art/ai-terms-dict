@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /cs/terms/efficientnet/
-date: "2026-07-18T15:55:33.650793Z"
-lastmod: "2026-07-18T17:15:09.125521Z"
+slug: efficientnet
+date: '2026-07-18T15:55:33.650793Z'
+lastmod: '2026-07-18T17:15:09.125521Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "EfficientNet je rodina architektur konvolučních neuronových sítí, která škáluje hloubku, šířku a rozlišení rovnoměrně pro dosažení vyšší přesnosti s menším počtem parametrů."
+source: agnes_llm
+status: published
+language: cs
+description: EfficientNet je rodina architektur konvolučních neuronových sítí, která
+  škáluje hloubku, šířku a rozlišení rovnoměrně pro dosažení vyšší přesnosti s menším
+  počtem parametrů.
 ---
-
 ## Definition
 
 Vyvinutá společností Google využívá EfficientNet metodu kompozitního škálování k vyvážení hloubky sítě, šířky a rozlišení vstupních obrázků. Tento přístup umožňuje modelu dosáhnout špičkové přesnosti při zachování efektivity výpočetních zdrojů.

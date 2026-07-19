@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /ko/terms/knowledge_level/
 date: "2026-07-18T16:01:23.301346Z"
 lastmod: "2026-07-18T16:38:06.858139Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "정보를 내부적으로 처리하는 방식보다는 에이전트가 무엇을 아는지에 초점을 맞춘 추상적인 설계 관점."
 ---
-
 ## Definition
 
 앨런 뉴웰(Allen Newell)이 제창한 개념으로, 지식 수준은 물리적 구현과 무관하게 신념과 목표를 기반으로 지능형 시스템을 분석합니다. 이는 에이전트의 행위가 얼마나 합리적인지를 분리하여 평가합니다.

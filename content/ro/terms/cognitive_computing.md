@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /ro/terms/cognitive_computing/
 date: "2026-07-18T15:49:33.326709Z"
 lastmod: "2026-07-18T17:15:09.636923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Calculul cognitiv se referă la sistemele care simulează procesele de gândire umană într-un model computerizat, folosind inteligența artificială pentru a imita funcțiile creierului uman."
 ---
-
 ## Definition
 
 Calculul cognitiv este o ramură a inteligenței artificiale care își propune să interacționeze cu oamenii în mod natural, simulând totodată procesele creierului uman. Aceste sisteme utilizează învățarea automată și învățarea profundă pentru a procesa date complexe.

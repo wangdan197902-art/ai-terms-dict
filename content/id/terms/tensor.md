@@ -1,23 +1,24 @@
 ---
-title: "Tensor"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tensor
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /id/terms/tensor/
-date: "2026-07-18T16:10:44.135690Z"
-lastmod: "2026-07-18T16:38:07.513222Z"
+slug: tensor
+date: '2026-07-18T16:10:44.135690Z'
+lastmod: '2026-07-18T16:38:07.513222Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Array multidimensi yang berfungsi sebagai struktur data fundamental untuk kerangka kerja pembelajaran mendalam."
+source: agnes_llm
+status: published
+language: id
+description: Array multidimensi yang berfungsi sebagai struktur data fundamental untuk
+  kerangka kerja pembelajaran mendalam.
 ---
-
 ## Definition
 
 Dalam ilmu komputer dan pembelajaran mendalam, tensor adalah objek matematika yang menggeneralisasi skalar, vektor, dan matriks ke dimensi yang lebih tinggi. Tensor ini dicirikan oleh rank-nya (jumlah dimensi) dan bentuknya.

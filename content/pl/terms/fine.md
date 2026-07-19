@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /pl/terms/fine/
 date: "2026-07-18T15:25:34.993192Z"
 lastmod: "2026-07-18T17:15:08.811458Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dostrojenie (fine-tuning) to proces adaptacji wstępnie wytrenowanego modelu AI do konkretnego zadania lub domeny za pomocą dodatkowych danych."
 ---
-
 ## Definition
 
 Dostrojenie polega na użyciu ogólnego modelu wytrenowanego na dużych zbiorach danych i jego dalszym trenowaniu na mniejszym, specjalistycznym zbiorze danych w celu poprawy wydajności w konkretnych zadaniach. Technika ta wykorzystuje wiedzę nabytą wcześniej.

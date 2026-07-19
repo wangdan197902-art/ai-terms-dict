@@ -1,23 +1,25 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /ro/terms/eagle/
-date: "2026-07-18T15:55:33.936337Z"
-lastmod: "2026-07-18T17:15:09.651129Z"
+slug: eagle
+date: '2026-07-18T15:55:33.936337Z'
+lastmod: '2026-07-18T17:15:09.651129Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Eagle este un cadru de lucru open-source pentru modele lingvistice mari (LLM) cu performanțe ridicate, dezvoltat de ByteDance, conceput pentru pre-antrenarea și fine-tuning-ul eficient al LLM-urilor."
+source: agnes_llm
+status: published
+language: ro
+description: Eagle este un cadru de lucru open-source pentru modele lingvistice mari
+  (LLM) cu performanțe ridicate, dezvoltat de ByteDance, conceput pentru pre-antrenarea
+  și fine-tuning-ul eficient al LLM-urilor.
 ---
-
 ## Definition
 
 Eagle reprezintă un cadru de lucru arhitectural și ingineresc specific în domeniul Modelelor Lingvistice Mari, asociat în principal cu optimizările pentru eficiența și scalabilitatea antrenamentului. Se concentrează pe

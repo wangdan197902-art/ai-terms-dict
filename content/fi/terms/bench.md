@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /fi/terms/bench/
 date: "2026-07-18T15:23:20.624122Z"
 lastmod: "2026-07-18T17:15:09.346581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Lyhenne sanasta benchmark, standardoitu testijoukko tai mittari, jota käytetään tekoälymallien suorituskyvyn arviointiin."
 ---
-
 ## Definition
 
 Benchmark toimii standardoituna vertailukohtana eri tekoälymallien tai algoritmien kykyjen vertailuun. Se koostuu yleensä kuratoidusta datajoukosta ja tietyistä arviointimittareista, kuten tarkkuudesta tai nopeudesta.

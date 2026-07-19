@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /fi/terms/loop/
 date: "2026-07-18T15:28:38.203874Z"
 lastmod: "2026-07-18T17:15:09.354074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmointikonstruktio, joka toistaa koodilohkon useita kertoja, kunnes ehto täyttyy."
 ---
-
 ## Definition
 
 Perustavanlaatuinen ohjausrakenteen osa tietojenkäsittelytieteessä ja tekoälyn kehityksessä. Silmukka mahdollistaa algoritmien iteroinnin dataryhmien läpi, toistuvien laskentojen suorittamisen tai koulutusjaksojen (epochs) ajamisen. Yleisimpiä tyyppejä ovat

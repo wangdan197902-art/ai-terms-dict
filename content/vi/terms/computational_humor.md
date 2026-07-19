@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /vi/terms/computational_humor/
 date: "2026-07-18T15:45:27.021943Z"
 lastmod: "2026-07-18T16:38:07.738304Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Ngành con của AI tập trung vào việc tạo ra, hiểu và đánh giá cao nội dung hài hước thông qua các phương pháp tính toán."
 ---
-
 ## Definition
 
 Hài hước tính toán nghiên cứu cách máy móc có thể sản xuất hoặc diễn giải các trò đùa, chơi chữ và những lời nhận xét hóm hỉnh. Nó thường dựa vào xử lý ngôn ngữ tự nhiên để phát hiện sự không phù hợp, sự thay đổi ngữ nghĩa hoặc...

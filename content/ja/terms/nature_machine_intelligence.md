@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /ja/terms/nature_machine_intelligence/
 date: "2026-07-18T11:25:21.019915Z"
 lastmod: "2026-07-18T11:44:45.126155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Springer Natureが出版する、人工知能における学際的研究に焦点を当てた査読付き科学雑誌。"
 ---
-
 ## Definition
 
 Nature Machine Intelligenceは、人工知能のあらゆる側面に関するオリジナルの研究論文の掲載に専念する高インパクトの学術雑誌です。基礎的なアルゴリズムから

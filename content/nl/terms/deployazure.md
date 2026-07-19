@@ -1,23 +1,23 @@
 ---
-title: "Implementeren: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Implementeren: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /nl/terms/deployazure/
-date: "2026-07-18T15:51:03.977222Z"
-lastmod: "2026-07-18T17:15:08.737054Z"
+slug: deployazure
+date: '2026-07-18T15:51:03.977222Z'
+lastmod: '2026-07-18T17:15:08.737054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het hosten en draaien van machine learning-modellen op de cloud-infrastructuur van Microsoft Azure."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het hosten en draaien van machine learning-modellen op
+  de cloud-infrastructuur van Microsoft Azure.
 ---
-
 ## Definition
 
 Implementeren op Azure houdt in dat cloud-native tools worden gebruikt, zoals Azure Machine Learning, Azure Kubernetes Service (AKS) of Azure Functions, om ML-modellen schaalbaar te leveren. Het omvat ook het beheer van rekenkracht en

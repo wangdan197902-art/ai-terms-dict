@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /nl/terms/dynamic/
 date: "2026-07-18T15:25:23.630996Z"
 lastmod: "2026-07-18T17:15:08.683006Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Dynamic refers to AI systems or computational graphs that adapt their structure, behavior, or execution flow in real-time based on input data or environmental changes."
 ---
-
 ## Definition
 
 Dynamisch verwijst naar AI-systemen of computationele grafieken die hun structuur, gedrag of uitvoeringsstroom in realtime aanpassen op basis van invoergegevens of omgevingsveranderingen.

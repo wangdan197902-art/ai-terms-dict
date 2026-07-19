@@ -1,23 +1,24 @@
 ---
-title: "Unzensiert"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Unzensiert
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /de/terms/uncensored/
-date: "2026-07-18T11:37:24.201077Z"
-lastmod: "2026-07-18T11:44:44.996751Z"
+slug: uncensored
+date: '2026-07-18T11:37:24.201077Z'
+lastmod: '2026-07-18T11:44:44.996751Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Bezieht sich auf KI-Modelle, die so modifiziert wurden, dass sie Sicherheitsfilter und ethische Richtlinien umgehen."
+source: agnes_llm
+status: published
+language: de
+description: Bezieht sich auf KI-Modelle, die so modifiziert wurden, dass sie Sicherheitsfilter
+  und ethische Richtlinien umgehen.
 ---
-
 ## Definition
 
 Im Kontext der künstlichen Intelligenz beschreibt „unzensiert“ typischerweise Modelle, die einem Fine-Tuning oder einer Modifikation unterzogen wurden, um eingebaute Sicherheitsausrichtungen zu entfernen oder zu schwächen. Diese Modelle sind dafür ausgelegt, ohne die üblichen inhaltlichen Beschränkungen zu arbeiten.

@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /fi/terms/api/
 date: "2026-07-18T15:22:09.621552Z"
 lastmod: "2026-07-18T17:15:09.343226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ohjelmointirajapinta, jonka avulla eri ohjelmistojärjestelmät voivat kommunikoida ja vaihtaa dataa."
 ---
-
 ## Definition
 
 API määrittelee joukon protokollia ja työkaluja ohjelmistojen ja sovellusten rakentamiseen. Tekoälyn alalla API:t mahdollistavat kehittäjille pääsyn tehokkaisiin malleihin, kuten suuriin kielimalleihin tai kuvageneraattoreihin, ilman paikallista isännöintiä.

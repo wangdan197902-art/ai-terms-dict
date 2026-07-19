@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /da/terms/connectionist_expert_system/
 date: "2026-07-18T15:47:35.551945Z"
 lastmod: "2026-07-18T17:15:09.271063Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et intelligent system, der kombinerer neurale netværkers læreevner med symbolsk ræsonnement."
 ---
-
 ## Definition
 
 Et forbindelsesmæssigt ekspertsystem integrerer de mønstergenkendelses- og læringsstyrker, som neurale netværk (forbindelseslære) tilbyder, med den eksplicitte vidensrepræsentation og logiske ræsonnement, der findes i traditionelle symbolske systemer.

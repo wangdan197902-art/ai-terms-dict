@@ -1,23 +1,24 @@
 ---
-title: "ضبط دقيق"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: ضبط دقيق
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /ar/terms/finetuned/
-date: "2026-07-18T15:58:05.213234Z"
-lastmod: "2026-07-18T17:15:08.504881Z"
+slug: finetuned
+date: '2026-07-18T15:58:05.213234Z'
+lastmod: '2026-07-18T17:15:08.504881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تدريب نموذج مُدرَّب مسبقاً بشكل إضافي على مجموعة بيانات محددة لتكييفه مع مهمة معينة."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تدريب نموذج مُدرَّب مسبقاً بشكل إضافي على مجموعة بيانات محددة لتكييفه
+  مع مهمة معينة.
 ---
-
 ## Definition
 
 يشير الضبط الدقيق إلى تقنية أخذ نموذج تم تدريبه بالفعل على مجموعة بيانات عامة كبيرة ومواصلة تدريبه على مجموعة بيانات أصغر ومحددة بالنطاق. يسمح ذلك للنموذج...

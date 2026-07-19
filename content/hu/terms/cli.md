@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /hu/terms/cli/
 date: "2026-07-18T15:37:16.238024Z"
 lastmod: "2026-07-18T17:15:09.738897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Parancssoros Felület (CLI) egy szöveg alapú módszer a szoftverekkel való interakcióra, ahol parancsokat gépelünk egy terminálba."
 ---
-
 ## Definition
 
 A Parancssoros Felület (CLI) lehetővé teszi a felhasználók számára, hogy szöveges parancsok megadásával vezéreljék a szoftvert, grafikus elemek helyett. Az AI fejlesztésben a CLI elengedhetetlen szkriptek futtatásához és erőforrás-kezeléshez.

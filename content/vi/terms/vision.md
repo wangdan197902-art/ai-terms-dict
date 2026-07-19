@@ -1,23 +1,24 @@
 ---
-title: "Vision (Thị giác máy tính)"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Vision (Thị giác máy tính)
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /vi/terms/vision/
-date: "2026-07-18T15:37:50.582795Z"
-lastmod: "2026-07-18T16:38:07.715955Z"
+slug: vision
+date: '2026-07-18T15:37:50.582795Z'
+lastmod: '2026-07-18T16:38:07.715955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Computer Vision (Thị giác máy tính) là lĩnh vực AI tập trung vào việc cho phép máy tính giải thích và hiểu thông tin trực quan từ thế giới."
+source: agnes_llm
+status: published
+language: vi
+description: Computer Vision (Thị giác máy tính) là lĩnh vực AI tập trung vào việc
+  cho phép máy tính giải thích và hiểu thông tin trực quan từ thế giới.
 ---
-
 ## Definition
 
 Computer Vision (CV) là một nhánh của trí tuệ nhân tạo nhằm huấn luyện máy tính trích xuất thông tin hữu ích từ hình ảnh kỹ thuật số, video và các đầu vào trực quan khác. Lĩnh vực này liên quan đến việc phát triển các thuật...

@@ -1,23 +1,24 @@
 ---
-title: "Pencarian Semantik"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Pencarian Semantik
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /id/terms/semantic_search/
-date: "2026-07-18T15:36:05.535269Z"
-lastmod: "2026-07-18T16:38:07.419384Z"
+slug: semantic_search
+date: '2026-07-18T15:36:05.535269Z'
+lastmod: '2026-07-18T16:38:07.419384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknologi pencarian yang memahami makna istilah kueri daripada hanya mencocokkan kata kunci."
+source: agnes_llm
+status: published
+language: id
+description: Teknologi pencarian yang memahami makna istilah kueri daripada hanya
+  mencocokkan kata kunci.
 ---
-
 ## Definition
 
 Pencarian semantik menafsirkan niat dan makna kontekstual di balik sebuah kueri, melampaui pencocokan kata kunci sederhana. Ini menggunakan embedding untuk merepresentasikan teks sebagai vektor dalam ruang berdimensi tinggi, memungkinkan penemuan informasi berdasarkan makna.

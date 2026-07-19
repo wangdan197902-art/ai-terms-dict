@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /id/terms/knowledge_compilation/
 date: "2026-07-18T15:56:43.108072Z"
 lastmod: "2026-07-18T16:38:07.473815Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kompilasi pengetahuan adalah proses mengubah representasi pengetahuan menjadi bentuk yang lebih efisien untuk menjawab kueri atau penalaran yang lebih cepat."
 ---
-
 ## Definition
 
 Kompilasi pengetahuan merujuk pada teknik-teknik dalam kecerdasan buatan yang mengubah basis pengetahuan atau teori logis menjadi representasi berbeda yang memfasilitasi operasi lebih cepat seperti kepuasan

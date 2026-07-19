@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /ro/terms/benchmarking/
 date: "2026-07-18T15:23:53.590041Z"
 lastmod: "2026-07-18T17:15:09.590053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul sistematic de testare a modelelor de inteligență artificială împotriva benchmarkurilor pentru a cuantifica performanța și a identifica zonele de îmbunătățire."
 ---
-
 ## Definition
 
 Benchmarking-ul este practica activă de conducere a experimentelor pentru a măsura cât de bine se comportă un model de IA la sarcini specifice, folosind benchmarkuri predefinite. Acest proces implică rularea modelelor prin standarde de testare pentru a genera date comparative esențiale.

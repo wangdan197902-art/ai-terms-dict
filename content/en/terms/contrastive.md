@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /en/terms/contrastive/
 date: "2026-07-18T09:30:47.885236Z"
 lastmod: "2026-07-18T11:44:44.594986Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Contrastive learning is a self-supervised technique that trains models to distinguish between similar and dissimilar data pairs."
 ---
-
 ## Definition
 
 This method encourages the model to pull embeddings of positive pairs (similar items) closer together while pushing negative pairs (dissimilar items) apart in the latent space. It is widely used in computer vision and NLP to learn robust feature representations without extensive labeled data. By focusing on relative differences, contrastive learning improves generalization capabilities across various downstream tasks.

@@ -1,23 +1,24 @@
 ---
-title: "Umplerea măștii"
-term_id: "fill_mask"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "pretraining", "transformers"]
+title: Umplerea măștii
+term_id: fill_mask
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- pretraining
+- transformers
 difficulty: 2
 weight: 1
-slug: "fill_mask"
-aliases:
-  - /ro/terms/fill_mask/
-date: "2026-07-18T15:58:41.708897Z"
-lastmod: "2026-07-18T17:15:09.656629Z"
+slug: fill_mask
+date: '2026-07-18T15:58:41.708897Z'
+lastmod: '2026-07-18T17:15:09.656629Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O sarcină de procesare a limbajului natural în care un model prezice token-urile lipsă dintr-o propoziție pe baza contextului înconjurător."
+source: agnes_llm
+status: published
+language: ro
+description: O sarcină de procesare a limbajului natural în care un model prezice
+  token-urile lipsă dintr-o propoziție pe baza contextului înconjurător.
 ---
-
 ## Definition
 
 Umplerea măștii este un obiectiv fundamental de pre-antrenare utilizat în modelele bazate pe transformere, precum BERT. Procesul implică mascarea aleatorie a unor token-uri într-un șir de text și antrenarea modelului pentru a prezice valorile originale.

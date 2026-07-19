@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /ja/terms/self_management/
 date: "2026-07-18T11:31:32.706636Z"
 lastmod: "2026-07-18T11:44:45.142498Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIにおける自己管理とは、人間の介入なしに自律システムが自身の運用を監視、最適化、および修復する能力を指します。"
 ---
-
 ## Definition
 
 この概念には、AIエージェントやシステムが通常の保守、リソース割り当て、エラー修正を独立して処理する能力が含まれます。これには、オートスケーリング、自己修復、および自動再トレーニングなどの機能が含まれており、システムの信頼性と効率性を高めます。

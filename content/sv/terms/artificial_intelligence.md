@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /sv/terms/artificial_intelligence/
 date: "2026-07-18T15:22:23.381431Z"
 lastmod: "2026-07-18T17:15:08.935191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Simulering av mänskliga intelligensprocesser av datorsystem."
 ---
-
 ## Definition
 
 Artificiell intelligens (AI) syftar på digitala datorkompilers eller datorstyrda robotars förmåga att utföra uppgifter som vanligtvis förknippas med intelligenta varelser. Det omfattar olika underområden

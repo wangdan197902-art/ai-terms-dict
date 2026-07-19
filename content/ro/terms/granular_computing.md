@@ -7,8 +7,6 @@ tags: ["Data Science", "Uncertainty", "Theory"]
 difficulty: 4
 weight: 1
 slug: "granular_computing"
-aliases:
-  - /ro/terms/granular_computing/
 date: "2026-07-18T16:00:47.210453Z"
 lastmod: "2026-07-18T17:15:09.662243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Computația granulară este un paradigmă care lucrează cu informația la diferite niveluri de abstractizare, organizând datele în structuri semnificative numite granule de informație."
 ---
-
 ## Definition
 
 Această abordare imită procesele cognitive umane grupând datele în entități de nivel superior sau 'granule', în loc să proceseze elemente individuale. Include tehnici precum mulțimile aproximative, logica fuzzy...

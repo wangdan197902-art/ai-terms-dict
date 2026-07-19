@@ -1,23 +1,25 @@
 ---
-title: "Rajoitetun muistin tekoäly"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: Rajoitetun muistin tekoäly
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /fi/terms/limited_memory_ai/
-date: "2026-07-18T16:06:48.050089Z"
-lastmod: "2026-07-18T17:15:09.428675Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:06:48.050089Z'
+lastmod: '2026-07-18T17:15:09.428675Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekoälyjärjestelmät, jotka pystyvät tallentamaan menneitä tietoja ja kokemuksia informoidakseen tulevia päätöksiä, muodostaen perustan useimmille nykyaikaisille koneoppimissovelluksille."
+source: agnes_llm
+status: published
+language: fi
+description: Tekoälyjärjestelmät, jotka pystyvät tallentamaan menneitä tietoja ja
+  kokemuksia informoidakseen tulevia päätöksiä, muodostaen perustan useimmille nykyaikaisille
+  koneoppimissovelluksille.
 ---
-
 ## Definition
 
 Rajoitetun muistin tekoäly edustaa tekoälyn kykyjen toista tasoa, jossa järjestelmät pystyvät oppimaan historiallisesta datasta ja säätämään käyttäytymistään sen mukaisesti. Toisin kuin reaktiiviset koneet, nämä järjestelmät säilyttävät informaatiota...

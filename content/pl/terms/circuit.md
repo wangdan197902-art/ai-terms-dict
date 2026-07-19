@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /pl/terms/circuit/
 date: "2026-07-18T15:45:43.110631Z"
 lastmod: "2026-07-18T17:15:08.853824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Obwód odnosi się do fizycznej infrastruktury sprzętowej, w tym chipów i połączeń, która wykonuje zadania obliczeniowe."
 ---
-
 ## Definition
 
 W kontekście sztucznej inteligencji obwód zwykle oznacza podstawową architekturę sprzętową, taką jak GPU, TPU lub chipy neuromorficzne, zaprojektowane w celu przyspieszenia operacji macierzowych i przetwarzania równoległego. Te

@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /sv/terms/intelligent_automation/
 date: "2026-07-18T16:04:45.761302Z"
 lastmod: "2026-07-18T17:15:09.015994Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Kombinationen av artificiell intelligens med robotprocessautomatisering för att hantera komplexa, ostrukturerade affärsprocesser."
 ---
-
 ## Definition
 
 Intelligent automatisering integrerar traditionell Robotprocessautomatisering (RPA) med avancerade AI-teknologier som maskininlärning och naturlig språkbehandling. Medan RPA hanterar regelbaserade, strukturellt

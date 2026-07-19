@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /cs/terms/instruction_following/
 date: "2026-07-18T16:03:31.371752Z"
 lastmod: "2026-07-18T17:15:09.142882Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Schopnost modelu AI přesně interpretovat a vykonávat konkrétní lidské příkazy nebo omezení."
 ---
-
 ## Definition
 
 Dodržování instrukcí označuje schopnost velkých jazykových modelů a dalších systémů AI pochopit nuance lidských pokynů a dodržovat explicitní omezení v rámci zadání. Tento posun v paradigmatu

@@ -1,23 +1,24 @@
 ---
-title: "Speech To Speech"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Speech To Speech
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /en/terms/speech_to_speech/
-date: "2026-07-18T10:16:18.605900Z"
-lastmod: "2026-07-18T11:44:44.724025Z"
+slug: speech_to_speech
+date: '2026-07-18T10:16:18.605900Z'
+lastmod: '2026-07-18T11:44:44.724025Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A translation paradigm that converts spoken input directly into synthesized speech in another language."
+source: agnes_llm
+status: published
+language: en
+description: A translation paradigm that converts spoken input directly into synthesized
+  speech in another language.
 ---
-
 ## Definition
 
 Speech-to-Speech (STS) translation bypasses intermediate text representations to convert spoken language A directly into spoken language B. This approach aims to preserve prosody, emotion, and natural intonation from the original speaker, providing a more immersive and human-like translation experience compared to traditional text-based machine translation pipelines.

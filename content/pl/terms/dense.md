@@ -1,23 +1,23 @@
 ---
-title: "Gęsta warstwa"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Gęsta warstwa
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /pl/terms/dense/
-date: "2026-07-18T15:51:34.743068Z"
-lastmod: "2026-07-18T17:15:08.865791Z"
+slug: dense
+date: '2026-07-18T15:51:34.743068Z'
+lastmod: '2026-07-18T17:15:08.865791Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Warstwa lub tensor, w którym każdy element jest połączony z każdym elementem poprzedniej warstwy lub wymiaru."
+source: agnes_llm
+status: published
+language: pl
+description: Warstwa lub tensor, w którym każdy element jest połączony z każdym elementem
+  poprzedniej warstwy lub wymiaru.
 ---
-
 ## Definition
 
 W sieciach neuronowych termin 'gęsty' odnosi się do warstw w pełni połączonych, w których każdy neuron otrzymuje wejście od wszystkich neuronów w poprzedniej warstwie. Stanowi to kontrast względem rzadkich połączeń występujących w sieciach konwolucyjnych lub innych architekturach rozproszonych.

@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /en/terms/meta/
 date: "2026-07-18T10:06:58.429954Z"
 lastmod: "2026-07-18T11:44:44.697532Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "In AI, 'meta' typically refers to learning about learning or higher-order processes that govern model adaptation and optimization."
 ---
-
 ## Definition
 
 The prefix 'meta' in artificial intelligence denotes a higher level of abstraction, often involving self-reference or oversight of core processes. Common examples include 'meta-learning,' where algorithms learn how to learn new tasks with minimal data, and 'meta-reinforcement learning,' which involves adapting policies dynamically. It can also refer to metadata used for model management or the overarching framework that controls the execution and configuration of AI systems, distinguishing it from the primary task-specific models.

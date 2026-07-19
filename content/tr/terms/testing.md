@@ -1,23 +1,25 @@
 ---
-title: "Test Etme"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Test Etme
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /tr/terms/testing/
-date: "2026-07-18T15:37:31.383517Z"
-lastmod: "2026-07-18T16:38:07.264688Z"
+slug: testing
+date: '2026-07-18T15:37:31.383517Z'
+lastmod: '2026-07-18T16:38:07.264688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kalite ve güvenliği sağlamak amacıyla bir yapay zeka modelinin görünmeyen veriler üzerindeki performansını ve güvenilirliğini sistematik olarak değerlendirme süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Kalite ve güvenliği sağlamak amacıyla bir yapay zeka modelinin görünmeyen
+  veriler üzerindeki performansını ve güvenilirliğini sistematik olarak değerlendirme
+  süreci.
 ---
-
 ## Definition
 
 Yapay zeka mühendisliğinde test etme, modelleri önyargıları, hataları ve sağlamlık sorunlarını belirlemek için çeşitli veri setleriyle titizlikle değerlendirmeyi içerir. Kod bileşenleri için birim testleri, entegrasyon testleri vb. dahildir.

@@ -7,8 +7,6 @@ tags: ["AI Models", "Development Tools"]
 difficulty: 3
 weight: 1
 slug: "codeqwen"
-aliases:
-  - /zh/terms/codeqwen/
 date: "2026-07-18T11:10:26.183919Z"
 lastmod: "2026-07-18T11:44:45.457296Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "CodeQwen 是专为软件工程任务优化的大型语言模型，包括代码生成、理解和调试。"
 ---
-
 ## Definition
 
 CodeQwen 是阿里云开发的 Qwen 系列的一个变体，专门针对编程相关活动进行了微调。它利用先进的 Transformer 架构来理解代码...

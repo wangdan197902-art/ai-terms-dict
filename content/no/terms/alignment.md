@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /no/terms/alignment/
 date: "2026-07-18T15:22:14.715171Z"
 lastmod: "2026-07-18T16:38:06.930023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å sikre at et AI-systems mål og atferd samsvarer med menneskelige verdier og intensjoner."
 ---
-
 ## Definition
 
 Justering fokuserer på å sikre at AI-systemer gjør det menneskene faktisk ønsker, snarere enn bare det de bokstavelig talt ber om. Det involverer teknikker som Forsterket læring fra menneskelig tilbakemelding (RLHF) for å rette opp adferd.

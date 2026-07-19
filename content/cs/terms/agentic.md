@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /cs/terms/agentic/
 date: "2026-07-18T15:34:07.491432Z"
 lastmod: "2026-07-18T17:15:09.087282Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Odkazuje na systémy AI schopné autonomního plánování, uvažování a provádění akcí za účelem dosažení specifických cílů."
 ---
-
 ## Definition
 
 Termín 'agentní' popisuje agentní systémy AI, které fungují s vysokou mírou autonomie. Na rozdíl od pasivních modelů, které pouze predikují text nebo klasifikují data, agentní systémy dokážou rozkládat složité cíle...

@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /ko/terms/real_time/
 date: "2026-07-18T15:32:52.125841Z"
 lastmod: "2026-07-18T16:38:06.791467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "실시간 처리는 입력 수신 직후 엄격하고 보장된 시간 제약 내에 계산을 수행하여 결과를 제공하는 시스템을 의미합니다."
 ---
-
 ## Definition
 
 인공지능에서 실시간은 시스템이 최소한의 지연(latency)으로 입력을 처리하고 출력을 생성하는 능력을 나타내며, 종종 밀리초 단위로 이루어집니다. 이는 자율 주행, 금융 사기 탐지 등 즉각적인 응답이 필수적인 애플리케이션에 중요합니다.

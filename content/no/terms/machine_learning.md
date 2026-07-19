@@ -1,23 +1,23 @@
 ---
-title: "Maskinlæring"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Maskinlæring
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /no/terms/machine_learning/
-date: "2026-07-18T15:27:40.492844Z"
-lastmod: "2026-07-18T16:38:06.940683Z"
+slug: machine_learning
+date: '2026-07-18T15:27:40.492844Z'
+lastmod: '2026-07-18T16:38:06.940683Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En delmengde av AI som fokuserer på å bygge systemer som lærer fra data for å forbedre ytelsen uten eksplisitt programmering."
+source: agnes_llm
+status: published
+language: 'no'
+description: En delmengde av AI som fokuserer på å bygge systemer som lærer fra data
+  for å forbedre ytelsen uten eksplisitt programmering.
 ---
-
 ## Definition
 
 Maskinlæring (ML) gjør det mulig for datamaskiner å lære mønstre fra historiske data og ta beslutninger eller foreta prediksjoner på nye, ukjente data. Det omfatter ulike teknikker, inkludert overvåket læring, ulovet læring og forsterkningslæring.

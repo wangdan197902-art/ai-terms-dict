@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "chat"
-aliases:
-  - /nl/terms/chat/
 date: "2026-07-18T15:46:01.402075Z"
 lastmod: "2026-07-18T17:15:08.724661Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Chat verwijst naar interactieve, gespreksgerichte communicatie tussen een gebruiker en een AI-systeem, meestal mogelijk gemaakt door natuurlijke taal."
 ---
-
 ## Definition
 
 In de context van AI staat Chat voor de interface en het onderliggende mechanisme voor realtime, beurtgebonden dialoog. Het stelt gebruikers in staat vragen te stellen, taken aan te vragen of deel te nemen aan open gesprekken.

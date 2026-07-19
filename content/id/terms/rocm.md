@@ -1,23 +1,24 @@
 ---
-title: "ROCm"
-term_id: "rocm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "software", "gpu"]
+title: ROCm
+term_id: rocm
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- software
+- GPU
 difficulty: 3
 weight: 1
-slug: "rocm"
-aliases:
-  - /id/terms/rocm/
-date: "2026-07-18T16:06:35.314561Z"
-lastmod: "2026-07-18T16:38:07.499361Z"
+slug: rocm
+date: '2026-07-18T16:06:35.314561Z'
+lastmod: '2026-07-18T16:38:07.499361Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Platform perangkat lunak sumber terbuka AMD untuk komputasi GPU, menyediakan alternatif bagi ekosistem CUDA milik NVIDIA."
+source: agnes_llm
+status: published
+language: id
+description: Platform perangkat lunak sumber terbuka AMD untuk komputasi GPU, menyediakan
+  alternatif bagi ekosistem CUDA milik NVIDIA.
 ---
-
 ## Definition
 
 ROCm (Radeon Open Compute) adalah tumpukan driver dan perangkat lunak yang dikembangkan oleh AMD untuk memungkinkan komputasi berkinerja tinggi pada GPU AMD. Platform ini menyediakan pustaka, kompiler, dan alat yang diperlukan untuk mengembangkan aplikasi paralel, terutama dalam bidang kecerdasan buatan dan komputasi ilmiah.

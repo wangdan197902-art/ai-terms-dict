@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /ja/terms/google_colab/
 date: "2026-07-18T11:16:33.853236Z"
 lastmod: "2026-07-18T11:44:45.102198Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ブラウザ経由でPythonコードの記述と実行を可能にし、GPUへの無料アクセスを提供するクラウドベースのJupyterノートブック環境。"
 ---
-
 ## Definition
 
 Google Colaboratory（通称Colab）は、セットアップが不要なホスト型Jupyterノートブックサービスです。グラフィックス処理装置（GPU）を含むコンピューティングリソースへの無料アクセスを提供します。

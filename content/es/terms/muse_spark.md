@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /es/terms/muse_spark/
 date: "2026-07-18T11:01:53.634131Z"
 lastmod: "2026-07-18T11:44:44.835590Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco de aprendizaje profundo distribuido construido sobre Apache Spark que permite el entrenamiento escalable de modelos en grandes clústeres."
 ---
-
 ## Definition
 
 Muse Spark es un marco de aprendizaje profundo de código abierto diseñado para ejecutarse de manera eficiente sobre Apache Spark. Permite a los desarrolladores entrenar redes neuronales complejas a través de clústeres distribuidos aprovechando la capacidad de procesamiento paralelo del ecosistema Spark.

@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /de/terms/ai_agent/
 date: "2026-07-18T11:01:01.900203Z"
 lastmod: "2026-07-18T11:44:44.903101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein autonomes System, das darauf ausgelegt ist, seine Umgebung wahrzunehmen und Maßnahmen zu ergreifen, um bestimmte Ziele zu erreichen."
 ---
-
 ## Definition
 
 Ein KI-Agent ist eine Softwareeinheit, die autonom innerhalb einer definierten Umgebung operiert, um vordefinierte Ziele zu erreichen. Sie nutzt Wahrnehmungsmechanismen, um Daten zu sammeln, verarbeitet diese Informationen und leitet daraus Aktionen ab.

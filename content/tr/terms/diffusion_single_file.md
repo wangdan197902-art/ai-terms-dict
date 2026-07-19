@@ -1,23 +1,26 @@
 ---
-title: "Diffusion Single File"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Diffusion Single File
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /tr/terms/diffusion_single_file/
-date: "2026-07-18T15:50:20.622311Z"
-lastmod: "2026-07-18T16:38:07.300500Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:50:20.622311Z'
+lastmod: '2026-07-18T16:38:07.300500Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Tüm model ağırlıklarını, yapılandırmalarını ve bazen hatta çıkarım kodunu kolay taşınabilirlik için tek bir dosyada birleştiren difüzyon modelleri için bir dağıtım formatı."
+source: agnes_llm
+status: published
+language: tr
+description: Tüm model ağırlıklarını, yapılandırmalarını ve bazen hatta çıkarım kodunu
+  kolay taşınabilirlik için tek bir dosyada birleştiren difüzyon modelleri için bir
+  dağıtım formatı.
 ---
-
 ## Definition
 
 Diffusion Single File, özellikle difüzyon modelleri olmak üzere makine öğrenimi modelleri için bir paketleme stratejisini ifade eder; bu stratejide tüm model parçacığı (ikili ağırlıklar, hiperparametreler ve model mimarisi dahil) tek bir dosyada birleştirilir.

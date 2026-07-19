@@ -1,23 +1,24 @@
 ---
-title: "Голос"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: Голос
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /ru/terms/voice/
-date: "2026-07-18T16:20:10.947174Z"
-lastmod: "2026-07-18T16:38:07.212572Z"
+slug: voice
+date: '2026-07-18T16:20:10.947174Z'
+lastmod: '2026-07-18T16:38:07.212572Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Голос — это человеческий звук, создаваемый речью, который служит основным модальным входом для систем распознавания и синтеза речи."
+source: agnes_llm
+status: published
+language: ru
+description: Голос — это человеческий звук, создаваемый речью, который служит основным
+  модальным входом для систем распознавания и синтеза речи.
 ---
-
 ## Definition
 
 В искусственном интеллекте голос охватывает акустические сигналы, генерируемые человеческими голосовыми связками, которые несут лингвистическую информацию. Он отличается от общего аудио тем, что конкретно относится к речевым сигналам.

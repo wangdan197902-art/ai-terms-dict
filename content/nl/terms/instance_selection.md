@@ -1,23 +1,24 @@
 ---
-title: "Instantieselectie"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Instantieselectie
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /nl/terms/instance_selection/
-date: "2026-07-18T16:00:34.198438Z"
-lastmod: "2026-07-18T17:15:08.756311Z"
+slug: instance_selection
+date: '2026-07-18T16:00:34.198438Z'
+lastmod: '2026-07-18T17:15:08.756311Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een voorverwerkingstechniek die de grootte van een dataset verkleint door een subset van representatieve instanties te selecteren."
+source: agnes_llm
+status: published
+language: nl
+description: Een voorverwerkingstechniek die de grootte van een dataset verkleint
+  door een subset van representatieve instanties te selecteren.
 ---
-
 ## Definition
 
 Instantieselectie streeft naar verbeterde rekenkundige efficiëntie en modelprestaties door redundante of ruwe datapunten te verwijderen. In tegenstelling tot kenmerkselectie werkt het op de rijen van de dataset. Het doel is

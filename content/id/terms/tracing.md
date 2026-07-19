@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /id/terms/tracing/
 date: "2026-07-18T16:12:17.633504Z"
 lastmod: "2026-07-18T16:38:07.516348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pelacakan adalah teknik yang merekam jalur eksekusi dan keadaan antara dari sebuah program atau inferensi model AI untuk memfasilitasi pemecahan masalah (debugging) dan optimasi kinerja."
 ---
-
 ## Definition
 
 Dalam konteks rekayasa AI, pelacakan melibatkan pengambilan log terperinci tentang bagaimana data mengalir melalui model atau aplikasi, termasuk input, output, latensi, dan penggunaan sumber daya pada setiap langkah. Hal ini memungkinkan insinyur untuk memvisualisasikan alur kerja, mengidentifikasi kemacetan, dan memahami perilaku model secara mendetail.

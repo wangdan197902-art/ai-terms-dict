@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /pl/terms/autognostics/
 date: "2026-07-18T15:42:04.803522Z"
 lastmod: "2026-07-18T17:15:08.847951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zdolność systemu SI do samodzielnego diagnozowania jego stanu wewnętrznego, problemów z wydajnością lub błędów bez interwencji człowieka."
 ---
-
 ## Definition
 
 Autognostyka odnosi się do mechanizmów samoobserwacji i samonaprawy wbudowanych w inteligentne systemy. Pozwala agentom SI wykrywać anomalie, diagnozować przyczyny źródłowe awarii i potencjalnie naprawiać je samodzielnie.

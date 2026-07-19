@@ -1,23 +1,24 @@
 ---
-title: "Görüş"
-term_id: "vision"
-category: "application_paradigms"
-subcategory: ""
-tags: ["perception", "deep_learning", "applications"]
+title: Görüş
+term_id: vision
+category: application_paradigms
+subcategory: ''
+tags:
+- perception
+- Deep Learning
+- applications
 difficulty: 2
 weight: 1
-slug: "vision"
-aliases:
-  - /tr/terms/vision/
-date: "2026-07-18T15:38:01.632533Z"
-lastmod: "2026-07-18T16:38:07.265492Z"
+slug: vision
+date: '2026-07-18T15:38:01.632533Z'
+lastmod: '2026-07-18T16:38:07.265492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bilgisayarlı Görüş, bilgisayarların dünyadan görsel bilgileri yorumlamasını ve anlamasını sağlamaya odaklanan yapay zeka alanıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Bilgisayarlı Görüş, bilgisayarların dünyadan görsel bilgileri yorumlamasını
+  ve anlamasını sağlamaya odaklanan yapay zeka alanıdır.
 ---
-
 ## Definition
 
 Bilgisayarlı Görüş (CV), bilgisayarları dijital görüntülerden, videolardan ve diğer görsel girdilerden anlamlı bilgiler elde edecek şekilde eğiten yapay zekanın bir dalıdır. Bu alan, algoritmalar geliştirmeyi içerir.

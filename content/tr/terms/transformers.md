@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /tr/terms/transformers/
 date: "2026-07-18T15:30:35.879450Z"
 lastmod: "2026-07-18T16:38:07.246515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bu bağlamda, en üst düzey NLP ve çok modlu modeller için popüler açık kaynaklı bir araç seti olan Hugging Face Transformers kütüphanesini ifade eder."
 ---
-
 ## Definition
 
 'Transformers' terimi genellikle Hugging Face tarafından sürdürülen yaygın kullanılan Python kütüphanesini ifade eder. Önceden eğitilmiş modelleri indirmek, eğitmek ve dağıtmak için kolay kullanılabilir arayüzler sağlar.

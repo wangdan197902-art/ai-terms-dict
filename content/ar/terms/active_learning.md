@@ -1,23 +1,24 @@
 ---
-title: "التعلم النشط"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: التعلم النشط
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /ar/terms/active_learning/
-date: "2026-07-18T15:42:26.390515Z"
-lastmod: "2026-07-18T17:15:08.472605Z"
+slug: active_learning
+date: '2026-07-18T15:42:26.390515Z'
+lastmod: '2026-07-18T17:15:08.472605Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "استراتيجية في تعلم الآلة يستفسر فيها الخوارزمية بشكل انتقائي من مستخدم أو مرجع لتصنيف نقاط بيانات جديدة، مما يحسن عملية التدريب."
+source: agnes_llm
+status: published
+language: ar
+description: استراتيجية في تعلم الآلة يستفسر فيها الخوارزمية بشكل انتقائي من مستخدم
+  أو مرجع لتصنيف نقاط بيانات جديدة، مما يحسن عملية التدريب.
 ---
-
 ## Definition
 
 يقلل التعلم النشط من كمية البيانات المصنفة المطلوبة من خلال السماح للنموذج باختيار أكثر العينات إفادةً للتصنيف البشري. بدلاً من استقبال العينات العشوائية سلبياً، تقوم الخوارزم

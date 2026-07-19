@@ -1,23 +1,25 @@
 ---
-title: "Incrustación kernel de distribuciones"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Incrustación kernel de distribuciones
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /es/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T10:55:26.304677Z"
-lastmod: "2026-07-18T11:44:44.822245Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T10:55:26.304677Z'
+lastmod: '2026-07-18T11:44:44.822245Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica que mapea distribuciones de probabilidad a un espacio de Hilbert con núcleo reproductor para permitir su comparación y manipulación mediante operaciones vectoriales."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica que mapea distribuciones de probabilidad a un espacio de
+  Hilbert con núcleo reproductor para permitir su comparación y manipulación mediante
+  operaciones vectoriales.
 ---
-
 ## Definition
 
 La Incrustación Kernel de Distribuciones permite tratar objetos probabilísticos como puntos en un espacio de características de alta dimensión llamado Espacio de Hilbert con Núcleo Reproductor (RKHS). Al mapear las distribuciones a este espacio, se pueden aplicar operaciones algebraicas estándar, como calcular distancias o promedios, entre distribuciones completas.

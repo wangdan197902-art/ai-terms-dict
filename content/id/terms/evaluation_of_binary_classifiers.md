@@ -1,23 +1,24 @@
 ---
-title: "Evaluasi klasifier biner"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Evaluasi klasifier biner
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /id/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:49:47.840428Z"
-lastmod: "2026-07-18T16:38:07.455802Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:49:47.840428Z'
+lastmod: '2026-07-18T16:38:07.455802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses menilai kinerja model pembelajaran mesin yang memprediksi salah satu dari dua kemungkinan hasil."
+source: agnes_llm
+status: published
+language: id
+description: Proses menilai kinerja model pembelajaran mesin yang memprediksi salah
+  satu dari dua kemungkinan hasil.
 ---
-
 ## Definition
 
 Bidang ini melibatkan analisis metrik seperti akurasi, presisi, recall, skor F1, dan Area Under the Receiver Operating Characteristic Curve (AUC-ROC). Hal ini membantu menentukan seberapa baik model dapat membedakan antara kelas positif dan negatif.

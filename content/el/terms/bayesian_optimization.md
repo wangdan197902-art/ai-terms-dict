@@ -1,23 +1,24 @@
 ---
-title: "Μπεϋζιανή Βελτιστοποίηση"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Μπεϋζιανή Βελτιστοποίηση
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /el/terms/bayesian_optimization/
-date: "2026-07-18T15:53:12.518614Z"
-lastmod: "2026-07-18T17:15:09.885098Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:53:12.518614Z'
+lastmod: '2026-07-18T17:15:09.885098Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια στρατηγική διαδοχικού σχεδιασμού για τη παγκόσμια βελτιστοποίηση μαύρων κουτιών συναρτήσεων που είναι ακριβές να αξιολογηθούν."
+source: agnes_llm
+status: published
+language: el
+description: Μια στρατηγική διαδοχικού σχεδιασμού για τη παγκόσμια βελτιστοποίηση
+  μαύρων κουτιών συναρτήσεων που είναι ακριβές να αξιολογηθούν.
 ---
-
 ## Definition
 
 Η Μπεϋζιανή βελτιστοποίηση χρησιμοποιεί ένα πιθανοκρατικό υποκατάστατο μοντέλο, συνήθως μια Γaussian Process, για να μοντελοποιήσει τη συνάρτηση στόχου. Χρησιμοποιεί μια συνάρτηση απόκτησης για να εξισορροπήσει την εξερεύνηση και την εκμετάλλευση.

@@ -1,23 +1,24 @@
 ---
-title: "Συνεχής Ανάπτυξη"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Συνεχής Ανάπτυξη
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /el/terms/continuous_deployment/
-date: "2026-07-18T15:56:52.895664Z"
-lastmod: "2026-07-18T17:15:09.892635Z"
+slug: continuous_deployment
+date: '2026-07-18T15:56:52.895664Z'
+lastmod: '2026-07-18T17:15:09.892635Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια πρακτική λογισμικού όπου κάθε αλλαγή κώδικα που περνά τους αυτοματοποιημένους ελέγχους κυκλοφορεί αυτόματα στο περιβάλλον παραγωγής."
+source: agnes_llm
+status: published
+language: el
+description: Μια πρακτική λογισμικού όπου κάθε αλλαγή κώδικα που περνά τους αυτοματοποιημένους
+  ελέγχους κυκλοφορεί αυτόματα στο περιβάλλον παραγωγής.
 ---
-
 ## Definition
 
 Η Συνεχής Ανάπτυξη είναι μια επέκταση της συνεχούς παράδοσης που αυτοματοποιεί ολόκληρη τη διαδικασία κυκλοφορίας. Μόλις οι αλλαγές στον κώδικα περάσουν όλες τις πύλες ποιότητας, συμπεριλαμβανομένων των μοναδιαίων δοκιμών, των ολοκληρωτικών δοκιμών και των ασφαλείας...

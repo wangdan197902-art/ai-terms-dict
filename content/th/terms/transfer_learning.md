@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้แบบถ่ายโอน"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: การเรียนรู้แบบถ่ายโอน
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /th/terms/transfer_learning/
-date: "2026-07-18T15:31:26.123650Z"
-lastmod: "2026-07-18T16:38:07.551691Z"
+slug: transfer_learning
+date: '2026-07-18T15:31:26.123650Z'
+lastmod: '2026-07-18T16:38:07.551691Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเรียนรู้ของเครื่องที่นำโมเดลซึ่งพัฒนาขึ้นสำหรับงานหนึ่งไปใช้เป็นจุดเริ่มต้นสำหรับโมเดลในงานที่สอง"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเรียนรู้ของเครื่องที่นำโมเดลซึ่งพัฒนาขึ้นสำหรับงานหนึ่งไปใช้เป็นจุดเริ่มต้นสำหรับโมเดลในงานที่สอง
 ---
-
 ## Definition
 
 การเรียนรู้แบบถ่ายโอนใช้ประโยชน์จากโมเดลที่ได้รับการฝึกฝนมาก่อนเพื่อปรับปรุงประสิทธิภาพและลดเวลาการฝึกฝนบนงานใหม่ที่คล้ายคลึงกัน แทนที่จะเริ่มฝึกจากศูนย์ นักพัฒนาจะทำการปรับแต่งน้ำหนักที่มีอยู่ ทำให้สามารถเรียนรู้รูปแบบใหม่ได้อย่างมีประสิทธิภาพมากขึ้น

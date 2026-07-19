@@ -1,23 +1,24 @@
 ---
-title: "Zusammenfassung"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Zusammenfassung
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /de/terms/summarization/
-date: "2026-07-18T11:00:05.256674Z"
-lastmod: "2026-07-18T11:44:44.900477Z"
+slug: summarization
+date: '2026-07-18T11:00:05.256674Z'
+lastmod: '2026-07-18T11:44:44.900477Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine NLP-Aufgabe, die eine prägnante und kohärente Zusammenfassung eines längeren Textes erstellt, wobei die wichtigsten Informationen erhalten bleiben."
+source: agnes_llm
+status: published
+language: de
+description: Eine NLP-Aufgabe, die eine prägnante und kohärente Zusammenfassung eines
+  längeren Textes erstellt, wobei die wichtigsten Informationen erhalten bleiben.
 ---
-
 ## Definition
 
 Die Textzusammenfassung reduziert große Textmengen in kürzere Versionen, ohne die kritische Bedeutung zu verlieren. Sie kann extraktiv sein, indem wichtige Sätze aus der Quelle ausgewählt werden, oder abstraktiv, indem neue Sätze generiert werden.

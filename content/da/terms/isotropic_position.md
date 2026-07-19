@@ -7,8 +7,6 @@ tags: ["Mathematics", "Geometry", "Theory"]
 difficulty: 5
 weight: 1
 slug: "isotropic_position"
-aliases:
-  - /da/terms/isotropic_position/
 date: "2026-07-18T16:02:18.082015Z"
 lastmod: "2026-07-18T17:15:09.301212Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En geometrisk transformation af en konveks krop, hvor dens inertimatrix er proportional med enhedsmatricen, hvilket forenkler analysen."
 ---
-
 ## Definition
 
 Inden for konveks geometri og sandsynlighed i høje dimensioner er en mængde af punkter eller en konveks krop i isotrop position, hvis tyngdepunktet er i origo, og dens kovariansmatrix er en skalar multiplum af

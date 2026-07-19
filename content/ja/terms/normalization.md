@@ -1,23 +1,23 @@
 ---
-title: "正規化"
-term_id: "normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "mathematics", "ml_basics"]
+title: 正規化
+term_id: normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- mathematics
+- ML Basics
 difficulty: 2
 weight: 1
-slug: "normalization"
-aliases:
-  - /ja/terms/normalization/
-date: "2026-07-18T11:25:45.742288Z"
-lastmod: "2026-07-18T11:44:45.127337Z"
+slug: normalization
+date: '2026-07-18T11:25:45.742288Z'
+lastmod: '2026-07-18T11:44:45.127337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "正規化は、数値特徴量を通常0から1の範囲にスケーリングするデータ前処理手法であり、モデルの収束性とパフォーマンスを向上させます。"
+source: agnes_llm
+status: published
+language: ja
+description: 正規化は、数値特徴量を通常0から1の範囲にスケーリングするデータ前処理手法であり、モデルの収束性とパフォーマンスを向上させます。
 ---
-
 ## Definition
 
 一般的な方法には、Min-MaxスケーリングとZスコア標準化があります。このプロセスにより、特に勾配ベースの最適化において、大きな大きさを持つ特徴量が学習アルゴリズムを支配してしまうのを防ぎます。

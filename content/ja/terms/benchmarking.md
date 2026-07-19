@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /ja/terms/benchmarking/
 date: "2026-07-18T10:48:49.583369Z"
 lastmod: "2026-07-18T11:44:45.002927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIモデルをベンチマークに対して体系的にテストし、その性能を定量化して改善点を特定するプロセス。"
 ---
-
 ## Definition
 
 ベンチマーキングとは、事前に定義されたベンチマークを使用して、特定のタスクにおけるAIモデルの性能がどの程度優れているかを測定するための実験的実践です。このプロセスには、モデルを標準化された環境で実行することが含まれます。

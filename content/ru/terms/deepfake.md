@@ -1,23 +1,24 @@
 ---
-title: "Дипфейк"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: Дипфейк
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /ru/terms/deepfake/
-date: "2026-07-18T15:33:29.272031Z"
-lastmod: "2026-07-18T16:38:07.100842Z"
+slug: deepfake
+date: '2026-07-18T15:33:29.272031Z'
+lastmod: '2026-07-18T16:38:07.100842Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Синтетические медиа, в которых облик человека заменяется на другой с использованием искусственного интеллекта и методов глубокого обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Синтетические медиа, в которых облик человека заменяется на другой с
+  использованием искусственного интеллекта и методов глубокого обучения.
 ---
-
 ## Definition
 
 Дипфейки — это гиперреалистичные манипуляции с аудио или видео, созданные с помощью генеративно-состязательных сетей (GAN) или автоэнкодеров. Они вызывают серьезные этические проблемы, связанные с дезинформацией, приватностью...

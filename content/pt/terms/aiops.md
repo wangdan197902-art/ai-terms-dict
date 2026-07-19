@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /pt/terms/aiops/
 date: "2026-07-18T14:48:19.633243Z"
 lastmod: "2026-07-18T15:51:59.459525Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "AIOps refere-se à aplicação de inteligência artificial e aprendizado de máquina para automatizar processos de operações de TI."
 ---
-
 ## Definition
 
 Inteligência Artificial para Operações de TI (AIOps) combina análise de big data e algoritmos de aprendizado de máquina para automatizar a gestão da infraestrutura e das operações de TI. Isso ajuda as organizações a gerenciar ambientes complexos de forma mais eficiente.

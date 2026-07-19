@@ -1,23 +1,24 @@
 ---
-title: "ROCm"
-term_id: "rocm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "software", "gpu"]
+title: ROCm
+term_id: rocm
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- software
+- GPU
 difficulty: 3
 weight: 1
-slug: "rocm"
-aliases:
-  - /fr/terms/rocm/
-date: "2026-07-18T11:35:41.439531Z"
-lastmod: "2026-07-18T11:44:45.319731Z"
+slug: rocm
+date: '2026-07-18T11:35:41.439531Z'
+lastmod: '2026-07-18T11:44:45.319731Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La plateforme logicielle open source d'AMD pour le calcul GPU, offrant une alternative à l'écosystème CUDA de NVIDIA."
+source: agnes_llm
+status: published
+language: fr
+description: La plateforme logicielle open source d'AMD pour le calcul GPU, offrant
+  une alternative à l'écosystème CUDA de NVIDIA.
 ---
-
 ## Definition
 
 ROCm (Radeon Open Compute) est une pile de pilotes et de logiciels développée par AMD pour permettre le calcul haute performance sur les GPU AMD. Elle fournit les bibliothèques, compilateurs et outils nécessaires au développement d'applications parallèles, notamment dans le domaine de l'intelligence artificielle et du calcul scientifique.

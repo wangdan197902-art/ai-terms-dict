@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /zh/terms/bradleyterry_model/
 date: "2026-07-18T11:09:30.642814Z"
 lastmod: "2026-07-18T11:44:45.453048Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种用于分析成对比较数据的统计模型，估计一个项目优于另一个项目的概率。"
 ---
-
 ## Definition
 
 布拉德利-特里模型是一种概率模型，广泛用于心理测量学和机器学习中以处理成对比较。它为每个项目分配一个潜在分数，计算概率……

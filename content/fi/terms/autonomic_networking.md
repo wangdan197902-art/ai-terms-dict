@@ -1,23 +1,24 @@
 ---
-title: "Autonominen verkkotoiminta"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Autonominen verkkotoiminta
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /fi/terms/autonomic_networking/
-date: "2026-07-18T15:44:44.262810Z"
-lastmod: "2026-07-18T17:15:09.386749Z"
+slug: autonomic_networking
+date: '2026-07-18T15:44:44.262810Z'
+lastmod: '2026-07-18T17:15:09.386749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Itsehallinnoiva verkkoinfrastruktuuri, joka käyttää tekoälyä konfigurointiin, optimointiin ja virheiden korjaamiseen."
+source: agnes_llm
+status: published
+language: fi
+description: Itsehallinnoiva verkkoinfrastruktuuri, joka käyttää tekoälyä konfigurointiin,
+  optimointiin ja virheiden korjaamiseen.
 ---
-
 ## Definition
 
 Autonominen verkkotoiminta soveltaa autonomisen tietokoneen periaatteita televerkkojen hallintaan mahdollistaen järjestelmien itsehallinnan vähäisellä ihmisen väliintulolla. Nämä verkot käyttävät tekoälyä vikojen havaitsemiseen ja ennakoivaan korjaamiseen.

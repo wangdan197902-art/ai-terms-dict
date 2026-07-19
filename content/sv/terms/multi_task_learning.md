@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /sv/terms/multi_task_learning/
 date: "2026-07-18T16:10:40.823691Z"
 lastmod: "2026-07-18T17:15:09.029155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Multi-task learning är en paradigm inom maskininlärning där en modell tränas på flera relaterade uppgifter samtidigt för att förbättra generaliseringen."
 ---
-
 ## Definition
 
 Denna teknik utnyttjar den induktiva bias som delas mellan relaterade uppgifter för att förbättra inlärningseffektiviteten och prestandan. Genom att träna en enda modell för att utföra flera uppgifter samtidigt, lär sig modellen en s

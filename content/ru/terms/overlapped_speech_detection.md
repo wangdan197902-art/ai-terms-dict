@@ -1,23 +1,24 @@
 ---
-title: "Обнаружение перекрывающейся речи"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Обнаружение перекрывающейся речи
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /ru/terms/overlapped_speech_detection/
-date: "2026-07-18T16:08:56.807732Z"
-lastmod: "2026-07-18T16:38:07.188962Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:08:56.807732Z'
+lastmod: '2026-07-18T16:38:07.188962Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс выявления временных интервалов, когда два или более говорящих говорят одновременно в аудиопотоке."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс выявления временных интервалов, когда два или более говорящих
+  говорят одновременно в аудиопотоке.
 ---
-
 ## Definition
 
 Обнаружение перекрывающейся речи (OSD) — это специализированная задача обработки речи, которая определяет интервалы одновременной вокализации. В отличие от диаризации говорящих, которая фокусируется на том, «кто и когда говорил», OSD специализируется на идентификации моментов наложения голосов.

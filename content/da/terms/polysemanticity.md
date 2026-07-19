@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /da/terms/polysemanticity/
 date: "2026-07-18T16:12:11.436207Z"
 lastmod: "2026-07-18T17:15:09.321640Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Fænomenet, hvor individuelle neuroner i neurale netværk reagerer på flere forskellige begreber."
 ---
-
 ## Definition
 
 Polysemanci er en egenskab, der observeres i dybe neurale netværk, især i transformere, hvor en enkelt neuron kan aktiveres som respons på flere urelaterede eller semantisk distinkte funktioner.

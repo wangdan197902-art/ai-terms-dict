@@ -1,23 +1,25 @@
 ---
-title: "Owain Evans"
-term_id: "owain_evans"
-category: "basic_concepts"
-subcategory: ""
-tags: ["researcher", "interpretability", "ai_safety"]
+title: Owain Evans
+term_id: owain_evans
+category: basic_concepts
+subcategory: ''
+tags:
+- researcher
+- interpretability
+- AI Safety
 difficulty: 2
 weight: 1
-slug: "owain_evans"
-aliases:
-  - /no/terms/owain_evans/
-date: "2026-07-18T16:10:21.330202Z"
-lastmod: "2026-07-18T16:38:07.031528Z"
+slug: owain_evans
+date: '2026-07-18T16:10:21.330202Z'
+lastmod: '2026-07-18T16:38:07.031528Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Owain Evans er en fremtredende forsker og foreleser kjent for sitt arbeid med AI-interpretabilitet, mekanisk interpretabilitet og evaluering av resonnementsevnen til store språkmodeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: Owain Evans er en fremtredende forsker og foreleser kjent for sitt arbeid
+  med AI-interpretabilitet, mekanisk interpretabilitet og evaluering av resonnementsevnen
+  til store språkmodeller.
 ---
-
 ## Definition
 
 Owain Evans er en datavitenskapsmann og utdanner, for tiden tilknyttet Center for AI Safety og tidligere med Anthropic. Han er bredt anerkjent for sine bidrag til mekanisk interpretabilitet.

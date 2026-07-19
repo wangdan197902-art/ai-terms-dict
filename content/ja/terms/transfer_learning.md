@@ -1,23 +1,23 @@
 ---
-title: "転移学習"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: 転移学習
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /ja/terms/transfer_learning/
-date: "2026-07-18T10:55:53.677075Z"
-lastmod: "2026-07-18T11:44:45.021756Z"
+slug: transfer_learning
+date: '2026-07-18T10:55:53.677075Z'
+lastmod: '2026-07-18T11:44:45.021756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "あるタスクのために開発されたモデルを、2つ目のタスクのためのモデルの初期値として再利用する機械学習の手法。"
+source: agnes_llm
+status: published
+language: ja
+description: あるタスクのために開発されたモデルを、2つ目のタスクのためのモデルの初期値として再利用する機械学習の手法。
 ---
-
 ## Definition
 
 転移学習は、新しい関連タスクにおけるパフォーマンスの向上とトレーニング時間の短縮を実現するために、事前学習済みモデルを活用します。ゼロからトレーニングするのではなく、開発者は既存の重みを微調整し、効率的に学習を行います。

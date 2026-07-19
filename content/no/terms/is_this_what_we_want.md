@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /no/terms/is_this_what_we_want/
 date: "2026-07-18T16:00:53.377687Z"
 lastmod: "2026-07-18T16:38:07.014770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et kritisk etisk rammeverk brukt til å vurdere AI-systemer opp mot samfunnsmessige verdier, rettferdighet og potensielt skadelige konsekvenser."
 ---
-
 ## Definition
 
 Dette uttrykket representerer et sentralt spørsmål innen AI-etikk og styring, som oppfordrer interessenter til å vurdere om utplassert AI-teknologi er i samsvar med menneskelige verdier og allmenne interesser. Det involverer granskni

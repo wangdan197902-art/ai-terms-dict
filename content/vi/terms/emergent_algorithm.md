@@ -7,8 +7,6 @@ tags: ["complexity", "swarm", "systems"]
 difficulty: 3
 weight: 1
 slug: "emergent_algorithm"
-aliases:
-  - /vi/terms/emergent_algorithm/
 date: "2026-07-18T15:51:44.570907Z"
 lastmod: "2026-07-18T16:38:07.753542Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Hành vi thuật toán nảy sinh một cách tự phát từ sự tương tác của các thành phần đơn giản mà không được lập trình rõ ràng."
 ---
-
 ## Definition
 
 Các thuật toán phát sinh đề cập đến các hành vi hoặc mẫu hình toàn cầu phức tạp nảy sinh từ sự tương tác cục bộ của nhiều tác nhân hoặc quy tắc đơn giản trong một hệ thống. Không giống như lập trình truyền thống theo hướng từ trên xuống (top-down) nơi các hành vi phức tạp được thiết kế trực tiếp, trong các hệ thống phát sinh, trật tự và chức năng phức tạp xuất hiện từ dưới lên (bottom-up) thông qua các tương tác địa phương giữa các thành phần đơn giản.

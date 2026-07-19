@@ -1,23 +1,25 @@
 ---
-title: "Învățarea caracteristicilor geometrice"
-term_id: "geometric_feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-technique", "graph-learning", "geometry"]
+title: Învățarea caracteristicilor geometrice
+term_id: geometric_feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Technique
+- Graph Learning
+- geometry
 difficulty: 4
 weight: 1
-slug: "geometric_feature_learning"
-aliases:
-  - /ro/terms/geometric_feature_learning/
-date: "2026-07-18T16:00:03.656842Z"
-lastmod: "2026-07-18T17:15:09.660235Z"
+slug: geometric_feature_learning
+date: '2026-07-18T16:00:03.656842Z'
+lastmod: '2026-07-18T17:15:09.660235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică în învățarea profundă care extrage caracteristici din date cu structuri geometrice inerente, cum ar fi grafuri sau manifold-uri, folosind rețele neuronale specializate."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică în învățarea profundă care extrage caracteristici din date
+  cu structuri geometrice inerente, cum ar fi grafuri sau manifold-uri, folosind rețele
+  neuronale specializate.
 ---
-
 ## Definition
 
 Învățarea caracteristicilor geometrice se concentrează pe procesarea datelor care posedă structuri non-euclidiene, cum ar fi rețelele sociale, grafurile moleculare sau mesh-urile 3D. Tehnici precum Rețelele Neuronale Grafice (GNN) și...

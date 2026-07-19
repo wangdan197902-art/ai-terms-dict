@@ -1,23 +1,24 @@
 ---
-title: "Difusão"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: Difusão
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /pt/terms/diffusion/
-date: "2026-07-18T14:34:18.553336Z"
-lastmod: "2026-07-18T15:51:59.427235Z"
+slug: diffusion
+date: '2026-07-18T14:34:18.553336Z'
+lastmod: '2026-07-18T15:51:59.427235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica de modelagem generativa que cria dados revertendo um processo gradual de adição de ruído para reconstruir amostras limpas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica de modelagem generativa que cria dados revertendo um processo
+  gradual de adição de ruído para reconstruir amostras limpas.
 ---
-
 ## Definition
 
 Os modelos de difusão são uma classe de IA generativa que aprende a reverter um processo estocástico de adição de ruído aos dados. Ao treinar uma rede neural para prever e remover esse ruído passo a passo, eles podem gerar novas amostras de dados de alta qualidade.

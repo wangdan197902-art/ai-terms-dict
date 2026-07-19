@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /tr/terms/embedding/
 date: "2026-07-18T15:23:00.947042Z"
 lastmod: "2026-07-18T16:38:07.225595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kelimeler veya görüntüler gibi ayrık nesneleri sürekli vektör alanlarına eşleyen bir teknik."
 ---
-
 ## Definition
 
 Gömme'ler, veriye ait anlamsal ilişkilerin geometrik uzayda korunduğu yoğun vektör temsilleridir. Kategorik veya yüksek boyutlu girdileri sabit uzunlukta vektörlere dönüştürerek, modelin

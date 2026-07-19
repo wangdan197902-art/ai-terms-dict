@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /no/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T15:49:41.657337Z"
 lastmod: "2026-07-18T16:38:06.989691Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et datasett hentet fra Stack Exchange XML-utleveringer, brukt til å trene setningsinnbygginger fokusert på teknisk og fellesskapsdrevet Q&A-innhold."
 ---
-
 ## Definition
 
 Dette datasettet ekstraherer data på setningsnivå fra Stack Exchange XML-filer, og gir en rik kilde til tekniske diskusjoner, kodeutdrag og problemløsningsdialoger. Det brukes spesifikt i

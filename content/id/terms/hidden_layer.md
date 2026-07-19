@@ -1,23 +1,24 @@
 ---
-title: "Lapisan Tersembunyi"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: Lapisan Tersembunyi
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /id/terms/hidden_layer/
-date: "2026-07-18T15:54:25.332379Z"
-lastmod: "2026-07-18T16:38:07.466442Z"
+slug: hidden_layer
+date: '2026-07-18T15:54:25.332379Z'
+lastmod: '2026-07-18T16:38:07.466442Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Lapisan perantara dalam jaringan saraf antara lapisan masukan dan keluaran yang memproses fitur."
+source: agnes_llm
+status: published
+language: id
+description: Lapisan perantara dalam jaringan saraf antara lapisan masukan dan keluaran
+  yang memproses fitur.
 ---
-
 ## Definition
 
 Lapisan tersembunyi terdiri dari neuron yang menerima masukan dari lapisan sebelumnya, menerapkan bobot dan bias, serta meneruskan data yang telah ditransformasikan ke depan melalui fungsi aktivasi. Lapisan-lapisan ini memungkinkan jaringan saraf untuk mempelajari representasi data yang kompleks dan abstrak.

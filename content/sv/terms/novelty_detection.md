@@ -1,23 +1,25 @@
 ---
-title: "Novitetsdetektering"
-term_id: "novelty_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["unsupervised", "security", "quality-control"]
+title: Novitetsdetektering
+term_id: novelty_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- unsupervised
+- security
+- Quality Control
 difficulty: 3
 weight: 1
-slug: "novelty_detection"
-aliases:
-  - /sv/terms/novelty_detection/
-date: "2026-07-18T16:12:00.750206Z"
-lastmod: "2026-07-18T17:15:09.032351Z"
+slug: novelty_detection
+date: '2026-07-18T16:12:00.750206Z'
+lastmod: '2026-07-18T17:15:09.032351Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En teknik för övervakningsfri inlärning (unsupervised learning) som används för att identifiera nya eller okända mönster som skiljer sig markant från etablerad träningsdata."
+source: agnes_llm
+status: published
+language: sv
+description: En teknik för övervakningsfri inlärning (unsupervised learning) som används
+  för att identifiera nya eller okända mönster som skiljer sig markant från etablerad
+  träningsdata.
 ---
-
 ## Definition
 
 Novitetsdetektering är en maskininlärningsuppgift som fokuserar på att identifiera datapunkter som inte följer förväntat beteende eller tillhör kända klasser. Den fungerar vanligtvis på ett övervakningsfritt sätt genom att lära sig fördelningen av normal data.

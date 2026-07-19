@@ -7,8 +7,6 @@ tags: ["workflow", "process"]
 difficulty: 1
 weight: 1
 slug: "finally"
-aliases:
-  - /cs/terms/finally/
 date: "2026-07-18T15:25:03.521021Z"
 lastmod: "2026-07-18T17:15:09.068589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V pracovních postupech umělé inteligence označuje 'nakonec' závěrečný krok nebo fázi generování výstupu po dokončení všech fází zpracování."
 ---
-
 ## Definition
 
 Koncept 'nakonec' představuje terminální stupeň v pipeline umělé inteligence, kde zpracovaná data přinášejí konečný výsledek, jako je predikce, klasifikace nebo vygenerovaný text. Označuje konec výpočetního procesu.

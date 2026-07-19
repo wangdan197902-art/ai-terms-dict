@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /de/terms/asr_complete/
 date: "2026-07-18T11:01:42.774433Z"
 lastmod: "2026-07-18T11:44:44.905377Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "ASR-vollständig beschreibt ein Spracherkennungssystem, das auf standardisierten Benchmark-Datensätzen eine menschliche Genauigkeitsleistung erreicht."
 ---
-
 ## Definition
 
 Der Begriff ASR-vollständig (ASR-complete) bedeutet, dass ein System zur automatischen Spracherkennung (Automatic Speech Recognition) ein Leistungsniveau erreicht hat, das Transkribierern auf spezifischen, klar definierten Aufgaben und Datensätzen entspricht. Dies markiert einen Meilenstein in der KI-Forschung.

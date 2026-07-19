@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /nl/terms/ai_alignment/
 date: "2026-07-18T15:40:03.848180Z"
 lastmod: "2026-07-18T17:15:08.711896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het studiegebied gericht op het waarborgen dat AI-systemen zich gedragen in overeenstemming met menselijke waarden en intenties."
 ---
-
 ## Definition
 
 AI-alignement behandelt de uitdaging om kunstmatige intelligentiesystemen robuust te laten doen wat hun gebruikers bedoelen, in plaats van wat ze letterlijk specificeren. Het omvat technische methoden om ervoor te zorgen dat AI-systemen veilig en nuttig blijven, zelfs wanneer ze worden geconfronteerd met onverwachte situaties of ambiguïteiten.

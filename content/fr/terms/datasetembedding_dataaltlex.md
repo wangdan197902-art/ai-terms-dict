@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /fr/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T11:11:47.240578Z"
 lastmod: "2026-07-18T11:44:45.223431Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données contenant des formes lexicales alternatives utilisé pour entraîner des modèles à l'équivalence sémantique et à la détection de paraphrases."
 ---
-
 ## Definition
 
 Le jeu de données Altlex est composé de paires de phrases partageant le même sens sous-jacent mais utilisant un vocabulaire ou des structures syntaxiques différents. Il est principalement utilisé pour l'entraînement de modèles d'incorporation (embeddings).

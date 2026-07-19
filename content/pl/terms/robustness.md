@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /pl/terms/robustness/
 date: "2026-07-18T16:15:19.257615Z"
 lastmod: "2026-07-18T17:15:08.914805Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zdolność modelu sztucznej inteligencji do utrzymania wydajności i stabilności w obliczu zaśmieconych danych, ataków adversarialnych lub zmian rozkładu danych."
 ---
-
 ## Definition
 
 W kontekście bezpieczeństwa i etyki AI, odporność odnosi się do odporności modelu na nieoczekiwane wejścia lub złośliwe manipulacje. Odporny system nadal działa poprawnie nawet wtedy, gdy dane wejściowe zawierają szum,

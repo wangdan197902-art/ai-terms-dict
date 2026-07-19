@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /ja/terms/empirical_dynamic_modeling/
 date: "2026-07-18T11:13:32.525702Z"
 lastmod: "2026-07-18T11:44:45.094569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "観測された時系列データから複雑系のダイナミクスを再構築するために用いられる非パラメトリック統計手法。"
 ---
-
 ## Definition
 
 経験的動的モデリング（EDM）は、特定のパラメトリック形式を仮定せずに観測データを用いて非線形力学系を分析するための枠組みです。これはタケンスの埋め込み定理に基づく手法に依存しています。

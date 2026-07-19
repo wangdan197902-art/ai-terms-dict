@@ -1,23 +1,23 @@
 ---
-title: "Ltx Video(Ltx Video)"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video(Ltx Video)
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /ko/terms/ltx_video/
-date: "2026-07-18T16:03:15.502069Z"
-lastmod: "2026-07-18T16:38:06.874039Z"
+slug: ltx_video
+date: '2026-07-18T16:03:15.502069Z'
+lastmod: '2026-07-18T16:38:06.874039Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "텍스트나 이미지 프롬프트에서 고품질의 시간적 일관성을 갖춘 비디오 콘텐츠를 생성하도록 특별히 최적화된 잠재 확산 모델."
+source: agnes_llm
+status: published
+language: ko
+description: 텍스트나 이미지 프롬프트에서 고품질의 시간적 일관성을 갖춘 비디오 콘텐츠를 생성하도록 특별히 최적화된 잠재 확산 모델.
 ---
-
 ## Definition
 
 Ltx Video는 잠재 공간 확산 프로세스를 활용하여 일관된 움직임과 시각적 세부 사항을 생성함으로써 비디오용 생성형 AI의 발전을 나타냅니다. 이는 비디오 생성에서 흔히 발생하는 과제들을 해결합니다.

@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /da/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:53:30.037995Z"
-lastmod: "2026-07-18T17:15:09.282145Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:53:30.037995Z'
+lastmod: '2026-07-18T17:15:09.282145Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En specialiseret Hugging Face Diffusers-pipeline, typisk forbundet med zero-shot-løsninger eller specifikke arkitektoniske implementeringer til billedgenervation, ofte knyttet til Z-aksen eller specif"
+source: agnes_llm
+status: published
+language: da
+description: En specialiseret Hugging Face Diffusers-pipeline, typisk forbundet med
+  zero-shot-løsninger eller specifikke arkitektoniske implementeringer til billedgenervation,
+  ofte knyttet til Z-aksen eller specif
 ---
-
 ## Definition
 
 I konteksten af Hugging Face Diffusers-økosystemet refererer denne betegnelse generelt til en pipeline-konfiguration eller wrapper, der er designet til specifikke billedgenereringsopgaver. Den kan potentielt udnytte zero-shot-metoder til at generere billeder baseret på tekstbeskrivelser uden yderligere træning.

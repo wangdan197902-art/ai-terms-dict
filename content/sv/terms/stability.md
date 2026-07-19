@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /sv/terms/stability/
 date: "2026-07-18T16:21:46.608046Z"
 lastmod: "2026-07-18T17:15:09.050434Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Egenskapen hos en maskininlärningsmodell att producera konsekventa förutsägelser när den tränas på något olika dataset."
 ---
-
 ## Definition
 
 Inom maskininlärning syftar stabilitet på modellens robusthet när den utsätts för små störningar i träningsdatan. En stabil algoritm kommer att ge liknande modeller och förutsägelser även om träningsmängden ändras något (t.ex. genom borttagning eller tillägg av datapunkter). Detta är viktigt för att säkerställa att modellens prestanda inte svänger kraftigt beroende på specifika urval i datan, vilket ofta korrelerar med låg varians och god generaliseringsförmåga.

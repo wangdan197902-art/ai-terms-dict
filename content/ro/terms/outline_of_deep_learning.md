@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /ro/terms/outline_of_deep_learning/
 date: "2026-07-18T16:14:36.949976Z"
 lastmod: "2026-07-18T17:15:09.688670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O prezentare structurată a metodologiilor, arhitecturilor și strategiilor de optimizare din învățarea profundă."
 ---
-
 ## Definition
 
 Schita învățării profunde cuprinde structurile fundamentale, cum ar fi straturile rețelelor neuronale, funcțiile de activare și metricile de pierdere. Detaliază tehnicile de antrenament, inclusiv backpropagation-ul și gra

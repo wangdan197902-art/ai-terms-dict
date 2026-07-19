@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /it/terms/large_language_models/
 date: "2026-07-18T15:26:09.314108Z"
 lastmod: "2026-07-18T17:15:08.568621Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il paradigma dell'uso di reti neurali scalate per compiti di comprensione e generazione del linguaggio naturale a spettro ampio."
 ---
-
 ## Definition
 
 Questo termine si riferisce al più ampio paradigma applicativo in cui modelli con miliardi di parametri vengono sfruttati per l'apprendimento zero-shot o few-shot in compiti linguistici diversificati. A differenza dei modelli specializzati

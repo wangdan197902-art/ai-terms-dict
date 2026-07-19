@@ -1,23 +1,24 @@
 ---
-title: "التحسين البايزي"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: التحسين البايزي
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /ar/terms/bayesian_optimization/
-date: "2026-07-18T15:47:03.311379Z"
-lastmod: "2026-07-18T17:15:08.480875Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:47:03.311379Z'
+lastmod: '2026-07-18T17:15:08.480875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "استراتيجية تصميم متسلسلة للتحسين العالمي للدوال الصندوق الأسود المكلفة في التقييم."
+source: agnes_llm
+status: published
+language: ar
+description: استراتيجية تصميم متسلسلة للتحسين العالمي للدوال الصندوق الأسود المكلفة
+  في التقييم.
 ---
-
 ## Definition
 
 يستخدم التحسين البايزي نموذجاً تقريبياً احتماليًا، عادةً ما يكون عملية غاوس، لنمذجة دالة الهدف. ويوظف دالة اقتناء لتحقيق التوازن بين الاستكشاف والاستغلال، بحيث

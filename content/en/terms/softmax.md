@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /en/terms/softmax/
-date: "2026-07-18T09:42:48.759008Z"
-lastmod: "2026-07-18T11:44:44.633382Z"
+slug: softmax
+date: '2026-07-18T09:42:48.759008Z'
+lastmod: '2026-07-18T11:44:44.633382Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A mathematical function that converts a vector of arbitrary real-valued scores into a probability distribution."
+source: agnes_llm
+status: published
+language: en
+description: A mathematical function that converts a vector of arbitrary real-valued
+  scores into a probability distribution.
 ---
-
 ## Definition
 
 Softmax is widely used in the output layer of neural networks for multi-class classification tasks. It takes a vector of raw logits and normalizes them so that each element represents a probability between 0 and 1, and all elements sum to 1. This allows the model to express confidence levels across mutually exclusive classes, making it essential for interpreting final predictions in classification models.

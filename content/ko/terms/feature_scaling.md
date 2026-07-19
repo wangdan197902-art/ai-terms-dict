@@ -1,23 +1,23 @@
 ---
-title: "피처 스케일링"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: 피처 스케일링
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /ko/terms/feature_scaling/
-date: "2026-07-18T15:55:47.592237Z"
-lastmod: "2026-07-18T16:38:06.840321Z"
+slug: feature_scaling
+date: '2026-07-18T15:55:47.592237Z'
+lastmod: '2026-07-18T16:38:06.840321Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "데이터의 독립 변수 또는 피처 범위를 정규화하여 크기의 균일성을 보장하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 데이터의 독립 변수 또는 피처 범위를 정규화하여 크기의 균일성을 보장하는 과정입니다.
 ---
-
 ## Definition
 
 피처 스케일링은 입력 변수의 범위를 표준화하여, 크기가 큰 피처가 학습 과정을 지배하는 것을 방지합니다. 일반적인 방법으로는 정규화(최소-최대 스케일링)와 표준화가 있습니다.

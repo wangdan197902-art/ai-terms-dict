@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /ko/terms/aiops/
 date: "2026-07-18T15:39:40.903951Z"
 lastmod: "2026-07-18T16:38:06.804854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능과 머신러닝을 적용하여 IT 운영 프로세스를 자동화하는 것."
 ---
-
 ## Definition
 
 IT 운영을 위한 인공지능(AIOps)은 빅데이터 분석과 머신러닝 알고리즘을 결합하여 IT 인프라 및 운영 관리를 자동화합니다. 이는 조직이 복잡한 IT 환경을 효과적으로 관리할 수 있도록 돕습니다.

@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /de/terms/machine_learning_control/
 date: "2026-07-18T11:22:46.714995Z"
 lastmod: "2026-07-18T11:44:44.961813Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein regeltheoretischer Ansatz, bei dem Algorithmen des maschinellen Lernens die Systemdynamik adaptiv steuern, um die Leistung in Echtzeit zu optimieren."
 ---
-
 ## Definition
 
 Die Regelungstechnik mittels maschinellem Lernen integriert adaptive Algorithmen mit herkömmlichen Regelsystemen, um mit nichtlinearen oder unsicheren Umgebungen umzugehen. Im Gegensatz zu statischen Reglern lernen diese Systeme aus Betriebsdaten kontinuierlich dazu und passen ihre Parameter an veränderte Bedingungen an, was eine robuste und effiziente Steuerung komplexer dynamischer Systeme ermöglicht.

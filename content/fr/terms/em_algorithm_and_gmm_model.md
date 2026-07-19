@@ -1,23 +1,25 @@
 ---
-title: "Algorithme EM et modèle GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: Algorithme EM et modèle GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /fr/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T11:15:12.370075Z"
-lastmod: "2026-07-18T11:44:45.245186Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T11:15:12.370075Z'
+lastmod: '2026-07-18T11:44:45.245186Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "L'algorithme Expectation-Maximization est une méthode itérative permettant d'estimer les maximums de vraisemblance dans les modèles statistiques comportant des variables latentes, couramment utilisé p"
+source: agnes_llm
+status: published
+language: fr
+description: L'algorithme Expectation-Maximization est une méthode itérative permettant
+  d'estimer les maximums de vraisemblance dans les modèles statistiques comportant
+  des variables latentes, couramment utilisé p
 ---
-
 ## Definition
 
 Ce terme désigne la relation synergique entre l'algorithme Expectation-Maximization (EM) et les Modèles de Mélange Gaussien (GMM). Un GMM suppose que tous les points de données sont générés à partir d'un mélange

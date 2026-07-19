@@ -7,8 +7,6 @@ tags: ["literature", "ethics", "culture"]
 difficulty: 3
 weight: 1
 slug: "hello_world_how_to_be_human_in_the_age_of_the_machine"
-aliases:
-  - /he/terms/hello_world_how_to_be_human_in_the_age_of_the_machine/
 date: "2026-07-18T16:03:56.591317Z"
 lastmod: "2026-07-18T17:15:09.546928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "כותרת של ספר החוקר את הצומת בין אנושיות לטכנולוגיה, המצוטט לעיתים קרובות בדיונים על אתיקת AI ועתיד העבודה."
 ---
-
 ## Definition
 
 ביטוי זה מתייחס ליצירה ספרותית ספציפית הבוחנת כיצד בני אדם יכולים לשמור על רלוונטיות וכבוד בנוף של התקדמות טכנולוגית מהירה. בשיח ה-AI, הוא משמש כנקודת ייחוס תרבותית

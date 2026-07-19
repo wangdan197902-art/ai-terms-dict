@@ -1,23 +1,24 @@
 ---
-title: "קרוסאן"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: קרוסאן
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /he/terms/croissant/
-date: "2026-07-18T15:50:30.243431Z"
-lastmod: "2026-07-18T17:15:09.524190Z"
+slug: croissant
+date: '2026-07-18T15:50:30.243431Z'
+lastmod: '2026-07-18T17:15:09.524190Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "קרוסאן הוא פורמט מטא-נתונים בקוד פתוח לתיאור ערכות נתונים, המפשט גילוי ואינטראופרבליות בבינה מלאכותית."
+source: agnes_llm
+status: published
+language: he
+description: קרוסאן הוא פורמט מטא-נתונים בקוד פתוח לתיאור ערכות נתונים, המפשט גילוי
+  ואינטראופרבליות בבינה מלאכותית.
 ---
-
 ## Definition
 
 פותח כחלק ממזמון MLCommons, קרוסאן משתמש ב-JSON-LD כדי לספק דרך סטנדרטית לתיאור ערכות נתונים, כולל המבנה, המקורות והרישיון שלהן. המטרה היא לפתור את הבעיה של קושי בגילוי ושימוש חוזר בנתונים.

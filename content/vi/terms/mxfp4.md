@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /vi/terms/mxfp4/
-date: "2026-07-18T16:05:00.743923Z"
-lastmod: "2026-07-18T16:38:07.786529Z"
+slug: mxfp4
+date: '2026-07-18T16:05:00.743923Z'
+lastmod: '2026-07-18T16:38:07.786529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "MXFP4 là định dạng dấu phẩy động hỗn hợp (mixed-precision) được tối ưu hóa cho phép nhân ma trận hiệu quả trên các bộ tăng tốc phần cứng AI."
+source: agnes_llm
+status: published
+language: vi
+description: MXFP4 là định dạng dấu phẩy động hỗn hợp (mixed-precision) được tối ưu
+  hóa cho phép nhân ma trận hiệu quả trên các bộ tăng tốc phần cứng AI.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) là một định dạng kiểu dữ liệu chuyên biệt được giới thiệu để tối ưu hóa hiệu suất và giảm mức sử dụng băng thông bộ nhớ trong các tác vụ AI. Bằng cách cho phép các phép toán độ chính xác hỗn...

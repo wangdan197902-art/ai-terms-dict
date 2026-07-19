@@ -1,23 +1,25 @@
 ---
-title: "Controllo della forza"
-term_id: "force_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "control_theory", "hardware"]
+title: Controllo della forza
+term_id: force_control
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Control Theory
+- hardware
 difficulty: 4
 weight: 1
-slug: "force_control"
-aliases:
-  - /it/terms/force_control/
-date: "2026-07-18T16:00:09.389852Z"
-lastmod: "2026-07-18T17:15:08.626869Z"
+slug: force_control
+date: '2026-07-18T16:00:09.389852Z'
+lastmod: '2026-07-18T17:15:08.626869Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il controllo della forza è una tecnica robotica che regola le forze di interazione tra l'effettore finale di un robot e il suo ambiente durante compiti fisici."
+source: agnes_llm
+status: published
+language: it
+description: Il controllo della forza è una tecnica robotica che regola le forze di
+  interazione tra l'effettore finale di un robot e il suo ambiente durante compiti
+  fisici.
 ---
-
 ## Definition
 
 Il controllo della forza consente ai robot di eseguire operazioni delicate come l'assemblaggio, la lucidatura o la presa di oggetti fragili gestendo attivamente la forza di contatto anziché limitarsi alla posizione. A differenza del puro controllo di

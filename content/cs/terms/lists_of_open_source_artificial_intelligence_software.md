@@ -1,23 +1,24 @@
 ---
-title: "Seznamy softwaru pro umělou inteligenci s otevřeným zdrojovým kódem"
-term_id: "lists_of_open_source_artificial_intelligence_software"
-category: "basic_concepts"
-subcategory: ""
-tags: ["resources", "community", "open_source"]
+title: Seznamy softwaru pro umělou inteligenci s otevřeným zdrojovým kódem
+term_id: lists_of_open_source_artificial_intelligence_software
+category: basic_concepts
+subcategory: ''
+tags:
+- resources
+- community
+- Open Source
 difficulty: 1
 weight: 1
-slug: "lists_of_open_source_artificial_intelligence_software"
-aliases:
-  - /cs/terms/lists_of_open_source_artificial_intelligence_software/
-date: "2026-07-18T16:05:59.848049Z"
-lastmod: "2026-07-18T17:15:09.148626Z"
+slug: lists_of_open_source_artificial_intelligence_software
+date: '2026-07-18T16:05:59.848049Z'
+lastmod: '2026-07-18T17:15:09.148626Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Kurátorované sbírky nebo adresáře katalogizující veřejně dostupné nástroje, knihovny a frameworky AI."
+source: agnes_llm
+status: published
+language: cs
+description: Kurátorované sbírky nebo adresáře katalogizující veřejně dostupné nástroje,
+  knihovny a frameworky AI.
 ---
-
 ## Definition
 
 Tyto seznamy zahrnují organizované repozitáře, jako jsou témata na GitHubu, seznamy typu „Awesome“ nebo komunitou udržované wiki, které agregují software s otevřeným zdrojovým kódem související s umělou inteligencí. Slouží jako zásadní zdroje pro objevování technologií.

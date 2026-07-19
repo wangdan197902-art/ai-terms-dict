@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /ro/terms/understanding/
 date: "2026-07-18T15:31:06.936963Z"
 lastmod: "2026-07-18T17:15:09.606512Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În AI, capacitatea unui model de a înțelege sensul semantic, contextul și intenția din datele de intrare, nu doar de a potrivi tipare."
 ---
-
 ## Definition
 
 Înțelegerea în AI depășește corelațiile statistice pentru a interpreta sensul subiacent al datelor. Pentru modelele de limbaj, aceasta implică înțelegerea sintaxei, semanticii și pragmaticii pentru a genera răspunsuri coerente și

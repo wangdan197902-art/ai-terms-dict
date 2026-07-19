@@ -7,8 +7,6 @@ tags: ["technical", "xml", "community"]
 difficulty: 4
 weight: 1
 slug: "datasetflax_sentence_embeddingsstackexchange_xml"
-aliases:
-  - /fr/terms/datasetflax_sentence_embeddingsstackexchange_xml/
 date: "2026-07-18T11:11:56.469799Z"
 lastmod: "2026-07-18T11:44:45.228148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données dérivé des archives XML de Stack Exchange, utilisé pour entraîner des embeddings de phrases axés sur le contenu technique et les questions-réponses communautaires."
 ---
-
 ## Definition
 
 Ce jeu de données extrait des données au niveau des phrases à partir des fichiers XML de Stack Exchange, fournissant une riche source de discussions techniques, d'exemples de code et de dialogues de résolution de problèmes. Il est spécifiquement utilisé dans

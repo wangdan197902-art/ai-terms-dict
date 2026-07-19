@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /ko/terms/carlo/
 date: "2026-07-18T15:23:31.256334Z"
 lastmod: "2026-07-18T16:38:06.769983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "수치적 결과를 얻기 위해 반복적인 무작위 샘플링에 의존하는 계산 알고리즘 군인 몬테 카를로 방법을 지칭."
 ---
-
 ## Definition
 
 몬테 카를로 방법은 해석적으로 풀기 어려운 복잡한 수학 문제를 근사화하기 위해 AI와 통계학에서 필수적인 기법입니다. 수천 또는 수백만 개의 무작위 표본을 생성하여 확률적 분포를 시뮬레이션하고 정확한 추정치를 도출합니다.

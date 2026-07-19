@@ -1,23 +1,24 @@
 ---
-title: "halus butir (fine-grained)"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: halus butir (fine-grained)
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /id/terms/fine_grained/
-date: "2026-07-18T15:31:37.449151Z"
-lastmod: "2026-07-18T16:38:07.407807Z"
+slug: fine_grained
+date: '2026-07-18T15:31:37.449151Z'
+lastmod: '2026-07-18T16:38:07.407807Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Menggambarkan tugas analisis atau klasifikasi yang memerlukan pembedaan antara perbedaan halus dalam kategori yang luas."
+source: agnes_llm
+status: published
+language: id
+description: Menggambarkan tugas analisis atau klasifikasi yang memerlukan pembedaan
+  antara perbedaan halus dalam kategori yang luas.
 ---
-
 ## Definition
 
 Analisis halus butir melibatkan identifikasi dan kategorisasi objek atau konsep pada tingkat sub-kelas, bukan hanya kelas utama. Misalnya, membedakan antara ras anjing tertentu atau jenis bunga...

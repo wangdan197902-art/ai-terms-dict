@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /ar/terms/source_attribution/
 date: "2026-07-18T16:21:15.261025Z"
 lastmod: "2026-07-18T17:15:08.549216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية تحديد وإسناد الفضل إلى المبدعين الأصليين أو مجموعات البيانات المستخدمة لتوليد محتوى أو رؤى محددة."
 ---
-
 ## Definition
 
 يشير نسب المصدر إلى التتبع والتصنيف المنهجي لأصول البيانات أو النماذج أو المخرجات المُولَّدة ضمن أنظمة الذكاء الاصطناعي. ويضمن الشفافية من خلال ربط النتائج النهائية بمصادرها الأصلية.

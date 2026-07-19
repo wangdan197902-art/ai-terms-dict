@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /ro/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:44:43.168369Z"
 lastmod: "2026-07-18T17:15:09.628483Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Dezbatere publică și dezacorduri privind implicațiile etice, sociale și tehnice ale dezvoltării și implementării IA."
 ---
-
 ## Definition
 
 Controversele legate de IA cuprind gama largă de dispute etice, legale și societale generate de tehnologiile de inteligență artificială. Problemele cheie includ bias-ul algoritmic, încălcarea confidențialității și displasarea locurilor de muncă.

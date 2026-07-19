@@ -1,23 +1,22 @@
 ---
-title: "ديلا"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: ديلا
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /ar/terms/diella/
-date: "2026-07-18T15:53:34.133887Z"
-lastmod: "2026-07-18T17:15:08.496392Z"
+slug: diella
+date: '2026-07-18T15:53:34.133887Z'
+lastmod: '2026-07-18T17:15:08.496392Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بنية تعلم عميق متخصصة مصممة لمهام زيادة دقة الصور واستعادتها بكفاءة."
+source: agnes_llm
+status: published
+language: ar
+description: بنية تعلم عميق متخصصة مصممة لمهام زيادة دقة الصور واستعادتها بكفاءة.
 ---
-
 ## Definition
 
 يشير مصطلح ديلا إلى نماذج شبكات عصبية محددة محسنة لتعزيز جودة الصورة من خلال زيادة الدقة أو إزالة الضوضاء. عادةً ما تستخدم هذه البنى آليات انتباه متقدمة أو...

@@ -1,23 +1,24 @@
 ---
-title: "الاتصال المتبقي"
-term_id: "residual_connection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "deep_learning"]
+title: الاتصال المتبقي
+term_id: residual_connection
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "residual_connection"
-aliases:
-  - /ar/terms/residual_connection/
-date: "2026-07-18T15:38:35.992645Z"
-lastmod: "2026-07-18T17:15:08.465938Z"
+slug: residual_connection
+date: '2026-07-18T15:38:35.992645Z'
+lastmod: '2026-07-18T17:15:08.465938Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "آلية تضيف المدخلات مباشرة إلى مخرج الطبقة لتسهيل تدفق التدرجات في الشبكات العميقة."
+source: agnes_llm
+status: published
+language: ar
+description: آلية تضيف المدخلات مباشرة إلى مخرج الطبقة لتسهيل تدفق التدرجات في الشبكات
+  العميقة.
 ---
-
 ## Definition
 
 تسمح الاتصالات المتبقية، المعروفة أيضاً بالاتصالات القافزة، للتدرجات بالتدفق عبر الشبكة عن طريق إضافة المدخلات مباشرة إلى مخرج طبقة لاحقة. تحل هذه البنية مشكلة تلاشي التدرج.

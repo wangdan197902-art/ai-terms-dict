@@ -1,23 +1,23 @@
 ---
-title: "说话人日志"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: 说话人日志
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /zh/terms/speaker_diarization/
-date: "2026-07-18T11:34:45.355909Z"
-lastmod: "2026-07-18T11:44:45.557943Z"
+slug: speaker_diarization
+date: '2026-07-18T11:34:45.355909Z'
+lastmod: '2026-07-18T11:44:45.557943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "确定音频录音中“谁在何时说话”的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 确定音频录音中“谁在何时说话”的过程。
 ---
-
 ## Definition
 
 说话人日志是将音频流根据说话人身份划分为同质片段的任务。它结合了说话人切换检测和说话人聚类技术，旨在为音频中的每一段语音打上说话人身份的标签，实现“谁说了什么”的完整记录。

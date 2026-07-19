@@ -7,8 +7,6 @@ tags: ["ethics", "society", "debate"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_controversies"
-aliases:
-  - /fi/terms/artificial_intelligence_controversies/
 date: "2026-07-18T15:43:12.490759Z"
 lastmod: "2026-07-18T17:15:09.384051Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Julkiset keskustelut ja erimielisyydet tekoälyn kehityksen ja käyttöönoton eettisistä, sosiaalisista ja teknisistä vaikutuksista."
 ---
-
 ## Definition
 
 Tekoälyn kiistat käsittävät laajan kirjo eettisiä, oikeudellisia ja yhteiskunnallisja kiistoja, jotka syntyvät tekoälyteknologioiden myötä. Keskeisiä kysymyksiä ovat algoritmien harha, tietosuojan loukkaamiset, työpaikkojen häviäminen automaatiolle sekä vastuukysymykset tekoälyn päätöksenteosta.

@@ -1,23 +1,24 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /no/terms/chatglm/
-date: "2026-07-18T15:45:55.918033Z"
-lastmod: "2026-07-18T16:38:06.979360Z"
+slug: chatglm
+date: '2026-07-18T15:45:55.918033Z'
+lastmod: '2026-07-18T16:38:06.979360Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "ChatGLM er ei serie tospråklege og store opne språkmodellar utvikla av Zhipu AI, optimaliserte for kinesisk-engelsk dialog."
+source: agnes_llm
+status: published
+language: 'no'
+description: ChatGLM er ei serie tospråklege og store opne språkmodellar utvikla av
+  Zhipu AI, optimaliserte for kinesisk-engelsk dialog.
 ---
-
 ## Definition
 
 ChatGLM representerer ein familie av transformatorbaserte språkmodellar spesifikt designa for å handtere høgkvalitets tospråklege samtalar på kinesisk og engelsk. Utvikla av Zhipu AI, nyttar desse modellane...

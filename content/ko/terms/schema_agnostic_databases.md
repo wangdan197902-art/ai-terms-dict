@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /ko/terms/schema_agnostic_databases/
 date: "2026-07-18T16:14:34.987274Z"
 lastmod: "2026-07-18T16:38:06.906117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "스키마 무관 데이터베이스는 사전 정의된 스키마를 요구하지 않고 유연한 데이터 구조를 허용하는 저장 시스템으로, 주로 NoSQL 환경에서 사용됩니다."
 ---
-
 ## Definition
 
 이러한 데이터베이스는 엄격한 테이블 구조나 열 정의를 미리 강제하지 않음으로써 동적 데이터 모델링을 가능하게 합니다. 이 유연성은 개발자가 구조화되지 않았거나 반구조화된 데이터를 저장할 수 있게 하여 다양한 데이터 형식을 처리하는 데 적합합니다.

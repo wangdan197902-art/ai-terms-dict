@@ -1,23 +1,24 @@
 ---
-title: "Empowerment"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Empowerment
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /de/terms/empowerment/
-date: "2026-07-18T11:13:17.868572Z"
-lastmod: "2026-07-18T11:44:44.937023Z"
+slug: empowerment
+date: '2026-07-18T11:13:17.868572Z'
+lastmod: '2026-07-18T11:44:44.937023Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Zielwert im Verstärkungslernen, der die Fähigkeit eines Agenten misst, zukünftige Zustände durch seine Aktionen zu beeinflussen."
+source: agnes_llm
+status: published
+language: de
+description: Ein Zielwert im Verstärkungslernen, der die Fähigkeit eines Agenten misst,
+  zukünftige Zustände durch seine Aktionen zu beeinflussen.
 ---
-
 ## Definition
 
 Im Verstärkungslernen und in der künstlichen Intelligenz ist Empowerment eine Metrik für intrinsische Motivation, die quantifiziert, wie viel Kontrolle ein Agent über seine Umgebung hat. Sie ist definiert als die gegenseitige

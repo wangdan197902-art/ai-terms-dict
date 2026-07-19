@@ -1,23 +1,24 @@
 ---
-title: "Соответствие (Matching)"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: Соответствие (Matching)
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /ru/terms/matching/
-date: "2026-07-18T15:27:15.887469Z"
-lastmod: "2026-07-18T16:38:07.083835Z"
+slug: matching
+date: '2026-07-18T15:27:15.887469Z'
+lastmod: '2026-07-18T16:38:07.083835Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Соответствие включает выравнивание двух наборов точек данных или признаков для выявления совпадений, сходств или оптимальных пар между ними."
+source: agnes_llm
+status: published
+language: ru
+description: Соответствие включает выравнивание двух наборов точек данных или признаков
+  для выявления совпадений, сходств или оптимальных пар между ними.
 ---
-
 ## Definition
 
 Соответствие — это критически важная техника в машинном обучении, используемая для установления связей между разнородными объектами данных. В компьютерном зрении поиск соответствий выявляет одинаковые точки на разных изображениях...

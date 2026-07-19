@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /cs/terms/pattern_theory/
 date: "2026-07-18T16:12:26.538592Z"
 lastmod: "2026-07-18T17:15:09.188418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Matematický rámec pro popis složitých struktur analýzou vzorů v datových prostorech."
 ---
-
 ## Definition
 
 Teorie vzorů poskytuje přísný matematický základ pro pochopení toho, jak lze složité objekty a jevy popsat prostřednictvím vzorů. Tvrdí, že každý objekt lze charakterizovat jeho...

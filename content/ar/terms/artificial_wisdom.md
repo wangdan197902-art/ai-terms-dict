@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /ar/terms/artificial_wisdom/
 date: "2026-07-18T15:44:57.141371Z"
 lastmod: "2026-07-18T17:15:08.477772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "امتداد للذكاء الاصطناعي يتجاوز الذكاء ليشمل الحكم والأخلاق والفهم السياقي لاتخاذ قرارات سليمة."
 ---
-
 ## Definition
 
 الحكمة الاصطناعية (AW) هي مفهوم ناشئ يسعى إلى تعزيز الذكاء الاصطناعي بقيم شبيهة بالبشر واعتبارات أخلاقية وحكم استراتيجي طويل المدى. بينما يركز الذكاء الاصطناعي على الكفاءة

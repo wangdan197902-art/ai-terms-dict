@@ -1,23 +1,25 @@
 ---
-title: "ไฟล์เดียวสำหรับการแพร่กระจาย (Diffusion Single File)"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: ไฟล์เดียวสำหรับการแพร่กระจาย (Diffusion Single File)
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /th/terms/diffusion_single_file/
-date: "2026-07-18T15:50:59.204819Z"
-lastmod: "2026-07-18T16:38:07.600062Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:50:59.204819Z'
+lastmod: '2026-07-18T16:38:07.600062Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "รูปแบบการแจกจ่ายโมเดลการแพร่กระจายที่รวมน้ำหนักโมเดล การตั้งค่า และบางครั้งแม้แต่โค้ดการอนุมาน ไว้ในไฟล์เดียวเพื่อความสะดวกในการพกพา"
+source: agnes_llm
+status: published
+language: th
+description: รูปแบบการแจกจ่ายโมเดลการแพร่กระจายที่รวมน้ำหนักโมเดล การตั้งค่า และบางครั้งแม้แต่โค้ดการอนุมาน
+  ไว้ในไฟล์เดียวเพื่อความสะดวกในการพกพา
 ---
-
 ## Definition
 
 Diffusion Single File หมายถึงกลยุทธ์การจัดแพ็กเกจสำหรับโมเดลการเรียนรู้ของเครื่อง โดยเฉพาะอย่างยิ่งโมเดลการแพร่กระจาย ซึ่งนำอาร์ติแฟกต์ของโมเดลทั้งหมด—including น้ำหนักไบนารี พารามิเตอร์ไฮเปอร์ และโครงสร้างโมเดล—มารวมไว้ในไฟล์เดียว

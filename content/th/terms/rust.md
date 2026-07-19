@@ -1,23 +1,24 @@
 ---
-title: "Rust"
-term_id: "rust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "systems_programming", "memory_safety"]
+title: Rust
+term_id: rust
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- Systems Programming
+- Memory Safety
 difficulty: 3
 weight: 1
-slug: "rust"
-aliases:
-  - /th/terms/rust/
-date: "2026-07-18T16:14:21.864368Z"
-lastmod: "2026-07-18T16:38:07.651632Z"
+slug: rust
+date: '2026-07-18T16:14:21.864368Z'
+lastmod: '2026-07-18T16:38:07.651632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Rust คือภาษาการเขียนโปรแกรมระบบที่มุ่งเน้นความปลอดภัย ความเร็ว และการทำงานพร้อมกัน (concurrency) โดยไม่ต้องใช้ Garbage Collection"
+source: agnes_llm
+status: published
+language: th
+description: Rust คือภาษาการเขียนโปรแกรมระบบที่มุ่งเน้นความปลอดภัย ความเร็ว และการทำงานพร้อมกัน
+  (concurrency) โดยไม่ต้องใช้ Garbage Collection
 ---
-
 ## Definition
 
 Rust เป็นภาษาการเขียนโปรแกรมอเนกประสงค์ที่มีหลายรูปแบบ (multi-paradigm) ซึ่งออกแบบมาเพื่อประสิทธิภาพและความปลอดภัย โดยเฉพาะอย่างยิ่งความปลอดภัยในการทำงานพร้อมกัน (safe concurrency) ภาษานี้บรรลุความถูกต้องของหน่วยความจำ (memory safety) โดยไม่ต้องพึ่งพา Garbage Collection ซึ่งช่วยให้มั่นใจว่า...

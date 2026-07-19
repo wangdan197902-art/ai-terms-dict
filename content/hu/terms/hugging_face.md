@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /hu/terms/hugging_face/
-date: "2026-07-18T16:04:06.531028Z"
-lastmod: "2026-07-18T17:15:09.793425Z"
+slug: hugging_face
+date: '2026-07-18T16:04:06.531028Z'
+lastmod: '2026-07-18T17:15:09.793425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy vezető platform és közösség, amely nyílt forráskódú eszközöket, modelleket és adathalmazokat biztosít a gépi tanulás fejlesztéséhez."
+source: agnes_llm
+status: published
+language: hu
+description: Egy vezető platform és közösség, amely nyílt forráskódú eszközöket, modelleket
+  és adathalmazokat biztosít a gépi tanulás fejlesztéséhez.
 ---
-
 ## Definition
 
 A Hugging Face egy kiemelkedő cég és online platform, amely az nyílt forráskódú mesterséges intelligencia ökoszisztéma központi szereplőjévé vált. Hatalmas tárolóval rendelkezik előre betanított modellekhez, adathalmazokhoz és demonstrációs alkalmazásokhoz.

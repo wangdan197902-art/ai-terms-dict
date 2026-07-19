@@ -1,23 +1,24 @@
 ---
-title: "Învățare Continuuă"
-term_id: "continual_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["neural_networks", "adaptive_ai", "training_paradigms"]
+title: Învățare Continuuă
+term_id: continual_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Neural Networks
+- Adaptive AI
+- Training Paradigms
 difficulty: 4
 weight: 1
-slug: "continual_learning"
-aliases:
-  - /ro/terms/continual_learning/
-date: "2026-07-18T15:50:44.048189Z"
-lastmod: "2026-07-18T17:15:09.639770Z"
+slug: continual_learning
+date: '2026-07-18T15:50:44.048189Z'
+lastmod: '2026-07-18T17:15:09.639770Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de învățare automată în care modelele învață secvențial din date noi fără a uita cunoștințele anterioare."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de învățare automată în care modelele învață secvențial
+  din date noi fără a uita cunoștințele anterioare.
 ---
-
 ## Definition
 
 Învățarea continuuă, cunoscută și sub denumirea de învățare pe tot parcursul vieții, permite rețelelor neuronale să dobândească abilități sau informații noi în timp, păstrând totodată capacitățile învățate anterior. Aceasta abordează problema 'uitării catastrofale'.

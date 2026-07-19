@@ -1,23 +1,24 @@
 ---
-title: "Méthodes de gradient proximal pour l'apprentissage"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: Méthodes de gradient proximal pour l'apprentissage
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /fr/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T11:34:39.582930Z"
-lastmod: "2026-07-18T11:44:45.316358Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T11:34:39.582930Z'
+lastmod: '2026-07-18T11:44:45.316358Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Algorithmes d'optimisation conçus pour minimiser des fonctions objectif composites contenant à la fois des composantes lisses et non lisses."
+source: agnes_llm
+status: published
+language: fr
+description: Algorithmes d'optimisation conçus pour minimiser des fonctions objectif
+  composites contenant à la fois des composantes lisses et non lisses.
 ---
-
 ## Definition
 
 Les méthodes de gradient proximal sont des techniques d'optimisation itératives utilisées lorsque la fonction de perte comprend un terme différentiable lisse et un régularisateur non différentiable, tel que la norme L1. L'algorithme combine les étapes de gradient avec des opérateurs proximaux.

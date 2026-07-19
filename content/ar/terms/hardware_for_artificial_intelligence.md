@@ -1,23 +1,24 @@
 ---
-title: "الأجهزة المخصصة للذكاء الاصطناعي"
-term_id: "hardware_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["infrastructure", "acceleration", "deep-learning"]
+title: الأجهزة المخصصة للذكاء الاصطناعي
+term_id: hardware_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- infrastructure
+- acceleration
+- Deep Learning
 difficulty: 2
 weight: 1
-slug: "hardware_for_artificial_intelligence"
-aliases:
-  - /ar/terms/hardware_for_artificial_intelligence/
-date: "2026-07-18T16:00:33.665817Z"
-lastmod: "2026-07-18T17:15:08.511270Z"
+slug: hardware_for_artificial_intelligence
+date: '2026-07-18T16:00:33.665817Z'
+lastmod: '2026-07-18T17:15:08.511270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مكونات فيزيائية متخصصة مصممة لتسريع المتطلبات الحسابية لخوارزميات تعلم الآلة وتدريب الشبكات العصبية."
+source: agnes_llm
+status: published
+language: ar
+description: مكونات فيزيائية متخصصة مصممة لتسريع المتطلبات الحسابية لخوارزميات تعلم
+  الآلة وتدريب الشبكات العصبية.
 ---
-
 ## Definition
 
 يشير أجهزة الذكاء الاصطناعي إلى أجهزة الحوسبة المتخصصة المحسنة للمعالجة المتوازية الهائلة المطلوبة بأحمال عمل تعلم الآلة. يتضمن ذلك وحدات معالجة الرسومات (GPUs) للمعالجة العامة، ووحدات معالجة Tensor (TPUs) المصممة خصيصاً للعمليات المصفوفية، بالإضافة إلى الأجهزة العصبية (Neuromorphic) التي تحاكي بنية الدماغ البشري.

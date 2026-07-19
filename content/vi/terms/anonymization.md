@@ -1,23 +1,24 @@
 ---
-title: "Ẩn danh hóa"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: Ẩn danh hóa
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /vi/terms/anonymization/
-date: "2026-07-18T15:40:23.931787Z"
-lastmod: "2026-07-18T16:38:07.727207Z"
+slug: anonymization
+date: '2026-07-18T15:40:23.931787Z'
+lastmod: '2026-07-18T16:38:07.727207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình loại bỏ thông tin nhận dạng cá nhân khỏi tập dữ liệu để bảo vệ quyền riêng tư của từng cá nhân."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình loại bỏ thông tin nhận dạng cá nhân khỏi tập dữ liệu để bảo
+  vệ quyền riêng tư của từng cá nhân.
 ---
-
 ## Definition
 
 Ẩn danh hóa liên quan đến việc sửa đổi dữ liệu sao cho không thể liên kết nó với một cá nhân cụ thể nếu không có thêm thông tin. Kỹ thuật này rất quan trọng trong học máy khi xử lý dữ liệu nhạy cảm.

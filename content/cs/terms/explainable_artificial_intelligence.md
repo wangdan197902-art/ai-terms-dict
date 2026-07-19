@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /cs/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:56:45.975065Z"
 lastmod: "2026-07-18T17:15:09.128360Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vysvětlitelná AI (XAI) označuje metody a techniky v aplikaci technologie umělé inteligence tak, aby výsledky řešení mohly být pochopeny lidskými experty."
 ---
-
 ## Definition
 
 Jak se modely strojového učení stávají složitějšími, zejména hluboké neuronové sítě, jejich rozhodovací procesy se často stávají neprůhlednými „černými skrinkami“. Cílem XAI je učinit tato rozhodnutí interpretovatelnými a transparentními.

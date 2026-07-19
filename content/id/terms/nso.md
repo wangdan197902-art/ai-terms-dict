@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /id/terms/nso/
 date: "2026-07-18T16:02:32.186371Z"
 lastmod: "2026-07-18T16:38:07.488688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam konteks AI, NSO sering merujuk pada Optimisasi Simbolik Neural atau entitas organisasi tertentu seperti NSO Group yang terlibat dalam teknologi pengawasan."
 ---
-
 ## Definition
 
 Akronim NSO dapat memiliki beberapa makna tergantung pada konteksnya. Dalam penelitian AI teknis, ini mungkin merujuk pada Optimisasi Simbolik Neural, yang menggabungkan jaringan saraf dengan logika simbolik. Namun, istilah ini juga sangat dikenal merujuk pada NSO Group, perusahaan pengembang perangkat lunak pengawasan.

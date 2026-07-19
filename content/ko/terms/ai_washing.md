@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /ko/terms/ai_washing/
 date: "2026-07-18T15:39:40.903892Z"
 lastmod: "2026-07-18T16:38:06.804533Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "마케팅 목적으로 제품이나 서비스가 인공지능을 활용한다고 과장하거나 거짓으로 주장하는 관행."
 ---
-
 ## Definition
 
 AI 워싱은 그린워싱에 비유되는 용어로, 실제로는 단순한 규칙 기반 시스템에 의존함에도 불구하고 기업이 제품에 고급 AI가 통합되어 있다고 주장하는 기만적인 마케팅 전략을 설명합니다.

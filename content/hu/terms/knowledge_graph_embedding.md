@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /hu/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:08:23.964985Z"
 lastmod: "2026-07-18T17:15:09.799794Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy technika, amely a tudásgráf entitásait és kapcsolatait folytonos vektorterekbe térképezi le, miközben megőrzi a strukturális szemantikát."
 ---
-
 ## Definition
 
 A tudásgráf-beágyazási módszerek, mint például a TransE vagy a DistMult, a diszkrét gráfstruktúrákat alacsony dimenziós, sűrű vektorokká transzformálják. Ez lehetővé teszi a gépi tanulási modellek számára, hogy matematikai műveleteket hajtsanak végre a gráf szerkezetének és jelentésének megőrzése mellett.

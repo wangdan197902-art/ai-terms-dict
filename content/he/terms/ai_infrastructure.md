@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /he/terms/ai_infrastructure/
 date: "2026-07-18T15:40:07.097776Z"
 lastmod: "2026-07-18T17:15:09.507746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "משאבי החומרה, התוכנה והרשת הנדרשים לפיתוח, אימון והטמעה של מודלי בינה מלאכותית בקנה מידה גדול."
 ---
-
 ## Definition
 
 תשתית הבינה המלאכותית כוללת את ערכת הטכנולוגיה הבסיסית הדרושה לתפעול מערכות בינה מלאכותית. זה כולל חומרת חישוב ביצועים גבוהים כמו GPU ו-TPU, אחסון בענן, ותשתיות רשת.

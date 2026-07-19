@@ -1,23 +1,24 @@
 ---
-title: "Tốc độ học"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Tốc độ học
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /vi/terms/learning_rate/
-date: "2026-07-18T15:36:07.062827Z"
-lastmod: "2026-07-18T16:38:07.710393Z"
+slug: learning_rate
+date: '2026-07-18T15:36:07.062827Z'
+lastmod: '2026-07-18T16:38:07.710393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một siêu tham số kiểm soát kích thước bước trong quá trình tối ưu hóa mô hình nhằm giảm thiểu hàm mất mát."
+source: agnes_llm
+status: published
+language: vi
+description: Một siêu tham số kiểm soát kích thước bước trong quá trình tối ưu hóa
+  mô hình nhằm giảm thiểu hàm mất mát.
 ---
-
 ## Definition
 
 Tốc độ học xác định mức độ cập nhật trọng số của mô hình so với gradient đã tính toán được trong mỗi vòng lặp huấn luyện. Nếu tốc độ học quá cao, mô hình có thể vượt quá điểm tối ưu và không hội tụ; ngược lại, nếu quá thấp, quá trình huấn luyện sẽ tốn nhiều thời gian hoặc mắc kẹt tại các cực tiểu địa phương. Việc tinh chỉnh tốc độ học là bước quan trọng để đạt được hiệu suất mô hình tốt nhất.

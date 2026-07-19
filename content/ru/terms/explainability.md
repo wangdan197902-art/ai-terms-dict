@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /ru/terms/explainability/
 date: "2026-07-18T15:33:45.940873Z"
 lastmod: "2026-07-18T16:38:07.105069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Объяснимость (Explainability) — это степень, в которой человек может понять причину решения, принятого моделью искусственного интеллекта."
 ---
-
 ## Definition
 
 Это понятие решает проблему «черного ящика» в сложных системах ИИ, предоставляя понимание того, как модели приходят к конкретным предсказаниям. Такие техники, как SHAP или LIME, помогают визуализировать важность признаков для принятия решений.

@@ -1,23 +1,24 @@
 ---
-title: "Học nghề"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Học nghề
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /vi/terms/apprenticeship_learning/
-date: "2026-07-18T15:40:23.931813Z"
-lastmod: "2026-07-18T16:38:07.727622Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:40:23.931813Z'
+lastmod: '2026-07-18T16:38:07.727622Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp học tăng cường trong đó một tác nhân học chính sách bằng cách bắt chước các màn trình diễn của chuyên gia."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp học tăng cường trong đó một tác nhân học chính sách bằng
+  cách bắt chước các màn trình diễn của chuyên gia.
 ---
-
 ## Definition
 
 Học nghề, còn được gọi là học tăng cường ngược từ các màn trình diễn, cho phép các tác nhân thu thập kỹ năng bằng cách quan sát hành vi của chuyên gia thay vì chỉ dựa vào các hàm phần thưởng.

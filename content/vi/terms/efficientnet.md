@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /vi/terms/efficientnet/
-date: "2026-07-18T15:51:26.003645Z"
-lastmod: "2026-07-18T16:38:07.752948Z"
+slug: efficientnet
+date: '2026-07-18T15:51:26.003645Z'
+lastmod: '2026-07-18T16:38:07.752948Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "EfficientNet là một họ kiến trúc mạng nơ-ron tích chập (CNN) mở rộng chiều sâu, bề rộng và độ phân giải một cách đồng đều để đạt độ chính xác cao hơn với ít tham số hơn."
+source: agnes_llm
+status: published
+language: vi
+description: EfficientNet là một họ kiến trúc mạng nơ-ron tích chập (CNN) mở rộng
+  chiều sâu, bề rộng và độ phân giải một cách đồng đều để đạt độ chính xác cao hơn
+  với ít tham số hơn.
 ---
-
 ## Definition
 
 Được phát triển bởi Google, EfficientNet sử dụng phương pháp mở rộng hợp chất để cân bằng chiều sâu mạng, bề rộng và độ phân giải ảnh đầu vào. Cách tiếp cận này cho phép mô hình đạt độ chính xác tiên phong trong khi vẫn duy trì hiệu quả về tài nguyên tính toán.

@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /vi/terms/explanation_based_learning/
 date: "2026-07-18T15:52:28.134604Z"
 lastmod: "2026-07-18T16:38:07.756195Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Học dựa trên lời giải thích là một phương pháp học máy sử dụng lý thuyết miền và một ví dụ huấn luyện duy nhất để tạo ra một lời giải thích, sau đó được khái quát hóa thành một quy tắc mới."
 ---
-
 ## Definition
 
 EBL kết hợp suy luận biểu tượng với học máy để tăng tốc quá trình học. Thay vì dựa vào các tập dữ liệu lớn, nó lấy một ví dụ tích cực duy nhất và sử dụng lý thuyết miền đã có sẵn để suy luận và tổng quát hóa.

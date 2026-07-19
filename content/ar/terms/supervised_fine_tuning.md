@@ -1,23 +1,24 @@
 ---
-title: "الدقة الخاضعة للإشراف"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: الدقة الخاضعة للإشراف
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /ar/terms/supervised_fine_tuning/
-date: "2026-07-18T15:38:49.559238Z"
-lastmod: "2026-07-18T17:15:08.466958Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:38:49.559238Z'
+lastmod: '2026-07-18T17:15:08.466958Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تدريب نموذج مُدرَّب مسبقًا بشكل إضافي على مجموعة بيانات محددة لتكييفه مع مهمة أو مجال معين."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تدريب نموذج مُدرَّب مسبقًا بشكل إضافي على مجموعة بيانات محددة لتكييفه
+  مع مهمة أو مجال معين.
 ---
-
 ## Definition
 
 تتضمن الدقة الخاضعة للإشراف (SFT) أخذ نموذج كبير مُدرَّب مسبقًا، مثل نموذج لغوي، واستكمال تدريبه على مجموعة بيانات أصغر وعالية الجودة والموسومة لمهمة لاحقة محددة.

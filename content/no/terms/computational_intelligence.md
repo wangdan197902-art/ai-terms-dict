@@ -1,23 +1,24 @@
 ---
-title: "Kommersial intelligens"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Kommersial intelligens
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /no/terms/computational_intelligence/
-date: "2026-07-18T15:46:57.108818Z"
-lastmod: "2026-07-18T16:38:06.982563Z"
+slug: computational_intelligence
+date: '2026-07-18T15:46:57.108818Z'
+lastmod: '2026-07-18T16:38:06.982563Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En gren av AI som handler om adaptive systemer som etterligner biologiske prosesser for å løse komplekse problemer."
+source: agnes_llm
+status: published
+language: 'no'
+description: En gren av AI som handler om adaptive systemer som etterligner biologiske
+  prosesser for å løse komplekse problemer.
 ---
-
 ## Definition
 
 Kommersial intelligens (CI) omfatter en mengde naturinspirerte kommersielle paradigmer, inkludert nevrale nettverk, fuzzy logikk og evolusjonær kommersialitet. Disse systemene er designet for å håndtere

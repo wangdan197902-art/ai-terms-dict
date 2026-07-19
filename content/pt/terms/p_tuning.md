@@ -1,23 +1,24 @@
 ---
-title: "P-Tuning"
-term_id: "p_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "nlp"]
+title: P-Tuning
+term_id: p_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- NLP
 difficulty: 4
 weight: 1
-slug: "p_tuning"
-aliases:
-  - /pt/terms/p_tuning/
-date: "2026-07-18T15:15:32.914097Z"
-lastmod: "2026-07-18T15:51:59.520396Z"
+slug: p_tuning
+date: '2026-07-18T15:15:32.914097Z'
+lastmod: '2026-07-18T15:51:59.520396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O P-Tuning é um método de ajuste fino eficiente em parâmetros que otimiza embeddings de prompt contínuos em vez de atualizar todos os pesos do modelo pré-treinado."
+source: agnes_llm
+status: published
+language: pt
+description: O P-Tuning é um método de ajuste fino eficiente em parâmetros que otimiza
+  embeddings de prompt contínuos em vez de atualizar todos os pesos do modelo pré-treinado.
 ---
-
 ## Definition
 
 O P-Tuning (Prompt Tuning) é uma técnica projetada para adaptar grandes modelos de linguagem pré-treinados a tarefas específicas com custo computacional mínimo. Em vez de ajustar finamente todos os parâmetros do modelo, ele otimiza apenas vetores de prompt aprendíveis.

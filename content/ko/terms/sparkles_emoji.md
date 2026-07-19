@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /ko/terms/sparkles_emoji/
 date: "2026-07-18T16:16:08.889242Z"
 lastmod: "2026-07-18T16:38:06.909750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 인터페이스에서 새로운 기능, 향상 사항 또는 생성된 콘텐츠의 마법 같은 변형을 나타내는 데 자주 사용되는 시각적 심볼입니다."
 ---
-
 ## Definition
 
 반짝임 이모지는 AI 애플리케이션의 사용자 인터페이스에서 새로움, 개선, 창의적 향상 등을 의미하기 위해 자주 사용되는 그래픽 아이콘입니다. 이는 콘텐츠가 업데이트되었거나 강화되었음을 사용자에게 비언어적으로 알리는 신호 역할을 합니다.

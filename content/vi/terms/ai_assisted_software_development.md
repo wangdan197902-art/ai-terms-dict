@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /vi/terms/ai_assisted_software_development/
 date: "2026-07-18T15:38:45.431655Z"
 lastmod: "2026-07-18T16:38:07.722801Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng các công cụ AI để nâng cao năng suất trong quá trình viết mã, gỡ lỗi, kiểm thử và thiết kế."
 ---
-
 ## Definition
 
 Phát triển phần mềm hỗ trợ bởi AI liên quan đến việc tận dụng các mô hình học máy để hỗ trợ lập trình viên viết mã, xác định lỗi, tạo bài kiểm thử và tối ưu hóa hiệu suất. Các công cụ như GitHub Copilot là ví dụ điển hình.

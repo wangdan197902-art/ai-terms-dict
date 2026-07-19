@@ -1,23 +1,24 @@
 ---
-title: "Uczenie Parzystości"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: Uczenie Parzystości
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /pl/terms/parity_learning/
-date: "2026-07-18T16:10:38.342906Z"
-lastmod: "2026-07-18T17:15:08.905198Z"
+slug: parity_learning
+date: '2026-07-18T16:10:38.342906Z'
+lastmod: '2026-07-18T17:15:08.905198Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Teoretyczny problem uczenia maszynowego skupiony na przewidywaniu sumy XOR binarnych danych wejściowych, używany do testowania ekspresyjności modelu."
+source: agnes_llm
+status: published
+language: pl
+description: Teoretyczny problem uczenia maszynowego skupiony na przewidywaniu sumy
+  XOR binarnych danych wejściowych, używany do testowania ekspresyjności modelu.
 ---
-
 ## Definition
 
 Uczenie Parzystości to problem testowy w teorii uczenia maszynowego, którego celem jest przewidzenie parzystości (sumy XOR) zestawu zmiennych binarnych. Jest on znany jako trudny dla standardowych sieci...

@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /de/terms/inferential_theory_of_learning/
 date: "2026-07-18T11:19:34.928220Z"
 lastmod: "2026-07-18T11:44:44.951816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Rahmenwerk, bei dem Lernen als bayessche Inferenz betrachtet wird, bei der Überzeugungen über Hypothesen auf der Grundlage beobachteter Daten aktualisiert werden."
 ---
-
 ## Definition
 
 Diese Theorie geht davon aus, dass Lernen im Wesentlichen ein Prozess der probabilistischen Inferenz ist. Anstatt Daten auswendig zu lernen, hält der Lerner eine Wahrscheinlichkeitsverteilung über mögliche Modelle oder Hypothesen aufrecht.

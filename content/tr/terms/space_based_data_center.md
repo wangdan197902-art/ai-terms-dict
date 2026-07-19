@@ -1,23 +1,24 @@
 ---
-title: "Uzay Tabanlı Veri Merkezi"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: Uzay Tabanlı Veri Merkezi
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /tr/terms/space_based_data_center/
-date: "2026-07-18T16:14:41.311021Z"
-lastmod: "2026-07-18T16:38:07.366813Z"
+slug: space_based_data_center
+date: '2026-07-18T16:14:41.311021Z'
+lastmod: '2026-07-18T16:38:07.366813Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Güneş enerjisi ve vakum soğutma gibi uzay koşullarından yararlanarak verimli veri işlemesi sağlayan yörüngedeki bir hesaplama tesisi."
+source: agnes_llm
+status: published
+language: tr
+description: Güneş enerjisi ve vakum soğutma gibi uzay koşullarından yararlanarak
+  verimli veri işlemesi sağlayan yörüngedeki bir hesaplama tesisi.
 ---
-
 ## Definition
 
 Uzay tabanlı veri merkezleri, bol güneş enerjisi ve verimli soğutma için uzayın doğal vakumu gibi benzersiz çevresel avantajlardan yararlanmak üzere tasarlanmış, Dünya yörüngesinde konumlandırılması önerilen hesaplama tesisleridir.

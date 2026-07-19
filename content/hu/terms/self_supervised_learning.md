@@ -1,23 +1,24 @@
 ---
-title: "Önvezérelt tanulás"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Önvezérelt tanulás
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /hu/terms/self_supervised_learning/
-date: "2026-07-18T15:39:41.441162Z"
-lastmod: "2026-07-18T17:15:09.745121Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:39:41.441162Z'
+lastmod: '2026-07-18T17:15:09.745121Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy tanítási módszer, ahol a modell saját címkéket generál a bemeneti adatokból reprezentációk tanulása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Egy tanítási módszer, ahol a modell saját címkéket generál a bemeneti
+  adatokból reprezentációk tanulása érdekében.
 ---
-
 ## Definition
 
 Az önvezérelt tanulás egy technika, ahol az algoritmus felügyeleti jeleket hoz létre a címkézetlen adatokból, általában a bemenet hiányzó részeinek előrejelzésével. Híd a felügyelt és...

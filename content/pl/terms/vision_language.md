@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /pl/terms/vision_language/
 date: "2026-07-18T15:37:34.421533Z"
 lastmod: "2026-07-18T17:15:08.838531Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Modele wizyjno-językowe to systemy AI przetwarzające i korelujące dane wizualne z informacją tekstową, aby zrozumieć kontekst multimodalny."
 ---
-
 ## Definition
 
 Modele wizyjno-językowe, często określane jako Wielomodalne Duże Modele Językowe (MLLMs), integrują widzenie komputerowe z przetwarzaniem języka naturalnego. Umożliwiają AI rozumienie obrazów i generowanie tekstu na ich podstawie.

@@ -1,23 +1,24 @@
 ---
-title: "AI veganismus"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: AI veganismus
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /cs/terms/ai_veganism/
-date: "2026-07-18T15:40:17.944875Z"
-lastmod: "2026-07-18T17:15:09.097519Z"
+slug: ai_veganism
+date: '2026-07-18T15:40:17.944875Z'
+lastmod: '2026-07-18T17:15:09.097519Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Metaforický koncept naznačující, že by systémy AI měly fungovat bez spoléhání se na lidská data nebo práci."
+source: agnes_llm
+status: published
+language: cs
+description: Metaforický koncept naznačující, že by systémy AI měly fungovat bez spoléhání
+  se na lidská data nebo práci.
 ---
-
 ## Definition
 
 AI veganismus je spekulativní a metaforický termín označující představu vytváření umělé inteligence, která se učí výhradně ze syntetických, samo-generovaných dat nebo dat z fyzického světa, nikoliv z lidsky generovaných dat.

@@ -1,23 +1,24 @@
 ---
-title: "חשיבה לוגית / הסקת מסקנות"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: חשיבה לוגית / הסקת מסקנות
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /he/terms/reasoning/
-date: "2026-07-18T15:38:14.644736Z"
-lastmod: "2026-07-18T17:15:09.503714Z"
+slug: reasoning
+date: '2026-07-18T15:38:14.644736Z'
+lastmod: '2026-07-18T17:15:09.503714Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "חשיבה לוגית מתייחסת לתהליך הקוגניטיבי של הפקת מסקנות, ביצוע ניבויים או פתרון בעיות על בסיס מידע זמין."
+source: agnes_llm
+status: published
+language: he
+description: חשיבה לוגית מתייחסת לתהליך הקוגניטיבי של הפקת מסקנות, ביצוע ניבויים או
+  פתרון בעיות על בסיס מידע זמין.
 ---
-
 ## Definition
 
 בבינה מלאכותית, חשיבה לוגית כוללת אלגוריתמים המדמים היסק לוגי, אינדוקטיבי או אבדוקטיבי לעיבוד נתונים ויצירת תובנות. היא כוללת טכניקות כמו לוגיקה סמלית, הסקה הסתברותית וניתוח הקשר.

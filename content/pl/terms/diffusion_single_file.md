@@ -1,23 +1,26 @@
 ---
-title: "Pojedynczy plik dyfuzyjny"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Pojedynczy plik dyfuzyjny
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /pl/terms/diffusion_single_file/
-date: "2026-07-18T15:52:19.953083Z"
-lastmod: "2026-07-18T17:15:08.867854Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:52:19.953083Z'
+lastmod: '2026-07-18T17:15:08.867854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Format dystrybucji modeli dyfuzyjnych, w którym wszystkie wagi modelu, konfiguracje i czasem nawet kod wnioskowania są spakowane do jednego pliku w celu ułatwienia przenośności."
+source: agnes_llm
+status: published
+language: pl
+description: Format dystrybucji modeli dyfuzyjnych, w którym wszystkie wagi modelu,
+  konfiguracje i czasem nawet kod wnioskowania są spakowane do jednego pliku w celu
+  ułatwienia przenośności.
 ---
-
 ## Definition
 
 Pojedynczy plik dyfuzyjny odnosi się do strategii pakowania modeli uczenia maszynowego, szczególnie modeli dyfuzyjnych, gdzie cały artefakt modelu – w tym binarne wagi, hiperparametry i architektura modelu – jest zawarty w jednym pliku.

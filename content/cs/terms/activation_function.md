@@ -1,23 +1,25 @@
 ---
-title: "Aktivační funkce"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Aktivační funkce
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /cs/terms/activation_function/
-date: "2026-07-18T15:34:07.491406Z"
-lastmod: "2026-07-18T17:15:09.086906Z"
+slug: activation_function
+date: '2026-07-18T15:34:07.491406Z'
+lastmod: '2026-07-18T17:15:09.086906Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Matematická rovnice, která určuje výstup uzlu neuronové sítě na základě jeho vstupního signálu."
+source: agnes_llm
+status: published
+language: cs
+description: Matematická rovnice, která určuje výstup uzlu neuronové sítě na základě
+  jeho vstupního signálu.
 ---
-
 ## Definition
 
 Aktivační funkce zavádí do neuronové sítě nelinearitu, což jí umožňuje učit se složité vzory a vztahy v datech. Bez těchto funkcí by vícevrstvá síť chovala...

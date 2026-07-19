@@ -1,23 +1,24 @@
 ---
-title: "Pengacakan Fitur"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Pengacakan Fitur
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /id/terms/feature_hashing/
-date: "2026-07-18T15:50:36.790420Z"
-lastmod: "2026-07-18T16:38:07.457831Z"
+slug: feature_hashing
+date: '2026-07-18T15:50:36.790420Z'
+lastmod: '2026-07-18T16:38:07.457831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah teknik yang memetakan fitur jarang (sparse) berdimensi tinggi ke dalam vektor berukuran tetap menggunakan fungsi hash."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah teknik yang memetakan fitur jarang (sparse) berdimensi tinggi
+  ke dalam vektor berukuran tetap menggunakan fungsi hash.
 ---
-
 ## Definition
 
 Pengacakan fitur, yang juga dikenal sebagai trik pengacakan (hashing trick), memungkinkan model pembelajaran mesin menangani ruang fitur yang besar dan jarang tanpa perlu mempertahankan pemetaan eksplisit antara fitur dan indeks. Dengan menerapkan fungsi hash, teknik ini mengubah fitur menjadi indeks vektor yang tetap, sehingga menghemat memori dan komputasi.

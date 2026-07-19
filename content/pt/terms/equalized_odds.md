@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /pt/terms/equalized_odds/
 date: "2026-07-18T14:59:14.708799Z"
 lastmod: "2026-07-18T15:51:59.489123Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma métrica de justiça que exige que as taxas de verdadeiros positivos e falsos positivos sejam iguais entre diferentes grupos demográficos."
 ---
-
 ## Definition
 
 As probabilidades igualadas são uma restrição de paridade estatística usada na justiça algorítmica para garantir que um modelo tenha desempenho igualmente bom para todos os grupos protegidos. Especificamente, ela exige que a probabilidade de um

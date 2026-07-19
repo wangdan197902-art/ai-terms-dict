@@ -1,23 +1,24 @@
 ---
-title: "Generatief model"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: Generatief model
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /nl/terms/generative_model/
-date: "2026-07-18T15:56:45.498499Z"
-lastmod: "2026-07-18T17:15:08.748098Z"
+slug: generative_model
+date: '2026-07-18T15:56:45.498499Z'
+lastmod: '2026-07-18T17:15:08.748098Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een type machine learning-model dat de onderliggende verdeling van data leert om nieuwe, synthetische steekproeven te genereren die lijken op de trainingsdata."
+source: agnes_llm
+status: published
+language: nl
+description: Een type machine learning-model dat de onderliggende verdeling van data
+  leert om nieuwe, synthetische steekproeven te genereren die lijken op de trainingsdata.
 ---
-
 ## Definition
 
 Generatieve modellen zijn algoritmen die zijn ontworpen om patronen en structuren binnen een gegeven dataset te begrijpen, zodat ze nieuwe data-instanties kunnen creëren die op de originele lijken. In tegenstelling tot discriminatieve modellen, die zich richten op het voorspellen van labels, leren generatieve modellen de gezamenlijke waarschijnlijkheidsverdeling van de input- en outputvariabelen.

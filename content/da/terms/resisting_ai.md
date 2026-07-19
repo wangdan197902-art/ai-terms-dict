@@ -1,23 +1,24 @@
 ---
-title: "Modstand mod AI"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: Modstand mod AI
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /da/terms/resisting_ai/
-date: "2026-07-18T16:15:02.198644Z"
-lastmod: "2026-07-18T17:15:09.328004Z"
+slug: resisting_ai
+date: '2026-07-18T16:15:02.198644Z'
+lastmod: '2026-07-18T17:15:09.328004Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Strategier og teknikker anvendt til at undgå opdagelse, manipulation eller kontrol af kunstige intelligenssystemer."
+source: agnes_llm
+status: published
+language: da
+description: Strategier og teknikker anvendt til at undgå opdagelse, manipulation
+  eller kontrol af kunstige intelligenssystemer.
 ---
-
 ## Definition
 
 Modstand mod AI refererer til metoder, der bruges af individer eller enheder til at undgå at blive påvirket, sporet eller klassificeret af AI-algoritmer. Dette inkluderer adversariale angreb på perceptionssystemer og tekniker til bevarelse af privatlivets fred.

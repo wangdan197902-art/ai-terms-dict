@@ -1,23 +1,23 @@
 ---
-title: "Hai giai đoạn"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: Hai giai đoạn
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /vi/terms/two_stage/
-date: "2026-07-18T15:33:35.780218Z"
-lastmod: "2026-07-18T16:38:07.705637Z"
+slug: two_stage
+date: '2026-07-18T15:33:35.780218Z'
+lastmod: '2026-07-18T16:38:07.705637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Kiến trúc đường ống nơi quá trình xử lý diễn ra ở các giai đoạn riêng biệt, tuần tự."
+source: agnes_llm
+status: published
+language: vi
+description: Kiến trúc đường ống nơi quá trình xử lý diễn ra ở các giai đoạn riêng
+  biệt, tuần tự.
 ---
-
 ## Definition
 
 Kiến trúc hai giai đoạn chia một nhiệm vụ phức tạp thành hai bước riêng biệt, thường bao gồm phát hiện theo sau là phân loại hoặc tinh chỉnh. Trong thị giác máy tính, các ví dụ bao gồm các bộ phát hiện đối tượng như...

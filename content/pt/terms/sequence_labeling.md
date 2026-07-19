@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "sequence_labeling"
-aliases:
-  - /pt/terms/sequence_labeling/
 date: "2026-07-18T15:20:53.152274Z"
 lastmod: "2026-07-18T15:51:59.531954Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma tarefa de processamento de linguagem natural na qual um rótulo é atribuído a cada elemento em uma sequência de entradas."
 ---
-
 ## Definition
 
 A rotulagem de sequências envolve prever um rótulo categórico para cada token em uma sequência de entrada dada, como palavras em uma frase ou caracteres em uma string. Aplicações comuns incluem marcação de partes da fala...

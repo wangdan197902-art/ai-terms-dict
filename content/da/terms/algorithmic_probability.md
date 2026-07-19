@@ -1,23 +1,24 @@
 ---
-title: "Algoritmisk sandsynlighed"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Algoritmisk sandsynlighed
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /da/terms/algorithmic_probability/
-date: "2026-07-18T15:40:52.003081Z"
-lastmod: "2026-07-18T17:15:09.258219Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:40:52.003081Z'
+lastmod: '2026-07-18T17:15:09.258219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et teoretisk mål for sandsynligheden for, at et tilfældigt program vil producere en bestemt outputstreng."
+source: agnes_llm
+status: published
+language: da
+description: Et teoretisk mål for sandsynligheden for, at et tilfældigt program vil
+  producere en bestemt outputstreng.
 ---
-
 ## Definition
 
 Algoritmisk sandsynlighed, der har rod i Kolmogorov-kompleksitet og Solomonoffs induktion, tildeler højere sandsynlighed til output, der genereres af kortere programmer. Det antager, at simplere forklaringer er mere sandsynlige.

@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /es/terms/golog/
 date: "2026-07-18T10:49:59.733141Z"
 lastmod: "2026-07-18T11:44:44.808955Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un lenguaje de programación de alto nivel basado en el cálculo de situaciones para especificar acciones y razonar sobre dominios dinámicos."
 ---
-
 ## Definition
 
 GOLOG es un lenguaje de programación lógico utilizado principalmente en inteligencia artificial para la planificación y ejecución de acciones en entornos dinámicos. Basado en el cálculo de situaciones de Reiter, permite a los desarrolladores especificar acciones complejas y precondiciones para generar planes automáticos.

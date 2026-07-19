@@ -1,23 +1,23 @@
 ---
-title: "フィーチャーハッシング"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: フィーチャーハッシング
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /ja/terms/feature_hashing/
-date: "2026-07-18T11:14:45.555545Z"
-lastmod: "2026-07-18T11:44:45.097408Z"
+slug: feature_hashing
+date: '2026-07-18T11:14:45.555545Z'
+lastmod: '2026-07-18T11:44:45.097408Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ハッシュ関数を用いて、高次元の疎な特徴量を固定サイズのベクトルにマッピングする手法。"
+source: agnes_llm
+status: published
+language: ja
+description: ハッシュ関数を用いて、高次元の疎な特徴量を固定サイズのベクトルにマッピングする手法。
 ---
-
 ## Definition
 
 ハッシングトリックとも呼ばれるフィーチャーハッシングは、機械学習モデルが明示的な特徴量とインデックスのマッピングを維持することなく、大規模で疎な特徴空間を処理できるようにします。ハッシュ関数を適用することで、メモリ効率を高めながら高次元データを低次元の固定サイズベクトルに変換します。

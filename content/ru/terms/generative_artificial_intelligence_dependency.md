@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /ru/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T15:55:25.544480Z"
 lastmod: "2026-07-18T16:38:07.161028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Зависимость организаций от систем генеративного ИИ в критически важных операциях, создающая риски, связанные с доступностью, точностью и безопасностью."
 ---
-
 ## Definition
 
 Это понятие относится к стратегической и операционной зависимости бизнеса от моделей генеративного ИИ для выполнения таких важных задач, как создание контента, обслуживание клиентов и анализ данных. По мере расширения внедрения...

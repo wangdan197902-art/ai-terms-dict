@@ -7,8 +7,6 @@ tags: ["training", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "fine"
-aliases:
-  - /de/terms/fine/
 date: "2026-07-18T10:50:01.792921Z"
 lastmod: "2026-07-18T11:44:44.874316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Feinabstimmung bezeichnet den Prozess der Anpassung eines vorab trainierten KI-Modells an eine spezifische Aufgabe oder Domäne mit zusätzlichen Daten."
 ---
-
 ## Definition
 
 Feinabstimmung beinhaltet die Verwendung eines allgemeinen Modells, das auf großen Datensätzen trainiert wurde, und dessen weitere Schulung auf einem kleineren, spezialisierten Datensatz, um die Leistung bei bestimmten Aufgaben zu verbessern. Diese Technik nutzt...

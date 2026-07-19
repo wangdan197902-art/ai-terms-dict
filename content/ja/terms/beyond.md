@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /ja/terms/beyond/
 date: "2026-07-18T10:48:49.583374Z"
 lastmod: "2026-07-18T11:44:45.003053Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "現在の技術的限界やAIの伝統的な境界を超えた進歩や応用を指す概念用語。"
 ---
-
 ## Definition
 
 AI用語の文脈において、「ビヨンド」は、人工一般知能（AGI）や量子強化計算など、現在の能力を超越する新興のパラダイムや将来の方向性を記述することがよくあります。

@@ -1,23 +1,24 @@
 ---
-title: "Terjemahan"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Terjemahan
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /id/terms/translation/
-date: "2026-07-18T15:36:31.695098Z"
-lastmod: "2026-07-18T16:38:07.420618Z"
+slug: translation
+date: '2026-07-18T15:36:31.695098Z'
+lastmod: '2026-07-18T16:38:07.420618Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses mengubah teks dari bahasa alami sumber ke bahasa alami target sambil mempertahankan makna."
+source: agnes_llm
+status: published
+language: id
+description: Proses mengubah teks dari bahasa alami sumber ke bahasa alami target
+  sambil mempertahankan makna.
 ---
-
 ## Definition
 
 Terjemahan dalam AI mengacu pada terjemahan mesin saraf, di mana model pembelajaran mendalam memetakan representasi semantik antar bahasa. Berbeda dengan sistem berbasis aturan, pendekatan modern mempelajari nuansa kontekstual

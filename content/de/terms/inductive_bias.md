@@ -1,23 +1,24 @@
 ---
-title: "Induktiver Bias"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Induktiver Bias
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /de/terms/inductive_bias/
-date: "2026-07-18T11:19:21.877755Z"
-lastmod: "2026-07-18T11:44:44.951371Z"
+slug: inductive_bias
+date: '2026-07-18T11:19:21.877755Z'
+lastmod: '2026-07-18T11:44:44.951371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Die Menge der Annahmen, die ein Lernalgorithmus verwendet, um Ausgaben für während des Trainings nicht gesehene Eingaben vorherzusagen."
+source: agnes_llm
+status: published
+language: de
+description: Die Menge der Annahmen, die ein Lernalgorithmus verwendet, um Ausgaben
+  für während des Trainings nicht gesehene Eingaben vorherzusagen.
 ---
-
 ## Definition
 
 Induktiver Bias repräsentiert die inhärenten Präferenzen oder Einschränkungen, die in ein maschinelles Lernmodell eingebaut sind und es ermöglichen, von Trainingsdaten auf ungesehene Daten zu generalisieren. Ohne solche Verzerrungen kann ein Modell...

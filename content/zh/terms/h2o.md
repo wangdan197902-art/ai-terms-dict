@@ -1,23 +1,23 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /zh/terms/h2o/
-date: "2026-07-18T11:20:37.770043Z"
-lastmod: "2026-07-18T11:44:45.512383Z"
+slug: h2o
+date: '2026-07-18T11:20:37.770043Z'
+lastmod: '2026-07-18T11:44:45.512383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "H2O是一个广泛使用的开源内存中平台，用于分布式、可扩展的机器学习和预测分析。最初由两名哈佛大学博士生开发，它提供了一个统一的框架，支持从传统机器学习到深度学习的多种算法，并具备自动机器学习功能。"
+source: agnes_llm
+status: published
+language: zh
+description: H2O是一个广泛使用的开源内存中平台，用于分布式、可扩展的机器学习和预测分析。最初由两名哈佛大学博士生开发，它提供了一个统一的框架，支持从传统机器学习到深度学习的多种算法，并具备自动机器学习功能。
 ---
-
 ## Definition
 
 

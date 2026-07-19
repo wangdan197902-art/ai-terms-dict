@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /ko/terms/llamaindex/
 date: "2026-07-18T16:03:01.834137Z"
 lastmod: "2026-07-18T16:38:06.864384Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "LlamaIndex는 커스텀 데이터 소스를 대형 언어 모델(LLM)에 연결하여 검색 증강 생성(RAG) 애플리케이션 구축을 지원하는 프레임워크입니다."
 ---
-
 ## Definition
 
 원래 GPT Index로 알려졌던 LlamaIndex는 구조화되고 비구조화된 데이터를 LLM이 흡수하고 상호작용할 수 있게 하는 강력한 데이터 프레임워크입니다. 인덱싱, 쿼리, 관리를 위한 도구를 제공하여 RAG 애플리케이션 개발을 용이하게 합니다.

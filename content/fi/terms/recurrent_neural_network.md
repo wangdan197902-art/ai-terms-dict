@@ -1,23 +1,24 @@
 ---
-title: "Toistuva neuroverkko"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Toistuva neuroverkko
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /fi/terms/recurrent_neural_network/
-date: "2026-07-18T15:38:04.677391Z"
-lastmod: "2026-07-18T17:15:09.374536Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:38:04.677391Z'
+lastmod: '2026-07-18T17:15:09.374536Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Toistuva neuroverkko (RNN) on tekoälyn neuroverkkojen luokka, jossa solmujen väliset yhteydet muodostavat suunnatun kaavion aikasarjan mukaisesti."
+source: agnes_llm
+status: published
+language: fi
+description: Toistuva neuroverkko (RNN) on tekoälyn neuroverkkojen luokka, jossa solmujen
+  väliset yhteydet muodostavat suunnatun kaavion aikasarjan mukaisesti.
 ---
-
 ## Definition
 
 RNN:t on suunniteltu tunnistamaan kuvioita datansekoituksista, kuten tekstistä, genomitiedoista, käsinkirjoituksesta tai puheesta. Toisin kuin eteenpäinsuuntautuneet verkot, niillä on sisäinen muisti, joka tallentaa tietoa aiemmista syötteistä.

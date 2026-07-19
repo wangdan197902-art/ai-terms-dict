@@ -1,23 +1,24 @@
 ---
-title: "Распределенное обучение"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Распределенное обучение
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /ru/terms/distributed_training/
-date: "2026-07-18T15:33:29.272035Z"
-lastmod: "2026-07-18T16:38:07.100962Z"
+slug: distributed_training
+date: '2026-07-18T15:33:29.272035Z'
+lastmod: '2026-07-18T16:38:07.100962Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод обучения моделей машинного обучения путем разделения данных или вычислений между несколькими устройствами или серверами."
+source: agnes_llm
+status: published
+language: ru
+description: Метод обучения моделей машинного обучения путем разделения данных или
+  вычислений между несколькими устройствами или серверами.
 ---
-
 ## Definition
 
 Распределенное обучение ускоряет сходимость модели за счет параллелизации вычислений на нескольких GPU или узлах. К методам относятся параллелизм данных, где каждый рабочий обрабатывает подмножество данных, и параллелизм моделей...

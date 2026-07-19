@@ -7,8 +7,6 @@ tags: ["Configuration", "Hub", "Data Structure"]
 difficulty: 2
 weight: 1
 slug: "model_index"
-aliases:
-  - /ar/terms/model_index/
 date: "2026-07-18T16:13:21.574651Z"
 lastmod: "2026-07-18T17:15:08.529382Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "فهرس النموذج هو ملف بيانات وصفية تستخدمه منصة Hugging Face Hub لوصف وتنظيم مكونات النماذج وتكويناتها."
 ---
-
 ## Definition
 
 يحتوي ملف الفهرس، الذي يُسمى عادةً 'model_index.json'، على معلومات هيكلية حول بنية النموذج، بما في ذلك نوع خط الأنابيب، والنماذج الفرعية، ومسارات التكوين. يتيح ذلك للمنصة

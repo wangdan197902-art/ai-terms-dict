@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /ro/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:47:06.135870Z"
 lastmod: "2026-07-18T17:15:09.632865Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Paradigme de învățare care tratează parametrii modelului ca variabile aleatoare cu distribuții de probabilitate, nu ca valori fixe."
 ---
-
 ## Definition
 
 Mecanismele de învățare bayesiană actualizează credințele despre parametrii modelului folosind teorema lui Bayes, combinând cunoștințele preliminare cu datele observate pentru a forma o distribuție a posteriori. Spre deosebire de abordările frecventiste, acestea oferă o măsură naturală a incertitudinii.

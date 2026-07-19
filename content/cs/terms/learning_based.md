@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /cs/terms/learning_based/
 date: "2026-07-18T15:32:24.402095Z"
 lastmod: "2026-07-18T17:15:09.084009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Označuje metody, kde algoritmy zlepšují výkon prostřednictvím zkušeností místo explicitně naprogramovaných pravidel."
 ---
-
 ## Definition
 
 Pístupy založené na učení spoléhají na statistické algoritmy k identifikaci vzorců a rozhodování na základě expozice datům, což kontrastuje s pravidly řízenými systémy. Tato kategorie zahrnuje...

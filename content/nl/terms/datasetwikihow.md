@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /nl/terms/datasetwikihow/
 date: "2026-07-18T15:50:26.988161Z"
 lastmod: "2026-07-18T17:15:08.735347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een grootschalige dataset met hoe-tot-artikelen van WikiHow, voornamelijk gebruikt voor taken op het gebied van tekstsamenvatting en instructiegeneratie."
 ---
-
 ## Definition
 
 De WikiHow-dataset bestaat uit ongeveer 60.000 hoe-tot-artikelen die zijn verzameld van de WikiHow-website. Deze dataset wordt veelvuldig gebruikt in onderzoek op het gebied van natuurlijke taalverwerking (NLP) voor taken zoals abstracterende tekstsamenvatting en het genereren van stap-voor-stap instructies.

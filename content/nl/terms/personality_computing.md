@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /nl/terms/personality_computing/
 date: "2026-07-18T16:12:17.688561Z"
 lastmod: "2026-07-18T17:15:08.776270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een studiegebied gericht op het creëren van computationele modellen die menselijke persoonlijkheidseigenschappen simuleren om de mens-computerinteractie te verbeteren."
 ---
-
 ## Definition
 
 Persoonlijkheidscomputing omvat het ontwikkelen van algoritmen en systemen die in staat zijn menselijke persoonlijkheidsdimensies, zoals de Grote Vijf-eigenschappen, te modelleren, te simuleren of hierop aan te passen. Deze systemen hebben als doel 

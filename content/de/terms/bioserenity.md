@@ -1,23 +1,24 @@
 ---
-title: "Bio-Sereneität"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Bio-Sereneität
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /de/terms/bioserenity/
-date: "2026-07-18T11:06:13.411471Z"
-lastmod: "2026-07-18T11:44:44.915575Z"
+slug: bioserenity
+date: '2026-07-18T11:06:13.411471Z'
+lastmod: '2026-07-18T11:44:44.915575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein theoretischer Zustand des harmonischen Zusammenlebens zwischen biologischem Leben und Systemen der künstlichen Intelligenz."
+source: agnes_llm
+status: published
+language: de
+description: Ein theoretischer Zustand des harmonischen Zusammenlebens zwischen biologischem
+  Leben und Systemen der künstlichen Intelligenz.
 ---
-
 ## Definition
 
 Bio-Sereneität bezeichnet das konzeptionelle Ideal, bei dem menschliche Biologie und künstliche Intelligenz in nahtloser, konfliktfreier Harmonie zusammenwirken. Es betont die ethische Integration und stellt sicher, dass die Augmentierung durch KI

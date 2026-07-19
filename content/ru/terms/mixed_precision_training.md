@@ -1,23 +1,24 @@
 ---
-title: "Обучение со смешанной точностью (Mixed Precision Training)"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Обучение со смешанной точностью (Mixed Precision Training)
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /ru/terms/mixed_precision_training/
-date: "2026-07-18T16:04:48.388738Z"
-lastmod: "2026-07-18T16:38:07.181019Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:04:48.388738Z'
+lastmod: '2026-07-18T16:38:07.181019Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод обучения, использующий числа с плавающей запятой 16-битной и 32-битной точности для ускорения вычислений и снижения потребления памяти."
+source: agnes_llm
+status: published
+language: ru
+description: Метод обучения, использующий числа с плавающей запятой 16-битной и 32-битной
+  точности для ускорения вычислений и снижения потребления памяти.
 ---
-
 ## Definition
 
 Обучение со смешанной точностью (MPT) объединяет данные половинной точности (FP16) и полной точности (FP32) во время обучения нейронной сети. Используя FP16 для большинства операций, MPT снижает объем потребляемой памяти и увеличивает скорость...

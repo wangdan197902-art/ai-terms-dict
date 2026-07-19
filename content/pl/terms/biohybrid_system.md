@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /pl/terms/biohybrid_system/
 date: "2026-07-18T15:44:35.502235Z"
 lastmod: "2026-07-18T17:15:08.851539Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zintegrowany system łączący komponenty biologiczne z urządzeniami sztucznymi w celu zwiększenia funkcjonalności lub stworzenia nowych możliwości."
 ---
-
 ## Definition
 
 Systemy biohybrydowe łączą żywe tkanki, komórki lub organizmy z materiałami syntetycznymi i urządzeniami elektronicznymi. Systemy te mają na celu wykorzystanie unikalnych właściwości bytów biologicznych, takich jak zdolność do samonaprawy, adaptacji czy efektywności energetycznej, w połączeniu z trwałością i precyzją urządzeń inżynieryjnych.

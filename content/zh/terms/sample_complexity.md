@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /zh/terms/sample_complexity/
 date: "2026-07-18T11:32:54.019407Z"
 lastmod: "2026-07-18T11:44:45.552163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "样本复杂度是指机器学习算法以高概率达到特定性能水平所需的训练样本数量。"
 ---
-
 ## Definition
 
 在计算学习理论中，样本复杂度量化了有效训练模型所需的数据量。它平衡了模型容量与数据可用性之间的权衡，确保

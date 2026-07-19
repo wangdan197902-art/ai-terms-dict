@@ -1,23 +1,24 @@
 ---
-title: "Qwen"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: Qwen
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /cs/terms/qwen/
-date: "2026-07-18T16:14:39.187755Z"
-lastmod: "2026-07-18T17:15:09.194328Z"
+slug: qwen
+date: '2026-07-18T16:14:39.187755Z'
+lastmod: '2026-07-18T17:15:09.194328Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Qwen je řada velkých jazykových modelů vyvinutá laboratoří Tongyi společnosti Alibaba Group."
+source: agnes_llm
+status: published
+language: cs
+description: Qwen je řada velkých jazykových modelů vyvinutá laboratoří Tongyi společnosti
+  Alibaba Group.
 ---
-
 ## Definition
 
 Qwen představuje rodinu pokročilých velkých jazykových modelů vytvořenou laboratoří Tongyi společnosti Alibaba Group. Zahrnuje různé verze optimalizované pro odlišné úkoly, včetně porozumění přirozenému jazyku.

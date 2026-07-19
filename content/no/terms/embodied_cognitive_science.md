@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /no/terms/embodied_cognitive_science/
 date: "2026-07-18T15:52:58.525168Z"
 lastmod: "2026-07-18T16:38:06.997224Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Forkroppsliget kognitiv vitenskap er en teoretisk ramme som foreslår at menneskelig kognisjon er fundamentalt preget av kroppens interaksjoner med omgivelsene."
 ---
-
 ## Definition
 
 Dette feltet utfordrer tradisjonelle syn som behandler sinn som en datamaskin som behandler abstrakte symboler. I stedet hevdes det at kognitive prosesser er dypt forankret i kroppens fysiske egenskaper og dens handlinger i verden.

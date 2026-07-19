@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /nl/terms/knowledge_compilation/
 date: "2026-07-18T16:01:25.765378Z"
 lastmod: "2026-07-18T17:15:08.758629Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Knowledge compilation is het proces van het transformeren van kennisrepresentaties naar efficiëntere vormen voor snellere querybeantwoording of redenering."
 ---
-
 ## Definition
 
 Knowledge compilation verwijst naar technieken in kunstmatige intelligentie die een kennisbasis of logische theorie converteren naar een andere representatie die snellere bewerkingen vergemakkelijkt, zoals voldoening

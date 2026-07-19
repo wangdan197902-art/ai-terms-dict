@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /vi/terms/google_colab/
 date: "2026-07-18T15:55:21.318676Z"
 lastmod: "2026-07-18T16:38:07.762044Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Môi trường sổ tay Jupyter dựa trên đám mây cho phép người dùng viết và thực thi mã Python qua trình duyệt với quyền truy cập miễn phí vào GPU."
 ---
-
 ## Definition
 
 Google Colaboratory, thường được gọi là Colab, là một dịch vụ sổ tay Jupyter được lưu trữ, không yêu cầu cài đặt và cung cấp quyền truy cập miễn phí vào các tài nguyên tính toán, bao gồm cả Bộ xử lý đồ họa (GPU).

@@ -1,23 +1,24 @@
 ---
-title: "Deriva de date (Dataset shift)"
-term_id: "dataset_shift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "statistics", "model_deployment"]
+title: Deriva de date (Dataset shift)
+term_id: dataset_shift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- statistics
+- Model Deployment
 difficulty: 3
 weight: 1
-slug: "dataset_shift"
-aliases:
-  - /ro/terms/dataset_shift/
-date: "2026-07-18T15:52:00.538527Z"
-lastmod: "2026-07-18T17:15:09.642616Z"
+slug: dataset_shift
+date: '2026-07-18T15:52:00.538527Z'
+lastmod: '2026-07-18T17:15:09.642616Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Deriva de date se referă la fenomenul în care proprietățile statistice ale datelor de intrare se modifică între antrenament și implementare."
+source: agnes_llm
+status: published
+language: ro
+description: Deriva de date se referă la fenomenul în care proprietățile statistice
+  ale datelor de intrare se modifică între antrenament și implementare.
 ---
-
 ## Definition
 
 Deriva de date apare atunci când distribuția datelor utilizate pentru antrenarea unui model de învățare automată diferă de distribuția datelor întâlnite în timpul inferenței. Această discrepanță poate duce la scăderea semnificativă a performanței modelului.

@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /he/terms/adaptive/
 date: "2026-07-18T15:23:14.890193Z"
 lastmod: "2026-07-18T17:15:09.472387Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "היכולת של מערכת לשנות את התנהגותה או פרמטריה כתגובה לתנאים משתנים."
 ---
-
 ## Definition
 
 בבינה מלאכותית, המונח 'אדפטיבי' מתאר מערכות או אלגוריתמים שיכולים להתאים את מצבים פנימיים, פרמטרים או אסטרטגיות שלהם דינמית בהתבסס על נתונים חדשים או משוב מהסביבה. יכולת זו מאפשרת למודל

@@ -1,23 +1,24 @@
 ---
-title: "Örnek Tabanlı Öğrenme"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Örnek Tabanlı Öğrenme
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /tr/terms/instance_based_learning/
-date: "2026-07-18T15:58:30.954816Z"
-lastmod: "2026-07-18T16:38:07.321655Z"
+slug: instance_based_learning
+date: '2026-07-18T15:58:30.954816Z'
+lastmod: '2026-07-18T16:38:07.321655Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yeni girdilerin, saklanan eğitim örnekleriyle karşılaştırılarak tahmin yapıldığı tembel (lazy) bir öğrenme yaklaşımı."
+source: agnes_llm
+status: published
+language: tr
+description: Yeni girdilerin, saklanan eğitim örnekleriyle karşılaştırılarak tahmin
+  yapıldığı tembel (lazy) bir öğrenme yaklaşımı.
 ---
-
 ## Definition
 
 Bellek tabanlı öğrenme olarak da bilinir, bu teknik eğitim sırasında genelleştirilmiş bir model oluşturmaz. Bunun yerine, tüm eğitim veri setini hafızada tutar. Bir tahmin gerektiğinde, yeni girdi ile en benzer olan saklanmış örnekleri bulur ve bu komşulara dayanarak sonuç üretir.

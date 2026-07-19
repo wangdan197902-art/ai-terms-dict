@@ -7,8 +7,6 @@ tags: ["paradigm", "reasoning", "history"]
 difficulty: 3
 weight: 1
 slug: "case_based_reasoning"
-aliases:
-  - /ja/terms/case_based_reasoning/
 date: "2026-07-18T11:07:05.986343Z"
 lastmod: "2026-07-18T11:44:45.075384Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ケースベース推論（CBR）は、過去の経験や類似のケースを利用して、新しい問題に対する解決策を見つけるAIの問題解決アプローチです。"
 ---
-
 ## Definition
 
 CBRは、類似した問題には類似した解決策があるという原理に基づいて動作します。このプロセスには、ナレッジベースから最も類似した歴史的ケースを検索し、現在の文脈に合わせてその解決策を適応させることが含まれます。

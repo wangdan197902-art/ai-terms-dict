@@ -1,23 +1,23 @@
 ---
-title: "تقييم المصنفات الثنائية"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: تقييم المصنفات الثنائية
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /ar/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:57:09.174166Z"
-lastmod: "2026-07-18T17:15:08.502191Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:57:09.174166Z'
+lastmod: '2026-07-18T17:15:08.502191Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تقييم أداء نماذج تعلم الآلة التي تتنبأ بأحد النتيجتين المحتملتين."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تقييم أداء نماذج تعلم الآلة التي تتنبأ بأحد النتيجتين المحتملتين.
 ---
-
 ## Definition
 
 يتضمن هذا المجال تحليل مقاييس مثل الدقة، والدقة الإيجابية، والاسترجاع، ودرجة F1، ومنطقة تحت منحنى التشغيل الخاص بالمستقبل (AUC-ROC). يساعد ذلك في تحديد مدى جودة قدرة النموذج على التمييز بين الفئتين.

@@ -1,23 +1,25 @@
 ---
-title: "Eagle"
-term_id: "eagle"
-category: "basic_concepts"
-subcategory: ""
-tags: ["frameworks", "llm", "engineering"]
+title: Eagle
+term_id: eagle
+category: basic_concepts
+subcategory: ''
+tags:
+- frameworks
+- LLM
+- engineering
 difficulty: 3
 weight: 1
-slug: "eagle"
-aliases:
-  - /el/terms/eagle/
-date: "2026-07-18T16:04:34.148147Z"
-lastmod: "2026-07-18T17:15:09.903607Z"
+slug: eagle
+date: '2026-07-18T16:04:34.148147Z'
+lastmod: '2026-07-18T17:15:09.903607Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το Eagle είναι ένα πλαίσιο ανοιχτού κώδικα υψηλών επιδόσεων για μεγάλα γλωσσικά μοντέλα (LLMs), που αναπτύχθηκε από τη ByteDance, σχεδιασμένο για αποτελεσματική προκαταρκτική εκπαίδευση και λεπτομερή "
+source: agnes_llm
+status: published
+language: el
+description: 'Το Eagle είναι ένα πλαίσιο ανοιχτού κώδικα υψηλών επιδόσεων για μεγάλα
+  γλωσσικά μοντέλα (LLMs), που αναπτύχθηκε από τη ByteDance, σχεδιασμένο για αποτελεσματική
+  προκαταρκτική εκπαίδευση και λεπτομερή '
 ---
-
 ## Definition
 
 Το Eagle αντιπροσωπεύει ένα συγκεκριμένο αρχιτεκτονικό και μηχανικό πλαίσιο στον χώρο των Μεγάλων Γλωσσικών Μοντέλων, συνδεδεμένο κυρίως με βελτιστοποιήσεις για την αποτελεσματικότητα και την κλιμακωτότητα της εκπαίδευσης. Εστιάζει στην επιτάχυνση των διαδικασιών εκπαίδευσης και στη μείωση του κόστους υπολογιστικών πόρων.

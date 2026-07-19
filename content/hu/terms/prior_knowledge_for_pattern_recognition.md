@@ -1,23 +1,24 @@
 ---
-title: "Előzetes tudás a mintafelismeréshez"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Előzetes tudás a mintafelismeréshez
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /hu/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:18:57.538292Z"
-lastmod: "2026-07-18T17:15:09.824005Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:18:57.538292Z'
+lastmod: '2026-07-18T17:15:09.824005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Meglévő információk vagy feltételezések integrálása a gépi tanulási modellekbe a minták azonosításának pontosságának javítása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Meglévő információk vagy feltételezések integrálása a gépi tanulási modellekbe
+  a minták azonosításának pontosságának javítása érdekében.
 ---
-
 ## Definition
 
 Az előzetes tudás olyan, a területre specifikus betekintéseket, korlátozásokat vagy történelmi adatokat jelent, amelyeket az algoritmusok betanítása előtt integrálnak. Ez segít irányítani a modellt a plauzibilis megoldások felé, csökkentve a túlillesztés kockázatát.

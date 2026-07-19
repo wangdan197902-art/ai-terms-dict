@@ -1,23 +1,24 @@
 ---
-title: "Szoftmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Szoftmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /hu/terms/softmax/
-date: "2026-07-18T15:39:55.777429Z"
-lastmod: "2026-07-18T17:15:09.745397Z"
+slug: softmax
+date: '2026-07-18T15:39:55.777429Z'
+lastmod: '2026-07-18T17:15:09.745397Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy matematikai függvény, amely tetszőleges valós értékű pontszámok vektorát valószínűségi eloszlássá alakítja."
+source: agnes_llm
+status: published
+language: hu
+description: Egy matematikai függvény, amely tetszőleges valós értékű pontszámok vektorát
+  valószínűségi eloszlássá alakítja.
 ---
-
 ## Definition
 
 A szoftmax széles körben használatos a neurális hálózatok kimeneti rétegében többosztályos besorolási feladatoknál. Egy nyers logitokból álló vektort vesz fel, és normalizálja őket úgy, hogy minden elem egy valószínűséget jelöljön.

@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /sv/terms/moral_outsourcing/
 date: "2026-07-18T16:10:27.044596Z"
 lastmod: "2026-07-18T17:15:09.028471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Det etiska problemet där individer eller organisationer delegerar ansvar för moraliska beslut till automatiserade AI-system."
 ---
-
 ## Definition
 
 Moralisk outsourcing syftar på fenomenet där människor överlåter etisk omdömesförmåga och ansvar till algoritmer eller AI-system. Detta sker när människor förlitar sig på automatiska beslut för moraliskt betydelsefulla situationer.

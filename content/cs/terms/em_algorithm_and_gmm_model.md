@@ -1,23 +1,25 @@
 ---
-title: "EM algoritmus a model GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: EM algoritmus a model GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /cs/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T15:55:16.893509Z"
-lastmod: "2026-07-18T17:15:09.124694Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T15:55:16.893509Z'
+lastmod: '2026-07-18T17:15:09.124694Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Algoritmus Expectation-Maximization (EM) je iterativní metoda pro nalezení odhadů maximální věrohodnosti ve statistických modelech se skrytými proměnnými, běžně používaná pro přizpůsobení modelů Gauss"
+source: agnes_llm
+status: published
+language: cs
+description: Algoritmus Expectation-Maximization (EM) je iterativní metoda pro nalezení
+  odhadů maximální věrohodnosti ve statistických modelech se skrytými proměnnými,
+  běžně používaná pro přizpůsobení modelů Gauss
 ---
-
 ## Definition
 
 Tento termín označuje synergický vztah mezi algoritmem Expectation-Maximization (EM) a modely Gaussovy směsi (GMM). Model GMM předpokládá, že všechna datová body jsou generována ze směsi

@@ -1,23 +1,24 @@
 ---
-title: "ince ayarlanmış"
-term_id: "fine_tuned"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "model_adaptation"]
+title: ince ayarlanmış
+term_id: fine_tuned
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- Model Adaptation
 difficulty: 2
 weight: 1
-slug: "fine_tuned"
-aliases:
-  - /tr/terms/fine_tuned/
-date: "2026-07-18T15:31:18.602829Z"
-lastmod: "2026-07-18T16:38:07.249272Z"
+slug: fine_tuned
+date: '2026-07-18T15:31:18.602829Z'
+lastmod: '2026-07-18T16:38:07.249272Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Önceden eğitilmiş bir modeli, belirli bir sonraki aşama görevine uyarlamak için özel bir veri setinde daha fazla eğiten süreç."
+source: agnes_llm
+status: published
+language: tr
+description: Önceden eğitilmiş bir modeli, belirli bir sonraki aşama görevine uyarlamak
+  için özel bir veri setinde daha fazla eğiten süreç.
 ---
-
 ## Definition
 
 İnce ayarlama, zaten büyük ve genel bir veri setinde eğitilmiş bir modeli alıp, daha küçük ve görev odaklı bir veri setinde eğitiminin devam ettirilmesini içerir. Bu teknik, modelin genel özelliklerinden yararlanarak belirli bir görevde yüksek performans göstermesini sağlar.

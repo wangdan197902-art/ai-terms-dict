@@ -7,8 +7,6 @@ tags: ["statistics", "LLM", "Zhipu AI"]
 difficulty: 3
 weight: 1
 slug: "glm"
-aliases:
-  - /he/terms/glm/
 date: "2026-07-18T16:01:37.512358Z"
 lastmod: "2026-07-18T17:15:09.543808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "GLM מתייחס בדרך כלל למודלים ליניאריים כלליים בסטטיסטיקה או לסדרת מודלי השפה הכלליים שפותחו על ידי Zhipu AI."
 ---
-
 ## Definition
 
 במודלים סטטיסטיים, GLM הוא ראשי תיבות של Generalized Linear Models (מודלים ליניאריים כלליים), המרחיבים רגרסיה ליניארית כדי לאפשר משתני תגובה עם מודלים של התפלגות שגיאה שאינם התפלגות נורמלית. בתחום ה-AI, זה מתייחס גם ל-General Language Model.

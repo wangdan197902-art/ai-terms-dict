@@ -1,23 +1,25 @@
 ---
-title: "Învățare automată sensibilă la costuri"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Învățare automată sensibilă la costuri
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /ro/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:50:59.456337Z"
-lastmod: "2026-07-18T17:15:09.640388Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:50:59.456337Z'
+lastmod: '2026-07-18T17:15:09.640388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un paradigmă de învățare automată care integrează costurile clasificării eronate în procesul de antrenament pentru a optimiza impactul economic, nu doar acuratețea."
+source: agnes_llm
+status: published
+language: ro
+description: Un paradigmă de învățare automată care integrează costurile clasificării
+  eronate în procesul de antrenament pentru a optimiza impactul economic, nu doar
+  acuratețea.
 ---
-
 ## Definition
 
 Învățarea automată sensibilă la costuri extinde învățarea supravegheată tradițională atribuind penalități diferite tipurilor de erori. În scenarii din lumea reală, falsii pozitivi și falsii negativi au adesea implicații economice sau operaționale disproporționate.

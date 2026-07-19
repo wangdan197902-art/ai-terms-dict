@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /hu/terms/fp8/
-date: "2026-07-18T16:00:23.261375Z"
-lastmod: "2026-07-18T17:15:09.785807Z"
+slug: fp8
+date: '2026-07-18T16:00:23.261375Z'
+lastmod: '2026-07-18T17:15:09.785807Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az FP8 egy 8 bites lebegőpontos formátum, amelyet a mélytanulás képzésének és következtetésének gyorsítására terveztek, miközben elfogadható pontossági szinteket tart fenn."
+source: agnes_llm
+status: published
+language: hu
+description: Az FP8 egy 8 bites lebegőpontos formátum, amelyet a mélytanulás képzésének
+  és következtetésének gyorsítására terveztek, miközben elfogadható pontossági szinteket
+  tart fenn.
 ---
-
 ## Definition
 
 A Floating-Point 8 (FP8) egy numerikus adattípus, amely egyensúlyt teremt a számítási hatékonyság és a pontosság között, kifejezetten a modern MI hardverekre optimalizálva. Csökkenti a memóriasávszélesség-igényt és a tárolási igényt, ami lehetővé teszi a nagyobb modellek gyorsabb betöltését és feldolgozását anélkül, hogy jelentős pontosságvesztéssel kellene szembenézni.

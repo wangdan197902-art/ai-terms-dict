@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /ro/terms/loss_function/
 date: "2026-07-18T15:36:19.990650Z"
 lastmod: "2026-07-18T17:15:09.615792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O funcție matematică care cuantifică diferența dintre valorile prezise și valorile țintă reale în timpul antrenamentului."
 ---
-
 ## Definition
 
 Cunoscută și sub numele de funcția de cost sau eroare, funcția de pierdere oferă o valoare scalară care indică performanța modelului. În timpul antrenamentului, algoritmii de optimizare utilizează această valoare pentru a calcula gradientul

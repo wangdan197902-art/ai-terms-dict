@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /pt/terms/differential_privacy/
 date: "2026-07-18T14:57:26.078557Z"
 lastmod: "2026-07-18T15:51:59.484836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma estrutura matemática rigorosa que garante que a inclusão ou exclusão dos dados de um único indivíduo não afete significativamente o resultado de uma análise."
 ---
-
 ## Definition
 
 A privacidade diferencial fornece fortes garantias de privacidade adicionando ruído estatístico calibrado aos resultados das consultas ou parâmetros do modelo. Ela quantifica a quantidade máxima de vazamento de informações sobre qualquer

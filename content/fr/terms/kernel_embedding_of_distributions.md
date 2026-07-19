@@ -1,23 +1,25 @@
 ---
-title: "Embedding de noyau des distributions"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Embedding de noyau des distributions
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /fr/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T11:24:19.534642Z"
-lastmod: "2026-07-18T11:44:45.280182Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T11:24:19.534642Z'
+lastmod: '2026-07-18T11:44:45.280182Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique qui mappe les distributions de probabilité dans un espace de Hilbert à noyau réproduisant afin de permettre leur comparaison et leur manipulation via des opérations vectorielles."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique qui mappe les distributions de probabilité dans un espace
+  de Hilbert à noyau réproduisant afin de permettre leur comparaison et leur manipulation
+  via des opérations vectorielles.
 ---
-
 ## Definition
 
 L'embedding de noyau des distributions permet de traiter les objets probabilistes comme des points dans un espace de caractéristiques de haute dimension appelé Espace de Hilbert à Noyau Reproducteur (RKHS). En mappant les distributions vers ce space, on peut calculer des distances statistiques (comme la discrépance du moyen) et effectuer des inférences non paramétriques en utilisant l'algèbre linéaire standard.

@@ -1,23 +1,24 @@
 ---
-title: "Vícemodální analýza sentimentu"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Vícemodální analýza sentimentu
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /cs/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:10:15.216516Z"
-lastmod: "2026-07-18T17:15:09.156183Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:10:15.216516Z'
+lastmod: '2026-07-18T17:15:09.156183Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Počítačová analýza lidského sentimentu integrací textových, vizuálních a sluchových podnětů."
+source: agnes_llm
+status: published
+language: cs
+description: Počítačová analýza lidského sentimentu integrací textových, vizuálních
+  a sluchových podnětů.
 ---
-
 ## Definition
 
 Vícemodální analýza sentimentu rozšiřuje tradiční detekci sentimentu založenou pouze na textu o další signály, jako jsou mimika, tón hlasu a řeč těla. Tento komplexní přístup umožňuje přesnější pochopení emocí.

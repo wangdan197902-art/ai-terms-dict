@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /cs/terms/genesis_mission/
 date: "2026-07-18T15:59:17.130809Z"
 lastmod: "2026-07-18T17:15:09.133886Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Organizační iniciativa zaměřená na stanovení základních principů AI, infrastruktury a etických norem pro budoucí vývoj generativní AI."
 ---
-
 ## Definition
 
 Misie Genesis obvykle odkazuje na strategickou fázi nebo projekt uvnitř organizace, jehož cílem je položit základy pro pokročilé schopnosti umělé inteligence. Zahrnuje nastavení klíčové infrastruktury, definování etických rámců a zahájení pilotních programů pro testování nových technologií.

@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /de/terms/maximum_inner_product_search/
 date: "2026-07-18T11:23:29.657586Z"
 lastmod: "2026-07-18T11:44:44.963712Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine spezialisierte Technik zur Suche nach Vektorähnlichkeit, bei der Elemente mit dem höchsten Skalarprodukt im Verhältnis zu einem Abfragevektor abgerufen werden."
 ---
-
 ## Definition
 
 Die Suche nach maximalem Skalarprodukt (MIPS) ist ein grundlegendes Problem in der Informationsrückgewinnung und im maschinellen Lernen, insbesondere in Empfehlungssystemen. Im Gegensatz zu Standard-Suchen auf Basis der Kosinusähnlichkeit, die die Winkelorientierung messen, konzentriert sich MIPS auf die Maximierung des Betrags des Skalarprodukts, was oft mit der Vorhersage von Bewertungen oder der Relevanz in nicht normalisierten Vektorräumen korreliert.

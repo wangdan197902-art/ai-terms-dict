@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /hu/terms/csm/
 date: "2026-07-18T15:52:21.904842Z"
 lastmod: "2026-07-18T17:15:09.766918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy kétértelmű rövidítés, amely általában a Kontextuális Beszédmódellekre vagy a Felhőalapú Biztonságkezelésre utal specifikus technikai területeken, általános AI kontextusban nincs egységes definíció"
 ---
-
 ## Definition
 
 Az AI és a technológia kontextusában a 'CSM' nem univerzálisan szabványosított kifejezés, mint például a 'CNN' vagy 'RNN'. Leggyakrabban a Kontextuális Beszédmódelleket (Contextual Speech Models) jelöli a beszédfeldolgozási kutatásokban, de előfordulhat Felhőbiztonsági menedzsment jelentése is.

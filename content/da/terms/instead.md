@@ -1,23 +1,23 @@
 ---
-title: "I stedet"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: I stedet
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /da/terms/instead/
-date: "2026-07-18T15:26:38.267993Z"
-lastmod: "2026-07-18T17:15:09.226348Z"
+slug: instead
+date: '2026-07-18T15:26:38.267993Z'
+lastmod: '2026-07-18T17:15:09.226348Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "I stedet er et sprogligt konjunktion eller adverbium, der angiver substitution, udskiftning eller en alternativ handling udført i stedet for en anden."
+source: agnes_llm
+status: published
+language: da
+description: I stedet er et sprogligt konjunktion eller adverbium, der angiver substitution,
+  udskiftning eller en alternativ handling udført i stedet for en anden.
 ---
-
 ## Definition
 
 Selvom det ikke er et teknisk AI-algoritmeterm, er 'i stedet' afgørende inden for prompt-engineering og forståelse af naturligt sprog. Det signalerer et kontrast- eller substitutionsforhold mellem led. I LLM tra

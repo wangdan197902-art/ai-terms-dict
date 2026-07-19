@@ -1,23 +1,24 @@
 ---
-title: "Байесовская оптимизация"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Байесовская оптимизация
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /ru/terms/bayesian_optimization/
-date: "2026-07-18T15:42:59.118243Z"
-lastmod: "2026-07-18T16:38:07.126535Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:42:59.118243Z'
+lastmod: '2026-07-18T16:38:07.126535Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия последовательного проектирования для глобальной оптимизации «черных ящиков», оценка которых требует больших затрат."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия последовательного проектирования для глобальной оптимизации
+  «черных ящиков», оценка которых требует больших затрат.
 ---
-
 ## Definition
 
 Байесовская оптимизация использует вероятностную модель-суррогат, обычно гауссовский процесс, для моделирования целевой функции. Она применяет функцию приобретения для балансировки между исследованием и использованием

@@ -1,23 +1,25 @@
 ---
-title: "Đặc trưng ngẫu nhiên"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Đặc trưng ngẫu nhiên
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /vi/terms/random_feature/
-date: "2026-07-18T16:10:06.878729Z"
-lastmod: "2026-07-18T16:38:07.799727Z"
+slug: random_feature
+date: '2026-07-18T16:10:06.878729Z'
+lastmod: '2026-07-18T16:38:07.799727Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật ánh xạ dữ liệu đầu vào vào không gian chiều cao hơn bằng cách sử dụng phép chiếu ngẫu nhiên để xấp xỉ các phương pháp hạt nhân một cách hiệu quả."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật ánh xạ dữ liệu đầu vào vào không gian chiều cao hơn bằng
+  cách sử dụng phép chiếu ngẫu nhiên để xấp xỉ các phương pháp hạt nhân một cách hiệu
+  quả.
 ---
-
 ## Definition
 
 Ánh xạ đặc trưng ngẫu nhiên biến đổi đầu vào thành một không gian mới nơi các mô hình tuyến tính có thể xấp xỉ các hàm hạt nhân phi tuyến. Cách tiếp cận này, thường liên quan đến phương pháp Nystrom hoặc đặc trưng Fourier, cho phép...

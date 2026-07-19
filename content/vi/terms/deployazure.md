@@ -1,23 +1,23 @@
 ---
-title: "Triển khai: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Triển khai: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /vi/terms/deployazure/
-date: "2026-07-18T15:49:14.511986Z"
-lastmod: "2026-07-18T16:38:07.748425Z"
+slug: deployazure
+date: '2026-07-18T15:49:14.511986Z'
+lastmod: '2026-07-18T16:38:07.748425Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình lưu trữ và chạy các mô hình học máy trên cơ sở hạ tầng đám mây của Microsoft Azure."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình lưu trữ và chạy các mô hình học máy trên cơ sở hạ tầng đám
+  mây của Microsoft Azure.
 ---
-
 ## Definition
 
 Việc triển khai lên Azure bao gồm việc sử dụng các công cụ bản địa trên đám mây như Azure Machine Learning, Azure Kubernetes Service (AKS) hoặc Azure Functions để cung cấp các mô hình ML ở quy mô lớn. Nó bao gồm việc quản lý tài nguyên tính toán...

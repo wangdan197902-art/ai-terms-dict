@@ -1,23 +1,24 @@
 ---
-title: "Hibrid intelligens rendszer"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: Hibrid intelligens rendszer
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /hu/terms/hybrid_intelligent_system/
-date: "2026-07-18T16:04:22.077384Z"
-lastmod: "2026-07-18T17:15:09.794246Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T16:04:22.077384Z'
+lastmod: '2026-07-18T17:15:09.794246Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy AI architektúra, amely több számítási intelligencia technikát, például neurális hálózatokat és szimbolikus logikát kombinál komplex problémák megoldására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy AI architektúra, amely több számítási intelligencia technikát, például
+  neurális hálózatokat és szimbolikus logikát kombinál komplex problémák megoldására.
 ---
-
 ## Definition
 
 Egy Hibrid Intelligens Rendszer (HIS) különböző AI paradigmákat egyesít, általában összekapcsolva a kapcsolódási alapú megközelítéseket (pl. neurális hálózatok) a szimbolikus módszerekkel (pl. szakértői rendszerek vagy fuzzy logika). Ez az integráció lehetővé teszi...

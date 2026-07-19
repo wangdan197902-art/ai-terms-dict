@@ -1,23 +1,23 @@
 ---
-title: "nultý pokus"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: nultý pokus
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /cs/terms/zero_shot/
-date: "2026-07-18T15:33:43.744154Z"
-lastmod: "2026-07-18T17:15:09.086637Z"
+slug: zero_shot
+date: '2026-07-18T15:33:43.744154Z'
+lastmod: '2026-07-18T17:15:09.086637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Schopnost vykonávat úkoly na neviděných třídách bez předchozích tréninkových příkladů."
+source: agnes_llm
+status: published
+language: cs
+description: Schopnost vykonávat úkoly na neviděných třídách bez předchozích tréninkových
+  příkladů.
 ---
-
 ## Definition
 
 Učení nultého pokusu umožňuje modelům zobecnit na nové kategorie nebo úkoly, pro které nebyly během počáteční fáze tréninku poskytnuty žádné označené tréninkové údaje. Toho se obvykle dosahuje využitím sémantických...

@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /fr/terms/intelligent_word_recognition/
 date: "2026-07-18T11:24:04.141068Z"
 lastmod: "2026-07-18T11:44:45.278807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'utilisation d'algorithmes d'IA, en particulier l'apprentissage profond, pour identifier et interpréter avec précision le texte issu d'images ou de sources manuscrites."
 ---
-
 ## Definition
 
 La Reconnaissance Intelligente de Mots désigne les technologies avancées de reconnaissance optique de caractères (OCR) alimentées par des réseaux neuronaux. Elle va au-delà de la simple correspondance de motifs en comprenant le contexte, en gérant les variations de police et en corrigeant les erreurs potentielles grâce à une analyse sémantique.

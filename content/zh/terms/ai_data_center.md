@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /zh/terms/ai_data_center/
 date: "2026-07-18T11:02:52.509032Z"
 lastmod: "2026-07-18T11:44:45.434210Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "专为托管和运营 AI 工作负载的高性能计算基础设施而设计的专门设施。"
 ---
-
 ## Definition
 
 AI 数据中心是优化用于运行人工智能应用（特别是深度学习训练和推理）的物理设施。这些中心具备高密度服务器机架、先进的散热管理和高速网络连接。

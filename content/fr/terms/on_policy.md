@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /fr/terms/on_policy/
 date: "2026-07-18T10:57:58.875213Z"
 lastmod: "2026-07-18T11:44:45.179810Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une approche d'apprentissage par renforcement où la politique évaluée et améliorée est identique à celle utilisée pour générer les données."
 ---
-
 ## Definition
 
 Les algorithmes on-policy exigent que l'apprentissage se fasse directement à partir des actions effectuées par sa politique actuelle. Cela signifie que les données collectées lors de l'exploration sont utilisées immédiatement pour mettre à jour la politique, garantissant ainsi la cohérence des données.

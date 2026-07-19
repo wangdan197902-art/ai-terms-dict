@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /da/terms/loop/
 date: "2026-07-18T15:27:07.236836Z"
 lastmod: "2026-07-18T17:15:09.227840Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En programmeringskonstruktion, der gentager en blok med kode flere gange, indtil en betingelse er opfyldt."
 ---
-
 ## Definition
 
 En grundlæggende styringsstrukturer inden for datalogi og AI-udvikling; et loop gør det muligt for algoritmer at iterere gennem datasæt, udføre gentagne beregninger eller køre trænings-epoker. Almindelige typer inkluderer

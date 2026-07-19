@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /fi/terms/agentic/
 date: "2026-07-18T15:35:11.817708Z"
 lastmod: "2026-07-18T17:15:09.367780Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa tekoälyjärjestelmiin, jotka pystyvät itsenäiseen suunnitteluun, päättelyyn ja toimien suorittamiseen tiettyjen tavoitteiden saavuttamiseksi."
 ---
-
 ## Definition
 
 Termiä 'agentinomainen' käytetään kuvaamaan tekoälyagenteja, jotka toimivat korkeanasteisella itsenäisyydellä. Toisin kuin passiiviset mallit, jotka vain ennustavat tekstiä tai luokittelevat dataa, agenttomaiset järjestelmät pystyvät...

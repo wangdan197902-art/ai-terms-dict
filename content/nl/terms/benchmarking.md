@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /nl/terms/benchmarking/
 date: "2026-07-18T15:23:54.268550Z"
 lastmod: "2026-07-18T17:15:08.680795Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het systematische proces van het testen van AI-modellen tegen benchmarks om hun prestaties te kwantificeren en verbeterpunten te identificeren."
 ---
-
 ## Definition
 
 Benchmarking is de actieve praktijk van het uitvoeren van experimenten om te meten hoe goed een AI-model presteert op specifieke taken met behulp van vooraf gedefinieerde benchmarks. Dit proces houdt in dat modellen door standaardtests worden gehaald.

@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /tr/terms/loop/
 date: "2026-07-18T15:26:38.010069Z"
 lastmod: "2026-07-18T16:38:07.236754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir koşul sağlanana kadar bir kod bloğunu birden fazla kez tekrarlayan bir programlama yapısıdır."
 ---
-
 ## Definition
 
 Bilgisayar bilimi ve yapay zeka geliştirmede temel bir kontrol akışı yapısı olan döngü, algoritmaların veri kümeleri üzerinden yinelemeler yapmasına, tekrarlayan hesaplamalar gerçekleştirmesine veya eğitim dönemlerini çalıştırmasına olanak tanır. Yaygın türleri şunlardır

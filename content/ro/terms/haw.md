@@ -1,23 +1,23 @@
 ---
-title: "Haw"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: Haw
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /ro/terms/haw/
-date: "2026-07-18T16:02:17.351472Z"
-lastmod: "2026-07-18T17:15:09.663928Z"
+slug: haw
+date: '2026-07-18T16:02:17.351472Z'
+lastmod: '2026-07-18T17:15:09.663928Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O interjecție colocvială folosită adesea în comunicarea digitală informală, fără o semnificație tehnică specifică în contexte de IA."
+source: agnes_llm
+status: published
+language: ro
+description: O interjecție colocvială folosită adesea în comunicarea digitală informală,
+  fără o semnificație tehnică specifică în contexte de IA.
 ---
-
 ## Definition
 
 În contextul procesării limbajului general, „haw” este o exclamație informală sau un sunet de ezitare. Deși nu reprezintă un concept algoritmico central în inteligența artificială, modelele de PNL trebuie să recunoască aceste elemente pentru a înțelege nuanțele conversației.

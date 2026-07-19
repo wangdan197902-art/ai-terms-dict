@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /no/terms/sigmoid/
 date: "2026-07-18T16:15:54.365643Z"
 lastmod: "2026-07-18T16:38:07.046488Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En matematisk funksjon som avbilder ethvert reelt tall til en verdi mellom null og én, og danner en S-formet kurve."
 ---
-
 ## Definition
 
 Sigmoidfunksjonen, definert som σ(z) = 1 / (1 + e^-z), er mye brukt i maskinlæring for å modellere sannsynligheter. Den komprimerer inndataverdier inn i intervallet (0, 1), noe som gjør den egnet for binær klassifisering.

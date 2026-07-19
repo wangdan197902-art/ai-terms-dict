@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /ro/terms/large_language_models/
 date: "2026-07-18T15:26:45.381527Z"
 lastmod: "2026-07-18T17:15:09.596942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Paradigma utilizării rețelelor neuronale scalate pentru sarcini largi de înțelegere și generare a limbajului natural."
 ---
-
 ## Definition
 
 Acest termen se referă la paradigma mai largă de aplicare în care modelele cu miliarde de parametri sunt utilizate pentru învățarea zero-shot sau few-shot în diverse sarcini lingvistice. Spre deosebire de modelele specializate

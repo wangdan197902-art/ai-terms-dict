@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /da/terms/human_centered_ai/
 date: "2026-07-18T16:00:23.185156Z"
 lastmod: "2026-07-18T17:15:09.296849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En tilgang til AI-design og -udvikling, der prioriterer menneskelige værdier, behov og velbefindende gennem hele systemets livscyklus."
 ---
-
 ## Definition
 
 Menneskecentreret AI er en designfilosofi, der placerer mennesket i centrum for udviklingen af kunstig intelligens. Den understreger skabelsen af systemer, der er gennemsigtige, retfærdige og gavnlige for samfundet, frem for blot teknisk effektivitet.

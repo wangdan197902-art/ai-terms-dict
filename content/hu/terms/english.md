@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /hu/terms/english/
 date: "2026-07-18T15:25:47.934875Z"
 lastmod: "2026-07-18T17:15:09.719028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az angol egy természetes nyelv, amely sok Természetes Nyelvfeldolgozási (NLP) modell domináns benchmark adathalmaza és célkimenete."
 ---
-
 ## Definition
 
 Bár elsősorban emberi nyelv, az AI kontextusában az 'angol' a legelterjedtebb nyelvi domént jelöli az NLP-kutatásban a digitális szöveges adatok bőségének köszönhetően. A legtöbb alapmodell (például a BERT vagy GPT család tagjai) elsődlegesen angol szövegeken történő előképzéssel készülnek.

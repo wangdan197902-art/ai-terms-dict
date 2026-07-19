@@ -1,23 +1,24 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /no/terms/coqui/
-date: "2026-07-18T15:47:54.028384Z"
-lastmod: "2026-07-18T16:38:06.984522Z"
+slug: coqui
+date: '2026-07-18T15:47:54.028384Z'
+lastmod: '2026-07-18T16:38:06.984522Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Coqui er et open source-selskap innen taleteknologi som er kjent for å utvikle høykvalitets, flerspråklige tekst-til-tale-modeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: Coqui er et open source-selskap innen taleteknologi som er kjent for
+  å utvikle høykvalitets, flerspråklige tekst-til-tale-modeller.
 ---
-
 ## Definition
 
 Coqui Technologies var en fremtredende aktør i open source-AI-miljøet, best kjent for sitt TTS-motor (Tekst-til-tale). Prosjektet tilbød forhåndstreningede modeller som var i stand til å generere naturlig lydtale.

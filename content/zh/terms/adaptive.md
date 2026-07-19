@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /zh/terms/adaptive/
 date: "2026-07-18T10:49:06.484489Z"
 lastmod: "2026-07-18T11:44:45.361931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "系统根据变化条件修改其行为或参数的能力。"
 ---
-
 ## Definition
 
 在人工智能中，“自适应”描述的是能够根据新数据或环境反馈动态调整其内部状态、参数或策略的系统或算法。这种能力使模型……

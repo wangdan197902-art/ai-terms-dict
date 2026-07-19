@@ -1,23 +1,23 @@
 ---
-title: "ChatGLM"
-term_id: "chatglm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "chinese-nlp", "open-source"]
+title: ChatGLM
+term_id: chatglm
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- Chinese NLP
+- Open Source
 difficulty: 3
 weight: 1
-slug: "chatglm"
-aliases:
-  - /zh/terms/chatglm/
-date: "2026-07-18T11:09:54.659571Z"
-lastmod: "2026-07-18T11:44:45.455873Z"
+slug: chatglm
+date: '2026-07-18T11:09:54.659571Z'
+lastmod: '2026-07-18T11:44:45.455873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "ChatGLM是由智谱AI开发的双语大型开源语言模型系列，专为中英文对话优化。"
+source: agnes_llm
+status: published
+language: zh
+description: ChatGLM是由智谱AI开发的双语大型开源语言模型系列，专为中英文对话优化。
 ---
-
 ## Definition
 
 ChatGLM代表一系列基于Transformer的语言模型，专门设计用于处理高质量的中英文双语对话。由智谱AI开发，这些模型利用...（原文截断，此处为完整语义翻译）

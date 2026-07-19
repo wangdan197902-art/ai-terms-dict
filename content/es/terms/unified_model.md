@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /es/terms/unified_model/
 date: "2026-07-18T11:11:45.926303Z"
 lastmod: "2026-07-18T11:44:44.863662Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una arquitectura de IA diseñada para manejar múltiples tareas o modalidades dentro de un único marco."
 ---
-
 ## Definition
 
 Un modelo unificado se refiere a un sistema de inteligencia artificial capaz de realizar diversas tareas distintas, como generación de texto, reconocimiento de imágenes y síntesis de código, sin requerir sistemas separados especializados para cada una.

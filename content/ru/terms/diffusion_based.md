@@ -1,23 +1,24 @@
 ---
-title: "диффузионный"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: диффузионный
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /ru/terms/diffusion_based/
-date: "2026-07-18T15:31:09.731594Z"
-lastmod: "2026-07-18T16:38:07.094405Z"
+slug: diffusion_based
+date: '2026-07-18T15:31:09.731594Z'
+lastmod: '2026-07-18T16:38:07.094405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подход к генеративному моделированию, создающий данные путем обратного процесса постепенного добавления шума через обученные шаги удаления шума."
+source: agnes_llm
+status: published
+language: ru
+description: Подход к генеративному моделированию, создающий данные путем обратного
+  процесса постепенного добавления шума через обученные шаги удаления шума.
 ---
-
 ## Definition
 
 Диффузионные модели — это класс генеративного ИИ, который создает новые выборки данных, итеративно удаляя шум из случайного распределения. Процесс начинается с прямого этапа, на котором медленно добавляется Гауссов

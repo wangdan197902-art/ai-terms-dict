@@ -1,23 +1,24 @@
 ---
-title: "Noise Label"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Noise Label
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /id/terms/label_noise/
-date: "2026-07-18T15:57:13.775550Z"
-lastmod: "2026-07-18T16:38:07.475398Z"
+slug: label_noise
+date: '2026-07-18T15:57:13.775550Z'
+lastmod: '2026-07-18T16:38:07.475398Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kesalahan atau inkonsistensi dalam label target dari dataset yang digunakan untuk pelatihan pembelajaran mesin tersupervisi."
+source: agnes_llm
+status: published
+language: id
+description: Kesalahan atau inkonsistensi dalam label target dari dataset yang digunakan
+  untuk pelatihan pembelajaran mesin tersupervisi.
 ---
-
 ## Definition
 
 Noise label mengacu pada ketidaksesuaian antara label kelas sebenarnya dari instance data dan label yang disediakan dalam dataset pelatihan. Hal ini dapat muncul dari kesalahan anotasi manusia, ambiguitas data, atau kesalahan dalam proses pengumpulan data. Keberadaan noise label dapat menurunkan kinerja dan keandalan model pembelajaran mesin, sehingga diperlukan teknik pembelajaran yang kuat (robust learning) untuk menanganinya.

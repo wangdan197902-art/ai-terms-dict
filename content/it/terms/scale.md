@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /it/terms/scale/
 date: "2026-07-18T15:29:11.409848Z"
 lastmod: "2026-07-18T17:15:08.573867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La scala si riferisce all'entità dei dati, dei parametri o delle risorse computazionali utilizzate nei modelli di apprendimento automatico."
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, il scaling (ampliamento della scala) comporta tipicamente l'aumento della dimensione dei dataset, dei parametri del modello o della potenza di calcolo per migliorare le prestazioni. Questo concetto è centrale nel deep learning, dove grandi

@@ -1,23 +1,23 @@
 ---
-title: "질문 응답"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: 질문 응답
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /ko/terms/question_answering/
-date: "2026-07-18T15:35:51.643401Z"
-lastmod: "2026-07-18T16:38:06.799019Z"
+slug: question_answering
+date: '2026-07-18T15:35:51.643401Z'
+lastmod: '2026-07-18T16:38:06.799019Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "시스템이 자연어로 제시된 질문에 대해 자동으로 정확한 답변을 제공하는 자연어 처리(NLP) 작업입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 시스템이 자연어로 제시된 질문에 대해 자동으로 정확한 답변을 제공하는 자연어 처리(NLP) 작업입니다.
 ---
-
 ## Definition
 
 질문 응답(Question Answering, QA)은 주어진 문맥이나 지식베이스에서 사용자 쿼리에 대한 정확한 응답을 검색하거나 생성하는 과정입니다. 이는 특정 문서에 의존하는 폐쇄형 도메인 QA부터...

@@ -7,8 +7,6 @@ tags: ["library", "tools", "diffusion"]
 difficulty: 3
 weight: 1
 slug: "stable_diffusion_diffusers"
-aliases:
-  - /ar/terms/stable_diffusion_diffusers/
 date: "2026-07-18T16:22:07.900445Z"
 lastmod: "2026-07-18T17:15:08.551060Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مكتبة من Hugging Face توفر خطوط أنابيب موحدة لتشغيل وضبط نماذج الانتشار المستقر."
 ---
-
 ## Definition
 
 مكتبة Diffusers هي مجموعة أدوات مفتوحة المصدر من Hugging Face صُممت لتبسيط استخدام نماذج الانتشار المدربة مسبقاً، ولا سيما نماذج الانتشار المستقر. تقدم المكتبة خطوط أنابيب معيارية تعالج المهام المعقدة مثل الترميز، الانتشار العكسي، وإزالة الضوضاء بطريقة مجردة. هذا يسمح للمطورين بتشغيل النماذج وتكييفها (Fine-tuning) بسهولة دون الحاجة إلى إعادة كتابة منطق التدريب أو الاستدعاء الأساسي من الصفر.

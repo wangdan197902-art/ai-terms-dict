@@ -1,23 +1,24 @@
 ---
-title: "Έξυπνη Βάση Δεδομένων"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Έξυπνη Βάση Δεδομένων
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /el/terms/intelligent_database/
-date: "2026-07-18T16:15:12.632039Z"
-lastmod: "2026-07-18T17:15:09.921784Z"
+slug: intelligent_database
+date: '2026-07-18T16:15:12.632039Z'
+lastmod: '2026-07-18T17:15:09.921784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα σύστημα βάσης δεδομένων που ενσωματώνει δυνατότητες ΤΝ για την αυτοματοποίηση της διαχείρισης δεδομένων, βελτιστοποίηση ερωτημάτων και δημιουργία εννοιών."
+source: agnes_llm
+status: published
+language: el
+description: Ένα σύστημα βάσης δεδομένων που ενσωματώνει δυνατότητες ΤΝ για την αυτοματοποίηση
+  της διαχείρισης δεδομένων, βελτιστοποίηση ερωτημάτων και δημιουργία εννοιών.
 ---
-
 ## Definition
 
 Μια έξυπνη βάση δεδομένων αξιοποιεί τη μηχανική μάθηση και την ΤΝ για να ενισχύσει τις τυπικές λειτουργίες των βάσεων δεδομένων πέρα από την απλή αποθήκευση και ανάκτηση. Μπορεί να βελτιστοποιεί αυτόματα την απόδοση ερωτημάτων, να προβλέπει τη χρήση

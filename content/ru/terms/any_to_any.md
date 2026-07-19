@@ -1,23 +1,24 @@
 ---
-title: "Любой к любому"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Любой к любому
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /ru/terms/any_to_any/
-date: "2026-07-18T15:40:37.093511Z"
-lastmod: "2026-07-18T16:38:07.119863Z"
+slug: any_to_any
+date: '2026-07-18T15:40:37.093511Z'
+lastmod: '2026-07-18T16:38:07.119863Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Возможность генеративного ИИ преобразовывать входные данные одной модальности непосредственно в выходные данные другой произвольной модальности."
+source: agnes_llm
+status: published
+language: ru
+description: Возможность генеративного ИИ преобразовывать входные данные одной модальности
+  непосредственно в выходные данные другой произвольной модальности.
 ---
-
 ## Definition
 
 Подход «любой к любому» относится к унифицированным мультимодальным архитектурам, способным обрабатывать различные комбинации входных и выходных данных, такие как текст в изображение, изображение в текст или аудио в видео. В отличие от специализированных моделей, эти системы способны к более гибкому взаимодействию между разными типами данных.

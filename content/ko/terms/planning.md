@@ -1,23 +1,23 @@
 ---
-title: "계획 수립"
-term_id: "planning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["agent_architecture", "logic", "autonomy"]
+title: 계획 수립
+term_id: planning
+category: application_paradigms
+subcategory: ''
+tags:
+- Agent Architecture
+- logic
+- autonomy
 difficulty: 3
 weight: 1
-slug: "planning"
-aliases:
-  - /ko/terms/planning/
-date: "2026-07-18T15:35:37.491233Z"
-lastmod: "2026-07-18T16:38:06.798357Z"
+slug: planning
+date: '2026-07-18T15:35:37.491233Z'
+lastmod: '2026-07-18T16:38:06.798357Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "정의된 환경 내에서 특정 목표를 달성하기 위해 행동의 순서를 생성하는 인지적 과정."
+source: agnes_llm
+status: published
+language: ko
+description: 정의된 환경 내에서 특정 목표를 달성하기 위해 행동의 순서를 생성하는 인지적 과정.
 ---
-
 ## Definition
 
 AI에서의 계획 수립은 초기 상태에서 원하는 목표 상태로 이어지는 행동의 순서를 결정하는 것을 포함합니다. 이는 행동의 효과와 환경의 제약 조건에 대한 추론을 필요로 합니다.

@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /id/terms/reasoning_model/
 date: "2026-07-18T16:06:48.591971Z"
 lastmod: "2026-07-18T16:38:07.499994Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Model AI yang dioptimalkan secara khusus untuk melakukan deduksi logis kompleks, pemecahan masalah langkah demi langkah, dan pemrosesan rantai pemikiran."
 ---
-
 ## Definition
 
 Berbeda dengan model generatif standar yang berfokus pada kelancaran, model penalaran mengutamakan akurasi dalam tugas multi-langkah seperti matematika, pemrograman, dan teka-teki logis. Model ini sering menggunakan teknik seperti Rantai Pemikiran (Chain-of-Thought) untuk memecah masalah menjadi sub-tugas.

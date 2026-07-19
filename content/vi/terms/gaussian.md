@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /vi/terms/gaussian/
 date: "2026-07-18T15:25:42.123017Z"
 lastmod: "2026-07-18T16:38:07.685994Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Liên quan đến phân phối chuẩn, một đường cong hình chuông cơ bản trong thống kê và mô hình hóa nhiễu trong AI."
 ---
-
 ## Definition
 
 Gauss đề cập đến phân phối chuẩn, một phân phối xác suất liên tục được đặc trưng bởi trung bình và phương sai. Trong AI, nó được sử dụng rộng rãi trong mô hình hóa xác suất, suy luận Bayes, và

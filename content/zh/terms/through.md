@@ -1,23 +1,22 @@
 ---
-title: "Through"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: Through
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /zh/terms/through/
-date: "2026-07-18T10:55:14.077932Z"
-lastmod: "2026-07-18T11:44:45.386329Z"
+slug: through
+date: '2026-07-18T10:55:14.077932Z'
+lastmod: '2026-07-18T11:44:45.386329Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Through 是一个介词，不是人工智能中的特定技术术语。"
+source: agnes_llm
+status: published
+language: zh
+description: Through 是一个介词，不是人工智能中的特定技术术语。
 ---
-
 ## Definition
 
 'Through' 在 AI 术语中没有独立的定义。它常用于短语中，如 'throughput'（吞吐量，即处理速率）或描述信号穿过节点的“神经网络层”。没有……

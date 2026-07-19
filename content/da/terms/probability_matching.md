@@ -1,23 +1,24 @@
 ---
-title: "Sandsynlighedsmatching"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Sandsynlighedsmatching
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /da/terms/probability_matching/
-date: "2026-07-18T16:12:54.224633Z"
-lastmod: "2026-07-18T17:15:09.322941Z"
+slug: probability_matching
+date: '2026-07-18T16:12:54.224633Z'
+lastmod: '2026-07-18T17:15:09.322941Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En beslutningstagende strategi, hvor en agent vælger handlinger med frekvenser, der er proportionale med deres estimerede sandsynligheder."
+source: agnes_llm
+status: published
+language: da
+description: En beslutningstagende strategi, hvor en agent vælger handlinger med frekvenser,
+  der er proportionale med deres estimerede sandsynligheder.
 ---
-
 ## Definition
 
 Sandsynlighedsmatching er et adfærdsmønster, der ofte observeres i forstærkningslæring og psykologi, i modsætning til optimale 'maksimerings'-strategier. I stedet for altid at vælge den handling med den højeste sandsynlighed...

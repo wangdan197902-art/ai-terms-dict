@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /ko/terms/hallucination/
 date: "2026-07-18T15:22:46.628477Z"
 lastmod: "2026-07-18T16:38:06.767097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 모델이 사실과 다르거나 의미 없는 정보를 확신에 차서 생성하는 현상."
 ---
-
 ## Definition
 
 환각은 생성형 AI 모델이 현실이나 원본 데이터에 기반하지는 않지만 그럴듯해 보이는 출력을 생성할 때 발생합니다. 이는 높은 정확도가 요구되는 애플리케이션에서 주요한 과제로 작용합니다.

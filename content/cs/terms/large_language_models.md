@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /cs/terms/large_language_models/
 date: "2026-07-18T15:26:24.643384Z"
 lastmod: "2026-07-18T17:15:09.071640Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Paradigma využívající škálované neuronové sítě pro úlohy porozumění a generování přirozeného jazyka širokého spektra."
 ---
-
 ## Definition
 
 Tento termín označuje širší aplikační paradigma, kde jsou modely s miliardami parametrů využívány pro učení bez příkladů (zero-shot) nebo s malým počtem příkladů (few-shot) napříč různými jazykovými úlohami. Na rozdíl od specializovaných modelů

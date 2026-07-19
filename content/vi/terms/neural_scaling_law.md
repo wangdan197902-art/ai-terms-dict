@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /vi/terms/neural_scaling_law/
 date: "2026-07-18T16:05:19.002458Z"
 lastmod: "2026-07-18T16:38:07.787563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Các mối quan hệ thực nghiệm dự đoán sự cải thiện hiệu suất mô hình dựa trên việc tăng dữ liệu, tham số hoặc khả năng tính toán."
 ---
-
 ## Definition
 
 Các định luật tỷ lệ mở rộng mạng nơ-ron mô tả mối quan hệ quy luật lũy thừa có thể dự đoán giữa hiệu suất của mô hình và quy mô của nó, bao gồm kích thước tập dữ liệu, số lượng tham số và ngân sách tính toán. Các định luật này gợi ý rằng...

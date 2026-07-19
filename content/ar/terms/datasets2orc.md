@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /ar/terms/datasets2orc/
 date: "2026-07-18T15:52:32.454568Z"
 lastmod: "2026-07-18T17:15:08.493015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مرجع البحث المفتوح من Semantic Scholar، وهو مجموعة بيانات ضخمة للأوراق الأكاديمية تحتوي على بيانات وصفية منظمة وشبكات استشهاد."
 ---
-
 ## Definition
 
 S2ORC هو مرجع شامل للمقالات العلمية مشتق من منصة Semantic Scholar. يتضمن المحتوى الكامل للنصوص، والبيانات الوصفية، وعلاقات الاستشهاد لملايين الأوراق عبر مختلف المجالات العلمية...

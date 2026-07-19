@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /zh/terms/neuro_symbolic_ai/
 date: "2026-07-18T11:28:12.945163Z"
 lastmod: "2026-07-18T11:44:45.536779Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种结合神经网络学习能力与符号推理逻辑性和透明度的AI方法。"
 ---
-
 ## Definition
 
 神经符号人工智能将亚符号的神经学习方法与基于符号逻辑的推理系统相结合。这种混合方法旨在克服纯深度学习的局限性，例如缺乏可解释性（lack of explainability）和逻辑推理能力。

@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /nl/terms/scientific/
 date: "2026-07-18T15:29:41.422186Z"
 lastmod: "2026-07-18T17:15:08.693010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Wetenschappelijk in AI verwijst naar de toepassing van rigoureuze empirische methoden, hypothese-toetsing en reproduceerbaarheid in onderzoek."
 ---
-
 ## Definition
 
 De wetenschappelijke benadering in kunstmatige intelligentie benadrukt evidence-based ontwikkeling en validatie. Het omvat het formuleren van hypothesen over modelgedrag, het uitvoeren van gecontroleerde experimenten en

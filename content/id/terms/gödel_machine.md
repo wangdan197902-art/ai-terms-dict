@@ -1,23 +1,24 @@
 ---
-title: "Mesin Gödel"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Mesin Gödel
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /id/terms/gödel_machine/
-date: "2026-07-18T15:54:12.223657Z"
-lastmod: "2026-07-18T16:38:07.465373Z"
+slug: gödel_machine
+date: '2026-07-18T15:54:12.223657Z'
+lastmod: '2026-07-18T16:38:07.465373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Program AI teoretis yang dapat meningkatkan diri sendiri dengan menulis ulang kode sumbernya agar lebih efisien tanpa mengubah tujuannya."
+source: agnes_llm
+status: published
+language: id
+description: Program AI teoretis yang dapat meningkatkan diri sendiri dengan menulis
+  ulang kode sumbernya agar lebih efisien tanpa mengubah tujuannya.
 ---
-
 ## Definition
 
 Mesin Gödel adalah pemecah masalah universal hipotetis yang diusulkan oleh Jürgen Schmidhuber, berdasarkan logika formal dan teori komputabilitas. Mesin ini beroperasi dengan secara terus-menerus menganalisis kode sumbernya sendiri dan mengubahnya jika ditemukan versi yang lebih efisien yang mempertahankan utilitas asli.

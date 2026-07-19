@@ -1,23 +1,24 @@
 ---
-title: "정책(Policy)"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: 정책(Policy)
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /ko/terms/policy/
-date: "2026-07-18T15:27:42.421763Z"
-lastmod: "2026-07-18T16:38:06.780930Z"
+slug: policy
+date: '2026-07-18T15:27:42.421763Z'
+lastmod: '2026-07-18T16:38:06.780930Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "정책(Policy)은 합리적인 결과를 달성하기 위해 의사 결정을 안내하도록 설계된 전략 또는 행동 계획으로, 강화 학습에서 상태를 행동으로 매핑하는 데 자주 사용됩니다."
+source: agnes_llm
+status: published
+language: ko
+description: 정책(Policy)은 합리적인 결과를 달성하기 위해 의사 결정을 안내하도록 설계된 전략 또는 행동 계획으로, 강화 학습에서
+  상태를 행동으로 매핑하는 데 자주 사용됩니다.
 ---
-
 ## Definition
 
 '정책(Policy)'이라는 용어는 맥락에 따라 두 가지 의미를 가집니다. 일반적인 경영에서는 의사 결정을 위한 지침 원칙을 의미하지만, 강화 학습(Reinforcement Learning, RL)에서는 에이전트의 핵심 구성 요소로서 주어진 상태에서 어떤 행동을 취해야 할지 결정하는 함수를 의미합니다.

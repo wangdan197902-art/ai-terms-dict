@@ -1,23 +1,23 @@
 ---
-title: "ผู้บันทึกข้อมูลทางการแพทย์อัตโนมัติ"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: ผู้บันทึกข้อมูลทางการแพทย์อัตโนมัติ
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /th/terms/automated_medical_scribe/
-date: "2026-07-18T15:43:26.449958Z"
-lastmod: "2026-07-18T16:38:07.577100Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:43:26.449958Z'
+lastmod: '2026-07-18T16:38:07.577100Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ระบบที่ขับเคลื่อนด้วย AI ซึ่งสร้างเอกสารทางคลินิกโดยอัตโนมัติจากการสนทนาระหว่างแพทย์และผู้ป่วย"
+source: agnes_llm
+status: published
+language: th
+description: ระบบที่ขับเคลื่อนด้วย AI ซึ่งสร้างเอกสารทางคลินิกโดยอัตโนมัติจากการสนทนาระหว่างแพทย์และผู้ป่วย
 ---
-
 ## Definition
 
 ผู้บันทึกข้อมูลทางการแพทย์อัตโนมัติใช้เทคโนโลยีการประมวลผลภาษาธรรมชาติ (NLP) และการรู้จำเสียงพูด เพื่อฟังบทสนทนาระหว่างแพทย์กับผู้ป่วยและสร้างบันทึกสุขภาพอิเล็กทรอนิกส์ที่มีโครงสร้าง ระบบนี้ช่วยเพิ่มประสิทธิภาพและความถูกต้องในการบันทึกข้อมูลผู้ป่วย

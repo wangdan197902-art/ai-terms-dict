@@ -1,23 +1,24 @@
 ---
-title: "AlphaChip"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: AlphaChip
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /tr/terms/alphachip/
-date: "2026-07-18T15:40:37.338281Z"
-lastmod: "2026-07-18T16:38:07.271994Z"
+slug: alphachip
+date: '2026-07-18T15:40:37.338281Z'
+lastmod: '2026-07-18T16:38:07.271994Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Google DeepMind tarafından geliştirilen, entegre devre düzenlerini optimize etmek için pekiştirmeli öğrenme kullanan yapay zeka destekli çip tasarım aracı."
+source: agnes_llm
+status: published
+language: tr
+description: Google DeepMind tarafından geliştirilen, entegre devre düzenlerini optimize
+  etmek için pekiştirmeli öğrenme kullanan yapay zeka destekli çip tasarım aracı.
 ---
-
 ## Definition
 
 AlphaChip, mikroçiplerdeki bileşenlerin yerleştirilmesi ve bağlantılarının (routing) otomatikleştirilmesini ve iyileştirilmesini sağlamak üzere tasarlanmış özel bir yapay zeka sistemidir. Derin pekiştirmeli öğrenme kullanarak, tasarım süresini önemli ölçüde kısaltır.

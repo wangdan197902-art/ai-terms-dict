@@ -1,23 +1,24 @@
 ---
-title: "Aktiv læring"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Aktiv læring
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /no/terms/active_learning/
-date: "2026-07-18T15:40:54.596784Z"
-lastmod: "2026-07-18T16:38:06.967970Z"
+slug: active_learning
+date: '2026-07-18T15:40:54.596784Z'
+lastmod: '2026-07-18T16:38:06.967970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En maskinlæringsstrategi der algoritmen selektivt ber en bruker eller oracle om å merke nye datapunkter for å optimalisere treningsprosessen."
+source: agnes_llm
+status: published
+language: 'no'
+description: En maskinlæringsstrategi der algoritmen selektivt ber en bruker eller
+  oracle om å merke nye datapunkter for å optimalisere treningsprosessen.
 ---
-
 ## Definition
 
 Aktiv læring reduserer mengden merket data som kreves ved å la modellen velge de mest informative instansene for menneskelig merking. I stedet for passivt å motta tilfeldige prøver, spør algoritmen aktivt om hjelp for usikre tilfeller.

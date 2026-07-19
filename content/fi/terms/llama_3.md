@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /fi/terms/llama_3/
 date: "2026-07-18T16:07:24.044058Z"
 lastmod: "2026-07-18T17:15:09.429628Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Llama 3 on Metan vuonna 2024 julkaisema edistynyt suuri kielimalli, joka tarjoaa huomattavasti parannettu päättelykyvyn, koodaus- ja monikieliset ominaisuudet 8B:n ja 70B:n parametrikokojen välillä."
 ---
-
 ## Definition
 
 Huhtikuussa 2024 esitelty Llama 3 hyödyntää Llama 2:n menestystä ja sisältää merkittäviä suorituskyky- ja ominaisuusparannuksia. Malliperheeseen kuuluu 8 miljardin ja 70 miljardin parametrin versiot,

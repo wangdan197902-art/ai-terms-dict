@@ -1,23 +1,23 @@
 ---
-title: "データ中心AI"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: データ中心AI
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /ja/terms/data_centric_ai/
-date: "2026-07-18T11:10:00.332412Z"
-lastmod: "2026-07-18T11:44:45.083485Z"
+slug: data_centric_ai
+date: '2026-07-18T11:10:00.332412Z'
+lastmod: '2026-07-18T11:44:45.083485Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルアーキテクチャの変更よりも、トレーニングデータの質と量の向上を優先するAI開発のアプローチ。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルアーキテクチャの変更よりも、トレーニングデータの質と量の向上を優先するAI開発のアプローチ。
 ---
-
 ## Definition
 
 データ中心AIは、人工知能開発におけるパラダイムシフトを表し、アルゴリズムやハイパーパラメータの最適化のみを行うのではなく、モデルをトレーニングするために使用されるデータを体系的に改善することに焦点を当てています。

@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /cs/terms/data_preprocessing/
 date: "2026-07-18T15:50:45.936170Z"
 lastmod: "2026-07-18T17:15:09.116287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces převodu surových dat do čistého a konzistentního formátu vhodného pro algoritmy strojového učení."
 ---
-
 ## Definition
 
 Předzpracování dat je nezbytným úkolem transformace surových, neuspořádaných nebo zašuměných dat do standardizovaného formátu, který mohou modely strojového učení efektivně zpracovat. Tento stupeň obvykle zahrnuje čištění dat, normalizaci, kódování kategoriálních proměnných a škálování funkcí, čímž se zajišťuje, že vstupní data jsou kvalitní a připravená pro analýzu.

@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /cs/terms/biomedical/
 date: "2026-07-18T15:45:26.664522Z"
 lastmod: "2026-07-18T17:15:09.107674Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vztahující se k aplikaci přírodních věd na lékařskou praxi, často zahrnující výpočetní analýzu zdravotních dat."
 ---
-
 ## Definition
 
 Biomedicínský obor se nachází na pomezí biologie, medicíny a technologie, zejména ve vývoji diagnostických nástrojů, léčebných postupů a metod analýzy dat. V kontextu umělé inteligence to znamená aplikaci strojového učení na lékařské snímky, genomická data a klinické záznamy.

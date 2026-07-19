@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /id/terms/analysis/
 date: "2026-07-18T15:23:13.605966Z"
 lastmod: "2026-07-18T16:38:07.388581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses memeriksa data atau keluaran model untuk mengekstrak wawasan dan pola yang bermakna."
 ---
-
 ## Definition
 
 Dalam konteks AI, analisis merujuk pada pemeriksaan sistematis terhadap data, prediksi model, atau perilaku sistem untuk memahami pola mendasar, mendiagnosis masalah, atau menurunkan wawasan yang dapat ditindaklanjuti. T

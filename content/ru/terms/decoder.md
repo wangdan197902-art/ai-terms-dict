@@ -1,23 +1,24 @@
 ---
-title: "Декодер"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: Декодер
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /ru/terms/decoder/
-date: "2026-07-18T15:33:29.272027Z"
-lastmod: "2026-07-18T16:38:07.100725Z"
+slug: decoder
+date: '2026-07-18T15:33:29.272027Z'
+lastmod: '2026-07-18T16:38:07.100725Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Компонент нейронной сети, отвечающий за генерацию выходных последовательностей из закодированных латентных представлений."
+source: agnes_llm
+status: published
+language: ru
+description: Компонент нейронной сети, отвечающий за генерацию выходных последовательностей
+  из закодированных латентных представлений.
 ---
-
 ## Definition
 
 В моделях типа «последовательность-в-последовательность» декодер принимает вектор контекста, созданный энкодером, и пошагово генерирует целевой вывод. Он использует механизмы внимания для фокусировки на релевантных частях...

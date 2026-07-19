@@ -1,23 +1,24 @@
 ---
-title: "ควอนไทซ์ (Quantized)"
-term_id: "quantized"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "model_deployment", "efficiency"]
+title: ควอนไทซ์ (Quantized)
+term_id: quantized
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Model Deployment
+- efficiency
 difficulty: 4
 weight: 1
-slug: "quantized"
-aliases:
-  - /th/terms/quantized/
-date: "2026-07-18T16:12:26.363464Z"
-lastmod: "2026-07-18T16:38:07.646850Z"
+slug: quantized
+date: '2026-07-18T16:12:26.363464Z'
+lastmod: '2026-07-18T16:38:07.646850Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถานะควอนไทซ์หมายถึงโมเดลเครือข่ายประสาทเทียมที่ถ่วงน้ำหนักและค่ากระตุ้นถูกแทนที่ด้วยตัวเลขที่มีความแม่นยำต่ำกว่า เพื่อลดขนาดและความล่าช้า"
+source: agnes_llm
+status: published
+language: th
+description: สถานะควอนไทซ์หมายถึงโมเดลเครือข่ายประสาทเทียมที่ถ่วงน้ำหนักและค่ากระตุ้นถูกแทนที่ด้วยตัวเลขที่มีความแม่นยำต่ำกว่า
+  เพื่อลดขนาดและความล่าช้า
 ---
-
 ## Definition
 
 การควอนไทซ์เป็นเทคนิคการปรับแต่งโมเดลที่ลดความแม่นยำทางตัวเลขของพารามิเตอร์ในโมเดลการเรียนรู้ของเครื่อง โดยมักเปลี่ยนจากเลขทศนิยมลอยจุด 32 บิต เป็นจำนวนเต็ม 8 บิต ซึ่งช่วยเพิ่มประสิทธิภาพการทำงาน

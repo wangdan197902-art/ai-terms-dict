@@ -1,23 +1,24 @@
 ---
-title: "כוונון הנחיות (Prompt Tuning)"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: כוונון הנחיות (Prompt Tuning)
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /he/terms/prompt_tuning/
-date: "2026-07-18T16:20:23.435304Z"
-lastmod: "2026-07-18T17:15:09.576356Z"
+slug: prompt_tuning
+date: '2026-07-18T16:20:23.435304Z'
+lastmod: '2026-07-18T17:15:09.576356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטת דיוק יעילה מבחינת פרמטרים הממקסמת הטבעות קלט רציפות במקום לעדכן את כל משקולות המודל."
+source: agnes_llm
+status: published
+language: he
+description: שיטת דיוק יעילה מבחינת פרמטרים הממקסמת הטבעות קלט רציפות במקום לעדכן
+  את כל משקולות המודל.
 ---
-
 ## Definition
 
 כוונון הנחיות כולל הוספת הנחיות רכות ניתנות לאימון (וקטורים רציפים) לשכבת הקלט של מודל שפה מאומן מראש, תוך שמירה על פרמטרי המודל הבסיסיים קפואים. גישה זו מאפשרת התאמה יעילה.

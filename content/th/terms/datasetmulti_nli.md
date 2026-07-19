@@ -1,23 +1,25 @@
 ---
-title: "ชุดข้อมูล: Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: 'ชุดข้อมูล: Multi Nli'
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /th/terms/datasetmulti_nli/
-date: "2026-07-18T15:48:42.234636Z"
-lastmod: "2026-07-18T16:38:07.594838Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:48:42.234636Z'
+lastmod: '2026-07-18T16:38:07.594838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Multi-Genre Natural Language Inference Corpus ซึ่งเป็นชุดข้อมูลขนาดใหญ่ที่มีประโยคภาษาอังกฤษจำนวนหลายล้านประโยคที่เขียนโดยมนุษย์ พร้อมกับการ anotate โดยมนุษย์สำหรับงานการอนุมานทางข้อความ"
+source: agnes_llm
+status: published
+language: th
+description: Multi-Genre Natural Language Inference Corpus ซึ่งเป็นชุดข้อมูลขนาดใหญ่ที่มีประโยคภาษาอังกฤษจำนวนหลายล้านประโยคที่เขียนโดยมนุษย์
+  พร้อมกับการ anotate โดยมนุษย์สำหรับงานการอนุมานทางข้อความ
 ---
-
 ## Definition
 
 MultiNLI เป็นคลังข้อมูลที่ได้จากการระดมความคิด (crowdsourced) ซึ่งสามารถเข้าถึงได้ผ่านมาตรฐาน GLUE ออกแบบมาเพื่อประเมินการอนุมานทางภาษาธรรมชาติ (NLI) ในหลากหลายแนวทางการพูดและเขียน โดยให้คู่ประโยค...

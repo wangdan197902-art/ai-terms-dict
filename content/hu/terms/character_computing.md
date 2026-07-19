@@ -1,23 +1,25 @@
 ---
-title: "Karakteralapú számítástechnika"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Karakteralapú számítástechnika
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /hu/terms/character_computing/
-date: "2026-07-18T15:49:16.289275Z"
-lastmod: "2026-07-18T17:15:09.761663Z"
+slug: character_computing
+date: '2026-07-18T15:49:16.289275Z'
+lastmod: '2026-07-18T17:15:09.761663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A karakteralapú számítástechnika a szöveg feldolgozását, generálását vagy elemzését jelenti az egyedi karakterek szintjén, nem pedig szavak vagy mondatok szintjén."
+source: agnes_llm
+status: published
+language: hu
+description: A karakteralapú számítástechnika a szöveg feldolgozását, generálását
+  vagy elemzését jelenti az egyedi karakterek szintjén, nem pedig szavak vagy mondatok
+  szintjén.
 ---
-
 ## Definition
 
 Ez a fogalom a szöveg manipulálására fókuszál, ahol a számítás alapvető egysége egyetlen karakter. Gyakran használják olyan feladatoknál, amelyek finom szemléletű szövegelemzést igényelnek, például helyesírás-ellenőrzésnél.

@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /de/terms/online/
 date: "2026-07-18T10:52:17.985089Z"
 lastmod: "2026-07-18T11:44:44.879759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf Machine-Learning-Modelle, die kontinuierlich aus neuen Datenströmen in Echtzeit lernen, ohne von Grund auf neu trainiert zu werden."
 ---
-
 ## Definition
 
 Online-Lernen ist ein Machine-Learning-Paradigma, bei dem das Modell inkrementell aktualisiert wird, wenn neue Datenpunkte eintreffen, anstatt auf einmal auf einem statischen Batch von Daten trainiert zu werden. Dieser Ansatz ist entscheidend für dynamische Umgebungen.

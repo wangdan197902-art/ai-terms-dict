@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /da/terms/source_attribution/
 date: "2026-07-18T16:18:39.578488Z"
 lastmod: "2026-07-18T17:15:09.332301Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at identificere og kreditere de oprindelige skabere eller datasæt, der er brugt til at generere specifikt indhold eller indsigt."
 ---
-
 ## Definition
 
 Kildehenvisning refererer til den systematiske sporing og mærkning af oprindelsen for data, modeller eller genererede output i AI-systemer. Det sikrer gennemsigtighed ved at koble endelige resultater tilbage til deres oprindelse.

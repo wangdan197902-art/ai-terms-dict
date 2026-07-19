@@ -1,23 +1,24 @@
 ---
-title: "Proximale gradientmethoden voor leren"
-term_id: "proximal_gradient_methods_for_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "mathematics", "regression"]
+title: Proximale gradientmethoden voor leren
+term_id: proximal_gradient_methods_for_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- mathematics
+- Regression
 difficulty: 4
 weight: 1
-slug: "proximal_gradient_methods_for_learning"
-aliases:
-  - /nl/terms/proximal_gradient_methods_for_learning/
-date: "2026-07-18T16:13:31.976873Z"
-lastmod: "2026-07-18T17:15:08.779397Z"
+slug: proximal_gradient_methods_for_learning
+date: '2026-07-18T16:13:31.976873Z'
+lastmod: '2026-07-18T17:15:08.779397Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Optimalisatiealgoritmen ontworpen om samengestelde doel functies te minimaliseren die zowel gladde als niet-gladde componenten bevatten."
+source: agnes_llm
+status: published
+language: nl
+description: Optimalisatiealgoritmen ontworpen om samengestelde doel functies te minimaliseren
+  die zowel gladde als niet-gladde componenten bevatten.
 ---
-
 ## Definition
 
 Proximale gradientmethoden zijn iteratieve optimalisatietechnieken die worden gebruikt wanneer de verliesfunctie een differentieerbare gladde term en een niet-differentieerbare regularisator bevat, zoals de L1-norm. Het algoritme combineert...

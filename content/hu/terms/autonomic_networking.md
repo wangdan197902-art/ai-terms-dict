@@ -1,23 +1,24 @@
 ---
-title: "Autonóm hálózatkezelés"
-term_id: "autonomic_networking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["networking", "infrastructure", "ai_ops"]
+title: Autonóm hálózatkezelés
+term_id: autonomic_networking
+category: basic_concepts
+subcategory: ''
+tags:
+- networking
+- infrastructure
+- AI Ops
 difficulty: 4
 weight: 1
-slug: "autonomic_networking"
-aliases:
-  - /hu/terms/autonomic_networking/
-date: "2026-07-18T15:46:39.134015Z"
-lastmod: "2026-07-18T17:15:09.757898Z"
+slug: autonomic_networking
+date: '2026-07-18T15:46:39.134015Z'
+lastmod: '2026-07-18T17:15:09.757898Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Önmagát kezelő hálózati infrastruktúra, amely MI-t használ a konfiguráláshoz, optimalizáláshoz és öngyógyításhoz."
+source: agnes_llm
+status: published
+language: hu
+description: Önmagát kezelő hálózati infrastruktúra, amely MI-t használ a konfiguráláshoz,
+  optimalizáláshoz és öngyógyításhoz.
 ---
-
 ## Definition
 
 Az autonóm hálózatkezelés az autonóm számítástechnika elveit alkalmazza a távközlési hálózatokon, lehetővé téve a rendszerek számára, hogy minimális emberi beavatkozással kezeljék önmagukat. Ezek a hálózatok MI-t használnak a hibák észlelésére...

@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /da/terms/forethought_technologies/
 date: "2026-07-18T15:56:21.939375Z"
 lastmod: "2026-07-18T17:15:09.289699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Forudseende teknologier refererer til ingeniørmæssige praksisser, der forudsiger fremtidige systemtilstande, risici og krav gennem prediktiv modellering og simulering."
 ---
-
 ## Definition
 
 Dette koncept indebærer design af AI-systemer med fremadskuende evner, der kan simulere potentielle udfald og tilpasse sig proaktivt. Det integrerer prediktiv analyse, scenarieplanlægning og risikostyring

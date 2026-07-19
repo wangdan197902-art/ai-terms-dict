@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /pl/terms/model_hub_mixin/
 date: "2026-07-18T16:07:45.628347Z"
 lastmod: "2026-07-18T17:15:08.898527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model Hub Mixin to wielokrotnego użytku komponent klasowy, który dodaje standaryzowaną funkcjonalność do modeli z biblioteki Hugging Face Transformers."
 ---
-
 ## Definition
 
 Mixiny zapewniają wspólne metody, takie jak zapisywanie, ładowanie i przesyłanie modeli do Hugging Face Hub, bez konieczności implementacji tych narzędzi przez każdą architekturę modelu indywidualnie. Zapewniają one spójn

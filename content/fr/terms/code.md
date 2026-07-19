@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /fr/terms/code/
 date: "2026-07-18T10:59:05.924052Z"
 lastmod: "2026-07-18T11:44:45.183012Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Dans le contexte de l'IA, le code fait référence aux instructions structurées écrites dans des langages de programmation qui définissent le comportement du modèle et la logique de traitement des donné"
 ---
-
 ## Definition
 
 Le code représente l'ensemble des instructions écrites dans des langages de programmation tels que Python, C++ ou JavaScript que les ordinateurs exécutent pour effectuer des tâches spécifiques. En intelligence artificielle, le code est fondamental pour implémenter des algorithmes, entraîner des modèles et déployer des solutions.

@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /tr/terms/loss_function/
 date: "2026-07-18T15:35:51.205836Z"
 lastmod: "2026-07-18T16:38:07.260004Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Eğitim sırasında tahmin edilen değerler ile gerçek hedef değerler arasındaki farkı nicelendiren matematiksel bir fonksiyon."
 ---
-
 ## Definition
 
 Maliyet veya hata fonksiyonu olarak da bilinir, kayıp fonksiyonu modelin ne kadar iyi performans gösterdiğini gösteren skaler bir değer sağlar. Eğitim sırasında optimizasyon algoritmaları, gradyanları hesaplamak için bu değeri kullanır.

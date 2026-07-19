@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /da/terms/local/
 date: "2026-07-18T15:27:07.236768Z"
 lastmod: "2026-07-18T17:15:09.227581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Refererer til behandling eller lagring af data på en specifik enhed frem for i et centralt skybaseret miljø."
 ---
-
 ## Definition
 
 Inden for kunstig intelligens betegner 'lokal' typisk operationer, der udføres direkte på brugerens hardware, såsom en bærbar computer eller smartphone, uden at stole på eksterne servere. Denne tilgang forbedrer dataprivacy

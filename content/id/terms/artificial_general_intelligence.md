@@ -1,23 +1,24 @@
 ---
-title: "Kecerdasan Umum Buatan"
-term_id: "artificial_general_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "theory", "intelligence"]
+title: Kecerdasan Umum Buatan
+term_id: artificial_general_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- theory
+- intelligence
 difficulty: 5
 weight: 1
-slug: "artificial_general_intelligence"
-aliases:
-  - /id/terms/artificial_general_intelligence/
-date: "2026-07-18T15:39:09.325835Z"
-lastmod: "2026-07-18T16:38:07.428304Z"
+slug: artificial_general_intelligence
+date: '2026-07-18T15:39:09.325835Z'
+lastmod: '2026-07-18T16:38:07.428304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "AI hipotetis yang memiliki kemampuan untuk memahami, belajar, dan menerapkan pengetahuan di berbagai tugas tingkat manusia."
+source: agnes_llm
+status: published
+language: id
+description: AI hipotetis yang memiliki kemampuan untuk memahami, belajar, dan menerapkan
+  pengetahuan di berbagai tugas tingkat manusia.
 ---
-
 ## Definition
 
 Kecerdasan Umum Buatan (AGI) merujuk pada jenis AI yang dapat melakukan tugas intelektual apa pun yang dapat dilakukan oleh manusia. Berbeda dengan AI sempit yang unggul dalam tugas spesifik seperti catur atau pengenalan gambar, AGI memiliki fleksibilitas kognitif yang luas.

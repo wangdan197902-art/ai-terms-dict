@@ -1,23 +1,23 @@
 ---
-title: "행동 정보학"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: 행동 정보학
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /ko/terms/behavior_informatics/
-date: "2026-07-18T15:43:45.408281Z"
-lastmod: "2026-07-18T16:38:06.813793Z"
+slug: behavior_informatics
+date: '2026-07-18T15:43:45.408281Z'
+lastmod: '2026-07-18T16:38:06.813793Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "디지털 데이터의 수집 및 분석을 통해 인간 행동을 연구하는 학제간 분야입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 디지털 데이터의 수집 및 분석을 통해 인간 행동을 연구하는 학제간 분야입니다.
 ---
-
 ## Definition
 
 행동 정보학은 컴퓨터 과학, 심리학, 통계를 결합하여 디지털 상호작용에서 생성된 대규모 행동 데이터를 분석합니다. 패턴 추출과 미래 예측에 중점을 둡니다.

@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /es/terms/tool_use/
 date: "2026-07-18T10:32:33.444913Z"
 lastmod: "2026-07-18T11:44:44.767906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un paradigma donde los agentes de IA seleccionan y ejecutan funciones o APIs externas para realizar tareas específicas más allá de sus capacidades nativas."
 ---
-
 ## Definition
 
 El uso de herramientas permite a los modelos de lenguaje interactuar con entornos de software externos mediante la llamada a funciones predefinidas, como calculadoras, motores de búsqueda o consultas a bases de datos. Este enfoque extiende las

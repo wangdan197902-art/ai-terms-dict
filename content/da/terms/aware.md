@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /da/terms/aware/
 date: "2026-07-18T15:23:25.150821Z"
 lastmod: "2026-07-18T17:15:09.219515Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Angiver en AIs kapacitet til at detektere og behandle specifik kontekstuel information eller stimuli."
 ---
-
 ## Definition
 
 I AI-sammenhænge refererer 'bevidst' typisk til situationel eller kontekstuel bevidsthed, hvor et system genkender relevante miljøfaktorer eller brugerstate. Det indebærer ikke bevidsthed, men snarere den tekniske evne til at genkende omgivelserne.

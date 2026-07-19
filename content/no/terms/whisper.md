@@ -1,23 +1,24 @@
 ---
-title: "Whisper"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: Whisper
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /no/terms/whisper/
-date: "2026-07-18T16:21:24.432884Z"
-lastmod: "2026-07-18T16:38:07.058280Z"
+slug: whisper
+date: '2026-07-18T16:21:24.432884Z'
+lastmod: '2026-07-18T16:38:07.058280Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et automatisk talegjenkjennelsessystem (ASR) utviklet av OpenAI, trent på et stort datasett med variert lyd."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et automatisk talegjenkjennelsessystem (ASR) utviklet av OpenAI, trent
+  på et stort datasett med variert lyd.
 ---
-
 ## Definition
 
 Whisper er en allment brukbar talegjenkjennelsesmodell designet for å håndtere ulike språk, dialekter og aksenter. Den er trent på hundretusener av timer med flerspråklig og multitask overvåket...

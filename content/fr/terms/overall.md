@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /fr/terms/overall/
 date: "2026-07-18T10:52:27.947247Z"
 lastmod: "2026-07-18T11:44:45.168603Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le terme global fait référence aux performances, à la précision ou à l'impact agrégés d'un système d'IA sur tous les cas de test ou scénarios opérationnels."
 ---
-
 ## Definition
 
 Lors de l'évaluation des modèles d'IA, les métriques globales offrent une vue holistique de la performance du système plutôt que de se concentrer sur des composants isolés. Cela inclut la précision globale, la moyenne de la précision moyenne (mAP) ou le score total sur un ensemble de données complet.

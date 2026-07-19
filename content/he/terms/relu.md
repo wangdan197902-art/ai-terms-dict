@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /he/terms/relu/
-date: "2026-07-18T15:38:14.644732Z"
-lastmod: "2026-07-18T17:15:09.503608Z"
+slug: relu
+date: '2026-07-18T15:38:14.644732Z'
+lastmod: '2026-07-18T17:15:09.503608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "יחידה ליניארית מתוקנת (Rectified Linear Unit) היא פונקציית הפעלה המפיקה את הקלט ישירות אם הוא חיובי, ואחרת מפיקה אפס."
+source: agnes_llm
+status: published
+language: he
+description: יחידה ליניארית מתוקנת (Rectified Linear Unit) היא פונקציית הפעלה המפיקה
+  את הקלט ישירות אם הוא חיובי, ואחרת מפיקה אפס.
 ---
-
 ## Definition
 
 ReLU נפוץ מאוד ברשתות נוירונים ללמידה עמוקה בשל יעילותו החישובית והיכולת שלו להפחית את בעיית דעיכת הגרדיאנט. מוגדר מתמטית כ-f(x) = max(0, x), הוא מציג אי-ליניאריות פשוטה ויעילה.

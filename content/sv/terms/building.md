@@ -7,8 +7,6 @@ tags: ["development", "engineering", "process"]
 difficulty: 2
 weight: 1
 slug: "building"
-aliases:
-  - /sv/terms/building/
 date: "2026-07-18T15:23:40.956009Z"
 lastmod: "2026-07-18T17:15:08.938299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den praktiska fasen av att utveckla, träna och driftsätta AI-modeller och system från initial design till produktionsberedskap."
 ---
-
 ## Definition
 
 Building avser den helhetsinriktade ingenjörsprocessen för att skapa AI-lösningar, vilket inkluderar insamling av data, modellval, träning, validering och driftsättning. Det omfattar den tekniska infrastrukturen.

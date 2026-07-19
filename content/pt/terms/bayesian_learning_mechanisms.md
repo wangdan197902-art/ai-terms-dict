@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /pt/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T14:51:28.881268Z"
 lastmod: "2026-07-18T15:51:59.467718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Paradigmas de aprendizado que tratam os parâmetros do modelo como variáveis aleatórias com distribuições de probabilidade, em vez de valores fixos."
 ---
-
 ## Definition
 
 Os mecanismos de aprendizado bayesiano atualizam as crenças sobre os parâmetros do modelo usando o teorema de Bayes, combinando conhecimento prévio (prior) com dados observados para formar uma distribuição a posteriori. Diferentemente das abordagens frequentistas, que tratam os parâmetros como constantes desconhecidas, a abordagem bayesiana quantifica a incerteza sobre esses parâmetros através de distribuições completas, permitindo inferências mais robustas em cenários de dados limitados.

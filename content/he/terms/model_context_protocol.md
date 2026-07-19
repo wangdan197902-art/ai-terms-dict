@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /he/terms/model_context_protocol/
 date: "2026-07-18T15:37:26.610774Z"
 lastmod: "2026-07-18T17:15:09.501322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מסגרת תקנית המיועדת לאפשר תקשורת מאובטחת ויעילה בין מודלי בינה מלאכותית לבין מקורות נתונים חיצוניים או כלים."
 ---
-
 ## Definition
 
 פרוטוקול הקשר מודלים (MCP) הוא תקן פתוח המאפשר ליישומי בינה מלאכותית להתחבר למגוון מקורות נתונים, כגון מסדי נתונים, ממשקי תכנות יישומים (APIs) ומערכות קבצים, בצורה אחידה. הוא מפשט את האינטגרציה ומאפשר גישה סטנדרטית למידע חיצוני.

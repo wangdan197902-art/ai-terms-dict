@@ -1,23 +1,24 @@
 ---
-title: "Ước lượng mật độ hạt nhân"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Ước lượng mật độ hạt nhân
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /vi/terms/kernel_density_estimation/
-date: "2026-07-18T15:58:51.062756Z"
-lastmod: "2026-07-18T16:38:07.772188Z"
+slug: kernel_density_estimation
+date: '2026-07-18T15:58:51.062756Z'
+lastmod: '2026-07-18T16:38:07.772188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp phi tham số dùng để ước lượng hàm mật độ xác suất của một biến ngẫu nhiên dựa trên một mẫu dữ liệu hữu hạn."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp phi tham số dùng để ước lượng hàm mật độ xác suất của
+  một biến ngẫu nhiên dựa trên một mẫu dữ liệu hữu hạn.
 ---
-
 ## Definition
 
 Ước lượng mật độ hạt nhân (KDE) là một kỹ thuật thống kê cơ bản làm mịn các điểm dữ liệu rời rạc để tạo ra một đường cong phân phối xác suất liên tục. Nó đặt một hàm hạt nhân, thường là hàm Gauss, lên mỗi điểm dữ liệu và tổng hợp chúng lại.

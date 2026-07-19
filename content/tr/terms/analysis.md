@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /tr/terms/analysis/
 date: "2026-07-18T15:23:14.455822Z"
 lastmod: "2026-07-18T16:38:07.226984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Anlamlı içgörüler ve kalıplar çıkarmak için veri veya model çıktılarını inceleme süreci."
 ---
-
 ## Definition
 
 Yapay zeka bağlamında analiz, altta yatan kalıpları anlamak, sorunları teşhis etmek veya eyleme geçirilebilir içgörüler elde etmek için veriye, model tahminlerine veya sistem davranışlarına sistematik bir şekilde bakmayı ifade eder.

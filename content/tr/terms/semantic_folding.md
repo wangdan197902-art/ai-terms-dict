@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /tr/terms/semantic_folding/
 date: "2026-07-18T16:13:42.769930Z"
 lastmod: "2026-07-18T16:38:07.363713Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İlişkisel yapıları korurken yüksek boyutlu semantik temsilleri daha düşük boyutlu bir alana eşleyen bir teknik."
 ---
-
 ## Definition
 
 Semantik katlama, karmaşık, yüksek boyutlu vektör gömme (embedding) yapılarının anlamsal anlamda önemli bir kayıp olmadan daha yönetilebilir bir düşük boyutlu temsile sıkıştırılması sürecini ifade eder.

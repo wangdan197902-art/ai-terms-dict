@@ -7,8 +7,6 @@ tags: ["LLM", "inference", "technique"]
 difficulty: 4
 weight: 1
 slug: "self_consistency"
-aliases:
-  - /id/terms/self_consistency/
 date: "2026-07-18T16:08:09.856966Z"
 lastmod: "2026-07-18T16:38:07.505037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konsistensi diri adalah strategi dekoding di mana beberapa jalur penalaran diambil sampelnya dan jawaban yang paling sering muncul dipilih sebagai output akhir."
 ---
-
 ## Definition
 
 Utamanya digunakan dengan Model Bahasa Besar (LLM), teknik ini meningkatkan akurasi dengan menghasilkan beberapa respons beragam terhadap sebuah prompt melalui pengambilan sampel. Alih-alih mengandalkan dekoding serakah, metode ini mengumpulkan hasil dari berbagai jalur untuk menemukan konsensus.

@@ -7,8 +7,6 @@ tags: ["IoT", "AI", "Edge Computing", "Automation"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_of_things"
-aliases:
-  - /id/terms/artificial_intelligence_of_things/
 date: "2026-07-18T15:39:29.720243Z"
 lastmod: "2026-07-18T16:38:07.429143Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konvergensi antara AI dan IoT, yang memungkinkan perangkat pintar memproses data secara lokal dan membuat keputusan secara otonom."
 ---
-
 ## Definition
 
 Kecerdasan Buatan dari Segala Sesuatu (AIoT) mewakili integrasi sinergis antara teknologi Kecerdasan Buatan dan Internet of Things. Dengan menanamkan algoritma AI secara langsung ke dalam perangkat IoT atau

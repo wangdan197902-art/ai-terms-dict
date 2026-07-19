@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /ja/terms/data_poisoning/
 date: "2026-07-18T11:09:46.134097Z"
 lastmod: "2026-07-18T11:44:45.082853Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データポイズニングとは、悪意のある攻撃者がトレーニングセットに壊れたまたは誤解を招くデータを注入し、モデルの性能を低下させるセキュリティ攻撃です。"
 ---
-
 ## Definition
 
 この敵対的技術は、トレーニングデータを変更することで機械学習モデルの整合性を損なうことを目的としています。微妙なエラーやバイアスのある例を導入することで、攻撃者はモデルの判断を歪めたり、特定の条件下で誤動作させたりすることができます。

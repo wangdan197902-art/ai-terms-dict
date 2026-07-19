@@ -1,23 +1,24 @@
 ---
-title: "אמפקמנט (העצמה/השפעה)"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: אמפקמנט (העצמה/השפעה)
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /he/terms/empowerment/
-date: "2026-07-18T15:55:53.925830Z"
-lastmod: "2026-07-18T17:15:09.537306Z"
+slug: empowerment
+date: '2026-07-18T15:55:53.925830Z'
+lastmod: '2026-07-18T17:15:09.537306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מטרה בלמידה חיזוקית המודדת את יכולתו של סוכן להשפיע על מצבים עתידיים באמצעות פעולותיו."
+source: agnes_llm
+status: published
+language: he
+description: מטרה בלמידה חיזוקית המודדת את יכולתו של סוכן להשפיע על מצבים עתידיים
+  באמצעות פעולותיו.
 ---
-
 ## Definition
 
 בהקשר של למידת חיזוק ובינה מלאכותית, אמפקמנט הוא מדד של מוטיבציה פנימית (intrinsic motivation) הכמות את מידת השליטה שיש לסוכן על הסביבה שלו. הוא מוגדר כמידע ההדדי המקסימלי בין הפעולות של הסוכן לבין המצבים העתידיים האפשריים, כלומר, כמה מידע על המצב העתידי ניתן להפיק מהבחירה בפעולה מסוימת.

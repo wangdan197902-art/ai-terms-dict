@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /hu/terms/human_oversight/
 date: "2026-07-18T16:04:06.531091Z"
 lastmod: "2026-07-18T17:15:09.793548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a gyakorlat, amely során az emberek fenntartják az irányítást és felülvizsgálatot az automatizált MI-rendszerek felett a biztonság, pontosság és etikai megfelelőség biztosítása érdekében."
 ---
-
 ## Definition
 
 Az emberi felügyelet olyan mechanizmusokra és folyamatokra utal, amelyek során az emberek figyelik, értékelik és beavatkoznak az MI-alapú döntésekbe vagy cselekvésekbe. Ez a fogalom kritikus fontosságú annak biztosításában, hogy az automatizált rendszerek...

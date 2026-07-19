@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /nl/terms/sentence_transformers/
 date: "2026-07-18T16:16:32.262647Z"
 lastmod: "2026-07-18T17:15:08.786358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Neurale netwerkarchitecturen die specifiek zijn ontworpen om vaste vector-inbeddingen te genereren voor willekeurige tekstzinnen."
 ---
-
 ## Definition
 
 Zin-Transformers zijn uitbreidingen van traditionele Transformer-modellen (zoals BERT) die zijn afgestemd om betekenisvolle, dichte vectorrepresentaties te produceren voor hele zinnen. In tegenstelling tot standaard token-niveau modellen, aggregeren ze informatie over de volledige zin.

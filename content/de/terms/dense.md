@@ -1,23 +1,23 @@
 ---
-title: "Dicht"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dicht
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /de/terms/dense/
-date: "2026-07-18T11:11:39.366889Z"
-lastmod: "2026-07-18T11:44:44.931210Z"
+slug: dense
+date: '2026-07-18T11:11:39.366889Z'
+lastmod: '2026-07-18T11:44:44.931210Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Schicht oder einen Tensor, bei dem jedes Element mit jedem Element der vorherigen Schicht oder Dimension verbunden ist."
+source: agnes_llm
+status: published
+language: de
+description: Eine Schicht oder einen Tensor, bei dem jedes Element mit jedem Element
+  der vorherigen Schicht oder Dimension verbunden ist.
 ---
-
 ## Definition
 
 In neuronalen Netzen bezeichnet 'dicht' voll verbundene Schichten, bei denen jeder Neuron Eingaben von allen Neuronen der vorangehenden Schicht erhält. Dies steht im Gegensatz zu spärlichen Verbindungen, wie sie in konvolutionalen oder anderen spezialisierten Architekturen vorkommen.

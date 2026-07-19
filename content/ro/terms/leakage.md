@@ -1,23 +1,24 @@
 ---
-title: "Scurgere de date"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Scurgere de date
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /ro/terms/leakage/
-date: "2026-07-18T16:08:04.656562Z"
-lastmod: "2026-07-18T17:15:09.673691Z"
+slug: leakage
+date: '2026-07-18T16:08:04.656562Z'
+lastmod: '2026-07-18T17:15:09.673691Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Scurgerea de date apare atunci când informații din afara setului de antrenare influențează inadvertent modelul, ducând la estimări excesiv optimiste ale performanței."
+source: agnes_llm
+status: published
+language: ro
+description: Scurgerea de date apare atunci când informații din afara setului de antrenare
+  influențează inadvertent modelul, ducând la estimări excesiv optimiste ale performanței.
 ---
-
 ## Definition
 
 Scurgerea de date este o eroare critică în învățarea automată în care modelul accesează informații în timpul antrenamentului care nu ar fi disponibile în momentul predicției. Acest lucru se întâmplă adesea prin manipularea incorectă a datelor sau prin expunerea accidentală a variabilelor viitoare sau a informațiilor din setul de testare în timpul procesului de pregătire a datelor.

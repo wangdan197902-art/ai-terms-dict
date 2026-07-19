@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /id/terms/automated_decision_making/
 date: "2026-07-18T15:39:57.712203Z"
 lastmod: "2026-07-18T16:38:07.430665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses di mana algoritma secara independen memilih tindakan atau hasil berdasarkan input data tanpa pengawasan langsung dari manusia."
 ---
-
 ## Definition
 
 Pengambilan keputusan otomatis (ADM) mengandalkan sistem perangkat lunak untuk membuat pilihan yang sebelumnya memerlukan penilaian manusia. Umum digunakan dalam penilaian kredit, moderasi konten, dan logistik, ADM menggunakan aturan yang telah ditentukan.

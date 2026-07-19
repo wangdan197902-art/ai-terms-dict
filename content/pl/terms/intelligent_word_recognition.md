@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /pl/terms/intelligent_word_recognition/
 date: "2026-07-18T16:01:48.090271Z"
 lastmod: "2026-07-18T17:15:08.887065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wykorzystanie algorytmów SI, szczególnie głębokiego uczenia, do dokładnego identyfikowania i interpretowania tekstu ze zdjęć lub źródeł odręcznych."
 ---
-
 ## Definition
 
 Inteligentne rozpoznawanie słów odnosi się do zaawansowanych technologii rozpoznawania znaków optycznych (OCR) napędzanych sieciami neuronowymi. Wykracza ono poza proste dopasowanie wzorców, rozumiejąc kontekst, obsługując zniekształcenia oraz różnorodne style pisma. Dzięki zastosowaniu głębokiego uczenia, systemy te potrafią poprawiać dokładność odczytu nawet w trudnych warunkach, takich jak słabe oświetlenie, uszkodzone dokumenty lub niestandardowe czcionki, przekształcając obrazy w edytowalny tekst z wysokim stopniem wierności.

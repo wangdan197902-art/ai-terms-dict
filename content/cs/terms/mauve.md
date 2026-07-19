@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /cs/terms/mauve/
-date: "2026-07-18T16:07:02.296817Z"
-lastmod: "2026-07-18T17:15:09.150390Z"
+slug: mauve
+date: '2026-07-18T16:07:02.296817Z'
+lastmod: '2026-07-18T17:15:09.150390Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) je metrika používaná v zpracování přirozeného jazyka k hodnocení shody mezi generovanými textovými distribucemi a distribucemi textů psaných lidmi."
+source: agnes_llm
+status: published
+language: cs
+description: MAUVE (Measuring Alignment Using Virtual Embeddings) je metrika používaná
+  v zpracování přirozeného jazyka k hodnocení shody mezi generovanými textovými distribucemi
+  a distribucemi textů psaných lidmi.
 ---
-
 ## Definition
 
 MAUVE je statistická míra navržená k posouzení toho, jak velmi se výstup generativního jazykového modelu podobá lidskému jazykovému užívání. Na rozdíl od jednoduchých skóre perplezity používá MAUVE virtuální embeddingy k porovnání rozložení pravděpodobnosti.

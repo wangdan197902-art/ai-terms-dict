@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /ko/terms/datasetwikihow/
 date: "2026-07-18T15:49:34.064088Z"
 lastmod: "2026-07-18T16:38:06.828935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "WikiHow의 매뉴얼 형식 기사를 주로 포함하는 대규모 데이터셋으로, 텍스트 요약 및 지침 생성 작업에 주로 사용됩니다."
 ---
-
 ## Definition
 
 WikiHow 데이터셋은 WikiHow 웹사이트에서 수집된 약 6만 개의 매뉴얼 형식 기사로 구성됩니다. 이 데이터셋은 추출형(abstractive) 텍스트 요약 및 절차적 텍스트 이해와 같은 자연어 처리 연구 작업에서 널리 사용됩니다.

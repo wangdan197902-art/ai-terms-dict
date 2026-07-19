@@ -7,8 +7,6 @@ tags: ["AI Security", "Ethics", "Adversarial ML"]
 difficulty: 4
 weight: 1
 slug: "backdoor_attack"
-aliases:
-  - /fr/terms/backdoor_attack/
 date: "2026-07-18T11:43:20.009835Z"
 lastmod: "2026-07-18T11:44:45.359904Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une menace de sécurité où des acteurs malveillants intègrent des déclencheurs cachés dans les modèles d'IA pendant l'entraînement pour provoquer des erreurs de classification spécifiques."
 ---
-
 ## Definition
 
 Une attaque par porte dérobée implique d'empoisonner les données d'entraînement d'un modèle d'apprentissage automatique avec des motifs spécifiques, appelés déclencheurs. Bien que le modèle fonctionne normalement sur des données propres, il active des compo

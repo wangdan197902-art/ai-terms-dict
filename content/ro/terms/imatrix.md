@@ -1,23 +1,24 @@
 ---
-title: "Imatrix"
-term_id: "imatrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "training", "quantization"]
+title: Imatrix
+term_id: imatrix
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- training
+- quantization
 difficulty: 5
 weight: 1
-slug: "imatrix"
-aliases:
-  - /ro/terms/imatrix/
-date: "2026-07-18T16:04:06.348548Z"
-lastmod: "2026-07-18T17:15:09.667911Z"
+slug: imatrix
+date: '2026-07-18T16:04:06.348548Z'
+lastmod: '2026-07-18T17:15:09.667911Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un algoritm specific utilizat în antrenarea modelelor lingvistice mari pentru a calcula matrici de importanță pentru optimizarea eficientă a parametrilor."
+source: agnes_llm
+status: published
+language: ro
+description: Un algoritm specific utilizat în antrenarea modelelor lingvistice mari
+  pentru a calcula matrici de importanță pentru optimizarea eficientă a parametrilor.
 ---
-
 ## Definition
 
 Imatrix, prescurtare de la Importance Matrix (Matricea Importanței), este o tehnică asociată în principal cu antrenarea și cuantificarea LLM-urilor bazate pe GGML. Aceasta calculează derivatele de ordinul doi (aproximarea matricei Hessian) ale funcției de pierdere.

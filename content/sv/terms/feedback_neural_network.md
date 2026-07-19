@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /sv/terms/feedback_neural_network/
 date: "2026-07-18T15:58:04.817922Z"
 lastmod: "2026-07-18T17:15:09.003812Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En neuronnätsarkitektur där anslutningarna bildar riktade cykler, vilket gör att information kan bestå över tid."
 ---
-
 ## Definition
 
 Återkopplingsneuronnätverk, även kända som rekurrenta neuronnätverk (RNN), innehåller slingor som gör att signaler kan spridas tillbaka till tidigare lager. Denna rekurrens gör det möjligt för nätverket att upprätthålla ett internt tillstånd och bearbeta sekventiell data effektivt.

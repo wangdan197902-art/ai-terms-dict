@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /ro/terms/datasets2orc/
 date: "2026-07-18T15:53:09.335254Z"
 lastmod: "2026-07-18T17:15:09.645024Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Corpusul Semantic Scholar Open Research, un set de date la scară largă de articole academice, cu metadate structurate și rețele de citare."
 ---
-
 ## Definition
 
 S2ORC este un corpus cuprinzător de articole științifice derivat din Semantic Scholar. Include conținut integral, metadate și relații de citare pentru milioane de articole din diverse domenii științifice.

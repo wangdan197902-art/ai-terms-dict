@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /id/terms/open_source_artificial_intelligence/
 date: "2026-07-18T16:02:46.155358Z"
 lastmod: "2026-07-18T16:38:07.490222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "AI sumber terbuka merujuk pada perangkat lunak, model, dan alat kecerdasan buatan yang kode sumbernya tersedia secara publik untuk diperiksa, dimodifikasi, dan didistribusikan."
 ---
-
 ## Definition
 
 Konsep ini mencakup ekosistem teknologi AI yang dirilis di bawah lisensi yang memungkinkan akses gratis ke kode dasarnya. Ini mempromosikan transparansi, kolaborasi, dan inovasi dengan memungkinkan d

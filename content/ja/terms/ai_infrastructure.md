@@ -7,8 +7,6 @@ tags: ["engineering", "cloud", "hardware"]
 difficulty: 3
 weight: 1
 slug: "ai_infrastructure"
-aliases:
-  - /ja/terms/ai_infrastructure/
 date: "2026-07-18T11:02:23.128294Z"
 lastmod: "2026-07-18T11:44:45.061148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "大規模な人工知能モデルの開発、トレーニング、およびデプロイメントに必要なハードウェア、ソフトウェア、ネットワークリソース。"
 ---
-
 ## Definition
 
 AIインフラストラクチャとは、AI運用に必要な基盤となるテクノロジースタックを指します。これには、GPUやTPUなどの高性能コンピューティングハードウェア、クラウドストレージ、データ処理パイプラインなどが含まれます。

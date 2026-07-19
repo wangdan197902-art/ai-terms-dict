@@ -1,23 +1,24 @@
 ---
-title: "Volizione coerente estrapolata"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Volizione coerente estrapolata
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /it/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:52:01.505319Z"
-lastmod: "2026-07-18T17:15:08.607455Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:52:01.505319Z'
+lastmod: '2026-07-18T17:15:08.607455Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un obiettivo proposto per l'intelligenza artificiale in cui il sistema agisce secondo i desideri raffinati dell'umanità dopo un ragionamento idealizzato."
+source: agnes_llm
+status: published
+language: it
+description: Un obiettivo proposto per l'intelligenza artificiale in cui il sistema
+  agisce secondo i desideri raffinati dell'umanità dopo un ragionamento idealizzato.
 ---
-
 ## Definition
 
 La Volizione Coerente Estrapolata (CEV) è un concetto introdotto da Eliezer Yudkowsky nel contesto della sicurezza e dell'allineamento dell'IA. Suggerisce che un'IA avanzata non dovrebbe semplicemente obbedire ai comandi umani attuali

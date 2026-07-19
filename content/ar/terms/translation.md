@@ -1,23 +1,24 @@
 ---
-title: "الترجمة"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: الترجمة
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /ar/terms/translation/
-date: "2026-07-18T15:39:04.002002Z"
-lastmod: "2026-07-18T17:15:08.467637Z"
+slug: translation
+date: '2026-07-18T15:39:04.002002Z'
+lastmod: '2026-07-18T17:15:08.467637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية تحويل النص من لغة طبيعية مصدرية إلى لغة طبيعية هدفية مع الحفاظ على المعنى."
+source: agnes_llm
+status: published
+language: ar
+description: عملية تحويل النص من لغة طبيعية مصدرية إلى لغة طبيعية هدفية مع الحفاظ
+  على المعنى.
 ---
-
 ## Definition
 
 تشير الترجمة في الذكاء الاصطناعي إلى الترجمة الآلية العصبية، حيث تقوم نماذج التعلم العميق بربط التمثيلات الدلالية بين اللغات. وعلى عكس الأنظمة القائمة على القواعد، تتعلم الأساليب الحديثة الفروق الدقيقة السياقية

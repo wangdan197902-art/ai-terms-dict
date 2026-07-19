@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /fi/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:09:40.332803Z"
 lastmod: "2026-07-18T17:15:09.431701Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käytännön laskennallisten mallien soveltaminen biologisen datan, kuten genomisekvenssien ja proteiinirakenteiden, analysointiin biologisten havaintojen löytämiseksi."
 ---
-
 ## Definition
 
 Tämä poikkialueellinen ala käyttää koneoppimista käsitelläkseen valtavia määriä biologista dataa, mikä mahdollistaa tutkijoiden ennustavan geenien toimintoja, luokittelemaan tauteja ja ymmärtämään molekyylien välisiä vuorovaikutuksia.

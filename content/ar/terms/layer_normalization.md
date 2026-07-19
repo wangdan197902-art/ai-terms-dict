@@ -1,23 +1,24 @@
 ---
-title: "التطبيع الطبقي"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: التطبيع الطبقي
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /ar/terms/layer_normalization/
-date: "2026-07-18T16:05:20.138293Z"
-lastmod: "2026-07-18T17:15:08.521211Z"
+slug: layer_normalization
+date: '2026-07-18T16:05:20.138293Z'
+lastmod: '2026-07-18T17:15:08.521211Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تقوم بتطبيع تنشيطات طبقة الشبكة العصبية عبر بُعد الميزات لكل عينة فردية."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تقوم بتطبيع تنشيطات طبقة الشبكة العصبية عبر بُعد الميزات لكل عينة
+  فردية.
 ---
-
 ## Definition
 
 يساهم التطبيع الطبقي في استقرار التدريب من خلال تقليل الانزياح التبايني الداخلي، وهو فعال بشكل خاص في الهياكل المتكررة ومحولات الانتباه (Transformers). وعلى عكس التطبيع الدفعي الذي يعتمد على إحصائيات

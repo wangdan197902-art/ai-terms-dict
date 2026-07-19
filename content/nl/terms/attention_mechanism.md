@@ -1,23 +1,24 @@
 ---
-title: "Attention Mechanisme"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Attention Mechanisme
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /nl/terms/attention_mechanism/
-date: "2026-07-18T15:22:26.136163Z"
-lastmod: "2026-07-18T17:15:08.678130Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:26.136163Z'
+lastmod: '2026-07-18T17:15:08.678130Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek waarmee neurale netwerken zich kunnen focussen op specifieke delen van invoergegevens bij het genereren van uitvoer."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek waarmee neurale netwerken zich kunnen focussen op specifieke
+  delen van invoergegevens bij het genereren van uitvoer.
 ---
-
 ## Definition
 
 Een attention mechanisme stelt een model in staat om de belangrijkheid van verschillende elementen binnen een invoersekwentie dynamisch te wegen. In plaats van alle invoergegevens gelijk te behandelen, worden er verschillende niveaus van betekenis toegekend.

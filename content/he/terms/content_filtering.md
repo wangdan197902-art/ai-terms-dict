@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /he/terms/content_filtering/
 date: "2026-07-18T15:49:46.501319Z"
 lastmod: "2026-07-18T17:15:09.522975Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תהליך של חסימה או אישור גישה לתוכן דיגיטלי בהתבסס על קריטריונים מוגדרים מראש או מודלי סיווג."
 ---
-
 ## Definition
 
 סינון תוכן כולל שימוש באלגוריתמים וחוקים לסריקה, סיווג ושליטה בזרימת המידע המוצג למשתמשים. בהקשר של בינה מלאכותית, זה לרוב מעסיק עיבוד שפה טבעית וניתוח תמונה כדי לזהות תוכן לא ראוי.

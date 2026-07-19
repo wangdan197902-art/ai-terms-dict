@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /nl/terms/machine_learning_control/
 date: "2026-07-18T16:05:47.681035Z"
 lastmod: "2026-07-18T17:15:08.764678Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een aanpak binnen de besturingsleer waarbij algoritmen voor machine learning de systeemdynamicus adaptief beheren om de prestaties in realtime te optimaliseren."
 ---
-
 ## Definition
 
 Machine learning-besturing integreert adaptieve algoritmen met traditionele besturingssystemen om om te gaan met niet-lineaire of onzekere omgevingen. In tegenstelling tot statische controllers leren deze systemen voortdurend uit operationele gegevens, waardoor ze zich kunnen aanpassen aan veranderende omstandigheden en de efficiëntie en stabiliteit van het systeem op elk moment maximaliseren.

@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: Dataset:Multi Nli
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /ro/terms/datasetmulti_nli/
-date: "2026-07-18T15:52:45.457147Z"
-lastmod: "2026-07-18T17:15:09.644567Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:52:45.457147Z'
+lastmod: '2026-07-18T17:15:09.644567Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Corpusul Multi-Genre de Inferență Limbaj Natural, un set de date mare care conține milioane de propoziții scrise de oameni în limba engleză, cu annotații umane de referință pentru implicarea textuală."
+source: agnes_llm
+status: published
+language: ro
+description: Corpusul Multi-Genre de Inferență Limbaj Natural, un set de date mare
+  care conține milioane de propoziții scrise de oameni în limba engleză, cu annotații
+  umane de referință pentru implicarea textuală.
 ---
-
 ## Definition
 
 MultiNLI este un corpus colectat prin muncă colaborativă (crowdsourcing), disponibil prin benchmark-ul GLUE, conceput pentru a evalua inferența în limbajul natural (NLI) pe diverse genuri de text vorbit și scris. Oferă perechi de premise și ipoteze, etichetate ca entailed (implicat), neutral (neutru) sau contradicție (contradicție), permițând modelelor să învețe relațiile semantice complexe între enunțuri.

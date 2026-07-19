@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /da/terms/game_theory/
 date: "2026-07-18T15:56:49.831097Z"
 lastmod: "2026-07-18T17:15:09.291058Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Den matematiske studie af strategisk interaktion blandt rationelle beslutningstagere, hvor resultaterne afhænger af deltagernes handlinger."
 ---
-
 ## Definition
 
 Spilteori er en gren af anvendt matematik, der modellerer strategiske interaktioner mellem rationelle agenter. Den analyserer situationer, hvor den ene spillers succes afhænger af andres valg. Nøgle...

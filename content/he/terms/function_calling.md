@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /he/terms/function_calling/
 date: "2026-07-18T15:36:55.611342Z"
 lastmod: "2026-07-18T17:15:09.499784Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מנגנון המאפשר למודלי שפה גדולים (LLMs) להפיק נתונים מבניים המפעילים פונקציות תוכנה ספציפיות."
 ---
-
 ## Definition
 
 קריאה לפונקציה מאפשרת למודלי שפה גדולים ליצור אינטראקציה עם כלים חיצוניים ו-APIs על ידי יצירת פלט מבני, כגון אובייקטי JSON, המפרטים איזו פונקציה לבצע ואילו פרמטרים להעביר.

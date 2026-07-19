@@ -1,23 +1,23 @@
 ---
-title: "텍스트 생성"
-term_id: "text_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generation", "nlp", "chatbots"]
+title: 텍스트 생성
+term_id: text_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- generation
+- NLP
+- chatbots
 difficulty: 2
 weight: 1
-slug: "text_generation"
-aliases:
-  - /ko/terms/text_generation/
-date: "2026-07-18T16:18:04.373331Z"
-lastmod: "2026-07-18T16:38:06.914339Z"
+slug: text_generation
+date: '2026-07-18T16:18:04.373331Z'
+lastmod: '2026-07-18T16:38:06.914339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "제공된 프롬프트나 문맥을 기반으로 모델이 토큰 단위로 인간과 유사한 텍스트 시퀀스를 생성하는 AI 기능입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 제공된 프롬프트나 문맥을 기반으로 모델이 토큰 단위로 인간과 유사한 텍스트 시퀀스를 생성하는 AI 기능입니다.
 ---
-
 ## Definition
 
 텍스트 생성은 인공지능 모델이 새로운 텍스트 콘텐츠를 만들어내는 자연어 처리의 기본 응용 패러다임입니다. 시퀀스에서 다음으로 올 가능성이 높은 토큰을 예측함으로써 연속적인 텍스트를 생성합니다.

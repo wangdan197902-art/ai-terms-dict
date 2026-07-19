@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /en/terms/reflection/
 date: "2026-07-18T10:13:50.501112Z"
 lastmod: "2026-07-18T11:44:44.716594Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A mechanism allowing AI models to analyze their own outputs, reasoning processes, or internal states to improve future performance."
 ---
-
 ## Definition
 
 In AI, reflection is a paradigm where a model pauses to evaluate its own generation process or output before finalizing it. This can involve checking for logical consistency, factual accuracy, or adherence to safety guidelines. By reflecting on its own actions, the system can correct errors, refine arguments, or adjust its tone. This technique is often implemented via chain-of-thought prompting or separate critique models, significantly enhancing the reliability and quality of complex reasoning tasks.

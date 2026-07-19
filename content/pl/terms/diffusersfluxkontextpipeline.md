@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /pl/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:51:49.555290Z"
 lastmod: "2026-07-18T17:15:08.866743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Specjalistyczny potok w bibliotece Diffusers przeznaczony dla modeli Flux, umożliwiający generowanie obrazów świadomych kontekstu z poprawioną spójnością czasową lub przestrzenną."
 ---
-
 ## Definition
 
 Ten potok wykorzystuje architekturę Flux, znaną z wysokiej jakości syntezy obrazów, w ramach frameworku Diffusers. Obsługuje mechanizmy kontekstowe, które pozwalają modelowi uwzględniać otaczające elementy.

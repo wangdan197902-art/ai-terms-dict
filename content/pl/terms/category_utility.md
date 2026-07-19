@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /pl/terms/category_utility/
 date: "2026-07-18T15:45:12.998171Z"
 lastmod: "2026-07-18T17:15:08.853072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Użyteczność kategorii to miara matematyczna służąca do oceny skuteczności schematu kategoryzacji na podstawie zysku informacyjnego, jaki dostarcza o wartościach atrybutów."
 ---
-
 ## Definition
 
 Ta metryka kwantyfikuje, jak dobrze zbiór kategorii pozwala przewidywać wartości atrybutów wewnątrz tych kategorii. Bilansuje ona wielkość kategorii z ich jednorodnością, oceniając, czy podział danych przynosi istotną poprawę w precyzji predykcji.

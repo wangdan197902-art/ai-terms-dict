@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /en/terms/vision_based/
 date: "2026-07-18T09:39:43.446880Z"
 lastmod: "2026-07-18T11:44:44.619636Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Systems that primarily rely on visual data inputs to perceive and interact with the world."
 ---
-
 ## Definition
 
 Vision-based paradigms utilize cameras and image processing algorithms to extract meaningful information from visual scenes. These systems are foundational in robotics, autonomous driving, and augmented reality, enabling machines to identify objects, track motion, and understand spatial relationships. By converting pixel data into semantic insights, vision-based AI allows for non-intrusive monitoring and interaction in physical environments.

@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /fr/terms/virtual_intelligence/
 date: "2026-07-18T11:42:21.741451Z"
 lastmod: "2026-07-18T11:44:45.355551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'intelligence virtuelle est un terme large décrivant des systèmes d'IA qui opèrent au sein d'environnements numériques pour simuler des interactions, des prises de décision ou une autonomie de type h"
 ---
-
 ## Definition
 
 L'intelligence virtuelle englobe tout système d'intelligence artificielle conçu pour fonctionner dans un espace virtuel ou numérique, interagissant souvent avec des utilisateurs ou d'autres agents. Cela inclut les assistants virtuels, les personnages non joueurs et les jumeaux numériques.

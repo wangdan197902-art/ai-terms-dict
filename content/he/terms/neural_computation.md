@@ -1,23 +1,23 @@
 ---
-title: "חישוב עצבי"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: חישוב עצבי
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /he/terms/neural_computation/
-date: "2026-07-18T16:14:21.320631Z"
-lastmod: "2026-07-18T17:15:09.568445Z"
+slug: neural_computation
+date: '2026-07-18T16:14:21.320631Z'
+lastmod: '2026-07-18T17:15:09.568445Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך עיבוד המידע בתוך רשתות עצביות מלאכותיות המושפעות מנוירונים ביולוגיים."
+source: agnes_llm
+status: published
+language: he
+description: תהליך עיבוד המידע בתוך רשתות עצביות מלאכותיות המושפעות מנוירונים ביולוגיים.
 ---
-
 ## Definition
 
 חישוב עצבי מתייחס לפעולות המתמטיות שבוצעות על ידי נוירונים מלאכותיים כדי להפוך אותות קלט לתגובות פלט. הוא כולם סכומים משוקללים, פונקציות הפעלה ואלגוריתם ההתאמה לאחור (Backpropagation).

@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /es/terms/sample_complexity/
 date: "2026-07-18T11:07:20.880636Z"
 lastmod: "2026-07-18T11:44:44.852303Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La complejidad de muestra se refiere al número de ejemplos de entrenamiento necesarios para que un algoritmo de aprendizaje automático logre un nivel específico de rendimiento con alta probabilidad."
 ---
-
 ## Definition
 
 En la teoría del aprendizaje computacional, la complejidad de muestra cuantifica la cantidad de datos necesaria para entrenar un modelo de manera efectiva. Equilibra el compromiso entre la capacidad del modelo y la disponibilidad de datos, asegurando una generalización adecuada.

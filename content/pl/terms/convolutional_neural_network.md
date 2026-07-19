@@ -1,23 +1,24 @@
 ---
-title: "Splotowa sieć neuronowa"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Splotowa sieć neuronowa
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /pl/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:51.170150Z"
-lastmod: "2026-07-18T17:15:08.805845Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:51.170150Z'
+lastmod: '2026-07-18T17:15:08.805845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Specjalizowana klasa głębokich sieci neuronowych używana głównie do przetwarzania danych siatkowych, takich jak obrazy, poprzez zastosowanie filtrów splotowych."
+source: agnes_llm
+status: published
+language: pl
+description: Specjalizowana klasa głębokich sieci neuronowych używana głównie do przetwarzania
+  danych siatkowych, takich jak obrazy, poprzez zastosowanie filtrów splotowych.
 ---
-
 ## Definition
 
 Splotowe sieci neuronowe (CNN) zostały zaprojektowane tak, aby automatycznie i adaptacyjnie uczyć się przestrzennych hierarchii cech z danych wizualnych. Wykorzystują one warstwy splotowe, które stosują filtry do wykrywania lokalnych wzorców i cech.

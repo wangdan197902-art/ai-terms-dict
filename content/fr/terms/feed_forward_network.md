@@ -1,23 +1,24 @@
 ---
-title: "Réseau à propagation avant"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Réseau à propagation avant
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /fr/terms/feed_forward_network/
-date: "2026-07-18T11:17:05.500094Z"
-lastmod: "2026-07-18T11:44:45.251256Z"
+slug: feed_forward_network
+date: '2026-07-18T11:17:05.500094Z'
+lastmod: '2026-07-18T11:44:45.251256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une classe de réseau de neurones artificiels où les connexions entre les nœuds ne forment pas de cycles, propageant l'information dans une seule direction."
+source: agnes_llm
+status: published
+language: fr
+description: Une classe de réseau de neurones artificiels où les connexions entre
+  les nœuds ne forment pas de cycles, propageant l'information dans une seule direction.
 ---
-
 ## Definition
 
 Les réseaux à propagation avant (FFN), également connus sous le nom de perceptrons multicouches (MLP), traitent les données séquentiellement à travers des couches de neurones, de l'entrée vers la sortie, sans boucles de rétroaction. Chaque neurone reçoit des entrées pondérées, applique une fonction d'activation et transmet le résultat à la couche suivante.

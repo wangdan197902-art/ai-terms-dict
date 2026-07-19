@@ -1,23 +1,23 @@
 ---
-title: "Dense"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Dense
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /pt/terms/dense/
-date: "2026-07-18T14:57:03.718528Z"
-lastmod: "2026-07-18T15:51:59.482864Z"
+slug: dense
+date: '2026-07-18T14:57:03.718528Z'
+lastmod: '2026-07-18T15:51:59.482864Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma camada ou tensor onde cada elemento está conectado a todos os elementos da camada ou dimensão anterior."
+source: agnes_llm
+status: published
+language: pt
+description: Uma camada ou tensor onde cada elemento está conectado a todos os elementos
+  da camada ou dimensão anterior.
 ---
-
 ## Definition
 
 Em redes neurais, 'dense' refere-se a camadas totalmente conectadas, onde cada neurônio recebe entrada de todos os neurônios da camada precedente. Isso contrasta com as conexões esparsas encontradas em convolucionais ou...

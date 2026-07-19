@@ -1,23 +1,24 @@
 ---
-title: "Epoch"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epoch
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /nl/terms/epoch/
-date: "2026-07-18T15:54:18.101659Z"
-lastmod: "2026-07-18T17:15:08.742521Z"
+slug: epoch
+date: '2026-07-18T15:54:18.101659Z'
+lastmod: '2026-07-18T17:15:08.742521Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Één volledige doorloop van de trainingsdataset door het machine learning-algoritme tijdens het trainen van het model."
+source: agnes_llm
+status: published
+language: nl
+description: Één volledige doorloop van de trainingsdataset door het machine learning-algoritme
+  tijdens het trainen van het model.
 ---
-
 ## Definition
 
 In machine learning vertegenwoordigt een epoch een enkele iteratie over de gehele trainingsdataset. Tijdens elke epoch verwerkt het model alle trainingsvoorbeelden, update het zijn gewichten via backpropagatie en past het de hyperparameters aan om de prestaties te verbeteren.

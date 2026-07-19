@@ -1,23 +1,24 @@
 ---
-title: "Sélection d'instances"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Sélection d'instances
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /fr/terms/instance_selection/
-date: "2026-07-18T11:23:36.203387Z"
-lastmod: "2026-07-18T11:44:45.275422Z"
+slug: instance_selection
+date: '2026-07-18T11:23:36.203387Z'
+lastmod: '2026-07-18T11:44:45.275422Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique de prétraitement qui réduit la taille d'un jeu de données en sélectionnant un sous-ensemble d'instances représentatives."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique de prétraitement qui réduit la taille d'un jeu de données
+  en sélectionnant un sous-ensemble d'instances représentatives.
 ---
-
 ## Definition
 
 La sélection d'instances vise à améliorer l'efficacité computationnelle et les performances du modèle en supprimant les points de données redondants ou bruités. Contrairement à la sélection de caractéristiques, elle opère sur les lignes du jeu de données.

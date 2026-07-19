@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /it/terms/scientific/
 date: "2026-07-18T15:29:11.409865Z"
 lastmod: "2026-07-18T17:15:08.574109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Scientifico nell'IA si riferisce all'applicazione di metodi empirici rigorosi, test di ipotesi e riproducibilità nella ricerca."
 ---
-
 ## Definition
 
 L'approccio scientifico nell'intelligenza artificiale enfatizza lo sviluppo e la validazione basati sull'evidenza. Coinvolge la formulazione di ipotesi sul comportamento del modello, la conduzione di esperimenti controllati e

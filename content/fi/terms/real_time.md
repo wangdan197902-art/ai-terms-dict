@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /fi/terms/real_time/
 date: "2026-07-18T15:34:42.646512Z"
 lastmod: "2026-07-18T17:15:09.366467Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Reaaliaikainen käsitys viittaa järjestelmiin, jotka laskevat ja toimittavat tuloksia tiukkojen, taattujen aikarajojen sisällä välittömästi syötteen vastaanottamisen jälkeen."
 ---
-
 ## Definition
 
 Tekoälyssä reaaliaikaisuus tarkoittaa järjestelmän kykyä käsitellä syötteitä ja tuottaa lähtöjä minimaalisella viiveellä, usein millisekunneissa. Tämä on välttämätöntä sovelluksissa, joissa viive voi aiheuttaa vakavia seurauksia tai heikentää käyttökokemusta merkittävästi, kuten autonomisessa ajossa tai elävissä maksutapahtumissa.

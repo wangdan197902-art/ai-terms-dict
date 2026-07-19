@@ -1,23 +1,24 @@
 ---
-title: "זיהוי שפת אם"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: זיהוי שפת אם
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /he/terms/native_language_identification/
-date: "2026-07-18T16:14:05.190746Z"
-lastmod: "2026-07-18T17:15:09.568145Z"
+slug: native_language_identification
+date: '2026-07-18T16:14:05.190746Z'
+lastmod: '2026-07-18T17:15:09.568145Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך של קביעה אוטומטית של שפת האם של הדובר מתוך דגימות דיבור או טקסט שלו."
+source: agnes_llm
+status: published
+language: he
+description: תהליך של קביעה אוטומטית של שפת האם של הדובר מתוך דגימות דיבור או טקסט
+  שלו.
 ---
-
 ## Definition
 
 זיהוי שפת אם (NLI) הוא תת-תחום בעיבוד שפה טבעית המתמקד בזיהוי השפה הראשונה שנלמדה על ידי דובר. בניגוד לזיהוי שפה כללי, NLI מנתח מאפיינים

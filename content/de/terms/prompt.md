@@ -1,23 +1,24 @@
 ---
-title: "Prompt"
-term_id: "prompt"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "interaction", "generative_ai"]
+title: Prompt
+term_id: prompt
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- interaction
+- Generative AI
 difficulty: 2
 weight: 1
-slug: "prompt"
-aliases:
-  - /de/terms/prompt/
-date: "2026-07-18T10:52:57.913705Z"
-lastmod: "2026-07-18T11:44:44.881280Z"
+slug: prompt
+date: '2026-07-18T10:52:57.913705Z'
+lastmod: '2026-07-18T11:44:44.881280Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Eingabetext oder eine Anweisung, die einem generativen KI-Modell bereitgestellt wird, um eine bestimmte Antwort oder Verhalten auszulösen."
+source: agnes_llm
+status: published
+language: de
+description: Ein Eingabetext oder eine Anweisung, die einem generativen KI-Modell
+  bereitgestellt wird, um eine bestimmte Antwort oder Verhalten auszulösen.
 ---
-
 ## Definition
 
 Ein Prompt dient als primäre Schnittstelle zur Interaktion mit großen Sprachmodellen und anderen generativen KI-Systemen. Er definiert den Kontext, den Tonfall und die Einschränkungen für die Ausgabe des Modells. Effektive Prompts sind entscheidend für die Qualität der Ergebnisse.

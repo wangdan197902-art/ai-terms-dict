@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento Auto-Supervisionato"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Apprendimento Auto-Supervisionato
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /it/terms/self_supervised_learning/
-date: "2026-07-18T15:39:24.472007Z"
-lastmod: "2026-07-18T17:15:08.590010Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:39:24.472007Z'
+lastmod: '2026-07-18T17:15:08.590010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo di addestramento in cui il modello genera le proprie etichette dai dati di input per apprendere rappresentazioni."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo di addestramento in cui il modello genera le proprie etichette
+  dai dati di input per apprendere rappresentazioni.
 ---
-
 ## Definition
 
 L'apprendimento auto-supervisionato è una tecnica in cui l'algoritmo crea segnali di supervisione dai dati non etichettati stessi, tipicamente prevedendo parti mancanti dell'input. Colma il divario tra

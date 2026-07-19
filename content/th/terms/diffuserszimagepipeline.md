@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: กราฟเส้นทางการสร้างภาพ Zimage"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: กราฟเส้นทางการสร้างภาพ Zimage'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /th/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:50:59.204814Z"
-lastmod: "2026-07-18T16:38:07.599941Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:50:59.204814Z'
+lastmod: '2026-07-18T16:38:07.599941Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กราฟเส้นทางการทำงานของ Hugging Face Diffusers แบบพิเศษ ซึ่งมักเกี่ยวข้องกับการเรียนรู้แบบซีโรช็อต (zero-shot) หรือการนำไปใช้ทางสถาปัตยกรรมเฉพาะสำหรับการสร้างภาพ มักเชื่อมโยงกับโมเดลแกน Z หรือโมเดลจากช"
+source: agnes_llm
+status: published
+language: th
+description: กราฟเส้นทางการทำงานของ Hugging Face Diffusers แบบพิเศษ ซึ่งมักเกี่ยวข้องกับการเรียนรู้แบบซีโรช็อต
+  (zero-shot) หรือการนำไปใช้ทางสถาปัตยกรรมเฉพาะสำหรับการสร้างภาพ มักเชื่อมโยงกับโมเดลแกน
+  Z หรือโมเดลจากช
 ---
-
 ## Definition
 
 ในบริบทของระบบนิเวศ Hugging Face Diffusers คำนี้โดยทั่วไปหมายถึงการกำหนดค่าหรือห่อหุ้มกราฟเส้นทางการทำงานที่ออกแบบมาสำหรับงานสร้างภาพเฉพาะเจาะจง ซึ่งอาจใช้ประโยชน์จากวิธีการแบบซีโรช็อต

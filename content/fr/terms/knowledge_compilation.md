@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /fr/terms/knowledge_compilation/
 date: "2026-07-18T11:24:27.542040Z"
 lastmod: "2026-07-18T11:44:45.280736Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La compilation des connaissances est le processus de transformation des représentations des connaissances en formes plus efficaces pour une réponse aux requêtes ou un raisonnement plus rapides."
 ---
-
 ## Definition
 
 La compilation des connaissances fait référence aux techniques d'intelligence artificielle qui convertissent une base de connaissances ou une théorie logique en une représentation différente facilitant des opérations plus rapides telles que la satisfai

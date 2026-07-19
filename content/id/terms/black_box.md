@@ -1,23 +1,24 @@
 ---
-title: "kotak hitam"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: kotak hitam
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /id/terms/black_box/
-date: "2026-07-18T15:31:17.171855Z"
-lastmod: "2026-07-18T16:38:07.407057Z"
+slug: black_box
+date: '2026-07-18T15:31:17.171855Z'
+lastmod: '2026-07-18T16:38:07.407057Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah sistem di mana mekanisme internalnya tersembunyi, dan hanya input serta output yang dapat diamati."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah sistem di mana mekanisme internalnya tersembunyi, dan hanya input
+  serta output yang dapat diamati.
 ---
-
 ## Definition
 
 Dalam AI, model kotak hitam merujuk pada sistem kompleks seperti jaringan saraf dalam di mana logika pengambilan keputusan internalnya tidak transparan dan sulit diinterpretasikan oleh manusia. Meskipun model-model ini sering mencapai...

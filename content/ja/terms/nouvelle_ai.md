@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /ja/terms/nouvelle_ai/
 date: "2026-07-18T11:26:01.529572Z"
 lastmod: "2026-07-18T11:44:45.127439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間の認知アーキテクチャに触発された階層的でモジュール的な推論構造を重視する記号主義AIのアプローチ。"
 ---
-
 ## Definition
 
 ヌーベルAI（Nouvelle AI）は、記号的表現と階層的な処理を組み合わせて使用する人工知能システムのクラスを指します。コネショニズム（接続主義）モデルとは異なり、構造化された推論に焦点を当てています。

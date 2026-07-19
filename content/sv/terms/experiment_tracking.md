@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /sv/terms/experiment_tracking/
 date: "2026-07-18T15:57:12.664260Z"
 lastmod: "2026-07-18T17:15:09.001792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Experimentspårning är den systematiska processen att registrera metadata, metrik och artefakter från maskininlärningsexperiment för att säkerställa reproducerbarhet och underlätta jämförelser."
 ---
-
 ## Definition
 
 Denna praxis innebär att logga hyperparametrar, datamängdsversioner, modellarkitekturer och prestandametrik under träningskörningar. Det gör det möjligt för datavetare att jämföra olika experimentkonfigurationer.

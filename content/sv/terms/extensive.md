@@ -7,8 +7,6 @@ tags: ["scale", "data", "resources"]
 difficulty: 2
 weight: 1
 slug: "extensive"
-aliases:
-  - /sv/terms/extensive/
 date: "2026-07-18T15:25:43.386797Z"
 lastmod: "2026-07-18T17:15:08.941683Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Beskriver AI-datamängder, beräkningar eller utvärderingar som täcker ett stort omfång, volym eller bredd av scenarier."
 ---
-
 ## Definition
 
 Omfattande syftar på skalan och fullständigheten hos AI-operationer, såsom datamängder i stor skala, breda utvärderingssatser eller tunga beräkningsbelastningar. En omfattande datamängd säkerställer att modellen generaliserar väl till nya, okända data.

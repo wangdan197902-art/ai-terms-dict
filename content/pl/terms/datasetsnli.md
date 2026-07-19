@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /pl/terms/datasetsnli/
 date: "2026-07-18T15:49:50.605397Z"
 lastmod: "2026-07-18T17:15:08.863750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Stanford Natural Language Inference Corpus, duży zbiór danych zdań angielskich sparowanych z etykietami wnioskowania tekstowego napisanymi przez ludzi."
 ---
-
 ## Definition
 
 SNLI to zbiór danych referencyjnych zawierający ponad 500 000 oznaczonych par zdań, skategoryzowanych w trzech klasach: entajlment (wnioskowanie), sprzeczność i neutralność. Został stworzony, aby wesprzeć badania nad rozumieniem semantycznym w przetwarzaniu języka naturalnego.

@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /vi/terms/overall/
 date: "2026-07-18T15:27:48.969495Z"
 lastmod: "2026-07-18T16:38:07.691630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Tổng thể đề cập đến hiệu suất, độ chính xác hoặc tác động tích lũy của một hệ thống AI trên tất cả các trường hợp kiểm tra hoặc kịch vận hành."
 ---
-
 ## Definition
 
 Khi đánh giá các mô hình AI, các chỉ số 'tổng thể' cung cấp cái nhìn toàn diện về hiệu suất hệ thống thay vì tập trung vào các thành phần cô lập. Điều này bao gồm độ chính xác tổng thể, độ chính xác trung bình theo từng lớp (mean average precision), hoặc tổng tác động đến hiệu quả kinh doanh.

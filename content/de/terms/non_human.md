@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /de/terms/non_human/
 date: "2026-07-18T11:25:31.558894Z"
 lastmod: "2026-07-18T11:44:44.970487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "In der KI-Ethik und Soziologie bezieht sich 'nicht-menschlich' auf künstliche Entitäten oder Systeme, die Handlungsfähigkeit, Intelligenz oder soziale Präsenz besitzen, aber biologisches Bewusstsein o"
 ---
-
 ## Definition
 
 Dieser Begriff wird häufig in Diskussionen über die Rechte, Verantwortlichkeiten und die soziale Integration von KI-Agenten, Robotern und virtuellen Assistenten verwendet. Er unterstreicht den Unterschied zwischen biologischem Menschen und synthetischen Akteuren.

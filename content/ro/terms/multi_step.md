@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /ro/terms/multi_step/
 date: "2026-07-18T15:33:06.879520Z"
 lastmod: "2026-07-18T17:15:09.609675Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O strategie de rezolvare a problemelor care necesită executarea unei secvențe de operații logice sau calcule pentru a ajunge la o soluție finală."
 ---
-
 ## Definition
 
 Metodele multi-etapă implică descompunerea unei interogări sau sarcini complexe în pași mai mici și executabili. Această abordare este critică în sarcinile de raționament, cum ar fi rezolvarea problemelor matematice sau generarea de cod.

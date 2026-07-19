@@ -1,23 +1,23 @@
 ---
-title: "วิธีเอนโทรปีข้าม (Cross-entropy method)"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: วิธีเอนโทรปีข้าม (Cross-entropy method)
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /th/terms/cross_entropy_method/
-date: "2026-07-18T15:47:18.454415Z"
-lastmod: "2026-07-18T16:38:07.590681Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:47:18.454415Z'
+lastmod: '2026-07-18T16:38:07.590681Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการหาค่าเหมาะที่สุดแบบสุ่มที่ใช้การจำลองมอนติคาร์โลเพื่อปรับปรุงประมาณการความน่าจะเป็นของเหตุการณ์ที่เกิดขึ้นยากอย่างมีขั้นตอน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการหาค่าเหมาะที่สุดแบบสุ่มที่ใช้การจำลองมอนติคาร์โลเพื่อปรับปรุงประมาณการความน่าจะเป็นของเหตุการณ์ที่เกิดขึ้นยากอย่างมีขั้นตอน
 ---
-
 ## Definition
 
 วิธีเอนโทรปีข้าม (CEM) เป็นอัลกอริทึมการหาค่าเหมาะที่สุดอเนกประสงค์ที่มีประสิทธิภาพ ใช้ได้ทั้งกับปัญหาแบบไม่ต่อเนื่องและต่อเนื่อง วิธีการนี้ทำงานโดยการรักษาการแจกแจงความน่าจะเป็นเหนือพื้นที่การค้นหา โดยจะอัปเดตพารามิเตอร์ของการแจกแจงนั้นซ้ำๆ เพื่อมุ่งเน้นไปที่บริเวณที่มีความน่าจะเป็นสูงในการเกิดเหตุการณ์เป้าหมาย

@@ -1,23 +1,25 @@
 ---
-title: "Zero-Shot-Lernen"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Zero-Shot-Lernen
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /de/terms/zero_shot_learning/
-date: "2026-07-18T11:00:31.560963Z"
-lastmod: "2026-07-18T11:44:44.902115Z"
+slug: zero_shot_learning
+date: '2026-07-18T11:00:31.560963Z'
+lastmod: '2026-07-18T11:44:44.902115Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Zero-Shot-Lernen ist eine Technik, bei der ein Modell Aufgaben für Klassen ausführt, die es während des Trainings nie gesehen hat, indem es semantische Assoziationen nutzt."
+source: agnes_llm
+status: published
+language: de
+description: Zero-Shot-Lernen ist eine Technik, bei der ein Modell Aufgaben für Klassen
+  ausführt, die es während des Trainings nie gesehen hat, indem es semantische Assoziationen
+  nutzt.
 ---
-
 ## Definition
 
 Zero-Shot-Lernen ermöglicht es einem Machine-Learning-Modell, Instanzen von Klassen zu klassifizieren, die nicht im Trainingsdatensatz vorhanden waren. Statt auf bespielte Beispiele für jede mögliche Klasse zu vertrauen, nutzt das Modell semantische Beschreibungen.

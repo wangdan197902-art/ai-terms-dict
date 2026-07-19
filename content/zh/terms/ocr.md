@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /zh/terms/ocr/
 date: "2026-07-18T11:28:49.264761Z"
 lastmod: "2026-07-18T11:44:45.538226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "OCR 是一项将扫描纸质文档或图像等不同类型的文档转换为可编辑和可搜索数据的技術。"
 ---
-
 ## Definition
 
 光学字符识别（OCR）利用图像处理与模式识别算法来识别数字图像中的文本。它将打印或手写的字符转换为机器编码的数据，从而实现信息的数字化提取。

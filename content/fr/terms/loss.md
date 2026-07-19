@@ -1,23 +1,23 @@
 ---
-title: "Perte"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Perte
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /fr/terms/loss/
-date: "2026-07-18T10:51:34.837184Z"
-lastmod: "2026-07-18T11:44:45.166277Z"
+slug: loss
+date: '2026-07-18T10:51:34.837184Z'
+lastmod: '2026-07-18T11:44:45.166277Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une valeur numérique qui quantifie l'erreur entre les prédictions d'un modèle et les valeurs cibles réelles."
+source: agnes_llm
+status: published
+language: fr
+description: Une valeur numérique qui quantifie l'erreur entre les prédictions d'un
+  modèle et les valeurs cibles réelles.
 ---
-
 ## Definition
 
 Les fonctions de perte, également appelées fonctions de coût, mesurent la qualité de l'adéquation entre les prédictions d'un modèle d'apprentissage automatique et la vérité terrain pendant l'entraînement. L'objectif de l'algorithme d'optimisation est de minimiser cette

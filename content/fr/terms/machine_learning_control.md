@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /fr/terms/machine_learning_control/
 date: "2026-07-18T11:27:39.653357Z"
 lastmod: "2026-07-18T11:44:45.289067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une approche de la théorie du contrôle où les algorithmes d'apprentissage automatique gèrent de manière adaptative la dynamique du système pour optimiser les performances en temps réel."
 ---
-
 ## Definition
 
 Le contrôle par apprentissage automatique intègre des algorithmes adaptatifs aux systèmes de contrôle traditionnels pour gérer les environnements non linéaires ou incertains. Contrairement aux contrôleurs statiques, ces systèmes apprennent à partir des données opérationnelles et s'ajustent continuellement pour maintenir une performance optimale face aux variations et aux perturbations.

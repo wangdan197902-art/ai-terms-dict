@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /no/terms/misinformation/
 date: "2026-07-18T16:07:03.774859Z"
 lastmod: "2026-07-18T16:38:07.024808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Falsk eller unøyaktig informasjon som spres uavhengig av intensjon om å bedra."
 ---
-
 ## Definition
 
 Desinformasjon refererer til falsk eller villedende informasjon som deles uten den bevisste hensikten å forårsake skade eller bedra. Det skiller seg fra misinformasjon (disinformation), som er bevisst fabricert. I AI-sammenheng

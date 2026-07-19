@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /ro/terms/multilingual/
 date: "2026-07-18T16:12:50.265064Z"
 lastmod: "2026-07-18T17:15:09.684169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În AI, termenul multilingv se referă la modelele capabile să proceseze, să înțeleagă sau să genereze conținut în mai multe limbi naturale."
 ---
-
 ## Definition
 
 Modelele multilingve sunt concepute pentru a gestiona intrări lingvistice diverse fără a necesita modele separate pentru fiecare limbă. Aceste sisteme utilizează de obicei încorporări partajate sau aliniere interculturală p

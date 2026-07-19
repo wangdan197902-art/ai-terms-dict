@@ -1,23 +1,24 @@
 ---
-title: "Huấn luyện phân tán"
-term_id: "distributed_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["performance", "infrastructure", "optimization"]
+title: Huấn luyện phân tán
+term_id: distributed_training
+category: training_techniques
+subcategory: ''
+tags:
+- performance
+- infrastructure
+- Optimization
 difficulty: 4
 weight: 1
-slug: "distributed_training"
-aliases:
-  - /vi/terms/distributed_training/
-date: "2026-07-18T15:34:18.102917Z"
-lastmod: "2026-07-18T16:38:07.708023Z"
+slug: distributed_training
+date: '2026-07-18T15:34:18.102917Z'
+lastmod: '2026-07-18T16:38:07.708023Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp huấn luyện các mô hình học máy bằng cách chia nhỏ dữ liệu hoặc tính toán trên nhiều thiết bị hoặc máy chủ."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp huấn luyện các mô hình học máy bằng cách chia nhỏ dữ
+  liệu hoặc tính toán trên nhiều thiết bị hoặc máy chủ.
 ---
-
 ## Definition
 
 Huấn luyện phân tán tăng tốc quá trình hội tụ của mô hình bằng cách song song hóa tính toán trên nhiều GPU hoặc nút. Các kỹ thuật bao gồm song song hóa dữ liệu, nơi mỗi worker xử lý một tập con dữ liệu, và song song hóa mô hình, nơi các phần khác nhau của mô hình được phân bổ trên các thiết bị khác nhau.

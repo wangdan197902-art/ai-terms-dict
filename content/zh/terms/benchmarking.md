@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /zh/terms/benchmarking/
 date: "2026-07-18T10:49:30.666502Z"
 lastmod: "2026-07-18T11:44:45.363181Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "系统地使用基准测试AI模型，以量化其性能并确定改进领域的过程。"
 ---
-
 ## Definition
 
 基准测试是通过实验来测量AI模型在特定任务上使用预定义基准的表现程度的主动实践。该过程涉及让模型通过标准的测试流程。

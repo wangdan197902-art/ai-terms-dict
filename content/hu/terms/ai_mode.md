@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /hu/terms/ai_mode/
 date: "2026-07-18T15:40:37.432428Z"
 lastmod: "2026-07-18T17:15:09.747600Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Szoftverfelületeken működő funkcionális állapot, ahol a mesterséges intelligencia aktívan segít vagy automatizál feladatokat."
 ---
-
 ## Definition
 
 Az AI mód egy digitális platformokon vagy alkalmazásokon belüli specifikus üzemi állapotra utal, ahol az AI-képességeket aktiválják a felhasználói interakció javítása érdekében. Ez a mód általában lehetővé teszi olyan funkciókat, mint a természetes nyelvi feldolgozás alapú...

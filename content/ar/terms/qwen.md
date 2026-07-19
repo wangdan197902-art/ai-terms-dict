@@ -1,23 +1,24 @@
 ---
-title: "كوين (Qwen)"
-term_id: "qwen"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model-family", "alibaba", "nlp"]
+title: كوين (Qwen)
+term_id: qwen
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Family
+- alibaba
+- NLP
 difficulty: 2
 weight: 1
-slug: "qwen"
-aliases:
-  - /ar/terms/qwen/
-date: "2026-07-18T16:18:22.125698Z"
-lastmod: "2026-07-18T17:15:08.541588Z"
+slug: qwen
+date: '2026-07-18T16:18:22.125698Z'
+lastmod: '2026-07-18T17:15:08.541588Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كوين هو سلسلة من نماذج اللغة الكبيرة التي طورها مختبر تونغ يي التابع لمجموعة علي بابا."
+source: agnes_llm
+status: published
+language: ar
+description: كوين هو سلسلة من نماذج اللغة الكبيرة التي طورها مختبر تونغ يي التابع
+  لمجموعة علي بابا.
 ---
-
 ## Definition
 
 يمثل كوين عائلة من نماذج اللغة الكبيرة المتقدمة التي أنشأها مختبر تونغ يي التابع لمجموعة علي بابا. ويشمل ذلك إصدارات مختلفة مُحسّنة لمهام متنوعة، بما في ذلك فهم اللغة الطبيعية.

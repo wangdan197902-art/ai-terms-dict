@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /ja/terms/ai_alignment/
 date: "2026-07-18T11:02:10.055039Z"
 lastmod: "2026-07-18T11:44:45.060535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIシステムが人間の価値観や意図に沿って振る舞うことを確保することに焦点を当てた研究分野。"
 ---
-
 ## Definition
 
 AIアライメントは、AIシステムが文字通りに指定されたことではなく、ユーザーが意図したとおりに堅牢に機能するようにする課題に対処します。これには、AIの安全性と人間への適合性を確保するための技術的手法が含まれます。

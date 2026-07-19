@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /id/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:49:34.400538Z"
 lastmod: "2026-07-18T16:38:07.455305Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konsekuensi ekologis dari pengembangan, pelatihan, dan penyebaran model AI, termasuk konsumsi energi dan emisi karbon."
 ---
-
 ## Definition
 
 Istilah ini merujuk pada persyaratan sumber daya yang signifikan terkait teknologi AI, khususnya selama fase pelatihan model besar. Hal ini mencakup penggunaan listrik untuk pusat data, serta jejak karbon yang dihasilkan oleh infrastruktur komputasi intensif tersebut.

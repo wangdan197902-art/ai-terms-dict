@@ -1,23 +1,25 @@
 ---
-title: "Uczenie żarłoczne"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Uczenie żarłoczne
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /pl/terms/eager_learning/
-date: "2026-07-18T15:52:56.855777Z"
-lastmod: "2026-07-18T17:15:08.868932Z"
+slug: eager_learning
+date: '2026-07-18T15:52:56.855777Z'
+lastmod: '2026-07-18T17:15:08.868932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Uczenie żarłoczne to podejście w uczeniu maszynowym, w którym funkcja uogólniająca jest uczona podczas fazy treningowej, co pozwala na szybki czas predykcji po zakończeniu szkolenia."
+source: agnes_llm
+status: published
+language: pl
+description: Uczenie żarłoczne to podejście w uczeniu maszynowym, w którym funkcja
+  uogólniająca jest uczona podczas fazy treningowej, co pozwala na szybki czas predykcji
+  po zakończeniu szkolenia.
 ---
-
 ## Definition
 
 W uczeniu żarłocznym system konstruuje ogólną funkcję celu lub model na podstawie danych treningowych przed napotkaniem nowych instancji. Stanowi to kontrast dla uczenia leniwego (lazy learning), które odkłada proces uogólniania do momentu zapytania o predykcję.

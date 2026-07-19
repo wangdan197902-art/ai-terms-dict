@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /cs/terms/transformers/
 date: "2026-07-18T15:30:50.714588Z"
 lastmod: "2026-07-18T17:15:09.080855Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "V tomto kontextu odkazuje na knihovnu Hugging Face Transformers, populární open-source nástroj pro nejmodernější modely NLP a multimodální modely."
 ---
-
 ## Definition
 
 Termín 'Transformers' často označuje široce používanou Python knihovnu spravovanou společností Hugging Face. Poskytuje snadno použitelné rozhraní pro stahování, trénování a nasazování předtrénovaných modelů založených

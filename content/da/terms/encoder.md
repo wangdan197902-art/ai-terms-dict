@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /da/terms/encoder/
 date: "2026-07-18T15:34:56.413745Z"
 lastmod: "2026-07-18T17:15:09.243997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En encoder er en komponent i et neuralt netværk, der transformerer inputdata til en komprimeret, meningsfuld repræsentation."
 ---
-
 ## Definition
 
 Encoders behandler rå inputsekvenser eller datastrukturer og konverterer dem til latent rum-repræsentationer, ofte kaldet embeddings eller koder. De er centrale i arkitekturer som Transformers og Autoencoders, hvor de tjener til at fange de vigtigste træk ved dataene.

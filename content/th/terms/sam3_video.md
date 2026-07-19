@@ -1,23 +1,24 @@
 ---
-title: "Sam3 Video"
-term_id: "sam3_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video_processing", "segmentation", "computer_vision"]
+title: Sam3 Video
+term_id: sam3_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Processing
+- segmentation
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "sam3_video"
-aliases:
-  - /th/terms/sam3_video/
-date: "2026-07-18T16:14:21.864464Z"
-lastmod: "2026-07-18T16:38:07.652076Z"
+slug: sam3_video
+date: '2026-07-18T16:14:21.864464Z'
+lastmod: '2026-07-18T16:38:07.652076Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คำนี้มักหมายถึงความสามารถในการแบ่งส่วนวิดีโอที่เกี่ยวข้องกับรุ่นที่สามหรือรูปแบบเฉพาะของ Segment Anything Model ที่นำไปใช้กับสตรีมวิดีโอ"
+source: agnes_llm
+status: published
+language: th
+description: คำนี้มักหมายถึงความสามารถในการแบ่งส่วนวิดีโอที่เกี่ยวข้องกับรุ่นที่สามหรือรูปแบบเฉพาะของ
+  Segment Anything Model ที่นำไปใช้กับสตรีมวิดีโอ
 ---
-
 ## Definition
 
 Sam3 Video หมายถึงการนำโมเดลแบ่งส่วนขั้นสูง (ซึ่งอาจเป็นเวอร์ชันสมมติหรือเวอร์ชันเฉพาะของ Meta's Segment Anything Model) มาใช้กับข้อมูลวิดีโอ เกี่ยวข้องกับการติดตามวัตถุข้าม...

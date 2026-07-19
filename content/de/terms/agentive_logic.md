@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /de/terms/agentive_logic/
 date: "2026-07-18T11:02:10.847744Z"
 lastmod: "2026-07-18T11:44:44.907509Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Agentive Logik bezeichnet formale Reasoning-Frameworks, die verwendet werden, um die Absichten, Ziele und Entscheidungsprozesse autonomer Agenten zu modellieren."
 ---
-
 ## Definition
 
 Sie erweitert die traditionelle Logik, um Agency (Handlungsmacht) zu berücksichtigen, und ermöglicht es Systemen, Überzeugungen, Wünsche und Absichten (BDI-Modelle) darzustellen. Diese Logik ermöglicht es Agenten, Aktionen dynamisch basierend auf sich ändernden Bedingungen zu planen.

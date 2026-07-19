@@ -1,23 +1,23 @@
 ---
-title: "Syntetický"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Syntetický
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /cs/terms/synthetic/
-date: "2026-07-18T15:30:22.571169Z"
-lastmod: "2026-07-18T17:15:09.079388Z"
+slug: synthetic
+date: '2026-07-18T15:30:22.571169Z'
+lastmod: '2026-07-18T17:15:09.079388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Syntetický se vztahuje k datům nebo obsahu uměle generovaným algoritmy, nikoliv shromážděným z přirozených zdrojů."
+source: agnes_llm
+status: published
+language: cs
+description: Syntetický se vztahuje k datům nebo obsahu uměle generovaným algoritmy,
+  nikoliv shromážděným z přirozených zdrojů.
 ---
-
 ## Definition
 
 V AI se syntetická data označují za uměle generované informace, které napodobují reálná data, ale neobsahují žádná skutečná osobní nebo citlivá záznamy. Jsou klíčová pro trénování modelů strojového učení, když...

@@ -1,23 +1,24 @@
 ---
-title: "סרגול תכונות"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: סרגול תכונות
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /he/terms/feature_scaling/
-date: "2026-07-18T15:57:27.420493Z"
-lastmod: "2026-07-18T17:15:09.540385Z"
+slug: feature_scaling
+date: '2026-07-18T15:57:27.420493Z'
+lastmod: '2026-07-18T17:15:09.540385Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תהליך נרמילת טווח המשתנים הבלתי תלויים או התכונות בנתונים כדי להבטיח אחידות בגודלן."
+source: agnes_llm
+status: published
+language: he
+description: תהליך נרמילת טווח המשתנים הבלתי תלויים או התכונות בנתונים כדי להבטיח
+  אחידות בגודלן.
 ---
-
 ## Definition
 
 סרגול תכונות מייצב את הטווח של משתני הקלט כדי למנוע מתכונות בעלות ערכים גדולים יותר לדומיננטיות בתהליך הלמידה. שיטות נפוצות כוללות נרמול (סקאלת מינימום-מקסימום) וסטנדרטיזציה (המרה לציוני Z), אשר מבטיחות שהאלגוריתם יתייחס לכל תכונה ביחס שווה, ובכך משפר את יציבות ומהירות ההתכנסות של מודלים רבים.

@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /no/terms/ai_browser/
 date: "2026-07-18T15:39:56.188291Z"
 lastmod: "2026-07-18T16:38:06.965726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En nettleser integrert med AI-funksjonalitet for å hjelpe med søk, sammendrag og innholdsanalyse."
 ---
-
 ## Definition
 
 En AI-nettleser er en applikasjon for surfing på nettet som inkluderer kunstige intelligensfunksjoner direkte i brukergrensesnittet. Disse funksjonene inkluderer typisk naturlig språkbasert søk, automatisk innholdssammendrag, oversetting og interaktiv dialog for å forbedre informasjonsinntak.

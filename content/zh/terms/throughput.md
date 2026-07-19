@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /zh/terms/throughput/
 date: "2026-07-18T11:36:49.925212Z"
 lastmod: "2026-07-18T11:44:45.563958Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "吞吐量衡量人工智能系统在给定时间范围内成功处理的数据量或请求数量。"
 ---
-
 ## Definition
 
 在人工智能工程中，吞吐量是一个关键的性能指标，用于指示系统容量。对于大语言模型（LLMs），它通常以每秒令牌数（tokens per second）来衡量；对于计算机视觉模型，则以每秒图像数来衡量；对于查询处理，则可能以每秒查询数来表示。高吞吐量意味着系统能够高效地处理大量并发任务。

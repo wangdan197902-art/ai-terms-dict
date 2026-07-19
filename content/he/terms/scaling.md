@@ -1,23 +1,23 @@
 ---
-title: "התאמה לגודל (Scaling)"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: התאמה לגודל (Scaling)
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /he/terms/scaling/
-date: "2026-07-18T15:30:14.719387Z"
-lastmod: "2026-07-18T17:15:09.486837Z"
+slug: scaling
+date: '2026-07-18T15:30:14.719387Z'
+lastmod: '2026-07-18T17:15:09.486837Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התאמה לגודל היא תהליך התאמת גודל המודל או נפח הנתונים כדי לשפר יכולות למידה וביצועים."
+source: agnes_llm
+status: published
+language: he
+description: התאמה לגודל היא תהליך התאמת גודל המודל או נפח הנתונים כדי לשפר יכולות
+  למידה וביצועים.
 ---
-
 ## Definition
 
 התאמה לגודל היא המתודולוגיה הפעילה של הרחבת מערכות בינה מלאכותית על ידי הוספת שכבות, נוירונים או דוגמאות אימון נוספות. היא כוללת טכניקות כמו אימון מפוזר על גבי כרטיסי GPU מרובים כדי להתמודד עם העלייה במורכבות ובנפח הנתונים.

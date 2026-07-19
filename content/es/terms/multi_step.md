@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /es/terms/multi_step/
 date: "2026-07-18T10:28:41.323355Z"
 lastmod: "2026-07-18T11:44:44.757670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una estrategia de resolución de problemas que requiere realizar una secuencia de operaciones lógicas o cálculos para llegar a una solución final."
 ---
-
 ## Definition
 
 Los métodos multipaso implican descomponer una consulta o tarea compleja en pasos más pequeños y ejecutables. Este enfoque es crítico en tareas de razonamiento, como la resolución de problemas matemáticos o la generación de código.

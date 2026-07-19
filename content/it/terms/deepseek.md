@@ -1,23 +1,25 @@
 ---
-title: "DeepSeek"
-term_id: "deepseek"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "coding"]
+title: DeepSeek
+term_id: deepseek
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- coding
 difficulty: 2
 weight: 1
-slug: "deepseek"
-aliases:
-  - /it/terms/deepseek/
-date: "2026-07-18T15:56:03.983760Z"
-lastmod: "2026-07-18T17:15:08.617619Z"
+slug: deepseek
+date: '2026-07-18T15:56:03.983760Z'
+lastmod: '2026-07-18T17:15:08.617619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "DeepSeek è una serie di modelli linguistici di grandi dimensioni sviluppati da DeepSeek, noti per la loro elevata efficienza, forti capacità di codifica e disponibilità con pesi aperti."
+source: agnes_llm
+status: published
+language: it
+description: DeepSeek è una serie di modelli linguistici di grandi dimensioni sviluppati
+  da DeepSeek, noti per la loro elevata efficienza, forti capacità di codifica e disponibilità
+  con pesi aperti.
 ---
-
 ## Definition
 
 DeepSeek si riferisce a una famiglia di modelli di intelligenza artificiale creati dall'azienda DeepSeek. Questi modelli sono progettati per gestire compiti complessi di elaborazione del linguaggio naturale, inclusa la generazione di codice,

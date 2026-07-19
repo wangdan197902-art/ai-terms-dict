@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /ja/terms/llama_3/
 date: "2026-07-18T11:22:12.133438Z"
 lastmod: "2026-07-18T11:44:45.116921Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Llama 3は、Metaが2024年にリリースした高度な大規模言語モデルであり、80億および700億パラメータのサイズにおいて、推論、コーディング、多言語能力を大幅に向上させています。"
 ---
-
 ## Definition
 
 2024年4月に導入されたLlama 3は、Llama 2の成功に基づき、パフォーマンスと能力において大幅な強化をもたらしました。このモデルファミリーには、80億パラメータ版と700億パラメータ版が含まれています。

@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /ja/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T11:04:27.071316Z"
 lastmod: "2026-07-18T11:44:45.068970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIが精神的な導き、瞑想の支援、または哲学的な問いの探求に使用される、新たな交差点。"
 ---
-
 ## Definition
 
 スピリチュアリティにおけるAIとは、宗教的または観想的な文脈において人工知能を応用することを指します。これには、道徳的な助言を提供するチャットボット、瞑想用に生成されたAIアート、あるいは神学的テキストの分析などが含まれます。

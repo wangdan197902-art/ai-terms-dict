@@ -1,23 +1,24 @@
 ---
-title: "Kolmogorov-Arnold-Netze"
-term_id: "kolmogorovarnold_networks"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_architecture", "math_theory", "emerging_tech"]
+title: Kolmogorov-Arnold-Netze
+term_id: kolmogorovarnold_networks
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Architecture
+- Math Theory
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "kolmogorovarnold_networks"
-aliases:
-  - /de/terms/kolmogorovarnold_networks/
-date: "2026-07-18T11:20:52.425718Z"
-lastmod: "2026-07-18T11:44:44.955822Z"
+slug: kolmogorovarnold_networks
+date: '2026-07-18T11:20:52.425718Z'
+lastmod: '2026-07-18T11:44:44.955822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Neuronale Netzwerkarchitekturen, die auf dem Darstellungssatz von Kolmogorov-Arnold basieren und eine Alternative zu mehrschichtigen Perzeptronen bieten."
+source: agnes_llm
+status: published
+language: de
+description: Neuronale Netzwerkarchitekturen, die auf dem Darstellungssatz von Kolmogorov-Arnold
+  basieren und eine Alternative zu mehrschichtigen Perzeptronen bieten.
 ---
-
 ## Definition
 
 Kolmogorov-Arnold-Netze (KANs) sind eine neuartige Klasse neuronaler Netze, die vom Darstellungssatz von Kolmogorov-Arnold inspiriert sind. Dieser besagt, dass jede multivariate stetige Funktion dargestellt werden kann...

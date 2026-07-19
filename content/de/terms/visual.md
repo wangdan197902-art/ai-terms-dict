@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /de/terms/visual/
 date: "2026-07-18T10:54:59.289503Z"
 lastmod: "2026-07-18T11:44:44.887015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Sehen oder Bilder betreffend; bezieht sich oft auf Computer-Vision-Aufgaben, die visuelle Daten wie Bilder und Videos verarbeiten und interpretieren."
 ---
-
 ## Definition
 
 Der Begriff 'visual' bezieht sich in der KI primär auf Computer Vision, das Feld, das sich der Ermöglichung von Maschinen widmet, sinnvolle Informationen aus digitalen Bildern, Videos und anderen visuellen Eingaben abzuleiten. Es umfasst die Verarbeitung von Pixeldaten.

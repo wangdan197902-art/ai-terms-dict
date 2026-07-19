@@ -1,23 +1,24 @@
 ---
-title: "Algoritma aktor-kritik"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Algoritma aktor-kritik
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /id/terms/actor_critic_algorithm/
-date: "2026-07-18T15:38:03.226213Z"
-lastmod: "2026-07-18T16:38:07.425345Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:38:03.226213Z'
+lastmod: '2026-07-18T16:38:07.425345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kerangka pembelajaran penguatan yang menggabungkan metode berbasis nilai dan berbasis kebijakan menggunakan dua jaringan saraf: aktor dan kritik."
+source: agnes_llm
+status: published
+language: id
+description: 'Kerangka pembelajaran penguatan yang menggabungkan metode berbasis nilai
+  dan berbasis kebijakan menggunakan dua jaringan saraf: aktor dan kritik.'
 ---
-
 ## Definition
 
 Algoritma aktor-kritik menggunakan dua komponen: aktor, yang memperbarui kebijakan untuk memilih aksi, dan kritik, yang mengevaluasi kualitas aksi tersebut dengan memperkirakan fungsi nilai.

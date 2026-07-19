@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /nl/terms/encoder/
 date: "2026-07-18T15:35:52.087378Z"
 lastmod: "2026-07-18T17:15:08.704196Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een encoder is een onderdeel van een neurale netwerk dat invoergegevens omzet in een gecomprimeerde, betekenisvolle representatie."
 ---
-
 ## Definition
 
 Encoders verwerken ruwe invoersequenties of gegevensstructuren en zetten deze om in representaties in de latente ruimte, vaak embeddings of codes genoemd. Ze zijn centraal in architecturen zoals Transformers en Auto...

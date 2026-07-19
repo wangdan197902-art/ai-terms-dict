@@ -1,23 +1,25 @@
 ---
-title: "Lottójegy hipotézis"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: Lottójegy hipotézis
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /hu/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:11:05.684428Z"
-lastmod: "2026-07-18T17:15:09.805027Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:11:05.684428Z'
+lastmod: '2026-07-18T17:15:09.805027Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az az elmélet, miszerint a sűrű neurális hálózatok kisebb alhálózatokat tartalmaznak, amelyek izoláltan, az inicializációtól kezdve betanítva képesek megközelíteni az eredeti hálózat pontosságát."
+source: agnes_llm
+status: published
+language: hu
+description: Az az elmélet, miszerint a sűrű neurális hálózatok kisebb alhálózatokat
+  tartalmaznak, amelyek izoláltan, az inicializációtól kezdve betanítva képesek megközelíteni
+  az eredeti hálózat pontosságát.
 ---
-
 ## Definition
 
 A Lottójegy Hipotézis szerint egy nagy, véletlenszerűen inicializált neurális hálózatban létezik egy ritka alhálózat (az úgynevezett 'nyertes jegy'), amely jól inicializált a tanítás szempontjából. A pruni

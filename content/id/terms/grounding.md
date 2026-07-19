@@ -7,8 +7,6 @@ tags: ["techniques", "accuracy", "integration"]
 difficulty: 3
 weight: 1
 slug: "grounding"
-aliases:
-  - /id/terms/grounding/
 date: "2026-07-18T15:53:57.794515Z"
 lastmod: "2026-07-18T16:38:07.465140Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses menghubungkan output abstrak AI ke fakta dunia nyata, sumber data, atau konteks fisik untuk memastikan akurasi dan relevansi."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, grounding merujuk pada penghubungan representasi simbolik atau teks yang dihasilkan ke entitas, data, atau pengalaman sensorik dunia nyata yang konkret. Untuk model bahasa, ini sering melibatkan Generasi yang Diperkuat Retrieval (RAG) untuk memverifikasi klaim terhadap basis pengetahuan eksternal, sehingga mengurangi halusinasi dan meningkatkan keandalan informasi.

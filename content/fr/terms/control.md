@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /fr/terms/control/
 date: "2026-07-18T10:49:29.472315Z"
 lastmod: "2026-07-18T11:44:45.160399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le processus de gestion, d'orientation ou de régulation du comportement et de l'état d'un système afin d'atteindre des résultats souhaités."
 ---
-
 ## Definition
 
 En intelligence artificielle, le contrôle désigne les mécanismes et algorithmes utilisés pour guider les actions d'un système en fonction de ses états actuels et de ses objectifs. Il implique des boucles de rétroaction où la sortie est surveillée et ajustée en continu pour maintenir la stabilité ou atteindre une cible spécifique.

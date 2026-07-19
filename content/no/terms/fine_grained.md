@@ -1,23 +1,24 @@
 ---
-title: "finmasket"
-term_id: "fine_grained"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "classification", "analysis"]
+title: finmasket
+term_id: fine_grained
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Classification
+- analysis
 difficulty: 3
 weight: 1
-slug: "fine_grained"
-aliases:
-  - /no/terms/fine_grained/
-date: "2026-07-18T15:33:14.858872Z"
-lastmod: "2026-07-18T16:38:06.951836Z"
+slug: fine_grained
+date: '2026-07-18T15:33:14.858872Z'
+lastmod: '2026-07-18T16:38:06.951836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Beskriver analyser eller klassifiseringsoppgaver som krever å skille mellom subtil forskjeller innenfor en bred kategori."
+source: agnes_llm
+status: published
+language: 'no'
+description: Beskriver analyser eller klassifiseringsoppgaver som krever å skille
+  mellom subtil forskjeller innenfor en bred kategori.
 ---
-
 ## Definition
 
 Finmasket analyse innebærer å identifisere og kategorisere objekter eller konsepter på et underklassenivå i stedet for bare hovedklassen. For eksempel å skille mellom spesifikke hunderaser eller typer av blomster, noe som krever at modellen fanger opp detaljerte visuelle trekk.

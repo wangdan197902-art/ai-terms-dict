@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /sv/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:47:25.994095Z"
 lastmod: "2026-07-18T17:15:08.980176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inlärningsparadigmen som behandlar modellparametrar som slumpvariabler med sannolikhetsfördelningar snarare än fasta värden."
 ---
-
 ## Definition
 
 Bayesianska inlärningsmekanismer uppdaterar övertygelser om modellparametrar med hjälp av Bayes sats, genom att kombinera tidigare kunskap med observerad data för att bilda en posteriorfördelning. Till skillnad från frekventistiska metoder

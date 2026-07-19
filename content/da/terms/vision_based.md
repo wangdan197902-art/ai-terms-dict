@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /da/terms/vision_based/
 date: "2026-07-18T15:33:23.344126Z"
 lastmod: "2026-07-18T17:15:09.241587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Systemer, der primært stole på visuelle datainput til at opfatte og interagere med verden."
 ---
-
 ## Definition
 
 Visionsbaserede paradigmer bruger kameraer og algoritmer til billedbehandling til at udtrække meningsfuld information fra visuelle scener. Disse systemer er fundamentale inden for robotik, autonom kørsel og augmented reality, da de muliggør forståelse af rumlige relationer og objektidentifikation.

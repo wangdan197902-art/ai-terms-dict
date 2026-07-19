@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /tr/terms/transparency/
 date: "2026-07-18T15:37:44.533116Z"
 lastmod: "2026-07-18T16:38:07.265119Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka sisteminin karar verme süreçlerinin, veri kaynaklarının ve sınırlamalarının kullanıcılar için ne ölçüde açık ve anlaşılır olduğunu ifade eder."
 ---
-
 ## Definition
 
 Şeffaflık, paydaşların bir yapay zeka modelinin çıktılara nasıl ulaştığını anlamasını sağlayarak güven ve hesap verebilirliği teşvik eder. Eğitim veri kökenlerini, model mimarilerini ve diğer ilgili detayları açıklamayı içerir.

@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /id/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:48:41.014853Z"
 lastmod: "2026-07-18T16:38:07.452477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja formal untuk bernalar tentang perubahan keadaan pengetahuan agen akibat pembaruan informasi atau peristiwa."
 ---
-
 ## Definition
 
 Logika Epistemik Dinamis (DEL) memperluas logika modal untuk memodelkan bagaimana pengetahuan berevolusi ketika agen menerima informasi baru. Logika ini menyediakan alat untuk menganalisis sistem multi-agen di mana keyakinan berubah karena publikasi informasi...

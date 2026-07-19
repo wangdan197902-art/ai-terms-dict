@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /da/terms/analysis/
 date: "2026-07-18T15:23:11.981092Z"
 lastmod: "2026-07-18T17:15:09.219146Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Processen med at undersøge data eller modeloutput for at udtrække meningsfulde indsigter og mønstre."
 ---
-
 ## Definition
 
 I konteksten af AI refererer analyse til den systematiske undersøgelse af data, modelforudsigelser eller systemadfærd for at forstå underliggende mønstre, diagnosticere problemer eller udlede handlingsdygtige indsigter.

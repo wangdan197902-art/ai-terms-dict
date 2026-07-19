@@ -7,8 +7,6 @@ tags: ["business", "automation", "integration"]
 difficulty: 3
 weight: 1
 slug: "intelligent_automation"
-aliases:
-  - /ar/terms/intelligent_automation/
 date: "2026-07-18T16:03:37.503029Z"
 lastmod: "2026-07-18T17:15:08.516927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "دمج الذكاء الاصطناعي مع الأتمتة الروبوتية للعمليات للتعامل مع العمليات التجارية المعقدة وغير المهيكلة."
 ---
-
 ## Definition
 
 تدمج الأتمتة الذكية الأتمتة الروبوتية التقليدية للعمليات (RPA) مع تقنيات الذكاء الاصطناعي المتقدمة مثل التعلم الآلي ومعالجة اللغة الطبيعية. بينما تتعامل AOP مع العمليات القائمة على القواعد والمهيكل...

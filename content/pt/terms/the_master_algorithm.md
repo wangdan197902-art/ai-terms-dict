@@ -1,23 +1,24 @@
 ---
-title: "The Master Algorithm"
-term_id: "the_master_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "literature"]
+title: The Master Algorithm
+term_id: the_master_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- literature
 difficulty: 4
 weight: 1
-slug: "the_master_algorithm"
-aliases:
-  - /pt/terms/the_master_algorithm/
-date: "2026-07-18T15:24:49.533392Z"
-lastmod: "2026-07-18T15:51:59.538868Z"
+slug: the_master_algorithm
+date: '2026-07-18T15:24:49.533392Z'
+lastmod: '2026-07-18T15:51:59.538868Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O Algoritmo Mestre refere-se a um hipotético algoritmo de aprendizado universal capaz de derivar todo o conhecimento a partir de dados."
+source: agnes_llm
+status: published
+language: pt
+description: O Algoritmo Mestre refere-se a um hipotético algoritmo de aprendizado
+  universal capaz de derivar todo o conhecimento a partir de dados.
 ---
-
 ## Definition
 
 Cunhado por Pedro Domingos em seu livro de mesmo nome, o 'Algoritmo Mestre' descreve um framework teórico unificado para aprendizado de máquina que poderia replicar todos os processos de aprendizado humano. Ele prevê

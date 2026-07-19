@@ -1,23 +1,24 @@
 ---
-title: "Kostnadsmedveten maskininlärning"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Kostnadsmedveten maskininlärning
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /sv/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:50:48.636461Z"
-lastmod: "2026-07-18T17:15:08.988234Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:50:48.636461Z'
+lastmod: '2026-07-18T17:15:08.988234Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En paradigm inom maskininlärning som integrerar kostnader för felklassificering i träningsprocessen för att optimera ekonomisk påverkan snarare än endast noggrannhet."
+source: agnes_llm
+status: published
+language: sv
+description: En paradigm inom maskininlärning som integrerar kostnader för felklassificering
+  i träningsprocessen för att optimera ekonomisk påverkan snarare än endast noggrannhet.
 ---
-
 ## Definition
 
 Kostnadsmedveten maskininlärning utökar traditionell övervakad inlärning genom att tilldela olika straff för olika typer av fel. I verkliga scenarier leder falska positiva och falska negativa ofta till

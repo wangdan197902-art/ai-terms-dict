@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /pl/terms/multi_stage/
 date: "2026-07-18T15:32:22.910859Z"
 lastmod: "2026-07-18T17:15:08.827034Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Projekt procesu dzielący złożone zadanie na wyraźne, sekwencyjne fazy, z których każda ma określone cele i wyniki."
 ---
-
 ## Definition
 
 Podejścia wieloetapowe rozkładają skomplikowane przepływy pracy na zarządzalne segmenty, umożliwiając specjalistyczne przetwarzanie na każdym etapie. Metoda ta zwiększa kontrolę, ułatwia debugowanie i optymalizację wydajności.

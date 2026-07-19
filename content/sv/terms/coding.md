@@ -7,8 +7,6 @@ tags: ["Fundamentals", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "coding"
-aliases:
-  - /sv/terms/coding/
 date: "2026-07-18T15:49:08.531739Z"
 lastmod: "2026-07-18T17:15:08.984664Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Programmering är processen att skriva instruktioner för datorer med hjälp av programmeringsspråk för att skapa mjukvara, applikationer eller skript."
 ---
-
 ## Definition
 
 Programmering, även känt som kodning, innebär att översätta mänsklig logik och krav till ett format som datorer kan exekvera. Det använder specifik syntax och semantik definierade av programmeringsspråk li

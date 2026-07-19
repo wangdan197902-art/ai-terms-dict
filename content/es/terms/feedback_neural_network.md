@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /es/terms/feedback_neural_network/
 date: "2026-07-18T10:49:31.290316Z"
 lastmod: "2026-07-18T11:44:44.806965Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Una arquitectura de red neuronal donde las conexiones forman ciclos dirigidos, permitiendo que la información persista a lo largo del tiempo."
 ---
-
 ## Definition
 
 Las redes neuronales con retroalimentación, también conocidas como redes neuronales recurrentes (RNN), contienen bucles que permiten que las señales se propaguen hacia capas anteriores. Esta recurrencia permite que la red mantenga un estado interno

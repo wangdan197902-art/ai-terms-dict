@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /id/terms/humanai_interaction/
 date: "2026-07-18T15:54:53.304444Z"
 lastmod: "2026-07-18T16:38:07.467784Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Studi dan praktik mengenai bagaimana manusia berkomunikasi, mengendalikan, dan berkolaborasi dengan sistem kecerdasan buatan."
 ---
-
 ## Definition
 
 Interaksi Manusia-AI (HAI) adalah bidang interdisipliner yang memeriksa dinamika antara manusia dan teknologi AI. Bidang ini berfokus pada perancangan antarmuka yang intuitif, protokol komunikasi, dan kerangka kolaborasi yang efektif antara pengguna dan sistem cerdas.

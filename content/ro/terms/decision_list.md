@@ -1,23 +1,23 @@
 ---
-title: "Listă de decizii"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Listă de decizii
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /ro/terms/decision_list/
-date: "2026-07-18T15:53:40.460255Z"
-lastmod: "2026-07-18T17:15:09.646228Z"
+slug: decision_list
+date: '2026-07-18T15:53:40.460255Z'
+lastmod: '2026-07-18T17:15:09.646228Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un clasificator interpretabil format dintr-o listă ordonată de reguli, unde prima regulă care se potrivește determină ieșirea."
+source: agnes_llm
+status: published
+language: ro
+description: Un clasificator interpretabil format dintr-o listă ordonată de reguli,
+  unde prima regulă care se potrivește determină ieșirea.
 ---
-
 ## Definition
 
 O listă de decizii este un tip de model de învățare automată care reprezintă cunoștințele sub forma unei secvențe de reguli condiționale. Fiecare regulă constă într-o condiție și o etichetă de clasă prezisă. La clasificarea unui nou exemplu,

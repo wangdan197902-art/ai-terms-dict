@@ -1,23 +1,23 @@
 ---
-title: "Diella"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /ru/terms/diella/
-date: "2026-07-18T15:49:49.004968Z"
-lastmod: "2026-07-18T16:38:07.148852Z"
+slug: diella
+date: '2026-07-18T15:49:49.004968Z'
+lastmod: '2026-07-18T16:38:07.148852Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Специализированная архитектура глубокого обучения, разработанная для эффективных задач суперразрешения и восстановления изображений."
+source: agnes_llm
+status: published
+language: ru
+description: Специализированная архитектура глубокого обучения, разработанная для
+  эффективных задач суперразрешения и восстановления изображений.
 ---
-
 ## Definition
 
 Diella относится к специфическим моделям нейронных сетей, оптимизированным для улучшения качества изображений за счет увеличения разрешения или удаления шума. Эти архитектуры обычно используют продвинутые механизмы внимания или другие сложные методы обработки.

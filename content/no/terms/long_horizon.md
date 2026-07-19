@@ -1,23 +1,23 @@
 ---
-title: "lang horisont"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: lang horisont
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /no/terms/long_horizon/
-date: "2026-07-18T15:34:15.408302Z"
-lastmod: "2026-07-18T16:38:06.953344Z"
+slug: long_horizon
+date: '2026-07-18T15:34:15.408302Z'
+lastmod: '2026-07-18T16:38:06.953344Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Refererer til oppgaver som krever beslutningstaking over utvidede tidshorisonter med forsinkede belønninger eller konsekvenser."
+source: agnes_llm
+status: published
+language: 'no'
+description: Refererer til oppgaver som krever beslutningstaking over utvidede tidshorisonter
+  med forsinkede belønninger eller konsekvenser.
 ---
-
 ## Definition
 
 Lang-horisont problemer involverer sekvenser av handlinger der effekten av tidlige beslutninger først manifesterer seg etter mange steg. Dette er vanlig innen robotikk, planlegging og oppgaver med flertrinnsmessig resonnement. Utfordringen ligger i å tilskrive kreditt for langsiktige resultater til spesifikke handlinger i den tidlige fasen av prosessen.

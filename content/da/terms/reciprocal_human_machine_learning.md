@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /da/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:14:33.056175Z"
 lastmod: "2026-07-18T17:15:09.327000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En samarbejdende læringsparadigme, hvor mennesker og maskiner kontinuerligt underviser og lærer af hinanden for at forbedre ydeevnen."
 ---
-
 ## Definition
 
 Denne tilgang bevæger sig ud over simpel menneske-i-lokken-etikettering. Den involverer bidirektionel videndeling: mennesker retter modellens fejl, mens modellen assisterer mennesker med at identificere mønstre eller automatisere opgaver.

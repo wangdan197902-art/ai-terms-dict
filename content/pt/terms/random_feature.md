@@ -1,23 +1,24 @@
 ---
-title: "Recurso Aleatório"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Recurso Aleatório
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /pt/terms/random_feature/
-date: "2026-07-18T15:19:13.456818Z"
-lastmod: "2026-07-18T15:51:59.527802Z"
+slug: random_feature
+date: '2026-07-18T15:19:13.456818Z'
+lastmod: '2026-07-18T15:51:59.527802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica que mapeia dados de entrada para um espaço de dimensão superior usando projeções aleatórias para aproximar métodos de kernel de forma eficiente."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica que mapeia dados de entrada para um espaço de dimensão superior
+  usando projeções aleatórias para aproximar métodos de kernel de forma eficiente.
 ---
-
 ## Definition
 
 Os mapas de recursos aleatórios transformam entradas em um novo espaço onde modelos lineares podem aproximar funções de kernel não-lineares. Essa abordagem, frequentemente associada ao método de Nystrom ou recursos de Fourier, permite eficiência computacional.

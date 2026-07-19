@@ -7,8 +7,6 @@ tags: ["infrastructure", "deployment", "computing"]
 difficulty: 1
 weight: 1
 slug: "cloud"
-aliases:
-  - /es/terms/cloud/
 date: "2026-07-18T10:21:35.951749Z"
 lastmod: "2026-07-18T11:44:44.737216Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La nube se refiere a servidores remotos alojados en Internet utilizados para almacenar, gestionar y procesar datos y modelos de IA en lugar de hardware local."
 ---
-
 ## Definition
 
 La computación en la nube proporciona infraestructura escalable para cargas de trabajo de IA, permitiendo a los desarrolladores acceder a potentes GPU y almacenamiento sin mantener centros de datos físicos. Soporta varios modelos de servicio como IaaS, PaaS y SaaS.

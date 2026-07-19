@@ -1,23 +1,25 @@
 ---
-title: "PagedAttention"
-term_id: "pagedattention"
-category: "training_techniques"
-subcategory: ""
-tags: ["inference", "optimization", "memory_management"]
+title: PagedAttention
+term_id: pagedattention
+category: training_techniques
+subcategory: ''
+tags:
+- inference
+- Optimization
+- Memory Management
 difficulty: 4
 weight: 1
-slug: "pagedattention"
-aliases:
-  - /fi/terms/pagedattention/
-date: "2026-07-18T16:14:48.599579Z"
-lastmod: "2026-07-18T17:15:09.442091Z"
+slug: pagedattention
+date: '2026-07-18T16:14:48.599579Z'
+lastmod: '2026-07-18T17:15:09.442091Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "PagedAttention on muistinhallinta-algoritmi, joka soveltaa virtuaalimuistin sivuttuskonsepteja optimoidakseen avain-arvo (KV)-välimuistien tallennuksen ja pääsyn muuntajamalleissa."
+source: agnes_llm
+status: published
+language: fi
+description: PagedAttention on muistinhallinta-algoritmi, joka soveltaa virtuaalimuistin
+  sivuttuskonsepteja optimoidakseen avain-arvo (KV)-välimuistien tallennuksen ja pääsyn
+  muuntajamalleissa.
 ---
-
 ## Definition
 
 PagedAttention on tekniikka, jonka vLLM-projekti toi esiin parantaakseen suurten kielimallien päättelyn tehokkuutta. Se käsittelee KV-välimuistin hallinnan fragmentaatio- ja ylikuormitusongelmat,

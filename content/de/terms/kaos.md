@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /de/terms/kaos/
 date: "2026-07-18T11:20:16.151365Z"
 lastmod: "2026-07-18T11:44:44.954074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein intelligenter Agentenrahmen zur Verwaltung komplexer, verteilter Unternehmensumgebungen durch richtlinienbasierte Automatisierung."
 ---
-
 ## Definition
 
 KAoS ist ein intelligenter Agentenrahmen, der entwickelt wurde, um die Komplexität großskaliger, verteilter Unternehmenssysteme zu bewältigen. Es nutzt einen richtlinienbasierten Ansatz, bei dem hochrangige Managementziele in

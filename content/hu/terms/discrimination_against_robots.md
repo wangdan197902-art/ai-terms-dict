@@ -1,23 +1,26 @@
 ---
-title: "Discrimination against robots"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Discrimination against robots
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /hu/terms/discrimination_against_robots/
-date: "2026-07-18T15:57:22.016545Z"
-lastmod: "2026-07-18T17:15:09.777810Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:57:22.016545Z'
+lastmod: '2026-07-18T17:15:09.777810Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az etikai és jogi fogalom, amely a mesterséges ügynökök vagy autonóm rendszerek irányába irányuló elfogult bánásmódot vagy előítéletet jelöli, amely gyakran antropomorf vetületekből vagy funkcionális "
+source: agnes_llm
+status: published
+language: hu
+description: 'Az etikai és jogi fogalom, amely a mesterséges ügynökök vagy autonóm
+  rendszerek irányába irányuló elfogult bánásmódot vagy előítéletet jelöli, amely
+  gyakran antropomorf vetületekből vagy funkcionális '
 ---
-
 ## Definition
 
 A robotok elleni diszkrimináció egy új etikai és szociológiai fogalom, amely azt vizsgálja, hogyan kezelhetik az emberek igazságtalanul, bizalmatlanul vagy negatív tulajdonságokkal ruházhatnak fel mesterséges ügynököket azok megjelenése vagy viselkedése alapján...

@@ -7,8 +7,6 @@ tags: ["Theory", "Linguistics", "Computer Science"]
 difficulty: 5
 weight: 1
 slug: "grammar_systems_theory"
-aliases:
-  - /fi/terms/grammar_systems_theory/
 date: "2026-07-18T16:00:05.479253Z"
 lastmod: "2026-07-18T17:15:09.416707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kielioppijärjestelmien teoria on formaalin kieliteorian haara, joka tutkii laskennallisia malleja, jotka perustuvat rinnakkain tai hajautetuissa ympäristöissä vuorovaikuttaviin kielioppiin."
 ---
-
 ## Definition
 
 Tämä alue, joka juontaa juurensa teoreettiseen tietojenkäsittelytieteeseen ja kielitieteeseen, laajentaa klassisia Noam Chomskyn hierarkiaan liittyviä käsitteitä monikomponenttijärjestelmiin. Se tutkii, kuinka useat kieliopinnot tai komponentit...

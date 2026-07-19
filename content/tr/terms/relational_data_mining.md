@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /tr/terms/relational_data_mining/
 date: "2026-07-18T16:11:54.129492Z"
 lastmod: "2026-07-18T16:38:07.359410Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Birden fazla birbirine bağlı tablo veya varlıktan oluşan verilerden desenler ve bilgiler keşfetme süreci."
 ---
-
 ## Definition
 
 İlişkisel veri madenciliği, verilerin tek bir düz tablo yerine birden fazla ilişkili tablo halinde organize edildiği veritabanlarından faydalı bilgi çıkarmaya odaklanır. Veri noktaları arasındaki ilişkileri ve bağımlılıkları analiz ederek, basit istatistiksel yöntemlerin yakalayamayacağı derinlemesine kalıpları ortaya çıkarır. Bu yaklaşım, özellikle varlıklar arası bağlantıların önemli olduğu alanlarda etkilidir.

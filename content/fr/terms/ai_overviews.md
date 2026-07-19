@@ -1,23 +1,24 @@
 ---
-title: "Résumés IA"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Résumés IA
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /fr/terms/ai_overviews/
-date: "2026-07-18T11:02:19.472192Z"
-lastmod: "2026-07-18T11:44:45.191433Z"
+slug: ai_overviews
+date: '2026-07-18T11:02:19.472192Z'
+lastmod: '2026-07-18T11:44:45.191433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Des réponses résumées générées par des modèles d'IA qui synthétisent des informations provenant de plusieurs sources pour une compréhension rapide."
+source: agnes_llm
+status: published
+language: fr
+description: Des réponses résumées générées par des modèles d'IA qui synthétisent
+  des informations provenant de plusieurs sources pour une compréhension rapide.
 ---
-
 ## Definition
 
 Les Résumés IA sont des condensés produits par de grands modèles de langage qui agrègent et synthétisent des données issues de diverses sources web ou bases de données. Contrairement aux résultats de recherche traditionnels qui listent des liens, ces résumés offrent

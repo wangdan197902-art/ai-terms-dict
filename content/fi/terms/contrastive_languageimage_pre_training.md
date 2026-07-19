@@ -1,23 +1,24 @@
 ---
-title: "Kontrastiivinen kieli-kuvan esikoulutus"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Kontrastiivinen kieli-kuvan esikoulutus
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /fi/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:49:33.428822Z"
-lastmod: "2026-07-18T17:15:09.394843Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:49:33.428822Z'
+lastmod: '2026-07-18T17:15:09.394843Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Monimodaalinen esikoulutusmenetelmä, joka yhdistää kuvien ja teksten esityksiä kontrastiivisten häviöfunktioiden avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Monimodaalinen esikoulutusmenetelmä, joka yhdistää kuvien ja teksten
+  esityksiä kontrastiivisten häviöfunktioiden avulla.
 ---
-
 ## Definition
 
 Kontrastiivinen kieli-kuvan esikoulutus (CLIP) on neuroverkkorakenne, joka on koulutettu internetistä löytyvien kuvien ja niihin liittyvien kuvauksien parilla. Se käyttää kontrastiivista tavoitetta maksimoidakseen vastaavien kuva-teksti-parien samankaltaisuuden ja minimoidakseen eri parien samankaltaisuuden.

@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /ro/terms/lora/
 date: "2026-07-18T15:26:45.381560Z"
 lastmod: "2026-07-18T17:15:09.597325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Adaptarea de Rang Scăzut este o metodă de rafinare eficientă din punct de vedere al parametrilor care injectează matrici antrenabile de descompunere de rang în ponderile existente ale modelului."
 ---
-
 ## Definition
 
 LoRA îngheață ponderile modelului pre-antrenat și inserează matrici antrenabile de descompunere în fiecare strat al arhitecturii Transformer. Prin optimizarea doar a acestor matrici de rang scăzut, LoRA reduce semnificativ

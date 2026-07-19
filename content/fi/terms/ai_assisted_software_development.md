@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /fi/terms/ai_assisted_software_development/
 date: "2026-07-18T15:40:26.988391Z"
 lastmod: "2026-07-18T17:15:09.379338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälytyökalujen käyttö tuottavuuden parantamiseen koodauksessa, virheenkorjauksessa, testaamisessa ja suunnittelussa."
 ---
-
 ## Definition
 
 Tekoälyn avustama ohjelmistokehitys tarkoittaa koneoppimismallien hyödyntämistä tukemaan kehittäjiä koodin kirjoittamisessa, bugien tunnistamisessa, testien generoinnissa ja suorituskyvyn optimoinnissa. Työkaluja ovat esimerkiksi GitHub Copilot.

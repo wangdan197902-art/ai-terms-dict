@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /de/terms/feedback_neural_network/
 date: "2026-07-18T11:14:43.255690Z"
 lastmod: "2026-07-18T11:44:44.940650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Architektur neuronaler Netze, bei der Verbindungen gerichtete Zyklen bilden und Informationen über die Zeit hinweg persistent bleiben."
 ---
-
 ## Definition
 
 Neuronale Netzwerke mit Rückkopplung, auch bekannt als rekurrente neuronale Netze (RNNs), enthalten Schleifen, die es Signalen ermöglichen, zurück in vorherige Schichten zu propagieren. Diese Rekurrenz ermöglicht es dem Netzwerk, einen internen Zustand beizubehalten.

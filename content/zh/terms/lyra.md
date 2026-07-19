@@ -1,23 +1,23 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /zh/terms/lyra/
-date: "2026-07-18T11:24:58.833899Z"
-lastmod: "2026-07-18T11:44:45.527650Z"
+slug: lyra
+date: '2026-07-18T11:24:58.833899Z'
+lastmod: '2026-07-18T11:44:45.527650Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Lyra 指代各种人工智能倡议或模型，最著名的是开源大型语言模型，或旨在增强信息检索的特定AI驱动搜索和发现工具。"
+source: agnes_llm
+status: published
+language: zh
+description: Lyra 指代各种人工智能倡议或模型，最著名的是开源大型语言模型，或旨在增强信息检索的特定AI驱动搜索和发现工具。
 ---
-
 ## Definition
 
 在现代AI术语的背景下，Lyra通常指专注于通过自然语言处理增强用户交互的专用AI系统。它可能指代一个开源的大型语言模型开发

@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /en/terms/scientific/
 date: "2026-07-18T09:36:45.467347Z"
 lastmod: "2026-07-18T11:44:44.608338Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Scientific in AI refers to the application of rigorous empirical methods, hypothesis testing, and reproducibility in research."
 ---
-
 ## Definition
 
 The scientific approach in artificial intelligence emphasizes evidence-based development and validation. It involves formulating hypotheses about model behavior, conducting controlled experiments, and analyzing results statistically. This methodology ensures that AI advancements are reliable, transparent, and reproducible, distinguishing robust engineering from mere trial-and-error experimentation within the field.

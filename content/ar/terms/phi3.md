@@ -1,23 +1,23 @@
 ---
-title: "في-3 (Phi-3)"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: في-3 (Phi-3)
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /ar/terms/phi3/
-date: "2026-07-18T16:16:32.312186Z"
-lastmod: "2026-07-18T17:15:08.537258Z"
+slug: phi3
+date: '2026-07-18T16:16:32.312186Z'
+lastmod: '2026-07-18T17:15:08.537258Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عائلة من نماذج اللغة الكبيرة مفتوحة الأوزان التي طورتها أبحاث مايكروسوفت."
+source: agnes_llm
+status: published
+language: ar
+description: عائلة من نماذج اللغة الكبيرة مفتوحة الأوزان التي طورتها أبحاث مايكروسوفت.
 ---
-
 ## Definition
 
 في-3 هي سلسلة من نماذج اللغة الصغيرة (SLMs) التي أصدرتها مايكروسوفت، ومصممة لتقديم أداء عالٍ يقارب النماذج الأكبر حجماً مع استهلاك موارد حاسوبية أقل بكثير. تعتمد هذه النماذج على تقنيات تدريب متقدمة لتحقيق الكفاءة.

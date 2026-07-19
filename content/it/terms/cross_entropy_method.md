@@ -1,23 +1,24 @@
 ---
-title: "Metodo dell'entropia incrociata"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Metodo dell'entropia incrociata
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /it/terms/cross_entropy_method/
-date: "2026-07-18T15:53:39.503287Z"
-lastmod: "2026-07-18T17:15:08.611026Z"
+slug: cross_entropy_method
+date: '2026-07-18T15:53:39.503287Z'
+lastmod: '2026-07-18T17:15:08.611026Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica di ottimizzazione randomizzata che utilizza la simulazione Monte Carlo per migliorare iterativamente le stime delle probabilità di eventi rari."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica di ottimizzazione randomizzata che utilizza la simulazione
+  Monte Carlo per migliorare iterativamente le stime delle probabilità di eventi rari.
 ---
-
 ## Definition
 
 Il Metodo dell'Entropia Incrociata (CEM) è un potente algoritmo di ottimizzazione a uso generale, utilizzato sia per problemi discreti che continui. Funziona mantenendo una distribuzione di probabilità sullo spazio di ricerca e aggiornandola iterativamente per focalizzarsi sulle regioni che producono i migliori risultati.

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /vi/terms/accountability/
 date: "2026-07-18T15:39:21.625760Z"
 lastmod: "2026-07-18T16:38:07.724158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nguyên tắc cho rằng các nhà phát triển và vận hành hệ thống AI phải chịu trách nhiệm về các kết quả và tác động của những hệ thống đó."
 ---
-
 ## Definition
 
 Trách nhiệm giải trình trong trí tuệ nhân tạo đề cập đến nghĩa vụ của các cá nhân, tổ chức và nhà phát triển trong việc chịu trách nhiệm về thiết kế, triển khai và hậu quả của các công nghệ AI.

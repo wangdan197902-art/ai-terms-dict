@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /pl/terms/polysemanticity/
 date: "2026-07-18T16:11:25.746164Z"
 lastmod: "2026-07-18T17:15:08.907441Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zjawisko, w którym pojedyncze neurony w sieciach neuronowych reagują na wiele różnych pojęć."
 ---
-
 ## Definition
 
 Polisemantyczność to cecha obserwowana w głębokich sieciach neuronowych, szczególnie w transformatorach, gdzie pojedynczy neuron może aktywować się w odpowiedzi na kilka niepowiązanych lub semantycznie odrębnych cech wejściowych.

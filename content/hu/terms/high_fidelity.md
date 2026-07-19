@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /hu/terms/high_fidelity/
 date: "2026-07-18T15:35:09.348016Z"
 lastmod: "2026-07-18T17:15:09.735099Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Azt jelzi, hogy a generált tartalom részleteiben, minőségében és valósághűségében szorosan hasonlít a valós világ adataira."
 ---
-
 ## Definition
 
 A nagy hűségű kifejezés azokat a generatív modellek kimeneteit írja le, amelyek megkülönböztethetetlenek vagy nagyon hasonlóak a hiteles, valós adatokhoz. Képgenerálás esetén ez realisztikus textúrákat és világítást jelent; hang esetén pedig természetes hangszínt és artikulációt. Ez a mutató kulcsfontosságú a felhasználói elfogadás szempontjából a médiatartalmak előállításánál.

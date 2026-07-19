@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /cs/terms/safety/
 date: "2026-07-18T15:28:39.219451Z"
 lastmod: "2026-07-18T17:15:09.077223Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Studium a praxe zajišťující, že systémy AI nezpůsobí fyzické, digitální ani společenské škody."
 ---
-
 ## Definition
 
 Bezpečnost AI (AI Safety) je multidisciplinární obor zaměřený na prevenci nepříznivých výsledků od pokročilé umělé inteligence. Zahrnuje technické výzvy, jako je soulad, interpretovatelnost a robustnost.

@@ -1,23 +1,24 @@
 ---
-title: "ComfyUI"
-term_id: "comfyui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tools", "generative_ai", "image_generation"]
+title: ComfyUI
+term_id: comfyui
+category: basic_concepts
+subcategory: ''
+tags:
+- tools
+- Generative AI
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "comfyui"
-aliases:
-  - /ro/terms/comfyui/
-date: "2026-07-18T15:49:47.170689Z"
-lastmod: "2026-07-18T17:15:09.637412Z"
+slug: comfyui
+date: '2026-07-18T15:49:47.170689Z'
+lastmod: '2026-07-18T17:15:09.637412Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O interfață grafică bazată pe noduri pentru Stable Diffusion, care permite construirea unor fluxuri de lucru complexe și un control fin asupra generării imaginilor."
+source: agnes_llm
+status: published
+language: ro
+description: O interfață grafică bazată pe noduri pentru Stable Diffusion, care permite
+  construirea unor fluxuri de lucru complexe și un control fin asupra generării imaginilor.
 ---
-
 ## Definition
 
 ComfyUI este o interfață grafică modulară și puternică, bazată pe noduri, pentru modelele Stable Diffusion. Spre deosebire de interfețele tradiționale care oferă fluxuri de lucru liniare, ComfyUI permite utilizatorilor să construiască pipeline-uri personalizate conectând

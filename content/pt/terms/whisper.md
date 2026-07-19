@@ -1,23 +1,24 @@
 ---
-title: "Whisper"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: Whisper
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /pt/terms/whisper/
-date: "2026-07-18T15:27:07.254518Z"
-lastmod: "2026-07-18T15:51:59.542480Z"
+slug: whisper
+date: '2026-07-18T15:27:07.254518Z'
+lastmod: '2026-07-18T15:51:59.542480Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um sistema de reconhecimento automático de fala (ASR) desenvolvido pela OpenAI, treinado em um grande conjunto de dados diversificado de áudio."
+source: agnes_llm
+status: published
+language: pt
+description: Um sistema de reconhecimento automático de fala (ASR) desenvolvido pela
+  OpenAI, treinado em um grande conjunto de dados diversificado de áudio.
 ---
-
 ## Definition
 
 Whisper é um modelo de reconhecimento de fala de propósito geral projetado para lidar com vários idiomas, dialetos e sotaques. Ele é treinado em centenas de milhares de horas de supervisão multilíngue e multitarefa, tornando-o robusto contra ruído e variações de áudio.

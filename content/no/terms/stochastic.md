@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /no/terms/stochastic/
 date: "2026-07-18T15:30:21.435333Z"
 lastmod: "2026-07-18T16:38:06.947322Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Beskriver prosesser eller modeller som involverer tilfeldighet og sannsynlighet i stedet for deterministiske utfall."
 ---
-
 ## Definition
 
 Stokastiske elementer introduserer variasjon i AI-systemer, slik som støy i data eller tilfeldig initialisering av vekter. I motsetning til deterministiske modeller, tar stokastiske modeller hensyn til usikkerhet, noe som gjør dem mer robuste.

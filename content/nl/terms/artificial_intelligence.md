@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /nl/terms/artificial_intelligence/
 date: "2026-07-18T15:22:26.136119Z"
 lastmod: "2026-07-18T17:15:08.678034Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De simulatie van menselijke intelligentieprocessen door computersystemen."
 ---
-
 ## Definition
 
 Kunstmatige Intelligentie (KI) verwijst naar het vermogen van digitale computers of door computers bestuurbare robots om taken uit te voeren die normaal gesproken gepaard gaan met intelligente wezens. Het omvat verschillende deelgebieden.

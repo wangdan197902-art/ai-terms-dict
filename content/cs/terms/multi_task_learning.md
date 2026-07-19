@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /cs/terms/multi_task_learning/
 date: "2026-07-18T16:10:00.180601Z"
 lastmod: "2026-07-18T17:15:09.155771Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vícenásobné učení úloh je paradigma strojového učení, kde je model trénován na více souvisejících úlohách současně, aby se zlepšila generalizace."
 ---
-
 ## Definition
 
 Tato technika využívá induktivní bias sdílený mezi souvisejícími úlohami ke zvýšení efektivity a výkonu učení. Tím, že trénuje jeden model pro provádění několika úloh najednou, se model naučí s...

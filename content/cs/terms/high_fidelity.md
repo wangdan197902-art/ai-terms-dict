@@ -7,8 +7,6 @@ tags: ["generation", "quality", "media"]
 difficulty: 3
 weight: 1
 slug: "high_fidelity"
-aliases:
-  - /cs/terms/high_fidelity/
 date: "2026-07-18T15:32:10.912193Z"
 lastmod: "2026-07-18T17:15:09.083564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Uvádí generovaný obsah, který se v detailech, kvalitě a realističnosti těsně podobá reálným datům."
 ---
-
 ## Definition
 
 Vysoká věrnost popisuje výstupy generativních modelů, které jsou nerozlišitelné nebo velmi podobné autentickým datům. Při generování obrázků to znamená realistické textury a osvětlení; u zvuku to implikuje přirozenou kvalitu a minimální artefakty. Tento termín je klíčový pro aplikace, kde je vizuální nebo sluchová přesnost kritická.

@@ -1,23 +1,25 @@
 ---
-title: "Inferência na Borda"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Inferência na Borda
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /pt/terms/edge_inference/
-date: "2026-07-18T14:58:37.873896Z"
-lastmod: "2026-07-18T15:51:59.487533Z"
+slug: edge_inference
+date: '2026-07-18T14:58:37.873896Z'
+lastmod: '2026-07-18T15:51:59.487533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A inferência na borda é o processo de executar modelos de aprendizado de máquina localmente em dispositivos finais, em vez de em servidores centralizados na nuvem."
+source: agnes_llm
+status: published
+language: pt
+description: A inferência na borda é o processo de executar modelos de aprendizado
+  de máquina localmente em dispositivos finais, em vez de em servidores centralizados
+  na nuvem.
 ---
-
 ## Definition
 
 Esta prática envolve implantar modelos de IA treinados diretamente em hardware, como smartphones, sensores IoT ou sistemas embarcados. Ao processar os dados localmente, a inferência na borda reduz significativamente a latência...

@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento per apprendistato"
-term_id: "apprenticeship_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "imitation", "training"]
+title: Apprendimento per apprendistato
+term_id: apprenticeship_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- imitation
+- training
 difficulty: 4
 weight: 1
-slug: "apprenticeship_learning"
-aliases:
-  - /it/terms/apprenticeship_learning/
-date: "2026-07-18T15:46:43.039500Z"
-lastmod: "2026-07-18T17:15:08.598027Z"
+slug: apprenticeship_learning
+date: '2026-07-18T15:46:43.039500Z'
+lastmod: '2026-07-18T17:15:08.598027Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo di apprendimento per rinforzo in cui un agente impara una politica imitando le dimostrazioni di un esperto."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo di apprendimento per rinforzo in cui un agente impara una politica
+  imitando le dimostrazioni di un esperto.
 ---
-
 ## Definition
 
 L'apprendimento per apprendistato, noto anche come apprendimento per rinforzo inverso dalle dimostrazioni, consente agli agenti di acquisire competenze osservando il comportamento esperto piuttosto che fare affidamento esclusivamente su funzioni di ricompensa.

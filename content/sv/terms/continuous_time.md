@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /sv/terms/continuous_time/
 date: "2026-07-18T15:32:35.880905Z"
 lastmod: "2026-07-18T17:15:08.955890Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En modelleringsansats där variabler ändras smidigt över ett kontinuerligt domän snarare än diskreta steg."
 ---
-
 ## Definition
 
 Modeller med kontinuerlig tid beskriver systemdynamik med hjälp av differentialekvationer, vilket möjliggör en jämn utveckling av tillstånd över tid. Inom AI illustreras detta av Neuronala ODE:er (Neural Ordinary Differential Equations)...

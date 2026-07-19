@@ -1,23 +1,24 @@
 ---
-title: "Villkorligt slumpmässigt fält"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: Villkorligt slumpmässigt fält
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /sv/terms/conditional_random_field/
-date: "2026-07-18T15:50:04.821376Z"
-lastmod: "2026-07-18T17:15:08.986803Z"
+slug: conditional_random_field
+date: '2026-07-18T15:50:04.821376Z'
+lastmod: '2026-07-18T17:15:08.986803Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett villkorligt slumpmässigt fält är en diskriminerande sannolikhetsmodell som används för strukturerade prediktionsuppgifter, såsom sekvensmärkning."
+source: agnes_llm
+status: published
+language: sv
+description: Ett villkorligt slumpmässigt fält är en diskriminerande sannolikhetsmodell
+  som används för strukturerade prediktionsuppgifter, såsom sekvensmärkning.
 ---
-
 ## Definition
 
 Villkorliga slumpmässiga fält (CRF) är en klass av diskriminerande modeller som vanligtvis används inom naturlig språkbehandling och bioinformatik. Till skillnad från generativa modeller modellerar CRF direkt den villkorliga sannolikheten givet indata, vilket ofta ger bättre resultat vid strukturerade prediktioner.

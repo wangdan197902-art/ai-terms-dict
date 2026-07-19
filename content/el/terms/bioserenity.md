@@ -1,23 +1,24 @@
 ---
-title: "Βιοαρετή"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Βιοαρετή
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /el/terms/bioserenity/
-date: "2026-07-18T15:54:13.111162Z"
-lastmod: "2026-07-18T17:15:09.886492Z"
+slug: bioserenity
+date: '2026-07-18T15:54:13.111162Z'
+lastmod: '2026-07-18T17:15:09.886492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια θεωρητική κατάσταση αρμονικής συνύπαρξης μεταξύ της βιολογικής ζωής και των συστημάτων τεχνητής νοημοσύνης."
+source: agnes_llm
+status: published
+language: el
+description: Μια θεωρητική κατάσταση αρμονικής συνύπαρξης μεταξύ της βιολογικής ζωής
+  και των συστημάτων τεχνητής νοημοσύνης.
 ---
-
 ## Definition
 
 Η Βιοαρετή αναφέρεται στην εννοιολογική ιδανική κατάσταση όπου η ανθρώπινη βιολογία και η τεχνητή νοημοσύνη λειτουργούν σε άψογη, μη συγκρουόμενη αρμονία. Τονίζει την ηθική ενσωμάτωση, διασφαλίζοντας ότι η ενίσχυση από την ΤΝ

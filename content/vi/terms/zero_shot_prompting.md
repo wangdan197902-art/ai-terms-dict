@@ -7,8 +7,6 @@ tags: ["Prompting", "LLM Applications", "NLP"]
 difficulty: 2
 weight: 1
 slug: "zero_shot_prompting"
-aliases:
-  - /vi/terms/zero_shot_prompting/
 date: "2026-07-18T16:18:05.430447Z"
 lastmod: "2026-07-18T16:38:07.818376Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật mà các mô hình ngôn ngữ lớn thực hiện nhiệm vụ mà không cần ví dụ trước đó hoặc tinh chỉnh, chỉ dựa vào hướng dẫn bằng ngôn ngữ tự nhiên."
 ---
-
 ## Definition
 
 Gợi ý không mẫu liên quan đến việc yêu cầu một mô hình ngôn ngữ đã tiền huấn luyện hoàn thành một nhiệm vụ trực tiếp thông qua một gợi ý văn bản, mà không cung cấp bất kỳ ví dụ mẫu nào hoặc thực hiện tinh chỉnh bổ sung. Mô hình dựa vào kiến thức đã học để suy luận và trả lời.

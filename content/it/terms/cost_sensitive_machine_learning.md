@@ -1,23 +1,25 @@
 ---
-title: "Apprendimento automatico sensibile ai costi"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Apprendimento automatico sensibile ai costi
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /it/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:53:18.688926Z"
-lastmod: "2026-07-18T17:15:08.610595Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:53:18.688926Z'
+lastmod: '2026-07-18T17:15:08.610595Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un paradigma di apprendimento automatico che incorpora i costi di classificazione errata nel processo di addestramento per ottimizzare l'impatto economico piuttosto che la sola accuratezza."
+source: agnes_llm
+status: published
+language: it
+description: Un paradigma di apprendimento automatico che incorpora i costi di classificazione
+  errata nel processo di addestramento per ottimizzare l'impatto economico piuttosto
+  che la sola accuratezza.
 ---
-
 ## Definition
 
 L'apprendimento automatico sensibile ai costi estende l'apprendimento supervisionato tradizionale assegnando penalità diverse a diversi tipi di errori. Nei scenari del mondo reale, falsi positivi e falsi negativi spesso hanno conseguenze economiche o operative molto diverse.

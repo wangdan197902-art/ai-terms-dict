@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /id/terms/perception_error_model/
 date: "2026-07-18T16:03:40.824303Z"
 lastmod: "2026-07-18T16:38:07.493397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja statistik atau algoritmik yang digunakan untuk mengukur dan memperbaiki ketidakakuratan dalam interpretasi data sensorik."
 ---
-
 ## Definition
 
 Model kesalahan persepsi menggambarkan kesenjangan antara data sensorik yang diamati dan kebenaran dasar (ground truth), dengan memperhitungkan kebisingan, oklusi, atau keterbatasan sensor. Dengan memodelkan kesalahan ini, sistem kecerdasan buatan dapat meningkatkan akurasi.

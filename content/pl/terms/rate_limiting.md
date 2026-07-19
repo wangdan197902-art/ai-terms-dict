@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /pl/terms/rate_limiting/
 date: "2026-07-18T16:14:31.572614Z"
 lastmod: "2026-07-18T17:15:08.912920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Mechanizm kontroli inżynieryjnej ograniczający liczbę żądań, jakie klient może złożyć do usługi w określonym oknie czasowym."
 ---
-
 ## Definition
 
 Ograniczanie częstotliwości żądań chroni usługi AI i interfejsy API przed nadużyciami, przeciążeniem i nadmiernym zużyciem zasobów. Zapewnia sprawiedliwe korzystanie przez użytkowników i utrzymuje stabilność systemu poprzez limitowanie przepustowości. Współstrumieniowe strategie są powszechnie stosowane.

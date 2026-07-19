@@ -1,23 +1,22 @@
 ---
-title: "קוד פתוח"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: קוד פתוח
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /he/terms/open_source/
-date: "2026-07-18T15:34:25.781197Z"
-lastmod: "2026-07-18T17:15:09.494333Z"
+slug: open_source
+date: '2026-07-18T15:34:25.781197Z'
+lastmod: '2026-07-18T17:15:09.494333Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "תוכנה שבה קוד המקור זמין בחינם לשימוש, שינוי והפצה על ידי כל אדם."
+source: agnes_llm
+status: published
+language: he
+description: תוכנה שבה קוד המקור זמין בחינם לשימוש, שינוי והפצה על ידי כל אדם.
 ---
-
 ## Definition
 
 קוד פתוח מתייחס למודל פיתוח שבו הקוד הבסיסי של פרויקט תוכנה נגיש לציבור. בתחום הבינה המלאכותית, זה מאפשר לחוקרים ומפתחים לבדוק, לשנות ולהפיץ מחדש אלגוריתמים

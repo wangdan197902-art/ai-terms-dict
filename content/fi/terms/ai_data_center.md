@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /fi/terms/ai_data_center/
 date: "2026-07-18T15:39:49.456607Z"
 lastmod: "2026-07-18T17:15:09.378062Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Erikoistunut tila, joka on suunniteltu majoittamaan ja ylläpitämään korkean suorituskyvyn laskentainfrastruktuuria tekoälykuormille."
 ---
-
 ## Definition
 
 Tekoälydatakeskus on fyysinen tila, joka on optimoitu tekoälysovellusten, erityisesti syväoppimisen koulutuksen ja päättelyn, suorittamiseen. Nämä keskukset sisältävät korkeatiheyksisiä palvelinkapasiteetteja, tehokasta jäähdytystä ja suurkaistaista verkkoyhteyttä.

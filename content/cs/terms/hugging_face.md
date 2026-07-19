@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /cs/terms/hugging_face/
-date: "2026-07-18T16:01:34.237416Z"
-lastmod: "2026-07-18T17:15:09.139072Z"
+slug: hugging_face
+date: '2026-07-18T16:01:34.237416Z'
+lastmod: '2026-07-18T17:15:09.139072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Popřední platforma a komunita poskytující nástroje s otevřeným zdrojovým kódem, modely a datové sady pro vývoj strojového učení."
+source: agnes_llm
+status: published
+language: cs
+description: Popřední platforma a komunita poskytující nástroje s otevřeným zdrojovým
+  kódem, modely a datové sady pro vývoj strojového učení.
 ---
-
 ## Definition
 
 Společnost Hugging Face je významnou společností a online platformou, která se stala ústředním bodem ekosystému umělé inteligence s otevřeným zdrojovým kódem. Nabízí rozsáhlé úložiště předtrénovaných modelů, datových sad a demonstračních aplikací.

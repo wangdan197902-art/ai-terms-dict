@@ -1,23 +1,24 @@
 ---
-title: "Mnohorozměrná adaptivní regresní splajna"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: Mnohorozměrná adaptivní regresní splajna
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /cs/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:10:15.216539Z"
-lastmod: "2026-07-18T17:15:09.156612Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:10:15.216539Z'
+lastmod: '2026-07-18T17:15:09.156612Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Neparametrická regrese, která automaticky vybírá báze funkce pro modelování složitých vztahů."
+source: agnes_llm
+status: published
+language: cs
+description: Neparametrická regrese, která automaticky vybírá báze funkce pro modelování
+  složitých vztahů.
 ---
-
 ## Definition
 
 Mnohorozměrná adaptivní regresní splajna (MARS) je flexibilní regresní metoda, která modeluje složité nelineární vztahy přizpůsobením kusově lineárních bázových funkcí. Automaticky vybírá vhodné uzlové body.

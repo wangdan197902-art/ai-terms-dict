@@ -1,23 +1,24 @@
 ---
-title: "Escriba médico automatizado"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Escriba médico automatizado
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /es/terms/automated_medical_scribe/
-date: "2026-07-18T10:37:40.932159Z"
-lastmod: "2026-07-18T11:44:44.780126Z"
+slug: automated_medical_scribe
+date: '2026-07-18T10:37:40.932159Z'
+lastmod: '2026-07-18T11:44:44.780126Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un sistema impulsado por IA que genera automáticamente documentación clínica a partir de las interacciones entre médicos y pacientes."
+source: agnes_llm
+status: published
+language: es
+description: Un sistema impulsado por IA que genera automáticamente documentación
+  clínica a partir de las interacciones entre médicos y pacientes.
 ---
-
 ## Definition
 
 Los escribas médicos automatizados utilizan tecnologías de procesamiento del lenguaje natural y reconocimiento de voz para escuchar las conversaciones entre el médico y el paciente y crear registros electrónicos de salud estructurados. Esta tecnología permite...

@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /zh/terms/unlike/
 date: "2026-07-18T10:55:52.609760Z"
 lastmod: "2026-07-18T11:44:45.387983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种用于 SQL 和编程的逻辑运算符，用于筛选不满足指定条件的记录。"
 ---
-
 ## Definition
 
 在数据库查询和逻辑中，“Unlike”通常指 NOT LIKE 运算符，它执行反向的模式匹配。对于列值不符合指定模式的行，该运算符返回真值。

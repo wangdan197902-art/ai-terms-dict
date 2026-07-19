@@ -1,23 +1,23 @@
 ---
-title: "Επιλογή Αλγορίθμου"
-term_id: "algorithm_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "engineering"]
+title: Επιλογή Αλγορίθμου
+term_id: algorithm_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- engineering
 difficulty: 3
 weight: 1
-slug: "algorithm_selection"
-aliases:
-  - /el/terms/algorithm_selection/
-date: "2026-07-18T15:48:46.836526Z"
-lastmod: "2026-07-18T17:15:09.877807Z"
+slug: algorithm_selection
+date: '2026-07-18T15:48:46.836526Z'
+lastmod: '2026-07-18T17:15:09.877807Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η επιλογή αλγορίθμου είναι η διαδικασία επιλογής της καταλληλότερης υπολογιστικής μεθόδου για ένα συγκεκριμένο πρόβλημα, βάσει μετρικών απόδοσης και περιορισμών."
+source: agnes_llm
+status: published
+language: el
+description: Η επιλογή αλγορίθμου είναι η διαδικασία επιλογής της καταλληλότερης υπολογιστικής
+  μεθόδου για ένα συγκεκριμένο πρόβλημα, βάσει μετρικών απόδοσης και περιορισμών.
 ---
-
 ## Definition
 
 Η επιλογή αλγορίθμου περιλαμβάνει την αξιολόγηση διαφορετικών υπολογιστικών προσεγγίσεων για να καθοριστεί ποια λύνει καλύτερα και πιο αποδοτικά μια δεδομένη εργασία. Αυτή η διαδικασία λαμβάνει υπόψη παράγοντες όπως η πολυπλοκότητα χρόνου, ο χώρος μνήμης και άλλα κριτήρια.

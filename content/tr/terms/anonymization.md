@@ -1,23 +1,24 @@
 ---
-title: "Anonimleştirme"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: Anonimleştirme
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /tr/terms/anonymization/
-date: "2026-07-18T15:40:51.155169Z"
-lastmod: "2026-07-18T16:38:07.272505Z"
+slug: anonymization
+date: '2026-07-18T15:40:51.155169Z'
+lastmod: '2026-07-18T16:38:07.272505Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bireysel gizliliği korumak için veri setlerinden kişisel olarak tanımlayıcı bilgileri kaldırma süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Bireysel gizliliği korumak için veri setlerinden kişisel olarak tanımlayıcı
+  bilgileri kaldırma süreci.
 ---
-
 ## Definition
 
 Anonimleştirme, ek bilgi olmadan belirli bir bireyle ilişkilendirilemeyecek şekilde verilerin değiştirilmesini içerir. Bu teknik, hassas verilerle çalışılırken makine öğreniminde kritik öneme sahiptir.

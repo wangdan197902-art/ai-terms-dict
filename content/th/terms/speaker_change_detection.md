@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /th/terms/speaker_change_detection/
 date: "2026-07-18T16:15:53.401050Z"
 lastmod: "2026-07-18T16:38:07.656837Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กระบวนการระบุจุดในสตรีมเสียงที่ผู้พูดที่กำลังพูดอยู่เปลี่ยนไป"
 ---
-
 ## Definition
 
 การตรวจจับการเปลี่ยนผู้พูด (SCD) เป็นเทคนิคที่ใช้ระบุเวลาที่แน่นอนเมื่อผู้พูดคนหนึ่งหยุดพูดและอีกคนหนึ่งเริ่มพูด เป็นขั้นตอนเบื้องต้นในการแยกแยะผู้พูด (diarization) ช่วยในการแบ่งส่วนเนื้อหาบทสนทนา

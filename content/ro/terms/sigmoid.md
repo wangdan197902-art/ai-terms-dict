@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /ro/terms/sigmoid/
 date: "2026-07-18T16:20:36.161081Z"
 lastmod: "2026-07-18T17:15:09.702063Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O funcție matematică care mapează orice număr cu valoare reală într-o valoare cuprinsă între zero și unu, formând o curbă în formă de S."
 ---
-
 ## Definition
 
 Funcția sigmoid, definită ca σ(z) = 1 / (1 + e^-z), este utilizată pe scară largă în învățarea automată pentru modelarea probabilităților. Aceasta comprima valorile de intrare în intervalul (0, 1), fiind potrivită pentru clasificarea binară.

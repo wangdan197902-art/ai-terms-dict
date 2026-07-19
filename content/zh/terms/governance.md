@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "management"]
 difficulty: 3
 weight: 1
 slug: "governance"
-aliases:
-  - /zh/terms/governance/
 date: "2026-07-18T11:19:33.288286Z"
 lastmod: "2026-07-18T11:44:45.510167Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "为确保人工智能系统以负责任和合乎道德的方式开发和部署而建立的政策、标准和监督机制框架。"
 ---
-
 ## Definition
 
 AI 治理是指管理人工智能创建、使用和审计的一套规则、指南和机构结构。它涵盖法律合规性、伦理考量以及风险管理。

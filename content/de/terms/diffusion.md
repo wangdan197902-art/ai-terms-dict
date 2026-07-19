@@ -1,23 +1,25 @@
 ---
-title: "Diffusion"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: Diffusion
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /de/terms/diffusion/
-date: "2026-07-18T10:49:09.031455Z"
-lastmod: "2026-07-18T11:44:44.871314Z"
+slug: diffusion
+date: '2026-07-18T10:49:09.031455Z'
+lastmod: '2026-07-18T11:44:44.871314Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technik des generativen Modellierens, die Daten erstellt, indem ein schrittweises Rauschverfahren rückgängig gemacht wird, um saubere Samples zu rekonstruieren."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technik des generativen Modellierens, die Daten erstellt, indem
+  ein schrittweises Rauschverfahren rückgängig gemacht wird, um saubere Samples zu
+  rekonstruieren.
 ---
-
 ## Definition
 
 Diffusionsmodelle sind eine Klasse generativer KI, die lernen, einen stochastischen Prozess des Hinzufügens von Rauschen zu Daten umzukehren. Durch das Training eines neuronalen Netzwerks, dieses Rauschen schrittweise vorherzusagen und zu entfernen, können sie neue, hochwertige Daten generieren.

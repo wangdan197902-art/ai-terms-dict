@@ -1,23 +1,24 @@
 ---
-title: "וקטור"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: וקטור
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /he/terms/vector/
-date: "2026-07-18T15:39:19.441694Z"
-lastmod: "2026-07-18T17:15:09.505685Z"
+slug: vector
+date: '2026-07-18T15:39:19.441694Z'
+lastmod: '2026-07-18T17:15:09.505685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אובייקט מתמטי המייצג כמות בעלת גודל וכיוון, המשמש לעיתים קרובות בבינה מלאכותית לקידוד נקודות נתונים במרחב רב-ממדי."
+source: agnes_llm
+status: published
+language: he
+description: אובייקט מתמטי המייצג כמות בעלת גודל וכיוון, המשמש לעיתים קרובות בבינה
+  מלאכותית לקידוד נקודות נתונים במרחב רב-ממדי.
 ---
-
 ## Definition
 
 בבינה מלאכותית, וקטור הוא מבנה נתונים בסיסי המשמש לייצוג מידע בצורה מספרית. הוא מורכבריר רשימה מסודרת של מספרים (אלמנטים) המתארים תכונות של ישות בתוך מרחב וקטורי.

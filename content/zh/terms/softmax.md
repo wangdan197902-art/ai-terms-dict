@@ -1,23 +1,23 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /zh/terms/softmax/
-date: "2026-07-18T11:02:04.102285Z"
-lastmod: "2026-07-18T11:44:45.406257Z"
+slug: softmax
+date: '2026-07-18T11:02:04.102285Z'
+lastmod: '2026-07-18T11:44:45.406257Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种数学函数，将任意实数值分数向量转换为概率分布。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种数学函数，将任意实数值分数向量转换为概率分布。
 ---
-
 ## Definition
 
 Softmax 广泛用于多分类任务中神经网络的输出层。它接收原始对数几率（logits）向量并对其进行归一化，使每个元素代表一个概率值。

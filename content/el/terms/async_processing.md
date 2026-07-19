@@ -1,23 +1,24 @@
 ---
-title: "Ασύγχρονος Επεξεργασία"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Ασύγχρονος Επεξεργασία
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /el/terms/async_processing/
-date: "2026-07-18T15:51:39.666945Z"
-lastmod: "2026-07-18T17:15:09.882270Z"
+slug: async_processing
+date: '2026-07-18T15:51:39.666945Z'
+lastmod: '2026-07-18T17:15:09.882270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα προγραμματιστικό παράδειγμα όπου οι εργασίες εκτελούνται ανεξάρτητα από το κύριο νήμα εκτέλεσης, επιτρέποντας μη αποκλειστικές λειτουργίες."
+source: agnes_llm
+status: published
+language: el
+description: Ένα προγραμματιστικό παράδειγμα όπου οι εργασίες εκτελούνται ανεξάρτητα
+  από το κύριο νήμα εκτέλεσης, επιτρέποντας μη αποκλειστικές λειτουργίες.
 ---
-
 ## Definition
 
 Η ασύγχρονη επεξεργασία επιτρέπει στο λογισμικό να εκτελεί εργασίες μεγάλης διάρκειας, όπως λειτουργίες εισόδου/εξόδου (I/O) ή πολύπλοκοι υπολογισμοί, χωρίς να παγώνει το κύριο περιβάλλον εφαρμογής ή να μπλοκάρει άλλες διεργασίες. Μέσω της

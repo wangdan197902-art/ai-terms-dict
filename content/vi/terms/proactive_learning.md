@@ -1,23 +1,24 @@
 ---
-title: "Học chủ động"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Học chủ động
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /vi/terms/proactive_learning/
-date: "2026-07-18T16:08:25.569394Z"
-lastmod: "2026-07-18T16:38:07.794547Z"
+slug: proactive_learning
+date: '2026-07-18T16:08:25.569394Z'
+lastmod: '2026-07-18T16:38:07.794547Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chiến lược học tập mà tác nhân chủ động lựa chọn các điểm dữ liệu cung cấp nhiều thông tin để truy vấn hoặc khám phá thay vì thụ động tiếp nhận chúng."
+source: agnes_llm
+status: published
+language: vi
+description: Một chiến lược học tập mà tác nhân chủ động lựa chọn các điểm dữ liệu
+  cung cấp nhiều thông tin để truy vấn hoặc khám phá thay vì thụ động tiếp nhận chúng.
 ---
-
 ## Definition
 
 Trong học chủ động, hệ thống AI xác định các mẫu nào sẽ giúp giảm bớt sự không chắc chắn hoặc cải thiện hiệu suất mô hình tốt nhất, thường thông qua các chiến lược học chủ động hoặc khám phá. Điều này tương phản với việc học thụ động.

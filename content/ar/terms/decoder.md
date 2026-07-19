@@ -1,23 +1,24 @@
 ---
-title: "المُفَكِّك"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: المُفَكِّك
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /ar/terms/decoder/
-date: "2026-07-18T15:36:16.385128Z"
-lastmod: "2026-07-18T17:15:08.459888Z"
+slug: decoder
+date: '2026-07-18T15:36:16.385128Z'
+lastmod: '2026-07-18T17:15:08.459888Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مكون في الشبكة العصبية مسؤول عن توليد تسلسلات المخرجات من التمثيلات الكامنة المشفرة."
+source: agnes_llm
+status: published
+language: ar
+description: مكون في الشبكة العصبية مسؤول عن توليد تسلسلات المخرجات من التمثيلات الكامنة
+  المشفرة.
 ---
-
 ## Definition
 
 في نماذج التسلسل إلى التسلسل (Sequence-to-Sequence)، يأخذ المُفَكِّك متجه السياق الناتج عن المُشَفِّر ويولد المخرجات المستهدفة خطوة بخطوة. يستخدم آليات الانتباه للتركيز على الأجزاء ذات الصلة من المدخلات المشفرة لتوليد مخرجات دقيقة ومتسلسلة.

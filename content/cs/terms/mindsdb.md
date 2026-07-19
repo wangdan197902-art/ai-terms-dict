@@ -7,8 +7,6 @@ tags: ["tooling", "sql", "automation"]
 difficulty: 2
 weight: 1
 slug: "mindsdb"
-aliases:
-  - /cs/terms/mindsdb/
 date: "2026-07-18T16:08:46.903520Z"
 lastmod: "2026-07-18T17:15:09.153479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "MindsDB je open-source platforma, která umožňuje vývojářům budovat, trénovat a nasazovat machine learning modely přímo ve stávajících databázích pomocí SQL."
 ---
-
 ## Definition
 
 MindsDB působí jako most mezi tradičními relačními databázemi a moderními pracovními postupy strojového učení. Umožňuje uživatelům vytvářet prediktivní modely pomocí standardních SQL dotazů, čímž eliminuje potřebu

@@ -7,8 +7,6 @@ tags: ["AI Ecosystem", "Software Development", "Collaboration"]
 difficulty: 1
 weight: 1
 slug: "open_source_artificial_intelligence"
-aliases:
-  - /ja/terms/open_source_artificial_intelligence/
 date: "2026-07-18T11:26:14.779395Z"
 lastmod: "2026-07-18T11:44:45.128364Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "オープンソースAIとは、そのソースコードが検査、修正、配布のために一般公開されている人工知能ソフトウェア、モデル、およびツールを指します。"
 ---
-
 ## Definition
 
 この概念は、基盤となるコードへの自由なアクセスを許可するライセンスの下でリリースされるAI技術のエコシステム encompass します。開発者がコードを利用・改善できるようにすることで、透明性、コラボレーション、および革新を促進します。

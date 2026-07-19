@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "qwen"]
 difficulty: 4
 weight: 1
 slug: "qwen3_5_moe"
-aliases:
-  - /vi/terms/qwen3_5_moe/
 date: "2026-07-18T16:09:51.679928Z"
 lastmod: "2026-07-18T16:38:07.798768Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một biến thể giả định hoặc tương lai của dòng Qwen3 theo kiến trúc Mixture-of-Experts (MoE) thưa, được thiết kế để đạt hiệu suất cao."
 ---
-
 ## Definition
 
 Thuật ngữ này đề cập đến một kiến trúc chuyên biệt trong họ Qwen, có khả năng tận dụng thiết kế Mixture of Experts (MoE). Trong các mô hình như vậy, chỉ một tập hợp con các tham số mạng nơ-ron (các "chuyên gia") mới được kích hoạt trong mỗi lần suy luận, giúp giảm đáng kể chi phí tính toán và tăng tốc độ xử lý.

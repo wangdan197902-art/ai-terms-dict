@@ -1,23 +1,25 @@
 ---
-title: "Каркас агента"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Каркас агента
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /ru/terms/agent_harness/
-date: "2026-07-18T15:39:44.874364Z"
-lastmod: "2026-07-18T16:38:07.116892Z"
+slug: agent_harness
+date: '2026-07-18T15:39:44.874364Z'
+lastmod: '2026-07-18T16:38:07.116892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Каркас агента — это уровень инфраструктуры или фреймворк, управляющий жизненным циклом, коммуникацией и распределением ресурсов для множества ИИ-агентов в системе."
+source: agnes_llm
+status: published
+language: ru
+description: Каркас агента — это уровень инфраструктуры или фреймворк, управляющий
+  жизненным циклом, коммуникацией и распределением ресурсов для множества ИИ-агентов
+  в системе.
 ---
-
 ## Definition
 
 Он действует как основа для многоагентных систем, предоставляя инструменты для оркестрации, мониторинга и координации взаимодействия между агентами. Каркас гарантирует, что агенты могут работать эффективно, не мешая друг другу...

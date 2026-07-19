@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /ro/terms/statistical_learning_theory/
 date: "2026-07-18T16:22:05.537199Z"
 lastmod: "2026-07-18T17:15:09.705348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un cadru matematic care oferă fundamentul teoretic pentru algoritmii de învățare automată prin analiza capacităților lor de generalizare."
 ---
-
 ## Definition
 
 Teoria învățării statistice (SLT) este o ramură a statisticii și a informaticii care studiază modul în care anumite algoritmi pot generaliza din eșantioane finite de antrenament către date necunoscute. Se concentrează pe stabilirea unor limite superioare

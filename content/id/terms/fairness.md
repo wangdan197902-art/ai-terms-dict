@@ -7,8 +7,6 @@ tags: ["ethics", "bias", "safety"]
 difficulty: 3
 weight: 1
 slug: "fairness"
-aliases:
-  - /id/terms/fairness/
 date: "2026-07-18T15:34:29.559810Z"
 lastmod: "2026-07-18T16:38:07.413333Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Keadilan mengacu pada prinsip bahwa sistem AI harus menghindari hasil yang bias atau diskriminatif terhadap kelompok tertentu."
 ---
-
 ## Definition
 
 Dalam kecerdasan buatan, keadilan adalah metrik etika kritis yang memastikan algoritma tidak melestarikan atau memperkuat bias masyarakat berdasarkan atribut yang dilindungi seperti ras, jenis kelamin, atau usia. Hal ini melibatkan upaya untuk mendeteksi dan mengurangi ketidakadilan dalam pengambilan keputusan otomatis.

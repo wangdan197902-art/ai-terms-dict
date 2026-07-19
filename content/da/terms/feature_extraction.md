@@ -1,23 +1,24 @@
 ---
-title: "Feature Extraction"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: Feature Extraction
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /da/terms/feature_extraction/
-date: "2026-07-18T15:55:32.924185Z"
-lastmod: "2026-07-18T17:15:09.287829Z"
+slug: feature_extraction
+date: '2026-07-18T15:55:32.924185Z'
+lastmod: '2026-07-18T17:15:09.287829Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Processen med at udlede meningsfuld information fra rådata for at reducere dimensionality og forbedre maskinlæringsmodellens ydeevne."
+source: agnes_llm
+status: published
+language: da
+description: Processen med at udlede meningsfuld information fra rådata for at reducere
+  dimensionality og forbedre maskinlæringsmodellens ydeevne.
 ---
-
 ## Definition
 
 Feature extraction involverer transformation af rådata til et sæt af features, der bedre repræsenterer det underliggende problem for de prediktive modeller, hvilket resulterer i forbedret modelnøjagtighed. Denne teknik reducerer kompleksiteten.

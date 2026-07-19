@@ -1,23 +1,24 @@
 ---
-title: "Model Keyakinan-Kehendak-Tujuan"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Model Keyakinan-Kehendak-Tujuan
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /id/terms/beliefdesireintention_model/
-date: "2026-07-18T15:40:52.136965Z"
-lastmod: "2026-07-18T16:38:07.433491Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:40:52.136965Z'
+lastmod: '2026-07-18T16:38:07.433491Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kerangka kerja filosofis yang digunakan dalam AI untuk memodelkan agen rasional berdasarkan keyakinan, kehendak, dan tujuan mereka."
+source: agnes_llm
+status: published
+language: id
+description: Kerangka kerja filosofis yang digunakan dalam AI untuk memodelkan agen
+  rasional berdasarkan keyakinan, kehendak, dan tujuan mereka.
 ---
-
 ## Definition
 
 Model Keyakinan-Kehendak-Tujuan (BDI) adalah arsitektur kognitif untuk merancang agen otonom yang membuat keputusan rasional. Keyakinan mewakili pengetahuan agen tentang dunia, kehendak adalah keadaan yang diinginkan, dan tujuan adalah subset kehendak yang telah dikomitmen untuk dicapai.

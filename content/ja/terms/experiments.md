@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /ja/terms/experiments/
 date: "2026-07-18T10:50:49.610384Z"
 lastmod: "2026-07-18T11:44:45.008335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "仮説を検証し、モデルのパフォーマンスを評価したり、新しいAIの能力を発見したりために実施される統制された手順。"
 ---
-
 ## Definition
 
 AIにおける実験は、機械学習モデル内の因果関係を理解するための変数の体系的テストを含みます。これらの手順により、開発者は異なるハイパーパラメータやアーキテクチャを比較し、モデルの動作を詳細に分析することができます。

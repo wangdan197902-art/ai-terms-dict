@@ -7,8 +7,6 @@ tags: ["application", "environment", "nasa"]
 difficulty: 3
 weight: 1
 slug: "nasa_ai_assisted_air_quality_monitoring_project"
-aliases:
-  - /ru/terms/nasa_ai_assisted_air_quality_monitoring_project/
 date: "2026-07-18T16:07:40.610583Z"
 lastmod: "2026-07-18T16:38:07.184336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Инициатива, использующая искусственный интеллект и спутниковые данные для мониторинга и прогнозирования глобальных паттернов загрязнения воздуха."
 ---
-
 ## Definition
 
 Этот проект использует данные дистанционного зондирования Земли от NASA в сочетании с передовыми алгоритмами ИИ для отслеживания концентрации твердых частиц и газообразных загрязнителей в глобальном масштабе. Интегрируя спутниковые снимки с наземными

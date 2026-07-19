@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /id/terms/source_attribution/
 date: "2026-07-18T16:09:19.755387Z"
 lastmod: "2026-07-18T16:38:07.508238Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses mengidentifikasi dan memberikan kredit kepada pembuat asli atau dataset yang digunakan untuk menghasilkan konten atau wawasan tertentu."
 ---
-
 ## Definition
 
 Atribusi sumber mengacu pada pelacakan dan pemberian label secara sistematis terhadap asal-usul data, model, atau hasil generasi dalam sistem AI. Hal ini memastikan transparansi dengan menghubungkan hasil akhir kembali ke sumber aslinya.

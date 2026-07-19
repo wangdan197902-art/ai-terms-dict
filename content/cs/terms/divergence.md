@@ -1,23 +1,24 @@
 ---
-title: "Divergence"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergence
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /cs/terms/divergence/
-date: "2026-07-18T15:24:25.501735Z"
-lastmod: "2026-07-18T17:15:09.066551Z"
+slug: divergence
+date: '2026-07-18T15:24:25.501735Z'
+lastmod: '2026-07-18T17:15:09.066551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Divergence označuje selhání funkce ztráty algoritmu strojového učení snižovat se během tréninku, což vede k nestabilnímu nebo zhoršujícímu se výkonu."
+source: agnes_llm
+status: published
+language: cs
+description: Divergence označuje selhání funkce ztráty algoritmu strojového učení
+  snižovat se během tréninku, což vede k nestabilnímu nebo zhoršujícímu se výkonu.
 ---
-
 ## Definition
 
 V kontextu optimalizace dochází k divergenci, když se parametry modelu aktualizují způsobem, který způsobuje růst ztráty místo jejího poklesu, což často vede k hodnotám NaN (not a number) nebo nekonečným gradientům, obvykle kvůli příliš vysoké rychlosti učení.

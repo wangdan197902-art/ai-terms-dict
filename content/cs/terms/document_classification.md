@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /cs/terms/document_classification/
 date: "2026-07-18T15:55:02.885250Z"
 lastmod: "2026-07-18T17:15:09.124071Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces kategorizace textových dokumentů do předem definovaných skupin na základě jejich obsahu."
 ---
-
 ## Definition
 
 Klasifikace dokumentů je základní úlohou zpracování přirozeného jazyka, při které algoritmy přiřazují štítky neuspořádaným textovým datům. Zahrnuje extrakci vlastností z dokumentů a jejich mapování na předdefinované kategorie.

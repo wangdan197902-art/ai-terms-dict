@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /no/terms/grokking/
 date: "2026-07-18T15:57:50.047782Z"
 lastmod: "2026-07-18T16:38:07.006949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et fenomen der nevrale nettverk plutselig generaliserer godt etter langvarig trening på små datasett, langt utover punktet for utvendig læring (memorisering)."
 ---
-
 ## Definition
 
 Grokking refererer til et motintuitivt fenomen observert i dyp læring, der en modell fortsetter å overtilpasse seg (overfit) på treningsdataene i lang tid og viser dårlig generalisering, før den plutselig oppnår nær perfekt generalisering på testdataene selv om treningsfeilen ikke har endret seg mye.

@@ -1,23 +1,24 @@
 ---
-title: "Aproximação de aptidão"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Aproximação de aptidão
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /pt/terms/fitness_approximation/
-date: "2026-07-18T15:00:25.516417Z"
-lastmod: "2026-07-18T15:51:59.491758Z"
+slug: fitness_approximation
+date: '2026-07-18T15:00:25.516417Z'
+lastmod: '2026-07-18T15:51:59.491758Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica em algoritmos evolutivos que estima a qualidade da solução para reduzir os custos computacionais durante a otimização."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica em algoritmos evolutivos que estima a qualidade da solução
+  para reduzir os custos computacionais durante a otimização.
 ---
-
 ## Definition
 
 A aproximação de aptidão é utilizada em computação evolutiva quando avaliar a função de aptidão real é computacionalmente caro ou demorado. Em vez de calcular o valor exato, utilizam-se modelos substitutos (surrogate models) para estimar o desempenho, acelerando o processo de otimização sem comprometer significativamente a qualidade do resultado.

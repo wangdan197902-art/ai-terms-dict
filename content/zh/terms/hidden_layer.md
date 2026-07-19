@@ -1,23 +1,23 @@
 ---
-title: "隐藏层"
-term_id: "hidden_layer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture", "deep_learning"]
+title: 隐藏层
+term_id: hidden_layer
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "hidden_layer"
-aliases:
-  - /zh/terms/hidden_layer/
-date: "2026-07-18T11:20:51.262168Z"
-lastmod: "2026-07-18T11:44:45.513290Z"
+slug: hidden_layer
+date: '2026-07-18T11:20:51.262168Z'
+lastmod: '2026-07-18T11:44:45.513290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "神经网络中输入层和输出层之间的中间层，负责处理特征。"
+source: agnes_llm
+status: published
+language: zh
+description: 神经网络中输入层和输出层之间的中间层，负责处理特征。
 ---
-
 ## Definition
 
 隐藏层由神经元组成，这些神经元接收来自前一层层的输入，应用权重和偏置，并通过激活函数将转换后的数据传递到下一层。这些层使神经网络能够...

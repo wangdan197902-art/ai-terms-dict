@@ -1,23 +1,24 @@
 ---
-title: "หุ่นยนต์ประสาท"
-term_id: "neurorobotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "neuroscience", "control_systems"]
+title: หุ่นยนต์ประสาท
+term_id: neurorobotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- neuroscience
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "neurorobotics"
-aliases:
-  - /th/terms/neurorobotics/
-date: "2026-07-18T16:08:08.826266Z"
-lastmod: "2026-07-18T16:38:07.636579Z"
+slug: neurorobotics
+date: '2026-07-18T16:08:08.826266Z'
+lastmod: '2026-07-18T16:38:07.636579Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หุ่นยนต์ประสาทคือการศึกษาว่าระบบประสาทชีวภาพสามารถแจ้งการออกแบบหุ่นยนต์อัตโนมัติได้อย่างไร และหุ่นยนต์สามารถทำหน้าที่เป็นแบบจำลองเพื่อทำความเข้าใจการทำงานของสมองได้อย่างไร"
+source: agnes_llm
+status: published
+language: th
+description: หุ่นยนต์ประสาทคือการศึกษาว่าระบบประสาทชีวภาพสามารถแจ้งการออกแบบหุ่นยนต์อัตโนมัติได้อย่างไร
+  และหุ่นยนต์สามารถทำหน้าที่เป็นแบบจำลองเพื่อทำความเข้าใจการทำงานของสมองได้อย่างไร
 ---
-
 ## Definition
 
 สาขานี้เชื่อมโยงประสาทวิทยาศาสตร์และหุ่นยนต์โดยการนำแบบจำลองเครือข่ายประสาทไปใช้ในระบบควบคุมหุ่นยนต์ ช่วยให้นักวิจัยสามารถทดสอบสมมติฐานเกี่ยวกับการควบคุมการเคลื่อนไหว การประมวลผลทางประสาทสัมผัส และพฤติกรรม

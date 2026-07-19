@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /ko/terms/vision_based/
 date: "2026-07-18T15:33:06.668063Z"
 lastmod: "2026-07-18T16:38:06.792225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "시각적 데이터 입력을 주로 활용하여 세계를 지각하고 상호작용하는 시스템."
 ---
-
 ## Definition
 
 비전 기반 패러다임은 카메라와 이미지 처리 알고리즘을 활용하여 시각적 장면에서 의미 있는 정보를 추출합니다. 이러한 시스템은 로봇 공학, 자율 주행, 증강 현실(AR) 등의 기초가 됩니다.

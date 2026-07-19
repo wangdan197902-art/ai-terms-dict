@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /id/terms/fine_tuning/
 date: "2026-07-18T15:23:01.511874Z"
 lastmod: "2026-07-18T16:38:07.387680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses menyesuaikan model yang telah dilatih sebelumnya untuk tugas turunan tertentu menggunakan dataset yang lebih kecil."
 ---
-
 ## Definition
 
 Penalaan halus melibatkan pengambilan model yang sudah dilatih pada dataset umum yang besar dan melatihnya lebih lanjut pada dataset khusus. Hal ini memungkinkan model untuk mempertahankan pengetahuan umum sambil memperoleh kemampuan tugas

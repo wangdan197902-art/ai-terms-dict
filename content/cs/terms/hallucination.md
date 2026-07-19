@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /cs/terms/hallucination/
 date: "2026-07-18T15:23:01.660685Z"
 lastmod: "2026-07-18T17:15:09.062920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Když AI model generuje sebevědomé, ale fakticky nesprávné nebo nesmyslné informace."
 ---
-
 ## Definition
 
 Halucinace nastávají, když generativní AI modely produkují výstupy, které vypadají uvěřitelně, ale postrádají oporu v realitě nebo zdrojových datech. Jedná se o významnou výzvu v aplikacích vyžadujících vysokou přesnost a spolehlivost informací.

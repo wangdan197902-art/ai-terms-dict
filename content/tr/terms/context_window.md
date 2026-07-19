@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /tr/terms/context_window/
 date: "2026-07-18T15:22:47.145447Z"
 lastmod: "2026-07-18T16:38:07.225180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir dil modelinin çıkarım veya eğitim sırasında aynı anda işleyip göz önünde bulundurabileceği metin veya token miktarının maksimum sınırıdır."
 ---
-
 ## Definition
 
 Bağlam penceresi, bir yapay zeka modelinin tek bir etkileşimdeki bellek operasyonel sınırını tanımlar. Modelin önceki konuşma geçmişini, belge metnini veya girdi verisinin ne kadarını dikkate alabileceğini belirler.

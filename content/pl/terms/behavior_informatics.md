@@ -1,23 +1,24 @@
 ---
-title: "Informatyka behawioralna"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Informatyka behawioralna
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /pl/terms/behavior_informatics/
-date: "2026-07-18T15:44:21.525760Z"
-lastmod: "2026-07-18T17:15:08.850829Z"
+slug: behavior_informatics
+date: '2026-07-18T15:44:21.525760Z'
+lastmod: '2026-07-18T17:15:08.850829Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Międzydiscyplinarna dziedzina badająca zachowania ludzkie poprzez zbieranie i analizę danych cyfrowych."
+source: agnes_llm
+status: published
+language: pl
+description: Międzydiscyplinarna dziedzina badająca zachowania ludzkie poprzez zbieranie
+  i analizę danych cyfrowych.
 ---
-
 ## Definition
 
 Informatyka behawioralna łączy informatykę, psychologię i statystykę w celu analizy dużych zbiorów danych behawioralnych generowanych przez interakcje cyfrowe. Skupia się na wyodrębnianiu wzorców, przewidywaniu przyszłych...

@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /fi/terms/markov/
 date: "2026-07-18T15:28:52.332347Z"
 lastmod: "2026-07-18T17:15:09.354548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Markovi tarkoittaa stokastisia prosesseja, joissa tuleva tila riippuu vain nykyisestä tilasta noudattaen muistittomuuden Markovin ominaisuutta."
 ---
-
 ## Definition
 
 Tekoälyssä ja todennäköisyyslaskennassa Markovin prosessit ovat perustavanlaatuisia malleja, joilla kuvataan järjestelmiä, jotka siirtyvät satunnaisesti tilojen välillä. Keskeinen periaate on Markovin ominaisuus, jonka mukaan tulevaisuuden tilan todennäköisyysjakauma riippuu ainoastaan nykyisestä tilasta, ei menneisyyden tapahtumista.

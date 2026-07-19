@@ -1,23 +1,23 @@
 ---
-title: "데이터 기반 모델"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: 데이터 기반 모델
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /ko/terms/data_driven_model/
-date: "2026-07-18T15:47:39.161836Z"
-lastmod: "2026-07-18T16:38:06.825123Z"
+slug: data_driven_model
+date: '2026-07-18T15:47:39.161836Z'
+lastmod: '2026-07-18T16:38:06.825123Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "명시적인 프로그래밍이 아닌 경험적 데이터로부터 직접 매개변수와 구조를 학습하는 계산 모델입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 명시적인 프로그래밍이 아닌 경험적 데이터로부터 직접 매개변수와 구조를 학습하는 계산 모델입니다.
 ---
-
 ## Definition
 
 데이터 기반 모델은 하드코딩된 규칙이나 명시적 로직으로 정의되지 않고, 역사적 데이터 내에서 식별된 패턴을 통해 행동과 예측이 도출되는 인공지능 시스템 유형입니다.

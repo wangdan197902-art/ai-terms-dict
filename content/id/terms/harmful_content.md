@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /id/terms/harmful_content/
 date: "2026-07-18T15:54:25.332337Z"
 lastmod: "2026-07-18T16:38:07.465963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Informasi yang menimbulkan risiko bagi individu atau masyarakat, termasuk ujaran kebencian, kekerasan, dan tindakan ilegal."
 ---
-
 ## Definition
 
 Konten berbahaya merujuk pada media digital atau teks yang dapat menyebabkan kerusakan fisik, psikologis, atau sosial. Dalam keamanan AI, mendeteksi dan memfilter konten semacam ini sangat krusial untuk mencegah model menghasilkan respons yang merugikan.

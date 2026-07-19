@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /pl/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:52:05.148779Z"
-lastmod: "2026-07-18T17:15:08.867238Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:52:05.148779Z'
+lastmod: '2026-07-18T17:15:08.867238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Potok implementujący architekturę Stable Diffusion 3, wyposażony w MMDiT i Flow Matching w celu poprawy jakości obrazu i renderowania tekstu."
+source: agnes_llm
+status: published
+language: pl
+description: Potok implementujący architekturę Stable Diffusion 3, wyposażony w MMDiT
+  i Flow Matching w celu poprawy jakości obrazu i renderowania tekstu.
 ---
-
 ## Definition
 
 Ten potok wykorzystuje model Stable Diffusion 3, który wprowadza architekturę Multimodal Diffusion Transformer (MMDiT) oraz cel trenowania Flow Matching. Te ulepszenia znacząco podnoszą...

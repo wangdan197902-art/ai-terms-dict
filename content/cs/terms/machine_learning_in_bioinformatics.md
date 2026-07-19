@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /cs/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:07:29.655451Z"
 lastmod: "2026-07-18T17:15:09.150849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Použití výpočetních modelů k analýze biologických dat, jako jsou genomové sekvence a struktury proteinů, za účelem objevu biologických poznatků."
 ---
-
 ## Definition
 
 Tento interdisciplinární obor využívá strojové učení k zpracování obrovských množství biologických dat, což výzkumníkům umožňuje předpovídat funkce genů, klasifikovat nemoci a chápat molekulární interakce. Algoritmy pomáhají identifikovat složité vzorce v biologických datech, které by byly lidskou analýzou obtížně postihnutelné.

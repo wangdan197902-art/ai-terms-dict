@@ -1,23 +1,24 @@
 ---
-title: "KI-Zusammenfassungen"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: KI-Zusammenfassungen
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /de/terms/ai_overviews/
-date: "2026-07-18T11:00:48.362750Z"
-lastmod: "2026-07-18T11:44:44.902704Z"
+slug: ai_overviews
+date: '2026-07-18T11:00:48.362750Z'
+lastmod: '2026-07-18T11:44:44.902704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Von KI-Modellen generierte zusammengefasste Antworten, die Informationen aus mehreren Quellen für schnelles Verständnis synthetisieren."
+source: agnes_llm
+status: published
+language: de
+description: Von KI-Modellen generierte zusammengefasste Antworten, die Informationen
+  aus mehreren Quellen für schnelles Verständnis synthetisieren.
 ---
-
 ## Definition
 
 KI-Zusammenfassungen sind kompakte Zusammenfassungen, die von großen Sprachmodellen erstellt werden und Daten aus verschiedenen Webquellen oder Datenbanken aggregieren und synthetisieren. Im Gegensatz zu traditionellen Suchergebnissen, die nur Links auflisten, bieten die...

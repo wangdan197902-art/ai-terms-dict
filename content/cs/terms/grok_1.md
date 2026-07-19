@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /cs/terms/grok_1/
 date: "2026-07-18T16:00:28.580280Z"
 lastmod: "2026-07-18T17:15:09.136518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "První verze jazykového modelu Grok vydaná společností xAI, která využívá architekturu směsi expertů (MoE) a má 33 miliard parametrů."
 ---
-
 ## Definition
 
 Grok-1 je první vydání od společnosti xAI, spuštěné v listopadu 2023. Jedná se o velký jazykový model založený na transformerech s architekturou pouze dekodéru a přibližně 33 miliardami parametrů. Významně využívá architekturu směsi expertů.

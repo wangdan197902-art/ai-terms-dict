@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /fr/terms/context_window/
 date: "2026-07-18T07:42:53.279806Z"
 lastmod: "2026-07-18T11:44:44.588765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La quantité maximale de texte ou de jetons qu'un modèle de langage peut traiter et prendre en compte simultanément lors de l'inférence ou de l'entraînement."
 ---
-
 ## Definition
 
 La fenêtre de contexte définit la limite opérationnelle de la mémoire d'un modèle d'IA pour une interaction unique. Elle détermine la quantité d'historique de conversation précédent, de texte de document ou de données d'entrée que le modèle peut prendre en compte pour générer une réponse cohérente.

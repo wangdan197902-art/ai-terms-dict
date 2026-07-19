@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /es/terms/agent/
 date: "2026-07-18T07:39:26.714082Z"
 lastmod: "2026-07-18T11:44:44.579858Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un sistema de IA capaz de percibir su entorno, razonar y realizar acciones para alcanzar objetivos específicos de forma autónoma."
 ---
-
 ## Definition
 
 En IA, un agente es una entidad que actúa en nombre de un usuario o sistema para completar tareas. A diferencia de los modelos pasivos que solo responden a prompts, los agentes pueden planificar, utilizar herramientas externas e iterar sobre sus acciones para resolver problemas complejos.

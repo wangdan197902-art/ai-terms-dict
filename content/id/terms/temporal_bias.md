@@ -1,23 +1,24 @@
 ---
-title: "Bias Temporal"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Bias Temporal
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /id/terms/temporal_bias/
-date: "2026-07-18T16:10:44.135643Z"
-lastmod: "2026-07-18T16:38:07.513083Z"
+slug: temporal_bias
+date: '2026-07-18T16:10:44.135643Z'
+lastmod: '2026-07-18T16:38:07.513083Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kesalahan sistematis di mana model memprioritaskan data terbaru dibandingkan konteks historis, yang menyebabkan prediksi yang menyimpang."
+source: agnes_llm
+status: published
+language: id
+description: Kesalahan sistematis di mana model memprioritaskan data terbaru dibandingkan
+  konteks historis, yang menyebabkan prediksi yang menyimpang.
 ---
-
 ## Definition
 
 Bias temporal terjadi ketika model pembelajaran mesin memberikan bobot yang tidak proporsional pada pengamatan terbaru dibandingkan dengan yang lebih lama, sering kali disebabkan oleh distribusi data yang tidak stasioner atau protokol pelatihan tertentu.

@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /it/terms/percept/
 date: "2026-07-18T16:15:44.770037Z"
 lastmod: "2026-07-18T17:15:08.657659Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La rappresentazione mentale o il risultato interpretato dell'input sensoriale elaborato da un perceptrone."
 ---
-
 ## Definition
 
 Un percetto è la rappresentazione interna di uno stimolo esterno dopo che è stato elaborato da un sistema percettivo. Nell'IA, questo corrisponde ai dati strutturati in uscita dal processo di basso livello dei segnali...

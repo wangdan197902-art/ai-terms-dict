@@ -1,23 +1,24 @@
 ---
-title: "كوين إديت (Qwen Edit)"
-term_id: "qwen_edit"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "editing", "productivity"]
+title: كوين إديت (Qwen Edit)
+term_id: qwen_edit
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- editing
+- productivity
 difficulty: 2
 weight: 1
-slug: "qwen_edit"
-aliases:
-  - /ar/terms/qwen_edit/
-date: "2026-07-18T16:18:22.125735Z"
-lastmod: "2026-07-18T17:15:08.541831Z"
+slug: qwen_edit
+date: '2026-07-18T16:18:22.125735Z'
+lastmod: '2026-07-18T17:15:08.541831Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير كوين إديت إلى القدرات أو النماذج ضمن نظام كوين البيئي والمركزة على تحرير النصوص والمحتوى."
+source: agnes_llm
+status: published
+language: ar
+description: يشير كوين إديت إلى القدرات أو النماذج ضمن نظام كوين البيئي والمركزة على
+  تحرير النصوص والمحتوى.
 ---
-
 ## Definition
 
 يُشير كوين إديت إلى وظائف أو تكرارات نموذجية محددة ضمن سلسلة كوين، والتي تم تحسينها لتحرير المحتوى النصي وصقله وإعادة هيكلته. تتيح هذه القدرات للمستخدمين إعادة صياغة النصوص وتحسينها.

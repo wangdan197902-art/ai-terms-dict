@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /fi/terms/generated/
 date: "2026-07-18T15:26:45.755747Z"
 lastmod: "2026-07-18T17:15:09.351269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Sisältö, joka on luotu tekoälymallin toimesta eikä suoraan haettu staattisesta tietokannasta."
 ---
-
 ## Definition
 
 Termi 'generoitu' kuvaa tuotantoa, jonka generatiiviset tekoälymallit tuottavat, kuten tekstiä, kuvia, ääntä tai koodia. Toisin kuin hakupohjaiset järjestelmät, jotka noutavat olemassa olevaa dataa, generatiiviset mallit syntetisoivat uutta sisältöä.

@@ -1,23 +1,23 @@
 ---
-title: "Коэффициент фи"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: Коэффициент фи
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /ru/terms/phi_coefficient/
-date: "2026-07-18T16:10:15.198505Z"
-lastmod: "2026-07-18T16:38:07.191724Z"
+slug: phi_coefficient
+date: '2026-07-18T16:10:15.198505Z'
+lastmod: '2026-07-18T16:38:07.191724Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Статистическая мера связи между двумя бинарными переменными."
+source: agnes_llm
+status: published
+language: ru
+description: Статистическая мера связи между двумя бинарными переменными.
 ---
-
 ## Definition
 
 Коэффициент фи (φ) — это мера ассоциации для двух бинарных переменных, служащая коэффициентом корреляции Пирсона для дихотомических переменных. Он принимает значения от -1 до +1, где 0 указывает на отсутствие связи.

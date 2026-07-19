@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /ja/terms/united_states_tech_force/
 date: "2026-07-18T11:35:35.634020Z"
 lastmod: "2026-07-18T11:44:45.153492Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "米国における技術革新を牽引する集合的な労働力を指す人口統計的・経済的用語。"
 ---
-
 ## Definition
 
 「米国テックフォース」という用語は、一般的に、ソフトウェアエンジニアリング、データサイエンス、ハードウェア製造などのテクノロジーセクターに従事するアメリカの労働市場の大きな部分を指します。この層は経済成長とイノベーションの主要な原動力となっています。

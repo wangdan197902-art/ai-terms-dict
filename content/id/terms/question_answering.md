@@ -1,23 +1,24 @@
 ---
-title: "Penjawab Pertanyaan"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Penjawab Pertanyaan
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /id/terms/question_answering/
-date: "2026-07-18T15:35:38.270818Z"
-lastmod: "2026-07-18T16:38:07.417856Z"
+slug: question_answering
+date: '2026-07-18T15:35:38.270818Z'
+lastmod: '2026-07-18T16:38:07.417856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Tugas NLP di mana sistem secara otomatis memberikan jawaban yang tepat untuk pertanyaan yang diajukan dalam bahasa alami."
+source: agnes_llm
+status: published
+language: id
+description: Tugas NLP di mana sistem secara otomatis memberikan jawaban yang tepat
+  untuk pertanyaan yang diajukan dalam bahasa alami.
 ---
-
 ## Definition
 
 Penjawab Pertanyaan (QA) melibatkan pengambilan atau pembuatan respons yang akurat terhadap kueri pengguna dari konteks atau basis pengetahuan yang diberikan. Cakupannya bervariasi dari QA domain tertutup yang bergantung pada dokumen spesifik, hingga QA domain terbuka yang mencari informasi dari sumber luas.

@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /ja/terms/self_attention/
 date: "2026-07-18T10:54:57.923562Z"
 lastmod: "2026-07-18T11:44:45.019323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ニューラルネットワークが入力シーケンスの異なる部分間の相対的な重要性を重み付けできるメカニズム。"
 ---
-
 ## Definition
 
 セルフアテンションにより、モデルは距離に関係なく、シーケンス内のすべての位置間の依存関係を同時に捉えることができます。すべてのトークンのペア間でアテンションスコアを計算することにより、これを実現します。

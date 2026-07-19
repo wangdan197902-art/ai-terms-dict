@@ -1,23 +1,23 @@
 ---
-title: "Подкрепление"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Подкрепление
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /ru/terms/reinforcement/
-date: "2026-07-18T15:28:41.190187Z"
-lastmod: "2026-07-18T16:38:07.088202Z"
+slug: reinforcement
+date: '2026-07-18T15:28:41.190187Z'
+lastmod: '2026-07-18T16:38:07.088202Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подкрепление относится к процессу изменения поведения через вознаграждения или наказания для оптимизации принятия решений."
+source: agnes_llm
+status: published
+language: ru
+description: Подкрепление относится к процессу изменения поведения через вознаграждения
+  или наказания для оптимизации принятия решений.
 ---
-
 ## Definition
 
 Подкрепление — это фундаментальный психологический и вычислительный механизм, при котором действия агента формируются под воздействием последствий. В машинном обучении этот процесс включает предоставление положительной обратной связи (вознаграждений) за правильные действия и отрицательной — за ошибки, что позволяет агенту учиться достигать поставленных целей.

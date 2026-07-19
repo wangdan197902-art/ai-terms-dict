@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /ja/terms/cybersecurity/
 date: "2026-07-18T11:09:32.733162Z"
 lastmod: "2026-07-18T11:44:45.082478Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "デジタル攻撃、不正アクセス、および損害からシステム、ネットワーク、プログラムを保護するための実践。"
 ---
-
 ## Definition
 
 サイバーセキュリティとは、ネットワーク、コンピュータ、プログラム、データを攻撃、破壊、または不正アクセスから保護するために設計された技術、プロセス、慣行の総称です。AIの文脈では、敵対的機械学習からの防御や、AIモデル自体のセキュリティ確保、およびクラウドサービスにおけるユーザーデータの保護などが含まれます。

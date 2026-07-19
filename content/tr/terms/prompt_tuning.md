@@ -1,23 +1,24 @@
 ---
-title: "Prompt Ayarlama"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt Ayarlama
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /tr/terms/prompt_tuning/
-date: "2026-07-18T16:10:20.830185Z"
-lastmod: "2026-07-18T16:38:07.352623Z"
+slug: prompt_tuning
+date: '2026-07-18T16:10:20.830185Z'
+lastmod: '2026-07-18T16:38:07.352623Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Tüm model ağırlıklarını güncellemek yerine, sürekli girdi gömme (embedding) değerlerini optimize eden parametre verimli bir ince ayar yöntemidir."
+source: agnes_llm
+status: published
+language: tr
+description: Tüm model ağırlıklarını güncellemek yerine, sürekli girdi gömme (embedding)
+  değerlerini optimize eden parametre verimli bir ince ayar yöntemidir.
 ---
-
 ## Definition
 
 Prompt ayarlama, altta yatan model parametreleri dondurulurken önceden eğitilmiş bir dil modelinin giriş katmanına eğitilebilir yumuşak promptlar (sürekli vektörler) eklemeyi içerir. Bu yaklaşım, modeli belirli görevlere uyarlamak için...

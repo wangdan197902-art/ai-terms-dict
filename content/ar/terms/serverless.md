@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /ar/terms/serverless/
 date: "2026-07-18T16:20:36.633130Z"
 lastmod: "2026-07-18T17:15:08.547520Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نموذج تنفيذ للحوسبة السحابية حيث يدير المزود ديناميكياً تخصيص موارد الحاسوب بدلاً من المستخدم."
 ---
-
 ## Definition
 
 تسمح البنية الخادمية للمطورين ببناء وتشغيل التطبيقات دون إدارة بنية الخوادم الأساسية. يقوم مزود السحابة تلقائياً بتوسيع نطاق الموارد أو تقليصها بناءً على الطلب، ويحسب الرسوم وفقاً للاستخدام الفعلي.

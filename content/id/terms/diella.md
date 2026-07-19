@@ -1,23 +1,23 @@
 ---
-title: "Diella"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /id/terms/diella/
-date: "2026-07-18T15:47:44.305350Z"
-lastmod: "2026-07-18T16:38:07.450207Z"
+slug: diella
+date: '2026-07-18T15:47:44.305350Z'
+lastmod: '2026-07-18T16:38:07.450207Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Arsitektur pembelajaran mendalam khusus yang dirancang untuk tugas super-resolusi dan restorasi gambar yang efisien."
+source: agnes_llm
+status: published
+language: id
+description: Arsitektur pembelajaran mendalam khusus yang dirancang untuk tugas super-resolusi
+  dan restorasi gambar yang efisien.
 ---
-
 ## Definition
 
 Diella merujuk pada model jaringan saraf tertentu yang dioptimalkan untuk meningkatkan kualitas gambar dengan meningkatkan resolusi atau menghilangkan noise. Arsitektur ini biasanya menggunakan mekanisme perhatian canggih atau...

@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /id/terms/automated_negotiation/
 date: "2026-07-18T15:40:11.946301Z"
 lastmod: "2026-07-18T16:38:07.431040Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Penggunaan agen AI untuk melakukan negosiasi secara otonom dan mencapai kesepakatan antarpihak."
 ---
-
 ## Definition
 
 Negosiasi otomatis melibatkan agen perangkat lunak yang mewakili kepentingan manusia dalam proses tawar-menawar. Agen-agen ini menggunakan teori permainan, algoritma optimasi, dan pembelajaran mesin untuk mengajukan penawaran, mengevaluasi respons, dan mencapai hasil yang optimal.

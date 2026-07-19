@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /zh/terms/source_attribution/
 date: "2026-07-18T11:34:33.031905Z"
 lastmod: "2026-07-18T11:44:45.555599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "识别并归因于生成特定内容或见解所使用的原始创作者或数据集的过程。"
 ---
-
 ## Definition
 
 来源归属是指对AI系统内数据、模型或生成输出的来源进行系统性追踪和标记。它通过将最终结果回溯到其源头来确保透明度，从而保障内容的可追溯性和原创性。

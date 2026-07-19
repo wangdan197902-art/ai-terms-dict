@@ -1,23 +1,24 @@
 ---
-title: "Diffusers:Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: Diffusers:Stablediffusionpipeline
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /zh/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T11:15:08.259652Z"
-lastmod: "2026-07-18T11:44:45.489888Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T11:15:08.259652Z'
+lastmod: '2026-07-18T11:44:45.489888Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "运行 Stable Diffusion v1.5 的标准管道，使用 U-Net 和 CLIP 编码器进行文生图生成。"
+source: agnes_llm
+status: published
+language: zh
+description: 运行 Stable Diffusion v1.5 的标准管道，使用 U-Net 和 CLIP 编码器进行文生图生成。
 ---
-
 ## Definition
 
 这是 Stable Diffusion v1.5 模型的基础管道，广泛用于通用文生图合成。它依赖 U-Net 去噪器和 CLIP 文本编码器将文本提示映射到……

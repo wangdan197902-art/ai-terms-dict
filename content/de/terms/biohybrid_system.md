@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /de/terms/biohybrid_system/
 date: "2026-07-18T11:05:59.512712Z"
 lastmod: "2026-07-18T11:44:44.915333Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein integriertes System, das biologische Komponenten mit künstlichen Geräten kombiniert, um die Funktionalität zu verbessern oder neue Fähigkeiten zu schaffen."
 ---
-
 ## Definition
 
 Biohybride Systeme verschmelzen lebendes Gewebe, Zellen oder Organismen mit synthetischen Materialien und elektronischen Geräten. Diese Systeme zielen darauf ab, die einzigartigen Eigenschaften biologischer Entitäten zu nutzen, wie zum Beispiel Selbstheilung oder Energieeffizienz, um leistungsfähigere und adaptivere Technologien zu entwickeln.

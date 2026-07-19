@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /zh/terms/grok/
 date: "2026-07-18T11:20:24.485218Z"
 lastmod: "2026-07-18T11:44:45.511559Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "由xAI开发的人工智能聊天机器人，集成于X平台，以其对社交媒体数据的实时访问能力和幽默风趣的性格而闻名。"
 ---
-
 ## Definition
 
 Grok是由埃隆·马斯克的公司xAI创建的大型语言模型聊天机器人。它主要面向X平台（前身为Twitter）的订阅用户开放。Grok的独特之处在于其实时访问社交媒体数据的能力，这使其能够提供基于最新事件的回答，并具备独特的“叛逆”或幽默的人格设定。与许多其他注重安全过滤的AI助手不同，Grok旨在提供更直接、更少受限的回答风格，从而在生成创意内容和处理时事话题时表现出不同的特点。

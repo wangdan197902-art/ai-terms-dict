@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /nl/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:14:52.969380Z"
 lastmod: "2026-07-18T17:15:08.782735Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een samenwerkingsleerparadigma waarbij mensen en machines continu van elkaar leren en hen onderwijzen om de prestaties te verbeteren."
 ---
-
 ## Definition
 
 Deze aanpak gaat verder dan eenvoudige mens-in-de-lus-labeling. Het omvat tweerichtings kennisoverdracht: mensen corrigeren modelfouten terwijl het model mensen helpt bij het identificeren van patronen of het automatiseren van taken, wat leidt tot een synergetisch leerproces.

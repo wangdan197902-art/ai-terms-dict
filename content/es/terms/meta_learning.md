@@ -1,23 +1,25 @@
 ---
-title: "Aprendizaje por metacomprensión"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: Aprendizaje por metacomprensión
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /es/terms/meta_learning/
-date: "2026-07-18T10:59:47.957533Z"
-lastmod: "2026-07-18T11:44:44.831223Z"
+slug: meta_learning
+date: '2026-07-18T10:59:47.957533Z'
+lastmod: '2026-07-18T11:44:44.831223Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El aprendizaje por metacomprensión, o aprender a aprender, es un enfoque de aprendizaje automático que permite a los modelos adaptarse rápidamente a nuevas tareas con mínimos datos, aprovechando la ex"
+source: agnes_llm
+status: published
+language: es
+description: El aprendizaje por metacomprensión, o aprender a aprender, es un enfoque
+  de aprendizaje automático que permite a los modelos adaptarse rápidamente a nuevas
+  tareas con mínimos datos, aprovechando la ex
 ---
-
 ## Definition
 
 El aprendizaje por metacomprensión se centra en diseñar algoritmos que puedan aprender de tareas anteriores para mejorar el rendimiento en nuevas tareas no vistas. En lugar de entrenar un modelo desde cero para cada problema, optimiza los procesos de aprendizaje para generalizar mejor.

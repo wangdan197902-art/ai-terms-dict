@@ -1,23 +1,25 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /fi/terms/locateanything/
-date: "2026-07-18T16:07:43.163427Z"
-lastmod: "2026-07-18T17:15:09.430291Z"
+slug: locateanything
+date: '2026-07-18T16:07:43.163427Z'
+lastmod: '2026-07-18T17:15:09.430291Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Avoin lähdekoodirunko, joka on suunniteltu nollanäytteen kohteiden paikantamiseen ja segmentointiin moninaisissa visuaalisissa domeeneissa ilman tehtävää kohdistettua koulutusta."
+source: agnes_llm
+status: published
+language: fi
+description: Avoin lähdekoodirunko, joka on suunniteltu nollanäytteen kohteiden paikantamiseen
+  ja segmentointiin moninaisissa visuaalisissa domeeneissa ilman tehtävää kohdistettua
+  koulutusta.
 ---
-
 ## Definition
 
 LocateAnything on monipuolinen tietokonenäkörunko, joka mahdollistaa kohteiden havaitsemisen ja segmentoinnin kuvista luonnollisen kielen kehotteiden tai yleisten ennakkotietojen perusteella. Se hyödyntää esikoulutettuja malleja, kuten perusmalleja, ymmärtääkseen visuaalista sisältöä kontekstissa ilman erillistä koulutusta jokaiselle yksittäiselle luokalle.

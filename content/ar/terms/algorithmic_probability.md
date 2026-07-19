@@ -1,23 +1,23 @@
 ---
-title: "الاحتمالية الخوارزمية"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: الاحتمالية الخوارزمية
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /ar/terms/algorithmic_probability/
-date: "2026-07-18T15:44:08.434151Z"
-lastmod: "2026-07-18T17:15:08.474461Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:44:08.434151Z'
+lastmod: '2026-07-18T17:15:08.474461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "مقياس نظري لاحتمالية أن ينتج برنامج عشوائي سلسلة إخراج محددة."
+source: agnes_llm
+status: published
+language: ar
+description: مقياس نظري لاحتمالية أن ينتج برنامج عشوائي سلسلة إخراج محددة.
 ---
-
 ## Definition
 
 الاحتمالية الخوارزمية، التي تستند إلى تعقيد كولموغوروف واستدلال سولومونوف، تعطي احتمالية أعلى للمخرجات الناتجة عن برامج أقصر. وتفترض أن التفسيرات الأبسط أكثر احتمالاً للصدور.

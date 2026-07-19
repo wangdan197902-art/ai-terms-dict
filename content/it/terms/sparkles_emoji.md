@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /it/terms/sparkles_emoji/
 date: "2026-07-18T16:21:54.130571Z"
 lastmod: "2026-07-18T17:15:08.670387Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un simbolo visivo spesso utilizzato nelle interfacce IA per indicare nuove funzionalità, miglioramenti o trasformazioni magiche nei contenuti generati."
 ---
-
 ## Definition
 
 L'emoji degli scintillii è un'icona grafica frequentemente impiegata nelle interfacce utente delle applicazioni di IA per segnalare novità, miglioramenti o potenziamenti creativi. Funziona come un segnale non verbale che indica all'utente che il contenuto è stato arricchito, aggiornato o che è stata applicata una trasformazione speciale, migliorando così l'esperienza utente e l'engagement visivo.

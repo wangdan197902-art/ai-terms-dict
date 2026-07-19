@@ -1,23 +1,25 @@
 ---
-title: "Divergensi"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergensi
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /id/terms/divergence/
-date: "2026-07-18T15:25:07.993980Z"
-lastmod: "2026-07-18T16:38:07.391218Z"
+slug: divergence
+date: '2026-07-18T15:25:07.993980Z'
+lastmod: '2026-07-18T16:38:07.391218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Divergensi mengacu pada kegagalan fungsi kerugian algoritma pembelajaran mesin untuk menurun selama pelatihan, yang mengakibatkan kinerja yang tidak stabil atau memburuk."
+source: agnes_llm
+status: published
+language: id
+description: Divergensi mengacu pada kegagalan fungsi kerugian algoritma pembelajaran
+  mesin untuk menurun selama pelatihan, yang mengakibatkan kinerja yang tidak stabil
+  atau memburuk.
 ---
-
 ## Definition
 
 Dalam konteks optimasi, divergensi terjadi ketika parameter model diperbarui dengan cara yang menyebabkan kerugian meningkat alih-alih menurun, sering kali menyebabkan nilai NaN atau gradien tak hingga. Ini biasanya disebabkan oleh tingkat pembelajaran yang terlalu tinggi atau masalah numerik.

@@ -1,23 +1,23 @@
 ---
-title: "鲁棒性"
-term_id: "robust"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_quality", "reliability", "performance"]
+title: 鲁棒性
+term_id: robust
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Quality
+- reliability
+- performance
 difficulty: 3
 weight: 1
-slug: "robust"
-aliases:
-  - /zh/terms/robust/
-date: "2026-07-18T10:54:27.024637Z"
-lastmod: "2026-07-18T11:44:45.383553Z"
+slug: robust
+date: '2026-07-18T10:54:27.024637Z'
+lastmod: '2026-07-18T11:44:45.383553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "描述AI模型或系统在面临噪声、错误或意外输入时保持性能的能力。"
+source: agnes_llm
+status: published
+language: zh
+description: 描述AI模型或系统在面临噪声、错误或意外输入时保持性能的能力。
 ---
-
 ## Definition
 
 在人工智能中，鲁棒性指模型对抗攻击、数据分布偏移或噪声输入的韧性。一个具有鲁棒性的算法即使在面对干扰时也能继续正确运行。

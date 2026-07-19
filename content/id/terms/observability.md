@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /id/terms/observability/
 date: "2026-07-18T16:02:46.155329Z"
 lastmod: "2026-07-18T16:38:07.489039Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Observabilitas adalah ukuran seberapa baik keadaan internal sistem dapat disimpulkan dari output eksternal seperti log, metrik, dan jejak."
 ---
-
 ## Definition
 
 Dalam rekayasa AI, observabilitas merujuk pada kemampuan untuk memahami keadaan internal sistem pembelajaran mesin yang kompleks dengan menganalisis output eksternalnya. Hal ini melampaui pemantauan tradisional

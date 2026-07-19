@@ -1,23 +1,22 @@
 ---
-title: "部署：Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 部署：Azure
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /zh/terms/deployazure/
-date: "2026-07-18T11:14:15.624776Z"
-lastmod: "2026-07-18T11:44:45.487095Z"
+slug: deployazure
+date: '2026-07-18T11:14:15.624776Z'
+lastmod: '2026-07-18T11:44:45.487095Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在微软 Azure 云基础设施服务上托管和运行机器学习模型的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 在微软 Azure 云基础设施服务上托管和运行机器学习模型的过程。
 ---
-
 ## Definition
 
 向 Azure 部署涉及利用云原生工具，如 Azure Machine Learning、Azure Kubernetes Service (AKS) 或 Azure Functions，以大规模提供机器学习模型服务。它包括管理计算资源、监控模型性能以及确保可扩展性。

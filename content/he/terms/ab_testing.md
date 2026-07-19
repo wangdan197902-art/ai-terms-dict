@@ -1,23 +1,24 @@
 ---
-title: "בדיקות A/B"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: בדיקות A/B
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /he/terms/ab_testing/
-date: "2026-07-18T15:39:29.841196Z"
-lastmod: "2026-07-18T17:15:09.506321Z"
+slug: ab_testing
+date: '2026-07-18T15:39:29.841196Z'
+lastmod: '2026-07-18T17:15:09.506321Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטה סטטיסטית להשוואה בין שתי גרסאות של משתנה כדי לקבוע איזו מהן מתפקדת טוב יותר."
+source: agnes_llm
+status: published
+language: he
+description: שיטה סטטיסטית להשוואה בין שתי גרסאות של משתנה כדי לקבוע איזו מהן מתפקדת
+  טוב יותר.
 ---
-
 ## Definition
 
 בדיקות A/B הן ניסוי מבוקר אקראי שבו משווים בין שתי וריאציות, A ו-B, כדי להעריך איזו מהן מניבה תוצאות טובות יותר במדד ספציפי. בהנדסת בינה מלאכותית, הכלי הזה קריטי לאופטימיזציה של מודלים ואסטרטגיות.

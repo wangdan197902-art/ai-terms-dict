@@ -1,23 +1,23 @@
 ---
-title: "بل / بدلاً من ذلك"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: بل / بدلاً من ذلك
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /ar/terms/rather/
-date: "2026-07-18T15:30:15.974542Z"
-lastmod: "2026-07-18T17:15:08.446660Z"
+slug: rather
+date: '2026-07-18T15:30:15.974542Z'
+lastmod: '2026-07-18T17:15:08.446660Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "في سياق الذكاء الاصطناعي، ليس 'بل' مصطلحاً تقنياً بحد ذاته، بل يظهر غالباً في الأوامر لتحديد التفضيل أو التصحيح."
+source: agnes_llm
+status: published
+language: ar
+description: في سياق الذكاء الاصطناعي، ليس 'بل' مصطلحاً تقنياً بحد ذاته، بل يظهر غالباً
+  في الأوامر لتحديد التفضيل أو التصحيح.
 ---
-
 ## Definition
 
 المصطلح 'بل' هو ظرف إنجليزي قياسي يشير إلى التفضيل أو التباين. في المجال المحدد للذكاء الاصطناعي والنماذج اللغوية الكبيرة، لا يشكل مفهوماً تقنياً متميزاً بحد ذاته، بل أداة صياغة.

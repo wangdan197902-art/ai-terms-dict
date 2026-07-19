@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /zh/terms/nso/
 date: "2026-07-18T11:28:35.905090Z"
 lastmod: "2026-07-18T11:44:45.537746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在人工智能语境中，NSO通常指神经符号优化，或涉及监控技术的特定组织实体（如NSO集团）。"
 ---
-
 ## Definition
 
 缩写词NSO的含义取决于具体语境。在技术AI研究中，它可能指神经符号优化，即将神经网络与符号逻辑相结合。然而，它也常指代NSO集团等特定组织。

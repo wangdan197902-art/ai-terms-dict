@@ -1,23 +1,24 @@
 ---
-title: "Dataset:Code Search Net"
-term_id: "datasetcode_search_net"
-category: "application_paradigms"
-subcategory: ""
-tags: ["code_search", "benchmarks", "developer_tools"]
+title: Dataset:Code Search Net
+term_id: datasetcode_search_net
+category: application_paradigms
+subcategory: ''
+tags:
+- Code Search
+- benchmarks
+- Developer Tools
 difficulty: 3
 weight: 1
-slug: "datasetcode_search_net"
-aliases:
-  - /de/terms/datasetcode_search_net/
-date: "2026-07-18T11:09:47.780655Z"
-lastmod: "2026-07-18T11:44:44.924938Z"
+slug: datasetcode_search_net
+date: '2026-07-18T11:09:47.780655Z'
+lastmod: '2026-07-18T11:44:44.924938Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Benchmark-Datensatz zur Bewertung von Code-Suchsystemen durch Paarung natürlichsprachlicher Abfragen mit relevanten Code-Snippets."
+source: agnes_llm
+status: published
+language: de
+description: Ein Benchmark-Datensatz zur Bewertung von Code-Suchsystemen durch Paarung
+  natürlichsprachlicher Abfragen mit relevanten Code-Snippets.
 ---
-
 ## Definition
 
 Code Search Net ist ein umfassender Datensatz, der entwickelt wurde, um die Forschung im Bereich der Codesuche voranzutreiben. Er enthält Millionen von Paaren aus natürlichen Sprachbeschreibungen und entsprechenden Java-Code-Snippets. Diese Daten...

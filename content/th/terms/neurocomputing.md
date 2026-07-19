@@ -1,23 +1,24 @@
 ---
-title: "การประมวลผลประสาทเทียม"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: การประมวลผลประสาทเทียม
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /th/terms/neurocomputing/
-date: "2026-07-18T16:08:08.826248Z"
-lastmod: "2026-07-18T16:38:07.636461Z"
+slug: neurocomputing
+date: '2026-07-18T16:08:08.826248Z'
+lastmod: '2026-07-18T16:38:07.636461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การประมวลผลประสาทเทียมเป็นสหสาขาวิชาที่ผสมผสานระหว่างประสาทวิทยาศาสตร์ วิทยาการคอมพิวเตอร์ และวิศวกรรมศาสตร์ เพื่อพัฒนาแบบจำลองการคำนวณที่ได้รับแรงบันดาลใจจากระบบประสาทชีวภาพ"
+source: agnes_llm
+status: published
+language: th
+description: การประมวลผลประสาทเทียมเป็นสหสาขาวิชาที่ผสมผสานระหว่างประสาทวิทยาศาสตร์
+  วิทยาการคอมพิวเตอร์ และวิศวกรรมศาสตร์ เพื่อพัฒนาแบบจำลองการคำนวณที่ได้รับแรงบันดาลใจจากระบบประสาทชีวภาพ
 ---
-
 ## Definition
 
 สาขานี้มุ่งเน้นการสร้างสถาปัตยกรรมฮาร์ดแวร์และซอฟต์แวร์ที่เลียนแบบโครงสร้างและการทำงานของสมองมนุษย์ ซึ่งครอบคลุมถึงเครือข่ายประสาทเทียม ชิปนิวโรมอร์ฟิก และระบบปัญญาประดิษฐ์เชิงรับรู้

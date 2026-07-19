@@ -1,23 +1,24 @@
 ---
-title: "Pembelajaran Fitur"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Pembelajaran Fitur
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /id/terms/feature_learning/
-date: "2026-07-18T15:50:36.790449Z"
-lastmod: "2026-07-18T16:38:07.457988Z"
+slug: feature_learning
+date: '2026-07-18T15:50:36.790449Z'
+lastmod: '2026-07-18T16:38:07.457988Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pendekatan di mana algoritma secara otomatis menemukan fitur yang diperlukan untuk deteksi atau klasifikasi dari data mentah."
+source: agnes_llm
+status: published
+language: id
+description: Pendekatan di mana algoritma secara otomatis menemukan fitur yang diperlukan
+  untuk deteksi atau klasifikasi dari data mentah.
 ---
-
 ## Definition
 
 Pembelajaran fitur, yang sering dikaitkan dengan pembelajaran mendalam (deep learning), memungkinkan model untuk mempelajari representasi hierarkis secara langsung dari data masukan mentah, alih-alih mengandalkan rekayasa fitur manual. Melalui lapisan-lapisan jaringan, model mampu mengekstrak pola kompleks yang semakin abstrak.

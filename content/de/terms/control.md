@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /de/terms/control/
 date: "2026-07-18T10:49:09.031425Z"
 lastmod: "2026-07-18T11:44:44.870925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess des Managements, der Lenkung oder Regulierung des Verhaltens und des Zustands eines Systems, um gewünschte Ergebnisse zu erzielen."
 ---
-
 ## Definition
 
 In der künstlichen Intelligenz bezeichnet Steuerung die Mechanismen und Algorithmen, die verwendet werden, um die Aktionen eines Systems basierend auf aktuellen Zuständen und Zielen zu lenken. Dies umfasst Regelkreise, bei denen die Ausgabe überwacht wird, um Anpassungen vorzunehmen.

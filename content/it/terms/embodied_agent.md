@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /it/terms/embodied_agent/
 date: "2026-07-18T15:57:52.885676Z"
 lastmod: "2026-07-18T17:15:08.622339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un agente incarnato è un sistema di IA che interagisce con il proprio ambiente attraverso un corpo fisico o un apparato sensomotorio."
 ---
-
 ## Definition
 
 A differenza dell'IA disincarnata che elabora dati astratti, gli agenti incarnati apprendono ed agiscono in un contesto fisico, facendo affidamento su input sensoriali e output motori. Questo paradigma è centrale nella robotica e nei sistemi autonomi.

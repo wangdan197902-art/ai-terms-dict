@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /fi/terms/non_human/
 date: "2026-07-18T16:12:54.846653Z"
 lastmod: "2026-07-18T17:15:09.439477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Teekoälyn etiikassa ja sosiologiassa 'epäihminen' viittaa tekoälyolioihin tai -järjestelmiin, joilla on agenssia, älykkyyttä tai sosiaalista läsnäoloa, mutta jotka puuttuvat biologisesta tietoisuudest"
 ---
-
 ## Definition
 
 Tätä termiä käytetään usein keskusteluissa, jotka koskevat tekoälyagenttien, robotien ja virtuaaliassistenttien oikeuksia, vastuita ja sosiaalista integroitumista. Se korostaa eroa biologisen ihmisen ja tekoälyn välillä.

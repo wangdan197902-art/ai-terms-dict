@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /ja/terms/cognitive_computing/
 date: "2026-07-18T11:07:57.162675Z"
 lastmod: "2026-07-18T11:44:45.077634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "認知コンピューティングは、人工知能を使用して人間の脳機能を模倣し、コンピュータ化されたモデルの中で人間の思考過程をシミュレートするシステムを指します。"
 ---
-
 ## Definition
 
 認知コンピューティングは、人間と自然に対話しながら、同時に人間の脳の処理過程をシミュレートすることを目指す人工知能の一分野です。これらのシステムは、機械学習、ディープラーニング、自然言語処理などの技術を活用し、不確実性や曖昧さを処理しつつ、パターン認識や推論を行います。

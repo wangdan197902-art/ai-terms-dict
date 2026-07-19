@@ -7,8 +7,6 @@ tags: ["agents", "simulation", "interaction", "general"]
 difficulty: 2
 weight: 1
 slug: "virtual_intelligence"
-aliases:
-  - /ja/terms/virtual_intelligence/
 date: "2026-07-18T11:36:08.593529Z"
 lastmod: "2026-07-18T11:44:45.154065Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "バーチャルインテリジェンスは、デジタル環境内で動作し、人間のような相互作用、意思決定、または自律性をシミュレートするAIシステムを広く記述する用語です。"
 ---
-
 ## Definition
 
 バーチャルインテリジェンスは、仮想またはデジタル空間内で機能するように設計されたあらゆる人工知能システム encompass しており、しばしばユーザーや他のエージェントと対話します。これにはバーチャルアシスタント...

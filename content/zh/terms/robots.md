@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /zh/terms/robots/
 date: "2026-07-18T10:54:27.024623Z"
 lastmod: "2026-07-18T11:44:45.383439Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指代多个旨在自主执行任务的可编程机器的复数形式。"
 ---
-
 ## Definition
 
 机器人涵盖了一类多样化的机器，可根据其移动能力、结构或应用领域进行分类。该类别包括工业机械臂、自主移动机器人（AMR）、无人机等。

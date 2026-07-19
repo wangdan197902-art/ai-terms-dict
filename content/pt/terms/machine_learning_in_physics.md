@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /pt/terms/machine_learning_in_physics/
 date: "2026-07-18T15:09:30.391187Z"
 lastmod: "2026-07-18T15:51:59.510379Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A aplicação de aprendizado de máquina para resolver problemas físicos complexos, simular sistemas quânticos e analisar dados experimentais de aceleradores de partículas."
 ---
-
 ## Definition
 
 Na física, o aprendizado de máquina auxilia na simulação da mecânica quântica, na análise de dados de colisões de alta energia e na descoberta de novos materiais. Ele ajuda os físicos a navegar por espaços de parâmetros de alta dimensão e a identificar padrões em grandes conjuntos de dados experimentais.

@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /he/terms/algorithmic_inference/
 date: "2026-07-18T15:41:31.892740Z"
 lastmod: "2026-07-18T17:15:09.511350Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הסקה אלגוריתמית היא התהליך שבו מודל למידת מכונה מאומן מיישם דפוסים שלמד על נתונים חדשים ולא נראו בעבר כדי לבצע תחזיות או החלטות."
 ---
-
 ## Definition
 
 ידוע גם כחיזוי או ציון (Scoring), ההסקה מתרחשת לאחר שלב אימון המודל. האלגוריתם לוקח תכני קלט, מעבד אותם דרך המבנה הפנימי שלו (כגון משקלים ברשת נוירונלית) ומפיק תוצאה.

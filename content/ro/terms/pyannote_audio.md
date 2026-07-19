@@ -1,23 +1,25 @@
 ---
-title: "Pyannote Audio"
-term_id: "pyannote_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-analysis", "deep-learning", "toolkit"]
+title: Pyannote Audio
+term_id: pyannote_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Analysis
+- Deep Learning
+- toolkit
 difficulty: 3
 weight: 1
-slug: "pyannote_audio"
-aliases:
-  - /ro/terms/pyannote_audio/
-date: "2026-07-18T16:17:37.963024Z"
-lastmod: "2026-07-18T17:15:09.694987Z"
+slug: pyannote_audio
+date: '2026-07-18T16:17:37.963024Z'
+lastmod: '2026-07-18T17:15:09.694987Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Pyannote Audio este un kit modular pentru construirea de fluxuri de lucru (pipelines) de diarizare a vorbitorilor, dotat cu modele de rețele neuronale preantrenate pentru analiza audio."
+source: agnes_llm
+status: published
+language: ro
+description: Pyannote Audio este un kit modular pentru construirea de fluxuri de lucru
+  (pipelines) de diarizare a vorbitorilor, dotat cu modele de rețele neuronale preantrenate
+  pentru analiza audio.
 ---
-
 ## Definition
 
 Pyannote Audio este un kit complet conceput să faciliteze dezvoltarea și implementarea sistemelor de diarizare a vorbitorilor. Oferă o colecție de modele de rețele neuronale preantrenate pentru diverse sarcini de analiză audio, permițând utilizatorilor să adapteze și să optimizeze procesele de identificare a vorbitorilor.

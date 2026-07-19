@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /hu/terms/knowledge_cutoff/
 date: "2026-07-18T16:07:05.793621Z"
 lastmod: "2026-07-18T17:15:09.799666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A tudás lezárás az a konkrét dátum, amely után egy nyelvi modellt nem képeztek tovább, így nem rendelkezik e dátum után bekövetkezett eseményekkel kapcsolatos információkkal."
 ---
-
 ## Definition
 
 A tudás lezárásának dátuma meghatározza egy nyelvi modell képzési adatainak időbeli határát. Bármilyen információ, esemény vagy fejlesztés, amely ezen a dátumon után történt, általában ismeretlen marad a modell

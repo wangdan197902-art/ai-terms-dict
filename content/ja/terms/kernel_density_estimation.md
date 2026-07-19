@@ -1,23 +1,23 @@
 ---
-title: "カーネル密度推定"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: カーネル密度推定
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /ja/terms/kernel_density_estimation/
-date: "2026-07-18T11:20:29.257234Z"
-lastmod: "2026-07-18T11:44:45.111903Z"
+slug: kernel_density_estimation
+date: '2026-07-18T11:20:29.257234Z'
+lastmod: '2026-07-18T11:44:45.111903Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "有限のデータサンプルに基づいて、確率変数の確率密度関数を推定するために使用される非パラメトリック手法。"
+source: agnes_llm
+status: published
+language: ja
+description: 有限のデータサンプルに基づいて、確率変数の確率密度関数を推定するために使用される非パラメトリック手法。
 ---
-
 ## Definition
 
 カーネル密度推定（KDE）は、離散データポイントを平滑化して連続的な確率分布曲線を作成する基本的な統計的手法です。通常、ガウス関数などのカーネル関数が各データポイントに配置され、全体の密度が推定されます。

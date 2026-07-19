@@ -1,23 +1,25 @@
 ---
-title: "Durata della correlazione"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Durata della correlazione
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /it/terms/life_time_of_correlation/
-date: "2026-07-18T16:08:01.928407Z"
-lastmod: "2026-07-18T17:15:08.643299Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:08:01.928407Z'
+lastmod: '2026-07-18T17:15:08.643299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una metrica che stima per quanto tempo una relazione statistica tra variabili rimane stabile prima di decadere a causa del drift concettuale o dei cambiamenti ambientali."
+source: agnes_llm
+status: published
+language: it
+description: Una metrica che stima per quanto tempo una relazione statistica tra variabili
+  rimane stabile prima di decadere a causa del drift concettuale o dei cambiamenti
+  ambientali.
 ---
-
 ## Definition
 
 Nei sistemi dinamici e nell'analisi delle serie temporali, la durata della correlazione misura la durata durante la quale due variabili mantengono una dipendenza statistica significativa. Questo concetto è cruciale per comprendere

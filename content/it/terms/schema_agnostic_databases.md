@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /it/terms/schema_agnostic_databases/
 date: "2026-07-18T16:20:39.321682Z"
 lastmod: "2026-07-18T17:15:08.667154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "I database agnostici rispetto allo schema sono sistemi di archiviazione che consentono strutture di dati flessibili senza richiedere schemi predefiniti, spesso utilizzati negli ambienti NoSQL."
 ---
-
 ## Definition
 
 Questi database abilitano la modellazione dinamica dei dati senza imporre strutture rigide o definizioni di colonne in anticipo. Questa flessibilità consente agli sviluppatori di memorizzare dati non strutturati o semi-strutturati, adattandosi rapidamente ai cambiamenti.

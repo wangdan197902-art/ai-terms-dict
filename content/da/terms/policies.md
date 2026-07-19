@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /da/terms/policies/
 date: "2026-07-18T15:28:17.939642Z"
 lastmod: "2026-07-18T17:15:09.230753Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En samling af retningslinjer, regler eller protokoller, der er etableret af en organisation til at styre adfærd, beslutningstagning og driftsstandarder."
 ---
-
 ## Definition
 
 I konteksten af kunstig intelligens og teknologistyring refererer politikker til de formaliserede rammer, der dikterer, hvordan AI-systemer skal udvikles, implementeres og overvåges. Disse dokumenter...

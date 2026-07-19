@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /ar/terms/out_of_distribution/
 date: "2026-07-18T15:34:43.413603Z"
 lastmod: "2026-07-18T17:15:08.456819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نقاط بيانات تختلف بشكل كبير عن التوزيع الذي شوهد خلال مرحلة تدريب النموذج."
 ---
-
 ## Definition
 
 يكشف اكتشاف البيانات خارج التوزيع (OOD) عن المدخلات التي تقع خارج نطاق توزيع بيانات التدريب. غالبًا ما تؤدي النماذج إلى أداء ضعيف أو ثقة خاطئة عالية عند التعامل مع بيانات OOD، مما يؤدي إلى عدم موثوقية

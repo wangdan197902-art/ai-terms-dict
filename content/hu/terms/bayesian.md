@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /hu/terms/bayesian/
 date: "2026-07-18T15:23:41.245482Z"
 lastmod: "2026-07-18T17:15:09.715843Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Bayes-tételre épülő statisztikai módszerekre utal, amelyek frissítik a valószínűségeket új bizonyítékok alapján."
 ---
-
 ## Definition
 
 Az AI-ban a bayesi megközelítések a valószínűségszámítás elméletét használják a hipotézisek valószínűségének frissítésére, ahogy több bizonyíték válik elérhetővé. Ez a módszer lehetővé teszi a modellek számára, hogy kvantifikálják a bizonytalanságot, és dinamikusan finomítsák a predikciókat.

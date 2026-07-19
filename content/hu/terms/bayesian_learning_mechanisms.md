@@ -7,8 +7,6 @@ tags: ["probabilistic", "uncertainty", "inference"]
 difficulty: 4
 weight: 1
 slug: "bayesian_learning_mechanisms"
-aliases:
-  - /hu/terms/bayesian_learning_mechanisms/
 date: "2026-07-18T15:47:14.891122Z"
 lastmod: "2026-07-18T17:15:09.759022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Tanulási paradigmák, amelyek a modellszabályozókat valószínűségi eloszlásokkal rendelkező véletlen változókként kezelik, nem pedig rögzített értékként."
 ---
-
 ## Definition
 
 A bayesi tanulási mechanizmusok Bayes-tétel segítségével frissítik a modellszabályozókhoz fűződő hitet, kombinálva a korábbi tudást a megfigyelt adatokkal a poszterior eloszlás kialakításához. A frekvenciista megközelítésektől eltérően

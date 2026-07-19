@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /sv/terms/flow_based_generative_model/
 date: "2026-07-18T15:58:04.818060Z"
 lastmod: "2026-07-18T17:15:09.004334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En klass av generativa modeller som använder inverterbara transformationer för att mappa enkla fördelningar till komplexa datafördelningar."
 ---
-
 ## Definition
 
 Flödesbaserade generativa modeller konstruerar komplexa sannolikhetsfördelningar genom att applicera en serie av inverterbara och deriverbara transformationer på en enkel basfördelning, såsom en Gaussisk fördelning. Eftersom transformationerna är inverterbara kan både sannolikheten och genererade data beräknas exakt.

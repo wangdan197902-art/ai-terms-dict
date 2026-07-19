@@ -1,23 +1,25 @@
 ---
-title: "Cross-validatie met één uitgesloten steekproef"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Cross-validatie met één uitgesloten steekproef
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /nl/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:04:29.089140Z"
-lastmod: "2026-07-18T17:15:08.761594Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:04:29.089140Z'
+lastmod: '2026-07-18T17:15:08.761594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een rigoureuze resampling-techniek waarbij het model wordt getraind op alle steekproeven behalve één, en getest op die ene achtergehouden steekproef, herhaald voor elk datapunt."
+source: agnes_llm
+status: published
+language: nl
+description: Een rigoureuze resampling-techniek waarbij het model wordt getraind op
+  alle steekproeven behalve één, en getest op die ene achtergehouden steekproef, herhaald
+  voor elk datapunt.
 ---
-
 ## Definition
 
 Cross-validatie met één uitgesloten steekproef (LOOCV) is een specifiek geval van k-voudige cross-validatie waarbij k gelijk is aan het aantal steekproeven in de dataset. Het biedt een bijna onbevooroordeeld schatting van de modelprestaties door elke steekproef één keer als testset te gebruiken terwijl de rest als trainingsset dient.

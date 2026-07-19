@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /fr/terms/gaussian/
 date: "2026-07-18T10:50:34.288045Z"
 lastmod: "2026-07-18T11:44:45.163517Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Relatif à la distribution normale, une courbe en cloche fondamentale pour les statistiques et la modélisation du bruit en IA."
 ---
-
 ## Definition
 
 Le terme gaussien fait référence à la distribution normale, une distribution de probabilité continue caractérisée par sa moyenne et sa variance. En IA, il est largement utilisé dans la modélisation probabiliste, l'inférence bayésienne et

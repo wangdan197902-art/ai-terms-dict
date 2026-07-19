@@ -1,23 +1,24 @@
 ---
-title: "Propagazione dell'aspettativa"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: Propagazione dell'aspettativa
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /it/terms/expectation_propagation/
-date: "2026-07-18T15:58:57.465545Z"
-lastmod: "2026-07-18T17:15:08.624300Z"
+slug: expectation_propagation
+date: '2026-07-18T15:58:57.465545Z'
+lastmod: '2026-07-18T17:15:08.624300Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un algoritmo di inferenza approssimata utilizzato per stimare le distribuzioni a posteriori in modelli grafici probabilistici complessi."
+source: agnes_llm
+status: published
+language: it
+description: Un algoritmo di inferenza approssimata utilizzato per stimare le distribuzioni
+  a posteriori in modelli grafici probabilistici complessi.
 ---
-
 ## Definition
 
 La Propagazione dell'Aspettativa (EP) approssima integrali intrattabili affinando iterativamente approssimazioni gaussiane della vera distribuzione a posteriori. Minimizza la divergenza di Kullback-Leibler tra...

@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /ja/terms/lynda_soderholm/
 date: "2026-07-18T11:22:38.835253Z"
 lastmod: "2026-07-18T11:44:45.118144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "リンダ・ソダーホルムは、AI倫理、責任あるイノベーション、および人工知能の社会的影響への貢献で知られる、著名な研究者かつ経営者です。"
 ---
-
 ## Definition
 
 リンダ・ソダーホルムは、特にAI開発と倫理的ガバナンスの交差点における活動が注目される、テクノロジー分野で認知された人物です。企業責任のリーダーとして、

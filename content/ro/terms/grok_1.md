@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /ro/terms/grok_1/
 date: "2026-07-18T16:01:44.610285Z"
 lastmod: "2026-07-18T17:15:09.662790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Prima versiune a modelului lingvistic Grok lansată de xAI, care prezintă o arhitectură Mixture-of-Experts și un număr de 33 de miliarde de parametri."
 ---
-
 ## Definition
 
 Grok-1 este lansarea inaugurală a xAI, debutând în noiembrie 2023. Este un model lingvistic mare bazat pe transformator, cu decodare unică, având aproximativ 33 de miliarde de parametri. În mod remarcabil, utilizează o arhitectură Mixtur...

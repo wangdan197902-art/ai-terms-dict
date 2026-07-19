@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /ro/terms/context_window/
 date: "2026-07-18T15:22:54.977574Z"
 lastmod: "2026-07-18T17:15:09.587788Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Cantitatea maximă de text sau tokeni pe care un model lingvistic o poate procesa și lua în considerare simultan în timpul inferenței sau antrenamentului."
 ---
-
 ## Definition
 
 Fereastra de context definește limita operațională a memoriei unui model AI pentru o singură interacțiune. Aceasta determină cât din istoricul conversației anterioare, textul documentului sau datele de intrare poate fi luat în considerare de model pentru a genera răspunsuri coerente.

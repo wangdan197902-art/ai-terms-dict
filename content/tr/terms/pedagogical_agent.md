@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /tr/terms/pedagogical_agent/
 date: "2026-07-18T16:08:15.151730Z"
 lastmod: "2026-07-18T16:38:07.346142Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Öğretim, geri bildirim ve rehberlik sağlayarak öğrenmeyi kolaylaştırmak üzere tasarlanmış yapay zeka varlığı."
 ---
-
 ## Definition
 
 Pedagojik ajan, eğitim ortamlarında öğretmen veya eğitmen olarak hareket eden, genellikle sanal bir karakter olarak somutlaştırılan bir yazılım bileşenidir. Bu ajanlar, doğal dil işleme ve diğer yapay zeka tekniklerini kullanarak kullanıcılarla etkileşime girer.

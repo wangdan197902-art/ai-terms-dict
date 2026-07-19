@@ -7,8 +7,6 @@ tags: ["scaling", "LLM", "empirical"]
 difficulty: 3
 weight: 1
 slug: "neural_scaling_law"
-aliases:
-  - /fi/terms/neural_scaling_law/
 date: "2026-07-18T16:12:40.086246Z"
 lastmod: "2026-07-18T17:15:09.438928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Empiiriset suhteet, jotka ennustavat mallin suorituskyvyn paranevan datan, parametrien tai laskentatehon lisääntyessä."
 ---
-
 ## Definition
 
 Neuraaliset skaalauslait kuvaavat ennustettavaa potenssilakisuhdetta mallin suorituskyvyn ja sen mittakaavan välillä, mukaan lukien datamäärän, parametrimäärän ja laskentabudjetin. Nämä lait viittaavat siihen, että...

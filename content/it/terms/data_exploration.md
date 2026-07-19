@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /it/terms/data_exploration/
 date: "2026-07-18T15:54:13.674675Z"
 lastmod: "2026-07-18T17:15:08.612267Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'analisi iniziale dei dataset per scoprire pattern, individuare anomalie e testare ipotesi prima della modellazione formale."
 ---
-
 ## Definition
 
 L'esplorazione dei dati, spesso chiamata Analisi Esplorativa dei Dati (EDA), è un passaggio preliminare critico nei flussi di lavoro di machine learning. Coinvolge la sintesi delle caratteristiche principali dei dati, utilizzando frequentemente tecniche di visualizzazione e statistica descrittiva per comprendere la struttura sottostante e identificare potenziali problemi prima di procedere con l'addestramento dei modelli.

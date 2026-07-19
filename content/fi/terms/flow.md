@@ -7,8 +7,6 @@ tags: ["architecture", "data"]
 difficulty: 2
 weight: 1
 slug: "flow"
-aliases:
-  - /fi/terms/flow/
 date: "2026-07-18T15:26:31.606270Z"
 lastmod: "2026-07-18T17:15:09.350646Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Datavirtaus kuvaa tiedon liikettä ja muuntumista eri vaiheiden läpi AI-käsittelyputkessa."
 ---
-
 ## Definition
 
 Datavirtaus kattaa datan reitin keräämisestä lopputulokseen AI-järjestelmässä, mukaan lukien esikäsittely, ominaisuuksien erottaminen, mallin johtopäätöksenteko ja jälkikäsittely. Tehokas datavirran hallinta on keskeistä.

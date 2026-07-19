@@ -1,23 +1,24 @@
 ---
-title: "אסטרונומיה מונעת נתונים"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: אסטרונומיה מונעת נתונים
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /he/terms/data_driven_astronomy/
-date: "2026-07-18T15:51:22.060890Z"
-lastmod: "2026-07-18T17:15:09.526244Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:51:22.060890Z'
+lastmod: '2026-07-18T17:15:09.526244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "יישום של ניתוח נתונים בקנה מידה גדול וטכניקות למידת מכונה לחילוץ תובנות מתצפיות אסטרונומיות."
+source: agnes_llm
+status: published
+language: he
+description: יישום של ניתוח נתונים בקנה מידה גדול וטכניקות למידת מכונה לחילוץ תובנות
+  מתצפיות אסטרונומיות.
 ---
-
 ## Definition
 
 אסטרונומיה מונעת נתונים משתמשת בשיטות חישוב מתקדמות, כולל למידת מכונה וניתוח סטטיסטי, כדי להתמודד עם נפחי הנתונים העצומים שנוצרים על ידי טלסקופים ומיפויים מודרניים.

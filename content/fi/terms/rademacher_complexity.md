@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /fi/terms/rademacher_complexity/
 date: "2026-07-18T16:18:30.597874Z"
 lastmod: "2026-07-18T17:15:09.453356Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tilastollinen mittari, jota käytetään oppimisteoriassa funktion luokan rikkauden kvantifioimiseen sen kyvyn perusteella sovittaa satunnaista kohinaa."
 ---
-
 ## Definition
 
 Rademacherin monimutkaisuus arvioi, kuinka hyvin hypoteesiluokka pystyy korreloimaan satunnaisiin tunnisteisiin (kohinaan). Se toimii mallin kapasiteetin tai joustavuuden indikaattorina. Matalampi monimutkaisuus viittaa parempaan yleistymiskykyyn.

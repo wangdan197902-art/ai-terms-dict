@@ -1,23 +1,25 @@
 ---
-title: "Veri Seti: Wikipedia"
-term_id: "datasetwikipedia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "Datasets", "Pre-training"]
+title: 'Veri Seti: Wikipedia'
+term_id: datasetwikipedia
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Datasets
+- Pre-Training
 difficulty: 1
 weight: 1
-slug: "datasetwikipedia"
-aliases:
-  - /tr/terms/datasetwikipedia/
-date: "2026-07-18T15:48:43.523240Z"
-lastmod: "2026-07-18T16:38:07.295138Z"
+slug: datasetwikipedia
+date: '2026-07-18T15:48:43.523240Z'
+lastmod: '2026-07-18T16:38:07.295138Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Dil modellerinin önceden eğitilmesi ve bilgi yoğunluklu doğal dil işleme görevleri için temel bir korpus olarak hizmet veren, Wikipedia'daki devasa metin koleksiyonu."
+source: agnes_llm
+status: published
+language: tr
+description: Dil modellerinin önceden eğitilmesi ve bilgi yoğunluklu doğal dil işleme
+  görevleri için temel bir korpus olarak hizmet veren, Wikipedia'daki devasa metin
+  koleksiyonu.
 ---
-
 ## Definition
 
 Wikipedia, metin formatında mevcut olan insan bilgisinin en büyük ve kapsamlı koleksiyonlarından biridir. Yapay zeka alanında, büyük dil modellerinin önceden eğitilmesi için birincil kaynak olarak hizmet eder ve çeşitli dillerde zengin dilbilimsel çeşitlilik ile geniş kapsamlı bilgi sağlar.

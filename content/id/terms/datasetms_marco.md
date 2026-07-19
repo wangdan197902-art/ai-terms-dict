@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: Dataset:Ms Marco
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /id/terms/datasetms_marco/
-date: "2026-07-18T15:46:18.947318Z"
-lastmod: "2026-07-18T16:38:07.445885Z"
+slug: datasetms_marco
+date: '2026-07-18T15:46:18.947318Z'
+lastmod: '2026-07-18T16:38:07.445885Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dataset Pemahaman Membaca Mesin Microsoft, kumpulan skala besar dari kueri pencarian nyata dan cuplikan dokumen relevan yang digunakan untuk melatih sistem pengambilan informasi."
+source: agnes_llm
+status: published
+language: id
+description: Dataset Pemahaman Membaca Mesin Microsoft, kumpulan skala besar dari
+  kueri pencarian nyata dan cuplikan dokumen relevan yang digunakan untuk melatih
+  sistem pengambilan informasi.
 ---
-
 ## Definition
 
 MS MARCO (Microsoft Machine Reading Comprehension) adalah dataset yang banyak digunakan dalam pemrosesan bahasa alami, khususnya untuk pengambilan informasi dan pertanyaan-jawaban. Dataset ini terdiri dari kueri pencarian anonim...

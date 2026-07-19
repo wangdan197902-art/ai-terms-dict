@@ -1,23 +1,24 @@
 ---
-title: "Komputer Wetware"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Komputer Wetware
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /id/terms/wetware_computer/
-date: "2026-07-18T16:13:33.331326Z"
-lastmod: "2026-07-18T16:38:07.519802Z"
+slug: wetware_computer
+date: '2026-07-18T16:13:33.331326Z'
+lastmod: '2026-07-18T16:38:07.519802Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sistem komputasi biologis yang memanfaatkan jaringan saraf hidup, seperti sel otak, untuk memproses informasi."
+source: agnes_llm
+status: published
+language: id
+description: Sistem komputasi biologis yang memanfaatkan jaringan saraf hidup, seperti
+  sel otak, untuk memproses informasi.
 ---
-
 ## Definition
 
 Komputasi wetware mengacu pada sistem di mana neuron biologis, sering kali dikultur secara in vitro, berfungsi sebagai unit pemrosesan utama alih-alih perangkat keras berbasis silikon tradisional. Sistem ini memanfaatkan plastisitas saraf dan kemampuan adaptif jaringan biologis untuk melakukan komputasi dengan efisiensi energi yang tinggi serta kemampuan pembelajaran yang unik dibandingkan dengan arsitektur komputer konvensional.

@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /hu/terms/encoder/
 date: "2026-07-18T15:37:49.779363Z"
 lastmod: "2026-07-18T17:15:09.740257Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az encoder egy ideghálózati komponens, amely a bemeneti adatokat tömörített, értelmes reprezentációvá alakítja."
 ---
-
 ## Definition
 
 Az encoderok feldolgozzák a nyers bemeneti sorozatokat vagy adatszerkezeteket, és konvertálják őket rejtett térbeli reprezentációkká, amelyeket gyakran beágyazásoknak (embeddings) vagy kódoknak neveznek. Központi szerepet játszanak olyan architektúrákban, mint a Transformer és az Autoencoder.

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "research"]
 difficulty: 4
 weight: 1
 slug: "safety"
-aliases:
-  - /da/terms/safety/
 date: "2026-07-18T15:29:33.977415Z"
 lastmod: "2026-07-18T17:15:09.232993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Studiet og praksis med at sikre, at AI-systemer ikke forårsager fysisk, digital eller samfundsmæssig skade."
 ---
-
 ## Definition
 
 AI-sikkerhed er et tværfagligt felt, der fokuserer på at forhindre uguntige udfald fra avanceret kunstig intelligens. Det omfatter tekniske udfordringer såsom justering (alignment), fortolkbarhed og robusthed, samt etiske og reguleringsmæssige aspekter ved udvikling og udrulning af intelligente systemer.

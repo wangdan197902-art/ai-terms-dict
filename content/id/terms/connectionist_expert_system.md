@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /id/terms/connectionist_expert_system/
 date: "2026-07-18T15:43:34.312227Z"
 lastmod: "2026-07-18T16:38:07.439927Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem cerdas yang menggabungkan kemampuan pembelajaran jaringan saraf dengan struktur penalaran simbolik."
 ---
-
 ## Definition
 
 Sistem pakar koneksionis mengintegrasikan kekuatan pengenalan pola dan pembelajaran dari jaringan saraf (koneksionisme) dengan representasi pengetahuan eksplisit dan penalaran logis dari sistem tradisional berbasis aturan.

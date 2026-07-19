@@ -1,23 +1,25 @@
 ---
-title: " Situated (อยู่ในบริบท/สภาพแวดล้อม)"
-term_id: "situated"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science", "embedded_systems", "interaction"]
+title: ' Situated (อยู่ในบริบท/สภาพแวดล้อม)'
+term_id: situated
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
+- Embedded Systems
+- interaction
 difficulty: 3
 weight: 1
-slug: "situated"
-aliases:
-  - /th/terms/situated/
-date: "2026-07-18T16:15:12.684360Z"
-lastmod: "2026-07-18T16:38:07.654250Z"
+slug: situated
+date: '2026-07-18T16:15:12.684360Z'
+lastmod: '2026-07-18T16:38:07.654250Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อธิบายระบบหรือเอเจนต์ปัญญาประดิษฐ์ที่ทำงานภายในและปรับตัวตามบริบททางกายภาพ สังคม หรือสิ่งแวดล้อมเฉพาะเจาะจง"
+source: agnes_llm
+status: published
+language: th
+description: อธิบายระบบหรือเอเจนต์ปัญญาประดิษฐ์ที่ทำงานภายในและปรับตัวตามบริบททางกายภาพ
+  สังคม หรือสิ่งแวดล้อมเฉพาะเจาะจง
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์ คำว่า 'Situated' หมายถึงเอเจนต์ที่ถูกฝังอยู่ในสภาพแวดล้อมและมีปฏิสัมพันธ์กับมันแบบเรียลไทม์ ต่างจากผู้แก้ปัญหาเชิงนามธรรม เอเจนต์แบบ Situated ต้องประมวลผลข้อมูลจากเซนเซอร์

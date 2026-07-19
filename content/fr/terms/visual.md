@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /fr/terms/visual/
 date: "2026-07-18T10:56:11.584482Z"
 lastmod: "2026-07-18T11:44:45.176435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Relatif à la vue ou à l'imagerie, faisant souvent référence aux tâches de vision par ordinateur qui traitent et interprètent des données visuelles telles que des images et des vidéos."
 ---
-
 ## Definition
 
 Le terme « visuel » en IA concerne principalement la Vision par Ordinateur, le domaine dédié à permettre aux machines de tirer des informations significatives à partir d'images numériques, de vidéos et d'autres entrées visuelles. Cela implique le traitement des pixels.

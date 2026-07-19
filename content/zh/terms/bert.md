@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Google"]
 difficulty: 3
 weight: 1
 slug: "bert"
-aliases:
-  - /zh/terms/bert/
 date: "2026-07-18T11:09:15.653121Z"
 lastmod: "2026-07-18T11:44:45.451648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "基于Transformer的双向编码器表示是一种预训练的自然语言处理模型。"
 ---
-
 ## Definition
 
 BERT（Bidirectional Encoder Representations from Transformers）是由Google开发的一种基于Transformer的机器学习技术，用于自然语言处理（NLP）的预训练。它利用掩码语言建模和下一句预测来学习双向表示。

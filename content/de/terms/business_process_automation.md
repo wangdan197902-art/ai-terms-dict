@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /de/terms/business_process_automation/
 date: "2026-07-18T11:06:13.411505Z"
 lastmod: "2026-07-18T11:44:44.916118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Einsatz von Technologie zur Ausführung wiederkehrender Aufgaben oder Prozesse in einem Unternehmen, bei denen manuelle Aufwände ersetzt werden können."
 ---
-
 ## Definition
 
 Die Automatisierung von Geschäftsprozessen (BPA) beinhaltet den Einsatz von Software und KI, um komplexe Geschäftsabläufe zu optimieren. Im Gegensatz zur einfachen RPA (Robotic Process Automation), die regelbasierte Aufgaben erledigt, umfasst BPA oft

@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /ko/terms/code/
 date: "2026-07-18T15:33:51.302530Z"
 lastmod: "2026-07-18T16:38:06.793541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 맥락에서 코드는 모델의 동작과 데이터 처리 로직을 정의하는 프로그래밍 언어로 작성된 구조화된 명령어를 의미합니다."
 ---
-
 ## Definition
 
 코드는 컴퓨터가 특정 작업을 수행하기 위해 실행하는 Python, C++, JavaScript 등의 프로그래밍 언어로 작성된 명령어 집합을 나타냅니다. 인공지능 분야에서 코드는 모델 아키텍처 구현, 데이터 파이프라인 구축, 학습 프로세스 제어 등 AI 시스템의 핵심 구성 요소로서 필수적인 역할을 합니다.

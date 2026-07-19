@@ -1,23 +1,23 @@
 ---
-title: "形式概念分析"
-term_id: "formal_concept_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_mining", "knowledge_engineering"]
+title: 形式概念分析
+term_id: formal_concept_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Mining
+- Knowledge Engineering
 difficulty: 4
 weight: 1
-slug: "formal_concept_analysis"
-aliases:
-  - /zh/terms/formal_concept_analysis/
-date: "2026-07-18T11:17:40.739492Z"
-lastmod: "2026-07-18T11:44:45.501234Z"
+slug: formal_concept_analysis
+date: '2026-07-18T11:17:40.739492Z'
+lastmod: '2026-07-18T11:44:45.501234Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "形式概念分析（FCA）是一种利用形式背景和概念格从数据中推导概念层级的数学方法。"
+source: agnes_llm
+status: published
+language: zh
+description: 形式概念分析（FCA）是一种利用形式背景和概念格从数据中推导概念层级的数学方法。
 ---
-
 ## Definition
 
 FCA为分析对象与其属性之间的关系提供了严谨的框架，最终形成一种称为概念格的层级结构。它广泛应用于知识发现、数据挖掘和语义网开发，帮助理解复杂数据结构中的内在联系。

@@ -7,8 +7,6 @@ tags: ["fundamentals", "engineering"]
 difficulty: 2
 weight: 1
 slug: "trade_off"
-aliases:
-  - /de/terms/trade_off/
 date: "2026-07-18T10:57:04.634102Z"
 lastmod: "2026-07-18T11:44:44.891665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Kompromiss, bei dem ein Vorteil in einem Bereich zu einem Nachteil in einem anderen führt."
 ---
-
 ## Definition
 
 In der KI und im Ingenieurwesen bezeichnet ein Zielkonflikt den erforderlichen Ausgleich bei der Optimierung widersprüchlicher Ziele, wie z. B. Modellgenauigkeit versus Rechenkosten oder Latenzzeit versus Präzision. Da Ressourcen begrenzt sind,

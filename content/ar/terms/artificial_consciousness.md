@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /ar/terms/artificial_consciousness/
 date: "2026-07-18T15:44:35.284649Z"
 lastmod: "2026-07-18T17:15:08.476063Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "المفهوم النظري لمنح الآلات تجارب ذاتية، وإدراكاً للذات، وإحساساً مشابهاً للإنسان."
 ---
-
 ## Definition
 
 يستكشف الوعي الاصطناعي إمكانية إنشاء آلات تمتلك تجارب ذاتية حقيقية، وإدراكاً للذات، ومشاعر، بدلاً من مجرد محاكاة السلوك الذكي. يتعلق الأمر بـ...

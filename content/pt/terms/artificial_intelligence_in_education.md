@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /pt/terms/artificial_intelligence_in_education/
 date: "2026-07-18T14:50:12.395610Z"
 lastmod: "2026-07-18T15:51:59.463976Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A aplicação de tecnologias de IA para aprimorar métodos de ensino, personalizar experiências de aprendizagem e automatizar tarefas administrativas."
 ---
-
 ## Definition
 
 A IA na educação envolve o uso de aprendizado de máquina, processamento de linguagem natural e sistemas adaptativos para melhorar os resultados educacionais. Ela permite caminhos de aprendizagem personalizados, adaptados às necessidades individuais dos estudantes.

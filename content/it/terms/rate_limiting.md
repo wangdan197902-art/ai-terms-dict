@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /it/terms/rate_limiting/
 date: "2026-07-18T16:18:42.497323Z"
 lastmod: "2026-07-18T17:15:08.664055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un meccanismo di controllo ingegneristico che limita il numero di richieste che un client può inviare a un servizio entro una finestra temporale specifica."
 ---
-
 ## Definition
 
 La limitazione della frequenza protegge i servizi AI e le API da abusi, sovraccarichi e consumo eccessivo di risorse. Garantisce un utilizzo equo tra gli utenti e mantiene la stabilità del sistema limitando il throughput. Le strategie comuni includono token bucket o sliding window.

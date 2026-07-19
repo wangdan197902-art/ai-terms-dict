@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /id/terms/pedagogical_agent/
 date: "2026-07-18T16:03:40.824280Z"
 lastmod: "2026-07-18T16:38:07.492872Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Entitas kecerdasan buatan yang dirancang untuk memfasilitasi pembelajaran dengan memberikan instruksi, umpan balik, dan bimbingan."
 ---
-
 ## Definition
 
 Agen pedagogis adalah komponen perangkat lunak, sering kali diwujudkan sebagai karakter virtual, yang bertindak sebagai guru atau tutor dalam lingkungan pendidikan. Agen-agen ini memanfaatkan pemrosesan bahasa alami dan teknik pembelajaran mesin lainnya.

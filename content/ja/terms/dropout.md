@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /ja/terms/dropout/
 date: "2026-07-18T10:58:50.315991Z"
 lastmod: "2026-07-18T11:44:45.046899Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ドロップアウトは、過学習を防ぐためにトレーニング中にランダムにニューロンを無視する正則化手法です。"
 ---
-
 ## Definition
 
 ニューラルネットワークにおいて、ドロップアウトは各トレーニングステップ中にランダムなサブセットのニューロンを一時的に削除することで過学習を防ぎます。これにより、ネットワークは結合して有用な堅牢な特徴を学習することを強制されます。

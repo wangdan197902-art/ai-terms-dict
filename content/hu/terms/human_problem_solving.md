@@ -7,8 +7,6 @@ tags: ["cognition", "psychology", "basics"]
 difficulty: 2
 weight: 1
 slug: "human_problem_solving"
-aliases:
-  - /hu/terms/human_problem_solving/
 date: "2026-07-18T16:04:06.531099Z"
 lastmod: "2026-07-18T17:15:09.793677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a kognitív folyamat, amelynek során az egyének azonosítják, elemezik és megoldják a komplex problémákat érvelés, kreativitás és tapasztalat felhasználásával."
 ---
-
 ## Definition
 
 Az emberi problémamegoldás magában foglalja azokat a sokrétű kognitív képességeket, amelyeket az emberek a kihívások leküzdésére használnak, a egyszerű feladatoktól az absztrakt koncepcionális nehézségekig. Ellentétben az algoritmikus megközelítésekkel...

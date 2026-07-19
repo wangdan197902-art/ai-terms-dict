@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /tr/terms/tool_use/
 date: "2026-07-18T15:37:44.533089Z"
 lastmod: "2026-07-18T16:38:07.264906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zeka ajanlarının, yerel yeteneklerinin ötesinde belirli görevleri yerine getirmek için harici işlevleri veya API'leri seçip yürüttüğü bir paradigmadır."
 ---
-
 ## Definition
 
 Araç Kullanımı, dil modellerinin önceden tanımlanmış işlevleri (hesap makinesi, arama motorları veya veritabanı sorguları gibi) çağırarak harici yazılım ortamlarıyla etkileşim kurmasını sağlar. Bu yaklaşım, modellerin yeteneklerini genişletir.

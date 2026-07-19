@@ -1,23 +1,24 @@
 ---
-title: "Sztuczna inteligencja oparta na danych"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: Sztuczna inteligencja oparta na danych
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /pl/terms/data_centric_ai/
-date: "2026-07-18T15:48:40.247304Z"
-lastmod: "2026-07-18T17:15:08.860270Z"
+slug: data_centric_ai
+date: '2026-07-18T15:48:40.247304Z'
+lastmod: '2026-07-18T17:15:08.860270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podejście do rozwoju SI, które priorytetyzuje poprawę jakości i ilości danych treningowych nad modyfikacją architektur modeli."
+source: agnes_llm
+status: published
+language: pl
+description: Podejście do rozwoju SI, które priorytetyzuje poprawę jakości i ilości
+  danych treningowych nad modyfikacją architektur modeli.
 ---
-
 ## Definition
 
 Sztuczna inteligencja oparta na danych reprezentuje zmianę paradygmatu w rozwoju sztucznej inteligencji, koncentrując się na systematycznej poprawie danych używanych do trenowania modeli, zamiast skupiać się wyłącznie na optymalizacji algorytmów lub hiperparametrów. Zakłada to, że jakość danych ma większy wpływ na wyniki modelu niż sama architektura.

@@ -1,23 +1,24 @@
 ---
-title: "Μεγάλο Πλαίσιο (Long Context)"
-term_id: "long_context"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "transformers", "architecture"]
+title: Μεγάλο Πλαίσιο (Long Context)
+term_id: long_context
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- transformers
+- architecture
 difficulty: 2
 weight: 1
-slug: "long_context"
-aliases:
-  - /el/terms/long_context/
-date: "2026-07-18T16:19:13.878824Z"
-lastmod: "2026-07-18T17:15:09.927977Z"
+slug: long_context
+date: '2026-07-18T16:19:13.878824Z'
+lastmod: '2026-07-18T17:15:09.927977Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ικανότητα ενός γλωσσικού μοντέλου να επεξεργάζεται και να διατηρεί πληροφορίες από ακολουθίες εισόδου που περιέχουν χιλιάδες ή εκατομμύρια tokens."
+source: agnes_llm
+status: published
+language: el
+description: Η ικανότητα ενός γλωσσικού μοντέλου να επεξεργάζεται και να διατηρεί
+  πληροφορίες από ακολουθίες εισόδου που περιέχουν χιλιάδες ή εκατομμύρια tokens.
 ---
-
 ## Definition
 
 Ο όρος «Μεγάλο Πλαίσιο» αναφέρεται στη χωρητικότητα των μοντέλων βασισμένων σε αρχιτεκτονική Transformer να χειρίζονται εκτεταμένα μήκη εισόδου, συχνά ξεπερνώντας τα τυπικά όρια όπως τα 2k ή 4k tokens. Αυτή η δυνατότητα επιτρέπει στα μοντέλα να αναλύουν ολόκληρα έγγραφα, κώδικα ή συνομιλίες, διατηρώντας τη συμφραζόμενη σχέση μεταξύ μακριών αποστάσεων κειμένου.

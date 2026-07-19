@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /pl/terms/natural_language_processing/
 date: "2026-07-18T15:28:04.415280Z"
 lastmod: "2026-07-18T17:15:08.816510Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Dziedzina sztucznej inteligencji skupiająca się na umożliwieniu komputerom rozumienia, interpretowania i generowania języka ludzkiego."
 ---
-
 ## Definition
 
 Przetwarzanie języka naturalnego (NLP) to poddziedzina sztucznej inteligacji, która łączy lingwistykę obliczeniową z modelami statystycznymi, uczenia maszynowego i głębokiego. Umożliwia maszynom przetwarzanie i rozumienie tekstu oraz mowy w sposób zbliżony do człowieka.

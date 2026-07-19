@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /da/terms/artificial_intelligence/
 date: "2026-07-18T15:22:31.913655Z"
 lastmod: "2026-07-18T17:15:09.216918Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Simulering af menneskelige intelligensprocesser ved hjælp af computersystemer."
 ---
-
 ## Definition
 
 Kunstig intelligens (KI) refererer til evnen hos digitale computere eller computerkontrollerede robotter til at udføre opgaver, der almindeligvis er forbundet med intelligente væsener. Det omfatter forskellige underfelter

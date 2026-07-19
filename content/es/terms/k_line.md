@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /es/terms/k_line/
 date: "2026-07-18T10:55:26.304649Z"
 lastmod: "2026-07-18T11:44:44.821564Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un tipo de gráfico financiero, también conocido como gráfico de velas, utilizado para visualizar los movimientos de precios durante intervalos de tiempo específicos."
 ---
-
 ## Definition
 
 Una K-line, comúnmente referida como gráfico de velas en los mercados occidentales, es una representación gráfica de la dinámica de precios de un valor, derivado o moneda. Muestra cuatro puntos de datos clave: el precio de apertura, el máximo, el mínimo y el cierre (OHLC) para cada período de tiempo.

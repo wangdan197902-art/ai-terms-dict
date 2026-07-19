@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /zh/terms/adam/
 date: "2026-07-18T10:49:06.484463Z"
 lastmod: "2026-07-18T11:44:45.361358Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种为每个参数计算自适应学习率的优化算法。"
 ---
-
 ## Definition
 
 Adam（自适应矩估计）是一种流行的基于一阶梯度的优化算法，用于训练深度神经网络。它结合了两种其他随机梯度下降扩展的优势。

@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /id/terms/relu/
-date: "2026-07-18T15:35:51.008049Z"
-lastmod: "2026-07-18T16:38:07.418253Z"
+slug: relu
+date: '2026-07-18T15:35:51.008049Z'
+lastmod: '2026-07-18T16:38:07.418253Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Rectified Linear Unit adalah fungsi aktivasi yang mengeluarkan input secara langsung jika bernilai positif, dan nol jika tidak."
+source: agnes_llm
+status: published
+language: id
+description: Rectified Linear Unit adalah fungsi aktivasi yang mengeluarkan input
+  secara langsung jika bernilai positif, dan nol jika tidak.
 ---
-
 ## Definition
 
 ReLU banyak digunakan dalam jaringan saraf pembelajaran mendalam karena efisiensi komputasinya dan kemampuannya mengurangi masalah gradien yang menghilang (vanishing gradient). Secara matematis didefinisikan sebagai f(x) = max(0, x), fungsi ini introduc

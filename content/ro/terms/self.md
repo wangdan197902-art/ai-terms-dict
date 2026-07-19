@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /ro/terms/self/
 date: "2026-07-18T15:29:35.306077Z"
 lastmod: "2026-07-18T17:15:09.603908Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "În IA, 'sine' se referă la conceptul identității unui agent sau la capacitatea sa de procesare auto-referențială și introspecție."
 ---
-
 ## Definition
 
 Deși IA actuală nu posedă conștiință, termenul 'sine' descrie adesea capacitățile metacognitive în care un model își analizează propriile ieșiri, nivelurile de încredere sau stările interne. Acesta apare în contexte precum...

@@ -1,23 +1,23 @@
 ---
-title: "H2O"
-term_id: "h2o"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "ml", "open-source"]
+title: H2O
+term_id: h2o
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- ML
+- Open Source
 difficulty: 3
 weight: 1
-slug: "h2o"
-aliases:
-  - /ja/terms/h2o/
-date: "2026-07-18T11:17:16.245166Z"
-lastmod: "2026-07-18T11:44:45.104443Z"
+slug: h2o
+date: '2026-07-18T11:17:16.245166Z'
+lastmod: '2026-07-18T11:44:45.104443Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "予測分析やディープラーニングのための多様なアルゴリズムをサポートする、オープンソースの分散型機械学習プラットフォーム。"
+source: agnes_llm
+status: published
+language: ja
+description: 予測分析やディープラーニングのための多様なアルゴリズムをサポートする、オープンソースの分散型機械学習プラットフォーム。
 ---
-
 ## Definition
 
 H2Oは、分散型でスケーラブルな機械学習および予測分析のための広く使用されているオープンソースのインメモリプラットフォームです。ハーバード大学の博士課程学生2名によって開発され、統一されたフレームワークを提供し

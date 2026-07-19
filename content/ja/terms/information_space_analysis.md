@@ -7,8 +7,6 @@ tags: ["analysis", "representation", "geometry"]
 difficulty: 3
 weight: 1
 slug: "information_space_analysis"
-aliases:
-  - /ja/terms/information_space_analysis/
 date: "2026-07-18T11:19:39.944372Z"
 lastmod: "2026-07-18T11:44:45.109604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データ表現が存在する空間の幾何学的および位相的な性質を調査すること。"
 ---
-
 ## Definition
 
 この概念は、機械学習モデルにおける表現空間の構造を分析することを伴います。高次元空間内において、データポイントがどのように分布し、クラスター化され、あるいは分離されているかを調べます。

@@ -1,23 +1,23 @@
 ---
-title: "教師あり学習"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: 教師あり学習
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /ja/terms/supervised_learning/
-date: "2026-07-18T11:01:15.727410Z"
-lastmod: "2026-07-18T11:44:45.058360Z"
+slug: supervised_learning
+date: '2026-07-18T11:01:15.727410Z'
+lastmod: '2026-07-18T11:44:45.058360Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "モデルがラベル付きの訓練例に基づいて、入力を出力へマッピングする方法を学ぶ機械学習のパラダイム。"
+source: agnes_llm
+status: published
+language: ja
+description: モデルがラベル付きの訓練例に基づいて、入力を出力へマッピングする方法を学ぶ機械学習のパラダイム。
 ---
-
 ## Definition
 
 教師あり学習では、アルゴリズムはラベル付きデータセットで訓練されます。つまり、各入力例には正しい出力がペアになっています。目標は、モデルが入力と出力の間の潜在的な関係を学習することです。

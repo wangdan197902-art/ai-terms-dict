@@ -1,23 +1,25 @@
 ---
-title: "samodzielnie nadzorowany"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: samodzielnie nadzorowany
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /pl/terms/self_supervised/
-date: "2026-07-18T15:33:00.964492Z"
-lastmod: "2026-07-18T17:15:08.828382Z"
+slug: self_supervised
+date: '2026-07-18T15:33:00.964492Z'
+lastmod: '2026-07-18T17:15:08.828382Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Uczenie samodzielnie nadzorowane to technika, w której model generuje własne etykiety z danych wejściowych, ucząc się reprezentacji bez potrzeby ręcznej anotacji przez człowieka."
+source: agnes_llm
+status: published
+language: pl
+description: Uczenie samodzielnie nadzorowane to technika, w której model generuje
+  własne etykiety z danych wejściowych, ucząc się reprezentacji bez potrzeby ręcznej
+  anotacji przez człowieka.
 ---
-
 ## Definition
 
 Uczenie samodzielnie nadzorowane jest podzbiorem uczenia maszynowego, w którym sygnał nadzorujący jest wyprowadzany automatycznie z samych danych, eliminując potrzebę ręcznego oznaczania. Model zazwyczaj rozwiązuje pozornie trudne zadania pomocnicze (tzw. pretext tasks), takie jak przewidywanie ukrytych części danych, co prowadzi do wytworzenia bogatych i uniwersalnych reprezentacji danych.

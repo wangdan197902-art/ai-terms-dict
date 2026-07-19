@@ -23,8 +23,7 @@
     </main>
     {{ partial "footer.html" . }}
     <script src="{{ "js/main.js" | relURL }}" defer></script>
-    <script src="{{ "js/fuse.basic.min.js" | relURL }}" defer></script>
-    <script src="{{ "js/search.js" | relURL }}" defer></script>
+    {{/* Pagefind 搜索：只在搜索页加载，减少其他页面负担 */}}
     {{ block "scripts" . }}{{ end }}
 </body>
 </html>

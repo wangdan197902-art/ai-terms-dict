@@ -1,23 +1,24 @@
 ---
-title: "데이터셋: Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: '데이터셋: Bigcode/The Stack Dedup'
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /ko/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T15:47:39.161851Z"
-lastmod: "2026-07-18T16:38:06.825393Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T15:47:39.161851Z'
+lastmod: '2026-07-18T16:38:06.825393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "BigCode에서 관리하며, 더 깨끗한 훈련 데이터를 위해 거의 중복되는 코드 스니펫을 제거한 The Stack 데이터셋의 중복 제거 버전입니다."
+source: agnes_llm
+status: published
+language: ko
+description: BigCode에서 관리하며, 더 깨끗한 훈련 데이터를 위해 거의 중복되는 코드 스니펫을 제거한 The Stack 데이터셋의
+  중복 제거 버전입니다.
 ---
-
 ## Definition
 
 The Stack Dedup은 오픈 소스 코드의 거대한 저장소인 The Stack의 특수 하위 집합입니다. 이는 대규모 모델의 편향을 유발할 수 있는 중복 코드 스니펫을 제거하기 위해 엄격한 중복 제거 기술을 적용합니다.

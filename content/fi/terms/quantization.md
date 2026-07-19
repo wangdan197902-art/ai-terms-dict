@@ -1,23 +1,24 @@
 ---
-title: "Kvantitointi"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Kvantitointi
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /fi/terms/quantization/
-date: "2026-07-18T15:37:49.656101Z"
-lastmod: "2026-07-18T17:15:09.373801Z"
+slug: quantization
+date: '2026-07-18T15:37:49.656101Z'
+lastmod: '2026-07-18T17:15:09.373801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mallin optimointitekniikka, joka pienentää neuronaalisissa laskennassa käytettyjen lukujen tarkkuutta koon vähentämiseksi ja nopeuden parantamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Mallin optimointitekniikka, joka pienentää neuronaalisissa laskennassa
+  käytettyjen lukujen tarkkuutta koon vähentämiseksi ja nopeuden parantamiseksi.
 ---
-
 ## Definition
 
 Kvantitointi muuntaa korkean tarkkuuden liukulukuarvot (kuten FP32) matalamman tarkkuuden muotoihin (kuten INT8 tai FP16). Tämä vähennys pienentää mallin muistinkäyttöä ja laskennallisia vaatimuksia.

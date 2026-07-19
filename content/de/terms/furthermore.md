@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /de/terms/furthermore/
 date: "2026-07-18T10:50:14.240814Z"
 lastmod: "2026-07-18T11:44:44.874809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein überleitendes Adverb, das verwendet wird, um zusätzliche Informationen einzuführen oder ein vorheriges Argument in technischem Schreiben zu untermauern."
 ---
-
 ## Definition
 
 Obwohl es sich nicht um einen technischen Algorithmus handelt, ist 'darüber hinaus' ein kritisches sprachliches Werkzeug in der KI-Dokumentation und in Forschungsarbeiten. Es dient dazu, Ideen zu verbinden und anzudeuten, dass die folgende Aussage Gewicht hinzufügt oder

@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /fi/terms/discovery_system/
 date: "2026-07-18T15:54:59.970941Z"
 lastmod: "2026-07-18T17:15:09.405725Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Automaattinen kehikko tai algoritmisen prosessin kokonaisuus, joka on suunniteltu tunnistamaan, tutkimaan ja arvioimaan potentiaalisia ratkaisuja, kuvioita tai hypoteeseja laajassa hakutilassa."
 ---
-
 ## Definition
 
 Discovery System on laskennallinen kehikko, jonka tavoitteena on kiihdyttää tieteellisiä tai analyyttisiä läpimurtoja automatisoimalla valtavien datatilavuuksien tutkiminen. Toisin kuin perinteinen optimointi, joka keskittyy olemassa olevien parametrien säätöön, discovery system etsii aktiivisesti uusia, yllättäviä korrelaatioita ja ratkaisuehdotuksia.

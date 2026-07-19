@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /fr/terms/adaptive/
 date: "2026-07-18T10:48:36.009308Z"
 lastmod: "2026-07-18T11:44:45.158180Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La capacité d'un système à modifier son comportement ou ses paramètres en réponse à des conditions changeantes."
 ---
-
 ## Definition
 
 En IA, le terme 'adaptatif' décrit des systèmes ou des algorithmes capables d'ajuster dynamiquement leurs états internes, paramètres ou stratégies en fonction de nouvelles données ou de retours environnementaux. Cette capacité permet au modèle

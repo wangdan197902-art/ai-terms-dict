@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /id/terms/large_scale/
 date: "2026-07-18T15:31:58.270506Z"
 lastmod: "2026-07-18T16:38:07.408654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menggambarkan sistem AI atau dataset yang beroperasi dengan volume data, parameter, atau sumber daya komputasi yang masif."
 ---
-
 ## Definition
 
 Skala besar mengacu pada besaran komponen dalam suatu sistem AI, sering kali melibatkan miliaran parameter, terabyte data pelatihan, atau kluster komputasi terdistribusi. Pendekatan ini merupakan fondasi...

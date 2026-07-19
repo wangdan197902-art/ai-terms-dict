@@ -1,23 +1,24 @@
 ---
-title: "Image vers Texte"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: Image vers Texte
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /fr/terms/image_text_to_text/
-date: "2026-07-18T11:23:08.237105Z"
-lastmod: "2026-07-18T11:44:45.273346Z"
+slug: image_text_to_text
+date: '2026-07-18T11:23:08.237105Z'
+lastmod: '2026-07-18T11:44:45.273346Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une capacité d'IA multimodale qui génère des descriptions textuelles ou des réponses basées sur des images d'entrée et des invites de texte optionnelles."
+source: agnes_llm
+status: published
+language: fr
+description: Une capacité d'IA multimodale qui génère des descriptions textuelles
+  ou des réponses basées sur des images d'entrée et des invites de texte optionnelles.
 ---
-
 ## Definition
 
 Image vers Texte désigne les modèles qui traitent des entrées visuelles conjointement avec des requêtes textuelles pour produire des sorties en langage naturel cohérentes. Ces systèmes, souvent appelés Modèles Vision-Language (VLM), combinent la compréhension visuelle et linguistique.

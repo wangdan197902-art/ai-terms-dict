@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /fr/terms/biomedical/
 date: "2026-07-18T11:06:55.666567Z"
 lastmod: "2026-07-18T11:44:45.204387Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Relatif à l'application des sciences naturelles à la pratique médicale, impliquant souvent l'analyse computationnelle des données de santé."
 ---
-
 ## Definition
 
 Le terme biomédical désigne l'intersection de la biologie, de la médecine et de la technologie, notamment dans le développement d'outils diagnostiques, de traitements et de méthodes d'analyse de données. En IA, cela implique l'application de techniques d'apprentissage automatique.

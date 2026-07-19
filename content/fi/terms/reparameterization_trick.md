@@ -1,23 +1,24 @@
 ---
-title: "Uudelleenparametrisointitekniikka"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Uudelleenparametrisointitekniikka
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /fi/terms/reparameterization_trick/
-date: "2026-07-18T16:19:01.636838Z"
-lastmod: "2026-07-18T17:15:09.455311Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:19:01.636838Z'
+lastmod: '2026-07-18T17:15:09.455311Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekniikka, joka erottaa satunnaismuuttujat opettavista parametreista mahdollistaakseen gradienttipohjaisen optimoinnin variatiivisessa johtopäätöksenteossa."
+source: agnes_llm
+status: published
+language: fi
+description: Tekniikka, joka erottaa satunnaismuuttujat opettavista parametreista
+  mahdollistaakseen gradienttipohjaisen optimoinnin variatiivisessa johtopäätöksenteossa.
 ---
-
 ## Definition
 
 Uudelleenparametrisointitekniikka on perustavanlaatuinen menetelmä, jota käytetään variatiivisissa autoenkoodereissa ja muissa todennäköisyysmalleissa. Se mahdollistaa gradienttien virtaamisen stokastisten solujen läpi ilmaiseamalla satunnaisen muuttujan

@@ -1,23 +1,23 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /no/terms/indiaai/
-date: "2026-07-18T15:59:42.659951Z"
-lastmod: "2026-07-18T16:38:07.011088Z"
+slug: indiaai
+date: '2026-07-18T15:59:42.659951Z'
+lastmod: '2026-07-18T16:38:07.011088Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "INDIAai er det nasjonale AI-portalen lansert av den indiske regjeringen for å fremme forskning og bruk av kunstig intelligens i hele landet."
+source: agnes_llm
+status: published
+language: 'no'
+description: INDIAai er det nasjonale AI-portalen lansert av den indiske regjeringen
+  for å fremme forskning og bruk av kunstig intelligens i hele landet.
 ---
-
 ## Definition
 
 Opprettet under Ministeriet for elektronikk og informasjonsteknologi, fungerer INDIAai som et sentralt knutepunkt for AI-ressurser, politikk og initiativer. Målet er å fremme samarbeid mellom akademia, industri og myndigheter.

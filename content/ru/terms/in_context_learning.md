@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /ru/terms/in_context_learning/
 date: "2026-07-18T15:22:57.850278Z"
 lastmod: "2026-07-18T16:38:07.069523Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Техника, при которой модели учатся выполнять задачи, наблюдая за примерами, предоставленными в запросе."
 ---
-
 ## Definition
 
 Обучение в контексте (ICL) позволяет большим языковым моделям адаптироваться к новым задачам без обновления их весов. Предоставляя пары «вход-выход» в контексте запроса, модель выводит закономерность и...

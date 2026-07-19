@@ -1,23 +1,24 @@
 ---
-title: "Vannmerking"
-term_id: "watermarking"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "ethics", "content_verification"]
+title: Vannmerking
+term_id: watermarking
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- ethics
+- Content Verification
 difficulty: 3
 weight: 1
-slug: "watermarking"
-aliases:
-  - /no/terms/watermarking/
-date: "2026-07-18T16:20:55.980534Z"
-lastmod: "2026-07-18T16:38:07.057341Z"
+slug: watermarking
+date: '2026-07-18T16:20:55.980534Z'
+lastmod: '2026-07-18T16:38:07.057341Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Vannmerking i AI innebærer å innlemme usynlige eller synlige identifikatorer i generert innhold for å bevise opprinnelse og skille det fra menneskeskapt materiale."
+source: agnes_llm
+status: published
+language: 'no'
+description: Vannmerking i AI innebærer å innlemme usynlige eller synlige identifikatorer
+  i generert innhold for å bevise opprinnelse og skille det fra menneskeskapt materiale.
 ---
-
 ## Definition
 
 Etter hvert som generativ AI produserer økende mengder syntetisk media, fungerer vannmerking som et kritisk verktøy for transparens og ansvarlighet. Det involverer å endre digitalt innhold – som bilder, tekst eller lyd – for å inkludere sporbar informasjon.

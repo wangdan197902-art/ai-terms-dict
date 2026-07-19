@@ -7,8 +7,6 @@ tags: ["NLP", "Computer Vision", "Text Processing"]
 difficulty: 2
 weight: 1
 slug: "intelligent_word_recognition"
-aliases:
-  - /vi/terms/intelligent_word_recognition/
 date: "2026-07-18T15:58:36.175333Z"
 lastmod: "2026-07-18T16:38:07.771334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng các thuật toán AI, đặc biệt là học sâu, để xác định và diễn giải chính xác văn bản từ hình ảnh hoặc nguồn viết tay."
 ---
-
 ## Definition
 
 Nhận dạng Từ Thông minh đề cập đến các công nghệ nhận dạng ký tự quang học (OCR) tiên tiến được cung cấp bởi mạng nơ-ron. Nó vượt xa việc khớp mẫu đơn giản bằng cách hiểu ngữ cảnh, xử lý n

@@ -1,23 +1,24 @@
 ---
-title: "Xấp xỉ độ thích nghi"
-term_id: "fitness_approximation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary", "optimization", "surrogate"]
+title: Xấp xỉ độ thích nghi
+term_id: fitness_approximation
+category: basic_concepts
+subcategory: ''
+tags:
+- evolutionary
+- Optimization
+- surrogate
 difficulty: 4
 weight: 1
-slug: "fitness_approximation"
-aliases:
-  - /vi/terms/fitness_approximation/
-date: "2026-07-18T15:53:34.400100Z"
-lastmod: "2026-07-18T16:38:07.758173Z"
+slug: fitness_approximation
+date: '2026-07-18T15:53:34.400100Z'
+lastmod: '2026-07-18T16:38:07.758173Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật trong các thuật toán tiến hóa nhằm ước tính chất lượng giải pháp để giảm chi phí tính toán trong quá trình tối ưu hóa."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật trong các thuật toán tiến hóa nhằm ước tính chất lượng giải
+  pháp để giảm chi phí tính toán trong quá trình tối ưu hóa.
 ---
-
 ## Definition
 
 Xấp xỉ độ thích nghi được sử dụng trong tính toán tiến hóa khi việc đánh giá hàm độ thích nghi thực tế tốn kém hoặc mất nhiều thời gian về mặt tính toán. Thay vì tính toán giá trị chính xác, các mô hình thay thế (surrogate models) thường được sử dụng để ước lượng.

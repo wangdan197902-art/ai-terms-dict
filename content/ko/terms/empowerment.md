@@ -1,23 +1,23 @@
 ---
-title: "역량 부여 (임파워먼트)"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: 역량 부여 (임파워먼트)
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /ko/terms/empowerment/
-date: "2026-07-18T15:54:35.962565Z"
-lastmod: "2026-07-18T16:38:06.837040Z"
+slug: empowerment
+date: '2026-07-18T15:54:35.962565Z'
+lastmod: '2026-07-18T16:38:06.837040Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "행동을 통해 미래 상태를 영향을 미치는 에이전트의 능력을 측정하는 강화 학습 목표 함수입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 행동을 통해 미래 상태를 영향을 미치는 에이전트의 능력을 측정하는 강화 학습 목표 함수입니다.
 ---
-
 ## Definition
 
 강화 학습 및 인공지능에서 역량 부여(Empowerment)는 에이전트가 환경에 대해 가지는 제어량의 양을 정량화하는 내재적 동기 지표입니다. 이는 에이전트의 행동과 미래 상태 간의 상호 정보량(Mutual Information)으로 정의됩니다.

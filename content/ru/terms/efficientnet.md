@@ -1,23 +1,25 @@
 ---
-title: "EfficientNet"
-term_id: "efficientnet"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision", "optimization"]
+title: EfficientNet
+term_id: efficientnet
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
+- Optimization
 difficulty: 4
 weight: 1
-slug: "efficientnet"
-aliases:
-  - /ru/terms/efficientnet/
-date: "2026-07-18T15:51:27.736480Z"
-lastmod: "2026-07-18T16:38:07.152488Z"
+slug: efficientnet
+date: '2026-07-18T15:51:27.736480Z'
+lastmod: '2026-07-18T16:38:07.152488Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "EfficientNet — это семейство архитектур сверточных нейронных сетей, которое равномерно масштабирует глубину, ширину и разрешение для достижения более высокой точности при меньшем количестве параметров"
+source: agnes_llm
+status: published
+language: ru
+description: EfficientNet — это семейство архитектур сверточных нейронных сетей, которое
+  равномерно масштабирует глубину, ширину и разрешение для достижения более высокой
+  точности при меньшем количестве параметров
 ---
-
 ## Definition
 
 Разработанная компанией Google, EfficientNet использует метод комплексного масштабирования для баланса глубины сети, её ширины и разрешения входного изображения. Этот подход позволяет модели достигать передовых показателей точности при сохранении эффективности вычислений.

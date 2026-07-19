@@ -1,23 +1,24 @@
 ---
-title: "السلاسل الزمنية الهيكلية البايزية"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: السلاسل الزمنية الهيكلية البايزية
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /ar/terms/bayesian_structural_time_series/
-date: "2026-07-18T15:47:12.735061Z"
-lastmod: "2026-07-18T17:15:08.481260Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T15:47:12.735061Z'
+lastmod: '2026-07-18T17:15:08.481260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج نمذجة إحصائية يستخدم الاستدلال البايزي لتحليل السلاسل الزمنية إلى مكونات قابلة للتفسير."
+source: agnes_llm
+status: published
+language: ar
+description: نهج نمذجة إحصائية يستخدم الاستدلال البايزي لتحليل السلاسل الزمنية إلى
+  مكونات قابلة للتفسير.
 ---
-
 ## Definition
 
 نماذج السلاسل الزمنية الهيكلية البايزية (BSTS) تمثل بيانات السلسلة الزمنية كمجموع من المكونات القابلة للتفسير مثل الاتجاه، الموسمية، وتأثيرات الانحدار، مع مراعاة عدم اليقين من خلال التوزيعات الاحتمالية. هذا يسمح بفصل الإشارات المعقدة وتقييم تأثير العوامل الخارجية بدقة.

@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /sv/terms/k_line/
 date: "2026-07-18T16:05:18.953319Z"
 lastmod: "2026-07-18T17:15:09.017130Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En typ av finansiell graf, även känd som candlestick-graf, som används för att visualisera prisrörelser över specifika tidsintervall."
 ---
-
 ## Definition
 
 En K-linje, som i västerländska marknader ofta kallas candlestick-graf, är en grafisk representation av prisdynamiken för ett värdepapper, derivat eller valuta. Den visar fyra nyckeldata: öppningspris, högsta pris, lägsta pris och stängningspris...

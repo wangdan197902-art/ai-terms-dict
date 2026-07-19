@@ -1,23 +1,23 @@
 ---
-title: "Titik"
-term_id: "point"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data-representation"]
+title: Titik
+term_id: point
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
 difficulty: 2
 weight: 1
-slug: "point"
-aliases:
-  - /id/terms/point/
-date: "2026-07-18T15:28:04.833137Z"
-lastmod: "2026-07-18T16:38:07.399339Z"
+slug: point
+date: '2026-07-18T15:28:04.833137Z'
+lastmod: '2026-07-18T16:38:07.399339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dalam matematika AI, titik mewakili lokasi spesifik dalam ruang vektor berdimensi banyak, sering digunakan dalam embedding atau sistem koordinat."
+source: agnes_llm
+status: published
+language: id
+description: Dalam matematika AI, titik mewakili lokasi spesifik dalam ruang vektor
+  berdimensi banyak, sering digunakan dalam embedding atau sistem koordinat.
 ---
-
 ## Definition
 
 Sebuah titik dalam konteks AI biasanya menunjukkan koordinat diskrit dalam ruang fitur atau vektor embedding. Misalnya, dalam algoritma pengelompokan seperti K-Means, setiap sampel data diperlakukan sebagai titik dalam...

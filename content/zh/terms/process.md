@@ -7,8 +7,6 @@ tags: ["fundamentals", "workflow", "operations"]
 difficulty: 2
 weight: 1
 slug: "process"
-aliases:
-  - /zh/terms/process/
 date: "2026-07-18T10:54:02.537152Z"
 lastmod: "2026-07-18T11:44:45.382115Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "为实现特定计算目标或结果而采取的结构化行动或步骤系列。"
 ---
-
 ## Definition
 
 在AI开发中，流程指将原始数据转化为可操作见解或模型所需的系统化工作流。这包括数据摄取、预处理、特征……等阶段。

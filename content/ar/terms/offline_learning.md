@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /ar/terms/offline_learning/
 date: "2026-07-18T16:15:06.933064Z"
 lastmod: "2026-07-18T17:15:08.533964Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التعلم غير المتصل هو نموذج تدريبي يتم فيه تدريب النماذج على مجموعات بيانات ثابتة دون التفاعل مع البيئة الحية أثناء مرحلة التعلم."
 ---
-
 ## Definition
 
 يُعرف أيضاً بالتدريب الدفعي (Batch Learning)، يتضمن التعلم غير المتصل تدريب نماذج تعلم الآلة على مجموعة بيانات ثابتة تم جمعها مسبقاً. وعلى عكس التعلم عبر الإنترنت، لا يقوم النموذج بتحديث معاملاته باستمرار.

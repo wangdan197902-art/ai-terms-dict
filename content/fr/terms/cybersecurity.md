@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /fr/terms/cybersecurity/
 date: "2026-07-18T11:10:53.907359Z"
 lastmod: "2026-07-18T11:44:45.212959Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La pratique visant à protéger les systèmes, les réseaux et les programmes contre les attaques numériques, les accès non autorisés et les dommages grâce à diverses technologies défensives."
 ---
-
 ## Definition
 
 La cybersécurité englobe les technologies, processus et pratiques conçus pour protéger les réseaux, les ordinateurs, les programmes et les données contre les attaques, les dommages ou les accès non autorisés. Dans le contexte de l'IA, il s'agit...

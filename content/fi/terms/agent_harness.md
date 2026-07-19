@@ -1,23 +1,24 @@
 ---
-title: "Agenttirunko"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Agenttirunko
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /fi/terms/agent_harness/
-date: "2026-07-18T15:41:36.937126Z"
-lastmod: "2026-07-18T17:15:09.381169Z"
+slug: agent_harness
+date: '2026-07-18T15:41:36.937126Z'
+lastmod: '2026-07-18T17:15:09.381169Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Agenttirunko on kehys tai infrastruktuurikerros, joka hallinnoi useiden tekoälyagenteiden elinkaarta, viestintää ja resurssien jakoa järjestelmässä."
+source: agnes_llm
+status: published
+language: fi
+description: Agenttirunko on kehys tai infrastruktuurikerros, joka hallinnoi useiden
+  tekoälyagenteiden elinkaarta, viestintää ja resurssien jakoa järjestelmässä.
 ---
-
 ## Definition
 
 Se toimii moniagenttijärjestelmien selkärankana tarjoamalla työkaluja orkestrointiin, valvontaan ja agenttien väliseen koordinointiin. Runko varmistaa, että agentit voivat toimia tehokkaasti ilman häiriöitä...

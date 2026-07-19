@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /pl/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:56:06.308117Z"
 lastmod: "2026-07-18T17:15:08.876014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wynik w logice nieklasycznej stwierdzający, że pewne logiki temporalne lub modalne można rozdzielić na odrębne komponenty w oparciu o ich właściwości strukturalne."
 ---
-
 ## Definition
 
 Twierdzenie o separacji Gabbaya to fundamentalna koncepcja w logice matematycznej, szczególnie w badaniach nad logiką temporalną i modalną. Określa warunki, pod którymi logika może być zdekomponowana lub...

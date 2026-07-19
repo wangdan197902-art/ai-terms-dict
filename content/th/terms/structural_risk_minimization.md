@@ -1,23 +1,24 @@
 ---
-title: "การลดความเสี่ยงเชิงโครงสร้าง"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: การลดความเสี่ยงเชิงโครงสร้าง
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /th/terms/structural_risk_minimization/
-date: "2026-07-18T16:16:36.070626Z"
-lastmod: "2026-07-18T16:38:07.659047Z"
+slug: structural_risk_minimization
+date: '2026-07-18T16:16:36.070626Z'
+lastmod: '2026-07-18T16:38:07.659047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หลักการในการเรียนรู้เชิงสถิติที่มุ่งลดขอบเขตบนของข้อผิดพลาดในการสรุปผล โดยการปรับสมดุลระหว่างการfitsของโมเดลกับความซับซ้อนของโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: หลักการในการเรียนรู้เชิงสถิติที่มุ่งลดขอบเขตบนของข้อผิดพลาดในการสรุปผล
+  โดยการปรับสมดุลระหว่างการfitsของโมเดลกับความซับซ้อนของโมเดล
 ---
-
 ## Definition
 
 การลดความเสี่ยงเชิงโครงสร้าง (Structural Risk Minimization: SRM) เป็นวิธีการลดความเสี่ยงที่คาดหวังโดยการควบคุมความซับซ้อนของโมเดลเพื่อป้องกันปัญหาการจำเกิน (overfitting) วิธีนี้เป็นการขยายแนวคิดของการลดความเสี่ยงเชิงประจักษ์ (Empirical Risk Minimization) โดยเพิ่มพจน์การปรับให้เรียบ (regularization term) หรือบทลงโทษความซับซ้อนเข้าไปในฟังก์ชันวัตถุประสงค์ เพื่อให้ได้โมเดลที่มีความสามารถในการสรุปผลดีกับข้อมูลใหม่

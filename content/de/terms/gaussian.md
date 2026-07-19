@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /de/terms/gaussian/
 date: "2026-07-18T10:50:14.240819Z"
 lastmod: "2026-07-18T11:44:44.874940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf die Normalverteilung, eine glockenförmige Kurve, die grundlegend für die Statistik und Rauschmodellierung in der KI ist."
 ---
-
 ## Definition
 
 Gaußsch bezieht sich auf die Normalverteilung, eine kontinuierliche Wahrscheinlichkeitsverteilung, die durch ihren Mittelwert und ihre Varianz charakterisiert ist. In der KI wird sie umfassend in der probabilistischen Modellierung, der Bayesschen Inferenz und

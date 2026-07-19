@@ -1,23 +1,23 @@
 ---
-title: "Ekstraksi Model"
-term_id: "model_extraction"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "adversarial_ml"]
+title: Ekstraksi Model
+term_id: model_extraction
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Adversarial ML
 difficulty: 4
 weight: 1
-slug: "model_extraction"
-aliases:
-  - /id/terms/model_extraction/
-date: "2026-07-18T16:14:07.303228Z"
-lastmod: "2026-07-18T16:38:07.521285Z"
+slug: model_extraction
+date: '2026-07-18T16:14:07.303228Z'
+lastmod: '2026-07-18T16:38:07.521285Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Serangan di mana penyerang melakukan kueri pada model untuk merekonstruksi parameternya atau membuat salinan tiruan."
+source: agnes_llm
+status: published
+language: id
+description: Serangan di mana penyerang melakukan kueri pada model untuk merekonstruksi
+  parameternya atau membuat salinan tiruan.
 ---
-
 ## Definition
 
 Ekstraksi model melibatkan pengkuerian API model pembelajaran mesin target untuk menyimpulkan struktur internal, bobot, atau batas keputusannya. Penyerang menggunakan kueri ini untuk membangun model tiruan yang meniru perilaku model asli, yang dapat digunakan untuk mencuri kekayaan intelektual atau menghindari mekanisme keamanan.

@@ -1,23 +1,23 @@
 ---
-title: "检测"
-term_id: "detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "identification", "applications"]
+title: 检测
+term_id: detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- identification
+- applications
 difficulty: 3
 weight: 1
-slug: "detection"
-aliases:
-  - /zh/terms/detection/
-date: "2026-07-18T10:49:53.809939Z"
-lastmod: "2026-07-18T11:44:45.364727Z"
+slug: detection
+date: '2026-07-18T10:49:53.809939Z'
+lastmod: '2026-07-18T11:44:45.364727Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在数据集或环境中识别和定位特定对象、事件或异常的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 在数据集或环境中识别和定位特定对象、事件或异常的过程。
 ---
-
 ## Definition
 
 检测是计算机视觉和信号处理的核心任务，AI模型在此过程中识别感兴趣实体的存在及其位置。与仅分配标签的分类不同，检测通常还包含定位信息（如边界框）。

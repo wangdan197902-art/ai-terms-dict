@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "research"]
 difficulty: 4
 weight: 1
 slug: "ai_alignment"
-aliases:
-  - /ko/terms/ai_alignment/
 date: "2026-07-18T15:37:07.476463Z"
 lastmod: "2026-07-18T16:38:06.803165Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI 시스템이 인간의 가치와 의도에 부합하도록 행동하도록 보장하는 연구 분야입니다."
 ---
-
 ## Definition
 
 AI 정렬은 인공지능 시스템이 사용자가 문자 그대로 지시한 것보다 사용자가 의도한 바를 강력하게 수행하도록 만드는 과제를 다룹니다. 이는 AI 시스템이 인간의 가치와 의도를 이해하고 따르도록 하는 기술적 방법론을 포함하며, 해석 가능성(interpretability)과 제어 문제(control problem) 해결을 핵심으로 합니다.

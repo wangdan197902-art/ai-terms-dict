@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "bias"]
 difficulty: 2
 weight: 1
 slug: "base_rate"
-aliases:
-  - /cs/terms/base_rate/
 date: "2026-07-18T15:44:28.468654Z"
 lastmod: "2026-07-18T17:15:09.105923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Základní míra je apriorní pravděpodobnost výskytu události v populaci, nezávisle na jakýchkoli specifických důkazech nebo výsledcích testů."
 ---
-
 ## Definition
 
 Ve statistice a strojovém učení se základní míra týká základní frekvence určité podmínky nebo výsledku v daném souboru dat. Ignorování základních měr často vede k omylu základní míry, kde lidé podceňují základní pravděpodobnost ve prospěch nových informací.

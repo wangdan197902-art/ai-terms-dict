@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /nl/terms/cybersecurity/
 date: "2026-07-18T15:48:40.972368Z"
 lastmod: "2026-07-18T17:15:08.730461Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De praktijk van het beschermen van systemen, netwerken en programma's tegen digitale aanvallen, ongeautoriseerde toegang en schade via diverse defensieve technologieën."
 ---
-
 ## Definition
 
 Cybersecurity omvat de technologieën, processen en praktijken die zijn ontworpen om netwerken, computers, programma's en gegevens te beschermen tegen aanvallen, schade of ongeautoriseerde toegang. In de context van AI speelt cybersecurity een cruciale rol bij het waarborgen van de integriteit van AI-modellen, het beschermen van gevoelige trainingsgegevens en het detecteren van anomalieën of adversariële aanvallen die bedoeld zijn om AI-systemen te misleiden of te saboteren.

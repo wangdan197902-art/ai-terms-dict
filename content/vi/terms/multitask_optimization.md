@@ -1,23 +1,24 @@
 ---
-title: "Tối ưu hóa đa nhiệm"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Tối ưu hóa đa nhiệm
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /vi/terms/multitask_optimization/
-date: "2026-07-18T16:04:43.313576Z"
-lastmod: "2026-07-18T16:38:07.786068Z"
+slug: multitask_optimization
+date: '2026-07-18T16:04:43.313576Z'
+lastmod: '2026-07-18T16:38:07.786068Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một chiến lược huấn luyện trong đó một mô hình được tối ưu hóa để thực hiện đồng thời nhiều nhiệm vụ liên quan."
+source: agnes_llm
+status: published
+language: vi
+description: Một chiến lược huấn luyện trong đó một mô hình được tối ưu hóa để thực
+  hiện đồng thời nhiều nhiệm vụ liên quan.
 ---
-
 ## Definition
 
 Tối ưu hóa đa nhiệm liên quan đến việc huấn luyện một mô hình duy nhất để xử lý nhiều nhiệm vụ riêng biệt nhưng có liên quan cùng lúc. Bằng cách chia sẻ các biểu diễn trung gian giữa các nhiệm vụ, mô hình có thể học được các đặc trưng tổng quát hơn và cải thiện hiệu suất.

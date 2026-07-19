@@ -7,8 +7,6 @@ tags: ["programming", "abstraction", "development"]
 difficulty: 2
 weight: 1
 slug: "high_level"
-aliases:
-  - /pt/terms/high_level/
 date: "2026-07-18T14:41:35.874239Z"
 lastmod: "2026-07-18T15:51:59.444142Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Refere-se a representações abstratas ou interfaces de programação que ocultam os detalhes de implementação de baixo nível do usuário."
 ---
-
 ## Definition
 
 Na IA, 'alto nível' denota abstrações que simplificam processos complexos. Linguagens de alto nível (como Python) ou APIs permitem que desenvolvedores criem modelos sem gerenciar memória ou especificidades de hardware. Sim

@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /vi/terms/model_compression/
 date: "2026-07-18T16:03:47.110340Z"
 lastmod: "2026-07-18T16:38:07.783670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Model Compression (nén mô hình) đề cập đến các kỹ thuật nhằm giảm kích thước và yêu cầu tính toán của các mô hình học máy."
 ---
-
 ## Definition
 
 Nhóm phương pháp này bao gồm các kỹ thuật như cắt tỉa (pruning), lượng tử hóa (quantization) và distillation tri thức (knowledge distillation), nhằm thu nhỏ footprint của mô hình trong khi vẫn duy trì hiệu suất. Đây là yếu tố thiết yếu để triển khai các mô hình AI phức tạp

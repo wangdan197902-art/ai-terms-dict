@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /fr/terms/business_process_automation/
 date: "2026-07-18T11:07:10.028301Z"
 lastmod: "2026-07-18T11:44:45.205169Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'utilisation de la technologie pour exécuter des tâches ou processus récurrents dans une entreprise là où l'effort manuel peut être remplacé."
 ---
-
 ## Definition
 
 L'automatisation des processus métier (APM) consiste à utiliser des logiciels et l'IA pour rationaliser les flux de travail complexes. Contrairement à la RPA (Automatisation robotisée des processus) qui gère des tâches basées sur des règles simples, l'APM intègre souvent des capacités cognitives pour gérer des processus plus dynamiques et décisionnels.

@@ -1,23 +1,24 @@
 ---
-title: "Хеширование признаков"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Хеширование признаков
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /ru/terms/feature_hashing/
-date: "2026-07-18T15:53:24.673940Z"
-lastmod: "2026-07-18T16:38:07.156769Z"
+slug: feature_hashing
+date: '2026-07-18T15:53:24.673940Z'
+lastmod: '2026-07-18T16:38:07.156769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод, отображающий высокоразмерные разреженные признаки в вектор фиксированного размера с использованием хеш-функции."
+source: agnes_llm
+status: published
+language: ru
+description: Метод, отображающий высокоразмерные разреженные признаки в вектор фиксированного
+  размера с использованием хеш-функции.
 ---
-
 ## Definition
 
 Хеширование признаков, также известное как трюк хеширования, позволяет моделям машинного обучения обрабатывать большие разреженные пространства признаков без необходимости поддерживать явное отображение между признаками и индексами. Применяя хеш-функцию...

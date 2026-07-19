@@ -1,23 +1,25 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /vi/terms/pythia/
-date: "2026-07-18T16:09:04.608577Z"
-lastmod: "2026-07-18T16:38:07.796984Z"
+slug: pythia
+date: '2026-07-18T16:09:04.608577Z'
+lastmod: '2026-07-18T16:38:07.796984Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Pythia là một bộ các mô hình ngôn ngữ lớn (LLM) chỉ sử dụng bộ giải mã (decoder-only) do EleutherAI phát triển, với kích thước từ 70 triệu đến 12 tỷ tham số."
+source: agnes_llm
+status: published
+language: vi
+description: Pythia là một bộ các mô hình ngôn ngữ lớn (LLM) chỉ sử dụng bộ giải mã
+  (decoder-only) do EleutherAI phát triển, với kích thước từ 70 triệu đến 12 tỷ tham
+  số.
 ---
-
 ## Definition
 
 Pythia là một loạt các mô hình ngôn ngữ lớn (LLM) mã nguồn mở do EleutherAI tạo ra, nhằm hỗ trợ nghiên cứu về khả năng diễn giải và hành vi của mạng nơ-ron. Bộ này bao gồm các mô hình với nhiều kích thước khác nhau để phục vụ các mục đích nghiên cứu khoa học.

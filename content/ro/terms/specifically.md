@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /ro/terms/specifically/
 date: "2026-07-18T15:29:45.138944Z"
 lastmod: "2026-07-18T17:15:09.604388Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la detalii precise, distincte sau particulare într-un context mai larg."
 ---
-
 ## Definition
 
 În terminologia IA, „anume” denotă precizia în definirea modelelor, a punctelor de date sau a operațiilor. Distinge parametrii exacti de categoriile generale, asigurând claritatea în documentația tehnică.

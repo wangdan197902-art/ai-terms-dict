@@ -7,8 +7,6 @@ tags: ["LLM", "microsoft", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "phi"
-aliases:
-  - /ko/terms/phi/
 date: "2026-07-18T16:09:36.005121Z"
 lastmod: "2026-07-18T16:38:06.896373Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "지식 밀도와 추론 능력을 중점으로 하는 마이크로소프트 리서치(Microsoft Research)에서 개발한 소형이지만 매우 효율적인 대규모 언어 모델 시리즈."
 ---
-
 ## Definition
 
 Phi는 'Teaching-Learning Paradigm(교수-학습 패러다임)'을 기반으로 한 파운데이션 모델을 줄인 이름으로, 마이크로소프트에서 개발한 컴팩트한 대규모 언어 모델(Large Language Model) 계열입니다. 거대한 웹 코퍼스(web corpus)로 훈련된 기존 LLM과는 달리, Phi는 고품질 교육용 데이터와 합성 데이터를 사용하여 높은 추론 능력과 지식 밀도를 달성합니다.

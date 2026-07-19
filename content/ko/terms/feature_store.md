@@ -1,23 +1,23 @@
 ---
-title: "피처 스토어"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: 피처 스토어
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /ko/terms/feature_store/
-date: "2026-07-18T15:55:47.592284Z"
-lastmod: "2026-07-18T16:38:06.840437Z"
+slug: feature_store
+date: '2026-07-18T15:55:47.592284Z'
+lastmod: '2026-07-18T16:38:06.840437Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "머신러닝 훈련과 추론 전반에 걸쳐 피처를 일관되게 관리, 공유 및 제공하기 위해 설계된 중앙 집중식 저장소입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 머신러닝 훈련과 추론 전반에 걸쳐 피처를 일관되게 관리, 공유 및 제공하기 위해 설계된 중앙 집중식 저장소입니다.
 ---
-
 ## Definition
 
 피처 스토어는 데이터 엔지니어링 팀과 머신러닝 팀 간의 가교 역할을 하며, 배치 훈련과 실시간 추론 모두를 위한 피처의 통합된 뷰를 제공합니다. 이를 통해 일관성을 보장합니다.

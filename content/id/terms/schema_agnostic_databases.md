@@ -7,8 +7,6 @@ tags: ["database", "storage", "architecture"]
 difficulty: 2
 weight: 1
 slug: "schema_agnostic_databases"
-aliases:
-  - /id/terms/schema_agnostic_databases/
 date: "2026-07-18T16:08:09.856943Z"
 lastmod: "2026-07-18T16:38:07.504910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Database agnostik skema adalah sistem penyimpanan yang memungkinkan struktur data fleksibel tanpa memerlukan skema yang telah ditentukan sebelumnya, sering digunakan dalam lingkungan NoSQL."
 ---
-
 ## Definition
 
 Database ini memungkinkan pemodelan data dinamis dengan tidak memberlakukan struktur tabel atau definisi kolom yang kaku di awal. Fleksibilitas ini memungkinkan pengembang menyimpan data tidak terstruktur atau semi-terstruktur, menyesuaikan diri dengan perubahan format data.

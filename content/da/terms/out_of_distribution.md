@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /da/terms/out_of_distribution/
 date: "2026-07-18T15:32:52.635714Z"
 lastmod: "2026-07-18T17:15:09.240605Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: " datapunkter, der afviger betydeligt fra fordelingen, modellen så under træningsfasen."
 ---
-
 ## Definition
 
 Detektion af out-of-distribution (OOD) data identificerer input, der falder uden for omfanget af træningsdatafordelingen. Modeller yder ofte dårligt eller med overbevisende forkerte svar på OOD-data, hvilket fører til usikker

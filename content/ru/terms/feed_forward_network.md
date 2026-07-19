@@ -1,23 +1,24 @@
 ---
-title: "Прямая сеть (Feed-Forward Network)"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Прямая сеть (Feed-Forward Network)
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /ru/terms/feed_forward_network/
-date: "2026-07-18T15:53:24.673990Z"
-lastmod: "2026-07-18T16:38:07.157393Z"
+slug: feed_forward_network
+date: '2026-07-18T15:53:24.673990Z'
+lastmod: '2026-07-18T16:38:07.157393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Класс искусственных нейронных сетей, в которых связи между узлами не образуют циклов, а информация распространяется в одном направлении."
+source: agnes_llm
+status: published
+language: ru
+description: Класс искусственных нейронных сетей, в которых связи между узлами не
+  образуют циклов, а информация распространяется в одном направлении.
 ---
-
 ## Definition
 
 Сети прямой передачи (FFN), также известные как многослойные перцептроны (MLP), обрабатывают данные последовательно через слои нейронов от входа к выходу без петель обратной связи. Каждый нейрон получает входные...

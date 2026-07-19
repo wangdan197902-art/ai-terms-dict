@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /no/terms/offline_learning/
 date: "2026-07-18T16:09:52.018446Z"
 lastmod: "2026-07-18T16:38:07.030586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Frakoblet læring er en treningsparadigme der modeller trenes på statiske datasett uten interaksjon med det levende miljøet under læringsfasen."
 ---
-
 ## Definition
 
 Også kjent som batch-læring, involverer frakoblet læring trening av maskinlæringsmodeller på et fast datasett samlet inn tidligere. I motsetning til online læring oppdaterer modellen ikke parametrene sine i sanntid basert på nye datastrømmer.

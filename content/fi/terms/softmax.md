@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /fi/terms/softmax/
-date: "2026-07-18T15:38:32.319980Z"
-lastmod: "2026-07-18T17:15:09.375270Z"
+slug: softmax
+date: '2026-07-18T15:38:32.319980Z'
+lastmod: '2026-07-18T17:15:09.375270Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Matemaattinen funktio, joka muuntaa mielivaltaisten reaalilukuarvojen vektorin todennäköisyysjakaumaksi."
+source: agnes_llm
+status: published
+language: fi
+description: Matemaattinen funktio, joka muuntaa mielivaltaisten reaalilukuarvojen
+  vektorin todennäköisyysjakaumaksi.
 ---
-
 ## Definition
 
 Softmaxia käytetään laajasti moniluokkaiseen luokitteluun tarkoitettujen neuroverkkojen ulostulokerroksessa. Se ottaa raakojen logit-arvojen vektorin ja normalisoi ne siten, että kukin alkio edustaa todennäköisyyttä.

@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /tr/terms/machine_learning_in_physics/
 date: "2026-07-18T16:02:06.296177Z"
 lastmod: "2026-07-18T16:38:07.331302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Karmaşık fizik problemlerini çözmek, kuantum sistemlerini simüle etmek ve parçacık hızlandırıcılarından deneysel verileri analiz etmek amacıyla makine öğreniminin uygulanmasıdır."
 ---
-
 ## Definition
 
 Fizikte makine öğrenimi, kuantum mekaniğini simüle etmeye, yüksek enerjili çarpışma verilerini analiz etmeye ve yeni malzemeler keşfetmeye yardımcı olur. Fizikçilerin çok boyutlu parametre uzaylarında gezinmesine ve karmaşık dağılımları modellemesine olanak tanır.

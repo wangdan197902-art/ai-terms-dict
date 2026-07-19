@@ -1,23 +1,23 @@
 ---
-title: "THUDM"
-term_id: "thudm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organizations", "open_source"]
+title: THUDM
+term_id: thudm
+category: basic_concepts
+subcategory: ''
+tags:
+- organizations
+- Open Source
 difficulty: 2
 weight: 1
-slug: "thudm"
-aliases:
-  - /vi/terms/thudm/
-date: "2026-07-18T16:14:42.225338Z"
-lastmod: "2026-07-18T16:38:07.812364Z"
+slug: thudm
+date: '2026-07-18T16:14:42.225338Z'
+lastmod: '2026-07-18T16:38:07.812364Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "THUDM là một nhóm nghiên cứu tại Đại học Thanh Hoa, nổi tiếng với việc phát triển các mô hình AI mã nguồn mở như ChatGLM."
+source: agnes_llm
+status: published
+language: vi
+description: THUDM là một nhóm nghiên cứu tại Đại học Thanh Hoa, nổi tiếng với việc
+  phát triển các mô hình AI mã nguồn mở như ChatGLM.
 ---
-
 ## Definition
 
 THUDM (Nhóm nghiên cứu Xử lý Ngôn ngữ Tự nhiên thuộc Đại học Thanh Hoa) là một tổ chức học thuật và nghiên cứu nổi bật tập trung vào trí tuệ nhân tạo, đặc biệt là xử lý ngôn ngữ tự nhiên. Họ...

@@ -1,23 +1,25 @@
 ---
-title: "Falcon"
-term_id: "falcon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "open_source", "models"]
+title: Falcon
+term_id: falcon
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- Open Source
+- models
 difficulty: 2
 weight: 1
-slug: "falcon"
-aliases:
-  - /id/terms/falcon/
-date: "2026-07-18T15:50:22.628235Z"
-lastmod: "2026-07-18T16:38:07.457360Z"
+slug: falcon
+date: '2026-07-18T15:50:22.628235Z'
+lastmod: '2026-07-18T16:38:07.457360Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Keluarga model bahasa besar (LLM) yang dikembangkan oleh Technology Innovation Institute, dikenal karena kinerja tinggi dan efisiensi dibandingkan LLM sumber terbuka lainnya."
+source: agnes_llm
+status: published
+language: id
+description: Keluarga model bahasa besar (LLM) yang dikembangkan oleh Technology Innovation
+  Institute, dikenal karena kinerja tinggi dan efisiensi dibandingkan LLM sumber terbuka
+  lainnya.
 ---
-
 ## Definition
 
 Falcon merujuk pada serangkaian model bahasa besar (LLM) yang kuat yang dibuat oleh Technology Innovation Institute. Model-model ini, seperti Falcon-40B dan Falcon-180B, dirancang untuk bersaing dengan model tertutup.

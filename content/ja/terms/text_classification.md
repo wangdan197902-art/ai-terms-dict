@@ -1,23 +1,23 @@
 ---
-title: "テキスト分類"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: テキスト分類
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /ja/terms/text_classification/
-date: "2026-07-18T11:34:13.391073Z"
-lastmod: "2026-07-18T11:44:45.150013Z"
+slug: text_classification
+date: '2026-07-18T11:34:13.391073Z'
+lastmod: '2026-07-18T11:44:45.150013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "コンテンツまたは意味に基づいて、テキストを整理されたグループにカテゴリ分けするプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: コンテンツまたは意味に基づいて、テキストを整理されたグループにカテゴリ分けするプロセス。
 ---
-
 ## Definition
 
 テキスト分類は、アルゴリズムが構造化されていないテキストデータに事前定義されたカテゴリを割り当てる教師あり学習のタスクです。一般的な手法には、ナイーブベイズ、サポートベクターマシン、ディープラーニングが含まれます。

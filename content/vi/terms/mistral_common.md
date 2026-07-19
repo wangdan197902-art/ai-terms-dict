@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /vi/terms/mistral_common/
 date: "2026-07-18T16:03:31.643175Z"
 lastmod: "2026-07-18T16:38:07.782951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thư viện dùng chung cung cấp các chức năng mã hóa và tiện ích tương thích với nhiều biến thể của mô hình Mistral AI."
 ---
-
 ## Definition
 
 Mistral Common là một gói Python do Mistral AI duy trì, cung cấp các công cụ tiêu chuẩn hóa để tương tác với các mô hình của họ. Nó chủ yếu cung cấp triển khai bộ mã hóa (tokenizer) cần thiết để chuyển đổi văn bản

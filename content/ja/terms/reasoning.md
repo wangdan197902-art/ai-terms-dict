@@ -1,23 +1,23 @@
 ---
-title: "推論"
-term_id: "reasoning"
-category: "application_paradigms"
-subcategory: ""
-tags: ["cognitive", "logic", "ai-capabilities"]
+title: 推論
+term_id: reasoning
+category: application_paradigms
+subcategory: ''
+tags:
+- cognitive
+- logic
+- AI Capabilities
 difficulty: 3
 weight: 1
-slug: "reasoning"
-aliases:
-  - /ja/terms/reasoning/
-date: "2026-07-18T11:00:21.252642Z"
-lastmod: "2026-07-18T11:44:45.056976Z"
+slug: reasoning
+date: '2026-07-18T11:00:21.252642Z'
+lastmod: '2026-07-18T11:44:45.056976Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "推論とは、利用可能な情報に基づいて結論を導き出し、予測を行ったり問題を解決したりするための認知プロセスを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: 推論とは、利用可能な情報に基づいて結論を導き出し、予測を行ったり問題を解決したりするための認知プロセスを指します。
 ---
-
 ## Definition
 
 AIにおいて、推論はデータ処理と洞察の生成のために、論理的演繹、帰納法、またはアブダクションをシミュレートするアルゴリズムを含みます。これには、記号論理、確率的推論、因果推論などの技術が含まれます。

@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /hu/terms/lora/
 date: "2026-07-18T15:27:31.373026Z"
 lastmod: "2026-07-18T17:15:09.723722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Low-Rank Adaptation (Alacsony rangú adaptáció) egy paraméter-hatékony finomhangolási módszer, amely betanítható rang-dekompozíciós mátrixokat injektál a meglévő modell súlyokba."
 ---
-
 ## Definition
 
 A LoRA felfüggeszti (fagyasztja) az előre betanított modell súlyait, és betanítható dekompozíciós mátrixokat helyez el a transzformátor architektúra minden rétegében. Csak ezeknek az alacsony rangú mátrixoknak az optimalizálásával a LoRA jelentősen csökkenti...

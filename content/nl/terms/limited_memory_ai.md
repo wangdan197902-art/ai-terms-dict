@@ -1,23 +1,25 @@
 ---
-title: "AI met beperkt geheugen"
-term_id: "limited_memory_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_types", "machine_learning", "classification"]
+title: AI met beperkt geheugen
+term_id: limited_memory_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Types
+- Machine Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "limited_memory_ai"
-aliases:
-  - /nl/terms/limited_memory_ai/
-date: "2026-07-18T16:04:29.089239Z"
-lastmod: "2026-07-18T17:15:08.762124Z"
+slug: limited_memory_ai
+date: '2026-07-18T16:04:29.089239Z'
+lastmod: '2026-07-18T17:15:08.762124Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "AI-systemen die in staat zijn om eerdere gegevens en ervaringen op te slaan om toekomstige beslissingen te sturen, wat de basis vormt van de meeste moderne machine learning-toepassingen."
+source: agnes_llm
+status: published
+language: nl
+description: AI-systemen die in staat zijn om eerdere gegevens en ervaringen op te
+  slaan om toekomstige beslissingen te sturen, wat de basis vormt van de meeste moderne
+  machine learning-toepassingen.
 ---
-
 ## Definition
 
 AI met beperkt geheugen vertegenwoordigt het tweede niveau van AI-capaciteiten, waarbij systemen kunnen leren uit historische gegevens en hun gedrag daarop kunnen aanpassen. In tegenstelling tot reactieve machines behouden deze systemen informatie over eerdere interacties en context om betere voorspellingen en beslissingen te nemen.

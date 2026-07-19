@@ -1,23 +1,24 @@
 ---
-title: "Dane oznaczone"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Dane oznaczone
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /pl/terms/labeled_data/
-date: "2026-07-18T16:03:21.970383Z"
-lastmod: "2026-07-18T17:15:08.890215Z"
+slug: labeled_data
+date: '2026-07-18T16:03:21.970383Z'
+lastmod: '2026-07-18T17:15:08.890215Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Dane, w których prawidłowy wynik lub wartość docelowa jest podawana wraz z cechami wejściowymi."
+source: agnes_llm
+status: published
+language: pl
+description: Dane, w których prawidłowy wynik lub wartość docelowa jest podawana wraz
+  z cechami wejściowymi.
 ---
-
 ## Definition
 
 Dane oznaczone składają się z próbek wejściowych sparowanych z odpowiadającymi im etykietami prawdziwymi (ground truth), stanowiąc fundament uczenia nadzorowanego w uczeniu maszynowym. Pozwalają one algorytmom nauczyć się mapowania między wejściem a wyjściem.

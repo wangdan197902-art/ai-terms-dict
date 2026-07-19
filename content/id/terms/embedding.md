@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /id/terms/embedding/
 date: "2026-07-18T15:23:01.511847Z"
 lastmod: "2026-07-18T16:38:07.387576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah teknik yang memetakan objek diskrit seperti kata atau gambar ke dalam ruang vektor kontinu."
 ---
-
 ## Definition
 
 Embedding adalah representasi vektor padat dari data di mana hubungan semantik dipertahankan dalam ruang geometris. Dengan mengonversi input kategorikal atau berdimensi tinggi menjadi vektor dengan panjang tetap, model

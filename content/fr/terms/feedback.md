@@ -7,8 +7,6 @@ tags: ["learning", "improvement"]
 difficulty: 2
 weight: 1
 slug: "feedback"
-aliases:
-  - /fr/terms/feedback/
 date: "2026-07-18T10:50:22.162499Z"
 lastmod: "2026-07-18T11:44:45.162749Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La rétroaction consiste à utiliser les résultats de sortie pour ajuster et améliorer itérativement les performances d'un modèle ou système d'IA."
 ---
-
 ## Definition
 
 Les mécanismes de rétroaction permettent aux systèmes d'IA d'apprendre de leurs interactions avec les utilisateurs ou l'environnement, affinant ainsi les prédictions ou actions futures. Cela inclut les signaux d'apprentissage par renforcement, l'humain dans la boucle, etc.

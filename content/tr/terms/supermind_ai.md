@@ -7,8 +7,6 @@ tags: ["architecture", "collaboration", "cognitive"]
 difficulty: 4
 weight: 1
 slug: "supermind_ai"
-aliases:
-  - /tr/terms/supermind_ai/
 date: "2026-07-18T16:16:02.054548Z"
 lastmod: "2026-07-18T16:38:07.369756Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Üstün problem çözme yeteneğine sahip, birleştirilmiş ve geliştirilmiş bir bilişsel varlık haline gelmek üzere birden fazla akıllı ajanı veya modeli entegre etmek üzere tasarlanmış bir yapay zeka mimar"
 ---
-
 ## Definition
 
 Süper zihin yapay zekası, birden fazla yapay zeka bileşeni, insan uzmanı veya hibrit insan-yapay zeka ekiplerinin, bireysel herhangi birinden daha yüksek kapasiteye sahip kolektif bir zeka oluşturmak için sorunsuz işbirliği yaptığı sistemleri ifade eder.

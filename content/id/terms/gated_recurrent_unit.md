@@ -7,8 +7,6 @@ tags: ["Neural Networks", "Deep Learning", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "gated_recurrent_unit"
-aliases:
-  - /id/terms/gated_recurrent_unit/
 date: "2026-07-18T15:51:39.525713Z"
 lastmod: "2026-07-18T16:38:07.461363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Jenis arsitektur jaringan saraf rekuren yang menggunakan mekanisme gerbang untuk mengontrol aliran informasi, berfungsi sebagai alternatif yang disederhanakan dari LSTM."
 ---
-
 ## Definition
 
 Unit Rekuren Gerbang (GRU) adalah sel jaringan saraf rekuren (RNN) khusus yang dirancang untuk menangkap ketergantungan jangka panjang dalam data sekuensial. GRU menyederhanakan arsitektur Long Short-Term Memory (LSTM)

@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /nl/terms/dabus/
 date: "2026-07-18T15:48:56.039852Z"
 lastmod: "2026-07-18T17:15:08.730595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "DABUS staat voor Device for the Autonomous Bootstrapping of Unified Sentience, een AI-systeem ontwikkeld door Stephen Thaler dat beweerde technologieën autonoom te hebben uitgevonden."
 ---
-
 ## Definition
 
 DABUS is een specifiek kunstmatig neurale netwerk dat is ontworpen om nieuwe uitvindingen te genereren zonder directe menselijke tussenkomst. Het kreeg aanzienlijke juridische aandacht toen de uitvinder, Stephen Thaler, probeerde

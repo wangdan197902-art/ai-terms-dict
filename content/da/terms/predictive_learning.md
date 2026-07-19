@@ -1,23 +1,24 @@
 ---
-title: "Forudsigende læring"
-term_id: "predictive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "pretraining", "representation"]
+title: Forudsigende læring
+term_id: predictive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- pretraining
+- representation
 difficulty: 3
 weight: 1
-slug: "predictive_learning"
-aliases:
-  - /da/terms/predictive_learning/
-date: "2026-07-18T16:12:25.222611Z"
-lastmod: "2026-07-18T17:15:09.321762Z"
+slug: predictive_learning
+date: '2026-07-18T16:12:25.222611Z'
+lastmod: '2026-07-18T17:15:09.321762Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En selvovervåget tilgang, hvor modeller lærer repræsentationer ved at forudsige manglende dele af inputdata."
+source: agnes_llm
+status: published
+language: da
+description: En selvovervåget tilgang, hvor modeller lærer repræsentationer ved at
+  forudsige manglende dele af inputdata.
 ---
-
 ## Definition
 
 Forudsigende læring indebærer træning af neurale netværk til at inferere uobserverede datapunkter fra observerede inputs uden eksplicitte menneskelige etiketter. Ved at løse opgaver som næste-token-forudsigelse i sprog eller maskeringsmodeller opnår modellen en dyb forståelse af datastrukturen.

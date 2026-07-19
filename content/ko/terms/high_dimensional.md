@@ -1,23 +1,23 @@
 ---
-title: "고차원(High-dimensional)"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: 고차원(High-dimensional)
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /ko/terms/high_dimensional/
-date: "2026-07-18T15:31:53.946059Z"
-lastmod: "2026-07-18T16:38:06.789190Z"
+slug: high_dimensional
+date: '2026-07-18T15:31:53.946059Z'
+lastmod: '2026-07-18T16:38:06.789190Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특성 또는 차원이 매우 많은 데이터 공간을 설명하며, 종종 데이터의 희소성과 계산적 어려움을 초래합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 특성 또는 차원이 매우 많은 데이터 공간을 설명하며, 종종 데이터의 희소성과 계산적 어려움을 초래합니다.
 ---
-
 ## Definition
 
 고차원은 방대한 수의 속성이나 특성을 포함하는 데이터셋이나 벡터 공간을 의미합니다. AI 분야에서는 텍스트 임베딩, 이미지 픽셀, 유전자 발현 데이터 등에서 흔히 발견됩니다. 이러한 공간은 정보의 밀도가 높지만, 차원이 증가할수록 데이터가 드물게 분포하는 '차원의 저주'와 같은 계산적 도전에 직면하게 됩니다.

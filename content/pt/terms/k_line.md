@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /pt/terms/k_line/
 date: "2026-07-18T15:06:43.445077Z"
 lastmod: "2026-07-18T15:51:59.504080Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um tipo de gráfico financeiro, também conhecido como gráfico de candlestick, usado para visualizar movimentos de preço em intervalos de tempo específicos."
 ---
-
 ## Definition
 
 Um K-line, comumente referido como gráfico de candlestick nos mercados ocidentais, é uma representação gráfica da dinâmica de preços de um ativo, derivativo ou moeda. Ele exibe quatro pontos de dados principais: o preço de abertura, o mais alto, o mais baixo e o de fechamento (OHLC), permitindo aos analistas identificar padrões de tendência e reversão de mercado de forma visual.

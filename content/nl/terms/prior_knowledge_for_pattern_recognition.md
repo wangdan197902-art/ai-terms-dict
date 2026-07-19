@@ -1,23 +1,24 @@
 ---
-title: "Voorkennis voor patroonherkenning"
-term_id: "prior_knowledge_for_pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pattern-recognition", "bias", "knowledge"]
+title: Voorkennis voor patroonherkenning
+term_id: prior_knowledge_for_pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- Pattern Recognition
+- bias
+- knowledge
 difficulty: 3
 weight: 1
-slug: "prior_knowledge_for_pattern_recognition"
-aliases:
-  - /nl/terms/prior_knowledge_for_pattern_recognition/
-date: "2026-07-18T16:13:03.823051Z"
-lastmod: "2026-07-18T17:15:08.778072Z"
+slug: prior_knowledge_for_pattern_recognition
+date: '2026-07-18T16:13:03.823051Z'
+lastmod: '2026-07-18T17:15:08.778072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Bestaande informatie of aannames die in machine learning-modellen worden geïntegreerd om de nauwkeurigheid van patroonidentificatie te verbeteren."
+source: agnes_llm
+status: published
+language: nl
+description: Bestaande informatie of aannames die in machine learning-modellen worden
+  geïntegreerd om de nauwkeurigheid van patroonidentificatie te verbeteren.
 ---
-
 ## Definition
 
 Voorkennis verwijst naar domeinspecifieke inzichten, beperkingen of historische gegevens die in algoritmen worden opgenomen voordat met het trainen wordt begonnen. Dit helpt het model naar aannemelijke oplossingen te leiden, waardoor...

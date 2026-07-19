@@ -7,8 +7,6 @@ tags: ["models", "architecture", "history"]
 difficulty: 3
 weight: 1
 slug: "grok_1"
-aliases:
-  - /vi/terms/grok_1/
 date: "2026-07-18T15:55:54.184032Z"
 lastmod: "2026-07-18T16:38:07.763505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Phiên bản đầu tiên của mô hình ngôn ngữ Grok do xAI phát hành, sử dụng kiến trúc Mixture-of-Experts và có khoảng 33 tỷ tham số."
 ---
-
 ## Definition
 
 Grok-1 là bản phát hành đầu tiên từ xAI, ra mắt vào tháng 11 năm 2023. Đây là một mô hình ngôn ngữ lớn dựa trên kiến trúc Transformer chỉ bao gồm phần giải mã (decoder-only) với khoảng 33 tỷ tham số. Điểm đáng chú ý là nó sử dụng kiến trúc Mixture-of-Experts (MoE), cho phép mô hình kích hoạt chỉ một phần các tham số cho mỗi lần suy luận, giúp tăng hiệu quả tính toán.

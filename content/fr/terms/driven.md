@@ -1,23 +1,25 @@
 ---
-title: "Piloté par / Basé sur"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Piloté par / Basé sur
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /fr/terms/driven/
-date: "2026-07-18T10:49:43.580766Z"
-lastmod: "2026-07-18T11:44:45.161310Z"
+slug: driven
+date: '2026-07-18T10:49:43.580766Z'
+lastmod: '2026-07-18T11:44:45.161310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le terme « piloté par » décrit les systèmes ou méthodologies IA où la prise de décision ou l'architecture du modèle est principalement guidée par un type d'entrée spécifique, tel que les données ou le"
+source: agnes_llm
+status: published
+language: fr
+description: Le terme « piloté par » décrit les systèmes ou méthodologies IA où la
+  prise de décision ou l'architecture du modèle est principalement guidée par un type
+  d'entrée spécifique, tel que les données ou le
 ---
-
 ## Definition
 
 Le terme « driven » est couramment utilisé comme suffixe pour indiquer la force ou le mécanisme principal derrière une approche IA. Par exemple, « data-driven » (piloté par les données) implique que les décisions sont prises sur la base de modèles statistiques.

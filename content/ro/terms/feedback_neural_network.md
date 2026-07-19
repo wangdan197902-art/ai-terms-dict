@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /ro/terms/feedback_neural_network/
 date: "2026-07-18T15:58:41.708870Z"
 lastmod: "2026-07-18T17:15:09.656500Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O arhitectură de rețea neuronală în care conexiunile formează cicluri dirijate, permițând persistența informației în timp."
 ---
-
 ## Definition
 
 Rețelele neuronale cu feedback, cunoscute și sub denumirea de rețele neuronale recurente (RNN), conțin bucle care permit propagarea semnalelor înapoi în straturile anterioare. Această recurență permite rețelei să mențină o stare internă.

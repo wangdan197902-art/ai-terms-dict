@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /nl/terms/golog/
 date: "2026-07-18T15:56:02.317977Z"
 lastmod: "2026-07-18T17:15:08.746599Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een programmeertaal op hoog niveau gebaseerd op de situatiecalculus voor het specificeren van acties en redeneren over dynamische domeinen."
 ---
-
 ## Definition
 
 GOLOG is een op logica gebaseerde programmeertaal die voornamelijk in de kunstmatige intelligentie wordt gebruikt voor plannen en handelen in dynamische omgevingen. Gebouwd op de situatiecalculus van Reiter, stelt het ontwikkelaars in staat complexe taken te specificeren en te verifiëren binnen veranderende contexten.

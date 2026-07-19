@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /he/terms/computational_humor/
 date: "2026-07-18T15:48:40.332684Z"
 lastmod: "2026-07-18T17:15:09.521709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תת-תחום של AI המתמקד ביצירה, הבנה והערכה של תוכן הומוריסטי באמצעים חישוביים."
 ---
-
 ## Definition
 
 הומור חישובי חוקר כיצם מכונות יכולות לייצר או לפרש בדיחות, משחקי מילים והערות חכמות. הוא מסתמך בדרך כלל על עיבוד שפה טבעית (NLP) כדי לזהות אי-התאמות, שינויים סמנטיים או ציפיות שלא התממשו.

@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /fi/terms/aiops/
 date: "2026-07-18T15:40:42.810317Z"
 lastmod: "2026-07-18T17:15:09.379605Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "AIOps viittaa tekoälyn ja koneoppimisen soveltamiseen IT-toimintaprosessien automatisoimiseen."
 ---
-
 ## Definition
 
 IT-toiminnan tekoäly (AIOps) yhdistää big data -analytiikan ja koneoppimisalgoritmit IT-infrastruktuurin ja toiminnan hallinnan automatisointiin. Se auttaa organisaatioita hallinnoimaan monimutkaisia järjestelmiä tehokkaammin.

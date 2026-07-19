@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /fi/terms/pruning/
 date: "2026-07-18T16:17:02.608287Z"
 lastmod: "2026-07-18T17:15:09.446884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mallin tiivistämistekniikka, joka poistaa redundanteja tai vähemmän merkittäviä parametreja koon pienentämiseksi ja päättelynopeuden parantamiseksi."
 ---
-
 ## Definition
 
 Oksentamisessa tunnistetaan ja poistetaan neuroverkosta neuroneja, yhteyksiä tai suodattimia, jotka tuottavat vähäistä vaikutusta tuloksen tarkkuuteen. Näiden redundantejen elementtien poistamalla malli muuttuu kevyemmäksi ja nopeammaksi päättelyssä säilyttäen suorituskyvyn.

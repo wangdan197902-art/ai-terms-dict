@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /tr/terms/api/
 date: "2026-07-18T15:22:18.226287Z"
 lastmod: "2026-07-18T16:38:07.223961Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Farklı yazılım sistemlerinin iletişim kurmasını ve veri alışverişinde bulunmasını sağlayan Uygulama Programlama Arayüzü."
 ---
-
 ## Definition
 
 API, yazılım ve uygulama geliştirmek için bir dizi protokol ve araç seti tanımlar. Yapay zeka alanında API'ler, geliştiricilerin bu modelleri yerel olarak barındırmadan LLM'ler veya görüntü oluşturucular gibi güçlü modellere erişmesini sağlar.

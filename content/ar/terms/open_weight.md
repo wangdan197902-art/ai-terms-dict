@@ -1,23 +1,23 @@
 ---
-title: "أوزان مفتوحة (Open-weight)"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: أوزان مفتوحة (Open-weight)
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /ar/terms/open_weight/
-date: "2026-07-18T15:34:43.413596Z"
-lastmod: "2026-07-18T17:15:08.456645Z"
+slug: open_weight
+date: '2026-07-18T15:34:43.413596Z'
+lastmod: '2026-07-18T17:15:08.456645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نماذج ذكاء اصطناعي يتم فيها نشر المعلمات المدربة (الأوزان)، لكن كود التدريب والبيانات قد تبقى خاصة."
+source: agnes_llm
+status: published
+language: ar
+description: نماذج ذكاء اصطناعي يتم فيها نشر المعلمات المدربة (الأوزان)، لكن كود التدريب
+  والبيانات قد تبقى خاصة.
 ---
-
 ## Definition
 
 تختلف نماذج الأوزان المفتوحة عن الذكاء الاصطناعي مفتوح المصدر بالكامل، حيث يتم إصدار المعلمات النهائية المتعلمة فقط، وليس بالضرورة البنية التحتية أو البيانات المستخدمة لإنشائها. يسمح ذلك للمستخدمين بتشغيل الاستدلال

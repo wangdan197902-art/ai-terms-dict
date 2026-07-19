@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /de/terms/model_context_protocol/
 date: "2026-07-18T10:58:57.944084Z"
 lastmod: "2026-07-18T11:44:44.896629Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein standardisierter Rahmenwerk, das entwickelt wurde, um eine sichere und effiziente Kommunikation zwischen KI-Modellen und externen Datenquellen oder Tools zu erleichtern."
 ---
-
 ## Definition
 
 Das Model Context Protocol (MCP) ist ein offener Standard, der es KI-Anwendungen ermöglicht, sich auf einheitliche Weise mit verschiedenen Datenquellen wie Datenbanken, APIs und Dateisystemen zu verbinden. Es abstrahiert die Komplexität der direkten Integration und ermöglicht so eine nahtlose Interaktion.

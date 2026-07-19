@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Chatbots", "Lifecycle"]
 difficulty: 1
 weight: 1
 slug: "deadbot"
-aliases:
-  - /hu/terms/deadbot/
 date: "2026-07-18T15:55:35.396700Z"
 lastmod: "2026-07-18T17:15:09.772996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy olyan chatbot, amelyet megszüntettek, leállítottak vagy már nem karbantartanak, ami gyakran statikus vagy hibaválaszokhoz vezet a felhasználói bemenetekre."
 ---
-
 ## Definition
 
 A Deadbot egy beszélgető ügynök vagy chatbotszolgáltatás, amely már nem aktív, nem karbantartott és nem támogatott a fejlesztők által. Ezek a botok általában általános hibaüzeneteket, statikus válaszokat vagy elavult tartalmat jelenítenek meg, mivel a háttérrendszerük leállt vagy elérhetetlenné vált.

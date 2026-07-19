@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /cs/terms/compliance/
 date: "2026-07-18T15:48:52.313049Z"
 lastmod: "2026-07-18T17:15:09.111404Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Dodržování právních předpisů, etických norem a odvětvových směrnic systémy umělé inteligence."
 ---
-
 ## Definition
 
 V kontextu umělé inteligence se soulad s předpisy vztahuje na proces zajišťující, že modely AI a jejich nasazení jsou v souladu s platnými zákony, jako je GDPR nebo HIPAA, stejně jako s interními etickými rámci.

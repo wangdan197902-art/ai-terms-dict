@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /id/terms/transformer/
-date: "2026-07-18T15:30:34.302239Z"
-lastmod: "2026-07-18T16:38:07.405253Z"
+slug: transformer
+date: '2026-07-18T15:30:34.302239Z'
+lastmod: '2026-07-18T16:38:07.405253Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Arsitektur pembelajaran mendalam berbasis mekanisme perhatian-diri (self-attention) yang memproses data sekuensial secara paralel, bukan sekuensial."
+source: agnes_llm
+status: published
+language: id
+description: Arsitektur pembelajaran mendalam berbasis mekanisme perhatian-diri (self-attention)
+  yang memproses data sekuensial secara paralel, bukan sekuensial.
 ---
-
 ## Definition
 
 Diperkenalkan dalam makalah 'Attention Is All You Need', arsitektur Transformer merevolusi pemrosesan bahasa alami dan bidang lainnya. Arsitektur ini menggunakan perhatian-diri multi-kepala untuk menimbang signifikansi dari

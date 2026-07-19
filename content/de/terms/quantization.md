@@ -1,23 +1,25 @@
 ---
-title: "Quantisierung"
-term_id: "quantization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "deployment", "performance"]
+title: Quantisierung
+term_id: quantization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- deployment
+- performance
 difficulty: 3
 weight: 1
-slug: "quantization"
-aliases:
-  - /de/terms/quantization/
-date: "2026-07-18T10:59:24.106244Z"
-lastmod: "2026-07-18T11:44:44.898498Z"
+slug: quantization
+date: '2026-07-18T10:59:24.106244Z'
+lastmod: '2026-07-18T11:44:44.898498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Optimierungstechnik für Modelle, die die Genauigkeit der in neuronalen Netzwerkberechnungen verwendeten Zahlen reduziert, um die Größe zu verringern und die Geschwindigkeit zu erhöhen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Optimierungstechnik für Modelle, die die Genauigkeit der in neuronalen
+  Netzwerkberechnungen verwendeten Zahlen reduziert, um die Größe zu verringern und
+  die Geschwindigkeit zu erhöhen.
 ---
-
 ## Definition
 
 Quantisierung wandelt hochpräzise Gleitkommazahlen (wie FP32) in Formate mit niedrigerer Präzision (wie INT8 oder FP16) um. Diese Reduzierung verringert den Speicherverbrauch des Modells und die Rechenanforderungen, was zu schnelleren Inferenzen führt.

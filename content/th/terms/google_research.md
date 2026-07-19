@@ -1,23 +1,24 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /th/terms/google_research/
-date: "2026-07-18T15:57:16.825800Z"
-lastmod: "2026-07-18T16:38:07.611106Z"
+slug: google_research
+date: '2026-07-18T15:57:16.825800Z'
+lastmod: '2026-07-18T16:38:07.611106Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "แผนกวิจัยของ Google ที่อุทิศตนเพื่อพัฒนาปัญญาประดิษฐ์ การเรียนรู้ของเครื่อง และวิทยาศาสตร์คอมพิวเตอร์ผ่านการศึกษาด้านพื้นฐานและการประยุกต์ใช้"
+source: agnes_llm
+status: published
+language: th
+description: แผนกวิจัยของ Google ที่อุทิศตนเพื่อพัฒนาปัญญาประดิษฐ์ การเรียนรู้ของเครื่อง
+  และวิทยาศาสตร์คอมพิวเตอร์ผ่านการศึกษาด้านพื้นฐานและการประยุกต์ใช้
 ---
-
 ## Definition
 
 Google Research เป็นหน่วยงานวิจัยทางวิชาการและอุตสาหกรรมของ Google LLC โดยมุ่งเน้นการขยายขอบเขตเทคโนโลยีในสาขาต่างๆ เช่น ปัญญาประดิษฐ์ การประมวลผลภาษาธรรมชาติ และควอนตัมคอมพิวติ้ง

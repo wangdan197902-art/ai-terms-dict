@@ -7,8 +7,6 @@ tags: ["Performance", "Hardware", "Optimization"]
 difficulty: 3
 weight: 1
 slug: "accelerated_linear_algebra"
-aliases:
-  - /es/terms/accelerated_linear_algebra/
 date: "2026-07-18T10:34:26.874332Z"
 lastmod: "2026-07-18T11:44:44.772402Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El Álgebra Lineal Acelerada implica optimizar operaciones matriciales utilizando aceleradores de hardware como GPU y TPU para alto rendimiento."
 ---
-
 ## Definition
 
 Este campo se centra en acelerar los cálculos fundamentales de álgebra lineal, que son la base del aprendizaje automático y las simulaciones científicas. Al aprovechar las capacidades de procesamiento paralelo de las GPU, TPU y otros aceleradores, se logra una eficiencia computacional significativamente mayor en operaciones intensivas.

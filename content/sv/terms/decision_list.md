@@ -1,23 +1,23 @@
 ---
-title: "Beslutslista"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Beslutslista
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /sv/terms/decision_list/
-date: "2026-07-18T15:53:08.577850Z"
-lastmod: "2026-07-18T17:15:08.994077Z"
+slug: decision_list
+date: '2026-07-18T15:53:08.577850Z'
+lastmod: '2026-07-18T17:15:08.994077Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En tolkbar klassificerare som består av en ordnad lista med regler där den första matchande regeln bestämmer utdata."
+source: agnes_llm
+status: published
+language: sv
+description: En tolkbar klassificerare som består av en ordnad lista med regler där
+  den första matchande regeln bestämmer utdata.
 ---
-
 ## Definition
 
 En beslutslista är en typ av maskininlärningsmodell som representerar kunskap som en sekvens av villkorliga regler. Varje regel består av ett villkor och en förutsagd klassetikett. Vid klassificering av en ny instans...

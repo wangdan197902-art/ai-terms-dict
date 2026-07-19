@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /de/terms/outline_of_machine_learning/
 date: "2026-07-18T11:26:13.434853Z"
 lastmod: "2026-07-18T11:44:44.972343Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine umfassende Kategorisierung von Machine-Learning-Paradigmen, Algorithmen und Bewertungsmetriken."
 ---
-
 ## Definition
 
 Dieser Begriff beschreibt die strukturelle Klassifizierung von Machine Learning in überwachtes, unüberwachtes, halbbewusstes und bestärkendes Lernen. Er umfasst Kernalgorithmusfamilien wie lineare Regr-

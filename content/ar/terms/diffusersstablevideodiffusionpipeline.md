@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: خط أنابيب الانتشار المستقر للفيديو"
-term_id: "diffusersstablevideodiffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "hugging-face", "diffusion-models", "computer-vision"]
+title: 'Diffusers: خط أنابيب الانتشار المستقر للفيديو'
+term_id: diffusersstablevideodiffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- Hugging Face
+- Diffusion Models
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "diffusersstablevideodiffusionpipeline"
-aliases:
-  - /ar/terms/diffusersstablevideodiffusionpipeline/
-date: "2026-07-18T15:54:18.285263Z"
-lastmod: "2026-07-18T17:15:08.497817Z"
+slug: diffusersstablevideodiffusionpipeline
+date: '2026-07-18T15:54:18.285263Z'
+lastmod: '2026-07-18T17:15:08.497817Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "غلاف لخط أنابيب مكتبة Hugging Face Diffusers يستخدم نموذج الانتشار المستقر للفيديو لتوليد مقاطع فيديو من صور ثابتة."
+source: agnes_llm
+status: published
+language: ar
+description: غلاف لخط أنابيب مكتبة Hugging Face Diffusers يستخدم نموذج الانتشار المستقر
+  للفيديو لتوليد مقاطع فيديو من صور ثابتة.
 ---
-
 ## Definition
 
 يشير هذا المصطلح إلى تنفيذ محدد داخل مكتبة Hugging Face Diffusers مصمم لتوليد الفيديو. يدمج هذا النموذج نموذج الانتشار المستقر للفيديو (SVD)، وهو نموذج يعتمد على الانتشار في الفضاء الكامن (latent space) لتوليد مقاطع فيديو متحركة انطلاقاً من إطارات صور ثابتة، مع الحفاظ على الاتساق البصري عبر الزمن.

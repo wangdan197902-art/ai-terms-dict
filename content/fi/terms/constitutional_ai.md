@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /fi/terms/constitutional_ai/
 date: "2026-07-18T15:49:17.573619Z"
 lastmod: "2026-07-18T17:15:09.394209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Menetelmä kouluttaa tekoälymalleja noudattamaan turvallisuusohjeita itsearviointin perustuen ennalta määriteltyihin periaatteisiin."
 ---
-
 ## Definition
 
 Konstitutiivinen tekoäly on viitekehys suurten kielimallien (LLM) sovittamiseksi ihmisen arvojen mukaisiksi ilman, että jokaisessa vaiheessa luotetaan pelkästään ihmispalautteeseen. Se sisältää korkean tason periaatteista koostuvan 'perustuslain' luomisen, jota malli käyttää ohjeistuksena itsensä korjaukseen ja arviointiin.

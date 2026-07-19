@@ -1,23 +1,24 @@
 ---
-title: "Ανάκτηση"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Ανάκτηση
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /el/terms/retrieval/
-date: "2026-07-18T15:44:24.925025Z"
-lastmod: "2026-07-18T17:15:09.870700Z"
+slug: retrieval
+date: '2026-07-18T15:44:24.925025Z'
+lastmod: '2026-07-18T17:15:09.870700Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία ανάκτησης σχετικών δεδομένων από μια βάση δεδομένων ή γνώσης για τον εμπλουτισμό των εισροών του μοντέλου."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία ανάκτησης σχετικών δεδομένων από μια βάση δεδομένων ή γνώσης
+  για τον εμπλουτισμό των εισροών του μοντέλου.
 ---
-
 ## Definition
 
 Η ανάκτηση αναφέρεται στη τεχνική διαδικασία αναζήτησης και εξαγωγής συγκεκριμένης πληροφορίας από μεγάλα σύνολα δεδομένων ή εξωτερικές βάσεις γνώσης με βάση ερωτήματα χρήστη ή πλαίσιο. Στα σύγχρονα συστήματα τεχνητής νοημοσύνης, χρησιμοποιείται συχνά για...

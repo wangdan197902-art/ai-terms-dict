@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /th/terms/similarity_learning/
 date: "2026-07-18T16:15:04.371242Z"
 lastmod: "2026-07-18T16:38:07.654011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "แนวทาง机器学习 ที่เรียนรู้เมตริกdistance เพื่อกำหนดว่าวัตถุสองชิ้นมีความคล้ายคลึงหรือไม่คล้ายคลึงกันเพียงใด"
 ---
-
 ## Definition
 
 การเรียนรู้ความคล้ายคลึงมุ่งเน้นไปที่การฝึกโมเดลเพื่อแมปข้อมูลเข้าสู่อวกาศเวกเตอร์ โดยที่รายการที่คล้ายกันจะอยู่ใกล้กันและรายการที่แตกต่างกันจะอยู่ห่างกัน เทคนิคเช่นเครือข่ายไซแอมส์ (Siamese networks) หรือการสูญเสียแบบทริปเล็ต (triplet loss) มักถูกนำมาใช้

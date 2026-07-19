@@ -7,8 +7,6 @@ tags: ["Networking", "Protocols", "Real-time"]
 difficulty: 4
 weight: 1
 slug: "websocket"
-aliases:
-  - /fr/terms/websocket/
 date: "2026-07-18T11:42:48.530372Z"
 lastmod: "2026-07-18T11:44:45.357095Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un protocole fournissant des canaux de communication bidirectionnels complets sur une seule connexion TCP pour l'échange de données en temps réel."
 ---
-
 ## Definition
 
 WebSocket est un protocole de communication informatique qui permet une communication persistante et bidirectionnelle entre un client et un serveur. Contrairement au HTTP, qui nécessite une nouvelle connexion pour chaque cycle requête-réponse...

@@ -1,23 +1,25 @@
 ---
-title: "Google Research"
-term_id: "google_research"
-category: "application_paradigms"
-subcategory: ""
-tags: ["research", "corporate", "ai"]
+title: Google Research
+term_id: google_research
+category: application_paradigms
+subcategory: ''
+tags:
+- research
+- corporate
+- AI
 difficulty: 2
 weight: 1
-slug: "google_research"
-aliases:
-  - /hu/terms/google_research/
-date: "2026-07-18T16:02:00.188718Z"
-lastmod: "2026-07-18T17:15:09.789545Z"
+slug: google_research
+date: '2026-07-18T16:02:00.188718Z'
+lastmod: '2026-07-18T17:15:09.789545Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Google kutatási osztálya, amelynek célja az mesterséges intelligencia, a gépi tanulás és a számítástudomány előmozdítása alap- és alkalmazott kutatások révén."
+source: agnes_llm
+status: published
+language: hu
+description: A Google kutatási osztálya, amelynek célja az mesterséges intelligencia,
+  a gépi tanulás és a számítástudomány előmozdítása alap- és alkalmazott kutatások
+  révén.
 ---
-
 ## Definition
 
 A Google Research a Google LLC akadémiai és ipari kutatási karának felelős, amelynek fókuszában az technológiai határok kitolása áll olyan területeken, mint a mesterséges intelligencia, a természetes nyelvi feldolgozás és a kvantumszámítástechnika.

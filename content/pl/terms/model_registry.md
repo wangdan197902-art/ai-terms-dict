@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /pl/terms/model_registry/
 date: "2026-07-18T16:08:01.787834Z"
 lastmod: "2026-07-18T17:15:08.898806Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zcentralizowany system przechowywania i zarządzania służący do śledzenia modeli uczenia maszynowego na całym ich cyklu życia."
 ---
-
 ## Definition
 
 Rejestr Modeli stanowi kluczowy element w ramach MLOps, zapewniając ujednolicony repozytorium do przechowywania, wersjonowania i zarządzania modelami ML. Umożliwia zespołom śledzenie metadanych modelu, metryk wydajności oraz historii zmian.

@@ -1,23 +1,24 @@
 ---
-title: "Ennen aikainen pysäytys"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Ennen aikainen pysäytys
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /fi/terms/early_stopping/
-date: "2026-07-18T15:55:31.019429Z"
-lastmod: "2026-07-18T17:15:09.407039Z"
+slug: early_stopping
+date: '2026-07-18T15:55:31.019429Z'
+lastmod: '2026-07-18T17:15:09.407039Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Ennen aikainen pysäytys on säännöllistystekniikka, joka keskeyttää koulutusprosessin, kun mallin suorituskyky validaatiojoukossa alkaa heiketä, estäen näin ylikoulutuksen."
+source: agnes_llm
+status: published
+language: fi
+description: Ennen aikainen pysäytys on säännöllistystekniikka, joka keskeyttää koulutusprosessin,
+  kun mallin suorituskyky validaatiojoukossa alkaa heiketä, estäen näin ylikoulutuksen.
 ---
-
 ## Definition
 
 Ennen aikainen pysäytys on säännöllistysmenetelmä, jota käytetään ensisijaisesti iteratiivisissa koulutusprosesseissa, kuten gradienttinen laskenta. Koulutuksen aikana mallin suorituskyky koulutusdatassa yleensä paranee jatkuvasti, mutta suorituskyky validaatiojoukossa voi alkaa laskea ylikoulutuksen vuoksi. Algoritmi pysäyttää koulutuksen, kun validaatiovirhe kasvaa tietylle kierrokselle asti.

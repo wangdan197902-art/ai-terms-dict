@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /ro/terms/ai_observability/
 date: "2026-07-18T15:41:55.679421Z"
 lastmod: "2026-07-18T17:15:09.622906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Practica de monitorizare și înțelegere a stării interne a sistemelor de învățare automată prin jurnale, metrici și trace-uri."
 ---
-
 ## Definition
 
 Observabilitatea IA extinde monitorizarea tradițională a software-ului pentru a aborda provocările unice ale sistemelor de învățare automată. Aceasta implică urmărirea performanței modelelor, a derapajului datelor și a latenței inferențelor în timp real, permițând diagnosticarea cauzelor rădăcină a problemelor.

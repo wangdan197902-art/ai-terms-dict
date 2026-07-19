@@ -1,23 +1,24 @@
 ---
-title: "Programmation par exemple"
-term_id: "programming_by_example"
-category: "basic_concepts"
-subcategory: ""
-tags: ["program_synthesis", "automation", "ml_for_code"]
+title: Programmation par exemple
+term_id: programming_by_example
+category: basic_concepts
+subcategory: ''
+tags:
+- Program Synthesis
+- automation
+- ML For Code
 difficulty: 3
 weight: 1
-slug: "programming_by_example"
-aliases:
-  - /fr/terms/programming_by_example/
-date: "2026-07-18T11:34:24.741825Z"
-lastmod: "2026-07-18T11:44:45.315721Z"
+slug: programming_by_example
+date: '2026-07-18T11:34:24.741825Z'
+lastmod: '2026-07-18T11:44:45.315721Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'IA où les programmes sont synthétisés automatiquement en inférant des règles à partir d'exemples entrée-sortie fournis par les utilisateurs."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'IA où les programmes sont synthétisés automatiquement
+  en inférant des règles à partir d'exemples entrée-sortie fournis par les utilisateurs.
 ---
-
 ## Definition
 
 La Programmation par Exemple (PBE) est un paradigme de synthèse de programme où les développeurs spécifient le comportement souhaité par des paires concrètes entrée-sortie plutôt qu'en écrivant du code explicite. Le système d'IA analyse ces exemples pour inférer la logique sous-jacente et générer un programme fonctionnel capable de reproduire cette logique sur de nouvelles données.

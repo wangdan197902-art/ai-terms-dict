@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /cs/terms/human_in_the_loop/
 date: "2026-07-18T15:35:52.472188Z"
 lastmod: "2026-07-18T17:15:09.090076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Design systému, kde se lidé aktivně podílejí na rozhodovacím procesu nebo zpětné vazbě umělé inteligence."
 ---
-
 ## Definition
 
 Koncept „člověk v smyčce“ (HITL) označuje systémy AI, které vyžadují lidský zásah v různých fázích pracovního postupu, jako je označování dat, hodnocení modelu nebo schvalování konečného rozhodnutí. Tento přístup zajišťuje...

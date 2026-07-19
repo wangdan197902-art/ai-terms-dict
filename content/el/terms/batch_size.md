@@ -1,23 +1,24 @@
 ---
-title: "Μέγεθος Πακέτου (Batch Size)"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Μέγεθος Πακέτου (Batch Size)
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /el/terms/batch_size/
-date: "2026-07-18T15:53:12.518594Z"
-lastmod: "2026-07-18T17:15:09.884755Z"
+slug: batch_size
+date: '2026-07-18T15:53:12.518594Z'
+lastmod: '2026-07-18T17:15:09.884755Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο αριθμός των παραδειγμάτων εκπαίδευσης που χρησιμοποιούνται σε μία επανάληψη του αλγορίθμου στοχαστικής καθόδου κλίσης."
+source: agnes_llm
+status: published
+language: el
+description: Ο αριθμός των παραδειγμάτων εκπαίδευσης που χρησιμοποιούνται σε μία επανάληψη
+  του αλγορίθμου στοχαστικής καθόδου κλίσης.
 ---
-
 ## Definition
 
 Το μέγεθος πακέτου είναι ένα κρίσιμο υπερπαράμετρο που καθορίζει πόσα δείγματα επεξεργάζονται πριν ενημερωθούν οι εσωτερικές παράμετροι του μοντέλου. Ένα μεγαλύτερο μέγεθος πακέτου παρέχει πιο ακριβή εκτίμηση της κλίσης.

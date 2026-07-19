@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /ro/terms/qlora/
-date: "2026-07-18T15:37:35.875056Z"
-lastmod: "2026-07-18T17:15:09.617385Z"
+slug: qlora
+date: '2026-07-18T15:37:35.875056Z'
+lastmod: '2026-07-18T17:15:09.617385Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Adaptarea de Rang Scăzut Cantizată, o metodă pentru rafinarea eficientă a modelelor lingvistice mari folosind cantizarea la 4 biți și adaptori de rang scăzut."
+source: agnes_llm
+status: published
+language: ro
+description: Adaptarea de Rang Scăzut Cantizată, o metodă pentru rafinarea eficientă
+  a modelelor lingvistice mari folosind cantizarea la 4 biți și adaptori de rang scăzut.
 ---
-
 ## Definition
 
 QLoRA combină Adaptarea de Rang Scăzut (LoRA) cu cantizarea la 4 biți pentru a reduce semnificativ amprenta de memorie necesară rafinării modelelor masive. Prin stocarea ponderilor în format de 4 biți și adăugarea unor adaptori mici, se economisește resursă.

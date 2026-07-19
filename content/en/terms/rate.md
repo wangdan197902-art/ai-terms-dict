@@ -1,23 +1,24 @@
 ---
-title: "Rate"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: Rate
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /en/terms/rate/
-date: "2026-07-18T09:36:45.466506Z"
-lastmod: "2026-07-18T11:44:44.606136Z"
+slug: rate
+date: '2026-07-18T09:36:45.466506Z'
+lastmod: '2026-07-18T11:44:44.606136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A measurement of frequency or speed, commonly referring to learning rates in optimization or token generation speeds."
+source: agnes_llm
+status: published
+language: en
+description: A measurement of frequency or speed, commonly referring to learning rates
+  in optimization or token generation speeds.
 ---
-
 ## Definition
 
 In AI, 'rate' most frequently refers to the learning rate, a hyperparameter that controls how much to change the model in response to the estimated error each time the model weights are updated. A rate that is too high may cause the model to converge too quickly to a suboptimal solution, while a rate that is too low may result in excessively long training times. It can also refer to API request rates or token generation throughput.

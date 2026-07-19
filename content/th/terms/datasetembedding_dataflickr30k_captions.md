@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /th/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T15:48:18.745559Z"
 lastmod: "2026-07-18T16:38:07.593431Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลหลายรูปแบบ (Multimodal) ที่เชื่อมโยงรูปภาพ 31,000 รูปกับคำบรรยายที่มนุษย์เขียน เพื่อใช้ฝึกโมเดล Embedding ข้ามรูปแบบ (Cross-modal)"
 ---
-
 ## Definition
 
 Flickr30K Captions เป็นชุดข้อมูลมาตรฐานที่ใช้กันอย่างแพร่หลาย ประกอบด้วยรูปภาพ 31,783 รูป แต่ละรูปมีคำบรรยายภาษาอังกฤษ 5 ประโยคที่อธิบายเนื้อหาภาพ ชุดข้อมูลนี้เป็นทรัพยากรพื้นฐานสำคัญสำหรับการเรียนรู้ข้ามรูปแบบระหว่างภาพและข้อความ

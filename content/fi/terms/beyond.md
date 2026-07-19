@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /fi/terms/beyond/
 date: "2026-07-18T15:23:36.545048Z"
 lastmod: "2026-07-18T17:15:09.346969Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käsitteellinen termi, joka viittaa edistymiseen tai sovelluksiin, jotka ylittävät nykyiset teknologiset rajat tai tekoälyn perinteiset rajapinnat."
 ---
-
 ## Definition
 
 Tekoälyterminologiassa 'beyond' (ylittävä) kuvaa usein nousevia paradigmoja tai tulevaisuuden suuntia, jotka ylittävät nykyiset kyvyt, kuten tekoälyn yleisen älykkyyden (AGI) tai kvanttiteknologian yhdistelmät nykytekniikan kanssa.

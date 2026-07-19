@@ -1,23 +1,22 @@
 ---
-title: "开放"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: 开放
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /zh/terms/open/
-date: "2026-07-18T10:53:38.815278Z"
-lastmod: "2026-07-18T11:44:45.380006Z"
+slug: open
+date: '2026-07-18T10:53:38.815278Z'
+lastmod: '2026-07-18T11:44:45.380006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "在人工智能领域，“开放”通常指开源模型或缺乏预定义约束及完整解空间的开放式任务。"
+source: agnes_llm
+status: published
+language: zh
+description: 在人工智能领域，“开放”通常指开源模型或缺乏预定义约束及完整解空间的开放式任务。
 ---
-
 ## Definition
 
 在人工智能语境中，“开放”一词通常描述两个不同的领域：一是开源软件，即模型权重和代码公开可用，允许进行修改；二是开放式问题（open-ended problems），这类问题没有固定的边界或预设的解决方案空间。

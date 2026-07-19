@@ -1,23 +1,23 @@
 ---
-title: "事前学習（プレトレーニング）"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: 事前学習（プレトレーニング）
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /ja/terms/pre_training/
-date: "2026-07-18T10:53:53.758835Z"
-lastmod: "2026-07-18T11:44:45.016419Z"
+slug: pre_training
+date: '2026-07-18T10:53:53.758835Z'
+lastmod: '2026-07-18T11:44:45.016419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "特定のタスクにファインチューニングする前に、大規模なラベルなしデータセット上で機械学習モデルを初期段階から訓練すること。"
+source: agnes_llm
+status: published
+language: ja
+description: 特定のタスクにファインチューニングする前に、大規模なラベルなしデータセット上で機械学習モデルを初期段階から訓練すること。
 ---
-
 ## Definition
 
 事前学習は、深層学習における基礎的な技法であり、モデルがラベルのない大量のデータから広範な特徴やパターンを学習するプロセスです。これにより、モデルは汎用的な表現を獲得し、後続の特定のタスクに対してより効率的かつ高精度に微調整（ファインチューニング）することが可能になります。

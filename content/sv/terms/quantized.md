@@ -1,23 +1,24 @@
 ---
-title: "Kvantiserad"
-term_id: "quantized"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "model_deployment", "efficiency"]
+title: Kvantiserad
+term_id: quantized
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Model Deployment
+- efficiency
 difficulty: 4
 weight: 1
-slug: "quantized"
-aliases:
-  - /sv/terms/quantized/
-date: "2026-07-18T16:15:50.283375Z"
-lastmod: "2026-07-18T17:15:09.040581Z"
+slug: quantized
+date: '2026-07-18T16:15:50.283375Z'
+lastmod: '2026-07-18T17:15:09.040581Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Kvantiserad avser neuronnätverksmodeller där vikter och aktiveringar representeras med lägre precisionstal för att minska storlek och latens."
+source: agnes_llm
+status: published
+language: sv
+description: Kvantiserad avser neuronnätverksmodeller där vikter och aktiveringar
+  representeras med lägre precisionstal för att minska storlek och latens.
 ---
-
 ## Definition
 
 Kvantisering är en teknik för modelloptimering som minskar den numeriska precisionen hos parametrarna i en maskininlärningsmodell, vanligtvis genom att konvertera 32-bitars flyttal till 8-bitars heltal. Detta leder till minskat minnesutrymme och snabbare beräkningstider utan att nämnvärt försämra modellprestandan.

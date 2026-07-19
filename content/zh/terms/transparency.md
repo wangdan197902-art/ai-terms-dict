@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /zh/terms/transparency/
 date: "2026-07-18T11:02:15.411443Z"
 lastmod: "2026-07-18T11:44:45.417587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI系统的决策过程、数据来源和局限性向用户开放且可理解的程度。"
 ---
-
 ## Definition
 
 透明度确保利益相关者能够理解AI模型如何得出其输出，从而培养信任和问责制。它涉及披露训练数据起源、模型架构和

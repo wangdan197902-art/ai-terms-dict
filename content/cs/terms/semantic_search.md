@@ -1,23 +1,24 @@
 ---
-title: "Sémantické vyhledávání"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: Sémantické vyhledávání
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /cs/terms/semantic_search/
-date: "2026-07-18T15:38:35.855359Z"
-lastmod: "2026-07-18T17:15:09.093775Z"
+slug: semantic_search
+date: '2026-07-18T15:38:35.855359Z'
+lastmod: '2026-07-18T17:15:09.093775Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Vyhledávací technologie, která chápe význam termínů dotazu, nikoliv pouze jejich doslovnou shodu."
+source: agnes_llm
+status: published
+language: cs
+description: Vyhledávací technologie, která chápe význam termínů dotazu, nikoliv pouze
+  jejich doslovnou shodu.
 ---
-
 ## Definition
 
 Sémantické vyhledávání interpretuje záměr a kontextuální význam dotazu, jde nad rámec jednoduché shody klíčových slov. Používá vektorové vložení (embeddings) k reprezentaci textu jako vektorů v vysokorozměrném prostoru, což umožňuje nalezení relevantních výsledků na základě významu a kontextu, i když se přesná slova neshodují.

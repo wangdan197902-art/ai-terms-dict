@@ -1,23 +1,24 @@
 ---
-title: "Οπτική Μηχανής"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: Οπτική Μηχανής
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /el/terms/computer_vision/
-date: "2026-07-18T15:22:55.010820Z"
-lastmod: "2026-07-18T17:15:09.838485Z"
+slug: computer_vision
+date: '2026-07-18T15:22:55.010820Z'
+lastmod: '2026-07-18T17:15:09.838485Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας κλάδος της τεχνητής νοημοσύνης που επιτρέπει στους υπολογιστές να εξαγάγουν νόημα από ψηφιακές εικόνες, βίντεο και άλλα οπτικά δεδομένα εισόδου."
+source: agnes_llm
+status: published
+language: el
+description: Ένας κλάδος της τεχνητής νοημοσύνης που επιτρέπει στους υπολογιστές να
+  εξαγάγουν νόημα από ψηφιακές εικόνες, βίντεο και άλλα οπτικά δεδομένα εισόδου.
 ---
-
 ## Definition
 
 Η οπτική μηχανής εστιάζει στην αναπαραγωγή των ανθρώπινων οπτικών ικανοτήτων μέσω υπολογιστικών διαδικασιών. Περιλαμβάνει την ανάλυση και ερμηνεία οπτικών δεδομένων για τον εντοπισμό αντικειμένων, την αναγνώριση μοτίβων και την κατανόηση οπτικών σκηνών.

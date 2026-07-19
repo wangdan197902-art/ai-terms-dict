@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /pt/terms/circuit/
 date: "2026-07-18T14:52:50.298436Z"
 lastmod: "2026-07-18T15:51:59.470963Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um circuito refere-se à infraestrutura de hardware físico, incluindo chips e interconexões, que executa tarefas computacionais."
 ---
-
 ## Definition
 
 No contexto da IA, um circuito geralmente denota a arquitetura de hardware subjacente, como GPUs, TPUs ou chips neuromórficos, projetados para acelerar operações matriciais e processamento paralelo. Esses

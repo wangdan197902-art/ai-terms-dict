@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /id/terms/qwen3_5/
-date: "2026-07-18T16:06:19.331695Z"
-lastmod: "2026-07-18T16:38:07.498794Z"
+slug: qwen3_5
+date: '2026-07-18T16:06:19.331695Z'
+lastmod: '2026-07-18T16:38:07.498794Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Qwen3 5 kemungkinan merujuk pada sub-versi atau varian spesifik dalam generasi ketiga dari seri model Qwen."
+source: agnes_llm
+status: published
+language: id
+description: Qwen3 5 kemungkinan merujuk pada sub-versi atau varian spesifik dalam
+  generasi ketiga dari seri model Qwen.
 ---
-
 ## Definition
 
 Qwen3 5 tampaknya menandakan titik pemeriksaan (checkpoint), varian ukuran, atau rilis khusus tertentu dalam generasi Qwen3 yang lebih luas. Meskipun spesifikasi pastinya mungkin bervariasi, hal ini umumnya menyiratkan evolusi dari versi sebelumnya.

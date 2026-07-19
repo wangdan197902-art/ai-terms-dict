@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /no/terms/natural_language_processing/
 date: "2026-07-18T15:28:15.894258Z"
 lastmod: "2026-07-18T16:38:06.941980Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En gren av kunstig intelligens som fokuserer på å gi datamaskiner evnen til å forstå, tolke og generere menneskelig språk."
 ---
-
 ## Definition
 
 Naturlig språkbehandling (NLP) er et underfelt av kunstig intelligens som kombinerer beregningslingvistikk med statistiske, maskinlærings- og dyp læringsmodeller. Det muliggjør at maskiner kan forstå og behandle menneskelig språk.

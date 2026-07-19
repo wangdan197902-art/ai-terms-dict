@@ -1,23 +1,24 @@
 ---
-title: "черный ящик"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: черный ящик
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /ru/terms/black_box/
-date: "2026-07-18T15:30:51.465453Z"
-lastmod: "2026-07-18T16:38:07.093820Z"
+slug: black_box
+date: '2026-07-18T15:30:51.465453Z'
+lastmod: '2026-07-18T16:38:07.093820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Система, внутренние механизмы которой скрыты, а наблюдаемы только входные и выходные данные."
+source: agnes_llm
+status: published
+language: ru
+description: Система, внутренние механизмы которой скрыты, а наблюдаемы только входные
+  и выходные данные.
 ---
-
 ## Definition
 
 В ИИ моделью типа «черный ящик» называют сложные системы, такие как глубокие нейронные сети, внутренняя логика принятия решений которых непрозрачна и трудна для интерпретации человеком. Хотя такие модели часто демонстрируют высокую точность...

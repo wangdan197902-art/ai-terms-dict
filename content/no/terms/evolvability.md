@@ -1,23 +1,24 @@
 ---
-title: "Evoluerbarhet"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Evoluerbarhet
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /no/terms/evolvability/
-date: "2026-07-18T15:53:44.793671Z"
-lastmod: "2026-07-18T16:38:06.998822Z"
+slug: evolvability
+date: '2026-07-18T15:53:44.793671Z'
+lastmod: '2026-07-18T16:38:06.998822Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Kapasiteten til en genotype eller et system til å generere arvelig fenotypisk variasjon som kan velges til tilpasning."
+source: agnes_llm
+status: published
+language: 'no'
+description: Kapasiteten til en genotype eller et system til å generere arvelig fenotypisk
+  variasjon som kan velges til tilpasning.
 ---
-
 ## Definition
 
 I datamessige sammenhenger refererer evolvbarhet til hvor lett en algoritme eller nevral nettverksarkitektur kan forbedre sin fitness over generasjoner eller treningssteg. Høy evolvbarhet impliserer at små endringer kan føre til betydelige forbedringer.

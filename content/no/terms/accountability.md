@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /no/terms/accountability/
 date: "2026-07-18T15:40:54.596759Z"
 lastmod: "2026-07-18T16:38:06.967740Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prinsippet om at utviklere og operatører av AI-systemer må kunne regnskapsføre for resultatene og effektene av disse systemene."
 ---
-
 ## Definition
 
 Ansvarlighet innen kunstig intelligens refererer til plikten til individer, organisasjoner og utviklere å ta ansvar for design, utplassering og konsekvenser av AI-teknologier.

@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /ar/terms/intelligent_agent/
 date: "2026-07-18T16:03:37.503023Z"
 lastmod: "2026-07-18T17:15:08.516807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "كيان برمجية مستقل يدرك بيئته، ويعقلن حول الإجراءات، وينفذ المهام لتحقيق أهداف محددة."
 ---
-
 ## Definition
 
 الوكيل الذكي هو نظام قادر على إدراك محيطه من خلال أجهزة الاستشعار أو مدخلات البيانات، ومعالجة هذه المعلومات باستخدام خوارزميات الاستدلال، والتصرف في البيئة عبر المشغلات...

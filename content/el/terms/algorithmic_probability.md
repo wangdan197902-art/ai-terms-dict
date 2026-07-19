@@ -1,23 +1,24 @@
 ---
-title: "Αλγοριθμική Πιθανότητα"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Αλγοριθμική Πιθανότητα
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /el/terms/algorithmic_probability/
-date: "2026-07-18T15:50:08.203984Z"
-lastmod: "2026-07-18T17:15:09.878383Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:50:08.203984Z'
+lastmod: '2026-07-18T17:15:09.878383Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια θεωρητική μέτρηση της πιθανότητας ένα τυχαίο πρόγραμμα να παράγει ένα συγκεκριμένο συμβολοσειρά εξόδου."
+source: agnes_llm
+status: published
+language: el
+description: Μια θεωρητική μέτρηση της πιθανότητας ένα τυχαίο πρόγραμμα να παράγει
+  ένα συγκεκριμένο συμβολοσειρά εξόδου.
 ---
-
 ## Definition
 
 Η αλγοριθμική πιθανότητα, ριζωμένη στην πολυπλοκότητα Kolmogorov και την επαγωγή Solomonoff, αποδίδει υψηλότερη πιθανότητα σε εξόδους που παράγονται από συντομότερα προγράμματα. Υποστηρίζει ότι οι απλούστερες εξηγήσεις είναι πιο πιθανές.

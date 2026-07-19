@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /it/terms/recursive_self_improvement/
 date: "2026-07-18T16:18:55.432726Z"
 lastmod: "2026-07-18T17:15:08.664477Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un processo mediante il quale un sistema di intelligenza artificiale migliora iterativamente la propria intelligenza o le proprie capacità attraverso l'auto-modifica."
 ---
-
 ## Definition
 
 Il miglioramento ricorsivo di sé si riferisce alla capacità teorica di un sistema di intelligenza artificiale di riscrivere il proprio codice sorgente o architettura per diventare più intelligente, efficiente o capace.

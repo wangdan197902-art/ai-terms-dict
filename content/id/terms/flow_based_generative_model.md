@@ -7,8 +7,6 @@ tags: ["generative", "probability", "invertible"]
 difficulty: 4
 weight: 1
 slug: "flow_based_generative_model"
-aliases:
-  - /id/terms/flow_based_generative_model/
 date: "2026-07-18T15:50:55.174460Z"
 lastmod: "2026-07-18T16:38:07.458922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kelas model generatif yang menggunakan transformasi inversibel untuk memetakan distribusi sederhana ke distribusi data yang kompleks."
 ---
-
 ## Definition
 
 Model generatif berbasis aliran membangun distribusi probabilitas kompleks dengan menerapkan serangkaian transformasi inversibel dan dapat diturunkan pada distribusi dasar yang sederhana, seperti Gaussian. Karena transformasinya inversibel, model ini memungkinkan perhitungan likelihood eksak.

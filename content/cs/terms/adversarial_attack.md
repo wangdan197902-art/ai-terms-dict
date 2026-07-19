@@ -1,23 +1,25 @@
 ---
-title: "Adverzální útok"
-term_id: "adversarial_attack"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "deep_learning", "vulnerability"]
+title: Adverzální útok
+term_id: adversarial_attack
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- Deep Learning
+- vulnerability
 difficulty: 4
 weight: 1
-slug: "adversarial_attack"
-aliases:
-  - /cs/terms/adversarial_attack/
-date: "2026-07-18T15:40:56.095319Z"
-lastmod: "2026-07-18T17:15:09.099393Z"
+slug: adversarial_attack
+date: '2026-07-18T15:40:56.095319Z'
+lastmod: '2026-07-18T17:15:09.099393Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Adverzální útok je technika, při které jsou k vstupním datům přidány malé, často nepostřehnutelné poruchy, aby bylo strojové učení zklamáno a vedlo k nesprávným předpovědím."
+source: agnes_llm
+status: published
+language: cs
+description: Adverzální útok je technika, při které jsou k vstupním datům přidány
+  malé, často nepostřehnutelné poruchy, aby bylo strojové učení zklamáno a vedlo k
+  nesprávným předpovědím.
 ---
-
 ## Definition
 
 Adverzální útoky využívají zranitelnosti neuronových sítí zavedením jemného šumu do vstupů, jako jsou obrázky nebo text, což způsobuje významné chyby ve výstupu modelu. Tyto útoky zvýrazňují slabiny modelů v reakci na mírné změny vstupních dat.

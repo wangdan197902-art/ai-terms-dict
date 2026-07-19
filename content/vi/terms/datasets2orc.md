@@ -7,8 +7,6 @@ tags: ["Academic", "NLP", "Datasets", "Bibliometrics"]
 difficulty: 3
 weight: 1
 slug: "datasets2orc"
-aliases:
-  - /vi/terms/datasets2orc/
 date: "2026-07-18T15:48:16.446641Z"
 lastmod: "2026-07-18T16:38:07.745764Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Semantic Scholar Open Research Corpus, một bộ dữ liệu quy mô lớn về các bài báo học thuật kèm theo siêu dữ liệu có cấu trúc và mạng lưới trích dẫn."
 ---
-
 ## Definition
 
 S2ORC là một kho lưu trữ toàn diện các bài báo khoa học được trích xuất từ Semantic Scholar. Nó bao gồm nội dung đầy đủ, siêu dữ liệu và các mối quan hệ trích dẫn cho hàng triệu bài báo trên nhiều lĩnh vực khoa học khác nhau...

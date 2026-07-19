@@ -1,23 +1,24 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /pt/terms/frontiermath/
-date: "2026-07-18T15:00:39.109334Z"
-lastmod: "2026-07-18T15:51:59.492481Z"
+slug: frontiermath
+date: '2026-07-18T15:00:39.109334Z'
+lastmod: '2026-07-18T15:51:59.492481Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um conjunto de dados de benchmark projetado para avaliar as capacidades avançadas de raciocínio matemático de modelos de IA de última geração."
+source: agnes_llm
+status: published
+language: pt
+description: Um conjunto de dados de benchmark projetado para avaliar as capacidades
+  avançadas de raciocínio matemático de modelos de IA de última geração.
 ---
-
 ## Definition
 
 O FrontierMath é um conjunto especializado de avaliação criado para testar os limites dos grandes modelos de linguagem na resolução complexa de problemas matemáticos. Diferente dos benchmarks aritméticos padrão, foca em raciocínio de alto nível.

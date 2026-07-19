@@ -1,23 +1,24 @@
 ---
-title: "Recuperare"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Recuperare
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /ro/terms/retrieval/
-date: "2026-07-18T15:38:03.240151Z"
-lastmod: "2026-07-18T17:15:09.618513Z"
+slug: retrieval
+date: '2026-07-18T15:38:03.240151Z'
+lastmod: '2026-07-18T17:15:09.618513Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul de preluare a datelor relevante dintr-o bază de date sau bază de cunoștințe pentru a îmbogăți intrările modelului."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul de preluare a datelor relevante dintr-o bază de date sau bază
+  de cunoștințe pentru a îmbogăți intrările modelului.
 ---
-
 ## Definition
 
 Recuperarea se referă la procesul tehnic de căutare și extragere a informațiilor specifice din seturi mari de date sau baze externe de cunoștințe, pe baza interogărilor utilizatorului sau a contextului. În sistemele moderne de inteligență artificială, aceasta este

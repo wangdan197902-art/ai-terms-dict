@@ -1,23 +1,23 @@
 ---
-title: "ดีปเฟค (Deepfake)"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: ดีปเฟค (Deepfake)
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /th/terms/deepfake/
-date: "2026-07-18T15:35:09.155636Z"
-lastmod: "2026-07-18T16:38:07.559651Z"
+slug: deepfake
+date: '2026-07-18T15:35:09.155636Z'
+lastmod: '2026-07-18T16:38:07.559651Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สื่อสังเคราะห์ที่ใบหน้าหรือลักษณะของบุคคลหนึ่งถูกแทนที่ด้วยอีกบุคคลหนึ่งโดยใช้เทคนิคปัญญาประดิษฐ์และการเรียนรู้เชิงลึก"
+source: agnes_llm
+status: published
+language: th
+description: สื่อสังเคราะห์ที่ใบหน้าหรือลักษณะของบุคคลหนึ่งถูกแทนที่ด้วยอีกบุคคลหนึ่งโดยใช้เทคนิคปัญญาประดิษฐ์และการเรียนรู้เชิงลึก
 ---
-
 ## Definition
 
 ดีปเฟคคือการแก้ไขเสียงหรือวิดีโอที่สมจริงอย่างยิ่งซึ่งสร้างขึ้นโดยใช้เครือข่ายปฏิปักษ์เชิงกำเนิด (GANs) หรือออโตเอ็นโคเดอร์ สิ่งเหล่านี้ก่อให้เกิดข้อกังวลด้านจริยธรรมที่สำคัญเกี่ยวกับข้อมูลเท็จและความเป็นส่วนตัว

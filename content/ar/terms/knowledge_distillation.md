@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /ar/terms/knowledge_distillation/
 date: "2026-07-18T16:04:23.054370Z"
 lastmod: "2026-07-18T17:15:08.518978Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقطيع المعرفة هو تقنية لضغط النموذج حيث يتعلم نموذج أصغر (طالب) محاكاة سلوك نموذج أكبر (معلّم)."
 ---
-
 ## Definition
 
 تقطيع المعرفة هو طريقة في تعلم الآلة تُستخدم لضغط شبكة عصبية كبيرة ومعقدة (المعلّم) إلى شبكة أصغر وأكثر كفاءة (الطالب). يتم تدريب نموذج الطالب لمحاكاة مخرجات النموذج الأكبر.

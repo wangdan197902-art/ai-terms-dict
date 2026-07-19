@@ -1,23 +1,24 @@
 ---
-title: "Ενσωμάτωση στο IDE"
-term_id: "ide_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["software_engineering", "productivity"]
+title: Ενσωμάτωση στο IDE
+term_id: ide_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- Software Engineering
+- productivity
 difficulty: 2
 weight: 1
-slug: "ide_integration"
-aliases:
-  - /el/terms/ide_integration/
-date: "2026-07-18T16:13:43.279442Z"
-lastmod: "2026-07-18T17:15:09.918801Z"
+slug: ide_integration
+date: '2026-07-18T16:13:43.279442Z'
+lastmod: '2026-07-18T17:15:09.918801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η ενσωμάτωση στο IDE αναφέρεται στην ενσωμάτωση εργαλείων με τεχνητή νοημοσύνη απευθείας σε Περιβάλλοντα Ανεπτυξιακών Εφαρμογών για την υποστήριξη προγραμματιστών στις εργασίες κωδικοποίησης."
+source: agnes_llm
+status: published
+language: el
+description: Η ενσωμάτωση στο IDE αναφέρεται στην ενσωμάτωση εργαλείων με τεχνητή
+  νοημοσύνη απευθείας σε Περιβάλλοντα Ανεπτυξιακών Εφαρμογών για την υποστήριξη προγραμματιστών
+  στις εργασίες κωδικοποίησης.
 ---
-
 ## Definition
 
 Αυτή η πρακτική περιλαμβάνει τη σύνδεση μοντέλων τεχνητής νοημοσύνης, όπως τα Μοντέλα Γλώσσας Μεγάλου Μεγέθους (LLMs), με περιβάλλοντα ανάπτυξης λογισμικού όπως το VS Code ή το IntelliJ. Επιτρέπει χαρακτηριστικά όπως η έξυπνη συμπλήρωση κώδικα, η αυτοματο...

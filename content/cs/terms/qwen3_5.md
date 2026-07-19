@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /cs/terms/qwen3_5/
-date: "2026-07-18T16:14:39.187844Z"
-lastmod: "2026-07-18T17:15:09.194875Z"
+slug: qwen3_5
+date: '2026-07-18T16:14:39.187844Z'
+lastmod: '2026-07-18T17:15:09.194875Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Qwen3 5 pravděpodobně odkazuje na konkrétní podverzi nebo variantu ve třetí generaci série modelů Qwen."
+source: agnes_llm
+status: published
+language: cs
+description: Qwen3 5 pravděpodobně odkazuje na konkrétní podverzi nebo variantu ve
+  třetí generaci série modelů Qwen.
 ---
-
 ## Definition
 
 Qwen3 5 zdánlivě označuje konkrétní kontrolní bod, variantu velikosti nebo specializované vydání v rámci širší generace Qwen3. Ačkoli se přesné specifikace mohou lišit, obecně implikuje evoluci oproti předchozím verzím, často s důrazem na efektivitu parametrů nebo specifické optimalizace.

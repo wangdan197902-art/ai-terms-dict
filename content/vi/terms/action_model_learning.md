@@ -1,23 +1,24 @@
 ---
-title: "Học mô hình hành động"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Học mô hình hành động
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /vi/terms/action_model_learning/
-date: "2026-07-18T15:39:21.625774Z"
-lastmod: "2026-07-18T16:38:07.724310Z"
+slug: action_model_learning
+date: '2026-07-18T15:39:21.625774Z'
+lastmod: '2026-07-18T16:38:07.724310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật học tăng cường nơi một tác nhân học được động lực của môi trường bằng cách quan sát các hiệu ứng từ chính các hành động của nó."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật học tăng cường nơi một tác nhân học được động lực của môi
+  trường bằng cách quan sát các hiệu ứng từ chính các hành động của nó.
 ---
-
 ## Definition
 
 Học mô hình hành động liên quan đến việc một tác nhân xây dựng biểu diễn nội bộ về cách các hành động của nó chuyển đổi môi trường từ trạng thái này sang trạng thái khác. Khác với quan bị động, phương pháp này tận dụng

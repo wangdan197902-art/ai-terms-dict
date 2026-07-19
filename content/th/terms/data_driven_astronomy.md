@@ -1,23 +1,23 @@
 ---
-title: "ดาราศาสตร์ขับเคลื่อนด้วยข้อมูล"
-term_id: "data_driven_astronomy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["domain_specific", "physics", "big_data"]
+title: ดาราศาสตร์ขับเคลื่อนด้วยข้อมูล
+term_id: data_driven_astronomy
+category: basic_concepts
+subcategory: ''
+tags:
+- Domain Specific
+- physics
+- Big Data
 difficulty: 4
 weight: 1
-slug: "data_driven_astronomy"
-aliases:
-  - /th/terms/data_driven_astronomy/
-date: "2026-07-18T15:47:50.493153Z"
-lastmod: "2026-07-18T16:38:07.592345Z"
+slug: data_driven_astronomy
+date: '2026-07-18T15:47:50.493153Z'
+lastmod: '2026-07-18T16:38:07.592345Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การประยุกต์ใช้การวิเคราะห์ข้อมูลขนาดใหญ่และเทคนิคการเรียนรู้ของเครื่องเพื่อสกัดข้อมูลเชิงลึกจากการสังเกตการณ์ทางดาราศาสตร์"
+source: agnes_llm
+status: published
+language: th
+description: การประยุกต์ใช้การวิเคราะห์ข้อมูลขนาดใหญ่และเทคนิคการเรียนรู้ของเครื่องเพื่อสกัดข้อมูลเชิงลึกจากการสังเกตการณ์ทางดาราศาสตร์
 ---
-
 ## Definition
 
 ดาราศาสตร์ขับเคลื่อนด้วยข้อมูล (Data-driven Astronomy) ใช้วิธีการคำนวณขั้นสูง รวมถึงการเรียนรู้ของเครื่องและการวิเคราะห์ทางสถิติ เพื่อจัดการกับปริมาณข้อมูลมหาศาลที่เกิดจากกล้องโทรทรรศน์สมัยใหม่และการสำรวจท้องฟ้า วิธีการนี้ช่วยให้นักดาราศาสตร์สามารถประมวลผลและตีความข้อมูลเชิงสังเกตการณ์ที่มีความซับซ้อนและปริมาณมากได้อย่างมีประสิทธิภาพ

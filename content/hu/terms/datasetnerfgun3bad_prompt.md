@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /hu/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:55:03.106359Z"
 lastmod: "2026-07-18T17:15:09.770817Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy niche adatbázis, amely valószínűleg adverszáris, alacsony minőségű vagy szándékosan hibás promptokat tartalmaz a modellek robusztusságának tesztelésére vagy a zajos bemenetek szűrésére."
 ---
-
 ## Definition
 
 Ez a kifejezés egy specifikus, a Hugging Face platformon a 'Nerfgun3' felhasználó által üzemeltetett adattárolóra utal, 'Bad Prompt' címmel. Bár nem szabványos benchmark, az ilyen adatbázisokat gyakran a modellek robusztusságának vizsgálatára használják.

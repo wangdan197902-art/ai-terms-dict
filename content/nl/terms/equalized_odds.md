@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /nl/terms/equalized_odds/
 date: "2026-07-18T15:54:18.101680Z"
 lastmod: "2026-07-18T17:15:08.742656Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een rechtvaardigheidsmetric die vereist dat de waarnemende positieve en vals-positieve percentages gelijk zijn over verschillende demografische groepen."
 ---
-
 ## Definition
 
 Gelijkwaardige kansen is een statistische pariteitsbeperking die wordt gebruikt in algoritmische rechtvaardigheid om ervoor te zorgen dat een model even goed presteert voor alle beschermde groepen. Specifiek vereist dit dat de kans op een juiste positieve voorspelling en een valse positieve voorspelling onafhankelijk is van het gevoelige kenmerk.

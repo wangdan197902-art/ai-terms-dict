@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /tr/terms/personoid/
 date: "2026-07-18T16:08:32.152876Z"
 lastmod: "2026-07-18T16:38:07.347604Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Doğal etkileşimi kolaylaştırmak amacıyla insanın fiziksel görünümünü veya konuşma tarzını taklit etmek üzere tasarlanmış bir humanoid robot veya yazılım ajanı."
 ---
-
 ## Definition
 
 Bir personoid, robotik veya sanal bir varlık olup insana benzeyen veya davranan bir yapıdır. Robotikte bu, fiziksel antropomorfizm anlamına gelirken, yapay zekada genellikle sohbet botları veya sanal asistanlar gibi dijital varlıkları ifade eder.

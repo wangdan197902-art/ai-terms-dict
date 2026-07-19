@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /hu/terms/computational_humor/
 date: "2026-07-18T15:50:43.787142Z"
 lastmod: "2026-07-18T17:15:09.764072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI egyik aldiszciplínája, amely a számítási módszerek segítségével humoros tartalom generálására, megértésére és értékelésére fókuszál."
 ---
-
 ## Definition
 
 A számítási humor azt tanulmányozza, hogyan képesek a gépek vicceket, játékszavakat és szellemes megjegyzéseket előállítani vagy értelmezni. Általában a természetes nyelvfeldolgozásra támaszkodik a inkonzisztenciák, szemantikai eltolódások vagy váratlan fordulatok felismeréséhez.

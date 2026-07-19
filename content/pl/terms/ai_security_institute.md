@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /pl/terms/ai_security_institute/
 date: "2026-07-18T15:37:48.840958Z"
 lastmod: "2026-07-18T17:15:08.839201Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Organizacja poświęcona badaniom, rozwojowi i promowaniu najlepszych praktyk w zakresie zabezpieczania systemów sztucznej inteligencji."
 ---
-
 ## Definition
 
 Instytut Bezpieczeństwa AI to wyspecjalizowana jednostka skupiona na minimalizacji ryzyka związanego z technologiami sztucznej inteligencji. Instytuty te prowadzą badania nad atakami adversarialnymi, prywatnością danych oraz etyką, dążąc do stworzenia bezpiecznych ram dla wdrażania AI.

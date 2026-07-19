@@ -7,8 +7,6 @@ tags: ["Library", "Software Engineering", "HuggingFace"]
 difficulty: 3
 weight: 1
 slug: "model_hub_mixin"
-aliases:
-  - /ja/terms/model_hub_mixin/
 date: "2026-07-18T11:24:16.403894Z"
 lastmod: "2026-07-18T11:44:45.123607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "モデルハブミックスインとは、Hugging Face Transformersモデルに標準化された機能を追加するための再利用可能なクラスコンポーネントです。"
 ---
-
 ## Definition
 
 ミックスインは、各モデルアーキテクチャがこれらのユーティリティを個別に実装する必要 없이、保存、読み込み、Hugging Face Hubへのアップロードなどの共通メソッドを提供します。これにより一貫性が確保されます

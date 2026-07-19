@@ -1,23 +1,24 @@
 ---
-title: "Modello credenza-desiderio-intenzione"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Modello credenza-desiderio-intenzione
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /it/terms/beliefdesireintention_model/
-date: "2026-07-18T15:50:04.233163Z"
-lastmod: "2026-07-18T17:15:08.603484Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:50:04.233163Z'
+lastmod: '2026-07-18T17:15:08.603484Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un quadro filosofico utilizzato nell'IA per modellare agenti razionali basati sulle loro credenze, desideri e intenzioni."
+source: agnes_llm
+status: published
+language: it
+description: Un quadro filosofico utilizzato nell'IA per modellare agenti razionali
+  basati sulle loro credenze, desideri e intenzioni.
 ---
-
 ## Definition
 
 Il modello Credenza-Desiderio-Intenzione (BDI) è un'architettura cognitiva per la progettazione di agenti autonomi che prendono decisioni razionali. Le credenze rappresentano la conoscenza dell'agente sul mondo, i desideri sono gli obiettivi che l'agente vuole raggiungere e le intenzioni sono i piani specifici che l'agente si impegna a eseguire per realizzare tali desideri, gestendo conflitti e cambiamenti nell'ambiente.

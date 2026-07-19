@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /fi/terms/self_management/
 date: "2026-07-18T16:19:41.202019Z"
 lastmod: "2026-07-18T17:15:09.457931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "AI:n itsehallinta viittaa autonomisten järjestelmien kykyyn valvoa, optimoida ja korjata omia toimintojaan ilman ihmisen väliintuloa."
 ---
-
 ## Definition
 
 Tämä käsite kattaa AI-agenttien tai järjestelmien kyvyn hoitaa rutiininomaista ylläpitoa, resurssien jakoa ja virheiden korjaamista itsenäisesti. Se sisältää ominaisuuksia kuten automaattisen skaalautumisen ja itseparantumisen.

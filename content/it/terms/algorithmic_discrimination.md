@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /it/terms/algorithmic_discrimination/
 date: "2026-07-18T15:46:07.760106Z"
 lastmod: "2026-07-18T17:15:08.596721Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La discriminazione algoritmica si verifica quando i sistemi automatizzati producono risultati ingiusti o distorti che svantaggiano gruppi specifici basati su caratteristiche protette."
 ---
-
 ## Definition
 
 Questo fenomeno sorge quando i modelli di IA trattano involontariamente o sistematicamente gli individui in modo diverso a causa di razza, genere, età o altri attributi sensibili. Spesso deriva da dati di addestramento distorti o da pregiudizi incorporati negli algoritmi.

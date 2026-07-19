@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /id/terms/k_line/
 date: "2026-07-18T15:56:36.565604Z"
 lastmod: "2026-07-18T16:38:07.472802Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Jenis grafik keuangan, juga dikenal sebagai grafik candlestick, yang digunakan untuk memvisualisasikan pergerakan harga selama interval waktu tertentu."
 ---
-
 ## Definition
 
 K-line, yang umum disebut sebagai grafik candlestick di pasar Barat, adalah representasi grafis dari dinamika harga untuk sekuritas, derivatif, atau mata uang. Grafik ini menampilkan empat poin data kunci: harga
